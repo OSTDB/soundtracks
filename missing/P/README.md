@@ -4896,6 +4896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photogeist | 307693 | [307693-photogeist.json](./307693-photogeist.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
 | Photogeist Albums: Stayfer River Saga | 379414 | [379414-photogeist-albums-stayfer-river-saga.json](./379414-photogeist-albums-stayfer-river-saga.json) |
+| Photogenic | 283558 | [283558-photogenic.json](./283558-photogenic.json) |
 | Photogenic Minds: Identity | 213543 | [213543-photogenic-minds-identity.json](./213543-photogenic-minds-identity.json) |
 | Photographer's Life Simulator | 346716 | [346716-photographers-life-simulator.json](./346716-photographers-life-simulator.json) |
 | Photographic Memory Test | 308506 | [308506-photographic-memory-test.json](./308506-photographic-memory-test.json) |
@@ -9610,6 +9611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mini Ambulation | 392331 | [392331-pokemon-mini-ambulation.json](./392331-pokemon-mini-ambulation.json) |
 | Pokémon Mini: Snorlax's Lunch Time | 144721 | [144721-pokemon-mini-snorlaxs-lunch-time.json](./144721-pokemon-mini-snorlaxs-lunch-time.json) |
 | Pokémon Mino | 265214 | [265214-pokemon-mino.json](./265214-pokemon-mino.json) |
+| Pokémon Modern Emerald | 283549 | [283549-pokemon-modern-emerald.json](./283549-pokemon-modern-emerald.json) |
 | Pokémon Moemon Emerald Version | 229058 | [229058-pokemon-moemon-emerald-version.json](./229058-pokemon-moemon-emerald-version.json) |
 | Pokémon Monomyth | 413611 | [413611-pokemon-monomyth.json](./413611-pokemon-monomyth.json) |
 | Pokémon Mystery Dungeon: Blue Rescue Team | 2320 | [2320-pokemon-mystery-dungeon-blue-rescue-team.json](./2320-pokemon-mystery-dungeon-blue-rescue-team.json) |
@@ -13855,6 +13857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Treasure | 94761 | [94761-project-treasure.json](./94761-project-treasure.json) |
 | Project Trek | 193941 | [193941-project-trek.json](./193941-project-trek.json) |
 | Project TurboBlast | 327357 | [327357-project-turboblast.json](./327357-project-turboblast.json) |
+| Project U | 283564 | [283564-project-u.json](./283564-project-u.json) |
 | Project U-Ta-Hi-Me | 133722 | [133722-project-u-ta-hi-me.json](./133722-project-u-ta-hi-me.json) |
 | Project Uber | 201235 | [201235-project-uber.json](./201235-project-uber.json) |
 | Project Ultra | 139143 | [139143-project-ultra.json](./139143-project-ultra.json) |
@@ -14308,6 +14311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proxima | 406840 | [406840-proxima.json](./406840-proxima.json) |
 | Proxima B | 391708 | [391708-proxima-b.json](./391708-proxima-b.json) |
 | Proximate | 282108 | [282108-proximate.json](./282108-proximate.json) |
+| Proximity Shift | 283795 | [283795-proximity-shift.json](./283795-proximity-shift.json) |
 | Proxy Adventure: Simulation Room | 346748 | [346748-proxy-adventure-simulation-room.json](./346748-proxy-adventure-simulation-room.json) |
 | Proxy Air Force | 133108 | [133108-proxy-air-force.json](./133108-proxy-air-force.json) |
 | Proxy Blade | 62825 | [62825-proxy-blade.json](./62825-proxy-blade.json) |
