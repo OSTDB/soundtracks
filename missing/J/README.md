@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J15 Fighter Jet VR | 103807 | [103807-j15-fighter-jet-vr.json](./103807-j15-fighter-jet-vr.json) |
 | J3ss1c4 | 265666 | [265666-j3ss1c4.json](./265666-j3ss1c4.json) |
 | J8 Hero | 370761 | [370761-j8-hero.json](./370761-j8-hero.json) |
+| J8 Princess Rhapsody | 316669 | [316669-j8-princess-rhapsody.json](./316669-j8-princess-rhapsody.json) |
 | Ja-in | 274206 | [274206-ja-in.json](./274206-ja-in.json) |
 | Ja'afar's nightmare | 281331 | [281331-jaafars-nightmare.json](./281331-jaafars-nightmare.json) |
 | Jabb | 379718 | [379718-jabb.json](./379718-jabb.json) |
