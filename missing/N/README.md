@@ -3873,6 +3873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightfall Terror: Trails of the Dead | 318558 | [318558-nightfall-terror-trails-of-the-dead.json](./318558-nightfall-terror-trails-of-the-dead.json) |
 | Nightfall Village | 386374 | [386374-nightfall-village.json](./386374-nightfall-village.json) |
 | Nightfall Wardens | 302194 | [302194-nightfall-wardens.json](./302194-nightfall-wardens.json) |
+| Nightfall Warriors | 283334 | [283334-nightfall-warriors.json](./283334-nightfall-warriors.json) |
 | NightFeed | 279461 | [279461-nightfeed.json](./279461-nightfeed.json) |
 | NightFell | 329671 | [329671-nightfell.json](./329671-nightfell.json) |
 | Nightfighter | 84263 | [84263-nightfighter.json](./84263-nightfighter.json) |
