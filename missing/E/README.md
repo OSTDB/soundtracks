@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Swap - Coloring Holiday | 90215 | [90215-easter-swap-coloring-holiday.json](./90215-easter-swap-coloring-holiday.json) |
 | Easteria | 105747 | [105747-easteria.json](./105747-easteria.json) |
 | Eastern Block Summer | 410735 | [410735-eastern-block-summer.json](./410735-eastern-block-summer.json) |
+| Eastern Cuisine Tycoon | 318947 | [318947-eastern-cuisine-tycoon.json](./318947-eastern-cuisine-tycoon.json) |
 | Eastern Dream | 414546 | [414546-eastern-dream.json](./414546-eastern-dream.json) |
 | Eastern Era | 374833 | [374833-eastern-era.json](./374833-eastern-era.json) |
 | Eastern Euro Truck Simulator: Real Offroad Car Driving Game Sim 4x4 Mud | 252574 | [252574-eastern-euro-truck-simulator-real-offroad-car-driving-game-sim-4x4-mud.json](./252574-eastern-euro-truck-simulator-real-offroad-car-driving-game-sim-4x4-mud.json) |
@@ -6778,6 +6779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extinction 1306 | 337164 | [337164-extinction-1306.json](./337164-extinction-1306.json) |
 | Extinction Day | 325552 | [325552-extinction-day.json](./325552-extinction-day.json) |
 | Extinction Eclipse | 201687 | [201687-extinction-eclipse.json](./201687-extinction-eclipse.json) |
+| Extinction Facility | 318953 | [318953-extinction-facility.json](./318953-extinction-facility.json) |
 | Extinction Level Event | 133760 | [133760-extinction-level-event.json](./133760-extinction-level-event.json) |
 | Extinction Rifts | 296724 | [296724-extinction-rifts.json](./296724-extinction-rifts.json) |
 | Extinction Squad | 61378 | [61378-extinction-squad.json](./61378-extinction-squad.json) |
