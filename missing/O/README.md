@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Flight | 424672 | [424672-one-more-flight.json](./424672-one-more-flight.json) |
 | One More Floor | 422706 | [422706-one-more-floor.json](./422706-one-more-floor.json) |
 | One more game | 152931 | [152931-one-more-game.json](./152931-one-more-game.json) |
+| One More Game | 311543 | [311543-one-more-game.json](./311543-one-more-game.json) |
 | One More Gate : A Wakfu Legend | 204689 | [204689-one-more-gate-a-wakfu-legend.json](./204689-one-more-gate-a-wakfu-legend.json) |
 | One More Gate: Companion#1 DLC | 289328 | [289328-one-more-gate-companion-1-dlc.json](./289328-one-more-gate-companion-1-dlc.json) |
 | One More Gate: Companion#2 DLC | 289329 | [289329-one-more-gate-companion-2-dlc.json](./289329-one-more-gate-companion-2-dlc.json) |
