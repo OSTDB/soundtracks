@@ -2886,6 +2886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Jetpack | 26720 | [26720-marble-jetpack.json](./26720-marble-jetpack.json) |
 | Marble Knights | 141143 | [141143-marble-knights.json](./141143-marble-knights.json) |
 | Marble Land | 74971 | [74971-marble-land.json](./74971-marble-land.json) |
+| Marble Launcher | 321292 | [321292-marble-launcher.json](./321292-marble-launcher.json) |
 | Marble Legends 3D Arcade | 106007 | [106007-marble-legends-3d-arcade.json](./106007-marble-legends-3d-arcade.json) |
 | Marble Machine | 58221 | [58221-marble-machine.json](./58221-marble-machine.json) |
 | Marble Madness | 198810 | [198810-marble-madness.json](./198810-marble-madness.json) |
@@ -3874,6 +3875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maru and her make-believe world | 166747 | [166747-maru-and-her-make-believe-world.json](./166747-maru-and-her-make-believe-world.json) |
 | Maru Expedition: We Can Fly | 357427 | [357427-maru-expedition-we-can-fly.json](./357427-maru-expedition-we-can-fly.json) |
 | Maru Goukaku: Shikaku Dasshu! IT Passport Shiken, Kihon Jouhou Gijutsusha Shiken, Ouyou Jouhou Gijutsusha Shiken | 269612 | [269612-maru-goukaku-shikaku-dasshu-it-passport-shiken-kihon-jouhou-gijutsusha-shiken-ouyou-jouhou-gijutsusha-shiken.json](./269612-maru-goukaku-shikaku-dasshu-it-passport-shiken-kihon-jouhou-gijutsusha-shiken-ouyou-jouhou-gijutsusha-shiken.json) |
+| Maru Kaite DonDon Oboeru: Kyoui no Tsugawa Shiki Kanji Kioku Jutsu - Kiso Gakushuu-hen | 321308 | [321308-maru-kaite-dondon-oboeru-kyoui-no-tsugawa-shiki-kanji-kioku-jutsu-kiso-gakushuu-hen.json](./321308-maru-kaite-dondon-oboeru-kyoui-no-tsugawa-shiki-kanji-kioku-jutsu-kiso-gakushuu-hen.json) |
 | Maru-chan de Guu! | 107597 | [107597-maru-chan-de-guu.json](./107597-maru-chan-de-guu.json) |
 | Maru's Mission | 49039 | [49039-marus-mission.json](./49039-marus-mission.json) |
 | Maruchi Akindo | 396190 | [396190-maruchi-akindo.json](./396190-maruchi-akindo.json) |
@@ -5537,6 +5539,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mean Streak | 41138 | [41138-mean-streak.json](./41138-mean-streak.json) |
 | Mean-While | 149329 | [149329-mean-while.json](./149329-mean-while.json) |
 | Meander | 108986 | [108986-meander.json](./108986-meander.json) |
+| Meander Forth | 321296 | [321296-meander-forth.json](./321296-meander-forth.json) |
+| Meander Forth: Teak's Tall Tale | 321297 | [321297-meander-forth-teaks-tall-tale.json](./321297-meander-forth-teaks-tall-tale.json) |
+| Meander Forth: Teak's Tall Tale Plus | 321298 | [321298-meander-forth-teaks-tall-tale-plus.json](./321298-meander-forth-teaks-tall-tale-plus.json) |
+| Meander Forth: Teak's Tall Tale Plus Plus | 321299 | [321299-meander-forth-teaks-tall-tale-plus-plus.json](./321299-meander-forth-teaks-tall-tale-plus-plus.json) |
 | Meander Land | 265703 | [265703-meander-land.json](./265703-meander-land.json) |
 | Meanderer | 217163 | [217163-meanderer.json](./217163-meanderer.json) |
 | Meandering Fiend | 126988 | [126988-meandering-fiend.json](./126988-meandering-fiend.json) |
@@ -6995,6 +7001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaman RPG | 263421 | [263421-megaman-rpg.json](./263421-megaman-rpg.json) |
 | Megaman Sprite Christmas | 172595 | [172595-megaman-sprite-christmas.json](./172595-megaman-sprite-christmas.json) |
 | Megaman Sprite Game | 119383 | [119383-megaman-sprite-game.json](./119383-megaman-sprite-game.json) |
+| MegaMan Star Force EndWave | 321303 | [321303-megaman-star-force-endwave.json](./321303-megaman-star-force-endwave.json) |
 | MegaMan Super Charged | 320359 | [320359-megaman-super-charged.json](./320359-megaman-super-charged.json) |
 | Megaman Triple Threat | 326813 | [326813-megaman-triple-threat.json](./326813-megaman-triple-threat.json) |
 | Megaman vs. Metroid | 338129 | [338129-megaman-vs-metroid.json](./338129-megaman-vs-metroid.json) |
