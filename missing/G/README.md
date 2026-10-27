@@ -2788,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Boxer | 98768 | [98768-geometry-boxer.json](./98768-geometry-boxer.json) |
 | Geometry Breakers | 369172 | [369172-geometry-breakers.json](./369172-geometry-breakers.json) |
 | Geometry Curling | 256132 | [256132-geometry-curling.json](./256132-geometry-curling.json) |
+| Geometry Dabs: Save the World | 309944 | [309944-geometry-dabs-save-the-world.json](./309944-geometry-dabs-save-the-world.json) |
 | Geometry Darkness | 104494 | [104494-geometry-darkness.json](./104494-geometry-darkness.json) |
 | Geometry Darkness 2.2 :D | 101984 | [101984-geometry-darkness-2-2-d.json](./101984-geometry-darkness-2-2-d.json) |
 | Geometry Dash Meltdown | 38693 | [38693-geometry-dash-meltdown.json](./38693-geometry-dash-meltdown.json) |
@@ -4429,6 +4430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glowfish | 10366 | [10366-glowfish.json](./10366-glowfish.json) |
 | Glowfish HD | 86697 | [86697-glowfish-hd.json](./86697-glowfish-hd.json) |
 | Glowgrass | 221941 | [221941-glowgrass.json](./221941-glowgrass.json) |
+| Glowie Rammer | 309929 | [309929-glowie-rammer.json](./309929-glowie-rammer.json) |
 | Glowie Shooter | 316404 | [316404-glowie-shooter.json](./316404-glowie-shooter.json) |
 | Glowing Cat | 112098 | [112098-glowing-cat.json](./112098-glowing-cat.json) |
 | Glowing Stones: Heroes' Awakening | 371019 | [371019-glowing-stones-heroes-awakening.json](./371019-glowing-stones-heroes-awakening.json) |
@@ -9627,6 +9629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gwent: Crimson Curse | 115776 | [115776-gwent-crimson-curse.json](./115776-gwent-crimson-curse.json) |
 | Gwent: Iron Judgment | 122661 | [122661-gwent-iron-judgment.json](./122661-gwent-iron-judgment.json) |
 | Gwent: Rogue Mage | 208307 | [208307-gwent-rogue-mage.json](./208307-gwent-rogue-mage.json) |
+| Gwihyang: Homecoming | 309941 | [309941-gwihyang-homecoming.json](./309941-gwihyang-homecoming.json) |
 | Gwimbly 2600 | 336477 | [336477-gwimbly-2600.json](./336477-gwimbly-2600.json) |
 | Gwiryungdan: Joseon's Twelve | 291361 | [291361-gwiryungdan-joseons-twelve.json](./291361-gwiryungdan-joseons-twelve.json) |
 | Gwonchong Sonyeo Kiugi | 234637 | [234637-gwonchong-sonyeo-kiugi.json](./234637-gwonchong-sonyeo-kiugi.json) |
