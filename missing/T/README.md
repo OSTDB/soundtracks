@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Yutaka G1 Memory | 37795 | [37795-take-yutaka-g1-memory.json](./37795-take-yutaka-g1-memory.json) |
 | Take-out Weight Curling | 70949 | [70949-take-out-weight-curling.json](./70949-take-out-weight-curling.json) |
 | Take-Out Weight Curling 2 | 206617 | [206617-take-out-weight-curling-2.json](./206617-take-out-weight-curling-2.json) |
+| Take-Out! DS Series 2: Nippon no Yachou Daizukan | 321306 | [321306-take-out-ds-series-2-nippon-no-yachou-daizukan.json](./321306-take-out-ds-series-2-nippon-no-yachou-daizukan.json) |
 | Take7 | 373339 | [373339-take7.json](./373339-take7.json) |
 | Takeda | 71714 | [71714-takeda.json](./71714-takeda.json) |
 | Takeda 2 | 67323 | [67323-takeda-2.json](./67323-takeda-2.json) |
@@ -8955,6 +8956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hauntings: Dark Passenger | 269986 | [269986-the-hauntings-dark-passenger.json](./269986-the-hauntings-dark-passenger.json) |
 | The Hauntings: Surveillance | 202367 | [202367-the-hauntings-surveillance.json](./202367-the-hauntings-surveillance.json) |
 | The Headlands | 389687 | [389687-the-headlands.json](./389687-the-headlands.json) |
+| The Headmaster | 321293 | [321293-the-headmaster.json](./321293-the-headmaster.json) |
 | The Headsman | 153412 | [153412-the-headsman.json](./153412-the-headsman.json) |
 | The Healer | 188865 | [188865-the-healer.json](./188865-the-healer.json) |
 | The Healing of Sisyphus | 362867 | [362867-the-healing-of-sisyphus.json](./362867-the-healing-of-sisyphus.json) |
@@ -15657,6 +15659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Useful Dead | 62830 | [62830-the-useful-dead.json](./62830-the-useful-dead.json) |
 | The Useless App | 322815 | [322815-the-useless-app.json](./322815-the-useless-app.json) |
 | The Usurper: The Mines Of Qyntarr | 15516 | [15516-the-usurper-the-mines-of-qyntarr.json](./15516-the-usurper-the-mines-of-qyntarr.json) |
+| The Uzujigoku Massacre | 321305 | [321305-the-uzujigoku-massacre.json](./321305-the-uzujigoku-massacre.json) |
 | The V Anomaly | 390539 | [390539-the-v-anomaly.json](./390539-the-v-anomaly.json) |
 | The Vagabond Emperor | 157459 | [157459-the-vagabond-emperor.json](./157459-the-vagabond-emperor.json) |
 | The Vagrant | 28738 | [28738-the-vagrant.json](./28738-the-vagrant.json) |
@@ -17333,6 +17336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threshold of Pain | 274219 | [274219-threshold-of-pain.json](./274219-threshold-of-pain.json) |
 | Threshold Sector | 305644 | [305644-threshold-sector.json](./305644-threshold-sector.json) |
 | Threshold Warden | 414794 | [414794-threshold-warden.json](./414794-threshold-warden.json) |
+| Thrice | 321323 | [321323-thrice.json](./321323-thrice.json) |
 | Thrice Cursed | 341987 | [341987-thrice-cursed.json](./341987-thrice-cursed.json) |
 | Thrice Doomed | 294769 | [294769-thrice-doomed.json](./294769-thrice-doomed.json) |
 | Thrice in a row | 133176 | [133176-thrice-in-a-row.json](./133176-thrice-in-a-row.json) |
