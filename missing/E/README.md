@@ -4576,6 +4576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Qinglong Mountain Re | 295150 | [295150-escape-qinglong-mountain-re.json](./295150-escape-qinglong-mountain-re.json) |
 | Escape Quest 8:Peace Keeper | 99171 | [99171-escape-quest-8-peace-keeper.json](./99171-escape-quest-8-peace-keeper.json) |
 | Escape Rebooted | 128902 | [128902-escape-rebooted.json](./128902-escape-rebooted.json) |
+| Escape Road 2 | 327733 | [327733-escape-road-2.json](./327733-escape-road-2.json) |
 | Escape Room | 76510 | [76510-escape-room.json](./76510-escape-room.json) |
 | Escape Room | 90637 | [90637-escape-room.json](./90637-escape-room.json) |
 | Escape Room Autumn | 224057 | [224057-escape-room-autumn.json](./224057-escape-room-autumn.json) |
@@ -5881,6 +5882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyone's Tsume Shogi: Intermediate 1 | 218895 | [218895-everyones-tsume-shogi-intermediate-1.json](./218895-everyones-tsume-shogi-intermediate-1.json) |
 | Everyone's Tsume Shogi: Intermediate 2 | 218894 | [218894-everyones-tsume-shogi-intermediate-2.json](./218894-everyones-tsume-shogi-intermediate-2.json) |
 | Everything Else | 177575 | [177575-everything-else.json](./177575-everything-else.json) |
+| Everything Ends In 0 | 327736 | [327736-everything-ends-in-0.json](./327736-everything-ends-in-0.json) |
 | Everything Explosive | 137594 | [137594-everything-explosive.json](./137594-everything-explosive.json) |
 | Everything Has Arms | 211131 | [211131-everything-has-arms.json](./211131-everything-has-arms.json) |
 | Everything I Do is Art, But Nothing I Do Makes Any Difference, Part II Or: How I Learned to Stop Worrying and Love the Gallery | 180254 | [180254-everything-i-do-is-art-but-nothing-i-do-makes-any-difference-part-ii-or-how-i-learned-to-stop-worrying-and-love-the-gallery.json](./180254-everything-i-do-is-art-but-nothing-i-do-makes-any-difference-part-ii-or-how-i-learned-to-stop-worrying-and-love-the-gallery.json) |
