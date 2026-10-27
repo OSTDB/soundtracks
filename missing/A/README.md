@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Shopping Trip to Eklan Tor | 155848 | [155848-a-shopping-trip-to-eklan-tor.json](./155848-a-shopping-trip-to-eklan-tor.json) |
 | A Short Death | 332977 | [332977-a-short-death.json](./332977-a-short-death.json) |
 | A Short Game About Nothing | 395167 | [395167-a-short-game-about-nothing.json](./395167-a-short-game-about-nothing.json) |
+| A Short Odyssey | 294128 | [294128-a-short-odyssey.json](./294128-a-short-odyssey.json) |
 | A Short Tale of Solitude | 169351 | [169351-a-short-tale-of-solitude.json](./169351-a-short-tale-of-solitude.json) |
 | A Show of Hands | 52563 | [52563-a-show-of-hands.json](./52563-a-show-of-hands.json) |
 | A Show of Kindness | 112465 | [112465-a-show-of-kindness.json](./112465-a-show-of-kindness.json) |
@@ -1635,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abh | 173184 | [173184-abh.json](./173184-abh.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
 | Abhay | 377430 | [377430-abhay.json](./377430-abhay.json) |
+| ABI-DOS | 293628 | [293628-abi-dos.json](./293628-abi-dos.json) |
 | Abi: A Robot's Tale | 88929 | [88929-abi-a-robots-tale.json](./88929-abi-a-robots-tale.json) |
 | Abide | 389091 | [389091-abide.json](./389091-abide.json) |
 | Abide With Me | 179614 | [179614-abide-with-me.json](./179614-abide-with-me.json) |
@@ -3197,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
 | Adventures of Megara: Demeter's Cat-astrophe - Collector's Edition | 357014 | [357014-adventures-of-megara-demeters-cat-astrophe-collectors-edition.json](./357014-adventures-of-megara-demeters-cat-astrophe-collectors-edition.json) |
 | Adventures of Mike | 101344 | [101344-adventures-of-mike.json](./101344-adventures-of-mike.json) |
+| Adventures of Mirror Domain | 294118 | [294118-adventures-of-mirror-domain.json](./294118-adventures-of-mirror-domain.json) |
 | Adventures of Mister Big T 2: Dimensional Problems | 372222 | [372222-adventures-of-mister-big-t-2-dimensional-problems.json](./372222-adventures-of-mister-big-t-2-dimensional-problems.json) |
 | Adventures of Norman the Cat | 409368 | [409368-adventures-of-norman-the-cat.json](./409368-adventures-of-norman-the-cat.json) |
 | Adventures of Pipi | 75208 | [75208-adventures-of-pipi.json](./75208-adventures-of-pipi.json) |
