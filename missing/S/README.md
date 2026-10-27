@@ -9472,6 +9472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimpleRoad | 370872 | [370872-simpleroad.json](./370872-simpleroad.json) |
 | SimpleRockets | 197672 | [197672-simplerockets.json](./197672-simplerockets.json) |
 | Simpli Casa | 381707 | [381707-simpli-casa.json](./381707-simpli-casa.json) |
+| Simploe Tasks | 293053 | [293053-simploe-tasks.json](./293053-simploe-tasks.json) |
 | Simply Chess | 17604 | [17604-simply-chess.json](./17604-simply-chess.json) |
 | Simply Cubic | 253586 | [253586-simply-cubic.json](./253586-simply-cubic.json) |
 | Simply Find It | 89756 | [89756-simply-find-it.json](./89756-simply-find-it.json) |
@@ -9536,6 +9537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulator Of A Person Who Is Taking Online Course To Study How To Lose Weight | 279264 | [279264-simulator-of-a-person-who-is-taking-online-course-to-study-how-to-lose-weight.json](./279264-simulator-of-a-person-who-is-taking-online-course-to-study-how-to-lose-weight.json) |
 | Simulator of Ukraine 1991 | 265097 | [265097-simulator-of-ukraine-1991.json](./265097-simulator-of-ukraine-1991.json) |
 | Simulator of Ukraine 1991: Play for Israel | 312462 | [312462-simulator-of-ukraine-1991-play-for-israel.json](./312462-simulator-of-ukraine-1991-play-for-israel.json) |
+| Simulator of Ukraine 1991: Play for USA | 293116 | [293116-simulator-of-ukraine-1991-play-for-usa.json](./293116-simulator-of-ukraine-1991-play-for-usa.json) |
 | Simulator of Ukraine 1991: The Great Sea | 312461 | [312461-simulator-of-ukraine-1991-the-great-sea.json](./312461-simulator-of-ukraine-1991-the-great-sea.json) |
 | Simulator of НЗllo Neighbor | 193852 | [193852-simulator-of-llo-neighbor.json](./193852-simulator-of-llo-neighbor.json) |
 | Simulator Pack: Gas Station Simulator and Treasure Hunter Simulator | 251110 | [251110-simulator-pack-gas-station-simulator-and-treasure-hunter-simulator.json](./251110-simulator-pack-gas-station-simulator-and-treasure-hunter-simulator.json) |
@@ -13846,6 +13848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar System Conflict | 35768 | [35768-solar-system-conflict.json](./35768-solar-system-conflict.json) |
 | Solar System Experience | 258633 | [258633-solar-system-experience.json](./258633-solar-system-experience.json) |
 | Solar System Journey VR | 43108 | [43108-solar-system-journey-vr.json](./43108-solar-system-journey-vr.json) |
+| Solar System Simulator | 293117 | [293117-solar-system-simulator.json](./293117-solar-system-simulator.json) |
 | Solar Systems For Kids | 257457 | [257457-solar-systems-for-kids.json](./257457-solar-systems-for-kids.json) |
 | Solar War | 273421 | [273421-solar-war.json](./273421-solar-war.json) |
 | Solar War | 35982 | [35982-solar-war.json](./35982-solar-war.json) |
@@ -15975,6 +15978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulscape | 300823 | [300823-soulscape.json](./300823-soulscape.json) |
 | Soulscape | 377565 | [377565-soulscape.json](./377565-soulscape.json) |
 | Soulscape 2: Fragments of the Present | 374380 | [374380-soulscape-2-fragments-of-the-present.json](./374380-soulscape-2-fragments-of-the-present.json) |
+| Soulscape: Shadows of The Past - Episode 1 | 293041 | [293041-soulscape-shadows-of-the-past-episode-1.json](./293041-soulscape-shadows-of-the-past-episode-1.json) |
 | SoulSet | 29508 | [29508-soulset.json](./29508-soulset.json) |
 | SoulSet: Necromancer Edition | 53623 | [53623-soulset-necromancer-edition.json](./53623-soulset-necromancer-edition.json) |
 | SoulShake | 295597 | [295597-soulshake.json](./295597-soulshake.json) |
@@ -16885,6 +16889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pirate Sara | 139039 | [139039-space-pirate-sara.json](./139039-space-pirate-sara.json) |
 | Space Pirate Trainer | 34041 | [34041-space-pirate-trainer.json](./34041-space-pirate-trainer.json) |
 | Space Pirate Trainer DX | 174556 | [174556-space-pirate-trainer-dx.json](./174556-space-pirate-trainer-dx.json) |
+| Space Pirateer | 293039 | [293039-space-pirateer.json](./293039-space-pirateer.json) |
 | Space Pirates | 176837 | [176837-space-pirates.json](./176837-space-pirates.json) |
 | Space Pirates for Life | 241390 | [241390-space-pirates-for-life.json](./241390-space-pirates-for-life.json) |
 | Space Pizza | 263920 | [263920-space-pizza.json](./263920-space-pizza.json) |
@@ -21255,6 +21260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfall Defenders | 350433 | [350433-starfall-defenders.json](./350433-starfall-defenders.json) |
 | Starfall Fantasy: Neverland | 249056 | [249056-starfall-fantasy-neverland.json](./249056-starfall-fantasy-neverland.json) |
 | Starfall Numbers | 74753 | [74753-starfall-numbers.json](./74753-starfall-numbers.json) |
+| Starfall Odyssey | 293054 | [293054-starfall-odyssey.json](./293054-starfall-odyssey.json) |
 | Starfall Online | 131612 | [131612-starfall-online.json](./131612-starfall-online.json) |
 | Starfall Serenity | 278366 | [278366-starfall-serenity.json](./278366-starfall-serenity.json) |
 | Starfall Tactics | 23246 | [23246-starfall-tactics.json](./23246-starfall-tactics.json) |
@@ -23986,6 +23992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter: The Movie | 134337 | [134337-street-fighter-the-movie.json](./134337-street-fighter-the-movie.json) |
 | Street Fighter: The Movie | 19754 | [19754-street-fighter-the-movie.json](./19754-street-fighter-the-movie.json) |
 | Street Fighting Grandma | 252264 | [252264-street-fighting-grandma.json](./252264-street-fighting-grandma.json) |
+| Street Fighting Simulator | 293115 | [293115-street-fighting-simulator.json](./293115-street-fighting-simulator.json) |
 | Street Flicker | 311235 | [311235-street-flicker.json](./311235-street-flicker.json) |
 | Street Food Restaurant Owner | 327979 | [327979-street-food-restaurant-owner.json](./327979-street-food-restaurant-owner.json) |
 | Street Food South East Asia | 197699 | [197699-street-food-south-east-asia.json](./197699-street-food-south-east-asia.json) |
@@ -25737,6 +25744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunken Sailor | 176263 | [176263-sunken-sailor.json](./176263-sunken-sailor.json) |
 | Sunken Secrets | 69359 | [69359-sunken-secrets.json](./69359-sunken-secrets.json) |
 | Sunken Seeker | 386693 | [386693-sunken-seeker.json](./386693-sunken-seeker.json) |
+| Sunken Shadows | 293034 | [293034-sunken-shadows.json](./293034-sunken-shadows.json) |
 | Sunken Ships | 270887 | [270887-sunken-ships.json](./270887-sunken-ships.json) |
 | Sunken Stones | 272718 | [272718-sunken-stones.json](./272718-sunken-stones.json) |
 | Sunken Tower | 237543 | [237543-sunken-tower.json](./237543-sunken-tower.json) |
@@ -26643,6 +26651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Airplanes Puzzles | 155629 | [155629-super-jigsaw-puzzle-generations-airplanes-puzzles.json](./155629-super-jigsaw-puzzle-generations-airplanes-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Amusements | 262939 | [262939-super-jigsaw-puzzle-generations-amusements.json](./262939-super-jigsaw-puzzle-generations-amusements.json) |
 | Super Jigsaw Puzzle: Generations - Anime 4 | 212236 | [212236-super-jigsaw-puzzle-generations-anime-4.json](./212236-super-jigsaw-puzzle-generations-anime-4.json) |
+| Super Jigsaw Puzzle: Generations - Anime 5 | 293062 | [293062-super-jigsaw-puzzle-generations-anime-5.json](./293062-super-jigsaw-puzzle-generations-anime-5.json) |
 | Super Jigsaw Puzzle: Generations - Anime Puzzles 2 | 155615 | [155615-super-jigsaw-puzzle-generations-anime-puzzles-2.json](./155615-super-jigsaw-puzzle-generations-anime-puzzles-2.json) |
 | Super Jigsaw Puzzle: Generations - Anime Puzzles 3 | 155579 | [155579-super-jigsaw-puzzle-generations-anime-puzzles-3.json](./155579-super-jigsaw-puzzle-generations-anime-puzzles-3.json) |
 | Super Jigsaw Puzzle: Generations - Australia Puzzles | 155612 | [155612-super-jigsaw-puzzle-generations-australia-puzzles.json](./155612-super-jigsaw-puzzle-generations-australia-puzzles.json) |
