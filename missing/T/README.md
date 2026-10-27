@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taking Over Her Heart | 327901 | [327901-taking-over-her-heart.json](./327901-taking-over-her-heart.json) |
 | Taking Root | 263045 | [263045-taking-root.json](./263045-taking-root.json) |
 | Taking Root: Academic Version | 270089 | [270089-taking-root-academic-version.json](./270089-taking-root-academic-version.json) |
+| Taking the Cross | 309943 | [309943-taking-the-cross.json](./309943-taking-the-cross.json) |
 | Taking Today Off | 384156 | [384156-taking-today-off.json](./384156-taking-today-off.json) |
 | Takishawa is Dead | 242655 | [242655-takishawa-is-dead.json](./242655-takishawa-is-dead.json) |
 | Takkyuubin | 345629 | [345629-takkyuubin.json](./345629-takkyuubin.json) |
@@ -3323,6 +3324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempus Irae | 270319 | [270319-tempus-irae.json](./270319-tempus-irae.json) |
 | Tempus Irae Redux | 416082 | [416082-tempus-irae-redux.json](./416082-tempus-irae-redux.json) |
 | Tempus is the Ignis | 271319 | [271319-tempus-is-the-ignis.json](./271319-tempus-is-the-ignis.json) |
+| Tempus Triad | 309915 | [309915-tempus-triad.json](./309915-tempus-triad.json) |
 | Tempus Vitae | 404455 | [404455-tempus-vitae.json](./404455-tempus-vitae.json) |
 | Tempusia | 207559 | [207559-tempusia.json](./207559-tempusia.json) |
 | Temtem: Collector's Edition | 206674 | [206674-temtem-collectors-edition.json](./206674-temtem-collectors-edition.json) |
@@ -10258,6 +10260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Heroine | 351777 | [351777-the-last-heroine.json](./351777-the-last-heroine.json) |
 | The Last Hex | 105231 | [105231-the-last-hex.json](./105231-the-last-hex.json) |
 | The Last Hike | 236267 | [236267-the-last-hike.json](./236267-the-last-hike.json) |
+| The Last Hollow | 309907 | [309907-the-last-hollow.json](./309907-the-last-hollow.json) |
 | The Last Hope | 25627 | [25627-the-last-hope.json](./25627-the-last-hope.json) |
 | The Last Hope | 368609 | [368609-the-last-hope.json](./368609-the-last-hope.json) |
 | The Last Hope: Atomic Bomb - Crypto War | 88195 | [88195-the-last-hope-atomic-bomb-crypto-war.json](./88195-the-last-hope-atomic-bomb-crypto-war.json) |
@@ -10378,6 +10381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Queen in the Wizard Kingdom | 156184 | [156184-the-last-queen-in-the-wizard-kingdom.json](./156184-the-last-queen-in-the-wizard-kingdom.json) |
 | The Last Quest | 185158 | [185158-the-last-quest.json](./185158-the-last-quest.json) |
 | The Last Question | 403970 | [403970-the-last-question.json](./403970-the-last-question.json) |
+| The Last Ramparts | 309903 | [309903-the-last-ramparts.json](./309903-the-last-ramparts.json) |
 | The Last Refuge | 324329 | [324329-the-last-refuge.json](./324329-the-last-refuge.json) |
 | The Last Refuge | 72109 | [72109-the-last-refuge.json](./72109-the-last-refuge.json) |
 | The Last Remnant Remastered | 109282 | [109282-the-last-remnant-remastered.json](./109282-the-last-remnant-remastered.json) |
@@ -12154,6 +12158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Next World | 344422 | [344422-the-next-world.json](./344422-the-next-world.json) |
 | The Next World: Planetary Exploration | 163251 | [163251-the-next-world-planetary-exploration.json](./163251-the-next-world-planetary-exploration.json) |
 | The Next World: Rocketship DLC | 163250 | [163250-the-next-world-rocketship-dlc.json](./163250-the-next-world-rocketship-dlc.json) |
+| The Nick | 309918 | [309918-the-nick.json](./309918-the-nick.json) |
 | The Niflhel Day | 168584 | [168584-the-niflhel-day.json](./168584-the-niflhel-day.json) |
 | The Night Before Star Wars | 233653 | [233653-the-night-before-star-wars.json](./233653-the-night-before-star-wars.json) |
 | The Night Cafe | 32491 | [32491-the-night-cafe.json](./32491-the-night-cafe.json) |
@@ -14958,6 +14963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terror At Freddy's | 338912 | [338912-the-terror-at-freddys.json](./338912-the-terror-at-freddys.json) |
 | The Terror Room | 376491 | [376491-the-terror-room.json](./376491-the-terror-room.json) |
 | The Terrors of Trantoss | 232557 | [232557-the-terrors-of-trantoss.json](./232557-the-terrors-of-trantoss.json) |
+| The Test Game | 309922 | [309922-the-test-game.json](./309922-the-test-game.json) |
 | The test of beauty | 161645 | [161645-the-test-of-beauty.json](./161645-the-test-of-beauty.json) |
 | The Test of Insanity | 308043 | [308043-the-test-of-insanity.json](./308043-the-test-of-insanity.json) |
 | The Test: Final Revelation | 149355 | [149355-the-test-final-revelation.json](./149355-the-test-final-revelation.json) |
@@ -21634,6 +21640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonzura-kun | 386520 | [386520-tonzura-kun.json](./386520-tonzura-kun.json) |
 | Tonzurakko | 66630 | [66630-tonzurakko.json](./66630-tonzurakko.json) |
 | Too Accurate to Be Scary...Your True Feelings Revealed by This Image | 409505 | [409505-too-accurate-to-be-scary-your-true-feelings-revealed-by-this-image.json](./409505-too-accurate-to-be-scary-your-true-feelings-revealed-by-this-image.json) |
+| Too Angry To Die | 309916 | [309916-too-angry-to-die.json](./309916-too-angry-to-die.json) |
 | Too Bouncy? | 263340 | [263340-too-bouncy.json](./263340-too-bouncy.json) |
 | Too Deep To Quit | 397820 | [397820-too-deep-to-quit.json](./397820-too-deep-to-quit.json) |
 | Too Different | 150974 | [150974-too-different.json](./150974-too-different.json) |
@@ -28221,6 +28228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Beasts Or Not To Beast! | 396674 | [396674-two-beasts-or-not-to-beast.json](./396674-two-beasts-or-not-to-beast.json) |
 | Two Bit Hero | 157498 | [157498-two-bit-hero.json](./157498-two-bit-hero.json) |
 | Two Brain Sides | 157421 | [157421-two-brain-sides.json](./157421-two-brain-sides.json) |
+| Two Broken Mirrors | 309905 | [309905-two-broken-mirrors.json](./309905-two-broken-mirrors.json) |
 | Two Brothers | 9440 | [9440-two-brothers.json](./9440-two-brothers.json) |
 | Two by One | 169627 | [169627-two-by-one.json](./169627-two-by-one.json) |
 | Two Cars Stunts Edition | 219529 | [219529-two-cars-stunts-edition.json](./219529-two-cars-stunts-edition.json) |
