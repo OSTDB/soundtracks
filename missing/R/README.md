@@ -1693,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid River | 65471 | [65471-rapid-river.json](./65471-rapid-river.json) |
 | Rapid Rocket | 232886 | [232886-rapid-rocket.json](./232886-rapid-rocket.json) |
 | Rapid Roll | 274733 | [274733-rapid-roll.json](./274733-rapid-roll.json) |
+| Rapid Soccer | 285321 | [285321-rapid-soccer.json](./285321-rapid-soccer.json) |
 | Rapid Squirrel | 32632 | [32632-rapid-squirrel.json](./32632-rapid-squirrel.json) |
 | Rapid Stream | 246363 | [246363-rapid-stream.json](./246363-rapid-stream.json) |
 | Rapid Stream 2 | 358846 | [358846-rapid-stream-2.json](./358846-rapid-stream-2.json) |
@@ -1902,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rave: Ultimate Battle | 63349 | [63349-rave-ultimate-battle.json](./63349-rave-ultimate-battle.json) |
 | Ravelle: Last Draw | 387011 | [387011-ravelle-last-draw.json](./387011-ravelle-last-draw.json) |
 | Raven | 197173 | [197173-raven.json](./197173-raven.json) |
+| Raven Fighter | 285429 | [285429-raven-fighter.json](./285429-raven-fighter.json) |
 | Raven Go! | 280639 | [280639-raven-go.json](./280639-raven-go.json) |
 | Raven Gold | 329065 | [329065-raven-gold.json](./329065-raven-gold.json) |
 | Raven II | 357402 | [357402-raven-ii.json](./357402-raven-ii.json) |
@@ -2946,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reborn | 301985 | [301985-reborn.json](./301985-reborn.json) |
 | Reborn | 377335 | [377335-reborn.json](./377335-reborn.json) |
 | Reborn | 76431 | [76431-reborn.json](./76431-reborn.json) |
+| Reborn a Zombie 2: Entwined Hearts | 285314 | [285314-reborn-a-zombie-2-entwined-hearts.json](./285314-reborn-a-zombie-2-entwined-hearts.json) |
 | Reborn a Zombie! | 246004 | [246004-reborn-a-zombie.json](./246004-reborn-a-zombie.json) |
 | Reborn in Sin | 157000 | [157000-reborn-in-sin.json](./157000-reborn-in-sin.json) |
 | Reborn in the toilet | 359548 | [359548-reborn-in-the-toilet.json](./359548-reborn-in-the-toilet.json) |
@@ -8604,6 +8607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Fortune | 415285 | [415285-rogue-fortune.json](./415285-rogue-fortune.json) |
 | Rogue Frontiers | 130099 | [130099-rogue-frontiers.json](./130099-rogue-frontiers.json) |
 | Rogue Galaxy | 11292 | [11292-rogue-galaxy.json](./11292-rogue-galaxy.json) |
+| Rogue Galleon and the Haunted Treasure | 285828 | [285828-rogue-galleon-and-the-haunted-treasure.json](./285828-rogue-galleon-and-the-haunted-treasure.json) |
 | Rogue Girl | 293989 | [293989-rogue-girl.json](./293989-rogue-girl.json) |
 | Rogue Gladius Survivors | 331239 | [331239-rogue-gladius-survivors.json](./331239-rogue-gladius-survivors.json) |
 | Rogue Glitch Ultra | 275900 | [275900-rogue-glitch-ultra.json](./275900-rogue-glitch-ultra.json) |
@@ -10449,6 +10453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Around | 106510 | [106510-run-around.json](./106510-run-around.json) |
 | Run Away | 172041 | [172041-run-away.json](./172041-run-away.json) |
 | Run Away | 258881 | [258881-run-away.json](./258881-run-away.json) |
+| Run Away | 285831 | [285831-run-away.json](./285831-run-away.json) |
 | Run Away | 36480 | [36480-run-away.json](./36480-run-away.json) |
 | Run away 2 | 100598 | [100598-run-away-2.json](./100598-run-away-2.json) |
 | Run Away From Me. Alexandra | 297855 | [297855-run-away-from-me-alexandra.json](./297855-run-away-from-me-alexandra.json) |
@@ -10970,6 +10975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruskindo | 182910 | [182910-ruskindo.json](./182910-ruskindo.json) |
 | Rusl | 211651 | [211651-rusl.json](./211651-rusl.json) |
 | Ruslicstan Invades | 238497 | [238497-ruslicstan-invades.json](./238497-ruslicstan-invades.json) |
+| Russel's Animal Kwackers | 285612 | [285612-russels-animal-kwackers.json](./285612-russels-animal-kwackers.json) |
 | Russel's Cookie Eating | 354755 | [354755-russels-cookie-eating.json](./354755-russels-cookie-eating.json) |
 | Russell | 281365 | [281365-russell.json](./281365-russell.json) |
 | Russell's Range | 246793 | [246793-russells-range.json](./246793-russells-range.json) |
