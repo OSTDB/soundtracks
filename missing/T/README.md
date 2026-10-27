@@ -10146,6 +10146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lake House: Children of Silence - Collector's Edition | 53263 | [53263-the-lake-house-children-of-silence-collectors-edition.json](./53263-the-lake-house-children-of-silence-collectors-edition.json) |
 | The Lake of the Blind Mannequin | 228637 | [228637-the-lake-of-the-blind-mannequin.json](./228637-the-lake-of-the-blind-mannequin.json) |
 | The Lamb of the Sabbath is Standing Upon the Hill | 346651 | [346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json](./346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json) |
+| The Lament of a Lifeless Star | 286029 | [286029-the-lament-of-a-lifeless-star.json](./286029-the-lament-of-a-lifeless-star.json) |
 | The Lamplighters League | 240893 | [240893-the-lamplighters-league.json](./240893-the-lamplighters-league.json) |
 | The Lancaster Leak: Crisis at Call Center | 260586 | [260586-the-lancaster-leak-crisis-at-call-center.json](./260586-the-lancaster-leak-crisis-at-call-center.json) |
 | The Land | 64929 | [64929-the-land.json](./64929-the-land.json) |
@@ -14627,6 +14628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirit Weaver | 361072 | [361072-the-spirit-weaver.json](./361072-the-spirit-weaver.json) |
 | The Spirit's Turnabout | 308532 | [308532-the-spirits-turnabout.json](./308532-the-spirits-turnabout.json) |
 | The Spiriting Away of Saooni Village | 373094 | [373094-the-spiriting-away-of-saooni-village.json](./373094-the-spiriting-away-of-saooni-village.json) |
+| The Spiritless Shaman | 286028 | [286028-the-spiritless-shaman.json](./286028-the-spiritless-shaman.json) |
 | The Spirits of Kelley Family | 129026 | [129026-the-spirits-of-kelley-family.json](./129026-the-spirits-of-kelley-family.json) |
 | The Spirits of Whispermoon | 267811 | [267811-the-spirits-of-whispermoon.json](./267811-the-spirits-of-whispermoon.json) |
 | The Spirits Within | 116229 | [116229-the-spirits-within.json](./116229-the-spirits-within.json) |
@@ -20667,6 +20669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the couple two rows in front of us | 208868 | [208868-to-the-couple-two-rows-in-front-of-us.json](./208868-to-the-couple-two-rows-in-front-of-us.json) |
 | To the Crown | 182530 | [182530-to-the-crown.json](./182530-to-the-crown.json) |
 | To The Dark Tower | 119006 | [119006-to-the-dark-tower.json](./119006-to-the-dark-tower.json) |
+| To The Death | 286025 | [286025-to-the-death.json](./286025-to-the-death.json) |
 | To the Dungeon! | 255075 | [255075-to-the-dungeon.json](./255075-to-the-dungeon.json) |
 | To the Eden | 362398 | [362398-to-the-eden.json](./362398-to-the-eden.json) |
 | To the Eds-treme | 315086 | [315086-to-the-eds-treme.json](./315086-to-the-eds-treme.json) |
@@ -23181,6 +23184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of God M: The Great Journey | 188404 | [188404-tower-of-god-m-the-great-journey.json](./188404-tower-of-god-m-the-great-journey.json) |
 | Tower of God: Great Journey | 231889 | [231889-tower-of-god-great-journey.json](./231889-tower-of-god-great-journey.json) |
 | Tower of Greed | 216326 | [216326-tower-of-greed.json](./216326-tower-of-greed.json) |
+| Tower of Grimoiria | 285829 | [285829-tower-of-grimoiria.json](./285829-tower-of-grimoiria.json) |
 | Tower of Guardian | 153946 | [153946-tower-of-guardian.json](./153946-tower-of-guardian.json) |
 | Tower of Guns | 16880 | [16880-tower-of-guns.json](./16880-tower-of-guns.json) |
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
@@ -24371,6 +24375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Boston & Albany - Boston - Springfield Route Add-On | 357395 | [357395-train-simulator-classic-boston-and-albany-boston-springfield-route-add-on.json](./357395-train-simulator-classic-boston-and-albany-boston-springfield-route-add-on.json) |
 | Train Simulator Classic: Bozeman Pass - Livingston: Three Forks & Trident | 357284 | [357284-train-simulator-classic-bozeman-pass-livingston-three-forks-and-trident.json](./357284-train-simulator-classic-bozeman-pass-livingston-three-forks-and-trident.json) |
 | Train Simulator Classic: BR285 Diesel Loco Add-On | 357289 | [357289-train-simulator-classic-br285-diesel-loco-add-on.json](./357289-train-simulator-classic-br285-diesel-loco-add-on.json) |
+| Train Simulator Classic: Brockenbahn - Wernigerode: Brocken Route | 286143 | [286143-train-simulator-classic-brockenbahn-wernigerode-brocken-route.json](./286143-train-simulator-classic-brockenbahn-wernigerode-brocken-route.json) |
 | Train Simulator Classic: Burlington Northern U25 | 357291 | [357291-train-simulator-classic-burlington-northern-u25.json](./357291-train-simulator-classic-burlington-northern-u25.json) |
 | Train Simulator Classic: C-424 | 357392 | [357392-train-simulator-classic-c-424.json](./357392-train-simulator-classic-c-424.json) |
 | Train Simulator Classic: Chatham Main Line - London-Gillingham Route Add-On | 156463 | [156463-train-simulator-classic-chatham-main-line-london-gillingham-route-add-on.json](./156463-train-simulator-classic-chatham-main-line-london-gillingham-route-add-on.json) |
@@ -25925,6 +25930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunter | 60042 | [60042-treasure-hunter.json](./60042-treasure-hunter.json) |
 | Treasure Hunter | 76627 | [76627-treasure-hunter.json](./76627-treasure-hunter.json) |
 | Treasure Hunter Claire | 82844 | [82844-treasure-hunter-claire.json](./82844-treasure-hunter-claire.json) |
+| Treasure Hunter for Pico | 285845 | [285845-treasure-hunter-for-pico.json](./285845-treasure-hunter-for-pico.json) |
 | Treasure Hunter G | 15844 | [15844-treasure-hunter-g.json](./15844-treasure-hunter-g.json) |
 | Treasure Hunter Simulator 2 | 153995 | [153995-treasure-hunter-simulator-2.json](./153995-treasure-hunter-simulator-2.json) |
 | Treasure Hunter X | 85522 | [85522-treasure-hunter-x.json](./85522-treasure-hunter-x.json) |
