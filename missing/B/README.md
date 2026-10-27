@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bagarre | 386970 | [386970-bagarre.json](./386970-bagarre.json) |
 | Bagasaurus | 147213 | [147213-bagasaurus.json](./147213-bagasaurus.json) |
 | Bagdex | 237832 | [237832-bagdex.json](./237832-bagdex.json) |
+| Bagel | 310482 | [310482-bagel.json](./310482-bagel.json) |
 | Bagel Love Story | 298691 | [298691-bagel-love-story.json](./298691-bagel-love-story.json) |
 | Bagelball | 341300 | [341300-bagelball.json](./341300-bagelball.json) |
 | Baggage Inspector | 293854 | [293854-baggage-inspector.json](./293854-baggage-inspector.json) |
@@ -1022,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baking Bustle: Ashley's Dream - Collector's Edition | 339607 | [339607-baking-bustle-ashleys-dream-collectors-edition.json](./339607-baking-bustle-ashleys-dream-collectors-edition.json) |
 | Baking Fun | 359405 | [359405-baking-fun.json](./359405-baking-fun.json) |
 | Baking Time | 300771 | [300771-baking-time.json](./300771-baking-time.json) |
+| Baking Time: Fast Edition | 310436 | [310436-baking-time-fast-edition.json](./310436-baking-time-fast-edition.json) |
 | Baking Time: Speedy Animals | 300947 | [300947-baking-time-speedy-animals.json](./300947-baking-time-speedy-animals.json) |
 | Baking Time: Strong Pets | 300948 | [300948-baking-time-strong-pets.json](./300948-baking-time-strong-pets.json) |
 | Bakkaniya | 249498 | [249498-bakkaniya.json](./249498-bakkaniya.json) |
@@ -6256,6 +6258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bicycle Tour | 234606 | [234606-bicycle-tour.json](./234606-bicycle-tour.json) |
 | BicycleSim | 211100 | [211100-bicyclesim.json](./211100-bicyclesim.json) |
 | Bicyclism EP | 31950 | [31950-bicyclism-ep.json](./31950-bicyclism-ep.json) |
+| Bid Battle: Auction War Simulator Storage Hunter | 310459 | [310459-bid-battle-auction-war-simulator-storage-hunter.json](./310459-bid-battle-auction-war-simulator-storage-hunter.json) |
 | Bid King | 390605 | [390605-bid-king.json](./390605-bid-king.json) |
 | Bid Whist: Card Game | 220817 | [220817-bid-whist-card-game.json](./220817-bid-whist-card-game.json) |
 | Biden My Time: A Joe Biden Garfield-Reading Simulator | 176737 | [176737-biden-my-time-a-joe-biden-garfield-reading-simulator.json](./176737-biden-my-time-a-joe-biden-garfield-reading-simulator.json) |
@@ -11551,6 +11554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot Land | 77405 | [77405-bot-land.json](./77405-bot-land.json) |
 | Bot Net: Ramshackle Robotics | 126893 | [126893-bot-net-ramshackle-robotics.json](./126893-bot-net-ramshackle-robotics.json) |
 | Bot Patrol | 291040 | [291040-bot-patrol.json](./291040-bot-patrol.json) |
+| Bot Shot | 310460 | [310460-bot-shot.json](./310460-bot-shot.json) |
 | Bot Slash Bot | 361871 | [361871-bot-slash-bot.json](./361871-bot-slash-bot.json) |
 | Bot Tales: The Crashed | 104048 | [104048-bot-tales-the-crashed.json](./104048-bot-tales-the-crashed.json) |
 | Bot Vice | 22751 | [22751-bot-vice.json](./22751-bot-vice.json) |
@@ -15338,6 +15342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 2009 | 412381 | [412381-bus-simulator-2009.json](./412381-bus-simulator-2009.json) |
 | Bus Simulator 2015 HD: New York Route | 97148 | [97148-bus-simulator-2015-hd-new-york-route.json](./97148-bus-simulator-2015-hd-new-york-route.json) |
 | Bus Simulator 2023 | 227959 | [227959-bus-simulator-2023.json](./227959-bus-simulator-2023.json) |
+| Bus Simulator 2024: City Driver - Premium Edition | 310435 | [310435-bus-simulator-2024-city-driver-premium-edition.json](./310435-bus-simulator-2024-city-driver-premium-edition.json) |
 | Bus Simulator 21: Angel Shores Insider Skin Pack | 213848 | [213848-bus-simulator-21-angel-shores-insider-skin-pack.json](./213848-bus-simulator-21-angel-shores-insider-skin-pack.json) |
 | Bus Simulator 21: Extended Edition | 169245 | [169245-bus-simulator-21-extended-edition.json](./169245-bus-simulator-21-extended-edition.json) |
 | Bus Simulator 21: Iveco Bus Pack | 197557 | [197557-bus-simulator-21-iveco-bus-pack.json](./197557-bus-simulator-21-iveco-bus-pack.json) |
