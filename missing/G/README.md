@@ -7243,6 +7243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Station | 382333 | [382333-gravity-station.json](./382333-gravity-station.json) |
 | Gravity Still Sucks! | 251210 | [251210-gravity-still-sucks.json](./251210-gravity-still-sucks.json) |
 | Gravity Storm: First Mission | 329586 | [329586-gravity-storm-first-mission.json](./329586-gravity-storm-first-mission.json) |
+| Gravity Strike | 320699 | [320699-gravity-strike.json](./320699-gravity-strike.json) |
 | Gravity Strikers | 388319 | [388319-gravity-strikers.json](./388319-gravity-strikers.json) |
 | Gravity Surge | 305646 | [305646-gravity-surge.json](./305646-gravity-surge.json) |
 | Gravity Swap 64 | 202107 | [202107-gravity-swap-64.json](./202107-gravity-swap-64.json) |
@@ -8025,6 +8026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grippy | 378389 | [378389-grippy.json](./378389-grippy.json) |
 | Gripshot | 340401 | [340401-gripshot.json](./340401-gripshot.json) |
 | Griptape Backbone | 29755 | [29755-griptape-backbone.json](./29755-griptape-backbone.json) |
+| Gris + Neva Bundle | 320697 | [320697-gris-neva-bundle.json](./320697-gris-neva-bundle.json) |
 | Gris: Collector's Edition | 159211 | [159211-gris-collectors-edition.json](./159211-gris-collectors-edition.json) |
 | Gris: Deluxe Edition | 350799 | [350799-gris-deluxe-edition.json](./350799-gris-deluxe-edition.json) |
 | Grisaia no Kajitsu: Side Episode | 145401 | [145401-grisaia-no-kajitsu-side-episode.json](./145401-grisaia-no-kajitsu-side-episode.json) |
