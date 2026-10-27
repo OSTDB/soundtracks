@@ -2129,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make It Stop! | 301349 | [301349-make-it-stop.json](./301349-make-it-stop.json) |
 | Make It True | 326679 | [326679-make-it-true.json](./326679-make-it-true.json) |
 | Make it! Crepe | 315839 | [315839-make-it-crepe.json](./315839-make-it-crepe.json) |
+| Make it! Donut | 332360 | [332360-make-it-donut.json](./332360-make-it-donut.json) |
 | Make it! Ikayaki | 294837 | [294837-make-it-ikayaki.json](./294837-make-it-ikayaki.json) |
 | Make it! Kushikatsu | 386198 | [386198-make-it-kushikatsu.json](./386198-make-it-kushikatsu.json) |
 | Make it! Oden | 328503 | [328503-make-it-oden.json](./328503-make-it-oden.json) |
@@ -11054,6 +11055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minions of Mirth | 92326 | [92326-minions-of-mirth.json](./92326-minions-of-mirth.json) |
 | Minions On Ice | 338125 | [338125-minions-on-ice.json](./338125-minions-on-ice.json) |
 | Minions Paradise | 11073 | [11073-minions-paradise.json](./11073-minions-paradise.json) |
+| Minions Survivors | 332359 | [332359-minions-survivors.json](./332359-minions-survivors.json) |
 | Minions, Monsters, and Madness | 30194 | [30194-minions-monsters-and-madness.json](./30194-minions-monsters-and-madness.json) |
 | Minions. Five nights at Despicable Hospital 3D | 99418 | [99418-minions-five-nights-at-despicable-hospital-3d.json](./99418-minions-five-nights-at-despicable-hospital-3d.json) |
 | Miniopolis | 418518 | [418518-miniopolis.json](./418518-miniopolis.json) |
