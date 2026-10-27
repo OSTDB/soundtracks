@@ -4089,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Amazon Girls | 368011 | [368011-hentai-amazon-girls.json](./368011-hentai-amazon-girls.json) |
 | Hentai Ami | 245995 | [245995-hentai-ami.json](./245995-hentai-ami.json) |
 | Hentai Animation Puzzle | 367037 | [367037-hentai-animation-puzzle.json](./367037-hentai-animation-puzzle.json) |
+| Hentai Anime Girls Succubus | 290449 | [290449-hentai-anime-girls-succubus.json](./290449-hentai-anime-girls-succubus.json) |
 | Hentai Anime Girls Succubus: Extended Edition | 312058 | [312058-hentai-anime-girls-succubus-extended-edition.json](./312058-hentai-anime-girls-succubus-extended-edition.json) |
 | Hentai Anime Girls Succubus: New Image Puzzle | 310472 | [310472-hentai-anime-girls-succubus-new-image-puzzle.json](./310472-hentai-anime-girls-succubus-new-image-puzzle.json) |
 | Hentai Anime Poker | 131271 | [131271-hentai-anime-poker.json](./131271-hentai-anime-poker.json) |
@@ -10026,7 +10027,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Acre Wood | 249881 | [249881-hundred-acre-wood.json](./249881-hundred-acre-wood.json) |
 | Hundred Bullets | 194246 | [194246-hundred-bullets.json](./194246-hundred-bullets.json) |
 | Hundred Chances | 171585 | [171585-hundred-chances.json](./171585-hundred-chances.json) |
-| Hundred Days | 120720 | [120720-hundred-days.json](./120720-hundred-days.json) |
 | Hundred Days: Grape Lab | 167181 | [167181-hundred-days-grape-lab.json](./167181-hundred-days-grape-lab.json) |
 | Hundred Days: Napa Valley | 187853 | [187853-hundred-days-napa-valley.json](./187853-hundred-days-napa-valley.json) |
 | Hundred Doors | 357711 | [357711-hundred-doors.json](./357711-hundred-doors.json) |
