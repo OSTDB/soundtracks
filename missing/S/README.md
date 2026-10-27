@@ -8043,7 +8043,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shovel Adventure | 220784 | [220784-shovel-adventure.json](./220784-shovel-adventure.json) |
 | Shovel Escape | 172450 | [172450-shovel-escape.json](./172450-shovel-escape.json) |
 | Shovel Game | 361337 | [361337-shovel-game.json](./361337-shovel-game.json) |
-| Shovel Knight Dig | 122097 | [122097-shovel-knight-dig.json](./122097-shovel-knight-dig.json) |
 | Shovel Knight Showdown | 27242 | [27242-shovel-knight-showdown.json](./27242-shovel-knight-showdown.json) |
 | Shovel Knight: Dig - Fate and Fortune | 305754 | [305754-shovel-knight-dig-fate-and-fortune.json](./305754-shovel-knight-dig-fate-and-fortune.json) |
 | Shovel Knight: Dig - Wicked Wishes | 305755 | [305755-shovel-knight-dig-wicked-wishes.json](./305755-shovel-knight-dig-wicked-wishes.json) |
