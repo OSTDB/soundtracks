@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra CDi Soccer | 45904 | [45904-ultra-cdi-soccer.json](./45904-ultra-cdi-soccer.json) |
 | Ultra Chess | 94392 | [94392-ultra-chess.json](./94392-ultra-chess.json) |
 | Ultra Combat 64 | 356271 | [356271-ultra-combat-64.json](./356271-ultra-combat-64.json) |
+| Ultra Cop | 322513 | [322513-ultra-cop.json](./322513-ultra-cop.json) |
 | Ultra Donkey Kong | 231473 | [231473-ultra-donkey-kong.json](./231473-ultra-donkey-kong.json) |
 | Ultra Dynasty Warriors | 44157 | [44157-ultra-dynasty-warriors.json](./44157-ultra-dynasty-warriors.json) |
 | Ultra Fighters | 95454 | [95454-ultra-fighters.json](./95454-ultra-fighters.json) |
@@ -2283,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unou Tanren UnoTan DS: Shichida Shiki Otona no Shun Kan Training | 124115 | [124115-unou-tanren-unotan-ds-shichida-shiki-otona-no-shun-kan-training.json](./124115-unou-tanren-unotan-ds-shichida-shiki-otona-no-shun-kan-training.json) |
 | Unova Nights | 410358 | [410358-unova-nights.json](./410358-unova-nights.json) |
 | Unpacking | 134276 | [134276-unpacking.json](./134276-unpacking.json) |
+| Unpacking Universe Dreams | 322531 | [322531-unpacking-universe-dreams.json](./322531-unpacking-universe-dreams.json) |
 | Unpan | 338808 | [338808-unpan.json](./338808-unpan.json) |
 | Unparallel | 127987 | [127987-unparallel.json](./127987-unparallel.json) |
 | Unpatterned Cut | 333516 | [333516-unpatterned-cut.json](./333516-unpatterned-cut.json) |
