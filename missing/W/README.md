@@ -4235,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why Did The Chicken Cross The Road? | 310753 | [310753-why-did-the-chicken-cross-the-road.json](./310753-why-did-the-chicken-cross-the-road.json) |
 | Why Did You Leave Me Like This? | 365771 | [365771-why-did-you-leave-me-like-this.json](./365771-why-did-you-leave-me-like-this.json) |
 | Why Do Boys Play Games? | 346579 | [346579-why-do-boys-play-games.json](./346579-why-do-boys-play-games.json) |
+| Why do you love me? | 286925 | [286925-why-do-you-love-me.json](./286925-why-do-you-love-me.json) |
 | Why Does He Want Me Dead | 176311 | [176311-why-does-he-want-me-dead.json](./176311-why-does-he-want-me-dead.json) |
 | Why Does the Sea Cry So Much | 362887 | [362887-why-does-the-sea-cry-so-much.json](./362887-why-does-the-sea-cry-so-much.json) |
 | Why Don't They Laugh? | 312558 | [312558-why-dont-they-laugh.json](./312558-why-dont-they-laugh.json) |
@@ -5889,6 +5890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizdom | 174082 | [174082-wizdom.json](./174082-wizdom.json) |
 | Wizdom | 85500 | [85500-wizdom.json](./85500-wizdom.json) |
 | Wizdom Academy | 279478 | [279478-wizdom-academy.json](./279478-wizdom-academy.json) |
+| Wizened Dream | 286938 | [286938-wizened-dream.json](./286938-wizened-dream.json) |
 | Wizherd | 422032 | [422032-wizherd.json](./422032-wizherd.json) |
 | Wizhood | 43092 | [43092-wizhood.json](./43092-wizhood.json) |
 | Wizkid | 301862 | [301862-wizkid.json](./301862-wizkid.json) |
