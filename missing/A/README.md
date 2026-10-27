@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Journey Into Xanth | 135643 | [135643-a-journey-into-xanth.json](./135643-a-journey-into-xanth.json) |
 | A Journey Through Shadow, to Reach the Light. | 350292 | [350292-a-journey-through-shadow-to-reach-the-light.json](./350292-a-journey-through-shadow-to-reach-the-light.json) |
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
+| A Journey to Omega Station | 295245 | [295245-a-journey-to-omega-station.json](./295245-a-journey-to-omega-station.json) |
 | A Journey Together | 261810 | [261810-a-journey-together.json](./261810-a-journey-together.json) |
 | A Journey's End | 291182 | [291182-a-journeys-end.json](./291182-a-journeys-end.json) |
 | A Juggler's Tale | 122050 | [122050-a-jugglers-tale.json](./122050-a-jugglers-tale.json) |
@@ -10076,6 +10077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apricot Kernel | 364531 | [364531-apricot-kernel.json](./364531-apricot-kernel.json) |
 | April | 110045 | [110045-april.json](./110045-april.json) |
 | April '86 | 251841 | [251841-april-86.json](./251841-april-86.json) |
+| April 24th | 295300 | [295300-april-24th.json](./295300-april-24th.json) |
 | April 7th | 58863 | [58863-april-7th.json](./58863-april-7th.json) |
 | April Freebee | 324819 | [324819-april-freebee.json](./324819-april-freebee.json) |
 | April Grove | 339401 | [339401-april-grove.json](./339401-april-grove.json) |
@@ -12941,6 +12943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin War Sniper Shooting | 274452 | [274452-assassin-war-sniper-shooting.json](./274452-assassin-war-sniper-shooting.json) |
 | Assassin: Special Edition | 14601 | [14601-assassin-special-edition.json](./14601-assassin-special-edition.json) |
 | Assassin's Alliance | 304680 | [304680-assassins-alliance.json](./304680-assassins-alliance.json) |
+| Assassin's Belief | 295298 | [295298-assassins-belief.json](./295298-assassins-belief.json) |
 | Assassin's Creed American History Pack | 219000 | [219000-assassins-creed-american-history-pack.json](./219000-assassins-creed-american-history-pack.json) |
 | Assassin's Creed Animus Pack | 230702 | [230702-assassins-creed-animus-pack.json](./230702-assassins-creed-animus-pack.json) |
 | Assassin's Creed Antiquity Pack | 164782 | [164782-assassins-creed-antiquity-pack.json](./164782-assassins-creed-antiquity-pack.json) |
@@ -14786,6 +14789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Racing | 246505 | [246505-auto-racing.json](./246505-auto-racing.json) |
 | Auto Racing | 5659 | [5659-auto-racing.json](./5659-auto-racing.json) |
 | Auto RiskRisk | 245784 | [245784-auto-riskrisk.json](./245784-auto-riskrisk.json) |
+| Auto RiskRisk: Deluxe Pieces | 295297 | [295297-auto-riskrisk-deluxe-pieces.json](./295297-auto-riskrisk-deluxe-pieces.json) |
 | Auto Rogue | 334135 | [334135-auto-rogue.json](./334135-auto-rogue.json) |
 | Auto Sale Life | 258011 | [258011-auto-sale-life.json](./258011-auto-sale-life.json) |
 | Auto Shrooms | 418861 | [418861-auto-shrooms.json](./418861-auto-shrooms.json) |
@@ -14849,6 +14853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automata 10 Pack Volume 2 | 258188 | [258188-automata-10-pack-volume-2.json](./258188-automata-10-pack-volume-2.json) |
 | Automata Break | 139455 | [139455-automata-break.json](./139455-automata-break.json) |
 | Automata Streetcar | 303903 | [303903-automata-streetcar.json](./303903-automata-streetcar.json) |
+| Automate It | 295288 | [295288-automate-it.json](./295288-automate-it.json) |
 | Automatic Flips | 409754 | [409754-automatic-flips.json](./409754-automatic-flips.json) |
 | Automatic Kingdom | 347015 | [347015-automatic-kingdom.json](./347015-automatic-kingdom.json) |
 | Automatic RP‪G | 144172 | [144172-automatic-rp-g.json](./144172-automatic-rp-g.json) |
