@@ -5182,6 +5182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Mahjong | 415978 | [415978-winter-mahjong.json](./415978-winter-mahjong.json) |
 | Winter Makes Me Lonely but at Least I Have You | 364378 | [364378-winter-makes-me-lonely-but-at-least-i-have-you.json](./364378-winter-makes-me-lonely-but-at-least-i-have-you.json) |
 | Winter Mercenary | 373812 | [373812-winter-mercenary.json](./373812-winter-mercenary.json) |
+| Winter Mission | 299708 | [299708-winter-mission.json](./299708-winter-mission.json) |
 | Winter Mosaics | 415908 | [415908-winter-mosaics.json](./415908-winter-mosaics.json) |
 | Winter Night | 287700 | [287700-winter-night.json](./287700-winter-night.json) |
 | Winter Night: Terrorist Strike | 224086 | [224086-winter-night-terrorist-strike.json](./224086-winter-night-terrorist-strike.json) |
