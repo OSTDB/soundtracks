@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops 6 - Season 4 | 362955 | [362955-call-of-duty-black-ops-6-season-4.json](./362955-call-of-duty-black-ops-6-season-4.json) |
 | Call of Duty: Black Ops 6 - Season 5 | 362956 | [362956-call-of-duty-black-ops-6-season-5.json](./362956-call-of-duty-black-ops-6-season-5.json) |
 | Call of Duty: Black Ops 6 - Season 6 | 373569 | [373569-call-of-duty-black-ops-6-season-6.json](./373569-call-of-duty-black-ops-6-season-6.json) |
+| Call of Duty: Black Ops 6 - Vault Edition | 331251 | [331251-call-of-duty-black-ops-6-vault-edition.json](./331251-call-of-duty-black-ops-6-vault-edition.json) |
 | Call of Duty: Black Ops Cold War - Season Four | 152117 | [152117-call-of-duty-black-ops-cold-war-season-four.json](./152117-call-of-duty-black-ops-cold-war-season-four.json) |
 | Call of Duty: Black Ops Cold War - Season One | 141574 | [141574-call-of-duty-black-ops-cold-war-season-one.json](./141574-call-of-duty-black-ops-cold-war-season-one.json) |
 | Call of Duty: Black Ops Cold War - Season Six | 172674 | [172674-call-of-duty-black-ops-cold-war-season-six.json](./172674-call-of-duty-black-ops-cold-war-season-six.json) |
@@ -4869,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chao Adventure | 225623 | [225623-chao-adventure.json](./225623-chao-adventure.json) |
 | Chao Adventure | 331473 | [331473-chao-adventure.json](./331473-chao-adventure.json) |
 | Chao Adventure 2 | 225624 | [225624-chao-adventure-2.json](./225624-chao-adventure-2.json) |
+| Chao Adventure Legends | 331221 | [331221-chao-adventure-legends.json](./331221-chao-adventure-legends.json) |
 | Chao Dream Touch! Happy Anniversary | 122870 | [122870-chao-dream-touch-happy-anniversary.json](./122870-chao-dream-touch-happy-anniversary.json) |
 | Chao Extreme | 331372 | [331372-chao-extreme.json](./331372-chao-extreme.json) |
 | Chao Illust Club | 130714 | [130714-chao-illust-club.json](./130714-chao-illust-club.json) |
@@ -7847,6 +7849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Transport Simulator: GT8N Mannheim​ Add-On | 359613 | [359613-city-transport-simulator-gt8n-mannheim-add-on.json](./359613-city-transport-simulator-gt8n-mannheim-add-on.json) |
 | City Transport Simulator: StadtRegioTram Add-On | 359614 | [359614-city-transport-simulator-stadtregiotram-add-on.json](./359614-city-transport-simulator-stadtregiotram-add-on.json) |
 | City Transport Simulator: Tram | 280681 | [280681-city-transport-simulator-tram.json](./280681-city-transport-simulator-tram.json) |
+| City Transport Simulator: Tram - Collector's Edition | 331252 | [331252-city-transport-simulator-tram-collectors-edition.json](./331252-city-transport-simulator-tram-collectors-edition.json) |
 | City Transport Simulator: Tram - Deluxe Edition | 331271 | [331271-city-transport-simulator-tram-deluxe-edition.json](./331271-city-transport-simulator-tram-deluxe-edition.json) |
 | City Transport Simulator: Tram Depot + Southern-Route Add-On | 359616 | [359616-city-transport-simulator-tram-depot-southern-route-add-on.json](./359616-city-transport-simulator-tram-depot-southern-route-add-on.json) |
 | City Transport Simulator: Type D Vienna Add-On | 359615 | [359615-city-transport-simulator-type-d-vienna-add-on.json](./359615-city-transport-simulator-type-d-vienna-add-on.json) |
@@ -12205,6 +12208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Runners | 417486 | [417486-core-runners.json](./417486-core-runners.json) |
 | Core Smash! | 106949 | [106949-core-smash.json](./106949-core-smash.json) |
 | Core Stratagem | 134918 | [134918-core-stratagem.json](./134918-core-stratagem.json) |
+| Core Trials | 331240 | [331240-core-trials.json](./331240-core-trials.json) |
 | Core War | 143413 | [143413-core-war.json](./143413-core-war.json) |
 | Core-Blast | 242605 | [242605-core-blast.json](./242605-core-blast.json) |
 | Core: Licht | 204969 | [204969-core-licht.json](./204969-core-licht.json) |
