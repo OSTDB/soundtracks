@@ -16663,6 +16663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed House 15 | 365050 | [365050-cursed-house-15.json](./365050-cursed-house-15.json) |
 | Cursed House 16 | 407845 | [407845-cursed-house-16.json](./407845-cursed-house-16.json) |
 | Cursed House 2 | 362928 | [362928-cursed-house-2.json](./362928-cursed-house-2.json) |
+| Cursed House 5 | 313665 | [313665-cursed-house-5.json](./313665-cursed-house-5.json) |
 | Cursed House 6 | 419591 | [419591-cursed-house-6.json](./419591-cursed-house-6.json) |
 | Cursed House 7 | 337215 | [337215-cursed-house-7.json](./337215-cursed-house-7.json) |
 | Cursed House 8 | 419589 | [419589-cursed-house-8.json](./419589-cursed-house-8.json) |
