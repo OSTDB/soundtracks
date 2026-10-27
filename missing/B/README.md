@@ -121,8 +121,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baba is You Xtreme | 209470 | [209470-baba-is-you-xtreme.json](./209470-baba-is-you-xtreme.json) |
 | Baba Is You: Baba Make Level | 334743 | [334743-baba-is-you-baba-make-level.json](./334743-baba-is-you-baba-make-level.json) |
 | Baba Is You: Jam Build | 383476 | [383476-baba-is-you-jam-build.json](./383476-baba-is-you-jam-build.json) |
+| Baba Yaga | 297990 | [297990-baba-yaga.json](./297990-baba-yaga.json) |
 | Baba Yaga | 330347 | [330347-baba-yaga.json](./330347-baba-yaga.json) |
 | Baba Yaga | 367181 | [367181-baba-yaga.json](./367181-baba-yaga.json) |
+| Baba Yaga's cabin | 298002 | [298002-baba-yagas-cabin.json](./298002-baba-yagas-cabin.json) |
+| Baba Yaga's Cosy House | 297996 | [297996-baba-yagas-cosy-house.json](./297996-baba-yagas-cosy-house.json) |
+| Baba Yaga's Great Adventure | 298006 | [298006-baba-yagas-great-adventure.json](./298006-baba-yagas-great-adventure.json) |
+| Baba Yaga's Helpmate | 297993 | [297993-baba-yagas-helpmate.json](./297993-baba-yagas-helpmate.json) |
 | Baba-Yaga za tridevyat' zemel'. Nachinaem uchit' nemetskiy | 365290 | [365290-baba-yaga-za-tridevyat-zemel-nachinaem-uchit-nemetskiy.json](./365290-baba-yaga-za-tridevyat-zemel-nachinaem-uchit-nemetskiy.json) |
 | Baba's Palace | 311985 | [311985-babas-palace.json](./311985-babas-palace.json) |
 | Bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk | 98838 | [98838-bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk.json](./98838-bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk.json) |
@@ -132,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babataire | 328331 | [328331-babataire.json](./328331-babataire.json) |
 | Babataire EX | 328332 | [328332-babataire-ex.json](./328332-babataire-ex.json) |
 | Babava's Playspace | 278974 | [278974-babavas-playspace.json](./278974-babavas-playspace.json) |
+| Babayka | 298005 | [298005-babayka.json](./298005-babayka.json) |
 | Babbdi | 229631 | [229631-babbdi.json](./229631-babbdi.json) |
 | Babbling Brook | 351277 | [351277-babbling-brook.json](./351277-babbling-brook.json) |
 | Babe | 56546 | [56546-babe.json](./56546-babe.json) |
@@ -175,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babulya | 386773 | [386773-babulya.json](./386773-babulya.json) |
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
 | Babushka | 414754 | [414754-babushka.json](./414754-babushka.json) |
+| Babushka Baba Yaga | 298001 | [298001-babushka-baba-yaga.json](./298001-babushka-baba-yaga.json) |
 | Babushka: Old Lady’s Payback | 389642 | [389642-babushka-old-lady-s-payback.json](./389642-babushka-old-lady-s-payback.json) |
 | Baby Arms | 246432 | [246432-baby-arms.json](./246432-baby-arms.json) |
 | Baby Bear's Big Day Out | 155707 | [155707-baby-bears-big-day-out.json](./155707-baby-bears-big-day-out.json) |
@@ -2332,6 +2339,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barn & Farm Renovator | 152984 | [152984-barn-and-farm-renovator.json](./152984-barn-and-farm-renovator.json) |
 | Barn Bashers | 177009 | [177009-barn-bashers.json](./177009-barn-bashers.json) |
 | Barn Finders VR | 172184 | [172184-barn-finders-vr.json](./172184-barn-finders-vr.json) |
+| Barn Runner 2: The Ejection Rejection | 299081 | [299081-barn-runner-2-the-ejection-rejection.json](./299081-barn-runner-2-the-ejection-rejection.json) |
+| Barn Runner: Christmas Soup | 299083 | [299083-barn-runner-christmas-soup.json](./299083-barn-runner-christmas-soup.json) |
+| Barn Runner: The Mayor's New Dress | 299082 | [299082-barn-runner-the-mayors-new-dress.json](./299082-barn-runner-the-mayors-new-dress.json) |
 | Barn Rush | 425449 | [425449-barn-rush.json](./425449-barn-rush.json) |
 | Barn Yarn: Collector's Edition | 339835 | [339835-barn-yarn-collectors-edition.json](./339835-barn-yarn-collectors-edition.json) |
 | Barnacle | 405614 | [405614-barnacle.json](./405614-barnacle.json) |
@@ -2712,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Slam! | 237651 | [237651-basketball-slam.json](./237651-basketball-slam.json) |
 | Basketball Slum Dunk 2024 | 308652 | [308652-basketball-slum-dunk-2024.json](./308652-basketball-slum-dunk-2024.json) |
 | BasketBall Street Hero | 239122 | [239122-basketball-street-hero.json](./239122-basketball-street-hero.json) |
+| Basketball Strike | 297987 | [297987-basketball-strike.json](./297987-basketball-strike.json) |
 | Basketball Théorie Pratique sur Ensembles Aléatoires | 355145 | [355145-basketball-theorie-pratique-sur-ensembles-aleatoires.json](./355145-basketball-theorie-pratique-sur-ensembles-aleatoires.json) |
 | Basketball Trivia | 88203 | [88203-basketball-trivia.json](./88203-basketball-trivia.json) |
 | Basketball VR | 304687 | [304687-basketball-vr.json](./304687-basketball-vr.json) |
@@ -4982,6 +4993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedtime Stories | 371963 | [371963-bedtime-stories.json](./371963-bedtime-stories.json) |
 | Bedtime Stories 2 | 370252 | [370252-bedtime-stories-2.json](./370252-bedtime-stories-2.json) |
 | Bedtime Story: Saint | 338208 | [338208-bedtime-story-saint.json](./338208-bedtime-story-saint.json) |
+| Bedtime: Turn Off the Life | 298614 | [298614-bedtime-turn-off-the-life.json](./298614-bedtime-turn-off-the-life.json) |
 | Bee | 78084 | [78084-bee.json](./78084-bee.json) |
 | Bee 52 | 48106 | [48106-bee-52.json](./48106-bee-52.json) |
 | Bee Eliminator | 247066 | [247066-bee-eliminator.json](./247066-bee-eliminator.json) |
@@ -5536,6 +5548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bending the Light | 167911 | [167911-bending-the-light.json](./167911-bending-the-light.json) |
 | Bendo | 245981 | [245981-bendo.json](./245981-bendo.json) |
 | Bendy and the Brine Barrel | 414386 | [414386-bendy-and-the-brine-barrel.json](./414386-bendy-and-the-brine-barrel.json) |
+| Bendy and the Ink Factory | 298535 | [298535-bendy-and-the-ink-factory.json](./298535-bendy-and-the-ink-factory.json) |
 | Bendy and the Ink Machine: Chapter Five | 281029 | [281029-bendy-and-the-ink-machine-chapter-five.json](./281029-bendy-and-the-ink-machine-chapter-five.json) |
 | Bendy Road | 98782 | [98782-bendy-road.json](./98782-bendy-road.json) |
 | Bendy Scary & Ink Machines | 216095 | [216095-bendy-scary-and-ink-machines.json](./216095-bendy-scary-and-ink-machines.json) |
@@ -9545,6 +9558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood+: Final Piece | 72478 | [72478-blood-final-piece.json](./72478-blood-final-piece.json) |
 | Blood+: Souyoku no Battle Rondo | 72477 | [72477-blood-souyoku-no-battle-rondo.json](./72477-blood-souyoku-no-battle-rondo.json) |
 | Blood=Bullets | 320565 | [320565-blood-bullets.json](./320565-blood-bullets.json) |
+| Blood4Blood | 297449 | [297449-blood4blood.json](./297449-blood4blood.json) |
 | Bloodball | 396427 | [396427-bloodball.json](./396427-bloodball.json) |
 | Bloodbark | 339221 | [339221-bloodbark.json](./339221-bloodbark.json) |
 | BloodBasket | 364070 | [364070-bloodbasket.json](./364070-bloodbasket.json) |
@@ -10063,6 +10077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Submarine No. 6: Antarctica | 78956 | [78956-blue-submarine-no-6-antarctica.json](./78956-blue-submarine-no-6-antarctica.json) |
 | Blue Sun Saga | 416863 | [416863-blue-sun-saga.json](./416863-blue-sun-saga.json) |
 | Blue Swift Wind | 378362 | [378362-blue-swift-wind.json](./378362-blue-swift-wind.json) |
+| Blue Swirl | 297526 | [297526-blue-swirl.json](./297526-blue-swirl.json) |
 | Blue Tear | 30308 | [30308-blue-tear.json](./30308-blue-tear.json) |
 | Blue the Dino | 21980 | [21980-blue-the-dino.json](./21980-blue-the-dino.json) |
 | Blue Thunder | 296678 | [296678-blue-thunder.json](./296678-blue-thunder.json) |
@@ -10973,6 +10988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonereader | 397769 | [397769-bonereader.json](./397769-bonereader.json) |
 | Bones | 372636 | [372636-bones.json](./372636-bones.json) |
 | Bones 'n' Bullets | 118303 | [118303-bones-n-bullets.json](./118303-bones-n-bullets.json) |
+| Bones Beneath | 298073 | [298073-bones-beneath.json](./298073-bones-beneath.json) |
 | Bones game online | 63726 | [63726-bones-game-online.json](./63726-bones-game-online.json) |
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
 | Bones of Halloween | 221096 | [221096-bones-of-halloween.json](./221096-bones-of-halloween.json) |
@@ -11631,6 +11647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bots n' Bugs | 183979 | [183979-bots-n-bugs.json](./183979-bots-n-bugs.json) |
 | Bots Rush | 112350 | [112350-bots-rush.json](./112350-bots-rush.json) |
 | Bots!! | 175926 | [175926-bots.json](./175926-bots.json) |
+| Bottakuri Taxi | 298605 | [298605-bottakuri-taxi.json](./298605-bottakuri-taxi.json) |
 | Botticelli | 362434 | [362434-botticelli.json](./362434-botticelli.json) |
 | Bottle | 219728 | [219728-bottle.json](./219728-bottle.json) |
 | Bottle | 248787 | [248787-bottle.json](./248787-bottle.json) |
@@ -12833,6 +12850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach of Contract Reloaded | 89947 | [89947-breach-of-contract-reloaded.json](./89947-breach-of-contract-reloaded.json) |
 | Breach Point | 118823 | [118823-breach-point.json](./118823-breach-point.json) |
 | Breach Signal | 341065 | [341065-breach-signal.json](./341065-breach-signal.json) |
+| Breach the Abyss | 298612 | [298612-breach-the-abyss.json](./298612-breach-the-abyss.json) |
 | Breach: 83 | 350968 | [350968-breach-83.json](./350968-breach-83.json) |
 | Breach: Chicago War Zone | 252007 | [252007-breach-chicago-war-zone.json](./252007-breach-chicago-war-zone.json) |
 | Breach: Veil Demon DLC | 170327 | [170327-breach-veil-demon-dlc.json](./170327-breach-veil-demon-dlc.json) |
@@ -14443,6 +14461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bughouse | 208363 | [208363-bughouse.json](./208363-bughouse.json) |
 | BugLab Simulator | 380120 | [380120-buglab-simulator.json](./380120-buglab-simulator.json) |
 | BugPot | 419991 | [419991-bugpot.json](./419991-bugpot.json) |
+| Bugs | 299090 | [299090-bugs.json](./299090-bugs.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
 | Bugs | 397851 | [397851-bugs.json](./397851-bugs.json) |
 | Bugs and Bullets | 235055 | [235055-bugs-and-bullets.json](./235055-bugs-and-bullets.json) |
