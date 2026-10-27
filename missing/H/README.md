@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happiness Inc. | 301374 | [301374-happiness-inc.json](./301374-happiness-inc.json) |
 | Happiness Market | 253411 | [253411-happiness-market.json](./253411-happiness-market.json) |
 | Happiness! De:Lucks | 94724 | [94724-happiness-de-lucks.json](./94724-happiness-de-lucks.json) |
+| Happiness! Sakura Celebration! | 316015 | [316015-happiness-sakura-celebration.json](./316015-happiness-sakura-celebration.json) |
 | Happup | 130738 | [130738-happup.json](./130738-happup.json) |
 | Happy Animal Farm | 140930 | [140930-happy-animal-farm.json](./140930-happy-animal-farm.json) |
 | Happy Animal Testing | 216699 | [216699-happy-animal-testing.json](./216699-happy-animal-testing.json) |
@@ -2025,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Town | 125155 | [125155-harvest-town.json](./125155-harvest-town.json) |
 | Harvest Uranus | 244514 | [244514-harvest-uranus.json](./244514-harvest-uranus.json) |
 | Harvest Village | 340417 | [340417-harvest-village.json](./340417-harvest-village.json) |
+| Harvest101 | 316036 | [316036-harvest101.json](./316036-harvest101.json) |
 | Harvested | 118393 | [118393-harvested.json](./118393-harvested.json) |
 | Harvested | 362388 | [362388-harvested.json](./362388-harvested.json) |
 | Harvestella | 206818 | [206818-harvestella.json](./206818-harvestella.json) |
@@ -4688,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henteria Chronicles: The Peacekeepers | 334495 | [334495-henteria-chronicles-the-peacekeepers.json](./334495-henteria-chronicles-the-peacekeepers.json) |
 | HenTris | 334797 | [334797-hentris.json](./334797-hentris.json) |
 | HenTris 2: Shemales | 111209 | [111209-hentris-2-shemales.json](./111209-hentris-2-shemales.json) |
+| Heoeonjeung Sogaeting! 2 | 316040 | [316040-heoeonjeung-sogaeting-2.json](./316040-heoeonjeung-sogaeting-2.json) |
 | Heph | 30121 | [30121-heph.json](./30121-heph.json) |
 | Hephep Fever: Retold | 334476 | [334476-hephep-fever-retold.json](./334476-hephep-fever-retold.json) |
 | Hepo | 266318 | [266318-hepo.json](./266318-hepo.json) |
@@ -4891,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Generations | 17301 | [17301-hero-generations.json](./17301-hero-generations.json) |
 | Hero Generations: ReGen | 33556 | [33556-hero-generations-regen.json](./33556-hero-generations-regen.json) |
 | Hero Great Wars | 252131 | [252131-hero-great-wars.json](./252131-hero-great-wars.json) |
+| Hero Guider | 316030 | [316030-hero-guider.json](./316030-hero-guider.json) |
 | Hero Hawk | 195042 | [195042-hero-hawk.json](./195042-hero-hawk.json) |
 | Hero Hellspawn: Learn Arithmetic | 384284 | [384284-hero-hellspawn-learn-arithmetic.json](./384284-hero-hellspawn-learn-arithmetic.json) |
 | Hero Hours Contract | 122642 | [122642-hero-hours-contract.json](./122642-hero-hours-contract.json) |
