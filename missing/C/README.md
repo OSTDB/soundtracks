@@ -10104,6 +10104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Vision Deficiency Test | 318641 | [318641-color-vision-deficiency-test.json](./318641-color-vision-deficiency-test.json) |
 | Color Water Sort: Complete Edition | 308798 | [308798-color-water-sort-complete-edition.json](./308798-color-water-sort-complete-edition.json) |
 | Color Water Sort: Gold Edition | 385195 | [385195-color-water-sort-gold-edition.json](./385195-color-water-sort-gold-edition.json) |
+| Color Water Sort: Time Attack Edition | 320694 | [320694-color-water-sort-time-attack-edition.json](./320694-color-water-sort-time-attack-edition.json) |
 | Color X Memory | 368682 | [368682-color-x-memory.json](./368682-color-x-memory.json) |
 | Color Your World | 145583 | [145583-color-your-world.json](./145583-color-your-world.json) |
 | Color-A-Cube | 330266 | [330266-color-a-cube.json](./330266-color-a-cube.json) |
@@ -10696,6 +10697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Sakka Series Touma Senki #3: Ryuujin Sensei Kiki Ippatsu | 41352 | [41352-comic-sakka-series-touma-senki-3-ryuujin-sensei-kiki-ippatsu.json](./41352-comic-sakka-series-touma-senki-3-ryuujin-sensei-kiki-ippatsu.json) |
 | Comic Sakka Series Touma Senki #4: Tenkuu Ryuumaou Fukkatsu | 41351 | [41351-comic-sakka-series-touma-senki-4-tenkuu-ryuumaou-fukkatsu.json](./41351-comic-sakka-series-touma-senki-4-tenkuu-ryuumaou-fukkatsu.json) |
 | Comic Sakka Series Touma Senki #5: Youjuu Rudo no Chousen | 41350 | [41350-comic-sakka-series-touma-senki-5-youjuu-rudo-no-chousen.json](./41350-comic-sakka-series-touma-senki-5-youjuu-rudo-no-chousen.json) |
+| Comic Store Arcade | 320791 | [320791-comic-store-arcade.json](./320791-comic-store-arcade.json) |
 | Comic Store Simulator | 335219 | [335219-comic-store-simulator.json](./335219-comic-store-simulator.json) |
 | Comicado | 16858 | [16858-comicado.json](./16858-comicado.json) |
 | ComicBachiCooon!! | 293833 | [293833-comicbachicooon.json](./293833-comicbachicooon.json) |
@@ -13271,6 +13273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Space Survivors | 275087 | [275087-cozy-space-survivors.json](./275087-cozy-space-survivors.json) |
 | Cozy Sudoku | 339331 | [339331-cozy-sudoku.json](./339331-cozy-sudoku.json) |
 | Cozy Tide | 406852 | [406852-cozy-tide.json](./406852-cozy-tide.json) |
+| Cozy Together | 320701 | [320701-cozy-together.json](./320701-cozy-together.json) |
 | Cozy Town | 380093 | [380093-cozy-town.json](./380093-cozy-town.json) |
 | Cozy Toy Shop | 378283 | [378283-cozy-toy-shop.json](./378283-cozy-toy-shop.json) |
 | Cozy Trip | 264146 | [264146-cozy-trip.json](./264146-cozy-trip.json) |
@@ -17473,6 +17476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cynthia: Hidden in the Moonshadow - Accessory Pack #3 | 313789 | [313789-cynthia-hidden-in-the-moonshadow-accessory-pack-3.json](./313789-cynthia-hidden-in-the-moonshadow-accessory-pack-3.json) |
 | Cynthia: Hidden in the Moonshadow - Anniversary Edition | 331270 | [331270-cynthia-hidden-in-the-moonshadow-anniversary-edition.json](./331270-cynthia-hidden-in-the-moonshadow-anniversary-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Complete Edition | 283152 | [283152-cynthia-hidden-in-the-moonshadow-complete-edition.json](./283152-cynthia-hidden-in-the-moonshadow-complete-edition.json) |
+| Cynthia: Hidden in the Moonshadow - Cyber Edition | 320693 | [320693-cynthia-hidden-in-the-moonshadow-cyber-edition.json](./320693-cynthia-hidden-in-the-moonshadow-cyber-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Deluxe Edition | 292919 | [292919-cynthia-hidden-in-the-moonshadow-deluxe-edition.json](./292919-cynthia-hidden-in-the-moonshadow-deluxe-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Epic Edition | 339069 | [339069-cynthia-hidden-in-the-moonshadow-epic-edition.json](./339069-cynthia-hidden-in-the-moonshadow-epic-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Extended Edition | 313438 | [313438-cynthia-hidden-in-the-moonshadow-extended-edition.json](./313438-cynthia-hidden-in-the-moonshadow-extended-edition.json) |
