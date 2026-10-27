@@ -5537,7 +5537,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Capitalist 3 | 106758 | [106758-the-big-capitalist-3.json](./106758-the-big-capitalist-3.json) |
 | The Big Catch | 217819 | [217819-the-big-catch.json](./217819-the-big-catch.json) |
 | The Big City | 270702 | [270702-the-big-city.json](./270702-the-big-city.json) |
-| The Big Con | 121767 | [121767-the-big-con.json](./121767-the-big-con.json) |
 | The Big Con: Grift of the Year Edition | 201255 | [201255-the-big-con-grift-of-the-year-edition.json](./201255-the-big-con-grift-of-the-year-edition.json) |
 | The Big Deal | 13815 | [13815-the-big-deal.json](./13815-the-big-deal.json) |
 | The Big Deal | 267219 | [267219-the-big-deal.json](./267219-the-big-deal.json) |
