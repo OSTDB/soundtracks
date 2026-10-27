@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Bumper Cars: Dodgems | 164765 | [164765-ultimate-bumper-cars-dodgems.json](./164765-ultimate-bumper-cars-dodgems.json) |
 | Ultimate Candy Hunt | 384337 | [384337-ultimate-candy-hunt.json](./384337-ultimate-candy-hunt.json) |
 | Ultimate Car Company Tycoon | 390108 | [390108-ultimate-car-company-tycoon.json](./390108-ultimate-car-company-tycoon.json) |
+| Ultimate Car Driving Simulator 2 | 297520 | [297520-ultimate-car-driving-simulator-2.json](./297520-ultimate-car-driving-simulator-2.json) |
 | Ultimate Car Driving: Classics | 96775 | [96775-ultimate-car-driving-classics.json](./96775-ultimate-car-driving-classics.json) |
 | Ultimate Card Games | 200981 | [200981-ultimate-card-games.json](./200981-ultimate-card-games.json) |
 | Ultimate Cards | 14519 | [14519-ultimate-cards.json](./14519-ultimate-cards.json) |
@@ -2088,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe Surfing | 297575 | [297575-universe-surfing.json](./297575-universe-surfing.json) |
 | Universe Survivors | 236279 | [236279-universe-survivors.json](./236279-universe-survivors.json) |
 | Universe Unknown | 304623 | [304623-universe-unknown.json](./304623-universe-unknown.json) |
+| Universe Wars | 298603 | [298603-universe-wars.json](./298603-universe-wars.json) |
 | Universe: Unknown | 73224 | [73224-universe-unknown.json](./73224-universe-unknown.json) |
 | Universe999999 | 150259 | [150259-universe999999.json](./150259-universe999999.json) |
 | University | 252205 | [252205-university.json](./252205-university.json) |
@@ -2180,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited Fight | 163778 | [163778-unlimited-fight.json](./163778-unlimited-fight.json) |
 | Unlimited Fight Ultimate Strike | 235353 | [235353-unlimited-fight-ultimate-strike.json](./235353-unlimited-fight-ultimate-strike.json) |
 | Unlimited Hearts | 67243 | [67243-unlimited-hearts.json](./67243-unlimited-hearts.json) |
+| Unlimited Worlds | 298616 | [298616-unlimited-worlds.json](./298616-unlimited-worlds.json) |
 | Unline | 278501 | [278501-unline.json](./278501-unline.json) |
 | Unlisted | 422034 | [422034-unlisted.json](./422034-unlisted.json) |
 | Unlit | 126831 | [126831-unlit.json](./126831-unlit.json) |
@@ -2666,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up All Night: Rumination | 225305 | [225305-up-all-night-rumination.json](./225305-up-all-night-rumination.json) |
 | Up and Down | 81949 | [81949-up-and-down.json](./81949-up-and-down.json) |
 | Up and Up | 102973 | [102973-up-and-up.json](./102973-up-and-up.json) |
+| Up Down All-a-Round | 301871 | [301871-up-down-all-a-round.json](./301871-up-down-all-a-round.json) |
 | Up Down Z | 136235 | [136235-up-down-z.json](./136235-up-down-z.json) |
 | Up for Grabs | 268025 | [268025-up-for-grabs.json](./268025-up-for-grabs.json) |
 | Up Hike | 286992 | [286992-up-hike.json](./286992-up-hike.json) |
@@ -2817,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uranus | 161632 | [161632-uranus.json](./161632-uranus.json) |
 | Uranus | 313454 | [313454-uranus.json](./313454-uranus.json) |
 | Urawaza Mahjong: Korette Tenwatte Yatsukai | 363966 | [363966-urawaza-mahjong-korette-tenwatte-yatsukai.json](./363966-urawaza-mahjong-korette-tenwatte-yatsukai.json) |
+| Urayama | 298619 | [298619-urayama.json](./298619-urayama.json) |
 | URB: Last Pixels Battle | 100845 | [100845-urb-last-pixels-battle.json](./100845-urb-last-pixels-battle.json) |
 | Urban | 312570 | [312570-urban.json](./312570-urban.json) |
 | Urban | 89643 | [89643-urban.json](./89643-urban.json) |
@@ -3099,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utopia | 5702 | [5702-utopia.json](./5702-utopia.json) |
 | Utopia 9: A Volatile Vacation | 20360 | [20360-utopia-9-a-volatile-vacation.json](./20360-utopia-9-a-volatile-vacation.json) |
 | Utopia Gatekeeper | 412617 | [412617-utopia-gatekeeper.json](./412617-utopia-gatekeeper.json) |
+| Utopia Must Fall | 301870 | [301870-utopia-must-fall.json](./301870-utopia-must-fall.json) |
 | Utopia no Soubou | 378191 | [378191-utopia-no-soubou.json](./378191-utopia-no-soubou.json) |
 | Utopia Process | 153390 | [153390-utopia-process.json](./153390-utopia-process.json) |
 | Utopia Syndrome | 110738 | [110738-utopia-syndrome.json](./110738-utopia-syndrome.json) |
