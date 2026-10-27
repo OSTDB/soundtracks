@@ -7905,6 +7905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andarilho | 33289 | [33289-andarilho.json](./33289-andarilho.json) |
 | Andarin Weppes | 257888 | [257888-andarin-weppes.json](./257888-andarin-weppes.json) |
 | Andarin Weppes: Pre-Dementia | 289811 | [289811-andarin-weppes-pre-dementia.json](./289811-andarin-weppes-pre-dementia.json) |
+| Andaron Saga: Randomizer | 315436 | [315436-andaron-saga-randomizer.json](./315436-andaron-saga-randomizer.json) |
 | AnderKant | 367493 | [367493-anderkant.json](./367493-anderkant.json) |
 | AnderKant 2 | 326243 | [326243-anderkant-2.json](./326243-anderkant-2.json) |
 | AnderKant 4 | 339935 | [339935-anderkant-4.json](./339935-anderkant-4.json) |
@@ -14232,6 +14233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATP Tour Championship Tennis | 46234 | [46234-atp-tour-championship-tennis.json](./46234-atp-tour-championship-tennis.json) |
 | Atramentum VR | 29797 | [29797-atramentum-vr.json](./29797-atramentum-vr.json) |
 | Atrapa la Bandera | 204455 | [204455-atrapa-la-bandera.json](./204455-atrapa-la-bandera.json) |
+| Atre: Dominance Wars | 315459 | [315459-atre-dominance-wars.json](./315459-atre-dominance-wars.json) |
 | Atrevete a Soñar | 253800 | [253800-atrevete-a-sonar.json](./253800-atrevete-a-sonar.json) |
 | Atri: My Dear Moments | 131634 | [131634-atri-my-dear-moments.json](./131634-atri-my-dear-moments.json) |
 | Atria | 203839 | [203839-atria.json](./203839-atria.json) |
