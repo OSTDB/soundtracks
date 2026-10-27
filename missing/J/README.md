@@ -1267,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match Atlantis Solitaire 5: Collector's Edition | 381596 | [381596-jewel-match-atlantis-solitaire-5-collectors-edition.json](./381596-jewel-match-atlantis-solitaire-5-collectors-edition.json) |
 | Jewel Match Atlantis Solitaire: Collector's Edition | 126907 | [126907-jewel-match-atlantis-solitaire-collectors-edition.json](./126907-jewel-match-atlantis-solitaire-collectors-edition.json) |
 | Jewel Match IV | 128477 | [128477-jewel-match-iv.json](./128477-jewel-match-iv.json) |
+| Jewel Match Origins 3: Camelot Castle - Collector's Edition | 295759 | [295759-jewel-match-origins-3-camelot-castle-collectors-edition.json](./295759-jewel-match-origins-3-camelot-castle-collectors-edition.json) |
 | Jewel Match Origins: Palais Imperial - Collector's Edition | 169954 | [169954-jewel-match-origins-palais-imperial-collectors-edition.json](./169954-jewel-match-origins-palais-imperial-collectors-edition.json) |
 | Jewel Match Royale | 296202 | [296202-jewel-match-royale.json](./296202-jewel-match-royale.json) |
 | Jewel Match Royale 2: Rise of the King | 296203 | [296203-jewel-match-royale-2-rise-of-the-king.json](./296203-jewel-match-royale-2-rise-of-the-king.json) |
