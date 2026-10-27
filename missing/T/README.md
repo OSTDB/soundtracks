@@ -8052,6 +8052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Hours of Mass Effect 3 | 202354 | [202354-the-final-hours-of-mass-effect-3.json](./202354-the-final-hours-of-mass-effect-3.json) |
 | The Final Hours of Titanfall | 36336 | [36336-the-final-hours-of-titanfall.json](./36336-the-final-hours-of-titanfall.json) |
 | The Final Image | 118650 | [118650-the-final-image.json](./118650-the-final-image.json) |
+| The Final Keeper | 304555 | [304555-the-final-keeper.json](./304555-the-final-keeper.json) |
 | The Final Matrix | 14066 | [14066-the-final-matrix.json](./14066-the-final-matrix.json) |
 | The Final Oath | 390374 | [390374-the-final-oath.json](./390374-the-final-oath.json) |
 | The Final Payphone | 351235 | [351235-the-final-payphone.json](./351235-the-final-payphone.json) |
@@ -12231,6 +12232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nile God | 318719 | [318719-the-nile-god.json](./318719-the-nile-god.json) |
 | The Nine | 89045 | [89045-the-nine.json](./89045-the-nine.json) |
 | The Nine Rebirths | 326291 | [326291-the-nine-rebirths.json](./326291-the-nine-rebirths.json) |
+| The Nine Tailed Celestial Fox | 304548 | [304548-the-nine-tailed-celestial-fox.json](./304548-the-nine-tailed-celestial-fox.json) |
 | The Ninja | 12889 | [12889-the-ninja.json](./12889-the-ninja.json) |
 | The Ninja | 346067 | [346067-the-ninja.json](./346067-the-ninja.json) |
 | The Ninja Gaiden as Interpreted by MiniMacro Sound | 311650 | [311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json](./311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json) |
@@ -15164,6 +15166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Top Hat Club | 265742 | [265742-the-top-hat-club.json](./265742-the-top-hat-club.json) |
 | The Toroidal Tower | 182130 | [182130-the-toroidal-tower.json](./182130-the-toroidal-tower.json) |
 | The Tortile Chamber | 182156 | [182156-the-tortile-chamber.json](./182156-the-tortile-chamber.json) |
+| The Tortoise and the Hare | 304524 | [304524-the-tortoise-and-the-hare.json](./304524-the-tortoise-and-the-hare.json) |
 | The Torture Game 2 | 141259 | [141259-the-torture-game-2.json](./141259-the-torture-game-2.json) |
 | The Torture House | 303177 | [303177-the-torture-house.json](./303177-the-torture-house.json) |
 | The Torus Syndicate | 30725 | [30725-the-torus-syndicate.json](./30725-the-torus-syndicate.json) |
@@ -21691,6 +21694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Human | 292152 | [292152-too-human.json](./292152-too-human.json) |
 | Too Human | 5648 | [5648-too-human.json](./5648-too-human.json) |
 | Too Impatient | 191470 | [191470-too-impatient.json](./191470-too-impatient.json) |
+| Too Late Forest | 304532 | [304532-too-late-forest.json](./304532-too-late-forest.json) |
 | Too Loud | 120694 | [120694-too-loud.json](./120694-too-loud.json) |
 | Too Many Bots | 366889 | [366889-too-many-bots.json](./366889-too-many-bots.json) |
 | Too Many Cooks | 375838 | [375838-too-many-cooks.json](./375838-too-many-cooks.json) |
