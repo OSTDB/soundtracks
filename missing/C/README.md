@@ -2184,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Crush Zero | 405141 | [405141-cargo-crush-zero.json](./405141-cargo-crush-zero.json) |
 | Cargo Cult | 111539 | [111539-cargo-cult.json](./111539-cargo-cult.json) |
 | Cargo Cult: Shoot'n'Loot VR | 30258 | [30258-cargo-cult-shootnloot-vr.json](./30258-cargo-cult-shootnloot-vr.json) |
+| Cargo Delivery Simulator | 332953 | [332953-cargo-delivery-simulator.json](./332953-cargo-delivery-simulator.json) |
 | Cargo Duty | 284809 | [284809-cargo-duty.json](./284809-cargo-duty.json) |
 | Cargo Hunters | 313453 | [313453-cargo-hunters.json](./313453-cargo-hunters.json) |
 | Cargo Jeep Racing | 213815 | [213815-cargo-jeep-racing.json](./213815-cargo-jeep-racing.json) |
@@ -14811,6 +14812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Chase | 293229 | [293229-cross-chase.json](./293229-cross-chase.json) |
 | Cross Country Express - An Oddfellows Mini | 121335 | [121335-cross-country-express-an-oddfellows-mini.json](./121335-cross-country-express-an-oddfellows-mini.json) |
 | Cross Country Skiing VR | 99035 | [99035-cross-country-skiing-vr.json](./99035-cross-country-skiing-vr.json) |
+| Cross Court Tennis 2 | 332906 | [332906-cross-court-tennis-2.json](./332906-cross-court-tennis-2.json) |
 | Cross Dating Adventure: Kasanari | 97732 | [97732-cross-dating-adventure-kasanari.json](./97732-cross-dating-adventure-kasanari.json) |
 | Cross Days | 92409 | [92409-cross-days.json](./92409-cross-days.json) |
 | Cross Death VR | 32215 | [32215-cross-death-vr.json](./32215-cross-death-vr.json) |
