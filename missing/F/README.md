@@ -1212,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: Sonora | 237831 | [237831-fallout-sonora.json](./237831-fallout-sonora.json) |
 | Fallout: Sonora Dayglow | 333655 | [333655-fallout-sonora-dayglow.json](./333655-fallout-sonora-dayglow.json) |
 | Fallout: The Frontier | 25878 | [25878-fallout-the-frontier.json](./25878-fallout-the-frontier.json) |
+| Fallout: Vault 13 | 299706 | [299706-fallout-vault-13.json](./299706-fallout-vault-13.json) |
 | Fallout: Yesterday | 290277 | [290277-fallout-yesterday.json](./290277-fallout-yesterday.json) |
 | Fallow | 56437 | [56437-fallow.json](./56437-fallow.json) |
 | Falls and Jumps | 262904 | [262904-falls-and-jumps.json](./262904-falls-and-jumps.json) |
@@ -2962,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FBG Arcade Machine | 169761 | [169761-fbg-arcade-machine.json](./169761-fbg-arcade-machine.json) |
 | FBI Hostage Rescue | 46458 | [46458-fbi-hostage-rescue.json](./46458-fbi-hostage-rescue.json) |
 | FBI Mania | 30065 | [30065-fbi-mania.json](./30065-fbi-mania.json) |
+| FBI-13 | 299697 | [299697-fbi-13.json](./299697-fbi-13.json) |
 | FBI: Paranormal Case | 122102 | [122102-fbi-paranormal-case.json](./122102-fbi-paranormal-case.json) |
 | FC 26 Quiz | 396596 | [396596-fc-26-quiz.json](./396596-fc-26-quiz.json) |
 | FC Barcelona Club Football | 267881 | [267881-fc-barcelona-club-football.json](./267881-fc-barcelona-club-football.json) |
