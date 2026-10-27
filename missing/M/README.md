@@ -1745,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong: Mystery Mansion | 107068 | [107068-mahjong-mystery-mansion.json](./107068-mahjong-mystery-mansion.json) |
 | Mahjong: Orient Mysteries | 402736 | [402736-mahjong-orient-mysteries.json](./402736-mahjong-orient-mysteries.json) |
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
+| Mahjongg | 328908 | [328908-mahjongg.json](./328908-mahjongg.json) |
 | Mahjongg 4 Deluxe | 24757 | [24757-mahjongg-4-deluxe.json](./24757-mahjongg-4-deluxe.json) |
 | Mahjongg Artifacts: Chapter 2 | 66978 | [66978-mahjongg-artifacts-chapter-2.json](./66978-mahjongg-artifacts-chapter-2.json) |
 | Mahjongg Compilation | 91596 | [91596-mahjongg-compilation.json](./91596-mahjongg-compilation.json) |
@@ -4667,6 +4668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchmakers A | 354386 | [354386-matchmakers-a.json](./354386-matchmakers-a.json) |
 | Matchmakers B | 354387 | [354387-matchmakers-b.json](./354387-matchmakers-b.json) |
 | Matchmaking for Ghosts | 398988 | [398988-matchmaking-for-ghosts.json](./398988-matchmaking-for-ghosts.json) |
+| Matchmaking Inc. | 328921 | [328921-matchmaking-inc.json](./328921-matchmaking-inc.json) |
 | Matchmension: House of Mist | 197915 | [197915-matchmension-house-of-mist.json](./197915-matchmension-house-of-mist.json) |
 | MatchOolu | 320525 | [320525-matchoolu.json](./320525-matchoolu.json) |
 | Matchpoint: Tennis Championships | 188540 | [188540-matchpoint-tennis-championships.json](./188540-matchpoint-tennis-championships.json) |
