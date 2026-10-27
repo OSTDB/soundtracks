@@ -1427,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi Eiketsuden | 327954 | [327954-sangokushi-eiketsuden.json](./327954-sangokushi-eiketsuden.json) |
 | Sangokushi Eiketsuden | 55809 | [55809-sangokushi-eiketsuden.json](./55809-sangokushi-eiketsuden.json) |
 | Sangokushi Game Boy-ban | 349837 | [349837-sangokushi-game-boy-ban.json](./349837-sangokushi-game-boy-ban.json) |
+| Sangokushi Game Boy-ban 2 | 282606 | [282606-sangokushi-game-boy-ban-2.json](./282606-sangokushi-game-boy-ban-2.json) |
 | Sangokushi II: Haou no Tairiku | 48861 | [48861-sangokushi-ii-haou-no-tairiku.json](./48861-sangokushi-ii-haou-no-tairiku.json) |
 | Sangokushi III | 350289 | [350289-sangokushi-iii.json](./350289-sangokushi-iii.json) |
 | Sangokushi IV: Power Up Kit | 350293 | [350293-sangokushi-iv-power-up-kit.json](./350293-sangokushi-iv-power-up-kit.json) |
@@ -1557,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Girl | 384587 | [384587-santa-girl.json](./384587-santa-girl.json) |
 | Santa Holiday Puzzle | 379395 | [379395-santa-holiday-puzzle.json](./379395-santa-holiday-puzzle.json) |
 | Santa in search of toys | 113691 | [113691-santa-in-search-of-toys.json](./113691-santa-in-search-of-toys.json) |
+| Santa in the Ucube City | 282420 | [282420-santa-in-the-ucube-city.json](./282420-santa-in-the-ucube-city.json) |
 | Santa Jump | 186840 | [186840-santa-jump.json](./186840-santa-jump.json) |
 | Santa Monica Paradise | 134482 | [134482-santa-monica-paradise.json](./134482-santa-monica-paradise.json) |
 | Santa Olympics | 175400 | [175400-santa-olympics.json](./175400-santa-olympics.json) |
@@ -2958,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Valravn | 280174 | [280174-scp-valravn.json](./280174-scp-valravn.json) |
 | Scrabble | 131524 | [131524-scrabble.json](./131524-scrabble.json) |
 | Scrabble | 199433 | [199433-scrabble.json](./199433-scrabble.json) |
+| Scrabble | 282608 | [282608-scrabble.json](./282608-scrabble.json) |
 | Scrabble | 286433 | [286433-scrabble.json](./286433-scrabble.json) |
 | Scrabble | 344151 | [344151-scrabble.json](./344151-scrabble.json) |
 | Scrabble | 354997 | [354997-scrabble.json](./354997-scrabble.json) |
@@ -4400,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seina: a Tale Of Spirits | 380792 | [380792-seina-a-tale-of-spirits.json](./380792-seina-a-tale-of-spirits.json) |
 | Seinarukana -The Spirit of Eternity Sword 2- | 24971 | [24971-seinarukana-the-spirit-of-eternity-sword-2.json](./24971-seinarukana-the-spirit-of-eternity-sword-2.json) |
 | Seinfeld: The Telltale Series | 144119 | [144119-seinfeld-the-telltale-series.json](./144119-seinfeld-the-telltale-series.json) |
+| Seipoi Densetsu | 282609 | [282609-seipoi-densetsu.json](./282609-seipoi-densetsu.json) |
 | Seirei no Mori no Bouken | 358503 | [358503-seirei-no-mori-no-bouken.json](./358503-seirei-no-mori-no-bouken.json) |
 | Seirei Senshi Spriggan | 37617 | [37617-seirei-senshi-spriggan.json](./37617-seirei-senshi-spriggan.json) |
 | Seirei Shinseiki Fhey Area | 46391 | [46391-seirei-shinseiki-fhey-area.json](./46391-seirei-shinseiki-fhey-area.json) |
@@ -4644,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
 | Senjou no Waltz for Nintendo Switch: Limited Edition | 253740 | [253740-senjou-no-waltz-for-nintendo-switch-limited-edition.json](./253740-senjou-no-waltz-for-nintendo-switch-limited-edition.json) |
 | Senjyo | 40018 | [40018-senjyo.json](./40018-senjyo.json) |
+| Senkai Ibunroku Juntei Taisen | 282610 | [282610-senkai-ibunroku-juntei-taisen.json](./282610-senkai-ibunroku-juntei-taisen.json) |
 | Senkai Livin' | 392345 | [392345-senkai-livin.json](./392345-senkai-livin.json) |
 | Senkaiden Ni: TV Animation Senkaiden Houshin Engi Yori | 37313 | [37313-senkaiden-ni-tv-animation-senkaiden-houshin-engi-yori.json](./37313-senkaiden-ni-tv-animation-senkaiden-houshin-engi-yori.json) |
 | Senko no Ronde 2 | 29137 | [29137-senko-no-ronde-2.json](./29137-senko-no-ronde-2.json) |
@@ -8440,6 +8445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sibijicheon M | 233547 | [233547-sibijicheon-m.json](./233547-sibijicheon-m.json) |
 | Sibilla | 405005 | [405005-sibilla.json](./405005-sibilla.json) |
 | Sibling Souls | 343388 | [343388-sibling-souls.json](./343388-sibling-souls.json) |
+| Siblings | 282607 | [282607-siblings.json](./282607-siblings.json) |
 | Sicaria | 289425 | [289425-sicaria.json](./289425-sicaria.json) |
 | Sichiken | 407213 | [407213-sichiken.json](./407213-sichiken.json) |
 | Sicier's Zweck | 117076 | [117076-siciers-zweck.json](./117076-siciers-zweck.json) |
