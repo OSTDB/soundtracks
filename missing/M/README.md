@@ -1155,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Trap | 303642 | [303642-magic-trap.json](./303642-magic-trap.json) |
 | Magic Traps | 144135 | [144135-magic-traps.json](./144135-magic-traps.json) |
 | Magic Triangles | 105737 | [105737-magic-triangles.json](./105737-magic-triangles.json) |
+| Magic Trickery | 330637 | [330637-magic-trickery.json](./330637-magic-trickery.json) |
 | Magic Trolls | 245456 | [245456-magic-trolls.json](./245456-magic-trolls.json) |
 | Magic Twins | 132244 | [132244-magic-twins.json](./132244-magic-twins.json) |
 | Magic Twist: Music Tiles Game | 95804 | [95804-magic-twist-music-tiles-game.json](./95804-magic-twist-music-tiles-game.json) |
@@ -2605,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maniac GO | 43137 | [43137-maniac-go.json](./43137-maniac-go.json) |
 | Maniac Inc. | 182162 | [182162-maniac-inc.json](./182162-maniac-inc.json) |
 | Maniac Jackson and the Moonwalking Mindbenders | 93035 | [93035-maniac-jackson-and-the-moonwalking-mindbenders.json](./93035-maniac-jackson-and-the-moonwalking-mindbenders.json) |
+| Maniac Land | 330476 | [330476-maniac-land.json](./330476-maniac-land.json) |
 | Maniac Mansion | 307416 | [307416-maniac-mansion.json](./307416-maniac-mansion.json) |
 | Maniac Mansion 4 Blood | 276381 | [276381-maniac-mansion-4-blood.json](./276381-maniac-mansion-4-blood.json) |
 | Maniac Mansion Deluxe | 198173 | [198173-maniac-mansion-deluxe.json](./198173-maniac-mansion-deluxe.json) |
@@ -4624,6 +4626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Up! | 85618 | [85618-match-up.json](./85618-match-up.json) |
 | Match Ventures 2 | 234628 | [234628-match-ventures-2.json](./234628-match-ventures-2.json) |
 | Match Village | 217372 | [217372-match-village.json](./217372-match-village.json) |
+| Match Villains | 330634 | [330634-match-villains.json](./330634-match-villains.json) |
 | Match War | 258710 | [258710-match-war.json](./258710-match-war.json) |
 | Match-3: Matchington Mansion | 86782 | [86782-match-3-matchington-mansion.json](./86782-match-3-matchington-mansion.json) |
 | Match-o-3000 | 336722 | [336722-match-o-3000.json](./336722-match-o-3000.json) |
@@ -5360,6 +5363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MazeBrew | 242771 | [242771-mazebrew.json](./242771-mazebrew.json) |
 | MazeCraft | 365217 | [365217-mazecraft.json](./365217-mazecraft.json) |
 | Mazed and Bemused | 143963 | [143963-mazed-and-bemused.json](./143963-mazed-and-bemused.json) |
+| Mazed Joseon | 330495 | [330495-mazed-joseon.json](./330495-mazed-joseon.json) |
 | MazeFinger | 79863 | [79863-mazefinger.json](./79863-mazefinger.json) |
 | Mazeglaser | 65833 | [65833-mazeglaser.json](./65833-mazeglaser.json) |
 | Mazeing | 152624 | [152624-mazeing.json](./152624-mazeing.json) |
@@ -8216,6 +8220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear 2: Solid Snake | 377 | [377-metal-gear-2-solid-snake.json](./377-metal-gear-2-solid-snake.json) |
 | Metal Gear Acid | 12211 | [12211-metal-gear-acid.json](./12211-metal-gear-acid.json) |
 | Metal Gear Acid 2 | 9886 | [9886-metal-gear-acid-2.json](./9886-metal-gear-acid-2.json) |
+| Metal Gear Dome | 330463 | [330463-metal-gear-dome.json](./330463-metal-gear-dome.json) |
 | Metal Gear GB | 181868 | [181868-metal-gear-gb.json](./181868-metal-gear-gb.json) |
 | Metal Gear Noah | 107207 | [107207-metal-gear-noah.json](./107207-metal-gear-noah.json) |
 | Metal Gear Online | 269417 | [269417-metal-gear-online.json](./269417-metal-gear-online.json) |
@@ -9828,6 +9833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mile Bones | 83480 | [83480-mile-bones.json](./83480-mile-bones.json) |
 | Mile High Pinball | 6266 | [6266-mile-high-pinball.json](./6266-mile-high-pinball.json) |
 | Mile High Taxi | 217387 | [217387-mile-high-taxi.json](./217387-mile-high-taxi.json) |
+| Mile's Legacy | 330462 | [330462-miles-legacy.json](./330462-miles-legacy.json) |
 | Milenay | 369323 | [369323-milenay.json](./369323-milenay.json) |
 | Miles & Kilo | 76041 | [76041-miles-and-kilo.json](./76041-miles-and-kilo.json) |
 | Miles 27: Look Like You | 413765 | [413765-miles-27-look-like-you.json](./413765-miles-27-look-like-you.json) |
@@ -10785,6 +10791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Jumps | 412304 | [412304-mini-jumps.json](./412304-mini-jumps.json) |
 | Mini Kaizo Bros. 3 | 220782 | [220782-mini-kaizo-bros-3.json](./220782-mini-kaizo-bros-3.json) |
 | Mini Kart Racing | 154356 | [154356-mini-kart-racing.json](./154356-mini-kart-racing.json) |
+| Mini Kingdom War | 330650 | [330650-mini-kingdom-war.json](./330650-mini-kingdom-war.json) |
 | Mini Knight | 83488 | [83488-mini-knight.json](./83488-mini-knight.json) |
 | Mini Leap | 209707 | [209707-mini-leap.json](./209707-mini-leap.json) |
 | Mini Lucy | 403705 | [403705-mini-lucy.json](./403705-mini-lucy.json) |
@@ -11805,6 +11812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misty Judgment | 367356 | [367356-misty-judgment.json](./367356-misty-judgment.json) |
 | Misty no Kira-kira Hanjouki | 265217 | [265217-misty-no-kira-kira-hanjouki.json](./265217-misty-no-kira-kira-hanjouki.json) |
 | Misty Puzzle | 350231 | [350231-misty-puzzle.json](./350231-misty-puzzle.json) |
+| Misty Village | 330652 | [330652-misty-village.json](./330652-misty-village.json) |
 | Misty Vol.1 | 392402 | [392402-misty-vol-1.json](./392402-misty-vol-1.json) |
 | Misty's Idle Fishing | 372531 | [372531-mistys-idle-fishing.json](./372531-mistys-idle-fishing.json) |
 | Misty's Shining Blacksmithing | 212199 | [212199-mistys-shining-blacksmithing.json](./212199-mistys-shining-blacksmithing.json) |
@@ -12029,6 +12037,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 24: Digital Deluxe Edition | 286200 | [286200-mlb-the-show-24-digital-deluxe-edition.json](./286200-mlb-the-show-24-digital-deluxe-edition.json) |
 | MLB The Show 24: MVP Edition | 286201 | [286201-mlb-the-show-24-mvp-edition.json](./286201-mlb-the-show-24-mvp-edition.json) |
 | MLB The Show 25 | 329844 | [329844-mlb-the-show-25.json](./329844-mlb-the-show-25.json) |
+| MLB The Show 25: Digital Deluxe Edition | 330621 | [330621-mlb-the-show-25-digital-deluxe-edition.json](./330621-mlb-the-show-25-digital-deluxe-edition.json) |
+| MLB The Show 25: Digital Deluxe Edition Bonus Content | 330624 | [330624-mlb-the-show-25-digital-deluxe-edition-bonus-content.json](./330624-mlb-the-show-25-digital-deluxe-edition-bonus-content.json) |
 | MLB The Show 26 | 387374 | [387374-mlb-the-show-26.json](./387374-mlb-the-show-26.json) |
 | MLB The Show 26: Digital Deluxe Edition | 390533 | [390533-mlb-the-show-26-digital-deluxe-edition.json](./390533-mlb-the-show-26-digital-deluxe-edition.json) |
 | MLB The Show 26: Digital Deluxe Edition Bonus Content | 390925 | [390925-mlb-the-show-26-digital-deluxe-edition-bonus-content.json](./390925-mlb-the-show-26-digital-deluxe-edition-bonus-content.json) |
@@ -14221,6 +14231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mootation | 412016 | [412016-mootation.json](./412016-mootation.json) |
 | Mop of the Dead | 249876 | [249876-mop-of-the-dead.json](./249876-mop-of-the-dead.json) |
 | MOP Operation Cleanup | 32961 | [32961-mop-operation-cleanup.json](./32961-mop-operation-cleanup.json) |
+| Mop Skater | 330640 | [330640-mop-skater.json](./330640-mop-skater.json) |
 | Mop'n Spark | 347046 | [347046-mopn-spark.json](./347046-mopn-spark.json) |
 | Mopar Drag N Brag | 246965 | [246965-mopar-drag-n-brag.json](./246965-mopar-drag-n-brag.json) |
 | Mope.io | 108987 | [108987-mope-io.json](./108987-mope-io.json) |
@@ -16475,6 +16486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Simulator Co-op | 401841 | [401841-mushroom-simulator-co-op.json](./401841-mushroom-simulator-co-op.json) |
 | Mushroom Story | 323973 | [323973-mushroom-story.json](./323973-mushroom-story.json) |
 | Mushroom Survivors | 357709 | [357709-mushroom-survivors.json](./357709-mushroom-survivors.json) |
+| Mushroom Tower Defense | 330647 | [330647-mushroom-tower-defense.json](./330647-mushroom-tower-defense.json) |
 | Mushroom Towers | 179690 | [179690-mushroom-towers.json](./179690-mushroom-towers.json) |
 | Mushroom Town | 386441 | [386441-mushroom-town.json](./386441-mushroom-town.json) |
 | Mushroom Wars | 18687 | [18687-mushroom-wars.json](./18687-mushroom-wars.json) |
@@ -16649,6 +16661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Karate Canary | 214156 | [214156-mutant-karate-canary.json](./214156-mutant-karate-canary.json) |
 | Mutant League Football | 46254 | [46254-mutant-league-football.json](./46254-mutant-league-football.json) |
 | Mutant League Hockey | 46253 | [46253-mutant-league-hockey.json](./46253-mutant-league-hockey.json) |
+| Mutant Legion | 330484 | [330484-mutant-legion.json](./330484-mutant-legion.json) |
 | Mutant Meltdown | 211148 | [211148-mutant-meltdown.json](./211148-mutant-meltdown.json) |
 | Mutant Monster Invasion | 292240 | [292240-mutant-monster-invasion.json](./292240-mutant-monster-invasion.json) |
 | Mutant Monsters | 334023 | [334023-mutant-monsters.json](./334023-mutant-monsters.json) |
