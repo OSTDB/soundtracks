@@ -2483,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5Street | 23640 | [23640-5street.json](./23640-5street.json) |
 | 5th Anniversary | 71960 | [71960-5th-anniversary.json](./71960-5th-anniversary.json) |
 | 5th Cataclysm | 334322 | [334322-5th-cataclysm.json](./334322-5th-cataclysm.json) |
+| 5th Dimension | 332373 | [332373-5th-dimension.json](./332373-5th-dimension.json) |
 | 5th Fleet | 14471 | [14471-5th-fleet.json](./14471-5th-fleet.json) |
 | 5th Gear | 11877 | [11877-5th-gear.json](./11877-5th-gear.json) |
 | 5till L1 Complex | 263362 | [263362-5till-l1-complex.json](./263362-5till-l1-complex.json) |
