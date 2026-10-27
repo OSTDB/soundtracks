@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisy Chain | 298311 | [298311-daisy-chain.json](./298311-daisy-chain.json) |
 | Daisy Flies to the Moon | 160237 | [160237-daisy-flies-to-the-moon.json](./160237-daisy-flies-to-the-moon.json) |
 | Daisy Grotto | 264647 | [264647-daisy-grotto.json](./264647-daisy-grotto.json) |
+| Daisy The Swimmer | 296882 | [296882-daisy-the-swimmer.json](./296882-daisy-the-swimmer.json) |
 | Daisy's Crazy Adventure | 314712 | [314712-daisys-crazy-adventure.json](./314712-daisys-crazy-adventure.json) |
 | Daisy's Dead | 422691 | [422691-daisys-dead.json](./422691-daisys-dead.json) |
 | Daisy's Garden | 336605 | [336605-daisys-garden.json](./336605-daisys-garden.json) |
@@ -1714,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Thrones / Witch Hunter Double Pack | 165175 | [165175-dark-thrones-witch-hunter-double-pack.json](./165175-dark-thrones-witch-hunter-double-pack.json) |
 | Dark Tides | 158696 | [158696-dark-tides.json](./158696-dark-tides.json) |
 | Dark Ties | 369849 | [369849-dark-ties.json](./369849-dark-ties.json) |
+| Dark Tonic's Blunderbusted: Guns Out, Bluns Out | 296884 | [296884-dark-tonics-blunderbusted-guns-out-bluns-out.json](./296884-dark-tonics-blunderbusted-guns-out-bluns-out.json) |
 | Dark Tower | 26475 | [26475-dark-tower.json](./26475-dark-tower.json) |
 | Dark Tower | 29182 | [29182-dark-tower.json](./29182-dark-tower.json) |
 | Dark Town : Invisible Danger | 75015 | [75015-dark-town-invisible-danger.json](./75015-dark-town-invisible-danger.json) |
@@ -1943,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkStory Online | 122155 | [122155-darkstory-online.json](./122155-darkstory-online.json) |
 | DarkSwarm | 244073 | [244073-darkswarm.json](./244073-darkswarm.json) |
 | DarkSwitch | 345416 | [345416-darkswitch.json](./345416-darkswitch.json) |
+| Darksword: Nephilim | 296883 | [296883-darksword-nephilim.json](./296883-darksword-nephilim.json) |
 | Darksy's Adventure | 242604 | [242604-darksys-adventure.json](./242604-darksys-adventure.json) |
 | DarkTide | 204955 | [204955-darktide.json](./204955-darktide.json) |
 | Darkula | 119481 | [119481-darkula.json](./119481-darkula.json) |
@@ -2759,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: UH-1H Worlds Apart Stormfront Campaign by Low-Level-Heaven Mission Development | 325096 | [325096-dcs-world-uh-1h-worlds-apart-stormfront-campaign-by-low-level-heaven-mission-development.json](./325096-dcs-world-uh-1h-worlds-apart-stormfront-campaign-by-low-level-heaven-mission-development.json) |
 | DCS: Black Shark | 21208 | [21208-dcs-black-shark.json](./21208-dcs-black-shark.json) |
 | DCS: F-15C Aggressors Air Combat Maneuvering Campaign by Maple Flag | 296518 | [296518-dcs-f-15c-aggressors-air-combat-maneuvering-campaign-by-maple-flag.json](./296518-dcs-f-15c-aggressors-air-combat-maneuvering-campaign-by-maple-flag.json) |
+| DCS: Mi-24P OutPost Campaign by Stone Sky | 296887 | [296887-dcs-mi-24p-outpost-campaign-by-stone-sky.json](./296887-dcs-mi-24p-outpost-campaign-by-stone-sky.json) |
 | DCS: Normandy 1944 | 27782 | [27782-dcs-normandy-1944.json](./27782-dcs-normandy-1944.json) |
 | DD Sequencer | 356285 | [356285-dd-sequencer.json](./356285-dd-sequencer.json) |
 | DDD Pool | 92835 | [92835-ddd-pool.json](./92835-ddd-pool.json) |
@@ -4282,6 +4286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckbuilder Fantasy: Elvenglade | 292767 | [292767-deckbuilder-fantasy-elvenglade.json](./292767-deckbuilder-fantasy-elvenglade.json) |
 | DeckBuilder Village | 211703 | [211703-deckbuilder-village.json](./211703-deckbuilder-village.json) |
 | Deckception | 317308 | [317308-deckception.json](./317308-deckception.json) |
+| Decked in Love | 296886 | [296886-decked-in-love.json](./296886-decked-in-love.json) |
 | DeckEleven's Railroads | 87687 | [87687-deckelevens-railroads.json](./87687-deckelevens-railroads.json) |
 | DeckEleven's Railroads 2 | 244898 | [244898-deckelevens-railroads-2.json](./244898-deckelevens-railroads-2.json) |
 | Decker | 78254 | [78254-decker.json](./78254-decker.json) |
@@ -5164,6 +5169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Issues | 369017 | [369017-delivery-issues.json](./369017-delivery-issues.json) |
 | Delivery Kore | 239769 | [239769-delivery-kore.json](./239769-delivery-kore.json) |
 | Delivery man simulator | 99628 | [99628-delivery-man-simulator.json](./99628-delivery-man-simulator.json) |
+| Delivery Mayhem | 296888 | [296888-delivery-mayhem.json](./296888-delivery-mayhem.json) |
 | Delivery Must Complete | 355102 | [355102-delivery-must-complete.json](./355102-delivery-must-complete.json) |
 | Delivery Mystery | 376032 | [376032-delivery-mystery.json](./376032-delivery-mystery.json) |
 | Delivery of Us | 380398 | [380398-delivery-of-us.json](./380398-delivery-of-us.json) |
@@ -5457,6 +5463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Hunter: New Chapter | 232987 | [232987-demon-hunter-new-chapter.json](./232987-demon-hunter-new-chapter.json) |
 | Demon Hunter: Shadow World | 320175 | [320175-demon-hunter-shadow-world.json](./320175-demon-hunter-shadow-world.json) |
 | Demon Hunters | 332447 | [332447-demon-hunters.json](./332447-demon-hunters.json) |
+| Demon Hunting Diary | 296889 | [296889-demon-hunting-diary.json](./296889-demon-hunting-diary.json) |
 | Demon Huntress | 399625 | [399625-demon-huntress.json](./399625-demon-huntress.json) |
 | Demon Island | 298519 | [298519-demon-island.json](./298519-demon-island.json) |
 | Demon Island Massacre | 270178 | [270178-demon-island-massacre.json](./270178-demon-island-massacre.json) |
@@ -5858,6 +5865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depthris | 263973 | [263973-depthris.json](./263973-depthris.json) |
 | Depths Debris | 339074 | [339074-depths-debris.json](./339074-depths-debris.json) |
 | Depths Of Apollyon | 351123 | [351123-depths-of-apollyon.json](./351123-depths-of-apollyon.json) |
+| Depths of Ascension | 296890 | [296890-depths-of-ascension.json](./296890-depths-of-ascension.json) |
 | Depths of Betrayal | 175800 | [175800-depths-of-betrayal.json](./175800-depths-of-betrayal.json) |
 | Depths of Dagon | 148276 | [148276-depths-of-dagon.json](./148276-depths-of-dagon.json) |
 | Depths of Despair | 300443 | [300443-depths-of-despair.json](./300443-depths-of-despair.json) |
@@ -6171,6 +6179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desire Gambling House | 284339 | [284339-desire-gambling-house.json](./284339-desire-gambling-house.json) |
 | Desire Ninja | 195641 | [195641-desire-ninja.json](./195641-desire-ninja.json) |
 | Desire Remaster Version | 57087 | [57087-desire-remaster-version.json](./57087-desire-remaster-version.json) |
+| Desire: Mrs. Claus | 296891 | [296891-desire-mrs-claus.json](./296891-desire-mrs-claus.json) |
 | Desire: Tentacle Temptation | 97936 | [97936-desire-tentacle-temptation.json](./97936-desire-tentacle-temptation.json) |
 | Desired Mistake | 82127 | [82127-desired-mistake.json](./82127-desired-mistake.json) |
 | Desires of a Dragon Prince | 298893 | [298893-desires-of-a-dragon-prince.json](./298893-desires-of-a-dragon-prince.json) |
@@ -6419,6 +6428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny RPG | 52886 | [52886-destiny-rpg.json](./52886-destiny-rpg.json) |
 | Destiny Saga | 277191 | [277191-destiny-saga.json](./277191-destiny-saga.json) |
 | Destiny Spire | 356899 | [356899-destiny-spire.json](./356899-destiny-spire.json) |
+| Destiny Star Girlfriend 2 | 296892 | [296892-destiny-star-girlfriend-2.json](./296892-destiny-star-girlfriend-2.json) |
 | Destiny Star Girlfriend 2 | 304983 | [304983-destiny-star-girlfriend-2.json](./304983-destiny-star-girlfriend-2.json) |
 | Destiny Star Girlfriend 3 | 305275 | [305275-destiny-star-girlfriend-3.json](./305275-destiny-star-girlfriend-3.json) |
 | Destiny Star Girlfriend 3 | 315039 | [315039-destiny-star-girlfriend-3.json](./315039-destiny-star-girlfriend-3.json) |
@@ -7544,6 +7554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diesel Power | 29805 | [29805-diesel-power.json](./29805-diesel-power.json) |
 | Diesel Punch | 135753 | [135753-diesel-punch.json](./135753-diesel-punch.json) |
 | Diesel Racer 2 | 106951 | [106951-diesel-racer-2.json](./106951-diesel-racer-2.json) |
+| Diesel Skies | 296893 | [296893-diesel-skies.json](./296893-diesel-skies.json) |
 | Diesel the Pug Warrior | 232922 | [232922-diesel-the-pug-warrior.json](./232922-diesel-the-pug-warrior.json) |
 | DieselDome: Oil & Blood | 244127 | [244127-dieseldome-oil-and-blood.json](./244127-dieseldome-oil-and-blood.json) |
 | Dieselpunk Wars | 114168 | [114168-dieselpunk-wars.json](./114168-dieselpunk-wars.json) |
@@ -8108,6 +8119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Run SE | 64965 | [64965-dino-run-se.json](./64965-dino-run-se.json) |
 | Dino Run: Marathon of Doom | 74166 | [74166-dino-run-marathon-of-doom.json](./74166-dino-run-marathon-of-doom.json) |
 | Dino Running from a Furry: Gamesforfarm | 327727 | [327727-dino-running-from-a-furry-gamesforfarm.json](./327727-dino-running-from-a-furry-gamesforfarm.json) |
+| Dino Rush | 296894 | [296894-dino-rush.json](./296894-dino-rush.json) |
 | Dino Rush | 343481 | [343481-dino-rush.json](./343481-dino-rush.json) |
 | Dino Rush Race | 238400 | [238400-dino-rush-race.json](./238400-dino-rush-race.json) |
 | Dino Safari 2 | 96771 | [96771-dino-safari-2.json](./96771-dino-safari-2.json) |
@@ -8283,6 +8295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diorama Builder: Noir City | 293521 | [293521-diorama-builder-noir-city.json](./293521-diorama-builder-noir-city.json) |
 | Diorama Builder: Secret Bunker | 357156 | [357156-diorama-builder-secret-bunker.json](./357156-diorama-builder-secret-bunker.json) |
 | Diorama Builder: The Museum | 357154 | [357154-diorama-builder-the-museum.json](./357154-diorama-builder-the-museum.json) |
+| Diorama Drift | 296897 | [296897-diorama-drift.json](./296897-diorama-drift.json) |
 | Diorama Maker | 291779 | [291779-diorama-maker.json](./291779-diorama-maker.json) |
 | Diorama No.1 - Blocked In | 33799 | [33799-diorama-no-1-blocked-in.json](./33799-diorama-no-1-blocked-in.json) |
 | Diorama No.3 : The Marchland | 33798 | [33798-diorama-no-3-the-marchland.json](./33798-diorama-no-3-the-marchland.json) |
@@ -8356,6 +8369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Bike Motocross Stunts | 387009 | [387009-dirt-bike-motocross-stunts.json](./387009-dirt-bike-motocross-stunts.json) |
 | Dirt Bike Racer Simulator | 262848 | [262848-dirt-bike-racer-simulator.json](./262848-dirt-bike-racer-simulator.json) |
 | Dirt Bike Retro | 147637 | [147637-dirt-bike-retro.json](./147637-dirt-bike-retro.json) |
+| Dirt Bike: Unlimited Bike Experience | 296895 | [296895-dirt-bike-unlimited-bike-experience.json](./296895-dirt-bike-unlimited-bike-experience.json) |
 | Dirt Dash | 39827 | [39827-dirt-dash.json](./39827-dirt-dash.json) |
 | Dirt Devils | 39448 | [39448-dirt-devils.json](./39448-dirt-devils.json) |
 | Dirt Fox | 364396 | [364396-dirt-fox.json](./364396-dirt-fox.json) |
@@ -10289,6 +10303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominion: Allies | 191055 | [191055-dominion-allies.json](./191055-dominion-allies.json) |
 | Dominion: Base Set - 1st Edition | 191105 | [191105-dominion-base-set-1st-edition.json](./191105-dominion-base-set-1st-edition.json) |
 | Dominion: Cornucopia | 191107 | [191107-dominion-cornucopia.json](./191107-dominion-cornucopia.json) |
+| Dominion: Cornucopia - 1st Edition | 296896 | [296896-dominion-cornucopia-1st-edition.json](./296896-dominion-cornucopia-1st-edition.json) |
 | Dominion: Dark Ages | 191101 | [191101-dominion-dark-ages.json](./191101-dominion-dark-ages.json) |
 | Dominion: Empires | 191109 | [191109-dominion-empires.json](./191109-dominion-empires.json) |
 | Dominion: Guilds | 191104 | [191104-dominion-guilds.json](./191104-dominion-guilds.json) |
@@ -10481,6 +10496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Flee | 238643 | [238643-dont-flee.json](./238643-dont-flee.json) |
 | Don't Flip First | 362408 | [362408-dont-flip-first.json](./362408-dont-flip-first.json) |
 | Don't Fool Me, Beauties! | 346175 | [346175-dont-fool-me-beauties.json](./346175-dont-fool-me-beauties.json) |
+| Don't Forget | 296879 | [296879-dont-forget.json](./296879-dont-forget.json) |
 | Don't Forget Me: Deluxe Edition | 154519 | [154519-dont-forget-me-deluxe-edition.json](./154519-dont-forget-me-deluxe-edition.json) |
 | Don't Forget Our Esports Dream | 110682 | [110682-dont-forget-our-esports-dream.json](./110682-dont-forget-our-esports-dream.json) |
 | Don't Forget the Phone | 398485 | [398485-dont-forget-the-phone.json](./398485-dont-forget-the-phone.json) |
@@ -13700,6 +13716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming | 368552 | [368552-dreaming.json](./368552-dreaming.json) |
 | Dreaming | 370777 | [370777-dreaming.json](./370777-dreaming.json) |
 | Dreaming About You | 371230 | [371230-dreaming-about-you.json](./371230-dreaming-about-you.json) |
+| Dreaming After You | 296881 | [296881-dreaming-after-you.json](./296881-dreaming-after-you.json) |
 | Dreaming Bad | 229661 | [229661-dreaming-bad.json](./229661-dreaming-bad.json) |
 | Dreaming Blue | 407853 | [407853-dreaming-blue.json](./407853-dreaming-blue.json) |
 | Dreaming by day | 182982 | [182982-dreaming-by-day.json](./182982-dreaming-by-day.json) |
@@ -13766,6 +13783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamPusher | 368047 | [368047-dreampusher.json](./368047-dreampusher.json) |
 | Dreamrealm's Tower of Despair | 353379 | [353379-dreamrealms-tower-of-despair.json](./353379-dreamrealms-tower-of-despair.json) |
 | Dreams | 286686 | [286686-dreams.json](./286686-dreams.json) |
+| Dreams and Bubbles | 296878 | [296878-dreams-and-bubbles.json](./296878-dreams-and-bubbles.json) |
 | Dreams and Nightmares | 146277 | [146277-dreams-and-nightmares.json](./146277-dreams-and-nightmares.json) |
 | Dreams Chronicles | 21759 | [21759-dreams-chronicles.json](./21759-dreams-chronicles.json) |
 | Dreams Creator | 118197 | [118197-dreams-creator.json](./118197-dreams-creator.json) |
@@ -13936,6 +13954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift 84 | 34980 | [34980-drift-84.json](./34980-drift-84.json) |
 | Drift Alone | 126631 | [126631-drift-alone.json](./126631-drift-alone.json) |
 | Drift Apocalypse | 296091 | [296091-drift-apocalypse.json](./296091-drift-apocalypse.json) |
+| Drift Boom Boom | 296877 | [296877-drift-boom-boom.json](./296877-drift-boom-boom.json) |
 | Drift Boss | 145531 | [145531-drift-boss.json](./145531-drift-boss.json) |
 | Drift Cart | 365239 | [365239-drift-cart.json](./365239-drift-cart.json) |
 | Drift City | 259514 | [259514-drift-city.json](./259514-drift-city.json) |
@@ -14030,6 +14049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifties | 376233 | [376233-drifties.json](./376233-drifties.json) |
 | Driftin.io | 126024 | [126024-driftin-io.json](./126024-driftin-io.json) |
 | Drifting Afternoon | 397855 | [397855-drifting-afternoon.json](./397855-drifting-afternoon.json) |
+| Drifting Car Stunter | 296876 | [296876-drifting-car-stunter.json](./296876-drifting-car-stunter.json) |
 | Drifting Cloud | 99577 | [99577-drifting-cloud.json](./99577-drifting-cloud.json) |
 | Drifting Dots | 390694 | [390694-drifting-dots.json](./390694-drifting-dots.json) |
 | Drifting in Space | 129680 | [129680-drifting-in-space.json](./129680-drifting-in-space.json) |
@@ -14187,6 +14207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver's Education '98 | 69331 | [69331-drivers-education-98.json](./69331-drivers-education-98.json) |
 | Driver's Work Trip | 185150 | [185150-drivers-work-trip.json](./185150-drivers-work-trip.json) |
 | Driver4VR | 152871 | [152871-driver4vr.json](./152871-driver4vr.json) |
+| Driver4VR: Kinetic | 296880 | [296880-driver4vr-kinetic.json](./296880-driver4vr-kinetic.json) |
 | Driverio | 219108 | [219108-driverio.json](./219108-driverio.json) |
 | Driverio 2 | 223518 | [223518-driverio-2.json](./223518-driverio-2.json) |
 | Driverio 3 | 228332 | [228332-driverio-3.json](./228332-driverio-3.json) |
@@ -14341,6 +14362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drongo's Festive Adventures | 261685 | [261685-drongos-festive-adventures.json](./261685-drongos-festive-adventures.json) |
 | Dronihilation VR | 67928 | [67928-dronihilation-vr.json](./67928-dronihilation-vr.json) |
 | Droning On | 334562 | [334562-droning-on.json](./334562-droning-on.json) |
+| Droom | 296874 | [296874-droom.json](./296874-droom.json) |
 | Droom | 320299 | [320299-droom.json](./320299-droom.json) |
 | Droopy Balls Simulator 2021 | 168684 | [168684-droopy-balls-simulator-2021.json](./168684-droopy-balls-simulator-2021.json) |
 | Droopy's Tennis Open | 6395 | [6395-droopys-tennis-open.json](./6395-droopys-tennis-open.json) |
@@ -14365,6 +14387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop In VR | 137912 | [137912-drop-in-vr.json](./137912-drop-in-vr.json) |
 | Drop It | 285127 | [285127-drop-it.json](./285127-drop-it.json) |
 | Drop It: Block Paradise! | 85104 | [85104-drop-it-block-paradise.json](./85104-drop-it-block-paradise.json) |
+| Drop It: Block Paradise! - Builder Edition | 296875 | [296875-drop-it-block-paradise-builder-edition.json](./296875-drop-it-block-paradise-builder-edition.json) |
 | Drop It! Jelly Man | 324284 | [324284-drop-it-jelly-man.json](./324284-drop-it-jelly-man.json) |
 | Drop Kick Zombie! | 118763 | [118763-drop-kick-zombie.json](./118763-drop-kick-zombie.json) |
 | Drop Loot | 411029 | [411029-drop-loot.json](./411029-drop-loot.json) |
@@ -15071,6 +15094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Stone | 55274 | [55274-dumb-stone.json](./55274-dumb-stone.json) |
 | Dumb Ways to Build | 414526 | [414526-dumb-ways-to-build.json](./414526-dumb-ways-to-build.json) |
 | Dumb Ways to Climb | 257792 | [257792-dumb-ways-to-climb.json](./257792-dumb-ways-to-climb.json) |
+| Dumb Ways to Dash! | 296848 | [296848-dumb-ways-to-dash.json](./296848-dumb-ways-to-dash.json) |
 | Dumb Ways to Die | 80659 | [80659-dumb-ways-to-die.json](./80659-dumb-ways-to-die.json) |
 | Dumb Ways to Die 2: The Games | 57455 | [57455-dumb-ways-to-die-2-the-games.json](./57455-dumb-ways-to-die-2-the-games.json) |
 | Dumb Ways to Die 3: World Tour | 99133 | [99133-dumb-ways-to-die-3-world-tour.json](./99133-dumb-ways-to-die-3-world-tour.json) |
@@ -15228,6 +15252,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Buster Ex-Plores | 66169 | [66169-dungeon-buster-ex-plores.json](./66169-dungeon-buster-ex-plores.json) |
 | Dungeon Campaign | 24803 | [24803-dungeon-campaign.json](./24803-dungeon-campaign.json) |
 | Dungeon Cards | 127627 | [127627-dungeon-cards.json](./127627-dungeon-cards.json) |
+| Dungeon Chamber | 296872 | [296872-dungeon-chamber.json](./296872-dungeon-chamber.json) |
+| Dungeon Chamber: Rogue | 296873 | [296873-dungeon-chamber-rogue.json](./296873-dungeon-chamber-rogue.json) |
 | Dungeon Chess | 28546 | [28546-dungeon-chess.json](./28546-dungeon-chess.json) |
 | Dungeon Chest | 123847 | [123847-dungeon-chest.json](./123847-dungeon-chest.json) |
 | Dungeon Chop Chop | 82020 | [82020-dungeon-chop-chop.json](./82020-dungeon-chop-chop.json) |
@@ -16248,6 +16274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Night Sex with Zombi | 375952 | [375952-dying-night-sex-with-zombi.json](./375952-dying-night-sex-with-zombi.json) |
 | Dying of Thirst | 177298 | [177298-dying-of-thirst.json](./177298-dying-of-thirst.json) |
 | Dying Reign | 355560 | [355560-dying-reign.json](./355560-dying-reign.json) |
+| Dying Under Nightfall | 296871 | [296871-dying-under-nightfall.json](./296871-dying-under-nightfall.json) |
 | Dying: 1983 | 160267 | [160267-dying-1983.json](./160267-dying-1983.json) |
 | Dying: Reborn | 27569 | [27569-dying-reborn.json](./27569-dying-reborn.json) |
 | Dying: Reborn + Dying: Reborn VR Bundle | 217861 | [217861-dying-reborn-dying-reborn-vr-bundle.json](./217861-dying-reborn-dying-reborn-vr-bundle.json) |
