@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallflower | 380225 | [380225-wallflower.json](./380225-wallflower.json) |
 | Wallkill | 275819 | [275819-wallkill.json](./275819-wallkill.json) |
 | Wallpaper | 240376 | [240376-wallpaper.json](./240376-wallpaper.json) |
+| Wallpaper Wizard: Infinite Backdrops | 290458 | [290458-wallpaper-wizard-infinite-backdrops.json](./290458-wallpaper-wizard-infinite-backdrops.json) |
 | Wallrun Dot Love | 185068 | [185068-wallrun-dot-love.json](./185068-wallrun-dot-love.json) |
 | Wallrunners | 95209 | [95209-wallrunners.json](./95209-wallrunners.json) |
 | Walls | 268136 | [268136-walls.json](./268136-walls.json) |
@@ -7425,6 +7426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldNeverland: Elnea Kingdom - The Makeover Collection | 259530 | [259530-worldneverland-elnea-kingdom-the-makeover-collection.json](./259530-worldneverland-elnea-kingdom-the-makeover-collection.json) |
 | WorldNeverland: Elnea Kingdom - Wa Mage Wear Set: Navy | 324359 | [324359-worldneverland-elnea-kingdom-wa-mage-wear-set-navy.json](./324359-worldneverland-elnea-kingdom-wa-mage-wear-set-navy.json) |
 | WorldNeverland: Flower Trimmed Wear Set - Sakura | 294856 | [294856-worldneverland-flower-trimmed-wear-set-sakura.json](./294856-worldneverland-flower-trimmed-wear-set-sakura.json) |
+| WorldNeverland: lower Trimmed Wear Set - Mint | 290453 | [290453-worldneverland-lower-trimmed-wear-set-mint.json](./290453-worldneverland-lower-trimmed-wear-set-mint.json) |
 | WorldNeverland: Wa Mage Wear Set - Sakura | 295700 | [295700-worldneverland-wa-mage-wear-set-sakura.json](./295700-worldneverland-wa-mage-wear-set-sakura.json) |
 | WorldNeverland: White Modern Wedding Outfit Set | 298593 | [298593-worldneverland-white-modern-wedding-outfit-set.json](./298593-worldneverland-white-modern-wedding-outfit-set.json) |
 | WorldQuest | 101609 | [101609-worldquest.json](./101609-worldquest.json) |
