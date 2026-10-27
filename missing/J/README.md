@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaden's Nether Expansion | 344016 | [344016-jadens-nether-expansion.json](./344016-jadens-nether-expansion.json) |
 | Jaderaze Inferno | 412465 | [412465-jaderaze-inferno.json](./412465-jaderaze-inferno.json) |
 | Jadoraki | 238574 | [238574-jadoraki.json](./238574-jadoraki.json) |
+| Jagainu-kun | 281588 | [281588-jagainu-kun.json](./281588-jagainu-kun.json) |
 | Jagan: Evil Eye | 97991 | [97991-jagan-evil-eye.json](./97991-jagan-evil-eye.json) |
 | Jagd Lanzer | 125109 | [125109-jagd-lanzer.json](./125109-jagd-lanzer.json) |
 | Jägermörder 1: Chemical Lab | 310622 | [310622-jagermorder-1-chemical-lab.json](./310622-jagermorder-1-chemical-lab.json) |
@@ -579,8 +580,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janky Horse | 404089 | [404089-janky-horse.json](./404089-janky-horse.json) |
 | Janky Tanks | 35877 | [35877-janky-tanks.json](./35877-janky-tanks.json) |
 | Jankyou | 77159 | [77159-jankyou.json](./77159-jankyou.json) |
+| Jankyuusei: Cosplay Paradise | 281589 | [281589-jankyuusei-cosplay-paradise.json](./281589-jankyuusei-cosplay-paradise.json) |
 | Janline R | 65559 | [65559-janline-r.json](./65559-janline-r.json) |
 | Janosch | 92923 | [92923-janosch.json](./92923-janosch.json) |
+| Janosch: Das grosse Panama-Spiel | 281592 | [281592-janosch-das-grosse-panama-spiel.json](./281592-janosch-das-grosse-panama-spiel.json) |
 | Janosik | 64913 | [64913-janosik.json](./64913-janosik.json) |
 | Janosik 2 | 152783 | [152783-janosik-2.json](./152783-janosik-2.json) |
 | Janosik 2: Prologue | 316419 | [316419-janosik-2-prologue.json](./316419-janosik-2-prologue.json) |
@@ -1069,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Dancer | 224635 | [224635-jet-dancer.json](./224635-jet-dancer.json) |
 | Jet de GO! 2: Let's Go by Airliner | 98002 | [98002-jet-de-go-2-lets-go-by-airliner.json](./98002-jet-de-go-2-lets-go-by-airliner.json) |
 | Jet de GO! Let's Go By Airliner | 61334 | [61334-jet-de-go-lets-go-by-airliner.json](./61334-jet-de-go-lets-go-by-airliner.json) |
+| Jet de Go!: Let's Go By Airliner | 281593 | [281593-jet-de-go-lets-go-by-airliner.json](./281593-jet-de-go-lets-go-by-airliner.json) |
 | Jet Dog | 85208 | [85208-jet-dog.json](./85208-jet-dog.json) |
 | Jet Ducks | 90505 | [90505-jet-ducks.json](./90505-jet-ducks.json) |
 | Jet Fighter | 13251 | [13251-jet-fighter.json](./13251-jet-fighter.json) |
@@ -1850,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jing 'an District Copstories | 157043 | [157043-jing-an-district-copstories.json](./157043-jing-an-district-copstories.json) |
 | Jìng Shìjiè | 188441 | [188441-jing-shijie.json](./188441-jing-shijie.json) |
 | Jinga Online | 125064 | [125064-jinga-online.json](./125064-jinga-online.json) |
+| Jingai Makyou | 281228 | [281228-jingai-makyou.json](./281228-jingai-makyou.json) |
 | Jingai Makyou | 70612 | [70612-jingai-makyou.json](./70612-jingai-makyou.json) |
 | Jingi Storm: The Arcade | 77813 | [77813-jingi-storm-the-arcade.json](./77813-jingi-storm-the-arcade.json) |
 | Jìngjiè 2: Qiánkūn Yī Zhì | 373687 | [373687-jingjie-2-qiankun-yi-zhi.json](./373687-jingjie-2-qiankun-yi-zhi.json) |
@@ -1936,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Pachinko Hisshouhou! CR Aladdin Destiny EX | 82311 | [82311-jissen-pachinko-hisshouhou-cr-aladdin-destiny-ex.json](./82311-jissen-pachinko-hisshouhou-cr-aladdin-destiny-ex.json) |
 | Jissen Pachinko Hisshouhou! CR Sakura Taisen | 62126 | [62126-jissen-pachinko-hisshouhou-cr-sakura-taisen.json](./62126-jissen-pachinko-hisshouhou-cr-sakura-taisen.json) |
 | Jissen Pachinko Hisshouhou! CR Salaryman Kintarou | 82308 | [82308-jissen-pachinko-hisshouhou-cr-salaryman-kintarou.json](./82308-jissen-pachinko-hisshouhou-cr-salaryman-kintarou.json) |
+| Jissen Yakudatsu Tsumego | 281594 | [281594-jissen-yakudatsu-tsumego.json](./281594-jissen-yakudatsu-tsumego.json) |
 | Jissou Land | 262843 | [262843-jissou-land.json](./262843-jissou-land.json) |
 | Jitaku Keibiin no Oshigoto | 358485 | [358485-jitaku-keibiin-no-oshigoto.json](./358485-jitaku-keibiin-no-oshigoto.json) |
 | Jitaku Keibin | 316645 | [316645-jitaku-keibin.json](./316645-jitaku-keibin.json) |
