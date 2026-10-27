@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju No. 8: The Game | 343892 | [343892-kaiju-no-8-the-game.json](./343892-kaiju-no-8-the-game.json) |
 | Kaiju Noir | 180458 | [180458-kaiju-noir.json](./180458-kaiju-noir.json) |
 | Kaiju Panic | 13190 | [13190-kaiju-panic.json](./13190-kaiju-panic.json) |
+| Kaiju Rush | 297524 | [297524-kaiju-rush.json](./297524-kaiju-rush.json) |
 | Kaiju Wars | 171757 | [171757-kaiju-wars.json](./171757-kaiju-wars.json) |
 | Kaiju Wars + Legend of Keepers: Monsters & Demons Bundle | 287111 | [287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json](./287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json) |
 | Kaiju-A-GoGo | 36155 | [36155-kaiju-a-gogo.json](./36155-kaiju-a-gogo.json) |
@@ -1446,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemono Mahjong | 96534 | [96534-kemono-mahjong.json](./96534-kemono-mahjong.json) |
 | Kemono Naki Yoru no Ori nite | 370555 | [370555-kemono-naki-yoru-no-ori-nite.json](./370555-kemono-naki-yoru-no-ori-nite.json) |
 | Kemono Patrol | 334850 | [334850-kemono-patrol.json](./334850-kemono-patrol.json) |
+| Kemonomichi Girlish Square | 299178 | [299178-kemonomichi-girlish-square.json](./299178-kemonomichi-girlish-square.json) |
 | Kemonomichi-White Moment- | 100111 | [100111-kemonomichi-white-moment.json](./100111-kemonomichi-white-moment.json) |
 | Kemonomix+ | 85222 | [85222-kemonomix.json](./85222-kemonomix.json) |
 | Kemonopoly | 181107 | [181107-kemonopoly.json](./181107-kemonopoly.json) |
@@ -1460,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ken Griffey Jr.'s Slugfest | 249120 | [249120-ken-griffey-jr-s-slugfest.json](./249120-ken-griffey-jr-s-slugfest.json) |
 | Ken Griffey Jr.'s Slugfest | 3531 | [3531-ken-griffey-jr-s-slugfest.json](./3531-ken-griffey-jr-s-slugfest.json) |
 | Ken Griffey Jr.'s Winning Run | 42507 | [42507-ken-griffey-jr-s-winning-run.json](./42507-ken-griffey-jr-s-winning-run.json) |
+| Ken to Mahou | 298524 | [298524-ken-to-mahou.json](./298524-ken-to-mahou.json) |
 | Ken to Mahou to Gakuen Mono: Anniversary Edition | 96495 | [96495-ken-to-mahou-to-gakuen-mono-anniversary-edition.json](./96495-ken-to-mahou-to-gakuen-mono-anniversary-edition.json) |
 | Ken to Mahou to Gakuen Mono. 3 | 44582 | [44582-ken-to-mahou-to-gakuen-mono-3.json](./44582-ken-to-mahou-to-gakuen-mono-3.json) |
 | Ken to Mahou to Gakuen Mono. Final: Shinnyusei wa Ohimesama! | 63896 | [63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json](./63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json) |
@@ -5206,6 +5209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KunSpace | 365816 | [365816-kunspace.json](./365816-kunspace.json) |
 | Kunugi's Life is a Mess! | 403057 | [403057-kunugis-life-is-a-mess.json](./403057-kunugis-life-is-a-mess.json) |
 | Kuon | 10909 | [10909-kuon.json](./10909-kuon.json) |
+| Kuon no Kanata | 299080 | [299080-kuon-no-kanata.json](./299080-kuon-no-kanata.json) |
 | Kuon no Kizuna | 85811 | [85811-kuon-no-kizuna.json](./85811-kuon-no-kizuna.json) |
 | Kuon no Kizuna: Sairinshou | 64659 | [64659-kuon-no-kizuna-sairinshou.json](./64659-kuon-no-kizuna-sairinshou.json) |
 | Kupala | 392713 | [392713-kupala.json](./392713-kupala.json) |
