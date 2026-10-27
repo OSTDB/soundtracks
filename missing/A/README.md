@@ -12902,6 +12902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASMR Slicing: Joyful Cutting DLC | 276943 | [276943-asmr-slicing-joyful-cutting-dlc.json](./276943-asmr-slicing-joyful-cutting-dlc.json) |
 | ASMR Slicing: Joyful Cutting Edition | 297298 | [297298-asmr-slicing-joyful-cutting-edition.json](./297298-asmr-slicing-joyful-cutting-edition.json) |
 | ASMR Slicing: Nice Cuts DLC | 276944 | [276944-asmr-slicing-nice-cuts-dlc.json](./276944-asmr-slicing-nice-cuts-dlc.json) |
+| ASMR Slicing: Nice Cuts Edition | 284941 | [284941-asmr-slicing-nice-cuts-edition.json](./284941-asmr-slicing-nice-cuts-edition.json) |
 | Asoberu Eigo: Word Magic | 122747 | [122747-asoberu-eigo-word-magic.json](./122747-asoberu-eigo-word-magic.json) |
 | Asobu Rakugaki | 72690 | [72690-asobu-rakugaki.json](./72690-asobu-rakugaki.json) |
 | Asonde Igo ga Sara ni Tsuyoku Naru: Ginsei Igo DS Chuukyuu-hen | 269558 | [269558-asonde-igo-ga-sara-ni-tsuyoku-naru-ginsei-igo-ds-chuukyuu-hen.json](./269558-asonde-igo-ga-sara-ni-tsuyoku-naru-ginsei-igo-ds-chuukyuu-hen.json) |
@@ -14177,6 +14178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atha: In Search of the Well | 319677 | [319677-atha-in-search-of-the-well.json](./319677-atha-in-search-of-the-well.json) |
 | Athamuff | 370303 | [370303-athamuff.json](./370303-athamuff.json) |
 | Athanasia | 202129 | [202129-athanasia.json](./202129-athanasia.json) |
+| Athanasy + Ceiba Bundle | 284946 | [284946-athanasy-ceiba-bundle.json](./284946-athanasy-ceiba-bundle.json) |
 | Athar: Echoes of Time | 387657 | [387657-athar-echoes-of-time.json](./387657-athar-echoes-of-time.json) |
 | Athelan Battlegrounds | 377989 | [377989-athelan-battlegrounds.json](./377989-athelan-battlegrounds.json) |
 | Athena | 273078 | [273078-athena.json](./273078-athena.json) |
