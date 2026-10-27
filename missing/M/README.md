@@ -3566,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Point and Click 64 | 300267 | [300267-marios-point-and-click-64.json](./300267-marios-point-and-click-64.json) |
 | Mario's Pride: Mini Quest | 254516 | [254516-marios-pride-mini-quest.json](./254516-marios-pride-mini-quest.json) |
 | Mario's Rules: Variety on 3 | 323748 | [323748-marios-rules-variety-on-3.json](./323748-marios-rules-variety-on-3.json) |
+| Mario's Run | 320221 | [320221-marios-run.json](./320221-marios-run.json) |
 | Mario's Slightly Unusual Boss Rush | 318497 | [318497-marios-slightly-unusual-boss-rush.json](./318497-marios-slightly-unusual-boss-rush.json) |
 | Mario's Slightly Unusual Boss Rush: v2.0 Release | 381850 | [381850-marios-slightly-unusual-boss-rush-v2-0-release.json](./381850-marios-slightly-unusual-boss-rush-v2-0-release.json) |
 | Mario's Star Quest 2 | 315014 | [315014-marios-star-quest-2.json](./315014-marios-star-quest-2.json) |
@@ -16248,6 +16249,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munro's Tweetcarts | 183420 | [183420-munros-tweetcarts.json](./183420-munros-tweetcarts.json) |
 | Mupo | 389656 | [389656-mupo.json](./389656-mupo.json) |
 | Muppet Adventure: Chaos at the Carnival | 3257 | [3257-muppet-adventure-chaos-at-the-carnival.json](./3257-muppet-adventure-chaos-at-the-carnival.json) |
+| Muppet Babies: Air, Land, & Sea | 320202 | [320202-muppet-babies-air-land-and-sea.json](./320202-muppet-babies-air-land-and-sea.json) |
+| Muppet Babies: Animals in Nature | 320201 | [320201-muppet-babies-animals-in-nature.json](./320201-muppet-babies-animals-in-nature.json) |
+| Muppet Babies: Preschool Playtime | 320203 | [320203-muppet-babies-preschool-playtime.json](./320203-muppet-babies-preschool-playtime.json) |
+| Muppet Babies: Shapes and Colors | 320200 | [320200-muppet-babies-shapes-and-colors.json](./320200-muppet-babies-shapes-and-colors.json) |
+| Muppet Babies: Thinking and Sorting | 320198 | [320198-muppet-babies-thinking-and-sorting.json](./320198-muppet-babies-thinking-and-sorting.json) |
+| Muppet Babies: Toyland Train | 320197 | [320197-muppet-babies-toyland-train.json](./320197-muppet-babies-toyland-train.json) |
 | Muppet Madness | 59165 | [59165-muppet-madness.json](./59165-muppet-madness.json) |
 | Muppet Pinball Mayhem | 49322 | [49322-muppet-pinball-mayhem.json](./49322-muppet-pinball-mayhem.json) |
 | Muppet RaceMania | 3259 | [3259-muppet-racemania.json](./3259-muppet-racemania.json) |
