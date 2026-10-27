@@ -7367,6 +7367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Graveyard Simulator 2 | 225984 | [225984-ship-graveyard-simulator-2.json](./225984-ship-graveyard-simulator-2.json) |
 | Ship Graveyard Simulator 2: Floating Cities | 337530 | [337530-ship-graveyard-simulator-2-floating-cities.json](./337530-ship-graveyard-simulator-2-floating-cities.json) |
 | Ship Graveyard Simulator 2: Steam Ships | 337529 | [337529-ship-graveyard-simulator-2-steam-ships.json](./337529-ship-graveyard-simulator-2-steam-ships.json) |
+| Ship Graveyard Simulator 2: Steel Giants | 289843 | [289843-ship-graveyard-simulator-2-steel-giants.json](./289843-ship-graveyard-simulator-2-steel-giants.json) |
 | Ship Graveyard Simulator 2: Warships DLC | 277940 | [277940-ship-graveyard-simulator-2-warships-dlc.json](./277940-ship-graveyard-simulator-2-warships-dlc.json) |
 | Ship Graveyard Simulator 3 | 397763 | [397763-ship-graveyard-simulator-3.json](./397763-ship-graveyard-simulator-3.json) |
 | Ship Graveyard Simulator Collection | 331407 | [331407-ship-graveyard-simulator-collection.json](./331407-ship-graveyard-simulator-collection.json) |
@@ -13752,6 +13753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol 0: Mars Colonization | 34823 | [34823-sol-0-mars-colonization.json](./34823-sol-0-mars-colonization.json) |
 | Sol 705 | 160175 | [160175-sol-705.json](./160175-sol-705.json) |
 | Sol and the Endless Orbit | 375825 | [375825-sol-and-the-endless-orbit.json](./375825-sol-and-the-endless-orbit.json) |
+| Sol Apocalypse | 289833 | [289833-sol-apocalypse.json](./289833-sol-apocalypse.json) |
 | Sol Bianca | 94511 | [94511-sol-bianca.json](./94511-sol-bianca.json) |
 | Sol Blanka | 150613 | [150613-sol-blanka.json](./150613-sol-blanka.json) |
 | Sol Cesto | 286327 | [286327-sol-cesto.json](./286327-sol-cesto.json) |
@@ -28781,6 +28783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernatural | 135124 | [135124-supernatural.json](./135124-supernatural.json) |
 | Supernatural | 303936 | [303936-supernatural.json](./303936-supernatural.json) |
 | Supernatural Investigations | 299531 | [299531-supernatural-investigations.json](./299531-supernatural-investigations.json) |
+| SuperNatural Market: Sell or Die | 289820 | [289820-supernatural-market-sell-or-die.json](./289820-supernatural-market-sell-or-die.json) |
 | Supernatural Nightlife Lovers | 298923 | [298923-supernatural-nightlife-lovers.json](./298923-supernatural-nightlife-lovers.json) |
 | Supernatural Rules Suppress Ghosts | 307777 | [307777-supernatural-rules-suppress-ghosts.json](./307777-supernatural-rules-suppress-ghosts.json) |
 | Supernatural Squad | 333395 | [333395-supernatural-squad.json](./333395-supernatural-squad.json) |
