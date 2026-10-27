@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep to the Blue | 416861 | [416861-keep-to-the-blue.json](./416861-keep-to-the-blue.json) |
 | Keep Trying! Zombie Apocalypse | 155015 | [155015-keep-trying-zombie-apocalypse.json](./155015-keep-trying-zombie-apocalypse.json) |
 | Keep Up | 277580 | [277580-keep-up.json](./277580-keep-up.json) |
+| Keep Up | 296411 | [296411-keep-up.json](./296411-keep-up.json) |
 | Keep Walking | 114751 | [114751-keep-walking.json](./114751-keep-walking.json) |
 | Keep Wall | 150962 | [150962-keep-wall.json](./150962-keep-wall.json) |
 | Keep Watching | 30626 | [30626-keep-watching.json](./30626-keep-watching.json) |
@@ -1815,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick-Bell | 369192 | [369192-kick-bell.json](./369192-kick-bell.json) |
 | Kick-Flight | 130350 | [130350-kick-flight.json](./130350-kick-flight.json) |
 | Kick-the-Can | 296101 | [296101-kick-the-can.json](./296101-kick-the-can.json) |
+| Kick'n Hell | 296414 | [296414-kickn-hell.json](./296414-kickn-hell.json) |
 | Kickabit | 319966 | [319966-kickabit.json](./319966-kickabit.json) |
 | Kickback | 108491 | [108491-kickback.json](./108491-kickback.json) |
 | Kickback Clash | 387320 | [387320-kickback-clash.json](./387320-kickback-clash.json) |
@@ -1905,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidgames | 131351 | [131351-kidgames.json](./131351-kidgames.json) |
 | Kidname: Iceboy | 323333 | [323333-kidname-iceboy.json](./323333-kidname-iceboy.json) |
 | Kidnapped | 26517 | [26517-kidnapped.json](./26517-kidnapped.json) |
+| Kidnapped | 296330 | [296330-kidnapped.json](./296330-kidnapped.json) |
 | Kidnapped | 79064 | [79064-kidnapped.json](./79064-kidnapped.json) |
 | Kidnapped Girl | 144969 | [144969-kidnapped-girl.json](./144969-kidnapped-girl.json) |
 | Kidnapped in Vostok | 235596 | [235596-kidnapped-in-vostok.json](./235596-kidnapped-in-vostok.json) |
@@ -2378,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
