@@ -834,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6320,6 +6321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Adventure: Trip to Europe 6 | 417378 | [417378-big-adventure-trip-to-europe-6.json](./417378-big-adventure-trip-to-europe-6.json) |
 | Big Adventure: Trip to Europe 6 - Collector's Edition | 283993 | [283993-big-adventure-trip-to-europe-6-collectors-edition.json](./283993-big-adventure-trip-to-europe-6-collectors-edition.json) |
 | Big Adventure: Trip to Europe 7 | 417379 | [417379-big-adventure-trip-to-europe-7.json](./417379-big-adventure-trip-to-europe-7.json) |
+| Big Adventure: Trip to Europe 7 - Collector's Edition | 296331 | [296331-big-adventure-trip-to-europe-7-collectors-edition.json](./296331-big-adventure-trip-to-europe-7-collectors-edition.json) |
 | Big Adventure: Trip to Europe 8 - Collector's Edition | 336412 | [336412-big-adventure-trip-to-europe-8-collectors-edition.json](./336412-big-adventure-trip-to-europe-8-collectors-edition.json) |
 | Big Adventure: Trip to Europe 9 | 417380 | [417380-big-adventure-trip-to-europe-9.json](./417380-big-adventure-trip-to-europe-9.json) |
 | Big Adventure: Trip to Europe 9 - Collector's Edition | 338235 | [338235-big-adventure-trip-to-europe-9-collectors-edition.json](./338235-big-adventure-trip-to-europe-9-collectors-edition.json) |
@@ -13556,6 +13558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broadsword : Age of Chivalry | 17618 | [17618-broadsword-age-of-chivalry.json](./17618-broadsword-age-of-chivalry.json) |
 | Broadsword: Warlord Edition | 272779 | [272779-broadsword-warlord-edition.json](./272779-broadsword-warlord-edition.json) |
 | Broadtrip | 316709 | [316709-broadtrip.json](./316709-broadtrip.json) |
+| Broadvay | 296323 | [296323-broadvay.json](./296323-broadvay.json) |
 | Broadway Legend Ellena | 252127 | [252127-broadway-legend-ellena.json](./252127-broadway-legend-ellena.json) |
 | Broadway: 1849 | 76299 | [76299-broadway-1849.json](./76299-broadway-1849.json) |
 | Brober man | 179926 | [179926-brober-man.json](./179926-brober-man.json) |
