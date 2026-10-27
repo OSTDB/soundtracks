@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddada | 204518 | [204518-oddada.json](./204518-oddada.json) |
 | OddBallers | 119089 | [119089-oddballers.json](./119089-oddballers.json) |
 | Oddballz: Your Wacky Computer Petz | 78013 | [78013-oddballz-your-wacky-computer-petz.json](./78013-oddballz-your-wacky-computer-petz.json) |
+| Oddbat | 324253 | [324253-oddbat.json](./324253-oddbat.json) |
 | Oddcore | 327060 | [327060-oddcore.json](./327060-oddcore.json) |
 | Oddest Sea | 133171 | [133171-oddest-sea.json](./133171-oddest-sea.json) |
 | OddFauna: Secret of the Terrabeast | 192830 | [192830-oddfauna-secret-of-the-terrabeast.json](./192830-oddfauna-secret-of-the-terrabeast.json) |
@@ -923,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogami Ichiro Funtouki: Sakura Taisen Kayou Show - Benitokage Yori | 62127 | [62127-ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori.json](./62127-ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori.json) |
 | Ogantto | 349332 | [349332-ogantto.json](./349332-ogantto.json) |
 | Ogiri Adventure Game | 330668 | [330668-ogiri-adventure-game.json](./330668-ogiri-adventure-game.json) |
+| Ognisco | 324281 | [324281-ognisco.json](./324281-ognisco.json) |
 | Ogopogo | 158539 | [158539-ogopogo.json](./158539-ogopogo.json) |
 | Ogopogo | 351546 | [351546-ogopogo.json](./351546-ogopogo.json) |
 | Ogora | 323936 | [323936-ogora.json](./323936-ogora.json) |
@@ -2542,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Online World Drifting Championships | 373672 | [373672-online-world-drifting-championships.json](./373672-online-world-drifting-championships.json) |
 | Online: 404 | 403155 | [403155-online-404.json](./403155-online-404.json) |
 | OnlineCTR | 313093 | [313093-onlinectr.json](./313093-onlinectr.json) |
+| Only a Billion?! | 324343 | [324343-only-a-billion.json](./324343-only-a-billion.json) |
 | Only A Dream | 230884 | [230884-only-a-dream.json](./230884-only-a-dream.json) |
 | Only After | 117129 | [117129-only-after.json](./117129-only-after.json) |
 | Only an Alien Going Up! | 272260 | [272260-only-an-alien-going-up.json](./272260-only-an-alien-going-up.json) |
