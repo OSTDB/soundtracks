@@ -5757,6 +5757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessamphetamine | 408942 | [408942-chessamphetamine.json](./408942-chessamphetamine.json) |
 | Chessarama | 202691 | [202691-chessarama.json](./202691-chessarama.json) |
 | Chessaria: The Tactical Adventure | 55247 | [55247-chessaria-the-tactical-adventure.json](./55247-chessaria-the-tactical-adventure.json) |
+| ChessBase 1.0 | 290378 | [290378-chessbase-1-0.json](./290378-chessbase-1-0.json) |
 | ChessBlaze | 337281 | [337281-chessblaze.json](./337281-chessblaze.json) |
 | Chessboard Kingdoms | 109556 | [109556-chessboard-kingdoms.json](./109556-chessboard-kingdoms.json) |
 | Chesscake | 132626 | [132626-chesscake.json](./132626-chesscake.json) |
@@ -8118,6 +8119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clandestine | 14465 | [14465-clandestine.json](./14465-clandestine.json) |
 | Clandestine Castle Crashing | 262566 | [262566-clandestine-castle-crashing.json](./262566-clandestine-castle-crashing.json) |
 | Clandestine: Anomaly | 232502 | [232502-clandestine-anomaly.json](./232502-clandestine-anomaly.json) |
+| Clandestine: The Hidden Truth | 290379 | [290379-clandestine-the-hidden-truth.json](./290379-clandestine-the-hidden-truth.json) |
 | Clandestinity of Elsie | 35025 | [35025-clandestinity-of-elsie.json](./35025-clandestinity-of-elsie.json) |
 | Clandestiny | 57588 | [57588-clandestiny.json](./57588-clandestiny.json) |
 | Clang | 85956 | [85956-clang.json](./85956-clang.json) |
