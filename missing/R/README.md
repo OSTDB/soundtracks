@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden IV x Mikado Remix | 141863 | [141863-raiden-iv-x-mikado-remix.json](./141863-raiden-iv-x-mikado-remix.json) |
 | Raiden IV x Mikado Remix: Deluxe Edition | 210912 | [210912-raiden-iv-x-mikado-remix-deluxe-edition.json](./210912-raiden-iv-x-mikado-remix-deluxe-edition.json) |
 | Raiden IV x Mikado Remix: Limited Edition | 181616 | [181616-raiden-iv-x-mikado-remix-limited-edition.json](./181616-raiden-iv-x-mikado-remix-limited-edition.json) |
+| Raiden IV x Mikado Remix: Special Edition | 284185 | [284185-raiden-iv-x-mikado-remix-special-edition.json](./284185-raiden-iv-x-mikado-remix-special-edition.json) |
 | Raiden Nova | 319140 | [319140-raiden-nova.json](./319140-raiden-nova.json) |
 | Raiden Trad | 46211 | [46211-raiden-trad.json](./46211-raiden-trad.json) |
 | Raiden V | 19848 | [19848-raiden-v.json](./19848-raiden-v.json) |
