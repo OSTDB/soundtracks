@@ -974,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Feel Normal. | 293655 | [293655-you-feel-normal.json](./293655-you-feel-normal.json) |
 | You Find Yourself in a Room | 242778 | [242778-you-find-yourself-in-a-room.json](./242778-you-find-yourself-in-a-room.json) |
 | You Found a Hole in the Ground | 348750 | [348750-you-found-a-hole-in-the-ground.json](./348750-you-found-a-hole-in-the-ground.json) |
+| You Game+ | 330611 | [330611-you-game.json](./330611-you-game.json) |
 | You Gay? | 84099 | [84099-you-gay.json](./84099-you-gay.json) |
 | You Generation | 174664 | [174664-you-generation.json](./174664-you-generation.json) |
 | You get Eaten by a Cute Milf | 229200 | [229200-you-get-eaten-by-a-cute-milf.json](./229200-you-get-eaten-by-a-cute-milf.json) |
@@ -1145,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Young Justice Shadow Mission | 80565 | [80565-young-justice-shadow-mission.json](./80565-young-justice-shadow-mission.json) |
 | Young Justice: Legacy | 194949 | [194949-young-justice-legacy.json](./194949-young-justice-legacy.json) |
 | Young Justice: Legacy | 7259 | [7259-young-justice-legacy.json](./7259-young-justice-legacy.json) |
+| Young Kong: The Myth of the Magic Throne | 330612 | [330612-young-kong-the-myth-of-the-magic-throne.json](./330612-young-kong-the-myth-of-the-magic-throne.json) |
 | Young Mage | 244665 | [244665-young-mage.json](./244665-young-mage.json) |
 | Young Merlin | 11665 | [11665-young-merlin.json](./11665-young-merlin.json) |
 | Young Souls | 106857 | [106857-young-souls.json](./106857-young-souls.json) |
