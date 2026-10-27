@@ -9012,6 +9012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudbuilt: Defiance | 171497 | [171497-cloudbuilt-defiance.json](./171497-cloudbuilt-defiance.json) |
 | Cloudbuilt: Through the Fog | 50328 | [50328-cloudbuilt-through-the-fog.json](./50328-cloudbuilt-through-the-fog.json) |
 | Cloudburst | 250844 | [250844-cloudburst.json](./250844-cloudburst.json) |
+| Cloudburst | 285057 | [285057-cloudburst.json](./285057-cloudburst.json) |
 | CloudCity VR | 50518 | [50518-cloudcity-vr.json](./50518-cloudcity-vr.json) |
 | Cloudface | 62601 | [62601-cloudface.json](./62601-cloudface.json) |
 | Cloudgazer: A Game About Watching Clouds | 416005 | [416005-cloudgazer-a-game-about-watching-clouds.json](./416005-cloudgazer-a-game-about-watching-clouds.json) |
@@ -11461,6 +11462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ConnecTank | 152381 | [152381-connectank.json](./152381-connectank.json) |
 | Connected Fates | 310982 | [310982-connected-fates.json](./310982-connected-fates.json) |
 | Connected Hearts | 54525 | [54525-connected-hearts.json](./54525-connected-hearts.json) |
+| Connected Hearts: Cost of Beauty - Collector's Edition | 284875 | [284875-connected-hearts-cost-of-beauty-collectors-edition.json](./284875-connected-hearts-cost-of-beauty-collectors-edition.json) |
 | Connected Hearts: Cost of Beauty DLC | 291064 | [291064-connected-hearts-cost-of-beauty-dlc.json](./291064-connected-hearts-cost-of-beauty-dlc.json) |
 | Connected Hearts: Hour of the Witch | 417688 | [417688-connected-hearts-hour-of-the-witch.json](./417688-connected-hearts-hour-of-the-witch.json) |
 | Connected Hearts: Hour of the Witch - Collector's Edition | 365708 | [365708-connected-hearts-hour-of-the-witch-collectors-edition.json](./365708-connected-hearts-hour-of-the-witch-collectors-edition.json) |
@@ -14965,6 +14967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
 | Croc's World 2 | 89170 | [89170-crocs-world-2.json](./89170-crocs-world-2.json) |
 | Croc's World 3 | 88563 | [88563-crocs-world-3.json](./88563-crocs-world-3.json) |
+| Croc's World 4 | 284758 | [284758-crocs-world-4.json](./284758-crocs-world-4.json) |
 | Croc's World Run | 115465 | [115465-crocs-world-run.json](./115465-crocs-world-run.json) |
 | CrocApoca!! Crocodile maiden at the End of the World | 133157 | [133157-crocapoca-crocodile-maiden-at-the-end-of-the-world.json](./133157-crocapoca-crocodile-maiden-at-the-end-of-the-world.json) |
 | Crock | 184390 | [184390-crock.json](./184390-crock.json) |
@@ -16504,6 +16507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Lamb: Arcade Edition | 380184 | [380184-cult-of-the-lamb-arcade-edition.json](./380184-cult-of-the-lamb-arcade-edition.json) |
 | Cult of the Lamb: Cultist Edition | 204780 | [204780-cult-of-the-lamb-cultist-edition.json](./204780-cult-of-the-lamb-cultist-edition.json) |
 | Cult of the Lamb: Cultist Pack | 223540 | [223540-cult-of-the-lamb-cultist-pack.json](./223540-cult-of-the-lamb-cultist-pack.json) |
+| Cult of the Lamb: Cultist, Heretic, and Sinful Pack Bundle | 284947 | [284947-cult-of-the-lamb-cultist-heretic-and-sinful-pack-bundle.json](./284947-cult-of-the-lamb-cultist-heretic-and-sinful-pack-bundle.json) |
 | Cult of the Lamb: Deluxe Edition | 222943 | [222943-cult-of-the-lamb-deluxe-edition.json](./222943-cult-of-the-lamb-deluxe-edition.json) |
 | Cult of the Lamb: Heretic Edition | 250654 | [250654-cult-of-the-lamb-heretic-edition.json](./250654-cult-of-the-lamb-heretic-edition.json) |
 | Cult of the Lamb: Heretic Pack | 246922 | [246922-cult-of-the-lamb-heretic-pack.json](./246922-cult-of-the-lamb-heretic-pack.json) |
