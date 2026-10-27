@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11373,6 +11374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borfesu to 5-Jin no Akuma | 41731 | [41731-borfesu-to-5-jin-no-akuma.json](./41731-borfesu-to-5-jin-no-akuma.json) |
 | Borg Nukem | 291978 | [291978-borg-nukem.json](./291978-borg-nukem.json) |
 | Borgia | 24774 | [24774-borgia.json](./24774-borgia.json) |
+| Borgo the Cat | 331213 | [331213-borgo-the-cat.json](./331213-borgo-the-cat.json) |
 | BorielZONE | 279734 | [279734-borielzone.json](./279734-borielzone.json) |
 | Boring Game | 166741 | [166741-boring-game.json](./166741-boring-game.json) |
 | Boring in paradise | 156657 | [156657-boring-in-paradise.json](./156657-boring-in-paradise.json) |
@@ -11507,6 +11509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boti: Byteland Overclocked | 221164 | [221164-boti-byteland-overclocked.json](./221164-boti-byteland-overclocked.json) |
 | Boti: Byteland Overclocked - Bit Racing | 327814 | [327814-boti-byteland-overclocked-bit-racing.json](./327814-boti-byteland-overclocked-bit-racing.json) |
 | Boti: Byteland Overclocked - Bitosaurus | 327813 | [327813-boti-byteland-overclocked-bitosaurus.json](./327813-boti-byteland-overclocked-bitosaurus.json) |
+| Boti: Byteland Overclocked - Deluxe Edition | 331249 | [331249-boti-byteland-overclocked-deluxe-edition.json](./331249-boti-byteland-overclocked-deluxe-edition.json) |
 | Boti: Byteland Overclocked - Hidden Giftware | 285112 | [285112-boti-byteland-overclocked-hidden-giftware.json](./285112-boti-byteland-overclocked-hidden-giftware.json) |
 | Botics | 14336 | [14336-botics.json](./14336-botics.json) |
 | Botlike: A Robot's Rampage | 53310 | [53310-botlike-a-robots-rampage.json](./53310-botlike-a-robots-rampage.json) |
@@ -13304,6 +13307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Reappear | 254171 | [254171-bright-reappear.json](./254171-bright-reappear.json) |
 | Bright Red Skies | 112840 | [112840-bright-red-skies.json](./112840-bright-red-skies.json) |
 | Bright Shadow | 84432 | [84432-bright-shadow.json](./84432-bright-shadow.json) |
+| Bright Side: Quiz - Complete Edition | 331250 | [331250-bright-side-quiz-complete-edition.json](./331250-bright-side-quiz-complete-edition.json) |
 | Bright Side: Riddles & Puzzles | 265393 | [265393-bright-side-riddles-and-puzzles.json](./265393-bright-side-riddles-and-puzzles.json) |
 | Bright Sky: The Watch of the Future | 413006 | [413006-bright-sky-the-watch-of-the-future.json](./413006-bright-sky-the-watch-of-the-future.json) |
 | Brightblood | 159846 | [159846-brightblood.json](./159846-brightblood.json) |
