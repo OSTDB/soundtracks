@@ -2090,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accelerator Operator | 373345 | [373345-accelerator-operator.json](./373345-accelerator-operator.json) |
 | Acceptable Losses | 379459 | [379459-acceptable-losses.json](./379459-acceptable-losses.json) |
 | Acceptance | 210902 | [210902-acceptance.json](./210902-acceptance.json) |
+| Acceptance | 282737 | [282737-acceptance.json](./282737-acceptance.json) |
 | Access Acquired | 403332 | [403332-access-acquired.json](./403332-access-acquired.json) |
 | Access Block | 277863 | [277863-access-block.json](./277863-access-block.json) |
 | Access Code Zero | 174269 | [174269-access-code-zero.json](./174269-access-code-zero.json) |
@@ -2166,8 +2167,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 5: Recompiled | 418841 | [418841-ace-combat-5-recompiled.json](./418841-ace-combat-5-recompiled.json) |
 | Ace Combat 5: The Unsung War | 14753 | [14753-ace-combat-5-the-unsung-war.json](./14753-ace-combat-5-the-unsung-war.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Edition | 218508 | [218508-ace-combat-7-skies-unknown-25th-anniversary-edition.json](./218508-ace-combat-7-skies-unknown-25th-anniversary-edition.json) |
+| Ace Combat 7: Skies Unknown - 25th Anniversary Emblem Set | 282583 | [282583-ace-combat-7-skies-unknown-25th-anniversary-emblem-set.json](./282583-ace-combat-7-skies-unknown-25th-anniversary-emblem-set.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Emblem Set II | 282591 | [282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json](./282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json) |
+| Ace Combat 7: Skies Unknown - 25th Anniversary Emblem Set III | 282596 | [282596-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-iii.json](./282596-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-iii.json) |
+| Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set | 282582 | [282582-ace-combat-7-skies-unknown-25th-anniversary-skin-set.json](./282582-ace-combat-7-skies-unknown-25th-anniversary-skin-set.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set II | 282593 | [282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json](./282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json) |
+| Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set III | 282595 | [282595-ace-combat-7-skies-unknown-25th-anniversary-skin-set-iii.json](./282595-ace-combat-7-skies-unknown-25th-anniversary-skin-set-iii.json) |
+| Ace Combat 7: Skies Unknown - 3rd Anniversary Update | 282605 | [282605-ace-combat-7-skies-unknown-3rd-anniversary-update.json](./282605-ace-combat-7-skies-unknown-3rd-anniversary-update.json) |
 | Ace Combat 7: Skies Unknown - 8 Popular Squadron Emblems | 282530 | [282530-ace-combat-7-skies-unknown-8-popular-squadron-emblems.json](./282530-ace-combat-7-skies-unknown-8-popular-squadron-emblems.json) |
 | Ace Combat 7: Skies Unknown - Aces at War Bundle | 282531 | [282531-ace-combat-7-skies-unknown-aces-at-war-bundle.json](./282531-ace-combat-7-skies-unknown-aces-at-war-bundle.json) |
 | Ace Combat 7: Skies Unknown - ADF-01 FALKEN Set | 282536 | [282536-ace-combat-7-skies-unknown-adf-01-falken-set.json](./282536-ace-combat-7-skies-unknown-adf-01-falken-set.json) |
@@ -2175,13 +2181,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - ADFX-01 Morgan Set | 282537 | [282537-ace-combat-7-skies-unknown-adfx-01-morgan-set.json](./282537-ace-combat-7-skies-unknown-adfx-01-morgan-set.json) |
 | Ace Combat 7: Skies Unknown - Anchorhead Raid | 164586 | [164586-ace-combat-7-skies-unknown-anchorhead-raid.json](./164586-ace-combat-7-skies-unknown-anchorhead-raid.json) |
 | Ace Combat 7: Skies Unknown - ASF-X Shinden II Set | 282579 | [282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json](./282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json) |
+| Ace Combat 7: Skies Unknown - Bonus Emblem Set | 282587 | [282587-ace-combat-7-skies-unknown-bonus-emblem-set.json](./282587-ace-combat-7-skies-unknown-bonus-emblem-set.json) |
+| Ace Combat 7: Skies Unknown - CFA-44 Nosferatu Set | 282578 | [282578-ace-combat-7-skies-unknown-cfa-44-nosferatu-set.json](./282578-ace-combat-7-skies-unknown-cfa-44-nosferatu-set.json) |
+| Ace Combat 7: Skies Unknown - Cutting-Edge Aircraft Series | 282600 | [282600-ace-combat-7-skies-unknown-cutting-edge-aircraft-series.json](./282600-ace-combat-7-skies-unknown-cutting-edge-aircraft-series.json) |
 | Ace Combat 7: Skies Unknown - Cutting-Edge Aircraft Series Set | 324420 | [324420-ace-combat-7-skies-unknown-cutting-edge-aircraft-series-set.json](./324420-ace-combat-7-skies-unknown-cutting-edge-aircraft-series-set.json) |
 | Ace Combat 7: Skies Unknown - Deluxe Edition 2022 | 282545 | [282545-ace-combat-7-skies-unknown-deluxe-edition-2022.json](./282545-ace-combat-7-skies-unknown-deluxe-edition-2022.json) |
 | Ace Combat 7: Skies Unknown - Experimental Aircraft Series Set | 324421 | [324421-ace-combat-7-skies-unknown-experimental-aircraft-series-set.json](./324421-ace-combat-7-skies-unknown-experimental-aircraft-series-set.json) |
 | Ace Combat 7: Skies Unknown - F-104C: Avril | 282540 | [282540-ace-combat-7-skies-unknown-f-104c-avril.json](./282540-ace-combat-7-skies-unknown-f-104c-avril.json) |
 | Ace Combat 7: Skies Unknown - F-15 S/MTD Set | 282589 | [282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json](./282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json) |
+| Ace Combat 7: Skies Unknown - F-16XL Set | 282588 | [282588-ace-combat-7-skies-unknown-f-16xl-set.json](./282588-ace-combat-7-skies-unknown-f-16xl-set.json) |
+| Ace Combat 7: Skies Unknown - F-2A Super Kai Set | 282598 | [282598-ace-combat-7-skies-unknown-f-2a-super-kai-set.json](./282598-ace-combat-7-skies-unknown-f-2a-super-kai-set.json) |
 | Ace Combat 7: Skies Unknown - F-4E Phantom II + 3 Skins | 282534 | [282534-ace-combat-7-skies-unknown-f-4e-phantom-ii-3-skins.json](./282534-ace-combat-7-skies-unknown-f-4e-phantom-ii-3-skins.json) |
+| Ace Combat 7: Skies Unknown - F/A-18F Super Hornet Block III Set | 282597 | [282597-ace-combat-7-skies-unknown-f-a-18f-super-hornet-block-iii-set.json](./282597-ace-combat-7-skies-unknown-f-a-18f-super-hornet-block-iii-set.json) |
 | Ace Combat 7: Skies Unknown - FB-22 Strike Raptor Set | 282590 | [282590-ace-combat-7-skies-unknown-fb-22-strike-raptor-set.json](./282590-ace-combat-7-skies-unknown-fb-22-strike-raptor-set.json) |
+| Ace Combat 7: Skies Unknown - MiG-35D Super Fulcrum Set | 282599 | [282599-ace-combat-7-skies-unknown-mig-35d-super-fulcrum-set.json](./282599-ace-combat-7-skies-unknown-mig-35d-super-fulcrum-set.json) |
+| Ace Combat 7: Skies Unknown - Music Player Mode | 282581 | [282581-ace-combat-7-skies-unknown-music-player-mode.json](./282581-ace-combat-7-skies-unknown-music-player-mode.json) |
 | Ace Combat 7: Skies Unknown - Original Aircraft Series | 138246 | [138246-ace-combat-7-skies-unknown-original-aircraft-series.json](./138246-ace-combat-7-skies-unknown-original-aircraft-series.json) |
 | Ace Combat 7: Skies Unknown - Original Aircraft Series Set | 324422 | [324422-ace-combat-7-skies-unknown-original-aircraft-series-set.json](./324422-ace-combat-7-skies-unknown-original-aircraft-series-set.json) |
 | Ace Combat 7: Skies Unknown - Premium Edition | 139975 | [139975-ace-combat-7-skies-unknown-premium-edition.json](./139975-ace-combat-7-skies-unknown-premium-edition.json) |
@@ -14694,6 +14708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | August Ends | 318140 | [318140-august-ends.json](./318140-august-ends.json) |
 | August Night | 217858 | [217858-august-night.json](./217858-august-night.json) |
 | August of August | 149350 | [149350-august-of-august.json](./149350-august-of-august.json) |
+| Augustus: Im Auftrag des Kaisers | 282425 | [282425-augustus-im-auftrag-des-kaisers.json](./282425-augustus-im-auftrag-des-kaisers.json) |
 | Auld Lang Syne: Cat and Mouse | 305361 | [305361-auld-lang-syne-cat-and-mouse.json](./305361-auld-lang-syne-cat-and-mouse.json) |
 | Auldhame | 177747 | [177747-auldhame.json](./177747-auldhame.json) |
 | Aum the Game | 369118 | [369118-aum-the-game.json](./369118-aum-the-game.json) |
