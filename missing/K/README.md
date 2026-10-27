@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakuro Blend | 150442 | [150442-kakuro-blend.json](./150442-kakuro-blend.json) |
 | Kakuro by Nikoli | 85224 | [85224-kakuro-by-nikoli.json](./85224-kakuro-by-nikoli.json) |
 | Kakuro Magic | 147730 | [147730-kakuro-magic.json](./147730-kakuro-magic.json) |
+| Kakuro++ | 311557 | [311557-kakuro.json](./311557-kakuro.json) |
 | Kakusankibou | 80899 | [80899-kakusankibou.json](./80899-kakusankibou.json) |
 | Kakutou Haou Densetsu Algunos | 37586 | [37586-kakutou-haou-densetsu-algunos.json](./37586-kakutou-haou-densetsu-algunos.json) |
 | Kakutou Ryouri Densetsu Bistro Recipe: Gekitou Foodon Battle-hen | 228569 | [228569-kakutou-ryouri-densetsu-bistro-recipe-gekitou-foodon-battle-hen.json](./228569-kakutou-ryouri-densetsu-bistro-recipe-gekitou-foodon-battle-hen.json) |
@@ -1286,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep The House Warm | 291316 | [291316-keep-the-house-warm.json](./291316-keep-the-house-warm.json) |
 | Keep the Keep | 161576 | [161576-keep-the-keep.json](./161576-keep-the-keep.json) |
 | Keep Them Below | 59037 | [59037-keep-them-below.json](./59037-keep-them-below.json) |
+| Keep This Land | 311548 | [311548-keep-this-land.json](./311548-keep-this-land.json) |
 | Keep to the Blue | 416861 | [416861-keep-to-the-blue.json](./416861-keep-to-the-blue.json) |
 | Keep Trying! Zombie Apocalypse | 155015 | [155015-keep-trying-zombie-apocalypse.json](./155015-keep-trying-zombie-apocalypse.json) |
 | Keep Up | 277580 | [277580-keep-up.json](./277580-keep-up.json) |
@@ -3393,6 +3395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen Survivors | 217794 | [217794-kitchen-survivors.json](./217794-kitchen-survivors.json) |
 | Kitchen Swipe | 235057 | [235057-kitchen-swipe.json](./235057-kitchen-swipe.json) |
 | Kitchen Sync: Aloha! | 244384 | [244384-kitchen-sync-aloha.json](./244384-kitchen-sync-aloha.json) |
+| Kitchen Trials: Rush | 311524 | [311524-kitchen-trials-rush.json](./311524-kitchen-trials-rush.json) |
 | Kitchen War | 195045 | [195045-kitchen-war.json](./195045-kitchen-war.json) |
 | Kitchen War | 246464 | [246464-kitchen-war.json](./246464-kitchen-war.json) |
 | Kitchen Wars | 319205 | [319205-kitchen-wars.json](./319205-kitchen-wars.json) |
