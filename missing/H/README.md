@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Doom Evolved | 401297 | [401297-halo-doom-evolved.json](./401297-halo-doom-evolved.json) |
 | Halo: Fireteam Raven | 102066 | [102066-halo-fireteam-raven.json](./102066-halo-fireteam-raven.json) |
 | Halo: GoldSource | 352185 | [352185-halo-goldsource.json](./352185-halo-goldsource.json) |
+| Halo: Neutral Host Edition | 300638 | [300638-halo-neutral-host-edition.json](./300638-halo-neutral-host-edition.json) |
 | Halo: New Covenant | 332316 | [332316-halo-new-covenant.json](./332316-halo-new-covenant.json) |
 | Halo: Operation - Solar Flare | 351087 | [351087-halo-operation-solar-flare.json](./351087-halo-operation-solar-flare.json) |
 | Halo: Project Chozo | 414595 | [414595-halo-project-chozo.json](./414595-halo-project-chozo.json) |
@@ -9125,6 +9126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Hermes | 187832 | [187832-hotel-hermes.json](./187832-hotel-hermes.json) |
 | Hotel Hideaway | 380123 | [380123-hotel-hideaway.json](./380123-hotel-hideaway.json) |
 | Hotel Hima | 260865 | [260865-hotel-hima.json](./260865-hotel-hima.json) |
+| Hotel Hustle | 300659 | [300659-hotel-hustle.json](./300659-hotel-hustle.json) |
 | Hotel Hysteria! | 316261 | [316261-hotel-hysteria.json](./316261-hotel-hysteria.json) |
 | Hotel Infinity | 351048 | [351048-hotel-infinity.json](./351048-hotel-infinity.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
