@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanity: Military Skin | 380208 | [380208-vanity-military-skin.json](./380208-vanity-military-skin.json) |
 | Vanity: Suit Skin | 380205 | [380205-vanity-suit-skin.json](./380205-vanity-suit-skin.json) |
 | Vanity: Unlock All Characters | 380207 | [380207-vanity-unlock-all-characters.json](./380207-vanity-unlock-all-characters.json) |
+| Vanity: Weapon Pack | 321949 | [321949-vanity-weapon-pack.json](./321949-vanity-weapon-pack.json) |
 | Vanlife Camping Simulator | 297834 | [297834-vanlife-camping-simulator.json](./297834-vanlife-camping-simulator.json) |
 | Vanquish | 220716 | [220716-vanquish.json](./220716-vanquish.json) |
 | Vanquish | 3218 | [3218-vanquish.json](./3218-vanquish.json) |
