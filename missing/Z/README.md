@@ -1515,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Nightmare | 74448 | [74448-zombie-nightmare.json](./74448-zombie-nightmare.json) |
 | Zombie Ninja Confessional | 128652 | [128652-zombie-ninja-confessional.json](./128652-zombie-ninja-confessional.json) |
 | Zombie Office Politics | 34166 | [34166-zombie-office-politics.json](./34166-zombie-office-politics.json) |
+| Zombie Olé | 281865 | [281865-zombie-ole.json](./281865-zombie-ole.json) |
 | Zombie Ops 3D Shooter | 87286 | [87286-zombie-ops-3d-shooter.json](./87286-zombie-ops-3d-shooter.json) |
 | Zombie Outbreak 1942 | 344485 | [344485-zombie-outbreak-1942.json](./344485-zombie-outbreak-1942.json) |
 | Zombie Outbreak 1943 | 362390 | [362390-zombie-outbreak-1943.json](./362390-zombie-outbreak-1943.json) |
