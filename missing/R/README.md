@@ -2486,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Girls: Burning Whisper | 417278 | [417278-real-girls-burning-whisper.json](./417278-real-girls-burning-whisper.json) |
 | Real Grand Gangster Mafia war | 231914 | [231914-real-grand-gangster-mafia-war.json](./231914-real-grand-gangster-mafia-war.json) |
 | Real Hair Salon | 95304 | [95304-real-hair-salon.json](./95304-real-hair-salon.json) |
+| Real Hentai | 323099 | [323099-real-hentai.json](./323099-real-hentai.json) |
 | Real Hentai 4 | 330225 | [330225-real-hentai-4.json](./330225-real-hentai-4.json) |
 | Real Hentai 5 | 332497 | [332497-real-hentai-5.json](./332497-real-hentai-5.json) |
 | Real Hentai Situation! 2 | 194628 | [194628-real-hentai-situation-2.json](./194628-real-hentai-situation-2.json) |
