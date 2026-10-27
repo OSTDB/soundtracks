@@ -7139,6 +7139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Force Cross | 65251 | [65251-shining-force-cross.json](./65251-shining-force-cross.json) |
 | Shining Force Cross Elysion | 62094 | [62094-shining-force-cross-elysion.json](./62094-shining-force-cross-elysion.json) |
 | Shining Force Cross Exlesia | 62090 | [62090-shining-force-cross-exlesia.json](./62090-shining-force-cross-exlesia.json) |
+| Shining Force Cross Exlesia Zenith | 321327 | [321327-shining-force-cross-exlesia-zenith.json](./321327-shining-force-cross-exlesia-zenith.json) |
 | Shining Force Cross Raid | 62091 | [62091-shining-force-cross-raid.json](./62091-shining-force-cross-raid.json) |
 | Shining Force EXA | 19254 | [19254-shining-force-exa.json](./19254-shining-force-exa.json) |
 | Shining Force Feather | 47720 | [47720-shining-force-feather.json](./47720-shining-force-feather.json) |
@@ -11227,6 +11228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Man: Chapter 1 - Alone | 63821 | [63821-slender-man-chapter-1-alone.json](./63821-slender-man-chapter-1-alone.json) |
 | Slender Man: Chapter 2 - Survive | 62629 | [62629-slender-man-chapter-2-survive.json](./62629-slender-man-chapter-2-survive.json) |
 | Slender Man: Chapter 3 - Dreams | 59787 | [59787-slender-man-chapter-3-dreams.json](./59787-slender-man-chapter-3-dreams.json) |
+| Slender Man: Downpour | 321322 | [321322-slender-man-downpour.json](./321322-slender-man-downpour.json) |
 | Slender Man: Rise Again | 323972 | [323972-slender-man-rise-again.json](./323972-slender-man-rise-again.json) |
 | Slender Multiplayer | 270731 | [270731-slender-multiplayer.json](./270731-slender-multiplayer.json) |
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
@@ -11245,7 +11247,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender: The Arrival VR | 302594 | [302594-slender-the-arrival-vr.json](./302594-slender-the-arrival-vr.json) |
 | Slender: The Eight Pages | 12938 | [12938-slender-the-eight-pages.json](./12938-slender-the-eight-pages.json) |
 | Slender: The Eight Pages - Tiger Electronic Version | 383760 | [383760-slender-the-eight-pages-tiger-electronic-version.json](./383760-slender-the-eight-pages-tiger-electronic-version.json) |
+| Slender: The Gaze Of Horror | 321324 | [321324-slender-the-gaze-of-horror.json](./321324-slender-the-gaze-of-horror.json) |
+| Slender: The Haunted Metro | 321326 | [321326-slender-the-haunted-metro.json](./321326-slender-the-haunted-metro.json) |
+| Slender: The Nine Pages | 321329 | [321329-slender-the-nine-pages.json](./321329-slender-the-nine-pages.json) |
 | Slender: Visit into the Woods | 236922 | [236922-slender-visit-into-the-woods.json](./236922-slender-visit-into-the-woods.json) |
+| Slenderclown: Be Afraid of It! | 321301 | [321301-slenderclown-be-afraid-of-it.json](./321301-slenderclown-be-afraid-of-it.json) |
 | Slenderman | 152491 | [152491-slenderman.json](./152491-slenderman.json) |
 | Slenderman History: WWII Faceless Horror | 321165 | [321165-slenderman-history-wwii-faceless-horror.json](./321165-slenderman-history-wwii-faceless-horror.json) |
 | Slenderman Must Die: Chapter 1 | 321025 | [321025-slenderman-must-die-chapter-1.json](./321025-slenderman-must-die-chapter-1.json) |
@@ -13503,6 +13509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Softball Tengoku | 48907 | [48907-softball-tengoku.json](./48907-softball-tengoku.json) |
 | Softball: Breakthrough Gaming Arcade | 204999 | [204999-softball-breakthrough-gaming-arcade.json](./204999-softball-breakthrough-gaming-arcade.json) |
 | Softball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 213633 | [213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
+| Softie | 321304 | [321304-softie.json](./321304-softie.json) |
 | Softly Placed | 379978 | [379978-softly-placed.json](./379978-softly-placed.json) |
 | Softnauts the Game | 23908 | [23908-softnauts-the-game.json](./23908-softnauts-the-game.json) |
 | Softris | 221360 | [221360-softris.json](./221360-softris.json) |
