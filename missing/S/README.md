@@ -5291,6 +5291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Hotel Simulator 18+ | 296600 | [296600-sex-hotel-simulator-18.json](./296600-sex-hotel-simulator-18.json) |
 | Sex House: Orgy Party | 273658 | [273658-sex-house-orgy-party.json](./273658-sex-house-orgy-party.json) |
 | Sex in Space | 275709 | [275709-sex-in-space.json](./275709-sex-in-space.json) |
+| Sex In The Block | 313644 | [313644-sex-in-the-block.json](./313644-sex-in-the-block.json) |
 | Sex Industry XXX | 311175 | [311175-sex-industry-xxx.json](./311175-sex-industry-xxx.json) |
 | Sex Inspector | 311144 | [311144-sex-inspector.json](./311144-sex-inspector.json) |
 | Sex Instructor Yoga | 173830 | [173830-sex-instructor-yoga.json](./173830-sex-instructor-yoga.json) |
@@ -6880,6 +6881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shifted VR | 137439 | [137439-shifted-vr.json](./137439-shifted-vr.json) |
 | Shifter | 165946 | [165946-shifter.json](./165946-shifter.json) |
+| Shifter | 313640 | [313640-shifter.json](./313640-shifter.json) |
 | Shifter | 333452 | [333452-shifter.json](./333452-shifter.json) |
 | Shifters | 43557 | [43557-shifters.json](./43557-shifters.json) |
 | Shifting Dreamscape | 177891 | [177891-shifting-dreamscape.json](./177891-shifting-dreamscape.json) |
