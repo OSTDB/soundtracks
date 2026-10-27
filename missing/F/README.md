@@ -4615,6 +4615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Difference | 386186 | [386186-find-difference.json](./386186-find-difference.json) |
 | Find Differences | 380628 | [380628-find-differences.json](./380628-find-differences.json) |
 | Find Differences Stewardess | 95324 | [95324-find-differences-stewardess.json](./95324-find-differences-stewardess.json) |
+| Find Eden | 296310 | [296310-find-eden.json](./296310-find-eden.json) |
 | Find El Chupacabra | 359393 | [359393-find-el-chupacabra.json](./359393-find-el-chupacabra.json) |
 | Find Exit | 190024 | [190024-find-exit.json](./190024-find-exit.json) |
 | Find Food | 246329 | [246329-find-food.json](./246329-find-food.json) |
