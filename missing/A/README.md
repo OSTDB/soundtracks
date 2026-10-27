@@ -2703,6 +2703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adohiinage | 345439 | [345439-adohiinage.json](./345439-adohiinage.json) |
 | Adolfish | 185014 | [185014-adolfish.json](./185014-adolfish.json) |
 | ADOM II | 138068 | [138068-adom-ii.json](./138068-adom-ii.json) |
+| ADOM: Ancient Domains of Mystery | 308166 | [308166-adom-ancient-domains-of-mystery.json](./308166-adom-ancient-domains-of-mystery.json) |
 | ADOM: Ancient Domains of Mystery | 36159 | [36159-adom-ancient-domains-of-mystery.json](./36159-adom-ancient-domains-of-mystery.json) |
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
 | Adonis | 82358 | [82358-adonis.json](./82358-adonis.json) |
@@ -3159,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Lolo 2 | 6472 | [6472-adventures-of-lolo-2.json](./6472-adventures-of-lolo-2.json) |
 | Adventures of Lolo 3 | 7547 | [7547-adventures-of-lolo-3.json](./7547-adventures-of-lolo-3.json) |
 | Adventures of Maddog Williams in the Dungeons of Duridian | 50500 | [50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json](./50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json) |
+| Adventures of Max Fax | 308192 | [308192-adventures-of-max-fax.json](./308192-adventures-of-max-fax.json) |
 | Adventures of Megara: Antigone and the Living Toys | 173190 | [173190-adventures-of-megara-antigone-and-the-living-toys.json](./173190-adventures-of-megara-antigone-and-the-living-toys.json) |
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
 | Adventures of Megara: Demeter's Cat-astrophe - Collector's Edition | 357014 | [357014-adventures-of-megara-demeters-cat-astrophe-collectors-edition.json](./357014-adventures-of-megara-demeters-cat-astrophe-collectors-edition.json) |
@@ -3253,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeonfall | 415912 | [415912-aeonfall.json](./415912-aeonfall.json) |
 | Aeonic | 330486 | [330486-aeonic.json](./330486-aeonic.json) |
 | Aeons Past | 223482 | [223482-aeons-past.json](./223482-aeons-past.json) |
+| AeonX | 308321 | [308321-aeonx.json](./308321-aeonx.json) |
 | Aephemera | 355469 | [355469-aephemera.json](./355469-aephemera.json) |
 | Aequitas Orbis | 75064 | [75064-aequitas-orbis.json](./75064-aequitas-orbis.json) |
 | Aequor | 276752 | [276752-aequor.json](./276752-aequor.json) |
@@ -4251,6 +4254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Logic | 234442 | [234442-ai-logic.json](./234442-ai-logic.json) |
 | Ai Love | 368272 | [368272-ai-love.json](./368272-ai-love.json) |
 | AI Mahjong | 56534 | [56534-ai-mahjong.json](./56534-ai-mahjong.json) |
+| AI Mahjong 2000 | 308215 | [308215-ai-mahjong-2000.json](./308215-ai-mahjong-2000.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | AI Mahjong Selection | 349952 | [349952-ai-mahjong-selection.json](./349952-ai-mahjong-selection.json) |
 | AI Olympius | 254030 | [254030-ai-olympius.json](./254030-ai-olympius.json) |
@@ -4265,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Roommate: Life With an Artificial Companion | 359217 | [359217-ai-roommate-life-with-an-artificial-companion.json](./359217-ai-roommate-life-with-an-artificial-companion.json) |
 | AI Schoolgirls Murder Mystery | 312674 | [312674-ai-schoolgirls-murder-mystery.json](./312674-ai-schoolgirls-murder-mystery.json) |
 | Ai Sensei no Oshiete: Watashi no Hoshi | 48668 | [48668-ai-sensei-no-oshiete-watashi-no-hoshi.json](./48668-ai-sensei-no-oshiete-watashi-no-hoshi.json) |
+| AI Senshi Neuro-sama | 308188 | [308188-ai-senshi-neuro-sama.json](./308188-ai-senshi-neuro-sama.json) |
 | Ai Senshi Nicol | 41237 | [41237-ai-senshi-nicol.json](./41237-ai-senshi-nicol.json) |
 | Ai Shimai: Docchi ni Suruno!! | 78470 | [78470-ai-shimai-docchi-ni-suruno.json](./78470-ai-shimai-docchi-ni-suruno.json) |
 | AI Shogi 2 | 45445 | [45445-ai-shogi-2.json](./45445-ai-shogi-2.json) |
@@ -9973,6 +9978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AppleSnake | 51989 | [51989-applesnake.json](./51989-applesnake.json) |
 | AppleSnake: Christmas story | 88181 | [88181-applesnake-christmas-story.json](./88181-applesnake-christmas-story.json) |
 | AppleSnake: Halloween Adventures | 84056 | [84056-applesnake-halloween-adventures.json](./84056-applesnake-halloween-adventures.json) |
+| Applesnatch! | 308307 | [308307-applesnatch.json](./308307-applesnatch.json) |
 | Applewood | 120599 | [120599-applewood.json](./120599-applewood.json) |
 | Appli Archives: G-mode BurgerTime | 56422 | [56422-appli-archives-g-mode-burgertime.json](./56422-appli-archives-g-mode-burgertime.json) |
 | Appli Archives: IDAC Escape Game Pack 1 | 56410 | [56410-appli-archives-idac-escape-game-pack-1.json](./56410-appli-archives-idac-escape-game-pack-1.json) |
@@ -10647,6 +10653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Thunder Fox | 330002 | [330002-arcade-archives-thunder-fox.json](./330002-arcade-archives-thunder-fox.json) |
 | Arcade Archives: Time Pilot '84 | 149990 | [149990-arcade-archives-time-pilot-84.json](./149990-arcade-archives-time-pilot-84.json) |
 | Arcade Archives: Time Tunnel | 122746 | [122746-arcade-archives-time-tunnel.json](./122746-arcade-archives-time-tunnel.json) |
+| Arcade Archives: Tinkle Pit | 308297 | [308297-arcade-archives-tinkle-pit.json](./308297-arcade-archives-tinkle-pit.json) |
 | Arcade Archives: Top Speed | 389060 | [389060-arcade-archives-top-speed.json](./389060-arcade-archives-top-speed.json) |
 | Arcade Archives: Touchdown Fever | 384202 | [384202-arcade-archives-touchdown-fever.json](./384202-arcade-archives-touchdown-fever.json) |
 | Arcade Archives: Touki Denshou Angel Eyes | 222390 | [222390-arcade-archives-touki-denshou-angel-eyes.json](./222390-arcade-archives-touki-denshou-angel-eyes.json) |
@@ -12925,6 +12932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Odyssey: Those Who Are Treasured | 325330 | [325330-assassins-creed-odyssey-those-who-are-treasured.json](./325330-assassins-creed-odyssey-those-who-are-treasured.json) |
 | Assassin's Creed Origins: Secrets of the First Pyramids | 327770 | [327770-assassins-creed-origins-secrets-of-the-first-pyramids.json](./327770-assassins-creed-origins-secrets-of-the-first-pyramids.json) |
 | Assassin's Creed Origins: The Hidden Ones | 22964 | [22964-assassins-creed-origins-the-hidden-ones.json](./22964-assassins-creed-origins-the-hidden-ones.json) |
+| Assassin's Creed Revelations - Signature Edition | 308153 | [308153-assassins-creed-revelations-signature-edition.json](./308153-assassins-creed-revelations-signature-edition.json) |
 | Assassin's Creed Revelations Mobile | 68529 | [68529-assassins-creed-revelations-mobile.json](./68529-assassins-creed-revelations-mobile.json) |
 | Assassin's Creed Revelations: Mediterranean Traveler Map Pack | 167242 | [167242-assassins-creed-revelations-mediterranean-traveler-map-pack.json](./167242-assassins-creed-revelations-mediterranean-traveler-map-pack.json) |
 | Assassin's Creed Revelations: Special Edition | 268735 | [268735-assassins-creed-revelations-special-edition.json](./268735-assassins-creed-revelations-special-edition.json) |
@@ -13394,6 +13402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Dodge | 268876 | [268876-astral-dodge.json](./268876-astral-dodge.json) |
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
 | Astral Equilibrium | 140358 | [140358-astral-equilibrium.json](./140358-astral-equilibrium.json) |
+| Astral Escape | 308324 | [308324-astral-escape.json](./308324-astral-escape.json) |
 | Astral Fable | 303187 | [303187-astral-fable.json](./303187-astral-fable.json) |
 | Astral Fantasy | 350662 | [350662-astral-fantasy.json](./350662-astral-fantasy.json) |
 | Astral Flux | 193273 | [193273-astral-flux.json](./193273-astral-flux.json) |
@@ -13746,6 +13755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asy przestworzy | 204728 | [204728-asy-przestworzy.json](./204728-asy-przestworzy.json) |
 | Asylamba : Influence | 99154 | [99154-asylamba-influence.json](./99154-asylamba-influence.json) |
 | Asylum | 13807 | [13807-asylum.json](./13807-asylum.json) |
+| Asylum | 308294 | [308294-asylum.json](./308294-asylum.json) |
 | Asylum | 356277 | [356277-asylum.json](./356277-asylum.json) |
 | Asylum | 86391 | [86391-asylum.json](./86391-asylum.json) |
 | Asylum | 95384 | [95384-asylum.json](./95384-asylum.json) |
@@ -13948,6 +13958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Great Adventures in New Worlds Vol. 2 | 171342 | [171342-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-2.json](./171342-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-2.json) |
 | Atelier Marie | 329384 | [329384-atelier-marie.json](./329384-atelier-marie.json) |
 | Atelier Marie & Elie: The Alchemist of Salburg | 329357 | [329357-atelier-marie-and-elie-the-alchemist-of-salburg.json](./329357-atelier-marie-and-elie-the-alchemist-of-salburg.json) |
+| Atelier Marie Plus: The Alchemist of Salburg | 308190 | [308190-atelier-marie-plus-the-alchemist-of-salburg.json](./308190-atelier-marie-plus-the-alchemist-of-salburg.json) |
 | Atelier Marie Remake: The Alchemist of Salburg | 236698 | [236698-atelier-marie-remake-the-alchemist-of-salburg.json](./236698-atelier-marie-remake-the-alchemist-of-salburg.json) |
 | Atelier Marie Remake: The Alchemist of Salburg - Digital Deluxe Edition | 246875 | [246875-atelier-marie-remake-the-alchemist-of-salburg-digital-deluxe-edition.json](./246875-atelier-marie-remake-the-alchemist-of-salburg-digital-deluxe-edition.json) |
 | Atelier Marie, Elie & Anis: Message on the Gentle Breeze | 49699 | [49699-atelier-marie-elie-and-anis-message-on-the-gentle-breeze.json](./49699-atelier-marie-elie-and-anis-message-on-the-gentle-breeze.json) |
