@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Ski Mania: Aquatic Adrenaline Rush | 276119 | [276119-jet-ski-mania-aquatic-adrenaline-rush.json](./276119-jet-ski-mania-aquatic-adrenaline-rush.json) |
 | Jet Ski Rush | 147714 | [147714-jet-ski-rush.json](./147714-jet-ski-rush.json) |
 | Jet Skiing | 246506 | [246506-jet-skiing.json](./246506-jet-skiing.json) |
+| Jet Skiing Race | 290899 | [290899-jet-skiing-race.json](./290899-jet-skiing-race.json) |
 | Jet Trains | 174200 | [174200-jet-trains.json](./174200-jet-trains.json) |
 | Jet X2O | 77121 | [77121-jet-x2o.json](./77121-jet-x2o.json) |
 | Jet-Boot Jack | 79119 | [79119-jet-boot-jack.json](./79119-jet-boot-jack.json) |
