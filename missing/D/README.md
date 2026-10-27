@@ -1407,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Inquisition | 278162 | [278162-dark-inquisition.json](./278162-dark-inquisition.json) |
 | Dark Interval | 185936 | [185936-dark-interval.json](./185936-dark-interval.json) |
 | Dark Invasion VR: Doomsday | 204923 | [204923-dark-invasion-vr-doomsday.json](./204923-dark-invasion-vr-doomsday.json) |
+| Dark Investigation | 296322 | [296322-dark-investigation.json](./296322-dark-investigation.json) |
 | Dark Investigation: Experiment | 349226 | [349226-dark-investigation-experiment.json](./349226-dark-investigation-experiment.json) |
 | Dark is the Void | 276848 | [276848-dark-is-the-void.json](./276848-dark-is-the-void.json) |
 | Dark Island | 128953 | [128953-dark-island.json](./128953-dark-island.json) |
@@ -9138,6 +9139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Flux: System Initializing | 346563 | [346563-distant-flux-system-initializing.json](./346563-distant-flux-system-initializing.json) |
 | Distant Garden | 309742 | [309742-distant-garden.json](./309742-distant-garden.json) |
 | Distant Guns: The Russo-Japanese War at Sea | 63179 | [63179-distant-guns-the-russo-japanese-war-at-sea.json](./63179-distant-guns-the-russo-japanese-war-at-sea.json) |
+| Distant Isles | 296333 | [296333-distant-isles.json](./296333-distant-isles.json) |
 | Distant Lands: Earendel | 335123 | [335123-distant-lands-earendel.json](./335123-distant-lands-earendel.json) |
 | Distant Memoraĵo | 131891 | [131891-distant-memorajo.json](./131891-distant-memorajo.json) |
 | Distant Nightmare | 37044 | [37044-distant-nightmare.json](./37044-distant-nightmare.json) |
