@@ -1769,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raster Prime: Remix | 162415 | [162415-raster-prime-remix.json](./162415-raster-prime-remix.json) |
 | RasterFire | 412570 | [412570-rasterfire.json](./412570-rasterfire.json) |
 | Rasternauts | 134965 | [134965-rasternauts.json](./134965-rasternauts.json) |
+| Rastignac: Wastelands | 302895 | [302895-rastignac-wastelands.json](./302895-rastignac-wastelands.json) |
 | Rat Arena | 106585 | [106585-rat-arena.json](./106585-rat-arena.json) |
 | Rat Attack! | 3415 | [3415-rat-attack.json](./3415-rat-attack.json) |
 | Rat Bastard | 184771 | [184771-rat-bastard.json](./184771-rat-bastard.json) |
@@ -5700,6 +5701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewindead | 382756 | [382756-rewindead.json](./382756-rewindead.json) |
 | Rewinder | 183315 | [183315-rewinder.json](./183315-rewinder.json) |
 | Rewinder | 184227 | [184227-rewinder.json](./184227-rewinder.json) |
+| RewindGirl | 302997 | [302997-rewindgirl.json](./302997-rewindgirl.json) |
 | Rewinding Cadence | 350187 | [350187-rewinding-cadence.json](./350187-rewinding-cadence.json) |
 | ReWire | 348839 | [348839-rewire.json](./348839-rewire.json) |
 | Rewolborough Vol.1 | 394622 | [394622-rewolborough-vol-1.json](./394622-rewolborough-vol-1.json) |
