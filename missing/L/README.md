@@ -7560,6 +7560,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loved | 57559 | [57559-loved.json](./57559-loved.json) |
 | Loved by King Bs | 202707 | [202707-loved-by-king-bs.json](./202707-loved-by-king-bs.json) |
 | Lovefield General: Back to Work | 105351 | [105351-lovefield-general-back-to-work.json](./105351-lovefield-general-back-to-work.json) |
+| LoveHacks: Book 1 | 313624 | [313624-lovehacks-book-1.json](./313624-lovehacks-book-1.json) |
+| LoveHacks: Book 2 | 313625 | [313625-lovehacks-book-2.json](./313625-lovehacks-book-2.json) |
 | Lovehammer 400 000: The Buttlerian Crusade | 131831 | [131831-lovehammer-400-000-the-buttlerian-crusade.json](./131831-lovehammer-400-000-the-buttlerian-crusade.json) |
 | Lovejuiced!: Hi Neighbor, meet Gamer | 392989 | [392989-lovejuiced-hi-neighbor-meet-gamer.json](./392989-lovejuiced-hi-neighbor-meet-gamer.json) |
 | LoveKami -Divinity Stage- | 26541 | [26541-lovekami-divinity-stage.json](./26541-lovekami-divinity-stage.json) |
