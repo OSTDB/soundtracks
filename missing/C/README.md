@@ -7714,6 +7714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Gangster Simulator | 339451 | [339451-city-gangster-simulator.json](./339451-city-gangster-simulator.json) |
 | City God Alice | 393599 | [393599-city-god-alice.json](./393599-city-god-alice.json) |
 | City Gridlock | 253988 | [253988-city-gridlock.json](./253988-city-gridlock.json) |
+| City Heist | 325989 | [325989-city-heist.json](./325989-city-heist.json) |
 | City Hunter | 370192 | [370192-city-hunter.json](./370192-city-hunter.json) |
 | City Hunter | 37718 | [37718-city-hunter.json](./37718-city-hunter.json) |
 | City Idle | 244354 | [244354-city-idle.json](./244354-city-idle.json) |
@@ -12284,6 +12285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corner Kitchen Fast Food Simulator | 326454 | [326454-corner-kitchen-fast-food-simulator.json](./326454-corner-kitchen-fast-food-simulator.json) |
 | Corner Loot | 360003 | [360003-corner-loot.json](./360003-corner-loot.json) |
 | Corner Streamer | 392320 | [392320-corner-streamer.json](./392320-corner-streamer.json) |
+| Corner World | 325991 | [325991-corner-world.json](./325991-corner-world.json) |
 | Cornerfall | 409189 | [409189-cornerfall.json](./409189-cornerfall.json) |
 | Corneroids | 392409 | [392409-corneroids.json](./392409-corneroids.json) |
 | Cornerpond | 341374 | [341374-cornerpond.json](./341374-cornerpond.json) |
@@ -14824,6 +14826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CropBytes | 235307 | [235307-cropbytes.json](./235307-cropbytes.json) |
 | Cropia | 374198 | [374198-cropia.json](./374198-cropia.json) |
 | Cropisle TD | 266095 | [266095-cropisle-td.json](./266095-cropisle-td.json) |
+| Cropolution | 325990 | [325990-cropolution.json](./325990-cropolution.json) |
 | Cropped | 201465 | [201465-cropped.json](./201465-cropped.json) |
 | Cropple | 243963 | [243963-cropple.json](./243963-cropple.json) |
 | Croppy Boy | 157110 | [157110-croppy-boy.json](./157110-croppy-boy.json) |
@@ -15602,6 +15605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crysis: Special Edition | 142670 | [142670-crysis-special-edition.json](./142670-crysis-special-edition.json) |
 | Crysmalia: Dawn of Darkness | 228485 | [228485-crysmalia-dawn-of-darkness.json](./228485-crysmalia-dawn-of-darkness.json) |
 | Cryspace | 240746 | [240746-cryspace.json](./240746-cryspace.json) |
+| Cryst | 325992 | [325992-cryst.json](./325992-cryst.json) |
 | Crystal | 145275 | [145275-crystal.json](./145275-crystal.json) |
 | Crystal Adventure | 58080 | [58080-crystal-adventure.json](./58080-crystal-adventure.json) |
 | Crystal Anomaly | 194379 | [194379-crystal-anomaly.json](./194379-crystal-anomaly.json) |
@@ -15693,6 +15697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Quest Classic | 32182 | [32182-crystal-quest-classic.json](./32182-crystal-quest-classic.json) |
 | Crystal Raider | 55188 | [55188-crystal-raider.json](./55188-crystal-raider.json) |
 | Crystal Raiders VR | 144178 | [144178-crystal-raiders-vr.json](./144178-crystal-raiders-vr.json) |
+| Crystal Rail | 325994 | [325994-crystal-rail.json](./325994-crystal-rail.json) |
 | Crystal Reign | 75597 | [75597-crystal-reign.json](./75597-crystal-reign.json) |
 | Crystal Rider | 160210 | [160210-crystal-rider.json](./160210-crystal-rider.json) |
 | Crystal Riders VR | 236393 | [236393-crystal-riders-vr.json](./236393-crystal-riders-vr.json) |
