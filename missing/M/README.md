@@ -16244,6 +16244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muhammad Ali: Puzzle King | 57914 | [57914-muhammad-ali-puzzle-king.json](./57914-muhammad-ali-puzzle-king.json) |
 | Muhe Space | 374902 | [374902-muhe-space.json](./374902-muhe-space.json) |
 | Mühle-Online | 84275 | [84275-muhle-online.json](./84275-muhle-online.json) |
+| Muito, Muito Minimalista: FES | 284377 | [284377-muito-muito-minimalista-fes.json](./284377-muito-muito-minimalista-fes.json) |
 | Mujina | 259060 | [259060-mujina.json](./259060-mujina.json) |
 | Mujina: Maze Game VR | 261504 | [261504-mujina-maze-game-vr.json](./261504-mujina-maze-game-vr.json) |
 | Mujinkun no Chotto Arukanai? | 284449 | [284449-mujinkun-no-chotto-arukanai.json](./284449-mujinkun-no-chotto-arukanai.json) |
@@ -18440,6 +18441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery at Morgoth | 173008 | [173008-mystery-at-morgoth.json](./173008-mystery-at-morgoth.json) |
 | Mystery at Rainy Night Manor: The Missing Invitation | 409657 | [409657-mystery-at-rainy-night-manor-the-missing-invitation.json](./409657-mystery-at-rainy-night-manor-the-missing-invitation.json) |
 | Mystery at Stonyford Bridge | 121333 | [121333-mystery-at-stonyford-bridge.json](./121333-mystery-at-stonyford-bridge.json) |
+| Mystery at the Movie Club | 284178 | [284178-mystery-at-the-movie-club.json](./284178-mystery-at-the-movie-club.json) |
 | Mystery At Woodbrook Hall: Hidden Object Game | 197743 | [197743-mystery-at-woodbrook-hall-hidden-object-game.json](./197743-mystery-at-woodbrook-hall-hidden-object-game.json) |
 | Mystery Box 4-in-1 Bundle | 328508 | [328508-mystery-box-4-in-1-bundle.json](./328508-mystery-box-4-in-1-bundle.json) |
 | Mystery Box 5: Elements | 292251 | [292251-mystery-box-5-elements.json](./292251-mystery-box-5-elements.json) |
