@@ -4927,6 +4927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Becastled | 139654 | [139654-becastled.json](./139654-becastled.json) |
 | Because I happened to know a secret of a transforming heroine... | 83177 | [83177-because-i-happened-to-know-a-secret-of-a-transforming-heroine.json](./83177-because-i-happened-to-know-a-secret-of-a-transforming-heroine.json) |
 | Because It's a Dream, It Must Be Romance: Connecting Hearts Across Realities | 399613 | [399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json](./399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json) |
+| Because of Magic | 291953 | [291953-because-of-magic.json](./291953-because-of-magic.json) |
 | Because The World Died | 303707 | [303707-because-the-world-died.json](./303707-because-the-world-died.json) |
 | Because We're Here: Act I | 176797 | [176797-because-were-here-act-i.json](./176797-because-were-here-act-i.json) |
 | Because We're Here: Mohnblume und Blauerose | 105298 | [105298-because-were-here-mohnblume-und-blauerose.json](./105298-because-were-here-mohnblume-und-blauerose.json) |
@@ -6845,6 +6846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bimous | 186845 | [186845-bimous.json](./186845-bimous.json) |
 | Bimsy Dreams | 183419 | [183419-bimsy-dreams.json](./183419-bimsy-dreams.json) |
 | Bin Weevils | 126020 | [126020-bin-weevils.json](./126020-bin-weevils.json) |
+| Binairo | 291971 | [291971-binairo.json](./291971-binairo.json) |
 | Binaries | 18207 | [18207-binaries.json](./18207-binaries.json) |
 | Binarion | 242600 | [242600-binarion.json](./242600-binarion.json) |
 | Binary | 172678 | [172678-binary.json](./172678-binary.json) |
@@ -9523,6 +9525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Samurai: Night of Slaughter | 227851 | [227851-blood-samurai-night-of-slaughter.json](./227851-blood-samurai-night-of-slaughter.json) |
 | Blood Scrolls | 126863 | [126863-blood-scrolls.json](./126863-blood-scrolls.json) |
 | Blood Sea | 312572 | [312572-blood-sea.json](./312572-blood-sea.json) |
+| Blood Servants | 291951 | [291951-blood-servants.json](./291951-blood-servants.json) |
 | Blood Sins | 284016 | [284016-blood-sins.json](./284016-blood-sins.json) |
 | Blood Soaked Bastard! | 349997 | [349997-blood-soaked-bastard.json](./349997-blood-soaked-bastard.json) |
 | Blood Souls | 199339 | [199339-blood-souls.json](./199339-blood-souls.json) |
@@ -11359,6 +11362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootleg Bandits | 13822 | [13822-bootleg-bandits.json](./13822-bootleg-bandits.json) |
 | Bootleg Fantasy | 171833 | [171833-bootleg-fantasy.json](./171833-bootleg-fantasy.json) |
 | Bootleg in Wonderland: Pastel Paradise | 342588 | [342588-bootleg-in-wonderland-pastel-paradise.json](./342588-bootleg-in-wonderland-pastel-paradise.json) |
+| Bootleg Soldier Azure: Astral Rave | 292028 | [292028-bootleg-soldier-azure-astral-rave.json](./292028-bootleg-soldier-azure-astral-rave.json) |
 | Bootleg Systems | 32744 | [32744-bootleg-systems.json](./32744-bootleg-systems.json) |
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
 | Bootloop | 362055 | [362055-bootloop.json](./362055-bootloop.json) |
@@ -13339,6 +13343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Between Two Islands | 308475 | [308475-bridge-between-two-islands.json](./308475-bridge-between-two-islands.json) |
 | Bridge Builder | 50121 | [50121-bridge-builder.json](./50121-bridge-builder.json) |
 | Bridge Builder Racer | 120042 | [120042-bridge-builder-racer.json](./120042-bridge-builder-racer.json) |
+| Bridge Builder Simulator | 291966 | [291966-bridge-builder-simulator.json](./291966-bridge-builder-simulator.json) |
 | Bridge Challenge | 15687 | [15687-bridge-challenge.json](./15687-bridge-challenge.json) |
 | Bridge Champion with Omar Sharif | 148390 | [148390-bridge-champion-with-omar-sharif.json](./148390-bridge-champion-with-omar-sharif.json) |
 | Bridge Construction Set | 25006 | [25006-bridge-construction-set.json](./25006-bridge-construction-set.json) |
