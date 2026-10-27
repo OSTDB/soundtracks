@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defence | 14049 | [14049-earth-defence.json](./14049-earth-defence.json) |
 | Earth Defender | 112318 | [112318-earth-defender.json](./112318-earth-defender.json) |
 | Earth Defender One | 144273 | [144273-earth-defender-one.json](./144273-earth-defender-one.json) |
+| Earth Defenders | 295817 | [295817-earth-defenders.json](./295817-earth-defenders.json) |
 | Earth Defense Force | 46666 | [46666-earth-defense-force.json](./46666-earth-defense-force.json) |
 | Earth Defense Force 2 for Nintendo Switch | 222484 | [222484-earth-defense-force-2-for-nintendo-switch.json](./222484-earth-defense-force-2-for-nintendo-switch.json) |
 | Earth Defense Force 2: Invaders from Planet Space | 11001 | [11001-earth-defense-force-2-invaders-from-planet-space.json](./11001-earth-defense-force-2-invaders-from-planet-space.json) |
@@ -491,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastern Exorcist | 121235 | [121235-eastern-exorcist.json](./121235-eastern-exorcist.json) |
 | Eastern Front | 260544 | [260544-eastern-front.json](./260544-eastern-front.json) |
 | Eastern Front (1941) | 24799 | [24799-eastern-front-1941.json](./24799-eastern-front-1941.json) |
+| Eastern Heroes | 295816 | [295816-eastern-heroes.json](./295816-eastern-heroes.json) |
 | Eastern Market Murder | 174372 | [174372-eastern-market-murder.json](./174372-eastern-market-murder.json) |
 | Eastern Mind: The Lost Souls of Tong Nou | 73752 | [73752-eastern-mind-the-lost-souls-of-tong-nou.json](./73752-eastern-mind-the-lost-souls-of-tong-nou.json) |
 | Eastern Tactics | 171571 | [171571-eastern-tactics.json](./171571-eastern-tactics.json) |
@@ -1671,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Tango de la Muerte | 68838 | [68838-el-tango-de-la-muerte.json](./68838-el-tango-de-la-muerte.json) |
 | El Tigre: The Adventures of Manny Rivera | 264869 | [264869-el-tigre-the-adventures-of-manny-rivera.json](./264869-el-tigre-the-adventures-of-manny-rivera.json) |
 | El Virus | 345396 | [345396-el-virus.json](./345396-el-virus.json) |
+| El-Drifto | 295750 | [295750-el-drifto.json](./295750-el-drifto.json) |
 | El-Fish | 72089 | [72089-el-fish.json](./72089-el-fish.json) |
 | El-Silbon | 391659 | [391659-el-silbon.json](./391659-el-silbon.json) |
 | Elaborate Lands | 188584 | [188584-elaborate-lands.json](./188584-elaborate-lands.json) |
@@ -3294,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endline | 144984 | [144984-endline.json](./144984-endline.json) |
 | Endling | 187734 | [187734-endling.json](./187734-endling.json) |
 | Endling: Extinction is Forever | 105623 | [105623-endling-extinction-is-forever.json](./105623-endling-extinction-is-forever.json) |
+| Endloop | 295818 | [295818-endloop.json](./295818-endloop.json) |
 | Endme | 316571 | [316571-endme.json](./316571-endme.json) |
 | Endo | 158503 | [158503-endo.json](./158503-endo.json) |
 | Endocrisis | 143368 | [143368-endocrisis.json](./143368-endocrisis.json) |
@@ -5279,6 +5283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethereal | 183955 | [183955-ethereal.json](./183955-ethereal.json) |
 | Ethereal Abyss | 294357 | [294357-ethereal-abyss.json](./294357-ethereal-abyss.json) |
 | Ethereal Enigma | 120480 | [120480-ethereal-enigma.json](./120480-ethereal-enigma.json) |
+| Ethereal Fracture | 295747 | [295747-ethereal-fracture.json](./295747-ethereal-fracture.json) |
 | Ethereal Legends | 33892 | [33892-ethereal-legends.json](./33892-ethereal-legends.json) |
 | Ethereal Storm | 405045 | [405045-ethereal-storm.json](./405045-ethereal-storm.json) |
 | Ethereal: Clash of Souls | 127325 | [127325-ethereal-clash-of-souls.json](./127325-ethereal-clash-of-souls.json) |
@@ -5377,6 +5382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eureka Seven Vol.1: The New Wave | 19641 | [19641-eureka-seven-vol-1-the-new-wave.json](./19641-eureka-seven-vol-1-the-new-wave.json) |
 | Eureka Seven: AO - The Flowers of Jungfrau | 64905 | [64905-eureka-seven-ao-the-flowers-of-jungfrau.json](./64905-eureka-seven-ao-the-flowers-of-jungfrau.json) |
 | Eureka! | 25914 | [25914-eureka.json](./25914-eureka.json) |
+| Eureka! Superconductor Lab | 295753 | [295753-eureka-superconductor-lab.json](./295753-eureka-superconductor-lab.json) |
 | Eurekas | 374776 | [374776-eurekas.json](./374776-eurekas.json) |
 | Eurgava: Pathforgers | 348290 | [348290-eurgava-pathforgers.json](./348290-eurgava-pathforgers.json) |
 | Eurgava: Tomb of Senza | 116122 | [116122-eurgava-tomb-of-senza.json](./116122-eurgava-tomb-of-senza.json) |
@@ -6809,6 +6815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exsanguination | 340045 | [340045-exsanguination.json](./340045-exsanguination.json) |
 | Exstetra | 6769 | [6769-exstetra.json](./6769-exstetra.json) |
 | Exsynchronos | 148297 | [148297-exsynchronos.json](./148297-exsynchronos.json) |
+| Extant: Zombie Eradication Co-op Simulation | 295821 | [295821-extant-zombie-eradication-co-op-simulation.json](./295821-extant-zombie-eradication-co-op-simulation.json) |
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
 | Exteel | 77809 | [77809-exteel.json](./77809-exteel.json) |
 | Extended Stay | 158401 | [158401-extended-stay.json](./158401-extended-stay.json) |
