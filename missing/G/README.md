@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garuda Emblem | 327176 | [327176-garuda-emblem.json](./327176-garuda-emblem.json) |
 | Garuka | 40140 | [40140-garuka.json](./40140-garuka.json) |
 | Garukilla | 92508 | [92508-garukilla.json](./92508-garukilla.json) |
+| Garuya and the Kaleidoscope of Syzygy | 307005 | [307005-garuya-and-the-kaleidoscope-of-syzygy.json](./307005-garuya-and-the-kaleidoscope-of-syzygy.json) |
 | Gary Grigsby's Pacific War | 72106 | [72106-gary-grigsbys-pacific-war.json](./72106-gary-grigsbys-pacific-war.json) |
 | Gary Grigsby's War in Russia | 70767 | [70767-gary-grigsbys-war-in-russia.json](./70767-gary-grigsbys-war-in-russia.json) |
 | Gary Grigsby's War in the East | 24627 | [24627-gary-grigsbys-war-in-the-east.json](./24627-gary-grigsbys-war-in-the-east.json) |
@@ -8109,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grog 'n Glory | 291739 | [291739-grog-n-glory.json](./291739-grog-n-glory.json) |
 | Groggers! | 31122 | [31122-groggers.json](./31122-groggers.json) |
 | Grok | 322763 | [322763-grok.json](./322763-grok.json) |
+| Grokai | 307031 | [307031-grokai.json](./307031-grokai.json) |
 | Grokit | 271204 | [271204-grokit.json](./271204-grokit.json) |
 | Grokit: Purrtropolis | 354331 | [354331-grokit-purrtropolis.json](./354331-grokit-purrtropolis.json) |
 | Grom: Terror in Tibet | 73767 | [73767-grom-terror-in-tibet.json](./73767-grom-terror-in-tibet.json) |
