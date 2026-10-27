@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallery One | 106340 | [106340-gallery-one.json](./106340-gallery-one.json) |
 | Gallery One | 184002 | [184002-gallery-one.json](./184002-gallery-one.json) |
 | Gallery Theft | 348312 | [348312-gallery-theft.json](./348312-gallery-theft.json) |
+| Gallery X | 302979 | [302979-gallery-x.json](./302979-gallery-x.json) |
 | Gallery: Coloring book & decor | 322558 | [322558-gallery-coloring-book-and-decor.json](./322558-gallery-coloring-book-and-decor.json) |
 | Gallery: Moa's Room | 221614 | [221614-gallery-moas-room.json](./221614-gallery-moas-room.json) |
 | Galletron | 13001 | [13001-galletron.json](./13001-galletron.json) |
@@ -3727,6 +3728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginger Shroom Journey | 307914 | [307914-ginger-shroom-journey.json](./307914-ginger-shroom-journey.json) |
 | Ginger: The Tooth Fairy | 209134 | [209134-ginger-the-tooth-fairy.json](./209134-ginger-the-tooth-fairy.json) |
 | Ginger's Letter to Santa | 326745 | [326745-gingers-letter-to-santa.json](./326745-gingers-letter-to-santa.json) |
+| Gingerbread Dash! | 302988 | [302988-gingerbread-dash.json](./302988-gingerbread-dash.json) |
 | Gingerbread Holiday | 373006 | [373006-gingerbread-holiday.json](./373006-gingerbread-holiday.json) |
 | Gingerbread Man | 40657 | [40657-gingerbread-man.json](./40657-gingerbread-man.json) |
 | Gingerbread Story | 95642 | [95642-gingerbread-story.json](./95642-gingerbread-story.json) |
