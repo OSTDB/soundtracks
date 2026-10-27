@@ -8835,6 +8835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miburi and Teburi | 230271 | [230271-miburi-and-teburi.json](./230271-miburi-and-teburi.json) |
 | Mica King | 414749 | [414749-mica-king.json](./414749-mica-king.json) |
 | Mica: Apoptosis | 177515 | [177515-mica-apoptosis.json](./177515-mica-apoptosis.json) |
+| Micchiri Neko Dash! | 328359 | [328359-micchiri-neko-dash.json](./328359-micchiri-neko-dash.json) |
 | Mice Tea | 223528 | [223528-mice-tea.json](./223528-mice-tea.json) |
 | Micegard | 250492 | [250492-micegard.json](./250492-micegard.json) |
 | Michael Andretti's Indy Car Challenge | 42496 | [42496-michael-andrettis-indy-car-challenge.json](./42496-michael-andrettis-indy-car-challenge.json) |
@@ -12985,6 +12986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monmon and the Legendary Banana | 400100 | [400100-monmon-and-the-legendary-banana.json](./400100-monmon-and-the-legendary-banana.json) |
 | MONMUSU | 75970 | [75970-monmusu.json](./75970-monmusu.json) |
 | Monmusu Fight! | 99601 | [99601-monmusu-fight.json](./99601-monmusu-fight.json) |
+| Monmusu Girls: Autobattler | 328205 | [328205-monmusu-girls-autobattler.json](./328205-monmusu-girls-autobattler.json) |
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
 | Mono | 29074 | [29074-mono.json](./29074-mono.json) |
 | Mono | 389926 | [389926-mono.json](./389926-mono.json) |
