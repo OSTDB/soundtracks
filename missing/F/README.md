@@ -7983,6 +7983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Season 22 - Curse of the Scarab | 217523 | [217523-for-honor-season-22-curse-of-the-scarab.json](./217523-for-honor-season-22-curse-of-the-scarab.json) |
 | For Honor: Season 23 - The Demon Dagger | 217524 | [217524-for-honor-season-23-the-demon-dagger.json](./217524-for-honor-season-23-the-demon-dagger.json) |
 | For Honor: Starter Edition | 216232 | [216232-for-honor-starter-edition.json](./216232-for-honor-starter-edition.json) |
+| For Honor: The Muramasa Blade | 305235 | [305235-for-honor-the-muramasa-blade.json](./305235-for-honor-the-muramasa-blade.json) |
 | For Honor: The Oni's Hunt Deluxe - Hero Skin Bundle | 415019 | [415019-for-honor-the-onis-hunt-deluxe-hero-skin-bundle.json](./415019-for-honor-the-onis-hunt-deluxe-hero-skin-bundle.json) |
 | For Honor: The Oni's Wrath – Sohei Hero Skin | 408965 | [408965-for-honor-the-onis-wrath-sohei-hero-skin.json](./408965-for-honor-the-onis-wrath-sohei-hero-skin.json) |
 | For Honor: The Scorching Herald – Gryphon Legendary Hero Skin | 408967 | [408967-for-honor-the-scorching-herald-gryphon-legendary-hero-skin.json](./408967-for-honor-the-scorching-herald-gryphon-legendary-hero-skin.json) |
