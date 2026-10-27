@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | h Find the Differences 2 | 88449 | [88449-h-find-the-differences-2.json](./88449-h-find-the-differences-2.json) |
 | H Girl 2 | 244271 | [244271-h-girl-2.json](./244271-h-girl-2.json) |
 | H Girl 4 | 301810 | [301810-h-girl-4.json](./301810-h-girl-4.json) |
+| H Girl Kemonomimi | 296957 | [296957-h-girl-kemonomimi.json](./296957-h-girl-kemonomimi.json) |
 | H Index | 340474 | [340474-h-index.json](./340474-h-index.json) |
 | h Puzzle | 90445 | [90445-h-puzzle.json](./90445-h-puzzle.json) |
 | h Simply Go | 91338 | [91338-h-simply-go.json](./91338-h-simply-go.json) |
@@ -4484,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Portrait | 378849 | [378849-hentai-portrait.json](./378849-hentai-portrait.json) |
 | Hentai Project | 262366 | [262366-hentai-project.json](./262366-hentai-project.json) |
 | Hentai Project 67 | 409529 | [409529-hentai-project-67.json](./409529-hentai-project-67.json) |
+| Hentai Puppy Maid | 296953 | [296953-hentai-puppy-maid.json](./296953-hentai-puppy-maid.json) |
 | Hentai Pussy 2 | 286413 | [286413-hentai-pussy-2.json](./286413-hentai-pussy-2.json) |
 | Hentai Pussy 4 | 214188 | [214188-hentai-pussy-4.json](./214188-hentai-pussy-4.json) |
 | Hentai Pussy 5 | 236183 | [236183-hentai-pussy-5.json](./236183-hentai-pussy-5.json) |
@@ -4529,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Senpai: Hot Summer Beach Resort | 389623 | [389623-hentai-senpai-hot-summer-beach-resort.json](./389623-hentai-senpai-hot-summer-beach-resort.json) |
 | Hentai Senpai: Kairaku No Maid Service | 389625 | [389625-hentai-senpai-kairaku-no-maid-service.json](./389625-hentai-senpai-kairaku-no-maid-service.json) |
 | Hentai Senpai: Konbini no Shirigaru Onna | 311134 | [311134-hentai-senpai-konbini-no-shirigaru-onna.json](./311134-hentai-senpai-konbini-no-shirigaru-onna.json) |
+| Hentai Senpai: Pirates! | 296952 | [296952-hentai-senpai-pirates.json](./296952-hentai-senpai-pirates.json) |
 | Hentai Senpai: Thicc Fairies of Forest Lake | 372118 | [372118-hentai-senpai-thicc-fairies-of-forest-lake.json](./372118-hentai-senpai-thicc-fairies-of-forest-lake.json) |
 | Hentai Senpai: Thiccmas Cumsluts | 384704 | [384704-hentai-senpai-thiccmas-cumsluts.json](./384704-hentai-senpai-thiccmas-cumsluts.json) |
 | Hentai Sensei | 301666 | [301666-hentai-sensei.json](./301666-hentai-sensei.json) |
@@ -4630,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Time | 366523 | [366523-hentai-time.json](./366523-hentai-time.json) |
 | Hentai Travel | 384588 | [384588-hentai-travel.json](./384588-hentai-travel.json) |
 | Hentai Uni 3 | 340458 | [340458-hentai-uni-3.json](./340458-hentai-uni-3.json) |
+| Hentai Uniform | 296951 | [296951-hentai-uniform.json](./296951-hentai-uniform.json) |
 | Hentai University | 106586 | [106586-hentai-university.json](./106586-hentai-university.json) |
 | Hentai University 2: Biology course | 112455 | [112455-hentai-university-2-biology-course.json](./112455-hentai-university-2-biology-course.json) |
 | Hentai Unlimited | 367510 | [367510-hentai-unlimited.json](./367510-hentai-unlimited.json) |
@@ -5003,6 +5007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Siege: Gates of Valhalla | 204957 | [204957-hero-siege-gates-of-valhalla.json](./204957-hero-siege-gates-of-valhalla.json) |
 | Hero Siege: Gates of Valhalla - Collector's Edition | 204954 | [204954-hero-siege-gates-of-valhalla-collectors-edition.json](./204954-hero-siege-gates-of-valhalla-collectors-edition.json) |
 | Hero Siege: Pocket Edition | 108288 | [108288-hero-siege-pocket-edition.json](./108288-hero-siege-pocket-edition.json) |
+| Hero Siege: Stormweaver | 296954 | [296954-hero-siege-stormweaver.json](./296954-hero-siege-stormweaver.json) |
 | Hero Siege: Wrath of Mevius | 168769 | [168769-hero-siege-wrath-of-mevius.json](./168769-hero-siege-wrath-of-mevius.json) |
 | Hero Slayers | 348427 | [348427-hero-slayers.json](./348427-hero-slayers.json) |
 | Hero Staff | 113655 | [113655-hero-staff.json](./113655-hero-staff.json) |
@@ -5671,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hey, Girlie! | 342819 | [342819-hey-girlie.json](./342819-hey-girlie.json) |
 | Hey, Man!: Born in the Electric | 273968 | [273968-hey-man-born-in-the-electric.json](./273968-hey-man-born-in-the-electric.json) |
 | Hey, That's My Fish! HD | 103930 | [103930-hey-thats-my-fish-hd.json](./103930-hey-thats-my-fish-hd.json) |
+| Hey! Here Are Some Letters | 296955 | [296955-hey-here-are-some-letters.json](./296955-hey-here-are-some-letters.json) |
 | Hey! Pikmin | 28124 | [28124-hey-pikmin.json](./28124-hey-pikmin.json) |
 | Hey! Shopkeeper! | 400682 | [400682-hey-shopkeeper.json](./400682-hey-shopkeeper.json) |
 | Hey! Stop! | 40735 | [40735-hey-stop.json](./40735-hey-stop.json) |
@@ -5679,6 +5685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heyday | 91541 | [91541-heyday.json](./91541-heyday.json) |
 | Heydooda! The Kitty Says: Hello Animal Kids | 87112 | [87112-heydooda-the-kitty-says-hello-animal-kids.json](./87112-heydooda-the-kitty-says-hello-animal-kids.json) |
 | Heyoo 3D Platformer | 390380 | [390380-heyoo-3d-platformer.json](./390380-heyoo-3d-platformer.json) |
+| Heyspresso | 296956 | [296956-heyspresso.json](./296956-heyspresso.json) |
 | Hezarin | 25114 | [25114-hezarin.json](./25114-hezarin.json) |
 | HG Adventure | 372070 | [372070-hg-adventure.json](./372070-hg-adventure.json) |
 | HgmGame Horse | 357851 | [357851-hgmgame-horse.json](./357851-hgmgame-horse.json) |
@@ -6516,6 +6523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highschool53 | 280340 | [280340-highschool53.json](./280340-highschool53.json) |
 | Highscore | 238592 | [238592-highscore.json](./238592-highscore.json) |
 | HighScore Anomaly Shop | 292442 | [292442-highscore-anomaly-shop.json](./292442-highscore-anomaly-shop.json) |
+| HighScore Anomaly Underground | 296958 | [296958-highscore-anomaly-underground.json](./296958-highscore-anomaly-underground.json) |
 | Highscore Hunter Hodgepodge | 129412 | [129412-highscore-hunter-hodgepodge.json](./129412-highscore-hunter-hodgepodge.json) |
 | Highscore Processing Unit | 99645 | [99645-highscore-processing-unit.json](./99645-highscore-processing-unit.json) |
 | HighSpell | 341850 | [341850-highspell.json](./341850-highspell.json) |
@@ -9347,6 +9355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Hell | 34049 | [34049-house-of-hell.json](./34049-house-of-hell.json) |
 | House of Horror: 7 Psychos | 320468 | [320468-house-of-horror-7-psychos.json](./320468-house-of-horror-7-psychos.json) |
 | House of Horror: Outside is Better | 326223 | [326223-house-of-horror-outside-is-better.json](./326223-house-of-horror-outside-is-better.json) |
+| House of Horrors | 296415 | [296415-house-of-horrors.json](./296415-house-of-horrors.json) |
 | House of Jigsaw: A Day at the Park | 273479 | [273479-house-of-jigsaw-a-day-at-the-park.json](./273479-house-of-jigsaw-a-day-at-the-park.json) |
 | House of Jigsaw: Amazing Birds | 273480 | [273480-house-of-jigsaw-amazing-birds.json](./273480-house-of-jigsaw-amazing-birds.json) |
 | House of Jigsaw: Amazing Colors of the World | 273483 | [273483-house-of-jigsaw-amazing-colors-of-the-world.json](./273483-house-of-jigsaw-amazing-colors-of-the-world.json) |
