@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-27T19:26:25.120Z",
-  "total_soundtracks": 2629,
+  "generated_at": "2026-10-27T19:35:49.717Z",
+  "total_soundtracks": 2630,
   "games": [
     {
       "igdb_id": 7522,
@@ -15771,6 +15771,20 @@
         {
           "album_name": "LOST ARK (Original Soundtrack): Dear Friends",
           "spotify_url": "https://open.spotify.com/album/4fcUqoIvDiwTU5Vq8RjSfI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 39007,
+      "game_name": "Lost Echo",
+      "game_url": "https://ostdb.net/games/lost-echo",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734d74042cade0a15788e5b161",
+      "albums": [
+        {
+          "album_name": "Lost Echo (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1WfQa7QBzKJ3abKL44o4dk",
           "apple_music_url": "",
           "album_link_url": ""
         }
