@@ -3893,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Cafe VII | 339177 | [339177-nightmare-cafe-vii.json](./339177-nightmare-cafe-vii.json) |
 | Nightmare Cafe VIII | 339178 | [339178-nightmare-cafe-viii.json](./339178-nightmare-cafe-viii.json) |
 | Nightmare Cafe X | 339180 | [339180-nightmare-cafe-x.json](./339180-nightmare-cafe-x.json) |
+| Nightmare Circus | 327111 | [327111-nightmare-circus.json](./327111-nightmare-circus.json) |
 | Nightmare Class Project | 390137 | [390137-nightmare-class-project.json](./390137-nightmare-class-project.json) |
 | Nightmare Collection: Telephone Call | 293657 | [293657-nightmare-collection-telephone-call.json](./293657-nightmare-collection-telephone-call.json) |
 | Nightmare Cops | 51522 | [51522-nightmare-cops.json](./51522-nightmare-cops.json) |
@@ -5867,6 +5868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Match | 232147 | [232147-not-match.json](./232147-not-match.json) |
 | Not Me! | 235663 | [235663-not-me.json](./235663-not-me.json) |
 | Not Meow Purroblem | 247539 | [247539-not-meow-purroblem.json](./247539-not-meow-purroblem.json) |
+| Not Monday Cafe | 327117 | [327117-not-monday-cafe.json](./327117-not-monday-cafe.json) |
 | Not Monsters | 412784 | [412784-not-monsters.json](./412784-not-monsters.json) |
 | Not my day | 111170 | [111170-not-my-day.json](./111170-not-my-day.json) |
 | Not My Floor | 340966 | [340966-not-my-floor.json](./340966-not-my-floor.json) |
