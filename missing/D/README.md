@@ -3103,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Mayhem | 105305 | [105305-dead-mayhem.json](./105305-dead-mayhem.json) |
 | Dead Maze | 55494 | [55494-dead-maze.json](./55494-dead-maze.json) |
 | Dead Meat | 271654 | [271654-dead-meat.json](./271654-dead-meat.json) |
+| Dead Meat | 300742 | [300742-dead-meat.json](./300742-dead-meat.json) |
 | Dead Meets Lead | 65444 | [65444-dead-meets-lead.json](./65444-dead-meets-lead.json) |
 | Dead Men Tell No Tales | 176757 | [176757-dead-men-tell-no-tales.json](./176757-dead-men-tell-no-tales.json) |
 | Dead Mire | 249199 | [249199-dead-mire.json](./249199-dead-mire.json) |
@@ -5355,6 +5356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Democracy 3: Extremism | 51753 | [51753-democracy-3-extremism.json](./51753-democracy-3-extremism.json) |
 | Democracy 3: Social Engineering | 11399 | [11399-democracy-3-social-engineering.json](./11399-democracy-3-social-engineering.json) |
 | Democracy 4 | 109483 | [109483-democracy-4.json](./109483-democracy-4.json) |
+| Democracy 4: Console Edition | 300737 | [300737-democracy-4-console-edition.json](./300737-democracy-4-console-edition.json) |
 | Democracy 4: Country Pack | 262796 | [262796-democracy-4-country-pack.json](./262796-democracy-4-country-pack.json) |
 | Democracy 4: Event Pack | 242020 | [242020-democracy-4-event-pack.json](./242020-democracy-4-event-pack.json) |
 | Democracy Manifest | 410499 | [410499-democracy-manifest.json](./410499-democracy-manifest.json) |
@@ -6806,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Force | 237432 | [237432-devil-force.json](./237432-devil-force.json) |
 | Devil Gate | 403692 | [403692-devil-gate.json](./403692-devil-gate.json) |
 | Devil Girl | 153728 | [153728-devil-girl.json](./153728-devil-girl.json) |
+| Devil Girl | 300747 | [300747-devil-girl.json](./300747-devil-girl.json) |
 | Devil Girl Needs Massages | 111183 | [111183-devil-girl-needs-massages.json](./111183-devil-girl-needs-massages.json) |
 | Devil House | 214331 | [214331-devil-house.json](./214331-devil-house.json) |
 | Devil Hunter Idle | 234486 | [234486-devil-hunter-idle.json](./234486-devil-hunter-idle.json) |
@@ -8669,6 +8672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disguised Blessing | 332991 | [332991-disguised-blessing.json](./332991-disguised-blessing.json) |
 | Disguiser | 375215 | [375215-disguiser.json](./375215-disguiser.json) |
 | Disgusting Puzzle 2 | 232941 | [232941-disgusting-puzzle-2.json](./232941-disgusting-puzzle-2.json) |
+| Dish Puzzle | 300759 | [300759-dish-puzzle.json](./300759-dish-puzzle.json) |
 | Dish Puzzle For Toddlers | 102610 | [102610-dish-puzzle-for-toddlers.json](./102610-dish-puzzle-for-toddlers.json) |
 | Dish Up Fruit | 302344 | [302344-dish-up-fruit.json](./302344-dish-up-fruit.json) |
 | Disharmonia | 199493 | [199493-disharmonia.json](./199493-disharmonia.json) |
@@ -10269,6 +10273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominic Cranes's Dreamscape Mystery | 210211 | [210211-dominic-craness-dreamscape-mystery.json](./210211-dominic-craness-dreamscape-mystery.json) |
 | Dominion | 164217 | [164217-dominion.json](./164217-dominion.json) |
 | Dominion of Madess | 263359 | [263359-dominion-of-madess.json](./263359-dominion-of-madess.json) |
+| Dominion Synergy | 300740 | [300740-dominion-synergy.json](./300740-dominion-synergy.json) |
 | Dominion: Adventures | 191103 | [191103-dominion-adventures.json](./191103-dominion-adventures.json) |
 | Dominion: Alchemy | 191100 | [191100-dominion-alchemy.json](./191100-dominion-alchemy.json) |
 | Dominion: Allies | 191055 | [191055-dominion-allies.json](./191055-dominion-allies.json) |
