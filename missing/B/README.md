@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Karma | 337007 | [337007-bad-karma.json](./337007-bad-karma.json) |
 | Bad Lady | 385689 | [385689-bad-lady.json](./385689-bad-lady.json) |
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
+| Bad Luck | 317193 | [317193-bad-luck.json](./317193-bad-luck.json) |
 | Bad Luck Cat | 183024 | [183024-bad-luck-cat.json](./183024-bad-luck-cat.json) |
 | Bad Machine | 73165 | [73165-bad-machine.json](./73165-bad-machine.json) |
 | Bad Magpie | 405068 | [405068-bad-magpie.json](./405068-bad-magpie.json) |
@@ -1442,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Diaspora | 60453 | [60453-balloon-diaspora.json](./60453-balloon-diaspora.json) |
 | Balloon Duel | 194845 | [194845-balloon-duel.json](./194845-balloon-duel.json) |
 | Balloon Express | 73613 | [73613-balloon-express.json](./73613-balloon-express.json) |
+| Balloon Face | 317195 | [317195-balloon-face.json](./317195-balloon-face.json) |
 | Balloon Fast Run | 330185 | [330185-balloon-fast-run.json](./330185-balloon-fast-run.json) |
 | Balloon Fiesta 3D | 114935 | [114935-balloon-fiesta-3d.json](./114935-balloon-fiesta-3d.json) |
 | Balloon Fight | 195030 | [195030-balloon-fight.json](./195030-balloon-fight.json) |
