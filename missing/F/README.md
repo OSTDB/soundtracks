@@ -6094,6 +6094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix-it Felix Jr. | 256301 | [256301-fix-it-felix-jr.json](./256301-fix-it-felix-jr.json) |
 | Fix-It Felix Jr. | 250928 | [250928-fix-it-felix-jr.json](./250928-fix-it-felix-jr.json) |
 | Fix-It Felix Jr. | 39486 | [39486-fix-it-felix-jr.json](./39486-fix-it-felix-jr.json) |
+| Fix-It Felix Sr. | 304541 | [304541-fix-it-felix-sr.json](./304541-fix-it-felix-sr.json) |
 | Fixat! | 129774 | [129774-fixat.json](./129774-fixat.json) |
 | Fixation | 316811 | [316811-fixation.json](./316811-fixation.json) |
 | Fixed Point In Space | 184644 | [184644-fixed-point-in-space.json](./184644-fixed-point-in-space.json) |
