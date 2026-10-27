@@ -9844,6 +9844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sit and Spin Adventure | 239542 | [239542-sit-and-spin-adventure.json](./239542-sit-and-spin-adventure.json) |
 | Sit and Spin Adventure 2: Truth - Reason: Second Final | 239543 | [239543-sit-and-spin-adventure-2-truth-reason-second-final.json](./239543-sit-and-spin-adventure-2-truth-reason-second-final.json) |
 | Sit on bottle | 81966 | [81966-sit-on-bottle.json](./81966-sit-on-bottle.json) |
+| Sit-Back Attack | 327734 | [327734-sit-back-attack.json](./327734-sit-back-attack.json) |
 | Sit-Ups Workout | 187466 | [187466-sit-ups-workout.json](./187466-sit-ups-workout.json) |
 | Site Z-374 | 308271 | [308271-site-z-374.json](./308271-site-z-374.json) |
 | Sítio do Pica-Pau Amarelo | 81031 | [81031-sitio-do-pica-pau-amarelo.json](./81031-sitio-do-pica-pau-amarelo.json) |
@@ -11103,6 +11104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sled Riders | 301003 | [301003-sled-riders.json](./301003-sled-riders.json) |
 | Sled Storm | 81484 | [81484-sled-storm.json](./81484-sled-storm.json) |
 | Sled Storm | 8264 | [8264-sled-storm.json](./8264-sled-storm.json) |
+| Sledding Game | 327758 | [327758-sledding-game.json](./327758-sledding-game.json) |
 | Sleembo | 262490 | [262490-sleembo.json](./262490-sleembo.json) |
 | Sleep | 160280 | [160280-sleep.json](./160280-sleep.json) |
 | Sleep Aid | 414413 | [414413-sleep-aid.json](./414413-sleep-aid.json) |
@@ -12676,6 +12678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snek | 344698 | [344698-snek.json](./344698-snek.json) |
 | Snek | 408642 | [408642-snek.json](./408642-snek.json) |
 | Snekburd | 342255 | [342255-snekburd.json](./342255-snekburd.json) |
+| Snekmek | 327720 | [327720-snekmek.json](./327720-snekmek.json) |
 | SnekMP | 226442 | [226442-snekmp.json](./226442-snekmp.json) |
 | Snekoban | 393124 | [393124-snekoban.json](./393124-snekoban.json) |
 | Snekris | 291002 | [291002-snekris.json](./291002-snekris.json) |
@@ -15380,6 +15383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreike! Anpanman: 5-tsu no Tou no Ou-sama | 282640 | [282640-soreike-anpanman-5-tsu-no-tou-no-ou-sama.json](./282640-soreike-anpanman-5-tsu-no-tou-no-ou-sama.json) |
 | Soreike! Anpanman: Baikinman no Daisakusen | 63751 | [63751-soreike-anpanman-baikinman-no-daisakusen.json](./63751-soreike-anpanman-baikinman-no-daisakusen.json) |
 | Soreike! Anpanman: Fushigi na Niko-niko Album | 282641 | [282641-soreike-anpanman-fushigi-na-niko-niko-album.json](./282641-soreike-anpanman-fushigi-na-niko-niko-album.json) |
+| Soreike! Anpanman: Hajimete Dekita yo! Oboeta yo! Anpanman Hitori de Dekichatta! | 327707 | [327707-soreike-anpanman-hajimete-dekita-yo-oboeta-yo-anpanman-hitori-de-dekichatta.json](./327707-soreike-anpanman-hajimete-dekita-yo-oboeta-yo-anpanman-hitori-de-dekichatta.json) |
 | Soreike! Anpanman: Karada no Naka no Daibouken | 230278 | [230278-soreike-anpanman-karada-no-naka-no-daibouken.json](./230278-soreike-anpanman-karada-no-naka-no-daibouken.json) |
 | Soreike! Anpanman: Picnic de Obenkyou | 63944 | [63944-soreike-anpanman-picnic-de-obenkyou.json](./63944-soreike-anpanman-picnic-de-obenkyou.json) |
 | Soreike! Anpanman: Yukai nao Tanjoue | 230279 | [230279-soreike-anpanman-yukai-nao-tanjoue.json](./230279-soreike-anpanman-yukai-nao-tanjoue.json) |
@@ -26469,6 +26473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jump Soccer | 188363 | [188363-super-jump-soccer.json](./188363-super-jump-soccer.json) |
 | Super Junior Shake | 266183 | [266183-super-junior-shake.json](./266183-super-junior-shake.json) |
 | Super Kakuro: Cross Sums | 195632 | [195632-super-kakuro-cross-sums.json](./195632-super-kakuro-cross-sums.json) |
+| Super Karate Kid | 327765 | [327765-super-karate-kid.json](./327765-super-karate-kid.json) |
 | Super Karoshi | 201134 | [201134-super-karoshi.json](./201134-super-karoshi.json) |
 | Super Kart Mini Car Race | 283227 | [283227-super-kart-mini-car-race.json](./283227-super-kart-mini-car-race.json) |
 | Super Kart Racer | 267954 | [267954-super-kart-racer.json](./267954-super-kart-racer.json) |
