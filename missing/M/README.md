@@ -1355,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Tetris Challenge | 205583 | [205583-magical-tetris-challenge.json](./205583-magical-tetris-challenge.json) |
 | Magical Tetris Challenge | 3398 | [3398-magical-tetris-challenge.json](./3398-magical-tetris-challenge.json) |
 | Magical Town | 244877 | [244877-magical-town.json](./244877-magical-town.json) |
+| Magical Tree | 311021 | [311021-magical-tree.json](./311021-magical-tree.json) |
 | Magical Tree | 41744 | [41744-magical-tree.json](./41744-magical-tree.json) |
 | Magical Truck Adventure | 39477 | [39477-magical-truck-adventure.json](./39477-magical-truck-adventure.json) |
 | Magical Twirler Angel Rabbie | 408264 | [408264-magical-twirler-angel-rabbie.json](./408264-magical-twirler-angel-rabbie.json) |
@@ -3838,6 +3839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mart Master | 227372 | [227372-mart-master.json](./227372-mart-master.json) |
 | Mart Racer | 21060 | [21060-mart-racer.json](./21060-mart-racer.json) |
 | Martello Tower | 416007 | [416007-martello-tower.json](./416007-martello-tower.json) |
+| Marth.exe | 311032 | [311032-marth-exe.json](./311032-marth-exe.json) |
 | Martha | 144357 | [144357-martha.json](./144357-martha.json) |
 | Martha Is Dead: Digital Deluxe | 192310 | [192310-martha-is-dead-digital-deluxe.json](./192310-martha-is-dead-digital-deluxe.json) |
 | Martha Madison: Electricity | 83960 | [83960-martha-madison-electricity.json](./83960-martha-madison-electricity.json) |
@@ -6289,6 +6291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 2 | 198812 | [198812-mega-man-2.json](./198812-mega-man-2.json) |
 | Mega Man 2 | 217935 | [217935-mega-man-2.json](./217935-mega-man-2.json) |
 | Mega Man 2 | 236705 | [236705-mega-man-2.json](./236705-mega-man-2.json) |
+| Mega Man 2 | 311015 | [311015-mega-man-2.json](./311015-mega-man-2.json) |
 | Mega Man 2 Lite | 206149 | [206149-mega-man-2-lite.json](./206149-mega-man-2-lite.json) |
 | Mega Man 2 Mobile | 103892 | [103892-mega-man-2-mobile.json](./103892-mega-man-2-mobile.json) |
 | Mega Man 2 Randomizer | 324885 | [324885-mega-man-2-randomizer.json](./324885-mega-man-2-randomizer.json) |
@@ -13547,6 +13550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Maker III: Hikari no Majutsushi | 37922 | [37922-monster-maker-iii-hikari-no-majutsushi.json](./37922-monster-maker-iii-hikari-no-majutsushi.json) |
 | Monster Maker Kids | 37921 | [37921-monster-maker-kids.json](./37921-monster-maker-kids.json) |
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
+| Monster Man | 310998 | [310998-monster-man.json](./310998-monster-man.json) |
 | Monster Manor | 115779 | [115779-monster-manor.json](./115779-monster-manor.json) |
 | Monster Mashing Deluxe | 116042 | [116042-monster-mashing-deluxe.json](./116042-monster-mashing-deluxe.json) |
 | Monster Master | 195938 | [195938-monster-master.json](./195938-monster-master.json) |
@@ -13575,6 +13579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Monpiece | 20094 | [20094-monster-monpiece.json](./20094-monster-monpiece.json) |
 | Monster Monster | 219988 | [219988-monster-monster.json](./219988-monster-monster.json) |
 | Monster Munch | 342607 | [342607-monster-munch.json](./342607-monster-munch.json) |
+| Monster Munchers | 310994 | [310994-monster-munchers.json](./310994-monster-munchers.json) |
 | Monster Museum | 245826 | [245826-monster-museum.json](./245826-monster-museum.json) |
 | Monster Museum: Tidy Up the Collection! | 413484 | [413484-monster-museum-tidy-up-the-collection.json](./413484-monster-museum-tidy-up-the-collection.json) |
 | Monster Musume Fantastic Life | 306759 | [306759-monster-musume-fantastic-life.json](./306759-monster-musume-fantastic-life.json) |
@@ -14983,6 +14988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother's Eye | 395169 | [395169-mothers-eye.json](./395169-mothers-eye.json) |
 | Mother's Home | 320534 | [320534-mothers-home.json](./320534-mothers-home.json) |
 | Mother's Sword | 296265 | [296265-mothers-sword.json](./296265-mothers-sword.json) |
+| Mother² | 311020 | [311020-mother2.json](./311020-mother2.json) |
 | Motherbird: The Dark One | 239922 | [239922-motherbird-the-dark-one.json](./239922-motherbird-the-dark-one.json) |
 | Motherbored | 293623 | [293623-motherbored.json](./293623-motherbored.json) |
 | Mothercore | 211130 | [211130-mothercore.json](./211130-mothercore.json) |
@@ -16268,6 +16274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munasawagi no Season | 246104 | [246104-munasawagi-no-season.json](./246104-munasawagi-no-season.json) |
 | Munch | 304300 | [304300-munch.json](./304300-munch.json) |
 | Munch | 30728 | [30728-munch.json](./30728-munch.json) |
+| Munch & Crunch | 310996 | [310996-munch-and-crunch.json](./310996-munch-and-crunch.json) |
 | Munch Man | 44389 | [44389-munch-man.json](./44389-munch-man.json) |
 | Munch Mobile | 40204 | [40204-munch-mobile.json](./40204-munch-mobile.json) |
 | Munchees | 319588 | [319588-munchees.json](./319588-munchees.json) |
@@ -16707,6 +16714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musketeer Growth | 208967 | [208967-musketeer-growth.json](./208967-musketeer-growth.json) |
 | Musketeer of the hell | 164281 | [164281-musketeer-of-the-hell.json](./164281-musketeer-of-the-hell.json) |
 | Musle vs Zombies | 179371 | [179371-musle-vs-zombies.json](./179371-musle-vs-zombies.json) |
+| Muso | 310985 | [310985-muso.json](./310985-muso.json) |
 | Musou Glory | 304240 | [304240-musou-glory.json](./304240-musou-glory.json) |
 | Musou Orochi 2 Special | 407843 | [407843-musou-orochi-2-special.json](./407843-musou-orochi-2-special.json) |
 | Musou Orochi Z | 7480 | [7480-musou-orochi-z.json](./7480-musou-orochi-z.json) |
