@@ -960,8 +960,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railbreak | 272195 | [272195-railbreak.json](./272195-railbreak.json) |
 | Railbreak: 90s Throwback Collection | 335102 | [335102-railbreak-90s-throwback-collection.json](./335102-railbreak-90s-throwback-collection.json) |
 | Railbreak: Arcade Onslaught Collection | 331405 | [331405-railbreak-arcade-onslaught-collection.json](./331405-railbreak-arcade-onslaught-collection.json) |
+| Railbreak: Dinoblast Collection | 284757 | [284757-railbreak-dinoblast-collection.json](./284757-railbreak-dinoblast-collection.json) |
 | Railbreak: Extra Cheese Collection | 284762 | [284762-railbreak-extra-cheese-collection.json](./284762-railbreak-extra-cheese-collection.json) |
 | Railbreak: Neon Carnage Collection | 331406 | [331406-railbreak-neon-carnage-collection.json](./331406-railbreak-neon-carnage-collection.json) |
+| Railbreak: The Big Break Collection | 284754 | [284754-railbreak-the-big-break-collection.json](./284754-railbreak-the-big-break-collection.json) |
 | Raildale | 101002 | [101002-raildale.json](./101002-raildale.json) |
 | Railed | 112862 | [112862-railed.json](./112862-railed.json) |
 | Railed Up | 254780 | [254780-railed-up.json](./254780-railed-up.json) |
@@ -4715,6 +4717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reset Co. | 180620 | [180620-reset-co.json](./180620-reset-co.json) |
 | Reset Day | 396552 | [396552-reset-day.json](./396552-reset-day.json) |
 | Reset Memory | 195545 | [195545-reset-memory.json](./195545-reset-memory.json) |
+| Resetail | 284753 | [284753-resetail.json](./284753-resetail.json) |
 | Resettle | 417573 | [417573-resettle.json](./417573-resettle.json) |
 | Resfort | 31687 | [31687-resfort.json](./31687-resfort.json) |
 | Reshape | 255729 | [255729-reshape.json](./255729-reshape.json) |
@@ -5136,6 +5139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Classix Collection #1: Data East | 147905 | [147905-retro-classix-collection-1-data-east.json](./147905-retro-classix-collection-1-data-east.json) |
 | Retro Clicker | 149603 | [149603-retro-clicker.json](./149603-retro-clicker.json) |
 | Retro Collection 1 | 280632 | [280632-retro-collection-1.json](./280632-retro-collection-1.json) |
+| Retro Collection 2 | 284752 | [284752-retro-collection-2.json](./284752-retro-collection-2.json) |
 | Retro Collection: 3 in 1 | 400181 | [400181-retro-collection-3-in-1.json](./400181-retro-collection-3-in-1.json) |
 | Retro Combat | 271601 | [271601-retro-combat.json](./271601-retro-combat.json) |
 | Retro Commander | 165060 | [165060-retro-commander.json](./165060-retro-commander.json) |
@@ -10295,6 +10299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruina | 373073 | [373073-ruina.json](./373073-ruina.json) |
 | Ruina Remake | 234152 | [234152-ruina-remake.json](./234152-ruina-remake.json) |
 | Ruina: Haito no Monogatari | 152475 | [152475-ruina-haito-no-monogatari.json](./152475-ruina-haito-no-monogatari.json) |
+| Ruinarch + Legend of Keepers: Overlord Bundle | 284748 | [284748-ruinarch-legend-of-keepers-overlord-bundle.json](./284748-ruinarch-legend-of-keepers-overlord-bundle.json) |
 | Ruinas | 308318 | [308318-ruinas.json](./308318-ruinas.json) |
 | Ruinas de Maimará | 326145 | [326145-ruinas-de-maimara.json](./326145-ruinas-de-maimara.json) |
 | Ruination | 114854 | [114854-ruination.json](./114854-ruination.json) |
