@@ -1476,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrow Co. | 187735 | [187735-necrow-co.json](./187735-necrow-co.json) |
 | Necrowarp | 129691 | [129691-necrowarp.json](./129691-necrowarp.json) |
 | Necrowhisper | 388907 | [388907-necrowhisper.json](./388907-necrowhisper.json) |
+| NecroWorld | 332946 | [332946-necroworld.json](./332946-necroworld.json) |
 | NecroWorm | 131969 | [131969-necroworm.json](./131969-necroworm.json) |
 | Nectar | 201541 | [201541-nectar.json](./201541-nectar.json) |
 | Nectar | 267025 | [267025-nectar.json](./267025-nectar.json) |
