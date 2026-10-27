@@ -6222,6 +6222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Bird | 222745 | [222745-flappy-bird.json](./222745-flappy-bird.json) |
 | Flappy Bird | 239547 | [239547-flappy-bird.json](./239547-flappy-bird.json) |
 | Flappy Bird | 298312 | [298312-flappy-bird.json](./298312-flappy-bird.json) |
+| Flappy Bird | 311031 | [311031-flappy-bird.json](./311031-flappy-bird.json) |
 | Flappy Bird | 316744 | [316744-flappy-bird.json](./316744-flappy-bird.json) |
 | Flappy Bird | 339269 | [339269-flappy-bird.json](./339269-flappy-bird.json) |
 | Flappy Bird | 7671 | [7671-flappy-bird.json](./7671-flappy-bird.json) |
