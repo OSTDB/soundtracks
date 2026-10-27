@@ -818,7 +818,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1155,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldi's Basics in Nightmares | 368440 | [368440-baldis-basics-in-nightmares.json](./368440-baldis-basics-in-nightmares.json) |
 | Baldi's Basics in School Education | 102854 | [102854-baldis-basics-in-school-education.json](./102854-baldis-basics-in-school-education.json) |
 | Baldi's Basics Plus | 134745 | [134745-baldis-basics-plus.json](./134745-baldis-basics-plus.json) |
+| Baldi's Basics The Ancient Save | 321294 | [321294-baldis-basics-the-ancient-save.json](./321294-baldis-basics-the-ancient-save.json) |
 | Baldi's Basics: Encounter Doors | 353384 | [353384-baldis-basics-encounter-doors.json](./353384-baldis-basics-encounter-doors.json) |
 | Baldi's Farm! | 263665 | [263665-baldis-farm.json](./263665-baldis-farm.json) |
 | Baldies | 90071 | [90071-baldies.json](./90071-baldies.json) |
@@ -7482,6 +7482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitmap Bureau Collection: Deluxe Edition | 294814 | [294814-bitmap-bureau-collection-deluxe-edition.json](./294814-bitmap-bureau-collection-deluxe-edition.json) |
 | Bitmates | 228413 | [228413-bitmates.json](./228413-bitmates.json) |
 | Bitmoji Party | 117161 | [117161-bitmoji-party.json](./117161-bitmoji-party.json) |
+| Bitorpito Deluxe | 321328 | [321328-bitorpito-deluxe.json](./321328-bitorpito-deluxe.json) |
 | Bitosphere | 284004 | [284004-bitosphere.json](./284004-bitosphere.json) |
 | Bitpunky | 149473 | [149473-bitpunky.json](./149473-bitpunky.json) |
 | BitRay2 | 31724 | [31724-bitray2.json](./31724-bitray2.json) |
@@ -9468,6 +9469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Warrior | 39559 | [39559-blood-warrior.json](./39559-blood-warrior.json) |
 | Blood Waves | 75720 | [75720-blood-waves.json](./75720-blood-waves.json) |
 | Blood Welkin | 406298 | [406298-blood-welkin.json](./406298-blood-welkin.json) |
+| Blood West: Dead Man’s Promise | 321312 | [321312-blood-west-dead-man-s-promise.json](./321312-blood-west-dead-man-s-promise.json) |
 | Blood West: Scavengers | 369770 | [369770-blood-west-scavengers.json](./369770-blood-west-scavengers.json) |
 | Blood Will Tell: Tezuka Osamu's Dororo | 18864 | [18864-blood-will-tell-tezuka-osamus-dororo.json](./18864-blood-will-tell-tezuka-osamus-dororo.json) |
 | Blood Within | 298444 | [298444-blood-within.json](./298444-blood-within.json) |
