@@ -2449,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus | 289578 | [289578-virus.json](./289578-virus.json) |
 | Virus 91 | 279092 | [279092-virus-91.json](./279092-virus-91.json) |
 | Virus Alert 3D | 320478 | [320478-virus-alert-3d.json](./320478-virus-alert-3d.json) |
+| Virus Attack | 284168 | [284168-virus-attack.json](./284168-virus-attack.json) |
 | Virus Attack | 421409 | [421409-virus-attack.json](./421409-virus-attack.json) |
 | Virus Brain | 374294 | [374294-virus-brain.json](./374294-virus-brain.json) |
 | Virus Brotherhood | 387752 | [387752-virus-brotherhood.json](./387752-virus-brotherhood.json) |
@@ -2878,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Survivors | 260525 | [260525-void-survivors.json](./260525-void-survivors.json) |
 | Void Tech | 346535 | [346535-void-tech.json](./346535-void-tech.json) |
 | Void Terrarium | 122721 | [122721-void-terrarium.json](./122721-void-terrarium.json) |
+| Void Terrarium 2: Limited Edition | 284385 | [284385-void-terrarium-2-limited-edition.json](./284385-void-terrarium-2-limited-edition.json) |
 | Void Terrarium Plus: Toriko Care Set | 143997 | [143997-void-terrarium-plus-toriko-care-set.json](./143997-void-terrarium-plus-toriko-care-set.json) |
 | Void Terrarium: Limited Edition | 167108 | [167108-void-terrarium-limited-edition.json](./167108-void-terrarium-limited-edition.json) |
 | Void Terrarium++ | 143999 | [143999-void-terrarium.json](./143999-void-terrarium.json) |
