@@ -2054,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!! Vanguard: Dear Days - Rare Card Set 07 D-LBT02: Lyrical Monasterio - It's a New School Term! | 226292 | [226292-cardfight-vanguard-dear-days-rare-card-set-07-d-lbt02-lyrical-monasterio-its-a-new-school-term.json](./226292-cardfight-vanguard-dear-days-rare-card-set-07-d-lbt02-lyrical-monasterio-its-a-new-school-term.json) |
 | Cardfight!! Vanguard: Dear Days - Rare Card Set 08 D-SS01: Festival Collection 2021 | 226291 | [226291-cardfight-vanguard-dear-days-rare-card-set-08-d-ss01-festival-collection-2021.json](./226291-cardfight-vanguard-dear-days-rare-card-set-08-d-ss01-festival-collection-2021.json) |
 | Cardfight!! Vanguard: Dear Days - Rare Card Set 09 D-SS02: Festival Collection 2022 | 226293 | [226293-cardfight-vanguard-dear-days-rare-card-set-09-d-ss02-festival-collection-2022.json](./226293-cardfight-vanguard-dear-days-rare-card-set-09-d-ss02-festival-collection-2022.json) |
+| Cardfight!! Vanguard: Dear Days 2 | 321937 | [321937-cardfight-vanguard-dear-days-2.json](./321937-cardfight-vanguard-dear-days-2.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.2 DZ-BT05 Omniscient Awakening | 351113 | [351113-cardfight-vanguard-dear-days-2-card-unlock-vol-2-dz-bt05-omniscient-awakening.json](./351113-cardfight-vanguard-dear-days-2-card-unlock-vol-2-dz-bt05-omniscient-awakening.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.6 | 375180 | [375180-cardfight-vanguard-dear-days-2-card-unlock-vol-6.json](./375180-cardfight-vanguard-dear-days-2-card-unlock-vol-6.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.7 | 375179 | [375179-cardfight-vanguard-dear-days-2-card-unlock-vol-7.json](./375179-cardfight-vanguard-dear-days-2-card-unlock-vol-7.json) |
@@ -4892,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chantey | 347061 | [347061-chantey.json](./347061-chantey.json) |
 | Chanye's Home | 280151 | [280151-chanyes-home.json](./280151-chanyes-home.json) |
 | Chao Adventure | 225623 | [225623-chao-adventure.json](./225623-chao-adventure.json) |
+| Chao Adventure | 321924 | [321924-chao-adventure.json](./321924-chao-adventure.json) |
 | Chao Adventure | 331473 | [331473-chao-adventure.json](./331473-chao-adventure.json) |
 | Chao Adventure 2 | 225624 | [225624-chao-adventure-2.json](./225624-chao-adventure-2.json) |
 | Chao Adventure Legends | 331221 | [331221-chao-adventure-legends.json](./331221-chao-adventure-legends.json) |
@@ -5042,6 +5044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaotic: Shadow Warriors | 197894 | [197894-chaotic-shadow-warriors.json](./197894-chaotic-shadow-warriors.json) |
 | Chaotix CD | 332455 | [332455-chaotix-cd.json](./332455-chaotix-cd.json) |
 | Chaotix Mania | 334064 | [334064-chaotix-mania.json](./334064-chaotix-mania.json) |
+| Chaotix Pinball | 321929 | [321929-chaotix-pinball.json](./321929-chaotix-pinball.json) |
 | Chapas GP | 270383 | [270383-chapas-gp.json](./270383-chapas-gp.json) |
 | Chapatriste | 307622 | [307622-chapatriste.json](./307622-chapatriste.json) |
 | Chapeau | 117169 | [117169-chapeau.json](./117169-chapeau.json) |
@@ -9495,6 +9498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Noir | 27795 | [27795-coffee-noir.json](./27795-coffee-noir.json) |
 | Coffee Pack | 324419 | [324419-coffee-pack.json](./324419-coffee-pack.json) |
 | Coffee Pixes | 75060 | [75060-coffee-pixes.json](./75060-coffee-pixes.json) |
+| Coffee Please | 322016 | [322016-coffee-please.json](./322016-coffee-please.json) |
 | Coffee Quake 2: Double Shot | 271194 | [271194-coffee-quake-2-double-shot.json](./271194-coffee-quake-2-double-shot.json) |
 | Coffee Quest VR | 338872 | [338872-coffee-quest-vr.json](./338872-coffee-quest-vr.json) |
 | Coffee Raccoons | 413038 | [413038-coffee-raccoons.json](./413038-coffee-raccoons.json) |
@@ -12150,6 +12154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copper Dreams | 59674 | [59674-copper-dreams.json](./59674-copper-dreams.json) |
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
 | Copper Odyssey | 161375 | [161375-copper-odyssey.json](./161375-copper-odyssey.json) |
+| Copper Odyssey 2 | 321935 | [321935-copper-odyssey-2.json](./321935-copper-odyssey-2.json) |
 | Copper Odyssey 2 Demo | 399587 | [399587-copper-odyssey-2-demo.json](./399587-copper-odyssey-2-demo.json) |
 | Copper Quest | 184879 | [184879-copper-quest.json](./184879-copper-quest.json) |
 | Copperbell | 122841 | [122841-copperbell.json](./122841-copperbell.json) |
@@ -14255,6 +14260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Lab | 156674 | [156674-creature-lab.json](./156674-creature-lab.json) |
 | Creature Match | 298370 | [298370-creature-match.json](./298370-creature-match.json) |
 | Creature Menace: The Ultimate Nightmare | 374570 | [374570-creature-menace-the-ultimate-nightmare.json](./374570-creature-menace-the-ultimate-nightmare.json) |
+| Creature Oasis | 321925 | [321925-creature-oasis.json](./321925-creature-oasis.json) |
 | Creature Quest | 138166 | [138166-creature-quest.json](./138166-creature-quest.json) |
 | Creature Resort | 136985 | [136985-creature-resort.json](./136985-creature-resort.json) |
 | Creature Romances: Kokonoe Kokoro | 89726 | [89726-creature-romances-kokonoe-kokoro.json](./89726-creature-romances-kokonoe-kokoro.json) |
@@ -16562,6 +16568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed | 376637 | [376637-cursed.json](./376637-cursed.json) |
 | Cursed 2 | 196786 | [196786-cursed-2.json](./196786-cursed-2.json) |
 | Cursed 3 | 213534 | [213534-cursed-3.json](./213534-cursed-3.json) |
+| Cursed Apartment | 321951 | [321951-cursed-apartment.json](./321951-cursed-apartment.json) |
 | Cursed Armor | 106507 | [106507-cursed-armor.json](./106507-cursed-armor.json) |
 | Cursed Baby | 325831 | [325831-cursed-baby.json](./325831-cursed-baby.json) |
 | Cursed Bet | 253590 | [253590-cursed-bet.json](./253590-cursed-bet.json) |
@@ -17410,6 +17417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclemania | 71912 | [71912-cyclemania.json](./71912-cyclemania.json) |
 | CycleQuest | 393747 | [393747-cyclequest.json](./393747-cyclequest.json) |
 | Cycles of Aylorea | 168613 | [168613-cycles-of-aylorea.json](./168613-cycles-of-aylorea.json) |
+| Cycles of Aylorea | 322020 | [322020-cycles-of-aylorea.json](./322020-cycles-of-aylorea.json) |
 | Cyclic | 232660 | [232660-cyclic.json](./232660-cyclic.json) |
 | Cyclical Recurrences | 408079 | [408079-cyclical-recurrences.json](./408079-cyclical-recurrences.json) |
 | Cycling 2013 | 175370 | [175370-cycling-2013.json](./175370-cycling-2013.json) |
