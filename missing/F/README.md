@@ -2613,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Fleet | 396530 | [396530-fat-fleet.json](./396530-fat-fleet.json) |
 | Fat Foods | 82002 | [82002-fat-foods.json](./82002-fat-foods.json) |
 | Fat Fritz 2.0 SE | 155545 | [155545-fat-fritz-2-0-se.json](./155545-fat-fritz-2-0-se.json) |
+| Fat Frumos | 314818 | [314818-fat-frumos.json](./314818-fat-frumos.json) |
 | Fat Hobo: Hobocop Saves Christmas | 410970 | [410970-fat-hobo-hobocop-saves-christmas.json](./410970-fat-hobo-hobocop-saves-christmas.json) |
 | Fat Kevin | 179494 | [179494-fat-kevin.json](./179494-fat-kevin.json) |
 | Fat Lads | 280132 | [280132-fat-lads.json](./280132-fat-lads.json) |
