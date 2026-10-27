@@ -175,6 +175,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machinations: Fog of War | 31582 | [31582-machinations-fog-of-war.json](./31582-machinations-fog-of-war.json) |
 | Machindranaath Raath Game | 214702 | [214702-machindranaath-raath-game.json](./214702-machindranaath-raath-game.json) |
 | Machine Armor Zero | 244255 | [244255-machine-armor-zero.json](./244255-machine-armor-zero.json) |
+| Machine Armor Zero: Mecha Unit 1 | 286559 | [286559-machine-armor-zero-mecha-unit-1.json](./286559-machine-armor-zero-mecha-unit-1.json) |
+| Machine Armor Zero: Mecha Unit 2 | 286560 | [286560-machine-armor-zero-mecha-unit-2.json](./286560-machine-armor-zero-mecha-unit-2.json) |
+| Machine Armor Zero: Mecha Unit 3 | 286561 | [286561-machine-armor-zero-mecha-unit-3.json](./286561-machine-armor-zero-mecha-unit-3.json) |
 | Machine Cave | 141105 | [141105-machine-cave.json](./141105-machine-cave.json) |
 | Machine Challenger | 301254 | [301254-machine-challenger.json](./301254-machine-challenger.json) |
 | Machine Child | 365795 | [365795-machine-child.json](./365795-machine-child.json) |
@@ -7673,9 +7676,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Maze | 156710 | [156710-memory-maze.json](./156710-memory-maze.json) |
 | Memory Maze | 390031 | [390031-memory-maze.json](./390031-memory-maze.json) |
 | Memory Mosaic | 243792 | [243792-memory-mosaic.json](./243792-memory-mosaic.json) |
+| Memory Novel: Girls Night Out | 286493 | [286493-memory-novel-girls-night-out.json](./286493-memory-novel-girls-night-out.json) |
 | Memory Novel: Lesbian Romance | 286476 | [286476-memory-novel-lesbian-romance.json](./286476-memory-novel-lesbian-romance.json) |
 | Memory Novel: Mile High Club | 196146 | [196146-memory-novel-mile-high-club.json](./196146-memory-novel-mile-high-club.json) |
 | Memory Novel: The Sex Sauna | 286474 | [286474-memory-novel-the-sex-sauna.json](./286474-memory-novel-the-sex-sauna.json) |
+| Memory Novel: The SPA | 286490 | [286490-memory-novel-the-spa.json](./286490-memory-novel-the-spa.json) |
 | Memory Novel: The Threesome | 286477 | [286477-memory-novel-the-threesome.json](./286477-memory-novel-the-threesome.json) |
 | Memory Oblivion Box | 32630 | [32630-memory-oblivion-box.json](./32630-memory-oblivion-box.json) |
 | Memory Oblivion: CnGalGirl | 393824 | [393824-memory-oblivion-cngalgirl.json](./393824-memory-oblivion-cngalgirl.json) |
@@ -7694,6 +7699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Puzzle: Futanari Doctor | 204945 | [204945-memory-puzzle-futanari-doctor.json](./204945-memory-puzzle-futanari-doctor.json) |
 | Memory Puzzle: Futanari Gym | 368623 | [368623-memory-puzzle-futanari-gym.json](./368623-memory-puzzle-futanari-gym.json) |
 | Memory Puzzle: Futanari Massage | 213778 | [213778-memory-puzzle-futanari-massage.json](./213778-memory-puzzle-futanari-massage.json) |
+| Memory Puzzle: Futanari Threesome | 286494 | [286494-memory-puzzle-futanari-threesome.json](./286494-memory-puzzle-futanari-threesome.json) |
 | Memory Puzzle: Hentai Angels | 286465 | [286465-memory-puzzle-hentai-angels.json](./286465-memory-puzzle-hentai-angels.json) |
 | Memory Puzzle: Mile High Fun | 225192 | [225192-memory-puzzle-mile-high-fun.json](./225192-memory-puzzle-mile-high-fun.json) |
 | Memory Puzzle: Mystery Mermaids | 286467 | [286467-memory-puzzle-mystery-mermaids.json](./286467-memory-puzzle-mystery-mermaids.json) |
