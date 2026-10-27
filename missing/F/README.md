@@ -823,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Guys: Ultimate Knockout - Season 6 | 182201 | [182201-fall-guys-ultimate-knockout-season-6.json](./182201-fall-guys-ultimate-knockout-season-6.json) |
 | Fall Guys: Wildfire Pack | 243683 | [243683-fall-guys-wildfire-pack.json](./243683-fall-guys-wildfire-pack.json) |
 | Fall in Duty | 190892 | [190892-fall-in-duty.json](./190892-fall-in-duty.json) |
+| Fall in Flowers | 331237 | [331237-fall-in-flowers.json](./331237-fall-in-flowers.json) |
 | Fall In Labyrinth | 167382 | [167382-fall-in-labyrinth.json](./167382-fall-in-labyrinth.json) |
 | Fall In Love - My Billionaire Boss | 120870 | [120870-fall-in-love-my-billionaire-boss.json](./120870-fall-in-love-my-billionaire-boss.json) |
 | Fall in the Rift | 199342 | [199342-fall-in-the-rift.json](./199342-fall-in-the-rift.json) |
@@ -10713,6 +10714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Free Fall: Icy Shot | 245757 | [245757-frozen-free-fall-icy-shot.json](./245757-frozen-free-fall-icy-shot.json) |
 | Frozen Friends | 146683 | [146683-frozen-friends.json](./146683-frozen-friends.json) |
 | Frozen Fruits | 307334 | [307334-frozen-fruits.json](./307334-frozen-fruits.json) |
+| Frozen Gauntlet | 331243 | [331243-frozen-gauntlet.json](./331243-frozen-gauntlet.json) |
 | Frozen Heart | 311460 | [311460-frozen-heart.json](./311460-frozen-heart.json) |
 | Frozen Hearth | 8914 | [8914-frozen-hearth.json](./8914-frozen-hearth.json) |
 | Frozen Hearts | 312959 | [312959-frozen-hearts.json](./312959-frozen-hearts.json) |
