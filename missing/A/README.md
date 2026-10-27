@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Call For Help | 351156 | [351156-a-call-for-help.json](./351156-a-call-for-help.json) |
 | A Call From Under the House | 244912 | [244912-a-call-from-under-the-house.json](./244912-a-call-from-under-the-house.json) |
 | A Call to Mars | 141755 | [141755-a-call-to-mars.json](./141755-a-call-to-mars.json) |
+| A Candle to the Unknown | 309325 | [309325-a-candle-to-the-unknown.json](./309325-a-candle-to-the-unknown.json) |
 | A Car That Turns | 205084 | [205084-a-car-that-turns.json](./205084-a-car-that-turns.json) |
 | A Case for Cap & Co | 242642 | [242642-a-case-for-cap-and-co.json](./242642-a-case-for-cap-and-co.json) |
 | A Case of Distrust | 28282 | [28282-a-case-of-distrust.json](./28282-a-case-of-distrust.json) |
@@ -276,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dump in the Dark | 29823 | [29823-a-dump-in-the-dark.json](./29823-a-dump-in-the-dark.json) |
 | A Dungeon Is You | 301076 | [301076-a-dungeon-is-you.json](./301076-a-dungeon-is-you.json) |
 | A Dwarf's Story | 64707 | [64707-a-dwarfs-story.json](./64707-a-dwarfs-story.json) |
+| A Dwarves Day | 309408 | [309408-a-dwarves-day.json](./309408-a-dwarves-day.json) |
 | A Escalada do Pateta | 289199 | [289199-a-escalada-do-pateta.json](./289199-a-escalada-do-pateta.json) |
 | A Fábrica dos Números | 287152 | [287152-a-fabrica-dos-numeros.json](./287152-a-fabrica-dos-numeros.json) |
 | A Factory Job | 192455 | [192455-a-factory-job.json](./192455-a-factory-job.json) |
@@ -9917,6 +9919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appetite of the Abyss | 383562 | [383562-appetite-of-the-abyss.json](./383562-appetite-of-the-abyss.json) |
 | Appie Online 2 | 67856 | [67856-appie-online-2.json](./67856-appie-online-2.json) |
 | Applaydu | 294979 | [294979-applaydu.json](./294979-applaydu.json) |
+| Apple | 309386 | [309386-apple.json](./309386-apple.json) |
 | Apple | 346077 | [346077-apple.json](./346077-apple.json) |
 | Apple Bag | 280197 | [280197-apple-bag.json](./280197-apple-bag.json) |
 | Apple Bang! | 150046 | [150046-apple-bang.json](./150046-apple-bang.json) |
@@ -12657,6 +12660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Arcanum: The Witch Pack | 361895 | [361895-ashes-of-arcanum-the-witch-pack.json](./361895-ashes-of-arcanum-the-witch-pack.json) |
 | Ashes of Creation | 27420 | [27420-ashes-of-creation.json](./27420-ashes-of-creation.json) |
 | Ashes of Equestria | 121722 | [121722-ashes-of-equestria.json](./121722-ashes-of-equestria.json) |
+| Ashes of Idunn: Tales of Fimbulwinter | 309427 | [309427-ashes-of-idunn-tales-of-fimbulwinter.json](./309427-ashes-of-idunn-tales-of-fimbulwinter.json) |
 | Ashes of Immortality II | 35456 | [35456-ashes-of-immortality-ii.json](./35456-ashes-of-immortality-ii.json) |
 | Ashes of Immortality II: Bad Blood | 35457 | [35457-ashes-of-immortality-ii-bad-blood.json](./35457-ashes-of-immortality-ii-bad-blood.json) |
 | Ashes of Immortality Trilogy | 52607 | [52607-ashes-of-immortality-trilogy.json](./52607-ashes-of-immortality-trilogy.json) |
