@@ -3137,7 +3137,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tell Me Your Story: Extended Edition | 328784 | [328784-tell-me-your-story-extended-edition.json](./328784-tell-me-your-story-extended-edition.json) |
 | Tell Me Your Story: Porcelain Puzzle 1 | 324485 | [324485-tell-me-your-story-porcelain-puzzle-1.json](./324485-tell-me-your-story-porcelain-puzzle-1.json) |
 | Tell Me Your Story: Porcelain Puzzle 2 | 324486 | [324486-tell-me-your-story-porcelain-puzzle-2.json](./324486-tell-me-your-story-porcelain-puzzle-2.json) |
+| Tell Me Your Story: Premium Edition | 328783 | [328783-tell-me-your-story-premium-edition.json](./328783-tell-me-your-story-premium-edition.json) |
 | Tell Me Your Story: Special Edition | 328785 | [328785-tell-me-your-story-special-edition.json](./328785-tell-me-your-story-special-edition.json) |
+| Tell Me Your Story: Ultimate Edition | 328782 | [328782-tell-me-your-story-ultimate-edition.json](./328782-tell-me-your-story-ultimate-edition.json) |
 | Tell The Forest To F*ck Off | 135781 | [135781-tell-the-forest-to-f-ck-off.json](./135781-tell-the-forest-to-f-ck-off.json) |
 | Tell: Das Spiel zum Film | 304972 | [304972-tell-das-spiel-zum-film.json](./304972-tell-das-spiel-zum-film.json) |
 | Teller's Duty | 336022 | [336022-tellers-duty.json](./336022-tellers-duty.json) |
@@ -26857,6 +26859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump Anthology Episode 1: A Link to the Past | 111858 | [111858-trump-anthology-episode-1-a-link-to-the-past.json](./111858-trump-anthology-episode-1-a-link-to-the-past.json) |
 | Trump Boy II | 334278 | [334278-trump-boy-ii.json](./334278-trump-boy-ii.json) |
 | Trump Breakout | 330480 | [330480-trump-breakout.json](./330480-trump-breakout.json) |
+| Trump Cake Mania | 328910 | [328910-trump-cake-mania.json](./328910-trump-cake-mania.json) |
 | Trump Cards | 383616 | [383616-trump-cards.json](./383616-trump-cards.json) |
 | Trump Castle II | 73692 | [73692-trump-castle-ii.json](./73692-trump-castle-ii.json) |
 | Trump Castle: The Ultimate Casino Gambling Simulation | 78666 | [78666-trump-castle-the-ultimate-casino-gambling-simulation.json](./78666-trump-castle-the-ultimate-casino-gambling-simulation.json) |
