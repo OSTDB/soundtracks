@@ -4256,6 +4256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | lil' Sherman | 127628 | [127628-lil-sherman.json](./127628-lil-sherman.json) |
 | Lila's Sky Ark | 144552 | [144552-lilas-sky-ark.json](./144552-lilas-sky-ark.json) |
 | Lilac & Her Light | 178919 | [178919-lilac-and-her-light.json](./178919-lilac-and-her-light.json) |
+| Lilac 0 | 329466 | [329466-lilac-0.json](./329466-lilac-0.json) |
 | Lilac: Side Witch | 397190 | [397190-lilac-side-witch.json](./397190-lilac-side-witch.json) |
 | Lilac: Side Wizard | 397191 | [397191-lilac-side-wizard.json](./397191-lilac-side-wizard.json) |
 | Lilacs in the Breeze | 364387 | [364387-lilacs-in-the-breeze.json](./364387-lilacs-in-the-breeze.json) |
@@ -6189,6 +6190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looking For Cats In a Badly Drawn Forest | 286760 | [286760-looking-for-cats-in-a-badly-drawn-forest.json](./286760-looking-for-cats-in-a-badly-drawn-forest.json) |
 | Looking For Cats In a Badly Drawn Forest: Extra Content | 292678 | [292678-looking-for-cats-in-a-badly-drawn-forest-extra-content.json](./292678-looking-for-cats-in-a-badly-drawn-forest-extra-content.json) |
 | Looking for Cold Girls | 291692 | [291692-looking-for-cold-girls.json](./291692-looking-for-cold-girls.json) |
+| Looking For Fael | 329478 | [329478-looking-for-fael.json](./329478-looking-for-fael.json) |
 | Looking For Healer | 63003 | [63003-looking-for-healer.json](./63003-looking-for-healer.json) |
 | Looking for Lokae | 240709 | [240709-looking-for-lokae.json](./240709-looking-for-lokae.json) |
 | Looking for Something | 316653 | [316653-looking-for-something.json](./316653-looking-for-something.json) |
