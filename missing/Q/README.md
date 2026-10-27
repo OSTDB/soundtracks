@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Rush Champions: Jump Start Tournament | 172121 | [172121-quantum-rush-champions-jump-start-tournament.json](./172121-quantum-rush-champions-jump-start-tournament.json) |
 | Quantum Rush Online | 212717 | [212717-quantum-rush-online.json](./212717-quantum-rush-online.json) |
 | Quantum Siege | 54725 | [54725-quantum-siege.json](./54725-quantum-siege.json) |
+| Quantum Soteriology | 333900 | [333900-quantum-soteriology.json](./333900-quantum-soteriology.json) |
 | Quantum Storm | 226318 | [226318-quantum-storm.json](./226318-quantum-storm.json) |
 | Quantum Threshold | 344962 | [344962-quantum-threshold.json](./344962-quantum-threshold.json) |
 | Quantum Tripper | 202619 | [202619-quantum-tripper.json](./202619-quantum-tripper.json) |
@@ -537,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarto | 104795 | [104795-quarto.json](./104795-quarto.json) |
 | Quarto! | 374583 | [374583-quarto.json](./374583-quarto.json) |
 | Quartz | 15352 | [15352-quartz.json](./15352-quartz.json) |
+| Quartz Caverns | 329507 | [329507-quartz-caverns.json](./329507-quartz-caverns.json) |
 | Quartz's Quest | 245036 | [245036-quartzs-quest.json](./245036-quartzs-quest.json) |
 | Quasar | 198123 | [198123-quasar.json](./198123-quasar.json) |
 | Quasar Commander | 44337 | [44337-quasar-commander.json](./44337-quasar-commander.json) |
