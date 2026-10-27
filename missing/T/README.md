@@ -9253,6 +9253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hum: Abductions | 56876 | [56876-the-hum-abductions.json](./56876-the-hum-abductions.json) |
 | The Human Heart | 177913 | [177913-the-human-heart.json](./177913-the-human-heart.json) |
 | The Human Race | 26415 | [26415-the-human-race.json](./26415-the-human-race.json) |
+| The Human Snake | 309413 | [309413-the-human-snake.json](./309413-the-human-snake.json) |
 | The Human Test / Restart | 339196 | [339196-the-human-test-restart.json](./339196-the-human-test-restart.json) |
 | The Humanity Check | 415318 | [415318-the-humanity-check.json](./415318-the-humanity-check.json) |
 | The Humans | 37273 | [37273-the-humans.json](./37273-the-humans.json) |
@@ -14002,6 +14003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silver Spoon Caper | 185403 | [185403-the-silver-spoon-caper.json](./185403-the-silver-spoon-caper.json) |
 | The Simen Rumors | 397220 | [397220-the-simen-rumors.json](./397220-the-simen-rumors.json) |
 | The Simple Balance | 142079 | [142079-the-simple-balance.json](./142079-the-simple-balance.json) |
+| The Simple Climb Game | 309410 | [309410-the-simple-climb-game.json](./309410-the-simple-climb-game.json) |
 | The Simpler Times | 421354 | [421354-the-simpler-times.json](./421354-the-simpler-times.json) |
 | The Simplest Game in the World | 262872 | [262872-the-simplest-game-in-the-world.json](./262872-the-simplest-game-in-the-world.json) |
 | The Simpsons | 198885 | [198885-the-simpsons.json](./198885-the-simpsons.json) |
@@ -20807,6 +20809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toi | 166828 | [166828-toi.json](./166828-toi.json) |
 | Toi Acid Game | 47525 | [47525-toi-acid-game.json](./47525-toi-acid-game.json) |
 | Toil & Trubble | 404933 | [404933-toil-and-trubble.json](./404933-toil-and-trubble.json) |
+| Toilet | 309387 | [309387-toilet.json](./309387-toilet.json) |
 | Toilet 8 | 378306 | [378306-toilet-8.json](./378306-toilet-8.json) |
 | Toilet Boom | 373805 | [373805-toilet-boom.json](./373805-toilet-boom.json) |
 | Toilet Chronicles | 199576 | [199576-toilet-chronicles.json](./199576-toilet-chronicles.json) |
