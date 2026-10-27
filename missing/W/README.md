@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallaby!! Usagi no Kuni no Kangaroo Race | 62084 | [62084-wallaby-usagi-no-kuni-no-kangaroo-race.json](./62084-wallaby-usagi-no-kuni-no-kangaroo-race.json) |
 | Wallace & Gromit Adventures | 320995 | [320995-wallace-and-gromit-adventures.json](./320995-wallace-and-gromit-adventures.json) |
 | Wallace & Gromit Fun Pack | 73124 | [73124-wallace-and-gromit-fun-pack.json](./73124-wallace-and-gromit-fun-pack.json) |
+| Wallace & Gromit: Cracking Animator | 332374 | [332374-wallace-and-gromit-cracking-animator.json](./332374-wallace-and-gromit-cracking-animator.json) |
 | Wallace & Gromit: Invention Suspension | 320877 | [320877-wallace-and-gromit-invention-suspension.json](./320877-wallace-and-gromit-invention-suspension.json) |
 | Wallace & Gromit: Snow Drift | 320881 | [320881-wallace-and-gromit-snow-drift.json](./320881-wallace-and-gromit-snow-drift.json) |
 | Wallace & Gromit: The Big Fix Up | 321331 | [321331-wallace-and-gromit-the-big-fix-up.json](./321331-wallace-and-gromit-the-big-fix-up.json) |
@@ -2966,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Adventure | 94387 | [94387-west-adventure.json](./94387-west-adventure.json) |
 | West Alien Train | 308361 | [308361-west-alien-train.json](./308361-west-alien-train.json) |
 | West Bank | 26438 | [26438-west-bank.json](./26438-west-bank.json) |
+| West Escape | 332361 | [332361-west-escape.json](./332361-west-escape.json) |
 | West Escape: Gambler Edition | 357019 | [357019-west-escape-gambler-edition.json](./357019-west-escape-gambler-edition.json) |
 | West Escape: Gold Edition | 394757 | [394757-west-escape-gold-edition.json](./394757-west-escape-gold-edition.json) |
 | West Falls | 131562 | [131562-west-falls.json](./131562-west-falls.json) |
@@ -3061,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet VR | 395366 | [395366-wet-vr.json](./395366-wet-vr.json) |
 | Wet Waifu | 161367 | [161367-wet-waifu.json](./161367-wet-waifu.json) |
 | Wet Warfare | 109679 | [109679-wet-warfare.json](./109679-wet-warfare.json) |
+| Wet Whispers: Anime Shift Puzzles | 332362 | [332362-wet-whispers-anime-shift-puzzles.json](./332362-wet-whispers-anime-shift-puzzles.json) |
 | Wet-Dry World | 308233 | [308233-wet-dry-world.json](./308233-wet-dry-world.json) |
 | WetBread | 222934 | [222934-wetbread.json](./222934-wetbread.json) |
 | Wetland | 379401 | [379401-wetland.json](./379401-wetland.json) |
@@ -5071,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter and Luig | 398153 | [398153-winter-and-luig.json](./398153-winter-and-luig.json) |
 | Winter and People | 195534 | [195534-winter-and-people.json](./195534-winter-and-people.json) |
 | Winter Blast: 9 Snow & Ice Games | 51027 | [51027-winter-blast-9-snow-and-ice-games.json](./51027-winter-blast-9-snow-and-ice-games.json) |
+| Winter Bundle: 20 games | 332364 | [332364-winter-bundle-20-games.json](./332364-winter-bundle-20-games.json) |
 | Winter Cats | 283039 | [283039-winter-cats.json](./283039-winter-cats.json) |
 | Winter Challenge | 131520 | [131520-winter-challenge.json](./131520-winter-challenge.json) |
 | Winter Challenge 2008 | 53123 | [53123-winter-challenge-2008.json](./53123-winter-challenge-2008.json) |
@@ -6083,6 +6087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderful Handhelds | 405078 | [405078-wonderful-handhelds.json](./405078-wonderful-handhelds.json) |
 | Wonderful Jigsaw | 400078 | [400078-wonderful-jigsaw.json](./400078-wonderful-jigsaw.json) |
 | Wonderful mini golf | 175301 | [175301-wonderful-mini-golf.json](./175301-wonderful-mini-golf.json) |
+| Wonderful Monsters: The Flower Crossing | 332363 | [332363-wonderful-monsters-the-flower-crossing.json](./332363-wonderful-monsters-the-flower-crossing.json) |
 | Wonderful Neoran Valley | 393100 | [393100-wonderful-neoran-valley.json](./393100-wonderful-neoran-valley.json) |
 | Wonderful Purgatory | 369228 | [369228-wonderful-purgatory.json](./369228-wonderful-purgatory.json) |
 | Wonderful Waking World | 203873 | [203873-wonderful-waking-world.json](./203873-wonderful-waking-world.json) |
