@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calling of my Nightingales | 229589 | [229589-calling-of-my-nightingales.json](./229589-calling-of-my-nightingales.json) |
 | Callisto | 116934 | [116934-callisto.json](./116934-callisto.json) |
 | CallMara | 345253 | [345253-callmara.json](./345253-callmara.json) |
+| Callous | 318964 | [318964-callous.json](./318964-callous.json) |
 | Callparin 2 | 158518 | [158518-callparin-2.json](./158518-callparin-2.json) |
 | Calluna | 173248 | [173248-calluna.json](./173248-calluna.json) |
 | Callus | 387375 | [387375-callus.json](./387375-callus.json) |
