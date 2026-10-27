@@ -9047,6 +9047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poing 6 | 80385 | [80385-poing-6.json](./80385-poing-6.json) |
 | Poinie's Poin | 56153 | [56153-poinies-poin.json](./56153-poinies-poin.json) |
 | Poinpy | 204454 | [204454-poinpy.json](./204454-poinpy.json) |
+| Point | 290375 | [290375-point.json](./290375-point.json) |
 | Point | 97929 | [97929-point.json](./97929-point.json) |
 | Point & Sin | 184843 | [184843-point-and-sin.json](./184843-point-and-sin.json) |
 | Point Blank | 13899 | [13899-point-blank.json](./13899-point-blank.json) |
