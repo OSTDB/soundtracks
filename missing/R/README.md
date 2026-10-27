@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid on the Ruhr | 116248 | [116248-raid-on-the-ruhr.json](./116248-raid-on-the-ruhr.json) |
 | Raid on Tri City | 306721 | [306721-raid-on-tri-city.json](./306721-raid-on-tri-city.json) |
 | Raid Rush | 355014 | [355014-raid-rush.json](./355014-raid-rush.json) |
+| Raid the Dungeon | 299200 | [299200-raid-the-dungeon.json](./299200-raid-the-dungeon.json) |
 | Raid: World War II | 10403 | [10403-raid-world-war-ii.json](./10403-raid-world-war-ii.json) |
 | Raidborn | 212178 | [212178-raidborn.json](./212178-raidborn.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
@@ -1358,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Mechanic Simulator: Tamashimi Torol | 359599 | [359599-rally-mechanic-simulator-tamashimi-torol.json](./359599-rally-mechanic-simulator-tamashimi-torol.json) |
 | Rally Mechanic Simulator: Wictuz Lopo | 359600 | [359600-rally-mechanic-simulator-wictuz-lopo.json](./359600-rally-mechanic-simulator-wictuz-lopo.json) |
 | Rally of Rockets | 112330 | [112330-rally-of-rockets.json](./112330-rally-of-rockets.json) |
+| Rally One: Race to Glory | 297518 | [297518-rally-one-race-to-glory.json](./297518-rally-one-race-to-glory.json) |
 | Rally Point 3 | 237953 | [237953-rally-point-3.json](./237953-rally-point-3.json) |
 | Rally Poland | 62454 | [62454-rally-poland.json](./62454-rally-poland.json) |
 | Rally Pro Contest | 325692 | [325692-rally-pro-contest.json](./325692-rally-pro-contest.json) |
@@ -2419,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Baseball 2022 | 228008 | [228008-real-baseball-2022.json](./228008-real-baseball-2022.json) |
 | Real Baseball 3D | 232895 | [232895-real-baseball-3d.json](./232895-real-baseball-3d.json) |
 | Real Basketball | 89688 | [89688-real-basketball.json](./89688-real-basketball.json) |
+| Real Bike Racing | 297989 | [297989-real-bike-racing.json](./297989-real-bike-racing.json) |
 | Real Bird Fake Bird | 325241 | [325241-real-bird-fake-bird.json](./325241-real-bird-fake-bird.json) |
 | Real Bout Fatal Fury 2: The Newcomers | 370692 | [370692-real-bout-fatal-fury-2-the-newcomers.json](./370692-real-bout-fatal-fury-2-the-newcomers.json) |
 | Real Bout Fatal Fury 2: The Newcomers | 46787 | [46787-real-bout-fatal-fury-2-the-newcomers.json](./46787-real-bout-fatal-fury-2-the-newcomers.json) |
@@ -2563,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Steel World Robot Boxing | 111751 | [111751-real-steel-world-robot-boxing.json](./111751-real-steel-world-robot-boxing.json) |
 | Real Stories From The Grave: A Date to Keep | 301310 | [301310-real-stories-from-the-grave-a-date-to-keep.json](./301310-real-stories-from-the-grave-a-date-to-keep.json) |
 | Real Stories from the Grave: Maleficium | 214698 | [214698-real-stories-from-the-grave-maleficium.json](./214698-real-stories-from-the-grave-maleficium.json) |
+| Real Stories from the Grave: The Body | 297512 | [297512-real-stories-from-the-grave-the-body.json](./297512-real-stories-from-the-grave-the-body.json) |
 | Real Stories: Veterinaire | 268390 | [268390-real-stories-veterinaire.json](./268390-real-stories-veterinaire.json) |
 | Real Stunt Master 3D | 100646 | [100646-real-stunt-master-3d.json](./100646-real-stunt-master-3d.json) |
 | Real Sudoku3D | 91308 | [91308-real-sudoku3d.json](./91308-real-sudoku3d.json) |
@@ -4275,6 +4279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remote Control Dandy | 77880 | [77880-remote-control-dandy.json](./77880-remote-control-dandy.json) |
 | Remote Control Dandy SF | 72951 | [72951-remote-control-dandy-sf.json](./72951-remote-control-dandy-sf.json) |
 | Remote Control Fun Airplanes | 104443 | [104443-remote-control-fun-airplanes.json](./104443-remote-control-fun-airplanes.json) |
+| Remote Island | 298082 | [298082-remote-island.json](./298082-remote-island.json) |
 | Remote Knights Online | 153401 | [153401-remote-knights-online.json](./153401-remote-knights-online.json) |
 | Remote Life | 121119 | [121119-remote-life.json](./121119-remote-life.json) |
 | Remote Life 2: Fearless | 197196 | [197196-remote-life-2-fearless.json](./197196-remote-life-2-fearless.json) |
@@ -4559,6 +4564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiem Reverie | 284898 | [284898-requiem-reverie.json](./284898-requiem-reverie.json) |
 | Requiem: Avenging Angel | 12470 | [12470-requiem-avenging-angel.json](./12470-requiem-avenging-angel.json) |
 | Requiem: Bloodymare | 21461 | [21461-requiem-bloodymare.json](./21461-requiem-bloodymare.json) |
+| Requiem: En mordgåta på 1600-talet | 298546 | [298546-requiem-en-mordgata-pa-1600-talet.json](./298546-requiem-en-mordgata-pa-1600-talet.json) |
 | Requiem: Memento Mori | 80593 | [80593-requiem-memento-mori.json](./80593-requiem-memento-mori.json) |
 | Requiem: Rise of the Reaver | 36343 | [36343-requiem-rise-of-the-reaver.json](./36343-requiem-rise-of-the-reaver.json) |
 | Requiem: Unleashed | 341093 | [341093-requiem-unleashed.json](./341093-requiem-unleashed.json) |
@@ -9075,6 +9081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
 | Romance is Dead | 273098 | [273098-romance-is-dead.json](./273098-romance-is-dead.json) |
 | Romance MD: Always on Call | 239207 | [239207-romance-md-always-on-call.json](./239207-romance-md-always-on-call.json) |
+| Romance of Bousouzoku | 298515 | [298515-romance-of-bousouzoku.json](./298515-romance-of-bousouzoku.json) |
 | Romance of the Forgotten Kingdom | 63109 | [63109-romance-of-the-forgotten-kingdom.json](./63109-romance-of-the-forgotten-kingdom.json) |
 | Romance of the Three Kingdom Touch | 21956 | [21956-romance-of-the-three-kingdom-touch.json](./21956-romance-of-the-three-kingdom-touch.json) |
 | Romance of the Three Kingdoms | 14509 | [14509-romance-of-the-three-kingdoms.json](./14509-romance-of-the-three-kingdoms.json) |
@@ -9539,6 +9546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosemary | 91829 | [91829-rosemary.json](./91829-rosemary.json) |
 | Rosemary Village | 347050 | [347050-rosemary-village.json](./347050-rosemary-village.json) |
 | Rosemary's Fate: Chapter 1 | 163808 | [163808-rosemarys-fate-chapter-1.json](./163808-rosemarys-fate-chapter-1.json) |
+| Rosen's Brigade | 297441 | [297441-rosens-brigade.json](./297441-rosens-brigade.json) |
 | Rosenkreuzstilette | 27181 | [27181-rosenkreuzstilette.json](./27181-rosenkreuzstilette.json) |
 | Rosenkreuzstilette Freudenstachel | 76865 | [76865-rosenkreuzstilette-freudenstachel.json](./76865-rosenkreuzstilette-freudenstachel.json) |
 | Rosepine Hotel | 390991 | [390991-rosepine-hotel.json](./390991-rosepine-hotel.json) |
