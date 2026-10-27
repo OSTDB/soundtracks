@@ -15661,6 +15661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byte Rider | 234011 | [234011-byte-rider.json](./234011-byte-rider.json) |
 | Byte Survivor | 303717 | [303717-byte-survivor.json](./303717-byte-survivor.json) |
 | Byte the Bullet | 197213 | [197213-byte-the-bullet.json](./197213-byte-the-bullet.json) |
+| Byte The Dust | 319607 | [319607-byte-the-dust.json](./319607-byte-the-dust.json) |
 | Byte Wars | 360578 | [360578-byte-wars.json](./360578-byte-wars.json) |
 | Bytebond | 286955 | [286955-bytebond.json](./286955-bytebond.json) |
 | ByteBuddies | 414081 | [414081-bytebuddies.json](./414081-bytebuddies.json) |
