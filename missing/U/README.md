@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Hot!! Pachi Game Spirit CR Evangelion: The First Gospel | 65557 | [65557-ultra-hot-pachi-game-spirit-cr-evangelion-the-first-gospel.json](./65557-ultra-hot-pachi-game-spirit-cr-evangelion-the-first-gospel.json) |
 | Ultra Hyperball | 51950 | [51950-ultra-hyperball.json](./51950-ultra-hyperball.json) |
 | Ultra Instinct Master | 208099 | [208099-ultra-instinct-master.json](./208099-ultra-instinct-master.json) |
+| Ultra Jet Girl | 320795 | [320795-ultra-jet-girl.json](./320795-ultra-jet-girl.json) |
 | Ultra Kaiju Monster Rancher: Starter Pack | 221697 | [221697-ultra-kaiju-monster-rancher-starter-pack.json](./221697-ultra-kaiju-monster-rancher-starter-pack.json) |
 | Ultra Kaiju: Battle Breeders | 223965 | [223965-ultra-kaiju-battle-breeders.json](./223965-ultra-kaiju-battle-breeders.json) |
 | Ultra Keibitai: Monster Attack | 413184 | [413184-ultra-keibitai-monster-attack.json](./413184-ultra-keibitai-monster-attack.json) |
