@@ -7191,6 +7191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Star | 222772 | [222772-shining-star.json](./222772-shining-star.json) |
 | Shining Stars 2: Mirror Madness | 132860 | [132860-shining-stars-2-mirror-madness.json](./132860-shining-stars-2-mirror-madness.json) |
 | Shining Stars 3: Sanctuary of the Star Comet | 132861 | [132861-shining-stars-3-sanctuary-of-the-star-comet.json](./132861-shining-stars-3-sanctuary-of-the-star-comet.json) |
+| Shining Stars 4: Another Dimensional Incident | 313054 | [313054-shining-stars-4-another-dimensional-incident.json](./313054-shining-stars-4-another-dimensional-incident.json) |
 | Shining Stars Super Starcade | 48038 | [48038-shining-stars-super-starcade.json](./48038-shining-stars-super-starcade.json) |
 | Shining Symbol | 250965 | [250965-shining-symbol.json](./250965-shining-symbol.json) |
 | Shining the Holy Ark | 46063 | [46063-shining-the-holy-ark.json](./46063-shining-the-holy-ark.json) |
@@ -7271,6 +7272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinseiki Evangelion: Typing E-Keikaku | 61671 | [61671-shinseiki-evangelion-typing-e-keikaku.json](./61671-shinseiki-evangelion-typing-e-keikaku.json) |
 | Shinseiki Evangelion: Typing Hokan Keikaku | 209939 | [209939-shinseiki-evangelion-typing-hokan-keikaku.json](./209939-shinseiki-evangelion-typing-hokan-keikaku.json) |
 | Shinseiki GPX Cyber Formula | 58063 | [58063-shinseiki-gpx-cyber-formula.json](./58063-shinseiki-gpx-cyber-formula.json) |
+| Shinseiki GPX Cyber Formula - Aratanaru Chousensha | 313049 | [313049-shinseiki-gpx-cyber-formula-aratanaru-chousensha.json](./313049-shinseiki-gpx-cyber-formula-aratanaru-chousensha.json) |
 | Shinseiki GPX Cyber Formula Sin Drei Plus | 112516 | [112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json](./112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json) |
 | Shinseiki GPX Cyber Formula Vs. | 58055 | [58055-shinseiki-gpx-cyber-formula-vs.json](./58055-shinseiki-gpx-cyber-formula-vs.json) |
 | Shinseiki GPX Cyber Formula: Road to the Infinity 2 | 58058 | [58058-shinseiki-gpx-cyber-formula-road-to-the-infinity-2.json](./58058-shinseiki-gpx-cyber-formula-road-to-the-infinity-2.json) |
@@ -14526,6 +14528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic and the Dragon's Path | 334684 | [334684-sonic-and-the-dragons-path.json](./334684-sonic-and-the-dragons-path.json) |
 | Sonic and the Fallen Star | 207176 | [207176-sonic-and-the-fallen-star.json](./207176-sonic-and-the-fallen-star.json) |
 | Sonic and the Mayhem Master | 321076 | [321076-sonic-and-the-mayhem-master.json](./321076-sonic-and-the-mayhem-master.json) |
+| Sonic and the Moon Facility | 313058 | [313058-sonic-and-the-moon-facility.json](./313058-sonic-and-the-moon-facility.json) |
 | Sonic and the Moon Faucility | 363153 | [363153-sonic-and-the-moon-faucility.json](./363153-sonic-and-the-moon-faucility.json) |
 | Sonic and the Secret Rings | 5167 | [5167-sonic-and-the-secret-rings.json](./5167-sonic-and-the-secret-rings.json) |
 | Sonic and the Sunken Temple | 326159 | [326159-sonic-and-the-sunken-temple.json](./326159-sonic-and-the-sunken-temple.json) |
@@ -18848,6 +18851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splittown | 216878 | [216878-splittown.json](./216878-splittown.json) |
 | Splitz | 271376 | [271376-splitz.json](./271376-splitz.json) |
 | Splix.io | 57900 | [57900-splix-io.json](./57900-splix-io.json) |
+| Sploder! | 313036 | [313036-sploder.json](./313036-sploder.json) |
 | Splodey | 282965 | [282965-splodey.json](./282965-splodey.json) |
 | Splodey Vaders | 134262 | [134262-splodey-vaders.json](./134262-splodey-vaders.json) |
 | Splodge Royale | 190166 | [190166-splodge-royale.json](./190166-splodge-royale.json) |
@@ -26716,6 +26720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 3D Kart Deluxe | 265843 | [265843-super-mario-3d-kart-deluxe.json](./265843-super-mario-3d-kart-deluxe.json) |
 | Super Mario 3D World | 229339 | [229339-super-mario-3d-world.json](./229339-super-mario-3d-world.json) |
 | Super Mario 3D World + Bowser's Fury | 138227 | [138227-super-mario-3d-world-bowsers-fury.json](./138227-super-mario-3d-world-bowsers-fury.json) |
+| Super Mario 3D World: Ghostly Glow | 313079 | [313079-super-mario-3d-world-ghostly-glow.json](./313079-super-mario-3d-world-ghostly-glow.json) |
 | Super Mario 4 | 160277 | [160277-super-mario-4.json](./160277-super-mario-4.json) |
 | Super Mario 4 Jugadores | 362159 | [362159-super-mario-4-jugadores.json](./362159-super-mario-4-jugadores.json) |
 | Super Mario 63 | 137008 | [137008-super-mario-63.json](./137008-super-mario-63.json) |
@@ -26918,6 +26923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Special Remastered | 378501 | [378501-super-mario-bros-special-remastered.json](./378501-super-mario-bros-special-remastered.json) |
 | Super Mario Bros. Star Scramble 2: Ghost Island | 215251 | [215251-super-mario-bros-star-scramble-2-ghost-island.json](./215251-super-mario-bros-star-scramble-2-ghost-island.json) |
 | Super Mario Bros. Star Scramble DX | 265069 | [265069-super-mario-bros-star-scramble-dx.json](./265069-super-mario-bros-star-scramble-dx.json) |
+| Super Mario Bros. Ultra Deluxe | 313059 | [313059-super-mario-bros-ultra-deluxe.json](./313059-super-mario-bros-ultra-deluxe.json) |
 | Super Mario Bros. Wonder | 254339 | [254339-super-mario-bros-wonder.json](./254339-super-mario-bros-wonder.json) |
 | Super Mario Bros. Wonder: Nintendo Switch 2 Edition + Meetup in Bellabel Park | 366881 | [366881-super-mario-bros-wonder-nintendo-switch-2-edition-meetup-in-bellabel-park.json](./366881-super-mario-bros-wonder-nintendo-switch-2-edition-meetup-in-bellabel-park.json) |
 | Super Mario Bros. Wonderland 1987 | 307720 | [307720-super-mario-bros-wonderland-1987.json](./307720-super-mario-bros-wonderland-1987.json) |
@@ -27037,6 +27043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Maker: World Engine | 360912 | [360912-super-mario-maker-world-engine.json](./360912-super-mario-maker-world-engine.json) |
 | Super Mario Megamix | 72323 | [72323-super-mario-megamix.json](./72323-super-mario-megamix.json) |
 | Super Mario Meltdown | 313408 | [313408-super-mario-meltdown.json](./313408-super-mario-meltdown.json) |
+| Super Mario Moonlight | 313080 | [313080-super-mario-moonlight.json](./313080-super-mario-moonlight.json) |
 | Super Mario MoonShine 64 | 198370 | [198370-super-mario-moonshine-64.json](./198370-super-mario-moonshine-64.json) |
 | Super Mario Mountain Mania | 314114 | [314114-super-mario-mountain-mania.json](./314114-super-mario-mountain-mania.json) |
 | Super Mario Nation | 381728 | [381728-super-mario-nation.json](./381728-super-mario-nation.json) |
@@ -27055,6 +27062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Odyssey: The Lost Kingdoms | 344010 | [344010-super-mario-odyssey-the-lost-kingdoms.json](./344010-super-mario-odyssey-the-lost-kingdoms.json) |
 | Super Mario Odyssey: Wuhu Kingdom | 314569 | [314569-super-mario-odyssey-wuhu-kingdom.json](./314569-super-mario-odyssey-wuhu-kingdom.json) |
 | Super Mario Odyssey: Yoshi Star Kingdom | 246302 | [246302-super-mario-odyssey-yoshi-star-kingdom.json](./246302-super-mario-odyssey-yoshi-star-kingdom.json) |
+| Super Mario Orbit | 313087 | [313087-super-mario-orbit.json](./313087-super-mario-orbit.json) |
 | Super Mario Outbreak | 198557 | [198557-super-mario-outbreak.json](./198557-super-mario-outbreak.json) |
 | Super Mario Panic | 331984 | [331984-super-mario-panic.json](./331984-super-mario-panic.json) |
 | Super Mario Party | 103339 | [103339-super-mario-party.json](./103339-super-mario-party.json) |
@@ -27824,6 +27832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. for Nintendo 3DS: Corrin | 178319 | [178319-super-smash-bros-for-nintendo-3ds-corrin.json](./178319-super-smash-bros-for-nintendo-3ds-corrin.json) |
 | Super Smash Bros. for Nintendo 3DS: Frozen WarioWare Inc. | 342697 | [342697-super-smash-bros-for-nintendo-3ds-frozen-warioware-inc.json](./342697-super-smash-bros-for-nintendo-3ds-frozen-warioware-inc.json) |
 | Super Smash Bros. for Nintendo 3DS: Geno Hat + Geno Outfit | 325077 | [325077-super-smash-bros-for-nintendo-3ds-geno-hat-geno-outfit.json](./325077-super-smash-bros-for-nintendo-3ds-geno-hat-geno-outfit.json) |
+| Super Smash Bros. for Nintendo 3DS: King K. Rool Hat + King K. Rool Outfit | 313047 | [313047-super-smash-bros-for-nintendo-3ds-king-k-rool-hat-king-k-rool-outfit.json](./313047-super-smash-bros-for-nintendo-3ds-king-k-rool-hat-king-k-rool-outfit.json) |
 | Super Smash Bros. for Nintendo 3DS: Lucas | 178312 | [178312-super-smash-bros-for-nintendo-3ds-lucas.json](./178312-super-smash-bros-for-nintendo-3ds-lucas.json) |
 | Super Smash Bros. for Nintendo 3DS: Meta Crystal | 342695 | [342695-super-smash-bros-for-nintendo-3ds-meta-crystal.json](./342695-super-smash-bros-for-nintendo-3ds-meta-crystal.json) |
 | Super Smash Bros. for Nintendo 3DS: Mewtwo | 178310 | [178310-super-smash-bros-for-nintendo-3ds-mewtwo.json](./178310-super-smash-bros-for-nintendo-3ds-mewtwo.json) |
@@ -27840,6 +27849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. for Wii U: Corrin | 178318 | [178318-super-smash-bros-for-wii-u-corrin.json](./178318-super-smash-bros-for-wii-u-corrin.json) |
 | Super Smash Bros. for Wii U: Geno Hat + Geno Outfit | 325076 | [325076-super-smash-bros-for-wii-u-geno-hat-geno-outfit.json](./325076-super-smash-bros-for-wii-u-geno-hat-geno-outfit.json) |
 | Super Smash Bros. for Wii U: Igglybuff moveset | 343431 | [343431-super-smash-bros-for-wii-u-igglybuff-moveset.json](./343431-super-smash-bros-for-wii-u-igglybuff-moveset.json) |
+| Super Smash Bros. for Wii U: King K. Rool Hat + King K. Rool Outfit | 313048 | [313048-super-smash-bros-for-wii-u-king-k-rool-hat-king-k-rool-outfit.json](./313048-super-smash-bros-for-wii-u-king-k-rool-hat-king-k-rool-outfit.json) |
 | Super Smash Bros. for Wii U: Lucas | 178311 | [178311-super-smash-bros-for-wii-u-lucas.json](./178311-super-smash-bros-for-wii-u-lucas.json) |
 | Super Smash Bros. for Wii U: Mewtwo | 178309 | [178309-super-smash-bros-for-wii-u-mewtwo.json](./178309-super-smash-bros-for-wii-u-mewtwo.json) |
 | Super Smash Bros. for Wii U: Peach's Castle | 312969 | [312969-super-smash-bros-for-wii-u-peachs-castle.json](./312969-super-smash-bros-for-wii-u-peachs-castle.json) |
