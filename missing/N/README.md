@@ -5643,6 +5643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nord and Bert Couldn't Make Head or Tail of It | 12619 | [12619-nord-and-bert-couldnt-make-head-or-tail-of-it.json](./12619-nord-and-bert-couldnt-make-head-or-tail-of-it.json) |
 | Nordenfelt | 33883 | [33883-nordenfelt.json](./33883-nordenfelt.json) |
 | Nordhold | 308349 | [308349-nordhold.json](./308349-nordhold.json) |
+| Nordhold: Origins | 311554 | [311554-nordhold-origins.json](./311554-nordhold-origins.json) |
 | Nordic Adventure Bundle | 277720 | [277720-nordic-adventure-bundle.json](./277720-nordic-adventure-bundle.json) |
 | Nordic Ashes: Survivors of Ragnarok - Twilight of Yggdrasil | 409034 | [409034-nordic-ashes-survivors-of-ragnarok-twilight-of-yggdrasil.json](./409034-nordic-ashes-survivors-of-ragnarok-twilight-of-yggdrasil.json) |
 | Nordic Ashes: The Complete Saga | 366616 | [366616-nordic-ashes-the-complete-saga.json](./366616-nordic-ashes-the-complete-saga.json) |
@@ -5708,6 +5709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noroi no Game: Goku | 373253 | [373253-noroi-no-game-goku.json](./373253-noroi-no-game-goku.json) |
 | Noroi no Kegareuta: Narumi Tatsuya no Kaikiroku | 349464 | [349464-noroi-no-kegareuta-narumi-tatsuya-no-kaikiroku.json](./349464-noroi-no-kegareuta-narumi-tatsuya-no-kaikiroku.json) |
 | Noroware Cycle | 223481 | [223481-noroware-cycle.json](./223481-noroware-cycle.json) |
+| Norowareta: The Three Treasures | 311533 | [311533-norowareta-the-three-treasures.json](./311533-norowareta-the-three-treasures.json) |
 | NoRoY | 193490 | [193490-noroy.json](./193490-noroy.json) |
 | Norpon | 113502 | [113502-norpon.json](./113502-norpon.json) |
 | Norr part I: Ace Shot | 120828 | [120828-norr-part-i-ace-shot.json](./120828-norr-part-i-ace-shot.json) |
@@ -6618,6 +6620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyasha | 280076 | [280076-nyasha.json](./280076-nyasha.json) |
 | Nyasha Land of Elves | 116945 | [116945-nyasha-land-of-elves.json](./116945-nyasha-land-of-elves.json) |
 | Nyassembled! | 332979 | [332979-nyassembled.json](./332979-nyassembled.json) |
+| Nyaz | 311556 | [311556-nyaz.json](./311556-nyaz.json) |
 | Nyctoban | 252204 | [252204-nyctoban.json](./252204-nyctoban.json) |
 | Nyctophilia | 34424 | [34424-nyctophilia.json](./34424-nyctophilia.json) |
 | Nyctophobia: Devil Unleashed | 154067 | [154067-nyctophobia-devil-unleashed.json](./154067-nyctophobia-devil-unleashed.json) |
