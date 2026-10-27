@@ -8967,6 +8967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Atlantis: The Lost Empire | 9056 | [9056-disneys-atlantis-the-lost-empire.json](./9056-disneys-atlantis-the-lost-empire.json) |
 | Disney's Atlantis: The Lost Empire - Trial by Fire | 78004 | [78004-disneys-atlantis-the-lost-empire-trial-by-fire.json](./78004-disneys-atlantis-the-lost-empire-trial-by-fire.json) |
 | Disney's Beauty and the Beast | 198696 | [198696-disneys-beauty-and-the-beast.json](./198696-disneys-beauty-and-the-beast.json) |
+| Disney's Beauty and the Beast | 280811 | [280811-disneys-beauty-and-the-beast.json](./280811-disneys-beauty-and-the-beast.json) |
 | Disney's Beauty and the Beast: A Board Game Adventure | 65583 | [65583-disneys-beauty-and-the-beast-a-board-game-adventure.json](./65583-disneys-beauty-and-the-beast-a-board-game-adventure.json) |
 | Disney's Beauty and the Beast: Belle's Quest | 46233 | [46233-disneys-beauty-and-the-beast-belles-quest.json](./46233-disneys-beauty-and-the-beast-belles-quest.json) |
 | Disney's Beauty and the Beast: LCD Wrist Game | 200503 | [200503-disneys-beauty-and-the-beast-lcd-wrist-game.json](./200503-disneys-beauty-and-the-beast-lcd-wrist-game.json) |
@@ -9417,6 +9418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIY My Lady | 163945 | [163945-diy-my-lady.json](./163945-diy-my-lady.json) |
 | DIY Paper Doll | 277026 | [277026-diy-paper-doll.json](./277026-diy-paper-doll.json) |
 | DIY Paper Doll: Classy Edition | 284940 | [284940-diy-paper-doll-classy-edition.json](./284940-diy-paper-doll-classy-edition.json) |
+| DIY Paper Doll: Complete Edition | 280604 | [280604-diy-paper-doll-complete-edition.json](./280604-diy-paper-doll-complete-edition.json) |
 | DIY Slime Maker! Squishy ASMR | 106593 | [106593-diy-slime-maker-squishy-asmr.json](./106593-diy-slime-maker-squishy-asmr.json) |
 | DIY Tour: Indie Rock Simulator | 197552 | [197552-diy-tour-indie-rock-simulator.json](./197552-diy-tour-indie-rock-simulator.json) |
 | Dizzel | 379403 | [379403-dizzel.json](./379403-dizzel.json) |
@@ -13337,6 +13339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawing Carnival | 276958 | [276958-drawing-carnival.json](./276958-drawing-carnival.json) |
 | Drawing Carnival: Anime Edition | 284939 | [284939-drawing-carnival-anime-edition.json](./284939-drawing-carnival-anime-edition.json) |
 | Drawing Carnival: Anime Style | 276960 | [276960-drawing-carnival-anime-style.json](./276960-drawing-carnival-anime-style.json) |
+| Drawing Carnival: Complete Edition | 280605 | [280605-drawing-carnival-complete-edition.json](./280605-drawing-carnival-complete-edition.json) |
 | Drawing Carnival: Horror Edition | 298570 | [298570-drawing-carnival-horror-edition.json](./298570-drawing-carnival-horror-edition.json) |
 | Drawing Carnival: Horror Style | 276961 | [276961-drawing-carnival-horror-style.json](./276961-drawing-carnival-horror-style.json) |
 | Drawing Evolution | 181314 | [181314-drawing-evolution.json](./181314-drawing-evolution.json) |
@@ -14021,6 +14024,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dribble Bounces Back! | 381579 | [381579-dribble-bounces-back.json](./381579-dribble-bounces-back.json) |
 | Dribble Skillz | 231635 | [231635-dribble-skillz.json](./231635-dribble-skillz.json) |
 | Drift | 359723 | [359723-drift.json](./359723-drift.json) |
+| Drift 'n' Burn 2: My Racer | 280966 | [280966-drift-n-burn-2-my-racer.json](./280966-drift-n-burn-2-my-racer.json) |
+| Drift 'n' Burn 365 | 280965 | [280965-drift-n-burn-365.json](./280965-drift-n-burn-365.json) |
 | Drift 'N' Thrift | 311663 | [311663-drift-n-thrift.json](./311663-drift-n-thrift.json) |
 | Drift 19 | 47161 | [47161-drift-19.json](./47161-drift-19.json) |
 | Drift 1969 | 384558 | [384558-drift-1969.json](./384558-drift-1969.json) |
@@ -15372,6 +15377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Death | 190480 | [190480-dungeon-death.json](./190480-dungeon-death.json) |
 | Dungeon Deathball | 102922 | [102922-dungeon-deathball.json](./102922-dungeon-deathball.json) |
 | Dungeon Deck | 293525 | [293525-dungeon-deck.json](./293525-dungeon-deck.json) |
+| Dungeon Defence Simulator 2024 | 280606 | [280606-dungeon-defence-simulator-2024.json](./280606-dungeon-defence-simulator-2024.json) |
 | Dungeon Defender | 394105 | [394105-dungeon-defender.json](./394105-dungeon-defender.json) |
 | Dungeon Defenders Eternity | 17417 | [17417-dungeon-defenders-eternity.json](./17417-dungeon-defenders-eternity.json) |
 | Dungeon Defenders II | 3202 | [3202-dungeon-defenders-ii.json](./3202-dungeon-defenders-ii.json) |
