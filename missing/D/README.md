@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dare | 130352 | [130352-dare.json](./130352-dare.json) |
 | Dare Demo Shodan ni Nareru Igo Kyoushitsu | 283758 | [283758-dare-demo-shodan-ni-nareru-igo-kyoushitsu.json](./283758-dare-demo-shodan-ni-nareru-igo-kyoushitsu.json) |
 | Dare Devil Derby 3D | 43916 | [43916-dare-devil-derby-3d.json](./43916-dare-devil-derby-3d.json) |
+| Dare ga Humpty wo Koroshita no?: Lizzie, Futatabi Tantei ni Naru | 299694 | [299694-dare-ga-humpty-wo-koroshita-no-lizzie-futatabi-tantei-ni-naru.json](./299694-dare-ga-humpty-wo-koroshita-no-lizzie-futatabi-tantei-ni-naru.json) |
 | Dare mo ga Kanojo o Neratteru. | 82976 | [82976-dare-mo-ga-kanojo-o-neratteru.json](./82976-dare-mo-ga-kanojo-o-neratteru.json) |
 | Dare to Desire: Season 1 | 258830 | [258830-dare-to-desire-season-1.json](./258830-dare-to-desire-season-1.json) |
 | Dare to Dream | 272163 | [272163-dare-to-dream.json](./272163-dare-to-dream.json) |
@@ -1965,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darling of the Sea | 225817 | [225817-darling-of-the-sea.json](./225817-darling-of-the-sea.json) |
 | Darling Pet | 188590 | [188590-darling-pet.json](./188590-darling-pet.json) |
 | Darling, Darling... Dead? | 363680 | [363680-darling-darling-dead.json](./363680-darling-darling-dead.json) |
+| DarlingHoney! | 299707 | [299707-darlinghoney.json](./299707-darlinghoney.json) |
 | Darn Guy Adventures | 365183 | [365183-darn-guy-adventures.json](./365183-darn-guy-adventures.json) |
 | Darok | 309447 | [309447-darok.json](./309447-darok.json) |
 | Darold the Doomer: Back 2 Reality | 220004 | [220004-darold-the-doomer-back-2-reality.json](./220004-darold-the-doomer-back-2-reality.json) |
@@ -3455,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly 30 | 8486 | [8486-deadly-30.json](./8486-deadly-30.json) |
 | Deadly Animal Duel | 61893 | [61893-deadly-animal-duel.json](./61893-deadly-animal-duel.json) |
 | Deadly Arts | 10612 | [10612-deadly-arts.json](./10612-deadly-arts.json) |
+| Deadly Attachment | 299709 | [299709-deadly-attachment.json](./299709-deadly-attachment.json) |
 | Deadly Balls Bounce | 364972 | [364972-deadly-balls-bounce.json](./364972-deadly-balls-bounce.json) |
 | Deadly Blue | 86528 | [86528-deadly-blue.json](./86528-deadly-blue.json) |
 | Deadly Broadcast | 153878 | [153878-deadly-broadcast.json](./153878-deadly-broadcast.json) |
@@ -5021,6 +5024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dejection: An Ode | 57901 | [57901-dejection-an-ode.json](./57901-dejection-an-ode.json) |
 | Dejig: Aqua World | 300274 | [300274-dejig-aqua-world.json](./300274-dejig-aqua-world.json) |
 | Dejig: McKnight Art Collection | 307645 | [307645-dejig-mcknight-art-collection.json](./307645-dejig-mcknight-art-collection.json) |
+| Dejig: Tin Toy | 299789 | [299789-dejig-tin-toy.json](./299789-dejig-tin-toy.json) |
 | Dejiko no Mahjong Party | 92611 | [92611-dejiko-no-mahjong-party.json](./92611-dejiko-no-mahjong-party.json) |
 | Deka Nomos | 416712 | [416712-deka-nomos.json](./416712-deka-nomos.json) |
 | Deka Voice | 64928 | [64928-deka-voice.json](./64928-deka-voice.json) |
