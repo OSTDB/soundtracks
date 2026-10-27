@@ -11157,6 +11157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepin' Guy: Deluxe Edition | 188043 | [188043-sleepin-guy-deluxe-edition.json](./188043-sleepin-guy-deluxe-edition.json) |
 | Sleeping Beauty | 161593 | [161593-sleeping-beauty.json](./161593-sleeping-beauty.json) |
 | Sleeping Beauty X : The Legend of Tales | 175984 | [175984-sleeping-beauty-x-the-legend-of-tales.json](./175984-sleeping-beauty-x-the-legend-of-tales.json) |
+| Sleeping Beauty: The Kingdom of Lost Dreams | 320792 | [320792-sleeping-beauty-the-kingdom-of-lost-dreams.json](./320792-sleeping-beauty-the-kingdom-of-lost-dreams.json) |
 | Sleeping Dawn | 75201 | [75201-sleeping-dawn.json](./75201-sleeping-dawn.json) |
 | Sleeping Dawn VR | 100585 | [100585-sleeping-dawn-vr.json](./100585-sleeping-dawn-vr.json) |
 | Sleeping Dogs: Drunken Fist Pack | 166007 | [166007-sleeping-dogs-drunken-fist-pack.json](./166007-sleeping-dogs-drunken-fist-pack.json) |
@@ -15928,6 +15929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souno's Curse | 169130 | [169130-sounos-curse.json](./169130-sounos-curse.json) |
 | Soup | 188612 | [188612-soup.json](./188612-soup.json) |
 | Soup | 33676 | [33676-soup.json](./33676-soup.json) |
+| Soup Boy Goes to the Soup Convention | 320712 | [320712-soup-boy-goes-to-the-soup-convention.json](./320712-soup-boy-goes-to-the-soup-convention.json) |
 | Soup-of-War | 362243 | [362243-soup-of-war.json](./362243-soup-of-war.json) |
 | Soup: The Game | 58899 | [58899-soup-the-game.json](./58899-soup-the-game.json) |
 | Soup: The Vibe Explorer | 406710 | [406710-soup-the-vibe-explorer.json](./406710-soup-the-vibe-explorer.json) |
@@ -17803,6 +17805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpelBrawl | 374630 | [374630-spelbrawl.json](./374630-spelbrawl.json) |
 | Spelen met Bassie & Adriaan Deel 1 | 242644 | [242644-spelen-met-bassie-and-adriaan-deel-1.json](./242644-spelen-met-bassie-and-adriaan-deel-1.json) |
 | Spelen met Bassie & Adriaan Deel 2 | 242645 | [242645-spelen-met-bassie-and-adriaan-deel-2.json](./242645-spelen-met-bassie-and-adriaan-deel-2.json) |
+| Spelesammlung 1,000 XP-Spiele | 320703 | [320703-spelesammlung-1-000-xp-spiele.json](./320703-spelesammlung-1-000-xp-spiele.json) |
 | Spell 9 | 57552 | [57552-spell-9.json](./57552-spell-9.json) |
 | Spell Alchemist | 402132 | [402132-spell-alchemist.json](./402132-spell-alchemist.json) |
 | Spell Bandit | 114747 | [114747-spell-bandit.json](./114747-spell-bandit.json) |
@@ -19665,6 +19668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaser 9 | 368537 | [368537-squaser-9.json](./368537-squaser-9.json) |
 | Squaser X | 367366 | [367366-squaser-x.json](./367366-squaser-x.json) |
 | Squash and Spell: Kids Typing | 388328 | [388328-squash-and-spell-kids-typing.json](./388328-squash-and-spell-kids-typing.json) |
+| Squash Ball | 320778 | [320778-squash-ball.json](./320778-squash-ball.json) |
 | Squash Kings VR | 86394 | [86394-squash-kings-vr.json](./86394-squash-kings-vr.json) |
 | Squash Sport Game 2024 | 310167 | [310167-squash-sport-game-2024.json](./310167-squash-sport-game-2024.json) |
 | Squat Life | 345976 | [345976-squat-life.json](./345976-squat-life.json) |
@@ -23446,6 +23450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Gods: Orpheus Edition | 385325 | [385325-stray-gods-orpheus-edition.json](./385325-stray-gods-orpheus-edition.json) |
 | Stray Kids SKZOO Tamagotchi | 334864 | [334864-stray-kids-skzoo-tamagotchi.json](./334864-stray-kids-skzoo-tamagotchi.json) |
 | Stray Kitten | 150691 | [150691-stray-kitten.json](./150691-stray-kitten.json) |
+| Stray Memoria | 320796 | [320796-stray-memoria.json](./320796-stray-memoria.json) |
 | Stray of Lost Cat | 330649 | [330649-stray-of-lost-cat.json](./330649-stray-of-lost-cat.json) |
 | Stray of Lostcat | 385078 | [385078-stray-of-lostcat.json](./385078-stray-of-lostcat.json) |
 | Stray Path | 268948 | [268948-stray-path.json](./268948-stray-path.json) |
