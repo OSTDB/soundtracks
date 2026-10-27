@@ -4292,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: DJ Romance | 347201 | [347201-hentai-girls-dj-romance.json](./347201-hentai-girls-dj-romance.json) |
 | Hentai Girls: Extended Edition | 261348 | [261348-hentai-girls-extended-edition.json](./261348-hentai-girls-extended-edition.json) |
 | Hentai Girls: Fresh Firefighter | 300863 | [300863-hentai-girls-fresh-firefighter.json](./300863-hentai-girls-fresh-firefighter.json) |
+| Hentai Girls: GOTY Edition | 287128 | [287128-hentai-girls-goty-edition.json](./287128-hentai-girls-goty-edition.json) |
 | Hentai Girls: Happy Edition | 290427 | [290427-hentai-girls-happy-edition.json](./290427-hentai-girls-happy-edition.json) |
 | Hentai Girls: Hot Police | 284950 | [284950-hentai-girls-hot-police.json](./284950-hentai-girls-hot-police.json) |
 | Hentai Girls: Juicy Judo | 330605 | [330605-hentai-girls-juicy-judo.json](./330605-hentai-girls-juicy-judo.json) |
@@ -9516,6 +9517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hovershift | 117695 | [117695-hovershift.json](./117695-hovershift.json) |
 | Hovershift | 336916 | [336916-hovershift.json](./336916-hovershift.json) |
 | Hoversteppers | 262106 | [262106-hoversteppers.json](./262106-hoversteppers.json) |
+| Hoversteppers: Zone 1 | 287246 | [287246-hoversteppers-zone-1.json](./287246-hoversteppers-zone-1.json) |
 | Hovertank | 95479 | [95479-hovertank.json](./95479-hovertank.json) |
 | Hovertank 3D | 18994 | [18994-hovertank-3d.json](./18994-hovertank-3d.json) |
 | Hovertron | 387349 | [387349-hovertron.json](./387349-hovertron.json) |
