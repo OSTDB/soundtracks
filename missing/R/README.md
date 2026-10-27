@@ -10957,6 +10957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Car Driver: UAZ Hunter | 255752 | [255752-russian-car-driver-uaz-hunter.json](./255752-russian-car-driver-uaz-hunter.json) |
 | Russian Cat Simulator | 340814 | [340814-russian-cat-simulator.json](./340814-russian-cat-simulator.json) |
 | Russian City Sim | 154244 | [154244-russian-city-sim.json](./154244-russian-city-sim.json) |
+| Russian CyberVillage Simulator | 295757 | [295757-russian-cybervillage-simulator.json](./295757-russian-cybervillage-simulator.json) |
 | Russian Dancing Men | 65597 | [65597-russian-dancing-men.json](./65597-russian-dancing-men.json) |
 | Russian Driver | 197376 | [197376-russian-driver.json](./197376-russian-driver.json) |
 | Russian Drunken Boxers | 158697 | [158697-russian-drunken-boxers.json](./158697-russian-drunken-boxers.json) |
