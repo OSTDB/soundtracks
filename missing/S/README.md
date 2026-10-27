@@ -3118,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screw Loose | 40412 | [40412-screw-loose.json](./40412-screw-loose.json) |
 | Screw Master | 340523 | [340523-screw-master.json](./340523-screw-master.json) |
 | Screw Master 3D: Pin Puzzle | 328582 | [328582-screw-master-3d-pin-puzzle.json](./328582-screw-master-3d-pin-puzzle.json) |
+| Screw Pin Jam Puzzle | 307558 | [307558-screw-pin-jam-puzzle.json](./307558-screw-pin-jam-puzzle.json) |
 | Screw That | 403975 | [403975-screw-that.json](./403975-screw-that.json) |
 | Screw Workshop | 421452 | [421452-screw-workshop.json](./421452-screw-workshop.json) |
 | Screw You, Bear Dad | 57495 | [57495-screw-you-bear-dad.json](./57495-screw-you-bear-dad.json) |
@@ -12557,6 +12558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Rewind | 124445 | [124445-snake-rewind.json](./124445-snake-rewind.json) |
 | Snake Rivals | 138453 | [138453-snake-rivals.json](./138453-snake-rivals.json) |
 | Snake Roy | 210642 | [210642-snake-roy.json](./210642-snake-roy.json) |
+| Snake Seeker | 307634 | [307634-snake-seeker.json](./307634-snake-seeker.json) |
 | Snake Snafu | 180479 | [180479-snake-snafu.json](./180479-snake-snafu.json) |
 | Snake Sphere | 415033 | [415033-snake-sphere.json](./415033-snake-sphere.json) |
 | Snake VR | 78551 | [78551-snake-vr.json](./78551-snake-vr.json) |
@@ -15099,6 +15101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog 3 & Knuckles | 206597 | [206597-sonic-the-hedgehog-3-and-knuckles.json](./206597-sonic-the-hedgehog-3-and-knuckles.json) |
 | Sonic the Hedgehog 3D | 144907 | [144907-sonic-the-hedgehog-3d.json](./144907-sonic-the-hedgehog-3d.json) |
 | Sonic the Hedgehog 4 Remastered | 332614 | [332614-sonic-the-hedgehog-4-remastered.json](./332614-sonic-the-hedgehog-4-remastered.json) |
+| Sonic the Hedgehog 4: Episode I | 307555 | [307555-sonic-the-hedgehog-4-episode-i.json](./307555-sonic-the-hedgehog-4-episode-i.json) |
 | Sonic the Hedgehog 4: Episode I | 9473 | [9473-sonic-the-hedgehog-4-episode-i.json](./9473-sonic-the-hedgehog-4-episode-i.json) |
 | Sonic the Hedgehog 4: Episode II | 9474 | [9474-sonic-the-hedgehog-4-episode-ii.json](./9474-sonic-the-hedgehog-4-episode-ii.json) |
 | Sonic the Hedgehog 4: Episode Metal | 197602 | [197602-sonic-the-hedgehog-4-episode-metal.json](./197602-sonic-the-hedgehog-4-episode-metal.json) |
@@ -15170,6 +15173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic The New Adventure | 321078 | [321078-sonic-the-new-adventure.json](./321078-sonic-the-new-adventure.json) |
 | Sonic the Sketchhog | 197601 | [197601-sonic-the-sketchhog.json](./197601-sonic-the-sketchhog.json) |
 | Sonic the Sketchhog: Episode 2 | 316933 | [316933-sonic-the-sketchhog-episode-2.json](./316933-sonic-the-sketchhog-episode-2.json) |
+| Sonic the Very Useful Engine | 307628 | [307628-sonic-the-very-useful-engine.json](./307628-sonic-the-very-useful-engine.json) |
 | Sonic ThirdScape | 330821 | [330821-sonic-thirdscape.json](./330821-sonic-thirdscape.json) |
 | Sonic ThirdScape 2 | 331649 | [331649-sonic-thirdscape-2.json](./331649-sonic-thirdscape-2.json) |
 | Sonic Time Twisted | 125154 | [125154-sonic-time-twisted.json](./125154-sonic-time-twisted.json) |
@@ -15758,6 +15762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Shard | 207340 | [207340-soul-shard.json](./207340-soul-shard.json) |
 | Soul Shards | 89747 | [89747-soul-shards.json](./89747-soul-shards.json) |
 | Soul Shuffler | 326786 | [326786-soul-shuffler.json](./326786-soul-shuffler.json) |
+| Soul Sipper | 307632 | [307632-soul-sipper.json](./307632-soul-sipper.json) |
 | Soul Slasher | 353781 | [353781-soul-slasher.json](./353781-soul-slasher.json) |
 | Soul Slayers | 145650 | [145650-soul-slayers.json](./145650-soul-slayers.json) |
 | Soul Smith of the Kingdom | 99019 | [99019-soul-smith-of-the-kingdom.json](./99019-soul-smith-of-the-kingdom.json) |
@@ -18716,6 +18721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpiritSphere DX | 78142 | [78142-spiritsphere-dx.json](./78142-spiritsphere-dx.json) |
 | Spiritstead | 366345 | [366345-spiritstead.json](./366345-spiritstead.json) |
 | SpiritSurge | 221639 | [221639-spiritsurge.json](./221639-spiritsurge.json) |
+| SpiritSweeper | 307624 | [307624-spiritsweeper.json](./307624-spiritsweeper.json) |
 | Spirittea 2.0 | 374985 | [374985-spirittea-2-0.json](./374985-spirittea-2-0.json) |
 | Spiritual Blade | 409247 | [409247-spiritual-blade.json](./409247-spiritual-blade.json) |
 | Spiritual Bond: Breaking the Curse, Intertwining Fates | 316635 | [316635-spiritual-bond-breaking-the-curse-intertwining-fates.json](./316635-spiritual-bond-breaking-the-curse-intertwining-fates.json) |
@@ -26859,6 +26865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Advance 4: Super Mario Bros. 3-e - Vexing Doors | 241017 | [241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json](./241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json) |
 | Super Mario Adventure | 314117 | [314117-super-mario-adventure.json](./314117-super-mario-adventure.json) |
 | Super Mario Aftermath | 314128 | [314128-super-mario-aftermath.json](./314128-super-mario-aftermath.json) |
+| Super Mario All-Star Attack | 307656 | [307656-super-mario-all-star-attack.json](./307656-super-mario-all-star-attack.json) |
 | Super Mario All-Stars | 5199 | [5199-super-mario-all-stars.json](./5199-super-mario-all-stars.json) |
 | Super Mario All-Stars NES | 372201 | [372201-super-mario-all-stars-nes.json](./372201-super-mario-all-stars-nes.json) |
 | Super Mario All-Stars: Limited Edition | 84920 | [84920-super-mario-all-stars-limited-edition.json](./84920-super-mario-all-stars-limited-edition.json) |
@@ -28590,6 +28597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Simulator 2026 | 399602 | [399602-supermarket-simulator-2026.json](./399602-supermarket-simulator-2026.json) |
 | Supermarket Simulator Bundle 3 in 1 | 385128 | [385128-supermarket-simulator-bundle-3-in-1.json](./385128-supermarket-simulator-bundle-3-in-1.json) |
 | Supermarket Simulator Deluxe | 345265 | [345265-supermarket-simulator-deluxe.json](./345265-supermarket-simulator-deluxe.json) |
+| Supermarket Simulator Manager | 307642 | [307642-supermarket-simulator-manager.json](./307642-supermarket-simulator-manager.json) |
 | Supermarket Simulator Pro | 315920 | [315920-supermarket-simulator-pro.json](./315920-supermarket-simulator-pro.json) |
 | Supermarket Simulator Store Game 3D | 376231 | [376231-supermarket-simulator-store-game-3d.json](./376231-supermarket-simulator-store-game-3d.json) |
 | Supermarket Simulator VR | 312423 | [312423-supermarket-simulator-vr.json](./312423-supermarket-simulator-vr.json) |
