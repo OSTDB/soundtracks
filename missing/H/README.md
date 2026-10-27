@@ -3712,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Emoji: Drawing to Solve Puzzles | 229798 | [229798-hello-emoji-drawing-to-solve-puzzles.json](./229798-hello-emoji-drawing-to-solve-puzzles.json) |
 | Hello Engineer | 153521 | [153521-hello-engineer.json](./153521-hello-engineer.json) |
 | Hello Fangaming Collection | 320231 | [320231-hello-fangaming-collection.json](./320231-hello-fangaming-collection.json) |
+| Hello Fangaming Time Capsule | 320206 | [320206-hello-fangaming-time-capsule.json](./320206-hello-fangaming-time-capsule.json) |
 | Hello Flowerz | 66519 | [66519-hello-flowerz.json](./66519-hello-flowerz.json) |
 | Hello From Darkness | 150992 | [150992-hello-from-darkness.json](./150992-hello-from-darkness.json) |
 | Hello Games Neighbor | 101101 | [101101-hello-games-neighbor.json](./101101-hello-games-neighbor.json) |
@@ -3841,6 +3842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello User! | 337510 | [337510-hello-user.json](./337510-hello-user.json) |
 | Hello Venice | 231315 | [231315-hello-venice.json](./231315-hello-venice.json) |
 | Hello Venice 2: New York Adventure | 294801 | [294801-hello-venice-2-new-york-adventure.json](./294801-hello-venice-2-new-york-adventure.json) |
+| Hello Winter Mario Games 2009 | 320222 | [320222-hello-winter-mario-games-2009.json](./320222-hello-winter-mario-games-2009.json) |
 | Hello World | 132633 | [132633-hello-world.json](./132633-hello-world.json) |
 | Hello World | 367420 | [367420-hello-world.json](./367420-hello-world.json) |
 | Hello World | 392767 | [392767-hello-world.json](./392767-hello-world.json) |
@@ -10402,6 +10404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydrophobia | 210061 | [210061-hydrophobia.json](./210061-hydrophobia.json) |
 | Hydroplane: Riptide Racers | 278549 | [278549-hydroplane-riptide-racers.json](./278549-hydroplane-riptide-racers.json) |
 | Hydroplant Tycoon | 343289 | [343289-hydroplant-tycoon.json](./343289-hydroplant-tycoon.json) |
+| Hydroponics Farm & Store Simulator | 320124 | [320124-hydroponics-farm-and-store-simulator.json](./320124-hydroponics-farm-and-store-simulator.json) |
 | Hydrosphere | 257291 | [257291-hydrosphere.json](./257291-hydrosphere.json) |
 | Hyena Simulator | 86848 | [86848-hyena-simulator.json](./86848-hyena-simulator.json) |
 | Hyena Squad | 175206 | [175206-hyena-squad.json](./175206-hyena-squad.json) |
