@@ -1579,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layer Hunt | 219689 | [219689-layer-hunt.json](./219689-layer-hunt.json) |
 | Layer Section & Galactic Attack: S-Tribute | 199159 | [199159-layer-section-and-galactic-attack-s-tribute.json](./199159-layer-section-and-galactic-attack-s-tribute.json) |
 | Layer2 | 407912 | [407912-layer2.json](./407912-layer2.json) |
+| Layered | 312600 | [312600-layered.json](./312600-layered.json) |
 | Layered Ordeal | 356803 | [356803-layered-ordeal.json](./356803-layered-ordeal.json) |
 | Layermask | 402995 | [402995-layermask.json](./402995-layermask.json) |
 | Layers | 75098 | [75098-layers.json](./75098-layers.json) |
