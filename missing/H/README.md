@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatchwell | 182284 | [182284-hatchwell.json](./182284-hatchwell.json) |
 | Hate Free Heroes RPG | 31682 | [31682-hate-free-heroes-rpg.json](./31682-hate-free-heroes-rpg.json) |
 | Hate Free Heroes: Agents of Aggro City | 171510 | [171510-hate-free-heroes-agents-of-aggro-city.json](./171510-hate-free-heroes-agents-of-aggro-city.json) |
+| Hate Me Not | 281579 | [281579-hate-me-not.json](./281579-hate-me-not.json) |
 | Hate Plus | 16542 | [16542-hate-plus.json](./16542-hate-plus.json) |
 | Hate You | 346394 | [346394-hate-you.json](./346394-hate-you.json) |
 | Hate.net | 346496 | [346496-hate-net.json](./346496-hate-net.json) |
@@ -8116,17 +8117,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd | 96032 | [96032-honkai-impact-3rd.json](./96032-honkai-impact-3rd.json) |
 | Honkai Impact 3rd: A Lightful Love | 374675 | [374675-honkai-impact-3rd-a-lightful-love.json](./374675-honkai-impact-3rd-a-lightful-love.json) |
 | Honkai Impact 3rd: Adrift in the Sea of Data | 400082 | [400082-honkai-impact-3rd-adrift-in-the-sea-of-data.json](./400082-honkai-impact-3rd-adrift-in-the-sea-of-data.json) |
+| Honkai Impact 3rd: Anniversary Rave | 281583 | [281583-honkai-impact-3rd-anniversary-rave.json](./281583-honkai-impact-3rd-anniversary-rave.json) |
 | Honkai Impact 3rd: Arrow of Novae | 276426 | [276426-honkai-impact-3rd-arrow-of-novae.json](./276426-honkai-impact-3rd-arrow-of-novae.json) |
 | Honkai Impact 3rd: As Thunders Filled the Sky | 279719 | [279719-honkai-impact-3rd-as-thunders-filled-the-sky.json](./279719-honkai-impact-3rd-as-thunders-filled-the-sky.json) |
 | Honkai Impact 3rd: Aurelia Invicta | 279710 | [279710-honkai-impact-3rd-aurelia-invicta.json](./279710-honkai-impact-3rd-aurelia-invicta.json) |
 | Honkai Impact 3rd: Blazing Hope | 279707 | [279707-honkai-impact-3rd-blazing-hope.json](./279707-honkai-impact-3rd-blazing-hope.json) |
 | Honkai Impact 3rd: Crusade of Chasing Shadows | 304037 | [304037-honkai-impact-3rd-crusade-of-chasing-shadows.json](./304037-honkai-impact-3rd-crusade-of-chasing-shadows.json) |
 | Honkai Impact 3rd: Cutting Dreams at Dawn | 268770 | [268770-honkai-impact-3rd-cutting-dreams-at-dawn.json](./268770-honkai-impact-3rd-cutting-dreams-at-dawn.json) |
+| Honkai Impact 3rd: Cyberangel | 281576 | [281576-honkai-impact-3rd-cyberangel.json](./281576-honkai-impact-3rd-cyberangel.json) |
 | Honkai Impact 3rd: Dark Xuan Yuan Sword | 361296 | [361296-honkai-impact-3rd-dark-xuan-yuan-sword.json](./361296-honkai-impact-3rd-dark-xuan-yuan-sword.json) |
 | Honkai Impact 3rd: Dawn of Glory | 279724 | [279724-honkai-impact-3rd-dawn-of-glory.json](./279724-honkai-impact-3rd-dawn-of-glory.json) |
+| Honkai Impact 3rd: Deep Enigma | 281581 | [281581-honkai-impact-3rd-deep-enigma.json](./281581-honkai-impact-3rd-deep-enigma.json) |
 | Honkai Impact 3rd: Dorm Life | 362032 | [362032-honkai-impact-3rd-dorm-life.json](./362032-honkai-impact-3rd-dorm-life.json) |
+| Honkai Impact 3rd: Dreams of Gemina | 281580 | [281580-honkai-impact-3rd-dreams-of-gemina.json](./281580-honkai-impact-3rd-dreams-of-gemina.json) |
 | Honkai Impact 3rd: Dreamseeking Voyage | 284193 | [284193-honkai-impact-3rd-dreamseeking-voyage.json](./284193-honkai-impact-3rd-dreamseeking-voyage.json) |
 | Honkai Impact 3rd: Drumming in New Resolutions | 332301 | [332301-honkai-impact-3rd-drumming-in-new-resolutions.json](./332301-honkai-impact-3rd-drumming-in-new-resolutions.json) |
+| Honkai Impact 3rd: Edict of Twilight | 281575 | [281575-honkai-impact-3rd-edict-of-twilight.json](./281575-honkai-impact-3rd-edict-of-twilight.json) |
 | Honkai Impact 3rd: Elysian Reverie | 276496 | [276496-honkai-impact-3rd-elysian-reverie.json](./276496-honkai-impact-3rd-elysian-reverie.json) |
 | Honkai Impact 3rd: Equinox Gate | 276497 | [276497-honkai-impact-3rd-equinox-gate.json](./276497-honkai-impact-3rd-equinox-gate.json) |
 | Honkai Impact 3rd: Fading Dreams, Dimming Shadows | 309112 | [309112-honkai-impact-3rd-fading-dreams-dimming-shadows.json](./309112-honkai-impact-3rd-fading-dreams-dimming-shadows.json) |
@@ -8153,12 +8159,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Silverwing: Beyond | 276498 | [276498-honkai-impact-3rd-silverwing-beyond.json](./276498-honkai-impact-3rd-silverwing-beyond.json) |
 | Honkai Impact 3rd: Starlit Sanctum | 279723 | [279723-honkai-impact-3rd-starlit-sanctum.json](./279723-honkai-impact-3rd-starlit-sanctum.json) |
 | Honkai Impact 3rd: Stars Derailed | 322783 | [322783-honkai-impact-3rd-stars-derailed.json](./322783-honkai-impact-3rd-stars-derailed.json) |
+| Honkai Impact 3rd: Stygian Nymph | 281574 | [281574-honkai-impact-3rd-stygian-nymph.json](./281574-honkai-impact-3rd-stygian-nymph.json) |
 | Honkai Impact 3rd: Sublime Spring | 281571 | [281571-honkai-impact-3rd-sublime-spring.json](./281571-honkai-impact-3rd-sublime-spring.json) |
 | Honkai Impact 3rd: The Banquet Operative | 383390 | [383390-honkai-impact-3rd-the-banquet-operative.json](./383390-honkai-impact-3rd-the-banquet-operative.json) |
 | Honkai Impact 3rd: The Chrono and the Hare | 276421 | [276421-honkai-impact-3rd-the-chrono-and-the-hare.json](./276421-honkai-impact-3rd-the-chrono-and-the-hare.json) |
 | Honkai Impact 3rd: The Fleet Sets Sail | 361297 | [361297-honkai-impact-3rd-the-fleet-sets-sail.json](./361297-honkai-impact-3rd-the-fleet-sets-sail.json) |
 | Honkai Impact 3rd: The Light at Dream's End | 415396 | [415396-honkai-impact-3rd-the-light-at-dreams-end.json](./415396-honkai-impact-3rd-the-light-at-dreams-end.json) |
 | Honkai Impact 3rd: The Wings to Mars | 282498 | [282498-honkai-impact-3rd-the-wings-to-mars.json](./282498-honkai-impact-3rd-the-wings-to-mars.json) |
+| Honkai Impact 3rd: Undine's Phantasm | 281578 | [281578-honkai-impact-3rd-undines-phantasm.json](./281578-honkai-impact-3rd-undines-phantasm.json) |
 | Honkai Impact 3rd: Unequaled, Unrivaled | 279704 | [279704-honkai-impact-3rd-unequaled-unrivaled.json](./279704-honkai-impact-3rd-unequaled-unrivaled.json) |
 | Honkai: Star Rail - A New Venture on the Eighth Dawn | 322770 | [322770-honkai-star-rail-a-new-venture-on-the-eighth-dawn.json](./322770-honkai-star-rail-a-new-venture-on-the-eighth-dawn.json) |
 | Honkai: Star Rail - Annals of Pinecany's Mappou Age | 319458 | [319458-honkai-star-rail-annals-of-pinecanys-mappou-age.json](./319458-honkai-star-rail-annals-of-pinecanys-mappou-age.json) |
