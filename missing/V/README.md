@@ -1275,6 +1275,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verity JE | 417531 | [417531-verity-je.json](./417531-verity-je.json) |
 | Veriventure | 400851 | [400851-veriventure.json](./400851-veriventure.json) |
 | Verjaded | 179512 | [179512-verjaded.json](./179512-verjaded.json) |
+| Verkehrsspiele 1 | 283016 | [283016-verkehrsspiele-1.json](./283016-verkehrsspiele-1.json) |
+| Verkehrsspiele 2 | 283017 | [283017-verkehrsspiele-2.json](./283017-verkehrsspiele-2.json) |
 | Verlet Ascend | 213560 | [213560-verlet-ascend.json](./213560-verlet-ascend.json) |
 | Verlet Swing | 97333 | [97333-verlet-swing.json](./97333-verlet-swing.json) |
 | Verliebt in Berlin | 92839 | [92839-verliebt-in-berlin.json](./92839-verliebt-in-berlin.json) |
@@ -1685,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Game: Super Corrida | 345627 | [345627-video-game-super-corrida.json](./345627-video-game-super-corrida.json) |
 | Video Horror Society: Deathwire | 227720 | [227720-video-horror-society-deathwire.json](./227720-video-horror-society-deathwire.json) |
 | Video Horror Society: Reggie | 230976 | [230976-video-horror-society-reggie.json](./230976-video-horror-society-reggie.json) |
+| Video Hustler | 283005 | [283005-video-hustler.json](./283005-video-hustler.json) |
 | Video Hustler | 38557 | [38557-video-hustler.json](./38557-video-hustler.json) |
 | Video Jam | 206063 | [206063-video-jam.json](./206063-video-jam.json) |
 | Video Jogger | 40663 | [40663-video-jogger.json](./40663-video-jogger.json) |
