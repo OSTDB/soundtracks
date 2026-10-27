@@ -3379,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Treasures | 172969 | [172969-infinity-treasures.json](./172969-infinity-treasures.json) |
 | Infinity Trials | 245817 | [245817-infinity-trials.json](./245817-infinity-trials.json) |
 | Infinity Valley | 152669 | [152669-infinity-valley.json](./152669-infinity-valley.json) |
+| Infinity Wanderer | 316585 | [316585-infinity-wanderer.json](./316585-infinity-wanderer.json) |
 | Infinity war | 167816 | [167816-infinity-war.json](./167816-infinity-war.json) |
 | Infinity War | 284292 | [284292-infinity-war.json](./284292-infinity-war.json) |
 | Infinity Wars 2 | 128386 | [128386-infinity-wars-2.json](./128386-infinity-wars-2.json) |
@@ -4646,6 +4647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Investigate | 229017 | [229017-investigate.json](./229017-investigate.json) |
 | Investigate | 384334 | [384334-investigate.json](./384334-investigate.json) |
 | Investigating Alien Cats | 368591 | [368591-investigating-alien-cats.json](./368591-investigating-alien-cats.json) |
+| Investigation | 316564 | [316564-investigation.json](./316564-investigation.json) |
 | Investigation Forces: Operation Zero | 125695 | [125695-investigation-forces-operation-zero.json](./125695-investigation-forces-operation-zero.json) |
 | Investigation Stories: Gunsound | 369552 | [369552-investigation-stories-gunsound.json](./369552-investigation-stories-gunsound.json) |
 | Investigation Stories: Windsound | 216395 | [216395-investigation-stories-windsound.json](./216395-investigation-stories-windsound.json) |
