@@ -1489,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercards | 57109 | [57109-undercards.json](./57109-undercards.json) |
 | Undercat | 158579 | [158579-undercat.json](./158579-undercat.json) |
 | Underchoice | 386844 | [386844-underchoice.json](./386844-underchoice.json) |
+| Undercity | 305803 | [305803-undercity.json](./305803-undercity.json) |
 | Undercity | 54884 | [54884-undercity.json](./54884-undercity.json) |
 | Undercity of Sin | 380547 | [380547-undercity-of-sin.json](./380547-undercity-of-sin.json) |
 | Undercook | 324972 | [324972-undercook.json](./324972-undercook.json) |
@@ -1614,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale 2: Overtale | 232519 | [232519-undertale-2-overtale.json](./232519-undertale-2-overtale.json) |
 | Undertale 3D | 324938 | [324938-undertale-3d.json](./324938-undertale-3d.json) |
 | Undertale Cyan | 307545 | [307545-undertale-cyan.json](./307545-undertale-cyan.json) |
+| Undertale Gameboy Demake | 305741 | [305741-undertale-gameboy-demake.json](./305741-undertale-gameboy-demake.json) |
 | Undertale Green | 308157 | [308157-undertale-green.json](./308157-undertale-green.json) |
 | Undertale Green | 308158 | [308158-undertale-green.json](./308158-undertale-green.json) |
 | Undertale Green: The Pre-Show | 329622 | [329622-undertale-green-the-pre-show.json](./329622-undertale-green-the-pre-show.json) |
