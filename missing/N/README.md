@@ -6626,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyan Cat: Lost In Space | 34115 | [34115-nyan-cat-lost-in-space.json](./34115-nyan-cat-lost-in-space.json) |
 | Nyan Cat: The Space Journey | 344905 | [344905-nyan-cat-the-space-journey.json](./344905-nyan-cat-the-space-journey.json) |
 | Nyan Cat! | 64260 | [64260-nyan-cat.json](./64260-nyan-cat.json) |
+| Nyan Heroes | 291952 | [291952-nyan-heroes.json](./291952-nyan-heroes.json) |
 | Nyan Nikki | 229663 | [229663-nyan-nikki.json](./229663-nyan-nikki.json) |
 | Nyan Nyan Nyan Nyan Nyan | 386783 | [386783-nyan-nyan-nyan-nyan-nyan.json](./386783-nyan-nyan-nyan-nyan-nyan.json) |
 | Nyan Nyan Nyanko no Nyan Collection | 49745 | [49745-nyan-nyan-nyanko-no-nyan-collection.json](./49745-nyan-nyan-nyanko-no-nyan-collection.json) |
