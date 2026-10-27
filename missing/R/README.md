@@ -3358,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Orchestra: Ostfront 41-45 | 9409 | [9409-red-orchestra-ostfront-41-45.json](./9409-red-orchestra-ostfront-41-45.json) |
 | Red Out Block | 377788 | [377788-red-out-block.json](./377788-red-out-block.json) |
 | Red Out Block Aim! Shooting | 385946 | [385946-red-out-block-aim-shooting.json](./385946-red-out-block-aim-shooting.json) |
+| Red Panda is Hungry | 331241 | [331241-red-panda-is-hungry.json](./331241-red-panda-is-hungry.json) |
 | Red Panda x Cats Bundle | 331512 | [331512-red-panda-x-cats-bundle.json](./331512-red-panda-x-cats-bundle.json) |
 | Red Panda: The Quiet Path | 373327 | [373327-red-panda-the-quiet-path.json](./373327-red-panda-the-quiet-path.json) |
 | Red Passport: Ticket to Russia | 373669 | [373669-red-passport-ticket-to-russia.json](./373669-red-passport-ticket-to-russia.json) |
@@ -8484,6 +8485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Frontiers | 130099 | [130099-rogue-frontiers.json](./130099-rogue-frontiers.json) |
 | Rogue Galaxy | 11292 | [11292-rogue-galaxy.json](./11292-rogue-galaxy.json) |
 | Rogue Girl | 293989 | [293989-rogue-girl.json](./293989-rogue-girl.json) |
+| Rogue Gladius Survivors | 331239 | [331239-rogue-gladius-survivors.json](./331239-rogue-gladius-survivors.json) |
 | Rogue Glitch Ultra | 275900 | [275900-rogue-glitch-ultra.json](./275900-rogue-glitch-ultra.json) |
 | Rogue Hanafuda | 389638 | [389638-rogue-hanafuda.json](./389638-rogue-hanafuda.json) |
 | Rogue Hands! | 333352 | [333352-rogue-hands.json](./333352-rogue-hands.json) |
