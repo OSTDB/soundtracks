@@ -9511,7 +9511,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimTown | 20194 | [20194-simtown.json](./20194-simtown.json) |
 | SimTown | 213291 | [213291-simtown.json](./213291-simtown.json) |
 | SimTunes | 74020 | [74020-simtunes.json](./74020-simtunes.json) |
-| Simulacra 2 | 122134 | [122134-simulacra-2.json](./122134-simulacra-2.json) |
 | Simulacra 3 | 198859 | [198859-simulacra-3.json](./198859-simulacra-3.json) |
 | Simulacra 3: Deluxe Edition | 350907 | [350907-simulacra-3-deluxe-edition.json](./350907-simulacra-3-deluxe-edition.json) |
 | Simulacra: Pipe Dreams | 110900 | [110900-simulacra-pipe-dreams.json](./110900-simulacra-pipe-dreams.json) |
