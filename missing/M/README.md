@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maggotmania | 109041 | [109041-maggotmania.json](./109041-maggotmania.json) |
 | Magi Death Fight: Mahou Gakuen | 58878 | [58878-magi-death-fight-mahou-gakuen.json](./58878-magi-death-fight-mahou-gakuen.json) |
 | Magi Nation | 49708 | [49708-magi-nation.json](./49708-magi-nation.json) |
+| Magi Nation: Keeper's Quest | 315445 | [315445-magi-nation-keepers-quest.json](./315445-magi-nation-keepers-quest.json) |
 | Magi Trials | 33449 | [33449-magi-trials.json](./33449-magi-trials.json) |
 | Magi: Aratanaru Sekai | 222480 | [222480-magi-aratanaru-sekai.json](./222480-magi-aratanaru-sekai.json) |
 | Magi: Hajimari no Meikyuu | 191666 | [191666-magi-hajimari-no-meikyuu.json](./191666-magi-hajimari-no-meikyuu.json) |
@@ -992,6 +993,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Hop | 221354 | [221354-magic-hop.json](./221354-magic-hop.json) |
 | Magic Hour | 30093 | [30093-magic-hour.json](./30093-magic-hour.json) |
 | Magic Island Escape | 315472 | [315472-magic-island-escape.json](./315472-magic-island-escape.json) |
+| Magic Island Escape 10 | 315533 | [315533-magic-island-escape-10.json](./315533-magic-island-escape-10.json) |
+| Magic Island Escape 11 | 315540 | [315540-magic-island-escape-11.json](./315540-magic-island-escape-11.json) |
+| Magic Island Escape 12 | 315541 | [315541-magic-island-escape-12.json](./315541-magic-island-escape-12.json) |
+| Magic Island Escape 13 | 315545 | [315545-magic-island-escape-13.json](./315545-magic-island-escape-13.json) |
+| Magic Island Escape 14 | 315546 | [315546-magic-island-escape-14.json](./315546-magic-island-escape-14.json) |
+| Magic Island Escape 15 | 315548 | [315548-magic-island-escape-15.json](./315548-magic-island-escape-15.json) |
+| Magic Island Escape 16 | 315550 | [315550-magic-island-escape-16.json](./315550-magic-island-escape-16.json) |
 | Magic Island Escape 2 | 315473 | [315473-magic-island-escape-2.json](./315473-magic-island-escape-2.json) |
 | Magic Island Escape 3 | 315474 | [315474-magic-island-escape-3.json](./315474-magic-island-escape-3.json) |
 | Magic Island Escape 4 | 315477 | [315477-magic-island-escape-4.json](./315477-magic-island-escape-4.json) |
@@ -1491,11 +1499,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnet Crusher | 190903 | [190903-magnet-crusher.json](./190903-magnet-crusher.json) |
 | Magnet Effect | 214010 | [214010-magnet-effect.json](./214010-magnet-effect.json) |
 | Magnet Face | 203091 | [203091-magnet-face.json](./203091-magnet-face.json) |
+| Magnet Girl | 315440 | [315440-magnet-girl.json](./315440-magnet-girl.json) |
 | Magnet Jack | 235665 | [235665-magnet-jack.json](./235665-magnet-jack.json) |
 | Magnet Knights | 99520 | [99520-magnet-knights.json](./99520-magnet-knights.json) |
 | Magnet Mania 3D | 262580 | [262580-magnet-mania-3d.json](./262580-magnet-mania-3d.json) |
 | Magnet Mechs | 184819 | [184819-magnet-mechs.json](./184819-magnet-mechs.json) |
 | Magnet Miner | 354398 | [354398-magnet-miner.json](./354398-magnet-miner.json) |
+| Magnet World Final | 315446 | [315446-magnet-world-final.json](./315446-magnet-world-final.json) |
 | Magneta Box | 190007 | [190007-magneta-box.json](./190007-magneta-box.json) |
 | Magnetball Lite | 253272 | [253272-magnetball-lite.json](./253272-magnetball-lite.json) |
 | Magnetic | 136214 | [136214-magnetic.json](./136214-magnetic.json) |
@@ -14013,6 +14023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Eater | 59659 | [59659-moon-eater.json](./59659-moon-eater.json) |
 | Moon Fall | 122381 | [122381-moon-fall.json](./122381-moon-fall.json) |
 | Moon Farming | 161352 | [161352-moon-farming.json](./161352-moon-farming.json) |
+| Moon Finder | 315434 | [315434-moon-finder.json](./315434-moon-finder.json) |
 | Moon Flight | 84340 | [84340-moon-flight.json](./84340-moon-flight.json) |
 | Moon Games: Lunar Slalom | 100757 | [100757-moon-games-lunar-slalom.json](./100757-moon-games-lunar-slalom.json) |
 | Moon Garden Optimizer | 362589 | [362589-moon-garden-optimizer.json](./362589-moon-garden-optimizer.json) |
