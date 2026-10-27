@@ -9769,6 +9769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike Gunner | 142137 | [142137-mike-gunner.json](./142137-mike-gunner.json) |
 | Mike Piazza's Strike Zone | 3410 | [3410-mike-piazzas-strike-zone.json](./3410-mike-piazzas-strike-zone.json) |
 | Mike Read's Computer Pop Quiz | 71706 | [71706-mike-reads-computer-pop-quiz.json](./71706-mike-reads-computer-pop-quiz.json) |
+| Mike Shadow: I Paid For It! | 329482 | [329482-mike-shadow-i-paid-for-it.json](./329482-mike-shadow-i-paid-for-it.json) |
 | Mike the Cat | 165739 | [165739-mike-the-cat.json](./165739-mike-the-cat.json) |
 | Mike the Knight and The Great Gallop | 84636 | [84636-mike-the-knight-and-the-great-gallop.json](./84636-mike-the-knight-and-the-great-gallop.json) |
 | Mike Tyson Boxing | 209511 | [209511-mike-tyson-boxing.json](./209511-mike-tyson-boxing.json) |
@@ -16623,6 +16624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muster my Monsters | 259074 | [259074-muster-my-monsters.json](./259074-muster-my-monsters.json) |
 | MustScream | 357139 | [357139-mustscream.json](./357139-mustscream.json) |
 | Musuko to Oyome-sama: Wakeari Tsuma ha Jirai-kei Doronuma Story | 240229 | [240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json](./240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json) |
+| Musume | 329463 | [329463-musume.json](./329463-musume.json) |
 | Musya: The Classic Japanese Tale of Horror | 36740 | [36740-musya-the-classic-japanese-tale-of-horror.json](./36740-musya-the-classic-japanese-tale-of-horror.json) |
 | Musynx | 75992 | [75992-musynx.json](./75992-musynx.json) |
 | Musynx: House Theme | 255749 | [255749-musynx-house-theme.json](./255749-musynx-house-theme.json) |
@@ -17533,6 +17535,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Magical Boyfriend | 230179 | [230179-my-magical-boyfriend.json](./230179-my-magical-boyfriend.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
 | My Maid Girlfriend | 107710 | [107710-my-maid-girlfriend.json](./107710-my-maid-girlfriend.json) |
+| My Make Believe Castle | 329472 | [329472-my-make-believe-castle.json](./329472-my-make-believe-castle.json) |
+| My Make Believe Treasure Isle | 329471 | [329471-my-make-believe-treasure-isle.json](./329471-my-make-believe-treasure-isle.json) |
 | My Make-Up | 93985 | [93985-my-make-up.json](./93985-my-make-up.json) |
 | My Many Masks | 422468 | [422468-my-many-masks.json](./422468-my-many-masks.json) |
 | My Mario Game | 335715 | [335715-my-mario-game.json](./335715-my-mario-game.json) |
