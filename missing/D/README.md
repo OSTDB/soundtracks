@@ -7157,6 +7157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Diaries Saga | 105793 | [105793-diamond-diaries-saga.json](./105793-diamond-diaries-saga.json) |
 | Diamond Digger Saga | 391081 | [391081-diamond-digger-saga.json](./391081-diamond-digger-saga.json) |
 | Diamond Dino | 100908 | [100908-diamond-dino.json](./100908-diamond-dino.json) |
+| Diamond Drone | 295209 | [295209-diamond-drone.json](./295209-diamond-drone.json) |
 | Diamond Drop | 70782 | [70782-diamond-drop.json](./70782-diamond-drop.json) |
 | Diamond Gems | 246265 | [246265-diamond-gems.json](./246265-diamond-gems.json) |
 | Diamond Girl: An Earnest Education in Love | 147996 | [147996-diamond-girl-an-earnest-education-in-love.json](./147996-diamond-girl-an-earnest-education-in-love.json) |
@@ -8342,6 +8343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Directory Dungeon | 387158 | [387158-directory-dungeon.json](./387158-directory-dungeon.json) |
 | Direland | 396883 | [396883-direland.json](./396883-direland.json) |
 | Dirge | 145680 | [145680-dirge.json](./145680-dirge.json) |
+| Dirge For The Zone | 295216 | [295216-dirge-for-the-zone.json](./295216-dirge-for-the-zone.json) |
 | Dirge of Cerberus: Final Fantasy VII | 18068 | [18068-dirge-of-cerberus-final-fantasy-vii.json](./18068-dirge-of-cerberus-final-fantasy-vii.json) |
 | Dirge of the Scarlet Star | 387028 | [387028-dirge-of-the-scarlet-star.json](./387028-dirge-of-the-scarlet-star.json) |
 | Dirk Vander Wilt's Kasia | 159141 | [159141-dirk-vander-wilts-kasia.json](./159141-dirk-vander-wilts-kasia.json) |
@@ -10545,6 +10547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Knock Twice | 25646 | [25646-dont-knock-twice.json](./25646-dont-knock-twice.json) |
 | Don't Leave | 285439 | [285439-dont-leave.json](./285439-dont-leave.json) |
 | Don't Let Her In | 305990 | [305990-dont-let-her-in.json](./305990-dont-let-her-in.json) |
+| Don't Let It Die | 295227 | [295227-dont-let-it-die.json](./295227-dont-let-it-die.json) |
 | Don't Let Me Down | 204417 | [204417-dont-let-me-down.json](./204417-dont-let-me-down.json) |
 | Don't Let Me Fade | 352220 | [352220-dont-let-me-fade.json](./352220-dont-let-me-fade.json) |
 | Don't Let Me Rot | 365209 | [365209-dont-let-me-rot.json](./365209-dont-let-me-rot.json) |
