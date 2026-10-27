@@ -6459,6 +6459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of Donkey Island | 276321 | [276321-pirates-of-donkey-island.json](./276321-pirates-of-donkey-island.json) |
 | Pirates of Everseas | 89524 | [89524-pirates-of-everseas.json](./89524-pirates-of-everseas.json) |
 | Pirates of First Star | 115668 | [115668-pirates-of-first-star.json](./115668-pirates-of-first-star.json) |
+| Pirates of Gensokyo | 324287 | [324287-pirates-of-gensokyo.json](./324287-pirates-of-gensokyo.json) |
 | Pirates of Gravitae | 182296 | [182296-pirates-of-gravitae.json](./182296-pirates-of-gravitae.json) |
 | Pirates of Heaven | 237240 | [237240-pirates-of-heaven.json](./237240-pirates-of-heaven.json) |
 | Pirates of New Horizons | 65361 | [65361-pirates-of-new-horizons.json](./65361-pirates-of-new-horizons.json) |
@@ -8980,6 +8981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poison Heart | 308242 | [308242-poison-heart.json](./308242-poison-heart.json) |
 | Poison Selection | 394551 | [394551-poison-selection.json](./394551-poison-selection.json) |
 | Poisoner | 110532 | [110532-poisoner.json](./110532-poisoner.json) |
+| Poisonous Abyss | 324271 | [324271-poisonous-abyss.json](./324271-poisonous-abyss.json) |
 | Pòjìng Kǒngjù | 160187 | [160187-pojing-kongju.json](./160187-pojing-kongju.json) |
 | Pok The Little Artiste | 279557 | [279557-pok-the-little-artiste.json](./279557-pok-the-little-artiste.json) |
 | Poka-poka Mama Koi Onsen: Mommy's Warm Hot Sprint | 288432 | [288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json](./288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json) |
@@ -13123,6 +13125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
 | Project 3 VR | 98586 | [98586-project-3-vr.json](./98586-project-3-vr.json) |
 | Project 37 | 110224 | [110224-project-37.json](./110224-project-37.json) |
+| Project 38 | 324261 | [324261-project-38.json](./324261-project-38.json) |
 | Project 44: Enlightenment | 220657 | [220657-project-44-enlightenment.json](./220657-project-44-enlightenment.json) |
 | Project 5: Sightseer | 76122 | [76122-project-5-sightseer.json](./76122-project-5-sightseer.json) |
 | Project 59 | 105222 | [105222-project-59.json](./105222-project-59.json) |
