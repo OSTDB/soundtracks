@@ -2674,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onrush: Digital Deluxe Edition | 91319 | [91319-onrush-digital-deluxe-edition.json](./91319-onrush-digital-deluxe-edition.json) |
 | Onryo | 132270 | [132270-onryo.json](./132270-onryo.json) |
 | Onryou Senki | 77561 | [77561-onryou-senki.json](./77561-onryou-senki.json) |
+| Onsei Kanjou Sokuteiki: Kokoro Scan | 314324 | [314324-onsei-kanjou-sokuteiki-kokoro-scan.json](./314324-onsei-kanjou-sokuteiki-kokoro-scan.json) |
 | Onsen MILF Rainbow Party | 393380 | [393380-onsen-milf-rainbow-party.json](./393380-onsen-milf-rainbow-party.json) |
 | Onsen mo Issho | 246072 | [246072-onsen-mo-issho.json](./246072-onsen-mo-issho.json) |
 | Onsen Nozokimi Daisakusen | 306679 | [306679-onsen-nozokimi-daisakusen.json](./306679-onsen-nozokimi-daisakusen.json) |
