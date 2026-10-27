@@ -7362,6 +7362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love in Lockdown: Ella version | 259479 | [259479-love-in-lockdown-ella-version.json](./259479-love-in-lockdown-ella-version.json) |
 | Love in Login | 229512 | [229512-love-in-login.json](./229512-love-in-login.json) |
 | Love in School | 105695 | [105695-love-in-school.json](./105695-love-in-school.json) |
+| Love in Space | 309917 | [309917-love-in-space.json](./309917-love-in-space.json) |
 | Love in the Crimson Void | 288898 | [288898-love-in-the-crimson-void.json](./288898-love-in-the-crimson-void.json) |
 | Love in the Glen | 33083 | [33083-love-in-the-glen.json](./33083-love-in-the-glen.json) |
 | Love in the Limelight | 119589 | [119589-love-in-the-limelight.json](./119589-love-in-the-limelight.json) |
@@ -8334,6 +8335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Mountain | 236923 | [236923-lunar-mountain.json](./236923-lunar-mountain.json) |
 | Lunar Mystery 2103 | 387480 | [387480-lunar-mystery-2103.json](./387480-lunar-mystery-2103.json) |
 | Lunar New Year Lanterns | 369879 | [369879-lunar-new-year-lanterns.json](./369879-lunar-new-year-lanterns.json) |
+| Lunar Nightmare | 309927 | [309927-lunar-nightmare.json](./309927-lunar-nightmare.json) |
 | Lunar Outpost | 317545 | [317545-lunar-outpost.json](./317545-lunar-outpost.json) |
 | Lunar Pulse | 399416 | [399416-lunar-pulse.json](./399416-lunar-pulse.json) |
 | Lunar Racer | 259246 | [259246-lunar-racer.json](./259246-lunar-racer.json) |
