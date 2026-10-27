@@ -11151,6 +11151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Dreamgirl | 186084 | [186084-doomsday-dreamgirl.json](./186084-doomsday-dreamgirl.json) |
 | Doomsday Hero | 156042 | [156042-doomsday-hero.json](./156042-doomsday-hero.json) |
 | Doomsday Hunters | 129042 | [129042-doomsday-hunters.json](./129042-doomsday-hunters.json) |
+| Doomsday Hunters: Boss Rush Mega Pack | 308843 | [308843-doomsday-hunters-boss-rush-mega-pack.json](./308843-doomsday-hunters-boss-rush-mega-pack.json) |
 | Doomsday Lonely town | 275811 | [275811-doomsday-lonely-town.json](./275811-doomsday-lonely-town.json) |
 | Doomsday of UAC | 252367 | [252367-doomsday-of-uac.json](./252367-doomsday-of-uac.json) |
 | Doomsday on Demand | 104037 | [104037-doomsday-on-demand.json](./104037-doomsday-on-demand.json) |
