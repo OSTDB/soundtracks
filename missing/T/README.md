@@ -4900,6 +4900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Agent Saga: Rover Rescue | 54434 | [54434-the-agent-saga-rover-rescue.json](./54434-the-agent-saga-rover-rescue.json) |
 | The Agony | 30028 | [30028-the-agony.json](./30028-the-agony.json) |
 | The Ai Games | 286767 | [286767-the-ai-games.json](./286767-the-ai-games.json) |
+| The Aids Avenger | 281863 | [281863-the-aids-avenger.json](./281863-the-aids-avenger.json) |
 | The Air Ruler | 285489 | [285489-the-air-ruler.json](./285489-the-air-ruler.json) |
 | The Airflow Trials | 347363 | [347363-the-airflow-trials.json](./347363-the-airflow-trials.json) |
 | The Airline Project | 52525 | [52525-the-airline-project.json](./52525-the-airline-project.json) |
@@ -12709,6 +12710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paupers | 275698 | [275698-the-paupers.json](./275698-the-paupers.json) |
 | The Pauser | 317299 | [317299-the-pauser.json](./317299-the-pauser.json) |
 | The Pawn | 12193 | [12193-the-pawn.json](./12193-the-pawn.json) |
+| The Pay is Nice | 281866 | [281866-the-pay-is-nice.json](./281866-the-pay-is-nice.json) |
 | The Payphone | 398484 | [398484-the-payphone.json](./398484-the-payphone.json) |
 | The Peace Keepers | 44465 | [44465-the-peace-keepers.json](./44465-the-peace-keepers.json) |
 | The Peacekeeper | 307300 | [307300-the-peacekeeper.json](./307300-the-peacekeeper.json) |
@@ -13373,6 +13375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Resolve | 188445 | [188445-the-resolve.json](./188445-the-resolve.json) |
 | The Resonance Initiative | 405691 | [405691-the-resonance-initiative.json](./405691-the-resonance-initiative.json) |
 | The Resonant | 289971 | [289971-the-resonant.json](./289971-the-resonant.json) |
+| The Respawn Banter | 281850 | [281850-the-respawn-banter.json](./281850-the-respawn-banter.json) |
 | The Rest is Silence | 271770 | [271770-the-rest-is-silence.json](./271770-the-rest-is-silence.json) |
 | The Restaurant Game | 69533 | [69533-the-restaurant-game.json](./69533-the-restaurant-game.json) |
 | The Restless | 133873 | [133873-the-restless.json](./133873-the-restless.json) |
@@ -13483,6 +13486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road Less Taken | 219122 | [219122-the-road-less-taken.json](./219122-the-road-less-taken.json) |
 | The Road Not Taken | 349968 | [349968-the-road-not-taken.json](./349968-the-road-not-taken.json) |
 | The Road of Dust and Sorrow | 361053 | [361053-the-road-of-dust-and-sorrow.json](./361053-the-road-of-dust-and-sorrow.json) |
+| The Road of Heroes | 282034 | [282034-the-road-of-heroes.json](./282034-the-road-of-heroes.json) |
 | The Road to 56 | 256449 | [256449-the-road-to-56.json](./256449-the-road-to-56.json) |
 | The Road to Baghdad | 24108 | [24108-the-road-to-baghdad.json](./24108-the-road-to-baghdad.json) |
 | The Road to Canterbury | 96661 | [96661-the-road-to-canterbury.json](./96661-the-road-to-canterbury.json) |
@@ -13909,6 +13913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers: Rise of Cultures | 132810 | [132810-the-settlers-rise-of-cultures.json](./132810-the-settlers-rise-of-cultures.json) |
 | The Seven | 356616 | [356616-the-seven.json](./356616-the-seven.json) |
 | The Seven Bad Apples | 382748 | [382748-the-seven-bad-apples.json](./382748-the-seven-bad-apples.json) |
+| The Seven Betrayers | 282033 | [282033-the-seven-betrayers.json](./282033-the-seven-betrayers.json) |
 | The Seven Cities of Gold | 8994 | [8994-the-seven-cities-of-gold.json](./8994-the-seven-cities-of-gold.json) |
 | The Seven Cities of Gold: Commemorative Edition | 8996 | [8996-the-seven-cities-of-gold-commemorative-edition.json](./8996-the-seven-cities-of-gold-commemorative-edition.json) |
 | The Seven Colors: Legend of Psys City | 137903 | [137903-the-seven-colors-legend-of-psys-city.json](./137903-the-seven-colors-legend-of-psys-city.json) |
@@ -15862,6 +15867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Valley | 94585 | [94585-the-valley.json](./94585-the-valley.json) |
 | The Valley Beyond | 373132 | [373132-the-valley-beyond.json](./373132-the-valley-beyond.json) |
 | The Valley In My Mind | 76353 | [76353-the-valley-in-my-mind.json](./76353-the-valley-in-my-mind.json) |
+| The Valley of the Architects | 282039 | [282039-the-valley-of-the-architects.json](./282039-the-valley-of-the-architects.json) |
 | The Vamp | 254552 | [254552-the-vamp.json](./254552-the-vamp.json) |
 | The Vampire | 292250 | [292250-the-vampire.json](./292250-the-vampire.json) |
 | The Vampire Lord of Valea Noapte | 179519 | [179519-the-vampire-lord-of-valea-noapte.json](./179519-the-vampire-lord-of-valea-noapte.json) |
@@ -16486,6 +16492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World Ends with You: Final Remix | 81143 | [81143-the-world-ends-with-you-final-remix.json](./81143-the-world-ends-with-you-final-remix.json) |
 | The World Ends With You: Live Remix | 288144 | [288144-the-world-ends-with-you-live-remix.json](./288144-the-world-ends-with-you-live-remix.json) |
 | The World Ends With You: Noise Busters | 306596 | [306596-the-world-ends-with-you-noise-busters.json](./306596-the-world-ends-with-you-noise-busters.json) |
+| The World Has Gone | 282040 | [282040-the-world-has-gone.json](./282040-the-world-has-gone.json) |
 | The World Hockey Championships | 242684 | [242684-the-world-hockey-championships.json](./242684-the-world-hockey-championships.json) |
 | The World II: Hunting Boss | 17843 | [17843-the-world-ii-hunting-boss.json](./17843-the-world-ii-hunting-boss.json) |
 | The World is Binary: Why Love is the Answer | 195562 | [195562-the-world-is-binary-why-love-is-the-answer.json](./195562-the-world-is-binary-why-love-is-the-answer.json) |
@@ -16977,6 +16984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Came From the Moon | 33790 | [33790-they-came-from-the-moon.json](./33790-they-came-from-the-moon.json) |
 | They came from the Skies | 54197 | [54197-they-came-from-the-skies.json](./54197-they-came-from-the-skies.json) |
 | They Came From the Sky | 118328 | [118328-they-came-from-the-sky.json](./118328-they-came-from-the-sky.json) |
+| They Came From Venus | 282038 | [282038-they-came-from-venus.json](./282038-they-came-from-venus.json) |
 | They Can Fart | 295301 | [295301-they-can-fart.json](./295301-they-can-fart.json) |
 | They Cannot Hear Me | 343164 | [343164-they-cannot-hear-me.json](./343164-they-cannot-hear-me.json) |
 | They Come at Poop Time | 185355 | [185355-they-come-at-poop-time.json](./185355-they-come-at-poop-time.json) |
@@ -17018,6 +17026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Watch From the Walls | 181930 | [181930-they-watch-from-the-walls.json](./181930-they-watch-from-the-walls.json) |
 | They Were Here First | 421316 | [421316-they-were-here-first.json](./421316-they-were-here-first.json) |
 | They Whisper Softly to Me | 28211 | [28211-they-whisper-softly-to-me.json](./28211-they-whisper-softly-to-me.json) |
+| They Who Dwell Below | 282037 | [282037-they-who-dwell-below.json](./282037-they-who-dwell-below.json) |
 | They Will Come | 389421 | [389421-they-will-come.json](./389421-they-will-come.json) |
 | They Won't Get Our Eggs! | 365604 | [365604-they-wont-get-our-eggs.json](./365604-they-wont-get-our-eggs.json) |
 | They Сame From Above | 192709 | [192709-they-ame-from-above.json](./192709-they-ame-from-above.json) |
@@ -17098,6 +17107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thin Judgment | 43090 | [43090-thin-judgment.json](./43090-thin-judgment.json) |
 | Thin Line | 333759 | [333759-thin-line.json](./333759-thin-line.json) |
 | Thin Threads | 332415 | [332415-thin-threads.json](./332415-thin-threads.json) |
+| Thin Way | 282036 | [282036-thin-way.json](./282036-thin-way.json) |
 | Thine Cometh | 184258 | [184258-thine-cometh.json](./184258-thine-cometh.json) |
 | Thine Rogueth | 374229 | [374229-thine-rogueth.json](./374229-thine-rogueth.json) |
 | Thing & Fist | 324259 | [324259-thing-and-fist.json](./324259-thing-and-fist.json) |
@@ -17415,6 +17425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thousands Layered Blade: Reforged | 327168 | [327168-thousands-layered-blade-reforged.json](./327168-thousands-layered-blade-reforged.json) |
 | Thousands Layered Edge | 142123 | [142123-thousands-layered-edge.json](./142123-thousands-layered-edge.json) |
 | Thousands of Chroma | 412896 | [412896-thousands-of-chroma.json](./412896-thousands-of-chroma.json) |
+| Thousands of Heroes | 282035 | [282035-thousands-of-heroes.json](./282035-thousands-of-heroes.json) |
 | Thousands Rooms Under the Reality | 258091 | [258091-thousands-rooms-under-the-reality.json](./258091-thousands-rooms-under-the-reality.json) |
 | Thrae | 337576 | [337576-thrae.json](./337576-thrae.json) |
 | Thrall of the Dying Sun | 177517 | [177517-thrall-of-the-dying-sun.json](./177517-thrall-of-the-dying-sun.json) |
@@ -17977,6 +17988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tide: 1932 | 338964 | [338964-tide-1932.json](./338964-tide-1932.json) |
 | Tideborne | 378363 | [378363-tideborne.json](./378363-tideborne.json) |
 | Tideborne Haven | 402429 | [402429-tideborne-haven.json](./402429-tideborne-haven.json) |
+| Tidebound | 282041 | [282041-tidebound.json](./282041-tidebound.json) |
 | Tidebreaker | 373568 | [373568-tidebreaker.json](./373568-tidebreaker.json) |
 | Tideheart | 420221 | [420221-tideheart.json](./420221-tideheart.json) |
 | Tidepool | 407503 | [407503-tidepool.json](./407503-tidepool.json) |
@@ -19490,6 +19502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TiltBill | 224995 | [224995-tiltbill.json](./224995-tiltbill.json) |
 | Tilted | 261130 | [261130-tilted.json](./261130-tilted.json) |
 | Tilted Mind | 36484 | [36484-tilted-mind.json](./36484-tilted-mind.json) |
+| Tilted Tennis | 282042 | [282042-tilted-tennis.json](./282042-tilted-tennis.json) |
 | Tilted: A Tale of Refraction | 51947 | [51947-tilted-a-tale-of-refraction.json](./51947-tilted-a-tale-of-refraction.json) |
 | Tiltfire | 199604 | [199604-tiltfire.json](./199604-tiltfire.json) |
 | Tilting | 416794 | [416794-tilting.json](./416794-tilting.json) |
@@ -23869,6 +23882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trafic Road Rush | 111869 | [111869-trafic-road-rush.json](./111869-trafic-road-rush.json) |
 | Trafico | 81797 | [81797-trafico.json](./81797-trafico.json) |
 | Tragedy at Ashville Lane | 329459 | [329459-tragedy-at-ashville-lane.json](./329459-tragedy-at-ashville-lane.json) |
+| Tragedy in Reality | 282166 | [282166-tragedy-in-reality.json](./282166-tragedy-in-reality.json) |
 | Tragedy of Loneliness | 158614 | [158614-tragedy-of-loneliness.json](./158614-tragedy-of-loneliness.json) |
 | Tragedy of Prince Rupert | 50891 | [50891-tragedy-of-prince-rupert.json](./50891-tragedy-of-prince-rupert.json) |
 | Tragedy Theater | 260164 | [260164-tragedy-theater.json](./260164-tragedy-theater.json) |
@@ -27436,6 +27450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuki no Namida | 277953 | [277953-tsuki-no-namida.json](./277953-tsuki-no-namida.json) |
 | Tsuki no Sabaki | 413801 | [413801-tsuki-no-sabaki.json](./413801-tsuki-no-sabaki.json) |
 | Tsuki no Shoujo: Bishoujo Gakuen 2 | 194622 | [194622-tsuki-no-shoujo-bishoujo-gakuen-2.json](./194622-tsuki-no-shoujo-bishoujo-gakuen-2.json) |
+| Tsuki no Uroko | 282171 | [282171-tsuki-no-uroko.json](./282171-tsuki-no-uroko.json) |
 | Tsuki to Taiyou no Raksharuki | 194926 | [194926-tsuki-to-taiyou-no-raksharuki.json](./194926-tsuki-to-taiyou-no-raksharuki.json) |
 | Tsuki to Taiyou no Raksharuki 2: Sabaku no Kuni no Ohime-sama | 194927 | [194927-tsuki-to-taiyou-no-raksharuki-2-sabaku-no-kuni-no-ohime-sama.json](./194927-tsuki-to-taiyou-no-raksharuki-2-sabaku-no-kuni-no-ohime-sama.json) |
 | Tsuki to Taiyou no Raksharuki: Dancers Harem | 194928 | [194928-tsuki-to-taiyou-no-raksharuki-dancers-harem.json](./194928-tsuki-to-taiyou-no-raksharuki-dancers-harem.json) |
