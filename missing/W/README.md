@@ -2488,7 +2488,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Hunt Them in the Dark | 356693 | [356693-we-hunt-them-in-the-dark.json](./356693-we-hunt-them-in-the-dark.json) |
 | We Interns | 357252 | [357252-we-interns.json](./357252-we-interns.json) |
 | We Kill Monsters | 255092 | [255092-we-kill-monsters.json](./255092-we-kill-monsters.json) |
-| We Know the Devil | 27870 | [27870-we-know-the-devil.json](./27870-we-know-the-devil.json) |
 | We Like It Here | 315447 | [315447-we-like-it-here.json](./315447-we-like-it-here.json) |
 | We Live Inside A Dream | 305816 | [305816-we-live-inside-a-dream.json](./305816-we-live-inside-a-dream.json) |
 | We Lost Our Human | 256874 | [256874-we-lost-our-human.json](./256874-we-lost-our-human.json) |
@@ -5040,7 +5039,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Prey: Special Edition | 51778 | [51778-wings-of-prey-special-edition.json](./51778-wings-of-prey-special-edition.json) |
 | Wings of the Kite in Sky | 338364 | [338364-wings-of-the-kite-in-sky.json](./338364-wings-of-the-kite-in-sky.json) |
 | Wings of the Universe | 216838 | [216838-wings-of-the-universe.json](./216838-wings-of-the-universe.json) |
-| Wings of Vi | 9284 | [9284-wings-of-vi.json](./9284-wings-of-vi.json) |
 | Wings of Virtus | 112772 | [112772-wings-of-virtus.json](./112772-wings-of-virtus.json) |
 | Wings of War | 6235 | [6235-wings-of-war.json](./6235-wings-of-war.json) |
 | Wings of War: Famous Aces | 53045 | [53045-wings-of-war-famous-aces.json](./53045-wings-of-war-famous-aces.json) |
