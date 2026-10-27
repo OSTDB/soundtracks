@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-27T00:33:42.541Z",
-  "total_missing": 267575,
+  "generated_at": "2026-10-27T00:51:47.964Z",
+  "total_missing": 267627,
   "games": [
     {
       "igdb_id": 191680,
@@ -10715,6 +10715,11 @@
       "igdb_id": 377376,
       "game_name": "3xtinction: Broken Mind Mercenaries Pack",
       "file": "missing/0-9/377376-3xtinction-broken-mind-mercenaries-pack.json"
+    },
+    {
+      "igdb_id": 331244,
+      "game_name": "3xtinction: Deluxe Edition",
+      "file": "missing/0-9/331244-3xtinction-deluxe-edition.json"
     },
     {
       "igdb_id": 377377,
@@ -34322,6 +34327,11 @@
       "file": "missing/A/395818-age-of-mythology-retold-obsidian-mirror.json"
     },
     {
+      "igdb_id": 331245,
+      "game_name": "Age of Mythology: Retold - Premium Edition",
+      "file": "missing/A/331245-age-of-mythology-retold-premium-edition.json"
+    },
+    {
       "igdb_id": 13186,
       "game_name": "Age of Mythology: Tale of the Dragon",
       "file": "missing/A/13186-age-of-mythology-tale-of-the-dragon.json"
@@ -49900,6 +49910,11 @@
       "igdb_id": 334668,
       "game_name": "Ambulance Life: A Paramedic Simulator - Bay Side Expansion",
       "file": "missing/A/334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json"
+    },
+    {
+      "igdb_id": 331246,
+      "game_name": "Ambulance Life: Deluxe Edition",
+      "file": "missing/A/331246-ambulance-life-deluxe-edition.json"
     },
     {
       "igdb_id": 221712,
@@ -82582,6 +82597,16 @@
       "file": "missing/A/315620-astroneer-glitchwalkers.json"
     },
     {
+      "igdb_id": 331247,
+      "game_name": "Astroneer: Glitchwalkers - Deluxe Edition",
+      "file": "missing/A/331247-astroneer-glitchwalkers-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 331248,
+      "game_name": "Astroneer: Glitchwalkers Edition",
+      "file": "missing/A/331248-astroneer-glitchwalkers-edition.json"
+    },
+    {
       "igdb_id": 234027,
       "game_name": "Astroneer: Jet Powered",
       "file": "missing/A/234027-astroneer-jet-powered.json"
@@ -87290,6 +87315,11 @@
       "igdb_id": 67694,
       "game_name": "Aurora Feint II: Tower Puzzles",
       "file": "missing/A/67694-aurora-feint-ii-tower-puzzles.json"
+    },
+    {
+      "igdb_id": 331238,
+      "game_name": "Aurora Flight",
+      "file": "missing/A/331238-aurora-flight.json"
     },
     {
       "igdb_id": 374762,
@@ -96245,6 +96275,11 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
+    },
+    {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -149027,6 +149062,11 @@
       "file": "missing/B/24774-borgia.json"
     },
     {
+      "igdb_id": 331213,
+      "game_name": "Borgo the Cat",
+      "file": "missing/B/331213-borgo-the-cat.json"
+    },
+    {
       "igdb_id": 279734,
       "game_name": "BorielZONE",
       "file": "missing/B/279734-borielzone.json"
@@ -149695,6 +149735,11 @@
       "igdb_id": 327813,
       "game_name": "Boti: Byteland Overclocked - Bitosaurus",
       "file": "missing/B/327813-boti-byteland-overclocked-bitosaurus.json"
+    },
+    {
+      "igdb_id": 331249,
+      "game_name": "Boti: Byteland Overclocked - Deluxe Edition",
+      "file": "missing/B/331249-boti-byteland-overclocked-deluxe-edition.json"
     },
     {
       "igdb_id": 285112,
@@ -158680,6 +158725,11 @@
       "igdb_id": 84432,
       "game_name": "Bright Shadow",
       "file": "missing/B/84432-bright-shadow.json"
+    },
+    {
+      "igdb_id": 331250,
+      "game_name": "Bright Side: Quiz - Complete Edition",
+      "file": "missing/B/331250-bright-side-quiz-complete-edition.json"
     },
     {
       "igdb_id": 265393,
@@ -173040,6 +173090,11 @@
       "igdb_id": 373569,
       "game_name": "Call of Duty: Black Ops 6 - Season 6",
       "file": "missing/C/373569-call-of-duty-black-ops-6-season-6.json"
+    },
+    {
+      "igdb_id": 331251,
+      "game_name": "Call of Duty: Black Ops 6 - Vault Edition",
+      "file": "missing/C/331251-call-of-duty-black-ops-6-vault-edition.json"
     },
     {
       "igdb_id": 152117,
@@ -194557,6 +194612,11 @@
       "file": "missing/C/225624-chao-adventure-2.json"
     },
     {
+      "igdb_id": 331221,
+      "game_name": "Chao Adventure Legends",
+      "file": "missing/C/331221-chao-adventure-legends.json"
+    },
+    {
       "igdb_id": 122870,
       "game_name": "Chao Dream Touch! Happy Anniversary",
       "file": "missing/C/122870-chao-dream-touch-happy-anniversary.json"
@@ -209450,6 +209510,11 @@
       "igdb_id": 280681,
       "game_name": "City Transport Simulator: Tram",
       "file": "missing/C/280681-city-transport-simulator-tram.json"
+    },
+    {
+      "igdb_id": 331252,
+      "game_name": "City Transport Simulator: Tram - Collector's Edition",
+      "file": "missing/C/331252-city-transport-simulator-tram-collectors-edition.json"
     },
     {
       "igdb_id": 331271,
@@ -231240,6 +231305,11 @@
       "igdb_id": 134918,
       "game_name": "Core Stratagem",
       "file": "missing/C/134918-core-stratagem.json"
+    },
+    {
+      "igdb_id": 331240,
+      "game_name": "Core Trials",
+      "file": "missing/C/331240-core-trials.json"
     },
     {
       "igdb_id": 143413,
@@ -270132,6 +270202,11 @@
       "file": "missing/D/127102-days-gone-by.json"
     },
     {
+      "igdb_id": 331216,
+      "game_name": "Days Gone: Broken Road",
+      "file": "missing/D/331216-days-gone-broken-road.json"
+    },
+    {
       "igdb_id": 321218,
       "game_name": "Days Gone: Challenge Mode",
       "file": "missing/D/321218-days-gone-challenge-mode.json"
@@ -278165,6 +278240,11 @@
       "igdb_id": 239561,
       "game_name": "Deceit 2",
       "file": "missing/D/239561-deceit-2.json"
+    },
+    {
+      "igdb_id": 331267,
+      "game_name": "Deceit 2: Master Edition",
+      "file": "missing/D/331267-deceit-2-master-edition.json"
     },
     {
       "igdb_id": 227945,
@@ -300722,6 +300802,11 @@
       "file": "missing/D/266853-disney-dreamlight-valley-enchanted-adventure.json"
     },
     {
+      "igdb_id": 331226,
+      "game_name": "Disney Dreamlight Valley: Enchanted Edition",
+      "file": "missing/D/331226-disney-dreamlight-valley-enchanted-edition.json"
+    },
+    {
       "igdb_id": 279247,
       "game_name": "Disney Dreamlight Valley: Gold Edition",
       "file": "missing/D/279247-disney-dreamlight-valley-gold-edition.json"
@@ -300770,6 +300855,11 @@
       "igdb_id": 252303,
       "game_name": "Disney Dreamlight Valley: The Remembering",
       "file": "missing/D/252303-disney-dreamlight-valley-the-remembering.json"
+    },
+    {
+      "igdb_id": 331227,
+      "game_name": "Disney Dreamlight Valley: The Storybook Vale Bundle",
+      "file": "missing/D/331227-disney-dreamlight-valley-the-storybook-vale-bundle.json"
     },
     {
       "igdb_id": 381099,
@@ -337642,6 +337732,11 @@
       "file": "missing/D/181765-dying-in-dungeon.json"
     },
     {
+      "igdb_id": 331266,
+      "game_name": "Dying Light 2 Stay Human: Digital Extras Edition",
+      "file": "missing/D/331266-dying-light-2-stay-human-digital-extras-edition.json"
+    },
+    {
       "igdb_id": 214400,
       "game_name": "Dying Light 2: Stay Human - Bloody Ties",
       "file": "missing/D/214400-dying-light-2-stay-human-bloody-ties.json"
@@ -344220,6 +344315,11 @@
       "igdb_id": 214504,
       "game_name": "Edge of Sanity",
       "file": "missing/E/214504-edge-of-sanity.json"
+    },
+    {
+      "igdb_id": 331265,
+      "game_name": "Edge of Sanity: Eldritch Edition",
+      "file": "missing/E/331265-edge-of-sanity-eldritch-edition.json"
     },
     {
       "igdb_id": 324416,
@@ -378205,6 +378305,11 @@
       "igdb_id": 190892,
       "game_name": "Fall in Duty",
       "file": "missing/F/190892-fall-in-duty.json"
+    },
+    {
+      "igdb_id": 331237,
+      "game_name": "Fall in Flowers",
+      "file": "missing/F/331237-fall-in-flowers.json"
     },
     {
       "igdb_id": 167382,
@@ -427655,6 +427760,11 @@
       "igdb_id": 307334,
       "game_name": "Frozen Fruits",
       "file": "missing/F/307334-frozen-fruits.json"
+    },
+    {
+      "igdb_id": 331243,
+      "game_name": "Frozen Gauntlet",
+      "file": "missing/F/331243-frozen-gauntlet.json"
     },
     {
       "igdb_id": 311460,
@@ -493322,6 +493432,11 @@
       "file": "missing/H/317360-haunted-starbase.json"
     },
     {
+      "igdb_id": 331236,
+      "game_name": "Haunted Streamer",
+      "file": "missing/H/331236-haunted-streamer.json"
+    },
+    {
       "igdb_id": 99503,
       "game_name": "Haunted Theme Park Hidden Object",
       "file": "missing/H/99503-haunted-theme-park-hidden-object.json"
@@ -544317,6 +544432,11 @@
       "file": "missing/I/146130-il-2-sturmovik-ultimate-edition.json"
     },
     {
+      "igdb_id": 331235,
+      "game_name": "IL13-Sonya E-Links",
+      "file": "missing/I/331235-il13-sonya-e-links.json"
+    },
+    {
       "igdb_id": 36133,
       "game_name": "Ilamentia",
       "file": "missing/I/36133-ilamentia.json"
@@ -594502,6 +594622,11 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
+    },
+    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -628532,6 +628657,16 @@
       "file": "missing/L/144776-life-is-strange-before-the-storm-remastered.json"
     },
     {
+      "igdb_id": 331257,
+      "game_name": "Life is Strange: Double Exposure - Deluxe Edition",
+      "file": "missing/L/331257-life-is-strange-double-exposure-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 331258,
+      "game_name": "Life is Strange: Double Exposure - Ultimate Edition",
+      "file": "missing/L/331258-life-is-strange-double-exposure-ultimate-edition.json"
+    },
+    {
       "igdb_id": 93914,
       "game_name": "Life is Strange: Episode 1 - Chrysalis",
       "file": "missing/L/93914-life-is-strange-episode-1-chrysalis.json"
@@ -650772,6 +650907,11 @@
       "file": "missing/L/189103-luna-supernatural-hunter.json"
     },
     {
+      "igdb_id": 331220,
+      "game_name": "Luna's Cathouse",
+      "file": "missing/L/331220-lunas-cathouse.json"
+    },
+    {
       "igdb_id": 382532,
       "game_name": "Luna's Diary",
       "file": "missing/L/382532-lunas-diary.json"
@@ -668005,6 +668145,11 @@
       "igdb_id": 213970,
       "game_name": "Marine Survivors",
       "file": "missing/M/213970-marine-survivors.json"
+    },
+    {
+      "igdb_id": 331230,
+      "game_name": "Marine Survivors",
+      "file": "missing/M/331230-marine-survivors.json"
     },
     {
       "igdb_id": 243393,
@@ -698007,6 +698152,11 @@
       "file": "missing/M/252830-microsoft-flight-simulator-2024.json"
     },
     {
+      "igdb_id": 331260,
+      "game_name": "Microsoft Flight Simulator 2024: Aviator Edition",
+      "file": "missing/M/331260-microsoft-flight-simulator-2024-aviator-edition.json"
+    },
+    {
       "igdb_id": 362039,
       "game_name": "Microsoft Flight Simulator 2024: City Update 12 - Germany 2",
       "file": "missing/M/362039-microsoft-flight-simulator-2024-city-update-12-germany-2.json"
@@ -698017,9 +698167,19 @@
       "file": "missing/M/415296-microsoft-flight-simulator-2024-city-update-16-italy.json"
     },
     {
+      "igdb_id": 331261,
+      "game_name": "Microsoft Flight Simulator 2024: Deluxe Edition",
+      "file": "missing/M/331261-microsoft-flight-simulator-2024-deluxe-edition.json"
+    },
+    {
       "igdb_id": 405085,
       "game_name": "Microsoft Flight Simulator 2024: National Championship Air Races",
       "file": "missing/M/405085-microsoft-flight-simulator-2024-national-championship-air-races.json"
+    },
+    {
+      "igdb_id": 331262,
+      "game_name": "Microsoft Flight Simulator 2024: Premium Deluxe Edition",
+      "file": "missing/M/331262-microsoft-flight-simulator-2024-premium-deluxe-edition.json"
     },
     {
       "igdb_id": 370133,
@@ -720187,6 +720347,11 @@
       "file": "missing/M/192982-monster-phenomenon.json"
     },
     {
+      "igdb_id": 331232,
+      "game_name": "Monster Physics",
+      "file": "missing/M/331232-monster-physics.json"
+    },
+    {
       "igdb_id": 56841,
       "game_name": "Monster Pitfall",
       "file": "missing/M/56841-monster-pitfall.json"
@@ -723910,6 +724075,11 @@
       "igdb_id": 272449,
       "game_name": "Mordhau: Archduke Set",
       "file": "missing/M/272449-mordhau-archduke-set.json"
+    },
+    {
+      "igdb_id": 331263,
+      "game_name": "Mordhau: Diamond Edition",
+      "file": "missing/M/331263-mordhau-diamond-edition.json"
     },
     {
       "igdb_id": 256429,
@@ -819792,6 +819962,11 @@
       "file": "missing/P/135215-peachs-christmas-invitation.json"
     },
     {
+      "igdb_id": 331229,
+      "game_name": "Peach's Journey",
+      "file": "missing/P/331229-peachs-journey.json"
+    },
+    {
       "igdb_id": 78941,
       "game_name": "Peachboy Legend",
       "file": "missing/P/78941-peachboy-legend.json"
@@ -825342,6 +825517,11 @@
       "file": "missing/P/314303-pets.json"
     },
     {
+      "igdb_id": 331219,
+      "game_name": "Pets",
+      "file": "missing/P/331219-pets.json"
+    },
+    {
       "igdb_id": 335355,
       "game_name": "Pets and Friends",
       "file": "missing/P/335355-pets-and-friends.json"
@@ -827140,6 +827320,11 @@
       "igdb_id": 407387,
       "game_name": "Phantom's Hour",
       "file": "missing/P/407387-phantoms-hour.json"
+    },
+    {
+      "igdb_id": 331234,
+      "game_name": "Phantomancer",
+      "file": "missing/P/331234-phantomancer.json"
     },
     {
       "igdb_id": 37029,
@@ -906237,6 +906422,11 @@
       "file": "missing/R/385946-red-out-block-aim-shooting.json"
     },
     {
+      "igdb_id": 331241,
+      "game_name": "Red Panda is Hungry",
+      "file": "missing/R/331241-red-panda-is-hungry.json"
+    },
+    {
       "igdb_id": 331512,
       "game_name": "Red Panda x Cats Bundle",
       "file": "missing/R/331512-red-panda-x-cats-bundle.json"
@@ -931865,6 +932055,11 @@
       "igdb_id": 293989,
       "game_name": "Rogue Girl",
       "file": "missing/R/293989-rogue-girl.json"
+    },
+    {
+      "igdb_id": 331239,
+      "game_name": "Rogue Gladius Survivors",
+      "file": "missing/R/331239-rogue-gladius-survivors.json"
     },
     {
       "igdb_id": 275900,
@@ -1016897,6 +1017092,11 @@
       "file": "missing/S/326161-sonic-an-untold-darkness.json"
     },
     {
+      "igdb_id": 331225,
+      "game_name": "Sonic and Ice",
+      "file": "missing/S/331225-sonic-and-ice.json"
+    },
+    {
       "igdb_id": 330722,
       "game_name": "Sonic and Mario",
       "file": "missing/S/330722-sonic-and-mario.json"
@@ -1017585,6 +1017785,11 @@
       "igdb_id": 198564,
       "game_name": "Sonic ERaZor",
       "file": "missing/S/198564-sonic-erazor.json"
+    },
+    {
+      "igdb_id": 331224,
+      "game_name": "Sonic Eruption",
+      "file": "missing/S/331224-sonic-eruption.json"
     },
     {
       "igdb_id": 370218,
@@ -1019160,6 +1019365,11 @@
       "igdb_id": 327000,
       "game_name": "Sonic Skywind: Episode II",
       "file": "missing/S/327000-sonic-skywind-episode-ii.json"
+    },
+    {
+      "igdb_id": 331228,
+      "game_name": "Sonic Slash",
+      "file": "missing/S/331228-sonic-slash.json"
     },
     {
       "igdb_id": 350060,
@@ -1100107,6 +1100317,11 @@
       "file": "missing/T/371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json"
     },
     {
+      "igdb_id": 331256,
+      "game_name": "Tails of Iron II: Whiskers of Winter - Deluxe Edition",
+      "file": "missing/T/331256-tails-of-iron-ii-whiskers-of-winter-deluxe-edition.json"
+    },
+    {
       "igdb_id": 371223,
       "game_name": "Tails of Iron II: Whiskers of Winter - Hair to the Throne Pack",
       "file": "missing/T/371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json"
@@ -1146502,6 +1146717,11 @@
       "file": "missing/T/195801-the-king-of-fighters-xv-team-garou.json"
     },
     {
+      "igdb_id": 331253,
+      "game_name": "The King of Fighters XV: Ultimate Edition",
+      "file": "missing/T/331253-the-king-of-fighters-xv-ultimate-edition.json"
+    },
+    {
       "igdb_id": 38737,
       "game_name": "The King of Fighters-A 2012",
       "file": "missing/T/38737-the-king-of-fighters-a-2012.json"
@@ -1157907,6 +1158127,11 @@
       "file": "missing/T/301414-the-northern-passage.json"
     },
     {
+      "igdb_id": 331233,
+      "game_name": "The Northern Path",
+      "file": "missing/T/331233-the-northern-path.json"
+    },
+    {
       "igdb_id": 401840,
       "game_name": "The Northsong Rift",
       "file": "missing/T/401840-the-northsong-rift.json"
@@ -1163295,6 +1163520,11 @@
       "igdb_id": 115991,
       "game_name": "The Riftbreaker",
       "file": "missing/T/115991-the-riftbreaker.json"
+    },
+    {
+      "igdb_id": 331254,
+      "game_name": "The Riftbreaker: Complete Edition",
+      "file": "missing/T/331254-the-riftbreaker-complete-edition.json"
     },
     {
       "igdb_id": 263033,
@@ -1169352,6 +1169582,11 @@
       "file": "missing/T/376269-the-squid-plays.json"
     },
     {
+      "igdb_id": 331222,
+      "game_name": "The Squiggles Saga",
+      "file": "missing/T/331222-the-squiggles-saga.json"
+    },
+    {
       "igdb_id": 358305,
       "game_name": "The Squirrel & Sea",
       "file": "missing/T/358305-the-squirrel-and-sea.json"
@@ -1169645,6 +1169880,11 @@
       "igdb_id": 138097,
       "game_name": "The Stone of Madness",
       "file": "missing/T/138097-the-stone-of-madness.json"
+    },
+    {
+      "igdb_id": 331255,
+      "game_name": "The Stone of Madness: Special Edition",
+      "file": "missing/T/331255-the-stone-of-madness-special-edition.json"
     },
     {
       "igdb_id": 24902,
@@ -1185640,6 +1185880,11 @@
       "igdb_id": 315777,
       "game_name": "Tides Odyssey",
       "file": "missing/T/315777-tides-odyssey.json"
+    },
+    {
+      "igdb_id": 331212,
+      "game_name": "Tides of Annihilation",
+      "file": "missing/T/331212-tides-of-annihilation.json"
     },
     {
       "igdb_id": 389474,
@@ -1207955,6 +1208200,11 @@
       "igdb_id": 188321,
       "game_name": "Totally Accurate GamePlay",
       "file": "missing/T/188321-totally-accurate-gameplay.json"
+    },
+    {
+      "igdb_id": 331259,
+      "game_name": "Totally Accurate Holiday Bowling",
+      "file": "missing/T/331259-totally-accurate-holiday-bowling.json"
     },
     {
       "igdb_id": 127163,
@@ -1260242,6 +1260492,11 @@
       "file": "missing/V/216856-vendetta-mafia-wars.json"
     },
     {
+      "igdb_id": 331218,
+      "game_name": "Vending Dokan!: Kozy Kiosk",
+      "file": "missing/V/331218-vending-dokan-kozy-kiosk.json"
+    },
+    {
       "igdb_id": 312420,
       "game_name": "Vending Machine Business Simulator",
       "file": "missing/V/312420-vending-machine-business-simulator.json"
@@ -1266980,6 +1267235,11 @@
       "igdb_id": 264525,
       "game_name": "Visions of Evil",
       "file": "missing/V/264525-visions-of-evil.json"
+    },
+    {
+      "igdb_id": 331264,
+      "game_name": "Visions of Mana: Digital Deluxe Edition",
+      "file": "missing/V/331264-visions-of-mana-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 302510,
