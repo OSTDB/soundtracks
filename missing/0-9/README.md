@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Mushrooms | 150421 | [150421-100-hidden-mushrooms.json](./150421-100-hidden-mushrooms.json) |
 | 100 Hidden Pandas: Village | 343124 | [343124-100-hidden-pandas-village.json](./343124-100-hidden-pandas-village.json) |
 | 100 Hidden Rams | 163750 | [163750-100-hidden-rams.json](./163750-100-hidden-rams.json) |
+| 100 Hiddensaurs | 306946 | [306946-100-hiddensaurs.json](./306946-100-hiddensaurs.json) |
 | 100 Hiddensaurs: Egypt | 325503 | [325503-100-hiddensaurs-egypt.json](./325503-100-hiddensaurs-egypt.json) |
 | 100 Hiddensaurs: Eighties | 376893 | [376893-100-hiddensaurs-eighties.json](./376893-100-hiddensaurs-eighties.json) |
 | 100 Hiddensaurs: Greece | 318394 | [318394-100-hiddensaurs-greece.json](./318394-100-hiddensaurs-greece.json) |
