@@ -2213,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Master 2 | 63396 | [63396-legend-of-master-2.json](./63396-legend-of-master-2.json) |
 | Legend of Master 3 | 63395 | [63395-legend-of-master-3.json](./63395-legend-of-master-3.json) |
 | Legend of Merchant | 30756 | [30756-legend-of-merchant.json](./30756-legend-of-merchant.json) |
+| Legend of Merchant 2 | 306387 | [306387-legend-of-merchant-2.json](./306387-legend-of-merchant-2.json) |
 | Legend of Mercy | 96280 | [96280-legend-of-mercy.json](./96280-legend-of-mercy.json) |
 | Legend of Mir | 62774 | [62774-legend-of-mir.json](./62774-legend-of-mir.json) |
 | Legend of Mir 2 | 67644 | [67644-legend-of-mir-2.json](./67644-legend-of-mir-2.json) |
@@ -6283,6 +6284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop | 157568 | [157568-loop.json](./157568-loop.json) |
 | Loop | 207803 | [207803-loop.json](./207803-loop.json) |
 | Loop | 279011 | [279011-loop.json](./279011-loop.json) |
+| Loop | 306402 | [306402-loop.json](./306402-loop.json) |
 | Loop | 327298 | [327298-loop.json](./327298-loop.json) |
 | Loop | 405702 | [405702-loop.json](./405702-loop.json) |
 | Loop Archer | 364648 | [364648-loop-archer.json](./364648-loop-archer.json) |
