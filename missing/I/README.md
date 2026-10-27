@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Suppose | 367503 | [367503-i-suppose.json](./367503-i-suppose.json) |
 | I Tap Pirate. A Sea Survival Adventure Game | 103535 | [103535-i-tap-pirate-a-sea-survival-adventure-game.json](./103535-i-tap-pirate-a-sea-survival-adventure-game.json) |
 | I Think | 301265 | [301265-i-think.json](./301265-i-think.json) |
+| I Think I Need Your Help | 280943 | [280943-i-think-i-need-your-help.json](./280943-i-think-i-need-your-help.json) |
 | I Think I'm in Love with a Demon Prince | 268985 | [268985-i-think-im-in-love-with-a-demon-prince.json](./268985-i-think-im-in-love-with-a-demon-prince.json) |
 | I Think the Waves are Watching Me | 59705 | [59705-i-think-the-waves-are-watching-me.json](./59705-i-think-the-waves-are-watching-me.json) |
 | I Think You Can | 323103 | [323103-i-think-you-can.json](./323103-i-think-you-can.json) |
@@ -2595,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In-Flight Tennis Club | 243755 | [243755-in-flight-tennis-club.json](./243755-in-flight-tennis-club.json) |
 | In-Flight Tetris | 145631 | [145631-in-flight-tetris.json](./145631-in-flight-tetris.json) |
 | In-Sanity | 276648 | [276648-in-sanity.json](./276648-in-sanity.json) |
+| In-Terror-Gation | 280960 | [280960-in-terror-gation.json](./280960-in-terror-gation.json) |
 | In'ernus | 370263 | [370263-inernus.json](./370263-inernus.json) |
 | Ina Koi! Oinari-sama to Motemote no Tatari | 68120 | [68120-ina-koi-oinari-sama-to-motemote-no-tatari.json](./68120-ina-koi-oinari-sama-to-motemote-no-tatari.json) |
 | Inaccessible World | 86441 | [86441-inaccessible-world.json](./86441-inaccessible-world.json) |
