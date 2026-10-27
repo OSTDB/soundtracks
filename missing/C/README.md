@@ -15690,7 +15690,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt: The Black Tower | 84059 | [84059-crypt-the-black-tower.json](./84059-crypt-the-black-tower.json) |
 | Cryptage | 333114 | [333114-cryptage.json](./333114-cryptage.json) |
 | CryptantCrab | 110043 | [110043-cryptantcrab.json](./110043-cryptantcrab.json) |
-| Cryptark | 13365 | [13365-cryptark.json](./13365-cryptark.json) |
 | CryptaSync Cyber: Urban Depths | 271111 | [271111-cryptasync-cyber-urban-depths.json](./271111-cryptasync-cyber-urban-depths.json) |
 | Cryptbound | 349773 | [349773-cryptbound.json](./349773-cryptbound.json) |
 | Cryptic | 122425 | [122425-cryptic.json](./122425-cryptic.json) |
