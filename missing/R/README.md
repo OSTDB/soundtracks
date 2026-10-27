@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Island | 421432 | [421432-rail-island.json](./421432-rail-island.json) |
 | Rail Maze | 19512 | [19512-rail-maze.json](./19512-rail-maze.json) |
 | Rail Maze : Train puzzle | 88743 | [88743-rail-maze-train-puzzle.json](./88743-rail-maze-train-puzzle.json) |
+| Rail Maze 2 | 301233 | [301233-rail-maze-2.json](./301233-rail-maze-2.json) |
 | Rail Maze 2 : Train Puzzler | 87301 | [87301-rail-maze-2-train-puzzler.json](./87301-rail-maze-2-train-puzzler.json) |
 | Rail Nation | 23617 | [23617-rail-nation.json](./23617-rail-nation.json) |
 | Rail of Möbius | 147810 | [147810-rail-of-mobius.json](./147810-rail-of-mobius.json) |
@@ -2559,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Steel HD | 90452 | [90452-real-steel-hd.json](./90452-real-steel-hd.json) |
 | Real Steel Mobile | 84110 | [84110-real-steel-mobile.json](./84110-real-steel-mobile.json) |
 | Real Steel World Robot Boxing | 111751 | [111751-real-steel-world-robot-boxing.json](./111751-real-steel-world-robot-boxing.json) |
+| Real Stories From The Grave: A Date to Keep | 301310 | [301310-real-stories-from-the-grave-a-date-to-keep.json](./301310-real-stories-from-the-grave-a-date-to-keep.json) |
 | Real Stories from the Grave: Maleficium | 214698 | [214698-real-stories-from-the-grave-maleficium.json](./214698-real-stories-from-the-grave-maleficium.json) |
 | Real Stories: Veterinaire | 268390 | [268390-real-stories-veterinaire.json](./268390-real-stories-veterinaire.json) |
 | Real Stunt Master 3D | 100646 | [100646-real-stunt-master-3d.json](./100646-real-stunt-master-3d.json) |
@@ -7317,6 +7319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roads of Rome: Portals 2 - Collector's Edition | 245984 | [245984-roads-of-rome-portals-2-collectors-edition.json](./245984-roads-of-rome-portals-2-collectors-edition.json) |
 | Roads of the Middle Ages: Collector's Edition | 336989 | [336989-roads-of-the-middle-ages-collectors-edition.json](./336989-roads-of-the-middle-ages-collectors-edition.json) |
 | Roads of Time | 129525 | [129525-roads-of-time.json](./129525-roads-of-time.json) |
+| Roads of Time Bundle | 301784 | [301784-roads-of-time-bundle.json](./301784-roads-of-time-bundle.json) |
 | Roads to the Red Night | 366165 | [366165-roads-to-the-red-night.json](./366165-roads-to-the-red-night.json) |
 | Roads Yet Traveled | 359048 | [359048-roads-yet-traveled.json](./359048-roads-yet-traveled.json) |
 | Roadside | 286079 | [286079-roadside.json](./286079-roadside.json) |
@@ -9351,6 +9354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomba Quest 2 | 182762 | [182762-roomba-quest-2.json](./182762-roomba-quest-2.json) |
 | Roomba Rail Rider | 302144 | [302144-roomba-rail-rider.json](./302144-roomba-rail-rider.json) |
 | Roomba Rampage | 182141 | [182141-roomba-rampage.json](./182141-roomba-rampage.json) |
+| Roomba Ruckus | 301789 | [301789-roomba-ruckus.json](./301789-roomba-ruckus.json) |
 | Roombo: First Blood | 114015 | [114015-roombo-first-blood.json](./114015-roombo-first-blood.json) |
 | Roomgaze | 347644 | [347644-roomgaze.json](./347644-roomgaze.json) |
 | Roomie Romance | 82094 | [82094-roomie-romance.json](./82094-roomie-romance.json) |
@@ -10626,6 +10630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Raiders | 22327 | [22327-rune-raiders.json](./22327-rune-raiders.json) |
 | Rune Ranker | 197722 | [197722-rune-ranker.json](./197722-rune-ranker.json) |
 | Rune Rhetoric | 280902 | [280902-rune-rhetoric.json](./280902-rune-rhetoric.json) |
+| Rune Seeker | 301295 | [301295-rune-seeker.json](./301295-rune-seeker.json) |
 | Rune Stones | 304656 | [304656-rune-stones.json](./304656-rune-stones.json) |
 | Rune Sword | 175676 | [175676-rune-sword.json](./175676-rune-sword.json) |
 | Rune Tavern | 407341 | [407341-rune-tavern.json](./407341-rune-tavern.json) |
@@ -10711,6 +10716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runic Winds | 386384 | [386384-runic-winds.json](./386384-runic-winds.json) |
 | Runic: Eternal Sunrise | 244781 | [244781-runic-eternal-sunrise.json](./244781-runic-eternal-sunrise.json) |
 | Runick | 193715 | [193715-runick.json](./193715-runick.json) |
+| RunieStory | 301307 | [301307-runiestory.json](./301307-runiestory.json) |
 | Runika: A World of Little Legends | 152467 | [152467-runika-a-world-of-little-legends.json](./152467-runika-a-world-of-little-legends.json) |
 | Runimals | 361309 | [361309-runimals.json](./361309-runimals.json) |
 | Runion | 25735 | [25735-runion.json](./25735-runion.json) |
