@@ -3903,6 +3903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Mythology: Retold - Heavenly Spear | 348197 | [348197-age-of-mythology-retold-heavenly-spear.json](./348197-age-of-mythology-retold-heavenly-spear.json) |
 | Age of Mythology: Retold - New Gods Pack: Demeter | 399022 | [399022-age-of-mythology-retold-new-gods-pack-demeter.json](./399022-age-of-mythology-retold-new-gods-pack-demeter.json) |
 | Age of Mythology: Retold - Obsidian Mirror | 395818 | [395818-age-of-mythology-retold-obsidian-mirror.json](./395818-age-of-mythology-retold-obsidian-mirror.json) |
+| Age of Mythology: Retold - Premium Edition | 331245 | [331245-age-of-mythology-retold-premium-edition.json](./331245-age-of-mythology-retold-premium-edition.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
 | Age of Mythology: The Titans | 8221 | [8221-age-of-mythology-the-titans.json](./8221-age-of-mythology-the-titans.json) |
 | Age of Omens | 116777 | [116777-age-of-omens.json](./116777-age-of-omens.json) |
@@ -7015,6 +7016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambulance Emergency Simulation | 286450 | [286450-ambulance-emergency-simulation.json](./286450-ambulance-emergency-simulation.json) |
 | Ambulance Life: A Paramedic Simulator | 278606 | [278606-ambulance-life-a-paramedic-simulator.json](./278606-ambulance-life-a-paramedic-simulator.json) |
 | Ambulance Life: A Paramedic Simulator - Bay Side Expansion | 334668 | [334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json](./334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json) |
+| Ambulance Life: Deluxe Edition | 331246 | [331246-ambulance-life-deluxe-edition.json](./331246-ambulance-life-deluxe-edition.json) |
 | Ambulance Race | 221712 | [221712-ambulance-race.json](./221712-ambulance-race.json) |
 | Ambulance Rescue | 101678 | [101678-ambulance-rescue.json](./101678-ambulance-rescue.json) |
 | Ambulance Simulator | 9973 | [9973-ambulance-simulator.json](./9973-ambulance-simulator.json) |
@@ -13542,6 +13544,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroneer: Awakening | 234024 | [234024-astroneer-awakening.json](./234024-astroneer-awakening.json) |
 | Astroneer: Essential Bundle | 280147 | [280147-astroneer-essential-bundle.json](./280147-astroneer-essential-bundle.json) |
 | Astroneer: Glitchwalkers | 315620 | [315620-astroneer-glitchwalkers.json](./315620-astroneer-glitchwalkers.json) |
+| Astroneer: Glitchwalkers - Deluxe Edition | 331247 | [331247-astroneer-glitchwalkers-deluxe-edition.json](./331247-astroneer-glitchwalkers-deluxe-edition.json) |
+| Astroneer: Glitchwalkers Edition | 331248 | [331248-astroneer-glitchwalkers-edition.json](./331248-astroneer-glitchwalkers-edition.json) |
 | Astroneer: Jet Powered | 234027 | [234027-astroneer-jet-powered.json](./234027-astroneer-jet-powered.json) |
 | Astroneer: Megatech | 363156 | [363156-astroneer-megatech.json](./363156-astroneer-megatech.json) |
 | Astroneer: Rails | 234025 | [234025-astroneer-rails.json](./234025-astroneer-rails.json) |
@@ -14484,6 +14488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Dusk: Steam Age | 34581 | [34581-aurora-dusk-steam-age.json](./34581-aurora-dusk-steam-age.json) |
 | Aurora Feint II: The Arena | 70611 | [70611-aurora-feint-ii-the-arena.json](./70611-aurora-feint-ii-the-arena.json) |
 | Aurora Feint II: Tower Puzzles | 67694 | [67694-aurora-feint-ii-tower-puzzles.json](./67694-aurora-feint-ii-tower-puzzles.json) |
+| Aurora Flight | 331238 | [331238-aurora-flight.json](./331238-aurora-flight.json) |
 | Aurora Heights | 374762 | [374762-aurora-heights.json](./374762-aurora-heights.json) |
 | Aurora Hex: Pattern Puzzles | 117616 | [117616-aurora-hex-pattern-puzzles.json](./117616-aurora-hex-pattern-puzzles.json) |
 | Aurora Hills: Chapter 2 | 394056 | [394056-aurora-hills-chapter-2.json](./394056-aurora-hills-chapter-2.json) |
