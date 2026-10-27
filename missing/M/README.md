@@ -4641,6 +4641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Point | 39121 | [39121-match-point.json](./39121-match-point.json) |
 | Match Point Tennis: Summer Update | 354378 | [354378-match-point-tennis-summer-update.json](./354378-match-point-tennis-summer-update.json) |
 | Match Puzzle House | 224012 | [224012-match-puzzle-house.json](./224012-match-puzzle-house.json) |
+| Match Quest | 314842 | [314842-match-quest.json](./314842-match-quest.json) |
 | Match Quest: Numbers | 345676 | [345676-match-quest-numbers.json](./345676-match-quest-numbers.json) |
 | Match Racer | 282448 | [282448-match-racer.json](./282448-match-racer.json) |
 | Match Shot Chimera | 349290 | [349290-match-shot-chimera.json](./349290-match-shot-chimera.json) |
@@ -4909,6 +4910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matsumoto Toru no Kabushiki Hisshougaku | 48783 | [48783-matsumoto-toru-no-kabushiki-hisshougaku.json](./48783-matsumoto-toru-no-kabushiki-hisshougaku.json) |
 | Matsumoto Toru no Kabushiki Hisshougaku II | 48782 | [48782-matsumoto-toru-no-kabushiki-hisshougaku-ii.json](./48782-matsumoto-toru-no-kabushiki-hisshougaku-ii.json) |
 | Matsumura Kunihiro-den: Saikyou no Rekishi wo Nurikaero! | 38211 | [38211-matsumura-kunihiro-den-saikyou-no-rekishi-wo-nurikaero.json](./38211-matsumura-kunihiro-den-saikyou-no-rekishi-wo-nurikaero.json) |
+| Matsuri Messiah | 314799 | [314799-matsuri-messiah.json](./314799-matsuri-messiah.json) |
 | Matsurikki | 202314 | [202314-matsurikki.json](./202314-matsurikki.json) |
 | Matsuro Palette | 245042 | [245042-matsuro-palette.json](./245042-matsuro-palette.json) |
 | Matsutake Game | 294007 | [294007-matsutake-game.json](./294007-matsutake-game.json) |
@@ -7153,6 +7155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaWorld | 286568 | [286568-megaworld.json](./286568-megaworld.json) |
 | Megazone 23: Aoi Garland | 7366 | [7366-megazone-23-aoi-garland.json](./7366-megazone-23-aoi-garland.json) |
 | Megdan | 298549 | [298549-megdan.json](./298549-megdan.json) |
+| Megi Amantes | 314833 | [314833-megi-amantes.json](./314833-megi-amantes.json) |
 | Megido 72 | 108777 | [108777-megido-72.json](./108777-megido-72.json) |
 | Megis Adventure | 312670 | [312670-megis-adventure.json](./312670-megis-adventure.json) |
 | Megopoly | 152018 | [152018-megopoly.json](./152018-megopoly.json) |
@@ -9797,6 +9800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mihashira | 406670 | [406670-mihashira.json](./406670-mihashira.json) |
 | Mihirha's Legacy | 226721 | [226721-mihirhas-legacy.json](./226721-mihirhas-legacy.json) |
 | Miho Adventures | 212669 | [212669-miho-adventures.json](./212669-miho-adventures.json) |
+| Mihomi Dream | 314796 | [314796-mihomi-dream.json](./314796-mihomi-dream.json) |
 | Míhún Chē | 247447 | [247447-mihun-che.json](./247447-mihun-che.json) |
 | Miimi to Taata no Waiwai Oekaki Doubutsuen | 293148 | [293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json](./293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json) |
 | Miiridian Prime | 378765 | [378765-miiridian-prime.json](./378765-miiridian-prime.json) |
@@ -9867,6 +9871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko-san no Miracle Board | 374956 | [374956-miko-san-no-miracle-board.json](./374956-miko-san-no-miracle-board.json) |
 | Mikone Douchuu | 206037 | [206037-mikone-douchuu.json](./206037-mikone-douchuu.json) |
 | Mikoshi | 191200 | [191200-mikoshi.json](./191200-mikoshi.json) |
+| Mikoto Memory | 314832 | [314832-mikoto-memory.json](./314832-mikoto-memory.json) |
 | MikoVerse | 288148 | [288148-mikoverse.json](./288148-mikoverse.json) |
 | Mikro Mortal Tennis | 73473 | [73473-mikro-mortal-tennis.json](./73473-mikro-mortal-tennis.json) |
 | Mikrocosmos | 232944 | [232944-mikrocosmos.json](./232944-mikrocosmos.json) |
@@ -9878,6 +9883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miku Runner | 289890 | [289890-miku-runner.json](./289890-miku-runner.json) |
 | Miku: May I Keep Up? | 332873 | [332873-miku-may-i-keep-up.json](./332873-miku-may-i-keep-up.json) |
 | Mikuni Field Combat | 299482 | [299482-mikuni-field-combat.json](./299482-mikuni-field-combat.json) |
+| Mikuri Sacrament | 314810 | [314810-mikuri-sacrament.json](./314810-mikuri-sacrament.json) |
 | Mila & Zug | 390496 | [390496-mila-and-zug.json](./390496-mila-and-zug.json) |
 | Milaneseria | 365300 | [365300-milaneseria.json](./365300-milaneseria.json) |
 | Milano no Arbeit Collection | 64930 | [64930-milano-no-arbeit-collection.json](./64930-milano-no-arbeit-collection.json) |
@@ -12577,6 +12583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moji Puzzle Kotoda Maru | 222483 | [222483-moji-puzzle-kotoda-maru.json](./222483-moji-puzzle-kotoda-maru.json) |
 | Mojib-Ribbon | 25097 | [25097-mojib-ribbon.json](./25097-mojib-ribbon.json) |
 | Mójiè Qíbīng | 268440 | [268440-mojie-qibing.json](./268440-mojie-qibing.json) |
+| Mojika: Truth Rears Its Ugly Head | 314804 | [314804-mojika-truth-rears-its-ugly-head.json](./314804-mojika-truth-rears-its-ugly-head.json) |
 | Mojito the Cat | 197576 | [197576-mojito-the-cat.json](./197576-mojito-the-cat.json) |
 | Mojito the Cat: Animals Skins | 298336 | [298336-mojito-the-cat-animals-skins.json](./298336-mojito-the-cat-animals-skins.json) |
 | Mojito the Cat: Christmas | 403424 | [403424-mojito-the-cat-christmas.json](./403424-mojito-the-cat-christmas.json) |
