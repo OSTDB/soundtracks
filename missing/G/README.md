@@ -5443,6 +5443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Rush! Anniversary | 36230 | [36230-gold-rush-anniversary.json](./36230-gold-rush-anniversary.json) |
 | Gold Rush! Anniversary: Special Edition | 54055 | [54055-gold-rush-anniversary-special-edition.json](./54055-gold-rush-anniversary-special-edition.json) |
 | Gold Rush! Classic | 36288 | [36288-gold-rush-classic.json](./36288-gold-rush-classic.json) |
+| Gold Seeker | 285490 | [285490-gold-seeker.json](./285490-gold-seeker.json) |
 | Gold Strike | 88650 | [88650-gold-strike.json](./88650-gold-strike.json) |
 | Gold Taker | 239112 | [239112-gold-taker.json](./239112-gold-taker.json) |
 | Gold Up | 405619 | [405619-gold-up.json](./405619-gold-up.json) |
@@ -6903,6 +6904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grant, Lee, Sherman: Civil War Generals 2 | 80789 | [80789-grant-lee-sherman-civil-war-generals-2.json](./80789-grant-lee-sherman-civil-war-generals-2.json) |
 | Granular Moon | 383661 | [383661-granular-moon.json](./383661-granular-moon.json) |
 | Granvil's Fairytale | 203309 | [203309-granvils-fairytale.json](./203309-granvils-fairytale.json) |
+| Granvir | 285495 | [285495-granvir.json](./285495-granvir.json) |
 | Granyuu-shima! Daibouken | 274400 | [274400-granyuu-shima-daibouken.json](./274400-granyuu-shima-daibouken.json) |
 | Grape Juice City | 247676 | [247676-grape-juice-city.json](./247676-grape-juice-city.json) |
 | Grapefruit | 304203 | [304203-grapefruit.json](./304203-grapefruit.json) |
@@ -6998,6 +7000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grav Factor | 236323 | [236323-grav-factor.json](./236323-grav-factor.json) |
 | Grav Grav Gravity | 43163 | [43163-grav-grav-gravity.json](./43163-grav-grav-gravity.json) |
 | Grav My Balls | 345127 | [345127-grav-my-balls.json](./345127-grav-my-balls.json) |
+| Gravarior | 285496 | [285496-gravarior.json](./285496-gravarior.json) |
 | Gravastar | 125329 | [125329-gravastar.json](./125329-gravastar.json) |
 | GravBlocks | 34436 | [34436-gravblocks.json](./34436-gravblocks.json) |
 | GravBlocks+ | 147964 | [147964-gravblocks.json](./147964-gravblocks.json) |
