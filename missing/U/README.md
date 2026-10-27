@@ -3031,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Useless Demon Lord | 264351 | [264351-useless-demon-lord.json](./264351-useless-demon-lord.json) |
 | Useless Healer | 411595 | [411595-useless-healer.json](./411595-useless-healer.json) |
 | Useless Timmy | 372650 | [372650-useless-timmy.json](./372650-useless-timmy.json) |
+| Usemono Taminaru 2 | 284203 | [284203-usemono-taminaru-2.json](./284203-usemono-taminaru-2.json) |
 | Usemono Terminal | 283569 | [283569-usemono-terminal.json](./283569-usemono-terminal.json) |
 | User Is Typing // Message Sent | 134687 | [134687-user-is-typing-message-sent.json](./134687-user-is-typing-message-sent.json) |
 | Usersleepwalker | 352134 | [352134-usersleepwalker.json](./352134-usersleepwalker.json) |
