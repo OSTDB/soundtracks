@@ -5406,6 +5406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
 | Cheese Cat-Astrophe starring Speedy Gonzales | 4460 | [4460-cheese-cat-astrophe-starring-speedy-gonzales.json](./4460-cheese-cat-astrophe-starring-speedy-gonzales.json) |
 | Cheese Co-op Clicker Simulator | 312453 | [312453-cheese-co-op-clicker-simulator.json](./312453-cheese-co-op-clicker-simulator.json) |
+| Cheese Collector | 309394 | [309394-cheese-collector.json](./309394-cheese-collector.json) |
 | Cheese Dreams | 220555 | [220555-cheese-dreams.json](./220555-cheese-dreams.json) |
 | Cheese Dreams | 378974 | [378974-cheese-dreams.json](./378974-cheese-dreams.json) |
 | Cheese Dreams New Moon | 326738 | [326738-cheese-dreams-new-moon.json](./326738-cheese-dreams-new-moon.json) |
@@ -9193,6 +9194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Co-omets | 287247 | [287247-co-omets.json](./287247-co-omets.json) |
 | CO-OP : Decrypted | 17678 | [17678-co-op-decrypted.json](./17678-co-op-decrypted.json) |
 | Co-Op Bundle | 311047 | [311047-co-op-bundle.json](./311047-co-op-bundle.json) |
+| Co-Op Crunch | 309425 | [309425-co-op-crunch.json](./309425-co-op-crunch.json) |
 | Co-op Frenzy: Spirit of the Island + Biped Bundle | 214053 | [214053-co-op-frenzy-spirit-of-the-island-biped-bundle.json](./214053-co-op-frenzy-spirit-of-the-island-biped-bundle.json) |
 | Co-op Kaiju Horror Cooking | 355090 | [355090-co-op-kaiju-horror-cooking.json](./355090-co-op-kaiju-horror-cooking.json) |
 | Co-op SNEK Online | 81722 | [81722-co-op-snek-online.json](./81722-co-op-snek-online.json) |
@@ -9918,6 +9920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colloc | 120424 | [120424-colloc.json](./120424-colloc.json) |
 | Colmen's Quest | 175955 | [175955-colmens-quest.json](./175955-colmens-quest.json) |
 | Colo Grid Zation | 110543 | [110543-colo-grid-zation.json](./110543-colo-grid-zation.json) |
+| Colo Moon | 309392 | [309392-colo-moon.json](./309392-colo-moon.json) |
 | Coloball 2002 | 91681 | [91681-coloball-2002.json](./91681-coloball-2002.json) |
 | CoLoBot | 80574 | [80574-colobot.json](./80574-colobot.json) |
 | Colobus | 389628 | [389628-colobus.json](./389628-colobus.json) |
@@ -15005,6 +15008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossbow | 11868 | [11868-crossbow.json](./11868-crossbow.json) |
 | Crossbow Crusade | 148568 | [148568-crossbow-crusade.json](./148568-crossbow-crusade.json) |
 | Crossbow Potato | 112311 | [112311-crossbow-potato.json](./112311-crossbow-potato.json) |
+| Crossbow Quest | 309411 | [309411-crossbow-quest.json](./309411-crossbow-quest.json) |
 | Crossbow Warrior: The Legend of William Tell | 34196 | [34196-crossbow-warrior-the-legend-of-william-tell.json](./34196-crossbow-warrior-the-legend-of-william-tell.json) |
 | CrossCells | 28924 | [28924-crosscells.json](./28924-crosscells.json) |
 | CrossCheck | 15920 | [15920-crosscheck.json](./15920-crosscheck.json) |
