@@ -729,9 +729,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Langit Lupa: Office Wars | 382390 | [382390-langit-lupa-office-wars.json](./382390-langit-lupa-office-wars.json) |
 | Làngjì Sānguó | 150636 | [150636-langji-sanguo.json](./150636-langji-sanguo.json) |
 | Langoth | 29756 | [29756-langoth.json](./29756-langoth.json) |
+| Langrisser I | 284200 | [284200-langrisser-i.json](./284200-langrisser-i.json) |
 | Langrisser I & II | 107238 | [107238-langrisser-i-and-ii.json](./107238-langrisser-i-and-ii.json) |
 | Langrisser I & II | 62775 | [62775-langrisser-i-and-ii.json](./62775-langrisser-i-and-ii.json) |
 | Langrisser I & II: Limited Edition Box | 167037 | [167037-langrisser-i-and-ii-limited-edition-box.json](./167037-langrisser-i-and-ii-limited-edition-box.json) |
+| Langrisser II | 284201 | [284201-langrisser-ii.json](./284201-langrisser-ii.json) |
 | Langrisser II | 46171 | [46171-langrisser-ii.json](./46171-langrisser-ii.json) |
 | Langrisser III | 69532 | [69532-langrisser-iii.json](./69532-langrisser-iii.json) |
 | Langrisser IV | 69226 | [69226-langrisser-iv.json](./69226-langrisser-iv.json) |
@@ -2079,6 +2081,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Dorn: Herald of Oblivion | 31692 | [31692-legacy-of-dorn-herald-of-oblivion.json](./31692-legacy-of-dorn-herald-of-oblivion.json) |
 | Legacy of Epstein: Bad Omen | 244478 | [244478-legacy-of-epstein-bad-omen.json](./244478-legacy-of-epstein-bad-omen.json) |
 | Legacy of Flan | 243942 | [243942-legacy-of-flan.json](./243942-legacy-of-flan.json) |
+| Legacy of Flan 2: Flans Online | 284180 | [284180-legacy-of-flan-2-flans-online.json](./284180-legacy-of-flan-2-flans-online.json) |
+| Legacy of Flan 3: Storm of Hades | 284182 | [284182-legacy-of-flan-3-storm-of-hades.json](./284182-legacy-of-flan-3-storm-of-hades.json) |
 | Legacy of Heroes | 256876 | [256876-legacy-of-heroes.json](./256876-legacy-of-heroes.json) |
 | Legacy of Kain Collection | 331287 | [331287-legacy-of-kain-collection.json](./331287-legacy-of-kain-collection.json) |
 | Legacy of Kain Soul Reaver 1&2 Remastered - Deluxe Edition | 350802 | [350802-legacy-of-kain-soul-reaver-1-and-2-remastered-deluxe-edition.json](./350802-legacy-of-kain-soul-reaver-1-and-2-remastered-deluxe-edition.json) |
@@ -7343,6 +7347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Colors: Pixel Seasons | 195229 | [195229-love-colors-pixel-seasons.json](./195229-love-colors-pixel-seasons.json) |
 | Love Com: Punch de Cont. | 253239 | [253239-love-com-punch-de-cont.json](./253239-love-com-punch-de-cont.json) |
 | Love Com: Punch de Konto | 61443 | [61443-love-com-punch-de-konto.json](./61443-love-com-punch-de-konto.json) |
+| Love Complex: The Black Cat He Loved | 284171 | [284171-love-complex-the-black-cat-he-loved.json](./284171-love-complex-the-black-cat-he-loved.json) |
 | Love Confessions on the Adventure | 349271 | [349271-love-confessions-on-the-adventure.json](./349271-love-confessions-on-the-adventure.json) |
 | Love Connect | 268992 | [268992-love-connect.json](./268992-love-connect.json) |
 | Love Connection! | 242789 | [242789-love-connection.json](./242789-love-connection.json) |
@@ -7515,6 +7520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love or Die | 124041 | [124041-love-or-die.json](./124041-love-or-die.json) |
 | Love or Loved | 83592 | [83592-love-or-loved.json](./83592-love-or-loved.json) |
 | Love or Passion | 254317 | [254317-love-or-passion.json](./254317-love-or-passion.json) |
+| Love Pandemonium | 284173 | [284173-love-pandemonium.json](./284173-love-pandemonium.json) |
 | Love Pheromone | 205609 | [205609-love-pheromone.json](./205609-love-pheromone.json) |
 | Love Potion | 272364 | [272364-love-potion.json](./272364-love-potion.json) |
 | Love Quest | 37940 | [37940-love-quest.json](./37940-love-quest.json) |
