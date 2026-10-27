@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CamGirls Inc | 202386 | [202386-camgirls-inc.json](./202386-camgirls-inc.json) |
 | Camgoo Sixplay | 93123 | [93123-camgoo-sixplay.json](./93123-camgoo-sixplay.json) |
 | Camille and Laura | 311871 | [311871-camille-and-laura.json](./311871-camille-and-laura.json) |
+| Camino de Santiago | 319549 | [319549-camino-de-santiago.json](./319549-camino-de-santiago.json) |
 | Camisole | 128366 | [128366-camisole.json](./128366-camisole.json) |
 | Camo Sniper | 337157 | [337157-camo-sniper.json](./337157-camo-sniper.json) |
 | Camouflet | 219734 | [219734-camouflet.json](./219734-camouflet.json) |
@@ -1043,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canari | 51580 | [51580-canari.json](./51580-canari.json) |
 | Canary in a Crater | 148138 | [148138-canary-in-a-crater.json](./148138-canary-in-a-crater.json) |
 | Canary: Kono Omoi wo Uta ni Nosete | 269412 | [269412-canary-kono-omoi-wo-uta-ni-nosete.json](./269412-canary-kono-omoi-wo-uta-ni-nosete.json) |
+| Canary: Kono Omoi wo Uta ni Nosete | 319627 | [319627-canary-kono-omoi-wo-uta-ni-nosete.json](./319627-canary-kono-omoi-wo-uta-ni-nosete.json) |
 | Canasta 3D Premium | 118406 | [118406-canasta-3d-premium.json](./118406-canasta-3d-premium.json) |
 | Canasta HD | 354965 | [354965-canasta-hd.json](./354965-canasta-hd.json) |
 | Canasta Junction | 87215 | [87215-canasta-junction.json](./87215-canasta-junction.json) |
@@ -5832,6 +5834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiby.io | 393815 | [393815-chiby-io.json](./393815-chiby-io.json) |
 | Chic Baby | 97342 | [97342-chic-baby.json](./97342-chic-baby.json) |
 | Chica Simulator | 369663 | [369663-chica-simulator.json](./369663-chica-simulator.json) |
+| Chica's Party World: Rebaked | 319618 | [319618-chicas-party-world-rebaked.json](./319618-chicas-party-world-rebaked.json) |
 | Chicago 1930 | 18873 | [18873-chicago-1930.json](./18873-chicago-1930.json) |
 | Chicago 2020 | 235999 | [235999-chicago-2020.json](./235999-chicago-2020.json) |
 | Chicago 90 | 12000 | [12000-chicago-90.json](./12000-chicago-90.json) |
@@ -6650,6 +6653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Jinsei Enjoi! Tamagotchi Plus | 229952 | [229952-chou-jinsei-enjoi-tamagotchi-plus.json](./229952-chou-jinsei-enjoi-tamagotchi-plus.json) |
 | Chou Jiryoku Senshi Microman Generation 2000 | 166590 | [166590-chou-jiryoku-senshi-microman-generation-2000.json](./166590-chou-jiryoku-senshi-microman-generation-2000.json) |
 | Chou Kagaku Dasshutsu: Gear Detective | 59207 | [59207-chou-kagaku-dasshutsu-gear-detective.json](./59207-chou-kagaku-dasshutsu-gear-detective.json) |
+| Chou Kousoku Mahjong Plus | 319621 | [319621-chou-kousoku-mahjong-plus.json](./319621-chou-kousoku-mahjong-plus.json) |
 | Chou Kyuukai Miracle Nine | 45733 | [45733-chou-kyuukai-miracle-nine.json](./45733-chou-kyuukai-miracle-nine.json) |
 | Chou Manin: Joshi Seido Shanai Choukyou | 97389 | [97389-chou-manin-joshi-seido-shanai-choukyou.json](./97389-chou-manin-joshi-seido-shanai-choukyou.json) |
 | Chou Mashin Eiyuuden Wataru: Another Step | 37726 | [37726-chou-mashin-eiyuuden-wataru-another-step.json](./37726-chou-mashin-eiyuuden-wataru-another-step.json) |
@@ -10900,6 +10904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Community Ball | 289541 | [289541-community-ball.json](./289541-community-ball.json) |
 | Community Build Project 9: Halloween-2020 | 308480 | [308480-community-build-project-9-halloween-2020.json](./308480-community-build-project-9-halloween-2020.json) |
 | Community Button | 402383 | [402383-community-button.json](./402383-community-button.json) |
+| Community Chest | 319531 | [319531-community-chest.json](./319531-community-chest.json) |
 | Community College Hero: Fun and Games | 190049 | [190049-community-college-hero-fun-and-games.json](./190049-community-college-hero-fun-and-games.json) |
 | Community College Hero: Knowledge is Power | 102552 | [102552-community-college-hero-knowledge-is-power.json](./102552-community-college-hero-knowledge-is-power.json) |
 | Community College Hero: Knowledge is Power | 99058 | [99058-community-college-hero-knowledge-is-power.json](./99058-community-college-hero-knowledge-is-power.json) |
@@ -16758,6 +16763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Mech Wars: EDF Collab Edition | 268007 | [268007-custom-mech-wars-edf-collab-edition.json](./268007-custom-mech-wars-edf-collab-edition.json) |
 | Custom Mech Wars: Ultimate Edition | 268008 | [268008-custom-mech-wars-ultimate-edition.json](./268008-custom-mech-wars-ultimate-edition.json) |
 | Custom Monsters | 222498 | [222498-custom-monsters.json](./222498-custom-monsters.json) |
+| Custom Nights at Freddy's | 319634 | [319634-custom-nights-at-freddys.json](./319634-custom-nights-at-freddys.json) |
 | Custom Order Maid 3D2 | 139227 | [139227-custom-order-maid-3d2.json](./139227-custom-order-maid-3d2.json) |
 | Custom Order Maid 3D2: Character EX Pack - Perverted Extreme Masochist | 286999 | [286999-custom-order-maid-3d2-character-ex-pack-perverted-extreme-masochist.json](./286999-custom-order-maid-3d2-character-ex-pack-perverted-extreme-masochist.json) |
 | Custom Order Maid 3D2: Character EX Pack Gyaru | 311721 | [311721-custom-order-maid-3d2-character-ex-pack-gyaru.json](./311721-custom-order-maid-3d2-character-ex-pack-gyaru.json) |
