@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Tennis | 11500 | [11500-table-tennis.json](./11500-table-tennis.json) |
 | Table Tennis | 150560 | [150560-table-tennis.json](./150560-table-tennis.json) |
 | Table Tennis | 277711 | [277711-table-tennis.json](./277711-table-tennis.json) |
+| Table Tennis | 325358 | [325358-table-tennis.json](./325358-table-tennis.json) |
 | Table Tennis Infinity | 85420 | [85420-table-tennis-infinity.json](./85420-table-tennis-infinity.json) |
 | Table Tennis Pro | 155421 | [155421-table-tennis-pro.json](./155421-table-tennis-pro.json) |
 | Table Tennis Simulation | 72076 | [72076-table-tennis-simulation.json](./72076-table-tennis-simulation.json) |
@@ -14428,6 +14429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirit and the Mouse | 134474 | [134474-the-spirit-and-the-mouse.json](./134474-the-spirit-and-the-mouse.json) |
 | The Spirit Engine 2 | 54292 | [54292-the-spirit-engine-2.json](./54292-the-spirit-engine-2.json) |
 | The Spirit Engine DX | 341855 | [341855-the-spirit-engine-dx.json](./341855-the-spirit-engine-dx.json) |
+| The Spirit Guide | 325404 | [325404-the-spirit-guide.json](./325404-the-spirit-guide.json) |
 | The Spirit in the Woods | 201505 | [201505-the-spirit-in-the-woods.json](./201505-the-spirit-in-the-woods.json) |
 | The Spirit Lift | 217312 | [217312-the-spirit-lift.json](./217312-the-spirit-lift.json) |
 | The Spirit of Snowflake | 167550 | [167550-the-spirit-of-snowflake.json](./167550-the-spirit-of-snowflake.json) |
@@ -15544,6 +15546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Undertaking | 225837 | [225837-the-undertaking.json](./225837-the-undertaking.json) |
 | The Underworld | 271804 | [271804-the-underworld.json](./271804-the-underworld.json) |
 | The Underworld | 71175 | [71175-the-underworld.json](./71175-the-underworld.json) |
+| The Underworld of Brain Damage | 325408 | [325408-the-underworld-of-brain-damage.json](./325408-the-underworld-of-brain-damage.json) |
 | The Undisputables: Online Multiplayer | 174007 | [174007-the-undisputables-online-multiplayer.json](./174007-the-undisputables-online-multiplayer.json) |
 | The Undying Beast | 177310 | [177310-the-undying-beast.json](./177310-the-undying-beast.json) |
 | The Undying Plague | 35759 | [35759-the-undying-plague.json](./35759-the-undying-plague.json) |
@@ -16389,6 +16392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zombie Slayers | 329958 | [329958-the-zombie-slayers.json](./329958-the-zombie-slayers.json) |
 | The Zombie Smasher | 187260 | [187260-the-zombie-smasher.json](./187260-the-zombie-smasher.json) |
 | The Zombie Smasher | 219279 | [219279-the-zombie-smasher.json](./219279-the-zombie-smasher.json) |
+| The Zombie Survival Guide | 325406 | [325406-the-zombie-survival-guide.json](./325406-the-zombie-survival-guide.json) |
 | The Zombie Wave | 294259 | [294259-the-zombie-wave.json](./294259-the-zombie-wave.json) |
 | The Zombie Wave: DLC | 298705 | [298705-the-zombie-wave-dlc.json](./298705-the-zombie-wave-dlc.json) |
 | The Zombie's Horror | 156085 | [156085-the-zombies-horror.json](./156085-the-zombies-horror.json) |
@@ -16978,6 +16982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Grand Life | 59250 | [59250-this-grand-life.json](./59250-this-grand-life.json) |
 | This Grand Life 2 | 253572 | [253572-this-grand-life-2.json](./253572-this-grand-life-2.json) |
 | This hole in my chest | 176242 | [176242-this-hole-in-my-chest.json](./176242-this-hole-in-my-chest.json) |
+| This House Eats People | 325394 | [325394-this-house-eats-people.json](./325394-this-house-eats-people.json) |
 | This House Looks Familiar | 176969 | [176969-this-house-looks-familiar.json](./176969-this-house-looks-familiar.json) |
 | This House Wants No One Else | 401259 | [401259-this-house-wants-no-one-else.json](./401259-this-house-wants-no-one-else.json) |
 | This is a Black Parallelepipedon in a Yellow Field | 321027 | [321027-this-is-a-black-parallelepipedon-in-a-yellow-field.json](./321027-this-is-a-black-parallelepipedon-in-a-yellow-field.json) |
@@ -22796,6 +22801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
 | Towelfight 2: The Monocle of Destiny | 23402 | [23402-towelfight-2-the-monocle-of-destiny.json](./23402-towelfight-2-the-monocle-of-destiny.json) |
 | Towelket 0: Maiden Bomb Invaders | 282444 | [282444-towelket-0-maiden-bomb-invaders.json](./282444-towelket-0-maiden-bomb-invaders.json) |
+| Towelket One More Time: Kemono | 325376 | [325376-towelket-one-more-time-kemono.json](./325376-towelket-one-more-time-kemono.json) |
 | Towelket: One More Time | 147065 | [147065-towelket-one-more-time.json](./147065-towelket-one-more-time.json) |
 | Towelket: One More Time 2 (Karaage Tanpopo) | 146883 | [146883-towelket-one-more-time-2-karaage-tanpopo.json](./146883-towelket-one-more-time-2-karaage-tanpopo.json) |
 | Towelket: One More Time 3 Karaage Tanpopo | 146554 | [146554-towelket-one-more-time-3-karaage-tanpopo.json](./146554-towelket-one-more-time-3-karaage-tanpopo.json) |
