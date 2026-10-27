@@ -10982,6 +10982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuel Overdose | 20841 | [20841-fuel-overdose.json](./20841-fuel-overdose.json) |
 | Fuel Station Simulator | 302224 | [302224-fuel-station-simulator.json](./302224-fuel-station-simulator.json) |
 | Fuel Station Simulator | 336369 | [336369-fuel-station-simulator.json](./336369-fuel-station-simulator.json) |
+| Fuel Station: Drive & Pumping | 318955 | [318955-fuel-station-drive-and-pumping.json](./318955-fuel-station-drive-and-pumping.json) |
 | Fuel Tanker Truck | 105918 | [105918-fuel-tanker-truck.json](./105918-fuel-tanker-truck.json) |
 | Fuel Tiracas | 77282 | [77282-fuel-tiracas.json](./77282-fuel-tiracas.json) |
 | Fuel37 | 288068 | [288068-fuel37.json](./288068-fuel37.json) |
