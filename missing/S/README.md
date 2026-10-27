@@ -12254,6 +12254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashy Road: Wanted | 58364 | [58364-smashy-road-wanted.json](./58364-smashy-road-wanted.json) |
 | Smashy Road: Wanted 2 | 144196 | [144196-smashy-road-wanted-2.json](./144196-smashy-road-wanted-2.json) |
 | Smaze | 306775 | [306775-smaze.json](./306775-smaze.json) |
+| SMB Extended | 290236 | [290236-smb-extended.json](./290236-smb-extended.json) |
 | SMB RMX Land | 265877 | [265877-smb-rmx-land.json](./265877-smb-rmx-land.json) |
 | SMB RMX: Shattered Realms | 370902 | [370902-smb-rmx-shattered-realms.json](./370902-smb-rmx-shattered-realms.json) |
 | SMB1 Autumn Challenge | 322651 | [322651-smb1-autumn-challenge.json](./322651-smb1-autumn-challenge.json) |
@@ -12449,6 +12450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smuta: Inception | 204892 | [204892-smuta-inception.json](./204892-smuta-inception.json) |
 | Smuta: Zov serdtsa | 366715 | [366715-smuta-zov-serdtsa.json](./366715-smuta-zov-serdtsa.json) |
 | SMW | 250505 | [250505-smw.json](./250505-smw.json) |
+| SMW For Your Kids Only | 290235 | [290235-smw-for-your-kids-only.json](./290235-smw-for-your-kids-only.json) |
 | SMW Quest for Gaming | 267950 | [267950-smw-quest-for-gaming.json](./267950-smw-quest-for-gaming.json) |
 | SMW The Crown Tale | 267957 | [267957-smw-the-crown-tale.json](./267957-smw-the-crown-tale.json) |
 | SMW The Princess Rescue | 222890 | [222890-smw-the-princess-rescue.json](./222890-smw-the-princess-rescue.json) |
@@ -17202,6 +17204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Way | 72490 | [72490-space-way.json](./72490-space-way.json) |
 | Space Way: Echo of the Galaxy | 365867 | [365867-space-way-echo-of-the-galaxy.json](./365867-space-way-echo-of-the-galaxy.json) |
 | Space Whip | 61903 | [61903-space-whip.json](./61903-space-whip.json) |
+| Space Will | 290384 | [290384-space-will.json](./290384-space-will.json) |
 | Space Wing Cadet | 244315 | [244315-space-wing-cadet.json](./244315-space-wing-cadet.json) |
 | Space Wombat | 346213 | [346213-space-wombat.json](./346213-space-wombat.json) |
 | Space World | 103886 | [103886-space-world.json](./103886-space-world.json) |
@@ -17709,6 +17712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral | 149411 | [149411-spectral.json](./149411-spectral.json) |
 | Spectral Ascension | 152938 | [152938-spectral-ascension.json](./152938-spectral-ascension.json) |
 | Spectral Climb | 269208 | [269208-spectral-climb.json](./269208-spectral-climb.json) |
+| Spectral Filter | 290360 | [290360-spectral-filter.json](./290360-spectral-filter.json) |
 | Spectral Force 2 | 80134 | [80134-spectral-force-2.json](./80134-spectral-force-2.json) |
 | Spectral Force 3 | 21339 | [21339-spectral-force-3.json](./21339-spectral-force-3.json) |
 | Spectral Force Genesis | 21090 | [21090-spectral-force-genesis.json](./21090-spectral-force-genesis.json) |
@@ -19529,6 +19533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprout Valley: Friends Forever | 332505 | [332505-sprout-valley-friends-forever.json](./332505-sprout-valley-friends-forever.json) |
 | Sprout Valley: Friends Forever Expansion | 332526 | [332526-sprout-valley-friends-forever-expansion.json](./332526-sprout-valley-friends-forever-expansion.json) |
 | Sprout Valley: Legendary Edition | 328780 | [328780-sprout-valley-legendary-edition.json](./328780-sprout-valley-legendary-edition.json) |
+| Sprout Valley: Lovely | 290454 | [290454-sprout-valley-lovely.json](./290454-sprout-valley-lovely.json) |
 | Sprout Valley: New Friend - Momo | 317666 | [317666-sprout-valley-new-friend-momo.json](./317666-sprout-valley-new-friend-momo.json) |
 | Sprout Valley: Nico's Skins | 316247 | [316247-sprout-valley-nicos-skins.json](./316247-sprout-valley-nicos-skins.json) |
 | Sprout Valley: Special Edition | 304776 | [304776-sprout-valley-special-edition.json](./304776-sprout-valley-special-edition.json) |
@@ -22489,6 +22494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Nursery | 413597 | [413597-stellar-nursery.json](./413597-stellar-nursery.json) |
 | Stellar Odyssey | 413089 | [413089-stellar-odyssey.json](./413089-stellar-odyssey.json) |
 | Stellar Odyssey | 415740 | [415740-stellar-odyssey.json](./415740-stellar-odyssey.json) |
+| Stellar Orphans | 290374 | [290374-stellar-orphans.json](./290374-stellar-orphans.json) |
 | Stellar Outpost Commander | 292325 | [292325-stellar-outpost-commander.json](./292325-stellar-outpost-commander.json) |
 | Stellar Overload | 25570 | [25570-stellar-overload.json](./25570-stellar-overload.json) |
 | Stellar Poetry | 333954 | [333954-stellar-poetry.json](./333954-stellar-poetry.json) |
@@ -26357,6 +26363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dog Booby | 355897 | [355897-super-dog-booby.json](./355897-super-dog-booby.json) |
 | Super Dogfight | 64931 | [64931-super-dogfight.json](./64931-super-dogfight.json) |
 | Super Doggo Snack Time | 101080 | [101080-super-doggo-snack-time.json](./101080-super-doggo-snack-time.json) |
+| Super Doggo WOW WAN | 290239 | [290239-super-doggo-wow-wan.json](./290239-super-doggo-wow-wan.json) |
 | Super Doll Licca-chan: Kisekae Daisakusen | 233024 | [233024-super-doll-licca-chan-kisekae-daisakusen.json](./233024-super-doll-licca-chan-kisekae-daisakusen.json) |
 | Super Domino Effect 3D | 215706 | [215706-super-domino-effect-3d.json](./215706-super-domino-effect-3d.json) |
 | Super Dominoes | 208353 | [208353-super-dominoes.json](./208353-super-dominoes.json) |
