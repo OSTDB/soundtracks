@@ -11636,6 +11636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Marvelous Raincaster of Yell Holler | 402520 | [402520-the-marvelous-raincaster-of-yell-holler.json](./402520-the-marvelous-raincaster-of-yell-holler.json) |
 | The Marvelous Snail | 208849 | [208849-the-marvelous-snail.json](./208849-the-marvelous-snail.json) |
 | The Mary Jane of Tomorrow | 139274 | [139274-the-mary-jane-of-tomorrow.json](./139274-the-mary-jane-of-tomorrow.json) |
+| The Masculine Urge | 299698 | [299698-the-masculine-urge.json](./299698-the-masculine-urge.json) |
 | The Masculine Urge to Blow a Femboy | 392982 | [392982-the-masculine-urge-to-blow-a-femboy.json](./392982-the-masculine-urge-to-blow-a-femboy.json) |
 | The Mask | 42730 | [42730-the-mask.json](./42730-the-mask.json) |
 | The Mask Game | 278993 | [278993-the-mask-game.json](./278993-the-mask-game.json) |
@@ -13529,6 +13530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Runaway Feijoao | 159874 | [159874-the-runaway-feijoao.json](./159874-the-runaway-feijoao.json) |
 | The Runaway Train | 397613 | [397613-the-runaway-train.json](./397613-the-runaway-train.json) |
 | The Runemaster's Diary | 167588 | [167588-the-runemasters-diary.json](./167588-the-runemasters-diary.json) |
+| The Runes of Zendos | 299696 | [299696-the-runes-of-zendos.json](./299696-the-runes-of-zendos.json) |
 | The Runesmith | 376438 | [376438-the-runesmith.json](./376438-the-runesmith.json) |
 | The Running Dead | 183333 | [183333-the-running-dead.json](./183333-the-running-dead.json) |
 | The Running Man | 12756 | [12756-the-running-man.json](./12756-the-running-man.json) |
@@ -14347,6 +14349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slaying of Sandy Hook Elementary | 238966 | [238966-the-slaying-of-sandy-hook-elementary.json](./238966-the-slaying-of-sandy-hook-elementary.json) |
 | The Sledge of Rahmul and Merlin's Treasure | 69479 | [69479-the-sledge-of-rahmul-and-merlins-treasure.json](./69479-the-sledge-of-rahmul-and-merlins-treasure.json) |
 | The Sleeping Light | 255513 | [255513-the-sleeping-light.json](./255513-the-sleeping-light.json) |
+| The Sleeping Sickness | 299811 | [299811-the-sleeping-sickness.json](./299811-the-sleeping-sickness.json) |
 | The Slime | 195476 | [195476-the-slime.json](./195476-the-slime.json) |
 | The Slime Plague | 244203 | [244203-the-slime-plague.json](./244203-the-slime-plague.json) |
 | The Slime Sanctuary | 280894 | [280894-the-slime-sanctuary.json](./280894-the-slime-sanctuary.json) |
@@ -26011,6 +26014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trenches of War | 38758 | [38758-trenches-of-war.json](./38758-trenches-of-war.json) |
 | TrenchesWIP | 120957 | [120957-trencheswip.json](./120957-trencheswip.json) |
 | Trenchlore | 148464 | [148464-trenchlore.json](./148464-trenchlore.json) |
+| Trenchpunk | 299700 | [299700-trenchpunk.json](./299700-trenchpunk.json) |
 | Trenchwitch | 181690 | [181690-trenchwitch.json](./181690-trenchwitch.json) |
 | Trend Ballz | 146077 | [146077-trend-ballz.json](./146077-trend-ballz.json) |
 | Trending Pharaoh | 109515 | [109515-trending-pharaoh.json](./109515-trending-pharaoh.json) |
@@ -26189,6 +26193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TriBalls | 400452 | [400452-triballs.json](./400452-triballs.json) |
 | Tribals.io | 228783 | [228783-tribals-io.json](./228783-tribals-io.json) |
 | Tribble Troubles | 133160 | [133160-tribble-troubles.json](./133160-tribble-troubles.json) |
+| Tribble Trubble | 299689 | [299689-tribble-trubble.json](./299689-tribble-trubble.json) |
 | Tribe Cool Crew: The G@me | 59154 | [59154-tribe-cool-crew-the-g-me.json](./59154-tribe-cool-crew-the-g-me.json) |
 | Tribe Explorer | 213413 | [213413-tribe-explorer.json](./213413-tribe-explorer.json) |
 | Tribe Nine | 130317 | [130317-tribe-nine.json](./130317-tribe-nine.json) |
