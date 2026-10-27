@@ -2723,6 +2723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw & Hop Jigsaw Quest: Expansion Pack 3 | 357944 | [357944-paw-and-hop-jigsaw-quest-expansion-pack-3.json](./357944-paw-and-hop-jigsaw-quest-expansion-pack-3.json) |
 | Paw Alliance | 401515 | [401515-paw-alliance.json](./401515-paw-alliance.json) |
 | Paw Bois | 185421 | [185421-paw-bois.json](./185421-paw-bois.json) |
+| Paw Brawl Party | 322621 | [322621-paw-brawl-party.json](./322621-paw-brawl-party.json) |
 | Paw Party | 348987 | [348987-paw-party.json](./348987-paw-party.json) |
 | Paw Patrol | 298309 | [298309-paw-patrol.json](./298309-paw-patrol.json) |
 | Paw Patrol Bundle | 150141 | [150141-paw-patrol-bundle.json](./150141-paw-patrol-bundle.json) |
@@ -14773,6 +14774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punk's Not Dead | 50373 | [50373-punks-not-dead.json](./50373-punks-not-dead.json) |
 | Punkgrad | 165743 | [165743-punkgrad.json](./165743-punkgrad.json) |
 | Punks Not Dead | 83938 | [83938-punks-not-dead.json](./83938-punks-not-dead.json) |
+| Punky Doodle | 322536 | [322536-punky-doodle.json](./322536-punky-doodle.json) |
 | Punky Skunk | 44881 | [44881-punky-skunk.json](./44881-punky-skunk.json) |
 | Punlock | 112167 | [112167-punlock.json](./112167-punlock.json) |
 | PunPics | 233217 | [233217-punpics.json](./233217-punpics.json) |
