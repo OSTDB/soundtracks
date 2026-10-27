@@ -4835,6 +4835,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iratus: Necromancer Edition | 154555 | [154555-iratus-necromancer-edition.json](./154555-iratus-necromancer-edition.json) |
 | Irbot | 233212 | [233212-irbot.json](./233212-irbot.json) |
 | Irehon | 188413 | [188413-irehon.json](./188413-irehon.json) |
+| Irekae IQ Crossword | 292040 | [292040-irekae-iq-crossword.json](./292040-irekae-iq-crossword.json) |
+| Irekae IQ Crossword DX | 292041 | [292041-irekae-iq-crossword-dx.json](./292041-irekae-iq-crossword-dx.json) |
 | Irem Arcade 1 | 214546 | [214546-irem-arcade-1.json](./214546-irem-arcade-1.json) |
 | Irem Arcade Classics | 92368 | [92368-irem-arcade-classics.json](./92368-irem-arcade-classics.json) |
 | Irem Arcade Hits | 62514 | [62514-irem-arcade-hits.json](./62514-irem-arcade-hits.json) |
