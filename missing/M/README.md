@@ -6622,6 +6622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Revolution | 102071 | [102071-mega-man-revolution.json](./102071-mega-man-revolution.json) |
 | Mega Man Rock | 323771 | [323771-mega-man-rock.json](./323771-mega-man-rock.json) |
 | Mega Man Rock Force | 194382 | [194382-mega-man-rock-force.json](./194382-mega-man-rock-force.json) |
+| Mega Man Rocks! | 322021 | [322021-mega-man-rocks.json](./322021-mega-man-rocks.json) |
 | Mega Man RPG: Prototype | 288040 | [288040-mega-man-rpg-prototype.json](./288040-mega-man-rpg-prototype.json) |
 | Mega Man SNES | 377766 | [377766-mega-man-snes.json](./377766-mega-man-snes.json) |
 | Mega Man Soccer | 1730 | [1730-mega-man-soccer.json](./1730-mega-man-soccer.json) |
@@ -13361,6 +13362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Now: Season 3 | 317847 | [317847-monster-hunter-now-season-3.json](./317847-monster-hunter-now-season-3.json) |
 | Monster Hunter Now: Season 4 | 325606 | [325606-monster-hunter-now-season-4.json](./325606-monster-hunter-now-season-4.json) |
 | Monster Hunter Online | 26901 | [26901-monster-hunter-online.json](./26901-monster-hunter-online.json) |
+| Monster Hunter Outlanders | 322022 | [322022-monster-hunter-outlanders.json](./322022-monster-hunter-outlanders.json) |
 | Monster Hunter Portable 3rd | 42759 | [42759-monster-hunter-portable-3rd.json](./42759-monster-hunter-portable-3rd.json) |
 | Monster Hunter Portable 3rd HD Ver. | 78633 | [78633-monster-hunter-portable-3rd-hd-ver.json](./78633-monster-hunter-portable-3rd-hd-ver.json) |
 | Monster Hunter Rise + Sunbreak | 207388 | [207388-monster-hunter-rise-sunbreak.json](./207388-monster-hunter-rise-sunbreak.json) |
@@ -14497,6 +14499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Blitz | 50747 | [50747-mortal-blitz.json](./50747-mortal-blitz.json) |
 | Mortal Blitz: Combat Arena | 218536 | [218536-mortal-blitz-combat-arena.json](./218536-mortal-blitz-combat-arena.json) |
 | Mortal box | 84057 | [84057-mortal-box.json](./84057-mortal-box.json) |
+| Mortal Coil | 321942 | [321942-mortal-coil.json](./321942-mortal-coil.json) |
 | Mortal Crux | 217445 | [217445-mortal-crux.json](./217445-mortal-crux.json) |
 | Mortal Cultivation Biography | 368504 | [368504-mortal-cultivation-biography.json](./368504-mortal-cultivation-biography.json) |
 | Mortal Dark | 215069 | [215069-mortal-dark.json](./215069-mortal-dark.json) |
