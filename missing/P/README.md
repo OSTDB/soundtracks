@@ -4190,6 +4190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petracal | 364824 | [364824-petracal.json](./364824-petracal.json) |
 | Petradise | 175246 | [175246-petradise.json](./175246-petradise.json) |
 | Petri Dish | 356624 | [356624-petri-dish.json](./356624-petri-dish.json) |
+| Petrichor | 317198 | [317198-petrichor.json](./317198-petrichor.json) |
 | Petrichor | 333175 | [333175-petrichor.json](./333175-petrichor.json) |
 | Petrichor | 337594 | [337594-petrichor.json](./337594-petrichor.json) |
 | Petrichor | 60540 | [60540-petrichor.json](./60540-petrichor.json) |
@@ -6525,6 +6526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PirateWar | 312156 | [312156-piratewar.json](./312156-piratewar.json) |
 | Piratiska Riba VR | 182876 | [182876-piratiska-riba-vr.json](./182876-piratiska-riba-vr.json) |
 | Piratopia: Raiders of Pirate Bay | 239585 | [239585-piratopia-raiders-of-pirate-bay.json](./239585-piratopia-raiders-of-pirate-bay.json) |
+| Pirofauna | 317189 | [317189-pirofauna.json](./317189-pirofauna.json) |
 | Piron Virus | 275091 | [275091-piron-virus.json](./275091-piron-virus.json) |
 | Piropa | 382587 | [382587-piropa.json](./382587-piropa.json) |
 | PiroPito | 276754 | [276754-piropito.json](./276754-piropito.json) |
@@ -9020,6 +9022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokédex 3D Pro | 21700 | [21700-pokedex-3d-pro.json](./21700-pokedex-3d-pro.json) |
 | Pokédex for iOS | 64282 | [64282-pokedex-for-ios.json](./64282-pokedex-for-ios.json) |
 | Pokedex-Accurate Dual-Type Pokemon Personality Test | 376193 | [376193-pokedex-accurate-dual-type-pokemon-personality-test.json](./376193-pokedex-accurate-dual-type-pokemon-personality-test.json) |
+| PokéFarm Q | 317204 | [317204-pokefarm-q.json](./317204-pokefarm-q.json) |
 | Pokéfeet | 403430 | [403430-pokefeet.json](./403430-pokefeet.json) |
 | PokeFields | 414341 | [414341-pokefields.json](./414341-pokefields.json) |
 | PokéHeroes | 383188 | [383188-pokeheroes.json](./383188-pokeheroes.json) |
