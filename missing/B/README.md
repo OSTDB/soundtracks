@@ -835,7 +835,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3726,6 +3725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlejack | 55074 | [55074-battlejack.json](./55074-battlejack.json) |
 | Battlejack: Blackjack RPG | 91992 | [91992-battlejack-blackjack-rpg.json](./91992-battlejack-blackjack-rpg.json) |
 | BattleJuice Alchemist | 157433 | [157433-battlejuice-alchemist.json](./157433-battlejuice-alchemist.json) |
+| BattleKnight | 286693 | [286693-battleknight.json](./286693-battleknight.json) |
 | BattleLand: Warrior vs. Monster | 263574 | [263574-battleland-warrior-vs-monster.json](./263574-battleland-warrior-vs-monster.json) |
 | Battlelands Royale | 104311 | [104311-battlelands-royale.json](./104311-battlelands-royale.json) |
 | Battleline: Steel Warfare | 23630 | [23630-battleline-steel-warfare.json](./23630-battleline-steel-warfare.json) |
@@ -9050,6 +9050,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block King Demands Red Squares | 347088 | [347088-block-king-demands-red-squares.json](./347088-block-king-demands-red-squares.json) |
 | Block Koala | 318468 | [318468-block-koala.json](./318468-block-koala.json) |
 | Block Kuzushi | 38269 | [38269-block-kuzushi.json](./38269-block-kuzushi.json) |
+| Block Kuzushi Kowashite Help! | 286362 | [286362-block-kuzushi-kowashite-help.json](./286362-block-kuzushi-kowashite-help.json) |
+| Block Kuzushi: Deden no Gyakushuu | 286361 | [286361-block-kuzushi-deden-no-gyakushuu.json](./286361-block-kuzushi-deden-no-gyakushuu.json) |
 | Block Legend | 38801 | [38801-block-legend.json](./38801-block-legend.json) |
 | Block Line Engineer | 188944 | [188944-block-line-engineer.json](./188944-block-line-engineer.json) |
 | Block Machine | 149901 | [149901-block-machine.json](./149901-block-machine.json) |
@@ -14393,6 +14395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bufo Merge | 374283 | [374283-bufo-merge.json](./374283-bufo-merge.json) |
 | Bug | 302781 | [302781-bug.json](./302781-bug.json) |
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
+| Bug & Seek: Isopods | 286548 | [286548-bug-and-seek-isopods.json](./286548-bug-and-seek-isopods.json) |
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
 | Bug Adventure | 206691 | [206691-bug-adventure.json](./206691-bug-adventure.json) |
 | Bug Alliance | 304438 | [304438-bug-alliance.json](./304438-bug-alliance.json) |
