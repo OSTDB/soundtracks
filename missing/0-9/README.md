@@ -1495,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Solitaire Plus | 107146 | [107146-2048-solitaire-plus.json](./107146-2048-solitaire-plus.json) |
 | 2048-F8 | 268503 | [268503-2048-f8.json](./268503-2048-f8.json) |
 | 2048: Bee the Swarm | 58695 | [58695-2048-bee-the-swarm.json](./58695-2048-bee-the-swarm.json) |
+| 2048: Dungeons | 292516 | [292516-2048-dungeons.json](./292516-2048-dungeons.json) |
 | 2048: StarWars | 313244 | [313244-2048-starwars.json](./313244-2048-starwars.json) |
 | 2048+# | 343995 | [343995-2048.json](./343995-2048.json) |
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
