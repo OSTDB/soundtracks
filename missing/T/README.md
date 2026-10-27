@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take a Hint | 393928 | [393928-take-a-hint.json](./393928-take-a-hint.json) |
 | Take A Leak | 267424 | [267424-take-a-leak.json](./267424-take-a-leak.json) |
 | Take a Little | 238737 | [238737-take-a-little.json](./238737-take-a-little.json) |
+| Take a Look | 292502 | [292502-take-a-look.json](./292502-take-a-look.json) |
 | Take a piss like a woman | 330160 | [330160-take-a-piss-like-a-woman.json](./330160-take-a-piss-like-a-woman.json) |
 | Take a Seat! | 202961 | [202961-take-a-seat.json](./202961-take-a-seat.json) |
 | Take a Smile | 246484 | [246484-take-a-smile.json](./246484-take-a-smile.json) |
@@ -7611,6 +7612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End Was Nigh | 135777 | [135777-the-end-was-nigh.json](./135777-the-end-was-nigh.json) |
 | The End: Inari's Quest | 77737 | [77737-the-end-inaris-quest.json](./77737-the-end-inaris-quest.json) |
 | The End: Pronton | 240749 | [240749-the-end-pronton.json](./240749-the-end-pronton.json) |
+| The Endarkenment | 292559 | [292559-the-endarkenment.json](./292559-the-endarkenment.json) |
 | The Endless Adventure | 165686 | [165686-the-endless-adventure.json](./165686-the-endless-adventure.json) |
 | The Endless Backgate | 372807 | [372807-the-endless-backgate.json](./372807-the-endless-backgate.json) |
 | The Endless Dream | 253833 | [253833-the-endless-dream.json](./253833-the-endless-dream.json) |
@@ -12218,6 +12220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Next Big Thing | 264879 | [264879-the-next-big-thing.json](./264879-the-next-big-thing.json) |
 | The Next Door | 33405 | [33405-the-next-door.json](./33405-the-next-door.json) |
 | The Next Jianghu I | 155867 | [155867-the-next-jianghu-i.json](./155867-the-next-jianghu-i.json) |
+| The Next Kingpin | 292569 | [292569-the-next-kingpin.json](./292569-the-next-kingpin.json) |
 | The Next Penelope: Race to Odysseus | 61538 | [61538-the-next-penelope-race-to-odysseus.json](./61538-the-next-penelope-race-to-odysseus.json) |
 | The Next Space | 21703 | [21703-the-next-space.json](./21703-the-next-space.json) |
 | The Next Stop | 364026 | [364026-the-next-stop.json](./364026-the-next-stop.json) |
@@ -17786,6 +17789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TI-Pei | 419895 | [419895-ti-pei.json](./419895-ti-pei.json) |
 | TI-Sweeper | 421191 | [421191-ti-sweeper.json](./421191-ti-sweeper.json) |
 | Tia.Sav | 113884 | [113884-tia-sav.json](./113884-tia-sav.json) |
+| TiaDar | 292479 | [292479-tiadar.json](./292479-tiadar.json) |
 | Tialucy and the Underground Labyrinth | 82845 | [82845-tialucy-and-the-underground-labyrinth.json](./82845-tialucy-and-the-underground-labyrinth.json) |
 | Tiamat X | 35900 | [35900-tiamat-x.json](./35900-tiamat-x.json) |
 | Tiamat's Drink | 127198 | [127198-tiamats-drink.json](./127198-tiamats-drink.json) |
