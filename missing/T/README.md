@@ -3110,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telepath of Evil | 339411 | [339411-telepath-of-evil.json](./339411-telepath-of-evil.json) |
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
 | Telepathy | 282667 | [282667-telepathy.json](./282667-telepathy.json) |
+| Teleport Jumper | 312044 | [312044-teleport-jumper.json](./312044-teleport-jumper.json) |
 | Teleport Master | 332798 | [332798-teleport-master.json](./332798-teleport-master.json) |
 | Teleport VR | 240646 | [240646-teleport-vr.json](./240646-teleport-vr.json) |
 | Teleportal | 323580 | [323580-teleportal.json](./323580-teleportal.json) |
@@ -8744,6 +8745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Flood | 380563 | [380563-the-great-flood.json](./380563-the-great-flood.json) |
 | The Great Fluctus | 319045 | [319045-the-great-fluctus.json](./319045-the-great-fluctus.json) |
 | The Great Forever Tomorrow | 216436 | [216436-the-great-forever-tomorrow.json](./216436-the-great-forever-tomorrow.json) |
+| The Great Fumo Binning | 311982 | [311982-the-great-fumo-binning.json](./311982-the-great-fumo-binning.json) |
 | The Great Fusion | 19499 | [19499-the-great-fusion.json](./19499-the-great-fusion.json) |
 | The Great Gatsby | 76889 | [76889-the-great-gatsby.json](./76889-the-great-gatsby.json) |
 | The Great Gatsby: Secret Treasure | 28589 | [28589-the-great-gatsby-secret-treasure.json](./28589-the-great-gatsby-secret-treasure.json) |
@@ -11091,6 +11093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Match Girl and Her Friend, the Crow | 290405 | [290405-the-little-match-girl-and-her-friend-the-crow.json](./290405-the-little-match-girl-and-her-friend-the-crow.json) |
 | The Little Match Girl, by Hans Christian Andersen | 290401 | [290401-the-little-match-girl-by-hans-christian-andersen.json](./290401-the-little-match-girl-by-hans-christian-andersen.json) |
 | The Little Mermaid | 255682 | [255682-the-little-mermaid.json](./255682-the-little-mermaid.json) |
+| The Little Mermaid: Ariel and the Star Festival | 312065 | [312065-the-little-mermaid-ariel-and-the-star-festival.json](./312065-the-little-mermaid-ariel-and-the-star-festival.json) |
 | The Little Mermaid: The Wedding | 371003 | [371003-the-little-mermaid-the-wedding.json](./371003-the-little-mermaid-the-wedding.json) |
 | The Little Mermaid: Visual Harmony | 274449 | [274449-the-little-mermaid-visual-harmony.json](./274449-the-little-mermaid-visual-harmony.json) |
 | The Little Mermaid: Wonder Puzzles | 314881 | [314881-the-little-mermaid-wonder-puzzles.json](./314881-the-little-mermaid-wonder-puzzles.json) |
@@ -23103,6 +23106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: KIAH Airport | 298704 | [298704-tower-simulator-3-kiah-airport.json](./298704-tower-simulator-3-kiah-airport.json) |
 | Tower! Simulator 3: KJFK Airport | 353338 | [353338-tower-simulator-3-kjfk-airport.json](./353338-tower-simulator-3-kjfk-airport.json) |
 | Tower! Simulator 3: KMCO Airport | 298091 | [298091-tower-simulator-3-kmco-airport.json](./298091-tower-simulator-3-kmco-airport.json) |
+| Tower! Simulator 3: KONT Airport | 312055 | [312055-tower-simulator-3-kont-airport.json](./312055-tower-simulator-3-kont-airport.json) |
 | Tower! Simulator 3: KORD Airport | 396508 | [396508-tower-simulator-3-kord-airport.json](./396508-tower-simulator-3-kord-airport.json) |
 | Tower! Simulator 3: KPHL Airport | 353339 | [353339-tower-simulator-3-kphl-airport.json](./353339-tower-simulator-3-kphl-airport.json) |
 | Tower! Simulator 3: KPIT Airport | 311097 | [311097-tower-simulator-3-kpit-airport.json](./311097-tower-simulator-3-kpit-airport.json) |
@@ -24432,6 +24436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Traffic Manager: Extended Edition | 280627 | [280627-train-traffic-manager-extended-edition.json](./280627-train-traffic-manager-extended-edition.json) |
 | Train Traffic Manager: Gold Edition | 308794 | [308794-train-traffic-manager-gold-edition.json](./308794-train-traffic-manager-gold-edition.json) |
 | Train Traffic Manager: GOTY Edition | 333728 | [333728-train-traffic-manager-goty-edition.json](./333728-train-traffic-manager-goty-edition.json) |
+| Train Traffic Manager: Platinum Edition | 312064 | [312064-train-traffic-manager-platinum-edition.json](./312064-train-traffic-manager-platinum-edition.json) |
 | Train Traffic Manager: Prime Edition | 328805 | [328805-train-traffic-manager-prime-edition.json](./328805-train-traffic-manager-prime-edition.json) |
 | Train Traffic Manager: Super Edition | 324360 | [324360-train-traffic-manager-super-edition.json](./324360-train-traffic-manager-super-edition.json) |
 | Train Train Train | 158548 | [158548-train-train-train.json](./158548-train-train-train.json) |
@@ -24456,6 +24461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Your Brain: Nintendo Switch Training for Adults | 124043 | [124043-train-your-brain-nintendo-switch-training-for-adults.json](./124043-train-your-brain-nintendo-switch-training-for-adults.json) |
 | Train Your Brain! Spot the Difference with Dog Photos | 300842 | [300842-train-your-brain-spot-the-difference-with-dog-photos.json](./300842-train-your-brain-spot-the-difference-with-dog-photos.json) |
 | Train Your Brain! Spot the Difference With Fish Photos | 308615 | [308615-train-your-brain-spot-the-difference-with-fish-photos.json](./308615-train-your-brain-spot-the-difference-with-fish-photos.json) |
+| Train Your Brain! Spot the Difference with Japanese landscapes | 312067 | [312067-train-your-brain-spot-the-difference-with-japanese-landscapes.json](./312067-train-your-brain-spot-the-difference-with-japanese-landscapes.json) |
 | Train Your Brain! Spot the Difference With Space Photos | 385070 | [385070-train-your-brain-spot-the-difference-with-space-photos.json](./385070-train-your-brain-spot-the-difference-with-space-photos.json) |
 | Train Your Fingers: Lab | 348730 | [348730-train-your-fingers-lab.json](./348730-train-your-fingers-lab.json) |
 | Train Your Focus and Observation Skills: The Spot-the-Difference Challenge | 376230 | [376230-train-your-focus-and-observation-skills-the-spot-the-difference-challenge.json](./376230-train-your-focus-and-observation-skills-the-spot-the-difference-challenge.json) |
@@ -27615,6 +27621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turk-A-Lurk | 186811 | [186811-turk-a-lurk.json](./186811-turk-a-lurk.json) |
 | Turkey Fling | 261542 | [261542-turkey-fling.json](./261542-turkey-fling.json) |
 | Turkey Got Guts | 394210 | [394210-turkey-got-guts.json](./394210-turkey-got-guts.json) |
+| Turkey Hero | 311972 | [311972-turkey-hero.json](./311972-turkey-hero.json) |
 | Turkey Hunt 3D | 141041 | [141041-turkey-hunt-3d.json](./141041-turkey-hunt-3d.json) |
 | Turkey Hunter 3D | 70317 | [70317-turkey-hunter-3d.json](./70317-turkey-hunter-3d.json) |
 | Turkey Hunter Deluxe | 57331 | [57331-turkey-hunter-deluxe.json](./57331-turkey-hunter-deluxe.json) |
