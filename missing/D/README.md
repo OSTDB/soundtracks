@@ -4092,6 +4092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debauchery & Magic | 420588 | [420588-debauchery-and-magic.json](./420588-debauchery-and-magic.json) |
 | Debbie's Diner Derby | 394889 | [394889-debbies-diner-derby.json](./394889-debbies-diner-derby.json) |
 | Deber | 294931 | [294931-deber.json](./294931-deber.json) |
+| Debilitating Dream | 312596 | [312596-debilitating-dream.json](./312596-debilitating-dream.json) |
 | Debrecen | 312921 | [312921-debrecen.json](./312921-debrecen.json) |
 | Debris | 150097 | [150097-debris.json](./150097-debris.json) |
 | Debris | 151854 | [151854-debris.json](./151854-debris.json) |
@@ -11464,6 +11465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot's Home | 172440 | [172440-dots-home.json](./172440-dots-home.json) |
 | Dota | 233022 | [233022-dota.json](./233022-dota.json) |
 | Dota 2: New Frontiers | 246900 | [246900-dota-2-new-frontiers.json](./246900-dota-2-new-frontiers.json) |
+| Dota DS | 312603 | [312603-dota-ds.json](./312603-dota-ds.json) |
 | Dotabata Chouri Akushon IT-kei Ramen Dorasu | 222447 | [222447-dotabata-chouri-akushon-it-kei-ramen-dorasu.json](./222447-dotabata-chouri-akushon-it-kei-ramen-dorasu.json) |
 | DotAge | 111045 | [111045-dotage.json](./111045-dotage.json) |
 | DotAge: Folkways | 336527 | [336527-dotage-folkways.json](./336527-dotage-folkways.json) |
@@ -13644,6 +13646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming in Cherry Blossoms, I Fall in Love With You | 357142 | [357142-dreaming-in-cherry-blossoms-i-fall-in-love-with-you.json](./357142-dreaming-in-cherry-blossoms-i-fall-in-love-with-you.json) |
 | Dreaming in the Mountains | 262372 | [262372-dreaming-in-the-mountains.json](./262372-dreaming-in-the-mountains.json) |
 | Dreaming Mary | 58386 | [58386-dreaming-mary.json](./58386-dreaming-mary.json) |
+| Dreaming Network | 312599 | [312599-dreaming-network.json](./312599-dreaming-network.json) |
 | Dreaming of You | 184924 | [184924-dreaming-of-you.json](./184924-dreaming-of-you.json) |
 | Dreaming Rainbow | 191824 | [191824-dreaming-rainbow.json](./191824-dreaming-rainbow.json) |
 | Dreaming Sarah | 8702 | [8702-dreaming-sarah.json](./8702-dreaming-sarah.json) |
