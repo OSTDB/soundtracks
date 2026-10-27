@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pahelika Secret Legends | 10649 | [10649-pahelika-secret-legends.json](./10649-pahelika-secret-legends.json) |
 | Pahelika: Revelations HD | 36164 | [36164-pahelika-revelations-hd.json](./36164-pahelika-revelations-hd.json) |
 | Pahtkest! | 382342 | [382342-pahtkest.json](./382342-pahtkest.json) |
+| Pai | 292496 | [292496-pai.json](./292496-pai.json) |
 | Paid by Blood | 409688 | [409688-paid-by-blood.json](./409688-paid-by-blood.json) |
 | Paid in Blood | 392268 | [392268-paid-in-blood.json](./392268-paid-in-blood.json) |
 | Paign | 388159 | [388159-paign.json](./388159-paign.json) |
@@ -6061,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinch | 66756 | [66756-pinch.json](./66756-pinch.json) |
 | Pinch 2 HD | 63320 | [63320-pinch-2-hd.json](./63320-pinch-2-hd.json) |
 | Pinch 2 HD: Special Edition | 63316 | [63316-pinch-2-hd-special-edition.json](./63316-pinch-2-hd-special-edition.json) |
+| Pinch 50 Renpatsu!! | 292570 | [292570-pinch-50-renpatsu.json](./292570-pinch-50-renpatsu.json) |
 | Pinch of Fighting Girls | 211611 | [211611-pinch-of-fighting-girls.json](./211611-pinch-of-fighting-girls.json) |
 | Pinchcliffe Grand Prix: Anniversary Edition | 345121 | [345121-pinchcliffe-grand-prix-anniversary-edition.json](./345121-pinchcliffe-grand-prix-anniversary-edition.json) |
 | Pinched | 412786 | [412786-pinched.json](./412786-pinched.json) |
@@ -7649,6 +7651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Place: Weapon Workshop | 411079 | [411079-place-weapon-workshop.json](./411079-place-weapon-workshop.json) |
 | Placebo Love | 150074 | [150074-placebo-love.json](./150074-placebo-love.json) |
 | Placefront | 170322 | [170322-placefront.json](./170322-placefront.json) |
+| Placeground | 292499 | [292499-placeground.json](./292499-placeground.json) |
 | Placeless | 291755 | [291755-placeless.json](./291755-placeless.json) |
 | Placement | 65819 | [65819-placement.json](./65819-placement.json) |
 | Placid Place | 57449 | [57449-placid-place.json](./57449-placid-place.json) |
