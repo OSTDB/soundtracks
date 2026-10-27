@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred: Last Pixel of Ancaria | 382855 | [382855-sacred-last-pixel-of-ancaria.json](./382855-sacred-last-pixel-of-ancaria.json) |
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
 | Sacrifice Girl: The Curse of Demon Snake | 112222 | [112222-sacrifice-girl-the-curse-of-demon-snake.json](./112222-sacrifice-girl-the-curse-of-demon-snake.json) |
+| Sacrifice Villains | 314808 | [314808-sacrifice-villains.json](./314808-sacrifice-villains.json) |
 | Sacrifice Your Friends | 121552 | [121552-sacrifice-your-friends.json](./121552-sacrifice-your-friends.json) |
 | Sacrifices | 279897 | [279897-sacrifices.json](./279897-sacrifices.json) |
 | Sacrifices | 330126 | [330126-sacrifices.json](./330126-sacrifices.json) |
@@ -493,6 +494,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saiko no Sutoka | 141288 | [141288-saiko-no-sutoka.json](./141288-saiko-no-sutoka.json) |
 | Saiko no Sutoka no Shiki | 244705 | [244705-saiko-no-sutoka-no-shiki.json](./244705-saiko-no-sutoka-no-shiki.json) |
 | Saikoro Saiko Sebunsu Hebun | 230320 | [230320-saikoro-saiko-sebunsu-hebun.json](./230320-saikoro-saiko-sebunsu-hebun.json) |
+| Saikoro Saiko: Memento Mori | 314824 | [314824-saikoro-saiko-memento-mori.json](./314824-saikoro-saiko-memento-mori.json) |
+| Saikoro Saiko: Miss Fortune | 314826 | [314826-saikoro-saiko-miss-fortune.json](./314826-saikoro-saiko-miss-fortune.json) |
+| Saikoro Saiko: Promises | 314825 | [314825-saikoro-saiko-promises.json](./314825-saikoro-saiko-promises.json) |
 | Saikyo no Mahjong: 100 Mannin no Tame no Mahjong Dojo | 222373 | [222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json](./222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json) |
 | Saikyo Robots | 251824 | [251824-saikyo-robots.json](./251824-saikyo-robots.json) |
 | Saikyou Ginsei Chess | 83453 | [83453-saikyou-ginsei-chess.json](./83453-saikyou-ginsei-chess.json) |
@@ -20496,6 +20500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ship | 18424 | [18424-star-ship.json](./18424-star-ship.json) |
 | Star Ship Survivor | 279498 | [279498-star-ship-survivor.json](./279498-star-ship-survivor.json) |
 | Star Shogun | 311160 | [311160-star-shogun.json](./311160-star-shogun.json) |
+| Star Shoot VS | 314812 | [314812-star-shoot-vs.json](./314812-star-shoot-vs.json) |
 | Star Shredders | 81697 | [81697-star-shredders.json](./81697-star-shredders.json) |
 | Star Sign | 217309 | [217309-star-sign.json](./217309-star-sign.json) |
 | Star Sign | 377304 | [377304-star-sign.json](./377304-star-sign.json) |
@@ -22413,6 +22418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellinavra | 230155 | [230155-stellinavra.json](./230155-stellinavra.json) |
 | Stellona | 152861 | [152861-stellona.json](./152861-stellona.json) |
 | Stelloop | 232818 | [232818-stelloop.json](./232818-stelloop.json) |
+| StellwerkSim | 314847 | [314847-stellwerksim.json](./314847-stellwerksim.json) |
 | Stem | 24944 | [24944-stem.json](./24944-stem.json) |
 | Stencil Art | 147621 | [147621-stencil-art.json](./147621-stencil-art.json) |
 | Stendhal | 176198 | [176198-stendhal.json](./176198-stendhal.json) |
@@ -23999,6 +24005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strife of Cosmos | 194345 | [194345-strife-of-cosmos.json](./194345-strife-of-cosmos.json) |
 | Strife: Veteran Edition | 147967 | [147967-strife-veteran-edition.json](./147967-strife-veteran-edition.json) |
 | Strifeshadow | 93456 | [93456-strifeshadow.json](./93456-strifeshadow.json) |
+| Strigoi | 314801 | [314801-strigoi.json](./314801-strigoi.json) |
 | Strigoi Town | 378218 | [378218-strigoi-town.json](./378218-strigoi-town.json) |
 | Strike | 83383 | [83383-strike.json](./83383-strike.json) |
 | Strike & Resist | 346635 | [346635-strike-and-resist.json](./346635-strike-and-resist.json) |
