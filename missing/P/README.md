@@ -3086,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaceful Gunner | 153389 | [153389-peaceful-gunner.json](./153389-peaceful-gunner.json) |
 | Peaceful Lands | 236866 | [236866-peaceful-lands.json](./236866-peaceful-lands.json) |
 | Peacekeeper | 62088 | [62088-peacekeeper.json](./62088-peacekeeper.json) |
+| Peacely Online | 308185 | [308185-peacely-online.json](./308185-peacely-online.json) |
 | Peacemaker | 21433 | [21433-peacemaker.json](./21433-peacemaker.json) |
 | Peacemaker: Bloody Emperor | 264665 | [264665-peacemaker-bloody-emperor.json](./264665-peacemaker-bloody-emperor.json) |
 | Peacemaker: Protect, Search & Destroy | 382364 | [382364-peacemaker-protect-search-and-destroy.json](./382364-peacemaker-protect-search-and-destroy.json) |
@@ -3922,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 4 Arena: Ultimate Edition | 99948 | [99948-persona-4-arena-ultimate-edition.json](./99948-persona-4-arena-ultimate-edition.json) |
 | Persona 4 Colors | 242935 | [242935-persona-4-colors.json](./242935-persona-4-colors.json) |
 | Persona 4 Dancing All Night: Heaven featuring Hatsune Miku | 319167 | [319167-persona-4-dancing-all-night-heaven-featuring-hatsune-miku.json](./319167-persona-4-dancing-all-night-heaven-featuring-hatsune-miku.json) |
+| Persona 4 GB | 308189 | [308189-persona-4-gb.json](./308189-persona-4-gb.json) |
 | Persona 4 Golden | 234702 | [234702-persona-4-golden.json](./234702-persona-4-golden.json) |
 | Persona 4 Revival: Digital Premium Edition | 407470 | [407470-persona-4-revival-digital-premium-edition.json](./407470-persona-4-revival-digital-premium-edition.json) |
 | Persona 4 Revival: Limited Box | 405121 | [405121-persona-4-revival-limited-box.json](./405121-persona-4-revival-limited-box.json) |
@@ -7279,6 +7281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Washer | 263778 | [263778-pixel-washer.json](./263778-pixel-washer.json) |
 | Pixel Wheels | 186054 | [186054-pixel-wheels.json](./186054-pixel-wheels.json) |
 | Pixel Whirled | 66640 | [66640-pixel-whirled.json](./66640-pixel-whirled.json) |
+| Pixel With Your Friends | 308152 | [308152-pixel-with-your-friends.json](./308152-pixel-with-your-friends.json) |
 | Pixel Wizard | 356996 | [356996-pixel-wizard.json](./356996-pixel-wizard.json) |
 | Pixel World | 388147 | [388147-pixel-world.json](./388147-pixel-world.json) |
 | Pixel Worlds | 36708 | [36708-pixel-worlds.json](./36708-pixel-worlds.json) |
@@ -7591,6 +7594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PJ Masks: Laptop Infantil | 297764 | [297764-pj-masks-laptop-infantil.json](./297764-pj-masks-laptop-infantil.json) |
 | PJ Masks: Moonlight Heroes | 237649 | [237649-pj-masks-moonlight-heroes.json](./237649-pj-masks-moonlight-heroes.json) |
 | PJ Masks: Time to be a Hero | 137539 | [137539-pj-masks-time-to-be-a-hero.json](./137539-pj-masks-time-to-be-a-hero.json) |
+| Pjsloth1 | 308320 | [308320-pjsloth1.json](./308320-pjsloth1.json) |
 | PK Scramble | 93521 | [93521-pk-scramble.json](./93521-pk-scramble.json) |
 | PK War | 367610 | [367610-pk-war.json](./367610-pk-war.json) |
 | Pk2022 | 188505 | [188505-pk2022.json](./188505-pk2022.json) |
