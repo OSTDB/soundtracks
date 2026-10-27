@@ -4425,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Ridge | 14506 | [14506-outer-ridge.json](./14506-outer-ridge.json) |
 | Outer Rim: Survivor | 95191 | [95191-outer-rim-survivor.json](./95191-outer-rim-survivor.json) |
 | Outer Space | 243173 | [243173-outer-space.json](./243173-outer-space.json) |
+| Outer Space Combat | 310997 | [310997-outer-space-combat.json](./310997-outer-space-combat.json) |
 | Outer Space Survival | 207033 | [207033-outer-space-survival.json](./207033-outer-space-survival.json) |
 | Outer Space: War Gears | 211622 | [211622-outer-space-war-gears.json](./211622-outer-space-war-gears.json) |
 | Outer Storms | 323003 | [323003-outer-storms.json](./323003-outer-storms.json) |
