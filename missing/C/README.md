@@ -7749,6 +7749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CitrusBall | 355162 | [355162-citrusball.json](./355162-citrusball.json) |
 | CiTV Racing | 325555 | [325555-citv-racing.json](./325555-citv-racing.json) |
 | City | 175689 | [175689-city.json](./175689-city.json) |
+| City 20 | 287607 | [287607-city-20.json](./287607-city-20.json) |
 | City 2048 | 57448 | [57448-city-2048.json](./57448-city-2048.json) |
 | City 7: Toronto Conflict | 281410 | [281410-city-7-toronto-conflict.json](./281410-city-7-toronto-conflict.json) |
 | City Adventure Touch: Mystery of Triangle | 48315 | [48315-city-adventure-touch-mystery-of-triangle.json](./48315-city-adventure-touch-mystery-of-triangle.json) |
