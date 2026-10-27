@@ -3535,7 +3535,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nidus | 245762 | [245762-nidus.json](./245762-nidus.json) |
 | Nie no Hakoniwa: Dollhouse of Offerings | 268012 | [268012-nie-no-hakoniwa-dollhouse-of-offerings.json](./268012-nie-no-hakoniwa-dollhouse-of-offerings.json) |
 | Nièpán zhī Lù | 116728 | [116728-niepan-zhi-lu.json](./116728-niepan-zhi-lu.json) |
-| NieR Re[in]carnation | 132005 | [132005-nier-re-in-carnation.json](./132005-nier-re-in-carnation.json) |
 | NieR Re[in]carnation: The People and the World | 259669 | [259669-nier-re-in-carnation-the-people-and-the-world.json](./259669-nier-re-in-carnation-the-people-and-the-world.json) |
 | NieR Re[in]carnation: The Sun and the Moon | 259657 | [259657-nier-re-in-carnation-the-sun-and-the-moon.json](./259657-nier-re-in-carnation-the-sun-and-the-moon.json) |
 | NieR Replicant Ver. 1.22474487139...: White Snow Edition | 139071 | [139071-nier-replicant-ver-1-22474487139-white-snow-edition.json](./139071-nier-replicant-ver-1-22474487139-white-snow-edition.json) |
