@@ -2577,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daytona USA 2: Power Edition | 349356 | [349356-daytona-usa-2-power-edition.json](./349356-daytona-usa-2-power-edition.json) |
 | Daytona USA Deluxe | 73482 | [73482-daytona-usa-deluxe.json](./73482-daytona-usa-deluxe.json) |
 | DayZ | 2117 | [2117-dayz.json](./2117-dayz.json) |
+| DayZ: Cool Edition | 331815 | [331815-dayz-cool-edition.json](./331815-dayz-cool-edition.json) |
 | DayZ: Frostline | 311724 | [311724-dayz-frostline.json](./311724-dayz-frostline.json) |
 | DayZ: Livonia | 122663 | [122663-dayz-livonia.json](./122663-dayz-livonia.json) |
 | DayZ: Livonia Edition | 164803 | [164803-dayz-livonia-edition.json](./164803-dayz-livonia-edition.json) |
@@ -6776,6 +6777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry Triple Pack | 218404 | [218404-devil-may-cry-triple-pack.json](./218404-devil-may-cry-triple-pack.json) |
 | Devil Ninja Fight: Kungfu combat | 255058 | [255058-devil-ninja-fight-kungfu-combat.json](./255058-devil-ninja-fight-kungfu-combat.json) |
 | Devil of the Mirror | 182987 | [182987-devil-of-the-mirror.json](./182987-devil-of-the-mirror.json) |
+| Devil of the Mirror | 331793 | [331793-devil-of-the-mirror.json](./331793-devil-of-the-mirror.json) |
 | Devil on Your Shoulder | 199272 | [199272-devil-on-your-shoulder.json](./199272-devil-on-your-shoulder.json) |
 | Devil Piece | 174645 | [174645-devil-piece.json](./174645-devil-piece.json) |
 | Devil Rhythm -Silver Phantom- | 83401 | [83401-devil-rhythm-silver-phantom.json](./83401-devil-rhythm-silver-phantom.json) |
@@ -11651,6 +11653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubutsurishii SP | 354374 | [354374-doubutsurishii-sp.json](./354374-doubutsurishii-sp.json) |
 | Douche Bag | 51735 | [51735-douche-bag.json](./51735-douche-bag.json) |
 | Douche Defender | 63362 | [63362-douche-defender.json](./63362-douche-defender.json) |
+| Douchebag Workout 2 | 331814 | [331814-douchebag-workout-2.json](./331814-douchebag-workout-2.json) |
 | Douchebag: Ultimate Bro Pack | 366107 | [366107-douchebag-ultimate-bro-pack.json](./366107-douchebag-ultimate-bro-pack.json) |
 | DoudingMan | 264015 | [264015-doudingman.json](./264015-doudingman.json) |
 | DoudingMan: Expansion Packs | 288899 | [288899-doudingman-expansion-packs.json](./288899-doudingman-expansion-packs.json) |
