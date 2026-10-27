@@ -5319,6 +5319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Hand | 280713 | [280713-first-hand.json](./280713-first-hand.json) |
 | First Hero: Epic of Gilgamesh | 170726 | [170726-first-hero-epic-of-gilgamesh.json](./170726-first-hero-epic-of-gilgamesh.json) |
 | First Impact: Rise of a Hero | 30712 | [30712-first-impact-rise-of-a-hero.json](./30712-first-impact-rise-of-a-hero.json) |
+| First in... Line? | 317170 | [317170-first-in-line.json](./317170-first-in-line.json) |
 | First Kiss | 177741 | [177741-first-kiss.json](./177741-first-kiss.json) |
 | First Kiss at a Spooky Soiree | 144233 | [144233-first-kiss-at-a-spooky-soiree.json](./144233-first-kiss-at-a-spooky-soiree.json) |
 | First Kiss Stories | 384644 | [384644-first-kiss-stories.json](./384644-first-kiss-stories.json) |
