@@ -10378,6 +10378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skitt | 138735 | [138735-skitt.json](./138735-skitt.json) |
 | Skittles | 148170 | [148170-skittles.json](./148170-skittles.json) |
 | Skjoldur Story | 116892 | [116892-skjoldur-story.json](./116892-skjoldur-story.json) |
+| Sklime: A Difficult Climbing Adventure | 322528 | [322528-sklime-a-difficult-climbing-adventure.json](./322528-sklime-a-difficult-climbing-adventure.json) |
 | Sknow | 118206 | [118206-sknow.json](./118206-sknow.json) |
 | Skogdal | 258565 | [258565-skogdal.json](./258565-skogdal.json) |
 | Skolios | 243784 | [243784-skolios.json](./243784-skolios.json) |
@@ -26901,6 +26902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Galaxy Star Bit | 328672 | [328672-super-mario-galaxy-star-bit.json](./328672-super-mario-galaxy-star-bit.json) |
 | Super Mario Galaxy: A Blue Star Adventure | 323784 | [323784-super-mario-galaxy-a-blue-star-adventure.json](./323784-super-mario-galaxy-a-blue-star-adventure.json) |
 | Super Mario Galaxy: The Lost Levels | 313326 | [313326-super-mario-galaxy-the-lost-levels.json](./313326-super-mario-galaxy-the-lost-levels.json) |
+| Super Mario Gear Solid | 322544 | [322544-super-mario-gear-solid.json](./322544-super-mario-gear-solid.json) |
 | Super Mario Generations | 318549 | [318549-super-mario-generations.json](./318549-super-mario-generations.json) |
 | Super Mario Golden Hour | 394337 | [394337-super-mario-golden-hour.json](./394337-super-mario-golden-hour.json) |
 | Super Mario Gravity | 213948 | [213948-super-mario-gravity.json](./213948-super-mario-gravity.json) |
@@ -28974,6 +28976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive Till Morning | 223028 | [223028-survive-till-morning.json](./223028-survive-till-morning.json) |
 | Survive to Live! | 277730 | [277730-survive-to-live.json](./277730-survive-to-live.json) |
 | Survive Together | 126438 | [126438-survive-together.json](./126438-survive-together.json) |
+| Survive Undead Rush | 322534 | [322534-survive-undead-rush.json](./322534-survive-undead-rush.json) |
 | Survive: Battle Royale | 135817 | [135817-survive-battle-royale.json](./135817-survive-battle-royale.json) |
 | Survive: Forgotten and Abandoned | 270185 | [270185-survive-forgotten-and-abandoned.json](./270185-survive-forgotten-and-abandoned.json) |
 | Survive: Frost Bite | 325710 | [325710-survive-frost-bite.json](./325710-survive-frost-bite.json) |
@@ -29615,6 +29618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
 | Sweet Surrender | 152220 | [152220-sweet-surrender.json](./152220-sweet-surrender.json) |
 | Sweet Survival | 392910 | [392910-sweet-survival.json](./392910-sweet-survival.json) |
+| Sweet Survivors | 322533 | [322533-sweet-survivors.json](./322533-sweet-survivors.json) |
 | Sweet Survivors: Classy Edition | 378960 | [378960-sweet-survivors-classy-edition.json](./378960-sweet-survivors-classy-edition.json) |
 | Sweet Survivors: Fancy DLC | 324367 | [324367-sweet-survivors-fancy-dlc.json](./324367-sweet-survivors-fancy-dlc.json) |
 | Sweet Survivors: Flashy DLC | 324366 | [324366-sweet-survivors-flashy-dlc.json](./324366-sweet-survivors-flashy-dlc.json) |
@@ -30236,6 +30240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | symeCu8e | 90620 | [90620-symecu8e.json](./90620-symecu8e.json) |
 | Symmetra's Qualifying Matches | 184325 | [184325-symmetras-qualifying-matches.json](./184325-symmetras-qualifying-matches.json) |
 | Symmetrain | 123074 | [123074-symmetrain.json](./123074-symmetrain.json) |
+| Symmetrical Logic Puzzles 1000 | 322532 | [322532-symmetrical-logic-puzzles-1000.json](./322532-symmetrical-logic-puzzles-1000.json) |
 | Symmetry - Drawing Puzzles | 101090 | [101090-symmetry-drawing-puzzles.json](./101090-symmetry-drawing-puzzles.json) |
 | Symmetry and Asymmetry | 384262 | [384262-symmetry-and-asymmetry.json](./384262-symmetry-and-asymmetry.json) |
 | Symmetry and Asymmetry | 384263 | [384263-symmetry-and-asymmetry.json](./384263-symmetry-and-asymmetry.json) |
@@ -30490,6 +30495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthetic Soul 2 | 292676 | [292676-synthetic-soul-2.json](./292676-synthetic-soul-2.json) |
 | Synthetic Soul 3 | 310736 | [310736-synthetic-soul-3.json](./310736-synthetic-soul-3.json) |
 | Synthetic Soul: Neon | 295658 | [295658-synthetic-soul-neon.json](./295658-synthetic-soul-neon.json) |
+| Synthetic Soul: Onyx | 322617 | [322617-synthetic-soul-onyx.json](./322617-synthetic-soul-onyx.json) |
 | Synthetica: Cyber Club Manager | 291839 | [291839-synthetica-cyber-club-manager.json](./291839-synthetica-cyber-club-manager.json) |
 | SynthetiCell BioClicker | 339423 | [339423-syntheticell-bioclicker.json](./339423-syntheticell-bioclicker.json) |
 | Synthetik: Arena | 112983 | [112983-synthetik-arena.json](./112983-synthetik-arena.json) |
