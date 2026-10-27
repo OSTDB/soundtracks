@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Manager Italia | 182376 | [182376-tactical-manager-italia.json](./182376-tactical-manager-italia.json) |
 | Tactical Mind | 82788 | [82788-tactical-mind.json](./82788-tactical-mind.json) |
 | Tactical Mind 2 | 125278 | [125278-tactical-mind-2.json](./125278-tactical-mind-2.json) |
+| Tactical Mission: Target Rush | 293588 | [293588-tactical-mission-target-rush.json](./293588-tactical-mission-target-rush.json) |
 | Tactical Nexus | 126929 | [126929-tactical-nexus.json](./126929-tactical-nexus.json) |
 | Tactical Nexus: Chapter 3 - Tactical Cloud- | 174134 | [174134-tactical-nexus-chapter-3-tactical-cloud.json](./174134-tactical-nexus-chapter-3-tactical-cloud.json) |
 | Tactical Nexus: Chapter 4 - Tactical Star | 174546 | [174546-tactical-nexus-chapter-4-tactical-star.json](./174546-tactical-nexus-chapter-4-tactical-star.json) |
@@ -765,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Care (of Me) | 339422 | [339422-take-care-of-me.json](./339422-take-care-of-me.json) |
 | Take Care of It: Memories | 405443 | [405443-take-care-of-it-memories.json](./405443-take-care-of-it-memories.json) |
 | Take Care of It. | 383121 | [383121-take-care-of-it.json](./383121-take-care-of-it.json) |
+| Take Care Of Mittens | 293666 | [293666-take-care-of-mittens.json](./293666-take-care-of-mittens.json) |
 | Take Care of My Heifer | 414421 | [414421-take-care-of-my-heifer.json](./414421-take-care-of-my-heifer.json) |
 | Take Care Of The Cat | 412018 | [412018-take-care-of-the-cat.json](./412018-take-care-of-the-cat.json) |
 | Take Care Of The Dog | 402917 | [402917-take-care-of-the-dog.json](./402917-take-care-of-the-dog.json) |
@@ -2197,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarisland | 254235 | [254235-tarisland.json](./254235-tarisland.json) |
 | Tarisland: Season 1 - Blight Dragon Elegy | 314403 | [314403-tarisland-season-1-blight-dragon-elegy.json](./314403-tarisland-season-1-blight-dragon-elegy.json) |
 | Tarkus and the Crystal of Fear | 122954 | [122954-tarkus-and-the-crystal-of-fear.json](./122954-tarkus-and-the-crystal-of-fear.json) |
+| Tarlis World | 293667 | [293667-tarlis-world.json](./293667-tarlis-world.json) |
 | Tarnished Blood | 250840 | [250840-tarnished-blood.json](./250840-tarnished-blood.json) |
 | Tarnsman's Projectile Hell | 262435 | [262435-tarnsmans-projectile-hell.json](./262435-tarnsmans-projectile-hell.json) |
 | Taro | 126637 | [126637-taro.json](./126637-taro.json) |
@@ -5815,6 +5818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Box of Horrors | 342100 | [342100-the-box-of-horrors.json](./342100-the-box-of-horrors.json) |
 | The Boxer | 13429 | [13429-the-boxer.json](./13429-the-boxer.json) |
 | The Boy and his Story | 369463 | [369463-the-boy-and-his-story.json](./369463-the-boy-and-his-story.json) |
+| The Boy Sorcerer: Lost memory | 293597 | [293597-the-boy-sorcerer-lost-memory.json](./293597-the-boy-sorcerer-lost-memory.json) |
 | The Boy Who Typed Wolf | 99241 | [99241-the-boy-who-typed-wolf.json](./99241-the-boy-who-typed-wolf.json) |
 | The Boy With Bombs | 61122 | [61122-the-boy-with-bombs.json](./61122-the-boy-with-bombs.json) |
 | The Boyd File | 58826 | [58826-the-boyd-file.json](./58826-the-boyd-file.json) |
@@ -6993,6 +6997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Death of Erin Myers | 111289 | [111289-the-death-of-erin-myers.json](./111289-the-death-of-erin-myers.json) |
 | The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
 | The Death of Harsh Noise | 410064 | [410064-the-death-of-harsh-noise.json](./410064-the-death-of-harsh-noise.json) |
+| The Death of Rebirth | 294196 | [294196-the-death-of-rebirth.json](./294196-the-death-of-rebirth.json) |
 | The Death of the Corpse Wizard | 134893 | [134893-the-death-of-the-corpse-wizard.json](./134893-the-death-of-the-corpse-wizard.json) |
 | The Death of the Video Star | 365182 | [365182-the-death-of-the-video-star.json](./365182-the-death-of-the-video-star.json) |
 | The Death of Zoe | 159841 | [159841-the-death-of-zoe.json](./159841-the-death-of-zoe.json) |
@@ -8471,6 +8476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life: RPG Jinsei Game | 48819 | [48819-the-game-of-life-rpg-jinsei-game.json](./48819-the-game-of-life-rpg-jinsei-game.json) |
 | The Game of Life: SpongeBob SquarePants Edition | 207003 | [207003-the-game-of-life-spongebob-squarepants-edition.json](./207003-the-game-of-life-spongebob-squarepants-edition.json) |
 | The Game of Robot | 69716 | [69716-the-game-of-robot.json](./69716-the-game-of-robot.json) |
+| The Game of Sisyphus | 294183 | [294183-the-game-of-sisyphus.json](./294183-the-game-of-sisyphus.json) |
 | The Game of Squids: Ultimate Parody Game | 181000 | [181000-the-game-of-squids-ultimate-parody-game.json](./181000-the-game-of-squids-ultimate-parody-game.json) |
 | The Game of the Goose | 317172 | [317172-the-game-of-the-goose.json](./317172-the-game-of-the-goose.json) |
 | The Game of The Playful | 230930 | [230930-the-game-of-the-playful.json](./230930-the-game-of-the-playful.json) |
@@ -10472,6 +10478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sigh(t) | 390209 | [390209-the-last-sigh-t.json](./390209-the-last-sigh-t.json) |
 | The Last Sight | 260063 | [260063-the-last-sight.json](./260063-the-last-sight.json) |
 | The Last Sigil | 88325 | [88325-the-last-sigil.json](./88325-the-last-sigil.json) |
+| The Last Signal | 294120 | [294120-the-last-signal.json](./294120-the-last-signal.json) |
 | The Last Sin | 44110 | [44110-the-last-sin.json](./44110-the-last-sin.json) |
 | The Last Sip | 350953 | [350953-the-last-sip.json](./350953-the-last-sip.json) |
 | The Last Ski Trip | 357586 | [357586-the-last-ski-trip.json](./357586-the-last-ski-trip.json) |
@@ -12037,6 +12044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Murder of Adrian Elkwood | 70851 | [70851-the-murder-of-adrian-elkwood.json](./70851-the-murder-of-adrian-elkwood.json) |
 | The Murder of Ava Monroe | 377685 | [377685-the-murder-of-ava-monroe.json](./377685-the-murder-of-ava-monroe.json) |
 | The Murder of Dale Decker | 290105 | [290105-the-murder-of-dale-decker.json](./290105-the-murder-of-dale-decker.json) |
+| The Murder of Sherlock Holmes | 293582 | [293582-the-murder-of-sherlock-holmes.json](./293582-the-murder-of-sherlock-holmes.json) |
 | The Murder of Sonic the Hedgehog | 243385 | [243385-the-murder-of-sonic-the-hedgehog.json](./243385-the-murder-of-sonic-the-hedgehog.json) |
 | The Murder of Yesterday | 405714 | [405714-the-murder-of-yesterday.json](./405714-the-murder-of-yesterday.json) |
 | The Murder Room VR | 36980 | [36980-the-murder-room-vr.json](./36980-the-murder-room-vr.json) |
@@ -17024,6 +17032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thiefbot | 183990 | [183990-thiefbot.json](./183990-thiefbot.json) |
 | ThiefRl2 | 184578 | [184578-thiefrl2.json](./184578-thiefrl2.json) |
 | Thievery | 105326 | [105326-thievery.json](./105326-thievery.json) |
+| Thievery: Online | 293675 | [293675-thievery-online.json](./293675-thievery-online.json) |
 | Thieves | 335875 | [335875-thieves.json](./335875-thieves.json) |
 | Thieves and Gold | 404359 | [404359-thieves-and-gold.json](./404359-thieves-and-gold.json) |
 | Thieves and Kings | 83463 | [83463-thieves-and-kings.json](./83463-thieves-and-kings.json) |
