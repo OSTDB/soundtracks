@@ -4051,6 +4051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathpit 3000 | 74576 | [74576-deathpit-3000.json](./74576-deathpit-3000.json) |
 | Deathpuddle: Choose Violence? | 309459 | [309459-deathpuddle-choose-violence.json](./309459-deathpuddle-choose-violence.json) |
 | Deathray | 285010 | [285010-deathray.json](./285010-deathray.json) |
+| DeathRoll | 307000 | [307000-deathroll.json](./307000-deathroll.json) |
 | Deathrun | 276214 | [276214-deathrun.json](./276214-deathrun.json) |
 | Deathrun | 361030 | [361030-deathrun.json](./361030-deathrun.json) |
 | Deathrun Guys | 215176 | [215176-deathrun-guys.json](./215176-deathrun-guys.json) |
@@ -4390,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Copy | 318011 | [318011-deep-copy.json](./318011-deep-copy.json) |
 | Deep Corp | 390993 | [390993-deep-corp.json](./390993-deep-corp.json) |
 | Deep Cut | 176264 | [176264-deep-cut.json](./176264-deep-cut.json) |
+| Deep Cuts | 306937 | [306937-deep-cuts.json](./306937-deep-cuts.json) |
 | Deep Dark Block | 334247 | [334247-deep-dark-block.json](./334247-deep-dark-block.json) |
 | Deep Dark Dungeon | 32229 | [32229-deep-dark-dungeon.json](./32229-deep-dark-dungeon.json) |
 | Deep Dark Dungeon of Anglaus | 243583 | [243583-deep-dark-dungeon-of-anglaus.json](./243583-deep-dark-dungeon-of-anglaus.json) |
@@ -8586,6 +8588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disease -Hidden Object- | 103372 | [103372-disease-hidden-object.json](./103372-disease-hidden-object.json) |
 | Disease Infected: Plague | 187976 | [187976-disease-infected-plague.json](./187976-disease-infected-plague.json) |
 | Disease Z | 245842 | [245842-disease-z.json](./245842-disease-z.json) |
+| Disembodied | 306928 | [306928-disembodied.json](./306928-disembodied.json) |
 | Disembowel | 219750 | [219750-disembowel.json](./219750-disembowel.json) |
 | Disenchantment Heart | 161161 | [161161-disenchantment-heart.json](./161161-disenchantment-heart.json) |
 | disfact Game Pack 1 | 405533 | [405533-disfact-game-pack-1.json](./405533-disfact-game-pack-1.json) |
