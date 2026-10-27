@@ -1773,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritch Lands: The Witch Queen's Eternal War | 190899 | [190899-eldritch-lands-the-witch-queens-eternal-war.json](./190899-eldritch-lands-the-witch-queens-eternal-war.json) |
 | Eldritch Soul | 320839 | [320839-eldritch-soul.json](./320839-eldritch-soul.json) |
 | Eldritch Survivors | 335728 | [335728-eldritch-survivors.json](./335728-eldritch-survivors.json) |
+| Eldritch Tactics: Lichtmond | 301293 | [301293-eldritch-tactics-lichtmond.json](./301293-eldritch-tactics-lichtmond.json) |
 | Eldritch Town | 258540 | [258540-eldritch-town.json](./258540-eldritch-town.json) |
 | Eldritch University | 121475 | [121475-eldritch-university.json](./121475-eldritch-university.json) |
 | Eldritch Verdict | 316630 | [316630-eldritch-verdict.json](./316630-eldritch-verdict.json) |
@@ -3985,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EQ Survival Manual | 406819 | [406819-eq-survival-manual.json](./406819-eq-survival-manual.json) |
 | Eqdrive.io | 195550 | [195550-eqdrive-io.json](./195550-eqdrive-io.json) |
 | Eqela Space Destroyer | 100701 | [100701-eqela-space-destroyer.json](./100701-eqela-space-destroyer.json) |
+| Eqqo | 301225 | [301225-eqqo.json](./301225-eqqo.json) |
 | Equaboreal 12.21 | 133903 | [133903-equaboreal-12-21.json](./133903-equaboreal-12-21.json) |
 | Equadle | 363029 | [363029-equadle.json](./363029-equadle.json) |
 | Equaland | 104251 | [104251-equaland.json](./104251-equaland.json) |
@@ -6491,6 +6493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exits | 314964 | [314964-exits.json](./314964-exits.json) |
 | Exitus | 290619 | [290619-exitus.json](./290619-exitus.json) |
 | Exive | 110551 | [110551-exive.json](./110551-exive.json) |
+| ExMortalis | 301858 | [301858-exmortalis.json](./301858-exmortalis.json) |
 | Exmortis | 196724 | [196724-exmortis.json](./196724-exmortis.json) |
 | Exo | 398008 | [398008-exo.json](./398008-exo.json) |
 | Exo Digger | 407813 | [407813-exo-digger.json](./407813-exo-digger.json) |
@@ -7072,6 +7075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes In The Window | 377038 | [377038-eyes-in-the-window.json](./377038-eyes-in-the-window.json) |
 | Eyes Never Wake | 336500 | [336500-eyes-never-wake.json](./336500-eyes-never-wake.json) |
 | Eyes of Darkness | 201583 | [201583-eyes-of-darkness.json](./201583-eyes-of-darkness.json) |
+| Eyes of Destiny | 301868 | [301868-eyes-of-destiny.json](./301868-eyes-of-destiny.json) |
 | Eyes of Fear | 116758 | [116758-eyes-of-fear.json](./116758-eyes-of-fear.json) |
 | Eyes of Hellfire | 333788 | [333788-eyes-of-hellfire.json](./333788-eyes-of-hellfire.json) |
 | Eyes of Souls | 177948 | [177948-eyes-of-souls.json](./177948-eyes-of-souls.json) |
