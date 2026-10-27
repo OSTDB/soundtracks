@@ -15754,6 +15754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Clash | 185954 | [185954-crystal-clash.json](./185954-crystal-clash.json) |
 | Crystal Clear | 129587 | [129587-crystal-clear.json](./129587-crystal-clear.json) |
 | Crystal Clear, Mail's Here | 390156 | [390156-crystal-clear-mails-here.json](./390156-crystal-clear-mails-here.json) |
+| Crystal Cliffs | 305814 | [305814-crystal-cliffs.json](./305814-crystal-cliffs.json) |
 | Crystal Comet | 272774 | [272774-crystal-comet.json](./272774-crystal-comet.json) |
 | Crystal Command | 118120 | [118120-crystal-command.json](./118120-crystal-command.json) |
 | Crystal Compulsion | 208834 | [208834-crystal-compulsion.json](./208834-crystal-compulsion.json) |
