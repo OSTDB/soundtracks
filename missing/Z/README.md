@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zebra Evolution | 206734 | [206734-zebra-evolution.json](./206734-zebra-evolution.json) |
 | Zebra Logic Master | 238995 | [238995-zebra-logic-master.json](./238995-zebra-logic-master.json) |
 | Zebulon: A Lost Cat | 312036 | [312036-zebulon-a-lost-cat.json](./312036-zebulon-a-lost-cat.json) |
+| Zector 7 | 299103 | [299103-zector-7.json](./299103-zector-7.json) |
 | Zed | 112831 | [112831-zed.json](./112831-zed.json) |
 | Zed Shot | 107041 | [107041-zed-shot.json](./107041-zed-shot.json) |
 | Zed Zone | 216810 | [216810-zed-zone.json](./216810-zed-zone.json) |
@@ -909,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeta Fighters | 9922 | [9922-zeta-fighters.json](./9922-zeta-fighters.json) |
 | Zeta Flyff | 121479 | [121479-zeta-flyff.json](./121479-zeta-flyff.json) |
 | Zeta Force | 326965 | [326965-zeta-force.json](./326965-zeta-force.json) |
+| Zeta Wave Infinity | 296319 | [296319-zeta-wave-infinity.json](./296319-zeta-wave-infinity.json) |
 | Zeta Wolf Chronicles | 179082 | [179082-zeta-wolf-chronicles.json](./179082-zeta-wolf-chronicles.json) |
 | Zeta-7 | 25806 | [25806-zeta-7.json](./25806-zeta-7.json) |
 | Zeta's World | 337446 | [337446-zetas-world.json](./337446-zetas-world.json) |
