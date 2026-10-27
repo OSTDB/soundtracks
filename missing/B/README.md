@@ -10134,6 +10134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluff: Fun Family Card Game | 227852 | [227852-bluff-fun-family-card-game.json](./227852-bluff-fun-family-card-game.json) |
 | Bluk | 57735 | [57735-bluk.json](./57735-bluk.json) |
 | Blukaty | 291241 | [291241-blukaty.json](./291241-blukaty.json) |
+| Bluma | 306410 | [306410-bluma.json](./306410-bluma.json) |
 | Blumen & Muster Puzzle: Echter Puzzlespass für Unterwegs | 252657 | [252657-blumen-and-muster-puzzle-echter-puzzlespass-fur-unterwegs.json](./252657-blumen-and-muster-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Blumenmacht | 78913 | [78913-blumenmacht.json](./78913-blumenmacht.json) |
 | Blumgi Castle | 219262 | [219262-blumgi-castle.json](./219262-blumgi-castle.json) |
@@ -13108,6 +13109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brelok: Nezumi-tachi no Dasshutsu | 330509 | [330509-brelok-nezumi-tachi-no-dasshutsu.json](./330509-brelok-nezumi-tachi-no-dasshutsu.json) |
 | Bremen Hot Strings | 236743 | [236743-bremen-hot-strings.json](./236743-bremen-hot-strings.json) |
 | Brendan Keogh's Putting Land | 329908 | [329908-brendan-keoghs-putting-land.json](./329908-brendan-keoghs-putting-land.json) |
+| Brendon's Water Polo | 306401 | [306401-brendons-water-polo.json](./306401-brendons-water-polo.json) |
 | Bret Airborne | 28587 | [28587-bret-airborne.json](./28587-bret-airborne.json) |
 | Bretonne Lais | 297609 | [297609-bretonne-lais.json](./297609-bretonne-lais.json) |
 | Brett Hull Hockey | 42633 | [42633-brett-hull-hockey.json](./42633-brett-hull-hockey.json) |
@@ -14455,6 +14457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BugSquash | 346562 | [346562-bugsquash.json](./346562-bugsquash.json) |
 | Bugsted: Back to the Moon | 176698 | [176698-bugsted-back-to-the-moon.json](./176698-bugsted-back-to-the-moon.json) |
 | Bugsy | 13450 | [13450-bugsy.json](./13450-bugsy.json) |
+| Bugtopia | 306324 | [306324-bugtopia.json](./306324-bugtopia.json) |
 | Bugtris | 130674 | [130674-bugtris.json](./130674-bugtris.json) |
 | Bugvasion TD | 139661 | [139661-bugvasion-td.json](./139661-bugvasion-td.json) |
 | BugWorld | 254003 | [254003-bugworld.json](./254003-bugworld.json) |
