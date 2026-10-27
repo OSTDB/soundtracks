@@ -12302,6 +12302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Noise's Jam-Packed Radical Mini Mayhem! | 316590 | [316590-the-noises-jam-packed-radical-mini-mayhem.json](./316590-the-noises-jam-packed-radical-mini-mayhem.json) |
 | The Nom: Complete Edition | 289193 | [289193-the-nom-complete-edition.json](./289193-the-nom-complete-edition.json) |
 | The Nomads of Dragon Storms | 146591 | [146591-the-nomads-of-dragon-storms.json](./146591-the-nomads-of-dragon-storms.json) |
+| The Noob Adventures: Fool For Love | 291438 | [291438-the-noob-adventures-fool-for-love.json](./291438-the-noob-adventures-fool-for-love.json) |
 | The Noodle | 108223 | [108223-the-noodle.json](./108223-the-noodle.json) |
 | The Noog Network | 345430 | [345430-the-noog-network.json](./345430-the-noog-network.json) |
 | The Noose | 264478 | [264478-the-noose.json](./264478-the-noose.json) |
@@ -19866,6 +19867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timez Attack | 133752 | [133752-timez-attack.json](./133752-timez-attack.json) |
 | TimeZero | 58813 | [58813-timezero.json](./58813-timezero.json) |
 | Timidna's Beginning | 178866 | [178866-timidnas-beginning.json](./178866-timidnas-beginning.json) |
+| Timing Blocks | 291433 | [291433-timing-blocks.json](./291433-timing-blocks.json) |
 | Timing Hero | 112232 | [112232-timing-hero.json](./112232-timing-hero.json) |
 | Timing X | 402370 | [402370-timing-x.json](./402370-timing-x.json) |
 | TiminGooo! | 178339 | [178339-timingooo.json](./178339-timingooo.json) |
