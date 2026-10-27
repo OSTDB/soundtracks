@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-27T03:36:08.050Z",
-  "total_missing": 268175,
+  "generated_at": "2026-10-27T03:48:43.765Z",
+  "total_missing": 268225,
   "games": [
     {
       "igdb_id": 191680,
@@ -7442,6 +7442,11 @@
       "file": "missing/0-9/320398-20q.json"
     },
     {
+      "igdb_id": 324796,
+      "game_name": "20Q Music: Rock and Pop",
+      "file": "missing/0-9/324796-20q-music-rock-and-pop.json"
+    },
+    {
       "igdb_id": 320399,
       "game_name": "20Q: The Simpsons",
       "file": "missing/0-9/320399-20q-the-simpsons.json"
@@ -14355,6 +14360,16 @@
       "igdb_id": 241526,
       "game_name": "9 R.I.P.",
       "file": "missing/0-9/241526-9-r-i-p.json"
+    },
+    {
+      "igdb_id": 324696,
+      "game_name": "9 R.I.P. Aroma Edition",
+      "file": "missing/0-9/324696-9-r-i-p-aroma-edition.json"
+    },
+    {
+      "igdb_id": 324697,
+      "game_name": "9 R.I.P.: Day One Edition",
+      "file": "missing/0-9/324697-9-r-i-p-day-one-edition.json"
     },
     {
       "igdb_id": 257269,
@@ -46642,6 +46657,11 @@
       "file": "missing/A/97495-alone.json"
     },
     {
+      "igdb_id": 324798,
+      "game_name": "Alone A Long",
+      "file": "missing/A/324798-alone-a-long.json"
+    },
+    {
       "igdb_id": 369625,
       "game_name": "Alone but Strong",
       "file": "missing/A/369625-alone-but-strong.json"
@@ -64630,6 +64650,11 @@
       "igdb_id": 58863,
       "game_name": "April 7th",
       "file": "missing/A/58863-april-7th.json"
+    },
+    {
+      "igdb_id": 324819,
+      "game_name": "April Freebee",
+      "file": "missing/A/324819-april-freebee.json"
     },
     {
       "igdb_id": 339401,
@@ -86005,6 +86030,11 @@
       "igdb_id": 28305,
       "game_name": "Attack Heroes",
       "file": "missing/A/28305-attack-heroes.json"
+    },
+    {
+      "igdb_id": 324782,
+      "game_name": "Attack Hole",
+      "file": "missing/A/324782-attack-hole.json"
     },
     {
       "igdb_id": 63154,
@@ -181457,6 +181487,11 @@
       "file": "missing/C/34236-caretaker-retribution.json"
     },
     {
+      "igdb_id": 324822,
+      "game_name": "Caretaker: The Bureau",
+      "file": "missing/C/324822-caretaker-the-bureau.json"
+    },
+    {
       "igdb_id": 143727,
       "game_name": "Cargame",
       "file": "missing/C/143727-cargame.json"
@@ -184860,6 +184895,21 @@
       "igdb_id": 183398,
       "game_name": "Castle Diorama",
       "file": "missing/C/183398-castle-diorama.json"
+    },
+    {
+      "igdb_id": 324787,
+      "game_name": "Castle Doombad 2: Muahaha!",
+      "file": "missing/C/324787-castle-doombad-2-muahaha.json"
+    },
+    {
+      "igdb_id": 324781,
+      "game_name": "Castle Doombad Classic",
+      "file": "missing/C/324781-castle-doombad-classic.json"
+    },
+    {
+      "igdb_id": 324780,
+      "game_name": "Castle Doombad: Free To Slay",
+      "file": "missing/C/324780-castle-doombad-free-to-slay.json"
     },
     {
       "igdb_id": 146106,
@@ -202980,6 +203030,11 @@
       "igdb_id": 142212,
       "game_name": "Chonka",
       "file": "missing/C/142212-chonka.json"
+    },
+    {
+      "igdb_id": 324792,
+      "game_name": "Chonkers",
+      "file": "missing/C/324792-chonkers.json"
     },
     {
       "igdb_id": 149035,
@@ -221140,6 +221195,11 @@
       "igdb_id": 265042,
       "game_name": "Colorfle",
       "file": "missing/C/265042-colorfle.json"
+    },
+    {
+      "igdb_id": 324821,
+      "game_name": "Colorfle Unlimited",
+      "file": "missing/C/324821-colorfle-unlimited.json"
     },
     {
       "igdb_id": 108273,
@@ -260365,6 +260425,11 @@
       "igdb_id": 292768,
       "game_name": "Dala and The Cursed Forest",
       "file": "missing/D/292768-dala-and-the-cursed-forest.json"
+    },
+    {
+      "igdb_id": 324809,
+      "game_name": "Dalafri",
+      "file": "missing/D/324809-dalafri.json"
     },
     {
       "igdb_id": 277978,
@@ -301292,6 +301357,11 @@
       "file": "missing/D/275590-disney-100.json"
     },
     {
+      "igdb_id": 324794,
+      "game_name": "Disney 20Q",
+      "file": "missing/D/324794-disney-20q.json"
+    },
+    {
       "igdb_id": 98009,
       "game_name": "Disney All-Star Cards",
       "file": "missing/D/98009-disney-all-star-cards.json"
@@ -305840,6 +305910,11 @@
       "igdb_id": 68883,
       "game_name": "Doctor What!",
       "file": "missing/D/68883-doctor-what.json"
+    },
+    {
+      "igdb_id": 324797,
+      "game_name": "Doctor Who 20Q",
+      "file": "missing/D/324797-doctor-who-20q.json"
     },
     {
       "igdb_id": 218359,
@@ -318375,6 +318450,11 @@
       "igdb_id": 144306,
       "game_name": "Dracula vs. The Ninja On the Moon",
       "file": "missing/D/144306-dracula-vs-the-ninja-on-the-moon.json"
+    },
+    {
+      "igdb_id": 324813,
+      "game_name": "Dracula X: Nocturne In the Moonlight - Ultimate",
+      "file": "missing/D/324813-dracula-x-nocturne-in-the-moonlight-ultimate.json"
     },
     {
       "igdb_id": 146744,
@@ -453672,6 +453752,11 @@
       "file": "missing/G/241286-girls-love-toys.json"
     },
     {
+      "igdb_id": 324785,
+      "game_name": "Girls Made Pudding",
+      "file": "missing/G/324785-girls-made-pudding.json"
+    },
+    {
       "igdb_id": 1394,
       "game_name": "Girls of DOA Blackjack: The Kasumi Version",
       "file": "missing/G/1394-girls-of-doa-blackjack-the-kasumi-version.json"
@@ -474270,6 +474355,11 @@
       "igdb_id": 237068,
       "game_name": "Grinded Meat",
       "file": "missing/G/237068-grinded-meat.json"
+    },
+    {
+      "igdb_id": 324815,
+      "game_name": "GrindFest",
+      "file": "missing/G/324815-grindfest.json"
     },
     {
       "igdb_id": 142851,
@@ -544422,6 +544512,11 @@
       "file": "missing/I/62267-if-22-persian-gulf-v5-0.json"
     },
     {
+      "igdb_id": 324800,
+      "game_name": "IF: Imaginary Friends",
+      "file": "missing/I/324800-if-imaginary-friends.json"
+    },
+    {
       "igdb_id": 261458,
       "game_name": "If...",
       "file": "missing/I/261458-if.json"
@@ -583112,6 +583207,11 @@
       "file": "missing/J/365646-just-futanari-2.json"
     },
     {
+      "igdb_id": 324806,
+      "game_name": "Just Get 10",
+      "file": "missing/J/324806-just-get-10.json"
+    },
+    {
       "igdb_id": 264218,
       "game_name": "Just Get 2048: A Simple Puzzle Game!",
       "file": "missing/J/264218-just-get-2048-a-simple-puzzle-game.json"
@@ -588465,6 +588565,11 @@
       "igdb_id": 389121,
       "game_name": "Karting Grand Prix Minigame",
       "file": "missing/K/389121-karting-grand-prix-minigame.json"
+    },
+    {
+      "igdb_id": 324816,
+      "game_name": "Karting of Banban",
+      "file": "missing/K/324816-karting-of-banban.json"
     },
     {
       "igdb_id": 265034,
@@ -660347,6 +660452,11 @@
       "file": "missing/M/193811-magical-girl-story.json"
     },
     {
+      "igdb_id": 324791,
+      "game_name": "Magical Girl Witch Trials",
+      "file": "missing/M/324791-magical-girl-witch-trials.json"
+    },
+    {
       "igdb_id": 403787,
       "game_name": "Magical Girl Witch Trials: Famitsu DX Pack",
       "file": "missing/M/403787-magical-girl-witch-trials-famitsu-dx-pack.json"
@@ -707910,6 +708020,11 @@
       "igdb_id": 188400,
       "game_name": "Mini Golf RPG",
       "file": "missing/M/188400-mini-golf-rpg.json"
+    },
+    {
+      "igdb_id": 324808,
+      "game_name": "Mini Golf Simulator",
+      "file": "missing/M/324808-mini-golf-simulator.json"
     },
     {
       "igdb_id": 407552,
@@ -815457,6 +815572,41 @@
       "file": "missing/P/26232-parappa-the-rapper-remastered.json"
     },
     {
+      "igdb_id": 324824,
+      "game_name": "PaRappa the Rapper: Stage 1 Music A",
+      "file": "missing/P/324824-parappa-the-rapper-stage-1-music-a.json"
+    },
+    {
+      "igdb_id": 324825,
+      "game_name": "PaRappa the Rapper: Stage 1 Music B",
+      "file": "missing/P/324825-parappa-the-rapper-stage-1-music-b.json"
+    },
+    {
+      "igdb_id": 324826,
+      "game_name": "PaRappa the Rapper: Stage 1 Music C",
+      "file": "missing/P/324826-parappa-the-rapper-stage-1-music-c.json"
+    },
+    {
+      "igdb_id": 324827,
+      "game_name": "PaRappa the Rapper: Stage 1 Music D",
+      "file": "missing/P/324827-parappa-the-rapper-stage-1-music-d.json"
+    },
+    {
+      "igdb_id": 324828,
+      "game_name": "PaRappa the Rapper: Stage 2 Music A",
+      "file": "missing/P/324828-parappa-the-rapper-stage-2-music-a.json"
+    },
+    {
+      "igdb_id": 324829,
+      "game_name": "PaRappa the Rapper: Stage 3 Music A",
+      "file": "missing/P/324829-parappa-the-rapper-stage-3-music-a.json"
+    },
+    {
+      "igdb_id": 324830,
+      "game_name": "PaRappa the Rapper: Stage 4 Music A",
+      "file": "missing/P/324830-parappa-the-rapper-stage-4-music-a.json"
+    },
+    {
       "igdb_id": 324831,
       "game_name": "PaRappa the Rapper: Stage 5 Music A",
       "file": "missing/P/324831-parappa-the-rapper-stage-5-music-a.json"
@@ -865487,6 +865637,11 @@
       "file": "missing/P/361049-presidential-beatdown.json"
     },
     {
+      "igdb_id": 324820,
+      "game_name": "Presidential Knockout",
+      "file": "missing/P/324820-presidential-knockout.json"
+    },
+    {
       "igdb_id": 366744,
       "game_name": "Presidential Psychologist",
       "file": "missing/P/366744-presidential-psychologist.json"
@@ -878225,6 +878380,16 @@
       "igdb_id": 146855,
       "game_name": "Puchitto Cluster",
       "file": "missing/P/146855-puchitto-cluster.json"
+    },
+    {
+      "igdb_id": 324801,
+      "game_name": "Puchitto Rock Shooter",
+      "file": "missing/P/324801-puchitto-rock-shooter.json"
+    },
+    {
+      "igdb_id": 324802,
+      "game_name": "Puchitto Rock Shooter: Pursue the Mystery of the Sexy Planet",
+      "file": "missing/P/324802-puchitto-rock-shooter-pursue-the-mystery-of-the-sexy-planet.json"
     },
     {
       "igdb_id": 327768,
@@ -902512,6 +902677,11 @@
       "file": "missing/R/92486-re-call.json"
     },
     {
+      "igdb_id": 324790,
+      "game_name": "Re:Choice",
+      "file": "missing/R/324790-re-choice.json"
+    },
+    {
       "igdb_id": 306064,
       "game_name": "Re:Connect",
       "file": "missing/R/306064-re-connect.json"
@@ -915145,6 +915315,11 @@
       "igdb_id": 230974,
       "game_name": "Resident Evil Village: The Mercenaries - Additional Orders",
       "file": "missing/R/230974-resident-evil-village-the-mercenaries-additional-orders.json"
+    },
+    {
+      "igdb_id": 324804,
+      "game_name": "Resident Evil Village: VR Mode",
+      "file": "missing/R/324804-resident-evil-village-vr-mode.json"
     },
     {
       "igdb_id": 204721,
@@ -979422,6 +979597,11 @@
       "file": "missing/S/308549-shedhorror.json"
     },
     {
+      "igdb_id": 324810,
+      "game_name": "Sheeeroom",
+      "file": "missing/S/324810-sheeeroom.json"
+    },
+    {
       "igdb_id": 229705,
       "game_name": "Sheep",
       "file": "missing/S/229705-sheep.json"
@@ -1004017,6 +1004197,11 @@
       "file": "missing/S/308910-slime-musume-ha-ningen-to-tomodachi-ni-naritai-you-da.json"
     },
     {
+      "igdb_id": 324795,
+      "game_name": "Slime Nomi",
+      "file": "missing/S/324795-slime-nomi.json"
+    },
+    {
       "igdb_id": 185619,
       "game_name": "Slime on Hole",
       "file": "missing/S/185619-slime-on-hole.json"
@@ -1014100,6 +1014285,11 @@
       "igdb_id": 218734,
       "game_name": "Sofia",
       "file": "missing/S/218734-sofia.json"
+    },
+    {
+      "igdb_id": 324789,
+      "game_name": "Sofia in Exchange for Lies",
+      "file": "missing/S/324789-sofia-in-exchange-for-lies.json"
     },
     {
       "igdb_id": 213469,
@@ -1064692,6 +1064882,11 @@
       "file": "missing/S/407145-street-fighter-6-additional-character-yasmine-and-outfit-2.json"
     },
     {
+      "igdb_id": 324775,
+      "game_name": "Street Fighter 6: Collector's Edition",
+      "file": "missing/S/324775-street-fighter-6-collectors-edition.json"
+    },
+    {
       "igdb_id": 242367,
       "game_name": "Street Fighter 6: Costume Color - Outfit 1 Color 10",
       "file": "missing/S/242367-street-fighter-6-costume-color-outfit-1-color-10.json"
@@ -1070815,6 +1071010,11 @@
       "igdb_id": 208354,
       "game_name": "Sudoku Puzzle Blast",
       "file": "missing/S/208354-sudoku-puzzle-blast.json"
+    },
+    {
+      "igdb_id": 324807,
+      "game_name": "Sudoku Quest",
+      "file": "missing/S/324807-sudoku-quest.json"
     },
     {
       "igdb_id": 33669,
@@ -1117892,6 +1118092,11 @@
       "file": "missing/T/167863-teravit.json"
     },
     {
+      "igdb_id": 324799,
+      "game_name": "Terbis",
+      "file": "missing/T/324799-terbis.json"
+    },
+    {
       "igdb_id": 258325,
       "game_name": "Tercios: Honor and Glory",
       "file": "missing/T/258325-tercios-honor-and-glory.json"
@@ -1146847,6 +1147052,11 @@
       "file": "missing/T/149163-the-inheritance-of-crimson-manor.json"
     },
     {
+      "igdb_id": 324776,
+      "game_name": "The Inheritance of Crimson Manor: Victorian Edition",
+      "file": "missing/T/324776-the-inheritance-of-crimson-manor-victorian-edition.json"
+    },
+    {
       "igdb_id": 44187,
       "game_name": "The Initial",
       "file": "missing/T/44187-the-initial.json"
@@ -1152870,6 +1153080,11 @@
       "igdb_id": 289297,
       "game_name": "The Legend of Sebb Linus",
       "file": "missing/T/289297-the-legend-of-sebb-linus.json"
+    },
+    {
+      "igdb_id": 324783,
+      "game_name": "The Legend of Shiande",
+      "file": "missing/T/324783-the-legend-of-shiande.json"
     },
     {
       "igdb_id": 387002,
@@ -1163135,6 +1163350,11 @@
       "igdb_id": 356822,
       "game_name": "The Plucky Squire x The Swords of Ditto: Mormo's Curse Bundle",
       "file": "missing/T/356822-the-plucky-squire-x-the-swords-of-ditto-mormos-curse-bundle.json"
+    },
+    {
+      "igdb_id": 324778,
+      "game_name": "The Plucky Squire: Deluxe Edition",
+      "file": "missing/T/324778-the-plucky-squire-deluxe-edition.json"
     },
     {
       "igdb_id": 175436,
@@ -1181190,6 +1181410,11 @@
       "igdb_id": 139263,
       "game_name": "The Worm Room",
       "file": "missing/T/139263-the-worm-room.json"
+    },
+    {
+      "igdb_id": 324774,
+      "game_name": "The Worries of Santa Clauses",
+      "file": "missing/T/324774-the-worries-of-santa-clauses.json"
     },
     {
       "igdb_id": 97191,
@@ -1240437,6 +1240662,11 @@
       "file": "missing/T/313595-two-point-museum.json"
     },
     {
+      "igdb_id": 324779,
+      "game_name": "Two Point Museum: Explorer Edition",
+      "file": "missing/T/324779-two-point-museum-explorer-edition.json"
+    },
+    {
       "igdb_id": 368783,
       "game_name": "Two Point Museum: Explorer Upgrade Pack",
       "file": "missing/T/368783-two-point-museum-explorer-upgrade-pack.json"
@@ -1252330,6 +1252560,11 @@
       "igdb_id": 59839,
       "game_name": "Unlight",
       "file": "missing/U/59839-unlight.json"
+    },
+    {
+      "igdb_id": 324812,
+      "game_name": "Unlight: Revive",
+      "file": "missing/U/324812-unlight-revive.json"
     },
     {
       "igdb_id": 101274,
@@ -1284602,6 +1284837,11 @@
       "file": "missing/W/132613-warshmallows.json"
     },
     {
+      "igdb_id": 324803,
+      "game_name": "Warshovel: Idle RPG",
+      "file": "missing/W/324803-warshovel-idle-rpg.json"
+    },
+    {
       "igdb_id": 17785,
       "game_name": "Warside",
       "file": "missing/W/17785-warside.json"
@@ -1289215,6 +1289455,11 @@
       "igdb_id": 144978,
       "game_name": "Weirdlands",
       "file": "missing/W/144978-weirdlands.json"
+    },
+    {
+      "igdb_id": 324805,
+      "game_name": "Weirdo",
+      "file": "missing/W/324805-weirdo.json"
     },
     {
       "igdb_id": 353872,
@@ -1307100,6 +1307345,11 @@
       "igdb_id": 88511,
       "game_name": "Word Charm",
       "file": "missing/W/88511-word-charm.json"
+    },
+    {
+      "igdb_id": 324814,
+      "game_name": "Word Chase",
+      "file": "missing/W/324814-word-chase.json"
     },
     {
       "igdb_id": 192066,
