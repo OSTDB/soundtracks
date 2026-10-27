@@ -9393,6 +9393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roppongi Sadistic Night | 395566 | [395566-roppongi-sadistic-night.json](./395566-roppongi-sadistic-night.json) |
 | Ropu Barastu No X | 244680 | [244680-ropu-barastu-no-x.json](./244680-ropu-barastu-no-x.json) |
 | Ropuka | 386712 | [386712-ropuka.json](./386712-ropuka.json) |
+| Ropuka's Idle Island | 329475 | [329475-ropukas-idle-island.json](./329475-ropukas-idle-island.json) |
 | Rorke's Drift | 72107 | [72107-rorkes-drift.json](./72107-rorkes-drift.json) |
 | Rorrim | 84852 | [84852-rorrim.json](./84852-rorrim.json) |
 | Rorry's Race | 335110 | [335110-rorrys-race.json](./335110-rorrys-race.json) |
