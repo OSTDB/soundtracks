@@ -4694,6 +4694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linkz | 92995 | [92995-linkz.json](./92995-linkz.json) |
 | Linley Henzell's Dungeon Crawl | 84198 | [84198-linley-henzells-dungeon-crawl.json](./84198-linley-henzells-dungeon-crawl.json) |
 | Linn the Protector and the Seven Daughters of Ran | 170270 | [170270-linn-the-protector-and-the-seven-daughters-of-ran.json](./170270-linn-the-protector-and-the-seven-daughters-of-ran.json) |
+| Lino in Christmas | 315442 | [315442-lino-in-christmas.json](./315442-lino-in-christmas.json) |
 | Linq! | 200445 | [200445-linq.json](./200445-linq.json) |
 | Linsips | 395725 | [395725-linsips.json](./395725-linsips.json) |
 | Lint | 394619 | [394619-lint.json](./394619-lint.json) |
@@ -4955,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Droid 2: Escape | 312144 | [312144-little-droid-2-escape.json](./312144-little-droid-2-escape.json) |
 | Little Duck Adventure | 303102 | [303102-little-duck-adventure.json](./303102-little-duck-adventure.json) |
 | Little Duck's Big Adventure: A Bitsy RPG | 182099 | [182099-little-ducks-big-adventure-a-bitsy-rpg.json](./182099-little-ducks-big-adventure-a-bitsy-rpg.json) |
+| Little Dungeon Renovator | 315435 | [315435-little-dungeon-renovator.json](./315435-little-dungeon-renovator.json) |
 | Little Dungeon Stories | 118128 | [118128-little-dungeon-stories.json](./118128-little-dungeon-stories.json) |
 | Little Duty 1 | 249444 | [249444-little-duty-1.json](./249444-little-duty-1.json) |
 | Little Eden | 260208 | [260208-little-eden.json](./260208-little-eden.json) |
