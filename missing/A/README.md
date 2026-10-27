@@ -11253,6 +11253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardu Turf Masters | 340204 | [340204-ardu-turf-masters.json](./340204-ardu-turf-masters.json) |
 | Ardu-EZ Button | 333764 | [333764-ardu-ez-button.json](./333764-ardu-ez-button.json) |
 | Ardu-man | 227996 | [227996-ardu-man.json](./227996-ardu-man.json) |
+| Ardu-Racer | 311006 | [311006-ardu-racer.json](./311006-ardu-racer.json) |
 | Ardubullets | 381726 | [381726-ardubullets.json](./381726-ardubullets.json) |
 | ArduGods | 227994 | [227994-ardugods.json](./227994-ardugods.json) |
 | ArduGolf: 18-Hole Mini Golf | 227997 | [227997-ardugolf-18-hole-mini-golf.json](./227997-ardugolf-18-hole-mini-golf.json) |
@@ -14237,6 +14238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | atooi Collection | 119353 | [119353-atooi-collection.json](./119353-atooi-collection.json) |
 | Atooms to Moolecules | 90485 | [90485-atooms-to-moolecules.json](./90485-atooms-to-moolecules.json) |
 | Atop the Witch's Tower | 225714 | [225714-atop-the-witchs-tower.json](./225714-atop-the-witchs-tower.json) |
+| Atop the Witch's Tower GB | 311017 | [311017-atop-the-witchs-tower-gb.json](./311017-atop-the-witchs-tower-gb.json) |
 | Atop the Witch's Tower WS | 341704 | [341704-atop-the-witchs-tower-ws.json](./341704-atop-the-witchs-tower-ws.json) |
 | Atopes | 167359 | [167359-atopes.json](./167359-atopes.json) |
 | ATP Tour Championship Tennis | 46234 | [46234-atp-tour-championship-tennis.json](./46234-atp-tour-championship-tennis.json) |
