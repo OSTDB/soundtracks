@@ -1466,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Duel Monsters | 57150 | [57150-yu-gi-oh-duel-monsters.json](./57150-yu-gi-oh-duel-monsters.json) |
 | Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist - Jonouchi Deck | 334709 | [334709-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-jonouchi-deck.json](./334709-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-jonouchi-deck.json) |
 | Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist - Kaiba Deck | 334708 | [334708-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-kaiba-deck.json](./334708-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-kaiba-deck.json) |
+| Yu-Gi-Oh! Duel Monsters 6: Expert 2 | 313042 | [313042-yu-gi-oh-duel-monsters-6-expert-2.json](./313042-yu-gi-oh-duel-monsters-6-expert-2.json) |
 | Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories | 56978 | [56978-yu-gi-oh-duel-monsters-ii-dark-duel-stories.json](./56978-yu-gi-oh-duel-monsters-ii-dark-duel-stories.json) |
 | Yu-Gi-Oh! Duel Monsters Saikyo Card Battle | 58652 | [58652-yu-gi-oh-duel-monsters-saikyo-card-battle.json](./58652-yu-gi-oh-duel-monsters-saikyo-card-battle.json) |
 | Yu-Gi-Oh! Dungeon Dice Monsters | 49211 | [49211-yu-gi-oh-dungeon-dice-monsters.json](./49211-yu-gi-oh-dungeon-dice-monsters.json) |
