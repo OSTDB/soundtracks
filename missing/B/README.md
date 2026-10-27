@@ -4638,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat This Game To See Hot Lady | 396495 | [396495-beat-this-game-to-see-hot-lady.json](./396495-beat-this-game-to-see-hot-lady.json) |
 | Beat Time | 91439 | [91439-beat-time.json](./91439-beat-time.json) |
 | Beat Tokyo with Jimotoism | 339976 | [339976-beat-tokyo-with-jimotoism.json](./339976-beat-tokyo-with-jimotoism.json) |
+| Beat Typing | 308858 | [308858-beat-typing.json](./308858-beat-typing.json) |
 | Beat Up Bowser! | 328609 | [328609-beat-up-bowser.json](./328609-beat-up-bowser.json) |
 | Beat Valkyrie Ixseal | 208300 | [208300-beat-valkyrie-ixseal.json](./208300-beat-valkyrie-ixseal.json) |
 | Beat Vector | 393465 | [393465-beat-vector.json](./393465-beat-vector.json) |
