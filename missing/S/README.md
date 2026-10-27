@@ -2958,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScrabWordle | 228716 | [228716-scrabwordle.json](./228716-scrabwordle.json) |
 | Scraftion | 152851 | [152851-scraftion.json](./152851-scraftion.json) |
 | Scram 20 | 79316 | [79316-scram-20.json](./79316-scram-20.json) |
+| Scram 81 | 319528 | [319528-scram-81.json](./319528-scram-81.json) |
 | Scram: Scrammer's Pack | 270035 | [270035-scram-scrammers-pack.json](./270035-scram-scrammers-pack.json) |
 | Scramball | 339900 | [339900-scramball.json](./339900-scramball.json) |
 | Scramble | 168574 | [168574-scramble.json](./168574-scramble.json) |
@@ -5042,6 +5043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Set a Watch: Digital Edition | 341982 | [341982-set-a-watch-digital-edition.json](./341982-set-a-watch-digital-edition.json) |
 | Set Adrift | 374027 | [374027-set-adrift.json](./374027-set-adrift.json) |
 | Set Sail | 192458 | [192458-set-sail.json](./192458-set-sail.json) |
+| Set with Friends | 319614 | [319614-set-with-friends.json](./319614-set-with-friends.json) |
 | Set Yourself on Fire | 306616 | [306616-set-yourself-on-fire.json](./306616-set-yourself-on-fire.json) |
 | Setback | 198558 | [198558-setback.json](./198558-setback.json) |
 | Seterra | 130072 | [130072-seterra.json](./130072-seterra.json) |
@@ -10314,6 +10316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skill Hockey | 351565 | [351565-skill-hockey.json](./351565-skill-hockey.json) |
 | Skill Legends Royale | 316603 | [316603-skill-legends-royale.json](./316603-skill-legends-royale.json) |
 | Skill Random Defense | 311196 | [311196-skill-random-defense.json](./311196-skill-random-defense.json) |
+| Skill Test: Online | 319639 | [319639-skill-test-online.json](./319639-skill-test-online.json) |
 | Skill Up! | 289445 | [289445-skill-up.json](./289445-skill-up.json) |
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
@@ -13427,6 +13430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Services of the Doomed | 188879 | [188879-social-services-of-the-doomed.json](./188879-social-services-of-the-doomed.json) |
 | Social Space | 398537 | [398537-social-space.json](./398537-social-space.json) |
 | Social Status: Life Simulator | 279103 | [279103-social-status-life-simulator.json](./279103-social-status-life-simulator.json) |
+| Social Warfare | 319609 | [319609-social-warfare.json](./319609-social-warfare.json) |
 | Socialiskigrad | 406764 | [406764-socialiskigrad.json](./406764-socialiskigrad.json) |
 | Socialism Simulator | 159583 | [159583-socialism-simulator.json](./159583-socialism-simulator.json) |
 | Socialize | 182217 | [182217-socialize.json](./182217-socialize.json) |
