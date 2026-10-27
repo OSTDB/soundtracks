@@ -4854,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind's Poem | 325065 | [325065-winds-poem.json](./325065-winds-poem.json) |
 | Windah Horror Adventure | 330346 | [330346-windah-horror-adventure.json](./330346-windah-horror-adventure.json) |
 | Windah Horror Adventure 2 | 287698 | [287698-windah-horror-adventure-2.json](./287698-windah-horror-adventure-2.json) |
+| Windbell | 308859 | [308859-windbell.json](./308859-windbell.json) |
 | Windborn: Concrete Jungle | 340746 | [340746-windborn-concrete-jungle.json](./340746-windborn-concrete-jungle.json) |
 | Windborn: Journey to the South | 328982 | [328982-windborn-journey-to-the-south.json](./328982-windborn-journey-to-the-south.json) |
 | Windborn: Wings of Fate | 329435 | [329435-windborn-wings-of-fate.json](./329435-windborn-wings-of-fate.json) |
@@ -7382,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldNeverland: Elnea Kingdom - Modern Yukata Set: Vermilion | 312118 | [312118-worldneverland-elnea-kingdom-modern-yukata-set-vermilion.json](./312118-worldneverland-elnea-kingdom-modern-yukata-set-vermilion.json) |
 | WorldNeverland: Elnea Kingdom - Modern Yukata Set: Violet | 313791 | [313791-worldneverland-elnea-kingdom-modern-yukata-set-violet.json](./313791-worldneverland-elnea-kingdom-modern-yukata-set-violet.json) |
 | WorldNeverland: Elnea Kingdom - Sugar Donut Fair | 288288 | [288288-worldneverland-elnea-kingdom-sugar-donut-fair.json](./288288-worldneverland-elnea-kingdom-sugar-donut-fair.json) |
+| WorldNeverland: Elnea Kingdom - Summer Hiking Wear Set: Beach | 308829 | [308829-worldneverland-elnea-kingdom-summer-hiking-wear-set-beach.json](./308829-worldneverland-elnea-kingdom-summer-hiking-wear-set-beach.json) |
 | WorldNeverland: Elnea Kingdom - Summer Hiking Wear Set: Lime | 309067 | [309067-worldneverland-elnea-kingdom-summer-hiking-wear-set-lime.json](./309067-worldneverland-elnea-kingdom-summer-hiking-wear-set-lime.json) |
 | WorldNeverland: Elnea Kingdom - Summer Sailor Uniform Set: Blue | 305615 | [305615-worldneverland-elnea-kingdom-summer-sailor-uniform-set-blue.json](./305615-worldneverland-elnea-kingdom-summer-sailor-uniform-set-blue.json) |
 | WorldNeverland: Elnea Kingdom - Summer Sailor Uniform Set: Bowa | 306548 | [306548-worldneverland-elnea-kingdom-summer-sailor-uniform-set-bowa.json](./306548-worldneverland-elnea-kingdom-summer-sailor-uniform-set-bowa.json) |
