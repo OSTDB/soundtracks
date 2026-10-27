@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Memories: Kayla & Ellie | 316206 | [316206-ecchi-memories-kayla-and-ellie.json](./316206-ecchi-memories-kayla-and-ellie.json) |
 | Ecchi Memories: Louise & Isadora | 316205 | [316205-ecchi-memories-louise-and-isadora.json](./316205-ecchi-memories-louise-and-isadora.json) |
 | Ecchi Memories: Onyx & Phoebe | 316204 | [316204-ecchi-memories-onyx-and-phoebe.json](./316204-ecchi-memories-onyx-and-phoebe.json) |
+| Ecchi Memories: Sofia Edition | 320691 | [320691-ecchi-memories-sofia-edition.json](./320691-ecchi-memories-sofia-edition.json) |
 | Ecchi Memory Game | 110966 | [110966-ecchi-memory-game.json](./110966-ecchi-memory-game.json) |
 | Ecchi na Seed | 97831 | [97831-ecchi-na-seed.json](./97831-ecchi-na-seed.json) |
 | Ecchi Numbers | 375141 | [375141-ecchi-numbers.json](./375141-ecchi-numbers.json) |
@@ -1263,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg of Empire | 156210 | [156210-egg-of-empire.json](./156210-egg-of-empire.json) |
 | Egg Over It: Fall Flat From the Top | 201560 | [201560-egg-over-it-fall-flat-from-the-top.json](./201560-egg-over-it-fall-flat-from-the-top.json) |
 | Egg Rabbit | 157423 | [157423-egg-rabbit.json](./157423-egg-rabbit.json) |
+| Egg Raiders | 320784 | [320784-egg-raiders.json](./320784-egg-raiders.json) |
 | Egg Run | 320731 | [320731-egg-run.json](./320731-egg-run.json) |
 | Egg Splash | 89194 | [89194-egg-splash.json](./89194-egg-splash.json) |
 | Egg Squeeze | 318509 | [318509-egg-squeeze.json](./318509-egg-squeeze.json) |
