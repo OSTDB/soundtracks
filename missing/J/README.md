@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellipop Match | 214104 | [214104-jellipop-match.json](./214104-jellipop-match.json) |
 | Jellitito | 340770 | [340770-jellitito.json](./340770-jellitito.json) |
 | Jello | 200353 | [200353-jello.json](./200353-jello.json) |
+| JelloTetrix | 320125 | [320125-jellotetrix.json](./320125-jellotetrix.json) |
 | Jelly | 163886 | [163886-jelly.json](./163886-jelly.json) |
 | Jelly 2 | 167366 | [167366-jelly-2.json](./167366-jelly-2.json) |
 | Jelly Allstars | 64134 | [64134-jelly-allstars.json](./64134-jelly-allstars.json) |
