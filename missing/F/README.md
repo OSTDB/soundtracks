@@ -2377,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FarmRPG | 227832 | [227832-farmrpg.json](./227832-farmrpg.json) |
 | Farmscapes | 50452 | [50452-farmscapes.json](./50452-farmscapes.json) |
 | Farmtastic | 352351 | [352351-farmtastic.json](./352351-farmtastic.json) |
+| FarmTD | 332376 | [332376-farmtd.json](./332376-farmtd.json) |
 | FarmTech | 257891 | [257891-farmtech.json](./257891-farmtech.json) |
 | Farmville | 9765 | [9765-farmville.json](./9765-farmville.json) |
 | FarmVille 2: Country Escape | 38889 | [38889-farmville-2-country-escape.json](./38889-farmville-2-country-escape.json) |
@@ -6140,6 +6141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flamel's Miracle | 90479 | [90479-flamels-miracle.json](./90479-flamels-miracle.json) |
 | Flameruby | 106542 | [106542-flameruby.json](./106542-flameruby.json) |
 | Flames & Fortune | 396752 | [396752-flames-and-fortune.json](./396752-flames-and-fortune.json) |
+| Flames of Damnation | 332349 | [332349-flames-of-damnation.json](./332349-flames-of-damnation.json) |
 | Flaming Core | 317054 | [317054-flaming-core.json](./317054-flaming-core.json) |
 | Flaming Friday Night | 130168 | [130168-flaming-friday-night.json](./130168-flaming-friday-night.json) |
 | Flaming Thunderer | 232946 | [232946-flaming-thunderer.json](./232946-flaming-thunderer.json) |
