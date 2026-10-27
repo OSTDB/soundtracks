@@ -3042,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavenly Peaks Cultivation | 235276 | [235276-heavenly-peaks-cultivation.json](./235276-heavenly-peaks-cultivation.json) |
 | Heavenly Puzzle | 207199 | [207199-heavenly-puzzle.json](./207199-heavenly-puzzle.json) |
 | Heavenly Sword | 7318 | [7318-heavenly-sword.json](./7318-heavenly-sword.json) |
+| Heavenly Way Legend | 326013 | [326013-heavenly-way-legend.json](./326013-heavenly-way-legend.json) |
 | Heavenshatter | 351144 | [351144-heavenshatter.json](./351144-heavenshatter.json) |
 | HeavensSea | 304914 | [304914-heavenssea.json](./304914-heavenssea.json) |
 | Heavenstrafer | 267461 | [267461-heavenstrafer.json](./267461-heavenstrafer.json) |
@@ -7429,6 +7430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday with Gwen | 213485 | [213485-holiday-with-gwen.json](./213485-holiday-with-gwen.json) |
 | Holiday World | 93126 | [93126-holiday-world.json](./93126-holiday-world.json) |
 | Holidays | 167567 | [167567-holidays.json](./167567-holidays.json) |
+| Holidays Survivors | 325988 | [325988-holidays-survivors.json](./325988-holidays-survivors.json) |
 | Höll Space 5D6 | 147197 | [147197-holl-space-5d6.json](./147197-holl-space-5d6.json) |
 | Hollenburg: Hell Castle | 256259 | [256259-hollenburg-hell-castle.json](./256259-hollenburg-hell-castle.json) |
 | Höllische Nachbarn | 92979 | [92979-hollische-nachbarn.json](./92979-hollische-nachbarn.json) |
