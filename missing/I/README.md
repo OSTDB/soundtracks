@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Tiny Wizard | 212516 | [212516-idle-tiny-wizard.json](./212516-idle-tiny-wizard.json) |
 | Idle to Level 1000 | 359570 | [359570-idle-to-level-1000.json](./359570-idle-to-level-1000.json) |
 | Idle Tower Defense | 248156 | [248156-idle-tower-defense.json](./248156-idle-tower-defense.json) |
+| Idle Tower Defense | 318454 | [318454-idle-tower-defense.json](./318454-idle-tower-defense.json) |
 | Idle Tower Tycoon | 101522 | [101522-idle-tower-tycoon.json](./101522-idle-tower-tycoon.json) |
 | Idle Towers | 357844 | [357844-idle-towers.json](./357844-idle-towers.json) |
 | Idle Town Billionaire | 340513 | [340513-idle-town-billionaire.json](./340513-idle-town-billionaire.json) |
@@ -4045,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intemporel | 132537 | [132537-intemporel.json](./132537-intemporel.json) |
 | Intense Love Shot | 186514 | [186514-intense-love-shot.json](./186514-intense-love-shot.json) |
 | Intense! Miyu-chan and Teacher's Rock-Paper-Scissors Battle! | 340756 | [340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json](./340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json) |
+| Intensive (S)care Unit | 318459 | [318459-intensive-s-care-unit.json](./318459-intensive-s-care-unit.json) |
 | Intensive Care ( Hospital Interactive Story ) | 101104 | [101104-intensive-care-hospital-interactive-story.json](./101104-intensive-care-hospital-interactive-story.json) |
 | Intensive Exposure | 23725 | [23725-intensive-exposure.json](./23725-intensive-exposure.json) |
 | Inter Milan Club Football | 267887 | [267887-inter-milan-club-football.json](./267887-inter-milan-club-football.json) |
