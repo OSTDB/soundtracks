@@ -6626,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheeplings | 25508 | [25508-sheeplings.json](./25508-sheeplings.json) |
 | Sheeps | 391303 | [391303-sheeps.json](./391303-sheeps.json) |
 | Sheepwith | 114726 | [114726-sheepwith.json](./114726-sheepwith.json) |
+| Sheepy | 300738 | [300738-sheepy.json](./300738-sheepy.json) |
 | Sheer Poison | 142884 | [142884-sheer-poison.json](./142884-sheer-poison.json) |
 | Sheesh Adventures | 58492 | [58492-sheesh-adventures.json](./58492-sheesh-adventures.json) |
 | Shei Toule Wo de Nu Pengyou | 322344 | [322344-shei-toule-wo-de-nu-pengyou.json](./322344-shei-toule-wo-de-nu-pengyou.json) |
@@ -8626,6 +8627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
 | Siegius Arena | 399469 | [399469-siegius-arena.json](./399469-siegius-arena.json) |
 | Sienna | 51221 | [51221-sienna.json](./51221-sienna.json) |
+| Sierra 7 | 300641 | [300641-sierra-7.json](./300641-sierra-7.json) |
 | Sierra Championship Boxing | 73238 | [73238-sierra-championship-boxing.json](./73238-sierra-championship-boxing.json) |
 | Sierra Madre | 111879 | [111879-sierra-madre.json](./111879-sierra-madre.json) |
 | Sierra Ops | 128392 | [128392-sierra-ops.json](./128392-sierra-ops.json) |
@@ -10477,6 +10479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skuiggle | 202945 | [202945-skuiggle.json](./202945-skuiggle.json) |
 | Skul: The Hero Slayer | 127842 | [127842-skul-the-hero-slayer.json](./127842-skul-the-hero-slayer.json) |
 | Skuld | 383093 | [383093-skuld.json](./383093-skuld.json) |
+| Skuld no Bug Taiji | 300745 | [300745-skuld-no-bug-taiji.json](./300745-skuld-no-bug-taiji.json) |
 | Skulduggery Pleasant Invaders | 335175 | [335175-skulduggery-pleasant-invaders.json](./335175-skulduggery-pleasant-invaders.json) |
 | SkulJagger: Revolt of the Westicans | 42664 | [42664-skuljagger-revolt-of-the-westicans.json](./42664-skuljagger-revolt-of-the-westicans.json) |
 | Skulker | 332999 | [332999-skulker.json](./332999-skulker.json) |
@@ -20221,6 +20224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Chamber | 74036 | [74036-star-chamber.json](./74036-star-chamber.json) |
 | Star Chaser in Sea World | 154073 | [154073-star-chaser-in-sea-world.json](./154073-star-chaser-in-sea-world.json) |
 | Star Chef 2: Cooking Game | 153999 | [153999-star-chef-2-cooking-game.json](./153999-star-chef-2-cooking-game.json) |
+| Star Chef Simulator | 300639 | [300639-star-chef-simulator.json](./300639-star-chef-simulator.json) |
 | Star Chef: Cooking Game | 105517 | [105517-star-chef-cooking-game.json](./105517-star-chef-cooking-game.json) |
 | Star Child | 310124 | [310124-star-child.json](./310124-star-child.json) |
 | Star Child | 37090 | [37090-star-child.json](./37090-star-child.json) |
@@ -22907,6 +22911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sting | 230541 | [230541-sting.json](./230541-sting.json) |
 | Sting & Swing | 398983 | [398983-sting-and-swing.json](./398983-sting-and-swing.json) |
 | Sting of the Wasp | 217760 | [217760-sting-of-the-wasp.json](./217760-sting-of-the-wasp.json) |
+| Sting Operation | 300748 | [300748-sting-operation.json](./300748-sting-operation.json) |
 | Stingray | 299545 | [299545-stingray.json](./299545-stingray.json) |
 | Stink Bug Plague | 133304 | [133304-stink-bug-plague.json](./133304-stink-bug-plague.json) |
 | Stinker Golf | 406107 | [406107-stinker-golf.json](./406107-stinker-golf.json) |
