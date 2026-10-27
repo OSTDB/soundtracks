@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | h Find the Differences 1 | 88842 | [88842-h-find-the-differences-1.json](./88842-h-find-the-differences-1.json) |
 | h Find the Differences 2 | 88449 | [88449-h-find-the-differences-2.json](./88449-h-find-the-differences-2.json) |
 | H Girl 2 | 244271 | [244271-h-girl-2.json](./244271-h-girl-2.json) |
+| H Girl 3 | 289711 | [289711-h-girl-3.json](./289711-h-girl-3.json) |
 | H Girl 4 | 301810 | [301810-h-girl-4.json](./301810-h-girl-4.json) |
 | H Girl Kemonomimi | 296957 | [296957-h-girl-kemonomimi.json](./296957-h-girl-kemonomimi.json) |
 | H Index | 340474 | [340474-h-index.json](./340474-h-index.json) |
@@ -1247,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hannah Montana: Rock out the Show | 44487 | [44487-hannah-montana-rock-out-the-show.json](./44487-hannah-montana-rock-out-the-show.json) |
 | Hannah Montana: Spotlight World Tour | 50611 | [50611-hannah-montana-spotlight-world-tour.json](./50611-hannah-montana-spotlight-world-tour.json) |
 | Hannah Montana: The Movie | 7006 | [7006-hannah-montana-the-movie.json](./7006-hannah-montana-the-movie.json) |
+| Hannah's Day | 289819 | [289819-hannahs-day.json](./289819-hannahs-day.json) |
 | Hannibal | 405536 | [405536-hannibal.json](./405536-hannibal.json) |
 | Hannibal: Rome and Carthage in the Second Punic War | 129583 | [129583-hannibal-rome-and-carthage-in-the-second-punic-war.json](./129583-hannibal-rome-and-carthage-in-the-second-punic-war.json) |
 | Hanno | 289870 | [289870-hanno.json](./289870-hanno.json) |
@@ -8433,6 +8435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HopScout | 415049 | [415049-hopscout.json](./415049-hopscout.json) |
 | Hopshot | 331129 | [331129-hopshot.json](./331129-hopshot.json) |
 | HopSquash! | 115806 | [115806-hopsquash.json](./115806-hopsquash.json) |
+| HopStepHotspring | 289834 | [289834-hopstephotspring.json](./289834-hopstephotspring.json) |
 | Hoptale | 369762 | [369762-hoptale.json](./369762-hoptale.json) |
 | Hopward | 372475 | [372475-hopward.json](./372475-hopward.json) |
 | Hopy-ONE | 93037 | [93037-hopy-one.json](./93037-hopy-one.json) |
