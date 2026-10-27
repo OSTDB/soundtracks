@@ -1840,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie & The Quest for Cake | 294713 | [294713-banjo-kazooie-and-the-quest-for-cake.json](./294713-banjo-kazooie-and-the-quest-for-cake.json) |
 | Banjo-Kazooie 4: Quest for Kurkoins | 313060 | [313060-banjo-kazooie-4-quest-for-kurkoins.json](./313060-banjo-kazooie-4-quest-for-kurkoins.json) |
 | Banjo-Kazooie and the NightBear Before Christmas | 165155 | [165155-banjo-kazooie-and-the-nightbear-before-christmas.json](./165155-banjo-kazooie-and-the-nightbear-before-christmas.json) |
+| Banjo-Kazooie in Super Mario 64 | 290358 | [290358-banjo-kazooie-in-super-mario-64.json](./290358-banjo-kazooie-in-super-mario-64.json) |
 | Banjo-Kazooie New Horizons | 135260 | [135260-banjo-kazooie-new-horizons.json](./135260-banjo-kazooie-new-horizons.json) |
 | Banjo-Kazooie Online | 206127 | [206127-banjo-kazooie-online.json](./206127-banjo-kazooie-online.json) |
 | Banjo-Kazooie Returns | 313332 | [313332-banjo-kazooie-returns.json](./313332-banjo-kazooie-returns.json) |
@@ -4834,7 +4835,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauties Unveiled 2 | 289206 | [289206-beauties-unveiled-2.json](./289206-beauties-unveiled-2.json) |
 | Beauties Unveiled 2: Cassy Level Pack | 289209 | [289209-beauties-unveiled-2-cassy-level-pack.json](./289209-beauties-unveiled-2-cassy-level-pack.json) |
 | Beauties Unveiled 2: CEO 69 Edition | 315874 | [315874-beauties-unveiled-2-ceo-69-edition.json](./315874-beauties-unveiled-2-ceo-69-edition.json) |
+| Beauties Unveiled 2: Joy Level Pack | 290450 | [290450-beauties-unveiled-2-joy-level-pack.json](./290450-beauties-unveiled-2-joy-level-pack.json) |
+| Beauties Unveiled 2: ShingCEO_69 Level Pack | 290451 | [290451-beauties-unveiled-2-shingceo-69-level-pack.json](./290451-beauties-unveiled-2-shingceo-69-level-pack.json) |
 | Beauties Unveiled 2: Spicy Edition | 295680 | [295680-beauties-unveiled-2-spicy-edition.json](./295680-beauties-unveiled-2-spicy-edition.json) |
+| Beauties Unveiled 2: Tiffany Level Pack | 290452 | [290452-beauties-unveiled-2-tiffany-level-pack.json](./290452-beauties-unveiled-2-tiffany-level-pack.json) |
 | Beauties Unveiled: Ariadne Level Pack | 312098 | [312098-beauties-unveiled-ariadne-level-pack.json](./312098-beauties-unveiled-ariadne-level-pack.json) |
 | Beauties Unveiled: BackySoftie Level Pack | 312099 | [312099-beauties-unveiled-backysoftie-level-pack.json](./312099-beauties-unveiled-backysoftie-level-pack.json) |
 | Beauties Unveiled: Bianca Level Pack | 312100 | [312100-beauties-unveiled-bianca-level-pack.json](./312100-beauties-unveiled-bianca-level-pack.json) |
@@ -7129,6 +7133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biorhythms | 67094 | [67094-biorhythms.json](./67094-biorhythms.json) |
 | Bios | 26575 | [26575-bios.json](./26575-bios.json) |
 | Bios Ex: Yami no Wakusei | 114839 | [114839-bios-ex-yami-no-wakusei.json](./114839-bios-ex-yami-no-wakusei.json) |
+| Bios Fear | 290377 | [290377-bios-fear.json](./290377-bios-fear.json) |
 | BioShock | 214790 | [214790-bioshock.json](./214790-bioshock.json) |
 | Bioshock & Borderlands: The Shooter Collection | 150642 | [150642-bioshock-and-borderlands-the-shooter-collection.json](./150642-bioshock-and-borderlands-the-shooter-collection.json) |
 | BioShock 2 Remastered | 34294 | [34294-bioshock-2-remastered.json](./34294-bioshock-2-remastered.json) |
