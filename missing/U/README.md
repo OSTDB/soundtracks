@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale 2 | 178026 | [178026-undertale-2.json](./178026-undertale-2.json) |
 | Undertale 2: Overtale | 232519 | [232519-undertale-2-overtale.json](./232519-undertale-2-overtale.json) |
 | Undertale 3D | 324938 | [324938-undertale-3d.json](./324938-undertale-3d.json) |
+| Undertale Cyan | 307545 | [307545-undertale-cyan.json](./307545-undertale-cyan.json) |
 | Undertale Green | 308157 | [308157-undertale-green.json](./308157-undertale-green.json) |
 | Undertale Green | 308158 | [308158-undertale-green.json](./308158-undertale-green.json) |
 | Undertale Green: The Pre-Show | 329622 | [329622-undertale-green-the-pre-show.json](./329622-undertale-green-the-pre-show.json) |
