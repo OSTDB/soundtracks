@@ -7926,6 +7926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Armor | 76363 | [76363-rocket-armor.json](./76363-rocket-armor.json) |
 | Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
 | Rocket Boots Mania | 112218 | [112218-rocket-boots-mania.json](./112218-rocket-boots-mania.json) |
+| Rocket Boots Mania: Space Train | 332909 | [332909-rocket-boots-mania-space-train.json](./332909-rocket-boots-mania-space-train.json) |
 | Rocket Bots | 155941 | [155941-rocket-bots.json](./155941-rocket-bots.json) |
 | Rocket Boy | 120594 | [120594-rocket-boy.json](./120594-rocket-boy.json) |
 | Rocket Brown 2 | 317342 | [317342-rocket-brown-2.json](./317342-rocket-brown-2.json) |
