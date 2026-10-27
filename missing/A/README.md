@@ -3225,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
 | Aeon's End: The New Age | 193138 | [193138-aeons-end-the-new-age.json](./193138-aeons-end-the-new-age.json) |
 | Aeonfall | 415912 | [415912-aeonfall.json](./415912-aeonfall.json) |
+| Aeonic | 330486 | [330486-aeonic.json](./330486-aeonic.json) |
 | Aeons Past | 223482 | [223482-aeons-past.json](./223482-aeons-past.json) |
 | Aephemera | 355469 | [355469-aephemera.json](./355469-aephemera.json) |
 | Aequitas Orbis | 75064 | [75064-aequitas-orbis.json](./75064-aequitas-orbis.json) |
@@ -4911,6 +4912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akazukin Cha-cha | 228473 | [228473-akazukin-cha-cha.json](./228473-akazukin-cha-cha.json) |
 | Akazukin Cha-cha: Osawagase! Panic Race! | 60637 | [60637-akazukin-cha-cha-osawagase-panic-race.json](./60637-akazukin-cha-cha-osawagase-panic-race.json) |
 | Akazukin Dark Side | 150154 | [150154-akazukin-dark-side.json](./150154-akazukin-dark-side.json) |
+| Akazukin-chan no Omimai | 330669 | [330669-akazukin-chan-no-omimai.json](./330669-akazukin-chan-no-omimai.json) |
 | AKB1/149: Renai Sousenkyo | 8632 | [8632-akb1-149-renai-sousenkyo.json](./8632-akb1-149-renai-sousenkyo.json) |
 | AKB1/153: Renai Sousenkyo - Ultra Luxury Limited Box | 89867 | [89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json](./89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json) |
 | AKB1/48: Idol to Guam to Koishitara... | 64710 | [64710-akb1-48-idol-to-guam-to-koishitara.json](./64710-akb1-48-idol-to-guam-to-koishitara.json) |
@@ -8322,6 +8324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal City | 130756 | [130756-animal-city.json](./130756-animal-city.json) |
 | Animal Color Cross | 84755 | [84755-animal-color-cross.json](./84755-animal-color-cross.json) |
 | Animal Coloring Book for Kids & Toddlers: Unicorns | 402570 | [402570-animal-coloring-book-for-kids-and-toddlers-unicorns.json](./402570-animal-coloring-book-for-kids-and-toddlers-unicorns.json) |
+| Animal Connect Fusion | 330494 | [330494-animal-connect-fusion.json](./330494-animal-connect-fusion.json) |
 | Animal Couple | 334801 | [334801-animal-couple.json](./334801-animal-couple.json) |
 | Animal Cove: Match 3 Adventure | 108854 | [108854-animal-cove-match-3-adventure.json](./108854-animal-cove-match-3-adventure.json) |
 | Animal Cove: Solve Puzzles & Customize Your Island | 108736 | [108736-animal-cove-solve-puzzles-and-customize-your-island.json](./108736-animal-cove-solve-puzzles-and-customize-your-island.json) |
@@ -10045,6 +10048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarist: My First Job | 170934 | [170934-aquarist-my-first-job.json](./170934-aquarist-my-first-job.json) |
 | Aquarium | 21400 | [21400-aquarium.json](./21400-aquarium.json) |
 | Aquarium Anomaly | 414410 | [414410-aquarium-anomaly.json](./414410-aquarium-anomaly.json) |
+| Aquarium at August 32nd | 330633 | [330633-aquarium-at-august-32nd.json](./330633-aquarium-at-august-32nd.json) |
 | Aquarium at August 32nd VR | 337961 | [337961-aquarium-at-august-32nd-vr.json](./337961-aquarium-at-august-32nd-vr.json) |
 | Aquarium by DS | 47776 | [47776-aquarium-by-ds.json](./47776-aquarium-by-ds.json) |
 | Aquarium Designer | 159879 | [159879-aquarium-designer.json](./159879-aquarium-designer.json) |
@@ -10176,6 +10180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Araka: JK Exorcist Horror RPG | 235870 | [235870-araka-jk-exorcist-horror-rpg.json](./235870-araka-jk-exorcist-horror-rpg.json) |
 | Arakion | 64487 | [64487-arakion.json](./64487-arakion.json) |
 | Arakion: Book One | 81235 | [81235-arakion-book-one.json](./81235-arakion-book-one.json) |
+| Aralez | 330465 | [330465-aralez.json](./330465-aralez.json) |
 | Arali | 203881 | [203881-arali.json](./203881-arali.json) |
 | Aralon: Forge and Flame | 20357 | [20357-aralon-forge-and-flame.json](./20357-aralon-forge-and-flame.json) |
 | Aralon: Sword and Shadow | 38985 | [38985-aralon-sword-and-shadow.json](./38985-aralon-sword-and-shadow.json) |
@@ -11820,6 +11825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Front | 114055 | [114055-armored-front.json](./114055-armored-front.json) |
 | Armored Head | 139033 | [139033-armored-head.json](./139033-armored-head.json) |
 | Armored Heroes | 242204 | [242204-armored-heroes.json](./242204-armored-heroes.json) |
+| Armored Hongfeng | 330665 | [330665-armored-hongfeng.json](./330665-armored-hongfeng.json) |
 | Armored Hunter Gunhound EX | 36391 | [36391-armored-hunter-gunhound-ex.json](./36391-armored-hunter-gunhound-ex.json) |
 | Armored Kitten | 67904 | [67904-armored-kitten.json](./67904-armored-kitten.json) |
 | Armored Lab Force Vulvehicles | 211443 | [211443-armored-lab-force-vulvehicles.json](./211443-armored-lab-force-vulvehicles.json) |
