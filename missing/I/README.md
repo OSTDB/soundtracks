@@ -1345,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Rat: Island Digger | 390562 | [390562-idle-rat-island-digger.json](./390562-idle-rat-island-digger.json) |
 | Idle Realms: The Eternal Spire | 403657 | [403657-idle-realms-the-eternal-spire.json](./403657-idle-realms-the-eternal-spire.json) |
 | Idle Regenerator | 408041 | [408041-idle-regenerator.json](./408041-idle-regenerator.json) |
+| Idle Research 2 | 329460 | [329460-idle-research-2.json](./329460-idle-research-2.json) |
 | Idle Robot: Build Your Own Mecha | 199940 | [199940-idle-robot-build-your-own-mecha.json](./199940-idle-robot-build-your-own-mecha.json) |
 | Idle Roboto | 152888 | [152888-idle-roboto.json](./152888-idle-roboto.json) |
 | Idle Robots | 255795 | [255795-idle-robots.json](./255795-idle-robots.json) |
@@ -2463,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Drift | 404847 | [404847-in-the-drift.json](./404847-in-the-drift.json) |
 | In the Drink | 288876 | [288876-in-the-drink.json](./288876-in-the-drink.json) |
 | In the End | 191044 | [191044-in-the-end.json](./191044-in-the-end.json) |
+| In the Facade we Trust | 329474 | [329474-in-the-facade-we-trust.json](./329474-in-the-facade-we-trust.json) |
 | In the Footage | 250851 | [250851-in-the-footage.json](./250851-in-the-footage.json) |
 | In The Foundations | 325927 | [325927-in-the-foundations.json](./325927-in-the-foundations.json) |
 | In the Friend Zone | 59703 | [59703-in-the-friend-zone.json](./59703-in-the-friend-zone.json) |
