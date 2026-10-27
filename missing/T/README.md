@@ -4677,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Acid Queens of the Moon | 379409 | [379409-the-acid-queens-of-the-moon.json](./379409-the-acid-queens-of-the-moon.json) |
 | The Acorn Protocol | 408036 | [408036-the-acorn-protocol.json](./408036-the-acorn-protocol.json) |
 | The Act | 64990 | [64990-the-act.json](./64990-the-act.json) |
+| The Act: An Interactive Comedy | 300664 | [300664-the-act-an-interactive-comedy.json](./300664-the-act-an-interactive-comedy.json) |
 | The Activision Decathlon | 11855 | [11855-the-activision-decathlon.json](./11855-the-activision-decathlon.json) |
 | The Addams Family | 14207 | [14207-the-addams-family.json](./14207-the-addams-family.json) |
 | The Addams Family | 14208 | [14208-the-addams-family.json](./14208-the-addams-family.json) |
@@ -5725,6 +5726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bond | 368010 | [368010-the-bond.json](./368010-the-bond.json) |
 | The Bone Crypt | 406235 | [406235-the-bone-crypt.json](./406235-the-bone-crypt.json) |
 | The Bone Maze | 267557 | [267557-the-bone-maze.json](./267557-the-bone-maze.json) |
+| The Bonehoard | 300670 | [300670-the-bonehoard.json](./300670-the-bonehoard.json) |
 | The Bonerooms | 282494 | [282494-the-bonerooms.json](./282494-the-bonerooms.json) |
 | The Bones of Rosalinda | 290394 | [290394-the-bones-of-rosalinda.json](./290394-the-bones-of-rosalinda.json) |
 | The Bones of You | 266720 | [266720-the-bones-of-you.json](./266720-the-bones-of-you.json) |
@@ -7686,6 +7688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eternal Life of Goldman | 312274 | [312274-the-eternal-life-of-goldman.json](./312274-the-eternal-life-of-goldman.json) |
 | The Eternal Mines | 379379 | [379379-the-eternal-mines.json](./379379-the-eternal-mines.json) |
 | The Eternal Night | 393540 | [393540-the-eternal-night.json](./393540-the-eternal-night.json) |
+| The Eternal Return | 300642 | [300642-the-eternal-return.json](./300642-the-eternal-return.json) |
 | The Eternal Shooter | 88638 | [88638-the-eternal-shooter.json](./88638-the-eternal-shooter.json) |
 | The Eternal Woods | 414427 | [414427-the-eternal-woods.json](./414427-the-eternal-woods.json) |
 | The Ethereal Dream | 339202 | [339202-the-ethereal-dream.json](./339202-the-ethereal-dream.json) |
@@ -8346,6 +8349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frame on the Wall | 171844 | [171844-the-frame-on-the-wall.json](./171844-the-frame-on-the-wall.json) |
 | The Francy Droo & Friends Collection | 75621 | [75621-the-francy-droo-and-friends-collection.json](./75621-the-francy-droo-and-friends-collection.json) |
 | The Frankenstein Wars | 36955 | [36955-the-frankenstein-wars.json](./36955-the-frankenstein-wars.json) |
+| The Frater Fracas | 300671 | [300671-the-frater-fracas.json](./300671-the-frater-fracas.json) |
 | The Freddy Files | 277284 | [277284-the-freddy-files.json](./277284-the-freddy-files.json) |
 | The Free Shepherd | 381202 | [381202-the-free-shepherd.json](./381202-the-free-shepherd.json) |
 | The French and Indian War | 182258 | [182258-the-french-and-indian-war.json](./182258-the-french-and-indian-war.json) |
@@ -9605,6 +9609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island of Dr. Frankenstein | 21784 | [21784-the-island-of-dr-frankenstein.json](./21784-the-island-of-dr-frankenstein.json) |
 | The Island of Dr. Yepstein | 171304 | [171304-the-island-of-dr-yepstein.json](./171304-the-island-of-dr-yepstein.json) |
 | The Island of Kesmai | 344888 | [344888-the-island-of-kesmai.json](./344888-the-island-of-kesmai.json) |
+| The Island of Killer Cacos | 300741 | [300741-the-island-of-killer-cacos.json](./300741-the-island-of-killer-cacos.json) |
 | The Island of Lost Hope | 73528 | [73528-the-island-of-lost-hope.json](./73528-the-island-of-lost-hope.json) |
 | The Island of Robot Poets | 419870 | [419870-the-island-of-robot-poets.json](./419870-the-island-of-robot-poets.json) |
 | The Island of Spirits | 149227 | [149227-the-island-of-spirits.json](./149227-the-island-of-spirits.json) |
@@ -11779,6 +11784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mildew Children | 253605 | [253605-the-mildew-children.json](./253605-the-mildew-children.json) |
 | The Militant Mouse | 230886 | [230886-the-militant-mouse.json](./230886-the-militant-mouse.json) |
 | The Milk Lake | 211775 | [211775-the-milk-lake.json](./211775-the-milk-lake.json) |
+| The Milk Quest | 300756 | [300756-the-milk-quest.json](./300756-the-milk-quest.json) |
 | The Mill: Nine Men's Morris | 351062 | [351062-the-mill-nine-mens-morris.json](./351062-the-mill-nine-mens-morris.json) |
 | The Milliner | 317974 | [317974-the-milliner.json](./317974-the-milliner.json) |
 | The Mimic | 74254 | [74254-the-mimic.json](./74254-the-mimic.json) |
@@ -12776,6 +12782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pit: Infinity - Juggernaut | 168186 | [168186-the-pit-infinity-juggernaut.json](./168186-the-pit-infinity-juggernaut.json) |
 | The Pix | 101994 | [101994-the-pix.json](./101994-the-pix.json) |
 | The Pixel has You | 327198 | [327198-the-pixel-has-you.json](./327198-the-pixel-has-you.json) |
+| The Pixel Pulps Collection: Special Edition | 300750 | [300750-the-pixel-pulps-collection-special-edition.json](./300750-the-pixel-pulps-collection-special-edition.json) |
 | The Pixotron 49 | 352392 | [352392-the-pixotron-49.json](./352392-the-pixotron-49.json) |
 | The Pizza Courier | 215733 | [215733-the-pizza-courier.json](./215733-the-pizza-courier.json) |
 | The Pizza Delivery Boy Who Saved the World | 100595 | [100595-the-pizza-delivery-boy-who-saved-the-world.json](./100595-the-pizza-delivery-boy-who-saved-the-world.json) |
@@ -13105,6 +13112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quivering | 8943 | [8943-the-quivering.json](./8943-the-quivering.json) |
 | The Quiz Gear Fight!! | 46601 | [46601-the-quiz-gear-fight.json](./46601-the-quiz-gear-fight.json) |
 | The Quiz Quest | 400366 | [400366-the-quiz-quest.json](./400366-the-quiz-quest.json) |
+| The Quizard's Domain | 300651 | [300651-the-quizards-domain.json](./300651-the-quizards-domain.json) |
 | The Rabbit and Tamaki are Taking a Break! | 286106 | [286106-the-rabbit-and-tamaki-are-taking-a-break.json](./286106-the-rabbit-and-tamaki-are-taking-a-break.json) |
 | The Rabbit and the Owl | 51612 | [51612-the-rabbit-and-the-owl.json](./51612-the-rabbit-and-the-owl.json) |
 | The Rabbit Crazy Adventure | 261331 | [261331-the-rabbit-crazy-adventure.json](./261331-the-rabbit-crazy-adventure.json) |
@@ -14765,6 +14773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sun Will Rise | 31833 | [31833-the-sun-will-rise.json](./31833-the-sun-will-rise.json) |
 | The Sun Will Rise Again | 183413 | [183413-the-sun-will-rise-again.json](./183413-the-sun-will-rise-again.json) |
 | The Sun: Evaluation | 174761 | [174761-the-sun-evaluation.json](./174761-the-sun-evaluation.json) |
+| The Sun: Key Of Heaven | 300645 | [300645-the-sun-key-of-heaven.json](./300645-the-sun-key-of-heaven.json) |
 | The Sun: Origin | 102763 | [102763-the-sun-origin.json](./102763-the-sun-origin.json) |
 | The Sunday | 311572 | [311572-the-sunday.json](./311572-the-sunday.json) |
 | The Sunday Museum | 191562 | [191562-the-sunday-museum.json](./191562-the-sunday-museum.json) |
@@ -16149,6 +16158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The West | 23639 | [23639-the-west.json](./23639-the-west.json) |
 | The Western Hunter | 44210 | [44210-the-western-hunter.json](./44210-the-western-hunter.json) |
 | The Westport Independent | 9106 | [9106-the-westport-independent.json](./9106-the-westport-independent.json) |
+| The Whale Island | 300652 | [300652-the-whale-island.json](./300652-the-whale-island.json) |
 | The Wheel | 185439 | [185439-the-wheel.json](./185439-the-wheel.json) |
 | The Wheel of Fortune | 182396 | [182396-the-wheel-of-fortune.json](./182396-the-wheel-of-fortune.json) |
 | The Wheelchair Man | 405965 | [405965-the-wheelchair-man.json](./405965-the-wheelchair-man.json) |
@@ -17335,6 +17345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThreadSpace: Hyperbol | 14802 | [14802-threadspace-hyperbol.json](./14802-threadspace-hyperbol.json) |
 | Threat | 94410 | [94410-threat.json](./94410-threat.json) |
 | Threat Actor | 245745 | [245745-threat-actor.json](./245745-threat-actor.json) |
+| Threat Assessment | 300669 | [300669-threat-assessment.json](./300669-threat-assessment.json) |
 | Threat Vector | 328202 | [328202-threat-vector.json](./328202-threat-vector.json) |
 | ThreatGen: Red vs. Blue | 113812 | [113812-threatgen-red-vs-blue.json](./113812-threatgen-red-vs-blue.json) |
 | Three Alpha One Nine | 312133 | [312133-three-alpha-one-nine.json](./312133-three-alpha-one-nine.json) |
