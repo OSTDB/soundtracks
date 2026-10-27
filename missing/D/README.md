@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Summit | 3869 | [3869-dark-summit.json](./3869-dark-summit.json) |
 | Dark Summoner | 38900 | [38900-dark-summoner.json](./38900-dark-summoner.json) |
 | Dark Sun | 278964 | [278964-dark-sun.json](./278964-dark-sun.json) |
+| Dark Sun | 293661 | [293661-dark-sun.json](./293661-dark-sun.json) |
 | Dark Sun Pictures' Dark Sun - The Space Shooter | 114262 | [114262-dark-sun-pictures-dark-sun-the-space-shooter.json](./114262-dark-sun-pictures-dark-sun-the-space-shooter.json) |
 | Dark Sun: Shattered Lands | 2466 | [2466-dark-sun-shattered-lands.json](./2466-dark-sun-shattered-lands.json) |
 | Dark Survival | 152728 | [152728-dark-survival.json](./152728-dark-survival.json) |
@@ -4766,6 +4767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Him, Not Me! | 318800 | [318800-defend-him-not-me.json](./318800-defend-him-not-me.json) |
 | Defend Home | 129435 | [129435-defend-home.json](./129435-defend-home.json) |
 | Defend Homeland | 217397 | [217397-defend-homeland.json](./217397-defend-homeland.json) |
+| Defend It! | 293577 | [293577-defend-it.json](./293577-defend-it.json) |
 | Defend London | 104722 | [104722-defend-london.json](./104722-defend-london.json) |
 | Defend or Die | 12991 | [12991-defend-or-die.json](./12991-defend-or-die.json) |
 | Defend the Bits TD | 203957 | [203957-defend-the-bits-td.json](./203957-defend-the-bits-td.json) |
@@ -4902,6 +4904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of Kyrath | 406310 | [406310-defense-of-kyrath.json](./406310-defense-of-kyrath.json) |
 | Defense of Nations | 268505 | [268505-defense-of-nations.json](./268505-defense-of-nations.json) |
 | Defense of the Ass | 141837 | [141837-defense-of-the-ass.json](./141837-defense-of-the-ass.json) |
+| Defense of the Earth | 293596 | [293596-defense-of-the-earth.json](./293596-defense-of-the-earth.json) |
 | Defense of the Fantasy Robots | 110079 | [110079-defense-of-the-fantasy-robots.json](./110079-defense-of-the-fantasy-robots.json) |
 | Defense of the Middle Kingdom | 85568 | [85568-defense-of-the-middle-kingdom.json](./85568-defense-of-the-middle-kingdom.json) |
 | Defense of the Sodomites | 336679 | [336679-defense-of-the-sodomites.json](./336679-defense-of-the-sodomites.json) |
@@ -7417,6 +7420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Didgery | 33867 | [33867-didgery.json](./33867-didgery.json) |
 | Didgery | 94109 | [94109-didgery.json](./94109-didgery.json) |
 | Didi & Ditto: Kindergarten | 73832 | [73832-didi-and-ditto-kindergarten.json](./73832-didi-and-ditto-kindergarten.json) |
+| Didi: The Final Chapter | 294097 | [294097-didi-the-final-chapter.json](./294097-didi-the-final-chapter.json) |
 | Didj Racing: Tiki Tropics | 94158 | [94158-didj-racing-tiki-tropics.json](./94158-didj-racing-tiki-tropics.json) |
 | Didnapper | 295249 | [295249-didnapper.json](./295249-didnapper.json) |
 | Didnapper 2 | 192733 | [192733-didnapper-2.json](./192733-didnapper-2.json) |
@@ -11077,6 +11081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 64 Reloaded | 346668 | [346668-doom-64-reloaded.json](./346668-doom-64-reloaded.json) |
 | Doom 64: Complete Edition | 408132 | [408132-doom-64-complete-edition.json](./408132-doom-64-complete-edition.json) |
 | Doom 64: Retribution | 201107 | [201107-doom-64-retribution.json](./201107-doom-64-retribution.json) |
+| DOOM 64: Unseen Evil | 294198 | [294198-doom-64-unseen-evil.json](./294198-doom-64-unseen-evil.json) |
 | DOOM 87: The Lost World | 257833 | [257833-doom-87-the-lost-world.json](./257833-doom-87-the-lost-world.json) |
 | DOOM Abort | 202841 | [202841-doom-abort.json](./202841-doom-abort.json) |
 | Doom Absolution | 225487 | [225487-doom-absolution.json](./225487-doom-absolution.json) |
@@ -11331,6 +11336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doppa | 247425 | [247425-doppa.json](./247425-doppa.json) |
 | Doppelganger | 180112 | [180112-doppelganger.json](./180112-doppelganger.json) |
 | Doppelganger | 180598 | [180598-doppelganger.json](./180598-doppelganger.json) |
+| Doppelganger | 294119 | [294119-doppelganger.json](./294119-doppelganger.json) |
 | Doppelgänger | 275029 | [275029-doppelganger.json](./275029-doppelganger.json) |
 | Doppelgänger | 275902 | [275902-doppelganger.json](./275902-doppelganger.json) |
 | Doppelganger: Dawn of the Inverted Souls | 61306 | [61306-doppelganger-dawn-of-the-inverted-souls.json](./61306-doppelganger-dawn-of-the-inverted-souls.json) |
@@ -12657,6 +12663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Is Dead | 289444 | [289444-dragon-is-dead.json](./289444-dragon-is-dead.json) |
 | Dragon Island | 217472 | [217472-dragon-island.json](./217472-dragon-island.json) |
 | Dragon Island | 220212 | [220212-dragon-island.json](./220212-dragon-island.json) |
+| Dragon Island Adventure | 294190 | [294190-dragon-island-adventure.json](./294190-dragon-island-adventure.json) |
 | Dragon Island Blue | 96061 | [96061-dragon-island-blue.json](./96061-dragon-island-blue.json) |
 | Dragon Joust | 142843 | [142843-dragon-joust.json](./142843-dragon-joust.json) |
 | Dragon Jump | 348264 | [348264-dragon-jump.json](./348264-dragon-jump.json) |
@@ -15980,6 +15987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duplex | 273554 | [273554-duplex.json](./273554-duplex.json) |
 | Duplexer | 33832 | [33832-duplexer.json](./33832-duplexer.json) |
 | Dupli_City | 126966 | [126966-dupli-city.json](./126966-dupli-city.json) |
+| Duplicate Dissolution | 294124 | [294124-duplicate-dissolution.json](./294124-duplicate-dissolution.json) |
 | dUpLicity ~Beyond the Lies~ | 36104 | [36104-duplicity-beyond-the-lies.json](./36104-duplicity-beyond-the-lies.json) |
 | Duplicity Loop | 278525 | [278525-duplicity-loop.json](./278525-duplicity-loop.json) |
 | Duplo | 407947 | [407947-duplo.json](./407947-duplo.json) |
