@@ -4790,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overkill's The Walking Dead | 7631 | [7631-overkills-the-walking-dead.json](./7631-overkills-the-walking-dead.json) |
 | Overkings | 218398 | [218398-overkings.json](./218398-overkings.json) |
 | Overknight Dungeon | 223980 | [223980-overknight-dungeon.json](./223980-overknight-dungeon.json) |
+| OverKnights | 321927 | [321927-overknights.json](./321927-overknights.json) |
 | Overland Weekend | 150514 | [150514-overland-weekend.json](./150514-overland-weekend.json) |
 | Overlander | 12711 | [12711-overlander.json](./12711-overlander.json) |
 | Overlanders | 82346 | [82346-overlanders.json](./82346-overlanders.json) |
