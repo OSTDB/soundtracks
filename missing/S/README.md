@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schizoids | 201453 | [201453-schizoids.json](./201453-schizoids.json) |
 | Schizophrenia | 133203 | [133203-schizophrenia.json](./133203-schizophrenia.json) |
 | Schizophrenia: R.E.M. Protocol | 357741 | [357741-schizophrenia-r-e-m-protocol.json](./357741-schizophrenia-r-e-m-protocol.json) |
+| Schizophrenia: The Last Shift | 318446 | [318446-schizophrenia-the-last-shift.json](./318446-schizophrenia-the-last-shift.json) |
 | Schizophrenic Rooms | 230857 | [230857-schizophrenic-rooms.json](./230857-schizophrenic-rooms.json) |
 | Schlag den Raab | 69474 | [69474-schlag-den-raab.json](./69474-schlag-den-raab.json) |
 | Schlag den Raab: Das 2. Spiel | 81447 | [81447-schlag-den-raab-das-2-spiel.json](./81447-schlag-den-raab-das-2-spiel.json) |
@@ -3451,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Ranger | 245411 | [245411-sea-ranger.json](./245411-sea-ranger.json) |
 | Sea Ranger | 346997 | [346997-sea-ranger.json](./346997-sea-ranger.json) |
 | Sea Ranger | 367839 | [367839-sea-ranger.json](./367839-sea-ranger.json) |
+| Sea Rescue | 318368 | [318368-sea-rescue.json](./318368-sea-rescue.json) |
 | Sea Rivals VR | 255160 | [255160-sea-rivals-vr.json](./255160-sea-rivals-vr.json) |
 | Sea Rogue | 237446 | [237446-sea-rogue.json](./237446-sea-rogue.json) |
 | Sea Rover | 293523 | [293523-sea-rover.json](./293523-sea-rover.json) |
@@ -9989,6 +9991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skarab | 336034 | [336034-skarab.json](./336034-skarab.json) |
 | Skaramazuzu | 217029 | [217029-skaramazuzu.json](./217029-skaramazuzu.json) |
 | Skarbnik | 92968 | [92968-skarbnik.json](./92968-skarbnik.json) |
+| Skat | 318386 | [318386-skat.json](./318386-skat.json) |
 | Skat 3D Premium | 369336 | [369336-skat-3d-premium.json](./369336-skat-3d-premium.json) |
 | Skat Stammtisch | 99613 | [99613-skat-stammtisch.json](./99613-skat-stammtisch.json) |
 | Skat und mehr | 93451 | [93451-skat-und-mehr.json](./93451-skat-und-mehr.json) |
@@ -19923,6 +19926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacky Hero | 227866 | [227866-stacky-hero.json](./227866-stacky-hero.json) |
 | Stacky Spinners | 184386 | [184386-stacky-spinners.json](./184386-stacky-spinners.json) |
 | StackZap | 337983 | [337983-stackzap.json](./337983-stackzap.json) |
+| Stacy Sharp and the Night Of Too Many Monsters | 318364 | [318364-stacy-sharp-and-the-night-of-too-many-monsters.json](./318364-stacy-sharp-and-the-night-of-too-many-monsters.json) |
 | Stadium | 371967 | [371967-stadium.json](./371967-stadium.json) |
 | Stadium Cross | 123004 | [123004-stadium-cross.json](./123004-stadium-cross.json) |
 | Stadium Games | 49384 | [49384-stadium-games.json](./49384-stadium-games.json) |
@@ -21573,6 +21577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Troopers | 245392 | [245392-starship-troopers.json](./245392-starship-troopers.json) |
 | Starship Troopers TC | 218116 | [218116-starship-troopers-tc.json](./218116-starship-troopers-tc.json) |
 | Starship Troopers: Battlespace | 72724 | [72724-starship-troopers-battlespace.json](./72724-starship-troopers-battlespace.json) |
+| Starship Troopers: Continuum | 318466 | [318466-starship-troopers-continuum.json](./318466-starship-troopers-continuum.json) |
 | Starship Troopers: Extermination - Galactic Victory Edition | 333690 | [333690-starship-troopers-extermination-galactic-victory-edition.json](./333690-starship-troopers-extermination-galactic-victory-edition.json) |
 | Starship Troopers: Extermination - Warrior Tiger Bundle | 331519 | [331519-starship-troopers-extermination-warrior-tiger-bundle.json](./331519-starship-troopers-extermination-warrior-tiger-bundle.json) |
 | Starship Troopers: Terran Command - The Eradicators | 380993 | [380993-starship-troopers-terran-command-the-eradicators.json](./380993-starship-troopers-terran-command-the-eradicators.json) |
@@ -23529,6 +23534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Stratos | 348323 | [348323-stream-stratos.json](./348323-stream-stratos.json) |
 | Stream Town | 143703 | [143703-stream-town.json](./143703-stream-town.json) |
 | Stream Toys by Zokya | 142785 | [142785-stream-toys-by-zokya.json](./142785-stream-toys-by-zokya.json) |
+| Stream Train | 318367 | [318367-stream-train.json](./318367-stream-train.json) |
 | Stream Train | 410341 | [410341-stream-train.json](./410341-stream-train.json) |
 | Stream Typers | 206738 | [206738-stream-typers.json](./206738-stream-typers.json) |
 | Stream War | 203763 | [203763-stream-war.json](./203763-stream-war.json) |
@@ -26859,6 +26865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Next: Halloween Special DX | 315794 | [315794-super-mario-bros-next-halloween-special-dx.json](./315794-super-mario-bros-next-halloween-special-dx.json) |
 | Super Mario Bros. Next: The Lost Levels - Part 1 | 315790 | [315790-super-mario-bros-next-the-lost-levels-part-1.json](./315790-super-mario-bros-next-the-lost-levels-part-1.json) |
 | Super Mario Bros. Next: The Lost Levels - Part 2 | 315791 | [315791-super-mario-bros-next-the-lost-levels-part-2.json](./315791-super-mario-bros-next-the-lost-levels-part-2.json) |
+| Super Mario Bros. NP | 318456 | [318456-super-mario-bros-np.json](./318456-super-mario-bros-np.json) |
 | Super Mario Bros. Peach's Adventure | 142383 | [142383-super-mario-bros-peachs-adventure.json](./142383-super-mario-bros-peachs-adventure.json) |
 | Super Mario Bros. Plus | 268362 | [268362-super-mario-bros-plus.json](./268362-super-mario-bros-plus.json) |
 | Super Mario Bros. R | 268363 | [268363-super-mario-bros-r.json](./268363-super-mario-bros-r.json) |
@@ -27062,6 +27069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Turd Collection | 322698 | [322698-super-mario-turd-collection.json](./322698-super-mario-turd-collection.json) |
 | Super Mario Universe | 314115 | [314115-super-mario-universe.json](./314115-super-mario-universe.json) |
 | Super Mario Universe Deluxe | 413228 | [413228-super-mario-universe-deluxe.json](./413228-super-mario-universe-deluxe.json) |
+| Super Mario Unleashed | 318455 | [318455-super-mario-unleashed.json](./318455-super-mario-unleashed.json) |
 | Super Mario Unlimited Deluxe | 256778 | [256778-super-mario-unlimited-deluxe.json](./256778-super-mario-unlimited-deluxe.json) |
 | Super Mario War | 305742 | [305742-super-mario-war.json](./305742-super-mario-war.json) |
 | Super Mario War | 87815 | [87815-super-mario-war.json](./87815-super-mario-war.json) |
@@ -27108,6 +27116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario XP | 323052 | [323052-super-mario-xp.json](./323052-super-mario-xp.json) |
 | Super Mario XP: Super Mario Land | 324082 | [324082-super-mario-xp-super-mario-land.json](./324082-super-mario-xp-super-mario-land.json) |
 | Super Mario: Adventure Awaits | 336102 | [336102-super-mario-adventure-awaits.json](./336102-super-mario-adventure-awaits.json) |
+| Super Mario: Battle for the Mushroom Kingdom | 318457 | [318457-super-mario-battle-for-the-mushroom-kingdom.json](./318457-super-mario-battle-for-the-mushroom-kingdom.json) |
 | Super Mario: Blue Twilight | 330332 | [330332-super-mario-blue-twilight.json](./330332-super-mario-blue-twilight.json) |
 | Super Mario: Bob-omb Blast | 313419 | [313419-super-mario-bob-omb-blast.json](./313419-super-mario-bob-omb-blast.json) |
 | Super Mario: Christmas Season | 268396 | [268396-super-mario-christmas-season.json](./268396-super-mario-christmas-season.json) |
@@ -30558,6 +30567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syobon Action 2 HD | 365136 | [365136-syobon-action-2-hd.json](./365136-syobon-action-2-hd.json) |
 | Syobon Action HD | 365135 | [365135-syobon-action-hd.json](./365135-syobon-action-hd.json) |
 | Syobon Action NES Edition | 198474 | [198474-syobon-action-nes-edition.json](./198474-syobon-action-nes-edition.json) |
+| Syobon Action Nostalg | 318453 | [318453-syobon-action-nostalg.json](./318453-syobon-action-nostalg.json) |
 | Syobon Action: New Something | 320876 | [320876-syobon-action-new-something.json](./320876-syobon-action-new-something.json) |
 | Syobon No Action Special | 369764 | [369764-syobon-no-action-special.json](./369764-syobon-no-action-special.json) |
 | Syon | 296383 | [296383-syon.json](./296383-syon.json) |
