@@ -1520,6 +1520,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Novel: Naughty Stewardesses | 286479 | [286479-jigsaw-novel-naughty-stewardesses.json](./286479-jigsaw-novel-naughty-stewardesses.json) |
 | Jigsaw Novel: Public Toilet Sex | 286473 | [286473-jigsaw-novel-public-toilet-sex.json](./286473-jigsaw-novel-public-toilet-sex.json) |
 | Jigsaw Novel: Sexy Job Interview | 286470 | [286470-jigsaw-novel-sexy-job-interview.json](./286470-jigsaw-novel-sexy-job-interview.json) |
+| Jigsaw Novel: Summer Threesome | 286492 | [286492-jigsaw-novel-summer-threesome.json](./286492-jigsaw-novel-summer-threesome.json) |
+| Jigsaw Novel: The Job Promotion | 286491 | [286491-jigsaw-novel-the-job-promotion.json](./286491-jigsaw-novel-the-job-promotion.json) |
 | Jigsaw Pets | 283274 | [283274-jigsaw-pets.json](./283274-jigsaw-pets.json) |
 | Jigsaw Pieces 3: Fantasy | 163009 | [163009-jigsaw-pieces-3-fantasy.json](./163009-jigsaw-pieces-3-fantasy.json) |
 | Jigsaw Pieces: Romance | 162999 | [162999-jigsaw-pieces-romance.json](./162999-jigsaw-pieces-romance.json) |
@@ -1628,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle: Cozy Fantasy Worlds | 399908 | [399908-jigsaw-puzzle-cozy-fantasy-worlds.json](./399908-jigsaw-puzzle-cozy-fantasy-worlds.json) |
 | Jigsaw Puzzle: Delicious Foods | 282135 | [282135-jigsaw-puzzle-delicious-foods.json](./282135-jigsaw-puzzle-delicious-foods.json) |
 | Jigsaw puzzle: Evolution | 100720 | [100720-jigsaw-puzzle-evolution.json](./100720-jigsaw-puzzle-evolution.json) |
+| Jigsaw Puzzle: Futanari Massage | 286495 | [286495-jigsaw-puzzle-futanari-massage.json](./286495-jigsaw-puzzle-futanari-massage.json) |
 | Jigsaw Puzzle: Futanari Threesome | 220834 | [220834-jigsaw-puzzle-futanari-threesome.json](./220834-jigsaw-puzzle-futanari-threesome.json) |
 | Jigsaw Puzzle: New Year Collection | 351599 | [351599-jigsaw-puzzle-new-year-collection.json](./351599-jigsaw-puzzle-new-year-collection.json) |
 | Jigsaw Puzzle: Pixel Art Master | 162209 | [162209-jigsaw-puzzle-pixel-art-master.json](./162209-jigsaw-puzzle-pixel-art-master.json) |
@@ -3303,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic War | 14456 | [14456-jurassic-war.json](./14456-jurassic-war.json) |
 | Jurassic Warfare: Dinosaur Combat Arena | 90695 | [90695-jurassic-warfare-dinosaur-combat-arena.json](./90695-jurassic-warfare-dinosaur-combat-arena.json) |
 | Jurassic Wild Dino 3D | 104529 | [104529-jurassic-wild-dino-3d.json](./104529-jurassic-wild-dino-3d.json) |
+| Jurassic World | 286373 | [286373-jurassic-world.json](./286373-jurassic-world.json) |
 | Jurassic World Aftermath Collection | 223741 | [223741-jurassic-world-aftermath-collection.json](./223741-jurassic-world-aftermath-collection.json) |
 | Jurassic World Alive | 90084 | [90084-jurassic-world-alive.json](./90084-jurassic-world-alive.json) |
 | Jurassic World Camp Cretaceous: Hidden Adventure | 256846 | [256846-jurassic-world-camp-cretaceous-hidden-adventure.json](./256846-jurassic-world-camp-cretaceous-hidden-adventure.json) |
