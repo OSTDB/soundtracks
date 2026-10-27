@@ -5766,6 +5766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ItsJustAStory | 251745 | [251745-itsjustastory.json](./251745-itsjustastory.json) |
 | Itsu Doko de Online | 220295 | [220295-itsu-doko-de-online.json](./220295-itsu-doko-de-online.json) |
 | Itsu no Ma ni Koukan Nikki | 222319 | [222319-itsu-no-ma-ni-koukan-nikki.json](./222319-itsu-no-ma-ni-koukan-nikki.json) |
+| Itsudemo Pachinko GB: CR Monster House | 281587 | [281587-itsudemo-pachinko-gb-cr-monster-house.json](./281587-itsudemo-pachinko-gb-cr-monster-house.json) |
 | Itsudemo! Nyan to Wonderful | 228564 | [228564-itsudemo-nyan-to-wonderful.json](./228564-itsudemo-nyan-to-wonderful.json) |
 | Itsuka, Kasanariau Ashita he: Sayuri-hen | 203819 | [203819-itsuka-kasanariau-ashita-he-sayuri-hen.json](./203819-itsuka-kasanariau-ashita-he-sayuri-hen.json) |
 | Itsuka, Kasanariau Ashita he: Shirou-hen | 203822 | [203822-itsuka-kasanariau-ashita-he-shirou-hen.json](./203822-itsuka-kasanariau-ashita-he-shirou-hen.json) |
