@@ -2886,6 +2886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Doombad 2: Muahaha! | 324787 | [324787-castle-doombad-2-muahaha.json](./324787-castle-doombad-2-muahaha.json) |
 | Castle Doombad Classic | 324781 | [324781-castle-doombad-classic.json](./324781-castle-doombad-classic.json) |
 | Castle Doombad: Free To Slay | 324780 | [324780-castle-doombad-free-to-slay.json](./324780-castle-doombad-free-to-slay.json) |
+| Castle Duels | 313070 | [313070-castle-duels.json](./313070-castle-duels.json) |
 | Castle Elsinore | 146106 | [146106-castle-elsinore.json](./146106-castle-elsinore.json) |
 | Castle Empire | 263969 | [263969-castle-empire.json](./263969-castle-empire.json) |
 | Castle Escape | 187100 | [187100-castle-escape.json](./187100-castle-escape.json) |
@@ -5419,7 +5420,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CheeseLords | 378440 | [378440-cheeselords.json](./378440-cheeselords.json) |
 | Cheesequest | 213022 | [213022-cheesequest.json](./213022-cheesequest.json) |
 | Cheesey Sponge | 207909 | [207909-cheesey-sponge.json](./207909-cheesey-sponge.json) |
+| Cheestrek | 313062 | [313062-cheestrek.json](./313062-cheestrek.json) |
 | Cheestrings Quiz | 313120 | [313120-cheestrings-quiz.json](./313120-cheestrings-quiz.json) |
+| Cheestrings: Mr. Strings' World Tour | 313061 | [313061-cheestrings-mr-strings-world-tour.json](./313061-cheestrings-mr-strings-world-tour.json) |
 | Cheesy | 92889 | [92889-cheesy.json](./92889-cheesy.json) |
 | Cheesy Chaser | 378899 | [378899-cheesy-chaser.json](./378899-cheesy-chaser.json) |
 | Cheesy Invaders | 14478 | [14478-cheesy-invaders.json](./14478-cheesy-invaders.json) |
