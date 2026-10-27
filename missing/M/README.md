@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macho Harvest: Muscular Harvest Puzzle | 334600 | [334600-macho-harvest-muscular-harvest-puzzle.json](./334600-macho-harvest-muscular-harvest-puzzle.json) |
 | Macho Mouse | 40079 | [40079-macho-mouse.json](./40079-macho-mouse.json) |
 | Macho Scooping | 291908 | [291908-macho-scooping.json](./291908-macho-scooping.json) |
+| Macho Shot | 317890 | [317890-macho-shot.json](./317890-macho-shot.json) |
 | Macho Spinner | 270176 | [270176-macho-spinner.json](./270176-macho-spinner.json) |
 | MachRace | 32865 | [32865-machrace.json](./32865-machrace.json) |
 | Macis | 307068 | [307068-macis.json](./307068-macis.json) |
@@ -5274,6 +5275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Chase | 137901 | [137901-maze-chase.json](./137901-maze-chase.json) |
 | Maze City: A Cyberpunk Lost and Found Centre | 217241 | [217241-maze-city-a-cyberpunk-lost-and-found-centre.json](./217241-maze-city-a-cyberpunk-lost-and-found-centre.json) |
 | Maze Company | 326093 | [326093-maze-company.json](./326093-maze-company.json) |
+| Maze Craze | 317796 | [317796-maze-craze.json](./317796-maze-craze.json) |
 | Maze Craze: A Game of Cops 'n Robbers | 70265 | [70265-maze-craze-a-game-of-cops-n-robbers.json](./70265-maze-craze-a-game-of-cops-n-robbers.json) |
 | Maze Crusher | 104827 | [104827-maze-crusher.json](./104827-maze-crusher.json) |
 | Maze Death Race | 319586 | [319586-maze-death-race.json](./319586-maze-death-race.json) |
