@@ -2195,6 +2195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 In a Blow | 242460 | [242460-4-in-a-blow.json](./242460-4-in-a-blow.json) |
 | 4 in a Line | 89723 | [89723-4-in-a-line.json](./89723-4-in-a-line.json) |
 | 4 in a Row | 294841 | [294841-4-in-a-row.json](./294841-4-in-a-row.json) |
+| 4 in a Row | 315458 | [315458-4-in-a-row.json](./315458-4-in-a-row.json) |
 | 4 In a Row:Deluxe | 256161 | [256161-4-in-a-row-deluxe.json](./256161-4-in-a-row-deluxe.json) |
 | 4 in One: Cave Wonders/Earth Defender/Jaguar Bomber/Soccer Champion | 138731 | [138731-4-in-one-cave-wonders-earth-defender-jaguar-bomber-soccer-champion.json](./138731-4-in-one-cave-wonders-earth-defender-jaguar-bomber-soccer-champion.json) |
 | 4 Kingdoms Supremacy | 297056 | [297056-4-kingdoms-supremacy.json](./297056-4-kingdoms-supremacy.json) |
