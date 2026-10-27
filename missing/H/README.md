@@ -1879,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter: Quidditch Champions - Deluxe Edition | 318003 | [318003-harry-potter-quidditch-champions-deluxe-edition.json](./318003-harry-potter-quidditch-champions-deluxe-edition.json) |
 | Harry Potter: Quidditch Champions - Deluxe Pack | 328987 | [328987-harry-potter-quidditch-champions-deluxe-pack.json](./328987-harry-potter-quidditch-champions-deluxe-pack.json) |
 | Harry Potter: Quidditch World Cup | 166523 | [166523-harry-potter-quidditch-world-cup.json](./166523-harry-potter-quidditch-world-cup.json) |
+| Harry Potter: Skurge Challenge | 305737 | [305737-harry-potter-skurge-challenge.json](./305737-harry-potter-skurge-challenge.json) |
 | Harry Potter: Spells | 66432 | [66432-harry-potter-spells.json](./66432-harry-potter-spells.json) |
 | Harry Quantum Episode 1: TV Go Home | 404417 | [404417-harry-quantum-episode-1-tv-go-home.json](./404417-harry-quantum-episode-1-tv-go-home.json) |
 | Harry Styles Heardle | 225622 | [225622-harry-styles-heardle.json](./225622-harry-styles-heardle.json) |
