@@ -1076,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tempting Life with My Neighbor | 420679 | [420679-a-tempting-life-with-my-neighbor.json](./420679-a-tempting-life-with-my-neighbor.json) |
 | A Test Before Jianghu | 235278 | [235278-a-test-before-jianghu.json](./235278-a-test-before-jianghu.json) |
 | A Thief's Legacy | 52562 | [52562-a-thiefs-legacy.json](./52562-a-thiefs-legacy.json) |
+| A Thief's Quest | 328933 | [328933-a-thiefs-quest.json](./328933-a-thiefs-quest.json) |
 | A Thin Line | 28030 | [28030-a-thin-line.json](./28030-a-thin-line.json) |
 | A Thousand Acres | 420214 | [420214-a-thousand-acres.json](./420214-a-thousand-acres.json) |
 | A Thousand Mouths to Scream | 338179 | [338179-a-thousand-mouths-to-scream.json](./338179-a-thousand-mouths-to-scream.json) |
@@ -10810,6 +10811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanbreak | 139662 | [139662-arcanbreak.json](./139662-arcanbreak.json) |
 | Arcane | 271797 | [271797-arcane.json](./271797-arcane.json) |
 | Arcane | 31163 | [31163-arcane.json](./31163-arcane.json) |
+| Arcane Afterfall | 328902 | [328902-arcane-afterfall.json](./328902-arcane-afterfall.json) |
 | Arcane Angler | 400238 | [400238-arcane-angler.json](./400238-arcane-angler.json) |
 | Arcane Arena | 263102 | [263102-arcane-arena.json](./263102-arcane-arena.json) |
 | Arcane Array Arena | 296524 | [296524-arcane-array-arena.json](./296524-arcane-array-arena.json) |
@@ -10909,6 +10911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanterra | 303346 | [303346-arcanterra.json](./303346-arcanterra.json) |
 | Arcanum | 258506 | [258506-arcanum.json](./258506-arcanum.json) |
 | Arcanum Echo: Sorairo no Elexia | 130595 | [130595-arcanum-echo-sorairo-no-elexia.json](./130595-arcanum-echo-sorairo-no-elexia.json) |
+| Arcanum: Theory of Magic | 328899 | [328899-arcanum-theory-of-magic.json](./328899-arcanum-theory-of-magic.json) |
 | Arcanus Online | 351054 | [351054-arcanus-online.json](./351054-arcanus-online.json) |
 | Arcany | 375981 | [375981-arcany.json](./375981-arcany.json) |
 | ArcaPinball: NeoWorlds | 146892 | [146892-arcapinball-neoworlds.json](./146892-arcapinball-neoworlds.json) |
