@@ -3980,6 +3980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death, Soul & Robots | 245854 | [245854-death-soul-and-robots.json](./245854-death-soul-and-robots.json) |
 | Death: The Ascension | 139652 | [139652-death-the-ascension.json](./139652-death-the-ascension.json) |
 | Death? Preposterous! | 133985 | [133985-death-preposterous.json](./133985-death-preposterous.json) |
+| Death's Apprentice | 314813 | [314813-deaths-apprentice.json](./314813-deaths-apprentice.json) |
 | Death's Dichotomy | 261173 | [261173-deaths-dichotomy.json](./261173-deaths-dichotomy.json) |
 | Death's Door: Ultimate Edition | 206673 | [206673-deaths-door-ultimate-edition.json](./206673-deaths-door-ultimate-edition.json) |
 | Death's Dungeon | 235671 | [235671-deaths-dungeon.json](./235671-deaths-dungeon.json) |
