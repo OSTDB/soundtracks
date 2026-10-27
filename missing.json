@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-27T10:33:55.527Z",
-  "total_missing": 269575,
+  "generated_at": "2026-10-27T10:48:58.288Z",
+  "total_missing": 269625,
   "games": [
     {
       "igdb_id": 191680,
@@ -79372,6 +79372,11 @@
       "file": "missing/A/412331-assassins-creed-ii-multiplayer.json"
     },
     {
+      "igdb_id": 308856,
+      "game_name": "Assassin's Creed II: The Master Assassin's Edition",
+      "file": "missing/A/308856-assassins-creed-ii-the-master-assassins-edition.json"
+    },
+    {
       "igdb_id": 118455,
       "game_name": "Assassin's Creed II: Ultimate Edition",
       "file": "missing/A/118455-assassins-creed-ii-ultimate-edition.json"
@@ -116030,6 +116035,11 @@
       "igdb_id": 339976,
       "game_name": "Beat Tokyo with Jimotoism",
       "file": "missing/B/339976-beat-tokyo-with-jimotoism.json"
+    },
+    {
+      "igdb_id": 308858,
+      "game_name": "Beat Typing",
+      "file": "missing/B/308858-beat-typing.json"
     },
     {
       "igdb_id": 328609,
@@ -217457,6 +217467,16 @@
       "file": "missing/C/308809-coach-bus-driving-simulator.json"
     },
     {
+      "igdb_id": 308840,
+      "game_name": "Coach Bus Driving Simulator: Comfort Long Road Vehicle",
+      "file": "missing/C/308840-coach-bus-driving-simulator-comfort-long-road-vehicle.json"
+    },
+    {
+      "igdb_id": 308839,
+      "game_name": "Coach Bus Driving Simulator: Fast Long Road Vehicle",
+      "file": "missing/C/308839-coach-bus-driving-simulator-fast-long-road-vehicle.json"
+    },
+    {
       "igdb_id": 304104,
       "game_name": "Coach Fight",
       "file": "missing/C/304104-coach-fight.json"
@@ -228990,6 +229010,11 @@
       "igdb_id": 384585,
       "game_name": "Conscript: Officer Edition",
       "file": "missing/C/384585-conscript-officer-edition.json"
+    },
+    {
+      "igdb_id": 308838,
+      "game_name": "Conscript: Trench Raider Pack",
+      "file": "missing/C/308838-conscript-trench-raider-pack.json"
     },
     {
       "igdb_id": 312297,
@@ -315227,6 +315252,11 @@
       "file": "missing/D/129042-doomsday-hunters.json"
     },
     {
+      "igdb_id": 308843,
+      "game_name": "Doomsday Hunters: Boss Rush Mega Pack",
+      "file": "missing/D/308843-doomsday-hunters-boss-rush-mega-pack.json"
+    },
+    {
       "igdb_id": 275811,
       "game_name": "Doomsday Lonely town",
       "file": "missing/D/275811-doomsday-lonely-town.json"
@@ -344467,9 +344497,24 @@
       "file": "missing/E/308639-ecchi-secrets.json"
     },
     {
+      "igdb_id": 308846,
+      "game_name": "Ecchi Secrets: Bath Time",
+      "file": "missing/E/308846-ecchi-secrets-bath-time.json"
+    },
+    {
       "igdb_id": 312059,
       "game_name": "Ecchi Secrets: Complete Edition",
       "file": "missing/E/312059-ecchi-secrets-complete-edition.json"
+    },
+    {
+      "igdb_id": 308847,
+      "game_name": "Ecchi Secrets: Date Night",
+      "file": "missing/E/308847-ecchi-secrets-date-night.json"
+    },
+    {
+      "igdb_id": 308845,
+      "game_name": "Ecchi Secrets: Futuristic Dream",
+      "file": "missing/E/308845-ecchi-secrets-futuristic-dream.json"
     },
     {
       "igdb_id": 324379,
@@ -344480,6 +344525,11 @@
       "igdb_id": 317258,
       "game_name": "Ecchi Secrets: Romantic Edition",
       "file": "missing/E/317258-ecchi-secrets-romantic-edition.json"
+    },
+    {
+      "igdb_id": 308844,
+      "game_name": "Ecchi Secrets: Steamy Class",
+      "file": "missing/E/308844-ecchi-secrets-steamy-class.json"
     },
     {
       "igdb_id": 404276,
@@ -344495,6 +344545,41 @@
       "igdb_id": 147393,
       "game_name": "Ecchi Spirit",
       "file": "missing/E/147393-ecchi-spirit.json"
+    },
+    {
+      "igdb_id": 308848,
+      "game_name": "Ecchi Time: Mia",
+      "file": "missing/E/308848-ecchi-time-mia.json"
+    },
+    {
+      "igdb_id": 308849,
+      "game_name": "Ecchi Time: Nadia",
+      "file": "missing/E/308849-ecchi-time-nadia.json"
+    },
+    {
+      "igdb_id": 308850,
+      "game_name": "Ecchi Time: Roxi",
+      "file": "missing/E/308850-ecchi-time-roxi.json"
+    },
+    {
+      "igdb_id": 308851,
+      "game_name": "Ecchi Time: Samanta",
+      "file": "missing/E/308851-ecchi-time-samanta.json"
+    },
+    {
+      "igdb_id": 308854,
+      "game_name": "Ecchi Time: Valeria",
+      "file": "missing/E/308854-ecchi-time-valeria.json"
+    },
+    {
+      "igdb_id": 308852,
+      "game_name": "Ecchi Time: Xena",
+      "file": "missing/E/308852-ecchi-time-xena.json"
+    },
+    {
+      "igdb_id": 308853,
+      "game_name": "Ecchi Time: Yoko",
+      "file": "missing/E/308853-ecchi-time-yoko.json"
     },
     {
       "igdb_id": 333519,
@@ -360380,6 +360465,11 @@
       "igdb_id": 287849,
       "game_name": "Epic Mickey: Rebrushed",
       "file": "missing/E/287849-epic-mickey-rebrushed.json"
+    },
+    {
+      "igdb_id": 308842,
+      "game_name": "Epic Mickey: Rebrushed - Costume Pack",
+      "file": "missing/E/308842-epic-mickey-rebrushed-costume-pack.json"
     },
     {
       "igdb_id": 271635,
@@ -401600,6 +401690,11 @@
       "igdb_id": 323039,
       "game_name": "Fire Emblem World Cup",
       "file": "missing/F/323039-fire-emblem-world-cup.json"
+    },
+    {
+      "igdb_id": 308855,
+      "game_name": "Fire Emblem: An Unexpected Caller",
+      "file": "missing/F/308855-fire-emblem-an-unexpected-caller.json"
     },
     {
       "igdb_id": 1433,
@@ -461912,6 +462007,11 @@
       "file": "missing/G/25312-god-wars-future-past.json"
     },
     {
+      "igdb_id": 308862,
+      "game_name": "God Will",
+      "file": "missing/G/308862-god-will.json"
+    },
+    {
       "igdb_id": 135080,
       "game_name": "God, I Hate Wasps",
       "file": "missing/G/135080-god-i-hate-wasps.json"
@@ -477735,6 +477835,11 @@
       "igdb_id": 237881,
       "game_name": "Groove Coaster: Wai Wai Party!!!! - Wacca + Hardcore Tano*c Pack",
       "file": "missing/G/237881-groove-coaster-wai-wai-party-wacca-hardcore-tano-c-pack.json"
+    },
+    {
+      "igdb_id": 308837,
+      "game_name": "Groove Coaster: Wai Wai Party!!!!: Hololive Pack 2",
+      "file": "missing/G/308837-groove-coaster-wai-wai-party-hololive-pack-2.json"
     },
     {
       "igdb_id": 300944,
@@ -541415,6 +541520,11 @@
       "igdb_id": 330515,
       "game_name": "I R Teh More Amazzzzing!",
       "file": "missing/I/330515-i-r-teh-more-amazzzzing.json"
+    },
+    {
+      "igdb_id": 308861,
+      "game_name": "I Raised a Flag",
+      "file": "missing/I/308861-i-raised-a-flag.json"
     },
     {
       "igdb_id": 178934,
@@ -606367,9 +606477,19 @@
       "file": "missing/K/385167-knights-and-guns-mystic-armor.json"
     },
     {
+      "igdb_id": 308823,
+      "game_name": "Knights & Guns: 5 in 1 DLC Bundle",
+      "file": "missing/K/308823-knights-and-guns-5-in-1-dlc-bundle.json"
+    },
+    {
       "igdb_id": 317252,
       "game_name": "Knights & Guns: Advanced Edition",
       "file": "missing/K/317252-knights-and-guns-advanced-edition.json"
+    },
+    {
+      "igdb_id": 308824,
+      "game_name": "Knights & Guns: Armor Pack #3",
+      "file": "missing/K/308824-knights-and-guns-armor-pack-3.json"
     },
     {
       "igdb_id": 263540,
@@ -768892,6 +769012,11 @@
       "file": "missing/N/198878-nickelodeon-rugrats.json"
     },
     {
+      "igdb_id": 308825,
+      "game_name": "Nickelodeon: All-Star Brawl 2 - Rocksteady Brawl Pack",
+      "file": "missing/N/308825-nickelodeon-all-star-brawl-2-rocksteady-brawl-pack.json"
+    },
+    {
       "igdb_id": 88142,
       "game_name": "NickProject",
       "file": "missing/N/88142-nickproject.json"
@@ -823107,6 +823232,11 @@
       "file": "missing/P/193127-pathfinder-wrath-of-the-righteous-paint-of-war.json"
     },
     {
+      "igdb_id": 308827,
+      "game_name": "Pathfinder: Wrath of the Righteous - Season Pass 2",
+      "file": "missing/P/308827-pathfinder-wrath-of-the-righteous-season-pass-2.json"
+    },
+    {
       "igdb_id": 269217,
       "game_name": "Pathfinder: Wrath of the Righteous - The Lord of Nothing",
       "file": "missing/P/269217-pathfinder-wrath-of-the-righteous-the-lord-of-nothing.json"
@@ -860745,6 +860875,11 @@
       "igdb_id": 292618,
       "game_name": "Police Simulator: Patrol Officers - Extended Edition",
       "file": "missing/P/292618-police-simulator-patrol-officers-extended-edition.json"
+    },
+    {
+      "igdb_id": 308826,
+      "game_name": "Police Simulator: Patrol Officers - Garage Bundle",
+      "file": "missing/P/308826-police-simulator-patrol-officers-garage-bundle.json"
     },
     {
       "igdb_id": 293933,
@@ -945422,6 +945557,11 @@
       "file": "missing/R/324487-rpg-alchemy-bestiary-i.json"
     },
     {
+      "igdb_id": 308835,
+      "game_name": "RPG Alchemy: Spell I",
+      "file": "missing/R/308835-rpg-alchemy-spell-i.json"
+    },
+    {
       "igdb_id": 104441,
       "game_name": "RPG Boss Battle",
       "file": "missing/R/104441-rpg-boss-battle.json"
@@ -951895,6 +952035,11 @@
       "igdb_id": 312061,
       "game_name": "S.N.I.P.E.R : Hunter Scope - Legacy Edition",
       "file": "missing/S/312061-s-n-i-p-e-r-hunter-scope-legacy-edition.json"
+    },
+    {
+      "igdb_id": 308830,
+      "game_name": "S.N.I.P.E.R: Hunter Scope - Eagle Eye",
+      "file": "missing/S/308830-s-n-i-p-e-r-hunter-scope-eagle-eye.json"
     },
     {
       "igdb_id": 387680,
@@ -1048692,6 +1048837,11 @@
       "file": "missing/S/317291-sprout-valley-spray-paint.json"
     },
     {
+      "igdb_id": 308831,
+      "game_name": "Sprout Valley: Summer",
+      "file": "missing/S/308831-sprout-valley-summer.json"
+    },
+    {
       "igdb_id": 328779,
       "game_name": "Sprout Valley: Summer Edition",
       "file": "missing/S/328779-sprout-valley-summer-edition.json"
@@ -1088455,6 +1088605,11 @@
       "igdb_id": 288656,
       "game_name": "Super Monkey Ball: Banana Rumble - Launch Edition",
       "file": "missing/S/288656-super-monkey-ball-banana-rumble-launch-edition.json"
+    },
+    {
+      "igdb_id": 308836,
+      "game_name": "Super Monkey Ball: Banana Rumble - Sega Character Pass",
+      "file": "missing/S/308836-super-monkey-ball-banana-rumble-sega-character-pass.json"
     },
     {
       "igdb_id": 310655,
@@ -1180567,6 +1180722,11 @@
       "file": "missing/T/58777-the-three-decoders-1-riddle-of-the-ring.json"
     },
     {
+      "igdb_id": 308860,
+      "game_name": "The Three Kingdoms Era in China 2000 Years Ago: God Pass",
+      "file": "missing/T/308860-the-three-kingdoms-era-in-china-2000-years-ago-god-pass.json"
+    },
+    {
       "igdb_id": 115489,
       "game_name": "The Three Kingdoms of China",
       "file": "missing/T/115489-the-three-kingdoms-of-china.json"
@@ -1203302,6 +1203462,11 @@
       "file": "missing/T/204489-time-travel.json"
     },
     {
+      "igdb_id": 308828,
+      "game_name": "Time Travel Bundle",
+      "file": "missing/T/308828-time-travel-bundle.json"
+    },
+    {
       "igdb_id": 295777,
       "game_name": "Time Travel Cafe",
       "file": "missing/T/295777-time-travel-cafe.json"
@@ -1219195,6 +1219360,16 @@
       "igdb_id": 242038,
       "game_name": "Touhou: New World",
       "file": "missing/T/242038-touhou-new-world.json"
+    },
+    {
+      "igdb_id": 308832,
+      "game_name": "Touhou: New World - Gensokyo Dreaming",
+      "file": "missing/T/308832-touhou-new-world-gensokyo-dreaming.json"
+    },
+    {
+      "igdb_id": 308833,
+      "game_name": "Touhou: New World + Story DLC Bundle",
+      "file": "missing/T/308833-touhou-new-world-story-dlc-bundle.json"
     },
     {
       "igdb_id": 230169,
@@ -1262162,6 +1262337,11 @@
       "file": "missing/U/270789-urban-flow-back-to-school-edition.json"
     },
     {
+      "igdb_id": 308834,
+      "game_name": "Urban Flow: Capital Commute",
+      "file": "missing/U/308834-urban-flow-capital-commute.json"
+    },
+    {
       "igdb_id": 328809,
       "game_name": "Urban Flow: Combo Edition",
       "file": "missing/U/328809-urban-flow-combo-edition.json"
@@ -1276957,9 +1277137,64 @@
       "file": "missing/V/251470-vivitter-for-nintendo-switch.json"
     },
     {
+      "igdb_id": 308761,
+      "game_name": "Vivitter: Additional Mini-game - \"Back to the Chicken\"",
+      "file": "missing/V/308761-vivitter-additional-mini-game-back-to-the-chicken.json"
+    },
+    {
+      "igdb_id": 308762,
+      "game_name": "Vivitter: Additional Mini-game - \"Chicken Race\"",
+      "file": "missing/V/308762-vivitter-additional-mini-game-chicken-race.json"
+    },
+    {
+      "igdb_id": 308763,
+      "game_name": "Vivitter: Additional Mini-game - \"Chicken Ranger\"",
+      "file": "missing/V/308763-vivitter-additional-mini-game-chicken-ranger.json"
+    },
+    {
+      "igdb_id": 308766,
+      "game_name": "Vivitter: Additional Mini-game - \"Death Proposal\"",
+      "file": "missing/V/308766-vivitter-additional-mini-game-death-proposal.json"
+    },
+    {
+      "igdb_id": 308764,
+      "game_name": "Vivitter: Additional Mini-game - \"Flightless Bird\"",
+      "file": "missing/V/308764-vivitter-additional-mini-game-flightless-bird.json"
+    },
+    {
+      "igdb_id": 308767,
+      "game_name": "Vivitter: Additional Mini-game - \"Fly Me to the Moon\"",
+      "file": "missing/V/308767-vivitter-additional-mini-game-fly-me-to-the-moon.json"
+    },
+    {
+      "igdb_id": 308765,
+      "game_name": "Vivitter: Additional Mini-game - \"Flying Juliet\"",
+      "file": "missing/V/308765-vivitter-additional-mini-game-flying-juliet.json"
+    },
+    {
+      "igdb_id": 308771,
+      "game_name": "Vivitter: Additional Mini-game - \"Full Throttle\"",
+      "file": "missing/V/308771-vivitter-additional-mini-game-full-throttle.json"
+    },
+    {
+      "igdb_id": 308768,
+      "game_name": "Vivitter: Additional Mini-game - \"Halo Jump!\"",
+      "file": "missing/V/308768-vivitter-additional-mini-game-halo-jump.json"
+    },
+    {
       "igdb_id": 308772,
       "game_name": "Vivitter: Additional Mini-game - \"Hole-in-one\"",
       "file": "missing/V/308772-vivitter-additional-mini-game-hole-in-one.json"
+    },
+    {
+      "igdb_id": 308769,
+      "game_name": "Vivitter: Additional Mini-game - \"Hunter of Love\"",
+      "file": "missing/V/308769-vivitter-additional-mini-game-hunter-of-love.json"
+    },
+    {
+      "igdb_id": 308770,
+      "game_name": "Vivitter: Additional Mini-game - \"Just barely: Impossible\"",
+      "file": "missing/V/308770-vivitter-additional-mini-game-just-barely-impossible.json"
     },
     {
       "igdb_id": 308785,
@@ -1306177,6 +1306412,11 @@
       "file": "missing/W/287698-windah-horror-adventure-2.json"
     },
     {
+      "igdb_id": 308859,
+      "game_name": "Windbell",
+      "file": "missing/W/308859-windbell.json"
+    },
+    {
       "igdb_id": 340746,
       "game_name": "Windborn: Concrete Jungle",
       "file": "missing/W/340746-windborn-concrete-jungle.json"
@@ -1318817,6 +1319057,11 @@
       "file": "missing/W/288288-worldneverland-elnea-kingdom-sugar-donut-fair.json"
     },
     {
+      "igdb_id": 308829,
+      "game_name": "WorldNeverland: Elnea Kingdom - Summer Hiking Wear Set: Beach",
+      "file": "missing/W/308829-worldneverland-elnea-kingdom-summer-hiking-wear-set-beach.json"
+    },
+    {
       "igdb_id": 309067,
       "game_name": "WorldNeverland: Elnea Kingdom - Summer Hiking Wear Set: Lime",
       "file": "missing/W/309067-worldneverland-elnea-kingdom-summer-hiking-wear-set-lime.json"
@@ -1330615,6 +1330860,11 @@
       "igdb_id": 312119,
       "game_name": "Yohane the Parhelion: Costume \"Million Dollar Kitty\"",
       "file": "missing/Y/312119-yohane-the-parhelion-costume-million-dollar-kitty.json"
+    },
+    {
+      "igdb_id": 308841,
+      "game_name": "Yohane the Parhelion: Costume \"Summer Vacation\"",
+      "file": "missing/Y/308841-yohane-the-parhelion-costume-summer-vacation.json"
     },
     {
       "igdb_id": 315499,
