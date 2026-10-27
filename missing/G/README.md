@@ -1972,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaung | 362998 | [362998-gaung.json](./362998-gaung.json) |
 | Gauntler | 261166 | [261166-gauntler.json](./261166-gauntler.json) |
 | Gauntlet | 198746 | [198746-gauntlet.json](./198746-gauntlet.json) |
+| Gauntlet | 282739 | [282739-gauntlet.json](./282739-gauntlet.json) |
 | Gauntlet | 330890 | [330890-gauntlet.json](./330890-gauntlet.json) |
 | Gauntlet | 3502 | [3502-gauntlet.json](./3502-gauntlet.json) |
 | Gauntlet | 381045 | [381045-gauntlet.json](./381045-gauntlet.json) |
