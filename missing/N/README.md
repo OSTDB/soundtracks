@@ -4806,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Break | 159162 | [159162-no-break.json](./159162-no-break.json) |
 | No Breaks Valet | 268949 | [268949-no-breaks-valet.json](./268949-no-breaks-valet.json) |
 | No Bugs On My Windshield | 292584 | [292584-no-bugs-on-my-windshield.json](./292584-no-bugs-on-my-windshield.json) |
+| No Caddie Included | 317169 | [317169-no-caddie-included.json](./317169-no-caddie-included.json) |
 | No Captain Allowed! | 130039 | [130039-no-captain-allowed.json](./130039-no-captain-allowed.json) |
 | No Chance | 146866 | [146866-no-chance.json](./146866-no-chance.json) |
 | No Clean, No Exit | 414769 | [414769-no-clean-no-exit.json](./414769-no-clean-no-exit.json) |
