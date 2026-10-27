@@ -4607,6 +4607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nino Maze Lofi II | 193197 | [193197-nino-maze-lofi-ii.json](./193197-nino-maze-lofi-ii.json) |
 | Niñoid | 339693 | [339693-ninoid.json](./339693-ninoid.json) |
 | Ninon the Upside-Down Mermaid | 416331 | [416331-ninon-the-upside-down-mermaid.json](./416331-ninon-the-upside-down-mermaid.json) |
+| Ninpaw | 296320 | [296320-ninpaw.json](./296320-ninpaw.json) |
 | Ninpek | 317577 | [317577-ninpek.json](./317577-ninpek.json) |
 | Ninpen Manmaru | 62714 | [62714-ninpen-manmaru.json](./62714-ninpen-manmaru.json) |
 | Ninpuchi! Cryptoninja Petit | 333933 | [333933-ninpuchi-cryptoninja-petit.json](./333933-ninpuchi-cryptoninja-petit.json) |
