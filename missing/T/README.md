@@ -7630,6 +7630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ever-Changing Jianghu | 280080 | [280080-the-ever-changing-jianghu.json](./280080-the-ever-changing-jianghu.json) |
 | The Everloom | 377901 | [377901-the-everloom.json](./377901-the-everloom.json) |
 | The Evidence | 209567 | [209567-the-evidence.json](./209567-the-evidence.json) |
+| The Evil D | 330047 | [330047-the-evil-d.json](./330047-the-evil-d.json) |
 | The Evil Dead | 25832 | [25832-the-evil-dead.json](./25832-the-evil-dead.json) |
 | The Evil King | 152997 | [152997-the-evil-king.json](./152997-the-evil-king.json) |
 | The Evil Party | 81905 | [81905-the-evil-party.json](./81905-the-evil-party.json) |
@@ -8518,6 +8519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Glass Staircase | 116968 | [116968-the-glass-staircase.json](./116968-the-glass-staircase.json) |
 | The Glassworks | 322353 | [322353-the-glassworks.json](./322353-the-glassworks.json) |
 | The Gleam: VR Escape the Room | 31310 | [31310-the-gleam-vr-escape-the-room.json](./31310-the-gleam-vr-escape-the-room.json) |
+| The Gleaming Grill | 330052 | [330052-the-gleaming-grill.json](./330052-the-gleaming-grill.json) |
 | The Glitch Prison | 286038 | [286038-the-glitch-prison.json](./286038-the-glitch-prison.json) |
 | The Glitch Witch | 310829 | [310829-the-glitch-witch.json](./310829-the-glitch-witch.json) |
 | The Glitched Attraction | 221852 | [221852-the-glitched-attraction.json](./221852-the-glitched-attraction.json) |
@@ -26481,6 +26483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron: Solar Sailer | 5698 | [5698-tron-solar-sailer.json](./5698-tron-solar-sailer.json) |
 | Tronic | 73163 | [73163-tronic.json](./73163-tronic.json) |
 | Tronika | 58147 | [58147-tronika.json](./58147-tronika.json) |
+| Tronix Carnival Games | 330061 | [330061-tronix-carnival-games.json](./330061-tronix-carnival-games.json) |
 | Trooops! | 403325 | [403325-trooops.json](./403325-trooops.json) |
 | Trooper 1 | 74292 | [74292-trooper-1.json](./74292-trooper-1.json) |
 | Trooper Truck | 62609 | [62609-trooper-truck.json](./62609-trooper-truck.json) |
