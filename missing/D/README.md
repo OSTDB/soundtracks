@@ -2969,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Dolls Never Die | 395240 | [395240-dead-dolls-never-die.json](./395240-dead-dolls-never-die.json) |
 | Dead Don't Die | 301092 | [301092-dead-dont-die.json](./301092-dead-dont-die.json) |
 | Dead Dozen | 79141 | [79141-dead-dozen.json](./79141-dead-dozen.json) |
+| Dead Drop | 281441 | [281441-dead-drop.json](./281441-dead-drop.json) |
 | Dead Drop | 29562 | [29562-dead-drop.json](./29562-dead-drop.json) |
 | Dead Dust | 89960 | [89960-dead-dust.json](./89960-dead-dust.json) |
 | Dead Earth Zombies | 188672 | [188672-dead-earth-zombies.json](./188672-dead-earth-zombies.json) |
@@ -4641,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Treasure | 275080 | [275080-deep-treasure.json](./275080-deep-treasure.json) |
 | Deep Under | 260302 | [260302-deep-under.json](./260302-deep-under.json) |
 | Deep Under the Sky | 17688 | [17688-deep-under-the-sky.json](./17688-deep-under-the-sky.json) |
+| Deep Vault 69 | 281431 | [281431-deep-vault-69.json](./281431-deep-vault-69.json) |
 | Deep Voyage | 96040 | [96040-deep-voyage.json](./96040-deep-voyage.json) |
 | Deep Voyage | 97244 | [97244-deep-voyage.json](./97244-deep-voyage.json) |
 | Deep VR | 18217 | [18217-deep-vr.json](./18217-deep-vr.json) |
