@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Blood | 62625 | [62625-dark-blood.json](./62625-dark-blood.json) |
 | Dark Blood 2:The Cry of Souls | 291614 | [291614-dark-blood-2-the-cry-of-souls.json](./291614-dark-blood-2-the-cry-of-souls.json) |
 | Dark Blood: Beyond the Darkness | 291612 | [291612-dark-blood-beyond-the-darkness.json](./291612-dark-blood-beyond-the-darkness.json) |
+| Dark Blue Dungeon | 320789 | [320789-dark-blue-dungeon.json](./320789-dark-blue-dungeon.json) |
 | Dark Blue Warriorr | 211041 | [211041-dark-blue-warriorr.json](./211041-dark-blue-warriorr.json) |
 | Dark Bows | 285000 | [285000-dark-bows.json](./285000-dark-bows.json) |
 | Dark Boy Action Platformer | 179994 | [179994-dark-boy-action-platformer.json](./179994-dark-boy-action-platformer.json) |
@@ -3866,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death of the Reprobate | 217250 | [217250-death-of-the-reprobate.json](./217250-death-of-the-reprobate.json) |
 | Death off the Cuff: Remastered | 174021 | [174021-death-off-the-cuff-remastered.json](./174021-death-off-the-cuff-remastered.json) |
 | Death On Holly Ridge | 381319 | [381319-death-on-holly-ridge.json](./381319-death-on-holly-ridge.json) |
+| Death on Stage | 320702 | [320702-death-on-stage.json](./320702-death-on-stage.json) |
 | Death or Glory | 13577 | [13577-death-or-glory.json](./13577-death-or-glory.json) |
 | Death or Glory | 195934 | [195934-death-or-glory.json](./195934-death-or-glory.json) |
 | Death or Treat | 215539 | [215539-death-or-treat.json](./215539-death-or-treat.json) |
@@ -4453,6 +4455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Inside | 179662 | [179662-deep-inside.json](./179662-deep-inside.json) |
 | Deep Inside | 309535 | [309535-deep-inside.json](./309535-deep-inside.json) |
 | Deep Labyrinth | 20552 | [20552-deep-labyrinth.json](./20552-deep-labyrinth.json) |
+| Deep Lake Mall | 320705 | [320705-deep-lake-mall.json](./320705-deep-lake-mall.json) |
 | Deep Line | 361810 | [361810-deep-line.json](./361810-deep-line.json) |
 | Deep Loop | 372523 | [372523-deep-loop.json](./372523-deep-loop.json) |
 | Deep Loot | 271930 | [271930-deep-loot.json](./271930-deep-loot.json) |
@@ -4953,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deirdre | 395695 | [395695-deirdre.json](./395695-deirdre.json) |
 | Deities Flush | 324113 | [324113-deities-flush.json](./324113-deities-flush.json) |
 | Deitrus | 216640 | [216640-deitrus.json](./216640-deitrus.json) |
+| Deity | 320707 | [320707-deity.json](./320707-deity.json) |
 | Deity | 93500 | [93500-deity.json](./93500-deity.json) |
 | Deity Driving | 129055 | [129055-deity-driving.json](./129055-deity-driving.json) |
 | Deity Quest: Extended | 172114 | [172114-deity-quest-extended.json](./172114-deity-quest-extended.json) |
@@ -5453,6 +5457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Skin | 145582 | [145582-demon-skin.json](./145582-demon-skin.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Gyutaro Character Pack | 226692 | [226692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-gyutaro-character-pack.json](./226692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-gyutaro-character-pack.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tengen Uzui Character Pack | 209695 | [209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json](./209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json) |
+| Demon Slayer 5 | 320711 | [320711-demon-slayer-5.json](./320711-demon-slayer-5.json) |
 | Demon Slayer Akagi | 158937 | [158937-demon-slayer-akagi.json](./158937-demon-slayer-akagi.json) |
 | Demon Slayer Shion | 266073 | [266073-demon-slayer-shion.json](./266073-demon-slayer-shion.json) |
 | Demon Slayer Tamagotchi Hashira Gathering Version | 230137 | [230137-demon-slayer-tamagotchi-hashira-gathering-version.json](./230137-demon-slayer-tamagotchi-hashira-gathering-version.json) |
@@ -5828,6 +5833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Blaue Diamant: Additional mission | 213031 | [213031-der-blaue-diamant-additional-mission.json](./213031-der-blaue-diamant-additional-mission.json) |
 | Der blaue Kristall | 125956 | [125956-der-blaue-kristall.json](./125956-der-blaue-kristall.json) |
 | Der Böse Mann | 411966 | [411966-der-bose-mann.json](./411966-der-bose-mann.json) |
+| Der Bunker | 320713 | [320713-der-bunker.json](./320713-der-bunker.json) |
 | Der Clown | 142083 | [142083-der-clown.json](./142083-der-clown.json) |
 | Der Dativ ist dem Genitiv sein Tod | 269665 | [269665-der-dativ-ist-dem-genitiv-sein-tod.json](./269665-der-dativ-ist-dem-genitiv-sein-tod.json) |
 | Der einzig wahre Auserwählte | 83205 | [83205-der-einzig-wahre-auserwahlte.json](./83205-der-einzig-wahre-auserwahlte.json) |
@@ -9749,6 +9755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Daze Deluxe | 90900 | [90900-dog-daze-deluxe.json](./90900-dog-daze-deluxe.json) |
 | Dog Duty | 45884 | [45884-dog-duty.json](./45884-dog-duty.json) |
 | Dog Eat Dog: Scam to Survive | 153968 | [153968-dog-eat-dog-scam-to-survive.json](./153968-dog-eat-dog-scam-to-survive.json) |
+| Dog Escape | 320776 | [320776-dog-escape.json](./320776-dog-escape.json) |
 | Dog Fight | 35460 | [35460-dog-fight.json](./35460-dog-fight.json) |
 | Dog Fight | 39768 | [39768-dog-fight.json](./39768-dog-fight.json) |
 | Dog Fight Super Ultra Deluxe | 109647 | [109647-dog-fight-super-ultra-deluxe.json](./109647-dog-fight-super-ultra-deluxe.json) |
@@ -10081,6 +10088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll Dress Up | 317551 | [317551-doll-dress-up.json](./317551-doll-dress-up.json) |
 | Doll Dress Up: Classy DLC | 317938 | [317938-doll-dress-up-classy-dlc.json](./317938-doll-dress-up-classy-dlc.json) |
 | Doll Dress Up: Classy Edition | 332510 | [332510-doll-dress-up-classy-edition.json](./332510-doll-dress-up-classy-edition.json) |
+| Doll Dress Up: Complete Edition | 320692 | [320692-doll-dress-up-complete-edition.json](./320692-doll-dress-up-complete-edition.json) |
 | Doll Dress Up: Cute DLC | 317939 | [317939-doll-dress-up-cute-dlc.json](./317939-doll-dress-up-cute-dlc.json) |
 | Doll Explorer | 224691 | [224691-doll-explorer.json](./224691-doll-explorer.json) |
 | Doll Explorer Prologue | 151658 | [151658-doll-explorer-prologue.json](./151658-doll-explorer-prologue.json) |
@@ -11038,6 +11046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Ultimate Enhanced | 198487 | [198487-doom-ultimate-enhanced.json](./198487-doom-ultimate-enhanced.json) |
 | Doom Warrior | 59860 | [59860-doom-warrior.json](./59860-doom-warrior.json) |
 | Doom Zero | 142176 | [142176-doom-zero.json](./142176-doom-zero.json) |
+| Doom: A Very Graphic Adventure | 320788 | [320788-doom-a-very-graphic-adventure.json](./320788-doom-a-very-graphic-adventure.json) |
 | Doom: Bloodfall | 26558 | [26558-doom-bloodfall.json](./26558-doom-bloodfall.json) |
 | DOOM: Collector's Edition | 41614 | [41614-doom-collectors-edition.json](./41614-doom-collectors-edition.json) |
 | DOOM: Day One Edition | 136168 | [136168-doom-day-one-edition.json](./136168-doom-day-one-edition.json) |
@@ -13220,6 +13229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread X Collection: The Hunt | 145624 | [145624-dread-x-collection-the-hunt.json](./145624-dread-x-collection-the-hunt.json) |
 | Dreadbone | 347786 | [347786-dreadbone.json](./347786-dreadbone.json) |
 | Dreadborne Drifters | 117371 | [117371-dreadborne-drifters.json](./117371-dreadborne-drifters.json) |
+| Dreadborne Dungeon | 320706 | [320706-dreadborne-dungeon.json](./320706-dreadborne-dungeon.json) |
 | DreadBound | 382895 | [382895-dreadbound.json](./382895-dreadbound.json) |
 | Dreadcore: Locked Unit | 354556 | [354556-dreadcore-locked-unit.json](./354556-dreadcore-locked-unit.json) |
 | Dreader | 176487 | [176487-dreader.json](./176487-dreader.json) |
