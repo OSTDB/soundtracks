@@ -1148,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Arena | 6367 | [6367-dark-arena.json](./6367-dark-arena.json) |
 | Dark Army Resurrection | 250328 | [250328-dark-army-resurrection.json](./250328-dark-army-resurrection.json) |
 | Dark Around You | 149475 | [149475-dark-around-you.json](./149475-dark-around-you.json) |
+| Dark as Blood | 298508 | [298508-dark-as-blood.json](./298508-dark-as-blood.json) |
 | Dark Assassin: Trial Chambers | 339363 | [339363-dark-assassin-trial-chambers.json](./339363-dark-assassin-trial-chambers.json) |
 | Dark Astral | 263042 | [263042-dark-astral.json](./263042-dark-astral.json) |
 | Dark Asylum: Mystery Adventure | 109331 | [109331-dark-asylum-mystery-adventure.json](./109331-dark-asylum-mystery-adventure.json) |
@@ -3844,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Inn | 118605 | [118605-death-inn.json](./118605-death-inn.json) |
 | Death Inn Ⅱ :The Immortal Is Coming | 284288 | [284288-death-inn-ii-the-immortal-is-coming.json](./284288-death-inn-ii-the-immortal-is-coming.json) |
 | Death Insurance | 422037 | [422037-death-insurance.json](./422037-death-insurance.json) |
+| Death Is A Guest | 298512 | [298512-death-is-a-guest.json](./298512-death-is-a-guest.json) |
 | Death is better than Hell | 51971 | [51971-death-is-better-than-hell.json](./51971-death-is-better-than-hell.json) |
 | Death Jr: Root of Evil | 90656 | [90656-death-jr-root-of-evil.json](./90656-death-jr-root-of-evil.json) |
 | Death Jr. | 45988 | [45988-death-jr.json](./45988-death-jr.json) |
@@ -5456,6 +5458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Hunter: Shadow World | 320175 | [320175-demon-hunter-shadow-world.json](./320175-demon-hunter-shadow-world.json) |
 | Demon Hunters | 332447 | [332447-demon-hunters.json](./332447-demon-hunters.json) |
 | Demon Huntress | 399625 | [399625-demon-huntress.json](./399625-demon-huntress.json) |
+| Demon Island | 298519 | [298519-demon-island.json](./298519-demon-island.json) |
 | Demon Island Massacre | 270178 | [270178-demon-island-massacre.json](./270178-demon-island-massacre.json) |
 | Demon Itself | 370124 | [370124-demon-itself.json](./370124-demon-itself.json) |
 | Demon Keeper 2+ | 167305 | [167305-demon-keeper-2.json](./167305-demon-keeper-2.json) |
@@ -5920,6 +5923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Jockey: Kishou he no Michi | 60463 | [60463-derby-jockey-kishou-he-no-michi.json](./60463-derby-jockey-kishou-he-no-michi.json) |
 | Derby Jockey: Kishu-ou he no Michi | 44417 | [44417-derby-jockey-kishu-ou-he-no-michi.json](./44417-derby-jockey-kishu-ou-he-no-michi.json) |
 | Derby Life: Ranch & Race | 415104 | [415104-derby-life-ranch-and-race.json](./415104-derby-life-ranch-and-race.json) |
+| Derby Madness | 297532 | [297532-derby-madness.json](./297532-derby-madness.json) |
 | Derby Musou | 61544 | [61544-derby-musou.json](./61544-derby-musou.json) |
 | Derby Owners Club | 140282 | [140282-derby-owners-club.json](./140282-derby-owners-club.json) |
 | Derby Owners Club 2 | 68102 | [68102-derby-owners-club-2.json](./68102-derby-owners-club-2.json) |
@@ -8228,6 +8232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Shakespeare: To Date Or Not To Date? - 2 Winter of our Discontent | 253975 | [253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json](./253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json) |
 | Dinosaur Simulator 2019 | 231964 | [231964-dinosaur-simulator-2019.json](./231964-dinosaur-simulator-2019.json) |
 | Dinosaur Stacker | 108250 | [108250-dinosaur-stacker.json](./108250-dinosaur-stacker.json) |
+| Dinosaur War | 298513 | [298513-dinosaur-war.json](./298513-dinosaur-war.json) |
 | Dinosaur World | 140470 | [140470-dinosaur-world.json](./140470-dinosaur-world.json) |
 | Dinosaur World | 276205 | [276205-dinosaur-world.json](./276205-dinosaur-world.json) |
 | Dinosaur Zookeeper | 318233 | [318233-dinosaur-zookeeper.json](./318233-dinosaur-zookeeper.json) |
@@ -8325,6 +8330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirge of Cerberus: Final Fantasy VII | 18068 | [18068-dirge-of-cerberus-final-fantasy-vii.json](./18068-dirge-of-cerberus-final-fantasy-vii.json) |
 | Dirge of the Scarlet Star | 387028 | [387028-dirge-of-the-scarlet-star.json](./387028-dirge-of-the-scarlet-star.json) |
 | Dirk Vander Wilt's Kasia | 159141 | [159141-dirk-vander-wilts-kasia.json](./159141-dirk-vander-wilts-kasia.json) |
+| Dirok | 297424 | [297424-dirok.json](./297424-dirok.json) |
 | Dirt 3 | 524 | [524-dirt-3.json](./524-dirt-3.json) |
 | Dirt 3: Colin McRae Vision Charity Pack | 234913 | [234913-dirt-3-colin-mcrae-vision-charity-pack.json](./234913-dirt-3-colin-mcrae-vision-charity-pack.json) |
 | Dirt 3: Complete Edition | 47381 | [47381-dirt-3-complete-edition.json](./47381-dirt-3-complete-edition.json) |
@@ -14857,6 +14863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducky Sokoban | 185314 | [185314-ducky-sokoban.json](./185314-ducky-sokoban.json) |
 | Ducky: The Brave | 313577 | [313577-ducky-the-brave.json](./313577-ducky-the-brave.json) |
 | Ducky's Delivery Service | 241902 | [241902-duckys-delivery-service.json](./241902-duckys-delivery-service.json) |
+| Duckz! | 297527 | [297527-duckz.json](./297527-duckz.json) |
 | Duco | 408956 | [408956-duco.json](./408956-duco.json) |
 | Duct Tape Simulator | 215875 | [215875-duct-tape-simulator.json](./215875-duct-tape-simulator.json) |
 | DUD Detective Ulysses Day | 379049 | [379049-dud-detective-ulysses-day.json](./379049-dud-detective-ulysses-day.json) |
@@ -15487,6 +15494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Party | 296233 | [296233-dungeon-party.json](./296233-dungeon-party.json) |
 | Dungeon Peplum | 379880 | [379880-dungeon-peplum.json](./379880-dungeon-peplum.json) |
 | Dungeon Pizza | 365096 | [365096-dungeon-pizza.json](./365096-dungeon-pizza.json) |
+| Dungeon Princess 2 | 299197 | [299197-dungeon-princess-2.json](./299197-dungeon-princess-2.json) |
 | Dungeon Prospector | 50865 | [50865-dungeon-prospector.json](./50865-dungeon-prospector.json) |
 | Dungeon Puzzle Sweeper | 389661 | [389661-dungeon-puzzle-sweeper.json](./389661-dungeon-puzzle-sweeper.json) |
 | Dungeon Puzzle VR: Solve It or Die | 88134 | [88134-dungeon-puzzle-vr-solve-it-or-die.json](./88134-dungeon-puzzle-vr-solve-it-or-die.json) |
