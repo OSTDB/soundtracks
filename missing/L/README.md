@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser 77: Virtual Lab | 280419 | [280419-laser-77-virtual-lab.json](./280419-laser-77-virtual-lab.json) |
 | Laser Arena | 9060 | [9060-laser-arena.json](./9060-laser-arena.json) |
 | Laser Arena Online | 126239 | [126239-laser-arena-online.json](./126239-laser-arena-online.json) |
+| Laser Attack | 310991 | [310991-laser-attack.json](./310991-laser-attack.json) |
 | Laser Attraction | 144762 | [144762-laser-attraction.json](./144762-laser-attraction.json) |
 | Laser Ball | 57556 | [57556-laser-ball.json](./57556-laser-ball.json) |
 | Laser Ball | 95664 | [95664-laser-ball.json](./95664-laser-ball.json) |
@@ -1873,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap: A Dragon's Adventure | 392788 | [392788-leap-a-dragons-adventure.json](./392788-leap-a-dragons-adventure.json) |
 | Leapbound | 413883 | [413883-leapbound.json](./413883-leapbound.json) |
 | Leaper | 376574 | [376574-leaper.json](./376574-leaper.json) |
+| Leapfrog | 310992 | [310992-leapfrog.json](./310992-leapfrog.json) |
 | LeapFrog: Text & Learn | 327425 | [327425-leapfrog-text-and-learn.json](./327425-leapfrog-text-and-learn.json) |
 | LeapII | 103955 | [103955-leapii.json](./103955-leapii.json) |
 | Leaping Legend | 290282 | [290282-leaping-legend.json](./290282-leaping-legend.json) |
@@ -7269,6 +7271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Bites | 75578 | [75578-love-bites.json](./75578-love-bites.json) |
 | Love Breakout | 280176 | [280176-love-breakout.json](./280176-love-breakout.json) |
 | Love Brings You Home | 238907 | [238907-love-brings-you-home.json](./238907-love-brings-you-home.json) |
+| Love Burger | 311033 | [311033-love-burger.json](./311033-love-burger.json) |
 | Love Cat Life | 123349 | [123349-love-cat-life.json](./123349-love-cat-life.json) |
 | Love Challenge | 245717 | [245717-love-challenge.json](./245717-love-challenge.json) |
 | Love Change | 217949 | [217949-love-change.json](./217949-love-change.json) |
@@ -7989,6 +7992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludoku | 35332 | [35332-ludoku.json](./35332-ludoku.json) |
 | Ludomalica | 392278 | [392278-ludomalica.json](./392278-ludomalica.json) |
 | LudoNarraCon Supporter Pack featuring Cyrano | 146052 | [146052-ludonarracon-supporter-pack-featuring-cyrano.json](./146052-ludonarracon-supporter-pack-featuring-cyrano.json) |
+| LudoRace | 311016 | [311016-ludorace.json](./311016-ludorace.json) |
 | Ludoria | 33778 | [33778-ludoria.json](./33778-ludoria.json) |
 | Ludu | 26491 | [26491-ludu.json](./26491-ludu.json) |
 | Ludum Creare | 176981 | [176981-ludum-creare.json](./176981-ludum-creare.json) |
@@ -8306,6 +8310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Explorer: A Space Flight Simulator | 70293 | [70293-lunar-explorer-a-space-flight-simulator.json](./70293-lunar-explorer-a-space-flight-simulator.json) |
 | Lunar Flight | 10524 | [10524-lunar-flight.json](./10524-lunar-flight.json) |
 | Lunar Glow Stellar Dance | 278331 | [278331-lunar-glow-stellar-dance.json](./278331-lunar-glow-stellar-dance.json) |
+| Lunar Greenhouse | 311003 | [311003-lunar-greenhouse.json](./311003-lunar-greenhouse.json) |
 | Lunar Impact | 340506 | [340506-lunar-impact.json](./340506-lunar-impact.json) |
 | Lunar Jetman | 7852 | [7852-lunar-jetman.json](./7852-lunar-jetman.json) |
 | Lunar Knights | 9887 | [9887-lunar-knights.json](./9887-lunar-knights.json) |
