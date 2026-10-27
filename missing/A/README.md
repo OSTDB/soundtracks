@@ -14084,6 +14084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomega | 64204 | [64204-atomega.json](./64204-atomega.json) |
 | Atomfall | 305159 | [305159-atomfall.json](./305159-atomfall.json) |
 | Atomfall: Complete Edition | 393802 | [393802-atomfall-complete-edition.json](./393802-atomfall-complete-edition.json) |
+| Atomfall: Deluxe Edition | 327146 | [327146-atomfall-deluxe-edition.json](./327146-atomfall-deluxe-edition.json) |
 | Atomfall: The Red Strain | 364002 | [364002-atomfall-the-red-strain.json](./364002-atomfall-the-red-strain.json) |
 | Atomfall: Wicked Isle | 344476 | [344476-atomfall-wicked-isle.json](./344476-atomfall-wicked-isle.json) |
 | AtomHex | 67943 | [67943-atomhex.json](./67943-atomhex.json) |
