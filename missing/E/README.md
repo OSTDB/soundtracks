@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Aincrad: Ultimate Edition | 393968 | [393968-echoes-of-aincrad-ultimate-edition.json](./393968-echoes-of-aincrad-ultimate-edition.json) |
 | Echoes of Baikal | 387622 | [387622-echoes-of-baikal.json](./387622-echoes-of-baikal.json) |
 | Echoes Of Despair | 290494 | [290494-echoes-of-despair.json](./290494-echoes-of-despair.json) |
+| Echoes of Dread | 309940 | [309940-echoes-of-dread.json](./309940-echoes-of-dread.json) |
 | Echoes of Eclipse | 389399 | [389399-echoes-of-eclipse.json](./389399-echoes-of-eclipse.json) |
 | Echoes of Egypt | 301997 | [301997-echoes-of-egypt.json](./301997-echoes-of-egypt.json) |
 | Echoes of Eldoria | 333541 | [333541-echoes-of-eldoria.json](./333541-echoes-of-eldoria.json) |
