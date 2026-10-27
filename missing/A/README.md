@@ -1126,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tough Sell | 58083 | [58083-a-tough-sell.json](./58083-a-tough-sell.json) |
 | A Tower | 338718 | [338718-a-tower.json](./338718-a-tower.json) |
 | A Tower Full of Cats | 234411 | [234411-a-tower-full-of-cats.json](./234411-a-tower-full-of-cats.json) |
+| A Tower's Will | 324249 | [324249-a-towers-will.json](./324249-a-towers-will.json) |
 | A Town Called Happenstance | 211084 | [211084-a-town-called-happenstance.json](./211084-a-town-called-happenstance.json) |
 | A tractor | 105073 | [105073-a-tractor.json](./105073-a-tractor.json) |
 | A Trail of Ooze: Chapter 1 | 174094 | [174094-a-trail-of-ooze-chapter-1.json](./174094-a-trail-of-ooze-chapter-1.json) |
@@ -3682,6 +3683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlight: The Apartment | 414805 | [414805-afterlight-the-apartment.json](./414805-afterlight-the-apartment.json) |
 | Afterloop | 110262 | [110262-afterloop.json](./110262-afterloop.json) |
 | AfterLoop | 105427 | [105427-afterloop.json](./105427-afterloop.json) |
+| AfterM.A.T.H. | 324276 | [324276-afterm-a-t-h.json](./324276-afterm-a-t-h.json) |
 | Aftermath | 183600 | [183600-aftermath.json](./183600-aftermath.json) |
 | Aftermath | 215776 | [215776-aftermath.json](./215776-aftermath.json) |
 | Aftermath | 35770 | [35770-aftermath.json](./35770-aftermath.json) |
