@@ -4899,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Agent Saga: Rover Rescue | 54434 | [54434-the-agent-saga-rover-rescue.json](./54434-the-agent-saga-rover-rescue.json) |
 | The Agony | 30028 | [30028-the-agony.json](./30028-the-agony.json) |
 | The Ai Games | 286767 | [286767-the-ai-games.json](./286767-the-ai-games.json) |
+| The Air Ruler | 285489 | [285489-the-air-ruler.json](./285489-the-air-ruler.json) |
 | The Airflow Trials | 347363 | [347363-the-airflow-trials.json](./347363-the-airflow-trials.json) |
 | The Airline Project | 52525 | [52525-the-airline-project.json](./52525-the-airline-project.json) |
 | The Airline Project: Next Gen | 199521 | [199521-the-airline-project-next-gen.json](./199521-the-airline-project-next-gen.json) |
@@ -11782,6 +11783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Merchant's Eden | 372657 | [372657-the-merchants-eden.json](./372657-the-merchants-eden.json) |
 | The Mercury Man | 80879 | [80879-the-mercury-man.json](./80879-the-mercury-man.json) |
 | The Meridian Shard | 55963 | [55963-the-meridian-shard.json](./55963-the-meridian-shard.json) |
+| The Meridian Under the Heaven: Valhalla | 285311 | [285311-the-meridian-under-the-heaven-valhalla.json](./285311-the-meridian-under-the-heaven-valhalla.json) |
 | The Mermaid Mask | 279369 | [279369-the-mermaid-mask.json](./279369-the-mermaid-mask.json) |
 | The Merry Fairy | 309530 | [309530-the-merry-fairy.json](./309530-the-merry-fairy.json) |
 | The Mesh | 88259 | [88259-the-mesh.json](./88259-the-mesh.json) |
@@ -12257,6 +12259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Fisherman | 134493 | [134493-the-night-fisherman.json](./134493-the-night-fisherman.json) |
 | The Night Guard | 295385 | [295385-the-night-guard.json](./295385-the-night-guard.json) |
 | The Night Gym | 366333 | [366333-the-night-gym.json](./366333-the-night-gym.json) |
+| The Night Heist | 285610 | [285610-the-night-heist.json](./285610-the-night-heist.json) |
 | The Night is Darkening | 174573 | [174573-the-night-is-darkening.json](./174573-the-night-is-darkening.json) |
 | The Night Is Long | 350010 | [350010-the-night-is-long.json](./350010-the-night-is-long.json) |
 | The Night Jackals Vol. 1 | 289975 | [289975-the-night-jackals-vol-1.json](./289975-the-night-jackals-vol-1.json) |
@@ -16804,6 +16807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theos: Cities of Myth | 403819 | [403819-theos-cities-of-myth.json](./403819-theos-cities-of-myth.json) |
 | TheoTown | 109152 | [109152-theotown.json](./109152-theotown.json) |
 | TheParcelEscape | 394073 | [394073-theparcelescape.json](./394073-theparcelescape.json) |
+| ThePoliticalUnderground | 285488 | [285488-thepoliticalunderground.json](./285488-thepoliticalunderground.json) |
 | Thera 1 | 225796 | [225796-thera-1.json](./225796-thera-1.json) |
 | Thera: Legacy of Great Torment | 356250 | [356250-thera-legacy-of-great-torment.json](./356250-thera-legacy-of-great-torment.json) |
 | Theralite | 329770 | [329770-theralite.json](./329770-theralite.json) |
@@ -20995,6 +20999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet: Urinal Game | 409416 | [409416-toilet-urinal-game.json](./409416-toilet-urinal-game.json) |
 | Toiletworld | 57472 | [57472-toiletworld.json](./57472-toiletworld.json) |
 | Toing's Pops | 259444 | [259444-toings-pops.json](./259444-toings-pops.json) |
+| Toing's Pops 2 | 285434 | [285434-toings-pops-2.json](./285434-toings-pops-2.json) |
 | Toite Susunde! Nazo Toki Castle | 222454 | [222454-toite-susunde-nazo-toki-castle.json](./222454-toite-susunde-nazo-toki-castle.json) |
 | ToiTony | 272277 | [272277-toitony.json](./272277-toitony.json) |
 | Tojibo | 373101 | [373101-tojibo.json](./373101-tojibo.json) |
