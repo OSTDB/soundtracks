@@ -1363,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night Drift | 285890 | [285890-late-night-drift.json](./285890-late-night-drift.json) |
 | Late Night Fears | 405939 | [405939-late-night-fears.json](./405939-late-night-fears.json) |
 | Late Night Gas Station | 205989 | [205989-late-night-gas-station.json](./205989-late-night-gas-station.json) |
+| Late Night Hunger | 304092 | [304092-late-night-hunger.json](./304092-late-night-hunger.json) |
 | Late Night Manifest | 408583 | [408583-late-night-manifest.json](./408583-late-night-manifest.json) |
 | Late Night Mop | 218953 | [218953-late-night-mop.json](./218953-late-night-mop.json) |
 | Late Night Mop: Minimum Wage | 376605 | [376605-late-night-mop-minimum-wage.json](./376605-late-night-mop-minimum-wage.json) |
@@ -6224,6 +6225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look Outside: Final Vision | 384618 | [384618-look-outside-final-vision.json](./384618-look-outside-final-vision.json) |
 | Look to the Birds | 414434 | [414434-look-to-the-birds.json](./414434-look-to-the-birds.json) |
 | Look Twice | 417974 | [417974-look-twice.json](./417974-look-twice.json) |
+| Look_in_Dark | 304061 | [304061-look-in-dark.json](./304061-look-in-dark.json) |
 | Looking | 178031 | [178031-looking.json](./178031-looking.json) |
 | Looking for Aliens: Collector's Edition | 247510 | [247510-looking-for-aliens-collectors-edition.json](./247510-looking-for-aliens-collectors-edition.json) |
 | Looking For Cats In a Badly Drawn City | 286758 | [286758-looking-for-cats-in-a-badly-drawn-city.json](./286758-looking-for-cats-in-a-badly-drawn-city.json) |
