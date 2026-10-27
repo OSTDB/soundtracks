@@ -1100,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candles of the Damned | 271491 | [271491-candles-of-the-damned.json](./271491-candles-of-the-damned.json) |
 | Candoo Ninja | 97808 | [97808-candoo-ninja.json](./97808-candoo-ninja.json) |
 | Candy | 104011 | [104011-candy.json](./104011-candy.json) |
+| Candy & Toys Store Simulator | 306391 | [306391-candy-and-toys-store-simulator.json](./306391-candy-and-toys-store-simulator.json) |
 | Candy 2048 Challenge | 147132 | [147132-candy-2048-challenge.json](./147132-candy-2048-challenge.json) |
 | Candy Adventure | 233915 | [233915-candy-adventure.json](./233915-candy-adventure.json) |
 | Candy Adventure HD | 232046 | [232046-candy-adventure-hd.json](./232046-candy-adventure-hd.json) |
@@ -1334,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canyon Rush | 291619 | [291619-canyon-rush.json](./291619-canyon-rush.json) |
 | Canyon Shooter | 158099 | [158099-canyon-shooter.json](./158099-canyon-shooter.json) |
 | Canyon Watch | 266264 | [266264-canyon-watch.json](./266264-canyon-watch.json) |
+| Canyons | 306413 | [306413-canyons.json](./306413-canyons.json) |
 | CanYouSurvive? | 104159 | [104159-canyousurvive.json](./104159-canyousurvive.json) |
 | CanYouTilt | 41488 | [41488-canyoutilt.json](./41488-canyoutilt.json) |
 | Caona | 247380 | [247380-caona.json](./247380-caona.json) |
@@ -2628,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cascade | 60904 | [60904-cascade.json](./60904-cascade.json) |
 | Cascade Falls | 374944 | [374944-cascade-falls.json](./374944-cascade-falls.json) |
 | Cascade Theater | 303269 | [303269-cascade-theater.json](./303269-cascade-theater.json) |
+| Cascadence | 306313 | [306313-cascadence.json](./306313-cascadence.json) |
 | Cascadia | 311522 | [311522-cascadia.json](./311522-cascadia.json) |
 | Cascadia Quest | 154564 | [154564-cascadia-quest.json](./154564-cascadia-quest.json) |
 | Cascading Failure | 155690 | [155690-cascading-failure.json](./155690-cascading-failure.json) |
@@ -2661,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case Simulator Weapons and Armors | 111619 | [111619-case-simulator-weapons-and-armors.json](./111619-case-simulator-weapons-and-armors.json) |
 | Case Solved: The London Files | 392811 | [392811-case-solved-the-london-files.json](./392811-case-solved-the-london-files.json) |
 | Case White | 177768 | [177768-case-white.json](./177768-case-white.json) |
+| Case Zero | 306321 | [306321-case-zero.json](./306321-case-zero.json) |
 | Casebook Trilogy: Special Edition | 67277 | [67277-casebook-trilogy-special-edition.json](./67277-casebook-trilogy-special-edition.json) |
 | Casebook: Episode 0 - The Missing Urn | 335437 | [335437-casebook-episode-0-the-missing-urn.json](./335437-casebook-episode-0-the-missing-urn.json) |
 | CaseCracker2 | 301425 | [301425-casecracker2.json](./301425-casecracker2.json) |
@@ -10899,6 +10903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CommanderTux | 320161 | [320161-commandertux.json](./320161-commandertux.json) |
 | Commanding Nations | 173035 | [173035-commanding-nations.json](./173035-commanding-nations.json) |
 | Commando | 282623 | [282623-commando.json](./282623-commando.json) |
+| Commando | 306409 | [306409-commando.json](./306409-commando.json) |
 | Commando | 310110 | [310110-commando.json](./310110-commando.json) |
 | Commando 2 | 85900 | [85900-commando-2.json](./85900-commando-2.json) |
 | Commando 3 | 335477 | [335477-commando-3.json](./335477-commando-3.json) |
@@ -11729,6 +11734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contagion | 6404 | [6404-contagion.json](./6404-contagion.json) |
 | Contagion VR: Outbreak | 82047 | [82047-contagion-vr-outbreak.json](./82047-contagion-vr-outbreak.json) |
 | Contain | 226717 | [226717-contain.json](./226717-contain.json) |
+| Contained | 306316 | [306316-contained.json](./306316-contained.json) |
 | Container City | 209952 | [209952-container-city.json](./209952-container-city.json) |
 | Container Hunter Simulator | 407367 | [407367-container-hunter-simulator.json](./407367-container-hunter-simulator.json) |
 | Container Terminal Simulator | 362389 | [362389-container-terminal-simulator.json](./362389-container-terminal-simulator.json) |
