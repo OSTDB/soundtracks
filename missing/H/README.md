@@ -3797,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Lady! Complete Edition | 187447 | [187447-hello-lady-complete-edition.json](./187447-hello-lady-complete-edition.json) |
 | Hello Lady! Superior Dynamis | 28498 | [28498-hello-lady-superior-dynamis.json](./28498-hello-lady-superior-dynamis.json) |
 | Hello Loaf | 367496 | [367496-hello-loaf.json](./367496-hello-loaf.json) |
+| Hello Love: 18 Again | 327712 | [327712-hello-love-18-again.json](./327712-hello-love-18-again.json) |
 | Hello Mr. President | 54900 | [54900-hello-mr-president.json](./54900-hello-mr-president.json) |
 | Hello Neighbor | 18167 | [18167-hello-neighbor.json](./18167-hello-neighbor.json) |
 | Hello Neighbor 2 | 135991 | [135991-hello-neighbor-2.json](./135991-hello-neighbor-2.json) |
@@ -6226,6 +6227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide The Corpse | 306936 | [306936-hide-the-corpse.json](./306936-hide-the-corpse.json) |
 | Hide The Corpse: Gusimir Mansion | 380564 | [380564-hide-the-corpse-gusimir-mansion.json](./380564-hide-the-corpse-gusimir-mansion.json) |
 | Hide Time | 235713 | [235713-hide-time.json](./235713-hide-time.json) |
+| Hide Time | 327767 | [327767-hide-time.json](./327767-hide-time.json) |
 | Hide Time: Chapter 2 | 248911 | [248911-hide-time-chapter-2.json](./248911-hide-time-chapter-2.json) |
 | Hide vs. Seek | 28942 | [28942-hide-vs-seek.json](./28942-hide-vs-seek.json) |
 | Hide vs. Seek! | 378808 | [378808-hide-vs-seek.json](./378808-hide-vs-seek.json) |
