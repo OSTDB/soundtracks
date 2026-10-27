@@ -8927,6 +8927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guinevere | 313874 | [313874-guinevere.json](./313874-guinevere.json) |
 | Guinness World Records 2010: Gamer's Edition | 21746 | [21746-guinness-world-records-2010-gamers-edition.json](./21746-guinness-world-records-2010-gamers-edition.json) |
 | Guinness World Records: The Video Game | 4901 | [4901-guinness-world-records-the-video-game.json](./4901-guinness-world-records-the-video-game.json) |
+| Guisard Revolution: Bokura wa Omoi wo Mi ni Matou | 289361 | [289361-guisard-revolution-bokura-wa-omoi-wo-mi-ni-matou.json](./289361-guisard-revolution-bokura-wa-omoi-wo-mi-ni-matou.json) |
 | Guise of the Wolf | 7669 | [7669-guise-of-the-wolf.json](./7669-guise-of-the-wolf.json) |
 | Guitar Band Battle | 175729 | [175729-guitar-band-battle.json](./175729-guitar-band-battle.json) |
 | Guitar Band: Rock Battle | 299999 | [299999-guitar-band-rock-battle.json](./299999-guitar-band-rock-battle.json) |
