@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yog-Sothoth's Yard | 250278 | [250278-yog-sothoths-yard.json](./250278-yog-sothoths-yard.json) |
 | Yoga Bear | 177895 | [177895-yoga-bear.json](./177895-yoga-bear.json) |
 | Yoga Master | 84958 | [84958-yoga-master.json](./84958-yoga-master.json) |
+| Yoga Master Collection | 310439 | [310439-yoga-master-collection.json](./310439-yoga-master-collection.json) |
 | Yoga Master: Deluxe Edition | 237849 | [237849-yoga-master-deluxe-edition.json](./237849-yoga-master-deluxe-edition.json) |
 | Yoga Master: Dreams Fantasy Bundle | 237911 | [237911-yoga-master-dreams-fantasy-bundle.json](./237911-yoga-master-dreams-fantasy-bundle.json) |
 | Yoga Master: Magic Atmosphere Bundle | 237910 | [237910-yoga-master-magic-atmosphere-bundle.json](./237910-yoga-master-magic-atmosphere-bundle.json) |
@@ -657,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yohane the Parhelion: Additional Character Pack vol.1 "Dia & Hanamaru & Kanan" | 301020 | [301020-yohane-the-parhelion-additional-character-pack-vol-1-dia-and-hanamaru-and-kanan.json](./301020-yohane-the-parhelion-additional-character-pack-vol-1-dia-and-hanamaru-and-kanan.json) |
 | Yohane the Parhelion: Additional Character Pack Vol.2 "Chika & Ruby & You" | 306547 | [306547-yohane-the-parhelion-additional-character-pack-vol-2-chika-and-ruby-and-you.json](./306547-yohane-the-parhelion-additional-character-pack-vol-2-chika-and-ruby-and-you.json) |
 | Yohane the Parhelion: Additional character pack vol.3 "Riko & Mari + Yohane" | 315494 | [315494-yohane-the-parhelion-additional-character-pack-vol-3-riko-and-mari-yohane.json](./315494-yohane-the-parhelion-additional-character-pack-vol-3-riko-and-mari-yohane.json) |
+| Yohane the Parhelion: Change set "Beach! in Numazu!!" | 310471 | [310471-yohane-the-parhelion-change-set-beach-in-numazu.json](./310471-yohane-the-parhelion-change-set-beach-in-numazu.json) |
 | Yohane the Parhelion: Costume "Fluffy Lailaps" | 324495 | [324495-yohane-the-parhelion-costume-fluffy-lailaps.json](./324495-yohane-the-parhelion-costume-fluffy-lailaps.json) |
 | Yohane the Parhelion: Costume "Forever U & I" | 306197 | [306197-yohane-the-parhelion-costume-forever-u-and-i.json](./306197-yohane-the-parhelion-costume-forever-u-and-i.json) |
 | Yohane the Parhelion: Costume "Holy Knight" | 316223 | [316223-yohane-the-parhelion-costume-holy-knight.json](./316223-yohane-the-parhelion-costume-holy-knight.json) |
