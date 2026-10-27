@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-27T07:50:10.038Z",
-  "total_missing": 269027,
+  "generated_at": "2026-10-27T08:04:04.474Z",
+  "total_missing": 269075,
   "games": [
     {
       "igdb_id": 191680,
@@ -17422,6 +17422,11 @@
       "file": "missing/A/60457-a-house-in-california.json"
     },
     {
+      "igdb_id": 314798,
+      "game_name": "A House in the Rift",
+      "file": "missing/A/314798-a-house-in-the-rift.json"
+    },
+    {
       "igdb_id": 397286,
       "game_name": "A House Inside Me",
       "file": "missing/A/397286-a-house-inside-me.json"
@@ -19455,6 +19460,11 @@
       "igdb_id": 304212,
       "game_name": "A Second Mario Bros. X Thing: Analog Funk",
       "file": "missing/A/304212-a-second-mario-bros-x-thing-analog-funk.json"
+    },
+    {
+      "igdb_id": 314792,
+      "game_name": "A Secret Between You and Me",
+      "file": "missing/A/314792-a-secret-between-you-and-me.json"
     },
     {
       "igdb_id": 193269,
@@ -77292,6 +77302,11 @@
       "file": "missing/A/44450-asameshimae-nyanko.json"
     },
     {
+      "igdb_id": 314809,
+      "game_name": "Asami Escape",
+      "file": "missing/A/314809-asami-escape.json"
+    },
+    {
       "igdb_id": 163145,
       "game_name": "Asatsugutori",
       "file": "missing/A/163145-asatsugutori.json"
@@ -96802,11 +96817,6 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
-    },
-    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -97760,6 +97770,11 @@
       "igdb_id": 44109,
       "game_name": "Baki the Grappler: Ultimate Championship",
       "file": "missing/B/44109-baki-the-grappler-ultimate-championship.json"
+    },
+    {
+      "igdb_id": 314823,
+      "game_name": "Baki-baki Memoir",
+      "file": "missing/B/314823-baki-baki-memoir.json"
     },
     {
       "igdb_id": 194155,
@@ -177387,6 +177402,16 @@
       "file": "missing/C/134600-cannon-father.json"
     },
     {
+      "igdb_id": 314839,
+      "game_name": "Cannon Fighter",
+      "file": "missing/C/314839-cannon-fighter.json"
+    },
+    {
+      "igdb_id": 314840,
+      "game_name": "Cannon Fighter",
+      "file": "missing/C/314840-cannon-fighter.json"
+    },
+    {
       "igdb_id": 83602,
       "game_name": "Cannon Fire",
       "file": "missing/C/83602-cannon-fire.json"
@@ -223340,6 +223365,11 @@
       "igdb_id": 10101,
       "game_name": "Colour Bind",
       "file": "missing/C/10101-colour-bind.json"
+    },
+    {
+      "igdb_id": 314841,
+      "game_name": "Colour Chain",
+      "file": "missing/C/314841-colour-chain.json"
     },
     {
       "igdb_id": 94228,
@@ -278855,6 +278885,11 @@
       "igdb_id": 133985,
       "game_name": "Death? Preposterous!",
       "file": "missing/D/133985-death-preposterous.json"
+    },
+    {
+      "igdb_id": 314813,
+      "game_name": "Death's Apprentice",
+      "file": "missing/D/314813-deaths-apprentice.json"
     },
     {
       "igdb_id": 261173,
@@ -389222,6 +389257,11 @@
       "file": "missing/F/155545-fat-fritz-2-0-se.json"
     },
     {
+      "igdb_id": 314818,
+      "game_name": "Fat Frumos",
+      "file": "missing/F/314818-fat-frumos.json"
+    },
+    {
       "igdb_id": 410970,
       "game_name": "Fat Hobo: Hobocop Saves Christmas",
       "file": "missing/F/410970-fat-hobo-hobocop-saves-christmas.json"
@@ -467477,6 +467517,11 @@
       "file": "missing/G/214381-goyangi-jeongwon-merge.json"
     },
     {
+      "igdb_id": 314831,
+      "game_name": "Gozen 4-ji no Manimani: Nisemono World's End",
+      "file": "missing/G/314831-gozen-4-ji-no-manimani-nisemono-worlds-end.json"
+    },
+    {
       "igdb_id": 285423,
       "game_name": "Gozen Yoji no mani-mani",
       "file": "missing/G/285423-gozen-yoji-no-mani-mani.json"
@@ -485767,6 +485812,11 @@
       "file": "missing/H/211725-haitenai-rpg.json"
     },
     {
+      "igdb_id": 314802,
+      "game_name": "Haitoku Shirene: Anata no Shiranai Naraku no Soko",
+      "file": "missing/H/314802-haitoku-shirene-anata-no-shiranai-naraku-no-soko.json"
+    },
+    {
       "igdb_id": 157058,
       "game_name": "Haitoku Silene",
       "file": "missing/H/157058-haitoku-silene.json"
@@ -494930,6 +494980,11 @@
       "igdb_id": 197543,
       "game_name": "Hatsumira: From the Future Undying",
       "file": "missing/H/197543-hatsumira-from-the-future-undying.json"
+    },
+    {
+      "igdb_id": 314834,
+      "game_name": "Hatsumonogatari",
+      "file": "missing/H/314834-hatsumonogatari.json"
     },
     {
       "igdb_id": 228454,
@@ -530177,6 +530232,11 @@
       "file": "missing/H/166538-houma-hunter-lime-special-collection-vol-2.json"
     },
     {
+      "igdb_id": 314848,
+      "game_name": "Houmatsu Tunnel",
+      "file": "missing/H/314848-houmatsu-tunnel.json"
+    },
+    {
       "igdb_id": 30316,
       "game_name": "Hound",
       "file": "missing/H/30316-hound.json"
@@ -540935,6 +540995,11 @@
       "igdb_id": 319728,
       "game_name": "I Want to Believe",
       "file": "missing/I/319728-i-want-to-believe.json"
+    },
+    {
+      "igdb_id": 314815,
+      "game_name": "I Want To Cheat",
+      "file": "missing/I/314815-i-want-to-cheat.json"
     },
     {
       "igdb_id": 401181,
@@ -570002,6 +570067,11 @@
       "file": "missing/J/67972-jammer.json"
     },
     {
+      "igdb_id": 314807,
+      "game_name": "Jammer Dash",
+      "file": "missing/J/314807-jammer-dash.json"
+    },
+    {
       "igdb_id": 177450,
       "game_name": "Jammery",
       "file": "missing/J/177450-jammery.json"
@@ -597707,11 +597777,6 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
-    },
-    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -597790,6 +597855,11 @@
       "igdb_id": 311494,
       "game_name": "Kimi sae Ireba: Episode Sutelz",
       "file": "missing/K/311494-kimi-sae-ireba-episode-sutelz.json"
+    },
+    {
+      "igdb_id": 314817,
+      "game_name": "Kimi to Boku to Hitorigoto",
+      "file": "missing/K/314817-kimi-to-boku-to-hitorigoto.json"
     },
     {
       "igdb_id": 194583,
@@ -610837,6 +610907,11 @@
       "file": "missing/K/328312-kubitori-dolls-retriever-shimazu-kaidan-01.json"
     },
     {
+      "igdb_id": 314803,
+      "game_name": "Kubitori Sarasa",
+      "file": "missing/K/314803-kubitori-sarasa.json"
+    },
+    {
       "igdb_id": 296690,
       "game_name": "Kubits Gallery",
       "file": "missing/K/296690-kubits-gallery.json"
@@ -613845,6 +613920,11 @@
       "igdb_id": 199511,
       "game_name": "Lab",
       "file": "missing/L/199511-lab.json"
+    },
+    {
+      "igdb_id": 314797,
+      "game_name": "Lab",
+      "file": "missing/L/314797-lab.json"
     },
     {
       "igdb_id": 75433,
@@ -647957,6 +648037,11 @@
       "file": "missing/L/402842-lost-paradise.json"
     },
     {
+      "igdb_id": 314837,
+      "game_name": "Lost Paradise of Karuta",
+      "file": "missing/L/314837-lost-paradise-of-karuta.json"
+    },
+    {
       "igdb_id": 165536,
       "game_name": "Lost Passage: Ushinawareta Hitofushi",
       "file": "missing/L/165536-lost-passage-ushinawareta-hitofushi.json"
@@ -679307,6 +679392,11 @@
       "file": "missing/M/224012-match-puzzle-house.json"
     },
     {
+      "igdb_id": 314842,
+      "game_name": "Match Quest",
+      "file": "missing/M/314842-match-quest.json"
+    },
+    {
       "igdb_id": 345676,
       "game_name": "Match Quest: Numbers",
       "file": "missing/M/345676-match-quest-numbers.json"
@@ -680645,6 +680735,11 @@
       "igdb_id": 38211,
       "game_name": "Matsumura Kunihiro-den: Saikyou no Rekishi wo Nurikaero!",
       "file": "missing/M/38211-matsumura-kunihiro-den-saikyou-no-rekishi-wo-nurikaero.json"
+    },
+    {
+      "igdb_id": 314799,
+      "game_name": "Matsuri Messiah",
+      "file": "missing/M/314799-matsuri-messiah.json"
     },
     {
       "igdb_id": 202314,
@@ -691865,6 +691960,11 @@
       "igdb_id": 298549,
       "game_name": "Megdan",
       "file": "missing/M/298549-megdan.json"
+    },
+    {
+      "igdb_id": 314833,
+      "game_name": "Megi Amantes",
+      "file": "missing/M/314833-megi-amantes.json"
     },
     {
       "igdb_id": 108777,
@@ -705087,6 +705187,11 @@
       "file": "missing/M/212669-miho-adventures.json"
     },
     {
+      "igdb_id": 314796,
+      "game_name": "Mihomi Dream",
+      "file": "missing/M/314796-mihomi-dream.json"
+    },
+    {
       "igdb_id": 247447,
       "game_name": "Míhún Chē",
       "file": "missing/M/247447-mihun-che.json"
@@ -705437,6 +705542,11 @@
       "file": "missing/M/191200-mikoshi.json"
     },
     {
+      "igdb_id": 314832,
+      "game_name": "Mikoto Memory",
+      "file": "missing/M/314832-mikoto-memory.json"
+    },
+    {
       "igdb_id": 288148,
       "game_name": "MikoVerse",
       "file": "missing/M/288148-mikoverse.json"
@@ -705490,6 +705600,11 @@
       "igdb_id": 299482,
       "game_name": "Mikuni Field Combat",
       "file": "missing/M/299482-mikuni-field-combat.json"
+    },
+    {
+      "igdb_id": 314810,
+      "game_name": "Mikuri Sacrament",
+      "file": "missing/M/314810-mikuri-sacrament.json"
     },
     {
       "igdb_id": 390496,
@@ -718985,6 +719100,11 @@
       "igdb_id": 268440,
       "game_name": "Mójiè Qíbīng",
       "file": "missing/M/268440-mojie-qibing.json"
+    },
+    {
+      "igdb_id": 314804,
+      "game_name": "Mojika: Truth Rears Its Ugly Head",
+      "file": "missing/M/314804-mojika-truth-rears-its-ugly-head.json"
     },
     {
       "igdb_id": 197576,
@@ -751817,6 +751937,11 @@
       "file": "missing/N/239797-nandemoya-of-flower-street.json"
     },
     {
+      "igdb_id": 314811,
+      "game_name": "NandGame",
+      "file": "missing/N/314811-nandgame.json"
+    },
+    {
       "igdb_id": 354767,
       "game_name": "Nandome ka no Hajimemashite",
       "file": "missing/N/354767-nandome-ka-no-hajimemashite.json"
@@ -759595,6 +759720,11 @@
       "igdb_id": 394761,
       "game_name": "NeNeKoNeKo",
       "file": "missing/N/394761-nenekoneko.json"
+    },
+    {
+      "igdb_id": 314800,
+      "game_name": "Nenene Noble",
+      "file": "missing/N/314800-nenene-noble.json"
     },
     {
       "igdb_id": 217360,
@@ -805187,6 +805317,11 @@
       "file": "missing/O/331413-outbreak-strange-shades-collection.json"
     },
     {
+      "igdb_id": 314806,
+      "game_name": "Outbreak: Survival Kit Collection",
+      "file": "missing/O/314806-outbreak-survival-kit-collection.json"
+    },
+    {
       "igdb_id": 331416,
       "game_name": "Outbreak: Take a Bite Collection",
       "file": "missing/O/331416-outbreak-take-a-bite-collection.json"
@@ -807525,6 +807660,11 @@
       "igdb_id": 376024,
       "game_name": "Overnight Interview",
       "file": "missing/O/376024-overnight-interview.json"
+    },
+    {
+      "igdb_id": 314819,
+      "game_name": "Overnight Tea",
+      "file": "missing/O/314819-overnight-tea.json"
     },
     {
       "igdb_id": 311589,
@@ -836057,6 +836197,11 @@
       "file": "missing/P/312294-pikmin-2-new-year.json"
     },
     {
+      "igdb_id": 314791,
+      "game_name": "Pikmin 2: Snowy Tutorial",
+      "file": "missing/P/314791-pikmin-2-snowy-tutorial.json"
+    },
+    {
       "igdb_id": 375785,
       "game_name": "Pikmin 2: Yellow Edition",
       "file": "missing/P/375785-pikmin-2-yellow-edition.json"
@@ -836375,6 +836520,11 @@
       "igdb_id": 342714,
       "game_name": "Pikmin Treasure Hunt",
       "file": "missing/P/342714-pikmin-treasure-hunt.json"
+    },
+    {
+      "igdb_id": 314794,
+      "game_name": "Pikmin Wars",
+      "file": "missing/P/314794-pikmin-wars.json"
     },
     {
       "igdb_id": 314135,
@@ -848457,6 +848607,11 @@
       "file": "missing/P/405518-plant-game.json"
     },
     {
+      "igdb_id": 314836,
+      "game_name": "Plant Mall",
+      "file": "missing/P/314836-plant-mall.json"
+    },
+    {
       "igdb_id": 332575,
       "game_name": "Plant Nursery Simulator",
       "file": "missing/P/332575-plant-nursery-simulator.json"
@@ -856070,6 +856225,11 @@
       "igdb_id": 213234,
       "game_name": "Pokémon Kanto Black",
       "file": "missing/P/213234-pokemon-kanto-black.json"
+    },
+    {
+      "igdb_id": 314829,
+      "game_name": "Pokémon Kanto Origins",
+      "file": "missing/P/314829-pokemon-kanto-origins.json"
     },
     {
       "igdb_id": 250926,
@@ -876937,6 +877097,11 @@
       "file": "missing/P/370008-project-shadowglass.json"
     },
     {
+      "igdb_id": 314843,
+      "game_name": "Project Shaman",
+      "file": "missing/P/314843-project-shaman.json"
+    },
+    {
       "igdb_id": 188466,
       "game_name": "Project Shanto Rancher",
       "file": "missing/P/188466-project-shanto-rancher.json"
@@ -882025,6 +882190,11 @@
       "igdb_id": 341436,
       "game_name": "Pumpkin Clicker",
       "file": "missing/P/341436-pumpkin-clicker.json"
+    },
+    {
+      "igdb_id": 314814,
+      "game_name": "Pumpkin Dash",
+      "file": "missing/P/314814-pumpkin-dash.json"
     },
     {
       "igdb_id": 115514,
@@ -951232,6 +951402,11 @@
       "file": "missing/S/112222-sacrifice-girl-the-curse-of-demon-snake.json"
     },
     {
+      "igdb_id": 314808,
+      "game_name": "Sacrifice Villains",
+      "file": "missing/S/314808-sacrifice-villains.json"
+    },
+    {
       "igdb_id": 121552,
       "game_name": "Sacrifice Your Friends",
       "file": "missing/S/121552-sacrifice-your-friends.json"
@@ -952265,6 +952440,21 @@
       "igdb_id": 230320,
       "game_name": "Saikoro Saiko Sebunsu Hebun",
       "file": "missing/S/230320-saikoro-saiko-sebunsu-hebun.json"
+    },
+    {
+      "igdb_id": 314824,
+      "game_name": "Saikoro Saiko: Memento Mori",
+      "file": "missing/S/314824-saikoro-saiko-memento-mori.json"
+    },
+    {
+      "igdb_id": 314826,
+      "game_name": "Saikoro Saiko: Miss Fortune",
+      "file": "missing/S/314826-saikoro-saiko-miss-fortune.json"
+    },
+    {
+      "igdb_id": 314825,
+      "game_name": "Saikoro Saiko: Promises",
+      "file": "missing/S/314825-saikoro-saiko-promises.json"
     },
     {
       "igdb_id": 222373,
@@ -1052287,6 +1052477,11 @@
       "file": "missing/S/311160-star-shogun.json"
     },
     {
+      "igdb_id": 314812,
+      "game_name": "Star Shoot VS",
+      "file": "missing/S/314812-star-shoot-vs.json"
+    },
+    {
       "igdb_id": 81697,
       "game_name": "Star Shredders",
       "file": "missing/S/81697-star-shredders.json"
@@ -1061877,6 +1062072,11 @@
       "file": "missing/S/232818-stelloop.json"
     },
     {
+      "igdb_id": 314847,
+      "game_name": "StellwerkSim",
+      "file": "missing/S/314847-stellwerksim.json"
+    },
+    {
       "igdb_id": 24944,
       "game_name": "Stem",
       "file": "missing/S/24944-stem.json"
@@ -1069805,6 +1070005,11 @@
       "igdb_id": 93456,
       "game_name": "Strifeshadow",
       "file": "missing/S/93456-strifeshadow.json"
+    },
+    {
+      "igdb_id": 314801,
+      "game_name": "Strigoi",
+      "file": "missing/S/314801-strigoi.json"
     },
     {
       "igdb_id": 378218,
@@ -1164047,6 +1164252,11 @@
       "file": "missing/T/267073-the-nights-on-arcade.json"
     },
     {
+      "igdb_id": 314820,
+      "game_name": "The Nightscarred: Forgotten Gods",
+      "file": "missing/T/314820-the-nightscarred-forgotten-gods.json"
+    },
+    {
       "igdb_id": 16076,
       "game_name": "The Nightshift Code",
       "file": "missing/T/16076-the-nightshift-code.json"
@@ -1220812,6 +1221022,11 @@
       "file": "missing/T/148236-traction-control.json"
     },
     {
+      "igdb_id": 314816,
+      "game_name": "Tractor Beams",
+      "file": "missing/T/314816-tractor-beams.json"
+    },
+    {
       "igdb_id": 393955,
       "game_name": "Tractor Cargo Driving Simulator",
       "file": "missing/T/393955-tractor-cargo-driving-simulator.json"
@@ -1238990,6 +1239205,11 @@
       "igdb_id": 395358,
       "game_name": "Tsuka Shikiru ha Yarazu no Ame",
       "file": "missing/T/395358-tsuka-shikiru-ha-yarazu-no-ame.json"
+    },
+    {
+      "igdb_id": 314828,
+      "game_name": "Tsukame, Jinsei no Migiuchi! GoGo Zenkaiten Arashi wo Yobu! Honoo no Pachinkas Road",
+      "file": "missing/T/314828-tsukame-jinsei-no-migiuchi-gogo-zenkaiten-arashi-wo-yobu-honoo-no-pachinkas-road.json"
     },
     {
       "igdb_id": 77851,
@@ -1290927,6 +1291147,11 @@
       "file": "missing/W/245723-way-of-the-bullet.json"
     },
     {
+      "igdb_id": 314830,
+      "game_name": "Way of the Chook",
+      "file": "missing/W/314830-way-of-the-chook.json"
+    },
+    {
       "igdb_id": 25550,
       "game_name": "Way of the Cossack",
       "file": "missing/W/25550-way-of-the-cossack.json"
@@ -1325677,6 +1325902,11 @@
       "file": "missing/Y/333080-yanchat.json"
     },
     {
+      "igdb_id": 314821,
+      "game_name": "Yanderain",
+      "file": "missing/Y/314821-yanderain.json"
+    },
+    {
       "igdb_id": 256214,
       "game_name": "Yandere AI Girlfriend Simulator: With You Til The End",
       "file": "missing/Y/256214-yandere-ai-girlfriend-simulator-with-you-til-the-end.json"
@@ -1325840,6 +1326070,11 @@
       "igdb_id": 125858,
       "game_name": "Yanderella",
       "file": "missing/Y/125858-yanderella.json"
+    },
+    {
+      "igdb_id": 314805,
+      "game_name": "Yanderella Death Harem",
+      "file": "missing/Y/314805-yanderella-death-harem.json"
     },
     {
       "igdb_id": 127468,
@@ -1328430,6 +1328665,11 @@
       "igdb_id": 55857,
       "game_name": "Yon-nin Mahjong",
       "file": "missing/Y/55857-yon-nin-mahjong.json"
+    },
+    {
+      "igdb_id": 314822,
+      "game_name": "Yona Yona",
+      "file": "missing/Y/314822-yona-yona.json"
     },
     {
       "igdb_id": 380777,
