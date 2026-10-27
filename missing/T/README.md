@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails Doll | 279577 | [279577-tails-doll.json](./279577-tails-doll.json) |
 | Tails Football | 362899 | [362899-tails-football.json](./362899-tails-football.json) |
 | Tails From Alteria | 190039 | [190039-tails-from-alteria.json](./190039-tails-from-alteria.json) |
+| Tails Gets Trolled | 299115 | [299115-tails-gets-trolled.json](./299115-tails-gets-trolled.json) |
 | Tails in Sonic the Hedgehog | 198529 | [198529-tails-in-sonic-the-hedgehog.json](./198529-tails-in-sonic-the-hedgehog.json) |
 | Tails no Flying Get | 261253 | [261253-tails-no-flying-get.json](./261253-tails-no-flying-get.json) |
 | Tails Noir | 97257 | [97257-tails-noir.json](./97257-tails-noir.json) |
@@ -2427,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Life: A City Driving Simulator | 215898 | [215898-taxi-life-a-city-driving-simulator.json](./215898-taxi-life-a-city-driving-simulator.json) |
 | Taxi Life: A City Driving Simulator - Supporter Edition | 290110 | [290110-taxi-life-a-city-driving-simulator-supporter-edition.json](./290110-taxi-life-a-city-driving-simulator-supporter-edition.json) |
 | Taxi Life: Supporter Pack | 293400 | [293400-taxi-life-supporter-pack.json](./293400-taxi-life-supporter-pack.json) |
+| Taxi Life: VIP Vintage Convertible Car | 298084 | [298084-taxi-life-vip-vintage-convertible-car.json](./298084-taxi-life-vip-vintage-convertible-car.json) |
 | Taxi Mayhem: London | 359378 | [359378-taxi-mayhem-london.json](./359378-taxi-mayhem-london.json) |
 | Taxi of Miracles | 229932 | [229932-taxi-of-miracles.json](./229932-taxi-of-miracles.json) |
 | Taxi of Miracles: Collector's Edition | 229933 | [229933-taxi-of-miracles-collectors-edition.json](./229933-taxi-of-miracles-collectors-edition.json) |
@@ -2539,6 +2541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teach My Little Sister How to Drive | 373092 | [373092-teach-my-little-sister-how-to-drive.json](./373092-teach-my-little-sister-how-to-drive.json) |
 | Teacher Lady | 286441 | [286441-teacher-lady.json](./286441-teacher-lady.json) |
 | Teacher Seduction | 276160 | [276160-teacher-seduction.json](./276160-teacher-seduction.json) |
+| Teachers Secrets | 298069 | [298069-teachers-secrets.json](./298069-teachers-secrets.json) |
 | Teachers. With Love and Passion | 250441 | [250441-teachers-with-love-and-passion.json](./250441-teachers-with-love-and-passion.json) |
 | Teachers. With Love and Passion. | 390717 | [390717-teachers-with-love-and-passion.json](./390717-teachers-with-love-and-passion.json) |
 | TeaChess | 188036 | [188036-teachess.json](./188036-teachess.json) |
@@ -4002,6 +4005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Squid | 122182 | [122182-terror-squid.json](./122182-terror-squid.json) |
 | Terror Strike | 73615 | [73615-terror-strike.json](./73615-terror-strike.json) |
 | Terror Time | 220792 | [220792-terror-time.json](./220792-terror-time.json) |
+| Terror Trivia | 298522 | [298522-terror-trivia.json](./298522-terror-trivia.json) |
 | Terror Type: A.L.C.H.E.M.Y. | 338318 | [338318-terror-type-a-l-c-h-e-m-y.json](./338318-terror-type-a-l-c-h-e-m-y.json) |
 | Terror World | 101265 | [101265-terror-world.json](./101265-terror-world.json) |
 | Terror-Daktil 4D | 147211 | [147211-terror-daktil-4d.json](./147211-terror-daktil-4d.json) |
@@ -5207,6 +5211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aztec Ruins | 308328 | [308328-the-aztec-ruins.json](./308328-the-aztec-ruins.json) |
 | The Azure One | 402373 | [402373-the-azure-one.json](./402373-the-azure-one.json) |
 | The B.L.O.O.M Initiative | 368371 | [368371-the-b-l-o-o-m-initiative.json](./368371-the-b-l-o-o-m-initiative.json) |
+| The Baba Yaga | 297991 | [297991-the-baba-yaga.json](./297991-the-baba-yaga.json) |
 | The Baby is Here | 371856 | [371856-the-baby-is-here.json](./371856-the-baby-is-here.json) |
 | The Baby of Can Guru | 73697 | [73697-the-baby-of-can-guru.json](./73697-the-baby-of-can-guru.json) |
 | The Babysitter | 166037 | [166037-the-babysitter.json](./166037-the-babysitter.json) |
@@ -8292,6 +8297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgoatten Isles | 177749 | [177749-the-forgoatten-isles.json](./177749-the-forgoatten-isles.json) |
 | The Forgotten Apartment | 344832 | [344832-the-forgotten-apartment.json](./344832-the-forgotten-apartment.json) |
 | The Forgotten Boundary | 201485 | [201485-the-forgotten-boundary.json](./201485-the-forgotten-boundary.json) |
+| The Forgotten City | 297448 | [297448-the-forgotten-city.json](./297448-the-forgotten-city.json) |
 | The Forgotten City: Cloud Version | 173145 | [173145-the-forgotten-city-cloud-version.json](./173145-the-forgotten-city-cloud-version.json) |
 | The Forgotten City: Digital Collector's Edition | 167179 | [167179-the-forgotten-city-digital-collectors-edition.json](./167179-the-forgotten-city-digital-collectors-edition.json) |
 | The Forgotten Deity | 330664 | [330664-the-forgotten-deity.json](./330664-the-forgotten-deity.json) |
@@ -8550,6 +8556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost Ship | 111662 | [111662-the-ghost-ship.json](./111662-the-ghost-ship.json) |
 | The Ghost That Lives Inside My Piano | 326123 | [326123-the-ghost-that-lives-inside-my-piano.json](./326123-the-ghost-that-lives-inside-my-piano.json) |
 | The Ghost Town Adventure | 108284 | [108284-the-ghost-town-adventure.json](./108284-the-ghost-town-adventure.json) |
+| The Ghost Town Treasure | 298520 | [298520-the-ghost-town-treasure.json](./298520-the-ghost-town-treasure.json) |
 | The Ghost Train | 135839 | [135839-the-ghost-train.json](./135839-the-ghost-train.json) |
 | The Ghost Treasure | 327795 | [327795-the-ghost-treasure.json](./327795-the-ghost-treasure.json) |
 | The Ghost X: Sniper Simulator | 272445 | [272445-the-ghost-x-sniper-simulator.json](./272445-the-ghost-x-sniper-simulator.json) |
@@ -11691,6 +11698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maze of the Kings | 39793 | [39793-the-maze-of-the-kings.json](./39793-the-maze-of-the-kings.json) |
 | The Maze of Zabendo | 293010 | [293010-the-maze-of-zabendo.json](./293010-the-maze-of-zabendo.json) |
 | The Maze Runner | 138159 | [138159-the-maze-runner.json](./138159-the-maze-runner.json) |
+| The Maze Survivor: The 9th Entrants | 298615 | [298615-the-maze-survivor-the-9th-entrants.json](./298615-the-maze-survivor-the-9th-entrants.json) |
 | The Maze VR | 130289 | [130289-the-maze-vr.json](./130289-the-maze-vr.json) |
 | The Maze Wars | 365285 | [365285-the-maze-wars.json](./365285-the-maze-wars.json) |
 | The Maze X: The First Chapter | 342539 | [342539-the-maze-x-the-first-chapter.json](./342539-the-maze-x-the-first-chapter.json) |
@@ -11784,6 +11792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Miki Komori Project | 403952 | [403952-the-miki-komori-project.json](./403952-the-miki-komori-project.json) |
 | The Mildew Children | 253605 | [253605-the-mildew-children.json](./253605-the-mildew-children.json) |
 | The Militant Mouse | 230886 | [230886-the-militant-mouse.json](./230886-the-militant-mouse.json) |
+| The Milk is Sour | 297426 | [297426-the-milk-is-sour.json](./297426-the-milk-is-sour.json) |
 | The Milk Lake | 211775 | [211775-the-milk-lake.json](./211775-the-milk-lake.json) |
 | The Milk Quest | 300756 | [300756-the-milk-quest.json](./300756-the-milk-quest.json) |
 | The Mill: Nine Men's Morris | 351062 | [351062-the-mill-nine-mens-morris.json](./351062-the-mill-nine-mens-morris.json) |
@@ -12381,6 +12390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Omega Stone: Riddle of the Sphinx II | 71524 | [71524-the-omega-stone-riddle-of-the-sphinx-ii.json](./71524-the-omega-stone-riddle-of-the-sphinx-ii.json) |
 | The OmniGallery | 158412 | [158412-the-omnigallery.json](./158412-the-omnigallery.json) |
 | The One | 289973 | [289973-the-one.json](./289973-the-one.json) |
+| The One | 297439 | [297439-the-one.json](./297439-the-one.json) |
 | The One Behind You | 408284 | [408284-the-one-behind-you.json](./408284-the-one-behind-you.json) |
 | The One Chapter 1 | 211578 | [211578-the-one-chapter-1.json](./211578-the-one-chapter-1.json) |
 | The One Fish | 410892 | [410892-the-one-fish.json](./410892-the-one-fish.json) |
@@ -15576,6 +15586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tunnel | 362800 | [362800-the-tunnel.json](./362800-the-tunnel.json) |
 | The TunnelMan | 70440 | [70440-the-tunnelman.json](./70440-the-tunnelman.json) |
 | The Tunnels | 326279 | [326279-the-tunnels.json](./326279-the-tunnels.json) |
+| The Tunnels of Saint Mercy Road | 299100 | [299100-the-tunnels-of-saint-mercy-road.json](./299100-the-tunnels-of-saint-mercy-road.json) |
 | The Turdler | 108301 | [108301-the-turdler.json](./108301-the-turdler.json) |
 | The Turgenev Study | 222885 | [222885-the-turgenev-study.json](./222885-the-turgenev-study.json) |
 | The Turing Test: Collector's Edition | 53784 | [53784-the-turing-test-collectors-edition.json](./53784-the-turing-test-collectors-edition.json) |
@@ -15598,6 +15609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Twilight Zone VR | 204339 | [204339-the-twilight-zone-vr.json](./204339-the-twilight-zone-vr.json) |
 | The Twins | 128337 | [128337-the-twins.json](./128337-the-twins.json) |
 | The Twins | 324870 | [324870-the-twins.json](./324870-the-twins.json) |
+| The Twins: Ninja War Legends | 299194 | [299194-the-twins-ninja-war-legends.json](./299194-the-twins-ninja-war-legends.json) |
 | The Twisted Dream | 323354 | [323354-the-twisted-dream.json](./323354-the-twisted-dream.json) |
 | The Twisted Factory | 184802 | [184802-the-twisted-factory.json](./184802-the-twisted-factory.json) |
 | The Twisted Tales of Spike McFang | 16295 | [16295-the-twisted-tales-of-spike-mcfang.json](./16295-the-twisted-tales-of-spike-mcfang.json) |
@@ -16375,6 +16387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wonderful 101: Remastered - The Wonderful One: After School Hero - Part 2 | 251116 | [251116-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-2.json](./251116-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-2.json) |
 | The Wonderful Adventures of Sip | 235803 | [235803-the-wonderful-adventures-of-sip.json](./235803-the-wonderful-adventures-of-sip.json) |
 | The Wonderful End of the World | 14905 | [14905-the-wonderful-end-of-the-world.json](./14905-the-wonderful-end-of-the-world.json) |
+| The Wonderful Life of Koshchei | 298507 | [298507-the-wonderful-life-of-koshchei.json](./298507-the-wonderful-life-of-koshchei.json) |
 | The Wonderful One: After School Hero | 250201 | [250201-the-wonderful-one-after-school-hero.json](./250201-the-wonderful-one-after-school-hero.json) |
 | The Wonderful Wizard of Oz | 54200 | [54200-the-wonderful-wizard-of-oz.json](./54200-the-wonderful-wizard-of-oz.json) |
 | The Wonders of the Animal Kingdom | 14256 | [14256-the-wonders-of-the-animal-kingdom.json](./14256-the-wonders-of-the-animal-kingdom.json) |
@@ -23331,6 +23344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers That Don't Like Each Other | 51997 | [51997-towers-that-dont-like-each-other.json](./51997-towers-that-dont-like-each-other.json) |
 | Towers Watch | 277916 | [277916-towers-watch.json](./277916-towers-watch.json) |
 | Towers, Turrets, Turtles | 236415 | [236415-towers-turrets-turtles.json](./236415-towers-turrets-turtles.json) |
+| Towerscape | 297422 | [297422-towerscape.json](./297422-towerscape.json) |
 | Towertale | 112938 | [112938-towertale.json](./112938-towertale.json) |
 | ToWhere? | 387006 | [387006-towhere.json](./387006-towhere.json) |
 | Towing Race | 239045 | [239045-towing-race.json](./239045-towing-race.json) |
@@ -26070,6 +26084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tri6: Infinite | 132538 | [132538-tri6-infinite.json](./132538-tri6-infinite.json) |
 | Tri6: Infinite 2 | 381199 | [381199-tri6-infinite-2.json](./381199-tri6-infinite-2.json) |
 | Triachnid | 63255 | [63255-triachnid.json](./63255-triachnid.json) |
+| Triad | 297437 | [297437-triad.json](./297437-triad.json) |
 | Triad | 304367 | [304367-triad.json](./304367-triad.json) |
 | Triad | 54692 | [54692-triad.json](./54692-triad.json) |
 | Triad Stone | 63931 | [63931-triad-stone.json](./63931-triad-stone.json) |
@@ -26482,6 +26497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Jump | 183352 | [183352-triple-jump.json](./183352-triple-jump.json) |
 | Triple Jump | 247050 | [247050-triple-jump.json](./247050-triple-jump.json) |
 | Triple Jumping Sports | 85453 | [85453-triple-jumping-sports.json](./85453-triple-jumping-sports.json) |
+| Triple Laser RPG | 297452 | [297452-triple-laser-rpg.json](./297452-triple-laser-rpg.json) |
 | Triple Match 3D | 216132 | [216132-triple-match-3d.json](./216132-triple-match-3d.json) |
 | Triple n Extended m | 182826 | [182826-triple-n-extended-m.json](./182826-triple-n-extended-m.json) |
 | Triple Pack: Trials HD, Limbo, Splosion Man | 141767 | [141767-triple-pack-trials-hd-limbo-splosion-man.json](./141767-triple-pack-trials-hd-limbo-splosion-man.json) |
@@ -27684,6 +27700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Tempest | 153953 | [153953-turbo-tempest.json](./153953-turbo-tempest.json) |
 | Turbo Titans | 391883 | [391883-turbo-titans.json](./391883-turbo-titans.json) |
 | Turbo Toons | 205977 | [205977-turbo-toons.json](./205977-turbo-toons.json) |
+| Turbo Tornado | 297523 | [297523-turbo-tornado.json](./297523-turbo-tornado.json) |
 | Turbo Trainz | 193702 | [193702-turbo-trainz.json](./193702-turbo-trainz.json) |
 | Turbo Trainz | 206637 | [206637-turbo-trainz.json](./206637-turbo-trainz.json) |
 | Turbo Trax | 12802 | [12802-turbo-trax.json](./12802-turbo-trax.json) |
