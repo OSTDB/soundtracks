@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Grim Chase | 407948 | [407948-a-grim-chase.json](./407948-a-grim-chase.json) |
 | A Grim Granny | 407959 | [407959-a-grim-granny.json](./407959-a-grim-granny.json) |
 | A Grim Tale of Vices | 115389 | [115389-a-grim-tale-of-vices.json](./115389-a-grim-tale-of-vices.json) |
+| A Growing Adventure | 305129 | [305129-a-growing-adventure.json](./305129-a-growing-adventure.json) |
 | A Guard Walks Into a Tavern | 148906 | [148906-a-guard-walks-into-a-tavern.json](./148906-a-guard-walks-into-a-tavern.json) |
 | A Guardian's Wish | 225564 | [225564-a-guardians-wish.json](./225564-a-guardians-wish.json) |
 | A Guidebook of Babel | 149085 | [149085-a-guidebook-of-babel.json](./149085-a-guidebook-of-babel.json) |
@@ -2790,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adult Toy Store | 111066 | [111066-adult-toy-store.json](./111066-adult-toy-store.json) |
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
 | Aduro | 301596 | [301596-aduro.json](./301596-aduro.json) |
+| Adv770 | 305203 | [305203-adv770.json](./305203-adv770.json) |
 | Advan Racing | 69754 | [69754-advan-racing.json](./69754-advan-racing.json) |
 | Advance | 185443 | [185443-advance.json](./185443-advance.json) |
 | Advance of the Reich | 59317 | [59317-advance-of-the-reich.json](./59317-advance-of-the-reich.json) |
@@ -2874,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Strategic Command | 63246 | [63246-advanced-strategic-command.json](./63246-advanced-strategic-command.json) |
 | Advanced T-Robots | 322052 | [322052-advanced-t-robots.json](./322052-advanced-t-robots.json) |
 | Advanced Tactical Fighter II | 8899 | [8899-advanced-tactical-fighter-ii.json](./8899-advanced-tactical-fighter-ii.json) |
+| Advanced Thinking Skills | 305166 | [305166-advanced-thinking-skills.json](./305166-advanced-thinking-skills.json) |
 | Advanced V.G. | 37639 | [37639-advanced-v-g.json](./37639-advanced-v-g.json) |
 | Advanced World War Sen-nen Teikoku no Koubou: Last of the Millennium | 45448 | [45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json](./45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json) |
 | Advanced Xoru | 2297 | [2297-advanced-xoru.json](./2297-advanced-xoru.json) |
@@ -3812,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agatha's Folly | 58866 | [58866-agathas-folly.json](./58866-agathas-folly.json) |
 | Age | 270014 | [270014-age.json](./270014-age.json) |
 | Age After Age | 379512 | [379512-age-after-age.json](./379512-age-after-age.json) |
+| Age Maniax: Isumi Yon Shimai Saigo no Hi | 305141 | [305141-age-maniax-isumi-yon-shimai-saigo-no-hi.json](./305141-age-maniax-isumi-yon-shimai-saigo-no-hi.json) |
 | Age of 2048 | 100988 | [100988-age-of-2048.json](./100988-age-of-2048.json) |
 | Age of 2048: World | 106373 | [106373-age-of-2048-world.json](./106373-age-of-2048-world.json) |
 | Age of Advent | 276208 | [276208-age-of-advent.json](./276208-age-of-advent.json) |
@@ -5149,6 +5153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alan Sharp | 134486 | [134486-alan-sharp.json](./134486-alan-sharp.json) |
 | Alan Wake 3 | 345449 | [345449-alan-wake-3.json](./345449-alan-wake-3.json) |
 | Alan Wake II: Deluxe Edition | 311975 | [311975-alan-wake-ii-deluxe-edition.json](./311975-alan-wake-ii-deluxe-edition.json) |
+| Alan Wake II: Deluxe Upgrade | 305231 | [305231-alan-wake-ii-deluxe-upgrade.json](./305231-alan-wake-ii-deluxe-upgrade.json) |
 | Alan Wake II: Night Springs | 273996 | [273996-alan-wake-ii-night-springs.json](./273996-alan-wake-ii-night-springs.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
 | Alan Wake Remastered | 167611 | [167611-alan-wake-remastered.json](./167611-alan-wake-remastered.json) |
@@ -12718,6 +12723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes: Afterglow | 184280 | [184280-ashes-afterglow.json](./184280-ashes-afterglow.json) |
 | Ashes: Blackwater | 399273 | [399273-ashes-blackwater.json](./399273-ashes-blackwater.json) |
 | Ashes: Dead Man Walking | 141487 | [141487-ashes-dead-man-walking.json](./141487-ashes-dead-man-walking.json) |
+| Ashes: Hard Reset | 305124 | [305124-ashes-hard-reset.json](./305124-ashes-hard-reset.json) |
 | Ashfall | 218167 | [218167-ashfall.json](./218167-ashfall.json) |
 | Ashfield Hollow | 349713 | [349713-ashfield-hollow.json](./349713-ashfield-hollow.json) |
 | Ashforge: Whispers of the Deep | 358875 | [358875-ashforge-whispers-of-the-deep.json](./358875-ashforge-whispers-of-the-deep.json) |
@@ -13259,6 +13265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Core | 277789 | [277789-asteroid-core.json](./277789-asteroid-core.json) |
 | Asteroid Deathmatch | 111472 | [111472-asteroid-deathmatch.json](./111472-asteroid-deathmatch.json) |
 | Asteroid Deflector XL | 90195 | [90195-asteroid-deflector-xl.json](./90195-asteroid-deflector-xl.json) |
+| Asteroid Dodge | 305210 | [305210-asteroid-dodge.json](./305210-asteroid-dodge.json) |
 | Asteroid Dodger | 140465 | [140465-asteroid-dodger.json](./140465-asteroid-dodger.json) |
 | Asteroid Evader | 178624 | [178624-asteroid-evader.json](./178624-asteroid-evader.json) |
 | Asteroid Farmer | 134972 | [134972-asteroid-farmer.json](./134972-asteroid-farmer.json) |
@@ -15007,6 +15014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: Frontiers of Pandora - Secrets of the Spire | 319229 | [319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json](./319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json) |
 | Avatar: Frontiers of Pandora - Sky Rider Starter Pack | 332042 | [332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json](./332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json) |
 | Avatar: Frontiers of Pandora - Special Edition | 281300 | [281300-avatar-frontiers-of-pandora-special-edition.json](./281300-avatar-frontiers-of-pandora-special-edition.json) |
+| Avatar: Frontiers of Pandora - The Sky Breaker | 305241 | [305241-avatar-frontiers-of-pandora-the-sky-breaker.json](./305241-avatar-frontiers-of-pandora-the-sky-breaker.json) |
 | Avatar: Ice Wars | 378930 | [378930-avatar-ice-wars.json](./378930-avatar-ice-wars.json) |
 | Avatar: Legends of the Arena | 72925 | [72925-avatar-legends-of-the-arena.json](./72925-avatar-legends-of-the-arena.json) |
 | Avatar: Pandora Rising | 112886 | [112886-avatar-pandora-rising.json](./112886-avatar-pandora-rising.json) |
