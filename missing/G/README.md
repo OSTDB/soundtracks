@@ -3444,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostpunk | 407757 | [407757-ghostpunk.json](./407757-ghostpunk.json) |
 | GhosTrick-The Sacred War of Light vs. Shadow | 374075 | [374075-ghostrick-the-sacred-war-of-light-vs-shadow.json](./374075-ghostrick-the-sacred-war-of-light-vs-shadow.json) |
 | GhostRing | 180517 | [180517-ghostring.json](./180517-ghostring.json) |
+| Ghostrunner Game Bundle | 287137 | [287137-ghostrunner-game-bundle.json](./287137-ghostrunner-game-bundle.json) |
 | Ghostrunner II | 250617 | [250617-ghostrunner-ii.json](./250617-ghostrunner-ii.json) |
 | Ghostrunner II: Anniversary Pack | 371319 | [371319-ghostrunner-ii-anniversary-pack.json](./371319-ghostrunner-ii-anniversary-pack.json) |
 | Ghostrunner II: Brutal Edition | 262414 | [262414-ghostrunner-ii-brutal-edition.json](./262414-ghostrunner-ii-brutal-edition.json) |
