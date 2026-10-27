@@ -1183,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Scabs | 177508 | [177508-candy-scabs.json](./177508-candy-scabs.json) |
 | Candy Shake Cup | 283298 | [283298-candy-shake-cup.json](./283298-candy-shake-cup.json) |
 | Candy Ship | 297338 | [297338-candy-ship.json](./297338-candy-ship.json) |
+| Candy Shop Simulator | 293129 | [293129-candy-shop-simulator.json](./293129-candy-shop-simulator.json) |
 | Candy Shop Simulator: Sweet Start | 346682 | [346682-candy-shop-simulator-sweet-start.json](./346682-candy-shop-simulator-sweet-start.json) |
 | Candy Smash Factory | 96484 | [96484-candy-smash-factory.json](./96484-candy-smash-factory.json) |
 | Candy Snake Master | 83573 | [83573-candy-snake-master.json](./83573-candy-snake-master.json) |
@@ -2287,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carlos Klauss: Episode Zero | 258701 | [258701-carlos-klauss-episode-zero.json](./258701-carlos-klauss-episode-zero.json) |
 | Carlos Sainz | 71349 | [71349-carlos-sainz.json](./71349-carlos-sainz.json) |
 | Carlos the Taco | 231203 | [231203-carlos-the-taco.json](./231203-carlos-the-taco.json) |
+| Carlson's Ticker Simulator | 293130 | [293130-carlsons-ticker-simulator.json](./293130-carlsons-ticker-simulator.json) |
 | Carlton | 83477 | [83477-carlton.json](./83477-carlton.json) |
 | Carma | 172153 | [172153-carma.json](./172153-carma.json) |
 | Carmageddon | 246743 | [246743-carmageddon.json](./246743-carmageddon.json) |
@@ -6480,6 +6482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate Cavern | 249349 | [249349-chocolate-cavern.json](./249349-chocolate-cavern.json) |
 | Chocolate Factory | 112995 | [112995-chocolate-factory.json](./112995-chocolate-factory.json) |
 | Chocolate Factory | 301790 | [301790-chocolate-factory.json](./301790-chocolate-factory.json) |
+| Chocolate Factory Simulator | 293131 | [293131-chocolate-factory-simulator.json](./293131-chocolate-factory-simulator.json) |
 | Chocolate Kiss | 263115 | [263115-chocolate-kiss.json](./263115-chocolate-kiss.json) |
 | Chocolate makes you happy 4 | 89935 | [89935-chocolate-makes-you-happy-4.json](./89935-chocolate-makes-you-happy-4.json) |
 | Chocolate makes you happy 5 | 99433 | [99433-chocolate-makes-you-happy-5.json](./99433-chocolate-makes-you-happy-5.json) |
@@ -12222,6 +12225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool World | 307071 | [307071-cool-world.json](./307071-cool-world.json) |
 | Cool World | 307072 | [307072-cool-world.json](./307072-cool-world.json) |
 | Coolbit | 181004 | [181004-coolbit.json](./181004-coolbit.json) |
+| Cooldown | 293052 | [293052-cooldown.json](./293052-cooldown.json) |
 | Cooler Super Mario Bros. Land | 394347 | [394347-cooler-super-mario-bros-land.json](./394347-cooler-super-mario-bros-land.json) |
 | Coolmath Games: The Game | 234707 | [234707-coolmath-games-the-game.json](./234707-coolmath-games-the-game.json) |
 | Coolors | 161696 | [161696-coolors.json](./161696-coolors.json) |
@@ -13902,6 +13906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crawl Tactics | 211211 | [211211-crawl-tactics.json](./211211-crawl-tactics.json) |
 | Crawl to Edge | 234621 | [234621-crawl-to-edge.json](./234621-crawl-to-edge.json) |
 | Crawlco Block Knockers | 144623 | [144623-crawlco-block-knockers.json](./144623-crawlco-block-knockers.json) |
+| Crawler | 293038 | [293038-crawler.json](./293038-crawler.json) |
 | Crawler | 380096 | [380096-crawler.json](./380096-crawler.json) |
 | Crawlies | 181840 | [181840-crawlies.json](./181840-crawlies.json) |
 | Crawlies Re-Hatched | 418719 | [418719-crawlies-re-hatched.json](./418719-crawlies-re-hatched.json) |
@@ -15817,6 +15822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Compulsion | 208834 | [208834-crystal-compulsion.json](./208834-crystal-compulsion.json) |
 | Crystal Confines | 69319 | [69319-crystal-confines.json](./69319-crystal-confines.json) |
 | Crystal Conflict | 350463 | [350463-crystal-conflict.json](./350463-crystal-conflict.json) |
+| Crystal Conquest | 293044 | [293044-crystal-conquest.json](./293044-crystal-conquest.json) |
 | Crystal Control | 140923 | [140923-crystal-control.json](./140923-crystal-control.json) |
 | Crystal core | 124212 | [124212-crystal-core.json](./124212-crystal-core.json) |
 | Crystal Cosmos | 32244 | [32244-crystal-cosmos.json](./32244-crystal-cosmos.json) |
