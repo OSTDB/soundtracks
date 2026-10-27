@@ -1164,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Memory | 155693 | [155693-last-memory.json](./155693-last-memory.json) |
 | Last Message | 316160 | [316160-last-message.json](./316160-last-message.json) |
 | Last Message Plus | 316173 | [316173-last-message-plus.json](./316173-last-message-plus.json) |
+| Last Mind Standing | 318445 | [318445-last-mind-standing.json](./318445-last-mind-standing.json) |
 | Last Minute | 267018 | [267018-last-minute.json](./267018-last-minute.json) |
 | Last Minute Love | 177908 | [177908-last-minute-love.json](./177908-last-minute-love.json) |
 | Last Minute Shopping | 278544 | [278544-last-minute-shopping.json](./278544-last-minute-shopping.json) |
@@ -6522,6 +6523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Chaos | 12668 | [12668-lords-of-chaos.json](./12668-lords-of-chaos.json) |
 | Lords of Conquest | 26391 | [26391-lords-of-conquest.json](./26391-lords-of-conquest.json) |
 | Lords of Delusia | 74867 | [74867-lords-of-delusia.json](./74867-lords-of-delusia.json) |
+| Lords of Diskonia | 318467 | [318467-lords-of-diskonia.json](./318467-lords-of-diskonia.json) |
 | Lords of Doom | 69811 | [69811-lords-of-doom.json](./69811-lords-of-doom.json) |
 | Lords of Doom: Part One - The Black God | 170290 | [170290-lords-of-doom-part-one-the-black-god.json](./170290-lords-of-doom-part-one-the-black-god.json) |
 | Lords of EverQuest | 19633 | [19633-lords-of-everquest.json](./19633-lords-of-everquest.json) |
@@ -7358,6 +7360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love is Dead | 33225 | [33225-love-is-dead.json](./33225-love-is-dead.json) |
 | Love is in Bloom | 225300 | [225300-love-is-in-bloom.json](./225300-love-is-in-bloom.json) |
 | Love is in the air | 98264 | [98264-love-is-in-the-air.json](./98264-love-is-in-the-air.json) |
+| Love is in the Airship | 318363 | [318363-love-is-in-the-airship.json](./318363-love-is-in-the-airship.json) |
 | Love is Our Specialty! | 210520 | [210520-love-is-our-specialty.json](./210520-love-is-our-specialty.json) |
 | Love is Strange | 178526 | [178526-love-is-strange.json](./178526-love-is-strange.json) |
 | Love is Trauma | 393419 | [393419-love-is-trauma.json](./393419-love-is-trauma.json) |
