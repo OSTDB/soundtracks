@@ -2335,6 +2335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neratte chu | 40989 | [40989-neratte-chu.json](./40989-neratte-chu.json) |
 | Nerd Blocks | 254673 | [254673-nerd-blocks.json](./254673-nerd-blocks.json) |
 | Nerd Bus | 184264 | [184264-nerd-bus.json](./184264-nerd-bus.json) |
+| Nerd Simulator | 312531 | [312531-nerd-simulator.json](./312531-nerd-simulator.json) |
 | Nerd Survivors | 272740 | [272740-nerd-survivors.json](./272740-nerd-survivors.json) |
 | Nerd: Tracing Dayline | 318273 | [318273-nerd-tracing-dayline.json](./318273-nerd-tracing-dayline.json) |
 | Nerds & Ammo | 391585 | [391585-nerds-and-ammo.json](./391585-nerds-and-ammo.json) |
