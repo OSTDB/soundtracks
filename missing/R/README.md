@@ -3948,8 +3948,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of Darkness | 126974 | [126974-reign-of-darkness.json](./126974-reign-of-darkness.json) |
 | Reign of Fire | 248461 | [248461-reign-of-fire.json](./248461-reign-of-fire.json) |
 | Reign of Guilds | 112329 | [112329-reign-of-guilds.json](./112329-reign-of-guilds.json) |
+| Reign of Guilds: Banneret | 289841 | [289841-reign-of-guilds-banneret.json](./289841-reign-of-guilds-banneret.json) |
 | Reign of Guilds: Black Knight | 290115 | [290115-reign-of-guilds-black-knight.json](./290115-reign-of-guilds-black-knight.json) |
 | Reign of Guilds: Commoner | 317302 | [317302-reign-of-guilds-commoner.json](./317302-reign-of-guilds-commoner.json) |
+| Reign of Guilds: Raubritter | 289842 | [289842-reign-of-guilds-raubritter.json](./289842-reign-of-guilds-raubritter.json) |
 | Reign of King | 107147 | [107147-reign-of-king.json](./107147-reign-of-king.json) |
 | Reign of Kings | 9599 | [9599-reign-of-kings.json](./9599-reign-of-kings.json) |
 | Reign of the Renegade | 278911 | [278911-reign-of-the-renegade.json](./278911-reign-of-the-renegade.json) |
@@ -6905,6 +6907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk: Global Domination - Countries & Continents 2 Map Pack | 164455 | [164455-risk-global-domination-countries-and-continents-2-map-pack.json](./164455-risk-global-domination-countries-and-continents-2-map-pack.json) |
 | Risk: Global Domination - Countries & Continents Map Pack | 164456 | [164456-risk-global-domination-countries-and-continents-map-pack.json](./164456-risk-global-domination-countries-and-continents-map-pack.json) |
 | Risk: Global Domination - Dawn of the Dinos Map Pack | 226942 | [226942-risk-global-domination-dawn-of-the-dinos-map-pack.json](./226942-risk-global-domination-dawn-of-the-dinos-map-pack.json) |
+| Risk: Global Domination - Dune Map Pack | 289837 | [289837-risk-global-domination-dune-map-pack.json](./289837-risk-global-domination-dune-map-pack.json) |
 | Risk: Global Domination - Empires Map Pack | 164460 | [164460-risk-global-domination-empires-map-pack.json](./164460-risk-global-domination-empires-map-pack.json) |
 | Risk: Global Domination - Enchanted Realms Map Pack | 226943 | [226943-risk-global-domination-enchanted-realms-map-pack.json](./226943-risk-global-domination-enchanted-realms-map-pack.json) |
 | Risk: Global Domination - European Conquest | 164461 | [164461-risk-global-domination-european-conquest.json](./164461-risk-global-domination-european-conquest.json) |
