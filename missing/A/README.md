@@ -14745,6 +14745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora's Journey and the Pitiful Lackey | 188964 | [188964-auroras-journey-and-the-pitiful-lackey.json](./188964-auroras-journey-and-the-pitiful-lackey.json) |
 | AuroraBound | 263585 | [263585-aurorabound.json](./263585-aurorabound.json) |
 | AuroraBound Deluxe | 74370 | [74370-aurorabound-deluxe.json](./74370-aurorabound-deluxe.json) |
+| Aurorae | 287796 | [287796-aurorae.json](./287796-aurorae.json) |
 | AuroraRL | 33607 | [33607-aurorarl.json](./33607-aurorarl.json) |
 | AuroraRL: Special Edition | 52622 | [52622-aurorarl-special-edition.json](./52622-aurorarl-special-edition.json) |
 | Aurrery | 74871 | [74871-aurrery.json](./74871-aurrery.json) |
