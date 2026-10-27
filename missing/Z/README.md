@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Grounds | 249073 | [249073-zero-grounds.json](./249073-zero-grounds.json) |
 | Zero Gunner | 10447 | [10447-zero-gunner.json](./10447-zero-gunner.json) |
 | Zero Gunner 2 | 21014 | [21014-zero-gunner-2.json](./21014-zero-gunner-2.json) |
+| Zero Hero | 287678 | [287678-zero-hero.json](./287678-zero-hero.json) |
 | Zero Hour | 146042 | [146042-zero-hour.json](./146042-zero-hour.json) |
 | Zero Hour | 151730 | [151730-zero-hour.json](./151730-zero-hour.json) |
 | Zero Hour Reforged | 421840 | [421840-zero-hour-reforged.json](./421840-zero-hour-reforged.json) |
@@ -1008,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zico Soccer | 42348 | [42348-zico-soccer.json](./42348-zico-soccer.json) |
 | Zidane: Football Generation | 144652 | [144652-zidane-football-generation.json](./144652-zidane-football-generation.json) |
 | Zidane: Football Generation 2002 | 49351 | [49351-zidane-football-generation-2002.json](./49351-zidane-football-generation-2002.json) |
+| ZiDouQianWen | 287677 | [287677-zidouqianwen.json](./287677-zidouqianwen.json) |
 | Ziegel: An Arcade Platformer | 96206 | [96206-ziegel-an-arcade-platformer.json](./96206-ziegel-an-arcade-platformer.json) |
 | Zig | 96695 | [96695-zig.json](./96695-zig.json) |
 | Zig Zag Ball | 74720 | [74720-zig-zag-ball.json](./74720-zig-zag-ball.json) |
@@ -1221,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zom Tom | 199372 | [199372-zom-tom.json](./199372-zom-tom.json) |
 | Zom: Rise of the Apocalypse | 239796 | [239796-zom-rise-of-the-apocalypse.json](./239796-zom-rise-of-the-apocalypse.json) |
 | Zomb | 120071 | [120071-zomb.json](./120071-zomb.json) |
+| Zomb Bomb | 287679 | [287679-zomb-bomb.json](./287679-zomb-bomb.json) |
 | Zombactory | 267021 | [267021-zombactory.json](./267021-zombactory.json) |
 | Zombaliens | 185370 | [185370-zombaliens.json](./185370-zombaliens.json) |
 | Zombapocalypse | 25753 | [25753-zombapocalypse.json](./25753-zombapocalypse.json) |
@@ -1334,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie City Together | 423875 | [423875-zombie-city-together.json](./423875-zombie-city-together.json) |
 | Zombie Claus | 219094 | [219094-zombie-claus.json](./219094-zombie-claus.json) |
 | Zombie Clicker Defense | 83526 | [83526-zombie-clicker-defense.json](./83526-zombie-clicker-defense.json) |
+| Zombie Colony | 287680 | [287680-zombie-colony.json](./287680-zombie-colony.json) |
 | Zombie Combat Shooting | 103136 | [103136-zombie-combat-shooting.json](./103136-zombie-combat-shooting.json) |
 | Zombie Conspiracy: Shooter | 174750 | [174750-zombie-conspiracy-shooter.json](./174750-zombie-conspiracy-shooter.json) |
 | Zombie Cookin' | 350764 | [350764-zombie-cookin.json](./350764-zombie-cookin.json) |
@@ -1766,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies! | 335649 | [335649-zombies.json](./335649-zombies.json) |
 | zombies! ARgh! | 99173 | [99173-zombies-argh.json](./99173-zombies-argh.json) |
 | Zombies!!! | 70687 | [70687-zombies.json](./70687-zombies.json) |
+| Zombies!!! Board Game | 287681 | [287681-zombies-board-game.json](./287681-zombies-board-game.json) |
 | Zombies!!! Board Game: NotDeadYet | 289340 | [289340-zombies-board-game-notdeadyet.json](./289340-zombies-board-game-notdeadyet.json) |
 | Zombies. | 95370 | [95370-zombies.json](./95370-zombies.json) |
 | Zombies.io | 130359 | [130359-zombies-io.json](./130359-zombies-io.json) |
