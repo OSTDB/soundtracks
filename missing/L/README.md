@@ -3244,6 +3244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2023: Platinum Edition | 225829 | [225829-lets-sing-2023-platinum-edition.json](./225829-lets-sing-2023-platinum-edition.json) |
 | Let's Sing 2024 with International Hits: Gold Edition | 271838 | [271838-lets-sing-2024-with-international-hits-gold-edition.json](./271838-lets-sing-2024-with-international-hits-gold-edition.json) |
 | Let's Sing 2024 with International Hits: Platinum Edition | 271836 | [271836-lets-sing-2024-with-international-hits-platinum-edition.json](./271836-lets-sing-2024-with-international-hits-platinum-edition.json) |
+| Let's Sing 2025 | 317888 | [317888-lets-sing-2025.json](./317888-lets-sing-2025.json) |
 | Let's Sing 2025 with International Hits | 317926 | [317926-lets-sing-2025-with-international-hits.json](./317926-lets-sing-2025-with-international-hits.json) |
 | Let's Sing 2025 with International Hits: Gold Edition | 317907 | [317907-lets-sing-2025-with-international-hits-gold-edition.json](./317907-lets-sing-2025-with-international-hits-gold-edition.json) |
 | Let's Sing 2025 with International Hits: Platinum Edition | 317906 | [317906-lets-sing-2025-with-international-hits-platinum-edition.json](./317906-lets-sing-2025-with-international-hits-platinum-edition.json) |
@@ -4763,6 +4764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquid Sunshine | 109299 | [109299-liquid-sunshine.json](./109299-liquid-sunshine.json) |
 | Liquid War | 51250 | [51250-liquid-war.json](./51250-liquid-war.json) |
 | Liquidation | 168703 | [168703-liquidation.json](./168703-liquidation.json) |
+| Liquidation: Zombie Apocalypse | 317889 | [317889-liquidation-zombie-apocalypse.json](./317889-liquidation-zombie-apocalypse.json) |
 | Liquidator | 72446 | [72446-liquidator.json](./72446-liquidator.json) |
 | Liquidator: 3D Action Game | 205975 | [205975-liquidator-3d-action-game.json](./205975-liquidator-3d-action-game.json) |
 | Liquidators | 147297 | [147297-liquidators.json](./147297-liquidators.json) |
@@ -6913,6 +6915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Island | 288366 | [288366-lost-island.json](./288366-lost-island.json) |
 | Lost Island | 350508 | [350508-lost-island.json](./350508-lost-island.json) |
 | Lost Island | 368380 | [368380-lost-island.json](./368380-lost-island.json) |
+| Lost Island of Jungata | 317797 | [317797-lost-island-of-jungata.json](./317797-lost-island-of-jungata.json) |
 | Lost Island: Eternal Storm | 295916 | [295916-lost-island-eternal-storm.json](./295916-lost-island-eternal-storm.json) |
 | Lost Island:Battle Royale | 126960 | [126960-lost-island-battle-royale.json](./126960-lost-island-battle-royale.json) |
 | Lost Islands: Legend Pack | 326265 | [326265-lost-islands-legend-pack.json](./326265-lost-islands-legend-pack.json) |
@@ -7386,6 +7389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Language Japanese | 110424 | [110424-love-language-japanese.json](./110424-love-language-japanese.json) |
 | Love Language Stories | 285355 | [285355-love-language-stories.json](./285355-love-language-stories.json) |
 | Love Letter | 109759 | [109759-love-letter.json](./109759-love-letter.json) |
+| Love Letter | 317810 | [317810-love-letter.json](./317810-love-letter.json) |
 | Love Letter | 323942 | [323942-love-letter.json](./323942-love-letter.json) |
 | Love Letter: First Draft | 310527 | [310527-love-letter-first-draft.json](./310527-love-letter-first-draft.json) |
 | Love Letters | 363893 | [363893-love-letters.json](./363893-love-letters.json) |
@@ -8348,6 +8352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunatic Den | 250266 | [250266-lunatic-den.json](./250266-lunatic-den.json) |
 | Lunatic Fringe | 133956 | [133956-lunatic-fringe.json](./133956-lunatic-fringe.json) |
 | Lunatic Rave 2 | 79901 | [79901-lunatic-rave-2.json](./79901-lunatic-rave-2.json) |
+| Lunavania | 317783 | [317783-lunavania.json](./317783-lunavania.json) |
 | Lunavoid | 356023 | [356023-lunavoid.json](./356023-lunavoid.json) |
 | Lunch Box | 221734 | [221734-lunch-box.json](./221734-lunch-box.json) |
 | Lunch Box Ready | 212458 | [212458-lunch-box-ready.json](./212458-lunch-box-ready.json) |
