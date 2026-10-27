@@ -2485,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCG One | 149983 | [149983-tcg-one.json](./149983-tcg-one.json) |
 | Tchia: Kepler Customization Pack | 243232 | [243232-tchia-kepler-customization-pack.json](./243232-tchia-kepler-customization-pack.json) |
 | Tchia: Oléti Edition | 239605 | [239605-tchia-oleti-edition.json](./239605-tchia-oleti-edition.json) |
+| Tchin | 311518 | [311518-tchin.json](./311518-tchin.json) |
 | Tchou | 179458 | [179458-tchou.json](./179458-tchou.json) |
 | Tchow Rainbow | 216449 | [216449-tchow-rainbow.json](./216449-tchow-rainbow.json) |
 | Tchunk | 323437 | [323437-tchunk.json](./323437-tchunk.json) |
@@ -8103,6 +8104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Odyssey | 190006 | [190006-the-first-odyssey.json](./190006-the-first-odyssey.json) |
 | The First Present | 278675 | [278675-the-first-present.json](./278675-the-first-present.json) |
 | The First Project | 144584 | [144584-the-first-project.json](./144584-the-first-project.json) |
+| The First Settlement VR | 311550 | [311550-the-first-settlement-vr.json](./311550-the-first-settlement-vr.json) |
 | The First SMW Hack that will Ever be so Lucky as to Gain the Luxury of Leaving My PC | 278628 | [278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json](./278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json) |
 | The First Spine - Arena | 386865 | [386865-the-first-spine-arena.json](./386865-the-first-spine-arena.json) |
 | The First Step | 215745 | [215745-the-first-step.json](./215745-the-first-step.json) |
@@ -20151,6 +20153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Zoo Friends | 368273 | [368273-tiny-zoo-friends.json](./368273-tiny-zoo-friends.json) |
 | Tiny-DDug | 267218 | [267218-tiny-ddug.json](./267218-tiny-ddug.json) |
 | Tiny-Doc | 352347 | [352347-tiny-doc.json](./352347-tiny-doc.json) |
+| Tiny-Fi | 311553 | [311553-tiny-fi.json](./311553-tiny-fi.json) |
 | Tiny-Tasy Town | 103598 | [103598-tiny-tasy-town.json](./103598-tiny-tasy-town.json) |
 | Tiny: The Last Wayfinder | 373143 | [373143-tiny-the-last-wayfinder.json](./373143-tiny-the-last-wayfinder.json) |
 | TinyArmored | 209937 | [209937-tinyarmored.json](./209937-tinyarmored.json) |
