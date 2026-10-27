@@ -2254,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unnatural Force | 357820 | [357820-unnatural-force.json](./357820-unnatural-force.json) |
 | Unnatural Freaks: Episode 1 Wolf At Evergreen | 166605 | [166605-unnatural-freaks-episode-1-wolf-at-evergreen.json](./166605-unnatural-freaks-episode-1-wolf-at-evergreen.json) |
 | Unnatural Investigations | 191077 | [191077-unnatural-investigations.json](./191077-unnatural-investigations.json) |
+| Unnatural Selection | 296342 | [296342-unnatural-selection.json](./296342-unnatural-selection.json) |
 | Unnatural Selection | 94207 | [94207-unnatural-selection.json](./94207-unnatural-selection.json) |
 | Unnatural: Benighted | 235084 | [235084-unnatural-benighted.json](./235084-unnatural-benighted.json) |
 | Unnatural: Land of Dead | 211263 | [211263-unnatural-land-of-dead.json](./211263-unnatural-land-of-dead.json) |
