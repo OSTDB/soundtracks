@@ -3723,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Hacker | 178955 | [178955-terminal-hacker.json](./178955-terminal-hacker.json) |
 | Terminal Hacker | 30854 | [30854-terminal-hacker.json](./30854-terminal-hacker.json) |
 | Terminal Hacker - Into the Deep | 35935 | [35935-terminal-hacker-into-the-deep.json](./35935-terminal-hacker-into-the-deep.json) |
+| Terminal House | 301296 | [301296-terminal-house.json](./301296-terminal-house.json) |
 | Terminal Interface for Models RCM301-303 | 364625 | [364625-terminal-interface-for-models-rcm301-303.json](./364625-terminal-interface-for-models-rcm301-303.json) |
 | Terminal Land | 138515 | [138515-terminal-land.json](./138515-terminal-land.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
@@ -4179,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetragon | 116590 | [116590-tetragon.json](./116590-tetragon.json) |
 | Tetragun | 183881 | [183881-tetragun.json](./183881-tetragun.json) |
 | TetraLogical | 115531 | [115531-tetralogical.json](./115531-tetralogical.json) |
+| Tetram | 301802 | [301802-tetram.json](./301802-tetram.json) |
 | TetraMage | 244712 | [244712-tetramage.json](./244712-tetramage.json) |
 | Tetraminis Deffect | 284352 | [284352-tetraminis-deffect.json](./284352-tetraminis-deffect.json) |
 | Tetraminos | 308977 | [308977-tetraminos.json](./308977-tetraminos.json) |
@@ -8759,6 +8761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Chocolate Chase: A Chocolatier Twist | 19557 | [19557-the-great-chocolate-chase-a-chocolatier-twist.json](./19557-the-great-chocolate-chase-a-chocolatier-twist.json) |
 | The Great Circus Mystery Starring Mickey & Minnie | 4407 | [4407-the-great-circus-mystery-starring-mickey-and-minnie.json](./4407-the-great-circus-mystery-starring-mickey-and-minnie.json) |
 | The Great Coffee Caper | 338210 | [338210-the-great-coffee-caper.json](./338210-the-great-coffee-caper.json) |
+| The Great Conclovince of Mithrithnogg | 301314 | [301314-the-great-conclovince-of-mithrithnogg.json](./301314-the-great-conclovince-of-mithrithnogg.json) |
 | The Great Couturier | 290013 | [290013-the-great-couturier.json](./290013-the-great-couturier.json) |
 | The Great Dick Invasion | 213595 | [213595-the-great-dick-invasion.json](./213595-the-great-dick-invasion.json) |
 | The Great Divide | 238531 | [238531-the-great-divide.json](./238531-the-great-divide.json) |
@@ -10679,6 +10682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel IV - Eternal Preservation Edition | 167068 | [167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json](./167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Standard Costume Bundle | 227335 | [227335-the-legend-of-heroes-trails-of-cold-steel-iv-standard-costume-bundle.json](./227335-the-legend-of-heroes-trails-of-cold-steel-iv-standard-costume-bundle.json) |
 | The Legend of Heroes: Trails through Daybreak - Bonus Set | 310687 | [310687-the-legend-of-heroes-trails-through-daybreak-bonus-set.json](./310687-the-legend-of-heroes-trails-through-daybreak-bonus-set.json) |
+| The Legend of Heroes: Trails through Daybreak - Costume Set | 301217 | [301217-the-legend-of-heroes-trails-through-daybreak-costume-set.json](./301217-the-legend-of-heroes-trails-through-daybreak-costume-set.json) |
 | The Legend of Heroes: Trails through Daybreak - Voice Set | 310686 | [310686-the-legend-of-heroes-trails-through-daybreak-voice-set.json](./310686-the-legend-of-heroes-trails-through-daybreak-voice-set.json) |
 | The Legend of Heroes: Trails through Daybreak II - Deluxe Edition | 313763 | [313763-the-legend-of-heroes-trails-through-daybreak-ii-deluxe-edition.json](./313763-the-legend-of-heroes-trails-through-daybreak-ii-deluxe-edition.json) |
 | The Legend of Heroes: Trails through Daybreak II - Limited Edition | 313762 | [313762-the-legend-of-heroes-trails-through-daybreak-ii-limited-edition.json](./313762-the-legend-of-heroes-trails-through-daybreak-ii-limited-edition.json) |
@@ -12222,6 +12226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nightmare Catcher | 196038 | [196038-the-nightmare-catcher.json](./196038-the-nightmare-catcher.json) |
 | The Nightmare Chronicles: Horror In Da Hood | 309107 | [309107-the-nightmare-chronicles-horror-in-da-hood.json](./309107-the-nightmare-chronicles-horror-in-da-hood.json) |
 | The Nightmare Escape | 258473 | [258473-the-nightmare-escape.json](./258473-the-nightmare-escape.json) |
+| The Nightmare House | 301222 | [301222-the-nightmare-house.json](./301222-the-nightmare-house.json) |
 | The Nightmare Inside | 194653 | [194653-the-nightmare-inside.json](./194653-the-nightmare-inside.json) |
 | The Nightmare Journey | 163780 | [163780-the-nightmare-journey.json](./163780-the-nightmare-journey.json) |
 | The Nightmare of a City I Thought I Knew | 68448 | [68448-the-nightmare-of-a-city-i-thought-i-knew.json](./68448-the-nightmare-of-a-city-i-thought-i-knew.json) |
@@ -13745,6 +13750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Society - Hidden Objects Mystery | 124747 | [124747-the-secret-society-hidden-objects-mystery.json](./124747-the-secret-society-hidden-objects-mystery.json) |
 | The Secret Story 1996 | 396191 | [396191-the-secret-story-1996.json](./396191-the-secret-story-1996.json) |
 | The Secret Turnabout | 306620 | [306620-the-secret-turnabout.json](./306620-the-secret-turnabout.json) |
+| The Secret Weapon | 301872 | [301872-the-secret-weapon.json](./301872-the-secret-weapon.json) |
 | The Secret Workshop of Wishes | 385073 | [385073-the-secret-workshop-of-wishes.json](./385073-the-secret-workshop-of-wishes.json) |
 | The Secret World: Ultimate Edition | 35524 | [35524-the-secret-world-ultimate-edition.json](./35524-the-secret-world-ultimate-edition.json) |
 | The Secrets | 178686 | [178686-the-secrets.json](./178686-the-secrets.json) |
@@ -14698,6 +14704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Street 10 | 282031 | [282031-the-street-10.json](./282031-the-street-10.json) |
 | The Street King | 413727 | [413727-the-street-king.json](./413727-the-street-king.json) |
 | The Stroke of Midnight | 99611 | [99611-the-stroke-of-midnight.json](./99611-the-stroke-of-midnight.json) |
+| The Strong High School | 301224 | [301224-the-strong-high-school.json](./301224-the-strong-high-school.json) |
 | The Strongest Ancestor | 301614 | [301614-the-strongest-ancestor.json](./301614-the-strongest-ancestor.json) |
 | The Stronghold Collection | 27858 | [27858-the-stronghold-collection.json](./27858-the-stronghold-collection.json) |
 | The Strongholds of Silberland | 183446 | [183446-the-strongholds-of-silberland.json](./183446-the-strongholds-of-silberland.json) |
@@ -17332,6 +17339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThreatGen: Red vs. Blue | 113812 | [113812-threatgen-red-vs-blue.json](./113812-threatgen-red-vs-blue.json) |
 | Three Alpha One Nine | 312133 | [312133-three-alpha-one-nine.json](./312133-three-alpha-one-nine.json) |
 | Three Bosses | 174323 | [174323-three-bosses.json](./174323-three-bosses.json) |
+| Three Bulky Bears | 301865 | [301865-three-bulky-bears.json](./301865-three-bulky-bears.json) |
 | Three Cards to Midnight | 67830 | [67830-three-cards-to-midnight.json](./67830-three-cards-to-midnight.json) |
 | Three Color Ball | 181091 | [181091-three-color-ball.json](./181091-three-color-ball.json) |
 | Three Color Cannon | 360001 | [360001-three-color-cannon.json](./360001-three-color-cannon.json) |
@@ -22726,7 +22734,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Mutsuigeki: Concealed the Conclusion | 51266 | [51266-touhou-mutsuigeki-concealed-the-conclusion.json](./51266-touhou-mutsuigeki-concealed-the-conclusion.json) |
 | Touhou Mystery Reel | 192886 | [192886-touhou-mystery-reel.json](./192886-touhou-mystery-reel.json) |
 | Touhou Mystia's Izakaya DLC 2 Pack: Former Hell & Chireiden | 209760 | [209760-touhou-mystias-izakaya-dlc-2-pack-former-hell-and-chireiden.json](./209760-touhou-mystias-izakaya-dlc-2-pack-former-hell-and-chireiden.json) |
+| Touhou Mystia's Izakaya DLC 4 Pack: Garden of the Sun & Shining Needle Castle | 301315 | [301315-touhou-mystias-izakaya-dlc-4-pack-garden-of-the-sun-and-shining-needle-castle.json](./301315-touhou-mystias-izakaya-dlc-4-pack-garden-of-the-sun-and-shining-needle-castle.json) |
 | Touhou Mystia's Izakaya DLC1 Pack: Forest of Magic & Youkai Mountain | 209735 | [209735-touhou-mystias-izakaya-dlc1-pack-forest-of-magic-and-youkai-mountain.json](./209735-touhou-mystias-izakaya-dlc1-pack-forest-of-magic-and-youkai-mountain.json) |
+| Touhou Mystia's Izakaya DLC5 Pack: Makai & Lunar Capital | 301317 | [301317-touhou-mystias-izakaya-dlc5-pack-makai-and-lunar-capital.json](./301317-touhou-mystias-izakaya-dlc5-pack-makai-and-lunar-capital.json) |
 | TouHou Nil Soul | 114801 | [114801-touhou-nil-soul.json](./114801-touhou-nil-soul.json) |
 | Touhou Pants Contest | 111365 | [111365-touhou-pants-contest.json](./111365-touhou-pants-contest.json) |
 | Touhou Perfect Sakura Fantastica | 212732 | [212732-touhou-perfect-sakura-fantastica.json](./212732-touhou-perfect-sakura-fantastica.json) |
@@ -27611,6 +27621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Cup | 72328 | [72328-turbo-cup.json](./72328-turbo-cup.json) |
 | Turbo Dash | 329066 | [329066-turbo-dash.json](./329066-turbo-dash.json) |
 | Turbo Dash Kart 2023 Racing | 266065 | [266065-turbo-dash-kart-2023-racing.json](./266065-turbo-dash-kart-2023-racing.json) |
+| Turbo Dash Kart 2024 Racing | 301782 | [301782-turbo-dash-kart-2024-racing.json](./301782-turbo-dash-kart-2024-racing.json) |
 | Turbo Dismount 2 | 319769 | [319769-turbo-dismount-2.json](./319769-turbo-dismount-2.json) |
 | Turbo Driving Racing 3D | 191630 | [191630-turbo-driving-racing-3d.json](./191630-turbo-driving-racing-3d.json) |
 | Turbo DX | 313106 | [313106-turbo-dx.json](./313106-turbo-dx.json) |
@@ -27728,6 +27739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn Around | 344858 | [344858-turn-around.json](./344858-turn-around.json) |
 | Turn Around Turtle: Show and Tell | 206648 | [206648-turn-around-turtle-show-and-tell.json](./206648-turn-around-turtle-show-and-tell.json) |
 | Turn Back The Powers Of Darkness | 350233 | [350233-turn-back-the-powers-of-darkness.json](./350233-turn-back-the-powers-of-darkness.json) |
+| Turn Based Boxing | 301220 | [301220-turn-based-boxing.json](./301220-turn-based-boxing.json) |
 | Turn By Turn Villain | 253820 | [253820-turn-by-turn-villain.json](./253820-turn-by-turn-villain.json) |
 | Turn Chase | 135053 | [135053-turn-chase.json](./135053-turn-chase.json) |
 | Turn It Around | 21236 | [21236-turn-it-around.json](./21236-turn-it-around.json) |
