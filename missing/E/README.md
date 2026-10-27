@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force 5: Ranger Weapon Decoy Launcher (Pale Wing) | 168236 | [168236-earth-defense-force-5-ranger-weapon-decoy-launcher-pale-wing.json](./168236-earth-defense-force-5-ranger-weapon-decoy-launcher-pale-wing.json) |
 | Earth Defense Force 5: Wing Diver Support Device - Reverse Core S-Type | 415413 | [415413-earth-defense-force-5-wing-diver-support-device-reverse-core-s-type.json](./415413-earth-defense-force-5-wing-diver-support-device-reverse-core-s-type.json) |
 | Earth Defense Force 6 | 137427 | [137427-earth-defense-force-6.json](./137427-earth-defense-force-6.json) |
+| Earth Defense Force 6: Additional Mission Pack 1 - Lost Days | 317191 | [317191-earth-defense-force-6-additional-mission-pack-1-lost-days.json](./317191-earth-defense-force-6-additional-mission-pack-1-lost-days.json) |
 | Earth Defense Force 6: Additional Mission Pack 2 - Visions of Malice | 319369 | [319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json](./319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json) |
 | Earth Defense Force 6: Air Raider Boarding Weapons - Eros No. 6 | 325422 | [325422-earth-defense-force-6-air-raider-boarding-weapons-eros-no-6.json](./325422-earth-defense-force-6-air-raider-boarding-weapons-eros-no-6.json) |
 | Earth Defense Force 6: Air Raider Boarding Weapons - Naegling No. 6 | 325421 | [325421-earth-defense-force-6-air-raider-boarding-weapons-naegling-no-6.json](./325421-earth-defense-force-6-air-raider-boarding-weapons-naegling-no-6.json) |
@@ -7067,6 +7068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EZ-Talk: Shokyuu-hen 6 | 334277 | [334277-ez-talk-shokyuu-hen-6.json](./334277-ez-talk-shokyuu-hen-6.json) |
 | EZ2AC | 137440 | [137440-ez2ac.json](./137440-ez2ac.json) |
 | EZ2AC Final | 122958 | [122958-ez2ac-final.json](./122958-ez2ac-final.json) |
+| EZ2AC: Endless Circulation | 317181 | [317181-ez2ac-endless-circulation.json](./317181-ez2ac-endless-circulation.json) |
 | EZ2AC: Final EX | 138708 | [138708-ez2ac-final-ex.json](./138708-ez2ac-final-ex.json) |
 | EZ2AC: Time Traveler | 122956 | [122956-ez2ac-time-traveler.json](./122956-ez2ac-time-traveler.json) |
 | EZ2Dancer | 92487 | [92487-ez2dancer.json](./92487-ez2dancer.json) |
