@@ -5444,6 +5444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Market | 391052 | [391052-fish-market.json](./391052-fish-market.json) |
 | Fish Memory | 150678 | [150678-fish-memory.json](./150678-fish-memory.json) |
 | Fish N Chat | 293993 | [293993-fish-n-chat.json](./293993-fish-n-chat.json) |
+| Fish On! Bass | 313045 | [313045-fish-on-bass.json](./313045-fish-on-bass.json) |
 | Fish or Chicken | 250254 | [250254-fish-or-chicken.json](./250254-fish-or-chicken.json) |
 | Fish or Die | 34778 | [34778-fish-or-die.json](./34778-fish-or-die.json) |
 | Fish Orbit | 390543 | [390543-fish-orbit.json](./390543-fish-orbit.json) |
@@ -10010,6 +10011,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fret Nice | 52230 | [52230-fret-nice.json](./52230-fret-nice.json) |
 | Fret Smasher | 139272 | [139272-fret-smasher.json](./139272-fret-smasher.json) |
 | Freud Gate | 125200 | [125200-freud-gate.json](./125200-freud-gate.json) |
+| Freudian Slipgate | 313031 | [313031-freudian-slipgate.json](./313031-freudian-slipgate.json) |
+| Freudian Slipgate 2 | 313032 | [313032-freudian-slipgate-2.json](./313032-freudian-slipgate-2.json) |
 | Freya's Potion Shop | 157702 | [157702-freyas-potion-shop.json](./157702-freyas-potion-shop.json) |
 | Freyja's Demise | 299844 | [299844-freyjas-demise.json](./299844-freyjas-demise.json) |
 | Freyr's Love | 165024 | [165024-freyrs-love.json](./165024-freyrs-love.json) |
