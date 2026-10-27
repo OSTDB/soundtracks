@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game with a Kitty 6: Moon Minion | 313576 | [313576-a-game-with-a-kitty-6-moon-minion.json](./313576-a-game-with-a-kitty-6-moon-minion.json) |
 | A Game You Can Afford In This Economy | 226102 | [226102-a-game-you-can-afford-in-this-economy.json](./226102-a-game-you-can-afford-in-this-economy.json) |
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
+| A Gang of Weirdos | 299124 | [299124-a-gang-of-weirdos.json](./299124-a-gang-of-weirdos.json) |
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
 | A Gay's Life | 129939 | [129939-a-gays-life.json](./129939-a-gays-life.json) |
 | A Ghost Journey | 373811 | [373811-a-ghost-journey.json](./373811-a-ghost-journey.json) |
@@ -576,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A lenda da Gávea | 81154 | [81154-a-lenda-da-gavea.json](./81154-a-lenda-da-gavea.json) |
 | A Lenda de Niterói | 371852 | [371852-a-lenda-de-niteroi.json](./371852-a-lenda-de-niteroi.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
+| A Letter to Luna | 297417 | [297417-a-letter-to-luna.json](./297417-a-letter-to-luna.json) |
 | A Letter to You! | 157438 | [157438-a-letter-to-you.json](./157438-a-letter-to-you.json) |
 | A Life in Music | 314381 | [314381-a-life-in-music.json](./314381-a-life-in-music.json) |
 | A Life of Logic | 256243 | [256243-a-life-of-logic.json](./256243-a-life-of-logic.json) |
@@ -867,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Promise Best Left Unkept: Aya Edition | 385835 | [385835-a-promise-best-left-unkept-aya-edition.json](./385835-a-promise-best-left-unkept-aya-edition.json) |
 | A Proper Cup of Tea | 294537 | [294537-a-proper-cup-of-tea.json](./294537-a-proper-cup-of-tea.json) |
 | A Purrtato Tail: By the Light of the Elderstar | 89482 | [89482-a-purrtato-tail-by-the-light-of-the-elderstar.json](./89482-a-purrtato-tail-by-the-light-of-the-elderstar.json) |
+| A Q Serial Gun | 298514 | [298514-a-q-serial-gun.json](./298514-a-q-serial-gun.json) |
 | A Quest That Became Legend | 217294 | [217294-a-quest-that-became-legend.json](./217294-a-quest-that-became-legend.json) |
 | A Quest to Be the Best | 392242 | [392242-a-quest-to-be-the-best.json](./392242-a-quest-to-be-the-best.json) |
 | A Quest Too Far | 23509 | [23509-a-quest-too-far.json](./23509-a-quest-too-far.json) |
@@ -1000,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Snowman's Chance | 244154 | [244154-a-snowmans-chance.json](./244154-a-snowmans-chance.json) |
 | A Sold House | 133785 | [133785-a-sold-house.json](./133785-a-sold-house.json) |
 | A Soldier's Struggle | 385712 | [385712-a-soldiers-struggle.json](./385712-a-soldiers-struggle.json) |
+| A Solitaire Mystery | 297992 | [297992-a-solitaire-mystery.json](./297992-a-solitaire-mystery.json) |
 | A Solution | 331792 | [331792-a-solution.json](./331792-a-solution.json) |
 | A Song for Viggo | 61398 | [61398-a-song-for-viggo.json](./61398-a-song-for-viggo.json) |
 | A song in the void | 76325 | [76325-a-song-in-the-void.json](./76325-a-song-in-the-void.json) |
@@ -1098,6 +1102,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Taste for Murder | 90881 | [90881-a-taste-for-murder.json](./90881-a-taste-for-murder.json) |
 | A Taste of Home | 380772 | [380772-a-taste-of-home.json](./380772-a-taste-of-home.json) |
 | A Tasting Flight of Names | 315625 | [315625-a-tasting-flight-of-names.json](./315625-a-tasting-flight-of-names.json) |
+| A Tavern at Night | 299183 | [299183-a-tavern-at-night.json](./299183-a-tavern-at-night.json) |
+| A Tavern at Night: Firelight | 299184 | [299184-a-tavern-at-night-firelight.json](./299184-a-tavern-at-night-firelight.json) |
 | A Technician's Nightmare | 280677 | [280677-a-technicians-nightmare.json](./280677-a-technicians-nightmare.json) |
 | A Tempting Life with My Neighbor | 420679 | [420679-a-tempting-life-with-my-neighbor.json](./420679-a-tempting-life-with-my-neighbor.json) |
 | A Test Before Jianghu | 235278 | [235278-a-test-before-jianghu.json](./235278-a-test-before-jianghu.json) |
@@ -2789,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adult Film Cameraman | 85954 | [85954-adult-film-cameraman.json](./85954-adult-film-cameraman.json) |
 | Adult for Sex Motel | 288894 | [288894-adult-for-sex-motel.json](./288894-adult-for-sex-motel.json) |
 | Adult Math | 113412 | [113412-adult-math.json](./113412-adult-math.json) |
+| Adult Puzzle: Hentai Maid Aruha | 298606 | [298606-adult-puzzle-hentai-maid-aruha.json](./298606-adult-puzzle-hentai-maid-aruha.json) |
 | Adult Puzzle: My Cute Neighbor Serene | 274684 | [274684-adult-puzzle-my-cute-neighbor-serene.json](./274684-adult-puzzle-my-cute-neighbor-serene.json) |
 | Adult Puzzle: My Pretty Neighbor Chloe | 270861 | [270861-adult-puzzle-my-pretty-neighbor-chloe.json](./270861-adult-puzzle-my-pretty-neighbor-chloe.json) |
 | Adult Puzzles: CamGirls | 286454 | [286454-adult-puzzles-camgirls.json](./286454-adult-puzzles-camgirls.json) |
@@ -2912,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventopia | 355216 | [355216-adventopia.json](./355216-adventopia.json) |
 | Adventsquiz | 72266 | [72266-adventsquiz.json](./72266-adventsquiz.json) |
 | Adventure | 12239 | [12239-adventure.json](./12239-adventure.json) |
+| Adventure | 299186 | [299186-adventure.json](./299186-adventure.json) |
 | Adventure | 8253 | [8253-adventure.json](./8253-adventure.json) |
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
 | Adventure 3: Mission Impossible | 41189 | [41189-adventure-3-mission-impossible.json](./41189-adventure-3-mission-impossible.json) |
@@ -4860,6 +4868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airstrip DLC and Can Touch This DLC Bundle | 305497 | [305497-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./305497-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
 | Airtight | 153214 | [153214-airtight.json](./153214-airtight.json) |
 | Airtight City 1.0 | 119724 | [119724-airtight-city-1-0.json](./119724-airtight-city-1-0.json) |
+| Airtime Media | 297435 | [297435-airtime-media.json](./297435-airtime-media.json) |
 | AirTycoon 3 | 101538 | [101538-airtycoon-3.json](./101538-airtycoon-3.json) |
 | AirTycoon 5 | 106756 | [106756-airtycoon-5.json](./106756-airtycoon-5.json) |
 | AirTycoon Online. | 256247 | [256247-airtycoon-online.json](./256247-airtycoon-online.json) |
@@ -6133,6 +6142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Fall Down | 34675 | [34675-all-fall-down.json](./34675-all-fall-down.json) |
 | All For Nought: Tic Tac Toe | 155662 | [155662-all-for-nought-tic-tac-toe.json](./155662-all-for-nought-tic-tac-toe.json) |
 | All For One | 111201 | [111201-all-for-one.json](./111201-all-for-one.json) |
+| All Fridges are Psychotic | 298608 | [298608-all-fridges-are-psychotic.json](./298608-all-fridges-are-psychotic.json) |
 | All Goblin | 243108 | [243108-all-goblin.json](./243108-all-goblin.json) |
 | All Good Things | 63812 | [63812-all-good-things.json](./63812-all-good-things.json) |
 | All Grown Up Krazy Karts | 321770 | [321770-all-grown-up-krazy-karts.json](./321770-all-grown-up-krazy-karts.json) |
@@ -10598,6 +10608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ninja-Kid | 75703 | [75703-arcade-archives-ninja-kid.json](./75703-arcade-archives-ninja-kid.json) |
 | Arcade Archives: Ninja-Kid II | 111458 | [111458-arcade-archives-ninja-kid-ii.json](./111458-arcade-archives-ninja-kid-ii.json) |
 | Arcade Archives: Nova 2001 | 75701 | [75701-arcade-archives-nova-2001.json](./75701-arcade-archives-nova-2001.json) |
+| Arcade Archives: Numan Athletics | 299179 | [299179-arcade-archives-numan-athletics.json](./299179-arcade-archives-numan-athletics.json) |
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
 | Arcade Archives: P-47 | 135583 | [135583-arcade-archives-p-47.json](./135583-arcade-archives-p-47.json) |
 | Arcade Archives: P.O.W. - Prisoners of War | 131846 | [131846-arcade-archives-p-o-w-prisoners-of-war.json](./131846-arcade-archives-p-o-w-prisoners-of-war.json) |
@@ -11492,6 +11503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arevan | 34906 | [34906-arevan.json](./34906-arevan.json) |
 | Arevoatl seven coins | 102921 | [102921-arevoatl-seven-coins.json](./102921-arevoatl-seven-coins.json) |
 | Arex | 55886 | [55886-arex.json](./55886-arex.json) |
+| Arfgaldt | 298525 | [298525-arfgaldt.json](./298525-arfgaldt.json) |
 | Argamasa | 266133 | [266133-argamasa.json](./266133-argamasa.json) |
 | Argebe | 333513 | [333513-argebe.json](./333513-argebe.json) |
 | Argentum Forever | 337051 | [337051-argentum-forever.json](./337051-argentum-forever.json) |
@@ -12804,6 +12816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asian Actors Wanted | 183243 | [183243-asian-actors-wanted.json](./183243-asian-actors-wanted.json) |
 | Asian Cargo Sim | 224115 | [224115-asian-cargo-sim.json](./224115-asian-cargo-sim.json) |
 | Asian Dynamite | 39645 | [39645-asian-dynamite.json](./39645-asian-dynamite.json) |
+| Asian Foxes | 298609 | [298609-asian-foxes.json](./298609-asian-foxes.json) |
 | Asian Mahjong | 164270 | [164270-asian-mahjong.json](./164270-asian-mahjong.json) |
 | Asian Riddles 2 | 88599 | [88599-asian-riddles-2.json](./88599-asian-riddles-2.json) |
 | Asian Riddles 4 | 90512 | [90512-asian-riddles-4.json](./90512-asian-riddles-4.json) |
@@ -13531,11 +13544,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astride | 216726 | [216726-astride.json](./216726-astride.json) |
 | Astro & Suzy Go to the Circus | 397071 | [397071-astro-and-suzy-go-to-the-circus.json](./397071-astro-and-suzy-go-to-the-circus.json) |
 | Astro Ace | 165737 | [165737-astro-ace.json](./165737-astro-ace.json) |
+| Astro Aegis | 297423 | [297423-astro-aegis.json](./297423-astro-aegis.json) |
 | Astro Aqua Kitty | 145655 | [145655-astro-aqua-kitty.json](./145655-astro-aqua-kitty.json) |
 | Astro Aqua Kitty: Limited Edition | 147771 | [147771-astro-aqua-kitty-limited-edition.json](./147771-astro-aqua-kitty-limited-edition.json) |
 | Astro Arena | 338169 | [338169-astro-arena.json](./338169-astro-arena.json) |
 | Astro Arena | 408493 | [408493-astro-arena.json](./408493-astro-arena.json) |
 | Astro Assembler | 71506 | [71506-astro-assembler.json](./71506-astro-assembler.json) |
+| Astro Attack | 298610 | [298610-astro-attack.json](./298610-astro-attack.json) |
 | Astro Avenger II | 51211 | [51211-astro-avenger-ii.json](./51211-astro-avenger-ii.json) |
 | Astro Bandits | 201662 | [201662-astro-bandits.json](./201662-astro-bandits.json) |
 | Astro Battlers TD | 203241 | [203241-astro-battlers-td.json](./203241-astro-battlers-td.json) |
