@@ -2646,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Slice 2 | 185653 | [185653-fat-slice-2.json](./185653-fat-slice-2.json) |
 | Fat Sonic | 330866 | [330866-fat-sonic.json](./330866-fat-sonic.json) |
 | Fat Worm Blows a Sparky | 37075 | [37075-fat-worm-blows-a-sparky.json](./37075-fat-worm-blows-a-sparky.json) |
+| Fat-Frumos & The Solomonar | 298541 | [298541-fat-frumos-and-the-solomonar.json](./298541-fat-frumos-and-the-solomonar.json) |
 | FAT-stronaut | 185352 | [185352-fat-stronaut.json](./185352-fat-stronaut.json) |
 | Fat[EX] Courier Simulator | 106652 | [106652-fat-ex-courier-simulator.json](./106652-fat-ex-courier-simulator.json) |
 | Fata Deum | 122084 | [122084-fata-deum.json](./122084-fata-deum.json) |
@@ -5749,6 +5750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishy | 104572 | [104572-fishy.json](./104572-fishy.json) |
 | Fishy | 422039 | [422039-fishy.json](./422039-fishy.json) |
 | Fishy 3D | 139409 | [139409-fishy-3d.json](./139409-fishy-3d.json) |
+| Fishy Bits 2 | 297528 | [297528-fishy-bits-2.json](./297528-fishy-bits-2.json) |
 | Fishy Business | 376818 | [376818-fishy-business.json](./376818-fishy-business.json) |
 | Fishy Business | 385373 | [385373-fishy-business.json](./385373-fishy-business.json) |
 | Fishy But In 2.5D | 163807 | [163807-fishy-but-in-2-5d.json](./163807-fishy-but-in-2-5d.json) |
@@ -8489,6 +8491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift Certified: Stacked and Loaded | 344518 | [344518-forklift-certified-stacked-and-loaded.json](./344518-forklift-certified-stacked-and-loaded.json) |
 | Forklift Driving Simulator VR | 332891 | [332891-forklift-driving-simulator-vr.json](./332891-forklift-driving-simulator-vr.json) |
 | Forklift Extreme | 207892 | [207892-forklift-extreme.json](./207892-forklift-extreme.json) |
+| Forklift Extreme Simulator 2 | 297522 | [297522-forklift-extreme-simulator-2.json](./297522-forklift-extreme-simulator-2.json) |
 | Forklift Extreme: Santa's Workshop | 231287 | [231287-forklift-extreme-santas-workshop.json](./231287-forklift-extreme-santas-workshop.json) |
 | Forklift Extreme: Ultra DLC Pack | 252405 | [252405-forklift-extreme-ultra-dlc-pack.json](./252405-forklift-extreme-ultra-dlc-pack.json) |
 | Forklift Extreme: Ultra Edition | 252404 | [252404-forklift-extreme-ultra-edition.json](./252404-forklift-extreme-ultra-edition.json) |
@@ -11262,6 +11265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Fruit Merge | 305388 | [305388-fun-fruit-merge.json](./305388-fun-fruit-merge.json) |
 | Fun Goat Facts | 420191 | [420191-fun-goat-facts.json](./420191-fun-goat-facts.json) |
 | Fun Gus | 310159 | [310159-fun-gus.json](./310159-fun-gus.json) |
+| Fun Hills! | 297517 | [297517-fun-hills.json](./297517-fun-hills.json) |
 | Fun Home | 374298 | [374298-fun-home.json](./374298-fun-home.json) |
 | Fun Hospital | 241814 | [241814-fun-hospital.json](./241814-fun-hospital.json) |
 | Fun House | 200396 | [200396-fun-house.json](./200396-fun-house.json) |
