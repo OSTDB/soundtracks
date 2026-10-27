@@ -6205,6 +6205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide | 183997 | [183997-hide.json](./183997-hide.json) |
 | Hide | 282234 | [282234-hide.json](./282234-hide.json) |
 | Hide 'n Heist | 346160 | [346160-hide-n-heist.json](./346160-hide-n-heist.json) |
+| Hide 'N Seek! | 317891 | [317891-hide-n-seek.json](./317891-hide-n-seek.json) |
 | Hide 'N Seek!: Complete Edition | 324377 | [324377-hide-n-seek-complete-edition.json](./324377-hide-n-seek-complete-edition.json) |
 | Hide 'N Seek!: Foes DLC | 317954 | [317954-hide-n-seek-foes-dlc.json](./317954-hide-n-seek-foes-dlc.json) |
 | Hide 'N Seek!: Friends DLC | 317955 | [317955-hide-n-seek-friends-dlc.json](./317955-hide-n-seek-friends-dlc.json) |
