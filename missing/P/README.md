@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacapong | 176335 | [176335-pacapong.json](./176335-pacapong.json) |
 | Pacar | 6122 | [6122-pacar.json](./6122-pacar.json) |
 | Pacar Animal | 106479 | [106479-pacar-animal.json](./106479-pacar-animal.json) |
+| PaCc and Bomber: Maze Blast | 302971 | [302971-pacc-and-bomber-maze-blast.json](./302971-pacc-and-bomber-maze-blast.json) |
 | Paccarat | 378250 | [378250-paccarat.json](./378250-paccarat.json) |
 | Paccie | 241879 | [241879-paccie.json](./241879-paccie.json) |
 | Pace Car Pro | 110853 | [110853-pace-car-pro.json](./110853-pace-car-pro.json) |
@@ -1153,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panthera Frontier | 193725 | [193725-panthera-frontier.json](./193725-panthera-frontier.json) |
 | Panties Attack | 297173 | [297173-panties-attack.json](./297173-panties-attack.json) |
 | Panties of Rage | 109604 | [109604-panties-of-rage.json](./109604-panties-of-rage.json) |
+| Pantless | 302893 | [302893-pantless.json](./302893-pantless.json) |
 | Pantomime | 341597 | [341597-pantomime.json](./341597-pantomime.json) |
 | Pantomime Horse Obstacle Course | 408018 | [408018-pantomime-horse-obstacle-course.json](./408018-pantomime-horse-obstacle-course.json) |
 | Pantropy | 77611 | [77611-pantropy.json](./77611-pantropy.json) |
@@ -7824,6 +7826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Party Time | 343732 | [343732-planet-party-time.json](./343732-planet-party-time.json) |
 | Planet Patrol | 18476 | [18476-planet-patrol.json](./18476-planet-patrol.json) |
 | Planet Pilots | 59647 | [59647-planet-pilots.json](./59647-planet-pilots.json) |
+| Planet Prospector | 302911 | [302911-planet-prospector.json](./302911-planet-prospector.json) |
 | Planet Protector VR | 67939 | [67939-planet-protector-vr.json](./67939-planet-protector-vr.json) |
 | Planet Punch | 332306 | [332306-planet-punch.json](./332306-planet-punch.json) |
 | Planet Puzzle League | 23093 | [23093-planet-puzzle-league.json](./23093-planet-puzzle-league.json) |
