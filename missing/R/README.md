@@ -9901,6 +9901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPaints | 91727 | [91727-rpaints.json](./91727-rpaints.json) |
 | RPG Alchemy | 258092 | [258092-rpg-alchemy.json](./258092-rpg-alchemy.json) |
 | RPG Alchemy: Bestiary I | 324487 | [324487-rpg-alchemy-bestiary-i.json](./324487-rpg-alchemy-bestiary-i.json) |
+| RPG Alchemy: Spell I | 308835 | [308835-rpg-alchemy-spell-i.json](./308835-rpg-alchemy-spell-i.json) |
 | RPG Boss Battle | 104441 | [104441-rpg-boss-battle.json](./104441-rpg-boss-battle.json) |
 | RPG Bundle | 263559 | [263559-rpg-bundle.json](./263559-rpg-bundle.json) |
 | RPG Chess | 325336 | [325336-rpg-chess.json](./325336-rpg-chess.json) |
