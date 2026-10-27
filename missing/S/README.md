@@ -6122,6 +6122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shallow Swing | 83801 | [83801-shallow-swing.json](./83801-shallow-swing.json) |
 | Shallow World | 269458 | [269458-shallow-world.json](./269458-shallow-world.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
+| Shalnor Legends Double Bundle | 283199 | [283199-shalnor-legends-double-bundle.json](./283199-shalnor-legends-double-bundle.json) |
 | Shalnor Legends: Sacred Lands | 69498 | [69498-shalnor-legends-sacred-lands.json](./69498-shalnor-legends-sacred-lands.json) |
 | Shalnor: Silverwind Saga | 319443 | [319443-shalnor-silverwind-saga.json](./319443-shalnor-silverwind-saga.json) |
 | Shalnor: Silverwind Saga 2 | 391012 | [391012-shalnor-silverwind-saga-2.json](./391012-shalnor-silverwind-saga-2.json) |
@@ -7005,6 +7006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
 | Shimapanzer Strike! | 298075 | [298075-shimapanzer-strike.json](./298075-shimapanzer-strike.json) |
 | Shime Houmeichou | 415071 | [415071-shime-houmeichou.json](./415071-shime-houmeichou.json) |
+| Shimizu Ritual | 283338 | [283338-shimizu-ritual.json](./283338-shimizu-ritual.json) |
 | Shimmer | 105213 | [105213-shimmer.json](./105213-shimmer.json) |
 | Shimmer's Quest: Way of the Whoop | 361076 | [361076-shimmers-quest-way-of-the-whoop.json](./361076-shimmers-quest-way-of-the-whoop.json) |
 | Shimokita Rose & Tears | 303298 | [303298-shimokita-rose-and-tears.json](./303298-shimokita-rose-and-tears.json) |
@@ -12751,6 +12753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snap the Cat | 406299 | [406299-snap-the-cat.json](./406299-snap-the-cat.json) |
 | Snap the Sentinel | 141867 | [141867-snap-the-sentinel.json](./141867-snap-the-sentinel.json) |
 | Snap Together | 276956 | [276956-snap-together.json](./276956-snap-together.json) |
+| Snap Together + Pool Together Bundle | 283200 | [283200-snap-together-pool-together-bundle.json](./283200-snap-together-pool-together-bundle.json) |
 | Snap Together: New Challenges | 283243 | [283243-snap-together-new-challenges.json](./283243-snap-together-new-challenges.json) |
 | Snap Together: New Challenges | 283257 | [283257-snap-together-new-challenges.json](./283257-snap-together-new-challenges.json) |
 | Snap-A-Game: Classic RPG | 288680 | [288680-snap-a-game-classic-rpg.json](./288680-snap-a-game-classic-rpg.json) |
@@ -18617,6 +18620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Quest: A Slot Adventure | 220670 | [220670-spin-quest-a-slot-adventure.json](./220670-spin-quest-a-slot-adventure.json) |
 | Spin Rhythm | 107592 | [107592-spin-rhythm.json](./107592-spin-rhythm.json) |
 | Spin Rhythm XD | 122416 | [122416-spin-rhythm-xd.json](./122416-spin-rhythm-xd.json) |
+| Spin Rhythm XD + Monstercat Bundle | 283201 | [283201-spin-rhythm-xd-monstercat-bundle.json](./283201-spin-rhythm-xd-monstercat-bundle.json) |
 | Spin Rhythm XD: Chillhop | 332606 | [332606-spin-rhythm-xd-chillhop.json](./332606-spin-rhythm-xd-chillhop.json) |
 | Spin Rhythm XD: Indie Pack DLC | 379593 | [379593-spin-rhythm-xd-indie-pack-dlc.json](./379593-spin-rhythm-xd-indie-pack-dlc.json) |
 | Spin Rhythm XD: Supporter Pack DLC | 273312 | [273312-spin-rhythm-xd-supporter-pack-dlc.json](./273312-spin-rhythm-xd-supporter-pack-dlc.json) |
@@ -28046,6 +28050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Skelemania | 74875 | [74875-super-skelemania.json](./74875-super-skelemania.json) |
 | Super Skeleton Butler | 237191 | [237191-super-skeleton-butler.json](./237191-super-skeleton-butler.json) |
 | Super Skelly Belly | 184929 | [184929-super-skelly-belly.json](./184929-super-skelly-belly.json) |
+| Super Sketch | 283010 | [283010-super-sketch.json](./283010-super-sketch.json) |
 | Super Sketchy Party | 167294 | [167294-super-sketchy-party.json](./167294-super-sketchy-party.json) |
 | Super Skidmarks Data Disks | 78315 | [78315-super-skidmarks-data-disks.json](./78315-super-skidmarks-data-disks.json) |
 | Super Skull Smash GO! | 63924 | [63924-super-skull-smash-go.json](./63924-super-skull-smash-go.json) |
