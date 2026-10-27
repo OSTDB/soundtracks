@@ -6795,7 +6795,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Dutchman Mine | 12670 | [12670-lost-dutchman-mine.json](./12670-lost-dutchman-mine.json) |
 | Lost Dutchman's Gold | 25133 | [25133-lost-dutchmans-gold.json](./25133-lost-dutchmans-gold.json) |
 | Lost Earth | 138529 | [138529-lost-earth.json](./138529-lost-earth.json) |
-| Lost Echo | 39007 | [39007-lost-echo.json](./39007-lost-echo.json) |
 | Lost Eclipse | 351153 | [351153-lost-eclipse.json](./351153-lost-eclipse.json) |
 | Lost Ed | 156062 | [156062-lost-ed.json](./156062-lost-ed.json) |
 | Lost Eden | 2167 | [2167-lost-eden.json](./2167-lost-eden.json) |
