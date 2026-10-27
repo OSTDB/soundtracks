@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q | 80330 | [80330-q.json](./80330-q.json) |
 | Q Billion | 49026 | [49026-q-billion.json](./49026-q-billion.json) |
 | Q Remastered | 222250 | [222250-q-remastered.json](./222250-q-remastered.json) |
+| Q Steps | 327103 | [327103-q-steps.json](./327103-q-steps.json) |
 | Q Transformers: Kaettekita Convoy no Nazo | 60993 | [60993-q-transformers-kaettekita-convoy-no-nazo.json](./60993-q-transformers-kaettekita-convoy-no-nazo.json) |
 | Q-Ball: Billiards Master | 43272 | [43272-q-ball-billiards-master.json](./43272-q-ball-billiards-master.json) |
 | Q-j-civilization-s | 302787 | [302787-q-j-civilization-s.json](./302787-q-j-civilization-s.json) |
@@ -173,6 +174,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QS Invaders | 152114 | [152114-qs-invaders.json](./152114-qs-invaders.json) |
 | QS Monkey Land: King of Fruits | 301355 | [301355-qs-monkey-land-king-of-fruits.json](./301355-qs-monkey-land-king-of-fruits.json) |
 | QS Scramble | 319595 | [319595-qs-scramble.json](./319595-qs-scramble.json) |
+| QSteps 1 | 327142 | [327142-qsteps-1.json](./327142-qsteps-1.json) |
+| QSteps 2 | 327143 | [327143-qsteps-2.json](./327143-qsteps-2.json) |
 | QT | 130386 | [130386-qt.json](./130386-qt.json) |
 | QTI: Quantum Tunnel Idle | 388154 | [388154-qti-quantum-tunnel-idle.json](./388154-qti-quantum-tunnel-idle.json) |
 | Qti129 | 416191 | [416191-qti129.json](./416191-qti129.json) |
