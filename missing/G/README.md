@@ -4056,6 +4056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiators Tale | 248001 | [248001-gladiators-tale.json](./248001-gladiators-tale.json) |
 | Gladiators: Ludus Manager | 116213 | [116213-gladiators-ludus-manager.json](./116213-gladiators-ludus-manager.json) |
 | Gladiators: The Unconquered | 132535 | [132535-gladiators-the-unconquered.json](./132535-gladiators-the-unconquered.json) |
+| Gladiatory | 290896 | [290896-gladiatory.json](./290896-gladiatory.json) |
 | Gladihaters | 149405 | [149405-gladihaters.json](./149405-gladihaters.json) |
 | Gladihoppers | 103356 | [103356-gladihoppers.json](./103356-gladihoppers.json) |
 | Gladii | 158922 | [158922-gladii.json](./158922-gladii.json) |
@@ -5355,6 +5356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Going Up | 327138 | [327138-going-up.json](./327138-going-up.json) |
 | Going Up? | 120124 | [120124-going-up.json](./120124-going-up.json) |
 | Going Up?? | 282789 | [282789-going-up.json](./282789-going-up.json) |
+| Going Upstream | 290907 | [290907-going-upstream.json](./290907-going-upstream.json) |
 | Goinund | 105095 | [105095-goinund.json](./105095-goinund.json) |
 | Gojira tai 3 Daikaijuu | 75884 | [75884-gojira-tai-3-daikaijuu.json](./75884-gojira-tai-3-daikaijuu.json) |
 | Gojira-kun | 75886 | [75886-gojira-kun.json](./75886-gojira-kun.json) |
