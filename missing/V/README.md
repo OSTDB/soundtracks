@@ -2259,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Farm 2 | 53157 | [53157-virtual-farm-2.json](./53157-virtual-farm-2.json) |
 | Virtual Fight World | 311231 | [311231-virtual-fight-world.json](./311231-virtual-fight-world.json) |
 | Virtual Fighting Championship | 103360 | [103360-virtual-fighting-championship.json](./103360-virtual-fighting-championship.json) |
+| Virtual Firearm Simulations | 308186 | [308186-virtual-firearm-simulations.json](./308186-virtual-firearm-simulations.json) |
 | Virtual Fishing | 50597 | [50597-virtual-fishing.json](./50597-virtual-fishing.json) |
 | Virtual Foosball | 99151 | [99151-virtual-foosball.json](./99151-virtual-foosball.json) |
 | Virtual Frenzy: Nexus Corps | 349970 | [349970-virtual-frenzy-nexus-corps.json](./349970-virtual-frenzy-nexus-corps.json) |
