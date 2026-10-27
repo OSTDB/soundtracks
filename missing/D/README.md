@@ -5968,6 +5968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descended | 265589 | [265589-descended.json](./265589-descended.json) |
 | Descenders | 52200 | [52200-descenders.json](./52200-descenders.json) |
 | Descenders Next | 312871 | [312871-descenders-next.json](./312871-descenders-next.json) |
+| Descending | 315450 | [315450-descending.json](./315450-descending.json) |
 | Descending: House of Nightmares | 171614 | [171614-descending-house-of-nightmares.json](./171614-descending-house-of-nightmares.json) |
 | Descension | 208447 | [208447-descension.json](./208447-descension.json) |
 | Descension | 352183 | [352183-descension.json](./352183-descension.json) |
