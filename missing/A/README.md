@@ -8020,6 +8020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Legion: Future Dream - Green | 323231 | [323231-angel-legion-future-dream-green.json](./323231-angel-legion-future-dream-green.json) |
 | Angel Legion: Oriental - Purple | 254160 | [254160-angel-legion-oriental-purple.json](./254160-angel-legion-oriental-purple.json) |
 | Angel Legion: Secret Gift - Pink | 302574 | [302574-angel-legion-secret-gift-pink.json](./302574-angel-legion-secret-gift-pink.json) |
+| Angel Legion: Secret Gift - Purple | 312052 | [312052-angel-legion-secret-gift-purple.json](./312052-angel-legion-secret-gift-purple.json) |
 | Angel Legion: Seeker of Hearts - Blue | 302573 | [302573-angel-legion-seeker-of-hearts-blue.json](./302573-angel-legion-seeker-of-hearts-blue.json) |
 | Angel Legion: Shadow Woven - Blue | 323253 | [323253-angel-legion-shadow-woven-blue.json](./323253-angel-legion-shadow-woven-blue.json) |
 | Angel Legion: Shadow Woven - Green | 302575 | [302575-angel-legion-shadow-woven-green.json](./302575-angel-legion-shadow-woven-green.json) |
