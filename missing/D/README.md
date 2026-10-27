@@ -2604,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Super Hero Girls | 58643 | [58643-dc-super-hero-girls.json](./58643-dc-super-hero-girls.json) |
 | DC Super Hero Girls: Food Fight | 316786 | [316786-dc-super-hero-girls-food-fight.json](./316786-dc-super-hero-girls-food-fight.json) |
 | DC Super Hero Girls: Teen Power | 143617 | [143617-dc-super-hero-girls-teen-power.json](./143617-dc-super-hero-girls-teen-power.json) |
+| DC Task Force | 327754 | [327754-dc-task-force.json](./327754-dc-task-force.json) |
 | DC Universe Online | 576 | [576-dc-universe-online.json](./576-dc-universe-online.json) |
 | DC Universe Online: Episode 1 - Fight for the light | 271143 | [271143-dc-universe-online-episode-1-fight-for-the-light.json](./271143-dc-universe-online-episode-1-fight-for-the-light.json) |
 | DC Universe Online: Episode 10 - Amazon Fury Part I | 271155 | [271155-dc-universe-online-episode-10-amazon-fury-part-i.json](./271155-dc-universe-online-episode-10-amazon-fury-part-i.json) |
@@ -8025,6 +8026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Run DX | 16636 | [16636-dino-run-dx.json](./16636-dino-run-dx.json) |
 | Dino Run SE | 64965 | [64965-dino-run-se.json](./64965-dino-run-se.json) |
 | Dino Run: Marathon of Doom | 74166 | [74166-dino-run-marathon-of-doom.json](./74166-dino-run-marathon-of-doom.json) |
+| Dino Running from a Furry: Gamesforfarm | 327727 | [327727-dino-running-from-a-furry-gamesforfarm.json](./327727-dino-running-from-a-furry-gamesforfarm.json) |
 | Dino Rush | 343481 | [343481-dino-rush.json](./343481-dino-rush.json) |
 | Dino Rush Race | 238400 | [238400-dino-rush-race.json](./238400-dino-rush-race.json) |
 | Dino Safari 2 | 96771 | [96771-dino-safari-2.json](./96771-dino-safari-2.json) |
@@ -8735,6 +8737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess: Cinderella's Magic Wishes | 79552 | [79552-disney-princess-cinderellas-magic-wishes.json](./79552-disney-princess-cinderellas-magic-wishes.json) |
 | Disney Princess: Enchanted Journey | 17829 | [17829-disney-princess-enchanted-journey.json](./17829-disney-princess-enchanted-journey.json) |
 | Disney Princess: Enchanting Storybooks | 5187 | [5187-disney-princess-enchanting-storybooks.json](./5187-disney-princess-enchanting-storybooks.json) |
+| Disney Princess: Magical Academy | 327708 | [327708-disney-princess-magical-academy.json](./327708-disney-princess-magical-academy.json) |
 | Disney Princess: Magical Adventures | 221671 | [221671-disney-princess-magical-adventures.json](./221671-disney-princess-magical-adventures.json) |
 | Disney Princess: Majestic Quest | 138680 | [138680-disney-princess-majestic-quest.json](./138680-disney-princess-majestic-quest.json) |
 | Disney Princess: My Fairytale Adventure | 36228 | [36228-disney-princess-my-fairytale-adventure.json](./36228-disney-princess-my-fairytale-adventure.json) |
@@ -15777,6 +15780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunzhin | 2866 | [2866-dunzhin.json](./2866-dunzhin.json) |
 | Duo | 30003 | [30003-duo.json](./30003-duo.json) |
 | Duo | 32384 | [32384-duo.json](./32384-duo.json) |
+| Duo | 327753 | [327753-duo.json](./327753-duo.json) |
 | Duō Bǎo Xiūxiān | 188524 | [188524-duo-bao-xiuxian.json](./188524-duo-bao-xiuxian.json) |
 | Duo Defenders | 172157 | [172157-duo-defenders.json](./172157-duo-defenders.json) |
 | Duo Games | 351227 | [351227-duo-games.json](./351227-duo-games.json) |
