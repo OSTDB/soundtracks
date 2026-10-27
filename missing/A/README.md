@@ -4245,6 +4245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Chou Aniki | 6475 | [6475-ai-chou-aniki.json](./6475-ai-chou-aniki.json) |
 | AI Confidential | 304595 | [304595-ai-confidential.json](./304595-ai-confidential.json) |
 | Ai Dawn | 368678 | [368678-ai-dawn.json](./368678-ai-dawn.json) |
+| AI Detective Collection | 302397 | [302397-ai-detective-collection.json](./302397-ai-detective-collection.json) |
 | AI Doctor | 319307 | [319307-ai-doctor.json](./319307-ai-doctor.json) |
 | AI Dummy | 75434 | [75434-ai-dummy.json](./75434-ai-dummy.json) |
 | AI Dungeon | 203870 | [203870-ai-dungeon.json](./203870-ai-dungeon.json) |
