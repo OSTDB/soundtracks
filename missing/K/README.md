@@ -952,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaseki Sousei Reborn | 228578 | [228578-kaseki-sousei-reborn.json](./228578-kaseki-sousei-reborn.json) |
 | Kaseki Sousei Reborn II: Monster Digger | 228579 | [228579-kaseki-sousei-reborn-ii-monster-digger.json](./228579-kaseki-sousei-reborn-ii-monster-digger.json) |
 | Kasha vs. Kritters | 382302 | [382302-kasha-vs-kritters.json](./382302-kasha-vs-kritters.json) |
+| Kashido | 289368 | [289368-kashido.json](./289368-kashido.json) |
 | Kashimashi Girl Meets Girl: Hajimete no Natsu Monogatari | 127900 | [127900-kashimashi-girl-meets-girl-hajimete-no-natsu-monogatari.json](./127900-kashimashi-girl-meets-girl-hajimete-no-natsu-monogatari.json) |
 | Kashiri Kyoufu no Shashin | 261374 | [261374-kashiri-kyoufu-no-shashin.json](./261374-kashiri-kyoufu-no-shashin.json) |
 | Kashiwa-Mochi Kai | 82575 | [82575-kashiwa-mochi-kai.json](./82575-kashiwa-mochi-kai.json) |
@@ -2391,7 +2392,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4236,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kohan II: Kings of War | 766 | [766-kohan-ii-kings-of-war.json](./766-kohan-ii-kings-of-war.json) |
 | Kohan: Immortal Sovereigns | 767 | [767-kohan-immortal-sovereigns.json](./767-kohan-immortal-sovereigns.json) |
 | Kohinata Yuzuki to Shoya Shitai!: Kemomimi Kamisama to Yukemuri Koimoyou | 396942 | [396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json](./396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json) |
+| Kohitsuji Hokaku Keikaku! Sweet Boys Life | 289362 | [289362-kohitsuji-hokaku-keikaku-sweet-boys-life.json](./289362-kohitsuji-hokaku-keikaku-sweet-boys-life.json) |
 | Kohlrabi Starship | 244120 | [244120-kohlrabi-starship.json](./244120-kohlrabi-starship.json) |
 | Kohshien 4 | 37951 | [37951-kohshien-4.json](./37951-kohshien-4.json) |
 | Koi | 20035 | [20035-koi.json](./20035-koi.json) |
@@ -4535,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konosuba: God's Blessing on this Wonderful World! - Love for this Tempting Attire | 136771 | [136771-konosuba-gods-blessing-on-this-wonderful-world-love-for-this-tempting-attire.json](./136771-konosuba-gods-blessing-on-this-wonderful-world-love-for-this-tempting-attire.json) |
 | KonoSuba: God's Blessing on this Wonderful World! Judgment on this Greedy Game! | 34218 | [34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json](./34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json) |
 | Konosuba: God's Blessing on This Wonderful World! Love for These Clothes of Desire! | 259162 | [259162-konosuba-gods-blessing-on-this-wonderful-world-love-for-these-clothes-of-desire.json](./259162-konosuba-gods-blessing-on-this-wonderful-world-love-for-these-clothes-of-desire.json) |
+| Konosuba: God's Blessing on This Wonderful World! Love for These Clothes of Desire! - Limited Edition | 289349 | [289349-konosuba-gods-blessing-on-this-wonderful-world-love-for-these-clothes-of-desire-limited-edition.json](./289349-konosuba-gods-blessing-on-this-wonderful-world-love-for-these-clothes-of-desire-limited-edition.json) |
 | KonoSuba: God’s Blessing on this Wonderful World! Love for this Tempting Attire - Limited Edition | 167137 | [167137-konosuba-god-s-blessing-on-this-wonderful-world-love-for-this-tempting-attire-limited-edition.json](./167137-konosuba-god-s-blessing-on-this-wonderful-world-love-for-this-tempting-attire-limited-edition.json) |
 | KonoSuba: God's Blessing on this Wonderful World!: Aqua Special Swimsuit | 286193 | [286193-konosuba-gods-blessing-on-this-wonderful-world-aqua-special-swimsuit.json](./286193-konosuba-gods-blessing-on-this-wonderful-world-aqua-special-swimsuit.json) |
 | KonoSuba: God's Blessing on this Wonderful World!: Darkness Special Swimsuit | 286194 | [286194-konosuba-gods-blessing-on-this-wonderful-world-darkness-special-swimsuit.json](./286194-konosuba-gods-blessing-on-this-wonderful-world-darkness-special-swimsuit.json) |
@@ -4774,6 +4776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koumajou Remilia: Scarlet Symphony | 151806 | [151806-koumajou-remilia-scarlet-symphony.json](./151806-koumajou-remilia-scarlet-symphony.json) |
 | Kounai Shasei Vol.1: Yonimo H na Monogatari | 248107 | [248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json](./248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json) |
 | Kour 64 | 313667 | [313667-kour-64.json](./313667-kour-64.json) |
+| Kour.io | 289360 | [289360-kour-io.json](./289360-kour-io.json) |
 | Kouryaku Casino Bar | 37954 | [37954-kouryaku-casino-bar.json](./37954-kouryaku-casino-bar.json) |
 | Kouryu Densetsu Villgust Gaiden | 48438 | [48438-kouryu-densetsu-villgust-gaiden.json](./48438-kouryu-densetsu-villgust-gaiden.json) |
 | Kousai Toshi | 280682 | [280682-kousai-toshi.json](./280682-kousai-toshi.json) |
