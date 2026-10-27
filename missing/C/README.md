@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Sea: Norah's Diary Edition | 170032 | [170032-call-of-the-sea-norahs-diary-edition.json](./170032-call-of-the-sea-norahs-diary-edition.json) |
 | Call of the Underworld | 333653 | [333653-call-of-the-underworld.json](./333653-call-of-the-underworld.json) |
 | Call of the Void | 118610 | [118610-call-of-the-void.json](./118610-call-of-the-void.json) |
+| Call of the Void | 299714 | [299714-call-of-the-void.json](./299714-call-of-the-void.json) |
 | Call of the Wild: The Angler - Deluxe Edition | 264133 | [264133-call-of-the-wild-the-angler-deluxe-edition.json](./264133-call-of-the-wild-the-angler-deluxe-edition.json) |
 | Call of the Wild: The Angler - Japan Fishing Reserve | 331812 | [331812-call-of-the-wild-the-angler-japan-fishing-reserve.json](./331812-call-of-the-wild-the-angler-japan-fishing-reserve.json) |
 | Call of the Wild: The Angler - LakePal Bait Boat Pack | 318443 | [318443-call-of-the-wild-the-angler-lakepal-bait-boat-pack.json](./318443-call-of-the-wild-the-angler-lakepal-bait-boat-pack.json) |
@@ -6409,6 +6410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiyonofuji no Ooichou | 48536 | [48536-chiyonofuji-no-ooichou.json](./48536-chiyonofuji-no-ooichou.json) |
 | Chǐzǐ hé Xiàngpí | 99068 | [99068-chizi-he-xiangpi.json](./99068-chizi-he-xiangpi.json) |
 | Chizome Kijo | 206457 | [206457-chizome-kijo.json](./206457-chizome-kijo.json) |
+| Chizome no Hana | 299686 | [299686-chizome-no-hana.json](./299686-chizome-no-hana.json) |
 | Chkn | 34021 | [34021-chkn.json](./34021-chkn.json) |
 | Chloe Puzzle Game | 162247 | [162247-chloe-puzzle-game.json](./162247-chloe-puzzle-game.json) |
 | Chloe's Requiem | 124639 | [124639-chloes-requiem.json](./124639-chloes-requiem.json) |
@@ -6456,6 +6458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate | 54825 | [54825-chocolate.json](./54825-chocolate.json) |
 | Chocolate Cage | 283571 | [283571-chocolate-cage.json](./283571-chocolate-cage.json) |
 | Chocolate Cake | 397948 | [397948-chocolate-cake.json](./397948-chocolate-cake.json) |
+| Chocolate Carol | 299687 | [299687-chocolate-carol.json](./299687-chocolate-carol.json) |
 | Chocolate Castle | 50445 | [50445-chocolate-castle.json](./50445-chocolate-castle.json) |
 | Chocolate Cavern | 249349 | [249349-chocolate-cavern.json](./249349-chocolate-cavern.json) |
 | Chocolate Factory | 112995 | [112995-chocolate-factory.json](./112995-chocolate-factory.json) |
@@ -7838,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Heroes | 7830 | [7830-city-of-heroes.json](./7830-city-of-heroes.json) |
 | City of Jade: Imperial Frontier | 102372 | [102372-city-of-jade-imperial-frontier.json](./102372-city-of-jade-imperial-frontier.json) |
 | City of Lambs | 28095 | [28095-city-of-lambs.json](./28095-city-of-lambs.json) |
+| City of Lost Hope | 299690 | [299690-city-of-lost-hope.json](./299690-city-of-lost-hope.json) |
 | City of Love: Paris | 227511 | [227511-city-of-love-paris.json](./227511-city-of-love-paris.json) |
 | City of Mist | 112328 | [112328-city-of-mist.json](./112328-city-of-mist.json) |
 | City of Mist 2 | 123536 | [123536-city-of-mist-2.json](./123536-city-of-mist-2.json) |
@@ -12648,6 +12652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Composer | 372630 | [372630-cosmic-composer.json](./372630-cosmic-composer.json) |
 | Cosmic Concealed | 367731 | [367731-cosmic-concealed.json](./367731-cosmic-concealed.json) |
 | Cosmic Conflict | 183880 | [183880-cosmic-conflict.json](./183880-cosmic-conflict.json) |
+| Cosmic Connection | 299691 | [299691-cosmic-connection.json](./299691-cosmic-connection.json) |
 | Cosmic Consciousness | 302225 | [302225-cosmic-consciousness.json](./302225-cosmic-consciousness.json) |
 | Cosmic Consensus | 68045 | [68045-cosmic-consensus.json](./68045-cosmic-consensus.json) |
 | Cosmic Construct | 354885 | [354885-cosmic-construct.json](./354885-cosmic-construct.json) |
@@ -14587,6 +14592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Fighter 3 Pack | 131286 | [131286-crime-fighter-3-pack.json](./131286-crime-fighter-3-pack.json) |
 | Crime Fighters | 75525 | [75525-crime-fighters.json](./75525-crime-fighters.json) |
 | Crime Files Bundle | 254059 | [254059-crime-files-bundle.json](./254059-crime-files-bundle.json) |
+| Crime Investigation | 299692 | [299692-crime-investigation.json](./299692-crime-investigation.json) |
 | Crime Investigation Escape | 240203 | [240203-crime-investigation-escape.json](./240203-crime-investigation-escape.json) |
 | Crime Killer | 45101 | [45101-crime-killer.json](./45101-crime-killer.json) |
 | Crime Kings | 233489 | [233489-crime-kings.json](./233489-crime-kings.json) |
