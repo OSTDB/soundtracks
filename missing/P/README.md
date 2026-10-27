@@ -5461,6 +5461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigmarines | 386555 | [386555-pigmarines.json](./386555-pigmarines.json) |
 | Pigmen's Challenge | 379708 | [379708-pigmens-challenge.json](./379708-pigmens-challenge.json) |
 | Pigment | 377050 | [377050-pigment.json](./377050-pigment.json) |
+| Pigmenta | 287058 | [287058-pigmenta.json](./287058-pigmenta.json) |
 | Pigmentone | 32240 | [32240-pigmentone.json](./32240-pigmentone.json) |
 | Pigments | 210468 | [210468-pigments.json](./210468-pigments.json) |
 | Pigments | 222761 | [222761-pigments.json](./222761-pigments.json) |
@@ -6960,6 +6961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint 2: Definitive Edition | 275031 | [275031-pixel-paint-2-definitive-edition.json](./275031-pixel-paint-2-definitive-edition.json) |
 | Pixel Paint 2: Deluxe Edition | 256267 | [256267-pixel-paint-2-deluxe-edition.json](./256267-pixel-paint-2-deluxe-edition.json) |
 | Pixel Paint 2: Extended Edition | 263605 | [263605-pixel-paint-2-extended-edition.json](./263605-pixel-paint-2-extended-edition.json) |
+| Pixel Paint 2: GOTY Edition | 287125 | [287125-pixel-paint-2-goty-edition.json](./287125-pixel-paint-2-goty-edition.json) |
 | Pixel Paint 2: Ocean | 273308 | [273308-pixel-paint-2-ocean.json](./273308-pixel-paint-2-ocean.json) |
 | Pixel Paint 2: Platinum Edition | 283166 | [283166-pixel-paint-2-platinum-edition.json](./283166-pixel-paint-2-platinum-edition.json) |
 | Pixel Paint 2: Premium Edition | 271833 | [271833-pixel-paint-2-premium-edition.json](./271833-pixel-paint-2-premium-edition.json) |
@@ -9476,6 +9478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Emerald Legacy | 323041 | [323041-pokemon-emerald-legacy.json](./323041-pokemon-emerald-legacy.json) |
 | Pokémon Emerald Rogue | 221244 | [221244-pokemon-emerald-rogue.json](./221244-pokemon-emerald-rogue.json) |
 | Pokémon Emerald Rogue V2 | 308386 | [308386-pokemon-emerald-rogue-v2.json](./308386-pokemon-emerald-rogue-v2.json) |
+| Pokémon Emerald Z | 286922 | [286922-pokemon-emerald-z.json](./286922-pokemon-emerald-z.json) |
 | Pokémon Emerald: Double Edition | 296449 | [296449-pokemon-emerald-double-edition.json](./296449-pokemon-emerald-double-edition.json) |
 | Pokemon Empire | 327882 | [327882-pokemon-empire.json](./327882-pokemon-empire.json) |
 | Pokémon Empyrean | 221394 | [221394-pokemon-empyrean.json](./221394-pokemon-empyrean.json) |
