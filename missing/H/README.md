@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvested | 362388 | [362388-harvested.json](./362388-harvested.json) |
 | Harvestella | 206818 | [206818-harvestella.json](./206818-harvestella.json) |
 | Harvester | 2900 | [2900-harvester.json](./2900-harvester.json) |
+| Harvester | 323650 | [323650-harvester.json](./323650-harvester.json) |
 | Harvester of Dreams : Episode 1 | 81863 | [81863-harvester-of-dreams-episode-1.json](./81863-harvester-of-dreams-episode-1.json) |
 | Harvester Tractor Farming Simulator Game | 174866 | [174866-harvester-tractor-farming-simulator-game.json](./174866-harvester-tractor-farming-simulator-game.json) |
 | Harvester vs. Zombies | 409751 | [409751-harvester-vs-zombies.json](./409751-harvester-vs-zombies.json) |
@@ -2632,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeadHorse Legacy | 249908 | [249908-headhorse-legacy.json](./249908-headhorse-legacy.json) |
 | Headhunter | 4350 | [4350-headhunter.json](./4350-headhunter.json) |
 | HeadHunters | 373751 | [373751-headhunters.json](./373751-headhunters.json) |
+| Headhunters: Bang Bang | 323694 | [323694-headhunters-bang-bang.json](./323694-headhunters-bang-bang.json) |
 | Headhunting | 345130 | [345130-headhunting.json](./345130-headhunting.json) |
 | Heading Home | 278954 | [278954-heading-home.json](./278954-heading-home.json) |
 | Heading Out | 154290 | [154290-heading-out.json](./154290-heading-out.json) |
@@ -3149,6 +3151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hed the Pig | 142305 | [142305-hed-the-pig.json](./142305-hed-the-pig.json) |
 | Hedera | 135605 | [135605-hedera.json](./135605-hedera.json) |
 | Hedge Fund Tycoon | 239779 | [239779-hedge-fund-tycoon.json](./239779-hedge-fund-tycoon.json) |
+| Hedgebomber Stories: A Shy Guy's Panic | 323675 | [323675-hedgebomber-stories-a-shy-guys-panic.json](./323675-hedgebomber-stories-a-shy-guys-panic.json) |
 | Hedgeborough | 390712 | [390712-hedgeborough.json](./390712-hedgeborough.json) |
 | Hedgehog Destiny | 331744 | [331744-hedgehog-destiny.json](./331744-hedgehog-destiny.json) |
 | Hedgehog Launch | 234939 | [234939-hedgehog-launch.json](./234939-hedgehog-launch.json) |
@@ -4785,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hereford 1642 | 190138 | [190138-hereford-1642.json](./190138-hereford-1642.json) |
 | Herency | 190406 | [190406-herency.json](./190406-herency.json) |
 | Heresis | 340465 | [340465-heresis.json](./340465-heresis.json) |
+| Heresy | 323653 | [323653-heresy.json](./323653-heresy.json) |
 | Heresy | 34240 | [34240-heresy.json](./34240-heresy.json) |
 | Heresy Simulator | 174125 | [174125-heresy-simulator.json](./174125-heresy-simulator.json) |
 | Heretic + Hexen | 360141 | [360141-heretic-hexen.json](./360141-heretic-hexen.json) |
@@ -5070,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes in the Sky | 66440 | [66440-heroes-in-the-sky.json](./66440-heroes-in-the-sky.json) |
 | Heroes in the Sky-Origin | 114198 | [114198-heroes-in-the-sky-origin.json](./114198-heroes-in-the-sky-origin.json) |
 | Heroes Legend: Sotalon Era | 181591 | [181591-heroes-legend-sotalon-era.json](./181591-heroes-legend-sotalon-era.json) |
+| Heroes Lore: Wind of Soltia | 323649 | [323649-heroes-lore-wind-of-soltia.json](./323649-heroes-lore-wind-of-soltia.json) |
 | Heroes Must Die | 32947 | [32947-heroes-must-die.json](./32947-heroes-must-die.json) |
 | Heroes Must Diee | 155877 | [155877-heroes-must-diee.json](./155877-heroes-must-diee.json) |
 | Heroes Never Lose: Professor Puzzler's Perplexing Ploy | 11330 | [11330-heroes-never-lose-professor-puzzlers-perplexing-ploy.json](./11330-heroes-never-lose-professor-puzzlers-perplexing-ploy.json) |
@@ -10168,6 +10173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunters All Star Battle | 137657 | [137657-hunters-all-star-battle.json](./137657-hunters-all-star-battle.json) |
 | Hunters For Your Brain | 118804 | [118804-hunters-for-your-brain.json](./118804-hunters-for-your-brain.json) |
 | Hunters Gate | 110327 | [110327-hunters-gate.json](./110327-hunters-gate.json) |
+| Hunters Inc | 323685 | [323685-hunters-inc.json](./323685-hunters-inc.json) |
 | Hunters League | 108758 | [108758-hunters-league.json](./108758-hunters-league.json) |
 | Hunters Life | 81059 | [81059-hunters-life.json](./81059-hunters-life.json) |
 | Hunters Music World | 389059 | [389059-hunters-music-world.json](./389059-hunters-music-world.json) |
