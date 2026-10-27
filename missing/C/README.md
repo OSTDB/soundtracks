@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Bieber | 392330 | [392330-call-of-bieber.json](./392330-call-of-bieber.json) |
 | Call of Boba | 244391 | [244391-call-of-boba.json](./244391-call-of-boba.json) |
 | Call of Champions | 13175 | [13175-call-of-champions.json](./13175-call-of-champions.json) |
+| Call of Clans | 328923 | [328923-call-of-clans.json](./328923-call-of-clans.json) |
 | Call of Clans: Optional Elite Card Pack | 355221 | [355221-call-of-clans-optional-elite-card-pack.json](./355221-call-of-clans-optional-elite-card-pack.json) |
 | Call of Clans: Random Legend Card Pack | 355222 | [355222-call-of-clans-random-legend-card-pack.json](./355222-call-of-clans-random-legend-card-pack.json) |
 | Call of Coronga | 148851 | [148851-call-of-coronga.json](./148851-call-of-coronga.json) |
@@ -7024,6 +7025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Crystal | 247916 | [247916-chrono-crystal.json](./247916-chrono-crystal.json) |
 | Chrono Crystal: Factory DLC | 253497 | [253497-chrono-crystal-factory-dlc.json](./253497-chrono-crystal-factory-dlc.json) |
 | Chrono Crystal: Giant Gate DLC | 253386 | [253386-chrono-crystal-giant-gate-dlc.json](./253386-chrono-crystal-giant-gate-dlc.json) |
+| Chrono Gear: Warden of Time | 328907 | [328907-chrono-gear-warden-of-time.json](./328907-chrono-gear-warden-of-time.json) |
 | Chrono Ghost | 113417 | [113417-chrono-ghost.json](./113417-chrono-ghost.json) |
 | Chrono Hunter | 253190 | [253190-chrono-hunter.json](./253190-chrono-hunter.json) |
 | Chrono Impact | 369095 | [369095-chrono-impact.json](./369095-chrono-impact.json) |
@@ -13270,6 +13272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab Balls | 233477 | [233477-crab-balls.json](./233477-crab-balls.json) |
 | Crab Boat | 291020 | [291020-crab-boat.json](./291020-crab-boat.json) |
 | Crab Champions | 133379 | [133379-crab-champions.json](./133379-crab-champions.json) |
+| Crab Crawl | 328895 | [328895-crab-crawl.json](./328895-crab-crawl.json) |
 | Crab Digger | 236850 | [236850-crab-digger.json](./236850-crab-digger.json) |
 | Crab Digger: Tropical Island | 300858 | [300858-crab-digger-tropical-island.json](./300858-crab-digger-tropical-island.json) |
 | Crab Game 2 | 323500 | [323500-crab-game-2.json](./323500-crab-game-2.json) |
