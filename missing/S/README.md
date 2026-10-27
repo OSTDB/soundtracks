@@ -1572,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Big Adventures | 30075 | [30075-santas-big-adventures.json](./30075-santas-big-adventures.json) |
 | Santa's Big Sack | 380442 | [380442-santas-big-sack.json](./380442-santas-big-sack.json) |
 | Santa's Burnout | 390223 | [390223-santas-burnout.json](./390223-santas-burnout.json) |
+| Santa's Christmas Gift Quest | 332340 | [332340-santas-christmas-gift-quest.json](./332340-santas-christmas-gift-quest.json) |
 | Santa's Christmas Solitaire | 30362 | [30362-santas-christmas-solitaire.json](./30362-santas-christmas-solitaire.json) |
 | Santa's Christmas Solitaire 2 | 127688 | [127688-santas-christmas-solitaire-2.json](./127688-santas-christmas-solitaire-2.json) |
 | Santa's Christmas Solitaire 3 | 337283 | [337283-santas-christmas-solitaire-3.json](./337283-santas-christmas-solitaire-3.json) |
@@ -2288,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Thread | 290714 | [290714-scarlet-thread.json](./290714-scarlet-thread.json) |
 | Scarlet Tower | 223093 | [223093-scarlet-tower.json](./223093-scarlet-tower.json) |
 | Scarlet Wolf | 352841 | [352841-scarlet-wolf.json](./352841-scarlet-wolf.json) |
+| Scarlet: City of Devils | 332367 | [332367-scarlet-city-of-devils.json](./332367-scarlet-city-of-devils.json) |
 | Scarlet's Haunted Hotel | 319373 | [319373-scarlets-haunted-hotel.json](./319373-scarlets-haunted-hotel.json) |
 | Scarlet's Last Call | 419908 | [419908-scarlets-last-call.json](./419908-scarlets-last-call.json) |
 | Scarlett | 258869 | [258869-scarlett.json](./258869-scarlett.json) |
@@ -5827,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowfire | 13034 | [13034-shadowfire.json](./13034-shadowfire.json) |
 | ShadowFlare | 70866 | [70866-shadowflare.json](./70866-shadowflare.json) |
 | Shadowforge | 138684 | [138684-shadowforge.json](./138684-shadowforge.json) |
+| Shadowforge Chronicles | 332341 | [332341-shadowforge-chronicles.json](./332341-shadowforge-chronicles.json) |
 | Shadowgate | 389384 | [389384-shadowgate.json](./389384-shadowgate.json) |
 | Shadowgate | 8697 | [8697-shadowgate.json](./8697-shadowgate.json) |
 | Shadowgate | 8866 | [8866-shadowgate.json](./8866-shadowgate.json) |
@@ -6749,6 +6752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Purr | 241410 | [241410-sherlock-purr.json](./241410-sherlock-purr.json) |
 | Sherlock Purr 2 | 292155 | [292155-sherlock-purr-2.json](./292155-sherlock-purr-2.json) |
 | Sherlock Purr 2: Deluxe Edition | 314890 | [314890-sherlock-purr-2-deluxe-edition.json](./314890-sherlock-purr-2-deluxe-edition.json) |
+| Sherlock Purr Adventures | 332339 | [332339-sherlock-purr-adventures.json](./332339-sherlock-purr-adventures.json) |
 | Sherlock Purr: Extended Edition | 243369 | [243369-sherlock-purr-extended-edition.json](./243369-sherlock-purr-extended-edition.json) |
 | Sherlock Spot DX | 370823 | [370823-sherlock-spot-dx.json](./370823-sherlock-spot-dx.json) |
 | Sherlock: Hidden Object & Match-3 Mystery | 357304 | [357304-sherlock-hidden-object-and-match-3-mystery.json](./357304-sherlock-hidden-object-and-match-3-mystery.json) |
@@ -17676,6 +17680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedway Challenge League | 46477 | [46477-speedway-challenge-league.json](./46477-speedway-challenge-league.json) |
 | Speedway Heroes | 60951 | [60951-speedway-heroes.json](./60951-speedway-heroes.json) |
 | Speedway League | 54382 | [54382-speedway-league.json](./54382-speedway-league.json) |
+| Speedway Legends: Overdrive Racing | 332338 | [332338-speedway-legends-overdrive-racing.json](./332338-speedway-legends-overdrive-racing.json) |
 | Speedway Liga | 67675 | [67675-speedway-liga.json](./67675-speedway-liga.json) |
 | Speedway Ringer | 238627 | [238627-speedway-ringer.json](./238627-speedway-ringer.json) |
 | Speedway Survival | 296616 | [296616-speedway-survival.json](./296616-speedway-survival.json) |
@@ -19087,6 +19092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot the Dot | 149563 | [149563-spot-the-dot.json](./149563-spot-the-dot.json) |
 | Spot the Impossible with Common Sense! | 406072 | [406072-spot-the-impossible-with-common-sense.json](./406072-spot-the-impossible-with-common-sense.json) |
 | Spot The Object | 283376 | [283376-spot-the-object.json](./283376-spot-the-object.json) |
+| Spot the Odd Pictogram! | 332343 | [332343-spot-the-odd-pictogram.json](./332343-spot-the-odd-pictogram.json) |
 | Spot the Odd! | 300831 | [300831-spot-the-odd.json](./300831-spot-the-odd.json) |
 | Spot the Oddity | 111516 | [111516-spot-the-oddity.json](./111516-spot-the-oddity.json) |
 | Spot the Spy Guy | 390910 | [390910-spot-the-spy-guy.json](./390910-spot-the-spy-guy.json) |
@@ -25116,6 +25122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Lesson: Chisato Shinjo - Shichiyou no Etude | 219030 | [219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json](./219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json) |
 | Summer Lesson: Hikari Miyamoto | 136765 | [136765-summer-lesson-hikari-miyamoto.json](./136765-summer-lesson-hikari-miyamoto.json) |
 | Summer Loops | 224150 | [224150-summer-loops.json](./224150-summer-loops.json) |
+| Summer Love | 332342 | [332342-summer-love.json](./332342-summer-love.json) |
 | Summer Mahjong | 71571 | [71571-summer-mahjong.json](./71571-summer-mahjong.json) |
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
 | Summer Memories | 137664 | [137664-summer-memories.json](./137664-summer-memories.json) |
@@ -25941,6 +25948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dassalo Land | 313971 | [313971-super-dassalo-land.json](./313971-super-dassalo-land.json) |
 | Super Dead Rising 3 Arcade Remix | 21879 | [21879-super-dead-rising-3-arcade-remix.json](./21879-super-dead-rising-3-arcade-remix.json) |
 | Super Death Arena | 30126 | [30126-super-death-arena.json](./30126-super-death-arena.json) |
+| Super Debt | 332370 | [332370-super-debt.json](./332370-super-debt.json) |
 | Super Demo World: The Legend Continues | 198224 | [198224-super-demo-world-the-legend-continues.json](./198224-super-demo-world-the-legend-continues.json) |
 | Super Demon Attack | 44376 | [44376-super-demon-attack.json](./44376-super-demon-attack.json) |
 | Super Demon Boy | 120677 | [120677-super-demon-boy.json](./120677-super-demon-boy.json) |
