@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamma Labs | 263413 | [263413-gamma-labs.json](./263413-gamma-labs.json) |
 | Gamma Nocturne 1 | 211698 | [211698-gamma-nocturne-1.json](./211698-gamma-nocturne-1.json) |
 | Gamma Protocol | 285592 | [285592-gamma-protocol.json](./285592-gamma-protocol.json) |
+| Gamma Strain | 322623 | [322623-gamma-strain.json](./322623-gamma-strain.json) |
 | Gamma Zero | 332923 | [332923-gamma-zero.json](./332923-gamma-zero.json) |
 | Gamma-Attack | 40667 | [40667-gamma-attack.json](./40667-gamma-attack.json) |
 | Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
@@ -6013,6 +6014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goomba's Easter Egg Hunt | 135221 | [135221-goombas-easter-egg-hunt.json](./135221-goombas-easter-egg-hunt.json) |
 | GoombaGotchi | 318523 | [318523-goombagotchi.json](./318523-goombagotchi.json) |
 | Goombario and the Adventure of the Hot Lava Rocks | 328623 | [328623-goombario-and-the-adventure-of-the-hot-lava-rocks.json](./328623-goombario-and-the-adventure-of-the-hot-lava-rocks.json) |
+| Goombario's Quest | 322546 | [322546-goombarios-quest.json](./322546-goombarios-quest.json) |
 | Gooms: A Physics Puzzle | 358048 | [358048-gooms-a-physics-puzzle.json](./358048-gooms-a-physics-puzzle.json) |
 | Goon Company | 400695 | [400695-goon-company.json](./400695-goon-company.json) |
 | Gooncrusher | 302113 | [302113-gooncrusher.json](./302113-gooncrusher.json) |
