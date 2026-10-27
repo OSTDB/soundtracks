@@ -6011,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights of Nightmare: Escape Horror Story | 297313 | [297313-five-nights-of-nightmare-escape-horror-story.json](./297313-five-nights-of-nightmare-escape-horror-story.json) |
 | Five Nights on the Toilet | 267389 | [267389-five-nights-on-the-toilet.json](./267389-five-nights-on-the-toilet.json) |
 | Five Nights on the Toilet: Number 2 | 267388 | [267388-five-nights-on-the-toilet-number-2.json](./267388-five-nights-on-the-toilet-number-2.json) |
+| Five Nights to Remember | 319620 | [319620-five-nights-to-remember.json](./319620-five-nights-to-remember.json) |
 | Five Nights with CJ | 342546 | [342546-five-nights-with-cj.json](./342546-five-nights-with-cj.json) |
 | Five Nights with Firearms | 405308 | [405308-five-nights-with-firearms.json](./405308-five-nights-with-firearms.json) |
 | Five Nights with Floppa: R | 370213 | [370213-five-nights-with-floppa-r.json](./370213-five-nights-with-floppa-r.json) |
@@ -6214,6 +6215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Bird | 316744 | [316744-flappy-bird.json](./316744-flappy-bird.json) |
 | Flappy Bird | 339269 | [339269-flappy-bird.json](./339269-flappy-bird.json) |
 | Flappy Bird | 7671 | [7671-flappy-bird.json](./7671-flappy-bird.json) |
+| Flappy Bird Flash | 319547 | [319547-flappy-bird-flash.json](./319547-flappy-bird-flash.json) |
 | Flappy Bird GB | 297596 | [297596-flappy-bird-gb.json](./297596-flappy-bird-gb.json) |
 | Flappy Bird Ultra | 368522 | [368522-flappy-bird-ultra.json](./368522-flappy-bird-ultra.json) |
 | Flappy Bird: Testing | 218071 | [218071-flappy-bird-testing.json](./218071-flappy-bird-testing.json) |
@@ -8378,6 +8380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Memories | 324493 | [324493-forgotten-memories.json](./324493-forgotten-memories.json) |
 | Forgotten Memories | 326204 | [326204-forgotten-memories.json](./326204-forgotten-memories.json) |
 | Forgotten Memories: Definitive Edition | 207858 | [207858-forgotten-memories-definitive-edition.json](./207858-forgotten-memories-definitive-edition.json) |
+| Forgotten Memories: Remastered Edition | 319631 | [319631-forgotten-memories-remastered-edition.json](./319631-forgotten-memories-remastered-edition.json) |
 | Forgotten Myths CCG | 36302 | [36302-forgotten-myths-ccg.json](./36302-forgotten-myths-ccg.json) |
 | Forgotten Passages | 127164 | [127164-forgotten-passages.json](./127164-forgotten-passages.json) |
 | Forgotten Places: Lost Circus | 88549 | [88549-forgotten-places-lost-circus.json](./88549-forgotten-places-lost-circus.json) |
