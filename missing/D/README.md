@@ -9026,6 +9026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Trails | 392119 | [392119-distant-trails.json](./392119-distant-trails.json) |
 | Distant Transmission | 159886 | [159886-distant-transmission.json](./159886-distant-transmission.json) |
 | Distant Visitant | 390483 | [390483-distant-visitant.json](./390483-distant-visitant.json) |
+| Distant Woods | 332332 | [332332-distant-woods.json](./332332-distant-woods.json) |
 | Distant Worlds 2 | 138722 | [138722-distant-worlds-2.json](./138722-distant-worlds-2.json) |
 | Distant Worlds 2: Factions - Atuuk and Wekkarus | 337557 | [337557-distant-worlds-2-factions-atuuk-and-wekkarus.json](./337557-distant-worlds-2-factions-atuuk-and-wekkarus.json) |
 | Distant Worlds 2: Factions - Ikkuro and Dhayut | 242048 | [242048-distant-worlds-2-factions-ikkuro-and-dhayut.json](./242048-distant-worlds-2-factions-ikkuro-and-dhayut.json) |
