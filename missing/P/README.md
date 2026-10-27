@@ -4404,6 +4404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmagoria | 221 | [221-phantasmagoria.json](./221-phantasmagoria.json) |
 | Phantasmagoria 2: A Puzzle of Flesh | 222 | [222-phantasmagoria-2-a-puzzle-of-flesh.json](./222-phantasmagoria-2-a-puzzle-of-flesh.json) |
 | Phantasmal Exosteel | 377814 | [377814-phantasmal-exosteel.json](./377814-phantasmal-exosteel.json) |
+| Phantasmal Garrison | 300757 | [300757-phantasmal-garrison.json](./300757-phantasmal-garrison.json) |
 | Phantasmal: City of Darkness | 18793 | [18793-phantasmal-city-of-darkness.json](./18793-phantasmal-city-of-darkness.json) |
 | Phantasmat | 22114 | [22114-phantasmat.json](./22114-phantasmat.json) |
 | Phantasmat: Collector's Edition | 17280 | [17280-phantasmat-collectors-edition.json](./17280-phantasmat-collectors-edition.json) |
@@ -8945,6 +8946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poems & Codes | 244281 | [244281-poems-and-codes.json](./244281-poems-and-codes.json) |
 | Poena | 202237 | [202237-poena.json](./202237-poena.json) |
 | Poetic Trio | 369880 | [369880-poetic-trio.json](./369880-poetic-trio.json) |
+| PoeticRambling | 300663 | [300663-poeticrambling.json](./300663-poeticrambling.json) |
 | Poetry of Blood: Eclipse | 247614 | [247614-poetry-of-blood-eclipse.json](./247614-poetry-of-blood-eclipse.json) |
 | Poetry Pigeon | 309604 | [309604-poetry-pigeon.json](./309604-poetry-pigeon.json) |
 | Poetry, wine and sword | 158186 | [158186-poetry-wine-and-sword.json](./158186-poetry-wine-and-sword.json) |
