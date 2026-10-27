@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Ano Ko ha Yousha toka Zenzen Shinai: Jiai no Youkou-hen | 376681 | [376681-kawaii-ano-ko-ha-yousha-toka-zenzen-shinai-jiai-no-youkou-hen.json](./376681-kawaii-ano-ko-ha-yousha-toka-zenzen-shinai-jiai-no-youkou-hen.json) |
 | Kawaii Coloring Book | 104223 | [104223-kawaii-coloring-book.json](./104223-kawaii-coloring-book.json) |
 | Kawaii Deathu Desu | 120089 | [120089-kawaii-deathu-desu.json](./120089-kawaii-deathu-desu.json) |
+| Kawaii Evolution Clicker | 301323 | [301323-kawaii-evolution-clicker.json](./301323-kawaii-evolution-clicker.json) |
 | Kawaii Force: Liberty Line | 397876 | [397876-kawaii-force-liberty-line.json](./397876-kawaii-force-liberty-line.json) |
 | Kawaii Girl | 202194 | [202194-kawaii-girl.json](./202194-kawaii-girl.json) |
 | Kawaii Girls | 334088 | [334088-kawaii-girls.json](./334088-kawaii-girls.json) |
@@ -3913,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights and Dungeons | 160055 | [160055-knights-and-dungeons.json](./160055-knights-and-dungeons.json) |
 | Knights and Glory | 110683 | [110683-knights-and-glory.json](./110683-knights-and-glory.json) |
 | Knights and Goblins | 243536 | [243536-knights-and-goblins.json](./243536-knights-and-goblins.json) |
+| Knights and Magic Bundle | 301783 | [301783-knights-and-magic-bundle.json](./301783-knights-and-magic-bundle.json) |
 | Knights and Merchants: The Shattered Kingdom | 3067 | [3067-knights-and-merchants-the-shattered-kingdom.json](./3067-knights-and-merchants-the-shattered-kingdom.json) |
 | Knights and Ogres | 96926 | [96926-knights-and-ogres.json](./96926-knights-and-ogres.json) |
 | Knights College | 142272 | [142272-knights-college.json](./142272-knights-college.json) |
@@ -3974,6 +3976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of the Rogue Dungeon | 283273 | [283273-knights-of-the-rogue-dungeon.json](./283273-knights-of-the-rogue-dungeon.json) |
 | Knights of the Round | 224023 | [224023-knights-of-the-round.json](./224023-knights-of-the-round.json) |
 | Knights of the Round | 6816 | [6816-knights-of-the-round.json](./6816-knights-of-the-round.json) |
+| Knights of the Round Peg | 301877 | [301877-knights-of-the-round-peg.json](./301877-knights-of-the-round-peg.json) |
 | Knights of the Round Torus | 186245 | [186245-knights-of-the-round-torus.json](./186245-knights-of-the-round-torus.json) |
 | Knights of the Sky | 12167 | [12167-knights-of-the-sky.json](./12167-knights-of-the-sky.json) |
 | Knights of the Temple: Infernal Crusade | 1222 | [1222-knights-of-the-temple-infernal-crusade.json](./1222-knights-of-the-temple-infernal-crusade.json) |
@@ -4082,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Know Your Limits | 272248 | [272248-know-your-limits.json](./272248-know-your-limits.json) |
 | Knowledge | 410931 | [410931-knowledge.json](./410931-knowledge.json) |
 | Knowledge Challenge | 204278 | [204278-knowledge-challenge.json](./204278-knowledge-challenge.json) |
+| Knowledge Domination | 301239 | [301239-knowledge-domination.json](./301239-knowledge-domination.json) |
 | Knowledge Fever | 245863 | [245863-knowledge-fever.json](./245863-knowledge-fever.json) |
 | Knowledge is Power | 70833 | [70833-knowledge-is-power.json](./70833-knowledge-is-power.json) |
 | Knowledge is Power: Decades | 103402 | [103402-knowledge-is-power-decades.json](./103402-knowledge-is-power-decades.json) |
