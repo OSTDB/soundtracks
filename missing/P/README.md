@@ -9429,6 +9429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Heart & Soul | 376212 | [376212-pokemon-heart-and-soul.json](./376212-pokemon-heart-and-soul.json) |
 | Pokémon Hero | 314728 | [314728-pokemon-hero.json](./314728-pokemon-hero.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
+| Pokémon HGSS: Sevii Islands | 327148 | [327148-pokemon-hgss-sevii-islands.json](./327148-pokemon-hgss-sevii-islands.json) |
 | Pokémon Hoenn's Last Wish | 396514 | [396514-pokemon-hoenns-last-wish.json](./396514-pokemon-hoenns-last-wish.json) |
 | Pokémon Home | 141960 | [141960-pokemon-home.json](./141960-pokemon-home.json) |
 | Pokémon Hyper Emerald | 397757 | [397757-pokemon-hyper-emerald.json](./397757-pokemon-hyper-emerald.json) |
@@ -9489,6 +9490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Outlaw's Paradise | 294718 | [294718-pokemon-mystery-dungeon-outlaws-paradise.json](./294718-pokemon-mystery-dungeon-outlaws-paradise.json) |
 | Pokémon Mystery Dungeon: Red Rescue Team | 2319 | [2319-pokemon-mystery-dungeon-red-rescue-team.json](./2319-pokemon-mystery-dungeon-red-rescue-team.json) |
 | Pokémon Mystery Dungeon: Rescue Team DX | 128069 | [128069-pokemon-mystery-dungeon-rescue-team-dx.json](./128069-pokemon-mystery-dungeon-rescue-team-dx.json) |
+| Pokémon Mystery Dungeon: Seven Symphonies | 327104 | [327104-pokemon-mystery-dungeon-seven-symphonies.json](./327104-pokemon-mystery-dungeon-seven-symphonies.json) |
 | Pokémon Mystery Dungeon: Special Episode 0 - In A Dark Past | 298965 | [298965-pokemon-mystery-dungeon-special-episode-0-in-a-dark-past.json](./298965-pokemon-mystery-dungeon-special-episode-0-in-a-dark-past.json) |
 | Pokémon Mystery Dungeon: Turnabout Dimension | 210550 | [210550-pokemon-mystery-dungeon-turnabout-dimension.json](./210550-pokemon-mystery-dungeon-turnabout-dimension.json) |
 | Pokémon Mystery Dungeon: Wigglytuff's Bizarre Adventure | 380501 | [380501-pokemon-mystery-dungeon-wigglytuffs-bizarre-adventure.json](./380501-pokemon-mystery-dungeon-wigglytuffs-bizarre-adventure.json) |
@@ -10572,6 +10574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Killer 5 | 229832 | [229832-poop-killer-5.json](./229832-poop-killer-5.json) |
 | Poop Killer 6 | 230873 | [230873-poop-killer-6.json](./230873-poop-killer-6.json) |
 | Poop Killer 7 | 251979 | [251979-poop-killer-7.json](./251979-poop-killer-7.json) |
+| Poop Killer 8 | 327130 | [327130-poop-killer-8.json](./327130-poop-killer-8.json) |
 | Poop Killer II | 229824 | [229824-poop-killer-ii.json](./229824-poop-killer-ii.json) |
 | Poop KIller III | 229825 | [229825-poop-killer-iii.json](./229825-poop-killer-iii.json) |
 | Poop Killer Origins | 229833 | [229833-poop-killer-origins.json](./229833-poop-killer-origins.json) |
@@ -11227,6 +11230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Problem | 290113 | [290113-potion-problem.json](./290113-potion-problem.json) |
 | Potion Problems | 343256 | [343256-potion-problems.json](./343256-potion-problems.json) |
 | Potion Prodigy | 175939 | [175939-potion-prodigy.json](./175939-potion-prodigy.json) |
+| Potion Promise | 327094 | [327094-potion-promise.json](./327094-potion-promise.json) |
 | Potion Punch | 247220 | [247220-potion-punch.json](./247220-potion-punch.json) |
 | Potion Punch 2: Cooking Quest | 247219 | [247219-potion-punch-2-cooking-quest.json](./247219-potion-punch-2-cooking-quest.json) |
 | Potion Punch 2+ | 385569 | [385569-potion-punch-2.json](./385569-potion-punch-2.json) |
