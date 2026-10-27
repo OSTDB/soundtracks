@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Witch's Word | 123280 | [123280-a-witchs-word.json](./123280-a-witchs-word.json) |
 | A Wizard's Curse | 416855 | [416855-a-wizards-curse.json](./416855-a-wizards-curse.json) |
 | A Wizard's Odyssey | 68651 | [68651-a-wizards-odyssey.json](./68651-a-wizards-odyssey.json) |
+| A Wizardry Enchantment | 284175 | [284175-a-wizardry-enchantment.json](./284175-a-wizardry-enchantment.json) |
 | A Woman for All Seasons | 323217 | [323217-a-woman-for-all-seasons.json](./323217-a-woman-for-all-seasons.json) |
 | A Wonder | 75164 | [75164-a-wonder.json](./75164-a-wonder.json) |
 | A Work of Art | 319801 | [319801-a-work-of-art.json](./319801-a-work-of-art.json) |
@@ -3296,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon Flux | 80426 | [80426-aeon-flux.json](./80426-aeon-flux.json) |
 | Aeon Guard | 381196 | [381196-aeon-guard.json](./381196-aeon-guard.json) |
 | Aeon Nightmares | 282133 | [282133-aeon-nightmares.json](./282133-aeon-nightmares.json) |
+| Aeon on Mosaic: Anemone | 284345 | [284345-aeon-on-mosaic-anemone.json](./284345-aeon-on-mosaic-anemone.json) |
 | Aeon Tempus | 365283 | [365283-aeon-tempus.json](./365283-aeon-tempus.json) |
 | Aeon Wars Rogue | 223483 | [223483-aeon-wars-rogue.json](./223483-aeon-wars-rogue.json) |
 | Aeon's End | 119854 | [119854-aeons-end.json](./119854-aeons-end.json) |
@@ -8842,6 +8844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Quest: Mystic Maidens | 266169 | [266169-anime-quest-mystic-maidens.json](./266169-anime-quest-mystic-maidens.json) |
 | Anime Quiz Challenge | 405671 | [405671-anime-quiz-challenge.json](./405671-anime-quiz-challenge.json) |
 | Anime Rally | 326811 | [326811-anime-rally.json](./326811-anime-rally.json) |
+| Anime Redemption | 284512 | [284512-anime-redemption.json](./284512-anime-redemption.json) |
 | Anime Romance Boys Collection: 2 Game Bundle | 393763 | [393763-anime-romance-boys-collection-2-game-bundle.json](./393763-anime-romance-boys-collection-2-game-bundle.json) |
 | Anime School Chase Sim | 301215 | [301215-anime-school-chase-sim.json](./301215-anime-school-chase-sim.json) |
 | Anime School Girl Dating Sim | 296758 | [296758-anime-school-girl-dating-sim.json](./296758-anime-school-girl-dating-sim.json) |
