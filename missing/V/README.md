@@ -897,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Sector | 386996 | [386996-vector-sector.json](./386996-vector-sector.json) |
 | Vector Space | 310086 | [310086-vector-space.json](./310086-vector-space.json) |
 | Vector Strain | 34046 | [34046-vector-strain.json](./34046-vector-strain.json) |
+| Vector Strike | 329465 | [329465-vector-strike.json](./329465-vector-strike.json) |
 | Vector Surge | 414181 | [414181-vector-surge.json](./414181-vector-surge.json) |
 | Vector TD | 42804 | [42804-vector-td.json](./42804-vector-td.json) |
 | Vector the Crocodile in Sonic the Hedgehog | 198530 | [198530-vector-the-crocodile-in-sonic-the-hedgehog.json](./198530-vector-the-crocodile-in-sonic-the-hedgehog.json) |
