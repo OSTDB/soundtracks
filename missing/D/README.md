@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Floor | 47937 | [47937-dance-floor.json](./47937-dance-floor.json) |
 | Dance Gangnam Style | 310669 | [310669-dance-gangnam-style.json](./310669-dance-gangnam-style.json) |
 | Dance Hall Brawl | 193650 | [193650-dance-hall-brawl.json](./193650-dance-hall-brawl.json) |
+| Dance Hero: More Jiggle | 282422 | [282422-dance-hero-more-jiggle.json](./282422-dance-hero-more-jiggle.json) |
 | Dance Hime: Rhythm Matching | 211754 | [211754-dance-hime-rhythm-matching.json](./211754-dance-hime-rhythm-matching.json) |
 | Dance It! | 317853 | [317853-dance-it.json](./317853-dance-it.json) |
 | Dance It's Your Stage | 27477 | [27477-dance-its-your-stage.json](./27477-dance-its-your-stage.json) |
@@ -2996,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Engine | 345065 | [345065-dead-engine.json](./345065-dead-engine.json) |
 | Dead Epidemic | 359858 | [359858-dead-epidemic.json](./359858-dead-epidemic.json) |
 | Dead Estate | 141453 | [141453-dead-estate.json](./141453-dead-estate.json) |
+| Dead Estate: Assignment Anya | 282415 | [282415-dead-estate-assignment-anya.json](./282415-dead-estate-assignment-anya.json) |
 | Dead Estate: Axe to Grind | 367002 | [367002-dead-estate-axe-to-grind.json](./367002-dead-estate-axe-to-grind.json) |
 | Dead Estate: Bombs Away | 366970 | [366970-dead-estate-bombs-away.json](./366970-dead-estate-bombs-away.json) |
 | Dead Estate: Good Night | 367006 | [367006-dead-estate-good-night.json](./367006-dead-estate-good-night.json) |
@@ -5210,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta | 13839 | [13839-delta.json](./13839-delta.json) |
 | Delta | 319816 | [319816-delta.json](./319816-delta.json) |
 | Delta 4: Terminal Protocol | 416726 | [416726-delta-4-terminal-protocol.json](./416726-delta-4-terminal-protocol.json) |
+| Delta Arm | 282751 | [282751-delta-arm.json](./282751-delta-arm.json) |
 | Delta Chase | 183339 | [183339-delta-chase.json](./183339-delta-chase.json) |
 | Delta Dash | 213621 | [213621-delta-dash.json](./213621-delta-dash.json) |
 | Delta Directive | 412266 | [412266-delta-directive.json](./412266-delta-directive.json) |
@@ -5742,6 +5745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dennis the Menace | 248767 | [248767-dennis-the-menace.json](./248767-dennis-the-menace.json) |
 | Dennis the Menace | 311314 | [311314-dennis-the-menace.json](./311314-dennis-the-menace.json) |
 | Dennis the Menace Redux | 219078 | [219078-dennis-the-menace-redux.json](./219078-dennis-the-menace-redux.json) |
+| Dennou Gakuen | 282750 | [282750-dennou-gakuen.json](./282750-dennou-gakuen.json) |
 | Dennou Hyouryuu: Multimedia Cruising | 243209 | [243209-dennou-hyouryuu-multimedia-cruising.json](./243209-dennou-hyouryuu-multimedia-cruising.json) |
 | Dennou Sentai Lavian Three | 67268 | [67268-dennou-sentai-lavian-three.json](./67268-dennou-sentai-lavian-three.json) |
 | Dennou Taisen: DroneZ | 202162 | [202162-dennou-taisen-dronez.json](./202162-dennou-taisen-dronez.json) |
@@ -12036,6 +12040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr Livesey Rom and Death Edition | 224897 | [224897-dr-livesey-rom-and-death-edition.json](./224897-dr-livesey-rom-and-death-edition.json) |
 | Dr Livingstone, I Presume? | 148338 | [148338-dr-livingstone-i-presume.json](./148338-dr-livingstone-i-presume.json) |
 | Dr Livingstone, I Presume?: Digital Deluxe Edition | 167178 | [167178-dr-livingstone-i-presume-digital-deluxe-edition.json](./167178-dr-livingstone-i-presume-digital-deluxe-edition.json) |
+| Dr Ludwig and the Devil | 282602 | [282602-dr-ludwig-and-the-devil.json](./282602-dr-ludwig-and-the-devil.json) |
 | Dr Muddles and the Cursed Library | 289773 | [289773-dr-muddles-and-the-cursed-library.json](./289773-dr-muddles-and-the-cursed-library.json) |
 | Dr Nakamoto's Digital Eggs | 200039 | [200039-dr-nakamotos-digital-eggs.json](./200039-dr-nakamotos-digital-eggs.json) |
 | Dr Pig's Hospital | 95301 | [95301-dr-pigs-hospital.json](./95301-dr-pigs-hospital.json) |
@@ -12623,6 +12628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Chase | 113659 | [113659-dragon-chase.json](./113659-dragon-chase.json) |
 | Dragon Chase | 385406 | [385406-dragon-chase.json](./385406-dragon-chase.json) |
 | Dragon Chronicles: Black Tears | 290993 | [290993-dragon-chronicles-black-tears.json](./290993-dragon-chronicles-black-tears.json) |
+| Dragon City X Shitei | 282748 | [282748-dragon-city-x-shitei.json](./282748-dragon-city-x-shitei.json) |
 | Dragon Clicker | 312170 | [312170-dragon-clicker.json](./312170-dragon-clicker.json) |
 | Dragon Coins | 63337 | [63337-dragon-coins.json](./63337-dragon-coins.json) |
 | Dragon Courier | 244681 | [244681-dragon-courier.json](./244681-dragon-courier.json) |
@@ -12652,6 +12658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Expedition | 332993 | [332993-dragon-expedition.json](./332993-dragon-expedition.json) |
 | Dragon Extinction VR | 149002 | [149002-dragon-extinction-vr.json](./149002-dragon-extinction-vr.json) |
 | Dragon Eye Online | 113566 | [113566-dragon-eye-online.json](./113566-dragon-eye-online.json) |
+| Dragon Eyes | 282749 | [282749-dragon-eyes.json](./282749-dragon-eyes.json) |
 | Dragon Fang Z | 175312 | [175312-dragon-fang-z.json](./175312-dragon-fang-z.json) |
 | Dragon Fang Z: The Rose & Dungeon of Time - Extra Dungeon: Friendship's Labyrinth | 171446 | [171446-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-friendships-labyrinth.json](./171446-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-friendships-labyrinth.json) |
 | Dragon Fang Z: The Rose & Dungeon of Time - Extra Dungeon: The Cave of Fangs | 171939 | [171939-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-cave-of-fangs.json](./171939-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-cave-of-fangs.json) |
