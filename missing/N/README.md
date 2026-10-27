@@ -2594,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Return | 165122 | [165122-never-return.json](./165122-never-return.json) |
 | Never Second in Rome | 334259 | [334259-never-second-in-rome.json](./334259-never-second-in-rome.json) |
 | Never Secure | 389717 | [389717-never-secure.json](./389717-never-secure.json) |
+| Never Shall We Die | 324260 | [324260-never-shall-we-die.json](./324260-never-shall-we-die.json) |
 | Never Sort By Color | 411710 | [411710-never-sort-by-color.json](./411710-never-sort-by-color.json) |
 | Never Split the Party | 99046 | [99046-never-split-the-party.json](./99046-never-split-the-party.json) |
 | Never Stop | 102053 | [102053-never-stop.json](./102053-never-stop.json) |
@@ -3019,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newsun | 324519 | [324519-newsun.json](./324519-newsun.json) |
 | Newt | 228901 | [228901-newt.json](./228901-newt.json) |
 | Newt One | 98145 | [98145-newt-one.json](./98145-newt-one.json) |
+| Newton | 324251 | [324251-newton.json](./324251-newton.json) |
 | Newton / Apple Tree | 312263 | [312263-newton-apple-tree.json](./312263-newton-apple-tree.json) |
 | Newton Coin | 334607 | [334607-newton-coin.json](./334607-newton-coin.json) |
 | Newton Going Home | 187388 | [187388-newton-going-home.json](./187388-newton-going-home.json) |
