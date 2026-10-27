@@ -3373,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Lovescapes | 204427 | [204427-cat-lovescapes.json](./204427-cat-lovescapes.json) |
 | Cat Magic School | 350002 | [350002-cat-magic-school.json](./350002-cat-magic-school.json) |
 | Cat Mail Co. | 406739 | [406739-cat-mail-co.json](./406739-cat-mail-co.json) |
+| Cat Mart | 294664 | [294664-cat-mart.json](./294664-cat-mart.json) |
 | Cat Me If You Can | 330066 | [330066-cat-me-if-you-can.json](./330066-cat-me-if-you-can.json) |
 | Cat Meat | 32911 | [32911-cat-meat.json](./32911-cat-meat.json) |
 | Cat Meme Clicker | 391214 | [391214-cat-meme-clicker.json](./391214-cat-meme-clicker.json) |
@@ -3649,7 +3650,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Bowling Balls | 152229 | [152229-catch-the-bowling-balls.json](./152229-catch-the-bowling-balls.json) |
 | Catch the Bowling Balls: Challenge Mode Edition | 207053 | [207053-catch-the-bowling-balls-challenge-mode-edition.json](./207053-catch-the-bowling-balls-challenge-mode-edition.json) |
 | Catch the Candy | 142315 | [142315-catch-the-candy.json](./142315-catch-the-candy.json) |
+| Catch the Candy: Climbing Hero | 294677 | [294677-catch-the-candy-climbing-hero.json](./294677-catch-the-candy-climbing-hero.json) |
 | Catch the Candy: Remastered | 330922 | [330922-catch-the-candy-remastered.json](./330922-catch-the-candy-remastered.json) |
+| Catch the Candy: Winter Story! | 294676 | [294676-catch-the-candy-winter-story.json](./294676-catch-the-candy-winter-story.json) |
 | Catch the Chiken | 397599 | [397599-catch-the-chiken.json](./397599-catch-the-chiken.json) |
 | Catch the Clown II | 331897 | [331897-catch-the-clown-ii.json](./331897-catch-the-clown-ii.json) |
 | Catch the Donut | 164276 | [164276-catch-the-donut.json](./164276-catch-the-donut.json) |
@@ -13613,6 +13616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cramble | 105760 | [105760-cramble.json](./105760-cramble.json) |
 | Cramgene | 92857 | [92857-cramgene.json](./92857-cramgene.json) |
 | Cramit's Keep | 186846 | [186846-cramits-keep.json](./186846-cramits-keep.json) |
+| Cramped Map Collection | 294754 | [294754-cramped-map-collection.json](./294754-cramped-map-collection.json) |
 | Cramunhão: A Sigil Tribute | 316941 | [316941-cramunhao-a-sigil-tribute.json](./316941-cramunhao-a-sigil-tribute.json) |
 | Crane Game Simulator | 224747 | [224747-crane-game-simulator.json](./224747-crane-game-simulator.json) |
 | Crane Logistics Simulator | 211699 | [211699-crane-logistics-simulator.json](./211699-crane-logistics-simulator.json) |
