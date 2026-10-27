@@ -1690,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Sbang | 271179 | [271179-banana-sbang.json](./271179-banana-sbang.json) |
 | Banana Shop | 143534 | [143534-banana-shop.json](./143534-banana-shop.json) |
 | Banana Simulator | 312450 | [312450-banana-simulator.json](./312450-banana-simulator.json) |
+| Banana Step | 289835 | [289835-banana-step.json](./289835-banana-step.json) |
 | Banana Tap | 314875 | [314875-banana-tap.json](./314875-banana-tap.json) |
 | Banana Town | 72509 | [72509-banana-town.json](./72509-banana-town.json) |
 | Banana Yetti | 249054 | [249054-banana-yetti.json](./249054-banana-yetti.json) |
