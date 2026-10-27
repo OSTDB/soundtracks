@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zakato: Maan | 146533 | [146533-zakato-maan.json](./146533-zakato-maan.json) |
 | Zakesta | 171886 | [171886-zakesta.json](./171886-zakesta.json) |
 | Zakesta-Z | 278102 | [278102-zakesta-z.json](./278102-zakesta-z.json) |
+| Zako no Ahiru | 292489 | [292489-zako-no-ahiru.json](./292489-zako-no-ahiru.json) |
 | Zako Slayer | 228073 | [228073-zako-slayer.json](./228073-zako-slayer.json) |
 | Zakon | 212177 | [212177-zakon.json](./212177-zakon.json) |
 | Zaku | 62001 | [62001-zaku.json](./62001-zaku.json) |
@@ -1685,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie's Retreat | 127634 | [127634-zombies-retreat.json](./127634-zombies-retreat.json) |
 | ZombieBoy | 137337 | [137337-zombieboy.json](./137337-zombieboy.json) |
 | ZombieBoy 2: Crazy Love | 137338 | [137338-zombieboy-2-crazy-love.json](./137338-zombieboy-2-crazy-love.json) |
+| ZombieCam | 292567 | [292567-zombiecam.json](./292567-zombiecam.json) |
 | Zombiecards | 345384 | [345384-zombiecards.json](./345384-zombiecards.json) |
 | Zombiecraftt!!1 Sampler | 94160 | [94160-zombiecraftt-1-sampler.json](./94160-zombiecraftt-1-sampler.json) |
 | Zombieeee! | 151718 | [151718-zombieeee.json](./151718-zombieeee.json) |
