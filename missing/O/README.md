@@ -2434,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni II: Innin Densetsu | 63371 | [63371-oni-ii-innin-densetsu.json](./63371-oni-ii-innin-densetsu.json) |
 | Oni III: Kuro no Hakaishin | 63372 | [63372-oni-iii-kuro-no-hakaishin.json](./63372-oni-iii-kuro-no-hakaishin.json) |
 | Oni IV: Kishin no Ketsuzoku | 63370 | [63370-oni-iv-kishin-no-ketsuzoku.json](./63370-oni-iv-kishin-no-ketsuzoku.json) |
+| Oni Magatsu Toki | 325367 | [325367-oni-magatsu-toki.json](./325367-oni-magatsu-toki.json) |
 | Oni no Kamen | 393433 | [393433-oni-no-kamen.json](./393433-oni-no-kamen.json) |
 | Oni No Kenkyuushitsu | 286761 | [286761-oni-no-kenkyuushitsu.json](./286761-oni-no-kenkyuushitsu.json) |
 | Oni no Moribito | 355201 | [355201-oni-no-moribito.json](./355201-oni-no-moribito.json) |
