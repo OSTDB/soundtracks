@@ -12945,6 +12945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton 2: Saturn Tribute | 173782 | [173782-cotton-2-saturn-tribute.json](./173782-cotton-2-saturn-tribute.json) |
 | Cotton Boomerang | 39830 | [39830-cotton-boomerang.json](./39830-cotton-boomerang.json) |
 | Cotton Boomerang: Saturn Tribute | 173781 | [173781-cotton-boomerang-saturn-tribute.json](./173781-cotton-boomerang-saturn-tribute.json) |
+| Cotton Candy's Terror Factory | 295739 | [295739-cotton-candys-terror-factory.json](./295739-cotton-candys-terror-factory.json) |
 | Cotton Fantasy | 153647 | [153647-cotton-fantasy.json](./153647-cotton-fantasy.json) |
 | Cotton Games' New Game Bundle | 196811 | [196811-cotton-games-new-game-bundle.json](./196811-cotton-games-new-game-bundle.json) |
 | Cotton Guardian Force Saturn Tribute: Special Edition | 166980 | [166980-cotton-guardian-force-saturn-tribute-special-edition.json](./166980-cotton-guardian-force-saturn-tribute-special-edition.json) |
@@ -13555,6 +13556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft the World: Sisters in Arms | 51757 | [51757-craft-the-world-sisters-in-arms.json](./51757-craft-the-world-sisters-in-arms.json) |
 | Craft Tower | 224213 | [224213-craft-tower.json](./224213-craft-tower.json) |
 | Craft Warriors | 99109 | [99109-craft-warriors.json](./99109-craft-warriors.json) |
+| Craft Wars | 295763 | [295763-craft-wars.json](./295763-craft-wars.json) |
 | Craft World | 355479 | [355479-craft-world.json](./355479-craft-world.json) |
 | Craft Your Way | 370804 | [370804-craft-your-way.json](./370804-craft-your-way.json) |
 | Craft: The Vicious Vikings | 142982 | [142982-craft-the-vicious-vikings.json](./142982-craft-the-vicious-vikings.json) |
