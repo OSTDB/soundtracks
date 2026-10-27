@@ -7257,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mekanin | 172511 | [172511-mekanin.json](./172511-mekanin.json) |
 | Mekanizm | 72332 | [72332-mekanizm.json](./72332-mekanizm.json) |
 | Mekazoo | 19203 | [19203-mekazoo.json](./19203-mekazoo.json) |
+| Mekkablood: Quarry Assault | 305122 | [305122-mekkablood-quarry-assault.json](./305122-mekkablood-quarry-assault.json) |
 | Mekorama | 58295 | [58295-mekorama.json](./58295-mekorama.json) |
 | Mekururi Witch | 151803 | [151803-mekururi-witch.json](./151803-mekururi-witch.json) |
 | Mel Gibson's Safari 3 | 47039 | [47039-mel-gibsons-safari-3.json](./47039-mel-gibsons-safari-3.json) |
@@ -7411,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meme Classics 2 | 419944 | [419944-meme-classics-2.json](./419944-meme-classics-2.json) |
 | Meme Couple | 334802 | [334802-meme-couple.json](./334802-meme-couple.json) |
 | Meme Lordz | 198239 | [198239-meme-lordz.json](./198239-meme-lordz.json) |
+| Meme Mayhem | 305127 | [305127-meme-mayhem.json](./305127-meme-mayhem.json) |
 | Meme Quiz | 243128 | [243128-meme-quiz.json](./243128-meme-quiz.json) |
 | Meme Run | 60787 | [60787-meme-run.json](./60787-meme-run.json) |
 | Meme Shooter in Sandbox Memes | 326517 | [326517-meme-shooter-in-sandbox-memes.json](./326517-meme-shooter-in-sandbox-memes.json) |
@@ -10466,6 +10468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft X Magic: The Gathering Skin Pack | 362947 | [362947-minecraft-x-magic-the-gathering-skin-pack.json](./362947-minecraft-x-magic-the-gathering-skin-pack.json) |
 | Minecraft, But If You Touch Grass You Die | 316576 | [316576-minecraft-but-if-you-touch-grass-you-die.json](./316576-minecraft-but-if-you-touch-grass-you-die.json) |
 | Minecraft: 10 Years Of Minecraft | 322956 | [322956-minecraft-10-years-of-minecraft.json](./322956-minecraft-10-years-of-minecraft.json) |
+| Minecraft: 15 Year Journey | 305130 | [305130-minecraft-15-year-journey.json](./305130-minecraft-15-year-journey.json) |
 | Minecraft: 1st Animal Friends Skin Pack | 316692 | [316692-minecraft-1st-animal-friends-skin-pack.json](./316692-minecraft-1st-animal-friends-skin-pack.json) |
 | Minecraft: 1st Birthday Skin Pack | 255346 | [255346-minecraft-1st-birthday-skin-pack.json](./255346-minecraft-1st-birthday-skin-pack.json) |
 | Minecraft: A Minecraft Movie Add-On | 333583 | [333583-minecraft-a-minecraft-movie-add-on.json](./333583-minecraft-a-minecraft-movie-add-on.json) |
@@ -13164,6 +13167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly | 234647 | [234647-monopoly.json](./234647-monopoly.json) |
 | Monopoly | 23767 | [23767-monopoly.json](./23767-monopoly.json) |
 | Monopoly | 272695 | [272695-monopoly.json](./272695-monopoly.json) |
+| Monopoly | 305234 | [305234-monopoly.json](./305234-monopoly.json) |
 | Monopoly | 308609 | [308609-monopoly.json](./308609-monopoly.json) |
 | Monopoly | 335112 | [335112-monopoly.json](./335112-monopoly.json) |
 | Monopoly | 335884 | [335884-monopoly.json](./335884-monopoly.json) |
