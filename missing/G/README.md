@@ -1732,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garlic | 132685 | [132685-garlic.json](./132685-garlic.json) |
 | Garlic Builder | 263985 | [263985-garlic-builder.json](./263985-garlic-builder.json) |
 | Garlock Online | 34785 | [34785-garlock-online.json](./34785-garlock-online.json) |
+| Garm Ruins | 291495 | [291495-garm-ruins.json](./291495-garm-ruins.json) |
 | Garmm Adventurer Vol.1 | 276259 | [276259-garmm-adventurer-vol-1.json](./276259-garmm-adventurer-vol-1.json) |
 | Garn47 | 300792 | [300792-garn47.json](./300792-garn47.json) |
 | Garnet Arena: Mages of Magicary | 377366 | [377366-garnet-arena-mages-of-magicary.json](./377366-garnet-arena-mages-of-magicary.json) |
@@ -7996,6 +7997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm: Episode 5 - The Girl Without Hands | 164562 | [164562-grimm-episode-5-the-girl-without-hands.json](./164562-grimm-episode-5-the-girl-without-hands.json) |
 | Grimm: Episode 6 - Godfather Death | 164561 | [164561-grimm-episode-6-godfather-death.json](./164561-grimm-episode-6-godfather-death.json) |
 | Grimm: Quest for the Gatherer's Key | 363039 | [363039-grimm-quest-for-the-gatherers-key.json](./363039-grimm-quest-for-the-gatherers-key.json) |
+| Grimm's Folly | 291508 | [291508-grimms-folly.json](./291508-grimms-folly.json) |
 | Grimm's Hatchery | 73510 | [73510-grimms-hatchery.json](./73510-grimms-hatchery.json) |
 | Grimm's Hollow | 125110 | [125110-grimms-hollow.json](./125110-grimms-hollow.json) |
 | GrimmKitchen | 326225 | [326225-grimmkitchen.json](./326225-grimmkitchen.json) |
