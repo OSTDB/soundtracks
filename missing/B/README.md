@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2841,7 +2842,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batalyx | 26418 | [26418-batalyx.json](./26418-batalyx.json) |
 | Batamonisk | 340874 | [340874-batamonisk.json](./340874-batamonisk.json) |
 | Batara: Fate Unbound | 396640 | [396640-batara-fate-unbound.json](./396640-batara-fate-unbound.json) |
-| Batbarian: Testament of the Primordials | 139177 | [139177-batbarian-testament-of-the-primordials.json](./139177-batbarian-testament-of-the-primordials.json) |
 | Batch 17 | 75187 | [75187-batch-17.json](./75187-batch-17.json) |
 | Baten Kaitos I & II HD Remaster | 236711 | [236711-baten-kaitos-i-and-ii-hd-remaster.json](./236711-baten-kaitos-i-and-ii-hd-remaster.json) |
 | Baten Kaitos Origins | 236710 | [236710-baten-kaitos-origins.json](./236710-baten-kaitos-origins.json) |
@@ -4090,7 +4090,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Boys: The Perfect Date | 203708 | [203708-beach-boys-the-perfect-date.json](./203708-beach-boys-the-perfect-date.json) |
 | Beach Boys: You and Me | 214669 | [214669-beach-boys-you-and-me.json](./214669-beach-boys-you-and-me.json) |
 | Beach Buddies Brawl | 333674 | [333674-beach-buddies-brawl.json](./333674-beach-buddies-brawl.json) |
-| Beach Buggy Racing | 11287 | [11287-beach-buggy-racing.json](./11287-beach-buggy-racing.json) |
 | Beach Buggy Racing 2 | 110044 | [110044-beach-buggy-racing-2.json](./110044-beach-buggy-racing-2.json) |
 | Beach Buggy Racing 2: Tesla Edition | 341009 | [341009-beach-buggy-racing-2-tesla-edition.json](./341009-beach-buggy-racing-2-tesla-edition.json) |
 | Beach Bums | 307001 | [307001-beach-bums.json](./307001-beach-bums.json) |
@@ -5886,6 +5885,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better Boyfriend | 130234 | [130234-better-boyfriend.json](./130234-better-boyfriend.json) |
 | Better Call Saul | 221831 | [221831-better-call-saul.json](./221831-better-call-saul.json) |
 | Better Call Saul Kart | 228261 | [228261-better-call-saul-kart.json](./228261-better-call-saul-kart.json) |
+| Better Cluck Next Time | 290982 | [290982-better-cluck-next-time.json](./290982-better-cluck-next-time.json) |
+| Better Cluck Next Time II | 290980 | [290980-better-cluck-next-time-ii.json](./290980-better-cluck-next-time-ii.json) |
 | Better Days | 341862 | [341862-better-days.json](./341862-better-days.json) |
 | Better Days | 376835 | [376835-better-days.json](./376835-better-days.json) |
 | Better Dead Than Alien! | 11955 | [11955-better-dead-than-alien.json](./11955-better-dead-than-alien.json) |
@@ -7923,7 +7924,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Sigil: Blade of the Exiled | 21124 | [21124-black-sigil-blade-of-the-exiled.json](./21124-black-sigil-blade-of-the-exiled.json) |
 | Black Sign | 145592 | [145592-black-sign.json](./145592-black-sign.json) |
 | Black silk girl | 278271 | [278271-black-silk-girl.json](./278271-black-silk-girl.json) |
-| Black Skylands | 122132 | [122132-black-skylands.json](./122132-black-skylands.json) |
 | Black Smith | 290334 | [290334-black-smith.json](./290334-black-smith.json) |
 | Black Smith 3 | 150641 | [150641-black-smith-3.json](./150641-black-smith-3.json) |
 | Black Smith 4 | 265774 | [265774-black-smith-4.json](./265774-black-smith-4.json) |
@@ -11062,6 +11062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonk Voyage | 415112 | [415112-bonk-voyage.json](./415112-bonk-voyage.json) |
 | Bonk! | 328554 | [328554-bonk.json](./328554-bonk.json) |
 | Bonk.io | 57077 | [57077-bonk-io.json](./57077-bonk-io.json) |
+| Bonk'em | 290963 | [290963-bonkem.json](./290963-bonkem.json) |
 | Bonk's Adventure | 280819 | [280819-bonks-adventure.json](./280819-bonks-adventure.json) |
 | Bonk's Adventure | 7794 | [7794-bonks-adventure.json](./7794-bonks-adventure.json) |
 | Bonk's Adventure | 98703 | [98703-bonks-adventure.json](./98703-bonks-adventure.json) |
