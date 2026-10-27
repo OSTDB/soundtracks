@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Big Adventures | 30075 | [30075-santas-big-adventures.json](./30075-santas-big-adventures.json) |
 | Santa's Big Sack | 380442 | [380442-santas-big-sack.json](./380442-santas-big-sack.json) |
 | Santa's Burnout | 390223 | [390223-santas-burnout.json](./390223-santas-burnout.json) |
+| Santa's Christmas Adventure | 323100 | [323100-santas-christmas-adventure.json](./323100-santas-christmas-adventure.json) |
 | Santa's Christmas Gift Quest | 332340 | [332340-santas-christmas-gift-quest.json](./332340-santas-christmas-gift-quest.json) |
 | Santa's Christmas Solitaire | 30362 | [30362-santas-christmas-solitaire.json](./30362-santas-christmas-solitaire.json) |
 | Santa's Christmas Solitaire 2 | 127688 | [127688-santas-christmas-solitaire-2.json](./127688-santas-christmas-solitaire-2.json) |
@@ -6112,6 +6113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Karate | 47216 | [47216-shanghai-karate.json](./47216-shanghai-karate.json) |
 | Shanghai Kid | 38571 | [38571-shanghai-kid.json](./38571-shanghai-kid.json) |
 | Shanghai Mahjong | 205088 | [205088-shanghai-mahjong.json](./205088-shanghai-mahjong.json) |
+| Shanghai Mahjong Solitaire Premium II | 323112 | [323112-shanghai-mahjong-solitaire-premium-ii.json](./323112-shanghai-mahjong-solitaire-premium-ii.json) |
 | Shanghai Musume: Mahjong Girls | 58523 | [58523-shanghai-musume-mahjong-girls.json](./58523-shanghai-musume-mahjong-girls.json) |
 | Shanghai Refresh | 123268 | [123268-shanghai-refresh.json](./123268-shanghai-refresh.json) |
 | Shanghai Street Racer | 79547 | [79547-shanghai-street-racer.json](./79547-shanghai-street-racer.json) |
@@ -6340,6 +6342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Riders | 150137 | [150137-shark-riders.json](./150137-shark-riders.json) |
 | Shark Siege | 296460 | [296460-shark-siege.json](./296460-shark-siege.json) |
 | Shark Simulator | 68769 | [68769-shark-simulator.json](./68769-shark-simulator.json) |
+| Shark Simulator: Ocean Predator Survival | 323113 | [323113-shark-simulator-ocean-predator-survival.json](./323113-shark-simulator-ocean-predator-survival.json) |
 | Shark Simulator: Ocean RPG Survival | 401443 | [401443-shark-simulator-ocean-rpg-survival.json](./401443-shark-simulator-ocean-rpg-survival.json) |
 | Shark Slayer | 166742 | [166742-shark-slayer.json](./166742-shark-slayer.json) |
 | Shark Tale: Fish Eat Fish | 325144 | [325144-shark-tale-fish-eat-fish.json](./325144-shark-tale-fish-eat-fish.json) |
@@ -7414,6 +7417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiro: Midori | 208578 | [208578-shiro-midori.json](./208578-shiro-midori.json) |
 | Shirobara Gakuen Satsujin Jiken | 281251 | [281251-shirobara-gakuen-satsujin-jiken.json](./281251-shirobara-gakuen-satsujin-jiken.json) |
 | Shirobara Renzoku Satsujin Jiken | 353184 | [353184-shirobara-renzoku-satsujin-jiken.json](./353184-shirobara-renzoku-satsujin-jiken.json) |
+| Shirogane Maid Club | 323118 | [323118-shirogane-maid-club.json](./323118-shirogane-maid-club.json) |
 | Shirogane no Cal to Soukuu no Joou | 408266 | [408266-shirogane-no-cal-to-soukuu-no-joou.json](./408266-shirogane-no-cal-to-soukuu-no-joou.json) |
 | Shirogane no Cal to Soukuu no Joou Genteiban | 408268 | [408268-shirogane-no-cal-to-soukuu-no-joou-genteiban.json](./408268-shirogane-no-cal-to-soukuu-no-joou-genteiban.json) |
 | Shirogane no Torikago: The Angels with Strange Wings | 77921 | [77921-shirogane-no-torikago-the-angels-with-strange-wings.json](./77921-shirogane-no-torikago-the-angels-with-strange-wings.json) |
@@ -7516,6 +7520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shocking Twist | 308261 | [308261-shocking-twist.json](./308261-shocking-twist.json) |
 | Shocklane | 176226 | [176226-shocklane.json](./176226-shocklane.json) |
 | Shockman Collection Vol. 1 | 289766 | [289766-shockman-collection-vol-1.json](./289766-shockman-collection-vol-1.json) |
+| Shockman Collection vol. 2 | 323117 | [323117-shockman-collection-vol-2.json](./323117-shockman-collection-vol-2.json) |
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
 | ShockWave | 323284 | [323284-shockwave.json](./323284-shockwave.json) |
 | Shockwave Assault | 18705 | [18705-shockwave-assault.json](./18705-shockwave-assault.json) |
@@ -12797,6 +12802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Honor: 3D Shooting Game | 223914 | [223914-sniper-honor-3d-shooting-game.json](./223914-sniper-honor-3d-shooting-game.json) |
 | Sniper Hunter Adventure 3D | 72506 | [72506-sniper-hunter-adventure-3d.json](./72506-sniper-hunter-adventure-3d.json) |
 | Sniper Hunter Shooter | 264581 | [264581-sniper-hunter-shooter.json](./264581-sniper-hunter-shooter.json) |
+| Sniper Jarhead | 323116 | [323116-sniper-jarhead.json](./323116-sniper-jarhead.json) |
 | Sniper Killer | 249933 | [249933-sniper-killer.json](./249933-sniper-killer.json) |
 | Sniper Master: City Hunter | 227482 | [227482-sniper-master-city-hunter.json](./227482-sniper-master-city-hunter.json) |
 | Sniper Operation Z | 148871 | [148871-sniper-operation-z.json](./148871-sniper-operation-z.json) |
@@ -15806,6 +15812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls Quest | 326705 | [326705-souls-quest.json](./326705-souls-quest.json) |
 | Souls Runner | 417942 | [417942-souls-runner.json](./417942-souls-runner.json) |
 | Souls Survivors | 272930 | [272930-souls-survivors.json](./272930-souls-survivors.json) |
+| Souls That Wait: Penunggu | 323123 | [323123-souls-that-wait-penunggu.json](./323123-souls-that-wait-penunggu.json) |
 | Souls Unguarded | 129686 | [129686-souls-unguarded.json](./129686-souls-unguarded.json) |
 | Souls-Like Bundle | 227390 | [227390-souls-like-bundle.json](./227390-souls-like-bundle.json) |
 | SoulSaverOnline | 30733 | [30733-soulsaveronline.json](./30733-soulsaveronline.json) |
@@ -21902,6 +21909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steambirds Alliance | 36530 | [36530-steambirds-alliance.json](./36530-steambirds-alliance.json) |
 | Steambirds: Survival | 58537 | [58537-steambirds-survival.json](./58537-steambirds-survival.json) |
 | Steamboat Billy: The Curse of the Leviathan | 102090 | [102090-steamboat-billy-the-curse-of-the-leviathan.json](./102090-steamboat-billy-the-curse-of-the-leviathan.json) |
+| Steamboat Rescue | 323115 | [323115-steamboat-rescue.json](./323115-steamboat-rescue.json) |
 | Steamboat Willie | 286040 | [286040-steamboat-willie.json](./286040-steamboat-willie.json) |
 | Steamboat Willie Incident | 327445 | [327445-steamboat-willie-incident.json](./327445-steamboat-willie-incident.json) |
 | Steamboat Willie Rescue Mission | 398597 | [398597-steamboat-willie-rescue-mission.json](./398597-steamboat-willie-rescue-mission.json) |
@@ -27368,6 +27376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super People | 158813 | [158813-super-people.json](./158813-super-people.json) |
 | Super Perspective | 65841 | [65841-super-perspective.json](./65841-super-perspective.json) |
 | Super Pet Hero | 245758 | [245758-super-pet-hero.json](./245758-super-pet-hero.json) |
+| Super Phantasy Fighters | 323101 | [323101-super-phantasy-fighters.json](./323101-super-phantasy-fighters.json) |
 | Super Phantom Cat | 90979 | [90979-super-phantom-cat.json](./90979-super-phantom-cat.json) |
 | Super Phantom Cat 2 | 89718 | [89718-super-phantom-cat-2.json](./89718-super-phantom-cat-2.json) |
 | Super Pickleball Adventure | 329409 | [329409-super-pickleball-adventure.json](./329409-super-pickleball-adventure.json) |
