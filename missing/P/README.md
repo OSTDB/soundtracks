@@ -6127,6 +6127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Rage Otome | 51569 | [51569-pink-rage-otome.json](./51569-pink-rage-otome.json) |
 | Pink River | 143471 | [143471-pink-river.json](./143471-pink-river.json) |
 | Pink Sweets: Ibara Sorekara | 66444 | [66444-pink-sweets-ibara-sorekara.json](./66444-pink-sweets-ibara-sorekara.json) |
+| Pink Takes Shape | 325995 | [325995-pink-takes-shape.json](./325995-pink-takes-shape.json) |
 | Pink World | 388950 | [388950-pink-world.json](./388950-pink-world.json) |
 | Pink World 2 | 388952 | [388952-pink-world-2.json](./388952-pink-world-2.json) |
 | Pink World 3 | 388953 | [388953-pink-world-3.json](./388953-pink-world-3.json) |
@@ -13909,6 +13910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prop Haunt | 330537 | [330537-prop-haunt.json](./330537-prop-haunt.json) |
 | Prop Hunt | 142924 | [142924-prop-hunt.json](./142924-prop-hunt.json) |
 | Prop Hunt Portable | 39195 | [39195-prop-hunt-portable.json](./39195-prop-hunt-portable.json) |
+| Prop Hunt Rumble | 326012 | [326012-prop-hunt-rumble.json](./326012-prop-hunt-rumble.json) |
 | Prop of the Class | 412940 | [412940-prop-of-the-class.json](./412940-prop-of-the-class.json) |
 | Prop Pack | 358096 | [358096-prop-pack.json](./358096-prop-pack.json) |
 | Prop Revolt | 416793 | [416793-prop-revolt.json](./416793-prop-revolt.json) |
@@ -14926,6 +14928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgation Swordstorm | 413722 | [413722-purgation-swordstorm.json](./413722-purgation-swordstorm.json) |
 | Purgatory | 268349 | [268349-purgatory.json](./268349-purgatory.json) |
 | Purgatory | 27773 | [27773-purgatory.json](./27773-purgatory.json) |
+| Purgatory | 325999 | [325999-purgatory.json](./325999-purgatory.json) |
 | Purgatory | 383013 | [383013-purgatory.json](./383013-purgatory.json) |
 | Purgatory Dungeoneer | 202581 | [202581-purgatory-dungeoneer.json](./202581-purgatory-dungeoneer.json) |
 | Purgatory Fell | 90254 | [90254-purgatory-fell.json](./90254-purgatory-fell.json) |
@@ -15001,6 +15004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrfection! The Cat Tossing Game!! | 174023 | [174023-purrfection-the-cat-tossing-game.json](./174023-purrfection-the-cat-tossing-game.json) |
 | Purrfectly Ever After | 150041 | [150041-purrfectly-ever-after.json](./150041-purrfectly-ever-after.json) |
 | Purrgatory | 165363 | [165363-purrgatory.json](./165363-purrgatory.json) |
+| Purrgonia | 326007 | [326007-purrgonia.json](./326007-purrgonia.json) |
 | Purrkour | 122925 | [122925-purrkour.json](./122925-purrkour.json) |
 | Purrplate | 372987 | [372987-purrplate.json](./372987-purrplate.json) |
 | Purrrfect Love | 204066 | [204066-purrrfect-love.json](./204066-purrrfect-love.json) |
