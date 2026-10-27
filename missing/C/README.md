@@ -7392,6 +7392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle of Football | 137614 | [137614-circle-of-football.json](./137614-circle-of-football.json) |
 | Circle of Nature | 327982 | [327982-circle-of-nature.json](./327982-circle-of-nature.json) |
 | Circle of Orion | 257930 | [257930-circle-of-orion.json](./257930-circle-of-orion.json) |
+| Circle of Sparks | 327093 | [327093-circle-of-sparks.json](./327093-circle-of-sparks.json) |
 | Circle of Sumo: Online Rumble! | 126661 | [126661-circle-of-sumo-online-rumble.json](./126661-circle-of-sumo-online-rumble.json) |
 | Circle of Swords | 276242 | [276242-circle-of-swords.json](./276242-circle-of-swords.json) |
 | Circle Pong | 289388 | [289388-circle-pong.json](./289388-circle-pong.json) |
@@ -10693,6 +10694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comixxx Flirtatious | 379647 | [379647-comixxx-flirtatious.json](./379647-comixxx-flirtatious.json) |
 | Comixxx Strip | 392936 | [392936-comixxx-strip.json](./392936-comixxx-strip.json) |
 | Comixxx Swap | 195741 | [195741-comixxx-swap.json](./195741-comixxx-swap.json) |
+| Comma | 327090 | [327090-comma.json](./327090-comma.json) |
 | Commanager Tycoon | 98992 | [98992-commanager-tycoon.json](./98992-commanager-tycoon.json) |
 | Command | 137940 | [137940-command.json](./137940-command.json) |
 | Command & Colours: The Great War | 175382 | [175382-command-and-colours-the-great-war.json](./175382-command-and-colours-the-great-war.json) |
