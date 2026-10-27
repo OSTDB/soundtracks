@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100+ Great Games: Volume II | 273902 | [273902-100-great-games-volume-ii.json](./273902-100-great-games-volume-ii.json) |
 | 100$ | 231486 | [231486-100.json](./231486-100.json) |
 | 1000 Amps | 6281 | [6281-1000-amps.json](./6281-1000-amps.json) |
+| 1000 Best Solitaire Games | 292004 | [292004-1000-best-solitaire-games.json](./292004-1000-best-solitaire-games.json) |
 | 1000 Days of Syria | 174227 | [174227-1000-days-of-syria.json](./174227-1000-days-of-syria.json) |
 | 1000 Deaths | 172435 | [172435-1000-deaths.json](./172435-1000-deaths.json) |
 | 1000 Games: Volume 3 | 125839 | [125839-1000-games-volume-3.json](./125839-1000-games-volume-3.json) |
@@ -2449,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Star Racing | 44820 | [44820-5-star-racing.json](./44820-5-star-racing.json) |
 | 5 Star Rio Resort | 38959 | [38959-5-star-rio-resort.json](./38959-5-star-rio-resort.json) |
 | 5 Years | 274126 | [274126-5-years.json](./274126-5-years.json) |
+| 5-fun go ni Igai na Ketsumatsu: Monochrome no Toshokan | 292032 | [292032-5-fun-go-ni-igai-na-ketsumatsu-monochrome-no-toshokan.json](./292032-5-fun-go-ni-igai-na-ketsumatsu-monochrome-no-toshokan.json) |
 | 5-Game Super Pak | 79754 | [79754-5-game-super-pak.json](./79754-5-game-super-pak.json) |
 | 5-in-1 Best Multiplayer & Couch Co-op Bundle | 267243 | [267243-5-in-1-best-multiplayer-and-couch-co-op-bundle.json](./267243-5-in-1-best-multiplayer-and-couch-co-op-bundle.json) |
 | 5-in-1 Bundle Brain Trainings | 84133 | [84133-5-in-1-bundle-brain-trainings.json](./84133-5-in-1-bundle-brain-trainings.json) |
