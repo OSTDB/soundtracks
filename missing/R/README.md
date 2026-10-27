@@ -8107,6 +8107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Power: Beach Bandits | 243188 | [243188-rocket-power-beach-bandits.json](./243188-rocket-power-beach-bandits.json) |
 | Rocket Power: Zero Gravity Zone | 262089 | [262089-rocket-power-zero-gravity-zone.json](./262089-rocket-power-zero-gravity-zone.json) |
 | Rocket Rabbit - Coin Race | 147866 | [147866-rocket-rabbit-coin-race.json](./147866-rocket-rabbit-coin-race.json) |
+| Rocket Racing: Fuse Starter Quest Pack | 303532 | [303532-rocket-racing-fuse-starter-quest-pack.json](./303532-rocket-racing-fuse-starter-quest-pack.json) |
 | Rocket Raid | 13751 | [13751-rocket-raid.json](./13751-rocket-raid.json) |
 | Rocket Ranger: Emulated Amiga Edition | 154944 | [154944-rocket-ranger-emulated-amiga-edition.json](./154944-rocket-ranger-emulated-amiga-edition.json) |
 | Rocket Riot | 20479 | [20479-rocket-riot.json](./20479-rocket-riot.json) |
