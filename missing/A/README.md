@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Blackout Protocol Report | 344237 | [344237-a-blackout-protocol-report.json](./344237-a-blackout-protocol-report.json) |
 | A Blast from the Past | 233566 | [233566-a-blast-from-the-past.json](./233566-a-blast-from-the-past.json) |
 | A Bleaker Predicklement | 106014 | [106014-a-bleaker-predicklement.json](./106014-a-bleaker-predicklement.json) |
+| A Blocc World | 293077 | [293077-a-blocc-world.json](./293077-a-blocc-world.json) |
 | A Blocky Kind of Love | 234012 | [234012-a-blocky-kind-of-love.json](./234012-a-blocky-kind-of-love.json) |
 | A Blurred Line | 47110 | [47110-a-blurred-line.json](./47110-a-blurred-line.json) |
 | A Bomb's Way | 64677 | [64677-a-bombs-way.json](./64677-a-bombs-way.json) |
@@ -685,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mausoleum for All | 294058 | [294058-a-mausoleum-for-all.json](./294058-a-mausoleum-for-all.json) |
 | A Maze 3D | 255856 | [255856-a-maze-3d.json](./255856-a-maze-3d.json) |
 | A Maze Against Time | 324980 | [324980-a-maze-against-time.json](./324980-a-maze-against-time.json) |
+| A Maze Dream: The Puzzle Journey | 293073 | [293073-a-maze-dream-the-puzzle-journey.json](./293073-a-maze-dream-the-puzzle-journey.json) |
 | A Maze for Owls | 182517 | [182517-a-maze-for-owls.json](./182517-a-maze-for-owls.json) |
 | A maze in Citadel | 120037 | [120037-a-maze-in-citadel.json](./120037-a-maze-in-citadel.json) |
 | A Maze in Labyrinth | 406526 | [406526-a-maze-in-labyrinth.json](./406526-a-maze-in-labyrinth.json) |
@@ -4018,6 +4020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age Of Warring Empire | 317046 | [317046-age-of-warring-empire.json](./317046-age-of-warring-empire.json) |
 | Age of Warscape | 28209 | [28209-age-of-warscape.json](./28209-age-of-warscape.json) |
 | Age of Water | 254322 | [254322-age-of-water.json](./254322-age-of-water.json) |
+| Age of Water: The First Voyage | 293080 | [293080-age-of-water-the-first-voyage.json](./293080-age-of-water-the-first-voyage.json) |
 | Age of Wonders | 589 | [589-age-of-wonders.json](./589-age-of-wonders.json) |
 | Age of Wonders 4 | 232571 | [232571-age-of-wonders-4.json](./232571-age-of-wonders-4.json) |
 | Age of Wonders 4: Cosmic Wanderer | 371020 | [371020-age-of-wonders-4-cosmic-wanderer.json](./371020-age-of-wonders-4-cosmic-wanderer.json) |
@@ -4071,6 +4074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Armstrong | 11293 | [11293-agent-armstrong.json](./11293-agent-armstrong.json) |
 | Agent Awesome | 26839 | [26839-agent-awesome.json](./26839-agent-awesome.json) |
 | Agent Bob | 357799 | [357799-agent-bob.json](./357799-agent-bob.json) |
+| Agent Brain: Tricky Puzzles | 293079 | [293079-agent-brain-tricky-puzzles.json](./293079-agent-brain-tricky-puzzles.json) |
 | Agent Dark | 409693 | [409693-agent-dark.json](./409693-agent-dark.json) |
 | Agent Dunoz | 333433 | [333433-agent-dunoz.json](./333433-agent-dunoz.json) |
 | Agent Fall | 324981 | [324981-agent-fall.json](./324981-agent-fall.json) |
@@ -7056,6 +7060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Weekend 2: Search and Relax - Collector's Edition | 337822 | [337822-amazing-weekend-2-search-and-relax-collectors-edition.json](./337822-amazing-weekend-2-search-and-relax-collectors-edition.json) |
 | Amazing Weekend 3: Search and Relax - Collector's Edition | 360444 | [360444-amazing-weekend-3-search-and-relax-collectors-edition.json](./360444-amazing-weekend-3-search-and-relax-collectors-edition.json) |
 | Amazing Weekend 4: Search and Relax - Collector's Edition | 386207 | [386207-amazing-weekend-4-search-and-relax-collectors-edition.json](./386207-amazing-weekend-4-search-and-relax-collectors-edition.json) |
+| Amazing Weekend: Search and Relax - Collector's Edition | 293049 | [293049-amazing-weekend-search-and-relax-collectors-edition.json](./293049-amazing-weekend-search-and-relax-collectors-edition.json) |
 | Amazing Wire | 233526 | [233526-amazing-wire.json](./233526-amazing-wire.json) |
 | Amazing Word Search | 180151 | [180151-amazing-word-search.json](./180151-amazing-word-search.json) |
 | Amazing World | 17235 | [17235-amazing-world.json](./17235-amazing-world.json) |
@@ -7127,6 +7132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambulance | 44372 | [44372-ambulance.json](./44372-ambulance.json) |
 | Ambulance Away | 233474 | [233474-ambulance-away.json](./233474-ambulance-away.json) |
 | Ambulance Chauffeur Simulator | 212904 | [212904-ambulance-chauffeur-simulator.json](./212904-ambulance-chauffeur-simulator.json) |
+| Ambulance Chauffeur Simulator 2 | 293127 | [293127-ambulance-chauffeur-simulator-2.json](./293127-ambulance-chauffeur-simulator-2.json) |
 | Ambulance Driver | 311816 | [311816-ambulance-driver.json](./311816-ambulance-driver.json) |
 | Ambulance Driver Life VR | 361032 | [361032-ambulance-driver-life-vr.json](./361032-ambulance-driver-life-vr.json) |
 | Ambulance Emergency Simulation | 286450 | [286450-ambulance-emergency-simulation.json](./286450-ambulance-emergency-simulation.json) |
@@ -7136,6 +7142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambulance Race | 221712 | [221712-ambulance-race.json](./221712-ambulance-race.json) |
 | Ambulance Rescue | 101678 | [101678-ambulance-rescue.json](./101678-ambulance-rescue.json) |
 | Ambulance Simulator | 9973 | [9973-ambulance-simulator.json](./9973-ambulance-simulator.json) |
+| Ambulance Simulator 911 Emergency | 293128 | [293128-ambulance-simulator-911-emergency.json](./293128-ambulance-simulator-911-emergency.json) |
 | Ambulance Simulator 911 Rescue | 370560 | [370560-ambulance-simulator-911-rescue.json](./370560-ambulance-simulator-911-rescue.json) |
 | Ambunkular Flumbulus | 401269 | [401269-ambunkular-flumbulus.json](./401269-ambunkular-flumbulus.json) |
 | Ambush | 164935 | [164935-ambush.json](./164935-ambush.json) |
