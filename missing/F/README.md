@@ -8064,6 +8064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ford Simulator 7 | 105681 | [105681-ford-simulator-7.json](./105681-ford-simulator-7.json) |
 | Ford Simulator II | 73619 | [73619-ford-simulator-ii.json](./73619-ford-simulator-ii.json) |
 | Ford Simulator III | 80646 | [80646-ford-simulator-iii.json](./80646-ford-simulator-iii.json) |
+| Ford Street Racing: XR Edition | 327743 | [327743-ford-street-racing-xr-edition.json](./327743-ford-street-racing-xr-edition.json) |
 | Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
 | Forebearers | 112704 | [112704-forebearers.json](./112704-forebearers.json) |
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
@@ -8552,6 +8553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken | 322700 | [322700-forsaken.json](./322700-forsaken.json) |
 | Forsaken | 378535 | [378535-forsaken.json](./378535-forsaken.json) |
 | Forsaken | 718 | [718-forsaken.json](./718-forsaken.json) |
+| Forsaken 64 | 327724 | [327724-forsaken-64.json](./327724-forsaken-64.json) |
 | Forsaken Champions | 201552 | [201552-forsaken-champions.json](./201552-forsaken-champions.json) |
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
 | Forsaken Denizen | 395004 | [395004-forsaken-denizen.json](./395004-forsaken-denizen.json) |
