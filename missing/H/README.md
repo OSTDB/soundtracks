@@ -3761,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Lovely Fruit Park | 36741 | [36741-hello-kitty-lovely-fruit-park.json](./36741-hello-kitty-lovely-fruit-park.json) |
 | Hello Kitty Lunchbox | 225660 | [225660-hello-kitty-lunchbox.json](./225660-hello-kitty-lunchbox.json) |
 | Hello Kitty Mahjong | 292106 | [292106-hello-kitty-mahjong.json](./292106-hello-kitty-mahjong.json) |
+| Hello Kitty Mahjong | 308184 | [308184-hello-kitty-mahjong.json](./308184-hello-kitty-mahjong.json) |
 | Hello Kitty Music Party | 288137 | [288137-hello-kitty-music-party.json](./288137-hello-kitty-music-party.json) |
 | Hello Kitty My Dream Store | 334062 | [334062-hello-kitty-my-dream-store.json](./334062-hello-kitty-my-dream-store.json) |
 | Hello Kitty no 'Otonaru' Mail | 279598 | [279598-hello-kitty-no-otonaru-mail.json](./279598-hello-kitty-no-otonaru-mail.json) |
@@ -8802,6 +8803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostile Space Revived | 97973 | [97973-hostile-space-revived.json](./97973-hostile-space-revived.json) |
 | Hostile Takeover | 143533 | [143533-hostile-takeover.json](./143533-hostile-takeover.json) |
 | Hostile Takeover | 182754 | [182754-hostile-takeover.json](./182754-hostile-takeover.json) |
+| Hostile Terrain | 308319 | [308319-hostile-terrain.json](./308319-hostile-terrain.json) |
 | Hostile User Interface | 112794 | [112794-hostile-user-interface.json](./112794-hostile-user-interface.json) |
 | Hostile Waters | 308449 | [308449-hostile-waters.json](./308449-hostile-waters.json) |
 | Hosting Simulator: 2026 | 406312 | [406312-hosting-simulator-2026.json](./406312-hosting-simulator-2026.json) |
@@ -9357,6 +9359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of the Dead 2 & 3 Return | 200001 | [200001-house-of-the-dead-2-and-3-return.json](./200001-house-of-the-dead-2-and-3-return.json) |
 | House of the Golden Mask | 378175 | [378175-house-of-the-golden-mask.json](./378175-house-of-the-golden-mask.json) |
 | House of the Soul | 234198 | [234198-house-of-the-soul.json](./234198-house-of-the-soul.json) |
+| House of Torment | 308177 | [308177-house-of-torment.json](./308177-house-of-torment.json) |
 | House of Usher | 125339 | [125339-house-of-usher.json](./125339-house-of-usher.json) |
 | House of Usher | 14560 | [14560-house-of-usher.json](./14560-house-of-usher.json) |
 | House of Usher | 25721 | [25721-house-of-usher.json](./25721-house-of-usher.json) |
