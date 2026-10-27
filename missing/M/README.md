@@ -3823,6 +3823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marscapes | 188274 | [188274-marscapes.json](./188274-marscapes.json) |
 | MarsCity3026 | 406242 | [406242-marscity3026.json](./406242-marscity3026.json) |
 | Marsel: The Alien Clown | 245920 | [245920-marsel-the-alien-clown.json](./245920-marsel-the-alien-clown.json) |
+| Marselo: The Game | 286921 | [286921-marselo-the-game.json](./286921-marselo-the-game.json) |
 | Marsh | 270151 | [270151-marsh.json](./270151-marsh.json) |
 | Marsh Into the New Dimension | 396227 | [396227-marsh-into-the-new-dimension.json](./396227-marsh-into-the-new-dimension.json) |
 | Marsh's Mellow Flower Shop | 380220 | [380220-marshs-mellow-flower-shop.json](./380220-marshs-mellow-flower-shop.json) |
@@ -13034,6 +13035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monjum | 356506 | [356506-monjum.json](./356506-monjum.json) |
 | Monk & The Misfit Monsters | 413622 | [413622-monk-and-the-misfit-monsters.json](./413622-monk-and-the-misfit-monsters.json) |
 | Monk Took Book | 393839 | [393839-monk-took-book.json](./393839-monk-took-book.json) |
+| Monk Warriors | 287251 | [287251-monk-warriors.json](./287251-monk-warriors.json) |
 | Monkaru Fanta: Yuusha to Suishou no Shoujo | 348924 | [348924-monkaru-fanta-yuusha-to-suishou-no-shoujo.json](./348924-monkaru-fanta-yuusha-to-suishou-no-shoujo.json) |
 | Monke Adventure | 257221 | [257221-monke-adventure.json](./257221-monke-adventure.json) |
 | Monke Island: Rise of the Beast | 283115 | [283115-monke-island-rise-of-the-beast.json](./283115-monke-island-rise-of-the-beast.json) |
