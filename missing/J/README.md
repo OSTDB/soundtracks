@@ -1447,7 +1447,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw City Princess | 332353 | [332353-jigsaw-city-princess.json](./332353-jigsaw-city-princess.json) |
 | Jigsaw Classics | 188116 | [188116-jigsaw-classics.json](./188116-jigsaw-classics.json) |
 | Jigsaw Detective | 366437 | [366437-jigsaw-detective.json](./366437-jigsaw-detective.json) |
+| Jigsaw Dinosaurs | 284945 | [284945-jigsaw-dinosaurs.json](./284945-jigsaw-dinosaurs.json) |
 | Jigsaw Explorer | 290261 | [290261-jigsaw-explorer.json](./290261-jigsaw-explorer.json) |
+| Jigsaw Fantastic Pets | 284944 | [284944-jigsaw-fantastic-pets.json](./284944-jigsaw-fantastic-pets.json) |
 | Jigsaw Frame: Relax | 162996 | [162996-jigsaw-frame-relax.json](./162996-jigsaw-frame-relax.json) |
 | Jigsaw Fun 3-in-1 Collection | 197341 | [197341-jigsaw-fun-3-in-1-collection.json](./197341-jigsaw-fun-3-in-1-collection.json) |
 | Jigsaw Fun: 3-in-1 Collection | 196259 | [196259-jigsaw-fun-3-in-1-collection.json](./196259-jigsaw-fun-3-in-1-collection.json) |
@@ -2158,6 +2160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Trigger: Avenger DLC | 256690 | [256690-johnny-trigger-avenger-dlc.json](./256690-johnny-trigger-avenger-dlc.json) |
 | Johnny Trigger: Avenger Edition | 270291 | [270291-johnny-trigger-avenger-edition.json](./270291-johnny-trigger-avenger-edition.json) |
 | Johnny Trigger: Butcher DLC | 256688 | [256688-johnny-trigger-butcher-dlc.json](./256688-johnny-trigger-butcher-dlc.json) |
+| Johnny Trigger: Butcher Edition | 284935 | [284935-johnny-trigger-butcher-edition.json](./284935-johnny-trigger-butcher-edition.json) |
 | Johnny Trigger: Diamond Edition | 393066 | [393066-johnny-trigger-diamond-edition.json](./393066-johnny-trigger-diamond-edition.json) |
 | Johnny Trigger: Emerald Edition | 385203 | [385203-johnny-trigger-emerald-edition.json](./385203-johnny-trigger-emerald-edition.json) |
 | Johnny Trigger: Gold Edition | 396919 | [396919-johnny-trigger-gold-edition.json](./396919-johnny-trigger-gold-edition.json) |
