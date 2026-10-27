@@ -3450,6 +3450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferrum's Secrets: Where is grandpa? - Collector's edition | 53047 | [53047-ferrums-secrets-where-is-grandpa-collectors-edition.json](./53047-ferrums-secrets-where-is-grandpa-collectors-edition.json) |
 | Ferry Good Day | 391725 | [391725-ferry-good-day.json](./391725-ferry-good-day.json) |
 | Fertiliel: Cupid Simulator | 312460 | [312460-fertiliel-cupid-simulator.json](./312460-fertiliel-cupid-simulator.json) |
+| Fertilizer | 283551 | [283551-fertilizer.json](./283551-fertilizer.json) |
 | Ferulorum | 338689 | [338689-ferulorum.json](./338689-ferulorum.json) |
 | Ferus: The Dark Abyss | 385829 | [385829-ferus-the-dark-abyss.json](./385829-ferus-the-dark-abyss.json) |
 | Fervent | 310647 | [310647-fervent.json](./310647-fervent.json) |
@@ -8076,6 +8077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Sparta | 343740 | [343740-for-sparta.json](./343740-for-sparta.json) |
 | For Stella | 392276 | [392276-for-stella.json](./392276-for-stella.json) |
 | For Symphony: With All One's Heart | 202609 | [202609-for-symphony-with-all-ones-heart.json](./202609-for-symphony-with-all-ones-heart.json) |
+| For the Birds VI | 283796 | [283796-for-the-birds-vi.json](./283796-for-the-birds-vi.json) |
 | For The Fatherland | 408123 | [408123-for-the-fatherland.json](./408123-for-the-fatherland.json) |
 | For the Fish in the Bottle | 402919 | [402919-for-the-fish-in-the-bottle.json](./402919-for-the-fish-in-the-bottle.json) |
 | For the Forge | 348403 | [348403-for-the-forge.json](./348403-for-the-forge.json) |
@@ -9683,6 +9685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franklin's Great Adventures | 48044 | [48044-franklins-great-adventures.json](./48044-franklins-great-adventures.json) |
 | Franky Lettuce | 113667 | [113667-franky-lettuce.json](./113667-franky-lettuce.json) |
 | Franky the Bumwalker | 76493 | [76493-franky-the-bumwalker.json](./76493-franky-the-bumwalker.json) |
+| Franky's Adventures | 283562 | [283562-frankys-adventures.json](./283562-frankys-adventures.json) |
 | Frankystein | 97451 | [97451-frankystein.json](./97451-frankystein.json) |
 | Frantic | 292087 | [292087-frantic.json](./292087-frantic.json) |
 | Frantic | 387920 | [387920-frantic.json](./387920-frantic.json) |
