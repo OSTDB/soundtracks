@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes+ | 28586 | [28586-echoes.json](./28586-echoes.json) |
 | EchoEvade | 386295 | [386295-echoevade.json](./386295-echoevade.json) |
 | Echofall | 391560 | [391560-echofall.json](./391560-echofall.json) |
+| Echoing Silence | 332957 | [332957-echoing-silence.json](./332957-echoing-silence.json) |
 | Echoland | 415209 | [415209-echoland.json](./415209-echoland.json) |
 | Echolight | 287712 | [287712-echolight.json](./287712-echolight.json) |
 | Echolink: Recursion | 406946 | [406946-echolink-recursion.json](./406946-echolink-recursion.json) |
@@ -4660,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Island | 128852 | [128852-escape-the-island.json](./128852-escape-the-island.json) |
 | Escape the Lab | 126938 | [126938-escape-the-lab.json](./126938-escape-the-lab.json) |
 | Escape the Labyrinth | 109317 | [109317-escape-the-labyrinth.json](./109317-escape-the-labyrinth.json) |
+| Escape the Laser Trap | 332926 | [332926-escape-the-laser-trap.json](./332926-escape-the-laser-trap.json) |
 | Escape the Loop | 30183 | [30183-escape-the-loop.json](./30183-escape-the-loop.json) |
 | Escape The Lost Kingdom: The Forgotten Pharaoh | 17293 | [17293-escape-the-lost-kingdom-the-forgotten-pharaoh.json](./17293-escape-the-lost-kingdom-the-forgotten-pharaoh.json) |
 | Escape the Mad Empire | 217233 | [217233-escape-the-mad-empire.json](./217233-escape-the-mad-empire.json) |
@@ -6473,6 +6475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus: Sunflower on the Horizon | 257977 | [257977-exodus-sunflower-on-the-horizon.json](./257977-exodus-sunflower-on-the-horizon.json) |
 | Exodus: The Last War | 69930 | [69930-exodus-the-last-war.json](./69930-exodus-the-last-war.json) |
 | Exofinity Clicker | 383579 | [383579-exofinity-clicker.json](./383579-exofinity-clicker.json) |
+| Exoforge | 332931 | [332931-exoforge.json](./332931-exoforge.json) |
 | ExoFrontier: Venus | 319724 | [319724-exofrontier-venus.json](./319724-exofrontier-venus.json) |
 | Exogate Initiative | 161695 | [161695-exogate-initiative.json](./161695-exogate-initiative.json) |
 | Exogear | 415210 | [415210-exogear.json](./415210-exogear.json) |
@@ -6582,6 +6585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expedition Zero | 142883 | [142883-expedition-zero.json](./142883-expedition-zero.json) |
 | Expedition: Crushing Depth | 276293 | [276293-expedition-crushing-depth.json](./276293-expedition-crushing-depth.json) |
 | Expedition: Into Darkness | 324300 | [324300-expedition-into-darkness.json](./324300-expedition-into-darkness.json) |
+| Expedition: Shadow World | 332939 | [332939-expedition-shadow-world.json](./332939-expedition-shadow-world.json) |
 | Expeditions | 363013 | [363013-expeditions.json](./363013-expeditions.json) |
 | Expeditions: A MudRunner Game - Day One Edition | 291542 | [291542-expeditions-a-mudrunner-game-day-one-edition.json](./291542-expeditions-a-mudrunner-game-day-one-edition.json) |
 | Expeditions: A MudRunner Game - Season 1: Cave Odyssey | 397701 | [397701-expeditions-a-mudrunner-game-season-1-cave-odyssey.json](./397701-expeditions-a-mudrunner-game-season-1-cave-odyssey.json) |
