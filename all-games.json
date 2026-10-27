@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-27T18:57:41.888Z",
-  "total_soundtracks": 2613,
+  "generated_at": "2026-10-27T19:01:17.695Z",
+  "total_soundtracks": 2618,
   "games": [
     {
       "igdb_id": 7522,
@@ -583,6 +583,20 @@
         {
           "album_name": "Aeolis Tournament (Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6A36WeeL7GTfOxiJB6wUJz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 138206,
+      "game_name": "Aerial_Knight's Never Yield",
+      "game_url": "https://ostdb.net/games/aerial-knights-never-yield",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c025f43ea233e77d2eb3e419",
+      "albums": [
+        {
+          "album_name": "Aerial_Knight's Never Yield (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7JSlq49YRxbGT876FsjoBM",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -2987,6 +3001,20 @@
       ]
     },
     {
+      "igdb_id": 11287,
+      "game_name": "Beach Buggy Racing",
+      "game_url": "https://ostdb.net/games/beach-buggy-racing",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27353ae89100dfef4728fbf5d35",
+      "albums": [
+        {
+          "album_name": "Beach Buggy Racing (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7Iko4iuMKCoP8QkbSHUNgB",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 143113,
       "game_name": "Beacon Pines",
       "game_url": "https://ostdb.net/games/beacon-pines",
@@ -3318,6 +3346,20 @@
           "album_name": "《黑神话：悟空》游戏音乐精选集（Black Myth: Wukong Soundtrack Selection）",
           "spotify_url": "https://open.spotify.com/album/0tdZ4l3vrAbRFcCT7B4kmY",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 122132,
+      "game_name": "Black Skylands",
+      "game_url": "https://ostdb.net/games/black-skylands",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dba111d9b001cb24672da914",
+      "albums": [
+        {
+          "album_name": "Black Skylands (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3eSHDpUJESFXyEZcXW2SRQ",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -5478,6 +5520,20 @@
           "album_name": "Cookie Clicker",
           "spotify_url": "https://open.spotify.com/album/5VeKlnm3zx3y24HONzr6S9",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 78951,
+      "game_name": "Cookie Run: OvenBreak",
+      "game_url": "https://ostdb.net/games/cookie-run-ovenbreak",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e3efcdb4a6d23e4f64a2bc3a",
+      "albums": [
+        {
+          "album_name": "Cookie Run: Ovenbreak OST",
+          "spotify_url": "https://open.spotify.com/album/6ZgJ1Mt9HX4fGWrzJXmNF3",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -13377,6 +13433,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/humankind-original-game-soundtrack/1578911803?uo=4",
           "album_link_url": "https://album.link/i/1578911803"
+        }
+      ]
+    },
+    {
+      "igdb_id": 120720,
+      "game_name": "Hundred Days",
+      "game_url": "https://ostdb.net/games/hundred-days",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e41ec52e606d94406f6210ef",
+      "albums": [
+        {
+          "album_name": "Hundred Days (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0qR5ocF5t4SHSdReUreciI",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
