@@ -8957,6 +8957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annalynn | 142687 | [142687-annalynn.json](./142687-annalynn.json) |
 | Annalynn '16 | 313076 | [313076-annalynn-16.json](./313076-annalynn-16.json) |
 | Annapurna Interactive Deluxe Limited Edition | 138780 | [138780-annapurna-interactive-deluxe-limited-edition.json](./138780-annapurna-interactive-deluxe-limited-edition.json) |
+| Annapurna Interactive Deluxe Limited Edition Collection | 286940 | [286940-annapurna-interactive-deluxe-limited-edition-collection.json](./286940-annapurna-interactive-deluxe-limited-edition-collection.json) |
 | Annapurna Interactive: Ultimate Collection | 139065 | [139065-annapurna-interactive-ultimate-collection.json](./139065-annapurna-interactive-ultimate-collection.json) |
 | AnnaTommy | 218102 | [218102-annatommy.json](./218102-annatommy.json) |
 | Anne Frank House VR | 143341 | [143341-anne-frank-house-vr.json](./143341-anne-frank-house-vr.json) |
@@ -12563,6 +12564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Above So Below | 217455 | [217455-as-above-so-below.json](./217455-as-above-so-below.json) |
 | As Aventuras da Abelhinha Maya | 273877 | [273877-as-aventuras-da-abelhinha-maya.json](./273877-as-aventuras-da-abelhinha-maya.json) |
 | As Aventuras da TV Colosso | 92887 | [92887-as-aventuras-da-tv-colosso.json](./92887-as-aventuras-da-tv-colosso.json) |
+| As Aventuras de Hércules Vol. 2: A Hidra de Lerna | 286927 | [286927-as-aventuras-de-hercules-vol-2-a-hidra-de-lerna.json](./286927-as-aventuras-de-hercules-vol-2-a-hidra-de-lerna.json) |
 | As Aventuras de Kiwi | 306710 | [306710-as-aventuras-de-kiwi.json](./306710-as-aventuras-de-kiwi.json) |
 | As Aventuras de Zé Baldinho | 252049 | [252049-as-aventuras-de-ze-baldinho.json](./252049-as-aventuras-de-ze-baldinho.json) |
 | As Cold as the Grave | 176924 | [176924-as-cold-as-the-grave.json](./176924-as-cold-as-the-grave.json) |
@@ -13869,6 +13871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asura's Wrath: Lost Episode 1 | 182447 | [182447-asuras-wrath-lost-episode-1.json](./182447-asuras-wrath-lost-episode-1.json) |
 | Asura's Wrath: Lost Episode 2 | 182448 | [182448-asuras-wrath-lost-episode-2.json](./182448-asuras-wrath-lost-episode-2.json) |
 | Asuria Awakens | 175390 | [175390-asuria-awakens.json](./175390-asuria-awakens.json) |
+| Asurya's Embers | 287065 | [287065-asuryas-embers.json](./287065-asuryas-embers.json) |
 | Asva the Monkey HD | 175558 | [175558-asva-the-monkey-hd.json](./175558-asva-the-monkey-hd.json) |
 | Asvara | 375517 | [375517-asvara.json](./375517-asvara.json) |
 | Aswang Detective: The Case of New York | 236326 | [236326-aswang-detective-the-case-of-new-york.json](./236326-aswang-detective-the-case-of-new-york.json) |
