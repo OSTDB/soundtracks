@@ -11213,6 +11213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookbinding | 340592 | [340592-bookbinding.json](./340592-bookbinding.json) |
 | Bookbound | 370103 | [370103-bookbound.json](./370103-bookbound.json) |
 | Bookbound Brigade | 121218 | [121218-bookbound-brigade.json](./121218-bookbound-brigade.json) |
+| BookClub! | 282419 | [282419-bookclub.json](./282419-bookclub.json) |
 | Bookend | 115559 | [115559-bookend.json](./115559-bookend.json) |
 | Bookers: Underground Chapter | 104085 | [104085-bookers-underground-chapter.json](./104085-bookers-underground-chapter.json) |
 | Bookey Manor | 333915 | [333915-bookey-manor.json](./333915-bookey-manor.json) |
