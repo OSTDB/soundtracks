@@ -1418,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamaghost Jump! | 307681 | [307681-tamaghost-jump.json](./307681-tamaghost-jump.json) |
 | Tamaghost Jump!I Can't Believe It's Not Exorcism! | 307690 | [307690-tamaghost-jump-i-cant-believe-its-not-exorcism.json](./307690-tamaghost-jump-i-cant-believe-its-not-exorcism.json) |
 | Tamago | 369056 | [369056-tamago.json](./369056-tamago.json) |
+| Tamagopanda no Muchuu Land ni Youkoso!: Waku-waku Taiken Stamp Rally 100 | 327706 | [327706-tamagopanda-no-muchuu-land-ni-youkoso-waku-waku-taiken-stamp-rally-100.json](./327706-tamagopanda-no-muchuu-land-ni-youkoso-waku-waku-taiken-stamp-rally-100.json) |
 | Tamagotchi | 11284 | [11284-tamagotchi.json](./11284-tamagotchi.json) |
 | Tamagotchi | 194325 | [194325-tamagotchi.json](./194325-tamagotchi.json) |
 | Tamagotchi | 301415 | [301415-tamagotchi.json](./301415-tamagotchi.json) |
@@ -15341,6 +15342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trash Pack: The Gross Gang in Your Garbage | 9752 | [9752-the-trash-pack-the-gross-gang-in-your-garbage.json](./9752-the-trash-pack-the-gross-gang-in-your-garbage.json) |
 | The Trashcan Games | 302060 | [302060-the-trashcan-games.json](./302060-the-trashcan-games.json) |
 | The Traveler's Path | 236124 | [236124-the-travelers-path.json](./236124-the-travelers-path.json) |
+| The Travelers | 327750 | [327750-the-travelers.json](./327750-the-travelers.json) |
 | The Traveling Witch in Animal Town | 388386 | [388386-the-traveling-witch-in-animal-town.json](./388386-the-traveling-witch-in-animal-town.json) |
 | The Traveller | 254911 | [254911-the-traveller.json](./254911-the-traveller.json) |
 | The Traveller and the Mountain | 178570 | [178570-the-traveller-and-the-mountain.json](./178570-the-traveller-and-the-mountain.json) |
@@ -16531,6 +16533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thelma Fantastic | 389165 | [389165-thelma-fantastic.json](./389165-thelma-fantastic.json) |
 | TheLooppy | 83487 | [83487-thelooppy.json](./83487-thelooppy.json) |
 | Thelos | 216443 | [216443-thelos.json](./216443-thelos.json) |
+| TheLostWoods | 327763 | [327763-thelostwoods.json](./327763-thelostwoods.json) |
 | Them and Us | 107688 | [107688-them-and-us.json](./107688-them-and-us.json) |
 | Them or Us | 216995 | [216995-them-or-us.json](./216995-them-or-us.json) |
 | Them: The Summoning | 10957 | [10957-them-the-summoning.json](./10957-them-the-summoning.json) |
@@ -22028,6 +22031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Incremental Battle | 390134 | [390134-total-incremental-battle.json](./390134-total-incremental-battle.json) |
 | Total Infiltration | 273229 | [273229-total-infiltration.json](./273229-total-infiltration.json) |
 | Total Jigsaw | 99745 | [99745-total-jigsaw.json](./99745-total-jigsaw.json) |
+| Total Loadout | 327749 | [327749-total-loadout.json](./327749-total-loadout.json) |
 | Total Madness | 130219 | [130219-total-madness.json](./130219-total-madness.json) |
 | Total Miner | 77339 | [77339-total-miner.json](./77339-total-miner.json) |
 | Total Miner: Forge | 65845 | [65845-total-miner-forge.json](./65845-total-miner-forge.json) |
