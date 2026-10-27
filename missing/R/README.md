@@ -1958,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenwood Drive | 311626 | [311626-ravenwood-drive.json](./311626-ravenwood-drive.json) |
 | Ravenwood Horror | 59916 | [59916-ravenwood-horror.json](./59916-ravenwood-horror.json) |
 | Raver Champions | 129589 | [129589-raver-champions.json](./129589-raver-champions.json) |
+| Raver Simulator | 291431 | [291431-raver-simulator.json](./291431-raver-simulator.json) |
 | Raver's Rumble | 291967 | [291967-ravers-rumble.json](./291967-ravers-rumble.json) |
 | Raveren: The Legend Of Etheria | 378365 | [378365-raveren-the-legend-of-etheria.json](./378365-raveren-the-legend-of-etheria.json) |
 | Ravesta Racing | 127752 | [127752-ravesta-racing.json](./127752-ravesta-racing.json) |
@@ -4241,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remington Super Slam Hunting Alaska | 10765 | [10765-remington-super-slam-hunting-alaska.json](./10765-remington-super-slam-hunting-alaska.json) |
 | Remington Super Slam Hunting: North America | 51137 | [51137-remington-super-slam-hunting-north-america.json](./51137-remington-super-slam-hunting-north-america.json) |
 | Remington Upland Game Hunter | 319121 | [319121-remington-upland-game-hunter.json](./319121-remington-upland-game-hunter.json) |
+| Remington, the A.I. | 291425 | [291425-remington-the-a-i.json](./291425-remington-the-a-i.json) |
 | Reminisce | 306685 | [306685-reminisce.json](./306685-reminisce.json) |
 | Reminiscence | 154887 | [154887-reminiscence.json](./154887-reminiscence.json) |
 | Reminiscence | 360643 | [360643-reminiscence.json](./360643-reminiscence.json) |
