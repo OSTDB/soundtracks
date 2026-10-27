@@ -1276,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Hamburgers Save the World | 224215 | [224215-idle-hamburgers-save-the-world.json](./224215-idle-hamburgers-save-the-world.json) |
 | Idle Harem Dungeon | 374907 | [374907-idle-harem-dungeon.json](./374907-idle-harem-dungeon.json) |
 | Idle Heist | 101368 | [101368-idle-heist.json](./101368-idle-heist.json) |
+| Idle Hero TD | 296314 | [296314-idle-hero-td.json](./296314-idle-hero-td.json) |
 | Idle Hero World | 127210 | [127210-idle-hero-world.json](./127210-idle-hero-world.json) |
 | Idle Heroes | 56380 | [56380-idle-heroes.json](./56380-idle-heroes.json) |
 | Idle Heroes - Idle Games | 87173 | [87173-idle-heroes-idle-games.json](./87173-idle-heroes-idle-games.json) |
@@ -4294,6 +4295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interrogation 091 | 184592 | [184592-interrogation-091.json](./184592-interrogation-091.json) |
 | Interrogation Simulator | 208333 | [208333-interrogation-simulator.json](./208333-interrogation-simulator.json) |
 | Interrogation: You Will Be Deceived | 115118 | [115118-interrogation-you-will-be-deceived.json](./115118-interrogation-you-will-be-deceived.json) |
+| Interrogator | 296407 | [296407-interrogator.json](./296407-interrogator.json) |
 | Interrogator 2 | 370239 | [370239-interrogator-2.json](./370239-interrogator-2.json) |
 | Interruption | 208245 | [208245-interruption.json](./208245-interruption.json) |
 | Intersectio | 390069 | [390069-intersectio.json](./390069-intersectio.json) |
