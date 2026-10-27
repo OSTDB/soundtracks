@@ -5358,6 +5358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heros Survival | 304898 | [304898-heros-survival.json](./304898-heros-survival.json) |
 | Heros: The Sanguine Seven | 140621 | [140621-heros-the-sanguine-seven.json](./140621-heros-the-sanguine-seven.json) |
 | HeroSmash | 277160 | [277160-herosmash.json](./277160-herosmash.json) |
+| HeroStory | 289273 | [289273-herostory.json](./289273-herostory.json) |
 | HeroSurvival | 248148 | [248148-herosurvival.json](./248148-herosurvival.json) |
 | Herotome | 364377 | [364377-herotome.json](./364377-herotome.json) |
 | HeroVersus | 239750 | [239750-heroversus.json](./239750-heroversus.json) |
@@ -5468,6 +5469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexadecordle | 194882 | [194882-hexadecordle.json](./194882-hexadecordle.json) |
 | Hexadel | 374921 | [374921-hexadel.json](./374921-hexadel.json) |
 | Hexadrift | 126918 | [126918-hexadrift.json](./126918-hexadrift.json) |
+| Hexaflip | 289295 | [289295-hexaflip.json](./289295-hexaflip.json) |
 | Hexagolines | 262218 | [262218-hexagolines.json](./262218-hexagolines.json) |
 | Hexagon Defense | 147909 | [147909-hexagon-defense.json](./147909-hexagon-defense.json) |
 | Hexagon Defense | 36965 | [36965-hexagon-defense.json](./36965-hexagon-defense.json) |
@@ -5644,6 +5646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeXpunk | 343246 | [343246-hexpunk.json](./343246-hexpunk.json) |
 | Hexroll | 337779 | [337779-hexroll.json](./337779-hexroll.json) |
 | HexRoller | 253015 | [253015-hexroller.json](./253015-hexroller.json) |
+| Hexseeker | 289285 | [289285-hexseeker.json](./289285-hexseeker.json) |
 | Hexsequence | 176153 | [176153-hexsequence.json](./176153-hexsequence.json) |
 | HexSwarm: Hostile Worlds | 389721 | [389721-hexswarm-hostile-worlds.json](./389721-hexswarm-hostile-worlds.json) |
 | Hextalia | 353966 | [353966-hextalia.json](./353966-hextalia.json) |
@@ -7817,6 +7820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Designer: House Makeover | 239035 | [239035-home-designer-house-makeover.json](./239035-home-designer-house-makeover.json) |
 | Home Designer: Living Room | 169947 | [169947-home-designer-living-room.json](./169947-home-designer-living-room.json) |
 | Home Designer: Makeover Blast | 169149 | [169149-home-designer-makeover-blast.json](./169149-home-designer-makeover-blast.json) |
+| Home Detective: Immersive Edition | 289291 | [289291-home-detective-immersive-edition.json](./289291-home-detective-immersive-edition.json) |
 | Home Domes | 277962 | [277962-home-domes.json](./277962-home-domes.json) |
 | Home Escape | 120139 | [120139-home-escape.json](./120139-home-escape.json) |
 | Home for Friends: Beloved Pets - Collector's Edition | 360558 | [360558-home-for-friends-beloved-pets-collectors-edition.json](./360558-home-for-friends-beloved-pets-collectors-edition.json) |
