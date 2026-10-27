@@ -2217,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impaler Gold | 196078 | [196078-impaler-gold.json](./196078-impaler-gold.json) |
 | Impartial | 339091 | [339091-impartial.json](./339091-impartial.json) |
 | Impasse | 317205 | [317205-impasse.json](./317205-impasse.json) |
+| Impasse Journey: Kaohsiung Chapter | 284378 | [284378-impasse-journey-kaohsiung-chapter.json](./284378-impasse-journey-kaohsiung-chapter.json) |
 | Impassioned Fowl | 179544 | [179544-impassioned-fowl.json](./179544-impassioned-fowl.json) |
 | Impavidvm | 158527 | [158527-impavidvm.json](./158527-impavidvm.json) |
 | Impawlse | 303575 | [303575-impawlse.json](./303575-impawlse.json) |
@@ -4016,6 +4017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instinct: Survival | 118000 | [118000-instinct-survival.json](./118000-instinct-survival.json) |
 | Instinction | 143565 | [143565-instinction.json](./143565-instinction.json) |
 | Instruction | 285857 | [285857-instruction.json](./285857-instruction.json) |
+| Instruction Chu | 284517 | [284517-instruction-chu.json](./284517-instruction-chu.json) |
 | InstrumentChamp | 95906 | [95906-instrumentchamp.json](./95906-instrumentchamp.json) |
 | Instruments of Chaos Starring Young Indiana Jones | 73006 | [73006-instruments-of-chaos-starring-young-indiana-jones.json](./73006-instruments-of-chaos-starring-young-indiana-jones.json) |
 | Instruments of Destruction | 149952 | [149952-instruments-of-destruction.json](./149952-instruments-of-destruction.json) |
@@ -4339,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Escape | 333795 | [333795-interstellar-escape.json](./333795-interstellar-escape.json) |
 | Interstellar Espionage Inc. | 372453 | [372453-interstellar-espionage-inc.json](./372453-interstellar-espionage-inc.json) |
 | Interstellar Expedition | 246818 | [246818-interstellar-expedition.json](./246818-interstellar-expedition.json) |
+| Interstellar Flames | 284383 | [284383-interstellar-flames.json](./284383-interstellar-flames.json) |
 | Interstellar Flames 2 | 70574 | [70574-interstellar-flames-2.json](./70574-interstellar-flames-2.json) |
 | Interstellar Highway Robbery | 180793 | [180793-interstellar-highway-robbery.json](./180793-interstellar-highway-robbery.json) |
 | Interstellar Holy Spirit | 372128 | [372128-interstellar-holy-spirit.json](./372128-interstellar-holy-spirit.json) |
