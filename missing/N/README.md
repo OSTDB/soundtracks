@@ -2711,6 +2711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New 3D Golf Simulation: Eight Lakes G.C. | 97292 | [97292-new-3d-golf-simulation-eight-lakes-g-c.json](./97292-new-3d-golf-simulation-eight-lakes-g-c.json) |
 | New 3D Golf Simulation: Harukanaru Augusta | 45746 | [45746-new-3d-golf-simulation-harukanaru-augusta.json](./45746-new-3d-golf-simulation-harukanaru-augusta.json) |
 | New 3D Golf Simulation: T&E Selection | 97291 | [97291-new-3d-golf-simulation-t-and-e-selection.json](./97291-new-3d-golf-simulation-t-and-e-selection.json) |
+| New Active Object | 326002 | [326002-new-active-object.json](./326002-new-active-object.json) |
 | New Adam & Eve | 47544 | [47544-new-adam-and-eve.json](./47544-new-adam-and-eve.json) |
 | New Adult Reality | 113457 | [113457-new-adult-reality.json](./113457-new-adult-reality.json) |
 | New Adventure All-Stars | 294795 | [294795-new-adventure-all-stars.json](./294795-new-adventure-all-stars.json) |
@@ -3444,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon Director's Lab | 243145 | [243145-nickelodeon-directors-lab.json](./243145-nickelodeon-directors-lab.json) |
 | Nickelodeon Extreme Tennis | 194327 | [194327-nickelodeon-extreme-tennis.json](./194327-nickelodeon-extreme-tennis.json) |
 | Nickelodeon Fit | 50706 | [50706-nickelodeon-fit.json](./50706-nickelodeon-fit.json) |
+| Nickelodeon Game Builder: Fanboy & Chum Chum | 326001 | [326001-nickelodeon-game-builder-fanboy-and-chum-chum.json](./326001-nickelodeon-game-builder-fanboy-and-chum-chum.json) |
 | Nickelodeon Guts | 42478 | [42478-nickelodeon-guts.json](./42478-nickelodeon-guts.json) |
 | Nickelodeon Kart Racers | 106109 | [106109-nickelodeon-kart-racers.json](./106109-nickelodeon-kart-racers.json) |
 | Nickelodeon Kart Racers 2: Grand Prix | 134680 | [134680-nickelodeon-kart-racers-2-grand-prix.json](./134680-nickelodeon-kart-racers-2-grand-prix.json) |
