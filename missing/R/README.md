@@ -8918,6 +8918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Cube | 358942 | [358942-rolling-cube.json](./358942-rolling-cube.json) |
 | Rolling Down Bottles | 262341 | [262341-rolling-down-bottles.json](./262341-rolling-down-bottles.json) |
 | Rolling Ex.tre.me | 321752 | [321752-rolling-ex-tre-me.json](./321752-rolling-ex-tre-me.json) |
+| Rolling Football Player | 317885 | [317885-rolling-football-player.json](./317885-rolling-football-player.json) |
 | Rolling for Romance | 273954 | [273954-rolling-for-romance.json](./273954-rolling-for-romance.json) |
 | Rolling Gunner | 119445 | [119445-rolling-gunner.json](./119445-rolling-gunner.json) |
 | Rolling Gunner Over Power | 142846 | [142846-rolling-gunner-over-power.json](./142846-rolling-gunner-over-power.json) |
