@@ -2638,7 +2638,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivisection | 396584 | [396584-vivisection.json](./396584-vivisection.json) |
 | Vivisector: Beast Within | 54638 | [54638-vivisector-beast-within.json](./54638-vivisector-beast-within.json) |
 | Vivitter for Nintendo Switch | 251470 | [251470-vivitter-for-nintendo-switch.json](./251470-vivitter-for-nintendo-switch.json) |
+| Vivitter: Additional Mini-game - "Back to the Chicken" | 308761 | [308761-vivitter-additional-mini-game-back-to-the-chicken.json](./308761-vivitter-additional-mini-game-back-to-the-chicken.json) |
+| Vivitter: Additional Mini-game - "Chicken Race" | 308762 | [308762-vivitter-additional-mini-game-chicken-race.json](./308762-vivitter-additional-mini-game-chicken-race.json) |
+| Vivitter: Additional Mini-game - "Chicken Ranger" | 308763 | [308763-vivitter-additional-mini-game-chicken-ranger.json](./308763-vivitter-additional-mini-game-chicken-ranger.json) |
+| Vivitter: Additional Mini-game - "Death Proposal" | 308766 | [308766-vivitter-additional-mini-game-death-proposal.json](./308766-vivitter-additional-mini-game-death-proposal.json) |
+| Vivitter: Additional Mini-game - "Flightless Bird" | 308764 | [308764-vivitter-additional-mini-game-flightless-bird.json](./308764-vivitter-additional-mini-game-flightless-bird.json) |
+| Vivitter: Additional Mini-game - "Fly Me to the Moon" | 308767 | [308767-vivitter-additional-mini-game-fly-me-to-the-moon.json](./308767-vivitter-additional-mini-game-fly-me-to-the-moon.json) |
+| Vivitter: Additional Mini-game - "Flying Juliet" | 308765 | [308765-vivitter-additional-mini-game-flying-juliet.json](./308765-vivitter-additional-mini-game-flying-juliet.json) |
+| Vivitter: Additional Mini-game - "Full Throttle" | 308771 | [308771-vivitter-additional-mini-game-full-throttle.json](./308771-vivitter-additional-mini-game-full-throttle.json) |
+| Vivitter: Additional Mini-game - "Halo Jump!" | 308768 | [308768-vivitter-additional-mini-game-halo-jump.json](./308768-vivitter-additional-mini-game-halo-jump.json) |
 | Vivitter: Additional Mini-game - "Hole-in-one" | 308772 | [308772-vivitter-additional-mini-game-hole-in-one.json](./308772-vivitter-additional-mini-game-hole-in-one.json) |
+| Vivitter: Additional Mini-game - "Hunter of Love" | 308769 | [308769-vivitter-additional-mini-game-hunter-of-love.json](./308769-vivitter-additional-mini-game-hunter-of-love.json) |
+| Vivitter: Additional Mini-game - "Just barely: Impossible" | 308770 | [308770-vivitter-additional-mini-game-just-barely-impossible.json](./308770-vivitter-additional-mini-game-just-barely-impossible.json) |
 | Vivitter: Additional Mini-game - "Kiss Game" | 308785 | [308785-vivitter-additional-mini-game-kiss-game.json](./308785-vivitter-additional-mini-game-kiss-game.json) |
 | Vivitter: Additional Mini-game - "Leaning Tower" | 308783 | [308783-vivitter-additional-mini-game-leaning-tower.json](./308783-vivitter-additional-mini-game-leaning-tower.json) |
 | Vivitter: Additional Mini-game - "Lightning Shoot" | 308782 | [308782-vivitter-additional-mini-game-lightning-shoot.json](./308782-vivitter-additional-mini-game-lightning-shoot.json) |
