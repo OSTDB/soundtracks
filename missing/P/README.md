@@ -1878,6 +1878,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PaRappa the Rapper | 269666 | [269666-parappa-the-rapper.json](./269666-parappa-the-rapper.json) |
 | PaRappa the Rapper | 6080 | [6080-parappa-the-rapper.json](./6080-parappa-the-rapper.json) |
 | PaRappa the Rapper Remastered | 26232 | [26232-parappa-the-rapper-remastered.json](./26232-parappa-the-rapper-remastered.json) |
+| PaRappa the Rapper: Stage 1 Music A | 324824 | [324824-parappa-the-rapper-stage-1-music-a.json](./324824-parappa-the-rapper-stage-1-music-a.json) |
+| PaRappa the Rapper: Stage 1 Music B | 324825 | [324825-parappa-the-rapper-stage-1-music-b.json](./324825-parappa-the-rapper-stage-1-music-b.json) |
+| PaRappa the Rapper: Stage 1 Music C | 324826 | [324826-parappa-the-rapper-stage-1-music-c.json](./324826-parappa-the-rapper-stage-1-music-c.json) |
+| PaRappa the Rapper: Stage 1 Music D | 324827 | [324827-parappa-the-rapper-stage-1-music-d.json](./324827-parappa-the-rapper-stage-1-music-d.json) |
+| PaRappa the Rapper: Stage 2 Music A | 324828 | [324828-parappa-the-rapper-stage-2-music-a.json](./324828-parappa-the-rapper-stage-2-music-a.json) |
+| PaRappa the Rapper: Stage 3 Music A | 324829 | [324829-parappa-the-rapper-stage-3-music-a.json](./324829-parappa-the-rapper-stage-3-music-a.json) |
+| PaRappa the Rapper: Stage 4 Music A | 324830 | [324830-parappa-the-rapper-stage-4-music-a.json](./324830-parappa-the-rapper-stage-4-music-a.json) |
 | PaRappa the Rapper: Stage 5 Music A | 324831 | [324831-parappa-the-rapper-stage-5-music-a.json](./324831-parappa-the-rapper-stage-5-music-a.json) |
 | Pararecords | 325020 | [325020-pararecords.json](./325020-pararecords.json) |
 | Pararena | 130356 | [130356-pararena.json](./130356-pararena.json) |
@@ -11884,6 +11891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President's Choice | 307866 | [307866-presidents-choice.json](./307866-presidents-choice.json) |
 | President's Sniper Shooting | 155945 | [155945-presidents-sniper-shooting.json](./155945-presidents-sniper-shooting.json) |
 | Presidential Beatdown | 361049 | [361049-presidential-beatdown.json](./361049-presidential-beatdown.json) |
+| Presidential Knockout | 324820 | [324820-presidential-knockout.json](./324820-presidential-knockout.json) |
 | Presidential Psychologist | 366744 | [366744-presidential-psychologist.json](./366744-presidential-psychologist.json) |
 | Presidential Rise | 348293 | [348293-presidential-rise.json](./348293-presidential-rise.json) |
 | Presidential Running Games | 292689 | [292689-presidential-running-games.json](./292689-presidential-running-games.json) |
@@ -14432,6 +14440,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puchicon Magazine: Soukangou | 222530 | [222530-puchicon-magazine-soukangou.json](./222530-puchicon-magazine-soukangou.json) |
 | PuchiTamaWalker | 221585 | [221585-puchitamawalker.json](./221585-puchitamawalker.json) |
 | Puchitto Cluster | 146855 | [146855-puchitto-cluster.json](./146855-puchitto-cluster.json) |
+| Puchitto Rock Shooter | 324801 | [324801-puchitto-rock-shooter.json](./324801-puchitto-rock-shooter.json) |
+| Puchitto Rock Shooter: Pursue the Mystery of the Sexy Planet | 324802 | [324802-puchitto-rock-shooter-pursue-the-mystery-of-the-sexy-planet.json](./324802-puchitto-rock-shooter-pursue-the-mystery-of-the-sexy-planet.json) |
 | Puck | 327768 | [327768-puck.json](./327768-puck.json) |
 | Puck Bash | 187266 | [187266-puck-bash.json](./187266-puck-bash.json) |
 | Puck-Man Puzzler | 289887 | [289887-puck-man-puzzler.json](./289887-puck-man-puzzler.json) |
