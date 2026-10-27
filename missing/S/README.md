@@ -9328,6 +9328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Killer | 405972 | [405972-simple-killer.json](./405972-simple-killer.json) |
 | Simple Loto Simulator | 157201 | [157201-simple-loto-simulator.json](./157201-simple-loto-simulator.json) |
 | Simple Machines | 164227 | [164227-simple-machines.json](./164227-simple-machines.json) |
+| Simple Marble Race | 331802 | [331802-simple-marble-race.json](./331802-simple-marble-race.json) |
 | Simple Mind | 291023 | [291023-simple-mind.json](./291023-simple-mind.json) |
 | Simple Minded | 273241 | [273241-simple-minded.json](./273241-simple-minded.json) |
 | Simple Mini Golf | 192406 | [192406-simple-mini-golf.json](./192406-simple-mini-golf.json) |
@@ -14402,6 +14403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Advance 4 Advanced | 326134 | [326134-sonic-advance-4-advanced.json](./326134-sonic-advance-4-advanced.json) |
 | Sonic Advance Revamped Lite | 227797 | [227797-sonic-advance-revamped-lite.json](./227797-sonic-advance-revamped-lite.json) |
 | Sonic Advance X | 227806 | [227806-sonic-advance-x.json](./227806-sonic-advance-x.json) |
+| Sonic Advent | 331775 | [331775-sonic-advent.json](./331775-sonic-advent.json) |
 | Sonic Adventure 2 | 192192 | [192192-sonic-adventure-2.json](./192192-sonic-adventure-2.json) |
 | Sonic Adventure 2: Battle | 192194 | [192194-sonic-adventure-2-battle.json](./192194-sonic-adventure-2-battle.json) |
 | Sonic Adventure 2: Battle | 7862 | [7862-sonic-adventure-2-battle.json](./7862-sonic-adventure-2-battle.json) |
@@ -14718,6 +14720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Metallix | 321828 | [321828-sonic-metallix.json](./321828-sonic-metallix.json) |
 | Sonic Meteor | 331718 | [331718-sonic-meteor.json](./331718-sonic-meteor.json) |
 | Sonic Minus | 370232 | [370232-sonic-minus.json](./370232-sonic-minus.json) |
+| Sonic Mix | 331777 | [331777-sonic-mix.json](./331777-sonic-mix.json) |
 | Sonic Mobius | 332207 | [332207-sonic-mobius.json](./332207-sonic-mobius.json) |
 | Sonic Mode: Exciter | 330282 | [330282-sonic-mode-exciter.json](./330282-sonic-mode-exciter.json) |
 | Sonic Mode: Recoil | 330357 | [330357-sonic-mode-recoil.json](./330357-sonic-mode-recoil.json) |
