@@ -4844,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauties Unveiled: Ariadne Level Pack | 312098 | [312098-beauties-unveiled-ariadne-level-pack.json](./312098-beauties-unveiled-ariadne-level-pack.json) |
 | Beauties Unveiled: BackySoftie Level Pack | 312099 | [312099-beauties-unveiled-backysoftie-level-pack.json](./312099-beauties-unveiled-backysoftie-level-pack.json) |
 | Beauties Unveiled: Bianca Level Pack | 312100 | [312100-beauties-unveiled-bianca-level-pack.json](./312100-beauties-unveiled-bianca-level-pack.json) |
+| Beauties Unveiled: Deluxe Edition | 287132 | [287132-beauties-unveiled-deluxe-edition.json](./287132-beauties-unveiled-deluxe-edition.json) |
 | Beauties Unveiled: Gisele Level Pack | 312101 | [312101-beauties-unveiled-gisele-level-pack.json](./312101-beauties-unveiled-gisele-level-pack.json) |
 | Beauties Unveiled: Hot Edition | 298568 | [298568-beauties-unveiled-hot-edition.json](./298568-beauties-unveiled-hot-edition.json) |
 | Beauties Unveiled: NoirPetal Level Pack | 284508 | [284508-beauties-unveiled-noirpetal-level-pack.json](./284508-beauties-unveiled-noirpetal-level-pack.json) |
