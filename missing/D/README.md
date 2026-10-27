@@ -3288,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Station 2 | 305410 | [305410-dead-station-2.json](./305410-dead-station-2.json) |
 | Dead Stop | 34298 | [34298-dead-stop.json](./34298-dead-stop.json) |
 | Dead Stop: No Vacancy | 413462 | [413462-dead-stop-no-vacancy.json](./413462-dead-stop-no-vacancy.json) |
+| Dead Streets: Zombie Blitz | 326009 | [326009-dead-streets-zombie-blitz.json](./326009-dead-streets-zombie-blitz.json) |
 | Dead Stride | 399626 | [399626-dead-stride.json](./399626-dead-stride.json) |
 | Dead Survival | 153979 | [153979-dead-survival.json](./153979-dead-survival.json) |
 | Dead Synchronicity: The Longest Night | 59947 | [59947-dead-synchronicity-the-longest-night.json](./59947-dead-synchronicity-the-longest-night.json) |
@@ -4154,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | December 1914 | 235637 | [235637-december-1914.json](./235637-december-1914.json) |
 | December 25, 2016 | 266143 | [266143-december-25-2016.json](./266143-december-25-2016.json) |
 | December 3rd | 392758 | [392758-december-3rd.json](./392758-december-3rd.json) |
+| Decending Horror | 325985 | [325985-decending-horror.json](./325985-decending-horror.json) |
 | Decent Into Sector 32 | 165641 | [165641-decent-into-sector-32.json](./165641-decent-into-sector-32.json) |
 | Decently Bad Tower Defense | 158034 | [158034-decently-bad-tower-defense.json](./158034-decently-bad-tower-defense.json) |
 | Deceptiive Love Ballad The Blasphemer | 386840 | [386840-deceptiive-love-ballad-the-blasphemer.json](./386840-deceptiive-love-ballad-the-blasphemer.json) |
@@ -7527,6 +7529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Master | 239036 | [239036-dig-master.json](./239036-dig-master.json) |
 | Dig Mines | 287501 | [287501-dig-mines.json](./287501-dig-mines.json) |
 | Dig n Fight | 412888 | [412888-dig-n-fight.json](./412888-dig-n-fight.json) |
+| Dig Night | 326010 | [326010-dig-night.json](./326010-dig-night.json) |
 | Dig Odyssey: Cosmic Mining | 251205 | [251205-dig-odyssey-cosmic-mining.json](./251205-dig-odyssey-cosmic-mining.json) |
 | Dig or Die | 17686 | [17686-dig-or-die.json](./17686-dig-or-die.json) |
 | Dig Out! | 87330 | [87330-dig-out.json](./87330-dig-out.json) |
@@ -7960,6 +7963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Dana - Experiments | 95828 | [95828-dino-dana-experiments.json](./95828-dino-dana-experiments.json) |
 | Dino Dana : Dino Express | 103670 | [103670-dino-dana-dino-express.json](./103670-dino-dana-dino-express.json) |
 | Dino Dana: Dino Exhibit | 100697 | [100697-dino-dana-dino-exhibit.json](./100697-dino-dana-dino-exhibit.json) |
+| Dino Dash | 325987 | [325987-dino-dash.json](./325987-dino-dash.json) |
 | Dino Dave | 91549 | [91549-dino-dave.json](./91549-dino-dave.json) |
 | Dino Dave 2 | 80542 | [80542-dino-dave-2.json](./80542-dino-dave-2.json) |
 | Dino Dave in Sokoman | 150084 | [150084-dino-dave-in-sokoman.json](./150084-dino-dave-in-sokoman.json) |
