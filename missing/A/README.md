@@ -1379,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.D.D.: Addictive Dumb Distractions | 79763 | [79763-a-d-d-addictive-dumb-distractions.json](./79763-a-d-d-addictive-dumb-distractions.json) |
 | A.E. | 20175 | [20175-a-e.json](./20175-a-e.json) |
 | A.E. | 282086 | [282086-a-e.json](./282086-a-e.json) |
+| A.E. | 283003 | [283003-a-e.json](./283003-a-e.json) |
 | A.G. Soccer-Ball | 94140 | [94140-a-g-soccer-ball.json](./94140-a-g-soccer-ball.json) |
 | A.G.E. | 11880 | [11880-a-g-e.json](./11880-a-g-e.json) |
 | A.G.E. | 240255 | [240255-a-g-e.json](./240255-a-g-e.json) |
@@ -3518,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AEW: Fight Forever - All Season Pass Bundle | 312091 | [312091-aew-fight-forever-all-season-pass-bundle.json](./312091-aew-fight-forever-all-season-pass-bundle.json) |
 | AEW: Fight Forever - Bring the Boom Edition | 279885 | [279885-aew-fight-forever-bring-the-boom-edition.json](./279885-aew-fight-forever-bring-the-boom-edition.json) |
 | AEW: Fight Forever - Elite Edition | 251670 | [251670-aew-fight-forever-elite-edition.json](./251670-aew-fight-forever-elite-edition.json) |
+| AEW: Rise to the Top | 283001 | [283001-aew-rise-to-the-top.json](./283001-aew-rise-to-the-top.json) |
 | Aexia | 258924 | [258924-aexia.json](./258924-aexia.json) |
 | Afallon | 283879 | [283879-afallon.json](./283879-afallon.json) |
 | Afarid | 110746 | [110746-afarid.json](./110746-afarid.json) |
@@ -6257,6 +6259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Quiet Roads 4743 | 192715 | [192715-all-quiet-roads-4743.json](./192715-all-quiet-roads-4743.json) |
 | All Quite on the Bridge: Mad Cliff | 105306 | [105306-all-quite-on-the-bridge-mad-cliff.json](./105306-all-quite-on-the-bridge-mad-cliff.json) |
 | All Roads Connected | 391018 | [391018-all-roads-connected.json](./391018-all-roads-connected.json) |
+| All She Wants For Christmas Is You | 283322 | [283322-all-she-wants-for-christmas-is-you.json](./283322-all-she-wants-for-christmas-is-you.json) |
 | All Songs are From the King | 199505 | [199505-all-songs-are-from-the-king.json](./199505-all-songs-are-from-the-king.json) |
 | All Star Action | 44829 | [44829-all-star-action.json](./44829-all-star-action.json) |
 | All Star Baseball | 91416 | [91416-all-star-baseball.json](./91416-all-star-baseball.json) |
@@ -6741,6 +6744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter Evo | 236108 | [236108-alter-evo.json](./236108-alter-evo.json) |
 | Alter Psycho | 346740 | [346740-alter-psycho.json](./346740-alter-psycho.json) |
 | Alter World | 35588 | [35588-alter-world.json](./35588-alter-world.json) |
+| Alter: Between Two Worlds | 283006 | [283006-alter-between-two-worlds.json](./283006-alter-between-two-worlds.json) |
 | Alteratio | 374986 | [374986-alteratio.json](./374986-alteratio.json) |
 | Alteration | 180803 | [180803-alteration.json](./180803-alteration.json) |
 | Alteration | 379368 | [379368-alteration.json](./379368-alteration.json) |
@@ -10648,6 +10652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Metamorphic Force | 320940 | [320940-arcade-archives-metamorphic-force.json](./320940-arcade-archives-metamorphic-force.json) |
 | Arcade Archives: Metro-Cross | 213803 | [213803-arcade-archives-metro-cross.json](./213803-arcade-archives-metro-cross.json) |
 | Arcade Archives: Midnight Landing | 375404 | [375404-arcade-archives-midnight-landing.json](./375404-arcade-archives-midnight-landing.json) |
+| Arcade Archives: Mighty Guy | 283021 | [283021-arcade-archives-mighty-guy.json](./283021-arcade-archives-mighty-guy.json) |
 | Arcade Archives: Mirai Ninja | 186563 | [186563-arcade-archives-mirai-ninja.json](./186563-arcade-archives-mirai-ninja.json) |
 | Arcade Archives: Moon Patrol | 95050 | [95050-arcade-archives-moon-patrol.json](./95050-arcade-archives-moon-patrol.json) |
 | Arcade Archives: Motos | 204873 | [204873-arcade-archives-motos.json](./204873-arcade-archives-motos.json) |
@@ -10735,6 +10740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Sunset Riders | 135574 | [135574-arcade-archives-sunset-riders.json](./135574-arcade-archives-sunset-riders.json) |
 | Arcade Archives: Super Basketball | 356501 | [356501-arcade-archives-super-basketball.json](./356501-arcade-archives-super-basketball.json) |
 | Arcade Archives: Super Cobra | 147119 | [147119-arcade-archives-super-cobra.json](./147119-arcade-archives-super-cobra.json) |
+| Arcade Archives: Super Contra | 283022 | [283022-arcade-archives-super-contra.json](./283022-arcade-archives-super-contra.json) |
 | Arcade Archives: Super Dimension Fortress Macross II | 354181 | [354181-arcade-archives-super-dimension-fortress-macross-ii.json](./354181-arcade-archives-super-dimension-fortress-macross-ii.json) |
 | Arcade Archives: Super Dodge Ball | 99568 | [99568-arcade-archives-super-dodge-ball.json](./99568-arcade-archives-super-dodge-ball.json) |
 | Arcade Archives: Super Pac-Man | 187461 | [187461-arcade-archives-super-pac-man.json](./187461-arcade-archives-super-pac-man.json) |
@@ -14427,6 +14433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atrox | 73551 | [73551-atrox.json](./73551-atrox.json) |
 | ATSF Wagon Pack 01 | 224440 | [224440-atsf-wagon-pack-01.json](./224440-atsf-wagon-pack-01.json) |
 | ATSS Retribution II | 224100 | [224100-atss-retribution-ii.json](./224100-atss-retribution-ii.json) |
+| Atsumare! Guru Guru Onsen BB | 283323 | [283323-atsumare-guru-guru-onsen-bb.json](./283323-atsumare-guru-guru-onsen-bb.json) |
 | Atsumare! Pawapuro-kun no DS Koushien | 98515 | [98515-atsumare-pawapuro-kun-no-ds-koushien.json](./98515-atsumare-pawapuro-kun-no-ds-koushien.json) |
 | Atsumete Asobu Kuma no Pooh-san: Mori no Takaramono | 50018 | [50018-atsumete-asobu-kuma-no-pooh-san-mori-no-takaramono.json](./50018-atsumete-asobu-kuma-no-pooh-san-mori-no-takaramono.json) |
 | Atsumete Godzilla | 227742 | [227742-atsumete-godzilla.json](./227742-atsumete-godzilla.json) |
