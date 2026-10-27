@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yarışçı Arazi | 326655 | [326655-yar-sc-arazi.json](./326655-yar-sc-arazi.json) |
 | Yarn | 166614 | [166614-yarn.json](./166614-yarn.json) |
 | Yarn | 294504 | [294504-yarn.json](./294504-yarn.json) |
+| Yarn Guardians | 302413 | [302413-yarn-guardians.json](./302413-yarn-guardians.json) |
 | Yarne | 145416 | [145416-yarne.json](./145416-yarne.json) |
 | Yaroze Rally | 296014 | [296014-yaroze-rally.json](./296014-yaroze-rally.json) |
 | Yarozians | 296015 | [296015-yarozians.json](./296015-yarozians.json) |
@@ -384,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yedesna Shoots 2 | 315847 | [315847-yedesna-shoots-2.json](./315847-yedesna-shoots-2.json) |
 | Yedesna Shoots 3 | 327748 | [327748-yedesna-shoots-3.json](./327748-yedesna-shoots-3.json) |
 | Yedoma Globula | 140051 | [140051-yedoma-globula.json](./140051-yedoma-globula.json) |
+| Yee-Haw!! | 302414 | [302414-yee-haw.json](./302414-yee-haw.json) |
 | Yeeps | 304187 | [304187-yeeps.json](./304187-yeeps.json) |
 | Yeeraffe | 325300 | [325300-yeeraffe.json](./325300-yeeraffe.json) |
 | Yeerk Pool | 257435 | [257435-yeerk-pool.json](./257435-yeerk-pool.json) |
@@ -453,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yesterday, the World Ended | 184052 | [184052-yesterday-the-world-ended.json](./184052-yesterday-the-world-ended.json) |
 | Yesterday's Crossroads | 344456 | [344456-yesterdays-crossroads.json](./344456-yesterdays-crossroads.json) |
 | Yesterday's Meat | 387021 | [387021-yesterdays-meat.json](./387021-yesterdays-meat.json) |
+| Yesterday's News | 302415 | [302415-yesterdays-news.json](./302415-yesterdays-news.json) |
 | Yesterday's Nightmare | 274225 | [274225-yesterdays-nightmare.json](./274225-yesterdays-nightmare.json) |
 | Yesterdreamt | 216806 | [216806-yesterdreamt.json](./216806-yesterdreamt.json) |
 | YesterMorrow | 120533 | [120533-yestermorrow.json](./120533-yestermorrow.json) |
@@ -564,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ylands: Exploration Pack | 164420 | [164420-ylands-exploration-pack.json](./164420-ylands-exploration-pack.json) |
 | Ylands: Supporter Pack | 305546 | [305546-ylands-supporter-pack.json](./305546-ylands-supporter-pack.json) |
 | Ymir | 50092 | [50092-ymir.json](./50092-ymir.json) |
+| Ymn7 | 302401 | [302401-ymn7.json](./302401-ymn7.json) |
 | Yn Moddey Dhoo | 414389 | [414389-yn-moddey-dhoo.json](./414389-yn-moddey-dhoo.json) |
 | Yni^ | 339804 | [339804-yni.json](./339804-yni.json) |
 | YNN | 222206 | [222206-ynn.json](./222206-ynn.json) |
@@ -898,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are Bisexual | 176942 | [176942-you-are-bisexual.json](./176942-you-are-bisexual.json) |
 | You Are Bugs | 274382 | [274382-you-are-bugs.json](./274382-you-are-bugs.json) |
 | You are cursed, Mr.Mayor! | 183801 | [183801-you-are-cursed-mr-mayor.json](./183801-you-are-cursed-mr-mayor.json) |
+| You Are Dead | 302402 | [302402-you-are-dead.json](./302402-you-are-dead.json) |
 | You Are Dead! | 323798 | [323798-you-are-dead.json](./323798-you-are-dead.json) |
 | You are Dough | 243643 | [243643-you-are-dough.json](./243643-you-are-dough.json) |
 | You Are Empty | 54651 | [54651-you-are-empty.json](./54651-you-are-empty.json) |
@@ -995,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Gay? | 84099 | [84099-you-gay.json](./84099-you-gay.json) |
 | You Generation | 174664 | [174664-you-generation.json](./174664-you-generation.json) |
 | You get Eaten by a Cute Milf | 229200 | [229200-you-get-eaten-by-a-cute-milf.json](./229200-you-get-eaten-by-a-cute-milf.json) |
+| You Go Boom | 302403 | [302403-you-go-boom.json](./302403-you-go-boom.json) |
 | You Go Golf | 181688 | [181688-you-go-golf.json](./181688-you-go-golf.json) |
 | You Got Crabs | 276817 | [276817-you-got-crabs.json](./276817-you-got-crabs.json) |
 | You Green Elephant | 99702 | [99702-you-green-elephant.json](./99702-you-green-elephant.json) |
@@ -1639,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Gatari | 220078 | [220078-yume-gatari.json](./220078-yume-gatari.json) |
 | Yume Goshi no Sora | 408078 | [408078-yume-goshi-no-sora.json](./408078-yume-goshi-no-sora.json) |
 | Yume Graffiti | 145036 | [145036-yume-graffiti.json](./145036-yume-graffiti.json) |
+| Yume Gufi | 302404 | [302404-yume-gufi.json](./302404-yume-gufi.json) |
 | Yume Inu | 229680 | [229680-yume-inu.json](./229680-yume-inu.json) |
 | Yume Iro | 202348 | [202348-yume-iro.json](./202348-yume-iro.json) |
 | Yume ka Utsutsu ka Matryoshka | 399060 | [399060-yume-ka-utsutsu-ka-matryoshka.json](./399060-yume-ka-utsutsu-ka-matryoshka.json) |
