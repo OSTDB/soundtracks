@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xargon | 70129 | [70129-xargon.json](./70129-xargon.json) |
 | Xargon Remake Ep.1 | 372213 | [372213-xargon-remake-ep-1.json](./372213-xargon-remake-ep-1.json) |
 | Xargon Remake Ep.3 | 253436 | [253436-xargon-remake-ep-3.json](./253436-xargon-remake-ep-3.json) |
+| Xargon: Remake Ep. 2 | 302410 | [302410-xargon-remake-ep-2.json](./302410-xargon-remake-ep-2.json) |
 | Xargon's Revenge | 133668 | [133668-xargons-revenge.json](./133668-xargons-revenge.json) |
 | Xark | 30840 | [30840-xark.json](./30840-xark.json) |
 | Xarq: The Zimmerman Trenches | 31185 | [31185-xarq-the-zimmerman-trenches.json](./31185-xarq-the-zimmerman-trenches.json) |
@@ -599,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenopurge | 345292 | [345292-xenopurge.json](./345292-xenopurge.json) |
 | XenoRaptor | 17355 | [17355-xenoraptor.json](./17355-xenoraptor.json) |
 | Xenos Defense | 121480 | [121480-xenos-defense.json](./121480-xenos-defense.json) |
+| Xenos Hunters | 302411 | [302411-xenos-hunters.json](./302411-xenos-hunters.json) |
 | Xenos: Cartoon Creature Catcher | 272890 | [272890-xenos-cartoon-creature-catcher.json](./272890-xenos-cartoon-creature-catcher.json) |
 | Xenosaga Episode I: Der Wille zur Macht | 1227 | [1227-xenosaga-episode-i-der-wille-zur-macht.json](./1227-xenosaga-episode-i-der-wille-zur-macht.json) |
 | Xenosaga Episode I: Der Wille zur Macht - Reloaded | 221670 | [221670-xenosaga-episode-i-der-wille-zur-macht-reloaded.json](./221670-xenosaga-episode-i-der-wille-zur-macht-reloaded.json) |
@@ -676,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xi Coliseum | 334216 | [334216-xi-coliseum.json](./334216-xi-coliseum.json) |
 | XI O'Clock | 341878 | [341878-xi-oclock.json](./341878-xi-oclock.json) |
 | XI Sai Jumbo | 165156 | [165156-xi-sai-jumbo.json](./165156-xi-sai-jumbo.json) |
+| Xi-Portal | 302333 | [302333-xi-portal.json](./302333-xi-portal.json) |
 | Xia-Xia | 9745 | [9745-xia-xia.json](./9745-xia-xia.json) |
 | Xiákè Yīngxióng Zhuán | 86019 | [86019-xiake-yingxiong-zhuan.json](./86019-xiake-yingxiong-zhuan.json) |
 | Xialuo: Kill All Flowers | 284613 | [284613-xialuo-kill-all-flowers.json](./284613-xialuo-kill-all-flowers.json) |
