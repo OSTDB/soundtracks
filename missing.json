@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-27T09:51:39.635Z",
-  "total_missing": 269427,
+  "generated_at": "2026-10-27T10:04:05.056Z",
+  "total_missing": 269477,
   "games": [
     {
       "igdb_id": 191680,
@@ -31442,6 +31442,11 @@
       "file": "missing/A/49256-aero-the-acro-bat.json"
     },
     {
+      "igdb_id": 310437,
+      "game_name": "Aero The Acro-Bat",
+      "file": "missing/A/310437-aero-the-acro-bat.json"
+    },
+    {
       "igdb_id": 5349,
       "game_name": "Aero the Acro-Bat 2",
       "file": "missing/A/5349-aero-the-acro-bat-2.json"
@@ -38520,6 +38525,16 @@
       "igdb_id": 343494,
       "game_name": "Airplane Flight Simulator: EVO",
       "file": "missing/A/343494-airplane-flight-simulator-evo.json"
+    },
+    {
+      "igdb_id": 310474,
+      "game_name": "Airplane Flight Simulator: Farming Agricultural Plane S2-Carrier",
+      "file": "missing/A/310474-airplane-flight-simulator-farming-agricultural-plane-s2-carrier.json"
+    },
+    {
+      "igdb_id": 310475,
+      "game_name": "Airplane Flight Simulator: Military Cargo Transport Plane C12-Transit",
+      "file": "missing/A/310475-airplane-flight-simulator-military-cargo-transport-plane-c12-transit.json"
     },
     {
       "igdb_id": 126434,
@@ -58167,6 +58182,11 @@
       "file": "missing/A/343728-anime-dance-off-las-vegas.json"
     },
     {
+      "igdb_id": 310456,
+      "game_name": "Anime Dance-Off: Party Total",
+      "file": "missing/A/310456-anime-dance-off-party-total.json"
+    },
+    {
       "igdb_id": 61024,
       "game_name": "Anime Designer: Dragon Ball Z",
       "file": "missing/A/61024-anime-designer-dragon-ball-z.json"
@@ -68305,6 +68325,11 @@
       "igdb_id": 147099,
       "game_name": "Arcade Archives: vs. Tennis",
       "file": "missing/A/147099-arcade-archives-vs-tennis.json"
+    },
+    {
+      "igdb_id": 310457,
+      "game_name": "Arcade Archives: vs. The Adventure of Valkyrie - The Legend of the Key of Time",
+      "file": "missing/A/310457-arcade-archives-vs-the-adventure-of-valkyrie-the-legend-of-the-key-of-time.json"
     },
     {
       "igdb_id": 322039,
@@ -97402,6 +97427,11 @@
       "file": "missing/B/237832-bagdex.json"
     },
     {
+      "igdb_id": 310482,
+      "game_name": "Bagel",
+      "file": "missing/B/310482-bagel.json"
+    },
+    {
       "igdb_id": 298691,
       "game_name": "Bagel Love Story",
       "file": "missing/B/298691-bagel-love-story.json"
@@ -97885,6 +97915,11 @@
       "igdb_id": 300771,
       "game_name": "Baking Time",
       "file": "missing/B/300771-baking-time.json"
+    },
+    {
+      "igdb_id": 310436,
+      "game_name": "Baking Time: Fast Edition",
+      "file": "missing/B/310436-baking-time-fast-edition.json"
     },
     {
       "igdb_id": 300947,
@@ -124055,6 +124090,11 @@
       "igdb_id": 31950,
       "game_name": "Bicyclism EP",
       "file": "missing/B/31950-bicyclism-ep.json"
+    },
+    {
+      "igdb_id": 310459,
+      "game_name": "Bid Battle: Auction War Simulator Storage Hunter",
+      "file": "missing/B/310459-bid-battle-auction-war-simulator-storage-hunter.json"
     },
     {
       "igdb_id": 390605,
@@ -150532,6 +150572,11 @@
       "file": "missing/B/291040-bot-patrol.json"
     },
     {
+      "igdb_id": 310460,
+      "game_name": "Bot Shot",
+      "file": "missing/B/310460-bot-shot.json"
+    },
+    {
       "igdb_id": 361871,
       "game_name": "Bot Slash Bot",
       "file": "missing/B/361871-bot-slash-bot.json"
@@ -169467,6 +169512,11 @@
       "file": "missing/B/227959-bus-simulator-2023.json"
     },
     {
+      "igdb_id": 310435,
+      "game_name": "Bus Simulator 2024: City Driver - Premium Edition",
+      "file": "missing/B/310435-bus-simulator-2024-city-driver-premium-edition.json"
+    },
+    {
       "igdb_id": 213848,
       "game_name": "Bus Simulator 21: Angel Shores Insider Skin Pack",
       "file": "missing/B/213848-bus-simulator-21-angel-shores-insider-skin-pack.json"
@@ -178410,6 +178460,11 @@
       "igdb_id": 303287,
       "game_name": "Capes: King City Edition",
       "file": "missing/C/303287-capes-king-city-edition.json"
+    },
+    {
+      "igdb_id": 310473,
+      "game_name": "Capes: Skin Pack",
+      "file": "missing/C/310473-capes-skin-pack.json"
     },
     {
       "igdb_id": 304362,
@@ -222042,6 +222097,11 @@
       "file": "missing/C/385195-color-water-sort-gold-edition.json"
     },
     {
+      "igdb_id": 310434,
+      "game_name": "Color Water Sort: Relax Edition",
+      "file": "missing/C/310434-color-water-sort-relax-edition.json"
+    },
+    {
       "igdb_id": 320694,
       "game_name": "Color Water Sort: Time Attack Edition",
       "file": "missing/C/320694-color-water-sort-time-attack-edition.json"
@@ -222430,6 +222490,11 @@
       "igdb_id": 283280,
       "game_name": "Coloring Book Series: Aquarium",
       "file": "missing/C/283280-coloring-book-series-aquarium.json"
+    },
+    {
+      "igdb_id": 310464,
+      "game_name": "Coloring Book Series: Dinosaur Museum",
+      "file": "missing/C/310464-coloring-book-series-dinosaur-museum.json"
     },
     {
       "igdb_id": 362377,
@@ -223260,6 +223325,11 @@
       "igdb_id": 150425,
       "game_name": "Colorize Inspect",
       "file": "missing/C/150425-colorize-inspect.json"
+    },
+    {
+      "igdb_id": 310463,
+      "game_name": "Colorizing",
+      "file": "missing/C/310463-colorizing.json"
     },
     {
       "igdb_id": 368770,
@@ -231325,6 +231395,11 @@
       "igdb_id": 316198,
       "game_name": "Cooking Arena Pancake Paradise",
       "file": "missing/C/316198-cooking-arena-pancake-paradise.json"
+    },
+    {
+      "igdb_id": 310462,
+      "game_name": "Cooking Arena Pastry Chef",
+      "file": "missing/C/310462-cooking-arena-pastry-chef.json"
     },
     {
       "igdb_id": 381808,
@@ -253202,6 +253277,11 @@
       "file": "missing/C/246406-cult-of-the-lamb-relics-of-the-old-faith.json"
     },
     {
+      "igdb_id": 310433,
+      "game_name": "Cult of the Lamb: Sinful Edition",
+      "file": "missing/C/310433-cult-of-the-lamb-sinful-edition.json"
+    },
+    {
       "igdb_id": 408806,
       "game_name": "Cult of the Lamb: The One Who Waits",
       "file": "missing/C/408806-cult-of-the-lamb-the-one-who-waits.json"
@@ -253580,6 +253660,11 @@
       "igdb_id": 386564,
       "game_name": "Cup Heroes: Handful Bundle",
       "file": "missing/C/386564-cup-heroes-handful-bundle.json"
+    },
+    {
+      "igdb_id": 310461,
+      "game_name": "Cup Killer: Sandbox Game",
+      "file": "missing/C/310461-cup-killer-sandbox-game.json"
     },
     {
       "igdb_id": 93170,
@@ -255445,6 +255530,11 @@
       "igdb_id": 298043,
       "game_name": "Custom Order Maid 3D2: It's a Night Magic the Arrival of Spring All In Pack",
       "file": "missing/C/298043-custom-order-maid-3d2-its-a-night-magic-the-arrival-of-spring-all-in-pack.json"
+    },
+    {
+      "igdb_id": 310479,
+      "game_name": "Custom Order Maid 3D2: It's a Night Magic the Change of Seasons All in One Pack",
+      "file": "missing/C/310479-custom-order-maid-3d2-its-a-night-magic-the-change-of-seasons-all-in-one-pack.json"
     },
     {
       "igdb_id": 296663,
@@ -330472,6 +330562,11 @@
       "file": "missing/D/285941-drone-perspective.json"
     },
     {
+      "igdb_id": 310449,
+      "game_name": "Drone Pilot: Extreme Flight Simulator",
+      "file": "missing/D/310449-drone-pilot-extreme-flight-simulator.json"
+    },
+    {
       "igdb_id": 228018,
       "game_name": "Drone Race Simulator",
       "file": "missing/D/228018-drone-race-simulator.json"
@@ -399870,6 +399965,11 @@
       "igdb_id": 321200,
       "game_name": "Find the Cat",
       "file": "missing/F/321200-find-the-cat.json"
+    },
+    {
+      "igdb_id": 310438,
+      "game_name": "Find The Cat",
+      "file": "missing/F/310438-find-the-cat.json"
     },
     {
       "igdb_id": 391604,
@@ -505147,6 +505247,11 @@
       "file": "missing/H/312058-hentai-anime-girls-succubus-extended-edition.json"
     },
     {
+      "igdb_id": 310472,
+      "game_name": "Hentai Anime Girls Succubus: New Image Puzzle",
+      "file": "missing/H/310472-hentai-anime-girls-succubus-new-image-puzzle.json"
+    },
+    {
       "igdb_id": 131271,
       "game_name": "Hentai Anime Poker",
       "file": "missing/H/131271-hentai-anime-poker.json"
@@ -505630,6 +505735,11 @@
       "igdb_id": 315862,
       "game_name": "Hentai Dating Stories: Brazil - Special Edition",
       "file": "missing/H/315862-hentai-dating-stories-brazil-special-edition.json"
+    },
+    {
+      "igdb_id": 310432,
+      "game_name": "Hentai Dating Stories: Brazil - Ultimate Edition",
+      "file": "missing/H/310432-hentai-dating-stories-brazil-ultimate-edition.json"
     },
     {
       "igdb_id": 365423,
@@ -506310,6 +506420,11 @@
       "igdb_id": 283178,
       "game_name": "Hentai Golf: Deluxe Edition",
       "file": "missing/H/283178-hentai-golf-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 310450,
+      "game_name": "Hentai Golf: Director's Cut",
+      "file": "missing/H/310450-hentai-golf-directors-cut.json"
     },
     {
       "igdb_id": 289200,
@@ -507477,9 +507592,24 @@
       "file": "missing/H/371040-hentai-solitaire.json"
     },
     {
+      "igdb_id": 310469,
+      "game_name": "Hentai Solitaire: Cards Pack 1",
+      "file": "missing/H/310469-hentai-solitaire-cards-pack-1.json"
+    },
+    {
+      "igdb_id": 310470,
+      "game_name": "Hentai Solitaire: Cards Pack 2",
+      "file": "missing/H/310470-hentai-solitaire-cards-pack-2.json"
+    },
+    {
       "igdb_id": 324450,
       "game_name": "Hentai Solitaire: Complete +",
       "file": "missing/H/324450-hentai-solitaire-complete.json"
+    },
+    {
+      "igdb_id": 310431,
+      "game_name": "Hentai Solitaire: Deluxe Edition",
+      "file": "missing/H/310431-hentai-solitaire-deluxe-edition.json"
     },
     {
       "igdb_id": 315868,
@@ -507490,6 +507620,11 @@
       "igdb_id": 317911,
       "game_name": "Hentai Solitaire: Special Edition",
       "file": "missing/H/317911-hentai-solitaire-special-edition.json"
+    },
+    {
+      "igdb_id": 310476,
+      "game_name": "Hentai Solitaire: Themes Pack",
+      "file": "missing/H/310476-hentai-solitaire-themes-pack.json"
     },
     {
       "igdb_id": 313785,
@@ -507565,6 +507700,11 @@
       "igdb_id": 288299,
       "game_name": "Hentai Stars: Lonely Kitty Ran",
       "file": "missing/H/288299-hentai-stars-lonely-kitty-ran.json"
+    },
+    {
+      "igdb_id": 310430,
+      "game_name": "Hentai Stars: Magnificent Edition",
+      "file": "missing/H/310430-hentai-stars-magnificent-edition.json"
     },
     {
       "igdb_id": 295677,
@@ -532375,6 +532515,11 @@
       "igdb_id": 268728,
       "game_name": "How to Disappear Completely",
       "file": "missing/H/268728-how-to-disappear-completely.json"
+    },
+    {
+      "igdb_id": 310451,
+      "game_name": "How to Draw",
+      "file": "missing/H/310451-how-to-draw.json"
     },
     {
       "igdb_id": 367450,
@@ -592670,6 +592815,11 @@
       "igdb_id": 342416,
       "game_name": "Kebab Simulator 2025",
       "file": "missing/K/342416-kebab-simulator-2025.json"
+    },
+    {
+      "igdb_id": 310481,
+      "game_name": "Kebab Simulator VR",
+      "file": "missing/K/310481-kebab-simulator-vr.json"
     },
     {
       "igdb_id": 336372,
@@ -728112,6 +728262,11 @@
       "file": "missing/M/317958-moonstone-island-autumnal-accessories-dlc-pack.json"
     },
     {
+      "igdb_id": 310468,
+      "game_name": "Moonstone Island: Chef's Kiss DLC Pack",
+      "file": "missing/M/310468-moonstone-island-chefs-kiss-dlc-pack.json"
+    },
+    {
       "igdb_id": 306555,
       "game_name": "Moonstone Island: Cozy Comforts DLC",
       "file": "missing/M/306555-moonstone-island-cozy-comforts-dlc.json"
@@ -754100,6 +754255,11 @@
       "igdb_id": 303876,
       "game_name": "Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 3",
       "file": "missing/N/303876-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-3.json"
+    },
+    {
+      "igdb_id": 310467,
+      "game_name": "Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 4",
+      "file": "missing/N/310467-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-4.json"
     },
     {
       "igdb_id": 239385,
@@ -820687,6 +820847,11 @@
       "file": "missing/P/327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json"
     },
     {
+      "igdb_id": 310483,
+      "game_name": "Parts of the Elephant",
+      "file": "missing/P/310483-parts-of-the-elephant.json"
+    },
+    {
       "igdb_id": 186115,
       "game_name": "Partum Artifex",
       "file": "missing/P/186115-partum-artifex.json"
@@ -836640,6 +836805,11 @@
       "igdb_id": 296459,
       "game_name": "Pigeon Simulator Survival",
       "file": "missing/P/296459-pigeon-simulator-survival.json"
+    },
+    {
+      "igdb_id": 310429,
+      "game_name": "Pigeon Simulator: Bird Simulator - Premium Edition",
+      "file": "missing/P/310429-pigeon-simulator-bird-simulator-premium-edition.json"
     },
     {
       "igdb_id": 246000,
@@ -956077,6 +956247,11 @@
       "file": "missing/S/64423-same.json"
     },
     {
+      "igdb_id": 310454,
+      "game_name": "Same Break Game",
+      "file": "missing/S/310454-same-break-game.json"
+    },
+    {
       "igdb_id": 80229,
       "game_name": "Same Game for Windows",
       "file": "missing/S/80229-same-game-for-windows.json"
@@ -984992,6 +985167,11 @@
       "file": "missing/S/230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json"
     },
     {
+      "igdb_id": 310455,
+      "game_name": "Sherlock Holmes: The Darkest Mysteries Bundle",
+      "file": "missing/S/310455-sherlock-holmes-the-darkest-mysteries-bundle.json"
+    },
+    {
       "igdb_id": 11563,
       "game_name": "Sherlock Holmes: The Devil's Daughter",
       "file": "missing/S/11563-sherlock-holmes-the-devils-daughter.json"
@@ -990432,9 +990612,19 @@
       "file": "missing/S/86826-shopping-mall-girl.json"
     },
     {
+      "igdb_id": 310465,
+      "game_name": "Shopping Mall Girl: Classy Look",
+      "file": "missing/S/310465-shopping-mall-girl-classy-look.json"
+    },
+    {
       "igdb_id": 328775,
       "game_name": "Shopping Mall Girl: Complete Edition",
       "file": "missing/S/328775-shopping-mall-girl-complete-edition.json"
+    },
+    {
+      "igdb_id": 310466,
+      "game_name": "Shopping Mall Girl: Summer Time",
+      "file": "missing/S/310466-shopping-mall-girl-summer-time.json"
     },
     {
       "igdb_id": 356819,
@@ -1032660,6 +1032850,11 @@
       "igdb_id": 55465,
       "game_name": "Space Crawl",
       "file": "missing/S/55465-space-crawl.json"
+    },
+    {
+      "igdb_id": 310447,
+      "game_name": "Space Crew & Bomber Crew Bundle",
+      "file": "missing/S/310447-space-crew-and-bomber-crew-bundle.json"
     },
     {
       "igdb_id": 167782,
@@ -1084187,6 +1084382,11 @@
       "file": "missing/S/56354-super-kawaii-turtle-fighter.json"
     },
     {
+      "igdb_id": 310446,
+      "game_name": "Super Kawaii! Finding Mistakes in Panda Photos",
+      "file": "missing/S/310446-super-kawaii-finding-mistakes-in-panda-photos.json"
+    },
+    {
       "igdb_id": 138495,
       "game_name": "Super Kayak Maker",
       "file": "missing/S/138495-super-kayak-maker.json"
@@ -1103132,6 +1103332,11 @@
       "file": "missing/S/313228-synaxarion-christian-stories-holy-martyr-neophytos.json"
     },
     {
+      "igdb_id": 310445,
+      "game_name": "Synaxarion Christian Stories: Holy Martyr Savvas the Goth",
+      "file": "missing/S/310445-synaxarion-christian-stories-holy-martyr-savvas-the-goth.json"
+    },
+    {
       "igdb_id": 306536,
       "game_name": "Synaxarion: Great Martyr Theodore the Tyro",
       "file": "missing/S/306536-synaxarion-great-martyr-theodore-the-tyro.json"
@@ -1119847,6 +1120052,11 @@
       "file": "missing/T/283759-tekken-8-launch-edition.json"
     },
     {
+      "igdb_id": 310478,
+      "game_name": "Tekken 8: Lidia Sobieska",
+      "file": "missing/T/310478-tekken-8-lidia-sobieska.json"
+    },
+    {
       "igdb_id": 374185,
       "game_name": "Tekken 8: Miary Zo",
       "file": "missing/T/374185-tekken-8-miary-zo.json"
@@ -1133760,6 +1133970,11 @@
       "igdb_id": 193312,
       "game_name": "The Bridge Curse: Road to Salvation",
       "file": "missing/T/193312-the-bridge-curse-road-to-salvation.json"
+    },
+    {
+      "igdb_id": 310480,
+      "game_name": "The Bridge to Yesterday",
+      "file": "missing/T/310480-the-bridge-to-yesterday.json"
     },
     {
       "igdb_id": 169445,
@@ -1183607,6 +1183822,11 @@
       "file": "missing/T/319671-the-villain-simulator.json"
     },
     {
+      "igdb_id": 310444,
+      "game_name": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+      "file": "missing/T/310444-the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom.json"
+    },
+    {
       "igdb_id": 264327,
       "game_name": "The Villainess Just Wants to Eat!!",
       "file": "missing/T/264327-the-villainess-just-wants-to-eat.json"
@@ -1226982,6 +1227202,11 @@
       "file": "missing/T/124043-train-your-brain-nintendo-switch-training-for-adults.json"
     },
     {
+      "igdb_id": 310443,
+      "game_name": "Train Your Brain! Spot the Difference with Animal Kids Photos",
+      "file": "missing/T/310443-train-your-brain-spot-the-difference-with-animal-kids-photos.json"
+    },
+    {
       "igdb_id": 300842,
       "game_name": "Train Your Brain! Spot the Difference with Dog Photos",
       "file": "missing/T/300842-train-your-brain-spot-the-difference-with-dog-photos.json"
@@ -1233310,6 +1233535,11 @@
       "igdb_id": 270114,
       "game_name": "Treasure Hunt Girl",
       "file": "missing/T/270114-treasure-hunt-girl.json"
+    },
+    {
+      "igdb_id": 310442,
+      "game_name": "Treasure Hunt on a World Trip",
+      "file": "missing/T/310442-treasure-hunt-on-a-world-trip.json"
     },
     {
       "igdb_id": 51741,
@@ -1259962,6 +1260192,11 @@
       "file": "missing/U/181668-untitled-goop-game.json"
     },
     {
+      "igdb_id": 310441,
+      "game_name": "Untitled Goose Game & Thank Goodness You're Here! Bundle",
+      "file": "missing/U/310441-untitled-goose-game-and-thank-goodness-youre-here-bundle.json"
+    },
+    {
       "igdb_id": 344968,
       "game_name": "Untitled Hand Game",
       "file": "missing/U/344968-untitled-hand-game.json"
@@ -1276615,6 +1276850,11 @@
       "igdb_id": 283735,
       "game_name": "Voice in the Abyss",
       "file": "missing/V/283735-voice-in-the-abyss.json"
+    },
+    {
+      "igdb_id": 310440,
+      "game_name": "Voice Mimicry Show",
+      "file": "missing/V/310440-voice-mimicry-show.json"
     },
     {
       "igdb_id": 242664,
@@ -1329697,6 +1329937,11 @@
       "file": "missing/Y/84958-yoga-master.json"
     },
     {
+      "igdb_id": 310439,
+      "game_name": "Yoga Master Collection",
+      "file": "missing/Y/310439-yoga-master-collection.json"
+    },
+    {
       "igdb_id": 237849,
       "game_name": "Yoga Master: Deluxe Edition",
       "file": "missing/Y/237849-yoga-master-deluxe-edition.json"
@@ -1329860,6 +1330105,11 @@
       "igdb_id": 315494,
       "game_name": "Yohane the Parhelion: Additional character pack vol.3 \"Riko & Mari + Yohane\"",
       "file": "missing/Y/315494-yohane-the-parhelion-additional-character-pack-vol-3-riko-and-mari-yohane.json"
+    },
+    {
+      "igdb_id": 310471,
+      "game_name": "Yohane the Parhelion: Change set \"Beach! in Numazu!!\"",
+      "file": "missing/Y/310471-yohane-the-parhelion-change-set-beach-in-numazu.json"
     },
     {
       "igdb_id": 324495,
