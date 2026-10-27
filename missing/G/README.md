@@ -1854,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaslit Bay | 405686 | [405686-gaslit-bay.json](./405686-gaslit-bay.json) |
 | Gasnator | 229796 | [229796-gasnator.json](./229796-gasnator.json) |
 | Gasoline | 418900 | [418900-gasoline.json](./418900-gasoline.json) |
+| Gasping.2 | 303994 | [303994-gasping-2.json](./303994-gasping-2.json) |
 | Gassy GaoGao | 405545 | [405545-gassy-gaogao.json](./405545-gassy-gaogao.json) |
 | Gassy Getaway | 310076 | [310076-gassy-getaway.json](./310076-gassy-getaway.json) |
 | Gassy Man | 137364 | [137364-gassy-man.json](./137364-gassy-man.json) |
@@ -3445,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostrunner: Neon Pack | 237922 | [237922-ghostrunner-neon-pack.json](./237922-ghostrunner-neon-pack.json) |
 | Ghostrunner: Winter Pack | 237921 | [237921-ghostrunner-winter-pack.json](./237921-ghostrunner-winter-pack.json) |
 | Ghosts | 11337 | [11337-ghosts.json](./11337-ghosts.json) |
+| Ghosts | 303983 | [303983-ghosts.json](./303983-ghosts.json) |
 | Ghosts | 306496 | [306496-ghosts.json](./306496-ghosts.json) |
 | Ghosts 'N Demons | 139876 | [139876-ghosts-n-demons.json](./139876-ghosts-n-demons.json) |
 | Ghosts 'n Goblins | 178021 | [178021-ghosts-n-goblins.json](./178021-ghosts-n-goblins.json) |
@@ -7000,6 +7002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Prosperity: Part 1 | 96869 | [96869-grave-prosperity-part-1.json](./96869-grave-prosperity-part-1.json) |
 | Grave Prosperity: Redux- part 1 | 35553 | [35553-grave-prosperity-redux-part-1.json](./35553-grave-prosperity-redux-part-1.json) |
 | Grave Prosperity: The Vestigial Princess | 202204 | [202204-grave-prosperity-the-vestigial-princess.json](./202204-grave-prosperity-the-vestigial-princess.json) |
+| Grave Realms | 303986 | [303986-grave-realms.json](./303986-grave-realms.json) |
 | Grave Robber | 249890 | [249890-grave-robber.json](./249890-grave-robber.json) |
 | Grave Rogue | 351800 | [351800-grave-rogue.json](./351800-grave-rogue.json) |
 | Grave Shadows | 185450 | [185450-grave-shadows.json](./185450-grave-shadows.json) |
@@ -8313,6 +8316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Pounders | 36456 | [36456-ground-pounders.json](./36456-ground-pounders.json) |
 | Ground Pounders: Tarka | 10379 | [10379-ground-pounders-tarka.json](./10379-ground-pounders-tarka.json) |
 | Ground Runner: Trials | 82467 | [82467-ground-runner-trials.json](./82467-ground-runner-trials.json) |
+| Ground to Dust | 303989 | [303989-ground-to-dust.json](./303989-ground-to-dust.json) |
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
 | Ground War | 127606 | [127606-ground-war.json](./127606-ground-war.json) |
 | Ground Water: Episode of Dhanra | 374115 | [374115-ground-water-episode-of-dhanra.json](./374115-ground-water-episode-of-dhanra.json) |
