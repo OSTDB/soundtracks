@@ -1604,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Xmas Adventure | 138194 | [138194-santas-xmas-adventure.json](./138194-santas-xmas-adventure.json) |
 | Santa's Xmas Caper | 71400 | [71400-santas-xmas-caper.json](./71400-santas-xmas-caper.json) |
 | Santaclautchi | 229849 | [229849-santaclautchi.json](./229849-santaclautchi.json) |
+| SantaCorps 4 | 328365 | [328365-santacorps-4.json](./328365-santacorps-4.json) |
 | SantaCorps: Snow Patrol | 210837 | [210837-santacorps-snow-patrol.json](./210837-santacorps-snow-patrol.json) |
 | SantaCraft | 141733 | [141733-santacraft.json](./141733-santacraft.json) |
 | SantaFly | 92838 | [92838-santafly.json](./92838-santafly.json) |
@@ -7759,6 +7760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Battle | 115399 | [115399-shop-battle.json](./115399-shop-battle.json) |
 | Shop Crush | 310059 | [310059-shop-crush.json](./310059-shop-crush.json) |
 | Shop Empire | 270596 | [270596-shop-empire.json](./270596-shop-empire.json) |
+| Shop Empire 2 | 328355 | [328355-shop-empire-2.json](./328355-shop-empire-2.json) |
 | Shop Empire 3 | 102005 | [102005-shop-empire-3.json](./102005-shop-empire-3.json) |
 | Shop Empire Galaxy | 95959 | [95959-shop-empire-galaxy.json](./95959-shop-empire-galaxy.json) |
 | Shop Farm Tycoon | 395216 | [395216-shop-farm-tycoon.json](./395216-shop-farm-tycoon.json) |
@@ -11258,6 +11260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice | 98705 | [98705-slice.json](./98705-slice.json) |
 | Slice 'Em Up! | 185130 | [185130-slice-em-up.json](./185130-slice-em-up.json) |
 | Slice & Dice | 176099 | [176099-slice-and-dice.json](./176099-slice-and-dice.json) |
+| Slice Adventure | 328201 | [328201-slice-adventure.json](./328201-slice-adventure.json) |
 | Slice Go | 107572 | [107572-slice-go.json](./107572-slice-go.json) |
 | Slice HD | 104491 | [104491-slice-hd.json](./104491-slice-hd.json) |
 | Slice It All! | 305417 | [305417-slice-it-all.json](./305417-slice-it-all.json) |
@@ -13399,6 +13402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sociopat | 295620 | [295620-sociopat.json](./295620-sociopat.json) |
 | Sociopath | 410211 | [410211-sociopath.json](./410211-sociopath.json) |
 | Sock and Awe | 174581 | [174581-sock-and-awe.json](./174581-sock-and-awe.json) |
+| Sock and the Dark Revenge | 328352 | [328352-sock-and-the-dark-revenge.json](./328352-sock-and-the-dark-revenge.json) |
 | Sock Dating Simulator | 341321 | [341321-sock-dating-simulator.json](./341321-sock-dating-simulator.json) |
 | Sock It | 196236 | [196236-sock-it.json](./196236-sock-it.json) |
 | Sock Monster | 143012 | [143012-sock-monster.json](./143012-sock-monster.json) |
@@ -15282,6 +15286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophie's World | 73234 | [73234-sophies-world.json](./73234-sophies-world.json) |
 | Sophonce | 211278 | [211278-sophonce.json](./211278-sophonce.json) |
 | Sophont | 99431 | [99431-sophont.json](./99431-sophont.json) |
+| Soporfall | 328374 | [328374-soporfall.json](./328374-soporfall.json) |
 | Sopwith VR | 113601 | [113601-sopwith-vr.json](./113601-sopwith-vr.json) |
 | Sopwith: The Author's Edition | 73126 | [73126-sopwith-the-authors-edition.json](./73126-sopwith-the-authors-edition.json) |
 | Sor.Op: Dark Shades | 355883 | [355883-sor-op-dark-shades.json](./355883-sor-op-dark-shades.json) |
@@ -25069,6 +25074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sum Ducks | 71150 | [71150-sum-ducks.json](./71150-sum-ducks.json) |
 | Sum Zero | 407472 | [407472-sum-zero.json](./407472-sum-zero.json) |
 | Sum!! | 175580 | [175580-sum.json](./175580-sum.json) |
+| Sum10 | 328387 | [328387-sum10.json](./328387-sum10.json) |
 | Sumairu Cubic! -Suiheisen made Nan Mile? After & Another Stories- | 59772 | [59772-sumairu-cubic-suiheisen-made-nan-mile-after-and-another-stories.json](./59772-sumairu-cubic-suiheisen-made-nan-mile-after-and-another-stories.json) |
 | Sumatra: Fate of Yandi | 110416 | [110416-sumatra-fate-of-yandi.json](./110416-sumatra-fate-of-yandi.json) |
 | Sumatra: Fate of Yandi - Collector's Edition | 170206 | [170206-sumatra-fate-of-yandi-collectors-edition.json](./170206-sumatra-fate-of-yandi-collectors-edition.json) |
@@ -26937,6 +26943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Run: Ver. 3.0.4 | 327941 | [327941-super-mario-run-ver-3-0-4.json](./327941-super-mario-run-ver-3-0-4.json) |
 | Super Mario Sandbox | 313766 | [313766-super-mario-sandbox.json](./313766-super-mario-sandbox.json) |
 | Super Mario Sayajin Aventura | 265845 | [265845-super-mario-sayajin-aventura.json](./265845-super-mario-sayajin-aventura.json) |
+| Super Mario Scene Creator | 328343 | [328343-super-mario-scene-creator.json](./328343-super-mario-scene-creator.json) |
 | Super Mario Senseless Delirium | 199032 | [199032-super-mario-senseless-delirium.json](./199032-super-mario-senseless-delirium.json) |
 | Super Mario Spectral | 401859 | [401859-super-mario-spectral.json](./401859-super-mario-spectral.json) |
 | Super Mario Spikers | 175958 | [175958-super-mario-spikers.json](./175958-super-mario-spikers.json) |
@@ -29623,6 +29630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swervle | 413686 | [413686-swervle.json](./413686-swervle.json) |
 | Sweven | 28683 | [28683-sweven.json](./28683-sweven.json) |
 | Swevens | 403124 | [403124-swevens.json](./403124-swevens.json) |
+| Sweyet Dreaming Emulator the Familiar Discomfort of the Unpredictable | 328371 | [328371-sweyet-dreaming-emulator-the-familiar-discomfort-of-the-unpredictable.json](./328371-sweyet-dreaming-emulator-the-familiar-discomfort-of-the-unpredictable.json) |
 | Swibble Dibble | 69913 | [69913-swibble-dibble.json](./69913-swibble-dibble.json) |
 | Swift | 33871 | [33871-swift.json](./33871-swift.json) |
 | Swift Attack | 195481 | [195481-swift-attack.json](./195481-swift-attack.json) |
