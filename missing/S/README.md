@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saber Ship | 213462 | [213462-saber-ship.json](./213462-saber-ship.json) |
 | Saber Style | 154974 | [154974-saber-style.json](./154974-saber-style.json) |
 | Saber Survivors | 328452 | [328452-saber-survivors.json](./328452-saber-survivors.json) |
+| Saber y Ganar | 294653 | [294653-saber-y-ganar.json](./294653-saber-y-ganar.json) |
 | SaberSaw VR | 32145 | [32145-sabersaw-vr.json](./32145-sabersaw-vr.json) |
 | Sabine's Mission | 359452 | [359452-sabines-mission.json](./359452-sabines-mission.json) |
 | Sable Maze: Forbidden Garden | 139726 | [139726-sable-maze-forbidden-garden.json](./139726-sable-maze-forbidden-garden.json) |
@@ -7720,6 +7721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Yourself With a Rifle | 336531 | [336531-shoot-yourself-with-a-rifle.json](./336531-shoot-yourself-with-a-rifle.json) |
 | Shoot-No-Shoot | 107805 | [107805-shoot-no-shoot.json](./107805-shoot-no-shoot.json) |
 | Shoot-Out | 71588 | [71588-shoot-out.json](./71588-shoot-out.json) |
+| Shoot-Out! | 294646 | [294646-shoot-out.json](./294646-shoot-out.json) |
 | Shoot, I Got Abducted! | 327227 | [327227-shoot-i-got-abducted.json](./327227-shoot-i-got-abducted.json) |
 | Shoot! | 188437 | [188437-shoot.json](./188437-shoot.json) |
 | Shoot! | 263409 | [263409-shoot.json](./263409-shoot.json) |
@@ -18714,6 +18716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Riding Free: Ride Along Adventure | 256866 | [256866-spirit-riding-free-ride-along-adventure.json](./256866-spirit-riding-free-ride-along-adventure.json) |
 | Spirit Roots | 96858 | [96858-spirit-roots.json](./96858-spirit-roots.json) |
 | Spirit Rover | 107208 | [107208-spirit-rover.json](./107208-spirit-rover.json) |
+| Spirit Run | 294674 | [294674-spirit-run.json](./294674-spirit-run.json) |
 | Spirit Run: Fire vs. Ice | 17584 | [17584-spirit-run-fire-vs-ice.json](./17584-spirit-run-fire-vs-ice.json) |
 | Spirit Seasons: Little Ghost Story | 125311 | [125311-spirit-seasons-little-ghost-story.json](./125311-spirit-seasons-little-ghost-story.json) |
 | Spirit Shift | 181365 | [181365-spirit-shift.json](./181365-spirit-shift.json) |
