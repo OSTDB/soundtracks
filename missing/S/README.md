@@ -3401,6 +3401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Brave: Aidan Adventure | 270125 | [270125-sea-of-brave-aidan-adventure.json](./270125-sea-of-brave-aidan-adventure.json) |
 | Sea of Brave: Beast Island | 303082 | [303082-sea-of-brave-beast-island.json](./303082-sea-of-brave-beast-island.json) |
 | Sea of Change | 302373 | [302373-sea-of-change.json](./302373-sea-of-change.json) |
+| Sea of Chaos | 293590 | [293590-sea-of-chaos.json](./293590-sea-of-chaos.json) |
 | Sea of Choices | 197095 | [197095-sea-of-choices.json](./197095-sea-of-choices.json) |
 | Sea of Dawn | 167674 | [167674-sea-of-dawn.json](./167674-sea-of-dawn.json) |
 | Sea of Dreamland | 48322 | [48322-sea-of-dreamland.json](./48322-sea-of-dreamland.json) |
@@ -4869,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seraphine's Skyward Journey | 388054 | [388054-seraphines-skyward-journey.json](./388054-seraphines-skyward-journey.json) |
 | Seraphixial | 392164 | [392164-seraphixial.json](./392164-seraphixial.json) |
 | Serbia '14 | 131997 | [131997-serbia-14.json](./131997-serbia-14.json) |
+| Serbian Dancing Lady | 294191 | [294191-serbian-dancing-lady.json](./294191-serbian-dancing-lady.json) |
 | Serega Madness Pixel Adventures | 295276 | [295276-serega-madness-pixel-adventures.json](./295276-serega-madness-pixel-adventures.json) |
 | Seren Nova | 275531 | [275531-seren-nova.json](./275531-seren-nova.json) |
 | Serena | 14528 | [14528-serena.json](./14528-serena.json) |
@@ -10494,6 +10496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skuf For Altushki | 368554 | [368554-skuf-for-altushki.json](./368554-skuf-for-altushki.json) |
 | Skuf na dachie | 380668 | [380668-skuf-na-dachie.json](./380668-skuf-na-dachie.json) |
 | Skuf Simulator | 276968 | [276968-skuf-simulator.json](./276968-skuf-simulator.json) |
+| Skuf's Day | 294114 | [294114-skufs-day.json](./294114-skufs-day.json) |
 | Skufs and Alt-Girls | 298067 | [298067-skufs-and-alt-girls.json](./298067-skufs-and-alt-girls.json) |
 | Skuiggle | 202945 | [202945-skuiggle.json](./202945-skuiggle.json) |
 | Skul: The Hero Slayer | 127842 | [127842-skul-the-hero-slayer.json](./127842-skul-the-hero-slayer.json) |
@@ -13720,6 +13723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokonashi No Me | 370883 | [370883-sokonashi-no-me.json](./370883-sokonashi-no-me.json) |
 | SokoNature | 324666 | [324666-sokonature.json](./324666-sokonature.json) |
 | Sokonuke Taisen Game | 191645 | [191645-sokonuke-taisen-game.json](./191645-sokonuke-taisen-game.json) |
+| SokoPenguin | 293673 | [293673-sokopenguin.json](./293673-sokopenguin.json) |
 | Sokorobot | 327980 | [327980-sokorobot.json](./327980-sokorobot.json) |
 | Sokorun: One Box | 209673 | [209673-sokorun-one-box.json](./209673-sokorun-one-box.json) |
 | Sokos | 33053 | [33053-sokos.json](./33053-sokos.json) |
@@ -13816,6 +13820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Kingdoms: Human Survival | 295568 | [295568-solar-kingdoms-human-survival.json](./295568-solar-kingdoms-human-survival.json) |
 | Solar Knight | 367821 | [367821-solar-knight.json](./367821-solar-knight.json) |
 | Solar Machina | 399904 | [399904-solar-machina.json](./399904-solar-machina.json) |
+| Solar Merge | 294101 | [294101-solar-merge.json](./294101-solar-merge.json) |
 | Solar Minotaur Rescue Frenzy | 66133 | [66133-solar-minotaur-rescue-frenzy.json](./66133-solar-minotaur-rescue-frenzy.json) |
 | Solar Nations | 207586 | [207586-solar-nations.json](./207586-solar-nations.json) |
 | Solar Nations 2 | 401711 | [401711-solar-nations-2.json](./401711-solar-nations-2.json) |
@@ -13996,6 +14001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solis | 296278 | [296278-solis.json](./296278-solis.json) |
 | Solis | 354927 | [354927-solis.json](./354927-solis.json) |
 | Solis | 375497 | [375497-solis.json](./375497-solis.json) |
+| Solisquare | 294187 | [294187-solisquare.json](./294187-solisquare.json) |
 | Solitaire | 131465 | [131465-solitaire.json](./131465-solitaire.json) |
 | Solitaire | 234167 | [234167-solitaire.json](./234167-solitaire.json) |
 | Solitaire | 243634 | [243634-solitaire.json](./243634-solitaire.json) |
@@ -14031,6 +14037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Beach Season: A Vacation Time | 202731 | [202731-solitaire-beach-season-a-vacation-time.json](./202731-solitaire-beach-season-a-vacation-time.json) |
 | Solitaire Bliss Collection | 117176 | [117176-solitaire-bliss-collection.json](./117176-solitaire-bliss-collection.json) |
 | Solitaire Blitz | 65263 | [65263-solitaire-blitz.json](./65263-solitaire-blitz.json) |
+| Solitaire by MobilityWare | 294197 | [294197-solitaire-by-mobilityware.json](./294197-solitaire-by-mobilityware.json) |
 | Solitaire Card Deck Game '23 | 231896 | [231896-solitaire-card-deck-game-23.json](./231896-solitaire-card-deck-game-23.json) |
 | Solitaire Card Game Classic | 89621 | [89621-solitaire-card-game-classic.json](./89621-solitaire-card-game-classic.json) |
 | Solitaire Card Games | 147883 | [147883-solitaire-card-games.json](./147883-solitaire-card-games.json) |
@@ -15623,6 +15630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOS OPS!: Guns n' Ops | 297553 | [297553-sos-ops-guns-n-ops.json](./297553-sos-ops-guns-n-ops.json) |
 | SOS Zombie: Survival | 276170 | [276170-sos-zombie-survival.json](./276170-sos-zombie-survival.json) |
 | SOS-Jan | 97504 | [97504-sos-jan.json](./97504-sos-jan.json) |
+| SOS: Forgotten Planet | 293592 | [293592-sos-forgotten-planet.json](./293592-sos-forgotten-planet.json) |
 | SOS: Save Our Sandwiches | 343134 | [343134-sos-save-our-sandwiches.json](./343134-sos-save-our-sandwiches.json) |
 | SOS: Save Our Ship | 373184 | [373184-sos-save-our-ship.json](./373184-sos-save-our-ship.json) |
 | Soshiant | 67646 | [67646-soshiant.json](./67646-soshiant.json) |
@@ -16083,6 +16091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
 | Source Multiplayer Pack | 299099 | [299099-source-multiplayer-pack.json](./299099-source-multiplayer-pack.json) |
 | Source of Power | 179359 | [179359-source-of-power.json](./179359-source-of-power.json) |
+| Source of the Nile: Digital Edition | 293587 | [293587-source-of-the-nile-digital-edition.json](./293587-source-of-the-nile-digital-edition.json) |
 | Sourcebound | 423224 | [423224-sourcebound.json](./423224-sourcebound.json) |
 | Sourcelight RPG | 174282 | [174282-sourcelight-rpg.json](./174282-sourcelight-rpg.json) |
 | Sourcevoid Online | 407768 | [407768-sourcevoid-online.json](./407768-sourcevoid-online.json) |
@@ -17552,6 +17561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speak of the Devil I: A Deathly Proposition | 277941 | [277941-speak-of-the-devil-i-a-deathly-proposition.json](./277941-speak-of-the-devil-i-a-deathly-proposition.json) |
 | Speak Out English | 90899 | [90899-speak-out-english.json](./90899-speak-out-english.json) |
 | Speakeasy | 253334 | [253334-speakeasy.json](./253334-speakeasy.json) |
+| Speakeasy | 294109 | [294109-speakeasy.json](./294109-speakeasy.json) |
 | Speakeasy | 60826 | [60826-speakeasy.json](./60826-speakeasy.json) |
 | Speakeasy Simulator | 375821 | [375821-speakeasy-simulator.json](./375821-speakeasy-simulator.json) |
 | Speakeasy: Last Call | 295668 | [295668-speakeasy-last-call.json](./295668-speakeasy-last-call.json) |
@@ -18220,6 +18230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphereverse | 373138 | [373138-sphereverse.json](./373138-sphereverse.json) |
 | SphereZor | 84890 | [84890-spherezor.json](./84890-spherezor.json) |
 | Spheria | 83875 | [83875-spheria.json](./83875-spheria.json) |
+| Spheric Bombs | 294095 | [294095-spheric-bombs.json](./294095-spheric-bombs.json) |
 | Spherical | 12771 | [12771-spherical.json](./12771-spherical.json) |
 | Spheritis | 17647 | [17647-spheritis.json](./17647-spheritis.json) |
 | Spheriums | 189883 | [189883-spheriums.json](./189883-spheriums.json) |
@@ -18809,6 +18820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritus | 203783 | [203783-spiritus.json](./203783-spiritus.json) |
 | Spiritus 2 | 276972 | [276972-spiritus-2.json](./276972-spiritus-2.json) |
 | Spiritus Astrum | 217355 | [217355-spiritus-astrum.json](./217355-spiritus-astrum.json) |
+| Spiritus Vindicta | 293602 | [293602-spiritus-vindicta.json](./293602-spiritus-vindicta.json) |
 | SpiritVale | 356138 | [356138-spiritvale.json](./356138-spiritvale.json) |
 | Spiritwell | 222348 | [222348-spiritwell.json](./222348-spiritwell.json) |
 | Spirou | 19757 | [19757-spirou.json](./19757-spirou.json) |
@@ -20469,6 +20481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star League Baseball | 307766 | [307766-star-league-baseball.json](./307766-star-league-baseball.json) |
 | Star Legacy | 351693 | [351693-star-legacy.json](./351693-star-legacy.json) |
 | Star Legacy VR | 261782 | [261782-star-legacy-vr.json](./261782-star-legacy-vr.json) |
+| Star Legends | 294107 | [294107-star-legends.json](./294107-star-legends.json) |
 | Star Legends Pro (Dreamsky) | 97168 | [97168-star-legends-pro-dreamsky.json](./97168-star-legends-pro-dreamsky.json) |
 | Star Life | 326515 | [326515-star-life.json](./326515-star-life.json) |
 | Star Light | 100271 | [100271-star-light.json](./100271-star-light.json) |
@@ -21411,6 +21424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starmate | 252305 | [252305-starmate.json](./252305-starmate.json) |
 | Starmatter | 178926 | [178926-starmatter.json](./178926-starmatter.json) |
 | StarMech | 207581 | [207581-starmech.json](./207581-starmech.json) |
+| Starmetal Crusaders | 293598 | [293598-starmetal-crusaders.json](./293598-starmetal-crusaders.json) |
 | Starminer | 280353 | [280353-starminer.json](./280353-starminer.json) |
 | Starmount | 327323 | [327323-starmount.json](./327323-starmount.json) |
 | Starmourn | 122849 | [122849-starmourn.json](./122849-starmourn.json) |
@@ -24206,6 +24220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Suit Infinity | 9329 | [9329-strike-suit-infinity.json](./9329-strike-suit-infinity.json) |
 | Strike Suit Zero: Collectors Edition | 54407 | [54407-strike-suit-zero-collectors-edition.json](./54407-strike-suit-zero-collectors-edition.json) |
 | Strike Suit Zero: Director's Cut | 9465 | [9465-strike-suit-zero-directors-cut.json](./9465-strike-suit-zero-directors-cut.json) |
+| Strike Team Delta | 293668 | [293668-strike-team-delta.json](./293668-strike-team-delta.json) |
 | Strike Team Gladius | 142274 | [142274-strike-team-gladius.json](./142274-strike-team-gladius.json) |
 | Strike Team Online | 174838 | [174838-strike-team-online.json](./174838-strike-team-online.json) |
 | Strike the Goal: Score Goals | 175074 | [175074-strike-the-goal-score-goals.json](./175074-strike-the-goal-score-goals.json) |
@@ -29130,6 +29145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Nation: Lost Horizon | 259619 | [259619-survival-nation-lost-horizon.json](./259619-survival-nation-lost-horizon.json) |
 | Survival Nexus | 266784 | [266784-survival-nexus.json](./266784-survival-nexus.json) |
 | Survival Odyssey | 345391 | [345391-survival-odyssey.json](./345391-survival-odyssey.json) |
+| Survival Of Exon | 293599 | [293599-survival-of-exon.json](./293599-survival-of-exon.json) |
 | Survival of Primitive | 214021 | [214021-survival-of-primitive.json](./214021-survival-of-primitive.json) |
 | Survival of Runt | 392233 | [392233-survival-of-runt.json](./392233-survival-of-runt.json) |
 | Survival on a Deserted Island | 265134 | [265134-survival-on-a-deserted-island.json](./265134-survival-on-a-deserted-island.json) |
