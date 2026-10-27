@@ -7308,6 +7308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meloa | 416388 | [416388-meloa.json](./416388-meloa.json) |
 | Melobot: A Last Song | 199252 | [199252-melobot-a-last-song.json](./199252-melobot-a-last-song.json) |
 | Melod | 235145 | [235145-melod.json](./235145-melod.json) |
+| Melodian Shield | 305725 | [305725-melodian-shield.json](./305725-melodian-shield.json) |
 | Melodic Mage | 374426 | [374426-melodic-mage.json](./374426-melodic-mage.json) |
 | Melodic Riddle | 75774 | [75774-melodic-riddle.json](./75774-melodic-riddle.json) |
 | Melodie | 334214 | [334214-melodie.json](./334214-melodie.json) |
@@ -14480,6 +14481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morita Shogi Advance | 49712 | [49712-morita-shogi-advance.json](./49712-morita-shogi-advance.json) |
 | Morita Shogi PC | 37672 | [37672-morita-shogi-pc.json](./37672-morita-shogi-pc.json) |
 | Moritaka Chisato Safari Tokyo | 313065 | [313065-moritaka-chisato-safari-tokyo.json](./313065-moritaka-chisato-safari-tokyo.json) |
+| Morituri Te Salutant | 305809 | [305809-morituri-te-salutant.json](./305809-morituri-te-salutant.json) |
 | Morituria | 347798 | [347798-morituria.json](./347798-morituria.json) |
 | Moriya Rhythm Rainbow | 214937 | [214937-moriya-rhythm-rainbow.json](./214937-moriya-rhythm-rainbow.json) |
 | Mörk Borg Heresy Supreme | 317584 | [317584-mork-borg-heresy-supreme.json](./317584-mork-borg-heresy-supreme.json) |
@@ -16477,6 +16479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder&Spies | 326097 | [326097-murder-and-spies.json](./326097-murder-and-spies.json) |
 | Murdered by Midnight | 174241 | [174241-murdered-by-midnight.json](./174241-murdered-by-midnight.json) |
 | MurderHobo: Aggravation Quest | 63289 | [63289-murderhobo-aggravation-quest.json](./63289-murderhobo-aggravation-quest.json) |
+| Murderlings | 305834 | [305834-murderlings.json](./305834-murderlings.json) |
 | Murderous Pursuits | 85526 | [85526-murderous-pursuits.json](./85526-murderous-pursuits.json) |
 | Murderous Sunlight | 390149 | [390149-murderous-sunlight.json](./390149-murderous-sunlight.json) |
 | Murders & Mistresses | 418705 | [418705-murders-and-mistresses.json](./418705-murders-and-mistresses.json) |
@@ -16642,6 +16645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music 2002: Club Edition | 144600 | [144600-music-2002-club-edition.json](./144600-music-2002-club-edition.json) |
 | Music Ball | 137865 | [137865-music-ball.json](./137865-music-ball.json) |
 | Music Band Manager | 82312 | [82312-music-band-manager.json](./82312-music-band-manager.json) |
+| Music Baseball | 305723 | [305723-music-baseball.json](./305723-music-baseball.json) |
 | Music Box | 309035 | [309035-music-box.json](./309035-music-box.json) |
 | Music Box: Electro Pop | 316232 | [316232-music-box-electro-pop.json](./316232-music-box-electro-pop.json) |
 | Music Box: Ethnic | 316268 | [316268-music-box-ethnic.json](./316268-music-box-ethnic.json) |
