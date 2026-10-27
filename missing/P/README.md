@@ -10505,6 +10505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Club kara no Dasshutsu | 358493 | [358493-pool-club-kara-no-dasshutsu.json](./358493-pool-club-kara-no-dasshutsu.json) |
 | Pool Edge | 4072 | [4072-pool-edge.json](./4072-pool-edge.json) |
 | Pool Elite | 103180 | [103180-pool-elite.json](./103180-pool-elite.json) |
+| Pool Fever | 323696 | [323696-pool-fever.json](./323696-pool-fever.json) |
 | Pool Fever Cue to Glory | 378964 | [378964-pool-fever-cue-to-glory.json](./378964-pool-fever-cue-to-glory.json) |
 | Pool Fever Precision Shoot | 385171 | [385171-pool-fever-precision-shoot.json](./385171-pool-fever-precision-shoot.json) |
 | Pool Fever: Deluxe Edition | 330206 | [330206-pool-fever-deluxe-edition.json](./330206-pool-fever-deluxe-edition.json) |
