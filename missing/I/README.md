@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Want to Be Human | 36433 | [36433-i-want-to-be-human.json](./36433-i-want-to-be-human.json) |
 | I Want to be Popular! | 183902 | [183902-i-want-to-be-popular.json](./183902-i-want-to-be-popular.json) |
 | I Want to Believe | 319728 | [319728-i-want-to-believe.json](./319728-i-want-to-believe.json) |
+| I Want To Cheat | 314815 | [314815-i-want-to-cheat.json](./314815-i-want-to-cheat.json) |
 | I Want To Cook Like Mom | 401181 | [401181-i-want-to-cook-like-mom.json](./401181-i-want-to-cook-like-mom.json) |
 | I want to die | 271629 | [271629-i-want-to-die.json](./271629-i-want-to-die.json) |
 | I Want to Die: Remake | 327230 | [327230-i-want-to-die-remake.json](./327230-i-want-to-die-remake.json) |
