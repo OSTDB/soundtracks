@@ -5528,6 +5528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The BioWare Bundle | 178402 | [178402-the-bioware-bundle.json](./178402-the-bioware-bundle.json) |
 | The Bird and the Bicycle | 298780 | [298780-the-bird-and-the-bicycle.json](./298780-the-bird-and-the-bicycle.json) |
 | The Bird Museum | 182545 | [182545-the-bird-museum.json](./182545-the-bird-museum.json) |
+| The Bird of a Thousand Voices | 330469 | [330469-the-bird-of-a-thousand-voices.json](./330469-the-bird-of-a-thousand-voices.json) |
 | The Bird That Drinks Tears | 237447 | [237447-the-bird-that-drinks-tears.json](./237447-the-bird-that-drinks-tears.json) |
 | The Bird's Realm 3 | 201805 | [201805-the-birds-realm-3.json](./201805-the-birds-realm-3.json) |
 | The Birdcage | 105800 | [105800-the-birdcage.json](./105800-the-birdcage.json) |
@@ -6730,6 +6731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Daring Mermaid Expedition | 33519 | [33519-the-daring-mermaid-expedition.json](./33519-the-daring-mermaid-expedition.json) |
 | The Dark | 140576 | [140576-the-dark.json](./140576-the-dark.json) |
 | The Dark | 167371 | [167371-the-dark.json](./167371-the-dark.json) |
+| The Dark | 330651 | [330651-the-dark.json](./330651-the-dark.json) |
 | The Dark Arrival: Shadows of the Past | 343269 | [343269-the-dark-arrival-shadows-of-the-past.json](./343269-the-dark-arrival-shadows-of-the-past.json) |
 | The Dark Book | 248713 | [248713-the-dark-book.json](./248713-the-dark-book.json) |
 | The Dark Book 2 | 274489 | [274489-the-dark-book-2.json](./274489-the-dark-book-2.json) |
@@ -8215,6 +8217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Boundary | 201485 | [201485-the-forgotten-boundary.json](./201485-the-forgotten-boundary.json) |
 | The Forgotten City: Cloud Version | 173145 | [173145-the-forgotten-city-cloud-version.json](./173145-the-forgotten-city-cloud-version.json) |
 | The Forgotten City: Digital Collector's Edition | 167179 | [167179-the-forgotten-city-digital-collectors-edition.json](./167179-the-forgotten-city-digital-collectors-edition.json) |
+| The Forgotten Deity | 330664 | [330664-the-forgotten-deity.json](./330664-the-forgotten-deity.json) |
 | The Forgotten Demons | 197195 | [197195-the-forgotten-demons.json](./197195-the-forgotten-demons.json) |
 | The Forgotten Empire | 191164 | [191164-the-forgotten-empire.json](./191164-the-forgotten-empire.json) |
 | The Forgotten Fairy Tales: The Spectra World | 100153 | [100153-the-forgotten-fairy-tales-the-spectra-world.json](./100153-the-forgotten-fairy-tales-the-spectra-world.json) |
@@ -10671,6 +10674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Dragonflame High School | 54849 | [54849-the-legend-of-the-dragonflame-high-school.json](./54849-the-legend-of-the-dragonflame-high-school.json) |
 | The Legend of the Dragonflame High School 2 | 115380 | [115380-the-legend-of-the-dragonflame-high-school-2.json](./115380-the-legend-of-the-dragonflame-high-school-2.json) |
 | The Legend of The Duck Knite | 117507 | [117507-the-legend-of-the-duck-knite.json](./117507-the-legend-of-the-duck-knite.json) |
+| The Legend of the Heroes of the Water Margin | 330499 | [330499-the-legend-of-the-heroes-of-the-water-margin.json](./330499-the-legend-of-the-heroes-of-the-water-margin.json) |
 | The Legend of the Radient Mask | 135094 | [135094-the-legend-of-the-radient-mask.json](./135094-the-legend-of-the-radient-mask.json) |
 | The Legend of The Sacred Stone EX | 371336 | [371336-the-legend-of-the-sacred-stone-ex.json](./371336-the-legend-of-the-sacred-stone-ex.json) |
 | The Legend of the Spirit Bird | 172520 | [172520-the-legend-of-the-spirit-bird.json](./172520-the-legend-of-the-spirit-bird.json) |
@@ -13120,6 +13124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Redundant | 318979 | [318979-the-redundant.json](./318979-the-redundant.json) |
 | The Reeve | 298458 | [298458-the-reeve.json](./298458-the-reeve.json) |
 | The Reflection | 399671 | [399671-the-reflection.json](./399671-the-reflection.json) |
+| The Reformatory | 330654 | [330654-the-reformatory.json](./330654-the-reformatory.json) |
 | The Refuge | 125097 | [125097-the-refuge.json](./125097-the-refuge.json) |
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
 | The Regions | 244623 | [244623-the-regions.json](./244623-the-regions.json) |
@@ -17126,6 +17131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Spacecrafts | 134970 | [134970-those-spacecrafts.json](./134970-those-spacecrafts.json) |
 | Those Who Came: Healing Solarus | 175647 | [175647-those-who-came-healing-solarus.json](./175647-those-who-came-healing-solarus.json) |
 | Those Who Crawl | 230803 | [230803-those-who-crawl.json](./230803-those-who-crawl.json) |
+| Those Who Crawl VR | 330635 | [330635-those-who-crawl-vr.json](./330635-those-who-crawl-vr.json) |
 | Those Who Know | 337313 | [337313-those-who-know.json](./337313-those-who-know.json) |
 | Those Who Rule | 211226 | [211226-those-who-rule.json](./211226-those-who-rule.json) |
 | Those Who Rule II | 394374 | [394374-those-who-rule-ii.json](./394374-those-who-rule-ii.json) |
@@ -26843,6 +26849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump and Virus | 393451 | [393451-trump-and-virus.json](./393451-trump-and-virus.json) |
 | Trump Anthology Episode 1: A Link to the Past | 111858 | [111858-trump-anthology-episode-1-a-link-to-the-past.json](./111858-trump-anthology-episode-1-a-link-to-the-past.json) |
 | Trump Boy II | 334278 | [334278-trump-boy-ii.json](./334278-trump-boy-ii.json) |
+| Trump Breakout | 330480 | [330480-trump-breakout.json](./330480-trump-breakout.json) |
 | Trump Cards | 383616 | [383616-trump-cards.json](./383616-trump-cards.json) |
 | Trump Castle II | 73692 | [73692-trump-castle-ii.json](./73692-trump-castle-ii.json) |
 | Trump Castle: The Ultimate Casino Gambling Simulation | 78666 | [78666-trump-castle-the-ultimate-casino-gambling-simulation.json](./78666-trump-castle-the-ultimate-casino-gambling-simulation.json) |
