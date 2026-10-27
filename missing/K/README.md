@@ -4206,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi | 20035 | [20035-koi.json](./20035-koi.json) |
 | Koi | 282480 | [282480-koi.json](./282480-koi.json) |
 | Koi de wa Naku: It's Not Love, but So where Near | 242420 | [242420-koi-de-wa-naku-its-not-love-but-so-where-near.json](./242420-koi-de-wa-naku-its-not-love-but-so-where-near.json) |
+| Koi Dojo | 308207 | [308207-koi-dojo.json](./308207-koi-dojo.json) |
 | Koi Farm | 143633 | [143633-koi-farm.json](./143633-koi-farm.json) |
 | Koi Frenzy | 410725 | [410725-koi-frenzy.json](./410725-koi-frenzy.json) |
 | Koi ga Saku Koro Sakura Doki | 60939 | [60939-koi-ga-saku-koro-sakura-doki.json](./60939-koi-ga-saku-koro-sakura-doki.json) |
