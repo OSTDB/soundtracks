@@ -3395,6 +3395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosted | 221033 | [221033-ghosted.json](./221033-ghosted.json) |
 | Ghosted | 418760 | [418760-ghosted.json](./418760-ghosted.json) |
 | Ghosteez | 276936 | [276936-ghosteez.json](./276936-ghosteez.json) |
+| Ghostein | 302318 | [302318-ghostein.json](./302318-ghostein.json) |
 | Ghostflippers | 408722 | [408722-ghostflippers.json](./408722-ghostflippers.json) |
 | Ghostforged | 391808 | [391808-ghostforged.json](./391808-ghostforged.json) |
 | Ghostfriend | 223102 | [223102-ghostfriend.json](./223102-ghostfriend.json) |
@@ -3497,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghoul Britannia: Land of Hope and Gorey | 116979 | [116979-ghoul-britannia-land-of-hope-and-gorey.json](./116979-ghoul-britannia-land-of-hope-and-gorey.json) |
 | Ghoul Dungeon | 190373 | [190373-ghoul-dungeon.json](./190373-ghoul-dungeon.json) |
 | Ghoul Fort | 294263 | [294263-ghoul-fort.json](./294263-ghoul-fort.json) |
+| Ghoul Fright | 302331 | [302331-ghoul-fright.json](./302331-ghoul-fright.json) |
 | Ghoul Grind: Night of the Necromancer | 145356 | [145356-ghoul-grind-night-of-the-necromancer.json](./145356-ghoul-grind-night-of-the-necromancer.json) |
 | Ghoul Groove | 365800 | [365800-ghoul-groove.json](./365800-ghoul-groove.json) |
 | Ghoul Kid | 33012 | [33012-ghoul-kid.json](./33012-ghoul-kid.json) |
