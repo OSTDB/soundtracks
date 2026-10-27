@@ -13860,6 +13860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Team Racing: Retro-Fueled | 262407 | [262407-crash-team-racing-retro-fueled.json](./262407-crash-team-racing-retro-fueled.json) |
 | Crash Team Racing: Unlimited | 360136 | [360136-crash-team-racing-unlimited.json](./360136-crash-team-racing-unlimited.json) |
 | Crash Team Rumble | 228540 | [228540-crash-team-rumble.json](./228540-crash-team-rumble.json) |
+| Crash Team Rumble | 282416 | [282416-crash-team-rumble.json](./282416-crash-team-rumble.json) |
 | Crash Team Rumble: Deluxe Edition | 246296 | [246296-crash-team-rumble-deluxe-edition.json](./246296-crash-team-rumble-deluxe-edition.json) |
 | Crash Team Rumble: Season 1 | 252546 | [252546-crash-team-rumble-season-1.json](./252546-crash-team-rumble-season-1.json) |
 | Crash Test Billy | 51473 | [51473-crash-test-billy.json](./51473-crash-test-billy.json) |
