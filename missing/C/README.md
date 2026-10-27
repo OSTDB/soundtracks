@@ -1320,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CanvasCraft | 332241 | [332241-canvascraft.json](./332241-canvascraft.json) |
 | Canvasmount | 341635 | [341635-canvasmount.json](./341635-canvasmount.json) |
 | CanVerse | 227999 | [227999-canverse.json](./227999-canverse.json) |
+| Canyon | 308315 | [308315-canyon.json](./308315-canyon.json) |
 | Canyon | 387736 | [387736-canyon.json](./387736-canyon.json) |
 | Canyon Bomber | 17017 | [17017-canyon-bomber.json](./17017-canyon-bomber.json) |
 | Canyon Capers: Rio Fever | 25515 | [25515-canyon-capers-rio-fever.json](./25515-canyon-capers-rio-fever.json) |
@@ -1679,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capy Farm | 407389 | [407389-capy-farm.json](./407389-capy-farm.json) |
 | Capy Hoky | 129426 | [129426-capy-hoky.json](./129426-capy-hoky.json) |
 | Capy Island | 310944 | [310944-capy-island.json](./310944-capy-island.json) |
+| Capy Spa | 308156 | [308156-capy-spa.json](./308156-capy-spa.json) |
 | Capy Spa | 388541 | [388541-capy-spa.json](./388541-capy-spa.json) |
 | Capy's Hot Springs Haven | 389706 | [389706-capys-hot-springs-haven.json](./389706-capys-hot-springs-haven.json) |
 | Capybara | 229820 | [229820-capybara.json](./229820-capybara.json) |
@@ -4198,8 +4200,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Gunslinger | 294683 | [294683-cazzarion-gunslinger.json](./294683-cazzarion-gunslinger.json) |
 | Cazzarion: Hell Biker | 334491 | [334491-cazzarion-hell-biker.json](./334491-cazzarion-hell-biker.json) |
 | Cazzarion: Jetpack Fighter | 378178 | [378178-cazzarion-jetpack-fighter.json](./378178-cazzarion-jetpack-fighter.json) |
+| Cazzarion: Jumping Tiger | 308304 | [308304-cazzarion-jumping-tiger.json](./308304-cazzarion-jumping-tiger.json) |
 | Cazzarion: Kutululu | 347065 | [347065-cazzarion-kutululu.json](./347065-cazzarion-kutululu.json) |
 | Cazzarion: Laser Puzzle | 399876 | [399876-cazzarion-laser-puzzle.json](./399876-cazzarion-laser-puzzle.json) |
+| Cazzarion: Mosquito Hunt | 308305 | [308305-cazzarion-mosquito-hunt.json](./308305-cazzarion-mosquito-hunt.json) |
 | Cazzarion: Pop The Bubbles | 296737 | [296737-cazzarion-pop-the-bubbles.json](./296737-cazzarion-pop-the-bubbles.json) |
 | Cazzarion: Portal Pilot | 305782 | [305782-cazzarion-portal-pilot.json](./305782-cazzarion-portal-pilot.json) |
 | Cazzarion: Robot Rush | 300994 | [300994-cazzarion-robot-rush.json](./300994-cazzarion-robot-rush.json) |
@@ -4787,6 +4791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Tennis | 6093 | [6093-champion-tennis.json](./6093-champion-tennis.json) |
 | Champion Wrestler | 38092 | [38092-champion-wrestler.json](./38092-champion-wrestler.json) |
 | Champion Wrestler: Jikkyou Raibu | 66482 | [66482-champion-wrestler-jikkyou-raibu.json](./66482-champion-wrestler-jikkyou-raibu.json) |
+| Champion's Ashes | 308144 | [308144-champions-ashes.json](./308144-champions-ashes.json) |
 | Champions | 120685 | [120685-champions.json](./120685-champions.json) |
 | Champions | 278368 | [278368-champions.json](./278368-champions.json) |
 | Champions and Challengers | 174739 | [174739-champions-and-challengers.json](./174739-champions-and-challengers.json) |
@@ -7384,6 +7389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinema Tycoon | 369679 | [369679-cinema-tycoon.json](./369679-cinema-tycoon.json) |
 | Cinema Tycoon 2: Movie Mania | 62486 | [62486-cinema-tycoon-2-movie-mania.json](./62486-cinema-tycoon-2-movie-mania.json) |
 | Cinemaster Cinema Simulator | 326452 | [326452-cinemaster-cinema-simulator.json](./326452-cinemaster-cinema-simulator.json) |
+| Cinematic Mod | 308290 | [308290-cinematic-mod.json](./308290-cinematic-mod.json) |
 | Cinematrix | 319218 | [319218-cinematrix.json](./319218-cinematrix.json) |
 | Cinemax Complete | 52735 | [52735-cinemax-complete.json](./52735-cinemax-complete.json) |
 | Cineminha | 290096 | [290096-cineminha.json](./290096-cineminha.json) |
@@ -8856,6 +8862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Quarters | 277709 | [277709-close-quarters.json](./277709-close-quarters.json) |
 | Close Quarters Conflict | 27472 | [27472-close-quarters-conflict.json](./27472-close-quarters-conflict.json) |
 | Close Quarters Supremacy: The Legis | 173234 | [173234-close-quarters-supremacy-the-legis.json](./173234-close-quarters-supremacy-the-legis.json) |
+| Close Range | 308313 | [308313-close-range.json](./308313-close-range.json) |
 | Close Shell | 246437 | [246437-close-shell.json](./246437-close-shell.json) |
 | Close the Sky | 413907 | [413907-close-the-sky.json](./413907-close-the-sky.json) |
 | Close the Window! | 81914 | [81914-close-the-window.json](./81914-close-the-window.json) |
@@ -9117,6 +9124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clues By Sam | 352878 | [352878-clues-by-sam.json](./352878-clues-by-sam.json) |
 | ClueSweeper | 281262 | [281262-cluesweeper.json](./281262-cluesweeper.json) |
 | Cluju | 386327 | [386327-cluju.json](./386327-cluju.json) |
+| Cluminati | 308224 | [308224-cluminati.json](./308224-cluminati.json) |
 | Clumsy Cannon | 284825 | [284825-clumsy-cannon.json](./284825-clumsy-cannon.json) |
 | Clumsy Cat | 259242 | [259242-clumsy-cat.json](./259242-clumsy-cat.json) |
 | Clumsy Chef | 84078 | [84078-clumsy-chef.json](./84078-clumsy-chef.json) |
@@ -9678,6 +9686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coke Bugs | 265398 | [265398-coke-bugs.json](./265398-coke-bugs.json) |
 | Col:Verse | 293830 | [293830-col-verse.json](./293830-col-verse.json) |
 | Cola | 372202 | [372202-cola.json](./372202-cola.json) |
+| Cola Riders | 308303 | [308303-cola-riders.json](./308303-cola-riders.json) |
 | CoLab | 31943 | [31943-colab.json](./31943-colab.json) |
 | CoLane | 405666 | [405666-colane.json](./405666-colane.json) |
 | Colby | 47156 | [47156-colby.json](./47156-colby.json) |
@@ -10166,6 +10175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color-A-Cube: Scifi Pack #2 | 371291 | [371291-color-a-cube-scifi-pack-2.json](./371291-color-a-cube-scifi-pack-2.json) |
 | Colorado | 10851 | [10851-colorado.json](./10851-colorado.json) |
 | Colorado Rail Game | 390682 | [390682-colorado-rail-game.json](./390682-colorado-rail-game.json) |
+| Colorama Cubes | 308302 | [308302-colorama-cubes.json](./308302-colorama-cubes.json) |
 | Coloramba! | 200036 | [200036-coloramba.json](./200036-coloramba.json) |
 | Colorami | 378517 | [378517-colorami.json](./378517-colorami.json) |
 | Coloratura | 410054 | [410054-coloratura.json](./410054-coloratura.json) |
@@ -16253,6 +16263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubit | 204472 | [204472-cubit.json](./204472-cubit.json) |
 | Cubit | 204473 | [204473-cubit.json](./204473-cubit.json) |
 | Cubit: The Hardcore Platformer Robot | 47644 | [47644-cubit-the-hardcore-platformer-robot.json](./47644-cubit-the-hardcore-platformer-robot.json) |
+| Cubiti Dash 'n' Dodge | 308170 | [308170-cubiti-dash-n-dodge.json](./308170-cubiti-dash-n-dodge.json) |
 | Cubiti Parti | 202749 | [202749-cubiti-parti.json](./202749-cubiti-parti.json) |
 | Cubitrix | 277257 | [277257-cubitrix.json](./277257-cubitrix.json) |
 | Cubium Dreams | 33381 | [33381-cubium-dreams.json](./33381-cubium-dreams.json) |
