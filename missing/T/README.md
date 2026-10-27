@@ -8728,6 +8728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Fear | 260650 | [260650-the-great-fear.json](./260650-the-great-fear.json) |
 | The Great Fleece | 315914 | [315914-the-great-fleece.json](./315914-the-great-fleece.json) |
 | The Great Flood | 380563 | [380563-the-great-flood.json](./380563-the-great-flood.json) |
+| The Great Fluctus | 319045 | [319045-the-great-fluctus.json](./319045-the-great-fluctus.json) |
 | The Great Forever Tomorrow | 216436 | [216436-the-great-forever-tomorrow.json](./216436-the-great-forever-tomorrow.json) |
 | The Great Fusion | 19499 | [19499-the-great-fusion.json](./19499-the-great-fusion.json) |
 | The Great Gatsby | 76889 | [76889-the-great-gatsby.json](./76889-the-great-gatsby.json) |
@@ -12312,6 +12313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The One Who Runs Away Is Chased | 410250 | [410250-the-one-who-runs-away-is-chased.json](./410250-the-one-who-runs-away-is-chased.json) |
 | The One Who Stands Behind | 258191 | [258191-the-one-who-stands-behind.json](./258191-the-one-who-stands-behind.json) |
 | The One: Chapter 2 | 244230 | [244230-the-one-chapter-2.json](./244230-the-one-chapter-2.json) |
+| The Oneironaut | 318958 | [318958-the-oneironaut.json](./318958-the-oneironaut.json) |
 | The Ones Beyond | 390597 | [390597-the-ones-beyond.json](./390597-the-ones-beyond.json) |
 | The Ones Who Answered | 410340 | [410340-the-ones-who-answered.json](./410340-the-ones-who-answered.json) |
 | The Oni Sellsword | 106403 | [106403-the-oni-sellsword.json](./106403-the-oni-sellsword.json) |
@@ -22640,6 +22642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Rock Maiden FC | 202936 | [202936-touhou-rock-maiden-fc.json](./202936-touhou-rock-maiden-fc.json) |
 | Touhou Rock Maiden FC 2: History's Greatest Sermon!! | 203652 | [203652-touhou-rock-maiden-fc-2-historys-greatest-sermon.json](./203652-touhou-rock-maiden-fc-2-historys-greatest-sermon.json) |
 | Touhou Rock Maiden FC 3: Little Native Goddess's Revival | 386119 | [386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json](./386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json) |
+| Touhou Saibanmu: Rookie Attorney Legendry | 318963 | [318963-touhou-saibanmu-rookie-attorney-legendry.json](./318963-touhou-saibanmu-rookie-attorney-legendry.json) |
 | Touhou Saikotan: Servants of Harvest Wish | 246678 | [246678-touhou-saikotan-servants-of-harvest-wish.json](./246678-touhou-saikotan-servants-of-harvest-wish.json) |
 | Touhou Seicross | 204492 | [204492-touhou-seicross.json](./204492-touhou-seicross.json) |
 | Touhou Seikaen: Blue devil in the Belvedere | 148365 | [148365-touhou-seikaen-blue-devil-in-the-belvedere.json](./148365-touhou-seikaen-blue-devil-in-the-belvedere.json) |
@@ -26223,6 +26226,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trillenium | 295153 | [295153-trillenium.json](./295153-trillenium.json) |
 | Trillion: God of Destruction | 19445 | [19445-trillion-god-of-destruction.json](./19445-trillion-god-of-destruction.json) |
 | Trillionia | 106632 | [106632-trillionia.json](./106632-trillionia.json) |
+| Trilogi Keluarga Bahagia Side Story: Sulastri Si Tukang Jamu | 319036 | [319036-trilogi-keluarga-bahagia-side-story-sulastri-si-tukang-jamu.json](./319036-trilogi-keluarga-bahagia-side-story-sulastri-si-tukang-jamu.json) |
+| Trilogi Keluarga Bahagia Side Story: Yuni dan Puzzle Ajaib | 319037 | [319037-trilogi-keluarga-bahagia-side-story-yuni-dan-puzzle-ajaib.json](./319037-trilogi-keluarga-bahagia-side-story-yuni-dan-puzzle-ajaib.json) |
 | Trilogic | 91978 | [91978-trilogic.json](./91978-trilogic.json) |
 | Trilogy King Man | 148318 | [148318-trilogy-king-man.json](./148318-trilogy-king-man.json) |
 | Trilogy Kuki Youka Shinden | 153741 | [153741-trilogy-kuki-youka-shinden.json](./153741-trilogy-kuki-youka-shinden.json) |
