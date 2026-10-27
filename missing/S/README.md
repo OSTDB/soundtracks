@@ -13929,6 +13929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire | 243634 | [243634-solitaire.json](./243634-solitaire.json) |
 | Solitaire | 243701 | [243701-solitaire.json](./243701-solitaire.json) |
 | Solitaire | 246627 | [246627-solitaire.json](./246627-solitaire.json) |
+| Solitaire | 311000 | [311000-solitaire.json](./311000-solitaire.json) |
 | Solitaire | 312270 | [312270-solitaire.json](./312270-solitaire.json) |
 | Solitaire | 313972 | [313972-solitaire.json](./313972-solitaire.json) |
 | Solitaire | 74206 | [74206-solitaire.json](./74206-solitaire.json) |
@@ -19759,6 +19760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid Gurl and the Salty Sea Man | 97345 | [97345-squid-gurl-and-the-salty-sea-man.json](./97345-squid-gurl-and-the-salty-sea-man.json) |
 | Squid Guys | 286503 | [286503-squid-guys.json](./286503-squid-guys.json) |
 | Squid Ink | 95932 | [95932-squid-ink.json](./95932-squid-ink.json) |
+| Squid Jump | 311011 | [311011-squid-jump.json](./311011-squid-jump.json) |
 | Squid on Road | 236944 | [236944-squid-on-road.json](./236944-squid-on-road.json) |
 | Squid Prison | 199314 | [199314-squid-prison.json](./199314-squid-prison.json) |
 | Squid Run | 192605 | [192605-squid-run.json](./192605-squid-run.json) |
@@ -20529,6 +20531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sky 3 | 109702 | [109702-star-sky-3.json](./109702-star-sky-3.json) |
 | Star Sled | 198159 | [198159-star-sled.json](./198159-star-sled.json) |
 | Star Soldier | 295667 | [295667-star-soldier.json](./295667-star-soldier.json) |
+| Star Soldier | 311024 | [311024-star-soldier.json](./311024-star-soldier.json) |
 | Star Soldier | 48240 | [48240-star-soldier.json](./48240-star-soldier.json) |
 | Star Soldier R | 21820 | [21820-star-soldier-r.json](./21820-star-soldier-r.json) |
 | Star Soldier vs. DoDonPachi Daioujou Caravan'06 | 365107 | [365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json](./365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json) |
@@ -22763,6 +22766,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Zeitgeist: Episode 3 - A Trick With Ants | 178505 | [178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json](./178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json) |
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
 | Stickyban | 338736 | [338736-stickyban.json](./338736-stickyban.json) |
+| Stickybear Math 2 | 311005 | [311005-stickybear-math-2.json](./311005-stickybear-math-2.json) |
+| Stickybear Shapes | 311004 | [311004-stickybear-shapes.json](./311004-stickybear-shapes.json) |
 | Stickybear: Preschool | 208766 | [208766-stickybear-preschool.json](./208766-stickybear-preschool.json) |
 | Stickybear: Spelling | 208767 | [208767-stickybear-spelling.json](./208767-stickybear-spelling.json) |
 | StickyBee | 74975 | [74975-stickybee.json](./74975-stickybee.json) |
@@ -26630,6 +26635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kiwi 64: Doomsday | 284145 | [284145-super-kiwi-64-doomsday.json](./284145-super-kiwi-64-doomsday.json) |
 | Super Knockoff Versus | 82507 | [82507-super-knockoff-versus.json](./82507-super-knockoff-versus.json) |
 | Super Knockoff! VS | 81131 | [81131-super-knockoff-vs.json](./81131-super-knockoff-vs.json) |
+| Super Knockout | 311001 | [311001-super-knockout.json](./311001-super-knockout.json) |
 | Super KO Boxing 2 | 38732 | [38732-super-ko-boxing-2.json](./38732-super-ko-boxing-2.json) |
 | Super Kobushi de Naguru Chan | 218123 | [218123-super-kobushi-de-naguru-chan.json](./218123-super-kobushi-de-naguru-chan.json) |
 | Super Kong | 64808 | [64808-super-kong.json](./64808-super-kong.json) |
@@ -28316,6 +28322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super-Bikes: Riding Challenge | 43310 | [43310-super-bikes-riding-challenge.json](./43310-super-bikes-riding-challenge.json) |
 | Super-Ferrari | 40592 | [40592-super-ferrari.json](./40592-super-ferrari.json) |
 | Super-Patriota Simulator | 238998 | [238998-super-patriota-simulator.json](./238998-super-patriota-simulator.json) |
+| Super-Space | 311002 | [311002-super-space.json](./311002-super-space.json) |
 | Super-VGA Harrier | 70114 | [70114-super-vga-harrier.json](./70114-super-vga-harrier.json) |
 | Super-X | 46861 | [46861-super-x.json](./46861-super-x.json) |
 | Super: Taxi Simulation | 285692 | [285692-super-taxi-simulation.json](./285692-super-taxi-simulation.json) |
