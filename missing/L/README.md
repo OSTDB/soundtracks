@@ -1998,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leena | 333972 | [333972-leena.json](./333972-leena.json) |
 | Leenie Boog | 157025 | [157025-leenie-boog.json](./157025-leenie-boog.json) |
 | Leenie's Tale | 319720 | [319720-leenies-tale.json](./319720-leenies-tale.json) |
+| Leeroy | 294105 | [294105-leeroy.json](./294105-leeroy.json) |
 | Leet Hacker Simulator 2018 | 108791 | [108791-leet-hacker-simulator-2018.json](./108791-leet-hacker-simulator-2018.json) |
 | Leeward Episode 1 | 406336 | [406336-leeward-episode-1.json](./406336-leeward-episode-1.json) |
 | Left = Lose | 178622 | [178622-left-lose.json](./178622-left-lose.json) |
@@ -3853,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life on Mars? | 59700 | [59700-life-on-mars.json](./59700-life-on-mars.json) |
 | Life on the Earth | 175677 | [175677-life-on-the-earth.json](./175677-life-on-the-earth.json) |
 | Life One | 114867 | [114867-life-one.json](./114867-life-one.json) |
+| Life or Reach | 293674 | [293674-life-or-reach.json](./293674-life-or-reach.json) |
 | Life Quest 2: Metropoville | 60938 | [60938-life-quest-2-metropoville.json](./60938-life-quest-2-metropoville.json) |
 | Life Redemption | 123904 | [123904-life-redemption.json](./123904-life-redemption.json) |
 | Life Save Service | 376677 | [376677-life-save-service.json](./376677-life-save-service.json) |
@@ -6134,6 +6136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Space | 274363 | [274363-lonely-space.json](./274363-lonely-space.json) |
 | Lonely Sun | 25266 | [25266-lonely-sun.json](./25266-lonely-sun.json) |
 | Lonely Things | 181887 | [181887-lonely-things.json](./181887-lonely-things.json) |
+| Lonely Tiny Spaceship | 294115 | [294115-lonely-tiny-spaceship.json](./294115-lonely-tiny-spaceship.json) |
 | Lonely Tribes | 192372 | [192372-lonely-tribes.json](./192372-lonely-tribes.json) |
 | Lonely Trip | 83572 | [83572-lonely-trip.json](./83572-lonely-trip.json) |
 | Lonely White | 212993 | [212993-lonely-white.json](./212993-lonely-white.json) |
@@ -7922,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Hero | 253900 | [253900-lucky-hero.json](./253900-lucky-hero.json) |
 | Lucky Heroes | 217370 | [217370-lucky-heroes.json](./217370-lucky-heroes.json) |
 | Lucky Hunt | 246521 | [246521-lucky-hunt.json](./246521-lucky-hunt.json) |
+| Lucky Hunter | 293604 | [293604-lucky-hunter.json](./293604-lucky-hunter.json) |
 | Lucky Island | 224742 | [224742-lucky-island.json](./224742-lucky-island.json) |
 | Lucky Joe | 160168 | [160168-lucky-joe.json](./160168-lucky-joe.json) |
 | Lucky Lawn Mower | 359413 | [359413-lucky-lawn-mower.json](./359413-lucky-lawn-mower.json) |
