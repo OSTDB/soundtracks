@@ -835,7 +835,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1513,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallotGuessr | 394453 | [394453-ballotguessr.json](./394453-ballotguessr.json) |
 | Ballotoro | 349769 | [349769-ballotoro.json](./349769-ballotoro.json) |
 | Ballotron | 192297 | [192297-ballotron.json](./192297-ballotron.json) |
+| Ballotron Coolbox | 284761 | [284761-ballotron-coolbox.json](./284761-ballotron-coolbox.json) |
 | Ballotron Galaxy | 329509 | [329509-ballotron-galaxy.json](./329509-ballotron-galaxy.json) |
 | Ballotron Oceans | 231345 | [231345-ballotron-oceans.json](./231345-ballotron-oceans.json) |
 | Ballpark | 24749 | [24749-ballpark.json](./24749-ballpark.json) |
