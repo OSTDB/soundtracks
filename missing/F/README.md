@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Words | 296350 | [296350-fall-words.json](./296350-fall-words.json) |
 | Fall... in Love | 105228 | [105228-fall-in-love.json](./105228-fall-in-love.json) |
 | Fallacy of Dawn | 57613 | [57613-fallacy-of-dawn.json](./57613-fallacy-of-dawn.json) |
+| Fallacy Quiz | 291432 | [291432-fallacy-quiz.json](./291432-fallacy-quiz.json) |
 | Fallalypse: Death or Cress | 84053 | [84053-fallalypse-death-or-cress.json](./84053-fallalypse-death-or-cress.json) |
 | Fallback! | 270135 | [270135-fallback.json](./270135-fallback.json) |
 | FallDawn | 376671 | [376671-falldawn.json](./376671-falldawn.json) |
@@ -4196,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Duel 2: Deathmatch arena | 73775 | [73775-final-duel-2-deathmatch-arena.json](./73775-final-duel-2-deathmatch-arena.json) |
 | Final Dusk | 36046 | [36046-final-dusk.json](./36046-final-dusk.json) |
 | Final Echo | 348802 | [348802-final-echo.json](./348802-final-echo.json) |
+| Final Eden | 291412 | [291412-final-eden.json](./291412-final-eden.json) |
 | Final Escape | 246327 | [246327-final-escape.json](./246327-final-escape.json) |
 | Final Exam | 7306 | [7306-final-exam.json](./7306-final-exam.json) |
 | Final Exam | 80480 | [80480-final-exam.json](./80480-final-exam.json) |
