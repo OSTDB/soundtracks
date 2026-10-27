@@ -1611,6 +1611,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale 2 | 178026 | [178026-undertale-2.json](./178026-undertale-2.json) |
 | Undertale 2: Overtale | 232519 | [232519-undertale-2-overtale.json](./232519-undertale-2-overtale.json) |
 | Undertale 3D | 324938 | [324938-undertale-3d.json](./324938-undertale-3d.json) |
+| Undertale Green | 308157 | [308157-undertale-green.json](./308157-undertale-green.json) |
+| Undertale Green | 308158 | [308158-undertale-green.json](./308158-undertale-green.json) |
 | Undertale Green: The Pre-Show | 329622 | [329622-undertale-green-the-pre-show.json](./329622-undertale-green-the-pre-show.json) |
 | Undertale Hard Mode: Director's Cut | 364600 | [364600-undertale-hard-mode-directors-cut.json](./364600-undertale-hard-mode-directors-cut.json) |
 | Undertale Patience | 307154 | [307154-undertale-patience.json](./307154-undertale-patience.json) |
@@ -2541,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Hand Game | 344968 | [344968-untitled-hand-game.json](./344968-untitled-hand-game.json) |
 | Untitled Hand Game: Titled Edition | 344969 | [344969-untitled-hand-game-titled-edition.json](./344969-untitled-hand-game-titled-edition.json) |
 | Untitled Hello Neighbor Game | 418235 | [418235-untitled-hello-neighbor-game.json](./418235-untitled-hello-neighbor-game.json) |
+| Untitled Instagram Easter Egg | 308220 | [308220-untitled-instagram-easter-egg.json](./308220-untitled-instagram-easter-egg.json) |
 | Untitled John Wick Game | 389438 | [389438-untitled-john-wick-game.json](./389438-untitled-john-wick-game.json) |
 | Untitled Kirby Game | 245009 | [245009-untitled-kirby-game.json](./245009-untitled-kirby-game.json) |
 | Untitled Kirby Game | 245010 | [245010-untitled-kirby-game.json](./245010-untitled-kirby-game.json) |
