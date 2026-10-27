@@ -2272,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Goose! | 301138 | [301138-virtual-goose.json](./301138-virtual-goose.json) |
 | Virtual Grand Prix 2 | 79281 | [79281-virtual-grand-prix-2.json](./79281-virtual-grand-prix-2.json) |
 | Virtual Gunman | 355117 | [355117-virtual-gunman.json](./355117-virtual-gunman.json) |
+| Virtual Gym Fighting | 304073 | [304073-virtual-gym-fighting.json](./304073-virtual-gym-fighting.json) |
 | Virtual Happy Land | 329231 | [329231-virtual-happy-land.json](./329231-virtual-happy-land.json) |
 | Virtual Hero VR | 118995 | [118995-virtual-hero-vr.json](./118995-virtual-hero-vr.json) |
 | Virtual High School Girl Game | 106654 | [106654-virtual-high-school-girl-game.json](./106654-virtual-high-school-girl-game.json) |
@@ -3494,6 +3495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRetired | 111702 | [111702-vretired.json](./111702-vretired.json) |
 | VRFC Virtual Reality Football Club | 87964 | [87964-vrfc-virtual-reality-football-club.json](./87964-vrfc-virtual-reality-football-club.json) |
 | vRhythm | 25856 | [25856-vrhythm.json](./25856-vrhythm.json) |
+| Vribyss Refuge The Escape | 303981 | [303981-vribyss-refuge-the-escape.json](./303981-vribyss-refuge-the-escape.json) |
 | Vribyss Refuge: Metamorphosis | 372002 | [372002-vribyss-refuge-metamorphosis.json](./372002-vribyss-refuge-metamorphosis.json) |
 | VRiczat - The Virtual Reality Cricket Game | 112785 | [112785-vriczat-the-virtual-reality-cricket-game.json](./112785-vriczat-the-virtual-reality-cricket-game.json) |
 | VRiking | 261506 | [261506-vriking.json](./261506-vriking.json) |
