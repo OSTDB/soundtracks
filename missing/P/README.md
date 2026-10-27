@@ -2201,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Partless Ron | 155928 | [155928-partless-ron.json](./155928-partless-ron.json) |
 | Partner In TV!!! O-Uchi ni Wan-chan ga Yattekita | 327623 | [327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json](./327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json) |
 | Parts of the Elephant | 310483 | [310483-parts-of-the-elephant.json](./310483-parts-of-the-elephant.json) |
+| Parts Unknown 2024 | 296866 | [296866-parts-unknown-2024.json](./296866-parts-unknown-2024.json) |
 | Partum Artifex | 186115 | [186115-partum-artifex.json](./186115-partum-artifex.json) |
 | Partway | 422092 | [422092-partway.json](./422092-partway.json) |
 | Party Animal | 92431 | [92431-party-animal.json](./92431-party-animal.json) |
