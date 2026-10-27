@@ -3742,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Partner | 207694 | [207694-perfect-partner.json](./207694-perfect-partner.json) |
 | Perfect Paths | 193721 | [193721-perfect-paths.json](./193721-perfect-paths.json) |
 | Perfect Performer: The Yellow Monkey | 301350 | [301350-perfect-performer-the-yellow-monkey.json](./301350-perfect-performer-the-yellow-monkey.json) |
+| Perfect Pixel Dungeon | 312605 | [312605-perfect-pixel-dungeon.json](./312605-perfect-pixel-dungeon.json) |
 | Perfect Plan | 29226 | [29226-perfect-plan.json](./29226-perfect-plan.json) |
 | Perfect Porcelain | 391135 | [391135-perfect-porcelain.json](./391135-perfect-porcelain.json) |
 | Perfect Round Disc Golf | 118583 | [118583-perfect-round-disc-golf.json](./118583-perfect-round-disc-golf.json) |
@@ -6791,6 +6792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Driver | 185656 | [185656-pixel-driver.json](./185656-pixel-driver.json) |
 | Pixel Duel | 327928 | [327928-pixel-duel.json](./327928-pixel-duel.json) |
 | Pixel Dungeon | 9795 | [9795-pixel-dungeon.json](./9795-pixel-dungeon.json) |
+| Pixel Dungeon Easy | 312606 | [312606-pixel-dungeon-easy.json](./312606-pixel-dungeon-easy.json) |
 | Pixel Dungeon RPG | 326616 | [326616-pixel-dungeon-rpg.json](./326616-pixel-dungeon-rpg.json) |
 | Pixel Dungeon VR | 348951 | [348951-pixel-dungeon-vr.json](./348951-pixel-dungeon-vr.json) |
 | Pixel Dungeons | 364025 | [364025-pixel-dungeons.json](./364025-pixel-dungeons.json) |
