@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Om Nom: Run - Costumes and Themes | 251666 | [251666-om-nom-run-costumes-and-themes.json](./251666-om-nom-run-costumes-and-themes.json) |
 | Om Nom: Run - Ultimate Edition | 251667 | [251667-om-nom-run-ultimate-edition.json](./251667-om-nom-run-ultimate-edition.json) |
 | Om Nom: Run & Om Nom: Run 2 | 363971 | [363971-om-nom-run-and-om-nom-run-2.json](./363971-om-nom-run-and-om-nom-run-2.json) |
+| Om Nom: Run 2 | 323698 | [323698-om-nom-run-2.json](./323698-om-nom-run-2.json) |
 | Om Nom: Run 2 - Emerald Edition | 396923 | [396923-om-nom-run-2-emerald-edition.json](./396923-om-nom-run-2-emerald-edition.json) |
 | Omae Wa Mou Shindeiru | 98711 | [98711-omae-wa-mou-shindeiru.json](./98711-omae-wa-mou-shindeiru.json) |
 | Omakase! Savers | 275605 | [275605-omakase-savers.json](./275605-omakase-savers.json) |
@@ -3377,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcs Must Die! Unchained | 9637 | [9637-orcs-must-die-unchained.json](./9637-orcs-must-die-unchained.json) |
 | Orcs Must Die!: Artifacts of Power | 14540 | [14540-orcs-must-die-artifacts-of-power.json](./14540-orcs-must-die-artifacts-of-power.json) |
 | Orcs Must Die!: Lost Adventures | 14541 | [14541-orcs-must-die-lost-adventures.json](./14541-orcs-must-die-lost-adventures.json) |
+| Orcs Will Never Be Slaves | 323687 | [323687-orcs-will-never-be-slaves.json](./323687-orcs-will-never-be-slaves.json) |
 | Orcz Evolve VR | 83172 | [83172-orcz-evolve-vr.json](./83172-orcz-evolve-vr.json) |
 | Ord. | 118314 | [118314-ord.json](./118314-ord.json) |
 | Ordeal | 149269 | [149269-ordeal.json](./149269-ordeal.json) |
