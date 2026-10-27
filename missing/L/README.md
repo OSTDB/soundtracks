@@ -4301,6 +4301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil' Airport | 301267 | [301267-lil-airport.json](./301267-lil-airport.json) |
 | Lil' Drone | 186149 | [186149-lil-drone.json](./186149-lil-drone.json) |
 | Lil' Herder | 146891 | [146891-lil-herder.json](./146891-lil-herder.json) |
+| Lil' Hustler | 281859 | [281859-lil-hustler.json](./281859-lil-hustler.json) |
 | Lil' King | 182743 | [182743-lil-king.json](./182743-lil-king.json) |
 | Lil' Monster | 49920 | [49920-lil-monster.json](./49920-lil-monster.json) |
 | Lil' Pirates | 92160 | [92160-lil-pirates.json](./92160-lil-pirates.json) |
