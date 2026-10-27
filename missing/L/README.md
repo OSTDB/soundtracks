@@ -2347,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Heroes Unchained | 324106 | [324106-legendary-heroes-unchained.json](./324106-legendary-heroes-unchained.json) |
 | Legendary Heros in the Three Kingdoms | 96941 | [96941-legendary-heros-in-the-three-kingdoms.json](./96941-legendary-heros-in-the-three-kingdoms.json) |
 | Legendary Hoplite | 216738 | [216738-legendary-hoplite.json](./216738-legendary-hoplite.json) |
+| Legendary Hoplite: Arachne’s Trial | 285956 | [285956-legendary-hoplite-arachne-s-trial.json](./285956-legendary-hoplite-arachne-s-trial.json) |
 | Legendary Hunter VR | 38629 | [38629-legendary-hunter-vr.json](./38629-legendary-hunter-vr.json) |
 | Legendary Journeys | 150281 | [150281-legendary-journeys.json](./150281-legendary-journeys.json) |
 | Legendary Knight | 130087 | [130087-legendary-knight.json](./130087-legendary-knight.json) |
@@ -2390,6 +2391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Aden | 298674 | [298674-legends-of-aden.json](./298674-legends-of-aden.json) |
 | Legends of Aethereus | 10509 | [10509-legends-of-aethereus.json](./10509-legends-of-aethereus.json) |
 | Legends of Allods | 326147 | [326147-legends-of-allods.json](./326147-legends-of-allods.json) |
+| Legends of Alterra | 285498 | [285498-legends-of-alterra.json](./285498-legends-of-alterra.json) |
 | Legends of Amberland II: The Song of Trees | 220604 | [220604-legends-of-amberland-ii-the-song-of-trees.json](./220604-legends-of-amberland-ii-the-song-of-trees.json) |
 | Legends of Amberland III: The Crimson Tower | 355038 | [355038-legends-of-amberland-iii-the-crimson-tower.json](./355038-legends-of-amberland-iii-the-crimson-tower.json) |
 | Legends of Amberland: The Forgotten Crown | 109543 | [109543-legends-of-amberland-the-forgotten-crown.json](./109543-legends-of-amberland-the-forgotten-crown.json) |
@@ -3579,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lǐ Èr Nián Yǒng Chuǎng Héhuān Zōng | 373708 | [373708-li-er-nian-yong-chuang-hehuan-zong.json](./373708-li-er-nian-yong-chuang-hehuan-zong.json) |
 | Lǐ Shì Qírén Yì Wén Lù | 367402 | [367402-li-shi-qiren-yi-wen-lu.json](./367402-li-shi-qiren-yi-wen-lu.json) |
 | Li Shui | 374138 | [374138-li-shui.json](./374138-li-shui.json) |
+| Li-Lo | 285502 | [285502-li-lo.json](./285502-li-lo.json) |
 | Li'l Red | 272357 | [272357-lil-red.json](./272357-lil-red.json) |
 | Li'l Rumble | 284353 | [284353-lil-rumble.json](./284353-lil-rumble.json) |
 | Li'l Taffer | 323377 | [323377-lil-taffer.json](./323377-lil-taffer.json) |
@@ -4348,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilulu | 149412 | [149412-lilulu.json](./149412-lilulu.json) |
 | Lily | 112746 | [112746-lily.json](./112746-lily.json) |
 | Lily | 332883 | [332883-lily.json](./332883-lily.json) |
+| Lily & Ghost | 285433 | [285433-lily-and-ghost.json](./285433-lily-and-ghost.json) |
 | Lily & Sury: Adventures On Cristya | 333230 | [333230-lily-and-sury-adventures-on-cristya.json](./333230-lily-and-sury-adventures-on-cristya.json) |
 | Lily Adventuresses! Episode 4: The Ancienaut beneath the Mask | 419954 | [419954-lily-adventuresses-episode-4-the-ancienaut-beneath-the-mask.json](./419954-lily-adventuresses-episode-4-the-ancienaut-beneath-the-mask.json) |
 | Lily Bard Mysteries: The Body in Shakespeare Park | 120617 | [120617-lily-bard-mysteries-the-body-in-shakespeare-park.json](./120617-lily-bard-mysteries-the-body-in-shakespeare-park.json) |
@@ -6125,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Journey | 292168 | [292168-lonely-journey.json](./292168-lonely-journey.json) |
 | Lonely Kids Around the Cul-De-Sac | 362910 | [362910-lonely-kids-around-the-cul-de-sac.json](./362910-lonely-kids-around-the-cul-de-sac.json) |
 | Lonely Knight | 195123 | [195123-lonely-knight.json](./195123-lonely-knight.json) |
+| Lonely Knight | 285953 | [285953-lonely-knight.json](./285953-lonely-knight.json) |
 | Lonely Mountains: Downhill | 29144 | [29144-lonely-mountains-downhill.json](./29144-lonely-mountains-downhill.json) |
 | Lonely Mountains: Downhill - Eldfjall Island | 138241 | [138241-lonely-mountains-downhill-eldfjall-island.json](./138241-lonely-mountains-downhill-eldfjall-island.json) |
 | Lonely Mountains: Downhill - Misty Peak | 202730 | [202730-lonely-mountains-downhill-misty-peak.json](./202730-lonely-mountains-downhill-misty-peak.json) |
