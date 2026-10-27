@@ -8556,6 +8556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discarded Empire | 244128 | [244128-discarded-empire.json](./244128-discarded-empire.json) |
 | Discarded Memories: Mysteries of the Past | 261838 | [261838-discarded-memories-mysteries-of-the-past.json](./261838-discarded-memories-mysteries-of-the-past.json) |
 | Discarnate | 265628 | [265628-discarnate.json](./265628-discarnate.json) |
+| Discarnate: Locust | 286932 | [286932-discarnate-locust.json](./286932-discarnate-locust.json) |
 | Discharge | 117040 | [117040-discharge.json](./117040-discharge.json) |
 | Dischord | 119001 | [119001-dischord.json](./119001-dischord.json) |
 | Discin | 295797 | [295797-discin.json](./295797-discin.json) |
