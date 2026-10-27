@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.I. Joe | 178246 | [178246-g-i-joe.json](./178246-g-i-joe.json) |
 | G.I. Joe: A Real American Hero | 218433 | [218433-g-i-joe-a-real-american-hero.json](./218433-g-i-joe-a-real-american-hero.json) |
 | G.I. Joe: A Real American Hero | 8165 | [8165-g-i-joe-a-real-american-hero.json](./8165-g-i-joe-a-real-american-hero.json) |
+| G.I. Joe: Battleground | 323132 | [323132-g-i-joe-battleground.json](./323132-g-i-joe-battleground.json) |
 | G.I. Joe: Hawk | 218426 | [218426-g-i-joe-hawk.json](./218426-g-i-joe-hawk.json) |
 | G.I. Joe: Operation Blackout - Digital Deluxe | 173160 | [173160-g-i-joe-operation-blackout-digital-deluxe.json](./173160-g-i-joe-operation-blackout-digital-deluxe.json) |
 | G.I. Joe: Snake Eyes | 218427 | [218427-g-i-joe-snake-eyes.json](./218427-g-i-joe-snake-eyes.json) |
@@ -783,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Invasion | 282428 | [282428-galaxy-invasion.json](./282428-galaxy-invasion.json) |
 | Galaxy Killer | 287513 | [287513-galaxy-killer.json](./287513-galaxy-killer.json) |
 | Galaxy Kingdoms | 236214 | [236214-galaxy-kingdoms.json](./236214-galaxy-kingdoms.json) |
+| Galaxy Legend | 323136 | [323136-galaxy-legend.json](./323136-galaxy-legend.json) |
 | Galaxy Life | 201559 | [201559-galaxy-life.json](./201559-galaxy-life.json) |
 | Galaxy Life | 324894 | [324894-galaxy-life.json](./324894-galaxy-life.json) |
 | Galaxy Mania | 309029 | [309029-galaxy-mania.json](./309029-galaxy-mania.json) |
@@ -4010,6 +4012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator: Road to the Colosseum | 120836 | [120836-gladiator-road-to-the-colosseum.json](./120836-gladiator-road-to-the-colosseum.json) |
 | Gladiator: Sword of Vengeance | 5846 | [5846-gladiator-sword-of-vengeance.json](./5846-gladiator-sword-of-vengeance.json) |
 | Gladiator's Arena | 236530 | [236530-gladiators-arena.json](./236530-gladiators-arena.json) |
+| Gladiator's Arena | 323104 | [323104-gladiators-arena.json](./323104-gladiators-arena.json) |
 | Gladiatori | 188893 | [188893-gladiatori.json](./188893-gladiatori.json) |
 | Gladiatorial Conquest: Battle Arena of Legends | 283266 | [283266-gladiatorial-conquest-battle-arena-of-legends.json](./283266-gladiatorial-conquest-battle-arena-of-legends.json) |
 | Gladiators Battle | 321642 | [321642-gladiators-battle.json](./321642-gladiators-battle.json) |
@@ -4130,6 +4133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glight | 86559 | [86559-glight.json](./86559-glight.json) |
 | Glimby | 246412 | [246412-glimby.json](./246412-glimby.json) |
 | Glimmer | 381053 | [381053-glimmer.json](./381053-glimmer.json) |
+| Glimmer and the Dark Halloween Pumpkin | 323105 | [323105-glimmer-and-the-dark-halloween-pumpkin.json](./323105-glimmer-and-the-dark-halloween-pumpkin.json) |
 | Glimmer Chain | 239727 | [239727-glimmer-chain.json](./239727-glimmer-chain.json) |
 | Glimmerati | 6263 | [6263-glimmerati.json](./6263-glimmerati.json) |
 | Glimmers of the Past | 409774 | [409774-glimmers-of-the-past.json](./409774-glimmers-of-the-past.json) |
@@ -6113,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gordon Freakman | 322671 | [322671-gordon-freakman.json](./322671-gordon-freakman.json) |
 | Gordon Freakman 2: Kleiner-Life | 322672 | [322672-gordon-freakman-2-kleiner-life.json](./322672-gordon-freakman-2-kleiner-life.json) |
 | Gordon Ramsay Dash | 58306 | [58306-gordon-ramsay-dash.json](./58306-gordon-ramsay-dash.json) |
+| Gordon Ramsay: Chef Blast | 323137 | [323137-gordon-ramsay-chef-blast.json](./323137-gordon-ramsay-chef-blast.json) |
 | Gordon Streaman | 121268 | [121268-gordon-streaman.json](./121268-gordon-streaman.json) |
 | Gordon Streaman 2 | 185963 | [185963-gordon-streaman-2.json](./185963-gordon-streaman-2.json) |
 | Gordost' Ulypa: VR-legendy Chuvashii | 368897 | [368897-gordost-ulypa-vr-legendy-chuvashii.json](./368897-gordost-ulypa-vr-legendy-chuvashii.json) |
@@ -7400,6 +7405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed City | 341900 | [341900-greed-city.json](./341900-greed-city.json) |
 | Greed Corp | 16170 | [16170-greed-corp.json](./16170-greed-corp.json) |
 | Greed Crystal | 198382 | [198382-greed-crystal.json](./198382-greed-crystal.json) |
+| Greed for Glory: War Strategy | 323140 | [323140-greed-for-glory-war-strategy.json](./323140-greed-for-glory-war-strategy.json) |
 | Greed Forest | 336617 | [336617-greed-forest.json](./336617-greed-forest.json) |
 | Greed Hunters | 244637 | [244637-greed-hunters.json](./244637-greed-hunters.json) |
 | Greed Is Bad | 189340 | [189340-greed-is-bad.json](./189340-greed-is-bad.json) |
@@ -9450,6 +9456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunSoul Girl | 144055 | [144055-gunsoul-girl.json](./144055-gunsoul-girl.json) |
 | GunSoul Girl 2 | 213000 | [213000-gunsoul-girl-2.json](./213000-gunsoul-girl-2.json) |
 | GunSpectre | 236882 | [236882-gunspectre.json](./236882-gunspectre.json) |
+| Gunspell | 323149 | [323149-gunspell.json](./323149-gunspell.json) |
 | Gunspell | 54071 | [54071-gunspell.json](./54071-gunspell.json) |
 | Gunspell 2: Match 3 Puzzle RPG | 163550 | [163550-gunspell-2-match-3-puzzle-rpg.json](./163550-gunspell-2-match-3-puzzle-rpg.json) |
 | Gunspell: Steam Edition | 36221 | [36221-gunspell-steam-edition.json](./36221-gunspell-steam-edition.json) |
