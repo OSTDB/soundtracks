@@ -1952,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasted Bloodline | 338254 | [338254-wasted-bloodline.json](./338254-wasted-bloodline.json) |
 | Wasted Glory | 276479 | [276479-wasted-glory.json](./276479-wasted-glory.json) |
 | Wasted Pizza | 68594 | [68594-wasted-pizza.json](./68594-wasted-pizza.json) |
+| Wasted Shot | 309407 | [309407-wasted-shot.json](./309407-wasted-shot.json) |
 | WastedRoad Reapers | 336673 | [336673-wastedroad-reapers.json](./336673-wastedroad-reapers.json) |
 | Wastehaven | 152719 | [152719-wastehaven.json](./152719-wastehaven.json) |
 | Wastelan Wars | 242513 | [242513-wastelan-wars.json](./242513-wastelan-wars.json) |
@@ -2707,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weefager | 282216 | [282216-weefager.json](./282216-weefager.json) |
 | Weegee May Cry | 323998 | [323998-weegee-may-cry.json](./323998-weegee-may-cry.json) |
 | Weekday Warrior | 214390 | [214390-weekday-warrior.json](./214390-weekday-warrior.json) |
+| Weekdays | 309416 | [309416-weekdays.json](./309416-weekdays.json) |
 | Weekend Drive | 109019 | [109019-weekend-drive.json](./109019-weekend-drive.json) |
 | Weekend Renters | 415466 | [415466-weekend-renters.json](./415466-weekend-renters.json) |
 | Weekend Solitaire: Airplanes | 388887 | [388887-weekend-solitaire-airplanes.json](./388887-weekend-solitaire-airplanes.json) |
@@ -7904,6 +7906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wurst and Glory | 415115 | [415115-wurst-and-glory.json](./415115-wurst-and-glory.json) |
 | Wurst Defender Coop Edition | 76440 | [76440-wurst-defender-coop-edition.json](./76440-wurst-defender-coop-edition.json) |
 | Wurzelimperium | 320107 | [320107-wurzelimperium.json](./320107-wurzelimperium.json) |
+| Wurzelnsisters | 309419 | [309419-wurzelnsisters.json](./309419-wurzelnsisters.json) |
 | Wuscar | 203884 | [203884-wuscar.json](./203884-wuscar.json) |
 | Wushu Chronicles 2 | 171024 | [171024-wushu-chronicles-2.json](./171024-wushu-chronicles-2.json) |
 | Wuthering Waves: All Silent Souls Can Sing | 326608 | [326608-wuthering-waves-all-silent-souls-can-sing.json](./326608-wuthering-waves-all-silent-souls-can-sing.json) |
