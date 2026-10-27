@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Toys: Tower Defense! | 275357 | [275357-call-of-toys-tower-defense.json](./275357-call-of-toys-tower-defense.json) |
 | Call Of Unity | 387734 | [387734-call-of-unity.json](./387734-call-of-unity.json) |
 | Call of War | 55476 | [55476-call-of-war.json](./55476-call-of-war.json) |
+| Call Of War: Frontlines | 316045 | [316045-call-of-war-frontlines.json](./316045-call-of-war-frontlines.json) |
 | Call of Warfare: FPS Modern Shooter | 380490 | [380490-call-of-warfare-fps-modern-shooter.json](./380490-call-of-warfare-fps-modern-shooter.json) |
 | Call of Warfront | 404257 | [404257-call-of-warfront.json](./404257-call-of-warfront.json) |
 | Call of Warzone | 332489 | [332489-call-of-warzone.json](./332489-call-of-warzone.json) |
@@ -14364,6 +14365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Forest | 224613 | [224613-creepy-forest.json](./224613-creepy-forest.json) |
 | Creepy Halloween Differences | 234172 | [234172-creepy-halloween-differences.json](./234172-creepy-halloween-differences.json) |
 | Creepy Person | 365542 | [365542-creepy-person.json](./365542-creepy-person.json) |
+| Creepy Pomni | 316022 | [316022-creepy-pomni.json](./316022-creepy-pomni.json) |
 | Creepy Races | 44192 | [44192-creepy-races.json](./44192-creepy-races.json) |
 | Creepy Redneck Dinosaur Mansion 1 Re-Raptored | 356682 | [356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json](./356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json) |
 | Creepy Redneck Dinosaur Mansion 3 | 333174 | [333174-creepy-redneck-dinosaur-mansion-3.json](./333174-creepy-redneck-dinosaur-mansion-3.json) |
