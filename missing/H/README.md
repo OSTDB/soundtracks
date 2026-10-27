@@ -8266,6 +8266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope's Farm | 127000 | [127000-hopes-farm.json](./127000-hopes-farm.json) |
 | Hope's Journey: A Therapeutic Experience | 158570 | [158570-hopes-journey-a-therapeutic-experience.json](./158570-hopes-journey-a-therapeutic-experience.json) |
 | Hope's Peak | 134985 | [134985-hopes-peak.json](./134985-hopes-peak.json) |
+| Hopeful Day Inside Room | 325382 | [325382-hopeful-day-inside-room.json](./325382-hopeful-day-inside-room.json) |
 | Hopeguard | 340480 | [340480-hopeguard.json](./340480-hopeguard.json) |
 | HopeLand | 211205 | [211205-hopeland.json](./211205-hopeland.json) |
 | Hopeless | 36863 | [36863-hopeless.json](./36863-hopeless.json) |
@@ -9503,6 +9504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How To Walk Out The Door | 381958 | [381958-how-to-walk-out-the-door.json](./381958-how-to-walk-out-the-door.json) |
 | How to Win | 136400 | [136400-how-to-win.json](./136400-how-to-win.json) |
 | How to Win at Rock Paper Scissors | 57506 | [57506-how-to-win-at-rock-paper-scissors.json](./57506-how-to-win-at-rock-paper-scissors.json) |
+| How to: Superhero! | 325396 | [325396-how-to-superhero.json](./325396-how-to-superhero.json) |
 | How Was Your Day? | 334902 | [334902-how-was-your-day.json](./334902-how-was-your-day.json) |
 | How We Die | 133191 | [133191-how-we-die.json](./133191-how-we-die.json) |
 | How We Soar | 19592 | [19592-how-we-soar.json](./19592-how-we-soar.json) |
