@@ -825,7 +825,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6060,6 +6059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Bridge | 338232 | [338232-beyond-the-bridge.json](./338232-beyond-the-bridge.json) |
 | Beyond the Chiron Gate | 205085 | [205085-beyond-the-chiron-gate.json](./205085-beyond-the-chiron-gate.json) |
 | Beyond the City VR | 29665 | [29665-beyond-the-city-vr.json](./29665-beyond-the-city-vr.json) |
+| Beyond The Clouds | 303547 | [303547-beyond-the-clouds.json](./303547-beyond-the-clouds.json) |
 | Beyond The Cupola: ISS Simulator | 389510 | [389510-beyond-the-cupola-iss-simulator.json](./389510-beyond-the-cupola-iss-simulator.json) |
 | Beyond the Curtain | 392280 | [392280-beyond-the-curtain.json](./392280-beyond-the-curtain.json) |
 | Beyond the Curtains | 279460 | [279460-beyond-the-curtains.json](./279460-beyond-the-curtains.json) |
