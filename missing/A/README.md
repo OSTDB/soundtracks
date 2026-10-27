@@ -1328,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Ressha de Ikou | 41739 | [41739-a-ressha-de-ikou.json](./41739-a-ressha-de-ikou.json) |
 | A-Ressha de Ikou 2001 | 98273 | [98273-a-ressha-de-ikou-2001.json](./98273-a-ressha-de-ikou-2001.json) |
 | A-Ressha de Ikou 4 | 98268 | [98268-a-ressha-de-ikou-4.json](./98268-a-ressha-de-ikou-4.json) |
+| A-Ressha De Ikou 4: Map Construction & Power Up Kit | 289705 | [289705-a-ressha-de-ikou-4-map-construction-and-power-up-kit.json](./289705-a-ressha-de-ikou-4-map-construction-and-power-up-kit.json) |
 | A-Ressha de Ikou DS | 98272 | [98272-a-ressha-de-ikou-ds.json](./98272-a-ressha-de-ikou-ds.json) |
 | A-Ressha de Ikou EZ | 272682 | [272682-a-ressha-de-ikou-ez.json](./272682-a-ressha-de-ikou-ez.json) |
 | A-Ressha de Ikou i | 272681 | [272681-a-ressha-de-ikou-i.json](./272681-a-ressha-de-ikou-i.json) |
@@ -1904,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Vaulter | 341612 | [341612-abyss-vaulter.json](./341612-abyss-vaulter.json) |
 | Abyss Vein | 163024 | [163024-abyss-vein.json](./163024-abyss-vein.json) |
 | Abyss World | 235746 | [235746-abyss-world.json](./235746-abyss-world.json) |
+| Abyss X Zero | 289706 | [289706-abyss-x-zero.json](./289706-abyss-x-zero.json) |
 | Abyss: Backrooms Pools Horror VR | 376472 | [376472-abyss-backrooms-pools-horror-vr.json](./376472-abyss-backrooms-pools-horror-vr.json) |
 | Abyss: House | 356070 | [356070-abyss-house.json](./356070-abyss-house.json) |
 | Abyss: Konmei no Toki | 319645 | [319645-abyss-konmei-no-toki.json](./319645-abyss-konmei-no-toki.json) |
@@ -4848,6 +4850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport X-Ray Simulator | 309511 | [309511-airport-x-ray-simulator.json](./309511-airport-x-ray-simulator.json) |
 | AirportPRG | 207868 | [207868-airportprg.json](./207868-airportprg.json) |
 | AirportSim | 204548 | [204548-airportsim.json](./204548-airportsim.json) |
+| AirportSim: Bologna Airport | 289839 | [289839-airportsim-bologna-airport.json](./289839-airportsim-bologna-airport.json) |
 | AirportSim: Rovaniemi Airport | 283886 | [283886-airportsim-rovaniemi-airport.json](./283886-airportsim-rovaniemi-airport.json) |
 | AirRacer | 332571 | [332571-airracer.json](./332571-airracer.json) |
 | Airrade: Summer | 384707 | [384707-airrade-summer.json](./384707-airrade-summer.json) |
