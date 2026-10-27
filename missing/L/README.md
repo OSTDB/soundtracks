@@ -2284,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Vikings | 100793 | [100793-legend-of-vikings.json](./100793-legend-of-vikings.json) |
 | Legend of Warships | 119436 | [119436-legend-of-warships.json](./119436-legend-of-warships.json) |
 | Legend of Wukong | 360656 | [360656-legend-of-wukong.json](./360656-legend-of-wukong.json) |
+| Legend of Wulin Heroes | 328358 | [328358-legend-of-wulin-heroes.json](./328358-legend-of-wulin-heroes.json) |
 | Legend of Xenia 3D | 177338 | [177338-legend-of-xenia-3d.json](./177338-legend-of-xenia-3d.json) |
 | Legend of Yashiyu | 173772 | [173772-legend-of-yashiyu.json](./173772-legend-of-yashiyu.json) |
 | Legend of Yashiyu 2 | 172773 | [172773-legend-of-yashiyu-2.json](./172773-legend-of-yashiyu-2.json) |
