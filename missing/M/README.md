@@ -3396,6 +3396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: Yoshi Tour | 361206 | [361206-mario-kart-tour-yoshi-tour.json](./361206-mario-kart-tour-yoshi-tour.json) |
 | Mario Kart Wii Item-matching Game | 328673 | [328673-mario-kart-wii-item-matching-game.json](./328673-mario-kart-wii-item-matching-game.json) |
 | Mario Kart Wii Tournament Museum | 301127 | [301127-mario-kart-wii-tournament-museum.json](./301127-mario-kart-wii-tournament-museum.json) |
+| Mario Kart Wii: Awesome Edition | 313085 | [313085-mario-kart-wii-awesome-edition.json](./313085-mario-kart-wii-awesome-edition.json) |
 | Mario Kart XXL | 146289 | [146289-mario-kart-xxl.json](./146289-mario-kart-xxl.json) |
 | Mario Kart Zero | 231822 | [231822-mario-kart-zero.json](./231822-mario-kart-zero.json) |
 | Mario Kart: Blazing Wheels | 174622 | [174622-mario-kart-blazing-wheels.json](./174622-mario-kart-blazing-wheels.json) |
@@ -11486,6 +11487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mis Amigos | 385938 | [385938-mis-amigos.json](./385938-mis-amigos.json) |
 | Mis Ladrillos Interactivo | 93218 | [93218-mis-ladrillos-interactivo.json](./93218-mis-ladrillos-interactivo.json) |
 | Misa | 337725 | [337725-misa.json](./337725-misa.json) |
+| Misa no Mahou Monogatari | 313066 | [313066-misa-no-mahou-monogatari.json](./313066-misa-no-mahou-monogatari.json) |
 | Misa! | 88801 | [88801-misa.json](./88801-misa.json) |
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
 | Misadventures in Piracy | 176755 | [176755-misadventures-in-piracy.json](./176755-misadventures-in-piracy.json) |
@@ -14448,6 +14450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morita Shogi 64 | 3543 | [3543-morita-shogi-64.json](./3543-morita-shogi-64.json) |
 | Morita Shogi Advance | 49712 | [49712-morita-shogi-advance.json](./49712-morita-shogi-advance.json) |
 | Morita Shogi PC | 37672 | [37672-morita-shogi-pc.json](./37672-morita-shogi-pc.json) |
+| Moritaka Chisato Safari Tokyo | 313065 | [313065-moritaka-chisato-safari-tokyo.json](./313065-moritaka-chisato-safari-tokyo.json) |
 | Morituria | 347798 | [347798-morituria.json](./347798-morituria.json) |
 | Moriya Rhythm Rainbow | 214937 | [214937-moriya-rhythm-rainbow.json](./214937-moriya-rhythm-rainbow.json) |
 | Mörk Borg Heresy Supreme | 317584 | [317584-mork-borg-heresy-supreme.json](./317584-mork-borg-heresy-supreme.json) |
