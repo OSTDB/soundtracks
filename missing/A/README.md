@@ -5022,6 +5022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akihabara Senryoukumi | 82584 | [82584-akihabara-senryoukumi.json](./82584-akihabara-senryoukumi.json) |
 | Akihabara: Feel the Rhythm | 26770 | [26770-akihabara-feel-the-rhythm.json](./26770-akihabara-feel-the-rhythm.json) |
 | Akiiwan: Survival | 361850 | [361850-akiiwan-survival.json](./361850-akiiwan-survival.json) |
+| Akiko Hard | 300662 | [300662-akiko-hard.json](./300662-akiko-hard.json) |
 | Akimaho! | 97383 | [97383-akimaho.json](./97383-akimaho.json) |
 | Akimbo: Kung-Fu Hero | 1995 | [1995-akimbo-kung-fu-hero.json](./1995-akimbo-kung-fu-hero.json) |
 | Akimbot | 300484 | [300484-akimbot.json](./300484-akimbot.json) |
@@ -8256,6 +8257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Rio HD | 88589 | [88589-angry-birds-rio-hd.json](./88589-angry-birds-rio-hd.json) |
 | Angry Birds Rush | 368638 | [368638-angry-birds-rush.json](./368638-angry-birds-rush.json) |
 | Angry Birds Seasons HD | 102139 | [102139-angry-birds-seasons-hd.json](./102139-angry-birds-seasons-hd.json) |
+| Angry Birds Showdown | 300668 | [300668-angry-birds-showdown.json](./300668-angry-birds-showdown.json) |
 | Angry Birds Space HD | 102601 | [102601-angry-birds-space-hd.json](./102601-angry-birds-space-hd.json) |
 | Angry Birds Star Wars HD | 102600 | [102600-angry-birds-star-wars-hd.json](./102600-angry-birds-star-wars-hd.json) |
 | Angry Birds Star Wars II | 19272 | [19272-angry-birds-star-wars-ii.json](./19272-angry-birds-star-wars-ii.json) |
