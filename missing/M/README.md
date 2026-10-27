@@ -5342,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Of Misery | 274929 | [274929-maze-of-misery.json](./274929-maze-of-misery.json) |
 | Maze of Moros | 297510 | [297510-maze-of-moros.json](./297510-maze-of-moros.json) |
 | Maze of Pain | 83951 | [83951-maze-of-pain.json](./83951-maze-of-pain.json) |
+| Maze of Portals | 308325 | [308325-maze-of-portals.json](./308325-maze-of-portals.json) |
 | Maze of Realities: Reflection of Light - Collector's Edition | 218702 | [218702-maze-of-realities-reflection-of-light-collectors-edition.json](./218702-maze-of-realities-reflection-of-light-collectors-edition.json) |
 | Maze of Realities: Ride in the Sky - Collector's Edition | 288047 | [288047-maze-of-realities-ride-in-the-sky-collectors-edition.json](./288047-maze-of-realities-ride-in-the-sky-collectors-edition.json) |
 | Maze of Realities: Ride in the Sky DLC | 288048 | [288048-maze-of-realities-ride-in-the-sky-dlc.json](./288048-maze-of-realities-ride-in-the-sky-dlc.json) |
@@ -6665,6 +6666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Star Force 3: Red Joker | 1787 | [1787-mega-man-star-force-3-red-joker.json](./1787-mega-man-star-force-3-red-joker.json) |
 | Mega Man Star Force: Dragon | 1783 | [1783-mega-man-star-force-dragon.json](./1783-mega-man-star-force-dragon.json) |
 | Mega Man Star Force: Legacy Collection | 366898 | [366898-mega-man-star-force-legacy-collection.json](./366898-mega-man-star-force-legacy-collection.json) |
+| Mega Man Sunrise | 308159 | [308159-mega-man-sunrise.json](./308159-mega-man-sunrise.json) |
 | Mega Man Ultra | 45190 | [45190-mega-man-ultra.json](./45190-mega-man-ultra.json) |
 | Mega Man Ultra Challenge | 214946 | [214946-mega-man-ultra-challenge.json](./214946-mega-man-ultra-challenge.json) |
 | Mega Man Universe | 86658 | [86658-mega-man-universe.json](./86658-mega-man-universe.json) |
@@ -7044,6 +7046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMan: Citrus Cult | 323767 | [323767-megaman-citrus-cult.json](./323767-megaman-citrus-cult.json) |
 | Megaman: The Great Catastrophe | 323882 | [323882-megaman-the-great-catastrophe.json](./323882-megaman-the-great-catastrophe.json) |
 | Megamania | 12312 | [12312-megamania.json](./12312-megamania.json) |
+| MegaMari | 308163 | [308163-megamari.json](./308163-megamari.json) |
 | Megamari: Marisa no Yabou | 27347 | [27347-megamari-marisa-no-yabou.json](./27347-megamari-marisa-no-yabou.json) |
 | Megamaze | 208393 | [208393-megamaze.json](./208393-megamaze.json) |
 | Megamedia's Megapak 3 | 113531 | [113531-megamedias-megapak-3.json](./113531-megamedias-megapak-3.json) |
@@ -7448,6 +7451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoir En Code | 18990 | [18990-memoir-en-code.json](./18990-memoir-en-code.json) |
 | Mémoire 0079 | 257276 | [257276-memoire-0079.json](./257276-memoire-0079.json) |
 | Memoirium | 365108 | [365108-memoirium.json](./365108-memoirium.json) |
+| Memoirs of an Angel | 308283 | [308283-memoirs-of-an-angel.json](./308283-memoirs-of-an-angel.json) |
 | Memoirs of Murder: Behind the Scenes | 322580 | [322580-memoirs-of-murder-behind-the-scenes.json](./322580-memoirs-of-murder-behind-the-scenes.json) |
 | Memoirs of Murder: Resorting to Revenge | 322579 | [322579-memoirs-of-murder-resorting-to-revenge.json](./322579-memoirs-of-murder-resorting-to-revenge.json) |
 | Memoirs of Murder: Welcome to Hidden Pines | 322578 | [322578-memoirs-of-murder-welcome-to-hidden-pines.json](./322578-memoirs-of-murder-welcome-to-hidden-pines.json) |
@@ -11510,6 +11514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misc. | 159079 | [159079-misc.json](./159079-misc.json) |
 | Misc. A Tiny Tale | 138025 | [138025-misc-a-tiny-tale.json](./138025-misc-a-tiny-tale.json) |
 | Mischance | 148937 | [148937-mischance.json](./148937-mischance.json) |
+| Mischief Castle | 308162 | [308162-mischief-castle.json](./308162-mischief-castle.json) |
 | Mischief Dungeon Life | 204285 | [204285-mischief-dungeon-life.json](./204285-mischief-dungeon-life.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Asha Edition | 225040 | [225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json](./225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Clara Edition | 232996 | [232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json](./232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json) |
@@ -14988,6 +14993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother: Invasion from the Unknown | 378199 | [378199-mother-invasion-from-the-unknown.json](./378199-mother-invasion-from-the-unknown.json) |
 | Mother: Rebound | 315103 | [315103-mother-rebound.json](./315103-mother-rebound.json) |
 | Mother: Russia | 315095 | [315095-mother-russia.json](./315095-mother-russia.json) |
+| Mother's Day Journey | 308301 | [308301-mothers-day-journey.json](./308301-mothers-day-journey.json) |
 | Mother's Embrace | 272732 | [272732-mothers-embrace.json](./272732-mothers-embrace.json) |
 | Mother's Eye | 395169 | [395169-mothers-eye.json](./395169-mothers-eye.json) |
 | Mother's Home | 320534 | [320534-mothers-home.json](./320534-mothers-home.json) |
@@ -17044,6 +17050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Brother Rabbit | 104522 | [104522-my-brother-rabbit.json](./104522-my-brother-rabbit.json) |
 | My Brother the Sacrifice | 123643 | [123643-my-brother-the-sacrifice.json](./123643-my-brother-the-sacrifice.json) |
 | My Brute | 67882 | [67882-my-brute.json](./67882-my-brute.json) |
+| My Buddy Did Something Weird And Now I Have Feelings For Him??!?!? | 308285 | [308285-my-buddy-did-something-weird-and-now-i-have-feelings-for-him.json](./308285-my-buddy-did-something-weird-and-now-i-have-feelings-for-him.json) |
 | My Bullied Bride | 112950 | [112950-my-bullied-bride.json](./112950-my-bullied-bride.json) |
 | My Bunny Girl | 211068 | [211068-my-bunny-girl.json](./211068-my-bunny-girl.json) |
 | My Business | 152154 | [152154-my-business.json](./152154-my-business.json) |
