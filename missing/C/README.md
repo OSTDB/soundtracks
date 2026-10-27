@@ -6455,6 +6455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate Castle | 50445 | [50445-chocolate-castle.json](./50445-chocolate-castle.json) |
 | Chocolate Cavern | 249349 | [249349-chocolate-cavern.json](./249349-chocolate-cavern.json) |
 | Chocolate Factory | 112995 | [112995-chocolate-factory.json](./112995-chocolate-factory.json) |
+| Chocolate Factory | 301790 | [301790-chocolate-factory.json](./301790-chocolate-factory.json) |
 | Chocolate Kiss | 263115 | [263115-chocolate-kiss.json](./263115-chocolate-kiss.json) |
 | Chocolate makes you happy 4 | 89935 | [89935-chocolate-makes-you-happy-4.json](./89935-chocolate-makes-you-happy-4.json) |
 | Chocolate makes you happy 5 | 99433 | [99433-chocolate-makes-you-happy-5.json](./99433-chocolate-makes-you-happy-5.json) |
@@ -8473,6 +8474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clear Plan | 271070 | [271070-clear-plan.json](./271070-clear-plan.json) |
 | Clear Rain | 387047 | [387047-clear-rain.json](./387047-clear-rain.json) |
 | Clear Sky 1941 | 95553 | [95553-clear-sky-1941.json](./95553-clear-sky-1941.json) |
+| Clear Skye Thinking | 301779 | [301779-clear-skye-thinking.json](./301779-clear-skye-thinking.json) |
 | Clear The Coast | 270692 | [270692-clear-the-coast.json](./270692-clear-the-coast.json) |
 | Clear the Lot | 224082 | [224082-clear-the-lot.json](./224082-clear-the-lot.json) |
 | Clear the Space | 235050 | [235050-clear-the-space.json](./235050-clear-the-space.json) |
@@ -11083,6 +11085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compound | 28927 | [28927-compound.json](./28927-compound.json) |
 | Compound Fracture | 143560 | [143560-compound-fracture.json](./143560-compound-fracture.json) |
 | Compound Word Puzzles 2 | 359997 | [359997-compound-word-puzzles-2.json](./359997-compound-word-puzzles-2.json) |
+| Compress Space: Expanded | 301794 | [301794-compress-space-expanded.json](./301794-compress-space-expanded.json) |
 | Compress(Space) | 346199 | [346199-compress-space.json](./346199-compress-space.json) |
 | Compression | 345664 | [345664-compression.json](./345664-compression.json) |
 | Compression HD | 254691 | [254691-compression-hd.json](./254691-compression-hd.json) |
@@ -12963,6 +12966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count Pacula | 335178 | [335178-count-pacula.json](./335178-count-pacula.json) |
 | Count the Dead | 148787 | [148787-count-the-dead.json](./148787-count-the-dead.json) |
 | Count the Score | 407839 | [407839-count-the-score.json](./407839-count-the-score.json) |
+| Count to Ten | 301876 | [301876-count-to-ten.json](./301876-count-to-ten.json) |
 | Count to Ten: Supporter Edition | 310385 | [310385-count-to-ten-supporter-edition.json](./310385-count-to-ten-supporter-edition.json) |
 | Count your Clones | 413889 | [413889-count-your-clones.json](./413889-count-your-clones.json) |
 | Countdown | 13524 | [13524-countdown.json](./13524-countdown.json) |
@@ -15960,6 +15964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu Saves the World | 8427 | [8427-cthulhu-saves-the-world.json](./8427-cthulhu-saves-the-world.json) |
 | Cthulhu Saves the World: Super Hyper Enhanced Championship Edition Alpha Diamond DX Plus Alpha FES HD – Premium Enhanced Game of the Year Collector’s Edition (without Avatars!) | 133889 | [133889-cthulhu-saves-the-world-super-hyper-enhanced-championship-edition-alpha-diamond-dx-plus-alpha-fes-hd-premium-enhanced-game-of-the-year-collector-s-edition-without-avatars.json](./133889-cthulhu-saves-the-world-super-hyper-enhanced-championship-edition-alpha-diamond-dx-plus-alpha-fes-hd-premium-enhanced-game-of-the-year-collector-s-edition-without-avatars.json) |
 | Cthulhu Tower | 266750 | [266750-cthulhu-tower.json](./266750-cthulhu-tower.json) |
+| Cthulhu Valley | 301294 | [301294-cthulhu-valley.json](./301294-cthulhu-valley.json) |
 | Cthulhu Virtual Pet | 19086 | [19086-cthulhu-virtual-pet.json](./19086-cthulhu-virtual-pet.json) |
 | Cthulhu Virtual Pet 2 | 123992 | [123992-cthulhu-virtual-pet-2.json](./123992-cthulhu-virtual-pet-2.json) |
 | Cthulhu: An Unspeakable Mod | 221668 | [221668-cthulhu-an-unspeakable-mod.json](./221668-cthulhu-an-unspeakable-mod.json) |
