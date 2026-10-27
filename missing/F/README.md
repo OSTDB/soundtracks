@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Skies | 135084 | [135084-falling-skies.json](./135084-falling-skies.json) |
 | Falling Skies: The Game | 19644 | [19644-falling-skies-the-game.json](./19644-falling-skies-the-game.json) |
 | Falling Sky | 82888 | [82888-falling-sky.json](./82888-falling-sky.json) |
+| Falling Skywards | 305731 | [305731-falling-skywards.json](./305731-falling-skywards.json) |
 | Falling Slime | 102315 | [102315-falling-slime.json](./102315-falling-slime.json) |
 | Falling Star Town: The Ghost from Past | 416976 | [416976-falling-star-town-the-ghost-from-past.json](./416976-falling-star-town-the-ghost-from-past.json) |
 | Falling Stars | 27489 | [27489-falling-stars.json](./27489-falling-stars.json) |
