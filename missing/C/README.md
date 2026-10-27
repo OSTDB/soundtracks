@@ -5627,6 +5627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Challenge! | 51126 | [51126-chess-challenge.json](./51126-chess-challenge.json) |
 | Chess Challenger | 227821 | [227821-chess-challenger.json](./227821-chess-challenger.json) |
 | Chess Club | 193694 | [193694-chess-club.json](./193694-chess-club.json) |
+| Chess Club Valley | 303527 | [303527-chess-club-valley.json](./303527-chess-club-valley.json) |
 | Chess Corp | 216701 | [216701-chess-corp.json](./216701-chess-corp.json) |
 | Chess Cubed | 90436 | [90436-chess-cubed.json](./90436-chess-cubed.json) |
 | Chess Defense Saga | 234200 | [234200-chess-defense-saga.json](./234200-chess-defense-saga.json) |
@@ -15563,6 +15564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryght | 188029 | [188029-cryght.json](./188029-cryght.json) |
 | Crying Alone | 277781 | [277781-crying-alone.json](./277781-crying-alone.json) |
 | Crying Aseimei Sendou | 45540 | [45540-crying-aseimei-sendou.json](./45540-crying-aseimei-sendou.json) |
+| Crying Crystal | 303443 | [303443-crying-crystal.json](./303443-crying-crystal.json) |
 | Crying is not Enough | 99085 | [99085-crying-is-not-enough.json](./99085-crying-is-not-enough.json) |
 | Crying Pony | 245950 | [245950-crying-pony.json](./245950-crying-pony.json) |
 | Crying Suns: Deluxe Edition | 186520 | [186520-crying-suns-deluxe-edition.json](./186520-crying-suns-deluxe-edition.json) |
@@ -15644,6 +15646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptic Glaze Mirror | 391174 | [391174-cryptic-glaze-mirror.json](./391174-cryptic-glaze-mirror.json) |
 | Cryptic Passage for Blood | 18499 | [18499-cryptic-passage-for-blood.json](./18499-cryptic-passage-for-blood.json) |
 | Cryptic Rooms | 132468 | [132468-cryptic-rooms.json](./132468-cryptic-rooms.json) |
+| Cryptic Route | 303444 | [303444-cryptic-route.json](./303444-cryptic-route.json) |
 | Cryptic Sea EP | 61710 | [61710-cryptic-sea-ep.json](./61710-cryptic-sea-ep.json) |
 | Cryptic Tales: Crossroads | 371461 | [371461-cryptic-tales-crossroads.json](./371461-cryptic-tales-crossroads.json) |
 | Cryptica | 307157 | [307157-cryptica.json](./307157-cryptica.json) |
@@ -15853,6 +15856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Wish: Bits Collection | 306502 | [306502-crystal-wish-bits-collection.json](./306502-crystal-wish-bits-collection.json) |
 | Crystal Wish: Candy Chase | 264888 | [264888-crystal-wish-candy-chase.json](./264888-crystal-wish-candy-chase.json) |
 | Crystal: Automaton | 333181 | [333181-crystal-automaton.json](./333181-crystal-automaton.json) |
+| Crystal's Castle | 303445 | [303445-crystals-castle.json](./303445-crystals-castle.json) |
 | Crystalase | 402571 | [402571-crystalase.json](./402571-crystalase.json) |
 | Crystalborne: Heroes of Fate | 123036 | [123036-crystalborne-heroes-of-fate.json](./123036-crystalborne-heroes-of-fate.json) |
 | Crystalis | 3121 | [3121-crystalis.json](./3121-crystalis.json) |
@@ -16645,6 +16649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Shadow Samurai | 254761 | [254761-curse-of-the-shadow-samurai.json](./254761-curse-of-the-shadow-samurai.json) |
 | Curse of the Spookz: Hidden Island | 187228 | [187228-curse-of-the-spookz-hidden-island.json](./187228-curse-of-the-spookz-hidden-island.json) |
 | Curse of Woney | 365066 | [365066-curse-of-woney.json](./365066-curse-of-woney.json) |
+| Curse of Yggdrasil | 303446 | [303446-curse-of-yggdrasil.json](./303446-curse-of-yggdrasil.json) |
 | Curse of Yggdrasil | 380102 | [380102-curse-of-yggdrasil.json](./380102-curse-of-yggdrasil.json) |
 | Curse Removal Service | 218150 | [218150-curse-removal-service.json](./218150-curse-removal-service.json) |
 | Curse Retold: A Hello Neighbor Tribute | 356429 | [356429-curse-retold-a-hello-neighbor-tribute.json](./356429-curse-retold-a-hello-neighbor-tribute.json) |
@@ -16754,6 +16759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Pagoda | 126861 | [126861-cursed-pagoda.json](./126861-cursed-pagoda.json) |
 | Cursed Pantsu | 219234 | [219234-cursed-pantsu.json](./219234-cursed-pantsu.json) |
 | Cursed Place | 294554 | [294554-cursed-place.json](./294554-cursed-place.json) |
+| Cursed Places: Hotel Floor 13 | 303448 | [303448-cursed-places-hotel-floor-13.json](./303448-cursed-places-hotel-floor-13.json) |
 | Cursed Presence | 372749 | [372749-cursed-presence.json](./372749-cursed-presence.json) |
 | Cursed Profit | 340600 | [340600-cursed-profit.json](./340600-cursed-profit.json) |
 | Cursed Puppetry | 114314 | [114314-cursed-puppetry.json](./114314-cursed-puppetry.json) |
@@ -16769,6 +16775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Swamp Escape | 315468 | [315468-cursed-swamp-escape.json](./315468-cursed-swamp-escape.json) |
 | Cursed Swamp Escape 2 | 315469 | [315469-cursed-swamp-escape-2.json](./315469-cursed-swamp-escape-2.json) |
 | Cursed Swamp Escape 3 | 315470 | [315470-cursed-swamp-escape-3.json](./315470-cursed-swamp-escape-3.json) |
+| Cursed Sword Edo | 303447 | [303447-cursed-sword-edo.json](./303447-cursed-sword-edo.json) |
 | Cursed Theatre Escape | 315583 | [315583-cursed-theatre-escape.json](./315583-cursed-theatre-escape.json) |
 | Cursed to Golf | 142358 | [142358-cursed-to-golf.json](./142358-cursed-to-golf.json) |
 | Cursed to Golf | 251390 | [251390-cursed-to-golf.json](./251390-cursed-to-golf.json) |
@@ -17551,6 +17558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyClones | 8693 | [8693-cyclones.json](./8693-cyclones.json) |
 | Cyclones Playground | 108055 | [108055-cyclones-playground.json](./108055-cyclones-playground.json) |
 | Cyclopean II: The Dreamlands | 369652 | [369652-cyclopean-ii-the-dreamlands.json](./369652-cyclopean-ii-the-dreamlands.json) |
+| Cyclopean: The Great Abyss | 303453 | [303453-cyclopean-the-great-abyss.json](./303453-cyclopean-the-great-abyss.json) |
 | Cyclopong | 253251 | [253251-cyclopong.json](./253251-cyclopong.json) |
 | Cyclopvania | 206145 | [206145-cyclopvania.json](./206145-cyclopvania.json) |
 | Cyclothymic | 202244 | [202244-cyclothymic.json](./202244-cyclothymic.json) |
