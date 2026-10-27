@@ -4448,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glutto, the Eater of Worlds | 185507 | [185507-glutto-the-eater-of-worlds.json](./185507-glutto-the-eater-of-worlds.json) |
 | Glutton | 154068 | [154068-glutton.json](./154068-glutton.json) |
 | Gluttony | 353979 | [353979-gluttony.json](./353979-gluttony.json) |
+| Gluttony Gods | 321941 | [321941-gluttony-gods.json](./321941-gluttony-gods.json) |
 | Gluttony Monster | 241216 | [241216-gluttony-monster.json](./241216-gluttony-monster.json) |
 | Gluua | 235698 | [235698-gluua.json](./235698-gluua.json) |
 | Glyde | 58663 | [58663-glyde.json](./58663-glyde.json) |
@@ -5514,6 +5515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Tee PGA Tour | 337445 | [337445-golden-tee-pga-tour.json](./337445-golden-tee-pga-tour.json) |
 | Golden Threads | 362862 | [362862-golden-threads.json](./362862-golden-threads.json) |
 | Golden Ticket Simulator | 312439 | [312439-golden-ticket-simulator.json](./312439-golden-ticket-simulator.json) |
+| Golden Tides | 322030 | [322030-golden-tides.json](./322030-golden-tides.json) |
 | Golden Trails 2 | 88205 | [88205-golden-trails-2.json](./88205-golden-trails-2.json) |
 | Golden Trails 3 | 100016 | [100016-golden-trails-3.json](./100016-golden-trails-3.json) |
 | Golden Trails 3: The Guardian's Creed | 89731 | [89731-golden-trails-3-the-guardians-creed.json](./89731-golden-trails-3-the-guardians-creed.json) |
@@ -8451,6 +8453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT Rivals | 410437 | [410437-gt-rivals.json](./410437-gt-rivals.json) |
 | GT-R Touring | 232412 | [232412-gt-r-touring.json](./232412-gt-r-touring.json) |
 | GTA Long Night | 309592 | [309592-gta-long-night.json](./309592-gta-long-night.json) |
+| GtaGuessr | 322025 | [322025-gtaguessr.json](./322025-gtaguessr.json) |
 | GTFO | 36646 | [36646-gtfo.json](./36646-gtfo.json) |
 | GTH 3033: Grand Theft Hunter 3033 | 285486 | [285486-gth-3033-grand-theft-hunter-3033.json](./285486-gth-3033-grand-theft-hunter-3033.json) |
 | GTI Club+: Rally Côte d'Azur | 97105 | [97105-gti-club-rally-cote-dazur.json](./97105-gti-club-rally-cote-dazur.json) |
