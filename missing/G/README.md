@@ -3028,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get to Work, Succubus-Chan! | 169356 | [169356-get-to-work-succubus-chan.json](./169356-get-to-work-succubus-chan.json) |
 | Get Together | 144126 | [144126-get-together.json](./144126-get-together.json) |
 | Get Up and Dance | 23396 | [23396-get-up-and-dance.json](./23396-get-up-and-dance.json) |
+| Get Up In The Night | 304510 | [304510-get-up-in-the-night.json](./304510-get-up-in-the-night.json) |
 | Get Up North | 106998 | [106998-get-up-north.json](./106998-get-up-north.json) |
 | Get X, Avoid Y | 128604 | [128604-get-x-avoid-y.json](./128604-get-x-avoid-y.json) |
 | Get Your Sheep Together | 195160 | [195160-get-your-sheep-together.json](./195160-get-your-sheep-together.json) |
@@ -4875,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Assault | 333426 | [333426-goblin-assault.json](./333426-goblin-assault.json) |
 | Goblin Attack | 161324 | [161324-goblin-attack.json](./161324-goblin-attack.json) |
 | Goblin Attack | 408874 | [408874-goblin-attack.json](./408874-goblin-attack.json) |
+| Goblin Auto Club Manager | 304522 | [304522-goblin-auto-club-manager.json](./304522-goblin-auto-club-manager.json) |
 | Goblin Cleanup | 282692 | [282692-goblin-cleanup.json](./282692-goblin-cleanup.json) |
 | Goblin Clicker | 365876 | [365876-goblin-clicker.json](./365876-goblin-clicker.json) |
 | Goblin Colony | 235705 | [235705-goblin-colony.json](./235705-goblin-colony.json) |
@@ -4902,6 +4904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Lands | 367736 | [367736-goblin-lands.json](./367736-goblin-lands.json) |
 | Goblin Museum | 404346 | [404346-goblin-museum.json](./404346-goblin-museum.json) |
 | Goblin Party | 237199 | [237199-goblin-party.json](./237199-goblin-party.json) |
+| Goblin Pass | 304547 | [304547-goblin-pass.json](./304547-goblin-pass.json) |
 | Goblin Path | 382446 | [382446-goblin-path.json](./382446-goblin-path.json) |
 | Goblin Quest III | 395735 | [395735-goblin-quest-iii.json](./395735-goblin-quest-iii.json) |
 | Goblin Quest: Escape! | 115648 | [115648-goblin-quest-escape.json](./115648-goblin-quest-escape.json) |
