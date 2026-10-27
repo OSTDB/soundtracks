@@ -2692,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heads Up! Netflix Edition | 362897 | [362897-heads-up-netflix-edition.json](./362897-heads-up-netflix-edition.json) |
 | Heads Up! Phones Down Edition | 275797 | [275797-heads-up-phones-down-edition.json](./275797-heads-up-phones-down-edition.json) |
 | Heads Will Roll: Reforged | 197592 | [197592-heads-will-roll-reforged.json](./197592-heads-will-roll-reforged.json) |
+| Heads Will Roll: Reforged - Happily Ever After | 286551 | [286551-heads-will-roll-reforged-happily-ever-after.json](./286551-heads-will-roll-reforged-happily-ever-after.json) |
 | Heads Will Roll: Reforged - Not a Hero | 296904 | [296904-heads-will-roll-reforged-not-a-hero.json](./296904-heads-will-roll-reforged-not-a-hero.json) |
 | Heads Will Roll: Reforged - Threads of Destiny | 327860 | [327860-heads-will-roll-reforged-threads-of-destiny.json](./327860-heads-will-roll-reforged-threads-of-destiny.json) |
 | Heads-Up | 231634 | [231634-heads-up.json](./231634-heads-up.json) |
@@ -4170,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Coloring Game | 161257 | [161257-hentai-coloring-game.json](./161257-hentai-coloring-game.json) |
 | Hentai Cookie | 365419 | [365419-hentai-cookie.json](./365419-hentai-cookie.json) |
 | Hentai Cosplay Elf | 286442 | [286442-hentai-cosplay-elf.json](./286442-hentai-cosplay-elf.json) |
+| Hentai Cosplay USSR | 286486 | [286486-hentai-cosplay-ussr.json](./286486-hentai-cosplay-ussr.json) |
 | Hentai Crazy Girls | 202203 | [202203-hentai-crazy-girls.json](./202203-hentai-crazy-girls.json) |
 | Hentai Crush | 136424 | [136424-hentai-crush.json](./136424-hentai-crush.json) |
 | Hentai Crystals | 257003 | [257003-hentai-crystals.json](./257003-hentai-crystals.json) |
@@ -4719,6 +4721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai: Make Love Not War 2 | 283269 | [283269-hentai-make-love-not-war-2.json](./283269-hentai-make-love-not-war-2.json) |
 | Hentai: Memory Leak | 335840 | [335840-hentai-memory-leak.json](./335840-hentai-memory-leak.json) |
 | Hentai: Nazi Girl | 327393 | [327393-hentai-nazi-girl.json](./327393-hentai-nazi-girl.json) |
+| Hentai: Neko Love | 286550 | [286550-hentai-neko-love.json](./286550-hentai-neko-love.json) |
 | Hentai: Nude Quest | 277922 | [277922-hentai-nude-quest.json](./277922-hentai-nude-quest.json) |
 | Hentai: Police Force | 278903 | [278903-hentai-police-force.json](./278903-hentai-police-force.json) |
 | Hentai: Royal Quarters | 286543 | [286543-hentai-royal-quarters.json](./286543-hentai-royal-quarters.json) |
@@ -9461,6 +9464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houshin Engi | 125424 | [125424-houshin-engi.json](./125424-houshin-engi.json) |
 | Houshin Engi 2 | 125423 | [125423-houshin-engi-2.json](./125423-houshin-engi-2.json) |
 | Housle | 285391 | [285391-housle.json](./285391-housle.json) |
+| Houston, We Have a Problem | 286485 | [286485-houston-we-have-a-problem.json](./286485-houston-we-have-a-problem.json) |
 | Hoven the Sages Spinel | 34529 | [34529-hoven-the-sages-spinel.json](./34529-hoven-the-sages-spinel.json) |
 | Hover 2030 | 32897 | [32897-hover-2030.json](./32897-hover-2030.json) |
 | Hover Ace | 54103 | [54103-hover-ace.json](./54103-hover-ace.json) |
@@ -10205,6 +10209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown 1896 - Starter Edition | 313782 | [313782-hunt-showdown-1896-starter-edition.json](./313782-hunt-showdown-1896-starter-edition.json) |
 | Hunt: Showdown 1896 - The Reckoning Son | 302195 | [302195-hunt-showdown-1896-the-reckoning-son.json](./302195-hunt-showdown-1896-the-reckoning-son.json) |
 | Hunt: Showdown 1896 - The Revenant | 332024 | [332024-hunt-showdown-1896-the-revenant.json](./332024-hunt-showdown-1896-the-revenant.json) |
+| Hunt: Showdown 1896 - The Shadow Under the Cowl | 286556 | [286556-hunt-showdown-1896-the-shadow-under-the-cowl.json](./286556-hunt-showdown-1896-the-shadow-under-the-cowl.json) |
 | Hunt: Showdown 1896 - The Son of Gunpowder | 296920 | [296920-hunt-showdown-1896-the-son-of-gunpowder.json](./296920-hunt-showdown-1896-the-son-of-gunpowder.json) |
 | Hunt: Showdown 1896 - They Came from Salem | 332026 | [332026-hunt-showdown-1896-they-came-from-salem.json](./332026-hunt-showdown-1896-they-came-from-salem.json) |
 | Hunt: Showdown 1896 - When Shadows Dance | 265773 | [265773-hunt-showdown-1896-when-shadows-dance.json](./265773-hunt-showdown-1896-when-shadows-dance.json) |
