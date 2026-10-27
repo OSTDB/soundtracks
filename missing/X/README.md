@@ -86,6 +86,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men Origins: Wolverine | 573 | [573-x-men-origins-wolverine.json](./573-x-men-origins-wolverine.json) |
 | X-Men Origins: Wolverine - The Mobile Game | 209932 | [209932-x-men-origins-wolverine-the-mobile-game.json](./209932-x-men-origins-wolverine-the-mobile-game.json) |
 | X-Men Origins: Wolverine Uncaged Edition | 20478 | [20478-x-men-origins-wolverine-uncaged-edition.json](./20478-x-men-origins-wolverine-uncaged-edition.json) |
+| X-Men: 001 - Character: Wolverine | 290363 | [290363-x-men-001-character-wolverine.json](./290363-x-men-001-character-wolverine.json) |
+| X-Men: 002 - Character: Lady Deathstrike | 290364 | [290364-x-men-002-character-lady-deathstrike.json](./290364-x-men-002-character-lady-deathstrike.json) |
+| X-Men: 003 - Attack MOD: Adamantium Claws | 290365 | [290365-x-men-003-attack-mod-adamantium-claws.json](./290365-x-men-003-attack-mod-adamantium-claws.json) |
+| X-Men: 004 - Attack MOD: Big Chill | 290367 | [290367-x-men-004-attack-mod-big-chill.json](./290367-x-men-004-attack-mod-big-chill.json) |
+| X-Men: 005 - Attack MOD: Cyborg Assault | 290370 | [290370-x-men-005-attack-mod-cyborg-assault.json](./290370-x-men-005-attack-mod-cyborg-assault.json) |
+| X-Men: 006 - Danger Room: Strength Room | 290371 | [290371-x-men-006-danger-room-strength-room.json](./290371-x-men-006-danger-room-strength-room.json) |
+| X-Men: 007 - Ultimate Character: Wolverine | 290369 | [290369-x-men-007-ultimate-character-wolverine.json](./290369-x-men-007-ultimate-character-wolverine.json) |
+| X-Men: 008 - Character: Storm | 290368 | [290368-x-men-008-character-storm.json](./290368-x-men-008-character-storm.json) |
 | X-Men: 009 - Character: Cyclops | 291031 | [291031-x-men-009-character-cyclops.json](./291031-x-men-009-character-cyclops.json) |
 | X-Men: 010 - Character: Iceman | 291032 | [291032-x-men-010-character-iceman.json](./291032-x-men-010-character-iceman.json) |
 | X-Men: 011 - Character: Jean Grey/Phoenix | 291033 | [291033-x-men-011-character-jean-grey-phoenix.json](./291033-x-men-011-character-jean-grey-phoenix.json) |
