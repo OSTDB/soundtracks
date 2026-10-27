@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dad's Coming | 212671 | [212671-dads-coming.json](./212671-dads-coming.json) |
 | Dad's Dice: History of Legends | 217461 | [217461-dads-dice-history-of-legends.json](./217461-dads-dice-history-of-legends.json) |
 | Dad’s Gonna Be a Travel Influencer. | 403932 | [403932-dad-s-gonna-be-a-travel-influencer.json](./403932-dad-s-gonna-be-a-travel-influencer.json) |
+| Daddy Comes Home | 330477 | [330477-daddy-comes-home.json](./330477-daddy-comes-home.json) |
 | Daddy Long Legs | 89289 | [89289-daddy-long-legs.json](./89289-daddy-long-legs.json) |
 | Daddy Moto Racing | 255063 | [255063-daddy-moto-racing.json](./255063-daddy-moto-racing.json) |
 | Daddy Was A Thief | 103150 | [103150-daddy-was-a-thief.json](./103150-daddy-was-a-thief.json) |
@@ -1967,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts Fever Arrows of Glory | 385162 | [385162-darts-fever-arrows-of-glory.json](./385162-darts-fever-arrows-of-glory.json) |
 | Darts Fever Bullseye Legends | 378962 | [378962-darts-fever-bullseye-legends.json](./378962-darts-fever-bullseye-legends.json) |
 | Darts Fever: Deluxe Edition | 333720 | [333720-darts-fever-deluxe-edition.json](./333720-darts-fever-deluxe-edition.json) |
+| Darts Fever: Premium Edition | 330619 | [330619-darts-fever-premium-edition.json](./330619-darts-fever-premium-edition.json) |
 | Darts Fever: Prime Edition | 336435 | [336435-darts-fever-prime-edition.json](./336435-darts-fever-prime-edition.json) |
 | Darts Frenzy | 280785 | [280785-darts-frenzy.json](./280785-darts-frenzy.json) |
 | Darts Match | 58143 | [58143-darts-match.json](./58143-darts-match.json) |
@@ -5353,6 +5355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Castle Story | 381568 | [381568-demon-castle-story.json](./381568-demon-castle-story.json) |
 | Demon Compass | 323594 | [323594-demon-compass.json](./323594-demon-compass.json) |
 | Demon Core | 110239 | [110239-demon-core.json](./110239-demon-core.json) |
+| Demon Core | 330485 | [330485-demon-core.json](./330485-demon-core.json) |
 | Demon Corporation: Onboarding | 333944 | [333944-demon-corporation-onboarding.json](./333944-demon-corporation-onboarding.json) |
 | Demon Crisis | 415900 | [415900-demon-crisis.json](./415900-demon-crisis.json) |
 | Demon Crush | 303469 | [303469-demon-crush.json](./303469-demon-crush.json) |
@@ -6843,6 +6846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Tuning Fork | 67304 | [67304-devils-tuning-fork.json](./67304-devils-tuning-fork.json) |
 | Devil's Way | 306358 | [306358-devils-way.json](./306358-devils-way.json) |
 | Devil's Wheel | 130619 | [130619-devils-wheel.json](./130619-devils-wheel.json) |
+| Devil's Wish | 330645 | [330645-devils-wish.json](./330645-devils-wish.json) |
 | DevilConnection | 312736 | [312736-devilconnection.json](./312736-devilconnection.json) |
 | DevilDark: The Fallen Kingdom | 343817 | [343817-devildark-the-fallen-kingdom.json](./343817-devildark-the-fallen-kingdom.json) |
 | Deviled | 262290 | [262290-deviled.json](./262290-deviled.json) |
@@ -14597,6 +14601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Dash Delivery | 398320 | [398320-duck-dash-delivery.json](./398320-duck-dash-delivery.json) |
 | Duck Dodgers Starring Daffy Duck | 3336 | [3336-duck-dodgers-starring-daffy-duck.json](./3336-duck-dodgers-starring-daffy-duck.json) |
 | Duck Doom Deluxe | 201180 | [201180-duck-doom-deluxe.json](./201180-duck-doom-deluxe.json) |
+| Duck Duck Adventure | 330644 | [330644-duck-duck-adventure.json](./330644-duck-duck-adventure.json) |
 | Duck Duck Goose | 358870 | [358870-duck-duck-goose.json](./358870-duck-duck-goose.json) |
 | Duck Duck Hotel | 384083 | [384083-duck-duck-hotel.json](./384083-duck-duck-hotel.json) |
 | Duck Duck Plays the Blues | 182994 | [182994-duck-duck-plays-the-blues.json](./182994-duck-duck-plays-the-blues.json) |
@@ -15322,6 +15327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Zaar | 24703 | [24703-dungeon-of-zaar.json](./24703-dungeon-of-zaar.json) |
 | Dungeon of Zaar: Explorer Edition | 238545 | [238545-dungeon-of-zaar-explorer-edition.json](./238545-dungeon-of-zaar-explorer-edition.json) |
 | Dungeon of Zolthan | 32967 | [32967-dungeon-of-zolthan.json](./32967-dungeon-of-zolthan.json) |
+| Dungeon Online | 330479 | [330479-dungeon-online.json](./330479-dungeon-online.json) |
 | Dungeon Origins | 128904 | [128904-dungeon-origins.json](./128904-dungeon-origins.json) |
 | Dungeon Overdose | 342026 | [342026-dungeon-overdose.json](./342026-dungeon-overdose.json) |
 | Dungeon Overlord | 65261 | [65261-dungeon-overlord.json](./65261-dungeon-overlord.json) |
