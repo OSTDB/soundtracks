@@ -3871,6 +3871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Venice 2: New York Adventure | 294801 | [294801-hello-venice-2-new-york-adventure.json](./294801-hello-venice-2-new-york-adventure.json) |
 | Hello Winter Mario Games 2009 | 320222 | [320222-hello-winter-mario-games-2009.json](./320222-hello-winter-mario-games-2009.json) |
 | Hello World | 132633 | [132633-hello-world.json](./132633-hello-world.json) |
+| Hello World | 295764 | [295764-hello-world.json](./295764-hello-world.json) |
 | Hello World | 367420 | [367420-hello-world.json](./367420-hello-world.json) |
 | Hello World | 392767 | [392767-hello-world.json](./392767-hello-world.json) |
 | Hello World: a developer story | 354089 | [354089-hello-world-a-developer-story.json](./354089-hello-world-a-developer-story.json) |
@@ -7181,6 +7182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitsuji Shitsuji | 207041 | [207041-hitsuji-shitsuji.json](./207041-hitsuji-shitsuji.json) |
 | Hittin Switchez | 77801 | [77801-hittin-switchez.json](./77801-hittin-switchez.json) |
 | Hitting | 287525 | [287525-hitting.json](./287525-hitting.json) |
+| Hitting Balls | 295755 | [295755-hitting-balls.json](./295755-hitting-balls.json) |
 | Hitting Mices | 212730 | [212730-hitting-mices.json](./212730-hitting-mices.json) |
 | HitTube | 323426 | [323426-hittube.json](./323426-hittube.json) |
 | Hituzibuster | 229371 | [229371-hituzibuster.json](./229371-hituzibuster.json) |
@@ -10102,6 +10104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Snake | 394112 | [394112-hungry-snake.json](./394112-hungry-snake.json) |
 | Hungry Sumo | 22204 | [22204-hungry-sumo.json](./22204-hungry-sumo.json) |
 | Hungry Tea Party | 129756 | [129756-hungry-tea-party.json](./129756-hungry-tea-party.json) |
+| Hungry Tiger | 295746 | [295746-hungry-tiger.json](./295746-hungry-tiger.json) |
 | Hungry Wolf | 189910 | [189910-hungry-wolf.json](./189910-hungry-wolf.json) |
 | Huni Kuin: Yube Baitana | 162625 | [162625-huni-kuin-yube-baitana.json](./162625-huni-kuin-yube-baitana.json) |
 | HunieCam Studio | 19847 | [19847-huniecam-studio.json](./19847-huniecam-studio.json) |
