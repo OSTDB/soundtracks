@@ -6717,6 +6717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X3: Tsuraranoma | 268418 | [268418-mega-man-x3-tsuraranoma.json](./268418-mega-man-x3-tsuraranoma.json) |
 | Mega Man X3: Zero Project | 76204 | [76204-mega-man-x3-zero-project.json](./76204-mega-man-x3-zero-project.json) |
 | Mega Man X4 | 1744 | [1744-mega-man-x4.json](./1744-mega-man-x4.json) |
+| Mega Man X4: Knot Beret | 307646 | [307646-mega-man-x4-knot-beret.json](./307646-mega-man-x4-knot-beret.json) |
 | Mega Man X5 | 1745 | [1745-mega-man-x5.json](./1745-mega-man-x5.json) |
 | Mega Man X5 Improvement Project | 196256 | [196256-mega-man-x5-improvement-project.json](./196256-mega-man-x5-improvement-project.json) |
 | Mega Man X5: Improvement Project Addendum | 308384 | [308384-mega-man-x5-improvement-project-addendum.json](./308384-mega-man-x5-improvement-project-addendum.json) |
@@ -8076,6 +8077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merlin's Apprentice | 45913 | [45913-merlins-apprentice.json](./45913-merlins-apprentice.json) |
 | Merlin's Chess | 325875 | [325875-merlins-chess.json](./325875-merlins-chess.json) |
 | Merlin's Lab | 59033 | [59033-merlins-lab.json](./59033-merlins-lab.json) |
+| Merlion Pinball | 307560 | [307560-merlion-pinball.json](./307560-merlion-pinball.json) |
 | Mermaid Adventures: The Magic Pearl | 88623 | [88623-mermaid-adventures-the-magic-pearl.json](./88623-mermaid-adventures-the-magic-pearl.json) |
 | Mermaid Castle | 147740 | [147740-mermaid-castle.json](./147740-mermaid-castle.json) |
 | Mermaid Castle 2 | 264560 | [264560-mermaid-castle-2.json](./264560-mermaid-castle-2.json) |
@@ -13675,6 +13677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rescue | 188104 | [188104-monster-rescue.json](./188104-monster-rescue.json) |
 | Monster Retsuden Oreca Battle | 365701 | [365701-monster-retsuden-oreca-battle.json](./365701-monster-retsuden-oreca-battle.json) |
 | Monster Roadtrip Hitchhiker Pack: The Color Squad | 261342 | [261342-monster-roadtrip-hitchhiker-pack-the-color-squad.json](./261342-monster-roadtrip-hitchhiker-pack-the-color-squad.json) |
+| Monster Ronpa | 307561 | [307561-monster-ronpa.json](./307561-monster-ronpa.json) |
 | Monster RPG 2 | 34312 | [34312-monster-rpg-2.json](./34312-monster-rpg-2.json) |
 | Monster RPG 3 | 97015 | [97015-monster-rpg-3.json](./97015-monster-rpg-3.json) |
 | Monster Run: Downfall of the Empire | 258524 | [258524-monster-run-downfall-of-the-empire.json](./258524-monster-run-downfall-of-the-empire.json) |
