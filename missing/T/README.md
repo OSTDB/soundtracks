@@ -5123,6 +5123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ark | 390005 | [390005-the-ark.json](./390005-the-ark.json) |
 | The Ark Adult Game | 322715 | [322715-the-ark-adult-game.json](./322715-the-ark-adult-game.json) |
 | The Ark of Craft | 86794 | [86794-the-ark-of-craft.json](./86794-the-ark-of-craft.json) |
+| The Ark of Exodus | 284186 | [284186-the-ark-of-exodus.json](./284186-the-ark-of-exodus.json) |
 | The Ark of Horizon | 117162 | [117162-the-ark-of-horizon.json](./117162-the-ark-of-horizon.json) |
 | The Arkane Collection | 331402 | [331402-the-arkane-collection.json](./331402-the-arkane-collection.json) |
 | The Arm Wrestling Classic | 214525 | [214525-the-arm-wrestling-classic.json](./214525-the-arm-wrestling-classic.json) |
@@ -5885,6 +5886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brittle Epoch | 261751 | [261751-the-brittle-epoch.json](./261751-the-brittle-epoch.json) |
 | The Broadside Express | 63709 | [63709-the-broadside-express.json](./63709-the-broadside-express.json) |
 | The Broken Balance | 216753 | [216753-the-broken-balance.json](./216753-the-broken-balance.json) |
+| The Broken Clock | 284177 | [284177-the-broken-clock.json](./284177-the-broken-clock.json) |
 | The Broken Clues 2 | 210212 | [210212-the-broken-clues-2.json](./210212-the-broken-clues-2.json) |
 | The Broken Land | 69668 | [69668-the-broken-land.json](./69668-the-broken-land.json) |
 | The Broken Lolipop | 378152 | [378152-the-broken-lolipop.json](./378152-the-broken-lolipop.json) |
@@ -12146,6 +12148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystic | 161564 | [161564-the-mystic.json](./161564-the-mystic.json) |
 | The Mystic Dragoons | 66499 | [66499-the-mystic-dragoons.json](./66499-the-mystic-dragoons.json) |
 | The Mystic Fortune | 329063 | [329063-the-mystic-fortune.json](./329063-the-mystic-fortune.json) |
+| The Mystic Land of Tales | 284179 | [284179-the-mystic-land-of-tales.json](./284179-the-mystic-land-of-tales.json) |
 | The Mystic Well | 232518 | [232518-the-mystic-well.json](./232518-the-mystic-well.json) |
 | The Mystical Traveler | 342735 | [342735-the-mystical-traveler.json](./342735-the-mystical-traveler.json) |
 | The Mystifying Trial | 163455 | [163455-the-mystifying-trial.json](./163455-the-mystifying-trial.json) |
@@ -15255,6 +15258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tomorrow Children | 7604 | [7604-the-tomorrow-children.json](./7604-the-tomorrow-children.json) |
 | The Tomorrow Children: Phoenix Edition | 205261 | [205261-the-tomorrow-children-phoenix-edition.json](./205261-the-tomorrow-children-phoenix-edition.json) |
 | The Tomorrow Corporation Collection | 124784 | [124784-the-tomorrow-corporation-collection.json](./124784-the-tomorrow-corporation-collection.json) |
+| The Tomorrow War: White Spike Invasion | 284375 | [284375-the-tomorrow-war-white-spike-invasion.json](./284375-the-tomorrow-war-white-spike-invasion.json) |
 | The Tone Rebellion | 73709 | [73709-the-tone-rebellion.json](./73709-the-tone-rebellion.json) |
 | The Too-Cute Girl Who Moved in Next Door | 413100 | [413100-the-too-cute-girl-who-moved-in-next-door.json](./413100-the-too-cute-girl-who-moved-in-next-door.json) |
 | The Tool | 164264 | [164264-the-tool.json](./164264-the-tool.json) |
