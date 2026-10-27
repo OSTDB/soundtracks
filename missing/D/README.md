@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Data | 120754 | [120754-dark-data.json](./120754-dark-data.json) |
 | Dark Day Afternoon | 140598 | [140598-dark-day-afternoon.json](./140598-dark-day-afternoon.json) |
 | Dark Days | 170255 | [170255-dark-days.json](./170255-dark-days.json) |
+| Dark Days | 289710 | [289710-dark-days.json](./289710-dark-days.json) |
 | Dark Days of Horror | 102181 | [102181-dark-days-of-horror.json](./102181-dark-days-of-horror.json) |
 | Dark Days: Devil Hunt | 224605 | [224605-dark-days-devil-hunt.json](./224605-dark-days-devil-hunt.json) |
 | Dark Days: Zombie Survival | 197372 | [197372-dark-days-zombie-survival.json](./197372-dark-days-zombie-survival.json) |
@@ -6339,6 +6340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | deSpiria | 92865 | [92865-despiria.json](./92865-despiria.json) |
 | Despoiler | 87036 | [87036-despoiler.json](./87036-despoiler.json) |
 | Despondent | 311899 | [311899-despondent.json](./311899-despondent.json) |
+| Desposis | 289821 | [289821-desposis.json](./289821-desposis.json) |
 | Despot Zombie | 291698 | [291698-despot-zombie.json](./291698-despot-zombie.json) |
 | Despot's Game: Challenges | 219242 | [219242-despots-game-challenges.json](./219242-despots-game-challenges.json) |
 | Despot's Game: Collector's Edition | 219052 | [219052-despots-game-collectors-edition.json](./219052-despots-game-collectors-edition.json) |
@@ -11526,6 +11528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dört Model Müzesi | 166804 | [166804-dort-model-muzesi.json](./166804-dort-model-muzesi.json) |
 | Dorven Digger | 195916 | [195916-dorven-digger.json](./195916-dorven-digger.json) |
 | Dos-Plan | 271105 | [271105-dos-plan.json](./271105-dos-plan.json) |
+| DOS: Steve Pardo | 289828 | [289828-dos-steve-pardo.json](./289828-dos-steve-pardo.json) |
 | Dose Response | 217458 | [217458-dose-response.json](./217458-dose-response.json) |
 | Doshin the Giant | 3894 | [3894-doshin-the-giant.json](./3894-doshin-the-giant.json) |
 | Doshin the Giant 1 | 159279 | [159279-doshin-the-giant-1.json](./159279-doshin-the-giant-1.json) |
@@ -13949,6 +13952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drelbs | 13841 | [13841-drelbs.json](./13841-drelbs.json) |
 | Drema | 157383 | [157383-drema.json](./157383-drema.json) |
 | Dremica | 393655 | [393655-dremica.json](./393655-dremica.json) |
+| Drench | 289826 | [289826-drench.json](./289826-drench.json) |
 | Dresden Files Cooperative Card Game | 68570 | [68570-dresden-files-cooperative-card-game.json](./68570-dresden-files-cooperative-card-game.json) |
 | Dresden Files Cooperative Card Game: Dead Ends | 170488 | [170488-dresden-files-cooperative-card-game-dead-ends.json](./170488-dresden-files-cooperative-card-game-dead-ends.json) |
 | Dresden Files Cooperative Card Game: Fan Favorites | 266499 | [266499-dresden-files-cooperative-card-game-fan-favorites.json](./266499-dresden-files-cooperative-card-game-fan-favorites.json) |
@@ -15209,6 +15213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune: Imperium - Uprising | 407856 | [407856-dune-imperium-uprising.json](./407856-dune-imperium-uprising.json) |
 | Dune: Ornithopter Assault | 150594 | [150594-dune-ornithopter-assault.json](./150594-dune-ornithopter-assault.json) |
 | Dune: Spice Wars | 185253 | [185253-dune-spice-wars.json](./185253-dune-spice-wars.json) |
+| Dune: Spice Wars - House Vernius of Ix | 289840 | [289840-dune-spice-wars-house-vernius-of-ix.json](./289840-dune-spice-wars-house-vernius-of-ix.json) |
 | Dune: The Battle for Arrakis | 77207 | [77207-dune-the-battle-for-arrakis.json](./77207-dune-the-battle-for-arrakis.json) |
 | Dune! | 74550 | [74550-dune.json](./74550-dune.json) |
 | Dunebound Tactics | 320131 | [320131-dunebound-tactics.json](./320131-dunebound-tactics.json) |
