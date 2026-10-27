@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 AM Moscow Time | 304848 | [304848-1-am-moscow-time.json](./304848-1-am-moscow-time.json) |
 | 1 Bit Survivor | 233992 | [233992-1-bit-survivor.json](./233992-1-bit-survivor.json) |
 | 1 CatLine | 391649 | [391649-1-catline.json](./391649-1-catline.json) |
+| 1 Day a Mosquito | 308198 | [308198-1-day-a-mosquito.json](./308198-1-day-a-mosquito.json) |
 | 1 Fast Fight | 315347 | [315347-1-fast-fight.json](./315347-1-fast-fight.json) |
 | 1 Hit Kill | 105211 | [105211-1-hit-kill.json](./105211-1-hit-kill.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
@@ -1075,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16bit-Collection Jaleco Vol. 01 | 97895 | [97895-16bit-collection-jaleco-vol-01.json](./97895-16bit-collection-jaleco-vol-01.json) |
 | 16BitSurvivors | 358064 | [358064-16bitsurvivors.json](./358064-16bitsurvivors.json) |
 | 16x16 | 358065 | [358065-16x16.json](./358065-16x16.json) |
+| 17 Bucks: Floor 1 | 308282 | [308282-17-bucks-floor-1.json](./308282-17-bucks-floor-1.json) |
 | 17 Fighters | 183562 | [183562-17-fighters.json](./183562-17-fighters.json) |
 | 17 MPH | 377922 | [377922-17-mph.json](./377922-17-mph.json) |
 | 17 Seconds VR | 374234 | [374234-17-seconds-vr.json](./374234-17-seconds-vr.json) |
@@ -1173,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1984 Rewired | 123940 | [123940-1984-rewired.json](./123940-1984-rewired.json) |
 | 1986 A Long Five Days | 301032 | [301032-1986-a-long-five-days.json](./301032-1986-a-long-five-days.json) |
 | 1986 Scary Mr. Chainsaw Escape | 314699 | [314699-1986-scary-mr-chainsaw-escape.json](./314699-1986-scary-mr-chainsaw-escape.json) |
+| 1987: Rescue in Berlin | 308212 | [308212-1987-rescue-in-berlin.json](./308212-1987-rescue-in-berlin.json) |
 | 1989 After the War | 323012 | [323012-1989-after-the-war.json](./323012-1989-after-the-war.json) |
 | 1989 QianShanMen | 259288 | [259288-1989-qianshanmen.json](./259288-1989-qianshanmen.json) |
 | 198BREW: The Age of Orpheus | 325294 | [325294-198brew-the-age-of-orpheus.json](./325294-198brew-the-age-of-orpheus.json) |
@@ -1526,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 21: Two One | 394433 | [394433-21-two-one.json](./394433-21-two-one.json) |
 | 2112TD: Tower Defense Survival | 135256 | [135256-2112td-tower-defense-survival.json](./135256-2112td-tower-defense-survival.json) |
 | 2115 | 327891 | [327891-2115.json](./327891-2115.json) |
+| 2121 AD | 308295 | [308295-2121-ad.json](./308295-2121-ad.json) |
 | 2152: Pizza Pocket | 394544 | [394544-2152-pizza-pocket.json](./394544-2152-pizza-pocket.json) |
 | 2176 Supernova Storm | 92620 | [92620-2176-supernova-storm.json](./92620-2176-supernova-storm.json) |
 | 21Pirates Card Game | 308941 | [308941-21pirates-card-game.json](./308941-21pirates-card-game.json) |
@@ -2209,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Minutes to the Apocalypse | 132531 | [132531-4-minutes-to-the-apocalypse.json](./132531-4-minutes-to-the-apocalypse.json) |
 | 4 Months of You | 165650 | [165650-4-months-of-you.json](./165650-4-months-of-you.json) |
 | 4 Moohrhuhn Teile | 282438 | [282438-4-moohrhuhn-teile.json](./282438-4-moohrhuhn-teile.json) |
+| 4 of Clubs | 308270 | [308270-4-of-clubs.json](./308270-4-of-clubs.json) |
 | 4 Penny Coffins | 396126 | [396126-4-penny-coffins.json](./396126-4-penny-coffins.json) |
 | 4 Pics 1 Word | 63105 | [63105-4-pics-1-word.json](./63105-4-pics-1-word.json) |
 | 4 Pics Heroes and Villains | 107184 | [107184-4-pics-heroes-and-villains.json](./107184-4-pics-heroes-and-villains.json) |
