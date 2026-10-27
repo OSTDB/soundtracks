@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Days | 231985 | [231985-100-days.json](./231985-100-days.json) |
 | 100 Demon Cats | 347752 | [347752-100-demon-cats.json](./347752-100-demon-cats.json) |
 | 100 Dino Cats | 284395 | [284395-100-dino-cats.json](./284395-100-dino-cats.json) |
+| 100 Dino Cats: Extra Content | 288729 | [288729-100-dino-cats-extra-content.json](./288729-100-dino-cats-extra-content.json) |
 | 100 Dogs | 308933 | [308933-100-dogs.json](./308933-100-dogs.json) |
 | 100 Dogs in India | 325504 | [325504-100-dogs-in-india.json](./325504-100-dogs-in-india.json) |
 | 100 Doors Escape: Let me In! | 256349 | [256349-100-doors-escape-let-me-in.json](./256349-100-doors-escape-let-me-in.json) |
@@ -581,14 +582,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 New Year Cats | 324238 | [324238-100-new-year-cats.json](./324238-100-new-year-cats.json) |
 | 100 New Year Cats: Extra Content | 325506 | [325506-100-new-year-cats-extra-content.json](./325506-100-new-year-cats-extra-content.json) |
 | 100 Ninja Cats | 283034 | [283034-100-ninja-cats.json](./283034-100-ninja-cats.json) |
+| 100 Ninja Cats: Extra Content | 288732 | [288732-100-ninja-cats-extra-content.json](./288732-100-ninja-cats-extra-content.json) |
 | 100 Paris Cats | 283035 | [283035-100-paris-cats.json](./283035-100-paris-cats.json) |
 | 100 Percent Star | 45233 | [45233-100-percent-star.json](./45233-100-percent-star.json) |
 | 100 Pics Quiz | 70890 | [70890-100-pics-quiz.json](./70890-100-pics-quiz.json) |
 | 100 Pirate Cats | 283036 | [283036-100-pirate-cats.json](./283036-100-pirate-cats.json) |
+| 100 Pirate Cats: Extra Content | 288731 | [288731-100-pirate-cats-extra-content.json](./288731-100-pirate-cats-extra-content.json) |
 | 100 Pumpkins | 175852 | [175852-100-pumpkins.json](./175852-100-pumpkins.json) |
 | 100 Pumpkins 2 | 272777 | [272777-100-pumpkins-2.json](./272777-100-pumpkins-2.json) |
 | 100 Radioactive Cats | 379455 | [379455-100-radioactive-cats.json](./379455-100-radioactive-cats.json) |
 | 100 Ramen Cats | 376179 | [376179-100-ramen-cats.json](./376179-100-ramen-cats.json) |
+| 100 Robo Cats: Extra Content | 288730 | [288730-100-robo-cats-extra-content.json](./288730-100-robo-cats-extra-content.json) |
 | 100 Rogues | 22347 | [22347-100-rogues.json](./22347-100-rogues.json) |
 | 100 Romantic Cats | 287352 | [287352-100-romantic-cats.json](./287352-100-romantic-cats.json) |
 | 100 Romantic Cats: Extra Content | 359566 | [359566-100-romantic-cats-extra-content.json](./359566-100-romantic-cats-extra-content.json) |
@@ -666,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100$ | 231486 | [231486-100.json](./231486-100.json) |
 | 1000 Amps | 6281 | [6281-1000-amps.json](./6281-1000-amps.json) |
 | 1000 Best Solitaire Games | 292004 | [292004-1000-best-solitaire-games.json](./292004-1000-best-solitaire-games.json) |
+| 1000 Cuts: Jomaku | 288725 | [288725-1000-cuts-jomaku.json](./288725-1000-cuts-jomaku.json) |
 | 1000 Days of Syria | 174227 | [174227-1000-days-of-syria.json](./174227-1000-days-of-syria.json) |
 | 1000 Deaths | 172435 | [172435-1000-deaths.json](./172435-1000-deaths.json) |
 | 1000 Games: Volume 3 | 125839 | [125839-1000-games-volume-3.json](./125839-1000-games-volume-3.json) |
@@ -1756,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Tiles: Tile Matching Games | 331356 | [331356-3-tiles-tile-matching-games.json](./331356-3-tiles-tile-matching-games.json) |
 | 3-2-1, Rattle Battle! | 51056 | [51056-3-2-1-rattle-battle.json](./51056-3-2-1-rattle-battle.json) |
 | 3-Bit Explorer | 326037 | [326037-3-bit-explorer.json](./326037-3-bit-explorer.json) |
+| 3-byou Banana | 288734 | [288734-3-byou-banana.json](./288734-3-byou-banana.json) |
 | 3-choume no Tama: Tama and Friends - 3-choume Obake Panic!! | 49149 | [49149-3-choume-no-tama-tama-and-friends-3-choume-obake-panic.json](./49149-3-choume-no-tama-tama-and-friends-3-choume-obake-panic.json) |
 | 3-D Body Adventure | 129505 | [129505-3-d-body-adventure.json](./129505-3-d-body-adventure.json) |
 | 3-D Bomberman | 85953 | [85953-3-d-bomberman.json](./85953-3-d-bomberman.json) |
@@ -2052,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Medieval Inn | 253425 | [253425-3d-puzzle-medieval-inn.json](./253425-3d-puzzle-medieval-inn.json) |
 | 3D Puzzle: Modern House | 190999 | [190999-3d-puzzle-modern-house.json](./190999-3d-puzzle-modern-house.json) |
 | 3D Puzzle: Mountain Life | 357757 | [357757-3d-puzzle-mountain-life.json](./357757-3d-puzzle-mountain-life.json) |
+| 3D Puzzle: Old House | 288733 | [288733-3d-puzzle-old-house.json](./288733-3d-puzzle-old-house.json) |
 | 3D Puzzle: Old Sea Port | 301048 | [301048-3d-puzzle-old-sea-port.json](./301048-3d-puzzle-old-sea-port.json) |
 | 3D Puzzle: OldHospital | 308947 | [308947-3d-puzzle-oldhospital.json](./308947-3d-puzzle-oldhospital.json) |
 | 3D Puzzle: OutPost | 308946 | [308946-3d-puzzle-outpost.json](./308946-3d-puzzle-outpost.json) |
@@ -3005,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99Seconds | 84726 | [84726-99seconds.json](./84726-99seconds.json) |
 | 99Vidas | 26678 | [26678-99vidas.json](./26678-99vidas.json) |
 | 99Vidas: Definitive Edition | 112088 | [112088-99vidas-definitive-edition.json](./112088-99vidas-definitive-edition.json) |
+| 9Cat Saga | 288740 | [288740-9cat-saga.json](./288740-9cat-saga.json) |
 | 9Clock OverPack | 424710 | [424710-9clock-overpack.json](./424710-9clock-overpack.json) |
 | 9Dragons: Kung Fu Arena | 113738 | [113738-9dragons-kung-fu-arena.json](./113738-9dragons-kung-fu-arena.json) |
 | 9mm | 18881 | [18881-9mm.json](./18881-9mm.json) |
