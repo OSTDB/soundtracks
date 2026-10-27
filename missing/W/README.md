@@ -5639,6 +5639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within The Shadows | 297625 | [297625-within-the-shadows.json](./297625-within-the-shadows.json) |
 | Within the Threes | 184604 | [184604-within-the-threes.json](./184604-within-the-threes.json) |
 | Within the Unknown | 279090 | [279090-within-the-unknown.json](./279090-within-the-unknown.json) |
+| Within the Vault | 304518 | [304518-within-the-vault.json](./304518-within-the-vault.json) |
 | Within Whispers: The Fall | 61652 | [61652-within-whispers-the-fall.json](./61652-within-whispers-the-fall.json) |
 | Within Yourself | 273762 | [273762-within-yourself.json](./273762-within-yourself.json) |
 | Within: Hannah's Journey | 304011 | [304011-within-hannahs-journey.json](./304011-within-hannahs-journey.json) |
