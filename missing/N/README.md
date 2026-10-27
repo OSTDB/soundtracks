@@ -3472,6 +3472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon Party Blast | 2764 | [2764-nickelodeon-party-blast.json](./2764-nickelodeon-party-blast.json) |
 | Nickelodeon Pixel Town | 128374 | [128374-nickelodeon-pixel-town.json](./128374-nickelodeon-pixel-town.json) |
 | Nickelodeon Rugrats | 198878 | [198878-nickelodeon-rugrats.json](./198878-nickelodeon-rugrats.json) |
+| Nickelodeon: All-Star Brawl 2 - Rocksteady Brawl Pack | 308825 | [308825-nickelodeon-all-star-brawl-2-rocksteady-brawl-pack.json](./308825-nickelodeon-all-star-brawl-2-rocksteady-brawl-pack.json) |
 | NickProject | 88142 | [88142-nickproject.json](./88142-nickproject.json) |
 | Nicktoons | 220098 | [220098-nicktoons.json](./220098-nicktoons.json) |
 | Nicktoons & The Dice of Destiny | 347647 | [347647-nicktoons-and-the-dice-of-destiny.json](./347647-nicktoons-and-the-dice-of-destiny.json) |
