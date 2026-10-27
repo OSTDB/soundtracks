@@ -2472,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCG Card Shop Empire | 323680 | [323680-tcg-card-shop-empire.json](./323680-tcg-card-shop-empire.json) |
 | TCG Card Shop Manager | 328084 | [328084-tcg-card-shop-manager.json](./328084-tcg-card-shop-manager.json) |
 | TCG Card Shop Simulator | 309862 | [309862-tcg-card-shop-simulator.json](./309862-tcg-card-shop-simulator.json) |
+| TCG Empire: Card Shop Simulator | 322508 | [322508-tcg-empire-card-shop-simulator.json](./322508-tcg-empire-card-shop-simulator.json) |
 | TCG Master Trader | 368362 | [368362-tcg-master-trader.json](./368362-tcg-master-trader.json) |
 | TCG Multiplayer Card Shop Simulator | 322643 | [322643-tcg-multiplayer-card-shop-simulator.json](./322643-tcg-multiplayer-card-shop-simulator.json) |
 | TCG One | 149983 | [149983-tcg-one.json](./149983-tcg-one.json) |
@@ -20019,6 +20020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Terraces | 311476 | [311476-tiny-terraces.json](./311476-tiny-terraces.json) |
 | Tiny Terrariums | 244629 | [244629-tiny-terrariums.json](./244629-tiny-terrariums.json) |
 | Tiny Terrors | 375205 | [375205-tiny-terrors.json](./375205-tiny-terrors.json) |
+| Tiny the Mole | 322539 | [322539-tiny-the-mole.json](./322539-tiny-the-mole.json) |
 | Tiny Thor | 28295 | [28295-tiny-thor.json](./28295-tiny-thor.json) |
 | Tiny Tied | 244843 | [244843-tiny-tied.json](./244843-tiny-tied.json) |
 | Tiny Tim | 312272 | [312272-tiny-tim.json](./312272-tiny-tim.json) |
