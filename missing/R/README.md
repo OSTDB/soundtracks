@@ -5509,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverberant | 128619 | [128619-reverberant.json](./128619-reverberant.json) |
 | Reverence | 193732 | [193732-reverence.json](./193732-reverence.json) |
 | Reverence: The Ultimate Combat Experience | 32493 | [32493-reverence-the-ultimate-combat-experience.json](./32493-reverence-the-ultimate-combat-experience.json) |
+| Reverend | 305123 | [305123-reverend.json](./305123-reverend.json) |
 | Reverend | 339622 | [339622-reverend.json](./339622-reverend.json) |
 | Reverend: Surf 'n Sin | 380554 | [380554-reverend-surf-n-sin.json](./380554-reverend-surf-n-sin.json) |
 | REVEREX: DX | 327457 | [327457-reverex-dx.json](./327457-reverex-dx.json) |
@@ -6199,6 +6200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riders Republic: Freeride Edition | 201047 | [201047-riders-republic-freeride-edition.json](./201047-riders-republic-freeride-edition.json) |
 | Riders Republic: Gold Edition | 139834 | [139834-riders-republic-gold-edition.json](./139834-riders-republic-gold-edition.json) |
 | Riders Republic: Limited Edition | 139839 | [139839-riders-republic-limited-edition.json](./139839-riders-republic-limited-edition.json) |
+| Riders Republic: Season 11 | 305247 | [305247-riders-republic-season-11.json](./305247-riders-republic-season-11.json) |
 | Riders Republic: Season Pass | 293718 | [293718-riders-republic-season-pass.json](./293718-riders-republic-season-pass.json) |
 | Riders Republic: Skate Edition | 263516 | [263516-riders-republic-skate-edition.json](./263516-riders-republic-skate-edition.json) |
 | Riders Republic: Skate Plus Pack | 268975 | [268975-riders-republic-skate-plus-pack.json](./268975-riders-republic-skate-plus-pack.json) |
