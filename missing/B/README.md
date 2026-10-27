@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5720,6 +5721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserk Boy: Collector's Edition | 350790 | [350790-berserk-boy-collectors-edition.json](./350790-berserk-boy-collectors-edition.json) |
 | Berserk Emblem | 401306 | [401306-berserk-emblem.json](./401306-berserk-emblem.json) |
 | Berserk Heroes Online | 377267 | [377267-berserk-heroes-online.json](./377267-berserk-heroes-online.json) |
+| Berserk High | 285503 | [285503-berserk-high.json](./285503-berserk-high.json) |
 | Berserk or Die | 348333 | [348333-berserk-or-die.json](./348333-berserk-or-die.json) |
 | Berserk Reborn | 211261 | [211261-berserk-reborn.json](./211261-berserk-reborn.json) |
 | Berserk Soccer | 155385 | [155385-berserk-soccer.json](./155385-berserk-soccer.json) |
@@ -14348,6 +14350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddha Finger | 22188 | [22188-buddha-finger.json](./22188-buddha-finger.json) |
 | Buddhagillie | 268400 | [268400-buddhagillie.json](./268400-buddhagillie.json) |
 | Buddi Bot: Your Machine Learning AI Helper With Advanced Neural Networking! | 166720 | [166720-buddi-bot-your-machine-learning-ai-helper-with-advanced-neural-networking.json](./166720-buddi-bot-your-machine-learning-ai-helper-with-advanced-neural-networking.json) |
+| Buddies | 285842 | [285842-buddies.json](./285842-buddies.json) |
 | Buddies in a Ball | 349905 | [349905-buddies-in-a-ball.json](./349905-buddies-in-a-ball.json) |
 | Buddies in Boxes | 244126 | [244126-buddies-in-boxes.json](./244126-buddies-in-boxes.json) |
 | Budding Destiny | 316649 | [316649-budding-destiny.json](./316649-budding-destiny.json) |
