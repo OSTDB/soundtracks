@@ -4551,6 +4551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CEO | 179515 | [179515-ceo.json](./179515-ceo.json) |
 | CEO | 197181 | [197181-ceo.json](./197181-ceo.json) |
 | CEO City | 316287 | [316287-ceo-city.json](./316287-ceo-city.json) |
+| CEO Fish | 288805 | [288805-ceo-fish.json](./288805-ceo-fish.json) |
 | CEO Sim: Cyberpunk | 290634 | [290634-ceo-sim-cyberpunk.json](./290634-ceo-sim-cyberpunk.json) |
 | CEO Test | 24790 | [24790-ceo-test.json](./24790-ceo-test.json) |
 | Cepheus Protocol | 127246 | [127246-cepheus-protocol.json](./127246-cepheus-protocol.json) |
@@ -7014,6 +7015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
 | Chrome Sweat | 251975 | [251975-chrome-sweat.json](./251975-chrome-sweat.json) |
 | Chrome Switcher | 148490 | [148490-chrome-switcher.json](./148490-chrome-switcher.json) |
+| Chrome Valley Customs | 288794 | [288794-chrome-valley-customs.json](./288794-chrome-valley-customs.json) |
 | Chrome Wars | 235244 | [235244-chrome-wars.json](./235244-chrome-wars.json) |
 | Chromehounds | 6937 | [6937-chromehounds.json](./6937-chromehounds.json) |
 | ChromeRivals | 179983 | [179983-chromerivals.json](./179983-chromerivals.json) |
@@ -11511,6 +11513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquered Complex | 274012 | [274012-conquered-complex.json](./274012-conquered-complex.json) |
 | Conquered Kingdoms | 69804 | [69804-conquered-kingdoms.json](./69804-conquered-kingdoms.json) |
 | Conquered Kingdoms: Scenario Disk #1 | 94610 | [94610-conquered-kingdoms-scenario-disk-1.json](./94610-conquered-kingdoms-scenario-disk-1.json) |
+| Conquering Ciros | 288713 | [288713-conquering-ciros.json](./288713-conquering-ciros.json) |
 | Conquering Everest | 262399 | [262399-conquering-everest.json](./262399-conquering-everest.json) |
 | Conquering New Ground: 1775 Rebellion | 26177 | [26177-conquering-new-ground-1775-rebellion.json](./26177-conquering-new-ground-1775-rebellion.json) |
 | Conquering Percents | 152026 | [152026-conquering-percents.json](./152026-conquering-percents.json) |
@@ -12587,6 +12590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupt Them All: Tokyo Meow | 370577 | [370577-corrupt-them-all-tokyo-meow.json](./370577-corrupt-them-all-tokyo-meow.json) |
 | Corrupt.exe | 408850 | [408850-corrupt-exe.json](./408850-corrupt-exe.json) |
 | Corrupted | 251063 | [251063-corrupted.json](./251063-corrupted.json) |
+| Corrupted | 288804 | [288804-corrupted.json](./288804-corrupted.json) |
 | Corrupted | 296806 | [296806-corrupted.json](./296806-corrupted.json) |
 | Corrupted | 96626 | [96626-corrupted.json](./96626-corrupted.json) |
 | Corrupted Basement | 375810 | [375810-corrupted-basement.json](./375810-corrupted-basement.json) |
