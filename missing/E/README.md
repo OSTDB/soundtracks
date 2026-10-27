@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-Shop Tycoon | 293624 | [293624-e-shop-tycoon.json](./293624-e-shop-tycoon.json) |
 | E-Shop Tycoon | 390034 | [390034-e-shop-tycoon.json](./390034-e-shop-tycoon.json) |
 | E-Startup | 96707 | [96707-e-startup.json](./96707-e-startup.json) |
+| E-Startup 2: Business Tycoon | 292488 | [292488-e-startup-2-business-tycoon.json](./292488-e-startup-2-business-tycoon.json) |
 | E-Tech Simulator | 308960 | [308960-e-tech-simulator.json](./308960-e-tech-simulator.json) |
 | E.B. | 129049 | [129049-e-b.json](./129049-e-b.json) |
 | E.C.H.O.S | 400266 | [400266-e-c-h-o-s.json](./400266-e-c-h-o-s.json) |
