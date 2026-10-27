@@ -15173,6 +15173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Runner 3D | 106780 | [106780-moto-runner-3d.json](./106780-moto-runner-3d.json) |
 | Moto Rush GT | 115751 | [115751-moto-rush-gt.json](./115751-moto-rush-gt.json) |
 | Moto Rush GT + Food Truck Tycoon | 251111 | [251111-moto-rush-gt-food-truck-tycoon.json](./251111-moto-rush-gt-food-truck-tycoon.json) |
+| Moto Rush GT + Urban Flow + Train Traffic Manager | 284871 | [284871-moto-rush-gt-urban-flow-train-traffic-manager.json](./284871-moto-rush-gt-urban-flow-train-traffic-manager.json) |
 | Moto Rush GT Asphalt Fury | 378968 | [378968-moto-rush-gt-asphalt-fury.json](./378968-moto-rush-gt-asphalt-fury.json) |
 | Moto Rush GT City Adrenaline | 385169 | [385169-moto-rush-gt-city-adrenaline.json](./385169-moto-rush-gt-city-adrenaline.json) |
 | Moto Rush GT Night Chase | 385170 | [385170-moto-rush-gt-night-chase.json](./385170-moto-rush-gt-night-chase.json) |
@@ -16499,6 +16500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder in a Wheel | 62153 | [62153-murder-in-a-wheel.json](./62153-murder-in-a-wheel.json) |
 | Murder in Crayontopia | 337522 | [337522-murder-in-crayontopia.json](./337522-murder-in-crayontopia.json) |
 | Murder in the Maze | 308418 | [308418-murder-in-the-maze.json](./308418-murder-in-the-maze.json) |
+| Murder in the Snow Bundle | 284759 | [284759-murder-in-the-snow-bundle.json](./284759-murder-in-the-snow-bundle.json) |
 | Murder In Venice | 47792 | [47792-murder-in-venice.json](./47792-murder-in-venice.json) |
 | Murder Inc | 333442 | [333442-murder-inc.json](./333442-murder-inc.json) |
 | Murder Is Game Over | 197110 | [197110-murder-is-game-over.json](./197110-murder-is-game-over.json) |
@@ -17010,6 +17012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX Racing World | 364704 | [364704-mx-racing-world.json](./364704-mx-racing-world.json) |
 | MX Simulator | 21182 | [21182-mx-simulator.json](./21182-mx-simulator.json) |
 | MX Superfly | 4024 | [4024-mx-superfly.json](./4024-mx-superfly.json) |
+| MX vs ATV Legends: Husqvarna Pack 2023 | 285062 | [285062-mx-vs-atv-legends-husqvarna-pack-2023.json](./285062-mx-vs-atv-legends-husqvarna-pack-2023.json) |
 | MX vs ATV: Legends - Yamaha Pack 2023 | 288051 | [288051-mx-vs-atv-legends-yamaha-pack-2023.json](./288051-mx-vs-atv-legends-yamaha-pack-2023.json) |
 | MX vs. ATV All Out: 2011 Kawasaki KFX450R | 315218 | [315218-mx-vs-atv-all-out-2011-kawasaki-kfx450r.json](./315218-mx-vs-atv-all-out-2011-kawasaki-kfx450r.json) |
 | MX vs. ATV All Out: 2011 Suzuki LT-R450 | 315219 | [315219-mx-vs-atv-all-out-2011-suzuki-lt-r450.json](./315219-mx-vs-atv-all-out-2011-suzuki-lt-r450.json) |
@@ -18282,6 +18285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myeong Wol | 125894 | [125894-myeong-wol.json](./125894-myeong-wol.json) |
 | Myether | 184888 | [184888-myether.json](./184888-myether.json) |
 | myFishtank | 77583 | [77583-myfishtank.json](./77583-myfishtank.json) |
+| MyGF: Another | 285060 | [285060-mygf-another.json](./285060-mygf-another.json) |
 | Mygnar | 151130 | [151130-mygnar.json](./151130-mygnar.json) |
 | Myha: Return to the Lost Island | 116558 | [116558-myha-return-to-the-lost-island.json](./116558-myha-return-to-the-lost-island.json) |
 | MyHoriZen | 153935 | [153935-myhorizen.json](./153935-myhorizen.json) |
