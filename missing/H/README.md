@@ -1249,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hannah Montana: Rock out the Show | 44487 | [44487-hannah-montana-rock-out-the-show.json](./44487-hannah-montana-rock-out-the-show.json) |
 | Hannah Montana: Spotlight World Tour | 50611 | [50611-hannah-montana-spotlight-world-tour.json](./50611-hannah-montana-spotlight-world-tour.json) |
 | Hannah Montana: The Movie | 7006 | [7006-hannah-montana-the-movie.json](./7006-hannah-montana-the-movie.json) |
+| Hannah Montana: Wireless Quest | 283566 | [283566-hannah-montana-wireless-quest.json](./283566-hannah-montana-wireless-quest.json) |
 | Hannah's Day | 289819 | [289819-hannahs-day.json](./289819-hannahs-day.json) |
 | Hannibal | 405536 | [405536-hannibal.json](./405536-hannibal.json) |
 | Hannibal: Rome and Carthage in the Second Punic War | 129583 | [129583-hannibal-rome-and-carthage-in-the-second-punic-war.json](./129583-hannibal-rome-and-carthage-in-the-second-punic-war.json) |
@@ -4980,6 +4981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Law | 351679 | [351679-hero-of-law.json](./351679-hero-of-law.json) |
 | Hero of Many | 17339 | [17339-hero-of-many.json](./17339-hero-of-many.json) |
 | Hero of Memory | 177227 | [177227-hero-of-memory.json](./177227-hero-of-memory.json) |
+| Hero of Minotaurs | 283540 | [283540-hero-of-minotaurs.json](./283540-hero-of-minotaurs.json) |
 | Hero of Not Our Time | 144818 | [144818-hero-of-not-our-time.json](./144818-hero-of-not-our-time.json) |
 | Hero of Sparta | 21690 | [21690-hero-of-sparta.json](./21690-hero-of-sparta.json) |
 | Hero of Sparta II | 21691 | [21691-hero-of-sparta-ii.json](./21691-hero-of-sparta-ii.json) |
@@ -8168,6 +8170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - Finest Duel Under the Pristine Blue | 308417 | [308417-honkai-star-rail-finest-duel-under-the-pristine-blue.json](./308417-honkai-star-rail-finest-duel-under-the-pristine-blue.json) |
 | Honkai: Star Rail - Flying Aureus Shot to Lupine Rue | 315162 | [315162-honkai-star-rail-flying-aureus-shot-to-lupine-rue.json](./315162-honkai-star-rail-flying-aureus-shot-to-lupine-rue.json) |
 | Honkai: Star Rail - Galactic Roaming | 257051 | [257051-honkai-star-rail-galactic-roaming.json](./257051-honkai-star-rail-galactic-roaming.json) |
+| Honkai: Star Rail - If One Dreams At Midnight | 283537 | [283537-honkai-star-rail-if-one-dreams-at-midnight.json](./283537-honkai-star-rail-if-one-dreams-at-midnight.json) |
 | Honkai: Star Rail - In Ravages Does the Whistle Sound | 408877 | [408877-honkai-star-rail-in-ravages-does-the-whistle-sound.json](./408877-honkai-star-rail-in-ravages-does-the-whistle-sound.json) |
 | Honkai: Star Rail - Into the Yawning Chasm | 290387 | [290387-honkai-star-rail-into-the-yawning-chasm.json](./290387-honkai-star-rail-into-the-yawning-chasm.json) |
 | Honkai: Star Rail - Jolted Awake From a Winter Dream | 268380 | [268380-honkai-star-rail-jolted-awake-from-a-winter-dream.json](./268380-honkai-star-rail-jolted-awake-from-a-winter-dream.json) |
