@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Galleria: The Moon Society - Great Hat Quest | 232467 | [232467-labyrinth-of-galleria-the-moon-society-great-hat-quest.json](./232467-labyrinth-of-galleria-the-moon-society-great-hat-quest.json) |
 | Labyrinth of Galleria: The Moon Society - Quest Set | 237804 | [237804-labyrinth-of-galleria-the-moon-society-quest-set.json](./237804-labyrinth-of-galleria-the-moon-society-quest-set.json) |
 | Labyrinth of Galleria: The Moon Society - Special Soul Pact Quest | 232468 | [232468-labyrinth-of-galleria-the-moon-society-special-soul-pact-quest.json](./232468-labyrinth-of-galleria-the-moon-society-special-soul-pact-quest.json) |
+| Labyrinth of Legends: Roguelike Battle Quest | 284943 | [284943-labyrinth-of-legends-roguelike-battle-quest.json](./284943-labyrinth-of-legends-roguelike-battle-quest.json) |
 | Labyrinth of Light | 236796 | [236796-labyrinth-of-light.json](./236796-labyrinth-of-light.json) |
 | Labyrinth of Loci | 57510 | [57510-labyrinth-of-loci.json](./57510-labyrinth-of-loci.json) |
 | Labyrinth of Luna | 188308 | [188308-labyrinth-of-luna.json](./188308-labyrinth-of-luna.json) |
@@ -1623,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazer Command | 40335 | [40335-lazer-command.json](./40335-lazer-command.json) |
 | Lazer Cycle | 8399 | [8399-lazer-cycle.json](./8399-lazer-cycle.json) |
 | Lazer Force | 53161 | [53161-lazer-force.json](./53161-lazer-force.json) |
+| Lazer Maze | 285056 | [285056-lazer-maze.json](./285056-lazer-maze.json) |
 | Lazer Tag | 54536 | [54536-lazer-tag.json](./54536-lazer-tag.json) |
 | Lazer Tag Arena | 340907 | [340907-lazer-tag-arena.json](./340907-lazer-tag-arena.json) |
 | Lazer Wheel | 38920 | [38920-lazer-wheel.json](./38920-lazer-wheel.json) |
@@ -7419,6 +7421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love in the Glen | 33083 | [33083-love-in-the-glen.json](./33083-love-in-the-glen.json) |
 | Love in the Limelight | 119589 | [119589-love-in-the-limelight.json](./119589-love-in-the-limelight.json) |
 | Love in the Time of Spellphage | 364524 | [364524-love-in-the-time-of-spellphage.json](./364524-love-in-the-time-of-spellphage.json) |
+| Love In the Valley | 284745 | [284745-love-in-the-valley.json](./284745-love-in-the-valley.json) |
 | Love In Tiny Spaces | 325341 | [325341-love-in-tiny-spaces.json](./325341-love-in-tiny-spaces.json) |
 | Love is a Canvas | 210315 | [210315-love-is-a-canvas.json](./210315-love-is-a-canvas.json) |
 | Love Is All Around | 253391 | [253391-love-is-all-around.json](./253391-love-is-all-around.json) |
