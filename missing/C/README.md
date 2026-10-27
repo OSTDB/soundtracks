@@ -1455,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capitals Quizzer: Regions Mode | 257463 | [257463-capitals-quizzer-regions-mode.json](./257463-capitals-quizzer-regions-mode.json) |
 | Capitol Diktatoria | 413908 | [413908-capitol-diktatoria.json](./413908-capitol-diktatoria.json) |
 | Capitol Hill | 94621 | [94621-capitol-hill.json](./94621-capitol-hill.json) |
+| Capoeira Fighter | 291503 | [291503-capoeira-fighter.json](./291503-capoeira-fighter.json) |
 | Capoeira Fighter 3 | 93988 | [93988-capoeira-fighter-3.json](./93988-capoeira-fighter-3.json) |
 | Capoeira Origins | 366874 | [366874-capoeira-origins.json](./366874-capoeira-origins.json) |
 | CapoeiRogue: Dandara Cordão de Ouro | 215919 | [215919-capoeirogue-dandara-cordao-de-ouro.json](./215919-capoeirogue-dandara-cordao-de-ouro.json) |
@@ -12665,6 +12666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Cash | 117782 | [117782-cosmic-cash.json](./117782-cosmic-cash.json) |
 | Cosmic Castaway | 177731 | [177731-cosmic-castaway.json](./177731-cosmic-castaway.json) |
 | Cosmic Castaway | 380084 | [380084-cosmic-castaway.json](./380084-cosmic-castaway.json) |
+| Cosmic Castaways | 291409 | [291409-cosmic-castaways.json](./291409-cosmic-castaways.json) |
 | Cosmic Cat | 175072 | [175072-cosmic-cat.json](./175072-cosmic-cat.json) |
 | Cosmic Cat | 361677 | [361677-cosmic-cat.json](./361677-cosmic-cat.json) |
 | Cosmic Causeway: Trailblazer II | 40936 | [40936-cosmic-causeway-trailblazer-ii.json](./40936-cosmic-causeway-trailblazer-ii.json) |
@@ -15766,6 +15768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptorig | 203965 | [203965-cryptorig.json](./203965-cryptorig.json) |
 | Cryptr | 201673 | [201673-cryptr.json](./201673-cryptr.json) |
 | Cryptract | 110859 | [110859-cryptract.json](./110859-cryptract.json) |
+| Cryptrio | 291501 | [291501-cryptrio.json](./291501-cryptrio.json) |
 | Cryptrunner | 117090 | [117090-cryptrunner.json](./117090-cryptrunner.json) |
 | Crypts & Curves | 344880 | [344880-crypts-and-curves.json](./344880-crypts-and-curves.json) |
 | Crypts of Carith | 387528 | [387528-crypts-of-carith.json](./387528-crypts-of-carith.json) |
@@ -15816,6 +15819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Chaser: Tenkuu no Masuishou | 402986 | [402986-crystal-chaser-tenkuu-no-masuishou.json](./402986-crystal-chaser-tenkuu-no-masuishou.json) |
 | Crystal Chaser: Tenkuu no Masuishou - R | 402994 | [402994-crystal-chaser-tenkuu-no-masuishou-r.json](./402994-crystal-chaser-tenkuu-no-masuishou-r.json) |
 | Crystal Chip Collector e | 277248 | [277248-crystal-chip-collector-e.json](./277248-crystal-chip-collector-e.json) |
+| Crystal Chip Collector: Hidden Gem | 291416 | [291416-crystal-chip-collector-hidden-gem.json](./291416-crystal-chip-collector-hidden-gem.json) |
 | Crystal City | 32639 | [32639-crystal-city.json](./32639-crystal-city.json) |
 | Crystal Clash | 185954 | [185954-crystal-clash.json](./185954-crystal-clash.json) |
 | Crystal Clear | 129587 | [129587-crystal-clear.json](./129587-crystal-clear.json) |
@@ -16232,6 +16236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubenen Gardens: Kingdom | 417664 | [417664-cubenen-gardens-kingdom.json](./417664-cubenen-gardens-kingdom.json) |
 | Cubenomics | 244598 | [244598-cubenomics.json](./244598-cubenomics.json) |
 | Cubeology | 107789 | [107789-cubeology.json](./107789-cubeology.json) |
+| CubeOS | 291507 | [291507-cubeos.json](./291507-cubeos.json) |
 | CubePuzzle | 163546 | [163546-cubepuzzle.json](./163546-cubepuzzle.json) |
 | Cuber | 254584 | [254584-cuber.json](./254584-cuber.json) |
 | Cuber | 365458 | [365458-cuber.json](./365458-cuber.json) |
@@ -16594,6 +16599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupids Love Crisis | 108348 | [108348-cupids-love-crisis.json](./108348-cupids-love-crisis.json) |
 | Cupig's Key Collectathon | 313183 | [313183-cupigs-key-collectathon.json](./313183-cupigs-key-collectathon.json) |
 | Cupky Jump | 252157 | [252157-cupky-jump.json](./252157-cupky-jump.json) |
+| Cuplex | 291493 | [291493-cuplex.json](./291493-cuplex.json) |
 | Cuppy Coffee Sim | 359620 | [359620-cuppy-coffee-sim.json](./359620-cuppy-coffee-sim.json) |
 | Cuprum2929 | 311131 | [311131-cuprum2929.json](./311131-cuprum2929.json) |
 | Cups and Cats | 181722 | [181722-cups-and-cats.json](./181722-cups-and-cats.json) |
