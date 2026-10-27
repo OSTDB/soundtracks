@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall2Wall | 302775 | [302775-wall2wall.json](./302775-wall2wall.json) |
 | Wallaby!! Usagi no Kuni no Kangaroo Race | 62084 | [62084-wallaby-usagi-no-kuni-no-kangaroo-race.json](./62084-wallaby-usagi-no-kuni-no-kangaroo-race.json) |
 | Wallace & Gromit Adventures | 320995 | [320995-wallace-and-gromit-adventures.json](./320995-wallace-and-gromit-adventures.json) |
+| Wallace & Gromit DVD Game | 313053 | [313053-wallace-and-gromit-dvd-game.json](./313053-wallace-and-gromit-dvd-game.json) |
 | Wallace & Gromit Fun Pack | 73124 | [73124-wallace-and-gromit-fun-pack.json](./73124-wallace-and-gromit-fun-pack.json) |
 | Wallace & Gromit: Cracking Animator | 332374 | [332374-wallace-and-gromit-cracking-animator.json](./332374-wallace-and-gromit-cracking-animator.json) |
 | Wallace & Gromit: Invention Suspension | 320877 | [320877-wallace-and-gromit-invention-suspension.json](./320877-wallace-and-gromit-invention-suspension.json) |
