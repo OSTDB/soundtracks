@@ -4658,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senkou no Clarias | 180766 | [180766-senkou-no-clarias.json](./180766-senkou-no-clarias.json) |
 | Senli 307 | 224618 | [224618-senli-307.json](./224618-senli-307.json) |
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
+| Senninha | 281875 | [281875-senninha.json](./281875-senninha.json) |
 | Senninha GP Racing | 203290 | [203290-senninha-gp-racing.json](./203290-senninha-gp-racing.json) |
 | Senora | 136231 | [136231-senora.json](./136231-senora.json) |
 | Senpai and the Mysterious Island | 325686 | [325686-senpai-and-the-mysterious-island.json](./325686-senpai-and-the-mysterious-island.json) |
@@ -15686,6 +15687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOS | 72334 | [72334-sos.json](./72334-sos.json) |
 | SOS Atlas | 104796 | [104796-sos-atlas.json](./104796-sos-atlas.json) |
 | SOS Defense | 108455 | [108455-sos-defense.json](./108455-sos-defense.json) |
+| SOS Mata Atlântica: O Jogo | 281872 | [281872-sos-mata-atlantica-o-jogo.json](./281872-sos-mata-atlantica-o-jogo.json) |
 | SOS Naufrágio | 405498 | [405498-sos-naufragio.json](./405498-sos-naufragio.json) |
 | SOS OPS! | 258837 | [258837-sos-ops.json](./258837-sos-ops.json) |
 | SOS OPS!: Guns n' Ops | 297553 | [297553-sos-ops-guns-n-ops.json](./297553-sos-ops-guns-n-ops.json) |
@@ -19164,6 +19166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: The Fry Cook Games | 220115 | [220115-spongebob-squarepants-the-fry-cook-games.json](./220115-spongebob-squarepants-the-fry-cook-games.json) |
 | SpongeBob SquarePants: The Patrick Star Game | 314939 | [314939-spongebob-squarepants-the-patrick-star-game.json](./314939-spongebob-squarepants-the-patrick-star-game.json) |
 | SpongeBob SquarePants: The Yellow Avenger | 2770 | [2770-spongebob-squarepants-the-yellow-avenger.json](./2770-spongebob-squarepants-the-yellow-avenger.json) |
+| SpongeBob SquarePants: The Yellow Avenger | 281852 | [281852-spongebob-squarepants-the-yellow-avenger.json](./281852-spongebob-squarepants-the-yellow-avenger.json) |
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
 | SpongeBob SquarePants: Titans of the Tide - Double Deluxe Costume Pack DLC | 376251 | [376251-spongebob-squarepants-titans-of-the-tide-double-deluxe-costume-pack-dlc.json](./376251-spongebob-squarepants-titans-of-the-tide-double-deluxe-costume-pack-dlc.json) |
 | SpongeBob SquarePants: Titans of the Tide - Natural Costume Pack | 376252 | [376252-spongebob-squarepants-titans-of-the-tide-natural-costume-pack.json](./376252-spongebob-squarepants-titans-of-the-tide-natural-costume-pack.json) |
@@ -25566,6 +25569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Memories: Deluxe Edition | 186897 | [186897-summer-memories-deluxe-edition.json](./186897-summer-memories-deluxe-edition.json) |
 | Summer Memory of Bell | 104811 | [104811-summer-memory-of-bell.json](./104811-summer-memory-of-bell.json) |
 | Summer Mission | 169259 | [169259-summer-mission.json](./169259-summer-mission.json) |
+| Summer Night | 281864 | [281864-summer-night.json](./281864-summer-night.json) |
 | Summer Nightmare | 293682 | [293682-summer-nightmare.json](./293682-summer-nightmare.json) |
 | Summer Nightmare | 29895 | [29895-summer-nightmare.json](./29895-summer-nightmare.json) |
 | Summer of '58 | 159221 | [159221-summer-of-58.json](./159221-summer-of-58.json) |
@@ -29228,6 +29232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Game Master | 212477 | [212477-survival-game-master.json](./212477-survival-game-master.json) |
 | Survival Games | 402335 | [402335-survival-games.json](./402335-survival-games.json) |
 | Survival Gladiator: Blades of the Coliseum | 322978 | [322978-survival-gladiator-blades-of-the-coliseum.json](./322978-survival-gladiator-blades-of-the-coliseum.json) |
+| Survival Guide 2 | 282160 | [282160-survival-guide-2.json](./282160-survival-guide-2.json) |
 | Survival Hell | 110514 | [110514-survival-hell.json](./110514-survival-hell.json) |
 | Survival Hold Your Self | 342077 | [342077-survival-hold-your-self.json](./342077-survival-hold-your-self.json) |
 | Survival Horror #8,436 | 147205 | [147205-survival-horror-8-436.json](./147205-survival-horror-8-436.json) |
