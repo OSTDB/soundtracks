@@ -8191,6 +8191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade vs. Undead | 339936 | [339936-blade-vs-undead.json](./339936-blade-vs-undead.json) |
 | Blade Warrior | 13406 | [13406-blade-warrior.json](./13406-blade-warrior.json) |
 | Blade Warrior | 14313 | [14313-blade-warrior.json](./14313-blade-warrior.json) |
+| Blade Warrior | 311029 | [311029-blade-warrior.json](./311029-blade-warrior.json) |
 | Blade X: End of Darkness | 381878 | [381878-blade-x-end-of-darkness.json](./381878-blade-x-end-of-darkness.json) |
 | Blade-Shift Rage | 219209 | [219209-blade-shift-rage.json](./219209-blade-shift-rage.json) |
 | Blade: Trinity | 322358 | [322358-blade-trinity.json](./322358-blade-trinity.json) |
@@ -11997,6 +11998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling X | 68642 | [68642-bowling-x.json](./68642-bowling-x.json) |
 | Bowling Xciting | 56962 | [56962-bowling-xciting.json](./56962-bowling-xciting.json) |
 | Bowling: Breakthrough Gaming Arcade | 187749 | [187749-bowling-breakthrough-gaming-arcade.json](./187749-bowling-breakthrough-gaming-arcade.json) |
+| Bowling: Ninepins | 310984 | [310984-bowling-ninepins.json](./310984-bowling-ninepins.json) |
 | Bowling! / Basketball! | 80209 | [80209-bowling-basketball.json](./80209-bowling-basketball.json) |
 | Bowlout | 224969 | [224969-bowlout.json](./224969-bowlout.json) |
 | Bowls | 14337 | [14337-bowls.json](./14337-bowls.json) |
@@ -12162,6 +12164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Life Simulator | 407483 | [407483-boxing-life-simulator.json](./407483-boxing-life-simulator.json) |
 | Boxing Live 2014 | 102051 | [102051-boxing-live-2014.json](./102051-boxing-live-2014.json) |
 | Boxing Manager | 13430 | [13430-boxing-manager.json](./13430-boxing-manager.json) |
+| Boxing Match | 310986 | [310986-boxing-match.json](./310986-boxing-match.json) |
 | Boxing Pun | 183843 | [183843-boxing-pun.json](./183843-boxing-pun.json) |
 | Boxing Revolution: Boxing Games - Knock Out | 104434 | [104434-boxing-revolution-boxing-games-knock-out.json](./104434-boxing-revolution-boxing-games-knock-out.json) |
 | Boxing Saga | 31364 | [31364-boxing-saga.json](./31364-boxing-saga.json) |
