@@ -4237,6 +4237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petrifaction | 97825 | [97825-petrifaction.json](./97825-petrifaction.json) |
 | Petrified Pawns | 318287 | [318287-petrified-pawns.json](./318287-petrified-pawns.json) |
 | Petris | 141595 | [141595-petris.json](./141595-petris.json) |
+| Petris | 291946 | [291946-petris.json](./291946-petris.json) |
 | Petrol Blood | 156134 | [156134-petrol-blood.json](./156134-petrol-blood.json) |
 | Petrol Station Sim | 263780 | [263780-petrol-station-sim.json](./263780-petrol-station-sim.json) |
 | Petroleum Explore: Drill & Sell | 227504 | [227504-petroleum-explore-drill-and-sell.json](./227504-petroleum-explore-drill-and-sell.json) |
@@ -5138,6 +5139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picnic Girls | 376760 | [376760-picnic-girls.json](./376760-picnic-girls.json) |
 | Picnic Paranoia | 18560 | [18560-picnic-paranoia.json](./18560-picnic-paranoia.json) |
 | Picnic Penguin | 202142 | [202142-picnic-penguin.json](./202142-picnic-penguin.json) |
+| Picnic Peril | 291944 | [291944-picnic-peril.json](./291944-picnic-peril.json) |
 | Picnic Syndrome | 341578 | [341578-picnic-syndrome.json](./341578-picnic-syndrome.json) |
 | Picnic Wars | 20805 | [20805-picnic-wars.json](./20805-picnic-wars.json) |
 | Pico de Pon | 279771 | [279771-pico-de-pon.json](./279771-pico-de-pon.json) |
@@ -8235,6 +8237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platro | 31346 | [31346-platro.json](./31346-platro.json) |
 | Platswarmers | 374235 | [374235-platswarmers.json](./374235-platswarmers.json) |
 | Plättchen Twist 'n' Paint | 21801 | [21801-plattchen-twist-n-paint.json](./21801-plattchen-twist-n-paint.json) |
+| PlatterMania | 291970 | [291970-plattermania.json](./291970-plattermania.json) |
 | Plattis | 341569 | [341569-plattis.json](./341569-plattis.json) |
 | Platty Game | 417678 | [417678-platty-game.json](./417678-platty-game.json) |
 | Platwormer | 181325 | [181325-platwormer.json](./181325-platwormer.json) |
