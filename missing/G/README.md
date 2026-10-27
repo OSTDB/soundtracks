@@ -8489,6 +8489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Girls: Astral Battle | 298624 | [298624-guardian-girls-astral-battle.json](./298624-guardian-girls-astral-battle.json) |
 | Guardian Goddess | 255177 | [255177-guardian-goddess.json](./255177-guardian-goddess.json) |
 | Guardian Goddess | 291577 | [291577-guardian-goddess.json](./291577-guardian-goddess.json) |
+| Guardian Grids | 326540 | [326540-guardian-grids.json](./326540-guardian-grids.json) |
 | Guardian Hearts Online | 64445 | [64445-guardian-hearts-online.json](./64445-guardian-hearts-online.json) |
 | Guardian Heroes | 21838 | [21838-guardian-heroes.json](./21838-guardian-heroes.json) |
 | Guardian Hunter | 58649 | [58649-guardian-hunter.json](./58649-guardian-hunter.json) |
