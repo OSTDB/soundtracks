@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Heart Of Iron | 397692 | [397692-a-heart-of-iron.json](./397692-a-heart-of-iron.json) |
 | A Heavy Morning | 347840 | [347840-a-heavy-morning.json](./347840-a-heavy-morning.json) |
 | A Hell of a Journey | 200541 | [200541-a-hell-of-a-journey.json](./200541-a-hell-of-a-journey.json) |
+| A Helping Hand | 316014 | [316014-a-helping-hand.json](./316014-a-helping-hand.json) |
 | A Hermit Crab is Finding a House | 157114 | [157114-a-hermit-crab-is-finding-a-house.json](./157114-a-hermit-crab-is-finding-a-house.json) |
 | A Hero and a Garden | 137072 | [137072-a-hero-and-a-garden.json](./137072-a-hero-and-a-garden.json) |
 | A Hero Once More | 252918 | [252918-a-hero-once-more.json](./252918-a-hero-once-more.json) |
@@ -2302,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid Ball | 213058 | [213058-acid-ball.json](./213058-acid-ball.json) |
 | Acid Drop | 11111 | [11111-acid-drop.json](./11111-acid-drop.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
+| Acid Factory | 316099 | [316099-acid-factory.json](./316099-acid-factory.json) |
 | Acid Girls' Escape | 205568 | [205568-acid-girls-escape.json](./205568-acid-girls-escape.json) |
 | Acid Knife | 126869 | [126869-acid-knife.json](./126869-acid-knife.json) |
 | Acid Moon | 135092 | [135092-acid-moon.json](./135092-acid-moon.json) |
@@ -2978,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Island: The Beginning | 50697 | [50697-adventure-island-the-beginning.json](./50697-adventure-island-the-beginning.json) |
 | Adventure Joystick | 214687 | [214687-adventure-joystick.json](./214687-adventure-joystick.json) |
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
+| Adventure Kitty: Drill Buster - Lights Out | 316028 | [316028-adventure-kitty-drill-buster-lights-out.json](./316028-adventure-kitty-drill-buster-lights-out.json) |
 | Adventure Lamp | 24040 | [24040-adventure-lamp.json](./24040-adventure-lamp.json) |
 | Adventure Land: The Code MMORPG | 113728 | [113728-adventure-land-the-code-mmorpg.json](./113728-adventure-land-the-code-mmorpg.json) |
 | Adventure Learning Inside Humans | 356071 | [356071-adventure-learning-inside-humans.json](./356071-adventure-learning-inside-humans.json) |
@@ -3916,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Kita | 208205 | [208205-age-of-kita.json](./208205-age-of-kita.json) |
 | Age of Legacy | 402104 | [402104-age-of-legacy.json](./402104-age-of-legacy.json) |
 | Age of Legion | 148968 | [148968-age-of-legion.json](./148968-age-of-legion.json) |
+| Age of Luigi | 316027 | [316027-age-of-luigi.json](./316027-age-of-luigi.json) |
 | Age of Mage | 176191 | [176191-age-of-mage.json](./176191-age-of-mage.json) |
 | Age of Magic CCG | 33894 | [33894-age-of-magic-ccg.json](./33894-age-of-magic-ccg.json) |
 | Age of Mahjong | 52376 | [52376-age-of-mahjong.json](./52376-age-of-mahjong.json) |
@@ -4629,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne Ranger: FightOut | 340838 | [340838-airborne-ranger-fightout.json](./340838-airborne-ranger-fightout.json) |
 | Airborne Troops: Countdown to D-Day | 27451 | [27451-airborne-troops-countdown-to-d-day.json](./27451-airborne-troops-countdown-to-d-day.json) |
 | Airborne! | 95457 | [95457-airborne.json](./95457-airborne.json) |
+| Airbreak | 316035 | [316035-airbreak.json](./316035-airbreak.json) |
 | AirBurst | 77643 | [77643-airburst.json](./77643-airburst.json) |
 | Aircar | 121309 | [121309-aircar.json](./121309-aircar.json) |
 | Aircoaster | 66731 | [66731-aircoaster.json](./66731-aircoaster.json) |
@@ -6946,6 +6951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Love: Cupid's Arrows | 232570 | [232570-amazing-love-cupids-arrows.json](./232570-amazing-love-cupids-arrows.json) |
 | Amazing Machines | 187385 | [187385-amazing-machines.json](./187385-amazing-machines.json) |
 | Amazing Mahjong: Zen | 89743 | [89743-amazing-mahjong-zen.json](./89743-amazing-mahjong-zen.json) |
+| Amazing Math Starring Marvel Super Heroes | 316021 | [316021-amazing-math-starring-marvel-super-heroes.json](./316021-amazing-math-starring-marvel-super-heroes.json) |
 | Amazing Maze | 18115 | [18115-amazing-maze.json](./18115-amazing-maze.json) |
 | Amazing Maze | 217486 | [217486-amazing-maze.json](./217486-amazing-maze.json) |
 | Amazing Maze / Tic-Tac-Toe | 169264 | [169264-amazing-maze-tic-tac-toe.json](./169264-amazing-maze-tic-tac-toe.json) |
