@@ -2059,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Forever | 51879 | [51879-rayman-forever.json](./51879-rayman-forever.json) |
 | Rayman Funpack | 193340 | [193340-rayman-funpack.json](./193340-rayman-funpack.json) |
 | Rayman Garden | 61095 | [61095-rayman-garden.json](./61095-rayman-garden.json) |
+| Rayman Garden Plus | 330063 | [330063-rayman-garden-plus.json](./330063-rayman-garden-plus.json) |
 | Rayman Gold | 61096 | [61096-rayman-gold.json](./61096-rayman-gold.json) |
 | Rayman Golf | 61094 | [61094-rayman-golf.json](./61094-rayman-golf.json) |
 | Rayman IV | 312033 | [312033-rayman-iv.json](./312033-rayman-iv.json) |
@@ -2069,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Legends Challenges App | 2925 | [2925-rayman-legends-challenges-app.json](./2925-rayman-legends-challenges-app.json) |
 | Rayman Legends: Definitive Edition | 27239 | [27239-rayman-legends-definitive-edition.json](./27239-rayman-legends-definitive-edition.json) |
 | Rayman Legends/Rayman Origins | 138688 | [138688-rayman-legends-rayman-origins.json](./138688-rayman-legends-rayman-origins.json) |
+| Rayman Lum'o'Grams | 330064 | [330064-rayman-lumograms.json](./330064-rayman-lumograms.json) |
 | Rayman Mini | 122560 | [122560-rayman-mini.json](./122560-rayman-mini.json) |
 | Rayman Origins | 288944 | [288944-rayman-origins.json](./288944-rayman-origins.json) |
 | Rayman Raving Rabbids | 193362 | [193362-rayman-raving-rabbids.json](./193362-rayman-raving-rabbids.json) |
@@ -3826,6 +3828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regeneration Engine | 400184 | [400184-regeneration-engine.json](./400184-regeneration-engine.json) |
 | Regenesis | 238620 | [238620-regenesis.json](./238620-regenesis.json) |
 | Regenesis Ultimatum | 258120 | [258120-regenesis-ultimatum.json](./258120-regenesis-ultimatum.json) |
+| Regenti Rebelia | 330071 | [330071-regenti-rebelia.json](./330071-regenti-rebelia.json) |
 | Regeria Hope Episode 1 | 33403 | [33403-regeria-hope-episode-1.json](./33403-regeria-hope-episode-1.json) |
 | Reggie's Adventures: Part 1 - Escape From Paradise | 230502 | [230502-reggies-adventures-part-1-escape-from-paradise.json](./230502-reggies-adventures-part-1-escape-from-paradise.json) |
 | Reggor F. | 361722 | [361722-reggor-f.json](./361722-reggor-f.json) |
@@ -9599,6 +9602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette Knight | 101008 | [101008-roulette-knight.json](./101008-roulette-knight.json) |
 | Roulette Knight | 178687 | [178687-roulette-knight.json](./178687-roulette-knight.json) |
 | Roulette Pro Simulator | 348299 | [348299-roulette-pro-simulator.json](./348299-roulette-pro-simulator.json) |
+| Roulette Rush | 330097 | [330097-roulette-rush.json](./330097-roulette-rush.json) |
 | Roulette Simulator | 82001 | [82001-roulette-simulator.json](./82001-roulette-simulator.json) |
 | Roulette Simulator 2 | 385989 | [385989-roulette-simulator-2.json](./385989-roulette-simulator-2.json) |
 | Roulette Simulator 2024 | 266804 | [266804-roulette-simulator-2024.json](./266804-roulette-simulator-2024.json) |
