@@ -3831,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Delirium | 400048 | [400048-age-of-delirium.json](./400048-age-of-delirium.json) |
 | Age of Discovery | 199457 | [199457-age-of-discovery.json](./199457-age-of-discovery.json) |
 | Age of DOOM | 218053 | [218053-age-of-doom.json](./218053-age-of-doom.json) |
+| Age Of Dynasties | 317827 | [317827-age-of-dynasties.json](./317827-age-of-dynasties.json) |
 | Age of Dynasties: Shogun | 219260 | [219260-age-of-dynasties-shogun.json](./219260-age-of-dynasties-shogun.json) |
 | Age of Dynasty | 213428 | [213428-age-of-dynasty.json](./213428-age-of-dynasty.json) |
 | Age of Ember | 183853 | [183853-age-of-ember.json](./183853-age-of-ember.json) |
@@ -3922,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Mythology: Extended Edition | 9902 | [9902-age-of-mythology-extended-edition.json](./9902-age-of-mythology-extended-edition.json) |
 | Age of Mythology: Gold Edition | 129851 | [129851-age-of-mythology-gold-edition.json](./129851-age-of-mythology-gold-edition.json) |
 | Age of Mythology: Retold - Heavenly Spear | 348197 | [348197-age-of-mythology-retold-heavenly-spear.json](./348197-age-of-mythology-retold-heavenly-spear.json) |
+| Age of Mythology: Retold - Immortal Pillars | 317873 | [317873-age-of-mythology-retold-immortal-pillars.json](./317873-age-of-mythology-retold-immortal-pillars.json) |
 | Age of Mythology: Retold - New Gods Pack: Demeter | 399022 | [399022-age-of-mythology-retold-new-gods-pack-demeter.json](./399022-age-of-mythology-retold-new-gods-pack-demeter.json) |
 | Age of Mythology: Retold - Obsidian Mirror | 395818 | [395818-age-of-mythology-retold-obsidian-mirror.json](./395818-age-of-mythology-retold-obsidian-mirror.json) |
 | Age of Mythology: Retold - Premium Edition | 331245 | [331245-age-of-mythology-retold-premium-edition.json](./331245-age-of-mythology-retold-premium-edition.json) |
@@ -8671,6 +8673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls Jigsaw Puzzles | 384007 | [384007-anime-girls-jigsaw-puzzles.json](./384007-anime-girls-jigsaw-puzzles.json) |
 | Anime Girls Trample | 379535 | [379535-anime-girls-trample.json](./379535-anime-girls-trample.json) |
 | Anime Girls vs. Soldiers | 191043 | [191043-anime-girls-vs-soldiers.json](./191043-anime-girls-vs-soldiers.json) |
+| Anime Girls: Beautiful Bride | 317881 | [317881-anime-girls-beautiful-bride.json](./317881-anime-girls-beautiful-bride.json) |
 | Anime Girls: Bouncy Basketball | 342214 | [342214-anime-girls-bouncy-basketball.json](./342214-anime-girls-bouncy-basketball.json) |
 | Anime Girls: Celebrity Crush | 368759 | [368759-anime-girls-celebrity-crush.json](./368759-anime-girls-celebrity-crush.json) |
 | Anime Girls: Cheerful Cosplay | 386174 | [386174-anime-girls-cheerful-cosplay.json](./386174-anime-girls-cheerful-cosplay.json) |
@@ -8718,6 +8721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Puzzle Quest: 36 Girls in Puzzle | 317952 | [317952-anime-puzzle-quest-36-girls-in-puzzle.json](./317952-anime-puzzle-quest-36-girls-in-puzzle.json) |
 | Anime Puzzle Quest: Complete DLC Bundle | 317962 | [317962-anime-puzzle-quest-complete-dlc-bundle.json](./317962-anime-puzzle-quest-complete-dlc-bundle.json) |
 | Anime Puzzle Quest: Deluxe Edition | 317918 | [317918-anime-puzzle-quest-deluxe-edition.json](./317918-anime-puzzle-quest-deluxe-edition.json) |
+| Anime Puzzle Quest: The Magical Girls Adventure | 317897 | [317897-anime-puzzle-quest-the-magical-girls-adventure.json](./317897-anime-puzzle-quest-the-magical-girls-adventure.json) |
 | Anime Quest: Mystic Maidens | 266169 | [266169-anime-quest-mystic-maidens.json](./266169-anime-quest-mystic-maidens.json) |
 | Anime Quiz Challenge | 405671 | [405671-anime-quiz-challenge.json](./405671-anime-quiz-challenge.json) |
 | Anime Rally | 326811 | [326811-anime-rally.json](./326811-anime-rally.json) |
@@ -12382,6 +12386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arui ha Koi to Iu Na no Mahou | 416690 | [416690-arui-ha-koi-to-iu-na-no-mahou.json](./416690-arui-ha-koi-to-iu-na-no-mahou.json) |
 | Aruma Ketera | 382787 | [382787-aruma-ketera.json](./382787-aruma-ketera.json) |
 | Aruna | 167889 | [167889-aruna.json](./167889-aruna.json) |
+| Aruruu to Asobo!! | 317805 | [317805-aruruu-to-asobo.json](./317805-aruruu-to-asobo.json) |
 | Arvale | 14787 | [14787-arvale.json](./14787-arvale.json) |
 | Arvis Knock Out! | 346379 | [346379-arvis-knock-out.json](./346379-arvis-knock-out.json) |
 | Arvis Punch | 329015 | [329015-arvis-punch.json](./329015-arvis-punch.json) |
