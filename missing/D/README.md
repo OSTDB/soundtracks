@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Day: America Invades | 69911 | [69911-d-day-america-invades.json](./69911-d-day-america-invades.json) |
 | D-Day: Normandy | 180210 | [180210-d-day-normandy.json](./180210-d-day-normandy.json) |
 | D-Day: The Beginning of the End | 12417 | [12417-d-day-the-beginning-of-the-end.json](./12417-d-day-the-beginning-of-the-end.json) |
+| D-Hospital | 301866 | [301866-d-hospital.json](./301866-d-hospital.json) |
 | D-List Diva | 270279 | [270279-d-list-diva.json](./270279-d-list-diva.json) |
 | D-Pad Hero | 163218 | [163218-d-pad-hero.json](./163218-d-pad-hero.json) |
 | D-Pad Hero 2 | 48649 | [48649-d-pad-hero-2.json](./48649-d-pad-hero-2.json) |
@@ -3417,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadland Chronicles | 294240 | [294240-deadland-chronicles.json](./294240-deadland-chronicles.json) |
 | Deadland Outlaws | 374929 | [374929-deadland-outlaws.json](./374929-deadland-outlaws.json) |
 | Deadland: Fallen Apartment | 385907 | [385907-deadland-fallen-apartment.json](./385907-deadland-fallen-apartment.json) |
+| Deadlands Duel: Time Rift Rumble | 301232 | [301232-deadlands-duel-time-rift-rumble.json](./301232-deadlands-duel-time-rift-rumble.json) |
 | Deadlands Noir: That Old Time Religion | 34911 | [34911-deadlands-noir-that-old-time-religion.json](./34911-deadlands-noir-that-old-time-religion.json) |
 | DeadlandVR | 102590 | [102590-deadlandvr.json](./102590-deadlandvr.json) |
 | Deadliest Catch: Alaskan Storm | 6962 | [6962-deadliest-catch-alaskan-storm.json](./6962-deadliest-catch-alaskan-storm.json) |
@@ -6781,6 +6783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Device of Bakudan | 244324 | [244324-device-of-bakudan.json](./244324-device-of-bakudan.json) |
 | Devicereign | 166500 | [166500-devicereign.json](./166500-devicereign.json) |
 | Devices Disruptive Offense Simulator | 407480 | [407480-devices-disruptive-offense-simulator.json](./407480-devices-disruptive-offense-simulator.json) |
+| Devices Tycoon | 301230 | [301230-devices-tycoon.json](./301230-devices-tycoon.json) |
 | Devidicon | 400459 | [400459-devidicon.json](./400459-devidicon.json) |
 | Deviens Miss France | 269745 | [269745-deviens-miss-france.json](./269745-deviens-miss-france.json) |
 | Devil Assault | 41197 | [41197-devil-assault.json](./41197-devil-assault.json) |
@@ -7030,6 +7033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DFP: Disappear From Polizia | 373098 | [373098-dfp-disappear-from-polizia.json](./373098-dfp-disappear-from-polizia.json) |
 | Dfragmente | 76555 | [76555-dfragmente.json](./76555-dfragmente.json) |
 | Dfuse | 314423 | [314423-dfuse.json](./314423-dfuse.json) |
+| DGGWare | 301292 | [301292-dggware.json](./301292-dggware.json) |
 | DGU: Death God University | 35689 | [35689-dgu-death-god-university.json](./35689-dgu-death-god-university.json) |
 | DGU: Death God University - Finals Week | 165962 | [165962-dgu-death-god-university-finals-week.json](./165962-dgu-death-god-university-finals-week.json) |
 | DGU: Death God University - Midterm Mania | 171457 | [171457-dgu-death-god-university-midterm-mania.json](./171457-dgu-death-god-university-midterm-mania.json) |
@@ -14044,6 +14048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill and Dig! | 296817 | [296817-drill-and-dig.json](./296817-drill-and-dig.json) |
 | Drill Arena | 86549 | [86549-drill-arena.json](./86549-drill-arena.json) |
 | Drill Bird | 351078 | [351078-drill-bird.json](./351078-drill-bird.json) |
+| Drill Core | 301799 | [301799-drill-core.json](./301799-drill-core.json) |
 | Drill Core: The Machine World | 399016 | [399016-drill-core-the-machine-world.json](./399016-drill-core-the-machine-world.json) |
 | Drill Dash | 211905 | [211905-drill-dash.json](./211905-drill-dash.json) |
 | Drill Deal | 118816 | [118816-drill-deal.json](./118816-drill-deal.json) |
