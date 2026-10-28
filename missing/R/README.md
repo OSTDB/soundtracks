@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdore | 364027 | [364027-ragdore.json](./364027-ragdore.json) |
 | Rage 2 | 101211 | [101211-rage-2.json](./101211-rage-2.json) |
 | Rage 2: Collector's Edition | 103297 | [103297-rage-2-collectors-edition.json](./103297-rage-2-collectors-edition.json) |
+| Rage 3 | 229889 | [229889-rage-3.json](./229889-rage-3.json) |
 | Rage Against the Zombies | 30490 | [30490-rage-against-the-zombies.json](./30490-rage-against-the-zombies.json) |
 | Rage Bait | 379399 | [379399-rage-bait.json](./379399-rage-bait.json) |
 | Rage Boy | 110076 | [110076-rage-boy.json](./110076-rage-boy.json) |
@@ -1582,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RandoJumper | 308148 | [308148-randojumper.json](./308148-randojumper.json) |
 | Random Acts of Madness | 270173 | [270173-random-acts-of-madness.json](./270173-random-acts-of-madness.json) |
 | Random Card Defense | 143392 | [143392-random-card-defense.json](./143392-random-card-defense.json) |
+| Random Chat | 229913 | [229913-random-chat.json](./229913-random-chat.json) |
 | Random Coin | 411083 | [411083-random-coin.json](./411083-random-coin.json) |
 | Random Core Defense | 310816 | [310816-random-core-defense.json](./310816-random-core-defense.json) |
 | Random Deck | 341309 | [341309-random-deck.json](./341309-random-deck.json) |
@@ -4628,6 +4630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | République: Episode 3 - Ones and Zeroes | 127128 | [127128-republique-episode-3-ones-and-zeroes.json](./127128-republique-episode-3-ones-and-zeroes.json) |
 | République: Episode 4 - God's Acre | 127129 | [127129-republique-episode-4-gods-acre.json](./127129-republique-episode-4-gods-acre.json) |
 | République: Episode 5 - Terminus | 127130 | [127130-republique-episode-5-terminus.json](./127130-republique-episode-5-terminus.json) |
+| Repugnant Bounty | 229493 | [229493-repugnant-bounty.json](./229493-repugnant-bounty.json) |
 | Repulsanoid | 30668 | [30668-repulsanoid.json](./30668-repulsanoid.json) |
 | Repulsar | 80187 | [80187-repulsar.json](./80187-repulsar.json) |
 | Repulse | 273238 | [273238-repulse.json](./273238-repulse.json) |
