@@ -6910,8 +6910,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: Crimes and Punishments Redux | 164780 | [164780-sherlock-holmes-crimes-and-punishments-redux.json](./164780-sherlock-holmes-crimes-and-punishments-redux.json) |
 | Sherlock Holmes: Nemesis | 6863 | [6863-sherlock-holmes-nemesis.json](./6863-sherlock-holmes-nemesis.json) |
 | Sherlock Holmes: Puzzle City | 222297 | [222297-sherlock-holmes-puzzle-city.json](./222297-sherlock-holmes-puzzle-city.json) |
+| Sherlock Holmes: The Awakened - Deluxe Edition | 240984 | [240984-sherlock-holmes-the-awakened-deluxe-edition.json](./240984-sherlock-holmes-the-awakened-deluxe-edition.json) |
+| Sherlock Holmes: The Awakened - Premium Edition | 240985 | [240985-sherlock-holmes-the-awakened-premium-edition.json](./240985-sherlock-holmes-the-awakened-premium-edition.json) |
 | Sherlock Holmes: The Awakened - Remastered Edition | 27849 | [27849-sherlock-holmes-the-awakened-remastered-edition.json](./27849-sherlock-holmes-the-awakened-remastered-edition.json) |
 | Sherlock Holmes: The Awakened - The Sleuth's Attire | 245169 | [245169-sherlock-holmes-the-awakened-the-sleuths-attire.json](./245169-sherlock-holmes-the-awakened-the-sleuths-attire.json) |
+| Sherlock Holmes: The Awakened - The Whispered Dreams | 240981 | [240981-sherlock-holmes-the-awakened-the-whispered-dreams.json](./240981-sherlock-holmes-the-awakened-the-whispered-dreams.json) |
 | Sherlock Holmes: The Case of the Beheaded Smuggler | 230257 | [230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json](./230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json) |
 | Sherlock Holmes: The Darkest Mysteries Bundle | 310455 | [310455-sherlock-holmes-the-darkest-mysteries-bundle.json](./310455-sherlock-holmes-the-darkest-mysteries-bundle.json) |
 | Sherlock Holmes: The Devil's Daughter | 11563 | [11563-sherlock-holmes-the-devils-daughter.json](./11563-sherlock-holmes-the-devils-daughter.json) |
@@ -13078,6 +13081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite 5: Airborne Elite Weapon & Skin Pack | 307278 | [307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json](./307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Complete Edition | 263228 | [263228-sniper-elite-5-complete-edition.json](./263228-sniper-elite-5-complete-edition.json) |
 | Sniper Elite 5: Concealed Target Weapon and Skin Pack | 263129 | [263129-sniper-elite-5-concealed-target-weapon-and-skin-pack.json](./263129-sniper-elite-5-concealed-target-weapon-and-skin-pack.json) |
+| Sniper Elite 5: Conqueror Mission, Weapon and Skin Pack | 240954 | [240954-sniper-elite-5-conqueror-mission-weapon-and-skin-pack.json](./240954-sniper-elite-5-conqueror-mission-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Death From Above Weapon and Skin Pack | 307284 | [307284-sniper-elite-5-death-from-above-weapon-and-skin-pack.json](./307284-sniper-elite-5-death-from-above-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Deluxe Edition | 194661 | [194661-sniper-elite-5-deluxe-edition.json](./194661-sniper-elite-5-deluxe-edition.json) |
 | Sniper Elite 5: Kraken Awakes - Mission, Weapon and Skin Pack | 255688 | [255688-sniper-elite-5-kraken-awakes-mission-weapon-and-skin-pack.json](./255688-sniper-elite-5-kraken-awakes-mission-weapon-and-skin-pack.json) |
@@ -17630,6 +17634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceScape | 154871 | [154871-spacescape.json](./154871-spacescape.json) |
 | Spacesheep | 356047 | [356047-spacesheep.json](./356047-spacesheep.json) |
 | SpaceShift | 393610 | [393610-spaceshift.json](./393610-spaceshift.json) |
+| Spaceship Ace Pilot | 240621 | [240621-spaceship-ace-pilot.json](./240621-spaceship-ace-pilot.json) |
 | Spaceship Carptain | 128824 | [128824-spaceship-carptain.json](./128824-spaceship-carptain.json) |
 | Spaceship Commander | 124694 | [124694-spaceship-commander.json](./124694-spaceship-commander.json) |
 | Spaceship Curse | 147634 | [147634-spaceship-curse.json](./147634-spaceship-curse.json) |
@@ -30098,6 +30103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap Fire | 336655 | [336655-swap-fire.json](./336655-swap-fire.json) |
 | Swap Fire | 77773 | [77773-swap-fire.json](./77773-swap-fire.json) |
 | Swap Heroes | 197242 | [197242-swap-heroes.json](./197242-swap-heroes.json) |
+| Swap Machina | 240968 | [240968-swap-machina.json](./240968-swap-machina.json) |
 | Swap Motion | 316134 | [316134-swap-motion.json](./316134-swap-motion.json) |
 | Swap n Merge | 121509 | [121509-swap-n-merge.json](./121509-swap-n-merge.json) |
 | Swap Roles | 76400 | [76400-swap-roles.json](./76400-swap-roles.json) |
