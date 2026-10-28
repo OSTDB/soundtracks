@@ -7204,6 +7204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviton | 122382 | [122382-graviton.json](./122382-graviton.json) |
 | Graviton | 183771 | [183771-graviton.json](./183771-graviton.json) |
 | Graviton Flux | 371957 | [371957-graviton-flux.json](./371957-graviton-flux.json) |
+| Gravitorium | 274322 | [274322-gravitorium.json](./274322-gravitorium.json) |
 | Gravitorque DX | 355508 | [355508-gravitorque-dx.json](./355508-gravitorque-dx.json) |
 | Gravitrex | 46506 | [46506-gravitrex.json](./46506-gravitrex.json) |
 | GravitreX Arcade | 159635 | [159635-gravitrex-arcade.json](./159635-gravitrex-arcade.json) |
