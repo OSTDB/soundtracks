@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana | 178033 | [178033-hana.json](./178033-hana.json) |
 | Hana | 369565 | [369565-hana.json](./369565-hana.json) |
 | Hana | 381136 | [381136-hana.json](./381136-hana.json) |
+| Hana Exposure! A Blooming Flower | 265790 | [265790-hana-exposure-a-blooming-flower.json](./265790-hana-exposure-a-blooming-flower.json) |
 | Hana Feels | 139306 | [139306-hana-feels.json](./139306-hana-feels.json) |
 | Hana ha Mijikashi, Odoreyo Otome | 405368 | [405368-hana-ha-mijikashi-odoreyo-otome.json](./405368-hana-ha-mijikashi-odoreyo-otome.json) |
 | Hana no Chiruramu | 166579 | [166579-hana-no-chiruramu.json](./166579-hana-no-chiruramu.json) |
@@ -3696,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellevator | 398515 | [398515-hellevator.json](./398515-hellevator.json) |
 | Hellevator | 417429 | [417429-hellevator.json](./417429-hellevator.json) |
 | Hellevators | 286035 | [286035-hellevators.json](./286035-hellevators.json) |
+| HellFight | 265793 | [265793-hellfight.json](./265793-hellfight.json) |
 | Hellfighter | 92458 | [92458-hellfighter.json](./92458-hellfighter.json) |
 | Hellfire | 19503 | [19503-hellfire.json](./19503-hellfire.json) |
 | Hellfire | 274129 | [274129-hellfire.json](./274129-hellfire.json) |
@@ -6633,6 +6635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Game | 126611 | [126611-highway-game.json](./126611-highway-game.json) |
 | Highway Gas Gas | 296357 | [296357-highway-gas-gas.json](./296357-highway-gas-gas.json) |
 | Highway Getaway: ZigZag Blocky Car | 289726 | [289726-highway-getaway-zigzag-blocky-car.json](./289726-highway-getaway-zigzag-blocky-car.json) |
+| Highway Getway | 265798 | [265798-highway-getway.json](./265798-highway-getway.json) |
 | Highway Haste | 146835 | [146835-highway-haste.json](./146835-highway-haste.json) |
 | Highway Hijinks | 309402 | [309402-highway-hijinks.json](./309402-highway-hijinks.json) |
 | Highway Hopper | 347797 | [347797-highway-hopper.json](./347797-highway-hopper.json) |
@@ -9688,6 +9691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to God | 343055 | [343055-how-to-god.json](./343055-how-to-god.json) |
 | How to Grow Your Sausage | 404405 | [404405-how-to-grow-your-sausage.json](./404405-how-to-grow-your-sausage.json) |
 | How to Live a Healthy Hentai Lifestyle! | 200645 | [200645-how-to-live-a-healthy-hentai-lifestyle.json](./200645-how-to-live-a-healthy-hentai-lifestyle.json) |
+| How to Lose One's Virginity | 265791 | [265791-how-to-lose-ones-virginity.json](./265791-how-to-lose-ones-virginity.json) |
 | How to Make a Floating City | 116114 | [116114-how-to-make-a-floating-city.json](./116114-how-to-make-a-floating-city.json) |
 | How to Make a Game | 407830 | [407830-how-to-make-a-game.json](./407830-how-to-make-a-game.json) |
 | How to Make a Sequel | 407831 | [407831-how-to-make-a-sequel.json](./407831-how-to-make-a-sequel.json) |
