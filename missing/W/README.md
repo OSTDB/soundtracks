@@ -7696,6 +7696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Would You Still Love Me? | 335321 | [335321-would-you-still-love-me.json](./335321-would-you-still-love-me.json) |
 | Wound Man | 273385 | [273385-wound-man.json](./273385-wound-man.json) |
 | Wound of the West | 143582 | [143582-wound-of-the-west.json](./143582-wound-of-the-west.json) |
+| Wounded Summer Baby | 268081 | [268081-wounded-summer-baby.json](./268081-wounded-summer-baby.json) |
 | Wounded: The Beginning | 114560 | [114560-wounded-the-beginning.json](./114560-wounded-the-beginning.json) |
 | Wounds 4 Hard Medication | 181291 | [181291-wounds-4-hard-medication.json](./181291-wounds-4-hard-medication.json) |
 | Woute | 152673 | [152673-woute.json](./152673-woute.json) |
