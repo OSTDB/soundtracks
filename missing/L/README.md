@@ -5048,6 +5048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Dragon Adventure | 287323 | [287323-little-dragon-adventure.json](./287323-little-dragon-adventure.json) |
 | Little Dragons Café | 88887 | [88887-little-dragons-cafe.json](./88887-little-dragons-cafe.json) |
 | Little Drift | 158106 | [158106-little-drift.json](./158106-little-drift.json) |
+| Little Droid | 258304 | [258304-little-droid.json](./258304-little-droid.json) |
 | Little Droid 2: Escape | 312144 | [312144-little-droid-2-escape.json](./312144-little-droid-2-escape.json) |
 | Little Duck Adventure | 303102 | [303102-little-duck-adventure.json](./303102-little-duck-adventure.json) |
 | Little Duck's Big Adventure: A Bitsy RPG | 182099 | [182099-little-ducks-big-adventure-a-bitsy-rpg.json](./182099-little-ducks-big-adventure-a-bitsy-rpg.json) |
