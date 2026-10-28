@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally and Snail | 365724 | [365724-sally-and-snail.json](./365724-sally-and-snail.json) |
 | Sally Face | 26580 | [26580-sally-face.json](./26580-sally-face.json) |
 | Sally Face 2 | 413934 | [413934-sally-face-2.json](./413934-sally-face-2.json) |
+| Sally.Exe | 274050 | [274050-sally-exe.json](./274050-sally-exe.json) |
 | Sally.EXE: Discovery | 317358 | [317358-sally-exe-discovery.json](./317358-sally-exe-discovery.json) |
 | Sally.Exe: The Whisper of Soul | 360031 | [360031-sally-exe-the-whisper-of-soul.json](./360031-sally-exe-the-whisper-of-soul.json) |
 | Sally's Salon | 24328 | [24328-sallys-salon.json](./24328-sallys-salon.json) |
@@ -2675,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scifi Zombie | 316151 | [316151-scifi-zombie.json](./316151-scifi-zombie.json) |
 | Scikor Final Scale | 121743 | [121743-scikor-final-scale.json](./121743-scikor-final-scale.json) |
 | Scila e il Drago Diamante | 380387 | [380387-scila-e-il-drago-diamante.json](./380387-scila-e-il-drago-diamante.json) |
+| Scimitar | 273721 | [273721-scimitar.json](./273721-scimitar.json) |
 | Scintillatron 4096 | 118701 | [118701-scintillatron-4096.json](./118701-scintillatron-4096.json) |
 | Scion | 25885 | [25885-scion.json](./25885-scion.json) |
 | Scions of Fate | 72656 | [72656-scions-of-fate.json](./72656-scions-of-fate.json) |
@@ -8031,6 +8033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun II: Double Barrel | 321233 | [321233-shotgun-ii-double-barrel.json](./321233-shotgun-ii-double-barrel.json) |
 | Shotgun King: the Final Checkmate | 196030 | [196030-shotgun-king-the-final-checkmate.json](./196030-shotgun-king-the-final-checkmate.json) |
 | Shotgun Knight | 244603 | [244603-shotgun-knight.json](./244603-shotgun-knight.json) |
+| Shotgun Mario 64 | 273745 | [273745-shotgun-mario-64.json](./273745-shotgun-mario-64.json) |
 | Shotgun Ninja | 70270 | [70270-shotgun-ninja.json](./70270-shotgun-ninja.json) |
 | Shotgun Raiders | 31862 | [31862-shotgun-raiders.json](./31862-shotgun-raiders.json) |
 | Shotgun Science | 365155 | [365155-shotgun-science.json](./365155-shotgun-science.json) |
@@ -9776,6 +9779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Halloween | 110762 | [110762-sinister-halloween.json](./110762-sinister-halloween.json) |
 | Sinister Halloween: Asylum | 160282 | [160282-sinister-halloween-asylum.json](./160282-sinister-halloween-asylum.json) |
 | Sinister Hospital | 296384 | [296384-sinister-hospital.json](./296384-sinister-hospital.json) |
+| Sinister Intention | 273739 | [273739-sinister-intention.json](./273739-sinister-intention.json) |
 | Sinister Mansion | 297798 | [297798-sinister-mansion.json](./297798-sinister-mansion.json) |
 | Sinister Night | 200670 | [200670-sinister-night.json](./200670-sinister-night.json) |
 | Sinister Outbreak | 366118 | [366118-sinister-outbreak.json](./366118-sinister-outbreak.json) |
@@ -14449,6 +14453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somewhere in Hell | 311364 | [311364-somewhere-in-hell.json](./311364-somewhere-in-hell.json) |
 | Somewhere in İstanbul | 410644 | [410644-somewhere-in-istanbul.json](./410644-somewhere-in-istanbul.json) |
 | Somewhere in Space... | 178644 | [178644-somewhere-in-space.json](./178644-somewhere-in-space.json) |
+| Somewhere in Time | 273723 | [273723-somewhere-in-time.json](./273723-somewhere-in-time.json) |
 | Somewhere in Time and Space | 347720 | [347720-somewhere-in-time-and-space.json](./347720-somewhere-in-time-and-space.json) |
 | Somewhere inside | 125085 | [125085-somewhere-inside.json](./125085-somewhere-inside.json) |
 | Somewhere Near Romance | 179108 | [179108-somewhere-near-romance.json](./179108-somewhere-near-romance.json) |
@@ -15984,6 +15989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
 | Soulbound Roguelike | 348115 | [348115-soulbound-roguelike.json](./348115-soulbound-roguelike.json) |
 | Soulbound Steel | 159791 | [159791-soulbound-steel.json](./159791-soulbound-steel.json) |
+| Soulbound: Online | 274057 | [274057-soulbound-online.json](./274057-soulbound-online.json) |
 | Soulbringer | 9281 | [9281-soulbringer.json](./9281-soulbringer.json) |
 | Soulcalibur II Plus | 384776 | [384776-soulcalibur-ii-plus.json](./384776-soulcalibur-ii-plus.json) |
 | SoulCalibur II: Recompiled | 415181 | [415181-soulcalibur-ii-recompiled.json](./415181-soulcalibur-ii-recompiled.json) |
