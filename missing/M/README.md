@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 23 | 243668 | [243668-madden-nfl-23.json](./243668-madden-nfl-23.json) |
 | Madden NFL 23: All Madden Edition | 204081 | [204081-madden-nfl-23-all-madden-edition.json](./204081-madden-nfl-23-all-madden-edition.json) |
 | Madden NFL 24: Deluxe Edition | 252388 | [252388-madden-nfl-24-deluxe-edition.json](./252388-madden-nfl-24-deluxe-edition.json) |
+| Madden NFL 24: Michael Vick 20th Anniversary Edition | 276866 | [276866-madden-nfl-24-michael-vick-20th-anniversary-edition.json](./276866-madden-nfl-24-michael-vick-20th-anniversary-edition.json) |
 | Madden NFL 25 | 243261 | [243261-madden-nfl-25.json](./243261-madden-nfl-25.json) |
 | Madden NFL 25 | 243262 | [243262-madden-nfl-25.json](./243262-madden-nfl-25.json) |
 | Madden NFL 25 | 301506 | [301506-madden-nfl-25.json](./301506-madden-nfl-25.json) |
@@ -4856,6 +4857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Muncher | 330211 | [330211-math-muncher.json](./330211-math-muncher.json) |
 | Math Munchers Deluxe | 57659 | [57659-math-munchers-deluxe.json](./57659-math-munchers-deluxe.json) |
 | Math Ninja HD | 87208 | [87208-math-ninja-hd.json](./87208-math-ninja-hd.json) |
+| Math Olympiad | 276572 | [276572-math-olympiad.json](./276572-math-olympiad.json) |
 | Math Pals: Monster Mania | 420695 | [420695-math-pals-monster-mania.json](./420695-math-pals-monster-mania.json) |
 | Math Parkour | 241513 | [241513-math-parkour.json](./241513-math-parkour.json) |
 | Math Party Fezgugel | 360699 | [360699-math-party-fezgugel.json](./360699-math-party-fezgugel.json) |
