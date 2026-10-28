@@ -1215,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Rays | 26906 | [26906-tales-of-the-rays.json](./26906-tales-of-the-rays.json) |
 | Tales of the Rays: Fairy's Requiem | 242466 | [242466-tales-of-the-rays-fairys-requiem.json](./242466-tales-of-the-rays-fairys-requiem.json) |
 | Tales of the Rays: Last Cradle | 242627 | [242627-tales-of-the-rays-last-cradle.json](./242627-tales-of-the-rays-last-cradle.json) |
+| Tales of the Rays: Mirrage Prison | 242153 | [242153-tales-of-the-rays-mirrage-prison.json](./242153-tales-of-the-rays-mirrage-prison.json) |
 | Tales of the Rays: Recollection | 242630 | [242630-tales-of-the-rays-recollection.json](./242630-tales-of-the-rays-recollection.json) |
 | Tales of the Tavern | 304568 | [304568-tales-of-the-tavern.json](./304568-tales-of-the-tavern.json) |
 | Tales of the Tempest | 19096 | [19096-tales-of-the-tempest.json](./19096-tales-of-the-tempest.json) |
@@ -6388,6 +6389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Class President is Home From School Today! | 97700 | [97700-the-class-president-is-home-from-school-today.json](./97700-the-class-president-is-home-from-school-today.json) |
 | The Classic Episode | 196249 | [196249-the-classic-episode.json](./196249-the-classic-episode.json) |
 | The Classic Lotus Trilogy | 39041 | [39041-the-classic-lotus-trilogy.json](./39041-the-classic-lotus-trilogy.json) |
+| The Classroom | 242160 | [242160-the-classroom.json](./242160-the-classroom.json) |
 | The Classroom 2 | 361307 | [361307-the-classroom-2.json](./361307-the-classroom-2.json) |
 | The Classroom 3 | 396446 | [396446-the-classroom-3.json](./396446-the-classroom-3.json) |
 | The Classrooms | 212853 | [212853-the-classrooms.json](./212853-the-classrooms.json) |
@@ -6822,6 +6824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Issyos | 47094 | [47094-the-curse-of-issyos.json](./47094-the-curse-of-issyos.json) |
 | The Curse of Karlanrik | 338275 | [338275-the-curse-of-karlanrik.json](./338275-the-curse-of-karlanrik.json) |
 | The Curse of Kubel + Expansion DLC | 238450 | [238450-the-curse-of-kubel-expansion-dlc.json](./238450-the-curse-of-kubel-expansion-dlc.json) |
+| The Curse of Kubel: Deluxe Edition | 242165 | [242165-the-curse-of-kubel-deluxe-edition.json](./242165-the-curse-of-kubel-deluxe-edition.json) |
 | The Curse of Kudan | 131892 | [131892-the-curse-of-kudan.json](./131892-the-curse-of-kudan.json) |
 | The Curse of Mantras | 150965 | [150965-the-curse-of-mantras.json](./150965-the-curse-of-mantras.json) |
 | The Curse of Mount Madre | 328280 | [328280-the-curse-of-mount-madre.json](./328280-the-curse-of-mount-madre.json) |
@@ -11002,6 +11005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda Game Watch | 172501 | [172501-the-legend-of-zelda-game-watch.json](./172501-the-legend-of-zelda-game-watch.json) |
 | The Legend of Zelda GBC | 278876 | [278876-the-legend-of-zelda-gbc.json](./278876-the-legend-of-zelda-gbc.json) |
 | The Legend of Zelda Ocarina of Time 3D: First Edition | 89904 | [89904-the-legend-of-zelda-ocarina-of-time-3d-first-edition.json](./89904-the-legend-of-zelda-ocarina-of-time-3d-first-edition.json) |
+| The Legend of Zelda Randomizer | 242136 | [242136-the-legend-of-zelda-randomizer.json](./242136-the-legend-of-zelda-randomizer.json) |
 | The Legend of Zelda Redux | 199417 | [199417-the-legend-of-zelda-redux.json](./199417-the-legend-of-zelda-redux.json) |
 | The Legend of Zelda Remastered | 260748 | [260748-the-legend-of-zelda-remastered.json](./260748-the-legend-of-zelda-remastered.json) |
 | The Legend of Zelda SNES | 377748 | [377748-the-legend-of-zelda-snes.json](./377748-the-legend-of-zelda-snes.json) |
@@ -17787,6 +17791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threedays | 351530 | [351530-threedays.json](./351530-threedays.json) |
 | Threefold Recital | 327486 | [327486-threefold-recital.json](./327486-threefold-recital.json) |
 | Threejs | 206575 | [206575-threejs.json](./206575-threejs.json) |
+| Threesome Puzzle | 241782 | [241782-threesome-puzzle.json](./241782-threesome-puzzle.json) |
 | Threesquare | 56943 | [56943-threesquare.json](./56943-threesquare.json) |
 | ThreeStep | 120962 | [120962-threestep.json](./120962-threestep.json) |
 | Threewave | 306178 | [306178-threewave.json](./306178-threewave.json) |
@@ -19918,6 +19923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Loader and Biped Bundle | 186539 | [186539-time-loader-and-biped-bundle.json](./186539-time-loader-and-biped-bundle.json) |
 | Time Loader: First Memories | 166211 | [166211-time-loader-first-memories.json](./166211-time-loader-first-memories.json) |
 | Time Lock VR 1 | 393132 | [393132-time-lock-vr-1.json](./393132-time-lock-vr-1.json) |
+| Time Lock VR 2 | 242138 | [242138-time-lock-vr-2.json](./242138-time-lock-vr-2.json) |
 | Time Locker | 58145 | [58145-time-locker.json](./58145-time-locker.json) |
 | Time Loop | 276590 | [276590-time-loop.json](./276590-time-loop.json) |
 | Time Lord | 18536 | [18536-time-lord.json](./18536-time-lord.json) |
@@ -28932,6 +28938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Tired to Mountain | 384019 | [384019-two-tired-to-mountain.json](./384019-two-tired-to-mountain.json) |
 | Two To Match | 277717 | [277717-two-to-match.json](./277717-two-to-match.json) |
 | Two Torn Towers | 279717 | [279717-two-torn-towers.json](./279717-two-torn-towers.json) |
+| Two Touch: Switch | 242171 | [242171-two-touch-switch.json](./242171-two-touch-switch.json) |
 | Two Types Pollos | 400527 | [400527-two-types-pollos.json](./400527-two-types-pollos.json) |
 | Two Way | 25904 | [25904-two-way.json](./25904-two-way.json) |
 | Two Weeks Game | 132571 | [132571-two-weeks-game.json](./132571-two-weeks-game.json) |
