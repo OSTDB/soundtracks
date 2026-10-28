@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth Simulator | 34739 | [34739-labyrinth-simulator.json](./34739-labyrinth-simulator.json) |
 | Labyrinth Sword Princess | 363434 | [363434-labyrinth-sword-princess.json](./363434-labyrinth-sword-princess.json) |
 | Labyrinth Trailblazer | 370666 | [370666-labyrinth-trailblazer.json](./370666-labyrinth-trailblazer.json) |
+| labyrinth Trials | 259676 | [259676-labyrinth-trials.json](./259676-labyrinth-trials.json) |
 | Labyrinth Trials | 348694 | [348694-labyrinth-trials.json](./348694-labyrinth-trials.json) |
 | Labyrinth X | 312114 | [312114-labyrinth-x.json](./312114-labyrinth-x.json) |
 | Labyrinth: Classic Pinball Puzzle | 225884 | [225884-labyrinth-classic-pinball-puzzle.json](./225884-labyrinth-classic-pinball-puzzle.json) |
