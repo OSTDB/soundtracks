@@ -7931,6 +7931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Heroes Pro 2016 | 59730 | [59730-football-heroes-pro-2016.json](./59730-football-heroes-pro-2016.json) |
 | Football Highlights 2052 | 175096 | [175096-football-highlights-2052.json](./175096-football-highlights-2052.json) |
 | Football International | 49079 | [49079-football-international.json](./49079-football-international.json) |
+| Football Keepy Uppy Champion | 252951 | [252951-football-keepy-uppy-champion.json](./252951-football-keepy-uppy-champion.json) |
 | Football Kicks | 231060 | [231060-football-kicks.json](./231060-football-kicks.json) |
 | Football Killer | 188096 | [188096-football-killer.json](./188096-football-killer.json) |
 | Football League 2023 | 223933 | [223933-football-league-2023.json](./223933-football-league-2023.json) |
