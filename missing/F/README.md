@@ -5656,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Adventure: Finland Reserve | 250800 | [250800-fishing-adventure-finland-reserve.json](./250800-fishing-adventure-finland-reserve.json) |
 | Fishing Alone | 348148 | [348148-fishing-alone.json](./348148-fishing-alone.json) |
 | Fishing and Girls | 242979 | [242979-fishing-and-girls.json](./242979-fishing-and-girls.json) |
+| Fishing and Life | 242119 | [242119-fishing-and-life.json](./242119-fishing-and-life.json) |
 | Fishing at the Lake Full of Cats | 375583 | [375583-fishing-at-the-lake-full-of-cats.json](./375583-fishing-at-the-lake-full-of-cats.json) |
 | Fishing Blast | 299526 | [299526-fishing-blast.json](./299526-fishing-blast.json) |
 | Fishing Break | 79746 | [79746-fishing-break.json](./79746-fishing-break.json) |
