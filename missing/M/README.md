@@ -2344,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malgosia | 395973 | [395973-malgosia.json](./395973-malgosia.json) |
 | Malibu Beach Volleyball | 49045 | [49045-malibu-beach-volleyball.json](./49045-malibu-beach-volleyball.json) |
 | Malice | 208608 | [208608-malice.json](./208608-malice.json) |
+| Malice | 246008 | [246008-malice.json](./246008-malice.json) |
 | Malice & Greed | 143568 | [143568-malice-and-greed.json](./143568-malice-and-greed.json) |
 | Malice in Wonderland | 403366 | [403366-malice-in-wonderland.json](./403366-malice-in-wonderland.json) |
 | Malice Within | 337590 | [337590-malice-within.json](./337590-malice-within.json) |
@@ -8025,6 +8026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries Blaze: Dawn of the Twin Dragons | 141648 | [141648-mercenaries-blaze-dawn-of-the-twin-dragons.json](./141648-mercenaries-blaze-dawn-of-the-twin-dragons.json) |
 | Mercenaries Lament: Requiem of the Silver Wolf | 233904 | [233904-mercenaries-lament-requiem-of-the-silver-wolf.json](./233904-mercenaries-lament-requiem-of-the-silver-wolf.json) |
 | Mercenaries of Astonia | 115487 | [115487-mercenaries-of-astonia.json](./115487-mercenaries-of-astonia.json) |
+| Mercenaries of the Kingdom | 245890 | [245890-mercenaries-of-the-kingdom.json](./245890-mercenaries-of-the-kingdom.json) |
 | Mercenaries of the Kingdom: First Blood | 269481 | [269481-mercenaries-of-the-kingdom-first-blood.json](./269481-mercenaries-of-the-kingdom-first-blood.json) |
 | Mercenaries of War | 323257 | [323257-mercenaries-of-war.json](./323257-mercenaries-of-war.json) |
 | Mercenaries Saga | 82082 | [82082-mercenaries-saga.json](./82082-mercenaries-saga.json) |
@@ -8855,6 +8857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid FreezeFlame | 255382 | [255382-metroid-freezeflame.json](./255382-metroid-freezeflame.json) |
 | Metroid FreezeFlame 2: Twisted Dimensions | 255383 | [255383-metroid-freezeflame-2-twisted-dimensions.json](./255383-metroid-freezeflame-2-twisted-dimensions.json) |
 | Metroid Fusion: C.L.E.A.N. Station | 313328 | [313328-metroid-fusion-c-l-e-a-n-station.json](./313328-metroid-fusion-c-l-e-a-n-station.json) |
+| Metroid Fusion: NES Version | 245656 | [245656-metroid-fusion-nes-version.json](./245656-metroid-fusion-nes-version.json) |
 | Metroid Heardle | 203827 | [203827-metroid-heardle.json](./203827-metroid-heardle.json) |
 | Metroid II DX | 173157 | [173157-metroid-ii-dx.json](./173157-metroid-ii-dx.json) |
 | Metroid II: Return of Samus | 1102 | [1102-metroid-ii-return-of-samus.json](./1102-metroid-ii-return-of-samus.json) |
@@ -10478,6 +10481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind: Path to Thalamus | 8876 | [8876-mind-path-to-thalamus.json](./8876-mind-path-to-thalamus.json) |
 | Mind: Path to Thalamus - Enhanced Edition | 19049 | [19049-mind-path-to-thalamus-enhanced-edition.json](./19049-mind-path-to-thalamus-enhanced-edition.json) |
 | Mind's Descent Bundle | 278328 | [278328-minds-descent-bundle.json](./278328-minds-descent-bundle.json) |
+| Mind's Eye | 245128 | [245128-minds-eye.json](./245128-minds-eye.json) |
 | Mind's Eye | 71151 | [71151-minds-eye.json](./71151-minds-eye.json) |
 | Mind's Eye Macrogolf | 361239 | [361239-minds-eye-macrogolf.json](./361239-minds-eye-macrogolf.json) |
 | Mind's Eye: Secrets of the Forgotten | 54239 | [54239-minds-eye-secrets-of-the-forgotten.json](./54239-minds-eye-secrets-of-the-forgotten.json) |
@@ -12998,6 +13002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momo Horror Story | 239574 | [239574-momo-horror-story.json](./239574-momo-horror-story.json) |
 | Momo Ichigo | 116421 | [116421-momo-ichigo.json](./116421-momo-ichigo.json) |
 | Momo Mother Bird: Final Story | 209483 | [209483-momo-mother-bird-final-story.json](./209483-momo-mother-bird-final-story.json) |
+| Momo no Hana ha Senketsu ni Somaru | 246020 | [246020-momo-no-hana-ha-senketsu-ni-somaru.json](./246020-momo-no-hana-ha-senketsu-ni-somaru.json) |
 | Momo.exe 2 | 110175 | [110175-momo-exe-2.json](./110175-momo-exe-2.json) |
 | Momo's Conflict | 207526 | [207526-momos-conflict.json](./207526-momos-conflict.json) |
 | Momo's Diary | 212780 | [212780-momos-diary.json](./212780-momos-diary.json) |
