@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jabbertalky | 57562 | [57562-jabbertalky.json](./57562-jabbertalky.json) |
 | Jabberwocky | 112284 | [112284-jabberwocky.json](./112284-jabberwocky.json) |
 | Jabberwocky | 181861 | [181861-jabberwocky.json](./181861-jabberwocky.json) |
+| Jables's Adventure | 242721 | [242721-jabless-adventure.json](./242721-jabless-adventure.json) |
 | Jabroni Brawl: Episode 3 | 125123 | [125123-jabroni-brawl-episode-3.json](./125123-jabroni-brawl-episode-3.json) |
 | JacadoLines | 185899 | [185899-jacadolines.json](./185899-jacadolines.json) |
 | Jacal | 223662 | [223662-jacal.json](./223662-jacal.json) |
@@ -968,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jenny's Fish Shop | 177044 | [177044-jennys-fish-shop.json](./177044-jennys-fish-shop.json) |
 | Jensen Strikes Back | 340984 | [340984-jensen-strikes-back.json](./340984-jensen-strikes-back.json) |
 | Jeonsa Ryan | 145590 | [145590-jeonsa-ryan.json](./145590-jeonsa-ryan.json) |
+| Jeopardy | 242735 | [242735-jeopardy.json](./242735-jeopardy.json) |
 | Jeopardy! | 131471 | [131471-jeopardy.json](./131471-jeopardy.json) |
 | Jeopardy! | 131472 | [131472-jeopardy.json](./131472-jeopardy.json) |
 | Jeopardy! | 131547 | [131547-jeopardy.json](./131547-jeopardy.json) |
