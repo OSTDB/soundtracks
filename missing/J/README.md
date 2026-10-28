@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Escape Games: Renpou Keimusho kara no Dasshutsu | 222220 | [222220-japanese-escape-games-renpou-keimusho-kara-no-dasshutsu.json](./222220-japanese-escape-games-renpou-keimusho-kara-no-dasshutsu.json) |
 | Japanese Escape Games: Strange Museum kara no Dasshutsu | 222219 | [222219-japanese-escape-games-strange-museum-kara-no-dasshutsu.json](./222219-japanese-escape-games-strange-museum-kara-no-dasshutsu.json) |
 | Japanese Escape Games: Strange Park kara no Dasshutsu | 222221 | [222221-japanese-escape-games-strange-park-kara-no-dasshutsu.json](./222221-japanese-escape-games-strange-park-kara-no-dasshutsu.json) |
+| Japanese Escape Games: The Abandoned Schoolhouse | 231033 | [231033-japanese-escape-games-the-abandoned-schoolhouse.json](./231033-japanese-escape-games-the-abandoned-schoolhouse.json) |
 | Japanese Escape Games: The Forbidden Garden | 221699 | [221699-japanese-escape-games-the-forbidden-garden.json](./221699-japanese-escape-games-the-forbidden-garden.json) |
 | Japanese Escape Games: The Fortress Prison | 213211 | [213211-japanese-escape-games-the-fortress-prison.json](./213211-japanese-escape-games-the-fortress-prison.json) |
 | Japanese Escape Games: The Hotel of Tricks | 209690 | [209690-japanese-escape-games-the-hotel-of-tricks.json](./209690-japanese-escape-games-the-hotel-of-tricks.json) |
