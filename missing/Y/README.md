@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeerk Pool | 257435 | [257435-yeerk-pool.json](./257435-yeerk-pool.json) |
 | Yeet | 264516 | [264516-yeet.json](./264516-yeet.json) |
 | Yeet the Chest | 414084 | [414084-yeet-the-chest.json](./414084-yeet-the-chest.json) |
+| Yeetus | 276582 | [276582-yeetus.json](./276582-yeetus.json) |
 | YeGung | 306238 | [306238-yegung.json](./306238-yegung.json) |
 | Yeh Yeh Tennis | 58519 | [58519-yeh-yeh-tennis.json](./58519-yeh-yeh-tennis.json) |
 | YEKO | 394811 | [394811-yeko.json](./394811-yeko.json) |
