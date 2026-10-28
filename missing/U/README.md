@@ -2006,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | United Chronicles | 152672 | [152672-united-chronicles.json](./152672-united-chronicles.json) |
 | United City | 371588 | [371588-united-city.json](./371588-united-city.json) |
 | United Command | 137450 | [137450-united-command.json](./137450-united-command.json) |
+| United Football | 277137 | [277137-united-football.json](./277137-united-football.json) |
 | United Force of Osiris | 112168 | [112168-united-force-of-osiris.json](./112168-united-force-of-osiris.json) |
 | United Heist | 215677 | [215677-united-heist.json](./215677-united-heist.json) |
 | United Heist: Facility Zero | 372081 | [372081-united-heist-facility-zero.json](./372081-united-heist-facility-zero.json) |
