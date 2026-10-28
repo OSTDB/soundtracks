@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest for the Book of Truth | 181207 | [181207-quest-for-the-book-of-truth.json](./181207-quest-for-the-book-of-truth.json) |
 | Quest for the Code | 185633 | [185633-quest-for-the-code.json](./185633-quest-for-the-code.json) |
 | Quest for the Crystal Skulls | 268756 | [268756-quest-for-the-crystal-skulls.json](./268756-quest-for-the-crystal-skulls.json) |
+| Quest for the Golden Candelabra | 248397 | [248397-quest-for-the-golden-candelabra.json](./248397-quest-for-the-golden-candelabra.json) |
 | Quest for the Golden Chalice | 306664 | [306664-quest-for-the-golden-chalice.json](./306664-quest-for-the-golden-chalice.json) |
 | Quest for the Golden Duck | 114111 | [114111-quest-for-the-golden-duck.json](./114111-quest-for-the-golden-duck.json) |
 | Quest for the Holy Grail | 45247 | [45247-quest-for-the-holy-grail.json](./45247-quest-for-the-holy-grail.json) |
