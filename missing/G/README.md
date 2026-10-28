@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameBuddies.io | 396597 | [396597-gamebuddies-io.json](./396597-gamebuddies-io.json) |
 | GameCenter CX: 3-Choume no Arino | 79922 | [79922-gamecenter-cx-3-choume-no-arino.json](./79922-gamecenter-cx-3-choume-no-arino.json) |
 | GameCenter CX: Arino no Chousenjou | 274424 | [274424-gamecenter-cx-arino-no-chousenjou.json](./274424-gamecenter-cx-arino-no-chousenjou.json) |
+| GameCenter CX: Arino no Chousenjou 1 + 2 Replay | 274051 | [274051-gamecenter-cx-arino-no-chousenjou-1-2-replay.json](./274051-gamecenter-cx-arino-no-chousenjou-1-2-replay.json) |
 | GameCenter CX: Arino no Chousenjou 2 | 274425 | [274425-gamecenter-cx-arino-no-chousenjou-2.json](./274425-gamecenter-cx-arino-no-chousenjou-2.json) |
 | GameCenter CX: Arino no Chousenjou 2 | 79923 | [79923-gamecenter-cx-arino-no-chousenjou-2.json](./79923-gamecenter-cx-arino-no-chousenjou-2.json) |
 | GameChanger: Episode 1 | 283020 | [283020-gamechanger-episode-1.json](./283020-gamechanger-episode-1.json) |
