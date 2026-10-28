@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R. Hunter Scope Silent Assassin | 385175 | [385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json](./385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json) |
 | S.N.I.P.E.R. Hunter Scope Urban Warfare | 385174 | [385174-s-n-i-p-e-r-hunter-scope-urban-warfare.json](./385174-s-n-i-p-e-r-hunter-scope-urban-warfare.json) |
 | S.N.I.P.E.R.: Hunter Scope | 146758 | [146758-s-n-i-p-e-r-hunter-scope.json](./146758-s-n-i-p-e-r-hunter-scope.json) |
+| S.N.I.P.E.R.: Hunter Scope - Aniversary Edition | 270812 | [270812-s-n-i-p-e-r-hunter-scope-aniversary-edition.json](./270812-s-n-i-p-e-r-hunter-scope-aniversary-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Back To School Edition | 263549 | [263549-s-n-i-p-e-r-hunter-scope-back-to-school-edition.json](./263549-s-n-i-p-e-r-hunter-scope-back-to-school-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Collectors Edition | 277894 | [277894-s-n-i-p-e-r-hunter-scope-collectors-edition.json](./277894-s-n-i-p-e-r-hunter-scope-collectors-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Comprehensive Edition | 396929 | [396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json](./396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json) |
@@ -13030,6 +13031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Strike: Special Ops | 89492 | [89492-sniper-strike-special-ops.json](./89492-sniper-strike-special-ops.json) |
 | Sniper Tactical | 35143 | [35143-sniper-tactical.json](./35143-sniper-tactical.json) |
 | Sniper Tanks | 105187 | [105187-sniper-tanks.json](./105187-sniper-tanks.json) |
+| Sniper Team 2 | 270504 | [270504-sniper-team-2.json](./270504-sniper-team-2.json) |
 | Sniper Warrior Elite | 345119 | [345119-sniper-warrior-elite.json](./345119-sniper-warrior-elite.json) |
 | Sniper Wild West Shooting Simulator | 264214 | [264214-sniper-wild-west-shooting-simulator.json](./264214-sniper-wild-west-shooting-simulator.json) |
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
@@ -15954,6 +15956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Smith of the Kingdom | 99019 | [99019-soul-smith-of-the-kingdom.json](./99019-soul-smith-of-the-kingdom.json) |
 | Soul Song | 202333 | [202333-soul-song.json](./202333-soul-song.json) |
 | Soul Stalker | 235736 | [235736-soul-stalker.json](./235736-soul-stalker.json) |
+| Soul Stitcher | 270484 | [270484-soul-stitcher.json](./270484-soul-stitcher.json) |
 | Soul Street | 275511 | [275511-soul-street.json](./275511-soul-street.json) |
 | Soul Strike | 297712 | [297712-soul-strike.json](./297712-soul-strike.json) |
 | Soul Surfer | 66566 | [66566-soul-surfer.json](./66566-soul-surfer.json) |
@@ -18004,6 +18007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpeedCoins | 343292 | [343292-speedcoins.json](./343292-speedcoins.json) |
 | Speeder | 152934 | [152934-speeder.json](./152934-speeder.json) |
 | SpeedFighter | 143962 | [143962-speedfighter.json](./143962-speedfighter.json) |
+| Speediest: Car Racing Formula & Auto Sport | 270813 | [270813-speediest-car-racing-formula-and-auto-sport.json](./270813-speediest-car-racing-formula-and-auto-sport.json) |
 | Speedin' Shotgun | 263500 | [263500-speedin-shotgun.json](./263500-speedin-shotgun.json) |
 | SpeedingRoad | 158513 | [158513-speedingroad.json](./158513-speedingroad.json) |
 | SpeedJumper | 334787 | [334787-speedjumper.json](./334787-speedjumper.json) |
@@ -22235,6 +22239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam and Silk | 115396 | [115396-steam-and-silk.json](./115396-steam-and-silk.json) |
 | Steam Bandits: Outpost | 30368 | [30368-steam-bandits-outpost.json](./30368-steam-bandits-outpost.json) |
 | Steam Chain | 135567 | [135567-steam-chain.json](./135567-steam-chain.json) |
+| Steam Droid | 270508 | [270508-steam-droid.json](./270508-steam-droid.json) |
 | Steam Engine Simulator | 249057 | [249057-steam-engine-simulator.json](./249057-steam-engine-simulator.json) |
 | Steam Engine Simulator: Power Generation | 276602 | [276602-steam-engine-simulator-power-generation.json](./276602-steam-engine-simulator-power-generation.json) |
 | Steam Girls | 410406 | [410406-steam-girls.json](./410406-steam-girls.json) |
@@ -22596,6 +22601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Fixer | 399647 | [399647-stellar-fixer.json](./399647-stellar-fixer.json) |
 | Stellar Freight: Echoes of the Void | 353977 | [353977-stellar-freight-echoes-of-the-void.json](./353977-stellar-freight-echoes-of-the-void.json) |
 | Stellar Freight: Endless Horizon | 395520 | [395520-stellar-freight-endless-horizon.json](./395520-stellar-freight-endless-horizon.json) |
+| Stellar Ghosts Settlers | 270486 | [270486-stellar-ghosts-settlers.json](./270486-stellar-ghosts-settlers.json) |
 | Stellar Gun | 167146 | [167146-stellar-gun.json](./167146-stellar-gun.json) |
 | Stellar Horizon | 108185 | [108185-stellar-horizon.json](./108185-stellar-horizon.json) |
 | Stellar Howl: Galactic Repairs | 417368 | [417368-stellar-howl-galactic-repairs.json](./417368-stellar-howl-galactic-repairs.json) |
@@ -22909,6 +22915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticker Clicker | 306722 | [306722-sticker-clicker.json](./306722-sticker-clicker.json) |
 | Sticker Craft | 30660 | [30660-sticker-craft.json](./30660-sticker-craft.json) |
 | Sticker Delight | 311854 | [311854-sticker-delight.json](./311854-sticker-delight.json) |
+| Sticker Kittens | 270489 | [270489-sticker-kittens.json](./270489-sticker-kittens.json) |
 | Sticker Picker | 422017 | [422017-sticker-picker.json](./422017-sticker-picker.json) |
 | Stickerino | 396195 | [396195-stickerino.json](./396195-stickerino.json) |
 | Stickers for You | 306592 | [306592-stickers-for-you.json](./306592-stickers-for-you.json) |
