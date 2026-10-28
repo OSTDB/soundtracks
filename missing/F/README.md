@@ -9556,6 +9556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragile Feelings | 240688 | [240688-fragile-feelings.json](./240688-fragile-feelings.json) |
 | Fragile Frontier | 390372 | [390372-fragile-frontier.json](./390372-fragile-frontier.json) |
 | Fragile Hero and the Immortal Frog | 353830 | [353830-fragile-hero-and-the-immortal-frog.json](./353830-fragile-hero-and-the-immortal-frog.json) |
+| Fragile Love | 275419 | [275419-fragile-love.json](./275419-fragile-love.json) |
 | Fragile Packages: Handle with Care | 344871 | [344871-fragile-packages-handle-with-care.json](./344871-fragile-packages-handle-with-care.json) |
 | Fragile Peace | 370264 | [370264-fragile-peace.json](./370264-fragile-peace.json) |
 | Fragile Reflection | 309533 | [309533-fragile-reflection.json](./309533-fragile-reflection.json) |
