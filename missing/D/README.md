@@ -6563,6 +6563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy All Humans! 2: Reprobed | 171214 | [171214-destroy-all-humans-2-reprobed.json](./171214-destroy-all-humans-2-reprobed.json) |
 | Destroy All Humans! 2: Reprobed - Challenge Accepted | 220596 | [220596-destroy-all-humans-2-reprobed-challenge-accepted.json](./220596-destroy-all-humans-2-reprobed-challenge-accepted.json) |
 | Destroy All Humans! 2: Reprobed - Dressed to Skill Edition | 203688 | [203688-destroy-all-humans-2-reprobed-dressed-to-skill-edition.json](./203688-destroy-all-humans-2-reprobed-dressed-to-skill-edition.json) |
+| Destroy All Humans! 2: Reprobed - Skin Pack | 248420 | [248420-destroy-all-humans-2-reprobed-skin-pack.json](./248420-destroy-all-humans-2-reprobed-skin-pack.json) |
 | Destroy All Humans! Big Willy Unleashed | 2716 | [2716-destroy-all-humans-big-willy-unleashed.json](./2716-destroy-all-humans-big-willy-unleashed.json) |
 | Destroy All Humans! Path of the Furon | 2717 | [2717-destroy-all-humans-path-of-the-furon.json](./2717-destroy-all-humans-path-of-the-furon.json) |
 | Destroy All Humans!: Clone Carnage | 203364 | [203364-destroy-all-humans-clone-carnage.json](./203364-destroy-all-humans-clone-carnage.json) |
@@ -7223,6 +7224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo V | 417647 | [417647-diablo-v.json](./417647-diablo-v.json) |
 | Diablo: Battle Chest | 46976 | [46976-diablo-battle-chest.json](./46976-diablo-battle-chest.json) |
 | Diablo: The Abyss | 399033 | [399033-diablo-the-abyss.json](./399033-diablo-the-abyss.json) |
+| Diablo: The Hell 2 | 248386 | [248386-diablo-the-hell-2.json](./248386-diablo-the-hell-2.json) |
 | Diabolical Pitch | 19904 | [19904-diabolical-pitch.json](./19904-diabolical-pitch.json) |
 | Diabolik 01: Inafferrabile Criminale | 138700 | [138700-diabolik-01-inafferrabile-criminale.json](./138700-diabolik-01-inafferrabile-criminale.json) |
 | Diabolik 02: La Gemma di Salomone | 138713 | [138713-diabolik-02-la-gemma-di-salomone.json](./138713-diabolik-02-la-gemma-di-salomone.json) |
@@ -8291,6 +8293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino-Sorcerer | 74072 | [74072-dino-sorcerer.json](./74072-dino-sorcerer.json) |
 | Dino's Offline Adventure | 195208 | [195208-dinos-offline-adventure.json](./195208-dinos-offline-adventure.json) |
 | Dinobag's Arcade | 169749 | [169749-dinobags-arcade.json](./169749-dinobags-arcade.json) |
+| Dinobasher | 248847 | [248847-dinobasher.json](./248847-dinobasher.json) |
 | Dinoblade | 330174 | [330174-dinoblade.json](./330174-dinoblade.json) |
 | Dinoblits | 219244 | [219244-dinoblits.json](./219244-dinoblits.json) |
 | Dinobot and Tiara Present: ApplePop | 240826 | [240826-dinobot-and-tiara-present-applepop.json](./240826-dinobot-and-tiara-present-applepop.json) |
@@ -8347,6 +8350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Cousin Squad | 338286 | [338286-dinosaur-cousin-squad.json](./338286-dinosaur-cousin-squad.json) |
 | Dinosaur Dig | 181552 | [181552-dinosaur-dig.json](./181552-dinosaur-dig.json) |
 | Dinosaur Discovery | 109172 | [109172-dinosaur-discovery.json](./109172-dinosaur-discovery.json) |
+| Dinosaur Era | 248697 | [248697-dinosaur-era.json](./248697-dinosaur-era.json) |
 | Dinosaur Fossil Hunter | 102176 | [102176-dinosaur-fossil-hunter.json](./102176-dinosaur-fossil-hunter.json) |
 | Dinosaur Fossil Puzzles | 163168 | [163168-dinosaur-fossil-puzzles.json](./163168-dinosaur-fossil-puzzles.json) |
 | Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
@@ -12116,6 +12120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downfall: A Slay the Spire Fan Expansion | 198469 | [198469-downfall-a-slay-the-spire-fan-expansion.json](./198469-downfall-a-slay-the-spire-fan-expansion.json) |
 | Downfall: Redux | 51750 | [51750-downfall-redux.json](./51750-downfall-redux.json) |
 | Downforce | 22219 | [22219-downforce.json](./22219-downforce.json) |
+| Downforce | 248688 | [248688-downforce.json](./248688-downforce.json) |
 | Downhell | 274127 | [274127-downhell.json](./274127-downhell.json) |
 | Downhill Challenge | 73798 | [73798-downhill-challenge.json](./73798-downhill-challenge.json) |
 | Downhill Deceits | 95253 | [95253-downhill-deceits.json](./95253-downhill-deceits.json) |
@@ -14105,6 +14110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamTank | 72356 | [72356-dreamtank.json](./72356-dreamtank.json) |
 | Dreamtone | 310960 | [310960-dreamtone.json](./310960-dreamtone.json) |
 | Dreamtopia | 128918 | [128918-dreamtopia.json](./128918-dreamtopia.json) |
+| Dreamverse | 248852 | [248852-dreamverse.json](./248852-dreamverse.json) |
 | Dreamvibe | 192276 | [192276-dreamvibe.json](./192276-dreamvibe.json) |
 | Dreamwalker | 239716 | [239716-dreamwalker.json](./239716-dreamwalker.json) |
 | Dreamwalker | 271150 | [271150-dreamwalker.json](./271150-dreamwalker.json) |
@@ -14428,6 +14434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Thru | 365860 | [365860-drive-thru.json](./365860-drive-thru.json) |
 | Drive Thru Miami | 318375 | [318375-drive-thru-miami.json](./318375-drive-thru-miami.json) |
 | Drive Thru Simulator | 326441 | [326441-drive-thru-simulator.json](./326441-drive-thru-simulator.json) |
+| Drive Thru Tycoon | 248849 | [248849-drive-thru-tycoon.json](./248849-drive-thru-tycoon.json) |
 | Drive Time Radio | 232910 | [232910-drive-time-radio.json](./232910-drive-time-radio.json) |
 | Drive to Hell | 36135 | [36135-drive-to-hell.json](./36135-drive-to-hell.json) |
 | Drive to The Top | 411690 | [411690-drive-to-the-top.json](./411690-drive-to-the-top.json) |
@@ -14573,6 +14580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Combat | 127013 | [127013-drone-combat.json](./127013-drone-combat.json) |
 | Drone Crash Course | 190171 | [190171-drone-crash-course.json](./190171-drone-crash-course.json) |
 | Drone Dash | 343746 | [343746-drone-dash.json](./343746-drone-dash.json) |
+| Drone Delivery Despair | 248391 | [248391-drone-delivery-despair.json](./248391-drone-delivery-despair.json) |
 | Drone Delivery Express: City Simulator | 389052 | [389052-drone-delivery-express-city-simulator.json](./389052-drone-delivery-express-city-simulator.json) |
 | Drone Delivery Simulator | 286211 | [286211-drone-delivery-simulator.json](./286211-drone-delivery-simulator.json) |
 | Drone Fighters | 29049 | [29049-drone-fighters.json](./29049-drone-fighters.json) |
