@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racecar Bed | 216943 | [216943-racecar-bed.json](./216943-racecar-bed.json) |
 | Racecar Crashers | 391835 | [391835-racecar-crashers.json](./391835-racecar-crashers.json) |
 | Racecraft | 18188 | [18188-racecraft.json](./18188-racecraft.json) |
+| RaceCraft | 238861 | [238861-racecraft.json](./238861-racecraft.json) |
 | Raceland | 81906 | [81906-raceland.json](./81906-raceland.json) |
 | RaceLeague | 168128 | [168128-raceleague.json](./168128-raceleague.json) |
 | Racer | 282668 | [282668-racer.json](./282668-racer.json) |
@@ -5220,6 +5221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Fit - Zordak's Revenge | 105756 | [105756-retro-fit-zordaks-revenge.json](./105756-retro-fit-zordaks-revenge.json) |
 | Retro Football Boss | 31751 | [31751-retro-football-boss.json](./31751-retro-football-boss.json) |
 | Retro Force | 45017 | [45017-retro-force.json](./45017-retro-force.json) |
+| Retro Formula 3D | 239226 | [239226-retro-formula-3d.json](./239226-retro-formula-3d.json) |
 | Retro Gadgets | 219688 | [219688-retro-gadgets.json](./219688-retro-gadgets.json) |
 | Retro Game Challenge | 21251 | [21251-retro-game-challenge.json](./21251-retro-game-challenge.json) |
 | Retro Game Crunch | 36349 | [36349-retro-game-crunch.json](./36349-retro-game-crunch.json) |
@@ -7325,6 +7327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Racing: Extreme Traffic Driving | 110249 | [110249-road-racing-extreme-traffic-driving.json](./110249-road-racing-extreme-traffic-driving.json) |
 | Road Rage | 55244 | [55244-road-rage.json](./55244-road-rage.json) |
 | Road Rage 3 | 43536 | [43536-road-rage-3.json](./43536-road-rage-3.json) |
+| Road Rage 3D | 239225 | [239225-road-rage-3d.json](./239225-road-rage-3d.json) |
 | Road Rage Radio | 383776 | [383776-road-rage-radio.json](./383776-road-rage-radio.json) |
 | Road Rage Royale | 115563 | [115563-road-rage-royale.json](./115563-road-rage-royale.json) |
 | Road Rash | 141271 | [141271-road-rash.json](./141271-road-rash.json) |
