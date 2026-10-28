@@ -4358,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckline | 342637 | [342637-deckline.json](./342637-deckline.json) |
 | Decklings | 350476 | [350476-decklings.json](./350476-decklings.json) |
 | DeckMake Fantasy | 208015 | [208015-deckmake-fantasy.json](./208015-deckmake-fantasy.json) |
+| Deckmate! | 249005 | [249005-deckmate.json](./249005-deckmate.json) |
 | Deckout | 373663 | [373663-deckout.json](./373663-deckout.json) |
 | Deckrypt | 416590 | [416590-deckrypt.json](./416590-deckrypt.json) |
 | Decks & Dungeons | 149574 | [149574-decks-and-dungeons.json](./149574-decks-and-dungeons.json) |
@@ -8852,6 +8853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgraced Swordswoman Battle | 134605 | [134605-disgraced-swordswoman-battle.json](./134605-disgraced-swordswoman-battle.json) |
 | Disgraced: Hands of Fate | 170796 | [170796-disgraced-hands-of-fate.json](./170796-disgraced-hands-of-fate.json) |
 | Disgraced: Trailblazer | 161730 | [161730-disgraced-trailblazer.json](./161730-disgraced-trailblazer.json) |
+| Disgraced: Western Warfare Pack | 249391 | [249391-disgraced-western-warfare-pack.json](./249391-disgraced-western-warfare-pack.json) |
 | Disguised Blessing | 332991 | [332991-disguised-blessing.json](./332991-disguised-blessing.json) |
 | Disguiser | 375215 | [375215-disguiser.json](./375215-disguiser.json) |
 | Disgusting Puzzle 2 | 232941 | [232941-disgusting-puzzle-2.json](./232941-disgusting-puzzle-2.json) |
@@ -9853,6 +9855,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Art Attack | 249279 | [249279-doctor-who-art-attack.json](./249279-doctor-who-art-attack.json) |
 | Doctor Who: Battle of Time | 301692 | [301692-doctor-who-battle-of-time.json](./301692-doctor-who-battle-of-time.json) |
 | Doctor Who: Black Hole | 249293 | [249293-doctor-who-black-hole.json](./249293-doctor-who-black-hole.json) |
+| Doctor Who: Clockwork Quest | 249389 | [249389-doctor-who-clockwork-quest.json](./249389-doctor-who-clockwork-quest.json) |
+| Doctor Who: Cosmic Collider | 249387 | [249387-doctor-who-cosmic-collider.json](./249387-doctor-who-cosmic-collider.json) |
 | Doctor Who: Dalek Break-Out | 249447 | [249447-doctor-who-dalek-break-out.json](./249447-doctor-who-dalek-break-out.json) |
 | Doctor Who: Dalek Hack | 239578 | [239578-doctor-who-dalek-hack.json](./239578-doctor-who-dalek-hack.json) |
 | Doctor Who: Defeat Deffry | 249743 | [249743-doctor-who-defeat-deffry.json](./249743-doctor-who-defeat-deffry.json) |
