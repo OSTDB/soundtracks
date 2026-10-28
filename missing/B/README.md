@@ -4162,6 +4162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Bums | 307001 | [307001-beach-bums.json](./307001-beach-bums.json) |
 | Beach Buzzin Chopper | 42779 | [42779-beach-buzzin-chopper.json](./42779-beach-buzzin-chopper.json) |
 | Beach Cafe III: The Escape Room | 266316 | [266316-beach-cafe-iii-the-escape-room.json](./266316-beach-cafe-iii-the-escape-room.json) |
+| Beach Cafe: Caribbean Sand | 232628 | [232628-beach-cafe-caribbean-sand.json](./232628-beach-cafe-caribbean-sand.json) |
 | Beach Cafe: Caribbean Sand | 232988 | [232988-beach-cafe-caribbean-sand.json](./232988-beach-cafe-caribbean-sand.json) |
 | Beach Casino HD | 232354 | [232354-beach-casino-hd.json](./232354-beach-casino-hd.json) |
 | Beach Club Simulator | 292638 | [292638-beach-club-simulator.json](./292638-beach-club-simulator.json) |
@@ -6363,6 +6364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bible Trivia | 77011 | [77011-bible-trivia.json](./77011-bible-trivia.json) |
 | Bible Trivia Extreme | 97197 | [97197-bible-trivia-extreme.json](./97197-bible-trivia-extreme.json) |
 | Bible Trivia Jumble | 100687 | [100687-bible-trivia-jumble.json](./100687-bible-trivia-jumble.json) |
+| Bible Trivia Mania | 232622 | [232622-bible-trivia-mania.json](./232622-bible-trivia-mania.json) |
 | Bible Trivia: Alchemy | 375241 | [375241-bible-trivia-alchemy.json](./375241-bible-trivia-alchemy.json) |
 | Bible Verse Challenge | 317848 | [317848-bible-verse-challenge.json](./317848-bible-verse-challenge.json) |
 | Bible Word Puzzle | 103547 | [103547-bible-word-puzzle.json](./103547-bible-word-puzzle.json) |
@@ -7177,6 +7179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biomeinoes | 275877 | [275877-biomeinoes.json](./275877-biomeinoes.json) |
 | BioMenace Remastered | 373528 | [373528-biomenace-remastered.json](./373528-biomenace-remastered.json) |
 | Biomes | 254993 | [254993-biomes.json](./254993-biomes.json) |
+| Biomes O' Plenty | 232650 | [232650-biomes-o-plenty.json](./232650-biomes-o-plenty.json) |
 | Biomes: Survival Era | 217412 | [217412-biomes-survival-era.json](./217412-biomes-survival-era.json) |
 | BioMetal | 10685 | [10685-biometal.json](./10685-biometal.json) |
 | BioMeteor | 377824 | [377824-biometeor.json](./377824-biometeor.json) |
@@ -12066,6 +12069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Ball | 25865 | [25865-bouncing-ball.json](./25865-bouncing-ball.json) |
 | Bouncing Ball | 347618 | [347618-bouncing-ball.json](./347618-bouncing-ball.json) |
 | Bouncing Ball | 46857 | [46857-bouncing-ball.json](./46857-bouncing-ball.json) |
+| Bouncing Buddies | 232606 | [232606-bouncing-buddies.json](./232606-bouncing-buddies.json) |
 | Bouncing Buds | 363566 | [363566-bouncing-buds.json](./363566-bouncing-buds.json) |
 | Bouncing Church | 102727 | [102727-bouncing-church.json](./102727-bouncing-church.json) |
 | Bouncing Duck Simulator | 55728 | [55728-bouncing-duck-simulator.json](./55728-bouncing-duck-simulator.json) |
