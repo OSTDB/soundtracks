@@ -1814,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BanG Dream! Girls Band Party! for Nintendo Switch | 152887 | [152887-bang-dream-girls-band-party-for-nintendo-switch.json](./152887-bang-dream-girls-band-party-for-nintendo-switch.json) |
 | Bang For Your Truck | 133137 | [133137-bang-for-your-truck.json](./133137-bang-for-your-truck.json) |
 | Bang-On Balls: Chronicles - Deluxe Edition | 288284 | [288284-bang-on-balls-chronicles-deluxe-edition.json](./288284-bang-on-balls-chronicles-deluxe-edition.json) |
+| Bang, Boom, Splat! | 266369 | [266369-bang-boom-splat.json](./266369-bang-boom-splat.json) |
 | Bang! | 110037 | [110037-bang.json](./110037-bang.json) |
 | Bang! Bang! Bandits | 376493 | [376493-bang-bang-bandits.json](./376493-bang-bang-bandits.json) |
 | Bang! Bang! Totally Accurate Redneck Simulator | 138808 | [138808-bang-bang-totally-accurate-redneck-simulator.json](./138808-bang-bang-totally-accurate-redneck-simulator.json) |
@@ -5816,6 +5817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Mayor | 329070 | [329070-best-mayor.json](./329070-best-mayor.json) |
 | Best Miner | 151507 | [151507-best-miner.json](./151507-best-miner.json) |
 | Best Mobile Games 5-in-1 | 400060 | [400060-best-mobile-games-5-in-1.json](./400060-best-mobile-games-5-in-1.json) |
+| Best Multiplayer and Co-op 6-in-1 Bundle | 266341 | [266341-best-multiplayer-and-co-op-6-in-1-bundle.json](./266341-best-multiplayer-and-co-op-6-in-1-bundle.json) |
 | Best of Arcade Games | 8664 | [8664-best-of-arcade-games.json](./8664-best-of-arcade-games.json) |
 | Best of Arcade Games DS | 197897 | [197897-best-of-arcade-games-ds.json](./197897-best-of-arcade-games-ds.json) |
 | Best of Arcade Games: Air Hockey | 84984 | [84984-best-of-arcade-games-air-hockey.json](./84984-best-of-arcade-games-air-hockey.json) |
@@ -14234,6 +14236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Guppies | 230336 | [230336-bubble-guppies.json](./230336-bubble-guppies.json) |
 | Bubble Guppies | 230344 | [230344-bubble-guppies.json](./230344-bubble-guppies.json) |
 | Bubble Hero | 246436 | [246436-bubble-hero.json](./246436-bubble-hero.json) |
+| Bubble Hero 2 | 266327 | [266327-bubble-hero-2.json](./266327-bubble-hero-2.json) |
 | Bubble Heroes Galaxy | 108243 | [108243-bubble-heroes-galaxy.json](./108243-bubble-heroes-galaxy.json) |
 | Bubble Hunt | 181071 | [181071-bubble-hunt.json](./181071-bubble-hunt.json) |
 | Bubble Investor | 361727 | [361727-bubble-investor.json](./361727-bubble-investor.json) |
