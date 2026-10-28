@@ -8397,6 +8397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid HD Collection | 20741 | [20741-metal-gear-solid-hd-collection.json](./20741-metal-gear-solid-hd-collection.json) |
 | Metal Gear Solid HD Edition - Premium Package | 298015 | [298015-metal-gear-solid-hd-edition-premium-package.json](./298015-metal-gear-solid-hd-edition-premium-package.json) |
 | Metal Gear Solid HD Edition: 2 & 3 | 136811 | [136811-metal-gear-solid-hd-edition-2-and-3.json](./136811-metal-gear-solid-hd-edition-2-and-3.json) |
+| Metal Gear Solid Master Collection: Volume 1 - Day One Edition | 274056 | [274056-metal-gear-solid-master-collection-volume-1-day-one-edition.json](./274056-metal-gear-solid-master-collection-volume-1-day-one-edition.json) |
 | Metal Gear Solid Master Collection: Volume 2 | 389433 | [389433-metal-gear-solid-master-collection-volume-2.json](./389433-metal-gear-solid-master-collection-volume-2.json) |
 | Metal Gear Solid Touch | 12212 | [12212-metal-gear-solid-touch.json](./12212-metal-gear-solid-touch.json) |
 | Metal Gear Solid V: The Definitive Experience | 25637 | [25637-metal-gear-solid-v-the-definitive-experience.json](./25637-metal-gear-solid-v-the-definitive-experience.json) |
@@ -13957,6 +13958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters and Mazes | 380178 | [380178-monsters-and-mazes.json](./380178-monsters-and-mazes.json) |
 | Monsters and Me | 344590 | [344590-monsters-and-me.json](./344590-monsters-and-me.json) |
 | Monsters and Medicine | 54804 | [54804-monsters-and-medicine.json](./54804-monsters-and-medicine.json) |
+| Monsters and Spirits | 273751 | [273751-monsters-and-spirits.json](./273751-monsters-and-spirits.json) |
 | Monsters and Sprites | 388264 | [388264-monsters-and-sprites.json](./388264-monsters-and-sprites.json) |
 | Monsters Are Coming! | 346956 | [346956-monsters-are-coming.json](./346956-monsters-are-coming.json) |
 | Monsters Are Coming!: Madness Builds | 417323 | [417323-monsters-are-coming-madness-builds.json](./417323-monsters-are-coming-madness-builds.json) |
@@ -16639,6 +16641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murdered by Midnight | 174241 | [174241-murdered-by-midnight.json](./174241-murdered-by-midnight.json) |
 | MurderHobo: Aggravation Quest | 63289 | [63289-murderhobo-aggravation-quest.json](./63289-murderhobo-aggravation-quest.json) |
 | Murderlings | 305834 | [305834-murderlings.json](./305834-murderlings.json) |
+| Murderous Intent | 273738 | [273738-murderous-intent.json](./273738-murderous-intent.json) |
 | Murderous Pursuits | 85526 | [85526-murderous-pursuits.json](./85526-murderous-pursuits.json) |
 | Murderous Sunlight | 390149 | [390149-murderous-sunlight.json](./390149-murderous-sunlight.json) |
 | Murders & Mistresses | 418705 | [418705-murders-and-mistresses.json](./418705-murders-and-mistresses.json) |
