@@ -5417,6 +5417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bem Feito | 275677 | [275677-bem-feito.json](./275677-bem-feito.json) |
 | Bem Feito: Legacy Edition | 140328 | [140328-bem-feito-legacy-edition.json](./140328-bem-feito-legacy-edition.json) |
 | Bemani Pocket: Guitar Freaks | 218915 | [218915-bemani-pocket-guitar-freaks.json](./218915-bemani-pocket-guitar-freaks.json) |
+| Bemis Wamilton Racing | 272647 | [272647-bemis-wamilton-racing.json](./272647-bemis-wamilton-racing.json) |
 | Bemuddled | 101378 | [101378-bemuddled.json](./101378-bemuddled.json) |
 | Bemuzed | 135908 | [135908-bemuzed.json](./135908-bemuzed.json) |
 | Ben 10 | 100278 | [100278-ben-10.json](./100278-ben-10.json) |
@@ -5895,6 +5896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betrayal | 11954 | [11954-betrayal.json](./11954-betrayal.json) |
 | Betrayal At Club Low | 194803 | [194803-betrayal-at-club-low.json](./194803-betrayal-at-club-low.json) |
 | Betrayal Banquet | 410289 | [410289-betrayal-banquet.json](./410289-betrayal-banquet.json) |
+| Betrayal Beach | 272648 | [272648-betrayal-beach.json](./272648-betrayal-beach.json) |
 | Betrayal Beach: Supporter Pack | 310051 | [310051-betrayal-beach-supporter-pack.json](./310051-betrayal-beach-supporter-pack.json) |
 | Betrayal Collection | 30409 | [30409-betrayal-collection.json](./30409-betrayal-collection.json) |
 | Betrayal in Antara | 8828 | [8828-betrayal-in-antara.json](./8828-betrayal-in-antara.json) |
@@ -7372,6 +7374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birth Order | 61071 | [61071-birth-order.json](./61071-birth-order.json) |
 | Birthday Blues | 177881 | [177881-birthday-blues.json](./177881-birthday-blues.json) |
 | Birthday Boy | 399612 | [399612-birthday-boy.json](./399612-birthday-boy.json) |
+| Birthday Boy and Benny | 272646 | [272646-birthday-boy-and-benny.json](./272646-birthday-boy-and-benny.json) |
 | Birthday Kid | 237425 | [237425-birthday-kid.json](./237425-birthday-kid.json) |
 | Birthday of Midnight | 140948 | [140948-birthday-of-midnight.json](./140948-birthday-of-midnight.json) |
 | Birthday Visit | 407198 | [407198-birthday-visit.json](./407198-birthday-visit.json) |
@@ -7882,6 +7885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Monday | 94217 | [94217-black-monday.json](./94217-black-monday.json) |
 | Black Moon Chronicles | 25056 | [25056-black-moon-chronicles.json](./25056-black-moon-chronicles.json) |
 | Black Morph | 165519 | [165519-black-morph.json](./165519-black-morph.json) |
+| Black Mountain Kings | 272645 | [272645-black-mountain-kings.json](./272645-black-mountain-kings.json) |
 | Black Mountain of Tlaltecuhtli | 388557 | [388557-black-mountain-of-tlaltecuhtli.json](./388557-black-mountain-of-tlaltecuhtli.json) |
 | Black My White | 334763 | [334763-black-my-white.json](./334763-black-my-white.json) |
 | Black My White Again | 334764 | [334764-black-my-white-again.json](./334764-black-my-white-again.json) |
@@ -10487,6 +10491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bocchi the Smash! | 263594 | [263594-bocchi-the-smash.json](./263594-bocchi-the-smash.json) |
 | BocchiField | 281964 | [281964-bocchifield.json](./281964-bocchifield.json) |
 | Bochi Collection | 391029 | [391029-bochi-collection.json](./391029-bochi-collection.json) |
+| Bockito | 272644 | [272644-bockito.json](./272644-bockito.json) |
 | Bod Squad | 47236 | [47236-bod-squad.json](./47236-bod-squad.json) |
 | Bod-1 | 291872 | [291872-bod-1.json](./291872-bod-1.json) |
 | Bodacious Agents | 216620 | [216620-bodacious-agents.json](./216620-bodacious-agents.json) |
