@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calling of my Nightingales | 229589 | [229589-calling-of-my-nightingales.json](./229589-calling-of-my-nightingales.json) |
 | Callisto | 116934 | [116934-callisto.json](./116934-callisto.json) |
 | CallMara | 345253 | [345253-callmara.json](./345253-callmara.json) |
+| CallOfTree | 231199 | [231199-calloftree.json](./231199-calloftree.json) |
 | Callous | 318964 | [318964-callous.json](./318964-callous.json) |
 | Callparin 2 | 158518 | [158518-callparin-2.json](./158518-callparin-2.json) |
 | Calluna | 173248 | [173248-calluna.json](./173248-calluna.json) |
@@ -6629,6 +6630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choconoa | 113639 | [113639-choconoa.json](./113639-choconoa.json) |
 | Chocotto Land Online | 243781 | [243781-chocotto-land-online.json](./243781-chocotto-land-online.json) |
 | Chogue | 105114 | [105114-chogue.json](./105114-chogue.json) |
+| Choi | 231201 | [231201-choi.json](./231201-choi.json) |
 | Choice Chamber | 22036 | [22036-choice-chamber.json](./22036-choice-chamber.json) |
 | Choice Clash: What Would You Rather? | 267857 | [267857-choice-clash-what-would-you-rather.json](./267857-choice-clash-what-would-you-rather.json) |
 | Choice Matters | 312752 | [312752-choice-matters.json](./312752-choice-matters.json) |
@@ -6970,6 +6972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Jigsaw Puzzle Pango | 108458 | [108458-christmas-jigsaw-puzzle-pango.json](./108458-christmas-jigsaw-puzzle-pango.json) |
 | Christmas Journey Puzzle | 283840 | [283840-christmas-journey-puzzle.json](./283840-christmas-journey-puzzle.json) |
 | Christmas Jumper Jam | 326981 | [326981-christmas-jumper-jam.json](./326981-christmas-jumper-jam.json) |
+| Christmas Land: Opposite Worlds | 231200 | [231200-christmas-land-opposite-worlds.json](./231200-christmas-land-opposite-worlds.json) |
 | Christmas Luge | 236521 | [236521-christmas-luge.json](./236521-christmas-luge.json) |
 | Christmas Magic | 257442 | [257442-christmas-magic.json](./257442-christmas-magic.json) |
 | Christmas Mahjong | 109346 | [109346-christmas-mahjong.json](./109346-christmas-mahjong.json) |
@@ -11535,6 +11538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conexus | 243652 | [243652-conexus.json](./243652-conexus.json) |
 | Coney Island | 41136 | [41136-coney-island.json](./41136-coney-island.json) |
 | Coney's | 386913 | [386913-coneys.json](./386913-coneys.json) |
+| Confabulation | 231171 | [231171-confabulation.json](./231171-confabulation.json) |
 | Confabulation: Homestead | 244776 | [244776-confabulation-homestead.json](./244776-confabulation-homestead.json) |
 | Confederate Express | 62730 | [62730-confederate-express.json](./62730-confederate-express.json) |
 | Conference of the Shamblers | 271294 | [271294-conference-of-the-shamblers.json](./271294-conference-of-the-shamblers.json) |
@@ -13780,6 +13784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackle Cradle | 57187 | [57187-crackle-cradle.json](./57187-crackle-cradle.json) |
 | Crackout | 48292 | [48292-crackout.json](./48292-crackout.json) |
 | Cracks | 174015 | [174015-cracks.json](./174015-cracks.json) |
+| Cracks In Hell | 231172 | [231172-cracks-in-hell.json](./231172-cracks-in-hell.json) |
 | Cracks Where the Light Gets In | 245795 | [245795-cracks-where-the-light-gets-in.json](./245795-cracks-where-the-light-gets-in.json) |
 | Crackshot | 183982 | [183982-crackshot.json](./183982-crackshot.json) |
 | Cracksman | 346054 | [346054-cracksman.json](./346054-cracksman.json) |
