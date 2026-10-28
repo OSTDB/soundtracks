@@ -8022,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimhaven: The Lost Source | 253578 | [253578-dimhaven-the-lost-source.json](./253578-dimhaven-the-lost-source.json) |
 | Diminishing Light: Wheeled Carnage | 294029 | [294029-diminishing-light-wheeled-carnage.json](./294029-diminishing-light-wheeled-carnage.json) |
 | Diminutive | 100309 | [100309-diminutive.json](./100309-diminutive.json) |
+| Diminutive Abyss | 271578 | [271578-diminutive-abyss.json](./271578-diminutive-abyss.json) |
 | Dimiria: The Agrarian Falls | 64786 | [64786-dimiria-the-agrarian-falls.json](./64786-dimiria-the-agrarian-falls.json) |
 | Dimlight Cafe | 183443 | [183443-dimlight-cafe.json](./183443-dimlight-cafe.json) |
 | Dimlight Dungeon | 276835 | [276835-dimlight-dungeon.json](./276835-dimlight-dungeon.json) |
@@ -15087,6 +15088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Timers | 367371 | [367371-duel-timers.json](./367371-duel-timers.json) |
 | Duel Toys 2 | 222860 | [222860-duel-toys-2.json](./222860-duel-toys-2.json) |
 | Duel VR | 29083 | [29083-duel-vr.json](./29083-duel-vr.json) |
+| Duel, In Towers | 271579 | [271579-duel-in-towers.json](./271579-duel-in-towers.json) |
 | Duel: The Art of Combat | 66520 | [66520-duel-the-art-of-combat.json](./66520-duel-the-art-of-combat.json) |
 | Duel: The Game Show | 410066 | [410066-duel-the-game-show.json](./410066-duel-the-game-show.json) |
 | Duel! | 137429 | [137429-duel.json](./137429-duel.json) |
