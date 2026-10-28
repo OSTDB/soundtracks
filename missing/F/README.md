@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory512 | 212704 | [212704-factory512.json](./212704-factory512.json) |
 | Factorybelts 2 | 76386 | [76386-factorybelts-2.json](./76386-factorybelts-2.json) |
 | FactoryCapi | 338290 | [338290-factorycapi.json](./338290-factorycapi.json) |
+| Factoryopolis | 246018 | [246018-factoryopolis.json](./246018-factoryopolis.json) |
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
 | Factotum 90 | 21317 | [21317-factotum-90.json](./21317-factotum-90.json) |
 | Factropy | 196661 | [196661-factropy.json](./196661-factropy.json) |
@@ -871,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FallDawn | 376671 | [376671-falldawn.json](./376671-falldawn.json) |
 | Falldown 3D | 254497 | [254497-falldown-3d.json](./254497-falldown-3d.json) |
 | Fallen | 171594 | [171594-fallen.json](./171594-fallen.json) |
+| Fallen | 246010 | [246010-fallen.json](./246010-fallen.json) |
 | Fallen | 26796 | [26796-fallen.json](./26796-fallen.json) |
 | Fallen | 271114 | [271114-fallen.json](./271114-fallen.json) |
 | Fallen | 374204 | [374204-fallen.json](./374204-fallen.json) |
@@ -1760,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Life Online | 26609 | [26609-fantasy-life-online.json](./26609-fantasy-life-online.json) |
 | Fantasy Life: Origin Island | 225737 | [225737-fantasy-life-origin-island.json](./225737-fantasy-life-origin-island.json) |
 | Fantasy Little Jobs | 135141 | [135141-fantasy-little-jobs.json](./135141-fantasy-little-jobs.json) |
+| Fantasy Love | 246023 | [246023-fantasy-love.json](./246023-fantasy-love.json) |
 | Fantasy Mahjong Connect | 154357 | [154357-fantasy-mahjong-connect.json](./154357-fantasy-mahjong-connect.json) |
 | Fantasy Maiden | 102706 | [102706-fantasy-maiden.json](./102706-fantasy-maiden.json) |
 | Fantasy Maiden Wars: Dream | 144063 | [144063-fantasy-maiden-wars-dream.json](./144063-fantasy-maiden-wars-dream.json) |
@@ -5637,6 +5640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishin' for Average Caucasian Boyfriends | 288176 | [288176-fishin-for-average-caucasian-boyfriends.json](./288176-fishin-for-average-caucasian-boyfriends.json) |
 | Fishin' Frenzy | 39421 | [39421-fishin-frenzy.json](./39421-fishin-frenzy.json) |
 | Fishing | 209435 | [209435-fishing.json](./209435-fishing.json) |
+| Fishing | 245477 | [245477-fishing.json](./245477-fishing.json) |
 | Fishing | 246456 | [246456-fishing.json](./246456-fishing.json) |
 | Fishing | 358837 | [358837-fishing.json](./358837-fishing.json) |
 | Fishing | 359190 | [359190-fishing.json](./359190-fishing.json) |
@@ -6705,6 +6709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Deck 5 | 78093 | [78093-flight-deck-5.json](./78093-flight-deck-5.json) |
 | Flight Deck II | 122647 | [122647-flight-deck-ii.json](./122647-flight-deck-ii.json) |
 | Flight Fight 2s | 89699 | [89699-flight-fight-2s.json](./89699-flight-fight-2s.json) |
+| Flight Game | 245476 | [245476-flight-game.json](./245476-flight-game.json) |
 | Flight Light Plus | 96504 | [96504-flight-light-plus.json](./96504-flight-light-plus.json) |
 | Flight Mania | 76147 | [76147-flight-mania.json](./76147-flight-mania.json) |
 | Flight Masters: The Horizon Chase | 322121 | [322121-flight-masters-the-horizon-chase.json](./322121-flight-masters-the-horizon-chase.json) |
@@ -7894,6 +7899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Academy Manager | 372745 | [372745-football-academy-manager.json](./372745-football-academy-manager.json) |
 | Football Academy Simulator | 420757 | [420757-football-academy-simulator.json](./420757-football-academy-simulator.json) |
 | Football Agent | 370452 | [370452-football-agent.json](./370452-football-agent.json) |
+| Football Basketball Soccer: 3 Games in One | 245475 | [245475-football-basketball-soccer-3-games-in-one.json](./245475-football-basketball-soccer-3-games-in-one.json) |
 | Football Battle | 187243 | [187243-football-battle.json](./187243-football-battle.json) |
 | Football Battle: Touchdown! | 231952 | [231952-football-battle-touchdown.json](./231952-football-battle-touchdown.json) |
 | Football Betting | 167246 | [167246-football-betting.json](./167246-football-betting.json) |
@@ -8636,6 +8642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift Driving Simulator VR | 332891 | [332891-forklift-driving-simulator-vr.json](./332891-forklift-driving-simulator-vr.json) |
 | Forklift Extreme | 207892 | [207892-forklift-extreme.json](./207892-forklift-extreme.json) |
 | Forklift Extreme Simulator 2 | 297522 | [297522-forklift-extreme-simulator-2.json](./297522-forklift-extreme-simulator-2.json) |
+| Forklift Extreme: Furniture Direct | 246034 | [246034-forklift-extreme-furniture-direct.json](./246034-forklift-extreme-furniture-direct.json) |
 | Forklift Extreme: Santa's Workshop | 231287 | [231287-forklift-extreme-santas-workshop.json](./231287-forklift-extreme-santas-workshop.json) |
 | Forklift Extreme: Ultra DLC Pack | 252405 | [252405-forklift-extreme-ultra-dlc-pack.json](./252405-forklift-extreme-ultra-dlc-pack.json) |
 | Forklift Extreme: Ultra Edition | 252404 | [252404-forklift-extreme-ultra-edition.json](./252404-forklift-extreme-ultra-edition.json) |
@@ -9680,6 +9687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragments of Euclid | 133851 | [133851-fragments-of-euclid.json](./133851-fragments-of-euclid.json) |
 | Fragments of Fear | 406703 | [406703-fragments-of-fear.json](./406703-fragments-of-fear.json) |
 | Fragments of Him | 12518 | [12518-fragments-of-him.json](./12518-fragments-of-him.json) |
+| Fragments of the Afterlife | 246025 | [246025-fragments-of-the-afterlife.json](./246025-fragments-of-the-afterlife.json) |
 | Fragments of Truth: An MCF Story | 416703 | [416703-fragments-of-truth-an-mcf-story.json](./416703-fragments-of-truth-an-mcf-story.json) |
 | Fragments of Truth: An MCF Story - Collector's Edition | 345419 | [345419-fragments-of-truth-an-mcf-story-collectors-edition.json](./345419-fragments-of-truth-an-mcf-story-collectors-edition.json) |
 | FragMiner | 398561 | [398561-fragminer.json](./398561-fragminer.json) |
@@ -10535,6 +10543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog in the Fog | 393630 | [393630-frog-in-the-fog.json](./393630-frog-in-the-fog.json) |
 | Frog In the Well | 221615 | [221615-frog-in-the-well.json](./221615-frog-in-the-well.json) |
 | Frog Inc. | 394782 | [394782-frog-inc.json](./394782-frog-inc.json) |
+| Frog Island | 246030 | [246030-frog-island.json](./246030-frog-island.json) |
 | Frog Jump | 273912 | [273912-frog-jump.json](./273912-frog-jump.json) |
 | Frog Jump | 339704 | [339704-frog-jump.json](./339704-frog-jump.json) |
 | Frog Jump | 351745 | [351745-frog-jump.json](./351745-frog-jump.json) |
@@ -11683,6 +11692,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funtoon's World | 51964 | [51964-funtoons-world.json](./51964-funtoons-world.json) |
 | Funtoon's World HD | 92092 | [92092-funtoons-world-hd.json](./92092-funtoons-world-hd.json) |
 | FunTown Mahjong | 77280 | [77280-funtown-mahjong.json](./77280-funtown-mahjong.json) |
+| Funtronics: Jacks | 245474 | [245474-funtronics-jacks.json](./245474-funtronics-jacks.json) |
+| Funtronics: Red Light Green Light | 245473 | [245473-funtronics-red-light-green-light.json](./245473-funtronics-red-light-green-light.json) |
+| Funtronics: Tag | 245472 | [245472-funtronics-tag.json](./245472-funtronics-tag.json) |
 | Funus: The Climb | 379895 | [379895-funus-the-climb.json](./379895-funus-the-climb.json) |
 | FunWar | 195757 | [195757-funwar.json](./195757-funwar.json) |
 | Funwreckers | 236276 | [236276-funwreckers.json](./236276-funwreckers.json) |
