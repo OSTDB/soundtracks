@@ -1793,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong World W | 145550 | [145550-mahjong-world-w.json](./145550-mahjong-world-w.json) |
 | Mahjong World's Greatest Cities and Temples | 65545 | [65545-mahjong-worlds-greatest-cities-and-temples.json](./65545-mahjong-worlds-greatest-cities-and-temples.json) |
 | Mahjong Xiāoxiāolè | 117683 | [117683-mahjong-xiaoxiaole.json](./117683-mahjong-xiaoxiaole.json) |
+| Mahjong Yin And Yang | 251356 | [251356-mahjong-yin-and-yang.json](./251356-mahjong-yin-and-yang.json) |
 | Mahjong: Dream C Club | 47431 | [47431-mahjong-dream-c-club.json](./47431-mahjong-dream-c-club.json) |
 | Mahjong: Magic Casual Puzzle | 200461 | [200461-mahjong-magic-casual-puzzle.json](./200461-mahjong-magic-casual-puzzle.json) |
 | Mahjong: Magic Chips | 119619 | [119619-mahjong-magic-chips.json](./119619-mahjong-magic-chips.json) |
@@ -2301,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
 | Makoto Wakaido's Case Files: Phantom's Foot | 151811 | [151811-makoto-wakaidos-case-files-phantoms-foot.json](./151811-makoto-wakaidos-case-files-phantoms-foot.json) |
+| Makoto Wakaido's Case Files: Trilogy Deluxe | 251786 | [251786-makoto-wakaidos-case-files-trilogy-deluxe.json](./251786-makoto-wakaidos-case-files-trilogy-deluxe.json) |
 | Maku | 209341 | [209341-maku.json](./209341-maku.json) |
 | Makutsu no Liliane | 310120 | [310120-makutsu-no-liliane.json](./310120-makutsu-no-liliane.json) |
 | Makyou Densetsu | 37674 | [37674-makyou-densetsu.json](./37674-makyou-densetsu.json) |
@@ -19003,6 +19005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyTeardrop | 319097 | [319097-myteardrop.json](./319097-myteardrop.json) |
 | Myth | 12186 | [12186-myth.json](./12186-myth.json) |
 | Myth | 123394 | [123394-myth.json](./123394-myth.json) |
+| Myth | 251776 | [251776-myth.json](./251776-myth.json) |
 | Myth | 252374 | [252374-myth.json](./252374-myth.json) |
 | Myth | 35331 | [35331-myth.json](./35331-myth.json) |
 | Myth & Magery | 419977 | [419977-myth-and-magery.json](./419977-myth-and-magery.json) |
