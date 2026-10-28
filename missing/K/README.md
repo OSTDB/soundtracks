@@ -2616,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Island 3 | 293534 | [293534-king-island-3.json](./293534-king-island-3.json) |
 | King James Bible DX | 358319 | [358319-king-james-bible-dx.json](./358319-king-james-bible-dx.json) |
 | King James Bible for Use on Game Boy | 79876 | [79876-king-james-bible-for-use-on-game-boy.json](./79876-king-james-bible-for-use-on-game-boy.json) |
+| King Jister 3 | 249237 | [249237-king-jister-3.json](./249237-king-jister-3.json) |
 | King K Roller | 250227 | [250227-king-k-roller.json](./250227-king-k-roller.json) |
 | King K Roller 2 | 250228 | [250228-king-k-roller-2.json](./250228-king-k-roller-2.json) |
 | King Kaiju | 25924 | [25924-king-kaiju.json](./25924-king-kaiju.json) |
@@ -4083,6 +4084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knoblins | 303217 | [303217-knoblins.json](./303217-knoblins.json) |
 | Knobswitch | 99533 | [99533-knobswitch.json](./99533-knobswitch.json) |
 | Knock 'Em Down! Bowling | 114201 | [114201-knock-em-down-bowling.json](./114201-knock-em-down-bowling.json) |
+| Knock & Run | 249243 | [249243-knock-and-run.json](./249243-knock-and-run.json) |
 | Knock Harder | 120953 | [120953-knock-harder.json](./120953-knock-harder.json) |
 | Knock Knock | 323988 | [323988-knock-knock.json](./323988-knock-knock.json) |
 | Knock Knock Traveling soulsman | 178013 | [178013-knock-knock-traveling-soulsman.json](./178013-knock-knock-traveling-soulsman.json) |
