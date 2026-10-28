@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.Game Hong Kong Mahjong | 255227 | [255227-i-game-hong-kong-mahjong.json](./255227-i-game-hong-kong-mahjong.json) |
 | I.H.A.S | 224773 | [224773-i-h-a-s.json](./224773-i-h-a-s.json) |
 | I.H.N.I. | 269462 | [269462-i-h-n-i.json](./269462-i-h-n-i.json) |
+| I.K.E.M.E.N Go | 230491 | [230491-i-k-e-m-e-n-go.json](./230491-i-k-e-m-e-n-go.json) |
 | I.M. Meen | 84281 | [84281-i-m-meen.json](./84281-i-m-meen.json) |
 | I.N.E.R.T.I.A. | 80810 | [80810-i-n-e-r-t-i-a.json](./80810-i-n-e-r-t-i-a.json) |
 | I.O. Setter | 290836 | [290836-i-o-setter.json](./290836-i-o-setter.json) |
