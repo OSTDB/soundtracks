@@ -9637,6 +9637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover 2030 | 32897 | [32897-hover-2030.json](./32897-hover-2030.json) |
 | Hover Ace | 54103 | [54103-hover-ace.json](./54103-hover-ace.json) |
 | Hover Attack | 62586 | [62586-hover-attack.json](./62586-hover-attack.json) |
+| Hover Biker | 243846 | [243846-hover-biker.json](./243846-hover-biker.json) |
 | Hover Bots VR | 47134 | [47134-hover-bots-vr.json](./47134-hover-bots-vr.json) |
 | Hover Bovver | 47174 | [47174-hover-bovver.json](./47174-hover-bovver.json) |
 | Hover Cross Skills | 249316 | [249316-hover-cross-skills.json](./249316-hover-cross-skills.json) |
@@ -10273,6 +10274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Fish Evolution | 96629 | [96629-hungry-fish-evolution.json](./96629-hungry-fish-evolution.json) |
 | Hungry Flame | 29579 | [29579-hungry-flame.json](./29579-hungry-flame.json) |
 | Hungry for Applez | 350896 | [350896-hungry-for-applez.json](./350896-hungry-for-applez.json) |
+| Hungry for Home: A Cat's Tail | 242703 | [242703-hungry-for-home-a-cats-tail.json](./242703-hungry-for-home-a-cats-tail.json) |
 | Hungry Fox | 181393 | [181393-hungry-fox.json](./181393-hungry-fox.json) |
 | Hungry Frog | 183335 | [183335-hungry-frog.json](./183335-hungry-frog.json) |
 | Hungry Froo | 259976 | [259976-hungry-froo.json](./259976-hungry-froo.json) |
