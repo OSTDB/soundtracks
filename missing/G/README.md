@@ -1242,6 +1242,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game with Friends | 299748 | [299748-game-with-friends.json](./299748-game-with-friends.json) |
 | Game-No-Watch Ball | 292075 | [292075-game-no-watch-ball.json](./292075-game-no-watch-ball.json) |
 | Game-Pac | 319582 | [319582-game-pac.json](./319582-game-pac.json) |
+| Game-VCD 1 | 263623 | [263623-game-vcd-1.json](./263623-game-vcd-1.json) |
+| Game-VCD 2 | 263624 | [263624-game-vcd-2.json](./263624-game-vcd-2.json) |
+| Game-VCD 3 | 263625 | [263625-game-vcd-3.json](./263625-game-vcd-3.json) |
+| Game-VCD 4 | 263626 | [263626-game-vcd-4.json](./263626-game-vcd-4.json) |
+| Game-VCD 5 | 263627 | [263627-game-vcd-5.json](./263627-game-vcd-5.json) |
+| Game-VCD 6 | 263628 | [263628-game-vcd-6.json](./263628-game-vcd-6.json) |
+| Game-VCD 7 | 263629 | [263629-game-vcd-7.json](./263629-game-vcd-7.json) |
+| Game-VCD 8 | 263630 | [263630-game-vcd-8.json](./263630-game-vcd-8.json) |
+| Game-VCD 9 | 263631 | [263631-game-vcd-9.json](./263631-game-vcd-9.json) |
 | Game, Game, Game, and again Game | 231840 | [231840-game-game-game-and-again-game.json](./231840-game-game-game-and-again-game.json) |
 | Game, Net & Match! | 85732 | [85732-game-net-and-match.json](./85732-game-net-and-match.json) |
 | Game, Set & Match | 41002 | [41002-game-set-and-match.json](./41002-game-set-and-match.json) |
