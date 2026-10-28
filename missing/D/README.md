@@ -5672,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Residence | 164275 | [164275-demons-residence.json](./164275-demons-residence.json) |
 | Demon's Residence | 207878 | [207878-demons-residence.json](./207878-demons-residence.json) |
 | Demon's Revenge | 13587 | [13587-demons-revenge.json](./13587-demons-revenge.json) |
+| Demon's Rise | 237582 | [237582-demons-rise.json](./237582-demons-rise.json) |
 | Demon's Rise - Lords of Chaos | 97899 | [97899-demons-rise-lords-of-chaos.json](./97899-demons-rise-lords-of-chaos.json) |
 | Demon's Rise 2 | 100872 | [100872-demons-rise-2.json](./100872-demons-rise-2.json) |
 | Demon's Rise 2: Lords of Chaos | 104107 | [104107-demons-rise-2-lords-of-chaos.json](./104107-demons-rise-2-lords-of-chaos.json) |
@@ -11233,6 +11234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Mafia: Epic Alchemy | 361022 | [361022-doodle-mafia-epic-alchemy.json](./361022-doodle-mafia-epic-alchemy.json) |
 | Doodle Mountain | 233417 | [233417-doodle-mountain.json](./233417-doodle-mountain.json) |
 | Doodle Movie Quiz | 232504 | [232504-doodle-movie-quiz.json](./232504-doodle-movie-quiz.json) |
+| Doodle Nuke | 237600 | [237600-doodle-nuke.json](./237600-doodle-nuke.json) |
 | Doodle or Die | 252291 | [252291-doodle-or-die.json](./252291-doodle-or-die.json) |
 | Doodle Pool | 64225 | [64225-doodle-pool.json](./64225-doodle-pool.json) |
 | Doodle Road | 369517 | [369517-doodle-road.json](./369517-doodle-road.json) |
@@ -12249,6 +12251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr Nakamoto's Digital Eggs | 200039 | [200039-dr-nakamotos-digital-eggs.json](./200039-dr-nakamotos-digital-eggs.json) |
 | Dr Pig's Hospital | 95301 | [95301-dr-pigs-hospital.json](./95301-dr-pigs-hospital.json) |
 | Dr Scrime's Spook School | 13607 | [13607-dr-scrimes-spook-school.json](./13607-dr-scrimes-spook-school.json) |
+| Dr Smart Space Adventure | 237554 | [237554-dr-smart-space-adventure.json](./237554-dr-smart-space-adventure.json) |
 | Dr Smart Space Encyclopedia | 242046 | [242046-dr-smart-space-encyclopedia.json](./242046-dr-smart-space-encyclopedia.json) |
 | Dr Wan | 246849 | [246849-dr-wan.json](./246849-dr-wan.json) |
 | Dr. Alb's Prodigy | 291844 | [291844-dr-albs-prodigy.json](./291844-dr-albs-prodigy.json) |
@@ -14465,6 +14468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Horizon Story | 411141 | [411141-drive-horizon-story.json](./411141-drive-horizon-story.json) |
 | Drive in the Rain | 414818 | [414818-drive-in-the-rain.json](./414818-drive-in-the-rain.json) |
 | Drive Isle | 44178 | [44178-drive-isle.json](./44178-drive-isle.json) |
+| Drive Jump: Offroad Insanity | 237581 | [237581-drive-jump-offroad-insanity.json](./237581-drive-jump-offroad-insanity.json) |
 | Drive Mad | 371327 | [371327-drive-mad.json](./371327-drive-mad.json) |
 | Drive Master: Simple Operation | 206557 | [206557-drive-master-simple-operation.json](./206557-drive-master-simple-operation.json) |
 | Drive Me Broke | 373107 | [373107-drive-me-broke.json](./373107-drive-me-broke.json) |
