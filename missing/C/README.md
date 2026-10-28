@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camelot 2: The Holy Grail | 247766 | [247766-camelot-2-the-holy-grail.json](./247766-camelot-2-the-holy-grail.json) |
 | Camelot II: The Holy Grail - Collector's Edition | 417499 | [417499-camelot-ii-the-holy-grail-collectors-edition.json](./417499-camelot-ii-the-holy-grail-collectors-edition.json) |
 | Camelot Warriors | 13461 | [13461-camelot-warriors.json](./13461-camelot-warriors.json) |
+| Camelot: Wrath of the Green Knight - Collector's Edition | 249373 | [249373-camelot-wrath-of-the-green-knight-collectors-edition.json](./249373-camelot-wrath-of-the-green-knight-collectors-edition.json) |
 | CamelVsPirates | 395811 | [395811-camelvspirates.json](./395811-camelvspirates.json) |
 | Camera | 307051 | [307051-camera.json](./307051-camera.json) |
 | Camera Anima | 259647 | [259647-camera-anima.json](./259647-camera-anima.json) |
@@ -7758,6 +7759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities of the World Jigsaw Puzzles: Mexico City | 249604 | [249604-cities-of-the-world-jigsaw-puzzles-mexico-city.json](./249604-cities-of-the-world-jigsaw-puzzles-mexico-city.json) |
 | Cities of the World Jigsaw Puzzles: Rio de Janeiro | 249603 | [249603-cities-of-the-world-jigsaw-puzzles-rio-de-janeiro.json](./249603-cities-of-the-world-jigsaw-puzzles-rio-de-janeiro.json) |
 | Cities of the World Jigsaw Puzzles: Sao Paulo | 249298 | [249298-cities-of-the-world-jigsaw-puzzles-sao-paulo.json](./249298-cities-of-the-world-jigsaw-puzzles-sao-paulo.json) |
+| Cities of the World Jigsaw Puzzles: Tokyo | 249240 | [249240-cities-of-the-world-jigsaw-puzzles-tokyo.json](./249240-cities-of-the-world-jigsaw-puzzles-tokyo.json) |
 | Cities of the World Jigsaw Puzzles: Venice | 249297 | [249297-cities-of-the-world-jigsaw-puzzles-venice.json](./249297-cities-of-the-world-jigsaw-puzzles-venice.json) |
 | Cities Restored | 211995 | [211995-cities-restored.json](./211995-cities-restored.json) |
 | Cities Skylines Mobile Edition | 237630 | [237630-cities-skylines-mobile-edition.json](./237630-cities-skylines-mobile-edition.json) |
@@ -13647,6 +13649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab Island | 226775 | [226775-crab-island.json](./226775-crab-island.json) |
 | Crab My Passion | 279210 | [279210-crab-my-passion.json](./279210-crab-my-passion.json) |
 | Crab Raid Tactics | 247749 | [247749-crab-raid-tactics.json](./247749-crab-raid-tactics.json) |
+| Crab Rhapsody: Vol.1 | 249009 | [249009-crab-rhapsody-vol-1.json](./249009-crab-rhapsody-vol-1.json) |
 | Crab War | 114691 | [114691-crab-war.json](./114691-crab-war.json) |
 | Crab Wave | 315646 | [315646-crab-wave.json](./315646-crab-wave.json) |
 | Crab-Ball | 370111 | [370111-crab-ball.json](./370111-crab-ball.json) |
