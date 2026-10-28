@@ -6969,6 +6969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Guesser | 259006 | [259006-world-guesser.json](./259006-world-guesser.json) |
 | World Heritage True or False Quiz | 378790 | [378790-world-heritage-true-or-false-quiz.json](./378790-world-heritage-true-or-false-quiz.json) |
 | World Heritage VR: Swedish Farmhouse | 304024 | [304024-world-heritage-vr-swedish-farmhouse.json](./304024-world-heritage-vr-swedish-farmhouse.json) |
+| World Heroes 2 | 267531 | [267531-world-heroes-2.json](./267531-world-heroes-2.json) |
 | World Heroes 2 | 37251 | [37251-world-heroes-2.json](./37251-world-heroes-2.json) |
 | World Heroes 2 Jet | 201268 | [201268-world-heroes-2-jet.json](./201268-world-heroes-2-jet.json) |
 | World Heroes Anthology | 20993 | [20993-world-heroes-anthology.json](./20993-world-heroes-anthology.json) |
@@ -7553,6 +7554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Runner | 207354 | [207354-worm-runner.json](./207354-worm-runner.json) |
 | Worm Slayer | 197206 | [197206-worm-slayer.json](./197206-worm-slayer.json) |
 | Worm Visitor | 210645 | [210645-worm-visitor.json](./210645-worm-visitor.json) |
+| Worm Visitor | 267514 | [267514-worm-visitor.json](./267514-worm-visitor.json) |
 | Worm War I | 22556 | [22556-worm-war-i.json](./22556-worm-war-i.json) |
 | Worm War: Greengrocer | 290420 | [290420-worm-war-greengrocer.json](./290420-worm-war-greengrocer.json) |
 | Worm.is: The Game | 32723 | [32723-worm-is-the-game.json](./32723-worm-is-the-game.json) |
