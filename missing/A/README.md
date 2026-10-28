@@ -7500,6 +7500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: W900 Tuning Pack | 259959 | [259959-american-truck-simulator-w900-tuning-pack.json](./259959-american-truck-simulator-w900-tuning-pack.json) |
 | American Truck Simulator: Washington | 119380 | [119380-american-truck-simulator-washington.json](./119380-american-truck-simulator-washington.json) |
 | American Truck Simulator: Western Star 49X | 288633 | [288633-american-truck-simulator-western-star-49x.json](./288633-american-truck-simulator-western-star-49x.json) |
+| American Truck Simulator: Western Star 5700XE | 234266 | [234266-american-truck-simulator-western-star-5700xe.json](./234266-american-truck-simulator-western-star-5700xe.json) |
 | American Truck Simulator: Western Star 57X | 211406 | [211406-american-truck-simulator-western-star-57x.json](./211406-american-truck-simulator-western-star-57x.json) |
 | American Truck Simulator: Wheel Tuning Pack | 353402 | [353402-american-truck-simulator-wheel-tuning-pack.json](./353402-american-truck-simulator-wheel-tuning-pack.json) |
 | American Truck Simulator: Wyoming | 165379 | [165379-american-truck-simulator-wyoming.json](./165379-american-truck-simulator-wyoming.json) |
@@ -8715,6 +8716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Planet: Vet Collection | 56336 | [56336-animal-planet-vet-collection.json](./56336-animal-planet-vet-collection.json) |
 | Animal Planet: Vet Life | 50635 | [50635-animal-planet-vet-life.json](./50635-animal-planet-vet-life.json) |
 | Animal Planner | 254767 | [254767-animal-planner.json](./254767-animal-planner.json) |
+| Animal Portal: Puzzle | 234283 | [234283-animal-portal-puzzle.json](./234283-animal-portal-puzzle.json) |
 | Animal Puzzle Cats | 225892 | [225892-animal-puzzle-cats.json](./225892-animal-puzzle-cats.json) |
 | Animal Puzzle for Kids and Toddlers | 300765 | [300765-animal-puzzle-for-kids-and-toddlers.json](./300765-animal-puzzle-for-kids-and-toddlers.json) |
 | Animal Puzzle for Toddlers and Kids | 204277 | [204277-animal-puzzle-for-toddlers-and-kids.json](./204277-animal-puzzle-for-toddlers-and-kids.json) |
@@ -13817,6 +13819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrid & the Witch | 177941 | [177941-astrid-and-the-witch.json](./177941-astrid-and-the-witch.json) |
 | Astrid: Reverie | 223493 | [223493-astrid-reverie.json](./223493-astrid-reverie.json) |
 | Astride | 216726 | [216726-astride.json](./216726-astride.json) |
+| Astro & Suzy Go to the Beach | 234284 | [234284-astro-and-suzy-go-to-the-beach.json](./234284-astro-and-suzy-go-to-the-beach.json) |
 | Astro & Suzy Go to the Circus | 397071 | [397071-astro-and-suzy-go-to-the-circus.json](./397071-astro-and-suzy-go-to-the-circus.json) |
 | Astro Ace | 165737 | [165737-astro-ace.json](./165737-astro-ace.json) |
 | Astro Aegis | 297423 | [297423-astro-aegis.json](./297423-astro-aegis.json) |
