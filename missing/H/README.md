@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker's Adventure | 142244 | [142244-hackers-adventure.json](./142244-hackers-adventure.json) |
 | Hacker's Beat | 35560 | [35560-hackers-beat.json](./35560-hackers-beat.json) |
 | Hacker’s Journey | 411625 | [411625-hacker-s-journey.json](./411625-hacker-s-journey.json) |
+| Hacker's Life | 271030 | [271030-hackers-life.json](./271030-hackers-life.json) |
 | HackeRPG | 280125 | [280125-hackerpg.json](./280125-hackerpg.json) |
 | Hackers | 80455 | [80455-hackers.json](./80455-hackers.json) |
 | Hackerwars.io | 139874 | [139874-hackerwars-io.json](./139874-hackerwars-io.json) |
@@ -346,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakoniwa Sumo | 161615 | [161615-hakoniwa-sumo.json](./161615-hakoniwa-sumo.json) |
 | Hakosan | 228336 | [228336-hakosan.json](./228336-hakosan.json) |
 | Hakou Watcher | 253936 | [253936-hakou-watcher.json](./253936-hakou-watcher.json) |
+| Hakuba School! Hunting Prey | 271029 | [271029-hakuba-school-hunting-prey.json](./271029-hakuba-school-hunting-prey.json) |
 | Hakuchuumu no Bibouroku | 376630 | [376630-hakuchuumu-no-bibouroku.json](./376630-hakuchuumu-no-bibouroku.json) |
 | Hakuda's Wife Visiting | 151695 | [151695-hakudas-wife-visiting.json](./151695-hakudas-wife-visiting.json) |
 | Hakuga | 280179 | [280179-hakuga.json](./280179-hakuga.json) |
@@ -650,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Shooter | 222395 | [222395-halloween-shooter.json](./222395-halloween-shooter.json) |
 | Halloween Sinister Trivia | 274488 | [274488-halloween-sinister-trivia.json](./274488-halloween-sinister-trivia.json) |
 | Halloween Store Simulator | 216625 | [216625-halloween-store-simulator.json](./216625-halloween-store-simulator.json) |
+| Halloween Stories: Black Book - Collector's Edition | 271028 | [271028-halloween-stories-black-book-collectors-edition.json](./271028-halloween-stories-black-book-collectors-edition.json) |
 | Halloween Stories: Defying Death - Collector’s Edition | 228252 | [228252-halloween-stories-defying-death-collector-s-edition.json](./228252-halloween-stories-defying-death-collector-s-edition.json) |
 | Halloween Stories: Horror Movie | 187953 | [187953-halloween-stories-horror-movie.json](./187953-halloween-stories-horror-movie.json) |
 | Halloween Stories: Horror Movie - Collector's Edition | 173175 | [173175-halloween-stories-horror-movie-collectors-edition.json](./173175-halloween-stories-horror-movie-collectors-edition.json) |
@@ -1224,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanjuku Hero | 78948 | [78948-hanjuku-hero.json](./78948-hanjuku-hero.json) |
 | Hanjuku Hero 4: 7-nin no Hanjuku Hero | 67365 | [67365-hanjuku-hero-4-7-nin-no-hanjuku-hero.json](./67365-hanjuku-hero-4-7-nin-no-hanjuku-hero.json) |
 | Hanjuku Hero Tai 3D | 67366 | [67366-hanjuku-hero-tai-3d.json](./67366-hanjuku-hero-tai-3d.json) |
+| Hank | 271027 | [271027-hank.json](./271027-hank.json) |
 | Hank | 70118 | [70118-hank.json](./70118-hank.json) |
 | Hank Hill Smokes Marijuana | 335727 | [335727-hank-hill-smokes-marijuana.json](./335727-hank-hill-smokes-marijuana.json) |
 | Hank Loves the Beach | 240797 | [240797-hank-loves-the-beach.json](./240797-hank-loves-the-beach.json) |
@@ -2082,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hashire Hebereke: EX | 325670 | [325670-hashire-hebereke-ex.json](./325670-hashire-hebereke-ex.json) |
 | Hashire! Chuukan Kanrishoku | 254930 | [254930-hashire-chuukan-kanrishoku.json](./254930-hashire-chuukan-kanrishoku.json) |
 | Hashiriya Drifter | 186282 | [186282-hashiriya-drifter.json](./186282-hashiriya-drifter.json) |
+| Hashrine | 271026 | [271026-hashrine.json](./271026-hashrine.json) |
 | Hashtag Dungeon | 35942 | [35942-hashtag-dungeon.json](./35942-hashtag-dungeon.json) |
 | Hasicontent | 135041 | [135041-hasicontent.json](./135041-hasicontent.json) |
 | Hasshaku-sama to Love Come Suru | 395499 | [395499-hasshaku-sama-to-love-come-suru.json](./395499-hasshaku-sama-to-love-come-suru.json) |
@@ -2376,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Starbase | 317360 | [317360-haunted-starbase.json](./317360-haunted-starbase.json) |
 | Haunted Streamer | 331236 | [331236-haunted-streamer.json](./331236-haunted-streamer.json) |
 | Haunted Theme Park Hidden Object | 99503 | [99503-haunted-theme-park-hidden-object.json](./99503-haunted-theme-park-hidden-object.json) |
+| Haunted Things | 271034 | [271034-haunted-things.json](./271034-haunted-things.json) |
 | Haunted Train: Frozen in Time | 140032 | [140032-haunted-train-frozen-in-time.json](./140032-haunted-train-frozen-in-time.json) |
 | Haunted Train: Frozen in Time - Collector's Edition | 76478 | [76478-haunted-train-frozen-in-time-collectors-edition.json](./76478-haunted-train-frozen-in-time-collectors-edition.json) |
 | Haunted Train: Spirits of Charon | 140033 | [140033-haunted-train-spirits-of-charon.json](./140033-haunted-train-spirits-of-charon.json) |
@@ -3572,6 +3578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Warriors | 127380 | [127380-hell-warriors.json](./127380-hell-warriors.json) |
 | Hell Weaver | 192714 | [192714-hell-weaver.json](./192714-hell-weaver.json) |
 | Hell Wedding | 114502 | [114502-hell-wedding.json](./114502-hell-wedding.json) |
+| Hell Well | 271033 | [271033-hell-well.json](./271033-hell-well.json) |
 | Hell Worlds Reinvigorated | 333993 | [333993-hell-worlds-reinvigorated.json](./333993-hell-worlds-reinvigorated.json) |
 | Hell Yeah Simulator | 326405 | [326405-hell-yeah-simulator.json](./326405-hell-yeah-simulator.json) |
 | Hell Yeah! Pocket Inferno | 78672 | [78672-hell-yeah-pocket-inferno.json](./78672-hell-yeah-pocket-inferno.json) |
@@ -4050,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hen Pecked | 44393 | [44393-hen-pecked.json](./44393-hen-pecked.json) |
 | Hen Town | 295599 | [295599-hen-town.json](./295599-hen-town.json) |
 | Hen, Chicks and Cats | 204428 | [204428-hen-chicks-and-cats.json](./204428-hen-chicks-and-cats.json) |
+| HenapoLand | 271035 | [271035-henapoland.json](./271035-henapoland.json) |
 | HenapoLand: Tsuika Avatar Room | 297745 | [297745-henapoland-tsuika-avatar-room.json](./297745-henapoland-tsuika-avatar-room.json) |
 | Henbou no Bansan | 98439 | [98439-henbou-no-bansan.json](./98439-henbou-no-bansan.json) |
 | Hench: The Mix Master | 62635 | [62635-hench-the-mix-master.json](./62635-hench-the-mix-master.json) |
@@ -4110,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Akira | 411069 | [411069-hentai-akira.json](./411069-hentai-akira.json) |
 | Hentai Amazon Girls | 368011 | [368011-hentai-amazon-girls.json](./368011-hentai-amazon-girls.json) |
 | Hentai Ami | 245995 | [245995-hentai-ami.json](./245995-hentai-ami.json) |
+| Hentai Ancient Secret | 271032 | [271032-hentai-ancient-secret.json](./271032-hentai-ancient-secret.json) |
 | Hentai Animation Puzzle | 367037 | [367037-hentai-animation-puzzle.json](./367037-hentai-animation-puzzle.json) |
 | Hentai Anime Girls Succubus | 290449 | [290449-hentai-anime-girls-succubus.json](./290449-hentai-anime-girls-succubus.json) |
 | Hentai Anime Girls Succubus: Extended Edition | 312058 | [312058-hentai-anime-girls-succubus-extended-edition.json](./312058-hentai-anime-girls-succubus-extended-edition.json) |
