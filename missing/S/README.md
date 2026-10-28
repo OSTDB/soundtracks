@@ -1484,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānguó Yóuxiá Zhì | 83569 | [83569-sanguo-youxia-zhi.json](./83569-sanguo-youxia-zhi.json) |
 | Sānguó Zhì: Qúnxióng Zhēngbà | 350017 | [350017-sanguo-zhi-qunxiong-zhengba.json](./350017-sanguo-zhi-qunxiong-zhengba.json) |
 | Sānguó: 223 | 257678 | [257678-sanguo-223.json](./257678-sanguo-223.json) |
+| Sanguo's Ambition 4: Three Kingdoms | 265802 | [265802-sanguos-ambition-4-three-kingdoms.json](./265802-sanguos-ambition-4-three-kingdoms.json) |
 | Sānguózhì Juéxǐng | 367273 | [367273-sanguozhi-juexing.json](./367273-sanguozhi-juexing.json) |
 | Sānguózhì Měngjiàng Zhuán | 158528 | [158528-sanguozhi-mengjiang-zhuan.json](./158528-sanguozhi-mengjiang-zhuan.json) |
 | Sānguózhì Qúnyīng Zhuàn | 410976 | [410976-sanguozhi-qunying-zhuan.json](./410976-sanguozhi-qunying-zhuan.json) |
@@ -2557,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Flight Simulator | 234650 | [234650-school-flight-simulator.json](./234650-school-flight-simulator.json) |
 | School for the Friendless | 179366 | [179366-school-for-the-friendless.json](./179366-school-for-the-friendless.json) |
 | School Girl Apartment Paradise | 210314 | [210314-school-girl-apartment-paradise.json](./210314-school-girl-apartment-paradise.json) |
+| School Girl Simulator | 265808 | [265808-school-girl-simulator.json](./265808-school-girl-simulator.json) |
 | School Girl/Zombie Hunter | 41827 | [41827-school-girl-zombie-hunter.json](./41827-school-girl-zombie-hunter.json) |
 | School Girls Dance | 296755 | [296755-school-girls-dance.json](./296755-school-girls-dance.json) |
 | School Grounds | 112738 | [112738-school-grounds.json](./112738-school-grounds.json) |
@@ -3992,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Mansion | 184442 | [184442-secrets-of-the-mansion.json](./184442-secrets-of-the-mansion.json) |
 | Secrets of the Middle Ages | 165660 | [165660-secrets-of-the-middle-ages.json](./165660-secrets-of-the-middle-ages.json) |
 | Secrets of the Past: Dion | 110895 | [110895-secrets-of-the-past-dion.json](./110895-secrets-of-the-past-dion.json) |
+| Secrets of the Room 3: The Girl Group Back to the Night | 265782 | [265782-secrets-of-the-room-3-the-girl-group-back-to-the-night.json](./265782-secrets-of-the-room-3-the-girl-group-back-to-the-night.json) |
 | Secrets of the Seas | 53585 | [53585-secrets-of-the-seas.json](./53585-secrets-of-the-seas.json) |
 | Secrets of the Shiratori Twins | 247413 | [247413-secrets-of-the-shiratori-twins.json](./247413-secrets-of-the-shiratori-twins.json) |
 | Secrets of the Shore | 293839 | [293839-secrets-of-the-shore.json](./293839-secrets-of-the-shore.json) |
@@ -6016,6 +6019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Mordor: Game two of Lord of the Rings | 10799 | [10799-shadows-of-mordor-game-two-of-lord-of-the-rings.json](./10799-shadows-of-mordor-game-two-of-lord-of-the-rings.json) |
 | Shadows of Progakko | 325542 | [325542-shadows-of-progakko.json](./325542-shadows-of-progakko.json) |
 | Shadows of Progakko: Kuro | 301693 | [301693-shadows-of-progakko-kuro.json](./301693-shadows-of-progakko-kuro.json) |
+| Shadows of Revenge | 265461 | [265461-shadows-of-revenge.json](./265461-shadows-of-revenge.json) |
 | Shadows of Rogue: The Sorcerer's Curse | 272281 | [272281-shadows-of-rogue-the-sorcerers-curse.json](./272281-shadows-of-rogue-the-sorcerers-curse.json) |
 | Shadows of RON | 71167 | [71167-shadows-of-ron.json](./71167-shadows-of-ron.json) |
 | Shadows of Soldiers | 264143 | [264143-shadows-of-soldiers.json](./264143-shadows-of-soldiers.json) |
@@ -8995,6 +8999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Paradise Anthology | 402901 | [402901-silent-paradise-anthology.json](./402901-silent-paradise-anthology.json) |
 | Silent Paws | 250772 | [250772-silent-paws.json](./250772-silent-paws.json) |
 | Silent Paws: Hidden Valley | 264006 | [264006-silent-paws-hidden-valley.json](./264006-silent-paws-hidden-valley.json) |
+| Silent Paws: Winter Quest | 265817 | [265817-silent-paws-winter-quest.json](./265817-silent-paws-winter-quest.json) |
 | Silent Raid | 417268 | [417268-silent-raid.json](./417268-silent-raid.json) |
 | Silent Rain | 258078 | [258078-silent-rain.json](./258078-silent-rain.json) |
 | Silent Reel | 367979 | [367979-silent-reel.json](./367979-silent-reel.json) |
@@ -18896,6 +18901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of the Backwaters | 248076 | [248076-spirit-of-the-backwaters.json](./248076-spirit-of-the-backwaters.json) |
 | Spirit of the Blade | 151480 | [151480-spirit-of-the-blade.json](./151480-spirit-of-the-blade.json) |
 | Spirit of the Island | 152373 | [152373-spirit-of-the-island.json](./152373-spirit-of-the-island.json) |
+| Spirit of the Island: Adventureland | 265792 | [265792-spirit-of-the-island-adventureland.json](./265792-spirit-of-the-island-adventureland.json) |
 | Spirit of the Island: Beach Resort | 251664 | [251664-spirit-of-the-island-beach-resort.json](./251664-spirit-of-the-island-beach-resort.json) |
 | Spirit of the Lilies | 326687 | [326687-spirit-of-the-lilies.json](./326687-spirit-of-the-lilies.json) |
 | Spirit of the Obelisk | 325306 | [325306-spirit-of-the-obelisk.json](./325306-spirit-of-the-obelisk.json) |
@@ -22110,6 +22116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static Dread: The Lighthouse | 330815 | [330815-static-dread-the-lighthouse.json](./330815-static-dread-the-lighthouse.json) |
 | Static Dread: The Submarine | 376689 | [376689-static-dread-the-submarine.json](./376689-static-dread-the-submarine.json) |
 | Static Hour | 415918 | [415918-static-hour.json](./415918-static-hour.json) |
+| Static Mag | 265812 | [265812-static-mag.json](./265812-static-mag.json) |
 | Static Memory | 350232 | [350232-static-memory.json](./350232-static-memory.json) |
 | Static Paradox | 335056 | [335056-static-paradox.json](./335056-static-paradox.json) |
 | Static Shift Racing | 231894 | [231894-static-shift-racing.json](./231894-static-shift-racing.json) |
@@ -29611,6 +29618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor's Day | 294947 | [294947-survivors-day.json](./294947-survivors-day.json) |
 | Survivor's End | 250451 | [250451-survivors-end.json](./250451-survivors-end.json) |
 | Survivorman VR: The Descent | 224602 | [224602-survivorman-vr-the-descent.json](./224602-survivorman-vr-the-descent.json) |
+| Survivors | 265811 | [265811-survivors.json](./265811-survivors.json) |
 | Survivors | 291906 | [291906-survivors.json](./291906-survivors.json) |
 | Survivors | 292413 | [292413-survivors.json](./292413-survivors.json) |
 | Survivors in Blood | 296532 | [296532-survivors-in-blood.json](./296532-survivors-in-blood.json) |
