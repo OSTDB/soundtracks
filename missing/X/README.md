@@ -19,7 +19,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X Mushrooms | 89649 | [89649-x-mushrooms.json](./89649-x-mushrooms.json) |
 | X Mutation | 290924 | [290924-x-mutation.json](./290924-x-mutation.json) |
 | X Operations | 67954 | [67954-x-operations.json](./67954-x-operations.json) |
-| X Rebirth | 3347 | [3347-x-rebirth.json](./3347-x-rebirth.json) |
 | X Rebirth: Collector's Edition | 52126 | [52126-x-rebirth-collectors-edition.json](./52126-x-rebirth-collectors-edition.json) |
 | X Rebirth: Complete Edition | 25517 | [25517-x-rebirth-complete-edition.json](./25517-x-rebirth-complete-edition.json) |
 | X Rebirth: Home of Light | 52125 | [52125-x-rebirth-home-of-light.json](./52125-x-rebirth-home-of-light.json) |
