@@ -10276,6 +10276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Splash: Animals | 276677 | [276677-color-splash-animals.json](./276677-color-splash-animals.json) |
 | Color Splash: Birds | 264764 | [264764-color-splash-birds.json](./264764-color-splash-birds.json) |
 | Color Splash: Butterflies | 380804 | [380804-color-splash-butterflies.json](./380804-color-splash-butterflies.json) |
+| Color Splash: Cats | 259702 | [259702-color-splash-cats.json](./259702-color-splash-cats.json) |
 | Color Splash: Dinosaurs | 291082 | [291082-color-splash-dinosaurs.json](./291082-color-splash-dinosaurs.json) |
 | Color Splash: Dogs | 261509 | [261509-color-splash-dogs.json](./261509-color-splash-dogs.json) |
 | Color Splash: Fairies | 301834 | [301834-color-splash-fairies.json](./301834-color-splash-fairies.json) |
@@ -10896,6 +10897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic 5trike | 148935 | [148935-comic-5trike.json](./148935-comic-5trike.json) |
 | Comic Bakery | 13831 | [13831-comic-bakery.json](./13831-comic-bakery.json) |
 | Comic Book Hero: The Greatest Cape | 33993 | [33993-comic-book-hero-the-greatest-cape.json](./33993-comic-book-hero-the-greatest-cape.json) |
+| Comic Book Legends | 259672 | [259672-comic-book-legends.json](./259672-comic-book-legends.json) |
 | Comic Book Tycoon | 129620 | [129620-comic-book-tycoon.json](./129620-comic-book-tycoon.json) |
 | Comic Book Universe | 322774 | [322774-comic-book-universe.json](./322774-comic-book-universe.json) |
 | Comic Circus | 83201 | [83201-comic-circus.json](./83201-comic-circus.json) |
