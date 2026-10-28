@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Pix | 18275 | [18275-pac-pix.json](./18275-pac-pix.json) |
 | Pac-Slot | 64458 | [64458-pac-slot.json](./64458-pac-slot.json) |
 | Pac-Snec | 393131 | [393131-pac-snec.json](./393131-pac-snec.json) |
+| Pac-Xon Hero Strikes Back! | 238859 | [238859-pac-xon-hero-strikes-back.json](./238859-pac-xon-hero-strikes-back.json) |
 | Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
 | Paca Paca Passion Special | 329386 | [329386-paca-paca-passion-special.json](./329386-paca-paca-passion-special.json) |
 | Paca Plus | 79672 | [79672-paca-plus.json](./79672-paca-plus.json) |
@@ -8884,6 +8885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PockeDate! | 323228 | [323228-pockedate.json](./323228-pockedate.json) |
 | Pocket & Zooom | 338310 | [338310-pocket-and-zooom.json](./338310-pocket-and-zooom.json) |
 | Pocket Academy 3 | 213787 | [213787-pocket-academy-3.json](./213787-pocket-academy-3.json) |
+| Pocket Academy Zero | 239258 | [239258-pocket-academy-zero.json](./239258-pocket-academy-zero.json) |
 | Pocket Action: Pro Football | 245423 | [245423-pocket-action-pro-football.json](./245423-pocket-action-pro-football.json) |
 | Pocket Adventurer | 416043 | [416043-pocket-adventurer.json](./416043-pocket-adventurer.json) |
 | Pocket Ants | 193954 | [193954-pocket-ants.json](./193954-pocket-ants.json) |
