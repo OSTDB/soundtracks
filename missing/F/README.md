@@ -1224,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: The Frontier | 25878 | [25878-fallout-the-frontier.json](./25878-fallout-the-frontier.json) |
 | Fallout: Vault 13 | 299706 | [299706-fallout-vault-13.json](./299706-fallout-vault-13.json) |
 | Fallout: Yesterday | 290277 | [290277-fallout-yesterday.json](./290277-fallout-yesterday.json) |
+| FallOver | 242698 | [242698-fallover.json](./242698-fallover.json) |
 | Fallow | 56437 | [56437-fallow.json](./56437-fallow.json) |
 | Falls and Jumps | 262904 | [262904-falls-and-jumps.json](./262904-falls-and-jumps.json) |
 | Fallsaga | 355127 | [355127-fallsaga.json](./355127-fallsaga.json) |
@@ -11207,6 +11208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FSA Driving | 294102 | [294102-fsa-driving.json](./294102-fsa-driving.json) |
 | FSKN | 350357 | [350357-fskn.json](./350357-fskn.json) |
 | FSR: French Street Racing | 208480 | [208480-fsr-french-street-racing.json](./208480-fsr-french-street-racing.json) |
+| FT Adventures | 242352 | [242352-ft-adventures.json](./242352-ft-adventures.json) |
 | FT Nibbles | 137379 | [137379-ft-nibbles.json](./137379-ft-nibbles.json) |
 | FTB | 351712 | [351712-ftb.json](./351712-ftb.json) |
 | FTB Academy | 396938 | [396938-ftb-academy.json](./396938-ftb-academy.json) |
@@ -11626,6 +11628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Boxers | 44725 | [44725-funky-boxers.json](./44725-funky-boxers.json) |
 | Funky Fantasy | 77226 | [77226-funky-fantasy.json](./77226-funky-fantasy.json) |
 | Funky Fish | 39685 | [39685-funky-fish.json](./39685-funky-fish.json) |
+| Funky Funny Aliens | 242706 | [242706-funky-funny-aliens.json](./242706-funky-funny-aliens.json) |
 | Funky Head Boxers | 54964 | [54964-funky-head-boxers.json](./54964-funky-head-boxers.json) |
 | Funky Hoops! | 63651 | [63651-funky-hoops.json](./63651-funky-hoops.json) |
 | Funky Horror Band | 45872 | [45872-funky-horror-band.json](./45872-funky-horror-band.json) |
