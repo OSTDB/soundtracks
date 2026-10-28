@@ -5871,6 +5871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Pulse | 304573 | [304573-wizard-pulse.json](./304573-wizard-pulse.json) |
 | Wizard Punks!!! | 392077 | [392077-wizard-punks.json](./392077-wizard-punks.json) |
 | Wizard Realm | 287684 | [287684-wizard-realm.json](./287684-wizard-realm.json) |
+| Wizard Recurse | 229269 | [229269-wizard-recurse.json](./229269-wizard-recurse.json) |
 | Wizard School Dropout | 416860 | [416860-wizard-school-dropout.json](./416860-wizard-school-dropout.json) |
 | Wizard Slime | 113173 | [113173-wizard-slime.json](./113173-wizard-slime.json) |
 | Wizard Soup | 408812 | [408812-wizard-soup.json](./408812-wizard-soup.json) |
@@ -6322,6 +6323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderland | 377143 | [377143-wonderland.json](./377143-wonderland.json) |
 | Wonderland | 95460 | [95460-wonderland.json](./95460-wonderland.json) |
 | Wonderland Adventures | 145906 | [145906-wonderland-adventures.json](./145906-wonderland-adventures.json) |
+| Wonderland Adventures: Planet of the Z-Bots | 229388 | [229388-wonderland-adventures-planet-of-the-z-bots.json](./229388-wonderland-adventures-planet-of-the-z-bots.json) |
 | Wonderland Dizzy | 152001 | [152001-wonderland-dizzy.json](./152001-wonderland-dizzy.json) |
 | Wonderland Mahjong | 415957 | [415957-wonderland-mahjong.json](./415957-wonderland-mahjong.json) |
 | Wonderland Nights: White Rabbit's Diary | 151705 | [151705-wonderland-nights-white-rabbits-diary.json](./151705-wonderland-nights-white-rabbits-diary.json) |
