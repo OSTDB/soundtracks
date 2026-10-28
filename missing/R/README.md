@@ -3721,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedRaptor | 262773 | [262773-redraptor.json](./262773-redraptor.json) |
 | ReDrawn: The Painted Tower | 188035 | [188035-redrawn-the-painted-tower.json](./188035-redrawn-the-painted-tower.json) |
 | ReDrawn: The Painted Tower - Collector's Edition | 193231 | [193231-redrawn-the-painted-tower-collectors-edition.json](./193231-redrawn-the-painted-tower-collectors-edition.json) |
+| ReDrawn: The Tower | 232104 | [232104-redrawn-the-tower.json](./232104-redrawn-the-tower.json) |
 | RedRive | 123286 | [123286-redrive.json](./123286-redrive.json) |
 | Redriver 2 | 232854 | [232854-redriver-2.json](./232854-redriver-2.json) |
 | Redrock | 270721 | [270721-redrock.json](./270721-redrock.json) |
@@ -8087,6 +8088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock of Destruction! | 104114 | [104114-rock-of-destruction.json](./104114-rock-of-destruction.json) |
 | Rock of the Dead | 7163 | [7163-rock-of-the-dead.json](./7163-rock-of-the-dead.json) |
 | Rock On | 37658 | [37658-rock-on.json](./37658-rock-on.json) |
+| Rock on: A SongPop Adventure | 232090 | [232090-rock-on-a-songpop-adventure.json](./232090-rock-on-a-songpop-adventure.json) |
 | Rock On! Island | 318739 | [318739-rock-on-island.json](./318739-rock-on-island.json) |
 | Rock Paper Clash | 364441 | [364441-rock-paper-clash.json](./364441-rock-paper-clash.json) |
 | Rock Paper Clicker | 191856 | [191856-rock-paper-clicker.json](./191856-rock-paper-clicker.json) |
@@ -9625,6 +9627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope | 138809 | [138809-rope.json](./138809-rope.json) |
 | Rope & Ball | 262639 | [262639-rope-and-ball.json](./262639-rope-and-ball.json) |
 | Rope and Balls | 208960 | [208960-rope-and-balls.json](./208960-rope-and-balls.json) |
+| Rope Apple Golf | 232130 | [232130-rope-apple-golf.json](./232130-rope-apple-golf.json) |
 | Rope Bowling | 232958 | [232958-rope-bowling.json](./232958-rope-bowling.json) |
 | Rope Cow: Rope it to The Cow | 170519 | [170519-rope-cow-rope-it-to-the-cow.json](./170519-rope-cow-rope-it-to-the-cow.json) |
 | Rope Dancer | 359320 | [359320-rope-dancer.json](./359320-rope-dancer.json) |
@@ -9884,6 +9887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Round Ogre | 201121 | [201121-round-ogre.json](./201121-round-ogre.json) |
 | Round People | 250557 | [250557-round-people.json](./250557-round-people.json) |
 | Round Rooms | 120055 | [120055-round-rooms.json](./120055-round-rooms.json) |
+| Round Space | 232100 | [232100-round-space.json](./232100-round-space.json) |
 | Round Spike | 348954 | [348954-round-spike.json](./348954-round-spike.json) |
 | Round Table | 202719 | [202719-round-table.json](./202719-round-table.json) |
 | Round the Bend! | 73670 | [73670-round-the-bend.json](./73670-round-the-bend.json) |
