@@ -4602,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 13th Month | 166148 | [166148-the-13th-month.json](./166148-the-13th-month.json) |
 | The 1485 | 182751 | [182751-the-1485.json](./182751-the-1485.json) |
 | The 18th Attic | 346707 | [346707-the-18th-attic.json](./346707-the-18th-attic.json) |
+| The 20 Heretics Challenge | 268596 | [268596-the-20-heretics-challenge.json](./268596-the-20-heretics-challenge.json) |
 | The 2018 Fantastic Arcade Bundle | 267967 | [267967-the-2018-fantastic-arcade-bundle.json](./267967-the-2018-fantastic-arcade-bundle.json) |
 | The 2020 Trail | 157151 | [157151-the-2020-trail.json](./157151-the-2020-trail.json) |
 | The 2024 Secret Santa Collab | 373600 | [373600-the-2024-secret-santa-collab.json](./373600-the-2024-secret-santa-collab.json) |
@@ -8393,6 +8394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Ones | 17656 | [17656-the-forgotten-ones.json](./17656-the-forgotten-ones.json) |
 | The Forgotten Ones | 419850 | [419850-the-forgotten-ones.json](./419850-the-forgotten-ones.json) |
 | The Forgotten Phobia | 170547 | [170547-the-forgotten-phobia.json](./170547-the-forgotten-phobia.json) |
+| The Forgotten Portals | 268606 | [268606-the-forgotten-portals.json](./268606-the-forgotten-portals.json) |
 | The Forgotten Sprites | 87986 | [87986-the-forgotten-sprites.json](./87986-the-forgotten-sprites.json) |
 | The Forgotten Tapes: Analog Nightmares | 231353 | [231353-the-forgotten-tapes-analog-nightmares.json](./231353-the-forgotten-tapes-analog-nightmares.json) |
 | The Forgotten Tapes: Twisted Forms | 245944 | [245944-the-forgotten-tapes-twisted-forms.json](./245944-the-forgotten-tapes-twisted-forms.json) |
@@ -9302,6 +9304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hostage | 259480 | [259480-the-hostage.json](./259480-the-hostage.json) |
 | The Hostel: Night Terrors | 249842 | [249842-the-hostel-night-terrors.json](./249842-the-hostel-night-terrors.json) |
 | The Hot Dog would Explode | 109750 | [109750-the-hot-dog-would-explode.json](./109750-the-hot-dog-would-explode.json) |
+| The Hot Tog II | 268581 | [268581-the-hot-tog-ii.json](./268581-the-hot-tog-ii.json) |
 | The Hotel | 204850 | [204850-the-hotel.json](./204850-the-hotel.json) |
 | The Hotel | 220675 | [220675-the-hotel.json](./220675-the-hotel.json) |
 | The Hotel | 360649 | [360649-the-hotel.json](./360649-the-hotel.json) |
@@ -10154,6 +10157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Knowledge of Hermit | 272894 | [272894-the-knowledge-of-hermit.json](./272894-the-knowledge-of-hermit.json) |
 | The Koala Brothers: Outback Adventures | 49398 | [49398-the-koala-brothers-outback-adventures.json](./49398-the-koala-brothers-outback-adventures.json) |
 | The Kobolds Left Behind | 201701 | [201701-the-kobolds-left-behind.json](./201701-the-kobolds-left-behind.json) |
+| The Komainu Quest | 268605 | [268605-the-komainu-quest.json](./268605-the-komainu-quest.json) |
 | The Konia Project | 290661 | [290661-the-konia-project.json](./290661-the-konia-project.json) |
 | The Koopa Who Stole Christmas | 281018 | [281018-the-koopa-who-stole-christmas.json](./281018-the-koopa-who-stole-christmas.json) |
 | The Kore Gang | 4960 | [4960-the-kore-gang.json](./4960-the-kore-gang.json) |
@@ -14880,6 +14884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Submerging Island | 253453 | [253453-the-submerging-island.json](./253453-the-submerging-island.json) |
 | The Subminer | 410344 | [410344-the-subminer.json](./410344-the-subminer.json) |
 | The Substance of Things | 174359 | [174359-the-substance-of-things.json](./174359-the-substance-of-things.json) |
+| The Subterranean River | 268609 | [268609-the-subterranean-river.json](./268609-the-subterranean-river.json) |
 | The Subterrestrial Hangar | 309199 | [309199-the-subterrestrial-hangar.json](./309199-the-subterrestrial-hangar.json) |
 | The Suburb: Not Just Dinner | 176766 | [176766-the-suburb-not-just-dinner.json](./176766-the-suburb-not-just-dinner.json) |
 | The Succubi Trap | 74354 | [74354-the-succubi-trap.json](./74354-the-succubi-trap.json) |
