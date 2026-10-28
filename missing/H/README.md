@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HappyFunland: Souvenir Edition | 270208 | [270208-happyfunland-souvenir-edition.json](./270208-happyfunland-souvenir-edition.json) |
 | HappyKids | 335234 | [335234-happykids.json](./335234-happykids.json) |
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
+| HappyTruck: Fruit Express | 261945 | [261945-happytruck-fruit-express.json](./261945-happytruck-fruit-express.json) |
 | Haprokon | 115636 | [115636-haprokon.json](./115636-haprokon.json) |
 | Hapunan | 329691 | [329691-hapunan.json](./329691-hapunan.json) |
 | Hapy-y | 264509 | [264509-hapy-y.json](./264509-hapy-y.json) |
@@ -7739,7 +7740,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holobunnies: The Bittersweet Adventure | 28897 | [28897-holobunnies-the-bittersweet-adventure.json](./28897-holobunnies-the-bittersweet-adventure.json) |
 | HoloCall: Send Your Cheers! | 340478 | [340478-holocall-send-your-cheers.json](./340478-holocall-send-your-cheers.json) |
 | Holoception | 117460 | [117460-holoception.json](./117460-holoception.json) |
+| HoloCure Update 0.5 | 261916 | [261916-holocure-update-0-5.json](./261916-holocure-update-0-5.json) |
 | HoloCure: Save the Fans! | 206336 | [206336-holocure-save-the-fans.json](./206336-holocure-save-the-fans.json) |
+| Holocure: Update 0.6 | 261921 | [261921-holocure-update-0-6.json](./261921-holocure-update-0-6.json) |
 | Holodama: Content Clash | 386190 | [386190-holodama-content-clash.json](./386190-holodama-content-clash.json) |
 | Holodrive | 20365 | [20365-holodrive.json](./20365-holodrive.json) |
 | HoloDungeon: Koyori vs HollowLive in Honsha Tower | 410033 | [410033-holodungeon-koyori-vs-hollowlive-in-honsha-tower.json](./410033-holodungeon-koyori-vs-hollowlive-in-honsha-tower.json) |
