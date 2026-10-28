@@ -10689,6 +10689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Core | 26545 | [26545-combat-core.json](./26545-combat-core.json) |
 | Combat Crazy | 94179 | [94179-combat-crazy.json](./94179-combat-crazy.json) |
 | Combat Directive: Napoleonic Wars | 318048 | [318048-combat-directive-napoleonic-wars.json](./318048-combat-directive-napoleonic-wars.json) |
+| Combat Dungeon | 266936 | [266936-combat-dungeon.json](./266936-combat-dungeon.json) |
 | Combat Dungeon | 294163 | [294163-combat-dungeon.json](./294163-combat-dungeon.json) |
 | Combat Elite: WWII Paratroopers | 5784 | [5784-combat-elite-wwii-paratroopers.json](./5784-combat-elite-wwii-paratroopers.json) |
 | Combat Evolved 2D | 311226 | [311226-combat-evolved-2d.json](./311226-combat-evolved-2d.json) |
