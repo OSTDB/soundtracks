@@ -5357,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demeo Battles | 251555 | [251555-demeo-battles.json](./251555-demeo-battles.json) |
 | Demeo x Dungeons & Dragons: Battlemarked | 346959 | [346959-demeo-x-dungeons-and-dragons-battlemarked.json](./346959-demeo-x-dungeons-and-dragons-battlemarked.json) |
 | Demeo: PC Edition | 194737 | [194737-demeo-pc-edition.json](./194737-demeo-pc-edition.json) |
+| Demeter | 280059 | [280059-demeter.json](./280059-demeter.json) |
 | Demetria Spirit | 166843 | [166843-demetria-spirit.json](./166843-demetria-spirit.json) |
 | Demetrios: The Big Cynical Adventure | 23425 | [23425-demetrios-the-big-cynical-adventure.json](./23425-demetrios-the-big-cynical-adventure.json) |
 | Demetrios: The Big Cynical Adventure - Replastered | 194005 | [194005-demetrios-the-big-cynical-adventure-replastered.json](./194005-demetrios-the-big-cynical-adventure-replastered.json) |
