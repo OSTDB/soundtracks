@@ -8817,6 +8817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climbing Flail | 119649 | [119649-climbing-flail.json](./119649-climbing-flail.json) |
 | Climbing Gym Simulator | 353358 | [353358-climbing-gym-simulator.json](./353358-climbing-gym-simulator.json) |
 | Climbing Mountain Sins | 257915 | [257915-climbing-mountain-sins.json](./257915-climbing-mountain-sins.json) |
+| Climbing Mt. Stardust | 267495 | [267495-climbing-mt-stardust.json](./267495-climbing-mt-stardust.json) |
 | Climbing Over It with a Spear | 259737 | [259737-climbing-over-it-with-a-spear.json](./259737-climbing-over-it-with-a-spear.json) |
 | Climbing Over It with a Spear Only Up | 304795 | [304795-climbing-over-it-with-a-spear-only-up.json](./304795-climbing-over-it-with-a-spear-only-up.json) |
 | Climbing Simplified | 392812 | [392812-climbing-simplified.json](./392812-climbing-simplified.json) |
