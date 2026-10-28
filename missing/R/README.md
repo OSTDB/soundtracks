@@ -4099,6 +4099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rekt!: Double Flip | 238063 | [238063-rekt-double-flip.json](./238063-rekt-double-flip.json) |
 | Rekt!: The Forge | 238027 | [238027-rekt-the-forge.json](./238027-rekt-the-forge.json) |
 | Rektangle | 11239 | [11239-rektangle.json](./11239-rektangle.json) |
+| Rekuiemu Nikki | 257192 | [257192-rekuiemu-nikki.json](./257192-rekuiemu-nikki.json) |
 | Reky | 122329 | [122329-reky.json](./122329-reky.json) |
 | Reky + Cyber Protocol | 231343 | [231343-reky-cyber-protocol.json](./231343-reky-cyber-protocol.json) |
 | Rela | 383454 | [383454-rela.json](./383454-rela.json) |
