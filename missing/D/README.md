@@ -16671,6 +16671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynarog | 150388 | [150388-dynarog.json](./150388-dynarog.json) |
 | Dynarog 2 | 165732 | [165732-dynarog-2.json](./165732-dynarog-2.json) |
 | Dynast.io | 115762 | [115762-dynast-io.json](./115762-dynast-io.json) |
+| Dynasthir | 244949 | [244949-dynasthir.json](./244949-dynasthir.json) |
 | Dynasty | 278441 | [278441-dynasty.json](./278441-dynasty.json) |
 | Dynasty | 41537 | [41537-dynasty.json](./41537-dynasty.json) |
 | Dynasty Detective | 249943 | [249943-dynasty-detective.json](./249943-dynasty-detective.json) |
