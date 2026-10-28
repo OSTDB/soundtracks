@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ide Yosuke no Mahjong Kyoushitsu | 354912 | [354912-ide-yosuke-no-mahjong-kyoushitsu.json](./354912-ide-yosuke-no-mahjong-kyoushitsu.json) |
 | Ide Yosuke no Mahjong Kyoushitsu GB | 65243 | [65243-ide-yosuke-no-mahjong-kyoushitsu-gb.json](./65243-ide-yosuke-no-mahjong-kyoushitsu-gb.json) |
 | Idea | 204951 | [204951-idea.json](./204951-idea.json) |
+| Idea: Drone camera calm puzzle | 241572 | [241572-idea-drone-camera-calm-puzzle.json](./241572-idea-drone-camera-calm-puzzle.json) |
 | Ideabookroom | 348443 | [348443-ideabookroom.json](./348443-ideabookroom.json) |
 | Ideabox | 125953 | [125953-ideabox.json](./125953-ideabox.json) |
 | Ideal | 340519 | [340519-ideal.json](./340519-ideal.json) |
