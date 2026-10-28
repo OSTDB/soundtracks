@@ -3849,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret House | 133224 | [133224-secret-house.json](./133224-secret-house.json) |
 | Secret in Flower | 395578 | [395578-secret-in-flower.json](./395578-secret-in-flower.json) |
 | Secret Journeys: Cities of the World | 84901 | [84901-secret-journeys-cities-of-the-world.json](./84901-secret-journeys-cities-of-the-world.json) |
+| Secret Kiss | 272664 | [272664-secret-kiss.json](./272664-secret-kiss.json) |
 | Secret Kiss with Knight | 303303 | [303303-secret-kiss-with-knight.json](./303303-secret-kiss-with-knight.json) |
 | Secret Lab | 273541 | [273541-secret-lab.json](./273541-secret-lab.json) |
 | Secret Little Haven | 90060 | [90060-secret-little-haven.json](./90060-secret-little-haven.json) |
@@ -6988,6 +6989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikakui Atama wo Maru Kusuru Advance: Kanji Keisan-hen | 49781 | [49781-shikakui-atama-wo-maru-kusuru-advance-kanji-keisan-hen.json](./49781-shikakui-atama-wo-maru-kusuru-advance-kanji-keisan-hen.json) |
 | Shikakui Atama wo Maru Kusuru Advance: Kokugo Sansuu Shakai Rika-hen | 49780 | [49780-shikakui-atama-wo-maru-kusuru-advance-kokugo-sansuu-shakai-rika-hen.json](./49780-shikakui-atama-wo-maru-kusuru-advance-kokugo-sansuu-shakai-rika-hen.json) |
 | Shikakui Atama wo Maru Kusuru: Mainichi Minna no Challenge-hen | 409001 | [409001-shikakui-atama-wo-maru-kusuru-mainichi-minna-no-challenge-hen.json](./409001-shikakui-atama-wo-maru-kusuru-mainichi-minna-no-challenge-hen.json) |
+| Shikakukes | 272663 | [272663-shikakukes.json](./272663-shikakukes.json) |
 | Shikanoko Fangame | 324962 | [324962-shikanoko-fangame.json](./324962-shikanoko-fangame.json) |
 | Shikari Rising | 142949 | [142949-shikari-rising.json](./142949-shikari-rising.json) |
 | Shikhondo: Blue Pieta | 395144 | [395144-shikhondo-blue-pieta.json](./395144-shikhondo-blue-pieta.json) |
@@ -30522,6 +30524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordcery | 175772 | [175772-swordcery.json](./175772-swordcery.json) |
 | Swordfight | 40794 | [40794-swordfight.json](./40794-swordfight.json) |
 | Swordfighting for People Who Are Really Bad at Swordfighting | 362797 | [362797-swordfighting-for-people-who-are-really-bad-at-swordfighting.json](./362797-swordfighting-for-people-who-are-really-bad-at-swordfighting.json) |
+| Swordfish | 272656 | [272656-swordfish.json](./272656-swordfish.json) |
 | Swordflight | 358271 | [358271-swordflight.json](./358271-swordflight.json) |
 | Swordhaven: Iron Conspiracy | 290620 | [290620-swordhaven-iron-conspiracy.json](./290620-swordhaven-iron-conspiracy.json) |
 | Swordia | 309882 | [309882-swordia.json](./309882-swordia.json) |
