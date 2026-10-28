@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Dreams RHN | 127567 | [127567-dark-dreams-rhn.json](./127567-dark-dreams-rhn.json) |
 | Dark Drive | 95620 | [95620-dark-drive.json](./95620-dark-drive.json) |
 | Dark Dungeon Feminized | 334340 | [334340-dark-dungeon-feminized.json](./334340-dark-dungeon-feminized.json) |
+| Dark Dungeon Warrior | 238120 | [238120-dark-dungeon-warrior.json](./238120-dark-dungeon-warrior.json) |
 | Dark Dungeons | 41187 | [41187-dark-dungeons.json](./41187-dark-dungeons.json) |
 | Dark Dynasty: The Siege of Londor | 317522 | [317522-dark-dynasty-the-siege-of-londor.json](./317522-dark-dynasty-the-siege-of-londor.json) |
 | Dark Earth | 18137 | [18137-dark-earth.json](./18137-dark-earth.json) |
@@ -9892,6 +9893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Cosmic Collider | 249387 | [249387-doctor-who-cosmic-collider.json](./249387-doctor-who-cosmic-collider.json) |
 | Doctor Who: Dalek Break-Out | 249447 | [249447-doctor-who-dalek-break-out.json](./249447-doctor-who-dalek-break-out.json) |
 | Doctor Who: Dalek Hack | 239578 | [239578-doctor-who-dalek-hack.json](./239578-doctor-who-dalek-hack.json) |
+| Doctor Who: Daleks v Cybermen | 238108 | [238108-doctor-who-daleks-v-cybermen.json](./238108-doctor-who-daleks-v-cybermen.json) |
 | Doctor Who: Defeat Deffry | 249743 | [249743-doctor-who-defeat-deffry.json](./249743-doctor-who-defeat-deffry.json) |
 | Doctor Who: Destiny of the Doctors | 72960 | [72960-doctor-who-destiny-of-the-doctors.json](./72960-doctor-who-destiny-of-the-doctors.json) |
 | Doctor Who: Doctor In A Dash | 249464 | [249464-doctor-who-doctor-in-a-dash.json](./249464-doctor-who-doctor-in-a-dash.json) |
@@ -14625,6 +14627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Combat | 127013 | [127013-drone-combat.json](./127013-drone-combat.json) |
 | Drone Crash Course | 190171 | [190171-drone-crash-course.json](./190171-drone-crash-course.json) |
 | Drone Dash | 343746 | [343746-drone-dash.json](./343746-drone-dash.json) |
+| Drone Delivery | 238138 | [238138-drone-delivery.json](./238138-drone-delivery.json) |
 | Drone Delivery Despair | 248391 | [248391-drone-delivery-despair.json](./248391-drone-delivery-despair.json) |
 | Drone Delivery Express: City Simulator | 389052 | [389052-drone-delivery-express-city-simulator.json](./389052-drone-delivery-express-city-simulator.json) |
 | Drone Delivery Simulator | 286211 | [286211-drone-delivery-simulator.json](./286211-drone-delivery-simulator.json) |
