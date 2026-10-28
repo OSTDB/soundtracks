@@ -1906,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maidlien | 130587 | [130587-maidlien.json](./130587-maidlien.json) |
 | Maidnight | 373733 | [373733-maidnight.json](./373733-maidnight.json) |
 | Maido Hebo Shogi | 222199 | [222199-maido-hebo-shogi.json](./222199-maido-hebo-shogi.json) |
+| Maido Manie | 274858 | [274858-maido-manie.json](./274858-maido-manie.json) |
 | Maids of Storm | 391027 | [391027-maids-of-storm.json](./391027-maids-of-storm.json) |
 | Maigo no Koneko-chan | 276472 | [276472-maigo-no-koneko-chan.json](./276472-maigo-no-koneko-chan.json) |
 | Maihon: The Impossible Jewel Stacking Puzzle Game | 116462 | [116462-maihon-the-impossible-jewel-stacking-puzzle-game.json](./116462-maihon-the-impossible-jewel-stacking-puzzle-game.json) |
@@ -5669,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Without Master | 349839 | [349839-meat-without-master.json](./349839-meat-without-master.json) |
 | Meat-Grinder | 280126 | [280126-meat-grinder.json](./280126-meat-grinder.json) |
 | Meatball | 156613 | [156613-meatball.json](./156613-meatball.json) |
+| Meatball Dog | 274857 | [274857-meatball-dog.json](./274857-meatball-dog.json) |
 | Meatball the Mite | 307374 | [307374-meatball-the-mite.json](./307374-meatball-the-mite.json) |
 | Meatballphobia | 62286 | [62286-meatballphobia.json](./62286-meatballphobia.json) |
 | Meatballs | 409391 | [409391-meatballs.json](./409391-meatballs.json) |
@@ -10689,6 +10691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Trails & Tales | 240296 | [240296-minecraft-trails-and-tales.json](./240296-minecraft-trails-and-tales.json) |
 | Minecraft: Trial Chamber Legends | 307729 | [307729-minecraft-trial-chamber-legends.json](./307729-minecraft-trial-chamber-legends.json) |
 | Minecraft: Tricky Trials | 272821 | [272821-minecraft-tricky-trials.json](./272821-minecraft-tricky-trials.json) |
+| Minecraft: Tricky Trials | 274850 | [274850-minecraft-tricky-trials.json](./274850-minecraft-tricky-trials.json) |
 | Minecraft: Ultimate Collection | 397759 | [397759-minecraft-ultimate-collection.json](./397759-minecraft-ultimate-collection.json) |
 | Minecraft: Uncrafting Items Mod | 343906 | [343906-minecraft-uncrafting-items-mod.json](./343906-minecraft-uncrafting-items-mod.json) |
 | Minecraft: Universal Studios Experience | 299204 | [299204-minecraft-universal-studios-experience.json](./299204-minecraft-universal-studios-experience.json) |
@@ -18056,6 +18059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Singing Monsters Karaoke: Day One Pack | 414780 | [414780-my-singing-monsters-karaoke-day-one-pack.json](./414780-my-singing-monsters-karaoke-day-one-pack.json) |
 | My Singing Monsters Karaoke: Rare Pack | 414779 | [414779-my-singing-monsters-karaoke-rare-pack.json](./414779-my-singing-monsters-karaoke-rare-pack.json) |
 | My Singing Monsters Playground | 150135 | [150135-my-singing-monsters-playground.json](./150135-my-singing-monsters-playground.json) |
+| My Singing Monsters: Beat Hereafter Skin Pack | 274839 | [274839-my-singing-monsters-beat-hereafter-skin-pack.json](./274839-my-singing-monsters-beat-hereafter-skin-pack.json) |
 | My Singing Monsters: Dawn of Fire | 89694 | [89694-my-singing-monsters-dawn-of-fire.json](./89694-my-singing-monsters-dawn-of-fire.json) |
 | My Singing Monsters: Thumpies | 289727 | [289727-my-singing-monsters-thumpies.json](./289727-my-singing-monsters-thumpies.json) |
 | My Sleeper | 345062 | [345062-my-sleeper.json](./345062-my-sleeper.json) |
@@ -18178,6 +18182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Time at Sandrock: Builder's Beach and Ball Clothing Pack | 275107 | [275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json](./275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json) |
 | My Time at Sandrock: Builders Beach and Ball Clothing Pack | 275057 | [275057-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json](./275057-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json) |
 | My Time at Sandrock: Cute Critter Furniture Pack | 275076 | [275076-my-time-at-sandrock-cute-critter-furniture-pack.json](./275076-my-time-at-sandrock-cute-critter-furniture-pack.json) |
+| My Time at Sandrock: Deluxe Edition | 275147 | [275147-my-time-at-sandrock-deluxe-edition.json](./275147-my-time-at-sandrock-deluxe-edition.json) |
 | My Time at Sandrock: Far East Furniture Pack | 275079 | [275079-my-time-at-sandrock-far-east-furniture-pack.json](./275079-my-time-at-sandrock-far-east-furniture-pack.json) |
 | My Time at Sandrock: Interior Decorator Pack | 275106 | [275106-my-time-at-sandrock-interior-decorator-pack.json](./275106-my-time-at-sandrock-interior-decorator-pack.json) |
 | My Time at Sandrock: Love Chronicles | 324459 | [324459-my-time-at-sandrock-love-chronicles.json](./324459-my-time-at-sandrock-love-chronicles.json) |
