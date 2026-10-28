@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hame Houdai! All You Can F*ck! 3 Female Teachers Endless Creampie! | 280694 | [280694-hame-houdai-all-you-can-f-ck-3-female-teachers-endless-creampie.json](./280694-hame-houdai-all-you-can-f-ck-3-female-teachers-endless-creampie.json) |
 | Hamekomi Lucky Puzzle Wii Returns | 344484 | [344484-hamekomi-lucky-puzzle-wii-returns.json](./344484-hamekomi-lucky-puzzle-wii-returns.json) |
 | Hamelin | 229364 | [229364-hamelin.json](./229364-hamelin.json) |
+| Hamelin's Journey | 242146 | [242146-hamelins-journey.json](./242146-hamelins-journey.json) |
 | Hameln no Violin Hiki | 38365 | [38365-hameln-no-violin-hiki.json](./38365-hameln-no-violin-hiki.json) |
 | Hamenos | 294662 | [294662-hamenos.json](./294662-hamenos.json) |
 | Hamepane Tokyo Mew Mew | 49593 | [49593-hamepane-tokyo-mew-mew.json](./49593-hamepane-tokyo-mew-mew.json) |
@@ -4649,6 +4650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Slash | 340451 | [340451-hentai-slash.json](./340451-hentai-slash.json) |
 | Hentai Slide Puzzle | 236184 | [236184-hentai-slide-puzzle.json](./236184-hentai-slide-puzzle.json) |
 | Hentai Sniper: Middle East | 286419 | [286419-hentai-sniper-middle-east.json](./286419-hentai-sniper-middle-east.json) |
+| Hentai Snowy | 241778 | [241778-hentai-snowy.json](./241778-hentai-snowy.json) |
 | Hentai Sokoban | 106650 | [106650-hentai-sokoban.json](./106650-hentai-sokoban.json) |
 | Hentai Solitaire | 308513 | [308513-hentai-solitaire.json](./308513-hentai-solitaire.json) |
 | Hentai Solitaire | 371040 | [371040-hentai-solitaire.json](./371040-hentai-solitaire.json) |
