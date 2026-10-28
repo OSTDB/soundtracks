@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthquake San Francisco 1906 | 25590 | [25590-earthquake-san-francisco-1906.json](./25590-earthquake-san-francisco-1906.json) |
 | Earthquake Survival | 183248 | [183248-earthquake-survival.json](./183248-earthquake-survival.json) |
 | Earthquake: Margarita School | 369380 | [369380-earthquake-margarita-school.json](./369380-earthquake-margarita-school.json) |
+| EarthRemnant | 236452 | [236452-earthremnant.json](./236452-earthremnant.json) |
 | Earthrise | 20554 | [20554-earthrise.json](./20554-earthrise.json) |
 | Earthrise | 73274 | [73274-earthrise.json](./73274-earthrise.json) |
 | Earths Edge | 403333 | [403333-earths-edge.json](./403333-earths-edge.json) |
@@ -2054,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Strike: Mirage Tower | 132107 | [132107-elemental-strike-mirage-tower.json](./132107-elemental-strike-mirage-tower.json) |
 | Elemental Surge | 339735 | [339735-elemental-surge.json](./339735-elemental-surge.json) |
 | Elemental Survivors | 244234 | [244234-elemental-survivors.json](./244234-elemental-survivors.json) |
+| Elemental Survivors: Roguelike | 236472 | [236472-elemental-survivors-roguelike.json](./236472-elemental-survivors-roguelike.json) |
 | Elemental Tiles | 180631 | [180631-elemental-tiles.json](./180631-elemental-tiles.json) |
 | Elemental War | 110131 | [110131-elemental-war.json](./110131-elemental-war.json) |
 | Elemental War 2 | 159268 | [159268-elemental-war-2.json](./159268-elemental-war-2.json) |
@@ -2942,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty Human Beans | 340898 | [340898-empty-human-beans.json](./340898-empty-human-beans.json) |
 | Empty Mind: Blank Fate | 307578 | [307578-empty-mind-blank-fate.json](./307578-empty-mind-blank-fate.json) |
 | Empty Sharp | 125043 | [125043-empty-sharp.json](./125043-empty-sharp.json) |
+| Empty Shell | 236437 | [236437-empty-shell.json](./236437-empty-shell.json) |
 | Empty Shell 2 | 345148 | [345148-empty-shell-2.json](./345148-empty-shell-2.json) |
 | Empty Shell: The Loop | 302365 | [302365-empty-shell-the-loop.json](./302365-empty-shell-the-loop.json) |
 | Empty Soul | 139287 | [139287-empty-soul.json](./139287-empty-soul.json) |
