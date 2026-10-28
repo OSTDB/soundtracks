@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Romaji Adventure 3D | 200889 | [200889-japanese-romaji-adventure-3d.json](./200889-japanese-romaji-adventure-3d.json) |
 | Japanese Salaryman | 323017 | [323017-japanese-salaryman.json](./323017-japanese-salaryman.json) |
 | Japanese School Life | 26136 | [26136-japanese-school-life.json](./26136-japanese-school-life.json) |
+| Japanese Style Tien Gow | 258577 | [258577-japanese-style-tien-gow.json](./258577-japanese-style-tien-gow.json) |
 | Japanese Swordsmith | 414530 | [414530-japanese-swordsmith.json](./414530-japanese-swordsmith.json) |
 | Japanese TeTris | 211156 | [211156-japanese-tetris.json](./211156-japanese-tetris.json) |
 | Japanese Women - Animated Jigsaws | 28920 | [28920-japanese-women-animated-jigsaws.json](./28920-japanese-women-animated-jigsaws.json) |
@@ -3647,6 +3648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just-A-Crush | 177911 | [177911-just-a-crush.json](./177911-just-a-crush.json) |
 | Just, Bearly | 86229 | [86229-just-bearly.json](./86229-just-bearly.json) |
 | Just. Press. The Button. | 396911 | [396911-just-press-the-button.json](./396911-just-press-the-button.json) |
+| JustAxe | 258596 | [258596-justaxe.json](./258596-justaxe.json) |
 | JustBox | 340782 | [340782-justbox.json](./340782-justbox.json) |
 | JusTD | 333514 | [333514-justd.json](./333514-justd.json) |
 | JustHammers | 341865 | [341865-justhammers.json](./341865-justhammers.json) |
