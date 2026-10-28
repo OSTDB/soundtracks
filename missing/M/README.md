@@ -2509,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Balls | 116190 | [116190-mana-balls.json](./116190-mana-balls.json) |
 | Mana Chess | 195148 | [195148-mana-chess.json](./195148-mana-chess.json) |
 | Mana Cycle | 296970 | [296970-mana-cycle.json](./296970-mana-cycle.json) |
+| Mana Expel | 264747 | [264747-mana-expel.json](./264747-mana-expel.json) |
 | Mana Fortress | 244157 | [244157-mana-fortress.json](./244157-mana-fortress.json) |
 | Mana Gloom | 142175 | [142175-mana-gloom.json](./142175-mana-gloom.json) |
 | Mana Go Round | 167814 | [167814-mana-go-round.json](./167814-mana-go-round.json) |
@@ -12517,6 +12518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mochiko the Samurai | 385923 | [385923-mochiko-the-samurai.json](./385923-mochiko-the-samurai.json) |
 | Mochiko-san Reunion! | 237286 | [237286-mochiko-san-reunion.json](./237286-mochiko-san-reunion.json) |
 | Mock 2: The Speed of Stupid | 238485 | [238485-mock-2-the-speed-of-stupid.json](./238485-mock-2-the-speed-of-stupid.json) |
+| Mockingbird | 264759 | [264759-mockingbird.json](./264759-mockingbird.json) |
 | Moco Moco Friends | 19983 | [19983-moco-moco-friends.json](./19983-moco-moco-friends.json) |
 | Mod Mage Mike | 310743 | [310743-mod-mage-mike.json](./310743-mod-mage-mike.json) |
 | Mod&Play | 134297 | [134297-mod-and-play.json](./134297-mod-and-play.json) |
