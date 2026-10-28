@@ -1672,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzles for Kids and Adults: Islands | 162231 | [162231-jigsaw-puzzles-for-kids-and-adults-islands.json](./162231-jigsaw-puzzles-for-kids-and-adults-islands.json) |
 | Jigsaw Puzzles Free by WallpaperFusion | 90937 | [90937-jigsaw-puzzles-free-by-wallpaperfusion.json](./90937-jigsaw-puzzles-free-by-wallpaperfusion.json) |
 | Jigsaw Puzzles Infinite: Cats & Dogs Puzzle Pack | 286238 | [286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json](./286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json) |
+| Jigsaw Puzzles Infinite: Classic Puzzle Pack | 263643 | [263643-jigsaw-puzzles-infinite-classic-puzzle-pack.json](./263643-jigsaw-puzzles-infinite-classic-puzzle-pack.json) |
 | Jigsaw Puzzles: Fantasy Landscapes | 240098 | [240098-jigsaw-puzzles-fantasy-landscapes.json](./240098-jigsaw-puzzles-fantasy-landscapes.json) |
 | Jigsaw Puzzles: Master Artists of Old | 162207 | [162207-jigsaw-puzzles-master-artists-of-old.json](./162207-jigsaw-puzzles-master-artists-of-old.json) |
 | Jigsaw Puzzles: Photo Puzzles | 232304 | [232304-jigsaw-puzzles-photo-puzzles.json](./232304-jigsaw-puzzles-photo-puzzles.json) |
