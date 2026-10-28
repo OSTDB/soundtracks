@@ -5057,6 +5057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The American Delta Vengeance Action Blood Force Kill Commando | 270209 | [270209-the-american-delta-vengeance-action-blood-force-kill-commando.json](./270209-the-american-delta-vengeance-action-blood-force-kill-commando.json) |
 | The American Dream of Gunther Aims | 390474 | [390474-the-american-dream-of-gunther-aims.json](./390474-the-american-dream-of-gunther-aims.json) |
 | The American Girls Premiere | 18243 | [18243-the-american-girls-premiere.json](./18243-the-american-girls-premiere.json) |
+| The American War | 244286 | [244286-the-american-war.json](./244286-the-american-war.json) |
 | The Amethyst Stones | 153916 | [153916-the-amethyst-stones.json](./153916-the-amethyst-stones.json) |
 | The Ammonite’s Whisper | 406264 | [406264-the-ammonite-s-whisper.json](./406264-the-ammonite-s-whisper.json) |
 | The Amnesiac: Final Chapter | 270015 | [270015-the-amnesiac-final-chapter.json](./270015-the-amnesiac-final-chapter.json) |
@@ -6912,6 +6913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dance of Maple Leaves | 346670 | [346670-the-dance-of-maple-leaves.json](./346670-the-dance-of-maple-leaves.json) |
 | The Dance of the Little Water Drops | 104669 | [104669-the-dance-of-the-little-water-drops.json](./104669-the-dance-of-the-little-water-drops.json) |
 | The Dancer: Definitive Edition | 211666 | [211666-the-dancer-definitive-edition.json](./211666-the-dancer-definitive-edition.json) |
+| The Danger Zone | 244425 | [244425-the-danger-zone.json](./244425-the-danger-zone.json) |
 | The Dangerous Back-to-School Season | 339208 | [339208-the-dangerous-back-to-school-season.json](./339208-the-dangerous-back-to-school-season.json) |
 | The DangerZone | 153526 | [153526-the-dangerzone.json](./153526-the-dangerzone.json) |
 | The Dare | 405878 | [405878-the-dare.json](./405878-the-dare.json) |
@@ -10282,6 +10284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lament of a Lifeless Star | 286029 | [286029-the-lament-of-a-lifeless-star.json](./286029-the-lament-of-a-lifeless-star.json) |
 | The Lamplighters League | 240893 | [240893-the-lamplighters-league.json](./240893-the-lamplighters-league.json) |
 | The Lancaster Leak: Crisis at Call Center | 260586 | [260586-the-lancaster-leak-crisis-at-call-center.json](./260586-the-lancaster-leak-crisis-at-call-center.json) |
+| The Lancaster Leak: O'Brien State Park | 244412 | [244412-the-lancaster-leak-obrien-state-park.json](./244412-the-lancaster-leak-obrien-state-park.json) |
 | The Land | 64929 | [64929-the-land.json](./64929-the-land.json) |
 | The Land Before Time | 69555 | [69555-the-land-before-time.json](./69555-the-land-before-time.json) |
 | The Land Before Time Animated MovieBook | 329643 | [329643-the-land-before-time-animated-moviebook.json](./329643-the-land-before-time-animated-moviebook.json) |
@@ -10360,6 +10363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Cargo | 29461 | [29461-the-last-cargo.json](./29461-the-last-cargo.json) |
 | The Last Case of Benedict Fox: Definitive Edition | 292897 | [292897-the-last-case-of-benedict-fox-definitive-edition.json](./292897-the-last-case-of-benedict-fox-definitive-edition.json) |
 | The Last Case of John Morley | 366598 | [366598-the-last-case-of-john-morley.json](./366598-the-last-case-of-john-morley.json) |
+| The Last Castle | 244418 | [244418-the-last-castle.json](./244418-the-last-castle.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
 | The Last Cell | 181020 | [181020-the-last-cell.json](./181020-the-last-cell.json) |
 | The Last Chapter of Man | 62055 | [62055-the-last-chapter-of-man.json](./62055-the-last-chapter-of-man.json) |
@@ -16387,6 +16391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way It Rains on Animals | 332806 | [332806-the-way-it-rains-on-animals.json](./332806-the-way-it-rains-on-animals.json) |
 | The Way of Cinnamon | 120006 | [120006-the-way-of-cinnamon.json](./120006-the-way-of-cinnamon.json) |
 | The Way of Cooking | 292525 | [292525-the-way-of-cooking.json](./292525-the-way-of-cooking.json) |
+| The Way of Death | 244285 | [244285-the-way-of-death.json](./244285-the-way-of-death.json) |
 | The Way Of Kings | 296606 | [296606-the-way-of-kings.json](./296606-the-way-of-kings.json) |
 | The Way of Kings: Escape the Shattered Plains | 87860 | [87860-the-way-of-kings-escape-the-shattered-plains.json](./87860-the-way-of-kings-escape-the-shattered-plains.json) |
 | The Way of Kings: Escape the Shattered Plains! | 88009 | [88009-the-way-of-kings-escape-the-shattered-plains.json](./88009-the-way-of-kings-escape-the-shattered-plains.json) |
