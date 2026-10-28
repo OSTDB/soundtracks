@@ -2649,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unwavering Love | 405465 | [405465-unwavering-love.json](./405465-unwavering-love.json) |
 | Unwelcome | 195951 | [195951-unwelcome.json](./195951-unwelcome.json) |
 | Unwelcome | 262285 | [262285-unwelcome.json](./262285-unwelcome.json) |
+| Unwelcome | 276586 | [276586-unwelcome.json](./276586-unwelcome.json) |
 | Unwelcome Guest | 337453 | [337453-unwelcome-guest.json](./337453-unwelcome-guest.json) |
 | Unwell Known | 152829 | [152829-unwell-known.json](./152829-unwell-known.json) |
 | Unwilling Host | 389698 | [389698-unwilling-host.json](./389698-unwilling-host.json) |
@@ -3032,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Use Your Psychic Powers at Applebee's | 222185 | [222185-use-your-psychic-powers-at-applebees.json](./222185-use-your-psychic-powers-at-applebees.json) |
 | Use Your Words 2 | 317179 | [317179-use-your-words-2.json](./317179-use-your-words-2.json) |
 | Used Car Tycoon Game | 362066 | [362066-used-car-tycoon-game.json](./362066-used-car-tycoon-game.json) |
+| Used Cars Simulator | 276584 | [276584-used-cars-simulator.json](./276584-used-cars-simulator.json) |
 | Useless Box | 109608 | [109608-useless-box.json](./109608-useless-box.json) |
 | Useless Box: The Game | 126615 | [126615-useless-box-the-game.json](./126615-useless-box-the-game.json) |
 | Useless Demon Lord | 264351 | [264351-useless-demon-lord.json](./264351-useless-demon-lord.json) |
