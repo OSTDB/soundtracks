@@ -74,6 +74,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 45: Chura-umi Monogatari | 251464 | [251464-g-mode-archives-45-chura-umi-monogatari.json](./251464-g-mode-archives-45-chura-umi-monogatari.json) |
 | G-Mode Archives 46: Keitai Shoujo: Koi+Hime - Koi ni Ochita Cinderella-hime | 251463 | [251463-g-mode-archives-46-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json](./251463-g-mode-archives-46-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json) |
 | G-Mode Archives 47: 12Gems | 251462 | [251462-g-mode-archives-47-12gems.json](./251462-g-mode-archives-47-12gems.json) |
+| G-Mode Archives 49: Gregory Horror Show | 271045 | [271045-g-mode-archives-49-gregory-horror-show.json](./271045-g-mode-archives-49-gregory-horror-show.json) |
+| G-Mode Archives 50: Midnight Horror School | 271044 | [271044-g-mode-archives-50-midnight-horror-school.json](./271044-g-mode-archives-50-midnight-horror-school.json) |
 | G-Mode Archives 53: Daienkai Buchou | 280075 | [280075-g-mode-archives-53-daienkai-buchou.json](./280075-g-mode-archives-53-daienkai-buchou.json) |
 | G-Mode Archives 56: Mystia3 | 381724 | [381724-g-mode-archives-56-mystia3.json](./381724-g-mode-archives-56-mystia3.json) |
 | G-Mode Archives 58: Gekidan Musume Akane & Aoi | 381255 | [381255-g-mode-archives-58-gekidan-musume-akane-and-aoi.json](./381255-g-mode-archives-58-gekidan-musume-akane-and-aoi.json) |
@@ -1903,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate of Nightmares | 174644 | [174644-gate-of-nightmares.json](./174644-gate-of-nightmares.json) |
 | Gate of Providence | 181925 | [181925-gate-of-providence.json](./181925-gate-of-providence.json) |
 | Gate of Souls | 253308 | [253308-gate-of-souls.json](./253308-gate-of-souls.json) |
+| Gate of Torment | 271039 | [271039-gate-of-torment.json](./271039-gate-of-torment.json) |
 | Gate Project | 345959 | [345959-gate-project.json](./345959-gate-project.json) |
 | Gate Six: Cyber Persona | 122921 | [122921-gate-six-cyber-persona.json](./122921-gate-six-cyber-persona.json) |
 | Gate to Die | 412500 | [412500-gate-to-die.json](./412500-gate-to-die.json) |
@@ -2253,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Break | 84637 | [84637-gem-break.json](./84637-gem-break.json) |
 | Gem Crash | 112816 | [112816-gem-crash.json](./112816-gem-crash.json) |
 | Gem Crush Match-3 | 397258 | [397258-gem-crush-match-3.json](./397258-gem-crush-match-3.json) |
+| Gem Defender: Soyjak Survivors | 271040 | [271040-gem-defender-soyjak-survivors.json](./271040-gem-defender-soyjak-survivors.json) |
 | Gem Defense | 256226 | [256226-gem-defense.json](./256226-gem-defense.json) |
 | Gem Excavator | 223943 | [223943-gem-excavator.json](./223943-gem-excavator.json) |
 | Gem Forge | 30867 | [30867-gem-forge.json](./30867-gem-forge.json) |
@@ -2403,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geneforge | 8362 | [8362-geneforge.json](./8362-geneforge.json) |
 | Geneforge 1: Mutagen | 134650 | [134650-geneforge-1-mutagen.json](./134650-geneforge-1-mutagen.json) |
 | Geneforge 2 | 8363 | [8363-geneforge-2.json](./8363-geneforge-2.json) |
+| Geneforge 2: Infestation | 271041 | [271041-geneforge-2-infestation.json](./271041-geneforge-2-infestation.json) |
 | Geneforge Saga | 50869 | [50869-geneforge-saga.json](./50869-geneforge-saga.json) |
 | GenEi AP: Empty Heart | 323046 | [323046-genei-ap-empty-heart.json](./323046-genei-ap-empty-heart.json) |
 | Genei Toshi: Illusion City | 46382 | [46382-genei-toshi-illusion-city.json](./46382-genei-toshi-illusion-city.json) |
@@ -3207,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Follows | 191224 | [191224-ghost-follows.json](./191224-ghost-follows.json) |
 | Ghost For Hire | 295310 | [295310-ghost-for-hire.json](./295310-ghost-for-hire.json) |
 | Ghost Giant | 103272 | [103272-ghost-giant.json](./103272-ghost-giant.json) |
+| Ghost Girl Ghussy: XXXL Edition | 271042 | [271042-ghost-girl-ghussy-xxxl-edition.json](./271042-ghost-girl-ghussy-xxxl-edition.json) |
 | Ghost Grab 3000 | 116547 | [116547-ghost-grab-3000.json](./116547-ghost-grab-3000.json) |
 | Ghost Grimoire | 178949 | [178949-ghost-grimoire.json](./178949-ghost-grimoire.json) |
 | Ghost Guidance | 387922 | [387922-ghost-guidance.json](./387922-ghost-guidance.json) |
@@ -4947,6 +4953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Party | 237199 | [237199-goblin-party.json](./237199-goblin-party.json) |
 | Goblin Pass | 304547 | [304547-goblin-pass.json](./304547-goblin-pass.json) |
 | Goblin Path | 382446 | [382446-goblin-path.json](./382446-goblin-path.json) |
+| Goblin Quest | 271043 | [271043-goblin-quest.json](./271043-goblin-quest.json) |
 | Goblin Quest III | 395735 | [395735-goblin-quest-iii.json](./395735-goblin-quest-iii.json) |
 | Goblin Quest: Escape! | 115648 | [115648-goblin-quest-escape.json](./115648-goblin-quest-escape.json) |
 | Goblin Quest: Remake | 313534 | [313534-goblin-quest-remake.json](./313534-goblin-quest-remake.json) |
@@ -9500,6 +9507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns of Liberty | 74715 | [74715-guns-of-liberty.json](./74715-guns-of-liberty.json) |
 | Guns of Mercy | 114176 | [114176-guns-of-mercy.json](./114176-guns-of-mercy.json) |
 | Guns of Midnight | 118362 | [118362-guns-of-midnight.json](./118362-guns-of-midnight.json) |
+| Guns of Succubus 2 | 271031 | [271031-guns-of-succubus-2.json](./271031-guns-of-succubus-2.json) |
 | Guns of Survivor | 193829 | [193829-guns-of-survivor.json](./193829-guns-of-survivor.json) |
 | Guns on Wheels | 343618 | [343618-guns-on-wheels.json](./343618-guns-on-wheels.json) |
 | Guns Undarkness | 211618 | [211618-guns-undarkness.json](./211618-guns-undarkness.json) |
