@@ -3164,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gex Trilogy | 256406 | [256406-gex-trilogy.json](./256406-gex-trilogy.json) |
 | Gex: Enter the Gecko | 248746 | [248746-gex-enter-the-gecko.json](./248746-gex-enter-the-gecko.json) |
 | Gex: Enter the Gecko | 3506 | [3506-gex-enter-the-gecko.json](./3506-gex-enter-the-gecko.json) |
+| Gezeichnet: Unsere Flucht 1945 | 244928 | [244928-gezeichnet-unsere-flucht-1945.json](./244928-gezeichnet-unsere-flucht-1945.json) |
 | GF Becomes SexCare Manager of Baseball Club: Cucked In Sportsmen's Sex | 98451 | [98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json](./98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json) |
 | GFL Championshop Football II | 97473 | [97473-gfl-championshop-football-ii.json](./97473-gfl-championshop-football-ii.json) |
 | GFS Sorceress | 23324 | [23324-gfs-sorceress.json](./23324-gfs-sorceress.json) |
@@ -4551,6 +4552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gluk the Thunder Warrior | 48565 | [48565-gluk-the-thunder-warrior.json](./48565-gluk-the-thunder-warrior.json) |
 | Gluk'Oza Action | 54053 | [54053-glukoza-action.json](./54053-glukoza-action.json) |
 | Glukhovo | 270184 | [270184-glukhovo.json](./270184-glukhovo.json) |
+| Glum | 244597 | [244597-glum.json](./244597-glum.json) |
 | Glum Buster | 67875 | [67875-glum-buster.json](./67875-glum-buster.json) |
 | Gluon | 377961 | [377961-gluon.json](./377961-gluon.json) |
 | Glusiverse | 304599 | [304599-glusiverse.json](./304599-glusiverse.json) |
