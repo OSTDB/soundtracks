@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.E.R.O: Human Extraction and Rescue Operation | 67808 | [67808-h-e-r-o-human-extraction-and-rescue-operation.json](./67808-h-e-r-o-human-extraction-and-rescue-operation.json) |
 | H.E.R.O. | 6112 | [6112-h-e-r-o.json](./6112-h-e-r-o.json) |
 | H.G. | 340858 | [340858-h-g.json](./340858-h-g.json) |
+| H.I.A: Horror Investigation Agency | 253523 | [253523-h-i-a-horror-investigation-agency.json](./253523-h-i-a-horror-investigation-agency.json) |
 | H.I.S.T.O.R.Y T.O.R.C.H.K.A 2 | 82322 | [82322-h-i-s-t-o-r-y-t-o-r-c-h-k-a-2.json](./82322-h-i-s-t-o-r-y-t-o-r-c-h-k-a-2.json) |
 | H.I.v.C.A.: Human Intelligence vs Computer Algorithm | 311102 | [311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json](./311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json) |
 | H.I.V.E. | 201014 | [201014-h-i-v-e.json](./201014-h-i-v-e.json) |
@@ -2371,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Mansion | 342075 | [342075-haunted-mansion.json](./342075-haunted-mansion.json) |
 | Haunted Mansion: Experience | 319759 | [319759-haunted-mansion-experience.json](./319759-haunted-mansion-experience.json) |
 | Haunted Maze | 266638 | [266638-haunted-maze.json](./266638-haunted-maze.json) |
+| Haunted Memories: The Return | 253542 | [253542-haunted-memories-the-return.json](./253542-haunted-memories-the-return.json) |
 | Haunted Mines | 361115 | [361115-haunted-mines.json](./361115-haunted-mines.json) |
 | Haunted Nightmares | 149446 | [149446-haunted-nightmares.json](./149446-haunted-nightmares.json) |
 | Haunted Nukem | 294530 | [294530-haunted-nukem.json](./294530-haunted-nukem.json) |
