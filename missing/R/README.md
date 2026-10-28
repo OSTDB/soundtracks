@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Rescue: Puzzle Lines - Challenge Track | 393899 | [393899-rail-rescue-puzzle-lines-challenge-track.json](./393899-rail-rescue-puzzle-lines-challenge-track.json) |
 | Rail Rescue: Puzzle Lines - Quest Track | 393900 | [393900-rail-rescue-puzzle-lines-quest-track.json](./393900-rail-rescue-puzzle-lines-quest-track.json) |
 | Rail Rider | 23601 | [23601-rail-rider.json](./23601-rail-rider.json) |
+| Rail Romanesque Origin | 280057 | [280057-rail-romanesque-origin.json](./280057-rail-romanesque-origin.json) |
 | Rail Route | 145422 | [145422-rail-route.json](./145422-rail-route.json) |
 | Rail Route: Happy Passengers | 302036 | [302036-rail-route-happy-passengers.json](./302036-rail-route-happy-passengers.json) |
 | Rail Route: Map Pack | 376799 | [376799-rail-route-map-pack.json](./376799-rail-route-map-pack.json) |
@@ -11204,6 +11205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryan's Pack | 131602 | [131602-ryans-pack.json](./131602-ryans-pack.json) |
 | Ryan's Rescue Squad | 185704 | [185704-ryans-rescue-squad.json](./185704-ryans-rescue-squad.json) |
 | RYB | 17993 | [17993-ryb.json](./17993-ryb.json) |
+| RYBot | 280381 | [280381-rybot.json](./280381-rybot.json) |
 | Ryceam | 262387 | [262387-ryceam.json](./262387-ryceam.json) |
 | Ryclaw: Hope | 211748 | [211748-ryclaw-hope.json](./211748-ryclaw-hope.json) |
 | Ryder | 335293 | [335293-ryder.json](./335293-ryder.json) |
