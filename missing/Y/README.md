@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi's Egg Toss | 231529 | [231529-yoshis-egg-toss.json](./231529-yoshis-egg-toss.json) |
 | Yoshi's Island | 270350 | [270350-yoshis-island.json](./270350-yoshis-island.json) |
 | Yoshi's Island DS | 20601 | [20601-yoshis-island-ds.json](./20601-yoshis-island-ds.json) |
+| Yoshi's Island PC | 251350 | [251350-yoshis-island-pc.json](./251350-yoshis-island-pc.json) |
 | Yoshi's Island Slider | 360926 | [360926-yoshis-island-slider.json](./360926-yoshis-island-slider.json) |
 | Yoshi's Island: Pacifier Edition | 172414 | [172414-yoshis-island-pacifier-edition.json](./172414-yoshis-island-pacifier-edition.json) |
 | Yoshi's Island: Super Mario Advance 3 | 16747 | [16747-yoshis-island-super-mario-advance-3.json](./16747-yoshis-island-super-mario-advance-3.json) |
