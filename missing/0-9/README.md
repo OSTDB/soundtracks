@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Labours of Hercules XIV: Message in a Bottle | 221170 | [221170-12-labours-of-hercules-xiv-message-in-a-bottle.json](./221170-12-labours-of-hercules-xiv-message-in-a-bottle.json) |
 | 12 Labours of Hercules XIV: Message in a Bottle - Collector's Edition | 338911 | [338911-12-labours-of-hercules-xiv-message-in-a-bottle-collectors-edition.json](./338911-12-labours-of-hercules-xiv-message-in-a-bottle-collectors-edition.json) |
 | 12 Labours of Hercules XV | 258934 | [258934-12-labours-of-hercules-xv.json](./258934-12-labours-of-hercules-xv.json) |
+| 12 Labours of Hercules XV: Little Big Adventure | 261402 | [261402-12-labours-of-hercules-xv-little-big-adventure.json](./261402-12-labours-of-hercules-xv-little-big-adventure.json) |
 | 12 Labours of Hercules XVI: Olympic Bugs | 283082 | [283082-12-labours-of-hercules-xvi-olympic-bugs.json](./283082-12-labours-of-hercules-xvi-olympic-bugs.json) |
 | 12 Labours of Hercules XVII: Feathered Fury | 318605 | [318605-12-labours-of-hercules-xvii-feathered-fury.json](./318605-12-labours-of-hercules-xvii-feathered-fury.json) |
 | 12 Labours of Hercules XVIII: Ghost Sheep | 355039 | [355039-12-labours-of-hercules-xviii-ghost-sheep.json](./355039-12-labours-of-hercules-xviii-ghost-sheep.json) |
@@ -1822,6 +1823,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-Legged Race B | 354403 | [354403-3-legged-race-b.json](./354403-3-legged-race-b.json) |
 | 3-Letter Competitive Crossword | 416745 | [416745-3-letter-competitive-crossword.json](./416745-3-letter-competitive-crossword.json) |
 | 3-nen B-Gumi Kinpachi-sensei: Densetsu no Kyoudan ni Tate! | 65022 | [65022-3-nen-b-gumi-kinpachi-sensei-densetsu-no-kyoudan-ni-tate.json](./65022-3-nen-b-gumi-kinpachi-sensei-densetsu-no-kyoudan-ni-tate.json) |
+| 3-pun Tenkatouitsu: Higashi Nippon Sengoku Quiz-hen | 261060 | [261060-3-pun-tenkatouitsu-higashi-nippon-sengoku-quiz-hen.json](./261060-3-pun-tenkatouitsu-higashi-nippon-sengoku-quiz-hen.json) |
+| 3-pun Tenkatouitsu: Nishi Nippon Sengoku Quiz-hen | 261061 | [261061-3-pun-tenkatouitsu-nishi-nippon-sengoku-quiz-hen.json](./261061-3-pun-tenkatouitsu-nishi-nippon-sengoku-quiz-hen.json) |
 | 3-Pun Yosou Umaban Club | 91814 | [91814-3-pun-yosou-umaban-club.json](./91814-3-pun-yosou-umaban-club.json) |
 | 3, 2, 1, Survive! | 102387 | [102387-3-2-1-survive.json](./102387-3-2-1-survive.json) |
 | 3, 2, 1...SuperCrash! | 42786 | [42786-3-2-1-supercrash.json](./42786-3-2-1-supercrash.json) |
@@ -1900,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 33 Rounds | 126563 | [126563-33-rounds.json](./126563-33-rounds.json) |
 | 33 Seconds | 208056 | [208056-33-seconds.json](./208056-33-seconds.json) |
 | 34 Sports Games: World Edition | 297041 | [297041-34-sports-games-world-edition.json](./297041-34-sports-games-world-edition.json) |
+| 3450 Algo | 261063 | [261063-3450-algo.json](./261063-3450-algo.json) |
 | 346469 | 362747 | [362747-346469.json](./362747-346469.json) |
 | 346470 | 362745 | [362745-346470.json](./362745-346470.json) |
 | 346471 | 362746 | [362746-346471.json](./362746-346471.json) |
@@ -2445,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Card Slingo | 414394 | [414394-5-card-slingo.json](./414394-5-card-slingo.json) |
 | 5 Days | 226096 | [226096-5-days.json](./226096-5-days.json) |
 | 5 Days, Minimum Wage. | 308953 | [308953-5-days-minimum-wage.json](./308953-5-days-minimum-wage.json) |
+| 5 Differences | 261070 | [261070-5-differences.json](./261070-5-differences.json) |
 | 5 Force Fighters | 153691 | [153691-5-force-fighters.json](./153691-5-force-fighters.json) |
 | 5 ft. 10 Pak: Award Winning Collection | 401082 | [401082-5-ft-10-pak-award-winning-collection.json](./401082-5-ft-10-pak-award-winning-collection.json) |
 | 5 ft. 10 Pak: Vol. I | 401081 | [401081-5-ft-10-pak-vol-i.json](./401081-5-ft-10-pak-vol-i.json) |
@@ -2576,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 Colors | 93366 | [93366-6-colors.json](./93366-6-colors.json) |
 | 6 Day Assassin | 171790 | [171790-6-day-assassin.json](./171790-6-day-assassin.json) |
 | 6 Days a Sacrifice | 71502 | [71502-6-days-a-sacrifice.json](./71502-6-days-a-sacrifice.json) |
+| 6 Differences | 261077 | [261077-6-differences.json](./261077-6-differences.json) |
 | 6 Feet Under | 177938 | [177938-6-feet-under.json](./177938-6-feet-under.json) |
 | 6 ft Blunder | 307231 | [307231-6-ft-blunder.json](./307231-6-ft-blunder.json) |
 | 6 Games | 319562 | [319562-6-games.json](./319562-6-games.json) |
