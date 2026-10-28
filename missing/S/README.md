@@ -1815,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satisfactory: Update 7 | 227759 | [227759-satisfactory-update-7.json](./227759-satisfactory-update-7.json) |
 | Satisfashion | 51133 | [51133-satisfashion.json](./51133-satisfashion.json) |
 | Satisfrustration | 349404 | [349404-satisfrustration.json](./349404-satisfrustration.json) |
+| Satisgame | 257477 | [257477-satisgame.json](./257477-satisgame.json) |
 | Satiszone | 332420 | [332420-satiszone.json](./332420-satiszone.json) |
 | Sato Killing Time Chat.exe | 395020 | [395020-sato-killing-time-chat-exe.json](./395020-sato-killing-time-chat-exe.json) |
 | Satogaeri | 192382 | [192382-satogaeri.json](./192382-satogaeri.json) |
@@ -12729,6 +12730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Eyes | 208983 | [208983-snake-eyes.json](./208983-snake-eyes.json) |
 | Snake Eyes | 369733 | [369733-snake-eyes.json](./369733-snake-eyes.json) |
 | Snake Eyes Dungeon | 76940 | [76940-snake-eyes-dungeon.json](./76940-snake-eyes-dungeon.json) |
+| Snake Farm | 257185 | [257185-snake-farm.json](./257185-snake-farm.json) |
 | Snake Flow | 37061 | [37061-snake-flow.json](./37061-snake-flow.json) |
 | Snake Force | 182382 | [182382-snake-force.json](./182382-snake-force.json) |
 | Snake Galaxy Online | 276970 | [276970-snake-galaxy-online.json](./276970-snake-galaxy-online.json) |
@@ -23571,6 +23573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story Machine | 42170 | [42170-story-machine.json](./42170-story-machine.json) |
 | Story Machine | 95450 | [95450-story-machine.json](./95450-story-machine.json) |
 | Story Maker | 66615 | [66615-story-maker.json](./66615-story-maker.json) |
+| Story Me: Interactive Novel | 257188 | [257188-story-me-interactive-novel.json](./257188-story-me-interactive-novel.json) |
 | Story of a Cube | 19108 | [19108-story-of-a-cube.json](./19108-story-of-a-cube.json) |
 | Story of a Gladiator | 125747 | [125747-story-of-a-gladiator.json](./125747-story-of-a-gladiator.json) |
 | Story of a Line | 391850 | [391850-story-of-a-line.json](./391850-story-of-a-line.json) |
@@ -26791,6 +26794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fun Soccer | 182167 | [182167-super-fun-soccer.json](./182167-super-fun-soccer.json) |
 | Super Funky Ball! | 152044 | [152044-super-funky-ball.json](./152044-super-funky-ball.json) |
 | Super Furi Puzzles | 334833 | [334833-super-furi-puzzles.json](./334833-super-furi-puzzles.json) |
+| Super FX Zelda | 257514 | [257514-super-fx-zelda.json](./257514-super-fx-zelda.json) |
 | Super G-Man | 73110 | [73110-super-g-man.json](./73110-super-g-man.json) |
 | Super Gachapon World: SD Gundam X | 42401 | [42401-super-gachapon-world-sd-gundam-x.json](./42401-super-gachapon-world-sd-gundam-x.json) |
 | Super Gahaku | 417571 | [417571-super-gahaku.json](./417571-super-gahaku.json) |
