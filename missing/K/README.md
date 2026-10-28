@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju No. 8: The Game | 343892 | [343892-kaiju-no-8-the-game.json](./343892-kaiju-no-8-the-game.json) |
 | Kaiju Noir | 180458 | [180458-kaiju-noir.json](./180458-kaiju-noir.json) |
 | Kaiju Panic | 13190 | [13190-kaiju-panic.json](./13190-kaiju-panic.json) |
+| Kaiju Princess | 229286 | [229286-kaiju-princess.json](./229286-kaiju-princess.json) |
 | Kaiju Princess 2 | 256650 | [256650-kaiju-princess-2.json](./256650-kaiju-princess-2.json) |
 | Kaiju Rush | 297524 | [297524-kaiju-rush.json](./297524-kaiju-rush.json) |
 | Kaiju Wars | 171757 | [171757-kaiju-wars.json](./171757-kaiju-wars.json) |
@@ -3658,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiwie vs. Desert: Uniform Pack | 310490 | [310490-kiwie-vs-desert-uniform-pack.json](./310490-kiwie-vs-desert-uniform-pack.json) |
 | KiwiFlight | 306707 | [306707-kiwiflight.json](./306707-kiwiflight.json) |
 | Kiwis Can't Fly | 306691 | [306691-kiwis-cant-fly.json](./306691-kiwis-cant-fly.json) |
+| Kiyeko and the Lost Night | 229281 | [229281-kiyeko-and-the-lost-night.json](./229281-kiyeko-and-the-lost-night.json) |
 | Kiyo: Bunny Tyranny | 356562 | [356562-kiyo-bunny-tyranny.json](./356562-kiyo-bunny-tyranny.json) |
 | Kizi Adventures | 56911 | [56911-kizi-adventures.json](./56911-kizi-adventures.json) |
 | Kiziland | 403121 | [403121-kiziland.json](./403121-kiziland.json) |
@@ -4828,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotowari: Kimi no Kokoro no Koboreta Kakera | 382785 | [382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json](./382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json) |
 | Kottabos VR | 289233 | [289233-kottabos-vr.json](./289233-kottabos-vr.json) |
 | Kotyxa | 387053 | [387053-kotyxa.json](./387053-kotyxa.json) |
+| Kou | 229387 | [229387-kou.json](./229387-kou.json) |
 | Kou Dai Guai Shou | 280683 | [280683-kou-dai-guai-shou.json](./280683-kou-dai-guai-shou.json) |
 | Kou Dai Guai Shou II | 280685 | [280685-kou-dai-guai-shou-ii.json](./280685-kou-dai-guai-shou-ii.json) |
 | Kou Dai Guai Shou III | 280687 | [280687-kou-dai-guai-shou-iii.json](./280687-kou-dai-guai-shou-iii.json) |
