@@ -2161,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayaka | 29858 | [29858-sayaka.json](./29858-sayaka.json) |
 | Sayaka's Addiction | 335719 | [335719-sayakas-addiction.json](./335719-sayakas-addiction.json) |
 | Sayako Story | 253868 | [253868-sayako-story.json](./253868-sayako-story.json) |
+| Sayfield Defense | 253543 | [253543-sayfield-defense.json](./253543-sayfield-defense.json) |
 | Sayo no Bus ni te | 394796 | [394796-sayo-no-bus-ni-te.json](./394796-sayo-no-bus-ni-te.json) |
 | Sayo-kun no Omajinai | 314850 | [314850-sayo-kun-no-omajinai.json](./314850-sayo-kun-no-omajinai.json) |
 | Sayonalaika | 340880 | [340880-sayonalaika.json](./340880-sayonalaika.json) |
@@ -4599,6 +4600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Send them to the sky | 130227 | [130227-send-them-to-the-sky.json](./130227-send-them-to-the-sky.json) |
 | Send You a Link | 229654 | [229654-send-you-a-link.json](./229654-send-you-a-link.json) |
 | Senda Salvaje | 272301 | [272301-senda-salvaje.json](./272301-senda-salvaje.json) |
+| Sender | 253549 | [253549-sender.json](./253549-sender.json) |
 | Sender Unknown: The Woods | 74404 | [74404-sender-unknown-the-woods.json](./74404-sender-unknown-the-woods.json) |
 | Senderos de Fugüm | 326606 | [326606-senderos-de-fugum.json](./326606-senderos-de-fugum.json) |
 | Sending my Pet Rock To Heaven! | 409339 | [409339-sending-my-pet-rock-to-heaven.json](./409339-sending-my-pet-rock-to-heaven.json) |
@@ -8888,6 +8890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigurat | 161625 | [161625-sigurat.json](./161625-sigurat.json) |
 | Sigurður | 164608 | [164608-sigur-ur.json](./164608-sigur-ur.json) |
 | Siheyuan | 244325 | [244325-siheyuan.json](./244325-siheyuan.json) |
+| SiideQuest | 253529 | [253529-siidequest.json](./253529-siidequest.json) |
 | Siienaa | 195575 | [195575-siienaa.json](./195575-siienaa.json) |
 | SiIvaGunner: King for a Day Tournament - Playable Credits Minigame!! | 326974 | [326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json](./326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json) |
 | SIK Space Invader Kreature | 174034 | [174034-sik-space-invader-kreature.json](./174034-sik-space-invader-kreature.json) |
@@ -21951,6 +21954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars Wheel | 175747 | [175747-stars-wheel.json](./175747-stars-wheel.json) |
 | Stars Without Number | 99095 | [99095-stars-without-number.json](./99095-stars-without-number.json) |
 | Stars, Stripes and Subgames: Collector's Edition | 308494 | [308494-stars-stripes-and-subgames-collectors-edition.json](./308494-stars-stripes-and-subgames-collectors-edition.json) |
+| Stars, Stripes, and Subgames | 253540 | [253540-stars-stripes-and-subgames.json](./253540-stars-stripes-and-subgames.json) |
 | Stars! | 94399 | [94399-stars.json](./94399-stars.json) |
 | Starsand | 152754 | [152754-starsand.json](./152754-starsand.json) |
 | Starsand Island | 310885 | [310885-starsand-island.json](./310885-starsand-island.json) |
