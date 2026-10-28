@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vadine: Bite-Man | 103972 | [103972-vadine-bite-man.json](./103972-vadine-bite-man.json) |
 | Vae Victis | 250988 | [250988-vae-victis.json](./250988-vae-victis.json) |
 | Vae Victis: Khan | 267671 | [267671-vae-victis-khan.json](./267671-vae-victis-khan.json) |
+| Vae Victus | 260510 | [260510-vae-victus.json](./260510-vae-victus.json) |
 | Vae Victus 2 | 256862 | [256862-vae-victus-2.json](./256862-vae-victus-2.json) |
 | Vaer | 296149 | [296149-vaer.json](./296149-vaer.json) |
 | Vaewolf | 415294 | [415294-vaewolf.json](./415294-vaewolf.json) |
@@ -2090,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violet's Party Mania | 219518 | [219518-violets-party-mania.json](./219518-violets-party-mania.json) |
 | Violeta | 176940 | [176940-violeta.json](./176940-violeta.json) |
 | Violeta | 327043 | [327043-violeta.json](./327043-violeta.json) |
+| Violetshift | 260501 | [260501-violetshift.json](./260501-violetshift.json) |
 | Violett | 18734 | [18734-violett.json](./18734-violett.json) |
 | Violetta: Rhythm & Music | 58005 | [58005-violetta-rhythm-and-music.json](./58005-violetta-rhythm-and-music.json) |
 | Violetti Goottii | 150389 | [150389-violetti-goottii.json](./150389-violetti-goottii.json) |
