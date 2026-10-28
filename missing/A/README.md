@@ -14364,6 +14364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athletic Land | 55859 | [55859-athletic-land.json](./55859-athletic-land.json) |
 | Athletic World | 9104 | [9104-athletic-world.json](./9104-athletic-world.json) |
 | Athletics 2: Winter Sports Pro | 86877 | [86877-athletics-2-winter-sports-pro.json](./86877-athletics-2-winter-sports-pro.json) |
+| Athletics Championship | 252957 | [252957-athletics-championship.json](./252957-athletics-championship.json) |
 | Athletics Mania | 272442 | [272442-athletics-mania.json](./272442-athletics-mania.json) |
 | Athletics: Winter Sports | 88920 | [88920-athletics-winter-sports.json](./88920-athletics-winter-sports.json) |
 | Athletyx | 123069 | [123069-athletyx.json](./123069-athletyx.json) |
