@@ -1447,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Pets | 200631 | [200631-happy-pets.json](./200631-happy-pets.json) |
 | Happy picture | 114242 | [114242-happy-picture.json](./114242-happy-picture.json) |
 | Happy Pinball | 373116 | [373116-happy-pinball.json](./373116-happy-pinball.json) |
+| Happy Place Remake | 264734 | [264734-happy-place-remake.json](./264734-happy-place-remake.json) |
 | Happy Pong | 352380 | [352380-happy-pong.json](./352380-happy-pong.json) |
 | Happy Pong | 90580 | [90580-happy-pong.json](./90580-happy-pong.json) |
 | Happy Princess: Another Fairytale | 77904 | [77904-happy-princess-another-fairytale.json](./77904-happy-princess-another-fairytale.json) |
@@ -8606,6 +8607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Zero Dawn: Limited Edition | 136150 | [136150-horizon-zero-dawn-limited-edition.json](./136150-horizon-zero-dawn-limited-edition.json) |
 | Horizon's Edge | 291381 | [291381-horizons-edge.json](./291381-horizons-edge.json) |
 | Horizon's Gate | 131620 | [131620-horizons-gate.json](./131620-horizons-gate.json) |
+| Horizon's Mirage | 264741 | [264741-horizons-mirage.json](./264741-horizons-mirage.json) |
 | Horizons Light | 376466 | [376466-horizons-light.json](./376466-horizons-light.json) |
 | Horizons of Achaea | 381358 | [381358-horizons-of-achaea.json](./381358-horizons-of-achaea.json) |
 | Horizons Scavenger | 390272 | [390272-horizons-scavenger.json](./390272-horizons-scavenger.json) |
@@ -8649,6 +8651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Spell | 226189 | [226189-horny-spell.json](./226189-horny-spell.json) |
 | Horny Spy: Secret Mission | 262001 | [262001-horny-spy-secret-mission.json](./262001-horny-spy-secret-mission.json) |
 | Horny Suika: Wet Watermelon | 296614 | [296614-horny-suika-wet-watermelon.json](./296614-horny-suika-wet-watermelon.json) |
+| Horny Sweeper | 264716 | [264716-horny-sweeper.json](./264716-horny-sweeper.json) |
 | Horny Sweeper 2 | 130735 | [130735-horny-sweeper-2.json](./130735-horny-sweeper-2.json) |
 | Horny Villa | 301642 | [301642-horny-villa.json](./301642-horny-villa.json) |
 | Horny Warp: Hentai Fantasy | 343372 | [343372-horny-warp-hentai-fantasy.json](./343372-horny-warp-hentai-fantasy.json) |
