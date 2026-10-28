@@ -2580,6 +2580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onimusha: Way of the Sword - Sword Appearance: Raizan | 407135 | [407135-onimusha-way-of-the-sword-sword-appearance-raizan.json](./407135-onimusha-way-of-the-sword-sword-appearance-raizan.json) |
 | Onimusha: Way of the Sword - Sword Appearance: Whittled Oar | 407136 | [407136-onimusha-way-of-the-sword-sword-appearance-whittled-oar.json](./407136-onimusha-way-of-the-sword-sword-appearance-whittled-oar.json) |
 | Oninaki | 115280 | [115280-oninaki.json](./115280-oninaki.json) |
+| Onion Assault | 231024 | [231024-onion-assault.json](./231024-onion-assault.json) |
 | Onion Delivery | 318730 | [318730-onion-delivery.json](./318730-onion-delivery.json) |
 | Onion Force | 33699 | [33699-onion-force.json](./33699-onion-force.json) |
 | Onion House | 384920 | [384920-onion-house.json](./384920-onion-house.json) |
