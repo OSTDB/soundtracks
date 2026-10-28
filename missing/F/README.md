@@ -2380,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 2013: Väderstad | 166092 | [166092-farming-simulator-2013-vaderstad.json](./166092-farming-simulator-2013-vaderstad.json) |
 | Farming Simulator 2014 | 3181 | [3181-farming-simulator-2014.json](./3181-farming-simulator-2014.json) |
 | Farming Simulator 22 | 146112 | [146112-farming-simulator-22.json](./146112-farming-simulator-22.json) |
+| Farming Simulator 22 - Year 2 Season Pass | 231004 | [231004-farming-simulator-22-year-2-season-pass.json](./231004-farming-simulator-22-year-2-season-pass.json) |
 | Farming Simulator 22: Case IH Farmall Anniversary Pack | 276271 | [276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json](./276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json) |
 | Farming Simulator 22: Claas Xerion Saddle Trac Pack | 206532 | [206532-farming-simulator-22-claas-xerion-saddle-trac-pack.json](./206532-farming-simulator-22-claas-xerion-saddle-trac-pack.json) |
 | Farming Simulator 22: ERO Grapeliner Series 7000 | 214366 | [214366-farming-simulator-22-ero-grapeliner-series-7000.json](./214366-farming-simulator-22-ero-grapeliner-series-7000.json) |
@@ -4319,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy II | 380633 | [380633-final-fantasy-ii.json](./380633-final-fantasy-ii.json) |
 | Final Fantasy II: 20th Anniversary Edition | 121717 | [121717-final-fantasy-ii-20th-anniversary-edition.json](./121717-final-fantasy-ii-20th-anniversary-edition.json) |
 | Final Fantasy II: Job System | 343369 | [343369-final-fantasy-ii-job-system.json](./343369-final-fantasy-ii-job-system.json) |
+| Final Fantasy III | 231017 | [231017-final-fantasy-iii.json](./231017-final-fantasy-iii.json) |
 | Final Fantasy III | 340017 | [340017-final-fantasy-iii.json](./340017-final-fantasy-iii.json) |
 | Final Fantasy III | 340019 | [340019-final-fantasy-iii.json](./340019-final-fantasy-iii.json) |
 | Final Fantasy III | 77234 | [77234-final-fantasy-iii.json](./77234-final-fantasy-iii.json) |
@@ -7870,6 +7872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Tycoon: Expansion Pack 2 | 199838 | [199838-food-truck-tycoon-expansion-pack-2.json](./199838-food-truck-tycoon-expansion-pack-2.json) |
 | Food Truck Tycoon: GOTY Edition | 268556 | [268556-food-truck-tycoon-goty-edition.json](./268556-food-truck-tycoon-goty-edition.json) |
 | Food Truck Tycoon: Multiplayer Edition | 240407 | [240407-food-truck-tycoon-multiplayer-edition.json](./240407-food-truck-tycoon-multiplayer-edition.json) |
+| Food Truck Tycoons: 2 in 1 Bundle | 231031 | [231031-food-truck-tycoons-2-in-1-bundle.json](./231031-food-truck-tycoons-2-in-1-bundle.json) |
 | Food Truck VR | 343329 | [343329-food-truck-vr.json](./343329-food-truck-vr.json) |
 | Food Wagon | 333359 | [333359-food-wagon.json](./333359-food-wagon.json) |
 | Food War TD | 171439 | [171439-food-war-td.json](./171439-food-war-td.json) |
@@ -8716,6 +8719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forknite | 313201 | [313201-forknite.json](./313201-forknite.json) |
 | Forkraith | 364225 | [364225-forkraith.json](./364225-forkraith.json) |
 | Forks & Daggers | 380676 | [380676-forks-and-daggers.json](./380676-forks-and-daggers.json) |
+| Forkscythe | 231008 | [231008-forkscythe.json](./231008-forkscythe.json) |
 | Forlands | 303183 | [303183-forlands.json](./303183-forlands.json) |
 | Forlorn | 273555 | [273555-forlorn.json](./273555-forlorn.json) |
 | Forlorn | 280804 | [280804-forlorn.json](./280804-forlorn.json) |
