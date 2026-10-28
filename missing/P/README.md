@@ -1826,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoia | 165050 | [165050-paranoia.json](./165050-paranoia.json) |
 | Paranoia | 399031 | [399031-paranoia.json](./399031-paranoia.json) |
 | Paranoia 2: Savior | 123592 | [123592-paranoia-2-savior.json](./123592-paranoia-2-savior.json) |
+| Paranoia Party | 235415 | [235415-paranoia-party.json](./235415-paranoia-party.json) |
 | Paranoia Place | 214118 | [214118-paranoia-place.json](./214118-paranoia-place.json) |
 | Paranoia Vol 1 | 398269 | [398269-paranoia-vol-1.json](./398269-paranoia-vol-1.json) |
 | Paranoia: Happiness is Mandatory | 117313 | [117313-paranoia-happiness-is-mandatory.json](./117313-paranoia-happiness-is-mandatory.json) |
@@ -1965,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasomnia Verum | 153972 | [153972-parasomnia-verum.json](./153972-parasomnia-verum.json) |
 | Parasomnia: No Rem | 318531 | [318531-parasomnia-no-rem.json](./318531-parasomnia-no-rem.json) |
 | Parasomnum | 269981 | [269981-parasomnum.json](./269981-parasomnum.json) |
+| Paratives | 235412 | [235412-paratives.json](./235412-paratives.json) |
 | Paratopic | 97690 | [97690-paratopic.json](./97690-paratopic.json) |
 | Paratopic + Food Truck Tycoon | 252703 | [252703-paratopic-food-truck-tycoon.json](./252703-paratopic-food-truck-tycoon.json) |
 | Paratopic + Urban Flow | 246894 | [246894-paratopic-urban-flow.json](./246894-paratopic-urban-flow.json) |
@@ -6645,6 +6647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates In Love | 232852 | [232852-pirates-in-love.json](./232852-pirates-in-love.json) |
 | Pirates in Love: Captain's Cut | 232853 | [232853-pirates-in-love-captains-cut.json](./232853-pirates-in-love-captains-cut.json) |
 | Pirates Jigsaw Puzzle for Kids & Toddlers | 203698 | [203698-pirates-jigsaw-puzzle-for-kids-and-toddlers.json](./203698-pirates-jigsaw-puzzle-for-kids-and-toddlers.json) |
+| Pirates Journey | 235418 | [235418-pirates-journey.json](./235418-pirates-journey.json) |
 | Pirates Kingdom | 323170 | [323170-pirates-kingdom.json](./323170-pirates-kingdom.json) |
 | Pirates Odyssey | 270122 | [270122-pirates-odyssey.json](./270122-pirates-odyssey.json) |
 | Pirates of Black Cove | 2067 | [2067-pirates-of-black-cove.json](./2067-pirates-of-black-cove.json) |
@@ -10816,6 +10819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Break 3D Billiards 8 Ball, 9 Ball, Snooker | 100147 | [100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json](./100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json) |
 | Pool Break Pro 3D Billiards | 96292 | [96292-pool-break-pro-3d-billiards.json](./96292-pool-break-pro-3d-billiards.json) |
 | Pool Champion | 85929 | [85929-pool-champion.json](./85929-pool-champion.json) |
+| Pool Cleaning Simulator | 235399 | [235399-pool-cleaning-simulator.json](./235399-pool-cleaning-simulator.json) |
 | Pool Club kara no Dasshutsu | 358493 | [358493-pool-club-kara-no-dasshutsu.json](./358493-pool-club-kara-no-dasshutsu.json) |
 | Pool Edge | 4072 | [4072-pool-edge.json](./4072-pool-edge.json) |
 | Pool Elite | 103180 | [103180-pool-elite.json](./103180-pool-elite.json) |
@@ -14525,6 +14529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Province Simulator | 392384 | [392384-province-simulator.json](./392384-province-simulator.json) |
 | Province: Suroste | 413238 | [413238-province-suroste.json](./413238-province-suroste.json) |
 | Provincies | 68728 | [68728-provincies.json](./68728-provincies.json) |
+| Proving Grounds | 235431 | [235431-proving-grounds.json](./235431-proving-grounds.json) |
 | Provisional Authority: An AI Governance Simulation | 401258 | [401258-provisional-authority-an-ai-governance-simulation.json](./401258-provisional-authority-an-ai-governance-simulation.json) |
 | Provoron | 258977 | [258977-provoron.json](./258977-provoron.json) |
 | Prowler | 55085 | [55085-prowler.json](./55085-prowler.json) |
