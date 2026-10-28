@@ -3394,6 +3394,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Warchief: Strategy City Builder | 216966 | [216966-orc-warchief-strategy-city-builder.json](./216966-orc-warchief-strategy-city-builder.json) |
 | Orc's Bride | 367196 | [367196-orcs-bride.json](./367196-orcs-bride.json) |
 | Orca | 301336 | [301336-orca.json](./301336-orca.json) |
+| Orca 2: O Mistério de Wakkita | 261950 | [261950-orca-2-o-misterio-de-wakkita.json](./261950-orca-2-o-misterio-de-wakkita.json) |
+| Orca 3: A Maldição dos Barbatantes | 261951 | [261951-orca-3-a-maldicao-dos-barbatantes.json](./261951-orca-3-a-maldicao-dos-barbatantes.json) |
+| Orca: a lenda dos mares | 261949 | [261949-orca-a-lenda-dos-mares.json](./261949-orca-a-lenda-dos-mares.json) |
 | Orch Star | 76615 | [76615-orch-star.json](./76615-orch-star.json) |
 | Orchard | 287538 | [287538-orchard.json](./287538-orchard.json) |
 | Orchard | 92511 | [92511-orchard.json](./92511-orchard.json) |
