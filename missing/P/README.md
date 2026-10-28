@@ -6643,6 +6643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates: Rogue's Fortune | 298072 | [298072-pirates-rogues-fortune.json](./298072-pirates-rogues-fortune.json) |
 | Pirates: The Key of Dreams | 21827 | [21827-pirates-the-key-of-dreams.json](./21827-pirates-the-key-of-dreams.json) |
 | Pirates: The Legend of Black Kat | 5983 | [5983-pirates-the-legend-of-black-kat.json](./5983-pirates-the-legend-of-black-kat.json) |
+| Pirates: The Legend of the Kraken | 255185 | [255185-pirates-the-legend-of-the-kraken.json](./255185-pirates-the-legend-of-the-kraken.json) |
 | Pirates: Tides of Fortune | 23592 | [23592-pirates-tides-of-fortune.json](./23592-pirates-tides-of-fortune.json) |
 | Pirates! | 267320 | [267320-pirates.json](./267320-pirates.json) |
 | Pirates! Gold | 9232 | [9232-pirates-gold.json](./9232-pirates-gold.json) |
@@ -10413,6 +10414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Jigsaw: Birds | 240660 | [240660-poly-jigsaw-birds.json](./240660-poly-jigsaw-birds.json) |
 | Poly Jigsaw: Dinosaurs | 246798 | [246798-poly-jigsaw-dinosaurs.json](./246798-poly-jigsaw-dinosaurs.json) |
 | Poly Jigsaw: Dogs | 248665 | [248665-poly-jigsaw-dogs.json](./248665-poly-jigsaw-dogs.json) |
+| Poly Jigsaw: Furries | 255280 | [255280-poly-jigsaw-furries.json](./255280-poly-jigsaw-furries.json) |
 | Poly Jigsaw: Furries 2 | 256999 | [256999-poly-jigsaw-furries-2.json](./256999-poly-jigsaw-furries-2.json) |
 | Poly Jigsaw: Predators | 388262 | [388262-poly-jigsaw-predators.json](./388262-poly-jigsaw-predators.json) |
 | Poly Jigsaw: Primates | 280474 | [280474-poly-jigsaw-primates.json](./280474-poly-jigsaw-primates.json) |
