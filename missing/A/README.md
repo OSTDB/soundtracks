@@ -3257,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures Of Willy Dickhard | 385695 | [385695-adventures-of-willy-dickhard.json](./385695-adventures-of-willy-dickhard.json) |
 | Adventures of Yogi Bear | 8010 | [8010-adventures-of-yogi-bear.json](./8010-adventures-of-yogi-bear.json) |
 | Adventures on The Polluted Islands | 27721 | [27721-adventures-on-the-polluted-islands.json](./27721-adventures-on-the-polluted-islands.json) |
+| Adventures to Go | 274849 | [274849-adventures-to-go.json](./274849-adventures-to-go.json) |
 | Adventures With a Girl | 168602 | [168602-adventures-with-a-girl.json](./168602-adventures-with-a-girl.json) |
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
 | Adventures With Anxiety! | 141645 | [141645-adventures-with-anxiety.json](./141645-adventures-with-anxiety.json) |
@@ -5915,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Scumbags | 124627 | [124627-alien-scumbags.json](./124627-alien-scumbags.json) |
 | Alien Shepherd | 190200 | [190200-alien-shepherd.json](./190200-alien-shepherd.json) |
 | Alien Ship Console | 320205 | [320205-alien-ship-console.json](./320205-alien-ship-console.json) |
+| Alien Shooter | 275153 | [275153-alien-shooter.json](./275153-alien-shooter.json) |
 | Alien Shooter 2: New Era | 203883 | [203883-alien-shooter-2-new-era.json](./203883-alien-shooter-2-new-era.json) |
 | Alien Shooter 2: Reloaded | 11088 | [11088-alien-shooter-2-reloaded.json](./11088-alien-shooter-2-reloaded.json) |
 | Alien Shooter 3D | 152770 | [152770-alien-shooter-3d.json](./152770-alien-shooter-3d.json) |
