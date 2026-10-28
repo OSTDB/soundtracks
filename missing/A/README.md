@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abduction Escape | 337117 | [337117-abduction-escape.json](./337117-abduction-escape.json) |
 | Abduction Prologue: The Story Of Jonathan Blake | 82096 | [82096-abduction-prologue-the-story-of-jonathan-blake.json](./82096-abduction-prologue-the-story-of-jonathan-blake.json) |
 | Abduction! | 241448 | [241448-abduction.json](./241448-abduction.json) |
+| Abduction! | 262509 | [262509-abduction.json](./262509-abduction.json) |
 | Abductor | 41192 | [41192-abductor.json](./41192-abductor.json) |
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
 | Abel: Shin Mokushiroku Taisen | 299785 | [299785-abel-shin-mokushiroku-taisen.json](./299785-abel-shin-mokushiroku-taisen.json) |
@@ -9120,6 +9121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Holiday Pack | 227395 | [227395-anno-1800-holiday-pack.json](./227395-anno-1800-holiday-pack.json) |
 | Anno 1800: Industrial Immersion Bundle | 317367 | [317367-anno-1800-industrial-immersion-bundle.json](./317367-anno-1800-industrial-immersion-bundle.json) |
 | Anno 1800: Land of Lions | 151061 | [151061-anno-1800-land-of-lions.json](./151061-anno-1800-land-of-lions.json) |
+| Anno 1800: National Park Pack | 262527 | [262527-anno-1800-national-park-pack.json](./262527-anno-1800-national-park-pack.json) |
 | Anno 1800: New World Rising | 197351 | [197351-anno-1800-new-world-rising.json](./197351-anno-1800-new-world-rising.json) |
 | Anno 1800: Old Town Pack | 227938 | [227938-anno-1800-old-town-pack.json](./227938-anno-1800-old-town-pack.json) |
 | Anno 1800: Pirate Cove Pack | 317336 | [317336-anno-1800-pirate-cove-pack.json](./317336-anno-1800-pirate-cove-pack.json) |
@@ -11226,6 +11228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arch Virtual HQ | 105888 | [105888-arch-virtual-hq.json](./105888-arch-virtual-hq.json) |
 | Archa | 342117 | [342117-archa.json](./342117-archa.json) |
 | Archaeogem | 219060 | [219060-archaeogem.json](./219060-archaeogem.json) |
+| Archaeology | 262514 | [262514-archaeology.json](./262514-archaeology.json) |
 | Archaeology: Egypt | 371480 | [371480-archaeology-egypt.json](./371480-archaeology-egypt.json) |
 | Archaeology: Frozen Knights | 337969 | [337969-archaeology-frozen-knights.json](./337969-archaeology-frozen-knights.json) |
 | Archaeology: Frozen Pirates | 369539 | [369539-archaeology-frozen-pirates.json](./369539-archaeology-frozen-pirates.json) |
