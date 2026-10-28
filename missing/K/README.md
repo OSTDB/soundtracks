@@ -2574,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur's Heir | 23970 | [23970-king-arthurs-heir.json](./23970-king-arthurs-heir.json) |
 | King Arthur's K.O.R.T. | 69839 | [69839-king-arthurs-k-o-r-t.json](./69839-king-arthurs-k-o-r-t.json) |
 | King Arthur's Magic Castle | 213275 | [213275-king-arthurs-magic-castle.json](./213275-king-arthurs-magic-castle.json) |
+| King Arthur's Petaldust Saga | 258045 | [258045-king-arthurs-petaldust-saga.json](./258045-king-arthurs-petaldust-saga.json) |
 | King Arthur's Quest | 316360 | [316360-king-arthurs-quest.json](./316360-king-arthurs-quest.json) |
 | King Assassination | 420540 | [420540-king-assassination.json](./420540-king-assassination.json) |
 | King Bandido | 22136 | [22136-king-bandido.json](./22136-king-bandido.json) |
