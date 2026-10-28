@@ -9951,6 +9951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blortasia | 32178 | [32178-blortasia.json](./32178-blortasia.json) |
 | BlosamAO | 151170 | [151170-blosamao.json](./151170-blosamao.json) |
 | Blosharper: Battle of Blossoms | 405561 | [405561-blosharper-battle-of-blossoms.json](./405561-blosharper-battle-of-blossoms.json) |
+| Blosics | 261920 | [261920-blosics.json](./261920-blosics.json) |
 | Blosics 2 | 320867 | [320867-blosics-2.json](./320867-blosics-2.json) |
 | Blossom | 178530 | [178530-blossom.json](./178530-blossom.json) |
 | Blossom | 180085 | [180085-blossom.json](./180085-blossom.json) |
@@ -11705,6 +11706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bostin Voyage | 409362 | [409362-bostin-voyage.json](./409362-bostin-voyage.json) |
 | Boston Bomb Club | 10865 | [10865-boston-bomb-club.json](./10865-boston-bomb-club.json) |
 | Boston Nursing Home | 157174 | [157174-boston-nursing-home.json](./157174-boston-nursing-home.json) |
+| Bot Arena 3 | 261917 | [261917-bot-arena-3.json](./261917-bot-arena-3.json) |
 | Bot Battles | 116835 | [116835-bot-battles.json](./116835-bot-battles.json) |
 | Bot Beats | 322619 | [322619-bot-beats.json](./322619-bot-beats.json) |
 | Bot Brigade | 202552 | [202552-bot-brigade.json](./202552-bot-brigade.json) |
