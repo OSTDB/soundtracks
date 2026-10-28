@@ -4784,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GO Series: 10 Second Run | 80030 | [80030-go-series-10-second-run.json](./80030-go-series-10-second-run.json) |
 | GO Series: Picdun | 56903 | [56903-go-series-picdun.json](./56903-go-series-picdun.json) |
 | GO Series: Portable Shrine Wars | 65750 | [65750-go-series-portable-shrine-wars.json](./65750-go-series-portable-shrine-wars.json) |
+| Go Soccer | 246445 | [246445-go-soccer.json](./246445-go-soccer.json) |
 | Go Some Balls: Only Up and Getting Over It | 276668 | [276668-go-some-balls-only-up-and-getting-over-it.json](./276668-go-some-balls-only-up-and-getting-over-it.json) |
 | Go Team Yeah | 185463 | [185463-go-team-yeah.json](./185463-go-team-yeah.json) |
 | Go There | 240742 | [240742-go-there.json](./240742-go-there.json) |
@@ -6437,6 +6438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotta Get Going: Steam Smugglers Prologue | 90402 | [90402-gotta-get-going-steam-smugglers-prologue.json](./90402-gotta-get-going-steam-smugglers-prologue.json) |
 | Gotta Get Home | 231299 | [231299-gotta-get-home.json](./231299-gotta-get-home.json) |
 | Gotta Go | 51488 | [51488-gotta-go.json](./51488-gotta-go.json) |
+| Gotta Go Fast: Racing Collection | 246572 | [246572-gotta-go-fast-racing-collection.json](./246572-gotta-go-fast-racing-collection.json) |
 | Gotta Protectors: Amazon's Running Diet | 195502 | [195502-gotta-protectors-amazons-running-diet.json](./195502-gotta-protectors-amazons-running-diet.json) |
 | Gotta Protectors: Cart of Darkness | 196318 | [196318-gotta-protectors-cart-of-darkness.json](./196318-gotta-protectors-cart-of-darkness.json) |
 | Gotta Protectors: Cart of Darkness - Ultimate Deluxe Bundle | 199883 | [199883-gotta-protectors-cart-of-darkness-ultimate-deluxe-bundle.json](./199883-gotta-protectors-cart-of-darkness-ultimate-deluxe-bundle.json) |
