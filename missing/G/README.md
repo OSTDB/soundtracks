@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gadget Racers | 250446 | [250446-gadget-racers.json](./250446-gadget-racers.json) |
 | Gadget Racers | 4088 | [4088-gadget-racers.json](./4088-gadget-racers.json) |
 | Gadget Trial | 137882 | [137882-gadget-trial.json](./137882-gadget-trial.json) |
+| Gadget Tycoon | 245892 | [245892-gadget-tycoon.json](./245892-gadget-tycoon.json) |
 | Gadget Tycoon | 77189 | [77189-gadget-tycoon.json](./77189-gadget-tycoon.json) |
 | Gadget: Past as Future | 131905 | [131905-gadget-past-as-future.json](./131905-gadget-past-as-future.json) |
 | Gadgeteer | 103264 | [103264-gadgeteer.json](./103264-gadgeteer.json) |
@@ -5365,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: Domination! | 49298 | [49298-godzilla-domination.json](./49298-godzilla-domination.json) |
 | Godzilla: Kaiju Collection | 135560 | [135560-godzilla-kaiju-collection.json](./135560-godzilla-kaiju-collection.json) |
 | Godzilla: Kaijuu Daikessen | 36739 | [36739-godzilla-kaijuu-daikessen.json](./36739-godzilla-kaijuu-daikessen.json) |
+| Godzilla: King of the Monsters | 245471 | [245471-godzilla-king-of-the-monsters.json](./245471-godzilla-king-of-the-monsters.json) |
 | Godzilla: Monster of Monsters | 48161 | [48161-godzilla-monster-of-monsters.json](./48161-godzilla-monster-of-monsters.json) |
 | Godzilla: Save the Earth | 5847 | [5847-godzilla-save-the-earth.json](./5847-godzilla-save-the-earth.json) |
 | Godzilla: Save the Earth - Melee | 301492 | [301492-godzilla-save-the-earth-melee.json](./301492-godzilla-save-the-earth-melee.json) |
@@ -6429,6 +6431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOTO Bridge 18 | 99502 | [99502-goto-bridge-18.json](./99502-goto-bridge-18.json) |
 | Gotogra | 387357 | [387357-gotogra.json](./387357-gotogra.json) |
 | Gotomomi | 59707 | [59707-gotomomi.json](./59707-gotomomi.json) |
+| Gotoubun: RE | 245130 | [245130-gotoubun-re.json](./245130-gotoubun-re.json) |
 | Gotouchi Hello Kitty Sugoroku Monogatari | 256652 | [256652-gotouchi-hello-kitty-sugoroku-monogatari.json](./256652-gotouchi-hello-kitty-sugoroku-monogatari.json) |
 | Gotouchi Kentei DS | 124018 | [124018-gotouchi-kentei-ds.json](./124018-gotouchi-kentei-ds.json) |
 | Gotouchi Tetsudou for Nintendo Switch | 136963 | [136963-gotouchi-tetsudou-for-nintendo-switch.json](./136963-gotouchi-tetsudou-for-nintendo-switch.json) |
