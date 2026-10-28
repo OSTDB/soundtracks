@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab Remnants | 188367 | [188367-lab-remnants.json](./188367-lab-remnants.json) |
 | Lab Run | 354888 | [354888-lab-run.json](./354888-lab-run.json) |
 | Lab Runner: X | 126437 | [126437-lab-runner-x.json](./126437-lab-runner-x.json) |
+| Lab Sorters | 243297 | [243297-lab-sorters.json](./243297-lab-sorters.json) |
 | Lab.Ar | 247955 | [247955-lab-ar.json](./247955-lab-ar.json) |
 | Lab.Gen. | 108372 | [108372-lab-gen.json](./108372-lab-gen.json) |
 | Lab2: Under Ground | 77811 | [77811-lab2-under-ground.json](./77811-lab2-under-ground.json) |
@@ -1972,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn to Play vol. 8: Penalty Shootout | 322416 | [322416-learn-to-play-vol-8-penalty-shootout.json](./322416-learn-to-play-vol-8-penalty-shootout.json) |
 | Learn to Play: Jungle Frog | 358660 | [358660-learn-to-play-jungle-frog.json](./358660-learn-to-play-jungle-frog.json) |
 | Learn with Illustrations! English Prepositions 4-Choice Quiz | 399658 | [399658-learn-with-illustrations-english-prepositions-4-choice-quiz.json](./399658-learn-with-illustrations-english-prepositions-4-choice-quiz.json) |
+| Learn Words: Use Syllables | 243329 | [243329-learn-words-use-syllables.json](./243329-learn-words-use-syllables.json) |
 | LearnEng - The Word Maker | 110856 | [110856-learneng-the-word-maker.json](./110856-learneng-the-word-maker.json) |
 | Learning a Foreign Language Is No Easy Task, for Sure | 179039 | [179039-learning-a-foreign-language-is-no-easy-task-for-sure.json](./179039-learning-a-foreign-language-is-no-easy-task-for-sure.json) |
 | Learning Factory | 137918 | [137918-learning-factory.json](./137918-learning-factory.json) |
