@@ -4810,6 +4810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iO | 6465 | [6465-io.json](./6465-io.json) |
 | iO Inner Self: The Lava Planet VR | 225614 | [225614-io-inner-self-the-lava-planet-vr.json](./225614-io-inner-self-the-lava-planet-vr.json) |
 | IO Interloper | 105729 | [105729-io-interloper.json](./105729-io-interloper.json) |
+| Io Vuole Zen | 266940 | [266940-io-vuole-zen.json](./266940-io-vuole-zen.json) |
 | IOI Collection | 154503 | [154503-ioi-collection.json](./154503-ioi-collection.json) |
 | Ion | 11136 | [11136-ion.json](./11136-ion.json) |
 | Ion Assault HD | 52244 | [52244-ion-assault-hd.json](./52244-ion-assault-hd.json) |
