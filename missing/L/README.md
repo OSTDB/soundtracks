@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Destiny | 208390 | [208390-legends-of-destiny.json](./208390-legends-of-destiny.json) |
 | Legends of Dragaea: Idle Dungeons | 295264 | [295264-legends-of-dragaea-idle-dungeons.json](./295264-legends-of-dragaea-idle-dungeons.json) |
 | Legends of Draxia | 174612 | [174612-legends-of-draxia.json](./174612-legends-of-draxia.json) |
+| Legends of Duels | 258063 | [258063-legends-of-duels.json](./258063-legends-of-duels.json) |
 | Legends of Eisenwald: Road to Iron Forest | 51842 | [51842-legends-of-eisenwald-road-to-iron-forest.json](./51842-legends-of-eisenwald-road-to-iron-forest.json) |
 | Legends of Elementia | 262957 | [262957-legends-of-elementia.json](./262957-legends-of-elementia.json) |
 | Legends of Elumia | 330891 | [330891-legends-of-elumia.json](./330891-legends-of-elumia.json) |
@@ -6098,6 +6099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonath Online | 34323 | [34323-lonath-online.json](./34323-lonath-online.json) |
 | London 2012: Official Mobile Game | 137015 | [137015-london-2012-official-mobile-game.json](./137015-london-2012-official-mobile-game.json) |
 | London 2012: The Official Video Game | 7055 | [7055-london-2012-the-official-video-game.json](./7055-london-2012-the-official-video-game.json) |
+| London Cab | 258060 | [258060-london-cab.json](./258060-london-cab.json) |
 | London Cab Challenge | 43470 | [43470-london-cab-challenge.json](./43470-london-cab-challenge.json) |
 | London Control | 78486 | [78486-london-control.json](./78486-london-control.json) |
 | London Craft: Crafting & Building Exploration Game | 102661 | [102661-london-craft-crafting-and-building-exploration-game.json](./102661-london-craft-crafting-and-building-exploration-game.json) |
