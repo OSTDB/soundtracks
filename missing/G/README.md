@@ -1959,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates to Terra II | 126646 | [126646-gates-to-terra-ii.json](./126646-gates-to-terra-ii.json) |
 | Gates vs. Jobs: The Game! | 325561 | [325561-gates-vs-jobs-the-game.json](./325561-gates-vs-jobs-the-game.json) |
 | Gatestriders | 365750 | [365750-gatestriders.json](./365750-gatestriders.json) |
+| GateTail | 249015 | [249015-gatetail.json](./249015-gatetail.json) |
 | Gatewalkers | 121384 | [121384-gatewalkers.json](./121384-gatewalkers.json) |
 | Gateway | 248204 | [248204-gateway.json](./248204-gateway.json) |
 | Gateway II: Homeworld | 51391 | [51391-gateway-ii-homeworld.json](./51391-gateway-ii-homeworld.json) |
@@ -4834,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Cosmo Cops! | 21211 | [21211-go-go-cosmo-cops.json](./21211-go-go-cosmo-cops.json) |
 | Go! Go! Digger | 227816 | [227816-go-go-digger.json](./227816-go-go-digger.json) |
 | Go! Go! Gooble!! | 135136 | [135136-go-go-gooble.json](./135136-go-go-gooble.json) |
+| Go! Go! Hamster Chef! | 249392 | [249392-go-go-hamster-chef.json](./249392-go-go-hamster-chef.json) |
 | Go! Go! Hitchhike | 92296 | [92296-go-go-hitchhike.json](./92296-go-go-hitchhike.json) |
 | Go! Go! Hypergrind | 3933 | [3933-go-go-hypergrind.json](./3933-go-go-hypergrind.json) |
 | Go! Go! Kokopolo 3D | 56295 | [56295-go-go-kokopolo-3d.json](./56295-go-go-kokopolo-3d.json) |
@@ -6185,8 +6187,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goonya Fighter: Yumi Terasaka | 192118 | [192118-goonya-fighter-yumi-terasaka.json](./192118-goonya-fighter-yumi-terasaka.json) |
 | Goonya Monster: Additional Character (Buster) - Clione | 248720 | [248720-goonya-monster-additional-character-buster-clione.json](./248720-goonya-monster-additional-character-buster-clione.json) |
 | Goonya Monster: Additional Character (Buster) - Gatchman V/All Guys | 256423 | [256423-goonya-monster-additional-character-buster-gatchman-v-all-guys.json](./256423-goonya-monster-additional-character-buster-gatchman-v-all-guys.json) |
+| Goonya Monster: Additional Character (Buster) - Jingiskan's Jinkun/Mascot Character | 249377 | [249377-goonya-monster-additional-character-buster-jingiskans-jinkun-mascot-character.json](./249377-goonya-monster-additional-character-buster-jingiskans-jinkun-mascot-character.json) |
 | Goonya Monster: Additional Character (Buster) - Mari Tomari/All Guys | 256424 | [256424-goonya-monster-additional-character-buster-mari-tomari-all-guys.json](./256424-goonya-monster-additional-character-buster-mari-tomari-all-guys.json) |
 | Goonya Monster: Additional Character (Buster) - Meika Utai/All Guys | 256422 | [256422-goonya-monster-additional-character-buster-meika-utai-all-guys.json](./256422-goonya-monster-additional-character-buster-meika-utai-all-guys.json) |
+| Goonya Monster: Additional Character (Buster) - Nagomi Shibakko/Mascot Character | 249379 | [249379-goonya-monster-additional-character-buster-nagomi-shibakko-mascot-character.json](./249379-goonya-monster-additional-character-buster-nagomi-shibakko-mascot-character.json) |
+| Goonya Monster: Additional Character (Buster) - Puimo/Mascot Character | 249378 | [249378-goonya-monster-additional-character-buster-puimo-mascot-character.json](./249378-goonya-monster-additional-character-buster-puimo-mascot-character.json) |
 | Goonya Monster: Additional Character (Buster) - Slug | 248721 | [248721-goonya-monster-additional-character-buster-slug.json](./248721-goonya-monster-additional-character-buster-slug.json) |
 | Goonya Monster: Additional Character (Buster) - Tsukasa Tenkai/All Guys | 256421 | [256421-goonya-monster-additional-character-buster-tsukasa-tenkai-all-guys.json](./256421-goonya-monster-additional-character-buster-tsukasa-tenkai-all-guys.json) |
 | Goonya Monster: Additional Character (Buster): Alice | 262526 | [262526-goonya-monster-additional-character-buster-alice.json](./262526-goonya-monster-additional-character-buster-alice.json) |
