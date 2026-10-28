@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet de GO! Let's Go By Airliner | 61334 | [61334-jet-de-go-lets-go-by-airliner.json](./61334-jet-de-go-lets-go-by-airliner.json) |
 | Jet de Go!: Let's Go By Airliner | 281593 | [281593-jet-de-go-lets-go-by-airliner.json](./281593-jet-de-go-lets-go-by-airliner.json) |
 | Jet Dog | 85208 | [85208-jet-dog.json](./85208-jet-dog.json) |
+| Jet Dragon | 256087 | [256087-jet-dragon.json](./256087-jet-dragon.json) |
 | Jet Ducks | 90505 | [90505-jet-ducks.json](./90505-jet-ducks.json) |
 | Jet Fighter | 13251 | [13251-jet-fighter.json](./13251-jet-fighter.json) |
 | Jet Fighters with Friends (Multiplayer) | 307029 | [307029-jet-fighters-with-friends-multiplayer.json](./307029-jet-fighters-with-friends-multiplayer.json) |
@@ -2032,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jobu-Ki | 113147 | [113147-jobu-ki.json](./113147-jobu-ki.json) |
 | Jock and the Time Rings | 294211 | [294211-jock-and-the-time-rings.json](./294211-jock-and-the-time-rings.json) |
 | Jock Dummy: Ice Hockey Edition | 251732 | [251732-jock-dummy-ice-hockey-edition.json](./251732-jock-dummy-ice-hockey-edition.json) |
+| Jock Studio | 256404 | [256404-jock-studio.json](./256404-jock-studio.json) |
 | Jockey Rush | 32099 | [32099-jockey-rush.json](./32099-jockey-rush.json) |
 | Jockey Zero | 143662 | [143662-jockey-zero.json](./143662-jockey-zero.json) |
 | Jockey's Road | 62228 | [62228-jockeys-road.json](./62228-jockeys-road.json) |
