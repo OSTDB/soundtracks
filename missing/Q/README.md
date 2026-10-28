@@ -952,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuietMansion1 | 151687 | [151687-quietmansion1.json](./151687-quietmansion1.json) |
 | QuietMansion1 | 152307 | [152307-quietmansion1.json](./152307-quietmansion1.json) |
 | QuietMansion2 | 221779 | [221779-quietmansion2.json](./221779-quietmansion2.json) |
+| Quietus | 242906 | [242906-quietus.json](./242906-quietus.json) |
 | Quietus Euphony | 374046 | [374046-quietus-euphony.json](./374046-quietus-euphony.json) |
 | Quiiiz | 304204 | [304204-quiiiz.json](./304204-quiiiz.json) |
 | Quill | 273779 | [273779-quill.json](./273779-quill.json) |
