@@ -7896,6 +7896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Light | 305966 | [305966-holy-light.json](./305966-holy-light.json) |
 | Holy Moonlight | 401454 | [401454-holy-moonlight.json](./401454-holy-moonlight.json) |
 | Holy Ocean | 239744 | [239744-holy-ocean.json](./239744-holy-ocean.json) |
+| Holy Paladin Cynthia | 235390 | [235390-holy-paladin-cynthia.json](./235390-holy-paladin-cynthia.json) |
 | Holy Potatoes! A Spy Story?! | 96384 | [96384-holy-potatoes-a-spy-story.json](./96384-holy-potatoes-a-spy-story.json) |
 | Holy Potatoes! A Weapon Shop?!: Spud Tales - Journey to Olympus | 124836 | [124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json](./124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json) |
 | Holy Potatoes! Compedium: Badge Edition | 139833 | [139833-holy-potatoes-compedium-badge-edition.json](./139833-holy-potatoes-compedium-badge-edition.json) |
@@ -10032,6 +10033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huge Football | 244816 | [244816-huge-football.json](./244816-huge-football.json) |
 | Huge Insect | 64901 | [64901-huge-insect.json](./64901-huge-insect.json) |
 | Huge Jaws | 219665 | [219665-huge-jaws.json](./219665-huge-jaws.json) |
+| HugeHead | 235419 | [235419-hugehead.json](./235419-hugehead.json) |
 | Huggernaut | 111903 | [111903-huggernaut.json](./111903-huggernaut.json) |
 | Huggly Saves the Turtles: Thinking Adventures | 70226 | [70226-huggly-saves-the-turtles-thinking-adventures.json](./70226-huggly-saves-the-turtles-thinking-adventures.json) |
 | Huggy & Friends | 372483 | [372483-huggy-and-friends.json](./372483-huggy-and-friends.json) |
