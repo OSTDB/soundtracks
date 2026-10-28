@@ -1913,7 +1913,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronic Hand-Held Connect Four | 233610 | [233610-electronic-hand-held-connect-four.json](./233610-electronic-hand-held-connect-four.json) |
 | Electronic Hand-Held Monopoly | 233988 | [233988-electronic-hand-held-monopoly.json](./233988-electronic-hand-held-monopoly.json) |
 | Electronic Market Simulator | 312456 | [312456-electronic-market-simulator.json](./312456-electronic-market-simulator.json) |
+| Electronic Power House Pinball | 245494 | [245494-electronic-power-house-pinball.json](./245494-electronic-power-house-pinball.json) |
+| Electronic Quarterback | 245493 | [245493-electronic-quarterback.json](./245493-electronic-quarterback.json) |
 | Electronic Shop Simulator | 344354 | [344354-electronic-shop-simulator.json](./344354-electronic-shop-simulator.json) |
+| Electronic Space Battle | 245492 | [245492-electronic-space-battle.json](./245492-electronic-space-battle.json) |
 | Electronic Stock Trading System | 107736 | [107736-electronic-stock-trading-system.json](./107736-electronic-stock-trading-system.json) |
 | Electronic Super Joy | 210289 | [210289-electronic-super-joy.json](./210289-electronic-super-joy.json) |
 | Electronic Super Joy | 3151 | [3151-electronic-super-joy.json](./3151-electronic-super-joy.json) |
@@ -1960,6 +1963,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elektrek | 57589 | [57589-elektrek.json](./57589-elektrek.json) |
 | Elektrik | 76153 | [76153-elektrik.json](./76153-elektrik.json) |
 | Elektro Storm | 14052 | [14052-elektro-storm.json](./14052-elektro-storm.json) |
+| Elektronika 24-01. Igra na ekrane: Mickey Mouse | 245491 | [245491-elektronika-24-01-igra-na-ekrane-mickey-mouse.json](./245491-elektronika-24-01-igra-na-ekrane-mickey-mouse.json) |
+| Elektronika IM-03: Tajny okeana | 245490 | [245490-elektronika-im-03-tajny-okeana.json](./245490-elektronika-im-03-tajny-okeana.json) |
+| Elektronika IM-10: Hockey | 245489 | [245489-elektronika-im-10-hockey.json](./245489-elektronika-im-10-hockey.json) |
+| Elektronika IM-16: Okhota | 245488 | [245488-elektronika-im-16-okhota.json](./245488-elektronika-im-16-okhota.json) |
+| Elektronika IM-19: Biathlon | 245487 | [245487-elektronika-im-19-biathlon.json](./245487-elektronika-im-19-biathlon.json) |
+| Elektronika IM-23: Avtoslalom | 245486 | [245486-elektronika-im-23-avtoslalom.json](./245486-elektronika-im-23-avtoslalom.json) |
 | Elektrosoul | 207197 | [207197-elektrosoul.json](./207197-elektrosoul.json) |
 | Elemage | 288643 | [288643-elemage.json](./288643-elemage.json) |
 | Elemancer | 258397 | [258397-elemancer.json](./258397-elemancer.json) |
@@ -2649,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency in Space | 310744 | [310744-emergency-in-space.json](./310744-emergency-in-space.json) |
 | Emergency Lüdenscheid | 346128 | [346128-emergency-ludenscheid.json](./346128-emergency-ludenscheid.json) |
 | Emergency Monster Team | 172441 | [172441-emergency-monster-team.json](./172441-emergency-monster-team.json) |
+| Emergency Parking Only | 246033 | [246033-emergency-parking-only.json](./246033-emergency-parking-only.json) |
 | Emergency Rescue: Firefighters | 69689 | [69689-emergency-rescue-firefighters.json](./69689-emergency-rescue-firefighters.json) |
 | Emergency Riot Response | 402562 | [402562-emergency-riot-response.json](./402562-emergency-riot-response.json) |
 | Emergency Robot Simulator | 102183 | [102183-emergency-robot-simulator.json](./102183-emergency-robot-simulator.json) |
@@ -3680,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter/Exit the Gungeon | 228735 | [228735-enter-exit-the-gungeon.json](./228735-enter-exit-the-gungeon.json) |
 | Enterchained | 184850 | [184850-enterchained.json](./184850-enterchained.json) |
 | Enterprise | 12993 | [12993-enterprise.json](./12993-enterprise.json) |
+| Enterprise | 245485 | [245485-enterprise.json](./245485-enterprise.json) |
 | Enterprise | 252181 | [252181-enterprise.json](./252181-enterprise.json) |
 | Enterprise: Space Agency Simulator | 290630 | [290630-enterprise-space-agency-simulator.json](./290630-enterprise-space-agency-simulator.json) |
 | Entertainment Hero | 26833 | [26833-entertainment-hero.json](./26833-entertainment-hero.json) |
@@ -4503,6 +4514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Nalaxion | 260158 | [260158-escape-from-nalaxion.json](./260158-escape-from-nalaxion.json) |
 | Escape from Naraka | 149961 | [149961-escape-from-naraka.json](./149961-escape-from-naraka.json) |
 | Escape from NOM | 65225 | [65225-escape-from-nom.json](./65225-escape-from-nom.json) |
+| Escape from Norwood | 246016 | [246016-escape-from-norwood.json](./246016-escape-from-norwood.json) |
 | Escape from Nowhere | 158499 | [158499-escape-from-nowhere.json](./158499-escape-from-nowhere.json) |
 | Escape from Omicron | 14056 | [14056-escape-from-omicron.json](./14056-escape-from-omicron.json) |
 | Escape from Peruácru Island | 388911 | [388911-escape-from-peruacru-island.json](./388911-escape-from-peruacru-island.json) |
@@ -5039,9 +5051,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN College Hoops 2K5 | 5824 | [5824-espn-college-hoops-2k5.json](./5824-espn-college-hoops-2k5.json) |
 | ESPN Downtown Dash | 402833 | [402833-espn-downtown-dash.json](./402833-espn-downtown-dash.json) |
 | ESPN Extreme Games | 20587 | [20587-espn-extreme-games.json](./20587-espn-extreme-games.json) |
+| ESPN Fast Break Basketball | 245484 | [245484-espn-fast-break-basketball.json](./245484-espn-fast-break-basketball.json) |
 | ESPN Final Round Golf 2002 | 6397 | [6397-espn-final-round-golf-2002.json](./6397-espn-final-round-golf-2002.json) |
 | ESPN Golf: Lower Your Score with Tom Kite - Mental Messages | 38849 | [38849-espn-golf-lower-your-score-with-tom-kite-mental-messages.json](./38849-espn-golf-lower-your-score-with-tom-kite-mental-messages.json) |
+| ESPN Grand Slam Baseball | 245483 | [245483-espn-grand-slam-baseball.json](./245483-espn-grand-slam-baseball.json) |
 | ESPN Great Outdoor Games: Bass 2002 | 49302 | [49302-espn-great-outdoor-games-bass-2002.json](./49302-espn-great-outdoor-games-bass-2002.json) |
+| ESPN Gridiron Football | 245482 | [245482-espn-gridiron-football.json](./245482-espn-gridiron-football.json) |
+| ESPN Hole-in-One Tournament Golf | 245481 | [245481-espn-hole-in-one-tournament-golf.json](./245481-espn-hole-in-one-tournament-golf.json) |
 | ESPN International Track & Field | 71419 | [71419-espn-international-track-and-field.json](./71419-espn-international-track-and-field.json) |
 | ESPN International Winter Sports 2002 | 242938 | [242938-espn-international-winter-sports-2002.json](./242938-espn-international-winter-sports-2002.json) |
 | ESPN International Winter Sports 2002 | 3905 | [3905-espn-international-winter-sports-2002.json](./3905-espn-international-winter-sports-2002.json) |
