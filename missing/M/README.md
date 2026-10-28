@@ -7152,6 +7152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami Tensei Gaiden: Last Bible II | 50051 | [50051-megami-tensei-gaiden-last-bible-ii.json](./50051-megami-tensei-gaiden-last-bible-ii.json) |
 | Megami Tensei Gaiden: Last Bible Special | 45263 | [45263-megami-tensei-gaiden-last-bible-special.json](./45263-megami-tensei-gaiden-last-bible-special.json) |
 | Megami Tensei Gaiden: Shinyaku Last Bible | 202957 | [202957-megami-tensei-gaiden-shinyaku-last-bible.json](./202957-megami-tensei-gaiden-shinyaku-last-bible.json) |
+| Megami Tensei Gaiden: Shinyaku Last Bible II - Hajimari no Fukuin | 266935 | [266935-megami-tensei-gaiden-shinyaku-last-bible-ii-hajimari-no-fukuin.json](./266935-megami-tensei-gaiden-shinyaku-last-bible-ii-hajimari-no-fukuin.json) |
 | Megami Tensei QIX: Persona 3 | 289392 | [289392-megami-tensei-qix-persona-3.json](./289392-megami-tensei-qix-persona-3.json) |
 | Megami Tensei: Neuroheroine | 278572 | [278572-megami-tensei-neuroheroine.json](./278572-megami-tensei-neuroheroine.json) |
 | MegaMind | 45742 | [45742-megamind.json](./45742-megamind.json) |
@@ -8835,6 +8836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Dark Alliance | 298938 | [298938-metroid-dark-alliance.json](./298938-metroid-dark-alliance.json) |
 | Metroid: Deep Freeze | 173106 | [173106-metroid-deep-freeze.json](./173106-metroid-deep-freeze.json) |
 | Metroid: Desolation | 255381 | [255381-metroid-desolation.json](./255381-metroid-desolation.json) |
+| Metroid: Eternal | 266932 | [266932-metroid-eternal.json](./266932-metroid-eternal.json) |
 | Metroid: Father Hunt | 323032 | [323032-metroid-father-hunt.json](./323032-metroid-father-hunt.json) |
 | Metroid: Federation Trooper | 323874 | [323874-metroid-federation-trooper.json](./323874-metroid-federation-trooper.json) |
 | Metroid: Galactic Marine | 341143 | [341143-metroid-galactic-marine.json](./341143-metroid-galactic-marine.json) |
@@ -16182,6 +16184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Pac-Man | 213877 | [213877-ms-pac-man.json](./213877-ms-pac-man.json) |
 | Ms. Pac-Man | 219011 | [219011-ms-pac-man.json](./219011-ms-pac-man.json) |
 | Ms. Pac-Man for iPad | 88813 | [88813-ms-pac-man-for-ipad.json](./88813-ms-pac-man-for-ipad.json) |
+| Ms. Pac-Man Plus | 266918 | [266918-ms-pac-man-plus.json](./266918-ms-pac-man-plus.json) |
 | Ms. Pac-Man Returns | 302989 | [302989-ms-pac-man-returns.json](./302989-ms-pac-man-returns.json) |
 | Ms. Pac-Man: Maze Madness | 239193 | [239193-ms-pac-man-maze-madness.json](./239193-ms-pac-man-maze-madness.json) |
 | Ms. Pac-Man: Maze Madness | 3338 | [3338-ms-pac-man-maze-madness.json](./3338-ms-pac-man-maze-madness.json) |
@@ -17774,6 +17777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Life Coach | 240942 | [240942-my-life-coach.json](./240942-my-life-coach.json) |
 | My Life in a Monster Girl Paradise | 403025 | [403025-my-life-in-a-monster-girl-paradise.json](./403025-my-life-in-a-monster-girl-paradise.json) |
 | My Life My Love: Boku no Yume Watashi no Negai | 48814 | [48814-my-life-my-love-boku-no-yume-watashi-no-negai.json](./48814-my-life-my-love-boku-no-yume-watashi-no-negai.json) |
+| My Life with a Lonely Beauty | 266923 | [266923-my-life-with-a-lonely-beauty.json](./266923-my-life-with-a-lonely-beauty.json) |
 | My Life with You | 348969 | [348969-my-life-with-you.json](./348969-my-life-with-you.json) |
 | My Life: Farm Vet | 282143 | [282143-my-life-farm-vet.json](./282143-my-life-farm-vet.json) |
 | My Life: Pet Vet | 220875 | [220875-my-life-pet-vet.json](./220875-my-life-pet-vet.json) |
@@ -17806,6 +17810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Haven | 381800 | [381800-my-little-haven.json](./381800-my-little-haven.json) |
 | My Little Helper: Spring Cleaning | 146117 | [146117-my-little-helper-spring-cleaning.json](./146117-my-little-helper-spring-cleaning.json) |
 | My Little Icecream Booth | 146747 | [146747-my-little-icecream-booth.json](./146747-my-little-icecream-booth.json) |
+| My Little Karaoke: Singing is Magic | 266924 | [266924-my-little-karaoke-singing-is-magic.json](./266924-my-little-karaoke-singing-is-magic.json) |
 | My Little Kitties | 20759 | [20759-my-little-kitties.json](./20759-my-little-kitties.json) |
 | My Little Kitty Cat | 99001 | [99001-my-little-kitty-cat.json](./99001-my-little-kitty-cat.json) |
 | My Little Kitty Day Care | 56342 | [56342-my-little-kitty-day-care.json](./56342-my-little-kitty-day-care.json) |
