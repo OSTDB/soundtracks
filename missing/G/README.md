@@ -5187,6 +5187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God's Legacy: Alchemist | 224049 | [224049-gods-legacy-alchemist.json](./224049-gods-legacy-alchemist.json) |
 | God's Miniature Garden | 263136 | [263136-gods-miniature-garden.json](./263136-gods-miniature-garden.json) |
 | God's One Day World | 90582 | [90582-gods-one-day-world.json](./90582-gods-one-day-world.json) |
+| God's Orbits | 254715 | [254715-gods-orbits.json](./254715-gods-orbits.json) |
 | God's Plan | 291867 | [291867-gods-plan.json](./291867-gods-plan.json) |
 | God's Playing Field | 210663 | [210663-gods-playing-field.json](./210663-gods-playing-field.json) |
 | God's Trigger | 55039 | [55039-gods-trigger.json](./55039-gods-trigger.json) |
@@ -9279,6 +9280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Strike Ops: WW2 | 196307 | [196307-gun-strike-ops-ww2.json](./196307-gun-strike-ops-ww2.json) |
 | Gun Swinger | 386922 | [386922-gun-swinger.json](./386922-gun-swinger.json) |
 | Gun to Colonists | 189173 | [189173-gun-to-colonists.json](./189173-gun-to-colonists.json) |
+| Gun to the Zone | 254281 | [254281-gun-to-the-zone.json](./254281-gun-to-the-zone.json) |
 | Gun Trails | 259277 | [259277-gun-trails.json](./259277-gun-trails.json) |
 | Gun Tycoon | 224051 | [224051-gun-tycoon.json](./224051-gun-tycoon.json) |
 | Gun Ugly | 190920 | [190920-gun-ugly.json](./190920-gun-ugly.json) |
