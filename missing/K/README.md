@@ -2992,6 +2992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Savannah | 348011 | [348011-kingdom-savannah.json](./348011-kingdom-savannah.json) |
 | Kingdom Shell | 122713 | [122713-kingdom-shell.json](./122713-kingdom-shell.json) |
 | Kingdom Simulator | 260601 | [260601-kingdom-simulator.json](./260601-kingdom-simulator.json) |
+| Kingdom Square | 259102 | [259102-kingdom-square.json](./259102-kingdom-square.json) |
 | Kingdom Story: Brave Legion | 108897 | [108897-kingdom-story-brave-legion.json](./108897-kingdom-story-brave-legion.json) |
 | Kingdom Tales 2 | 10487 | [10487-kingdom-tales-2.json](./10487-kingdom-tales-2.json) |
 | Kingdom Traveler | 189080 | [189080-kingdom-traveler.json](./189080-kingdom-traveler.json) |
@@ -4412,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kolobok: The Return | 169841 | [169841-kolobok-the-return.json](./169841-kolobok-the-return.json) |
 | Koloboke: Sickness Simulator | 373344 | [373344-koloboke-sickness-simulator.json](./373344-koloboke-sickness-simulator.json) |
 | Koloni | 244252 | [244252-koloni.json](./244252-koloni.json) |
+| Koloss | 258806 | [258806-koloss.json](./258806-koloss.json) |
 | Kolt Penny's Symmetris | 296387 | [296387-kolt-pennys-symmetris.json](./296387-kolt-pennys-symmetris.json) |
 | Koltera | 287138 | [287138-koltera.json](./287138-koltera.json) |
 | Koltera 2 | 392207 | [392207-koltera-2.json](./392207-koltera-2.json) |
