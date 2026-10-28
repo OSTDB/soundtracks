@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bad Game of Football | 203751 | [203751-a-bad-game-of-football.json](./203751-a-bad-game-of-football.json) |
 | A Balloon Game | 266127 | [266127-a-balloon-game.json](./266127-a-balloon-game.json) |
 | A Bar Where Men Go To Be Turned Into Horses | 289163 | [289163-a-bar-where-men-go-to-be-turned-into-horses.json](./289163-a-bar-where-men-go-to-be-turned-into-horses.json) |
+| A Bard's Last Song | 244429 | [244429-a-bards-last-song.json](./244429-a-bards-last-song.json) |
 | A Bark in the Dark | 225289 | [225289-a-bark-in-the-dark.json](./225289-a-bark-in-the-dark.json) |
 | A Bear Family Adventure | 205966 | [205966-a-bear-family-adventure.json](./205966-a-bear-family-adventure.json) |
 | A Bear's Night Out | 124606 | [124606-a-bears-night-out.json](./124606-a-bears-night-out.json) |
@@ -11992,6 +11993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arknights: Release | 253344 | [253344-arknights-release.json](./253344-arknights-release.json) |
 | Arko | 143972 | [143972-arko.json](./143972-arko.json) |
 | Arkona | 398632 | [398632-arkona.json](./398632-arkona.json) |
+| Arkos II | 244397 | [244397-arkos-ii.json](./244397-arkos-ii.json) |
 | Arkshot | 20982 | [20982-arkshot.json](./20982-arkshot.json) |
 | Arktika.1 | 24833 | [24833-arktika-1.json](./24833-arktika-1.json) |
 | Arktis SCP-RP | 383554 | [383554-arktis-scp-rp.json](./383554-arktis-scp-rp.json) |
@@ -14626,6 +14628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack from Planet Smiley | 157968 | [157968-attack-from-planet-smiley.json](./157968-attack-from-planet-smiley.json) |
 | Attack from Space | 281234 | [281234-attack-from-space.json](./281234-attack-from-space.json) |
 | Attack from the Dead | 94056 | [94056-attack-from-the-dead.json](./94056-attack-from-the-dead.json) |
+| Attack From the Void | 244062 | [244062-attack-from-the-void.json](./244062-attack-from-the-void.json) |
 | Attack Heroes | 28305 | [28305-attack-heroes.json](./28305-attack-heroes.json) |
 | Attack Hole | 324782 | [324782-attack-hole.json](./324782-attack-hole.json) |
 | Attack of Jeff the Killer: Scary Slender Life | 63154 | [63154-attack-of-jeff-the-killer-scary-slender-life.json](./63154-attack-of-jeff-the-killer-scary-slender-life.json) |
@@ -14962,6 +14965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auryn Quest | 94591 | [94591-auryn-quest.json](./94591-auryn-quest.json) |
 | Ausbruch | 271943 | [271943-ausbruch.json](./271943-ausbruch.json) |
 | Ausencia de Color | 395956 | [395956-ausencia-de-color.json](./395956-ausencia-de-color.json) |
+| Aussie Bogan Hero | 244401 | [244401-aussie-bogan-hero.json](./244401-aussie-bogan-hero.json) |
 | Aussie Clowns At War | 190194 | [190194-aussie-clowns-at-war.json](./190194-aussie-clowns-at-war.json) |
 | Aussie Joker Poker | 14276 | [14276-aussie-joker-poker.json](./14276-aussie-joker-poker.json) |
 | Aussie Rules Footy | 9107 | [9107-aussie-rules-footy.json](./9107-aussie-rules-footy.json) |
