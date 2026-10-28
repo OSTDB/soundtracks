@@ -2125,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Flan | 243942 | [243942-legacy-of-flan.json](./243942-legacy-of-flan.json) |
 | Legacy of Flan 2: Flans Online | 284180 | [284180-legacy-of-flan-2-flans-online.json](./284180-legacy-of-flan-2-flans-online.json) |
 | Legacy of Flan 3: Storm of Hades | 284182 | [284182-legacy-of-flan-3-storm-of-hades.json](./284182-legacy-of-flan-3-storm-of-hades.json) |
+| Legacy of Flan 4: Flan Rising | 230471 | [230471-legacy-of-flan-4-flan-rising.json](./230471-legacy-of-flan-4-flan-rising.json) |
 | Legacy of Heroes | 256876 | [256876-legacy-of-heroes.json](./256876-legacy-of-heroes.json) |
 | Legacy of Kain Collection | 331287 | [331287-legacy-of-kain-collection.json](./331287-legacy-of-kain-collection.json) |
 | Legacy of Kain Soul Reaver 1&2 Remastered - Deluxe Edition | 350802 | [350802-legacy-of-kain-soul-reaver-1-and-2-remastered-deluxe-edition.json](./350802-legacy-of-kain-soul-reaver-1-and-2-remastered-deluxe-edition.json) |
