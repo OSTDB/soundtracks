@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Basket HD | 232177 | [232177-cannon-basket-hd.json](./232177-cannon-basket-hd.json) |
 | Cannon Bird 3 | 325560 | [325560-cannon-bird-3.json](./325560-cannon-bird-3.json) |
 | Cannon Blaster 3 | 335470 | [335470-cannon-blaster-3.json](./335470-cannon-blaster-3.json) |
+| Cannon Block Ball | 260262 | [260262-cannon-block-ball.json](./260262-cannon-block-ball.json) |
 | Cannon Brawl | 13675 | [13675-cannon-brawl.json](./13675-cannon-brawl.json) |
 | Cannon Canines | 190216 | [190216-cannon-canines.json](./190216-cannon-canines.json) |
 | Cannon Dancer: Osman | 231222 | [231222-cannon-dancer-osman.json](./231222-cannon-dancer-osman.json) |
@@ -3951,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats of the Song Dynasty | 315299 | [315299-cats-of-the-song-dynasty.json](./315299-cats-of-the-song-dynasty.json) |
 | Cats of the Tang Dynasty | 302819 | [302819-cats-of-the-tang-dynasty.json](./302819-cats-of-the-tang-dynasty.json) |
 | Cats of the Yuan Dynasty | 364443 | [364443-cats-of-the-yuan-dynasty.json](./364443-cats-of-the-yuan-dynasty.json) |
+| Cats on Broombas | 260285 | [260285-cats-on-broombas.json](./260285-cats-on-broombas.json) |
 | Cats on Duty | 257903 | [257903-cats-on-duty.json](./257903-cats-on-duty.json) |
 | Cats on Mars | 178884 | [178884-cats-on-mars.json](./178884-cats-on-mars.json) |
 | Cats on Streets | 275033 | [275033-cats-on-streets.json](./275033-cats-on-streets.json) |
@@ -12889,6 +12891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Purge | 201224 | [201224-cosmic-purge.json](./201224-cosmic-purge.json) |
 | Cosmic Puzzler | 135505 | [135505-cosmic-puzzler.json](./135505-cosmic-puzzler.json) |
 | Cosmic Quandary | 234067 | [234067-cosmic-quandary.json](./234067-cosmic-quandary.json) |
+| Cosmic Race: Galactic Showdown | 260267 | [260267-cosmic-race-galactic-showdown.json](./260267-cosmic-race-galactic-showdown.json) |
 | Cosmic Raiders | 170533 | [170533-cosmic-raiders.json](./170533-cosmic-raiders.json) |
 | Cosmic Rain | 301694 | [301694-cosmic-rain.json](./301694-cosmic-rain.json) |
 | Cosmic Rays | 390253 | [390253-cosmic-rays.json](./390253-cosmic-rays.json) |
@@ -15905,6 +15908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryptoQuote | 96031 | [96031-cryptoquote.json](./96031-cryptoquote.json) |
 | Cryptoria | 406128 | [406128-cryptoria.json](./406128-cryptoria.json) |
 | Cryptorig | 203965 | [203965-cryptorig.json](./203965-cryptorig.json) |
+| Cryptower | 260282 | [260282-cryptower.json](./260282-cryptower.json) |
 | Cryptr | 201673 | [201673-cryptr.json](./201673-cryptr.json) |
 | Cryptract | 110859 | [110859-cryptract.json](./110859-cryptract.json) |
 | Cryptrio | 291501 | [291501-cryptrio.json](./291501-cryptrio.json) |
@@ -17786,6 +17790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclopvania | 206145 | [206145-cyclopvania.json](./206145-cyclopvania.json) |
 | Cyclothymic | 202244 | [202244-cyclothymic.json](./202244-cyclothymic.json) |
 | Cyco | 204958 | [204958-cyco.json](./204958-cyco.json) |
+| Cydoku | 260276 | [260276-cydoku.json](./260276-cydoku.json) |
 | Cydonia | 256838 | [256838-cydonia.json](./256838-cydonia.json) |
 | Cygni: All Guns Blazing | 133904 | [133904-cygni-all-guns-blazing.json](./133904-cygni-all-guns-blazing.json) |
 | Cygnus Enterprises | 228913 | [228913-cygnus-enterprises.json](./228913-cygnus-enterprises.json) |
