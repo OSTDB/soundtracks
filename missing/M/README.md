@@ -16783,6 +16783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Ball | 137865 | [137865-music-ball.json](./137865-music-ball.json) |
 | Music Band Manager | 82312 | [82312-music-band-manager.json](./82312-music-band-manager.json) |
 | Music Baseball | 305723 | [305723-music-baseball.json](./305723-music-baseball.json) |
+| Music Bounce | 279167 | [279167-music-bounce.json](./279167-music-bounce.json) |
 | Music Box | 309035 | [309035-music-box.json](./309035-music-box.json) |
 | Music Box: Electro Pop | 316232 | [316232-music-box-electro-pop.json](./316232-music-box-electro-pop.json) |
 | Music Box: Ethnic | 316268 | [316268-music-box-ethnic.json](./316268-music-box-ethnic.json) |
@@ -17938,6 +17939,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pet | 245431 | [245431-my-pet.json](./245431-my-pet.json) |
 | My Pet Fan | 351721 | [351721-my-pet-fan.json](./351721-my-pet-fan.json) |
 | My Pet Femboy | 355617 | [355617-my-pet-femboy.json](./355617-my-pet-femboy.json) |
+| My Pet Hooligan: Mall Santa Pack | 279155 | [279155-my-pet-hooligan-mall-santa-pack.json](./279155-my-pet-hooligan-mall-santa-pack.json) |
+| My Pet Hooligan: Ugly Christmas Sweater Pack | 279156 | [279156-my-pet-hooligan-ugly-christmas-sweater-pack.json](./279156-my-pet-hooligan-ugly-christmas-sweater-pack.json) |
 | My Pet Hotel | 17048 | [17048-my-pet-hotel.json](./17048-my-pet-hotel.json) |
 | My Pet Hotel 2 | 17049 | [17049-my-pet-hotel-2.json](./17049-my-pet-hotel-2.json) |
 | My Pet Protector | 387940 | [387940-my-pet-protector.json](./387940-my-pet-protector.json) |
