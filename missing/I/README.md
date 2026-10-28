@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Strawberries | 8380 | [8380-i-love-strawberries.json](./8380-i-love-strawberries.json) |
 | I Love Traffic | 230511 | [230511-i-love-traffic.json](./230511-i-love-traffic.json) |
 | I Love You Freddy | 277010 | [277010-i-love-you-freddy.json](./277010-i-love-you-freddy.json) |
+| I Love You like a Fat Lady Loves Apples | 239451 | [239451-i-love-you-like-a-fat-lady-loves-apples.json](./239451-i-love-you-like-a-fat-lady-loves-apples.json) |
 | I Love You, Colonel Sanders! A Finger Lickin' Good Dating Simulator | 122318 | [122318-i-love-you-colonel-sanders-a-finger-lickin-good-dating-simulator.json](./122318-i-love-you-colonel-sanders-a-finger-lickin-good-dating-simulator.json) |
 | I Ludicrus | 14987 | [14987-i-ludicrus.json](./14987-i-ludicrus.json) |
 | I Luv House Pets | 210081 | [210081-i-luv-house-pets.json](./210081-i-luv-house-pets.json) |
