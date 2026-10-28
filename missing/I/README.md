@@ -5994,6 +5994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Izon | 318277 | [318277-izon.json](./318277-izon.json) |
 | iZone | 95232 | [95232-izone.json](./95232-izone.json) |
 | Izrand Allure | 225556 | [225556-izrand-allure.json](./225556-izrand-allure.json) |
+| iZumas | 233199 | [233199-izumas.json](./233199-izumas.json) |
 | Izumi Jiken File Vol. 1 - Shiosai-hen | 292102 | [292102-izumi-jiken-file-vol-1-shiosai-hen.json](./292102-izumi-jiken-file-vol-1-shiosai-hen.json) |
 | Izumi Jiken File Vol. 2 - Tasogare-hen | 292109 | [292109-izumi-jiken-file-vol-2-tasogare-hen.json](./292109-izumi-jiken-file-vol-2-tasogare-hen.json) |
 | Izumi Jiken File Vol. 3 - Yujuku-hen | 292113 | [292113-izumi-jiken-file-vol-3-yujuku-hen.json](./292113-izumi-jiken-file-vol-3-yujuku-hen.json) |
