@@ -4810,6 +4810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Stunt Racing: Stage 1 | 97529 | [97529-nitro-stunt-racing-stage-1.json](./97529-nitro-stunt-racing-stage-1.json) |
 | Nitro Thrash | 408082 | [408082-nitro-thrash.json](./408082-nitro-thrash.json) |
 | Nitro: Stream Racing | 231860 | [231860-nitro-stream-racing.json](./231860-nitro-stream-racing.json) |
+| Nitroglycerin | 272104 | [272104-nitroglycerin.json](./272104-nitroglycerin.json) |
 | Nitrokill | 390817 | [390817-nitrokill.json](./390817-nitrokill.json) |
 | Nitrome Must Die | 141775 | [141775-nitrome-must-die.json](./141775-nitrome-must-die.json) |
 | Nitronauts | 333144 | [333144-nitronauts.json](./333144-nitronauts.json) |
