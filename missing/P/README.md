@@ -1871,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Home Invaders | 289287 | [289287-paranormal-home-invaders.json](./289287-paranormal-home-invaders.json) |
 | Paranormal Hunter | 216642 | [216642-paranormal-hunter.json](./216642-paranormal-hunter.json) |
 | Paranormal Meatball Simulator | 408008 | [408008-paranormal-meatball-simulator.json](./408008-paranormal-meatball-simulator.json) |
+| Paranormal Mission | 247120 | [247120-paranormal-mission.json](./247120-paranormal-mission.json) |
 | Paranormal Motel | 193401 | [193401-paranormal-motel.json](./193401-paranormal-motel.json) |
 | Paranormal Mutagens: Cargo | 329209 | [329209-paranormal-mutagens-cargo.json](./329209-paranormal-mutagens-cargo.json) |
 | Paranormal Night Shift | 328009 | [328009-paranormal-night-shift.json](./328009-paranormal-night-shift.json) |
