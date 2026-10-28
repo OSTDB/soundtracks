@@ -8860,6 +8860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Minesweeper | 392464 | [392464-anime-minesweeper.json](./392464-anime-minesweeper.json) |
 | Anime Mother Life Simulator | 376264 | [376264-anime-mother-life-simulator.json](./376264-anime-mother-life-simulator.json) |
 | Anime Music Quiz | 131061 | [131061-anime-music-quiz.json](./131061-anime-music-quiz.json) |
+| Anime Paradise: Ultimate Edition | 276326 | [276326-anime-paradise-ultimate-edition.json](./276326-anime-paradise-ultimate-edition.json) |
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
 | Anime Play Life: Unlimited | 153494 | [153494-anime-play-life-unlimited.json](./153494-anime-play-life-unlimited.json) |
 | Anime Poly Puzzle: Sci-Fi Maidens | 266164 | [266164-anime-poly-puzzle-sci-fi-maidens.json](./266164-anime-poly-puzzle-sci-fi-maidens.json) |
