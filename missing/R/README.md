@@ -7147,6 +7147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivers of Chaos | 296343 | [296343-rivers-of-chaos.json](./296343-rivers-of-chaos.json) |
 | Riverside | 84838 | [84838-riverside.json](./84838-riverside.json) |
 | Riverside Gals | 294099 | [294099-riverside-gals.json](./294099-riverside-gals.json) |
+| Riverside Town | 272102 | [272102-riverside-town.json](./272102-riverside-town.json) |
 | Riversiders | 253418 | [253418-riversiders.json](./253418-riversiders.json) |
 | Riverwood Village | 268909 | [268909-riverwood-village.json](./268909-riverwood-village.json) |
 | Rivet | 137987 | [137987-rivet.json](./137987-rivet.json) |
@@ -7371,6 +7372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadracer Bowler | 24850 | [24850-roadracer-bowler.json](./24850-roadracer-bowler.json) |
 | RoadRunner | 120156 | [120156-roadrunner.json](./120156-roadrunner.json) |
 | Roads & Riches | 410081 | [410081-roads-and-riches.json](./410081-roads-and-riches.json) |
+| Roads Construction Sim | 272406 | [272406-roads-construction-sim.json](./272406-roads-construction-sim.json) |
 | Roads Construction Sim | 312716 | [312716-roads-construction-sim.json](./312716-roads-construction-sim.json) |
 | Roads of Middle Ages 2: Collector's Edition | 416381 | [416381-roads-of-middle-ages-2-collectors-edition.json](./416381-roads-of-middle-ages-2-collectors-edition.json) |
 | Roads of Rome | 34266 | [34266-roads-of-rome.json](./34266-roads-of-rome.json) |
