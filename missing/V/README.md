@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V Rising: Sinister Evolution Pack | 297497 | [297497-v-rising-sinister-evolution-pack.json](./297497-v-rising-sinister-evolution-pack.json) |
 | V tylu vraga 2: Brat'ya po oruzhiyu | 383942 | [383942-v-tylu-vraga-2-bratya-po-oruzhiyu.json](./383942-v-tylu-vraga-2-bratya-po-oruzhiyu.json) |
 | V tylu vraga: Diversanty 3 | 383941 | [383941-v-tylu-vraga-diversanty-3.json](./383941-v-tylu-vraga-diversanty-3.json) |
+| V-Air Traffic Control | 251958 | [251958-v-air-traffic-control.json](./251958-v-air-traffic-control.json) |
 | V-Dash Dungeon | 406230 | [406230-v-dash-dungeon.json](./406230-v-dash-dungeon.json) |
 | V-Frogger | 46517 | [46517-v-frogger.json](./46517-v-frogger.json) |
 | V-Goal Soccer '96 | 37199 | [37199-v-goal-soccer-96.json](./37199-v-goal-soccer-96.json) |
@@ -891,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veck | 71208 | [71208-veck.json](./71208-veck.json) |
 | Vecmania | 46513 | [46513-vecmania.json](./46513-vecmania.json) |
 | VectaGuard | 364469 | [364469-vectaguard.json](./364469-vectaguard.json) |
+| Vectaria.io | 252183 | [252183-vectaria-io.json](./252183-vectaria-io.json) |
 | Vecter | 124183 | [124183-vecter.json](./124183-vecter.json) |
 | Vecter Assault | 251978 | [251978-vecter-assault.json](./251978-vecter-assault.json) |
 | Vectonic | 29522 | [29522-vectonic.json](./29522-vectonic.json) |
@@ -1868,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Fish | 318620 | [318620-viking-fish.json](./318620-viking-fish.json) |
 | Viking Frontiers | 286113 | [286113-viking-frontiers.json](./286113-viking-frontiers.json) |
 | Viking Ghost | 62002 | [62002-viking-ghost.json](./62002-viking-ghost.json) |
+| Viking Heroes 4 | 252319 | [252319-viking-heroes-4.json](./252319-viking-heroes-4.json) |
 | Viking Heroes 5 | 286232 | [286232-viking-heroes-5.json](./286232-viking-heroes-5.json) |
 | Viking Heroes V: Collector's Edition | 308487 | [308487-viking-heroes-v-collectors-edition.json](./308487-viking-heroes-v-collectors-edition.json) |
 | Viking Hiking | 257274 | [257274-viking-hiking.json](./257274-viking-hiking.json) |
