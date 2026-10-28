@@ -2,7 +2,7 @@
 
 [← Back to OSTDB](../README.md)
 
-2,670 official soundtracks. Pick a letter:
+2,671 official soundtracks. Pick a letter:
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -22,4 +22,4 @@
 
 ---
 
-_Last updated 2026-10-28T12:41:03.622Z_
+_Last updated 2026-10-28T13:20:43.021Z_
