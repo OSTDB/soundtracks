@@ -1319,7 +1319,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A xustiza pola man | 176271 | [176271-a-xustiza-pola-man.json](./176271-a-xustiza-pola-man.json) |
 | A Year at Pooh Corner | 45575 | [45575-a-year-at-pooh-corner.json](./45575-a-year-at-pooh-corner.json) |
 | A Year of Riddles | 232505 | [232505-a-year-of-riddles.json](./232505-a-year-of-riddles.json) |
-| A Year of Springs | 147418 | [147418-a-year-of-springs.json](./147418-a-year-of-springs.json) |
 | A Zombie Tail | 290919 | [290919-a-zombie-tail.json](./290919-a-zombie-tail.json) |
 | A Zone | 125102 | [125102-a-zone.json](./125102-a-zone.json) |
 | A-01's Voyage.Logs | 399288 | [399288-a-01s-voyage-logs.json](./399288-a-01s-voyage-logs.json) |
@@ -3753,7 +3752,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Wane | 387356 | [387356-after-the-wane.json](./387356-after-the-wane.json) |
 | After the War | 5713 | [5713-after-the-war.json](./5713-after-the-war.json) |
 | After University | 263980 | [263980-after-university.json](./263980-after-university.json) |
-| After Us | 228524 | [228524-after-us.json](./228524-after-us.json) |
 | After Wave: Downfall | 212284 | [212284-after-wave-downfall.json](./212284-after-wave-downfall.json) |
 | After Work | 360586 | [360586-after-work.json](./360586-after-work.json) |
 | After Work | 417423 | [417423-after-work.json](./417423-after-work.json) |
@@ -6052,7 +6050,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Xenocide | 356796 | [356796-alien-xenocide.json](./356796-alien-xenocide.json) |
 | Alien Zombie Death | 15189 | [15189-alien-zombie-death.json](./15189-alien-zombie-death.json) |
 | Alien: Blackout | 112657 | [112657-alien-blackout.json](./112657-alien-blackout.json) |
-| Alien: Isolation | 197779 | [197779-alien-isolation.json](./197779-alien-isolation.json) |
 | Alien: Isolation - Corporate Lockdown | 15459 | [15459-alien-isolation-corporate-lockdown.json](./15459-alien-isolation-corporate-lockdown.json) |
 | Alien: Isolation - Lost Contact | 15555 | [15555-alien-isolation-lost-contact.json](./15555-alien-isolation-lost-contact.json) |
 | Alien: Isolation - Safe Haven | 15552 | [15552-alien-isolation-safe-haven.json](./15552-alien-isolation-safe-haven.json) |
