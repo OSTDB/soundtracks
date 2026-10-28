@@ -5797,6 +5797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishmonger | 185539 | [185539-fishmonger.json](./185539-fishmonger.json) |
 | FishOmatic | 407332 | [407332-fishomatic.json](./407332-fishomatic.json) |
 | FishOnMC | 349950 | [349950-fishonmc.json](./349950-fishonmc.json) |
+| FishOrChicken | 260202 | [260202-fishorchicken.json](./260202-fishorchicken.json) |
 | Fishori | 215571 | [215571-fishori.json](./215571-fishori.json) |
 | Fishos | 180763 | [180763-fishos.json](./180763-fishos.json) |
 | Fisht Fight | 367937 | [367937-fisht-fight.json](./367937-fisht-fight.json) |
@@ -6958,6 +6959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floating Point Leviathan | 142152 | [142152-floating-point-leviathan.json](./142152-floating-point-leviathan.json) |
 | Floating Sandbox | 167707 | [167707-floating-sandbox.json](./167707-floating-sandbox.json) |
 | Floating with Spirits | 383368 | [383368-floating-with-spirits.json](./383368-floating-with-spirits.json) |
+| Floating Wonderland | 260261 | [260261-floating-wonderland.json](./260261-floating-wonderland.json) |
 | Floating World | 311166 | [311166-floating-world.json](./311166-floating-world.json) |
 | Floating World Before the World This Life | 128223 | [128223-floating-world-before-the-world-this-life.json](./128223-floating-world-before-the-world-this-life.json) |
 | FloatingPoint | 195997 | [195997-floatingpoint.json](./195997-floatingpoint.json) |
