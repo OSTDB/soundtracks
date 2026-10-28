@@ -2115,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevated Dread | 232820 | [232820-elevated-dread.json](./232820-elevated-dread.json) |
 | Elevating Experience: The Game | 102673 | [102673-elevating-experience-the-game.json](./102673-elevating-experience-the-game.json) |
 | Elevation | 384134 | [384134-elevation.json](./384134-elevation.json) |
+| Elevation II | 267757 | [267757-elevation-ii.json](./267757-elevation-ii.json) |
 | Elevatium: Puzzle of Atlantis | 185436 | [185436-elevatium-puzzle-of-atlantis.json](./185436-elevatium-puzzle-of-atlantis.json) |
 | Elevator | 246848 | [246848-elevator.json](./246848-elevator.json) |
 | Elevator | 381324 | [381324-elevator.json](./381324-elevator.json) |
