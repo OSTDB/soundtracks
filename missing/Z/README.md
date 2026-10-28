@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zolana: Girl Galactic | 404943 | [404943-zolana-girl-galactic.json](./404943-zolana-girl-galactic.json) |
 | Zolaris | 153454 | [153454-zolaris.json](./153454-zolaris.json) |
 | Zold:out | 188328 | [188328-zold-out.json](./188328-zold-out.json) |
+| Zolo | 272658 | [272658-zolo.json](./272658-zolo.json) |
 | ZOLO: Zombies Only Live Once | 112823 | [112823-zolo-zombies-only-live-once.json](./112823-zolo-zombies-only-live-once.json) |
 | Zoltan's Curse | 302158 | [302158-zoltans-curse.json](./302158-zoltans-curse.json) |
 | Zolyx | 52202 | [52202-zolyx.json](./52202-zolyx.json) |
