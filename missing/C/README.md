@@ -1986,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Cultivation | 369080 | [369080-card-cultivation.json](./369080-card-cultivation.json) |
 | Card Cultivation: Nine Palaces Illusory Realm | 297916 | [297916-card-cultivation-nine-palaces-illusory-realm.json](./297916-card-cultivation-nine-palaces-illusory-realm.json) |
 | Card de Renketsu! Densha de GO! | 146596 | [146596-card-de-renketsu-densha-de-go.json](./146596-card-de-renketsu-densha-de-go.json) |
+| Card Detective | 253535 | [253535-card-detective.json](./253535-card-detective.json) |
 | Card Draw | 334643 | [334643-card-draw.json](./334643-card-draw.json) |
 | Card Eater | 406051 | [406051-card-eater.json](./406051-card-eater.json) |
 | Card Escape: Plane Crash | 188113 | [188113-card-escape-plane-crash.json](./188113-card-escape-plane-crash.json) |
@@ -12034,6 +12035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Work | 126513 | [126513-contract-work.json](./126513-contract-work.json) |
 | Contractor | 235980 | [235980-contractor.json](./235980-contractor.json) |
 | Contractors | 123603 | [123603-contractors.json](./123603-contractors.json) |
+| Contractors Showdown | 253177 | [253177-contractors-showdown.json](./253177-contractors-showdown.json) |
 | Contractors Showdown: ExfilZone | 354338 | [354338-contractors-showdown-exfilzone.json](./354338-contractors-showdown-exfilzone.json) |
 | Contractors VR | 111625 | [111625-contractors-vr.json](./111625-contractors-vr.json) |
 | ContractVille | 285577 | [285577-contractville.json](./285577-contractville.json) |
@@ -17606,6 +17608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberGhitch | 390059 | [390059-cyberghitch.json](./390059-cyberghitch.json) |
 | CyberGladiators | 50149 | [50149-cybergladiators.json](./50149-cybergladiators.json) |
 | CyberGlide VR | 120319 | [120319-cyberglide-vr.json](./120319-cyberglide-vr.json) |
+| Cybergrid Runner | 253536 | [253536-cybergrid-runner.json](./253536-cybergrid-runner.json) |
 | CyberGrid: Tower defense | 155944 | [155944-cybergrid-tower-defense.json](./155944-cybergrid-tower-defense.json) |
 | CyberGroove | 262263 | [262263-cybergroove.json](./262263-cybergroove.json) |
 | CyberHeroes Arena | 218660 | [218660-cyberheroes-arena.json](./218660-cyberheroes-arena.json) |
