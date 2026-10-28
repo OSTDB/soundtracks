@@ -18734,6 +18734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiderdroid | 40621 | [40621-spiderdroid.json](./40621-spiderdroid.json) |
 | SpiderHeck | 137073 | [137073-spiderheck.json](./137073-spiderheck.json) |
 | Spiderling | 316746 | [316746-spiderling.json](./316746-spiderling.json) |
+| Spiderman 2 | 247302 | [247302-spiderman-2.json](./247302-spiderman-2.json) |
 | SpiderPunks | 163847 | [163847-spiderpunks.json](./163847-spiderpunks.json) |
 | Spiders | 125263 | [125263-spiders.json](./125263-spiders.json) |
 | Spiders | 346138 | [346138-spiders.json](./346138-spiders.json) |
@@ -23639,6 +23640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Alicia | 373591 | [373591-story-of-alicia.json](./373591-story-of-alicia.json) |
 | Story of Eve - A Hero's Study | 110743 | [110743-story-of-eve-a-heros-study.json](./110743-story-of-eve-a-heros-study.json) |
 | Story of Heterosexuality | 333547 | [333547-story-of-heterosexuality.json](./333547-story-of-heterosexuality.json) |
+| Story of Infinity: Xia | 247704 | [247704-story-of-infinity-xia.json](./247704-story-of-infinity-xia.json) |
 | Story of Love & Food | 392466 | [392466-story-of-love-and-food.json](./392466-story-of-love-and-food.json) |
 | Story of Mine Company | 265514 | [265514-story-of-mine-company.json](./265514-story-of-mine-company.json) |
 | Story of Nararale | 173026 | [173026-story-of-nararale.json](./173026-story-of-nararale.json) |
