@@ -1015,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamblers Table | 342853 | [342853-gamblers-table.json](./342853-gamblers-table.json) |
 | Gambling Apocalypse Kaiji | 61395 | [61395-gambling-apocalypse-kaiji.json](./61395-gambling-apocalypse-kaiji.json) |
 | Gambling Forever | 347789 | [347789-gambling-forever.json](./347789-gambling-forever.json) |
+| Gambling Paradise: The Escape Call VR | 237017 | [237017-gambling-paradise-the-escape-call-vr.json](./237017-gambling-paradise-the-escape-call-vr.json) |
 | Gambol | 328063 | [328063-gambol.json](./328063-gambol.json) |
 | Gambol 2 | 328061 | [328061-gambol-2.json](./328061-gambol-2.json) |
 | Gambonanza | 335721 | [335721-gambonanza.json](./335721-gambonanza.json) |
@@ -5782,6 +5783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Guys: Party Edition | 297300 | [297300-golf-guys-party-edition.json](./297300-golf-guys-party-edition.json) |
 | Golf Guys: Space | 277901 | [277901-golf-guys-space.json](./277901-golf-guys-space.json) |
 | Golf Hero | 244106 | [244106-golf-hero.json](./244106-golf-hero.json) |
+| Golf Impact | 236997 | [236997-golf-impact.json](./236997-golf-impact.json) |
 | Golf in Paper | 117115 | [117115-golf-in-paper.json](./117115-golf-in-paper.json) |
 | Golf In Wonderland | 320024 | [320024-golf-in-wonderland.json](./320024-golf-in-wonderland.json) |
 | Golf is Hard | 237963 | [237963-golf-is-hard.json](./237963-golf-is-hard.json) |
