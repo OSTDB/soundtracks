@@ -3886,6 +3886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty no Panda Sports Stadium | 269625 | [269625-hello-kitty-no-panda-sports-stadium.json](./269625-hello-kitty-no-panda-sports-stadium.json) |
 | Hello Kitty no Sutekina Otanjoubi | 279602 | [279602-hello-kitty-no-sutekina-otanjoubi.json](./279602-hello-kitty-no-sutekina-otanjoubi.json) |
 | Hello Kitty no Sweet Adventure: Daniel-kun ni Aitai | 228560 | [228560-hello-kitty-no-sweet-adventure-daniel-kun-ni-aitai.json](./228560-hello-kitty-no-sweet-adventure-daniel-kun-ni-aitai.json) |
+| Hello Kitty no Tanoshii Butoukai | 231018 | [231018-hello-kitty-no-tanoshii-butoukai.json](./231018-hello-kitty-no-tanoshii-butoukai.json) |
 | Hello Kitty no Tanoshii Okaimono | 230272 | [230272-hello-kitty-no-tanoshii-okaimono.json](./230272-hello-kitty-no-tanoshii-okaimono.json) |
 | Hello Kitty no Tanoshii Omiseyasan | 279604 | [279604-hello-kitty-no-tanoshii-omiseyasan.json](./279604-hello-kitty-no-tanoshii-omiseyasan.json) |
 | Hello Kitty no Waku-waku Quiz | 61677 | [61677-hello-kitty-no-waku-waku-quiz.json](./61677-hello-kitty-no-waku-waku-quiz.json) |
@@ -9653,6 +9654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House on [Redacted] Street | 352197 | [352197-house-on-redacted-street.json](./352197-house-on-redacted-street.json) |
 | House Painting: Simulator | 328513 | [328513-house-painting-simulator.json](./328513-house-painting-simulator.json) |
 | House Party: Detective Liz Katz in a Gritty Kitty Murder Mystery | 249114 | [249114-house-party-detective-liz-katz-in-a-gritty-kitty-murder-mystery.json](./249114-house-party-detective-liz-katz-in-a-gritty-kitty-murder-mystery.json) |
+| House Party: Halloween Holiday Pack | 230995 | [230995-house-party-halloween-holiday-pack.json](./230995-house-party-halloween-holiday-pack.json) |
 | House Party: New Content Pack | 263127 | [263127-house-party-new-content-pack.json](./263127-house-party-new-content-pack.json) |
 | House Party: Valentine's Day Holiday Pack | 287076 | [287076-house-party-valentines-day-holiday-pack.json](./287076-house-party-valentines-day-holiday-pack.json) |
 | House Party: Winter Holiday Pack | 281265 | [281265-house-party-winter-holiday-pack.json](./281265-house-party-winter-holiday-pack.json) |
