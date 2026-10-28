@@ -9497,6 +9497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cockroach Clicker | 371337 | [371337-cockroach-clicker.json](./371337-cockroach-clicker.json) |
 | cockroach Planet Survival | 115528 | [115528-cockroach-planet-survival.json](./115528-cockroach-planet-survival.json) |
 | Cockroach Simulator | 31329 | [31329-cockroach-simulator.json](./31329-cockroach-simulator.json) |
+| Cockroach Simulator: Household Survivor | 240022 | [240022-cockroach-simulator-household-survivor.json](./240022-cockroach-simulator-household-survivor.json) |
 | Cockroach VR | 31361 | [31361-cockroach-vr.json](./31361-cockroach-vr.json) |
 | Cocktail Harmony | 60599 | [60599-cocktail-harmony.json](./60599-cocktail-harmony.json) |
 | Cocktail Magic | 260411 | [260411-cocktail-magic.json](./260411-cocktail-magic.json) |
