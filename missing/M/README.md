@@ -14350,7 +14350,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonfell: The Tides of Aether | 349388 | [349388-moonfell-the-tides-of-aether.json](./349388-moonfell-the-tides-of-aether.json) |
 | Moonflower | 224580 | [224580-moonflower.json](./224580-moonflower.json) |
 | Moonfrost | 319876 | [319876-moonfrost.json](./319876-moonfrost.json) |
-| Moonglow Bay | 145073 | [145073-moonglow-bay.json](./145073-moonglow-bay.json) |
 | Moongrave | 370889 | [370889-moongrave.json](./370889-moongrave.json) |
 | MoonHack | 408042 | [408042-moonhack.json](./408042-moonhack.json) |
 | Moonhaven | 192613 | [192613-moonhaven.json](./192613-moonhaven.json) |
