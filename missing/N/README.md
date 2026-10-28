@@ -4691,6 +4691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendogs: Dachshund & Friends | 47710 | [47710-nintendogs-dachshund-and-friends.json](./47710-nintendogs-dachshund-and-friends.json) |
 | Nintendogs: Dalmatian & Friends | 23817 | [23817-nintendogs-dalmatian-and-friends.json](./23817-nintendogs-dalmatian-and-friends.json) |
 | Nintendogs: Labrador & Friends | 47944 | [47944-nintendogs-labrador-and-friends.json](./47944-nintendogs-labrador-and-friends.json) |
+| Nintendogs: Shiba & Friends | 278844 | [278844-nintendogs-shiba-and-friends.json](./278844-nintendogs-shiba-and-friends.json) |
 | NintenDoku | 410709 | [410709-nintendoku.json](./410709-nintendoku.json) |
 | Nintengogo 11 | 89849 | [89849-nintengogo-11.json](./89849-nintengogo-11.json) |
 | Nintengogo 13 Hex | 89850 | [89850-nintengogo-13-hex.json](./89850-nintengogo-13-hex.json) |
@@ -5716,6 +5717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norilsk | 95602 | [95602-norilsk.json](./95602-norilsk.json) |
 | Norimono Banzai!!: Densha Daishuugou!! | 63956 | [63956-norimono-banzai-densha-daishuugou.json](./63956-norimono-banzai-densha-daishuugou.json) |
 | Norimono Banzai!!: Kuruma Daishuugou!! | 63957 | [63957-norimono-banzai-kuruma-daishuugou.json](./63957-norimono-banzai-kuruma-daishuugou.json) |
+| Norinori Rilakkuma Hit Song Ongaku | 279145 | [279145-norinori-rilakkuma-hit-song-ongaku.json](./279145-norinori-rilakkuma-hit-song-ongaku.json) |
 | Norm Aethos Real | 325923 | [325923-norm-aethos-real.json](./325923-norm-aethos-real.json) |
 | Norm Koger's: The Operational Art of War III | 69928 | [69928-norm-kogers-the-operational-art-of-war-iii.json](./69928-norm-kogers-the-operational-art-of-war-iii.json) |
 | Norm of the North: Arctic Dash | 307971 | [307971-norm-of-the-north-arctic-dash.json](./307971-norm-of-the-north-arctic-dash.json) |
