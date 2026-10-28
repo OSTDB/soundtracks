@@ -1851,6 +1851,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratatan | 259339 | [259339-ratatan.json](./259339-ratatan.json) |
 | Ratatata | 367546 | [367546-ratatata.json](./367546-ratatata.json) |
 | Ratatouille | 210731 | [210731-ratatouille.json](./210731-ratatouille.json) |
+| Ratatouille | 230446 | [230446-ratatouille.json](./230446-ratatouille.json) |
+| Ratatouille | 230461 | [230461-ratatouille.json](./230461-ratatouille.json) |
 | Ratatouille | 281842 | [281842-ratatouille.json](./281842-ratatouille.json) |
 | Ratatouille | 281843 | [281843-ratatouille.json](./281843-ratatouille.json) |
 | Ratatouille | 4081 | [4081-ratatouille.json](./4081-ratatouille.json) |
@@ -2429,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reading Recipes: Grandma Ollie's Morphabet Soup | 209738 | [209738-reading-recipes-grandma-ollies-morphabet-soup.json](./209738-reading-recipes-grandma-ollies-morphabet-soup.json) |
 | Reading Roundup | 44361 | [44361-reading-roundup.json](./44361-reading-roundup.json) |
 | Reading Simulator | 81809 | [81809-reading-simulator.json](./81809-reading-simulator.json) |
+| Reading with Phonics: Mole's Huge Nose | 230447 | [230447-reading-with-phonics-moles-huge-nose.json](./230447-reading-with-phonics-moles-huge-nose.json) |
 | Reading World VR | 296082 | [296082-reading-world-vr.json](./296082-reading-world-vr.json) |
 | Ready 2 Rumble Boxing | 217944 | [217944-ready-2-rumble-boxing.json](./217944-ready-2-rumble-boxing.json) |
 | Ready 2 Rumble Boxing | 3586 | [3586-ready-2-rumble-boxing.json](./3586-ready-2-rumble-boxing.json) |
@@ -6095,6 +6098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Teddy Adventure | 261677 | [261677-rich-teddy-adventure.json](./261677-rich-teddy-adventure.json) |
 | Rich Uncle: A Gay Adventure | 385307 | [385307-rich-uncle-a-gay-adventure.json](./385307-rich-uncle-a-gay-adventure.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
+| Richard Burns Rally | 230466 | [230466-richard-burns-rally.json](./230466-richard-burns-rally.json) |
 | Richard Petty's Talladega | 47187 | [47187-richard-pettys-talladega.json](./47187-richard-pettys-talladega.json) |
 | Richard Scarry's Best Neighborhood Disc Ever | 127322 | [127322-richard-scarrys-best-neighborhood-disc-ever.json](./127322-richard-scarrys-best-neighborhood-disc-ever.json) |
 | Richard Scarry's Best Reading Program Ever | 384182 | [384182-richard-scarrys-best-reading-program-ever.json](./384182-richard-scarrys-best-reading-program-ever.json) |
@@ -8125,6 +8129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock the Goat | 239615 | [239615-rock-the-goat.json](./239615-rock-the-goat.json) |
 | Rock the Islands | 310218 | [310218-rock-the-islands.json](./310218-rock-the-islands.json) |
 | Rock the Rim | 379545 | [379545-rock-the-rim.json](./379545-rock-the-rim.json) |
+| Rock the World: A Reading Adventure | 230448 | [230448-rock-the-world-a-reading-adventure.json](./230448-rock-the-world-a-reading-adventure.json) |
 | Rock Tour Tycoon | 59289 | [59289-rock-tour-tycoon.json](./59289-rock-tour-tycoon.json) |
 | Rock Tris | 229064 | [229064-rock-tris.json](./229064-rock-tris.json) |
 | Rock UFO | 267331 | [267331-rock-ufo.json](./267331-rock-ufo.json) |
