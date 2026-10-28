@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.F.O | 54513 | [54513-i-f-o.json](./54513-i-f-o.json) |
 | I.G.I. Origins | 125281 | [125281-i-g-i-origins.json](./125281-i-g-i-origins.json) |
 | I.G.I.-2: Covert Strike | 8559 | [8559-i-g-i-2-covert-strike.json](./8559-i-g-i-2-covert-strike.json) |
+| I.Game Hong Kong Mahjong | 255227 | [255227-i-game-hong-kong-mahjong.json](./255227-i-game-hong-kong-mahjong.json) |
 | I.H.A.S | 224773 | [224773-i-h-a-s.json](./224773-i-h-a-s.json) |
 | I.H.N.I. | 269462 | [269462-i-h-n-i.json](./269462-i-h-n-i.json) |
 | I.M. Meen | 84281 | [84281-i-m-meen.json](./84281-i-m-meen.json) |
@@ -5401,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IslandPop Photo | 185553 | [185553-islandpop-photo.json](./185553-islandpop-photo.json) |
 | Islands | 176861 | [176861-islands.json](./176861-islands.json) |
 | Islands and Ships logic puzzle | 232048 | [232048-islands-and-ships-logic-puzzle.json](./232048-islands-and-ships-logic-puzzle.json) |
+| Islands Might Fly | 255211 | [255211-islands-might-fly.json](./255211-islands-might-fly.json) |
 | Islands of Diamonds | 65371 | [65371-islands-of-diamonds.json](./65371-islands-of-diamonds.json) |
 | Islands of Insight | 212652 | [212652-islands-of-insight.json](./212652-islands-of-insight.json) |
 | Islands of Nyne: Battle Royale | 51548 | [51548-islands-of-nyne-battle-royale.json](./51548-islands-of-nyne-battle-royale.json) |
