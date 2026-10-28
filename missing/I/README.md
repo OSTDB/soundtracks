@@ -1513,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idling to Rule the Gods | 32737 | [32737-idling-to-rule-the-gods.json](./32737-idling-to-rule-the-gods.json) |
 | Idly God | 209637 | [209637-idly-god.json](./209637-idly-god.json) |
 | Ido no Akai | 151851 | [151851-ido-no-akai.json](./151851-ido-no-akai.json) |
+| Idol | 259376 | [259376-idol.json](./259376-idol.json) |
 | Idol Connect -AsteriskLive- | 56164 | [56164-idol-connect-asterisklive.json](./56164-idol-connect-asterisklive.json) |
 | Idol Days | 151599 | [151599-idol-days.json](./151599-idol-days.json) |
 | Idol Days Sim Date | 198242 | [198242-idol-days-sim-date.json](./198242-idol-days-sim-date.json) |
@@ -3679,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkventure | 347326 | [347326-inkventure.json](./347326-inkventure.json) |
 | Inkwell | 376731 | [376731-inkwell.json](./376731-inkwell.json) |
 | Inkwellers | 333555 | [333555-inkwellers.json](./333555-inkwellers.json) |
+| Inky and the Alien Aquarium | 259673 | [259673-inky-and-the-alien-aquarium.json](./259673-inky-and-the-alien-aquarium.json) |
 | Inky Blinky Bob | 389665 | [389665-inky-blinky-bob.json](./389665-inky-blinky-bob.json) |
 | Inky Caps Clash | 175428 | [175428-inky-caps-clash.json](./175428-inky-caps-clash.json) |
 | Inkya Danshi de Asobou! | 314851 | [314851-inkya-danshi-de-asobou.json](./314851-inkya-danshi-de-asobou.json) |
