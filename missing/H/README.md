@@ -8092,6 +8092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeworld: Deserts of Kharak | 15444 | [15444-homeworld-deserts-of-kharak.json](./15444-homeworld-deserts-of-kharak.json) |
 | Homeworld: Deserts of Kharak - Deluxe Edition | 53203 | [53203-homeworld-deserts-of-kharak-deluxe-edition.json](./53203-homeworld-deserts-of-kharak-deluxe-edition.json) |
 | Homeworld: Deserts of Kharak - Soban Fleet Pack | 154445 | [154445-homeworld-deserts-of-kharak-soban-fleet-pack.json](./154445-homeworld-deserts-of-kharak-soban-fleet-pack.json) |
+| Homeworld: Raider Retreat | 256099 | [256099-homeworld-raider-retreat.json](./256099-homeworld-raider-retreat.json) |
 | Homeworld: Remastered Collection | 8773 | [8773-homeworld-remastered-collection.json](./8773-homeworld-remastered-collection.json) |
 | Homeworld: Remastered Collection - Deluxe Edition | 53204 | [53204-homeworld-remastered-collection-deluxe-edition.json](./53204-homeworld-remastered-collection-deluxe-edition.json) |
 | Homeworld: Vast Reaches | 301250 | [301250-homeworld-vast-reaches.json](./301250-homeworld-vast-reaches.json) |
