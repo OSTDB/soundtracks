@@ -4716,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chai | 236280 | [236280-chai.json](./236280-chai.json) |
 | Chai Glide | 414443 | [414443-chai-glide.json](./414443-chai-glide.json) |
 | Chain Break | 159355 | [159355-chain-break.json](./159355-chain-break.json) |
+| Chain Car Stunt Simulator: 3D Extreme Highway Car Driving Games | 233680 | [233680-chain-car-stunt-simulator-3d-extreme-highway-car-driving-games.json](./233680-chain-car-stunt-simulator-3d-extreme-highway-car-driving-games.json) |
 | Chain Champs | 177011 | [177011-chain-champs.json](./177011-chain-champs.json) |
 | Chain Chronicle | 20061 | [20061-chain-chronicle.json](./20061-chain-chronicle.json) |
 | Chain Corp | 351115 | [351115-chain-corp.json](./351115-chain-corp.json) |
@@ -7479,6 +7480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuxie | 308857 | [308857-chuxie.json](./308857-chuxie.json) |
 | Chuxie2 | 398418 | [398418-chuxie2.json](./398418-chuxie2.json) |
 | Chuzzle | 3758 | [3758-chuzzle.json](./3758-chuzzle.json) |
+| Chuzzle 2 | 233720 | [233720-chuzzle-2.json](./233720-chuzzle-2.json) |
 | Chuzzle Deluxe | 27748 | [27748-chuzzle-deluxe.json](./27748-chuzzle-deluxe.json) |
 | Chuzzle Snap | 266845 | [266845-chuzzle-snap.json](./266845-chuzzle-snap.json) |
 | Chuzzo | 316413 | [316413-chuzzo.json](./316413-chuzzo.json) |
