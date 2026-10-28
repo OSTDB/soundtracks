@@ -2275,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Campus | 384352 | [384352-virtual-campus.json](./384352-virtual-campus.json) |
 | Virtual Casino | 45517 | [45517-virtual-casino.json](./45517-virtual-casino.json) |
 | Virtual Cell | 63000 | [63000-virtual-cell.json](./63000-virtual-cell.json) |
+| Virtual Chemistry Lab | 239819 | [239819-virtual-chemistry-lab.json](./239819-virtual-chemistry-lab.json) |
 | Virtual Chess | 351645 | [351645-virtual-chess.json](./351645-virtual-chess.json) |
 | Virtual Chess | 93198 | [93198-virtual-chess.json](./93198-virtual-chess.json) |
 | Virtual Chess 3 | 206059 | [206059-virtual-chess-3.json](./206059-virtual-chess-3.json) |
