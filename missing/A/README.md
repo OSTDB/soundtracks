@@ -3133,6 +3133,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Racing 2 | 356278 | [356278-adventure-racing-2.json](./356278-adventure-racing-2.json) |
 | Adventure Realm | 357782 | [357782-adventure-realm.json](./357782-adventure-realm.json) |
 | Adventure Reborn | 240155 | [240155-adventure-reborn.json](./240155-adventure-reborn.json) |
+| Adventure Reporter Arctic | 254623 | [254623-adventure-reporter-arctic.json](./254623-adventure-reporter-arctic.json) |
+| Adventure Reporter Jungle | 254622 | [254622-adventure-reporter-jungle.json](./254622-adventure-reporter-jungle.json) |
+| Adventure Reporter Ocean | 254621 | [254621-adventure-reporter-ocean.json](./254621-adventure-reporter-ocean.json) |
 | Adventure Road | 55719 | [55719-adventure-road.json](./55719-adventure-road.json) |
 | Adventure Roll | 186101 | [186101-adventure-roll.json](./186101-adventure-roll.json) |
 | Adventure Rush | 192674 | [192674-adventure-rush.json](./192674-adventure-rush.json) |
@@ -4643,6 +4646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey | 94114 | [94114-air-hockey.json](./94114-air-hockey.json) |
 | Air Hockey Arcade: Casual Board Game | 242589 | [242589-air-hockey-arcade-casual-board-game.json](./242589-air-hockey-arcade-casual-board-game.json) |
 | Air Hockey Blue | 197773 | [197773-air-hockey-blue.json](./197773-air-hockey-blue.json) |
+| Air Hockey Championship | 254714 | [254714-air-hockey-championship.json](./254714-air-hockey-championship.json) |
 | Air Hockey Gamepack | 153699 | [153699-air-hockey-gamepack.json](./153699-air-hockey-gamepack.json) |
 | Air Hockey Halloween | 243737 | [243737-air-hockey-halloween.json](./243737-air-hockey-halloween.json) |
 | Air hockey hero | 95677 | [95677-air-hockey-hero.json](./95677-air-hockey-hero.json) |
@@ -10842,6 +10846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Solomon's Key | 99564 | [99564-arcade-archives-solomons-key.json](./99564-arcade-archives-solomons-key.json) |
 | Arcade Archives: Space Cruiser | 165601 | [165601-arcade-archives-space-cruiser.json](./165601-arcade-archives-space-cruiser.json) |
 | Arcade Archives: Space Invaders Part II | 385156 | [385156-arcade-archives-space-invaders-part-ii.json](./385156-arcade-archives-space-invaders-part-ii.json) |
+| Arcade Archives: Splatter House | 254628 | [254628-arcade-archives-splatter-house.json](./254628-arcade-archives-splatter-house.json) |
 | Arcade Archives: Star Force | 75707 | [75707-arcade-archives-star-force.json](./75707-arcade-archives-star-force.json) |
 | Arcade Archives: Street Smart | 399296 | [399296-arcade-archives-street-smart.json](./399296-arcade-archives-street-smart.json) |
 | Arcade Archives: Strike Gunner | 267771 | [267771-arcade-archives-strike-gunner.json](./267771-arcade-archives-strike-gunner.json) |
@@ -11312,6 +11317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archero | 195909 | [195909-archero.json](./195909-archero.json) |
 | Archero 2 | 319370 | [319370-archero-2.json](./319370-archero-2.json) |
 | Archers | 76381 | [76381-archers.json](./76381-archers.json) |
+| Archers Dream | 254633 | [254633-archers-dream.json](./254633-archers-dream.json) |
 | Archers Online | 316047 | [316047-archers-online.json](./316047-archers-online.json) |
 | Archers Shadow Strike | 332536 | [332536-archers-shadow-strike.json](./332536-archers-shadow-strike.json) |
 | Archers: Bowman's Battle | 63249 | [63249-archers-bowmans-battle.json](./63249-archers-bowmans-battle.json) |
