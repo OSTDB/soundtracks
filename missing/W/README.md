@@ -8260,6 +8260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WyrmBound | 290721 | [290721-wyrmbound.json](./290721-wyrmbound.json) |
 | Wyrmhall: Brush and Banter | 326221 | [326221-wyrmhall-brush-and-banter.json](./326221-wyrmhall-brush-and-banter.json) |
 | Wyrmhole: The Forbidden Knowledge | 253384 | [253384-wyrmhole-the-forbidden-knowledge.json](./253384-wyrmhole-the-forbidden-knowledge.json) |
+| Wyrmicide | 255183 | [255183-wyrmicide.json](./255183-wyrmicide.json) |
 | Wyrmicide: Tombstone Die | 256124 | [256124-wyrmicide-tombstone-die.json](./256124-wyrmicide-tombstone-die.json) |
 | Wyrmstooth | 313267 | [313267-wyrmstooth.json](./313267-wyrmstooth.json) |
 | Wyrmsun | 28362 | [28362-wyrmsun.json](./28362-wyrmsun.json) |
