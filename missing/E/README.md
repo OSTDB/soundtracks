@@ -1235,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eerie Desolation | 272772 | [272772-eerie-desolation.json](./272772-eerie-desolation.json) |
 | Eerie Dossier: The Haunted Apartment | 391339 | [391339-eerie-dossier-the-haunted-apartment.json](./391339-eerie-dossier-the-haunted-apartment.json) |
 | Eerie Excavation | 301847 | [301847-eerie-excavation.json](./301847-eerie-excavation.json) |
+| Eerie Mountain | 229288 | [229288-eerie-mountain.json](./229288-eerie-mountain.json) |
 | Eerie Night: Escape from the Funfair - Collector's Edition | 416775 | [416775-eerie-night-escape-from-the-funfair-collectors-edition.json](./416775-eerie-night-escape-from-the-funfair-collectors-edition.json) |
 | Eerie Worlds | 351704 | [351704-eerie-worlds.json](./351704-eerie-worlds.json) |
 | Eerskraft | 220058 | [220058-eerskraft.json](./220058-eerskraft.json) |
@@ -1553,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eight | 163756 | [163756-eight.json](./163756-eight.json) |
 | Eight Ball | 93592 | [93592-eight-ball.json](./93592-eight-ball.json) |
 | Eight Characters, a Number, and a Happy Ending | 57507 | [57507-eight-characters-a-number-and-a-happy-ending.json](./57507-eight-characters-a-number-and-a-happy-ending.json) |
+| Eight Corners: A Maguntsche Story | 229289 | [229289-eight-corners-a-maguntsche-story.json](./229289-eight-corners-a-maguntsche-story.json) |
 | Eight Dragons 2 | 307674 | [307674-eight-dragons-2.json](./307674-eight-dragons-2.json) |
 | Eight Forces | 39868 | [39868-eight-forces.json](./39868-eight-forces.json) |
 | Eight Mini Racers | 33694 | [33694-eight-mini-racers.json](./33694-eight-mini-racers.json) |
@@ -2949,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty Epsilon | 125379 | [125379-empty-epsilon.json](./125379-empty-epsilon.json) |
 | Empty Gauge | 391131 | [391131-empty-gauge.json](./391131-empty-gauge.json) |
 | Empty Handed | 54858 | [54858-empty-handed.json](./54858-empty-handed.json) |
+| Empty Head | 229291 | [229291-empty-head.json](./229291-empty-head.json) |
 | Empty Heaven: Liminal Dream | 400318 | [400318-empty-heaven-liminal-dream.json](./400318-empty-heaven-liminal-dream.json) |
 | Empty Horizons | 32247 | [32247-empty-horizons.json](./32247-empty-horizons.json) |
 | Empty Human Beans | 340898 | [340898-empty-human-beans.json](./340898-empty-human-beans.json) |
@@ -6895,6 +6898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Experiment 427 | 305308 | [305308-experiment-427.json](./305308-experiment-427.json) |
 | Experiment of Being | 189045 | [189045-experiment-of-being.json](./189045-experiment-of-being.json) |
 | Experiment Z: Zombie Survival | 338776 | [338776-experiment-z-zombie-survival.json](./338776-experiment-z-zombie-survival.json) |
+| Experiment: Groceries | 229299 | [229299-experiment-groceries.json](./229299-experiment-groceries.json) |
 | Experiment: One | 243053 | [243053-experiment-one.json](./243053-experiment-one.json) |
 | Experimental | 163972 | [163972-experimental.json](./163972-experimental.json) |
 | Experimental Game Pack 01 | 62139 | [62139-experimental-game-pack-01.json](./62139-experimental-game-pack-01.json) |
