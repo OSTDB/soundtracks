@@ -3820,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Duck | 408154 | [408154-hello-duck.json](./408154-hello-duck.json) |
 | Hello Emoji: Drawing to Solve Puzzles | 229798 | [229798-hello-emoji-drawing-to-solve-puzzles.json](./229798-hello-emoji-drawing-to-solve-puzzles.json) |
 | Hello Engineer | 153521 | [153521-hello-engineer.json](./153521-hello-engineer.json) |
+| Hello Exo | 240623 | [240623-hello-exo.json](./240623-hello-exo.json) |
 | Hello Fangaming Collection | 320231 | [320231-hello-fangaming-collection.json](./320231-hello-fangaming-collection.json) |
 | Hello Fangaming Time Capsule | 320206 | [320206-hello-fangaming-time-capsule.json](./320206-hello-fangaming-time-capsule.json) |
 | Hello Flowerz | 66519 | [66519-hello-flowerz.json](./66519-hello-flowerz.json) |
@@ -4303,6 +4304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Fantasy Chicks | 253935 | [253935-hentai-fantasy-chicks.json](./253935-hentai-fantasy-chicks.json) |
 | Hentai Fantasy World | 365426 | [365426-hentai-fantasy-world.json](./365426-hentai-fantasy-world.json) |
 | Hentai Femdom Sim: Femdom University | 159772 | [159772-hentai-femdom-sim-femdom-university.json](./159772-hentai-femdom-sim-femdom-university.json) |
+| Hentai Festival | 240616 | [240616-hentai-festival.json](./240616-hentai-festival.json) |
 | Hentai Fetishes: Yuri | 379548 | [379548-hentai-fetishes-yuri.json](./379548-hentai-fetishes-yuri.json) |
 | Hentai Fight Club | 163011 | [163011-hentai-fight-club.json](./163011-hentai-fight-club.json) |
 | Hentai Foot Fetish | 404940 | [404940-hentai-foot-fetish.json](./404940-hentai-foot-fetish.json) |
@@ -6464,6 +6466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hideout: Face your fears | 159278 | [159278-hideout-face-your-fears.json](./159278-hideout-face-your-fears.json) |
 | Hiderman | 411983 | [411983-hiderman.json](./411983-hiderman.json) |
 | Hidey Ducks: Seasons | 315352 | [315352-hidey-ducks-seasons.json](./315352-hidey-ducks-seasons.json) |
+| Hidey Spot | 240972 | [240972-hidey-spot.json](./240972-hidey-spot.json) |
 | Hiding | 364849 | [364849-hiding.json](./364849-hiding.json) |
 | Hiding Out | 84518 | [84518-hiding-out.json](./84518-hiding-out.json) |
 | Hidiom | 158933 | [158933-hidiom.json](./158933-hidiom.json) |
