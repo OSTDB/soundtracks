@@ -14850,6 +14850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Life: Gang Wars | 5791 | [5791-crime-life-gang-wars.json](./5791-crime-life-gang-wars.json) |
 | Crime Map: Spot the Hidden Differences | 234625 | [234625-crime-map-spot-the-hidden-differences.json](./234625-crime-map-spot-the-hidden-differences.json) |
 | Crime Moto Racer | 218695 | [218695-crime-moto-racer.json](./218695-crime-moto-racer.json) |
+| Crime Mysteries | 247572 | [247572-crime-mysteries.json](./247572-crime-mysteries.json) |
 | Crime O'Clock | 214945 | [214945-crime-oclock.json](./214945-crime-oclock.json) |
 | Crime Opera Collection | 332503 | [332503-crime-opera-collection.json](./332503-crime-opera-collection.json) |
 | Crime Opera Fandisk: The Caterpillar Candids | 330602 | [330602-crime-opera-fandisk-the-caterpillar-candids.json](./330602-crime-opera-fandisk-the-caterpillar-candids.json) |
@@ -16040,6 +16041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Clear | 129587 | [129587-crystal-clear.json](./129587-crystal-clear.json) |
 | Crystal Clear, Mail's Here | 390156 | [390156-crystal-clear-mails-here.json](./390156-crystal-clear-mails-here.json) |
 | Crystal Cliffs | 305814 | [305814-crystal-cliffs.json](./305814-crystal-cliffs.json) |
+| Crystal Colors | 247570 | [247570-crystal-colors.json](./247570-crystal-colors.json) |
 | Crystal Comet | 272774 | [272774-crystal-comet.json](./272774-crystal-comet.json) |
 | Crystal Command | 118120 | [118120-crystal-command.json](./118120-crystal-command.json) |
 | Crystal Compulsion | 208834 | [208834-crystal-compulsion.json](./208834-crystal-compulsion.json) |
