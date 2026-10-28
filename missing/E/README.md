@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle n Chicken | 367837 | [367837-eagle-n-chicken.json](./367837-eagle-n-chicken.json) |
 | Eagle One: Harrier Attack | 44948 | [44948-eagle-one-harrier-attack.json](./44948-eagle-one-harrier-attack.json) |
 | Eagle Plan | 70867 | [70867-eagle-plan.json](./70867-eagle-plan.json) |
+| Eagle Ride | 238290 | [238290-eagle-ride.json](./238290-eagle-ride.json) |
 | Eagle Rising | 356154 | [356154-eagle-rising.json](./356154-eagle-rising.json) |
 | Eagle Simulator | 186817 | [186817-eagle-simulator.json](./186817-eagle-simulator.json) |
 | Eagle Simulator | 219468 | [219468-eagle-simulator.json](./219468-eagle-simulator.json) |
@@ -3324,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Space VIP | 339750 | [339750-endless-space-vip.json](./339750-endless-space-vip.json) |
 | Endless Space: Definitive Edition | 231650 | [231650-endless-space-definitive-edition.json](./231650-endless-space-definitive-edition.json) |
 | Endless Space: Emperor Edition | 28083 | [28083-endless-space-emperor-edition.json](./28083-endless-space-emperor-edition.json) |
+| Endless Spaceship | 238687 | [238687-endless-spaceship.json](./238687-endless-spaceship.json) |
 | Endless Stars | 231750 | [231750-endless-stars.json](./231750-endless-stars.json) |
 | Endless Suburbia | 255700 | [255700-endless-suburbia.json](./255700-endless-suburbia.json) |
 | Endless Summer: Book 1 | 313747 | [313747-endless-summer-book-1.json](./313747-endless-summer-book-1.json) |
