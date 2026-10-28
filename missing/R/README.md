@@ -5116,6 +5116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retract: Battle Royale | 175675 | [175675-retract-battle-royale.json](./175675-retract-battle-royale.json) |
 | Retribution | 324966 | [324966-retribution.json](./324966-retribution.json) |
 | Retribution | 94404 | [94404-retribution.json](./94404-retribution.json) |
+| Retribution Revisited | 271572 | [271572-retribution-revisited.json](./271572-retribution-revisited.json) |
 | Retribution: 25th Anniversary Edition | 324749 | [324749-retribution-25th-anniversary-edition.json](./324749-retribution-25th-anniversary-edition.json) |
 | Retribution: Universal Requiem | 164875 | [164875-retribution-universal-requiem.json](./164875-retribution-universal-requiem.json) |
 | Retrievable | 187106 | [187106-retrievable.json](./187106-retrievable.json) |
