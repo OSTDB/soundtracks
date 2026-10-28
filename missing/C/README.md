@@ -4773,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chains of Lukomorye | 350546 | [350546-chains-of-lukomorye.json](./350546-chains-of-lukomorye.json) |
 | Chains Of Reality | 334196 | [334196-chains-of-reality.json](./334196-chains-of-reality.json) |
 | Chains of the Goddess | 258082 | [258082-chains-of-the-goddess.json](./258082-chains-of-the-goddess.json) |
+| Chains of Time | 238681 | [238681-chains-of-time.json](./238681-chains-of-time.json) |
 | Chains on Sand | 372001 | [372001-chains-on-sand.json](./372001-chains-on-sand.json) |
 | Chainsaw Dance | 159059 | [159059-chainsaw-dance.json](./159059-chainsaw-dance.json) |
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
@@ -6160,6 +6161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickens. Chickens? Chickens! | 417412 | [417412-chickens-chickens-chickens.json](./417412-chickens-chickens-chickens.json) |
 | ChickenZ | 192716 | [192716-chickenz.json](./192716-chickenz.json) |
 | Chickhack | 41169 | [41169-chickhack.json](./41169-chickhack.json) |
+| Chickie Catchers | 238667 | [238667-chickie-catchers.json](./238667-chickie-catchers.json) |
 | Chickip Dancers: Nori-nori Dance de Kokoro mo Odoru | 222365 | [222365-chickip-dancers-nori-nori-dance-de-kokoro-mo-odoru.json](./222365-chickip-dancers-nori-nori-dance-de-kokoro-mo-odoru.json) |
 | Chicklet | 365167 | [365167-chicklet.json](./365167-chicklet.json) |
 | Chicktionary | 375202 | [375202-chicktionary.json](./375202-chicktionary.json) |
@@ -14439,6 +14441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Manager | 378353 | [378353-crazy-manager.json](./378353-crazy-manager.json) |
 | Crazy Market | 62750 | [62750-crazy-market.json](./62750-crazy-market.json) |
 | Crazy Max VR | 30078 | [30078-crazy-max-vr.json](./30078-crazy-max-vr.json) |
+| Crazy Maze | 238664 | [238664-crazy-maze.json](./238664-crazy-maze.json) |
 | Crazy Maze | 93750 | [93750-crazy-maze.json](./93750-crazy-maze.json) |
 | Crazy Mazey | 59902 | [59902-crazy-mazey.json](./59902-crazy-mazey.json) |
 | Crazy Miner | 299841 | [299841-crazy-miner.json](./299841-crazy-miner.json) |
@@ -15659,6 +15662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CRT7 | 210849 | [210849-crt7.json](./210849-crt7.json) |
 | CRTX: A Psychological Horror Puzzle | 358050 | [358050-crtx-a-psychological-horror-puzzle.json](./358050-crtx-a-psychological-horror-puzzle.json) |
 | Crucial 2: The Refresh Update | 290398 | [290398-crucial-2-the-refresh-update.json](./290398-crucial-2-the-refresh-update.json) |
+| Crucible | 238683 | [238683-crucible.json](./238683-crucible.json) |
 | Crucible | 24653 | [24653-crucible.json](./24653-crucible.json) |
 | Crucible Falls: Together Forever | 96959 | [96959-crucible-falls-together-forever.json](./96959-crucible-falls-together-forever.json) |
 | Crucible of the Forgotten | 340585 | [340585-crucible-of-the-forgotten.json](./340585-crucible-of-the-forgotten.json) |
@@ -16470,6 +16474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeCrafter | 248596 | [248596-cubecrafter.json](./248596-cubecrafter.json) |
 | CubeCubeRubik | 284982 | [284982-cubecuberubik.json](./284982-cubecuberubik.json) |
 | Cubed | 120996 | [120996-cubed.json](./120996-cubed.json) |
+| Cubed Rally Redline | 238291 | [238291-cubed-rally-redline.json](./238291-cubed-rally-redline.json) |
 | CubeDood in the Memory Snatcher | 239336 | [239336-cubedood-in-the-memory-snatcher.json](./239336-cubedood-in-the-memory-snatcher.json) |
 | CubeDrift | 57568 | [57568-cubedrift.json](./57568-cubedrift.json) |
 | CubeeRun Memories | 284983 | [284983-cubeerun-memories.json](./284983-cubeerun-memories.json) |
