@@ -6261,6 +6261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Time No See | 143477 | [143477-long-time-no-see.json](./143477-long-time-no-see.json) |
 | Long Truck Simulator | 243544 | [243544-long-truck-simulator.json](./243544-long-truck-simulator.json) |
 | Long War of the Chosen | 315590 | [315590-long-war-of-the-chosen.json](./315590-long-war-of-the-chosen.json) |
+| Long Way | 261640 | [261640-long-way.json](./261640-long-way.json) |
 | Long Yard Run | 311052 | [311052-long-yard-run.json](./311052-long-yard-run.json) |
 | Long Z-Night | 118446 | [118446-long-z-night.json](./118446-long-z-night.json) |
 | Lóng zhī Gǔ: Huáijiù Fú | 398574 | [398574-long-zhi-gu-huaijiu-fu.json](./398574-long-zhi-gu-huaijiu-fu.json) |
