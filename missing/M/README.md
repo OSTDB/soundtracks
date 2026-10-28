@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M Doll | 233631 | [233631-m-doll.json](./233631-m-doll.json) |
 | M Hard | 257654 | [257654-m-hard.json](./257654-m-hard.json) |
 | M Hold'em | 247198 | [247198-m-holdem.json](./247198-m-holdem.json) |
+| M_Day | 277686 | [277686-m-day.json](./277686-m-day.json) |
 | M_rdle | 372094 | [372094-m-rdle.json](./372094-m-rdle.json) |
 | M-1 Abrams Battle Tank | 45775 | [45775-m-1-abrams-battle-tank.json](./45775-m-1-abrams-battle-tank.json) |
 | M-1 Abrams Battletank | 45600 | [45600-m-1-abrams-battletank.json](./45600-m-1-abrams-battletank.json) |
@@ -402,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Wild Fairy Tale | 152696 | [152696-mad-wild-fairy-tale.json](./152696-mad-wild-fairy-tale.json) |
 | Mad World Survivors | 295295 | [295295-mad-world-survivors.json](./295295-mad-world-survivors.json) |
 | Mad World: Age of Darkness | 197594 | [197594-mad-world-age-of-darkness.json](./197594-mad-world-age-of-darkness.json) |
+| Mad Xmas | 277696 | [277696-mad-xmas.json](./277696-mad-xmas.json) |
 | Mad Yu: Rural Idle | 412391 | [412391-mad-yu-rural-idle.json](./412391-mad-yu-rural-idle.json) |
 | Mad Zombie | 86562 | [86562-mad-zombie.json](./86562-mad-zombie.json) |
 | Mad-Sector | 43083 | [43083-mad-sector.json](./43083-mad-sector.json) |
@@ -1324,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Jewelry | 48670 | [48670-magical-jewelry.json](./48670-magical-jewelry.json) |
 | Magical Journey | 196482 | [196482-magical-journey.json](./196482-magical-journey.json) |
 | Magical Kids Doropie | 48333 | [48333-magical-kids-doropie.json](./48333-magical-kids-doropie.json) |
+| Magical Kitchen | 277698 | [277698-magical-kitchen.json](./277698-magical-kitchen.json) |
 | Magical Literary Heroine Natsuki Saves The Literature Club! | 334273 | [334273-magical-literary-heroine-natsuki-saves-the-literature-club.json](./334273-magical-literary-heroine-natsuki-saves-the-literature-club.json) |
 | Magical Magic World | 250261 | [250261-magical-magic-world.json](./250261-magical-magic-world.json) |
 | Magical Makeover | 139311 | [139311-magical-makeover.json](./139311-magical-makeover.json) |
@@ -12490,6 +12493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Debut3 #Nicola | 320463 | [320463-model-debut3-nicola.json](./320463-model-debut3-nicola.json) |
 | Model Eight | 245750 | [245750-model-eight.json](./245750-model-eight.json) |
 | Model Employee | 274732 | [274732-model-employee.json](./274732-model-employee.json) |
+| Model Human | 277999 | [277999-model-human.json](./277999-model-human.json) |
 | Model Kit Shop Simulator | 397829 | [397829-model-kit-shop-simulator.json](./397829-model-kit-shop-simulator.json) |
 | Model Kit Simulator VR | 128232 | [128232-model-kit-simulator-vr.json](./128232-model-kit-simulator-vr.json) |
 | Model Melissa | 286521 | [286521-model-melissa.json](./286521-model-melissa.json) |
@@ -16459,6 +16463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mundo SBT | 249459 | [249459-mundo-sbt.json](./249459-mundo-sbt.json) |
 | Mundus: Impossible Universe | 95572 | [95572-mundus-impossible-universe.json](./95572-mundus-impossible-universe.json) |
 | Mundus: Impossible Universe 2 | 118020 | [118020-mundus-impossible-universe-2.json](./118020-mundus-impossible-universe-2.json) |
+| MundusHex | 277986 | [277986-mundushex.json](./277986-mundushex.json) |
 | Mung Daal Odyssey | 326589 | [326589-mung-daal-odyssey.json](./326589-mung-daal-odyssey.json) |
 | Munich Bus Simulator | 36440 | [36440-munich-bus-simulator.json](./36440-munich-bus-simulator.json) |
 | Munkiki's Castles | 111740 | [111740-munkikis-castles.json](./111740-munkikis-castles.json) |
