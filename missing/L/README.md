@@ -7356,6 +7356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love | 342304 | [342304-love.json](./342304-love.json) |
 | Love & Country | 262780 | [262780-love-and-country.json](./262780-love-and-country.json) |
 | Love & Death Bitten | 56254 | [56254-love-and-death-bitten.json](./56254-love-and-death-bitten.json) |
+| Love & Dehumanization | 254094 | [254094-love-and-dehumanization.json](./254094-love-and-dehumanization.json) |
 | Love & Destroy | 63368 | [63368-love-and-destroy.json](./63368-love-and-destroy.json) |
 | Love & Diaries: Duncan | 299421 | [299421-love-and-diaries-duncan.json](./299421-love-and-diaries-duncan.json) |
 | Love & Friendship | 177347 | [177347-love-and-friendship.json](./177347-love-and-friendship.json) |
