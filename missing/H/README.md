@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halls of the Things | 45349 | [45349-halls-of-the-things.json](./45349-halls-of-the-things.json) |
 | Halls of Things | 23047 | [23047-halls-of-things.json](./23047-halls-of-things.json) |
 | Halls of Torment | 235846 | [235846-halls-of-torment.json](./235846-halls-of-torment.json) |
+| Halls of Watershot | 258296 | [258296-halls-of-watershot.json](./258296-halls-of-watershot.json) |
 | Halluci-Sabbat of Koishi | 167358 | [167358-halluci-sabbat-of-koishi.json](./167358-halluci-sabbat-of-koishi.json) |
 | Hallucigenia | 166466 | [166466-hallucigenia.json](./166466-hallucigenia.json) |
 | Hallucinations | 358287 | [358287-hallucinations.json](./358287-hallucinations.json) |
@@ -10763,6 +10764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Pixel Man | 413684 | [413684-hyper-pixel-man.json](./413684-hyper-pixel-man.json) |
 | Hyper Pixel Ten Thousand | 182083 | [182083-hyper-pixel-ten-thousand.json](./182083-hyper-pixel-ten-thousand.json) |
 | Hyper Pop | 234131 | [234131-hyper-pop.json](./234131-hyper-pop.json) |
+| Hyper Primate | 258575 | [258575-hyper-primate.json](./258575-hyper-primate.json) |
 | Hyper Princess Pitch | 79745 | [79745-hyper-princess-pitch.json](./79745-hyper-princess-pitch.json) |
 | Hyper Rally | 29034 | [29034-hyper-rally.json](./29034-hyper-rally.json) |
 | Hyper Reverthion | 97327 | [97327-hyper-reverthion.json](./97327-hyper-reverthion.json) |
