@@ -3393,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Inc. | 201614 | [201614-infinity-inc.json](./201614-infinity-inc.json) |
 | Infinity Is What We Will Be | 286102 | [286102-infinity-is-what-we-will-be.json](./286102-infinity-is-what-we-will-be.json) |
 | Infinity Island | 174611 | [174611-infinity-island.json](./174611-infinity-island.json) |
+| Infinity Islets | 262783 | [262783-infinity-islets.json](./262783-infinity-islets.json) |
 | Infinity Kingdom | 143085 | [143085-infinity-kingdom.json](./143085-infinity-kingdom.json) |
 | Infinity Knights: Xross | 289302 | [289302-infinity-knights-xross.json](./289302-infinity-knights-xross.json) |
 | Infinity Land | 112179 | [112179-infinity-land.json](./112179-infinity-land.json) |
@@ -5433,6 +5434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Spirits | 131857 | [131857-isle-of-spirits.json](./131857-isle-of-spirits.json) |
 | Isle of Swaps | 237304 | [237304-isle-of-swaps.json](./237304-isle-of-swaps.json) |
 | Isle of the Crown | 137362 | [137362-isle-of-the-crown.json](./137362-isle-of-the-crown.json) |
+| Isle of the Jötunn | 263092 | [263092-isle-of-the-jotunn.json](./263092-isle-of-the-jotunn.json) |
 | Isle of Tune Mobile | 101665 | [101665-isle-of-tune-mobile.json](./101665-isle-of-tune-mobile.json) |
 | Isle TD | 109195 | [109195-isle-td.json](./109195-isle-td.json) |
 | Isle TD | 81006 | [81006-isle-td.json](./81006-isle-td.json) |
