@@ -2002,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaving L.A. | 273138 | [273138-leaving-l-a.json](./273138-leaving-l-a.json) |
 | Leaving The Hospital | 296240 | [296240-leaving-the-hospital.json](./296240-leaving-the-hospital.json) |
 | Leaving Whisper at Night | 326283 | [326283-leaving-whisper-at-night.json](./326283-leaving-whisper-at-night.json) |
+| Leaving Your Room | 256387 | [256387-leaving-your-room.json](./256387-leaving-your-room.json) |
 | Lecon De Cuisine: Qu'allons-Nous Manager? | 147311 | [147311-lecon-de-cuisine-quallons-nous-manager.json](./147311-lecon-de-cuisine-quallons-nous-manager.json) |
 | Lectro | 192773 | [192773-lectro.json](./192773-lectro.json) |
 | Lectrovolt II | 31566 | [31566-lectrovolt-ii.json](./31566-lectrovolt-ii.json) |
@@ -4044,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Gravity Cube | 343768 | [343768-light-gravity-cube.json](./343768-light-gravity-cube.json) |
 | Light Gravity Cube | 37042 | [37042-light-gravity-cube.json](./37042-light-gravity-cube.json) |
 | Light Guardian | 330403 | [330403-light-guardian.json](./330403-light-guardian.json) |
+| Light Heroes | 256088 | [256088-light-heroes.json](./256088-light-heroes.json) |
 | Light House | 57746 | [57746-light-house.json](./57746-light-house.json) |
 | Light House Puzzle | 110969 | [110969-light-house-puzzle.json](./110969-light-house-puzzle.json) |
 | Light Hunters: Battalion of Darkness | 126515 | [126515-light-hunters-battalion-of-darkness.json](./126515-light-hunters-battalion-of-darkness.json) |
