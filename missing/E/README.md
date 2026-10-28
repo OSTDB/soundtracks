@@ -3922,6 +3922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Word Search Collection | 85125 | [85125-epic-word-search-collection.json](./85125-epic-word-search-collection.json) |
 | Epic Word Search Holiday Special | 85123 | [85123-epic-word-search-holiday-special.json](./85123-epic-word-search-holiday-special.json) |
 | Epic World | 126970 | [126970-epic-world.json](./126970-epic-world.json) |
+| Epic World: Hunt For Quest | 279159 | [279159-epic-world-hunt-for-quest.json](./279159-epic-world-hunt-for-quest.json) |
 | Epic Zombies | 293620 | [293620-epic-zombies.json](./293620-epic-zombies.json) |
 | Epic! The Humorous RPG | 313992 | [313992-epic-the-humorous-rpg.json](./313992-epic-the-humorous-rpg.json) |
 | Epica | 31048 | [31048-epica.json](./31048-epica.json) |
@@ -6443,6 +6444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exertus | 120109 | [120109-exertus.json](./120109-exertus.json) |
 | Exes Assault!! | 187397 | [187397-exes-assault.json](./187397-exes-assault.json) |
 | Exeter Castle | 370016 | [370016-exeter-castle.json](./370016-exeter-castle.json) |
+| Exfil | 278819 | [278819-exfil.json](./278819-exfil.json) |
 | Exfiltraitor | 181562 | [181562-exfiltraitor.json](./181562-exfiltraitor.json) |
 | Exfiltrator: Cyber Stealth Missions | 204464 | [204464-exfiltrator-cyber-stealth-missions.json](./204464-exfiltrator-cyber-stealth-missions.json) |
 | Exhaust | 80168 | [80168-exhaust.json](./80168-exhaust.json) |
