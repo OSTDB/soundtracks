@@ -16548,6 +16548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wilds of Dacrima: Field Notes from a Poorly Supervised Alchemist and his Clockwork Robot Companion | 126856 | [126856-the-wilds-of-dacrima-field-notes-from-a-poorly-supervised-alchemist-and-his-clockwork-robot-companion.json](./126856-the-wilds-of-dacrima-field-notes-from-a-poorly-supervised-alchemist-and-his-clockwork-robot-companion.json) |
 | The Will 2 - The Castle 1999 | 124682 | [124682-the-will-2-the-castle-1999.json](./124682-the-will-2-the-castle-1999.json) |
 | The Will of a Single Tale | 100117 | [100117-the-will-of-a-single-tale.json](./100117-the-will-of-a-single-tale.json) |
+| The Will of Arthur Flabbington | 235426 | [235426-the-will-of-arthur-flabbington.json](./235426-the-will-of-arthur-flabbington.json) |
 | The Will of Dr. Frankenstein | 66715 | [66715-the-will-of-dr-frankenstein.json](./66715-the-will-of-dr-frankenstein.json) |
 | The will of space | 271567 | [271567-the-will-of-space.json](./271567-the-will-of-space.json) |
 | The Williams Family Sacrifice | 385860 | [385860-the-williams-family-sacrifice.json](./385860-the-williams-family-sacrifice.json) |
@@ -17406,6 +17407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think and Choice | 373758 | [373758-think-and-choice.json](./373758-think-and-choice.json) |
 | Think Fast - Time Based Memory Game | 87124 | [87124-think-fast-time-based-memory-game.json](./87124-think-fast-time-based-memory-game.json) |
 | Think in Two | 388758 | [388758-think-in-two.json](./388758-think-in-two.json) |
+| Think It Up | 235430 | [235430-think-it-up.json](./235430-think-it-up.json) |
 | Think Like a Block | 379709 | [379709-think-like-a-block.json](./379709-think-like-a-block.json) |
 | Think Logic! Sudoku: Binary - Suguru | 231081 | [231081-think-logic-sudoku-binary-suguru.json](./231081-think-logic-sudoku-binary-suguru.json) |
 | Think or Die Collection Pack | 312097 | [312097-think-or-die-collection-pack.json](./312097-think-or-die-collection-pack.json) |
@@ -25868,6 +25870,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Decepticons | 206749 | [206749-transformers-decepticons.json](./206749-transformers-decepticons.json) |
 | Transformers: Earth Wars | 58345 | [58345-transformers-earth-wars.json](./58345-transformers-earth-wars.json) |
 | Transformers: Fall of Cybertron | 8361 | [8361-transformers-fall-of-cybertron.json](./8361-transformers-fall-of-cybertron.json) |
+| Transformers: Fall of Cybertron - Dinobot Destructor Pack | 235422 | [235422-transformers-fall-of-cybertron-dinobot-destructor-pack.json](./235422-transformers-fall-of-cybertron-dinobot-destructor-pack.json) |
+| Transformers: Fall of Cybertron - Multiplayer Havoc Pack | 235400 | [235400-transformers-fall-of-cybertron-multiplayer-havoc-pack.json](./235400-transformers-fall-of-cybertron-multiplayer-havoc-pack.json) |
 | Transformers: Fall of Cybertron - Ultimate Edition | 99964 | [99964-transformers-fall-of-cybertron-ultimate-edition.json](./99964-transformers-fall-of-cybertron-ultimate-edition.json) |
 | Transformers: Forged to Fight | 27995 | [27995-transformers-forged-to-fight.json](./27995-transformers-forged-to-fight.json) |
 | Transformers: Galactic Trials | 307442 | [307442-transformers-galactic-trials.json](./307442-transformers-galactic-trials.json) |
