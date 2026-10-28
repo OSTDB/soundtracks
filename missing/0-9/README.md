@@ -2366,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4444 | 370654 | [370654-4444.json](./370654-4444.json) |
 | 44Chairs | 233919 | [233919-44chairs.json](./233919-44chairs.json) |
 | 450 XP Games | 98817 | [98817-450-xp-games.json](./98817-450-xp-games.json) |
+| 456 Survival Battle | 245352 | [245352-456-survival-battle.json](./245352-456-survival-battle.json) |
 | 46 Memory Lane | 165501 | [165501-46-memory-lane.json](./165501-46-memory-lane.json) |
 | 46 Okunen Monogatari: The Shinka Ron | 26675 | [26675-46-okunen-monogatari-the-shinka-ron.json](./26675-46-okunen-monogatari-the-shinka-ron.json) |
 | 46 Pegason b | 205022 | [205022-46-pegason-b.json](./205022-46-pegason-b.json) |
