@@ -2449,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastel Island | 268444 | [268444-pastel-island.json](./268444-pastel-island.json) |
 | Pastel Lime | 210633 | [210633-pastel-lime.json](./210633-pastel-lime.json) |
 | Pastel Parade | 280466 | [280466-pastel-parade.json](./280466-pastel-parade.json) |
+| Pastel Pop | 242143 | [242143-pastel-pop.json](./242143-pastel-pop.json) |
 | Pastel Putter | 218409 | [218409-pastel-putter.json](./218409-pastel-putter.json) |
 | Pastfinder | 24667 | [24667-pastfinder.json](./24667-pastfinder.json) |
 | Pastimes | 415198 | [415198-pastimes.json](./415198-pastimes.json) |
@@ -9286,6 +9287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Amethyst | 323762 | [323762-pokemon-amethyst.json](./323762-pokemon-amethyst.json) |
 | Pokémon and the Last Wish | 153510 | [153510-pokemon-and-the-last-wish.json](./153510-pokemon-and-the-last-wish.json) |
 | Pokémon and the Last Wish Part II | 193163 | [193163-pokemon-and-the-last-wish-part-ii.json](./193163-pokemon-and-the-last-wish-part-ii.json) |
+| Pokémon Añil | 241776 | [241776-pokemon-anil.json](./241776-pokemon-anil.json) |
 | Pokémon Añil: Definitive Edition | 367344 | [367344-pokemon-anil-definitive-edition.json](./367344-pokemon-anil-definitive-edition.json) |
 | Pokémon Anniversary Crystal | 313100 | [313100-pokemon-anniversary-crystal.json](./313100-pokemon-anniversary-crystal.json) |
 | Pokemon Aquamarine | 325718 | [325718-pokemon-aquamarine.json](./325718-pokemon-aquamarine.json) |
@@ -9499,6 +9501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Berilo | 314720 | [314720-pokemon-berilo.json](./314720-pokemon-berilo.json) |
 | Pokémon Berserk Version | 323275 | [323275-pokemon-berserk-version.json](./323275-pokemon-berserk-version.json) |
 | Pokémon Beyond DX | 360180 | [360180-pokemon-beyond-dx.json](./360180-pokemon-beyond-dx.json) |
+| Pokémon Black & White 3: Genesis | 241775 | [241775-pokemon-black-and-white-3-genesis.json](./241775-pokemon-black-and-white-3-genesis.json) |
 | Pokémon Black 2 /White 2 Deluxe | 335436 | [335436-pokemon-black-2-white-2-deluxe.json](./335436-pokemon-black-2-white-2-deluxe.json) |
 | Pokémon Black 2 Kaizo | 230510 | [230510-pokemon-black-2-kaizo.json](./230510-pokemon-black-2-kaizo.json) |
 | Pokémon Black Pearl Emerald | 397764 | [397764-pokemon-black-pearl-emerald.json](./397764-pokemon-black-pearl-emerald.json) |
@@ -9749,6 +9752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Modern Emerald | 283549 | [283549-pokemon-modern-emerald.json](./283549-pokemon-modern-emerald.json) |
 | Pokémon Moemon Emerald Version | 229058 | [229058-pokemon-moemon-emerald-version.json](./229058-pokemon-moemon-emerald-version.json) |
 | Pokémon Monomyth | 413611 | [413611-pokemon-monomyth.json](./413611-pokemon-monomyth.json) |
+| Pokémon Mundo Misterioso: Relatos de una Phione | 241777 | [241777-pokemon-mundo-misterioso-relatos-de-una-phione.json](./241777-pokemon-mundo-misterioso-relatos-de-una-phione.json) |
 | Pokémon My Ass | 282740 | [282740-pokemon-my-ass.json](./282740-pokemon-my-ass.json) |
 | Pokémon Mystery Dungeon: Blue Rescue Team | 2320 | [2320-pokemon-mystery-dungeon-blue-rescue-team.json](./2320-pokemon-mystery-dungeon-blue-rescue-team.json) |
 | Pokemon Mystery Dungeon: Cryptic Conundrum | 373505 | [373505-pokemon-mystery-dungeon-cryptic-conundrum.json](./373505-pokemon-mystery-dungeon-cryptic-conundrum.json) |
@@ -11048,6 +11052,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popeye Meets Ali Baba's Forty Thieves | 269925 | [269925-popeye-meets-ali-babas-forty-thieves.json](./269925-popeye-meets-ali-babas-forty-thieves.json) |
 | Popeye no Eigo Asobi | 48641 | [48641-popeye-no-eigo-asobi.json](./48641-popeye-no-eigo-asobi.json) |
 | Popeye: The Rescue | 209330 | [209330-popeye-the-rescue.json](./209330-popeye-the-rescue.json) |
+| Popful Mail | 242129 | [242129-popful-mail.json](./242129-popful-mail.json) |
+| Popful Mail | 242130 | [242130-popful-mail.json](./242130-popful-mail.json) |
 | PopGerm Classic | 253021 | [253021-popgerm-classic.json](./253021-popgerm-classic.json) |
 | Popgoes | 186033 | [186033-popgoes.json](./186033-popgoes.json) |
 | Popgoes 0 | 238963 | [238963-popgoes-0.json](./238963-popgoes-0.json) |
@@ -15580,6 +15586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt-Putt Saves the Zoo | 3736 | [3736-putt-putt-saves-the-zoo.json](./3736-putt-putt-saves-the-zoo.json) |
 | Putt-Putt Travels Through Time | 3737 | [3737-putt-putt-travels-through-time.json](./3737-putt-putt-travels-through-time.json) |
 | Putt-Putt: Pep's Birthday Surprise | 3740 | [3740-putt-putt-peps-birthday-surprise.json](./3740-putt-putt-peps-birthday-surprise.json) |
+| Putt-Putt's Fun House | 242140 | [242140-putt-putts-fun-house.json](./242140-putt-putts-fun-house.json) |
 | Putt.day | 413151 | [413151-putt-day.json](./413151-putt-day.json) |
 | Puttball | 58220 | [58220-puttball.json](./58220-puttball.json) |
 | Puttin' Around | 114171 | [114171-puttin-around.json](./114171-puttin-around.json) |
