@@ -4622,10 +4622,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Complete Edition | 288282 | [288282-hentai-stars-complete-edition.json](./288282-hentai-stars-complete-edition.json) |
 | Hentai Stars: Definitive Edition | 284937 | [284937-hentai-stars-definitive-edition.json](./284937-hentai-stars-definitive-edition.json) |
 | Hentai Stars: Deluxe Edition | 268561 | [268561-hentai-stars-deluxe-edition.json](./268561-hentai-stars-deluxe-edition.json) |
+| Hentai Stars: Demoness Ayame | 268594 | [268594-hentai-stars-demoness-ayame.json](./268594-hentai-stars-demoness-ayame.json) |
 | Hentai Stars: Extended Edition | 277907 | [277907-hentai-stars-extended-edition.json](./277907-hentai-stars-extended-edition.json) |
 | Hentai Stars: Happy Edition | 304783 | [304783-hentai-stars-happy-edition.json](./304783-hentai-stars-happy-edition.json) |
+| Hentai Stars: Idol Tsubaki | 268590 | [268590-hentai-stars-idol-tsubaki.json](./268590-hentai-stars-idol-tsubaki.json) |
 | Hentai Stars: Lonely Kitty Ran | 288299 | [288299-hentai-stars-lonely-kitty-ran.json](./288299-hentai-stars-lonely-kitty-ran.json) |
 | Hentai Stars: Magnificent Edition | 310430 | [310430-hentai-stars-magnificent-edition.json](./310430-hentai-stars-magnificent-edition.json) |
+| Hentai Stars: Night Rider Ran | 268583 | [268583-hentai-stars-night-rider-ran.json](./268583-hentai-stars-night-rider-ran.json) |
 | Hentai Stars: Platinum Edition | 295677 | [295677-hentai-stars-platinum-edition.json](./295677-hentai-stars-platinum-edition.json) |
 | Hentai Stars: Premium Edition | 283172 | [283172-hentai-stars-premium-edition.json](./283172-hentai-stars-premium-edition.json) |
 | Hentai Stars: Shy Fox Ayame | 288293 | [288293-hentai-stars-shy-fox-ayame.json](./288293-hentai-stars-shy-fox-ayame.json) |
@@ -4900,6 +4903,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic Speedmapping 1 | 268627 | [268627-heretic-speedmapping-1.json](./268627-heretic-speedmapping-1.json) |
 | Heretic Speedmapping 2 | 268628 | [268628-heretic-speedmapping-2.json](./268628-heretic-speedmapping-2.json) |
 | Heretic Treasure Chest | 260783 | [260783-heretic-treasure-chest.json](./260783-heretic-treasure-chest.json) |
+| Heretic Upstart Mapping Project | 268597 | [268597-heretic-upstart-mapping-project.json](./268597-heretic-upstart-mapping-project.json) |
+| Heretic Upstart Mapping Project Mini | 268598 | [268598-heretic-upstart-mapping-project-mini.json](./268598-heretic-upstart-mapping-project-mini.json) |
 | Heretic's Fork: Abyssal Update | 320278 | [320278-heretics-fork-abyssal-update.json](./320278-heretics-fork-abyssal-update.json) |
 | Heretic's Fork: Inside The Fire | 285116 | [285116-heretics-fork-inside-the-fire.json](./285116-heretics-fork-inside-the-fire.json) |
 | Heretic’s Fork: Probation | 251822 | [251822-heretic-s-fork-probation.json](./251822-heretic-s-fork-probation.json) |
