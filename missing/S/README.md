@@ -10978,6 +10978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyline Urban Story | 349221 | [349221-skyline-urban-story.json](./349221-skyline-urban-story.json) |
 | Skylords Reborn | 122901 | [122901-skylords-reborn.json](./122901-skylords-reborn.json) |
 | Skylost | 201710 | [201710-skylost.json](./201710-skylost.json) |
+| SkyMatch | 277136 | [277136-skymatch.json](./277136-skymatch.json) |
 | Skymote | 417612 | [417612-skymote.json](./417612-skymote.json) |
 | Skynet Rising : Portal to the Past | 25738 | [25738-skynet-rising-portal-to-the-past.json](./25738-skynet-rising-portal-to-the-past.json) |
 | Skynet Simulator | 177429 | [177429-skynet-simulator.json](./177429-skynet-simulator.json) |
@@ -14012,6 +14013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier Sortie: VR Agent 006 | 30613 | [30613-soldier-sortie-vr-agent-006.json](./30613-soldier-sortie-vr-agent-006.json) |
 | Soldier Summit Collection | 53630 | [53630-soldier-summit-collection.json](./53630-soldier-summit-collection.json) |
 | Soldier vs Aliens | 54389 | [54389-soldier-vs-aliens.json](./54389-soldier-vs-aliens.json) |
+| Soldier Yōki | 277451 | [277451-soldier-yoki.json](./277451-soldier-yoki.json) |
 | Soldiers at War | 69791 | [69791-soldiers-at-war.json](./69791-soldiers-at-war.json) |
 | Soldiers DesireWing | 378437 | [378437-soldiers-desirewing.json](./378437-soldiers-desirewing.json) |
 | Soldiers Inc: Mobile Warfare | 56261 | [56261-soldiers-inc-mobile-warfare.json](./56261-soldiers-inc-mobile-warfare.json) |
@@ -22161,6 +22163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth | 147969 | [147969-stealth.json](./147969-stealth.json) |
 | Stealth | 24679 | [24679-stealth.json](./24679-stealth.json) |
 | Stealth | 86207 | [86207-stealth.json](./86207-stealth.json) |
+| Stealth Assault: Urban Strike | 277445 | [277445-stealth-assault-urban-strike.json](./277445-stealth-assault-urban-strike.json) |
 | Stealth ATF | 48237 | [48237-stealth-atf.json](./48237-stealth-atf.json) |
 | Stealth Bastard | 10923 | [10923-stealth-bastard.json](./10923-stealth-bastard.json) |
 | Stealth Bastard Deluxe | 10922 | [10922-stealth-bastard-deluxe.json](./10922-stealth-bastard-deluxe.json) |
@@ -26906,6 +26909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kart Mini Car Race | 283227 | [283227-super-kart-mini-car-race.json](./283227-super-kart-mini-car-race.json) |
 | Super Kart Racer | 267954 | [267954-super-kart-racer.json](./267954-super-kart-racer.json) |
 | Super Karts | 50614 | [50614-super-karts.json](./50614-super-karts.json) |
+| Super Kawaii Ninja | 277459 | [277459-super-kawaii-ninja.json](./277459-super-kawaii-ninja.json) |
 | Super Kawaii Turtle Fighter | 56354 | [56354-super-kawaii-turtle-fighter.json](./56354-super-kawaii-turtle-fighter.json) |
 | Super Kawaii! Finding Mistakes in Panda Photos | 310446 | [310446-super-kawaii-finding-mistakes-in-panda-photos.json](./310446-super-kawaii-finding-mistakes-in-panda-photos.json) |
 | Super Kayak Maker | 138495 | [138495-super-kayak-maker.json](./138495-super-kayak-maker.json) |
