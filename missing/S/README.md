@@ -1953,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage: Ultimate Boss Fight | 225075 | [225075-savage-ultimate-boss-fight.json](./225075-savage-ultimate-boss-fight.json) |
 | Savaki | 62617 | [62617-savaki.json](./62617-savaki.json) |
 | Savanna | 346098 | [346098-savanna.json](./346098-savanna.json) |
+| Savanna Race | 241547 | [241547-savanna-race.json](./241547-savanna-race.json) |
 | Savanna Shot VR | 102391 | [102391-savanna-shot-vr.json](./102391-savanna-shot-vr.json) |
 | Savanna Story Diamond Edition | 274921 | [274921-savanna-story-diamond-edition.json](./274921-savanna-story-diamond-edition.json) |
 | Savannah Gurashi no Cheetah-san | 269942 | [269942-savannah-gurashi-no-cheetah-san.json](./269942-savannah-gurashi-no-cheetah-san.json) |
@@ -3020,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scram: Scrammer's Pack | 270035 | [270035-scram-scrammers-pack.json](./270035-scram-scrammers-pack.json) |
 | Scram! | 265294 | [265294-scram.json](./265294-scram.json) |
 | Scramball | 339900 | [339900-scramball.json](./339900-scramball.json) |
+| Scramballed! | 241178 | [241178-scramballed.json](./241178-scramballed.json) |
 | Scramble | 168574 | [168574-scramble.json](./168574-scramble.json) |
 | Scramble | 246400 | [246400-scramble.json](./246400-scramble.json) |
 | Scramble | 297494 | [297494-scramble.json](./297494-scramble.json) |
@@ -11644,6 +11646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slider | 199357 | [199357-slider.json](./199357-slider.json) |
 | Slider | 384824 | [384824-slider.json](./384824-slider.json) |
 | Slider Scouts | 340387 | [340387-slider-scouts.json](./340387-slider-scouts.json) |
+| Slider X | 241546 | [241546-slider-x.json](./241546-slider-x.json) |
 | Slidercrash | 251656 | [251656-slidercrash.json](./251656-slidercrash.json) |
 | SlideRow | 120355 | [120355-sliderow.json](./120355-sliderow.json) |
 | Sliders | 80517 | [80517-sliders.json](./80517-sliders.json) |
@@ -12433,6 +12436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashmuck Champions | 15323 | [15323-smashmuck-champions.json](./15323-smashmuck-champions.json) |
 | Smashometry | 378902 | [378902-smashometry.json](./378902-smashometry.json) |
 | Smashpunks | 178088 | [178088-smashpunks.json](./178088-smashpunks.json) |
+| Smashtastic Cricket | 241549 | [241549-smashtastic-cricket.json](./241549-smashtastic-cricket.json) |
 | Smashteroid | 170262 | [170262-smashteroid.json](./170262-smashteroid.json) |
 | SmashThem | 28202 | [28202-smashthem.json](./28202-smashthem.json) |
 | Smashy Brick | 237324 | [237324-smashy-brick.json](./237324-smashy-brick.json) |
@@ -13726,6 +13730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer VR Football | 200169 | [200169-soccer-vr-football.json](./200169-soccer-vr-football.json) |
 | Soccer Wind Shot | 233736 | [233736-soccer-wind-shot.json](./233736-soccer-wind-shot.json) |
 | Soccer World | 321228 | [321228-soccer-world.json](./321228-soccer-world.json) |
+| Soccer World Cap | 241550 | [241550-soccer-world-cap.json](./241550-soccer-world-cap.json) |
 | Soccer: Goal Keeper cup | 232314 | [232314-soccer-goal-keeper-cup.json](./232314-soccer-goal-keeper-cup.json) |
 | Soccer: Kick the Goal | 245404 | [245404-soccer-kick-the-goal.json](./245404-soccer-kick-the-goal.json) |
 | Soccerboy vs. Aliens | 406229 | [406229-soccerboy-vs-aliens.json](./406229-soccerboy-vs-aliens.json) |
@@ -16660,10 +16665,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Commander: War and Trade | 146222 | [146222-space-commander-war-and-trade.json](./146222-space-commander-war-and-trade.json) |
 | Space Commanders | 397256 | [397256-space-commanders.json](./397256-space-commanders.json) |
 | Space Confetti | 178962 | [178962-space-confetti.json](./178962-space-confetti.json) |
+| Space Conflict: Runner | 241548 | [241548-space-conflict-runner.json](./241548-space-conflict-runner.json) |
 | Space Conquest | 44133 | [44133-space-conquest.json](./44133-space-conquest.json) |
 | Space Conquest: A Galactic Odyssey | 73295 | [73295-space-conquest-a-galactic-odyssey.json](./73295-space-conquest-a-galactic-odyssey.json) |
 | Space Contact | 340198 | [340198-space-contact.json](./340198-space-contact.json) |
 | Space Control | 190955 | [190955-space-control.json](./190955-space-control.json) |
+| Space Cord | 241551 | [241551-space-cord.json](./241551-space-cord.json) |
 | Space Core | 103869 | [103869-space-core.json](./103869-space-core.json) |
 | Space Corgi | 345433 | [345433-space-corgi.json](./345433-space-corgi.json) |
 | Space Corgi 2: Snowhound Protocol | 384610 | [384610-space-corgi-2-snowhound-protocol.json](./384610-space-corgi-2-snowhound-protocol.json) |
@@ -17711,6 +17718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spanish for Everyone! | 25018 | [25018-spanish-for-everyone.json](./25018-spanish-for-everyone.json) |
 | Spanish Rage | 167802 | [167802-spanish-rage.json](./167802-spanish-rage.json) |
 | Spank The Idle Monkey | 334194 | [334194-spank-the-idle-monkey.json](./334194-spank-the-idle-monkey.json) |
+| Spanker | 241552 | [241552-spanker.json](./241552-spanker.json) |
 | Spanking Exorcist | 409227 | [409227-spanking-exorcist.json](./409227-spanking-exorcist.json) |
 | Spanking Runners | 62282 | [62282-spanking-runners.json](./62282-spanking-runners.json) |
 | Spanky "Bat-a-Swing" | 370559 | [370559-spanky-bat-a-swing.json](./370559-spanky-bat-a-swing.json) |
@@ -18250,6 +18258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell 9 | 57552 | [57552-spell-9.json](./57552-spell-9.json) |
 | Spell Alchemist | 402132 | [402132-spell-alchemist.json](./402132-spell-alchemist.json) |
 | Spell Bandit | 114747 | [114747-spell-bandit.json](./114747-spell-bandit.json) |
+| Spell Blitz | 241558 | [241558-spell-blitz.json](./241558-spell-blitz.json) |
 | Spell Blocks | 182968 | [182968-spell-blocks.json](./182968-spell-blocks.json) |
 | Spell Boy | 329093 | [329093-spell-boy.json](./329093-spell-boy.json) |
 | Spell Breakers | 233104 | [233104-spell-breakers.json](./233104-spell-breakers.json) |
@@ -19543,6 +19552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Amazing Edition | 283165 | [283165-sport-and-fun-swimming-amazing-edition.json](./283165-sport-and-fun-swimming-amazing-edition.json) |
 | Sport & Fun: Swimming - Complete + | 328836 | [328836-sport-and-fun-swimming-complete.json](./328836-sport-and-fun-swimming-complete.json) |
 | Sport & Fun: Swimming - Complete Edition | 260052 | [260052-sport-and-fun-swimming-complete-edition.json](./260052-sport-and-fun-swimming-complete-edition.json) |
+| Sport & Fun: Swimming - Deluxe Edition | 241186 | [241186-sport-and-fun-swimming-deluxe-edition.json](./241186-sport-and-fun-swimming-deluxe-edition.json) |
 | Sport & Fun: Swimming - Director's Cut | 271834 | [271834-sport-and-fun-swimming-directors-cut.json](./271834-sport-and-fun-swimming-directors-cut.json) |
 | Sport & Fun: Swimming - Extended Edition | 246887 | [246887-sport-and-fun-swimming-extended-edition.json](./246887-sport-and-fun-swimming-extended-edition.json) |
 | Sport & Fun: Swimming - GOTY Edition | 277908 | [277908-sport-and-fun-swimming-goty-edition.json](./277908-sport-and-fun-swimming-goty-edition.json) |
@@ -19661,6 +19671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot the Diff 3D | 268955 | [268955-spot-the-diff-3d.json](./268955-spot-the-diff-3d.json) |
 | Spot the Difference | 409199 | [409199-spot-the-difference.json](./409199-spot-the-difference.json) |
 | Spot the Difference 3D | 365000 | [365000-spot-the-difference-3d.json](./365000-spot-the-difference-3d.json) |
+| Spot the Difference Blitz | 241553 | [241553-spot-the-difference-blitz.json](./241553-spot-the-difference-blitz.json) |
 | Spot The Difference Food & Drink | 317272 | [317272-spot-the-difference-food-and-drink.json](./317272-spot-the-difference-food-and-drink.json) |
 | Spot The Difference: Christmas Edition | 322074 | [322074-spot-the-difference-christmas-edition.json](./322074-spot-the-difference-christmas-edition.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
@@ -23057,6 +23068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Figure Combat: Scythe | 351650 | [351650-stick-figure-combat-scythe.json](./351650-stick-figure-combat-scythe.json) |
 | Stick Figure Combat: Sniper Rifle | 351652 | [351652-stick-figure-combat-sniper-rifle.json](./351652-stick-figure-combat-sniper-rifle.json) |
 | Stick Figure Combat: Top Hat | 351657 | [351657-stick-figure-combat-top-hat.json](./351657-stick-figure-combat-top-hat.json) |
+| Stick Figure Movie Trivia | 241554 | [241554-stick-figure-movie-trivia.json](./241554-stick-figure-movie-trivia.json) |
 | Stick Frame | 331272 | [331272-stick-frame.json](./331272-stick-frame.json) |
 | Stick Game | 72518 | [72518-stick-game.json](./72518-stick-game.json) |
 | Stick Go story | 201704 | [201704-stick-go-story.json](./201704-stick-go-story.json) |
@@ -25520,6 +25532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SudokuNexus | 344706 | [344706-sudokunexus.json](./344706-sudokunexus.json) |
 | Sudokuro | 123454 | [123454-sudokuro.json](./123454-sudokuro.json) |
 | Sudokuro: Sudoku & Kakuro Games | 337677 | [337677-sudokuro-sudoku-and-kakuro-games.json](./337677-sudokuro-sudoku-and-kakuro-games.json) |
+| SudoQi | 241557 | [241557-sudoqi.json](./241557-sudoqi.json) |
 | Sudoqube | 204853 | [204853-sudoqube.json](./204853-sudoqube.json) |
 | Suds | 247656 | [247656-suds.json](./247656-suds.json) |
 | Suds and Buds | 409837 | [409837-suds-and-buds.json](./409837-suds-and-buds.json) |
@@ -26534,6 +26547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Breakout | 12321 | [12321-super-breakout.json](./12321-super-breakout.json) |
 | Super Breakout | 239502 | [239502-super-breakout.json](./239502-super-breakout.json) |
 | Super Breakout | 239520 | [239520-super-breakout.json](./239520-super-breakout.json) |
+| Super Breakout 13 | 241556 | [241556-super-breakout-13.json](./241556-super-breakout-13.json) |
 | Super Breakout Ultra | 64401 | [64401-super-breakout-ultra.json](./64401-super-breakout-ultra.json) |
 | Super Breakout: Evolved | 329632 | [329632-super-breakout-evolved.json](./329632-super-breakout-evolved.json) |
 | Super Bros. 8 | 163222 | [163222-super-bros-8.json](./163222-super-bros-8.json) |
@@ -29959,6 +29973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suugaku Riki-ou: Shokyuu Chuu-1 Level | 282046 | [282046-suugaku-riki-ou-shokyuu-chuu-1-level.json](./282046-suugaku-riki-ou-shokyuu-chuu-1-level.json) |
 | Suugaku Rikiou: Joukyuu Naka-3-Level | 145391 | [145391-suugaku-rikiou-joukyuu-naka-3-level.json](./145391-suugaku-rikiou-joukyuu-naka-3-level.json) |
 | Suuji Atta! | 266165 | [266165-suuji-atta.json](./266165-suuji-atta.json) |
+| Suuji Puzzle: Game Zutto | 241183 | [241183-suuji-puzzle-game-zutto.json](./241183-suuji-puzzle-game-zutto.json) |
 | Suul | 312915 | [312915-suul.json](./312915-suul.json) |
 | Suuran Digit | 12636 | [12636-suuran-digit.json](./12636-suuran-digit.json) |
 | Suuri muumijuhla | 26377 | [26377-suuri-muumijuhla.json](./26377-suuri-muumijuhla.json) |
