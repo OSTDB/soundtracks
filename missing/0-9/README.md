@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Sri Lanka Cats | 335193 | [335193-100-sri-lanka-cats.json](./335193-100-sri-lanka-cats.json) |
 | 100 Steps | 265505 | [265505-100-steps.json](./265505-100-steps.json) |
 | 100 Tavern Cats | 376183 | [376183-100-tavern-cats.json](./376183-100-tavern-cats.json) |
+| 100 Tokyo Cats | 274297 | [274297-100-tokyo-cats.json](./274297-100-tokyo-cats.json) |
 | 100 Tokyo Cats: Extra Content | 274585 | [274585-100-tokyo-cats-extra-content.json](./274585-100-tokyo-cats-extra-content.json) |
 | 100 Trials | 355069 | [355069-100-trials.json](./355069-100-trials.json) |
 | 100 Undersea Cats | 393726 | [393726-100-undersea-cats.json](./393726-100-undersea-cats.json) |
