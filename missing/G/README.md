@@ -5588,6 +5588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Voyage | 18525 | [18525-golden-voyage.json](./18525-golden-voyage.json) |
 | Golden war spirit | 119607 | [119607-golden-war-spirit.json](./119607-golden-war-spirit.json) |
 | Golden Warden | 310836 | [310836-golden-warden.json](./310836-golden-warden.json) |
+| Golden Yoshi's Island | 276880 | [276880-golden-yoshis-island.json](./276880-golden-yoshis-island.json) |
 | Goldene Zeiten | 94234 | [94234-goldene-zeiten.json](./94234-goldene-zeiten.json) |
 | GoldenEye 007 | 1647 | [1647-goldeneye-007.json](./1647-goldeneye-007.json) |
 | GoldenEye 007: Xbox Live Arcade | 143406 | [143406-goldeneye-007-xbox-live-arcade.json](./143406-goldeneye-007-xbox-live-arcade.json) |
