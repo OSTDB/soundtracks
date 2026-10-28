@@ -1124,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Machine 2 | 346762 | [346762-game-machine-2.json](./346762-game-machine-2.json) |
 | Game Machines: Arcade Casino | 74121 | [74121-game-machines-arcade-casino.json](./74121-game-machines-arcade-casino.json) |
 | Game Master II | 41747 | [41747-game-master-ii.json](./41747-game-master-ii.json) |
+| Game ni Nattayo! Dokuro-chan: Kenkou Shindan Daisakusen | 248390 | [248390-game-ni-nattayo-dokuro-chan-kenkou-shindan-daisakusen.json](./248390-game-ni-nattayo-dokuro-chan-kenkou-shindan-daisakusen.json) |
 | Game Night | 406175 | [406175-game-night.json](./406175-game-night.json) |
 | Game Nihonshi: Kakumeiji Oda Nobunaga | 214392 | [214392-game-nihonshi-kakumeiji-oda-nobunaga.json](./214392-game-nihonshi-kakumeiji-oda-nobunaga.json) |
 | Game no Kanzume Vol. 1 | 398458 | [398458-game-no-kanzume-vol-1.json](./398458-game-no-kanzume-vol-1.json) |
@@ -1786,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garshasp: Temple of the Dragon | 16247 | [16247-garshasp-temple-of-the-dragon.json](./16247-garshasp-temple-of-the-dragon.json) |
 | Garshasp: The Monster Slayer | 3279 | [3279-garshasp-the-monster-slayer.json](./3279-garshasp-the-monster-slayer.json) |
 | Garten of Banban 0 | 320854 | [320854-garten-of-banban-0.json](./320854-garten-of-banban-0.json) |
+| Garten of Banban 4 | 248696 | [248696-garten-of-banban-4.json](./248696-garten-of-banban-4.json) |
 | Garten of Banban 5 | 261134 | [261134-garten-of-banban-5.json](./261134-garten-of-banban-5.json) |
 | Garten of Banban 6 | 261135 | [261135-garten-of-banban-6.json](./261135-garten-of-banban-6.json) |
 | Garten of Banban 7 | 280891 | [280891-garten-of-banban-7.json](./280891-garten-of-banban-7.json) |
