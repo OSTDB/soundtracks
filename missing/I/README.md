@@ -4608,6 +4608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaders | 380798 | [380798-invaders.json](./380798-invaders.json) |
 | Invaders | 79070 | [79070-invaders.json](./79070-invaders.json) |
 | Invaders 1978 | 72081 | [72081-invaders-1978.json](./72081-invaders-1978.json) |
+| Invaders From Uranus | 269153 | [269153-invaders-from-uranus.json](./269153-invaders-from-uranus.json) |
 | Invaders of the Mummy's Tomb | 300011 | [300011-invaders-of-the-mummys-tomb.json](./300011-invaders-of-the-mummys-tomb.json) |
 | Invaders Revenge | 41195 | [41195-invaders-revenge.json](./41195-invaders-revenge.json) |
 | Invaders Tower Defense Online | 292400 | [292400-invaders-tower-defense-online.json](./292400-invaders-tower-defense-online.json) |
@@ -5931,6 +5932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Izumo | 58168 | [58168-izumo.json](./58168-izumo.json) |
 | Izumo 3 | 401172 | [401172-izumo-3.json](./401172-izumo-3.json) |
 | Izumo 4 | 401173 | [401173-izumo-4.json](./401173-izumo-4.json) |
+| Izuna | 268840 | [268840-izuna.json](./268840-izuna.json) |
 | Izuna 2: The Unemployed Ninja Returns | 21345 | [21345-izuna-2-the-unemployed-ninja-returns.json](./21345-izuna-2-the-unemployed-ninja-returns.json) |
 | Izuna: Legend of the Unemployed Ninja | 20671 | [20671-izuna-legend-of-the-unemployed-ninja.json](./20671-izuna-legend-of-the-unemployed-ninja.json) |
 | Izurana's Walk | 357248 | [357248-izuranas-walk.json](./357248-izuranas-walk.json) |
