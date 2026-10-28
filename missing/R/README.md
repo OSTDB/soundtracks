@@ -4981,6 +4981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ressolve Steps | 375841 | [375841-ressolve-steps.json](./375841-ressolve-steps.json) |
 | Ressurection of Chaos | 268902 | [268902-ressurection-of-chaos.json](./268902-ressurection-of-chaos.json) |
 | Rest | 120149 | [120149-rest.json](./120149-rest.json) |
+| Rest | 267198 | [267198-rest.json](./267198-rest.json) |
 | Rest Area Simulator | 373009 | [373009-rest-area-simulator.json](./373009-rest-area-simulator.json) |
 | Rest Guardian | 344521 | [344521-rest-guardian.json](./344521-rest-guardian.json) |
 | Rest House | 29696 | [29696-rest-house.json](./29696-rest-house.json) |
@@ -5707,6 +5708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revoke | 93726 | [93726-revoke.json](./93726-revoke.json) |
 | Revoland | 210661 | [210661-revoland.json](./210661-revoland.json) |
 | Revolgear II Ver.D Revision+Ex | 268028 | [268028-revolgear-ii-ver-d-revision-ex.json](./268028-revolgear-ii-ver-d-revision-ex.json) |
+| Revolgear II: Second Brightness | 267195 | [267195-revolgear-ii-second-brightness.json](./267195-revolgear-ii-second-brightness.json) |
 | Revolgear Zero | 373901 | [373901-revolgear-zero.json](./373901-revolgear-zero.json) |
 | Revolocity | 295322 | [295322-revolocity.json](./295322-revolocity.json) |
 | Revolt | 34083 | [34083-revolt.json](./34083-revolt.json) |
@@ -8942,6 +8944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolldown | 228366 | [228366-rolldown.json](./228366-rolldown.json) |
 | Rolldown | 305979 | [305979-rolldown.json](./305979-rolldown.json) |
 | Rolled: A Pinball Nightmare | 305626 | [305626-rolled-a-pinball-nightmare.json](./305626-rolled-a-pinball-nightmare.json) |
+| Roller | 267528 | [267528-roller.json](./267528-roller.json) |
 | Roller | 99776 | [99776-roller.json](./99776-roller.json) |
 | Roller Aces | 40132 | [40132-roller-aces.json](./40132-roller-aces.json) |
 | Roller Angels | 84847 | [84847-roller-angels.json](./84847-roller-angels.json) |
