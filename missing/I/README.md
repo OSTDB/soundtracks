@@ -5149,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is Today Another Day? | 406797 | [406797-is-today-another-day.json](./406797-is-today-another-day.json) |
 | Is Your House Almost There? | 346720 | [346720-is-your-house-almost-there.json](./346720-is-your-house-almost-there.json) |
 | iS: internal section | 25094 | [25094-is-internal-section.json](./25094-is-internal-section.json) |
+| Isaac Asimov's The Ultimate Robot | 279815 | [279815-isaac-asimovs-the-ultimate-robot.json](./279815-isaac-asimovs-the-ultimate-robot.json) |
 | Isaac Phens: Ace Attorney | 318804 | [318804-isaac-phens-ace-attorney.json](./318804-isaac-phens-ace-attorney.json) |
 | Isaac's Odyssey | 323024 | [323024-isaacs-odyssey.json](./323024-isaacs-odyssey.json) |
 | Isaacle | 361711 | [361711-isaacle.json](./361711-isaacle.json) |
