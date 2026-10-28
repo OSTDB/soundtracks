@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Tower Tycoon | 107423 | [107423-mad-tower-tycoon.json](./107423-mad-tower-tycoon.json) |
 | Mad Trapper | 210845 | [210845-mad-trapper.json](./210845-mad-trapper.json) |
 | Mad Trax | 46442 | [46442-mad-trax.json](./46442-mad-trax.json) |
+| Mad Truck Challenge | 252316 | [252316-mad-truck-challenge.json](./252316-mad-truck-challenge.json) |
 | Mad TV | 14719 | [14719-mad-tv.json](./14719-mad-tv.json) |
 | Mad TV 2 | 92915 | [92915-mad-tv-2.json](./92915-mad-tv-2.json) |
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
@@ -1309,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl Konoha | 261828 | [261828-magical-girl-konoha.json](./261828-magical-girl-konoha.json) |
 | Magical Girl Leaky Sara | 58810 | [58810-magical-girl-leaky-sara.json](./58810-magical-girl-leaky-sara.json) |
 | Magical Girl Lyrical Nanoha A's Portable: The Battle of Aces | 42836 | [42836-magical-girl-lyrical-nanoha-as-portable-the-battle-of-aces.json](./42836-magical-girl-lyrical-nanoha-as-portable-the-battle-of-aces.json) |
+| Magical Girl Maho | 252311 | [252311-magical-girl-maho.json](./252311-magical-girl-maho.json) |
 | Magical Girl Momo | 82820 | [82820-magical-girl-momo.json](./82820-magical-girl-momo.json) |
 | Magical Girl Noble Rose | 173817 | [173817-magical-girl-noble-rose.json](./173817-magical-girl-noble-rose.json) |
 | Magical Girl Opal | 354444 | [354444-magical-girl-opal.json](./354444-magical-girl-opal.json) |
@@ -14555,6 +14557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moose In Canada | 239196 | [239196-moose-in-canada.json](./239196-moose-in-canada.json) |
 | Moose Invasion | 75002 | [75002-moose-invasion.json](./75002-moose-invasion.json) |
 | Moose Life | 138332 | [138332-moose-life.json](./138332-moose-life.json) |
+| Moose Lost in the Woods | 252317 | [252317-moose-lost-in-the-woods.json](./252317-moose-lost-in-the-woods.json) |
 | Mooselutions | 264662 | [264662-mooselutions.json](./264662-mooselutions.json) |
 | Mooshie's Kitchen | 256980 | [256980-mooshies-kitchen.json](./256980-mooshies-kitchen.json) |
 | Mooshie's Kitchen 2 | 273983 | [273983-mooshies-kitchen-2.json](./273983-mooshies-kitchen-2.json) |
@@ -16507,6 +16510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multishop Tycoon Deluxe | 30031 | [30031-multishop-tycoon-deluxe.json](./30031-multishop-tycoon-deluxe.json) |
 | Multishot | 258107 | [258107-multishot.json](./258107-multishot.json) |
 | Multispy | 386958 | [386958-multispy.json](./386958-multispy.json) |
+| Multitales | 251956 | [251956-multitales.json](./251956-multitales.json) |
 | Multitasking Skills Desired | 404448 | [404448-multitasking-skills-desired.json](./404448-multitasking-skills-desired.json) |
 | MultiTaskMaster | 105205 | [105205-multitaskmaster.json](./105205-multitaskmaster.json) |
 | Multiversal Affairs | 270157 | [270157-multiversal-affairs.json](./270157-multiversal-affairs.json) |
