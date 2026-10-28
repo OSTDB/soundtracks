@@ -13162,6 +13162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin vs. Mummies: Match 3 | 101047 | [101047-assassin-vs-mummies-match-3.json](./101047-assassin-vs-mummies-match-3.json) |
 | Assassin War Sniper Shooting | 274452 | [274452-assassin-war-sniper-shooting.json](./274452-assassin-war-sniper-shooting.json) |
 | Assassin: Special Edition | 14601 | [14601-assassin-special-edition.json](./14601-assassin-special-edition.json) |
+| Assassin: The First List | 243295 | [243295-assassin-the-first-list.json](./243295-assassin-the-first-list.json) |
 | Assassin's Alliance | 304680 | [304680-assassins-alliance.json](./304680-assassins-alliance.json) |
 | Assassin's Belief | 295298 | [295298-assassins-belief.json](./295298-assassins-belief.json) |
 | Assassin's Creed American History Pack | 219000 | [219000-assassins-creed-american-history-pack.json](./219000-assassins-creed-american-history-pack.json) |
@@ -15585,6 +15586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Away in the Woods | 225765 | [225765-away-in-the-woods.json](./225765-away-in-the-woods.json) |
 | Away Team | 349503 | [349503-away-team.json](./349503-away-team.json) |
 | Away Times | 257486 | [257486-away-times.json](./257486-away-times.json) |
+| Away to the Stars | 243165 | [243165-away-to-the-stars.json](./243165-away-to-the-stars.json) |
 | Away: Journey to the Unexpected | 27443 | [27443-away-journey-to-the-unexpected.json](./27443-away-journey-to-the-unexpected.json) |
 | Away: Shuffle Dungeon | 21332 | [21332-away-shuffle-dungeon.json](./21332-away-shuffle-dungeon.json) |
 | Away: The Survival Series | 71457 | [71457-away-the-survival-series.json](./71457-away-the-survival-series.json) |
