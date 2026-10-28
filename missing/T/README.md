@@ -3615,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis no Ouji-sama: Smash Hit! 2 | 405515 | [405515-tennis-no-ouji-sama-smash-hit-2.json](./405515-tennis-no-ouji-sama-smash-hit-2.json) |
 | Tennis no Ouji-sama: Sweat & Tears 2 | 205641 | [205641-tennis-no-ouji-sama-sweat-and-tears-2.json](./205641-tennis-no-ouji-sama-sweat-and-tears-2.json) |
 | Tennis On-Court | 253174 | [253174-tennis-on-court.json](./253174-tennis-on-court.json) |
+| Tennis Online Duel | 234241 | [234241-tennis-online-duel.json](./234241-tennis-online-duel.json) |
 | Tennis Pro Tour | 372190 | [372190-tennis-pro-tour.json](./372190-tennis-pro-tour.json) |
 | Tennis Pro Tournaments | 274737 | [274737-tennis-pro-tournaments.json](./274737-tennis-pro-tournaments.json) |
 | Tennis Slam: Global Duel Arena | 244807 | [244807-tennis-slam-global-duel-arena.json](./244807-tennis-slam-global-duel-arena.json) |
@@ -24451,6 +24452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 3: Birmingham Standard Edition | 231364 | [231364-train-sim-world-3-birmingham-standard-edition.json](./231364-train-sim-world-3-birmingham-standard-edition.json) |
 | Train Sim World 3: BNSF SD70ACe | 242355 | [242355-train-sim-world-3-bnsf-sd70ace.json](./242355-train-sim-world-3-bnsf-sd70ace.json) |
 | Train Sim World 3: DB BR 403 ICE 3 Railbow | 242356 | [242356-train-sim-world-3-db-br-403-ice-3-railbow.json](./242356-train-sim-world-3-db-br-403-ice-3-railbow.json) |
+| Train Sim World 3: Deluxe Edition + Loco Bundle | 234245 | [234245-train-sim-world-3-deluxe-edition-loco-bundle.json](./234245-train-sim-world-3-deluxe-edition-loco-bundle.json) |
 | Train Sim World 3: Dispolok BR 182 Add-On | 220712 | [220712-train-sim-world-3-dispolok-br-182-add-on.json](./220712-train-sim-world-3-dispolok-br-182-add-on.json) |
 | Train Sim World 3: Glossop Line - Manchester: Hadfield & Glossop Route | 254910 | [254910-train-sim-world-3-glossop-line-manchester-hadfield-and-glossop-route.json](./254910-train-sim-world-3-glossop-line-manchester-hadfield-and-glossop-route.json) |
 | Train Sim World 3: Linke Rheinstrecke - Mainz: Koblenz Route | 241308 | [241308-train-sim-world-3-linke-rheinstrecke-mainz-koblenz-route.json](./241308-train-sim-world-3-linke-rheinstrecke-mainz-koblenz-route.json) |
