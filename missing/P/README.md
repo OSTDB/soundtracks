@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddle Momentum | 413904 | [413904-paddle-momentum.json](./413904-paddle-momentum.json) |
 | Paddle Paddle Paddle | 336330 | [336330-paddle-paddle-paddle.json](./336330-paddle-paddle-paddle.json) |
 | Paddle Pop Kombatei | 388895 | [388895-paddle-pop-kombatei.json](./388895-paddle-pop-kombatei.json) |
+| Paddle Protectors | 270498 | [270498-paddle-protectors.json](./270498-paddle-protectors.json) |
 | Paddle Together | 366244 | [366244-paddle-together.json](./366244-paddle-together.json) |
 | Paddle Up | 32227 | [32227-paddle-up.json](./32227-paddle-up.json) |
 | Paddle vs Paddle | 413015 | [413015-paddle-vs-paddle.json](./413015-paddle-vs-paddle.json) |
@@ -3996,8 +3997,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5 Royal: Velvet Room Costume & BGM Set | 405351 | [405351-persona-5-royal-velvet-room-costume-and-bgm-set.json](./405351-persona-5-royal-velvet-room-costume-and-bgm-set.json) |
 | Persona 5 Strikers: Digital Deluxe Edition | 237861 | [237861-persona-5-strikers-digital-deluxe-edition.json](./237861-persona-5-strikers-digital-deluxe-edition.json) |
 | Persona 5 Strikers: Legacy BGM Pack | 383606 | [383606-persona-5-strikers-legacy-bgm-pack.json](./383606-persona-5-strikers-legacy-bgm-pack.json) |
+| Persona 5 Tactica: Digital Deluxe Edition | 270805 | [270805-persona-5-tactica-digital-deluxe-edition.json](./270805-persona-5-tactica-digital-deluxe-edition.json) |
 | Persona 5 Tactica: DLC All in One | 277311 | [277311-persona-5-tactica-dlc-all-in-one.json](./277311-persona-5-tactica-dlc-all-in-one.json) |
 | Persona 5 Tactica: Launch Edition | 256154 | [256154-persona-5-tactica-launch-edition.json](./256154-persona-5-tactica-launch-edition.json) |
+| Persona 5 Tactica: Picaro Summoning Pack + Raoul Persona | 270806 | [270806-persona-5-tactica-picaro-summoning-pack-raoul-persona.json](./270806-persona-5-tactica-picaro-summoning-pack-raoul-persona.json) |
+| Persona 5 Tactica: Repaint Your Heart Challenge Pack | 270807 | [270807-persona-5-tactica-repaint-your-heart-challenge-pack.json](./270807-persona-5-tactica-repaint-your-heart-challenge-pack.json) |
+| Persona 5 Tactica: Weapon Pack | 270808 | [270808-persona-5-tactica-weapon-pack.json](./270808-persona-5-tactica-weapon-pack.json) |
 | Persona 5: 20th Anniversary Edition | 136749 | [136749-persona-5-20th-anniversary-edition.json](./136749-persona-5-20th-anniversary-edition.json) |
 | Persona 5: Dancing in Starlight | 54218 | [54218-persona-5-dancing-in-starlight.json](./54218-persona-5-dancing-in-starlight.json) |
 | Persona 5: Dancing in Starlight - Atlus Selection Set | 362255 | [362255-persona-5-dancing-in-starlight-atlus-selection-set.json](./362255-persona-5-dancing-in-starlight-atlus-selection-set.json) |
@@ -5956,6 +5961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Peanuts' Snoopy Pinball | 239029 | [239029-pinball-fx-peanuts-snoopy-pinball.json](./239029-pinball-fx-peanuts-snoopy-pinball.json) |
 | Pinball FX: Rocky and Bullwinkle | 395546 | [395546-pinball-fx-rocky-and-bullwinkle.json](./395546-pinball-fx-rocky-and-bullwinkle.json) |
 | Pinball FX: Secrets and Shadows Pack | 239028 | [239028-pinball-fx-secrets-and-shadows-pack.json](./239028-pinball-fx-secrets-and-shadows-pack.json) |
+| Pinball FX: South Park Pinball | 270810 | [270810-pinball-fx-south-park-pinball.json](./270810-pinball-fx-south-park-pinball.json) |
 | Pinball FX: Star Wars Pinball - Thrill of the Hunt | 239024 | [239024-pinball-fx-star-wars-pinball-thrill-of-the-hunt.json](./239024-pinball-fx-star-wars-pinball-thrill-of-the-hunt.json) |
 | Pinball FX: Star Wars Pinball Collection 1 | 239026 | [239026-pinball-fx-star-wars-pinball-collection-1.json](./239026-pinball-fx-star-wars-pinball-collection-1.json) |
 | Pinball FX: Star Wars Pinball Collection 2 | 239025 | [239025-pinball-fx-star-wars-pinball-collection-2.json](./239025-pinball-fx-star-wars-pinball-collection-2.json) |
@@ -6920,6 +6926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Lunlun Super Hero Babies Plus NewGames | 330616 | [330616-pixel-game-maker-series-lunlun-super-hero-babies-plus-newgames.json](./330616-pixel-game-maker-series-lunlun-super-hero-babies-plus-newgames.json) |
 | Pixel Game Maker Series: LunLun Superherobabys DX | 283263 | [283263-pixel-game-maker-series-lunlun-superherobabys-dx.json](./283263-pixel-game-maker-series-lunlun-superherobabys-dx.json) |
 | Pixel Game Maker Series: Ninja Otedama R | 247487 | [247487-pixel-game-maker-series-ninja-otedama-r.json](./247487-pixel-game-maker-series-ninja-otedama-r.json) |
+| Pixel Game Maker Series: Ninja Runner | 270811 | [270811-pixel-game-maker-series-ninja-runner.json](./270811-pixel-game-maker-series-ninja-runner.json) |
 | Pixel Game Maker Series: Ninja Sneaking R | 215114 | [215114-pixel-game-maker-series-ninja-sneaking-r.json](./215114-pixel-game-maker-series-ninja-sneaking-r.json) |
 | Pixel Game Maker Series: Pearl vs Grey | 227845 | [227845-pixel-game-maker-series-pearl-vs-grey.json](./227845-pixel-game-maker-series-pearl-vs-grey.json) |
 | Pixel Game Maker Series: Rocket Frog | 335354 | [335354-pixel-game-maker-series-rocket-frog.json](./335354-pixel-game-maker-series-rocket-frog.json) |
@@ -6980,6 +6987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Ninja | 160163 | [160163-pixel-ninja.json](./160163-pixel-ninja.json) |
 | Pixel Noir | 61721 | [61721-pixel-noir.json](./61721-pixel-noir.json) |
 | Pixel Odyssey | 395287 | [395287-pixel-odyssey.json](./395287-pixel-odyssey.json) |
+| Pixel of Memory | 270488 | [270488-pixel-of-memory.json](./270488-pixel-of-memory.json) |
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
 | Pixel Origin | 104654 | [104654-pixel-origin.json](./104654-pixel-origin.json) |
 | Pixel P.I. | 335767 | [335767-pixel-p-i.json](./335767-pixel-p-i.json) |
@@ -8243,6 +8251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform Run | 324296 | [324296-platform-run.json](./324296-platform-run.json) |
 | Platform Terror | 393743 | [393743-platform-terror.json](./393743-platform-terror.json) |
 | Platform Tower | 249230 | [249230-platform-tower.json](./249230-platform-tower.json) |
+| Platform War | 270500 | [270500-platform-war.json](./270500-platform-war.json) |
 | Platformance: Castle Pain | 66389 | [66389-platformance-castle-pain.json](./66389-platformance-castle-pain.json) |
 | Platformer Execute | 163980 | [163980-platformer-execute.json](./163980-platformer-execute.json) |
 | Platformer From Hell | 303213 | [303213-platformer-from-hell.json](./303213-platformer-from-hell.json) |
