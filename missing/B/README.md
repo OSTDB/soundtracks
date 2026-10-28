@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11394,6 +11395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomer Brawler | 355616 | [355616-boomer-brawler.json](./355616-boomer-brawler.json) |
 | Boomer Simulator | 142729 | [142729-boomer-simulator.json](./142729-boomer-simulator.json) |
 | Boomer Zombie | 211250 | [211250-boomer-zombie.json](./211250-boomer-zombie.json) |
+| Boomer: Beyond Vanilla | 260500 | [260500-boomer-beyond-vanilla.json](./260500-boomer-beyond-vanilla.json) |
 | Boomerang | 279059 | [279059-boomerang.json](./279059-boomerang.json) |
 | Boomerang | 413199 | [413199-boomerang.json](./413199-boomerang.json) |
 | Boomerang Battles | 243593 | [243593-boomerang-battles.json](./243593-boomerang-battles.json) |
