@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Gang Standing | 159843 | [159843-last-gang-standing.json](./159843-last-gang-standing.json) |
 | Last Genesis | 175851 | [175851-last-genesis.json](./175851-last-genesis.json) |
 | Last Gleam | 182073 | [182073-last-gleam.json](./182073-last-gleam.json) |
+| Last God's Bidding | 272956 | [272956-last-gods-bidding.json](./272956-last-gods-bidding.json) |
 | Last Group Out | 189196 | [189196-last-group-out.json](./189196-last-group-out.json) |
 | Last Guest | 346778 | [346778-last-guest.json](./346778-last-guest.json) |
 | Last Half of Darkness | 312756 | [312756-last-half-of-darkness.json](./312756-last-half-of-darkness.json) |
@@ -2133,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy: Witch Island | 164425 | [164425-legacy-witch-island.json](./164425-legacy-witch-island.json) |
 | Legacy: Witch Island 2 | 159655 | [159655-legacy-witch-island-2.json](./159655-legacy-witch-island-2.json) |
 | Legacy: Witch Island 3 | 159768 | [159768-legacy-witch-island-3.json](./159768-legacy-witch-island-3.json) |
+| Legacy: Witch Island 4 | 272957 | [272957-legacy-witch-island-4.json](./272957-legacy-witch-island-4.json) |
 | Legacy:Witch Island | 102272 | [102272-legacy-witch-island.json](./102272-legacy-witch-island.json) |
 | Legacy's Allure | 264199 | [264199-legacys-allure.json](./264199-legacys-allure.json) |
 | LegacyClonk | 222765 | [222765-legacyclonk.json](./222765-legacyclonk.json) |
@@ -2170,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Azcarth | 158505 | [158505-legend-of-azcarth.json](./158505-legend-of-azcarth.json) |
 | Legend of Ball | 103242 | [103242-legend-of-ball.json](./103242-legend-of-ball.json) |
 | Legend of Bricks | 175176 | [175176-legend-of-bricks.json](./175176-legend-of-bricks.json) |
+| Legend Of Calvas: The Acurine Heart | 272955 | [272955-legend-of-calvas-the-acurine-heart.json](./272955-legend-of-calvas-the-acurine-heart.json) |
 | Legend of Camelot | 66939 | [66939-legend-of-camelot.json](./66939-legend-of-camelot.json) |
 | Legend of Cenama | 120818 | [120818-legend-of-cenama.json](./120818-legend-of-cenama.json) |
 | Legend of Chilli Tree | 161160 | [161160-legend-of-chilli-tree.json](./161160-legend-of-chilli-tree.json) |
@@ -7965,6 +7968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Dog 1 | 147444 | [147444-lucky-dog-1.json](./147444-lucky-dog-1.json) |
 | Lucky Dog 1 + Bad Egg | 264088 | [264088-lucky-dog-1-bad-egg.json](./264088-lucky-dog-1-bad-egg.json) |
 | Lucky Drop | 347493 | [347493-lucky-drop.json](./347493-lucky-drop.json) |
+| Lucky Dungeon | 272954 | [272954-lucky-dungeon.json](./272954-lucky-dungeon.json) |
 | Lucky Farm | 309567 | [309567-lucky-farm.json](./309567-lucky-farm.json) |
 | Lucky Fat Cat Diner | 389507 | [389507-lucky-fat-cat-diner.json](./389507-lucky-fat-cat-diner.json) |
 | Lucky Fighter II | 321648 | [321648-lucky-fighter-ii.json](./321648-lucky-fighter-ii.json) |
