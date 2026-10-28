@@ -2021,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | United Assault: Battle of the Bulge | 195231 | [195231-united-assault-battle-of-the-bulge.json](./195231-united-assault-battle-of-the-bulge.json) |
 | United Assault: Final Stand | 334105 | [334105-united-assault-final-stand.json](./334105-united-assault-final-stand.json) |
 | United Assault: Normandy '44 | 171361 | [171361-united-assault-normandy-44.json](./171361-united-assault-normandy-44.json) |
+| United Assault: World War 2 | 235916 | [235916-united-assault-world-war-2.json](./235916-united-assault-world-war-2.json) |
 | United Chronicles | 152672 | [152672-united-chronicles.json](./152672-united-chronicles.json) |
 | United City | 371588 | [371588-united-city.json](./371588-united-city.json) |
 | United Command | 137450 | [137450-united-command.json](./137450-united-command.json) |
@@ -2980,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urbek City Builder: Defend the City | 236234 | [236234-urbek-city-builder-defend-the-city.json](./236234-urbek-city-builder-defend-the-city.json) |
 | Urbex | 399156 | [399156-urbex.json](./399156-urbex.json) |
 | Urbex Alone | 285406 | [285406-urbex-alone.json](./285406-urbex-alone.json) |
+| Urbex Night Security | 235953 | [235953-urbex-night-security.json](./235953-urbex-night-security.json) |
 | UrbexCam | 372734 | [372734-urbexcam.json](./372734-urbexcam.json) |
 | URBO | 271173 | [271173-urbo.json](./271173-urbo.json) |
 | Urbo: Dream One | 261661 | [261661-urbo-dream-one.json](./261661-urbo-dream-one.json) |
