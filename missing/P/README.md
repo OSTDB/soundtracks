@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint it Doom | 308070 | [308070-paint-it-doom.json](./308070-paint-it-doom.json) |
 | Paint It: Christmas Edition | 278651 | [278651-paint-it-christmas-edition.json](./278651-paint-it-christmas-edition.json) |
 | Paint It: Christmas Pack | 278654 | [278654-paint-it-christmas-pack.json](./278654-paint-it-christmas-pack.json) |
+| Paint Monsters | 266057 | [266057-paint-monsters.json](./266057-paint-monsters.json) |
 | Paint My Cat - Color and Play | 96045 | [96045-paint-my-cat-color-and-play.json](./96045-paint-my-cat-color-and-play.json) |
 | Paint My World | 134497 | [134497-paint-my-world.json](./134497-paint-my-world.json) |
 | Paint on Paint TD | 373193 | [373193-paint-on-paint-td.json](./373193-paint-on-paint-td.json) |
@@ -12497,6 +12498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess and the Ice Dragon | 237660 | [237660-princess-and-the-ice-dragon.json](./237660-princess-and-the-ice-dragon.json) |
 | Princess Arthur for Nintendo Switch | 251488 | [251488-princess-arthur-for-nintendo-switch.json](./251488-princess-arthur-for-nintendo-switch.json) |
 | Princess Battles | 35686 | [35686-princess-battles.json](./35686-princess-battles.json) |
+| Princess Bubble Story | 266058 | [266058-princess-bubble-story.json](./266058-princess-bubble-story.json) |
 | Princess Burst | 382279 | [382279-princess-burst.json](./382279-princess-burst.json) |
 | Princess Castle Quest | 122802 | [122802-princess-castle-quest.json](./122802-princess-castle-quest.json) |
 | Princess Chessboard | 272734 | [272734-princess-chessboard.json](./272734-princess-chessboard.json) |
@@ -15713,6 +15715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Game Bundle | 198073 | [198073-puzzle-game-bundle.json](./198073-puzzle-game-bundle.json) |
 | Puzzle Games | 98818 | [98818-puzzle-games.json](./98818-puzzle-games.json) |
 | Puzzle Games Bundle | 226316 | [226316-puzzle-games-bundle.json](./226316-puzzle-games-bundle.json) |
+| Puzzle Games Bundle: 5 in 1 - vol.2 | 266337 | [266337-puzzle-games-bundle-5-in-1-vol-2.json](./266337-puzzle-games-bundle-5-in-1-vol-2.json) |
 | Puzzle Games for Children | 352830 | [352830-puzzle-games-for-children.json](./352830-puzzle-games-for-children.json) |
 | Puzzle Garage | 291615 | [291615-puzzle-garage.json](./291615-puzzle-garage.json) |
 | Puzzle Gems | 290240 | [290240-puzzle-gems.json](./290240-puzzle-gems.json) |
