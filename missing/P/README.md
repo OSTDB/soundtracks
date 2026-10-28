@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 63639 | [63639-pac-man.json](./63639-pac-man.json) |
 | Pac-Man | 88904 | [88904-pac-man.json](./88904-pac-man.json) |
 | Pac-Man & Galaga Dimensions | 6861 | [6861-pac-man-and-galaga-dimensions.json](./6861-pac-man-and-galaga-dimensions.json) |
+| Pac-Man 12-in-1 Legacy Series | 253713 | [253713-pac-man-12-in-1-legacy-series.json](./253713-pac-man-12-in-1-legacy-series.json) |
 | Pac-Man 2: The New Adventures | 11603 | [11603-pac-man-2-the-new-adventures.json](./11603-pac-man-2-the-new-adventures.json) |
 | Pac-Man 256 | 14701 | [14701-pac-man-256.json](./14701-pac-man-256.json) |
 | Pac-Man 256 | 219438 | [219438-pac-man-256.json](./219438-pac-man-256.json) |
@@ -15579,6 +15580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo! Push Brain | 367926 | [367926-puyo-push-brain.json](./367926-puyo-push-brain.json) |
 | Puyo! Sokoban | 367944 | [367944-puyo-sokoban.json](./367944-puyo-sokoban.json) |
 | Puyolin | 198873 | [198873-puyolin.json](./198873-puyolin.json) |
+| Puyoman-Eating Carbuncle | 253720 | [253720-puyoman-eating-carbuncle.json](./253720-puyoman-eating-carbuncle.json) |
 | Puzigo | 416601 | [416601-puzigo.json](./416601-puzigo.json) |
 | Puzkend | 68930 | [68930-puzkend.json](./68930-puzkend.json) |
 | Puzlkind: Jigsaw Puzzles | 162205 | [162205-puzlkind-jigsaw-puzzles.json](./162205-puzlkind-jigsaw-puzzles.json) |
