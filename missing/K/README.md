@@ -3013,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Watcher | 81050 | [81050-kingdom-watcher.json](./81050-kingdom-watcher.json) |
 | Kingdom Winds | 224031 | [224031-kingdom-winds.json](./224031-kingdom-winds.json) |
 | Kingdom-Heroes | 114071 | [114071-kingdom-heroes.json](./114071-kingdom-heroes.json) |
+| Kingdom, Dungeon, and Hero | 274314 | [274314-kingdom-dungeon-and-hero.json](./274314-kingdom-dungeon-and-hero.json) |
 | Kingdom: Classic | 13686 | [13686-kingdom-classic.json](./13686-kingdom-classic.json) |
 | Kingdom: Flames of War | 372051 | [372051-kingdom-flames-of-war.json](./372051-kingdom-flames-of-war.json) |
 | Kingdom: Ikkitousen no Tsurugi | 59367 | [59367-kingdom-ikkitousen-no-tsurugi.json](./59367-kingdom-ikkitousen-no-tsurugi.json) |
