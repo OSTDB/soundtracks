@@ -11389,6 +11389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boost Arena | 103370 | [103370-boost-arena.json](./103370-boost-arena.json) |
 | Boost Beast | 51518 | [51518-boost-beast.json](./51518-boost-beast.json) |
 | Boost Beginner | 273035 | [273035-boost-beginner.json](./273035-boost-beginner.json) |
+| Boost Buddies | 277116 | [277116-boost-buddies.json](./277116-boost-buddies.json) |
 | Boost Panic | 315361 | [315361-boost-panic.json](./315361-boost-panic.json) |
 | Boost Race | 105893 | [105893-boost-race.json](./105893-boost-race.json) |
 | BoostBots VR | 54841 | [54841-boostbots-vr.json](./54841-boostbots-vr.json) |
