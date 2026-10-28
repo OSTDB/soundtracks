@@ -3032,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newgothic Movement 2 | 275571 | [275571-newgothic-movement-2.json](./275571-newgothic-movement-2.json) |
 | Newgrounds Rumble | 92467 | [92467-newgrounds-rumble.json](./92467-newgrounds-rumble.json) |
 | NewHrdGame | 367715 | [367715-newhrdgame.json](./367715-newhrdgame.json) |
+| Newly Wed AV Debut - Cuckoldry Honeymoon- | 279449 | [279449-newly-wed-av-debut-cuckoldry-honeymoon.json](./279449-newly-wed-av-debut-cuckoldry-honeymoon.json) |
 | Newly-wedded Woman Stealing Life | 279603 | [279603-newly-wedded-woman-stealing-life.json](./279603-newly-wedded-woman-stealing-life.json) |
 | Newlywed Happy Couple Family | 296751 | [296751-newlywed-happy-couple-family.json](./296751-newlywed-happy-couple-family.json) |
 | Newman/Haas IndyCar featuring Nigel Mansell | 22841 | [22841-newman-haas-indycar-featuring-nigel-mansell.json](./22841-newman-haas-indycar-featuring-nigel-mansell.json) |
@@ -5733,7 +5734,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Normal Shmup | 250378 | [250378-normal-shmup.json](./250378-normal-shmup.json) |
 | Normal Super Mario Bros. | 279718 | [279718-normal-super-mario-bros.json](./279718-normal-super-mario-bros.json) |
 | Normal Super Mario Bros. 2 | 279720 | [279720-normal-super-mario-bros-2.json](./279720-normal-super-mario-bros-2.json) |
+| Normal Super Mario Bros. 2 DX | 279798 | [279798-normal-super-mario-bros-2-dx.json](./279798-normal-super-mario-bros-2-dx.json) |
 | Normal Super Mario Bros. 3 | 279721 | [279721-normal-super-mario-bros-3.json](./279721-normal-super-mario-bros-3.json) |
+| Normal Super Mario Bros. DX | 279797 | [279797-normal-super-mario-bros-dx.json](./279797-normal-super-mario-bros-dx.json) |
+| Normal Super Mario Bros. Trilogy DX | 279799 | [279799-normal-super-mario-bros-trilogy-dx.json](./279799-normal-super-mario-bros-trilogy-dx.json) |
 | Normalize Human Communication | 398982 | [398982-normalize-human-communication.json](./398982-normalize-human-communication.json) |
 | NormalTanks | 66658 | [66658-normaltanks.json](./66658-normaltanks.json) |
 | Norman | 245152 | [245152-norman.json](./245152-norman.json) |
@@ -6381,7 +6385,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nukewar | 24807 | [24807-nukewar.json](./24807-nukewar.json) |
 | NukiTashi | 201846 | [201846-nukitashi.json](./201846-nukitashi.json) |
 | Nukitashi 2 | 207209 | [207209-nukitashi-2.json](./207209-nukitashi-2.json) |
+| Nuklear Klone | 279805 | [279805-nuklear-klone.json](./279805-nuklear-klone.json) |
 | Nulandia | 304718 | [304718-nulandia.json](./304718-nulandia.json) |
+| Null | 279802 | [279802-null.json](./279802-null.json) |
 | Null | 401139 | [401139-null.json](./401139-null.json) |
 | Null & Peta -Invasion of the Queen Bug- | 127372 | [127372-null-and-peta-invasion-of-the-queen-bug.json](./127372-null-and-peta-invasion-of-the-queen-bug.json) |
 | Null Breach | 239151 | [239151-null-breach.json](./239151-null-breach.json) |
