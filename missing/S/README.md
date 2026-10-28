@@ -1374,6 +1374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sands of Salzaar: The Tournament | 231292 | [231292-sands-of-salzaar-the-tournament.json](./231292-sands-of-salzaar-the-tournament.json) |
 | Sands of Slumber: The RPG | 225864 | [225864-sands-of-slumber-the-rpg.json](./225864-sands-of-slumber-the-rpg.json) |
 | Sands of Sodis | 231380 | [231380-sands-of-sodis.json](./231380-sands-of-sodis.json) |
+| Sands of Solaris | 255490 | [255490-sands-of-solaris.json](./255490-sands-of-solaris.json) |
 | Sands of the Coliseum | 95941 | [95941-sands-of-the-coliseum.json](./95941-sands-of-the-coliseum.json) |
 | Sandspiel | 146869 | [146869-sandspiel.json](./146869-sandspiel.json) |
 | Sandstorm | 30707 | [30707-sandstorm.json](./30707-sandstorm.json) |
@@ -20515,6 +20516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Catcher | 391150 | [391150-star-catcher.json](./391150-star-catcher.json) |
 | Star Catcher: Heart Master | 362272 | [362272-star-catcher-heart-master.json](./362272-star-catcher-heart-master.json) |
 | Star Chamber | 74036 | [74036-star-chamber.json](./74036-star-chamber.json) |
+| Star Charms | 255489 | [255489-star-charms.json](./255489-star-charms.json) |
 | Star Chaser in Sea World | 154073 | [154073-star-chaser-in-sea-world.json](./154073-star-chaser-in-sea-world.json) |
 | Star Chef 2: Cooking Game | 153999 | [153999-star-chef-2-cooking-game.json](./153999-star-chef-2-cooking-game.json) |
 | Star Chef Simulator | 300639 | [300639-star-chef-simulator.json](./300639-star-chef-simulator.json) |
@@ -22254,6 +22256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Dead Evolution | 10896 | [10896-stay-dead-evolution.json](./10896-stay-dead-evolution.json) |
 | Stay Focus | 296992 | [296992-stay-focus.json](./296992-stay-focus.json) |
 | Stay Home | 184055 | [184055-stay-home.json](./184055-stay-home.json) |
+| Stay Home | 255487 | [255487-stay-home.json](./255487-stay-home.json) |
 | Stay Home and Play With Waifu! | 368097 | [368097-stay-home-and-play-with-waifu.json](./368097-stay-home-and-play-with-waifu.json) |
 | Stay Home It Rains Outside | 316406 | [316406-stay-home-it-rains-outside.json](./316406-stay-home-it-rains-outside.json) |
 | Stay Human | 233033 | [233033-stay-human.json](./233033-stay-human.json) |
@@ -24565,6 +24568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strimpland | 395698 | [395698-strimpland.json](./395698-strimpland.json) |
 | String 'Em Up | 180554 | [180554-string-em-up.json](./180554-string-em-up.json) |
 | String Along | 231754 | [231754-string-along.json](./231754-string-along.json) |
+| String Art | 255810 | [255810-string-art.json](./255810-string-art.json) |
 | String Avoider | 407786 | [407786-string-avoider.json](./407786-string-avoider.json) |
 | String Avoider 2 | 407828 | [407828-string-avoider-2.json](./407828-string-avoider-2.json) |
 | String Avoider Deluxe | 407789 | [407789-string-avoider-deluxe.json](./407789-string-avoider-deluxe.json) |
