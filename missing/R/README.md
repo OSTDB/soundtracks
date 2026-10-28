@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RalliSport Challenge | 841 | [841-rallisport-challenge.json](./841-rallisport-challenge.json) |
 | Rallo Gump | 73148 | [73148-rallo-gump.json](./73148-rallo-gump.json) |
 | Rally | 197381 | [197381-rally.json](./197381-rally.json) |
+| Rally 3D | 261078 | [261078-rally-3d.json](./261078-rally-3d.json) |
 | Rally Ar | 266843 | [266843-rally-ar.json](./266843-rally-ar.json) |
 | Rally Arcade Classics | 319408 | [319408-rally-arcade-classics.json](./319408-rally-arcade-classics.json) |
 | Rally Bike | 282119 | [282119-rally-bike.json](./282119-rally-bike.json) |
@@ -2919,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebellious Takeover | 396013 | [396013-rebellious-takeover.json](./396013-rebellious-takeover.json) |
 | Rebeloid | 368668 | [368668-rebeloid.json](./368668-rebeloid.json) |
 | Rebeloid VR | 364978 | [364978-rebeloid-vr.json](./364978-rebeloid-vr.json) |
+| Rebels | 261079 | [261079-rebels.json](./261079-rebels.json) |
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
 | Rebels and Redcoats II | 194171 | [194171-rebels-and-redcoats-ii.json](./194171-rebels-and-redcoats-ii.json) |
 | Rebels of the Realm | 423306 | [423306-rebels-of-the-realm.json](./423306-rebels-of-the-realm.json) |
