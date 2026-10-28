@@ -10166,6 +10166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubicon | 79242 | [79242-rubicon.json](./79242-rubicon.json) |
 | Rubicon Approach | 83944 | [83944-rubicon-approach.json](./83944-rubicon-approach.json) |
 | Rubicon: A Conspiracy of Silence | 178284 | [178284-rubicon-a-conspiracy-of-silence.json](./178284-rubicon-a-conspiracy-of-silence.json) |
+| Rubicondom | 271336 | [271336-rubicondom.json](./271336-rubicondom.json) |
 | Rubido | 260714 | [260714-rubido.json](./260714-rubido.json) |
 | Rubies in Space | 194371 | [194371-rubies-in-space.json](./194371-rubies-in-space.json) |
 | Rubik's Color | 26258 | [26258-rubiks-color.json](./26258-rubiks-color.json) |
@@ -10347,6 +10348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins of Endoth | 310000 | [310000-ruins-of-endoth.json](./310000-ruins-of-endoth.json) |
 | Ruins of Istanbul | 226631 | [226631-ruins-of-istanbul.json](./226631-ruins-of-istanbul.json) |
 | Ruins of Majika | 211747 | [211747-ruins-of-majika.json](./211747-ruins-of-majika.json) |
+| Ruins of Mazotac | 271326 | [271326-ruins-of-mazotac.json](./271326-ruins-of-mazotac.json) |
 | Ruins of Mitriom | 186320 | [186320-ruins-of-mitriom.json](./186320-ruins-of-mitriom.json) |
 | Ruins of Pantheon | 313548 | [313548-ruins-of-pantheon.json](./313548-ruins-of-pantheon.json) |
 | Ruins of Sathryn | 262598 | [262598-ruins-of-sathryn.json](./262598-ruins-of-sathryn.json) |
