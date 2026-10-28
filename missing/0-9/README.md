@@ -2197,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3eality | 115470 | [115470-3eality.json](./115470-3eality.json) |
 | 3in1 Adrenalin Pack | 137477 | [137477-3in1-adrenalin-pack.json](./137477-3in1-adrenalin-pack.json) |
 | 3in1: Meine Tierpension + Meine Tierschule + Mein Westernpferd | 269540 | [269540-3in1-meine-tierpension-meine-tierschule-mein-westernpferd.json](./269540-3in1-meine-tierpension-meine-tierschule-mein-westernpferd.json) |
+| 3Kingdoms | 228872 | [228872-3kingdoms.json](./228872-3kingdoms.json) |
 | 3LDK | 58152 | [58152-3ldk.json](./58152-3ldk.json) |
 | 3M Spain Foundation: Stem + VR | 187449 | [187449-3m-spain-foundation-stem-vr.json](./187449-3m-spain-foundation-stem-vr.json) |
 | 3ndl3zz: Base Defense | 130589 | [130589-3ndl3zz-base-defense.json](./130589-3ndl3zz-base-defense.json) |
