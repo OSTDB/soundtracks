@@ -7239,6 +7239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronoclysm | 35285 | [35285-chronoclysm.json](./35285-chronoclysm.json) |
 | ChronoCodex | 237053 | [237053-chronocodex.json](./237053-chronocodex.json) |
 | Chronodog: Earth Defender | 185067 | [185067-chronodog-earth-defender.json](./185067-chronodog-earth-defender.json) |
+| ChronoDojo | 258061 | [258061-chronodojo.json](./258061-chronodojo.json) |
 | ChronoForge | 365311 | [365311-chronoforge.json](./365311-chronoforge.json) |
 | Chronokicker 202K | 181161 | [181161-chronokicker-202k.json](./181161-chronokicker-202k.json) |
 | Chronology: Deluxe Edition | 257371 | [257371-chronology-deluxe-edition.json](./257371-chronology-deluxe-edition.json) |
@@ -12260,6 +12261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Mania | 174773 | [174773-cooking-mania.json](./174773-cooking-mania.json) |
 | Cooking Misha | 399752 | [399752-cooking-misha.json](./399752-cooking-misha.json) |
 | Cooking Papa: Cookstar | 237641 | [237641-cooking-papa-cookstar.json](./237641-cooking-papa-cookstar.json) |
+| Cooking Pix | 257772 | [257772-cooking-pix.json](./257772-cooking-pix.json) |
 | Cooking Simulator 2: Better Together | 259127 | [259127-cooking-simulator-2-better-together.json](./259127-cooking-simulator-2-better-together.json) |
 | Cooking Simulator Mobile | 174780 | [174780-cooking-simulator-mobile.json](./174780-cooking-simulator-mobile.json) |
 | Cooking Simulator VR | 148926 | [148926-cooking-simulator-vr.json](./148926-cooking-simulator-vr.json) |
