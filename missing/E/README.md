@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Quiz | 171495 | [171495-easy-quiz.json](./171495-easy-quiz.json) |
 | Easy Quiz: This One Is Free | 196034 | [196034-easy-quiz-this-one-is-free.json](./196034-easy-quiz-this-one-is-free.json) |
 | Easy Red | 75944 | [75944-easy-red.json](./75944-easy-red.json) |
+| Easy Red 2: Normandy | 268595 | [268595-easy-red-2-normandy.json](./268595-easy-red-2-normandy.json) |
 | Easy Red 2: Stalingrad | 231286 | [231286-easy-red-2-stalingrad.json](./231286-easy-red-2-stalingrad.json) |
 | Easy RTS | 303502 | [303502-easy-rts.json](./303502-easy-rts.json) |
 | Easy Shooter | 116912 | [116912-easy-shooter.json](./116912-easy-shooter.json) |
@@ -1193,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Educational Games for Kids | 147919 | [147919-educational-games-for-kids.json](./147919-educational-games-for-kids.json) |
 | Educational games for kids girls & boys apps free! | 102742 | [102742-educational-games-for-kids-girls-and-boys-apps-free.json](./102742-educational-games-for-kids-girls-and-boys-apps-free.json) |
 | Educational Pack of Kids Games | 85107 | [85107-educational-pack-of-kids-games.json](./85107-educational-pack-of-kids-games.json) |
+| Educational Suite | 268294 | [268294-educational-suite.json](./268294-educational-suite.json) |
 | Educational Virtual Reality Campus | 341608 | [341608-educational-virtual-reality-campus.json](./341608-educational-virtual-reality-campus.json) |
 | Educator 2076: Basics in Education | 111678 | [111678-educator-2076-basics-in-education.json](./111678-educator-2076-basics-in-education.json) |
 | Edward Grabowski's: The Blue & The Gray | 74065 | [74065-edward-grabowskis-the-blue-and-the-gray.json](./74065-edward-grabowskis-the-blue-and-the-gray.json) |
@@ -4749,6 +4751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Bunker | 30086 | [30086-escape-the-bunker.json](./30086-escape-the-bunker.json) |
 | Escape the Challenge | 120973 | [120973-escape-the-challenge.json](./120973-escape-the-challenge.json) |
 | Escape the Chambers | 294762 | [294762-escape-the-chambers.json](./294762-escape-the-chambers.json) |
+| Escape The Charon | 268293 | [268293-escape-the-charon.json](./268293-escape-the-charon.json) |
 | Escape the City | 170910 | [170910-escape-the-city.json](./170910-escape-the-city.json) |
 | Escape the Clinic | 142295 | [142295-escape-the-clinic.json](./142295-escape-the-clinic.json) |
 | Escape the Dark Tower | 260233 | [260233-escape-the-dark-tower.json](./260233-escape-the-dark-tower.json) |
@@ -6843,6 +6846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explosive Dinosaurs | 104792 | [104792-explosive-dinosaurs.json](./104792-explosive-dinosaurs.json) |
 | Explosive Dungeon | 179127 | [179127-explosive-dungeon.json](./179127-explosive-dungeon.json) |
 | Explosive Fighter Patton | 11449 | [11449-explosive-fighter-patton.json](./11449-explosive-fighter-patton.json) |
+| Explosive Madness | 268301 | [268301-explosive-madness.json](./268301-explosive-madness.json) |
 | Explosive Odds | 345473 | [345473-explosive-odds.json](./345473-explosive-odds.json) |
 | Explosive Pursuit | 112487 | [112487-explosive-pursuit.json](./112487-explosive-pursuit.json) |
 | Explosive Racing | 44854 | [44854-explosive-racing.json](./44854-explosive-racing.json) |
