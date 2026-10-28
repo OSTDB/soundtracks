@@ -1932,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Keeper | 327638 | [327638-zoo-keeper.json](./327638-zoo-keeper.json) |
 | Zoo Keeper | 69987 | [69987-zoo-keeper.json](./69987-zoo-keeper.json) |
 | Zoo Keeper 3D | 222337 | [222337-zoo-keeper-3d.json](./222337-zoo-keeper-3d.json) |
+| Zoo Leap | 259961 | [259961-zoo-leap.json](./259961-zoo-leap.json) |
 | Zoo Maniacs Pinball | 97136 | [97136-zoo-maniacs-pinball.json](./97136-zoo-maniacs-pinball.json) |
 | Zoo Master | 133392 | [133392-zoo-master.json](./133392-zoo-master.json) |
 | Zoo Merge | 349307 | [349307-zoo-merge.json](./349307-zoo-merge.json) |
