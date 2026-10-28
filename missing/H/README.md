@@ -2102,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hashire! Chuukan Kanrishoku | 254930 | [254930-hashire-chuukan-kanrishoku.json](./254930-hashire-chuukan-kanrishoku.json) |
 | Hashiriya Drifter | 186282 | [186282-hashiriya-drifter.json](./186282-hashiriya-drifter.json) |
 | Hashrine | 271026 | [271026-hashrine.json](./271026-hashrine.json) |
+| Hashtag Bacon | 248409 | [248409-hashtag-bacon.json](./248409-hashtag-bacon.json) |
 | Hashtag Dungeon | 35942 | [35942-hashtag-dungeon.json](./35942-hashtag-dungeon.json) |
 | Hasicontent | 135041 | [135041-hasicontent.json](./135041-hasicontent.json) |
 | Hasshaku-sama to Love Come Suru | 395499 | [395499-hasshaku-sama-to-love-come-suru.json](./395499-hasshaku-sama-to-love-come-suru.json) |
@@ -2342,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House: Cryptic Graves | 17673 | [17673-haunted-house-cryptic-graves.json](./17673-haunted-house-cryptic-graves.json) |
 | Haunted House: The Murder | 171419 | [171419-haunted-house-the-murder.json](./171419-haunted-house-the-murder.json) |
 | Haunted Ice Cream | 375940 | [375940-haunted-ice-cream.json](./375940-haunted-ice-cream.json) |
+| Haunted Investigation | 248840 | [248840-haunted-investigation.json](./248840-haunted-investigation.json) |
 | Haunted Jail: Alcatas | 116980 | [116980-haunted-jail-alcatas.json](./116980-haunted-jail-alcatas.json) |
 | Haunted Laia | 193881 | [193881-haunted-laia.json](./193881-haunted-laia.json) |
 | Haunted Lands: Burial Grounds | 240502 | [240502-haunted-lands-burial-grounds.json](./240502-haunted-lands-burial-grounds.json) |
@@ -2956,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartlight | 57585 | [57585-heartlight.json](./57585-heartlight.json) |
 | Heartlight PC | 408254 | [408254-heartlight-pc.json](./408254-heartlight-pc.json) |
 | Heartlines | 390264 | [390264-heartlines.json](./390264-heartlines.json) |
+| HeartLink | 248396 | [248396-heartlink.json](./248396-heartlink.json) |
 | HeartLinks: A Puzzle Called Love | 153940 | [153940-heartlinks-a-puzzle-called-love.json](./153940-heartlinks-a-puzzle-called-love.json) |
 | Heartomics: Nokori | 33152 | [33152-heartomics-nokori.json](./33152-heartomics-nokori.json) |
 | Heartomics: Slime & Friends | 33163 | [33163-heartomics-slime-and-friends.json](./33163-heartomics-slime-and-friends.json) |
@@ -3544,11 +3547,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Red Army Cossack | 371024 | [371024-hell-let-loose-red-army-cossack.json](./371024-hell-let-loose-red-army-cossack.json) |
 | Hell Let Loose: Red Devils | 312015 | [312015-hell-let-loose-red-devils.json](./312015-hell-let-loose-red-devils.json) |
 | Hell Let Loose: Red Marshall | 371222 | [371222-hell-let-loose-red-marshall.json](./371222-hell-let-loose-red-marshall.json) |
+| Hell Let Loose: Red Steel | 248427 | [248427-hell-let-loose-red-steel.json](./248427-hell-let-loose-red-steel.json) |
 | Hell Let Loose: Silver Vanguard | 371225 | [371225-hell-let-loose-silver-vanguard.json](./371225-hell-let-loose-silver-vanguard.json) |
 | Hell Let Loose: Skull Bucket | 371227 | [371227-hell-let-loose-skull-bucket.json](./371227-hell-let-loose-skull-bucket.json) |
 | Hell Let Loose: Soviet Bundle | 274433 | [274433-hell-let-loose-soviet-bundle.json](./274433-hell-let-loose-soviet-bundle.json) |
 | Hell Let Loose: Spearhead Edition | 187975 | [187975-hell-let-loose-spearhead-edition.json](./187975-hell-let-loose-spearhead-edition.json) |
+| Hell Let Loose: Tropic Fever | 248425 | [248425-hell-let-loose-tropic-fever.json](./248425-hell-let-loose-tropic-fever.json) |
 | Hell Let Loose: Ultimate Edition | 273003 | [273003-hell-let-loose-ultimate-edition.json](./273003-hell-let-loose-ultimate-edition.json) |
+| Hell Let Loose: Upper Echelon | 248423 | [248423-hell-let-loose-upper-echelon.json](./248423-hell-let-loose-upper-echelon.json) |
 | Hell Let Loose: Vietnam | 362063 | [362063-hell-let-loose-vietnam.json](./362063-hell-let-loose-vietnam.json) |
 | Hell Let Loose: Wacht am Rhein Units | 332022 | [332022-hell-let-loose-wacht-am-rhein-units.json](./332022-hell-let-loose-wacht-am-rhein-units.json) |
 | Hell Let Loose: Western Desert Campaign Units | 372251 | [372251-hell-let-loose-western-desert-campaign-units.json](./372251-hell-let-loose-western-desert-campaign-units.json) |
@@ -5878,6 +5884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Beast | 189347 | [189347-hidden-beast.json](./189347-hidden-beast.json) |
 | Hidden Breaking Bed: Top-Down 3D | 269980 | [269980-hidden-breaking-bed-top-down-3d.json](./269980-hidden-breaking-bed-top-down-3d.json) |
 | Hidden Build Top-Down 3D | 192220 | [192220-hidden-build-top-down-3d.json](./192220-hidden-build-top-down-3d.json) |
+| Hidden Bunny | 248395 | [248395-hidden-bunny.json](./248395-hidden-bunny.json) |
 | Hidden Capybaras with Orange | 279502 | [279502-hidden-capybaras-with-orange.json](./279502-hidden-capybaras-with-orange.json) |
 | Hidden Capybaras with Orange and Pumpkins: Spooky Halloween Edition | 320320 | [320320-hidden-capybaras-with-orange-and-pumpkins-spooky-halloween-edition.json](./320320-hidden-capybaras-with-orange-and-pumpkins-spooky-halloween-edition.json) |
 | Hidden Capybaras with Orange in the Whimsical Library | 321138 | [321138-hidden-capybaras-with-orange-in-the-whimsical-library.json](./321138-hidden-capybaras-with-orange-in-the-whimsical-library.json) |
@@ -9236,13 +9243,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Burnin' Rubber | 49295 | [49295-hot-wheels-burnin-rubber.json](./49295-hot-wheels-burnin-rubber.json) |
 | Hot Wheels: Crash! | 74090 | [74090-hot-wheels-crash.json](./74090-hot-wheels-crash.json) |
 | Hot Wheels: Custom Car Designer | 313290 | [313290-hot-wheels-custom-car-designer.json](./313290-hot-wheels-custom-car-designer.json) |
+| Hot Wheels: Cyberpunk Customization Pack | 248411 | [248411-hot-wheels-cyberpunk-customization-pack.json](./248411-hot-wheels-cyberpunk-customization-pack.json) |
 | Hot Wheels: Extreme Racing | 45058 | [45058-hot-wheels-extreme-racing.json](./45058-hot-wheels-extreme-racing.json) |
+| Hot Wheels: Haunted Customization Pack | 248418 | [248418-hot-wheels-haunted-customization-pack.json](./248418-hot-wheels-haunted-customization-pack.json) |
+| Hot Wheels: Holiday Season Customization Pack | 248412 | [248412-hot-wheels-holiday-season-customization-pack.json](./248412-hot-wheels-holiday-season-customization-pack.json) |
+| Hot Wheels: Hot Rod Customization Pack | 248426 | [248426-hot-wheels-hot-rod-customization-pack.json](./248426-hot-wheels-hot-rod-customization-pack.json) |
 | Hot Wheels: Jetz | 166206 | [166206-hot-wheels-jetz.json](./166206-hot-wheels-jetz.json) |
 | Hot Wheels: Mechanix | 70991 | [70991-hot-wheels-mechanix.json](./70991-hot-wheels-mechanix.json) |
+| Hot Wheels: Outer Space Customization Pack | 248415 | [248415-hot-wheels-outer-space-customization-pack.json](./248415-hot-wheels-outer-space-customization-pack.json) |
+| Hot Wheels: Pink Fashion Customization Pack | 248424 | [248424-hot-wheels-pink-fashion-customization-pack.json](./248424-hot-wheels-pink-fashion-customization-pack.json) |
 | Hot Wheels: Race Off | 56246 | [56246-hot-wheels-race-off.json](./56246-hot-wheels-race-off.json) |
+| Hot Wheels: Retro Game Customization Pack | 248413 | [248413-hot-wheels-retro-game-customization-pack.json](./248413-hot-wheels-retro-game-customization-pack.json) |
 | Hot Wheels: Rift Rally | 254347 | [254347-hot-wheels-rift-rally.json](./254347-hot-wheels-rift-rally.json) |
+| Hot Wheels: Skaters Customization Pack | 248419 | [248419-hot-wheels-skaters-customization-pack.json](./248419-hot-wheels-skaters-customization-pack.json) |
 | Hot Wheels: Stunt Track Challenge | 248755 | [248755-hot-wheels-stunt-track-challenge.json](./248755-hot-wheels-stunt-track-challenge.json) |
 | Hot Wheels: Track Attack | 328299 | [328299-hot-wheels-track-attack.json](./328299-hot-wheels-track-attack.json) |
+| Hot Wheels: Tropical Wave Customization Pack | 248417 | [248417-hot-wheels-tropical-wave-customization-pack.json](./248417-hot-wheels-tropical-wave-customization-pack.json) |
 | Hot Wheels: Ultimate Racing | 44482 | [44482-hot-wheels-ultimate-racing.json](./44482-hot-wheels-ultimate-racing.json) |
 | Hot Wheels: Unlimited | 335815 | [335815-hot-wheels-unlimited.json](./335815-hot-wheels-unlimited.json) |
 | Hot Wheels: World's Best Driver | 10418 | [10418-hot-wheels-worlds-best-driver.json](./10418-hot-wheels-worlds-best-driver.json) |
