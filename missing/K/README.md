@@ -1778,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiaidan 00 | 42011 | [42011-kiaidan-00.json](./42011-kiaidan-00.json) |
 | Kiara and My Ara Ara Adventure | 156149 | [156149-kiara-and-my-ara-ara-adventure.json](./156149-kiara-and-my-ara-ara-adventure.json) |
 | Kiara and the Case of the Missing Chocolates | 181844 | [181844-kiara-and-the-case-of-the-missing-chocolates.json](./181844-kiara-and-the-case-of-the-missing-chocolates.json) |
+| KibaGames | 255478 | [255478-kibagames.json](./255478-kibagames.json) |
 | Kibble Cats | 410233 | [410233-kibble-cats.json](./410233-kibble-cats.json) |
 | Kibitz Bugs | 273852 | [273852-kibitz-bugs.json](./273852-kibitz-bugs.json) |
 | Kibo | 104395 | [104395-kibo.json](./104395-kibo.json) |
@@ -4861,6 +4862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kowloon's Gate VR: Suzaku | 49511 | [49511-kowloons-gate-vr-suzaku.json](./49511-kowloons-gate-vr-suzaku.json) |
 | Kowloon's Rhizome: A Day of the Fire - Vol. 1 | 255804 | [255804-kowloons-rhizome-a-day-of-the-fire-vol-1.json](./255804-kowloons-rhizome-a-day-of-the-fire-vol-1.json) |
 | Kowloon's Rhizome: A Day of the Fire - Vol. 2 | 255806 | [255806-kowloons-rhizome-a-day-of-the-fire-vol-2.json](./255806-kowloons-rhizome-a-day-of-the-fire-vol-2.json) |
+| Kowloon's Rhizome: A Day of the Fire - Vol. 3 | 255807 | [255807-kowloons-rhizome-a-day-of-the-fire-vol-3.json](./255807-kowloons-rhizome-a-day-of-the-fire-vol-3.json) |
 | Köy | 320997 | [320997-koy.json](./320997-koy.json) |
 | Koya Rift | 17953 | [17953-koya-rift.json](./17953-koya-rift.json) |
 | Koyaa | 384020 | [384020-koyaa.json](./384020-koyaa.json) |
