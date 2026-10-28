@@ -4812,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Astel and the Dark Curse | 377339 | [377339-the-adventures-of-astel-and-the-dark-curse.json](./377339-the-adventures-of-astel-and-the-dark-curse.json) |
 | The Adventures of Badgersaw: Chapter 1 | 333061 | [333061-the-adventures-of-badgersaw-chapter-1.json](./333061-the-adventures-of-badgersaw-chapter-1.json) |
 | The Adventures of Basildon Bond | 67700 | [67700-the-adventures-of-basildon-bond.json](./67700-the-adventures-of-basildon-bond.json) |
+| The Adventures of Batman & Robin | 234835 | [234835-the-adventures-of-batman-and-robin.json](./234835-the-adventures-of-batman-and-robin.json) |
 | The Adventures of Batman & Robin | 45203 | [45203-the-adventures-of-batman-and-robin.json](./45203-the-adventures-of-batman-and-robin.json) |
 | The Adventures of Batman & Robin: Activity Centre | 127639 | [127639-the-adventures-of-batman-and-robin-activity-centre.json](./127639-the-adventures-of-batman-and-robin-activity-centre.json) |
 | The Adventures of Batman & Robin: Tiger Barcodzz | 217728 | [217728-the-adventures-of-batman-and-robin-tiger-barcodzz.json](./217728-the-adventures-of-batman-and-robin-tiger-barcodzz.json) |
@@ -7122,6 +7123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deadly Path | 253835 | [253835-the-deadly-path.json](./253835-the-deadly-path.json) |
 | The Deadseat | 343226 | [343226-the-deadseat.json](./343226-the-deadseat.json) |
 | The Deal | 30118 | [30118-the-deal.json](./30118-the-deal.json) |
+| The Dealer | 234805 | [234805-the-dealer.json](./234805-the-dealer.json) |
 | The Dearest Person | 301630 | [301630-the-dearest-person.json](./301630-the-dearest-person.json) |
 | The Death and Return of Superman | 453 | [453-the-death-and-return-of-superman.json](./453-the-death-and-return-of-superman.json) |
 | The Death and the Vampire | 409818 | [409818-the-death-and-the-vampire.json](./409818-the-death-and-the-vampire.json) |
@@ -7254,6 +7256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil's Imago | 276009 | [276009-the-devils-imago.json](./276009-the-devils-imago.json) |
 | The Devil's Men | 7613 | [7613-the-devils-men.json](./7613-the-devils-men.json) |
 | The Devil's Route | 288698 | [288698-the-devils-route.json](./288698-the-devils-route.json) |
+| The Devil's Teeth | 234806 | [234806-the-devils-teeth.json](./234806-the-devils-teeth.json) |
 | The Devil's Womb | 122006 | [122006-the-devils-womb.json](./122006-the-devils-womb.json) |
 | The Devilry Reservation | 239673 | [239673-the-devilry-reservation.json](./239673-the-devilry-reservation.json) |
 | The Devilry Reservation 2 | 356599 | [356599-the-devilry-reservation-2.json](./356599-the-devilry-reservation-2.json) |
@@ -10080,6 +10083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Killbox: Leo | 223874 | [223874-the-killbox-leo.json](./223874-the-killbox-leo.json) |
 | The Killer of Dishonor | 150538 | [150538-the-killer-of-dishonor.json](./150538-the-killer-of-dishonor.json) |
 | The Killing Antidote | 287004 | [287004-the-killing-antidote.json](./287004-the-killing-antidote.json) |
+| The Killing Blade Plus | 234816 | [234816-the-killing-blade-plus.json](./234816-the-killing-blade-plus.json) |
 | The Killing Cloud | 12659 | [12659-the-killing-cloud.json](./12659-the-killing-cloud.json) |
 | The Killing Game of Thirst | 360903 | [360903-the-killing-game-of-thirst.json](./360903-the-killing-game-of-thirst.json) |
 | The Kind Camomille | 138494 | [138494-the-kind-camomille.json](./138494-the-kind-camomille.json) |
@@ -10517,6 +10521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hunt | 86613 | [86613-the-last-hunt.json](./86613-the-last-hunt.json) |
 | The Last Inca | 71771 | [71771-the-last-inca.json](./71771-the-last-inca.json) |
 | The Last Inquisition | 398375 | [398375-the-last-inquisition.json](./398375-the-last-inquisition.json) |
+| The Last Jade Dragon | 234871 | [234871-the-last-jade-dragon.json](./234871-the-last-jade-dragon.json) |
 | The Last Janitor: Data Cleanup | 361680 | [361680-the-last-janitor-data-cleanup.json](./361680-the-last-janitor-data-cleanup.json) |
 | The Last Job | 236792 | [236792-the-last-job.json](./236792-the-last-job.json) |
 | The Last Journey | 231538 | [231538-the-last-journey.json](./231538-the-last-journey.json) |
@@ -12875,6 +12880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Party | 135782 | [135782-the-party.json](./135782-the-party.json) |
 | The Party of Demons | 110727 | [110727-the-party-of-demons.json](./110727-the-party-of-demons.json) |
 | The Parvificent Seven | 223305 | [223305-the-parvificent-seven.json](./223305-the-parvificent-seven.json) |
+| The Passage | 234809 | [234809-the-passage.json](./234809-the-passage.json) |
 | The Passage of Time | 155869 | [155869-the-passage-of-time.json](./155869-the-passage-of-time.json) |
 | The Passenger | 266393 | [266393-the-passenger.json](./266393-the-passenger.json) |
 | The Password Game | 254888 | [254888-the-password-game.json](./254888-the-password-game.json) |
@@ -16622,6 +16628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch's Isle | 55764 | [55764-the-witchs-isle.json](./55764-the-witchs-isle.json) |
 | The Witch's Knight | 254745 | [254745-the-witchs-knight.json](./254745-the-witchs-knight.json) |
 | The Witch's Love Diary | 120528 | [120528-the-witchs-love-diary.json](./120528-the-witchs-love-diary.json) |
+| The Witch's Lullaby | 234810 | [234810-the-witchs-lullaby.json](./234810-the-witchs-lullaby.json) |
 | The Witch's Maze | 148315 | [148315-the-witchs-maze.json](./148315-the-witchs-maze.json) |
 | The Witch's Night Watch | 288988 | [288988-the-witchs-night-watch.json](./288988-the-witchs-night-watch.json) |
 | The Witch's Realm | 346583 | [346583-the-witchs-realm.json](./346583-the-witchs-realm.json) |
@@ -17178,6 +17185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's Nothing Underground | 331290 | [331290-theres-nothing-underground.json](./331290-theres-nothing-underground.json) |
 | There's Poop In My Soup | 33315 | [33315-theres-poop-in-my-soup.json](./33315-theres-poop-in-my-soup.json) |
 | There's Something in the Ice | 289956 | [289956-theres-something-in-the-ice.json](./289956-theres-something-in-the-ice.json) |
+| There's Something in the Pipes | 234811 | [234811-theres-something-in-the-pipes.json](./234811-theres-something-in-the-pipes.json) |
 | There’s Something Wrong With the Hero’s Choices | 401007 | [401007-there-s-something-wrong-with-the-hero-s-choices.json](./401007-there-s-something-wrong-with-the-hero-s-choices.json) |
 | There's something wrong with... | 289957 | [289957-theres-something-wrong-with.json](./289957-theres-something-wrong-with.json) |
 | There's This Girl | 134135 | [134135-theres-this-girl.json](./134135-theres-this-girl.json) |
@@ -22095,6 +22103,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater 2 | 259743 | [259743-tony-hawks-pro-skater-2.json](./259743-tony-hawks-pro-skater-2.json) |
 | Tony Hawk's Pro Skater 2x | 47325 | [47325-tony-hawks-pro-skater-2x.json](./47325-tony-hawks-pro-skater-2x.json) |
 | Tony Hawk's Pro Skater 3 | 194213 | [194213-tony-hawks-pro-skater-3.json](./194213-tony-hawks-pro-skater-3.json) |
+| Tony Hawk's Pro Skater 3 | 234858 | [234858-tony-hawks-pro-skater-3.json](./234858-tony-hawks-pro-skater-3.json) |
+| Tony Hawk's Pro Skater 3 | 234861 | [234861-tony-hawks-pro-skater-3.json](./234861-tony-hawks-pro-skater-3.json) |
 | Tony Hawk's Pro Skater 3 | 334248 | [334248-tony-hawks-pro-skater-3.json](./334248-tony-hawks-pro-skater-3.json) |
 | Tony Hawk's Pro Skater 3+4 | 334243 | [334243-tony-hawks-pro-skater-3-4.json](./334243-tony-hawks-pro-skater-3-4.json) |
 | Tony Hawk's Pro Skater 4 | 334249 | [334249-tony-hawks-pro-skater-4.json](./334249-tony-hawks-pro-skater-4.json) |
@@ -28326,6 +28336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn on the Light: Jigsaw | 253445 | [253445-turn-on-the-light-jigsaw.json](./253445-turn-on-the-light-jigsaw.json) |
 | Turn on the Lights Carefully | 238750 | [238750-turn-on-the-lights-carefully.json](./238750-turn-on-the-lights-carefully.json) |
 | Turn on the lights! Brain Game | 245782 | [245782-turn-on-the-lights-brain-game.json](./245782-turn-on-the-lights-brain-game.json) |
+| Turn Out the Lights | 234813 | [234813-turn-out-the-lights.json](./234813-turn-out-the-lights.json) |
 | Turn right | 167548 | [167548-turn-right.json](./167548-turn-right.json) |
 | Turn Run | 105124 | [105124-turn-run.json](./105124-turn-run.json) |
 | Turn Tack | 197919 | [197919-turn-tack.json](./197919-turn-tack.json) |
