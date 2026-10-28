@@ -2357,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Mother Twins Baby | 296743 | [296743-virtual-mother-twins-baby.json](./296743-virtual-mother-twins-baby.json) |
 | Virtual Murder 1: Who Killed Sam Rupert? | 73604 | [73604-virtual-murder-1-who-killed-sam-rupert.json](./73604-virtual-murder-1-who-killed-sam-rupert.json) |
 | Virtual Murder 2: The Magic Death | 71929 | [71929-virtual-murder-2-the-magic-death.json](./71929-virtual-murder-2-the-magic-death.json) |
+| Virtual Near Death Experience | 240614 | [240614-virtual-near-death-experience.json](./240614-virtual-near-death-experience.json) |
 | Virtual Ninja VR | 88064 | [88064-virtual-ninja-vr.json](./88064-virtual-ninja-vr.json) |
 | Virtual Perspective | 391756 | [391756-virtual-perspective.json](./391756-virtual-perspective.json) |
 | Virtual Pet | 315292 | [315292-virtual-pet.json](./315292-virtual-pet.json) |
@@ -2471,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtue's Heaven | 204432 | [204432-virtues-heaven.json](./204432-virtues-heaven.json) |
 | Virtuelle Moorhuhn Jagd | 282432 | [282432-virtuelle-moorhuhn-jagd.json](./282432-virtuelle-moorhuhn-jagd.json) |
 | Virtueror: The Virtual Conqueror | 216859 | [216859-virtueror-the-virtual-conqueror.json](./216859-virtueror-the-virtual-conqueror.json) |
+| Virtues | 240955 | [240955-virtues.json](./240955-virtues.json) |
 | VirtuGO | 55643 | [55643-virtugo.json](./55643-virtugo.json) |
 | Virtuoso GP Race: On | 373077 | [373077-virtuoso-gp-race-on.json](./373077-virtuoso-gp-race-on.json) |
 | Virtuoso Skins Game | 391886 | [391886-virtuoso-skins-game.json](./391886-virtuoso-skins-game.json) |
