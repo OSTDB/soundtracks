@@ -10748,6 +10748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Kung Fu Panda | 299203 | [299203-minecraft-kung-fu-panda.json](./299203-minecraft-kung-fu-panda.json) |
 | MInecraft: Lava Chicken | 327116 | [327116-minecraft-lava-chicken.json](./327116-minecraft-lava-chicken.json) |
 | Minecraft: Lightyear | 254263 | [254263-minecraft-lightyear.json](./254263-minecraft-lightyear.json) |
+| Minecraft: LittleBigPlanet Edition | 234238 | [234238-minecraft-littlebigplanet-edition.json](./234238-minecraft-littlebigplanet-edition.json) |
 | MInecraft: Marvel Avengers Skin Pack | 254877 | [254877-minecraft-marvel-avengers-skin-pack.json](./254877-minecraft-marvel-avengers-skin-pack.json) |
 | Minecraft: Mega Man X | 239210 | [239210-minecraft-mega-man-x.json](./239210-minecraft-mega-man-x.json) |
 | Minecraft: Minecon 2015 Skin Pack | 301522 | [301522-minecraft-minecon-2015-skin-pack.json](./301522-minecraft-minecon-2015-skin-pack.json) |
@@ -17518,6 +17519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Creampie Heaven | 173815 | [173815-my-creampie-heaven.json](./173815-my-creampie-heaven.json) |
 | My Crimes | 254309 | [254309-my-crimes.json](./254309-my-crimes.json) |
 | My Crush Beach Date Puzzle | 418322 | [418322-my-crush-beach-date-puzzle.json](./418322-my-crush-beach-date-puzzle.json) |
+| My Crush, My Bully | 234265 | [234265-my-crush-my-bully.json](./234265-my-crush-my-bully.json) |
 | My Cup of Coffee: Earl Grey Forever After | 57904 | [57904-my-cup-of-coffee-earl-grey-forever-after.json](./57904-my-cup-of-coffee-earl-grey-forever-after.json) |
 | My Cup of Coffee: The Trouble With Earl Grey | 57903 | [57903-my-cup-of-coffee-the-trouble-with-earl-grey.json](./57903-my-cup-of-coffee-the-trouble-with-earl-grey.json) |
 | My Cute Fuhrer | 280265 | [280265-my-cute-fuhrer.json](./280265-my-cute-fuhrer.json) |
@@ -18605,6 +18607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myriads: Renaissance | 176168 | [176168-myriads-renaissance.json](./176168-myriads-renaissance.json) |
 | Myriavora | 154584 | [154584-myriavora.json](./154584-myriavora.json) |
 | Myridian: The Last Stand | 128969 | [128969-myridian-the-last-stand.json](./128969-myridian-the-last-stand.json) |
+| Myristica | 234277 | [234277-myristica.json](./234277-myristica.json) |
 | Myrk: Echoes of the Forgotten | 367141 | [367141-myrk-echoes-of-the-forgotten.json](./367141-myrk-echoes-of-the-forgotten.json) |
 | Myrkwood: Offshoot | 369523 | [369523-myrkwood-offshoot.json](./369523-myrkwood-offshoot.json) |
 | Myrm Emblem | 279784 | [279784-myrm-emblem.json](./279784-myrm-emblem.json) |
