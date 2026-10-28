@@ -2642,6 +2642,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolhouse Note | 182160 | [182160-schoolhouse-note.json](./182160-schoolhouse-note.json) |
 | Schoolhouse Rock! Grammar Rock | 209767 | [209767-schoolhouse-rock-grammar-rock.json](./209767-schoolhouse-rock-grammar-rock.json) |
 | Schoolhouse Rock!: America Rock | 113469 | [113469-schoolhouse-rock-america-rock.json](./113469-schoolhouse-rock-america-rock.json) |
+| Schoolhouse Rock!: America Rock | 230449 | [230449-schoolhouse-rock-america-rock.json](./230449-schoolhouse-rock-america-rock.json) |
+| Schoolhouse Rock!: Grammar Rock | 230450 | [230450-schoolhouse-rock-grammar-rock.json](./230450-schoolhouse-rock-grammar-rock.json) |
 | Schoolhouse Rock!: Math Rock | 142707 | [142707-schoolhouse-rock-math-rock.json](./142707-schoolhouse-rock-math-rock.json) |
 | SchoolJump | 100539 | [100539-schooljump.json](./100539-schooljump.json) |
 | Schoolmare | 249381 | [249381-schoolmare.json](./249381-schoolmare.json) |
@@ -19480,6 +19482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: The Patrick Star Game | 314939 | [314939-spongebob-squarepants-the-patrick-star-game.json](./314939-spongebob-squarepants-the-patrick-star-game.json) |
 | SpongeBob SquarePants: The Yellow Avenger | 2770 | [2770-spongebob-squarepants-the-yellow-avenger.json](./2770-spongebob-squarepants-the-yellow-avenger.json) |
 | SpongeBob SquarePants: The Yellow Avenger | 281852 | [281852-spongebob-squarepants-the-yellow-avenger.json](./281852-spongebob-squarepants-the-yellow-avenger.json) |
+| SpongeBob SquarePants: Through the Wormhole | 230452 | [230452-spongebob-squarepants-through-the-wormhole.json](./230452-spongebob-squarepants-through-the-wormhole.json) |
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
 | SpongeBob SquarePants: Titans of the Tide - Double Deluxe Costume Pack DLC | 376251 | [376251-spongebob-squarepants-titans-of-the-tide-double-deluxe-costume-pack-dlc.json](./376251-spongebob-squarepants-titans-of-the-tide-double-deluxe-costume-pack-dlc.json) |
 | SpongeBob SquarePants: Titans of the Tide - Natural Costume Pack | 376252 | [376252-spongebob-squarepants-titans-of-the-tide-natural-costume-pack.json](./376252-spongebob-squarepants-titans-of-the-tide-natural-costume-pack.json) |
@@ -20403,8 +20406,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SSWK: Valentine's Day Special | 184966 | [184966-sswk-valentines-day-special.json](./184966-sswk-valentines-day-special.json) |
 | SSX | 4179 | [4179-ssx.json](./4179-ssx.json) |
 | SSX 3 | 186239 | [186239-ssx-3.json](./186239-ssx-3.json) |
+| SSX 3 | 230477 | [230477-ssx-3.json](./230477-ssx-3.json) |
 | SSX 3 | 4174 | [4174-ssx-3.json](./4174-ssx-3.json) |
 | SSX Blur | 4178 | [4178-ssx-blur.json](./4178-ssx-blur.json) |
+| SSX on Tour | 230478 | [230478-ssx-on-tour.json](./230478-ssx-on-tour.json) |
 | SSX on Tour | 4177 | [4177-ssx-on-tour.json](./4177-ssx-on-tour.json) |
 | SSX Tricky | 186240 | [186240-ssx-tricky.json](./186240-ssx-tricky.json) |
 | SSX: Out of Bounds | 47565 | [47565-ssx-out-of-bounds.json](./47565-ssx-out-of-bounds.json) |
@@ -22444,6 +22449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Safe 2020 | 156977 | [156977-stay-safe-2020.json](./156977-stay-safe-2020.json) |
 | Stay Safe: Labyrinth of the Mad | 120122 | [120122-stay-safe-labyrinth-of-the-mad.json](./120122-stay-safe-labyrinth-of-the-mad.json) |
 | Stay Sane | 294253 | [294253-stay-sane.json](./294253-stay-sane.json) |
+| Stay Still | 230470 | [230470-stay-still.json](./230470-stay-still.json) |
 | Stay Still 2 | 264156 | [264156-stay-still-2.json](./264156-stay-still-2.json) |
 | Stay Tooned! | 13786 | [13786-stay-tooned.json](./13786-stay-tooned.json) |
 | Stay With Him | 415505 | [415505-stay-with-him.json](./415505-stay-with-him.json) |
@@ -25478,6 +25484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku | 131505 | [131505-sudoku.json](./131505-sudoku.json) |
 | Sudoku | 224170 | [224170-sudoku.json](./224170-sudoku.json) |
 | Sudoku | 224171 | [224171-sudoku.json](./224171-sudoku.json) |
+| Sudoku | 230462 | [230462-sudoku.json](./230462-sudoku.json) |
 | Sudoku | 246366 | [246366-sudoku.json](./246366-sudoku.json) |
 | Sudoku | 259415 | [259415-sudoku.json](./259415-sudoku.json) |
 | Sudoku | 263395 | [263395-sudoku.json](./263395-sudoku.json) |
