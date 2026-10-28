@@ -10994,6 +10994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombing!! 2: A Graffiti Paradise | 225700 | [225700-bombing-2-a-graffiti-paradise.json](./225700-bombing-2-a-graffiti-paradise.json) |
 | Bombing!!: A Graffiti Sandbox | 144933 | [144933-bombing-a-graffiti-sandbox.json](./144933-bombing-a-graffiti-sandbox.json) |
 | Bombini | 129579 | [129579-bombini.json](./129579-bombini.json) |
+| BomBliss | 263865 | [263865-bombliss.json](./263865-bombliss.json) |
 | Bombman | 111190 | [111190-bombman.json](./111190-bombman.json) |
 | Bombman | 42141 | [42141-bombman.json](./42141-bombman.json) |
 | BombMaze | 370168 | [370168-bombmaze.json](./370168-bombmaze.json) |
@@ -15229,6 +15230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burden of 80 Proof | 230248 | [230248-burden-of-80-proof.json](./230248-burden-of-80-proof.json) |
 | Burden of Command | 54935 | [54935-burden-of-command.json](./54935-burden-of-command.json) |
 | Burden of Proof | 105198 | [105198-burden-of-proof.json](./105198-burden-of-proof.json) |
+| Burden of the Blue | 264181 | [264181-burden-of-the-blue.json](./264181-burden-of-the-blue.json) |
 | Burden of Truth | 306714 | [306714-burden-of-truth.json](./306714-burden-of-truth.json) |
 | Burden RPG | 388403 | [388403-burden-rpg.json](./388403-burden-rpg.json) |
 | Burden Street Station | 347812 | [347812-burden-street-station.json](./347812-burden-street-station.json) |
