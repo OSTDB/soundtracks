@@ -3098,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End the Endless | 338716 | [338716-end-the-endless.json](./338716-end-the-endless.json) |
 | End Them, Soldier! | 347690 | [347690-end-them-soldier.json](./347690-end-them-soldier.json) |
 | End Transmission? | 339751 | [339751-end-transmission.json](./339751-end-transmission.json) |
+| End Up Alone | 261396 | [261396-end-up-alone.json](./261396-end-up-alone.json) |
 | End War RTS | 105711 | [105711-end-war-rts.json](./105711-end-war-rts.json) |
 | End War RTS 2 | 160234 | [160234-end-war-rts-2.json](./160234-end-war-rts-2.json) |
 | End's beginning | 310715 | [310715-ends-beginning.json](./310715-ends-beginning.json) |
@@ -6978,6 +6979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Bankikki | 204247 | [204247-extreme-bankikki.json](./204247-extreme-bankikki.json) |
 | Extreme Basketball | 86104 | [86104-extreme-basketball.json](./86104-extreme-basketball.json) |
 | Extreme Bikers | 234473 | [234473-extreme-bikers.json](./234473-extreme-bikers.json) |
+| Extreme Bus Driver 2024 | 261401 | [261401-extreme-bus-driver-2024.json](./261401-extreme-bus-driver-2024.json) |
 | Extreme Bus Driver Simulator | 261763 | [261763-extreme-bus-driver-simulator.json](./261763-extreme-bus-driver-simulator.json) |
 | Extreme Car Drift Simulator | 234197 | [234197-extreme-car-drift-simulator.json](./234197-extreme-car-drift-simulator.json) |
 | Extreme Car Driver | 165608 | [165608-extreme-car-driver.json](./165608-extreme-car-driver.json) |
