@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Dragon Clicker: Expansion Pack 1 | 263188 | [263188-idle-dragon-clicker-expansion-pack-1.json](./263188-idle-dragon-clicker-expansion-pack-1.json) |
 | Idle Dragon Clicker: Expansion Pack 2 | 263312 | [263312-idle-dragon-clicker-expansion-pack-2.json](./263312-idle-dragon-clicker-expansion-pack-2.json) |
 | Idle Dragon Clicker: Expansion Pack 3 | 263315 | [263315-idle-dragon-clicker-expansion-pack-3.json](./263315-idle-dragon-clicker-expansion-pack-3.json) |
+| Idle Drift Kings | 233710 | [233710-idle-drift-kings.json](./233710-idle-drift-kings.json) |
 | Idle Dungeon | 285365 | [285365-idle-dungeon.json](./285365-idle-dungeon.json) |
 | Idle Dungeons | 103476 | [103476-idle-dungeons.json](./103476-idle-dungeons.json) |
 | Idle Dunk Masters | 106663 | [106663-idle-dunk-masters.json](./106663-idle-dunk-masters.json) |
