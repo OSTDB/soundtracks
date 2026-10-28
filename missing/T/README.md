@@ -11654,6 +11654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic Candle | 235346 | [235346-the-magic-candle.json](./235346-the-magic-candle.json) |
 | The Magic Candle III | 70948 | [70948-the-magic-candle-iii.json](./70948-the-magic-candle-iii.json) |
 | The Magic Circle: Gold Edition | 99755 | [99755-the-magic-circle-gold-edition.json](./99755-the-magic-circle-gold-edition.json) |
+| The Magic Cooking Pot | 260824 | [260824-the-magic-cooking-pot.json](./260824-the-magic-cooking-pot.json) |
 | The Magic Elevator | 148810 | [148810-the-magic-elevator.json](./148810-the-magic-elevator.json) |
 | The Magic Flute | 60386 | [60386-the-magic-flute.json](./60386-the-magic-flute.json) |
 | The Magic Garden | 320545 | [320545-the-magic-garden.json](./320545-the-magic-garden.json) |
@@ -17349,6 +17350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirteen Souls | 129770 | [129770-thirteen-souls.json](./129770-thirteen-souls.json) |
 | Thirty Cycles | 200710 | [200710-thirty-cycles.json](./200710-thirty-cycles.json) |
 | Thirty Eternal Days | 187153 | [187153-thirty-eternal-days.json](./187153-thirty-eternal-days.json) |
+| Thirty Monsters Challenge | 260506 | [260506-thirty-monsters-challenge.json](./260506-thirty-monsters-challenge.json) |
 | Thirty Monsters Challenge 2: Thirty Aliens | 313964 | [313964-thirty-monsters-challenge-2-thirty-aliens.json](./313964-thirty-monsters-challenge-2-thirty-aliens.json) |
 | Thirty One Rummy | 87545 | [87545-thirty-one-rummy.json](./87545-thirty-one-rummy.json) |
 | This Ain't A Normal Game | 177206 | [177206-this-aint-a-normal-game.json](./177206-this-aint-a-normal-game.json) |
@@ -17374,6 +17376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Girl Does Not Exist | 215727 | [215727-this-girl-does-not-exist.json](./215727-this-girl-does-not-exist.json) |
 | This Grand Life | 59250 | [59250-this-grand-life.json](./59250-this-grand-life.json) |
 | This Grand Life 2 | 253572 | [253572-this-grand-life-2.json](./253572-this-grand-life-2.json) |
+| This Hack Needs a Name | 260822 | [260822-this-hack-needs-a-name.json](./260822-this-hack-needs-a-name.json) |
 | This hole in my chest | 176242 | [176242-this-hole-in-my-chest.json](./176242-this-hole-in-my-chest.json) |
 | This House Eats People | 325394 | [325394-this-house-eats-people.json](./325394-this-house-eats-people.json) |
 | This House Looks Familiar | 176969 | [176969-this-house-looks-familiar.json](./176969-this-house-looks-familiar.json) |
@@ -22292,6 +22295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torch of Shadows | 374074 | [374074-torch-of-shadows.json](./374074-torch-of-shadows.json) |
 | Torchbear | 341898 | [341898-torchbear.json](./341898-torchbear.json) |
 | Torched | 370799 | [370799-torched.json](./370799-torched.json) |
+| Torcher: Arsonist of Evil | 260838 | [260838-torcher-arsonist-of-evil.json](./260838-torcher-arsonist-of-evil.json) |
 | Torches of Fate | 133458 | [133458-torches-of-fate.json](./133458-torches-of-fate.json) |
 | Torchless | 329112 | [329112-torchless.json](./329112-torchless.json) |
 | Torchlight III | 106987 | [106987-torchlight-iii.json](./106987-torchlight-iii.json) |
