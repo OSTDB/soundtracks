@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Racer | 50040 | [50040-halloween-racer.json](./50040-halloween-racer.json) |
 | Halloween Revenge | 310620 | [310620-halloween-revenge.json](./310620-halloween-revenge.json) |
 | Halloween Riddles Mysterious Griddlers | 168430 | [168430-halloween-riddles-mysterious-griddlers.json](./168430-halloween-riddles-mysterious-griddlers.json) |
+| Halloween Run! | 232099 | [232099-halloween-run.json](./232099-halloween-run.json) |
 | Halloween Scrooge | 178250 | [178250-halloween-scrooge.json](./178250-halloween-scrooge.json) |
 | Halloween Secrets: The Blood Vow | 416583 | [416583-halloween-secrets-the-blood-vow.json](./416583-halloween-secrets-the-blood-vow.json) |
 | Halloween Secrets: The Blood Vow - Collector's Edition | 362829 | [362829-halloween-secrets-the-blood-vow-collectors-edition.json](./362829-halloween-secrets-the-blood-vow-collectors-edition.json) |
@@ -5565,6 +5566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Tunnel | 43070 | [43070-hex-tunnel.json](./43070-hex-tunnel.json) |
 | Hex Tunnel Touch | 100602 | [100602-hex-tunnel-touch.json](./100602-hex-tunnel-touch.json) |
 | Hex Two | 102218 | [102218-hex-two.json](./102218-hex-two.json) |
+| Hex Words: Word Search | 232124 | [232124-hex-words-word-search.json](./232124-hex-words-word-search.json) |
 | Hex-a-Hop | 261303 | [261303-hex-a-hop.json](./261303-hex-a-hop.json) |
 | Hex-Mix | 253246 | [253246-hex-mix.json](./253246-hex-mix.json) |
 | Hex: Origins | 63738 | [63738-hex-origins.json](./63738-hex-origins.json) |
@@ -5846,6 +5848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi Crossword-Word Puzzle Game | 87253 | [87253-hi-crossword-word-puzzle-game.json](./87253-hi-crossword-word-puzzle-game.json) |
 | Hi Eggplant: The Birth of Sprites | 245850 | [245850-hi-eggplant-the-birth-of-sprites.json](./245850-hi-eggplant-the-birth-of-sprites.json) |
 | Hi Eggplant! | 211040 | [211040-hi-eggplant.json](./211040-hi-eggplant.json) |
+| Hi Guess the Movie 2016 | 232111 | [232111-hi-guess-the-movie-2016.json](./232111-hi-guess-the-movie-2016.json) |
 | Hi Hi Puffy AmiYumi Treasure Island | 141151 | [141151-hi-hi-puffy-amiyumi-treasure-island.json](./141151-hi-hi-puffy-amiyumi-treasure-island.json) |
 | Hi Hi Puffy AmiYumi: Kaznapped! | 2819 | [2819-hi-hi-puffy-amiyumi-kaznapped.json](./2819-hi-hi-puffy-amiyumi-kaznapped.json) |
 | Hi Hi Puffy AmiYumi: The Genie and the Amp | 2818 | [2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json](./2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json) |
