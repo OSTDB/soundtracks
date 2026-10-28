@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magi: Aratanaru Sekai | 222480 | [222480-magi-aratanaru-sekai.json](./222480-magi-aratanaru-sekai.json) |
 | Magi: Hajimari no Meikyuu | 191666 | [191666-magi-hajimari-no-meikyuu.json](./191666-magi-hajimari-no-meikyuu.json) |
 | Magi: Mind Game | 197917 | [197917-magi-mind-game.json](./197917-magi-mind-game.json) |
+| Magi's Dream | 252532 | [252532-magis-dream.json](./252532-magis-dream.json) |
 | Magia Para Todos | 86111 | [86111-magia-para-todos.json](./86111-magia-para-todos.json) |
 | Magia Record | 231933 | [231933-magia-record.json](./231933-magia-record.json) |
 | Magia Story | 244762 | [244762-magia-story.json](./244762-magia-story.json) |
@@ -6300,6 +6301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Your Maker: Sector 2 Bundle | 268837 | [268837-meet-your-maker-sector-2-bundle.json](./268837-meet-your-maker-sector-2-bundle.json) |
 | Meet Your Maker: Sector 2 Cosmetic Collection | 267293 | [267293-meet-your-maker-sector-2-cosmetic-collection.json](./267293-meet-your-maker-sector-2-cosmetic-collection.json) |
 | Meet Your Maker: Sector 3 Arsenal Pack | 284882 | [284882-meet-your-maker-sector-3-arsenal-pack.json](./284882-meet-your-maker-sector-3-arsenal-pack.json) |
+| Meet Your Mate | 252939 | [252939-meet-your-mate.json](./252939-meet-your-mate.json) |
 | Meet.Hunter | 96479 | [96479-meet-hunter.json](./96479-meet-hunter.json) |
 | Meet'N'Fuck Denise Milani | 221728 | [221728-meetnfuck-denise-milani.json](./221728-meetnfuck-denise-milani.json) |
 | Meet'N'Fuck Hawaiian Vacation | 221625 | [221625-meetnfuck-hawaiian-vacation.json](./221625-meetnfuck-hawaiian-vacation.json) |
@@ -9757,6 +9759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Swamp | 318198 | [318198-midnight-swamp.json](./318198-midnight-swamp.json) |
 | Midnight Syndrome | 304648 | [304648-midnight-syndrome.json](./304648-midnight-syndrome.json) |
 | Midnight Taco | 336497 | [336497-midnight-taco.json](./336497-midnight-taco.json) |
+| Midnight Tales Vol.3: Christmas | 252541 | [252541-midnight-tales-vol-3-christmas.json](./252541-midnight-tales-vol-3-christmas.json) |
 | Midnight Terror: The Beginning | 192260 | [192260-midnight-terror-the-beginning.json](./192260-midnight-terror-the-beginning.json) |
 | Midnight Terrors | 395705 | [395705-midnight-terrors.json](./395705-midnight-terrors.json) |
 | Midnight Therapy | 388938 | [388938-midnight-therapy.json](./388938-midnight-therapy.json) |
