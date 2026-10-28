@@ -3416,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Trust | 383614 | [383614-dead-trust.json](./383614-dead-trust.json) |
 | Dead Tunnel | 192651 | [192651-dead-tunnel.json](./192651-dead-tunnel.json) |
 | Dead Turn | 410284 | [410284-dead-turn.json](./410284-dead-turn.json) |
+| Dead Unending | 234268 | [234268-dead-unending.json](./234268-dead-unending.json) |
 | Dead Venture | 234609 | [234609-dead-venture.json](./234609-dead-venture.json) |
 | Dead War Rise of Zombies | 305647 | [305647-dead-war-rise-of-zombies.json](./305647-dead-war-rise-of-zombies.json) |
 | Dead Watch | 347900 | [347900-dead-watch.json](./347900-dead-watch.json) |
@@ -4273,6 +4274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deceit 2 | 239561 | [239561-deceit-2.json](./239561-deceit-2.json) |
 | Deceit 2: Master Edition | 331267 | [331267-deceit-2-master-edition.json](./331267-deceit-2-master-edition.json) |
 | Deceitful Devotions | 227945 | [227945-deceitful-devotions.json](./227945-deceitful-devotions.json) |
+| Deceive Inc.: Black Tie Edition | 234244 | [234244-deceive-inc-black-tie-edition.json](./234244-deceive-inc-black-tie-edition.json) |
 | Deceive Inc.: Misery Empire | 246571 | [246571-deceive-inc-misery-empire.json](./246571-deceive-inc-misery-empire.json) |
 | Deceive Inc.: Neon Nights | 257432 | [257432-deceive-inc-neon-nights.json](./257432-deceive-inc-neon-nights.json) |
 | Deceive Inc.: Of Queens and Kings | 272493 | [272493-deceive-inc-of-queens-and-kings.json](./272493-deceive-inc-of-queens-and-kings.json) |
@@ -7857,6 +7859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digiclimb | 402281 | [402281-digiclimb.json](./402281-digiclimb.json) |
 | DigiGods: Build and Battle | 325874 | [325874-digigods-build-and-battle.json](./325874-digigods-build-and-battle.json) |
 | Digimon | 194324 | [194324-digimon.json](./194324-digimon.json) |
+| Digimon | 234255 | [234255-digimon.json](./234255-digimon.json) |
 | Digimon 2 | 247398 | [247398-digimon-2.json](./247398-digimon-2.json) |
 | Digimon 20th Anniversary Digivice | 270626 | [270626-digimon-20th-anniversary-digivice.json](./270626-digimon-20th-anniversary-digivice.json) |
 | Digimon 6 | 247399 | [247399-digimon-6.json](./247399-digimon-6.json) |
