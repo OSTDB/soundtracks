@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jan Pienkowski Haunted House | 186076 | [186076-jan-pienkowski-haunted-house.json](./186076-jan-pienkowski-haunted-house.json) |
 | Jan Sangoku Musou | 64360 | [64360-jan-sangoku-musou.json](./64360-jan-sangoku-musou.json) |
 | Jancer | 423253 | [423253-jancer.json](./423253-jancer.json) |
+| Jandou II | 279451 | [279451-jandou-ii.json](./279451-jandou-ii.json) |
 | JanduSoft Games Bundle Vol. 1 | 247493 | [247493-jandusoft-games-bundle-vol-1.json](./247493-jandusoft-games-bundle-vol-1.json) |
 | Jane & John | 208571 | [208571-jane-and-john.json](./208571-jane-and-john.json) |
 | Jane Angel 2: Fallen Heaven | 156606 | [156606-jane-angel-2-fallen-heaven.json](./156606-jane-angel-2-fallen-heaven.json) |
