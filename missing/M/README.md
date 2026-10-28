@@ -1595,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnus Trainer - Learn & Train Chess | 95800 | [95800-magnus-trainer-learn-and-train-chess.json](./95800-magnus-trainer-learn-and-train-chess.json) |
 | Magnus Trilogy | 297726 | [297726-magnus-trilogy.json](./297726-magnus-trilogy.json) |
 | Magnussoft's Colossus Chess | 91540 | [91540-magnussofts-colossus-chess.json](./91540-magnussofts-colossus-chess.json) |
+| Magnytour | 244402 | [244402-magnytour.json](./244402-magnytour.json) |
 | Mago | 120365 | [120365-mago.json](./120365-mago.json) |
 | Magocracy | 70339 | [70339-magocracy.json](./70339-magocracy.json) |
 | Magocracy: Experimentation | 223342 | [223342-magocracy-experimentation.json](./223342-magocracy-experimentation.json) |
@@ -10035,6 +10036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike V: Skateboard Party HD | 87709 | [87709-mike-v-skateboard-party-hd.json](./87709-mike-v-skateboard-party-hd.json) |
 | Mike was Cursed | 75763 | [75763-mike-was-cursed.json](./75763-mike-was-cursed.json) |
 | Mike's Arcade | 227975 | [227975-mikes-arcade.json](./227975-mikes-arcade.json) |
+| Mike's Garden | 244421 | [244421-mikes-garden.json](./244421-mikes-garden.json) |
 | Mike's Lonely Journey | 286616 | [286616-mikes-lonely-journey.json](./286616-mikes-lonely-journey.json) |
 | Mike's Monstrous Adventure | 202087 | [202087-mikes-monstrous-adventure.json](./202087-mikes-monstrous-adventure.json) |
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
@@ -14370,6 +14372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon: Premium Edition | 136965 | [136965-moon-premium-edition.json](./136965-moon-premium-edition.json) |
 | Moon: Remix RPG Adventure | 73672 | [73672-moon-remix-rpg-adventure.json](./73672-moon-remix-rpg-adventure.json) |
 | Moon: The Final Word | 21222 | [21222-moon-the-final-word.json](./21222-moon-the-final-word.json) |
+| Moon's Creed | 244424 | [244424-moons-creed.json](./244424-moons-creed.json) |
 | Moon64 | 339946 | [339946-moon64.json](./339946-moon64.json) |
 | Moonatees | 29161 | [29161-moonatees.json](./29161-moonatees.json) |
 | Moonbase | 94230 | [94230-moonbase.json](./94230-moonbase.json) |
@@ -17047,6 +17050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musings in Nonograms | 418592 | [418592-musings-in-nonograms.json](./418592-musings-in-nonograms.json) |
 | Musiverse | 245189 | [245189-musiverse.json](./245189-musiverse.json) |
 | Musix | 138596 | [138596-musix.json](./138596-musix.json) |
+| Musket & Pike: Great Northern War | 244408 | [244408-musket-and-pike-great-northern-war.json](./244408-musket-and-pike-great-northern-war.json) |
 | Musket & Pike: Seven Years War | 132004 | [132004-musket-and-pike-seven-years-war.json](./132004-musket-and-pike-seven-years-war.json) |
 | Musket Smoke | 262593 | [262593-musket-smoke.json](./262593-musket-smoke.json) |
 | Musketeer | 365793 | [365793-musketeer.json](./365793-musketeer.json) |
