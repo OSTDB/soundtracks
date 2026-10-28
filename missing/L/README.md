@@ -3375,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethis: Path of Progress II | 116438 | [116438-lethis-path-of-progress-ii.json](./116438-lethis-path-of-progress-ii.json) |
 | Leticia Land | 183464 | [183464-leticia-land.json](./183464-leticia-land.json) |
 | Letifer | 267831 | [267831-letifer.json](./267831-letifer.json) |
+| Letiste | 273192 | [273192-letiste.json](./273192-letiste.json) |
 | LetMeOut | 275991 | [275991-letmeout.json](./275991-letmeout.json) |
 | LetMeSee | 406295 | [406295-letmesee.json](./406295-letmesee.json) |
 | Letreco | 186524 | [186524-letreco.json](./186524-letreco.json) |
@@ -6885,6 +6886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Heroes | 184333 | [184333-lost-heroes.json](./184333-lost-heroes.json) |
 | Lost Heroes | 64953 | [64953-lost-heroes.json](./64953-lost-heroes.json) |
 | Lost Heroes 2 | 136916 | [136916-lost-heroes-2.json](./136916-lost-heroes-2.json) |
+| Lost Highway | 273196 | [273196-lost-highway.json](./273196-lost-highway.json) |
 | Lost Hope | 285919 | [285919-lost-hope.json](./285919-lost-hope.json) |
 | Lost Hope: Backrooms | 266786 | [266786-lost-hope-backrooms.json](./266786-lost-hope-backrooms.json) |
 | Lost Hopes: Day of Betrayal | 415468 | [415468-lost-hopes-day-of-betrayal.json](./415468-lost-hopes-day-of-betrayal.json) |
