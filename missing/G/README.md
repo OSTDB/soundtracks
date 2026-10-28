@@ -218,7 +218,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabrielle's Ghostly Groove 3D | 23520 | [23520-gabrielles-ghostly-groove-3d.json](./23520-gabrielles-ghostly-groove-3d.json) |
 | Gabrielle's Ghostly Groove Mini | 85159 | [85159-gabrielles-ghostly-groove-mini.json](./85159-gabrielles-ghostly-groove-mini.json) |
 | Gabrielle's Ghostly Groove: Monster Mix | 23666 | [23666-gabrielles-ghostly-groove-monster-mix.json](./23666-gabrielles-ghostly-groove-monster-mix.json) |
+| Gabrielle's Monster Match | 274843 | [274843-gabrielles-monster-match.json](./274843-gabrielles-monster-match.json) |
 | Gabrielle's Monstrous Duel | 420184 | [420184-gabrielles-monstrous-duel.json](./420184-gabrielles-monstrous-duel.json) |
+| Gabrielle's Sweet Defense | 274846 | [274846-gabrielles-sweet-defense.json](./274846-gabrielles-sweet-defense.json) |
+| Gabrielle's Zombie Attack | 274845 | [274845-gabrielles-zombie-attack.json](./274845-gabrielles-zombie-attack.json) |
 | Gabyouden | 375381 | [375381-gabyouden.json](./375381-gabyouden.json) |
 | Gacha Addict Simulator | 326198 | [326198-gacha-addict-simulator.json](./326198-gacha-addict-simulator.json) |
 | Gacha Adventure | 375323 | [375323-gacha-adventure.json](./375323-gacha-adventure.json) |
@@ -2012,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gay Joker | 303315 | [303315-gay-joker.json](./303315-gay-joker.json) |
 | Gay Monopoly | 319542 | [319542-gay-monopoly.json](./319542-gay-monopoly.json) |
 | Gay Mukankei: Kidnapping a Maid Has Nothing to Do With Being Gay!! | 362069 | [362069-gay-mukankei-kidnapping-a-maid-has-nothing-to-do-with-being-gay.json](./362069-gay-mukankei-kidnapping-a-maid-has-nothing-to-do-with-being-gay.json) |
+| Gay Sex Adventures: Episode 1 | 275155 | [275155-gay-sex-adventures-episode-1.json](./275155-gay-sex-adventures-episode-1.json) |
 | Gay Sex Adventures: Episode 2 | 280663 | [280663-gay-sex-adventures-episode-2.json](./280663-gay-sex-adventures-episode-2.json) |
 | Gay Sex Adventures: Episode 4 | 290803 | [290803-gay-sex-adventures-episode-4.json](./290803-gay-sex-adventures-episode-4.json) |
 | Gay Sex Adventures: Episode 7 | 301646 | [301646-gay-sex-adventures-episode-7.json](./301646-gay-sex-adventures-episode-7.json) |
@@ -5821,6 +5825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomi x Chou Trash x Talk | 350959 | [350959-gomi-x-chou-trash-x-talk.json](./350959-gomi-x-chou-trash-x-talk.json) |
 | Gomiboru | 333017 | [333017-gomiboru.json](./333017-gomiboru.json) |
 | Gomo | 7552 | [7552-gomo.json](./7552-gomo.json) |
+| Gomoku | 274865 | [274865-gomoku.json](./274865-gomoku.json) |
 | Gomoku | 413065 | [413065-gomoku.json](./413065-gomoku.json) |
 | Gomoku and Renju | 44350 | [44350-gomoku-and-renju.json](./44350-gomoku-and-renju.json) |
 | Gomoku HD | 106453 | [106453-gomoku-hd.json](./106453-gomoku-hd.json) |
