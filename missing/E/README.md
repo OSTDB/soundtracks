@@ -620,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eburnean | 98296 | [98296-eburnean.json](./98296-eburnean.json) |
 | Ecchi 2: compile 2D chan | 111638 | [111638-ecchi-2-compile-2d-chan.json](./111638-ecchi-2-compile-2d-chan.json) |
 | Ecchi Beauties | 173821 | [173821-ecchi-beauties.json](./173821-ecchi-beauties.json) |
+| Ecchi Beauties 2 | 233707 | [233707-ecchi-beauties-2.json](./233707-ecchi-beauties-2.json) |
 | Ecchi Blast Vol. 1 | 317892 | [317892-ecchi-blast-vol-1.json](./317892-ecchi-blast-vol-1.json) |
 | Ecchi Breaker | 378797 | [378797-ecchi-breaker.json](./378797-ecchi-breaker.json) |
 | Ecchi Cards | 104846 | [104846-ecchi-cards.json](./104846-ecchi-cards.json) |
@@ -1901,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electro Freddy | 13631 | [13631-electro-freddy.json](./13631-electro-freddy.json) |
 | Electro Game Collection | 301366 | [301366-electro-game-collection.json](./301366-electro-game-collection.json) |
 | Electro Havoc | 367989 | [367989-electro-havoc.json](./367989-electro-havoc.json) |
+| Electro Magnate | 233708 | [233708-electro-magnate.json](./233708-electro-magnate.json) |
 | Electro Man | 70109 | [70109-electro-man.json](./70109-electro-man.json) |
 | Electro Pong VR | 51729 | [51729-electro-pong-vr.json](./51729-electro-pong-vr.json) |
 | Electro Racer | 67056 | [67056-electro-racer.json](./67056-electro-racer.json) |
@@ -5046,6 +5048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espace | 346090 | [346090-espace.json](./346090-espace.json) |
 | Espacio | 202252 | [202252-espacio.json](./202252-espacio.json) |
 | Espacio | 361104 | [361104-espacio.json](./361104-espacio.json) |
+| Espada de Sheris | 233691 | [233691-espada-de-sheris.json](./233691-espada-de-sheris.json) |
 | Espagnol avec Rayman | 193348 | [193348-espagnol-avec-rayman.json](./193348-espagnol-avec-rayman.json) |
 | Espalion | 266487 | [266487-espalion.json](./266487-espalion.json) |
 | Espana 1936 | 129582 | [129582-espana-1936.json](./129582-espana-1936.json) |
