@@ -1178,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Touch: Wizard for Hire | 117755 | [117755-magic-touch-wizard-for-hire.json](./117755-magic-touch-wizard-for-hire.json) |
 | Magic Tower | 161372 | [161372-magic-tower.json](./161372-magic-tower.json) |
 | Magic Tower | 210644 | [210644-magic-tower.json](./210644-magic-tower.json) |
+| Magic Tower | 267517 | [267517-magic-tower.json](./267517-magic-tower.json) |
 | Magic Tower | 81118 | [81118-magic-tower.json](./81118-magic-tower.json) |
 | Magic Tower 2018 | 111628 | [111628-magic-tower-2018.json](./111628-magic-tower-2018.json) |
 | Magic Tower Adventure | 173803 | [173803-magic-tower-adventure.json](./173803-magic-tower-adventure.json) |
@@ -1234,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack Three | 362467 | [362467-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-three.json](./362467-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-three.json) |
 | Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack Two | 362466 | [362466-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-two.json](./362466-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-two.json) |
 | Magic: The Gathering - Spells of the Ancients | 79082 | [79082-magic-the-gathering-spells-of-the-ancients.json](./79082-magic-the-gathering-spells-of-the-ancients.json) |
+| Magic: The Gathering 7th Edition Starter | 267507 | [267507-magic-the-gathering-7th-edition-starter.json](./267507-magic-the-gathering-7th-edition-starter.json) |
 | Magic: The Gathering Arena | 54538 | [54538-magic-the-gathering-arena.json](./54538-magic-the-gathering-arena.json) |
 | Magic: The Gathering Online | 79081 | [79081-magic-the-gathering-online.json](./79081-magic-the-gathering-online.json) |
 | Magica Arena | 216088 | [216088-magica-arena.json](./216088-magica-arena.json) |
@@ -2119,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majoriko Inbikai Inbizone | 92071 | [92071-majoriko-inbikai-inbizone.json](./92071-majoriko-inbikai-inbizone.json) |
 | Majou Densetsu II: Daimashikyou Galious | 48866 | [48866-majou-densetsu-ii-daimashikyou-galious.json](./48866-majou-densetsu-ii-daimashikyou-galious.json) |
 | Majoukko Princess - Mefi's Great Strategy for Recapturing the Castle- | 292052 | [292052-majoukko-princess-mefis-great-strategy-for-recapturing-the-castle.json](./292052-majoukko-princess-mefis-great-strategy-for-recapturing-the-castle.json) |
+| Majukes Tower Defense | 267193 | [267193-majukes-tower-defense.json](./267193-majukes-tower-defense.json) |
 | Majula Frontier | 108184 | [108184-majula-frontier.json](./108184-majula-frontier.json) |
 | Majulah | 367965 | [367965-majulah.json](./367965-majulah.json) |
 | Majustsushi Rintiara | 174123 | [174123-majustsushi-rintiara.json](./174123-majustsushi-rintiara.json) |
