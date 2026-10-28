@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports MVP Bundle | 308590 | [308590-ea-sports-mvp-bundle.json](./308590-ea-sports-mvp-bundle.json) |
 | EA Sports NASCAR Racing | 269525 | [269525-ea-sports-nascar-racing.json](./269525-ea-sports-nascar-racing.json) |
 | EA Sports PGA Tour | 145232 | [145232-ea-sports-pga-tour.json](./145232-ea-sports-pga-tour.json) |
+| EA Sports PGA Tour: Deluxe Edition | 232637 | [232637-ea-sports-pga-tour-deluxe-edition.json](./232637-ea-sports-pga-tour-deluxe-edition.json) |
 | EA Sports UFC 2: Deluxe Edition | 89842 | [89842-ea-sports-ufc-2-deluxe-edition.json](./89842-ea-sports-ufc-2-deluxe-edition.json) |
 | EA Sports UFC 3 | 75297 | [75297-ea-sports-ufc-3.json](./75297-ea-sports-ufc-3.json) |
 | EA Sports UFC 3: Champions Edition | 89837 | [89837-ea-sports-ufc-3-champions-edition.json](./89837-ea-sports-ufc-3-champions-edition.json) |
