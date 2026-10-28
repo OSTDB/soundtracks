@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L-Way | 105150 | [105150-l-way.json](./105150-l-way.json) |
 | L: An Interactive Mystery | 178883 | [178883-l-an-interactive-mystery.json](./178883-l-an-interactive-mystery.json) |
 | L. Frank Baum's: The Wonderful Wizard of Oz | 64852 | [64852-l-frank-baums-the-wonderful-wizard-of-oz.json](./64852-l-frank-baums-the-wonderful-wizard-of-oz.json) |
+| L.3.3.T. | 248422 | [248422-l-3-3-t.json](./248422-l-3-3-t.json) |
 | L.A. 2 | 92125 | [92125-l-a-2.json](./92125-l-a-2.json) |
 | L.A. Crackdown | 55091 | [55091-l-a-crackdown.json](./55091-l-a-crackdown.json) |
 | L.A. Machineguns: Rage of the Machines | 39478 | [39478-l-a-machineguns-rage-of-the-machines.json](./39478-l-a-machineguns-rage-of-the-machines.json) |
@@ -2178,6 +2179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend 64 | 261297 | [261297-legend-64.json](./261297-legend-64.json) |
 | Legend creatures | 128256 | [128256-legend-creatures.json](./128256-legend-creatures.json) |
 | Legend Creatures 2 | 257382 | [257382-legend-creatures-2.json](./257382-legend-creatures-2.json) |
+| Legend Hunters | 248830 | [248830-legend-hunters.json](./248830-legend-hunters.json) |
 | Legend Knight | 95170 | [95170-legend-knight.json](./95170-legend-knight.json) |
 | Legend of a Soul Hunter | 201531 | [201531-legend-of-a-soul-hunter.json](./201531-legend-of-a-soul-hunter.json) |
 | Legend of a Volcano | 202116 | [202116-legend-of-a-volcano.json](./202116-legend-of-a-volcano.json) |
@@ -8267,6 +8269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LUL inc. | 186238 | [186238-lul-inc.json](./186238-lul-inc.json) |
 | Lula 3D | 3712 | [3712-lula-3d.json](./3712-lula-3d.json) |
 | Lula Flipper | 94525 | [94525-lula-flipper.json](./94525-lula-flipper.json) |
+| Lula na Rampa | 248836 | [248836-lula-na-rampa.json](./248836-lula-na-rampa.json) |
 | Lula Virtual Babe | 94697 | [94697-lula-virtual-babe.json](./94697-lula-virtual-babe.json) |
 | Lula: The Sexy Empire | 11679 | [11679-lula-the-sexy-empire.json](./11679-lula-the-sexy-empire.json) |
 | Lulanda | 363006 | [363006-lulanda.json](./363006-lulanda.json) |
