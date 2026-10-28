@@ -7021,6 +7021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dearest Person | 301630 | [301630-the-dearest-person.json](./301630-the-dearest-person.json) |
 | The Death and Return of Superman | 453 | [453-the-death-and-return-of-superman.json](./453-the-death-and-return-of-superman.json) |
 | The Death and the Vampire | 409818 | [409818-the-death-and-the-vampire.json](./409818-the-death-and-the-vampire.json) |
+| The Death Focal | 277448 | [277448-the-death-focal.json](./277448-the-death-focal.json) |
 | The Death Forest | 348446 | [348446-the-death-forest.json](./348446-the-death-forest.json) |
 | The Death Into Trouble | 151125 | [151125-the-death-into-trouble.json](./151125-the-death-into-trouble.json) |
 | The Death Night Show | 320324 | [320324-the-death-night-show.json](./320324-the-death-night-show.json) |
@@ -7292,6 +7293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dragon's Prophecy | 223320 | [223320-the-dragons-prophecy.json](./223320-the-dragons-prophecy.json) |
 | The Dragon's Turnabout | 303025 | [303025-the-dragons-turnabout.json](./303025-the-dragons-turnabout.json) |
 | The Dragoness: Command of the Flame | 211984 | [211984-the-dragoness-command-of-the-flame.json](./211984-the-dragoness-command-of-the-flame.json) |
+| The Dragonhood | 277461 | [277461-the-dragonhood.json](./277461-the-dragonhood.json) |
 | The Dragons' Twilight II | 121010 | [121010-the-dragons-twilight-ii.json](./121010-the-dragons-twilight-ii.json) |
 | The Dragons' Twilight III | 339204 | [339204-the-dragons-twilight-iii.json](./339204-the-dragons-twilight-iii.json) |
 | The Dragonspire | 306087 | [306087-the-dragonspire.json](./306087-the-dragonspire.json) |
@@ -14630,6 +14632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spell | 113759 | [113759-the-spell.json](./113759-the-spell.json) |
 | The Spell Brigade | 297683 | [297683-the-spell-brigade.json](./297683-the-spell-brigade.json) |
 | The Spellbinding Kiss | 299534 | [299534-the-spellbinding-kiss.json](./299534-the-spellbinding-kiss.json) |
+| The Spellswapper | 277449 | [277449-the-spellswapper.json](./277449-the-spellswapper.json) |
 | The Speris Legacy | 15565 | [15565-the-speris-legacy.json](./15565-the-speris-legacy.json) |
 | The Spewnicorn | 301249 | [301249-the-spewnicorn.json](./301249-the-spewnicorn.json) |
 | The Sphere | 407456 | [407456-the-sphere.json](./407456-the-sphere.json) |
@@ -28408,6 +28411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twist Up! | 103571 | [103571-twist-up.json](./103571-twist-up.json) |
 | Twist: 01 Timun Mas | 214626 | [214626-twist-01-timun-mas.json](./214626-twist-01-timun-mas.json) |
 | Twist: Majapahit | 214625 | [214625-twist-majapahit.json](./214625-twist-majapahit.json) |
+| Twista | 277442 | [277442-twista.json](./277442-twista.json) |
 | Twistbot | 182709 | [182709-twistbot.json](./182709-twistbot.json) |
 | Twistcan | 333467 | [333467-twistcan.json](./333467-twistcan.json) |
 | Twisted | 30260 | [30260-twisted.json](./30260-twisted.json) |
@@ -28462,6 +28466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twistingo | 206061 | [206061-twistingo.json](./206061-twistingo.json) |
 | Twistingo: Bird Paradise - Collector's Edition | 236204 | [236204-twistingo-bird-paradise-collectors-edition.json](./236204-twistingo-bird-paradise-collectors-edition.json) |
 | Twistingo: Collector's Edition | 211708 | [211708-twistingo-collectors-edition.json](./211708-twistingo-collectors-edition.json) |
+| Twistingo: Hummingbird Haven - Collector's Edition | 277127 | [277127-twistingo-hummingbird-haven-collectors-edition.json](./277127-twistingo-hummingbird-haven-collectors-edition.json) |
 | Twistingo: Tree of Life - Collector's Edition | 416168 | [416168-twistingo-tree-of-life-collectors-edition.json](./416168-twistingo-tree-of-life-collectors-edition.json) |
 | Twistingo: Turtle Bay - Collector's Edition | 261668 | [261668-twistingo-turtle-bay-collectors-edition.json](./261668-twistingo-turtle-bay-collectors-edition.json) |
 | TwistoMaze | 132186 | [132186-twistomaze.json](./132186-twistomaze.json) |
