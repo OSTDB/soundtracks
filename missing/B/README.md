@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baker Business 3 | 235967 | [235967-baker-business-3.json](./235967-baker-business-3.json) |
 | Baker Business 3: Halloween Pack | 263107 | [263107-baker-business-3-halloween-pack.json](./263107-baker-business-3-halloween-pack.json) |
 | Baker Business 3: Spring Pack | 243049 | [243049-baker-business-3-spring-pack.json](./243049-baker-business-3-spring-pack.json) |
+| Baker Street Breakouts | 274852 | [274852-baker-street-breakouts.json](./274852-baker-street-breakouts.json) |
 | Baker Street Breakouts: A Sherlockian Escape Adventure | 231870 | [231870-baker-street-breakouts-a-sherlockian-escape-adventure.json](./231870-baker-street-breakouts-a-sherlockian-escape-adventure.json) |
 | Baker's Agony | 330475 | [330475-bakers-agony.json](./330475-bakers-agony.json) |
 | Baker's Dozen | 260859 | [260859-bakers-dozen.json](./260859-bakers-dozen.json) |
@@ -1840,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banja | 93537 | [93537-banja.json](./93537-banja.json) |
 | Banja Band | 293216 | [293216-banja-band.json](./293216-banja-band.json) |
 | Banjax | 15660 | [15660-banjax.json](./15660-banjax.json) |
+| Banjo Kazooie: Tooty Adventure | 274841 | [274841-banjo-kazooie-tooty-adventure.json](./274841-banjo-kazooie-tooty-adventure.json) |
 | Banjo X | 194643 | [194643-banjo-x.json](./194643-banjo-x.json) |
 | Banjo-Kazooie & The Quest for Cake | 294713 | [294713-banjo-kazooie-and-the-quest-for-cake.json](./294713-banjo-kazooie-and-the-quest-for-cake.json) |
 | Banjo-Kazooie 4: Quest for Kurkoins | 313060 | [313060-banjo-kazooie-4-quest-for-kurkoins.json](./313060-banjo-kazooie-4-quest-for-kurkoins.json) |
@@ -6569,6 +6571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Scale Racing | 69842 | [69842-big-scale-racing.json](./69842-big-scale-racing.json) |
 | Big Scary | 372271 | [372271-big-scary.json](./372271-big-scary.json) |
 | Big Screen Games: Pack 1 | 197383 | [197383-big-screen-games-pack-1.json](./197383-big-screen-games-pack-1.json) |
+| Big Screen Games: Pack 2 | 275149 | [275149-big-screen-games-pack-2.json](./275149-big-screen-games-pack-2.json) |
 | Big Screen Sudoku | 269476 | [269476-big-screen-sudoku.json](./269476-big-screen-sudoku.json) |
 | Big Sea | 14301 | [14301-big-sea.json](./14301-big-sea.json) |
 | Big Sea Fishing | 342263 | [342263-big-sea-fishing.json](./342263-big-sea-fishing.json) |
@@ -8449,6 +8452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast'N Bounty | 410376 | [410376-blastn-bounty.json](./410376-blastn-bounty.json) |
 | Blastar | 14317 | [14317-blastar.json](./14317-blastar.json) |
 | Blastar | 267582 | [267582-blastar.json](./267582-blastar.json) |
+| Blastar | 274848 | [274848-blastar.json](./274848-blastar.json) |
 | BlastArena.io | 75410 | [75410-blastarena-io.json](./75410-blastarena-io.json) |
 | Blastarock! | 196842 | [196842-blastarock.json](./196842-blastarock.json) |
 | Blastboard | 129124 | [129124-blastboard.json](./129124-blastboard.json) |
@@ -9977,6 +9981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxter | 84267 | [84267-bloxter.json](./84267-bloxter.json) |
 | Bloxy Puzzles | 106511 | [106511-bloxy-puzzles.json](./106511-bloxy-puzzles.json) |
 | Bloxyz | 32609 | [32609-bloxyz.json](./32609-bloxyz.json) |
+| BLT Blast | 274862 | [274862-blt-blast.json](./274862-blt-blast.json) |
 | Blu Bandana | 44198 | [44198-blu-bandana.json](./44198-blu-bandana.json) |
 | Blu-Dude In The Quest for Chocolate Milk | 312164 | [312164-blu-dude-in-the-quest-for-chocolate-milk.json](./312164-blu-dude-in-the-quest-for-chocolate-milk.json) |
 | Blub | 274497 | [274497-blub.json](./274497-blub.json) |
@@ -15797,6 +15802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzzsaw | 60760 | [60760-buzzsaw.json](./60760-buzzsaw.json) |
 | Buzzsaw Cat | 184407 | [184407-buzzsaw-cat.json](./184407-buzzsaw-cat.json) |
 | Buzzsaw+ | 403761 | [403761-buzzsaw.json](./403761-buzzsaw.json) |
+| Buzzy Bee | 274854 | [274854-buzzy-bee.json](./274854-buzzy-bee.json) |
 | Buzzy's World Tour | 336545 | [336545-buzzys-world-tour.json](./336545-buzzys-world-tour.json) |
 | BvB: Burglars vs. Brats | 275875 | [275875-bvb-burglars-vs-brats.json](./275875-bvb-burglars-vs-brats.json) |
 | Bvoid | 91079 | [91079-bvoid.json](./91079-bvoid.json) |
