@@ -2137,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of the Ark: The Long Awakening | 410014 | [410014-legacy-of-the-ark-the-long-awakening.json](./410014-legacy-of-the-ark-the-long-awakening.json) |
 | Legacy of the Dragonborn | 356218 | [356218-legacy-of-the-dragonborn.json](./356218-legacy-of-the-dragonborn.json) |
 | Legacy of the Elder Star | 33555 | [33555-legacy-of-the-elder-star.json](./33555-legacy-of-the-elder-star.json) |
+| Legacy Of The Legends | 252191 | [252191-legacy-of-the-legends.json](./252191-legacy-of-the-legends.json) |
 | Legacy of the Pact | 230877 | [230877-legacy-of-the-pact.json](./230877-legacy-of-the-pact.json) |
 | Legacy of the Stones | 117730 | [117730-legacy-of-the-stones.json](./117730-legacy-of-the-stones.json) |
 | Legacy of the Times | 59964 | [59964-legacy-of-the-times.json](./59964-legacy-of-the-times.json) |
@@ -4902,6 +4903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Downcast | 387510 | [387510-lisa-the-downcast.json](./387510-lisa-the-downcast.json) |
 | Lisa: The Gluttonous | 382794 | [382794-lisa-the-gluttonous.json](./382794-lisa-the-gluttonous.json) |
 | Lisa: The Heartless | 345354 | [345354-lisa-the-heartless.json](./345354-lisa-the-heartless.json) |
+| Lisa: The Joyful - Definitive Edition | 252189 | [252189-lisa-the-joyful-definitive-edition.json](./252189-lisa-the-joyful-definitive-edition.json) |
 | Lisa: The Oblivious | 215082 | [215082-lisa-the-oblivious.json](./215082-lisa-the-oblivious.json) |
 | Lisa: The Painful | 8492 | [8492-lisa-the-painful.json](./8492-lisa-the-painful.json) |
 | Lisa: The Painful - Fractured Bonds | 221767 | [221767-lisa-the-painful-fractured-bonds.json](./221767-lisa-the-painful-fractured-bonds.json) |
