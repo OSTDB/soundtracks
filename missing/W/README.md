@@ -3961,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers in the Dark | 165417 | [165417-whispers-in-the-dark.json](./165417-whispers-in-the-dark.json) |
 | Whispers in the Dark | 275423 | [275423-whispers-in-the-dark.json](./275423-whispers-in-the-dark.json) |
 | Whispers in the Fog | 347871 | [347871-whispers-in-the-fog.json](./347871-whispers-in-the-fog.json) |
+| Whispers in the Moss | 236480 | [236480-whispers-in-the-moss.json](./236480-whispers-in-the-moss.json) |
 | Whispers in the Shadows | 295555 | [295555-whispers-in-the-shadows.json](./295555-whispers-in-the-shadows.json) |
 | Whispers in the Void | 287705 | [287705-whispers-in-the-void.json](./287705-whispers-in-the-void.json) |
 | Whispers in the Wood | 328198 | [328198-whispers-in-the-wood.json](./328198-whispers-in-the-wood.json) |
