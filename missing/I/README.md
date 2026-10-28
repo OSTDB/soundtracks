@@ -2182,7 +2182,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortals Fenyx Rising: A New God | 142848 | [142848-immortals-fenyx-rising-a-new-god.json](./142848-immortals-fenyx-rising-a-new-god.json) |
 | Immortals Fenyx Rising: Gold Edition | 139859 | [139859-immortals-fenyx-rising-gold-edition.json](./139859-immortals-fenyx-rising-gold-edition.json) |
 | Immortals Fenyx Rising: Limited Edition | 139850 | [139850-immortals-fenyx-rising-limited-edition.json](./139850-immortals-fenyx-rising-limited-edition.json) |
-| Immortals Fenyx Rising: Myths of the Eastern Realm | 144579 | [144579-immortals-fenyx-rising-myths-of-the-eastern-realm.json](./144579-immortals-fenyx-rising-myths-of-the-eastern-realm.json) |
 | Immortals Fenyx Rising: Season Pass | 293724 | [293724-immortals-fenyx-rising-season-pass.json](./293724-immortals-fenyx-rising-season-pass.json) |
 | Immortals Fenyx Rising: The Lost Gods | 144580 | [144580-immortals-fenyx-rising-the-lost-gods.json](./144580-immortals-fenyx-rising-the-lost-gods.json) |
 | Immortals Must Die | 287880 | [287880-immortals-must-die.json](./287880-immortals-must-die.json) |
