@@ -1201,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Educational Virtual Reality Campus | 341608 | [341608-educational-virtual-reality-campus.json](./341608-educational-virtual-reality-campus.json) |
 | Educator 2076: Basics in Education | 111678 | [111678-educator-2076-basics-in-education.json](./111678-educator-2076-basics-in-education.json) |
 | Edward Grabowski's: The Blue & The Gray | 74065 | [74065-edward-grabowskis-the-blue-and-the-gray.json](./74065-edward-grabowskis-the-blue-and-the-gray.json) |
+| Edward's Journey | 258075 | [258075-edwards-journey.json](./258075-edwards-journey.json) |
 | Edward's Manor | 319349 | [319349-edwards-manor.json](./319349-edwards-manor.json) |
 | Edward's Sewer Adventure | 304109 | [304109-edwards-sewer-adventure.json](./304109-edwards-sewer-adventure.json) |
 | Edwardo | 190016 | [190016-edwardo.json](./190016-edwardo.json) |
@@ -2266,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Forces: WWII - Desert Rats | 23470 | [23470-elite-forces-wwii-desert-rats.json](./23470-elite-forces-wwii-desert-rats.json) |
 | Elite Hacker: Retro Hacking Evolution | 316569 | [316569-elite-hacker-retro-hacking-evolution.json](./316569-elite-hacker-retro-hacking-evolution.json) |
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
+| Elite Rogue | 258044 | [258044-elite-rogue.json](./258044-elite-rogue.json) |
 | Elite Shooter: Sniper Killer | 175696 | [175696-elite-shooter-sniper-killer.json](./175696-elite-shooter-sniper-killer.json) |
 | Elite Sniper Shooter 2 | 245215 | [245215-elite-sniper-shooter-2.json](./245215-elite-sniper-shooter-2.json) |
 | Elite Soldier Shooter | 219452 | [219452-elite-soldier-shooter.json](./219452-elite-soldier-shooter.json) |
@@ -5400,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etrian Odyssey Origins Collection: Limited Edition | 236687 | [236687-etrian-odyssey-origins-collection-limited-edition.json](./236687-etrian-odyssey-origins-collection-limited-edition.json) |
 | Etrian Odyssey Untold: The Millennium Girl | 6768 | [6768-etrian-odyssey-untold-the-millennium-girl.json](./6768-etrian-odyssey-untold-the-millennium-girl.json) |
 | Etrian Odyssey V: Beyond the Myth | 18224 | [18224-etrian-odyssey-v-beyond-the-myth.json](./18224-etrian-odyssey-v-beyond-the-myth.json) |
+| Etrom: 20th Anniversary Edition | 258054 | [258054-etrom-20th-anniversary-edition.json](./258054-etrom-20th-anniversary-edition.json) |
 | Etrom: The Astral Essence | 72086 | [72086-etrom-the-astral-essence.json](./72086-etrom-the-astral-essence.json) |
 | Etsuraku no Gakuen | 280843 | [280843-etsuraku-no-gakuen.json](./280843-etsuraku-no-gakuen.json) |
 | Ettermag | 176364 | [176364-ettermag.json](./176364-ettermag.json) |
@@ -6057,6 +6060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evhacon 2 | 129607 | [129607-evhacon-2.json](./129607-evhacon-2.json) |
 | Eviction | 267800 | [267800-eviction.json](./267800-eviction.json) |
 | Evidence 111 | 232401 | [232401-evidence-111.json](./232401-evidence-111.json) |
+| Evidence Destroyer | 257758 | [257758-evidence-destroyer.json](./257758-evidence-destroyer.json) |
 | Evidence of 96' | 398358 | [398358-evidence-of-96.json](./398358-evidence-of-96.json) |
 | Evidence of Life | 111424 | [111424-evidence-of-life.json](./111424-evidence-of-life.json) |
 | Evidence: The Last Report | 71461 | [71461-evidence-the-last-report.json](./71461-evidence-the-last-report.json) |
