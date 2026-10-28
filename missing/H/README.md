@@ -2654,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Games | 152351 | [152351-head-games.json](./152351-head-games.json) |
 | Head Games and Tank Battle Retro | 238047 | [238047-head-games-and-tank-battle-retro.json](./238047-head-games-and-tank-battle-retro.json) |
 | Head Goal: Soccer Online | 54447 | [54447-head-goal-soccer-online.json](./54447-head-goal-soccer-online.json) |
+| Head Hunters | 250980 | [250980-head-hunters.json](./250980-head-hunters.json) |
 | Head It!: VR Soccer Heading Game | 30754 | [30754-head-it-vr-soccer-heading-game.json](./30754-head-it-vr-soccer-heading-game.json) |
 | Head Mode | 178948 | [178948-head-mode.json](./178948-head-mode.json) |
 | Head North: The Inevitable | 269604 | [269604-head-north-the-inevitable.json](./269604-head-north-the-inevitable.json) |
@@ -4064,6 +4065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help! My Giant Goth Girlfriend Is Insane | 418858 | [418858-help-my-giant-goth-girlfriend-is-insane.json](./418858-help-my-giant-goth-girlfriend-is-insane.json) |
 | Help! My New Roommate Is a Hung Goth Futanari Ghost! | 369164 | [369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json](./369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json) |
 | Helper to Hero | 271410 | [271410-helper-to-hero.json](./271410-helper-to-hero.json) |
+| Helping Ani | 249833 | [249833-helping-ani.json](./249833-helping-ani.json) |
 | Helping Frankenstein | 96581 | [96581-helping-frankenstein.json](./96581-helping-frankenstein.json) |
 | Helping Hand | 104858 | [104858-helping-hand.json](./104858-helping-hand.json) |
 | Helping Hand | 365739 | [365739-helping-hand.json](./365739-helping-hand.json) |
@@ -8901,6 +8903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horsez | 5096 | [5096-horsez.json](./5096-horsez.json) |
 | Horsle | 314416 | [314416-horsle.json](./314416-horsle.json) |
 | Horst: Der Ultimatives Rollenspiel | 285437 | [285437-horst-der-ultimatives-rollenspiel.json](./285437-horst-der-ultimatives-rollenspiel.json) |
+| Hortal | 251139 | [251139-hortal.json](./251139-hortal.json) |
 | Horticular: Complete Edition | 395680 | [395680-horticular-complete-edition.json](./395680-horticular-complete-edition.json) |
 | Horticular: Frozen Frontier | 395687 | [395687-horticular-frozen-frontier.json](./395687-horticular-frozen-frontier.json) |
 | Horton Genetics: Breach | 414260 | [414260-horton-genetics-breach.json](./414260-horton-genetics-breach.json) |
