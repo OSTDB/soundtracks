@@ -2065,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkan: Iron Strategy | 7701 | [7701-parkan-iron-strategy.json](./7701-parkan-iron-strategy.json) |
 | Parkan: The Imperial Chronicles | 7700 | [7700-parkan-the-imperial-chronicles.json](./7700-parkan-the-imperial-chronicles.json) |
 | Parkasaurus | 76422 | [76422-parkasaurus.json](./76422-parkasaurus.json) |
+| Parkasaurus: Prehistoric Wonders | 251775 | [251775-parkasaurus-prehistoric-wonders.json](./251775-parkasaurus-prehistoric-wonders.json) |
 | Parkasaurus: Sea Monsters | 195749 | [195749-parkasaurus-sea-monsters.json](./195749-parkasaurus-sea-monsters.json) |
 | Parked in the Dark | 128281 | [128281-parked-in-the-dark.json](./128281-parked-in-the-dark.json) |
 | Parker & Lane | 87999 | [87999-parker-and-lane.json](./87999-parker-and-lane.json) |
