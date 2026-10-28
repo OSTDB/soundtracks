@@ -1414,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Hunt | 165625 | [165625-happy-hunt.json](./165625-happy-hunt.json) |
 | Happy Island Fantasy | 369871 | [369871-happy-island-fantasy.json](./369871-happy-island-fantasy.json) |
 | Happy Island Life | 194862 | [194862-happy-island-life.json](./194862-happy-island-life.json) |
+| Happy Jogging in Hawaii | 259697 | [259697-happy-jogging-in-hawaii.json](./259697-happy-jogging-in-hawaii.json) |
 | Happy Jump | 112902 | [112902-happy-jump.json](./112902-happy-jump.json) |
 | Happy Lab | 252573 | [252573-happy-lab.json](./252573-happy-lab.json) |
 | Happy Landing Bundle: Evel Knievel + Finnigan Fox + Cornhole | 386789 | [386789-happy-landing-bundle-evel-knievel-finnigan-fox-cornhole.json](./386789-happy-landing-bundle-evel-knievel-finnigan-fox-cornhole.json) |
@@ -2166,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsukoi Master Up | 329945 | [329945-hatsukoi-master-up.json](./329945-hatsukoi-master-up.json) |
 | Hatsukoi Monogatari | 330102 | [330102-hatsukoi-monogatari.json](./330102-hatsukoi-monogatari.json) |
 | Hatsukoi Monogatari | 330209 | [330209-hatsukoi-monogatari.json](./330209-hatsukoi-monogatari.json) |
+| Hatsukoi Sankaime | 259615 | [259615-hatsukoi-sankaime.json](./259615-hatsukoi-sankaime.json) |
 | Hatsukoi, Mikan ni Tsuki Tsuzuku | 394076 | [394076-hatsukoi-mikan-ni-tsuki-tsuzuku.json](./394076-hatsukoi-mikan-ni-tsuki-tsuzuku.json) |
 | Hatsukoi! | 122109 | [122109-hatsukoi.json](./122109-hatsukoi.json) |
 | Hatsumira: From the Future Undying | 197543 | [197543-hatsumira-from-the-future-undying.json](./197543-hatsumira-from-the-future-undying.json) |
@@ -5426,6 +5428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeroStory | 289273 | [289273-herostory.json](./289273-herostory.json) |
 | HeroSurvival | 248148 | [248148-herosurvival.json](./248148-herosurvival.json) |
 | Herotome | 364377 | [364377-herotome.json](./364377-herotome.json) |
+| HeroTower | 259677 | [259677-herotower.json](./259677-herotower.json) |
 | HeroVersus | 239750 | [239750-heroversus.json](./239750-heroversus.json) |
 | HeroVersus: The Legend of Ki Masters | 113622 | [113622-heroversus-the-legend-of-ki-masters.json](./113622-heroversus-the-legend-of-ki-masters.json) |
 | HeroWarz | 62524 | [62524-herowarz.json](./62524-herowarz.json) |
