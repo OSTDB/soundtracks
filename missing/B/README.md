@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Glitchfield | 407807 | [407807-backrooms-glitchfield.json](./407807-backrooms-glitchfield.json) |
 | Backrooms: Hide Together | 340939 | [340939-backrooms-hide-together.json](./340939-backrooms-hide-together.json) |
 | Backrooms: Imposter | 384916 | [384916-backrooms-imposter.json](./384916-backrooms-imposter.json) |
+| Backrooms: Infinite Halls | 264736 | [264736-backrooms-infinite-halls.json](./264736-backrooms-infinite-halls.json) |
 | Backrooms: Inside the Escape | 324985 | [324985-backrooms-inside-the-escape.json](./324985-backrooms-inside-the-escape.json) |
 | Backrooms: Labyrinth Glitch | 407803 | [407803-backrooms-labyrinth-glitch.json](./407803-backrooms-labyrinth-glitch.json) |
 | Backrooms: Last Chance | 407802 | [407802-backrooms-last-chance.json](./407802-backrooms-last-chance.json) |
@@ -3215,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for the Sun | 24338 | [24338-battle-for-the-sun.json](./24338-battle-for-the-sun.json) |
 | Battle for the Sun: 3D First Person Shooter Action Game | 90429 | [90429-battle-for-the-sun-3d-first-person-shooter-action-game.json](./90429-battle-for-the-sun-3d-first-person-shooter-action-game.json) |
 | Battle for the Void | 248901 | [248901-battle-for-the-void.json](./248901-battle-for-the-void.json) |
+| Battle for Treasure | 264715 | [264715-battle-for-treasure.json](./264715-battle-for-treasure.json) |
 | Battle for Troy | 27463 | [27463-battle-for-troy.json](./27463-battle-for-troy.json) |
 | Battle for Wesnoth | 2365 | [2365-battle-for-wesnoth.json](./2365-battle-for-wesnoth.json) |
 | Battle for Wesnoth HD | 94778 | [94778-battle-for-wesnoth-hd.json](./94778-battle-for-wesnoth-hd.json) |
@@ -3509,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Stations | 136864 | [136864-battle-stations.json](./136864-battle-stations.json) |
 | Battle Stations | 20136 | [20136-battle-stations.json](./20136-battle-stations.json) |
 | Battle Stations | 95473 | [95473-battle-stations.json](./95473-battle-stations.json) |
+| Battle Stations Blockade | 264733 | [264733-battle-stations-blockade.json](./264733-battle-stations-blockade.json) |
 | Battle Steed: Gunma | 165642 | [165642-battle-steed-gunma.json](./165642-battle-steed-gunma.json) |
 | Battle Storm | 48583 | [48583-battle-storm.json](./48583-battle-storm.json) |
 | Battle Street | 336704 | [336704-battle-street.json](./336704-battle-street.json) |
@@ -5585,6 +5588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benchmark Your Skills | 326252 | [326252-benchmark-your-skills.json](./326252-benchmark-your-skills.json) |
 | Bend-jo | 362934 | [362934-bend-jo.json](./362934-bend-jo.json) |
 | Bender 2: Bend Harder | 319163 | [319163-bender-2-bend-harder.json](./319163-bender-2-bend-harder.json) |
+| Benderman VR | 264730 | [264730-benderman-vr.json](./264730-benderman-vr.json) |
 | Benders of Moona | 236728 | [236728-benders-of-moona.json](./236728-benders-of-moona.json) |
 | Bending the Light | 167911 | [167911-bending-the-light.json](./167911-bending-the-light.json) |
 | Bendo | 245981 | [245981-bendo.json](./245981-bendo.json) |
@@ -11915,6 +11919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Tales 64 | 135264 | [135264-bounce-tales-64.json](./135264-bounce-tales-64.json) |
 | Bounce Time! | 233240 | [233240-bounce-time.json](./233240-bounce-time.json) |
 | Bounce Touch | 272443 | [272443-bounce-touch.json](./272443-bounce-touch.json) |
+| Bounce Trials | 264743 | [264743-bounce-trials.json](./264743-bounce-trials.json) |
 | Bounce Up! | 373328 | [373328-bounce-up.json](./373328-bounce-up.json) |
 | Bounce your Bullets! | 213310 | [213310-bounce-your-bullets.json](./213310-bounce-your-bullets.json) |
 | Bounce Zone | 84241 | [84241-bounce-zone.json](./84241-bounce-zone.json) |
@@ -15737,6 +15742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ButcherBoy | 95605 | [95605-butcherboy.json](./95605-butcherboy.json) |
 | Butcherman | 388746 | [388746-butcherman.json](./388746-butcherman.json) |
 | Butchers Don't Surf! | 243228 | [243228-butchers-dont-surf.json](./243228-butchers-dont-surf.json) |
+| Buti | 264720 | [264720-buti.json](./264720-buti.json) |
 | Butler Until Midnight | 238901 | [238901-butler-until-midnight.json](./238901-butler-until-midnight.json) |
 | Butler! Summon the Imps! | 382850 | [382850-butler-summon-the-imps.json](./382850-butler-summon-the-imps.json) |
 | Butt | 314259 | [314259-butt.json](./314259-butt.json) |
