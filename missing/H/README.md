@@ -8151,6 +8151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honeycomb Hotel ZEN | 96056 | [96056-honeycomb-hotel-zen.json](./96056-honeycomb-hotel-zen.json) |
 | Honeycomb: The World Beyond | 152058 | [152058-honeycomb-the-world-beyond.json](./152058-honeycomb-the-world-beyond.json) |
 | HoneyCombat | 177775 | [177775-honeycombat.json](./177775-honeycombat.json) |
+| HoneyCome Come Come Party | 263645 | [263645-honeycome-come-come-party.json](./263645-honeycome-come-come-party.json) |
 | HoneyHoneyHoney! | 164604 | [164604-honeyhoneyhoney.json](./164604-honeyhoneyhoney.json) |
 | HoneyLand | 167597 | [167597-honeyland.json](./167597-honeyland.json) |
 | Honeypot | 215785 | [215785-honeypot.json](./215785-honeypot.json) |
