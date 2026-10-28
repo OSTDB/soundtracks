@@ -841,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -15614,6 +15615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BursTrick: Wake Boarding!! | 44766 | [44766-burstrick-wake-boarding.json](./44766-burstrick-wake-boarding.json) |
 | Burt Roger | 176806 | [176806-burt-roger.json](./176806-burt-roger.json) |
 | Burtik | 96112 | [96112-burtik.json](./96112-burtik.json) |
+| Buru-buru Wolf | 238122 | [238122-buru-buru-wolf.json](./238122-buru-buru-wolf.json) |
 | Burujiru | 108997 | [108997-burujiru.json](./108997-burujiru.json) |
 | Burumajiru: Nikuyoku Shoujo Ninjyou | 98007 | [98007-burumajiru-nikuyoku-shoujo-ninjyou.json](./98007-burumajiru-nikuyoku-shoujo-ninjyou.json) |
 | Bury | 151571 | [151571-bury.json](./151571-bury.json) |
