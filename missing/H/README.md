@@ -1839,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harrier Attack II | 79098 | [79098-harrier-attack-ii.json](./79098-harrier-attack-ii.json) |
 | Harrier Attack! | 13004 | [13004-harrier-attack.json](./13004-harrier-attack.json) |
 | Harrier Combat Simulator | 73116 | [73116-harrier-combat-simulator.json](./73116-harrier-combat-simulator.json) |
+| Harrier Desse | 266329 | [266329-harrier-desse.json](./266329-harrier-desse.json) |
 | Harrier Strike Mission | 44080 | [44080-harrier-strike-mission.json](./44080-harrier-strike-mission.json) |
 | Harriet: From Slave to Hero | 195440 | [195440-harriet-from-slave-to-hero.json](./195440-harriet-from-slave-to-hero.json) |
 | Harrow | 265698 | [265698-harrow.json](./265698-harrow.json) |
@@ -1864,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and The Chamber of Secrets | 345276 | [345276-harry-potter-and-the-chamber-of-secrets.json](./345276-harry-potter-and-the-chamber-of-secrets.json) |
 | Harry Potter and the Chamber of Secrets: Spellcaster Knowledge | 266192 | [266192-harry-potter-and-the-chamber-of-secrets-spellcaster-knowledge.json](./266192-harry-potter-and-the-chamber-of-secrets-spellcaster-knowledge.json) |
 | Harry Potter and the Chamber of Secrets: The Chamber Challenge | 266191 | [266191-harry-potter-and-the-chamber-of-secrets-the-chamber-challenge.json](./266191-harry-potter-and-the-chamber-of-secrets-the-chamber-challenge.json) |
+| Harry Potter and the Chamber of Secrets: The Forbidden Forest Challenge | 266364 | [266364-harry-potter-and-the-chamber-of-secrets-the-forbidden-forest-challenge.json](./266364-harry-potter-and-the-chamber-of-secrets-the-forbidden-forest-challenge.json) |
 | Harry Potter and the Deathly Hallows: Part 1 | 4904 | [4904-harry-potter-and-the-deathly-hallows-part-1.json](./4904-harry-potter-and-the-deathly-hallows-part-1.json) |
 | Harry Potter and the Deathly Hallows: Part 1 - The Mobile Game | 266198 | [266198-harry-potter-and-the-deathly-hallows-part-1-the-mobile-game.json](./266198-harry-potter-and-the-deathly-hallows-part-1-the-mobile-game.json) |
 | Harry Potter and the Deathly Hallows: Part 2 | 4905 | [4905-harry-potter-and-the-deathly-hallows-part-2.json](./4905-harry-potter-and-the-deathly-hallows-part-2.json) |
