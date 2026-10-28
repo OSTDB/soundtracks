@@ -3454,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix Jump: Party Edition | 297301 | [297301-helix-jump-party-edition.json](./297301-helix-jump-party-edition.json) |
 | Helix Jump: Party Skins | 277898 | [277898-helix-jump-party-skins.json](./277898-helix-jump-party-skins.json) |
 | Helix Rush | 100919 | [100919-helix-rush.json](./100919-helix-rush.json) |
+| Helix Waltz | 254874 | [254874-helix-waltz.json](./254874-helix-waltz.json) |
 | Helix: Descent N Ascent | 284906 | [284906-helix-descent-n-ascent.json](./284906-helix-descent-n-ascent.json) |
 | Helixian | 158154 | [158154-helixian.json](./158154-helixian.json) |
 | HelixMod VR | 121871 | [121871-helixmod-vr.json](./121871-helixmod-vr.json) |
@@ -4763,6 +4764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World: Kitty Rose | 251686 | [251686-hentai-world-kitty-rose.json](./251686-hentai-world-kitty-rose.json) |
 | Hentai World: Legendary Edition | 268562 | [268562-hentai-world-legendary-edition.json](./268562-hentai-world-legendary-edition.json) |
 | Hentai World: Platinum Edition | 270292 | [270292-hentai-world-platinum-edition.json](./270292-hentai-world-platinum-edition.json) |
+| Hentai World: Premium Edition | 255228 | [255228-hentai-world-premium-edition.json](./255228-hentai-world-premium-edition.json) |
 | Hentai World: Puppy Nanami | 251685 | [251685-hentai-world-puppy-nanami.json](./251685-hentai-world-puppy-nanami.json) |
 | Hentai World: Special Edition | 251684 | [251684-hentai-world-special-edition.json](./251684-hentai-world-special-edition.json) |
 | Hentai World: Superb Edition | 304784 | [304784-hentai-world-superb-edition.json](./304784-hentai-world-superb-edition.json) |
@@ -8190,6 +8192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hong Kong Obscure | 245861 | [245861-hong-kong-obscure.json](./245861-hong-kong-obscure.json) |
 | Hong Kong Phooey: No.1 Super Guy | 71528 | [71528-hong-kong-phooey-no-1-super-guy.json](./71528-hong-kong-phooey-no-1-super-guy.json) |
 | Hong Lou Meng: Lin Daiyu yu Bei Jing Wang | 394801 | [394801-hong-lou-meng-lin-daiyu-yu-bei-jing-wang.json](./394801-hong-lou-meng-lin-daiyu-yu-bei-jing-wang.json) |
+| HongKong Noir | 255283 | [255283-hongkong-noir.json](./255283-hongkong-noir.json) |
 | Honjou Rendoku to Ushinawareta Nachlass | 398976 | [398976-honjou-rendoku-to-ushinawareta-nachlass.json](./398976-honjou-rendoku-to-ushinawareta-nachlass.json) |
 | Honk III | 180779 | [180779-honk-iii.json](./180779-honk-iii.json) |
 | Honk of Heroes | 293641 | [293641-honk-of-heroes.json](./293641-honk-of-heroes.json) |
@@ -9449,8 +9452,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper: Garden DLC | 116384 | [116384-house-flipper-garden-dlc.json](./116384-house-flipper-garden-dlc.json) |
 | House Flipper: HGTV DLC | 145529 | [145529-house-flipper-hgtv-dlc.json](./145529-house-flipper-hgtv-dlc.json) |
 | House Flipper: Home Design | 102846 | [102846-house-flipper-home-design.json](./102846-house-flipper-home-design.json) |
+| House Flipper: Mega Pack | 255223 | [255223-house-flipper-mega-pack.json](./255223-house-flipper-mega-pack.json) |
 | House Flipper: Party Furniture Pack | 375537 | [375537-house-flipper-party-furniture-pack.json](./375537-house-flipper-party-furniture-pack.json) |
 | House Flipper: Pets | 171462 | [171462-house-flipper-pets.json](./171462-house-flipper-pets.json) |
+| House Flipper: Pets Bundle | 255224 | [255224-house-flipper-pets-bundle.json](./255224-house-flipper-pets-bundle.json) |
 | House Flipper: Pets Edition | 300470 | [300470-house-flipper-pets-edition.json](./300470-house-flipper-pets-edition.json) |
 | House Flipper: Pop Art Furniture Pack | 295125 | [295125-house-flipper-pop-art-furniture-pack.json](./295125-house-flipper-pop-art-furniture-pack.json) |
 | House Ghost | 373842 | [373842-house-ghost.json](./373842-house-ghost.json) |
