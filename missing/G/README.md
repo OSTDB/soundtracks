@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Gladiators | 5473 | [5473-galactic-gladiators.json](./5473-galactic-gladiators.json) |
 | Galactic Glitch | 250761 | [250761-galactic-glitch.json](./250761-galactic-glitch.json) |
 | Galactic Glitch: Prologue | 211690 | [211690-galactic-glitch-prologue.json](./211690-galactic-glitch-prologue.json) |
+| Galactic Gluttony | 247131 | [247131-galactic-gluttony.json](./247131-galactic-gluttony.json) |
 | Galactic Gravity Golf | 387921 | [387921-galactic-gravity-golf.json](./387921-galactic-gravity-golf.json) |
 | Galactic Grinder | 253526 | [253526-galactic-grinder.json](./253526-galactic-grinder.json) |
 | Galactic Guardian | 316807 | [316807-galactic-guardian.json](./316807-galactic-guardian.json) |
@@ -5712,6 +5713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 18008 | [18008-golf.json](./18008-golf.json) |
 | Golf | 20382 | [20382-golf.json](./20382-golf.json) |
 | Golf | 231780 | [231780-golf.json](./231780-golf.json) |
+| Golf | 246998 | [246998-golf.json](./246998-golf.json) |
 | Golf | 282126 | [282126-golf.json](./282126-golf.json) |
 | Golf | 310990 | [310990-golf.json](./310990-golf.json) |
 | Golf | 358832 | [358832-golf.json](./358832-golf.json) |
@@ -7670,6 +7672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Light | 393827 | [393827-green-light.json](./393827-green-light.json) |
 | Green Light District | 416837 | [416837-green-light-district.json](./416837-green-light-district.json) |
 | Green Magic | 359080 | [359080-green-magic.json](./359080-green-magic.json) |
+| Green Memories | 247130 | [247130-green-memories.json](./247130-green-memories.json) |
 | Green Mirror | 30598 | [30598-green-mirror.json](./30598-green-mirror.json) |
 | Green Mist Over Portland | 400558 | [400558-green-mist-over-portland.json](./400558-green-mist-over-portland.json) |
 | Green Moon | 23247 | [23247-green-moon.json](./23247-green-moon.json) |
@@ -8608,6 +8611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grunt1914 | 117398 | [117398-grunt1914.json](./117398-grunt1914.json) |
 | Grunty's Mansion | 267251 | [267251-gruntys-mansion.json](./267251-gruntys-mansion.json) |
 | Gruntz | 13225 | [13225-gruntz.json](./13225-gruntz.json) |
+| Gruta | 247126 | [247126-gruta.json](./247126-gruta.json) |
 | Gruta | 367186 | [367186-gruta.json](./367186-gruta.json) |
 | Grym Wonder | 286956 | [286956-grym-wonder.json](./286956-grym-wonder.json) |
 | Grym: Knights in the Garden | 334534 | [334534-grym-knights-in-the-garden.json](./334534-grym-knights-in-the-garden.json) |
