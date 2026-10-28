@@ -837,7 +837,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2068,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie Epic Road Trip | 228355 | [228355-barbie-epic-road-trip.json](./228355-barbie-epic-road-trip.json) |
 | Barbie Fashion Closet | 103905 | [103905-barbie-fashion-closet.json](./103905-barbie-fashion-closet.json) |
 | Barbie Fashion Show | 200592 | [200592-barbie-fashion-show.json](./200592-barbie-fashion-show.json) |
+| Barbie Fashion Show: Eye for Style | 261399 | [261399-barbie-fashion-show-eye-for-style.json](./261399-barbie-fashion-show-eye-for-style.json) |
 | Barbie Fashion Show: Eye for Style | 78256 | [78256-barbie-fashion-show-eye-for-style.json](./78256-barbie-fashion-show-eye-for-style.json) |
 | Barbie for Girls Beach Adventure | 245569 | [245569-barbie-for-girls-beach-adventure.json](./245569-barbie-for-girls-beach-adventure.json) |
 | Barbie for Girls Hearts & Stars | 245568 | [245568-barbie-for-girls-hearts-and-stars.json](./245568-barbie-for-girls-hearts-and-stars.json) |
@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie in the 12 Dancing Princesses | 45173 | [45173-barbie-in-the-12-dancing-princesses.json](./45173-barbie-in-the-12-dancing-princesses.json) |
 | Barbie Jewelry Designer | 200597 | [200597-barbie-jewelry-designer.json](./200597-barbie-jewelry-designer.json) |
 | Barbie Magic Genie Bottle | 200602 | [200602-barbie-magic-genie-bottle.json](./200602-barbie-magic-genie-bottle.json) |
+| Barbie Magical Fashion | 261412 | [261412-barbie-magical-fashion.json](./261412-barbie-magical-fashion.json) |
 | Barbie Mermaid Adventure | 200593 | [200593-barbie-mermaid-adventure.json](./200593-barbie-mermaid-adventure.json) |
 | Barbie Nail Designer | 200607 | [200607-barbie-nail-designer.json](./200607-barbie-nail-designer.json) |
 | Barbie of Swan Lake: The Enchanted Forest | 200594 | [200594-barbie-of-swan-lake-the-enchanted-forest.json](./200594-barbie-of-swan-lake-the-enchanted-forest.json) |
@@ -4095,6 +4096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be the Block | 420578 | [420578-be-the-block.json](./420578-be-the-block.json) |
 | Be the King: Enjoy Your Trip to the Top | 106997 | [106997-be-the-king-enjoy-your-trip-to-the-top.json](./106997-be-the-king-enjoy-your-trip-to-the-top.json) |
 | Be the One | 154387 | [154387-be-the-one.json](./154387-be-the-one.json) |
+| Be the Richest | 261398 | [261398-be-the-richest.json](./261398-be-the-richest.json) |
 | Be the Ruler: Britannia | 112987 | [112987-be-the-ruler-britannia.json](./112987-be-the-ruler-britannia.json) |
 | Be the Sword | 347486 | [347486-be-the-sword.json](./347486-be-the-sword.json) |
 | BE Witches | 157163 | [157163-be-witches.json](./157163-be-witches.json) |
