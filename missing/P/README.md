@@ -5168,6 +5168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Dino | 288668 | [288668-pico-dino.json](./288668-pico-dino.json) |
 | Pico Drift | 330073 | [330073-pico-drift.json](./330073-pico-drift.json) |
 | Pico Driller | 177940 | [177940-pico-driller.json](./177940-pico-driller.json) |
+| Pico Fox | 276019 | [276019-pico-fox.json](./276019-pico-fox.json) |
 | Pico Islands | 189360 | [189360-pico-islands.json](./189360-pico-islands.json) |
 | Pico Monsters | 181931 | [181931-pico-monsters.json](./181931-pico-monsters.json) |
 | Pico Park 2 | 314933 | [314933-pico-park-2.json](./314933-pico-park-2.json) |
@@ -7555,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Bar Tycoon: Expansion Pack 1 | 237977 | [237977-pizza-bar-tycoon-expansion-pack-1.json](./237977-pizza-bar-tycoon-expansion-pack-1.json) |
 | Pizza Bar Tycoon: Expansion Pack 2 | 237978 | [237978-pizza-bar-tycoon-expansion-pack-2.json](./237978-pizza-bar-tycoon-expansion-pack-2.json) |
 | Pizza Bar Tycoon: Extended Edition | 237864 | [237864-pizza-bar-tycoon-extended-edition.json](./237864-pizza-bar-tycoon-extended-edition.json) |
+| Pizza Bar Tycoon: GOTY Edition | 275999 | [275999-pizza-bar-tycoon-goty-edition.json](./275999-pizza-bar-tycoon-goty-edition.json) |
 | Pizza Bar Tycoon: Legendary Edition | 332508 | [332508-pizza-bar-tycoon-legendary-edition.json](./332508-pizza-bar-tycoon-legendary-edition.json) |
 | Pizza Bar Tycoon: Multiplayer Edition | 247594 | [247594-pizza-bar-tycoon-multiplayer-edition.json](./247594-pizza-bar-tycoon-multiplayer-edition.json) |
 | Pizza Bar Tycoon: Multiplayer Mode | 246888 | [246888-pizza-bar-tycoon-multiplayer-mode.json](./246888-pizza-bar-tycoon-multiplayer-mode.json) |
@@ -9706,6 +9708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Prism | 129588 | [129588-pokemon-prism.json](./129588-pokemon-prism.json) |
 | Pokémon Prismatic Moon | 383533 | [383533-pokemon-prismatic-moon.json](./383533-pokemon-prismatic-moon.json) |
 | Pokémon Pro | 314722 | [314722-pokemon-pro.json](./314722-pokemon-pro.json) |
+| Pokémon Procyon and Deneb | 276343 | [276343-pokemon-procyon-and-deneb.json](./276343-pokemon-procyon-and-deneb.json) |
 | Pokémon Project Studio Red/Blue Version | 131390 | [131390-pokemon-project-studio-red-blue-version.json](./131390-pokemon-project-studio-red-blue-version.json) |
 | Pokémon Psychic Seeds | 157527 | [157527-pokemon-psychic-seeds.json](./157527-pokemon-psychic-seeds.json) |
 | Pokémon Puffy Pink | 327204 | [327204-pokemon-puffy-pink.json](./327204-pokemon-puffy-pink.json) |
@@ -13868,6 +13871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Tachyon | 297793 | [297793-project-tachyon.json](./297793-project-tachyon.json) |
 | Project Tank | 84065 | [84065-project-tank.json](./84065-project-tank.json) |
 | Project Tarvotan | 34809 | [34809-project-tarvotan.json](./34809-project-tarvotan.json) |
+| Project TB | 275989 | [275989-project-tb.json](./275989-project-tb.json) |
 | Project Temporality | 10725 | [10725-project-temporality.json](./10725-project-temporality.json) |
 | Project Terminus VR | 149838 | [149838-project-terminus-vr.json](./149838-project-terminus-vr.json) |
 | Project Terra | 272733 | [272733-project-terra.json](./272733-project-terra.json) |
