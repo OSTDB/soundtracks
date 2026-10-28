@@ -1207,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 2005 | 4033 | [4033-nba-live-2005.json](./4033-nba-live-2005.json) |
 | NBA Live 21 | 125191 | [125191-nba-live-21.json](./125191-nba-live-21.json) |
 | NBA Live 95 | 37285 | [37285-nba-live-95.json](./37285-nba-live-95.json) |
+| NBA Live 96 | 262148 | [262148-nba-live-96.json](./262148-nba-live-96.json) |
 | NBA Live 96 | 809 | [809-nba-live-96.json](./809-nba-live-96.json) |
 | NBA Live 97 | 20134 | [20134-nba-live-97.json](./20134-nba-live-97.json) |
 | NBA Live 98 | 217742 | [217742-nba-live-98.json](./217742-nba-live-98.json) |
