@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offensive Dimensions | 75782 | [75782-offensive-dimensions.json](./75782-offensive-dimensions.json) |
 | OffiAtrix: Rise of the Team Leader | 332841 | [332841-offiatrix-rise-of-the-team-leader.json](./332841-offiatrix-rise-of-the-team-leader.json) |
 | Office Aberrations | 366543 | [366543-office-aberrations.json](./366543-office-aberrations.json) |
+| Office Affairs | 258819 | [258819-office-affairs.json](./258819-office-affairs.json) |
 | Office After Hours | 319730 | [319730-office-after-hours.json](./319730-office-after-hours.json) |
 | Office Anomaly | 413596 | [413596-office-anomaly.json](./413596-office-anomaly.json) |
 | Office Assistant | 359351 | [359351-office-assistant.json](./359351-office-assistant.json) |
@@ -1886,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Bullet left | 28888 | [28888-one-bullet-left.json](./28888-one-bullet-left.json) |
 | One Button Defense | 365252 | [365252-one-button-defense.json](./365252-one-button-defense.json) |
 | One Button Dungeon | 386734 | [386734-one-button-dungeon.json](./386734-one-button-dungeon.json) |
+| One Button Games 5-in-1 | 259133 | [259133-one-button-games-5-in-1.json](./259133-one-button-games-5-in-1.json) |
 | One Button Games 5-in-1 Vol. 2 | 349818 | [349818-one-button-games-5-in-1-vol-2.json](./349818-one-button-games-5-in-1-vol-2.json) |
 | One Button Games 5-in-1 Vol. 4 | 394464 | [394464-one-button-games-5-in-1-vol-4.json](./394464-one-button-games-5-in-1-vol-4.json) |
 | One Button Games 5-in-1 Vol. 6 | 400556 | [400556-one-button-games-5-in-1-vol-6.json](./400556-one-button-games-5-in-1-vol-6.json) |
@@ -3860,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osmo Pizza Co. | 88159 | [88159-osmo-pizza-co.json](./88159-osmo-pizza-co.json) |
 | Osmorrow | 80933 | [80933-osmorrow.json](./80933-osmorrow.json) |
 | Osmos | 14951 | [14951-osmos.json](./14951-osmos.json) |
+| Osmos+ | 259129 | [259129-osmos.json](./259129-osmos.json) |
 | Osmozys | 336946 | [336946-osmozys.json](./336946-osmozys.json) |
 | Osomatsu-kun: Back to the Me no Deppa no Maki | 48797 | [48797-osomatsu-kun-back-to-the-me-no-deppa-no-maki.json](./48797-osomatsu-kun-back-to-the-me-no-deppa-no-maki.json) |
 | Osomatsu-san Hesokuri Wars: Battle of the NEETs | 109561 | [109561-osomatsu-san-hesokuri-wars-battle-of-the-neets.json](./109561-osomatsu-san-hesokuri-wars-battle-of-the-neets.json) |
@@ -4323,6 +4326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Cube | 219626 | [219626-out-of-the-cube.json](./219626-out-of-the-cube.json) |
 | Out of the Deathmount | 231505 | [231505-out-of-the-deathmount.json](./231505-out-of-the-deathmount.json) |
 | Out of the ground | 226202 | [226202-out-of-the-ground.json](./226202-out-of-the-ground.json) |
+| Out of the Mist | 259121 | [259121-out-of-the-mist.json](./259121-out-of-the-mist.json) |
 | Out of the Ocean | 370075 | [370075-out-of-the-ocean.json](./370075-out-of-the-ocean.json) |
 | Out of the Ordinary | 351774 | [351774-out-of-the-ordinary.json](./351774-out-of-the-ordinary.json) |
 | Out of the Park | 100100 | [100100-out-of-the-park.json](./100100-out-of-the-park.json) |
