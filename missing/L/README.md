@@ -3941,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifecycles of the Traveler Spider | 390575 | [390575-lifecycles-of-the-traveler-spider.json](./390575-lifecycles-of-the-traveler-spider.json) |
 | LifeDev | 258470 | [258470-lifedev.json](./258470-lifedev.json) |
 | Lifeflame Compendium | 150040 | [150040-lifeflame-compendium.json](./150040-lifeflame-compendium.json) |
+| Lifeforms: Binary Fission | 260281 | [260281-lifeforms-binary-fission.json](./260281-lifeforms-binary-fission.json) |
 | LifeGameSimulator | 102328 | [102328-lifegamesimulator.json](./102328-lifegamesimulator.json) |
 | Lifeguard | 61576 | [61576-lifeguard.json](./61576-lifeguard.json) |
 | Lifeguard Simulator | 169732 | [169732-lifeguard-simulator.json](./169732-lifeguard-simulator.json) |
@@ -4218,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights Camera Slaughter | 169102 | [169102-lights-camera-slaughter.json](./169102-lights-camera-slaughter.json) |
 | Lights e Shades: Safìna | 216210 | [216210-lights-e-shades-safina.json](./216210-lights-e-shades-safina.json) |
 | Lights In The Sky | 310267 | [310267-lights-in-the-sky.json](./310267-lights-in-the-sky.json) |
+| Lights of Life | 260259 | [260259-lights-of-life.json](./260259-lights-of-life.json) |
 | Lights Off | 100159 | [100159-lights-off.json](./100159-lights-off.json) |
 | Lights Orb | 143316 | [143316-lights-orb.json](./143316-lights-orb.json) |
 | Lights Out | 199429 | [199429-lights-out.json](./199429-lights-out.json) |
