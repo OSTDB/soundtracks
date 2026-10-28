@@ -2039,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majesty: The Northern Expansion | 19182 | [19182-majesty-the-northern-expansion.json](./19182-majesty-the-northern-expansion.json) |
 | Majewelick Impact | 133730 | [133730-majewelick-impact.json](./133730-majewelick-impact.json) |
 | Majewelune World Special | 50370 | [50370-majewelune-world-special.json](./50370-majewelune-world-special.json) |
+| Maji de Daiya Runba | 257187 | [257187-maji-de-daiya-runba.json](./257187-maji-de-daiya-runba.json) |
 | Maji de Watashi ni Koishinasai! A Plus Disk | 112295 | [112295-maji-de-watashi-ni-koishinasai-a-plus-disk.json](./112295-maji-de-watashi-ni-koishinasai-a-plus-disk.json) |
 | Maji de Watashi ni Koishinasai! A-1 | 112291 | [112291-maji-de-watashi-ni-koishinasai-a-1.json](./112291-maji-de-watashi-ni-koishinasai-a-1.json) |
 | Maji de Watashi ni Koishinasai! A-2 | 112292 | [112292-maji-de-watashi-ni-koishinasai-a-2.json](./112292-maji-de-watashi-ni-koishinasai-a-2.json) |
@@ -14660,6 +14661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morikomori Life | 262977 | [262977-morikomori-life.json](./262977-morikomori-life.json) |
 | Morimiya Middle School Shooting | 134131 | [134131-morimiya-middle-school-shooting.json](./134131-morimiya-middle-school-shooting.json) |
 | Morinaga Pac-Man mini | 219448 | [219448-morinaga-pac-man-mini.json](./219448-morinaga-pac-man-mini.json) |
+| Morinaga Takurou Kanshuu: Okane no Shin Joushiki DS Training | 257492 | [257492-morinaga-takurou-kanshuu-okane-no-shin-joushiki-ds-training.json](./257492-morinaga-takurou-kanshuu-okane-no-shin-joushiki-ds-training.json) |
 | Morita Kazuo no Shogi | 48817 | [48817-morita-kazuo-no-shogi.json](./48817-morita-kazuo-no-shogi.json) |
 | Morita Shogi 64 | 3543 | [3543-morita-shogi-64.json](./3543-morita-shogi-64.json) |
 | Morita Shogi Advance | 49712 | [49712-morita-shogi-advance.json](./49712-morita-shogi-advance.json) |
