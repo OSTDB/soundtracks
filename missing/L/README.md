@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Maze | 100243 | [100243-laser-maze.json](./100243-laser-maze.json) |
 | Laser Nodes | 233421 | [233421-laser-nodes.json](./233421-laser-nodes.json) |
 | Laser Overload 2 | 167669 | [167669-laser-overload-2.json](./167669-laser-overload-2.json) |
+| Laser Overload: Mirror Puzzle | 256948 | [256948-laser-overload-mirror-puzzle.json](./256948-laser-overload-mirror-puzzle.json) |
 | Laser Panic | 330314 | [330314-laser-panic.json](./330314-laser-panic.json) |
 | Laser Party | 113166 | [113166-laser-party.json](./113166-laser-party.json) |
 | Laser Push | 176430 | [176430-laser-push.json](./176430-laser-push.json) |
@@ -3371,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Love | 287091 | [287091-lethal-love.json](./287091-lethal-love.json) |
 | Lethal Omen | 212867 | [212867-lethal-omen.json](./212867-lethal-omen.json) |
 | Lethal Operation: Episode 1 - Healer Rugitta | 256557 | [256557-lethal-operation-episode-1-healer-rugitta.json](./256557-lethal-operation-episode-1-healer-rugitta.json) |
+| Lethal Operation: Episode 2 - Destroyer Rei | 256950 | [256950-lethal-operation-episode-2-destroyer-rei.json](./256950-lethal-operation-episode-2-destroyer-rei.json) |
 | Lethal Operation: Episode 3 - Lethal Arms of Justice | 259601 | [259601-lethal-operation-episode-3-lethal-arms-of-justice.json](./259601-lethal-operation-episode-3-lethal-arms-of-justice.json) |
 | Lethal Pongbat | 161904 | [161904-lethal-pongbat.json](./161904-lethal-pongbat.json) |
 | Lethal RPG Destiny: Rebirth | 309094 | [309094-lethal-rpg-destiny-rebirth.json](./309094-lethal-rpg-destiny-rebirth.json) |
@@ -4442,6 +4444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limberjack | 32123 | [32123-limberjack.json](./32123-limberjack.json) |
 | Limbo | 395367 | [395367-limbo.json](./395367-limbo.json) |
 | Limbo 64 | 109488 | [109488-limbo-64.json](./109488-limbo-64.json) |
+| Limbo Disco | 256952 | [256952-limbo-disco.json](./256952-limbo-disco.json) |
 | Limbo Line | 215223 | [215223-limbo-line.json](./215223-limbo-line.json) |
 | Limbo of the Lost | 50390 | [50390-limbo-of-the-lost.json](./50390-limbo-of-the-lost.json) |
 | Limbocore | 177327 | [177327-limbocore.json](./177327-limbocore.json) |
