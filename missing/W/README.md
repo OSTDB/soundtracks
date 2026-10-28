@@ -1843,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warshift | 14075 | [14075-warshift.json](./14075-warshift.json) |
 | Warshift 2 | 388957 | [388957-warshift-2.json](./388957-warshift-2.json) |
 | Warship | 377150 | [377150-warship.json](./377150-warship.json) |
+| WarShip | 278001 | [278001-warship.json](./278001-warship.json) |
 | Warship Battle Commander | 356715 | [356715-warship-battle-commander.json](./356715-warship-battle-commander.json) |
 | Warship Girls | 58119 | [58119-warship-girls.json](./58119-warship-girls.json) |
 | Warship Girls R | 175724 | [175724-warship-girls-r.json](./175724-warship-girls-r.json) |
@@ -2109,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Drop Brick Breaker | 421185 | [421185-water-drop-brick-breaker.json](./421185-water-drop-brick-breaker.json) |
 | Water Fall | 211102 | [211102-water-fall.json](./211102-water-fall.json) |
 | Water Festa | 291320 | [291320-water-festa.json](./291320-water-festa.json) |
+| Water Fire | 277688 | [277688-water-fire.json](./277688-water-fire.json) |
 | Water Flow | 284576 | [284576-water-flow.json](./284576-water-flow.json) |
 | Water Girls | 169256 | [169256-water-girls.json](./169256-water-girls.json) |
 | Water Horse | 363987 | [363987-water-horse.json](./363987-water-horse.json) |
@@ -2340,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Samurai Portable 2 | 59371 | [59371-way-of-the-samurai-portable-2.json](./59371-way-of-the-samurai-portable-2.json) |
 | Way of the Wizard | 232431 | [232431-way-of-the-wizard.json](./232431-way-of-the-wizard.json) |
 | Way on Where | 195740 | [195740-way-on-where.json](./195740-way-on-where.json) |
+| Way Out | 277702 | [277702-way-out.json](./277702-way-out.json) |
 | Way Out | 84080 | [84080-way-out.json](./84080-way-out.json) |
 | Way To Fall | 282247 | [282247-way-to-fall.json](./282247-way-to-fall.json) |
 | Way to Go! Bowling | 205893 | [205893-way-to-go-bowling.json](./205893-way-to-go-bowling.json) |
