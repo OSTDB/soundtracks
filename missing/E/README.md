@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.C.H.O.S | 400266 | [400266-e-c-h-o-s.json](./400266-e-c-h-o-s.json) |
 | E.E.R.I.E | 148838 | [148838-e-e-r-i-e.json](./148838-e-e-r-i-e.json) |
 | E.E.R.I.E2 | 221760 | [221760-e-e-r-i-e2.json](./221760-e-e-r-i-e2.json) |
+| E.G.L: Elephant Gay League | 243852 | [243852-e-g-l-elephant-gay-league.json](./243852-e-g-l-elephant-gay-league.json) |
 | E.R. Mania | 91748 | [91748-e-r-mania.json](./91748-e-r-mania.json) |
 | E.S.P. | 145658 | [145658-e-s-p.json](./145658-e-s-p.json) |
 | E.S.S. Mega | 84246 | [84246-e-s-s-mega.json](./84246-e-s-s-mega.json) |
@@ -410,6 +411,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthsiege 2 | 11229 | [11229-earthsiege-2.json](./11229-earthsiege-2.json) |
 | Earthtia Saga: Larthur's Legend | 242223 | [242223-earthtia-saga-larthurs-legend.json](./242223-earthtia-saga-larthurs-legend.json) |
 | Earthtongue | 35546 | [35546-earthtongue.json](./35546-earthtongue.json) |
+| Earthworm Jim | 242349 | [242349-earthworm-jim.json](./242349-earthworm-jim.json) |
+| Earthworm Jim | 242350 | [242350-earthworm-jim.json](./242350-earthworm-jim.json) |
 | Earthworm Jim | 3480 | [3480-earthworm-jim.json](./3480-earthworm-jim.json) |
 | Earthworm Jim | 362035 | [362035-earthworm-jim.json](./362035-earthworm-jim.json) |
 | Earthworm Jim | 362036 | [362036-earthworm-jim.json](./362036-earthworm-jim.json) |
@@ -1752,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Ring: Shadow of the Erdtree Edition | 287975 | [287975-elden-ring-shadow-of-the-erdtree-edition.json](./287975-elden-ring-shadow-of-the-erdtree-edition.json) |
 | Elden Ring: Tarnished Edition | 338079 | [338079-elden-ring-tarnished-edition.json](./338079-elden-ring-tarnished-edition.json) |
 | Elden Sword | 371122 | [371122-elden-sword.json](./371122-elden-sword.json) |
+| Elder Blaze | 242709 | [242709-elder-blaze.json](./242709-elder-blaze.json) |
 | Elder Chaos | 74564 | [74564-elder-chaos.json](./74564-elder-chaos.json) |
 | Elder Gate | 166660 | [166660-elder-gate.json](./166660-elder-gate.json) |
 | Elder Gods Simulator | 285360 | [285360-elder-gods-simulator.json](./285360-elder-gods-simulator.json) |
@@ -1864,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electric Crayon: This Land Is Your Land | 70335 | [70335-electric-crayon-this-land-is-your-land.json](./70335-electric-crayon-this-land-is-your-land.json) |
 | Electric Device Marian | 250206 | [250206-electric-device-marian.json](./250206-electric-device-marian.json) |
 | Electric Dreams | 313124 | [313124-electric-dreams.json](./313124-electric-dreams.json) |
+| Electric Enigma VR | 243853 | [243853-electric-enigma-vr.json](./243853-electric-enigma-vr.json) |
 | Electric Fairyland | 314922 | [314922-electric-fairyland.json](./314922-electric-fairyland.json) |
 | Electric Highways | 18127 | [18127-electric-highways.json](./18127-electric-highways.json) |
 | Electric Racing Car | 59770 | [59770-electric-racing-car.json](./59770-electric-racing-car.json) |
@@ -4865,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Testing Facility | 337659 | [337659-escape-the-testing-facility.json](./337659-escape-the-testing-facility.json) |
 | Escape the Tower | 331283 | [331283-escape-the-tower.json](./331283-escape-the-tower.json) |
 | Escape the Undertaker | 256839 | [256839-escape-the-undertaker.json](./256839-escape-the-undertaker.json) |
+| Escape the Unknown: Awaken the Realm | 243856 | [243856-escape-the-unknown-awaken-the-realm.json](./243856-escape-the-unknown-awaken-the-realm.json) |
 | Escape the Virus: Shoot 'Em Up! | 85119 | [85119-escape-the-virus-shoot-em-up.json](./85119-escape-the-virus-shoot-em-up.json) |
 | Escape the Virus: Swarm Survival | 23678 | [23678-escape-the-virus-swarm-survival.json](./23678-escape-the-virus-swarm-survival.json) |
 | Escape the Void | 183920 | [183920-escape-the-void.json](./183920-escape-the-void.json) |
