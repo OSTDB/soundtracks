@@ -5950,6 +5950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythmic Retro Racer | 129664 | [129664-rhythmic-retro-racer.json](./129664-rhythmic-retro-racer.json) |
 | Rhythmic Star! | 43468 | [43468-rhythmic-star.json](./43468-rhythmic-star.json) |
 | Rhythmica | 74223 | [74223-rhythmica.json](./74223-rhythmica.json) |
+| RhythmicTypeX | 279152 | [279152-rhythmictypex.json](./279152-rhythmictypex.json) |
 | Rhythmkill | 361064 | [361064-rhythmkill.json](./361064-rhythmkill.json) |
 | Rhythmos | 194291 | [194291-rhythmos.json](./194291-rhythmos.json) |
 | RhythmPG | 179610 | [179610-rhythmpg.json](./179610-rhythmpg.json) |
