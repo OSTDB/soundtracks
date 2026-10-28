@@ -2118,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapestry of the Month Before | 180081 | [180081-tapestry-of-the-month-before.json](./180081-tapestry-of-the-month-before.json) |
 | Tapeworm | 130772 | [130772-tapeworm.json](./130772-tapeworm.json) |
 | Tapeworm Disco Puzzle | 153952 | [153952-tapeworm-disco-puzzle.json](./153952-tapeworm-disco-puzzle.json) |
+| Tapeworm Disco Puzzle | 240978 | [240978-tapeworm-disco-puzzle.json](./240978-tapeworm-disco-puzzle.json) |
 | TapGame - Knife Up | 101088 | [101088-tapgame-knife-up.json](./101088-tapgame-knife-up.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Taphouse VR | 59865 | [59865-taphouse-vr.json](./59865-taphouse-vr.json) |
@@ -5286,6 +5287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Awakened Fate: Ultimatum | 19119 | [19119-the-awakened-fate-ultimatum.json](./19119-the-awakened-fate-ultimatum.json) |
 | The Awakener: Battle Tendency | 372813 | [372813-the-awakener-battle-tendency.json](./372813-the-awakener-battle-tendency.json) |
 | The Awakener: Risen | 172702 | [172702-the-awakener-risen.json](./172702-the-awakener-risen.json) |
+| The Awakening | 240959 | [240959-the-awakening.json](./240959-the-awakening.json) |
 | The Awakening of a Villainous Lady: A Crimson and Pure White Romance | 310208 | [310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json](./310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json) |
 | The Awakening of Mummies | 147323 | [147323-the-awakening-of-mummies.json](./147323-the-awakening-of-mummies.json) |
 | The Awakening Program | 235606 | [235606-the-awakening-program.json](./235606-the-awakening-program.json) |
@@ -5892,6 +5894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boss: A Jacksepticeye Fan Game | 184294 | [184294-the-boss-a-jacksepticeye-fan-game.json](./184294-the-boss-a-jacksepticeye-fan-game.json) |
 | The Bot Squad: Puzzle Battles | 344452 | [344452-the-bot-squad-puzzle-battles.json](./344452-the-bot-squad-puzzle-battles.json) |
 | The Botanist | 130113 | [130113-the-botanist.json](./130113-the-botanist.json) |
+| The Botanist | 240970 | [240970-the-botanist.json](./240970-the-botanist.json) |
 | The Botanist | 26425 | [26425-the-botanist.json](./26425-the-botanist.json) |
 | The Bottle of the Heart | 371035 | [371035-the-bottle-of-the-heart.json](./371035-the-bottle-of-the-heart.json) |
 | The Bottom of the Well | 33370 | [33370-the-bottom-of-the-well.json](./33370-the-bottom-of-the-well.json) |
@@ -10469,6 +10472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Golden Fox | 247930 | [247930-the-last-golden-fox.json](./247930-the-last-golden-fox.json) |
 | The Last Good Boy | 407333 | [407333-the-last-good-boy.json](./407333-the-last-good-boy.json) |
 | The Last Goodbye | 308181 | [308181-the-last-goodbye.json](./308181-the-last-goodbye.json) |
+| The Last Grape | 240980 | [240980-the-last-grape.json](./240980-the-last-grape.json) |
 | The Last Guardian: Collector's Edition | 38490 | [38490-the-last-guardian-collectors-edition.json](./38490-the-last-guardian-collectors-edition.json) |
 | The Last Guardian: First-Press Limited Edition | 166983 | [166983-the-last-guardian-first-press-limited-edition.json](./166983-the-last-guardian-first-press-limited-edition.json) |
 | The Last Guardian: Limited Edition | 405004 | [405004-the-last-guardian-limited-edition.json](./405004-the-last-guardian-limited-edition.json) |
