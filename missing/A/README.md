@@ -6392,6 +6392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Watersports | 278852 | [278852-all-star-watersports.json](./278852-all-star-watersports.json) |
 | All-Terrain Challenge | 93412 | [93412-all-terrain-challenge.json](./93412-all-terrain-challenge.json) |
 | All-Time Battle | 140446 | [140446-all-time-battle.json](./140446-all-time-battle.json) |
+| All-Ways Up | 270496 | [270496-all-ways-up.json](./270496-all-ways-up.json) |
 | All‑Stars 4‑Game Collection | 396440 | [396440-all-stars-4-game-collection.json](./396440-all-stars-4-game-collection.json) |
 | Alla Prima | 207315 | [207315-alla-prima.json](./207315-alla-prima.json) |
 | Allakin | 217307 | [217307-allakin.json](./217307-allakin.json) |
@@ -15148,6 +15149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalone's Adventurers: My Parents were Assassinated so I've Started an Adventuring Party to Avoid a Political Marriage | 346202 | [346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json](./346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json) |
 | Avani | 223495 | [223495-avani.json](./223495-avani.json) |
 | Avant-Garde Discerning Paralleler | 120074 | [120074-avant-garde-discerning-paralleler.json](./120074-avant-garde-discerning-paralleler.json) |
+| Avant-Garde: Napoleonic Battles | 270497 | [270497-avant-garde-napoleonic-battles.json](./270497-avant-garde-napoleonic-battles.json) |
 | Avante! Atlantis | 321806 | [321806-avante-atlantis.json](./321806-avante-atlantis.json) |
 | Avanzar | 217179 | [217179-avanzar.json](./217179-avanzar.json) |
 | Avara | 78569 | [78569-avara.json](./78569-avara.json) |
@@ -15651,6 +15653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayakashigami | 90495 | [90495-ayakashigami.json](./90495-ayakashigami.json) |
 | Ayako's Mission | 254017 | [254017-ayakos-mission.json](./254017-ayakos-mission.json) |
 | Ayame no Machi to Ohime-sama | 194546 | [194546-ayame-no-machi-to-ohime-sama.json](./194546-ayame-no-machi-to-ohime-sama.json) |
+| Ayano's Lovesick Labyrinth | 270509 | [270509-ayanos-lovesick-labyrinth.json](./270509-ayanos-lovesick-labyrinth.json) |
 | Ayasa: Shadows of Silence | 319650 | [319650-ayasa-shadows-of-silence.json](./319650-ayasa-shadows-of-silence.json) |
 | Ayatana | 211291 | [211291-ayatana.json](./211291-ayatana.json) |
 | Ayda | 317604 | [317604-ayda.json](./317604-ayda.json) |
