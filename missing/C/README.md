@@ -9731,6 +9731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Princess VIP | 104401 | [104401-coin-princess-vip.json](./104401-coin-princess-vip.json) |
 | Coin Push RPG | 336010 | [336010-coin-push-rpg.json](./336010-coin-push-rpg.json) |
 | Coin Pusher Casino | 230196 | [230196-coin-pusher-casino.json](./230196-coin-pusher-casino.json) |
+| Coin Pusher Live | 280382 | [280382-coin-pusher-live.json](./280382-coin-pusher-live.json) |
 | Coin Pusher World: 2 Bed 4 Pusher World | 286144 | [286144-coin-pusher-world-2-bed-4-pusher-world.json](./286144-coin-pusher-world-2-bed-4-pusher-world.json) |
 | Coin Rush | 181054 | [181054-coin-rush.json](./181054-coin-rush.json) |
 | Coin Rush | 336594 | [336594-coin-rush.json](./336594-coin-rush.json) |
@@ -10058,6 +10059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony Defenders TD | 286648 | [286648-colony-defenders-td.json](./286648-colony-defenders-td.json) |
 | Colony Defense | 273627 | [273627-colony-defense.json](./273627-colony-defense.json) |
 | Colony Defense | 52520 | [52520-colony-defense.json](./52520-colony-defense.json) |
+| Colony Defense: The Ultimate Minimalist Tower Base Defense Game | 280068 | [280068-colony-defense-the-ultimate-minimalist-tower-base-defense-game.json](./280068-colony-defense-the-ultimate-minimalist-tower-base-defense-game.json) |
 | Colony Flow! | 418244 | [418244-colony-flow.json](./418244-colony-flow.json) |
 | Colony on Mars | 81916 | [81916-colony-on-mars.json](./81916-colony-on-mars.json) |
 | Colony Prospector | 99430 | [99430-colony-prospector.json](./99430-colony-prospector.json) |
@@ -17368,6 +17370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Surf | 89679 | [89679-cyber-surf.json](./89679-cyber-surf.json) |
 | Cyber Sweep | 202620 | [202620-cyber-sweep.json](./202620-cyber-sweep.json) |
 | Cyber Tamer | 245936 | [245936-cyber-tamer.json](./245936-cyber-tamer.json) |
+| Cyber Tank | 280055 | [280055-cyber-tank.json](./280055-cyber-tank.json) |
 | Cyber Tank | 40107 | [40107-cyber-tank.json](./40107-cyber-tank.json) |
 | Cyber Tank 2 | 330194 | [330194-cyber-tank-2.json](./330194-cyber-tank-2.json) |
 | Cyber Tank Nano | 353962 | [353962-cyber-tank-nano.json](./353962-cyber-tank-nano.json) |
