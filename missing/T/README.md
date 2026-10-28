@@ -15549,6 +15549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of Five Hearts | 111402 | [111402-the-tower-of-five-hearts.json](./111402-the-tower-of-five-hearts.json) |
 | The Tower of Luminus | 217494 | [217494-the-tower-of-luminus.json](./217494-the-tower-of-luminus.json) |
 | The Tower of Mimi | 338770 | [338770-the-tower-of-mimi.json](./338770-the-tower-of-mimi.json) |
+| The Tower of Muuda | 232105 | [232105-the-tower-of-muuda.json](./232105-the-tower-of-muuda.json) |
 | The Tower of Shadows | 347232 | [347232-the-tower-of-shadows.json](./347232-the-tower-of-shadows.json) |
 | The Tower of the Elephant | 146199 | [146199-the-tower-of-the-elephant.json](./146199-the-tower-of-the-elephant.json) |
 | The Tower Of The Gods | 329981 | [329981-the-tower-of-the-gods.json](./329981-the-tower-of-the-gods.json) |
@@ -27257,6 +27258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trombone Champ: Unflattened! | 313775 | [313775-trombone-champ-unflattened.json](./313775-trombone-champ-unflattened.json) |
 | Trombone Champ: Unflattened! - Halloween Pack | 373879 | [373879-trombone-champ-unflattened-halloween-pack.json](./373879-trombone-champ-unflattened-halloween-pack.json) |
 | Trombone Champ: Unflattened! - Undertale + Deltarune Song Pack | 360779 | [360779-trombone-champ-unflattened-undertale-deltarune-song-pack.json](./360779-trombone-champ-unflattened-undertale-deltarune-song-pack.json) |
+| Trombone Hero | 232091 | [232091-trombone-hero.json](./232091-trombone-hero.json) |
 | Trompers | 296228 | [296228-trompers.json](./296228-trompers.json) |
 | Tron | 284223 | [284223-tron.json](./284223-tron.json) |
 | Tron | 297488 | [297488-tron.json](./297488-tron.json) |
@@ -28698,6 +28700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Hotel, Spa, and More | 409208 | [409208-twin-hotel-spa-and-more.json](./409208-twin-hotel-spa-and-more.json) |
 | Twin Jet Racer | 225200 | [225200-twin-jet-racer.json](./225200-twin-jet-racer.json) |
 | Twin Jump | 168621 | [168621-twin-jump.json](./168621-twin-jump.json) |
+| Twin Kickers | 232129 | [232129-twin-kickers.json](./232129-twin-kickers.json) |
 | Twin Kingdom Valley | 12971 | [12971-twin-kingdom-valley.json](./12971-twin-kingdom-valley.json) |
 | Twin Legend | 400098 | [400098-twin-legend.json](./400098-twin-legend.json) |
 | Twin Mind: Murderous Jealousy | 294752 | [294752-twin-mind-murderous-jealousy.json](./294752-twin-mind-murderous-jealousy.json) |
