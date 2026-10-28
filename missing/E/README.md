@@ -7101,6 +7101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye in the Sky | 28294 | [28294-eye-in-the-sky.json](./28294-eye-in-the-sky.json) |
 | Eye Juice | 403205 | [403205-eye-juice.json](./403205-eye-juice.json) |
 | Eye Must Jump | 108876 | [108876-eye-must-jump.json](./108876-eye-must-jump.json) |
+| Eye of Artist | 264168 | [264168-eye-of-artist.json](./264168-eye-of-artist.json) |
 | Eye of Bain | 298804 | [298804-eye-of-bain.json](./298804-eye-of-bain.json) |
 | Eye of D'akess | 236732 | [236732-eye-of-dakess.json](./236732-eye-of-dakess.json) |
 | Eye of Horus | 12069 | [12069-eye-of-horus.json](./12069-eye-of-horus.json) |
