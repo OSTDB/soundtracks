@@ -10887,6 +10887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Starve: Reign of Giants | 52177 | [52177-dont-starve-reign-of-giants.json](./52177-dont-starve-reign-of-giants.json) |
 | Don't Starve: Shipwrecked | 88917 | [88917-dont-starve-shipwrecked.json](./88917-dont-starve-shipwrecked.json) |
 | Don't Steal My Christmas! | 235271 | [235271-dont-steal-my-christmas.json](./235271-dont-steal-my-christmas.json) |
+| Don't Step White Tile: It's Me! | 232113 | [232113-dont-step-white-tile-its-me.json](./232113-dont-step-white-tile-its-me.json) |
 | Don't Stop | 106139 | [106139-dont-stop.json](./106139-dont-stop.json) |
 | Don't Stop | 253214 | [253214-dont-stop.json](./253214-dont-stop.json) |
 | Don't Stop Corocco | 151663 | [151663-dont-stop-corocco.json](./151663-dont-stop-corocco.json) |
@@ -14855,6 +14856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Druid: Yamie no Tsuisekisha | 268642 | [268642-druid-yamie-no-tsuisekisha.json](./268642-druid-yamie-no-tsuisekisha.json) |
 | Druid's Tale: Crystal Cave | 61653 | [61653-druids-tale-crystal-cave.json](./61653-druids-tale-crystal-cave.json) |
 | Druidstone: The Secret of the Menhir Forest | 28142 | [28142-druidstone-the-secret-of-the-menhir-forest.json](./28142-druidstone-the-secret-of-the-menhir-forest.json) |
+| Drum Beat Jump | 232102 | [232102-drum-beat-jump.json](./232102-drum-beat-jump.json) |
 | Drum Box | 187360 | [187360-drum-box.json](./187360-drum-box.json) |
 | Drum Brain | 142796 | [142796-drum-brain.json](./142796-drum-brain.json) |
 | Drum Girl | 232140 | [232140-drum-girl.json](./232140-drum-girl.json) |
@@ -16674,6 +16676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dylan Dog: Horror Luna Park | 70970 | [70970-dylan-dog-horror-luna-park.json](./70970-dylan-dog-horror-luna-park.json) |
 | Dylan Dog: Le Notti della Luna Piena | 72140 | [72140-dylan-dog-le-notti-della-luna-piena.json](./72140-dylan-dog-le-notti-della-luna-piena.json) |
 | Dylan Dog: Through the Looking Glass | 12422 | [12422-dylan-dog-through-the-looking-glass.json](./12422-dylan-dog-through-the-looking-glass.json) |
+| Dylan the Driller | 232086 | [232086-dylan-the-driller.json](./232086-dylan-the-driller.json) |
 | Dylio's Adventures | 418546 | [418546-dylios-adventures.json](./418546-dylios-adventures.json) |
 | Dymension | 191262 | [191262-dymension.json](./191262-dymension.json) |
 | Dyna Blade | 271260 | [271260-dyna-blade.json](./271260-dyna-blade.json) |
