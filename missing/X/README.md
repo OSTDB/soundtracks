@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-COM: Terror From the Deep | 25 | [25-x-com-terror-from-the-deep.json](./25-x-com-terror-from-the-deep.json) |
 | X-Day | 140494 | [140494-x-day.json](./140494-x-day.json) |
 | X-Day 2 | 140495 | [140495-x-day-2.json](./140495-x-day-2.json) |
+| X-Dead Detective | 246755 | [246755-x-dead-detective.json](./246755-x-dead-detective.json) |
 | X-Files: Resist or Serve | 24136 | [24136-x-files-resist-or-serve.json](./24136-x-files-resist-or-serve.json) |
 | X-Force Genesis | 165652 | [165652-x-force-genesis.json](./165652-x-force-genesis.json) |
 | X-Force Under Attack | 251694 | [251694-x-force-under-attack.json](./251694-x-force-under-attack.json) |
@@ -510,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XeGrader Plus | 388057 | [388057-xegrader-plus.json](./388057-xegrader-plus.json) |
 | Xel | 164866 | [164866-xel.json](./164866-xel.json) |
 | Xel: Breaking Time | 246632 | [246632-xel-breaking-time.json](./246632-xel-breaking-time.json) |
+| Xel: Breaking Time | 246756 | [246756-xel-breaking-time.json](./246756-xel-breaking-time.json) |
 | Xel: Complete Edition | 246633 | [246633-xel-complete-edition.json](./246633-xel-complete-edition.json) |
 | Xelan Force | 277340 | [277340-xelan-force.json](./277340-xelan-force.json) |
 | Xelphi: Second Limit | 213894 | [213894-xelphi-second-limit.json](./213894-xelphi-second-limit.json) |
