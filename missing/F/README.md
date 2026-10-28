@@ -4562,6 +4562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Recurrence | 215570 | [215570-final-recurrence.json](./215570-final-recurrence.json) |
 | Final Redoubt: Zombie Apocalypse | 329590 | [329590-final-redoubt-zombie-apocalypse.json](./329590-final-redoubt-zombie-apocalypse.json) |
 | Final Remedy | 236778 | [236778-final-remedy.json](./236778-final-remedy.json) |
+| Final Resistance | 261932 | [261932-final-resistance.json](./261932-final-resistance.json) |
 | Final Response | 323987 | [323987-final-response.json](./323987-final-response.json) |
 | Final Rest | 29496 | [29496-final-rest.json](./29496-final-rest.json) |
 | Final Rites | 405685 | [405685-final-rites.json](./405685-final-rites.json) |
@@ -5938,6 +5939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Day Detective | 274303 | [274303-five-day-detective.json](./274303-five-day-detective.json) |
 | Five Day Great Escape | 114399 | [114399-five-day-great-escape.json](./114399-five-day-great-escape.json) |
 | Five Days | 287510 | [287510-five-days.json](./287510-five-days.json) |
+| Five Days of Hell | 261631 | [261631-five-days-of-hell.json](./261631-five-days-of-hell.json) |
 | Five dreams | 189953 | [189953-five-dreams.json](./189953-five-dreams.json) |
 | Five Elements | 29861 | [29861-five-elements.json](./29861-five-elements.json) |
 | Five elements for 24! | 289252 | [289252-five-elements-for-24.json](./289252-five-elements-for-24.json) |
@@ -6943,6 +6945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floating Block Forever | 393095 | [393095-floating-block-forever.json](./393095-floating-block-forever.json) |
 | Floating Cloud God Saves the Pilgrims in HD! | 84154 | [84154-floating-cloud-god-saves-the-pilgrims-in-hd.json](./84154-floating-cloud-god-saves-the-pilgrims-in-hd.json) |
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
+| Floating Cuboid | 261931 | [261931-floating-cuboid.json](./261931-floating-cuboid.json) |
 | Floating Frontiers | 390988 | [390988-floating-frontiers.json](./390988-floating-frontiers.json) |
 | Floating Girl | 147391 | [147391-floating-girl.json](./147391-floating-girl.json) |
 | Floating Girl | 270156 | [270156-floating-girl.json](./270156-floating-girl.json) |
