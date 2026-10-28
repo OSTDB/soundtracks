@@ -2459,6 +2459,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Moment | 29077 | [29077-across-the-moment.json](./29077-across-the-moment.json) |
 | Across the Obelisk: Bernard, the Alchemist | 357777 | [357777-across-the-obelisk-bernard-the-alchemist.json](./357777-across-the-obelisk-bernard-the-alchemist.json) |
 | Across the Obelisk: Necropolis Of The Damned | 378904 | [378904-across-the-obelisk-necropolis-of-the-damned.json](./378904-across-the-obelisk-necropolis-of-the-damned.json) |
+| Across The Obelisk: Sands of Ulminin | 261915 | [261915-across-the-obelisk-sands-of-ulminin.json](./261915-across-the-obelisk-sands-of-ulminin.json) |
+| Across The Obelisk: Sands of Ulminin | 261934 | [261934-across-the-obelisk-sands-of-ulminin.json](./261934-across-the-obelisk-sands-of-ulminin.json) |
 | Across the Obelisk: Shores of Sahti | 357778 | [357778-across-the-obelisk-shores-of-sahti.json](./357778-across-the-obelisk-shores-of-sahti.json) |
 | Across the Obelisk: Sigrun, the Valkyrie | 357779 | [357779-across-the-obelisk-sigrun-the-valkyrie.json](./357779-across-the-obelisk-sigrun-the-valkyrie.json) |
 | Across the Obelisk: Starter Set | 292920 | [292920-across-the-obelisk-starter-set.json](./292920-across-the-obelisk-starter-set.json) |
@@ -7187,6 +7189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber's Tale | 247948 | [247948-ambers-tale.json](./247948-ambers-tale.json) |
 | Amber's Tales: The Isle of Dead Ships | 58024 | [58024-ambers-tales-the-isle-of-dead-ships.json](./58024-ambers-tales-the-isle-of-dead-ships.json) |
 | AmberCity | 101062 | [101062-ambercity.json](./101062-ambercity.json) |
+| Amberial | 261918 | [261918-amberial.json](./261918-amberial.json) |
 | Amberial Dreams | 107773 | [107773-amberial-dreams.json](./107773-amberial-dreams.json) |
 | Ambermoon | 11897 | [11897-ambermoon.json](./11897-ambermoon.json) |
 | Ambermoon.net | 217853 | [217853-ambermoon-net.json](./217853-ambermoon-net.json) |
@@ -14760,6 +14763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audio Hero | 26831 | [26831-audio-hero.json](./26831-audio-hero.json) |
 | Audio Infection | 111669 | [111669-audio-infection.json](./111669-audio-infection.json) |
 | Audio Party Pack | 143923 | [143923-audio-party-pack.json](./143923-audio-party-pack.json) |
+| Audio Trip: Swanky Song Pack | 261928 | [261928-audio-trip-swanky-song-pack.json](./261928-audio-trip-swanky-song-pack.json) |
 | AudioBat | 102256 | [102256-audiobat.json](./102256-audiobat.json) |
 | Audioclash: Battle of the Bands | 211083 | [211083-audioclash-battle-of-the-bands.json](./211083-audioclash-battle-of-the-bands.json) |
 | Audioglide | 334343 | [334343-audioglide.json](./334343-audioglide.json) |
