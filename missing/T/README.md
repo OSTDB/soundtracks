@@ -10208,7 +10208,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Knight of the Crimson Tower | 228895 | [228895-the-knight-of-the-crimson-tower.json](./228895-the-knight-of-the-crimson-tower.json) |
 | The Knight of Thistledown | 318461 | [318461-the-knight-of-thistledown.json](./318461-the-knight-of-thistledown.json) |
 | The Knight of Turn | 192667 | [192667-the-knight-of-turn.json](./192667-the-knight-of-turn.json) |
-| The Knight Witch | 201483 | [201483-the-knight-witch.json](./201483-the-knight-witch.json) |
 | The Knight's Challenge | 350369 | [350369-the-knights-challenge.json](./350369-the-knights-challenge.json) |
 | The Knight's Magic War | 113045 | [113045-the-knights-magic-war.json](./113045-the-knights-magic-war.json) |
 | The Knight's Path | 258981 | [258981-the-knights-path.json](./258981-the-knights-path.json) |
