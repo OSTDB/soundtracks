@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vamwolf Cross | 60333 | [60333-vamwolf-cross.json](./60333-vamwolf-cross.json) |
 | Van | 234476 | [234476-van.json](./234476-van.json) |
 | Van Buren | 79217 | [79217-van-buren.json](./79217-van-buren.json) |
+| Van Crane Bundle | 247133 | [247133-van-crane-bundle.json](./247133-van-crane-bundle.json) |
 | Van Gogh's Masterpiece Jigsaw Puzzles | 286240 | [286240-van-goghs-masterpiece-jigsaw-puzzles.json](./286240-van-goghs-masterpiece-jigsaw-puzzles.json) |
 | Van Hellswing | 247869 | [247869-van-hellswing.json](./247869-van-hellswing.json) |
 | Van Helsing | 6226 | [6226-van-helsing.json](./6226-van-helsing.json) |
@@ -876,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VBS2 | 94963 | [94963-vbs2.json](./94963-vbs2.json) |
 | VBS3 | 60994 | [60994-vbs3.json](./60994-vbs3.json) |
 | VC | 24883 | [24883-vc.json](./24883-vc.json) |
+| VC-1 | 246220 | [246220-vc-1.json](./246220-vc-1.json) |
 | VC-2 | 246221 | [246221-vc-2.json](./246221-vc-2.json) |
 | VC-3 | 246222 | [246222-vc-3.json](./246222-vc-3.json) |
 | VCB: Why City - The Ballad Of Drunk Khovansky | 69510 | [69510-vcb-why-city-the-ballad-of-drunk-khovansky.json](./69510-vcb-why-city-the-ballad-of-drunk-khovansky.json) |
@@ -1522,6 +1524,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VFR Real Scenery: London | 70963 | [70963-vfr-real-scenery-london.json](./70963-vfr-real-scenery-london.json) |
 | VFR Real Scenery: South East England | 68680 | [68680-vfr-real-scenery-south-east-england.json](./68680-vfr-real-scenery-south-east-england.json) |
 | VG II: The Bout of Cabalistic Goddess | 98253 | [98253-vg-ii-the-bout-of-cabalistic-goddess.json](./98253-vg-ii-the-bout-of-cabalistic-goddess.json) |
+| VG Pocket 50 | 246217 | [246217-vg-pocket-50.json](./246217-vg-pocket-50.json) |
+| VG Pocket Caplet | 246218 | [246218-vg-pocket-caplet.json](./246218-vg-pocket-caplet.json) |
 | VG Trivia Challenge | 334650 | [334650-vg-trivia-challenge.json](./334650-vg-trivia-challenge.json) |
 | VGA Planets | 135285 | [135285-vga-planets.json](./135285-vga-planets.json) |
 | VGA Planets Nu | 294378 | [294378-vga-planets-nu.json](./294378-vga-planets-nu.json) |
