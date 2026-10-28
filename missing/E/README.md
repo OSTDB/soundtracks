@@ -2712,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emma: Lost in Memories | 121380 | [121380-emma-lost-in-memories.json](./121380-emma-lost-in-memories.json) |
 | Emma's Armaments | 213017 | [213017-emmas-armaments.json](./213017-emmas-armaments.json) |
 | Emma's World | 299220 | [299220-emmas-world.json](./299220-emmas-world.json) |
+| Emme Saves the Galaxy | 260204 | [260204-emme-saves-the-galaxy.json](./260204-emme-saves-the-galaxy.json) |
 | Emmensity | 356639 | [356639-emmensity.json](./356639-emmensity.json) |
 | Emmerdale DVD Game | 315194 | [315194-emmerdale-dvd-game.json](./315194-emmerdale-dvd-game.json) |
 | Emmitt Smith Football | 42559 | [42559-emmitt-smith-football.json](./42559-emmitt-smith-football.json) |
@@ -3935,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Survivors | 219252 | [219252-epic-survivors.json](./219252-epic-survivors.json) |
 | Epic Survivors | 339084 | [339084-epic-survivors.json](./339084-epic-survivors.json) |
 | Epic Tavern | 25644 | [25644-epic-tavern.json](./25644-epic-tavern.json) |
+| Epic Trains 4 | 260256 | [260256-epic-trains-4.json](./260256-epic-trains-4.json) |
 | Epic Transport | 379913 | [379913-epic-transport.json](./379913-epic-transport.json) |
 | Epic Truck | 89796 | [89796-epic-truck.json](./89796-epic-truck.json) |
 | Epic Vampire | 307721 | [307721-epic-vampire.json](./307721-epic-vampire.json) |
@@ -6790,6 +6792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Experimental | 163972 | [163972-experimental.json](./163972-experimental.json) |
 | Experimental Game Pack 01 | 62139 | [62139-experimental-game-pack-01.json](./62139-experimental-game-pack-01.json) |
 | Experimental Game Pack 01 | 80612 | [80612-experimental-game-pack-01.json](./80612-experimental-game-pack-01.json) |
+| Experimentation | 260274 | [260274-experimentation.json](./260274-experimentation.json) |
 | Expert | 43796 | [43796-expert.json](./43796-expert.json) |
 | Expert Chess | 93361 | [93361-expert-chess.json](./93361-expert-chess.json) |
 | Expert Laser Man | 120879 | [120879-expert-laser-man.json](./120879-expert-laser-man.json) |
