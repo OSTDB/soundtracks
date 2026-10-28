@@ -10728,6 +10728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skvears | 337543 | [337543-skvears.json](./337543-skvears.json) |
 | Skwampt | 229752 | [229752-skwampt.json](./229752-skwampt.json) |
 | Skwish | 212294 | [212294-skwish.json](./212294-skwish.json) |
+| Sky | 244940 | [244940-sky.json](./244940-sky.json) |
 | Sky & Heart Last Survival | 83342 | [83342-sky-and-heart-last-survival.json](./83342-sky-and-heart-last-survival.json) |
 | Sky 2120 | 408216 | [408216-sky-2120.json](./408216-sky-2120.json) |
 | Sky Abyss | 400823 | [400823-sky-abyss.json](./400823-sky-abyss.json) |
@@ -11478,6 +11479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepy Time Jack: Digital Talking Body Pillow | 259116 | [259116-sleepy-time-jack-digital-talking-body-pillow.json](./259116-sleepy-time-jack-digital-talking-body-pillow.json) |
 | Sleeve Shock | 257956 | [257956-sleeve-shock.json](./257956-sleeve-shock.json) |
 | Sleigh Strikers | 279257 | [279257-sleigh-strikers.json](./279257-sleigh-strikers.json) |
+| Sleigher | 244810 | [244810-sleigher.json](./244810-sleigher.json) |
 | Sleight | 30885 | [30885-sleight.json](./30885-sleight.json) |
 | Sleight: Nerve Wracking Espionage Party Game | 110740 | [110740-sleight-nerve-wracking-espionage-party-game.json](./110740-sleight-nerve-wracking-espionage-party-game.json) |
 | Slemmings | 184383 | [184383-slemmings.json](./184383-slemmings.json) |
@@ -17912,6 +17914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Ops | 271266 | [271266-special-ops.json](./271266-special-ops.json) |
 | Special Permit for Cabela's Big Game Hunter | 69687 | [69687-special-permit-for-cabelas-big-game-hunter.json](./69687-special-permit-for-cabelas-big-game-hunter.json) |
 | Special Sampler | 55925 | [55925-special-sampler.json](./55925-special-sampler.json) |
+| Special Squad vs. Zombies | 244942 | [244942-special-squad-vs-zombies.json](./244942-special-squad-vs-zombies.json) |
 | Special Strike | 345975 | [345975-special-strike.json](./345975-special-strike.json) |
 | Special Tactics | 33750 | [33750-special-tactics.json](./33750-special-tactics.json) |
 | Special Tee Shot | 60587 | [60587-special-tee-shot.json](./60587-special-tee-shot.json) |
@@ -20317,6 +20320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StableBound | 297004 | [297004-stablebound.json](./297004-stablebound.json) |
 | Stablemasters | 415897 | [415897-stablemasters.json](./415897-stablemasters.json) |
 | Stack | 135714 | [135714-stack.json](./135714-stack.json) |
+| Stack | 244941 | [244941-stack.json](./244941-stack.json) |
 | Stack | 34669 | [34669-stack.json](./34669-stack.json) |
 | Stack 'Em Up | 312826 | [312826-stack-em-up.json](./312826-stack-em-up.json) |
 | Stack & Sigil | 421229 | [421229-stack-and-sigil.json](./421229-stack-and-sigil.json) |
@@ -22763,6 +22767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Echoes: Brave Trial | 263746 | [263746-stellar-echoes-brave-trial.json](./263746-stellar-echoes-brave-trial.json) |
 | Stellar Echoes: Maze Shooter | 263748 | [263748-stellar-echoes-maze-shooter.json](./263748-stellar-echoes-maze-shooter.json) |
 | Stellar Echoes: Ultimate Challenge | 263749 | [263749-stellar-echoes-ultimate-challenge.json](./263749-stellar-echoes-ultimate-challenge.json) |
+| Stellar Empires | 244923 | [244923-stellar-empires.json](./244923-stellar-empires.json) |
 | Stellar Expansion | 176368 | [176368-stellar-expansion.json](./176368-stellar-expansion.json) |
 | Stellar Fight | 218978 | [218978-stellar-fight.json](./218978-stellar-fight.json) |
 | Stellar Fixer | 399647 | [399647-stellar-fixer.json](./399647-stellar-fixer.json) |
@@ -24375,6 +24380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Masters | 175196 | [175196-street-masters.json](./175196-street-masters.json) |
 | Street Ninja | 217946 | [217946-street-ninja.json](./217946-street-ninja.json) |
 | Street of Sanctuary VR | 30051 | [30051-street-of-sanctuary-vr.json](./30051-street-of-sanctuary-vr.json) |
+| Street of Secrets | 244590 | [244590-street-of-secrets.json](./244590-street-of-secrets.json) |
 | Street of the Cats | 293631 | [293631-street-of-the-cats.json](./293631-street-of-the-cats.json) |
 | Street Olympics | 28564 | [28564-street-olympics.json](./28564-street-olympics.json) |
 | Street Outlaws 2: Winner Takes All | 162246 | [162246-street-outlaws-2-winner-takes-all.json](./162246-street-outlaws-2-winner-takes-all.json) |
@@ -24470,6 +24476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of SimCity | 1497 | [1497-streets-of-simcity.json](./1497-streets-of-simcity.json) |
 | Streets of Slender-Man | 267952 | [267952-streets-of-slender-man.json](./267952-streets-of-slender-man.json) |
 | Streetsad | 348285 | [348285-streetsad.json](./348285-streetsad.json) |
+| StreetStep: 21st Century Basketball | 244930 | [244930-streetstep-21st-century-basketball.json](./244930-streetstep-21st-century-basketball.json) |
 | StreetSync | 332983 | [332983-streetsync.json](./332983-streetsync.json) |
 | Streichholz wegnehmen | 100042 | [100042-streichholz-wegnehmen.json](./100042-streichholz-wegnehmen.json) |
 | Strength & Honour 2 | 54404 | [54404-strength-and-honour-2.json](./54404-strength-and-honour-2.json) |
@@ -26546,6 +26553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Castlevania IV: Other Castle | 309603 | [309603-super-castlevania-iv-other-castle.json](./309603-super-castlevania-iv-other-castle.json) |
 | Super Cat Herding: Totally Awesome Edition | 33084 | [33084-super-cat-herding-totally-awesome-edition.json](./33084-super-cat-herding-totally-awesome-edition.json) |
 | Super Cat Planet | 134314 | [134314-super-cat-planet.json](./134314-super-cat-planet.json) |
+| Super Cat Simulator | 244946 | [244946-super-cat-simulator.json](./244946-super-cat-simulator.json) |
 | Super Cat Tales | 96155 | [96155-super-cat-tales.json](./96155-super-cat-tales.json) |
 | Super Cat Tales: Paws | 250999 | [250999-super-cat-tales-paws.json](./250999-super-cat-tales-paws.json) |
 | Super Cat the Builder | 386332 | [386332-super-cat-the-builder.json](./386332-super-cat-the-builder.json) |
@@ -30085,6 +30093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarm Queen | 68837 | [68837-swarm-queen.json](./68837-swarm-queen.json) |
 | Swarm Racer 3000 | 330077 | [330077-swarm-racer-3000.json](./330077-swarm-racer-3000.json) |
 | Swarm Simulator: Evolution | 96588 | [96588-swarm-simulator-evolution.json](./96588-swarm-simulator-evolution.json) |
+| Swarm Survivor | 244931 | [244931-swarm-survivor.json](./244931-swarm-survivor.json) |
 | Swarm Survivor: Endless Siege | 391630 | [391630-swarm-survivor-endless-siege.json](./391630-swarm-survivor-endless-siege.json) |
 | Swarm Sweeper | 351604 | [351604-swarm-sweeper.json](./351604-swarm-sweeper.json) |
 | Swarm the City | 152391 | [152391-swarm-the-city.json](./152391-swarm-the-city.json) |
