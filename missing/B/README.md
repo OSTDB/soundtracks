@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back from Void | 275069 | [275069-back-from-void.json](./275069-back-from-void.json) |
 | Back Home for Christmas | 175840 | [175840-back-home-for-christmas.json](./175840-back-home-for-christmas.json) |
 | Back In 1995 64 | 85503 | [85503-back-in-1995-64.json](./85503-back-in-1995-64.json) |
+| Back in Business | 272108 | [272108-back-in-business.json](./272108-back-in-business.json) |
 | Back in Time | 367896 | [367896-back-in-time.json](./367896-back-in-time.json) |
 | Back in Time | 57995 | [57995-back-in-time.json](./57995-back-in-time.json) |
 | Back in Time Part II: Back to the Nineties | 57996 | [57996-back-in-time-part-ii-back-to-the-nineties.json](./57996-back-in-time-part-ii-back-to-the-nineties.json) |
@@ -4117,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Club Simulator | 292638 | [292638-beach-club-simulator.json](./292638-beach-club-simulator.json) |
 | Beach Club Simulator 2024 | 289429 | [289429-beach-club-simulator-2024.json](./289429-beach-club-simulator-2024.json) |
 | Beach Club Tycoon | 249683 | [249683-beach-club-tycoon.json](./249683-beach-club-tycoon.json) |
+| Beach Community Build Project | 272119 | [272119-beach-community-build-project.json](./272119-beach-community-build-project.json) |
 | Beach de Reach! | 45418 | [45418-beach-de-reach.json](./45418-beach-de-reach.json) |
 | Beach Defense: Zombie Invasion | 407795 | [407795-beach-defense-zombie-invasion.json](./407795-beach-defense-zombie-invasion.json) |
 | Beach Festival World Championship 1997 | 255362 | [255362-beach-festival-world-championship-1997.json](./255362-beach-festival-world-championship-1997.json) |
@@ -8838,6 +8840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blink and Die Replay | 319351 | [319351-blink-and-die-replay.json](./319351-blink-and-die-replay.json) |
 | Blink Blonk | 285878 | [285878-blink-blonk.json](./285878-blink-blonk.json) |
 | Blink God | 202632 | [202632-blink-god.json](./202632-blink-god.json) |
+| Blink of an Eye | 272118 | [272118-blink-of-an-eye.json](./272118-blink-of-an-eye.json) |
 | Blink Planets | 189369 | [189369-blink-planets.json](./189369-blink-planets.json) |
 | Blink the Bulb | 31099 | [31099-blink-the-bulb.json](./31099-blink-the-bulb.json) |
 | Blink: Rogues | 110324 | [110324-blink-rogues.json](./110324-blink-rogues.json) |
@@ -11487,6 +11490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border Police: Contraband Simulator 2024 | 307639 | [307639-border-police-contraband-simulator-2024.json](./307639-border-police-contraband-simulator-2024.json) |
 | Border Reign | 142468 | [142468-border-reign.json](./142468-border-reign.json) |
 | Border Town | 199466 | [199466-border-town.json](./199466-border-town.json) |
+| Border Town | 272117 | [272117-border-town.json](./272117-border-town.json) |
 | Border Wars | 224091 | [224091-border-wars.json](./224091-border-wars.json) |
 | Bordercide | 168711 | [168711-bordercide.json](./168711-bordercide.json) |
 | BorderCollie Blaster | 175768 | [175768-bordercollie-blaster.json](./175768-bordercollie-blaster.json) |
@@ -12583,6 +12587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainstorm: The Game Show | 71485 | [71485-brainstorm-the-game-show.json](./71485-brainstorm-the-game-show.json) |
 | BrainTaire | 261521 | [261521-braintaire.json](./261521-braintaire.json) |
 | Brainteaser Boulevard! | 21919 | [21919-brainteaser-boulevard.json](./21919-brainteaser-boulevard.json) |
+| Brainwash Facility | 272116 | [272116-brainwash-facility.json](./272116-brainwash-facility.json) |
 | Brainwashing Academy: The Cursed Person's Pot | 380457 | [380457-brainwashing-academy-the-cursed-persons-pot.json](./380457-brainwashing-academy-the-cursed-persons-pot.json) |
 | Brainwave Trials | 304426 | [304426-brainwave-trials.json](./304426-brainwave-trials.json) |
 | Brainy Joy | 75937 | [75937-brainy-joy.json](./75937-brainy-joy.json) |
@@ -15621,6 +15626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust-A-Move 2: Arcade Edition | 249129 | [249129-bust-a-move-2-arcade-edition.json](./249129-bust-a-move-2-arcade-edition.json) |
 | Bust-A-Move 2: Arcade Edition | 3455 | [3455-bust-a-move-2-arcade-edition.json](./3455-bust-a-move-2-arcade-edition.json) |
 | Bust-A-Move 2X | 209377 | [209377-bust-a-move-2x.json](./209377-bust-a-move-2x.json) |
+| Bust-A-Move 3 | 272089 | [272089-bust-a-move-3.json](./272089-bust-a-move-3.json) |
 | Bust-A-Move 3 | 3454 | [3454-bust-a-move-3.json](./3454-bust-a-move-3.json) |
 | Bust-A-Move 3 DX | 272174 | [272174-bust-a-move-3-dx.json](./272174-bust-a-move-3-dx.json) |
 | Bust-A-Move 3000 | 50570 | [50570-bust-a-move-3000.json](./50570-bust-a-move-3000.json) |
