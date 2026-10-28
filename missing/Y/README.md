@@ -1211,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Android | 329644 | [329644-your-android.json](./329644-your-android.json) |
 | Your Anime Waifu | 368080 | [368080-your-anime-waifu.json](./368080-your-anime-waifu.json) |
 | Your Answers or Your Breakfast! | 181752 | [181752-your-answers-or-your-breakfast.json](./181752-your-answers-or-your-breakfast.json) |
+| Your Average Bear | 244426 | [244426-your-average-bear.json](./244426-your-average-bear.json) |
 | Your Average Old School Shmup | 320852 | [320852-your-average-old-school-shmup.json](./320852-your-average-old-school-shmup.json) |
 | Your Basic Block | 77779 | [77779-your-basic-block.json](./77779-your-basic-block.json) |
 | Your Best Nightmare | 176909 | [176909-your-best-nightmare.json](./176909-your-best-nightmare.json) |
