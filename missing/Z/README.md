@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Riot | 36711 | [36711-zombie-riot.json](./36711-zombie-riot.json) |
 | Zombie Road Rage | 326535 | [326535-zombie-road-rage.json](./326535-zombie-road-rage.json) |
 | Zombie Road Rider | 126590 | [126590-zombie-road-rider.json](./126590-zombie-road-rider.json) |
+| Zombie Road Trip | 232609 | [232609-zombie-road-trip.json](./232609-zombie-road-trip.json) |
 | Zombie Road Trip HD | 99145 | [99145-zombie-road-trip-hd.json](./99145-zombie-road-trip-hd.json) |
 | Zombie Roadkill 3D | 260869 | [260869-zombie-roadkill-3d.json](./260869-zombie-roadkill-3d.json) |
 | Zombie Rogue | 100360 | [100360-zombie-rogue.json](./100360-zombie-rogue.json) |
