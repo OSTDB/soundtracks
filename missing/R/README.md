@@ -3182,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recursudoku | 413194 | [413194-recursudoku.json](./413194-recursudoku.json) |
 | Recyclamation | 380201 | [380201-recyclamation.json](./380201-recyclamation.json) |
 | Recycle | 17300 | [17300-recycle.json](./17300-recycle.json) |
+| Recycle Bin Battle | 259103 | [259103-recycle-bin-battle.json](./259103-recycle-bin-battle.json) |
 | Recycle Design | 195055 | [195055-recycle-design.json](./195055-recycle-design.json) |
 | Recycle it! | 296273 | [296273-recycle-it.json](./296273-recycle-it.json) |
 | Recycle Master | 300851 | [300851-recycle-master.json](./300851-recycle-master.json) |
