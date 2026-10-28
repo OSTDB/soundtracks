@@ -2621,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Hope: Episode 6 | 170922 | [170922-only-hope-episode-6.json](./170922-only-hope-episode-6.json) |
 | Only Hope: Episode 7 | 170918 | [170918-only-hope-episode-7.json](./170918-only-hope-episode-7.json) |
 | Only Humans On Board | 402951 | [402951-only-humans-on-board.json](./402951-only-humans-on-board.json) |
+| Only in Passing | 262523 | [262523-only-in-passing.json](./262523-only-in-passing.json) |
 | Only Jump | 413644 | [413644-only-jump.json](./413644-only-jump.json) |
 | Only Jump On Pogo | 361008 | [361008-only-jump-on-pogo.json](./361008-only-jump-on-pogo.json) |
 | Only Jump! | 260756 | [260756-only-jump.json](./260756-only-jump.json) |
