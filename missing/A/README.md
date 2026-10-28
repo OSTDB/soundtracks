@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dog Tale | 295872 | [295872-a-dog-tale.json](./295872-a-dog-tale.json) |
 | A Dogs Dream | 378434 | [378434-a-dogs-dream.json](./378434-a-dogs-dream.json) |
 | A Doll in a Dream | 409864 | [409864-a-doll-in-a-dream.json](./409864-a-doll-in-a-dream.json) |
+| A Doomer Boards Christmas Carol | 257183 | [257183-a-doomer-boards-christmas-carol.json](./257183-a-doomer-boards-christmas-carol.json) |
 | A dragon girl looks up at the endless sky | 33166 | [33166-a-dragon-girl-looks-up-at-the-endless-sky.json](./33166-a-dragon-girl-looks-up-at-the-endless-sky.json) |
 | A Dragon Named Coal | 236808 | [236808-a-dragon-named-coal.json](./236808-a-dragon-named-coal.json) |
 | a Dragon's reQuest | 314740 | [314740-a-dragons-request.json](./314740-a-dragons-request.json) |
@@ -6546,6 +6547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone | 153218 | [153218-alone.json](./153218-alone.json) |
 | Alone | 195984 | [195984-alone.json](./195984-alone.json) |
 | Alone | 196110 | [196110-alone.json](./196110-alone.json) |
+| Alone | 257181 | [257181-alone.json](./257181-alone.json) |
 | Alone | 272639 | [272639-alone.json](./272639-alone.json) |
 | Alone | 97495 | [97495-alone.json](./97495-alone.json) |
 | Alone A Long | 324798 | [324798-alone-a-long.json](./324798-alone-a-long.json) |
@@ -10342,6 +10344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarist: Japanese Garden | 298389 | [298389-aquarist-japanese-garden.json](./298389-aquarist-japanese-garden.json) |
 | Aquarist: My First Job | 170934 | [170934-aquarist-my-first-job.json](./170934-aquarist-my-first-job.json) |
 | Aquarium | 21400 | [21400-aquarium.json](./21400-aquarium.json) |
+| Aquarium | 257196 | [257196-aquarium.json](./257196-aquarium.json) |
 | Aquarium Anomaly | 414410 | [414410-aquarium-anomaly.json](./414410-aquarium-anomaly.json) |
 | Aquarium at August 32nd | 330633 | [330633-aquarium-at-august-32nd.json](./330633-aquarium-at-august-32nd.json) |
 | Aquarium at August 32nd VR | 337961 | [337961-aquarium-at-august-32nd-vr.json](./337961-aquarium-at-august-32nd-vr.json) |
@@ -13623,6 +13626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra: Ardent Show | 395947 | [395947-astra-ardent-show.json](./395947-astra-ardent-show.json) |
 | Astra: Era of Anguish | 327757 | [327757-astra-era-of-anguish.json](./327757-astra-era-of-anguish.json) |
 | Astra: Fading Stars | 143124 | [143124-astra-fading-stars.json](./143124-astra-fading-stars.json) |
+| Astra: Knights of Veda | 257502 | [257502-astra-knights-of-veda.json](./257502-astra-knights-of-veda.json) |
 | Astra's Garden | 234543 | [234543-astras-garden.json](./234543-astras-garden.json) |
 | Astra's Moon | 179671 | [179671-astras-moon.json](./179671-astras-moon.json) |
 | Astraaal | 133270 | [133270-astraaal.json](./133270-astraaal.json) |
@@ -13714,6 +13718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astraphobia | 349746 | [349746-astraphobia.json](./349746-astraphobia.json) |
 | Astraverse | 163794 | [163794-astraverse.json](./163794-astraverse.json) |
 | Astraware Casino | 206235 | [206235-astraware-casino.json](./206235-astraware-casino.json) |
+| Astraware Zap! | 257482 | [257482-astraware-zap.json](./257482-astraware-zap.json) |
 | AstraX | 201512 | [201512-astrax.json](./201512-astrax.json) |
 | Astray: Zero | 378246 | [378246-astray-zero.json](./378246-astray-zero.json) |
 | Astrd | 173245 | [173245-astrd.json](./173245-astrd.json) |
@@ -15521,6 +15526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Away from the light | 287732 | [287732-away-from-the-light.json](./287732-away-from-the-light.json) |
 | Away in the Woods | 225765 | [225765-away-in-the-woods.json](./225765-away-in-the-woods.json) |
 | Away Team | 349503 | [349503-away-team.json](./349503-away-team.json) |
+| Away Times | 257486 | [257486-away-times.json](./257486-away-times.json) |
 | Away: Journey to the Unexpected | 27443 | [27443-away-journey-to-the-unexpected.json](./27443-away-journey-to-the-unexpected.json) |
 | Away: Shuffle Dungeon | 21332 | [21332-away-shuffle-dungeon.json](./21332-away-shuffle-dungeon.json) |
 | Away: The Survival Series | 71457 | [71457-away-the-survival-series.json](./71457-away-the-survival-series.json) |
