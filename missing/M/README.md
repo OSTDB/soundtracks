@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Destiny | 32830 | [32830-mahjong-destiny.json](./32830-mahjong-destiny.json) |
 | Mahjong Detective: The Stolen Love | 295919 | [295919-mahjong-detective-the-stolen-love.json](./295919-mahjong-detective-the-stolen-love.json) |
 | Mahjong Domino | 89830 | [89830-mahjong-domino.json](./89830-mahjong-domino.json) |
+| Mahjong Egyptian: The Mystery of the Pharaoh | 238692 | [238692-mahjong-egyptian-the-mystery-of-the-pharaoh.json](./238692-mahjong-egyptian-the-mystery-of-the-pharaoh.json) |
 | Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
 | Mahjong Elements HDX | 88370 | [88370-mahjong-elements-hdx.json](./88370-mahjong-elements-hdx.json) |
 | Mahjong Epic | 83414 | [83414-mahjong-epic.json](./83414-mahjong-epic.json) |
@@ -19200,6 +19201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythos: Book One | 344543 | [344543-mythos-book-one.json](./344543-mythos-book-one.json) |
 | Mythos: Slavic Builder | 150784 | [150784-mythos-slavic-builder.json](./150784-mythos-slavic-builder.json) |
 | Mythos: The Beginning | 36206 | [36206-mythos-the-beginning.json](./36206-mythos-the-beginning.json) |
+| Mythrera | 238676 | [238676-mythrera.json](./238676-mythrera.json) |
 | Myths & Fairy Tales Bundle | 274418 | [274418-myths-and-fairy-tales-bundle.json](./274418-myths-and-fairy-tales-bundle.json) |
 | Myths & Rites | 381296 | [381296-myths-and-rites.json](./381296-myths-and-rites.json) |
 | Myths and Legends Bundle: Tunche & Black Book | 188026 | [188026-myths-and-legends-bundle-tunche-and-black-book.json](./188026-myths-and-legends-bundle-tunche-and-black-book.json) |
