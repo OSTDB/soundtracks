@@ -1769,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko no Famires: Nyanko-tachi to Issho ni Omise wo Moriageyou!!~ | 214382 | [214382-neko-no-famires-nyanko-tachi-to-issho-ni-omise-wo-moriageyou.json](./214382-neko-no-famires-nyanko-tachi-to-issho-ni-omise-wo-moriageyou.json) |
 | Neko no Sentouki | 343390 | [343390-neko-no-sentouki.json](./343390-neko-no-sentouki.json) |
 | Neko Nyaa~ | 195479 | [195479-neko-nyaa.json](./195479-neko-nyaa.json) |
+| Neko Odyssey | 261383 | [261383-neko-odyssey.json](./261383-neko-odyssey.json) |
 | Neko Papala | 150539 | [150539-neko-papala.json](./150539-neko-papala.json) |
 | Neko Puzzle | 212851 | [212851-neko-puzzle.json](./212851-neko-puzzle.json) |
 | Neko Rescue Tale | 241040 | [241040-neko-rescue-tale.json](./241040-neko-rescue-tale.json) |
