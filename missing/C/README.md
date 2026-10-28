@@ -1953,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card & Digital | 385324 | [385324-card-and-digital.json](./385324-card-and-digital.json) |
 | Card & Puzzle Collection Ginga | 365679 | [365679-card-and-puzzle-collection-ginga.json](./365679-card-and-puzzle-collection-ginga.json) |
 | Card Adventure | 187271 | [187271-card-adventure.json](./187271-card-adventure.json) |
+| Card Age | 258590 | [258590-card-age.json](./258590-card-age.json) |
 | Card Apocalypse | 148839 | [148839-card-apocalypse.json](./148839-card-apocalypse.json) |
 | Card Artisan | 366129 | [366129-card-artisan.json](./366129-card-artisan.json) |
 | Card Attack: Gabee's Roads | 330082 | [330082-card-attack-gabees-roads.json](./330082-card-attack-gabees-roads.json) |
@@ -2535,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars vs Train | 230939 | [230939-cars-vs-train.json](./230939-cars-vs-train.json) |
 | Cars vs Zombies | 157090 | [157090-cars-vs-zombies.json](./157090-cars-vs-zombies.json) |
 | Cars vs. TNT | 179154 | [179154-cars-vs-tnt.json](./179154-cars-vs-tnt.json) |
+| Cars, Girls and Rock 'n' Roll | 258583 | [258583-cars-girls-and-rock-n-roll.json](./258583-cars-girls-and-rock-n-roll.json) |
 | Cars: Radiator Springs Adventures | 18251 | [18251-cars-radiator-springs-adventures.json](./18251-cars-radiator-springs-adventures.json) |
 | Cars: Rev It Up In Radiator Springs | 220100 | [220100-cars-rev-it-up-in-radiator-springs.json](./220100-cars-rev-it-up-in-radiator-springs.json) |
 | Cars! Easy Car Games For Baby Boys | 101012 | [101012-cars-easy-car-games-for-baby-boys.json](./101012-cars-easy-car-games-for-baby-boys.json) |
@@ -5565,6 +5567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Showdown | 256391 | [256391-chef-showdown.json](./256391-chef-showdown.json) |
 | Chef Solitaire: USA | 33793 | [33793-chef-solitaire-usa.json](./33793-chef-solitaire-usa.json) |
 | Chef Strikes Back | 338511 | [338511-chef-strikes-back.json](./338511-chef-strikes-back.json) |
+| Chef Survivor | 258569 | [258569-chef-survivor.json](./258569-chef-survivor.json) |
 | Chef Town | 257007 | [257007-chef-town.json](./257007-chef-town.json) |
 | Chef Wanted | 232665 | [232665-chef-wanted.json](./232665-chef-wanted.json) |
 | Chef Wars | 102115 | [102115-chef-wars.json](./102115-chef-wars.json) |
@@ -6636,6 +6639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chompsters | 141602 | [141602-chompsters.json](./141602-chompsters.json) |
 | Chompy Chomp Chomp Party | 223508 | [223508-chompy-chomp-chomp-party.json](./223508-chompy-chomp-chomp-party.json) |
 | Chompy: The Greedy Crocodile | 138626 | [138626-chompy-the-greedy-crocodile.json](./138626-chompy-the-greedy-crocodile.json) |
+| Chondriatic | 258572 | [258572-chondriatic.json](./258572-chondriatic.json) |
 | Chóngshēng Zhànshì | 158537 | [158537-chongsheng-zhanshi.json](./158537-chongsheng-zhanshi.json) |
 | Chonka | 142212 | [142212-chonka.json](./142212-chonka.json) |
 | Chonkers | 324792 | [324792-chonkers.json](./324792-chonkers.json) |
@@ -7066,6 +7070,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatic Labyrinth | 167603 | [167603-chromatic-labyrinth.json](./167603-chromatic-labyrinth.json) |
 | Chromatic Memories | 291894 | [291894-chromatic-memories.json](./291894-chromatic-memories.json) |
 | Chromatic Odyssey | 338522 | [338522-chromatic-odyssey.json](./338522-chromatic-odyssey.json) |
+| Chromatic Resonance | 258581 | [258581-chromatic-resonance.json](./258581-chromatic-resonance.json) |
+| Chromatic Shift | 258591 | [258591-chromatic-shift.json](./258591-chromatic-shift.json) |
 | Chromatic Souls | 200734 | [200734-chromatic-souls.json](./200734-chromatic-souls.json) |
 | Chromatic: Color Puzzles | 134425 | [134425-chromatic-color-puzzles.json](./134425-chromatic-color-puzzles.json) |
 | Chromaticasters | 264191 | [264191-chromaticasters.json](./264191-chromaticasters.json) |
@@ -7490,6 +7496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cindy's Sundaes | 52736 | [52736-cindys-sundaes.json](./52736-cindys-sundaes.json) |
 | Cine Game | 106152 | [106152-cine-game.json](./106152-cine-game.json) |
 | Cine Tracer | 112265 | [112265-cine-tracer.json](./112265-cine-tracer.json) |
+| Cine Tracer 2 | 258584 | [258584-cine-tracer-2.json](./258584-cine-tracer-2.json) |
 | Cinema Madness | 310551 | [310551-cinema-madness.json](./310551-cinema-madness.json) |
 | Cinema Manager | 157171 | [157171-cinema-manager.json](./157171-cinema-manager.json) |
 | Cinema Manager Simulator | 365827 | [365827-cinema-manager-simulator.json](./365827-cinema-manager-simulator.json) |
@@ -17142,6 +17149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut It | 316716 | [316716-cut-it.json](./316716-cut-it.json) |
 | Cut It: Brain Puzzles | 254325 | [254325-cut-it-brain-puzzles.json](./254325-cut-it-brain-puzzles.json) |
 | Cut It! | 378530 | [378530-cut-it.json](./378530-cut-it.json) |
+| Cut Master Spades | 258576 | [258576-cut-master-spades.json](./258576-cut-master-spades.json) |
 | Cut Me Deeply | 229159 | [229159-cut-me-deeply.json](./229159-cut-me-deeply.json) |
 | Cut Off | 175192 | [175192-cut-off.json](./175192-cut-off.json) |
 | Cut Off From The World | 245318 | [245318-cut-off-from-the-world.json](./245318-cut-off-from-the-world.json) |
@@ -17423,6 +17431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Ops | 114068 | [114068-cyber-ops.json](./114068-cyber-ops.json) |
 | Cyber Org | 72900 | [72900-cyber-org.json](./72900-cyber-org.json) |
 | Cyber OutRun | 121461 | [121461-cyber-outrun.json](./121461-cyber-outrun.json) |
+| Cyber Paradise | 258574 | [258574-cyber-paradise.json](./258574-cyber-paradise.json) |
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Parkour | 317387 | [317387-cyber-parkour.json](./317387-cyber-parkour.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
