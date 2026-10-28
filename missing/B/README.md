@@ -2562,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Base of War | 252320 | [252320-base-of-war.json](./252320-base-of-war.json) |
 | Base Raid | 31808 | [31808-base-raid.json](./31808-base-raid.json) |
 | Base Squad 49 | 33026 | [33026-base-squad-49.json](./33026-base-squad-49.json) |
+| Base Under Attack! | 233193 | [233193-base-under-attack.json](./233193-base-under-attack.json) |
 | Baseball | 11412 | [11412-baseball.json](./11412-baseball.json) |
 | Baseball | 128484 | [128484-baseball.json](./128484-baseball.json) |
 | Baseball | 131527 | [131527-baseball.json](./131527-baseball.json) |
@@ -6790,6 +6791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Rush | 73170 | [73170-bike-rush.json](./73170-bike-rush.json) |
 | Bike Stunt Master | 105960 | [105960-bike-stunt-master.json](./105960-bike-stunt-master.json) |
 | Bike Super Hero Stunt Driver Racing | 102845 | [102845-bike-super-hero-stunt-driver-racing.json](./102845-bike-super-hero-stunt-driver-racing.json) |
+| Bike Trials Junkyard 2 | 233195 | [233195-bike-trials-junkyard-2.json](./233195-bike-trials-junkyard-2.json) |
 | Bike Trials Offroad 2 | 255035 | [255035-bike-trials-offroad-2.json](./255035-bike-trials-offroad-2.json) |
 | Bike Unchained | 255737 | [255737-bike-unchained.json](./255737-bike-unchained.json) |
 | Bike Unchained 3 | 304962 | [304962-bike-unchained-3.json](./304962-bike-unchained-3.json) |
@@ -9409,6 +9411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockxy Puzzle Adventure | 328560 | [328560-blockxy-puzzle-adventure.json](./328560-blockxy-puzzle-adventure.json) |
 | Blocky | 100836 | [100836-blocky.json](./100836-blocky.json) |
 | Blocky | 234699 | [234699-blocky.json](./234699-blocky.json) |
+| Blocky 6 | 233174 | [233174-blocky-6.json](./233174-blocky-6.json) |
 | Blocky Ball | 151040 | [151040-blocky-ball.json](./151040-blocky-ball.json) |
 | Blocky Bee | 26685 | [26685-blocky-bee.json](./26685-blocky-bee.json) |
 | Blocky Cars In Real World | 175332 | [175332-blocky-cars-in-real-world.json](./175332-blocky-cars-in-real-world.json) |
@@ -9432,6 +9435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Snake | 195558 | [195558-blocky-snake.json](./195558-blocky-snake.json) |
 | Blocky Soccer | 58205 | [58205-blocky-soccer.json](./58205-blocky-soccer.json) |
 | Blocky Space Puzzle | 106733 | [106733-blocky-space-puzzle.json](./106733-blocky-space-puzzle.json) |
+| Blocky Warriors: Amazing Race | 233196 | [233196-blocky-warriors-amazing-race.json](./233196-blocky-warriors-amazing-race.json) |
 | Blocky XMas | 101769 | [101769-blocky-xmas.json](./101769-blocky-xmas.json) |
 | Blocky.Go! | 234665 | [234665-blocky-go.json](./234665-blocky-go.json) |
 | Blocky's Short Quest | 348576 | [348576-blockys-short-quest.json](./348576-blockys-short-quest.json) |
@@ -12445,6 +12449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Fighting Def Jam NY | 196582 | [196582-boxing-fighting-def-jam-ny.json](./196582-boxing-fighting-def-jam-ny.json) |
 | Boxing Go | 293112 | [293112-boxing-go.json](./293112-boxing-go.json) |
 | Boxing Gym Story | 174339 | [174339-boxing-gym-story.json](./174339-boxing-gym-story.json) |
+| Boxing Holic | 233175 | [233175-boxing-holic.json](./233175-boxing-holic.json) |
 | Boxing Legend | 277320 | [277320-boxing-legend.json](./277320-boxing-legend.json) |
 | Boxing Legends of the Ring | 38366 | [38366-boxing-legends-of-the-ring.json](./38366-boxing-legends-of-the-ring.json) |
 | Boxing Life Simulator | 407483 | [407483-boxing-life-simulator.json](./407483-boxing-life-simulator.json) |
@@ -14353,6 +14358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Escape WTH? | 110230 | [110230-bubble-escape-wth.json](./110230-bubble-escape-wth.json) |
 | Bubble Explosion Adventure | 87691 | [87691-bubble-explosion-adventure.json](./87691-bubble-explosion-adventure.json) |
 | Bubble Fighter | 58095 | [58095-bubble-fighter.json](./58095-bubble-fighter.json) |
+| Bubble Fire Story | 233179 | [233179-bubble-fire-story.json](./233179-bubble-fire-story.json) |
 | Bubble Fresh Fruits | 289376 | [289376-bubble-fresh-fruits.json](./289376-bubble-fresh-fruits.json) |
 | Bubble Frog | 290337 | [290337-bubble-frog.json](./290337-bubble-frog.json) |
 | Bubble Ghost | 7802 | [7802-bubble-ghost.json](./7802-bubble-ghost.json) |
@@ -15537,6 +15543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Knight | 117702 | [117702-burning-knight.json](./117702-burning-knight.json) |
 | Burning Lands | 236126 | [236126-burning-lands.json](./236126-burning-lands.json) |
 | Burning Love | 287082 | [287082-burning-love.json](./287082-burning-love.json) |
+| Burning Metal | 233176 | [233176-burning-metal.json](./233176-burning-metal.json) |
 | Burning Monkey Casino | 352743 | [352743-burning-monkey-casino.json](./352743-burning-monkey-casino.json) |
 | Burning Monkey Solitaire 3 | 91560 | [91560-burning-monkey-solitaire-3.json](./91560-burning-monkey-solitaire-3.json) |
 | Burning Mountain and Sea | 150681 | [150681-burning-mountain-and-sea.json](./150681-burning-mountain-and-sea.json) |
