@@ -5118,6 +5118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beehive Bedlam | 238469 | [238469-beehive-bedlam.json](./238469-beehive-bedlam.json) |
 | Beek: Familiar Spirit - Remastered | 342497 | [342497-beek-familiar-spirit-remastered.json](./342497-beek-familiar-spirit-remastered.json) |
 | Beekeeper | 117804 | [117804-beekeeper.json](./117804-beekeeper.json) |
+| Beeknighted | 242717 | [242717-beeknighted.json](./242717-beeknighted.json) |
 | Beekyr | 114307 | [114307-beekyr.json](./114307-beekyr.json) |
 | Beel the Pollinator | 401372 | [401372-beel-the-pollinator.json](./401372-beel-the-pollinator.json) |
 | Beeline | 15669 | [15669-beeline.json](./15669-beeline.json) |
@@ -15784,6 +15785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buster Baxter: Lung Defender | 305863 | [305863-buster-baxter-lung-defender.json](./305863-buster-baxter-lung-defender.json) |
 | Buster Block | 47552 | [47552-buster-block.json](./47552-buster-block.json) |
 | Buster Breaks Out | 390373 | [390373-buster-breaks-out.json](./390373-buster-breaks-out.json) |
+| Buster Bros. | 242347 | [242347-buster-bros.json](./242347-buster-bros.json) |
 | Buster Bros. | 6823 | [6823-buster-bros.json](./6823-buster-bros.json) |
 | Buster Bros. Collection | 20137 | [20137-buster-bros-collection.json](./20137-buster-bros-collection.json) |
 | Buster Bubbles | 354231 | [354231-buster-bubbles.json](./354231-buster-bubbles.json) |
