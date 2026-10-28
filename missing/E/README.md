@@ -887,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eckn+ | 159177 | [159177-eckn.json](./159177-eckn.json) |
 | Eckspelled | 409883 | [409883-eckspelled.json](./409883-eckspelled.json) |
 | Eclectic Custom Night | 317220 | [317220-eclectic-custom-night.json](./317220-eclectic-custom-night.json) |
+| Eclectic Expansion Enterprise | 248088 | [248088-eclectic-expansion-enterprise.json](./248088-eclectic-expansion-enterprise.json) |
 | Eclectic Guests | 178674 | [178674-eclectic-guests.json](./178674-eclectic-guests.json) |
 | Eclectic Shell | 328265 | [328265-eclectic-shell.json](./328265-eclectic-shell.json) |
 | Eclesiar | 416717 | [416717-eclesiar.json](./416717-eclesiar.json) |
@@ -1020,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eddie Hill in the Curse of the Skull Medallion | 146167 | [146167-eddie-hill-in-the-curse-of-the-skull-medallion.json](./146167-eddie-hill-in-the-curse-of-the-skull-medallion.json) |
 | Eddie Kidd Jump Challenge | 47186 | [47186-eddie-kidd-jump-challenge.json](./47186-eddie-kidd-jump-challenge.json) |
 | Eddie the Elephant's Runaway Rush | 114742 | [114742-eddie-the-elephants-runaway-rush.json](./114742-eddie-the-elephants-runaway-rush.json) |
+| Eddie's Arcade | 248224 | [248224-eddies-arcade.json](./248224-eddies-arcade.json) |
 | Eddie’s Last Shift | 414537 | [414537-eddie-s-last-shift.json](./414537-eddie-s-last-shift.json) |
 | Eddie's World | 250037 | [250037-eddies-world.json](./250037-eddies-world.json) |
 | Edegard: Puqq | 244833 | [244833-edegard-puqq.json](./244833-edegard-puqq.json) |
@@ -2236,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eliminator | 354648 | [354648-eliminator.json](./354648-eliminator.json) |
 | Eliminator | 81465 | [81465-eliminator.json](./81465-eliminator.json) |
 | Eliminator Boat Duel | 9158 | [9158-eliminator-boat-duel.json](./9158-eliminator-boat-duel.json) |
+| Eliminator: The Encapsuled Nemesis | 248226 | [248226-eliminator-the-encapsuled-nemesis.json](./248226-eliminator-the-encapsuled-nemesis.json) |
 | Elin | 221102 | [221102-elin.json](./221102-elin.json) |
 | Elios VR | 171922 | [171922-elios-vr.json](./171922-elios-vr.json) |
 | Eliosi's Hunt | 32277 | [32277-eliosis-hunt.json](./32277-eliosis-hunt.json) |
@@ -3391,6 +3394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endzone: A World Apart - Survivor Edition | 193533 | [193533-endzone-a-world-apart-survivor-edition.json](./193533-endzone-a-world-apart-survivor-edition.json) |
 | ENEFN | 132620 | [132620-enefn.json](./132620-enefn.json) |
 | Enelia: Dawn of Madness | 216688 | [216688-enelia-dawn-of-madness.json](./216688-enelia-dawn-of-madness.json) |
+| Enemies Defender | 248080 | [248080-enemies-defender.json](./248080-enemies-defender.json) |
 | Enemies: Gone Suburban | 239649 | [239649-enemies-gone-suburban.json](./239649-enemies-gone-suburban.json) |
 | Enemist | 335318 | [335318-enemist.json](./335318-enemist.json) |
 | Enemy | 36034 | [36034-enemy.json](./36034-enemy.json) |
@@ -5816,6 +5820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evercade Alpha Taito Bartop Arcade | 346796 | [346796-evercade-alpha-taito-bartop-arcade.json](./346796-evercade-alpha-taito-bartop-arcade.json) |
 | Everchained | 304643 | [304643-everchained.json](./304643-everchained.json) |
 | Everchanging | 157153 | [157153-everchanging.json](./157153-everchanging.json) |
+| Evercore Heroes: Ascension | 248841 | [248841-evercore-heroes-ascension.json](./248841-evercore-heroes-ascension.json) |
 | Everdark Tower | 121744 | [121744-everdark-tower.json](./121744-everdark-tower.json) |
 | Everdark: Undead Apocalypse | 366590 | [366590-everdark-undead-apocalypse.json](./366590-everdark-undead-apocalypse.json) |
 | Everdate: The Let's Play Dating Game | 244143 | [244143-everdate-the-lets-play-dating-game.json](./244143-everdate-the-lets-play-dating-game.json) |
@@ -5829,6 +5834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everdream Valley: Summer Fun DLC | 255154 | [255154-everdream-valley-summer-fun-dlc.json](./255154-everdream-valley-summer-fun-dlc.json) |
 | Everest | 95437 | [95437-everest.json](./95437-everest.json) |
 | Everest Ascent | 14058 | [14058-everest-ascent.json](./14058-everest-ascent.json) |
+| Everest Explorer | 248217 | [248217-everest-explorer.json](./248217-everest-explorer.json) |
 | Everest Search and Rescue | 149477 | [149477-everest-search-and-rescue.json](./149477-everest-search-and-rescue.json) |
 | Everest Truck Simulator | 367981 | [367981-everest-truck-simulator.json](./367981-everest-truck-simulator.json) |
 | Everest VR | 18971 | [18971-everest-vr.json](./18971-everest-vr.json) |
@@ -5862,6 +5868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everhaven | 311063 | [311063-everhaven.json](./311063-everhaven.json) |
 | EverHero: Wings of the Ever Hero | 125299 | [125299-everhero-wings-of-the-ever-hero.json](./125299-everhero-wings-of-the-ever-hero.json) |
 | Everhold | 413879 | [413879-everhold.json](./413879-everhold.json) |
+| Everholm | 248238 | [248238-everholm.json](./248238-everholm.json) |
 | Everhome | 379932 | [379932-everhome.json](./379932-everhome.json) |
 | Everhood | 132083 | [132083-everhood.json](./132083-everhood.json) |
 | Everhood 2 | 253100 | [253100-everhood-2.json](./253100-everhood-2.json) |
