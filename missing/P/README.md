@@ -6684,6 +6684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Overboard | 185533 | [185533-pirates-overboard.json](./185533-pirates-overboard.json) |
 | Pirates Pinball | 115058 | [115058-pirates-pinball.json](./115058-pirates-pinball.json) |
 | Pirates Plundarrr | 50728 | [50728-pirates-plundarrr.json](./50728-pirates-plundarrr.json) |
+| Pirates Republic | 235942 | [235942-pirates-republic.json](./235942-pirates-republic.json) |
 | Pirates Slayer | 336666 | [336666-pirates-slayer.json](./336666-pirates-slayer.json) |
 | Pirates Treasure II | 128312 | [128312-pirates-treasure-ii.json](./128312-pirates-treasure-ii.json) |
 | Pirates vs Corsairs: Davy Jones's Gold | 35613 | [35613-pirates-vs-corsairs-davy-joness-gold.json](./35613-pirates-vs-corsairs-davy-joness-gold.json) |
