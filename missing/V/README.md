@@ -3488,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Treasure Raider | 153383 | [153383-vr-treasure-raider.json](./153383-vr-treasure-raider.json) |
 | VR Triber | 74153 | [74153-vr-triber.json](./74153-vr-triber.json) |
 | VR Tribes | 216489 | [216489-vr-tribes.json](./216489-vr-tribes.json) |
+| VR Tribes: Non-VR Edition | 249382 | [249382-vr-tribes-non-vr-edition.json](./249382-vr-tribes-non-vr-edition.json) |
 | VR Tribes: The VR Edition | 256006 | [256006-vr-tribes-the-vr-edition.json](./256006-vr-tribes-the-vr-edition.json) |
 | VR Trivia Battle | 81043 | [81043-vr-trivia-battle.json](./81043-vr-trivia-battle.json) |
 | VR Troopers | 199017 | [199017-vr-troopers.json](./199017-vr-troopers.json) |
