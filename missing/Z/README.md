@@ -1649,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Swipeout | 254555 | [254555-zombie-swipeout.json](./254555-zombie-swipeout.json) |
 | Zombie Tactics | 314671 | [314671-zombie-tactics.json](./314671-zombie-tactics.json) |
 | Zombie Tag Royale | 367833 | [367833-zombie-tag-royale.json](./367833-zombie-tag-royale.json) |
+| Zombie TD | 251354 | [251354-zombie-td.json](./251354-zombie-td.json) |
 | Zombie Teacher | 99608 | [99608-zombie-teacher.json](./99608-zombie-teacher.json) |
 | Zombie Tide Incoming Final Defense | 329596 | [329596-zombie-tide-incoming-final-defense.json](./329596-zombie-tide-incoming-final-defense.json) |
 | Zombie Tornado Game | 235230 | [235230-zombie-tornado-game.json](./235230-zombie-tornado-game.json) |
