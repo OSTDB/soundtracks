@@ -2679,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshi no Kotoba | 144730 | [144730-genshi-no-kotoba.json](./144730-genshi-no-kotoba.json) |
 | Genshin Impact: A Dance of Snowy Tides and Hoarfrost Groves | 356546 | [356546-genshin-impact-a-dance-of-snowy-tides-and-hoarfrost-groves.json](./356546-genshin-impact-a-dance-of-snowy-tides-and-hoarfrost-groves.json) |
 | Genshin Impact: A Nocturne of the Far North | 378320 | [378320-genshin-impact-a-nocturne-of-the-far-north.json](./378320-genshin-impact-a-nocturne-of-the-far-north.json) |
+| Genshin Impact: A Parade of Providence | 257479 | [257479-genshin-impact-a-parade-of-providence.json](./257479-genshin-impact-a-parade-of-providence.json) |
 | Genshin Impact: A Rekviem for the Underworld | 417641 | [417641-genshin-impact-a-rekviem-for-the-underworld.json](./417641-genshin-impact-a-rekviem-for-the-underworld.json) |
 | Genshin Impact: A Space and Time for You | 347558 | [347558-genshin-impact-a-space-and-time-for-you.json](./347558-genshin-impact-a-space-and-time-for-you.json) |
 | Genshin Impact: Akasha Pulses, the Kalpa Flame Rises | 257453 | [257453-genshin-impact-akasha-pulses-the-kalpa-flame-rises.json](./257453-genshin-impact-akasha-pulses-the-kalpa-flame-rises.json) |
@@ -2689,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: Augured Homecoming | 398426 | [398426-genshin-impact-augured-homecoming.json](./398426-genshin-impact-augured-homecoming.json) |
 | Genshin Impact: Beneath the Light of Jadeite | 256974 | [256974-genshin-impact-beneath-the-light-of-jadeite.json](./256974-genshin-impact-beneath-the-light-of-jadeite.json) |
 | Genshin Impact: Blades Weaving Betwixt Brocade | 288670 | [288670-genshin-impact-blades-weaving-betwixt-brocade.json](./288670-genshin-impact-blades-weaving-betwixt-brocade.json) |
+| Genshin Impact: Duel! The Summoners' Summit! | 257480 | [257480-genshin-impact-duel-the-summoners-summit.json](./257480-genshin-impact-duel-the-summoners-summit.json) |
 | Genshin Impact: Flowers Resplendent on the Sun-Scorched Sojourn | 310514 | [310514-genshin-impact-flowers-resplendent-on-the-sun-scorched-sojourn.json](./310514-genshin-impact-flowers-resplendent-on-the-sun-scorched-sojourn.json) |
 | Genshin Impact: Homeward, He Who Caught the Wind | 389652 | [389652-genshin-impact-homeward-he-who-caught-the-wind.json](./389652-genshin-impact-homeward-he-who-caught-the-wind.json) |
 | Genshin Impact: Hour of Ruin | 425451 | [425451-genshin-impact-hour-of-ruin.json](./425451-genshin-impact-hour-of-ruin.json) |
@@ -2698,12 +2700,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: Masquerade of the Guilty | 273864 | [273864-genshin-impact-masquerade-of-the-guilty.json](./273864-genshin-impact-masquerade-of-the-guilty.json) |
 | Genshin Impact: Midsummer Island Adventure | 256978 | [256978-genshin-impact-midsummer-island-adventure.json](./256978-genshin-impact-midsummer-island-adventure.json) |
 | Genshin Impact: Moonlight Amidst Dreams | 328924 | [328924-genshin-impact-moonlight-amidst-dreams.json](./328924-genshin-impact-moonlight-amidst-dreams.json) |
+| Genshin Impact: Secret Summer Paradise | 257481 | [257481-genshin-impact-secret-summer-paradise.json](./257481-genshin-impact-secret-summer-paradise.json) |
 | Genshin Impact: Sunny Summer Fontinalia | 407188 | [407188-genshin-impact-sunny-summer-fontinalia.json](./407188-genshin-impact-sunny-summer-fontinalia.json) |
 | Genshin Impact: Tapestry of Spirit and Flame | 321597 | [321597-genshin-impact-tapestry-of-spirit-and-flame.json](./321597-genshin-impact-tapestry-of-spirit-and-flame.json) |
+| Genshin Impact: The Exquisite Night Chimes | 257476 | [257476-genshin-impact-the-exquisite-night-chimes.json](./257476-genshin-impact-the-exquisite-night-chimes.json) |
 | Genshin Impact: The Morn a Thousand Roses Brings | 257449 | [257449-genshin-impact-the-morn-a-thousand-roses-brings.json](./257449-genshin-impact-the-morn-a-thousand-roses-brings.json) |
 | Genshin Impact: To the Stars Shining in the Depths | 266492 | [266492-genshin-impact-to-the-stars-shining-in-the-depths.json](./266492-genshin-impact-to-the-stars-shining-in-the-depths.json) |
 | Genshin Impact: Truth Amongst the Pages of Purana | 400877 | [400877-genshin-impact-truth-amongst-the-pages-of-purana.json](./400877-genshin-impact-truth-amongst-the-pages-of-purana.json) |
 | Genshin Impact: Two Worlds Aflame, the Crimson Night Fades | 296820 | [296820-genshin-impact-two-worlds-aflame-the-crimson-night-fades.json](./296820-genshin-impact-two-worlds-aflame-the-crimson-night-fades.json) |
+| Genshin Impact: Windblume's Breath | 257478 | [257478-genshin-impact-windblumes-breath.json](./257478-genshin-impact-windblumes-breath.json) |
 | Genshindle | 243769 | [243769-genshindle.json](./243769-genshindle.json) |
 | Genso Chronicles | 286881 | [286881-genso-chronicles.json](./286881-genso-chronicles.json) |
 | Genso Flood Front | 214768 | [214768-genso-flood-front.json](./214768-genso-flood-front.json) |
@@ -2907,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoStrategic | 294056 | [294056-geostrategic.json](./294056-geostrategic.json) |
 | Geotastic | 142722 | [142722-geotastic.json](./142722-geotastic.json) |
 | Geotra | 271642 | [271642-geotra.json](./271642-geotra.json) |
+| Geotrion | 257493 | [257493-geotrion.json](./257493-geotrion.json) |
 | GeoWar | 127316 | [127316-geowar.json](./127316-geowar.json) |
 | Geppaku: Monogatari | 342664 | [342664-geppaku-monogatari.json](./342664-geppaku-monogatari.json) |
 | Geppetto | 333094 | [333094-geppetto.json](./333094-geppetto.json) |
