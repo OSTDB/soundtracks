@@ -4941,6 +4941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Window Wizard | 68352 | [68352-window-wizard.json](./68352-window-wizard.json) |
 | Windowframe | 365849 | [365849-windowframe.json](./365849-windowframe.json) |
 | Windowframe | 70387 | [70387-windowframe.json](./70387-windowframe.json) |
+| Windowkill | 269953 | [269953-windowkill.json](./269953-windowkill.json) |
 | Windows 95 Spiele | 323647 | [323647-windows-95-spiele.json](./323647-windows-95-spiele.json) |
 | Windows Doors | 348381 | [348381-windows-doors.json](./348381-windows-doors.json) |
 | Windows Mario World | 256297 | [256297-windows-mario-world.json](./256297-windows-mario-world.json) |
