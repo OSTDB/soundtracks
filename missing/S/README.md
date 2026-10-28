@@ -1736,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SAS Combat Simulator | 13031 | [13031-sas-combat-simulator.json](./13031-sas-combat-simulator.json) |
 | SAS Secure Tomorrow | 10811 | [10811-sas-secure-tomorrow.json](./10811-sas-secure-tomorrow.json) |
 | SAS: Anti-Terror Force | 43294 | [43294-sas-anti-terror-force.json](./43294-sas-anti-terror-force.json) |
+| SAS: Zombie Assault | 267508 | [267508-sas-zombie-assault.json](./267508-sas-zombie-assault.json) |
 | SAS: Zombie Assault 2 | 267983 | [267983-sas-zombie-assault-2.json](./267983-sas-zombie-assault-2.json) |
 | SAS: Zombie Assault 3 | 188396 | [188396-sas-zombie-assault-3.json](./188396-sas-zombie-assault-3.json) |
 | SAS: Zombie Assault 4 | 39197 | [39197-sas-zombie-assault-4.json](./39197-sas-zombie-assault-4.json) |
@@ -5374,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex On The Beach | 301651 | [301651-sex-on-the-beach.json](./301651-sex-on-the-beach.json) |
 | Sex On The Beach | 376820 | [376820-sex-on-the-beach.json](./376820-sex-on-the-beach.json) |
 | Sex Play: BDSM | 263760 | [263760-sex-play-bdsm.json](./263760-sex-play-bdsm.json) |
+| Sex Play: Naughty Doctor | 267204 | [267204-sex-play-naughty-doctor.json](./267204-sex-play-naughty-doctor.json) |
 | Sex Play: The Sauna | 264636 | [264636-sex-play-the-sauna.json](./264636-sex-play-the-sauna.json) |
 | Sex Play: Tropical Vacation | 272934 | [272934-sex-play-tropical-vacation.json](./272934-sex-play-tropical-vacation.json) |
 | Sex Poker | 417405 | [417405-sex-poker.json](./417405-sex-poker.json) |
@@ -5419,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Story: Cuckold Life - Episode 4 | 263762 | [263762-sex-story-cuckold-life-episode-4.json](./263762-sex-story-cuckold-life-episode-4.json) |
 | Sex Story: Cuckold Life - Episode 5 | 264635 | [264635-sex-story-cuckold-life-episode-5.json](./264635-sex-story-cuckold-life-episode-5.json) |
 | Sex Story: Cuckold Life - Episode 6 | 265867 | [265867-sex-story-cuckold-life-episode-6.json](./265867-sex-story-cuckold-life-episode-6.json) |
+| Sex Story: Cuckold Life - Episode 7 | 267205 | [267205-sex-story-cuckold-life-episode-7.json](./267205-sex-story-cuckold-life-episode-7.json) |
 | Sex Story: Cuckold Life - Episode 8 | 271592 | [271592-sex-story-cuckold-life-episode-8.json](./271592-sex-story-cuckold-life-episode-8.json) |
 | Sex Story: Cuckold Life - Episode 9 | 274689 | [274689-sex-story-cuckold-life-episode-9.json](./274689-sex-story-cuckold-life-episode-9.json) |
 | Sex Story: Ruby and Hunter - Episode 1 | 252672 | [252672-sex-story-ruby-and-hunter-episode-1.json](./252672-sex-story-ruby-and-hunter-episode-1.json) |
@@ -8064,6 +8067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotz.io | 125848 | [125848-shotz-io.json](./125848-shotz-io.json) |
 | Shòu'ěr Gōnglüè TFK Faculty | 119641 | [119641-shouer-gonglue-tfk-faculty.json](./119641-shouer-gonglue-tfk-faculty.json) |
 | Shougakusei Atarimae Test | 266161 | [266161-shougakusei-atarimae-test.json](./266161-shougakusei-atarimae-test.json) |
+| Shougakusei ha Maseteiru. | 267203 | [267203-shougakusei-ha-maseteiru.json](./267203-shougakusei-ha-maseteiru.json) |
 | Shougakusei no Uchi ni Oboetai Eitango | 260693 | [260693-shougakusei-no-uchi-ni-oboetai-eitango.json](./260693-shougakusei-no-uchi-ni-oboetai-eitango.json) |
 | Shougi ga Tsuyokunaru: Gekisashi - Jouseki Doujou | 269528 | [269528-shougi-ga-tsuyokunaru-gekisashi-jouseki-doujou.json](./269528-shougi-ga-tsuyokunaru-gekisashi-jouseki-doujou.json) |
 | Shoujo Activity | 194606 | [194606-shoujo-activity.json](./194606-shoujo-activity.json) |
@@ -11924,6 +11928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slots - Pharaoh's Riches | 85386 | [85386-slots-pharaohs-riches.json](./85386-slots-pharaohs-riches.json) |
 | Slots & Slaughter | 411731 | [411731-slots-and-slaughter.json](./411731-slots-and-slaughter.json) |
 | Slots Ancient | 232572 | [232572-slots-ancient.json](./232572-slots-ancient.json) |
+| Slots Casino Game | 267493 | [267493-slots-casino-game.json](./267493-slots-casino-game.json) |
 | Slots Frenzy | 232359 | [232359-slots-frenzy.json](./232359-slots-frenzy.json) |
 | Slots of Poker at Aces Casino | 147974 | [147974-slots-of-poker-at-aces-casino.json](./147974-slots-of-poker-at-aces-casino.json) |
 | Slots of the Season | 147975 | [147975-slots-of-the-season.json](./147975-slots-of-the-season.json) |
@@ -13726,6 +13731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soft de Hard na Monogatari 2 | 112034 | [112034-soft-de-hard-na-monogatari-2.json](./112034-soft-de-hard-na-monogatari-2.json) |
 | Soft Drizzle | 177527 | [177527-soft-drizzle.json](./177527-soft-drizzle.json) |
 | Soft Earth | 143457 | [143457-soft-earth.json](./143457-soft-earth.json) |
+| Soft Kitten Experience | 267533 | [267533-soft-kitten-experience.json](./267533-soft-kitten-experience.json) |
 | Soft Ruin | 415324 | [415324-soft-ruin.json](./415324-soft-ruin.json) |
 | Soft Serve | 252811 | [252811-soft-serve.json](./252811-soft-serve.json) |
 | Soft Wind | 169092 | [169092-soft-wind.json](./169092-soft-wind.json) |
@@ -17354,6 +17360,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space zone defender | 130856 | [130856-space-zone-defender.json](./130856-space-zone-defender.json) |
 | Space-D Launch Program | 334836 | [334836-space-d-launch-program.json](./334836-space-d-launch-program.json) |
 | Space-Fright | 29467 | [29467-space-fright.json](./29467-space-fright.json) |
+| Space-Net: Cosmo Blue | 267500 | [267500-space-net-cosmo-blue.json](./267500-space-net-cosmo-blue.json) |
+| Space-Net: Cosmo Neo | 267501 | [267501-space-net-cosmo-neo.json](./267501-space-net-cosmo-neo.json) |
+| Space-Net: Cosmo Red | 267499 | [267499-space-net-cosmo-red.json](./267499-space-net-cosmo-red.json) |
 | Space-Orbit | 63238 | [63238-space-orbit.json](./63238-space-orbit.json) |
 | Space-Rat Xplode! | 54385 | [54385-space-rat-xplode.json](./54385-space-rat-xplode.json) |
 | Space/Mech/Pilot | 139924 | [139924-space-mech-pilot.json](./139924-space-mech-pilot.json) |
@@ -26086,6 +26095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supa Birdie Boi | 149200 | [149200-supa-birdie-boi.json](./149200-supa-birdie-boi.json) |
 | Supa Nova | 100019 | [100019-supa-nova.json](./100019-supa-nova.json) |
 | Supa3 | 308470 | [308470-supa3.json](./308470-supa3.json) |
+| Supanda | 267524 | [267524-supanda.json](./267524-supanda.json) |
 | Supaplex | 14418 | [14418-supaplex.json](./14418-supaplex.json) |
 | Supaplex | 413616 | [413616-supaplex.json](./413616-supaplex.json) |
 | Supaplex Hard | 107929 | [107929-supaplex-hard.json](./107929-supaplex-hard.json) |
@@ -27854,6 +27864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pads: Become a DJ | 96776 | [96776-super-pads-become-a-dj.json](./96776-super-pads-become-a-dj.json) |
 | Super Panda Adventures | 10933 | [10933-super-panda-adventures.json](./10933-super-panda-adventures.json) |
 | Super Pang | 195059 | [195059-super-pang.json](./195059-super-pang.json) |
+| Super Pang | 267513 | [267513-super-pang.json](./267513-super-pang.json) |
 | Super Panic Monsters | 71510 | [71510-super-panic-monsters.json](./71510-super-panic-monsters.json) |
 | Super Paper Bowser World | 323290 | [323290-super-paper-bowser-world.json](./323290-super-paper-bowser-world.json) |
 | Super Paper Mario | 231489 | [231489-super-paper-mario.json](./231489-super-paper-mario.json) |
