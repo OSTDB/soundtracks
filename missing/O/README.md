@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occultist Girl Magatsuhi | 270188 | [270188-occultist-girl-magatsuhi.json](./270188-occultist-girl-magatsuhi.json) |
 | Occulto | 192948 | [192948-occulto.json](./192948-occulto.json) |
 | Occulto | 419183 | [419183-occulto.json](./419183-occulto.json) |
+| Occultryx: Beast of Nocturne | 279790 | [279790-occultryx-beast-of-nocturne.json](./279790-occultryx-beast-of-nocturne.json) |
 | Occultus | 74512 | [74512-occultus.json](./74512-occultus.json) |
 | Occultus Vitae: Hidden Life | 330914 | [330914-occultus-vitae-hidden-life.json](./330914-occultus-vitae-hidden-life.json) |
 | Occupation 2.5 | 159111 | [159111-occupation-2-5.json](./159111-occupation-2-5.json) |
@@ -915,10 +916,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ofuxë the Guardian of Nature | 291216 | [291216-ofuxe-the-guardian-of-nature.json](./291216-ofuxe-the-guardian-of-nature.json) |
 | OG Fun Monke Horror | 382754 | [382754-og-fun-monke-horror.json](./382754-og-fun-monke-horror.json) |
 | OG Memory: Fall 2K23 | 279492 | [279492-og-memory-fall-2k23.json](./279492-og-memory-fall-2k23.json) |
+| OG Memory: Kira Maus | 279455 | [279455-og-memory-kira-maus.json](./279455-og-memory-kira-maus.json) |
 | OG Memory: Spring 2K24 | 310072 | [310072-og-memory-spring-2k24.json](./310072-og-memory-spring-2k24.json) |
 | OG Memory: Synthwave Boats | 289780 | [289780-og-memory-synthwave-boats.json](./289780-og-memory-synthwave-boats.json) |
 | OG Memory: Synthwave Vampires | 341501 | [341501-og-memory-synthwave-vampires.json](./341501-og-memory-synthwave-vampires.json) |
 | OG Memory: Winter 2K23 | 288784 | [288784-og-memory-winter-2k23.json](./288784-og-memory-winter-2k23.json) |
+| OG Puzzlers: Fall 2K23 | 279456 | [279456-og-puzzlers-fall-2k23.json](./279456-og-puzzlers-fall-2k23.json) |
 | OG Puzzlers: Kira Maus | 277582 | [277582-og-puzzlers-kira-maus.json](./277582-og-puzzlers-kira-maus.json) |
 | OG Puzzlers: Spring 2K24 | 303667 | [303667-og-puzzlers-spring-2k24.json](./303667-og-puzzlers-spring-2k24.json) |
 | OG Puzzlers: Synthwave Astronauts | 292253 | [292253-og-puzzlers-synthwave-astronauts.json](./292253-og-puzzlers-synthwave-astronauts.json) |
@@ -2653,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only You Can Prevent Containment Breaches | 271242 | [271242-only-you-can-prevent-containment-breaches.json](./271242-only-you-can-prevent-containment-breaches.json) |
 | Only You: Re-Cross | 269643 | [269643-only-you-re-cross.json](./269643-only-you-re-cross.json) |
 | OnlyCans: Thirst Date | 142461 | [142461-onlycans-thirst-date.json](./142461-onlycans-thirst-date.json) |
+| OnlyFap Simulator | 279793 | [279793-onlyfap-simulator.json](./279793-onlyfap-simulator.json) |
 | OnlyFap Simulator 2 | 209657 | [209657-onlyfap-simulator-2.json](./209657-onlyfap-simulator-2.json) |
 | OnlyFap Simulator 3 | 223066 | [223066-onlyfap-simulator-3.json](./223066-onlyfap-simulator-3.json) |
 | OnlyFap Simulator 4 | 224790 | [224790-onlyfap-simulator-4.json](./224790-onlyfap-simulator-4.json) |
