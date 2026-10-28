@@ -5113,6 +5113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oyadori no Ko | 150552 | [150552-oyadori-no-ko.json](./150552-oyadori-no-ko.json) |
 | Oyaji | 267276 | [267276-oyaji.json](./267276-oyaji.json) |
 | Oyako de Asobo: Miffy no Omocha-bako | 268398 | [268398-oyako-de-asobo-miffy-no-omocha-bako.json](./268398-oyako-de-asobo-miffy-no-omocha-bako.json) |
+| Oyako de Manabu Bousai | 263609 | [263609-oyako-de-manabu-bousai.json](./263609-oyako-de-manabu-bousai.json) |
 | Oyako de Manabu SDGs | 256269 | [256269-oyako-de-manabu-sdgs.json](./256269-oyako-de-manabu-sdgs.json) |
 | Oyasumii | 305832 | [305832-oyasumii.json](./305832-oyasumii.json) |
 | Oyatsu Quiz: Mogu-mogu Q - The Quiz Game | 228632 | [228632-oyatsu-quiz-mogu-mogu-q-the-quiz-game.json](./228632-oyatsu-quiz-mogu-mogu-q-the-quiz-game.json) |
