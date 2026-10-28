@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Pumpkin Brawl | 317447 | [317447-halloween-pumpkin-brawl.json](./317447-halloween-pumpkin-brawl.json) |
 | Halloween Pumpkin Story | 74380 | [74380-halloween-pumpkin-story.json](./74380-halloween-pumpkin-story.json) |
 | Halloween Puzzle | 172998 | [172998-halloween-puzzle.json](./172998-halloween-puzzle.json) |
+| Halloween Puzzle | 275165 | [275165-halloween-puzzle.json](./275165-halloween-puzzle.json) |
 | Halloween Puzzles | 111409 | [111409-halloween-puzzles.json](./111409-halloween-puzzles.json) |
 | Halloween Racer | 101020 | [101020-halloween-racer.json](./101020-halloween-racer.json) |
 | Halloween Racer | 50040 | [50040-halloween-racer.json](./50040-halloween-racer.json) |
@@ -2894,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: Rastakhan's Rumble | 111655 | [111655-hearthstone-rastakhans-rumble.json](./111655-hearthstone-rastakhans-rumble.json) |
 | Hearthstone: Saviors of Uldum | 121499 | [121499-hearthstone-saviors-of-uldum.json](./121499-hearthstone-saviors-of-uldum.json) |
 | Hearthstone: Scholomance Academy | 138798 | [138798-hearthstone-scholomance-academy.json](./138798-hearthstone-scholomance-academy.json) |
+| Hearthstone: Showdown in the Badlands | 275172 | [275172-hearthstone-showdown-in-the-badlands.json](./275172-hearthstone-showdown-in-the-badlands.json) |
 | Hearthstone: The Boomsday Project | 105125 | [105125-hearthstone-the-boomsday-project.json](./105125-hearthstone-the-boomsday-project.json) |
 | Hearthstone: The Grand Tournament | 21973 | [21973-hearthstone-the-grand-tournament.json](./21973-hearthstone-the-grand-tournament.json) |
 | Hearthstone: The Great Dark Beyond | 322147 | [322147-hearthstone-the-great-dark-beyond.json](./322147-hearthstone-the-great-dark-beyond.json) |
@@ -7003,6 +7005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hissatsu Buraiken | 40195 | [40195-hissatsu-buraiken.json](./40195-hissatsu-buraiken.json) |
 | Hissatsu Pachi-Slot Evolution: Ninja Hattori-kun V | 58322 | [58322-hissatsu-pachi-slot-evolution-ninja-hattori-kun-v.json](./58322-hissatsu-pachi-slot-evolution-ninja-hattori-kun-v.json) |
 | Hissatsu Pachi-Slot Station | 58319 | [58319-hissatsu-pachi-slot-station.json](./58319-hissatsu-pachi-slot-station.json) |
+| Hissatsu Pachi-Slot Station 5: Invaders 2000 | 274861 | [274861-hissatsu-pachi-slot-station-5-invaders-2000.json](./274861-hissatsu-pachi-slot-station-5-invaders-2000.json) |
 | Hissatsu Pachinko Boy CR Monster House | 281567 | [281567-hissatsu-pachinko-boy-cr-monster-house.json](./281567-hissatsu-pachinko-boy-cr-monster-house.json) |
 | Hissatsu Pachinko Evolution 2: Osomatsu-kun | 58323 | [58323-hissatsu-pachinko-evolution-2-osomatsu-kun.json](./58323-hissatsu-pachinko-evolution-2-osomatsu-kun.json) |
 | Hissatsu Pachinko Station | 58321 | [58321-hissatsu-pachinko-station.json](./58321-hissatsu-pachinko-station.json) |
@@ -8444,6 +8447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoples | 152504 | [152504-hoples.json](./152504-hoples.json) |
 | Hoplichess | 156013 | [156013-hoplichess.json](./156013-hoplichess.json) |
 | Hoplite | 30019 | [30019-hoplite.json](./30019-hoplite.json) |
+| Hopman | 274853 | [274853-hopman.json](./274853-hopman.json) |
 | Hopman Mini | 341280 | [341280-hopman-mini.json](./341280-hopman-mini.json) |
 | Hopmon | 91546 | [91546-hopmon.json](./91546-hopmon.json) |
 | Hoppa | 129574 | [129574-hoppa.json](./129574-hoppa.json) |
@@ -8799,6 +8803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Tales: Emerald Valley Ranch | 206679 | [206679-horse-tales-emerald-valley-ranch.json](./206679-horse-tales-emerald-valley-ranch.json) |
 | Horse Tales: Emerald Valley Ranch - Deluxe | 283268 | [283268-horse-tales-emerald-valley-ranch-deluxe.json](./283268-horse-tales-emerald-valley-ranch-deluxe.json) |
 | Horse Tales: Emerald Valley Ranch - DLC Pack | 371935 | [371935-horse-tales-emerald-valley-ranch-dlc-pack.json](./371935-horse-tales-emerald-valley-ranch-dlc-pack.json) |
+| Horse Tales: Emerald Valley Ranch - The Arabian Horse Pack | 275148 | [275148-horse-tales-emerald-valley-ranch-the-arabian-horse-pack.json](./275148-horse-tales-emerald-valley-ranch-the-arabian-horse-pack.json) |
 | Horse Tales: Emerald Valley Ranch - The Foal Care Pack | 371938 | [371938-horse-tales-emerald-valley-ranch-the-foal-care-pack.json](./371938-horse-tales-emerald-valley-ranch-the-foal-care-pack.json) |
 | Horse Tales: Emerald Valley Ranch - The Rainbow Tack Set | 371939 | [371939-horse-tales-emerald-valley-ranch-the-rainbow-tack-set.json](./371939-horse-tales-emerald-valley-ranch-the-rainbow-tack-set.json) |
 | Horse Tales: Emerald Valley Ranch - Unicorn Tack Set | 371937 | [371937-horse-tales-emerald-valley-ranch-unicorn-tack-set.json](./371937-horse-tales-emerald-valley-ranch-unicorn-tack-set.json) |
