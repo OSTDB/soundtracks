@@ -6937,6 +6937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Gun 3D: RGB Hero Set | 294951 | [294951-pixel-gun-3d-rgb-hero-set.json](./294951-pixel-gun-3d-rgb-hero-set.json) |
 | Pixel Gun 3D: Wastelands Set | 322633 | [322633-pixel-gun-3d-wastelands-set.json](./322633-pixel-gun-3d-wastelands-set.json) |
 | Pixel Gun Battle | 370201 | [370201-pixel-gun-battle.json](./370201-pixel-gun-battle.json) |
+| Pixel Gun Master | 274316 | [274316-pixel-gun-master.json](./274316-pixel-gun-master.json) |
 | Pixel Gun Mayhem | 384597 | [384597-pixel-gun-mayhem.json](./384597-pixel-gun-mayhem.json) |
 | Pixel Gun World | 307855 | [307855-pixel-gun-world.json](./307855-pixel-gun-world.json) |
 | Pixel Gunmen | 226772 | [226772-pixel-gunmen.json](./226772-pixel-gunmen.json) |
@@ -8067,6 +8068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Revenge | 132521 | [132521-plant-revenge.json](./132521-plant-revenge.json) |
 | Plant Tales | 358462 | [358462-plant-tales.json](./358462-plant-tales.json) |
 | Plant Therapy | 260565 | [260565-plant-therapy.json](./260565-plant-therapy.json) |
+| Plant Therapy: Cat Art Pack | 274603 | [274603-plant-therapy-cat-art-pack.json](./274603-plant-therapy-cat-art-pack.json) |
 | Plant Therapy: Coney Island Plus | 337834 | [337834-plant-therapy-coney-island-plus.json](./337834-plant-therapy-coney-island-plus.json) |
 | Plant Therapy: Goth Pack | 324290 | [324290-plant-therapy-goth-pack.json](./324290-plant-therapy-goth-pack.json) |
 | Plant Therapy: Park Place | 364019 | [364019-plant-therapy-park-place.json](./364019-plant-therapy-park-place.json) |
