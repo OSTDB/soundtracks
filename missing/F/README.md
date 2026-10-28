@@ -7048,6 +7048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor is...What!? | 189135 | [189135-floor-is-what.json](./189135-floor-is-what.json) |
 | Floor Observer | 284437 | [284437-floor-observer.json](./284437-floor-observer.json) |
 | Floor Plan 2 | 145348 | [145348-floor-plan-2.json](./145348-floor-plan-2.json) |
+| Floor Plan 2: Backside Story | 253180 | [253180-floor-plan-2-backside-story.json](./253180-floor-plan-2-backside-story.json) |
 | Floor Plan Puzzle (Red Room Simulator) | 347321 | [347321-floor-plan-puzzle-red-room-simulator.json](./347321-floor-plan-puzzle-red-room-simulator.json) |
 | Floor Plan Remastered | 273589 | [273589-floor-plan-remastered.json](./273589-floor-plan-remastered.json) |
 | Floor Plan: Hands-On Edition | 55801 | [55801-floor-plan-hands-on-edition.json](./55801-floor-plan-hands-on-edition.json) |
@@ -7773,6 +7774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Guess: Pixel Art Trivia | 405477 | [405477-food-guess-pixel-art-trivia.json](./405477-food-guess-pixel-art-trivia.json) |
 | Food Hunter | 74438 | [74438-food-hunter.json](./74438-food-hunter.json) |
 | Food Inc: Home of the Supply | 370470 | [370470-food-inc-home-of-the-supply.json](./370470-food-inc-home-of-the-supply.json) |
+| Food Magician | 253410 | [253410-food-magician.json](./253410-food-magician.json) |
 | Food Maze | 234678 | [234678-food-maze.json](./234678-food-maze.json) |
 | Food Monster and Animals Memory Match | 82354 | [82354-food-monster-and-animals-memory-match.json](./82354-food-monster-and-animals-memory-match.json) |
 | Food Network: Cook or Be Cooked | 4858 | [4858-food-network-cook-or-be-cooked.json](./4858-food-network-cook-or-be-cooked.json) |
