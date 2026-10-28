@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Stories: Inherited Silence | 395245 | [395245-abandoned-stories-inherited-silence.json](./395245-abandoned-stories-inherited-silence.json) |
 | Abandoned Well | 73550 | [73550-abandoned-well.json](./73550-abandoned-well.json) |
 | Abandoned World | 243598 | [243598-abandoned-world.json](./243598-abandoned-world.json) |
+| Abandoned: A Journey Home | 232608 | [232608-abandoned-a-journey-home.json](./232608-abandoned-a-journey-home.json) |
 | Abandoned: A Tale of Forgotten Lives | 391231 | [391231-abandoned-a-tale-of-forgotten-lives.json](./391231-abandoned-a-tale-of-forgotten-lives.json) |
 | Abandoned: Chestnut Lodge Asylum | 34552 | [34552-abandoned-chestnut-lodge-asylum.json](./34552-abandoned-chestnut-lodge-asylum.json) |
 | Abandoned: Discovery Island | 272811 | [272811-abandoned-discovery-island.json](./272811-abandoned-discovery-island.json) |
@@ -2989,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advent Crossroad | 154404 | [154404-advent-crossroad.json](./154404-advent-crossroad.json) |
 | Advent Incremental | 382574 | [382574-advent-incremental.json](./382574-advent-incremental.json) |
 | Advent Neon | 139128 | [139128-advent-neon.json](./139128-advent-neon.json) |
+| Advent of Ascension | 232626 | [232626-advent-of-ascension.json](./232626-advent-of-ascension.json) |
 | Advent of God: Legends | 304168 | [304168-advent-of-god-legends.json](./304168-advent-of-god-legends.json) |
 | Advent Rising | 5716 | [5716-advent-rising.json](./5716-advent-rising.json) |
 | Advent Shadow | 92698 | [92698-advent-shadow.json](./92698-advent-shadow.json) |
@@ -10266,6 +10268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appli Archives: Jaleco Momoko 1200% | 56418 | [56418-appli-archives-jaleco-momoko-1200.json](./56418-appli-archives-jaleco-momoko-1200.json) |
 | Appli Archives: Nikoli Slitherlink | 56413 | [56413-appli-archives-nikoli-slitherlink.json](./56413-appli-archives-nikoli-slitherlink.json) |
 | Appli Archives: Nippon Ichi Software Duologue | 56416 | [56416-appli-archives-nippon-ichi-software-duologue.json](./56416-appli-archives-nippon-ichi-software-duologue.json) |
+| Applied Energistics | 232627 | [232627-applied-energistics.json](./232627-applied-energistics.json) |
 | Applied Energistics 2 | 275742 | [275742-applied-energistics-2.json](./275742-applied-energistics-2.json) |
 | Appointment with Death | 316831 | [316831-appointment-with-death.json](./316831-appointment-with-death.json) |
 | Appointment With FEAR | 17700 | [17700-appointment-with-fear.json](./17700-appointment-with-fear.json) |
@@ -12463,6 +12466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ars Goetia | 338157 | [338157-ars-goetia.json](./338157-ars-goetia.json) |
 | Ars Mechanica | 382198 | [382198-ars-mechanica.json](./382198-ars-mechanica.json) |
 | Ars Notoria | 214014 | [214014-ars-notoria.json](./214014-ars-notoria.json) |
+| Ars Nouveau | 232632 | [232632-ars-nouveau.json](./232632-ars-nouveau.json) |
 | Ars Vox Arcana | 339941 | [339941-ars-vox-arcana.json](./339941-ars-vox-arcana.json) |
 | ArsDoom | 180260 | [180260-arsdoom.json](./180260-arsdoom.json) |
 | Arsenal | 188635 | [188635-arsenal.json](./188635-arsenal.json) |
@@ -14797,6 +14801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atuel | 213274 | [213274-atuel.json](./213274-atuel.json) |
 | Atulos Online | 33343 | [33343-atulos-online.json](./33343-atulos-online.json) |
 | Atum | 128624 | [128624-atum.json](./128624-atum.json) |
+| Atum | 232634 | [232634-atum.json](./232634-atum.json) |
 | ATV Bike Games | 294255 | [294255-atv-bike-games.json](./294255-atv-bike-games.json) |
 | ATV Drift & Tricks | 83879 | [83879-atv-drift-and-tricks.json](./83879-atv-drift-and-tricks.json) |
 | ATV Fever | 10006 | [10006-atv-fever.json](./10006-atv-fever.json) |
@@ -15334,6 +15339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avaris | 377821 | [377821-avaris.json](./377821-avaris.json) |
 | Avaris 2 | 377822 | [377822-avaris-2.json](./377822-avaris-2.json) |
 | Avaris3 | 271104 | [271104-avaris3.json](./271104-avaris3.json) |
+| Avaritia | 232635 | [232635-avaritia.json](./232635-avaritia.json) |
 | Avast: Scourge of Sea | 315094 | [315094-avast-scourge-of-sea.json](./315094-avast-scourge-of-sea.json) |
 | Avataaah!!! | 94152 | [94152-avataaah.json](./94152-avataaah.json) |
 | Avatar | 80928 | [80928-avatar.json](./80928-avatar.json) |
