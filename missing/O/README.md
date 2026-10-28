@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Perfect Day | 264061 | [264061-one-perfect-day.json](./264061-one-perfect-day.json) |
 | One person story | 105707 | [105707-one-person-story.json](./105707-one-person-story.json) |
 | One Piece 2: Pirate King | 59466 | [59466-one-piece-2-pirate-king.json](./59466-one-piece-2-pirate-king.json) |
+| One Piece Card Game Tutorial | 242157 | [242157-one-piece-card-game-tutorial.json](./242157-one-piece-card-game-tutorial.json) |
 | One Piece Clicker | 212282 | [212282-one-piece-clicker.json](./212282-one-piece-clicker.json) |
 | One Piece Grand Battle: Swan Colosseum | 37556 | [37556-one-piece-grand-battle-swan-colosseum.json](./37556-one-piece-grand-battle-swan-colosseum.json) |
 | One Piece King Battle | 175763 | [175763-one-piece-king-battle.json](./175763-one-piece-king-battle.json) |
