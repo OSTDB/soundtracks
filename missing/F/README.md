@@ -2185,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm it! Seasons | 96921 | [96921-farm-it-seasons.json](./96921-farm-it-seasons.json) |
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
 | Farm Keeper | 247034 | [247034-farm-keeper.json](./247034-farm-keeper.json) |
+| Farm Keeper | 278010 | [278010-farm-keeper.json](./278010-farm-keeper.json) |
 | Farm King Saga | 233424 | [233424-farm-king-saga.json](./233424-farm-king-saga.json) |
 | Farm Kitten: Puzzle Pipes | 165711 | [165711-farm-kitten-puzzle-pipes.json](./165711-farm-kitten-puzzle-pipes.json) |
 | Farm Knight Adventures | 283027 | [283027-farm-knight-adventures.json](./283027-farm-knight-adventures.json) |
@@ -4519,6 +4520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Light: The Prison | 105892 | [105892-final-light-the-prison.json](./105892-final-light-the-prison.json) |
 | Final Lolita | 92144 | [92144-final-lolita.json](./92144-final-lolita.json) |
 | final m00n - Defender of the Cubes | 113752 | [113752-final-m00n-defender-of-the-cubes.json](./113752-final-m00n-defender-of-the-cubes.json) |
+| Final Man | 277695 | [277695-final-man.json](./277695-final-man.json) |
 | Final Match | 99730 | [99730-final-match.json](./99730-final-match.json) |
 | Final Memories | 322543 | [322543-final-memories.json](./322543-final-memories.json) |
 | Final Meteor | 58598 | [58598-final-meteor.json](./58598-final-meteor.json) |
@@ -4977,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem 8R | 380529 | [380529-fire-emblem-8r.json](./380529-fire-emblem-8r.json) |
 | Fire Emblem Echoes: Shadows of Valentia | 26840 | [26840-fire-emblem-echoes-shadows-of-valentia.json](./26840-fire-emblem-echoes-shadows-of-valentia.json) |
 | Fire Emblem Echoes: Shadows of Valentia - Limited Edition | 136336 | [136336-fire-emblem-echoes-shadows-of-valentia-limited-edition.json](./136336-fire-emblem-echoes-shadows-of-valentia-limited-edition.json) |
+| Fire Emblem Engage Bundle | 278003 | [278003-fire-emblem-engage-bundle.json](./278003-fire-emblem-engage-bundle.json) |
 | Fire Emblem Engage: Fell Xenologue | 246450 | [246450-fire-emblem-engage-fell-xenologue.json](./246450-fire-emblem-engage-fell-xenologue.json) |
 | Fire Emblem Fates: Anna on the Run | 229859 | [229859-fire-emblem-fates-anna-on-the-run.json](./229859-fire-emblem-fates-anna-on-the-run.json) |
 | Fire Emblem Fates: Birthright | 24220 | [24220-fire-emblem-fates-birthright.json](./24220-fire-emblem-fates-birthright.json) |
@@ -11870,6 +11873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari & Ladyboy BDSM | 384723 | [384723-futanari-and-ladyboy-bdsm.json](./384723-futanari-and-ladyboy-bdsm.json) |
 | Futanari & Ladyboy Hotel | 393837 | [393837-futanari-and-ladyboy-hotel.json](./393837-futanari-and-ladyboy-hotel.json) |
 | Futanari Affairs | 367199 | [367199-futanari-affairs.json](./367199-futanari-affairs.json) |
+| Futanari College: Episode 1 | 277995 | [277995-futanari-college-episode-1.json](./277995-futanari-college-episode-1.json) |
 | Futanari di Funghi | 260333 | [260333-futanari-di-funghi.json](./260333-futanari-di-funghi.json) |
 | Futanari Fantasy XX | 97840 | [97840-futanari-fantasy-xx.json](./97840-futanari-fantasy-xx.json) |
 | Futanari Girls 3D | 368125 | [368125-futanari-girls-3d.json](./368125-futanari-girls-3d.json) |
