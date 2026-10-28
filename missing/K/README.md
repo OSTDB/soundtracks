@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KDice | 56512 | [56512-kdice.json](./56512-kdice.json) |
 | Ke Rulen Los Petas | 141849 | [141849-ke-rulen-los-petas.json](./141849-ke-rulen-los-petas.json) |
 | Ke-Tsu-No-Ana | 32625 | [32625-ke-tsu-no-ana.json](./32625-ke-tsu-no-ana.json) |
+| Keali | 266601 | [266601-keali.json](./266601-keali.json) |
 | Keanu Reeves Dating Sim | 176300 | [176300-keanu-reeves-dating-sim.json](./176300-keanu-reeves-dating-sim.json) |
 | Keaton's Adventure | 303611 | [303611-keatons-adventure.json](./303611-keatons-adventure.json) |
 | Keatz: The Lonely Bird | 57042 | [57042-keatz-the-lonely-bird.json](./57042-keatz-the-lonely-bird.json) |
