@@ -2514,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schlag den Star: Das 2. Spiel | 144617 | [144617-schlag-den-star-das-2-spiel.json](./144617-schlag-den-star-das-2-spiel.json) |
 | Schlag den Star: Das 3. Spiel | 256216 | [256216-schlag-den-star-das-3-spiel.json](./256216-schlag-den-star-das-3-spiel.json) |
 | Schlag den Star: Das Spiel | 78045 | [78045-schlag-den-star-das-spiel.json](./78045-schlag-den-star-das-spiel.json) |
+| Schleich Puzzles: Farm World | 261382 | [261382-schleich-puzzles-farm-world.json](./261382-schleich-puzzles-farm-world.json) |
 | Schlenderman | 141466 | [141466-schlenderman.json](./141466-schlenderman.json) |
 | Schlo Complications | 298792 | [298792-schlo-complications.json](./298792-schlo-complications.json) |
 | Schlo Pink and Purple | 298791 | [298791-schlo-pink-and-purple.json](./298791-schlo-pink-and-purple.json) |
@@ -7765,6 +7766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Out | 38561 | [38561-shoot-out.json](./38561-shoot-out.json) |
 | Shoot Paint | 334747 | [334747-shoot-paint.json](./334747-shoot-paint.json) |
 | Shoot Pump Shoot | 128244 | [128244-shoot-pump-shoot.json](./128244-shoot-pump-shoot.json) |
+| Shoot Rock | 261403 | [261403-shoot-rock.json](./261403-shoot-rock.json) |
 | Shoot Run | 213353 | [213353-shoot-run.json](./213353-shoot-run.json) |
 | Shoot Shoot Cowboy! | 311230 | [311230-shoot-shoot-cowboy.json](./311230-shoot-shoot-cowboy.json) |
 | Shoot Shoot Mega Pack | 28506 | [28506-shoot-shoot-mega-pack.json](./28506-shoot-shoot-mega-pack.json) |
