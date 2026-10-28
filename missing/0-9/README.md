@@ -2246,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Action Hits Collection | 420699 | [420699-4-action-hits-collection.json](./420699-4-action-hits-collection.json) |
 | 4 Alice : Lorange Journey | 76508 | [76508-4-alice-lorange-journey.json](./76508-4-alice-lorange-journey.json) |
 | 4 Alice Magical Autistic Girls | 181043 | [181043-4-alice-magical-autistic-girls.json](./181043-4-alice-magical-autistic-girls.json) |
+| 4 Cats | 233167 | [233167-4-cats.json](./233167-4-cats.json) |
 | 4 Colors Classic Multiplayer | 202767 | [202767-4-colors-classic-multiplayer.json](./202767-4-colors-classic-multiplayer.json) |
 | 4 Colours | 262058 | [262058-4-colours.json](./262058-4-colours.json) |
 | 4 days in *** | 244365 | [244365-4-days-in.json](./244365-4-days-in.json) |
@@ -2730,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Nights Later | 376143 | [376143-7-nights-later.json](./376143-7-nights-later.json) |
 | 7 Nights with Vroombi | 377402 | [377402-7-nights-with-vroombi.json](./377402-7-nights-with-vroombi.json) |
 | 7 Pillars | 41974 | [41974-7-pillars.json](./41974-7-pillars.json) |
+| 7 Pips | 233154 | [233154-7-pips.json](./233154-7-pips.json) |
 | 7 Planets | 175396 | [175396-7-planets.json](./175396-7-planets.json) |
 | 7 Quests of the Hero | 303207 | [303207-7-quests-of-the-hero.json](./303207-7-quests-of-the-hero.json) |
 | 7 Roses: A Darkness Rises | 143398 | [143398-7-roses-a-darkness-rises.json](./143398-7-roses-a-darkness-rises.json) |
