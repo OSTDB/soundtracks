@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I"s Pure | 137957 | [137957-i-s-pure.json](./137957-i-s-pure.json) |
 | I*Chu: Chibi Edition | 292142 | [292142-i-chu-chibi-edition.json](./292142-i-chu-chibi-edition.json) |
 | I/O | 64950 | [64950-i-o.json](./64950-i-o.json) |
+| I/O Revision II | 260743 | [260743-i-o-revision-ii.json](./260743-i-o-revision-ii.json) |
 | I`m Isekai Hero | 296935 | [296935-i-m-isekai-hero.json](./296935-i-m-isekai-hero.json) |
 | I3ergsteiger | 379034 | [379034-i3ergsteiger.json](./379034-i3ergsteiger.json) |
 | i3Peaks - Tri Peaks Solitaire | 87084 | [87084-i3peaks-tri-peaks-solitaire.json](./87084-i3peaks-tri-peaks-solitaire.json) |
