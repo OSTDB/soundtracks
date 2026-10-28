@@ -5787,6 +5787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Knights: Eldritch Hunter | 160166 | [160166-chess-knights-eldritch-hunter.json](./160166-chess-knights-eldritch-hunter.json) |
 | Chess Knights: Shinobi | 148133 | [148133-chess-knights-shinobi.json](./148133-chess-knights-shinobi.json) |
 | Chess Knights: Viking Lands | 135662 | [135662-chess-knights-viking-lands.json](./135662-chess-knights-viking-lands.json) |
+| Chess Maiden | 237553 | [237553-chess-maiden.json](./237553-chess-maiden.json) |
 | Chess Master | 245540 | [245540-chess-master.json](./245540-chess-master.json) |
 | Chess Master | 247054 | [247054-chess-master.json](./247054-chess-master.json) |
 | Chess Master | 346114 | [346114-chess-master.json](./346114-chess-master.json) |
@@ -14095,6 +14096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash'em Derby | 139207 | [139207-crashem-derby.json](./139207-crashem-derby.json) |
 | Crashawk | 336162 | [336162-crashawk.json](./336162-crashawk.json) |
 | Crashbots | 109627 | [109627-crashbots.json](./109627-crashbots.json) |
+| CrashCrafter | 237597 | [237597-crashcrafter.json](./237597-crashcrafter.json) |
 | Crashday | 22516 | [22516-crashday.json](./22516-crashday.json) |
 | Crashday: Redline Edition | 50093 | [50093-crashday-redline-edition.json](./50093-crashday-redline-edition.json) |
 | Crashed | 329598 | [329598-crashed.json](./329598-crashed.json) |
