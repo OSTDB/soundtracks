@@ -6159,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Survival | 110688 | [110688-medieval-survival.json](./110688-medieval-survival.json) |
 | Medieval Tales Solitaire | 236254 | [236254-medieval-tales-solitaire.json](./236254-medieval-tales-solitaire.json) |
 | Medieval Tavern Simulator | 407369 | [407369-medieval-tavern-simulator.json](./407369-medieval-tavern-simulator.json) |
+| Medieval Thief VR | 260266 | [260266-medieval-thief-vr.json](./260266-medieval-thief-vr.json) |
 | Medieval Times | 119345 | [119345-medieval-times.json](./119345-medieval-times.json) |
 | Medieval Towns | 112835 | [112835-medieval-towns.json](./112835-medieval-towns.json) |
 | Medieval Trader Simulator | 186119 | [186119-medieval-trader-simulator.json](./186119-medieval-trader-simulator.json) |
@@ -18573,6 +18574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Box Simulator | 422703 | [422703-mystery-box-simulator.json](./422703-mystery-box-simulator.json) |
 | Mystery Box VR: Hidden Secrets | 343773 | [343773-mystery-box-vr-hidden-secrets.json](./343773-mystery-box-vr-hidden-secrets.json) |
 | Mystery Box: Escape The Room | 259740 | [259740-mystery-box-escape-the-room.json](./259740-mystery-box-escape-the-room.json) |
+| Mystery Box: Evolution | 259954 | [259954-mystery-box-evolution.json](./259954-mystery-box-evolution.json) |
 | Mystery Box: Hidden Secrets | 174041 | [174041-mystery-box-hidden-secrets.json](./174041-mystery-box-hidden-secrets.json) |
 | Mystery Box: The Journey | 257360 | [257360-mystery-box-the-journey.json](./257360-mystery-box-the-journey.json) |
 | Mystery Case Files: 13th Skull | 5515 | [5515-mystery-case-files-13th-skull.json](./5515-mystery-case-files-13th-skull.json) |
