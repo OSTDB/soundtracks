@@ -2506,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man of the World | 156074 | [156074-man-of-the-world.json](./156074-man-of-the-world.json) |
 | Man of War | 62287 | [62287-man-of-war.json](./62287-man-of-war.json) |
 | Man of War II: Chains of Command | 73835 | [73835-man-of-war-ii-chains-of-command.json](./73835-man-of-war-ii-chains-of-command.json) |
+| Man on Wire | 244815 | [244815-man-on-wire.json](./244815-man-on-wire.json) |
 | Man or Muppet | 204238 | [204238-man-or-muppet.json](./204238-man-or-muppet.json) |
 | Man or Vampire | 112264 | [112264-man-or-vampire.json](./112264-man-or-vampire.json) |
 | Man Overboard! | 242454 | [242454-man-overboard.json](./242454-man-overboard.json) |
@@ -11772,6 +11773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misfortune Advance | 203222 | [203222-misfortune-advance.json](./203222-misfortune-advance.json) |
 | Misfortune Possession | 282476 | [282476-misfortune-possession.json](./282476-misfortune-possession.json) |
 | Misgiven | 258040 | [258040-misgiven.json](./258040-misgiven.json) |
+| Misguidead | 244586 | [244586-misguidead.json](./244586-misguidead.json) |
 | Misguided Remastered | 392322 | [392322-misguided-remastered.json](./392322-misguided-remastered.json) |
 | Misha | 371009 | [371009-misha.json](./371009-misha.json) |
 | Mishap 2: An Intentional Haunting - Collector's Edition | 54238 | [54238-mishap-2-an-intentional-haunting-collectors-edition.json](./54238-mishap-2-an-intentional-haunting-collectors-edition.json) |
@@ -14169,6 +14171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montana Jones | 246423 | [246423-montana-jones.json](./246423-montana-jones.json) |
 | Montana Solitaire | 89470 | [89470-montana-solitaire.json](./89470-montana-solitaire.json) |
 | MontanaBlack Kylo's Rescue | 174274 | [174274-montanablack-kylos-rescue.json](./174274-montanablack-kylos-rescue.json) |
+| Montaro 2 | 244936 | [244936-montaro-2.json](./244936-montaro-2.json) |
 | MontaSayer | 29604 | [29604-montasayer.json](./29604-montasayer.json) |
 | Monte Carlo | 40385 | [40385-monte-carlo.json](./40385-monte-carlo.json) |
 | Monte Carlo Baccarat | 92907 | [92907-monte-carlo-baccarat.json](./92907-monte-carlo-baccarat.json) |
