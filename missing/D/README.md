@@ -2998,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Days | 221787 | [221787-dead-days.json](./221787-dead-days.json) |
 | Dead Days | 29061 | [29061-dead-days.json](./29061-dead-days.json) |
 | Dead Detective vs Nine Deaths Cat | 95953 | [95953-dead-detective-vs-nine-deaths-cat.json](./95953-dead-detective-vs-nine-deaths-cat.json) |
+| Dead Detective: Zombie Conspiracy | 251768 | [251768-dead-detective-zombie-conspiracy.json](./251768-dead-detective-zombie-conspiracy.json) |
 | Dead Dimension | 229535 | [229535-dead-dimension.json](./229535-dead-dimension.json) |
 | Dead District: Survival | 209479 | [209479-dead-district-survival.json](./209479-dead-district-survival.json) |
 | Dead Dock Protocol | 322186 | [322186-dead-dock-protocol.json](./322186-dead-dock-protocol.json) |
@@ -7174,6 +7175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dharma Dojo | 79948 | [79948-dharma-dojo.json](./79948-dharma-dojo.json) |
 | Dhilly Game 6 Remake | 369885 | [369885-dhilly-game-6-remake.json](./369885-dhilly-game-6-remake.json) |
 | Dhinameptor | 335792 | [335792-dhinameptor.json](./335792-dhinameptor.json) |
+| DHL Box Stacker Pro | 251774 | [251774-dhl-box-stacker-pro.json](./251774-dhl-box-stacker-pro.json) |
 | DHTML Lemmings | 352223 | [352223-dhtml-lemmings.json](./352223-dhtml-lemmings.json) |
 | Dhux's Scar | 124526 | [124526-dhuxs-scar.json](./124526-dhuxs-scar.json) |
 | Di Feng Long Huang | 308898 | [308898-di-feng-long-huang.json](./308898-di-feng-long-huang.json) |
@@ -10143,6 +10145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogmelon Solitaire | 87101 | [87101-dogmelon-solitaire.json](./87101-dogmelon-solitaire.json) |
 | Dogness | 144242 | [144242-dogness.json](./144242-dogness.json) |
 | Dogolrax | 28074 | [28074-dogolrax.json](./28074-dogolrax.json) |
+| Dogotchi: Virtual Pet | 251632 | [251632-dogotchi-virtual-pet.json](./251632-dogotchi-virtual-pet.json) |
 | Dogotchi: Virtual Pet - Deluxe Edition | 256265 | [256265-dogotchi-virtual-pet-deluxe-edition.json](./256265-dogotchi-virtual-pet-deluxe-edition.json) |
 | Dogou Souken | 40104 | [40104-dogou-souken.json](./40104-dogou-souken.json) |
 | Dogpet | 167531 | [167531-dogpet.json](./167531-dogpet.json) |
@@ -13539,6 +13542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Days | 322624 | [322624-dread-days.json](./322624-dread-days.json) |
 | Dread Delusion | 159735 | [159735-dread-delusion.json](./159735-dread-delusion.json) |
 | Dread Delusion: Rise of the Skeletons | 272835 | [272835-dread-delusion-rise-of-the-skeletons.json](./272835-dread-delusion-rise-of-the-skeletons.json) |
+| Dread Descent | 251763 | [251763-dread-descent.json](./251763-dread-descent.json) |
 | Dread Dice | 184444 | [184444-dread-dice.json](./184444-dread-dice.json) |
 | Dread Flats | 351690 | [351690-dread-flats.json](./351690-dread-flats.json) |
 | Dread Hunger | 141365 | [141365-dread-hunger.json](./141365-dread-hunger.json) |
@@ -15747,6 +15751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Choices | 178859 | [178859-dungeon-of-choices.json](./178859-dungeon-of-choices.json) |
 | Dungeon of Departure | 378235 | [378235-dungeon-of-departure.json](./378235-dungeon-of-departure.json) |
 | Dungeon of Despair | 193990 | [193990-dungeon-of-despair.json](./193990-dungeon-of-despair.json) |
+| Dungeon of Destiny | 251783 | [251783-dungeon-of-destiny.json](./251783-dungeon-of-destiny.json) |
 | Dungeon of Distrust | 420204 | [420204-dungeon-of-distrust.json](./420204-dungeon-of-distrust.json) |
 | Dungeon of Doom | 178615 | [178615-dungeon-of-doom.json](./178615-dungeon-of-doom.json) |
 | Dungeon of Dragon Knight | 113402 | [113402-dungeon-of-dragon-knight.json](./113402-dungeon-of-dragon-knight.json) |
