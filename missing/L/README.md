@@ -2287,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Pirates:Sailing Log | 89506 | [89506-legend-of-pirates-sailing-log.json](./89506-legend-of-pirates-sailing-log.json) |
 | Legend of Pong Lonng Fighter Sunny'na | 267930 | [267930-legend-of-pong-lonng-fighter-sunnyna.json](./267930-legend-of-pong-lonng-fighter-sunnyna.json) |
 | Legend of Power Z | 106597 | [106597-legend-of-power-z.json](./106597-legend-of-power-z.json) |
+| Legend of Puzzleverse | 238292 | [238292-legend-of-puzzleverse.json](./238292-legend-of-puzzleverse.json) |
 | Legend of Radiance | 192946 | [192946-legend-of-radiance.json](./192946-legend-of-radiance.json) |
 | Legend of Ramen | 291550 | [291550-legend-of-ramen.json](./291550-legend-of-ramen.json) |
 | Legend of Red | 334507 | [334507-legend-of-red.json](./334507-legend-of-red.json) |
@@ -4645,6 +4646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line: Disney Tsum Tsum | 38886 | [38886-line-disney-tsum-tsum.json](./38886-line-disney-tsum-tsum.json) |
 | Line: Monster Farm | 246913 | [246913-line-monster-farm.json](./246913-line-monster-farm.json) |
 | Line's Guarder | 252607 | [252607-lines-guarder.json](./252607-lines-guarder.json) |
+| Linea | 238289 | [238289-linea.json](./238289-linea.json) |
 | Linea VR | 121972 | [121972-linea-vr.json](./121972-linea-vr.json) |
 | Lineage | 388008 | [388008-lineage.json](./388008-lineage.json) |
 | Lineage | 75854 | [75854-lineage.json](./75854-lineage.json) |
@@ -7274,6 +7276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Toys | 62996 | [62996-lost-toys.json](./62996-lost-toys.json) |
 | Lost Traces: Unsolved Cases - False Awakening | 280842 | [280842-lost-traces-unsolved-cases-false-awakening.json](./280842-lost-traces-unsolved-cases-false-awakening.json) |
 | Lost Traces: Unsolved Cases - Genesis | 329387 | [329387-lost-traces-unsolved-cases-genesis.json](./329387-lost-traces-unsolved-cases-genesis.json) |
+| Lost Trials | 238680 | [238680-lost-trials.json](./238680-lost-trials.json) |
 | Lost Tribe | 309517 | [309517-lost-tribe.json](./309517-lost-tribe.json) |
 | Lost Trust: Episode 1 | 387488 | [387488-lost-trust-episode-1.json](./387488-lost-trust-episode-1.json) |
 | Lost Twins 2 | 173308 | [173308-lost-twins-2.json](./173308-lost-twins-2.json) |
