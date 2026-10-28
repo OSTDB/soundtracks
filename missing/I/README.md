@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I, Chatbot: Aisylum | 290511 | [290511-i-chatbot-aisylum.json](./290511-i-chatbot-aisylum.json) |
 | I, Damiano | 24671 | [24671-i-damiano.json](./24671-i-damiano.json) |
 | I, For One, Welcome Our New Lady Knight Overlords! | 178506 | [178506-i-for-one-welcome-our-new-lady-knight-overlords.json](./178506-i-for-one-welcome-our-new-lady-knight-overlords.json) |
+| I, Gladiator Scratch'em | 249234 | [249234-i-gladiator-scratchem.json](./249234-i-gladiator-scratchem.json) |
 | I, of the Mask | 26212 | [26212-i-of-the-mask.json](./26212-i-of-the-mask.json) |
 | I, Robot | 335831 | [335831-i-robot.json](./335831-i-robot.json) |
 | I, the I-piece | 175112 | [175112-i-the-i-piece.json](./175112-i-the-i-piece.json) |
@@ -2786,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incursion: The Thing | 30723 | [30723-incursion-the-thing.json](./30723-incursion-the-thing.json) |
 | Incursion2D | 284887 | [284887-incursion2d.json](./284887-incursion2d.json) |
 | Incyanspace | 409359 | [409359-incyanspace.json](./409359-incyanspace.json) |
+| Indagator | 249390 | [249390-indagator.json](./249390-indagator.json) |
 | Inde Rally | 47090 | [47090-inde-rally.json](./47090-inde-rally.json) |
 | Indecent Desires | 211617 | [211617-indecent-desires.json](./211617-indecent-desires.json) |
 | Indecision. | 83969 | [83969-indecision.json](./83969-indecision.json) |
