@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogopogo | 158539 | [158539-ogopogo.json](./158539-ogopogo.json) |
 | Ogopogo | 351546 | [351546-ogopogo.json](./351546-ogopogo.json) |
 | Ogora | 323936 | [323936-ogora.json](./323936-ogora.json) |
+| Ograidet | 261073 | [261073-ograidet.json](./261073-ograidet.json) |
 | Ogre | 14783 | [14783-ogre.json](./14783-ogre.json) |
 | Ogre | 54713 | [54713-ogre.json](./54713-ogre.json) |
 | Ogre Battle 64: Person of Lordly Caliber | 3568 | [3568-ogre-battle-64-person-of-lordly-caliber.json](./3568-ogre-battle-64-person-of-lordly-caliber.json) |
@@ -1744,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Fly | 100560 | [100560-on-the-fly.json](./100560-on-the-fly.json) |
 | On The Hook | 415951 | [415951-on-the-hook.json](./415951-on-the-hook.json) |
 | On the Hunt | 160065 | [160065-on-the-hunt.json](./160065-on-the-hunt.json) |
+| On the Island of Falling Stars: Chapter 1 | 261074 | [261074-on-the-island-of-falling-stars-chapter-1.json](./261074-on-the-island-of-falling-stars-chapter-1.json) |
 | On the Job | 243786 | [243786-on-the-job.json](./243786-on-the-job.json) |
 | On the Keyboard | 316827 | [316827-on-the-keyboard.json](./316827-on-the-keyboard.json) |
 | On the line | 104508 | [104508-on-the-line.json](./104508-on-the-line.json) |
