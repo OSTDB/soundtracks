@@ -4631,6 +4631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Saki | 389181 | [389181-hentai-saki.json](./389181-hentai-saki.json) |
 | Hentai Sakura | 286453 | [286453-hentai-sakura.json](./286453-hentai-sakura.json) |
 | Hentai Sally | 340449 | [340449-hentai-sally.json](./340449-hentai-sally.json) |
+| Hentai Secrets | 237563 | [237563-hentai-secrets.json](./237563-hentai-secrets.json) |
 | Hentai Secrets | 286392 | [286392-hentai-secrets.json](./286392-hentai-secrets.json) |
 | Hentai Senpai: Apocalypse Girls | 301669 | [301669-hentai-senpai-apocalypse-girls.json](./301669-hentai-senpai-apocalypse-girls.json) |
 | Hentai Senpai: Cosmic Beauties | 254905 | [254905-hentai-senpai-cosmic-beauties.json](./254905-hentai-senpai-cosmic-beauties.json) |
@@ -7513,6 +7514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hogs of War | 8877 | [8877-hogs-of-war.json](./8877-hogs-of-war.json) |
 | Hogtie | 348335 | [348335-hogtie.json](./348335-hogtie.json) |
 | Hogvalord: The Ranch | 236389 | [236389-hogvalord-the-ranch.json](./236389-hogvalord-the-ranch.json) |
+| Hogwarts Legacy: Dark Arts Pack | 237565 | [237565-hogwarts-legacy-dark-arts-pack.json](./237565-hogwarts-legacy-dark-arts-pack.json) |
 | Hogwarts Legacy: Deluxe Edition | 214873 | [214873-hogwarts-legacy-deluxe-edition.json](./214873-hogwarts-legacy-deluxe-edition.json) |
 | Hogwarts Legacy: Digital Deluxe Edition | 214440 | [214440-hogwarts-legacy-digital-deluxe-edition.json](./214440-hogwarts-legacy-digital-deluxe-edition.json) |
 | Hogwarts Legacy: Onyx Hippogriff Mount | 304809 | [304809-hogwarts-legacy-onyx-hippogriff-mount.json](./304809-hogwarts-legacy-onyx-hippogriff-mount.json) |
