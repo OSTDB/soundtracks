@@ -7649,6 +7649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Focalpoint | 221653 | [221653-focalpoint.json](./221653-focalpoint.json) |
 | Focumon | 397828 | [397828-focumon.json](./397828-focumon.json) |
 | Focus | 182941 | [182941-focus.json](./182941-focus.json) |
+| Focus | 238679 | [238679-focus.json](./238679-focus.json) |
 | Focus | 242576 | [242576-focus.json](./242576-focus.json) |
 | Focus | 381028 | [381028-focus.json](./381028-focus.json) |
 | Focus | 407452 | [407452-focus.json](./407452-focus.json) |
@@ -10696,6 +10697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggerty Arcade 2 | 189185 | [189185-froggerty-arcade-2.json](./189185-froggerty-arcade-2.json) |
 | Froggie Dash | 311686 | [311686-froggie-dash.json](./311686-froggie-dash.json) |
 | Froggie Eggs | 344716 | [344716-froggie-eggs.json](./344716-froggie-eggs.json) |
+| Froggie Jump | 238693 | [238693-froggie-jump.json](./238693-froggie-jump.json) |
 | Froggie: A Retro Platformer | 211968 | [211968-froggie-a-retro-platformer.json](./211968-froggie-a-retro-platformer.json) |
 | FroggieChat | 184831 | [184831-froggiechat.json](./184831-froggiechat.json) |
 | Froggies at the Zoo | 265459 | [265459-froggies-at-the-zoo.json](./265459-froggies-at-the-zoo.json) |
