@@ -4913,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions Online | 8583 | [8583-champions-online.json](./8583-champions-online.json) |
 | Champions Stable: Equestrian Dynasty | 386838 | [386838-champions-stable-equestrian-dynasty.json](./386838-champions-stable-equestrian-dynasty.json) |
 | Champions Tactics Reforged | 343807 | [343807-champions-tactics-reforged.json](./343807-champions-tactics-reforged.json) |
+| Champions Tactics: Grimoria Chronicles | 255195 | [255195-champions-tactics-grimoria-chronicles.json](./255195-champions-tactics-grimoria-chronicles.json) |
 | Champions World Class Soccer | 46229 | [46229-champions-world-class-soccer.json](./46229-champions-world-class-soccer.json) |
 | Champions: Return to Arms | 10237 | [10237-champions-return-to-arms.json](./10237-champions-return-to-arms.json) |
 | Championsheep Rally | 52499 | [52499-championsheep-rally.json](./52499-championsheep-rally.json) |
@@ -12049,6 +12050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraption Zack | 24864 | [24864-contraption-zack.json](./24864-contraption-zack.json) |
 | Contraptions | 120824 | [120824-contraptions.json](./120824-contraptions.json) |
 | Contraptions 2 | 242598 | [242598-contraptions-2.json](./242598-contraptions-2.json) |
+| Contraptions 3 | 255187 | [255187-contraptions-3.json](./255187-contraptions-3.json) |
 | Contraptions Collection | 282051 | [282051-contraptions-collection.json](./282051-contraptions-collection.json) |
 | Contrast | 383509 | [383509-contrast.json](./383509-contrast.json) |
 | Contrast | 3839 | [3839-contrast.json](./3839-contrast.json) |
