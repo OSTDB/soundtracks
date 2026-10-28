@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madou Monogatari: Tower of the Magician | 252162 | [252162-madou-monogatari-tower-of-the-magician.json](./252162-madou-monogatari-tower-of-the-magician.json) |
 | Madou Run | 253724 | [253724-madou-run.json](./253724-madou-run.json) |
 | Madou Senki: Deep Dungeon | 41232 | [41232-madou-senki-deep-dungeon.json](./41232-madou-senki-deep-dungeon.json) |
+| Madou Sugoroku | 253716 | [253716-madou-sugoroku.json](./253716-madou-sugoroku.json) |
 | Madoushi Lulba | 235095 | [235095-madoushi-lulba.json](./235095-madoushi-lulba.json) |
 | MadOut | 35679 | [35679-madout.json](./35679-madout.json) |
 | Madout Big City | 29580 | [29580-madout-big-city.json](./29580-madout-big-city.json) |
@@ -2365,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Maniacs | 70681 | [70681-mall-maniacs.json](./70681-mall-maniacs.json) |
 | Mall of America Tycoon | 67895 | [67895-mall-of-america-tycoon.json](./67895-mall-of-america-tycoon.json) |
 | Mall of Mayhem | 188502 | [188502-mall-of-mayhem.json](./188502-mall-of-mayhem.json) |
+| Mall of Mayhem: All Skins Pack | 254087 | [254087-mall-of-mayhem-all-skins-pack.json](./254087-mall-of-mayhem-all-skins-pack.json) |
 | Mall Rivals | 390743 | [390743-mall-rivals.json](./390743-mall-rivals.json) |
 | Mall Simulator | 326402 | [326402-mall-simulator.json](./326402-mall-simulator.json) |
 | Mall Simulator | 401150 | [401150-mall-simulator.json](./401150-mall-simulator.json) |
@@ -5731,6 +5733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Academy | 267302 | [267302-mech-academy.json](./267302-mech-academy.json) |
 | Mech Ace Combat Trainer | 31880 | [31880-mech-ace-combat-trainer.json](./31880-mech-ace-combat-trainer.json) |
 | Mech Anarchy | 34018 | [34018-mech-anarchy.json](./34018-mech-anarchy.json) |
+| Mech Arena | 254093 | [254093-mech-arena.json](./254093-mech-arena.json) |
 | Mech Arena Shooter Battle | 380843 | [380843-mech-arena-shooter-battle.json](./380843-mech-arena-shooter-battle.json) |
 | Mech Armada | 145929 | [145929-mech-armada.json](./145929-mech-armada.json) |
 | Mech Assembler: Model Kit Builder Simulator | 346632 | [346632-mech-assembler-model-kit-builder-simulator.json](./346632-mech-assembler-model-kit-builder-simulator.json) |
@@ -10654,6 +10657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Disney - Worlds of Adventure | 262539 | [262539-minecraft-disney-worlds-of-adventure.json](./262539-minecraft-disney-worlds-of-adventure.json) |
 | Minecraft: Doctor Who Skin Pack Volume 2 | 254876 | [254876-minecraft-doctor-who-skin-pack-volume-2.json](./254876-minecraft-doctor-who-skin-pack-volume-2.json) |
 | Minecraft: Dragonborn Mash-up | 233961 | [233961-minecraft-dragonborn-mash-up.json](./233961-minecraft-dragonborn-mash-up.json) |
+| Minecraft: DuckTales | 254079 | [254079-minecraft-ducktales.json](./254079-minecraft-ducktales.json) |
 | Minecraft: Echo Crystal | 343904 | [343904-minecraft-echo-crystal.json](./343904-minecraft-echo-crystal.json) |
 | Minecraft: Egyptian Mythology Mash-up | 237331 | [237331-minecraft-egyptian-mythology-mash-up.json](./237331-minecraft-egyptian-mythology-mash-up.json) |
 | Minecraft: Essentials | 327115 | [327115-minecraft-essentials.json](./327115-minecraft-essentials.json) |
@@ -10749,6 +10753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: The Cake Is A Lie | 325863 | [325863-minecraft-the-cake-is-a-lie.json](./325863-minecraft-the-cake-is-a-lie.json) |
 | Minecraft: The Copper Age | 363001 | [363001-minecraft-the-copper-age.json](./363001-minecraft-the-copper-age.json) |
 | Minecraft: The Garden Awakens | 324509 | [324509-minecraft-the-garden-awakens.json](./324509-minecraft-the-garden-awakens.json) |
+| Minecraft: The Incredibles | 253711 | [253711-minecraft-the-incredibles.json](./253711-minecraft-the-incredibles.json) |
 | Minecraft: The Nightmare Before Christmas Mash-up | 235332 | [235332-minecraft-the-nightmare-before-christmas-mash-up.json](./235332-minecraft-the-nightmare-before-christmas-mash-up.json) |
 | Minecraft: The Theme Park | 316747 | [316747-minecraft-the-theme-park.json](./316747-minecraft-the-theme-park.json) |
 | Minecraft: The Traveling Trader | 322955 | [322955-minecraft-the-traveling-trader.json](./322955-minecraft-the-traveling-trader.json) |
@@ -17913,6 +17918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Riding Champion | 109006 | [109006-my-little-riding-champion.json](./109006-my-little-riding-champion.json) |
 | My Little RPG Shop | 298650 | [298650-my-little-rpg-shop.json](./298650-my-little-rpg-shop.json) |
 | My Little Sister Callie | 321767 | [321767-my-little-sister-callie.json](./321767-my-little-sister-callie.json) |
+| My Little Sister's Special Place | 253712 | [253712-my-little-sisters-special-place.json](./253712-my-little-sisters-special-place.json) |
 | My Little Spider | 374616 | [374616-my-little-spider.json](./374616-my-little-spider.json) |
 | My Little Universe | 207161 | [207161-my-little-universe.json](./207161-my-little-universe.json) |
 | My Little Universe + God of Light Remastered Bundle | 309060 | [309060-my-little-universe-god-of-light-remastered-bundle.json](./309060-my-little-universe-god-of-light-remastered-bundle.json) |
@@ -18952,6 +18958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Map | 204939 | [204939-mystical-map.json](./204939-mystical-map.json) |
 | Mystical Mayhem | 156038 | [156038-mystical-mayhem.json](./156038-mystical-mayhem.json) |
 | Mystical Mixing | 224011 | [224011-mystical-mixing.json](./224011-mystical-mixing.json) |
+| Mystical Mixing: Arcane Edition | 254074 | [254074-mystical-mixing-arcane-edition.json](./254074-mystical-mixing-arcane-edition.json) |
 | Mystical Mixing: Wand and Frog Edition | 273305 | [273305-mystical-mixing-wand-and-frog-edition.json](./273305-mystical-mixing-wand-and-frog-edition.json) |
 | Mystical Mushrooms | 341353 | [341353-mystical-mushrooms.json](./341353-mystical-mushrooms.json) |
 | Mystical Ninja Starring Goemon | 143439 | [143439-mystical-ninja-starring-goemon.json](./143439-mystical-ninja-starring-goemon.json) |
