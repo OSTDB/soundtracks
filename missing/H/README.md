@@ -4851,6 +4851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentaisland: Lost Pantsu | 156559 | [156559-hentaisland-lost-pantsu.json](./156559-hentaisland-lost-pantsu.json) |
 | HentaiVerse | 356129 | [356129-hentaiverse.json](./356129-hentaiverse.json) |
 | Hentami: Vendetta | 81148 | [81148-hentami-vendetta.json](./81148-hentami-vendetta.json) |
+| Hentekorin | 229267 | [229267-hentekorin.json](./229267-hentekorin.json) |
 | Henteria Chronicles: The Peacekeepers | 334495 | [334495-henteria-chronicles-the-peacekeepers.json](./334495-henteria-chronicles-the-peacekeepers.json) |
 | HenTris | 334797 | [334797-hentris.json](./334797-hentris.json) |
 | HenTris 2: Shemales | 111209 | [111209-hentris-2-shemales.json](./111209-hentris-2-shemales.json) |
