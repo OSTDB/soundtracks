@@ -2709,6 +2709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tears Revolude | 32148 | [32148-tears-revolude.json](./32148-tears-revolude.json) |
 | Tears to Tiara Gaiden: Avalon no Nazo | 76907 | [76907-tears-to-tiara-gaiden-avalon-no-nazo.json](./76907-tears-to-tiara-gaiden-avalon-no-nazo.json) |
 | Tears To Tiara II: Heir Of The Overlord | 21874 | [21874-tears-to-tiara-ii-heir-of-the-overlord.json](./21874-tears-to-tiara-ii-heir-of-the-overlord.json) |
+| Tears to Tiara: Kakan no Daichi | 272670 | [272670-tears-to-tiara-kakan-no-daichi.json](./272670-tears-to-tiara-kakan-no-daichi.json) |
 | Tearscape | 318752 | [318752-tearscape.json](./318752-tearscape.json) |
 | Tearstone | 38760 | [38760-tearstone.json](./38760-tearstone.json) |
 | Tearstone: Thieves of the Heart | 195699 | [195699-tearstone-thieves-of-the-heart.json](./195699-tearstone-thieves-of-the-heart.json) |
@@ -5609,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Binding of Isaac: Antibirth | 103333 | [103333-the-binding-of-isaac-antibirth.json](./103333-the-binding-of-isaac-antibirth.json) |
 | The Binding of Isaac: Epiphany | 223039 | [223039-the-binding-of-isaac-epiphany.json](./223039-the-binding-of-isaac-epiphany.json) |
 | The Binding of Isaac: Eternal Edition | 341546 | [341546-the-binding-of-isaac-eternal-edition.json](./341546-the-binding-of-isaac-eternal-edition.json) |
+| The Binding of Isaac: Fall from Grace | 272672 | [272672-the-binding-of-isaac-fall-from-grace.json](./272672-the-binding-of-isaac-fall-from-grace.json) |
 | The Binding of Isaac: Game Boy Edition | 185917 | [185917-the-binding-of-isaac-game-boy-edition.json](./185917-the-binding-of-isaac-game-boy-edition.json) |
 | The Binding of Isaac: Rebirth | 309607 | [309607-the-binding-of-isaac-rebirth.json](./309607-the-binding-of-isaac-rebirth.json) |
 | The Binding of Isaac: Repentance | 310643 | [310643-the-binding-of-isaac-repentance.json](./310643-the-binding-of-isaac-repentance.json) |
@@ -5835,6 +5837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bounty Hunter | 145558 | [145558-the-bounty-hunter.json](./145558-the-bounty-hunter.json) |
 | The Bounty Huntress | 153025 | [153025-the-bounty-huntress.json](./153025-the-bounty-huntress.json) |
 | The Bounty V2 | 75832 | [75832-the-bounty-v2.json](./75832-the-bounty-v2.json) |
+| The Bourntyverse! | 272662 | [272662-the-bourntyverse.json](./272662-the-bourntyverse.json) |
 | The Bow | 60602 | [60602-the-bow.json](./60602-the-bow.json) |
 | The Bowling Tournament | 277418 | [277418-the-bowling-tournament.json](./277418-the-bowling-tournament.json) |
 | The Bowyage | 265208 | [265208-the-bowyage.json](./265208-the-bowyage.json) |
