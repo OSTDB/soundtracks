@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hagun Sangokushi | 95923 | [95923-hagun-sangokushi.json](./95923-hagun-sangokushi.json) |
 | Hagwalla Legend | 283760 | [283760-hagwalla-legend.json](./283760-hagwalla-legend.json) |
 | Hagyo-gil: The Way Home | 376864 | [376864-hagyo-gil-the-way-home.json](./376864-hagyo-gil-the-way-home.json) |
+| HaHa | 238678 | [238678-haha.json](./238678-haha.json) |
 | Haha Doodle | 194271 | [194271-haha-doodle.json](./194271-haha-doodle.json) |
 | Hahakigami Sweep | 386105 | [386105-hahakigami-sweep.json](./386105-hahakigami-sweep.json) |
 | Hahakigami Sweep | 386106 | [386106-hahakigami-sweep.json](./386106-hahakigami-sweep.json) |
@@ -4048,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helmet Head | 391662 | [391662-helmet-head.json](./391662-helmet-head.json) |
 | Helmet Heroes | 31383 | [31383-helmet-heroes.json](./31383-helmet-heroes.json) |
 | HelmetFire | 351265 | [351265-helmetfire.json](./351265-helmetfire.json) |
+| Helmetman | 238685 | [238685-helmetman.json](./238685-helmetman.json) |
 | HelmetRoyale.io | 125991 | [125991-helmetroyale-io.json](./125991-helmetroyale-io.json) |
 | Helmo Online | 301796 | [301796-helmo-online.json](./301796-helmo-online.json) |
 | Helmouth Halls | 125143 | [125143-helmouth-halls.json](./125143-helmouth-halls.json) |
@@ -4892,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herald of the Depths | 117399 | [117399-herald-of-the-depths.json](./117399-herald-of-the-depths.json) |
 | Herald of the Mists | 310501 | [310501-herald-of-the-mists.json](./310501-herald-of-the-mists.json) |
 | Herald: The Interactive Period Drama - Complete Edition | 226443 | [226443-herald-the-interactive-period-drama-complete-edition.json](./226443-herald-the-interactive-period-drama-complete-edition.json) |
+| Heralds of Silence. Chapter one | 238682 | [238682-heralds-of-silence-chapter-one.json](./238682-heralds-of-silence-chapter-one.json) |
 | Heralds of the Avirentes: Ch. 1 - Wings of Change | 244474 | [244474-heralds-of-the-avirentes-ch-1-wings-of-change.json](./244474-heralds-of-the-avirentes-ch-1-wings-of-change.json) |
 | Heralds of The Order | 108466 | [108466-heralds-of-the-order.json](./108466-heralds-of-the-order.json) |
 | Herb Garden Tycoon | 237669 | [237669-herb-garden-tycoon.json](./237669-herb-garden-tycoon.json) |
@@ -5737,6 +5740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexLab | 97090 | [97090-hexlab.json](./97090-hexlab.json) |
 | Hexland Heroes | 98024 | [98024-hexland-heroes.json](./98024-hexland-heroes.json) |
 | HexLand: Rise of Blue | 221678 | [221678-hexland-rise-of-blue.json](./221678-hexland-rise-of-blue.json) |
+| HexLands | 238657 | [238657-hexlands.json](./238657-hexlands.json) |
 | Hexle | 271821 | [271821-hexle.json](./271821-hexle.json) |
 | HexLogic - Quilts | 106381 | [106381-hexlogic-quilts.json](./106381-hexlogic-quilts.json) |
 | HexLogic: Lanterns | 216155 | [216155-hexlogic-lanterns.json](./216155-hexlogic-lanterns.json) |
