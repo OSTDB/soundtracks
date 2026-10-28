@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-28T11:21:53.203Z",
-  "total_missing": 274419,
+  "generated_at": "2026-10-28T11:35:51.760Z",
+  "total_missing": 274405,
   "games": [
     {
       "igdb_id": 191680,
@@ -9485,6 +9485,11 @@
       "igdb_id": 348227,
       "game_name": "32, Dandelion Drift",
       "file": "missing/0-9/348227-32-dandelion-drift.json"
+    },
+    {
+      "igdb_id": 254711,
+      "game_name": "326",
+      "file": "missing/0-9/254711-326.json"
     },
     {
       "igdb_id": 72609,
@@ -25185,11 +25190,6 @@
       "igdb_id": 382880,
       "game_name": "Abyssopelagic",
       "file": "missing/A/382880-abyssopelagic.json"
-    },
-    {
-      "igdb_id": 165393,
-      "game_name": "Abyssus",
-      "file": "missing/A/165393-abyssus.json"
     },
     {
       "igdb_id": 335145,
@@ -98982,11 +98982,6 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
-    },
-    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -168105,11 +168100,6 @@
       "igdb_id": 256396,
       "game_name": "Bugsnax",
       "file": "missing/B/256396-bugsnax.json"
-    },
-    {
-      "igdb_id": 178326,
-      "game_name": "Bugsnax: The Isle of Bigsnax",
-      "file": "missing/B/178326-bugsnax-the-isle-of-bigsnax.json"
     },
     {
       "igdb_id": 34127,
@@ -266307,6 +266297,11 @@
       "file": "missing/D/36735-daish-assault-the-videogame.json"
     },
     {
+      "igdb_id": 254710,
+      "game_name": "Daisho: Survival of a Samurai",
+      "file": "missing/D/254710-daisho-survival-of-a-samurai.json"
+    },
+    {
       "igdb_id": 74739,
       "game_name": "Daisia",
       "file": "missing/D/74739-daisia.json"
@@ -281665,11 +281660,6 @@
       "igdb_id": 26822,
       "game_name": "Deadlings: Rotten Edition",
       "file": "missing/D/26822-deadlings-rotten-edition.json"
-    },
-    {
-      "igdb_id": 204239,
-      "game_name": "Deadlink",
-      "file": "missing/D/204239-deadlink.json"
     },
     {
       "igdb_id": 166073,
@@ -297890,6 +297880,11 @@
       "igdb_id": 402369,
       "game_name": "Detective R & Prophet J",
       "file": "missing/D/402369-detective-r-and-prophet-j.json"
+    },
+    {
+      "igdb_id": 254705,
+      "game_name": "Detective Reborn Bundle",
+      "file": "missing/D/254705-detective-reborn-bundle.json"
     },
     {
       "igdb_id": 91096,
@@ -331870,11 +331865,6 @@
       "igdb_id": 86760,
       "game_name": "Dread Station",
       "file": "missing/D/86760-dread-station.json"
-    },
-    {
-      "igdb_id": 144585,
-      "game_name": "Dread Templar",
-      "file": "missing/D/144585-dread-templar.json"
     },
     {
       "igdb_id": 183595,
@@ -421712,11 +421702,6 @@
       "file": "missing/F/112710-flyinside-flight-simulator.json"
     },
     {
-      "igdb_id": 310121,
-      "game_name": "FlyKnight",
-      "file": "missing/F/310121-flyknight.json"
-    },
-    {
       "igdb_id": 150418,
       "game_name": "Flykt",
       "file": "missing/F/150418-flykt.json"
@@ -426230,11 +426215,6 @@
       "igdb_id": 410030,
       "game_name": "Forever RPG",
       "file": "missing/F/410030-forever-rpg.json"
-    },
-    {
-      "igdb_id": 187096,
-      "game_name": "Forever Skies",
-      "file": "missing/F/187096-forever-skies.json"
     },
     {
       "igdb_id": 404906,
@@ -453847,11 +453827,6 @@
       "file": "missing/G/320854-garten-of-banban-0.json"
     },
     {
-      "igdb_id": 231437,
-      "game_name": "Garten of Banban 2",
-      "file": "missing/G/231437-garten-of-banban-2.json"
-    },
-    {
       "igdb_id": 261134,
       "game_name": "Garten of Banban 5",
       "file": "missing/G/261134-garten-of-banban-5.json"
@@ -461120,11 +461095,6 @@
       "igdb_id": 295310,
       "game_name": "Ghost For Hire",
       "file": "missing/G/295310-ghost-for-hire.json"
-    },
-    {
-      "igdb_id": 103272,
-      "game_name": "Ghost Giant",
-      "file": "missing/G/103272-ghost-giant.json"
     },
     {
       "igdb_id": 271042,
@@ -560642,11 +560612,6 @@
       "file": "missing/I/139850-immortals-fenyx-rising-limited-edition.json"
     },
     {
-      "igdb_id": 144579,
-      "game_name": "Immortals Fenyx Rising: Myths of the Eastern Realm",
-      "file": "missing/I/144579-immortals-fenyx-rising-myths-of-the-eastern-realm.json"
-    },
-    {
       "igdb_id": 293724,
       "game_name": "Immortals Fenyx Rising: Season Pass",
       "file": "missing/I/293724-immortals-fenyx-rising-season-pass.json"
@@ -610162,11 +610127,6 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
-    },
-    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -612495,11 +612455,6 @@
       "igdb_id": 210507,
       "game_name": "Kingdom Draw",
       "file": "missing/K/210507-kingdom-draw.json"
-    },
-    {
-      "igdb_id": 209620,
-      "game_name": "Kingdom Eighties",
-      "file": "missing/K/209620-kingdom-eighties.json"
     },
     {
       "igdb_id": 17151,
@@ -616745,6 +616700,11 @@
       "igdb_id": 326551,
       "game_name": "Klonoa: The Dream Chapter",
       "file": "missing/K/326551-klonoa-the-dream-chapter.json"
+    },
+    {
+      "igdb_id": 254707,
+      "game_name": "Kloot Arena",
+      "file": "missing/K/254707-kloot-arena.json"
     },
     {
       "igdb_id": 295289,
@@ -659307,11 +659267,6 @@
       "file": "missing/L/305172-lorn-vale.json"
     },
     {
-      "igdb_id": 145858,
-      "game_name": "Lorn's Lure",
-      "file": "missing/L/145858-lorns-lure.json"
-    },
-    {
       "igdb_id": 321662,
       "game_name": "Lorn's Lure: Danny's Song",
       "file": "missing/L/321662-lorns-lure-dannys-song.json"
@@ -665525,6 +665480,11 @@
       "igdb_id": 381075,
       "game_name": "Lucid Falls",
       "file": "missing/L/381075-lucid-falls.json"
+    },
+    {
+      "igdb_id": 254709,
+      "game_name": "Lucid Lenses",
+      "file": "missing/L/254709-lucid-lenses.json"
     },
     {
       "igdb_id": 228957,
@@ -741572,11 +741532,6 @@
       "file": "missing/M/319876-moonfrost.json"
     },
     {
-      "igdb_id": 145073,
-      "game_name": "Moonglow Bay",
-      "file": "missing/M/145073-moonglow-bay.json"
-    },
-    {
       "igdb_id": 370889,
       "game_name": "Moongrave",
       "file": "missing/M/370889-moongrave.json"
@@ -797230,11 +797185,6 @@
       "igdb_id": 188846,
       "game_name": "Nuclear Assault",
       "file": "missing/N/188846-nuclear-assault.json"
-    },
-    {
-      "igdb_id": 153876,
-      "game_name": "Nuclear Blaze",
-      "file": "missing/N/153876-nuclear-blaze.json"
     },
     {
       "igdb_id": 265958,
@@ -915945,6 +915895,11 @@
       "igdb_id": 28007,
       "game_name": "Rage of Bahamut",
       "file": "missing/R/28007-rage-of-bahamut.json"
+    },
+    {
+      "igdb_id": 254708,
+      "game_name": "Rage of Blades",
+      "file": "missing/R/254708-rage-of-blades.json"
     },
     {
       "igdb_id": 149356,
@@ -1052757,6 +1052712,11 @@
       "file": "missing/S/222966-space-fun.json"
     },
     {
+      "igdb_id": 254706,
+      "game_name": "Space Funeral 2",
+      "file": "missing/S/254706-space-funeral-2.json"
+    },
+    {
       "igdb_id": 360744,
       "game_name": "Space Funeral 2: of Rubies and Gold II - From Shadows We Rise",
       "file": "missing/S/360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json"
@@ -1131147,11 +1131107,6 @@
       "file": "missing/T/221716-tales-of-symphonia.json"
     },
     {
-      "igdb_id": 221717,
-      "game_name": "Tales of Symphonia",
-      "file": "missing/T/221717-tales-of-symphonia.json"
-    },
-    {
       "igdb_id": 217564,
       "game_name": "Tales of Symphonia Remastered",
       "file": "missing/T/217564-tales-of-symphonia-remastered.json"
@@ -1145840,11 +1145795,6 @@
       "igdb_id": 95985,
       "game_name": "Tesla8",
       "file": "missing/T/95985-tesla8.json"
-    },
-    {
-      "igdb_id": 214506,
-      "game_name": "Teslagrad 2",
-      "file": "missing/T/214506-teslagrad-2.json"
     },
     {
       "igdb_id": 246451,
@@ -1172182,11 +1172132,6 @@
       "file": "missing/T/188677-the-house-of-big-people.json"
     },
     {
-      "igdb_id": 197081,
-      "game_name": "The House of Da Vinci 3",
-      "file": "missing/T/197081-the-house-of-da-vinci-3.json"
-    },
-    {
       "igdb_id": 186543,
       "game_name": "The House of Da Vinci Bundle",
       "file": "missing/T/186543-the-house-of-da-vinci-bundle.json"
@@ -1190210,11 +1190155,6 @@
       "igdb_id": 26707,
       "game_name": "The Plague",
       "file": "missing/T/26707-the-plague.json"
-    },
-    {
-      "igdb_id": 189301,
-      "game_name": "The Plague Doctor of Wippra",
-      "file": "missing/T/189301-the-plague-doctor-of-wippra.json"
     },
     {
       "igdb_id": 171356,
@@ -1311587,11 +1311527,6 @@
       "file": "missing/W/111744-warhammer-40-000-sanctus-reach-sons-of-cadia.json"
     },
     {
-      "igdb_id": 159703,
-      "game_name": "Warhammer 40,000: Shootas, Blood & Teef",
-      "file": "missing/W/159703-warhammer-40-000-shootas-blood-and-teef.json"
-    },
-    {
       "igdb_id": 74199,
       "game_name": "Warhammer 40,000: Space Hulk",
       "file": "missing/W/74199-warhammer-40-000-space-hulk.json"
@@ -1334990,11 +1334925,6 @@
       "igdb_id": 397923,
       "game_name": "Wobble Wobble",
       "file": "missing/W/397923-wobble-wobble.json"
-    },
-    {
-      "igdb_id": 142672,
-      "game_name": "Wobbledogs",
-      "file": "missing/W/142672-wobbledogs.json"
     },
     {
       "igdb_id": 69882,
