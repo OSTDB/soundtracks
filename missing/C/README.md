@@ -1968,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Colony | 383343 | [383343-card-colony.json](./383343-card-colony.json) |
 | Card Conquest | 378427 | [378427-card-conquest.json](./378427-card-conquest.json) |
 | Card Corner | 390558 | [390558-card-corner.json](./390558-card-corner.json) |
+| Card Crafter Genesis | 268310 | [268310-card-crafter-genesis.json](./268310-card-crafter-genesis.json) |
 | Card Crawl | 56112 | [56112-card-crawl.json](./56112-card-crawl.json) |
 | Card Crawl 2 | 404815 | [404815-card-crawl-2.json](./404815-card-crawl-2.json) |
 | Card Crunch | 105954 | [105954-card-crunch.json](./105954-card-crunch.json) |
@@ -2276,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caribbean Crashers | 297326 | [297326-caribbean-crashers.json](./297326-caribbean-crashers.json) |
 | Caribbean Disaster | 74056 | [74056-caribbean-disaster.json](./74056-caribbean-disaster.json) |
 | Caribbean Jigsaw | 102892 | [102892-caribbean-jigsaw.json](./102892-caribbean-jigsaw.json) |
+| Caribbean Legend | 268309 | [268309-caribbean-legend.json](./268309-caribbean-legend.json) |
 | Caribbean Legend: Age of Pirates | 377894 | [377894-caribbean-legend-age-of-pirates.json](./377894-caribbean-legend-age-of-pirates.json) |
 | Caribbean Legend: Vile Little God | 337043 | [337043-caribbean-legend-vile-little-god.json](./337043-caribbean-legend-vile-little-god.json) |
 | Caribbean Odyssey | 34132 | [34132-caribbean-odyssey.json](./34132-caribbean-odyssey.json) |
@@ -3525,7 +3527,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Cosmic Atlas | 258012 | [258012-cats-cosmic-atlas.json](./258012-cats-cosmic-atlas.json) |
 | Cat's Cosmic Atlas: Definitive Edition | 288286 | [288286-cats-cosmic-atlas-definitive-edition.json](./288286-cats-cosmic-atlas-definitive-edition.json) |
 | Cat's Cosmic Atlas: Deluxe Edition | 270798 | [270798-cats-cosmic-atlas-deluxe-edition.json](./270798-cats-cosmic-atlas-deluxe-edition.json) |
+| Cat's Cosmic Atlas: Northern Sky Map | 268584 | [268584-cats-cosmic-atlas-northern-sky-map.json](./268584-cats-cosmic-atlas-northern-sky-map.json) |
 | Cat's Cosmic Atlas: Premium Edition | 286212 | [286212-cats-cosmic-atlas-premium-edition.json](./286212-cats-cosmic-atlas-premium-edition.json) |
+| Cat's Cosmic Atlas: Solar System Map | 268579 | [268579-cats-cosmic-atlas-solar-system-map.json](./268579-cats-cosmic-atlas-solar-system-map.json) |
+| Cat's Cosmic Atlas: Southern Sky Map | 268580 | [268580-cats-cosmic-atlas-southern-sky-map.json](./268580-cats-cosmic-atlas-southern-sky-map.json) |
 | Cat's Cosmic Atlas: Ultimate Edition | 278649 | [278649-cats-cosmic-atlas-ultimate-edition.json](./278649-cats-cosmic-atlas-ultimate-edition.json) |
 | Cat's Cradle | 151471 | [151471-cats-cradle.json](./151471-cats-cradle.json) |
 | Cat's Dream | 325900 | [325900-cats-dream.json](./325900-cats-dream.json) |
@@ -4499,6 +4504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cement Factory | 367832 | [367832-cement-factory.json](./367832-cement-factory.json) |
 | Cement Truck | 105921 | [105921-cement-truck.json](./105921-cement-truck.json) |
 | Cemetary | 276401 | [276401-cemetary.json](./276401-cemetary.json) |
+| Cemetery Defence | 268308 | [268308-cemetery-defence.json](./268308-cemetery-defence.json) |
 | Cemetery Mary | 177883 | [177883-cemetery-mary.json](./177883-cemetery-mary.json) |
 | Cemetery of Bob | 293510 | [293510-cemetery-of-bob.json](./293510-cemetery-of-bob.json) |
 | Cemetery War | 163772 | [163772-cemetery-war.json](./163772-cemetery-war.json) |
@@ -4744,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalet | 350943 | [350943-chalet.json](./350943-chalet.json) |
 | Chalga Killer | 327691 | [327691-chalga-killer.json](./327691-chalga-killer.json) |
 | Chalice | 151274 | [151274-chalice.json](./151274-chalice.json) |
+| Chalice of Souls: Grahan | 268307 | [268307-chalice-of-souls-grahan.json](./268307-chalice-of-souls-grahan.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Chalk | 8625 | [8625-chalk.json](./8625-chalk.json) |
 | Chalk Gardens | 119437 | [119437-chalk-gardens.json](./119437-chalk-gardens.json) |
@@ -10227,6 +10234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Road! | 90364 | [90364-color-road.json](./90364-color-road.json) |
 | Color Roll 3D | 215242 | [215242-color-roll-3d.json](./215242-color-roll-3d.json) |
 | Color Security | 151453 | [151453-color-security.json](./151453-color-security.json) |
+| Color Sense Challenge | 268593 | [268593-color-sense-challenge.json](./268593-color-sense-challenge.json) |
 | Color Shape | 109528 | [109528-color-shape.json](./109528-color-shape.json) |
 | Color Sheep | 63683 | [63683-color-sheep.json](./63683-color-sheep.json) |
 | Color Shooter | 290094 | [290094-color-shooter.json](./290094-color-shooter.json) |
