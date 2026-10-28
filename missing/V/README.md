@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire's Empire | 53924 | [53924-vampires-empire.json](./53924-vampires-empire.json) |
 | Vampire's Fall 2 | 392096 | [392096-vampires-fall-2.json](./392096-vampires-fall-2.json) |
 | Vampire's Fall: Origins | 123580 | [123580-vampires-fall-origins.json](./123580-vampires-fall-origins.json) |
+| Vampire's Kiss | 265263 | [265263-vampires-kiss.json](./265263-vampires-kiss.json) |
 | Vampire's Kiss: Time Paradox | 390260 | [390260-vampires-kiss-time-paradox.json](./390260-vampires-kiss-time-paradox.json) |
 | Vampire's Slave | 149387 | [149387-vampires-slave.json](./149387-vampires-slave.json) |
 | Vampire's Veil | 336466 | [336466-vampires-veil.json](./336466-vampires-veil.json) |
@@ -1811,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigilante 8 | 3332 | [3332-vigilante-8.json](./3332-vigilante-8.json) |
 | Vigilante 8 | 75423 | [75423-vigilante-8.json](./75423-vigilante-8.json) |
 | Vigilante 8: 2nd Offense | 3333 | [3333-vigilante-8-2nd-offense.json](./3333-vigilante-8-2nd-offense.json) |
+| Vigilante Racer | 265262 | [265262-vigilante-racer.json](./265262-vigilante-racer.json) |
 | Vigilante Ranger | 315942 | [315942-vigilante-ranger.json](./315942-vigilante-ranger.json) |
 | Vigilantes | 25597 | [25597-vigilantes.json](./25597-vigilantes.json) |
 | Vigna's Stereo Switch | 296094 | [296094-vignas-stereo-switch.json](./296094-vignas-stereo-switch.json) |
