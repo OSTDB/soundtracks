@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab 03 Yrinth | 75433 | [75433-lab-03-yrinth.json](./75433-lab-03-yrinth.json) |
 | Lab 7: Cold Nights | 126895 | [126895-lab-7-cold-nights.json](./126895-lab-7-cold-nights.json) |
 | Lab 77 | 319988 | [319988-lab-77.json](./319988-lab-77.json) |
+| Lab 83 | 277985 | [277985-lab-83.json](./277985-lab-83.json) |
 | Lab Boom | 290087 | [290087-lab-boom.json](./290087-lab-boom.json) |
 | Lab BreakOut | 158533 | [158533-lab-breakout.json](./158533-lab-breakout.json) |
 | Lab Cat | 298782 | [298782-lab-cat.json](./298782-lab-cat.json) |
@@ -766,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lantern of Worlds - The Story of Layla | 116290 | [116290-lantern-of-worlds-the-story-of-layla.json](./116290-lantern-of-worlds-the-story-of-layla.json) |
 | Lantern of Worlds: Layla's Quest | 368275 | [368275-lantern-of-worlds-laylas-quest.json](./368275-lantern-of-worlds-laylas-quest.json) |
 | Lantern Push | 391838 | [391838-lantern-push.json](./391838-lantern-push.json) |
+| Lanternia | 277987 | [277987-lanternia.json](./277987-lanternia.json) |
 | Lanternium | 51447 | [51447-lanternium.json](./51447-lanternium.json) |
 | Lanterns | 89967 | [89967-lanterns.json](./89967-lanterns.json) |
 | Lanterns: The Harvest Festival | 45248 | [45248-lanterns-the-harvest-festival.json](./45248-lanterns-the-harvest-festival.json) |
@@ -4843,6 +4845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa the Joyful: Growing Pains | 208301 | [208301-lisa-the-joyful-growing-pains.json](./208301-lisa-the-joyful-growing-pains.json) |
 | Lisa the Vegaful | 172483 | [172483-lisa-the-vegaful.json](./172483-lisa-the-vegaful.json) |
 | Lisa to Issho ni Tairiku Oudan: A-Ressha de Ikou | 56555 | [56555-lisa-to-issho-ni-tairiku-oudan-a-ressha-de-ikou.json](./56555-lisa-to-issho-ni-tairiku-oudan-a-ressha-de-ikou.json) |
+| Lisa Total Investigation! | 277994 | [277994-lisa-total-investigation.json](./277994-lisa-total-investigation.json) |
 | Lisa: Is Fearless | 172490 | [172490-lisa-is-fearless.json](./172490-lisa-is-fearless.json) |
 | Lisa: Paradise | 370093 | [370093-lisa-paradise.json](./370093-lisa-paradise.json) |
 | Lisa: The Bashful | 172484 | [172484-lisa-the-bashful.json](./172484-lisa-the-bashful.json) |
