@@ -2265,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Crush Zero | 405141 | [405141-cargo-crush-zero.json](./405141-cargo-crush-zero.json) |
 | Cargo Cult | 111539 | [111539-cargo-cult.json](./111539-cargo-cult.json) |
 | Cargo Cult: Shoot'n'Loot VR | 30258 | [30258-cargo-cult-shootnloot-vr.json](./30258-cargo-cult-shootnloot-vr.json) |
+| Cargo Delivery | 249954 | [249954-cargo-delivery.json](./249954-cargo-delivery.json) |
 | Cargo Delivery Simulator | 332953 | [332953-cargo-delivery-simulator.json](./332953-cargo-delivery-simulator.json) |
 | Cargo Duty | 284809 | [284809-cargo-duty.json](./284809-cargo-duty.json) |
 | Cargo Hunters | 313453 | [313453-cargo-hunters.json](./313453-cargo-hunters.json) |
@@ -3752,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catching Spirits | 236769 | [236769-catching-spirits.json](./236769-catching-spirits.json) |
 | Catching the Train | 146005 | [146005-catching-the-train.json](./146005-catching-the-train.json) |
 | CatchKing | 215227 | [215227-catchking.json](./215227-catchking.json) |
+| Catchup | 250153 | [250153-catchup.json](./250153-catchup.json) |
 | CatchWord | 71420 | [71420-catchword.json](./71420-catchword.json) |
 | Catchy Cheese | 240105 | [240105-catchy-cheese.json](./240105-catchy-cheese.json) |
 | Catchy Crystals | 19386 | [19386-catchy-crystals.json](./19386-catchy-crystals.json) |
@@ -4461,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell Defender | 343599 | [343599-cell-defender.json](./343599-cell-defender.json) |
 | Cell HD: emergence | 36137 | [36137-cell-hd-emergence.json](./36137-cell-hd-emergence.json) |
 | Cell Machine | 154821 | [154821-cell-machine.json](./154821-cell-machine.json) |
+| Cell Machine Indev | 250543 | [250543-cell-machine-indev.json](./250543-cell-machine-indev.json) |
 | Cell of Empireo | 175966 | [175966-cell-of-empireo.json](./175966-cell-of-empireo.json) |
 | Cell of Empireo: Isoi Sanemitsu no Records | 243655 | [243655-cell-of-empireo-isoi-sanemitsu-no-records.json](./243655-cell-of-empireo-isoi-sanemitsu-no-records.json) |
 | Cell of Empireo: RTC - Interlude | 301419 | [301419-cell-of-empireo-rtc-interlude.json](./301419-cell-of-empireo-rtc-interlude.json) |
@@ -7279,6 +7282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronoraptor | 117459 | [117459-chronoraptor.json](./117459-chronoraptor.json) |
 | Chronos | 13492 | [13492-chronos.json](./13492-chronos.json) |
 | Chronos | 18974 | [18974-chronos.json](./18974-chronos.json) |
+| Chronos Affinity | 250751 | [250751-chronos-affinity.json](./250751-chronos-affinity.json) |
 | Chronos Gate | 56313 | [56313-chronos-gate.json](./56313-chronos-gate.json) |
 | Chronos Materia | 63261 | [63261-chronos-materia.json](./63261-chronos-materia.json) |
 | Chronos Shift | 350528 | [350528-chronos-shift.json](./350528-chronos-shift.json) |
@@ -7628,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Breaker | 364570 | [364570-circuit-breaker.json](./364570-circuit-breaker.json) |
 | Circuit Breakers | 135771 | [135771-circuit-breakers.json](./135771-circuit-breakers.json) |
 | Circuit Breakers | 34753 | [34753-circuit-breakers.json](./34753-circuit-breakers.json) |
+| Circuit Breakout: Dual Polarity | 250544 | [250544-circuit-breakout-dual-polarity.json](./250544-circuit-breakout-dual-polarity.json) |
 | Circuit City | 188676 | [188676-circuit-city.json](./188676-circuit-city.json) |
 | Circuit Defender | 211197 | [211197-circuit-defender.json](./211197-circuit-defender.json) |
 | Circuit Defender | 380074 | [380074-circuit-defender.json](./380074-circuit-defender.json) |
@@ -8961,6 +8966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clodhoppers | 117586 | [117586-clodhoppers.json](./117586-clodhoppers.json) |
 | Clogwork | 416944 | [416944-clogwork.json](./416944-clogwork.json) |
 | Cloisterfuck | 271296 | [271296-cloisterfuck.json](./271296-cloisterfuck.json) |
+| Clomper | 249826 | [249826-clomper.json](./249826-clomper.json) |
 | Clone | 217844 | [217844-clone.json](./217844-clone.json) |
 | Clone | 336972 | [336972-clone.json](./336972-clone.json) |
 | Clone | 64959 | [64959-clone.json](./64959-clone.json) |
@@ -9349,6 +9355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutter IX: Clutter IXtreme | 163798 | [163798-clutter-ix-clutter-ixtreme.json](./163798-clutter-ix-clutter-ixtreme.json) |
 | Clutter Puzzle Magazine Vol. 15 No. 1: Collector's Edition | 281999 | [281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json](./281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json) |
 | Clutter Puzzle Magazine: Vol. 16 No. 2 - Collector's Edition | 298695 | [298695-clutter-puzzle-magazine-vol-16-no-2-collectors-edition.json](./298695-clutter-puzzle-magazine-vol-16-no-2-collectors-edition.json) |
+| Clutter RefleXIVe: The Diceman Cometh - Collector's Edition | 250755 | [250755-clutter-reflexive-the-diceman-cometh-collectors-edition.json](./250755-clutter-reflexive-the-diceman-cometh-collectors-edition.json) |
 | Clutter VI: Leigh's Story | 74483 | [74483-clutter-vi-leighs-story.json](./74483-clutter-vi-leighs-story.json) |
 | Clutter's Greatest Hits: Collector's Edition | 219739 | [219739-clutters-greatest-hits-collectors-edition.json](./219739-clutters-greatest-hits-collectors-edition.json) |
 | Clyde's Revenge | 72142 | [72142-clydes-revenge.json](./72142-clydes-revenge.json) |
@@ -13009,6 +13016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Flight | 346052 | [346052-cosmo-flight.json](./346052-cosmo-flight.json) |
 | Cosmo Gang the Puzzle | 18382 | [18382-cosmo-gang-the-puzzle.json](./18382-cosmo-gang-the-puzzle.json) |
 | Cosmo Gang the Video | 39644 | [39644-cosmo-gang-the-video.json](./39644-cosmo-gang-the-video.json) |
+| Cosmo Knight Zion | 251147 | [251147-cosmo-knight-zion.json](./251147-cosmo-knight-zion.json) |
 | Cosmo Magnat | 337058 | [337058-cosmo-magnat.json](./337058-cosmo-magnat.json) |
 | Cosmo Mambo No. 5 | 304077 | [304077-cosmo-mambo-no-5.json](./304077-cosmo-mambo-no-5.json) |
 | Cosmo Nash: Culinary Courier | 290990 | [290990-cosmo-nash-culinary-courier.json](./290990-cosmo-nash-culinary-courier.json) |
@@ -14484,6 +14492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Teacher of Math in School Education Learning | 303259 | [303259-crazy-teacher-of-math-in-school-education-learning.json](./303259-crazy-teacher-of-math-in-school-education-learning.json) |
 | Crazy Test! | 98880 | [98880-crazy-test.json](./98880-crazy-test.json) |
 | Crazy Tetris | 94934 | [94934-crazy-tetris.json](./94934-crazy-tetris.json) |
+| Crazy The Clown's Balloon Animal Massacre | 249948 | [249948-crazy-the-clowns-balloon-animal-massacre.json](./249948-crazy-the-clowns-balloon-animal-massacre.json) |
 | Crazy the Hedgehog | 129182 | [129182-crazy-the-hedgehog.json](./129182-crazy-the-hedgehog.json) |
 | Crazy Toad | 379703 | [379703-crazy-toad.json](./379703-crazy-toad.json) |
 | Crazy Toad | 68754 | [68754-crazy-toad.json](./68754-crazy-toad.json) |
@@ -14529,6 +14538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cream and Cheese in Sonic the Hedgehog | 201287 | [201287-cream-and-cheese-in-sonic-the-hedgehog.json](./201287-cream-and-cheese-in-sonic-the-hedgehog.json) |
 | Cream Lemon: Star Trap | 270728 | [270728-cream-lemon-star-trap.json](./270728-cream-lemon-star-trap.json) |
 | Cream Me | 158397 | [158397-cream-me.json](./158397-cream-me.json) |
+| Cream Soda Club | 249940 | [249940-cream-soda-club.json](./249940-cream-soda-club.json) |
 | Cream War | 239746 | [239746-cream-war.json](./239746-cream-war.json) |
 | Creamare: The Game | 339338 | [339338-creamare-the-game.json](./339338-creamare-the-game.json) |
 | Creamy Dream Restaurant | 87242 | [87242-creamy-dream-restaurant.json](./87242-creamy-dream-restaurant.json) |
@@ -16677,6 +16687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Cat | 269274 | [269274-cult-of-the-cat.json](./269274-cult-of-the-cat.json) |
 | Cult of the Dragon | 374987 | [374987-cult-of-the-dragon.json](./374987-cult-of-the-dragon.json) |
 | Cult of the Lamb: Arcade Edition | 380184 | [380184-cult-of-the-lamb-arcade-edition.json](./380184-cult-of-the-lamb-arcade-edition.json) |
+| Cult of the Lamb: Cultist and Heretic Pack Bundle | 249585 | [249585-cult-of-the-lamb-cultist-and-heretic-pack-bundle.json](./249585-cult-of-the-lamb-cultist-and-heretic-pack-bundle.json) |
 | Cult of the Lamb: Cultist Edition | 204780 | [204780-cult-of-the-lamb-cultist-edition.json](./204780-cult-of-the-lamb-cultist-edition.json) |
 | Cult of the Lamb: Cultist Pack | 223540 | [223540-cult-of-the-lamb-cultist-pack.json](./223540-cult-of-the-lamb-cultist-pack.json) |
 | Cult of the Lamb: Cultist, Heretic, and Sinful Pack Bundle | 284947 | [284947-cult-of-the-lamb-cultist-heretic-and-sinful-pack-bundle.json](./284947-cult-of-the-lamb-cultist-heretic-and-sinful-pack-bundle.json) |
@@ -16781,6 +16792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuphead Wii U | 357448 | [357448-cuphead-wii-u.json](./357448-cuphead-wii-u.json) |
 | Cuphead: Collector's Edition | 224179 | [224179-cuphead-collectors-edition.json](./224179-cuphead-collectors-edition.json) |
 | Cuphead: Game and Watch Edition | 184311 | [184311-cuphead-game-and-watch-edition.json](./184311-cuphead-game-and-watch-edition.json) |
+| Cuphead: Limited Edition | 249963 | [249963-cuphead-limited-edition.json](./249963-cuphead-limited-edition.json) |
 | Cupiclaw | 302430 | [302430-cupiclaw.json](./302430-cupiclaw.json) |
 | Cupid | 253362 | [253362-cupid.json](./253362-cupid.json) |
 | Cupid Bistro!! | 72659 | [72659-cupid-bistro.json](./72659-cupid-bistro.json) |
@@ -17275,6 +17287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Hoop Master | 212446 | [212446-cute-hoop-master.json](./212446-cute-hoop-master.json) |
 | Cute Ice! | 277958 | [277958-cute-ice.json](./277958-cute-ice.json) |
 | Cute Kaizo World | 208401 | [208401-cute-kaizo-world.json](./208401-cute-kaizo-world.json) |
+| Cute Kitty | 251127 | [251127-cute-kitty.json](./251127-cute-kitty.json) |
 | Cute Knight | 72589 | [72589-cute-knight.json](./72589-cute-knight.json) |
 | Cute Knight Kingdom | 60944 | [60944-cute-knight-kingdom.json](./60944-cute-knight-kingdom.json) |
 | Cute Mold | 374161 | [374161-cute-mold.json](./374161-cute-mold.json) |
