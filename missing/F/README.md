@@ -9063,6 +9063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forwards | 270042 | [270042-forwards.json](./270042-forwards.json) |
 | Forwards Compatible | 271742 | [271742-forwards-compatible.json](./271742-forwards-compatible.json) |
 | Foryster | 312225 | [312225-foryster.json](./312225-foryster.json) |
+| Forza Customs | 276889 | [276889-forza-customs.json](./276889-forza-customs.json) |
 | Forza Horizon | 3047 | [3047-forza-horizon.json](./3047-forza-horizon.json) |
 | Forza Horizon - December IGN Car Pack | 132825 | [132825-forza-horizon-december-ign-car-pack.json](./132825-forza-horizon-december-ign-car-pack.json) |
 | Forza Horizon 2 | 7326 | [7326-forza-horizon-2.json](./7326-forza-horizon-2.json) |
