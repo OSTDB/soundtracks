@@ -3708,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Per Aspera: Deluxe Edition | 154545 | [154545-per-aspera-deluxe-edition.json](./154545-per-aspera-deluxe-edition.json) |
 | Per Aspera: Green Mars | 196114 | [196114-per-aspera-green-mars.json](./196114-per-aspera-green-mars.json) |
 | Per Aspera: Home | 232963 | [232963-per-aspera-home.json](./232963-per-aspera-home.json) |
+| Peraglees: The Ooloufian Resistance | 249245 | [249245-peraglees-the-ooloufian-resistance.json](./249245-peraglees-the-ooloufian-resistance.json) |
 | Perash | 358442 | [358442-perash.json](./358442-perash.json) |
 | Perceptio | 195167 | [195167-perceptio.json](./195167-perceptio.json) |
 | Perception | 11070 | [11070-perception.json](./11070-perception.json) |
