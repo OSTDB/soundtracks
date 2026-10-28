@@ -1641,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Heuliez Bus Pack - GX x37: Diesel Edition | 237624 | [237624-omsi-2-heuliez-bus-pack-gx-x37-diesel-edition.json](./237624-omsi-2-heuliez-bus-pack-gx-x37-diesel-edition.json) |
 | OMSI 2: Heuliez Bus-Pack Access Bus GX327 | 155162 | [155162-omsi-2-heuliez-bus-pack-access-bus-gx327.json](./155162-omsi-2-heuliez-bus-pack-access-bus-gx327.json) |
 | OMSI 2: Heuliez Bus-Pack Generation X17 | 226123 | [226123-omsi-2-heuliez-bus-pack-generation-x17.json](./226123-omsi-2-heuliez-bus-pack-generation-x17.json) |
+| OMSI 2: Hohenkirchen | 267491 | [267491-omsi-2-hohenkirchen.json](./267491-omsi-2-hohenkirchen.json) |
 | OMSI 2: Irisbus Familie - Citybus Pack | 227196 | [227196-omsi-2-irisbus-familie-citybus-pack.json](./227196-omsi-2-irisbus-familie-citybus-pack.json) |
 | OMSI 2: Irisbus Familie - Low-Entry-Busse | 193181 | [193181-omsi-2-irisbus-familie-low-entry-busse.json](./193181-omsi-2-irisbus-familie-low-entry-busse.json) |
 | OMSI 2: Irisbus Intercity Pack | 155117 | [155117-omsi-2-irisbus-intercity-pack.json](./155117-omsi-2-irisbus-intercity-pack.json) |
@@ -4807,6 +4808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverDrift Festival: Damage Cars Pack | 286142 | [286142-overdrift-festival-damage-cars-pack.json](./286142-overdrift-festival-damage-cars-pack.json) |
 | OverDrift Festival: Exclusive Cars Pack #2 | 293403 | [293403-overdrift-festival-exclusive-cars-pack-2.json](./293403-overdrift-festival-exclusive-cars-pack-2.json) |
 | OverDrift Festival: Exclusive Cars Pack#1 | 292672 | [292672-overdrift-festival-exclusive-cars-pack-1.json](./292672-overdrift-festival-exclusive-cars-pack-1.json) |
+| OverDrift Festival: OverPass | 267208 | [267208-overdrift-festival-overpass.json](./267208-overdrift-festival-overpass.json) |
 | OverDrift Festival: Police Cars Pack | 285431 | [285431-overdrift-festival-police-cars-pack.json](./285431-overdrift-festival-police-cars-pack.json) |
 | Overdrive | 12710 | [12710-overdrive.json](./12710-overdrive.json) |
 | Overdrive | 203565 | [203565-overdrive.json](./203565-overdrive.json) |
@@ -4954,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverSoul | 109067 | [109067-oversoul.json](./109067-oversoul.json) |
 | Overstars | 151286 | [151286-overstars.json](./151286-overstars.json) |
 | Overstimulacrum | 415461 | [415461-overstimulacrum.json](./415461-overstimulacrum.json) |
+| Overstorm | 267498 | [267498-overstorm.json](./267498-overstorm.json) |
 | Overstrike Arena | 235650 | [235650-overstrike-arena.json](./235650-overstrike-arena.json) |
 | Overtake | 94193 | [94193-overtake.json](./94193-overtake.json) |
 | OverTheCloud_Global | 117100 | [117100-overthecloud-global.json](./117100-overthecloud-global.json) |
