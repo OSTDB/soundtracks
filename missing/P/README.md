@@ -4429,7 +4429,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour 2K21: Baller Edition | 176792 | [176792-pga-tour-2k21-baller-edition.json](./176792-pga-tour-2k21-baller-edition.json) |
 | PGA Tour 2K21: Deluxe Edition | 136291 | [136291-pga-tour-2k21-deluxe-edition.json](./136291-pga-tour-2k21-deluxe-edition.json) |
 | PGA Tour 2K21: Digital Deluxe Edition | 164831 | [164831-pga-tour-2k21-digital-deluxe-edition.json](./164831-pga-tour-2k21-digital-deluxe-edition.json) |
-| PGA Tour 2K23 | 214135 | [214135-pga-tour-2k23.json](./214135-pga-tour-2k23.json) |
 | PGA Tour 2K23: Deluxe Edition | 214136 | [214136-pga-tour-2k23-deluxe-edition.json](./214136-pga-tour-2k23-deluxe-edition.json) |
 | PGA Tour 2K23: Style & Swing Pack | 307973 | [307973-pga-tour-2k23-style-and-swing-pack.json](./307973-pga-tour-2k23-style-and-swing-pack.json) |
 | PGA Tour 2K23: Tiger Woods Edition | 221421 | [221421-pga-tour-2k23-tiger-woods-edition.json](./221421-pga-tour-2k23-tiger-woods-edition.json) |
