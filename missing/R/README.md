@@ -1042,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Empire | 28086 | [28086-railway-empire.json](./28086-railway-empire.json) |
 | Railway Empire 2 | 215138 | [215138-railway-empire-2.json](./215138-railway-empire-2.json) |
 | Railway Empire 2: Bella Italia | 345429 | [345429-railway-empire-2-bella-italia.json](./345429-railway-empire-2-bella-italia.json) |
+| Railway Empire 2: Deluxe Edition | 248240 | [248240-railway-empire-2-deluxe-edition.json](./248240-railway-empire-2-deluxe-edition.json) |
 | Railway Empire 2: Digital Deluxe Edition | 251012 | [251012-railway-empire-2-digital-deluxe-edition.json](./251012-railway-empire-2-digital-deluxe-edition.json) |
 | Railway Empire 2: India | 317818 | [317818-railway-empire-2-india.json](./317818-railway-empire-2-india.json) |
 | Railway Empire 2: Industrial Wonders | 347487 | [347487-railway-empire-2-industrial-wonders.json](./347487-railway-empire-2-industrial-wonders.json) |
@@ -9963,6 +9964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Prehistoric Paradise | 289538 | [289538-roxy-raccoons-pinball-panic-prehistoric-paradise.json](./289538-roxy-raccoons-pinball-panic-prehistoric-paradise.json) |
 | Roxy Raccoon's Pinball Panic: Retro Revival | 289863 | [289863-roxy-raccoons-pinball-panic-retro-revival.json](./289863-roxy-raccoons-pinball-panic-retro-revival.json) |
 | Roxy Raccoon's Pinball Panic: Roman Renaissance | 354197 | [354197-roxy-raccoons-pinball-panic-roman-renaissance.json](./354197-roxy-raccoons-pinball-panic-roman-renaissance.json) |
+| Roxy Raccoon's Pinball Panic: Space Spectacular | 248229 | [248229-roxy-raccoons-pinball-panic-space-spectacular.json](./248229-roxy-raccoons-pinball-panic-space-spectacular.json) |
 | Roxy Raccoon's Pinball Panic: St. Patrick's Paradise | 241315 | [241315-roxy-raccoons-pinball-panic-st-patricks-paradise.json](./241315-roxy-raccoons-pinball-panic-st-patricks-paradise.json) |
 | Roxy Raccoon's Pinball Panic: Steampunk Stories | 337470 | [337470-roxy-raccoons-pinball-panic-steampunk-stories.json](./337470-roxy-raccoons-pinball-panic-steampunk-stories.json) |
 | Roxy Raccoon's Pinball Panic: Tabletop Terror | 298258 | [298258-roxy-raccoons-pinball-panic-tabletop-terror.json](./298258-roxy-raccoons-pinball-panic-tabletop-terror.json) |
