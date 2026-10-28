@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jake & The Mysterious Cave | 183845 | [183845-jake-and-the-mysterious-cave.json](./183845-jake-and-the-mysterious-cave.json) |
 | Jake and the Never Land Pirates | 137417 | [137417-jake-and-the-never-land-pirates.json](./137417-jake-and-the-never-land-pirates.json) |
 | Jake and the Never Land Pirates | 230381 | [230381-jake-and-the-never-land-pirates.json](./230381-jake-and-the-never-land-pirates.json) |
+| Jake Everest 2: Gunung Padang The Unseen Civilization | 258814 | [258814-jake-everest-2-gunung-padang-the-unseen-civilization.json](./258814-jake-everest-2-gunung-padang-the-unseen-civilization.json) |
 | Jake Everest: Wakanga The Unseen Civilization | 258879 | [258879-jake-everest-wakanga-the-unseen-civilization.json](./258879-jake-everest-wakanga-the-unseen-civilization.json) |
 | Jake Hunter Detective Story: For Love | 347606 | [347606-jake-hunter-detective-story-for-love.json](./347606-jake-hunter-detective-story-for-love.json) |
 | Jake Hunter Detective Story: Forget-me-not | 347607 | [347607-jake-hunter-detective-story-forget-me-not.json](./347607-jake-hunter-detective-story-forget-me-not.json) |
