@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Boy More Cheese | 192642 | [192642-oh-boy-more-cheese.json](./192642-oh-boy-more-cheese.json) |
 | Oh Chute! | 292611 | [292611-oh-chute.json](./292611-oh-chute.json) |
 | Oh Crab! | 129573 | [129573-oh-crab.json](./129573-oh-crab.json) |
+| Oh Darling! I Hate To Tell You This... | 275990 | [275990-oh-darling-i-hate-to-tell-you-this.json](./275990-oh-darling-i-hate-to-tell-you-this.json) |
 | Oh Deer | 285913 | [285913-oh-deer.json](./285913-oh-deer.json) |
 | Oh Frog | 132242 | [132242-oh-frog.json](./132242-oh-frog.json) |
 | Oh High! | 182785 | [182785-oh-high.json](./182785-oh-high.json) |
@@ -1728,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Target VR Darts | 115529 | [115529-on-target-vr-darts.json](./115529-on-target-vr-darts.json) |
 | On Tario | 185520 | [185520-on-tario.json](./185520-on-tario.json) |
 | On the Alert | 117588 | [117588-on-the-alert.json](./117588-on-the-alert.json) |
+| On the Axis | 275993 | [275993-on-the-axis.json](./275993-on-the-axis.json) |
 | On the Brink | 249796 | [249796-on-the-brink.json](./249796-on-the-brink.json) |
 | On the Bubble | 295214 | [295214-on-the-bubble.json](./295214-on-the-bubble.json) |
 | On the Earth Shift | 163241 | [163241-on-the-earth-shift.json](./163241-on-the-earth-shift.json) |
