@@ -1300,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Tide | 106114 | [106114-last-tide.json](./106114-last-tide.json) |
 | Last Toon Standing | 72512 | [72512-last-toon-standing.json](./72512-last-toon-standing.json) |
 | Last Train Home | 131385 | [131385-last-train-home.json](./131385-last-train-home.json) |
+| Last Train Home: Digital Deluxe Edition | 278580 | [278580-last-train-home-digital-deluxe-edition.json](./278580-last-train-home-digital-deluxe-edition.json) |
 | Last Ultima | 269088 | [269088-last-ultima.json](./269088-last-ultima.json) |
 | Last Upload | 419136 | [419136-last-upload.json](./419136-last-upload.json) |
 | Last Vanguard | 199290 | [199290-last-vanguard.json](./199290-last-vanguard.json) |
@@ -1638,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LazerBlazer: Type B - Engage | 271256 | [271256-lazerblazer-type-b-engage.json](./271256-lazerblazer-type-b-engage.json) |
 | LazerBlazer: Type C - Confront | 271257 | [271257-lazerblazer-type-c-confront.json](./271257-lazerblazer-type-c-confront.json) |
 | LazerGrrl | 112202 | [112202-lazergrrl.json](./112202-lazergrrl.json) |
+| Lazers Hurt | 278260 | [278260-lazers-hurt.json](./278260-lazers-hurt.json) |
 | Lazersilk | 172465 | [172465-lazersilk.json](./172465-lazersilk.json) |
 | LazerType VR | 57440 | [57440-lazertype-vr.json](./57440-lazertype-vr.json) |
 | Lazerz | 294282 | [294282-lazerz.json](./294282-lazerz.json) |
