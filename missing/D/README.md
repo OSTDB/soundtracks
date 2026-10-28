@@ -6916,6 +6916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Slayer | 171461 | [171461-devil-slayer.json](./171461-devil-slayer.json) |
 | Devil Slayer: Raksasi | 125075 | [125075-devil-slayer-raksasi.json](./125075-devil-slayer-raksasi.json) |
 | Devil Slayer: Raksasi - Incarnation of Darkness | 242023 | [242023-devil-slayer-raksasi-incarnation-of-darkness.json](./242023-devil-slayer-raksasi-incarnation-of-darkness.json) |
+| Devil Slot Machine | 276875 | [276875-devil-slot-machine.json](./276875-devil-slot-machine.json) |
 | Devil Spire | 187879 | [187879-devil-spire.json](./187879-devil-spire.json) |
 | Devil Spire Falls | 341018 | [341018-devil-spire-falls.json](./341018-devil-spire-falls.json) |
 | Devil Station | 130676 | [130676-devil-station.json](./130676-devil-station.json) |
@@ -11220,6 +11221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom: A Very Graphic Adventure | 320788 | [320788-doom-a-very-graphic-adventure.json](./320788-doom-a-very-graphic-adventure.json) |
 | Doom: Bloodfall | 26558 | [26558-doom-bloodfall.json](./26558-doom-bloodfall.json) |
 | DOOM: Collector's Edition | 41614 | [41614-doom-collectors-edition.json](./41614-doom-collectors-edition.json) |
+| Doom: Damnation | 276881 | [276881-doom-damnation.json](./276881-doom-damnation.json) |
 | DOOM: Day One Edition | 136168 | [136168-doom-day-one-edition.json](./136168-doom-day-one-edition.json) |
 | DOOM: Enhanced Vanilla Project | 199416 | [199416-doom-enhanced-vanilla-project.json](./199416-doom-enhanced-vanilla-project.json) |
 | Doom: Eternal - Collector's Edition | 119312 | [119312-doom-eternal-collectors-edition.json](./119312-doom-eternal-collectors-edition.json) |
@@ -16211,6 +16213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustwind: The Last Resort | 171988 | [171988-dustwind-the-last-resort.json](./171988-dustwind-the-last-resort.json) |
 | Dustwun | 83561 | [83561-dustwun.json](./83561-dustwun.json) |
 | Dusty Crib | 272996 | [272996-dusty-crib.json](./272996-dusty-crib.json) |
+| Dusty Derby | 276874 | [276874-dusty-derby.json](./276874-dusty-derby.json) |
 | Dusty Raging Fist | 63798 | [63798-dusty-raging-fist.json](./63798-dusty-raging-fist.json) |
 | Dusty Revenge: Co-Op Edition | 30233 | [30233-dusty-revenge-co-op-edition.json](./30233-dusty-revenge-co-op-edition.json) |
 | Dusty's Challenge | 359392 | [359392-dustys-challenge.json](./359392-dustys-challenge.json) |
