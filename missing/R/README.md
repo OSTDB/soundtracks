@@ -3376,6 +3376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Hot Robot Ultrarena | 184814 | [184814-red-hot-robot-ultrarena.json](./184814-red-hot-robot-ultrarena.json) |
 | Red Hot Vengeance | 118048 | [118048-red-hot-vengeance.json](./118048-red-hot-vengeance.json) |
 | Red Howl | 394487 | [394487-red-howl.json](./394487-red-howl.json) |
+| Red Impact | 274302 | [274302-red-impact.json](./274302-red-impact.json) |
 | Red Imposter | 349926 | [349926-red-imposter.json](./349926-red-imposter.json) |
 | Red Island | 120393 | [120393-red-island.json](./120393-red-island.json) |
 | Red Johnson's Chronicles: 1+2 - Steam Special Edition | 90489 | [90489-red-johnsons-chronicles-1-2-steam-special-edition.json](./90489-red-johnsons-chronicles-1-2-steam-special-edition.json) |
@@ -5727,6 +5728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolutionary Quest | 292594 | [292594-revolutionary-quest.json](./292594-revolutionary-quest.json) |
 | Revolve | 26722 | [26722-revolve.json](./26722-revolve.json) |
 | Revolve | 377200 | [377200-revolve.json](./377200-revolve.json) |
+| Revolve A | 274595 | [274595-revolve-a.json](./274595-revolve-a.json) |
 | Revolve8 | 113553 | [113553-revolve8.json](./113553-revolve8.json) |
 | Revolve8: Episodic Dueling | 110868 | [110868-revolve8-episodic-dueling.json](./110868-revolve8-episodic-dueling.json) |
 | Revolver | 336748 | [336748-revolver.json](./336748-revolver.json) |
@@ -7282,6 +7284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Spirits | 41998 | [41998-road-spirits.json](./41998-road-spirits.json) |
 | Road Star | 359383 | [359383-road-star.json](./359383-road-star.json) |
 | Road Star | 359384 | [359384-road-star.json](./359384-road-star.json) |
+| Road Stomp | 274590 | [274590-road-stomp.json](./274590-road-stomp.json) |
 | Road Stones | 223409 | [223409-road-stones.json](./223409-road-stones.json) |
 | Road Story | 241819 | [241819-road-story.json](./241819-road-story.json) |
 | Road Thrills | 74012 | [74012-road-thrills.json](./74012-road-thrills.json) |
