@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint By Numbers: Cooking Time! Ep. 6 | 241793 | [241793-paint-by-numbers-cooking-time-ep-6.json](./241793-paint-by-numbers-cooking-time-ep-6.json) |
 | Paint By Numbers: Cooking Time! Ep. 7 | 241792 | [241792-paint-by-numbers-cooking-time-ep-7.json](./241792-paint-by-numbers-cooking-time-ep-7.json) |
 | Paint by Pixel 2 | 249203 | [249203-paint-by-pixel-2.json](./249203-paint-by-pixel-2.json) |
+| Paint by Pixel 3 | 257485 | [257485-paint-by-pixel-3.json](./257485-paint-by-pixel-3.json) |
 | Paint by Words | 374600 | [374600-paint-by-words.json](./374600-paint-by-words.json) |
 | Paint Car Derby | 180028 | [180028-paint-car-derby.json](./180028-paint-car-derby.json) |
 | Paint Chase | 317578 | [317578-paint-chase.json](./317578-paint-chase.json) |
@@ -623,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint it Doom | 308070 | [308070-paint-it-doom.json](./308070-paint-it-doom.json) |
 | Paint It: Christmas Edition | 278651 | [278651-paint-it-christmas-edition.json](./278651-paint-it-christmas-edition.json) |
 | Paint It: Christmas Pack | 278654 | [278654-paint-it-christmas-pack.json](./278654-paint-it-christmas-pack.json) |
+| Paint Match | 257190 | [257190-paint-match.json](./257190-paint-match.json) |
 | Paint Monsters | 266057 | [266057-paint-monsters.json](./266057-paint-monsters.json) |
 | Paint My Cat - Color and Play | 96045 | [96045-paint-my-cat-color-and-play.json](./96045-paint-my-cat-color-and-play.json) |
 | Paint My World | 134497 | [134497-paint-my-world.json](./134497-paint-my-world.json) |
@@ -10113,6 +10115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokExp | 144250 | [144250-pokexp.json](./144250-pokexp.json) |
 | Pokey Ball | 325665 | [325665-pokey-ball.json](./325665-pokey-ball.json) |
 | Pokey Dokey Paradise | 122051 | [122051-pokey-dokey-paradise.json](./122051-pokey-dokey-paradise.json) |
+| Pokhozhdeniya bravogo soldata Shveyka | 257512 | [257512-pokhozhdeniya-bravogo-soldata-shveyka.json](./257512-pokhozhdeniya-bravogo-soldata-shveyka.json) |
 | Pokie the Stickfigure | 156525 | [156525-pokie-the-stickfigure.json](./156525-pokie-the-stickfigure.json) |
 | Pokini Kagura | 284896 | [284896-pokini-kagura.json](./284896-pokini-kagura.json) |
 | Pokipet | 250436 | [250436-pokipet.json](./250436-pokipet.json) |
