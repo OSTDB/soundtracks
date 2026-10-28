@@ -4824,7 +4824,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Dr. Franken | 48617 | [48617-the-adventures-of-dr-franken.json](./48617-the-adventures-of-dr-franken.json) |
 | The Adventures of Eggbert | 146814 | [146814-the-adventures-of-eggbert.json](./146814-the-adventures-of-eggbert.json) |
 | The Adventures of El Ballo | 146189 | [146189-the-adventures-of-el-ballo.json](./146189-the-adventures-of-el-ballo.json) |
-| The Adventures of Elliot: The Millennium Tales | 358534 | [358534-the-adventures-of-elliot-the-millennium-tales.json](./358534-the-adventures-of-elliot-the-millennium-tales.json) |
 | The Adventures of Elliot: The Millennium Tales - Digital Deluxe Edition | 395685 | [395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json](./395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json) |
 | The Adventures of Elmo in Grouchland | 69682 | [69682-the-adventures-of-elmo-in-grouchland.json](./69682-the-adventures-of-elmo-in-grouchland.json) |
 | The Adventures of Emilie in Paris | 380639 | [380639-the-adventures-of-emilie-in-paris.json](./380639-the-adventures-of-emilie-in-paris.json) |
@@ -9807,7 +9806,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Party Trilogy | 82410 | [82410-the-jackbox-party-trilogy.json](./82410-the-jackbox-party-trilogy.json) |
 | The Jackbox Party Trilogy 2.0 | 135601 | [135601-the-jackbox-party-trilogy-2-0.json](./135601-the-jackbox-party-trilogy-2-0.json) |
 | The Jackbox Party Trilogy 3.0 | 251098 | [251098-the-jackbox-party-trilogy-3-0.json](./251098-the-jackbox-party-trilogy-3-0.json) |
-| The Jackbox Survey Scramble | 318207 | [318207-the-jackbox-survey-scramble.json](./318207-the-jackbox-survey-scramble.json) |
 | The Jade Stone | 67698 | [67698-the-jade-stone.json](./67698-the-jade-stone.json) |
 | The Jak and Daxter Bundle | 76868 | [76868-the-jak-and-daxter-bundle.json](./76868-the-jak-and-daxter-bundle.json) |
 | The Janitor | 32006 | [32006-the-janitor.json](./32006-the-janitor.json) |
@@ -26005,7 +26003,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trauma | 301607 | [301607-trauma.json](./301607-trauma.json) |
 | Trauma | 55014 | [55014-trauma.json](./55014-trauma.json) |
 | Trauma | 86012 | [86012-trauma.json](./86012-trauma.json) |
-| Trauma Center: New Blood | 1525 | [1525-trauma-center-new-blood.json](./1525-trauma-center-new-blood.json) |
 | Trauma Pets | 409415 | [409415-trauma-pets.json](./409415-trauma-pets.json) |
 | Trauma Playground | 422143 | [422143-trauma-playground.json](./422143-trauma-playground.json) |
 | Trauma Record | 347577 | [347577-trauma-record.json](./347577-trauma-record.json) |
