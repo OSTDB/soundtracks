@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Chaos Online II: Revolution | 119634 | [119634-land-of-chaos-online-ii-revolution.json](./119634-land-of-chaos-online-ii-revolution.json) |
 | Land of Chark | 141243 | [141243-land-of-chark.json](./141243-land-of-chark.json) |
 | Land Of Chasers | 278409 | [278409-land-of-chasers.json](./278409-land-of-chasers.json) |
+| Land of Crystals | 266600 | [266600-land-of-crystals.json](./266600-land-of-crystals.json) |
 | Land of Eno | 193775 | [193775-land-of-eno.json](./193775-land-of-eno.json) |
 | Land of Foot | 192657 | [192657-land-of-foot.json](./192657-land-of-foot.json) |
 | Land of Futures | 294144 | [294144-land-of-futures.json](./294144-land-of-futures.json) |
@@ -8419,6 +8420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Chrysalis | 406077 | [406077-lunar-chrysalis.json](./406077-lunar-chrysalis.json) |
 | Lunar City Builder | 296963 | [296963-lunar-city-builder.json](./296963-lunar-city-builder.json) |
 | Lunar Command | 73499 | [73499-lunar-command.json](./73499-lunar-command.json) |
+| Lunar Depot 38 | 266934 | [266934-lunar-depot-38.json](./266934-lunar-depot-38.json) |
 | Lunar Descent | 333360 | [333360-lunar-descent.json](./333360-lunar-descent.json) |
 | Lunar Drifter | 333701 | [333701-lunar-drifter.json](./333701-lunar-drifter.json) |
 | Lunar Echoes | 332875 | [332875-lunar-echoes.json](./332875-lunar-echoes.json) |
