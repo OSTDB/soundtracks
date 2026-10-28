@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walthros: Renewal | 155962 | [155962-walthros-renewal.json](./155962-walthros-renewal.json) |
 | Walto | 391237 | [391237-walto.json](./391237-walto.json) |
 | Waltz and Jam | 288479 | [288479-waltz-and-jam.json](./288479-waltz-and-jam.json) |
+| Waluigi's Road to Glory: Horlogic Will Go On | 260819 | [260819-waluigis-road-to-glory-horlogic-will-go-on.json](./260819-waluigis-road-to-glory-horlogic-will-go-on.json) |
 | Waluigi's Taco Stand | 135227 | [135227-waluigis-taco-stand.json](./135227-waluigis-taco-stand.json) |
 | Waluigi's Wadventure | 269772 | [269772-waluigis-wadventure.json](./269772-waluigis-wadventure.json) |
 | Wampee Helicopters | 117714 | [117714-wampee-helicopters.json](./117714-wampee-helicopters.json) |
@@ -3350,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What You Take With You | 362233 | [362233-what-you-take-with-you.json](./362233-what-you-take-with-you.json) |
 | What-ever Happened to Ruth MacArthur? | 178901 | [178901-what-ever-happened-to-ruth-macarthur.json](./178901-what-ever-happened-to-ruth-macarthur.json) |
 | What, the fox | 382456 | [382456-what-the-fox.json](./382456-what-the-fox.json) |
+| What?! | 260515 | [260515-what.json](./260515-what.json) |
 | What's a King to a God | 325899 | [325899-whats-a-king-to-a-god.json](./325899-whats-a-king-to-a-god.json) |
 | What's A Star? | 178563 | [178563-whats-a-star.json](./178563-whats-a-star.json) |
 | What’s Behind the Door? | 419105 | [419105-what-s-behind-the-door.json](./419105-what-s-behind-the-door.json) |
@@ -5244,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Magic Factory | 121389 | [121389-winter-magic-factory.json](./121389-winter-magic-factory.json) |
 | Winter Mahjong | 415978 | [415978-winter-mahjong.json](./415978-winter-mahjong.json) |
 | Winter Makes Me Lonely but at Least I Have You | 364378 | [364378-winter-makes-me-lonely-but-at-least-i-have-you.json](./364378-winter-makes-me-lonely-but-at-least-i-have-you.json) |
+| Winter Memories | 260514 | [260514-winter-memories.json](./260514-winter-memories.json) |
 | Winter Mercenary | 373812 | [373812-winter-mercenary.json](./373812-winter-mercenary.json) |
 | Winter Mission | 299708 | [299708-winter-mission.json](./299708-winter-mission.json) |
 | Winter Mosaics | 415908 | [415908-winter-mosaics.json](./415908-winter-mosaics.json) |
