@@ -3473,6 +3473,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2022: Ultimate Edition | 196292 | [196292-just-dance-2022-ultimate-edition.json](./196292-just-dance-2022-ultimate-edition.json) |
 | Just Dance 2023 Edition | 250330 | [250330-just-dance-2023-edition.json](./250330-just-dance-2023-edition.json) |
 | Just Dance 2024 Edition | 252986 | [252986-just-dance-2024-edition.json](./252986-just-dance-2024-edition.json) |
+| Just Dance 2024 Edition: Deluxe Edition | 272411 | [272411-just-dance-2024-edition-deluxe-edition.json](./272411-just-dance-2024-edition-deluxe-edition.json) |
+| Just Dance 2024 Edition: Ultimate Edition | 272412 | [272412-just-dance-2024-edition-ultimate-edition.json](./272412-just-dance-2024-edition-ultimate-edition.json) |
 | Just Dance 2026 Edition | 381725 | [381725-just-dance-2026-edition.json](./381725-just-dance-2026-edition.json) |
 | Just Dance 3: Target Exclusive Edition | 375276 | [375276-just-dance-3-target-exclusive-edition.json](./375276-just-dance-3-target-exclusive-edition.json) |
 | Just Dance 4 | 3255 | [3255-just-dance-4.json](./3255-just-dance-4.json) |
