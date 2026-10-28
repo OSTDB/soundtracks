@@ -5166,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delightful Adventure: Enhanced | 307728 | [307728-delightful-adventure-enhanced.json](./307728-delightful-adventure-enhanced.json) |
 | Delila's Gift | 28740 | [28740-delilas-gift.json](./28740-delilas-gift.json) |
 | Delilah | 217340 | [217340-delilah.json](./217340-delilah.json) |
+| Delineation | 264724 | [264724-delineation.json](./264724-delineation.json) |
 | Delinquent Girlfriend Is Made Into a Masochist Femswine by Disgusting Bad Friend | 98544 | [98544-delinquent-girlfriend-is-made-into-a-masochist-femswine-by-disgusting-bad-friend.json](./98544-delinquent-girlfriend-is-made-into-a-masochist-femswine-by-disgusting-bad-friend.json) |
 | Deliria | 202748 | [202748-deliria.json](./202748-deliria.json) |
 | Deliriant | 28731 | [28731-deliriant.json](./28731-deliriant.json) |
@@ -6264,6 +6265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desk Space: Idle Spacefleet clicker | 404989 | [404989-desk-space-idle-spacefleet-clicker.json](./404989-desk-space-idle-spacefleet-clicker.json) |
 | Deskape | 371304 | [371304-deskape.json](./371304-deskape.json) |
 | Deskeroes | 348424 | [348424-deskeroes.json](./348424-deskeroes.json) |
+| Desktop Agents: Covid-999 | 264449 | [264449-desktop-agents-covid-999.json](./264449-desktop-agents-covid-999.json) |
 | Desktop Aquarium | 348834 | [348834-desktop-aquarium.json](./348834-desktop-aquarium.json) |
 | Desktop Aquarium | 383742 | [383742-desktop-aquarium.json](./383742-desktop-aquarium.json) |
 | Desktop Baseball | 119525 | [119525-desktop-baseball.json](./119525-desktop-baseball.json) |
@@ -10418,6 +10420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominant Color | 230689 | [230689-dominant-color.json](./230689-dominant-color.json) |
 | Dominant Mind | 148166 | [148166-dominant-mind.json](./148166-dominant-mind.json) |
 | Dominant Species for iPad | 108516 | [108516-dominant-species-for-ipad.json](./108516-dominant-species-for-ipad.json) |
+| Dominant Witches | 264717 | [264717-dominant-witches.json](./264717-dominant-witches.json) |
 | Dominari | 75099 | [75099-dominari.json](./75099-dominari.json) |
 | Dominari Tournament | 97807 | [97807-dominari-tournament.json](./97807-dominari-tournament.json) |
 | Dominate Square | 150446 | [150446-dominate-square.json](./150446-dominate-square.json) |
@@ -13562,6 +13565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream | 376819 | [376819-dream.json](./376819-dream.json) |
 | Dream | 379649 | [379649-dream.json](./379649-dream.json) |
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
+| Dream #46 | 264755 | [264755-dream-46.json](./264755-dream-46.json) |
 | Dream 64 | 244999 | [244999-dream-64.json](./244999-dream-64.json) |
 | Dream Abyss: Survivors | 346560 | [346560-dream-abyss-survivors.json](./346560-dream-abyss-survivors.json) |
 | Dream Addict | 303491 | [303491-dream-addict.json](./303491-dream-addict.json) |
@@ -16035,6 +16039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Dinners | 110117 | [110117-dungeons-and-dinners.json](./110117-dungeons-and-dinners.json) |
 | Dungeons and Dragons: Daggerdale | 15127 | [15127-dungeons-and-dragons-daggerdale.json](./15127-dungeons-and-dragons-daggerdale.json) |
 | Dungeons and Dungeons | 283544 | [283544-dungeons-and-dungeons.json](./283544-dungeons-and-dungeons.json) |
+| Dungeons and Female Teachers | 264758 | [264758-dungeons-and-female-teachers.json](./264758-dungeons-and-female-teachers.json) |
 | Dungeons and Goblins | 270328 | [270328-dungeons-and-goblins.json](./270328-dungeons-and-goblins.json) |
 | Dungeons and Kingdoms | 157929 | [157929-dungeons-and-kingdoms.json](./157929-dungeons-and-kingdoms.json) |
 | Dungeons and Monsters | 268751 | [268751-dungeons-and-monsters.json](./268751-dungeons-and-monsters.json) |
@@ -16650,6 +16655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyskairos | 374771 | [374771-dyskairos.json](./374771-dyskairos.json) |
 | Dysmantle | 113998 | [113998-dysmantle.json](./113998-dysmantle.json) |
 | Dysmantle: Doomsday | 240771 | [240771-dysmantle-doomsday.json](./240771-dysmantle-doomsday.json) |
+| Dysmantle: Pets & Dungeons | 264731 | [264731-dysmantle-pets-and-dungeons.json](./264731-dysmantle-pets-and-dungeons.json) |
 | Dysmantle: Underworld | 207258 | [207258-dysmantle-underworld.json](./207258-dysmantle-underworld.json) |
 | Dysnomia | 67231 | [67231-dysnomia.json](./67231-dysnomia.json) |
 | Dysnomia Exburst | 417424 | [417424-dysnomia-exburst.json](./417424-dysnomia-exburst.json) |
