@@ -7682,6 +7682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An antidepressant | 177843 | [177843-an-antidepressant.json](./177843-an-antidepressant.json) |
 | An Aquatic Pokemon Tale | 323758 | [323758-an-aquatic-pokemon-tale.json](./323758-an-aquatic-pokemon-tale.json) |
 | An Arcade Full of Cats | 261554 | [261554-an-arcade-full-of-cats.json](./261554-an-arcade-full-of-cats.json) |
+| An Arcade Full of Cats: TimeWarp Trouble | 275427 | [275427-an-arcade-full-of-cats-timewarp-trouble.json](./275427-an-arcade-full-of-cats-timewarp-trouble.json) |
 | An Archers Fate | 304635 | [304635-an-archers-fate.json](./304635-an-archers-fate.json) |
 | An Architect's Adventure | 211403 | [211403-an-architects-adventure.json](./211403-an-architects-adventure.json) |
 | An Aspie Life | 83798 | [83798-an-aspie-life.json](./83798-an-aspie-life.json) |
@@ -8750,6 +8751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animdle | 337097 | [337097-animdle.json](./337097-animdle.json) |
 | Anime & Manga Color by Number: Sandbox Pixel Art | 102551 | [102551-anime-and-manga-color-by-number-sandbox-pixel-art.json](./102551-anime-and-manga-color-by-number-sandbox-pixel-art.json) |
 | Anime and Your Life | 111778 | [111778-anime-and-your-life.json](./111778-anime-and-your-life.json) |
+| Anime Angels feat. Tomozero | 275439 | [275439-anime-angels-feat-tomozero.json](./275439-anime-angels-feat-tomozero.json) |
 | Anime Armpits | 202646 | [202646-anime-armpits.json](./202646-anime-armpits.json) |
 | Anime Artist | 280177 | [280177-anime-artist.json](./280177-anime-artist.json) |
 | Anime Artist 2: Lovely Danya | 129685 | [129685-anime-artist-2-lovely-danya.json](./129685-anime-artist-2-lovely-danya.json) |
@@ -10130,6 +10132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appli Archives: Jaleco Momoko 1200% | 56418 | [56418-appli-archives-jaleco-momoko-1200.json](./56418-appli-archives-jaleco-momoko-1200.json) |
 | Appli Archives: Nikoli Slitherlink | 56413 | [56413-appli-archives-nikoli-slitherlink.json](./56413-appli-archives-nikoli-slitherlink.json) |
 | Appli Archives: Nippon Ichi Software Duologue | 56416 | [56416-appli-archives-nippon-ichi-software-duologue.json](./56416-appli-archives-nippon-ichi-software-duologue.json) |
+| Applied Energistics 2 | 275742 | [275742-applied-energistics-2.json](./275742-applied-energistics-2.json) |
 | Appointment with Death | 316831 | [316831-appointment-with-death.json](./316831-appointment-with-death.json) |
 | Appointment With FEAR | 17700 | [17700-appointment-with-fear.json](./17700-appointment-with-fear.json) |
 | Appoooh | 39845 | [39845-appoooh.json](./39845-appoooh.json) |
@@ -12086,6 +12089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Suit Solgante | 303679 | [303679-armored-suit-solgante.json](./303679-armored-suit-solgante.json) |
 | Armored Suit Solgante: Expansion DLC | 339879 | [339879-armored-suit-solgante-expansion-dlc.json](./339879-armored-suit-solgante-expansion-dlc.json) |
 | Armored Trooper Votoms: Dead Ash | 98262 | [98262-armored-trooper-votoms-dead-ash.json](./98262-armored-trooper-votoms-dead-ash.json) |
+| Armored Tussle | 275750 | [275750-armored-tussle.json](./275750-armored-tussle.json) |
 | Armored Unit | 37525 | [37525-armored-unit.json](./37525-armored-unit.json) |
 | Armored Us | 241619 | [241619-armored-us.json](./241619-armored-us.json) |
 | Armored War | 277327 | [277327-armored-war.json](./277327-armored-war.json) |
