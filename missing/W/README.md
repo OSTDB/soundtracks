@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Girl | 120779 | [120779-war-girl.json](./120779-war-girl.json) |
 | War Gods | 3628 | [3628-war-gods.json](./3628-war-gods.json) |
 | War Grid Hero | 367925 | [367925-war-grid-hero.json](./367925-war-grid-hero.json) |
+| War Gun: Shooting Games Online | 254271 | [254271-war-gun-shooting-games-online.json](./254271-war-gun-shooting-games-online.json) |
 | War Heli | 319996 | [319996-war-heli.json](./319996-war-heli.json) |
 | War Heroes: Invasion | 74989 | [74989-war-heroes-invasion.json](./74989-war-heroes-invasion.json) |
 | War Hospital: Supporter Edition | 284858 | [284858-war-hospital-supporter-edition.json](./284858-war-hospital-supporter-edition.json) |
@@ -1007,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarBirds II | 72094 | [72094-warbirds-ii.json](./72094-warbirds-ii.json) |
 | WarBirds III | 71557 | [71557-warbirds-iii.json](./71557-warbirds-iii.json) |
 | Warbirds of WWII | 68094 | [68094-warbirds-of-wwii.json](./68094-warbirds-of-wwii.json) |
+| Warbirds P-51 Mustang ACE | 254700 | [254700-warbirds-p-51-mustang-ace.json](./254700-warbirds-p-51-mustang-ace.json) |
 | WarBirds Red Baron | 50397 | [50397-warbirds-red-baron.json](./50397-warbirds-red-baron.json) |
 | Warbirds Red Baron 2012 | 53142 | [53142-warbirds-red-baron-2012.json](./53142-warbirds-red-baron-2012.json) |
 | Warbit | 33433 | [33433-warbit.json](./33433-warbit.json) |
@@ -2216,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterworld | 265035 | [265035-waterworld.json](./265035-waterworld.json) |
 | Waterworld | 338817 | [338817-waterworld.json](./338817-waterworld.json) |
 | Waterworld: The Quest for Dry Land | 64847 | [64847-waterworld-the-quest-for-dry-land.json](./64847-waterworld-the-quest-for-dry-land.json) |
+| Wathitdew Record: Game Studio - Battlefield | 254638 | [254638-wathitdew-record-game-studio-battlefield.json](./254638-wathitdew-record-game-studio-battlefield.json) |
 | Watris | 306037 | [306037-watris.json](./306037-watris.json) |
 | Watson | 276150 | [276150-watson.json](./276150-watson.json) |
 | Watson's Watch | 33477 | [33477-watsons-watch.json](./33477-watsons-watch.json) |
@@ -6594,6 +6597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search Coffee Break | 415952 | [415952-word-search-coffee-break.json](./415952-word-search-coffee-break.json) |
 | Word Search Daily HD | 355011 | [355011-word-search-daily-hd.json](./355011-word-search-daily-hd.json) |
 | Word Search Epic | 83418 | [83418-word-search-epic.json](./83418-word-search-epic.json) |
+| Word Search Explorer | 254701 | [254701-word-search-explorer.json](./254701-word-search-explorer.json) |
 | Word Search For Kids 2 | 103134 | [103134-word-search-for-kids-2.json](./103134-word-search-for-kids-2.json) |
 | Word Search Fun | 87165 | [87165-word-search-fun.json](./87165-word-search-fun.json) |
 | Word Search Game | 86915 | [86915-word-search-game.json](./86915-word-search-game.json) |
