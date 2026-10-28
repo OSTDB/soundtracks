@@ -6060,6 +6060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowverse: Wonderland Dreams | 37072 | [37072-shadowverse-wonderland-dreams.json](./37072-shadowverse-wonderland-dreams.json) |
 | Shadowverse: Worlds Beyond | 339985 | [339985-shadowverse-worlds-beyond.json](./339985-shadowverse-worlds-beyond.json) |
 | Shadowy Contracts | 116741 | [116741-shadowy-contracts.json](./116741-shadowy-contracts.json) |
+| Shadowy Forest | 268608 | [268608-shadowy-forest.json](./268608-shadowy-forest.json) |
 | Shadwen | 14747 | [14747-shadwen.json](./14747-shadwen.json) |
 | Shady Brook | 27603 | [27603-shady-brook.json](./27603-shady-brook.json) |
 | Shady Brook - A Dark Mystery Text Adventure | 30903 | [30903-shady-brook-a-dark-mystery-text-adventure.json](./30903-shady-brook-a-dark-mystery-text-adventure.json) |
@@ -8544,6 +8545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: John Riccitiello Pack | 277374 | [277374-sid-meiers-civilization-vi-john-riccitiello-pack.json](./277374-sid-meiers-civilization-vi-john-riccitiello-pack.json) |
 | Sid Meier's Civilization VI: Khmer and Indonesia Civilization & Scenario Pack | 164407 | [164407-sid-meiers-civilization-vi-khmer-and-indonesia-civilization-and-scenario-pack.json](./164407-sid-meiers-civilization-vi-khmer-and-indonesia-civilization-and-scenario-pack.json) |
 | Sid Meier's Civilization VI: Klein Moretti Pack | 278097 | [278097-sid-meiers-civilization-vi-klein-moretti-pack.json](./278097-sid-meiers-civilization-vi-klein-moretti-pack.json) |
+| Sid Meier's Civilization VI: Leader Pass | 268578 | [268578-sid-meiers-civilization-vi-leader-pass.json](./268578-sid-meiers-civilization-vi-leader-pass.json) |
 | Sid Meier's Civilization VI: Liyue & Inazuma Pack | 278439 | [278439-sid-meiers-civilization-vi-liyue-and-inazuma-pack.json](./278439-sid-meiers-civilization-vi-liyue-and-inazuma-pack.json) |
 | Sid Meier's Civilization VI: Maya & Gran Colombia Pack | 164406 | [164406-sid-meiers-civilization-vi-maya-and-gran-colombia-pack.json](./164406-sid-meiers-civilization-vi-maya-and-gran-colombia-pack.json) |
 | Sid Meier's Civilization VI: Mona Megistus Pack | 278742 | [278742-sid-meiers-civilization-vi-mona-megistus-pack.json](./278742-sid-meiers-civilization-vi-mona-megistus-pack.json) |
@@ -15768,6 +15770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soshite Kono Sora ni Kirameku Kimi no Uta XXX | 221828 | [221828-soshite-kono-sora-ni-kirameku-kimi-no-uta-xxx.json](./221828-soshite-kono-sora-ni-kirameku-kimi-no-uta-xxx.json) |
 | Soshite Suki ni Naru | 375357 | [375357-soshite-suki-ni-naru.json](./375357-soshite-suki-ni-naru.json) |
 | Sosnova | 359356 | [359356-sosnova.json](./359356-sosnova.json) |
+| Sosuria | 268599 | [268599-sosuria.json](./268599-sosuria.json) |
 | Sotano | 190036 | [190036-sotano.json](./190036-sotano.json) |
 | Soter | 157139 | [157139-soter.json](./157139-soter.json) |
 | Sotidrokhima | 226396 | [226396-sotidrokhima.json](./226396-sotidrokhima.json) |
@@ -29953,6 +29956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Bakery Tycoon: Expansion Pack 1 | 237913 | [237913-sweet-bakery-tycoon-expansion-pack-1.json](./237913-sweet-bakery-tycoon-expansion-pack-1.json) |
 | Sweet Bakery Tycoon: Expansion Pack 2 | 237914 | [237914-sweet-bakery-tycoon-expansion-pack-2.json](./237914-sweet-bakery-tycoon-expansion-pack-2.json) |
 | Sweet Bakery Tycoon: Extended Edition | 213345 | [213345-sweet-bakery-tycoon-extended-edition.json](./213345-sweet-bakery-tycoon-extended-edition.json) |
+| Sweet Bakery Tycoon: GOTY Edition | 268613 | [268613-sweet-bakery-tycoon-goty-edition.json](./268613-sweet-bakery-tycoon-goty-edition.json) |
 | Sweet Bakery Tycoon: Multiplayer Edition | 242621 | [242621-sweet-bakery-tycoon-multiplayer-edition.json](./242621-sweet-bakery-tycoon-multiplayer-edition.json) |
 | Sweet Bakery Tycoon: Multiplayer Mode | 242620 | [242620-sweet-bakery-tycoon-multiplayer-mode.json](./242620-sweet-bakery-tycoon-multiplayer-mode.json) |
 | Sweet Bakery Tycoon: Premium Edition | 231235 | [231235-sweet-bakery-tycoon-premium-edition.json](./231235-sweet-bakery-tycoon-premium-edition.json) |
