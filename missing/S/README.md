@@ -4308,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages: Sonic the Hedgehog | 96393 | [96393-sega-ages-sonic-the-hedgehog.json](./96393-sega-ages-sonic-the-hedgehog.json) |
 | Sega Ages: Sonic the Hedgehog 2 | 110061 | [110061-sega-ages-sonic-the-hedgehog-2.json](./110061-sega-ages-sonic-the-hedgehog-2.json) |
 | Sega Archives from U.S.A. vol. 1 | 56842 | [56842-sega-archives-from-u-s-a-vol-1.json](./56842-sega-archives-from-u-s-a-vol-1.json) |
+| Sega Astro City Mini | 245662 | [245662-sega-astro-city-mini.json](./245662-sega-astro-city-mini.json) |
 | Sega Astro City Mini V | 245664 | [245664-sega-astro-city-mini-v.json](./245664-sega-astro-city-mini-v.json) |
 | Sega Bass Fishing 2 | 45837 | [45837-sega-bass-fishing-2.json](./45837-sega-bass-fishing-2.json) |
 | Sega Bass Fishing Challenge | 39433 | [39433-sega-bass-fishing-challenge.json](./39433-sega-bass-fishing-challenge.json) |
@@ -4322,6 +4323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Fun Pack: Sonic and the Secret Rings & Super Monkey Ball Banana Blitz | 210299 | [210299-sega-fun-pack-sonic-and-the-secret-rings-and-super-monkey-ball-banana-blitz.json](./210299-sega-fun-pack-sonic-and-the-secret-rings-and-super-monkey-ball-banana-blitz.json) |
 | Sega Game Pack 4 in 1 | 79600 | [79600-sega-game-pack-4-in-1.json](./79600-sega-game-pack-4-in-1.json) |
 | Sega Genesis Classic Collection: Gold Edition | 51261 | [51261-sega-genesis-classic-collection-gold-edition.json](./51261-sega-genesis-classic-collection-gold-edition.json) |
+| Sega Genesis Classic Game Console | 245654 | [245654-sega-genesis-classic-game-console.json](./245654-sega-genesis-classic-game-console.json) |
 | Sega Genesis Classics | 80185 | [80185-sega-genesis-classics.json](./80185-sega-genesis-classics.json) |
 | Sega Genesis Classics: Series 1 | 50854 | [50854-sega-genesis-classics-series-1.json](./50854-sega-genesis-classics-series-1.json) |
 | Sega Genesis Classics: Series 2 | 50853 | [50853-sega-genesis-classics-series-2.json](./50853-sega-genesis-classics-series-2.json) |
@@ -6499,6 +6501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharknado: The Video Game | 133675 | [133675-sharknado-the-video-game.json](./133675-sharknado-the-video-game.json) |
 | Sharkphobia | 243653 | [243653-sharkphobia.json](./243653-sharkphobia.json) |
 | Sharks | 239708 | [239708-sharks.json](./239708-sharks.json) |
+| Sharks | 245132 | [245132-sharks.json](./245132-sharks.json) |
 | Sharks 3D | 328305 | [328305-sharks-3d.json](./328305-sharks-3d.json) |
 | Sharks and Minnows | 340956 | [340956-sharks-and-minnows.json](./340956-sharks-and-minnows.json) |
 | Sharks! In Space?! | 178840 | [178840-sharks-in-space.json](./178840-sharks-in-space.json) |
@@ -10389,6 +10392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sker Ritual: Skerville Slasher | 322721 | [322721-sker-ritual-skerville-slasher.json](./322721-sker-ritual-skerville-slasher.json) |
 | Sker Ritual: Stranger Danger | 241317 | [241317-sker-ritual-stranger-danger.json](./241317-sker-ritual-stranger-danger.json) |
 | Sker Ritual: The Quiet Ones | 235843 | [235843-sker-ritual-the-quiet-ones.json](./235843-sker-ritual-the-quiet-ones.json) |
+| Sketch | 245121 | [245121-sketch.json](./245121-sketch.json) |
 | Sketch Crawler | 189353 | [189353-sketch-crawler.json](./189353-sketch-crawler.json) |
 | Sketch Doom | 247518 | [247518-sketch-doom.json](./247518-sketch-doom.json) |
 | Sketch Heads | 250224 | [250224-sketch-heads.json](./250224-sketch-heads.json) |
@@ -10604,6 +10608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skippy's Grand Escape | 334335 | [334335-skippys-grand-escape.json](./334335-skippys-grand-escape.json) |
 | Skippy's Revenge | 71357 | [71357-skippys-revenge.json](./71357-skippys-revenge.json) |
 | Skirmish | 13756 | [13756-skirmish.json](./13756-skirmish.json) |
+| Skirmish | 245126 | [245126-skirmish.json](./245126-skirmish.json) |
 | Skirmish | 257946 | [257946-skirmish.json](./257946-skirmish.json) |
 | Skirmish | 327165 | [327165-skirmish.json](./327165-skirmish.json) |
 | Skirmish | 381071 | [381071-skirmish.json](./381071-skirmish.json) |
@@ -13747,6 +13752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sock It | 196236 | [196236-sock-it.json](./196236-sock-it.json) |
 | Sock Monster | 143012 | [143012-sock-monster.json](./143012-sock-monster.json) |
 | Sock Puppet Superstar | 400678 | [400678-sock-puppet-superstar.json](./400678-sock-puppet-superstar.json) |
+| Socket Fighters | 246007 | [246007-socket-fighters.json](./246007-socket-fighters.json) |
 | Socketeer | 107225 | [107225-socketeer.json](./107225-socketeer.json) |
 | Sockman | 75634 | [75634-sockman.json](./75634-sockman.json) |
 | Sockpuppet Noir | 191655 | [191655-sockpuppet-noir.json](./191655-sockpuppet-noir.json) |
@@ -14195,6 +14201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solider AutoChess | 412490 | [412490-solider-autochess.json](./412490-solider-autochess.json) |
 | Solidify | 145921 | [145921-solidify.json](./145921-solidify.json) |
 | Solidus | 100745 | [100745-solidus.json](./100745-solidus.json) |
+| Soliloquy | 246021 | [246021-soliloquy.json](./246021-soliloquy.json) |
 | Soliopop | 288985 | [288985-soliopop.json](./288985-soliopop.json) |
 | Solipcyst | 414282 | [414282-solipcyst.json](./414282-solipcyst.json) |
 | Solipsis | 391885 | [391885-solipsis.json](./391885-solipsis.json) |
@@ -20667,6 +20674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Driver: Kagayaki no Takuto - Ginga Bishounen Densetsu | 269504 | [269504-star-driver-kagayaki-no-takuto-ginga-bishounen-densetsu.json](./269504-star-driver-kagayaki-no-takuto-ginga-bishounen-densetsu.json) |
 | Star Drives | 187464 | [187464-star-drives.json](./187464-star-drives.json) |
 | Star Duality | 418603 | [418603-star-duality.json](./418603-star-duality.json) |
+| Star Duel | 245122 | [245122-star-duel.json](./245122-star-duel.json) |
 | Star Dust: A Journey Through Space | 161349 | [161349-star-dust-a-journey-through-space.json](./161349-star-dust-a-journey-through-space.json) |
 | Star Dust: The Book of Earth (VR) | 29931 | [29931-star-dust-the-book-of-earth-vr.json](./29931-star-dust-the-book-of-earth-vr.json) |
 | Star Dynasties | 122934 | [122934-star-dynasties.json](./122934-star-dynasties.json) |
@@ -25694,6 +25702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sukeban Janshi Ryuuko | 372145 | [372145-sukeban-janshi-ryuuko.json](./372145-sukeban-janshi-ryuuko.json) |
 | Sukeban Shachou Rena | 5195 | [5195-sukeban-shachou-rena.json](./5195-sukeban-shachou-rena.json) |
 | Sukebe Beach | 240695 | [240695-sukebe-beach.json](./240695-sukebe-beach.json) |
+| Sukebe Fantasy | 246026 | [246026-sukebe-fantasy.json](./246026-sukebe-fantasy.json) |
 | Sukebe Office | 244224 | [244224-sukebe-office.json](./244224-sukebe-office.json) |
 | Sukebe Orb | 409838 | [409838-sukebe-orb.json](./409838-sukebe-orb.json) |
 | Sukebooo Man | 288154 | [288154-sukebooo-man.json](./288154-sukebooo-man.json) |
@@ -25771,6 +25780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Beach Trip | 367560 | [367560-summer-beach-trip.json](./367560-summer-beach-trip.json) |
 | Summer Beach Vacation Objects - Hidden Object Time | 102814 | [102814-summer-beach-vacation-objects-hidden-object-time.json](./102814-summer-beach-vacation-objects-hidden-object-time.json) |
 | Summer Before Dawn | 389745 | [389745-summer-before-dawn.json](./389745-summer-before-dawn.json) |
+| Summer Bubble Splash | 245897 | [245897-summer-bubble-splash.json](./245897-summer-bubble-splash.json) |
 | Summer Camp | 167865 | [167865-summer-camp.json](./167865-summer-camp.json) |
 | Summer Camp | 347837 | [347837-summer-camp.json](./347837-summer-camp.json) |
 | Summer Camp | 47189 | [47189-summer-camp.json](./47189-summer-camp.json) |
@@ -26166,6 +26176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrise 7 | 135159 | [135159-sunrise-7.json](./135159-sunrise-7.json) |
 | Sunrise Citadel | 268922 | [268922-sunrise-citadel.json](./268922-sunrise-citadel.json) |
 | Sunrise Down | 312730 | [312730-sunrise-down.json](./312730-sunrise-down.json) |
+| Sunrise GP | 245893 | [245893-sunrise-gp.json](./245893-sunrise-gp.json) |
 | Sunrise of the Time: End of Blue | 375944 | [375944-sunrise-of-the-time-end-of-blue.json](./375944-sunrise-of-the-time-end-of-blue.json) |
 | Sunrise Paradise | 171786 | [171786-sunrise-paradise.json](./171786-sunrise-paradise.json) |
 | Sunrise survival | 43094 | [43094-sunrise-survival.json](./43094-sunrise-survival.json) |
