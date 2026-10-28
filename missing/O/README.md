@@ -4095,6 +4095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otto and the Ancient Worlds | 102382 | [102382-otto-and-the-ancient-worlds.json](./102382-otto-and-the-ancient-worlds.json) |
 | Otto Dokkoi | 385333 | [385333-otto-dokkoi.json](./385333-otto-dokkoi.json) |
 | Otto Matic | 67426 | [67426-otto-matic.json](./67426-otto-matic.json) |
+| Otto Roof | 250977 | [250977-otto-roof.json](./250977-otto-roof.json) |
 | Otto the Odd Ostrich | 67934 | [67934-otto-the-odd-ostrich.json](./67934-otto-the-odd-ostrich.json) |
 | Otto's Escape | 291699 | [291699-ottos-escape.json](./291699-ottos-escape.json) |
 | Otto’s Galactic Groove!! | 340851 | [340851-otto-s-galactic-groove.json](./340851-otto-s-galactic-groove.json) |
@@ -5019,6 +5020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overvoid | 419333 | [419333-overvoid.json](./419333-overvoid.json) |
 | Overwatch 2: Complete Hero Collection | 261336 | [261336-overwatch-2-complete-hero-collection.json](./261336-overwatch-2-complete-hero-collection.json) |
 | Overwatch 2: Hero Collection | 261335 | [261335-overwatch-2-hero-collection.json](./261335-overwatch-2-hero-collection.json) |
+| Overwatch 2: Hero Pack | 249584 | [249584-overwatch-2-hero-pack.json](./249584-overwatch-2-hero-pack.json) |
 | Overwatch 2: Invasion Bundle | 261349 | [261349-overwatch-2-invasion-bundle.json](./261349-overwatch-2-invasion-bundle.json) |
 | Overwatch 2: Invasion Ultimate Bundle | 261350 | [261350-overwatch-2-invasion-ultimate-bundle.json](./261350-overwatch-2-invasion-ultimate-bundle.json) |
 | Overwatch 2: My Hero Academia | 317819 | [317819-overwatch-2-my-hero-academia.json](./317819-overwatch-2-my-hero-academia.json) |
