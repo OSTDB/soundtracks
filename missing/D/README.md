@@ -6084,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent Maximum | 20130 | [20130-descent-maximum.json](./20130-descent-maximum.json) |
 | Descent Of Lunaris | 375453 | [375453-descent-of-lunaris.json](./375453-descent-of-lunaris.json) |
 | Descent of Man | 120120 | [120120-descent-of-man.json](./120120-descent-of-man.json) |
+| Descent of the Hunted | 274319 | [274319-descent-of-the-hunted.json](./274319-descent-of-the-hunted.json) |
 | Descent the Abyss | 303474 | [303474-descent-the-abyss.json](./303474-descent-the-abyss.json) |
 | Descent Vector: Space Runner | 153431 | [153431-descent-vector-space-runner.json](./153431-descent-vector-space-runner.json) |
 | Descent X | 311474 | [311474-descent-x.json](./311474-descent-x.json) |
@@ -9869,6 +9870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DodoGo! | 66709 | [66709-dodogo.json](./66709-dodogo.json) |
 | DodoGo! Challenge | 85094 | [85094-dodogo-challenge.json](./85094-dodogo-challenge.json) |
 | DodoGo! Robo | 85093 | [85093-dodogo-robo.json](./85093-dodogo-robo.json) |
+| Dodolly Tales | 274320 | [274320-dodolly-tales.json](./274320-dodolly-tales.json) |
 | DoDonPachi Dai-Ou-Jou V101 | 84158 | [84158-dodonpachi-dai-ou-jou-v101.json](./84158-dodonpachi-dai-ou-jou-v101.json) |
 | DoDonPachi Daifukkatsu Black Label | 77997 | [77997-dodonpachi-daifukkatsu-black-label.json](./77997-dodonpachi-daifukkatsu-black-label.json) |
 | DoDonPachi DaiFukkatsu Ver 1.5 | 84160 | [84160-dodonpachi-daifukkatsu-ver-1-5.json](./84160-dodonpachi-daifukkatsu-ver-1-5.json) |
@@ -11010,6 +11012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doobie | 341112 | [341112-doobie.json](./341112-doobie.json) |
 | Dooblets | 302657 | [302657-dooblets.json](./302657-dooblets.json) |
 | Dood's Big Adventure | 18255 | [18255-doods-big-adventure.json](./18255-doods-big-adventure.json) |
+| Doodle Adventure of Chameleon | 274317 | [274317-doodle-adventure-of-chameleon.json](./274317-doodle-adventure-of-chameleon.json) |
 | Doodle Adventures | 56770 | [56770-doodle-adventures.json](./56770-doodle-adventures.json) |
 | Doodle Army | 61655 | [61655-doodle-army.json](./61655-doodle-army.json) |
 | Doodle Art: Drawing Games | 190937 | [190937-doodle-art-drawing-games.json](./190937-doodle-art-drawing-games.json) |
@@ -12015,6 +12018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downroll | 191161 | [191161-downroll.json](./191161-downroll.json) |
 | Downshot | 308353 | [308353-downshot.json](./308353-downshot.json) |
 | DownSouth | 391048 | [391048-downsouth.json](./391048-downsouth.json) |
+| Downstairs | 274295 | [274295-downstairs.json](./274295-downstairs.json) |
 | Downstairs 2 Nightfall | 367737 | [367737-downstairs-2-nightfall.json](./367737-downstairs-2-nightfall.json) |
 | Downstairs at Grandma's House | 113832 | [113832-downstairs-at-grandmas-house.json](./113832-downstairs-at-grandmas-house.json) |
 | DownStream : VR Whitewater Kayaking | 113765 | [113765-downstream-vr-whitewater-kayaking.json](./113765-downstream-vr-whitewater-kayaking.json) |
