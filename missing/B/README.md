@@ -840,7 +840,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3414,6 +3413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Warplanes: Air War | 87531 | [87531-battle-of-warplanes-air-war.json](./87531-battle-of-warplanes-air-war.json) |
 | Battle of Words | 269081 | [269081-battle-of-words.json](./269081-battle-of-words.json) |
 | Battle of Worldviews | 105240 | [105240-battle-of-worldviews.json](./105240-battle-of-worldviews.json) |
+| Battle of Zodiacs | 247703 | [247703-battle-of-zodiacs.json](./247703-battle-of-zodiacs.json) |
 | Battle On! Hero Academy | 373126 | [373126-battle-on-hero-academy.json](./373126-battle-on-hero-academy.json) |
 | Battle Orb | 341657 | [341657-battle-orb.json](./341657-battle-orb.json) |
 | Battle Painters | 140542 | [140542-battle-painters.json](./140542-battle-painters.json) |
@@ -8721,6 +8721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach: The 3rd Phantom | 19103 | [19103-bleach-the-3rd-phantom.json](./19103-bleach-the-3rd-phantom.json) |
 | Bleach: The Blade of Fate | 20530 | [20530-bleach-the-blade-of-fate.json](./20530-bleach-the-blade-of-fate.json) |
 | Bleach: Versus Crusade | 3822 | [3822-bleach-versus-crusade.json](./3822-bleach-versus-crusade.json) |
+| Bleach: Zanpakutou Senshi | 247556 | [247556-bleach-zanpakutou-senshi.json](./247556-bleach-zanpakutou-senshi.json) |
 | Bleak | 106641 | [106641-bleak.json](./106641-bleak.json) |
 | Bleak Dystopia | 226314 | [226314-bleak-dystopia.json](./226314-bleak-dystopia.json) |
 | Bleak End | 167571 | [167571-bleak-end.json](./167571-bleak-end.json) |
@@ -11515,6 +11516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootleg Fantasy | 171833 | [171833-bootleg-fantasy.json](./171833-bootleg-fantasy.json) |
 | Bootleg in Wonderland: Pastel Paradise | 342588 | [342588-bootleg-in-wonderland-pastel-paradise.json](./342588-bootleg-in-wonderland-pastel-paradise.json) |
 | Bootleg Soldier Azure: Astral Rave | 292028 | [292028-bootleg-soldier-azure-astral-rave.json](./292028-bootleg-soldier-azure-astral-rave.json) |
+| Bootleg Squadrog | 247555 | [247555-bootleg-squadrog.json](./247555-bootleg-squadrog.json) |
 | Bootleg Systems | 32744 | [32744-bootleg-systems.json](./32744-bootleg-systems.json) |
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
 | Bootloop | 362055 | [362055-bootloop.json](./362055-bootloop.json) |
