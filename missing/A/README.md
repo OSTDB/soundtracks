@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Magical Tale: Cavern Crawler | 134995 | [134995-a-magical-tale-cavern-crawler.json](./134995-a-magical-tale-cavern-crawler.json) |
 | A Magical Tale: Revoke DX | 381603 | [381603-a-magical-tale-revoke-dx.json](./381603-a-magical-tale-revoke-dx.json) |
 | A Magnetic Adventure | 52368 | [52368-a-magnetic-adventure.json](./52368-a-magnetic-adventure.json) |
+| A Maiden Astrologer Divines the Future | 229349 | [229349-a-maiden-astrologer-divines-the-future.json](./229349-a-maiden-astrologer-divines-the-future.json) |
 | A Maiden's Serenade | 302680 | [302680-a-maidens-serenade.json](./302680-a-maidens-serenade.json) |
 | A Maldição da Vila Sinistra | 242124 | [242124-a-maldicao-da-vila-sinistra.json](./242124-a-maldicao-da-vila-sinistra.json) |
 | A Male Me Dressed up and Was Loved | 82878 | [82878-a-male-me-dressed-up-and-was-loved.json](./82878-a-male-me-dressed-up-and-was-loved.json) |
@@ -3635,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL 23 | 240298 | [240298-afl-23.json](./240298-afl-23.json) |
 | AFL 26 | 340723 | [340723-afl-26.json](./340723-afl-26.json) |
 | AFL 99 | 60580 | [60580-afl-99.json](./60580-afl-99.json) |
+| AFL Auskick Space League | 228875 | [228875-afl-auskick-space-league.json](./228875-afl-auskick-space-league.json) |
 | AFL Challenge | 68302 | [68302-afl-challenge.json](./68302-afl-challenge.json) |
 | AFL Evolution | 33701 | [33701-afl-evolution.json](./33701-afl-evolution.json) |
 | AFL Evolution Plus Season Pack 2018 | 118683 | [118683-afl-evolution-plus-season-pack-2018.json](./118683-afl-evolution-plus-season-pack-2018.json) |
@@ -4209,6 +4211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Pyxel | 182080 | [182080-agent-pyxel.json](./182080-agent-pyxel.json) |
 | Agent Reverb | 235149 | [235149-agent-reverb.json](./235149-agent-reverb.json) |
 | Agent Roswell | 124176 | [124176-agent-roswell.json](./124176-agent-roswell.json) |
+| Agent Roy: Secure the Temple | 229331 | [229331-agent-roy-secure-the-temple.json](./229331-agent-roy-secure-the-temple.json) |
 | Agent Roy: Zombie Hunt | 232449 | [232449-agent-roy-zombie-hunt.json](./232449-agent-roy-zombie-hunt.json) |
 | Agent Simulator | 172140 | [172140-agent-simulator.json](./172140-agent-simulator.json) |
 | Agent Sirius | 357802 | [357802-agent-sirius.json](./357802-agent-sirius.json) |
