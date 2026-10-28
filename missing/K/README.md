@@ -2239,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Comet | 40049 | [40049-killer-comet.json](./40049-killer-comet.json) |
 | Killer Depths | 362392 | [362392-killer-depths.json](./362392-killer-depths.json) |
 | Killer Dog | 135814 | [135814-killer-dog.json](./135814-killer-dog.json) |
+| Killer Dolls Battle Arena | 244403 | [244403-killer-dolls-battle-arena.json](./244403-killer-dolls-battle-arena.json) |
 | Killer Elite: Time to Die | 29549 | [29549-killer-elite-time-to-die.json](./29549-killer-elite-time-to-die.json) |
 | Killer Escape 4 | 386945 | [386945-killer-escape-4.json](./386945-killer-escape-4.json) |
 | Killer Escape III | 386938 | [386938-killer-escape-iii.json](./386938-killer-escape-iii.json) |
@@ -3102,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings Era | 98012 | [98012-kings-era.json](./98012-kings-era.json) |
 | Kings Hero 2 | 175359 | [175359-kings-hero-2.json](./175359-kings-hero-2.json) |
 | Kings in the Corners | 89852 | [89852-kings-in-the-corners.json](./89852-kings-in-the-corners.json) |
+| Kings Love | 244284 | [244284-kings-love.json](./244284-kings-love.json) |
 | Kings Odyssey: Dwarves Tale | 287170 | [287170-kings-odyssey-dwarves-tale.json](./287170-kings-odyssey-dwarves-tale.json) |
 | Kings Odyssey: Rise of The Necromancer | 287172 | [287172-kings-odyssey-rise-of-the-necromancer.json](./287172-kings-odyssey-rise-of-the-necromancer.json) |
 | Kings of Battleground | 231928 | [231928-kings-of-battleground.json](./231928-kings-of-battleground.json) |
