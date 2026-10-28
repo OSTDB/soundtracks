@@ -6756,6 +6756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Adventures of Kroz | 69575 | [69575-lost-adventures-of-kroz.json](./69575-lost-adventures-of-kroz.json) |
 | Lost Ages Hunting | 409870 | [409870-lost-ages-hunting.json](./409870-lost-ages-hunting.json) |
 | Lost Alice: Destined Lovers in Wonderland | 75422 | [75422-lost-alice-destined-lovers-in-wonderland.json](./75422-lost-alice-destined-lovers-in-wonderland.json) |
+| Lost Alien | 263078 | [263078-lost-alien.json](./263078-lost-alien.json) |
 | Lost Alone | 148812 | [148812-lost-alone.json](./148812-lost-alone.json) |
 | Lost Alone | 167223 | [167223-lost-alone.json](./167223-lost-alone.json) |
 | Lost Alone EP.1: Little Sister | 185649 | [185649-lost-alone-ep-1-little-sister.json](./185649-lost-alone-ep-1-little-sister.json) |
@@ -7327,6 +7328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love | 105034 | [105034-love.json](./105034-love.json) |
 | Love | 16912 | [16912-love.json](./16912-love.json) |
 | Love | 342304 | [342304-love.json](./342304-love.json) |
+| Love & Country | 262780 | [262780-love-and-country.json](./262780-love-and-country.json) |
 | Love & Death Bitten | 56254 | [56254-love-and-death-bitten.json](./56254-love-and-death-bitten.json) |
 | Love & Destroy | 63368 | [63368-love-and-destroy.json](./63368-love-and-destroy.json) |
 | Love & Diaries: Duncan | 299421 | [299421-love-and-diaries-duncan.json](./299421-love-and-diaries-duncan.json) |
