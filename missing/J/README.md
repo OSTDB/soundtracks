@@ -709,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jartycuck's Basics in Coal and Goonin 2 'p | 400943 | [400943-jartycucks-basics-in-coal-and-goonin-2-p.json](./400943-jartycucks-basics-in-coal-and-goonin-2-p.json) |
 | Jarvis | 59383 | [59383-jarvis.json](./59383-jarvis.json) |
 | JASBIAC | 302619 | [302619-jasbiac.json](./302619-jasbiac.json) |
+| Jasei no In: The Serpent's Lust | 269154 | [269154-jasei-no-in-the-serpents-lust.json](./269154-jasei-no-in-the-serpents-lust.json) |
 | Jaseiken Necromancer 2 | 412787 | [412787-jaseiken-necromancer-2.json](./412787-jaseiken-necromancer-2.json) |
 | JASEM: Just Another Shooter with Electronic Music | 29109 | [29109-jasem-just-another-shooter-with-electronic-music.json](./29109-jasem-just-another-shooter-with-electronic-music.json) |
 | JASF: Jane's Advanced Strike Fighters | 7022 | [7022-jasf-janes-advanced-strike-fighters.json](./7022-jasf-janes-advanced-strike-fighters.json) |
