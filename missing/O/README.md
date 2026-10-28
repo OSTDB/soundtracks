@@ -4760,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oval RaceCar Builder | 139028 | [139028-oval-racecar-builder.json](./139028-oval-racecar-builder.json) |
 | Oval Racer Series: Sandbox | 170830 | [170830-oval-racer-series-sandbox.json](./170830-oval-racer-series-sandbox.json) |
 | Ovation | 392461 | [392461-ovation.json](./392461-ovation.json) |
+| Ove: The Sword of Liberation | 237561 | [237561-ove-the-sword-of-liberation.json](./237561-ove-the-sword-of-liberation.json) |
 | Oven Dodgers | 281395 | [281395-oven-dodgers.json](./281395-oven-dodgers.json) |
 | OvenBreak | 284436 | [284436-ovenbreak.json](./284436-ovenbreak.json) |
 | OvenBreak 2 | 198314 | [198314-ovenbreak-2.json](./198314-ovenbreak-2.json) |
@@ -5019,6 +5020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overstorm | 267498 | [267498-overstorm.json](./267498-overstorm.json) |
 | Overstrike Arena | 235650 | [235650-overstrike-arena.json](./235650-overstrike-arena.json) |
 | Overtake | 94193 | [94193-overtake.json](./94193-overtake.json) |
+| Overtaking | 237584 | [237584-overtaking.json](./237584-overtaking.json) |
 | OverTheCloud_Global | 117100 | [117100-overthecloud-global.json](./117100-overthecloud-global.json) |
 | Overthinking | 414950 | [414950-overthinking.json](./414950-overthinking.json) |
 | Overthrown | 309472 | [309472-overthrown.json](./309472-overthrown.json) |
