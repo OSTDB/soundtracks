@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Blast | 354974 | [354974-garden-blast.json](./354974-garden-blast.json) |
 | Garden Bots | 395900 | [395900-garden-bots.json](./395900-garden-bots.json) |
 | Garden Box | 314675 | [314675-garden-box.json](./314675-garden-box.json) |
+| Garden Buddies | 271860 | [271860-garden-buddies.json](./271860-garden-buddies.json) |
 | Garden Bundle | 164825 | [164825-garden-bundle.json](./164825-garden-bundle.json) |
 | Garden Business | 215902 | [215902-garden-business.json](./215902-garden-business.json) |
 | Garden Circuit | 185006 | [185006-garden-circuit.json](./185006-garden-circuit.json) |
@@ -5190,6 +5191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godfist | 235356 | [235356-godfist.json](./235356-godfist.json) |
 | Godforged: Origins of Ozgalor | 313473 | [313473-godforged-origins-of-ozgalor.json](./313473-godforged-origins-of-ozgalor.json) |
 | Godforsaken | 258085 | [258085-godforsaken.json](./258085-godforsaken.json) |
+| Godfreys Demesne | 271570 | [271570-godfreys-demesne.json](./271570-godfreys-demesne.json) |
 | Godfuck | 343756 | [343756-godfuck.json](./343756-godfuck.json) |
 | Godherja: The Dying World | 356006 | [356006-godherja-the-dying-world.json](./356006-godherja-the-dying-world.json) |
 | Godhood | 106679 | [106679-godhood.json](./106679-godhood.json) |
