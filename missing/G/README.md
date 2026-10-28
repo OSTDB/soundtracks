@@ -1383,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamma-Attack | 40667 | [40667-gamma-attack.json](./40667-gamma-attack.json) |
 | Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
 | Gamp | 25717 | [25717-gamp.json](./25717-gamp.json) |
+| Gamshara | 269943 | [269943-gamshara.json](./269943-gamshara.json) |
 | Gan! Gan! Pirates | 1366 | [1366-gan-gan-pirates.json](./1366-gan-gan-pirates.json) |
 | Ganbare Baseball | 284439 | [284439-ganbare-baseball.json](./284439-ganbare-baseball.json) |
 | Ganbare Ginkun | 40035 | [40035-ganbare-ginkun.json](./40035-ganbare-ginkun.json) |
@@ -5632,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldMan HD | 89794 | [89794-goldman-hd.json](./89794-goldman-hd.json) |
 | Goldo: Lost Goblin | 370128 | [370128-goldo-lost-goblin.json](./370128-goldo-lost-goblin.json) |
 | Goldrot | 352250 | [352250-goldrot.json](./352250-goldrot.json) |
+| Goldrush | 270227 | [270227-goldrush.json](./270227-goldrush.json) |
 | Goldrush | 314035 | [314035-goldrush.json](./314035-goldrush.json) |
 | Goldrush Coin Falls | 232289 | [232289-goldrush-coin-falls.json](./232289-goldrush-coin-falls.json) |
 | Goldrushers | 63723 | [63723-goldrushers.json](./63723-goldrushers.json) |
@@ -6906,6 +6908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandslam Gamer Gold Collection | 379589 | [379589-grandslam-gamer-gold-collection.json](./379589-grandslam-gamer-gold-collection.json) |
 | Grandslam: The Tennis Tournament | 81410 | [81410-grandslam-the-tennis-tournament.json](./81410-grandslam-the-tennis-tournament.json) |
 | Grandzenka | 208972 | [208972-grandzenka.json](./208972-grandzenka.json) |
+| Granew-Tou! Daibouken | 269940 | [269940-granew-tou-daibouken.json](./269940-granew-tou-daibouken.json) |
 | Grange Hill | 37299 | [37299-grange-hill.json](./37299-grange-hill.json) |
 | Granhistoria: Genshi Sekaiki | 38223 | [38223-granhistoria-genshi-sekaiki.json](./38223-granhistoria-genshi-sekaiki.json) |
 | Granite Casket | 278902 | [278902-granite-casket.json](./278902-granite-casket.json) |
