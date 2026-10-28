@@ -5198,6 +5198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Legs | 301002 | [301002-little-legs.json](./301002-little-legs.json) |
 | Little Leonardo | 395715 | [395715-little-leonardo.json](./395715-little-leonardo.json) |
 | Little Library | 333951 | [333951-little-library.json](./333951-little-library.json) |
+| Little Licence | 239248 | [239248-little-licence.json](./239248-little-licence.json) |
 | Little Life: Island Tales | 308895 | [308895-little-life-island-tales.json](./308895-little-life-island-tales.json) |
 | Little Lighthouse of Horror | 329694 | [329694-little-lighthouse-of-horror.json](./329694-little-lighthouse-of-horror.json) |
 | Little Lights Remains TD | 374883 | [374883-little-lights-remains-td.json](./374883-little-lights-remains-td.json) |
@@ -6433,6 +6434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Archer | 364648 | [364648-loop-archer.json](./364648-loop-archer.json) |
 | Loop Chain | 234494 | [234494-loop-chain.json](./234494-loop-chain.json) |
 | Loop Craft | 116090 | [116090-loop-craft.json](./116090-loop-craft.json) |
+| Loop Drive | 239249 | [239249-loop-drive.json](./239249-loop-drive.json) |
 | Loop Dungeon | 248321 | [248321-loop-dungeon.json](./248321-loop-dungeon.json) |
 | Loop Eraser | 92109 | [92109-loop-eraser.json](./92109-loop-eraser.json) |
 | Loop Firefighters | 388362 | [388362-loop-firefighters.json](./388362-loop-firefighters.json) |
