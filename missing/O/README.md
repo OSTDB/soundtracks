@@ -1065,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh...Sir!! The Insult Simulator | 25577 | [25577-oh-sir-the-insult-simulator.json](./25577-oh-sir-the-insult-simulator.json) |
 | Oh's Talk English | 269517 | [269517-ohs-talk-english.json](./269517-ohs-talk-english.json) |
 | Oha Star Produce! Gentei Collabo Game Disc!! | 268377 | [268377-oha-star-produce-gentei-collabo-game-disc.json](./268377-oha-star-produce-gentei-collabo-game-disc.json) |
+| Oha Suta Dance Dance Revolution | 245658 | [245658-oha-suta-dance-dance-revolution.json](./245658-oha-suta-dance-dance-revolution.json) |
 | Oha Suta Dance Dance Revolution GB | 246126 | [246126-oha-suta-dance-dance-revolution-gb.json](./246126-oha-suta-dance-dance-revolution-gb.json) |
 | Oha Suta: Yama-chan & Raymond | 228627 | [228627-oha-suta-yama-chan-and-raymond.json](./228627-oha-suta-yama-chan-and-raymond.json) |
 | Ohanabatake no Flore | 332418 | [332418-ohanabatake-no-flore.json](./332418-ohanabatake-no-flore.json) |
@@ -2912,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Up, Michael! | 414403 | [414403-open-up-michael.json](./414403-open-up-michael.json) |
 | Open Up! | 220559 | [220559-open-up.json](./220559-open-up.json) |
 | Open Wheel Manager | 117611 | [117611-open-wheel-manager.json](./117611-open-wheel-manager.json) |
+| Open Wheel Manager 2 | 244433 | [244433-open-wheel-manager-2.json](./244433-open-wheel-manager-2.json) |
 | Open World Foreva | 152772 | [152772-open-world-foreva.json](./152772-open-world-foreva.json) |
 | Open World Game: The Open World Game | 130270 | [130270-open-world-game-the-open-world-game.json](./130270-open-world-game-the-open-world-game.json) |
 | Open World Game: The Open World Game - The Gratuitous DLC | 133919 | [133919-open-world-game-the-open-world-game-the-gratuitous-dlc.json](./133919-open-world-game-the-open-world-game-the-gratuitous-dlc.json) |
@@ -4286,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out in Space Bundle: Tin Can & Orbit.Industries | 266246 | [266246-out-in-space-bundle-tin-can-and-orbit-industries.json](./266246-out-in-space-bundle-tin-can-and-orbit-industries.json) |
 | Out Live: Be Eliminate Yesterday | 176718 | [176718-out-live-be-eliminate-yesterday.json](./176718-out-live-be-eliminate-yesterday.json) |
 | Out Live: It's Far a Future on Planet | 37666 | [37666-out-live-its-far-a-future-on-planet.json](./37666-out-live-its-far-a-future-on-planet.json) |
+| Out of Action | 246027 | [246027-out-of-action.json](./246027-out-of-action.json) |
 | Out of Ammo | 177536 | [177536-out-of-ammo.json](./177536-out-of-ammo.json) |
 | Out of Ammo | 23990 | [23990-out-of-ammo.json](./23990-out-of-ammo.json) |
 | Out of Ammo: Death Drive | 54823 | [54823-out-of-ammo-death-drive.json](./54823-out-of-ammo-death-drive.json) |
