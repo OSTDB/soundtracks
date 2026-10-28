@@ -9136,6 +9136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Falls: Galaxy Bound Curse | 307178 | [307178-silver-falls-galaxy-bound-curse.json](./307178-silver-falls-galaxy-bound-curse.json) |
 | Silver Falls: Ghoul Busters | 208583 | [208583-silver-falls-ghoul-busters.json](./208583-silver-falls-ghoul-busters.json) |
 | Silver Falls: Guardians And Metal Exterminators S | 283722 | [283722-silver-falls-guardians-and-metal-exterminators-s.json](./283722-silver-falls-guardians-and-metal-exterminators-s.json) |
+| Silver Falls: White Inside Its Umbra | 278009 | [278009-silver-falls-white-inside-its-umbra.json](./278009-silver-falls-white-inside-its-umbra.json) |
 | Silver Flash: Pinball 1 | 70809 | [70809-silver-flash-pinball-1.json](./70809-silver-flash-pinball-1.json) |
 | Silver Gene: The Mutia Chronicle 1 | 308414 | [308414-silver-gene-the-mutia-chronicle-1.json](./308414-silver-gene-the-mutia-chronicle-1.json) |
 | Silver Ghost | 62581 | [62581-silver-ghost.json](./62581-silver-ghost.json) |
@@ -10068,6 +10069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixtar Gate: Startrail - Oshiribeat Pack | 284913 | [284913-sixtar-gate-startrail-oshiribeat-pack.json](./284913-sixtar-gate-startrail-oshiribeat-pack.json) |
 | Sixtar Gate: Startrail - Sixtartales | 297315 | [297315-sixtar-gate-startrail-sixtartales.json](./297315-sixtar-gate-startrail-sixtartales.json) |
 | Sixtar Gate: Startrail - Yomoha's Planet | 274638 | [274638-sixtar-gate-startrail-yomohas-planet.json](./274638-sixtar-gate-startrail-yomohas-planet.json) |
+| Sixtar Gate: Startrail x Wacca Collaboration Pack | 277992 | [277992-sixtar-gate-startrail-x-wacca-collaboration-pack.json](./277992-sixtar-gate-startrail-x-wacca-collaboration-pack.json) |
 | Sixteen | 193213 | [193213-sixteen.json](./193213-sixteen.json) |
 | Sixteen | 70856 | [70856-sixteen.json](./70856-sixteen.json) |
 | Sixteen Undead | 340368 | [340368-sixteen-undead.json](./340368-sixteen-undead.json) |
@@ -15941,6 +15943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Unleashed | 213335 | [213335-soul-unleashed.json](./213335-soul-unleashed.json) |
 | Soul Void Redux | 312222 | [312222-soul-void-redux.json](./312222-soul-void-redux.json) |
 | Soul War | 262889 | [262889-soul-war.json](./262889-soul-war.json) |
+| Soul Warden | 277990 | [277990-soul-warden.json](./277990-soul-warden.json) |
 | Soul Warden Professional Academy | 288829 | [288829-soul-warden-professional-academy.json](./288829-soul-warden-professional-academy.json) |
 | Soul Warrior Battle | 231432 | [231432-soul-warrior-battle.json](./231432-soul-warrior-battle.json) |
 | Soul Wars | 112228 | [112228-soul-wars.json](./112228-soul-wars.json) |
@@ -24549,6 +24552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuart Little: Big City Adventures | 208356 | [208356-stuart-little-big-city-adventures.json](./208356-stuart-little-big-city-adventures.json) |
 | Stuart Little: His Adventures in Numberland | 208357 | [208357-stuart-little-his-adventures-in-numberland.json](./208357-stuart-little-his-adventures-in-numberland.json) |
 | Stuart Little: The Journey Home | 49884 | [49884-stuart-little-the-journey-home.json](./49884-stuart-little-the-journey-home.json) |
+| Stub Game | 277700 | [277700-stub-game.json](./277700-stub-game.json) |
 | Stubborn Shibas | 382408 | [382408-stubborn-shibas.json](./382408-stubborn-shibas.json) |
 | Stubbs the Zombie in Rebel Without a Pulse | 79 | [79-stubbs-the-zombie-in-rebel-without-a-pulse.json](./79-stubbs-the-zombie-in-rebel-without-a-pulse.json) |
 | Stuck at Home | 71004 | [71004-stuck-at-home.json](./71004-stuck-at-home.json) |
@@ -25004,6 +25008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Sessions: Mami Mamiya's Sweet Slice of Hell | 371233 | [371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json](./371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json) |
 | Succubus Sexy Devils | 345111 | [345111-succubus-sexy-devils.json](./345111-succubus-sexy-devils.json) |
 | Succubus Shop | 185414 | [185414-succubus-shop.json](./185414-succubus-shop.json) |
+| Succubus Simulator | 277684 | [277684-succubus-simulator.json](./277684-succubus-simulator.json) |
 | Succubus Successor: Delilah's Juicy Journey | 406898 | [406898-succubus-successor-delilahs-juicy-journey.json](./406898-succubus-successor-delilahs-juicy-journey.json) |
 | Succubus Temptation | 416377 | [416377-succubus-temptation.json](./416377-succubus-temptation.json) |
 | Succubus Throne | 385254 | [385254-succubus-throne.json](./385254-succubus-throne.json) |
