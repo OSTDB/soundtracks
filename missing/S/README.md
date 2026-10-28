@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope - Enhanced Edition | 412582 | [412582-s-n-i-p-e-r-hunter-scope-enhanced-edition.json](./412582-s-n-i-p-e-r-hunter-scope-enhanced-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Enhancement Edition | 404284 | [404284-s-n-i-p-e-r-hunter-scope-enhancement-edition.json](./404284-s-n-i-p-e-r-hunter-scope-enhancement-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Full Edition | 333723 | [333723-s-n-i-p-e-r-hunter-scope-full-edition.json](./333723-s-n-i-p-e-r-hunter-scope-full-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope - Gold Edition | 254639 | [254639-s-n-i-p-e-r-hunter-scope-gold-edition.json](./254639-s-n-i-p-e-r-hunter-scope-gold-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - GOTY Edition | 283164 | [283164-s-n-i-p-e-r-hunter-scope-goty-edition.json](./283164-s-n-i-p-e-r-hunter-scope-goty-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Grand Edition | 315856 | [315856-s-n-i-p-e-r-hunter-scope-grand-edition.json](./315856-s-n-i-p-e-r-hunter-scope-grand-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Mega Edition | 317241 | [317241-s-n-i-p-e-r-hunter-scope-mega-edition.json](./317241-s-n-i-p-e-r-hunter-scope-mega-edition.json) |
@@ -16761,6 +16762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Frontier | 386380 | [386380-space-frontier.json](./386380-space-frontier.json) |
 | Space Frontier 2 | 101163 | [101163-space-frontier-2.json](./101163-space-frontier-2.json) |
 | Space Fun | 222966 | [222966-space-fun.json](./222966-space-fun.json) |
+| Space Funeral 2 | 254706 | [254706-space-funeral-2.json](./254706-space-funeral-2.json) |
 | Space Funeral 2: of Rubies and Gold II - From Shadows We Rise | 360744 | [360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json](./360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json) |
 | Space Funeral 3: The Legend of Earth Birth | 127145 | [127145-space-funeral-3-the-legend-of-earth-birth.json](./127145-space-funeral-3-the-legend-of-earth-birth.json) |
 | Space Funeral: Of Rubies and Gold | 360743 | [360743-space-funeral-of-rubies-and-gold.json](./360743-space-funeral-of-rubies-and-gold.json) |
@@ -25565,6 +25567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide Guy: Deluxe Edition | 153229 | [153229-suicide-guy-deluxe-edition.json](./153229-suicide-guy-deluxe-edition.json) |
 | Suicide Guy: Deluxe Plus | 200978 | [200978-suicide-guy-deluxe-plus.json](./200978-suicide-guy-deluxe-plus.json) |
 | Suicide Guy: Sleepin' Deeply | 102917 | [102917-suicide-guy-sleepin-deeply.json](./102917-suicide-guy-sleepin-deeply.json) |
+| Suicide Guy: The Lost Dreams | 254640 | [254640-suicide-guy-the-lost-dreams.json](./254640-suicide-guy-the-lost-dreams.json) |
 | Suicide Hero | 244279 | [244279-suicide-hero.json](./244279-suicide-hero.json) |
 | Suicide Mission | 18566 | [18566-suicide-mission.json](./18566-suicide-mission.json) |
 | Suicide Run | 60054 | [60054-suicide-run.json](./60054-suicide-run.json) |
