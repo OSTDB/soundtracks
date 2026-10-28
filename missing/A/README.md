@@ -3113,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Mosaics: Brazilian Carnival | 338700 | [338700-adventure-mosaics-brazilian-carnival.json](./338700-adventure-mosaics-brazilian-carnival.json) |
 | Adventure Mosaics: Forest Spirits | 123865 | [123865-adventure-mosaics-forest-spirits.json](./123865-adventure-mosaics-forest-spirits.json) |
 | Adventure Mosaics: Land of the Rising Sun | 378338 | [378338-adventure-mosaics-land-of-the-rising-sun.json](./378338-adventure-mosaics-land-of-the-rising-sun.json) |
+| Adventure Mosaics: Lost Expedition | 231193 | [231193-adventure-mosaics-lost-expedition.json](./231193-adventure-mosaics-lost-expedition.json) |
 | Adventure Mosaics: Moto-Trip | 196155 | [196155-adventure-mosaics-moto-trip.json](./196155-adventure-mosaics-moto-trip.json) |
 | Adventure Mosaics: Moto-Trip Africa | 294202 | [294202-adventure-mosaics-moto-trip-africa.json](./294202-adventure-mosaics-moto-trip-africa.json) |
 | Adventure Mosaics: Small Islanders | 157932 | [157932-adventure-mosaics-small-islanders.json](./157932-adventure-mosaics-small-islanders.json) |
@@ -3200,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Value Pack #4 | 81153 | [81153-adventure-value-pack-4.json](./81153-adventure-value-pack-4.json) |
 | Adventure War: Battlefield | 156878 | [156878-adventure-war-battlefield.json](./156878-adventure-war-battlefield.json) |
 | Adventure with Firefly | 220545 | [220545-adventure-with-firefly.json](./220545-adventure-with-firefly.json) |
+| Adventure with the Goddess | 231195 | [231195-adventure-with-the-goddess.json](./231195-adventure-with-the-goddess.json) |
 | Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
 | Adventure Workshop 4th-6th Grade 5th Edition | 72114 | [72114-adventure-workshop-4th-6th-grade-5th-edition.json](./72114-adventure-workshop-4th-6th-grade-5th-edition.json) |
 | Adventure World | 32772 | [32772-adventure-world.json](./32772-adventure-world.json) |
@@ -3283,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Pipi | 75208 | [75208-adventures-of-pipi.json](./75208-adventures-of-pipi.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
 | Adventures of Quin85 | 209629 | [209629-adventures-of-quin85.json](./209629-adventures-of-quin85.json) |
+| Adventures of Red and Carmine | 231194 | [231194-adventures-of-red-and-carmine.json](./231194-adventures-of-red-and-carmine.json) |
 | Adventures of Robbo | 401869 | [401869-adventures-of-robbo.json](./401869-adventures-of-robbo.json) |
 | Adventures of Robinson Crusoe | 36128 | [36128-adventures-of-robinson-crusoe.json](./36128-adventures-of-robinson-crusoe.json) |
 | Adventures of Ruby Rabbit | 211702 | [211702-adventures-of-ruby-rabbit.json](./211702-adventures-of-ruby-rabbit.json) |
@@ -12751,6 +12754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arts & Hearts Academy | 275098 | [275098-arts-and-hearts-academy.json](./275098-arts-and-hearts-academy.json) |
 | Artsec | 398333 | [398333-artsec.json](./398333-artsec.json) |
 | Artsy Pixel | 212278 | [212278-artsy-pixel.json](./212278-artsy-pixel.json) |
+| Artur's Pinball | 231197 | [231197-arturs-pinball.json](./231197-arturs-pinball.json) |
 | Artus Against the Demon of the Museum | 310663 | [310663-artus-against-the-demon-of-the-museum.json](./310663-artus-against-the-demon-of-the-museum.json) |
 | Aru Kanrinin no Koi: Autumn + Winter | 246942 | [246942-aru-kanrinin-no-koi-autumn-winter.json](./246942-aru-kanrinin-no-koi-autumn-winter.json) |
 | Aru Kanrinin no Koi: Between the Seasons | 246943 | [246943-aru-kanrinin-no-koi-between-the-seasons.json](./246943-aru-kanrinin-no-koi-between-the-seasons.json) |
