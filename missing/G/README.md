@@ -1841,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station Simulator: DLC Pack | 267415 | [267415-gas-station-simulator-dlc-pack.json](./267415-gas-station-simulator-dlc-pack.json) |
 | Gas Station Simulator: Drive & Pumping | 279143 | [279143-gas-station-simulator-drive-and-pumping.json](./279143-gas-station-simulator-drive-and-pumping.json) |
 | Gas Station Simulator: Drive-In Cinema | 331176 | [331176-gas-station-simulator-drive-in-cinema.json](./331176-gas-station-simulator-drive-in-cinema.json) |
+| Gas Station Simulator: Fly me to the moon bundle | 267768 | [267768-gas-station-simulator-fly-me-to-the-moon-bundle.json](./267768-gas-station-simulator-fly-me-to-the-moon-bundle.json) |
 | Gas Station Simulator: RV Camp | 346728 | [346728-gas-station-simulator-rv-camp.json](./346728-gas-station-simulator-rv-camp.json) |
 | Gas Station Simulator: Shady Deals | 202635 | [202635-gas-station-simulator-shady-deals.json](./202635-gas-station-simulator-shady-deals.json) |
 | Gas Station Simulator: Tidal Wave DLC | 267296 | [267296-gas-station-simulator-tidal-wave-dlc.json](./267296-gas-station-simulator-tidal-wave-dlc.json) |
@@ -6809,6 +6810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Chinatown Wars | 3270 | [3270-grand-theft-auto-chinatown-wars.json](./3270-grand-theft-auto-chinatown-wars.json) |
 | Grand Theft Auto: Collector's Edition | 43853 | [43853-grand-theft-auto-collectors-edition.json](./43853-grand-theft-auto-collectors-edition.json) |
 | Grand Theft Auto: Episodes from Liberty City | 7003 | [7003-grand-theft-auto-episodes-from-liberty-city.json](./7003-grand-theft-auto-episodes-from-liberty-city.json) |
+| Grand Theft Auto: Forelli Redemption | 268042 | [268042-grand-theft-auto-forelli-redemption.json](./268042-grand-theft-auto-forelli-redemption.json) |
 | Grand Theft Auto: Frosted Winter | 410239 | [410239-grand-theft-auto-frosted-winter.json](./410239-grand-theft-auto-frosted-winter.json) |
 | Grand Theft Auto: iFruit | 62701 | [62701-grand-theft-auto-ifruit.json](./62701-grand-theft-auto-ifruit.json) |
 | Grand Theft Auto: Kurdi | 281239 | [281239-grand-theft-auto-kurdi.json](./281239-grand-theft-auto-kurdi.json) |
@@ -8856,6 +8858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilded Hearts | 214037 | [214037-guilded-hearts.json](./214037-guilded-hearts.json) |
 | Guilded Youth | 172506 | [172506-guilded-youth.json](./172506-guilded-youth.json) |
 | Guildfire | 423294 | [423294-guildfire.json](./423294-guildfire.json) |
+| Guildford Castle VR | 268043 | [268043-guildford-castle-vr.json](./268043-guildford-castle-vr.json) |
 | Guildlings | 96257 | [96257-guildlings.json](./96257-guildlings.json) |
 | Guildmaker | 405855 | [405855-guildmaker.json](./405855-guildmaker.json) |
 | Guildmaster Story | 115475 | [115475-guildmaster-story.json](./115475-guildmaster-story.json) |
