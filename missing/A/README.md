@@ -2127,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accolade In Action | 93339 | [93339-accolade-in-action.json](./93339-accolade-in-action.json) |
 | Accolade's Comics featuring Steve Keene Thrillseeker | 278299 | [278299-accolades-comics-featuring-steve-keene-thrillseeker.json](./278299-accolades-comics-featuring-steve-keene-thrillseeker.json) |
 | Accolade's Comics featuring Steve Keene Thrillseeker | 37156 | [37156-accolades-comics-featuring-steve-keene-thrillseeker.json](./37156-accolades-comics-featuring-steve-keene-thrillseeker.json) |
+| According to Cain | 261400 | [261400-according-to-cain.json](./261400-according-to-cain.json) |
 | Accordion | 14204 | [14204-accordion.json](./14204-accordion.json) |
 | Accounting | 25251 | [25251-accounting.json](./25251-accounting.json) |
 | Accounting+ | 76881 | [76881-accounting.json](./76881-accounting.json) |
@@ -11348,6 +11349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archipelago | 201184 | [201184-archipelago.json](./201184-archipelago.json) |
 | Archipelago | 301364 | [301364-archipelago.json](./301364-archipelago.json) |
 | Archipelago | 303100 | [303100-archipelago.json](./303100-archipelago.json) |
+| Archipelago Empire | 261409 | [261409-archipelago-empire.json](./261409-archipelago-empire.json) |
 | Archipelago Explorer | 302497 | [302497-archipelago-explorer.json](./302497-archipelago-explorer.json) |
 | Archipelago: A Survival Game | 88455 | [88455-archipelago-a-survival-game.json](./88455-archipelago-a-survival-game.json) |
 | Archipelago: Island Survival | 297787 | [297787-archipelago-island-survival.json](./297787-archipelago-island-survival.json) |
@@ -11465,6 +11467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcuz II: Dungeons | 161153 | [161153-arcuz-ii-dungeons.json](./161153-arcuz-ii-dungeons.json) |
 | Arcy 2 | 18377 | [18377-arcy-2.json](./18377-arcy-2.json) |
 | ARD: Anomalous Research Department | 182264 | [182264-ard-anomalous-research-department.json](./182264-ard-anomalous-research-department.json) |
+| Ardaria | 261405 | [261405-ardaria.json](./261405-ardaria.json) |
 | Ardarium | 168331 | [168331-ardarium.json](./168331-ardarium.json) |
 | Ardein.Fall | 139682 | [139682-ardein-fall.json](./139682-ardein-fall.json) |
 | Ardem | 260389 | [260389-ardem.json](./260389-ardem.json) |
