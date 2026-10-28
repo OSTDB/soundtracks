@@ -5613,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexaMon | 75204 | [75204-hexamon.json](./75204-hexamon.json) |
 | Hexane | 214367 | [214367-hexane.json](./214367-hexane.json) |
 | Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
+| Hexapoda | 244427 | [244427-hexapoda.json](./244427-hexapoda.json) |
 | Hexara | 404530 | [404530-hexara.json](./404530-hexara.json) |
 | Hexarchia | 175932 | [175932-hexarchia.json](./175932-hexarchia.json) |
 | Hexarchy | 139362 | [139362-hexarchy.json](./139362-hexarchy.json) |
