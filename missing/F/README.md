@@ -6339,6 +6339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaming Friday Night | 130168 | [130168-flaming-friday-night.json](./130168-flaming-friday-night.json) |
 | Flaming Thunderer | 232946 | [232946-flaming-thunderer.json](./232946-flaming-thunderer.json) |
 | Flaming/Million | 153319 | [153319-flaming-million.json](./153319-flaming-million.json) |
+| Flamingo Go With Gun | 235914 | [235914-flamingo-go-with-gun.json](./235914-flamingo-go-with-gun.json) |
 | Flamingo Quest | 229635 | [229635-flamingo-quest.json](./229635-flamingo-quest.json) |
 | Flamingo Tours | 70281 | [70281-flamingo-tours.json](./70281-flamingo-tours.json) |
 | Flammenwerfer | 307169 | [307169-flammenwerfer.json](./307169-flammenwerfer.json) |
@@ -9147,6 +9148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Crafter | 369711 | [369711-fortune-crafter.json](./369711-fortune-crafter.json) |
 | Fortune Decker | 270743 | [270743-fortune-decker.json](./270743-fortune-decker.json) |
 | Fortune Factory | 413873 | [413873-fortune-factory.json](./413873-fortune-factory.json) |
+| Fortune Familia | 235917 | [235917-fortune-familia.json](./235917-fortune-familia.json) |
 | Fortune Follow: The Mansion | 243301 | [243301-fortune-follow-the-mansion.json](./243301-fortune-follow-the-mansion.json) |
 | Fortune Fragments | 391788 | [391788-fortune-fragments.json](./391788-fortune-fragments.json) |
 | Fortune Handlers | 235493 | [235493-fortune-handlers.json](./235493-fortune-handlers.json) |
@@ -10821,6 +10823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Abyss | 17266 | [17266-from-the-abyss.json](./17266-from-the-abyss.json) |
 | From the Age of Dinosaurs to the Edo Period: Tokio no Meiro - By Gentaro Kagawa | 396908 | [396908-from-the-age-of-dinosaurs-to-the-edo-period-tokio-no-meiro-by-gentaro-kagawa.json](./396908-from-the-age-of-dinosaurs-to-the-edo-period-tokio-no-meiro-by-gentaro-kagawa.json) |
 | From the Ashes | 224243 | [224243-from-the-ashes.json](./224243-from-the-ashes.json) |
+| From the Bunker | 235921 | [235921-from-the-bunker.json](./235921-from-the-bunker.json) |
 | From the Darkness | 149716 | [149716-from-the-darkness.json](./149716-from-the-darkness.json) |
 | From the Deep | 224240 | [224240-from-the-deep.json](./224240-from-the-deep.json) |
 | From the Deep | 263093 | [263093-from-the-deep.json](./263093-from-the-deep.json) |
