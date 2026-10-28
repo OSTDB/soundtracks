@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Extreme! | 66935 | [66935-offroad-extreme.json](./66935-offroad-extreme.json) |
 | Offroad Extreme!: Special Edition | 50987 | [50987-offroad-extreme-special-edition.json](./50987-offroad-extreme-special-edition.json) |
 | Offroad Heat | 112052 | [112052-offroad-heat.json](./112052-offroad-heat.json) |
+| Offroad Jeep 4x4: Car Driving Simulator | 238135 | [238135-offroad-jeep-4x4-car-driving-simulator.json](./238135-offroad-jeep-4x4-car-driving-simulator.json) |
 | Offroad Jeep Driving | 304329 | [304329-offroad-jeep-driving.json](./304329-offroad-jeep-driving.json) |
 | Offroad Jeep Quest: Mountain Trails | 293363 | [293363-offroad-jeep-quest-mountain-trails.json](./293363-offroad-jeep-quest-mountain-trails.json) |
 | Offroad Legends | 88984 | [88984-offroad-legends.json](./88984-offroad-legends.json) |
@@ -3928,6 +3929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osu! | 3012 | [3012-osu.json](./3012-osu.json) |
 | Osu! Tatakae! Ouendan | 24645 | [24645-osu-tatakae-ouendan.json](./24645-osu-tatakae-ouendan.json) |
 | Osu!! Karate Bu | 38382 | [38382-osu-karate-bu.json](./38382-osu-karate-bu.json) |
+| Osu!Droid | 238105 | [238105-osu-droid.json](./238105-osu-droid.json) |
 | Osu!Lazer | 412517 | [412517-osu-lazer.json](./412517-osu-lazer.json) |
 | Osu!Octave | 202713 | [202713-osu-octave.json](./202713-osu-octave.json) |
 | Oswald | 130892 | [130892-oswald.json](./130892-oswald.json) |
@@ -4089,6 +4091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otonari Koi Sensou! | 194547 | [194547-otonari-koi-sensou.json](./194547-otonari-koi-sensou.json) |
 | Otonari no Kokujin Otto ni Dakarete Nakimodaeru Saiai no Tsuma. Sono Hikikae ni Ajiwau Kokujin Tsuma no Hada. Big Black Cock & Big Black Butt & My Sweet Wife | 82975 | [82975-otonari-no-kokujin-otto-ni-dakarete-nakimodaeru-saiai-no-tsuma-sono-hikikae-ni-ajiwau-kokujin-tsuma-no-hada-big-black-cock-and-big-black-butt-and-my-sweet-wife.json](./82975-otonari-no-kokujin-otto-ni-dakarete-nakimodaeru-saiai-no-tsuma-sono-hikikae-ni-ajiwau-kokujin-tsuma-no-hada-big-black-cock-and-big-black-butt-and-my-sweet-wife.json) |
 | Otonari no Tenshi-sama ni itsu no ma ni ka Dame Ningen ni Sareteita ken: Memorial Vacation | 411387 | [411387-otonari-no-tenshi-sama-ni-itsu-no-ma-ni-ka-dame-ningen-ni-sareteita-ken-memorial-vacation.json](./411387-otonari-no-tenshi-sama-ni-itsu-no-ma-ni-ka-dame-ningen-ni-sareteita-ken-memorial-vacation.json) |
+| Otonari-san | 238111 | [238111-otonari-san.json](./238111-otonari-san.json) |
 | Otoranger | 239595 | [239595-otoranger.json](./239595-otoranger.json) |
 | Otosan | 241366 | [241366-otosan.json](./241366-otosan.json) |
 | Otostaz | 175947 | [175947-otostaz.json](./175947-otostaz.json) |
