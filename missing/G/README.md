@@ -4624,6 +4624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome 2048 | 122775 | [122775-gnome-2048.json](./122775-gnome-2048.json) |
 | Gnome Aisleriot | 122783 | [122783-gnome-aisleriot.json](./122783-gnome-aisleriot.json) |
 | Gnome Chess | 122754 | [122754-gnome-chess.json](./122754-gnome-chess.json) |
+| Gnome Dash: Rise of the Trolls | 233148 | [233148-gnome-dash-rise-of-the-trolls.json](./233148-gnome-dash-rise-of-the-trolls.json) |
 | Gnome Enchanted Jigsaw Puzzles | 257388 | [257388-gnome-enchanted-jigsaw-puzzles.json](./257388-gnome-enchanted-jigsaw-puzzles.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 1 | 257390 | [257390-gnome-enchanted-jigsaw-puzzles-expansion-pack-1.json](./257390-gnome-enchanted-jigsaw-puzzles-expansion-pack-1.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 10 | 260755 | [260755-gnome-enchanted-jigsaw-puzzles-expansion-pack-10.json](./260755-gnome-enchanted-jigsaw-puzzles-expansion-pack-10.json) |
@@ -7418,6 +7419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Lane 981 | 121601 | [121601-gravity-lane-981.json](./121601-gravity-lane-981.json) |
 | Gravity Leo | 108029 | [108029-gravity-leo.json](./108029-gravity-leo.json) |
 | Gravity Light | 102280 | [102280-gravity-light.json](./102280-gravity-light.json) |
+| Gravity Line | 233191 | [233191-gravity-line.json](./233191-gravity-line.json) |
 | Gravity Machine | 294441 | [294441-gravity-machine.json](./294441-gravity-machine.json) |
 | Gravity Magician | 226671 | [226671-gravity-magician.json](./226671-gravity-magician.json) |
 | Gravity Mastery | 144191 | [144191-gravity-mastery.json](./144191-gravity-mastery.json) |
