@@ -2156,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Doggie | 131346 | [131346-farm-doggie.json](./131346-farm-doggie.json) |
 | Farm Dream Village Harvest Sim | 101585 | [101585-farm-dream-village-harvest-sim.json](./101585-farm-dream-village-harvest-sim.json) |
 | Farm Dungeons | 158135 | [158135-farm-dungeons.json](./158135-farm-dungeons.json) |
+| Farm Empire | 240624 | [240624-farm-empire.json](./240624-farm-empire.json) |
 | Farm Expert 2016 | 47040 | [47040-farm-expert-2016.json](./47040-farm-expert-2016.json) |
 | Farm Expert 2016: Farm Machines Pack | 263190 | [263190-farm-expert-2016-farm-machines-pack.json](./263190-farm-expert-2016-farm-machines-pack.json) |
 | Farm Expert 2017 | 25105 | [25105-farm-expert-2017.json](./25105-farm-expert-2017.json) |
@@ -8820,6 +8821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsan El Majd | 316820 | [316820-forsan-el-majd.json](./316820-forsan-el-majd.json) |
 | Forsen's Vacation | 371842 | [371842-forsens-vacation.json](./371842-forsens-vacation.json) |
 | Forsisted: The Sacred Souls | 274569 | [274569-forsisted-the-sacred-souls.json](./274569-forsisted-the-sacred-souls.json) |
+| Forspoken: In Tanta We Trust | 240953 | [240953-forspoken-in-tanta-we-trust.json](./240953-forspoken-in-tanta-we-trust.json) |
 | Forsworn | 334316 | [334316-forsworn.json](./334316-forsworn.json) |
 | Fort | 106499 | [106499-fort.json](./106499-fort.json) |
 | Fort | 120142 | [120142-fort.json](./120142-fort.json) |
@@ -9031,6 +9033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Lava Legends Pack | 227107 | [227107-fortnite-lava-legends-pack.json](./227107-fortnite-lava-legends-pack.json) |
 | Fortnite: Luminary Hypatia Starter Pack | 360188 | [360188-fortnite-luminary-hypatia-starter-pack.json](./360188-fortnite-luminary-hypatia-starter-pack.json) |
 | Fortnite: Magma Masters Pack | 227106 | [227106-fortnite-magma-masters-pack.json](./227106-fortnite-magma-masters-pack.json) |
+| Fortnite: Marvel - Royalty & Warriors | 240949 | [240949-fortnite-marvel-royalty-and-warriors.json](./240949-fortnite-marvel-royalty-and-warriors.json) |
 | Fortnite: May 2024 Fortnite Crew Pack | 303239 | [303239-fortnite-may-2024-fortnite-crew-pack.json](./303239-fortnite-may-2024-fortnite-crew-pack.json) |
 | Fortnite: Minty Legends Pack | 221948 | [221948-fortnite-minty-legends-pack.json](./221948-fortnite-minty-legends-pack.json) |
 | Fortnite: Raptor Royale Pack | 333588 | [333588-fortnite-raptor-royale-pack.json](./333588-fortnite-raptor-royale-pack.json) |
