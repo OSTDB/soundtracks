@@ -1161,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youkai Club | 48598 | [48598-youkai-club.json](./48598-youkai-club.json) |
 | Youkai Dock de Karada no Fuan wo Kaishou shitai Kagiyama Hina-tachi!! | 409332 | [409332-youkai-dock-de-karada-no-fuan-wo-kaishou-shitai-kagiyama-hina-tachi.json](./409332-youkai-dock-de-karada-no-fuan-wo-kaishou-shitai-kagiyama-hina-tachi.json) |
 | Youkai Douchuuki | 48597 | [48597-youkai-douchuuki.json](./48597-youkai-douchuuki.json) |
+| Youkai Hana Asobi | 273748 | [273748-youkai-hana-asobi.json](./273748-youkai-hana-asobi.json) |
 | Youkai Kori Kassen | 291029 | [291029-youkai-kori-kassen.json](./291029-youkai-kori-kassen.json) |
 | YoukaiMaki | 235370 | [235370-youkaimaki.json](./235370-youkaimaki.json) |
 | Youkashi no Haitokuai: Junshin Tenshi ha Dakarete Iromeku | 416596 | [416596-youkashi-no-haitokuai-junshin-tenshi-ha-dakarete-iromeku.json](./416596-youkashi-no-haitokuai-junshin-tenshi-ha-dakarete-iromeku.json) |
