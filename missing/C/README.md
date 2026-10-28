@@ -9233,6 +9233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Rush + Cyber Protocol | 218415 | [218415-clumsy-rush-cyber-protocol.json](./218415-clumsy-rush-cyber-protocol.json) |
 | Clumsy Rush: Ultimate Guys | 212682 | [212682-clumsy-rush-ultimate-guys.json](./212682-clumsy-rush-ultimate-guys.json) |
 | Clumsy Rush: Ultimate Guys - Complete Edition | 232998 | [232998-clumsy-rush-ultimate-guys-complete-edition.json](./232998-clumsy-rush-ultimate-guys-complete-edition.json) |
+| Clumsy Rush: Ultimate Guys - Complete Edition + | 272409 | [272409-clumsy-rush-ultimate-guys-complete-edition.json](./272409-clumsy-rush-ultimate-guys-complete-edition.json) |
 | Clumsy Rush: Ultimate Guys - Decorations Pack 12 | 251665 | [251665-clumsy-rush-ultimate-guys-decorations-pack-12.json](./251665-clumsy-rush-ultimate-guys-decorations-pack-12.json) |
 | Clumsy Rush: Ultimate Guys - Definitive Edition | 231277 | [231277-clumsy-rush-ultimate-guys-definitive-edition.json](./231277-clumsy-rush-ultimate-guys-definitive-edition.json) |
 | Clumsy Rush: Ultimate Guys - Extended Edition | 238064 | [238064-clumsy-rush-ultimate-guys-extended-edition.json](./238064-clumsy-rush-ultimate-guys-extended-edition.json) |
@@ -12490,6 +12491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corid | 416339 | [416339-corid.json](./416339-corid.json) |
 | Coridden | 158972 | [158972-coridden.json](./158972-coridden.json) |
 | Coridden: Deluxe Edition | 380150 | [380150-coridden-deluxe-edition.json](./380150-coridden-deluxe-edition.json) |
+| Corin Tower | 272400 | [272400-corin-tower.json](./272400-corin-tower.json) |
 | Coring | 323684 | [323684-coring.json](./323684-coring.json) |
 | Corinne | 377986 | [377986-corinne.json](./377986-corinne.json) |
 | Cork the Volcano | 132776 | [132776-cork-the-volcano.json](./132776-cork-the-volcano.json) |
