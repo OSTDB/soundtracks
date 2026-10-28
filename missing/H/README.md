@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haley's Story | 393580 | [393580-haleys-story.json](./393580-haleys-story.json) |
 | Half | 178472 | [178472-half.json](./178472-half.json) |
 | Half + Half | 152230 | [152230-half-half.json](./152230-half-half.json) |
+| Half Alive | 264176 | [264176-half-alive.json](./264176-half-alive.json) |
 | Half An Hour | 179990 | [179990-half-an-hour.json](./179990-half-an-hour.json) |
 | Half Away | 322756 | [322756-half-away.json](./322756-half-away.json) |
 | Half Billion: Love Choice | 320281 | [320281-half-billion-love-choice.json](./320281-half-billion-love-choice.json) |
@@ -5530,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexadel | 374921 | [374921-hexadel.json](./374921-hexadel.json) |
 | Hexadrift | 126918 | [126918-hexadrift.json](./126918-hexadrift.json) |
 | Hexaflip | 289295 | [289295-hexaflip.json](./289295-hexaflip.json) |
+| Hexagold | 264157 | [264157-hexagold.json](./264157-hexagold.json) |
 | Hexagolines | 262218 | [262218-hexagolines.json](./262218-hexagolines.json) |
 | Hexagon Defense | 147909 | [147909-hexagon-defense.json](./147909-hexagon-defense.json) |
 | Hexagon Defense | 36965 | [36965-hexagon-defense.json](./36965-hexagon-defense.json) |
