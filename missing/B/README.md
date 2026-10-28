@@ -11384,6 +11384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookworm HD | 354964 | [354964-bookworm-hd.json](./354964-bookworm-hd.json) |
 | Bookworm Wordy Wonder Bundle | 196003 | [196003-bookworm-wordy-wonder-bundle.json](./196003-bookworm-wordy-wonder-bundle.json) |
 | Bookyman | 229061 | [229061-bookyman.json](./229061-bookyman.json) |
+| BookyPets Legends | 239820 | [239820-bookypets-legends.json](./239820-bookypets-legends.json) |
 | Bool | 94627 | [94627-bool.json](./94627-bool.json) |
 | Bool Capture | 347881 | [347881-bool-capture.json](./347881-bool-capture.json) |
 | Boolean | 129217 | [129217-boolean.json](./129217-boolean.json) |
@@ -12566,6 +12567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Cell | 237206 | [237206-brain-cell.json](./237206-brain-cell.json) |
 | Brain Challenge | 7281 | [7281-brain-challenge.json](./7281-brain-challenge.json) |
 | Brain Challenge 2: Think Again! | 67609 | [67609-brain-challenge-2-think-again.json](./67609-brain-challenge-2-think-again.json) |
+| Brain Challenge 3: Think Again! | 239464 | [239464-brain-challenge-3-think-again.json](./239464-brain-challenge-3-think-again.json) |
 | Brain Challenge Deluxe | 44587 | [44587-brain-challenge-deluxe.json](./44587-brain-challenge-deluxe.json) |
 | Brain Champ | 273747 | [273747-brain-champ.json](./273747-brain-champ.json) |
 | Brain Code | 321500 | [321500-brain-code.json](./321500-brain-code.json) |
@@ -14259,6 +14261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble | 88295 | [88295-bubble.json](./88295-bubble.json) |
 | Bubble Attack | 193993 | [193993-bubble-attack.json](./193993-bubble-attack.json) |
 | Bubble Ball! | 276240 | [276240-bubble-ball.json](./276240-bubble-ball.json) |
+| Bubble Bash 2 | 239463 | [239463-bubble-bash-2.json](./239463-bubble-bash-2.json) |
 | Bubble Bath Babes | 48677 | [48677-bubble-bath-babes.json](./48677-bubble-bath-babes.json) |
 | Bubble Battle | 333378 | [333378-bubble-battle.json](./333378-bubble-battle.json) |
 | Bubble Battle Blast 3D | 333051 | [333051-bubble-battle-blast-3d.json](./333051-bubble-battle-blast-3d.json) |
