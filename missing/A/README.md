@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Book 3D: Learn English | 377423 | [377423-abc-book-3d-learn-english.json](./377423-abc-book-3d-learn-english.json) |
 | ABC Coloring Town | 32556 | [32556-abc-coloring-town.json](./32556-abc-coloring-town.json) |
 | ABC Flappy | 188838 | [188838-abc-flappy.json](./188838-abc-flappy.json) |
+| ABC Follow Me: Food Festival | 231039 | [231039-abc-follow-me-food-festival.json](./231039-abc-follow-me-food-festival.json) |
 | ABC Hide and Seek | 351424 | [351424-abc-hide-and-seek.json](./351424-abc-hide-and-seek.json) |
 | ABC Hunt | 74977 | [74977-abc-hunt.json](./74977-abc-hunt.json) |
 | ABC Match with Me | 193300 | [193300-abc-match-with-me.json](./193300-abc-match-with-me.json) |
@@ -2077,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA NeoGeo Selection Vol. 9 | 376474 | [376474-aca-neogeo-selection-vol-9.json](./376474-aca-neogeo-selection-vol-9.json) |
 | ACA2 Neo Geo: The King of Fighters '98 | 333539 | [333539-aca2-neo-geo-the-king-of-fighters-98.json](./333539-aca2-neo-geo-the-king-of-fighters-98.json) |
 | Acacia Project | 188382 | [188382-acacia-project.json](./188382-acacia-project.json) |
+| Academia do Saber | 230672 | [230672-academia-do-saber.json](./230672-academia-do-saber.json) |
 | Academia Ovivim | 332287 | [332287-academia-ovivim.json](./332287-academia-ovivim.json) |
 | Academia: School Simulator | 55689 | [55689-academia-school-simulator.json](./55689-academia-school-simulator.json) |
 | Academy | 76161 | [76161-academy.json](./76161-academy.json) |
@@ -7863,6 +7865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anachron | 377084 | [377084-anachron.json](./377084-anachron.json) |
 | Anachronic | 265576 | [265576-anachronic.json](./265576-anachronic.json) |
 | Anachronism\> | 151304 | [151304-anachronism.json](./151304-anachronism.json) |
+| Anaconda | 230673 | [230673-anaconda.json](./230673-anaconda.json) |
 | Anacreon: Imperial Conquest in the Far Future | 57582 | [57582-anacreon-imperial-conquest-in-the-far-future.json](./57582-anacreon-imperial-conquest-in-the-far-future.json) |
 | Anacreon: Reconstruction 4021 | 74083 | [74083-anacreon-reconstruction-4021.json](./74083-anacreon-reconstruction-4021.json) |
 | Anagramarama | 390701 | [390701-anagramarama.json](./390701-anagramarama.json) |
@@ -8683,6 +8686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Girls Dating Agency | 388534 | [388534-animal-girls-dating-agency.json](./388534-animal-girls-dating-agency.json) |
 | Animal God | 359543 | [359543-animal-god.json](./359543-animal-god.json) |
 | Animal Gods | 13191 | [13191-animal-gods.json](./13191-animal-gods.json) |
+| Animal Golf: Battle Race | 231037 | [231037-animal-golf-battle-race.json](./231037-animal-golf-battle-race.json) |
 | Animal Hearts: A Card Quest | 373754 | [373754-animal-hearts-a-card-quest.json](./373754-animal-hearts-a-card-quest.json) |
 | Animal Hospital | 270311 | [270311-animal-hospital.json](./270311-animal-hospital.json) |
 | Animal Hospital | 84754 | [84754-animal-hospital.json](./84754-animal-hospital.json) |
@@ -10458,6 +10462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquatic Rampage | 152348 | [152348-aquatic-rampage.json](./152348-aquatic-rampage.json) |
 | Aquatic Store Simulator | 321547 | [321547-aquatic-store-simulator.json](./321547-aquatic-store-simulator.json) |
 | Aquatico | 199129 | [199129-aquatico.json](./199129-aquatico.json) |
+| Aquatico: Founder's Pack | 231002 | [231002-aquatico-founders-pack.json](./231002-aquatico-founders-pack.json) |
 | Aquatics Hentai Babes | 157717 | [157717-aquatics-hentai-babes.json](./157717-aquatics-hentai-babes.json) |
 | Aquatopia | 44601 | [44601-aquatopia.json](./44601-aquatopia.json) |
 | Aquatron | 172456 | [172456-aquatron.json](./172456-aquatron.json) |
