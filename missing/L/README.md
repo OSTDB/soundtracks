@@ -3204,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Get Fit | 194405 | [194405-lets-get-fit.json](./194405-lets-get-fit.json) |
 | Let's Get Fit at Midnight, Shall We? | 296931 | [296931-lets-get-fit-at-midnight-shall-we.json](./296931-lets-get-fit-at-midnight-shall-we.json) |
 | Let's Get Grillin' | 342293 | [342293-lets-get-grillin.json](./342293-lets-get-grillin.json) |
+| Let's Get Happy Ending Project Chapter 1 Yume Nikki Time to Wake Up | 229488 | [229488-lets-get-happy-ending-project-chapter-1-yume-nikki-time-to-wake-up.json](./229488-lets-get-happy-ending-project-chapter-1-yume-nikki-time-to-wake-up.json) |
 | Let's Get Rich | 112316 | [112316-lets-get-rich.json](./112316-lets-get-rich.json) |
 | Let's Go | 246466 | [246466-lets-go.json](./246466-lets-go.json) |
 | Let's Go Bassfishing! | 282681 | [282681-lets-go-bassfishing.json](./282681-lets-go-bassfishing.json) |
