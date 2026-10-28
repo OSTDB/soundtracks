@@ -4135,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eric's All-in-1 Solitaire | 86728 | [86728-erics-all-in-1-solitaire.json](./86728-erics-all-in-1-solitaire.json) |
 | Eric's Klondike Solitaire Pack | 95675 | [95675-erics-klondike-solitaire-pack.json](./95675-erics-klondike-solitaire-pack.json) |
 | Eric's Ultimate Solitaire | 170342 | [170342-erics-ultimate-solitaire.json](./170342-erics-ultimate-solitaire.json) |
+| Ericanskinsmonsters | 277444 | [277444-ericanskinsmonsters.json](./277444-ericanskinsmonsters.json) |
 | Erich Sann | 227248 | [227248-erich-sann.json](./227248-erich-sann.json) |
 | Erick Golden | 335713 | [335713-erick-golden.json](./335713-erick-golden.json) |
 | Eridle. | 421180 | [421180-eridle.json](./421180-eridle.json) |
@@ -5297,6 +5298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity Warriors II | 38501 | [38501-eternity-warriors-ii.json](./38501-eternity-warriors-ii.json) |
 | Eternity Warriors VR | 54652 | [54652-eternity-warriors-vr.json](./54652-eternity-warriors-vr.json) |
 | Eternity: Farfalla the Holy sword | 105812 | [105812-eternity-farfalla-the-holy-sword.json](./105812-eternity-farfalla-the-holy-sword.json) |
+| Eternity's Echo: Patient Zero | 277453 | [277453-eternitys-echo-patient-zero.json](./277453-eternitys-echo-patient-zero.json) |
 | Eternium: Mage and Minions | 193967 | [193967-eternium-mage-and-minions.json](./193967-eternium-mage-and-minions.json) |
 | Eternum | 209628 | [209628-eternum.json](./209628-eternum.json) |
 | Eterspire | 143526 | [143526-eterspire.json](./143526-eterspire.json) |
