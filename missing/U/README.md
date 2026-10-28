@@ -1481,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the War | 104144 | [104144-under-the-war.json](./104144-under-the-war.json) |
 | Under the Warehouse | 195605 | [195605-under-the-warehouse.json](./195605-under-the-warehouse.json) |
 | Under the Water | 174105 | [174105-under-the-water.json](./174105-under-the-water.json) |
+| Under the Water Depths | 255488 | [255488-under-the-water-depths.json](./255488-under-the-water-depths.json) |
 | Under the Weather | 145925 | [145925-under-the-weather.json](./145925-under-the-weather.json) |
 | Under The Whisper | 293589 | [293589-under-the-whisper.json](./293589-under-the-whisper.json) |
 | Under the Witch: Beginnings | 267365 | [267365-under-the-witch-beginnings.json](./267365-under-the-witch-beginnings.json) |
