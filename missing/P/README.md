@@ -2514,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Clicks | 341967 | [341967-path-of-clicks.json](./341967-path-of-clicks.json) |
 | Path of Colors | 243762 | [243762-path-of-colors.json](./243762-path-of-colors.json) |
 | Path of Destruction | 195773 | [195773-path-of-destruction.json](./195773-path-of-destruction.json) |
+| Path of Disdain | 249822 | [249822-path-of-disdain.json](./249822-path-of-disdain.json) |
 | Path of Dragoon | 275127 | [275127-path-of-dragoon.json](./275127-path-of-dragoon.json) |
 | Path of Evil: Immortal Hunter | 174758 | [174758-path-of-evil-immortal-hunter.json](./174758-path-of-evil-immortal-hunter.json) |
 | Path of Exile 2 | 125642 | [125642-path-of-exile-2.json](./125642-path-of-exile-2.json) |
@@ -4923,6 +4924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phonics-Diagraphsgame | 96535 | [96535-phonics-diagraphsgame.json](./96535-phonics-diagraphsgame.json) |
 | Phonics-Letter Sound flashcards | 102646 | [102646-phonics-letter-sound-flashcards.json](./102646-phonics-letter-sound-flashcards.json) |
 | Phoning Home | 27116 | [27116-phoning-home.json](./27116-phoning-home.json) |
+| Phonk Cats | 250747 | [250747-phonk-cats.json](./250747-phonk-cats.json) |
 | Phonkside Killers | 389000 | [389000-phonkside-killers.json](./389000-phonkside-killers.json) |
 | Phonopolis | 204549 | [204549-phonopolis.json](./204549-phonopolis.json) |
 | Phoots and the Pineapple Throne | 304015 | [304015-phoots-and-the-pineapple-throne.json](./304015-phoots-and-the-pineapple-throne.json) |
@@ -5373,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piczle Cross: Rune Factory | 330033 | [330033-piczle-cross-rune-factory.json](./330033-piczle-cross-rune-factory.json) |
 | Piczle Cross: Story of Seasons | 280465 | [280465-piczle-cross-story-of-seasons.json](./280465-piczle-cross-story-of-seasons.json) |
 | Piczle Lines | 69524 | [69524-piczle-lines.json](./69524-piczle-lines.json) |
+| Piczle Lines 2: Flora & Fauna | 249587 | [249587-piczle-lines-2-flora-and-fauna.json](./249587-piczle-lines-2-flora-and-fauna.json) |
 | Piczle Lines 2: Into the Puzzleverse | 237363 | [237363-piczle-lines-2-into-the-puzzleverse.json](./237363-piczle-lines-2-into-the-puzzleverse.json) |
 | Piczle Lines DX | 28493 | [28493-piczle-lines-dx.json](./28493-piczle-lines-dx.json) |
 | Piczle Lines DX 500 More Puzzles! | 106351 | [106351-piczle-lines-dx-500-more-puzzles.json](./106351-piczle-lines-dx-500-more-puzzles.json) |
@@ -6121,6 +6124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Strike Arcade Rampage | 377720 | [377720-pinball-strike-arcade-rampage.json](./377720-pinball-strike-arcade-rampage.json) |
 | Pinball Tristan | 261855 | [261855-pinball-tristan.json](./261855-pinball-tristan.json) |
 | Pinball Tycoon | 64477 | [64477-pinball-tycoon.json](./64477-pinball-tycoon.json) |
+| Pinball vs. Solitaire | 250559 | [250559-pinball-vs-solitaire.json](./250559-pinball-vs-solitaire.json) |
 | Pinball Wicked | 43121 | [43121-pinball-wicked.json](./43121-pinball-wicked.json) |
 | Pinball Wizard | 12959 | [12959-pinball-wizard.json](./12959-pinball-wizard.json) |
 | Pinball Wizard | 260830 | [260830-pinball-wizard.json](./260830-pinball-wizard.json) |
@@ -8709,6 +8713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber | 343771 | [343771-plumber.json](./343771-plumber.json) |
 | Plumber 3 | 168113 | [168113-plumber-3.json](./168113-plumber-3.json) |
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
+| Plumber Bundle 3 in 1 | 251122 | [251122-plumber-bundle-3-in-1.json](./251122-plumber-bundle-3-in-1.json) |
 | Plumber Game: Water Pipe Line Connecting | 96002 | [96002-plumber-game-water-pipe-line-connecting.json](./96002-plumber-game-water-pipe-line-connecting.json) |
 | Plumber Hero | 192079 | [192079-plumber-hero.json](./192079-plumber-hero.json) |
 | Plumber No More | 184109 | [184109-plumber-no-more.json](./184109-plumber-no-more.json) |
@@ -10208,6 +10213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polda 5 | 64590 | [64590-polda-5.json](./64590-polda-5.json) |
 | Polda 7 | 205730 | [205730-polda-7.json](./205730-polda-7.json) |
 | Polders | 388320 | [388320-polders.json](./388320-polders.json) |
+| Pole Chudes 2015 | 251143 | [251143-pole-chudes-2015.json](./251143-pole-chudes-2015.json) |
 | Pole Chudes: Capital Show | 194912 | [194912-pole-chudes-capital-show.json](./194912-pole-chudes-capital-show.json) |
 | Pole Dancers XXX | 249041 | [249041-pole-dancers-xxx.json](./249041-pole-dancers-xxx.json) |
 | Pole of Cold | 149339 | [149339-pole-of-cold.json](./149339-pole-of-cold.json) |
@@ -12134,6 +12140,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presence | 170989 | [170989-presence.json](./170989-presence.json) |
 | Presence | 212226 | [212226-presence.json](./212226-presence.json) |
 | Presence | 253339 | [253339-presence.json](./253339-presence.json) |
+| Presences: Dark Awakening | 250404 | [250404-presences-dark-awakening.json](./250404-presences-dark-awakening.json) |
+| Presences: Dark Awakening | 250549 | [250549-presences-dark-awakening.json](./250549-presences-dark-awakening.json) |
 | Present | 77268 | [77268-present.json](./77268-present.json) |
 | Present For You | 64374 | [64374-present-for-you.json](./64374-present-for-you.json) |
 | Present Memories: A Vox Akuma Fangame | 198338 | [198338-present-memories-a-vox-akuma-fangame.json](./198338-present-memories-a-vox-akuma-fangame.json) |
@@ -13490,6 +13498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Battlefield | 342655 | [342655-project-battlefield.json](./342655-project-battlefield.json) |
 | Project BBQ | 126288 | [126288-project-bbq.json](./126288-project-bbq.json) |
 | Project Beauty | 72777 | [72777-project-beauty.json](./72777-project-beauty.json) |
+| Project Beksinski | 251137 | [251137-project-beksinski.json](./251137-project-beksinski.json) |
 | Project Bengal | 341555 | [341555-project-bengal.json](./341555-project-bengal.json) |
 | Project Black Sun | 54280 | [54280-project-black-sun.json](./54280-project-black-sun.json) |
 | Project Blari | 150948 | [150948-project-blari.json](./150948-project-blari.json) |
@@ -13711,6 +13720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hoyrá | 253403 | [253403-project-hoyra.json](./253403-project-hoyra.json) |
 | Project Hunt | 253516 | [253516-project-hunt.json](./253516-project-hunt.json) |
 | Project Hybrid | 269223 | [269223-project-hybrid.json](./269223-project-hybrid.json) |
+| Project Hypnagogia | 250405 | [250405-project-hypnagogia.json](./250405-project-hypnagogia.json) |
 | Project Hyrax: Beyond Time | 197728 | [197728-project-hyrax-beyond-time.json](./197728-project-hyrax-beyond-time.json) |
 | Project I | 274579 | [274579-project-i.json](./274579-project-i.json) |
 | Project I.G.I. Origins (working title) | 131435 | [131435-project-i-g-i-origins-working-title.json](./131435-project-i-g-i-origins-working-title.json) |
