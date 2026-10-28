@@ -994,7 +994,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamble Life | 416631 | [416631-gamble-life.json](./416631-gamble-life.json) |
 | Gamble Scramble | 107555 | [107555-gamble-scramble.json](./107555-gamble-scramble.json) |
 | Gamble Tower | 172398 | [172398-gamble-tower.json](./172398-gamble-tower.json) |
-| Gamble With Your Friends | 361027 | [361027-gamble-with-your-friends.json](./361027-gamble-with-your-friends.json) |
 | Gamble Your Breath | 415756 | [415756-gamble-your-breath.json](./415756-gamble-your-breath.json) |
 | Gamble: Hard Exit | 389481 | [389481-gamble-hard-exit.json](./389481-gamble-hard-exit.json) |
 | Gamblemancer TD | 280101 | [280101-gamblemancer-td.json](./280101-gamblemancer-td.json) |
@@ -3084,7 +3083,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get to the Gate | 235692 | [235692-get-to-the-gate.json](./235692-get-to-the-gate.json) |
 | Get to the Top 2: Breakthrough Gaming Arcade | 200726 | [200726-get-to-the-top-2-breakthrough-gaming-arcade.json](./200726-get-to-the-top-2-breakthrough-gaming-arcade.json) |
 | Get to the Top Although There Is No Top!! | 286572 | [286572-get-to-the-top-although-there-is-no-top.json](./286572-get-to-the-top-although-there-is-no-top.json) |
-| Get to Work | 322280 | [322280-get-to-work.json](./322280-get-to-work.json) |
 | Get to Work, Succubus-Chan! | 169356 | [169356-get-to-work-succubus-chan.json](./169356-get-to-work-succubus-chan.json) |
 | Get Together | 144126 | [144126-get-together.json](./144126-get-together.json) |
 | Get Up and Dance | 23396 | [23396-get-up-and-dance.json](./23396-get-up-and-dance.json) |
@@ -8896,7 +8894,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars 2: Heart of Thorns - Deluxe Edition | 53067 | [53067-guild-wars-2-heart-of-thorns-deluxe-edition.json](./53067-guild-wars-2-heart-of-thorns-deluxe-edition.json) |
 | Guild Wars 2: Heroic Edition | 53066 | [53066-guild-wars-2-heroic-edition.json](./53066-guild-wars-2-heroic-edition.json) |
 | Guild Wars 2: Janthir Wilds | 304360 | [304360-guild-wars-2-janthir-wilds.json](./304360-guild-wars-2-janthir-wilds.json) |
-| Guild Wars 2: Secrets of the Obscure | 255088 | [255088-guild-wars-2-secrets-of-the-obscure.json](./255088-guild-wars-2-secrets-of-the-obscure.json) |
 | Guild Wars 3 | 404694 | [404694-guild-wars-3.json](./404694-guild-wars-3.json) |
 | Guild Wars Trilogy | 27843 | [27843-guild-wars-trilogy.json](./27843-guild-wars-trilogy.json) |
 | Guild Wars: Bonus Mission Pack | 97103 | [97103-guild-wars-bonus-mission-pack.json](./97103-guild-wars-bonus-mission-pack.json) |
