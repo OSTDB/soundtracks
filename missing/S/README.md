@@ -13132,6 +13132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Bros. | 212657 | [212657-snow-bros.json](./212657-snow-bros.json) |
 | Snow Bros. | 212658 | [212658-snow-bros.json](./212658-snow-bros.json) |
 | Snow Bros. | 6901 | [6901-snow-bros.json](./6901-snow-bros.json) |
+| Snow Bros. 2 Special | 278582 | [278582-snow-bros-2-special.json](./278582-snow-bros-2-special.json) |
 | Snow Bros. 2: With New Elves | 39842 | [39842-snow-bros-2-with-new-elves.json](./39842-snow-bros-2-with-new-elves.json) |
 | Snow Bros. Classic | 345107 | [345107-snow-bros-classic.json](./345107-snow-bros-classic.json) |
 | Snow Bros. Classic Collection | 387669 | [387669-snow-bros-classic-collection.json](./387669-snow-bros-classic-collection.json) |
@@ -13846,6 +13847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Trader | 34611 | [34611-sol-trader.json](./34611-sol-trader.json) |
 | Sol Traveler | 178993 | [178993-sol-traveler.json](./178993-sol-traveler.json) |
 | Sol Trigger | 38467 | [38467-sol-trigger.json](./38467-sol-trigger.json) |
+| Sol Uknight | 278250 | [278250-sol-uknight.json](./278250-sol-uknight.json) |
 | Sol Wars | 105556 | [105556-sol-wars.json](./105556-sol-wars.json) |
 | Sol-Hel | 132507 | [132507-sol-hel.json](./132507-sol-hel.json) |
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
@@ -25507,6 +25509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumikkogurashi Farm | 208066 | [208066-sumikkogurashi-farm.json](./208066-sumikkogurashi-farm.json) |
 | Sumikkogurashi the Movie Block Puzzle Game | 213635 | [213635-sumikkogurashi-the-movie-block-puzzle-game.json](./213635-sumikkogurashi-the-movie-block-puzzle-game.json) |
 | SuMine | 118163 | [118163-sumine.json](./118163-sumine.json) |
+| Sumio Mondo Namaz Simulator | 278583 | [278583-sumio-mondo-namaz-simulator.json](./278583-sumio-mondo-namaz-simulator.json) |
 | Sumioni: Demon Arts | 21852 | [21852-sumioni-demon-arts.json](./21852-sumioni-demon-arts.json) |
 | Sumire | 137960 | [137960-sumire.json](./137960-sumire.json) |
 | Sumire's Secret | 403603 | [403603-sumires-secret.json](./403603-sumires-secret.json) |
