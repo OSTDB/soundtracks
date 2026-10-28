@@ -3738,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Fishing Challenge | 67964 | [67964-reel-fishing-challenge.json](./67964-reel-fishing-challenge.json) |
 | Reel Fishing Challenge II | 85573 | [85573-reel-fishing-challenge-ii.json](./85573-reel-fishing-challenge-ii.json) |
 | Reel Fishing II | 45087 | [45087-reel-fishing-ii.json](./45087-reel-fishing-ii.json) |
+| Reel Fishing Pocket | 274844 | [274844-reel-fishing-pocket.json](./274844-reel-fishing-pocket.json) |
 | Reel Fishing: Angler's Dream | 5121 | [5121-reel-fishing-anglers-dream.json](./5121-reel-fishing-anglers-dream.json) |
 | Reel Fishing: Days of Summer | 322079 | [322079-reel-fishing-days-of-summer.json](./322079-reel-fishing-days-of-summer.json) |
 | Reel Fishing: Ocean Challenge | 85574 | [85574-reel-fishing-ocean-challenge.json](./85574-reel-fishing-ocean-challenge.json) |
