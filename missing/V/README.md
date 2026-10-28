@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Adventures: Park Ranger 13 - Collector's Edition | 233894 | [233894-vacation-adventures-park-ranger-13-collectors-edition.json](./233894-vacation-adventures-park-ranger-13-collectors-edition.json) |
 | Vacation Adventures: Park Ranger 14 | 216854 | [216854-vacation-adventures-park-ranger-14.json](./216854-vacation-adventures-park-ranger-14.json) |
 | Vacation Adventures: Park Ranger 14 - Collector's Edition | 231837 | [231837-vacation-adventures-park-ranger-14-collectors-edition.json](./231837-vacation-adventures-park-ranger-14-collectors-edition.json) |
+| Vacation Adventures: Park Ranger 15 - Collector's Edition | 264163 | [264163-vacation-adventures-park-ranger-15-collectors-edition.json](./264163-vacation-adventures-park-ranger-15-collectors-edition.json) |
 | Vacation Adventures: Park Ranger 16 - Collectors Edition | 311108 | [311108-vacation-adventures-park-ranger-16-collectors-edition.json](./311108-vacation-adventures-park-ranger-16-collectors-edition.json) |
 | Vacation Adventures: Park Ranger 17 | 381372 | [381372-vacation-adventures-park-ranger-17.json](./381372-vacation-adventures-park-ranger-17.json) |
 | Vacation Adventures: Park Ranger 18 - Collectors Edition | 416779 | [416779-vacation-adventures-park-ranger-18-collectors-edition.json](./416779-vacation-adventures-park-ranger-18-collectors-edition.json) |
@@ -140,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaccine Delivery Simulator | 164883 | [164883-vaccine-delivery-simulator.json](./164883-vaccine-delivery-simulator.json) |
 | Vaccine Hunter | 144355 | [144355-vaccine-hunter.json](./144355-vaccine-hunter.json) |
 | Vaccine Rebirth | 236842 | [236842-vaccine-rebirth.json](./236842-vaccine-rebirth.json) |
+| Vaccine Rebirth VR | 264178 | [264178-vaccine-rebirth-vr.json](./264178-vaccine-rebirth-vr.json) |
 | Vacoo: The Adventure in Garbage City | 223413 | [223413-vacoo-the-adventure-in-garbage-city.json](./223413-vacoo-the-adventure-in-garbage-city.json) |
 | Vactics | 202067 | [202067-vactics.json](./202067-vactics.json) |
 | Vacuum | 274673 | [274673-vacuum.json](./274673-vacuum.json) |
@@ -260,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valerian Tales | 104038 | [104038-valerian-tales.json](./104038-valerian-tales.json) |
 | Valerie | 337109 | [337109-valerie.json](./337109-valerie.json) |
 | Valerie Porter and the Scarlet Scandal | 27881 | [27881-valerie-porter-and-the-scarlet-scandal.json](./27881-valerie-porter-and-the-scarlet-scandal.json) |
+| Valerosa | 264192 | [264192-valerosa.json](./264192-valerosa.json) |
 | Valet Hero | 65437 | [65437-valet-hero.json](./65437-valet-hero.json) |
 | Valet Parking 1989 | 85472 | [85472-valet-parking-1989.json](./85472-valet-parking-1989.json) |
 | Valete vos viatores | 212914 | [212914-valete-vos-viatores.json](./212914-valete-vos-viatores.json) |
