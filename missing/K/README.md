@@ -2647,6 +2647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Egypt GX | 117428 | [117428-king-of-egypt-gx.json](./117428-king-of-egypt-gx.json) |
 | King of Fighters '95, The: Special Item Box | 75461 | [75461-king-of-fighters-95-the-special-item-box.json](./75461-king-of-fighters-95-the-special-item-box.json) |
 | King of Fighters 2002: 3rd Strike of the Orochi | 205791 | [205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json](./205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json) |
+| King of Fighters XV: Characters - Duo Lon | 266344 | [266344-king-of-fighters-xv-characters-duo-lon.json](./266344-king-of-fighters-xv-characters-duo-lon.json) |
 | King of Fighters XV: Garou MotW Terry Costume | 320249 | [320249-king-of-fighters-xv-garou-motw-terry-costume.json](./320249-king-of-fighters-xv-garou-motw-terry-costume.json) |
 | King of Football | 67980 | [67980-king-of-football.json](./67980-king-of-football.json) |
 | King of Gods: Angel the Awakening of a Demon | 110674 | [110674-king-of-gods-angel-the-awakening-of-a-demon.json](./110674-king-of-gods-angel-the-awakening-of-a-demon.json) |
