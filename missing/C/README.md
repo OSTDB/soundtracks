@@ -1627,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Stu | 285938 | [285938-captain-stu.json](./285938-captain-stu.json) |
 | Captain Superhero Flying Robot Rescue | 101981 | [101981-captain-superhero-flying-robot-rescue.json](./101981-captain-superhero-flying-robot-rescue.json) |
 | Captain Temporium | 174579 | [174579-captain-temporium.json](./174579-captain-temporium.json) |
+| Captain the Looper | 240622 | [240622-captain-the-looper.json](./240622-captain-the-looper.json) |
 | Captain Toad Treasure Tracker | 162427 | [162427-captain-toad-treasure-tracker.json](./162427-captain-toad-treasure-tracker.json) |
 | Captain Toad Treasure Tracker for SNES II | 162624 | [162624-captain-toad-treasure-tracker-for-snes-ii.json](./162624-captain-toad-treasure-tracker-for-snes-ii.json) |
 | Captain Toad: Prism Star Quest | 358338 | [358338-captain-toad-prism-star-quest.json](./358338-captain-toad-prism-star-quest.json) |
@@ -2654,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartuchito World: Canella Edition | 275621 | [275621-cartuchito-world-canella-edition.json](./275621-cartuchito-world-canella-edition.json) |
 | Carvalho: Los Pájaros de Bangkok | 138790 | [138790-carvalho-los-pajaros-de-bangkok.json](./138790-carvalho-los-pajaros-de-bangkok.json) |
 | Carve | 5767 | [5767-carve.json](./5767-carve.json) |
+| Carve Jr. | 240967 | [240967-carve-jr.json](./240967-carve-jr.json) |
 | Carve The Cave Together | 414602 | [414602-carve-the-cave-together.json](./414602-carve-the-cave-together.json) |
 | Carved Brink | 356881 | [356881-carved-brink.json](./356881-carved-brink.json) |
 | Carved In Stone | 321351 | [321351-carved-in-stone.json](./321351-carved-in-stone.json) |
@@ -12577,6 +12579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Devourer | 235764 | [235764-core-devourer.json](./235764-core-devourer.json) |
 | Core Diggers | 397645 | [397645-core-diggers.json](./397645-core-diggers.json) |
 | Core Disruption | 194922 | [194922-core-disruption.json](./194922-core-disruption.json) |
+| Core Fault | 240952 | [240952-core-fault.json](./240952-core-fault.json) |
 | Core Hustlers | 369034 | [369034-core-hustlers.json](./369034-core-hustlers.json) |
 | Core Keeper | 152127 | [152127-core-keeper.json](./152127-core-keeper.json) |
 | Core Keeper: Shimmering Frontier | 270197 | [270197-core-keeper-shimmering-frontier.json](./270197-core-keeper-shimmering-frontier.json) |
@@ -15789,6 +15792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader: No Regret | 656 | [656-crusader-no-regret.json](./656-crusader-no-regret.json) |
 | Crusader: No Remorse | 207101 | [207101-crusader-no-remorse.json](./207101-crusader-no-remorse.json) |
 | Crusader: No Remorse | 7840 | [7840-crusader-no-remorse.json](./7840-crusader-no-remorse.json) |
+| Crusader's March | 240627 | [240627-crusaders-march.json](./240627-crusaders-march.json) |
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
 | Crusaders of Solaria | 61380 | [61380-crusaders-of-solaria.json](./61380-crusaders-of-solaria.json) |
 | Crusaders Quest: Hero Town | 397208 | [397208-crusaders-quest-hero-town.json](./397208-crusaders-quest-hero-town.json) |
@@ -17411,6 +17415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuzuco | 373185 | [373185-cuzuco.json](./373185-cuzuco.json) |
 | CV: Casting Voice | 62450 | [62450-cv-casting-voice.json](./62450-cv-casting-voice.json) |
 | CW: Chaco War | 37009 | [37009-cw-chaco-war.json](./37009-cw-chaco-war.json) |
+| Cx6 | 240619 | [240619-cx6.json](./240619-cx6.json) |
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
 | Cyadonia | 99658 | [99658-cyadonia.json](./99658-cyadonia.json) |
 | Cyan | 169808 | [169808-cyan.json](./169808-cyan.json) |
