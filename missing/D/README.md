@@ -10146,6 +10146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggie Ninja: The Burning Strikers | 147785 | [147785-doggie-ninja-the-burning-strikers.json](./147785-doggie-ninja-the-burning-strikers.json) |
 | Doggies | 25489 | [25489-doggies.json](./25489-doggies.json) |
 | Doggins | 61872 | [61872-doggins.json](./61872-doggins.json) |
+| Doggnation | 240032 | [240032-doggnation.json](./240032-doggnation.json) |
 | Doggo | 287098 | [287098-doggo.json](./287098-doggo.json) |
 | Doggo Dungeon | 174270 | [174270-doggo-dungeon.json](./174270-doggo-dungeon.json) |
 | Doggo Garden Defense | 246012 | [246012-doggo-garden-defense.json](./246012-doggo-garden-defense.json) |
@@ -11643,6 +11644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Pocket Drill Moji Quiz | 310524 | [310524-doraemon-pocket-drill-moji-quiz.json](./310524-doraemon-pocket-drill-moji-quiz.json) |
 | Doraemon Step-Up PC | 314372 | [314372-doraemon-step-up-pc.json](./314372-doraemon-step-up-pc.json) |
 | Doraemon Story of Season: Friends of the Great Kingdom - Winter Tales | 227156 | [227156-doraemon-story-of-season-friends-of-the-great-kingdom-winter-tales.json](./227156-doraemon-story-of-season-friends-of-the-great-kingdom-winter-tales.json) |
+| Doraemon Story of Seasons: FGK DLC Pack 3 | 240401 | [240401-doraemon-story-of-seasons-fgk-dlc-pack-3.json](./240401-doraemon-story-of-seasons-fgk-dlc-pack-3.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom | 206815 | [206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json](./206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom - The Life of Insects | 231280 | [231280-doraemon-story-of-seasons-friends-of-the-great-kingdom-the-life-of-insects.json](./231280-doraemon-story-of-seasons-friends-of-the-great-kingdom-the-life-of-insects.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom - Together with Animals | 241321 | [241321-doraemon-story-of-seasons-friends-of-the-great-kingdom-together-with-animals.json](./241321-doraemon-story-of-seasons-friends-of-the-great-kingdom-together-with-animals.json) |
