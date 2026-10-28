@@ -2746,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel's Avengers: The Avengers Adventurer Character Pack | 265464 | [265464-lego-marvels-avengers-the-avengers-adventurer-character-pack.json](./265464-lego-marvels-avengers-the-avengers-adventurer-character-pack.json) |
 | LEGO Masterpiece Collection | 142953 | [142953-lego-masterpiece-collection.json](./142953-lego-masterpiece-collection.json) |
 | Lego Merlok 2.0 Version 4.0.0 | 345593 | [345593-lego-merlok-2-0-version-4-0-0.json](./345593-lego-merlok-2-0-version-4-0-0.json) |
+| LEGO Minecraft | 261390 | [261390-lego-minecraft.json](./261390-lego-minecraft.json) |
 | LEGO Minifigures Online | 17874 | [17874-lego-minifigures-online.json](./17874-lego-minifigures-online.json) |
 | LEGO Ninjago: Nindroids | 19766 | [19766-lego-ninjago-nindroids.json](./19766-lego-ninjago-nindroids.json) |
 | LEGO Ninjago: Ride Ninja | 100445 | [100445-lego-ninjago-ride-ninja.json](./100445-lego-ninjago-ride-ninja.json) |
