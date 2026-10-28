@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Chicken In The Office | 379463 | [379463-a-chicken-in-the-office.json](./379463-a-chicken-in-the-office.json) |
 | A Child's Courage | 184960 | [184960-a-childs-courage.json](./184960-a-childs-courage.json) |
 | A Chinese Ghost Story | 77653 | [77653-a-chinese-ghost-story.json](./77653-a-chinese-ghost-story.json) |
+| A Chinese Ghost Story 2023 | 255182 | [255182-a-chinese-ghost-story-2023.json](./255182-a-chinese-ghost-story-2023.json) |
 | A Chocolate World | 277343 | [277343-a-chocolate-world.json](./277343-a-chocolate-world.json) |
 | A Christmas Blackout | 310535 | [310535-a-christmas-blackout.json](./310535-a-christmas-blackout.json) |
 | A Christmas Carol: But With Anime Girls | 379470 | [379470-a-christmas-carol-but-with-anime-girls.json](./379470-a-christmas-carol-but-with-anime-girls.json) |
@@ -9510,6 +9511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antares | 132727 | [132727-antares.json](./132727-antares.json) |
 | Antaresian Reliquary | 141566 | [141566-antaresian-reliquary.json](./141566-antaresian-reliquary.json) |
 | Antartica | 400962 | [400962-antartica.json](./400962-antartica.json) |
+| AntarticaRoyale | 255284 | [255284-antarticaroyale.json](./255284-antarticaroyale.json) |
 | Antbear | 371561 | [371561-antbear.json](./371561-antbear.json) |
 | AntCity | 318137 | [318137-antcity.json](./318137-antcity.json) |
 | Antcopter | 306036 | [306036-antcopter.json](./306036-antcopter.json) |
@@ -10648,6 +10650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: City Connection | 99558 | [99558-arcade-archives-city-connection.json](./99558-arcade-archives-city-connection.json) |
 | Arcade Archives: Clu Clu Land | 68356 | [68356-arcade-archives-clu-clu-land.json](./68356-arcade-archives-clu-clu-land.json) |
 | Arcade Archives: Contra | 99535 | [99535-arcade-archives-contra.json](./99535-arcade-archives-contra.json) |
+| Arcade Archives: Cop 01 | 255186 | [255186-arcade-archives-cop-01.json](./255186-arcade-archives-cop-01.json) |
 | Arcade Archives: Cosmo Gang The Puzzle | 282491 | [282491-arcade-archives-cosmo-gang-the-puzzle.json](./282491-arcade-archives-cosmo-gang-the-puzzle.json) |
 | Arcade Archives: Cosmo Gang the Video | 246874 | [246874-arcade-archives-cosmo-gang-the-video.json](./246874-arcade-archives-cosmo-gang-the-video.json) |
 | Arcade Archives: Cosmo Police Galivan | 99566 | [99566-arcade-archives-cosmo-police-galivan.json](./99566-arcade-archives-cosmo-police-galivan.json) |
