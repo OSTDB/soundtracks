@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafioso | 348499 | [348499-mafioso.json](./348499-mafioso.json) |
 | Mafioso | 388793 | [388793-mafioso.json](./388793-mafioso.json) |
 | Mafioso Football Manager | 413845 | [413845-mafioso-football-manager.json](./413845-mafioso-football-manager.json) |
+| Mafurako: Jiyou Jikan | 229489 | [229489-mafurako-jiyou-jikan.json](./229489-mafurako-jiyou-jikan.json) |
 | Mag | 178431 | [178431-mag.json](./178431-mag.json) |
 | MAG | 229766 | [229766-mag.json](./229766-mag.json) |
 | MAG | 7365 | [7365-mag.json](./7365-mag.json) |
@@ -11874,6 +11875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Chic Sport | 25418 | [25418-miss-chic-sport.json](./25418-miss-chic-sport.json) |
 | Miss Chocolate Eater | 304259 | [304259-miss-chocolate-eater.json](./304259-miss-chocolate-eater.json) |
 | Miss Clue: Formula for Danger | 200655 | [200655-miss-clue-formula-for-danger.json](./200655-miss-clue-formula-for-danger.json) |
+| Miss Clue: Peril In Pemberley! | 229888 | [229888-miss-clue-peril-in-pemberley.json](./229888-miss-clue-peril-in-pemberley.json) |
 | Miss Detective's Undercover | 202817 | [202817-miss-detectives-undercover.json](./202817-miss-detectives-undercover.json) |
 | Miss Fisher and the Deathly Maze | 26783 | [26783-miss-fisher-and-the-deathly-maze.json](./26783-miss-fisher-and-the-deathly-maze.json) |
 | Miss Inconspicuous Maid Girl Cleaning Co. | 327905 | [327905-miss-inconspicuous-maid-girl-cleaning-co.json](./327905-miss-inconspicuous-maid-girl-cleaning-co.json) |
@@ -17794,6 +17796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Girlfriend Loves a Mystery | 209021 | [209021-my-girlfriend-loves-a-mystery.json](./209021-my-girlfriend-loves-a-mystery.json) |
 | My Girlfriend's Special Place | 240481 | [240481-my-girlfriends-special-place.json](./240481-my-girlfriends-special-place.json) |
 | My Gnome Wife Left Me | 278459 | [278459-my-gnome-wife-left-me.json](./278459-my-gnome-wife-left-me.json) |
+| My Goddess Girlfriend | 229875 | [229875-my-goddess-girlfriend.json](./229875-my-goddess-girlfriend.json) |
 | My Goddess of Love | 114406 | [114406-my-goddess-of-love.json](./114406-my-goddess-of-love.json) |
 | My Golf | 282738 | [282738-my-golf.json](./282738-my-golf.json) |
 | My Golf 3D | 91166 | [91166-my-golf-3d.json](./91166-my-golf-3d.json) |
