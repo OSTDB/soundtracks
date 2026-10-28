@@ -2268,6 +2268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date or Destiny: Kiss or Miss | 348880 | [348880-date-or-destiny-kiss-or-miss.json](./348880-date-or-destiny-kiss-or-miss.json) |
 | Date or Die | 56508 | [56508-date-or-die.json](./56508-date-or-die.json) |
 | Date or Ditch | 85073 | [85073-date-or-ditch.json](./85073-date-or-ditch.json) |
+| Date or Ditch 2 | 239468 | [239468-date-or-ditch-2.json](./239468-date-or-ditch-2.json) |
 | Date Plus | 358498 | [358498-date-plus.json](./358498-date-plus.json) |
 | Date quartet | 183944 | [183944-date-quartet.json](./183944-date-quartet.json) |
 | Date Senbei | 412450 | [412450-date-senbei.json](./412450-date-senbei.json) |
@@ -3017,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Drop | 281441 | [281441-dead-drop.json](./281441-dead-drop.json) |
 | Dead Drop | 29562 | [29562-dead-drop.json](./29562-dead-drop.json) |
 | Dead Dust | 89960 | [89960-dead-dust.json](./89960-dead-dust.json) |
+| Dead Earth | 239453 | [239453-dead-earth.json](./239453-dead-earth.json) |
 | Dead Earth Zombies | 188672 | [188672-dead-earth-zombies.json](./188672-dead-earth-zombies.json) |
 | Dead Echo | 410377 | [410377-dead-echo.json](./410377-dead-echo.json) |
 | Dead Effect 2 VR | 38968 | [38968-dead-effect-2-vr.json](./38968-dead-effect-2-vr.json) |
@@ -6771,6 +6773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Reborn Bundle | 254705 | [254705-detective-reborn-bundle.json](./254705-detective-reborn-bundle.json) |
 | Detective Riddles: Sherlock's Heritage | 91096 | [91096-detective-riddles-sherlocks-heritage.json](./91096-detective-riddles-sherlocks-heritage.json) |
 | Detective Riddles: Sherlock's Heritage 2 | 100347 | [100347-detective-riddles-sherlocks-heritage-2.json](./100347-detective-riddles-sherlocks-heritage-2.json) |
+| Detective Ridley and the Mysterious Enigma | 239465 | [239465-detective-ridley-and-the-mysterious-enigma.json](./239465-detective-ridley-and-the-mysterious-enigma.json) |
 | Detective Rosie Morgan: Death at a Dinner Party | 236827 | [236827-detective-rosie-morgan-death-at-a-dinner-party.json](./236827-detective-rosie-morgan-death-at-a-dinner-party.json) |
 | Detective S | 159089 | [159089-detective-s.json](./159089-detective-s.json) |
 | Detective S. Harkins | 184820 | [184820-detective-s-harkins.json](./184820-detective-s-harkins.json) |
@@ -8634,6 +8637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Crew | 414274 | [414274-disaster-crew.json](./414274-disaster-crew.json) |
 | Disaster Crisis | 166749 | [166749-disaster-crisis.json](./166749-disaster-crisis.json) |
 | Disaster Dash | 238399 | [238399-disaster-dash.json](./238399-disaster-dash.json) |
+| Disaster Detective Saiga: An Indescribable Mystery | 239450 | [239450-disaster-detective-saiga-an-indescribable-mystery.json](./239450-disaster-detective-saiga-an-indescribable-mystery.json) |
 | Disaster Dragon x Girls from Different Worlds | 131214 | [131214-disaster-dragon-x-girls-from-different-worlds.json](./131214-disaster-dragon-x-girls-from-different-worlds.json) |
 | Disaster Drive | 157904 | [157904-disaster-drive.json](./157904-disaster-drive.json) |
 | Disaster Island | 197091 | [197091-disaster-island.json](./197091-disaster-island.json) |
@@ -10649,6 +10653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Bug Me! | 191456 | [191456-dont-bug-me.json](./191456-dont-bug-me.json) |
 | Don't Burn | 118998 | [118998-dont-burn.json](./118998-dont-burn.json) |
 | Don't Burst My Balloon | 373875 | [373875-dont-burst-my-balloon.json](./373875-dont-burst-my-balloon.json) |
+| Don't Byte Your Tongue | 239460 | [239460-dont-byte-your-tongue.json](./239460-dont-byte-your-tongue.json) |
 | Don't Call Me Mama But Yes I Am Your Mama | 181853 | [181853-dont-call-me-mama-but-yes-i-am-your-mama.json](./181853-dont-call-me-mama-but-yes-i-am-your-mama.json) |
 | Don't Chat With Strangers | 26739 | [26739-dont-chat-with-strangers.json](./26739-dont-chat-with-strangers.json) |
 | Don't Cheat on Me | 142662 | [142662-dont-cheat-on-me.json](./142662-dont-cheat-on-me.json) |
@@ -13442,6 +13447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dramaqueen | 158230 | [158230-dramaqueen.json](./158230-dramaqueen.json) |
 | Dramatic Dungeon: Sakura Taisen - Kimi Arugatame | 65843 | [65843-dramatic-dungeon-sakura-taisen-kimi-arugatame.json](./65843-dramatic-dungeon-sakura-taisen-kimi-arugatame.json) |
 | Dramatic Past | 130672 | [130672-dramatic-past.json](./130672-dramatic-past.json) |
+| Dramatic Road: The Origin of Wind | 239807 | [239807-dramatic-road-the-origin-of-wind.json](./239807-dramatic-road-the-origin-of-wind.json) |
 | Dramatic RPG Kamitsuri | 25679 | [25679-dramatic-rpg-kamitsuri.json](./25679-dramatic-rpg-kamitsuri.json) |
 | Dramatical Murder Re:code | 22494 | [22494-dramatical-murder-re-code.json](./22494-dramatical-murder-re-code.json) |
 | Dramatical Murder Re:connect | 22493 | [22493-dramatical-murder-re-connect.json](./22493-dramatical-murder-re-connect.json) |
@@ -15615,6 +15621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Danger Traps 2 | 372543 | [372543-dungeon-danger-traps-2.json](./372543-dungeon-danger-traps-2.json) |
 | Dungeon Dare | 14043 | [14043-dungeon-dare.json](./14043-dungeon-dare.json) |
 | Dungeon Darkness | 176215 | [176215-dungeon-darkness.json](./176215-dungeon-darkness.json) |
+| Dungeon Dash: Tales of the Necromancer | 239830 | [239830-dungeon-dash-tales-of-the-necromancer.json](./239830-dungeon-dash-tales-of-the-necromancer.json) |
 | Dungeon Dealer | 179064 | [179064-dungeon-dealer.json](./179064-dungeon-dealer.json) |
 | Dungeon Death | 190480 | [190480-dungeon-death.json](./190480-dungeon-death.json) |
 | Dungeon Deathball | 102922 | [102922-dungeon-deathball.json](./102922-dungeon-deathball.json) |
@@ -16158,6 +16165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons Again | 120742 | [120742-dungeons-again.json](./120742-dungeons-again.json) |
 | Dungeons and Diners | 291408 | [291408-dungeons-and-diners.json](./291408-dungeons-and-diners.json) |
 | Dungeons and Dinners | 110117 | [110117-dungeons-and-dinners.json](./110117-dungeons-and-dinners.json) |
+| Dungeons and Doggos | 239461 | [239461-dungeons-and-doggos.json](./239461-dungeons-and-doggos.json) |
 | Dungeons and Dragons: Daggerdale | 15127 | [15127-dungeons-and-dragons-daggerdale.json](./15127-dungeons-and-dragons-daggerdale.json) |
 | Dungeons and Dungeons | 283544 | [283544-dungeons-and-dungeons.json](./283544-dungeons-and-dungeons.json) |
 | Dungeons and Female Teachers | 264758 | [264758-dungeons-and-female-teachers.json](./264758-dungeons-and-female-teachers.json) |
