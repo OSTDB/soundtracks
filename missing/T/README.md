@@ -26904,6 +26904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tronika | 58147 | [58147-tronika.json](./58147-tronika.json) |
 | Tronix Carnival Games | 330061 | [330061-tronix-carnival-games.json](./330061-tronix-carnival-games.json) |
 | Trooops! | 403325 | [403325-trooops.json](./403325-trooops.json) |
+| Trooper | 277692 | [277692-trooper.json](./277692-trooper.json) |
 | Trooper 1 | 74292 | [74292-trooper-1.json](./74292-trooper-1.json) |
 | Trooper Truck | 62609 | [62609-trooper-truck.json](./62609-trooper-truck.json) |
 | Troopers | 264498 | [264498-troopers.json](./264498-troopers.json) |
@@ -27250,6 +27251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Pinball | 9131 | [9131-true-pinball.json](./9131-true-pinball.json) |
 | True Remembrance: Kioku no Kakera | 64241 | [64241-true-remembrance-kioku-no-kakera.json](./64241-true-remembrance-kioku-no-kakera.json) |
 | True Reporter | 110292 | [110292-true-reporter.json](./110292-true-reporter.json) |
+| True Reporter: Mystery of Mistwood | 278000 | [278000-true-reporter-mystery-of-mistwood.json](./278000-true-reporter-mystery-of-mistwood.json) |
 | True Speed | 223880 | [223880-true-speed.json](./223880-true-speed.json) |
 | True Stalker | 280962 | [280962-true-stalker.json](./280962-true-stalker.json) |
 | True Swing Golf | 20493 | [20493-true-swing-golf.json](./20493-true-swing-golf.json) |
