@@ -4789,6 +4789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Quest | 400528 | [400528-go-quest.json](./400528-go-quest.json) |
 | Go Quirk! | 340552 | [340552-go-quirk.json](./340552-go-quirk.json) |
 | Go Race Yourself | 200137 | [200137-go-race-yourself.json](./200137-go-race-yourself.json) |
+| Go Rescue | 238293 | [238293-go-rescue.json](./238293-go-rescue.json) |
 | Go Rocket | 153917 | [153917-go-rocket.json](./153917-go-rocket.json) |
 | GO Series: 10 Second Run | 80030 | [80030-go-series-10-second-run.json](./80030-go-series-10-second-run.json) |
 | GO Series: Picdun | 56903 | [56903-go-series-picdun.json](./56903-go-series-picdun.json) |
@@ -7707,6 +7708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Sans | 232423 | [232423-green-sans.json](./232423-green-sans.json) |
 | Green Sauce Bundle | 283193 | [283193-green-sauce-bundle.json](./283193-green-sauce-bundle.json) |
 | Green Slaugther | 87973 | [87973-green-slaugther.json](./87973-green-slaugther.json) |
+| Green Soldiers Heroes | 238285 | [238285-green-soldiers-heroes.json](./238285-green-soldiers-heroes.json) |
 | Green Soldiers Heroes: Extreme Bikers | 371299 | [371299-green-soldiers-heroes-extreme-bikers.json](./371299-green-soldiers-heroes-extreme-bikers.json) |
 | Green Squares | 245769 | [245769-green-squares.json](./245769-green-squares.json) |
 | Green Star Revenge 3: Back to the Safe Sear Temples | 280754 | [280754-green-star-revenge-3-back-to-the-safe-sear-temples.json](./280754-green-star-revenge-3-back-to-the-safe-sear-temples.json) |
