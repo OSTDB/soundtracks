@@ -9989,6 +9989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aphelion | 410392 | [410392-aphelion.json](./410392-aphelion.json) |
 | Aphelion Episode One: Graves of Earth | 66398 | [66398-aphelion-episode-one-graves-of-earth.json](./66398-aphelion-episode-one-graves-of-earth.json) |
 | Aphelion Episode Two: Wings of Omega | 66165 | [66165-aphelion-episode-two-wings-of-omega.json](./66165-aphelion-episode-two-wings-of-omega.json) |
+| Aphelion Headhunters | 248089 | [248089-aphelion-headhunters.json](./248089-aphelion-headhunters.json) |
 | Aphotic Descent | 245898 | [245898-aphotic-descent.json](./245898-aphotic-descent.json) |
 | Aphrodite Evolve Weapons Survivor: Greek Gods Versus Heaven | 404261 | [404261-aphrodite-evolve-weapons-survivor-greek-gods-versus-heaven.json](./404261-aphrodite-evolve-weapons-survivor-greek-gods-versus-heaven.json) |
 | Aphrodite's Bathhouse | 364091 | [364091-aphrodites-bathhouse.json](./364091-aphrodites-bathhouse.json) |
@@ -10975,6 +10976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Daze | 251088 | [251088-arcade-daze.json](./251088-arcade-daze.json) |
 | Arcade Drift | 167347 | [167347-arcade-drift.json](./167347-arcade-drift.json) |
 | Arcade Essentials | 51094 | [51094-arcade-essentials.json](./51094-arcade-essentials.json) |
+| Arcade Fishing | 248242 | [248242-arcade-fishing.json](./248242-arcade-fishing.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
 | Arcade Force Four | 94416 | [94416-arcade-force-four.json](./94416-arcade-force-four.json) |
 | Arcade Fusion Bundle | 300764 | [300764-arcade-fusion-bundle.json](./300764-arcade-fusion-bundle.json) |
@@ -12887,6 +12889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash of Gods: Arena | 133417 | [133417-ash-of-gods-arena.json](./133417-ash-of-gods-arena.json) |
 | Ash of Gods: Fan Edition | 257095 | [257095-ash-of-gods-fan-edition.json](./257095-ash-of-gods-fan-edition.json) |
 | Ash of Gods: The Way | 192439 | [192439-ash-of-gods-the-way.json](./192439-ash-of-gods-the-way.json) |
+| Ash of Gods: The Way - Deluxe Edition | 248233 | [248233-ash-of-gods-the-way-deluxe-edition.json](./248233-ash-of-gods-the-way-deluxe-edition.json) |
 | Ash of Gods: Universe Bundle | 257096 | [257096-ash-of-gods-universe-bundle.json](./257096-ash-of-gods-universe-bundle.json) |
 | Ash of Legends | 133096 | [133096-ash-of-legends.json](./133096-ash-of-legends.json) |
 | Ash of War | 109684 | [109684-ash-of-war.json](./109684-ash-of-war.json) |
