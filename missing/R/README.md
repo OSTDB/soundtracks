@@ -3818,6 +3818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refind Self: The Personality Test Game | 265960 | [265960-refind-self-the-personality-test-game.json](./265960-refind-self-the-personality-test-game.json) |
 | Refinery | 225633 | [225633-refinery.json](./225633-refinery.json) |
 | Refinery Complex | 259398 | [259398-refinery-complex.json](./259398-refinery-complex.json) |
+| Refixion | 242739 | [242739-refixion.json](./242739-refixion.json) |
 | Reflec Beat Groovin'!! Upper | 395944 | [395944-reflec-beat-groovin-upper.json](./395944-reflec-beat-groovin-upper.json) |
 | Reflec Beat Limelight | 76462 | [76462-reflec-beat-limelight.json](./76462-reflec-beat-limelight.json) |
 | Reflec Beat Volzza | 369138 | [369138-reflec-beat-volzza.json](./369138-reflec-beat-volzza.json) |
@@ -5725,6 +5726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revival AO | 212245 | [212245-revival-ao.json](./212245-revival-ao.json) |
 | Revival Chase | 360122 | [360122-revival-chase.json](./360122-revival-chase.json) |
 | Revival of the Road | 83496 | [83496-revival-of-the-road.json](./83496-revival-of-the-road.json) |
+| Revival Quest | 242354 | [242354-revival-quest.json](./242354-revival-quest.json) |
 | Revival Xanadu | 260750 | [260750-revival-xanadu.json](./260750-revival-xanadu.json) |
 | Revival Xanadu 2: Remix | 260751 | [260751-revival-xanadu-2-remix.json](./260751-revival-xanadu-2-remix.json) |
 | Revival: Recolonization | 201640 | [201640-revival-recolonization.json](./201640-revival-recolonization.json) |
