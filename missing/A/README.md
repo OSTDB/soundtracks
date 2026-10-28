@@ -6980,6 +6980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMA Superbike | 94233 | [94233-ama-superbike.json](./94233-ama-superbike.json) |
 | Ama-Hina | 38715 | [38715-ama-hina.json](./38715-ama-hina.json) |
 | Ama's Lullaby | 303156 | [303156-amas-lullaby.json](./303156-amas-lullaby.json) |
+| Amabilly | 233686 | [233686-amabilly.json](./233686-amabilly.json) |
 | Amadeus | 195995 | [195995-amadeus.json](./195995-amadeus.json) |
 | Amadeus Revenge | 70471 | [70471-amadeus-revenge.json](./70471-amadeus-revenge.json) |
 | Amadeus: A Riddle for Thee - Episode 1: Waltz | 296491 | [296491-amadeus-a-riddle-for-thee-episode-1-waltz.json](./296491-amadeus-a-riddle-for-thee-episode-1-waltz.json) |
@@ -8754,6 +8755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Striker 2 | 321651 | [321651-animal-striker-2.json](./321651-animal-striker-2.json) |
 | Animal Strikers | 357722 | [357722-animal-strikers.json](./357722-animal-strikers.json) |
 | Animal Style | 391594 | [391594-animal-style.json](./391594-animal-style.json) |
+| Animal Super Craft: Maker Word Simulator Deluxe Game 2023 | 233681 | [233681-animal-super-craft-maker-word-simulator-deluxe-game-2023.json](./233681-animal-super-craft-maker-word-simulator-deluxe-game-2023.json) |
 | Animal Super Squad | 74598 | [74598-animal-super-squad.json](./74598-animal-super-squad.json) |
 | Animal Survival | 378364 | [378364-animal-survival.json](./378364-animal-survival.json) |
 | Animal Survival | 379369 | [379369-animal-survival.json](./379369-animal-survival.json) |
@@ -10319,6 +10321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Fry | 288331 | [288331-aqua-fry.json](./288331-aqua-fry.json) |
 | Aqua Glide | 334853 | [334853-aqua-glide.json](./334853-aqua-glide.json) |
 | Aqua GT | 3714 | [3714-aqua-gt.json](./3714-aqua-gt.json) |
+| Aqua Jewel | 233727 | [233727-aqua-jewel.json](./233727-aqua-jewel.json) |
 | Aqua Journey | 176987 | [176987-aqua-journey.json](./176987-aqua-journey.json) |
 | Aqua Kitty DX: Pawsome Bundle | 118853 | [118853-aqua-kitty-dx-pawsome-bundle.json](./118853-aqua-kitty-dx-pawsome-bundle.json) |
 | Aqua Kitty UDX: Xbox One Ultra Edition | 82379 | [82379-aqua-kitty-udx-xbox-one-ultra-edition.json](./82379-aqua-kitty-udx-xbox-one-ultra-edition.json) |
