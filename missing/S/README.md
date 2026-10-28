@@ -6627,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattering Obsidian | 155961 | [155961-shattering-obsidian.json](./155961-shattering-obsidian.json) |
 | Shatterland | 372438 | [372438-shatterland.json](./372438-shatterland.json) |
 | Shatterline | 212877 | [212877-shatterline.json](./212877-shatterline.json) |
+| Shatterpoint | 234800 | [234800-shatterpoint.json](./234800-shatterpoint.json) |
 | Shatterspace | 197395 | [197395-shatterspace.json](./197395-shatterspace.json) |
 | Shattle | 182189 | [182189-shattle.json](./182189-shattle.json) |
 | Shaun Palmer's Pro Snowboarder | 248602 | [248602-shaun-palmers-pro-snowboarder.json](./248602-shaun-palmers-pro-snowboarder.json) |
@@ -14639,6 +14640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sommerland | 250756 | [250756-sommerland.json](./250756-sommerland.json) |
 | SomnaBuster | 281378 | [281378-somnabuster.json](./281378-somnabuster.json) |
 | Somnambulo | 351385 | [351385-somnambulo.json](./351385-somnambulo.json) |
+| Somnamulizer: A Tale From Olympus U | 234803 | [234803-somnamulizer-a-tale-from-olympus-u.json](./234803-somnamulizer-a-tale-from-olympus-u.json) |
 | Somni | 172738 | [172738-somni.json](./172738-somni.json) |
 | Somniac | 409211 | [409211-somniac.json](./409211-somniac.json) |
 | Somnicoda | 323296 | [323296-somnicoda.json](./323296-somnicoda.json) |
@@ -16321,6 +16323,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Lock | 261785 | [261785-sound-lock.json](./261785-sound-lock.json) |
 | Sound Mind | 275662 | [275662-sound-mind.json](./275662-sound-mind.json) |
 | Sound Novel Evolution 2: Kamaitachi no Yoru Tokubetsu-hen | 178334 | [178334-sound-novel-evolution-2-kamaitachi-no-yoru-tokubetsu-hen.json](./178334-sound-novel-evolution-2-kamaitachi-no-yoru-tokubetsu-hen.json) |
+| Sound Novel Tsukuuru Taiou: Okiraku Kouza | 234882 | [234882-sound-novel-tsukuuru-taiou-okiraku-kouza.json](./234882-sound-novel-tsukuuru-taiou-okiraku-kouza.json) |
+| Sound Novel Tsukuuru Taiou: Zapping Gekijou | 234883 | [234883-sound-novel-tsukuuru-taiou-zapping-gekijou.json](./234883-sound-novel-tsukuuru-taiou-zapping-gekijou.json) |
 | Sound of Drop: Fall into Poison | 19279 | [19279-sound-of-drop-fall-into-poison.json](./19279-sound-of-drop-fall-into-poison.json) |
 | Sound of Horses | 357859 | [357859-sound-of-horses.json](./357859-sound-of-horses.json) |
 | Sound of Summer Thunder | 360669 | [360669-sound-of-summer-thunder.json](./360669-sound-of-summer-thunder.json) |
@@ -29230,6 +29234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman: The New Superman Adventures | 3005 | [3005-superman-the-new-superman-adventures.json](./3005-superman-the-new-superman-adventures.json) |
 | Superman: World's Finest | 112876 | [112876-superman-worlds-finest.json](./112876-superman-worlds-finest.json) |
 | Supermaneuver | 397777 | [397777-supermaneuver.json](./397777-supermaneuver.json) |
+| Supermarket | 234804 | [234804-supermarket.json](./234804-supermarket.json) |
 | Supermarket | 329556 | [329556-supermarket.json](./329556-supermarket.json) |
 | Supermarket & Clothing Store Simulator | 404258 | [404258-supermarket-and-clothing-store-simulator.json](./404258-supermarket-and-clothing-store-simulator.json) |
 | Supermarket 3D Tycoon Buisness Simulator | 316241 | [316241-supermarket-3d-tycoon-buisness-simulator.json](./316241-supermarket-3d-tycoon-buisness-simulator.json) |
