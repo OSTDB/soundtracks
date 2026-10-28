@@ -449,6 +449,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda's Adventure Remastered | 369314 | [369314-zeldas-adventure-remastered.json](./369314-zeldas-adventure-remastered.json) |
 | Zelda's Birthday | 173087 | [173087-zeldas-birthday.json](./173087-zeldas-birthday.json) |
 | Zelda3 | 237542 | [237542-zelda3.json](./237542-zelda3.json) |
+| Zelda3: Cube | 252329 | [252329-zelda3-cube.json](./252329-zelda3-cube.json) |
+| Zelda3: IQ Test - Revenge of the Einstein | 252328 | [252328-zelda3-iq-test-revenge-of-the-einstein.json](./252328-zelda3-iq-test-revenge-of-the-einstein.json) |
 | ZeldaBound 64 | 315025 | [315025-zeldabound-64.json](./315025-zeldabound-64.json) |
 | Zeldara's Glitch City | 278629 | [278629-zeldaras-glitch-city.json](./278629-zeldaras-glitch-city.json) |
 | Zeldarius | 383729 | [383729-zeldarius.json](./383729-zeldarius.json) |
