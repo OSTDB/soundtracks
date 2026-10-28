@@ -1450,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Fighter | 40256 | [40256-omega-fighter.json](./40256-omega-fighter.json) |
 | Omega Five | 21811 | [21811-omega-five.json](./21811-omega-five.json) |
 | Omega Genesis | 249291 | [249291-omega-genesis.json](./249291-omega-genesis.json) |
+| Omega Go | 241561 | [241561-omega-go.json](./241561-omega-go.json) |
 | Omega Horizon | 228398 | [228398-omega-horizon.json](./228398-omega-horizon.json) |
 | Omega Knockout: Punch Boxing | 302115 | [302115-omega-knockout-punch-boxing.json](./302115-omega-knockout-punch-boxing.json) |
 | Omega Labyrinth Life | 109284 | [109284-omega-labyrinth-life.json](./109284-omega-labyrinth-life.json) |
@@ -2327,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Thousand and One Nights | 264222 | [264222-one-thousand-and-one-nights.json](./264222-one-thousand-and-one-nights.json) |
 | One Thousand Lies | 19444 | [19444-one-thousand-lies.json](./19444-one-thousand-lies.json) |
 | One Thousand Paper Cuts | 138605 | [138605-one-thousand-paper-cuts.json](./138605-one-thousand-paper-cuts.json) |
+| One Thousand Pinball Dots | 241560 | [241560-one-thousand-pinball-dots.json](./241560-one-thousand-pinball-dots.json) |
 | One Tile Man | 137488 | [137488-one-tile-man.json](./137488-one-tile-man.json) |
 | One Time In Space | 188450 | [188450-one-time-in-space.json](./188450-one-time-in-space.json) |
 | One to Nine | 272482 | [272482-one-to-nine.json](./272482-one-to-nine.json) |
