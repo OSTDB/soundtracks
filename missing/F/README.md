@@ -2425,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmtastic | 352351 | [352351-farmtastic.json](./352351-farmtastic.json) |
 | FarmTD | 332376 | [332376-farmtd.json](./332376-farmtd.json) |
 | FarmTech | 257891 | [257891-farmtech.json](./257891-farmtech.json) |
+| Farmula Grain Prix | 237577 | [237577-farmula-grain-prix.json](./237577-farmula-grain-prix.json) |
 | Farmville | 9765 | [9765-farmville.json](./9765-farmville.json) |
 | FarmVille 2: Country Escape | 38889 | [38889-farmville-2-country-escape.json](./38889-farmville-2-country-escape.json) |
 | FarmVille 2: Tropic Escape | 243841 | [243841-farmville-2-tropic-escape.json](./243841-farmville-2-tropic-escape.json) |
@@ -4085,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Network Rings | 44825 | [44825-fighting-network-rings.json](./44825-fighting-network-rings.json) |
 | Fighting of School | 306953 | [306953-fighting-of-school.json](./306953-fighting-of-school.json) |
 | Fighting Pride: The Manny Pacquiao Saga | 224047 | [224047-fighting-pride-the-manny-pacquiao-saga.json](./224047-fighting-pride-the-manny-pacquiao-saga.json) |
+| Fighting Pudding | 237560 | [237560-fighting-pudding.json](./237560-fighting-pudding.json) |
 | Fighting Road | 48494 | [48494-fighting-road.json](./48494-fighting-road.json) |
 | Fighting Rogue | 358487 | [358487-fighting-rogue.json](./358487-fighting-rogue.json) |
 | Fighting Run | 44333 | [44333-fighting-run.json](./44333-fighting-run.json) |
@@ -7332,6 +7334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Gore | 150156 | [150156-fluffy-gore.json](./150156-fluffy-gore.json) |
 | Fluffy Horde | 107385 | [107385-fluffy-horde.json](./107385-fluffy-horde.json) |
 | Fluffy Horde + Clumsy Rush | 230407 | [230407-fluffy-horde-clumsy-rush.json](./230407-fluffy-horde-clumsy-rush.json) |
+| Fluffy Horde + Cyber Protocol | 237571 | [237571-fluffy-horde-cyber-protocol.json](./237571-fluffy-horde-cyber-protocol.json) |
 | Fluffy Kitchen Saga | 369078 | [369078-fluffy-kitchen-saga.json](./369078-fluffy-kitchen-saga.json) |
 | Fluffy Milo | 195631 | [195631-fluffy-milo.json](./195631-fluffy-milo.json) |
 | Fluffy Run | 292818 | [292818-fluffy-run.json](./292818-fluffy-run.json) |
