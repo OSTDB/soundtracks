@@ -2445,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VirtuGO | 55643 | [55643-virtugo.json](./55643-virtugo.json) |
 | Virtuoso GP Race: On | 373077 | [373077-virtuoso-gp-race-on.json](./373077-virtuoso-gp-race-on.json) |
 | Virtuoso Skins Game | 391886 | [391886-virtuoso-skins-game.json](./391886-virtuoso-skins-game.json) |
+| Virtuous | 275416 | [275416-virtuous.json](./275416-virtuous.json) |
 | Virtuous Western | 156056 | [156056-virtuous-western.json](./156056-virtuous-western.json) |
 | Virtuxy | 157109 | [157109-virtuxy.json](./157109-virtuxy.json) |
 | Virulence | 189852 | [189852-virulence.json](./189852-virulence.json) |
