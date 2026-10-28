@@ -4909,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finite State Automaton Challenges | 271106 | [271106-finite-state-automaton-challenges.json](./271106-finite-state-automaton-challenges.json) |
 | Finite State Automaton Challenges 2 | 278926 | [278926-finite-state-automaton-challenges-2.json](./278926-finite-state-automaton-challenges-2.json) |
 | Finity | 203749 | [203749-finity.json](./203749-finity.json) |
+| Finity | 263646 | [263646-finity.json](./263646-finity.json) |
 | Finity | 322936 | [322936-finity.json](./322936-finity.json) |
 | Finkles World | 66947 | [66947-finkles-world.json](./66947-finkles-world.json) |
 | Finland Corruption Simulator | 245771 | [245771-finland-corruption-simulator.json](./245771-finland-corruption-simulator.json) |
@@ -6019,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's Franchise Bundle | 241461 | [241461-five-nights-at-freddys-franchise-bundle.json](./241461-five-nights-at-freddys-franchise-bundle.json) |
 | Five Nights at Freddy's Gameboy | 305749 | [305749-five-nights-at-freddys-gameboy.json](./305749-five-nights-at-freddys-gameboy.json) |
 | Five Nights At Freddy's Pixel Edition | 338143 | [338143-five-nights-at-freddys-pixel-edition.json](./338143-five-nights-at-freddys-pixel-edition.json) |
+| Five Nights at Freddy's Simulator | 263637 | [263637-five-nights-at-freddys-simulator.json](./263637-five-nights-at-freddys-simulator.json) |
 | Five Nights at Freddy's Soulless Look | 383375 | [383375-five-nights-at-freddys-soulless-look.json](./383375-five-nights-at-freddys-soulless-look.json) |
 | Five Nights at Freddy's: Backlogged | 329023 | [329023-five-nights-at-freddys-backlogged.json](./329023-five-nights-at-freddys-backlogged.json) |
 | Five Nights at Freddy's: Blood & Gears | 331177 | [331177-five-nights-at-freddys-blood-and-gears.json](./331177-five-nights-at-freddys-blood-and-gears.json) |
@@ -6108,6 +6110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights on the Toilet | 267389 | [267389-five-nights-on-the-toilet.json](./267389-five-nights-on-the-toilet.json) |
 | Five Nights on the Toilet: Number 2 | 267388 | [267388-five-nights-on-the-toilet-number-2.json](./267388-five-nights-on-the-toilet-number-2.json) |
 | Five Nights to Remember | 319620 | [319620-five-nights-to-remember.json](./319620-five-nights-to-remember.json) |
+| Five Nights With 39 | 263638 | [263638-five-nights-with-39.json](./263638-five-nights-with-39.json) |
 | Five Nights with CJ | 342546 | [342546-five-nights-with-cj.json](./342546-five-nights-with-cj.json) |
 | Five Nights with Firearms | 405308 | [405308-five-nights-with-firearms.json](./405308-five-nights-with-firearms.json) |
 | Five Nights with Floppa: R | 370213 | [370213-five-nights-with-floppa-r.json](./370213-five-nights-with-floppa-r.json) |
@@ -11914,6 +11917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusionist | 250945 | [250945-fusionist.json](./250945-fusionist.json) |
 | Fuss-Ball | 59802 | [59802-fuss-ball.json](./59802-fuss-ball.json) |
 | Fussball Live | 43741 | [43741-fussball-live.json](./43741-fussball-live.json) |
+| Fussball Manager 23 | 263647 | [263647-fussball-manager-23.json](./263647-fussball-manager-23.json) |
 | Fussball Manager 24 | 287248 | [287248-fussball-manager-24.json](./287248-fussball-manager-24.json) |
 | Fussball Manager 25 | 335346 | [335346-fussball-manager-25.json](./335346-fussball-manager-25.json) |
 | Fussball Manager 26 | 392424 | [392424-fussball-manager-26.json](./392424-fussball-manager-26.json) |
