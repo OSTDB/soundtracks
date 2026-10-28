@@ -2621,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genkai Tokki: Castle Panzers - Limited Edition | 167090 | [167090-genkai-tokki-castle-panzers-limited-edition.json](./167090-genkai-tokki-castle-panzers-limited-edition.json) |
 | Genkai Tokki: Seven Pirates | 58722 | [58722-genkai-tokki-seven-pirates.json](./58722-genkai-tokki-seven-pirates.json) |
 | Genkai Totsuki Monster Monpiece | 145407 | [145407-genkai-totsuki-monster-monpiece.json](./145407-genkai-totsuki-monster-monpiece.json) |
+| Genkai: Primal Awakening | 273497 | [273497-genkai-primal-awakening.json](./273497-genkai-primal-awakening.json) |
 | Genkai! Yamazumi Battle | 222374 | [222374-genkai-yamazumi-battle.json](./222374-genkai-yamazumi-battle.json) |
 | Genki Village | 143036 | [143036-genki-village.json](./143036-genki-village.json) |
 | Genma Taisen | 298528 | [298528-genma-taisen.json](./298528-genma-taisen.json) |
