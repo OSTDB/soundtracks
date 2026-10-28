@@ -2086,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watched | 383512 | [383512-watched.json](./383512-watched.json) |
 | Watcher | 280155 | [280155-watcher.json](./280155-watcher.json) |
 | Watcher From the Void | 374796 | [374796-watcher-from-the-void.json](./374796-watcher-from-the-void.json) |
+| Watchers of the Universe: I'm Outta Here! | 244404 | [244404-watchers-of-the-universe-im-outta-here.json](./244404-watchers-of-the-universe-im-outta-here.json) |
 | Watchers: Batter Up Pack | 161186 | [161186-watchers-batter-up-pack.json](./161186-watchers-batter-up-pack.json) |
 | Watchers: Perfectly Calm Pack | 225572 | [225572-watchers-perfectly-calm-pack.json](./225572-watchers-perfectly-calm-pack.json) |
 | Watching Blade Runner on a Rainy Night | 253780 | [253780-watching-blade-runner-on-a-rainy-night.json](./253780-watching-blade-runner-on-a-rainy-night.json) |
@@ -5738,6 +5739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within | 377145 | [377145-within.json](./377145-within.json) |
 | Within | 391217 | [391217-within.json](./391217-within.json) |
 | Within | 415248 | [415248-within.json](./415248-within.json) |
+| Within a Dead City | 244414 | [244414-within-a-dead-city.json](./244414-within-a-dead-city.json) |
 | Within a Deep Forest | 50465 | [50465-within-a-deep-forest.json](./50465-within-a-deep-forest.json) |
 | Within a Rose | 72361 | [72361-within-a-rose.json](./72361-within-a-rose.json) |
 | Within His View | 379868 | [379868-within-his-view.json](./379868-within-his-view.json) |
