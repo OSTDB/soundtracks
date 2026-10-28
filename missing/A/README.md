@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Death in the Red Light | 297761 | [297761-a-death-in-the-red-light.json](./297761-a-death-in-the-red-light.json) |
 | A Decade Outside | 186043 | [186043-a-decade-outside.json](./186043-a-decade-outside.json) |
 | A Deep Dive | 349872 | [349872-a-deep-dive.json](./349872-a-deep-dive.json) |
+| A Deep Rest | 253539 | [253539-a-deep-rest.json](./253539-a-deep-rest.json) |
 | A Demon's Game: Episode 1 | 30053 | [30053-a-demons-game-episode-1.json](./30053-a-demons-game-episode-1.json) |
 | A Description of the Newest Sculpture in the Gallery | 401255 | [401255-a-description-of-the-newest-sculpture-in-the-gallery.json](./401255-a-description-of-the-newest-sculpture-in-the-gallery.json) |
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
@@ -4183,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Sirius | 357802 | [357802-agent-sirius.json](./357802-agent-sirius.json) |
 | Agent Skunk: Stink Ops | 419356 | [419356-agent-skunk-stink-ops.json](./419356-agent-skunk-stink-ops.json) |
 | Agent Sorry | 208011 | [208011-agent-sorry.json](./208011-agent-sorry.json) |
+| Agent Team Simulator: Your Agent in the Game | 253466 | [253466-agent-team-simulator-your-agent-in-the-game.json](./253466-agent-team-simulator-your-agent-in-the-game.json) |
 | Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
 | Agent Versus | 379515 | [379515-agent-versus.json](./379515-agent-versus.json) |
 | Agent Walker: Secret Journey | 32184 | [32184-agent-walker-secret-journey.json](./32184-agent-walker-secret-journey.json) |
@@ -8215,6 +8217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Legion: Charming Mystery - Purple | 290786 | [290786-angel-legion-charming-mystery-purple.json](./290786-angel-legion-charming-mystery-purple.json) |
 | Angel Legion: Charming Mystery - Red | 302576 | [302576-angel-legion-charming-mystery-red.json](./302576-angel-legion-charming-mystery-red.json) |
 | Angel Legion: Future Dream - Green | 323231 | [323231-angel-legion-future-dream-green.json](./323231-angel-legion-future-dream-green.json) |
+| Angel Legion: Lil Lily - Green | 253541 | [253541-angel-legion-lil-lily-green.json](./253541-angel-legion-lil-lily-green.json) |
 | Angel Legion: Oriental - Purple | 254160 | [254160-angel-legion-oriental-purple.json](./254160-angel-legion-oriental-purple.json) |
 | Angel Legion: Secret Gift - Pink | 302574 | [302574-angel-legion-secret-gift-pink.json](./302574-angel-legion-secret-gift-pink.json) |
 | Angel Legion: Secret Gift - Purple | 312052 | [312052-angel-legion-secret-gift-purple.json](./312052-angel-legion-secret-gift-purple.json) |
