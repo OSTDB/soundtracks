@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw World Tour South Korea | 273353 | [273353-1001-jigsaw-world-tour-south-korea.json](./273353-1001-jigsaw-world-tour-south-korea.json) |
 | 1001 Jigsaw World Tour: Europe | 96827 | [96827-1001-jigsaw-world-tour-europe.json](./96827-1001-jigsaw-world-tour-europe.json) |
 | 1001 Jigsaw: 6 Magic Elements | 268037 | [268037-1001-jigsaw-6-magic-elements.json](./268037-1001-jigsaw-6-magic-elements.json) |
+| 1001 Jigsaw: Castles and Palaces 4 | 249588 | [249588-1001-jigsaw-castles-and-palaces-4.json](./249588-1001-jigsaw-castles-and-palaces-4.json) |
 | 1001 Jigsaw: Castles and Palaces 5 | 257464 | [257464-1001-jigsaw-castles-and-palaces-5.json](./257464-1001-jigsaw-castles-and-palaces-5.json) |
 | 1001 Jigsaw: Cute Cats | 195444 | [195444-1001-jigsaw-cute-cats.json](./195444-1001-jigsaw-cute-cats.json) |
 | 1001 Jigsaw: Cute Cats 2 | 211385 | [211385-1001-jigsaw-cute-cats-2.json](./211385-1001-jigsaw-cute-cats-2.json) |
@@ -2197,10 +2198,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3on3 FreeStyle: Beginner's Starter Kit | 377373 | [377373-3on3-freestyle-beginners-starter-kit.json](./377373-3on3-freestyle-beginners-starter-kit.json) |
 | 3on3 FreeStyle: Character Access Pass | 377372 | [377372-3on3-freestyle-character-access-pass.json](./377372-3on3-freestyle-character-access-pass.json) |
 | 3on3 FreeStyle: Crossplay 4th Anniversary Gift Pack | 377371 | [377371-3on3-freestyle-crossplay-4th-anniversary-gift-pack.json](./377371-3on3-freestyle-crossplay-4th-anniversary-gift-pack.json) |
+| 3on3 FreeStyle: Deluxe Edition | 249819 | [249819-3on3-freestyle-deluxe-edition.json](./249819-3on3-freestyle-deluxe-edition.json) |
 | 3on3 FreeStyle: P5 Selection Pro Pack | 377370 | [377370-3on3-freestyle-p5-selection-pro-pack.json](./377370-3on3-freestyle-p5-selection-pro-pack.json) |
 | 3on3 FreeStyle: P5 Selection Rookie Pack | 377369 | [377369-3on3-freestyle-p5-selection-rookie-pack.json](./377369-3on3-freestyle-p5-selection-rookie-pack.json) |
 | 3on3 FreeStyle: P6 Selection Rookie Pack | 377368 | [377368-3on3-freestyle-p6-selection-rookie-pack.json](./377368-3on3-freestyle-p6-selection-rookie-pack.json) |
 | 3on3 FreeStyle: Rebound | 135748 | [135748-3on3-freestyle-rebound.json](./135748-3on3-freestyle-rebound.json) |
+| 3on3 FreeStyle: Ultimate Edition | 249818 | [249818-3on3-freestyle-ultimate-edition.json](./249818-3on3-freestyle-ultimate-edition.json) |
 | 3rd Degree | 45948 | [45948-3rd-degree.json](./45948-3rd-degree.json) |
 | 3rd Eye | 107236 | [107236-3rd-eye.json](./107236-3rd-eye.json) |
 | 3rd Invasion: Zombies vs. Steel | 114555 | [114555-3rd-invasion-zombies-vs-steel.json](./114555-3rd-invasion-zombies-vs-steel.json) |
