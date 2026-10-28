@@ -3896,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otaku no Omocha in Acolyte | 97489 | [97489-otaku-no-omocha-in-acolyte.json](./97489-otaku-no-omocha-in-acolyte.json) |
 | Otaku no Omocha in High Priest | 108944 | [108944-otaku-no-omocha-in-high-priest.json](./108944-otaku-no-omocha-in-high-priest.json) |
 | Otaku Puzzle | 367624 | [367624-otaku-puzzle.json](./367624-otaku-puzzle.json) |
+| Otaku Puzzle! | 268044 | [268044-otaku-puzzle.json](./268044-otaku-puzzle.json) |
 | Otaku Simulator | 304069 | [304069-otaku-simulator.json](./304069-otaku-simulator.json) |
 | Otaku Survival Horror | 343060 | [343060-otaku-survival-horror.json](./343060-otaku-survival-horror.json) |
 | Otaku's Adventure: The World Just Keeps Turning | 299119 | [299119-otakus-adventure-the-world-just-keeps-turning.json](./299119-otakus-adventure-the-world-just-keeps-turning.json) |
