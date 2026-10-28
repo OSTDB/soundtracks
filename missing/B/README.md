@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baking Time: Fast Edition | 310436 | [310436-baking-time-fast-edition.json](./310436-baking-time-fast-edition.json) |
 | Baking Time: Speedy Animals | 300947 | [300947-baking-time-speedy-animals.json](./300947-baking-time-speedy-animals.json) |
 | Baking Time: Strong Pets | 300948 | [300948-baking-time-strong-pets.json](./300948-baking-time-strong-pets.json) |
+| Baking with Lizzie | 240961 | [240961-baking-with-lizzie.json](./240961-baking-with-lizzie.json) |
 | Bakkaniya | 249498 | [249498-bakkaniya.json](./249498-bakkaniya.json) |
 | Bakken: Ski Jumping - Next Season | 388133 | [388133-bakken-ski-jumping-next-season.json](./388133-bakken-ski-jumping-next-season.json) |
 | Baklava Simulator | 165757 | [165757-baklava-simulator.json](./165757-baklava-simulator.json) |
@@ -5229,6 +5230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before the explosion | 204810 | [204810-before-the-explosion.json](./204810-before-the-explosion.json) |
 | Before the Fall | 411540 | [411540-before-the-fall.json](./411540-before-the-fall.json) |
 | Before the Great | 136706 | [136706-before-the-great.json](./136706-before-the-great.json) |
+| Before the Green Moon | 240988 | [240988-before-the-green-moon.json](./240988-before-the-green-moon.json) |
 | Before the Last Hour | 200428 | [200428-before-the-last-hour.json](./200428-before-the-last-hour.json) |
 | Before the Legacy | 71165 | [71165-before-the-legacy.json](./71165-before-the-legacy.json) |
 | Before The Mine | 281958 | [281958-before-the-mine.json](./281958-before-the-mine.json) |
@@ -15806,6 +15808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busty Hentai Mosaic | 291068 | [291068-busty-hentai-mosaic.json](./291068-busty-hentai-mosaic.json) |
 | Busty Maid: Creampie Heaven | 127964 | [127964-busty-maid-creampie-heaven.json](./127964-busty-maid-creampie-heaven.json) |
 | BustyBiz: Anna Pack | 265252 | [265252-bustybiz-anna-pack.json](./265252-bustybiz-anna-pack.json) |
+| Busway Islands | 240609 | [240609-busway-islands.json](./240609-busway-islands.json) |
 | Busway Islands: Puzzle | 308646 | [308646-busway-islands-puzzle.json](./308646-busway-islands-puzzle.json) |
 | Busy Bea's Halftime Hustle | 349295 | [349295-busy-beas-halftime-hustle.json](./349295-busy-beas-halftime-hustle.json) |
 | Busy Bee | 246866 | [246866-busy-bee.json](./246866-busy-bee.json) |
