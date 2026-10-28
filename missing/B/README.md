@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -14428,7 +14429,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buck Blastem | 322987 | [322987-buck-blastem.json](./322987-buck-blastem.json) |
 | Buck Borris in Action | 152842 | [152842-buck-borris-in-action.json](./152842-buck-borris-in-action.json) |
 | Buck Bradley: Comic Adventure | 133213 | [133213-buck-bradley-comic-adventure.json](./133213-buck-bradley-comic-adventure.json) |
-| Buck Bumble | 3368 | [3368-buck-bumble.json](./3368-buck-bumble.json) |
 | Buck Fever | 51007 | [51007-buck-fever.json](./51007-buck-fever.json) |
 | Buck Rogers: Matrix Cubed | 14499 | [14499-buck-rogers-matrix-cubed.json](./14499-buck-rogers-matrix-cubed.json) |
 | Buck Rogers: Planet of Zoom | 11142 | [11142-buck-rogers-planet-of-zoom.json](./11142-buck-rogers-planet-of-zoom.json) |
