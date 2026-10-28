@@ -6010,6 +6010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Crosswords | 107056 | [107056-hidden-object-crosswords.json](./107056-hidden-object-crosswords.json) |
 | Hidden Object Fairy Tales | 101345 | [101345-hidden-object-fairy-tales.json](./101345-hidden-object-fairy-tales.json) |
 | Hidden Object Game | 102562 | [102562-hidden-object-game.json](./102562-hidden-object-game.json) |
+| Hidden Object Hunt | 277446 | [277446-hidden-object-hunt.json](./277446-hidden-object-hunt.json) |
 | Hidden Object Mysteries 3 | 198089 | [198089-hidden-object-mysteries-3.json](./198089-hidden-object-mysteries-3.json) |
 | Hidden Object Mystery: Ghostly Manor | 105961 | [105961-hidden-object-mystery-ghostly-manor.json](./105961-hidden-object-mystery-ghostly-manor.json) |
 | Hidden Object Secrets: Family Revenge - Collector's Edition | 276663 | [276663-hidden-object-secrets-family-revenge-collectors-edition.json](./276663-hidden-object-secrets-family-revenge-collectors-edition.json) |
@@ -6461,6 +6462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Girl Life Sim 3D | 297504 | [297504-high-school-girl-life-sim-3d.json](./297504-high-school-girl-life-sim-3d.json) |
 | High School Girl Life Simulator | 102757 | [102757-high-school-girl-life-simulator.json](./102757-high-school-girl-life-simulator.json) |
 | High School Girl Simulator 3D | 299905 | [299905-high-school-girl-simulator-3d.json](./299905-high-school-girl-simulator-3d.json) |
+| High School Hills: Dreams & Nightmares | 277135 | [277135-high-school-hills-dreams-and-nightmares.json](./277135-high-school-hills-dreams-and-nightmares.json) |
 | High School Hook Ups | 239469 | [239469-high-school-hook-ups.json](./239469-high-school-hook-ups.json) |
 | High School Kimengumi | 41738 | [41738-high-school-kimengumi.json](./41738-high-school-kimengumi.json) |
 | High School Love Sim Life Game | 296756 | [296756-high-school-love-sim-life-game.json](./296756-high-school-love-sim-life-game.json) |
@@ -9206,6 +9208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Hima | 260865 | [260865-hotel-hima.json](./260865-hotel-hima.json) |
 | Hotel Hustle | 300659 | [300659-hotel-hustle.json](./300659-hotel-hustle.json) |
 | Hotel Hysteria! | 316261 | [316261-hotel-hysteria.json](./316261-hotel-hysteria.json) |
+| Hotel in the Dark | 277129 | [277129-hotel-in-the-dark.json](./277129-hotel-in-the-dark.json) |
 | Hotel Infinity | 297430 | [297430-hotel-infinity.json](./297430-hotel-infinity.json) |
 | Hotel Infinity | 351048 | [351048-hotel-infinity.json](./351048-hotel-infinity.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
