@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Battle Fishers: Yoky Shiimono wa Tsure | 281424 | [281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json](./281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json) |
 | Gakuen Club | 31975 | [31975-gakuen-club.json](./31975-gakuen-club.json) |
 | Gakuen Handsome | 230342 | [230342-gakuen-handsome.json](./230342-gakuen-handsome.json) |
+| Gakuen Handsome Fighters | 243866 | [243866-gakuen-handsome-fighters.json](./243866-gakuen-handsome-fighters.json) |
 | Gakuen Hetalia DS | 130581 | [130581-gakuen-hetalia-ds.json](./130581-gakuen-hetalia-ds.json) |
 | Gakuen Hetalia Portable | 59419 | [59419-gakuen-hetalia-portable.json](./59419-gakuen-hetalia-portable.json) |
 | Gakuen Hyoryuu Senki | 191872 | [191872-gakuen-hyoryuu-senki.json](./191872-gakuen-hyoryuu-senki.json) |
@@ -3928,6 +3929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girlfriend Simulator | 379587 | [379587-girlfriend-simulator.json](./379587-girlfriend-simulator.json) |
 | Girlfriend Strip Blackjack | 392400 | [392400-girlfriend-strip-blackjack.json](./392400-girlfriend-strip-blackjack.json) |
 | GirlFriend VR | 368116 | [368116-girlfriend-vr.json](./368116-girlfriend-vr.json) |
+| Girlfriend vs. Boyfriend | 242727 | [242727-girlfriend-vs-boyfriend.json](./242727-girlfriend-vs-boyfriend.json) |
 | Girlfriend's Betrayal | 251518 | [251518-girlfriends-betrayal.json](./251518-girlfriends-betrayal.json) |
 | Girlfriend's sister | 75784 | [75784-girlfriends-sister.json](./75784-girlfriends-sister.json) |
 | Girlfriends Forever: Magic Skate | 84511 | [84511-girlfriends-forever-magic-skate.json](./84511-girlfriends-forever-magic-skate.json) |
@@ -4675,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomesplosion! | 420798 | [420798-gnomesplosion.json](./420798-gnomesplosion.json) |
 | Gnomic | 93469 | [93469-gnomic.json](./93469-gnomic.json) |
 | Gnomich | 340312 | [340312-gnomich.json](./340312-gnomich.json) |
+| Gnomitaire | 242737 | [242737-gnomitaire.json](./242737-gnomitaire.json) |
 | Gnomium: Pocket Edition | 241215 | [241215-gnomium-pocket-edition.json](./241215-gnomium-pocket-edition.json) |
 | Gnomonic | 219797 | [219797-gnomonic.json](./219797-gnomonic.json) |
 | Gnomophobia | 381068 | [381068-gnomophobia.json](./381068-gnomophobia.json) |
@@ -4863,6 +4866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Sports Ski | 72936 | [72936-go-sports-ski.json](./72936-go-sports-ski.json) |
 | Go! Sports Skydiving | 21815 | [21815-go-sports-skydiving.json](./21815-go-sports-skydiving.json) |
 | Go! Super Awesome Monkey! | 414329 | [414329-go-super-awesome-monkey.json](./414329-go-super-awesome-monkey.json) |
+| Go! Underground | 242728 | [242728-go-underground.json](./242728-go-underground.json) |
 | Go!Go! Usa-chan Ressha | 242081 | [242081-go-go-usa-chan-ressha.json](./242081-go-go-usa-chan-ressha.json) |
 | Go!Go!Pizzaboy! | 327459 | [327459-go-go-pizzaboy.json](./327459-go-go-pizzaboy.json) |
 | Goaaal | 200131 | [200131-goaaal.json](./200131-goaaal.json) |
