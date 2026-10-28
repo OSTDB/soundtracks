@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daneta | 125456 | [125456-daneta.json](./125456-daneta.json) |
 | Daneta2 | 125455 | [125455-daneta2.json](./125455-daneta2.json) |
 | Dang Darn Island | 373800 | [373800-dang-darn-island.json](./373800-dang-darn-island.json) |
+| Dangan | 246216 | [246216-dangan.json](./246216-dangan.json) |
 | Dangan GB | 116963 | [116963-dangan-gb.json](./116963-dangan-gb.json) |
 | Dangan GB2 | 279666 | [279666-dangan-gb2.json](./279666-dangan-gb2.json) |
 | Danganronpa 1-2 Reload | 42914 | [42914-danganronpa-1-2-reload.json](./42914-danganronpa-1-2-reload.json) |
@@ -2008,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darq: The Crypt | 167767 | [167767-darq-the-crypt.json](./167767-darq-the-crypt.json) |
 | Darrell 3D | 416678 | [416678-darrell-3d.json](./416678-darrell-3d.json) |
 | Darso Roads | 325815 | [325815-darso-roads.json](./325815-darso-roads.json) |
+| Dart | 246439 | [246439-dart.json](./246439-dart.json) |
 | Dart Monkey 1.5143 | 341709 | [341709-dart-monkey-1-5143.json](./341709-dart-monkey-1-5143.json) |
 | Dart Racer | 258909 | [258909-dart-racer.json](./258909-dart-racer.json) |
 | Dart Rage | 50735 | [50735-dart-rage.json](./50735-dart-rage.json) |
@@ -4261,6 +4263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deceit 2 | 239561 | [239561-deceit-2.json](./239561-deceit-2.json) |
 | Deceit 2: Master Edition | 331267 | [331267-deceit-2-master-edition.json](./331267-deceit-2-master-edition.json) |
 | Deceitful Devotions | 227945 | [227945-deceitful-devotions.json](./227945-deceitful-devotions.json) |
+| Deceive Inc.: Misery Empire | 246571 | [246571-deceive-inc-misery-empire.json](./246571-deceive-inc-misery-empire.json) |
 | Deceive Inc.: Neon Nights | 257432 | [257432-deceive-inc-neon-nights.json](./257432-deceive-inc-neon-nights.json) |
 | Deceive Inc.: Of Queens and Kings | 272493 | [272493-deceive-inc-of-queens-and-kings.json](./272493-deceive-inc-of-queens-and-kings.json) |
 | Deceiver | 74788 | [74788-deceiver.json](./74788-deceiver.json) |
@@ -9006,6 +9009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess | 230337 | [230337-disney-princess.json](./230337-disney-princess.json) |
 | Disney Princess | 230556 | [230556-disney-princess.json](./230556-disney-princess.json) |
 | Disney Princess | 79718 | [79718-disney-princess.json](./79718-disney-princess.json) |
+| Disney Princess Cyber Arcade Pocket | 246557 | [246557-disney-princess-cyber-arcade-pocket.json](./246557-disney-princess-cyber-arcade-pocket.json) |
 | Disney Princess Fashion Boutique | 209891 | [209891-disney-princess-fashion-boutique.json](./209891-disney-princess-fashion-boutique.json) |
 | Disney Princess Jewelry Box Collection | 350331 | [350331-disney-princess-jewelry-box-collection.json](./350331-disney-princess-jewelry-box-collection.json) |
 | Disney Princess Palace Pets | 334251 | [334251-disney-princess-palace-pets.json](./334251-disney-princess-palace-pets.json) |
@@ -9962,6 +9966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgekill | 345687 | [345687-dodgekill.json](./345687-dodgekill.json) |
 | DodgeKing | 213989 | [213989-dodgeking.json](./213989-dodgeking.json) |
 | Dodgem Arena | 43693 | [43693-dodgem-arena.json](./43693-dodgem-arena.json) |
+| Dodgeman | 246440 | [246440-dodgeman.json](./246440-dodgeman.json) |
 | Dodgems and Connect 4 | 319530 | [319530-dodgems-and-connect-4.json](./319530-dodgems-and-connect-4.json) |
 | Dodgeout+ | 245199 | [245199-dodgeout.json](./245199-dodgeout.json) |
 | DodgerBall | 59415 | [59415-dodgerball.json](./59415-dodgerball.json) |
