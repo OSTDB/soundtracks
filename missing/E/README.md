@@ -1027,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edegard: Puqq | 244833 | [244833-edegard-puqq.json](./244833-edegard-puqq.json) |
 | EdelSuche | 265233 | [265233-edelsuche.json](./265233-edelsuche.json) |
 | Edelweiss | 184303 | [184303-edelweiss.json](./184303-edelweiss.json) |
+| Edelweiss | 244953 | [244953-edelweiss.json](./244953-edelweiss.json) |
 | Edelweiss | 67817 | [67817-edelweiss.json](./67817-edelweiss.json) |
 | Edelweiss Eiden Fantasia | 64258 | [64258-edelweiss-eiden-fantasia.json](./64258-edelweiss-eiden-fantasia.json) |
 | Edelweiss Eidenjima Complete Pack | 126326 | [126326-edelweiss-eidenjima-complete-pack.json](./126326-edelweiss-eidenjima-complete-pack.json) |
@@ -1290,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Defense | 295230 | [295230-egg-defense.json](./295230-egg-defense.json) |
 | Egg Drop | 264233 | [264233-egg-drop.json](./264233-egg-drop.json) |
 | Egg Drop Soup | 414301 | [414301-egg-drop-soup.json](./414301-egg-drop-soup.json) |
+| Egg Fighters | 244813 | [244813-egg-fighters.json](./244813-egg-fighters.json) |
 | Egg Finder | 360457 | [360457-egg-finder.json](./360457-egg-finder.json) |
 | Egg Fly | 191011 | [191011-egg-fly.json](./191011-egg-fly.json) |
 | Egg Fried Rice | 307268 | [307268-egg-fried-rice.json](./307268-egg-fried-rice.json) |
