@@ -2974,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 90 Seconds | 259237 | [259237-90-seconds.json](./259237-90-seconds.json) |
 | 90'' Soccer | 212342 | [212342-90-soccer.json](./212342-90-soccer.json) |
 | 90's Pool | 84682 | [84682-90s-pool.json](./84682-90s-pool.json) |
+| 900 Deep in the Dead | 273736 | [273736-900-deep-in-the-dead.json](./273736-900-deep-in-the-dead.json) |
 | 9000 Years Ago | 283074 | [283074-9000-years-ago.json](./283074-9000-years-ago.json) |
 | 90FX | 377126 | [377126-90fx.json](./377126-90fx.json) |
 | 90s Extreme Skiing | 328091 | [328091-90s-extreme-skiing.json](./328091-90s-extreme-skiing.json) |
