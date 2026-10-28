@@ -3156,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekoha: A Tale Among the Stars | 237343 | [237343-tekoha-a-tale-among-the-stars.json](./237343-tekoha-a-tale-among-the-stars.json) |
 | TekSkeleton | 287242 | [287242-tekskeleton.json](./287242-tekskeleton.json) |
 | Tektonik | 63234 | [63234-tektonik.json](./63234-tektonik.json) |
+| TekTopia | 233696 | [233696-tektopia.json](./233696-tektopia.json) |
 | Teku | 274499 | [274499-teku.json](./274499-teku.json) |
 | Teku-Teku Teku-Teku | 111440 | [111440-teku-teku-teku-teku.json](./111440-teku-teku-teku-teku.json) |
 | Tekuteku Pikmin | 232901 | [232901-tekuteku-pikmin.json](./232901-tekuteku-pikmin.json) |
@@ -7487,6 +7488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Duel | 270577 | [270577-the-duel.json](./270577-the-duel.json) |
 | The Duel: Reloaded | 124668 | [124668-the-duel-reloaded.json](./124668-the-duel-reloaded.json) |
 | The Duel: Test Drive II | 2201 | [2201-the-duel-test-drive-ii.json](./2201-the-duel-test-drive-ii.json) |
+| The Duelist: Sanaculus | 233703 | [233703-the-duelist-sanaculus.json](./233703-the-duelist-sanaculus.json) |
 | The Duke is Dead | 409334 | [409334-the-duke-is-dead.json](./409334-the-duke-is-dead.json) |
 | The Dukes of Hazzard | 122629 | [122629-the-dukes-of-hazzard.json](./122629-the-dukes-of-hazzard.json) |
 | The Dukes of Hazzard | 14042 | [14042-the-dukes-of-hazzard.json](./14042-the-dukes-of-hazzard.json) |
@@ -27686,6 +27688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trunkey's Amazing Odyssey | 369467 | [369467-trunkeys-amazing-odyssey.json](./369467-trunkeys-amazing-odyssey.json) |
 | Trupe do Sapinho | 278247 | [278247-trupe-do-sapinho.json](./278247-trupe-do-sapinho.json) |
 | Trupki | 281924 | [281924-trupki.json](./281924-trupki.json) |
+| Trupuzzle | 233723 | [233723-trupuzzle.json](./233723-trupuzzle.json) |
 | Trushybin & Removin: What I Couldn’t Delete | 390273 | [390273-trushybin-and-removin-what-i-couldn-t-delete.json](./390273-trushybin-and-removin-what-i-couldn-t-delete.json) |
 | Truss | 230370 | [230370-truss.json](./230370-truss.json) |
 | Trust | 341979 | [341979-trust.json](./341979-trust.json) |
