@@ -2489,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Obelisk: Tulah, the Spider Queen | 357780 | [357780-across-the-obelisk-tulah-the-spider-queen.json](./357780-across-the-obelisk-tulah-the-spider-queen.json) |
 | Across the River | 334487 | [334487-across-the-river.json](./334487-across-the-river.json) |
 | Across the Table Hockey | 175087 | [175087-across-the-table-hockey.json](./175087-across-the-table-hockey.json) |
+| Across the Valley | 230504 | [230504-across-the-valley.json](./230504-across-the-valley.json) |
 | Across the Void | 313818 | [313818-across-the-void.json](./313818-across-the-void.json) |
 | Across The Void | 248133 | [248133-across-the-void.json](./248133-across-the-void.json) |
 | Across the Wilds | 238739 | [238739-across-the-wilds.json](./238739-across-the-wilds.json) |
@@ -5929,6 +5930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Holocaust | 217849 | [217849-alien-holocaust.json](./217849-alien-holocaust.json) |
 | Alien Holocaust II: Invasion Earth | 255670 | [255670-alien-holocaust-ii-invasion-earth.json](./255670-alien-holocaust-ii-invasion-earth.json) |
 | Alien Hominid | 210733 | [210733-alien-hominid.json](./210733-alien-hominid.json) |
+| Alien Hominid | 230475 | [230475-alien-hominid.json](./230475-alien-hominid.json) |
 | Alien Hominid | 2690 | [2690-alien-hominid.json](./2690-alien-hominid.json) |
 | Alien Hominid | 314892 | [314892-alien-hominid.json](./314892-alien-hominid.json) |
 | Alien Hominid 360 | 314895 | [314895-alien-hominid-360.json](./314895-alien-hominid-360.json) |
@@ -13368,6 +13370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: The Americas Collection | 22815 | [22815-assassins-creed-the-americas-collection.json](./22815-assassins-creed-the-americas-collection.json) |
 | Assassin's Creed: The Ezio Collection | 23954 | [23954-assassins-creed-the-ezio-collection.json](./23954-assassins-creed-the-ezio-collection.json) |
 | Assassin's Creed: The Rebel Collection | 122236 | [122236-assassins-creed-the-rebel-collection.json](./122236-assassins-creed-the-rebel-collection.json) |
+| Assassin's Creed: Unity - Bastille Edition | 230498 | [230498-assassins-creed-unity-bastille-edition.json](./230498-assassins-creed-unity-bastille-edition.json) |
 | Assassin's Creed: Unity - Limited Edition | 136262 | [136262-assassins-creed-unity-limited-edition.json](./136262-assassins-creed-unity-limited-edition.json) |
 | Assassin's Shadows | 331306 | [331306-assassins-shadows.json](./331306-assassins-shadows.json) |
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
@@ -14505,6 +14508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas Fallen: Limited Edition | 252210 | [252210-atlas-fallen-limited-edition.json](./252210-atlas-fallen-limited-edition.json) |
 | Atlas Fallen: Reign of Sand | 311747 | [311747-atlas-fallen-reign-of-sand.json](./311747-atlas-fallen-reign-of-sand.json) |
 | Atlas Fallen: Signature Edition | 241961 | [241961-atlas-fallen-signature-edition.json](./241961-atlas-fallen-signature-edition.json) |
+| Atlas Gate | 230483 | [230483-atlas-gate.json](./230483-atlas-gate.json) |
 | Atlas Hands | 349090 | [349090-atlas-hands.json](./349090-atlas-hands.json) |
 | Atlas Novum | 298293 | [298293-atlas-novum.json](./298293-atlas-novum.json) |
 | Atlas of the Starry Night | 293005 | [293005-atlas-of-the-starry-night.json](./293005-atlas-of-the-starry-night.json) |
