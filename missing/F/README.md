@@ -1514,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy Cakes: Merge Adventure | 240108 | [240108-fancy-cakes-merge-adventure.json](./240108-fancy-cakes-merge-adventure.json) |
 | Fancy Island | 172735 | [172735-fancy-island.json](./172735-fancy-island.json) |
 | Fancy Match | 246545 | [246545-fancy-match.json](./246545-fancy-match.json) |
+| Fancy Match | 246552 | [246552-fancy-match.json](./246552-fancy-match.json) |
 | Fancy Nancy: Tea Party Time! | 66370 | [66370-fancy-nancy-tea-party-time.json](./66370-fancy-nancy-tea-party-time.json) |
 | Fancy Pocket | 49579 | [49579-fancy-pocket.json](./49579-fancy-pocket.json) |
 | Fancy Skiing 2: Online | 105312 | [105312-fancy-skiing-2-online.json](./105312-fancy-skiing-2-online.json) |
@@ -2224,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm of the Unseen | 353382 | [353382-farm-of-the-unseen.json](./353382-farm-of-the-unseen.json) |
 | Farm On! | 96696 | [96696-farm-on.json](./96696-farm-on.json) |
 | Farm Pets Bundle | 272330 | [272330-farm-pets-bundle.json](./272330-farm-pets-bundle.json) |
+| Farm Pinball | 246442 | [246442-farm-pinball.json](./246442-farm-pinball.json) |
 | Farm Racing | 292224 | [292224-farm-racing.json](./292224-farm-racing.json) |
 | Farm Racing | 381014 | [381014-farm-racing.json](./381014-farm-racing.json) |
 | Farm Renovator | 216618 | [216618-farm-renovator.json](./216618-farm-renovator.json) |
@@ -4342,8 +4344,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VI: General Leo Edition | 339239 | [339239-final-fantasy-vi-general-leo-edition.json](./339239-final-fantasy-vi-general-leo-edition.json) |
 | Final Fantasy VI: Omega-A | 393097 | [393097-final-fantasy-vi-omega-a.json](./393097-final-fantasy-vi-omega-a.json) |
 | Final Fantasy VI: Presentiment Era | 339252 | [339252-final-fantasy-vi-presentiment-era.json](./339252-final-fantasy-vi-presentiment-era.json) |
+| Final Fantasy VI: Return of the Dark Sorcerer | 246588 | [246588-final-fantasy-vi-return-of-the-dark-sorcerer.json](./246588-final-fantasy-vi-return-of-the-dark-sorcerer.json) |
 | Final Fantasy VI: Revised Old Style Edition | 379343 | [379343-final-fantasy-vi-revised-old-style-edition.json](./379343-final-fantasy-vi-revised-old-style-edition.json) |
 | Final Fantasy VI: SPX Version | 353930 | [353930-final-fantasy-vi-spx-version.json](./353930-final-fantasy-vi-spx-version.json) |
+| Final Fantasy VI: Ted Woolsey Uncensored Edition | 246582 | [246582-final-fantasy-vi-ted-woolsey-uncensored-edition.json](./246582-final-fantasy-vi-ted-woolsey-uncensored-edition.json) |
 | Final Fantasy VI: The Eternal Crystals | 309600 | [309600-final-fantasy-vi-the-eternal-crystals.json](./309600-final-fantasy-vi-the-eternal-crystals.json) |
 | Final Fantasy VII | 207026 | [207026-final-fantasy-vii.json](./207026-final-fantasy-vii.json) |
 | Final Fantasy VII | 207028 | [207028-final-fantasy-vii.json](./207028-final-fantasy-vii.json) |
@@ -4555,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Nights 4: Fates Entwined | 238373 | [238373-final-nights-4-fates-entwined.json](./238373-final-nights-4-fates-entwined.json) |
 | Final Nights Redux and Knuckles | 238374 | [238374-final-nights-redux-and-knuckles.json](./238374-final-nights-redux-and-knuckles.json) |
 | Final Ninja | 176821 | [176821-final-ninja.json](./176821-final-ninja.json) |
+| Final Ninja | 246443 | [246443-final-ninja.json](./246443-final-ninja.json) |
 | Final Ninja Zero | 176868 | [176868-final-ninja-zero.json](./176868-final-ninja-zero.json) |
 | Final Notice | 351112 | [351112-final-notice.json](./351112-final-notice.json) |
 | Final Odyssey | 378173 | [378173-final-odyssey.json](./378173-final-odyssey.json) |
@@ -4757,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Treasure | 126244 | [126244-find-the-treasure.json](./126244-find-the-treasure.json) |
 | Find The Truth | 327119 | [327119-find-the-truth.json](./327119-find-the-truth.json) |
 | Find the Way | 246330 | [246330-find-the-way.json](./246330-find-the-way.json) |
+| Find the Way | 246444 | [246444-find-the-way.json](./246444-find-the-way.json) |
 | Find the Way Out Samurai! | 245878 | [245878-find-the-way-out-samurai.json](./245878-find-the-way-out-samurai.json) |
 | Find This Pixel Anomaly | 320982 | [320982-find-this-pixel-anomaly.json](./320982-find-this-pixel-anomaly.json) |
 | Find this! | 54859 | [54859-find-this.json](./54859-find-this.json) |
@@ -5237,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FireFall | 3013 | [3013-firefall.json](./3013-firefall.json) |
 | Firefight | 121746 | [121746-firefight.json](./121746-firefight.json) |
 | Firefight | 21411 | [21411-firefight.json](./21411-firefight.json) |
+| Firefight Bro. | 246446 | [246446-firefight-bro.json](./246446-firefight-bro.json) |
 | Firefight Reloaded | 59293 | [59293-firefight-reloaded.json](./59293-firefight-reloaded.json) |
 | Firefight! | 128251 | [128251-firefight.json](./128251-firefight.json) |
 | Firefighter | 154875 | [154875-firefighter.json](./154875-firefighter.json) |
@@ -9259,6 +9266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FOS | 129637 | [129637-fos.json](./129637-fos.json) |
 | Foss Park | 330581 | [330581-foss-park.json](./330581-foss-park.json) |
 | Fossara | 403451 | [403451-fossara.json](./403451-fossara.json) |
+| Fossick Underground | 246447 | [246447-fossick-underground.json](./246447-fossick-underground.json) |
 | Fossil Corner | 150075 | [150075-fossil-corner.json](./150075-fossil-corner.json) |
 | Fossil Diggers VR | 265525 | [265525-fossil-diggers-vr.json](./265525-fossil-diggers-vr.json) |
 | Fossil Echo | 18231 | [18231-fossil-echo.json](./18231-fossil-echo.json) |
