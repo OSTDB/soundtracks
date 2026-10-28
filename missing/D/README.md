@@ -2211,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data: Corruption | 375445 | [375445-data-corruption.json](./375445-data-corruption.json) |
 | Data.Expand | 260146 | [260146-data-expand.json](./260146-data-expand.json) |
 | Database Detective: Minor Crimes Division | 399848 | [399848-database-detective-minor-crimes-division.json](./399848-database-detective-minor-crimes-division.json) |
+| Databugs | 267764 | [267764-databugs.json](./267764-databugs.json) |
 | Dataclysm | 327855 | [327855-dataclysm.json](./327855-dataclysm.json) |
 | DataFall | 393464 | [393464-datafall.json](./393464-datafall.json) |
 | Dataflow | 112353 | [112353-dataflow.json](./112353-dataflow.json) |
@@ -11669,6 +11670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Horror Story: Double Pack | 222262 | [222262-dot-horror-story-double-pack.json](./222262-dot-horror-story-double-pack.json) |
 | Dot Kareshi: We're 8bit Lovers! II - Tenku no Kissu | 206234 | [206234-dot-kareshi-were-8bit-lovers-ii-tenku-no-kissu.json](./206234-dot-kareshi-were-8bit-lovers-ii-tenku-no-kissu.json) |
 | Dot Kareshi: We're 8bit Lovers! III - Yami no Hanayome | 206232 | [206232-dot-kareshi-were-8bit-lovers-iii-yami-no-hanayome.json](./206232-dot-kareshi-were-8bit-lovers-iii-yami-no-hanayome.json) |
+| Dot Kuzushi | 267761 | [267761-dot-kuzushi.json](./267761-dot-kuzushi.json) |
 | Dot Line Link | 232305 | [232305-dot-line-link.json](./232305-dot-line-link.json) |
 | Dot Man | 124511 | [124511-dot-man.json](./124511-dot-man.json) |
 | Dot Net | 388902 | [388902-dot-net.json](./388902-dot-net.json) |
