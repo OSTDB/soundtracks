@@ -1603,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eisei Meijin II | 268640 | [268640-eisei-meijin-ii.json](./268640-eisei-meijin-ii.json) |
 | Eisei Meijin III: Game Creator Yoshimura Nobuhiro no Zunou | 283253 | [283253-eisei-meijin-iii-game-creator-yoshimura-nobuhiro-no-zunou.json](./283253-eisei-meijin-iii-game-creator-yoshimura-nobuhiro-no-zunou.json) |
 | Eisei Meijin VI | 3904 | [3904-eisei-meijin-vi.json](./3904-eisei-meijin-vi.json) |
+| Eiseihousou Taiou Casette: SameGame Editor | 234881 | [234881-eiseihousou-taiou-casette-samegame-editor.json](./234881-eiseihousou-taiou-casette-samegame-editor.json) |
 | Eisen | 240872 | [240872-eisen.json](./240872-eisen.json) |
 | Eisenbahn X: Modellset 1 - Bahnhof, Häuser, Scheunen | 169951 | [169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json](./169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json) |
 | Eisenwald: Blood of November | 25607 | [25607-eisenwald-blood-of-november.json](./25607-eisenwald-blood-of-november.json) |
@@ -5230,6 +5231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Diary | 212860 | [212860-eternal-diary.json](./212860-eternal-diary.json) |
 | Eternal Doom | 140521 | [140521-eternal-doom.json](./140521-eternal-doom.json) |
 | Eternal Doom IV: Return from Oblivion | 256891 | [256891-eternal-doom-iv-return-from-oblivion.json](./256891-eternal-doom-iv-return-from-oblivion.json) |
+| Eternal Dragons | 234821 | [234821-eternal-dragons.json](./234821-eternal-dragons.json) |
 | Eternal Dread | 86340 | [86340-eternal-dread.json](./86340-eternal-dread.json) |
 | Eternal Dread 2 | 126955 | [126955-eternal-dread-2.json](./126955-eternal-dread-2.json) |
 | Eternal Dread 3 | 236111 | [236111-eternal-dread-3.json](./236111-eternal-dread-3.json) |
