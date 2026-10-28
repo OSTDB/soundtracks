@@ -3787,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Gold: The Alchemy of Happiness | 145997 | [145997-perfect-gold-the-alchemy-of-happiness.json](./145997-perfect-gold-the-alchemy-of-happiness.json) |
 | Perfect Golf | 17193 | [17193-perfect-golf.json](./17193-perfect-golf.json) |
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
+| Perfect Hand of Nostalpix | 244943 | [244943-perfect-hand-of-nostalpix.json](./244943-perfect-hand-of-nostalpix.json) |
 | Perfect Harmony | 128913 | [128913-perfect-harmony.json](./128913-perfect-harmony.json) |
 | Perfect Heist 2 | 157499 | [157499-perfect-heist-2.json](./157499-perfect-heist-2.json) |
 | Perfect Heist 2: Historic Characters DLC | 274740 | [274740-perfect-heist-2-historic-characters-dlc.json](./274740-perfect-heist-2-historic-characters-dlc.json) |
@@ -6562,6 +6563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Mosaic Puzzle: Caribbean Treasures | 97144 | [97144-pirate-mosaic-puzzle-caribbean-treasures.json](./97144-pirate-mosaic-puzzle-caribbean-treasures.json) |
 | Pirate of Madagascar Island | 158600 | [158600-pirate-of-madagascar-island.json](./158600-pirate-of-madagascar-island.json) |
 | Pirate Parakeet | 346777 | [346777-pirate-parakeet.json](./346777-pirate-parakeet.json) |
+| Pirate Patrol | 244592 | [244592-pirate-patrol.json](./244592-pirate-patrol.json) |
 | Pirate Pete | 154810 | [154810-pirate-pete.json](./154810-pirate-pete.json) |
 | Pirate Planet | 135556 | [135556-pirate-planet.json](./135556-pirate-planet.json) |
 | Pirate Plight | 245911 | [245911-pirate-plight.json](./245911-pirate-plight.json) |
@@ -11598,6 +11600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pourdle | 332637 | [332637-pourdle.json](./332637-pourdle.json) |
 | Pouring Master | 216090 | [216090-pouring-master.json](./216090-pouring-master.json) |
 | Pouring Pints | 412271 | [412271-pouring-pints.json](./412271-pouring-pints.json) |
+| Poveglia: The Island of No Return | 244935 | [244935-poveglia-the-island-of-no-return.json](./244935-poveglia-the-island-of-no-return.json) |
 | Poverty is a Choice | 106610 | [106610-poverty-is-a-choice.json](./106610-poverty-is-a-choice.json) |
 | Pow 2 | 241074 | [241074-pow-2.json](./241074-pow-2.json) |
 | Pow Pow: Dye it up! | 195728 | [195728-pow-pow-dye-it-up.json](./195728-pow-pow-dye-it-up.json) |
