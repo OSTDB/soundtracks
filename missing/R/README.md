@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radium Lux | 349392 | [349392-radium-lux.json](./349392-radium-lux.json) |
 | RadiusBlood Crypta | 421429 | [421429-radiusblood-crypta.json](./421429-radiusblood-crypta.json) |
 | Radix | 221658 | [221658-radix.json](./221658-radix.json) |
+| Radix Chronicle | 251779 | [251779-radix-chronicle.json](./251779-radix-chronicle.json) |
 | Radley Ravencroft's Spy Web Mystery | 343287 | [343287-radley-ravencrofts-spy-web-mystery.json](./343287-radley-ravencrofts-spy-web-mystery.json) |
 | Radon Blast | 144717 | [144717-radon-blast.json](./144717-radon-blast.json) |
 | Radon Break | 195006 | [195006-radon-break.json](./195006-radon-break.json) |
@@ -865,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid on Rift | 310806 | [310806-raid-on-rift.json](./310806-raid-on-rift.json) |
 | Raid on the Ruhr | 116248 | [116248-raid-on-the-ruhr.json](./116248-raid-on-the-ruhr.json) |
 | Raid on Tri City | 306721 | [306721-raid-on-tri-city.json](./306721-raid-on-tri-city.json) |
+| Raid over Moscow | 251636 | [251636-raid-over-moscow.json](./251636-raid-over-moscow.json) |
 | Raid Rush | 355014 | [355014-raid-rush.json](./355014-raid-rush.json) |
 | Raid the Dungeon | 299200 | [299200-raid-the-dungeon.json](./299200-raid-the-dungeon.json) |
 | Raid: World War II | 10403 | [10403-raid-world-war-ii.json](./10403-raid-world-war-ii.json) |
@@ -10604,6 +10606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Like Hell! | 61642 | [61642-run-like-hell.json](./61642-run-like-hell.json) |
 | Run Like Hell! Treasure Bundle | 118155 | [118155-run-like-hell-treasure-bundle.json](./118155-run-like-hell-treasure-bundle.json) |
 | Run Like Hell!: Heart Breaker | 393434 | [393434-run-like-hell-heart-breaker.json](./393434-run-like-hell-heart-breaker.json) |
+| Run Man | 251641 | [251641-run-man.json](./251641-run-man.json) |
 | Run Mr. Bunny | 94879 | [94879-run-mr-bunny.json](./94879-run-mr-bunny.json) |
 | Run Mr. Robo! | 307872 | [307872-run-mr-robo.json](./307872-run-mr-robo.json) |
 | Run N' Gun | 195737 | [195737-run-n-gun.json](./195737-run-n-gun.json) |
