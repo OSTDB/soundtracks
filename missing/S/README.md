@@ -7595,6 +7595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shmup! | 408773 | [408773-shmup.json](./408773-shmup.json) |
 | Shmups Pack 2x1 | 230129 | [230129-shmups-pack-2x1.json](./230129-shmups-pack-2x1.json) |
 | Shmups Skill Test | 33834 | [33834-shmups-skill-test.json](./33834-shmups-skill-test.json) |
+| ShmupSpeed | 274851 | [274851-shmupspeed.json](./274851-shmupspeed.json) |
 | Shnipers | 56484 | [56484-shnipers.json](./56484-shnipers.json) |
 | Sho Chiku Bai Pachinko | 41526 | [41526-sho-chiku-bai-pachinko.json](./41526-sho-chiku-bai-pachinko.json) |
 | Shoal | 172039 | [172039-shoal.json](./172039-shoal.json) |
@@ -11488,6 +11489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Adventure: Magkid | 69702 | [69702-slide-adventure-magkid.json](./69702-slide-adventure-magkid.json) |
 | Slide and Dice | 359322 | [359322-slide-and-dice.json](./359322-slide-and-dice.json) |
 | Slide And Perform | 340958 | [340958-slide-and-perform.json](./340958-slide-and-perform.json) |
+| Slide Boy in Maze Land | 274856 | [274856-slide-boy-in-maze-land.json](./274856-slide-boy-in-maze-land.json) |
 | Slide Circus HD | 235154 | [235154-slide-circus-hd.json](./235154-slide-circus-hd.json) |
 | Slide Colors | 25399 | [25399-slide-colors.json](./25399-slide-colors.json) |
 | Slide Defenders | 334079 | [334079-slide-defenders.json](./334079-slide-defenders.json) |
@@ -14347,6 +14349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soma Spirits | 400893 | [400893-soma-spirits.json](./400893-soma-spirits.json) |
 | Soma Spirits: Rebalance | 29590 | [29590-soma-spirits-rebalance.json](./29590-soma-spirits-rebalance.json) |
 | Soma Union | 144855 | [144855-soma-union.json](./144855-soma-union.json) |
+| SomaCube | 275154 | [275154-somacube.json](./275154-somacube.json) |
 | Somari Insanity | 331871 | [331871-somari-insanity.json](./331871-somari-insanity.json) |
 | Somari the Adventurer | 198522 | [198522-somari-the-adventurer.json](./198522-somari-the-adventurer.json) |
 | Somber | 216892 | [216892-somber.json](./216892-somber.json) |
@@ -15401,6 +15404,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic X-Treme Revitalized | 326953 | [326953-sonic-x-treme-revitalized.json](./326953-sonic-x-treme-revitalized.json) |
 | Sonic X: Chronological Saga | 331370 | [331370-sonic-x-chronological-saga.json](./331370-sonic-x-chronological-saga.json) |
 | Sonic X: Emerald Grab | 269876 | [269876-sonic-x-emerald-grab.json](./269876-sonic-x-emerald-grab.json) |
+| Sonic X: Speed Spotter 2 | 275157 | [275157-sonic-x-speed-spotter-2.json](./275157-sonic-x-speed-spotter-2.json) |
+| Sonic X: Speed Spotter 3 | 275166 | [275166-sonic-x-speed-spotter-3.json](./275166-sonic-x-speed-spotter-3.json) |
 | Sonic X: The Game | 326809 | [326809-sonic-x-the-game.json](./326809-sonic-x-the-game.json) |
 | Sonic XG | 280874 | [280874-sonic-xg.json](./280874-sonic-xg.json) |
 | Sonic XN | 331666 | [331666-sonic-xn.json](./331666-sonic-xn.json) |
@@ -15572,6 +15577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sora no Iro, Mizu no Iro | 72718 | [72718-sora-no-iro-mizu-no-iro.json](./72718-sora-no-iro-mizu-no-iro.json) |
 | Sora no Otoshimono Forte: Dreamy Season | 62623 | [62623-sora-no-otoshimono-forte-dreamy-season.json](./62623-sora-no-otoshimono-forte-dreamy-season.json) |
 | Sora o Aogite Kumo Takaku | 62733 | [62733-sora-o-aogite-kumo-takaku.json](./62733-sora-o-aogite-kumo-takaku.json) |
+| Sora to Kimi Iro | 275152 | [275152-sora-to-kimi-iro.json](./275152-sora-to-kimi-iro.json) |
 | Sora to Muku no 6-ki | 283583 | [283583-sora-to-muku-no-6-ki.json](./283583-sora-to-muku-no-6-ki.json) |
 | Sora Tobu Henry | 231506 | [231506-sora-tobu-henry.json](./231506-sora-tobu-henry.json) |
 | Sora Yume Portable | 221617 | [221617-sora-yume-portable.json](./221617-sora-yume-portable.json) |
@@ -17043,6 +17049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Renegades: The Series | 73859 | [73859-space-renegades-the-series.json](./73859-space-renegades-the-series.json) |
 | Space Rescue | 204328 | [204328-space-rescue.json](./204328-space-rescue.json) |
 | Space Rescue | 70231 | [70231-space-rescue.json](./70231-space-rescue.json) |
+| Space Rescue in Jupiter | 274860 | [274860-space-rescue-in-jupiter.json](./274860-space-rescue-in-jupiter.json) |
 | Space Rescue: Code Pink | 169417 | [169417-space-rescue-code-pink.json](./169417-space-rescue-code-pink.json) |
 | Space Restaurant | 337722 | [337722-space-restaurant.json](./337722-space-restaurant.json) |
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
@@ -27477,6 +27484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World: The Huge Adventure | 267968 | [267968-super-mario-world-the-huge-adventure.json](./267968-super-mario-world-the-huge-adventure.json) |
 | Super Mario World: The Lost Adventure - Episode I Remastered | 259290 | [259290-super-mario-world-the-lost-adventure-episode-i-remastered.json](./259290-super-mario-world-the-lost-adventure-episode-i-remastered.json) |
 | Super Mario World: The Magical Golden Mushroom | 409611 | [409611-super-mario-world-the-magical-golden-mushroom.json](./409611-super-mario-world-the-magical-golden-mushroom.json) |
+| Super Mario World: The Second Reality Project | 274838 | [274838-super-mario-world-the-second-reality-project.json](./274838-super-mario-world-the-second-reality-project.json) |
 | Super Mario World: The Second Reality Project - Reloaded | 202377 | [202377-super-mario-world-the-second-reality-project-reloaded.json](./202377-super-mario-world-the-second-reality-project-reloaded.json) |
 | Super Mario World: The Second Reality Project 2 - Zycloboo's Challenge | 202378 | [202378-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json](./202378-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json) |
 | Super Mario World: The Secret of the 7 Golden Statues | 42208 | [42208-super-mario-world-the-secret-of-the-7-golden-statues.json](./42208-super-mario-world-the-secret-of-the-7-golden-statues.json) |
