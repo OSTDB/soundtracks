@@ -10910,6 +10910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Trust | 311121 | [311121-dont-trust.json](./311121-dont-trust.json) |
 | Don’t Turn off the Light | 390080 | [390080-don-t-turn-off-the-light.json](./390080-don-t-turn-off-the-light.json) |
 | Don't Turn Your Back On The City | 256797 | [256797-dont-turn-your-back-on-the-city.json](./256797-dont-turn-your-back-on-the-city.json) |
+| Don't Wake God | 236456 | [236456-dont-wake-god.json](./236456-dont-wake-god.json) |
 | Don't Wake Roko | 378144 | [378144-dont-wake-roko.json](./378144-dont-wake-roko.json) |
 | Don't Wake the Beast | 322690 | [322690-dont-wake-the-beast.json](./322690-dont-wake-the-beast.json) |
 | Don't Wake the SysOp | 94944 | [94944-dont-wake-the-sysop.json](./94944-dont-wake-the-sysop.json) |
@@ -12543,6 +12544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Racing: Bike Edition | 235127 | [235127-drag-racing-bike-edition.json](./235127-drag-racing-bike-edition.json) |
 | Drag Sim 2020 | 147741 | [147741-drag-sim-2020.json](./147741-drag-sim-2020.json) |
 | Drag Star! | 116322 | [116322-drag-star.json](./116322-drag-star.json) |
+| Drag the Dead | 236464 | [236464-drag-the-dead.json](./236464-drag-the-dead.json) |
 | Drag the Dungeon | 184345 | [184345-drag-the-dungeon.json](./184345-drag-the-dungeon.json) |
 | Drag the Rope | 254434 | [254434-drag-the-rope.json](./254434-drag-the-rope.json) |
 | Drag Them Out Into Space! | 178969 | [178969-drag-them-out-into-space.json](./178969-drag-them-out-into-space.json) |
@@ -14758,6 +14760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droplitz Delight | 65295 | [65295-droplitz-delight.json](./65295-droplitz-delight.json) |
 | DropMix | 71592 | [71592-dropmix.json](./71592-dropmix.json) |
 | Dropoff | 410269 | [410269-dropoff.json](./410269-dropoff.json) |
+| Dropoff Dealer | 236444 | [236444-dropoff-dealer.json](./236444-dropoff-dealer.json) |
 | Dropped into the Modern World: Surviving the Red-Light District | 311623 | [311623-dropped-into-the-modern-world-surviving-the-red-light-district.json](./311623-dropped-into-the-modern-world-surviving-the-red-light-district.json) |
 | Dropper | 135551 | [135551-dropper.json](./135551-dropper.json) |
 | Drops of God: Creating your Ambrosia | 291378 | [291378-drops-of-god-creating-your-ambrosia.json](./291378-drops-of-god-creating-your-ambrosia.json) |
