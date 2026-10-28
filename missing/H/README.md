@@ -2677,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headless D | 223629 | [223629-headless-d.json](./223629-headless-d.json) |
 | Headless Zombie 2 | 102020 | [102020-headless-zombie-2.json](./102020-headless-zombie-2.json) |
 | Headlice | 292585 | [292585-headlice.json](./292585-headlice.json) |
+| HeadLight | 274052 | [274052-headlight.json](./274052-headlight.json) |
 | Headline Harry and The Great Paper Race | 70785 | [70785-headline-harry-and-the-great-paper-race.json](./70785-headline-harry-and-the-great-paper-race.json) |
 | Headliner: NoviNews | 107596 | [107596-headliner-novinews.json](./107596-headliner-novinews.json) |
 | Headlines from the Deep | 177312 | [177312-headlines-from-the-deep.json](./177312-headlines-from-the-deep.json) |
@@ -3047,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven & Hell 2 | 114375 | [114375-heaven-and-hell-2.json](./114375-heaven-and-hell-2.json) |
 | Heaven & Hell vs The Void | 333138 | [333138-heaven-and-hell-vs-the-void.json](./333138-heaven-and-hell-vs-the-void.json) |
 | Heaven and Earth | 51421 | [51421-heaven-and-earth.json](./51421-heaven-and-earth.json) |
+| Heaven and Hell | 273749 | [273749-heaven-and-hell.json](./273749-heaven-and-hell.json) |
 | Heaven And Hell: The Last War | 111713 | [111713-heaven-and-hell-the-last-war.json](./111713-heaven-and-hell-the-last-war.json) |
 | Heaven Bound | 209866 | [209866-heaven-bound.json](./209866-heaven-bound.json) |
 | Heaven Does Not Respond | 373598 | [373598-heaven-does-not-respond.json](./373598-heaven-does-not-respond.json) |
@@ -6285,6 +6287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden World 10 Top-Down 3D | 277826 | [277826-hidden-world-10-top-down-3d.json](./277826-hidden-world-10-top-down-3d.json) |
 | Hidden World 3 Top-Down 3D | 237810 | [237810-hidden-world-3-top-down-3d.json](./237810-hidden-world-3-top-down-3d.json) |
 | Hidden World 4 Top-Down 3D | 241531 | [241531-hidden-world-4-top-down-3d.json](./241531-hidden-world-4-top-down-3d.json) |
+| Hidden World 6 Top-Down 3D | 274054 | [274054-hidden-world-6-top-down-3d.json](./274054-hidden-world-6-top-down-3d.json) |
 | Hidden World of Art | 143381 | [143381-hidden-world-of-art.json](./143381-hidden-world-of-art.json) |
 | Hidden World of Art 2 | 126667 | [126667-hidden-world-of-art-2.json](./126667-hidden-world-of-art-2.json) |
 | Hidden World of Art 4 | 294848 | [294848-hidden-world-of-art-4.json](./294848-hidden-world-of-art-4.json) |
@@ -6516,6 +6519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Stakes | 141081 | [141081-high-stakes.json](./141081-high-stakes.json) |
 | High Stakes | 299750 | [299750-high-stakes.json](./299750-high-stakes.json) |
 | High Stakes | 414952 | [414952-high-stakes.json](./414952-high-stakes.json) |
+| High Stakes Gambling | 273750 | [273750-high-stakes-gambling.json](./273750-high-stakes-gambling.json) |
 | High Stakes on the Vegas Strip: Poker Edition | 52236 | [52236-high-stakes-on-the-vegas-strip-poker-edition.json](./52236-high-stakes-on-the-vegas-strip-poker-edition.json) |
 | High Stakes: Texas Hold'Em | 67219 | [67219-high-stakes-texas-holdem.json](./67219-high-stakes-texas-holdem.json) |
 | High Strategy: Urukon | 132585 | [132585-high-strategy-urukon.json](./132585-high-strategy-urukon.json) |
