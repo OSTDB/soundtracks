@@ -13416,6 +13416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw and Color: Kawaii - Deluxe Edition | 237851 | [237851-draw-and-color-kawaii-deluxe-edition.json](./237851-draw-and-color-kawaii-deluxe-edition.json) |
 | Draw and Color: Kawaii - Director's Cut | 250361 | [250361-draw-and-color-kawaii-directors-cut.json](./250361-draw-and-color-kawaii-directors-cut.json) |
 | Draw and Color: Kawaii - Extended Edition | 231281 | [231281-draw-and-color-kawaii-extended-edition.json](./231281-draw-and-color-kawaii-extended-edition.json) |
+| Draw and Color: Kawaii - GOTY Edition | 255222 | [255222-draw-and-color-kawaii-goty-edition.json](./255222-draw-and-color-kawaii-goty-edition.json) |
 | Draw and Color: Kawaii - Magnificent Edition | 268554 | [268554-draw-and-color-kawaii-magnificent-edition.json](./268554-draw-and-color-kawaii-magnificent-edition.json) |
 | Draw and Color: Kawaii - Platinum Edition | 247589 | [247589-draw-and-color-kawaii-platinum-edition.json](./247589-draw-and-color-kawaii-platinum-edition.json) |
 | Draw and Color: Kawaii - Special Edition | 231285 | [231285-draw-and-color-kawaii-special-edition.json](./231285-draw-and-color-kawaii-special-edition.json) |
