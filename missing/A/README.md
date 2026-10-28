@@ -15783,6 +15783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Haven | 336407 | [336407-azure-haven.json](./336407-azure-haven.json) |
 | Azure Hue | 336553 | [336553-azure-hue.json](./336553-azure-hue.json) |
 | Azure Influx | 322397 | [322397-azure-influx.json](./322397-azure-influx.json) |
+| Azure Moon | 271856 | [271856-azure-moon.json](./271856-azure-moon.json) |
 | Azure Orphanage | 249212 | [249212-azure-orphanage.json](./249212-azure-orphanage.json) |
 | Azure Reflections | 60315 | [60315-azure-reflections.json](./60315-azure-reflections.json) |
 | Azure Saga: Pathfinder - Deluxe Edition | 116009 | [116009-azure-saga-pathfinder-deluxe-edition.json](./116009-azure-saga-pathfinder-deluxe-edition.json) |
