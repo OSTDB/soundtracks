@@ -9605,6 +9605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inquisitor 3D | 202846 | [202846-the-inquisitor-3d.json](./202846-the-inquisitor-3d.json) |
 | The Inquisitor: Book 1 - The Plague | 17089 | [17089-the-inquisitor-book-1-the-plague.json](./17089-the-inquisitor-book-1-the-plague.json) |
 | The Inquisitor: Book 2 - The Village | 10972 | [10972-the-inquisitor-book-2-the-village.json](./10972-the-inquisitor-book-2-the-village.json) |
+| The Inquisitor: Deluxe Edition | 279150 | [279150-the-inquisitor-deluxe-edition.json](./279150-the-inquisitor-deluxe-edition.json) |
 | The Insect Massacre | 59680 | [59680-the-insect-massacre.json](./59680-the-insect-massacre.json) |
 | The Inseparables | 410209 | [410209-the-inseparables.json](./410209-the-inseparables.json) |
 | The inside of a drawer | 129070 | [129070-the-inside-of-a-drawer.json](./129070-the-inside-of-a-drawer.json) |
@@ -16370,6 +16371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch, Wife, & the Wish | 245735 | [245735-the-witch-wife-and-the-wish.json](./245735-the-witch-wife-and-the-wish.json) |
 | The Witch's Apprentice: A Magical Mishap - Collector's Edition | 170198 | [170198-the-witchs-apprentice-a-magical-mishap-collectors-edition.json](./170198-the-witchs-apprentice-a-magical-mishap-collectors-edition.json) |
 | The Witch's Assistant | 290800 | [290800-the-witchs-assistant.json](./290800-the-witchs-assistant.json) |
+| The Witch's Bakery | 278824 | [278824-the-witchs-bakery.json](./278824-the-witchs-bakery.json) |
 | The Witch's Cauldron | 240731 | [240731-the-witchs-cauldron.json](./240731-the-witchs-cauldron.json) |
 | The Witch's Cauldron: Supporter Pack | 309647 | [309647-the-witchs-cauldron-supporter-pack.json](./309647-the-witchs-cauldron-supporter-pack.json) |
 | The Witch's Cookbook | 257995 | [257995-the-witchs-cookbook.json](./257995-the-witchs-cookbook.json) |
@@ -22068,6 +22070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Trumps: US Presidents | 57553 | [57553-top-trumps-us-presidents.json](./57553-top-trumps-us-presidents.json) |
 | Top Web Search 23 | 283719 | [283719-top-web-search-23.json](./283719-top-web-search-23.json) |
 | Top wo Nerae: Cybernetic High-School III | 66210 | [66210-top-wo-nerae-cybernetic-high-school-iii.json](./66210-top-wo-nerae-cybernetic-high-school-iii.json) |
+| Topa ou Não Topa | 278830 | [278830-topa-ou-nao-topa.json](./278830-topa-ou-nao-topa.json) |
 | Topac Battle | 296262 | [296262-topac-battle.json](./296262-topac-battle.json) |
 | Topac Battle: Supporter Pack | 310035 | [310035-topac-battle-supporter-pack.json](./310035-topac-battle-supporter-pack.json) |
 | Topang | 143947 | [143947-topang.json](./143947-topang.json) |
@@ -24133,12 +24136,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 4: Antelope Valley Line - Los Angeles - Lancaster Route | 269324 | [269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json](./269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json) |
 | Train Sim World 4: Bahnstrecke Salzburg - Rosenheim Route Add-On | 293695 | [293695-train-sim-world-4-bahnstrecke-salzburg-rosenheim-route-add-on.json](./293695-train-sim-world-4-bahnstrecke-salzburg-rosenheim-route-add-on.json) |
 | Train Sim World 4: Berninalinie - Tirano: Ospizio Bernina Route | 286525 | [286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json](./286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json) |
+| Train Sim World 4: Blackpool Branches: Preston - Blackpool & Ormskirk Route Add-On | 279149 | [279149-train-sim-world-4-blackpool-branches-preston-blackpool-and-ormskirk-route-add-on.json](./279149-train-sim-world-4-blackpool-branches-preston-blackpool-and-ormskirk-route-add-on.json) |
 | Train Sim World 4: Cargo Line Vol. 1 - Petroleum | 280244 | [280244-train-sim-world-4-cargo-line-vol-1-petroleum.json](./280244-train-sim-world-4-cargo-line-vol-1-petroleum.json) |
 | Train Sim World 4: Edinburgh - Glasgow: Engineering Express Pack | 288920 | [288920-train-sim-world-4-edinburgh-glasgow-engineering-express-pack.json](./288920-train-sim-world-4-edinburgh-glasgow-engineering-express-pack.json) |
 | Train Sim World 4: Fife Circle Line - Edinburgh: Markinch via Dunfermline & Kirkcaldy Route | 290905 | [290905-train-sim-world-4-fife-circle-line-edinburgh-markinch-via-dunfermline-and-kirkcaldy-route.json](./290905-train-sim-world-4-fife-circle-line-edinburgh-markinch-via-dunfermline-and-kirkcaldy-route.json) |
 | Train Sim World 4: Flying Scotsman Centenary Edition | 274417 | [274417-train-sim-world-4-flying-scotsman-centenary-edition.json](./274417-train-sim-world-4-flying-scotsman-centenary-edition.json) |
 | Train Sim World 4: LIRR Commuter - New York: Long Beach, Hempstead & Hicksville | 308438 | [308438-train-sim-world-4-lirr-commuter-new-york-long-beach-hempstead-and-hicksville.json](./308438-train-sim-world-4-lirr-commuter-new-york-long-beach-hempstead-and-hicksville.json) |
 | Train Sim World 4: London Overground Suffragette line: Gospel Oak - Barking Riverside Route Add-On | 293692 | [293692-train-sim-world-4-london-overground-suffragette-line-gospel-oak-barking-riverside-route-add-on.json](./293692-train-sim-world-4-london-overground-suffragette-line-gospel-oak-barking-riverside-route-add-on.json) |
+| Train Sim World 4: Maintalbahn: Aschaffenburg - Miltenberg Route Add-On | 279147 | [279147-train-sim-world-4-maintalbahn-aschaffenburg-miltenberg-route-add-on.json](./279147-train-sim-world-4-maintalbahn-aschaffenburg-miltenberg-route-add-on.json) |
 | Train Sim World 4: Nahverkehr Dresden - Riesa Route Add-On | 307970 | [307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json](./307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json) |
 | Train Sim World 4: RhB Arosa Aggregates Pack | 277587 | [277587-train-sim-world-4-rhb-arosa-aggregates-pack.json](./277587-train-sim-world-4-rhb-arosa-aggregates-pack.json) |
 | Train Sim World 4: S-Bahn Vorarlberg - Lindau - Bludenz Route | 269322 | [269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json](./269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json) |
@@ -26137,6 +26142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trek: Travel Around the World | 105083 | [105083-trek-travel-around-the-world.json](./105083-trek-travel-around-the-world.json) |
 | Trekboer | 26447 | [26447-trekboer.json](./26447-trekboer.json) |
 | Trekking and Camping | 167262 | [167262-trekking-and-camping.json](./167262-trekking-and-camping.json) |
+| TrekkingAndCamping | 279148 | [279148-trekkingandcamping.json](./279148-trekkingandcamping.json) |
 | Trelet: The Land of Words | 183810 | [183810-trelet-the-land-of-words.json](./183810-trelet-the-land-of-words.json) |
 | Trembling Dots | 128620 | [128620-trembling-dots.json](./128620-trembling-dots.json) |
 | Tremen | 166218 | [166218-tremen.json](./166218-tremen.json) |
@@ -27752,6 +27758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunneler | 14439 | [14439-tunneler.json](./14439-tunneler.json) |
 | Tunnelers | 383996 | [383996-tunnelers.json](./383996-tunnelers.json) |
 | Tunnelers | 63212 | [63212-tunnelers.json](./63212-tunnelers.json) |
+| Tunneling 2048 | 278839 | [278839-tunneling-2048.json](./278839-tunneling-2048.json) |
 | Tunnels & Trolls | 40920 | [40920-tunnels-and-trolls.json](./40920-tunnels-and-trolls.json) |
 | Tunnels & Trolls: Crusaders of Khazan | 73874 | [73874-tunnels-and-trolls-crusaders-of-khazan.json](./73874-tunnels-and-trolls-crusaders-of-khazan.json) |
 | Tunnels of Armageddon | 71808 | [71808-tunnels-of-armageddon.json](./71808-tunnels-of-armageddon.json) |
