@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-28T11:33:29.870Z",
-  "total_soundtracks": 2650,
+  "generated_at": "2026-10-28T11:57:10.405Z",
+  "total_soundtracks": 2663,
   "games": [
     {
       "igdb_id": 7522,
@@ -9855,6 +9855,20 @@
       ]
     },
     {
+      "igdb_id": 395,
+      "game_name": "Final Fantasy II",
+      "game_url": "https://ostdb.net/games/final-fantasy-ii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27377a64a9e8acbcce7c554d6d3",
+      "albums": [
+        {
+          "album_name": "FINAL FANTASY II Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0aVvwC4fVEcu7VH7y8bkA6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 426,
       "game_name": "Final Fantasy III",
       "game_url": "https://ostdb.net/games/final-fantasy-iii",
@@ -10052,6 +10066,20 @@
     },
     {
       "igdb_id": 207021,
+      "game_name": "Final Fantasy VII",
+      "game_url": "https://ostdb.net/games/final-fantasy-vii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273012c8e26756d42328f4ec683",
+      "albums": [
+        {
+          "album_name": "FINAL FANTASY VII Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2x9uZkJTGLxXHDm8rztQGK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 393025,
       "game_name": "Final Fantasy VII",
       "game_url": "https://ostdb.net/games/final-fantasy-vii",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b273012c8e26756d42328f4ec683",
@@ -10929,6 +10957,20 @@
       ]
     },
     {
+      "igdb_id": 361027,
+      "game_name": "Gamble With Your Friends",
+      "game_url": "https://ostdb.net/games/gamble-with-your-friends",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dc37a8489e3ad11fafff1431",
+      "albums": [
+        {
+          "album_name": "Gamble With Your Friends (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6nZu7yIcDut8ArmGng2FNb",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 11177,
       "game_name": "Gang Beasts",
       "game_url": "https://ostdb.net/games/gang-beasts",
@@ -11289,6 +11331,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/get-even-original-soundtrack/1238451700?uo=4",
           "album_link_url": "https://album.link/i/1238451700"
+        }
+      ]
+    },
+    {
+      "igdb_id": 322280,
+      "game_name": "Get to Work",
+      "game_url": "https://ostdb.net/games/get-to-work",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27396414499cfa5ea5a21d2d6d6",
+      "albums": [
+        {
+          "album_name": "Get To Work (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3J43YUqPGwwJaJQSfMzAh4",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -12245,6 +12301,20 @@
         {
           "album_name": "Guild Wars 2: Path of Fire (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7wX2rmR7ju7QLiqFQq3rh1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 255088,
+      "game_name": "Guild Wars 2: Secrets of the Obscure",
+      "game_url": "https://ostdb.net/games/guild-wars-2-secrets-of-the-obscure",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fc5216dc13dfcc87f24a29d2",
+      "albums": [
+        {
+          "album_name": "Guild Wars 2: Secrets of the Obscure (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2VwkMkRHsIbxBZhV9Of0cx",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -20715,6 +20785,20 @@
       ]
     },
     {
+      "igdb_id": 211637,
+      "game_name": "Pocket Mirror: GoldenerTraum",
+      "game_url": "https://ostdb.net/games/pocket-mirror-goldenertraum",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27392161908ce5e222a6a8c24a6",
+      "albums": [
+        {
+          "album_name": "Pocket Mirror ~ GoldenerTraum (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1vVBcdbb6AxwJKJc8p0JeC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 341844,
       "game_name": "Poco",
       "game_url": "https://ostdb.net/games/poco",
@@ -25195,6 +25279,20 @@
       ]
     },
     {
+      "igdb_id": 302968,
+      "game_name": "Species: Unknown",
+      "game_url": "https://ostdb.net/games/species-unknown",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730958779d2c3292ef08d46171",
+      "albums": [
+        {
+          "album_name": "Species: Unknown (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/78D1zAJeMj4AiKGIua1rve",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 5174,
       "game_name": "Spectrobes",
       "game_url": "https://ostdb.net/games/spectrobes",
@@ -25596,6 +25694,20 @@
           "album_name": "Star Wars: Battlefront II (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6qilh9K60vswro2eujBqwC",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 381248,
+      "game_name": "Star Wars: Galactic Racer",
+      "game_url": "https://ostdb.net/games/star-wars-galactic-racer",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27389b0eeb900902ab00f8c7297",
+      "albums": [
+        {
+          "album_name": "Star Wars: Galactic Racer (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4qyF6u11wH7OaTZd77QGJS",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -27251,6 +27363,20 @@
       ]
     },
     {
+      "igdb_id": 358534,
+      "game_name": "The Adventures of Elliot: The Millennium Tales",
+      "game_url": "https://ostdb.net/games/the-adventures-of-elliot-the-millennium-tales",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27383199f88d27922eb824a7591",
+      "albums": [
+        {
+          "album_name": "The Adventures of Elliot: The Millennium Tales Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1Uph1ef0oVLNqrFrf2hh1T",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 204634,
       "game_name": "The Alters",
       "game_url": "https://ostdb.net/games/the-alters",
@@ -28213,6 +28339,20 @@
         {
           "album_name": "The Jackbox Party Pack 8 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/76RmhNFfUB7tNfB6ZddywU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 318207,
+      "game_name": "The Jackbox Survey Scramble",
+      "game_url": "https://ostdb.net/games/the-jackbox-survey-scramble",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27348f581ea2547e2324fbec959",
+      "albums": [
+        {
+          "album_name": "The Jackbox Survey Scramble (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/25kFsxiPn9J1jjmEwibPts",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -30175,6 +30315,34 @@
       ]
     },
     {
+      "igdb_id": 266494,
+      "game_name": "Trash Goblin",
+      "game_url": "https://ostdb.net/games/trash-goblin",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f77746a35d5cf4233f05c7fd",
+      "albums": [
+        {
+          "album_name": "Trash Goblin (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/06JSIjChzrjUYzYs4MUKsB",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1525,
+      "game_name": "Trauma Center: New Blood",
+      "game_url": "https://ostdb.net/games/trauma-center-new-blood",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ad0e4221cd7d2e2edcc78fe5",
+      "albums": [
+        {
+          "album_name": "Trauma Center: NEW BLOOD Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1GFgwuzdBbsJoRCknK53GW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1524,
       "game_name": "Trauma Center: Second Opinion",
       "game_url": "https://ostdb.net/games/trauma-center-second-opinion",
@@ -30211,6 +30379,20 @@
         {
           "album_name": "Trauma Center: Under the Knife 2 Soundtrack",
           "spotify_url": "https://open.spotify.com/album/7dO0hlsTYg2YTgdRhwkLMH",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1527,
+      "game_name": "Trauma Team",
+      "game_url": "https://ostdb.net/games/trauma-team",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730c405645019c5deabd6ad956",
+      "albums": [
+        {
+          "album_name": "Trauma Team Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3hio1S11X8DuVXc86Zz77Z",
           "apple_music_url": "",
           "album_link_url": ""
         }
