@@ -4783,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link's Crossbow Training | 4973 | [4973-links-crossbow-training.json](./4973-links-crossbow-training.json) |
 | Linked | 322034 | [322034-linked.json](./322034-linked.json) |
 | Linked Mask | 120386 | [120386-linked-mask.json](./120386-linked-mask.json) |
+| Linked Worlds | 235409 | [235409-linked-worlds.json](./235409-linked-worlds.json) |
 | LinkedOut | 353443 | [353443-linkedout.json](./353443-linkedout.json) |
 | Linkies | 390821 | [390821-linkies.json](./390821-linkies.json) |
 | Linkin Hero | 234620 | [234620-linkin-hero.json](./234620-linkin-hero.json) |
