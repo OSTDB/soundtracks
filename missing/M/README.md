@@ -2415,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malvin`s Prehistoric Adventures | 129228 | [129228-malvin-s-prehistoric-adventures.json](./129228-malvin-s-prehistoric-adventures.json) |
 | Malvinas 2032 | 69243 | [69243-malvinas-2032.json](./69243-malvinas-2032.json) |
 | Malvinas: La Ultima Carta | 303645 | [303645-malvinas-la-ultima-carta.json](./303645-malvinas-la-ultima-carta.json) |
+| MalViolence: Definitive Edition | 249239 | [249239-malviolence-definitive-edition.json](./249239-malviolence-definitive-edition.json) |
 | Malvirta Station | 271459 | [271459-malvirta-station.json](./271459-malvirta-station.json) |
 | Malware | 303987 | [303987-malware.json](./303987-malware.json) |
 | Malware Derby | 244896 | [244896-malware-derby.json](./244896-malware-derby.json) |
@@ -8160,6 +8161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Plane - Best Idle Game | 106477 | [106477-merge-plane-best-idle-game.json](./106477-merge-plane-best-idle-game.json) |
 | Merge Rainbow Friend | 224002 | [224002-merge-rainbow-friend.json](./224002-merge-rainbow-friend.json) |
 | Merge Rush Z | 299408 | [299408-merge-rush-z.json](./299408-merge-rush-z.json) |
+| Merge Star | 249241 | [249241-merge-star.json](./249241-merge-star.json) |
 | Merge Stories | 218318 | [218318-merge-stories.json](./218318-merge-stories.json) |
 | Merge Studio: Fashion Makeover | 315111 | [315111-merge-studio-fashion-makeover.json](./315111-merge-studio-fashion-makeover.json) |
 | Merge Surge | 392426 | [392426-merge-surge.json](./392426-merge-surge.json) |
