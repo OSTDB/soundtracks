@@ -3434,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune | 198964 | [198964-wheel-of-fortune.json](./198964-wheel-of-fortune.json) |
 | Wheel of Fortune | 199434 | [199434-wheel-of-fortune.json](./199434-wheel-of-fortune.json) |
 | Wheel of Fortune | 220131 | [220131-wheel-of-fortune.json](./220131-wheel-of-fortune.json) |
+| Wheel of Fortune | 252331 | [252331-wheel-of-fortune.json](./252331-wheel-of-fortune.json) |
 | Wheel of Fortune | 287301 | [287301-wheel-of-fortune.json](./287301-wheel-of-fortune.json) |
 | Wheel of Fortune | 37183 | [37183-wheel-of-fortune.json](./37183-wheel-of-fortune.json) |
 | Wheel of Fortune | 64480 | [64480-wheel-of-fortune.json](./64480-wheel-of-fortune.json) |
@@ -5175,6 +5176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winnie-The-Pooh Taste Test | 289832 | [289832-winnie-the-pooh-taste-test.json](./289832-winnie-the-pooh-taste-test.json) |
 | Winnie-the-Pooh: Black Honey | 366261 | [366261-winnie-the-pooh-black-honey.json](./366261-winnie-the-pooh-black-honey.json) |
 | Winnie-the-Pooh: Realm of Torment | 253809 | [253809-winnie-the-pooh-realm-of-torment.json](./253809-winnie-the-pooh-realm-of-torment.json) |
+| Winnie's Hole | 252332 | [252332-winnies-hole.json](./252332-winnies-hole.json) |
 | Winning Eleven Play Maker 2010: Aoki Samurai no Chousen | 268207 | [268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json](./268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json) |
 | Winning Eleven: Pro Evolution Soccer 2007 | 220951 | [220951-winning-eleven-pro-evolution-soccer-2007.json](./220951-winning-eleven-pro-evolution-soccer-2007.json) |
 | Winning Eleven: Pro Evolution Soccer 2007 | 2484 | [2484-winning-eleven-pro-evolution-soccer-2007.json](./2484-winning-eleven-pro-evolution-soccer-2007.json) |
