@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damn Love | 402274 | [402274-damn-love.json](./402274-damn-love.json) |
 | Damn Ropes | 146622 | [146622-damn-ropes.json](./146622-damn-ropes.json) |
 | Damn virgins | 35537 | [35537-damn-virgins.json](./35537-damn-virgins.json) |
+| Damn Zombies | 248234 | [248234-damn-zombies.json](./248234-damn-zombies.json) |
 | Damn, what was yesterday? | 157919 | [157919-damn-what-was-yesterday.json](./157919-damn-what-was-yesterday.json) |
 | Damnation | 6952 | [6952-damnation.json](./6952-damnation.json) |
 | Damnation City of Death | 35837 | [35837-damnation-city-of-death.json](./35837-damnation-city-of-death.json) |
@@ -5266,6 +5267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delos: Space Traffic Control | 339299 | [339299-delos-space-traffic-control.json](./339299-delos-space-traffic-control.json) |
 | Delphine's Discovery | 177360 | [177360-delphines-discovery.json](./177360-delphines-discovery.json) |
 | Delphinium | 394603 | [394603-delphinium.json](./394603-delphinium.json) |
+| Delphiniums Rise | 247862 | [247862-delphiniums-rise.json](./247862-delphiniums-rise.json) |
 | Delphyq | 102062 | [102062-delphyq.json](./102062-delphyq.json) |
 | Delta | 13839 | [13839-delta.json](./13839-delta.json) |
 | Delta | 319816 | [319816-delta.json](./319816-delta.json) |
@@ -9482,6 +9484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Light | 313659 | [313659-divine-light.json](./313659-divine-light.json) |
 | Divine Miko Koyori | 122451 | [122451-divine-miko-koyori.json](./122451-divine-miko-koyori.json) |
 | Divine Orders | 333108 | [333108-divine-orders.json](./333108-divine-orders.json) |
+| Divine Pearl: Survivors | 248090 | [248090-divine-pearl-survivors.json](./248090-divine-pearl-survivors.json) |
 | Divine Prophecy | 273506 | [273506-divine-prophecy.json](./273506-divine-prophecy.json) |
 | Divine Right | 175240 | [175240-divine-right.json](./175240-divine-right.json) |
 | Divine Rush | 295638 | [295638-divine-rush.json](./295638-divine-rush.json) |
@@ -10643,6 +10646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't die in space! | 236783 | [236783-dont-die-in-space.json](./236783-dont-die-in-space.json) |
 | Don't Die Mr Robot! DX | 99306 | [99306-dont-die-mr-robot-dx.json](./99306-dont-die-mr-robot-dx.json) |
 | Don't Die Roguelike | 395892 | [395892-dont-die-roguelike.json](./395892-dont-die-roguelike.json) |
+| Don't Die, Collect Loot | 247861 | [247861-dont-die-collect-loot.json](./247861-dont-die-collect-loot.json) |
 | Don't Die, Kangel! | 283604 | [283604-dont-die-kangel.json](./283604-dont-die-kangel.json) |
 | Don't Die, Mr. Robot! | 52178 | [52178-dont-die-mr-robot.json](./52178-dont-die-mr-robot.json) |
 | Don't Die: Survival | 30558 | [30558-dont-die-survival.json](./30558-dont-die-survival.json) |
