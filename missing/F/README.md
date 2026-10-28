@@ -7703,6 +7703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fold Stories | 215576 | [215576-fold-stories.json](./215576-fold-stories.json) |
 | Fold the World | 348800 | [348800-fold-the-world.json](./348800-fold-the-world.json) |
 | Folded Fables: Tidy Up The Dragon Hoard | 420591 | [420591-folded-fables-tidy-up-the-dragon-hoard.json](./420591-folded-fables-tidy-up-the-dragon-hoard.json) |
+| Folded Flyer | 239243 | [239243-folded-flyer.json](./239243-folded-flyer.json) |
 | Folder Dungeon | 267357 | [267357-folder-dungeon.json](./267357-folder-dungeon.json) |
 | Folder Folder Folder | 414493 | [414493-folder-folder-folder.json](./414493-folder-folder-folder.json) |
 | Folders on the Run | 398497 | [398497-folders-on-the-run.json](./398497-folders-on-the-run.json) |
@@ -8673,6 +8674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift Certified: Stacked and Loaded | 344518 | [344518-forklift-certified-stacked-and-loaded.json](./344518-forklift-certified-stacked-and-loaded.json) |
 | Forklift Driving Simulator VR | 332891 | [332891-forklift-driving-simulator-vr.json](./332891-forklift-driving-simulator-vr.json) |
 | Forklift Extreme | 207892 | [207892-forklift-extreme.json](./207892-forklift-extreme.json) |
+| Forklift Extreme Simulator | 239244 | [239244-forklift-extreme-simulator.json](./239244-forklift-extreme-simulator.json) |
 | Forklift Extreme Simulator 2 | 297522 | [297522-forklift-extreme-simulator-2.json](./297522-forklift-extreme-simulator-2.json) |
 | Forklift Extreme: Furniture Direct | 246034 | [246034-forklift-extreme-furniture-direct.json](./246034-forklift-extreme-furniture-direct.json) |
 | Forklift Extreme: Santa's Workshop | 231287 | [231287-forklift-extreme-santas-workshop.json](./231287-forklift-extreme-santas-workshop.json) |
