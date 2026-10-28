@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's: The Hunt - Championship Edition | 110706 | [110706-cabelas-the-hunt-championship-edition.json](./110706-cabelas-the-hunt-championship-edition.json) |
 | Cabernet | 250803 | [250803-cabernet.json](./250803-cabernet.json) |
 | Cabernet: Deluxe Edition | 380151 | [380151-cabernet-deluxe-edition.json](./380151-cabernet-deluxe-edition.json) |
+| Cabezurrio vs Robots | 256106 | [256106-cabezurrio-vs-robots.json](./256106-cabezurrio-vs-robots.json) |
 | Cabin | 400182 | [400182-cabin.json](./400182-cabin.json) |
 | Cabin Corpse | 303718 | [303718-cabin-corpse.json](./303718-cabin-corpse.json) |
 | Cabin Crew Life Simulator | 302423 | [302423-cabin-crew-life-simulator.json](./302423-cabin-crew-life-simulator.json) |
@@ -4578,8 +4579,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century City | 243743 | [243743-century-city.json](./243743-century-city.json) |
 | Century of Anticipation | 265481 | [265481-century-of-anticipation.json](./265481-century-of-anticipation.json) |
 | Century of Steam | 260250 | [260250-century-of-steam.json](./260250-century-of-steam.json) |
+| Century: Age of Ashes - Arisen Pack | 256407 | [256407-century-age-of-ashes-arisen-pack.json](./256407-century-age-of-ashes-arisen-pack.json) |
 | Century: Age of Ashes - Bloodshed Edition | 202760 | [202760-century-age-of-ashes-bloodshed-edition.json](./202760-century-age-of-ashes-bloodshed-edition.json) |
 | Century: Age of Ashes - Colossus Deluxe Edition | 199636 | [199636-century-age-of-ashes-colossus-deluxe-edition.json](./199636-century-age-of-ashes-colossus-deluxe-edition.json) |
+| Century: Age of Ashes - Colossus Deluxe Pack | 256405 | [256405-century-age-of-ashes-colossus-deluxe-pack.json](./256405-century-age-of-ashes-colossus-deluxe-pack.json) |
 | Century: Age of Ashes - Dark Goliath Pack | 226301 | [226301-century-age-of-ashes-dark-goliath-pack.json](./226301-century-age-of-ashes-dark-goliath-pack.json) |
 | Century: Age of Ashes - Dragon Eggs Edition | 218495 | [218495-century-age-of-ashes-dragon-eggs-edition.json](./218495-century-age-of-ashes-dragon-eggs-edition.json) |
 | Century: Age of Ashes - Fellow Edition | 199640 | [199640-century-age-of-ashes-fellow-edition.json](./199640-century-age-of-ashes-fellow-edition.json) |
@@ -4594,6 +4597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Stormraiser Premium Edition | 218451 | [218451-century-age-of-ashes-stormraiser-premium-edition.json](./218451-century-age-of-ashes-stormraiser-premium-edition.json) |
 | Century: Age of Ashes - The Journeyer Edition | 218492 | [218492-century-age-of-ashes-the-journeyer-edition.json](./218492-century-age-of-ashes-the-journeyer-edition.json) |
 | Century: Age of Ashes - Thornweaver Premium Edition | 242475 | [242475-century-age-of-ashes-thornweaver-premium-edition.json](./242475-century-age-of-ashes-thornweaver-premium-edition.json) |
+| Century: Age of Ashes - Thornweaver Premium Pack | 256402 | [256402-century-age-of-ashes-thornweaver-premium-pack.json](./256402-century-age-of-ashes-thornweaver-premium-pack.json) |
 | Century: Age of Ashes - Tribal Strife Edition | 288045 | [288045-century-age-of-ashes-tribal-strife-edition.json](./288045-century-age-of-ashes-tribal-strife-edition.json) |
 | Century: Age of Ashes - Valkurian Prelude Edition | 218491 | [218491-century-age-of-ashes-valkurian-prelude-edition.json](./218491-century-age-of-ashes-valkurian-prelude-edition.json) |
 | Century: Age of Ashes - Zealot Pack | 256409 | [256409-century-age-of-ashes-zealot-pack.json](./256409-century-age-of-ashes-zealot-pack.json) |
@@ -6290,6 +6294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chillax | 261959 | [261959-chillax.json](./261959-chillax.json) |
 | Chillax | 303724 | [303724-chillax.json](./303724-chillax.json) |
 | Chillax VR | 155966 | [155966-chillax-vr.json](./155966-chillax-vr.json) |
+| ChillCraft | 256393 | [256393-chillcraft.json](./256393-chillcraft.json) |
 | Chilled Chicken | 262421 | [262421-chilled-chicken.json](./262421-chilled-chicken.json) |
 | Chiller | 11727 | [11727-chiller.json](./11727-chiller.json) |
 | Chiller | 229644 | [229644-chiller.json](./229644-chiller.json) |
@@ -6679,8 +6684,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop | 89682 | [89682-chop.json](./89682-chop.json) |
 | Chop Chains | 386731 | [386731-chop-chains.json](./386731-chop-chains.json) |
 | Chop Chef | 359323 | [359323-chop-chef.json](./359323-chop-chef.json) |
+| Chop Chop Caveman | 256384 | [256384-chop-chop-caveman.json](./256384-chop-chop-caveman.json) |
 | Chop Chop Inc. | 398967 | [398967-chop-chop-inc.json](./398967-chop-chop-inc.json) |
 | Chop Chop Kicker | 232489 | [232489-chop-chop-kicker.json](./232489-chop-chop-kicker.json) |
+| Chop Chop Ninja | 256383 | [256383-chop-chop-ninja.json](./256383-chop-chop-ninja.json) |
 | Chop Chop Princess! | 75028 | [75028-chop-chop-princess.json](./75028-chop-chop-princess.json) |
 | Chop Chop Soccer | 212421 | [212421-chop-chop-soccer.json](./212421-chop-chop-soccer.json) |
 | Chop Chop Together | 392147 | [392147-chop-chop-together.json](./392147-chop-chop-together.json) |
@@ -10311,6 +10318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color the Truth | 57512 | [57512-color-the-truth.json](./57512-color-the-truth.json) |
 | Color Theory | 315452 | [315452-color-theory.json](./315452-color-theory.json) |
 | Color Tiles - Puzzle | 106911 | [106911-color-tiles-puzzle.json](./106911-color-tiles-puzzle.json) |
+| Color Together | 256390 | [256390-color-together.json](./256390-color-together.json) |
 | Color Tower | 243080 | [243080-color-tower.json](./243080-color-tower.json) |
 | Color Tower Defence | 309712 | [309712-color-tower-defence.json](./309712-color-tower-defence.json) |
 | Color Trigger | 400352 | [400352-color-trigger.json](./400352-color-trigger.json) |
@@ -10483,6 +10491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Advent Pack | 162611 | [162611-coloring-pixels-advent-pack.json](./162611-coloring-pixels-advent-pack.json) |
 | Coloring Pixels: Amusement Park Pack | 162588 | [162588-coloring-pixels-amusement-park-pack.json](./162588-coloring-pixels-amusement-park-pack.json) |
 | Coloring Pixels: Animals Pack | 162598 | [162598-coloring-pixels-animals-pack.json](./162598-coloring-pixels-animals-pack.json) |
+| Coloring Pixels: Autumn Pack | 256400 | [256400-coloring-pixels-autumn-pack.json](./256400-coloring-pixels-autumn-pack.json) |
 | Coloring Pixels: Bakery Pack | 211896 | [211896-coloring-pixels-bakery-pack.json](./211896-coloring-pixels-bakery-pack.json) |
 | Coloring Pixels: Candy Pack | 351621 | [351621-coloring-pixels-candy-pack.json](./351621-coloring-pixels-candy-pack.json) |
 | Coloring Pixels: Celebration XL Pack | 351626 | [351626-coloring-pixels-celebration-xl-pack.json](./351626-coloring-pixels-celebration-xl-pack.json) |
@@ -10525,6 +10534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Medieval Pack | 277967 | [277967-coloring-pixels-medieval-pack.json](./277967-coloring-pixels-medieval-pack.json) |
 | Coloring Pixels: Microscopic Pack | 327369 | [327369-coloring-pixels-microscopic-pack.json](./327369-coloring-pixels-microscopic-pack.json) |
 | Coloring Pixels: Monsters Pack | 162610 | [162610-coloring-pixels-monsters-pack.json](./162610-coloring-pixels-monsters-pack.json) |
+| Coloring Pixels: Music Pack | 256399 | [256399-coloring-pixels-music-pack.json](./256399-coloring-pixels-music-pack.json) |
 | Coloring Pixels: Mythology 2 Pack | 201705 | [201705-coloring-pixels-mythology-2-pack.json](./201705-coloring-pixels-mythology-2-pack.json) |
 | Coloring Pixels: Mythology Pack | 214988 | [214988-coloring-pixels-mythology-pack.json](./214988-coloring-pixels-mythology-pack.json) |
 | Coloring Pixels: Natural Wonders | 393616 | [393616-coloring-pixels-natural-wonders.json](./393616-coloring-pixels-natural-wonders.json) |
@@ -10897,6 +10907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Tail: Polygon Panic | 369010 | [369010-comet-tail-polygon-panic.json](./369010-comet-tail-polygon-panic.json) |
 | Comet Tycoon | 349881 | [349881-comet-tycoon.json](./349881-comet-tycoon.json) |
 | Comets Wake | 76918 | [76918-comets-wake.json](./76918-comets-wake.json) |
+| CometSoldier | 256107 | [256107-cometsoldier.json](./256107-cometsoldier.json) |
 | Comfort | 134414 | [134414-comfort.json](./134414-comfort.json) |
 | Comfort Zone | 266724 | [266724-comfort-zone.json](./266724-comfort-zone.json) |
 | Comforting Sounds | 183924 | [183924-comforting-sounds.json](./183924-comforting-sounds.json) |
@@ -12841,6 +12852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Crucible | 293173 | [293173-cosmic-crucible.json](./293173-cosmic-crucible.json) |
 | Cosmic Cruiser | 210871 | [210871-cosmic-cruiser.json](./210871-cosmic-cruiser.json) |
 | Cosmic Crumbs: Bakery Simulator | 412605 | [412605-cosmic-crumbs-bakery-simulator.json](./412605-cosmic-crumbs-bakery-simulator.json) |
+| Cosmic Crunch | 256394 | [256394-cosmic-crunch.json](./256394-cosmic-crunch.json) |
 | Cosmic Cruncher | 59448 | [59448-cosmic-cruncher.json](./59448-cosmic-cruncher.json) |
 | Cosmic Crusader | 14494 | [14494-cosmic-crusader.json](./14494-cosmic-crusader.json) |
 | Cosmic Crusader | 413237 | [413237-cosmic-crusader.json](./413237-cosmic-crusader.json) |
