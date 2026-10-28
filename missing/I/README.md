@@ -5430,6 +5430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Jura Fishing Trip: Definitive Edition | 263552 | [263552-isle-of-jura-fishing-trip-definitive-edition.json](./263552-isle-of-jura-fishing-trip-definitive-edition.json) |
 | Isle of Jura Fishing Trip: Extended Edition | 251536 | [251536-isle-of-jura-fishing-trip-extended-edition.json](./251536-isle-of-jura-fishing-trip-extended-edition.json) |
 | Isle of Jura Fishing Trip: Premium Edition | 260050 | [260050-isle-of-jura-fishing-trip-premium-edition.json](./260050-isle-of-jura-fishing-trip-premium-edition.json) |
+| Isle of Jura Fishing Trip: Special Edition | 256634 | [256634-isle-of-jura-fishing-trip-special-edition.json](./256634-isle-of-jura-fishing-trip-special-edition.json) |
 | Isle of Jura Fishing Trip: Ultimate Edition | 251689 | [251689-isle-of-jura-fishing-trip-ultimate-edition.json](./251689-isle-of-jura-fishing-trip-ultimate-edition.json) |
 | Isle of Lament | 375990 | [375990-isle-of-lament.json](./375990-isle-of-lament.json) |
 | Isle of Leil | 236331 | [236331-isle-of-leil.json](./236331-isle-of-leil.json) |
