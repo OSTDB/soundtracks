@@ -4791,6 +4791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aircraft Carrier Survival | 139380 | [139380-aircraft-carrier-survival.json](./139380-aircraft-carrier-survival.json) |
 | Aircraft Evolution | 82077 | [82077-aircraft-evolution.json](./82077-aircraft-evolution.json) |
 | Aircraft in Pixels 2: Albatros D.V | 182094 | [182094-aircraft-in-pixels-2-albatros-d-v.json](./182094-aircraft-in-pixels-2-albatros-d-v.json) |
+| Aircraft Infinity | 238691 | [238691-aircraft-infinity.json](./238691-aircraft-infinity.json) |
 | Aircraft Pushback Simulator | 234744 | [234744-aircraft-pushback-simulator.json](./234744-aircraft-pushback-simulator.json) |
 | Aircraft Sketch Shooter | 142997 | [142997-aircraft-sketch-shooter.json](./142997-aircraft-sketch-shooter.json) |
 | Aircraft War | 120079 | [120079-aircraft-war.json](./120079-aircraft-war.json) |
@@ -9038,6 +9039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animus: Revenant | 151601 | [151601-animus-revenant.json](./151601-animus-revenant.json) |
 | Anipang | 412781 | [412781-anipang.json](./412781-anipang.json) |
 | Anipang Matchlike | 319436 | [319436-anipang-matchlike.json](./319436-anipang-matchlike.json) |
+| Anipocalypse | 238655 | [238655-anipocalypse.json](./238655-anipocalypse.json) |
 | Aniquilation | 132152 | [132152-aniquilation.json](./132152-aniquilation.json) |
 | Aniquiz | 409619 | [409619-aniquiz.json](./409619-aniquiz.json) |
 | Anise Flowers | 185129 | [185129-anise-flowers.json](./185129-anise-flowers.json) |
