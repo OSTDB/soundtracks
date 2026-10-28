@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamp Man Down | 109379 | [109379-lamp-man-down.json](./109379-lamp-man-down.json) |
 | Lamp of Aladdin | 23922 | [23922-lamp-of-aladdin.json](./23922-lamp-of-aladdin.json) |
 | Lamp Post | 290872 | [290872-lamp-post.json](./290872-lamp-post.json) |
+| Lamphead | 271859 | [271859-lamphead.json](./271859-lamphead.json) |
 | Lamplight | 304508 | [304508-lamplight.json](./304508-lamplight.json) |
 | Lamplight City mobile | 175316 | [175316-lamplight-city-mobile.json](./175316-lamplight-city-mobile.json) |
 | Lamplight Station | 76682 | [76682-lamplight-station.json](./76682-lamplight-station.json) |
