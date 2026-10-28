@@ -7852,6 +7852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greyfell | 47140 | [47140-greyfell.json](./47140-greyfell.json) |
 | Greyfox | 19377 | [19377-greyfox.json](./19377-greyfox.json) |
 | Greyhill Incident | 196995 | [196995-greyhill-incident.json](./196995-greyhill-incident.json) |
+| Greyhill Incident: Abducted Edition | 240035 | [240035-greyhill-incident-abducted-edition.json](./240035-greyhill-incident-abducted-edition.json) |
 | Greyhill Incident: Found Footage Mode | 252682 | [252682-greyhill-incident-found-footage-mode.json](./252682-greyhill-incident-found-footage-mode.json) |
 | Greyhound Manager 2 | 175195 | [175195-greyhound-manager-2.json](./175195-greyhound-manager-2.json) |
 | Greyhound Manager 2 Rebooted | 29606 | [29606-greyhound-manager-2-rebooted.json](./29606-greyhound-manager-2-rebooted.json) |
