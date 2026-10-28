@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Sword VR | 27699 | [27699-samurai-sword-vr.json](./27699-samurai-sword-vr.json) |
 | Samurai Tactics | 187744 | [187744-samurai-tactics.json](./187744-samurai-tactics.json) |
 | Samurai Trilogy | 37177 | [37177-samurai-trilogy.json](./37177-samurai-trilogy.json) |
+| Samurai VR | 251758 | [251758-samurai-vr.json](./251758-samurai-vr.json) |
 | Samurai vs Zombies Defense | 63402 | [63402-samurai-vs-zombies-defense.json](./63402-samurai-vs-zombies-defense.json) |
 | Samurai vs. Zombies Defense 2 | 127047 | [127047-samurai-vs-zombies-defense-2.json](./127047-samurai-vs-zombies-defense-2.json) |
 | Samurai war era Hunter | 186503 | [186503-samurai-war-era-hunter.json](./186503-samurai-war-era-hunter.json) |
@@ -18126,6 +18127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedmapping Pack 224: Prototype Jam #4 | 312318 | [312318-speedmapping-pack-224-prototype-jam-4.json](./312318-speedmapping-pack-224-prototype-jam-4.json) |
 | Speedollama | 263766 | [263766-speedollama.json](./263766-speedollama.json) |
 | Speedonauts | 224661 | [224661-speedonauts.json](./224661-speedonauts.json) |
+| SpeedOverflow | 251784 | [251784-speedoverflow.json](./251784-speedoverflow.json) |
 | Speedpunk | 151147 | [151147-speedpunk.json](./151147-speedpunk.json) |
 | SpeedRacer | 340188 | [340188-speedracer.json](./340188-speedracer.json) |
 | SpeedRage | 72041 | [72041-speedrage.json](./72041-speedrage.json) |
@@ -18260,6 +18262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellBlast | 58837 | [58837-spellblast.json](./58837-spellblast.json) |
 | Spellbook Demonslayers | 209740 | [209740-spellbook-demonslayers.json](./209740-spellbook-demonslayers.json) |
 | Spellbook Demonslayers NSFW | 297743 | [297743-spellbook-demonslayers-nsfw.json](./297743-spellbook-demonslayers-nsfw.json) |
+| Spellborn | 251759 | [251759-spellborn.json](./251759-spellborn.json) |
 | Spellborne | 230198 | [230198-spellborne.json](./230198-spellborne.json) |
 | Spellbounce | 281328 | [281328-spellbounce.json](./281328-spellbounce.json) |
 | Spellbound | 12361 | [12361-spellbound.json](./12361-spellbound.json) |
@@ -19028,6 +19031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits Abyss | 118101 | [118101-spirits-abyss.json](./118101-spirits-abyss.json) |
 | Spirits and Secrets | 384500 | [384500-spirits-and-secrets.json](./384500-spirits-and-secrets.json) |
 | Spirits Chronicles: Flower of Hope - Collector's Edition | 208632 | [208632-spirits-chronicles-flower-of-hope-collectors-edition.json](./208632-spirits-chronicles-flower-of-hope-collectors-edition.json) |
+| Spirits Mirror​:​ Digital Possessed | 251348 | [251348-spirits-mirror-digital-possessed.json](./251348-spirits-mirror-digital-possessed.json) |
 | Spirits of Carter Mansion | 189053 | [189053-spirits-of-carter-mansion.json](./189053-spirits-of-carter-mansion.json) |
 | Spirits of Light | 188455 | [188455-spirits-of-light.json](./188455-spirits-of-light.json) |
 | Spirits of Lunara | 383364 | [383364-spirits-of-lunara.json](./383364-spirits-of-lunara.json) |
@@ -22774,6 +22778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Rhythm | 372609 | [372609-stellar-rhythm.json](./372609-stellar-rhythm.json) |
 | Stellar Rising | 395790 | [395790-stellar-rising.json](./395790-stellar-rising.json) |
 | Stellar Scrapm'n | 369009 | [369009-stellar-scrapmn.json](./369009-stellar-scrapmn.json) |
+| Stellar Serenity | 251764 | [251764-stellar-serenity.json](./251764-stellar-serenity.json) |
 | Stellar Settlers | 272276 | [272276-stellar-settlers.json](./272276-stellar-settlers.json) |
 | Stellar Shapers | 333033 | [333033-stellar-shapers.json](./333033-stellar-shapers.json) |
 | Stellar Shipyard | 388717 | [388717-stellar-shipyard.json](./388717-stellar-shipyard.json) |
@@ -23954,6 +23959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Cats in Cozy Town: Night Lights | 312994 | [312994-stray-cats-in-cozy-town-night-lights.json](./312994-stray-cats-in-cozy-town-night-lights.json) |
 | Stray Children | 266692 | [266692-stray-children.json](./266692-stray-children.json) |
 | Stray Dog: Nobody Cares | 414475 | [414475-stray-dog-nobody-cares.json](./414475-stray-dog-nobody-cares.json) |
+| Stray Doom | 251352 | [251352-stray-doom.json](./251352-stray-doom.json) |
 | Stray Gods: Orpheus | 307335 | [307335-stray-gods-orpheus.json](./307335-stray-gods-orpheus.json) |
 | Stray Gods: Orpheus Edition | 385325 | [385325-stray-gods-orpheus-edition.json](./385325-stray-gods-orpheus-edition.json) |
 | Stray Kids SKZOO Tamagotchi | 334864 | [334864-stray-kids-skzoo-tamagotchi.json](./334864-stray-kids-skzoo-tamagotchi.json) |
@@ -24137,6 +24143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6: Ultimate Edition | 251691 | [251691-street-fighter-6-ultimate-edition.json](./251691-street-fighter-6-ultimate-edition.json) |
 | Street Fighter 6: Year 1 - A.K.I. | 251657 | [251657-street-fighter-6-year-1-a-k-i.json](./251657-street-fighter-6-year-1-a-k-i.json) |
 | Street Fighter 6: Year 1 - Akuma | 251704 | [251704-street-fighter-6-year-1-akuma.json](./251704-street-fighter-6-year-1-akuma.json) |
+| Street Fighter 6: Year 1 - Ed | 251703 | [251703-street-fighter-6-year-1-ed.json](./251703-street-fighter-6-year-1-ed.json) |
 | Street Fighter 6: Year 1 - Rashid | 251653 | [251653-street-fighter-6-year-1-rashid.json](./251653-street-fighter-6-year-1-rashid.json) |
 | Street Fighter 6: Year 1 Character Pass | 252070 | [252070-street-fighter-6-year-1-character-pass.json](./252070-street-fighter-6-year-1-character-pass.json) |
 | Street Fighter 6: Year 1 Ultimate Pass | 256097 | [256097-street-fighter-6-year-1-ultimate-pass.json](./256097-street-fighter-6-year-1-ultimate-pass.json) |
@@ -24648,6 +24655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroke The Animals | 279020 | [279020-stroke-the-animals.json](./279020-stroke-the-animals.json) |
 | Stroke the Cat | 217915 | [217915-stroke-the-cat.json](./217915-stroke-the-cat.json) |
 | Stroke the Cow | 228017 | [228017-stroke-the-cow.json](./228017-stroke-the-cow.json) |
+| Stroke The Dik-Dik | 251640 | [251640-stroke-the-dik-dik.json](./251640-stroke-the-dik-dik.json) |
 | Stroke the Fish | 220342 | [220342-stroke-the-fish.json](./220342-stroke-the-fish.json) |
 | Stroke the Hamster | 218563 | [218563-stroke-the-hamster.json](./218563-stroke-the-hamster.json) |
 | Stroke the Hedgehog | 218564 | [218564-stroke-the-hedgehog.json](./218564-stroke-the-hedgehog.json) |
