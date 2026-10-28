@@ -2678,12 +2678,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genseijin Justirisers | 49607 | [49607-genseijin-justirisers.json](./49607-genseijin-justirisers.json) |
 | Genshi no Kotoba | 144730 | [144730-genshi-no-kotoba.json](./144730-genshi-no-kotoba.json) |
 | Genshin Impact: A Dance of Snowy Tides and Hoarfrost Groves | 356546 | [356546-genshin-impact-a-dance-of-snowy-tides-and-hoarfrost-groves.json](./356546-genshin-impact-a-dance-of-snowy-tides-and-hoarfrost-groves.json) |
+| Genshin Impact: A New Star Approaches | 256960 | [256960-genshin-impact-a-new-star-approaches.json](./256960-genshin-impact-a-new-star-approaches.json) |
 | Genshin Impact: A Nocturne of the Far North | 378320 | [378320-genshin-impact-a-nocturne-of-the-far-north.json](./378320-genshin-impact-a-nocturne-of-the-far-north.json) |
 | Genshin Impact: A Parade of Providence | 257479 | [257479-genshin-impact-a-parade-of-providence.json](./257479-genshin-impact-a-parade-of-providence.json) |
 | Genshin Impact: A Rekviem for the Underworld | 417641 | [417641-genshin-impact-a-rekviem-for-the-underworld.json](./417641-genshin-impact-a-rekviem-for-the-underworld.json) |
 | Genshin Impact: A Space and Time for You | 347558 | [347558-genshin-impact-a-space-and-time-for-you.json](./347558-genshin-impact-a-space-and-time-for-you.json) |
 | Genshin Impact: Akasha Pulses, the Kalpa Flame Rises | 257453 | [257453-genshin-impact-akasha-pulses-the-kalpa-flame-rises.json](./257453-genshin-impact-akasha-pulses-the-kalpa-flame-rises.json) |
 | Genshin Impact: All Senses Clear, All Existence Void | 257465 | [257465-genshin-impact-all-senses-clear-all-existence-void.json](./257465-genshin-impact-all-senses-clear-all-existence-void.json) |
+| Genshin Impact: All That Glitters | 256967 | [256967-genshin-impact-all-that-glitters.json](./256967-genshin-impact-all-that-glitters.json) |
 | Genshin Impact: An Elegy for Faded Moonlight | 372567 | [372567-genshin-impact-an-elegy-for-faded-moonlight.json](./372567-genshin-impact-an-elegy-for-faded-moonlight.json) |
 | Genshin Impact: An Everlasting Dream Intertwined | 302616 | [302616-genshin-impact-an-everlasting-dream-intertwined.json](./302616-genshin-impact-an-everlasting-dream-intertwined.json) |
 | Genshin Impact: As Light Rain Falls Without Reason | 259867 | [259867-genshin-impact-as-light-rain-falls-without-reason.json](./259867-genshin-impact-as-light-rain-falls-without-reason.json) |
@@ -2703,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: Secret Summer Paradise | 257481 | [257481-genshin-impact-secret-summer-paradise.json](./257481-genshin-impact-secret-summer-paradise.json) |
 | Genshin Impact: Sunny Summer Fontinalia | 407188 | [407188-genshin-impact-sunny-summer-fontinalia.json](./407188-genshin-impact-sunny-summer-fontinalia.json) |
 | Genshin Impact: Tapestry of Spirit and Flame | 321597 | [321597-genshin-impact-tapestry-of-spirit-and-flame.json](./321597-genshin-impact-tapestry-of-spirit-and-flame.json) |
+| Genshin Impact: The Chalk Prince and the Dragon | 256965 | [256965-genshin-impact-the-chalk-prince-and-the-dragon.json](./256965-genshin-impact-the-chalk-prince-and-the-dragon.json) |
 | Genshin Impact: The Exquisite Night Chimes | 257476 | [257476-genshin-impact-the-exquisite-night-chimes.json](./257476-genshin-impact-the-exquisite-night-chimes.json) |
 | Genshin Impact: The Morn a Thousand Roses Brings | 257449 | [257449-genshin-impact-the-morn-a-thousand-roses-brings.json](./257449-genshin-impact-the-morn-a-thousand-roses-brings.json) |
 | Genshin Impact: To the Stars Shining in the Depths | 266492 | [266492-genshin-impact-to-the-stars-shining-in-the-depths.json](./266492-genshin-impact-to-the-stars-shining-in-the-depths.json) |
@@ -4369,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globe Rush | 31510 | [31510-globe-rush.json](./31510-globe-rush.json) |
 | Globe: Earth Adventures | 230378 | [230378-globe-earth-adventures.json](./230378-globe-earth-adventures.json) |
 | Globeba | 300395 | [300395-globeba.json](./300395-globeba.json) |
+| Globematcher feat. Tokidoki x Hello Kitty | 256637 | [256637-globematcher-feat-tokidoki-x-hello-kitty.json](./256637-globematcher-feat-tokidoki-x-hello-kitty.json) |
 | Globesweeper | 109203 | [109203-globesweeper.json](./109203-globesweeper.json) |
 | Globetrotter | 137033 | [137033-globetrotter.json](./137033-globetrotter.json) |
 | GlobeTrotter | 354649 | [354649-globetrotter.json](./354649-globetrotter.json) |
@@ -4396,6 +4400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloom | 78126 | [78126-gloom.json](./78126-gloom.json) |
 | Gloom Deluxe | 302768 | [302768-gloom-deluxe.json](./302768-gloom-deluxe.json) |
 | Gloom Gate | 417428 | [417428-gloom-gate.json](./417428-gloom-gate.json) |
+| Gloom Reaper | 256945 | [256945-gloom-reaper.json](./256945-gloom-reaper.json) |
 | Gloom: Digital Edition | 197770 | [197770-gloom-digital-edition.json](./197770-gloom-digital-edition.json) |
 | Gloom: Unhappy Homes | 168770 | [168770-gloom-unhappy-homes.json](./168770-gloom-unhappy-homes.json) |
 | Gloombase | 261171 | [261171-gloombase.json](./261171-gloombase.json) |
@@ -6404,6 +6409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOTO Bridge 18 | 99502 | [99502-goto-bridge-18.json](./99502-goto-bridge-18.json) |
 | Gotogra | 387357 | [387357-gotogra.json](./387357-gotogra.json) |
 | Gotomomi | 59707 | [59707-gotomomi.json](./59707-gotomomi.json) |
+| Gotouchi Hello Kitty Sugoroku Monogatari | 256652 | [256652-gotouchi-hello-kitty-sugoroku-monogatari.json](./256652-gotouchi-hello-kitty-sugoroku-monogatari.json) |
 | Gotouchi Kentei DS | 124018 | [124018-gotouchi-kentei-ds.json](./124018-gotouchi-kentei-ds.json) |
 | Gotouchi Tetsudou for Nintendo Switch | 136963 | [136963-gotouchi-tetsudou-for-nintendo-switch.json](./136963-gotouchi-tetsudou-for-nintendo-switch.json) |
 | Gotouchi Tetsudou: Gotouchi Chara to Nihon Zenkoku no Tabi | 71016 | [71016-gotouchi-tetsudou-gotouchi-chara-to-nihon-zenkoku-no-tabi.json](./71016-gotouchi-tetsudou-gotouchi-chara-to-nihon-zenkoku-no-tabi.json) |
