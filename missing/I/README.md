@@ -3040,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infect Them All: Zombies | 174302 | [174302-infect-them-all-zombies.json](./174302-infect-them-all-zombies.json) |
 | Infected | 242548 | [242548-infected.json](./242548-infected.json) |
 | Infected | 44524 | [44524-infected.json](./44524-infected.json) |
+| Infected Area | 273731 | [273731-infected-area.json](./273731-infected-area.json) |
 | Infected Battlegrounds | 105283 | [105283-infected-battlegrounds.json](./105283-infected-battlegrounds.json) |
 | Infected Bunker | 280306 | [280306-infected-bunker.json](./280306-infected-bunker.json) |
 | Infected City | 152649 | [152649-infected-city.json](./152649-infected-city.json) |
@@ -5337,6 +5338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Raft Survival 2021: Ocean Escape | 163915 | [163915-island-raft-survival-2021-ocean-escape.json](./163915-island-raft-survival-2021-ocean-escape.json) |
 | Island Raiders: War of Legends | 323150 | [323150-island-raiders-war-of-legends.json](./323150-island-raiders-war-of-legends.json) |
 | Island Robot Farm | 344883 | [344883-island-robot-farm.json](./344883-island-robot-farm.json) |
+| Island Rush | 274053 | [274053-island-rush.json](./274053-island-rush.json) |
 | Island Saga | 123933 | [123933-island-saga.json](./123933-island-saga.json) |
 | Island Saver | 132996 | [132996-island-saver.json](./132996-island-saver.json) |
 | Island Saver: Dinosaur Island | 238039 | [238039-island-saver-dinosaur-island.json](./238039-island-saver-dinosaur-island.json) |
