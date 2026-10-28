@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off-Road Paradise: Trial 4x4 | 30504 | [30504-off-road-paradise-trial-4x4.json](./30504-off-road-paradise-trial-4x4.json) |
 | Off-Road Rally | 103162 | [103162-off-road-rally.json](./103162-off-road-rally.json) |
 | Off-Road Redneck Racing | 92364 | [92364-off-road-redneck-racing.json](./92364-off-road-redneck-racing.json) |
+| Off-Road Rides | 262779 | [262779-off-road-rides.json](./262779-off-road-rides.json) |
 | Off-Road Super Racing | 30483 | [30483-off-road-super-racing.json](./30483-off-road-super-racing.json) |
 | Off-Road Velociraptor Safari | 72644 | [72644-off-road-velociraptor-safari.json](./72644-off-road-velociraptor-safari.json) |
 | Off-Road: Redneck Racing - Off-Road | 289319 | [289319-off-road-redneck-racing-off-road.json](./289319-off-road-redneck-racing-off-road.json) |
