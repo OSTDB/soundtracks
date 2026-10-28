@@ -3235,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Hunt | 14090 | [14090-ghost-hunt.json](./14090-ghost-hunt.json) |
 | Ghost Hunter | 137377 | [137377-ghost-hunter.json](./137377-ghost-hunter.json) |
 | Ghost Hunter | 241382 | [241382-ghost-hunter.json](./241382-ghost-hunter.json) |
+| Ghost Hunter | 264177 | [264177-ghost-hunter.json](./264177-ghost-hunter.json) |
 | Ghost Hunter | 294162 | [294162-ghost-hunter.json](./294162-ghost-hunter.json) |
 | Ghost Hunter | 307685 | [307685-ghost-hunter.json](./307685-ghost-hunter.json) |
 | Ghost Hunter | 321359 | [321359-ghost-hunter.json](./321359-ghost-hunter.json) |
@@ -7540,6 +7541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedling: 2D Boss Rush | 409409 | [409409-greedling-2d-boss-rush.json](./409409-greedling-2d-boss-rush.json) |
 | Greedventory | 204507 | [204507-greedventory.json](./204507-greedventory.json) |
 | Greedy | 178858 | [178858-greedy.json](./178858-greedy.json) |
+| Greedy Chicken | 264171 | [264171-greedy-chicken.json](./264171-greedy-chicken.json) |
 | Greedy Crush | 113171 | [113171-greedy-crush.json](./113171-greedy-crush.json) |
 | Greedy Dungeon | 153395 | [153395-greedy-dungeon.json](./153395-greedy-dungeon.json) |
 | Greedy Dungeons | 86521 | [86521-greedy-dungeons.json](./86521-greedy-dungeons.json) |
