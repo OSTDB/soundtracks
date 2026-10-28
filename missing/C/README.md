@@ -5356,6 +5356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase the Chuck Wagon | 40628 | [40628-chase-the-chuck-wagon.json](./40628-chase-the-chuck-wagon.json) |
 | Chase the Gangsters | 309520 | [309520-chase-the-gangsters.json](./309520-chase-the-gangsters.json) |
 | Chase the Sun | 221981 | [221981-chase-the-sun.json](./221981-chase-the-sun.json) |
+| Chase the Sun 3D | 244814 | [244814-chase-the-sun-3d.json](./244814-chase-the-sun-3d.json) |
 | Chase: Animatronics | 232697 | [232697-chase-animatronics.json](./232697-chase-animatronics.json) |
 | Chase: Hollywood Stunt Driver | 5774 | [5774-chase-hollywood-stunt-driver.json](./5774-chase-hollywood-stunt-driver.json) |
 | Chased | 221684 | [221684-chased.json](./221684-chased.json) |
@@ -12241,6 +12242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie's Bakery | 181856 | [181856-cookies-bakery.json](./181856-cookies-bakery.json) |
 | Cookie's Bustle | 122887 | [122887-cookies-bustle.json](./122887-cookies-bustle.json) |
 | Cookie's Trails | 372762 | [372762-cookies-trails.json](./372762-cookies-trails.json) |
+| CookieRoute | 244812 | [244812-cookieroute.json](./244812-cookieroute.json) |
 | CookieRun: Crumble - Idle RPG | 412209 | [412209-cookierun-crumble-idle-rpg.json](./412209-cookierun-crumble-idle-rpg.json) |
 | Cookies | 146702 | [146702-cookies.json](./146702-cookies.json) |
 | Cookies Cookies Cookies | 205243 | [205243-cookies-cookies-cookies.json](./205243-cookies-cookies-cookies.json) |
@@ -15366,6 +15368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosshatch | 125946 | [125946-crosshatch.json](./125946-crosshatch.json) |
 | Crosshollow Foundations | 182508 | [182508-crosshollow-foundations.json](./182508-crosshollow-foundations.json) |
 | Crossing Acheron | 354427 | [354427-crossing-acheron.json](./354427-crossing-acheron.json) |
+| Crossing Borders | 244591 | [244591-crossing-borders.json](./244591-crossing-borders.json) |
 | Crossing Brothel: Tales of an Interspecies Bordello | 82839 | [82839-crossing-brothel-tales-of-an-interspecies-bordello.json](./82839-crossing-brothel-tales-of-an-interspecies-bordello.json) |
 | Crossing Chains | 380635 | [380635-crossing-chains.json](./380635-crossing-chains.json) |
 | Crossing Chaos: Crazy Highway Traffic | 335966 | [335966-crossing-chaos-crazy-highway-traffic.json](./335966-crossing-chaos-crazy-highway-traffic.json) |
@@ -16413,6 +16416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Space | 163195 | [163195-cube-space.json](./163195-cube-space.json) |
 | Cube Space | 336957 | [336957-cube-space.json](./336957-cube-space.json) |
 | Cube Stack Ultimate | 289765 | [289765-cube-stack-ultimate.json](./289765-cube-stack-ultimate.json) |
+| Cube Sumbledore | 244587 | [244587-cube-sumbledore.json](./244587-cube-sumbledore.json) |
 | Cube Survivor | 274328 | [274328-cube-survivor.json](./274328-cube-survivor.json) |
 | Cube Tactics | 85558 | [85558-cube-tactics.json](./85558-cube-tactics.json) |
 | Cube Universe | 98759 | [98759-cube-universe.json](./98759-cube-universe.json) |
