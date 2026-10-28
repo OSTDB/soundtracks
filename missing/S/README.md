@@ -13787,6 +13787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soi Kano: Gyutto Dakishimete | 98376 | [98376-soi-kano-gyutto-dakishimete.json](./98376-soi-kano-gyutto-dakishimete.json) |
 | Soil of Rebirth | 373332 | [373332-soil-of-rebirth.json](./373332-soil-of-rebirth.json) |
 | Soilborn: Ant Empire | 372003 | [372003-soilborn-ant-empire.json](./372003-soilborn-ant-empire.json) |
+| Sojo | 260257 | [260257-sojo.json](./260257-sojo.json) |
 | Sojourn Past | 291473 | [291473-sojourn-past.json](./291473-sojourn-past.json) |
 | Sojourn Through the Decade | 314056 | [314056-sojourn-through-the-decade.json](./314056-sojourn-through-the-decade.json) |
 | Sojourner | 401457 | [401457-sojourner.json](./401457-sojourner.json) |
@@ -25940,6 +25941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunaba | 274339 | [274339-sunaba.json](./274339-sunaba.json) |
 | SunAge | 21496 | [21496-sunage.json](./21496-sunage.json) |
 | Sunbay City Stories: Tina from the Grand Auto Workshop | 400408 | [400408-sunbay-city-stories-tina-from-the-grand-auto-workshop.json](./400408-sunbay-city-stories-tina-from-the-grand-auto-workshop.json) |
+| Sunbeam | 260263 | [260263-sunbeam.json](./260263-sunbeam.json) |
 | Sunberry Care Center | 349105 | [349105-sunberry-care-center.json](./349105-sunberry-care-center.json) |
 | Sunberry Valley | 356846 | [356846-sunberry-valley.json](./356846-sunberry-valley.json) |
 | Sunberry Village | 384778 | [384778-sunberry-village.json](./384778-sunberry-village.json) |
