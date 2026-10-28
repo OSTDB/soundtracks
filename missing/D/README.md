@@ -719,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance with the Devil | 181766 | [181766-dance-with-the-devil.json](./181766-dance-with-the-devil.json) |
 | Dance with the Moon | 370564 | [370564-dance-with-the-moon.json](./370564-dance-with-the-moon.json) |
 | Dance With Zombies | 127319 | [127319-dance-with-zombies.json](./127319-dance-with-zombies.json) |
+| Dance World | 235908 | [235908-dance-world.json](./235908-dance-world.json) |
 | Dance: UK | 95455 | [95455-dance-uk.json](./95455-dance-uk.json) |
 | Dance: UK eXtra TraX | 62840 | [62840-dance-uk-extra-trax.json](./62840-dance-uk-extra-trax.json) |
 | Dance: UK XL Party | 62838 | [62838-dance-uk-xl-party.json](./62838-dance-uk-xl-party.json) |
@@ -14036,6 +14037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming Diorama | 253492 | [253492-dreaming-diorama.json](./253492-dreaming-diorama.json) |
 | Dreaming in Cherry Blossoms, I Fall in Love With You | 357142 | [357142-dreaming-in-cherry-blossoms-i-fall-in-love-with-you.json](./357142-dreaming-in-cherry-blossoms-i-fall-in-love-with-you.json) |
 | Dreaming in the Mountains | 262372 | [262372-dreaming-in-the-mountains.json](./262372-dreaming-in-the-mountains.json) |
+| Dreaming Isles | 235947 | [235947-dreaming-isles.json](./235947-dreaming-isles.json) |
 | Dreaming Mary | 58386 | [58386-dreaming-mary.json](./58386-dreaming-mary.json) |
 | Dreaming Network | 312599 | [312599-dreaming-network.json](./312599-dreaming-network.json) |
 | Dreaming of You | 184924 | [184924-dreaming-of-you.json](./184924-dreaming-of-you.json) |
@@ -15689,6 +15691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dogs | 224059 | [224059-dungeon-dogs.json](./224059-dungeon-dogs.json) |
 | Dungeon Dominator | 408778 | [408778-dungeon-dominator.json](./408778-dungeon-dominator.json) |
 | Dungeon Done | 311484 | [311484-dungeon-done.json](./311484-dungeon-done.json) |
+| Dungeon Dot Ruby | 235955 | [235955-dungeon-dot-ruby.json](./235955-dungeon-dot-ruby.json) |
 | Dungeon Drafters | 133810 | [133810-dungeon-drafters.json](./133810-dungeon-drafters.json) |
 | Dungeon Drawlers | 398575 | [398575-dungeon-drawlers.json](./398575-dungeon-drawlers.json) |
 | Dungeon Dreams 2 | 217296 | [217296-dungeon-dreams-2.json](./217296-dungeon-dreams-2.json) |
@@ -15860,6 +15863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of the Endless: Rescue Team | 168245 | [168245-dungeon-of-the-endless-rescue-team.json](./168245-dungeon-of-the-endless-rescue-team.json) |
 | Dungeon of the Forgotten King | 257981 | [257981-dungeon-of-the-forgotten-king.json](./257981-dungeon-of-the-forgotten-king.json) |
 | Dungeon of the Gods | 184875 | [184875-dungeon-of-the-gods.json](./184875-dungeon-of-the-gods.json) |
+| Dungeon of Theseus | 235933 | [235933-dungeon-of-theseus.json](./235933-dungeon-of-theseus.json) |
 | Dungeon of Weirdos | 166295 | [166295-dungeon-of-weirdos.json](./166295-dungeon-of-weirdos.json) |
 | Dungeon of Windaria | 72637 | [72637-dungeon-of-windaria.json](./72637-dungeon-of-windaria.json) |
 | Dungeon of Zaar | 24703 | [24703-dungeon-of-zaar.json](./24703-dungeon-of-zaar.json) |
