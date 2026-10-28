@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-27T19:35:49.717Z",
-  "total_soundtracks": 2630,
+  "generated_at": "2026-10-28T11:33:29.870Z",
+  "total_soundtracks": 2650,
   "games": [
     {
       "igdb_id": 7522,
@@ -375,6 +375,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/absolver/1281122592?uo=4",
           "album_link_url": "https://album.link/i/1281122592"
+        }
+      ]
+    },
+    {
+      "igdb_id": 165393,
+      "game_name": "Abyssus",
+      "game_url": "https://ostdb.net/games/abyssus",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27303328de0b7f5885b3f051697",
+      "albums": [
+        {
+          "album_name": "Abyssus (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/67tkzJMc8Vsc0avAoThmlX",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -4157,6 +4171,20 @@
       ]
     },
     {
+      "igdb_id": 178326,
+      "game_name": "Bugsnax: The Isle of Bigsnax",
+      "game_url": "https://ostdb.net/games/bugsnax-the-isle-of-bigsnax",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c9d2a666db1a9485d628d7be",
+      "albums": [
+        {
+          "album_name": "Bugsnax: The Isle of Bigsnax (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5AILFy4wwjuZ487glyYkFk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2720,
       "game_name": "Bully",
       "game_url": "https://ostdb.net/games/bully",
@@ -6685,6 +6713,20 @@
       ]
     },
     {
+      "igdb_id": 204239,
+      "game_name": "Deadlink",
+      "game_url": "https://ostdb.net/games/deadlink",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738c832d8a677fa216489bd9c6",
+      "albums": [
+        {
+          "album_name": "Deadlink (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/19VqCzTfVTWxJiyOH6du1c",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3082,
       "game_name": "Dear Esther",
       "game_url": "https://ostdb.net/games/dear-esther",
@@ -8141,6 +8183,20 @@
         {
           "album_name": "Drakengard 3 Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4FNAsVcqKs7stQCHnpu7SC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 144585,
+      "game_name": "Dread Templar",
+      "game_url": "https://ostdb.net/games/dread-templar",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739453fe47bb4a0a0c7131cfa9",
+      "albums": [
+        {
+          "album_name": "Dread Templar (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1haVawi5MHtni5WrCIWoiY",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -10371,6 +10427,20 @@
       ]
     },
     {
+      "igdb_id": 310121,
+      "game_name": "FlyKnight",
+      "game_url": "https://ostdb.net/games/flyknight",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27322b0161d0f245462bcf0d9f3",
+      "albums": [
+        {
+          "album_name": "FlyKnight (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1a1Fr1tSR8BCjcKbJP0JjJ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 71595,
       "game_name": "Flynn: Son of Crimson",
       "game_url": "https://ostdb.net/games/flynn-son-of-crimson",
@@ -10491,6 +10561,20 @@
         {
           "album_name": "For The King II (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/23Iz8HZbcRRdEIQMMWCjJC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 187096,
+      "game_name": "Forever Skies",
+      "game_url": "https://ostdb.net/games/forever-skies",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734fe597de104cde44c2c39061",
+      "albums": [
+        {
+          "album_name": "Forever Skies (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/39s5Qwk6yRmBzgOKsc7RL6",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -10887,6 +10971,20 @@
       ]
     },
     {
+      "igdb_id": 231437,
+      "game_name": "Garten of Banban 2",
+      "game_url": "https://ostdb.net/games/garten-of-banban-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27395823c093a7315e91f79117f",
+      "albums": [
+        {
+          "album_name": "Garten of Banban 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4TQrg4OMdYZJq5USS5q8DT",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 300548,
       "game_name": "Garten of Banban 8: Anti Devil",
       "game_url": "https://ostdb.net/games/garten-of-banban-8-anti-devil",
@@ -11191,6 +11289,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/get-even-original-soundtrack/1238451700?uo=4",
           "album_link_url": "https://album.link/i/1238451700"
+        }
+      ]
+    },
+    {
+      "igdb_id": 103272,
+      "game_name": "Ghost Giant",
+      "game_url": "https://ostdb.net/games/ghost-giant",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27306b8857d3a888e0a0ebe050c",
+      "albums": [
+        {
+          "album_name": "Ghost Giant (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/78OoZaUu7wdZLyDKotmGuS",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -13713,6 +13825,20 @@
       ]
     },
     {
+      "igdb_id": 144579,
+      "game_name": "Immortals Fenyx Rising: Myths of the Eastern Realm",
+      "game_url": "https://ostdb.net/games/immortals-fenyx-rising-myths-of-the-eastern-realm",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736f6224757c5b934ae7449b2b",
+      "albums": [
+        {
+          "album_name": "Immortals Fenyx Rising : Myths of the Eastern Realm (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2x3LumB6f1kPVNzyzdYTwz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 86504,
       "game_name": "In Other Waters",
       "game_url": "https://ostdb.net/games/in-other-waters",
@@ -14655,6 +14781,20 @@
       ]
     },
     {
+      "igdb_id": 209620,
+      "game_name": "Kingdom Eighties",
+      "game_url": "https://ostdb.net/games/kingdom-eighties",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731282245d7633c9e7eb6683d8",
+      "albums": [
+        {
+          "album_name": "Kingdom Eighties (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1Q3f9TCjZI2t05LyTePDeQ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 7356,
       "game_name": "Kingdom Hearts HD 1.5 Remix",
       "game_url": "https://ostdb.net/games/kingdom-hearts-hd-1-5-remix",
@@ -14931,6 +15071,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/last-sentinel-chapter-green-vol-1-original-game-soundtrack/1885208502?uo=4",
           "album_link_url": "https://album.link/i/1885208502"
+        }
+      ]
+    },
+    {
+      "igdb_id": 252869,
+      "game_name": "Last Train Home",
+      "game_url": "https://ostdb.net/games/last-train-home",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731211751503b3ad40d9b4ce88",
+      "albums": [
+        {
+          "album_name": "Last Train Home (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2BQy4dr9VjyobsrXcBkhXe",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -15759,6 +15913,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/lords-of-the-fallen-original-soundtrack/1745071453?uo=4",
           "album_link_url": "https://album.link/i/1745071453"
+        }
+      ]
+    },
+    {
+      "igdb_id": 145858,
+      "game_name": "Lorn's Lure",
+      "game_url": "https://ostdb.net/games/lorns-lure",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739c51773225b09aa4c153387b",
+      "albums": [
+        {
+          "album_name": "Lorn's Lure (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3fo7hyZcn8E2ZHE6JvwlXg",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -17837,6 +18005,20 @@
       ]
     },
     {
+      "igdb_id": 145073,
+      "game_name": "Moonglow Bay",
+      "game_url": "https://ostdb.net/games/moonglow-bay",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739f339b3470e33e2c8350a416",
+      "albums": [
+        {
+          "album_name": "Moonglow Bay (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4UMZhoQWS9plzg4LDG4ReB",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 27771,
       "game_name": "Moonlighter",
       "game_url": "https://ostdb.net/games/moonlighter",
@@ -19167,6 +19349,20 @@
         {
           "album_name": "Nubby's Number Factory (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5xt2bhzBVRBu9FkzoLhFVp",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 153876,
+      "game_name": "Nuclear Blaze",
+      "game_url": "https://ostdb.net/games/nuclear-blaze",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27386a2c9cf3290c695be8fb5e4",
+      "albums": [
+        {
+          "album_name": "Nuclear Blaze (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/17eqQokJultMTXTVMKTJ9Q",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -26559,6 +26755,20 @@
       ]
     },
     {
+      "igdb_id": 221717,
+      "game_name": "Tales of Symphonia",
+      "game_url": "https://ostdb.net/games/tales-of-symphonia",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273847bf08ddffc44e5321a25aa",
+      "albums": [
+        {
+          "album_name": "Tales of Symphonia Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6TiS9kMfpqiUeau5lX7VY2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1207,
       "game_name": "Tales of the Abyss",
       "game_url": "https://ostdb.net/games/tales-of-the-abyss",
@@ -26974,6 +27184,20 @@
           "album_name": "Terraria: Otherworld (Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4V9VF252QFPNN7nb0Fveq5",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 214506,
+      "game_name": "Teslagrad 2",
+      "game_url": "https://ostdb.net/games/teslagrad-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273220b5fd8d7bd93c9a9907d72",
+      "albums": [
+        {
+          "album_name": "Teslagrad 2 (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/61JzuHiyPhJFZ1GWAor7RA",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -27855,6 +28079,20 @@
       ]
     },
     {
+      "igdb_id": 197081,
+      "game_name": "The House of Da Vinci 3",
+      "game_url": "https://ostdb.net/games/the-house-of-da-vinci-3",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273896e2da6f1c43bb0433aaf60",
+      "albums": [
+        {
+          "album_name": "The House of Da Vinci 3 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4b9znjB3oogrjCl6O4Cx11",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 306153,
       "game_name": "The Hundred Line: Last Defense Academy",
       "game_url": "https://ostdb.net/games/the-hundred-line-last-defense-academy",
@@ -28475,6 +28713,20 @@
         {
           "album_name": "The Pedestrian: Original Video Game Soundtrack",
           "spotify_url": "https://open.spotify.com/album/7tsHKss5CyMo1b0wX7pesZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 189301,
+      "game_name": "The Plague Doctor of Wippra",
+      "game_url": "https://ostdb.net/games/the-plague-doctor-of-wippra",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27398fe3e5a5995720a466e4161",
+      "albums": [
+        {
+          "album_name": "The Plague Doctor of Wippra (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5RYH3O2YMFocE4DD9VqTwT",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -31453,6 +31705,20 @@
       ]
     },
     {
+      "igdb_id": 159703,
+      "game_name": "Warhammer 40,000: Shootas, Blood & Teef",
+      "game_url": "https://ostdb.net/games/warhammer-40-000-shootas-blood-and-teef",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273567b06a647708a82e9d2f7b4",
+      "albums": [
+        {
+          "album_name": "Warhammer 40,000: Shootas, Blood & Teef (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6RzjCADMeGfk33vMNdHpyl",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 578,
       "game_name": "Warhammer 40,000: Space Marine",
       "game_url": "https://ostdb.net/games/warhammer-40-000-space-marine",
@@ -32089,6 +32355,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/wo-long-fallen-dynasty-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1674126497?uo=4",
           "album_link_url": "https://album.link/i/1674126497"
+        }
+      ]
+    },
+    {
+      "igdb_id": 142672,
+      "game_name": "Wobbledogs",
+      "game_url": "https://ostdb.net/games/wobbledogs",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27347b7f9d2ad8ad220e555fe11",
+      "albums": [
+        {
+          "album_name": "Wobbledogs Official Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0OJfXS08KekdYL8q4cmc75",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
