@@ -3004,6 +3004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scram 20 | 79316 | [79316-scram-20.json](./79316-scram-20.json) |
 | Scram 81 | 319528 | [319528-scram-81.json](./319528-scram-81.json) |
 | Scram: Scrammer's Pack | 270035 | [270035-scram-scrammers-pack.json](./270035-scram-scrammers-pack.json) |
+| Scram! | 265294 | [265294-scram.json](./265294-scram.json) |
 | Scramball | 339900 | [339900-scramball.json](./339900-scramball.json) |
 | Scramble | 168574 | [168574-scramble.json](./168574-scramble.json) |
 | Scramble | 246400 | [246400-scramble.json](./246400-scramble.json) |
@@ -3986,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Dark: Temple of Night | 312914 | [312914-secrets-of-the-dark-temple-of-night.json](./312914-secrets-of-the-dark-temple-of-night.json) |
 | Secrets of the Dark: The Flower of Shadow | 103992 | [103992-secrets-of-the-dark-the-flower-of-shadow.json](./103992-secrets-of-the-dark-the-flower-of-shadow.json) |
 | Secrets of the Dragon Cafe | 188300 | [188300-secrets-of-the-dragon-cafe.json](./188300-secrets-of-the-dragon-cafe.json) |
+| Secrets of the Haunted Mansion | 265300 | [265300-secrets-of-the-haunted-mansion.json](./265300-secrets-of-the-haunted-mansion.json) |
 | Secrets of the Heart | 399771 | [399771-secrets-of-the-heart.json](./399771-secrets-of-the-heart.json) |
 | Secrets of the Heartbeat | 302353 | [302353-secrets-of-the-heartbeat.json](./302353-secrets-of-the-heartbeat.json) |
 | Secrets of the Keep | 271574 | [271574-secrets-of-the-keep.json](./271574-secrets-of-the-keep.json) |
@@ -4226,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seen on Screen | 225721 | [225721-seen-on-screen.json](./225721-seen-on-screen.json) |
 | SeeNa | 62590 | [62590-seena.json](./62590-seena.json) |
 | Seer | 397381 | [397381-seer.json](./397381-seer.json) |
+| Seer's Gambit | 265301 | [265301-seers-gambit.json](./265301-seers-gambit.json) |
 | Seers Isle | 86344 | [86344-seers-isle.json](./86344-seers-isle.json) |
 | Seers of Ages Past 1: The Harbinger of Mah | 285884 | [285884-seers-of-ages-past-1-the-harbinger-of-mah.json](./285884-seers-of-ages-past-1-the-harbinger-of-mah.json) |
 | Sees Game | 276615 | [276615-sees-game.json](./276615-sees-game.json) |
@@ -7503,6 +7506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShipSwing | 206185 | [206185-shipswing.json](./206185-shipswing.json) |
 | Shipwreck | 35936 | [35936-shipwreck.json](./35936-shipwreck.json) |
 | Shipwreck Escape | 152827 | [152827-shipwreck-escape.json](./152827-shipwreck-escape.json) |
+| Shipwrecked | 265295 | [265295-shipwrecked.json](./265295-shipwrecked.json) |
 | Shipwrecked | 313859 | [313859-shipwrecked.json](./313859-shipwrecked.json) |
 | Shipwrecked 64 | 284041 | [284041-shipwrecked-64.json](./284041-shipwrecked-64.json) |
 | Shipwrecked Raft Survival | 347305 | [347305-shipwrecked-raft-survival.json](./347305-shipwrecked-raft-survival.json) |
@@ -8388,6 +8392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shut Up, Rabbit! | 263744 | [263744-shut-up-rabbit.json](./263744-shut-up-rabbit.json) |
 | Shut Up, RPG! | 309196 | [309196-shut-up-rpg.json](./309196-shut-up-rpg.json) |
 | Shut your teeth | 164252 | [164252-shut-your-teeth.json](./164252-shut-your-teeth.json) |
+| Shutdown | 265296 | [265296-shutdown.json](./265296-shutdown.json) |
 | Shutdown. | 370772 | [370772-shutdown.json](./370772-shutdown.json) |
 | Shuten | 330164 | [330164-shuten.json](./330164-shuten.json) |
 | Shuten Order | 344468 | [344468-shuten-order.json](./344468-shuten-order.json) |
@@ -8635,6 +8640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Bullet | 197657 | [197657-side-bullet.json](./197657-side-bullet.json) |
 | Side by Side Special | 93055 | [93055-side-by-side-special.json](./93055-side-by-side-special.json) |
 | Side by Side Special 2000 | 43767 | [43767-side-by-side-special-2000.json](./43767-side-by-side-special-2000.json) |
+| Side by Size | 265297 | [265297-side-by-size.json](./265297-side-by-size.json) |
 | Side Effect | 149825 | [149825-side-effect.json](./149825-side-effect.json) |
 | Side Effect | 190488 | [190488-side-effect.json](./190488-side-effect.json) |
 | Side Effects | 343472 | [343472-side-effects.json](./343472-side-effects.json) |
@@ -9241,6 +9247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sim Sports Raid | 384213 | [384213-sim-sports-raid.json](./384213-sim-sports-raid.json) |
 | Sim Taxi | 271387 | [271387-sim-taxi.json](./271387-sim-taxi.json) |
 | Sim Taxi 2 | 271379 | [271379-sim-taxi-2.json](./271379-sim-taxi-2.json) |
+| Sim the Sand | 265298 | [265298-sim-the-sand.json](./265298-sim-the-sand.json) |
 | Sim Theme Park | 12484 | [12484-sim-theme-park.json](./12484-sim-theme-park.json) |
 | Sim: Heavyweight Boxing Champion | 397264 | [397264-sim-heavyweight-boxing-champion.json](./397264-sim-heavyweight-boxing-champion.json) |
 | SIM: Simple Idle Miner | 309462 | [309462-sim-simple-idle-miner.json](./309462-sim-simple-idle-miner.json) |
@@ -11676,6 +11683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime LOL | 130177 | [130177-slime-lol.json](./130177-slime-lol.json) |
 | Slime Maker Factory: Fun Play | 106522 | [106522-slime-maker-factory-fun-play.json](./106522-slime-maker-factory-fun-play.json) |
 | Slime Management | 357349 | [357349-slime-management.json](./357349-slime-management.json) |
+| Slime Masters | 265299 | [265299-slime-masters.json](./265299-slime-masters.json) |
 | Slime Match Adventure | 363056 | [363056-slime-match-adventure.json](./363056-slime-match-adventure.json) |
 | Slime Must Grow | 389917 | [389917-slime-must-grow.json](./389917-slime-must-grow.json) |
 | Slime Musume ha Ningen to Tomodachi ni Naritai you da | 308910 | [308910-slime-musume-ha-ningen-to-tomodachi-ni-naritai-you-da.json](./308910-slime-musume-ha-ningen-to-tomodachi-ni-naritai-you-da.json) |
@@ -12017,6 +12025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slugterra: Slug Life | 188286 | [188286-slugterra-slug-life.json](./188286-slugterra-slug-life.json) |
 | Slugtrip | 347796 | [347796-slugtrip.json](./347796-slugtrip.json) |
 | Slum Guide | 325405 | [325405-slum-guide.json](./325405-slum-guide.json) |
+| Slum Musketeer | 264985 | [264985-slum-musketeer.json](./264985-slum-musketeer.json) |
 | Slumber | 191202 | [191202-slumber.json](./191202-slumber.json) |
 | Slumber | 394397 | [394397-slumber.json](./394397-slumber.json) |
 | Slumber Party | 176925 | [176925-slumber-party.json](./176925-slumber-party.json) |
@@ -18291,6 +18300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelling Go! | 240344 | [240344-spelling-go.json](./240344-spelling-go.json) |
 | Spelling Jungle | 98561 | [98561-spelling-jungle.json](./98561-spelling-jungle.json) |
 | Spelling Quest Online | 127169 | [127169-spelling-quest-online.json](./127169-spelling-quest-online.json) |
+| Spelling Spree | 265292 | [265292-spelling-spree.json](./265292-spelling-spree.json) |
 | Spellinkers | 125074 | [125074-spellinkers.json](./125074-spellinkers.json) |
 | Spellirium | 63549 | [63549-spellirium.json](./63549-spellirium.json) |
 | Spellisimo | 400896 | [400896-spellisimo.json](./400896-spellisimo.json) |
@@ -19930,6 +19940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Brain Puzzle | 410836 | [410836-square-brain-puzzle.json](./410836-square-brain-puzzle.json) |
 | Square Brawl | 34644 | [34644-square-brawl.json](./34644-square-brawl.json) |
 | Square Circle | 414151 | [414151-square-circle.json](./414151-square-circle.json) |
+| Square City Builder | 265291 | [265291-square-city-builder.json](./265291-square-city-builder.json) |
 | Square Colosseum: Cell B201 | 417395 | [417395-square-colosseum-cell-b201.json](./417395-square-colosseum-cell-b201.json) |
 | Square Dancer | 140476 | [140476-square-dancer.json](./140476-square-dancer.json) |
 | Square Deal | 72021 | [72021-square-deal.json](./72021-square-deal.json) |
@@ -21959,6 +21970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Troopers: Continuum | 318466 | [318466-starship-troopers-continuum.json](./318466-starship-troopers-continuum.json) |
 | Starship Troopers: Extermination - Galactic Victory Edition | 333690 | [333690-starship-troopers-extermination-galactic-victory-edition.json](./333690-starship-troopers-extermination-galactic-victory-edition.json) |
 | Starship Troopers: Extermination - Warrior Tiger Bundle | 331519 | [331519-starship-troopers-extermination-warrior-tiger-bundle.json](./331519-starship-troopers-extermination-warrior-tiger-bundle.json) |
+| Starship Troopers: Terran Command - Raising Hell | 265290 | [265290-starship-troopers-terran-command-raising-hell.json](./265290-starship-troopers-terran-command-raising-hell.json) |
 | Starship Troopers: Terran Command - The Eradicators | 380993 | [380993-starship-troopers-terran-command-the-eradicators.json](./380993-starship-troopers-terran-command-the-eradicators.json) |
 | Starship Troopers: Terran Command - Urban Onslaught | 298054 | [298054-starship-troopers-terran-command-urban-onslaught.json](./298054-starship-troopers-terran-command-urban-onslaught.json) |
 | Starship Tunnel | 156904 | [156904-starship-tunnel.json](./156904-starship-tunnel.json) |
@@ -22710,6 +22722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Tactics | 26293 | [26293-stellar-tactics.json](./26293-stellar-tactics.json) |
 | Stellar Terminus | 318178 | [318178-stellar-terminus.json](./318178-stellar-terminus.json) |
 | Stellar Track | 18427 | [18427-stellar-track.json](./18427-stellar-track.json) |
+| Stellar Tunes | 265289 | [265289-stellar-tunes.json](./265289-stellar-tunes.json) |
 | Stellar Valkyrie | 165072 | [165072-stellar-valkyrie.json](./165072-stellar-valkyrie.json) |
 | Stellar Version 1.0 | 252671 | [252671-stellar-version-1-0.json](./252671-stellar-version-1-0.json) |
 | Stellar Wanderer DX | 283577 | [283577-stellar-wanderer-dx.json](./283577-stellar-wanderer-dx.json) |
@@ -23505,6 +23518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormworks: Build and Rescue | 36623 | [36623-stormworks-build-and-rescue.json](./36623-stormworks-build-and-rescue.json) |
 | Stormworks: Industrial Frontier | 221629 | [221629-stormworks-industrial-frontier.json](./221629-stormworks-industrial-frontier.json) |
 | Stormworks: Search and Destroy | 174136 | [174136-stormworks-search-and-destroy.json](./174136-stormworks-search-and-destroy.json) |
+| Stormworks: Space | 265288 | [265288-stormworks-space.json](./265288-stormworks-space.json) |
 | Stormworm+ | 33332 | [33332-stormworm.json](./33332-stormworm.json) |
 | Stormy Castle | 330847 | [330847-stormy-castle.json](./330847-stormy-castle.json) |
 | Storror Parkour Pro | 166483 | [166483-storror-parkour-pro.json](./166483-storror-parkour-pro.json) |
