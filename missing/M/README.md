@@ -15217,6 +15217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother | 133707 | [133707-mother.json](./133707-mother.json) |
 | Mother | 150274 | [150274-mother.json](./150274-mother.json) |
 | Mother 1+2 | 78585 | [78585-mother-1-2.json](./78585-mother-1-2.json) |
+| Mother 2 Deluxe | 246585 | [246585-mother-2-deluxe.json](./246585-mother-2-deluxe.json) |
 | Mother 2: Perfect Edition | 305370 | [305370-mother-2-perfect-edition.json](./305370-mother-2-perfect-edition.json) |
 | Mother 25th Anniversary Edition | 48561 | [48561-mother-25th-anniversary-edition.json](./48561-mother-25th-anniversary-edition.json) |
 | Mother 3 | 3683 | [3683-mother-3.json](./3683-mother-3.json) |
@@ -16806,6 +16807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murmuring of Moth Mouth | 417596 | [417596-murmuring-of-moth-mouth.json](./417596-murmuring-of-moth-mouth.json) |
 | Murmurs | 380643 | [380643-murmurs.json](./380643-murmurs.json) |
 | Murnatan | 62718 | [62718-murnatan.json](./62718-murnatan.json) |
+| Murphy da yo Zenin Shuugou | 246576 | [246576-murphy-da-yo-zenin-shuugou.json](./246576-murphy-da-yo-zenin-shuugou.json) |
 | Murphy's Minerals | 330157 | [330157-murphys-minerals.json](./330157-murphys-minerals.json) |
 | Murphy's Street | 137998 | [137998-murphys-street.json](./137998-murphys-street.json) |
 | Murtop | 232814 | [232814-murtop.json](./232814-murtop.json) |
