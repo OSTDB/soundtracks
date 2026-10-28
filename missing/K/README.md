@@ -2413,7 +2413,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2707,7 +2706,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Stocks | 304446 | [304446-king-of-stocks.json](./304446-king-of-stocks.json) |
 | King of Sweets | 155958 | [155958-king-of-sweets.json](./155958-king-of-sweets.json) |
 | King of the Cabbage World | 386402 | [386402-king-of-the-cabbage-world.json](./386402-king-of-the-cabbage-world.json) |
-| King of the Castle | 219196 | [219196-king-of-the-castle.json](./219196-king-of-the-castle.json) |
 | King of the Castle | 42146 | [42146-king-of-the-castle.json](./42146-king-of-the-castle.json) |
 | King of the Chat | 339918 | [339918-king-of-the-chat.json](./339918-king-of-the-chat.json) |
 | King of the Couch: Zoovival | 75602 | [75602-king-of-the-couch-zoovival.json](./75602-king-of-the-couch-zoovival.json) |
