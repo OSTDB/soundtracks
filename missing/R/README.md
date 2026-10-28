@@ -2360,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaching for Petals: VR Edition | 68664 | [68664-reaching-for-petals-vr-edition.json](./68664-reaching-for-petals-vr-edition.json) |
 | Reaching the Seven: Asteroids | 178627 | [178627-reaching-the-seven-asteroids.json](./178627-reaching-the-seven-asteroids.json) |
 | React Wars | 392959 | [392959-react-wars.json](./392959-react-wars.json) |
+| React-O-Matic | 262506 | [262506-react-o-matic.json](./262506-react-o-matic.json) |
 | ReactFuse | 264641 | [264641-reactfuse.json](./264641-reactfuse.json) |
 | Reaction | 152347 | [152347-reaction.json](./152347-reaction.json) |
 | Reaction Game: Hit the Color! | 56764 | [56764-reaction-game-hit-the-color.json](./56764-reaction-game-hit-the-color.json) |
@@ -4787,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 3: Nemesis - Seamless HD Project | 322046 | [322046-resident-evil-3-nemesis-seamless-hd-project.json](./322046-resident-evil-3-nemesis-seamless-hd-project.json) |
 | Resident Evil 3: The Lord of the Necropolis | 350982 | [350982-resident-evil-3-the-lord-of-the-necropolis.json](./350982-resident-evil-3-the-lord-of-the-necropolis.json) |
 | Resident Evil 3: The Only One | 280718 | [280718-resident-evil-3-the-only-one.json](./280718-resident-evil-3-the-only-one.json) |
+| Resident Evil 4 HD Project | 262541 | [262541-resident-evil-4-hd-project.json](./262541-resident-evil-4-hd-project.json) |
 | Resident Evil 4: A Nightmare of Evil | 351585 | [351585-resident-evil-4-a-nightmare-of-evil.json](./351585-resident-evil-4-a-nightmare-of-evil.json) |
 | Resident Evil 4: Berserker | 356696 | [356696-resident-evil-4-berserker.json](./356696-resident-evil-4-berserker.json) |
 | Resident Evil 4: Collector's Edition | 24211 | [24211-resident-evil-4-collectors-edition.json](./24211-resident-evil-4-collectors-edition.json) |
