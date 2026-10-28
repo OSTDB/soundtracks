@@ -2138,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Planet | 27297 | [27297-water-planet.json](./27297-water-planet.json) |
 | Water Polo | 308141 | [308141-water-polo.json](./308141-water-polo.json) |
 | Water Polo | 346104 | [346104-water-polo.json](./346104-water-polo.json) |
+| Water Power | 261410 | [261410-water-power.json](./261410-water-power.json) |
 | Water Rain | 158077 | [158077-water-rain.json](./158077-water-rain.json) |
 | Water Search | 224753 | [224753-water-search.json](./224753-water-search.json) |
 | Water Ski | 117410 | [117410-water-ski.json](./117410-water-ski.json) |
@@ -3547,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Them Demons Cry | 376021 | [376021-when-them-demons-cry.json](./376021-when-them-demons-cry.json) |
 | When There Is No More Snow | 184421 | [184421-when-there-is-no-more-snow.json](./184421-when-there-is-no-more-snow.json) |
 | When Trees Turn to Ice | 321931 | [321931-when-trees-turn-to-ice.json](./321931-when-trees-turn-to-ice.json) |
+| When Twilight Strikes | 261392 | [261392-when-twilight-strikes.json](./261392-when-twilight-strikes.json) |
 | When Vikings Attack! | 9123 | [9123-when-vikings-attack.json](./9123-when-vikings-attack.json) |
 | When Voices Died | 390465 | [390465-when-voices-died.json](./390465-when-voices-died.json) |
 | When Wardens Fall | 99023 | [99023-when-wardens-fall.json](./99023-when-wardens-fall.json) |
@@ -6381,6 +6383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodswalker | 384195 | [384195-woodswalker.json](./384195-woodswalker.json) |
 | Woodsy | 101602 | [101602-woodsy.json](./101602-woodsy.json) |
 | Woodsy Whatnots | 287691 | [287691-woodsy-whatnots.json](./287691-woodsy-whatnots.json) |
+| Woodturning | 261407 | [261407-woodturning.json](./261407-woodturning.json) |
 | Woodturning 3D | 287664 | [287664-woodturning-3d.json](./287664-woodturning-3d.json) |
 | Woodturning 3D: Arts & Crafts | 288276 | [288276-woodturning-3d-arts-and-crafts.json](./288276-woodturning-3d-arts-and-crafts.json) |
 | Woodventure: Mahjong Connect | 238980 | [238980-woodventure-mahjong-connect.json](./238980-woodventure-mahjong-connect.json) |
