@@ -2234,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlucky Swordsmith | 420508 | [420508-unlucky-swordsmith.json](./420508-unlucky-swordsmith.json) |
 | Unmaker | 217452 | [217452-unmaker.json](./217452-unmaker.json) |
 | Unmanned helicopter | 105365 | [105365-unmanned-helicopter.json](./105365-unmanned-helicopter.json) |
+| Unmanned: Midnight Nightmare | 253548 | [253548-unmanned-midnight-nightmare.json](./253548-unmanned-midnight-nightmare.json) |
 | UnMarked | 185078 | [185078-unmarked.json](./185078-unmarked.json) |
 | Unmask the Rat | 200323 | [200323-unmask-the-rat.json](./200323-unmask-the-rat.json) |
 | Unmasked Truths: Shattered Dreams | 350458 | [350458-unmasked-truths-shattered-dreams.json](./350458-unmasked-truths-shattered-dreams.json) |
