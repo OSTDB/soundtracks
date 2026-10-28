@@ -1707,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw World | 308926 | [308926-jigsaw-world.json](./308926-jigsaw-world.json) |
 | Jigsaw World | 53249 | [53249-jigsaw-world.json](./53249-jigsaw-world.json) |
 | Jigsaw World | 80812 | [80812-jigsaw-world.json](./80812-jigsaw-world.json) |
+| Jigsaw World: Daigekitou! Jig-Battle Heroes | 248838 | [248838-jigsaw-world-daigekitou-jig-battle-heroes.json](./248838-jigsaw-world-daigekitou-jig-battle-heroes.json) |
 | Jigsaw Zoo | 289371 | [289371-jigsaw-zoo.json](./289371-jigsaw-zoo.json) |
 | Jigsaw-Land | 264174 | [264174-jigsaw-land.json](./264174-jigsaw-land.json) |
 | Jigsaw's Test | 393090 | [393090-jigsaws-test.json](./393090-jigsaws-test.json) |
@@ -1847,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jimmy Johnson's VR Football '98 | 45076 | [45076-jimmy-johnsons-vr-football-98.json](./45076-jimmy-johnsons-vr-football-98.json) |
 | Jimmy Jumps | 390649 | [390649-jimmy-jumps.json](./390649-jimmy-jumps.json) |
 | Jimmy Kamikaze | 108436 | [108436-jimmy-kamikaze.json](./108436-jimmy-kamikaze.json) |
+| Jimmy Neutron vs. Jimmy Negatron | 248695 | [248695-jimmy-neutron-vs-jimmy-negatron.json](./248695-jimmy-neutron-vs-jimmy-negatron.json) |
 | Jimmy Neutron vs. Jimmy Negatron | 6478 | [6478-jimmy-neutron-vs-jimmy-negatron.json](./6478-jimmy-neutron-vs-jimmy-negatron.json) |
 | Jimmy Neutron: Boy Genius | 2966 | [2966-jimmy-neutron-boy-genius.json](./2966-jimmy-neutron-boy-genius.json) |
 | Jimmy Neutron: Boy Genius | 49291 | [49291-jimmy-neutron-boy-genius.json](./49291-jimmy-neutron-boy-genius.json) |
@@ -2216,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Upgrade | 286642 | [286642-johnny-upgrade.json](./286642-johnny-upgrade.json) |
 | Johns.Game | 90482 | [90482-johns-game.json](./90482-johns-game.json) |
 | Johny Explorer | 231358 | [231358-johny-explorer.json](./231358-johny-explorer.json) |
+| Johny Vayna | 251148 | [251148-johny-vayna.json](./251148-johny-vayna.json) |
 | Johou Battle | 274147 | [274147-johou-battle.json](./274147-johou-battle.json) |
 | JoiLab VR | 309755 | [309755-joilab-vr.json](./309755-joilab-vr.json) |
 | Join 4 | 232301 | [232301-join-4.json](./232301-join-4.json) |
@@ -2867,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Rope Challenge | 135104 | [135104-jump-rope-challenge.json](./135104-jump-rope-challenge.json) |
 | Jump Runner | 200543 | [200543-jump-runner.json](./200543-jump-runner.json) |
 | Jump Shot | 46858 | [46858-jump-shot.json](./46858-jump-shot.json) |
+| Jump Skunk | 247298 | [247298-jump-skunk.json](./247298-jump-skunk.json) |
 | Jump Sky-High Collection | 334097 | [334097-jump-sky-high-collection.json](./334097-jump-sky-high-collection.json) |
 | Jump Soul | 130035 | [130035-jump-soul.json](./130035-jump-soul.json) |
 | Jump Space Joyride | 403949 | [403949-jump-space-joyride.json](./403949-jump-space-joyride.json) |
@@ -3529,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Die Neon | 55693 | [55693-just-die-neon.json](./55693-just-die-neon.json) |
 | Just Dig | 365054 | [365054-just-dig.json](./365054-just-dig.json) |
 | Just Dismantle | 393137 | [393137-just-dismantle.json](./393137-just-dismantle.json) |
+| Just do It | 251126 | [251126-just-do-it.json](./251126-just-do-it.json) |
 | Just Dodge, LOL | 289247 | [289247-just-dodge-lol.json](./289247-just-dodge-lol.json) |
 | Just Drift It ! | 122412 | [122412-just-drift-it.json](./122412-just-drift-it.json) |
 | Just Drive | 215590 | [215590-just-drive.json](./215590-just-drive.json) |
