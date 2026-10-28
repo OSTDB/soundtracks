@@ -8396,6 +8396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forest Cries | 185101 | [185101-the-forest-cries.json](./185101-the-forest-cries.json) |
 | The Forest Keeper | 370190 | [370190-the-forest-keeper.json](./370190-the-forest-keeper.json) |
 | The Forest of Black Eden | 348146 | [348146-the-forest-of-black-eden.json](./348146-the-forest-of-black-eden.json) |
+| The Forest of Conx | 258056 | [258056-the-forest-of-conx.json](./258056-the-forest-of-conx.json) |
 | The Forest of Doom | 231461 | [231461-the-forest-of-doom.json](./231461-the-forest-of-doom.json) |
 | The Forest of Noise | 362798 | [362798-the-forest-of-noise.json](./362798-the-forest-of-noise.json) |
 | The Forest Prison | 203537 | [203537-the-forest-prison.json](./203537-the-forest-prison.json) |
@@ -13952,6 +13953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Society | 88642 | [88642-the-secret-society.json](./88642-the-secret-society.json) |
 | The Secret Society - Hidden Objects Mystery | 124747 | [124747-the-secret-society-hidden-objects-mystery.json](./124747-the-secret-society-hidden-objects-mystery.json) |
 | The Secret Story 1996 | 396191 | [396191-the-secret-story-1996.json](./396191-the-secret-story-1996.json) |
+| The Secret Ties of Strandcliff | 258072 | [258072-the-secret-ties-of-strandcliff.json](./258072-the-secret-ties-of-strandcliff.json) |
 | The Secret Turnabout | 306620 | [306620-the-secret-turnabout.json](./306620-the-secret-turnabout.json) |
 | The Secret Weapon | 301872 | [301872-the-secret-weapon.json](./301872-the-secret-weapon.json) |
 | The Secret Workshop of Wishes | 385073 | [385073-the-secret-workshop-of-wishes.json](./385073-the-secret-workshop-of-wishes.json) |
@@ -27042,6 +27044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trollface Quest | 195448 | [195448-trollface-quest.json](./195448-trollface-quest.json) |
 | Trollface Quest 13 | 257816 | [257816-trollface-quest-13.json](./257816-trollface-quest-13.json) |
 | Trollface Quest 3 | 257579 | [257579-trollface-quest-3.json](./257579-trollface-quest-3.json) |
+| Trollface Quest 5 | 257771 | [257771-trollface-quest-5.json](./257771-trollface-quest-5.json) |
 | Trollface Quest: Internet Memes | 257812 | [257812-trollface-quest-internet-memes.json](./257812-trollface-quest-internet-memes.json) |
 | Trollface Quest: Sports | 257799 | [257799-trollface-quest-sports.json](./257799-trollface-quest-sports.json) |
 | Trollface Quest: Sports | 257810 | [257810-trollface-quest-sports.json](./257810-trollface-quest-sports.json) |
