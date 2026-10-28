@@ -2677,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headlines from the Deep | 177312 | [177312-headlines-from-the-deep.json](./177312-headlines-from-the-deep.json) |
 | Headlong Hunt | 152226 | [152226-headlong-hunt.json](./152226-headlong-hunt.json) |
 | Headlong Racing | 10396 | [10396-headlong-racing.json](./10396-headlong-racing.json) |
+| Headmaster Disaster | 279788 | [279788-headmaster-disaster.json](./279788-headmaster-disaster.json) |
 | Headmaster: Extra Time Edition | 173111 | [173111-headmaster-extra-time-edition.json](./173111-headmaster-extra-time-edition.json) |
 | Headmaster: The Lost Lessons | 174186 | [174186-headmaster-the-lost-lessons.json](./174186-headmaster-the-lost-lessons.json) |
 | HeadOn! | 93729 | [93729-headon.json](./93729-headon.json) |
@@ -3798,6 +3799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty no Gotouchi Collection: Koi no DokiDoki Trouble | 274891 | [274891-hello-kitty-no-gotouchi-collection-koi-no-dokidoki-trouble.json](./274891-hello-kitty-no-gotouchi-collection-koi-no-dokidoki-trouble.json) |
 | Hello Kitty no Hanabatake | 3688 | [3688-hello-kitty-no-hanabatake.json](./3688-hello-kitty-no-hanabatake.json) |
 | Hello Kitty no Happy Accessory | 279592 | [279592-hello-kitty-no-happy-accessory.json](./279592-hello-kitty-no-happy-accessory.json) |
+| Hello Kitty no Happy House | 279434 | [279434-hello-kitty-no-happy-house.json](./279434-hello-kitty-no-happy-house.json) |
 | Hello Kitty no Hiragana Katakana Onamae Kaitemiyou | 279600 | [279600-hello-kitty-no-hiragana-katakana-onamae-kaitemiyou.json](./279600-hello-kitty-no-hiragana-katakana-onamae-kaitemiyou.json) |
 | Hello Kitty no Magical Museum | 50562 | [50562-hello-kitty-no-magical-museum.json](./50562-hello-kitty-no-magical-museum.json) |
 | Hello Kitty no Oshare Party: Sanrio Character Zukan DS | 228432 | [228432-hello-kitty-no-oshare-party-sanrio-character-zukan-ds.json](./228432-hello-kitty-no-oshare-party-sanrio-character-zukan-ds.json) |
@@ -8141,6 +8143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Flickers of a Spacetime Warp | 350593 | [350593-honkai-impact-3rd-flickers-of-a-spacetime-warp.json](./350593-honkai-impact-3rd-flickers-of-a-spacetime-warp.json) |
 | Honkai Impact 3rd: Florid Mitama | 362027 | [362027-honkai-impact-3rd-florid-mitama.json](./362027-honkai-impact-3rd-florid-mitama.json) |
 | Honkai Impact 3rd: For the Stars Shall Defy Fate | 362261 | [362261-honkai-impact-3rd-for-the-stars-shall-defy-fate.json](./362261-honkai-impact-3rd-for-the-stars-shall-defy-fate.json) |
+| Honkai Impact 3rd: Hacked | 279432 | [279432-honkai-impact-3rd-hacked.json](./279432-honkai-impact-3rd-hacked.json) |
 | Honkai Impact 3rd: In Search of the Sun | 327458 | [327458-honkai-impact-3rd-in-search-of-the-sun.json](./327458-honkai-impact-3rd-in-search-of-the-sun.json) |
 | Honkai Impact 3rd: Infinite Future | 276502 | [276502-honkai-impact-3rd-infinite-future.json](./276502-honkai-impact-3rd-infinite-future.json) |
 | Honkai Impact 3rd: Lives Flourish Where Feathers Fall | 408932 | [408932-honkai-impact-3rd-lives-flourish-where-feathers-fall.json](./408932-honkai-impact-3rd-lives-flourish-where-feathers-fall.json) |
