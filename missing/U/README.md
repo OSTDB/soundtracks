@@ -2719,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up Up & Down! | 312324 | [312324-up-up-and-down.json](./312324-up-up-and-down.json) |
 | Up Up Bot | 101426 | [101426-up-up-bot.json](./101426-up-up-bot.json) |
 | Up Up Up | 393836 | [393836-up-up-up.json](./393836-up-up-up.json) |
+| Up With A Fish! | 259692 | [259692-up-with-a-fish.json](./259692-up-with-a-fish.json) |
 | Up With Doznik | 312569 | [312569-up-with-doznik.json](./312569-up-with-doznik.json) |
 | Up Words | 200370 | [200370-up-words.json](./200370-up-words.json) |
 | Up! The Floor Is Lava | 303705 | [303705-up-the-floor-is-lava.json](./303705-up-the-floor-is-lava.json) |
