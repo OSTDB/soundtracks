@@ -5672,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversion: The Return | 130398 | [130398-reversion-the-return.json](./130398-reversion-the-return.json) |
 | Reverso | 63745 | [63745-reverso.json](./63745-reverso.json) |
 | Revert | 320242 | [320242-revert.json](./320242-revert.json) |
+| Reverthion | 266333 | [266333-reverthion.json](./266333-reverthion.json) |
 | Revertices | 415420 | [415420-revertices.json](./415420-revertices.json) |
 | Revery Rebirth | 121619 | [121619-revery-rebirth.json](./121619-revery-rebirth.json) |
 | Rêves: Lettres et Ciel | 228423 | [228423-reves-lettres-et-ciel.json](./228423-reves-lettres-et-ciel.json) |
@@ -7421,6 +7422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roaming Backrooms | 265156 | [265156-roaming-backrooms.json](./265156-roaming-backrooms.json) |
 | Roaming Fortress | 17841 | [17841-roaming-fortress.json](./17841-roaming-fortress.json) |
 | Roaming through the Rivers | 214731 | [214731-roaming-through-the-rivers.json](./214731-roaming-through-the-rivers.json) |
+| Roams.io | 266367 | [266367-roams-io.json](./266367-roams-io.json) |
 | Roanoke | 260561 | [260561-roanoke.json](./260561-roanoke.json) |
 | Roanoke | 86233 | [86233-roanoke.json](./86233-roanoke.json) |
 | Roar | 179078 | [179078-roar.json](./179078-roar.json) |
@@ -9989,6 +9991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Romances: Battle of the Woods | 226930 | [226930-royal-romances-battle-of-the-woods.json](./226930-royal-romances-battle-of-the-woods.json) |
 | Royal Romances: Battle of the Woods - Collector's Edition | 224741 | [224741-royal-romances-battle-of-the-woods-collectors-edition.json](./224741-royal-romances-battle-of-the-woods-collectors-edition.json) |
 | Royal Romances: Cursed Hearts - Collector's Edition | 278252 | [278252-royal-romances-cursed-hearts-collectors-edition.json](./278252-royal-romances-cursed-hearts-collectors-edition.json) |
+| Royal Romances: Endless Winter | 266343 | [266343-royal-romances-endless-winter.json](./266343-royal-romances-endless-winter.json) |
 | Royal Romances: Endless Winter - Collector's Edition | 265305 | [265305-royal-romances-endless-winter-collectors-edition.json](./265305-royal-romances-endless-winter-collectors-edition.json) |
 | Royal Romances: Forbidden Magic - Collector's Edition | 240767 | [240767-royal-romances-forbidden-magic-collectors-edition.json](./240767-royal-romances-forbidden-magic-collectors-edition.json) |
 | Royal Romances: The Cursed Hearts DLC | 280258 | [280258-royal-romances-the-cursed-hearts-dlc.json](./280258-royal-romances-the-cursed-hearts-dlc.json) |
@@ -10454,6 +10457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumbral | 344465 | [344465-rumbral.json](./344465-rumbral.json) |
 | Rumia in the darkness | 121013 | [121013-rumia-in-the-darkness.json](./121013-rumia-in-the-darkness.json) |
 | Rumia Throws! | 264255 | [264255-rumia-throws.json](./264255-rumia-throws.json) |
+| Rumic Harrier | 266330 | [266330-rumic-harrier.json](./266330-rumic-harrier.json) |
 | Ruminant 4444 | 399911 | [399911-ruminant-4444.json](./399911-ruminant-4444.json) |
 | Rumination | 364638 | [364638-rumination.json](./364638-rumination.json) |
 | Rummel & Rabalder: Dr. Franks Mask | 154830 | [154830-rummel-and-rabalder-dr-franks-mask.json](./154830-rummel-and-rabalder-dr-franks-mask.json) |
