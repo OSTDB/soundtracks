@@ -4213,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DecaDungeons | 393043 | [393043-decadungeons.json](./393043-decadungeons.json) |
 | DeCalc | 62972 | [62972-decalc.json](./62972-decalc.json) |
 | Decamped | 157028 | [157028-decamped.json](./157028-decamped.json) |
+| Decanumber | 261321 | [261321-decanumber.json](./261321-decanumber.json) |
 | Décapita | 356056 | [356056-decapita.json](./356056-decapita.json) |
 | DecaPolice | 236661 | [236661-decapolice.json](./236661-decapolice.json) |
 | Decarathon | 180515 | [180515-decarathon.json](./180515-decarathon.json) |
@@ -7285,6 +7286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamonds | 119547 | [119547-diamonds.json](./119547-diamonds.json) |
 | Diamonds | 308208 | [308208-diamonds.json](./308208-diamonds.json) |
 | Diamonds | 348583 | [348583-diamonds.json](./348583-diamonds.json) |
+| Diamonds Mine | 261082 | [261082-diamonds-mine.json](./261082-diamonds-mine.json) |
 | Diamonds on the forest | 227831 | [227831-diamonds-on-the-forest.json](./227831-diamonds-on-the-forest.json) |
 | Diana Hamilton's Dreams | 141718 | [141718-diana-hamiltons-dreams.json](./141718-diana-hamiltons-dreams.json) |
 | Diǎnchū Gè Sānguó | 413033 | [413033-dianchu-ge-sanguo.json](./413033-dianchu-ge-sanguo.json) |
@@ -8555,6 +8557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Racing | 49177 | [49177-dirty-racing.json](./49177-dirty-racing.json) |
 | Dirty Room | 241854 | [241854-dirty-room.json](./241854-dirty-room.json) |
 | Dirty Room: Chapter 4 | 246843 | [246843-dirty-room-chapter-4.json](./246843-dirty-room-chapter-4.json) |
+| Dirty Room: Chapter 7 & 8 | 261380 | [261380-dirty-room-chapter-7-and-8.json](./261380-dirty-room-chapter-7-and-8.json) |
 | Dirty Room: Chapter 9 | 273505 | [273505-dirty-room-chapter-9.json](./273505-dirty-room-chapter-9.json) |
 | Dirty Rotten Bounders | 285023 | [285023-dirty-rotten-bounders.json](./285023-dirty-rotten-bounders.json) |
 | Dirty Split | 64148 | [64148-dirty-split.json](./64148-dirty-split.json) |
@@ -16456,6 +16459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyg | 208581 | [208581-dyg.json](./208581-dyg.json) |
 | Dyger | 39673 | [39673-dyger.json](./39673-dyger.json) |
 | Dyhard Infinity | 92310 | [92310-dyhard-infinity.json](./92310-dyhard-infinity.json) |
+| Dyin to Live | 261394 | [261394-dyin-to-live.json](./261394-dyin-to-live.json) |
 | Dying Breed | 240798 | [240798-dying-breed.json](./240798-dying-breed.json) |
 | Dying Flame | 144976 | [144976-dying-flame.json](./144976-dying-flame.json) |
 | Dying for Daylight | 79904 | [79904-dying-for-daylight.json](./79904-dying-for-daylight.json) |
