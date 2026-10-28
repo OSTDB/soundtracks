@@ -2590,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandela Invasion | 282820 | [282820-mandela-invasion.json](./282820-mandela-invasion.json) |
 | Mandemon | 259510 | [259510-mandemon.json](./259510-mandemon.json) |
 | Mandeshire | 173274 | [173274-mandeshire.json](./173274-mandeshire.json) |
+| Mandew vs. The Forever Rain+ | 257773 | [257773-mandew-vs-the-forever-rain.json](./257773-mandew-vs-the-forever-rain.json) |
 | Mandora | 63939 | [63939-mandora.json](./63939-mandora.json) |
 | Mandragora Seeker in the Creep Zone | 329200 | [329200-mandragora-seeker-in-the-creep-zone.json](./329200-mandragora-seeker-in-the-creep-zone.json) |
 | Mandragora: Whispers of the Witch Tree | 191427 | [191427-mandragora-whispers-of-the-witch-tree.json](./191427-mandragora-whispers-of-the-witch-tree.json) |
@@ -11352,6 +11353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna de Hayaoshi Quiz | 238971 | [238971-minna-de-hayaoshi-quiz.json](./238971-minna-de-hayaoshi-quiz.json) |
 | Minna de Jibun no Setsumeisho: B-Kata, A-Kata, AB-Kata, O-Kata | 92353 | [92353-minna-de-jibun-no-setsumeisho-b-kata-a-kata-ab-kata-o-kata.json](./92353-minna-de-jibun-no-setsumeisho-b-kata-a-kata-ab-kata-o-kata.json) |
 | Minna de Karuta Online | 152041 | [152041-minna-de-karuta-online.json](./152041-minna-de-karuta-online.json) |
+| Minna de Kuuki Yomi Koro-koro Comic Ver. | 257767 | [257767-minna-de-kuuki-yomi-koro-koro-comic-ver.json](./257767-minna-de-kuuki-yomi-koro-koro-comic-ver.json) |
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
 | Minna de Noujiru! Warumono Nage-houdai! Ningen Medal Game | 358495 | [358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json](./358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json) |
 | Minna de Shitendo DS: Hanshichi Yuumon & Ango & Ago Juurou & Hatamoto Taikutsu Otoko | 269589 | [269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json](./269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json) |
@@ -13273,6 +13275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monochrome Echoes: Black | 410318 | [410318-monochrome-echoes-black.json](./410318-monochrome-echoes-black.json) |
 | Monochrome Echoes: White | 331114 | [331114-monochrome-echoes-white.json](./331114-monochrome-echoes-white.json) |
 | Monochrome Heaven | 198309 | [198309-monochrome-heaven.json](./198309-monochrome-heaven.json) |
+| Monochrome Heights | 258053 | [258053-monochrome-heights.json](./258053-monochrome-heights.json) |
 | Monochrome Mapping Project | 313857 | [313857-monochrome-mapping-project.json](./313857-monochrome-mapping-project.json) |
 | Monochrome Mobius: Rights and Wrongs Forgotten | 198438 | [198438-monochrome-mobius-rights-and-wrongs-forgotten.json](./198438-monochrome-mobius-rights-and-wrongs-forgotten.json) |
 | Monochrome Mobius: Rights and Wrongs Forgotten - Deluxe Edition | 247196 | [247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json](./247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json) |
@@ -13368,6 +13371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monorail Stories | 137051 | [137051-monorail-stories.json](./137051-monorail-stories.json) |
 | Monos: The Endless Tower | 211970 | [211970-monos-the-endless-tower.json](./211970-monos-the-endless-tower.json) |
 | Monoshiri Jiyuugaku: Ogura Hyakunin Isshu-hen | 268514 | [268514-monoshiri-jiyuugaku-ogura-hyakunin-isshu-hen.json](./268514-monoshiri-jiyuugaku-ogura-hyakunin-isshu-hen.json) |
+| Monoshiri Quiz Iroiro Shokubutsu | 257761 | [257761-monoshiri-quiz-iroiro-shokubutsu.json](./257761-monoshiri-quiz-iroiro-shokubutsu.json) |
 | Monoshiri Quiz: Sekai no Doubutsu | 253230 | [253230-monoshiri-quiz-sekai-no-doubutsu.json](./253230-monoshiri-quiz-sekai-no-doubutsu.json) |
 | Monospaced Lovers | 130844 | [130844-monospaced-lovers.json](./130844-monospaced-lovers.json) |
 | Monotonia: EXP_01 | 228514 | [228514-monotonia-exp-01.json](./228514-monotonia-exp-01.json) |
@@ -15498,10 +15502,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motto Shiritai Karada no Hatena | 261370 | [261370-motto-shiritai-karada-no-hatena.json](./261370-motto-shiritai-karada-no-hatena.json) |
 | Motto Shiritai Kodai Egypt | 276471 | [276471-motto-shiritai-kodai-egypt.json](./276471-motto-shiritai-kodai-egypt.json) |
 | Motto Shiritai Nippon no Meijou | 261369 | [261369-motto-shiritai-nippon-no-meijou.json](./261369-motto-shiritai-nippon-no-meijou.json) |
+| Motto Shiritai Uchuu no Hatena | 257759 | [257759-motto-shiritai-uchuu-no-hatena.json](./257759-motto-shiritai-uchuu-no-hatena.json) |
 | Motto Trump Shiyouyo! i-Mode de Grand Prix | 402735 | [402735-motto-trump-shiyouyo-i-mode-de-grand-prix.json](./402735-motto-trump-shiyouyo-i-mode-de-grand-prix.json) |
 | Motto! Nyan to Wonderful 2 | 419631 | [419631-motto-nyan-to-wonderful-2.json](./419631-motto-nyan-to-wonderful-2.json) |
 | Motto! SoniComi | 93600 | [93600-motto-sonicomi.json](./93600-motto-sonicomi.json) |
 | Motto! Stitch! DS: Rhythm de Rakugaki Daisakusen | 98569 | [98569-motto-stitch-ds-rhythm-de-rakugaki-daisakusen.json](./98569-motto-stitch-ds-rhythm-de-rakugaki-daisakusen.json) |
+| Motto! Yurutto Manaberu Classic | 257762 | [257762-motto-yurutto-manaberu-classic.json](./257762-motto-yurutto-manaberu-classic.json) |
 | Motto!? Atai no Gensoukyou | 207037 | [207037-motto-atai-no-gensoukyou.json](./207037-motto-atai-no-gensoukyou.json) |
 | Motto!? Atai no Gensoukyou alpha | 207038 | [207038-motto-atai-no-gensoukyou-alpha.json](./207038-motto-atai-no-gensoukyou-alpha.json) |
 | Motto!? Fushigi no Gensoukyou Plus: The Dungeon of Dreams and Magic | 206938 | [206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json](./206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json) |
