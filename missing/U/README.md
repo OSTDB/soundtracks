@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO Joe | 263475 | [263475-ufo-joe.json](./263475-ufo-joe.json) |
 | UFO Mayhem | 377946 | [377946-ufo-mayhem.json](./377946-ufo-mayhem.json) |
 | UFO No! | 180046 | [180046-ufo-no.json](./180046-ufo-no.json) |
+| UFO on Tape | 242722 | [242722-ufo-on-tape.json](./242722-ufo-on-tape.json) |
 | UFO on Tape: First Contact | 117010 | [117010-ufo-on-tape-first-contact.json](./117010-ufo-on-tape-first-contact.json) |
 | UFO Patrol | 40594 | [40594-ufo-patrol.json](./40594-ufo-patrol.json) |
 | UFO Ride | 294725 | [294725-ufo-ride.json](./294725-ufo-ride.json) |
@@ -2097,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe 24 | 116301 | [116301-universe-24.json](./116301-universe-24.json) |
 | Universe 25: The Loop | 171072 | [171072-universe-25-the-loop.json](./171072-universe-25-the-loop.json) |
 | Universe 3 | 13085 | [13085-universe-3.json](./13085-universe-3.json) |
+| Universe 42 | 243719 | [243719-universe-42.json](./243719-universe-42.json) |
 | Universe Apart | 199491 | [199491-universe-apart.json](./199491-universe-apart.json) |
 | Universe at War: Earth Assault | 7230 | [7230-universe-at-war-earth-assault.json](./7230-universe-at-war-earth-assault.json) |
 | Universe Dawn | 336994 | [336994-universe-dawn.json](./336994-universe-dawn.json) |
@@ -2815,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upside Down | 90487 | [90487-upside-down.json](./90487-upside-down.json) |
 | Upside Down Tales of the Grotesque | 379427 | [379427-upside-down-tales-of-the-grotesque.json](./379427-upside-down-tales-of-the-grotesque.json) |
 | Upside the Backrooms | 258740 | [258740-upside-the-backrooms.json](./258740-upside-the-backrooms.json) |
+| Upside Town | 243863 | [243863-upside-town.json](./243863-upside-town.json) |
 | Upside-Down Dimensions | 52009 | [52009-upside-down-dimensions.json](./52009-upside-down-dimensions.json) |
 | Upsidedownsky | 368508 | [368508-upsidedownsky.json](./368508-upsidedownsky.json) |
 | Upsilon Circuit | 12977 | [12977-upsilon-circuit.json](./12977-upsilon-circuit.json) |
