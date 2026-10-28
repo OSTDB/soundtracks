@@ -5530,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Cycling Manager 2022 | 215920 | [215920-live-cycling-manager-2022.json](./215920-live-cycling-manager-2022.json) |
 | Live Day | 302320 | [302320-live-day.json](./302320-live-day.json) |
 | Live Empire | 169403 | [169403-live-empire.json](./169403-live-empire.json) |
+| Live Factory | 238119 | [238119-live-factory.json](./238119-live-factory.json) |
 | Live for Speed | 9492 | [9492-live-for-speed.json](./9492-live-for-speed.json) |
 | Live Hard, Die Hard | 265826 | [265826-live-hard-die-hard.json](./265826-live-hard-die-hard.json) |
 | Live In Color | 31571 | [31571-live-in-color.json](./31571-live-in-color.json) |
