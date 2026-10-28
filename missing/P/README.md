@@ -4975,6 +4975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photomount | 384653 | [384653-photomount.json](./384653-photomount.json) |
 | Photon Blade | 404979 | [404979-photon-blade.json](./404979-photon-blade.json) |
 | Photon Cube | 104057 | [104057-photon-cube.json](./104057-photon-cube.json) |
+| Photon Engineer | 239815 | [239815-photon-engineer.json](./239815-photon-engineer.json) |
 | Photon Flux | 68703 | [68703-photon-flux.json](./68703-photon-flux.json) |
 | Photon Rush | 44197 | [44197-photon-rush.json](./44197-photon-rush.json) |
 | Photon Storm | 12716 | [12716-photon-storm.json](./12716-photon-storm.json) |
@@ -8298,6 +8299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plastic Playground | 33116 | [33116-plastic-playground.json](./33116-plastic-playground.json) |
 | Plastic Rebellion | 84052 | [84052-plastic-rebellion.json](./84052-plastic-rebellion.json) |
 | Plastic Soldiers | 111701 | [111701-plastic-soldiers.json](./111701-plastic-soldiers.json) |
+| Plastic Soul | 239810 | [239810-plastic-soul.json](./239810-plastic-soul.json) |
 | Plastic Tactics Online | 276620 | [276620-plastic-tactics-online.json](./276620-plastic-tactics-online.json) |
 | Plastic Trick | 321592 | [321592-plastic-trick.json](./321592-plastic-trick.json) |
 | Plasticalypse: TrashSub Adventures | 144025 | [144025-plasticalypse-trashsub-adventures.json](./144025-plasticalypse-trashsub-adventures.json) |
