@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Blast from the Past | 233566 | [233566-a-blast-from-the-past.json](./233566-a-blast-from-the-past.json) |
 | A Bleaker Predicklement | 106014 | [106014-a-bleaker-predicklement.json](./106014-a-bleaker-predicklement.json) |
 | A Blocc World | 293077 | [293077-a-blocc-world.json](./293077-a-blocc-world.json) |
+| A Block Party! | 237595 | [237595-a-block-party.json](./237595-a-block-party.json) |
 | A Blocky Kind of Love | 234012 | [234012-a-blocky-kind-of-love.json](./234012-a-blocky-kind-of-love.json) |
 | A Blurred Line | 47110 | [47110-a-blurred-line.json](./47110-a-blurred-line.json) |
 | A Bomb's Way | 64677 | [64677-a-bombs-way.json](./64677-a-bombs-way.json) |
@@ -136,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Christmas Journey With: Noelle | 383557 | [383557-a-christmas-journey-with-noelle.json](./383557-a-christmas-journey-with-noelle.json) |
 | A Christmas Nightmare | 165502 | [165502-a-christmas-nightmare.json](./165502-a-christmas-nightmare.json) |
 | A Christmas Peril | 113603 | [113603-a-christmas-peril.json](./113603-a-christmas-peril.json) |
+| A Christmas Yarn | 237182 | [237182-a-christmas-yarn.json](./237182-a-christmas-yarn.json) |
 | A Christmassy Christmas | 283894 | [283894-a-christmassy-christmas.json](./283894-a-christmassy-christmas.json) |
 | A Chronicle of Occultism in Skinnerburg | 304672 | [304672-a-chronicle-of-occultism-in-skinnerburg.json](./304672-a-chronicle-of-occultism-in-skinnerburg.json) |
 | A Circle Among Squares | 153012 | [153012-a-circle-among-squares.json](./153012-a-circle-among-squares.json) |
@@ -4752,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Wars | 336561 | [336561-air-wars.json](./336561-air-wars.json) |
 | Air Wars 2 | 97976 | [97976-air-wars-2.json](./97976-air-wars-2.json) |
 | Air Wars 3 | 137877 | [137877-air-wars-3.json](./137877-air-wars-3.json) |
+| Air Wings Intergalactic | 237583 | [237583-air-wings-intergalactic.json](./237583-air-wings-intergalactic.json) |
 | Air Zonk | 42129 | [42129-air-zonk.json](./42129-air-zonk.json) |
 | Air-Sea Battle | 11859 | [11859-air-sea-battle.json](./11859-air-sea-battle.json) |
 | Air&Hook | 372643 | [372643-air-and-hook.json](./372643-air-and-hook.json) |
