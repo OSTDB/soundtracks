@@ -2970,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fayrehaven | 340066 | [340066-fayrehaven.json](./340066-fayrehaven.json) |
 | Faz-Karts | 382962 | [382962-faz-karts.json](./382962-faz-karts.json) |
 | Fazbear Entertainment: Storage | 233963 | [233963-fazbear-entertainment-storage.json](./233963-fazbear-entertainment-storage.json) |
+| Fazbear Fright Attraction | 271054 | [271054-fazbear-fright-attraction.json](./271054-fazbear-fright-attraction.json) |
 | Fazbear Nightmare | 35335 | [35335-fazbear-nightmare.json](./35335-fazbear-nightmare.json) |
 | Fazbear Nights | 315372 | [315372-fazbear-nights.json](./315372-fazbear-nights.json) |
 | Fazbear's Shootout | 241837 | [241837-fazbears-shootout.json](./241837-fazbears-shootout.json) |
@@ -7497,6 +7498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyon RC | 406173 | [406173-flyon-rc.json](./406173-flyon-rc.json) |
 | Flyonoid | 122971 | [122971-flyonoid.json](./122971-flyonoid.json) |
 | FlyOrDie GemJam | 79952 | [79952-flyordie-gemjam.json](./79952-flyordie-gemjam.json) |
+| Flyout | 271036 | [271036-flyout.json](./271036-flyout.json) |
 | Flyto | 244480 | [244480-flyto.json](./244480-flyto.json) |
 | Flytrapped | 392491 | [392491-flytrapped.json](./392491-flytrapped.json) |
 | FlyWings 2018 Flight Simulator | 113415 | [113415-flywings-2018-flight-simulator.json](./113415-flywings-2018-flight-simulator.json) |
@@ -8495,6 +8497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Fluff | 406748 | [406748-forgotten-fluff.json](./406748-forgotten-fluff.json) |
 | Forgotten Forest: Afterlife | 58301 | [58301-forgotten-forest-afterlife.json](./58301-forgotten-forest-afterlife.json) |
 | Forgotten Forest: Eye of the Great One | 148314 | [148314-forgotten-forest-eye-of-the-great-one.json](./148314-forgotten-forest-eye-of-the-great-one.json) |
+| Forgotten Fortress | 271342 | [271342-forgotten-fortress.json](./271342-forgotten-fortress.json) |
 | Forgotten Fragments | 156059 | [156059-forgotten-fragments.json](./156059-forgotten-fragments.json) |
 | Forgotten Gifts | 114349 | [114349-forgotten-gifts.json](./114349-forgotten-gifts.json) |
 | Forgotten Heroes | 31858 | [31858-forgotten-heroes.json](./31858-forgotten-heroes.json) |
@@ -9474,6 +9477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPV SkyDive: FPV Drone Simulator - Flight School | 276418 | [276418-fpv-skydive-fpv-drone-simulator-flight-school.json](./276418-fpv-skydive-fpv-drone-simulator-flight-school.json) |
 | FPV Speed Drone | 157913 | [157913-fpv-speed-drone.json](./157913-fpv-speed-drone.json) |
 | FPV Worldwide | 357361 | [357361-fpv-worldwide.json](./357361-fpv-worldwide.json) |
+| FPVSIM Drone Simulator | 271047 | [271047-fpvsim-drone-simulator.json](./271047-fpvsim-drone-simulator.json) |
 | FR Legends | 126025 | [126025-fr-legends.json](./126025-fr-legends.json) |
 | FR Master: Formula Racing Simulator | 261356 | [261356-fr-master-formula-racing-simulator.json](./261356-fr-master-formula-racing-simulator.json) |
 | FR34KS | 412538 | [412538-fr34ks.json](./412538-fr34ks.json) |
@@ -9767,6 +9771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freak Festival | 274338 | [274338-freak-festival.json](./274338-freak-festival.json) |
 | Freak Fortress 2 | 363055 | [363055-freak-fortress-2.json](./363055-freak-fortress-2.json) |
 | Freak House | 292236 | [292236-freak-house.json](./292236-freak-house.json) |
+| Freak Hunter A Retro Type: Bonus Level Pack | 271046 | [271046-freak-hunter-a-retro-type-bonus-level-pack.json](./271046-freak-hunter-a-retro-type-bonus-level-pack.json) |
 | Freak Run | 232334 | [232334-freak-run.json](./232334-freak-run.json) |
 | Freak Show: Party Royale! | 236139 | [236139-freak-show-party-royale.json](./236139-freak-show-party-royale.json) |
 | Freaked Fleapit | 204437 | [204437-freaked-fleapit.json](./204437-freaked-fleapit.json) |
@@ -10658,6 +10663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Flames | 127977 | [127977-from-flames.json](./127977-from-flames.json) |
 | From Four Sides | 296090 | [296090-from-four-sides.json](./296090-from-four-sides.json) |
 | From Frontier | 169097 | [169097-from-frontier.json](./169097-from-frontier.json) |
+| From Glory To Goo | 271048 | [271048-from-glory-to-goo.json](./271048-from-glory-to-goo.json) |
 | From Head to Toe | 120053 | [120053-from-head-to-toe.json](./120053-from-head-to-toe.json) |
 | From Hel to Asgard | 367983 | [367983-from-hel-to-asgard.json](./367983-from-hel-to-asgard.json) |
 | From Hell | 217399 | [217399-from-hell.json](./217399-from-hell.json) |
@@ -10747,6 +10753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Office Football 2001 | 73842 | [73842-front-office-football-2001.json](./73842-front-office-football-2001.json) |
 | Front Office Football 2004 | 68048 | [68048-front-office-football-2004.json](./68048-front-office-football-2004.json) |
 | Front Office Football 2007 | 90918 | [90918-front-office-football-2007.json](./90918-front-office-football-2007.json) |
+| Front Office Football Nine | 271037 | [271037-front-office-football-nine.json](./271037-front-office-football-nine.json) |
 | Front Office Football: The College Years | 68046 | [68046-front-office-football-the-college-years.json](./68046-front-office-football-the-college-years.json) |
 | Front Office Football: The Fourth Edition | 68050 | [68050-front-office-football-the-fourth-edition.json](./68050-front-office-football-the-fourth-edition.json) |
 | Front Page Sports Football | 10337 | [10337-front-page-sports-football.json](./10337-front-page-sports-football.json) |
@@ -11900,6 +11907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futa University | 209487 | [209487-futa-university.json](./209487-futa-university.json) |
 | Futa Zone: Lewd Control | 399731 | [399731-futa-zone-lewd-control.json](./399731-futa-zone-lewd-control.json) |
 | Futagoza No Paradox | 143521 | [143521-futagoza-no-paradox.json](./143521-futagoza-no-paradox.json) |
+| FutaMarket | 271038 | [271038-futamarket.json](./271038-futamarket.json) |
 | Futamata Renai: Two Times the Trouble | 336325 | [336325-futamata-renai-two-times-the-trouble.json](./336325-futamata-renai-two-times-the-trouble.json) |
 | Futanari & Ladyboy BDSM | 384723 | [384723-futanari-and-ladyboy-bdsm.json](./384723-futanari-and-ladyboy-bdsm.json) |
 | Futanari & Ladyboy Hotel | 393837 | [393837-futanari-and-ladyboy-hotel.json](./393837-futanari-and-ladyboy-hotel.json) |
