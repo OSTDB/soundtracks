@@ -15120,6 +15120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic 1% DLC | 155030 | [155030-mosaic-1-dlc.json](./155030-mosaic-1-dlc.json) |
 | Mosaic 1% Edition | 155031 | [155031-mosaic-1-edition.json](./155031-mosaic-1-edition.json) |
 | Mosaic Chronicles | 162850 | [162850-mosaic-chronicles.json](./162850-mosaic-chronicles.json) |
+| Mosaic Chronicles Deluxe | 237555 | [237555-mosaic-chronicles-deluxe.json](./237555-mosaic-chronicles-deluxe.json) |
 | Mosaic Chronicles Deluxe: Complete + | 328837 | [328837-mosaic-chronicles-deluxe-complete.json](./328837-mosaic-chronicles-deluxe-complete.json) |
 | Mosaic Chronicles Deluxe: Extended Edition | 251533 | [251533-mosaic-chronicles-deluxe-extended-edition.json](./251533-mosaic-chronicles-deluxe-extended-edition.json) |
 | Mosaic Chronicles Deluxe: New Puzzle Story - Nothing Personal | 317667 | [317667-mosaic-chronicles-deluxe-new-puzzle-story-nothing-personal.json](./317667-mosaic-chronicles-deluxe-new-puzzle-story-nothing-personal.json) |
@@ -15438,6 +15439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Stunt Racer | 77882 | [77882-motocross-stunt-racer.json](./77882-motocross-stunt-racer.json) |
 | Motocross The Game | 337185 | [337185-motocross-the-game.json](./337185-motocross-the-game.json) |
 | Motocross Urban Fever | 330760 | [330760-motocross-urban-fever.json](./330760-motocross-urban-fever.json) |
+| Motocross Wheelie King | 237580 | [237580-motocross-wheelie-king.json](./237580-motocross-wheelie-king.json) |
 | Motocross Zombie HD | 100736 | [100736-motocross-zombie-hd.json](./100736-motocross-zombie-hd.json) |
 | Motocross: The Force | 270211 | [270211-motocross-the-force.json](./270211-motocross-the-force.json) |
 | Motocross: Trial Extreme | 239472 | [239472-motocross-trial-extreme.json](./239472-motocross-trial-extreme.json) |
@@ -18034,6 +18036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Girls | 382492 | [382492-my-lovely-girls.json](./382492-my-lovely-girls.json) |
 | My Lovely Noblewomen | 148339 | [148339-my-lovely-noblewomen.json](./148339-my-lovely-noblewomen.json) |
 | My Lovely Pets 2: Collector's Edition | 255286 | [255286-my-lovely-pets-2-collectors-edition.json](./255286-my-lovely-pets-2-collectors-edition.json) |
+| My Lovely Pets: Collector's Edition | 237556 | [237556-my-lovely-pets-collectors-edition.json](./237556-my-lovely-pets-collectors-edition.json) |
 | My Lovely Pony | 54224 | [54224-my-lovely-pony.json](./54224-my-lovely-pony.json) |
 | My Lovely Series | 313440 | [313440-my-lovely-series.json](./313440-my-lovely-series.json) |
 | My Lovely Wife | 132573 | [132573-my-lovely-wife.json](./132573-my-lovely-wife.json) |
