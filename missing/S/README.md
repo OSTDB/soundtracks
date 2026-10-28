@@ -9973,6 +9973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siphonogore | 291237 | [291237-siphonogore.json](./291237-siphonogore.json) |
 | Sippin Hot Blickety Block N Bop Those Bad Battle Boys Down to Size Supreme | 213455 | [213455-sippin-hot-blickety-block-n-bop-those-bad-battle-boys-down-to-size-supreme.json](./213455-sippin-hot-blickety-block-n-bop-those-bad-battle-boys-down-to-size-supreme.json) |
 | Sippy Disco: Light Up The Dance Floor | 290257 | [290257-sippy-disco-light-up-the-dance-floor.json](./290257-sippy-disco-light-up-the-dance-floor.json) |
+| Sips | 242145 | [242145-sips.json](./242145-sips.json) |
 | Sips and Sonnets | 346739 | [346739-sips-and-sonnets.json](./346739-sips-and-sonnets.json) |
 | Sipssassin | 295228 | [295228-sipssassin.json](./295228-sipssassin.json) |
 | Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
@@ -17409,6 +17410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Troubles | 202031 | [202031-space-troubles.json](./202031-space-troubles.json) |
 | Space Truck Simulator | 336396 | [336396-space-truck-simulator.json](./336396-space-truck-simulator.json) |
 | Space Trucker | 212234 | [212234-space-trucker.json](./212234-space-trucker.json) |
+| Space Trump | 242168 | [242168-space-trump.json](./242168-space-trump.json) |
 | Space Tunnel | 55823 | [55823-space-tunnel.json](./55823-space-tunnel.json) |
 | Space Turbo | 201008 | [201008-space-turbo.json](./201008-space-turbo.json) |
 | Space Turbo 2 | 201448 | [201448-space-turbo-2.json](./201448-space-turbo-2.json) |
@@ -26916,6 +26918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fruit Fall | 5198 | [5198-super-fruit-fall.json](./5198-super-fruit-fall.json) |
 | Super Fruit Ninja | 287353 | [287353-super-fruit-ninja.json](./287353-super-fruit-ninja.json) |
 | Super Full Metal | 214979 | [214979-super-full-metal.json](./214979-super-full-metal.json) |
+| Super Fun Maths Science Quiz | 241771 | [241771-super-fun-maths-science-quiz.json](./241771-super-fun-maths-science-quiz.json) |
 | Super Fun Soccer | 182167 | [182167-super-fun-soccer.json](./182167-super-fun-soccer.json) |
 | Super Funky Ball! | 152044 | [152044-super-funky-ball.json](./152044-super-funky-ball.json) |
 | Super Furi Puzzles | 334833 | [334833-super-furi-puzzles.json](./334833-super-furi-puzzles.json) |
