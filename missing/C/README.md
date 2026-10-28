@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.B.T | 249075 | [249075-c-b-t.json](./249075-c-b-t.json) |
 | C.E.O. | 19793 | [19793-c-e-o.json](./19793-c-e-o.json) |
 | C.H.A.I.N. | 140652 | [140652-c-h-a-i-n.json](./140652-c-h-a-i-n.json) |
+| C.H.A.I.N.G.E.D. | 252190 | [252190-c-h-a-i-n-g-e-d.json](./252190-c-h-a-i-n-g-e-d.json) |
 | C.H.A.O.S Tournament | 117726 | [117726-c-h-a-o-s-tournament.json](./117726-c-h-a-o-s-tournament.json) |
 | C.I.E.B The Backrooms Project | 265402 | [265402-c-i-e-b-the-backrooms-project.json](./265402-c-i-e-b-the-backrooms-project.json) |
 | C.I.T.Y. 2000 | 70022 | [70022-c-i-t-y-2000.json](./70022-c-i-t-y-2000.json) |
@@ -5608,6 +5609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chelsea Club Football 2005 | 267908 | [267908-chelsea-club-football-2005.json](./267908-chelsea-club-football-2005.json) |
 | Chelsea of the South Sea Islands | 309339 | [309339-chelsea-of-the-south-sea-islands.json](./309339-chelsea-of-the-south-sea-islands.json) |
 | ChemCaper | 16986 | [16986-chemcaper.json](./16986-chemcaper.json) |
+| Chemical | 251954 | [251954-chemical.json](./251954-chemical.json) |
 | Chemical Combat | 356217 | [356217-chemical-combat.json](./356217-chemical-combat.json) |
 | Chemical Cubes | 62698 | [62698-chemical-cubes.json](./62698-chemical-cubes.json) |
 | Chemical Existence | 222305 | [222305-chemical-existence.json](./222305-chemical-existence.json) |
@@ -15630,6 +15632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruis'n World | 3430 | [3430-cruisn-world.json](./3430-cruisn-world.json) |
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
 | Cruise Attack | 406095 | [406095-cruise-attack.json](./406095-cruise-attack.json) |
+| Cruise Control | 252315 | [252315-cruise-control.json](./252315-cruise-control.json) |
 | Cruise Control | 374982 | [374982-cruise-control.json](./374982-cruise-control.json) |
 | Cruise Control Mode On! | 219232 | [219232-cruise-control-mode-on.json](./219232-cruise-control-mode-on.json) |
 | Cruise for a Corpse | 2477 | [2477-cruise-for-a-corpse.json](./2477-cruise-for-a-corpse.json) |
