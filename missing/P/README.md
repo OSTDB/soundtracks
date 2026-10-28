@@ -4070,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Personal Murder Theater: Strangled Roots | 337548 | [337548-personal-murder-theater-strangled-roots.json](./337548-personal-murder-theater-strangled-roots.json) |
 | Personal Nightmare | 12194 | [12194-personal-nightmare.json](./12194-personal-nightmare.json) |
 | Personal Organizer and Phone Book | 93538 | [93538-personal-organizer-and-phone-book.json](./93538-personal-organizer-and-phone-book.json) |
+| Personal Sam-Y | 252333 | [252333-personal-sam-y.json](./252333-personal-sam-y.json) |
 | Personal Space | 133063 | [133063-personal-space.json](./133063-personal-space.json) |
 | Personal Space | 221835 | [221835-personal-space.json](./221835-personal-space.json) |
 | Personal Space Station | 183417 | [183417-personal-space-station.json](./183417-personal-space-station.json) |
