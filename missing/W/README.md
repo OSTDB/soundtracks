@@ -2554,7 +2554,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Sing Pop! | 5271 | [5271-we-sing-pop.json](./5271-we-sing-pop.json) |
 | We Sing Superstar Quiz | 63900 | [63900-we-sing-superstar-quiz.json](./63900-we-sing-superstar-quiz.json) |
 | We Sing UK Hits | 5274 | [5274-we-sing-uk-hits.json](./5274-we-sing-uk-hits.json) |
-| We Ski | 5275 | [5275-we-ski.json](./5275-we-ski.json) |
 | We Slay Monsters | 36183 | [36183-we-slay-monsters.json](./36183-we-slay-monsters.json) |
 | We Surround You | 150687 | [150687-we-surround-you.json](./150687-we-surround-you.json) |
 | We Suspect Foul Play | 293338 | [293338-we-suspect-foul-play.json](./293338-we-suspect-foul-play.json) |
