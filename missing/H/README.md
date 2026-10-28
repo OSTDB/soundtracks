@@ -7458,6 +7458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobby Module | 74413 | [74413-hobby-module.json](./74413-hobby-module.json) |
 | Hobgoblins Against Dwarfs | 296915 | [296915-hobgoblins-against-dwarfs.json](./296915-hobgoblins-against-dwarfs.json) |
 | Hobnobbers | 322693 | [322693-hobnobbers.json](./322693-hobnobbers.json) |
+| Hobo | 230465 | [230465-hobo.json](./230465-hobo.json) |
 | Hobo 3: Wanted | 294723 | [294723-hobo-3-wanted.json](./294723-hobo-3-wanted.json) |
 | Hobo 4: Total War | 294724 | [294724-hobo-4-total-war.json](./294724-hobo-4-total-war.json) |
 | Hobo 5: Space Brawls - Attack of the Hobo Clones | 295631 | [295631-hobo-5-space-brawls-attack-of-the-hobo-clones.json](./295631-hobo-5-space-brawls-attack-of-the-hobo-clones.json) |
