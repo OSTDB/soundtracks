@@ -2405,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerts!: Online | 142226 | [142226-nerts-online.json](./142226-nerts-online.json) |
 | Nertz Solitaire | 405645 | [405645-nertz-solitaire.json](./405645-nertz-solitaire.json) |
 | Nerus | 141125 | [141125-nerus.json](./141125-nerus.json) |
+| NervBox | 239253 | [239253-nervbox.json](./239253-nervbox.json) |
 | Nerve | 335376 | [335376-nerve.json](./335376-nerve.json) |
 | Nerve - Do You Dare? | 122914 | [122914-nerve-do-you-dare.json](./122914-nerve-do-you-dare.json) |
 | Nerve Me | 125833 | [125833-nerve-me.json](./125833-nerve-me.json) |
