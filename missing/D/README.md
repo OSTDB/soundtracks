@@ -1974,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkStory Online | 122155 | [122155-darkstory-online.json](./122155-darkstory-online.json) |
 | DarkSwarm | 244073 | [244073-darkswarm.json](./244073-darkswarm.json) |
 | DarkSwitch | 345416 | [345416-darkswitch.json](./345416-darkswitch.json) |
+| Darksword: Battle Eternity | 252955 | [252955-darksword-battle-eternity.json](./252955-darksword-battle-eternity.json) |
 | Darksword: Nephilim | 296883 | [296883-darksword-nephilim.json](./296883-darksword-nephilim.json) |
 | Darksy's Adventure | 242604 | [242604-darksys-adventure.json](./242604-darksys-adventure.json) |
 | DarkTide | 204955 | [204955-darktide.json](./204955-darktide.json) |
@@ -5171,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious: Emily's Tea Garden | 102692 | [102692-delicious-emilys-tea-garden.json](./102692-delicious-emilys-tea-garden.json) |
 | Delicious: Emily's True Love | 68946 | [68946-delicious-emilys-true-love.json](./68946-delicious-emilys-true-love.json) |
 | Delicious: Emily's Wonder Wedding | 88825 | [88825-delicious-emilys-wonder-wedding.json](./88825-delicious-emilys-wonder-wedding.json) |
+| Delicious: Emily's Wonder Wedding HD | 252940 | [252940-delicious-emilys-wonder-wedding-hd.json](./252940-delicious-emilys-wonder-wedding-hd.json) |
 | Delicious: Mansion Mystery | 304710 | [304710-delicious-mansion-mystery.json](./304710-delicious-mansion-mystery.json) |
 | Delicious: Recipe for Renewal | 417600 | [417600-delicious-recipe-for-renewal.json](./417600-delicious-recipe-for-renewal.json) |
 | Delicious: The First Course | 384555 | [384555-delicious-the-first-course.json](./384555-delicious-the-first-course.json) |
@@ -8900,6 +8902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dismayed | 378134 | [378134-dismayed.json](./378134-dismayed.json) |
 | Dismember Mind 1 | 177805 | [177805-dismember-mind-1.json](./177805-dismember-mind-1.json) |
 | Dismember Mind 2 | 177300 | [177300-dismember-mind-2.json](./177300-dismember-mind-2.json) |
+| Dismember Mind 3 | 252530 | [252530-dismember-mind-3.json](./252530-dismember-mind-3.json) |
 | DisMonster - Catch the shadow! | 103673 | [103673-dismonster-catch-the-shadow.json](./103673-dismonster-catch-the-shadow.json) |
 | Disney | 220082 | [220082-disney.json](./220082-disney.json) |
 | Disney 100 | 275590 | [275590-disney-100.json](./275590-disney-100.json) |
@@ -11179,6 +11182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle or Die | 252291 | [252291-doodle-or-die.json](./252291-doodle-or-die.json) |
 | Doodle Pool | 64225 | [64225-doodle-pool.json](./64225-doodle-pool.json) |
 | Doodle Road | 369517 | [369517-doodle-road.json](./369517-doodle-road.json) |
+| Doodle Saver | 252942 | [252942-doodle-saver.json](./252942-doodle-saver.json) |
 | Doodle Smash! | 232578 | [232578-doodle-smash.json](./232578-doodle-smash.json) |
 | Doodle Sprint! | 134445 | [134445-doodle-sprint.json](./134445-doodle-sprint.json) |
 | Doodle Tanks | 76181 | [76181-doodle-tanks.json](./76181-doodle-tanks.json) |
@@ -12536,6 +12540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon and Phoenix | 330503 | [330503-dragon-and-phoenix.json](./330503-dragon-and-phoenix.json) |
 | Dragon and Weed: Origins OB - Dual Edges | 132686 | [132686-dragon-and-weed-origins-ob-dual-edges.json](./132686-dragon-and-weed-origins-ob-dual-edges.json) |
 | Dragon Arena | 392911 | [392911-dragon-arena.json](./392911-dragon-arena.json) |
+| Dragon Arise | 252959 | [252959-dragon-arise.json](./252959-dragon-arise.json) |
 | Dragon Assault | 360148 | [360148-dragon-assault.json](./360148-dragon-assault.json) |
 | Dragon Atlas | 23635 | [23635-dragon-atlas.json](./23635-dragon-atlas.json) |
 | Dragon Audit: Deluxe Edition | 237853 | [237853-dragon-audit-deluxe-edition.json](./237853-dragon-audit-deluxe-edition.json) |
