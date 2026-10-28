@@ -4952,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phonics Fun with Biff, Chip & Kipper Vol. 1 | 61657 | [61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json](./61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json) |
 | Phonics-Diagraphsgame | 96535 | [96535-phonics-diagraphsgame.json](./96535-phonics-diagraphsgame.json) |
 | Phonics-Letter Sound flashcards | 102646 | [102646-phonics-letter-sound-flashcards.json](./102646-phonics-letter-sound-flashcards.json) |
+| Phonics: Lesson One | 230445 | [230445-phonics-lesson-one.json](./230445-phonics-lesson-one.json) |
 | Phoning Home | 27116 | [27116-phoning-home.json](./27116-phoning-home.json) |
 | Phonk Cats | 250747 | [250747-phonk-cats.json](./250747-phonk-cats.json) |
 | Phonkside Killers | 389000 | [389000-phonkside-killers.json](./389000-phonkside-killers.json) |
