@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narwhale.io | 97743 | [97743-narwhale-io.json](./97743-narwhale-io.json) |
 | NASA's Eyes | 69376 | [69376-nasas-eyes.json](./69376-nasas-eyes.json) |
 | NASB: Nitro | 202153 | [202153-nasb-nitro.json](./202153-nasb-nitro.json) |
+| NASCAR | 230440 | [230440-nascar.json](./230440-nascar.json) |
 | NASCAR '14 | 7105 | [7105-nascar-14.json](./7105-nascar-14.json) |
 | NASCAR '15 | 44560 | [44560-nascar-15.json](./44560-nascar-15.json) |
 | Nascar 06 Mobile | 210106 | [210106-nascar-06-mobile.json](./210106-nascar-06-mobile.json) |
@@ -1245,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Street | 4035 | [4035-nba-street.json](./4035-nba-street.json) |
 | NBA Street Homecourt | 7108 | [7108-nba-street-homecourt.json](./7108-nba-street-homecourt.json) |
 | NBA Street Showdown | 38479 | [38479-nba-street-showdown.json](./38479-nba-street-showdown.json) |
+| NBA Street V3 | 230484 | [230484-nba-street-v3.json](./230484-nba-street-v3.json) |
 | NBA Street V3 | 4037 | [4037-nba-street-v3.json](./4037-nba-street-v3.json) |
 | NBA Street Vol. 2 | 4036 | [4036-nba-street-vol-2.json](./4036-nba-street-vol-2.json) |
 | NBA Supercard | 142270 | [142270-nba-supercard.json](./142270-nba-supercard.json) |
@@ -2178,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Inferno | 322701 | [322701-neon-inferno.json](./322701-neon-inferno.json) |
 | Neon Infinity | 114931 | [114931-neon-infinity.json](./114931-neon-infinity.json) |
 | Neon Intrusion | 284873 | [284873-neon-intrusion.json](./284873-neon-intrusion.json) |
+| Neon Invasion Earth | 230479 | [230479-neon-invasion-earth.json](./230479-neon-invasion-earth.json) |
 | Neon Junctions | 118352 | [118352-neon-junctions.json](./118352-neon-junctions.json) |
 | Neon Kicks | 117462 | [117462-neon-kicks.json](./117462-neon-kicks.json) |
 | Neon Knight | 160295 | [160295-neon-knight.json](./160295-neon-knight.json) |
@@ -4867,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niva | 341480 | [341480-niva.json](./341480-niva.json) |
 | Niva | 97303 | [97303-niva.json](./97303-niva.json) |
 | Nivalis Nights | 203301 | [203301-nivalis-nights.json](./203301-nivalis-nights.json) |
+| Niveil: Red Riding Hood story | 230467 | [230467-niveil-red-riding-hood-story.json](./230467-niveil-red-riding-hood-story.json) |
 | Nivoz Running Canned | 244249 | [244249-nivoz-running-canned.json](./244249-nivoz-running-canned.json) |
 | Niwa: Japanese Garden Simulator | 275420 | [275420-niwa-japanese-garden-simulator.json](./275420-niwa-japanese-garden-simulator.json) |
 | Niwatori ni Natta Ore: Kodoku na Majou to no Itsuka-kan | 258101 | [258101-niwatori-ni-natta-ore-kodoku-na-majou-to-no-itsuka-kan.json](./258101-niwatori-ni-natta-ore-kodoku-na-majou-to-no-itsuka-kan.json) |
@@ -5455,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noddy in Toyland | 98333 | [98333-noddy-in-toyland.json](./98333-noddy-in-toyland.json) |
 | Noddy: A Day in Toyland | 49388 | [49388-noddy-a-day-in-toyland.json](./49388-noddy-a-day-in-toyland.json) |
 | Noddy: Detective for a Day | 73664 | [73664-noddy-detective-for-a-day.json](./73664-noddy-detective-for-a-day.json) |
+| Noddy: Rainbow Adventures | 230441 | [230441-noddy-rainbow-adventures.json](./230441-noddy-rainbow-adventures.json) |
 | Noddy: The Magic of Toytown on a CD-ROM | 130271 | [130271-noddy-the-magic-of-toytown-on-a-cd-rom.json](./130271-noddy-the-magic-of-toytown-on-a-cd-rom.json) |
 | Noddy's Big Adventure | 321603 | [321603-noddys-big-adventure.json](./321603-noddys-big-adventure.json) |
 | Noddy's Magic Adventure | 273015 | [273015-noddys-magic-adventure.json](./273015-noddys-magic-adventure.json) |
@@ -6566,6 +6571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Place 10000 | 114130 | [114130-number-place-10000.json](./114130-number-place-10000.json) |
 | Number Place Value Tutor | 108497 | [108497-number-place-value-tutor.json](./108497-number-place-value-tutor.json) |
 | Number Puzzler | 109042 | [109042-number-puzzler.json](./109042-number-puzzler.json) |
+| Number Raiders | 230442 | [230442-number-raiders.json](./230442-number-raiders.json) |
 | Number Shoot VR | 292249 | [292249-number-shoot-vr.json](./292249-number-shoot-vr.json) |
 | Number Slide Puzzle | 228106 | [228106-number-slide-puzzle.json](./228106-number-slide-puzzle.json) |
 | Number Smash 123 | 232302 | [232302-number-smash-123.json](./232302-number-smash-123.json) |
@@ -6591,6 +6597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numbers Destiny | 341489 | [341489-numbers-destiny.json](./341489-numbers-destiny.json) |
 | Numbers Game 2: Number Match | 232299 | [232299-numbers-game-2-number-match.json](./232299-numbers-game-2-number-match.json) |
 | Numbers Go Up | 401069 | [401069-numbers-go-up.json](./401069-numbers-go-up.json) |
+| Numbers on the Run: Counting on Zero | 230443 | [230443-numbers-on-the-run-counting-on-zero.json](./230443-numbers-on-the-run-counting-on-zero.json) |
 | Numbers Paradise | 44399 | [44399-numbers-paradise.json](./44399-numbers-paradise.json) |
 | Numbers with Dally Dino - Preschool Kids Learn Counting with A Fun Dinosaur Friend | 88852 | [88852-numbers-with-dally-dino-preschool-kids-learn-counting-with-a-fun-dinosaur-friend.json](./88852-numbers-with-dally-dino-preschool-kids-learn-counting-with-a-fun-dinosaur-friend.json) |
 | Numbers.io | 310070 | [310070-numbers-io.json](./310070-numbers-io.json) |
