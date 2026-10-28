@@ -5149,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingspan: The Board Game | 174266 | [174266-wingspan-the-board-game.json](./174266-wingspan-the-board-game.json) |
 | Wingspan: Woodland Wonders Decorative Pack | 310400 | [310400-wingspan-woodland-wonders-decorative-pack.json](./310400-wingspan-woodland-wonders-decorative-pack.json) |
 | Wingsuit Dream | 190389 | [190389-wingsuit-dream.json](./190389-wingsuit-dream.json) |
+| Wingsuit Hero | 235925 | [235925-wingsuit-hero.json](./235925-wingsuit-hero.json) |
 | Wingsuit Thrill | 216839 | [216839-wingsuit-thrill.json](./216839-wingsuit-thrill.json) |
 | WingSuit Wiley 2.0 | 251735 | [251735-wingsuit-wiley-2-0.json](./251735-wingsuit-wiley-2-0.json) |
 | Wingsuit: Gudvangen | 123024 | [123024-wingsuit-gudvangen.json](./123024-wingsuit-gudvangen.json) |
