@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Raiders | 287789 | [287789-galaxy-raiders.json](./287789-galaxy-raiders.json) |
 | Galaxy Ranger | 39356 | [39356-galaxy-ranger.json](./39356-galaxy-ranger.json) |
 | Galaxy Reavers | 24411 | [24411-galaxy-reavers.json](./24411-galaxy-reavers.json) |
+| Galaxy Revo 2 | 238118 | [238118-galaxy-revo-2.json](./238118-galaxy-revo-2.json) |
 | Galaxy Revo: Remake | 247488 | [247488-galaxy-revo-remake.json](./247488-galaxy-revo-remake.json) |
 | Galaxy Roll | 358429 | [358429-galaxy-roll.json](./358429-galaxy-roll.json) |
 | Galaxy Rush | 310834 | [310834-galaxy-rush.json](./310834-galaxy-rush.json) |
@@ -8218,6 +8219,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grip | 18452 | [18452-grip.json](./18452-grip.json) |
 | Grip Games Anthology | 99557 | [99557-grip-games-anthology.json](./99557-grip-games-anthology.json) |
 | Grip on Reality | 232527 | [232527-grip-on-reality.json](./232527-grip-on-reality.json) |
+| Grip on Reality: Bound and Forgotten | 238137 | [238137-grip-on-reality-bound-and-forgotten.json](./238137-grip-on-reality-bound-and-forgotten.json) |
+| Grip on Reality: Endless Night | 238136 | [238136-grip-on-reality-endless-night.json](./238136-grip-on-reality-endless-night.json) |
 | Grip on Reality: The Jaguar | 232529 | [232529-grip-on-reality-the-jaguar.json](./232529-grip-on-reality-the-jaguar.json) |
 | Grip: Digital Deluxe | 118945 | [118945-grip-digital-deluxe.json](./118945-grip-digital-deluxe.json) |
 | Gripless: Drift Valley | 386885 | [386885-gripless-drift-valley.json](./386885-gripless-drift-valley.json) |
