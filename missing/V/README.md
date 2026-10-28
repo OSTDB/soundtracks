@@ -2075,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violated By Other World Monster Girls | 82915 | [82915-violated-by-other-world-monster-girls.json](./82915-violated-by-other-world-monster-girls.json) |
 | Violation | 182307 | [182307-violation.json](./182307-violation.json) |
 | Violation Facility | 82676 | [82676-violation-facility.json](./82676-violation-facility.json) |
+| Violations Will Be Punished | 242582 | [242582-violations-will-be-punished.json](./242582-violations-will-be-punished.json) |
 | Violator | 80616 | [80616-violator.json](./80616-violator.json) |
 | Violence Fight | 39608 | [39608-violence-fight.json](./39608-violence-fight.json) |
 | Violent Agent | 189206 | [189206-violent-agent.json](./189206-violent-agent.json) |
