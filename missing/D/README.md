@@ -2180,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dasshutsu Girls | 220308 | [220308-dasshutsu-girls.json](./220308-dasshutsu-girls.json) |
 | Dasshutsu Seijin!? Deru Deru Deru de | 222383 | [222383-dasshutsu-seijin-deru-deru-deru-de.json](./222383-dasshutsu-seijin-deru-deru-deru-de.json) |
 | Dasshutsu Youki no Jukai: Nehan no Mori | 138749 | [138749-dasshutsu-youki-no-jukai-nehan-no-mori.json](./138749-dasshutsu-youki-no-jukai-nehan-no-mori.json) |
+| Dassouchuu: Tousou Shita Hannin wo Sagase! | 241189 | [241189-dassouchuu-tousou-shita-hannin-wo-sagase.json](./241189-dassouchuu-tousou-shita-hannin-wo-sagase.json) |
 | Dastardly & Muttley: Operation - Pigeon Pursuit | 313186 | [313186-dastardly-and-muttley-operation-pigeon-pursuit.json](./313186-dastardly-and-muttley-operation-pigeon-pursuit.json) |
 | Dat Boi 2048 | 202702 | [202702-dat-boi-2048.json](./202702-dat-boi-2048.json) |
 | Dat Gaem | 146749 | [146749-dat-gaem.json](./146749-dat-gaem.json) |
