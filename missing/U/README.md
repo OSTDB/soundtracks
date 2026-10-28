@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbral Core | 219257 | [219257-umbral-core.json](./219257-umbral-core.json) |
 | Umbral Coterie | 405147 | [405147-umbral-coterie.json](./405147-umbral-coterie.json) |
 | Umbral Omen | 212837 | [212837-umbral-omen.json](./212837-umbral-omen.json) |
+| Umbral Platinum | 257182 | [257182-umbral-platinum.json](./257182-umbral-platinum.json) |
 | UmbraNet | 388359 | [388359-umbranet.json](./388359-umbranet.json) |
 | Umbranomicon | 386166 | [386166-umbranomicon.json](./386166-umbranomicon.json) |
 | Umbraseal | 120928 | [120928-umbraseal.json](./120928-umbraseal.json) |
@@ -1872,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhallowed | 256834 | [256834-unhallowed.json](./256834-unhallowed.json) |
 | Unhallowed: The Cabin | 96235 | [96235-unhallowed-the-cabin.json](./96235-unhallowed-the-cabin.json) |
 | Unhappening | 397909 | [397909-unhappening.json](./397909-unhappening.json) |
+| Unhappy Cinderella | 257186 | [257186-unhappy-cinderella.json](./257186-unhappy-cinderella.json) |
 | Unhappy Ever After | 30617 | [30617-unhappy-ever-after.json](./30617-unhappy-ever-after.json) |
 | Unhappy Hour | 197106 | [197106-unhappy-hour.json](./197106-unhappy-hour.json) |
 | UnHappy Place | 213781 | [213781-unhappy-place.json](./213781-unhappy-place.json) |
