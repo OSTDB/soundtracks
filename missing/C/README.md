@@ -3520,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat’s Catch | 327248 | [327248-cat-s-catch.json](./327248-cat-s-catch.json) |
 | Cat's Cosmic Atlas | 258012 | [258012-cats-cosmic-atlas.json](./258012-cats-cosmic-atlas.json) |
 | Cat's Cosmic Atlas: Definitive Edition | 288286 | [288286-cats-cosmic-atlas-definitive-edition.json](./288286-cats-cosmic-atlas-definitive-edition.json) |
+| Cat's Cosmic Atlas: Deluxe Edition | 270798 | [270798-cats-cosmic-atlas-deluxe-edition.json](./270798-cats-cosmic-atlas-deluxe-edition.json) |
 | Cat's Cosmic Atlas: Premium Edition | 286212 | [286212-cats-cosmic-atlas-premium-edition.json](./286212-cats-cosmic-atlas-premium-edition.json) |
 | Cat's Cosmic Atlas: Ultimate Edition | 278649 | [278649-cats-cosmic-atlas-ultimate-edition.json](./278649-cats-cosmic-atlas-ultimate-edition.json) |
 | Cat's Cradle | 151471 | [151471-cats-cradle.json](./151471-cats-cradle.json) |
@@ -9566,6 +9567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename Desperado | 413848 | [413848-codename-desperado.json](./413848-codename-desperado.json) |
 | Codename Eagle | 344 | [344-codename-eagle.json](./344-codename-eagle.json) |
 | Codename Ghost Hunt | 107716 | [107716-codename-ghost-hunt.json](./107716-codename-ghost-hunt.json) |
+| Codename Incubus | 270492 | [270492-codename-incubus.json](./270492-codename-incubus.json) |
 | Codename Jin Yiwei | 247379 | [247379-codename-jin-yiwei.json](./247379-codename-jin-yiwei.json) |
 | Codename Kids Next Door: Operation B.E.S.T. | 342736 | [342736-codename-kids-next-door-operation-b-e-s-t.json](./342736-codename-kids-next-door-operation-b-e-s-t.json) |
 | Codename Kids Next Door: Tummy Trouble | 349934 | [349934-codename-kids-next-door-tummy-trouble.json](./349934-codename-kids-next-door-tummy-trouble.json) |
@@ -10862,6 +10864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Coloring Book: Complete Edition - Colors Special | 275053 | [275053-comic-coloring-book-complete-edition-colors-special.json](./275053-comic-coloring-book-complete-edition-colors-special.json) |
 | Comic Coloring Book: Complete Edition - Draw Extended | 263528 | [263528-comic-coloring-book-complete-edition-draw-extended.json](./263528-comic-coloring-book-complete-edition-draw-extended.json) |
 | Comic Coloring Book: Complete Edition - DRAW Special | 277905 | [277905-comic-coloring-book-complete-edition-draw-special.json](./277905-comic-coloring-book-complete-edition-draw-special.json) |
+| Comic Coloring Book: Complete Edition - Paint Special | 270799 | [270799-comic-coloring-book-complete-edition-paint-special.json](./270799-comic-coloring-book-complete-edition-paint-special.json) |
 | Comic Company Manager | 152697 | [152697-comic-company-manager.json](./152697-comic-company-manager.json) |
 | Comic Days H | 97382 | [97382-comic-days-h.json](./97382-comic-days-h.json) |
 | Comic Jumper: The Adventures of Captain Smiley | 21094 | [21094-comic-jumper-the-adventures-of-captain-smiley.json](./21094-comic-jumper-the-adventures-of-captain-smiley.json) |
@@ -12155,6 +12158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena: 3 in 1 Edition | 283176 | [283176-cooking-arena-3-in-1-edition.json](./283176-cooking-arena-3-in-1-edition.json) |
 | Cooking Arena: 5 in 1 Edition | 266171 | [266171-cooking-arena-5-in-1-edition.json](./266171-cooking-arena-5-in-1-edition.json) |
 | Cooking Arena: 6 in 1 Edition | 270297 | [270297-cooking-arena-6-in-1-edition.json](./270297-cooking-arena-6-in-1-edition.json) |
+| Cooking Arena: 7 in 1 Edition | 270800 | [270800-cooking-arena-7-in-1-edition.json](./270800-cooking-arena-7-in-1-edition.json) |
 | Cooking Arena: 8 in 1 Edition | 273331 | [273331-cooking-arena-8-in-1-edition.json](./273331-cooking-arena-8-in-1-edition.json) |
 | Cooking Arena: 9 in 1 Edition | 275892 | [275892-cooking-arena-9-in-1-edition.json](./275892-cooking-arena-9-in-1-edition.json) |
 | Cooking Arena: Breakfast Bar Tycoon | 260042 | [260042-cooking-arena-breakfast-bar-tycoon.json](./260042-cooking-arena-breakfast-bar-tycoon.json) |
