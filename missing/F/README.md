@@ -4977,6 +4977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Birds | 2244 | [2244-fire-birds.json](./2244-fire-birds.json) |
 | Fire Blade | 3916 | [3916-fire-blade.json](./3916-fire-blade.json) |
 | Fire Boat | 106471 | [106471-fire-boat.json](./106471-fire-boat.json) |
+| Fire Breakout | 264735 | [264735-fire-breakout.json](./264735-fire-breakout.json) |
 | Fire Breathers | 243935 | [243935-fire-breathers.json](./243935-fire-breathers.json) |
 | Fire Burning City | 346676 | [346676-fire-burning-city.json](./346676-fire-burning-city.json) |
 | Fire Chat: K-BulMung | 372216 | [372216-fire-chat-k-bulmung.json](./372216-fire-chat-k-bulmung.json) |
@@ -10872,6 +10873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline: The Longest Day | 175270 | [175270-frontline-the-longest-day.json](./175270-frontline-the-longest-day.json) |
 | Frontline: The Longest Day | 17610 | [17610-frontline-the-longest-day.json](./17610-frontline-the-longest-day.json) |
 | Frontline: War of Echoes | 366560 | [366560-frontline-war-of-echoes.json](./366560-frontline-war-of-echoes.json) |
+| Frontline: World At War | 264726 | [264726-frontline-world-at-war.json](./264726-frontline-world-at-war.json) |
 | Frontline: World War II | 142192 | [142192-frontline-world-war-ii.json](./142192-frontline-world-war-ii.json) |
 | FrontlineGrunt | 252614 | [252614-frontlinegrunt.json](./252614-frontlinegrunt.json) |
 | Frontlines: Fuel of War | 6997 | [6997-frontlines-fuel-of-war.json](./6997-frontlines-fuel-of-war.json) |
