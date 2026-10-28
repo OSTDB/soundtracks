@@ -2198,6 +2198,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gehinnom | 172974 | [172974-gehinnom.json](./172974-gehinnom.json) |
 | Gehirn Sport Sammlung | 81388 | [81388-gehirn-sport-sammlung.json](./81388-gehirn-sport-sammlung.json) |
 | Gehirntrainer | 76942 | [76942-gehirntrainer.json](./76942-gehirntrainer.json) |
+| Geico Baseball | 264444 | [264444-geico-baseball.json](./264444-geico-baseball.json) |
+| Geico Football | 264443 | [264443-geico-football.json](./264443-geico-football.json) |
+| Geico Golf | 264445 | [264445-geico-golf.json](./264445-geico-golf.json) |
+| Geico Pinball | 264446 | [264446-geico-pinball.json](./264446-geico-pinball.json) |
 | Geisha | 12116 | [12116-geisha.json](./12116-geisha.json) |
 | Geisha's Heart: Romance Among the Cherry Blossoms | 378852 | [378852-geishas-heart-romance-among-the-cherry-blossoms.json](./378852-geishas-heart-romance-among-the-cherry-blossoms.json) |
 | Geist Force | 62131 | [62131-geist-force.json](./62131-geist-force.json) |
@@ -4677,6 +4681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Fish! | 40717 | [40717-go-fish.json](./40717-go-fish.json) |
 | Go Fish! The Pop n' Drop Game | 209761 | [209761-go-fish-the-pop-n-drop-game.json](./209761-go-fish-the-pop-n-drop-game.json) |
 | Go Fkn Fast | 340316 | [340316-go-fkn-fast.json](./340316-go-fkn-fast.json) |
+| Go for a Punch! Saki Sanobashi | 264722 | [264722-go-for-a-punch-saki-sanobashi.json](./264722-go-for-a-punch-saki-sanobashi.json) |
 | Go Go Ackman | 15926 | [15926-go-go-ackman.json](./15926-go-go-ackman.json) |
 | Go Go Ackman | 83923 | [83923-go-go-ackman.json](./83923-go-go-ackman.json) |
 | Go Go Burunyanman Ecstasy!!! | 383005 | [383005-go-go-burunyanman-ecstasy.json](./383005-go-go-burunyanman-ecstasy.json) |
@@ -5140,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Wars 2 | 105055 | [105055-god-wars-2.json](./105055-god-wars-2.json) |
 | God Wars: Future Past | 25312 | [25312-god-wars-future-past.json](./25312-god-wars-future-past.json) |
 | God Will | 308862 | [308862-god-will.json](./308862-god-will.json) |
+| God Within VR | 264737 | [264737-god-within-vr.json](./264737-god-within-vr.json) |
 | God, I Hate Wasps | 135080 | [135080-god-i-hate-wasps.json](./135080-god-i-hate-wasps.json) |
 | God, Save the Queens! | 406682 | [406682-god-save-the-queens.json](./406682-god-save-the-queens.json) |
 | God: The Game | 264872 | [264872-god-the-game.json](./264872-god-the-game.json) |
@@ -8070,6 +8076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire Limbo | 416334 | [416334-grimoire-limbo.json](./416334-grimoire-limbo.json) |
 | Grimoire of Blanks | 418214 | [418214-grimoire-of-blanks.json](./418214-grimoire-of-blanks.json) |
 | Grimoire of Gaia | 237528 | [237528-grimoire-of-gaia.json](./237528-grimoire-of-gaia.json) |
+| Grimoire of Syvnta | 264745 | [264745-grimoire-of-syvnta.json](./264745-grimoire-of-syvnta.json) |
 | Grimoire Organizer | 282146 | [282146-grimoire-organizer.json](./282146-grimoire-organizer.json) |
 | Grimoire: Heralds of the Winged Exemplar | 43487 | [43487-grimoire-heralds-of-the-winged-exemplar.json](./43487-grimoire-heralds-of-the-winged-exemplar.json) |
 | Grimoire: Manastorm - Earth Class | 170331 | [170331-grimoire-manastorm-earth-class.json](./170331-grimoire-manastorm-earth-class.json) |
@@ -8804,6 +8811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guide of the Butterfly | 134939 | [134939-guide-of-the-butterfly.json](./134939-guide-of-the-butterfly.json) |
 | Guide To Apocalypse | 334492 | [334492-guide-to-apocalypse.json](./334492-guide-to-apocalypse.json) |
 | Guided Meditation VR | 34577 | [34577-guided-meditation-vr.json](./34577-guided-meditation-vr.json) |
+| Guidelicious | 264753 | [264753-guidelicious.json](./264753-guidelicious.json) |
 | Guiding Light | 127758 | [127758-guiding-light.json](./127758-guiding-light.json) |
 | Guidus | 220202 | [220202-guidus.json](./220202-guidus.json) |
 | Guild & Gals | 346258 | [346258-guild-and-gals.json](./346258-guild-and-gals.json) |
