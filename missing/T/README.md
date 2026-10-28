@@ -10957,6 +10957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Shonan | 387002 | [387002-the-legend-of-shonan.json](./387002-the-legend-of-shonan.json) |
 | The Legend of Silkroad | 39416 | [39416-the-legend-of-silkroad.json](./39416-the-legend-of-silkroad.json) |
 | The Legend of Sky Stones | 307951 | [307951-the-legend-of-sky-stones.json](./307951-the-legend-of-sky-stones.json) |
+| The Legend of Skye | 239802 | [239802-the-legend-of-skye.json](./239802-the-legend-of-skye.json) |
 | The Legend of Slime | 67923 | [67923-the-legend-of-slime.json](./67923-the-legend-of-slime.json) |
 | The Legend of Snow Maiden | 298598 | [298598-the-legend-of-snow-maiden.json](./298598-the-legend-of-snow-maiden.json) |
 | The Legend of Spyro: A New Beginning | 206652 | [206652-the-legend-of-spyro-a-new-beginning.json](./206652-the-legend-of-spyro-a-new-beginning.json) |
@@ -21473,6 +21474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Nampa Street | 66132 | [66132-tokyo-nampa-street.json](./66132-tokyo-nampa-street.json) |
 | Tokyo Necro | 60484 | [60484-tokyo-necro.json](./60484-tokyo-necro.json) |
 | Tokyo Necro: Suicide Mission | 400269 | [400269-tokyo-necro-suicide-mission.json](./400269-tokyo-necro-suicide-mission.json) |
+| Tokyo Neural Groove | 239821 | [239821-tokyo-neural-groove.json](./239821-tokyo-neural-groove.json) |
 | Tokyo Ogre Gate | 84488 | [84488-tokyo-ogre-gate.json](./84488-tokyo-ogre-gate.json) |
 | Tokyo Onmyouji: Tengenjibashi Rei no Baai - V Edition | 144684 | [144684-tokyo-onmyouji-tengenjibashi-rei-no-baai-v-edition.json](./144684-tokyo-onmyouji-tengenjibashi-rei-no-baai-v-edition.json) |
 | Tokyo Pachi-Slot Adventure | 48877 | [48877-tokyo-pachi-slot-adventure.json](./48877-tokyo-pachi-slot-adventure.json) |
@@ -21522,6 +21524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Told God-The Legacy of Cthulhu | 100813 | [100813-told-god-the-legacy-of-cthulhu.json](./100813-told-god-the-legacy-of-cthulhu.json) |
 | Told God: The Legacy of Cthulhu | 306363 | [306363-told-god-the-legacy-of-cthulhu.json](./306363-told-god-the-legacy-of-cthulhu.json) |
 | Tolem | 409506 | [409506-tolem.json](./409506-tolem.json) |
+| Toleo | 239825 | [239825-toleo.json](./239825-toleo.json) |
 | Toll Booth Simulator | 357260 | [357260-toll-booth-simulator.json](./357260-toll-booth-simulator.json) |
 | Tollan Worlds | 252805 | [252805-tollan-worlds.json](./252805-tollan-worlds.json) |
 | Tollway Tycoon | 400258 | [400258-tollway-tycoon.json](./400258-tollway-tycoon.json) |
@@ -25775,6 +25778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tranquility I | 131336 | [131336-tranquility-i.json](./131336-tranquility-i.json) |
 | Tranquilizer Gun | 61396 | [61396-tranquilizer-gun.json](./61396-tranquilizer-gun.json) |
 | Tranquillizer Gun | 6128 | [6128-tranquillizer-gun.json](./6128-tranquillizer-gun.json) |
+| Trans Agent X | 239829 | [239829-trans-agent-x.json](./239829-trans-agent-x.json) |
 | Trans Coming Out Simulator 2018 | 176927 | [176927-trans-coming-out-simulator-2018.json](./176927-trans-coming-out-simulator-2018.json) |
 | Trans Goetia | 239529 | [239529-trans-goetia.json](./239529-trans-goetia.json) |
 | Trans Liberation Forever | 277409 | [277409-trans-liberation-forever.json](./277409-trans-liberation-forever.json) |
@@ -26895,6 +26899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity Fusion | 218520 | [218520-trinity-fusion.json](./218520-trinity-fusion.json) |
 | Trinity Fusion: Deluxe Edition | 280631 | [280631-trinity-fusion-deluxe-edition.json](./280631-trinity-fusion-deluxe-edition.json) |
 | Trinity Heart | 266238 | [266238-trinity-heart.json](./266238-trinity-heart.json) |
+| Trinity Of The Fabled | 239814 | [239814-trinity-of-the-fabled.json](./239814-trinity-of-the-fabled.json) |
 | Trinity Shells | 328042 | [328042-trinity-shells.json](./328042-trinity-shells.json) |
 | Trinity Town Monastery \| Martial Art and Meditation | 116812 | [116812-trinity-town-monastery-martial-art-and-meditation.json](./116812-trinity-town-monastery-martial-art-and-meditation.json) |
 | Trinity Trigger | 202850 | [202850-trinity-trigger.json](./202850-trinity-trigger.json) |
@@ -27865,6 +27870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsunami Rider | 383939 | [383939-tsunami-rider.json](./383939-tsunami-rider.json) |
 | Tsunde Tsumi Kiss | 21450 | [21450-tsunde-tsumi-kiss.json](./21450-tsunde-tsumi-kiss.json) |
 | Tsundere Girls | 382282 | [382282-tsundere-girls.json](./382282-tsundere-girls.json) |
+| Tsundere Milfin | 239834 | [239834-tsundere-milfin.json](./239834-tsundere-milfin.json) |
 | Tsundere Simulator 2 | 221389 | [221389-tsundere-simulator-2.json](./221389-tsundere-simulator-2.json) |
 | Tsuneko Apple | 318235 | [318235-tsuneko-apple.json](./318235-tsuneko-apple.json) |
 | Tsunoda Thunder | 59747 | [59747-tsunoda-thunder.json](./59747-tsunoda-thunder.json) |
