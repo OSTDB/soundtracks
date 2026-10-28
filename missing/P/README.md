@@ -7632,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza House Simulator | 406274 | [406274-pizza-house-simulator.json](./406274-pizza-house-simulator.json) |
 | Pizza Hub | 311253 | [311253-pizza-hub.json](./311253-pizza-hub.json) |
 | Pizza Hunt! How to Hunt Pizza (And Not Die Doing It) | 61886 | [61886-pizza-hunt-how-to-hunt-pizza-and-not-die-doing-it.json](./61886-pizza-hunt-how-to-hunt-pizza-and-not-die-doing-it.json) |
+| Pizza Hut Arcade: Pac-Man | 261389 | [261389-pizza-hut-arcade-pac-man.json](./261389-pizza-hut-arcade-pac-man.json) |
 | Pizza Kidd | 217398 | [217398-pizza-kidd.json](./217398-pizza-kidd.json) |
 | Pizza King Fight | 259713 | [259713-pizza-king-fight.json](./259713-pizza-king-fight.json) |
 | Pizza Knight: Out To Deliver | 380766 | [380766-pizza-knight-out-to-deliver.json](./380766-pizza-knight-out-to-deliver.json) |
@@ -8884,6 +8885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Idler: Fishing Pond | 298345 | [298345-pocket-idler-fishing-pond.json](./298345-pocket-idler-fishing-pond.json) |
 | Pocket Invader | 110065 | [110065-pocket-invader.json](./110065-pocket-invader.json) |
 | Pocket Jansou | 46603 | [46603-pocket-jansou.json](./46603-pocket-jansou.json) |
+| Pocket Jump Game | 261322 | [261322-pocket-jump-game.json](./261322-pocket-jump-game.json) |
 | Pocket Kanon & Air | 384708 | [384708-pocket-kanon-and-air.json](./384708-pocket-kanon-and-air.json) |
 | Pocket Kickball | 304724 | [304724-pocket-kickball.json](./304724-pocket-kickball.json) |
 | Pocket King | 282473 | [282473-pocket-king.json](./282473-pocket-king.json) |
@@ -11931,6 +11933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prayers a Thousand-fold | 309976 | [309976-prayers-a-thousand-fold.json](./309976-prayers-a-thousand-fold.json) |
 | Prayr | 130044 | [130044-prayr.json](./130044-prayr.json) |
 | Pre Dusk | 172987 | [172987-pre-dusk.json](./172987-pre-dusk.json) |
+| Pre Master | 261406 | [261406-pre-master.json](./261406-pre-master.json) |
 | Pre Post-Modernistic Post-Ironic Dadaism: Dating Simulator | 306969 | [306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json](./306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json) |
 | Pre-Fortress 2 | 164312 | [164312-pre-fortress-2.json](./164312-pre-fortress-2.json) |
 | Pre-Odyssey: Love at First Quack | 344552 | [344552-pre-odyssey-love-at-first-quack.json](./344552-pre-odyssey-love-at-first-quack.json) |
