@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Attorney | 349748 | [349748-race-attorney.json](./349748-race-attorney.json) |
 | Race Car | 347004 | [347004-race-car.json](./347004-race-car.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
+| Race Control Director | 232620 | [232620-race-control-director.json](./232620-race-control-director.json) |
 | Race Day Rampage | 208312 | [208312-race-day-rampage.json](./208312-race-day-rampage.json) |
 | Race Days | 49009 | [49009-race-days.json](./49009-race-days.json) |
 | Race Driver 2006 | 93991 | [93991-race-driver-2006.json](./93991-race-driver-2006.json) |
@@ -3049,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recalcitrant | 326273 | [326273-recalcitrant.json](./326273-recalcitrant.json) |
 | Recalhorn | 257330 | [257330-recalhorn.json](./257330-recalhorn.json) |
 | Recall | 154397 | [154397-recall.json](./154397-recall.json) |
+| Recall | 232638 | [232638-recall.json](./232638-recall.json) |
 | Recall | 309570 | [309570-recall.json](./309570-recall.json) |
 | Recall News | 372978 | [372978-recall-news.json](./372978-recall-news.json) |
 | Recant | 268607 | [268607-recant.json](./268607-recant.json) |
@@ -4753,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue the Prisoner | 272458 | [272458-rescue-the-prisoner.json](./272458-rescue-the-prisoner.json) |
 | Rescue the Puppies | 401029 | [401029-rescue-the-puppies.json](./401029-rescue-the-puppies.json) |
 | Rescue To The Parallel | 256114 | [256114-rescue-to-the-parallel.json](./256114-rescue-to-the-parallel.json) |
+| Rescue Trivia | 232625 | [232625-rescue-trivia.json](./232625-rescue-trivia.json) |
 | Rescue Troopers | 190901 | [190901-rescue-troopers.json](./190901-rescue-troopers.json) |
 | Rescue Wings | 308172 | [308172-rescue-wings.json](./308172-rescue-wings.json) |
 | Rescue your chickens | 30672 | [30672-rescue-your-chickens.json](./30672-rescue-your-chickens.json) |
@@ -9968,6 +9971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rox | 100663 | [100663-rox.json](./100663-rox.json) |
 | Rox | 50066 | [50066-rox.json](./50066-rox.json) |
 | Rox 64 | 290263 | [290263-rox-64.json](./290263-rox-64.json) |
+| Rox Fling | 232605 | [232605-rox-fling.json](./232605-rox-fling.json) |
 | Rox II | 315507 | [315507-rox-ii.json](./315507-rox-ii.json) |
 | Rox III | 254996 | [254996-rox-iii.json](./254996-rox-iii.json) |
 | Roxanne | 382316 | [382316-roxanne.json](./382316-roxanne.json) |
