@@ -4376,6 +4376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Sweet Doctor | 288164 | [288164-hentai-girls-sweet-doctor.json](./288164-hentai-girls-sweet-doctor.json) |
 | Hentai Girls: Sweet Skier | 328521 | [328521-hentai-girls-sweet-skier.json](./328521-hentai-girls-sweet-skier.json) |
 | Hentai Girls: The Princesses | 301676 | [301676-hentai-girls-the-princesses.json](./301676-hentai-girls-the-princesses.json) |
+| Hentai Girls: Ultimate Edition | 256633 | [256633-hentai-girls-ultimate-edition.json](./256633-hentai-girls-ultimate-edition.json) |
 | Hentai Girls: Ultra Complete | 324467 | [324467-hentai-girls-ultra-complete.json](./324467-hentai-girls-ultra-complete.json) |
 | Hentai Girls: Ultra Definitive | 317285 | [317285-hentai-girls-ultra-definitive.json](./317285-hentai-girls-ultra-definitive.json) |
 | Hentai Girls: Ultra Deluxe | 303859 | [303859-hentai-girls-ultra-deluxe.json](./303859-hentai-girls-ultra-deluxe.json) |
