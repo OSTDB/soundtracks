@@ -3048,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap and Battery | 284297 | [284297-scrap-and-battery.json](./284297-scrap-and-battery.json) |
 | Scrap Ascent | 423274 | [423274-scrap-ascent.json](./423274-scrap-ascent.json) |
 | Scrap Attack | 81924 | [81924-scrap-attack.json](./81924-scrap-attack.json) |
+| Scrap Bastion | 239813 | [239813-scrap-bastion.json](./239813-scrap-bastion.json) |
 | Scrap Bolts | 246294 | [246294-scrap-bolts.json](./246294-scrap-bolts.json) |
 | Scrap Boy | 182078 | [182078-scrap-boy.json](./182078-scrap-boy.json) |
 | Scrap Bringer | 172130 | [172130-scrap-bringer.json](./172130-scrap-bringer.json) |
@@ -9570,6 +9571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Game | 121602 | [121602-simple-game.json](./121602-simple-game.json) |
 | Simple Golfing | 99434 | [99434-simple-golfing.json](./99434-simple-golfing.json) |
 | Simple Idel | 194370 | [194370-simple-idel.json](./194370-simple-idel.json) |
+| Simple Increment | 239458 | [239458-simple-increment.json](./239458-simple-increment.json) |
 | Simple Killer | 405972 | [405972-simple-killer.json](./405972-simple-killer.json) |
 | Simple Loto Simulator | 157201 | [157201-simple-loto-simulator.json](./157201-simple-loto-simulator.json) |
 | Simple Machines | 164227 | [164227-simple-machines.json](./164227-simple-machines.json) |
@@ -13881,6 +13883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokker Mayhem | 184251 | [184251-sokker-mayhem.json](./184251-sokker-mayhem.json) |
 | Sokko Seitokai: Sonic Council | 165073 | [165073-sokko-seitokai-sonic-council.json](./165073-sokko-seitokai-sonic-council.json) |
 | Sokkqer | 182173 | [182173-sokkqer.json](./182173-sokkqer.json) |
+| Soko | 239459 | [239459-soko.json](./239459-soko.json) |
 | Soko Banana | 333712 | [333712-soko-banana.json](./333712-soko-banana.json) |
 | Soko Loco | 129576 | [129576-soko-loco.json](./129576-soko-loco.json) |
 | Soko Loco Deluxe | 115328 | [115328-soko-loco-deluxe.json](./115328-soko-loco-deluxe.json) |
@@ -29931,6 +29934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Time!: Premium Edition | 241402 | [241402-sushi-time-premium-edition.json](./241402-sushi-time-premium-edition.json) |
 | Sushi vs. Burger Race | 347490 | [347490-sushi-vs-burger-race.json](./347490-sushi-vs-burger-race.json) |
 | Sushi vs. Remilia Scarlet | 206739 | [206739-sushi-vs-remilia-scarlet.json](./206739-sushi-vs-remilia-scarlet.json) |
+| Sushi Warrior: Secret Plan | 239805 | [239805-sushi-warrior-secret-plan.json](./239805-sushi-warrior-secret-plan.json) |
 | Sushi Yummy | 399183 | [399183-sushi-yummy.json](./399183-sushi-yummy.json) |
 | Sushi'd | 56268 | [56268-sushid.json](./56268-sushid.json) |
 | Sushiamo | 400462 | [400462-sushiamo.json](./400462-sushiamo.json) |
