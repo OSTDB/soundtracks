@@ -1155,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Ballers: Rebound | 72721 | [72721-nba-ballers-rebound.json](./72721-nba-ballers-rebound.json) |
 | NBA Basketball 2000 | 24114 | [24114-nba-basketball-2000.json](./24114-nba-basketball-2000.json) |
 | NBA Bounce | 358532 | [358532-nba-bounce.json](./358532-nba-bounce.json) |
+| NBA Clash | 232127 | [232127-nba-clash.json](./232127-nba-clash.json) |
 | NBA Courtside 2 Featuring Kobe Bryant | 3549 | [3549-nba-courtside-2-featuring-kobe-bryant.json](./3549-nba-courtside-2-featuring-kobe-bryant.json) |
 | NBA Dynasty | 92443 | [92443-nba-dynasty.json](./92443-nba-dynasty.json) |
 | NBA Elite 11 | 52625 | [52625-nba-elite-11.json](./52625-nba-elite-11.json) |
