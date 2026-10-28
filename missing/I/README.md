@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Infiltrator Nahara Skin & Feat Pack | 313704 | [313704-idle-champions-infiltrator-nahara-skin-and-feat-pack.json](./313704-idle-champions-infiltrator-nahara-skin-and-feat-pack.json) |
 | Idle Champions: Jack the Pumpkin Sprout Familiar Pack | 303542 | [303542-idle-champions-jack-the-pumpkin-sprout-familiar-pack.json](./303542-idle-champions-jack-the-pumpkin-sprout-familiar-pack.json) |
 | Idle Champions: Lae'zel's Champions of Renown Bundle | 312975 | [312975-idle-champions-laezels-champions-of-renown-bundle.json](./312975-idle-champions-laezels-champions-of-renown-bundle.json) |
+| Idle Champions: Lord of Waterdeep Omin Skin & Feat Pack | 248400 | [248400-idle-champions-lord-of-waterdeep-omin-skin-and-feat-pack.json](./248400-idle-champions-lord-of-waterdeep-omin-skin-and-feat-pack.json) |
 | Idle Champions: Masquerade Ball Ellywick Theme Pack | 313694 | [313694-idle-champions-masquerade-ball-ellywick-theme-pack.json](./313694-idle-champions-masquerade-ball-ellywick-theme-pack.json) |
 | Idle Champions: Masquerade Ball Lae'zel Skin & Feat Pack | 313680 | [313680-idle-champions-masquerade-ball-laezel-skin-and-feat-pack.json](./313680-idle-champions-masquerade-ball-laezel-skin-and-feat-pack.json) |
 | Idle Champions: Masquerade Ball Rust Theme Pack | 313695 | [313695-idle-champions-masquerade-ball-rust-theme-pack.json](./313695-idle-champions-masquerade-ball-rust-theme-pack.json) |
@@ -1221,6 +1222,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Triton Glitch Nayeli Skin & Feat Pack | 313699 | [313699-idle-champions-triton-glitch-nayeli-skin-and-feat-pack.json](./313699-idle-champions-triton-glitch-nayeli-skin-and-feat-pack.json) |
 | Idle Champions: Undead Knight Solaak Skin & Feat Pack | 289848 | [289848-idle-champions-undead-knight-solaak-skin-and-feat-pack.json](./289848-idle-champions-undead-knight-solaak-skin-and-feat-pack.json) |
 | Idle Champions: Undercover Sgt. Knox Skin & Feat Pack | 313703 | [313703-idle-champions-undercover-sgt-knox-skin-and-feat-pack.json](./313703-idle-champions-undercover-sgt-knox-skin-and-feat-pack.json) |
+| Idle Champions: Vacation Dungeon Master Skin & Feat Pack | 248401 | [248401-idle-champions-vacation-dungeon-master-skin-and-feat-pack.json](./248401-idle-champions-vacation-dungeon-master-skin-and-feat-pack.json) |
+| Idle Champions: Witchlight Nixie Theme Pack | 248402 | [248402-idle-champions-witchlight-nixie-theme-pack.json](./248402-idle-champions-witchlight-nixie-theme-pack.json) |
 | Idle Champions: Wyrm Slayer BBEG Skin & Feat Pack | 306077 | [306077-idle-champions-wyrm-slayer-bbeg-skin-and-feat-pack.json](./306077-idle-champions-wyrm-slayer-bbeg-skin-and-feat-pack.json) |
 | Idle Champions: Wyrm Slayer Ezmerelda Theme Pack | 306078 | [306078-idle-champions-wyrm-slayer-ezmerelda-theme-pack.json](./306078-idle-champions-wyrm-slayer-ezmerelda-theme-pack.json) |
 | Idle Champions: Wyrm Slayer Korth Skin & Feat Pack | 313711 | [313711-idle-champions-wyrm-slayer-korth-skin-and-feat-pack.json](./313711-idle-champions-wyrm-slayer-korth-skin-and-feat-pack.json) |
@@ -1275,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Factory Tycoon | 99142 | [99142-idle-factory-tycoon.json](./99142-idle-factory-tycoon.json) |
 | Idle Farming Business | 340062 | [340062-idle-farming-business.json](./340062-idle-farming-business.json) |
 | Idle Farming Tycoon Empire | 175877 | [175877-idle-farming-tycoon-empire.json](./175877-idle-farming-tycoon-empire.json) |
+| Idle Farmyard | 248433 | [248433-idle-farmyard.json](./248433-idle-farmyard.json) |
 | Idle Fields | 189873 | [189873-idle-fields.json](./189873-idle-fields.json) |
 | Idle Fishing | 280117 | [280117-idle-fishing.json](./280117-idle-fishing.json) |
 | Idle Fishing Tycoon | 212517 | [212517-idle-fishing-tycoon.json](./212517-idle-fishing-tycoon.json) |
