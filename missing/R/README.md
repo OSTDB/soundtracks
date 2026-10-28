@@ -9865,6 +9865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rowan Needs Shinies! | 420586 | [420586-rowan-needs-shinies.json](./420586-rowan-needs-shinies.json) |
 | Rowan's Battle of Britain | 73818 | [73818-rowans-battle-of-britain.json](./73818-rowans-battle-of-britain.json) |
 | RowBot Rally | 256258 | [256258-rowbot-rally.json](./256258-rowbot-rally.json) |
+| Rowdy Rascals | 266593 | [266593-rowdy-rascals.json](./266593-rowdy-rascals.json) |
 | Rowdy Rudy II: PowerTrip | 141700 | [141700-rowdy-rudy-ii-powertrip.json](./141700-rowdy-rudy-ii-powertrip.json) |
 | Rowdy Rudy's Revenge | 141699 | [141699-rowdy-rudys-revenge.json](./141699-rowdy-rudys-revenge.json) |
 | Rowdy Wrestling | 104211 | [104211-rowdy-wrestling.json](./104211-rowdy-wrestling.json) |
