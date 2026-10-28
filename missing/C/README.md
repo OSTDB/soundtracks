@@ -1768,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Dealership Business Simulator | 336414 | [336414-car-dealership-business-simulator.json](./336414-car-dealership-business-simulator.json) |
 | Car Dealership Simulator | 216183 | [216183-car-dealership-simulator.json](./216183-car-dealership-simulator.json) |
 | Car Dealership Simulator 2 | 348687 | [348687-car-dealership-simulator-2.json](./348687-car-dealership-simulator-2.json) |
+| Car Delivery Man | 243855 | [243855-car-delivery-man.json](./243855-car-delivery-man.json) |
 | Car Demolition Clicker | 74140 | [74140-car-demolition-clicker.json](./74140-car-demolition-clicker.json) |
 | Car Destroyer | 203888 | [203888-car-destroyer.json](./203888-car-destroyer.json) |
 | Car Detailing Cleaner Simulator | 288761 | [288761-car-detailing-cleaner-simulator.json](./288761-car-detailing-cleaner-simulator.json) |
@@ -3479,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Quest: The Fur-tastic Trilogy | 313223 | [313223-cat-quest-the-fur-tastic-trilogy.json](./313223-cat-quest-the-fur-tastic-trilogy.json) |
 | Cat Raid | 255010 | [255010-cat-raid.json](./255010-cat-raid.json) |
 | Cat Rekt! | 177452 | [177452-cat-rekt.json](./177452-cat-rekt.json) |
+| Cat Rescue | 243860 | [243860-cat-rescue.json](./243860-cat-rescue.json) |
 | Cat Rescue | 329530 | [329530-cat-rescue.json](./329530-cat-rescue.json) |
 | Cat Rescue Helicopter | 231958 | [231958-cat-rescue-helicopter.json](./231958-cat-rescue-helicopter.json) |
 | Cat Rescue Inc. | 345650 | [345650-cat-rescue-inc.json](./345650-cat-rescue-inc.json) |
@@ -10294,6 +10296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Meteoroids | 93449 | [93449-color-meteoroids.json](./93449-color-meteoroids.json) |
 | Color Mismatch Brain Quiz | 390488 | [390488-color-mismatch-brain-quiz.json](./390488-color-mismatch-brain-quiz.json) |
 | Color Move 2 | 407246 | [407246-color-move-2.json](./407246-color-move-2.json) |
+| Color Mumble | 243308 | [243308-color-mumble.json](./243308-color-mumble.json) |
 | Color Muse | 368618 | [368618-color-muse.json](./368618-color-muse.json) |
 | Color Ninjas | 181782 | [181782-color-ninjas.json](./181782-color-ninjas.json) |
 | Color Objects For Kids | 89645 | [89645-color-objects-for-kids.json](./89645-color-objects-for-kids.json) |
@@ -11955,6 +11958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consummate:Missing World | 51974 | [51974-consummate-missing-world.json](./51974-consummate-missing-world.json) |
 | Consumption | 179537 | [179537-consumption.json](./179537-consumption.json) |
 | Contact | 187113 | [187113-contact.json](./187113-contact.json) |
+| Contact | 243837 | [243837-contact.json](./243837-contact.json) |
 | Contact | 357745 | [357745-contact.json](./357745-contact.json) |
 | Contact : Last Defence | 114868 | [114868-contact-last-defence.json](./114868-contact-last-defence.json) |
 | Contact Draw: Football | 102915 | [102915-contact-draw-football.json](./102915-contact-draw-football.json) |
@@ -12678,6 +12682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CorpoNation: The Sorting Process | 219744 | [219744-corponation-the-sorting-process.json](./219744-corponation-the-sorting-process.json) |
 | Corporate 0 | 411123 | [411123-corporate-0.json](./411123-corporate-0.json) |
 | Corporate Chaos | 338886 | [338886-corporate-chaos.json](./338886-corporate-chaos.json) |
+| Corporate Climber | 242915 | [242915-corporate-climber.json](./242915-corporate-climber.json) |
 | Corporate Cut: The Hair-Raising Adventure of an Office Employee | 338887 | [338887-corporate-cut-the-hair-raising-adventure-of-an-office-employee.json](./338887-corporate-cut-the-hair-raising-adventure-of-an-office-employee.json) |
 | Corporate Fat Cat | 250780 | [250780-corporate-fat-cat.json](./250780-corporate-fat-cat.json) |
 | Corporate Fury | 357584 | [357584-corporate-fury.json](./357584-corporate-fury.json) |
@@ -15760,6 +15765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings III: Fate of Iberia | 203964 | [203964-crusader-kings-iii-fate-of-iberia.json](./203964-crusader-kings-iii-fate-of-iberia.json) |
 | Crusader Kings III: Friends & Foes | 215534 | [215534-crusader-kings-iii-friends-and-foes.json](./215534-crusader-kings-iii-friends-and-foes.json) |
 | Crusader Kings III: Khans of the Steppe | 343945 | [343945-crusader-kings-iii-khans-of-the-steppe.json](./343945-crusader-kings-iii-khans-of-the-steppe.json) |
+| Crusader Kings III: Legacy of Persia | 243857 | [243857-crusader-kings-iii-legacy-of-persia.json](./243857-crusader-kings-iii-legacy-of-persia.json) |
 | Crusader Kings III: Legends of the Dead | 289167 | [289167-crusader-kings-iii-legends-of-the-dead.json](./289167-crusader-kings-iii-legends-of-the-dead.json) |
 | Crusader Kings III: Northern Lords | 164510 | [164510-crusader-kings-iii-northern-lords.json](./164510-crusader-kings-iii-northern-lords.json) |
 | Crusader Kings III: Royal Court | 184511 | [184511-crusader-kings-iii-royal-court.json](./184511-crusader-kings-iii-royal-court.json) |
@@ -16663,6 +16669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cue Club | 50317 | [50317-cue-club.json](./50317-cue-club.json) |
 | Cue Club 2 | 35340 | [35340-cue-club-2.json](./35340-cue-club-2.json) |
 | Cue Club 2 - Pool & Snooker | 52849 | [52849-cue-club-2-pool-and-snooker.json](./52849-cue-club-2-pool-and-snooker.json) |
+| Cue D | 243847 | [243847-cue-d.json](./243847-cue-d.json) |
 | Cue Room | 388903 | [388903-cue-room.json](./388903-cue-room.json) |
 | Cue to Fall in Love with You | 404871 | [404871-cue-to-fall-in-love-with-you.json](./404871-cue-to-fall-in-love-with-you.json) |
 | Cuentos Inconclusos | 320138 | [320138-cuentos-inconclusos.json](./320138-cuentos-inconclusos.json) |
@@ -17639,6 +17646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberCorp | 120697 | [120697-cybercorp.json](./120697-cybercorp.json) |
 | Cybercube | 68709 | [68709-cybercube.json](./68709-cybercube.json) |
 | Cybercum 2069 | 305763 | [305763-cybercum-2069.json](./305763-cybercum-2069.json) |
+| CyberCum: Pussy Attack! | 243164 | [243164-cybercum-pussy-attack.json](./243164-cybercum-pussy-attack.json) |
 | CyberDeck: The Cyberpunk Roguelike Deckbuilder | 406742 | [406742-cyberdeck-the-cyberpunk-roguelike-deckbuilder.json](./406742-cyberdeck-the-cyberpunk-roguelike-deckbuilder.json) |
 | Cyberdelic | 275757 | [275757-cyberdelic.json](./275757-cyberdelic.json) |
 | Cyberdillo | 39014 | [39014-cyberdillo.json](./39014-cyberdillo.json) |
