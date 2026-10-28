@@ -1987,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Humanity.exe | 405534 | [405534-save-humanity-exe.json](./405534-save-humanity-exe.json) |
 | Save Iron Globe | 160086 | [160086-save-iron-globe.json](./160086-save-iron-globe.json) |
 | Save Jesus | 31871 | [31871-save-jesus.json](./31871-save-jesus.json) |
+| Save King | 248087 | [248087-save-king.json](./248087-save-king.json) |
 | Save Koch | 114808 | [114808-save-koch.json](./114808-save-koch.json) |
 | Save Mary | 40698 | [40698-save-mary.json](./40698-save-mary.json) |
 | Save Me Cows | 392160 | [392160-save-me-cows.json](./392160-save-me-cows.json) |
@@ -3078,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scraplings | 420774 | [420774-scraplings.json](./420774-scraplings.json) |
 | Scrapmetalship | 183007 | [183007-scrapmetalship.json](./183007-scrapmetalship.json) |
 | Scrapocalypse | 350478 | [350478-scrapocalypse.json](./350478-scrapocalypse.json) |
+| Scraponauts | 247863 | [247863-scraponauts.json](./247863-scraponauts.json) |
 | Scrappage | 236248 | [236248-scrappage.json](./236248-scrappage.json) |
 | Scrapped | 243402 | [243402-scrapped.json](./243402-scrapped.json) |
 | Scrapper | 82399 | [82399-scrapper.json](./82399-scrapper.json) |
@@ -12671,6 +12673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Bob | 88162 | [88162-snail-bob.json](./88162-snail-bob.json) |
 | Snail Bob 2 | 213637 | [213637-snail-bob-2.json](./213637-snail-bob-2.json) |
 | Snail Bob 2 Deluxe | 96554 | [96554-snail-bob-2-deluxe.json](./96554-snail-bob-2-deluxe.json) |
+| Snail Bob 3 | 248086 | [248086-snail-bob-3.json](./248086-snail-bob-3.json) |
 | Snail Bob 3: Egypt Journey | 213638 | [213638-snail-bob-3-egypt-journey.json](./213638-snail-bob-3-egypt-journey.json) |
 | Snail Bob 4: Space | 248186 | [248186-snail-bob-4-space.json](./248186-snail-bob-4-space.json) |
 | Snail Bob 5: Love Story | 248187 | [248187-snail-bob-5-love-story.json](./248187-snail-bob-5-love-story.json) |
@@ -18457,6 +18460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere | 264887 | [264887-sphere.json](./264887-sphere.json) |
 | Sphere | 296002 | [296002-sphere.json](./296002-sphere.json) |
 | Sphere | 313887 | [313887-sphere.json](./313887-sphere.json) |
+| Sphere 3 | 248243 | [248243-sphere-3.json](./248243-sphere-3.json) |
 | Sphere Arena | 166762 | [166762-sphere-arena.json](./166762-sphere-arena.json) |
 | Sphere Complex | 30661 | [30661-sphere-complex.json](./30661-sphere-complex.json) |
 | Sphere Frustration | 43170 | [43170-sphere-frustration.json](./43170-sphere-frustration.json) |
@@ -19435,6 +19439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Man: Island of Ghost to Mystic Diary 3D | 174252 | [174252-spooky-man-island-of-ghost-to-mystic-diary-3d.json](./174252-spooky-man-island-of-ghost-to-mystic-diary-3d.json) |
 | Spooky Manor | 62422 | [62422-spooky-manor.json](./62422-spooky-manor.json) |
 | Spooky Mansion Manager | 213546 | [213546-spooky-mansion-manager.json](./213546-spooky-mansion-manager.json) |
+| Spooky Men | 248230 | [248230-spooky-men.json](./248230-spooky-men.json) |
 | Spooky Milk Life | 208631 | [208631-spooky-milk-life.json](./208631-spooky-milk-life.json) |
 | Spooky Monster | 374372 | [374372-spooky-monster.json](./374372-spooky-monster.json) |
 | Spooky Murder House | 369242 | [369242-spooky-murder-house.json](./369242-spooky-murder-house.json) |
@@ -28977,6 +28982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superfly | 44367 | [44367-superfly.json](./44367-superfly.json) |
 | Superfly Santa Claus | 62212 | [62212-superfly-santa-claus.json](./62212-superfly-santa-claus.json) |
 | Superfrog HD | 8873 | [8873-superfrog-hd.json](./8873-superfrog-hd.json) |
+| Supergalactix | 248241 | [248241-supergalactix.json](./248241-supergalactix.json) |
 | Supergun | 241200 | [241200-supergun.json](./241200-supergun.json) |
 | Superguy and Megaboy | 316615 | [316615-superguy-and-megaboy.json](./316615-superguy-and-megaboy.json) |
 | SuperHer | 63037 | [63037-superher.json](./63037-superher.json) |
