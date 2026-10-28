@@ -9081,6 +9081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sillouhettes of Phobos | 274212 | [274212-sillouhettes-of-phobos.json](./274212-sillouhettes-of-phobos.json) |
 | Silly Bandz | 10620 | [10620-silly-bandz.json](./10620-silly-bandz.json) |
 | Silly Billy | 295397 | [295397-silly-billy.json](./295397-silly-billy.json) |
+| Silly Employee | 279811 | [279811-silly-employee.json](./279811-silly-employee.json) |
 | Silly Frog | 261664 | [261664-silly-frog.json](./261664-silly-frog.json) |
 | Silly Linguine Cat Simulator Deluxe Online | 396383 | [396383-silly-linguine-cat-simulator-deluxe-online.json](./396383-silly-linguine-cat-simulator-deluxe-online.json) |
 | Silly Little Guys | 300270 | [300270-silly-little-guys.json](./300270-silly-little-guys.json) |
@@ -11547,6 +11548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slightly Heroes | 112852 | [112852-slightly-heroes.json](./112852-slightly-heroes.json) |
 | Slightly Magic | 97124 | [97124-slightly-magic.json](./97124-slightly-magic.json) |
 | Slightly Magic: 8bit Legacy Edition | 32573 | [32573-slightly-magic-8bit-legacy-edition.json](./32573-slightly-magic-8bit-legacy-edition.json) |
+| SligStorm | 279453 | [279453-sligstorm.json](./279453-sligstorm.json) |
 | Sliiide! | 221757 | [221757-sliiide.json](./221757-sliiide.json) |
 | Sliko | 156141 | [156141-sliko.json](./156141-sliko.json) |
 | Slim World | 101930 | [101930-slim-world.json](./101930-slim-world.json) |
@@ -11726,6 +11728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sling Kings: Supercharged Chess | 236020 | [236020-sling-kings-supercharged-chess.json](./236020-sling-kings-supercharged-chess.json) |
 | Sling Ming | 74400 | [74400-sling-ming.json](./74400-sling-ming.json) |
 | Sling Puzzle: Golf Master | 277731 | [277731-sling-puzzle-golf-master.json](./277731-sling-puzzle-golf-master.json) |
+| Sling-A-Thing | 279457 | [279457-sling-a-thing.json](./279457-sling-a-thing.json) |
 | Slingbot Survivors | 336465 | [336465-slingbot-survivors.json](./336465-slingbot-survivors.json) |
 | Slingbox | 371995 | [371995-slingbox.json](./371995-slingbox.json) |
 | Slinger | 255955 | [255955-slinger.json](./255955-slinger.json) |
@@ -15415,6 +15418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: Frame by Frame | 334630 | [334630-sonic-frame-by-frame.json](./334630-sonic-frame-by-frame.json) |
 | Sonic: Into the Void | 256299 | [256299-sonic-into-the-void.json](./256299-sonic-into-the-void.json) |
 | Sonic: Light and Darkness | 330292 | [330292-sonic-light-and-darkness.json](./330292-sonic-light-and-darkness.json) |
+| Sonic: Lock & Load | 279794 | [279794-sonic-lock-and-load.json](./279794-sonic-lock-and-load.json) |
 | Sonic: Lost in Nightmare World | 337171 | [337171-sonic-lost-in-nightmare-world.json](./337171-sonic-lost-in-nightmare-world.json) |
 | Sonic: Maniac Adventure | 334141 | [334141-sonic-maniac-adventure.json](./334141-sonic-maniac-adventure.json) |
 | Sonic: Power Rings | 330699 | [330699-sonic-power-rings.json](./330699-sonic-power-rings.json) |
@@ -30006,6 +30010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Shop | 376813 | [376813-sweet-shop.json](./376813-sweet-shop.json) |
 | Sweet Shop | 90376 | [90376-sweet-shop.json](./90376-sweet-shop.json) |
 | Sweet Sins: Kawaii Run | 245755 | [245755-sweet-sins-kawaii-run.json](./245755-sweet-sins-kawaii-run.json) |
+| Sweet Skullvivors | 279814 | [279814-sweet-skullvivors.json](./279814-sweet-skullvivors.json) |
 | Sweet Sky | 325897 | [325897-sweet-sky.json](./325897-sweet-sky.json) |
 | Sweet Slaughter | 345802 | [345802-sweet-slaughter.json](./345802-sweet-slaughter.json) |
 | Sweet Slave | 339442 | [339442-sweet-slave.json](./339442-sweet-slave.json) |
