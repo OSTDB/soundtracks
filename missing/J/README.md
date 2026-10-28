@@ -2017,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JNKPlat Slots | 79171 | [79171-jnkplat-slots.json](./79171-jnkplat-slots.json) |
 | JNZ: Nightmare Girls | 340773 | [340773-jnz-nightmare-girls.json](./340773-jnz-nightmare-girls.json) |
 | Jo and Momo: Forest Rush | 101774 | [101774-jo-and-momo-forest-rush.json](./101774-jo-and-momo-forest-rush.json) |
+| Jo Jo Wo | 239824 | [239824-jo-jo-wo.json](./239824-jo-jo-wo.json) |
 | Jo-Jo Fighter | 182366 | [182366-jo-jo-fighter.json](./182366-jo-jo-fighter.json) |
 | Jo's Dream: Organic Coffee | 123638 | [123638-jos-dream-organic-coffee.json](./123638-jos-dream-organic-coffee.json) |
 | Jo's House | 177391 | [177391-jos-house.json](./177391-jos-house.json) |
