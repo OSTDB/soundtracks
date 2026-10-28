@@ -2435,6 +2435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Crew Simulator | 418319 | [418319-taxi-crew-simulator.json](./418319-taxi-crew-simulator.json) |
 | Taxi Driver Simulation 2025 | 328476 | [328476-taxi-driver-simulation-2025.json](./328476-taxi-driver-simulation-2025.json) |
 | Taxi Driver Simulator | 366222 | [366222-taxi-driver-simulator.json](./366222-taxi-driver-simulator.json) |
+| Taxi Driver Simulator 2024 | 270476 | [270476-taxi-driver-simulator-2024.json](./270476-taxi-driver-simulator-2024.json) |
 | Taxi Driver Simulator: Car Parking | 234515 | [234515-taxi-driver-simulator-car-parking.json](./234515-taxi-driver-simulator-car-parking.json) |
 | Taxi Driver: The Simulation | 147760 | [147760-taxi-driver-the-simulation.json](./147760-taxi-driver-the-simulation.json) |
 | Taxi Game 2 | 100807 | [100807-taxi-game-2.json](./100807-taxi-game-2.json) |
@@ -3641,8 +3642,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi no uta: The Angel's Verse | 385075 | [385075-tenshi-no-uta-the-angels-verse.json](./385075-tenshi-no-uta-the-angels-verse.json) |
 | Tenshi no Uta: The Angel's Verse Collection | 409512 | [409512-tenshi-no-uta-the-angels-verse-collection.json](./409512-tenshi-no-uta-the-angels-verse-collection.json) |
 | Tenshi Sword Quest | 389935 | [389935-tenshi-sword-quest.json](./389935-tenshi-sword-quest.json) |
+| Tenshi-tachi no Gogo Collection | 270809 | [270809-tenshi-tachi-no-gogo-collection.json](./270809-tenshi-tachi-no-gogo-collection.json) |
 | Tenshi-tachi no Gogo II: Minako | 247182 | [247182-tenshi-tachi-no-gogo-ii-minako.json](./247182-tenshi-tachi-no-gogo-ii-minako.json) |
 | Tenshi-tachi no Gogo III: Bangai-hen | 270791 | [270791-tenshi-tachi-no-gogo-iii-bangai-hen.json](./270791-tenshi-tachi-no-gogo-iii-bangai-hen.json) |
+| Tenshi-tachi no Gogo III: Ribbon | 270801 | [270801-tenshi-tachi-no-gogo-iii-ribbon.json](./270801-tenshi-tachi-no-gogo-iii-ribbon.json) |
 | Tenshi-tachi no Gogo IV: Yuuko | 271421 | [271421-tenshi-tachi-no-gogo-iv-yuuko.json](./271421-tenshi-tachi-no-gogo-iv-yuuko.json) |
 | Tenshi-tachi no Gogo Special 2 | 271709 | [271709-tenshi-tachi-no-gogo-special-2.json](./271709-tenshi-tachi-no-gogo-special-2.json) |
 | Tenshi-tachi no Gogo V: Nerawareta Tenshi | 271708 | [271708-tenshi-tachi-no-gogo-v-nerawareta-tenshi.json](./271708-tenshi-tachi-no-gogo-v-nerawareta-tenshi.json) |
@@ -9029,6 +9032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hamlet | 326991 | [326991-the-hamlet.json](./326991-the-hamlet.json) |
 | The Hammer's End: A Fae's Journey | 145954 | [145954-the-hammers-end-a-faes-journey.json](./145954-the-hammers-end-a-faes-journey.json) |
 | The Hamster | 314361 | [314361-the-hamster.json](./314361-the-hamster.json) |
+| The Hamster's Journey | 270494 | [270494-the-hamsters-journey.json](./270494-the-hamsters-journey.json) |
 | The Hand | 40351 | [40351-the-hand.json](./40351-the-hand.json) |
 | The Hand is Faster than the Eye | 318227 | [318227-the-hand-is-faster-than-the-eye.json](./318227-the-hand-is-faster-than-the-eye.json) |
 | The Hand of Glory | 111103 | [111103-the-hand-of-glory.json](./111103-the-hand-of-glory.json) |
@@ -25763,6 +25767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped in the Forest | 190055 | [190055-trapped-in-the-forest.json](./190055-trapped-in-the-forest.json) |
 | Trapped in the Kanal | 259538 | [259538-trapped-in-the-kanal.json](./259538-trapped-in-the-kanal.json) |
 | Trapped in the Omniverse | 392113 | [392113-trapped-in-the-omniverse.json](./392113-trapped-in-the-omniverse.json) |
+| Trapped in The Tricky Prison | 270478 | [270478-trapped-in-the-tricky-prison.json](./270478-trapped-in-the-tricky-prison.json) |
 | Trapped Inside a Train (And There's Nothing You Can Do About It) | 299304 | [299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json](./299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json) |
 | Trapped on Monster Island | 116507 | [116507-trapped-on-monster-island.json](./116507-trapped-on-monster-island.json) |
 | Trapped Out | 338612 | [338612-trapped-out.json](./338612-trapped-out.json) |
@@ -26441,6 +26446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribefort | 242428 | [242428-tribefort.json](./242428-tribefort.json) |
 | TribeQuest: Red Killer | 34771 | [34771-tribequest-red-killer.json](./34771-tribequest-red-killer.json) |
 | Tribes | 348754 | [348754-tribes.json](./348754-tribes.json) |
+| Tribes & Monsters | 270510 | [270510-tribes-and-monsters.json](./270510-tribes-and-monsters.json) |
 | Tribes 2 | 922 | [922-tribes-2.json](./922-tribes-2.json) |
 | Tribes 3: Rivals | 278321 | [278321-tribes-3-rivals.json](./278321-tribes-3-rivals.json) |
 | Tribes Action Pack | 100118 | [100118-tribes-action-pack.json](./100118-tribes-action-pack.json) |
