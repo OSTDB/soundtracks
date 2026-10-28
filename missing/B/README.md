@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
 | Bad Rats | 8582 | [8582-bad-rats.json](./8582-bad-rats.json) |
+| Bad Rats Revenge | 255480 | [255480-bad-rats-revenge.json](./255480-bad-rats-revenge.json) |
 | Bad Rats Show | 27510 | [27510-bad-rats-show.json](./27510-bad-rats-show.json) |
 | Bad Roads | 256432 | [256432-bad-roads.json](./256432-bad-roads.json) |
 | Bad Run: Turbo Edition | 132670 | [132670-bad-run-turbo-edition.json](./132670-bad-run-turbo-edition.json) |
