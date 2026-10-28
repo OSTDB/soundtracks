@@ -1795,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldrador Creatures: Shadowfall | 324762 | [324762-eldrador-creatures-shadowfall.json](./324762-eldrador-creatures-shadowfall.json) |
 | Eldramoor: Haven in the Mist | 397671 | [397671-eldramoor-haven-in-the-mist.json](./397671-eldramoor-haven-in-the-mist.json) |
 | Eldrian Legacy | 109524 | [109524-eldrian-legacy.json](./109524-eldrian-legacy.json) |
+| Eldrimar | 244064 | [244064-eldrimar.json](./244064-eldrimar.json) |
 | Eldrimar: The Card Game | 261638 | [261638-eldrimar-the-card-game.json](./261638-eldrimar-the-card-game.json) |
 | Eldritch | 8070 | [8070-eldritch.json](./8070-eldritch.json) |
 | Eldritch 2 | 342674 | [342674-eldritch-2.json](./342674-eldritch-2.json) |
