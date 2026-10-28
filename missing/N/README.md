@@ -2589,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Alone: Foxtales | 14549 | [14549-never-alone-foxtales.json](./14549-never-alone-foxtales.json) |
 | Never Alone: Ki Edition | 39251 | [39251-never-alone-ki-edition.json](./39251-never-alone-ki-edition.json) |
 | Never Alone: Kisima Ingitchuna | 7618 | [7618-never-alone-kisima-ingitchuna.json](./7618-never-alone-kisima-ingitchuna.json) |
+| Never be Afraid: Slam Dunk! | 277132 | [277132-never-be-afraid-slam-dunk.json](./277132-never-be-afraid-slam-dunk.json) |
 | Never Breakup | 107968 | [107968-never-breakup.json](./107968-never-breakup.json) |
 | Never Clean | 392782 | [392782-never-clean.json](./392782-never-clean.json) |
 | Never Date Werewolves | 130137 | [130137-never-date-werewolves.json](./130137-never-date-werewolves.json) |
@@ -2824,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Legends | 18268 | [18268-new-legends.json](./18268-new-legends.json) |
 | New Lethes | 16993 | [16993-new-lethes.json](./16993-new-lethes.json) |
 | New Life | 311796 | [311796-new-life.json](./311796-new-life.json) |
+| New Life of Aged Town | 277133 | [277133-new-life-of-aged-town.json](./277133-new-life-of-aged-town.json) |
 | New Little King's Story | 19911 | [19911-new-little-kings-story.json](./19911-new-little-kings-story.json) |
 | New LovePlus | 92165 | [92165-new-loveplus.json](./92165-new-loveplus.json) |
 | New LovePlus: Manaka Complete Set | 89886 | [89886-new-loveplus-manaka-complete-set.json](./89886-new-loveplus-manaka-complete-set.json) |
