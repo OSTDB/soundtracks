@@ -3232,6 +3232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrubs | 59625 | [59625-scrubs.json](./59625-scrubs.json) |
 | Scruffy 3: A Day in the Life | 265683 | [265683-scruffy-3-a-day-in-the-life.json](./265683-scruffy-3-a-day-in-the-life.json) |
 | Scruffy's Quest | 265681 | [265681-scruffys-quest.json](./265681-scruffys-quest.json) |
+| Scrum Down | 244289 | [244289-scrum-down.json](./244289-scrum-down.json) |
 | Scrumlords | 260634 | [260634-scrumlords.json](./260634-scrumlords.json) |
 | Scrunk | 104027 | [104027-scrunk.json](./104027-scrunk.json) |
 | Scrutator Tenebris | 382174 | [382174-scrutator-tenebris.json](./382174-scrutator-tenebris.json) |
@@ -12366,6 +12367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Remix: Version 1.4.0 | 255787 | [255787-smash-remix-version-1-4-0.json](./255787-smash-remix-version-1-4-0.json) |
 | Smash Remix: Version 2.0.0 | 351064 | [351064-smash-remix-version-2-0-0.json](./351064-smash-remix-version-2-0-0.json) |
 | Smash Reversi | 167287 | [167287-smash-reversi.json](./167287-smash-reversi.json) |
+| Smash Room | 244432 | [244432-smash-room.json](./244432-smash-room.json) |
 | Smash Runner | 259164 | [259164-smash-runner.json](./259164-smash-runner.json) |
 | Smash Runner! | 223912 | [223912-smash-runner.json](./223912-smash-runner.json) |
 | Smash Rush | 127183 | [127183-smash-rush.json](./127183-smash-rush.json) |
@@ -20004,6 +20006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Conflicts | 174906 | [174906-squad-conflicts.json](./174906-squad-conflicts.json) |
 | Squad Game | 242956 | [242956-squad-game.json](./242956-squad-game.json) |
 | Squad Legends: Battle Royale | 417281 | [417281-squad-legends-battle-royale.json](./417281-squad-legends-battle-royale.json) |
+| Squad Tactics | 244415 | [244415-squad-tactics.json](./244415-squad-tactics.json) |
 | Squad Z | 105071 | [105071-squad-z.json](./105071-squad-z.json) |
 | Squad: Canadian Armed Forces | 170368 | [170368-squad-canadian-armed-forces.json](./170368-squad-canadian-armed-forces.json) |
 | SquadBlast | 202686 | [202686-squadblast.json](./202686-squadblast.json) |
@@ -21661,6 +21664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stario: Haven Tower | 317782 | [317782-stario-haven-tower.json](./317782-stario-haven-tower.json) |
 | Starion | 23056 | [23056-starion.json](./23056-starion.json) |
 | Starion Tactics | 10891 | [10891-starion-tactics.json](./10891-starion-tactics.json) |
+| Starithm | 244290 | [244290-starithm.json](./244290-starithm.json) |
 | Starium | 335796 | [335796-starium.json](./335796-starium.json) |
 | Starjet Fights | 246778 | [246778-starjet-fights.json](./246778-starjet-fights.json) |
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
