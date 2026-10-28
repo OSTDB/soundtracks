@@ -4801,6 +4801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IOI Collection | 154503 | [154503-ioi-collection.json](./154503-ioi-collection.json) |
 | Ion | 11136 | [11136-ion.json](./11136-ion.json) |
 | Ion Assault HD | 52244 | [52244-ion-assault-hd.json](./52244-ion-assault-hd.json) |
+| Ion Fury + Aftershock | 274835 | [274835-ion-fury-aftershock.json](./274835-ion-fury-aftershock.json) |
 | Ion Fury: Aftershock | 145471 | [145471-ion-fury-aftershock.json](./145471-ion-fury-aftershock.json) |
 | Ion Shift | 257941 | [257941-ion-shift.json](./257941-ion-shift.json) |
 | Ion.A | 290541 | [290541-ion-a.json](./290541-ion-a.json) |
