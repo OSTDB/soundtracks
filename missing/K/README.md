@@ -2717,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Universe | 188878 | [188878-king-of-the-universe.json](./188878-king-of-the-universe.json) |
 | King of the West | 231986 | [231986-king-of-the-west.json](./231986-king-of-the-west.json) |
 | King of the World | 28996 | [28996-king-of-the-world.json](./28996-king-of-the-world.json) |
+| King of Throwing | 277441 | [277441-king-of-throwing.json](./277441-king-of-throwing.json) |
 | King of Tokyo | 391281 | [391281-king-of-tokyo.json](./391281-king-of-tokyo.json) |
 | King of Unblock | 101524 | [101524-king-of-unblock.json](./101524-king-of-unblock.json) |
 | King of Vikings | 130247 | [130247-king-of-vikings.json](./130247-king-of-vikings.json) |
@@ -3075,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings and Generals: A Divided Loyalty | 60249 | [60249-kings-and-generals-a-divided-loyalty.json](./60249-kings-and-generals-a-divided-loyalty.json) |
 | Kings and Legends | 62791 | [62791-kings-and-legends.json](./62791-kings-and-legends.json) |
 | Kings and Pigs | 152937 | [152937-kings-and-pigs.json](./152937-kings-and-pigs.json) |
+| Kings Call | 277450 | [277450-kings-call.json](./277450-kings-call.json) |
 | Kings Do Not Fall | 394484 | [394484-kings-do-not-fall.json](./394484-kings-do-not-fall.json) |
 | Kings Era | 98012 | [98012-kings-era.json](./98012-kings-era.json) |
 | Kings Hero 2 | 175359 | [175359-kings-hero-2.json](./175359-kings-hero-2.json) |
@@ -3307,6 +3309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiritan vs. Kanitan: Zunda-mochi Defense! | 114869 | [114869-kiritan-vs-kanitan-zunda-mochi-defense.json](./114869-kiritan-vs-kanitan-zunda-mochi-defense.json) |
 | Kirka Drive | 222474 | [222474-kirka-drive.json](./222474-kirka-drive.json) |
 | Kirka.io | 152476 | [152476-kirka-io.json](./152476-kirka-io.json) |
+| Kirmis | 277134 | [277134-kirmis.json](./277134-kirmis.json) |
 | Kiro | 138741 | [138741-kiro.json](./138741-kiro.json) |
 | Kiro Ramy Story: The Junior | 123582 | [123582-kiro-ramy-story-the-junior.json](./123582-kiro-ramy-story-the-junior.json) |
 | Kiru Kiru Kiru | 257913 | [257913-kiru-kiru-kiru.json](./257913-kiru-kiru-kiru.json) |
