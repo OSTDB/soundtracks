@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-27T23:48:48.524Z",
-  "total_missing": 272117,
+  "generated_at": "2026-10-28T00:04:20.064Z",
+  "total_missing": 272169,
   "games": [
     {
       "igdb_id": 191680,
@@ -98190,6 +98190,11 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
+    },
+    {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -221897,6 +221902,11 @@
       "file": "missing/C/230196-coin-pusher-casino.json"
     },
     {
+      "igdb_id": 280382,
+      "game_name": "Coin Pusher Live",
+      "file": "missing/C/280382-coin-pusher-live.json"
+    },
+    {
       "igdb_id": 286144,
       "game_name": "Coin Pusher World: 2 Bed 4 Pusher World",
       "file": "missing/C/286144-coin-pusher-world-2-bed-4-pusher-world.json"
@@ -223530,6 +223540,11 @@
       "igdb_id": 52520,
       "game_name": "Colony Defense",
       "file": "missing/C/52520-colony-defense.json"
+    },
+    {
+      "igdb_id": 280068,
+      "game_name": "Colony Defense: The Ultimate Minimalist Tower Base Defense Game",
+      "file": "missing/C/280068-colony-defense-the-ultimate-minimalist-tower-base-defense-game.json"
     },
     {
       "igdb_id": 418244,
@@ -260087,6 +260102,11 @@
       "file": "missing/C/245936-cyber-tamer.json"
     },
     {
+      "igdb_id": 280055,
+      "game_name": "Cyber Tank",
+      "file": "missing/C/280055-cyber-tank.json"
+    },
+    {
       "igdb_id": 40107,
       "game_name": "Cyber Tank",
       "file": "missing/C/40107-cyber-tank.json"
@@ -288845,6 +288865,11 @@
       "igdb_id": 194737,
       "game_name": "Demeo: PC Edition",
       "file": "missing/D/194737-demeo-pc-edition.json"
+    },
+    {
+      "igdb_id": 280059,
+      "game_name": "Demeter",
+      "file": "missing/D/280059-demeter.json"
     },
     {
       "igdb_id": 166843,
@@ -393265,6 +393290,11 @@
       "igdb_id": 79893,
       "game_name": "Fashion Week: Junior Stylist",
       "file": "missing/F/79893-fashion-week-junior-stylist.json"
+    },
+    {
+      "igdb_id": 280069,
+      "game_name": "Fashion World",
+      "file": "missing/F/280069-fashion-world.json"
     },
     {
       "igdb_id": 292917,
@@ -511487,6 +511517,11 @@
       "file": "missing/H/365432-hentai-girls-christmas.json"
     },
     {
+      "igdb_id": 280067,
+      "game_name": "Hentai Girls: College Crush",
+      "file": "missing/H/280067-hentai-girls-college-crush.json"
+    },
+    {
       "igdb_id": 325018,
       "game_name": "Hentai Girls: College Romance",
       "file": "missing/H/325018-hentai-girls-college-romance.json"
@@ -534415,6 +534450,11 @@
       "igdb_id": 278641,
       "game_name": "Host Security Guard",
       "file": "missing/H/278641-host-security-guard.json"
+    },
+    {
+      "igdb_id": 280062,
+      "game_name": "Host Security Guard",
+      "file": "missing/H/280062-host-security-guard.json"
     },
     {
       "igdb_id": 184226,
@@ -604857,6 +604897,11 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
+    },
+    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -620677,6 +620722,11 @@
       "file": "missing/L/285881-la-boite-a-bidules-de-loncle-ernest.json"
     },
     {
+      "igdb_id": 280058,
+      "game_name": "La Búsqueda del Dilmun: La Tabla de Rawls",
+      "file": "missing/L/280058-la-busqueda-del-dilmun-la-tabla-de-rawls.json"
+    },
+    {
       "igdb_id": 323172,
       "game_name": "La Carbonara",
       "file": "missing/L/323172-la-carbonara.json"
@@ -625260,6 +625310,11 @@
       "igdb_id": 336625,
       "game_name": "Last Box Standing May Go On",
       "file": "missing/L/336625-last-box-standing-may-go-on.json"
+    },
+    {
+      "igdb_id": 280065,
+      "game_name": "Last Breakers",
+      "file": "missing/L/280065-last-breakers.json"
     },
     {
       "igdb_id": 373619,
@@ -633610,6 +633665,11 @@
       "igdb_id": 343211,
       "game_name": "LEGO Exo-Force: Sentai Showdown",
       "file": "missing/L/343211-lego-exo-force-sentai-showdown.json"
+    },
+    {
+      "igdb_id": 280050,
+      "game_name": "LEGO Five Nights at Freddy's",
+      "file": "missing/L/280050-lego-five-nights-at-freddys.json"
     },
     {
       "igdb_id": 325544,
@@ -731325,6 +731385,11 @@
       "igdb_id": 341331,
       "game_name": "Monster Grid",
       "file": "missing/M/341331-monster-grid.json"
+    },
+    {
+      "igdb_id": 280385,
+      "game_name": "Monster Grinder Ultra",
+      "file": "missing/M/280385-monster-grinder-ultra.json"
     },
     {
       "igdb_id": 49716,
@@ -829542,6 +829607,11 @@
       "file": "missing/P/256460-party-party-time-character-skin-pack-2.json"
     },
     {
+      "igdb_id": 280063,
+      "game_name": "Party Party Time: Excitement Happy Thrilling Power 4 Pack Set",
+      "file": "missing/P/280063-party-party-time-excitement-happy-thrilling-power-4-pack-set.json"
+    },
+    {
       "igdb_id": 253804,
       "game_name": "Party Party Time: Excitement Pack",
       "file": "missing/P/253804-party-party-time-excitement-pack.json"
@@ -832150,6 +832220,11 @@
       "igdb_id": 312062,
       "game_name": "Pawfectly Designed: Deluxe Edition",
       "file": "missing/P/312062-pawfectly-designed-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 280066,
+      "game_name": "Pawfectly Designed: Extended Edition",
+      "file": "missing/P/280066-pawfectly-designed-extended-edition.json"
     },
     {
       "igdb_id": 390162,
@@ -860797,6 +860872,11 @@
       "file": "missing/P/151565-please-dont-touch-anything-classic.json"
     },
     {
+      "igdb_id": 280061,
+      "game_name": "Please, Don't Touch Anything: House Broken",
+      "file": "missing/P/280061-please-dont-touch-anything-house-broken.json"
+    },
+    {
       "igdb_id": 256995,
       "game_name": "Please, Forgive Me",
       "file": "missing/P/256995-please-forgive-me.json"
@@ -880572,14 +880652,29 @@
       "file": "missing/P/78302-princess-maker-collection.json"
     },
     {
+      "igdb_id": 280048,
+      "game_name": "Princess Maker for Kakao",
+      "file": "missing/P/280048-princess-maker-for-kakao.json"
+    },
+    {
       "igdb_id": 64809,
       "game_name": "Princess Maker Pocket Dai-sakusen",
       "file": "missing/P/64809-princess-maker-pocket-dai-sakusen.json"
     },
     {
+      "igdb_id": 280046,
+      "game_name": "Princess Maker Q",
+      "file": "missing/P/280046-princess-maker-q.json"
+    },
+    {
       "igdb_id": 27317,
       "game_name": "Princess Maker Refine",
       "file": "missing/P/27317-princess-maker-refine.json"
+    },
+    {
+      "igdb_id": 280049,
+      "game_name": "Princess Maker Social",
+      "file": "missing/P/280049-princess-maker-social.json"
     },
     {
       "igdb_id": 316082,
@@ -884145,6 +884240,11 @@
       "igdb_id": 247959,
       "game_name": "Profi Girls",
       "file": "missing/P/247959-profi-girls.json"
+    },
+    {
+      "igdb_id": 280384,
+      "game_name": "Profiler Files: New Orleans",
+      "file": "missing/P/280384-profiler-files-new-orleans.json"
     },
     {
       "igdb_id": 262360,
@@ -909295,6 +909395,11 @@
       "igdb_id": 23601,
       "game_name": "Rail Rider",
       "file": "missing/R/23601-rail-rider.json"
+    },
+    {
+      "igdb_id": 280057,
+      "game_name": "Rail Romanesque Origin",
+      "file": "missing/R/280057-rail-romanesque-origin.json"
     },
     {
       "igdb_id": 145422,
@@ -960572,6 +960677,11 @@
       "file": "missing/R/17993-ryb.json"
     },
     {
+      "igdb_id": 280381,
+      "game_name": "RYBot",
+      "file": "missing/R/280381-rybot.json"
+    },
+    {
       "igdb_id": 262387,
       "game_name": "Ryceam",
       "file": "missing/R/262387-ryceam.json"
@@ -978282,6 +978392,11 @@
       "file": "missing/S/49386-sea-trader-rise-of-taipan.json"
     },
     {
+      "igdb_id": 280380,
+      "game_name": "Sea under the sea under the sea",
+      "file": "missing/S/280380-sea-under-the-sea-under-the-sea.json"
+    },
+    {
       "igdb_id": 168633,
       "game_name": "Sea War",
       "file": "missing/S/168633-sea-war.json"
@@ -988755,6 +988870,11 @@
       "igdb_id": 182453,
       "game_name": "Shades of Manhattan 2",
       "file": "missing/S/182453-shades-of-manhattan-2.json"
+    },
+    {
+      "igdb_id": 280379,
+      "game_name": "Shades of Rayna: Lasher Class",
+      "file": "missing/S/280379-shades-of-rayna-lasher-class.json"
     },
     {
       "igdb_id": 161616,
@@ -1000750,6 +1000870,11 @@
       "igdb_id": 293214,
       "game_name": "Shot & Dread Online",
       "file": "missing/S/293214-shot-and-dread-online.json"
+    },
+    {
+      "igdb_id": 280056,
+      "game_name": "Shot Block",
+      "file": "missing/S/280056-shot-block.json"
     },
     {
       "igdb_id": 359303,
@@ -1013342,6 +1013467,11 @@
       "file": "missing/S/224428-skirmish-mayhem.json"
     },
     {
+      "igdb_id": 280377,
+      "game_name": "Skirmish Squad",
+      "file": "missing/S/280377-skirmish-squad.json"
+    },
+    {
       "igdb_id": 223368,
       "game_name": "Skirmishers",
       "file": "missing/S/223368-skirmishers.json"
@@ -1013755,6 +1013885,11 @@
       "igdb_id": 231240,
       "game_name": "Skullgirls: 2nd Encore - Umbrella",
       "file": "missing/S/231240-skullgirls-2nd-encore-umbrella.json"
+    },
+    {
+      "igdb_id": 280378,
+      "game_name": "Skullgirls: Marie",
+      "file": "missing/S/280378-skullgirls-marie.json"
     },
     {
       "igdb_id": 370325,
@@ -1033190,6 +1033325,11 @@
       "igdb_id": 319043,
       "game_name": "Sonar Scout",
       "file": "missing/S/319043-sonar-scout.json"
+    },
+    {
+      "igdb_id": 280376,
+      "game_name": "Sonar Shock",
+      "file": "missing/S/280376-sonar-shock.json"
     },
     {
       "igdb_id": 271137,
@@ -1055007,6 +1055147,11 @@
       "file": "missing/S/54219-spirits-embrace.json"
     },
     {
+      "igdb_id": 280375,
+      "game_name": "Spirita Battler",
+      "file": "missing/S/280375-spirita-battler.json"
+    },
+    {
       "igdb_id": 415183,
       "game_name": "Spiritbound: The Goddess's Quest",
       "file": "missing/S/415183-spiritbound-the-goddesss-quest.json"
@@ -1060890,6 +1061035,11 @@
       "igdb_id": 122165,
       "game_name": "Squirrel Jump",
       "file": "missing/S/122165-squirrel-jump.json"
+    },
+    {
+      "igdb_id": 280367,
+      "game_name": "Squirrel Jump: Forest Pathway",
+      "file": "missing/S/280367-squirrel-jump-forest-pathway.json"
     },
     {
       "igdb_id": 298145,
@@ -1103730,6 +1103880,11 @@
       "igdb_id": 306006,
       "game_name": "Super Yum Yum",
       "file": "missing/S/306006-super-yum-yum.json"
+    },
+    {
+      "igdb_id": 280052,
+      "game_name": "Super Yum Yum 2",
+      "file": "missing/S/280052-super-yum-yum-2.json"
     },
     {
       "igdb_id": 23266,
@@ -1197077,6 +1197232,11 @@
       "file": "missing/T/185439-the-wheel.json"
     },
     {
+      "igdb_id": 280054,
+      "game_name": "The Wheel",
+      "file": "missing/T/280054-the-wheel.json"
+    },
+    {
       "igdb_id": 182396,
       "game_name": "The Wheel of Fortune",
       "file": "missing/T/182396-the-wheel-of-fortune.json"
@@ -1199472,6 +1199632,11 @@
       "file": "missing/T/206795-thehunter-call-of-the-wild-bloodhound.json"
     },
     {
+      "igdb_id": 280368,
+      "game_name": "TheHunter: Call of the Wild - Cuatro Colinas Cosmetic Pack",
+      "file": "missing/T/280368-thehunter-call-of-the-wild-cuatro-colinas-cosmetic-pack.json"
+    },
+    {
       "igdb_id": 154340,
       "game_name": "TheHunter: Call of the Wild - Cuatro Colinas Game Reserve",
       "file": "missing/T/154340-thehunter-call-of-the-wild-cuatro-colinas-game-reserve.json"
@@ -1199527,6 +1199692,11 @@
       "file": "missing/T/271134-thehunter-call-of-the-wild-medved-taiga-cosmetic-pack.json"
     },
     {
+      "igdb_id": 280369,
+      "game_name": "TheHunter: Call of the Wild - Mississippi Acres Cosmetic Pack",
+      "file": "missing/T/280369-thehunter-call-of-the-wild-mississippi-acres-cosmetic-pack.json"
+    },
+    {
       "igdb_id": 331917,
       "game_name": "TheHunter: Call of the Wild - Mississippi Acres Preserve Cosmetic Pack",
       "file": "missing/T/331917-thehunter-call-of-the-wild-mississippi-acres-preserve-cosmetic-pack.json"
@@ -1199567,6 +1199737,11 @@
       "file": "missing/T/154335-thehunter-call-of-the-wild-rancho-del-arroyo.json"
     },
     {
+      "igdb_id": 280370,
+      "game_name": "TheHunter: Call of the Wild - Rancho del Arroyo Cosmetic Pack",
+      "file": "missing/T/280370-thehunter-call-of-the-wild-rancho-del-arroyo-cosmetic-pack.json"
+    },
+    {
       "igdb_id": 355063,
       "game_name": "TheHunter: Call of the Wild - Rapid Hunt Rifle Pack",
       "file": "missing/T/355063-thehunter-call-of-the-wild-rapid-hunt-rifle-pack.json"
@@ -1199580,6 +1199755,11 @@
       "igdb_id": 271466,
       "game_name": "TheHunter: Call of the Wild - Reserve Cosmetics Bundle 1",
       "file": "missing/T/271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json"
+    },
+    {
+      "igdb_id": 280371,
+      "game_name": "TheHunter: Call of the Wild - Revontuli Coast Cosmetic Pack",
+      "file": "missing/T/280371-thehunter-call-of-the-wild-revontuli-coast-cosmetic-pack.json"
     },
     {
       "igdb_id": 206798,
@@ -1199602,6 +1199782,11 @@
       "file": "missing/T/154339-thehunter-call-of-the-wild-silver-ridge-peaks.json"
     },
     {
+      "igdb_id": 280372,
+      "game_name": "TheHunter: Call of the Wild - Silver Ridge Peaks Cosmetic Pack",
+      "file": "missing/T/280372-thehunter-call-of-the-wild-silver-ridge-peaks-cosmetic-pack.json"
+    },
+    {
       "igdb_id": 206797,
       "game_name": "TheHunter: Call of the Wild - Smoking Barrels Weapon Pack",
       "file": "missing/T/206797-thehunter-call-of-the-wild-smoking-barrels-weapon-pack.json"
@@ -1199615,6 +1199800,11 @@
       "igdb_id": 305517,
       "game_name": "TheHunter: Call of the Wild - Sundarpatan Nepal Hunting Reserve",
       "file": "missing/T/305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json"
+    },
+    {
+      "igdb_id": 280373,
+      "game_name": "TheHunter: Call of the Wild - Te Awaroa Cosmetic Pack",
+      "file": "missing/T/280373-thehunter-call-of-the-wild-te-awaroa-cosmetic-pack.json"
     },
     {
       "igdb_id": 154338,
@@ -1199680,6 +1199870,11 @@
       "igdb_id": 206816,
       "game_name": "TheHunter: Call of the Wild - Wild Goose Chase Gear",
       "file": "missing/T/206816-thehunter-call-of-the-wild-wild-goose-chase-gear.json"
+    },
+    {
+      "igdb_id": 280374,
+      "game_name": "TheHunter: Call of the Wild - Yukon Valley Cosmetic Pack",
+      "file": "missing/T/280374-thehunter-call-of-the-wild-yukon-valley-cosmetic-pack.json"
     },
     {
       "igdb_id": 10347,
@@ -1232052,6 +1232247,11 @@
       "file": "missing/T/268212-tower-of-tears.json"
     },
     {
+      "igdb_id": 280243,
+      "game_name": "Tower of the Abyss",
+      "file": "missing/T/280243-tower-of-the-abyss.json"
+    },
+    {
       "igdb_id": 121332,
       "game_name": "Tower of the Alchemist",
       "file": "missing/T/121332-tower-of-the-alchemist.json"
@@ -1236415,6 +1236615,11 @@
       "igdb_id": 286525,
       "game_name": "Train Sim World 4: Berninalinie - Tirano: Ospizio Bernina Route",
       "file": "missing/T/286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json"
+    },
+    {
+      "igdb_id": 280244,
+      "game_name": "Train Sim World 4: Cargo Line Vol. 1 - Petroleum",
+      "file": "missing/T/280244-train-sim-world-4-cargo-line-vol-1-petroleum.json"
     },
     {
       "igdb_id": 288920,
@@ -1244405,6 +1244610,11 @@
       "igdb_id": 70224,
       "game_name": "Trash in Space",
       "file": "missing/T/70224-trash-in-space.json"
+    },
+    {
+      "igdb_id": 280245,
+      "game_name": "Trash in the Flower Garden",
+      "file": "missing/T/280245-trash-in-the-flower-garden.json"
     },
     {
       "igdb_id": 183905,
@@ -1277942,6 +1278152,11 @@
       "file": "missing/V/39995-valtric.json"
     },
     {
+      "igdb_id": 280242,
+      "game_name": "Valuable Cargo",
+      "file": "missing/V/280242-valuable-cargo.json"
+    },
+    {
       "igdb_id": 58531,
       "game_name": "Value 1500: O-chan no Oekaki Logic 3",
       "file": "missing/V/58531-value-1500-o-chan-no-oekaki-logic-3.json"
@@ -1279415,6 +1279630,11 @@
       "igdb_id": 126812,
       "game_name": "Vaporum: Lockdown",
       "file": "missing/V/126812-vaporum-lockdown.json"
+    },
+    {
+      "igdb_id": 280366,
+      "game_name": "Vaporware Odyssey",
+      "file": "missing/V/280366-vaporware-odyssey.json"
     },
     {
       "igdb_id": 149882,
@@ -1281215,6 +1281435,11 @@
       "igdb_id": 256350,
       "game_name": "Velocity.io",
       "file": "missing/V/256350-velocity-io.json"
+    },
+    {
+      "igdb_id": 280365,
+      "game_name": "VelocityLoop, Zero to Lightspeed",
+      "file": "missing/V/280365-velocityloop-zero-to-lightspeed.json"
     },
     {
       "igdb_id": 414618,
@@ -1308547,6 +1308772,11 @@
       "file": "missing/W/104250-welcome-to-the-information-superhighway.json"
     },
     {
+      "igdb_id": 280364,
+      "game_name": "Welcome to the Karoshi Club",
+      "file": "missing/W/280364-welcome-to-the-karoshi-club.json"
+    },
+    {
       "igdb_id": 97837,
       "game_name": "Welcome to the Kawai",
       "file": "missing/W/97837-welcome-to-the-kawai.json"
@@ -1312032,6 +1312262,11 @@
       "file": "missing/W/358653-where-is-billy.json"
     },
     {
+      "igdb_id": 280238,
+      "game_name": "Where is Drake?",
+      "file": "missing/W/280238-where-is-drake.json"
+    },
+    {
       "igdb_id": 221109,
       "game_name": "Where is Earth?",
       "file": "missing/W/221109-where-is-earth.json"
@@ -1314370,6 +1314605,11 @@
       "igdb_id": 410096,
       "game_name": "Who Am I Next?: Animals",
       "file": "missing/W/410096-who-am-i-next-animals.json"
+    },
+    {
+      "igdb_id": 280363,
+      "game_name": "Who am I: Remedy",
+      "file": "missing/W/280363-who-am-i-remedy.json"
     },
     {
       "igdb_id": 96654,
@@ -1322097,6 +1322337,11 @@
       "file": "missing/W/377620-witchy-tower.json"
     },
     {
+      "igdb_id": 280239,
+      "game_name": "Witchy Woes",
+      "file": "missing/W/280239-witchy-woes.json"
+    },
+    {
       "igdb_id": 344348,
       "game_name": "Witchy Wonderland",
       "file": "missing/W/344348-witchy-wonderland.json"
@@ -1323660,6 +1323905,11 @@
       "igdb_id": 225774,
       "game_name": "Wo Long: Fallen Dynasty - Steelbook Launch Edition",
       "file": "missing/W/225774-wo-long-fallen-dynasty-steelbook-launch-edition.json"
+    },
+    {
+      "igdb_id": 280240,
+      "game_name": "Wo Long: Fallen Dynasty - Upheaval in Jingxiang",
+      "file": "missing/W/280240-wo-long-fallen-dynasty-upheaval-in-jingxiang.json"
     },
     {
       "igdb_id": 76098,
@@ -1327940,6 +1328190,11 @@
       "igdb_id": 323599,
       "game_name": "Workshop Maps Pack",
       "file": "missing/W/323599-workshop-maps-pack.json"
+    },
+    {
+      "igdb_id": 280241,
+      "game_name": "Workshop Simulator VR",
+      "file": "missing/W/280241-workshop-simulator-vr.json"
     },
     {
       "igdb_id": 187139,
@@ -1359050,6 +1359305,11 @@
       "igdb_id": 381976,
       "game_name": "Zoo Tycoon 2: Paranoia!",
       "file": "missing/Z/381976-zoo-tycoon-2-paranoia.json"
+    },
+    {
+      "igdb_id": 280053,
+      "game_name": "Zoo Tycoon 2: Radical Remake",
+      "file": "missing/Z/280053-zoo-tycoon-2-radical-remake.json"
     },
     {
       "igdb_id": 176848,
