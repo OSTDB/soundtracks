@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Heart Of Iron | 397692 | [397692-a-heart-of-iron.json](./397692-a-heart-of-iron.json) |
 | A Heavy Morning | 347840 | [347840-a-heavy-morning.json](./347840-a-heavy-morning.json) |
 | A Hell of a Journey | 200541 | [200541-a-hell-of-a-journey.json](./200541-a-hell-of-a-journey.json) |
+| A Hell of a Soup | 260834 | [260834-a-hell-of-a-soup.json](./260834-a-hell-of-a-soup.json) |
 | A Helping Hand | 316014 | [316014-a-helping-hand.json](./316014-a-helping-hand.json) |
 | A Hermit Crab is Finding a House | 157114 | [157114-a-hermit-crab-is-finding-a-house.json](./157114-a-hermit-crab-is-finding-a-house.json) |
 | A Hero and a Garden | 137072 | [137072-a-hero-and-a-garden.json](./137072-a-hero-and-a-garden.json) |
@@ -1213,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Very Simple Puzzle... | 337070 | [337070-a-very-simple-puzzle.json](./337070-a-very-simple-puzzle.json) |
 | A Very Special Dog | 312856 | [312856-a-very-special-dog.json](./312856-a-very-special-dog.json) |
 | A Very Splendid Otome Game | 321555 | [321555-a-very-splendid-otome-game.json](./321555-a-very-splendid-otome-game.json) |
+| A Very Super Mario World | 260811 | [260811-a-very-super-mario-world.json](./260811-a-very-super-mario-world.json) |
 | A Vessel of Frustration | 398569 | [398569-a-vessel-of-frustration.json](./398569-a-vessel-of-frustration.json) |
 | A Viagem de Vasco da Gama à Índia | 405497 | [405497-a-viagem-de-vasco-da-gama-a-india.json](./405497-a-viagem-de-vasco-da-gama-a-india.json) |
 | A Viking's Quest: The Lost Continent | 244389 | [244389-a-vikings-quest-the-lost-continent.json](./244389-a-vikings-quest-the-lost-continent.json) |
@@ -12327,6 +12329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrog | 127144 | [127144-arrog.json](./127144-arrog.json) |
 | Arrogation: Unlight of Day | 220743 | [220743-arrogation-unlight-of-day.json](./220743-arrogation-unlight-of-day.json) |
 | Arrogue | 297372 | [297372-arrogue.json](./297372-arrogue.json) |
+| Arrokoth | 260504 | [260504-arrokoth.json](./260504-arrokoth.json) |
 | Arrow | 131325 | [131325-arrow.json](./131325-arrow.json) |
 | Arrow a Row | 262248 | [262248-arrow-a-row.json](./262248-arrow-a-row.json) |
 | Arrow Bingo | 382773 | [382773-arrow-bingo.json](./382773-arrow-bingo.json) |
