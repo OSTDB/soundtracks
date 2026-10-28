@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallowed Legends: Ship of Bones | 376641 | [376641-hallowed-legends-ship-of-bones.json](./376641-hallowed-legends-ship-of-bones.json) |
 | Hallowed Legends: Templar - Collector's Edition | 376584 | [376584-hallowed-legends-templar-collectors-edition.json](./376584-hallowed-legends-templar-collectors-edition.json) |
 | Halloweeeen! | 407922 | [407922-halloweeeen.json](./407922-halloweeeen.json) |
+| Halloweeen! | 251355 | [251355-halloweeen.json](./251355-halloweeen.json) |
 | Halloween | 40790 | [40790-halloween.json](./40790-halloween.json) |
 | Halloween | 80499 | [80499-halloween.json](./80499-halloween.json) |
 | Halloween 1 | 300824 | [300824-halloween-1.json](./300824-halloween-1.json) |
@@ -3109,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven's Ladder | 340424 | [340424-heavens-ladder.json](./340424-heavens-ladder.json) |
 | Heaven's Machine | 181296 | [181296-heavens-machine.json](./181296-heavens-machine.json) |
 | Heaven's Palace | 362725 | [362725-heavens-palace.json](./362725-heavens-palace.json) |
+| Heaven's Paws | 251781 | [251781-heavens-paws.json](./251781-heavens-paws.json) |
 | Heaven's Vault | 27509 | [27509-heavens-vault.json](./27509-heavens-vault.json) |
 | Heaven's Voice Feast of Famine | 118023 | [118023-heavens-voice-feast-of-famine.json](./118023-heavens-voice-feast-of-famine.json) |
 | Heavenbound | 41164 | [41164-heavenbound.json](./41164-heavenbound.json) |
@@ -5439,6 +5441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heros Survival | 304898 | [304898-heros-survival.json](./304898-heros-survival.json) |
 | Heros: The Sanguine Seven | 140621 | [140621-heros-the-sanguine-seven.json](./140621-heros-the-sanguine-seven.json) |
 | HeroSmash | 277160 | [277160-herosmash.json](./277160-herosmash.json) |
+| HeroSquare | 251773 | [251773-herosquare.json](./251773-herosquare.json) |
 | HeroStory | 289273 | [289273-herostory.json](./289273-herostory.json) |
 | HeroSurvival | 248148 | [248148-herosurvival.json](./248148-herosurvival.json) |
 | Herotome | 364377 | [364377-herotome.json](./364377-herotome.json) |
@@ -8071,6 +8074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homesickness | 284787 | [284787-homesickness.json](./284787-homesickness.json) |
 | Homesickness | 344341 | [344341-homesickness.json](./344341-homesickness.json) |
 | Homespace | 106474 | [106474-homespace.json](./106474-homespace.json) |
+| Homestar Runner: Halloween Hide n' Seek | 251780 | [251780-homestar-runner-halloween-hide-n-seek.json](./251780-homestar-runner-halloween-hide-n-seek.json) |
 | Homestar VR | 105508 | [105508-homestar-vr.json](./105508-homestar-vr.json) |
 | Homestay à la Mode | 396492 | [396492-homestay-a-la-mode.json](./396492-homestay-a-la-mode.json) |
 | Homestead Arcana | 217635 | [217635-homestead-arcana.json](./217635-homestead-arcana.json) |
