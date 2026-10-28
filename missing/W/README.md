@@ -4919,6 +4919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Child | 34632 | [34632-wind-child.json](./34632-wind-child.json) |
 | Wind Fantasy Double Cross | 408793 | [408793-wind-fantasy-double-cross.json](./408793-wind-fantasy-double-cross.json) |
 | Wind Fantasy II: Alive | 350516 | [350516-wind-fantasy-ii-alive.json](./350516-wind-fantasy-ii-alive.json) |
+| Wind Fantasy SP: The Moment of Sealing The God | 246567 | [246567-wind-fantasy-sp-the-moment-of-sealing-the-god.json](./246567-wind-fantasy-sp-the-moment-of-sealing-the-god.json) |
 | Wind Fantasy: NeXus | 327139 | [327139-wind-fantasy-nexus.json](./327139-wind-fantasy-nexus.json) |
 | Wind Field | 292254 | [292254-wind-field.json](./292254-wind-field.json) |
 | Wind Force | 116984 | [116984-wind-force.json](./116984-wind-force.json) |
@@ -5427,6 +5428,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wired Witch | 413788 | [413788-wired-witch.json](./413788-wired-witch.json) |
 | Wireframe Warfare | 340989 | [340989-wireframe-warfare.json](./340989-wireframe-warfare.json) |
 | Wirehead | 5462 | [5462-wirehead.json](./5462-wirehead.json) |
+| Wireless 60 | 246213 | [246213-wireless-60.json](./246213-wireless-60.json) |
+| Wireless Air 60 | 246212 | [246212-wireless-air-60.json](./246212-wireless-air-60.json) |
+| Wireless Hunting Video Game System | 246215 | [246215-wireless-hunting-video-game-system.json](./246215-wireless-hunting-video-game-system.json) |
 | Wires and Whiskers | 357162 | [357162-wires-and-whiskers.json](./357162-wires-and-whiskers.json) |
 | Wirewalker | 260610 | [260610-wirewalker.json](./260610-wirewalker.json) |
 | WireWalking | 284836 | [284836-wirewalking.json](./284836-wirewalking.json) |
