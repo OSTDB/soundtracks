@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9093,6 +9094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block | 172653 | [172653-block.json](./172653-block.json) |
 | Block ‘Em Sock ‘Em | 381135 | [381135-block-em-sock-em.json](./381135-block-em-sock-em.json) |
 | Block & Shot | 263976 | [263976-block-and-shot.json](./263976-block-and-shot.json) |
+| Block & Switch | 230480 | [230480-block-and-switch.json](./230480-block-and-switch.json) |
 | Block 1010: Colorful | 107073 | [107073-block-1010-colorful.json](./107073-block-1010-colorful.json) |
 | Block 17 | 350797 | [350797-block-17.json](./350797-block-17.json) |
 | Block 2D: The Retro Block | 88739 | [88739-block-2d-the-retro-block.json](./88739-block-2d-the-retro-block.json) |
@@ -11890,6 +11892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle Buster | 206466 | [206466-bottle-buster.json](./206466-bottle-buster.json) |
 | Bottle Can Float | 272826 | [272826-bottle-can-float.json](./272826-bottle-can-float.json) |
 | Bottle Collector Run | 370172 | [370172-bottle-collector-run.json](./370172-bottle-collector-run.json) |
+| Bottle Cracks | 230497 | [230497-bottle-cracks.json](./230497-bottle-cracks.json) |
 | Bottle Empire | 257249 | [257249-bottle-empire.json](./257249-bottle-empire.json) |
 | Bottle Flip | 90760 | [90760-bottle-flip.json](./90760-bottle-flip.json) |
 | Bottle Flip Challenge VR | 28798 | [28798-bottle-flip-challenge-vr.json](./28798-bottle-flip-challenge-vr.json) |
