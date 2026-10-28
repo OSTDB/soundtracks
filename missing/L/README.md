@@ -3873,6 +3873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Slime | 242057 | [242057-life-of-slime.json](./242057-life-of-slime.json) |
 | Life of Snow Wolf | 246981 | [246981-life-of-snow-wolf.json](./246981-life-of-snow-wolf.json) |
 | Life of Tabayama | 344557 | [344557-life-of-tabayama.json](./344557-life-of-tabayama.json) |
+| Life of Thife | 277125 | [277125-life-of-thife.json](./277125-life-of-thife.json) |
 | Life on a Pizza | 164880 | [164880-life-on-a-pizza.json](./164880-life-on-a-pizza.json) |
 | Life on Mars? | 59700 | [59700-life-on-mars.json](./59700-life-on-mars.json) |
 | Life on the Earth | 175677 | [175677-life-on-the-earth.json](./175677-life-on-the-earth.json) |
@@ -4460,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Lands | 249898 | [249898-liminal-lands.json](./249898-liminal-lands.json) |
 | Liminal Lane | 349957 | [349957-liminal-lane.json](./349957-liminal-lane.json) |
 | Liminal Leap | 343432 | [343432-liminal-leap.json](./343432-liminal-leap.json) |
+| Liminal Memory | 277120 | [277120-liminal-memory.json](./277120-liminal-memory.json) |
 | Liminal Phase | 204343 | [204343-liminal-phase.json](./204343-liminal-phase.json) |
 | Liminal Point | 330566 | [330566-liminal-point.json](./330566-liminal-point.json) |
 | Liminal Ranger | 146770 | [146770-liminal-ranger.json](./146770-liminal-ranger.json) |
@@ -4640,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linework | 385590 | [385590-linework.json](./385590-linework.json) |
 | Ling and the Corrupted Hollow | 391073 | [391073-ling-and-the-corrupted-hollow.json](./391073-ling-and-the-corrupted-hollow.json) |
 | Ling House: Echoes Within | 414423 | [414423-ling-house-echoes-within.json](./414423-ling-house-echoes-within.json) |
+| Ling Hun | 277452 | [277452-ling-hun.json](./277452-ling-hun.json) |
 | Ling Rise | 143665 | [143665-ling-rise.json](./143665-ling-rise.json) |
 | Linger | 139417 | [139417-linger.json](./139417-linger.json) |
 | Linger In Shadows | 7727 | [7727-linger-in-shadows.json](./7727-linger-in-shadows.json) |
@@ -5347,6 +5350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Witch | 145613 | [145613-little-witch.json](./145613-little-witch.json) |
 | Little Witch | 199811 | [199811-little-witch.json](./199811-little-witch.json) |
 | Little Witch Academia: Chamber of Time | 36506 | [36506-little-witch-academia-chamber-of-time.json](./36506-little-witch-academia-chamber-of-time.json) |
+| Little Witch Academia: Project Luna | 277140 | [277140-little-witch-academia-project-luna.json](./277140-little-witch-academia-project-luna.json) |
 | Little Witch Academia: VR Broom Racing | 139341 | [139341-little-witch-academia-vr-broom-racing.json](./139341-little-witch-academia-vr-broom-racing.json) |
 | Little Witch in the Woods | 130577 | [130577-little-witch-in-the-woods.json](./130577-little-witch-in-the-woods.json) |
 | Little Witch Luana | 126647 | [126647-little-witch-luana.json](./126647-little-witch-luana.json) |
