@@ -1547,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omikron: The Nomad Soul | 1982 | [1982-omikron-the-nomad-soul.json](./1982-omikron-the-nomad-soul.json) |
 | Omikron: The Nomad Soul | 248846 | [248846-omikron-the-nomad-soul.json](./248846-omikron-the-nomad-soul.json) |
 | Omina Mortis | 36983 | [36983-omina-mortis.json](./36983-omina-mortis.json) |
+| Omino! | 239227 | [239227-omino.json](./239227-omino.json) |
 | Ominoflux | 336595 | [336595-ominoflux.json](./336595-ominoflux.json) |
 | Ominous | 273126 | [273126-ominous.json](./273126-ominous.json) |
 | Ominous | 366583 | [366583-ominous.json](./366583-ominous.json) |
@@ -3739,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orphan Feast | 306962 | [306962-orphan-feast.json](./306962-orphan-feast.json) |
 | Orphan of the Petal | 113766 | [113766-orphan-of-the-petal.json](./113766-orphan-of-the-petal.json) |
 | Orphan's Treasure | 55733 | [55733-orphans-treasure.json](./55733-orphans-treasure.json) |
+| Orphans | 239252 | [239252-orphans.json](./239252-orphans.json) |
 | Orphans | 280206 | [280206-orphans.json](./280206-orphans.json) |
 | Orphans Order | 174652 | [174652-orphans-order.json](./174652-orphans-order.json) |
 | Orphée: Voyage aux Enfers | 84184 | [84184-orphee-voyage-aux-enfers.json](./84184-orphee-voyage-aux-enfers.json) |
@@ -4927,6 +4929,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlight | 62971 | [62971-overlight.json](./62971-overlight.json) |
 | Overload | 33363 | [33363-overload.json](./33363-overload.json) |
 | Overload Playable Teaser | 90591 | [90591-overload-playable-teaser.json](./90591-overload-playable-teaser.json) |
+| Overload: Anniversary Level Pack | 238864 | [238864-overload-anniversary-level-pack.json](./238864-overload-anniversary-level-pack.json) |
+| Overload: Community Level Pack | 238863 | [238863-overload-community-level-pack.json](./238863-overload-community-level-pack.json) |
 | Overlode | 260258 | [260258-overlode.json](./260258-overlode.json) |
 | Overlook | 195941 | [195941-overlook.json](./195941-overlook.json) |
 | Overlook Trail | 93732 | [93732-overlook-trail.json](./93732-overlook-trail.json) |
