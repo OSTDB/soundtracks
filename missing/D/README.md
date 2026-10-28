@@ -5937,6 +5937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth | 11291 | [11291-depth.json](./11291-depth.json) |
 | Depth Ascend | 311644 | [311644-depth-ascend.json](./311644-depth-ascend.json) |
 | Depth Charge | 181549 | [181549-depth-charge.json](./181549-depth-charge.json) |
+| Depth Charge | 245127 | [245127-depth-charge.json](./245127-depth-charge.json) |
 | Depth Charge | 282718 | [282718-depth-charge.json](./282718-depth-charge.json) |
 | Depth Complaint | 343587 | [343587-depth-complaint.json](./343587-depth-complaint.json) |
 | Depth Diver | 302067 | [302067-depth-diver.json](./302067-depth-diver.json) |
@@ -6375,6 +6376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolate: Clone Catastrophe | 93730 | [93730-desolate-clone-catastrophe.json](./93730-desolate-clone-catastrophe.json) |
 | Desolated District | 253356 | [253356-desolated-district.json](./253356-desolated-district.json) |
 | Desolation | 238648 | [238648-desolation.json](./238648-desolation.json) |
+| Desolation | 246009 | [246009-desolation.json](./246009-desolation.json) |
 | Desolation | 284364 | [284364-desolation.json](./284364-desolation.json) |
 | Desolation | 84070 | [84070-desolation.json](./84070-desolation.json) |
 | Desolation Escape | 315672 | [315672-desolation-escape.json](./315672-desolation-escape.json) |
@@ -10135,6 +10137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggins | 61872 | [61872-doggins.json](./61872-doggins.json) |
 | Doggo | 287098 | [287098-doggo.json](./287098-doggo.json) |
 | Doggo Dungeon | 174270 | [174270-doggo-dungeon.json](./174270-doggo-dungeon.json) |
+| Doggo Garden Defense | 246012 | [246012-doggo-garden-defense.json](./246012-doggo-garden-defense.json) |
 | Doggo Patrol | 223606 | [223606-doggo-patrol.json](./223606-doggo-patrol.json) |
 | Doggo Quest | 151047 | [151047-doggo-quest.json](./151047-doggo-quest.json) |
 | Doggo Walko | 178565 | [178565-doggo-walko.json](./178565-doggo-walko.json) |
@@ -14601,6 +14604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Hero | 38750 | [38750-drone-hero.json](./38750-drone-hero.json) |
 | Drone Investigations | 127866 | [127866-drone-investigations.json](./127866-drone-investigations.json) |
 | Drone Lander | 23859 | [23859-drone-lander.json](./23859-drone-lander.json) |
+| Drone Master Racing | 245896 | [245896-drone-master-racing.json](./245896-drone-master-racing.json) |
 | Drone Operator | 247902 | [247902-drone-operator.json](./247902-drone-operator.json) |
 | Drone Perspective | 285941 | [285941-drone-perspective.json](./285941-drone-perspective.json) |
 | Drone Pilot: Extreme Flight Simulator | 310449 | [310449-drone-pilot-extreme-flight-simulator.json](./310449-drone-pilot-extreme-flight-simulator.json) |
