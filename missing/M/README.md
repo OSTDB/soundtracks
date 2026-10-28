@@ -1841,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou no Palette | 77765 | [77765-mahou-no-palette.json](./77765-mahou-no-palette.json) |
 | Mahou no Princess Minky Momo: Remember Dream | 61432 | [61432-mahou-no-princess-minky-momo-remember-dream.json](./61432-mahou-no-princess-minky-momo-remember-dream.json) |
 | Mahou no Shippo na | 69587 | [69587-mahou-no-shippo-na.json](./69587-mahou-no-shippo-na.json) |
+| Mahou no Shooter Putchin Pudding | 234829 | [234829-mahou-no-shooter-putchin-pudding.json](./234829-mahou-no-shooter-putchin-pudding.json) |
 | Mahou no Shoujo: Silky Lip | 46389 | [46389-mahou-no-shoujo-silky-lip.json](./46389-mahou-no-shoujo-silky-lip.json) |
 | Mahou no Tenshi Creamy Mami: Futatsu no Sekai no Monogatari | 131375 | [131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json](./131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json) |
 | Mahou Poi-poi Poitto! | 42377 | [42377-mahou-poi-poi-poitto.json](./42377-mahou-poi-poi-poitto.json) |
@@ -2067,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majigire Genkai OL-chan | 308867 | [308867-majigire-genkai-ol-chan.json](./308867-majigire-genkai-ol-chan.json) |
 | Majikoi! Love Me Seriously! | 65611 | [65611-majikoi-love-me-seriously.json](./65611-majikoi-love-me-seriously.json) |
 | Majime ni Fumajime Kaiketsu Zorori - Kyoufu no Takarabako | 124487 | [124487-majime-ni-fumajime-kaiketsu-zorori-kyoufu-no-takarabako.json](./124487-majime-ni-fumajime-kaiketsu-zorori-kyoufu-no-takarabako.json) |
+| Majin and Sacrificial Girl | 234850 | [234850-majin-and-sacrificial-girl.json](./234850-majin-and-sacrificial-girl.json) |
 | Majin and the Forsaken Kingdom | 7062 | [7062-majin-and-the-forsaken-kingdom.json](./7062-majin-and-the-forsaken-kingdom.json) |
 | Majin Island | 220293 | [220293-majin-island.json](./220293-majin-island.json) |
 | Majin Tantei Nougami Neuro: Battle da yo! Hannin Shuugou! | 216201 | [216201-majin-tantei-nougami-neuro-battle-da-yo-hannin-shuugou.json](./216201-majin-tantei-nougami-neuro-battle-da-yo-hannin-shuugou.json) |
@@ -3146,6 +3148,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariam Game | 235484 | [235484-mariam-game.json](./235484-mariam-game.json) |
 | Mariana | 318361 | [318361-mariana.json](./318361-mariana.json) |
 | Maribato! | 234649 | [234649-maribato.json](./234649-maribato.json) |
+| Maribato! Version 2.0 | 234817 | [234817-maribato-version-2-0.json](./234817-maribato-version-2-0.json) |
+| Maribato!+ | 234827 | [234827-maribato.json](./234827-maribato.json) |
 | Marica: Shinjitsu no Sekai | 61389 | [61389-marica-shinjitsu-no-sekai.json](./61389-marica-shinjitsu-no-sekai.json) |
 | Maridows 64 | 250047 | [250047-maridows-64.json](./250047-maridows-64.json) |
 | Marie & Elie no Atelier: Salburg no Renkinjutsushi 1-2 | 130822 | [130822-marie-and-elie-no-atelier-salburg-no-renkinjutsushi-1-2.json](./130822-marie-and-elie-no-atelier-salburg-no-renkinjutsushi-1-2.json) |
@@ -3291,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Can't Remember | 350957 | [350957-mario-cant-remember.json](./350957-mario-cant-remember.json) |
 | Mario Cars 2: 64 | 202150 | [202150-mario-cars-2-64.json](./202150-mario-cars-2-64.json) |
 | Mario Cave Escape | 381766 | [381766-mario-cave-escape.json](./381766-mario-cave-escape.json) |
+| Mario Combat | 234845 | [234845-mario-combat.json](./234845-mario-combat.json) |
 | Mario Doom | 314469 | [314469-mario-doom.json](./314469-mario-doom.json) |
 | Mario Drinks A Glass of Milk | 250051 | [250051-mario-drinks-a-glass-of-milk.json](./250051-mario-drinks-a-glass-of-milk.json) |
 | Mario Editor | 320233 | [320233-mario-editor.json](./320233-mario-editor.json) |
@@ -6972,6 +6977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Ramp Car Jumping | 306542 | [306542-mega-ramp-car-jumping.json](./306542-mega-ramp-car-jumping.json) |
 | Mega Ramp Moto: Dirt Bike Stunts Simulator | 257883 | [257883-mega-ramp-moto-dirt-bike-stunts-simulator.json](./257883-mega-ramp-moto-dirt-bike-stunts-simulator.json) |
 | Mega Ramp V5 | 104400 | [104400-mega-ramp-v5.json](./104400-mega-ramp-v5.json) |
+| Mega Rex Island | 234863 | [234863-mega-rex-island.json](./234863-mega-rex-island.json) |
 | Mega Roids | 418527 | [418527-mega-roids.json](./418527-mega-roids.json) |
 | Mega Schwarzschild | 46388 | [46388-mega-schwarzschild.json](./46388-mega-schwarzschild.json) |
 | Mega Screen Solitaire | 330210 | [330210-mega-screen-solitaire.json](./330210-mega-screen-solitaire.json) |
@@ -18081,6 +18087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Merry May | 247400 | [247400-my-merry-may.json](./247400-my-merry-may.json) |
 | My Merry May with be | 408848 | [408848-my-merry-may-with-be.json](./408848-my-merry-may-with-be.json) |
 | My Merry Maybe | 247509 | [247509-my-merry-maybe.json](./247509-my-merry-maybe.json) |
+| My Meta Farm | 234837 | [234837-my-meta-farm.json](./234837-my-meta-farm.json) |
 | My Mind Ghost | 155856 | [155856-my-mind-ghost.json](./155856-my-mind-ghost.json) |
 | My Mine | 262896 | [262896-my-mine.json](./262896-my-mine.json) |
 | My Mini Farm | 245683 | [245683-my-mini-farm.json](./245683-my-mini-farm.json) |
