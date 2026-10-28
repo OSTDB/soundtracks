@@ -6433,6 +6433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark! Hunting the Great White | 71770 | [71770-shark-hunting-the-great-white.json](./71770-shark-hunting-the-great-white.json) |
 | Shark! Shark! | 228300 | [228300-shark-shark.json](./228300-shark-shark.json) |
 | Shark! Shark! | 5695 | [5695-shark-shark.json](./5695-shark-shark.json) |
+| Shark's Cove | 273210 | [273210-sharks-cove.json](./273210-sharks-cove.json) |
 | Shark's Song | 283105 | [283105-sharks-song.json](./283105-sharks-song.json) |
 | Shark's Treasures Adventure | 339901 | [339901-sharks-treasures-adventure.json](./339901-sharks-treasures-adventure.json) |
 | Sharkarama | 402446 | [402446-sharkarama.json](./402446-sharkarama.json) |
@@ -22784,6 +22785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steve Davis Snooker | 45323 | [45323-steve-davis-snooker.json](./45323-steve-davis-snooker.json) |
 | Steve Davis World Snooker | 12928 | [12928-steve-davis-world-snooker.json](./12928-steve-davis-world-snooker.json) |
 | Steve Jackson's Sorcery!: The Complete Collection | 53672 | [53672-steve-jacksons-sorcery-the-complete-collection.json](./53672-steve-jacksons-sorcery-the-complete-collection.json) |
+| Steve Long Episodes | 273211 | [273211-steve-long-episodes.json](./273211-steve-long-episodes.json) |
 | Steve Magal: Fists of Brutal Truth | 341888 | [341888-steve-magal-fists-of-brutal-truth.json](./341888-steve-magal-fists-of-brutal-truth.json) |
 | Steve Reich’s Clapping Music | 312322 | [312322-steve-reich-s-clapping-music.json](./312322-steve-reich-s-clapping-music.json) |
 | Steve RPG | 209380 | [209380-steve-rpg.json](./209380-steve-rpg.json) |
