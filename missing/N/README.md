@@ -5429,6 +5429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NodeRunner | 289721 | [289721-noderunner.json](./289721-noderunner.json) |
 | Nodes | 203250 | [203250-nodes.json](./203250-nodes.json) |
 | Nodes of Yesod | 23059 | [23059-nodes-of-yesod.json](./23059-nodes-of-yesod.json) |
+| Nodes of Yesod: 25th Anniversary Edition | 264975 | [264975-nodes-of-yesod-25th-anniversary-edition.json](./264975-nodes-of-yesod-25th-anniversary-edition.json) |
 | Nodevious | 181163 | [181163-nodevious.json](./181163-nodevious.json) |
 | Nodge Pre-Alpha | 76697 | [76697-nodge-pre-alpha.json](./76697-nodge-pre-alpha.json) |
 | Nodrog's Fortress | 182463 | [182463-nodrogs-fortress.json](./182463-nodrogs-fortress.json) |
