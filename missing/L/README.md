@@ -4645,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Rider: Freestyle | 54163 | [54163-line-rider-freestyle.json](./54163-line-rider-freestyle.json) |
 | Line Runner 2 | 90401 | [90401-line-runner-2.json](./90401-line-runner-2.json) |
 | Line Space Wars | 69360 | [69360-line-space-wars.json](./69360-line-space-wars.json) |
+| Line the Balls | 233173 | [233173-line-the-balls.json](./233173-line-the-balls.json) |
 | Line Time | 265336 | [265336-line-time.json](./265336-line-time.json) |
 | Line Up: Dots! | 243098 | [243098-line-up-dots.json](./243098-line-up-dots.json) |
 | Line Up! | 380661 | [380661-line-up.json](./380661-line-up.json) |
