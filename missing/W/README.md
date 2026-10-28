@@ -3586,6 +3586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Are You, Diamond | 334185 | [334185-where-are-you-diamond.json](./334185-where-are-you-diamond.json) |
 | Where are You? | 292067 | [292067-where-are-you.json](./292067-where-are-you.json) |
 | Where Are You? | 373818 | [373818-where-are-you.json](./373818-where-are-you.json) |
+| Where Beasts Were Born | 260287 | [260287-where-beasts-were-born.json](./260287-where-beasts-were-born.json) |
 | Where Birds | 306782 | [306782-where-birds.json](./306782-where-birds.json) |
 | Where Birds Sleep | 136451 | [136451-where-birds-sleep.json](./136451-where-birds-sleep.json) |
 | Where Cards Fall | 27271 | [27271-where-cards-fall.json](./27271-where-cards-fall.json) |
