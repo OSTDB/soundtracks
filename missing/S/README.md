@@ -19538,6 +19538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport Shooter | 157411 | [157411-sport-shooter.json](./157411-sport-shooter.json) |
 | Sport Shooter: The Eight Galleries | 360914 | [360914-sport-shooter-the-eight-galleries.json](./360914-sport-shooter-the-eight-galleries.json) |
 | Sport Sport | 92893 | [92893-sport-sport.json](./92893-sport-sport.json) |
+| Sport Vii | 246219 | [246219-sport-vii.json](./246219-sport-vii.json) |
 | Sport Vii | 358825 | [358825-sport-vii.json](./358825-sport-vii.json) |
 | Sport Vii | 358826 | [358826-sport-vii.json](./358826-sport-vii.json) |
 | Sport Vii | 358827 | [358827-sport-vii.json](./358827-sport-vii.json) |
@@ -24755,6 +24756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StroodleDoodle | 59791 | [59791-stroodledoodle.json](./59791-stroodledoodle.json) |
 | Struckd | 22750 | [22750-struckd.json](./22750-struckd.json) |
 | Struckd: 3D Game Creator | 80940 | [80940-struckd-3d-game-creator.json](./80940-struckd-3d-game-creator.json) |
+| Structory | 246208 | [246208-structory.json](./246208-structory.json) |
 | Structura | 150504 | [150504-structura.json](./150504-structura.json) |
 | Structus | 192324 | [192324-structus.json](./192324-structus.json) |
 | Struggle F.O | 276603 | [276603-struggle-f-o.json](./276603-struggle-f-o.json) |
@@ -25975,6 +25977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumou | 385812 | [385812-sumou.json](./385812-sumou.json) |
 | Sump | 278460 | [278460-sump.json](./278460-sump.json) |
 | Sumrak | 321444 | [321444-sumrak.json](./321444-sumrak.json) |
+| SUMS | 246563 | [246563-sums.json](./246563-sums.json) |
 | Sumtune | 236399 | [236399-sumtune.json](./236399-sumtune.json) |
 | Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
 | Sumy Shelltris: Iceblocks 2 | 181055 | [181055-sumy-shelltris-iceblocks-2.json](./181055-sumy-shelltris-iceblocks-2.json) |
