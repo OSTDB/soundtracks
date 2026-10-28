@@ -13308,6 +13308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breeze of Passion | 358979 | [358979-breeze-of-passion.json](./358979-breeze-of-passion.json) |
 | Breezeblox | 35275 | [35275-breezeblox.json](./35275-breezeblox.json) |
 | Breezevale | 387964 | [387964-breezevale.json](./387964-breezevale.json) |
+| Breezy | 251765 | [251765-breezy.json](./251765-breezy.json) |
 | Breezy Bakes Simulator | 372596 | [372596-breezy-bakes-simulator.json](./372596-breezy-bakes-simulator.json) |
 | Breezy Paws | 274735 | [274735-breezy-paws.json](./274735-breezy-paws.json) |
 | Brelok: Nezumi-tachi no Dasshutsu | 330509 | [330509-brelok-nezumi-tachi-no-dasshutsu.json](./330509-brelok-nezumi-tachi-no-dasshutsu.json) |
