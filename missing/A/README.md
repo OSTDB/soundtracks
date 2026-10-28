@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Shooter | 91871 | [91871-a-shooter.json](./91871-a-shooter.json) |
 | A Shooty Bit | 32977 | [32977-a-shooty-bit.json](./32977-a-shooty-bit.json) |
 | A Shopping Trip to Eklan Tor | 155848 | [155848-a-shopping-trip-to-eklan-tor.json](./155848-a-shopping-trip-to-eklan-tor.json) |
+| A Short Day | 247115 | [247115-a-short-day.json](./247115-a-short-day.json) |
 | A Short Death | 332977 | [332977-a-short-death.json](./332977-a-short-death.json) |
 | A Short Game About Nothing | 395167 | [395167-a-short-game-about-nothing.json](./395167-a-short-game-about-nothing.json) |
 | A Short Odyssey | 294128 | [294128-a-short-odyssey.json](./294128-a-short-odyssey.json) |
@@ -6824,6 +6825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter Cosmos | 103539 | [103539-alter-cosmos.json](./103539-alter-cosmos.json) |
 | Alter Echo | 1989 | [1989-alter-echo.json](./1989-alter-echo.json) |
 | Alter Ego | 134505 | [134505-alter-ego.json](./134505-alter-ego.json) |
+| Alter Ego | 246772 | [246772-alter-ego.json](./246772-alter-ego.json) |
 | Alter Ego | 270396 | [270396-alter-ego.json](./270396-alter-ego.json) |
 | Alter Ego | 27888 | [27888-alter-ego.json](./27888-alter-ego.json) |
 | Alter Ego | 305386 | [305386-alter-ego.json](./305386-alter-ego.json) |
