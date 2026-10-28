@@ -7248,6 +7248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RNG Quest | 338865 | [338865-rng-quest.json](./338865-rng-quest.json) |
 | RNG Quest | 338866 | [338866-rng-quest.json](./338866-rng-quest.json) |
 | RNG Royale | 191532 | [191532-rng-royale.json](./191532-rng-royale.json) |
+| Ro | 238286 | [238286-ro.json](./238286-ro.json) |
 | Rô + Fire Race + Scrap Bolts + Milk Seller + Home Sweet Home + Rafa's World | 306552 | [306552-ro-fire-race-scrap-bolts-milk-seller-home-sweet-home-rafas-world.json](./306552-ro-fire-race-scrap-bolts-milk-seller-home-sweet-home-rafas-world.json) |
 | Ro Sham Bo Rush | 252142 | [252142-ro-sham-bo-rush.json](./252142-ro-sham-bo-rush.json) |
 | Ro-Bounce | 201543 | [201543-ro-bounce.json](./201543-ro-bounce.json) |
@@ -8831,6 +8832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Zillion | 75766 | [75766-rogue-zillion.json](./75766-rogue-zillion.json) |
 | Rogue-Fp | 242970 | [242970-rogue-fp.json](./242970-rogue-fp.json) |
 | Rogue-Like: Evolution | 282677 | [282677-rogue-like-evolution.json](./282677-rogue-like-evolution.json) |
+| Rogue, Rogue, Baby! | 238694 | [238694-rogue-rogue-baby.json](./238694-rogue-rogue-baby.json) |
 | Rogue: Genesia | 211066 | [211066-rogue-genesia.json](./211066-rogue-genesia.json) |
 | Rogue's Awakening | 185037 | [185037-rogues-awakening.json](./185037-rogues-awakening.json) |
 | Rogue's Light - The Greedy Cave | 95929 | [95929-rogues-light-the-greedy-cave.json](./95929-rogues-light-the-greedy-cave.json) |
@@ -10235,6 +10237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Toys | 38776 | [38776-rubber-toys.json](./38776-rubber-toys.json) |
 | Rubberduck Wave Racer | 245716 | [245716-rubberduck-wave-racer.json](./245716-rubberduck-wave-racer.json) |
 | Rubbish Island | 378890 | [378890-rubbish-island.json](./378890-rubbish-island.json) |
+| Rubblar | 238661 | [238661-rubblar.json](./238661-rubblar.json) |
 | Rubble Rampage | 413127 | [413127-rubble-rampage.json](./413127-rubble-rampage.json) |
 | Rubble Rush | 118069 | [118069-rubble-rush.json](./118069-rubble-rush.json) |
 | Rubble the Engineer | 359414 | [359414-rubble-the-engineer.json](./359414-rubble-the-engineer.json) |
