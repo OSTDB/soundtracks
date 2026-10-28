@@ -4261,6 +4261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wholesome Cats | 133322 | [133322-wholesome-cats.json](./133322-wholesome-cats.json) |
 | Wholesome Monster Girl Academia | 237791 | [237791-wholesome-monster-girl-academia.json](./237791-wholesome-monster-girl-academia.json) |
 | Wholesome Slaughter | 143014 | [143014-wholesome-slaughter.json](./143014-wholesome-slaughter.json) |
+| Wholesome: Heartdrawn | 253533 | [253533-wholesome-heartdrawn.json](./253533-wholesome-heartdrawn.json) |
 | Whomp 'Em | 48257 | [48257-whomp-em.json](./48257-whomp-em.json) |
 | Whomper Stomper | 54934 | [54934-whomper-stomper.json](./54934-whomper-stomper.json) |
 | Whone | 161571 | [161571-whone.json](./161571-whone.json) |
@@ -4787,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will You Ever Return? 2 | 120806 | [120806-will-you-ever-return-2.json](./120806-will-you-ever-return-2.json) |
 | Will You Press the Button? | 326717 | [326717-will-you-press-the-button.json](./326717-will-you-press-the-button.json) |
 | Will You Snail? | 120816 | [120816-will-you-snail.json](./120816-will-you-snail.json) |
+| Will You Wheel? | 253537 | [253537-will-you-wheel.json](./253537-will-you-wheel.json) |
 | Will-less | 235629 | [235629-will-less.json](./235629-will-less.json) |
 | Will: A Wonderful World | 34657 | [34657-will-a-wonderful-world.json](./34657-will-a-wonderful-world.json) |
 | Will: The Beginning | 368050 | [368050-will-the-beginning.json](./368050-will-the-beginning.json) |
@@ -5725,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within the Backrooms | 220634 | [220634-within-the-backrooms.json](./220634-within-the-backrooms.json) |
 | Within the Blade | 154594 | [154594-within-the-blade.json](./154594-within-the-blade.json) |
 | Within the Cosmos | 117457 | [117457-within-the-cosmos.json](./117457-within-the-cosmos.json) |
+| Within The Depths | 253407 | [253407-within-the-depths.json](./253407-within-the-depths.json) |
 | Within The Experiments | 414492 | [414492-within-the-experiments.json](./414492-within-the-experiments.json) |
 | Within the Range | 391045 | [391045-within-the-range.json](./391045-within-the-range.json) |
 | Within The Shadows | 297625 | [297625-within-the-shadows.json](./297625-within-the-shadows.json) |
