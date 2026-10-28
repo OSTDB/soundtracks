@@ -1972,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imaginary Future | 282163 | [282163-imaginary-future.json](./282163-imaginary-future.json) |
 | Imaginary Future: Expansion | 282164 | [282164-imaginary-future-expansion.json](./282164-imaginary-future-expansion.json) |
 | Imaginary Girl: Prequel | 253347 | [253347-imaginary-girl-prequel.json](./253347-imaginary-girl-prequel.json) |
+| Imaginary Girl: Sequel | 257500 | [257500-imaginary-girl-sequel.json](./257500-imaginary-girl-sequel.json) |
 | Imaginary Girls Three Kingdoms | 235347 | [235347-imaginary-girls-three-kingdoms.json](./235347-imaginary-girls-three-kingdoms.json) |
 | Imaginary Golf Game | 413176 | [413176-imaginary-golf-game.json](./413176-imaginary-golf-game.json) |
 | Imaginary Range | 65986 | [65986-imaginary-range.json](./65986-imaginary-range.json) |
