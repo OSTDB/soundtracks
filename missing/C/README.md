@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cage-Face: Case 2 - The Sewer | 193432 | [193432-cage-face-case-2-the-sewer.json](./193432-cage-face-case-2-the-sewer.json) |
 | Cage: Open | 193307 | [193307-cage-open.json](./193307-cage-open.json) |
 | Cagebreak | 60568 | [60568-cagebreak.json](./60568-cagebreak.json) |
+| Caged | 248844 | [248844-caged.json](./248844-caged.json) |
 | Caged Beast | 207696 | [207696-caged-beast.json](./207696-caged-beast.json) |
 | Caged Bird Don't Fly Caught in a Wire Sing Like a Good Canary Come When Called | 122335 | [122335-caged-bird-dont-fly-caught-in-a-wire-sing-like-a-good-canary-come-when-called.json](./122335-caged-bird-dont-fly-caught-in-a-wire-sing-like-a-good-canary-come-when-called.json) |
 | Caged Garden Cock Robin | 120259 | [120259-caged-garden-cock-robin.json](./120259-caged-garden-cock-robin.json) |
@@ -2451,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carpool: Attack of the Disco Mob | 361002 | [361002-carpool-attack-of-the-disco-mob.json](./361002-carpool-attack-of-the-disco-mob.json) |
 | Carpoon | 172515 | [172515-carpoon.json](./172515-carpoon.json) |
 | Carprogram | 273379 | [273379-carprogram.json](./273379-carprogram.json) |
+| CarRage | 248851 | [248851-carrage.json](./248851-carrage.json) |
 | Carrera | 295031 | [295031-carrera.json](./295031-carrera.json) |
 | Carrera Power Slide | 49308 | [49308-carrera-power-slide.json](./49308-carrera-power-slide.json) |
 | Carrera: Grand Prix | 146607 | [146607-carrera-grand-prix.json](./146607-carrera-grand-prix.json) |
@@ -3630,6 +3632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catan | 19435 | [19435-catan.json](./19435-catan.json) |
 | Catan | 196701 | [196701-catan.json](./196701-catan.json) |
 | Catan | 21830 | [21830-catan.json](./21830-catan.json) |
+| Catan | 248839 | [248839-catan.json](./248839-catan.json) |
 | Catan Universe | 28278 | [28278-catan-universe.json](./28278-catan-universe.json) |
 | Catan: Cities & Knights | 238213 | [238213-catan-cities-and-knights.json](./238213-catan-cities-and-knights.json) |
 | Catan: Console Edition | 220832 | [220832-catan-console-edition.json](./220832-catan-console-edition.json) |
@@ -4687,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chacha Fighter V | 98258 | [98258-chacha-fighter-v.json](./98258-chacha-fighter-v.json) |
 | Chachacha Slot | 87296 | [87296-chachacha-slot.json](./87296-chachacha-slot.json) |
 | Chachamaru Boukenki 3: Abyss no Tou | 49146 | [49146-chachamaru-boukenki-3-abyss-no-tou.json](./49146-chachamaru-boukenki-3-abyss-no-tou.json) |
+| Chachamaru Panic | 248823 | [248823-chachamaru-panic.json](./248823-chachamaru-panic.json) |
 | Chack'n Pop | 6103 | [6103-chackn-pop.json](./6103-chackn-pop.json) |
 | Chadboy | 241618 | [241618-chadboy.json](./241618-chadboy.json) |
 | Chadgeon: Enjoyers Edition+ | 296635 | [296635-chadgeon-enjoyers-edition.json](./296635-chadgeon-enjoyers-edition.json) |
@@ -7516,6 +7520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderline | 392394 | [392394-cinderline.json](./392394-cinderline.json) |
 | Cinders | 196163 | [196163-cinders.json](./196163-cinders.json) |
 | Cinders | 9723 | [9723-cinders.json](./9723-cinders.json) |
+| Cinders Magic | 248432 | [248432-cinders-magic.json](./248432-cinders-magic.json) |
 | Cinderscratch | 349820 | [349820-cinderscratch.json](./349820-cinderscratch.json) |
 | Cinderstone Online | 132149 | [132149-cinderstone-online.json](./132149-cinderstone-online.json) |
 | Cindy's Caribbean Holiday | 278862 | [278862-cindys-caribbean-holiday.json](./278862-cindys-caribbean-holiday.json) |
@@ -9259,6 +9264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluck Frenzy | 278915 | [278915-cluck-frenzy.json](./278915-cluck-frenzy.json) |
 | Cluck to the Top! | 373594 | [373594-cluck-to-the-top.json](./373594-cluck-to-the-top.json) |
 | Cluck-a-Thon | 258116 | [258116-cluck-a-thon.json](./258116-cluck-a-thon.json) |
+| Cluck: Hat Pack 3 | 248394 | [248394-cluck-hat-pack-3.json](./248394-cluck-hat-pack-3.json) |
 | Clucking Dubbed to Feathers | 268872 | [268872-clucking-dubbed-to-feathers.json](./268872-clucking-dubbed-to-feathers.json) |
 | Cluckles' Adventure | 29221 | [29221-cluckles-adventure.json](./29221-cluckles-adventure.json) |
 | Cluckmech Oasis | 275812 | [275812-cluckmech-oasis.json](./275812-cluckmech-oasis.json) |
@@ -9936,6 +9942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Stone Creamery: Scoop It Up | 51013 | [51013-cold-stone-creamery-scoop-it-up.json](./51013-cold-stone-creamery-scoop-it-up.json) |
 | Cold Storage | 329214 | [329214-cold-storage.json](./329214-cold-storage.json) |
 | Cold Storage | 70857 | [70857-cold-storage.json](./70857-cold-storage.json) |
+| Cold Sweat | 248384 | [248384-cold-sweat.json](./248384-cold-sweat.json) |
 | Cold Sweat | 323508 | [323508-cold-sweat.json](./323508-cold-sweat.json) |
 | Cold Trigger | 415759 | [415759-cold-trigger.json](./415759-cold-trigger.json) |
 | Cold Vengeance | 26877 | [26877-cold-vengeance.json](./26877-cold-vengeance.json) |
@@ -10578,6 +10585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Sci-Fi Fantasy Vistas Pack | 280951 | [280951-coloring-pixels-sci-fi-fantasy-vistas-pack.json](./280951-coloring-pixels-sci-fi-fantasy-vistas-pack.json) |
 | Coloring Pixels: Space Pack | 162596 | [162596-coloring-pixels-space-pack.json](./162596-coloring-pixels-space-pack.json) |
 | Coloring Pixels: Spring Pack | 162597 | [162597-coloring-pixels-spring-pack.json](./162597-coloring-pixels-spring-pack.json) |
+| Coloring Pixels: Stained Glass Pack | 248398 | [248398-coloring-pixels-stained-glass-pack.json](./248398-coloring-pixels-stained-glass-pack.json) |
 | Coloring Pixels: Steampunk Pack | 231329 | [231329-coloring-pixels-steampunk-pack.json](./231329-coloring-pixels-steampunk-pack.json) |
 | Coloring Pixels: Tarot Pack | 225005 | [225005-coloring-pixels-tarot-pack.json](./225005-coloring-pixels-tarot-pack.json) |
 | Coloring Pixels: Technology Pack | 162614 | [162614-coloring-pixels-technology-pack.json](./162614-coloring-pixels-technology-pack.json) |
@@ -17010,6 +17018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed House | 186326 | [186326-cursed-house.json](./186326-cursed-house.json) |
 | Cursed House 10 | 195425 | [195425-cursed-house-10.json](./195425-cursed-house-10.json) |
 | Cursed House 11 | 214181 | [214181-cursed-house-11.json](./214181-cursed-house-11.json) |
+| Cursed House 12 | 248393 | [248393-cursed-house-12.json](./248393-cursed-house-12.json) |
 | Cursed House 13 | 289813 | [289813-cursed-house-13.json](./289813-cursed-house-13.json) |
 | Cursed House 14 | 337213 | [337213-cursed-house-14.json](./337213-cursed-house-14.json) |
 | Cursed House 15 | 365050 | [365050-cursed-house-15.json](./365050-cursed-house-15.json) |
@@ -17402,6 +17411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Blades | 205108 | [205108-cyber-blades.json](./205108-cyber-blades.json) |
 | Cyber Cafe Simulator | 358264 | [358264-cyber-cafe-simulator.json](./358264-cyber-cafe-simulator.json) |
 | Cyber Car Seller Simulator | 347062 | [347062-cyber-car-seller-simulator.json](./347062-cyber-car-seller-simulator.json) |
+| Cyber Cars Punk Racing 2 | 248827 | [248827-cyber-cars-punk-racing-2.json](./248827-cyber-cars-punk-racing-2.json) |
 | Cyber Cell | 260230 | [260230-cyber-cell.json](./260230-cyber-cell.json) |
 | Cyber Chaos | 295076 | [295076-cyber-chaos.json](./295076-cyber-chaos.json) |
 | Cyber Chaser | 383187 | [383187-cyber-chaser.json](./383187-cyber-chaser.json) |
