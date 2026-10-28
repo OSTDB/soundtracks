@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.B... | 228005 | [228005-j-b.json](./228005-j-b.json) |
 | J.D. Arcades | 319584 | [319584-j-d-arcades.json](./319584-j-d-arcades.json) |
 | J.Edgar Hoover Vs. Kennedy | 135087 | [135087-j-edgar-hoover-vs-kennedy.json](./135087-j-edgar-hoover-vs-kennedy.json) |
+| J.J's Tennis Tour | 237006 | [237006-j-js-tennis-tour.json](./237006-j-js-tennis-tour.json) |
 | J.League 3D Stage | 234089 | [234089-j-league-3d-stage.json](./234089-j-league-3d-stage.json) |
 | J.League Big Wave Soccer | 65030 | [65030-j-league-big-wave-soccer.json](./65030-j-league-big-wave-soccer.json) |
 | J.League Dynamite Soccer 64 | 3519 | [3519-j-league-dynamite-soccer-64.json](./3519-j-league-dynamite-soccer-64.json) |
@@ -920,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Truck | 322049 | [322049-jelly-truck.json](./322049-jelly-truck.json) |
 | Jelly Wants More | 105377 | [105377-jelly-wants-more.json](./105377-jelly-wants-more.json) |
 | Jelly Wars | 114732 | [114732-jelly-wars.json](./114732-jelly-wars.json) |
+| Jelly Zoo | 236979 | [236979-jelly-zoo.json](./236979-jelly-zoo.json) |
 | Jelly-Jelly | 301890 | [301890-jelly-jelly.json](./301890-jelly-jelly.json) |
 | Jelly's Adventure | 208328 | [208328-jellys-adventure.json](./208328-jellys-adventure.json) |
 | JellyBall | 321284 | [321284-jellyball.json](./321284-jellyball.json) |
@@ -2997,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping in the middle of the sky | 289775 | [289775-jumping-in-the-middle-of-the-sky.json](./289775-jumping-in-the-middle-of-the-sky.json) |
 | Jumping Jack | 14139 | [14139-jumping-jack.json](./14139-jumping-jack.json) |
 | Jumping Jack | 340780 | [340780-jumping-jack.json](./340780-jumping-jack.json) |
+| Jumping Jack's Skydive | 236995 | [236995-jumping-jacks-skydive.json](./236995-jumping-jacks-skydive.json) |
 | Jumping Jack'Son | 15088 | [15088-jumping-jackson.json](./15088-jumping-jackson.json) |
 | Jumping Jacks | 243100 | [243100-jumping-jacks.json](./243100-jumping-jacks.json) |
 | Jumping Jax | 141040 | [141040-jumping-jax.json](./141040-jumping-jax.json) |
