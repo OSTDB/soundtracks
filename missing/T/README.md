@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarisland: Season 1 - Blight Dragon Elegy | 314403 | [314403-tarisland-season-1-blight-dragon-elegy.json](./314403-tarisland-season-1-blight-dragon-elegy.json) |
 | Tarkus and the Crystal of Fear | 122954 | [122954-tarkus-and-the-crystal-of-fear.json](./122954-tarkus-and-the-crystal-of-fear.json) |
 | Tarlis World | 293667 | [293667-tarlis-world.json](./293667-tarlis-world.json) |
+| Tarmac Legends | 253545 | [253545-tarmac-legends.json](./253545-tarmac-legends.json) |
 | Tarnished Blood | 250840 | [250840-tarnished-blood.json](./250840-tarnished-blood.json) |
 | Tarnsman's Projectile Hell | 262435 | [262435-tarnsmans-projectile-hell.json](./262435-tarnsmans-projectile-hell.json) |
 | Taro | 126637 | [126637-taro.json](./126637-taro.json) |
@@ -2531,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCStrikers5 | 339414 | [339414-tcstrikers5.json](./339414-tcstrikers5.json) |
 | TD Overdrive: The Brotherhood of Speed | 6191 | [6191-td-overdrive-the-brotherhood-of-speed.json](./6191-td-overdrive-the-brotherhood-of-speed.json) |
 | TD Quest | 233092 | [233092-td-quest.json](./233092-td-quest.json) |
+| TD Royale | 253525 | [253525-td-royale.json](./253525-td-royale.json) |
 | TD Strategy of Three Kingdoms | 130927 | [130927-td-strategy-of-three-kingdoms.json](./130927-td-strategy-of-three-kingdoms.json) |
 | TD Tower Defense | 259678 | [259678-td-tower-defense.json](./259678-td-tower-defense.json) |
 | TD Ultimate | 101022 | [101022-td-ultimate.json](./101022-td-ultimate.json) |
@@ -3593,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis no Ouji-sama: Smash Hit! | 405516 | [405516-tennis-no-ouji-sama-smash-hit.json](./405516-tennis-no-ouji-sama-smash-hit.json) |
 | Tennis no Ouji-sama: Smash Hit! 2 | 405515 | [405515-tennis-no-ouji-sama-smash-hit-2.json](./405515-tennis-no-ouji-sama-smash-hit-2.json) |
 | Tennis no Ouji-sama: Sweat & Tears 2 | 205641 | [205641-tennis-no-ouji-sama-sweat-and-tears-2.json](./205641-tennis-no-ouji-sama-sweat-and-tears-2.json) |
+| Tennis On-Court | 253174 | [253174-tennis-on-court.json](./253174-tennis-on-court.json) |
 | Tennis Pro Tour | 372190 | [372190-tennis-pro-tour.json](./372190-tennis-pro-tour.json) |
 | Tennis Pro Tournaments | 274737 | [274737-tennis-pro-tournaments.json](./274737-tennis-pro-tournaments.json) |
 | Tennis Slam: Global Duel Arena | 244807 | [244807-tennis-slam-global-duel-arena.json](./244807-tennis-slam-global-duel-arena.json) |
@@ -6306,6 +6309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicler | 150631 | [150631-the-chronicler.json](./150631-the-chronicler.json) |
 | The Chronicles of Confucius's Journey | 133129 | [133129-the-chronicles-of-confuciuss-journey.json](./133129-the-chronicles-of-confuciuss-journey.json) |
 | The Chronicles of Dragon Wing - Reborn | 44160 | [44160-the-chronicles-of-dragon-wing-reborn.json](./44160-the-chronicles-of-dragon-wing-reborn.json) |
+| The Chronicles of Eleos: The Hall of Azaron | 253408 | [253408-the-chronicles-of-eleos-the-hall-of-azaron.json](./253408-the-chronicles-of-eleos-the-hall-of-azaron.json) |
 | The Chronicles of Emerland Solitaire | 22089 | [22089-the-chronicles-of-emerland-solitaire.json](./22089-the-chronicles-of-emerland-solitaire.json) |
 | The Chronicles of Ezra Blackwell: Episode 1 - Pappi's Peril | 277281 | [277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json](./277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json) |
 | The Chronicles of Hercules: The 12 Labours | 169366 | [169366-the-chronicles-of-hercules-the-12-labours.json](./169366-the-chronicles-of-hercules-the-12-labours.json) |
@@ -17865,6 +17869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throw Trucks With Your Mind! | 62053 | [62053-throw-trucks-with-your-mind.json](./62053-throw-trucks-with-your-mind.json) |
 | Throw Wizard | 224636 | [224636-throw-wizard.json](./224636-throw-wizard.json) |
 | Throw Your Phone: Into the Ocean | 288615 | [288615-throw-your-phone-into-the-ocean.json](./288615-throw-your-phone-into-the-ocean.json) |
+| Throwback | 253178 | [253178-throwback.json](./253178-throwback.json) |
 | ThrowBomb | 261947 | [261947-throwbomb.json](./261947-throwbomb.json) |
 | ThrowDown | 351778 | [351778-throwdown.json](./351778-throwdown.json) |
 | Throwdown Boxing 2 | 175228 | [175228-throwdown-boxing-2.json](./175228-throwdown-boxing-2.json) |
@@ -25959,6 +25964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash is Fun | 153997 | [153997-trash-is-fun.json](./153997-trash-is-fun.json) |
 | Trash It | 46492 | [46492-trash-it.json](./46492-trash-it.json) |
 | Trash Magnate | 217318 | [217318-trash-magnate.json](./217318-trash-magnate.json) |
+| Trash of the Titans | 253528 | [253528-trash-of-the-titans.json](./253528-trash-of-the-titans.json) |
 | Trash Panda | 191056 | [191056-trash-panda.json](./191056-trash-panda.json) |
 | Trash Panda: The Adventures of Ricky and Boxman | 226433 | [226433-trash-panda-the-adventures-of-ricky-and-boxman.json](./226433-trash-panda-the-adventures-of-ricky-and-boxman.json) |
 | Trash Pandamonium | 302931 | [302931-trash-pandamonium.json](./302931-trash-pandamonium.json) |
