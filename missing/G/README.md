@@ -5301,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods and Mages | 387746 | [387746-gods-and-mages.json](./387746-gods-and-mages.json) |
 | Gods and Nemesis: of Ghosts from Dragons | 31884 | [31884-gods-and-nemesis-of-ghosts-from-dragons.json](./31884-gods-and-nemesis-of-ghosts-from-dragons.json) |
 | Gods Deify War | 374905 | [374905-gods-deify-war.json](./374905-gods-deify-war.json) |
+| Gods From the Abyss | 237568 | [237568-gods-from-the-abyss.json](./237568-gods-from-the-abyss.json) |
 | Gods of Almagest | 214514 | [214514-gods-of-almagest.json](./214514-gods-of-almagest.json) |
 | Gods of Angling | 396215 | [396215-gods-of-angling.json](./396215-gods-of-angling.json) |
 | Gods of Defense | 219798 | [219798-gods-of-defense.json](./219798-gods-of-defense.json) |
