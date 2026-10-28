@@ -14167,6 +14167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craving Wisps | 403210 | [403210-craving-wisps.json](./403210-craving-wisps.json) |
 | Crawl | 295634 | [295634-crawl.json](./295634-crawl.json) |
 | Crawl On One | 249660 | [249660-crawl-on-one.json](./249660-crawl-on-one.json) |
+| Crawl Quad | 232621 | [232621-crawl-quad.json](./232621-crawl-quad.json) |
 | Crawl Space | 186064 | [186064-crawl-space.json](./186064-crawl-space.json) |
 | Crawl Space: The Mansion | 74674 | [74674-crawl-space-the-mansion.json](./74674-crawl-space-the-mansion.json) |
 | Crawl Tactics | 211211 | [211211-crawl-tactics.json](./211211-crawl-tactics.json) |
@@ -16521,6 +16522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubelz: Cars | 168714 | [168714-cubelz-cars.json](./168714-cubelz-cars.json) |
 | Cubemash | 25961 | [25961-cubemash.json](./25961-cubemash.json) |
 | CubeMator - Mine the MC World | 102203 | [102203-cubemator-mine-the-mc-world.json](./102203-cubemator-mine-the-mc-world.json) |
+| Cubematrix | 232639 | [232639-cubematrix.json](./232639-cubematrix.json) |
 | Cubemen | 16346 | [16346-cubemen.json](./16346-cubemen.json) |
 | Cuben | 331723 | [331723-cuben.json](./331723-cuben.json) |
 | Cubenen Gardens: Befriend | 316148 | [316148-cubenen-gardens-befriend.json](./316148-cubenen-gardens-befriend.json) |
@@ -16851,6 +16853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cunt Wars | 140570 | [140570-cunt-wars.json](./140570-cunt-wars.json) |
 | Cuomo and the Quest for Gracie Mansion | 360553 | [360553-cuomo-and-the-quest-for-gracie-mansion.json](./360553-cuomo-and-the-quest-for-gracie-mansion.json) |
 | Cup and Counter: Coffee Shop Simulator | 392774 | [392774-cup-and-counter-coffee-shop-simulator.json](./392774-cup-and-counter-coffee-shop-simulator.json) |
+| Cup Blitz 2 | 232617 | [232617-cup-blitz-2.json](./232617-cup-blitz-2.json) |
 | Cup Critters | 56250 | [56250-cup-critters.json](./56250-cup-critters.json) |
 | Cup Football | 13537 | [13537-cup-football.json](./13537-cup-football.json) |
 | Cup Hand Adventure | 319295 | [319295-cup-hand-adventure.json](./319295-cup-hand-adventure.json) |
@@ -17679,6 +17682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberball 2072 | 23070 | [23070-cyberball-2072.json](./23070-cyberball-2072.json) |
 | Cyberbig | 13539 | [13539-cyberbig.json](./13539-cyberbig.json) |
 | Cyberbike 2 | 65423 | [65423-cyberbike-2.json](./65423-cyberbike-2.json) |
+| Cyberblock Metal Orange | 232631 | [232631-cyberblock-metal-orange.json](./232631-cyberblock-metal-orange.json) |
 | Cyberbots: Fullmetal Madness | 43820 | [43820-cyberbots-fullmetal-madness.json](./43820-cyberbots-fullmetal-madness.json) |
 | CyberBrick | 226427 | [226427-cyberbrick.json](./226427-cyberbrick.json) |
 | Cybercar | 392452 | [392452-cybercar.json](./392452-cybercar.json) |
