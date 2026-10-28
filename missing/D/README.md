@@ -1375,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Farm | 322995 | [322995-dark-farm.json](./322995-dark-farm.json) |
 | Dark Farts: Parody Smell Edition | 383045 | [383045-dark-farts-parody-smell-edition.json](./383045-dark-farts-parody-smell-edition.json) |
 | Dark Fear | 20143 | [20143-dark-fear.json](./20143-dark-fear.json) |
+| Dark Fiber | 242713 | [242713-dark-fiber.json](./242713-dark-fiber.json) |
 | Dark Flow | 220586 | [220586-dark-flow.json](./220586-dark-flow.json) |
 | Dark Flowers | 157135 | [157135-dark-flowers.json](./157135-dark-flowers.json) |
 | Dark Flowers: Tiny Starlight | 380211 | [380211-dark-flowers-tiny-starlight.json](./380211-dark-flowers-tiny-starlight.json) |
@@ -5215,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliver Together | 406324 | [406324-deliver-together.json](./406324-deliver-together.json) |
 | Deliver Us From Evil | 178484 | [178484-deliver-us-from-evil.json](./178484-deliver-us-from-evil.json) |
 | Deliver Us From Evil: Cadenza | 192284 | [192284-deliver-us-from-evil-cadenza.json](./192284-deliver-us-from-evil-cadenza.json) |
+| Deliver Us From Evil: Masquerade | 242723 | [242723-deliver-us-from-evil-masquerade.json](./242723-deliver-us-from-evil-masquerade.json) |
 | Deliver Us Home | 303467 | [303467-deliver-us-home.json](./303467-deliver-us-home.json) |
 | Deliver Us Mars: Deluxe Edition | 204468 | [204468-deliver-us-mars-deluxe-edition.json](./204468-deliver-us-mars-deluxe-edition.json) |
 | Deliver us the Moon: Deluxe Edition | 166177 | [166177-deliver-us-the-moon-deluxe-edition.json](./166177-deliver-us-the-moon-deluxe-edition.json) |
@@ -7388,6 +7390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Dice Dice: A Roll Playing Game | 291300 | [291300-dice-dice-dice-a-roll-playing-game.json](./291300-dice-dice-dice-a-roll-playing-game.json) |
 | Dice Dice Fantasia | 278826 | [278826-dice-dice-fantasia.json](./278826-dice-dice-fantasia.json) |
 | Dice Dreams | 233897 | [233897-dice-dreams.json](./233897-dice-dreams.json) |
+| Dice Fantasy | 242705 | [242705-dice-fantasy.json](./242705-dice-fantasy.json) |
 | Dice Fight | 232368 | [232368-dice-fight.json](./232368-dice-fight.json) |
 | Dice Game | 226179 | [226179-dice-game.json](./226179-dice-game.json) |
 | Dice Goblin's Den | 392118 | [392118-dice-goblins-den.json](./392118-dice-goblins-den.json) |
@@ -8108,6 +8111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimraeth | 249202 | [249202-dimraeth.json](./249202-dimraeth.json) |
 | Dimwarper | 215884 | [215884-dimwarper.json](./215884-dimwarper.json) |
 | Dimwood | 338682 | [338682-dimwood.json](./338682-dimwood.json) |
+| Din | 242696 | [242696-din.json](./242696-din.json) |
 | Din's Champion | 316289 | [316289-dins-champion.json](./316289-dins-champion.json) |
 | Din's Curse | 8820 | [8820-dins-curse.json](./8820-dins-curse.json) |
 | Din's Curse: Demon War | 8821 | [8821-dins-curse-demon-war.json](./8821-dins-curse-demon-war.json) |
@@ -15025,6 +15029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duality Paradox | 385566 | [385566-duality-paradox.json](./385566-duality-paradox.json) |
 | Duality Shift | 373109 | [373109-duality-shift.json](./373109-duality-shift.json) |
 | Duality ZF | 92062 | [92062-duality-zf.json](./92062-duality-zf.json) |
+| Duality: An Era of Stone | 242348 | [242348-duality-an-era-of-stone.json](./242348-duality-an-era-of-stone.json) |
 | DualMania!: Universes Connect | 176389 | [176389-dualmania-universes-connect.json](./176389-dualmania-universes-connect.json) |
 | DualPenSports | 25179 | [25179-dualpensports.json](./25179-dualpensports.json) |
 | Dualspace | 419634 | [419634-dualspace.json](./419634-dualspace.json) |
@@ -15497,6 +15502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungene | 217354 | [217354-dungene.json](./217354-dungene.json) |
 | Dungenious | 187782 | [187782-dungenious.json](./187782-dungenious.json) |
 | Dungeon | 227756 | [227756-dungeon.json](./227756-dungeon.json) |
+| Dungeon | 242699 | [242699-dungeon.json](./242699-dungeon.json) |
 | Dungeon | 288637 | [288637-dungeon.json](./288637-dungeon.json) |
 | Dungeon | 290308 | [290308-dungeon.json](./290308-dungeon.json) |
 | Dungeon | 86095 | [86095-dungeon.json](./86095-dungeon.json) |
@@ -16178,6 +16184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Edera | 121986 | [121986-dungeons-of-edera.json](./121986-dungeons-of-edera.json) |
 | Dungeons of Edera 2 | 363950 | [363950-dungeons-of-edera-2.json](./363950-dungeons-of-edera-2.json) |
 | Dungeons of Eternity | 251564 | [251564-dungeons-of-eternity.json](./251564-dungeons-of-eternity.json) |
+| Dungeons of Fayte | 242730 | [242730-dungeons-of-fayte.json](./242730-dungeons-of-fayte.json) |
 | Dungeons of Freeport | 408249 | [408249-dungeons-of-freeport.json](./408249-dungeons-of-freeport.json) |
 | Dungeons of Hell | 74228 | [74228-dungeons-of-hell.json](./74228-dungeons-of-hell.json) |
 | Dungeons of Hinterberg: Episode Renaud | 358904 | [358904-dungeons-of-hinterberg-episode-renaud.json](./358904-dungeons-of-hinterberg-episode-renaud.json) |
