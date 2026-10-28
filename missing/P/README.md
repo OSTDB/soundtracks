@@ -2948,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: John Wick Heists | 167686 | [167686-payday-2-john-wick-heists.json](./167686-payday-2-john-wick-heists.json) |
 | Payday 2: Lawless Tailor Pack | 252884 | [252884-payday-2-lawless-tailor-pack.json](./252884-payday-2-lawless-tailor-pack.json) |
 | Payday 2: Legacy Collection | 289004 | [289004-payday-2-legacy-collection.json](./289004-payday-2-legacy-collection.json) |
+| Payday 2: McShay Mod Pack | 263089 | [263089-payday-2-mcshay-mod-pack.json](./263089-payday-2-mcshay-mod-pack.json) |
 | Payday 2: McShay Weapon Pack | 225170 | [225170-payday-2-mcshay-weapon-pack.json](./225170-payday-2-mcshay-weapon-pack.json) |
 | Payday 2: Mega City Tailor Pack | 225171 | [225171-payday-2-mega-city-tailor-pack.json](./225171-payday-2-mega-city-tailor-pack.json) |
 | Payday 2: Mountain Master Heist | 196150 | [196150-payday-2-mountain-master-heist.json](./196150-payday-2-mountain-master-heist.json) |
@@ -7334,6 +7335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Room: Escape Game | 277163 | [277163-pixel-room-escape-game.json](./277163-pixel-room-escape-game.json) |
 | Pixel Rooms | 233554 | [233554-pixel-rooms.json](./233554-pixel-rooms.json) |
 | Pixel Royale | 109357 | [109357-pixel-royale.json](./109357-pixel-royale.json) |
+| Pixel Royale 3D | 263070 | [263070-pixel-royale-3d.json](./263070-pixel-royale-3d.json) |
 | Pixel Run and Gun | 402342 | [402342-pixel-run-and-gun.json](./402342-pixel-run-and-gun.json) |
 | Pixel Run! | 252203 | [252203-pixel-run.json](./252203-pixel-run.json) |
 | Pixel Samurai | 204812 | [204812-pixel-samurai.json](./204812-pixel-samurai.json) |
@@ -7986,9 +7988,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zoo: Conservation Pack | 207746 | [207746-planet-zoo-conservation-pack.json](./207746-planet-zoo-conservation-pack.json) |
 | Planet Zoo: Console Edition | 284574 | [284574-planet-zoo-console-edition.json](./284574-planet-zoo-console-edition.json) |
 | Planet Zoo: Europe Pack | 191245 | [191245-planet-zoo-europe-pack.json](./191245-planet-zoo-europe-pack.json) |
+| Planet Zoo: Grasslands Animal Pack | 263097 | [263097-planet-zoo-grasslands-animal-pack.json](./263097-planet-zoo-grasslands-animal-pack.json) |
 | Planet Zoo: North America Animal Pack | 174129 | [174129-planet-zoo-north-america-animal-pack.json](./174129-planet-zoo-north-america-animal-pack.json) |
 | Planet Zoo: Oceania Pack | 266381 | [266381-planet-zoo-oceania-pack.json](./266381-planet-zoo-oceania-pack.json) |
 | Planet Zoo: Tropical Pack | 243535 | [243535-planet-zoo-tropical-pack.json](./243535-planet-zoo-tropical-pack.json) |
+| Planet Zoo: Twilight Pack | 263073 | [263073-planet-zoo-twilight-pack.json](./263073-planet-zoo-twilight-pack.json) |
 | Planet Zoo: Wetlands Animal Pack | 197558 | [197558-planet-zoo-wetlands-animal-pack.json](./197558-planet-zoo-wetlands-animal-pack.json) |
 | Planet Zoo: Zookeepers Animal Pack | 336614 | [336614-planet-zoo-zookeepers-animal-pack.json](./336614-planet-zoo-zookeepers-animal-pack.json) |
 | Planet-Fall | 290997 | [290997-planet-fall.json](./290997-planet-fall.json) |
