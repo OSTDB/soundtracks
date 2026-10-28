@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Girl | 127676 | [127676-bad-girl.json](./127676-bad-girl.json) |
 | Bad Girl Confidential: The Pleasure Den | 286530 | [286530-bad-girl-confidential-the-pleasure-den.json](./286530-bad-girl-confidential-the-pleasure-den.json) |
 | Bad Girls | 92432 | [92432-bad-girls.json](./92432-bad-girls.json) |
+| Bad Girls Tough Love | 228874 | [228874-bad-girls-tough-love.json](./228874-bad-girls-tough-love.json) |
 | Bad Girls: Sweet Trouble | 401105 | [401105-bad-girls-sweet-trouble.json](./401105-bad-girls-sweet-trouble.json) |
 | Bad Government | 55499 | [55499-bad-government.json](./55499-bad-government.json) |
 | Bad Guy Adventure | 151136 | [151136-bad-guy-adventure.json](./151136-bad-guy-adventure.json) |
@@ -12395,6 +12396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box to the Box | 207896 | [207896-box-to-the-box.json](./207896-box-to-the-box.json) |
 | Box Up | 54958 | [54958-box-up.json](./54958-box-up.json) |
 | Box Voyage | 134320 | [134320-box-voyage.json](./134320-box-voyage.json) |
+| Box World | 229282 | [229282-box-world.json](./229282-box-world.json) |
 | Box World | 338824 | [338824-box-world.json](./338824-box-world.json) |
 | Box World Greens | 338846 | [338846-box-world-greens.json](./338846-box-world-greens.json) |
 | Box Wrangler | 305642 | [305642-box-wrangler.json](./305642-box-wrangler.json) |
