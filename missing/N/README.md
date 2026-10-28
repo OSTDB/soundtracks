@@ -2449,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netdreams Sudoku | 276625 | [276625-netdreams-sudoku.json](./276625-netdreams-sudoku.json) |
 | Netflix Infinite Runner | 76873 | [76873-netflix-infinite-runner.json](./76873-netflix-infinite-runner.json) |
 | Netflix Puzzled | 364819 | [364819-netflix-puzzled.json](./364819-netflix-puzzled.json) |
+| Netflix Stories: Love Is Blind | 268848 | [268848-netflix-stories-love-is-blind.json](./268848-netflix-stories-love-is-blind.json) |
 | Netflix Stories: Money Heist | 276333 | [276333-netflix-stories-money-heist.json](./276333-netflix-stories-money-heist.json) |
 | Netflix Stories: Sex Education | 358223 | [358223-netflix-stories-sex-education.json](./358223-netflix-stories-sex-education.json) |
 | NetGame Adventure | 252298 | [252298-netgame-adventure.json](./252298-netgame-adventure.json) |
@@ -4609,6 +4610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjatown | 2825 | [2825-ninjatown.json](./2825-ninjatown.json) |
 | Ninjatown: Trees of Doom! | 21755 | [21755-ninjatown-trees-of-doom.json](./21755-ninjatown-trees-of-doom.json) |
 | Ninjin: Clash of Carrots | 60534 | [60534-ninjin-clash-of-carrots.json](./60534-ninjin-clash-of-carrots.json) |
+| Ninjish Guy in Low-Res World | 269163 | [269163-ninjish-guy-in-low-res-world.json](./269163-ninjish-guy-in-low-res-world.json) |
 | Ninjora Echoes | 391120 | [391120-ninjora-echoes.json](./391120-ninjora-echoes.json) |
 | NinJump Dash | 60073 | [60073-ninjump-dash.json](./60073-ninjump-dash.json) |
 | NinJump Rush | 220828 | [220828-ninjump-rush.json](./220828-ninjump-rush.json) |
