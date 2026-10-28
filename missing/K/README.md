@@ -3516,6 +3516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Coliseum | 388230 | [388230-kitten-coliseum.json](./388230-kitten-coliseum.json) |
 | Kitten Food Alley | 332963 | [332963-kitten-food-alley.json](./332963-kitten-food-alley.json) |
 | Kitten Hero | 203679 | [203679-kitten-hero.json](./203679-kitten-hero.json) |
+| Kitten Home: Neko Collector | 242133 | [242133-kitten-home-neko-collector.json](./242133-kitten-home-neko-collector.json) |
 | Kitten Island | 251112 | [251112-kitten-island.json](./251112-kitten-island.json) |
 | Kitten Kaboodle | 40236 | [40236-kitten-kaboodle.json](./40236-kitten-kaboodle.json) |
 | Kitten Life Simulator | 97496 | [97496-kitten-life-simulator.json](./97496-kitten-life-simulator.json) |
@@ -5183,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kumo: The Little Robot | 126986 | [126986-kumo-the-little-robot.json](./126986-kumo-the-little-robot.json) |
 | Kumoon: Ballistic Physics Puzzle | 19029 | [19029-kumoon-ballistic-physics-puzzle.json](./19029-kumoon-ballistic-physics-puzzle.json) |
 | Kun’tewiktuk: A Mi’kmaw Adventure | 303620 | [303620-kun-tewiktuk-a-mi-kmaw-adventure.json](./303620-kun-tewiktuk-a-mi-kmaw-adventure.json) |
+| Kunado Chronicles | 242122 | [242122-kunado-chronicles.json](./242122-kunado-chronicles.json) |
 | Kunai Master | 224024 | [224024-kunai-master.json](./224024-kunai-master.json) |
 | Kunai Strike | 203557 | [203557-kunai-strike.json](./203557-kunai-strike.json) |
 | Kundara: Art of Cards | 381311 | [381311-kundara-art-of-cards.json](./381311-kundara-art-of-cards.json) |
