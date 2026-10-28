@@ -2066,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental World | 208039 | [208039-elemental-world.json](./208039-elemental-world.json) |
 | Elemental World | 311798 | [311798-elemental-world.json](./311798-elemental-world.json) |
 | Elemental World Part 1: Rise of the Guardians | 91443 | [91443-elemental-world-part-1-rise-of-the-guardians.json](./91443-elemental-world-part-1-rise-of-the-guardians.json) |
+| Elemental, Querido Gunso | 234252 | [234252-elemental-querido-gunso.json](./234252-elemental-querido-gunso.json) |
 | Elemental: War of Magic | 20451 | [20451-elemental-war-of-magic.json](./20451-elemental-war-of-magic.json) |
 | Elementalism | 269464 | [269464-elementalism.json](./269464-elementalism.json) |
 | Elementalist | 309400 | [309400-elementalist.json](./309400-elementalist.json) |
@@ -3996,7 +3997,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Vampire | 307721 | [307721-epic-vampire.json](./307721-epic-vampire.json) |
 | Epic Walk | 324881 | [324881-epic-walk.json](./324881-epic-walk.json) |
 | Epic War 1 | 86057 | [86057-epic-war-1.json](./86057-epic-war-1.json) |
+| Epic War 2 | 234258 | [234258-epic-war-2.json](./234258-epic-war-2.json) |
+| Epic War 3: War of Heroes | 234259 | [234259-epic-war-3-war-of-heroes.json](./234259-epic-war-3-war-of-heroes.json) |
+| Epic War 4: Alliance of Heroes | 234260 | [234260-epic-war-4-alliance-of-heroes.json](./234260-epic-war-4-alliance-of-heroes.json) |
+| Epic War 5: Hell's Gate | 234261 | [234261-epic-war-5-hells-gate.json](./234261-epic-war-5-hells-gate.json) |
 | Epic War Collection | 359350 | [359350-epic-war-collection.json](./359350-epic-war-collection.json) |
+| Epic War Legends | 234263 | [234263-epic-war-legends.json](./234263-epic-war-legends.json) |
+| Epic War Saga | 234262 | [234262-epic-war-saga.json](./234262-epic-war-saga.json) |
+| Epic War VI | 234264 | [234264-epic-war-vi.json](./234264-epic-war-vi.json) |
 | Epic Word Search Collection | 85125 | [85125-epic-word-search-collection.json](./85125-epic-word-search-collection.json) |
 | Epic Word Search Holiday Special | 85123 | [85123-epic-word-search-holiday-special.json](./85123-epic-word-search-holiday-special.json) |
 | Epic World | 126970 | [126970-epic-world.json](./126970-epic-world.json) |
