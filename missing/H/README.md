@@ -1844,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harpoon III | 130798 | [130798-harpoon-iii.json](./130798-harpoon-iii.json) |
 | Harpoon Lagoon | 309332 | [309332-harpoon-lagoon.json](./309332-harpoon-lagoon.json) |
 | Harpoon Reef Hunter | 253570 | [253570-harpoon-reef-hunter.json](./253570-harpoon-reef-hunter.json) |
+| Harpoon Shooter! Nozomi | 237014 | [237014-harpoon-shooter-nozomi.json](./237014-harpoon-shooter-nozomi.json) |
 | Harpooned | 94936 | [94936-harpooned.json](./94936-harpooned.json) |
 | Harpooneer | 400323 | [400323-harpooneer.json](./400323-harpooneer.json) |
 | Harpoons & Balls | 57083 | [57083-harpoons-and-balls.json](./57083-harpoons-and-balls.json) |
@@ -6918,6 +6919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hill Street Blues | 71989 | [71989-hill-street-blues.json](./71989-hill-street-blues.json) |
 | Hillary Race for the White House | 343880 | [343880-hillary-race-for-the-white-house.json](./343880-hillary-race-for-the-white-house.json) |
 | Hillbilly Apocalypse | 111709 | [111709-hillbilly-apocalypse.json](./111709-hillbilly-apocalypse.json) |
+| Hillbilly Burgers | 236976 | [236976-hillbilly-burgers.json](./236976-hillbilly-burgers.json) |
 | Hillbilly Doomsday | 205077 | [205077-hillbilly-doomsday.json](./205077-hillbilly-doomsday.json) |
 | Hillbilly Organ Grinder | 60527 | [60527-hillbilly-organ-grinder.json](./60527-hillbilly-organ-grinder.json) |
 | Hillbomb | 271621 | [271621-hillbomb.json](./271621-hillbomb.json) |
@@ -10917,6 +10919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper's Quest Reborn | 316969 | [316969-hypers-quest-reborn.json](./316969-hypers-quest-reborn.json) |
 | Hyper's Quest: Mystic Warp | 316968 | [316968-hypers-quest-mystic-warp.json](./316968-hypers-quest-mystic-warp.json) |
 | Hyperaction | 152478 | [152478-hyperaction.json](./152478-hyperaction.json) |
+| Hyperbahn | 236993 | [236993-hyperbahn.json](./236993-hyperbahn.json) |
 | Hyperballoid 2: Time Rider | 90499 | [90499-hyperballoid-2-time-rider.json](./90499-hyperballoid-2-time-rider.json) |
 | Hyperballoid Deluxe: Survival Pack | 130846 | [130846-hyperballoid-deluxe-survival-pack.json](./130846-hyperballoid-deluxe-survival-pack.json) |
 | Hyperbaroque | 186759 | [186759-hyperbaroque.json](./186759-hyperbaroque.json) |
@@ -11008,6 +11011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdrive Inn | 265092 | [265092-hyperdrive-inn.json](./265092-hyperdrive-inn.json) |
 | HyperDrive X | 409241 | [409241-hyperdrive-x.json](./409241-hyperdrive-x.json) |
 | Hyperdrome | 125330 | [125330-hyperdrome.json](./125330-hyperdrome.json) |
+| Hyperdrome | 237001 | [237001-hyperdrome.json](./237001-hyperdrome.json) |
 | HyperFantasy Mimesis | 302894 | [302894-hyperfantasy-mimesis.json](./302894-hyperfantasy-mimesis.json) |
 | HyperFatal | 303553 | [303553-hyperfatal.json](./303553-hyperfatal.json) |
 | HyperFeat | 152761 | [152761-hyperfeat.json](./152761-hyperfeat.json) |
