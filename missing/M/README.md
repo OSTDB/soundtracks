@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madela | 127859 | [127859-madela.json](./127859-madela.json) |
 | Madeline: European Adventures | 210114 | [210114-madeline-european-adventures.json](./210114-madeline-european-adventures.json) |
 | Mademoiselle Kshatriya | 367622 | [367622-mademoiselle-kshatriya.json](./367622-mademoiselle-kshatriya.json) |
+| Madfut 23 | 232128 | [232128-madfut-23.json](./232128-madfut-23.json) |
 | MadFut 25 | 327873 | [327873-madfut-25.json](./327873-madfut-25.json) |
 | Madgun | 241277 | [241277-madgun.json](./241277-madgun.json) |
 | Madhack | 140449 | [140449-madhack.json](./140449-madhack.json) |
@@ -16603,6 +16604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplication Dragons | 103545 | [103545-multiplication-dragons.json](./103545-multiplication-dragons.json) |
 | Multiplication Flash Cards Games Fun Math Problems | 91228 | [91228-multiplication-flash-cards-games-fun-math-problems.json](./91228-multiplication-flash-cards-games-fun-math-problems.json) |
 | Multiplication Mayhem | 277280 | [277280-multiplication-mayhem.json](./277280-multiplication-mayhem.json) |
+| Multiplication: The Game | 232117 | [232117-multiplication-the-game.json](./232117-multiplication-the-game.json) |
 | Multiplications Asteroids: Math in Space Learning Series | 89518 | [89518-multiplications-asteroids-math-in-space-learning-series.json](./89518-multiplications-asteroids-math-in-space-learning-series.json) |
 | Multiply Factory | 212116 | [212116-multiply-factory.json](./212116-multiply-factory.json) |
 | Multipuck | 134945 | [134945-multipuck.json](./134945-multipuck.json) |
@@ -17071,6 +17073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Room | 143475 | [143475-music-room.json](./143475-music-room.json) |
 | Music Run: Hall of the Mountain King | 266249 | [266249-music-run-hall-of-the-mountain-king.json](./266249-music-run-hall-of-the-mountain-king.json) |
 | Music Sim Empire | 298031 | [298031-music-sim-empire.json](./298031-music-sim-empire.json) |
+| Music Star: Life Simulator | 232093 | [232093-music-star-life-simulator.json](./232093-music-star-life-simulator.json) |
 | Music Store Simulator | 207326 | [207326-music-store-simulator.json](./207326-music-store-simulator.json) |
 | Music Summoner | 249874 | [249874-music-summoner.json](./249874-music-summoner.json) |
 | Music Thief | 191813 | [191813-music-thief.json](./191813-music-thief.json) |
