@@ -4744,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Simulator | 145439 | [145439-escape-simulator.json](./145439-escape-simulator.json) |
 | Escape Simulator 2 | 325646 | [325646-escape-simulator-2.json](./325646-escape-simulator-2.json) |
 | Escape Simulator 2: Apocalypse DLC | 407417 | [407417-escape-simulator-2-apocalypse-dlc.json](./407417-escape-simulator-2-apocalypse-dlc.json) |
+| Escape Simulator VR | 253530 | [253530-escape-simulator-vr.json](./253530-escape-simulator-vr.json) |
 | Escape Simulator: Among Us | 280413 | [280413-escape-simulator-among-us.json](./280413-escape-simulator-among-us.json) |
 | Escape Simulator: Magic DLC | 293464 | [293464-escape-simulator-magic-dlc.json](./293464-escape-simulator-magic-dlc.json) |
 | Escape Simulator: Mayan DLC | 321345 | [321345-escape-simulator-mayan-dlc.json](./321345-escape-simulator-mayan-dlc.json) |
@@ -5016,6 +5017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espire 1: Sydney Sneakabouts Mission Pack | 305520 | [305520-espire-1-sydney-sneakabouts-mission-pack.json](./305520-espire-1-sydney-sneakabouts-mission-pack.json) |
 | Espire 1: VR Operative | 68569 | [68569-espire-1-vr-operative.json](./68569-espire-1-vr-operative.json) |
 | Espire 2 | 198228 | [198228-espire-2.json](./198228-espire-2.json) |
+| Espire 2: Mixed Reality Update | 253183 | [253183-espire-2-mixed-reality-update.json](./253183-espire-2-mixed-reality-update.json) |
 | Espire: MR Missions | 377649 | [377649-espire-mr-missions.json](./377649-espire-mr-missions.json) |
 | Espitene | 368070 | [368070-espitene.json](./368070-espitene.json) |
 | ESPN Baseball 2K4 | 43249 | [43249-espn-baseball-2k4.json](./43249-espn-baseball-2k4.json) |
