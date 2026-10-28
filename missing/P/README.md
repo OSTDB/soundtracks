@@ -5351,6 +5351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross.io | 126640 | [126640-picross-io.json](./126640-picross-io.json) |
 | Pics Towers of Defense | 110275 | [110275-pics-towers-of-defense.json](./110275-pics-towers-of-defense.json) |
 | Picscape | 339347 | [339347-picscape.json](./339347-picscape.json) |
+| Pictables | 232114 | [232114-pictables.json](./232114-pictables.json) |
 | Pictassembler | 127178 | [127178-pictassembler.json](./127178-pictassembler.json) |
 | Pictective | 373272 | [373272-pictective.json](./373272-pictective.json) |
 | Picterra | 305957 | [305957-picterra.json](./305957-picterra.json) |
@@ -7138,6 +7139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Princess Arena | 269219 | [269219-pixel-princess-arena.json](./269219-pixel-princess-arena.json) |
 | Pixel Privateers | 27405 | [27405-pixel-privateers.json](./27405-pixel-privateers.json) |
 | Pixel Pro Golf | 256752 | [256752-pixel-pro-golf.json](./256752-pixel-pro-golf.json) |
+| Pixel Pro Snow Fight | 232098 | [232098-pixel-pro-snow-fight.json](./232098-pixel-pro-snow-fight.json) |
 | Pixel Pro Tennis | 213643 | [213643-pixel-pro-tennis.json](./213643-pixel-pro-tennis.json) |
 | Pixel Pro Winter Sports | 243175 | [243175-pixel-pro-winter-sports.json](./243175-pixel-pro-winter-sports.json) |
 | Pixel Punk | 252275 | [252275-pixel-punk.json](./252275-pixel-punk.json) |
@@ -15901,6 +15903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Girls: Lingerie | 109492 | [109492-puzzle-girls-lingerie.json](./109492-puzzle-girls-lingerie.json) |
 | Puzzle Girls: Seductive Nights | 410373 | [410373-puzzle-girls-seductive-nights.json](./410373-puzzle-girls-seductive-nights.json) |
 | Puzzle Go! | 251729 | [251729-puzzle-go.json](./251729-puzzle-go.json) |
+| Puzzle Gods | 232103 | [232103-puzzle-gods.json](./232103-puzzle-gods.json) |
 | Puzzle Grid | 263571 | [263571-puzzle-grid.json](./263571-puzzle-grid.json) |
 | Puzzle Guardians | 29155 | [29155-puzzle-guardians.json](./29155-puzzle-guardians.json) |
 | Puzzle Guys | 149835 | [149835-puzzle-guys.json](./149835-puzzle-guys.json) |
