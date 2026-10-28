@@ -5540,6 +5540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Heart: Shirarezaru Kako Majo Dorothy no Himitsu - Kanketsu-hen | 259742 | [259742-witchs-heart-shirarezaru-kako-majo-dorothy-no-himitsu-kanketsu-hen.json](./259742-witchs-heart-shirarezaru-kako-majo-dorothy-no-himitsu-kanketsu-hen.json) |
 | Witch's Heart: Utsukushiki Hana to Akuma no Noroi - Kanketsu-hen | 323601 | [323601-witchs-heart-utsukushiki-hana-to-akuma-no-noroi-kanketsu-hen.json](./323601-witchs-heart-utsukushiki-hana-to-akuma-no-noroi-kanketsu-hen.json) |
 | Witch’s Lewd Curse | 367053 | [367053-witch-s-lewd-curse.json](./367053-witch-s-lewd-curse.json) |
+| Witch's Library | 277119 | [277119-witchs-library.json](./277119-witchs-library.json) |
 | Witch's Mystery | 215654 | [215654-witchs-mystery.json](./215654-witchs-mystery.json) |
 | Witch's Pranks: Frog's Fortune - Collector's Edition | 35929 | [35929-witchs-pranks-frogs-fortune-collectors-edition.json](./35929-witchs-pranks-frogs-fortune-collectors-edition.json) |
 | Witch's Reign | 153858 | [153858-witchs-reign.json](./153858-witchs-reign.json) |
