@@ -4,6 +4,7 @@
 
 | Cover | Game | Albums |
 |---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273da9e420dd53ce1630ad943b9" width="60" /> | [X Rebirth](https://ostdb.net/games/x-rebirth) | **X Rebirth (Soundtrack)** · [Spotify](https://open.spotify.com/album/2cth1fsMgrnZD22ZjZ5A3P) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739fa95285efe7b8fbeb7cae6c" width="60" /> | [X4: Foundations](https://ostdb.net/games/x4-foundations) | **X4:Foundations (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3DvAeJqtE53XmHAxLSzD8q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fc6764dc9a866578bd683a3" width="60" /> | [XCOM 2](https://ostdb.net/games/xcom-2) | **XCOM 2 (Original Soundtrack from the Video Game)** · [Spotify](https://open.spotify.com/album/0Ghjope2CU9IqdmCZTCNgn) · [Apple Music](https://music.apple.com/us/album/xcom-2-original-soundtrack-from-the-video-game/1077916402) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733dede27e18e54a36d450d998" width="60" /> | [XCOM 2: War of the Chosen](https://ostdb.net/games/xcom-2-war-of-the-chosen) | **XCOM 2: War of the Chosen (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0LmDZLcFB4RgidtJ54xBgF) |
