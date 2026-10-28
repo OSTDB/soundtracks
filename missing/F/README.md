@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Manager | 46448 | [46448-f1-manager.json](./46448-f1-manager.json) |
 | F1 Manager 2023 | 247383 | [247383-f1-manager-2023.json](./247383-f1-manager-2023.json) |
 | F1 Manager 2023: Deluxe Edition | 252613 | [252613-f1-manager-2023-deluxe-edition.json](./252613-f1-manager-2023-deluxe-edition.json) |
+| F1 Manager 2023: Deluxe Upgrade Pack | 259682 | [259682-f1-manager-2023-deluxe-upgrade-pack.json](./259682-f1-manager-2023-deluxe-upgrade-pack.json) |
 | F1 Manager 2024 | 290808 | [290808-f1-manager-2024.json](./290808-f1-manager-2024.json) |
 | F1 Manager 2024: Abstract Livery Pack | 339292 | [339292-f1-manager-2024-abstract-livery-pack.json](./339292-f1-manager-2024-abstract-livery-pack.json) |
 | F1 Manager 2024: Deluxe Edition | 309629 | [309629-f1-manager-2024-deluxe-edition.json](./309629-f1-manager-2024-deluxe-edition.json) |
