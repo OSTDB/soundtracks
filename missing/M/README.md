@@ -7996,6 +7996,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries of War | 323257 | [323257-mercenaries-of-war.json](./323257-mercenaries-of-war.json) |
 | Mercenaries Saga | 82082 | [82082-mercenaries-saga.json](./82082-mercenaries-saga.json) |
 | Mercenaries Saga 2 | 77691 | [77691-mercenaries-saga-2.json](./77691-mercenaries-saga-2.json) |
+| Mercenaries Saga 2: Order of the Sliver Eagle | 259119 | [259119-mercenaries-saga-2-order-of-the-sliver-eagle.json](./259119-mercenaries-saga-2-order-of-the-sliver-eagle.json) |
+| Mercenaries Saga 3: Gray Wolves of War | 259120 | [259120-mercenaries-saga-3-gray-wolves-of-war.json](./259120-mercenaries-saga-3-gray-wolves-of-war.json) |
 | Mercenaries Saga Chronicles | 79987 | [79987-mercenaries-saga-chronicles.json](./79987-mercenaries-saga-chronicles.json) |
 | Mercenaries Saga Chronicles: Physical Edition | 109435 | [109435-mercenaries-saga-chronicles-physical-edition.json](./109435-mercenaries-saga-chronicles-physical-edition.json) |
 | Mercenaries Saga: Will of the White Lions | 258121 | [258121-mercenaries-saga-will-of-the-white-lions.json](./258121-mercenaries-saga-will-of-the-white-lions.json) |
@@ -16632,6 +16634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mystery 2: Criminal Case | 130649 | [130649-murder-mystery-2-criminal-case.json](./130649-murder-mystery-2-criminal-case.json) |
 | Murder Mystery 3: A Life of Crime | 130650 | [130650-murder-mystery-3-a-life-of-crime.json](./130650-murder-mystery-3-a-life-of-crime.json) |
 | Murder Mystery Adventure | 27302 | [27302-murder-mystery-adventure.json](./27302-murder-mystery-adventure.json) |
+| Murder Mystery Bundle | 259134 | [259134-murder-mystery-bundle.json](./259134-murder-mystery-bundle.json) |
 | Murder Mystery Case 3: Who Killed Brett Penance - The Environmental Surfer | 73640 | [73640-murder-mystery-case-3-who-killed-brett-penance-the-environmental-surfer.json](./73640-murder-mystery-case-3-who-killed-brett-penance-the-environmental-surfer.json) |
 | Murder Mystery Castle | 399746 | [399746-murder-mystery-castle.json](./399746-murder-mystery-castle.json) |
 | Murder Mystery J: Jinrou Judgment - Maru Icon | 325460 | [325460-murder-mystery-j-jinrou-judgment-maru-icon.json](./325460-murder-mystery-j-jinrou-judgment-maru-icon.json) |
