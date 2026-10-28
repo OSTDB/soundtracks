@@ -2139,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Lovers | 199993 | [199993-immortal-lovers.json](./199993-immortal-lovers.json) |
 | Immortal Magus | 344360 | [344360-immortal-magus.json](./344360-immortal-magus.json) |
 | Immortal Mantis | 196671 | [196671-immortal-mantis.json](./196671-immortal-mantis.json) |
+| Immortal Mantis: Revenge | 264742 | [264742-immortal-mantis-revenge.json](./264742-immortal-mantis-revenge.json) |
 | Immortal Markets Stock Market Simulator Game | 312444 | [312444-immortal-markets-stock-market-simulator-game.json](./312444-immortal-markets-stock-market-simulator-game.json) |
 | Immortal Planet | 27282 | [27282-immortal-planet.json](./27282-immortal-planet.json) |
 | Immortal Quest | 106398 | [106398-immortal-quest.json](./106398-immortal-quest.json) |
