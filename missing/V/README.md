@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vastophobia | 334327 | [334327-vastophobia.json](./334327-vastophobia.json) |
 | Vastynex | 184398 | [184398-vastynex.json](./184398-vastynex.json) |
 | Vatlva | 22503 | [22503-vatlva.json](./22503-vatlva.json) |
+| Vatman | 234854 | [234854-vatman.json](./234854-vatman.json) |
 | Vatnik Simulator - A Russian Patriot Game | 103814 | [103814-vatnik-simulator-a-russian-patriot-game.json](./103814-vatnik-simulator-a-russian-patriot-game.json) |
 | VATSim | 56506 | [56506-vatsim.json](./56506-vatsim.json) |
 | Vattle Giuce | 57526 | [57526-vattle-giuce.json](./57526-vattle-giuce.json) |
