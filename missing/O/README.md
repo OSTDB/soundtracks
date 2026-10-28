@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old World: Empires of the Indus | 400418 | [400418-old-world-empires-of-the-indus.json](./400418-old-world-empires-of-the-indus.json) |
 | Old World: Heroes of the Aegean | 199580 | [199580-old-world-heroes-of-the-aegean.json](./199580-old-world-heroes-of-the-aegean.json) |
 | Old World: Pharaohs of the Nile | 269215 | [269215-old-world-pharaohs-of-the-nile.json](./269215-old-world-pharaohs-of-the-nile.json) |
+| Old World: The Sacred and The Profane | 231188 | [231188-old-world-the-sacred-and-the-profane.json](./231188-old-world-the-sacred-and-the-profane.json) |
 | Old World: Wrath of Gods | 330024 | [330024-old-world-wrath-of-gods.json](./330024-old-world-wrath-of-gods.json) |
 | Old Young: RPG Mini | 331922 | [331922-old-young-rpg-mini.json](./331922-old-young-rpg-mini.json) |
 | Oldage | 72353 | [72353-oldage.json](./72353-oldage.json) |
@@ -3433,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Massage | 127920 | [127920-orc-massage.json](./127920-orc-massage.json) |
 | Orc Scrolls | 152665 | [152665-orc-scrolls.json](./152665-orc-scrolls.json) |
 | Orc Survivor | 272736 | [272736-orc-survivor.json](./272736-orc-survivor.json) |
+| Orc Survivors | 231192 | [231192-orc-survivors.json](./231192-orc-survivors.json) |
 | Orc vs. Undead | 191062 | [191062-orc-vs-undead.json](./191062-orc-vs-undead.json) |
 | Orc Warchief: Strategy City Builder | 216966 | [216966-orc-warchief-strategy-city-builder.json](./216966-orc-warchief-strategy-city-builder.json) |
 | Orc's Bride | 367196 | [367196-orcs-bride.json](./367196-orcs-bride.json) |
