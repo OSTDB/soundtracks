@@ -3769,6 +3769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gimmick: Exact Mix | 206146 | [206146-gimmick-exact-mix.json](./206146-gimmick-exact-mix.json) |
 | Gimmick! 2 | 306562 | [306562-gimmick-2.json](./306562-gimmick-2.json) |
 | Gimmick! Special Edition | 213752 | [213752-gimmick-special-edition.json](./213752-gimmick-special-edition.json) |
+| Gimmick's Gadgets | 244406 | [244406-gimmicks-gadgets.json](./244406-gimmicks-gadgets.json) |
 | GimmickHeart | 253400 | [253400-gimmickheart.json](./253400-gimmickheart.json) |
 | Gin | 131307 | [131307-gin.json](./131307-gin.json) |
 | Gin - Rummy | 88632 | [88632-gin-rummy.json](./88632-gin-rummy.json) |
@@ -5970,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goober Shooter 2 | 400097 | [400097-goober-shooter-2.json](./400097-goober-shooter-2.json) |
 | Goober Shot | 308065 | [308065-goober-shot.json](./308065-goober-shot.json) |
 | Goobers | 411751 | [411751-goobers.json](./411751-goobers.json) |
+| Goobies | 244283 | [244283-goobies.json](./244283-goobies.json) |
 | Gooblins | 31593 | [31593-gooblins.json](./31593-gooblins.json) |
 | GoobnBalloonsDX | 244153 | [244153-goobnballoonsdx.json](./244153-goobnballoonsdx.json) |
 | Gooboo | 371616 | [371616-gooboo.json](./371616-gooboo.json) |
@@ -9052,6 +9054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive + Season Pass 1 | 254965 | [254965-guilty-gear-strive-season-pass-1.json](./254965-guilty-gear-strive-season-pass-1.json) |
 | Guilty Me | 254433 | [254433-guilty-me.json](./254433-guilty-me.json) |
 | Guilty Parade: Episode 3 | 196050 | [196050-guilty-parade-episode-3.json](./196050-guilty-parade-episode-3.json) |
+| Guilty Parade: Episode 4 | 244423 | [244423-guilty-parade-episode-4.json](./244423-guilty-parade-episode-4.json) |
 | Guilty Party | 66982 | [66982-guilty-party.json](./66982-guilty-party.json) |
 | Guilty Pleasures | 377913 | [377913-guilty-pleasures.json](./377913-guilty-pleasures.json) |
 | Guilty Summer Kiss 2: Bloody Secret | 102948 | [102948-guilty-summer-kiss-2-bloody-secret.json](./102948-guilty-summer-kiss-2-bloody-secret.json) |
