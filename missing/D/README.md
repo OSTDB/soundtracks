@@ -6781,6 +6781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Reborn Bundle | 254705 | [254705-detective-reborn-bundle.json](./254705-detective-reborn-bundle.json) |
 | Detective Riddles: Sherlock's Heritage | 91096 | [91096-detective-riddles-sherlocks-heritage.json](./91096-detective-riddles-sherlocks-heritage.json) |
 | Detective Riddles: Sherlock's Heritage 2 | 100347 | [100347-detective-riddles-sherlocks-heritage-2.json](./100347-detective-riddles-sherlocks-heritage-2.json) |
+| Detective Ridelle | 235406 | [235406-detective-ridelle.json](./235406-detective-ridelle.json) |
 | Detective Ridley and the Mysterious Enigma | 239465 | [239465-detective-ridley-and-the-mysterious-enigma.json](./239465-detective-ridley-and-the-mysterious-enigma.json) |
 | Detective Rosie Morgan: Death at a Dinner Party | 236827 | [236827-detective-rosie-morgan-death-at-a-dinner-party.json](./236827-detective-rosie-morgan-death-at-a-dinner-party.json) |
 | Detective S | 159089 | [159089-detective-s.json](./159089-detective-s.json) |
@@ -7748,6 +7749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Bombers | 135759 | [135759-dig-bombers.json](./135759-dig-bombers.json) |
 | Dig Deep: Chunky Pets | 246881 | [246881-dig-deep-chunky-pets.json](./246881-dig-deep-chunky-pets.json) |
 | Dig Deeper | 358464 | [358464-dig-deeper.json](./358464-dig-deeper.json) |
+| Dig Dig Boom | 235417 | [235417-dig-dig-boom.json](./235417-dig-dig-boom.json) |
 | Dig Dig Burrito! | 391996 | [391996-dig-dig-burrito.json](./391996-dig-dig-burrito.json) |
 | Dig Dirt | 278462 | [278462-dig-dirt.json](./278462-dig-dirt.json) |
 | Dig Dogs: Streetbusters | 50160 | [50160-dig-dogs-streetbusters.json](./50160-dig-dogs-streetbusters.json) |
@@ -9356,6 +9358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Space | 30060 | [30060-distant-space.json](./30060-distant-space.json) |
 | Distant Space 2 | 75007 | [75007-distant-space-2.json](./75007-distant-space-2.json) |
 | Distant Star: Revenant Fleet | 10186 | [10186-distant-star-revenant-fleet.json](./10186-distant-star-revenant-fleet.json) |
+| Distant Sun | 235420 | [235420-distant-sun.json](./235420-distant-sun.json) |
 | Distant Sunlight, Endless Regrets | 362338 | [362338-distant-sunlight-endless-regrets.json](./362338-distant-sunlight-endless-regrets.json) |
 | Distant Trails | 392119 | [392119-distant-trails.json](./392119-distant-trails.json) |
 | Distant Transmission | 159886 | [159886-distant-transmission.json](./159886-distant-transmission.json) |
@@ -9438,6 +9441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive or Die: Children of Rain | 391055 | [391055-dive-or-die-children-of-rain.json](./391055-dive-or-die-children-of-rain.json) |
 | Dive Tactics | 401465 | [401465-dive-tactics.json](./401465-dive-tactics.json) |
 | Dive The Depths | 285021 | [285021-dive-the-depths.json](./285021-dive-the-depths.json) |
+| Dive to the Abyssal Void | 235404 | [235404-dive-to-the-abyssal-void.json](./235404-dive-to-the-abyssal-void.json) |
 | Dive to the Titanic | 16206 | [16206-dive-to-the-titanic.json](./16206-dive-to-the-titanic.json) |
 | Dive: Starpath | 83941 | [83941-dive-starpath.json](./83941-dive-starpath.json) |
 | Dive: The Conquest of Silver Eye | 72538 | [72538-dive-the-conquest-of-silver-eye.json](./72538-dive-the-conquest-of-silver-eye.json) |
