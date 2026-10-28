@@ -1607,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Sniper : Evil Hunter | 96396 | [96396-zombie-sniper-evil-hunter.json](./96396-zombie-sniper-evil-hunter.json) |
 | Zombie Sniper 2 | 103525 | [103525-zombie-sniper-2.json](./103525-zombie-sniper-2.json) |
 | Zombie Sniper HD | 80214 | [80214-zombie-sniper-hd.json](./80214-zombie-sniper-hd.json) |
+| Zombie Sniper Shooter: Stickman War | 266340 | [266340-zombie-sniper-shooter-stickman-war.json](./266340-zombie-sniper-shooter-stickman-war.json) |
 | Zombie Sniper Shooting 3D | 284194 | [284194-zombie-sniper-shooting-3d.json](./284194-zombie-sniper-shooting-3d.json) |
 | Zombie Sniper Survival | 245191 | [245191-zombie-sniper-survival.json](./245191-zombie-sniper-survival.json) |
 | Zombie Society Dead Detective: A Cat's Chance in Hell | 95927 | [95927-zombie-society-dead-detective-a-cats-chance-in-hell.json](./95927-zombie-society-dead-detective-a-cats-chance-in-hell.json) |
