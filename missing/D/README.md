@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DartMUD: Lands of Ferdarchi | 349935 | [349935-dartmud-lands-of-ferdarchi.json](./349935-dartmud-lands-of-ferdarchi.json) |
 | Dartoster | 179459 | [179459-dartoster.json](./179459-dartoster.json) |
 | Darts | 159273 | [159273-darts.json](./159273-darts.json) |
+| Darts | 246997 | [246997-darts.json](./246997-darts.json) |
 | Darts | 358830 | [358830-darts.json](./358830-darts.json) |
 | Darts | 359326 | [359326-darts.json](./359326-darts.json) |
 | Darts and Friends | 96627 | [96627-darts-and-friends.json](./96627-darts-and-friends.json) |
