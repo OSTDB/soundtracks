@@ -2404,7 +2404,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3110,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingsblood | 216706 | [216706-kingsblood.json](./216706-kingsblood.json) |
 | Kingsborn | 126279 | [126279-kingsborn.json](./126279-kingsborn.json) |
 | Kingsburg Serving the Crown | 205090 | [205090-kingsburg-serving-the-crown.json](./205090-kingsburg-serving-the-crown.json) |
+| Kingsguard | 259380 | [259380-kingsguard.json](./259380-kingsguard.json) |
 | Kingshot | 337547 | [337547-kingshot.json](./337547-kingshot.json) |
 | Kingshunt | 114738 | [114738-kingshunt.json](./114738-kingshunt.json) |
 | KingSim | 126948 | [126948-kingsim.json](./126948-kingsim.json) |
@@ -3315,6 +3315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiritan Island Okawari! | 204731 | [204731-kiritan-island-okawari.json](./204731-kiritan-island-okawari.json) |
 | Kiritan Thruster | 351761 | [351761-kiritan-thruster.json](./351761-kiritan-thruster.json) |
 | Kiritan vs. Kanitan: Zunda-mochi Defense! | 114869 | [114869-kiritan-vs-kanitan-zunda-mochi-defense.json](./114869-kiritan-vs-kanitan-zunda-mochi-defense.json) |
+| Kirizaki-kun ha. | 259385 | [259385-kirizaki-kun-ha.json](./259385-kirizaki-kun-ha.json) |
 | Kirka Drive | 222474 | [222474-kirka-drive.json](./222474-kirka-drive.json) |
 | Kirka.io | 152476 | [152476-kirka-io.json](./152476-kirka-io.json) |
 | Kirmis | 277134 | [277134-kirmis.json](./277134-kirmis.json) |
@@ -4291,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi Solitaire | 108415 | [108415-koi-solitaire.json](./108415-koi-solitaire.json) |
 | Koi Suru Amairo Homestay: Ryuugakusei ha Wanko-kei Osananajimi | 402717 | [402717-koi-suru-amairo-homestay-ryuugakusei-ha-wanko-kei-osananajimi.json](./402717-koi-suru-amairo-homestay-ryuugakusei-ha-wanko-kei-osananajimi.json) |
 | Koi suru Kanojo no Bukiyou na Butai | 238100 | [238100-koi-suru-kanojo-no-bukiyou-na-butai.json](./238100-koi-suru-kanojo-no-bukiyou-na-butai.json) |
+| Koi suru Kanojo no Bukiyou na Butai | 259613 | [259613-koi-suru-kanojo-no-bukiyou-na-butai.json](./259613-koi-suru-kanojo-no-bukiyou-na-butai.json) |
 | Koi Suru Kanojo no Bukiyou na Butai | 77888 | [77888-koi-suru-kanojo-no-bukiyou-na-butai.json](./77888-koi-suru-kanojo-no-bukiyou-na-butai.json) |
 | Koi Suru Kimochi no Kasanekata: Kasaneta Omoi o Zutto | 82498 | [82498-koi-suru-kimochi-no-kasanekata-kasaneta-omoi-o-zutto.json](./82498-koi-suru-kimochi-no-kasanekata-kasaneta-omoi-o-zutto.json) |
 | Koi Suru Otome to Shugo no Tate: Re:boot the "Shield-9" | 139985 | [139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json](./139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json) |
