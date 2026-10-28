@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Master Zero and the Silky Road | 110313 | [110313-quiz-master-zero-and-the-silky-road.json](./110313-quiz-master-zero-and-the-silky-road.json) |
 | Quiz Meitantei Neo & Geo: Quiz Daisousasen Part 2 | 75511 | [75511-quiz-meitantei-neo-and-geo-quiz-daisousasen-part-2.json](./75511-quiz-meitantei-neo-and-geo-quiz-daisousasen-part-2.json) |
 | Quiz Minister | 208029 | [208029-quiz-minister.json](./208029-quiz-minister.json) |
+| Quiz Movie! | 232112 | [232112-quiz-movie.json](./232112-quiz-movie.json) |
 | Quiz Nana-iro Dreams | 70655 | [70655-quiz-nana-iro-dreams.json](./70655-quiz-nana-iro-dreams.json) |
 | Quiz Night Tonight! | 30719 | [30719-quiz-night-tonight.json](./30719-quiz-night-tonight.json) |
 | Quiz Parampaa | 275528 | [275528-quiz-parampaa.json](./275528-quiz-parampaa.json) |
