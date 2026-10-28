@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Dash! | 38692 | [38692-pac-man-dash.json](./38692-pac-man-dash.json) |
 | Pac-Man Doom | 262564 | [262564-pac-man-doom.json](./262564-pac-man-doom.json) |
 | Pac-Man Double Feature | 378397 | [378397-pac-man-double-feature.json](./378397-pac-man-double-feature.json) |
+| Pac-Man Escape | 274859 | [274859-pac-man-escape.json](./274859-pac-man-escape.json) |
 | Pac-Man Fever | 4061 | [4061-pac-man-fever.json](./4061-pac-man-fever.json) |
 | Pac-Man Forever | 396714 | [396714-pac-man-forever.json](./396714-pac-man-forever.json) |
 | Pac-Man Games | 220257 | [220257-pac-man-games.json](./220257-pac-man-games.json) |
@@ -4305,6 +4306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pettson's Inventions 4 | 352523 | [352523-pettsons-inventions-4.json](./352523-pettsons-inventions-4.json) |
 | Pettsons julspel | 286111 | [286111-pettsons-julspel.json](./286111-pettsons-julspel.json) |
 | Petty Ungodliness | 411757 | [411757-petty-ungodliness.json](./411757-petty-ungodliness.json) |
+| Petualangan DivineKids | 275160 | [275160-petualangan-divinekids.json](./275160-petualangan-divinekids.json) |
 | Petunia the Yellow Mouse | 62278 | [62278-petunia-the-yellow-mouse.json](./62278-petunia-the-yellow-mouse.json) |
 | Petunia's Purgatory | 380836 | [380836-petunias-purgatory.json](./380836-petunias-purgatory.json) |
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
