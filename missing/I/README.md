@@ -3323,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Tanks WWII | 150266 | [150266-infinite-tanks-wwii.json](./150266-infinite-tanks-wwii.json) |
 | Infinite Tournament Paintball | 161626 | [161626-infinite-tournament-paintball.json](./161626-infinite-tournament-paintball.json) |
 | Infinite Turtles | 198362 | [198362-infinite-turtles.json](./198362-infinite-turtles.json) |
+| Infinite Tux | 262145 | [262145-infinite-tux.json](./262145-infinite-tux.json) |
 | Infinite Undiscovery | 7019 | [7019-infinite-undiscovery.json](./7019-infinite-undiscovery.json) |
 | Infinite Vector | 99454 | [99454-infinite-vector.json](./99454-infinite-vector.json) |
 | Infinite Veil | 379874 | [379874-infinite-veil.json](./379874-infinite-veil.json) |
