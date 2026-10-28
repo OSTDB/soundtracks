@@ -2674,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathway to Glory | 6270 | [6270-pathway-to-glory.json](./6270-pathway-to-glory.json) |
 | Pathway: Desire | 180550 | [180550-pathway-desire.json](./180550-pathway-desire.json) |
 | Pathways | 182326 | [182326-pathways.json](./182326-pathways.json) |
+| Pathways | 242701 | [242701-pathways.json](./242701-pathways.json) |
 | Pathways | 384918 | [384918-pathways.json](./384918-pathways.json) |
 | Pathways into Darkness | 38747 | [38747-pathways-into-darkness.json](./38747-pathways-into-darkness.json) |
 | Pathz | 240853 | [240853-pathz.json](./240853-pathz.json) |
@@ -2746,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paug | 153874 | [153874-paug.json](./153874-paug.json) |
 | Paul | 387499 | [387499-paul.json](./387499-paul.json) |
 | Paul Blart: Mall Cop - Mall Maze | 280707 | [280707-paul-blart-mall-cop-mall-maze.json](./280707-paul-blart-mall-cop-mall-maze.json) |
+| Paul Moose in Space World | 242700 | [242700-paul-moose-in-space-world.json](./242700-paul-moose-in-space-world.json) |
 | Paul Quest Gold Edition | 325699 | [325699-paul-quest-gold-edition.json](./325699-paul-quest-gold-edition.json) |
 | Paul Sloane & Des MacHale's Intriguing Tales | 123377 | [123377-paul-sloane-and-des-machales-intriguing-tales.json](./123377-paul-sloane-and-des-machales-intriguing-tales.json) |
 | Paul Sloane & Des MacHale's Intriguing Tales 2 | 123378 | [123378-paul-sloane-and-des-machales-intriguing-tales-2.json](./123378-paul-sloane-and-des-machales-intriguing-tales-2.json) |
@@ -10453,6 +10455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Island | 113867 | [113867-poly-island.json](./113867-poly-island.json) |
 | Poly Jigsaw Puzzle | 105780 | [105780-poly-jigsaw-puzzle.json](./105780-poly-jigsaw-puzzle.json) |
 | Poly Jigsaw: Birds | 240660 | [240660-poly-jigsaw-birds.json](./240660-poly-jigsaw-birds.json) |
+| Poly Jigsaw: Butterflies | 243859 | [243859-poly-jigsaw-butterflies.json](./243859-poly-jigsaw-butterflies.json) |
 | Poly Jigsaw: Dinosaurs | 246798 | [246798-poly-jigsaw-dinosaurs.json](./246798-poly-jigsaw-dinosaurs.json) |
 | Poly Jigsaw: Dogs | 248665 | [248665-poly-jigsaw-dogs.json](./248665-poly-jigsaw-dogs.json) |
 | Poly Jigsaw: Furries | 255280 | [255280-poly-jigsaw-furries.json](./255280-poly-jigsaw-furries.json) |
