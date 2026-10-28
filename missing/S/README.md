@@ -12866,6 +12866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Seeker | 307634 | [307634-snake-seeker.json](./307634-snake-seeker.json) |
 | Snake Snafu | 180479 | [180479-snake-snafu.json](./180479-snake-snafu.json) |
 | Snake Sphere | 415033 | [415033-snake-sphere.json](./415033-snake-sphere.json) |
+| Snake Switch | 232600 | [232600-snake-switch.json](./232600-snake-switch.json) |
 | Snake VR | 78551 | [78551-snake-vr.json](./78551-snake-vr.json) |
 | Snake VS Block Math | 86730 | [86730-snake-vs-block-math.json](./86730-snake-vs-block-math.json) |
 | Snake Vs Colours | 108446 | [108446-snake-vs-colours.json](./108446-snake-vs-colours.json) |
@@ -21635,6 +21636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardrop | 30634 | [30634-stardrop.json](./30634-stardrop.json) |
 | Stardrytch | 172136 | [172136-stardrytch.json](./172136-stardrytch.json) |
 | Starduino | 228389 | [228389-starduino.json](./228389-starduino.json) |
+| StarDunk | 232619 | [232619-stardunk.json](./232619-stardunk.json) |
 | Stardust | 12774 | [12774-stardust.json](./12774-stardust.json) |
 | Stardust | 318797 | [318797-stardust.json](./318797-stardust.json) |
 | Stardust | 372069 | [372069-stardust.json](./372069-stardust.json) |
@@ -22490,6 +22492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Force 2 | 10925 | [10925-stealth-force-2.json](./10925-stealth-force-2.json) |
 | Stealth Force: The War on Terror | 43291 | [43291-stealth-force-the-war-on-terror.json](./43291-stealth-force-the-war-on-terror.json) |
 | Stealth Granny in the House | 96910 | [96910-stealth-granny-in-the-house.json](./96910-stealth-granny-in-the-house.json) |
+| Stealth Hawk Flight Simulator | 232613 | [232613-stealth-hawk-flight-simulator.json](./232613-stealth-hawk-flight-simulator.json) |
 | Stealth Horror: Grand Daddy | 97098 | [97098-stealth-horror-grand-daddy.json](./97098-stealth-horror-grand-daddy.json) |
 | Stealth in the Mystery House | 96835 | [96835-stealth-in-the-mystery-house.json](./96835-stealth-in-the-mystery-house.json) |
 | Stealth Inc: A Clone in the Dark - Ultimate Edition | 52872 | [52872-stealth-inc-a-clone-in-the-dark-ultimate-edition.json](./52872-stealth-inc-a-clone-in-the-dark-ultimate-edition.json) |
@@ -30738,6 +30741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swoon! Earth Escape | 225894 | [225894-swoon-earth-escape.json](./225894-swoon-earth-escape.json) |
 | Swoop | 78988 | [78988-swoop.json](./78988-swoop.json) |
 | Swoops! | 40750 | [40750-swoops.json](./40750-swoops.json) |
+| Swoords: Friends Word Game | 232624 | [232624-swoords-friends-word-game.json](./232624-swoords-friends-word-game.json) |
 | Swoosh | 143926 | [143926-swoosh.json](./143926-swoosh.json) |
 | SwooshCat | 346249 | [346249-swooshcat.json](./346249-swooshcat.json) |
 | SwooshMania | 347723 | [347723-swooshmania.json](./347723-swooshmania.json) |
