@@ -2570,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haywire | 400380 | [400380-haywire.json](./400380-haywire.json) |
 | Haywire Hospital | 233639 | [233639-haywire-hospital.json](./233639-haywire-hospital.json) |
 | Haywire on Fuel Station Zeta | 35297 | [35297-haywire-on-fuel-station-zeta.json](./35297-haywire-on-fuel-station-zeta.json) |
+| Hazama_Queen | 246561 | [246561-hazama-queen.json](./246561-hazama-queen.json) |
 | Hazar | 384068 | [384068-hazar.json](./384068-hazar.json) |
 | Hazard | 186147 | [186147-hazard.json](./186147-hazard.json) |
 | Hazard | 377355 | [377355-hazard.json](./377355-hazard.json) |
@@ -2804,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Electric | 328329 | [328329-heart-electric.json](./328329-heart-electric.json) |
 | Heart Fragment | 131599 | [131599-heart-fragment.json](./131599-heart-fragment.json) |
 | Heart Fragment: Book One - Fantasy Fragments | 245032 | [245032-heart-fragment-book-one-fantasy-fragments.json](./245032-heart-fragment-book-one-fantasy-fragments.json) |
+| Heart Fragment: Book Three - Despair Fragments | 246566 | [246566-heart-fragment-book-three-despair-fragments.json](./246566-heart-fragment-book-three-despair-fragments.json) |
 | Heart Fragment: Book Two - Belief Fragments | 196126 | [196126-heart-fragment-book-two-belief-fragments.json](./196126-heart-fragment-book-two-belief-fragments.json) |
 | Heart in the Cell: Rebirth | 157020 | [157020-heart-in-the-cell-rebirth.json](./157020-heart-in-the-cell-rebirth.json) |
 | Heart in the Dark | 125090 | [125090-heart-in-the-dark.json](./125090-heart-in-the-dark.json) |
