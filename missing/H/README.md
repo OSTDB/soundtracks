@@ -7732,6 +7732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Tycoon | 78747 | [78747-hollywood-tycoon.json](./78747-hollywood-tycoon.json) |
 | Hollywood Visionary | 35401 | [35401-hollywood-visionary.json](./35401-hollywood-visionary.json) |
 | Hollywoodle | 325824 | [325824-hollywoodle.json](./325824-hollywoodle.json) |
+| Holmes from Homes | 257184 | [257184-holmes-from-homes.json](./257184-holmes-from-homes.json) |
 | Holmes Sherlock & Mycroft | 247367 | [247367-holmes-sherlock-and-mycroft.json](./247367-holmes-sherlock-and-mycroft.json) |
 | Holo Arena: Death League | 217380 | [217380-holo-arena-death-league.json](./217380-holo-arena-death-league.json) |
 | Holo Bike 3D | 293670 | [293670-holo-bike-3d.json](./293670-holo-bike-3d.json) |
