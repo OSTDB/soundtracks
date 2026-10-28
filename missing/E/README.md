@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Insanity | 40709 | [40709-edge-of-insanity.json](./40709-edge-of-insanity.json) |
 | Edge of Memories | 333201 | [333201-edge-of-memories.json](./333201-edge-of-memories.json) |
 | Edge of Nowhere | 11159 | [11159-edge-of-nowhere.json](./11159-edge-of-nowhere.json) |
+| Edge of Oblivion | 258597 | [258597-edge-of-oblivion.json](./258597-edge-of-oblivion.json) |
 | Edge of Reality | 70850 | [70850-edge-of-reality.json](./70850-edge-of-reality.json) |
 | Edge of Reality Visual Novel | 117551 | [117551-edge-of-reality-visual-novel.json](./117551-edge-of-reality-visual-novel.json) |
 | Edge of Reality: Call of the Hills | 397148 | [397148-edge-of-reality-call-of-the-hills.json](./397148-edge-of-reality-call-of-the-hills.json) |
