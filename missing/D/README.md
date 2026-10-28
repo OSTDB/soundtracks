@@ -3993,6 +3993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Relives | 220010 | [220010-death-relives.json](./220010-death-relives.json) |
 | Death Remains | 333380 | [333380-death-remains.json](./333380-death-remains.json) |
 | Death Report | 336708 | [336708-death-report.json](./336708-death-report.json) |
+| Death Requiem | 249828 | [249828-death-requiem.json](./249828-death-requiem.json) |
 | Death ring | 282006 | [282006-death-ring.json](./282006-death-ring.json) |
 | Death Ring | 199259 | [199259-death-ring.json](./199259-death-ring.json) |
 | Death Rings of Jupiter | 55788 | [55788-death-rings-of-jupiter.json](./55788-death-rings-of-jupiter.json) |
@@ -5053,6 +5054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degraman: Act I - Vincent, Cassel & Loner | 196088 | [196088-degraman-act-i-vincent-cassel-and-loner.json](./196088-degraman-act-i-vincent-cassel-and-loner.json) |
 | Degraman: Act II - Victor | 265571 | [265571-degraman-act-ii-victor.json](./265571-degraman-act-ii-victor.json) |
 | Degrees of Lewdity | 136941 | [136941-degrees-of-lewdity.json](./136941-degrees-of-lewdity.json) |
+| Degroid | 250552 | [250552-degroid.json](./250552-degroid.json) |
 | Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
 | DeHexTD | 154314 | [154314-dehextd.json](./154314-dehextd.json) |
 | Dehoarder 2 | 214509 | [214509-dehoarder-2.json](./214509-dehoarder-2.json) |
@@ -9018,6 +9020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Speedstorm: Aladdin Pack | 366993 | [366993-disney-speedstorm-aladdin-pack.json](./366993-disney-speedstorm-aladdin-pack.json) |
 | Disney Speedstorm: Baloo Pack | 366994 | [366994-disney-speedstorm-baloo-pack.json](./366994-disney-speedstorm-baloo-pack.json) |
 | Disney Speedstorm: Buzz Lightyear Pack | 366995 | [366995-disney-speedstorm-buzz-lightyear-pack.json](./366995-disney-speedstorm-buzz-lightyear-pack.json) |
+| Disney Speedstorm: Deluxe Founder's Pack | 249952 | [249952-disney-speedstorm-deluxe-founders-pack.json](./249952-disney-speedstorm-deluxe-founders-pack.json) |
 | Disney Speedstorm: PlayStation Plus Exclusive Pack | 316500 | [316500-disney-speedstorm-playstation-plus-exclusive-pack.json](./316500-disney-speedstorm-playstation-plus-exclusive-pack.json) |
 | Disney Speedstorm: Season 8 - Journey of Emotions | 310114 | [310114-disney-speedstorm-season-8-journey-of-emotions.json](./310114-disney-speedstorm-season-8-journey-of-emotions.json) |
 | Disney Speedstorm: Special Pack | 374697 | [374697-disney-speedstorm-special-pack.json](./374697-disney-speedstorm-special-pack.json) |
@@ -11071,6 +11074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dont Buzz | 26851 | [26851-dont-buzz.json](./26851-dont-buzz.json) |
 | Dont Jump: Gamesforfarm | 364592 | [364592-dont-jump-gamesforfarm.json](./364592-dont-jump-gamesforfarm.json) |
 | Dont Play This Game.exe | 98538 | [98538-dont-play-this-game-exe.json](./98538-dont-play-this-game-exe.json) |
+| Dont Touch Your Face | 250564 | [250564-dont-touch-your-face.json](./250564-dont-touch-your-face.json) |
 | Dontbegrey | 51965 | [51965-dontbegrey.json](./51965-dontbegrey.json) |
 | Dontcrush | 384177 | [384177-dontcrush.json](./384177-dontcrush.json) |
 | Dontdy | 156108 | [156108-dontdy.json](./156108-dontdy.json) |
@@ -13338,6 +13342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragster Mayhem: Top Fuel Sim | 257783 | [257783-dragster-mayhem-top-fuel-sim.json](./257783-dragster-mayhem-top-fuel-sim.json) |
 | Dragu's Puzzle Adventure | 155648 | [155648-dragus-puzzle-adventure.json](./155648-dragus-puzzle-adventure.json) |
 | Draid | 111532 | [111532-draid.json](./111532-draid.json) |
+| Draikai | 250748 | [250748-draikai.json](./250748-draikai.json) |
 | Drain | 179560 | [179560-drain.json](./179560-drain.json) |
 | Drain Mania | 57166 | [57166-drain-mania.json](./57166-drain-mania.json) |
 | Drain Runner | 210885 | [210885-drain-runner.json](./210885-drain-runner.json) |
@@ -13775,6 +13780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream League Soccer 2018 | 88879 | [88879-dream-league-soccer-2018.json](./88879-dream-league-soccer-2018.json) |
 | Dream League Soccer 2019 | 174601 | [174601-dream-league-soccer-2019.json](./174601-dream-league-soccer-2019.json) |
 | Dream League Soccer 2022 | 188310 | [188310-dream-league-soccer-2022.json](./188310-dream-league-soccer-2022.json) |
+| Dream League Soccer 2023 | 250143 | [250143-dream-league-soccer-2023.json](./250143-dream-league-soccer-2023.json) |
 | Dream League Soccer 2024 | 326648 | [326648-dream-league-soccer-2024.json](./326648-dream-league-soccer-2024.json) |
 | Dream League Soccer 2025 | 330832 | [330832-dream-league-soccer-2025.json](./330832-dream-league-soccer-2025.json) |
 | Dream League Soccer 2026 | 411784 | [411784-dream-league-soccer-2026.json](./411784-dream-league-soccer-2026.json) |
@@ -15520,6 +15526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Bricker | 159015 | [159015-dungeon-bricker.json](./159015-dungeon-bricker.json) |
 | Dungeon Bucko | 416376 | [416376-dungeon-bucko.json](./416376-dungeon-bucko.json) |
 | Dungeon Builder S | 44199 | [44199-dungeon-builder-s.json](./44199-dungeon-builder-s.json) |
+| Dungeon Burglars | 250411 | [250411-dungeon-burglars.json](./250411-dungeon-burglars.json) |
 | Dungeon Buster Ex-Plores | 66169 | [66169-dungeon-buster-ex-plores.json](./66169-dungeon-buster-ex-plores.json) |
 | Dungeon Campaign | 24803 | [24803-dungeon-campaign.json](./24803-dungeon-campaign.json) |
 | Dungeon Cards | 127627 | [127627-dungeon-cards.json](./127627-dungeon-cards.json) |
@@ -16640,9 +16647,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynast.io | 115762 | [115762-dynast-io.json](./115762-dynast-io.json) |
 | Dynasty | 278441 | [278441-dynasty.json](./278441-dynasty.json) |
 | Dynasty | 41537 | [41537-dynasty.json](./41537-dynasty.json) |
+| Dynasty Detective | 249943 | [249943-dynasty-detective.json](./249943-dynasty-detective.json) |
 | Dynasty Feud | 27080 | [27080-dynasty-feud.json](./27080-dynasty-feud.json) |
 | Dynasty Feud: The Night Party | 171406 | [171406-dynasty-feud-the-night-party.json](./171406-dynasty-feud-the-night-party.json) |
 | Dynasty Legends: Warriors Unite | 240887 | [240887-dynasty-legends-warriors-unite.json](./240887-dynasty-legends-warriors-unite.json) |
+| Dynasty of Shadows | 251131 | [251131-dynasty-of-shadows.json](./251131-dynasty-of-shadows.json) |
 | Dynasty of the Sands | 128949 | [128949-dynasty-of-the-sands.json](./128949-dynasty-of-the-sands.json) |
 | Dynasty Origins: Conquest | 216128 | [216128-dynasty-origins-conquest.json](./216128-dynasty-origins-conquest.json) |
 | Dynasty Scrolls | 208199 | [208199-dynasty-scrolls.json](./208199-dynasty-scrolls.json) |
