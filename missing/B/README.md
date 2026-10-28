@@ -2755,6 +2755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball NBA 17 | 99105 | [99105-basketball-nba-17.json](./99105-basketball-nba-17.json) |
 | Basketball Nightmare | 45667 | [45667-basketball-nightmare.json](./45667-basketball-nightmare.json) |
 | Basketball Odyssey | 246269 | [246269-basketball-odyssey.json](./246269-basketball-odyssey.json) |
+| Basketball Party Shot | 239250 | [239250-basketball-party-shot.json](./239250-basketball-party-shot.json) |
 | Basketball Pinball | 148567 | [148567-basketball-pinball.json](./148567-basketball-pinball.json) |
 | Basketball Playgrounds | 212460 | [212460-basketball-playgrounds.json](./212460-basketball-playgrounds.json) |
 | Basketball Pro Management 2013 | 10025 | [10025-basketball-pro-management-2013.json](./10025-basketball-pro-management-2013.json) |
@@ -4734,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Workers | 175133 | [175133-beat-workers.json](./175133-beat-workers.json) |
 | Beat Your Boss | 389743 | [389743-beat-your-boss.json](./389743-beat-your-boss.json) |
 | Beat Your Meat | 114107 | [114107-beat-your-meat.json](./114107-beat-your-meat.json) |
+| Beat Your Vegetables | 239222 | [239222-beat-your-vegetables.json](./239222-beat-your-vegetables.json) |
 | Beat, Heart, Beat | 322745 | [322745-beat-heart-beat.json](./322745-beat-heart-beat.json) |
 | Beat!: After the Summer - Another Season Episode | 241326 | [241326-beat-after-the-summer-another-season-episode.json](./241326-beat-after-the-summer-another-season-episode.json) |
 | Beat.R. | 72484 | [72484-beat-r.json](./72484-beat-r.json) |
@@ -9291,6 +9293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockbusters | 153814 | [153814-blockbusters.json](./153814-blockbusters.json) |
 | Blockbusters: Gold Run | 13408 | [13408-blockbusters-gold-run.json](./13408-blockbusters-gold-run.json) |
 | Blockchain Brawlers | 225754 | [225754-blockchain-brawlers.json](./225754-blockchain-brawlers.json) |
+| Blockd Blast | 239239 | [239239-blockd-blast.json](./239239-blockd-blast.json) |
 | BlockDoc | 111172 | [111172-blockdoc.json](./111172-blockdoc.json) |
 | Blockdown | 157204 | [157204-blockdown.json](./157204-blockdown.json) |
 | Blocked and Loaded | 81890 | [81890-blocked-and-loaded.json](./81890-blocked-and-loaded.json) |
@@ -9404,6 +9407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Monsters Smash | 100195 | [100195-blocky-monsters-smash.json](./100195-blocky-monsters-smash.json) |
 | Blocky Raider | 58202 | [58202-blocky-raider.json](./58202-blocky-raider.json) |
 | Blocky Roads | 23413 | [23413-blocky-roads.json](./23413-blocky-roads.json) |
+| Blocky Roads Winterland | 239240 | [239240-blocky-roads-winterland.json](./239240-blocky-roads-winterland.json) |
 | Blocky Rugby | 58198 | [58198-blocky-rugby.json](./58198-blocky-rugby.json) |
 | Blocky Run | 416884 | [416884-blocky-run.json](./416884-blocky-run.json) |
 | Blocky San Andreas Police 2018 | 102753 | [102753-blocky-san-andreas-police-2018.json](./102753-blocky-san-andreas-police-2018.json) |
