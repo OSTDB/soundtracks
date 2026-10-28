@@ -1060,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden: World Builder Simulator | 259626 | [259626-eden-world-builder-simulator.json](./259626-eden-world-builder-simulator.json) |
 | Eden.schemata(); | 151707 | [151707-eden-schemata.json](./151707-eden-schemata.json) |
 | Eden's Eclipse | 405559 | [405559-edens-eclipse.json](./405559-edens-eclipse.json) |
+| Eden's Guardian | 265806 | [265806-edens-guardian.json](./265806-edens-guardian.json) |
 | Eden's Inferno | 353304 | [353304-edens-inferno.json](./353304-edens-inferno.json) |
 | Eden's Lair | 149497 | [149497-edens-lair.json](./149497-edens-lair.json) |
 | Eden's Last Sunrise | 190187 | [190187-edens-last-sunrise.json](./190187-edens-last-sunrise.json) |
@@ -3254,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Road | 98866 | [98866-endless-road.json](./98866-endless-road.json) |
 | Endless Robot Dash | 344403 | [344403-endless-robot-dash.json](./344403-endless-robot-dash.json) |
 | Endless RPG | 119705 | [119705-endless-rpg.json](./119705-endless-rpg.json) |
+| Endless RPG: Untold Tales | 265800 | [265800-endless-rpg-untold-tales.json](./265800-endless-rpg-untold-tales.json) |
 | Endless Ruin Chapter I: Toward the Endless Ruin | 200542 | [200542-endless-ruin-chapter-i-toward-the-endless-ruin.json](./200542-endless-ruin-chapter-i-toward-the-endless-ruin.json) |
 | Endless Ruin Chapter II: Hall of Spores | 228946 | [228946-endless-ruin-chapter-ii-hall-of-spores.json](./228946-endless-ruin-chapter-ii-hall-of-spores.json) |
 | Endless Run: Woopy's Travel | 72466 | [72466-endless-run-woopys-travel.json](./72466-endless-run-woopys-travel.json) |
@@ -3758,6 +3760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eon of the Green: Area Crescent | 279138 | [279138-eon-of-the-green-area-crescent.json](./279138-eon-of-the-green-area-crescent.json) |
 | Eon Survivor | 406147 | [406147-eon-survivor.json](./406147-eon-survivor.json) |
 | Eon Trooper | 253962 | [253962-eon-trooper.json](./253962-eon-trooper.json) |
+| Eon: Reset | 265803 | [265803-eon-reset.json](./265803-eon-reset.json) |
 | Eon's Insomnium | 372833 | [372833-eons-insomnium.json](./372833-eons-insomnium.json) |
 | Eona | 355025 | [355025-eona.json](./355025-eona.json) |
 | Eonheart | 309738 | [309738-eonheart.json](./309738-eonheart.json) |
@@ -5490,6 +5493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: Soul of Anatolia | 398433 | [398433-euro-truck-simulator-2-soul-of-anatolia.json](./398433-euro-truck-simulator-2-soul-of-anatolia.json) |
 | Euro Truck Simulator 2: Special Transport | 125025 | [125025-euro-truck-simulator-2-special-transport.json](./125025-euro-truck-simulator-2-special-transport.json) |
 | Euro Truck Simulator 2: Street Art Paint Jobs Pack | 225577 | [225577-euro-truck-simulator-2-street-art-paint-jobs-pack.json](./225577-euro-truck-simulator-2-street-art-paint-jobs-pack.json) |
+| Euro Truck Simulator 2: Tirsan Trailer Pack | 265814 | [265814-euro-truck-simulator-2-tirsan-trailer-pack.json](./265814-euro-truck-simulator-2-tirsan-trailer-pack.json) |
 | Euro Truck Simulator 2: Titanium Edition | 52972 | [52972-euro-truck-simulator-2-titanium-edition.json](./52972-euro-truck-simulator-2-titanium-edition.json) |
 | Euro Truck Simulator 2: Vive La France | 26254 | [26254-euro-truck-simulator-2-vive-la-france.json](./26254-euro-truck-simulator-2-vive-la-france.json) |
 | Euro Truck Simulator 2: West Balkans | 204244 | [204244-euro-truck-simulator-2-west-balkans.json](./204244-euro-truck-simulator-2-west-balkans.json) |
