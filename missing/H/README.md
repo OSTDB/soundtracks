@@ -3724,6 +3724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellgrinder | 236110 | [236110-hellgrinder.json](./236110-hellgrinder.json) |
 | HellGunner | 28765 | [28765-hellgunner.json](./28765-hellgunner.json) |
 | HellHeart Breaker | 351687 | [351687-hellheart-breaker.json](./351687-hellheart-breaker.json) |
+| Hellheim: A Norse Saga | 270487 | [270487-hellheim-a-norse-saga.json](./270487-hellheim-a-norse-saga.json) |
 | Hellhole | 186266 | [186266-hellhole.json](./186266-hellhole.json) |
 | Hellhole Game | 390707 | [390707-hellhole-game.json](./390707-hellhole-game.json) |
 | Hellhounds | 59728 | [59728-hellhounds.json](./59728-hellhounds.json) |
@@ -10678,6 +10679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Gauntlet: Legacy of Nozzlethruster III | 134697 | [134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json](./134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json) |
 | Hyper Gods | 22094 | [22094-hyper-gods.json](./22094-hyper-gods.json) |
 | Hyper Gunsport | 204825 | [204825-hyper-gunsport.json](./204825-hyper-gunsport.json) |
+| Hyper Gym Life 3D: Tough Guys | 270477 | [270477-hyper-gym-life-3d-tough-guys.json](./270477-hyper-gym-life-3d-tough-guys.json) |
 | Hyper Hardcore | 129529 | [129529-hyper-hardcore.json](./129529-hyper-hardcore.json) |
 | Hyper Hentai Bikini Party | 246814 | [246814-hyper-hentai-bikini-party.json](./246814-hyper-hentai-bikini-party.json) |
 | Hyper Hentai Devil Hell | 247781 | [247781-hyper-hentai-devil-hell.json](./247781-hyper-hentai-devil-hell.json) |
