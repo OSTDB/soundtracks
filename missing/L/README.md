@@ -6936,6 +6936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Dungeon | 123924 | [123924-lost-in-dungeon.json](./123924-lost-in-dungeon.json) |
 | Lost In Failures | 291093 | [291093-lost-in-failures.json](./291093-lost-in-failures.json) |
 | Lost In Fantaland | 157064 | [157064-lost-in-fantaland.json](./157064-lost-in-fantaland.json) |
+| Lost in Fantasy | 264984 | [264984-lost-in-fantasy.json](./264984-lost-in-fantasy.json) |
 | Lost In Ferry VR | 367146 | [367146-lost-in-ferry-vr.json](./367146-lost-in-ferry-vr.json) |
 | Lost in Firefly Forest | 142778 | [142778-lost-in-firefly-forest.json](./142778-lost-in-firefly-forest.json) |
 | Lost in Harmony | 58892 | [58892-lost-in-harmony.json](./58892-lost-in-harmony.json) |
@@ -7132,6 +7133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Princess: City | 286229 | [286229-lost-princess-city.json](./286229-lost-princess-city.json) |
 | Lost Princess: Winterland | 271908 | [271908-lost-princess-winterland.json](./271908-lost-princess-winterland.json) |
 | Lost Prototype | 356643 | [356643-lost-prototype.json](./356643-lost-prototype.json) |
+| Lost Puzzle: City | 264982 | [264982-lost-puzzle-city.json](./264982-lost-puzzle-city.json) |
 | Lost Pyramid | 236818 | [236818-lost-pyramid.json](./236818-lost-pyramid.json) |
 | Lost Qubixle | 175257 | [175257-lost-qubixle.json](./175257-lost-qubixle.json) |
 | Lost Railway | 397805 | [397805-lost-railway.json](./397805-lost-railway.json) |
