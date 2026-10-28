@@ -5690,6 +5690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Side | 17733 | [17733-reverse-side.json](./17733-reverse-side.json) |
 | Reverse Snake Extreme | 305823 | [305823-reverse-snake-extreme.json](./305823-reverse-snake-extreme.json) |
 | Reverse Will | 277499 | [277499-reverse-will.json](./277499-reverse-will.json) |
+| Reverse Woman of Human Ball | 234270 | [234270-reverse-woman-of-human-ball.json](./234270-reverse-woman-of-human-ball.json) |
 | Reverse: 1999 | 188383 | [188383-reverse-1999.json](./188383-reverse-1999.json) |
 | ReverseBlue x Re-birthend | 362785 | [362785-reverseblue-x-re-birthend.json](./362785-reverseblue-x-re-birthend.json) |
 | Reversed Dreamland | 50515 | [50515-reversed-dreamland.json](./50515-reversed-dreamland.json) |
@@ -6346,6 +6347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer | 225743 | [225743-ridge-racer.json](./225743-ridge-racer.json) |
 | Ridge Racer | 386354 | [386354-ridge-racer.json](./386354-ridge-racer.json) |
 | Ridge Racer 2 | 140479 | [140479-ridge-racer-2.json](./140479-ridge-racer-2.json) |
+| Ridge Racer 2 | 234285 | [234285-ridge-racer-2.json](./234285-ridge-racer-2.json) |
 | Ridge Racer 3D | 6871 | [6871-ridge-racer-3d.json](./6871-ridge-racer-3d.json) |
 | Ridge Racer 6 | 7160 | [7160-ridge-racer-6.json](./7160-ridge-racer-6.json) |
 | Ridge Racer 8 | 339264 | [339264-ridge-racer-8.json](./339264-ridge-racer-8.json) |
@@ -9995,6 +9997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Tabletop Terror | 298258 | [298258-roxy-raccoons-pinball-panic-tabletop-terror.json](./298258-roxy-raccoons-pinball-panic-tabletop-terror.json) |
 | Roxy Raccoon's Pinball Panic: Thanksgiving Throwdown | 276178 | [276178-roxy-raccoons-pinball-panic-thanksgiving-throwdown.json](./276178-roxy-raccoons-pinball-panic-thanksgiving-throwdown.json) |
 | Roxy Raccoon's Pinball Panic: Tropical Treats | 311789 | [311789-roxy-raccoons-pinball-panic-tropical-treats.json](./311789-roxy-raccoons-pinball-panic-tropical-treats.json) |
+| Roxy Raccoon's Pinball Panic: Vibrant Valentine | 234274 | [234274-roxy-raccoons-pinball-panic-vibrant-valentine.json](./234274-roxy-raccoons-pinball-panic-vibrant-valentine.json) |
 | Roxy Raccoon's Pinball Panic: Viking Ventures | 354198 | [354198-roxy-raccoons-pinball-panic-viking-ventures.json](./354198-roxy-raccoons-pinball-panic-viking-ventures.json) |
 | Roxy Raccoon's Pinball Panic: Wacky West | 208818 | [208818-roxy-raccoons-pinball-panic-wacky-west.json](./208818-roxy-raccoons-pinball-panic-wacky-west.json) |
 | Roxy Raccoon's Pinball Panic: Wicked Warfare | 252980 | [252980-roxy-raccoons-pinball-panic-wicked-warfare.json](./252980-roxy-raccoons-pinball-panic-wicked-warfare.json) |
