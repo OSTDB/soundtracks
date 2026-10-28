@@ -1539,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnderDread | 24361 | [24361-underdread.json](./24361-underdread.json) |
 | Underdrown | 379949 | [379949-underdrown.json](./379949-underdrown.json) |
 | UnderDungeon | 219525 | [219525-underdungeon.json](./219525-underdungeon.json) |
+| UnderDungeon + Cyber Protocol | 237570 | [237570-underdungeon-cyber-protocol.json](./237570-underdungeon-cyber-protocol.json) |
 | UnderDungeon: Deluxe Edition | 250367 | [250367-underdungeon-deluxe-edition.json](./250367-underdungeon-deluxe-edition.json) |
 | Underfang | 399713 | [399713-underfang.json](./399713-underfang.json) |
 | Underfell Neutral Run | 335065 | [335065-underfell-neutral-run.json](./335065-underfell-neutral-run.json) |
