@@ -9692,6 +9692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin: Reloaded | 131927 | [131927-sin-reloaded.json](./131927-sin-reloaded.json) |
 | SiN: Wages of Sin | 8717 | [8717-sin-wages-of-sin.json](./8717-sin-wages-of-sin.json) |
 | Sin.exe | 345483 | [345483-sin-exe.json](./345483-sin-exe.json) |
+| Sin(e)s | 255216 | [255216-sin-e-s.json](./255216-sin-e-s.json) |
 | Sina | 185008 | [185008-sina.json](./185008-sina.json) |
 | Sina | 291308 | [291308-sina.json](./291308-sina.json) |
 | Sinag | 293317 | [293317-sinag.json](./293317-sinag.json) |
@@ -10139,6 +10140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixtar Gate: Startrail - Flower & Destiny Pack | 225093 | [225093-sixtar-gate-startrail-flower-and-destiny-pack.json](./225093-sixtar-gate-startrail-flower-and-destiny-pack.json) |
 | Sixtar Gate: Startrail - Oshiribeat Pack | 284913 | [284913-sixtar-gate-startrail-oshiribeat-pack.json](./284913-sixtar-gate-startrail-oshiribeat-pack.json) |
 | Sixtar Gate: Startrail - Sixtartales | 297315 | [297315-sixtar-gate-startrail-sixtartales.json](./297315-sixtar-gate-startrail-sixtartales.json) |
+| Sixtar Gate: Startrail - Touhou Project Pack 01 | 255218 | [255218-sixtar-gate-startrail-touhou-project-pack-01.json](./255218-sixtar-gate-startrail-touhou-project-pack-01.json) |
 | Sixtar Gate: Startrail - Yomoha's Planet | 274638 | [274638-sixtar-gate-startrail-yomohas-planet.json](./274638-sixtar-gate-startrail-yomohas-planet.json) |
 | Sixtar Gate: Startrail x Wacca Collaboration Pack | 277992 | [277992-sixtar-gate-startrail-x-wacca-collaboration-pack.json](./277992-sixtar-gate-startrail-x-wacca-collaboration-pack.json) |
 | Sixteen | 193213 | [193213-sixteen.json](./193213-sixteen.json) |
@@ -13842,6 +13844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban | 6136 | [6136-sokoban.json](./6136-sokoban.json) |
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
 | Sokoban 2 | 407226 | [407226-sokoban-2.json](./407226-sokoban-2.json) |
+| Sokoban 3D | 255281 | [255281-sokoban-3d.json](./255281-sokoban-3d.json) |
 | Sokoban Block Puzzle | 215315 | [215315-sokoban-block-puzzle.json](./215315-sokoban-block-puzzle.json) |
 | Sokoban DS | 307081 | [307081-sokoban-ds.json](./307081-sokoban-ds.json) |
 | Sokoban Gianta | 155973 | [155973-sokoban-gianta.json](./155973-sokoban-gianta.json) |
@@ -19477,6 +19480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Happy Edition | 278645 | [278645-sport-and-fun-swimming-happy-edition.json](./278645-sport-and-fun-swimming-happy-edition.json) |
 | Sport & Fun: Swimming - Legendary Edition | 263536 | [263536-sport-and-fun-swimming-legendary-edition.json](./263536-sport-and-fun-swimming-legendary-edition.json) |
 | Sport & Fun: Swimming - Platinum Edition | 268547 | [268547-sport-and-fun-swimming-platinum-edition.json](./268547-sport-and-fun-swimming-platinum-edition.json) |
+| Sport & Fun: Swimming - Premium Edition | 255221 | [255221-sport-and-fun-swimming-premium-edition.json](./255221-sport-and-fun-swimming-premium-edition.json) |
 | Sport & Fun: Swimming - Superb Edition | 288281 | [288281-sport-and-fun-swimming-superb-edition.json](./288281-sport-and-fun-swimming-superb-edition.json) |
 | Sport & Fun: Swimming - Ultimate Edition | 243370 | [243370-sport-and-fun-swimming-ultimate-edition.json](./243370-sport-and-fun-swimming-ultimate-edition.json) |
 | Sport & Fun: Swimming - Ultra Definitive | 304786 | [304786-sport-and-fun-swimming-ultra-definitive.json](./304786-sport-and-fun-swimming-ultra-definitive.json) |
@@ -25913,6 +25917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumo Stuntmen 7 | 189987 | [189987-sumo-stuntmen-7.json](./189987-sumo-stuntmen-7.json) |
 | Sumo Tatami | 274893 | [274893-sumo-tatami.json](./274893-sumo-tatami.json) |
 | Sumoman | 28026 | [28026-sumoman.json](./28026-sumoman.json) |
+| Sumomo Theatre | 254872 | [254872-sumomo-theatre.json](./254872-sumomo-theatre.json) |
 | SumoRoll | 410044 | [410044-sumoroll.json](./410044-sumoroll.json) |
 | Sumou | 385812 | [385812-sumou.json](./385812-sumou.json) |
 | Sump | 278460 | [278460-sump.json](./278460-sump.json) |
