@@ -14697,7 +14697,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Slots | 395241 | [395241-creepy-slots.json](./395241-creepy-slots.json) |
 | Creepy Support | 345029 | [345029-creepy-support.json](./345029-creepy-support.json) |
 | Creepy Tale | 128252 | [128252-creepy-tale.json](./128252-creepy-tale.json) |
-| Creepy Tale 2 | 154262 | [154262-creepy-tale-2.json](./154262-creepy-tale-2.json) |
 | Creepy Tale 3: Ingrid Penance | 211024 | [211024-creepy-tale-3-ingrid-penance.json](./211024-creepy-tale-3-ingrid-penance.json) |
 | Creepy Tale Bundle | 193739 | [193739-creepy-tale-bundle.json](./193739-creepy-tale-bundle.json) |
 | Creepy Tale: Snow Child | 346386 | [346386-creepy-tale-snow-child.json](./346386-creepy-tale-snow-child.json) |
