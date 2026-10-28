@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake the Dragon | 32069 | [32069-wake-the-dragon.json](./32069-wake-the-dragon.json) |
 | Wake Up | 178453 | [178453-wake-up.json](./178453-wake-up.json) |
 | Wake Up | 22435 | [22435-wake-up.json](./22435-wake-up.json) |
+| Wake Up | 250752 | [250752-wake-up.json](./250752-wake-up.json) |
 | Wake Up and Jump! | 392480 | [392480-wake-up-and-jump.json](./392480-wake-up-and-jump.json) |
 | Wake Up Calls | 397842 | [397842-wake-up-calls.json](./397842-wake-up-calls.json) |
 | Wake Up The Box | 334223 | [334223-wake-up-the-box.json](./334223-wake-up-the-box.json) |
@@ -1310,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Mechanicus II | 302176 | [302176-warhammer-40-000-mechanicus-ii.json](./302176-warhammer-40-000-mechanicus-ii.json) |
 | Warhammer 40,000: Regicide | 11450 | [11450-warhammer-40-000-regicide.json](./11450-warhammer-40-000-regicide.json) |
 | Warhammer 40,000: Regicide - Deluxe Edition | 53903 | [53903-warhammer-40-000-regicide-deluxe-edition.json](./53903-warhammer-40-000-regicide-deluxe-edition.json) |
+| Warhammer 40,000: Rogue Trader - Collector’s Edition | 251060 | [251060-warhammer-40-000-rogue-trader-collector-s-edition.json](./251060-warhammer-40-000-rogue-trader-collector-s-edition.json) |
 | Warhammer 40,000: Rogue Trader - Deluxe Edition | 279888 | [279888-warhammer-40-000-rogue-trader-deluxe-edition.json](./279888-warhammer-40-000-rogue-trader-deluxe-edition.json) |
 | Warhammer 40,000: Rogue Trader - Deluxe Pack | 303282 | [303282-warhammer-40-000-rogue-trader-deluxe-pack.json](./303282-warhammer-40-000-rogue-trader-deluxe-pack.json) |
 | Warhammer 40,000: Rogue Trader - The Infinite Museion | 393038 | [393038-warhammer-40-000-rogue-trader-the-infinite-museion.json](./393038-warhammer-40-000-rogue-trader-the-infinite-museion.json) |
@@ -3094,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Quest | 244181 | [244181-western-quest.json](./244181-western-quest.json) |
 | Western Redemption | 274383 | [274383-western-redemption.json](./274383-western-redemption.json) |
 | Western Riding Academy | 80469 | [80469-western-riding-academy.json](./80469-western-riding-academy.json) |
+| Western Rye | 249967 | [249967-western-rye.json](./249967-western-rye.json) |
 | Western Shadowlands | 362316 | [362316-western-shadowlands.json](./362316-western-shadowlands.json) |
 | Western Slot Machine | 279254 | [279254-western-slot-machine.json](./279254-western-slot-machine.json) |
 | Western U.S. Scenery Set | 131190 | [131190-western-u-s-scenery-set.json](./131190-western-u-s-scenery-set.json) |
@@ -6010,6 +6013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobble Pole | 178423 | [178423-wobble-pole.json](./178423-wobble-pole.json) |
 | Wobble Warriors | 261558 | [261558-wobble-warriors.json](./261558-wobble-warriors.json) |
 | Wobble Wobble | 397923 | [397923-wobble-wobble.json](./397923-wobble-wobble.json) |
+| Wobbledogs: Console Edition | 250554 | [250554-wobbledogs-console-edition.json](./250554-wobbledogs-console-edition.json) |
 | Wobbly Bobbly | 69882 | [69882-wobbly-bobbly.json](./69882-wobbly-bobbly.json) |
 | Wobbly Construction! | 327448 | [327448-wobbly-construction.json](./327448-wobbly-construction.json) |
 | Wobbly Heights | 311197 | [311197-wobbly-heights.json](./311197-wobbly-heights.json) |
@@ -6053,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Gang | 76507 | [76507-wolf-gang.json](./76507-wolf-gang.json) |
 | Wolf Girl With You | 140307 | [140307-wolf-girl-with-you.json](./140307-wolf-girl-with-you.json) |
 | Wolf Hero: Animals vs. Robots | 312541 | [312541-wolf-hero-animals-vs-robots.json](./312541-wolf-hero-animals-vs-robots.json) |
+| Wolf in the City | 250981 | [250981-wolf-in-the-city.json](./250981-wolf-in-the-city.json) |
 | Wolf Knight Memoir | 278982 | [278982-wolf-knight-memoir.json](./278982-wolf-knight-memoir.json) |
 | Wolf Night Evening | 228512 | [228512-wolf-night-evening.json](./228512-wolf-night-evening.json) |
 | Wolf of the Battlefield: Commando 3 | 21342 | [21342-wolf-of-the-battlefield-commando-3.json](./21342-wolf-of-the-battlefield-commando-3.json) |
