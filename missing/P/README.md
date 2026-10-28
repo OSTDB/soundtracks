@@ -2337,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Quiz Mega Q 2022 | 216258 | [216258-party-quiz-mega-q-2022.json](./216258-party-quiz-mega-q-2022.json) |
 | Party Saboteurs | 25313 | [25313-party-saboteurs.json](./25313-party-saboteurs.json) |
 | Party Saboteurs: After Party | 130364 | [130364-party-saboteurs-after-party.json](./130364-party-saboteurs-after-party.json) |
+| Party Shift | 236454 | [236454-party-shift.json](./236454-party-shift.json) |
 | Party Stars | 309181 | [309181-party-stars.json](./309181-party-stars.json) |
 | Party Talk Simulator | 183232 | [183232-party-talk-simulator.json](./183232-party-talk-simulator.json) |
 | Party Treats | 125055 | [125055-party-treats.json](./125055-party-treats.json) |
