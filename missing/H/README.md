@@ -7992,6 +7992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homefront: The Revolution - Day One Edition | 136163 | [136163-homefront-the-revolution-day-one-edition.json](./136163-homefront-the-revolution-day-one-edition.json) |
 | Homefront: The Revolution - Freedom Fighter Bundle | 185979 | [185979-homefront-the-revolution-freedom-fighter-bundle.json](./185979-homefront-the-revolution-freedom-fighter-bundle.json) |
 | Homefront: The Revolution - Goliath Edition | 89840 | [89840-homefront-the-revolution-goliath-edition.json](./89840-homefront-the-revolution-goliath-edition.json) |
+| Homefront: The Revolution - The Liberty Pack | 263081 | [263081-homefront-the-revolution-the-liberty-pack.json](./263081-homefront-the-revolution-the-liberty-pack.json) |
 | Homefront: The Revolution - The Voice Of Freedom | 53205 | [53205-homefront-the-revolution-the-voice-of-freedom.json](./53205-homefront-the-revolution-the-voice-of-freedom.json) |
 | Homefront: The Rock Map Pack | 224224 | [224224-homefront-the-rock-map-pack.json](./224224-homefront-the-rock-map-pack.json) |
 | Homefront: Ultimate Edition | 99960 | [99960-homefront-ultimate-edition.json](./99960-homefront-ultimate-edition.json) |
@@ -9192,6 +9193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: All Out | 49283 | [49283-hot-wheels-all-out.json](./49283-hot-wheels-all-out.json) |
 | Hot Wheels: Bash Arena | 70992 | [70992-hot-wheels-bash-arena.json](./70992-hot-wheels-bash-arena.json) |
 | Hot Wheels: Beat That! | 4916 | [4916-hot-wheels-beat-that.json](./4916-hot-wheels-beat-that.json) |
+| Hot Wheels: Beefed Up Pack | 263068 | [263068-hot-wheels-beefed-up-pack.json](./263068-hot-wheels-beefed-up-pack.json) |
 | Hot Wheels: Burnin' Rubber | 49295 | [49295-hot-wheels-burnin-rubber.json](./49295-hot-wheels-burnin-rubber.json) |
 | Hot Wheels: Crash! | 74090 | [74090-hot-wheels-crash.json](./74090-hot-wheels-crash.json) |
 | Hot Wheels: Custom Car Designer | 313290 | [313290-hot-wheels-custom-car-designer.json](./313290-hot-wheels-custom-car-designer.json) |
