@@ -3562,6 +3562,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GhoulBoy: Limited Edition | 166234 | [166234-ghoulboy-limited-edition.json](./166234-ghoulboy-limited-edition.json) |
 | Ghouls | 13721 | [13721-ghouls.json](./13721-ghouls.json) |
 | Ghouls 'n Ghosts | 262502 | [262502-ghouls-n-ghosts.json](./262502-ghouls-n-ghosts.json) |
+| Ghouls 'n Ghosts | 262503 | [262503-ghouls-n-ghosts.json](./262503-ghouls-n-ghosts.json) |
+| Ghouls 'n Ghosts | 262507 | [262507-ghouls-n-ghosts.json](./262507-ghouls-n-ghosts.json) |
 | Ghouls 'n Ghosts Remix | 191269 | [191269-ghouls-n-ghosts-remix.json](./191269-ghouls-n-ghosts-remix.json) |
 | Ghouls 'n Ghosts Remix: Queen Edition | 191271 | [191271-ghouls-n-ghosts-remix-queen-edition.json](./191271-ghouls-n-ghosts-remix-queen-edition.json) |
 | Ghouls & Guardians | 348982 | [348982-ghouls-and-guardians.json](./348982-ghouls-and-guardians.json) |
@@ -6161,6 +6163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goonya Monster: Additional Character (Buster) - Meika Utai/All Guys | 256422 | [256422-goonya-monster-additional-character-buster-meika-utai-all-guys.json](./256422-goonya-monster-additional-character-buster-meika-utai-all-guys.json) |
 | Goonya Monster: Additional Character (Buster) - Slug | 248721 | [248721-goonya-monster-additional-character-buster-slug.json](./248721-goonya-monster-additional-character-buster-slug.json) |
 | Goonya Monster: Additional Character (Buster) - Tsukasa Tenkai/All Guys | 256421 | [256421-goonya-monster-additional-character-buster-tsukasa-tenkai-all-guys.json](./256421-goonya-monster-additional-character-buster-tsukasa-tenkai-all-guys.json) |
+| Goonya Monster: Additional Character (Buster): Alice | 262526 | [262526-goonya-monster-additional-character-buster-alice.json](./262526-goonya-monster-additional-character-buster-alice.json) |
 | Goonya Monster: Battle Pass - Eternal Pass + Infinity Cookie | 301019 | [301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json](./301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json) |
 | Goonya Monster: Buster - Iwasake-chan/Fake Type | 279872 | [279872-goonya-monster-buster-iwasake-chan-fake-type.json](./279872-goonya-monster-buster-iwasake-chan-fake-type.json) |
 | Goonya Monster: Buster - Lord Ham/Fake Type | 279871 | [279871-goonya-monster-buster-lord-ham-fake-type.json](./279871-goonya-monster-buster-lord-ham-fake-type.json) |
@@ -7227,6 +7230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviteam Tactics: Operation Star - Volokonovka 1942 | 155496 | [155496-graviteam-tactics-operation-star-volokonovka-1942.json](./155496-graviteam-tactics-operation-star-volokonovka-1942.json) |
 | Graviteam Tactics: Operation Star - Zhalanashkol 1969 | 54061 | [54061-graviteam-tactics-operation-star-zhalanashkol-1969.json](./54061-graviteam-tactics-operation-star-zhalanashkol-1969.json) |
 | Graviteam Tactics: The Far Escape | 304450 | [304450-graviteam-tactics-the-far-escape.json](./304450-graviteam-tactics-the-far-escape.json) |
+| Gravitee | 262142 | [262142-gravitee.json](./262142-gravitee.json) |
 | Gravitee 2 | 293351 | [293351-gravitee-2.json](./293351-gravitee-2.json) |
 | Gravitee Wars | 245575 | [245575-gravitee-wars.json](./245575-gravitee-wars.json) |
 | Gravitee Wars | 310833 | [310833-gravitee-wars.json](./310833-gravitee-wars.json) |
