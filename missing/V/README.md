@@ -1910,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikingard | 175700 | [175700-vikingard.json](./175700-vikingard.json) |
 | VikingJourney | 95671 | [95671-vikingjourney.json](./95671-vikingjourney.json) |
 | Vikings | 100048 | [100048-vikings.json](./100048-vikings.json) |
+| Vikings and Thrones | 240398 | [240398-vikings-and-thrones.json](./240398-vikings-and-thrones.json) |
 | Vikings Dynasty | 343265 | [343265-vikings-dynasty.json](./343265-vikings-dynasty.json) |
 | Vikings Hnefatafl: Kings of the Dark Age | 249712 | [249712-vikings-hnefatafl-kings-of-the-dark-age.json](./249712-vikings-hnefatafl-kings-of-the-dark-age.json) |
 | Vikings II | 147276 | [147276-vikings-ii.json](./147276-vikings-ii.json) |
