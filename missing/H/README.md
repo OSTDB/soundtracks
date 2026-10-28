@@ -4287,6 +4287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Autumn Crush | 320445 | [320445-hentai-girls-autumn-crush.json](./320445-hentai-girls-autumn-crush.json) |
 | Hentai Girls: Cat Cutie | 306538 | [306538-hentai-girls-cat-cutie.json](./306538-hentai-girls-cat-cutie.json) |
 | Hentai Girls: Christmas | 365432 | [365432-hentai-girls-christmas.json](./365432-hentai-girls-christmas.json) |
+| Hentai Girls: College Crush | 280067 | [280067-hentai-girls-college-crush.json](./280067-hentai-girls-college-crush.json) |
 | Hentai Girls: College Romance | 325018 | [325018-hentai-girls-college-romance.json](./325018-hentai-girls-college-romance.json) |
 | Hentai Girls: Complete + | 324466 | [324466-hentai-girls-complete.json](./324466-hentai-girls-complete.json) |
 | Hentai Girls: Contact | 281523 | [281523-hentai-girls-contact.json](./281523-hentai-girls-contact.json) |
@@ -8873,6 +8874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Host Master Deux: Quest for Identity | 62185 | [62185-host-master-deux-quest-for-identity.json](./62185-host-master-deux-quest-for-identity.json) |
 | Host no Abunai Sekai | 264091 | [264091-host-no-abunai-sekai.json](./264091-host-no-abunai-sekai.json) |
 | Host Security Guard | 278641 | [278641-host-security-guard.json](./278641-host-security-guard.json) |
+| Host Security Guard | 280062 | [280062-host-security-guard.json](./280062-host-security-guard.json) |
 | Hostage | 184226 | [184226-hostage.json](./184226-hostage.json) |
 | Hostage Heart | 417565 | [417565-hostage-heart.json](./417565-hostage-heart.json) |
 | HostageHub | 263988 | [263988-hostagehub.json](./263988-hostagehub.json) |
