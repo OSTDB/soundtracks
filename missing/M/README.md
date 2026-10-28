@@ -3116,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maria 2: Jutai Kokuchi no Nazo | 74346 | [74346-maria-2-jutai-kokuchi-no-nazo.json](./74346-maria-2-jutai-kokuchi-no-nazo.json) |
 | Maria Adventure | 220821 | [220821-maria-adventure.json](./220821-maria-adventure.json) |
 | Maria the Witch | 33406 | [33406-maria-the-witch.json](./33406-maria-the-witch.json) |
+| Maria Way | 254716 | [254716-maria-way.json](./254716-maria-way.json) |
 | Maria-sama ga Gyakuten | 97525 | [97525-maria-sama-ga-gyakuten.json](./97525-maria-sama-ga-gyakuten.json) |
 | Maria: Kimitachi ga Umareta Wake | 73496 | [73496-maria-kimitachi-ga-umareta-wake.json](./73496-maria-kimitachi-ga-umareta-wake.json) |
 | Maria's Christmas Box | 15257 | [15257-marias-christmas-box.json](./15257-marias-christmas-box.json) |
@@ -8349,6 +8350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metacity Patrol | 339796 | [339796-metacity-patrol.json](./339796-metacity-patrol.json) |
 | Metacube | 342779 | [342779-metacube.json](./342779-metacube.json) |
 | MetaDOS | 199923 | [199923-metados.json](./199923-metados.json) |
+| MetaDude | 254634 | [254634-metadude.json](./254634-metadude.json) |
 | Metaflora | 280704 | [280704-metaflora.json](./280704-metaflora.json) |
 | Metaforces Bowling Center | 279122 | [279122-metaforces-bowling-center.json](./279122-metaforces-bowling-center.json) |
 | Metagal | 19321 | [19321-metagal.json](./19321-metagal.json) |
@@ -10625,6 +10627,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Armored Paws | 299217 | [299217-minecraft-armored-paws.json](./299217-minecraft-armored-paws.json) |
 | Minecraft: Armored Paws | 299218 | [299218-minecraft-armored-paws.json](./299218-minecraft-armored-paws.json) |
 | Minecraft: Astronaut Training Center | 316751 | [316751-minecraft-astronaut-training-center.json](./316751-minecraft-astronaut-training-center.json) |
+| Minecraft: Avatar Legends | 254268 | [254268-minecraft-avatar-legends.json](./254268-minecraft-avatar-legends.json) |
+| Minecraft: Batman | 254266 | [254266-minecraft-batman.json](./254266-minecraft-batman.json) |
 | Minecraft: Battle and Beasts Skin Pack | 322958 | [322958-minecraft-battle-and-beasts-skin-pack.json](./322958-minecraft-battle-and-beasts-skin-pack.json) |
 | Minecraft: Be A Mob Add-On | 334050 | [334050-minecraft-be-a-mob-add-on.json](./334050-minecraft-be-a-mob-add-on.json) |
 | Minecraft: Better than Adventure! | 256096 | [256096-minecraft-better-than-adventure.json](./256096-minecraft-better-than-adventure.json) |
@@ -10666,6 +10670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Hermicraft Season 8 Map | 366814 | [366814-minecraft-hermicraft-season-8-map.json](./366814-minecraft-hermicraft-season-8-map.json) |
 | Minecraft: Hermitcraft Season 9 Map | 316750 | [316750-minecraft-hermitcraft-season-9-map.json](./316750-minecraft-hermitcraft-season-9-map.json) |
 | Minecraft: Holiday Skin Pack 2015 | 303023 | [303023-minecraft-holiday-skin-pack-2015.json](./303023-minecraft-holiday-skin-pack-2015.json) |
+| Minecraft: Ice Age | 254262 | [254262-minecraft-ice-age.json](./254262-minecraft-ice-age.json) |
 | Minecraft: Insane Disasters | 334048 | [334048-minecraft-insane-disasters.json](./334048-minecraft-insane-disasters.json) |
 | Minecraft: James Web Space Telescope | 322959 | [322959-minecraft-james-web-space-telescope.json](./322959-minecraft-james-web-space-telescope.json) |
 | Minecraft: Java & Bedrock Edition | 204910 | [204910-minecraft-java-and-bedrock-edition.json](./204910-minecraft-java-and-bedrock-edition.json) |
@@ -10674,6 +10679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Jurassic World Adventures | 285053 | [285053-minecraft-jurassic-world-adventures.json](./285053-minecraft-jurassic-world-adventures.json) |
 | Minecraft: Kung Fu Panda | 299203 | [299203-minecraft-kung-fu-panda.json](./299203-minecraft-kung-fu-panda.json) |
 | MInecraft: Lava Chicken | 327116 | [327116-minecraft-lava-chicken.json](./327116-minecraft-lava-chicken.json) |
+| Minecraft: Lightyear | 254263 | [254263-minecraft-lightyear.json](./254263-minecraft-lightyear.json) |
 | MInecraft: Marvel Avengers Skin Pack | 254877 | [254877-minecraft-marvel-avengers-skin-pack.json](./254877-minecraft-marvel-avengers-skin-pack.json) |
 | Minecraft: Mega Man X | 239210 | [239210-minecraft-mega-man-x.json](./239210-minecraft-mega-man-x.json) |
 | Minecraft: Minecon 2015 Skin Pack | 301522 | [301522-minecraft-minecon-2015-skin-pack.json](./301522-minecraft-minecon-2015-skin-pack.json) |
@@ -10714,6 +10720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Solo - A Star Wars Story Pack | 307724 | [307724-minecraft-solo-a-star-wars-story-pack.json](./307724-minecraft-solo-a-star-wars-story-pack.json) |
 | Minecraft: Sonic Texture Pack | 254791 | [254791-minecraft-sonic-texture-pack.json](./254791-minecraft-sonic-texture-pack.json) |
 | Minecraft: Sonic the Hedgehog | 214454 | [214454-minecraft-sonic-the-hedgehog.json](./214454-minecraft-sonic-the-hedgehog.json) |
+| Minecraft: SpongeBob SquarePants | 254265 | [254265-minecraft-spongebob-squarepants.json](./254265-minecraft-spongebob-squarepants.json) |
 | Minecraft: Stampy's Lovely World | 315117 | [315117-minecraft-stampys-lovely-world.json](./315117-minecraft-stampys-lovely-world.json) |
 | Minecraft: Star Wars - Path of the Jedi | 272800 | [272800-minecraft-star-wars-path-of-the-jedi.json](./272800-minecraft-star-wars-path-of-the-jedi.json) |
 | Minecraft: Star Wars Classic Skin Pack | 303041 | [303041-minecraft-star-wars-classic-skin-pack.json](./303041-minecraft-star-wars-classic-skin-pack.json) |
@@ -11603,6 +11610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miroh Jr. | 307885 | [307885-miroh-jr.json](./307885-miroh-jr.json) |
 | Mirren: Star Legends | 363671 | [363671-mirren-star-legends.json](./363671-mirren-star-legends.json) |
 | Mirria | 381081 | [381081-mirria.json](./381081-mirria.json) |
+| Mirror 2: Console Edition | 254632 | [254632-mirror-2-console-edition.json](./254632-mirror-2-console-edition.json) |
 | Mirror and Queen | 57501 | [57501-mirror-and-queen.json](./57501-mirror-and-queen.json) |
 | Mirror Angel's Paradise | 107702 | [107702-mirror-angels-paradise.json](./107702-mirror-angels-paradise.json) |
 | Mirror Atelier | 369351 | [369351-mirror-atelier.json](./369351-mirror-atelier.json) |
@@ -18578,6 +18586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Lab | 235635 | [235635-mysterious-lab.json](./235635-mysterious-lab.json) |
 | Mysterious Mayan Madness | 269460 | [269460-mysterious-mayan-madness.json](./269460-mysterious-mayan-madness.json) |
 | Mysterious Mystery, EP 1: The Duo Dilemma | 293486 | [293486-mysterious-mystery-ep-1-the-duo-dilemma.json](./293486-mysterious-mystery-ep-1-the-duo-dilemma.json) |
+| Mysterious Place | 254282 | [254282-mysterious-place.json](./254282-mysterious-place.json) |
 | Mysterious Puzzles Collection: Nemezis, Schizm, Reah | 159686 | [159686-mysterious-puzzles-collection-nemezis-schizm-reah.json](./159686-mysterious-puzzles-collection-nemezis-schizm-reah.json) |
 | Mysterious Retro Games Bundle | 231076 | [231076-mysterious-retro-games-bundle.json](./231076-mysterious-retro-games-bundle.json) |
 | Mysterious School | 212812 | [212812-mysterious-school.json](./212812-mysterious-school.json) |
