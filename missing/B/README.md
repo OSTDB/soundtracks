@@ -4920,6 +4920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty and Violence: Valkyries | 122299 | [122299-beauty-and-violence-valkyries.json](./122299-beauty-and-violence-valkyries.json) |
 | Beauty Clicker | 371612 | [371612-beauty-clicker.json](./371612-beauty-clicker.json) |
 | Beauty Clicker 2 | 389646 | [389646-beauty-clicker-2.json](./389646-beauty-clicker-2.json) |
+| Beauty Crush | 259126 | [259126-beauty-crush.json](./259126-beauty-crush.json) |
 | Beauty Factory | 52447 | [52447-beauty-factory.json](./52447-beauty-factory.json) |
 | Beauty from Wisdom | 236372 | [236372-beauty-from-wisdom.json](./236372-beauty-from-wisdom.json) |
 | Beauty Girl Chronicles: Island Obstacle Challenge | 302797 | [302797-beauty-girl-chronicles-island-obstacle-challenge.json](./302797-beauty-girl-chronicles-island-obstacle-challenge.json) |
@@ -5263,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Frame: The Finest Scenery VR | 244666 | [244666-behind-the-frame-the-finest-scenery-vr.json](./244666-behind-the-frame-the-finest-scenery-vr.json) |
 | Behind the Horizon | 164588 | [164588-behind-the-horizon.json](./164588-behind-the-horizon.json) |
 | Behind the Horizon: The Desert | 195239 | [195239-behind-the-horizon-the-desert.json](./195239-behind-the-horizon-the-desert.json) |
+| Behind the Horizon: The Sky Fortress | 259122 | [259122-behind-the-horizon-the-sky-fortress.json](./259122-behind-the-horizon-the-sky-fortress.json) |
 | Behind the Hydra's Eyes | 374585 | [374585-behind-the-hydras-eyes.json](./374585-behind-the-hydras-eyes.json) |
 | Behind the Iron Gate | 14294 | [14294-behind-the-iron-gate.json](./14294-behind-the-iron-gate.json) |
 | Behind the Kingdom | 297850 | [297850-behind-the-kingdom.json](./297850-behind-the-kingdom.json) |
@@ -7300,6 +7302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Sort: Color Puzzle | 245332 | [245332-bird-sort-color-puzzle.json](./245332-bird-sort-color-puzzle.json) |
 | Bird Strike | 15672 | [15672-bird-strike.json](./15672-bird-strike.json) |
 | Bird Strike for Android | 137098 | [137098-bird-strike-for-android.json](./137098-bird-strike-for-android.json) |
+| Bird Tale | 259132 | [259132-bird-tale.json](./259132-bird-tale.json) |
 | Bird Tapper vs the Krampus Fellowship Clan | 297568 | [297568-bird-tapper-vs-the-krampus-fellowship-clan.json](./297568-bird-tapper-vs-the-krampus-fellowship-clan.json) |
 | Bird Tapper: Purple Platoon Panic | 297567 | [297567-bird-tapper-purple-platoon-panic.json](./297567-bird-tapper-purple-platoon-panic.json) |
 | Bird Vs Bird | 277417 | [277417-bird-vs-bird.json](./277417-bird-vs-bird.json) |
@@ -7985,6 +7988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Sigil: Blade of the Exiled | 21124 | [21124-black-sigil-blade-of-the-exiled.json](./21124-black-sigil-blade-of-the-exiled.json) |
 | Black Sign | 145592 | [145592-black-sign.json](./145592-black-sign.json) |
 | Black silk girl | 278271 | [278271-black-silk-girl.json](./278271-black-silk-girl.json) |
+| Black Silk Girl | 259125 | [259125-black-silk-girl.json](./259125-black-silk-girl.json) |
 | Black Smith | 290334 | [290334-black-smith.json](./290334-black-smith.json) |
 | Black Smith 3 | 150641 | [150641-black-smith-3.json](./150641-black-smith-3.json) |
 | Black Smith 4 | 265774 | [265774-black-smith-4.json](./265774-black-smith-4.json) |
@@ -8382,6 +8386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blame him | 111802 | [111802-blame-him.json](./111802-blame-him.json) |
 | Blame the Intern | 185369 | [185369-blame-the-intern.json](./185369-blame-the-intern.json) |
 | BlameChat | 415969 | [415969-blamechat.json](./415969-blamechat.json) |
+| Blamed | 259107 | [259107-blamed.json](./259107-blamed.json) |
 | Blameless | 25847 | [25847-blameless.json](./25847-blameless.json) |
 | Blanc | 206812 | [206812-blanc.json](./206812-blanc.json) |
 | Blanche | 184566 | [184566-blanche.json](./184566-blanche.json) |
@@ -9004,6 +9009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobun | 316089 | [316089-blobun.json](./316089-blobun.json) |
 | Blobz | 14320 | [14320-blobz.json](./14320-blobz.json) |
 | Bloc | 94860 | [94860-bloc.json](./94860-bloc.json) |
+| Bloc-Age: Path of the Oracle | 259124 | [259124-bloc-age-path-of-the-oracle.json](./259124-bloc-age-path-of-the-oracle.json) |
 | Blochead | 78963 | [78963-blochead.json](./78963-blochead.json) |
 | Block | 120081 | [120081-block.json](./120081-block.json) |
 | Block | 172653 | [172653-block.json](./172653-block.json) |
