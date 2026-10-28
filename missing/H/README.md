@@ -7050,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HiPurrLand | 306931 | [306931-hipurrland.json](./306931-hipurrland.json) |
 | HipWitch | 172985 | [172985-hipwitch.json](./172985-hipwitch.json) |
 | HiQ Ace | 115771 | [115771-hiq-ace.json](./115771-hiq-ace.json) |
+| HiQ Ace Deluxe | 234267 | [234267-hiq-ace-deluxe.json](./234267-hiq-ace-deluxe.json) |
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
 | Hiraeth | 280264 | [280264-hiraeth.json](./280264-hiraeth.json) |
 | Hiraeth | 291584 | [291584-hiraeth.json](./291584-hiraeth.json) |
