@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laruaville 15 | 302355 | [302355-laruaville-15.json](./302355-laruaville-15.json) |
 | Laruaville 17 | 377062 | [377062-laruaville-17.json](./377062-laruaville-17.json) |
 | Laruaville 2 | 262486 | [262486-laruaville-2.json](./262486-laruaville-2.json) |
+| Laruaville 3 | 264752 | [264752-laruaville-3.json](./264752-laruaville-3.json) |
 | Laruaville 4 Christmas Match 3 Puzzle | 227874 | [227874-laruaville-4-christmas-match-3-puzzle.json](./227874-laruaville-4-christmas-match-3-puzzle.json) |
 | Laruaville 5 | 265602 | [265602-laruaville-5.json](./265602-laruaville-5.json) |
 | Laruaville 6 | 265537 | [265537-laruaville-6.json](./265537-laruaville-6.json) |
@@ -6253,6 +6254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Since The Eschaton | 319072 | [319072-long-since-the-eschaton.json](./319072-long-since-the-eschaton.json) |
 | Long Sky | 115793 | [115793-long-sky.json](./115793-long-sky.json) |
 | Long Star | 131618 | [131618-long-star.json](./131618-long-star.json) |
+| Long Story Short | 264750 | [264750-long-story-short.json](./264750-long-story-short.json) |
 | Long Time No See | 143477 | [143477-long-time-no-see.json](./143477-long-time-no-see.json) |
 | Long Truck Simulator | 243544 | [243544-long-truck-simulator.json](./243544-long-truck-simulator.json) |
 | Long War of the Chosen | 315590 | [315590-long-war-of-the-chosen.json](./315590-long-war-of-the-chosen.json) |
@@ -6743,6 +6745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost & Alone: Adventure Escape | 90537 | [90537-lost-and-alone-adventure-escape.json](./90537-lost-and-alone-adventure-escape.json) |
 | Lost & Found | 110786 | [110786-lost-and-found.json](./110786-lost-and-found.json) |
 | Lost & Found | 404803 | [404803-lost-and-found.json](./404803-lost-and-found.json) |
+| Lost & Found Agency: Collector's Edition | 264760 | [264760-lost-and-found-agency-collectors-edition.json](./264760-lost-and-found-agency-collectors-edition.json) |
 | Lost & Found Collection | 341180 | [341180-lost-and-found-collection.json](./341180-lost-and-found-collection.json) |
 | Lost & Found Spot It Fast! | 336405 | [336405-lost-and-found-spot-it-fast.json](./336405-lost-and-found-spot-it-fast.json) |
 | Lost & Found: A This Bed We Made Story | 391841 | [391841-lost-and-found-a-this-bed-we-made-story.json](./391841-lost-and-found-a-this-bed-we-made-story.json) |
