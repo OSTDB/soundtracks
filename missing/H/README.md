@@ -3700,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellfire: Reborn | 274131 | [274131-hellfire-reborn.json](./274131-hellfire-reborn.json) |
 | HellFire: The Summoning | 27690 | [27690-hellfire-the-summoning.json](./27690-hellfire-the-summoning.json) |
 | Hellfire: Wukong | 392184 | [392184-hellfire-wukong.json](./392184-hellfire-wukong.json) |
+| HellFlame | 273498 | [273498-hellflame.json](./273498-hellflame.json) |
 | Hellfo | 123969 | [123969-hellfo.json](./123969-hellfo.json) |
 | Hellforces | 84469 | [84469-hellforces.json](./84469-hellforces.json) |
 | Hellfront: Honeymoon | 107369 | [107369-hellfront-honeymoon.json](./107369-hellfront-honeymoon.json) |
@@ -9446,6 +9447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Jigsaw: Fantasy | 273478 | [273478-house-of-jigsaw-fantasy.json](./273478-house-of-jigsaw-fantasy.json) |
 | House of Jigsaw: Fascinating Landscapes | 273477 | [273477-house-of-jigsaw-fascinating-landscapes.json](./273477-house-of-jigsaw-fascinating-landscapes.json) |
 | House of Jigsaw: Masters of Art | 238540 | [238540-house-of-jigsaw-masters-of-art.json](./238540-house-of-jigsaw-masters-of-art.json) |
+| House of Jigsaw: Romance | 273499 | [273499-house-of-jigsaw-romance.json](./273499-house-of-jigsaw-romance.json) |
 | House of Jigsaw: Spooky Halloween | 278548 | [278548-house-of-jigsaw-spooky-halloween.json](./278548-house-of-jigsaw-spooky-halloween.json) |
 | House of Jigsaw: The Art of Still Life | 273476 | [273476-house-of-jigsaw-the-art-of-still-life.json](./273476-house-of-jigsaw-the-art-of-still-life.json) |
 | House of Jigsaw: The Best of Macro Photography | 273475 | [273475-house-of-jigsaw-the-best-of-macro-photography.json](./273475-house-of-jigsaw-the-best-of-macro-photography.json) |
