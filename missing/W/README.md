@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WaggaSim | 312563 | [312563-waggasim.json](./312563-waggasim.json) |
 | Waggle Words | 58560 | [58560-waggle-words.json](./58560-waggle-words.json) |
 | Wagie Run | 404965 | [404965-wagie-run.json](./404965-wagie-run.json) |
+| Wagon | 258048 | [258048-wagon.json](./258048-wagon.json) |
 | Wagon 00 | 390998 | [390998-wagon-00.json](./390998-wagon-00.json) |
 | Wagon Gloom | 288474 | [288474-wagon-gloom.json](./288474-wagon-gloom.json) |
 | Wagotabi | 283132 | [283132-wagotabi.json](./283132-wagotabi.json) |
@@ -2424,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WCW Whiplash | 198963 | [198963-wcw-whiplash.json](./198963-wcw-whiplash.json) |
 | WCW: World Championship Wrestling | 48095 | [48095-wcw-world-championship-wrestling.json](./48095-wcw-world-championship-wrestling.json) |
 | WCW/nWo Grudge Match: Scott vs. Rick Steiner | 217985 | [217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json](./217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json) |
+| WCW/nWo Revenji | 257769 | [257769-wcw-nwo-revenji.json](./257769-wcw-nwo-revenji.json) |
 | WCW/nWo Thunder | 18315 | [18315-wcw-nwo-thunder.json](./18315-wcw-nwo-thunder.json) |
 | WD-40 Game | 250203 | [250203-wd-40-game.json](./250203-wd-40-game.json) |
 | WDF | 332942 | [332942-wdf.json](./332942-wdf.json) |
@@ -5629,6 +5631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchfiend / Odd Job Eddie | 92845 | [92845-witchfiend-odd-job-eddie.json](./92845-witchfiend-odd-job-eddie.json) |
 | Witchfire | 76880 | [76880-witchfire.json](./76880-witchfire.json) |
 | WitchGhost | 284837 | [284837-witchghost.json](./284837-witchghost.json) |
+| WitchHand | 258057 | [258057-witchhand.json](./258057-witchhand.json) |
 | Witchhazel Woods | 207582 | [207582-witchhazel-woods.json](./207582-witchhazel-woods.json) |
 | Witching Hour | 154077 | [154077-witching-hour.json](./154077-witching-hour.json) |
 | Witching Hour | 261158 | [261158-witching-hour.json](./261158-witching-hour.json) |
@@ -6788,6 +6791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordTrip: Word Swipe Puzzles | 98795 | [98795-wordtrip-word-swipe-puzzles.json](./98795-wordtrip-word-swipe-puzzles.json) |
 | WordUp | 71975 | [71975-wordup.json](./71975-wordup.json) |
 | Wordventures: The Vampire Pirate | 411516 | [411516-wordventures-the-vampire-pirate.json](./411516-wordventures-the-vampire-pirate.json) |
+| Wordward Draw | 258049 | [258049-wordward-draw.json](./258049-wordward-draw.json) |
 | WordWarrior | 243168 | [243168-wordwarrior.json](./243168-wordwarrior.json) |
 | WordWhile | 101413 | [101413-wordwhile.json](./101413-wordwhile.json) |
 | WordWhizzle Connect | 86799 | [86799-wordwhizzle-connect.json](./86799-wordwhizzle-connect.json) |
