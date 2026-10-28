@@ -2290,6 +2290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Queen | 84337 | [84337-4-queen.json](./84337-4-queen.json) |
 | 4 Rush Together | 316434 | [316434-4-rush-together.json](./316434-4-rush-together.json) |
 | 4 Seasons of Doom | 262309 | [262309-4-seasons-of-doom.json](./262309-4-seasons-of-doom.json) |
+| 4 Seasons Runner | 243854 | [243854-4-seasons-runner.json](./243854-4-seasons-runner.json) |
 | 4 Soccer Simulators | 250292 | [250292-4-soccer-simulators.json](./250292-4-soccer-simulators.json) |
 | 4 Spiele 1 Diskette | 130283 | [130283-4-spiele-1-diskette.json](./130283-4-spiele-1-diskette.json) |
 | 4 Stones | 117177 | [117177-4-stones.json](./117177-4-stones.json) |
@@ -2448,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4x4 OffRoad Collection | 283203 | [283203-4x4-offroad-collection.json](./283203-4x4-offroad-collection.json) |
 | 4x4 Offroad Driver | 219294 | [219294-4x4-offroad-driver.json](./219294-4x4-offroad-driver.json) |
 | 4x4 Offroad Driver 2 | 237552 | [237552-4x4-offroad-driver-2.json](./237552-4x4-offroad-driver-2.json) |
+| 4x4 Offroader | 243314 | [243314-4x4-offroader.json](./243314-4x4-offroader.json) |
 | 4X4 Progress | 333648 | [333648-4x4-progress.json](./333648-4x4-progress.json) |
 | 4X4 Progress: Civilization Pack I | 377386 | [377386-4x4-progress-civilization-pack-i.json](./377386-4x4-progress-civilization-pack-i.json) |
 | 4X4 Progress: Civilization Pack II | 377387 | [377387-4x4-progress-civilization-pack-ii.json](./377387-4x4-progress-civilization-pack-ii.json) |
@@ -2825,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Ball: Reborn | 337783 | [337783-8-ball-reborn.json](./337783-8-ball-reborn.json) |
 | 8 beat Story | 56167 | [56167-8-beat-story.json](./56167-8-beat-story.json) |
 | 8 Bit Fighters | 233495 | [233495-8-bit-fighters.json](./233495-8-bit-fighters.json) |
+| 8 Bit Pop Quiz | 243319 | [243319-8-bit-pop-quiz.json](./243319-8-bit-pop-quiz.json) |
 | 8 Bit Rally | 221209 | [221209-8-bit-rally.json](./221209-8-bit-rally.json) |
 | 8 Bit Son-of-a-Bitch | 186235 | [186235-8-bit-son-of-a-bitch.json](./186235-8-bit-son-of-a-bitch.json) |
 | 8 Bit Space | 135100 | [135100-8-bit-space.json](./135100-8-bit-space.json) |
