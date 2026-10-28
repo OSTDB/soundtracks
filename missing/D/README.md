@@ -8319,6 +8319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Jigsaw Puzzles - Kids Games for Toddlers | 86831 | [86831-dinosaur-jigsaw-puzzles-kids-games-for-toddlers.json](./86831-dinosaur-jigsaw-puzzles-kids-games-for-toddlers.json) |
 | Dinosaur King | 140907 | [140907-dinosaur-king.json](./140907-dinosaur-king.json) |
 | Dinosaur King | 48042 | [48042-dinosaur-king.json](./48042-dinosaur-king.json) |
+| Dinosaur King: D-Team vs the Alpha Fortress | 269144 | [269144-dinosaur-king-d-team-vs-the-alpha-fortress.json](./269144-dinosaur-king-d-team-vs-the-alpha-fortress.json) |
 | Dinosaur King: Fierce Battle! Zanjark! | 270763 | [270763-dinosaur-king-fierce-battle-zanjark.json](./270763-dinosaur-king-fierce-battle-zanjark.json) |
 | Dinosaur King: Operation Dinosaur Rescue | 140909 | [140909-dinosaur-king-operation-dinosaur-rescue.json](./140909-dinosaur-king-operation-dinosaur-rescue.json) |
 | Dinosaur King: Wake Up! New Power! | 271800 | [271800-dinosaur-king-wake-up-new-power.json](./271800-dinosaur-king-wake-up-new-power.json) |
@@ -11358,6 +11359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Hero | 156042 | [156042-doomsday-hero.json](./156042-doomsday-hero.json) |
 | Doomsday Hunters | 129042 | [129042-doomsday-hunters.json](./129042-doomsday-hunters.json) |
 | Doomsday Hunters: Boss Rush Mega Pack | 308843 | [308843-doomsday-hunters-boss-rush-mega-pack.json](./308843-doomsday-hunters-boss-rush-mega-pack.json) |
+| Doomsday III: Base Ganymede | 268831 | [268831-doomsday-iii-base-ganymede.json](./268831-doomsday-iii-base-ganymede.json) |
 | Doomsday Lonely town | 275811 | [275811-doomsday-lonely-town.json](./275811-doomsday-lonely-town.json) |
 | Doomsday of UAC | 252367 | [252367-doomsday-of-uac.json](./252367-doomsday-of-uac.json) |
 | Doomsday on Demand | 104037 | [104037-doomsday-on-demand.json](./104037-doomsday-on-demand.json) |
@@ -13522,6 +13524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadnought Sol | 75022 | [75022-dreadnought-sol.json](./75022-dreadnought-sol.json) |
 | Dreadnought Tartarus | 383481 | [383481-dreadnought-tartarus.json](./383481-dreadnought-tartarus.json) |
 | Dreadnoughts | 25033 | [25033-dreadnoughts.json](./25033-dreadnoughts.json) |
+| Dreadnoughts of Caelus | 269143 | [269143-dreadnoughts-of-caelus.json](./269143-dreadnoughts-of-caelus.json) |
 | Dreadnut | 390805 | [390805-dreadnut.json](./390805-dreadnut.json) |
 | DreadOut | 11712 | [11712-dreadout.json](./11712-dreadout.json) |
 | DreadOut 2 | 110164 | [110164-dreadout-2.json](./110164-dreadout-2.json) |
@@ -14351,6 +14354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Zone Online | 269096 | [269096-drive-zone-online.json](./269096-drive-zone-online.json) |
 | Drive-By | 138696 | [138696-drive-by.json](./138696-drive-by.json) |
 | Drive-In | 25134 | [25134-drive-in.json](./25134-drive-in.json) |
+| Drive! | 269164 | [269164-drive.json](./269164-drive.json) |
 | Drive!Drive!Drive! | 13231 | [13231-drive-drive-drive.json](./13231-drive-drive-drive.json) |
 | Driveby Gangster | 34452 | [34452-driveby-gangster.json](./34452-driveby-gangster.json) |
 | DriveCraft | 392909 | [392909-drivecraft.json](./392909-drivecraft.json) |
