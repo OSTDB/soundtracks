@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lair Of The Dragon Ogre | 271735 | [271735-lair-of-the-dragon-ogre.json](./271735-lair-of-the-dragon-ogre.json) |
 | Lair Of The Leviathan | 291220 | [291220-lair-of-the-leviathan.json](./291220-lair-of-the-leviathan.json) |
 | Lair of the Morlocks | 112270 | [112270-lair-of-the-morlocks.json](./112270-lair-of-the-morlocks.json) |
+| Lair of the Three-Headed Hydra | 254869 | [254869-lair-of-the-three-headed-hydra.json](./254869-lair-of-the-three-headed-hydra.json) |
 | Lair of the Titans | 88187 | [88187-lair-of-the-titans.json](./88187-lair-of-the-titans.json) |
 | Lair of Torment | 266799 | [266799-lair-of-torment.json](./266799-lair-of-torment.json) |
 | Laira Cut Me Open | 408179 | [408179-laira-cut-me-open.json](./408179-laira-cut-me-open.json) |
@@ -1807,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaftaker | 411043 | [411043-leaftaker.json](./411043-leaftaker.json) |
 | Leafy Corner | 363341 | [363341-leafy-corner.json](./363341-leafy-corner.json) |
 | Leafy Season | 330228 | [330228-leafy-season.json](./330228-leafy-season.json) |
+| Leafy Trails | 255282 | [255282-leafy-trails.json](./255282-leafy-trails.json) |
 | Leafy Trails Collection | 294838 | [294838-leafy-trails-collection.json](./294838-leafy-trails-collection.json) |
 | Leafy Trails: Lost Soul | 265518 | [265518-leafy-trails-lost-soul.json](./265518-leafy-trails-lost-soul.json) |
 | Leafy Trails: Magic Tree | 264556 | [264556-leafy-trails-magic-tree.json](./264556-leafy-trails-magic-tree.json) |
@@ -2572,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO 2K Drive: Awesome Edition | 242494 | [242494-lego-2k-drive-awesome-edition.json](./242494-lego-2k-drive-awesome-edition.json) |
 | LEGO 2K Drive: Awesome Rivals Edition | 242495 | [242495-lego-2k-drive-awesome-rivals-edition.json](./242495-lego-2k-drive-awesome-rivals-edition.json) |
 | LEGO 2K Drive: Premium Drive Pass Season 2 | 268591 | [268591-lego-2k-drive-premium-drive-pass-season-2.json](./268591-lego-2k-drive-premium-drive-pass-season-2.json) |
+| LEGO 2K Drive: Year 1 Drive Pass | 255217 | [255217-lego-2k-drive-year-1-drive-pass.json](./255217-lego-2k-drive-year-1-drive-pass.json) |
 | LEGO Agents: Mission X | 314853 | [314853-lego-agents-mission-x.json](./314853-lego-agents-mission-x.json) |
 | LEGO Alpha Team | 372839 | [372839-lego-alpha-team.json](./372839-lego-alpha-team.json) |
 | LEGO Alpha Team | 80638 | [80638-lego-alpha-team.json](./80638-lego-alpha-team.json) |
@@ -2706,6 +2709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lego Harry Potter Years 5-7: Character pack | 255376 | [255376-lego-harry-potter-years-5-7-character-pack.json](./255376-lego-harry-potter-years-5-7-character-pack.json) |
 | LEGO Harry Potter: The Battle for Hogwarts | 242439 | [242439-lego-harry-potter-the-battle-for-hogwarts.json](./242439-lego-harry-potter-the-battle-for-hogwarts.json) |
 | LEGO Harry Potter: Years 1-4 | 3149 | [3149-lego-harry-potter-years-1-4.json](./3149-lego-harry-potter-years-1-4.json) |
+| Lego Harry Potter: Years 5-7 Spell pack | 254891 | [254891-lego-harry-potter-years-5-7-spell-pack.json](./254891-lego-harry-potter-years-5-7-spell-pack.json) |
 | LEGO Hero Factory: Brain Attack | 193329 | [193329-lego-hero-factory-brain-attack.json](./193329-lego-hero-factory-brain-attack.json) |
 | LEGO Hero Factory: Breakout | 232701 | [232701-lego-hero-factory-breakout.json](./232701-lego-hero-factory-breakout.json) |
 | LEGO Hero Factory: Invasion from Below | 343364 | [343364-lego-hero-factory-invasion-from-below.json](./343364-lego-hero-factory-invasion-from-below.json) |
@@ -2834,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO The Hobbit: Side Quest Character Pack | 168771 | [168771-lego-the-hobbit-side-quest-character-pack.json](./168771-lego-the-hobbit-side-quest-character-pack.json) |
 | LEGO The Hobbit: The Battle Pack | 168773 | [168773-lego-the-hobbit-the-battle-pack.json](./168773-lego-the-hobbit-the-battle-pack.json) |
 | LEGO The Hobbit: The Big Little Character Pack | 168772 | [168772-lego-the-hobbit-the-big-little-character-pack.json](./168772-lego-the-hobbit-the-big-little-character-pack.json) |
+| LEGO The Incredibles: Parr Family Vacation Character Pack | 254878 | [254878-lego-the-incredibles-parr-family-vacation-character-pack.json](./254878-lego-the-incredibles-parr-family-vacation-character-pack.json) |
 | LEGO The Lord of the Rings | 4969 | [4969-lego-the-lord-of-the-rings.json](./4969-lego-the-lord-of-the-rings.json) |
 | LEGO The Lord of the Rings: Toy Edition | 139957 | [139957-lego-the-lord-of-the-rings-toy-edition.json](./139957-lego-the-lord-of-the-rings-toy-edition.json) |
 | LEGO The Robot Chronicles | 234218 | [234218-lego-the-robot-chronicles.json](./234218-lego-the-robot-chronicles.json) |
@@ -6379,6 +6384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loonicycle | 366569 | [366569-loonicycle.json](./366569-loonicycle.json) |
 | Loonies 8192 | 175654 | [175654-loonies-8192.json](./175654-loonies-8192.json) |
 | Loonies Puzzle | 194180 | [194180-loonies-puzzle.json](./194180-loonies-puzzle.json) |
+| Loonimals | 254887 | [254887-loonimals.json](./254887-loonimals.json) |
 | Loonley Toons Run | 105767 | [105767-loonley-toons-run.json](./105767-loonley-toons-run.json) |
 | Loony | 197934 | [197934-loony.json](./197934-loony.json) |
 | Loony Balloon | 41543 | [41543-loony-balloon.json](./41543-loony-balloon.json) |
@@ -8005,6 +8011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky | 67070 | [67070-lucky.json](./67070-lucky.json) |
 | Lucky 21 | 241337 | [241337-lucky-21.json](./241337-lucky-21.json) |
 | Lucky Bastard | 261091 | [261091-lucky-bastard.json](./261091-lucky-bastard.json) |
+| Lucky Birds City | 254889 | [254889-lucky-birds-city.json](./254889-lucky-birds-city.json) |
 | Lucky Block | 414214 | [414214-lucky-block.json](./414214-lucky-block.json) |
 | Lucky Break: Dating in New York | 372684 | [372684-lucky-break-dating-in-new-york.json](./372684-lucky-break-dating-in-new-york.json) |
 | Lucky Burst | 148823 | [148823-lucky-burst.json](./148823-lucky-burst.json) |
