@@ -473,9 +473,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Black Guard | 221880 | [221880-half-life-black-guard.json](./221880-half-life-black-guard.json) |
 | Half-Life: Brave Brain | 221882 | [221882-half-life-brave-brain.json](./221882-half-life-brave-brain.json) |
 | Half-Life: C.A.G.E.D. | 127914 | [127914-half-life-c-a-g-e-d.json](./127914-half-life-c-a-g-e-d.json) |
+| Half-Life: Case Closed | 247557 | [247557-half-life-case-closed.json](./247557-half-life-case-closed.json) |
 | Half-Life: Chernobyl | 127954 | [127954-half-life-chernobyl.json](./127954-half-life-chernobyl.json) |
 | Half-Life: Cleaner's Adventures | 221857 | [221857-half-life-cleaners-adventures.json](./221857-half-life-cleaners-adventures.json) |
 | Half-Life: Cross Product Multiplayer | 360604 | [360604-half-life-cross-product-multiplayer.json](./360604-half-life-cross-product-multiplayer.json) |
+| Half-Life: Crossfire | 247559 | [247559-half-life-crossfire.json](./247559-half-life-crossfire.json) |
 | Half-Life: Crowbar-Deep in the Dead | 221795 | [221795-half-life-crowbar-deep-in-the-dead.json](./221795-half-life-crowbar-deep-in-the-dead.json) |
 | Half-Life: Dark Future | 221884 | [221884-half-life-dark-future.json](./221884-half-life-dark-future.json) |
 | Half-Life: Dark Matter | 150592 | [150592-half-life-dark-matter.json](./150592-half-life-dark-matter.json) |
