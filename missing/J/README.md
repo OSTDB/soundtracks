@@ -1717,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigty Jigsaw Puzzles | 328004 | [328004-jigty-jigsaw-puzzles.json](./328004-jigty-jigsaw-puzzles.json) |
 | Jiguland | 164964 | [164964-jiguland.json](./164964-jiguland.json) |
 | Jigzo | 363576 | [363576-jigzo.json](./363576-jigzo.json) |
+| JigZone | 254712 | [254712-jigzone.json](./254712-jigzone.json) |
 | Jiji the Bajillionaire | 366577 | [366577-jiji-the-bajillionaire.json](./366577-jiji-the-bajillionaire.json) |
 | Jiji...Love | 329715 | [329715-jiji-love.json](./329715-jiji-love.json) |
 | Jikai Shounen Mettomag | 41321 | [41321-jikai-shounen-mettomag.json](./41321-jikai-shounen-mettomag.json) |
@@ -3179,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungler | 245460 | [245460-jungler.json](./245460-jungler.json) |
 | Jungler | 297490 | [297490-jungler.json](./297490-jungler.json) |
 | Jungler | 40050 | [40050-jungler.json](./40050-jungler.json) |
+| JungleRing2D | 254276 | [254276-junglering2d.json](./254276-junglering2d.json) |
 | Jungles of Maxtheria | 139403 | [139403-jungles-of-maxtheria.json](./139403-jungles-of-maxtheria.json) |
 | JungleShoot | 101251 | [101251-jungleshoot.json](./101251-jungleshoot.json) |
 | Junglex | 115616 | [115616-junglex.json](./115616-junglex.json) |
