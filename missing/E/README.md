@@ -3388,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy Expansion | 347474 | [347474-enemy-expansion.json](./347474-enemy-expansion.json) |
 | Enemy Front | 5647 | [5647-enemy-front.json](./5647-enemy-front.json) |
 | Enemy Front: Limited Edition | 323374 | [323374-enemy-front-limited-edition.json](./323374-enemy-front-limited-edition.json) |
+| Enemy Front: Multiplayer Map Pack | 263311 | [263311-enemy-front-multiplayer-map-pack.json](./263311-enemy-front-multiplayer-map-pack.json) |
 | Enemy Infestation | 52526 | [52526-enemy-infestation.json](./52526-enemy-infestation.json) |
 | Enemy Inside | 297089 | [297089-enemy-inside.json](./297089-enemy-inside.json) |
 | Enemy Metal | 296367 | [296367-enemy-metal.json](./296367-enemy-metal.json) |
@@ -6124,6 +6125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Inside | 144419 | [144419-evil-inside.json](./144419-evil-inside.json) |
 | Evil Inside VR | 366599 | [366599-evil-inside-vr.json](./366599-evil-inside-vr.json) |
 | Evil Islands: Curse of the Lost Soul | 13156 | [13156-evil-islands-curse-of-the-lost-soul.json](./13156-evil-islands-curse-of-the-lost-soul.json) |
+| Evil Journey: Plan A | 263639 | [263639-evil-journey-plan-a.json](./263639-evil-journey-plan-a.json) |
 | Evil Labs | 55426 | [55426-evil-labs.json](./55426-evil-labs.json) |
 | Evil Manor | 137485 | [137485-evil-manor.json](./137485-evil-manor.json) |
 | Evil Maze 2 | 111637 | [111637-evil-maze-2.json](./111637-evil-maze-2.json) |
