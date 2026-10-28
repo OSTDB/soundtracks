@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daedalus Demise | 144081 | [144081-daedalus-demise.json](./144081-daedalus-demise.json) |
 | Daedalus Versus Minotaur | 250345 | [250345-daedalus-versus-minotaur.json](./250345-daedalus-versus-minotaur.json) |
 | Daedalus: Alien Defense | 140561 | [140561-daedalus-alien-defense.json](./140561-daedalus-alien-defense.json) |
+| Daedalus: You Have Been Chosen | 253534 | [253534-daedalus-you-have-been-chosen.json](./253534-daedalus-you-have-been-chosen.json) |
 | Daedaluz | 165938 | [165938-daedaluz.json](./165938-daedaluz.json) |
 | Daegeonmulju: Geonmulju Kiugi | 239012 | [239012-daegeonmulju-geonmulju-kiugi.json](./239012-daegeonmulju-geonmulju-kiugi.json) |
 | Daemmerlicht | 123987 | [123987-daemmerlicht.json](./123987-daemmerlicht.json) |
@@ -11471,6 +11472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors | 223422 | [223422-doors.json](./223422-doors.json) |
 | Doors | 339295 | [339295-doors.json](./339295-doors.json) |
 | Doors | 411310 | [411310-doors.json](./411310-doors.json) |
+| Doors & Loot | 253467 | [253467-doors-and-loot.json](./253467-doors-and-loot.json) |
 | Doors & Rooms | 112745 | [112745-doors-and-rooms.json](./112745-doors-and-rooms.json) |
 | Doors & Rooms: Perfect Escape | 181587 | [181587-doors-and-rooms-perfect-escape.json](./181587-doors-and-rooms-perfect-escape.json) |
 | Doors and Doors | 244498 | [244498-doors-and-doors.json](./244498-doors-and-doors.json) |
@@ -11513,6 +11515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doppelgänger | 275029 | [275029-doppelganger.json](./275029-doppelganger.json) |
 | Doppelgänger | 275902 | [275902-doppelganger.json](./275902-doppelganger.json) |
 | Doppelganger: Dawn of the Inverted Souls | 61306 | [61306-doppelganger-dawn-of-the-inverted-souls.json](./61306-doppelganger-dawn-of-the-inverted-souls.json) |
+| Doppelganger: Nightmare Realm | 253527 | [253527-doppelganger-nightmare-realm.json](./253527-doppelganger-nightmare-realm.json) |
 | Doppelpartment | 357126 | [357126-doppelpartment.json](./357126-doppelpartment.json) |
 | Doppelpass | 94402 | [94402-doppelpass.json](./94402-doppelpass.json) |
 | Doppelscape | 288228 | [288228-doppelscape.json](./288228-doppelscape.json) |
@@ -14724,6 +14727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Empire | 376459 | [376459-drug-empire.json](./376459-drug-empire.json) |
 | Drug Grower Simulator | 217508 | [217508-drug-grower-simulator.json](./217508-drug-grower-simulator.json) |
 | Drug Lord 2 | 71473 | [71473-drug-lord-2.json](./71473-drug-lord-2.json) |
+| Drug Lord Tycoon | 253546 | [253546-drug-lord-tycoon.json](./253546-drug-lord-tycoon.json) |
 | Drug Lords | 193228 | [193228-drug-lords.json](./193228-drug-lords.json) |
 | Drug Prince & Narcotic Girl for Nintendo Switch | 255630 | [255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json](./255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json) |
 | Drug Schedule | 339226 | [339226-drug-schedule.json](./339226-drug-schedule.json) |
@@ -14807,6 +14811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drums Rock: Twilight Force - 'Twilight Force' | 296422 | [296422-drums-rock-twilight-force-twilight-force.json](./296422-drums-rock-twilight-force-twilight-force.json) |
 | Drums Rock: Undertale - 'Hopes And Dreams' | 322215 | [322215-drums-rock-undertale-hopes-and-dreams.json](./322215-drums-rock-undertale-hopes-and-dreams.json) |
 | Drums Rock: Undertale - 'Megalovania' | 322214 | [322214-drums-rock-undertale-megalovania.json](./322214-drums-rock-undertale-megalovania.json) |
+| Drums Rock: Undertale DLC | 253184 | [253184-drums-rock-undertale-dlc.json](./253184-drums-rock-undertale-dlc.json) |
 | DrumSim | 65814 | [65814-drumsim.json](./65814-drumsim.json) |
 | Drumskulls | 91865 | [91865-drumskulls.json](./91865-drumskulls.json) |
 | Drunk | 183068 | [183068-drunk.json](./183068-drunk.json) |
@@ -16701,6 +16706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyschronia: Chronos Alternate - Dual Edition | 273637 | [273637-dyschronia-chronos-alternate-dual-edition.json](./273637-dyschronia-chronos-alternate-dual-edition.json) |
 | Dyschronia: Chronos Alternate - Episode I: False Awakening | 276036 | [276036-dyschronia-chronos-alternate-episode-i-false-awakening.json](./276036-dyschronia-chronos-alternate-episode-i-false-awakening.json) |
 | Dyschronia: Chronos Alternate - Episode II: The Eleventh Hour | 276037 | [276037-dyschronia-chronos-alternate-episode-ii-the-eleventh-hour.json](./276037-dyschronia-chronos-alternate-episode-ii-the-eleventh-hour.json) |
+| Dyschronia: Chronos Alternate - Episode III: End of Hallucinations | 253185 | [253185-dyschronia-chronos-alternate-episode-iii-end-of-hallucinations.json](./253185-dyschronia-chronos-alternate-episode-iii-end-of-hallucinations.json) |
 | Dyscourse | 16504 | [16504-dyscourse.json](./16504-dyscourse.json) |
 | Dysfunctional Systems: Orientation | 51951 | [51951-dysfunctional-systems-orientation.json](./51951-dysfunctional-systems-orientation.json) |
 | Dysis | 62817 | [62817-dysis.json](./62817-dysis.json) |
