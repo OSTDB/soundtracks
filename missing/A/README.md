@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Two Lovers | 271116 | [271116-a-tale-of-two-lovers.json](./271116-a-tale-of-two-lovers.json) |
 | A Tangled Path | 177757 | [177757-a-tangled-path.json](./177757-a-tangled-path.json) |
 | A Tarot Reading | 183787 | [183787-a-tarot-reading.json](./183787-a-tarot-reading.json) |
+| A Taste for Blood | 273726 | [273726-a-taste-for-blood.json](./273726-a-taste-for-blood.json) |
 | A Taste for Murder | 90881 | [90881-a-taste-for-murder.json](./90881-a-taste-for-murder.json) |
 | A Taste of Home | 380772 | [380772-a-taste-of-home.json](./380772-a-taste-of-home.json) |
 | A Tasting Flight of Names | 315625 | [315625-a-tasting-flight-of-names.json](./315625-a-tasting-flight-of-names.json) |
@@ -8254,6 +8255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AngelStrike | 249904 | [249904-angelstrike.json](./249904-angelstrike.json) |
 | Angenehm Platz -Kleiner Garten Sie Erstellen | 82060 | [82060-angenehm-platz-kleiner-garten-sie-erstellen.json](./82060-angenehm-platz-kleiner-garten-sie-erstellen.json) |
 | Anger Birds | 259407 | [259407-anger-birds.json](./259407-anger-birds.json) |
+| Anger of Peace 5 | 273753 | [273753-anger-of-peace-5.json](./273753-anger-of-peace-5.json) |
 | Anger of Stick 2 | 299011 | [299011-anger-of-stick-2.json](./299011-anger-of-stick-2.json) |
 | Anger of Stick 4 | 237643 | [237643-anger-of-stick-4.json](./237643-anger-of-stick-4.json) |
 | Anger of Stick 5: Zombie | 331159 | [331159-anger-of-stick-5-zombie.json](./331159-anger-of-stick-5-zombie.json) |
