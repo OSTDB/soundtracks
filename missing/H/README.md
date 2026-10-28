@@ -2438,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunting Memories | 337671 | [337671-haunting-memories.json](./337671-haunting-memories.json) |
 | Haunting Mysteries: The Island of Lost Souls - Collector's Edition | 355528 | [355528-haunting-mysteries-the-island-of-lost-souls-collectors-edition.json](./355528-haunting-mysteries-the-island-of-lost-souls-collectors-edition.json) |
 | Haunting of Mageburrow | 402361 | [402361-haunting-of-mageburrow.json](./402361-haunting-of-mageburrow.json) |
+| Haunting of the Evil Spirit | 233705 | [233705-haunting-of-the-evil-spirit.json](./233705-haunting-of-the-evil-spirit.json) |
 | Haunting on Howard Hill | 178266 | [178266-haunting-on-howard-hill.json](./178266-haunting-on-howard-hill.json) |
 | Haunting Record: Phantom Street | 326090 | [326090-haunting-record-phantom-street.json](./326090-haunting-record-phantom-street.json) |
 | Haunting Record: Sins of Lust | 320818 | [320818-haunting-record-sins-of-lust.json](./320818-haunting-record-sins-of-lust.json) |
@@ -2631,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HB Arcade Disc Golf | 84527 | [84527-hb-arcade-disc-golf.json](./84527-hb-arcade-disc-golf.json) |
 | HB2 Plus | 91349 | [91349-hb2-plus.json](./91349-hb2-plus.json) |
 | HBD-RPG | 266110 | [266110-hbd-rpg.json](./266110-hbd-rpg.json) |
+| HBM's Nuclear Tech Mod | 233709 | [233709-hbms-nuclear-tech-mod.json](./233709-hbms-nuclear-tech-mod.json) |
 | HC-Hexagon | 115505 | [115505-hc-hexagon.json](./115505-hc-hexagon.json) |
 | HD | 301859 | [301859-hd.json](./301859-hd.json) |
 | HDoom | 136850 | [136850-hdoom.json](./136850-hdoom.json) |
@@ -7264,6 +7266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3: Deluxe Edition | 140438 | [140438-hitman-3-deluxe-edition.json](./140438-hitman-3-deluxe-edition.json) |
 | Hitman 3: Deluxe Pack | 215557 | [215557-hitman-3-deluxe-pack.json](./215557-hitman-3-deluxe-pack.json) |
 | Hitman 3: Dubai | 187722 | [187722-hitman-3-dubai.json](./187722-hitman-3-dubai.json) |
+| Hitman 3: Makeshift Pack | 233714 | [233714-hitman-3-makeshift-pack.json](./233714-hitman-3-makeshift-pack.json) |
 | Hitman 3: Mendoza | 187726 | [187726-hitman-3-mendoza.json](./187726-hitman-3-mendoza.json) |
 | Hitman 3: Patient Zero Requiem | 381244 | [381244-hitman-3-patient-zero-requiem.json](./381244-hitman-3-patient-zero-requiem.json) |
 | Hitman 3: Seven Deadly Sins Act 1 - Greed | 307384 | [307384-hitman-3-seven-deadly-sins-act-1-greed.json](./307384-hitman-3-seven-deadly-sins-act-1-greed.json) |
@@ -7273,6 +7276,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3: Seven Deadly Sins Act 5 - Gluttony | 307388 | [307388-hitman-3-seven-deadly-sins-act-5-gluttony.json](./307388-hitman-3-seven-deadly-sins-act-5-gluttony.json) |
 | Hitman 3: Seven Deadly Sins Act 6 - Envy | 307389 | [307389-hitman-3-seven-deadly-sins-act-6-envy.json](./307389-hitman-3-seven-deadly-sins-act-6-envy.json) |
 | Hitman 3: Seven Deadly Sins Act 7 - Wrath | 307390 | [307390-hitman-3-seven-deadly-sins-act-7-wrath.json](./307390-hitman-3-seven-deadly-sins-act-7-wrath.json) |
+| Hitman 3: Seven Deadly Sins Collection | 233715 | [233715-hitman-3-seven-deadly-sins-collection.json](./233715-hitman-3-seven-deadly-sins-collection.json) |
+| Hitman 3: Street Art Pack | 233713 | [233713-hitman-3-street-art-pack.json](./233713-hitman-3-street-art-pack.json) |
 | Hitman 3: The Banker Pack | 357256 | [357256-hitman-3-the-banker-pack.json](./357256-hitman-3-the-banker-pack.json) |
 | Hitman 3: The Disruptor Pack | 307382 | [307382-hitman-3-the-disruptor-pack.json](./307382-hitman-3-the-disruptor-pack.json) |
 | Hitman 3: The Sarajevo Six | 279033 | [279033-hitman-3-the-sarajevo-six.json](./279033-hitman-3-the-sarajevo-six.json) |
