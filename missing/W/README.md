@@ -3404,6 +3404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's the Baby Animal? | 233064 | [233064-whats-the-baby-animal.json](./233064-whats-the-baby-animal.json) |
 | What's the Difference? Spot It | 90182 | [90182-whats-the-difference-spot-it.json](./90182-whats-the-difference-spot-it.json) |
 | What's the Dog Doing? | 325553 | [325553-whats-the-dog-doing.json](./325553-whats-the-dog-doing.json) |
+| What's the Logo?: Guess the Company Brand Word Game | 232623 | [232623-whats-the-logo-guess-the-company-brand-word-game.json](./232623-whats-the-logo-guess-the-company-brand-word-game.json) |
 | What's the Matter? | 164337 | [164337-whats-the-matter.json](./164337-whats-the-matter.json) |
 | What's the Matter? VR | 153914 | [153914-whats-the-matter-vr.json](./153914-whats-the-matter-vr.json) |
 | What's the Movie? | 233065 | [233065-whats-the-movie.json](./233065-whats-the-movie.json) |
@@ -6478,6 +6479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WooLoop | 199121 | [199121-wooloop.json](./199121-wooloop.json) |
 | WooLoop: Advent 2 Pack | 319616 | [319616-wooloop-advent-2-pack.json](./319616-wooloop-advent-2-pack.json) |
 | WooLoop: Aquatic Pack | 291697 | [291697-wooloop-aquatic-pack.json](./291697-wooloop-aquatic-pack.json) |
+| WooLoop: Fantasy Pack | 232641 | [232641-wooloop-fantasy-pack.json](./232641-wooloop-fantasy-pack.json) |
 | WooLoop: Halloween Pack | 272238 | [272238-wooloop-halloween-pack.json](./272238-wooloop-halloween-pack.json) |
 | WooLoop: Industry Pack | 266315 | [266315-wooloop-industry-pack.json](./266315-wooloop-industry-pack.json) |
 | WooLoop: Magic Pack | 319347 | [319347-wooloop-magic-pack.json](./319347-wooloop-magic-pack.json) |
