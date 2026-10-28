@@ -1202,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldric's Quest | 52619 | [52619-baldrics-quest.json](./52619-baldrics-quest.json) |
 | Baldrsky: Core Defender | 202140 | [202140-baldrsky-core-defender.json](./202140-baldrsky-core-defender.json) |
 | Baldur's Gate | 376722 | [376722-baldurs-gate.json](./376722-baldurs-gate.json) |
+| Baldur's Gate 3: Deluxe Edition | 279660 | [279660-baldurs-gate-3-deluxe-edition.json](./279660-baldurs-gate-3-deluxe-edition.json) |
 | Baldur's Gate 3: Digital Deluxe Edition | 279884 | [279884-baldurs-gate-3-digital-deluxe-edition.json](./279884-baldurs-gate-3-digital-deluxe-edition.json) |
 | Baldur's Gate and Baldur's Gate II: Enhanced Editions | 124786 | [124786-baldurs-gate-and-baldurs-gate-ii-enhanced-editions.json](./124786-baldurs-gate-and-baldurs-gate-ii-enhanced-editions.json) |
 | Baldur's Gate Compilation | 141859 | [141859-baldurs-gate-compilation.json](./141859-baldurs-gate-compilation.json) |
