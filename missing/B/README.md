@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1877,6 +1878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bank Raid | 218362 | [218362-bank-raid.json](./218362-bank-raid.json) |
 | Bank Robber | 319569 | [319569-bank-robber.json](./319569-bank-robber.json) |
 | Bank Robbery Royale: Battle Simulator | 100937 | [100937-bank-robbery-royale-battle-simulator.json](./100937-bank-robbery-royale-battle-simulator.json) |
+| Bank Roll 2000 | 273208 | [273208-bank-roll-2000.json](./273208-bank-roll-2000.json) |
 | Bank Simulator | 326470 | [326470-bank-simulator.json](./326470-bank-simulator.json) |
 | Bank-A-Ball | 84323 | [84323-bank-a-ball.json](./84323-bank-a-ball.json) |
 | BankBank | 98057 | [98057-bankbank.json](./98057-bankbank.json) |
