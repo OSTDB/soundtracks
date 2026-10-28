@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kessler Syndrome | 247887 | [247887-kessler-syndrome.json](./247887-kessler-syndrome.json) |
 | Kestrel | 152386 | [152386-kestrel.json](./152386-kestrel.json) |
 | Ketamina | 249848 | [249848-ketamina.json](./249848-ketamina.json) |
+| Ketchapp Soccer | 241575 | [241575-ketchapp-soccer.json](./241575-ketchapp-soccer.json) |
 | Ketchapp Summer Sports | 246960 | [246960-ketchapp-summer-sports.json](./246960-ketchapp-summer-sports.json) |
 | Ketchapp Tennis | 257877 | [257877-ketchapp-tennis.json](./257877-ketchapp-tennis.json) |
 | Ketchup and Mayonnaise | 152107 | [152107-ketchup-and-mayonnaise.json](./152107-ketchup-and-mayonnaise.json) |
@@ -2417,7 +2418,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2668,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Fighters 2002: 3rd Strike of the Orochi | 205791 | [205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json](./205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json) |
 | King of Fighters XV: Characters - Duo Lon | 266344 | [266344-king-of-fighters-xv-characters-duo-lon.json](./266344-king-of-fighters-xv-characters-duo-lon.json) |
 | King of Fighters XV: Garou MotW Terry Costume | 320249 | [320249-king-of-fighters-xv-garou-motw-terry-costume.json](./320249-king-of-fighters-xv-garou-motw-terry-costume.json) |
+| King of Fighters: Survival City | 241577 | [241577-king-of-fighters-survival-city.json](./241577-king-of-fighters-survival-city.json) |
 | King of Football | 67980 | [67980-king-of-football.json](./67980-king-of-football.json) |
 | King of Gods: Angel the Awakening of a Demon | 110674 | [110674-king-of-gods-angel-the-awakening-of-a-demon.json](./110674-king-of-gods-angel-the-awakening-of-a-demon.json) |
 | King of Halloween | 123503 | [123503-king-of-halloween.json](./123503-king-of-halloween.json) |
@@ -2846,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Vessel | 108176 | [108176-kings-vessel.json](./108176-kings-vessel.json) |
 | King's Well | 393931 | [393931-kings-well.json](./393931-kings-well.json) |
 | KingAndSlaves | 122401 | [122401-kingandslaves.json](./122401-kingandslaves.json) |
+| Kingbit | 241576 | [241576-kingbit.json](./241576-kingbit.json) |
 | Kingdom | 277325 | [277325-kingdom.json](./277325-kingdom.json) |
 | Kingdom | 304975 | [304975-kingdom.json](./304975-kingdom.json) |
 | Kingdom | 372233 | [372233-kingdom.json](./372233-kingdom.json) |
