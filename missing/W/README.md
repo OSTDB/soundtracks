@@ -1980,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasted | 327744 | [327744-wasted.json](./327744-wasted.json) |
 | Wasted | 338393 | [338393-wasted.json](./338393-wasted.json) |
 | Wasted Bloodline | 338254 | [338254-wasted-bloodline.json](./338254-wasted-bloodline.json) |
+| Wasted Dreams | 248837 | [248837-wasted-dreams.json](./248837-wasted-dreams.json) |
 | Wasted Glory | 276479 | [276479-wasted-glory.json](./276479-wasted-glory.json) |
 | Wasted Pizza | 68594 | [68594-wasted-pizza.json](./68594-wasted-pizza.json) |
 | Wasted Shot | 309407 | [309407-wasted-shot.json](./309407-wasted-shot.json) |
@@ -3050,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Adventure | 94387 | [94387-west-adventure.json](./94387-west-adventure.json) |
 | West Alien Train | 308361 | [308361-west-alien-train.json](./308361-west-alien-train.json) |
 | West Bank | 26438 | [26438-west-bank.json](./26438-west-bank.json) |
+| West Country Mayhem | 248223 | [248223-west-country-mayhem.json](./248223-west-country-mayhem.json) |
 | West Escape | 332361 | [332361-west-escape.json](./332361-west-escape.json) |
 | West Escape: Gambler Edition | 357019 | [357019-west-escape-gambler-edition.json](./357019-west-escape-gambler-edition.json) |
 | West Escape: Gold Edition | 394757 | [394757-west-escape-gold-edition.json](./394757-west-escape-gold-edition.json) |
@@ -4358,6 +4360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked Seed | 338693 | [338693-wicked-seed.json](./338693-wicked-seed.json) |
 | Wicked Subway | 371615 | [371615-wicked-subway.json](./371615-wicked-subway.json) |
 | Wicked Surfing | 200674 | [200674-wicked-surfing.json](./200674-wicked-surfing.json) |
+| Wicked Tuna | 248700 | [248700-wicked-tuna.json](./248700-wicked-tuna.json) |
 | Wicked Willow | 137647 | [137647-wicked-willow.json](./137647-wicked-willow.json) |
 | Wicked World #1 | 197780 | [197780-wicked-world-1.json](./197780-wicked-world-1.json) |
 | Wicked! | 297463 | [297463-wicked.json](./297463-wicked.json) |
@@ -7628,6 +7631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WormJuice Skateboarding Olympics | 159795 | [159795-wormjuice-skateboarding-olympics.json](./159795-wormjuice-skateboarding-olympics.json) |
 | Wormmy | 207592 | [207592-wormmy.json](./207592-wormmy.json) |
 | WorMoon: Awakening | 255042 | [255042-wormoon-awakening.json](./255042-wormoon-awakening.json) |
+| Worms | 248824 | [248824-worms.json](./248824-worms.json) |
 | Worms | 396679 | [396679-worms.json](./396679-worms.json) |
 | Worms | 409023 | [409023-worms.json](./409023-worms.json) |
 | Worms | 414951 | [414951-worms.json](./414951-worms.json) |
