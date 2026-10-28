@@ -4666,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 13th Month | 166148 | [166148-the-13th-month.json](./166148-the-13th-month.json) |
 | The 1485 | 182751 | [182751-the-1485.json](./182751-the-1485.json) |
 | The 18th Attic | 346707 | [346707-the-18th-attic.json](./346707-the-18th-attic.json) |
+| The 1st Annual Vanilla Level Design Contest: Collaboration Hack | 228877 | [228877-the-1st-annual-vanilla-level-design-contest-collaboration-hack.json](./228877-the-1st-annual-vanilla-level-design-contest-collaboration-hack.json) |
 | The 20 Heretics Challenge | 268596 | [268596-the-20-heretics-challenge.json](./268596-the-20-heretics-challenge.json) |
 | The 2018 Fantastic Arcade Bundle | 267967 | [267967-the-2018-fantastic-arcade-bundle.json](./267967-the-2018-fantastic-arcade-bundle.json) |
 | The 2020 Trail | 157151 | [157151-the-2020-trail.json](./157151-the-2020-trail.json) |
@@ -21113,6 +21114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toad's Trees | 346132 | [346132-toads-trees.json](./346132-toads-trees.json) |
 | Toad's Typical Day | 322107 | [322107-toads-typical-day.json](./322107-toads-typical-day.json) |
 | Toad's World | 38306 | [38306-toads-world.json](./38306-toads-world.json) |
+| Toadally Awesome Game | 229279 | [229279-toadally-awesome-game.json](./229279-toadally-awesome-game.json) |
 | Toadally Dreadful | 288596 | [288596-toadally-dreadful.json](./288596-toadally-dreadful.json) |
 | Toadally Lit VR | 380474 | [380474-toadally-lit-vr.json](./380474-toadally-lit-vr.json) |
 | Toader | 112975 | [112975-toader.json](./112975-toader.json) |
