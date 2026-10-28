@@ -6065,6 +6065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein 3D Classic | 307004 | [307004-wolfenstein-3d-classic.json](./307004-wolfenstein-3d-classic.json) |
 | Wolfenstein 3D VR | 182821 | [182821-wolfenstein-3d-vr.json](./182821-wolfenstein-3d-vr.json) |
 | Wolfenstein 3D: Coffee Break | 308974 | [308974-wolfenstein-3d-coffee-break.json](./308974-wolfenstein-3d-coffee-break.json) |
+| Wolfenstein 3D: Nocturnal Missions | 262517 | [262517-wolfenstein-3d-nocturnal-missions.json](./262517-wolfenstein-3d-nocturnal-missions.json) |
 | Wolfenstein 3D: Second Encounter | 306961 | [306961-wolfenstein-3d-second-encounter.json](./306961-wolfenstein-3d-second-encounter.json) |
 | Wolfenstein 3D: Third Encounter | 306963 | [306963-wolfenstein-3d-third-encounter.json](./306963-wolfenstein-3d-third-encounter.json) |
 | Wolfenstein II: The Freedom Chronicles - Episode 1 | 154940 | [154940-wolfenstein-ii-the-freedom-chronicles-episode-1.json](./154940-wolfenstein-ii-the-freedom-chronicles-episode-1.json) |
