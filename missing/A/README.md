@@ -1707,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abomiracers | 197084 | [197084-abomiracers.json](./197084-abomiracers.json) |
 | Abondoned Village | 277282 | [277282-abondoned-village.json](./277282-abondoned-village.json) |
 | Aborigenus | 110070 | [110070-aborigenus.json](./110070-aborigenus.json) |
+| Aboriginal | 265799 | [265799-aboriginal.json](./265799-aboriginal.json) |
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
 | About a Boy | 325390 | [325390-about-a-boy.json](./325390-about-a-boy.json) |
 | About a Boy | 349801 | [349801-about-a-boy.json](./349801-about-a-boy.json) |
@@ -5747,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien | 226104 | [226104-alien.json](./226104-alien.json) |
 | Alien | 245251 | [245251-alien.json](./245251-alien.json) |
 | Alien | 25132 | [25132-alien.json](./25132-alien.json) |
+| Alien | 265807 | [265807-alien.json](./265807-alien.json) |
 | Alien 3 | 224408 | [224408-alien-3.json](./224408-alien-3.json) |
 | Alien 3 | 273014 | [273014-alien-3.json](./273014-alien-3.json) |
 | Alien 3 | 273017 | [273017-alien-3.json](./273017-alien-3.json) |
@@ -5775,6 +5777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Bash | 76198 | [76198-alien-bash.json](./76198-alien-bash.json) |
 | Alien Bash II | 38859 | [38859-alien-bash-ii.json](./38859-alien-bash-ii.json) |
 | Alien Bastards! | 143536 | [143536-alien-bastards.json](./143536-alien-bastards.json) |
+| Alien Battle Champions | 265784 | [265784-alien-battle-champions.json](./265784-alien-battle-champions.json) |
 | Alien Battlefield | 232940 | [232940-alien-battlefield.json](./232940-alien-battlefield.json) |
 | Alien Blast: The Encounter | 24188 | [24188-alien-blast-the-encounter.json](./24188-alien-blast-the-encounter.json) |
 | Alien Blaster | 180585 | [180585-alien-blaster.json](./180585-alien-blaster.json) |
@@ -11627,6 +11630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ares Breathes | 303675 | [303675-ares-breathes.json](./303675-ares-breathes.json) |
 | Ares Fighter | 367595 | [367595-ares-fighter.json](./367595-ares-fighter.json) |
 | Ares Fighter 2 | 235181 | [235181-ares-fighter-2.json](./235181-ares-fighter-2.json) |
+| Ares Fighter 3 | 265809 | [265809-ares-fighter-3.json](./265809-ares-fighter-3.json) |
 | Ares Omega | 34382 | [34382-ares-omega.json](./34382-ares-omega.json) |
 | ARES: Automated Relay System | 400051 | [400051-ares-automated-relay-system.json](./400051-ares-automated-relay-system.json) |
 | Ares: The Iron Vanguard | 418196 | [418196-ares-the-iron-vanguard.json](./418196-ares-the-iron-vanguard.json) |
@@ -12126,6 +12130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Moon: The Next Eden | 2610 | [2610-armored-moon-the-next-eden.json](./2610-armored-moon-the-next-eden.json) |
 | Armored Patrol | 55932 | [55932-armored-patrol.json](./55932-armored-patrol.json) |
 | Armored Sinner | 196640 | [196640-armored-sinner.json](./196640-armored-sinner.json) |
+| Armored Souls | 265463 | [265463-armored-souls.json](./265463-armored-souls.json) |
 | Armored Squad | 83557 | [83557-armored-squad.json](./83557-armored-squad.json) |
 | Armored Suit Solgante | 303679 | [303679-armored-suit-solgante.json](./303679-armored-suit-solgante.json) |
 | Armored Suit Solgante: Expansion DLC | 339879 | [339879-armored-suit-solgante-expansion-dlc.json](./339879-armored-suit-solgante-expansion-dlc.json) |
