@@ -2724,6 +2724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adelantado. 4 Aztec skulls | 104665 | [104665-adelantado-4-aztec-skulls.json](./104665-adelantado-4-aztec-skulls.json) |
 | Adelanto 4 Aztec Skulls | 95643 | [95643-adelanto-4-aztec-skulls.json](./95643-adelanto-4-aztec-skulls.json) |
 | Adelie: Chasing Pavements | 289748 | [289748-adelie-chasing-pavements.json](./289748-adelie-chasing-pavements.json) |
+| Adelie: Water Under the Bridge | 234862 | [234862-adelie-water-under-the-bridge.json](./234862-adelie-water-under-the-bridge.json) |
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
 | Adeona | 148117 | [148117-adeona.json](./148117-adeona.json) |
 | Adepts Arena | 344156 | [344156-adepts-arena.json](./344156-adepts-arena.json) |
@@ -8426,6 +8427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Electronic Handheld Game | 246306 | [246306-angry-birds-electronic-handheld-game.json](./246306-angry-birds-electronic-handheld-game.json) |
 | Angry Birds Explore | 398679 | [398679-angry-birds-explore.json](./398679-angry-birds-explore.json) |
 | Angry Birds Fight! | 60226 | [60226-angry-birds-fight.json](./60226-angry-birds-fight.json) |
+| Angry Birds Flash | 234818 | [234818-angry-birds-flash.json](./234818-angry-birds-flash.json) |
 | Angry Birds Flock Party | 377797 | [377797-angry-birds-flock-party.json](./377797-angry-birds-flock-party.json) |
 | Angry Birds Football | 58577 | [58577-angry-birds-football.json](./58577-angry-birds-football.json) |
 | Angry Birds FPS: First Person Slingshot | 111021 | [111021-angry-birds-fps-first-person-slingshot.json](./111021-angry-birds-fps-first-person-slingshot.json) |
@@ -11166,6 +11168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Heart | 243694 | [243694-arcana-heart.json](./243694-arcana-heart.json) |
 | Arcana Heart 2 | 15865 | [15865-arcana-heart-2.json](./15865-arcana-heart-2.json) |
 | Arcana Heart 3 Lovemax Sixstars!!!!!! Xtend | 146590 | [146590-arcana-heart-3-lovemax-sixstars-xtend.json](./146590-arcana-heart-3-lovemax-sixstars-xtend.json) |
+| Arcana Heart Full! | 234824 | [234824-arcana-heart-full.json](./234824-arcana-heart-full.json) |
 | Arcana Noir | 261833 | [261833-arcana-noir.json](./261833-arcana-noir.json) |
 | Arcana of Paradise: The Tower | 194945 | [194945-arcana-of-paradise-the-tower.json](./194945-arcana-of-paradise-the-tower.json) |
 | Arcana Ritter | 91422 | [91422-arcana-ritter.json](./91422-arcana-ritter.json) |
