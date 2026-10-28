@@ -6656,6 +6656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew: Motorfest - Dodge Pack | 408787 | [408787-the-crew-motorfest-dodge-pack.json](./408787-the-crew-motorfest-dodge-pack.json) |
 | The Crew: Motorfest - Drift Pack | 408788 | [408788-the-crew-motorfest-drift-pack.json](./408788-the-crew-motorfest-drift-pack.json) |
 | The Crew: Motorfest - Ford Triple Car Pack | 408885 | [408885-the-crew-motorfest-ford-triple-car-pack.json](./408885-the-crew-motorfest-ford-triple-car-pack.json) |
+| The Crew: Motorfest - Gold Edition | 254082 | [254082-the-crew-motorfest-gold-edition.json](./254082-the-crew-motorfest-gold-edition.json) |
 | The Crew: Motorfest - Porsche Triple Car Pack | 408886 | [408886-the-crew-motorfest-porsche-triple-car-pack.json](./408886-the-crew-motorfest-porsche-triple-car-pack.json) |
 | The Crew: Motorfest - RC Frenzy Pack | 408845 | [408845-the-crew-motorfest-rc-frenzy-pack.json](./408845-the-crew-motorfest-rc-frenzy-pack.json) |
 | The Crew: Motorfest - Season 10 | 408914 | [408914-the-crew-motorfest-season-10.json](./408914-the-crew-motorfest-season-10.json) |
@@ -24962,6 +24963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainyard Express | 261861 | [261861-trainyard-express.json](./261861-trainyard-express.json) |
 | Trainz | 920 | [920-trainz.json](./920-trainz.json) |
 | Trainz 2019 DLC - Pro Train: AC44C6M Loco Bundle | 384734 | [384734-trainz-2019-dlc-pro-train-ac44c6m-loco-bundle.json](./384734-trainz-2019-dlc-pro-train-ac44c6m-loco-bundle.json) |
+| Trainz 2019 DLC: Pro Train DB Class 52 | 254071 | [254071-trainz-2019-dlc-pro-train-db-class-52.json](./254071-trainz-2019-dlc-pro-train-db-class-52.json) |
 | Trainz 2019: [TL] Rainsville - Danville | 325026 | [325026-trainz-2019-tl-rainsville-danville.json](./325026-trainz-2019-tl-rainsville-danville.json) |
 | Trainz 2019: B08 Baggage Car | 325030 | [325030-trainz-2019-b08-baggage-car.json](./325030-trainz-2019-b08-baggage-car.json) |
 | Trainz 2019: BR Class 24 - Blue & Green | 325029 | [325029-trainz-2019-br-class-24-blue-and-green.json](./325029-trainz-2019-br-class-24-blue-and-green.json) |
@@ -24989,6 +24991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz 2019: SA AN Class - Pacific National | 325025 | [325025-trainz-2019-sa-an-class-pacific-national.json](./325025-trainz-2019-sa-an-class-pacific-national.json) |
 | Trainz 2019: SA CL Class - QR National Pack | 306111 | [306111-trainz-2019-sa-cl-class-qr-national-pack.json](./306111-trainz-2019-sa-cl-class-qr-national-pack.json) |
 | Trainz 2019: SA CL Class - RailPower Pack | 306110 | [306110-trainz-2019-sa-cl-class-railpower-pack.json](./306110-trainz-2019-sa-cl-class-railpower-pack.json) |
+| Trainz 2022 DLC: Pro Train DB Class 52 | 254072 | [254072-trainz-2022-dlc-pro-train-db-class-52.json](./254072-trainz-2022-dlc-pro-train-db-class-52.json) |
 | Trainz 2022: C44aci Locomotive - ARG/Mineral Resources Pack | 306118 | [306118-trainz-2022-c44aci-locomotive-arg-mineral-resources-pack.json](./306118-trainz-2022-c44aci-locomotive-arg-mineral-resources-pack.json) |
 | Trainz 2022: Model Trainz - Freemont Mills | 306119 | [306119-trainz-2022-model-trainz-freemont-mills.json](./306119-trainz-2022-model-trainz-freemont-mills.json) |
 | Trainz 2022: Pro Train - F-Series: FAA Container | 280143 | [280143-trainz-2022-pro-train-f-series-faa-container.json](./280143-trainz-2022-pro-train-f-series-faa-container.json) |
