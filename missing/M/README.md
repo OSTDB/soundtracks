@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M3nticid3: Control Group | 393018 | [393018-m3nticid3-control-group.json](./393018-m3nticid3-control-group.json) |
 | M6 | 78443 | [78443-m6.json](./78443-m6.json) |
 | M87 | 200511 | [200511-m87.json](./200511-m87.json) |
+| Ma Cheon Ru | 269161 | [269161-ma-cheon-ru.json](./269161-ma-cheon-ru.json) |
 | Ma Pension d'Animaux: Bébés Câlins | 144681 | [144681-ma-pension-danimaux-bebes-calins.json](./144681-ma-pension-danimaux-bebes-calins.json) |
 | Ma première visite à la tour du sens | 345578 | [345578-ma-premiere-visite-a-la-tour-du-sens.json](./345578-ma-premiere-visite-a-la-tour-du-sens.json) |
 | Ma Puzzle | 181209 | [181209-ma-puzzle.json](./181209-ma-puzzle.json) |
@@ -1284,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop III: Toretate Zoukangou! | 171031 | [171031-magical-drop-iii-toretate-zoukangou.json](./171031-magical-drop-iii-toretate-zoukangou.json) |
 | Magical Drop III: Yokubari Tokudaigou! | 170790 | [170790-magical-drop-iii-yokubari-tokudaigou.json](./170790-magical-drop-iii-yokubari-tokudaigou.json) |
 | Magical Drop VI | 221060 | [221060-magical-drop-vi.json](./221060-magical-drop-vi.json) |
+| Magical Error wo Sagase | 268846 | [268846-magical-error-wo-sagase.json](./268846-magical-error-wo-sagase.json) |
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
 | Magical Fantasista | 289588 | [289588-magical-fantasista.json](./289588-magical-fantasista.json) |
 | Magical Fantasista II | 292071 | [292071-magical-fantasista-ii.json](./292071-magical-fantasista-ii.json) |
@@ -2310,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maledictor | 296969 | [296969-maledictor.json](./296969-maledictor.json) |
 | Maledictum | 382295 | [382295-maledictum.json](./382295-maledictum.json) |
 | Maleficent Free Fall | 61680 | [61680-maleficent-free-fall.json](./61680-maleficent-free-fall.json) |
+| Maleficia: Nekomimi's Field | 268839 | [268839-maleficia-nekomimis-field.json](./268839-maleficia-nekomimis-field.json) |
 | Malek | 226710 | [226710-malek.json](./226710-malek.json) |
 | Malevilent | 366737 | [366737-malevilent.json](./366737-malevilent.json) |
 | Malevolence | 115635 | [115635-malevolence.json](./115635-malevolence.json) |
@@ -5273,6 +5276,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem 2018: Orange Edition | 269131 | [269131-mayhem-2018-orange-edition.json](./269131-mayhem-2018-orange-edition.json) |
 | Mayhem 2018: Purple Edition | 269130 | [269130-mayhem-2018-purple-edition.json](./269130-mayhem-2018-purple-edition.json) |
 | Mayhem 2019: Blood for the Doom God! | 269132 | [269132-mayhem-2019-blood-for-the-doom-god.json](./269132-mayhem-2019-blood-for-the-doom-god.json) |
+| Mayhem 2020: Something Something Hindsight | 269133 | [269133-mayhem-2020-something-something-hindsight.json](./269133-mayhem-2020-something-something-hindsight.json) |
+| Mayhem 2022: Memento Moron | 269134 | [269134-mayhem-2022-memento-moron.json](./269134-mayhem-2022-memento-moron.json) |
 | Mayhem 2048 | 269125 | [269125-mayhem-2048.json](./269125-mayhem-2048.json) |
 | Mayhem À La Carte | 417462 | [417462-mayhem-a-la-carte.json](./417462-mayhem-a-la-carte.json) |
 | Mayhem Above | 55502 | [55502-mayhem-above.json](./55502-mayhem-above.json) |
@@ -6269,6 +6274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Your Maker: Sector 1 Arsenal Pack | 254897 | [254897-meet-your-maker-sector-1-arsenal-pack.json](./254897-meet-your-maker-sector-1-arsenal-pack.json) |
 | Meet Your Maker: Sector 1 Cosmetic Collection | 254896 | [254896-meet-your-maker-sector-1-cosmetic-collection.json](./254896-meet-your-maker-sector-1-cosmetic-collection.json) |
 | Meet Your Maker: Sector 2 Arsenal Pack | 267277 | [267277-meet-your-maker-sector-2-arsenal-pack.json](./267277-meet-your-maker-sector-2-arsenal-pack.json) |
+| Meet Your Maker: Sector 2 Bundle | 268837 | [268837-meet-your-maker-sector-2-bundle.json](./268837-meet-your-maker-sector-2-bundle.json) |
 | Meet Your Maker: Sector 2 Cosmetic Collection | 267293 | [267293-meet-your-maker-sector-2-cosmetic-collection.json](./267293-meet-your-maker-sector-2-cosmetic-collection.json) |
 | Meet Your Maker: Sector 3 Arsenal Pack | 284882 | [284882-meet-your-maker-sector-3-arsenal-pack.json](./284882-meet-your-maker-sector-3-arsenal-pack.json) |
 | Meet.Hunter | 96479 | [96479-meet-hunter.json](./96479-meet-hunter.json) |
@@ -16105,6 +16111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Wolf | 325515 | [325515-mr-wolf.json](./325515-mr-wolf.json) |
 | Mr. Woodpecker | 298648 | [298648-mr-woodpecker.json](./298648-mr-woodpecker.json) |
 | Mr. Yeti's Fast Food | 179495 | [179495-mr-yetis-fast-food.json](./179495-mr-yetis-fast-food.json) |
+| Mr. Yo-Yo | 269162 | [269162-mr-yo-yo.json](./269162-mr-yo-yo.json) |
 | Mr. Zippy is Watching | 401090 | [401090-mr-zippy-is-watching.json](./401090-mr-zippy-is-watching.json) |
 | Mr.AahH!! | 23262 | [23262-mr-aahh.json](./23262-mr-aahh.json) |
 | Mr.Addon in Sulpicius Gallus M | 187384 | [187384-mr-addon-in-sulpicius-gallus-m.json](./187384-mr-addon-in-sulpicius-gallus-m.json) |
