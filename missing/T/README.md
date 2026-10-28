@@ -5776,6 +5776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bloobles and the Quest for Chocolate | 107704 | [107704-the-bloobles-and-the-quest-for-chocolate.json](./107704-the-bloobles-and-the-quest-for-chocolate.json) |
 | The Blood Amulet | 219548 | [219548-the-blood-amulet.json](./219548-the-blood-amulet.json) |
 | The Blood Eclipse | 110826 | [110826-the-blood-eclipse.json](./110826-the-blood-eclipse.json) |
+| The Blood Mage by Daniel da Silva | 249238 | [249238-the-blood-mage-by-daniel-da-silva.json](./249238-the-blood-mage-by-daniel-da-silva.json) |
 | The Blood of Dawnwalker: Day 1 Edition | 416088 | [416088-the-blood-of-dawnwalker-day-1-edition.json](./416088-the-blood-of-dawnwalker-day-1-edition.json) |
 | The Blood's Way | 364501 | [364501-the-bloods-way.json](./364501-the-bloods-way.json) |
 | The Bloodline | 123930 | [123930-the-bloodline.json](./123930-the-bloodline.json) |
@@ -14065,6 +14066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers: Rise of an Empire - The Eastern Realm | 78531 | [78531-the-settlers-rise-of-an-empire-the-eastern-realm.json](./78531-the-settlers-rise-of-an-empire-the-eastern-realm.json) |
 | The Settlers: Rise of Cultures | 132810 | [132810-the-settlers-rise-of-cultures.json](./132810-the-settlers-rise-of-cultures.json) |
 | The Seven | 356616 | [356616-the-seven.json](./356616-the-seven.json) |
+| The Seven Awakenings: I Randall | 249383 | [249383-the-seven-awakenings-i-randall.json](./249383-the-seven-awakenings-i-randall.json) |
 | The Seven Bad Apples | 382748 | [382748-the-seven-bad-apples.json](./382748-the-seven-bad-apples.json) |
 | The Seven Betrayers | 282033 | [282033-the-seven-betrayers.json](./282033-the-seven-betrayers.json) |
 | The Seven Cities of Gold | 8994 | [8994-the-seven-cities-of-gold.json](./8994-the-seven-cities-of-gold.json) |
@@ -16177,6 +16179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wagadu Chronicles | 241973 | [241973-the-wagadu-chronicles.json](./241973-the-wagadu-chronicles.json) |
 | The Wager | 125414 | [125414-the-wager.json](./125414-the-wager.json) |
 | The Waifu Game | 292681 | [292681-the-waifu-game.json](./292681-the-waifu-game.json) |
+| The Wailer | 249375 | [249375-the-wailer.json](./249375-the-wailer.json) |
 | The Wailing Horde | 263418 | [263418-the-wailing-horde.json](./263418-the-wailing-horde.json) |
 | The Wailing of the Forest | 385062 | [385062-the-wailing-of-the-forest.json](./385062-the-wailing-of-the-forest.json) |
 | The Wait | 128605 | [128605-the-wait.json](./128605-the-wait.json) |
@@ -27034,6 +27037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Video Game Trivia Deluxe | 74339 | [74339-trivia-vault-video-game-trivia-deluxe.json](./74339-trivia-vault-video-game-trivia-deluxe.json) |
 | Trivia War | 338607 | [338607-trivia-war.json](./338607-trivia-war.json) |
 | Trivia Whiz | 80313 | [80313-trivia-whiz.json](./80313-trivia-whiz.json) |
+| Triviador World | 249242 | [249242-triviador-world.json](./249242-triviador-world.json) |
 | Trivial Pursuit | 12970 | [12970-trivial-pursuit.json](./12970-trivial-pursuit.json) |
 | Trivial Pursuit | 78560 | [78560-trivial-pursuit.json](./78560-trivial-pursuit.json) |
 | Trivial Pursuit 2: A New Beginning | 69824 | [69824-trivial-pursuit-2-a-new-beginning.json](./69824-trivial-pursuit-2-a-new-beginning.json) |
