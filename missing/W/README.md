@@ -2171,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watercolors Sink Beneath the Surface | 404254 | [404254-watercolors-sink-beneath-the-surface.json](./404254-watercolors-sink-beneath-the-surface.json) |
 | Waterfall | 251196 | [251196-waterfall.json](./251196-waterfall.json) |
 | Waterfall Canyon | 223683 | [223683-waterfall-canyon.json](./223683-waterfall-canyon.json) |
+| Waterfall Prisoner | 244932 | [244932-waterfall-prisoner.json](./244932-waterfall-prisoner.json) |
 | Waterful | 404861 | [404861-waterful.json](./404861-waterful.json) |
 | Watergate Xtreme | 52090 | [52090-watergate-xtreme.json](./52090-watergate-xtreme.json) |
 | Watering a Flower | 183907 | [183907-watering-a-flower.json](./183907-watering-a-flower.json) |
@@ -2247,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Mechanics | 34871 | [34871-wave-mechanics.json](./34871-wave-mechanics.json) |
 | Wave of Color | 389942 | [389942-wave-of-color.json](./389942-wave-of-color.json) |
 | Wave of Darkness | 17704 | [17704-wave-of-darkness.json](./17704-wave-of-darkness.json) |
+| Wave of Elms | 244927 | [244927-wave-of-elms.json](./244927-wave-of-elms.json) |
 | Wave Race | 48915 | [48915-wave-race.json](./48915-wave-race.json) |
 | Wave Race 64 | 286694 | [286694-wave-race-64.json](./286694-wave-race-64.json) |
 | Wave Race 64 | 308048 | [308048-wave-race-64.json](./308048-wave-race-64.json) |
@@ -5376,6 +5378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winx Sirenix Power | 63387 | [63387-winx-sirenix-power.json](./63387-winx-sirenix-power.json) |
 | Winzer | 77383 | [77383-winzer.json](./77383-winzer.json) |
 | Wipe Factor | 233558 | [233558-wipe-factor.json](./233558-wipe-factor.json) |
+| Wipe Girls 0 | 244939 | [244939-wipe-girls-0.json](./244939-wipe-girls-0.json) |
 | Wipe Off | 359314 | [359314-wipe-off.json](./359314-wipe-off.json) |
 | Wipe Out | 18160 | [18160-wipe-out.json](./18160-wipe-out.json) |
 | Wipe Out VR | 81248 | [81248-wipe-out-vr.json](./81248-wipe-out-vr.json) |
@@ -6782,6 +6785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words of Fate | 83259 | [83259-words-of-fate.json](./83259-words-of-fate.json) |
 | Words of Wonders | 302727 | [302727-words-of-wonders.json](./302727-words-of-wonders.json) |
 | Words of Wonders: Search | 355896 | [355896-words-of-wonders-search.json](./355896-words-of-wonders-search.json) |
+| Words of Yendor | 246019 | [246019-words-of-yendor.json](./246019-words-of-yendor.json) |
 | Words on Stream | 137688 | [137688-words-on-stream.json](./137688-words-on-stream.json) |
 | Words Scramble | 233055 | [233055-words-scramble.json](./233055-words-scramble.json) |
 | Words Scramble: Cities | 245329 | [245329-words-scramble-cities.json](./245329-words-scramble-cities.json) |
