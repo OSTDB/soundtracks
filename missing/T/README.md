@@ -1675,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Hero: Awesome Tank War g | 231885 | [231885-tank-hero-awesome-tank-war-g.json](./231885-tank-hero-awesome-tank-war-g.json) |
 | Tank Hero: Laser Wars | 101491 | [101491-tank-hero-laser-wars.json](./101491-tank-hero-laser-wars.json) |
 | Tank Hunter | 311167 | [311167-tank-hunter.json](./311167-tank-hunter.json) |
+| Tank Hunter 2 | 267207 | [267207-tank-hunter-2.json](./267207-tank-hunter-2.json) |
 | Tank Hunter Tow Operator | 240679 | [240679-tank-hunter-tow-operator.json](./240679-tank-hunter-tow-operator.json) |
 | Tank Hurricane | 131326 | [131326-tank-hurricane.json](./131326-tank-hurricane.json) |
 | Tank It | 233483 | [233483-tank-it.json](./233483-tank-it.json) |
@@ -5097,6 +5098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apple Girl | 379969 | [379969-the-apple-girl.json](./379969-the-apple-girl.json) |
 | The Apple of Our Time | 281374 | [281374-the-apple-of-our-time.json](./281374-the-apple-of-our-time.json) |
 | The Apple Tree | 208594 | [208594-the-apple-tree.json](./208594-the-apple-tree.json) |
+| The Appointed Station | 267526 | [267526-the-appointed-station.json](./267526-the-appointed-station.json) |
 | The Appraiser | 204843 | [204843-the-appraiser.json](./204843-the-appraiser.json) |
 | The Apprentice | 127154 | [127154-the-apprentice.json](./127154-the-apprentice.json) |
 | The Apprentice | 410315 | [410315-the-apprentice.json](./410315-the-apprentice.json) |
@@ -5388,6 +5390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Barren Babel | 151800 | [151800-the-barren-babel.json](./151800-the-barren-babel.json) |
 | The Barren Kingdoms | 182096 | [182096-the-barren-kingdoms.json](./182096-the-barren-kingdoms.json) |
 | The Bartlett Saga | 387700 | [387700-the-bartlett-saga.json](./387700-the-bartlett-saga.json) |
+| The Baseball 2002: Battle Ball Park Sengen | 267529 | [267529-the-baseball-2002-battle-ball-park-sengen.json](./267529-the-baseball-2002-battle-ball-park-sengen.json) |
 | The Baseball 2003 | 61401 | [61401-the-baseball-2003.json](./61401-the-baseball-2003.json) |
 | The Baseball 2003: Shuuki-gou | 269389 | [269389-the-baseball-2003-shuuki-gou.json](./269389-the-baseball-2003-shuuki-gou.json) |
 | The Baseball T | 217912 | [217912-the-baseball-t.json](./217912-the-baseball-t.json) |
@@ -21659,6 +21662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Legend | 248535 | [248535-tomb-raider-legend.json](./248535-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 248536 | [248536-tomb-raider-legend.json](./248536-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 305560 | [305560-tomb-raider-legend.json](./305560-tomb-raider-legend.json) |
+| Tomb Raider: Legend Demake - Chapter One | 267521 | [267521-tomb-raider-legend-demake-chapter-one.json](./267521-tomb-raider-legend-demake-chapter-one.json) |
 | Tomb Raider: Lost and Found | 408978 | [408978-tomb-raider-lost-and-found.json](./408978-tomb-raider-lost-and-found.json) |
 | Tomb Raider: Mountaineer Skin | 406545 | [406545-tomb-raider-mountaineer-skin.json](./406545-tomb-raider-mountaineer-skin.json) |
 | Tomb Raider: Pistol Burst | 406547 | [406547-tomb-raider-pistol-burst.json](./406547-tomb-raider-pistol-burst.json) |
