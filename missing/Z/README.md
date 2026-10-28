@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zebulon: A Lost Cat | 312036 | [312036-zebulon-a-lost-cat.json](./312036-zebulon-a-lost-cat.json) |
 | Zector 7 | 299103 | [299103-zector-7.json](./299103-zector-7.json) |
 | Zed | 112831 | [112831-zed.json](./112831-zed.json) |
+| Zed Patrol | 264185 | [264185-zed-patrol.json](./264185-zed-patrol.json) |
 | Zed Shot | 107041 | [107041-zed-shot.json](./107041-zed-shot.json) |
 | Zed Zone | 216810 | [216810-zed-zone.json](./216810-zed-zone.json) |
 | ZED: Absolution | 62030 | [62030-zed-absolution.json](./62030-zed-absolution.json) |
