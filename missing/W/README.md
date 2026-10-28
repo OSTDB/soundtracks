@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waddle Paddle | 365718 | [365718-waddle-paddle.json](./365718-waddle-paddle.json) |
 | Waddle Throttle | 419962 | [419962-waddle-throttle.json](./419962-waddle-throttle.json) |
 | Waddle Wars: Roguelike Defense | 266831 | [266831-waddle-wars-roguelike-defense.json](./266831-waddle-wars-roguelike-defense.json) |
+| Wade | 243832 | [243832-wade.json](./243832-wade.json) |
 | Wade | 385384 | [385384-wade.json](./385384-wade.json) |
 | WadoVice64 | 387157 | [387157-wadovice64.json](./387157-wadovice64.json) |
 | Waffle | 298532 | [298532-waffle.json](./298532-waffle.json) |
@@ -795,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Mahjong | 254405 | [254405-war-mahjong.json](./254405-war-mahjong.json) |
 | War Maze | 272712 | [272712-war-maze.json](./272712-war-maze.json) |
 | War Mines: WW1 | 152721 | [152721-war-mines-ww1.json](./152721-war-mines-ww1.json) |
+| War Mongrels: Renegade Edition | 243864 | [243864-war-mongrels-renegade-edition.json](./243864-war-mongrels-renegade-edition.json) |
 | War Never Changes | 333590 | [333590-war-never-changes.json](./333590-war-never-changes.json) |
 | War Obelisks | 218977 | [218977-war-obelisks.json](./218977-war-obelisks.json) |
 | War of Aero | 39849 | [39849-war-of-aero.json](./39849-war-of-aero.json) |
@@ -2470,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are OFK | 152177 | [152177-we-are-ofk.json](./152177-we-are-ofk.json) |
 | We Are Only Moving Towards Each Other | 299117 | [299117-we-are-only-moving-towards-each-other.json](./299117-we-are-only-moving-towards-each-other.json) |
 | We Are Out of Food, Milton. | 250323 | [250323-we-are-out-of-food-milton.json](./250323-we-are-out-of-food-milton.json) |
+| We Are Poems | 243833 | [243833-we-are-poems.json](./243833-we-are-poems.json) |
 | We Are Prophet | 400864 | [400864-we-are-prophet.json](./400864-we-are-prophet.json) |
 | We Are Saved | 307181 | [307181-we-are-saved.json](./307181-we-are-saved.json) |
 | We Are Sisters | 418704 | [418704-we-are-sisters.json](./418704-we-are-sisters.json) |
@@ -7463,8 +7466,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Z VR | 349761 | [349761-world-war-z-vr.json](./349761-world-war-z-vr.json) |
 | World War Z: Aftermath | 152123 | [152123-world-war-z-aftermath.json](./152123-world-war-z-aftermath.json) |
 | World War Z: Aftermath - Deluxe Edition | 169203 | [169203-world-war-z-aftermath-deluxe-edition.json](./169203-world-war-z-aftermath-deluxe-edition.json) |
+| World War Z: Deadly Vice Weapon Skins | 243305 | [243305-world-war-z-deadly-vice-weapon-skins.json](./243305-world-war-z-deadly-vice-weapon-skins.json) |
 | World War Z: Desert Defenders Weapons Pack | 332044 | [332044-world-war-z-desert-defenders-weapons-pack.json](./332044-world-war-z-desert-defenders-weapons-pack.json) |
 | World War Z: Game of the Year Edition | 133945 | [133945-world-war-z-game-of-the-year-edition.json](./133945-world-war-z-game-of-the-year-edition.json) |
+| World War Z: Rat Packs Weapon Skins | 243298 | [243298-world-war-z-rat-packs-weapon-skins.json](./243298-world-war-z-rat-packs-weapon-skins.json) |
 | World War Z: Sin City Apocalypse Episode | 339072 | [339072-world-war-z-sin-city-apocalypse-episode.json](./339072-world-war-z-sin-city-apocalypse-episode.json) |
 | World War Z: Vegas Skin Pack | 339073 | [339073-world-war-z-vegas-skin-pack.json](./339073-world-war-z-vegas-skin-pack.json) |
 | World War Z: Victory Lap Weapons Skin Pack | 332045 | [332045-world-war-z-victory-lap-weapons-skin-pack.json](./332045-world-war-z-victory-lap-weapons-skin-pack.json) |
@@ -7770,6 +7775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wove | 369024 | [369024-wove.json](./369024-wove.json) |
 | Woven | 32150 | [32150-woven.json](./32150-woven.json) |
 | Woven Horizons | 365731 | [365731-woven-horizons.json](./365731-woven-horizons.json) |
+| Woven Words | 243317 | [243317-woven-words.json](./243317-woven-words.json) |
 | WoW Hentai 2! | 366542 | [366542-wow-hentai-2.json](./366542-wow-hentai-2.json) |
 | Wow! Wow! Wubbzy | 76890 | [76890-wow-wow-wubbzy.json](./76890-wow-wow-wubbzy.json) |
 | Wowo Island | 375508 | [375508-wowo-island.json](./375508-wowo-island.json) |
