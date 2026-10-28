@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Nekosama Escape: The Mountain Cottage | 200460 | [200460-japanese-nekosama-escape-the-mountain-cottage.json](./200460-japanese-nekosama-escape-the-mountain-cottage.json) |
 | Japanese Nekosama Escape: The Old Inn | 197921 | [197921-japanese-nekosama-escape-the-old-inn.json](./197921-japanese-nekosama-escape-the-old-inn.json) |
 | Japanese Nekosama Escape: The Sweets Shop | 251050 | [251050-japanese-nekosama-escape-the-sweets-shop.json](./251050-japanese-nekosama-escape-the-sweets-shop.json) |
+| Japanese Nekosama Games: The Outlaws | 245894 | [245894-japanese-nekosama-games-the-outlaws.json](./245894-japanese-nekosama-games-the-outlaws.json) |
 | Japanese Nekosama: Escape the Sento | 212629 | [212629-japanese-nekosama-escape-the-sento.json](./212629-japanese-nekosama-escape-the-sento.json) |
 | Japanese Prime Minister: Yamato Soichiro | 97535 | [97535-japanese-prime-minister-yamato-soichiro.json](./97535-japanese-prime-minister-yamato-soichiro.json) |
 | Japanese Psycho | 340766 | [340766-japanese-psycho.json](./340766-japanese-psycho.json) |
@@ -694,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jar | 340768 | [340768-jar.json](./340768-jar.json) |
 | Jar Battlers | 108371 | [108371-jar-battlers.json](./108371-jar-battlers.json) |
 | Jar Head Cauldron | 333633 | [333633-jar-head-cauldron.json](./333633-jar-head-cauldron.json) |
+| JarataireRPG | 243328 | [243328-jaratairerpg.json](./243328-jaratairerpg.json) |
 | Jardin | 186163 | [186163-jardin.json](./186163-jardin.json) |
 | Jardinains 2! | 91259 | [91259-jardinains-2.json](./91259-jardinains-2.json) |
 | Jardinains! | 145340 | [145340-jardinains.json](./145340-jardinains.json) |
