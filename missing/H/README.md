@@ -5309,6 +5309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Normandie: US Rangers | 172010 | [172010-heroes-of-normandie-us-rangers.json](./172010-heroes-of-normandie-us-rangers.json) |
 | Heroes of Olympus | 247321 | [247321-heroes-of-olympus.json](./247321-heroes-of-olympus.json) |
 | Heroes of Order & Chaos | 39181 | [39181-heroes-of-order-and-chaos.json](./39181-heroes-of-order-and-chaos.json) |
+| Heroes of Orn: Darkness | 249244 | [249244-heroes-of-orn-darkness.json](./249244-heroes-of-orn-darkness.json) |
 | Heroes of Paragon | 37394 | [37394-heroes-of-paragon.json](./37394-heroes-of-paragon.json) |
 | Heroes of Pure Land | 115801 | [115801-heroes-of-pure-land.json](./115801-heroes-of-pure-land.json) |
 | Heroes of Rings | 96602 | [96602-heroes-of-rings.json](./96602-heroes-of-rings.json) |
@@ -5959,6 +5960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: Dawn of Prosperity - Collector's Edition | 31689 | [31689-hidden-expedition-dawn-of-prosperity-collectors-edition.json](./31689-hidden-expedition-dawn-of-prosperity-collectors-edition.json) |
 | Hidden Expedition: Devil's Triangle | 64723 | [64723-hidden-expedition-devils-triangle.json](./64723-hidden-expedition-devils-triangle.json) |
 | Hidden Expedition: Neptune's Gift | 187960 | [187960-hidden-expedition-neptunes-gift.json](./187960-hidden-expedition-neptunes-gift.json) |
+| Hidden Expedition: New Adventures Steve and Victoria | 249232 | [249232-hidden-expedition-new-adventures-steve-and-victoria.json](./249232-hidden-expedition-new-adventures-steve-and-victoria.json) |
 | Hidden Expedition: Smithsonian Castle | 187950 | [187950-hidden-expedition-smithsonian-castle.json](./187950-hidden-expedition-smithsonian-castle.json) |
 | Hidden Expedition: Smithsonian Hope Diamond | 187955 | [187955-hidden-expedition-smithsonian-hope-diamond.json](./187955-hidden-expedition-smithsonian-hope-diamond.json) |
 | Hidden Expedition: The Curse of Mithridates | 97312 | [97312-hidden-expedition-the-curse-of-mithridates.json](./97312-hidden-expedition-the-curse-of-mithridates.json) |
@@ -7640,6 +7642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday with Gwen | 213485 | [213485-holiday-with-gwen.json](./213485-holiday-with-gwen.json) |
 | Holiday World | 93126 | [93126-holiday-world.json](./93126-holiday-world.json) |
 | Holidays | 167567 | [167567-holidays.json](./167567-holidays.json) |
+| Holidays in Khrushchevsk | 249007 | [249007-holidays-in-khrushchevsk.json](./249007-holidays-in-khrushchevsk.json) |
 | Holidays Survivors | 325988 | [325988-holidays-survivors.json](./325988-holidays-survivors.json) |
 | Höll Space 5D6 | 147197 | [147197-holl-space-5d6.json](./147197-holl-space-5d6.json) |
 | Hollenburg: Hell Castle | 256259 | [256259-hollenburg-hell-castle.json](./256259-hollenburg-hell-castle.json) |
