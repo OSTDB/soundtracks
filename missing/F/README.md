@@ -2497,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion_Weak | 181755 | [181755-fashion-weak.json](./181755-fashion-weak.json) |
 | Fashioning Little Miss Lonesome | 55538 | [55538-fashioning-little-miss-lonesome.json](./55538-fashioning-little-miss-lonesome.json) |
 | FashionVerse | 296068 | [296068-fashionverse.json](./296068-fashionverse.json) |
+| Fast | 267210 | [267210-fast.json](./267210-fast.json) |
 | Fast & Blast | 368687 | [368687-fast-and-blast.json](./368687-fast-and-blast.json) |
 | Fast & Fractured | 390642 | [390642-fast-and-fractured.json](./390642-fast-and-fractured.json) |
 | Fast & Furious 6 | 412791 | [412791-fast-and-furious-6.json](./412791-fast-and-furious-6.json) |
@@ -10228,6 +10229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': Miku Full Week | 206925 | [206925-friday-night-funkin-miku-full-week.json](./206925-friday-night-funkin-miku-full-week.json) |
 | Friday Night Funkin': Pibby Corrupted | 280717 | [280717-friday-night-funkin-pibby-corrupted.json](./280717-friday-night-funkin-pibby-corrupted.json) |
 | Friday Night Funkin': Pibby Corrupted Kitchen Gun | 269295 | [269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json](./269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json) |
+| Friday Night Funkin': Skibidi Invasion | 267494 | [267494-friday-night-funkin-skibidi-invasion.json](./267494-friday-night-funkin-skibidi-invasion.json) |
 | Friday Night Funkin': Smoke 'Em Out Struggle | 200960 | [200960-friday-night-funkin-smoke-em-out-struggle.json](./200960-friday-night-funkin-smoke-em-out-struggle.json) |
 | Friday Night Funkin': Sprite Corruption | 352831 | [352831-friday-night-funkin-sprite-corruption.json](./352831-friday-night-funkin-sprite-corruption.json) |
 | Friday Night Funkin': Super Idol | 231382 | [231382-friday-night-funkin-super-idol.json](./231382-friday-night-funkin-super-idol.json) |
@@ -10875,6 +10877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froojarspootz! The Cleaning Monster | 387513 | [387513-froojarspootz-the-cleaning-monster.json](./387513-froojarspootz-the-cleaning-monster.json) |
 | Froooog | 315943 | [315943-froooog.json](./315943-froooog.json) |
 | Froot Basket Valentine | 179720 | [179720-froot-basket-valentine.json](./179720-froot-basket-valentine.json) |
+| Froot Loops: The Quest for Froot Loops Treasure | 267505 | [267505-froot-loops-the-quest-for-froot-loops-treasure.json](./267505-froot-loops-the-quest-for-froot-loops-treasure.json) |
 | Frooty Loops | 364695 | [364695-frooty-loops.json](./364695-frooty-loops.json) |
 | Frost | 32851 | [32851-frost.json](./32851-frost.json) |
 | Frost | 88972 | [88972-frost.json](./88972-frost.json) |
