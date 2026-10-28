@@ -2855,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit XMas 2011 | 305732 | [305732-8-bit-xmas-2011.json](./305732-8-bit-xmas-2011.json) |
 | 8-BIT Yu-No's Great Adventure | 209737 | [209737-8-bit-yu-nos-great-adventure.json](./209737-8-bit-yu-nos-great-adventure.json) |
 | 8-bitBot | 377123 | [377123-8-bitbot.json](./377123-8-bitbot.json) |
+| 8-Colors Star Guardians + | 258599 | [258599-8-colors-star-guardians.json](./258599-8-colors-star-guardians.json) |
 | 8-gatsu 7-ka no Amayadori | 403956 | [403956-8-gatsu-7-ka-no-amayadori.json](./403956-8-gatsu-7-ka-no-amayadori.json) |
 | 8-Hour Workday | 399003 | [399003-8-hour-workday.json](./399003-8-hour-workday.json) |
 | 8-in-1 Games | 247011 | [247011-8-in-1-games.json](./247011-8-in-1-games.json) |
