@@ -4633,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiescat | 164933 | [164933-requiescat.json](./164933-requiescat.json) |
 | Requiescence | 31219 | [31219-requiescence.json](./31219-requiescence.json) |
 | Requisition VR | 193293 | [193293-requisition-vr.json](./193293-requisition-vr.json) |
+| Requisition VR: Survival Update | 253181 | [253181-requisition-vr-survival-update.json](./253181-requisition-vr-survival-update.json) |
 | ReRave | 41506 | [41506-rerave.json](./41506-rerave.json) |
 | ReRise | 293862 | [293862-rerise.json](./293862-rerise.json) |
 | ReRoad | 139178 | [139178-reroad.json](./139178-reroad.json) |
@@ -6134,6 +6135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddim Ribbon | 66040 | [66040-riddim-ribbon.json](./66040-riddim-ribbon.json) |
 | Riddle Diario | 109063 | [109063-riddle-diario.json](./109063-riddle-diario.json) |
 | Riddle fidget spinner | 297649 | [297649-riddle-fidget-spinner.json](./297649-riddle-fidget-spinner.json) |
+| Riddle for your Life | 253521 | [253521-riddle-for-your-life.json](./253521-riddle-for-your-life.json) |
 | Riddle in Riddle | 150114 | [150114-riddle-in-riddle.json](./150114-riddle-in-riddle.json) |
 | Riddle Joker | 97388 | [97388-riddle-joker.json](./97388-riddle-joker.json) |
 | Riddle of Pythagoras | 40424 | [40424-riddle-of-pythagoras.json](./40424-riddle-of-pythagoras.json) |
