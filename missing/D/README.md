@@ -14358,6 +14358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drihoo | 194332 | [194332-drihoo.json](./194332-drihoo.json) |
 | DRiiFT Mania | 51117 | [51117-driift-mania.json](./51117-driift-mania.json) |
 | Dril Simulator 2018 | 183254 | [183254-dril-simulator-2018.json](./183254-dril-simulator-2018.json) |
+| Drilbert | 244400 | [244400-drilbert.json](./244400-drilbert.json) |
 | Drill and Collect | 249681 | [249681-drill-and-collect.json](./249681-drill-and-collect.json) |
 | Drill and Delve | 382231 | [382231-drill-and-delve.json](./382231-drill-and-delve.json) |
 | Drill and Dig! | 296817 | [296817-drill-and-dig.json](./296817-drill-and-dig.json) |
@@ -15798,6 +15799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Gods | 199915 | [199915-dungeon-of-gods.json](./199915-dungeon-of-gods.json) |
 | Dungeon of Grandmasters | 322802 | [322802-dungeon-of-grandmasters.json](./322802-dungeon-of-grandmasters.json) |
 | Dungeon of Horror | 262909 | [262909-dungeon-of-horror.json](./262909-dungeon-of-horror.json) |
+| Dungeon of Insanity | 244417 | [244417-dungeon-of-insanity.json](./244417-dungeon-of-insanity.json) |
 | Dungeon of Love: Catch Monsters to Make a Perfect Anime Boyfriend | 343723 | [343723-dungeon-of-love-catch-monsters-to-make-a-perfect-anime-boyfriend.json](./343723-dungeon-of-love-catch-monsters-to-make-a-perfect-anime-boyfriend.json) |
 | Dungeon of Love: Catch Monsters to Make a Perfect Anime Girlfriend | 343722 | [343722-dungeon-of-love-catch-monsters-to-make-a-perfect-anime-girlfriend.json](./343722-dungeon-of-love-catch-monsters-to-make-a-perfect-anime-girlfriend.json) |
 | Dungeon of Memories | 295807 | [295807-dungeon-of-memories.json](./295807-dungeon-of-memories.json) |
