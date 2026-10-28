@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C99 Games | 421188 | [421188-c99-games.json](./421188-c99-games.json) |
 | Caaahr! | 405654 | [405654-caaahr.json](./405654-caaahr.json) |
 | Caapora Adventure: Ojibe's Revenge | 171379 | [171379-caapora-adventure-ojibes-revenge.json](./171379-caapora-adventure-ojibes-revenge.json) |
+| Cab Driver | 267760 | [267760-cab-driver.json](./267760-cab-driver.json) |
 | Cab Driver Commander | 335319 | [335319-cab-driver-commander.json](./335319-cab-driver-commander.json) |
 | Cab Ride | 172552 | [172552-cab-ride.json](./172552-cab-ride.json) |
 | Cabal | 6317 | [6317-cabal.json](./6317-cabal.json) |
@@ -4978,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | changeType() | 201128 | [201128-changetype.json](./201128-changetype.json) |
 | Chánggē Xíng | 129094 | [129094-changge-xing.json](./129094-changge-xing.json) |
 | Changkabang! | 203651 | [203651-changkabang.json](./203651-changkabang.json) |
+| Chango | 268064 | [268064-chango.json](./268064-chango.json) |
 | Channel 3 | 276042 | [276042-channel-3.json](./276042-channel-3.json) |
 | Channel 4 Midnight | 385434 | [385434-channel-4-midnight.json](./385434-channel-4-midnight.json) |
 | Channel 51 | 372282 | [372282-channel-51.json](./372282-channel-51.json) |
@@ -6771,6 +6773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Jiryoku Senshi Microman Generation 2000 | 166590 | [166590-chou-jiryoku-senshi-microman-generation-2000.json](./166590-chou-jiryoku-senshi-microman-generation-2000.json) |
 | Chou Kagaku Dasshutsu: Gear Detective | 59207 | [59207-chou-kagaku-dasshutsu-gear-detective.json](./59207-chou-kagaku-dasshutsu-gear-detective.json) |
 | Chou Kousoku Mahjong Plus | 319621 | [319621-chou-kousoku-mahjong-plus.json](./319621-chou-kousoku-mahjong-plus.json) |
+| Chou Kowai Hanashi DS: Ao no Shou | 268067 | [268067-chou-kowai-hanashi-ds-ao-no-shou.json](./268067-chou-kowai-hanashi-ds-ao-no-shou.json) |
 | Chou Kyuukai Miracle Nine | 45733 | [45733-chou-kyuukai-miracle-nine.json](./45733-chou-kyuukai-miracle-nine.json) |
 | Chou Manin: Joshi Seido Shanai Choukyou | 97389 | [97389-chou-manin-joshi-seido-shanai-choukyou.json](./97389-chou-manin-joshi-seido-shanai-choukyou.json) |
 | Chou Mashin Eiyuuden Wataru: Another Step | 37726 | [37726-chou-mashin-eiyuuden-wataru-another-step.json](./37726-chou-mashin-eiyuuden-wataru-another-step.json) |
@@ -10813,6 +10816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combustion | 218099 | [218099-combustion.json](./218099-combustion.json) |
 | Come Again, Chachii? | 396005 | [396005-come-again-chachii.json](./396005-come-again-chachii.json) |
 | Come Alive! | 192176 | [192176-come-alive.json](./192176-come-alive.json) |
+| Come Baa | 267762 | [267762-come-baa.json](./267762-come-baa.json) |
 | Come Back: Chapter 1 | 120426 | [120426-come-back-chapter-1.json](./120426-come-back-chapter-1.json) |
 | Come Dine at Valhalla | 180762 | [180762-come-dine-at-valhalla.json](./180762-come-dine-at-valhalla.json) |
 | Come Home: Ghost Stories from Bangladesh | 304636 | [304636-come-home-ghost-stories-from-bangladesh.json](./304636-come-home-ghost-stories-from-bangladesh.json) |
@@ -14519,6 +14523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creaturemin | 313355 | [313355-creaturemin.json](./313355-creaturemin.json) |
 | Creatures | 11374 | [11374-creatures.json](./11374-creatures.json) |
 | Creatures | 120747 | [120747-creatures.json](./120747-creatures.json) |
+| Creatures | 268056 | [268056-creatures.json](./268056-creatures.json) |
 | Creatures | 313973 | [313973-creatures.json](./313973-creatures.json) |
 | Creatures | 380097 | [380097-creatures.json](./380097-creatures.json) |
 | Creatures 2 | 11371 | [11371-creatures-2.json](./11371-creatures-2.json) |
