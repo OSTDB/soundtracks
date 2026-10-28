@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Vanguard Saga | 167522 | [167522-tactical-vanguard-saga.json](./167522-tactical-vanguard-saga.json) |
 | Tactical Vengeance: Play the Game | 230924 | [230924-tactical-vengeance-play-the-game.json](./230924-tactical-vengeance-play-the-game.json) |
 | Tactical Warrior | 208388 | [208388-tactical-warrior.json](./208388-tactical-warrior.json) |
+| Tactical Zone | 261641 | [261641-tactical-zone.json](./261641-tactical-zone.json) |
 | TacticalDuty.io | 234036 | [234036-tacticalduty-io.json](./234036-tacticalduty-io.json) |
 | Tacticalunderground Arcade | 154366 | [154366-tacticalunderground-arcade.json](./154366-tacticalunderground-arcade.json) |
 | Tactichord: Glam Strategy | 375435 | [375435-tactichord-glam-strategy.json](./375435-tactichord-glam-strategy.json) |
@@ -8052,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Farm You Grew Up On | 180749 | [180749-the-farm-you-grew-up-on.json](./180749-the-farm-you-grew-up-on.json) |
 | The Farmer Was Replaced | 243931 | [243931-the-farmer-was-replaced.json](./243931-the-farmer-was-replaced.json) |
 | The Farmer's Daughter | 71913 | [71913-the-farmers-daughter.json](./71913-the-farmers-daughter.json) |
+| The Farming Frontier | 261632 | [261632-the-farming-frontier.json](./261632-the-farming-frontier.json) |
 | The Farming Game | 101664 | [101664-the-farming-game.json](./101664-the-farming-game.json) |
 | The Farming One | 383601 | [383601-the-farming-one.json](./383601-the-farming-one.json) |
 | The Farmthis Gallery | 154289 | [154289-the-farmthis-gallery.json](./154289-the-farmthis-gallery.json) |
@@ -10865,6 +10867,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Neverland | 159100 | [159100-the-legend-of-neverland.json](./159100-the-legend-of-neverland.json) |
 | The Legend of Nezha | 350349 | [350349-the-legend-of-nezha.json](./350349-the-legend-of-nezha.json) |
 | The Legend of Ninja | 147947 | [147947-the-legend-of-ninja.json](./147947-the-legend-of-ninja.json) |
+| The Legend of Ogorets 1: Wrat | 261643 | [261643-the-legend-of-ogorets-1-wrat.json](./261643-the-legend-of-ogorets-1-wrat.json) |
+| The Legend of Ogorets 2: Tsundere | 261644 | [261644-the-legend-of-ogorets-2-tsundere.json](./261644-the-legend-of-ogorets-2-tsundere.json) |
 | The Legend of Ogorets 3: Kikimora | 270064 | [270064-the-legend-of-ogorets-3-kikimora.json](./270064-the-legend-of-ogorets-3-kikimora.json) |
 | The Legend of Ogorets 4: Warren | 278921 | [278921-the-legend-of-ogorets-4-warren.json](./278921-the-legend-of-ogorets-4-warren.json) |
 | The Legend of Paco the Jungle Duck | 120845 | [120845-the-legend-of-paco-the-jungle-duck.json](./120845-the-legend-of-paco-the-jungle-duck.json) |
@@ -17822,6 +17826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throw Trucks With Your Mind! | 62053 | [62053-throw-trucks-with-your-mind.json](./62053-throw-trucks-with-your-mind.json) |
 | Throw Wizard | 224636 | [224636-throw-wizard.json](./224636-throw-wizard.json) |
 | Throw Your Phone: Into the Ocean | 288615 | [288615-throw-your-phone-into-the-ocean.json](./288615-throw-your-phone-into-the-ocean.json) |
+| ThrowBomb | 261947 | [261947-throwbomb.json](./261947-throwbomb.json) |
 | ThrowDown | 351778 | [351778-throwdown.json](./351778-throwdown.json) |
 | Throwdown Boxing 2 | 175228 | [175228-throwdown-boxing-2.json](./175228-throwdown-boxing-2.json) |
 | Thrower Defense | 415898 | [415898-thrower-defense.json](./415898-thrower-defense.json) |
@@ -20857,6 +20862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the End of the Way | 327432 | [327432-to-the-end-of-the-way.json](./327432-to-the-end-of-the-way.json) |
 | To the Finale. | 373713 | [373713-to-the-finale.json](./373713-to-the-finale.json) |
 | To The Flame | 288587 | [288587-to-the-flame.json](./288587-to-the-flame.json) |
+| To the Grave: The Battle for Faenora | 261938 | [261938-to-the-grave-the-battle-for-faenora.json](./261938-to-the-grave-the-battle-for-faenora.json) |
 | To The Grave: The Hunters of Faenora | 358385 | [358385-to-the-grave-the-hunters-of-faenora.json](./358385-to-the-grave-the-hunters-of-faenora.json) |
 | To The Grave: The Wildlands of Faenora | 307976 | [307976-to-the-grave-the-wildlands-of-faenora.json](./307976-to-the-grave-the-wildlands-of-faenora.json) |
 | To the Hall of the Mountain King | 279524 | [279524-to-the-hall-of-the-mountain-king.json](./279524-to-the-hall-of-the-mountain-king.json) |
