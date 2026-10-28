@@ -1195,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangaroo | 225814 | [225814-hangaroo.json](./225814-hangaroo.json) |
 | Hangcliff | 252598 | [252598-hangcliff.json](./252598-hangcliff.json) |
 | Hangeki | 17697 | [17697-hangeki.json](./17697-hangeki.json) |
+| Hanger | 238858 | [238858-hanger.json](./238858-hanger.json) |
 | Hanger World | 32504 | [32504-hanger-world.json](./32504-hanger-world.json) |
 | Hangin' Off! | 409331 | [409331-hangin-off.json](./409331-hangin-off.json) |
 | Hanging With Friends | 65346 | [65346-hanging-with-friends.json](./65346-hanging-with-friends.json) |
@@ -4052,6 +4053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helmouth Halls | 125143 | [125143-helmouth-halls.json](./125143-helmouth-halls.json) |
 | Helmscape | 221116 | [221116-helmscape.json](./221116-helmscape.json) |
 | Help | 30931 | [30931-help.json](./30931-help.json) |
+| Help Annie | 239232 | [239232-help-annie.json](./239232-help-annie.json) |
 | Help Bipboop | 275330 | [275330-help-bipboop.json](./275330-help-bipboop.json) |
 | Help Center | 402401 | [402401-help-center.json](./402401-help-center.json) |
 | Help Club | 190991 | [190991-help-club.json](./190991-help-club.json) |
@@ -7240,6 +7242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 2: New York | 122644 | [122644-hitman-2-new-york.json](./122644-hitman-2-new-york.json) |
 | Hitman 2: Silver Edition | 112644 | [112644-hitman-2-silver-edition.json](./112644-hitman-2-silver-edition.json) |
 | Hitman 3 | 134595 | [134595-hitman-3.json](./134595-hitman-3.json) |
+| Hitman 3 Access Pass: Hitman - Complete First Season | 238853 | [238853-hitman-3-access-pass-hitman-complete-first-season.json](./238853-hitman-3-access-pass-hitman-complete-first-season.json) |
 | Hitman 3 Access Pass: Hitman 1 GOTY Edition | 233574 | [233574-hitman-3-access-pass-hitman-1-goty-edition.json](./233574-hitman-3-access-pass-hitman-1-goty-edition.json) |
 | Hitman 3 Access Pass: Hitman 2 Expansion Pass | 307377 | [307377-hitman-3-access-pass-hitman-2-expansion-pass.json](./307377-hitman-3-access-pass-hitman-2-expansion-pass.json) |
 | Hitman 3 Access Pass: Hitman 2 Standard | 233572 | [233572-hitman-3-access-pass-hitman-2-standard.json](./233572-hitman-3-access-pass-hitman-2-standard.json) |
@@ -7467,6 +7470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Nations 2010 | 62038 | [62038-hockey-nations-2010.json](./62038-hockey-nations-2010.json) |
 | Hockey Player VR | 117837 | [117837-hockey-player-vr.json](./117837-hockey-player-vr.json) |
 | Hockey Pong | 93444 | [93444-hockey-pong.json](./93444-hockey-pong.json) |
+| Hockey Puck Juggling | 239246 | [239246-hockey-puck-juggling.json](./239246-hockey-puck-juggling.json) |
 | Hockey Rage 2005 | 70576 | [70576-hockey-rage-2005.json](./70576-hockey-rage-2005.json) |
 | Hockey Shooter VR | 190882 | [190882-hockey-shooter-vr.json](./190882-hockey-shooter-vr.json) |
 | Hockey Solitaire | 102578 | [102578-hockey-solitaire.json](./102578-hockey-solitaire.json) |
@@ -8592,6 +8596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoppup! | 141878 | [141878-hoppup.json](./141878-hoppup.json) |
 | Hoppy Bobby | 58494 | [58494-hoppy-bobby.json](./58494-hoppy-bobby.json) |
 | Hoppy Frog | 253248 | [253248-hoppy-frog.json](./253248-hoppy-frog.json) |
+| Hoppy Frog 2 | 239247 | [239247-hoppy-frog-2.json](./239247-hoppy-frog-2.json) |
 | Hoppy Hoop | 241810 | [241810-hoppy-hoop.json](./241810-hoppy-hoop.json) |
 | Hoppy Hop | 250884 | [250884-hoppy-hop.json](./250884-hoppy-hop.json) |
 | Hoppy Square DX | 253210 | [253210-hoppy-square-dx.json](./253210-hoppy-square-dx.json) |
