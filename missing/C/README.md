@@ -2226,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CardShark Hearts | 83479 | [83479-cardshark-hearts.json](./83479-cardshark-hearts.json) |
 | Cardsharp | 417445 | [417445-cardsharp.json](./417445-cardsharp.json) |
 | Cardstronaut | 345058 | [345058-cardstronaut.json](./345058-cardstronaut.json) |
+| CardSurvival: Tropical Island | 233158 | [233158-cardsurvival-tropical-island.json](./233158-cardsurvival-tropical-island.json) |
 | Cardsweeper | 129459 | [129459-cardsweeper.json](./129459-cardsweeper.json) |
 | Cardterrupters | 213564 | [213564-cardterrupters.json](./213564-cardterrupters.json) |
 | Cardtographer | 330339 | [330339-cardtographer.json](./330339-cardtographer.json) |
@@ -2431,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carol Vorderman's Sudoku | 21886 | [21886-carol-vordermans-sudoku.json](./21886-carol-vordermans-sudoku.json) |
 | Carol Vorderman's Sudoku DVD Game | 264474 | [264474-carol-vordermans-sudoku-dvd-game.json](./264474-carol-vordermans-sudoku-dvd-game.json) |
 | Caroline's Abyss | 169621 | [169621-carolines-abyss.json](./169621-carolines-abyss.json) |
+| Caroline's Camera - Rhythm Game | 233177 | [233177-carolines-camera-rhythm-game.json](./233177-carolines-camera-rhythm-game.json) |
 | Carols in July | 228911 | [228911-carols-in-july.json](./228911-carols-in-july.json) |
 | Carom Billards | 103118 | [103118-carom-billards.json](./103118-carom-billards.json) |
 | Carom Billiards | 149916 | [149916-carom-billiards.json](./149916-carom-billiards.json) |
@@ -7607,6 +7609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circa Infinity | 16312 | [16312-circa-infinity.json](./16312-circa-infinity.json) |
 | Circa Infinity: Ultimate Edition | 186559 | [186559-circa-infinity-ultimate-edition.json](./186559-circa-infinity-ultimate-edition.json) |
 | Circadia | 166567 | [166567-circadia.json](./166567-circadia.json) |
+| Circadia | 233170 | [233170-circadia.json](./233170-circadia.json) |
 | Circadial | 328645 | [328645-circadial.json](./328645-circadial.json) |
 | Circadian City | 116815 | [116815-circadian-city.json](./116815-circadian-city.json) |
 | Circadian Cycle Deepest Sleep | 214708 | [214708-circadian-cycle-deepest-sleep.json](./214708-circadian-cycle-deepest-sleep.json) |
