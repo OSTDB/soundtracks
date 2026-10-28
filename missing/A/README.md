@@ -4989,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akabeth Tactics | 116175 | [116175-akabeth-tactics.json](./116175-akabeth-tactics.json) |
 | Akabos | 330685 | [330685-akabos.json](./330685-akabos.json) |
 | Akagawa Jirou Mystery: Tsuki no Hikari - Shizumeru Kane no Satsujin | 272093 | [272093-akagawa-jirou-mystery-tsuki-no-hikari-shizumeru-kane-no-satsujin.json](./272093-akagawa-jirou-mystery-tsuki-no-hikari-shizumeru-kane-no-satsujin.json) |
+| Akagawa Jirou Mystery: Yasoukyoku - Hon ni Manekareta Satsujin | 268077 | [268077-akagawa-jirou-mystery-yasoukyoku-hon-ni-manekareta-satsujin.json](./268077-akagawa-jirou-mystery-yasoukyoku-hon-ni-manekareta-satsujin.json) |
 | Akagawa Jirou no Yuurei Ressha | 48606 | [48606-akagawa-jirou-no-yuurei-ressha.json](./48606-akagawa-jirou-no-yuurei-ressha.json) |
 | Akagawa Jirou: Majo-tachi no Nemuri | 67712 | [67712-akagawa-jirou-majo-tachi-no-nemuri.json](./67712-akagawa-jirou-majo-tachi-no-nemuri.json) |
 | Akagawa Jirou: Yasoukyoku | 62544 | [62544-akagawa-jirou-yasoukyoku.json](./62544-akagawa-jirou-yasoukyoku.json) |
@@ -7003,6 +7004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaryllis | 347498 | [347498-amaryllis.json](./347498-amaryllis.json) |
 | Amata | 215532 | [215532-amata.json](./215532-amata.json) |
 | Amatarasu Riddle Star | 122796 | [122796-amatarasu-riddle-star.json](./122796-amatarasu-riddle-star.json) |
+| Amateur Action: Super Fishing | 268083 | [268083-amateur-action-super-fishing.json](./268083-amateur-action-super-fishing.json) |
 | Amateur League Golf | 202188 | [202188-amateur-league-golf.json](./202188-amateur-league-golf.json) |
 | Amateur Surgeon 2 | 182501 | [182501-amateur-surgeon-2.json](./182501-amateur-surgeon-2.json) |
 | Amateur Surgeon 3: Tag Team Trauma | 159224 | [159224-amateur-surgeon-3-tag-team-trauma.json](./159224-amateur-surgeon-3-tag-team-trauma.json) |
@@ -12422,6 +12424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of War: Red Tides | 26735 | [26735-art-of-war-red-tides.json](./26735-art-of-war-red-tides.json) |
 | Art Puzzle | 354421 | [354421-art-puzzle.json](./354421-art-puzzle.json) |
 | Art Rally Simulator | 420675 | [420675-art-rally-simulator.json](./420675-art-rally-simulator.json) |
+| Art Reborn: Painting Connoisseur | 268061 | [268061-art-reborn-painting-connoisseur.json](./268061-art-reborn-painting-connoisseur.json) |
 | Art School Pocket | 203214 | [203214-art-school-pocket.json](./203214-art-school-pocket.json) |
 | Art Shop Simulator | 308593 | [308593-art-shop-simulator.json](./308593-art-shop-simulator.json) |
 | Art Spotting Co-op | 330501 | [330501-art-spotting-co-op.json](./330501-art-spotting-co-op.json) |
@@ -14500,6 +14503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atrofil: The Key | 127243 | [127243-atrofil-the-key.json](./127243-atrofil-the-key.json) |
 | Atron 5000 | 79102 | [79102-atron-5000.json](./79102-atron-5000.json) |
 | Atrophia: Diseased Lands | 401026 | [401026-atrophia-diseased-lands.json](./401026-atrophia-diseased-lands.json) |
+| Atrophy: XCIX | 268063 | [268063-atrophy-xcix.json](./268063-atrophy-xcix.json) |
 | Atropos | 326240 | [326240-atropos.json](./326240-atropos.json) |
 | Atrox | 73551 | [73551-atrox.json](./73551-atrox.json) |
 | ATSF Wagon Pack 01 | 224440 | [224440-atsf-wagon-pack-01.json](./224440-atsf-wagon-pack-01.json) |
