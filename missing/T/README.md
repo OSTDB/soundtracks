@@ -4278,8 +4278,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 91204 | [91204-tetris.json](./91204-tetris.json) |
 | Tetris 2 | 254511 | [254511-tetris-2.json](./254511-tetris-2.json) |
 | Tetris 2 | 254512 | [254512-tetris-2.json](./254512-tetris-2.json) |
+| Tetris 2 | 263866 | [263866-tetris-2.json](./263866-tetris-2.json) |
 | Tetris 2 | 9083 | [9083-tetris-2.json](./9083-tetris-2.json) |
 | Tetris 2 + BomBliss | 78699 | [78699-tetris-2-bombliss.json](./78699-tetris-2-bombliss.json) |
+| Tetris 2 + BomBliss LT | 263871 | [263871-tetris-2-bombliss-lt.json](./263871-tetris-2-bombliss-lt.json) |
 | Tetris 4000 | 92874 | [92874-tetris-4000.json](./92874-tetris-4000.json) |
 | Tetris 4D | 70207 | [70207-tetris-4d.json](./70207-tetris-4d.json) |
 | Tetris 64 | 3346 | [3346-tetris-64.json](./3346-tetris-64.json) |
@@ -7652,6 +7654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enchanted Worlds | 290020 | [290020-the-enchanted-worlds.json](./290020-the-enchanted-worlds.json) |
 | The Enchanted Worlds 2 | 238917 | [238917-the-enchanted-worlds-2.json](./238917-the-enchanted-worlds-2.json) |
 | The Enchanting Islands | 54441 | [54441-the-enchanting-islands.json](./54441-the-enchanting-islands.json) |
+| The Encounter | 264175 | [264175-the-encounter.json](./264175-the-encounter.json) |
 | The End | 329067 | [329067-the-end.json](./329067-the-end.json) |
 | The End | 38578 | [38578-the-end.json](./38578-the-end.json) |
 | The End Comes Tomorrow: Gamebook Edition | 399666 | [399666-the-end-comes-tomorrow-gamebook-edition.json](./399666-the-end-comes-tomorrow-gamebook-edition.json) |
@@ -8694,6 +8697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girl Who Wasn't There | 318130 | [318130-the-girl-who-wasnt-there.json](./318130-the-girl-who-wasnt-there.json) |
 | The Girl With The Bow | 354515 | [354515-the-girl-with-the-bow.json](./354515-the-girl-with-the-bow.json) |
 | The Girl with the Golden Glance | 185404 | [185404-the-girl-with-the-golden-glance.json](./185404-the-girl-with-the-golden-glance.json) |
+| The Girl with the Guitar | 264169 | [264169-the-girl-with-the-guitar.json](./264169-the-girl-with-the-guitar.json) |
 | The Girl's Moving Castle | 291759 | [291759-the-girls-moving-castle.json](./291759-the-girls-moving-castle.json) |
 | The Girlfriend From My Novel | 211727 | [211727-the-girlfriend-from-my-novel.json](./211727-the-girlfriend-from-my-novel.json) |
 | The Given | 257265 | [257265-the-given.json](./257265-the-given.json) |
@@ -8862,6 +8866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Battles of Caesar | 69819 | [69819-the-great-battles-of-caesar.json](./69819-the-great-battles-of-caesar.json) |
 | The Great Battles of Hannibal | 73519 | [73519-the-great-battles-of-hannibal.json](./73519-the-great-battles-of-hannibal.json) |
 | The Great Bedroom Escape | 385213 | [385213-the-great-bedroom-escape.json](./385213-the-great-bedroom-escape.json) |
+| The Great Below | 264180 | [264180-the-great-below.json](./264180-the-great-below.json) |
 | The Great Beyond | 401634 | [401634-the-great-beyond.json](./401634-the-great-beyond.json) |
 | The Great Biohazard Escape | 183837 | [183837-the-great-biohazard-escape.json](./183837-the-great-biohazard-escape.json) |
 | The Great Book of Mario | 227972 | [227972-the-great-book-of-mario.json](./227972-the-great-book-of-mario.json) |
@@ -16427,6 +16432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Winter Tower | 226439 | [226439-the-winter-tower.json](./226439-the-winter-tower.json) |
 | The Winter's Deal | 140264 | [140264-the-winters-deal.json](./140264-the-winters-deal.json) |
 | The Winter's Deal: Frosty Edition | 127601 | [127601-the-winters-deal-frosty-edition.json](./127601-the-winters-deal-frosty-edition.json) |
+| The Winter's Embrace: Celestial Gateway | 263867 | [263867-the-winters-embrace-celestial-gateway.json](./263867-the-winters-embrace-celestial-gateway.json) |
 | The Wire | 31955 | [31955-the-wire.json](./31955-the-wire.json) |
 | The Wire Loop Game VR | 32251 | [32251-the-wire-loop-game-vr.json](./32251-the-wire-loop-game-vr.json) |
 | The Wire Man | 208641 | [208641-the-wire-man.json](./208641-the-wire-man.json) |
@@ -16601,6 +16607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World Hockey Championships | 242684 | [242684-the-world-hockey-championships.json](./242684-the-world-hockey-championships.json) |
 | The World II: Hunting Boss | 17843 | [17843-the-world-ii-hunting-boss.json](./17843-the-world-ii-hunting-boss.json) |
 | The World is Binary: Why Love is the Answer | 195562 | [195562-the-world-is-binary-why-love-is-the-answer.json](./195562-the-world-is-binary-why-love-is-the-answer.json) |
+| The World is Drowning | 264158 | [264158-the-world-is-drowning.json](./264158-the-world-is-drowning.json) |
 | The World Is Ruled According to Sexual Prowess So I’m Playing Dirty to Get My Harem: Episode 1 | 400241 | [400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json](./400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json) |
 | The World is Strange | 413513 | [413513-the-world-is-strange.json](./413513-the-world-is-strange.json) |
 | The World is Your Weapon | 120144 | [120144-the-world-is-your-weapon.json](./120144-the-world-is-your-weapon.json) |
