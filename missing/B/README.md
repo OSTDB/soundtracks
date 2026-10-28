@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance of World | 174568 | [174568-balance-of-world.json](./174568-balance-of-world.json) |
 | Balance Roll | 115495 | [115495-balance-roll.json](./115495-balance-roll.json) |
 | Balance the Beam | 58218 | [58218-balance-the-beam.json](./58218-balance-the-beam.json) |
+| Balance the Bottle | 268830 | [268830-balance-the-bottle.json](./268830-balance-the-bottle.json) |
 | Balance The Stick | 255844 | [255844-balance-the-stick.json](./255844-balance-the-stick.json) |
 | Balance Weight | 242397 | [242397-balance-weight.json](./242397-balance-weight.json) |
 | Balance: Umbilical Wake | 410977 | [410977-balance-umbilical-wake.json](./410977-balance-umbilical-wake.json) |
@@ -10438,6 +10439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobble League | 254430 | [254430-bobble-league.json](./254430-bobble-league.json) |
 | Bobble Shop Simulator | 386240 | [386240-bobble-shop-simulator.json](./386240-bobble-shop-simulator.json) |
 | Bobble Wobble | 338657 | [338657-bobble-wobble.json](./338657-bobble-wobble.json) |
+| Bobblehead Baseball | 269140 | [269140-bobblehead-baseball.json](./269140-bobblehead-baseball.json) |
 | Bobblehead College Football | 247171 | [247171-bobblehead-college-football.json](./247171-bobblehead-college-football.json) |
 | Bobbo's Crappy Birthday | 404649 | [404649-bobbos-crappy-birthday.json](./404649-bobbos-crappy-birthday.json) |
 | Bobby | 189997 | [189997-bobby.json](./189997-bobby.json) |
