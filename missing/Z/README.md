@@ -1949,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Tycoon 2: Endangered Species | 79604 | [79604-zoo-tycoon-2-endangered-species.json](./79604-zoo-tycoon-2-endangered-species.json) |
 | Zoo Tycoon 2: Extinct Animals | 21528 | [21528-zoo-tycoon-2-extinct-animals.json](./21528-zoo-tycoon-2-extinct-animals.json) |
 | Zoo Tycoon 2: Folksy Facelift | 381899 | [381899-zoo-tycoon-2-folksy-facelift.json](./381899-zoo-tycoon-2-folksy-facelift.json) |
+| Zoo Tycoon 2: Forgotten Animals | 279800 | [279800-zoo-tycoon-2-forgotten-animals.json](./279800-zoo-tycoon-2-forgotten-animals.json) |
 | Zoo Tycoon 2: Marine Mania | 100132 | [100132-zoo-tycoon-2-marine-mania.json](./100132-zoo-tycoon-2-marine-mania.json) |
 | Zoo Tycoon 2: Paranoia! | 381976 | [381976-zoo-tycoon-2-paranoia.json](./381976-zoo-tycoon-2-paranoia.json) |
 | Zoo Tycoon 2: Radical Remake | 280053 | [280053-zoo-tycoon-2-radical-remake.json](./280053-zoo-tycoon-2-radical-remake.json) |
@@ -1956,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Tycoon DS | 18598 | [18598-zoo-tycoon-ds.json](./18598-zoo-tycoon-ds.json) |
 | Zoo Tycoon Friends | 299574 | [299574-zoo-tycoon-friends.json](./299574-zoo-tycoon-friends.json) |
 | Zoo Tycoon: Dinosaur Digs | 27807 | [27807-zoo-tycoon-dinosaur-digs.json](./27807-zoo-tycoon-dinosaur-digs.json) |
+| Zoo Tycoon: Dinosaur Digs - No Grass, Please! | 279801 | [279801-zoo-tycoon-dinosaur-digs-no-grass-please.json](./279801-zoo-tycoon-dinosaur-digs-no-grass-please.json) |
 | Zoo Tycoon: Marine Mania | 23769 | [23769-zoo-tycoon-marine-mania.json](./23769-zoo-tycoon-marine-mania.json) |
 | Zoo Tycoon: Ultimate Animal Collection | 74712 | [74712-zoo-tycoon-ultimate-animal-collection.json](./74712-zoo-tycoon-ultimate-animal-collection.json) |
 | Zoo Vet | 79929 | [79929-zoo-vet.json](./79929-zoo-vet.json) |
