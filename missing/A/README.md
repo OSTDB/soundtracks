@@ -2882,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advance Wars 1+2: Re-Boot Camp | 152360 | [152360-advance-wars-1-2-re-boot-camp.json](./152360-advance-wars-1-2-re-boot-camp.json) |
 | Advance Wars 2: Black Hole Rising | 236815 | [236815-advance-wars-2-black-hole-rising.json](./236815-advance-wars-2-black-hole-rising.json) |
 | Advance Wars by Web | 251128 | [251128-advance-wars-by-web.json](./251128-advance-wars-by-web.json) |
+| Advance Wars Returns | 246568 | [246568-advance-wars-returns.json](./246568-advance-wars-returns.json) |
 | Advance Wars: Days of Ruin | 1694 | [1694-advance-wars-days-of-ruin.json](./1694-advance-wars-days-of-ruin.json) |
 | Advance Wars: Dual Strike | 1693 | [1693-advance-wars-dual-strike.json](./1693-advance-wars-dual-strike.json) |
 | Advance, Fish! | 379476 | [379476-advance-fish.json](./379476-advance-fish.json) |
@@ -15021,6 +15022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Mechanic Sim | 246865 | [246865-auto-mechanic-sim.json](./246865-auto-mechanic-sim.json) |
 | Auto Modellista | 3791 | [3791-auto-modellista.json](./3791-auto-modellista.json) |
 | Auto Museum 64 | 182903 | [182903-auto-museum-64.json](./182903-auto-museum-64.json) |
+| Auto Necrochess | 246559 | [246559-auto-necrochess.json](./246559-auto-necrochess.json) |
 | Auto Pirates: Captains Cup | 317057 | [317057-auto-pirates-captains-cup.json](./317057-auto-pirates-captains-cup.json) |
 | Auto Puzzle Defense | 182292 | [182292-auto-puzzle-defense.json](./182292-auto-puzzle-defense.json) |
 | Auto Race | 245572 | [245572-auto-race.json](./245572-auto-race.json) |
