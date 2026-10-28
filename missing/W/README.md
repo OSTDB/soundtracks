@@ -2535,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Need to Cook | 258337 | [258337-we-need-to-cook.json](./258337-we-need-to-cook.json) |
 | We Need To Go Deeper: Complete Edition | 367309 | [367309-we-need-to-go-deeper-complete-edition.json](./367309-we-need-to-go-deeper-complete-edition.json) |
 | We Need to Go Deeper: The Atomique | 174156 | [174156-we-need-to-go-deeper-the-atomique.json](./174156-we-need-to-go-deeper-the-atomique.json) |
+| We Need To Talk | 257501 | [257501-we-need-to-talk.json](./257501-we-need-to-talk.json) |
 | We Never Left | 392241 | [392241-we-never-left.json](./392241-we-never-left.json) |
 | We Pretend | 410338 | [410338-we-pretend.json](./410338-we-pretend.json) |
 | We Ramble I: Starwake | 224711 | [224711-we-ramble-i-starwake.json](./224711-we-ramble-i-starwake.json) |
@@ -2571,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We'll always have Paris | 164263 | [164263-well-always-have-paris.json](./164263-well-always-have-paris.json) |
 | We'll Be Alright | 310564 | [310564-well-be-alright.json](./310564-well-be-alright.json) |
 | We'll Meet Once More | 206030 | [206030-well-meet-once-more.json](./206030-well-meet-once-more.json) |
+| We're All Dead Here | 257496 | [257496-were-all-dead-here.json](./257496-were-all-dead-here.json) |
 | We're Back! A Dinosaur's Story | 241985 | [241985-were-back-a-dinosaurs-story.json](./241985-were-back-a-dinosaurs-story.json) |
 | We're Closed Sorry | 298775 | [298775-were-closed-sorry.json](./298775-were-closed-sorry.json) |
 | We're Getting There | 184317 | [184317-were-getting-there.json](./184317-were-getting-there.json) |
@@ -4013,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Day 2: Swan Song | 55020 | [55020-white-day-2-swan-song.json](./55020-white-day-2-swan-song.json) |
 | White Day 2: The Flower That Tells Lies - Complete Edition | 287049 | [287049-white-day-2-the-flower-that-tells-lies-complete-edition.json](./287049-white-day-2-the-flower-that-tells-lies-complete-edition.json) |
 | White Day 2: The Flower That Tells Lies - Ep.2 | 248335 | [248335-white-day-2-the-flower-that-tells-lies-ep-2.json](./248335-white-day-2-the-flower-that-tells-lies-ep-2.json) |
+| White Day 2: The Flower That Tells Lies - Ep.3 | 257484 | [257484-white-day-2-the-flower-that-tells-lies-ep-3.json](./257484-white-day-2-the-flower-that-tells-lies-ep-3.json) |
 | White Day VR: The Courage Test | 150390 | [150390-white-day-vr-the-courage-test.json](./150390-white-day-vr-the-courage-test.json) |
 | White Desert | 256973 | [256973-white-desert.json](./256973-white-desert.json) |
 | White Eternal | 314870 | [314870-white-eternal.json](./314870-white-eternal.json) |
@@ -6832,6 +6835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Working Dawgs: A-Maze-ing Pipes | 23585 | [23585-working-dawgs-a-maze-ing-pipes.json](./23585-working-dawgs-a-maze-ing-pipes.json) |
 | Working Dawgs: Rivet Retriever | 84936 | [84936-working-dawgs-rivet-retriever.json](./84936-working-dawgs-rivet-retriever.json) |
 | Working Days | 408762 | [408762-working-days.json](./408762-working-days.json) |
+| Working Hard Collection | 257497 | [257497-working-hard-collection.json](./257497-working-hard-collection.json) |
 | Working Noir | 255857 | [255857-working-noir.json](./255857-working-noir.json) |
 | Working On It | 298622 | [298622-working-on-it.json](./298622-working-on-it.json) |
 | Working Stiffs | 281335 | [281335-working-stiffs.json](./281335-working-stiffs.json) |
