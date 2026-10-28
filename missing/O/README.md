@@ -2718,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onslaught: Armoured Assault | 116740 | [116740-onslaught-armoured-assault.json](./116740-onslaught-armoured-assault.json) |
 | Onslaught! Arena | 65778 | [65778-onslaught-arena.json](./65778-onslaught-arena.json) |
 | OnSpace | 111076 | [111076-onspace.json](./111076-onspace.json) |
+| Onsui | 278256 | [278256-onsui.json](./278256-onsui.json) |
 | Ontamarama | 21509 | [21509-ontamarama.json](./21509-ontamarama.json) |
 | OnTheFrontLine | 30734 | [30734-onthefrontline.json](./30734-onthefrontline.json) |
 | Ontos | 381219 | [381219-ontos.json](./381219-ontos.json) |
@@ -2990,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation K.A.T.B. | 225713 | [225713-operation-k-a-t-b.json](./225713-operation-k-a-t-b.json) |
 | Operation Kolpowitz | 273226 | [273226-operation-kolpowitz.json](./273226-operation-kolpowitz.json) |
 | Operation Kreep | 33418 | [33418-operation-kreep.json](./33418-operation-kreep.json) |
+| Operation Kyiv | 278254 | [278254-operation-kyiv.json](./278254-operation-kyiv.json) |
 | Operation Logic Bomb | 42653 | [42653-operation-logic-bomb.json](./42653-operation-logic-bomb.json) |
 | Operation Mania | 72959 | [72959-operation-mania.json](./72959-operation-mania.json) |
 | Operation Marakudja | 289428 | [289428-operation-marakudja.json](./289428-operation-marakudja.json) |
