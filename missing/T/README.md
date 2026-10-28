@@ -11274,6 +11274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light City of Karola | 177897 | [177897-the-light-city-of-karola.json](./177897-the-light-city-of-karola.json) |
 | The Light Corridor | 12438 | [12438-the-light-corridor.json](./12438-the-light-corridor.json) |
 | The Light Empire | 34245 | [34245-the-light-empire.json](./34245-the-light-empire.json) |
+| The Light in the Darkness | 237578 | [237578-the-light-in-the-darkness.json](./237578-the-light-in-the-darkness.json) |
 | The Light Inside Us | 55922 | [55922-the-light-inside-us.json](./55922-the-light-inside-us.json) |
 | The Light Keeps Us Safe | 105498 | [105498-the-light-keeps-us-safe.json](./105498-the-light-keeps-us-safe.json) |
 | The Light of Celestia | 335268 | [335268-the-light-of-celestia.json](./335268-the-light-of-celestia.json) |
@@ -14637,6 +14638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slipgate Massacre | 309198 | [309198-the-slipgate-massacre.json](./309198-the-slipgate-massacre.json) |
 | The Slopes | 28790 | [28790-the-slopes.json](./28790-the-slopes.json) |
 | The Slothgate Experiment | 224712 | [224712-the-slothgate-experiment.json](./224712-the-slothgate-experiment.json) |
+| The Slothgate Experiment: Death's Door | 237564 | [237564-the-slothgate-experiment-deaths-door.json](./237564-the-slothgate-experiment-deaths-door.json) |
 | The Slovak Run | 199999 | [199999-the-slovak-run.json](./199999-the-slovak-run.json) |
 | The Slowpoke Shack | 329150 | [329150-the-slowpoke-shack.json](./329150-the-slowpoke-shack.json) |
 | The Slug | 51732 | [51732-the-slug.json](./51732-the-slug.json) |
@@ -14849,6 +14851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirit of Snowflake | 167550 | [167550-the-spirit-of-snowflake.json](./167550-the-spirit-of-snowflake.json) |
 | The Spirit of the Samurai | 226037 | [226037-the-spirit-of-the-samurai.json](./226037-the-spirit-of-the-samurai.json) |
 | The Spirit of Twelve | 89820 | [89820-the-spirit-of-twelve.json](./89820-the-spirit-of-twelve.json) |
+| The Spirit Stone | 237576 | [237576-the-spirit-stone.json](./237576-the-spirit-stone.json) |
 | The Spirit Weaver | 361072 | [361072-the-spirit-weaver.json](./361072-the-spirit-weaver.json) |
 | The Spirit's Turnabout | 308532 | [308532-the-spirits-turnabout.json](./308532-the-spirits-turnabout.json) |
 | The Spiriting Away of Saooni Village | 373094 | [373094-the-spiriting-away-of-saooni-village.json](./373094-the-spiriting-away-of-saooni-village.json) |
