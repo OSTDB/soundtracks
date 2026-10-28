@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Evolution Survivor | 334192 | [334192-kaiju-evolution-survivor.json](./334192-kaiju-evolution-survivor.json) |
 | Kaiju Feeder | 305320 | [305320-kaiju-feeder.json](./305320-kaiju-feeder.json) |
 | Kaiju Fury Turbo | 303609 | [303609-kaiju-fury-turbo.json](./303609-kaiju-fury-turbo.json) |
+| KaiJu Girls | 236475 | [236475-kaiju-girls.json](./236475-kaiju-girls.json) |
 | Kaiju Inc. | 384630 | [384630-kaiju-inc.json](./384630-kaiju-inc.json) |
 | Kaiju Khaos | 123335 | [123335-kaiju-khaos.json](./123335-kaiju-khaos.json) |
 | Kaiju Klimb | 178375 | [178375-kaiju-klimb.json](./178375-kaiju-klimb.json) |
@@ -717,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaperfahrt | 414347 | [414347-kaperfahrt.json](./414347-kaperfahrt.json) |
 | Kapi Hospital | 260739 | [260739-kapi-hospital.json](./260739-kapi-hospital.json) |
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
+| Kapital Punishment 22XX | 236439 | [236439-kapital-punishment-22xx.json](./236439-kapital-punishment-22xx.json) |
 | Kapital: Sparks of Revolution | 144827 | [144827-kapital-sparks-of-revolution.json](./144827-kapital-sparks-of-revolution.json) |
 | Kapital13 | 199299 | [199299-kapital13.json](./199299-kapital13.json) |
 | Kapitan Pronin: Odin protiv vseh | 202199 | [202199-kapitan-pronin-odin-protiv-vseh.json](./202199-kapitan-pronin-odin-protiv-vseh.json) |
@@ -1188,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaya Joshi: Magical Detective | 172011 | [172011-kaya-joshi-magical-detective.json](./172011-kaya-joshi-magical-detective.json) |
 | Kaya The Dog | 381595 | [381595-kaya-the-dog.json](./381595-kaya-the-dog.json) |
 | Kaya's Prophecy | 317866 | [317866-kayas-prophecy.json](./317866-kayas-prophecy.json) |
+| Kayak League | 236467 | [236467-kayak-league.json](./236467-kayak-league.json) |
 | Kayak Photography Sim | 415109 | [415109-kayak-photography-sim.json](./415109-kayak-photography-sim.json) |
 | Kayak VR: Mirage - Soča Valley | 305363 | [305363-kayak-vr-mirage-soca-valley.json](./305363-kayak-vr-mirage-soca-valley.json) |
 | Kayaks Don't Climb | 355550 | [355550-kayaks-dont-climb.json](./355550-kayaks-dont-climb.json) |
