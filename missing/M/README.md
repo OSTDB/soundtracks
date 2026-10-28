@@ -15224,6 +15224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoteMancer | 338704 | [338704-motemancer.json](./338704-motemancer.json) |
 | Motesolo: No Girlfriend Since Birth | 140870 | [140870-motesolo-no-girlfriend-since-birth.json](./140870-motesolo-no-girlfriend-since-birth.json) |
 | Moth | 341424 | [341424-moth.json](./341424-moth.json) |
+| Moth House | 240966 | [240966-moth-house.json](./240966-moth-house.json) |
 | Moth Kubit | 236869 | [236869-moth-kubit.json](./236869-moth-kubit.json) |
 | Moth Lake | 212971 | [212971-moth-lake.json](./212971-moth-lake.json) |
 | Moth Ma'am | 355015 | [355015-moth-maam.json](./355015-moth-maam.json) |
