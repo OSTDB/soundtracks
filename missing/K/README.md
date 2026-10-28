@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karvan | 217187 | [217187-karvan.json](./217187-karvan.json) |
 | Kary | 286958 | [286958-kary.json](./286958-kary.json) |
 | Karyuu Jyou | 62982 | [62982-karyuu-jyou.json](./62982-karyuu-jyou.json) |
+| Karza Football Man 2017 | 233159 | [233159-karza-football-man-2017.json](./233159-karza-football-man-2017.json) |
 | Kas Mind | 418261 | [418261-kas-mind.json](./418261-kas-mind.json) |
 | Kasaba | 217369 | [217369-kasaba.json](./217369-kasaba.json) |
 | Kasama: The Awakening | 349459 | [349459-kasama-the-awakening.json](./349459-kasama-the-awakening.json) |
@@ -2425,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
