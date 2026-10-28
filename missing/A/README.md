@@ -5375,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist Shop Simulator | 312149 | [312149-alchemist-shop-simulator.json](./312149-alchemist-shop-simulator.json) |
 | Alchemist Simulator | 120110 | [120110-alchemist-simulator.json](./120110-alchemist-simulator.json) |
 | Alchemist Tris's Desire | 211417 | [211417-alchemist-triss-desire.json](./211417-alchemist-triss-desire.json) |
+| Alchemist: The Garden | 260260 | [260260-alchemist-the-garden.json](./260260-alchemist-the-garden.json) |
 | Alchemist: The Potion Monger | 219987 | [219987-alchemist-the-potion-monger.json](./219987-alchemist-the-potion-monger.json) |
 | Alchemist's Alcove | 372798 | [372798-alchemists-alcove.json](./372798-alchemists-alcove.json) |
 | Alchemist's Apprentice | 341889 | [341889-alchemists-apprentice.json](./341889-alchemists-apprentice.json) |
@@ -6289,6 +6290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Kamen Rider: Rider Revolution | 81413 | [81413-all-kamen-rider-rider-revolution.json](./81413-all-kamen-rider-rider-revolution.json) |
 | All Lanes Must Exit | 405118 | [405118-all-lanes-must-exit.json](./405118-all-lanes-must-exit.json) |
 | All Men Are Pigs | 183041 | [183041-all-men-are-pigs.json](./183041-all-men-are-pigs.json) |
+| All Mighty Tower | 259960 | [259960-all-mighty-tower.json](./259960-all-mighty-tower.json) |
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
 | All Motors Racing Simulator | 395221 | [395221-all-motors-racing-simulator.json](./395221-all-motors-racing-simulator.json) |
 | All My Friends Are Frogs | 183375 | [183375-all-my-friends-are-frogs.json](./183375-all-my-friends-are-frogs.json) |
@@ -7449,6 +7451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Valentine's Paint Jobs Pack | 353396 | [353396-american-truck-simulator-valentines-paint-jobs-pack.json](./353396-american-truck-simulator-valentines-paint-jobs-pack.json) |
 | American Truck Simulator: Volvo Construction Equipment | 353404 | [353404-american-truck-simulator-volvo-construction-equipment.json](./353404-american-truck-simulator-volvo-construction-equipment.json) |
 | American Truck Simulator: Volvo VNL | 288632 | [288632-american-truck-simulator-volvo-vnl.json](./288632-american-truck-simulator-volvo-vnl.json) |
+| American Truck Simulator: W900 Tuning Pack | 259959 | [259959-american-truck-simulator-w900-tuning-pack.json](./259959-american-truck-simulator-w900-tuning-pack.json) |
 | American Truck Simulator: Washington | 119380 | [119380-american-truck-simulator-washington.json](./119380-american-truck-simulator-washington.json) |
 | American Truck Simulator: Western Star 49X | 288633 | [288633-american-truck-simulator-western-star-49x.json](./288633-american-truck-simulator-western-star-49x.json) |
 | American Truck Simulator: Western Star 57X | 211406 | [211406-american-truck-simulator-western-star-57x.json](./211406-american-truck-simulator-western-star-57x.json) |
@@ -10606,6 +10609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Athena | 113437 | [113437-arcade-archives-athena.json](./113437-arcade-archives-athena.json) |
 | Arcade Archives: Atomic Robo-Kid | 121428 | [121428-arcade-archives-atomic-robo-kid.json](./121428-arcade-archives-atomic-robo-kid.json) |
 | Arcade Archives: Baraduke | 225509 | [225509-arcade-archives-baraduke.json](./225509-arcade-archives-baraduke.json) |
+| Arcade Archives: Baraduke 2 | 259963 | [259963-arcade-archives-baraduke-2.json](./259963-arcade-archives-baraduke-2.json) |
 | Arcade Archives: Bells & Whistles | 129192 | [129192-arcade-archives-bells-and-whistles.json](./129192-arcade-archives-bells-and-whistles.json) |
 | Arcade Archives: Ben Bero Beh | 144801 | [144801-arcade-archives-ben-bero-beh.json](./144801-arcade-archives-ben-bero-beh.json) |
 | Arcade Archives: Bermuda Triangle | 380694 | [380694-arcade-archives-bermuda-triangle.json](./380694-arcade-archives-bermuda-triangle.json) |
