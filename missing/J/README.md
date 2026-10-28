@@ -2535,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joy Pony | 54456 | [54456-joy-pony.json](./54456-joy-pony.json) |
 | Joy Striker | 360705 | [360705-joy-striker.json](./360705-joy-striker.json) |
 | Joy the Pug | 144187 | [144187-joy-the-pug.json](./144187-joy-the-pug.json) |
+| Joy-N Help Me | 262775 | [262775-joy-n-help-me.json](./262775-joy-n-help-me.json) |
 | Joycoin | 323412 | [323412-joycoin.json](./323412-joycoin.json) |
 | Joydoor | 108061 | [108061-joydoor.json](./108061-joydoor.json) |
 | Joyfess: Martin's Secret Recipe | 126521 | [126521-joyfess-martins-secret-recipe.json](./126521-joyfess-martins-secret-recipe.json) |
@@ -3457,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause 4: Digital Deluxe | 103310 | [103310-just-cause-4-digital-deluxe.json](./103310-just-cause-4-digital-deluxe.json) |
 | Just Cause 4: Gold Edition | 103311 | [103311-just-cause-4-gold-edition.json](./103311-just-cause-4-gold-edition.json) |
 | Just Cause 4: Los Demonios | 118919 | [118919-just-cause-4-los-demonios.json](./118919-just-cause-4-los-demonios.json) |
+| Just Cause 4: Neon Racer Pack | 263079 | [263079-just-cause-4-neon-racer-pack.json](./263079-just-cause-4-neon-racer-pack.json) |
 | Just Cause 4: Reloaded | 125637 | [125637-just-cause-4-reloaded.json](./125637-just-cause-4-reloaded.json) |
 | Just Cause 4: Reloaded Content Pack | 164576 | [164576-just-cause-4-reloaded-content-pack.json](./164576-just-cause-4-reloaded-content-pack.json) |
 | Just Cause Collection | 53245 | [53245-just-cause-collection.json](./53245-just-cause-collection.json) |
