@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Toon Standing | 72512 | [72512-last-toon-standing.json](./72512-last-toon-standing.json) |
 | Last Train Home | 131385 | [131385-last-train-home.json](./131385-last-train-home.json) |
 | Last Train Home: Digital Deluxe Edition | 278580 | [278580-last-train-home-digital-deluxe-edition.json](./278580-last-train-home-digital-deluxe-edition.json) |
+| Last Train Outta' Wormtown | 244593 | [244593-last-train-outta-wormtown.json](./244593-last-train-outta-wormtown.json) |
 | Last Ultima | 269088 | [269088-last-ultima.json](./269088-last-ultima.json) |
 | Last Upload | 419136 | [419136-last-upload.json](./419136-last-upload.json) |
 | Last Vanguard | 199290 | [199290-last-vanguard.json](./199290-last-vanguard.json) |
@@ -2432,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends BMX | 325081 | [325081-legends-bmx.json](./325081-legends-bmx.json) |
 | Legends Core Plus | 231401 | [231401-legends-core-plus.json](./231401-legends-core-plus.json) |
 | Legends Esport Manager | 348765 | [348765-legends-esport-manager.json](./348765-legends-esport-manager.json) |
+| Legends Flashback Blast! | 245653 | [245653-legends-flashback-blast.json](./245653-legends-flashback-blast.json) |
 | Legends from Lacoytas: The First Seeker | 201556 | [201556-legends-from-lacoytas-the-first-seeker.json](./201556-legends-from-lacoytas-the-first-seeker.json) |
 | Legends of 100 Heroes | 174669 | [174669-legends-of-100-heroes.json](./174669-legends-of-100-heroes.json) |
 | Legends of Aden | 298674 | [298674-legends-of-aden.json](./298674-legends-of-aden.json) |
@@ -3450,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Quest Remastered/Three Fourths Home Bundle | 99525 | [99525-letter-quest-remastered-three-fourths-home-bundle.json](./99525-letter-quest-remastered-three-fourths-home-bundle.json) |
 | Letter Quest: Grimm's Journey | 17942 | [17942-letter-quest-grimms-journey.json](./17942-letter-quest-grimms-journey.json) |
 | Letter Rooms | 174217 | [174217-letter-rooms.json](./174217-letter-rooms.json) |
+| Letter Schmetter | 245659 | [245659-letter-schmetter.json](./245659-letter-schmetter.json) |
 | Letter Snap: Term Challenge | 409537 | [409537-letter-snap-term-challenge.json](./409537-letter-snap-term-challenge.json) |
 | Letter Soup | 86787 | [86787-letter-soup.json](./86787-letter-soup.json) |
 | Letter Stack | 233106 | [233106-letter-stack.json](./233106-letter-stack.json) |
@@ -3745,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | License to Breed | 262579 | [262579-license-to-breed.json](./262579-license-to-breed.json) |
 | License To Clone | 319689 | [319689-license-to-clone.json](./319689-license-to-clone.json) |
 | License to Grill | 366800 | [366800-license-to-grill.json](./366800-license-to-grill.json) |
+| Lich Defense 2 | 244817 | [244817-lich-defense-2.json](./244817-lich-defense-2.json) |
 | Lich Legend | 159238 | [159238-lich-legend.json](./159238-lich-legend.json) |
 | Lich Lords | 407890 | [407890-lich-lords.json](./407890-lich-lords.json) |
 | Lich of Might | 399777 | [399777-lich-of-might.json](./399777-lich-of-might.json) |
@@ -4950,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lit | 97106 | [97106-lit.json](./97106-lit.json) |
 | LIT: Bend the Light | 126621 | [126621-lit-bend-the-light.json](./126621-lit-bend-the-light.json) |
 | Lita's Dream | 252286 | [252286-litas-dream.json](./252286-litas-dream.json) |
+| Litchi Town | 244934 | [244934-litchi-town.json](./244934-litchi-town.json) |
 | Liteboxer | 125949 | [125949-liteboxer.json](./125949-liteboxer.json) |
 | LiteracyPlanet: Word Mania | 203372 | [203372-literacyplanet-word-mania.json](./203372-literacyplanet-word-mania.json) |
 | Literalchemy | 399680 | [399680-literalchemy.json](./399680-literalchemy.json) |
@@ -6981,6 +6986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Blue 2: Fate's Island | 318018 | [318018-lost-in-blue-2-fates-island.json](./318018-lost-in-blue-2-fates-island.json) |
 | Lost in Blue 3 | 21361 | [21361-lost-in-blue-3.json](./21361-lost-in-blue-3.json) |
 | Lost in Cairo | 284909 | [284909-lost-in-cairo.json](./284909-lost-in-cairo.json) |
+| Lost in Cheese | 244945 | [244945-lost-in-cheese.json](./244945-lost-in-cheese.json) |
 | Lost in Damnation | 401485 | [401485-lost-in-damnation.json](./401485-lost-in-damnation.json) |
 | Lost in Darklight | 250481 | [250481-lost-in-darklight.json](./250481-lost-in-darklight.json) |
 | Lost in Darkness | 258328 | [258328-lost-in-darkness.json](./258328-lost-in-darkness.json) |
