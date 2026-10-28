@@ -1316,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep the Heroes Out | 276656 | [276656-keep-the-heroes-out.json](./276656-keep-the-heroes-out.json) |
 | Keep The House Warm | 291316 | [291316-keep-the-house-warm.json](./291316-keep-the-house-warm.json) |
 | Keep the Keep | 161576 | [161576-keep-the-keep.json](./161576-keep-the-keep.json) |
+| Keep the Lights On | 253547 | [253547-keep-the-lights-on.json](./253547-keep-the-lights-on.json) |
 | Keep Them Below | 59037 | [59037-keep-them-below.json](./59037-keep-them-below.json) |
 | Keep This Land | 311548 | [311548-keep-this-land.json](./311548-keep-this-land.json) |
 | Keep to the Blue | 416861 | [416861-keep-to-the-blue.json](./416861-keep-to-the-blue.json) |
