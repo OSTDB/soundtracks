@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance | 297775 | [297775-balance.json](./297775-balance.json) |
 | Balance | 345348 | [345348-balance.json](./345348-balance.json) |
 | Balance | 57749 | [57749-balance.json](./57749-balance.json) |
+| Balance 100 | 236471 | [236471-balance-100.json](./236471-balance-100.json) |
 | Balance Ball | 150483 | [150483-balance-ball.json](./150483-balance-ball.json) |
 | Balance Balls | 262438 | [262438-balance-balls.json](./262438-balance-balls.json) |
 | Balance Balls 2 | 262442 | [262442-balance-balls-2.json](./262442-balance-balls-2.json) |
@@ -4896,6 +4897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatStream AnimTribe | 395961 | [395961-beatstream-animtribe.json](./395961-beatstream-animtribe.json) |
 | Beatus Creation Solitaire | 201004 | [201004-beatus-creation-solitaire.json](./201004-beatus-creation-solitaire.json) |
 | Beatworks Inc. | 386444 | [386444-beatworks-inc.json](./386444-beatworks-inc.json) |
+| Beau & Bow | 236462 | [236462-beau-and-bow.json](./236462-beau-and-bow.json) |
 | Beau Jolly 48K Value Pack | 100077 | [100077-beau-jolly-48k-value-pack.json](./100077-beau-jolly-48k-value-pack.json) |
 | Beauties Academy: Spellcraft Tournament | 211429 | [211429-beauties-academy-spellcraft-tournament.json](./211429-beauties-academy-spellcraft-tournament.json) |
 | Beauties and Beasts | 317315 | [317315-beauties-and-beasts.json](./317315-beauties-and-beasts.json) |
@@ -5659,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath Floes | 58701 | [58701-beneath-floes.json](./58701-beneath-floes.json) |
 | Beneath Folly | 229214 | [229214-beneath-folly.json](./229214-beneath-folly.json) |
 | Beneath Her Gaze | 335207 | [335207-beneath-her-gaze.json](./335207-beneath-her-gaze.json) |
+| Beneath Her Starry Sky | 236473 | [236473-beneath-her-starry-sky.json](./236473-beneath-her-starry-sky.json) |
 | Beneath Oresa | 182191 | [182191-beneath-oresa.json](./182191-beneath-oresa.json) |
 | Beneath Paris | 406793 | [406793-beneath-paris.json](./406793-beneath-paris.json) |
 | Beneath the Backrooms | 273368 | [273368-beneath-the-backrooms.json](./273368-beneath-the-backrooms.json) |
@@ -7027,6 +7030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo de NouTore: BinTore | 222526 | [222526-bingo-de-noutore-bintore.json](./222526-bingo-de-noutore-bintore.json) |
 | Bingo For Kids | 102597 | [102597-bingo-for-kids.json](./102597-bingo-for-kids.json) |
 | Bingo for Nintendo Switch | 90236 | [90236-bingo-for-nintendo-switch.json](./90236-bingo-for-nintendo-switch.json) |
+| Bingo Girl | 236482 | [236482-bingo-girl.json](./236482-bingo-girl.json) |
 | Bingo Hall | 129436 | [129436-bingo-hall.json](./129436-bingo-hall.json) |
 | Bingo Infinity | 96082 | [96082-bingo-infinity.json](./96082-bingo-infinity.json) |
 | Bingo Luau | 366407 | [366407-bingo-luau.json](./366407-bingo-luau.json) |
