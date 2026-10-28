@@ -10642,6 +10642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Final Blow | 322833 | [322833-arcade-archives-final-blow.json](./322833-arcade-archives-final-blow.json) |
 | Arcade Archives: Final Star Force | 329436 | [329436-arcade-archives-final-star-force.json](./329436-arcade-archives-final-star-force.json) |
 | Arcade Archives: Finalizer Super Transformation | 315828 | [315828-arcade-archives-finalizer-super-transformation.json](./315828-arcade-archives-finalizer-super-transformation.json) |
+| Arcade Archives: Finest Hour | 269156 | [269156-arcade-archives-finest-hour.json](./269156-arcade-archives-finest-hour.json) |
 | Arcade Archives: Flipull | 202800 | [202800-arcade-archives-flipull.json](./202800-arcade-archives-flipull.json) |
 | Arcade Archives: Football Champ | 309045 | [309045-arcade-archives-football-champ.json](./309045-arcade-archives-football-champ.json) |
 | Arcade Archives: Formation Z | 147105 | [147105-arcade-archives-formation-z.json](./147105-arcade-archives-formation-z.json) |
