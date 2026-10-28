@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q&A: A Light-Roasted Romance | 117569 | [117569-q-and-a-a-light-roasted-romance.json](./117569-q-and-a-a-light-roasted-romance.json) |
 | Q&Q Answers | 130889 | [130889-q-and-q-answers.json](./130889-q-and-q-answers.json) |
 | Q1K3 | 170355 | [170355-q1k3.json](./170355-q1k3.json) |
+| Q2 Humanity | 261635 | [261635-q2-humanity.json](./261635-q2-humanity.json) |
 | Q4Max | 252081 | [252081-q4max.json](./252081-q4max.json) |
 | Q73 | 229560 | [229560-q73.json](./229560-q73.json) |
 | Qabara the Artist | 207717 | [207717-qabara-the-artist.json](./207717-qabara-the-artist.json) |
