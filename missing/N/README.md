@@ -1716,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekketsu Koukou Online: Yamada no Fukushuu | 191805 | [191805-nekketsu-koukou-online-yamada-no-fukushuu.json](./191805-nekketsu-koukou-online-yamada-no-fukushuu.json) |
 | Nekketsu Koukou Soccer-bu: World Cup-hen | 191733 | [191733-nekketsu-koukou-soccer-bu-world-cup-hen.json](./191733-nekketsu-koukou-soccer-bu-world-cup-hen.json) |
 | Nekketsu Legend Baseballer | 364535 | [364535-nekketsu-legend-baseballer.json](./364535-nekketsu-legend-baseballer.json) |
+| Nekketsu Monogatari Advance | 266916 | [266916-nekketsu-monogatari-advance.json](./266916-nekketsu-monogatari-advance.json) |
 | Nekketsu Oyako | 61633 | [61633-nekketsu-oyako.json](./61633-nekketsu-oyako.json) |
 | Nekketsu Renegade Kunio-kun | 191643 | [191643-nekketsu-renegade-kunio-kun.json](./191643-nekketsu-renegade-kunio-kun.json) |
 | Nekketsu Tairiku: Burning Heroes | 15935 | [15935-nekketsu-tairiku-burning-heroes.json](./15935-nekketsu-tairiku-burning-heroes.json) |
@@ -2564,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuroslop | 409579 | [409579-neuroslop.json](./409579-neuroslop.json) |
 | Neurospasm | 404079 | [404079-neurospasm.json](./404079-neurospasm.json) |
 | NeuroSquad | 234042 | [234042-neurosquad.json](./234042-neurosquad.json) |
+| Neurotypical | 266961 | [266961-neurotypical.json](./266961-neurotypical.json) |
 | NeuroVoider: Deluxe Edition | 53413 | [53413-neurovoider-deluxe-edition.json](./53413-neurovoider-deluxe-edition.json) |
 | Neurowake | 41896 | [41896-neurowake.json](./41896-neurowake.json) |
 | Neuroza | 335867 | [335867-neuroza.json](./335867-neuroza.json) |
