@@ -2079,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violent Horror Stories 2 | 377849 | [377849-violent-horror-stories-2.json](./377849-violent-horror-stories-2.json) |
 | Violent Horror Stories: Anthology | 312120 | [312120-violent-horror-stories-anthology.json](./312120-violent-horror-stories-anthology.json) |
 | Violent Rush | 388216 | [388216-violent-rush.json](./388216-violent-rush.json) |
+| Violent Selection | 247868 | [247868-violent-selection.json](./247868-violent-selection.json) |
 | Violent Storm New | 40075 | [40075-violent-storm-new.json](./40075-violent-storm-new.json) |
 | Violent Vectors | 68872 | [68872-violent-vectors.json](./68872-violent-vectors.json) |
 | Violent Vengeance: The Universe Hero | 365667 | [365667-violent-vengeance-the-universe-hero.json](./365667-violent-vengeance-the-universe-hero.json) |
