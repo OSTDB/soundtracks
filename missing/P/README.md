@@ -4260,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PetriDish.pw | 55793 | [55793-petridish-pw.json](./55793-petridish-pw.json) |
 | Petrifaction | 97825 | [97825-petrifaction.json](./97825-petrifaction.json) |
 | Petrified Pawns | 318287 | [318287-petrified-pawns.json](./318287-petrified-pawns.json) |
+| Petrin | 273194 | [273194-petrin.json](./273194-petrin.json) |
 | Petris | 141595 | [141595-petris.json](./141595-petris.json) |
 | Petris | 291946 | [291946-petris.json](./291946-petris.json) |
 | Petrol Blood | 156134 | [156134-petrol-blood.json](./156134-petrol-blood.json) |
