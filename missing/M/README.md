@@ -1968,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MainFighter | 185493 | [185493-mainfighter.json](./185493-mainfighter.json) |
 | Mainframe | 182779 | [182779-mainframe.json](./182779-mainframe.json) |
 | Mainframe Escape | 417386 | [417386-mainframe-escape.json](./417386-mainframe-escape.json) |
+| Mainframe Mayhem | 271328 | [271328-mainframe-mayhem.json](./271328-mainframe-mayhem.json) |
 | Mainframe Men | 384147 | [384147-mainframe-men.json](./384147-mainframe-men.json) |
 | MainFrames | 313809 | [313809-mainframes.json](./313809-mainframes.json) |
 | MainGuns | 56478 | [56478-mainguns.json](./56478-mainguns.json) |
@@ -7833,6 +7834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MenheRafflesia | 131584 | [131584-menherafflesia.json](./131584-menherafflesia.json) |
 | Menherafflesia Flowering Abyss | 151691 | [151691-menherafflesia-flowering-abyss.json](./151691-menherafflesia-flowering-abyss.json) |
 | Menherarium | 331675 | [331675-menherarium.json](./331675-menherarium.json) |
+| Menkalinan | 271058 | [271058-menkalinan.json](./271058-menkalinan.json) |
 | Menkyo wo Torou | 198292 | [198292-menkyo-wo-torou.json](./198292-menkyo-wo-torou.json) |
 | Menma's TERA | 249096 | [249096-menmas-tera.json](./249096-menmas-tera.json) |
 | Menos: Precursor | 204944 | [204944-menos-precursor.json](./204944-menos-precursor.json) |
