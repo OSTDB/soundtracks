@@ -5256,7 +5256,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Trials of Magic | 285955 | [285955-seven-trials-of-magic.json](./285955-seven-trials-of-magic.json) |
 | Seven Weeks of Cat Monarchy | 59338 | [59338-seven-weeks-of-cat-monarchy.json](./59338-seven-weeks-of-cat-monarchy.json) |
 | Seven Wonders of St. Clementine | 120944 | [120944-seven-wonders-of-st-clementine.json](./120944-seven-wonders-of-st-clementine.json) |
+| Seven: Deadly Revelation | 239233 | [239233-seven-deadly-revelation.json](./239233-seven-deadly-revelation.json) |
 | Seven: Drowned Past | 280861 | [280861-seven-drowned-past.json](./280861-seven-drowned-past.json) |
+| Seven: Endgame | 239234 | [239234-seven-endgame.json](./239234-seven-endgame.json) |
 | Seven: Enhanced - Collector's Edition | 154529 | [154529-seven-enhanced-collectors-edition.json](./154529-seven-enhanced-collectors-edition.json) |
 | Seven: Reboot | 82056 | [82056-seven-reboot.json](./82056-seven-reboot.json) |
 | Seven: The Days Long Gone - Digital Collector's Edition | 25875 | [25875-seven-the-days-long-gone-digital-collectors-edition.json](./25875-seven-the-days-long-gone-digital-collectors-edition.json) |
@@ -17232,6 +17234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Redemption | 130254 | [130254-space-redemption.json](./130254-space-redemption.json) |
 | Space Reign | 173047 | [173047-space-reign.json](./173047-space-reign.json) |
 | Space Renegades: The Series | 73859 | [73859-space-renegades-the-series.json](./73859-space-renegades-the-series.json) |
+| Space Repairman | 239224 | [239224-space-repairman.json](./239224-space-repairman.json) |
 | Space Rescue | 204328 | [204328-space-rescue.json](./204328-space-rescue.json) |
 | Space Rescue | 70231 | [70231-space-rescue.json](./70231-space-rescue.json) |
 | Space Rescue in Jupiter | 274860 | [274860-space-rescue-in-jupiter.json](./274860-space-rescue-in-jupiter.json) |
@@ -25854,6 +25857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Dash: Our Track Team's Summer Training Trip | 412765 | [412765-summer-dash-our-track-teams-summer-training-trip.json](./412765-summer-dash-our-track-teams-summer-training-trip.json) |
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
 | Summer Delusion: The Girl Only I Can See | 411331 | [411331-summer-delusion-the-girl-only-i-can-see.json](./411331-summer-delusion-the-girl-only-i-can-see.json) |
+| Summer Dino | 239254 | [239254-summer-dino.json](./239254-summer-dino.json) |
 | Summer Events | 41013 | [41013-summer-events.json](./41013-summer-events.json) |
 | Summer Fantasy | 275120 | [275120-summer-fantasy.json](./275120-summer-fantasy.json) |
 | Summer Fling | 22210 | [22210-summer-fling.json](./22210-summer-fling.json) |
