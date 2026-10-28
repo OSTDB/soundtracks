@@ -2580,6 +2580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazard | 186147 | [186147-hazard.json](./186147-hazard.json) |
 | Hazard | 377355 | [377355-hazard.json](./377355-hazard.json) |
 | Hazard Hill Idle | 247602 | [247602-hazard-hill-idle.json](./247602-hazard-hill-idle.json) |
+| Hazard Horizon | 239455 | [239455-hazard-horizon.json](./239455-hazard-horizon.json) |
 | Hazard Level | 177007 | [177007-hazard-level.json](./177007-hazard-level.json) |
 | Hazard Ops | 138066 | [138066-hazard-ops.json](./138066-hazard-ops.json) |
 | Hazard Pay | 291764 | [291764-hazard-pay.json](./291764-hazard-pay.json) |
@@ -2642,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | He Was | 184060 | [184060-he-was.json](./184060-he-was.json) |
 | He Watches Me | 264342 | [264342-he-watches-me.json](./264342-he-watches-me.json) |
 | He Who Tied The Bell | 335785 | [335785-he-who-tied-the-bell.json](./335785-he-who-tied-the-bell.json) |
+| He Who Watches | 239828 | [239828-he-who-watches.json](./239828-he-who-watches.json) |
 | He-162 Volksjäger: Tour of Duty | 182 | [182-he-162-volksjager-tour-of-duty.json](./182-he-162-volksjager-tour-of-duty.json) |
 | He-Man | 198343 | [198343-he-man.json](./198343-he-man.json) |
 | He-Man and the Masters of the Universe: Dragon Pearl of Destruction | 361830 | [361830-he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction.json](./361830-he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction.json) |
@@ -4220,6 +4222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Casual Jigsaw: Witches | 245768 | [245768-hentai-casual-jigsaw-witches.json](./245768-hentai-casual-jigsaw-witches.json) |
 | Hentai Casual Jigsaw: Zombies | 301672 | [301672-hentai-casual-jigsaw-zombies.json](./301672-hentai-casual-jigsaw-zombies.json) |
 | Hentai Casual Slider 2 | 234736 | [234736-hentai-casual-slider-2.json](./234736-hentai-casual-slider-2.json) |
+| Hentai Casual Swap | 239809 | [239809-hentai-casual-swap.json](./239809-hentai-casual-swap.json) |
 | Hentai Casual Swap 2 | 246015 | [246015-hentai-casual-swap-2.json](./246015-hentai-casual-swap-2.json) |
 | Hentai Casual Swap 3 | 371402 | [371402-hentai-casual-swap-3.json](./371402-hentai-casual-swap-3.json) |
 | Hentai Celestia | 369376 | [369376-hentai-celestia.json](./369376-hentai-celestia.json) |
@@ -4637,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Senpai: Thicc Fairies of Forest Lake | 372118 | [372118-hentai-senpai-thicc-fairies-of-forest-lake.json](./372118-hentai-senpai-thicc-fairies-of-forest-lake.json) |
 | Hentai Senpai: Thiccmas Cumsluts | 384704 | [384704-hentai-senpai-thiccmas-cumsluts.json](./384704-hentai-senpai-thiccmas-cumsluts.json) |
 | Hentai Sensei | 301666 | [301666-hentai-sensei.json](./301666-hentai-sensei.json) |
+| Hentai Sera | 239832 | [239832-hentai-sera.json](./239832-hentai-sera.json) |
 | Hentai Series: Classic | 236188 | [236188-hentai-series-classic.json](./236188-hentai-series-classic.json) |
 | Hentai Sexy Nurse | 411074 | [411074-hentai-sexy-nurse.json](./411074-hentai-sexy-nurse.json) |
 | Hentai Sexy Nurses | 222284 | [222284-hentai-sexy-nurses.json](./222284-hentai-sexy-nurses.json) |
@@ -5146,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Wars: Fantasy Battles | 233394 | [233394-hero-wars-fantasy-battles.json](./233394-hero-wars-fantasy-battles.json) |
 | Hero Well | 249200 | [249200-hero-well.json](./249200-hero-well.json) |
 | Hero Wheels | 213343 | [213343-hero-wheels.json](./213343-hero-wheels.json) |
+| Hero World | 239801 | [239801-hero-world.json](./239801-hero-world.json) |
 | Hero World | 322376 | [322376-hero-world.json](./322376-hero-world.json) |
 | Hero World 2 | 329129 | [329129-hero-world-2.json](./329129-hero-world-2.json) |
 | Hero X | 94611 | [94611-hero-x.json](./94611-hero-x.json) |
@@ -10536,6 +10541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Moon | 168150 | [168150-hunting-moon.json](./168150-hunting-moon.json) |
 | Hunting Moon vol.2 | 165022 | [165022-hunting-moon-vol-2.json](./165022-hunting-moon-vol-2.json) |
 | Hunting Pack | 373309 | [373309-hunting-pack.json](./373309-hunting-pack.json) |
+| Hunting Pearl Creek | 239806 | [239806-hunting-pearl-creek.json](./239806-hunting-pearl-creek.json) |
 | Hunting Pro Simulator | 407553 | [407553-hunting-pro-simulator.json](./407553-hunting-pro-simulator.json) |
 | Hunting Seas | 312169 | [312169-hunting-seas.json](./312169-hunting-seas.json) |
 | Hunting Season | 210056 | [210056-hunting-season.json](./210056-hunting-season.json) |
