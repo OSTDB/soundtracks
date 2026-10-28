@@ -7268,6 +7268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RMF's Ragdoll Physics Experiments | 344800 | [344800-rmfs-ragdoll-physics-experiments.json](./344800-rmfs-ragdoll-physics-experiments.json) |
 | RMX Real Motocross | 147133 | [147133-rmx-real-motocross.json](./147133-rmx-real-motocross.json) |
 | RNFF: Running Naked in a Field of Flowers | 69544 | [69544-rnff-running-naked-in-a-field-of-flowers.json](./69544-rnff-running-naked-in-a-field-of-flowers.json) |
+| RNG & Yuri | 228867 | [228867-rng-and-yuri.json](./228867-rng-and-yuri.json) |
 | RNG Quest | 338865 | [338865-rng-quest.json](./338865-rng-quest.json) |
 | RNG Quest | 338866 | [338866-rng-quest.json](./338866-rng-quest.json) |
 | RNG Royale | 191532 | [191532-rng-royale.json](./191532-rng-royale.json) |
