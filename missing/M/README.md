@@ -4382,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Bass | 267344 | [267344-master-bass.json](./267344-master-bass.json) |
 | Master Bill | 63092 | [63092-master-bill.json](./63092-master-bill.json) |
 | Master Bladesmith | 127219 | [127219-master-bladesmith.json](./127219-master-bladesmith.json) |
+| Master Blaster | 268078 | [268078-master-blaster.json](./268078-master-blaster.json) |
 | Master Blaster | 292779 | [292779-master-blaster.json](./292779-master-blaster.json) |
 | Master Blaster VR | 149851 | [149851-master-blaster-vr.json](./149851-master-blaster-vr.json) |
 | Master Break | 177553 | [177553-master-break.json](./177553-master-break.json) |
@@ -10254,6 +10255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimi Wuhui | 410959 | [410959-mimi-wuhui.json](./410959-mimi-wuhui.json) |
 | Mimi's Party Fun | 209222 | [209222-mimis-party-fun.json](./209222-mimis-party-fun.json) |
 | Mimi's Restaurant helper | 387678 | [387678-mimis-restaurant-helper.json](./387678-mimis-restaurant-helper.json) |
+| Mimic | 268062 | [268062-mimic.json](./268062-mimic.json) |
 | Mimic | 269973 | [269973-mimic.json](./269973-mimic.json) |
 | Mimic | 275683 | [275683-mimic.json](./275683-mimic.json) |
 | Mimic | 286103 | [286103-mimic.json](./286103-mimic.json) |
@@ -17836,6 +17838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: Puzzle Party | 70864 | [70864-my-little-pony-puzzle-party.json](./70864-my-little-pony-puzzle-party.json) |
 | My Little Pony: Rainbow Runners | 138460 | [138460-my-little-pony-rainbow-runners.json](./138460-my-little-pony-rainbow-runners.json) |
 | My Little Pony: Story Creator | 138463 | [138463-my-little-pony-story-creator.json](./138463-my-little-pony-story-creator.json) |
+| My Little Pony: Super Luna Game DX | 268045 | [268045-my-little-pony-super-luna-game-dx.json](./268045-my-little-pony-super-luna-game-dx.json) |
 | My Little Pony: The Movie | 138465 | [138465-my-little-pony-the-movie.json](./138465-my-little-pony-the-movie.json) |
 | My Little Pony: Twilight Sparkle, Teacher for a Day | 79615 | [79615-my-little-pony-twilight-sparkle-teacher-for-a-day.json](./79615-my-little-pony-twilight-sparkle-teacher-for-a-day.json) |
 | My Little Prince: A Jigsaw Puzzle Tale | 159852 | [159852-my-little-prince-a-jigsaw-puzzle-tale.json](./159852-my-little-prince-a-jigsaw-puzzle-tale.json) |
