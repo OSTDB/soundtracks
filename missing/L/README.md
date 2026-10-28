@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laid-Back Camp All-in-one!! | 255095 | [255095-laid-back-camp-all-in-one.json](./255095-laid-back-camp-all-in-one.json) |
 | Laid-Back Camp: Camping Cook-Off! | 402936 | [402936-laid-back-camp-camping-cook-off.json](./402936-laid-back-camp-camping-cook-off.json) |
 | Laid-Back Camp: Have a nice day! | 146334 | [146334-laid-back-camp-have-a-nice-day.json](./146334-laid-back-camp-have-a-nice-day.json) |
+| Laid-Back Camp: Have a nice day! | 249398 | [249398-laid-back-camp-have-a-nice-day.json](./249398-laid-back-camp-have-a-nice-day.json) |
 | Laid-Back Camp: Have a nice day! - Limited Edition | 146335 | [146335-laid-back-camp-have-a-nice-day-limited-edition.json](./146335-laid-back-camp-have-a-nice-day-limited-edition.json) |
 | Laid-Back Camp: Puzzle Camp | 392453 | [392453-laid-back-camp-puzzle-camp.json](./392453-laid-back-camp-puzzle-camp.json) |
 | Laid-Back Camp: Virtual - Fumoto Campsite | 147813 | [147813-laid-back-camp-virtual-fumoto-campsite.json](./147813-laid-back-camp-virtual-fumoto-campsite.json) |
