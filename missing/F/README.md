@@ -6066,7 +6066,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Silver Pine | 297079 | [297079-five-nights-at-silver-pine.json](./297079-five-nights-at-silver-pine.json) |
 | Five Nights At Skibidi Toilets | 311529 | [311529-five-nights-at-skibidi-toilets.json](./311529-five-nights-at-skibidi-toilets.json) |
 | Five Nights At Smog's Poutinerie | 236315 | [236315-five-nights-at-smogs-poutinerie.json](./236315-five-nights-at-smogs-poutinerie.json) |
+| Five Nights at Sonic's | 274064 | [274064-five-nights-at-sonics.json](./274064-five-nights-at-sonics.json) |
+| Five Nights at Sonic's 2 | 274065 | [274065-five-nights-at-sonics-2.json](./274065-five-nights-at-sonics-2.json) |
+| Five Nights at Sonic's 3 | 274067 | [274067-five-nights-at-sonics-3.json](./274067-five-nights-at-sonics-3.json) |
 | Five Nights at Sonic's 3 Reburned | 182216 | [182216-five-nights-at-sonics-3-reburned.json](./182216-five-nights-at-sonics-3-reburned.json) |
+| Five Nights at Sonic's 4 | 274069 | [274069-five-nights-at-sonics-4.json](./274069-five-nights-at-sonics-4.json) |
 | Five Nights at Sonic's 4: Halloween Edition | 413155 | [413155-five-nights-at-sonics-4-halloween-edition.json](./413155-five-nights-at-sonics-4-halloween-edition.json) |
 | Five Nights at Sonic's Remastered | 333960 | [333960-five-nights-at-sonics-remastered.json](./333960-five-nights-at-sonics-remastered.json) |
 | Five Nights at Sonic's Side Story Act 1 | 335149 | [335149-five-nights-at-sonics-side-story-act-1.json](./335149-five-nights-at-sonics-side-story-act-1.json) |
@@ -7207,6 +7211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowxie's Mission | 307778 | [307778-flowxies-mission.json](./307778-flowxies-mission.json) |
 | Floyd Factory Jam | 319704 | [319704-floyd-factory-jam.json](./319704-floyd-factory-jam.json) |
 | Floyd of the Jungle | 24987 | [24987-floyd-of-the-jungle.json](./24987-floyd-of-the-jungle.json) |
+| Floyd's Sticker Squad | 274061 | [274061-floyds-sticker-squad.json](./274061-floyds-sticker-squad.json) |
 | FLS | 127755 | [127755-fls.json](./127755-fls.json) |
 | Flub Fighter | 31218 | [31218-flub-fighter.json](./31218-flub-fighter.json) |
 | Flucht Scorched | 112691 | [112691-flucht-scorched.json](./112691-flucht-scorched.json) |
@@ -9331,6 +9336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fourfit | 92983 | [92983-fourfit.json](./92983-fourfit.json) |
 | FourFourTwo Touchline Passion | 68711 | [68711-fourfourtwo-touchline-passion.json](./68711-fourfourtwo-touchline-passion.json) |
 | FourPlay Chess | 193236 | [193236-fourplay-chess.json](./193236-fourplay-chess.json) |
+| Foursite | 273735 | [273735-foursite.json](./273735-foursite.json) |
 | Fourspell Survivors Online | 224247 | [224247-fourspell-survivors-online.json](./224247-fourspell-survivors-online.json) |
 | Fourteen Years of Flames | 380664 | [380664-fourteen-years-of-flames.json](./380664-fourteen-years-of-flames.json) |
 | Fourth Dimension | 362405 | [362405-fourth-dimension.json](./362405-fourth-dimension.json) |
@@ -9497,6 +9503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractions | 42172 | [42172-fractions.json](./42172-fractions.json) |
 | Fractious | 329458 | [329458-fractious.json](./329458-fractious.json) |
 | Fractium | 217512 | [217512-fractium.json](./217512-fractium.json) |
+| Fracture | 273730 | [273730-fracture.json](./273730-fracture.json) |
 | Fracture | 374888 | [374888-fracture.json](./374888-fracture.json) |
 | Fracture | 6996 | [6996-fracture.json](./6996-fracture.json) |
 | Fracture In Space | 217291 | [217291-fracture-in-space.json](./217291-fracture-in-space.json) |
