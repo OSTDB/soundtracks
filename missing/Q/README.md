@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarrel | 20659 | [20659-quarrel.json](./20659-quarrel.json) |
 | Quarrel Hill | 295330 | [295330-quarrel-hill.json](./295330-quarrel-hill.json) |
 | Quarres | 148864 | [148864-quarres.json](./148864-quarres.json) |
+| Quarta Amethyst | 258062 | [258062-quarta-amethyst.json](./258062-quarta-amethyst.json) |
 | Quartal | 370145 | [370145-quartal.json](./370145-quartal.json) |
 | Quarter Back Scramble: American Football Game | 48823 | [48823-quarter-back-scramble-american-football-game.json](./48823-quarter-back-scramble-american-football-game.json) |
 | Quarter Dollar | 132678 | [132678-quarter-dollar.json](./132678-quarter-dollar.json) |
