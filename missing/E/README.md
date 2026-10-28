@@ -3010,6 +3010,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Fairy Friends: Secret of the Fairy Queen | 68031 | [68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json](./68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json) |
 | Enchanted Hearts | 298901 | [298901-enchanted-hearts.json](./298901-enchanted-hearts.json) |
 | Enchanted in the Moonlight | 238427 | [238427-enchanted-in-the-moonlight.json](./238427-enchanted-in-the-moonlight.json) |
+| Enchanted in the Moonlight: Fated Romance - A Foxy Butler!? | 238156 | [238156-enchanted-in-the-moonlight-fated-romance-a-foxy-butler.json](./238156-enchanted-in-the-moonlight-fated-romance-a-foxy-butler.json) |
+| Enchanted in the Moonlight: Fated Romance - Love in the Time of Blogging | 238155 | [238155-enchanted-in-the-moonlight-fated-romance-love-in-the-time-of-blogging.json](./238155-enchanted-in-the-moonlight-fated-romance-love-in-the-time-of-blogging.json) |
+| Enchanted in the Moonlight: Fated Romance - The Dear Bird's Call | 238154 | [238154-enchanted-in-the-moonlight-fated-romance-the-dear-birds-call.json](./238154-enchanted-in-the-moonlight-fated-romance-the-dear-birds-call.json) |
+| Enchanted in the Moonlight: Fated Romance - The Weight of Love | 238153 | [238153-enchanted-in-the-moonlight-fated-romance-the-weight-of-love.json](./238153-enchanted-in-the-moonlight-fated-romance-the-weight-of-love.json) |
 | Enchanted in the Moonlight: Kiryu, Chikage & Yukinojo | 119510 | [119510-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo.json](./119510-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo.json) |
 | Enchanted in the Moonlight: Kiryu, Chikage & Yukinojo DLC Pack | 238188 | [238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json](./238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json) |
 | Enchanted in the Moonlight: Miyabi, Kyoga & Samon | 119446 | [119446-enchanted-in-the-moonlight-miyabi-kyoga-and-samon.json](./119446-enchanted-in-the-moonlight-miyabi-kyoga-and-samon.json) |
