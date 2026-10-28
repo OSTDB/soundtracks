@@ -4456,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellmount: Automata | 341633 | [341633-cellmount-automata.json](./341633-cellmount-automata.json) |
 | Cellofania | 279580 | [279580-cellofania.json](./279580-cellofania.json) |
 | Cellosseum | 264228 | [264228-cellosseum.json](./264228-cellosseum.json) |
+| Cells | 273752 | [273752-cells.json](./273752-cells.json) |
 | Cells | 331385 | [331385-cells.json](./331385-cells.json) |
 | Cells & Serpents | 262191 | [262191-cells-and-serpents.json](./262191-cells-and-serpents.json) |
 | Cells at Work: Battle | 174786 | [174786-cells-at-work-battle.json](./174786-cells-at-work-battle.json) |
@@ -11435,6 +11436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conga Master Go! | 148265 | [148265-conga-master-go.json](./148265-conga-master-go.json) |
 | Congee | 139276 | [139276-congee.json](./139276-congee.json) |
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
+| Congestion 384 | 273727 | [273727-congestion-384.json](./273727-congestion-384.json) |
 | Congestion Control | 274152 | [274152-congestion-control.json](./274152-congestion-control.json) |
 | Conglomerate 451 | 116593 | [116593-conglomerate-451.json](./116593-conglomerate-451.json) |
 | Conglomerate 451: Overloaded | 151596 | [151596-conglomerate-451-overloaded.json](./151596-conglomerate-451-overloaded.json) |
