@@ -10728,6 +10728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Get Caught | 353153 | [353153-dont-get-caught.json](./353153-dont-get-caught.json) |
 | Don't Get Distracted | 204326 | [204326-dont-get-distracted.json](./204326-dont-get-distracted.json) |
 | Don't Get Eaten! | 219751 | [219751-dont-get-eaten.json](./219751-dont-get-eaten.json) |
+| Don't Get Fired! | 242156 | [242156-dont-get-fired.json](./242156-dont-get-fired.json) |
 | Don't Get Fired! | 406825 | [406825-dont-get-fired.json](./406825-dont-get-fired.json) |
 | Don't Get Got | 329216 | [329216-dont-get-got.json](./329216-dont-get-got.json) |
 | Don't Get Hit in the Face | 28263 | [28263-dont-get-hit-in-the-face.json](./28263-dont-get-hit-in-the-face.json) |
