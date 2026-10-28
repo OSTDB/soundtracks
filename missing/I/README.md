@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Identity | 26962 | [26962-identity.json](./26962-identity.json) |
 | Identity Escape | 315670 | [315670-identity-escape.json](./315670-identity-escape.json) |
 | Identity Forwarded | 220213 | [220213-identity-forwarded.json](./220213-identity-forwarded.json) |
+| IDentity Rebels | 236474 | [236474-identity-rebels.json](./236474-identity-rebels.json) |
 | Identity Sector | 119694 | [119694-identity-sector.json](./119694-identity-sector.json) |
 | Identity: Town Square | 111884 | [111884-identity-town-square.json](./111884-identity-town-square.json) |
 | Ideology in Friction: Append | 170990 | [170990-ideology-in-friction-append.json](./170990-ideology-in-friction-append.json) |
@@ -2531,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Tenebris | 405683 | [405683-in-tenebris.json](./405683-in-tenebris.json) |
 | In the 1st Degree | 22601 | [22601-in-the-1st-degree.json](./22601-in-the-1st-degree.json) |
 | In the alley: Our hometown | 221415 | [221415-in-the-alley-our-hometown.json](./221415-in-the-alley-our-hometown.json) |
+| In the Backrooms | 236463 | [236463-in-the-backrooms.json](./236463-in-the-backrooms.json) |
 | In the Bag | 125112 | [125112-in-the-bag.json](./125112-in-the-bag.json) |
 | In the Black | 125370 | [125370-in-the-black.json](./125370-in-the-black.json) |
 | In the Box | 237655 | [237655-in-the-box.json](./237655-in-the-box.json) |
