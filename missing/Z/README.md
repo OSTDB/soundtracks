@@ -1796,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombieville USA | 69191 | [69191-zombieville-usa.json](./69191-zombieville-usa.json) |
 | Zombieville USA 3D | 212108 | [212108-zombieville-usa-3d.json](./212108-zombieville-usa-3d.json) |
 | ZombieVital DG | 147267 | [147267-zombievital-dg.json](./147267-zombievital-dg.json) |
+| ZombieWave FM | 253462 | [253462-zombiewave-fm.json](./253462-zombiewave-fm.json) |
 | ZombieWave: Unlimited Challenges | 168063 | [168063-zombiewave-unlimited-challenges.json](./168063-zombiewave-unlimited-challenges.json) |
 | Zombiewood | 228003 | [228003-zombiewood.json](./228003-zombiewood.json) |
 | Zombiewood: Survival Shooter | 294237 | [294237-zombiewood-survival-shooter.json](./294237-zombiewood-survival-shooter.json) |
