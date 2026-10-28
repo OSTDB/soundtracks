@@ -4637,6 +4637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninku: Tsuyokina Yatsura no Daigekitotsu! | 60536 | [60536-ninku-tsuyokina-yatsura-no-daigekitotsu.json](./60536-ninku-tsuyokina-yatsura-no-daigekitotsu.json) |
 | Ninkyo Dantai | 300496 | [300496-ninkyo-dantai.json](./300496-ninkyo-dantai.json) |
 | NinMaki | 149942 | [149942-ninmaki.json](./149942-ninmaki.json) |
+| Ninnin | 255491 | [255491-ninnin.json](./255491-ninnin.json) |
 | NinNinDays | 122518 | [122518-ninnindays.json](./122518-ninnindays.json) |
 | NinNinDays 2 | 230799 | [230799-ninnindays-2.json](./230799-ninnindays-2.json) |
 | NinNinDays2 | 186695 | [186695-ninnindays2.json](./186695-ninnindays2.json) |
@@ -5558,6 +5559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomia | 338730 | [338730-nomia.json](./338730-nomia.json) |
 | Nominader | 118244 | [118244-nominader.json](./118244-nominader.json) |
 | Nominal | 163312 | [163312-nominal.json](./163312-nominal.json) |
+| Nomltest | 255829 | [255829-nomltest.json](./255829-nomltest.json) |
 | NomNom Sugar Game | 120216 | [120216-nomnom-sugar-game.json](./120216-nomnom-sugar-game.json) |
 | Nomnomia | 398825 | [398825-nomnomia.json](./398825-nomnomia.json) |
 | NomNomNom | 340580 | [340580-nomnomnom.json](./340580-nomnomnom.json) |
