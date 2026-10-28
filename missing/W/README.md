@@ -3277,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What is this Thing?: Episode 2 | 323216 | [323216-what-is-this-thing-episode-2.json](./323216-what-is-this-thing-episode-2.json) |
 | What is this Thing?: Episode 3 | 323218 | [323218-what-is-this-thing-episode-3.json](./323218-what-is-this-thing-episode-3.json) |
 | What Kokkuri-san says will come true | 376878 | [376878-what-kokkuri-san-says-will-come-true.json](./376878-what-kokkuri-san-says-will-come-true.json) |
+| What Lies Behind | 271858 | [271858-what-lies-behind.json](./271858-what-lies-behind.json) |
 | What Lies Beneath | 269684 | [269684-what-lies-beneath.json](./269684-what-lies-beneath.json) |
 | What Lies Between | 199118 | [199118-what-lies-between.json](./199118-what-lies-between.json) |
 | What Lies Frozen | 342560 | [342560-what-lies-frozen.json](./342560-what-lies-frozen.json) |
@@ -4433,9 +4434,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Buster: Heroes of Titan | 75152 | [75152-wild-buster-heroes-of-titan.json](./75152-wild-buster-heroes-of-titan.json) |
 | Wild Card | 37349 | [37349-wild-card.json](./37349-wild-card.json) |
 | Wild Card Football: Deluxe Edition | 260012 | [260012-wild-card-football-deluxe-edition.json](./260012-wild-card-football-deluxe-edition.json) |
+| Wild Card Football: Legacy Players Kickoff Pack | 271555 | [271555-wild-card-football-legacy-players-kickoff-pack.json](./271555-wild-card-football-legacy-players-kickoff-pack.json) |
 | Wild Card Football: Legacy RB Pack | 291703 | [291703-wild-card-football-legacy-rb-pack.json](./291703-wild-card-football-legacy-rb-pack.json) |
 | Wild Card Football: Legacy WR Pack | 304463 | [304463-wild-card-football-legacy-wr-pack.json](./304463-wild-card-football-legacy-wr-pack.json) |
 | Wild Card Football: Ultimate Edition | 260013 | [260013-wild-card-football-ultimate-edition.json](./260013-wild-card-football-ultimate-edition.json) |
+| Wild Card Football: Ultimate Outfit Pack | 271556 | [271556-wild-card-football-ultimate-outfit-pack.json](./271556-wild-card-football-ultimate-outfit-pack.json) |
 | Wild Castle | 223332 | [223332-wild-castle.json](./223332-wild-castle.json) |
 | Wild Cats | 365662 | [365662-wild-cats.json](./365662-wild-cats.json) |
 | Wild Cats of Wasteland | 117131 | [117131-wild-cats-of-wasteland.json](./117131-wild-cats-of-wasteland.json) |
