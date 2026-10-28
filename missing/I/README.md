@@ -2905,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiemon Card Adventure | 62720 | [62720-indiemon-card-adventure.json](./62720-indiemon-card-adventure.json) |
 | Indiemon VS Zombies | 60313 | [60313-indiemon-vs-zombies.json](./60313-indiemon-vs-zombies.json) |
 | Indiemon: Earth Nation - Villain Version | 62721 | [62721-indiemon-earth-nation-villain-version.json](./62721-indiemon-earth-nation-villain-version.json) |
+| Indiepocalypse #1 | 240975 | [240975-indiepocalypse-1.json](./240975-indiepocalypse-1.json) |
 | Indiepocalypse #3 | 248808 | [248808-indiepocalypse-3.json](./248808-indiepocalypse-3.json) |
 | Indiepocalypse #42 | 256179 | [256179-indiepocalypse-42.json](./256179-indiepocalypse-42.json) |
 | Indiepocalypse #52 | 362700 | [362700-indiepocalypse-52.json](./362700-indiepocalypse-52.json) |
@@ -3134,6 +3135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernal Cleaner | 411806 | [411806-infernal-cleaner.json](./411806-infernal-cleaner.json) |
 | Infernal Dream Collection | 53230 | [53230-infernal-dream-collection.json](./53230-infernal-dream-collection.json) |
 | Infernal Eclipse of Ragnarok | 379350 | [379350-infernal-eclipse-of-ragnarok.json](./379350-infernal-eclipse-of-ragnarok.json) |
+| Infernal Elements | 240618 | [240618-infernal-elements.json](./240618-infernal-elements.json) |
 | Infernal House | 174633 | [174633-infernal-house.json](./174633-infernal-house.json) |
 | Infernal Hunt | 303580 | [303580-infernal-hunt.json](./303580-infernal-hunt.json) |
 | Infernal Legions | 326000 | [326000-infernal-legions.json](./326000-infernal-legions.json) |
