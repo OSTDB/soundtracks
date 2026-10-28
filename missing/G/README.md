@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Glitch | 250761 | [250761-galactic-glitch.json](./250761-galactic-glitch.json) |
 | Galactic Glitch: Prologue | 211690 | [211690-galactic-glitch-prologue.json](./211690-galactic-glitch-prologue.json) |
 | Galactic Gravity Golf | 387921 | [387921-galactic-gravity-golf.json](./387921-galactic-gravity-golf.json) |
+| Galactic Grinder | 253526 | [253526-galactic-grinder.json](./253526-galactic-grinder.json) |
 | Galactic Guardian | 316807 | [316807-galactic-guardian.json](./316807-galactic-guardian.json) |
 | Galactic Gym: Fitness Center Management | 199610 | [199610-galactic-gym-fitness-center-management.json](./199610-galactic-gym-fitness-center-management.json) |
 | Galactic Harvester | 75905 | [75905-galactic-harvester.json](./75905-galactic-harvester.json) |
@@ -1394,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamp | 25717 | [25717-gamp.json](./25717-gamp.json) |
 | Gamshara | 269943 | [269943-gamshara.json](./269943-gamshara.json) |
 | Gan! Gan! Pirates | 1366 | [1366-gan-gan-pirates.json](./1366-gan-gan-pirates.json) |
+| GanaBlade | 253404 | [253404-ganablade.json](./253404-ganablade.json) |
 | Ganbare Baseball | 284439 | [284439-ganbare-baseball.json](./284439-ganbare-baseball.json) |
 | Ganbare Ginkun | 40035 | [40035-ganbare-ginkun.json](./40035-ganbare-ginkun.json) |
 | Ganbare Goemon 2 | 74284 | [74284-ganbare-goemon-2.json](./74284-ganbare-goemon-2.json) |
