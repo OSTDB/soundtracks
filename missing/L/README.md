@@ -6851,6 +6851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Dream Chronicle | 316632 | [316632-lost-dream-chronicle.json](./316632-lost-dream-chronicle.json) |
 | Lost Dream: Darkness | 240799 | [240799-lost-dream-darkness.json](./240799-lost-dream-darkness.json) |
 | Lost Dream: Memories | 207692 | [207692-lost-dream-memories.json](./207692-lost-dream-memories.json) |
+| Lost Dream: Overgrown | 263644 | [263644-lost-dream-overgrown.json](./263644-lost-dream-overgrown.json) |
 | Lost Dreams | 194364 | [194364-lost-dreams.json](./194364-lost-dreams.json) |
 | Lost Dunes | 149828 | [149828-lost-dunes.json](./149828-lost-dunes.json) |
 | Lost Dungeon | 120734 | [120734-lost-dungeon.json](./120734-lost-dungeon.json) |
