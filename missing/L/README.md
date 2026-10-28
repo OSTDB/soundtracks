@@ -7252,6 +7252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotia | 30621 | [30621-lotia.json](./30621-lotia.json) |
 | Lotion Samurai | 161400 | [161400-lotion-samurai.json](./161400-lotion-samurai.json) |
 | Lotion Samurai for Nintendo Switch | 249785 | [249785-lotion-samurai-for-nintendo-switch.json](./249785-lotion-samurai-for-nintendo-switch.json) |
+| LOTL | 264187 | [264187-lotl.json](./264187-lotl.json) |
 | Lotlot | 40565 | [40565-lotlot.json](./40565-lotlot.json) |
 | LotR: Realms in Exile | 277527 | [277527-lotr-realms-in-exile.json](./277527-lotr-realms-in-exile.json) |
 | Lots of Balls | 84015 | [84015-lots-of-balls.json](./84015-lots-of-balls.json) |
