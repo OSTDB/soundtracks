@@ -3416,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters: Dimension | 246631 | [246631-ghostbusters-dimension.json](./246631-ghostbusters-dimension.json) |
 | Ghostbusters: Paranormal Blast | 63144 | [63144-ghostbusters-paranormal-blast.json](./63144-ghostbusters-paranormal-blast.json) |
 | Ghostbusters: Rise of the Ghost Lord | 228529 | [228529-ghostbusters-rise-of-the-ghost-lord.json](./228529-ghostbusters-rise-of-the-ghost-lord.json) |
+| Ghostbusters: Rise of the Ghost Lord - Full Containment Edition | 266926 | [266926-ghostbusters-rise-of-the-ghost-lord-full-containment-edition.json](./266926-ghostbusters-rise-of-the-ghost-lord-full-containment-edition.json) |
 | Ghostbusters: Sanctum of Slime | 14849 | [14849-ghostbusters-sanctum-of-slime.json](./14849-ghostbusters-sanctum-of-slime.json) |
 | Ghostbusters: Slime City | 96751 | [96751-ghostbusters-slime-city.json](./96751-ghostbusters-slime-city.json) |
 | Ghostbusters: Spirits Unleashed | 194682 | [194682-ghostbusters-spirits-unleashed.json](./194682-ghostbusters-spirits-unleashed.json) |
@@ -3990,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Git Gud | 330269 | [330269-git-gud.json](./330269-git-gud.json) |
 | Git Up! | 335498 | [335498-git-up.json](./335498-git-up.json) |
 | Gitadora Exchain | 154831 | [154831-gitadora-exchain.json](./154831-gitadora-exchain.json) |
+| Gitadora Fuzz-Up | 266955 | [266955-gitadora-fuzz-up.json](./266955-gitadora-fuzz-up.json) |
 | Gitadora High-Voltage | 154836 | [154836-gitadora-high-voltage.json](./154836-gitadora-high-voltage.json) |
 | Gitadora Matixx | 154828 | [154828-gitadora-matixx.json](./154828-gitadora-matixx.json) |
 | Gitadora Nextage | 154833 | [154833-gitadora-nextage.json](./154833-gitadora-nextage.json) |
