@@ -3848,6 +3848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterpulse | 58625 | [58625-afterpulse.json](./58625-afterpulse.json) |
 | AfterQuest | 394314 | [394314-afterquest.json](./394314-afterquest.json) |
 | Afterschool : Reel Danger | 361913 | [361913-afterschool-reel-danger.json](./361913-afterschool-reel-danger.json) |
+| Afterschool Adventurers Club | 235398 | [235398-afterschool-adventurers-club.json](./235398-afterschool-adventurers-club.json) |
 | Afterschool! Survival Club | 193798 | [193798-afterschool-survival-club.json](./193798-afterschool-survival-club.json) |
 | Aftershock | 346183 | [346183-aftershock.json](./346183-aftershock.json) |
 | Aftershock | 376846 | [376846-aftershock.json](./376846-aftershock.json) |
@@ -4203,6 +4204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Sirius | 357802 | [357802-agent-sirius.json](./357802-agent-sirius.json) |
 | Agent Skunk: Stink Ops | 419356 | [419356-agent-skunk-stink-ops.json](./419356-agent-skunk-stink-ops.json) |
 | Agent Sorry | 208011 | [208011-agent-sorry.json](./208011-agent-sorry.json) |
+| Agent Team Simulator | 235405 | [235405-agent-team-simulator.json](./235405-agent-team-simulator.json) |
 | Agent Team Simulator: Your Agent in the Game | 253466 | [253466-agent-team-simulator-your-agent-in-the-game.json](./253466-agent-team-simulator-your-agent-in-the-game.json) |
 | Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
 | Agent Versus | 379515 | [379515-agent-versus.json](./379515-agent-versus.json) |
@@ -6070,6 +6072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien X | 134562 | [134562-alien-x.json](./134562-alien-x.json) |
 | Alien X | 171579 | [171579-alien-x.json](./171579-alien-x.json) |
 | Alien Xenoblaster | 209133 | [209133-alien-xenoblaster.json](./209133-alien-xenoblaster.json) |
+| Alien Xenocide | 235429 | [235429-alien-xenocide.json](./235429-alien-xenocide.json) |
 | Alien Xenocide | 356796 | [356796-alien-xenocide.json](./356796-alien-xenocide.json) |
 | Alien Zombie Death | 15189 | [15189-alien-zombie-death.json](./15189-alien-zombie-death.json) |
 | Alien: Blackout | 112657 | [112657-alien-blackout.json](./112657-alien-blackout.json) |
@@ -15022,6 +15025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Australian Football Coach | 54818 | [54818-australian-football-coach.json](./54818-australian-football-coach.json) |
 | Australian Football Coach 2019 | 119883 | [119883-australian-football-coach-2019.json](./119883-australian-football-coach-2019.json) |
 | Australian Football Coach 2020 | 133683 | [133683-australian-football-coach-2020.json](./133683-australian-football-coach-2020.json) |
+| Australian Football Coach 2023 | 235407 | [235407-australian-football-coach-2023.json](./235407-australian-football-coach-2023.json) |
 | Australian Idol Sing | 71766 | [71766-australian-idol-sing.json](./71766-australian-idol-sing.json) |
 | Australian Maze | 273356 | [273356-australian-maze.json](./273356-australian-maze.json) |
 | Australian Open VR | 329418 | [329418-australian-open-vr.json](./329418-australian-open-vr.json) |
