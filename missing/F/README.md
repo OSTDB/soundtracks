@@ -1550,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fangun | 243570 | [243570-fangun.json](./243570-fangun.json) |
 | Fania | 258471 | [258471-fania.json](./258471-fania.json) |
 | Fanite | 195108 | [195108-fanite.json](./195108-fanite.json) |
+| Fans of Soccer: Disc Football | 236998 | [236998-fans-of-soccer-disc-football.json](./236998-fans-of-soccer-disc-football.json) |
 | Fans Rush | 104700 | [104700-fans-rush.json](./104700-fans-rush.json) |
 | Fant Kids Animated Puzzle | 116982 | [116982-fant-kids-animated-puzzle.json](./116982-fant-kids-animated-puzzle.json) |
 | Fant Kids Matching Game | 112864 | [112864-fant-kids-matching-game.json](./112864-fant-kids-matching-game.json) |
@@ -8621,6 +8622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Memories | 326204 | [326204-forgotten-memories.json](./326204-forgotten-memories.json) |
 | Forgotten Memories: Definitive Edition | 207858 | [207858-forgotten-memories-definitive-edition.json](./207858-forgotten-memories-definitive-edition.json) |
 | Forgotten Memories: Remastered Edition | 319631 | [319631-forgotten-memories-remastered-edition.json](./319631-forgotten-memories-remastered-edition.json) |
+| Forgotten Mines | 237022 | [237022-forgotten-mines.json](./237022-forgotten-mines.json) |
 | Forgotten Myths CCG | 36302 | [36302-forgotten-myths-ccg.json](./36302-forgotten-myths-ccg.json) |
 | Forgotten Passages | 127164 | [127164-forgotten-passages.json](./127164-forgotten-passages.json) |
 | Forgotten Places: Lost Circus | 88549 | [88549-forgotten-places-lost-circus.json](./88549-forgotten-places-lost-circus.json) |
