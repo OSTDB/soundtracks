@@ -3304,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Dance Star | 163239 | [163239-vr-dance-star.json](./163239-vr-dance-star.json) |
 | VR Dart Zone | 54459 | [54459-vr-dart-zone.json](./54459-vr-dart-zone.json) |
 | VR Darts | 29153 | [29153-vr-darts.json](./29153-vr-darts.json) |
+| VR Dinosaur City War | 258068 | [258068-vr-dinosaur-city-war.json](./258068-vr-dinosaur-city-war.json) |
 | VR Dinosaur Fight | 208644 | [208644-vr-dinosaur-fight.json](./208644-vr-dinosaur-fight.json) |
 | VR Dinosaur Invasion | 235730 | [235730-vr-dinosaur-invasion.json](./235730-vr-dinosaur-invasion.json) |
 | VR Dinosaur Island Paradise | 265260 | [265260-vr-dinosaur-island-paradise.json](./265260-vr-dinosaur-island-paradise.json) |
