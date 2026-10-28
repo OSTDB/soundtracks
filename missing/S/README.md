@@ -1140,6 +1140,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Legends | 214132 | [214132-samurai-legends.json](./214132-samurai-legends.json) |
 | Samurai Love Ballad: Party | 238893 | [238893-samurai-love-ballad-party.json](./238893-samurai-love-ballad-party.json) |
 | Samurai Maiden | 212269 | [212269-samurai-maiden.json](./212269-samurai-maiden.json) |
+| Samurai Mech | 242707 | [242707-samurai-mech.json](./242707-samurai-mech.json) |
+| Samurai Mech II | 242708 | [242708-samurai-mech-ii.json](./242708-samurai-mech-ii.json) |
 | Samurai Nihon-Ichi | 40415 | [40415-samurai-nihon-ichi.json](./40415-samurai-nihon-ichi.json) |
 | Samurai Ninja Wars | 285522 | [285522-samurai-ninja-wars.json](./285522-samurai-ninja-wars.json) |
 | Samurai Obby | 395771 | [395771-samurai-obby.json](./395771-samurai-obby.json) |
@@ -3376,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SDI | 12848 | [12848-sdi.json](./12848-sdi.json) |
 | SDK Paint | 84860 | [84860-sdk-paint.json](./84860-sdk-paint.json) |
 | SDK Spriter | 84859 | [84859-sdk-spriter.json](./84859-sdk-spriter.json) |
+| SDS Star Divers | 242710 | [242710-sds-star-divers.json](./242710-sds-star-divers.json) |
 | SDST: Deluxe | 168904 | [168904-sdst-deluxe.json](./168904-sdst-deluxe.json) |
 | Sè Sè Fādǒu | 373716 | [373716-se-se-fadou.json](./373716-se-se-fadou.json) |
 | Se.Kirara | 397404 | [397404-se-kirara.json](./397404-se-kirara.json) |
@@ -6197,6 +6200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shalnor: Silverwind Saga 2 | 391012 | [391012-shalnor-silverwind-saga-2.json](./391012-shalnor-silverwind-saga-2.json) |
 | Shalnor: Silverwind Saga Bundle | 417285 | [417285-shalnor-silverwind-saga-bundle.json](./417285-shalnor-silverwind-saga-bundle.json) |
 | Shalter 03 | 412442 | [412442-shalter-03.json](./412442-shalter-03.json) |
+| Sham City | 242697 | [242697-sham-city.json](./242697-sham-city.json) |
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
 | Shaman | 171533 | [171533-shaman.json](./171533-shaman.json) |
 | Shaman Flower | 43144 | [43144-shaman-flower.json](./43144-shaman-flower.json) |
@@ -8691,6 +8695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Hustle City | 364066 | [364066-side-hustle-city.json](./364066-side-hustle-city.json) |
 | Side Kicks! | 69322 | [69322-side-kicks.json](./69322-side-kicks.json) |
 | Side Pocket | 172699 | [172699-side-pocket.json](./172699-side-pocket.json) |
+| Side Pocket | 242351 | [242351-side-pocket.json](./242351-side-pocket.json) |
 | Side Pocket | 288104 | [288104-side-pocket.json](./288104-side-pocket.json) |
 | Side Pocket | 45555 | [45555-side-pocket.json](./45555-side-pocket.json) |
 | Side Pocket | 6048 | [6048-side-pocket.json](./6048-side-pocket.json) |
@@ -11884,6 +11889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot Protocol | 260572 | [260572-slingshot-protocol.json](./260572-slingshot-protocol.json) |
 | Slingshot Puzzle | 43112 | [43112-slingshot-puzzle.json](./43112-slingshot-puzzle.json) |
 | Slingshot Quest | 391715 | [391715-slingshot-quest.json](./391715-slingshot-quest.json) |
+| Slingshot Racing | 242738 | [242738-slingshot-racing.json](./242738-slingshot-racing.json) |
 | Slingshot Ride | 421373 | [421373-slingshot-ride.json](./421373-slingshot-ride.json) |
 | Slingshot Rush | 253008 | [253008-slingshot-rush.json](./253008-slingshot-rush.json) |
 | Slingshot Stunt Driver & Sports | 188102 | [188102-slingshot-stunt-driver-and-sports.json](./188102-slingshot-stunt-driver-and-sports.json) |
@@ -14674,6 +14680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of the Firefly | 14315 | [14315-song-of-the-firefly.json](./14315-song-of-the-firefly.json) |
 | Song of the Myrne: What Lies Beneath | 26824 | [26824-song-of-the-myrne-what-lies-beneath.json](./26824-song-of-the-myrne-what-lies-beneath.json) |
 | Song of the Prairie | 169714 | [169714-song-of-the-prairie.json](./169714-song-of-the-prairie.json) |
+| Song of the Sea VR | 242718 | [242718-song-of-the-sea-vr.json](./242718-song-of-the-sea-vr.json) |
 | Song of the Tides | 158172 | [158172-song-of-the-tides.json](./158172-song-of-the-tides.json) |
 | Song of Twilight | 384231 | [384231-song-of-twilight.json](./384231-song-of-twilight.json) |
 | Song of Yellow River | 130952 | [130952-song-of-yellow-river.json](./130952-song-of-yellow-river.json) |
@@ -15280,6 +15287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Blast 2: Official Level Design Contest 2021- Round 2 | 287668 | [287668-sonic-robo-blast-2-official-level-design-contest-2021-round-2.json](./287668-sonic-robo-blast-2-official-level-design-contest-2021-round-2.json) |
 | Sonic Robo Blast 2: Official Level Design Contest 2022 - Round 1 | 287658 | [287658-sonic-robo-blast-2-official-level-design-contest-2022-round-1.json](./287658-sonic-robo-blast-2-official-level-design-contest-2022-round-1.json) |
 | Sonic Robo Blast 2: Persona | 141509 | [141509-sonic-robo-blast-2-persona.json](./141509-sonic-robo-blast-2-persona.json) |
+| Sonic Robo Blast 2: Seaside Hill Zone | 242711 | [242711-sonic-robo-blast-2-seaside-hill-zone.json](./242711-sonic-robo-blast-2-seaside-hill-zone.json) |
 | Sonic Robo Blast 2: The Chaotix | 304084 | [304084-sonic-robo-blast-2-the-chaotix.json](./304084-sonic-robo-blast-2-the-chaotix.json) |
 | Sonic Robo Blast 2: Top Down | 282704 | [282704-sonic-robo-blast-2-top-down.json](./282704-sonic-robo-blast-2-top-down.json) |
 | Sonic Robo Blast! | 201071 | [201071-sonic-robo-blast.json](./201071-sonic-robo-blast.json) |
@@ -19399,6 +19407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquigglePants 3D | 21719 | [21719-spongebob-squigglepants-3d.json](./21719-spongebob-squigglepants-3d.json) |
 | SpongeBob vs. EvilBob | 343172 | [343172-spongebob-vs-evilbob.json](./343172-spongebob-vs-evilbob.json) |
 | SpongeBob: Bubble Pop F.U.N. | 320381 | [320381-spongebob-bubble-pop-f-u-n.json](./320381-spongebob-bubble-pop-f-u-n.json) |
+| Spongebob: Gone Fishing | 242346 | [242346-spongebob-gone-fishing.json](./242346-spongebob-gone-fishing.json) |
 | SpongeBob: Krusty Cook-Off | 130748 | [130748-spongebob-krusty-cook-off.json](./130748-spongebob-krusty-cook-off.json) |
 | SpongeBob: Krusty Cook-Off - Extra Krusty Edition | 221331 | [221331-spongebob-krusty-cook-off-extra-krusty-edition.json](./221331-spongebob-krusty-cook-off-extra-krusty-edition.json) |
 | SpongeBob's Atlantis Squarepantis | 221834 | [221834-spongebobs-atlantis-squarepantis.json](./221834-spongebobs-atlantis-squarepantis.json) |
