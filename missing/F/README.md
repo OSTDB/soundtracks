@@ -4330,7 +4330,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy V Advance | 20597 | [20597-final-fantasy-v-advance.json](./20597-final-fantasy-v-advance.json) |
 | Final Fantasy V Spoof | 298939 | [298939-final-fantasy-v-spoof.json](./298939-final-fantasy-v-spoof.json) |
 | Final Fantasy V-Pixel Freemaster | 315635 | [315635-final-fantasy-v-pixel-freemaster.json](./315635-final-fantasy-v-pixel-freemaster.json) |
-| Final Fantasy VI | 146218 | [146218-final-fantasy-vi.json](./146218-final-fantasy-vi.json) |
 | Final Fantasy VI Advance | 20655 | [20655-final-fantasy-vi-advance.json](./20655-final-fantasy-vi-advance.json) |
 | Final Fantasy VI Reimagined | 339232 | [339232-final-fantasy-vi-reimagined.json](./339232-final-fantasy-vi-reimagined.json) |
 | Final Fantasy VI T-Edition + EX | 186095 | [186095-final-fantasy-vi-t-edition-ex.json](./186095-final-fantasy-vi-t-edition-ex.json) |
@@ -4375,7 +4374,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII: New Threat Mod | 144689 | [144689-final-fantasy-vii-new-threat-mod.json](./144689-final-fantasy-vii-new-threat-mod.json) |
 | Final Fantasy VII: Regenesis | 394328 | [394328-final-fantasy-vii-regenesis.json](./394328-final-fantasy-vii-regenesis.json) |
 | Final Fantasy VII: The First Soldier | 144038 | [144038-final-fantasy-vii-the-first-soldier.json](./144038-final-fantasy-vii-the-first-soldier.json) |
-| Final Fantasy VIII | 203524 | [203524-final-fantasy-viii.json](./203524-final-fantasy-viii.json) |
 | Final Fantasy VIII Remastered | 119374 | [119374-final-fantasy-viii-remastered.json](./119374-final-fantasy-viii-remastered.json) |
 | Final Fantasy VIII Remastered | 340338 | [340338-final-fantasy-viii-remastered.json](./340338-final-fantasy-viii-remastered.json) |
 | Final Fantasy VIII Requiem | 360130 | [360130-final-fantasy-viii-requiem.json](./360130-final-fantasy-viii-requiem.json) |
