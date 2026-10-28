@@ -11434,6 +11434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepy Racers | 414107 | [414107-sleepy-racers.json](./414107-sleepy-racers.json) |
 | Sleepy Squares | 243726 | [243726-sleepy-squares.json](./243726-sleepy-squares.json) |
 | Sleepy Sunday | 152834 | [152834-sleepy-sunday.json](./152834-sleepy-sunday.json) |
+| Sleepy Time Jack: Digital Talking Body Pillow | 259116 | [259116-sleepy-time-jack-digital-talking-body-pillow.json](./259116-sleepy-time-jack-digital-talking-body-pillow.json) |
 | Sleeve Shock | 257956 | [257956-sleeve-shock.json](./257956-sleeve-shock.json) |
 | Sleigh Strikers | 279257 | [279257-sleigh-strikers.json](./279257-sleigh-strikers.json) |
 | Sleight | 30885 | [30885-sleight.json](./30885-sleight.json) |
@@ -16758,6 +16759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Genesis | 198328 | [198328-space-genesis.json](./198328-space-genesis.json) |
 | Space Ghost Pirate Zombie Slayer | 30603 | [30603-space-ghost-pirate-zombie-slayer.json](./30603-space-ghost-pirate-zombie-slayer.json) |
 | Space Girl Salon | 101001 | [101001-space-girl-salon.json](./101001-space-girl-salon.json) |
+| Space Girls | 258820 | [258820-space-girls.json](./258820-space-girls.json) |
 | Space Girls | 68894 | [68894-space-girls.json](./68894-space-girls.json) |
 | Space Girls Band | 293215 | [293215-space-girls-band.json](./293215-space-girls-band.json) |
 | Space Gnomes | 407315 | [407315-space-gnomes.json](./407315-space-gnomes.json) |
@@ -23011,6 +23013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickers for You | 306592 | [306592-stickers-for-you.json](./306592-stickers-for-you.json) |
 | Stickets | 22156 | [22156-stickets.json](./22156-stickets.json) |
 | Stickfight Battle | 197328 | [197328-stickfight-battle.json](./197328-stickfight-battle.json) |
+| Stickfigurez | 259101 | [259101-stickfigurez.json](./259101-stickfigurez.json) |
 | Stickforge | 350801 | [350801-stickforge.json](./350801-stickforge.json) |
 | Stickility | 345101 | [345101-stickility.json](./345101-stickility.json) |
 | Sticking Around | 217171 | [217171-sticking-around.json](./217171-sticking-around.json) |
@@ -25172,6 +25175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus: Red Goddess | 249664 | [249664-succubus-red-goddess.json](./249664-succubus-red-goddess.json) |
 | Succubus: Sex Story | 269203 | [269203-succubus-sex-story.json](./269203-succubus-sex-story.json) |
 | Succubus: The Six Spells | 77884 | [77884-succubus-the-six-spells.json](./77884-succubus-the-six-spells.json) |
+| Succubus's Making Lunch | 259114 | [259114-succubuss-making-lunch.json](./259114-succubuss-making-lunch.json) |
 | Succubuses Love Creampie | 169424 | [169424-succubuses-love-creampie.json](./169424-succubuses-love-creampie.json) |
 | Succulent | 20252 | [20252-succulent.json](./20252-succulent.json) |
 | Succulent Studio | 400224 | [400224-succulent-studio.json](./400224-succulent-studio.json) |
@@ -25839,6 +25843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summona Realm: The Secret Flame | 382366 | [382366-summona-realm-the-secret-flame.json](./382366-summona-realm-the-secret-flame.json) |
 | Summoned by a Magic Goddess | 206152 | [206152-summoned-by-a-magic-goddess.json](./206152-summoned-by-a-magic-goddess.json) |
 | Summoned By Accident | 302181 | [302181-summoned-by-accident.json](./302181-summoned-by-accident.json) |
+| Summoned Hero | 258810 | [258810-summoned-hero.json](./258810-summoned-hero.json) |
 | Summoneer | 285556 | [285556-summoneer.json](./285556-summoneer.json) |
 | Summoner Apprentice | 158572 | [158572-summoner-apprentice.json](./158572-summoner-apprentice.json) |
 | Summoner Fantasy | 241822 | [241822-summoner-fantasy.json](./241822-summoner-fantasy.json) |
@@ -30839,6 +30844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sym | 11424 | [11424-sym.json](./11424-sym.json) |
 | Sym Shepherd | 413143 | [413143-sym-shepherd.json](./413143-sym-shepherd.json) |
 | Sym-Bionic Titan: Teenage Warriors | 319177 | [319177-sym-bionic-titan-teenage-warriors.json](./319177-sym-bionic-titan-teenage-warriors.json) |
+| Sym.Bios: Torn Asunder | 258815 | [258815-sym-bios-torn-asunder.json](./258815-sym-bios-torn-asunder.json) |
 | Symb Eco | 77362 | [77362-symb-eco.json](./77362-symb-eco.json) |
 | Symbio | 275827 | [275827-symbio.json](./275827-symbio.json) |
 | Symbio | 346012 | [346012-symbio.json](./346012-symbio.json) |
@@ -31194,6 +31200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Overload | 390218 | [390218-system-overload.json](./390218-system-overload.json) |
 | System Override | 277604 | [277604-system-override.json](./277604-system-override.json) |
 | System Purge | 182381 | [182381-system-purge.json](./182381-system-purge.json) |
+| System Purge: Hollow Point | 258822 | [258822-system-purge-hollow-point.json](./258822-system-purge-hollow-point.json) |
 | System Reject | 321959 | [321959-system-reject.json](./321959-system-reject.json) |
 | System Restore | 219562 | [219562-system-restore.json](./219562-system-restore.json) |
 | System Shock 3 | 15097 | [15097-system-shock-3.json](./15097-system-shock-3.json) |
