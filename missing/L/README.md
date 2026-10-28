@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.OD | 281253 | [281253-l-od.json](./281253-l-od.json) |
 | L.S.D.: Lasting Spiritual Derangement | 174018 | [174018-l-s-d-lasting-spiritual-derangement.json](./174018-l-s-d-lasting-spiritual-derangement.json) |
 | L.S.S II | 220836 | [220836-l-s-s-ii.json](./220836-l-s-s-ii.json) |
+| L'Abbaye des Morts | 270228 | [270228-labbaye-des-morts.json](./270228-labbaye-des-morts.json) |
 | L'Abbaye des Morts | 299101 | [299101-labbaye-des-morts.json](./299101-labbaye-des-morts.json) |
 | L'Abbaye des Morts | 93452 | [93452-labbaye-des-morts.json](./93452-labbaye-des-morts.json) |
 | L'Affaire... | 53925 | [53925-laffaire.json](./53925-laffaire.json) |
@@ -4355,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilith's Hunger | 229508 | [229508-liliths-hunger.json](./229508-liliths-hunger.json) |
 | Lilith's Lair | 327235 | [327235-liliths-lair.json](./327235-liliths-lair.json) |
 | Lilith's Syndrome | 297037 | [297037-liliths-syndrome.json](./297037-liliths-syndrome.json) |
+| Lilithrottle | 269939 | [269939-lilithrottle.json](./269939-lilithrottle.json) |
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
 | Lilium Reach | 212111 | [212111-lilium-reach.json](./212111-lilium-reach.json) |
 | Lilium: Kiss Me Everyday | 394621 | [394621-lilium-kiss-me-everyday.json](./394621-lilium-kiss-me-everyday.json) |
