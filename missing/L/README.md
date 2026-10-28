@@ -6754,6 +6754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Alone EP.1: Little Sister | 185649 | [185649-lost-alone-ep-1-little-sister.json](./185649-lost-alone-ep-1-little-sister.json) |
 | Lost Alone Ep.2: Daddy | 185912 | [185912-lost-alone-ep-2-daddy.json](./185912-lost-alone-ep-2-daddy.json) |
 | Lost Alone Ultimate | 245026 | [245026-lost-alone-ultimate.json](./245026-lost-alone-ultimate.json) |
+| Lost Alone Ultimate: George's Nightmare | 266349 | [266349-lost-alone-ultimate-georges-nightmare.json](./266349-lost-alone-ultimate-georges-nightmare.json) |
 | Lost Along The Way | 253919 | [253919-lost-along-the-way.json](./253919-lost-along-the-way.json) |
 | Lost Altr | 339490 | [339490-lost-altr.json](./339490-lost-altr.json) |
 | Lost Amulets | 116457 | [116457-lost-amulets.json](./116457-lost-amulets.json) |
@@ -8751,6 +8752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lynium | 158628 | [158628-lynium.json](./158628-lynium.json) |
 | Lynked: Banner of the Spark | 314256 | [314256-lynked-banner-of-the-spark.json](./314256-lynked-banner-of-the-spark.json) |
 | Lynn: The Girl Drawn on Puzzles | 130233 | [130233-lynn-the-girl-drawn-on-puzzles.json](./130233-lynn-the-girl-drawn-on-puzzles.json) |
+| Lynn's Legacy | 266363 | [266363-lynns-legacy.json](./266363-lynns-legacy.json) |
 | Lynne | 105107 | [105107-lynne.json](./105107-lynne.json) |
 | Lynx Othello | 92902 | [92902-lynx-othello.json](./92902-lynx-othello.json) |
 | LyokoVR | 169337 | [169337-lyokovr.json](./169337-lyokovr.json) |
