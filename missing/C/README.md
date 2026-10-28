@@ -8351,6 +8351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of the Olympians | 384233 | [384233-clash-of-the-olympians.json](./384233-clash-of-the-olympians.json) |
 | Clash of the Talons | 135570 | [135570-clash-of-the-talons.json](./135570-clash-of-the-talons.json) |
 | Clash of the Undead | 231863 | [231863-clash-of-the-undead.json](./231863-clash-of-the-undead.json) |
+| Clash of Ultimate Fighters | 236984 | [236984-clash-of-ultimate-fighters.json](./236984-clash-of-ultimate-fighters.json) |
 | Clash of Vikings | 382912 | [382912-clash-of-vikings.json](./382912-clash-of-vikings.json) |
 | Clash of Warlords | 153333 | [153333-clash-of-warlords.json](./153333-clash-of-warlords.json) |
 | Clash of Warriors: 9 Legends | 56428 | [56428-clash-of-warriors-9-legends.json](./56428-clash-of-warriors-9-legends.json) |
@@ -16563,6 +16564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Figures 2 | 249488 | [249488-cubic-figures-2.json](./249488-cubic-figures-2.json) |
 | Cubic Gallery | 343946 | [343946-cubic-gallery.json](./343946-cubic-gallery.json) |
 | Cubic Haikus - hikikomori | 418533 | [418533-cubic-haikus-hikikomori.json](./418533-cubic-haikus-hikikomori.json) |
+| Cubic Hole | 236991 | [236991-cubic-hole.json](./236991-cubic-hole.json) |
 | Cubic Juice | 158221 | [158221-cubic-juice.json](./158221-cubic-juice.json) |
 | Cubic Kill Array | 106648 | [106648-cubic-kill-array.json](./106648-cubic-kill-array.json) |
 | Cubic Light | 229164 | [229164-cubic-light.json](./229164-cubic-light.json) |
