@@ -4005,6 +4005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insomnis | 113861 | [113861-insomnis.json](./113861-insomnis.json) |
 | Insomnis Experiment | 281238 | [281238-insomnis-experiment.json](./281238-insomnis-experiment.json) |
 | Insomnis: Enhanced Edition | 198395 | [198395-insomnis-enhanced-edition.json](./198395-insomnis-enhanced-edition.json) |
+| InSomnus | 229265 | [229265-insomnus.json](./229265-insomnus.json) |
 | Inspace 2980 | 109645 | [109645-inspace-2980.json](./109645-inspace-2980.json) |
 | Inspection | 294188 | [294188-inspection.json](./294188-inspection.json) |
 | Inspection Report | 309923 | [309923-inspection-report.json](./309923-inspection-report.json) |
