@@ -12745,6 +12745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Manager 2 | 194002 | [194002-prison-manager-2.json](./194002-prison-manager-2.json) |
 | Prison Miners | 333546 | [333546-prison-miners.json](./333546-prison-miners.json) |
 | Prison Notes | 328192 | [328192-prison-notes.json](./328192-prison-notes.json) |
+| Prison of Hope | 271855 | [271855-prison-of-hope.json](./271855-prison-of-hope.json) |
 | Prison of Husks | 269682 | [269682-prison-of-husks.json](./269682-prison-of-husks.json) |
 | Prison of Illusion: Gold Edition | 301780 | [301780-prison-of-illusion-gold-edition.json](./301780-prison-of-illusion-gold-edition.json) |
 | Prison of Lies | 183422 | [183422-prison-of-lies.json](./183422-prison-of-lies.json) |
