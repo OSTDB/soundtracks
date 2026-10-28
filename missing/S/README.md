@@ -6675,6 +6675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Sees Red | 118645 | [118645-she-sees-red.json](./118645-she-sees-red.json) |
 | She Sings, but She’s Not a Skylark, Not Even a Nightingale. | 412445 | [412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json](./412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json) |
 | She Tells Her Story | 383592 | [383592-she-tells-her-story.json](./383592-she-tells-her-story.json) |
+| She Vomited Guns | 234237 | [234237-she-vomited-guns.json](./234237-she-vomited-guns.json) |
 | She Wants Me Dead | 32718 | [32718-she-wants-me-dead.json](./32718-she-wants-me-dead.json) |
 | She Wants Me Dead + Clumsy Rush | 237572 | [237572-she-wants-me-dead-clumsy-rush.json](./237572-she-wants-me-dead-clumsy-rush.json) |
 | She Wants Me Dead: Extended Edition | 239493 | [239493-she-wants-me-dead-extended-edition.json](./239493-she-wants-me-dead-extended-edition.json) |
@@ -7483,6 +7484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinzen Hollow | 292512 | [292512-shinzen-hollow.json](./292512-shinzen-hollow.json) |
 | Shio | 31393 | [31393-shio.json](./31393-shio.json) |
 | Shio: Deluxe Edition | 53597 | [53597-shio-deluxe-edition.json](./53597-shio-deluxe-edition.json) |
+| Shiodome Train Simulator | 234242 | [234242-shiodome-train-simulator.json](./234242-shiodome-train-simulator.json) |
 | Shiokaze no Kieru Umi ni | 394418 | [394418-shiokaze-no-kieru-umi-ni.json](./394418-shiokaze-no-kieru-umi-ni.json) |
 | Shion no Ou: The Flowers of Hard Blood | 122896 | [122896-shion-no-ou-the-flowers-of-hard-blood.json](./122896-shion-no-ou-the-flowers-of-hard-blood.json) |
 | Shion to One Room: Kizuna Kirameku Koi Iroha SS | 371592 | [371592-shion-to-one-room-kizuna-kirameku-koi-iroha-ss.json](./371592-shion-to-one-room-kizuna-kirameku-koi-iroha-ss.json) |
@@ -10712,6 +10714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Golf: Creation in Decay | 181714 | [181714-skull-golf-creation-in-decay.json](./181714-skull-golf-creation-in-decay.json) |
 | Skull Head World | 157408 | [157408-skull-head-world.json](./157408-skull-head-world.json) |
 | Skull Hotel | 347285 | [347285-skull-hotel.json](./347285-skull-hotel.json) |
+| Skull Hunter | 234236 | [234236-skull-hunter.json](./234236-skull-hunter.json) |
 | Skull Island: Rise of Kong | 257674 | [257674-skull-island-rise-of-kong.json](./257674-skull-island-rise-of-kong.json) |
 | Skull Island: Rise of Kong - Colossal Edition | 269382 | [269382-skull-island-rise-of-kong-colossal-edition.json](./269382-skull-island-rise-of-kong-colossal-edition.json) |
 | Skull Island: Rise of Kong - Colossal Pack | 272584 | [272584-skull-island-rise-of-kong-colossal-pack.json](./272584-skull-island-rise-of-kong-colossal-pack.json) |
@@ -11036,6 +11039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skye: The Misty Isle | 163459 | [163459-skye-the-misty-isle.json](./163459-skye-the-misty-isle.json) |
 | Skye's Repose | 413705 | [413705-skyes-repose.json](./413705-skyes-repose.json) |
 | Skyeisle Cube | 368584 | [368584-skyeisle-cube.json](./368584-skyeisle-cube.json) |
+| Skyemont Battle | 234273 | [234273-skyemont-battle.json](./234273-skyemont-battle.json) |
 | Skyewood | 274218 | [274218-skyewood.json](./274218-skyewood.json) |
 | SkyFactory 3 | 360610 | [360610-skyfactory-3.json](./360610-skyfactory-3.json) |
 | SkyFactory 4 | 204695 | [204695-skyfactory-4.json](./204695-skyfactory-4.json) |
@@ -19450,6 +19454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: The Clam Prix | 230402 | [230402-spongebob-squarepants-the-clam-prix.json](./230402-spongebob-squarepants-the-clam-prix.json) |
 | SpongeBob SquarePants: The Cosmic Shake | 171219 | [171219-spongebob-squarepants-the-cosmic-shake.json](./171219-spongebob-squarepants-the-cosmic-shake.json) |
 | SpongeBob SquarePants: The Cosmic Shake - BFF Edition | 221329 | [221329-spongebob-squarepants-the-cosmic-shake-bff-edition.json](./221329-spongebob-squarepants-the-cosmic-shake-bff-edition.json) |
+| SpongeBob SquarePants: The Cosmic Shake - Costume Pack | 234272 | [234272-spongebob-squarepants-the-cosmic-shake-costume-pack.json](./234272-spongebob-squarepants-the-cosmic-shake-costume-pack.json) |
 | SpongeBob SquarePants: The Fry Cook Games | 220115 | [220115-spongebob-squarepants-the-fry-cook-games.json](./220115-spongebob-squarepants-the-fry-cook-games.json) |
 | SpongeBob SquarePants: The Patrick Star Game | 314939 | [314939-spongebob-squarepants-the-patrick-star-game.json](./314939-spongebob-squarepants-the-patrick-star-game.json) |
 | SpongeBob SquarePants: The Yellow Avenger | 2770 | [2770-spongebob-squarepants-the-yellow-avenger.json](./2770-spongebob-squarepants-the-yellow-avenger.json) |
@@ -23168,6 +23173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Up | 319949 | [319949-stick-up.json](./319949-stick-up.json) |
 | Stick Veterans | 176360 | [176360-stick-veterans.json](./176360-stick-veterans.json) |
 | Stick War | 234161 | [234161-stick-war.json](./234161-stick-war.json) |
+| Stick War 2 | 234291 | [234291-stick-war-2.json](./234291-stick-war-2.json) |
 | Stick War: Castle Defence | 90209 | [90209-stick-war-castle-defence.json](./90209-stick-war-castle-defence.json) |
 | Stick War: Hero Tower Defense | 216135 | [216135-stick-war-hero-tower-defense.json](./216135-stick-war-hero-tower-defense.json) |
 | Stick War: Legacy | 239909 | [239909-stick-war-legacy.json](./239909-stick-war-legacy.json) |
