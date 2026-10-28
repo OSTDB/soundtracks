@@ -2356,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnage | 298396 | [298396-carnage.json](./298396-carnage.json) |
 | Carnage | 399041 | [399041-carnage.json](./399041-carnage.json) |
 | Carnage Contest | 395407 | [395407-carnage-contest.json](./395407-carnage-contest.json) |
+| Carnage Cuisine | 258808 | [258808-carnage-cuisine.json](./258808-carnage-cuisine.json) |
 | Carnage Heart | 20733 | [20733-carnage-heart.json](./20733-carnage-heart.json) |
 | Carnage Heart EXA | 46589 | [46589-carnage-heart-exa.json](./46589-carnage-heart-exa.json) |
 | Carnage Heart EZ: Easy Zapping | 66184 | [66184-carnage-heart-ez-easy-zapping.json](./66184-carnage-heart-ez-easy-zapping.json) |
@@ -12252,6 +12253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Mania | 174773 | [174773-cooking-mania.json](./174773-cooking-mania.json) |
 | Cooking Misha | 399752 | [399752-cooking-misha.json](./399752-cooking-misha.json) |
 | Cooking Papa: Cookstar | 237641 | [237641-cooking-papa-cookstar.json](./237641-cooking-papa-cookstar.json) |
+| Cooking Simulator 2: Better Together | 259127 | [259127-cooking-simulator-2-better-together.json](./259127-cooking-simulator-2-better-together.json) |
 | Cooking Simulator Mobile | 174780 | [174780-cooking-simulator-mobile.json](./174780-cooking-simulator-mobile.json) |
 | Cooking Simulator VR | 148926 | [148926-cooking-simulator-vr.json](./148926-cooking-simulator-vr.json) |
 | Cooking Simulator: Cakes and Cookies | 129196 | [129196-cooking-simulator-cakes-and-cookies.json](./129196-cooking-simulator-cakes-and-cookies.json) |
@@ -14596,6 +14598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creeper World 2: Redemption | 66086 | [66086-creeper-world-2-redemption.json](./66086-creeper-world-2-redemption.json) |
 | Creeper World 3: Arc Eternal | 9809 | [9809-creeper-world-3-arc-eternal.json](./9809-creeper-world-3-arc-eternal.json) |
 | Creeper World 4 | 77752 | [77752-creeper-world-4.json](./77752-creeper-world-4.json) |
+| Creeper World IXE | 259104 | [259104-creeper-world-ixe.json](./259104-creeper-world-ixe.json) |
 | Creeper World: Anniversary Edition | 34005 | [34005-creeper-world-anniversary-edition.json](./34005-creeper-world-anniversary-edition.json) |
 | Creepers | 15478 | [15478-creepers.json](./15478-creepers.json) |
 | Creeping Clark | 336169 | [336169-creeping-clark.json](./336169-creeping-clark.json) |
