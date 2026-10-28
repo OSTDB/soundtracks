@@ -10103,6 +10103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Sided Sanctuary | 128390 | [128390-six-sided-sanctuary.json](./128390-six-sided-sanctuary.json) |
 | Six Sides of the World | 34930 | [34930-six-sides-of-the-world.json](./34930-six-sides-of-the-world.json) |
 | Six Sides of the World Enhanced | 147980 | [147980-six-sides-of-the-world-enhanced.json](./147980-six-sides-of-the-world-enhanced.json) |
+| Six Souls: Requiem for Forgotten Birds | 263642 | [263642-six-souls-requiem-for-forgotten-birds.json](./263642-six-souls-requiem-for-forgotten-birds.json) |
 | Six textures | 271297 | [271297-six-textures.json](./271297-six-textures.json) |
 | Six Textures #3 | 321123 | [321123-six-textures-3.json](./321123-six-textures-3.json) |
 | Six-Chamber Champion | 384663 | [384663-six-chamber-champion.json](./384663-six-chamber-champion.json) |
@@ -10464,6 +10465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi Toilet Wars | 315926 | [315926-skibidi-toilet-wars.json](./315926-skibidi-toilet-wars.json) |
 | Skibidi Toilet: Battle Royale | 321490 | [321490-skibidi-toilet-battle-royale.json](./321490-skibidi-toilet-battle-royale.json) |
 | Skibidi Toilets: Invasion | 266597 | [266597-skibidi-toilets-invasion.json](./266597-skibidi-toilets-invasion.json) |
+| Skibidi War: Toilets Attack | 263614 | [263614-skibidi-war-toilets-attack.json](./263614-skibidi-war-toilets-attack.json) |
 | SkibidiVerse | 266905 | [266905-skibidiverse.json](./266905-skibidiverse.json) |
 | Skibum | 58534 | [58534-skibum.json](./58534-skibum.json) |
 | Skid Island: Asphalt Mayhem | 291745 | [291745-skid-island-asphalt-mayhem.json](./291745-skid-island-asphalt-mayhem.json) |
@@ -25208,6 +25210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudeki | 6179 | [6179-sudeki.json](./6179-sudeki.json) |
 | Sudo Cats | 221263 | [221263-sudo-cats.json](./221263-sudo-cats.json) |
 | Sudo King | 267545 | [267545-sudo-king.json](./267545-sudo-king.json) |
+| Sudo-O-Mate Junior | 263608 | [263608-sudo-o-mate-junior.json](./263608-sudo-o-mate-junior.json) |
 | SudoBlock | 36509 | [36509-sudoblock.json](./36509-sudoblock.json) |
 | Sudocats | 193466 | [193466-sudocats.json](./193466-sudocats.json) |
 | Sudocity | 216866 | [216866-sudocity.json](./216866-sudocity.json) |
