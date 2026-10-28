@@ -4646,6 +4646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey Puzzles | 196643 | [196643-air-hockey-puzzles.json](./196643-air-hockey-puzzles.json) |
 | Air Hockey Roguelike | 404511 | [404511-air-hockey-roguelike.json](./404511-air-hockey-roguelike.json) |
 | Air Hockey Simulator | 379525 | [379525-air-hockey-simulator.json](./379525-air-hockey-simulator.json) |
+| Air Hockey VR | 258568 | [258568-air-hockey-vr.json](./258568-air-hockey-vr.json) |
 | Air Hockey XL | 100276 | [100276-air-hockey-xl.json](./100276-air-hockey-xl.json) |
 | Air Hockey-fuu: Soukai Taisen Action Game - Breaking Beats! | 250444 | [250444-air-hockey-fuu-soukai-taisen-action-game-breaking-beats.json](./250444-air-hockey-fuu-soukai-taisen-action-game-breaking-beats.json) |
 | Air Hockey: Casual Table Arcade | 306526 | [306526-air-hockey-casual-table-arcade.json](./306526-air-hockey-casual-table-arcade.json) |
@@ -10001,6 +10002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Intern | 420223 | [420223-apocalypse-intern.json](./420223-apocalypse-intern.json) |
 | Apocalypse Island | 157392 | [157392-apocalypse-island.json](./157392-apocalypse-island.json) |
 | Apocalypse Island | 337958 | [337958-apocalypse-island.json](./337958-apocalypse-island.json) |
+| Apocalypse Lords | 258567 | [258567-apocalypse-lords.json](./258567-apocalypse-lords.json) |
 | Apocalypse Love Shelter | 290495 | [290495-apocalypse-love-shelter.json](./290495-apocalypse-love-shelter.json) |
 | Apocalypse Max | 188353 | [188353-apocalypse-max.json](./188353-apocalypse-max.json) |
 | Apocalypse Mechanism | 103499 | [103499-apocalypse-mechanism.json](./103499-apocalypse-mechanism.json) |
