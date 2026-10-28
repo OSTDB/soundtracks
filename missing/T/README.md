@@ -9024,6 +9024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Groom of Gallagher Mansion | 249060 | [249060-the-groom-of-gallagher-mansion.json](./249060-the-groom-of-gallagher-mansion.json) |
 | The Ground Division | 139398 | [139398-the-ground-division.json](./139398-the-ground-division.json) |
 | The Grounding | 140506 | [140506-the-grounding.json](./140506-the-grounding.json) |
+| The Groundskeeper | 255836 | [255836-the-groundskeeper.json](./255836-the-groundskeeper.json) |
 | The Groundskeeper | 366885 | [366885-the-groundskeeper.json](./366885-the-groundskeeper.json) |
 | The Grove | 402113 | [402113-the-grove.json](./402113-the-grove.json) |
 | The Grown-Up Detective Agency | 220560 | [220560-the-grown-up-detective-agency.json](./220560-the-grown-up-detective-agency.json) |
@@ -26264,6 +26265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Tile | 157441 | [157441-treasure-tile.json](./157441-treasure-tile.json) |
 | Treasure Tomb VR | 153375 | [153375-treasure-tomb-vr.json](./153375-treasure-tomb-vr.json) |
 | Treasure Tombs: Ra Deal | 250487 | [250487-treasure-tombs-ra-deal.json](./250487-treasure-tombs-ra-deal.json) |
+| Treasure Towers | 255820 | [255820-treasure-towers.json](./255820-treasure-towers.json) |
 | Treasure Train | 239095 | [239095-treasure-train.json](./239095-treasure-train.json) |
 | Treasure Trap | 237270 | [237270-treasure-trap.json](./237270-treasure-trap.json) |
 | Treasure Trap | 70936 | [70936-treasure-trap.json](./70936-treasure-trap.json) |
@@ -28117,6 +28119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turf Memories | 37808 | [37808-turf-memories.json](./37808-turf-memories.json) |
 | Turf Wars: A Snail Escape | 207723 | [207723-turf-wars-a-snail-escape.json](./207723-turf-wars-a-snail-escape.json) |
 | Turgor Pressure | 177318 | [177318-turgor-pressure.json](./177318-turgor-pressure.json) |
+| Turi: Kaapora | 255483 | [255483-turi-kaapora.json](./255483-turi-kaapora.json) |
 | Turing Sandbox | 400448 | [400448-turing-sandbox.json](./400448-turing-sandbox.json) |
 | Turing Trial | 183987 | [183987-turing-trial.json](./183987-turing-trial.json) |
 | Turis Station | 244501 | [244501-turis-station.json](./244501-turis-station.json) |
