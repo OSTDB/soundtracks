@@ -3073,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newtonica2 | 77116 | [77116-newtonica2.json](./77116-newtonica2.json) |
 | Newtraction | 194374 | [194374-newtraction.json](./194374-newtraction.json) |
 | NewU Fitness First Personal Trainer | 67689 | [67689-newu-fitness-first-personal-trainer.json](./67689-newu-fitness-first-personal-trainer.json) |
+| Nex Credo | 273737 | [273737-nex-credo.json](./273737-nex-credo.json) |
 | Nex Machina | 26202 | [26202-nex-machina.json](./26202-nex-machina.json) |
 | Nex-Ara | 364884 | [364884-nex-ara.json](./364884-nex-ara.json) |
 | Nex:Os Colosseum | 108760 | [108760-nex-os-colosseum.json](./108760-nex-os-colosseum.json) |
@@ -5702,6 +5703,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nord | 18949 | [18949-nord.json](./18949-nord.json) |
 | Nord and Bert Couldn't Make Head or Tail of It | 12619 | [12619-nord-and-bert-couldnt-make-head-or-tail-of-it.json](./12619-nord-and-bert-couldnt-make-head-or-tail-of-it.json) |
 | Nordenfelt | 33883 | [33883-nordenfelt.json](./33883-nordenfelt.json) |
+| Nordhell | 273724 | [273724-nordhell.json](./273724-nordhell.json) |
+| Nordhell | 273725 | [273725-nordhell.json](./273725-nordhell.json) |
 | Nordhold | 308349 | [308349-nordhold.json](./308349-nordhold.json) |
 | Nordhold: Origins | 311554 | [311554-nordhold-origins.json](./311554-nordhold-origins.json) |
 | Nordic Adventure Bundle | 277720 | [277720-nordic-adventure-bundle.json](./277720-nordic-adventure-bundle.json) |
