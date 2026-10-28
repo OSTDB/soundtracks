@@ -6305,6 +6305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long | 292006 | [292006-long.json](./292006-long.json) |
 | Long Ago: A Puzzle Tale | 148169 | [148169-long-ago-a-puzzle-tale.json](./148169-long-ago-a-puzzle-tale.json) |
 | Long and Hard… Summer! | 397019 | [397019-long-and-hard-summer.json](./397019-long-and-hard-summer.json) |
+| Long and Steady Departure | 229274 | [229274-long-and-steady-departure.json](./229274-long-and-steady-departure.json) |
 | Long Arm of the Law | 111863 | [111863-long-arm-of-the-law.json](./111863-long-arm-of-the-law.json) |
 | Long Boy: Escape Game | 199907 | [199907-long-boy-escape-game.json](./199907-long-boy-escape-game.json) |
 | Long Car Journey | 169491 | [169491-long-car-journey.json](./169491-long-car-journey.json) |
@@ -7969,6 +7970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LP | 150451 | [150451-lp.json](./150451-lp.json) |
 | LP Recharge | 227970 | [227970-lp-recharge.json](./227970-lp-recharge.json) |
 | Lrrl or Rllr | 169441 | [169441-lrrl-or-rllr.json](./169441-lrrl-or-rllr.json) |
+| Ls | 229389 | [229389-ls.json](./229389-ls.json) |
 | LSD Battlefield Simulator | 340927 | [340927-lsd-battlefield-simulator.json](./340927-lsd-battlefield-simulator.json) |
 | LSD: Dream Emulator | 9235 | [9235-lsd-dream-emulator.json](./9235-lsd-dream-emulator.json) |
 | LSD: Dream Emulator Retro | 333780 | [333780-lsd-dream-emulator-retro.json](./333780-lsd-dream-emulator-retro.json) |
@@ -8260,6 +8262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luggage Retrieval Officer | 242147 | [242147-luggage-retrieval-officer.json](./242147-luggage-retrieval-officer.json) |
 | Luhor's Memory | 393748 | [393748-luhors-memory.json](./393748-luhors-memory.json) |
 | Luigi & Spaghetti | 94408 | [94408-luigi-and-spaghetti.json](./94408-luigi-and-spaghetti.json) |
+| Luigi and the Christmas Quest | 229321 | [229321-luigi-and-the-christmas-quest.json](./229321-luigi-and-the-christmas-quest.json) |
 | Luigi and the Island of Mystery | 273029 | [273029-luigi-and-the-island-of-mystery.json](./273029-luigi-and-the-island-of-mystery.json) |
 | Luigi and the Quest for Nothing | 322004 | [322004-luigi-and-the-quest-for-nothing.json](./322004-luigi-and-the-quest-for-nothing.json) |
 | Luigi and the Quest for Nothing 2 | 265883 | [265883-luigi-and-the-quest-for-nothing-2.json](./265883-luigi-and-the-quest-for-nothing-2.json) |
@@ -8642,6 +8645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunch with Ronan | 292023 | [292023-lunch-with-ronan.json](./292023-lunch-with-ronan.json) |
 | Lunch-O-Matic | 320121 | [320121-lunch-o-matic.json](./320121-lunch-o-matic.json) |
 | Lunch-Out 3: Waste Disposal 20XX | 371531 | [371531-lunch-out-3-waste-disposal-20xx.json](./371531-lunch-out-3-waste-disposal-20xx.json) |
+| Lunchtime at Lilly's | 229266 | [229266-lunchtime-at-lillys.json](./229266-lunchtime-at-lillys.json) |
 | Lunchy | 320401 | [320401-lunchy.json](./320401-lunchy.json) |
 | Lune | 32455 | [32455-lune.json](./32455-lune.json) |
 | Lunebug | 361916 | [361916-lunebug.json](./361916-lunebug.json) |
