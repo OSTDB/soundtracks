@@ -11141,6 +11141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: The Mini Quest | 275620 | [275620-the-legend-of-zelda-the-mini-quest.json](./275620-the-legend-of-zelda-the-mini-quest.json) |
 | The Legend of Zelda: The Minish Cap Randomizer | 288697 | [288697-the-legend-of-zelda-the-minish-cap-randomizer.json](./288697-the-legend-of-zelda-the-minish-cap-randomizer.json) |
 | The Legend of Zelda: The Missing Link | 136392 | [136392-the-legend-of-zelda-the-missing-link.json](./136392-the-legend-of-zelda-the-missing-link.json) |
+| The Legend of Zelda: The Sealed Palace | 242736 | [242736-the-legend-of-zelda-the-sealed-palace.json](./242736-the-legend-of-zelda-the-sealed-palace.json) |
 | The Legend of Zelda: The Shadowgazer | 323364 | [323364-the-legend-of-zelda-the-shadowgazer.json](./323364-the-legend-of-zelda-the-shadowgazer.json) |
 | The Legend of Zelda: The Wind Waker - Limited Edition | 239007 | [239007-the-legend-of-zelda-the-wind-waker-limited-edition.json](./239007-the-legend-of-zelda-the-wind-waker-limited-edition.json) |
 | The Legend of Zelda: The Wind Waker HD - Limited Edition | 45135 | [45135-the-legend-of-zelda-the-wind-waker-hd-limited-edition.json](./45135-the-legend-of-zelda-the-wind-waker-hd-limited-edition.json) |
@@ -17234,6 +17235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Live in the Fractures | 333431 | [333431-they-live-in-the-fractures.json](./333431-they-live-in-the-fractures.json) |
 | They Look Strange and Have to Die | 181233 | [181233-they-look-strange-and-have-to-die.json](./181233-they-look-strange-and-have-to-die.json) |
 | They Love Them | 235813 | [235813-they-love-them.json](./235813-they-love-them.json) |
+| They Need To Be Fed | 242725 | [242725-they-need-to-be-fed.json](./242725-they-need-to-be-fed.json) |
 | They Not Fae! | 397294 | [397294-they-not-fae.json](./397294-they-not-fae.json) |
 | They Remain | 302061 | [302061-they-remain.json](./302061-they-remain.json) |
 | They See Us | 342780 | [342780-they-see-us.json](./342780-they-see-us.json) |
@@ -24387,6 +24389,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 3: Bahnstrecke Bremen - Oldenburg | 233357 | [233357-train-sim-world-3-bahnstrecke-bremen-oldenburg.json](./233357-train-sim-world-3-bahnstrecke-bremen-oldenburg.json) |
 | Train Sim World 3: Birmingham Cross-City Line - Lichfield: Bromsgrove & Redditch Route Add-On | 226688 | [226688-train-sim-world-3-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json](./226688-train-sim-world-3-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json) |
 | Train Sim World 3: Birmingham Standard Edition | 231364 | [231364-train-sim-world-3-birmingham-standard-edition.json](./231364-train-sim-world-3-birmingham-standard-edition.json) |
+| Train Sim World 3: BNSF SD70ACe | 242355 | [242355-train-sim-world-3-bnsf-sd70ace.json](./242355-train-sim-world-3-bnsf-sd70ace.json) |
+| Train Sim World 3: DB BR 403 ICE 3 Railbow | 242356 | [242356-train-sim-world-3-db-br-403-ice-3-railbow.json](./242356-train-sim-world-3-db-br-403-ice-3-railbow.json) |
 | Train Sim World 3: Dispolok BR 182 Add-On | 220712 | [220712-train-sim-world-3-dispolok-br-182-add-on.json](./220712-train-sim-world-3-dispolok-br-182-add-on.json) |
 | Train Sim World 3: Glossop Line - Manchester: Hadfield & Glossop Route | 254910 | [254910-train-sim-world-3-glossop-line-manchester-hadfield-and-glossop-route.json](./254910-train-sim-world-3-glossop-line-manchester-hadfield-and-glossop-route.json) |
 | Train Sim World 3: Linke Rheinstrecke - Mainz: Koblenz Route | 241308 | [241308-train-sim-world-3-linke-rheinstrecke-mainz-koblenz-route.json](./241308-train-sim-world-3-linke-rheinstrecke-mainz-koblenz-route.json) |
