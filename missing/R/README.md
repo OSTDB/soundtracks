@@ -6063,6 +6063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricave | 322095 | [322095-ricave.json](./322095-ricave.json) |
 | Rice & Rest | 346581 | [346581-rice-and-rest.json](./346581-rice-and-rest.json) |
 | Rice Bowl Restaurant | 253221 | [253221-rice-bowl-restaurant.json](./253221-rice-bowl-restaurant.json) |
+| RICE: Repetitive Indie Combat Experience | 233692 | [233692-rice-repetitive-indie-combat-experience.json](./233692-rice-repetitive-indie-combat-experience.json) |
 | Ricerca VR | 32884 | [32884-ricerca-vr.json](./32884-ricerca-vr.json) |
 | Rich City | 298112 | [298112-rich-city.json](./298112-rich-city.json) |
 | Rich Code | 96231 | [96231-rich-code.json](./96231-rich-code.json) |
@@ -8197,6 +8198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Jump | 378406 | [378406-rocket-jump.json](./378406-rocket-jump.json) |
 | Rocket Jump Frenzy | 247675 | [247675-rocket-jump-frenzy.json](./247675-rocket-jump-frenzy.json) |
 | Rocket Jump Race | 273653 | [273653-rocket-jump-race.json](./273653-rocket-jump-race.json) |
+| Rocket Jumper | 233688 | [233688-rocket-jumper.json](./233688-rocket-jumper.json) |
 | Rocket Jumping Sounds Dangerous | 179131 | [179131-rocket-jumping-sounds-dangerous.json](./179131-rocket-jumping-sounds-dangerous.json) |
 | Rocket Knight | 10782 | [10782-rocket-knight.json](./10782-rocket-knight.json) |
 | Rocket Knight Adventures | 9766 | [9766-rocket-knight-adventures.json](./9766-rocket-knight-adventures.json) |
