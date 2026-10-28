@@ -3543,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ordo Et Chao: New World | 113562 | [113562-ordo-et-chao-new-world.json](./113562-ordo-et-chao-new-world.json) |
 | Ore & Odds | 400688 | [400688-ore-and-odds.json](./400688-ore-and-odds.json) |
 | Ore Dake no Idol: eye no Sainou | 194594 | [194594-ore-dake-no-idol-eye-no-sainou.json](./194594-ore-dake-no-idol-eye-no-sainou.json) |
+| Ore Excavation | 233697 | [233697-ore-excavation.json](./233697-ore-excavation.json) |
 | Ore ga Konna ni Tsuyoi no mo Akira Maeda no Cracker | 280458 | [280458-ore-ga-konna-ni-tsuyoi-no-mo-akira-maeda-no-cracker.json](./280458-ore-ga-konna-ni-tsuyoi-no-mo-akira-maeda-no-cracker.json) |
 | Ore ga Omae wo Mamoru | 69213 | [69213-ore-ga-omae-wo-mamoru.json](./69213-ore-ga-omae-wo-mamoru.json) |
 | Ore ga Watashi ni Kawatta Hi...: Becoming a She | 224208 | [224208-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json](./224208-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json) |
