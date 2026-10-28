@@ -884,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Quick Death | 41973 | [41973-a-quick-death.json](./41973-a-quick-death.json) |
 | A Quick Journey to the Edge and Back | 177844 | [177844-a-quick-journey-to-the-edge-and-back.json](./177844-a-quick-journey-to-the-edge-and-back.json) |
 | A Quick One Before Azathoth Devours Fodrian | 271299 | [271299-a-quick-one-before-azathoth-devours-fodrian.json](./271299-a-quick-one-before-azathoth-devours-fodrian.json) |
+| A Quick Trip to the Old World | 271338 | [271338-a-quick-trip-to-the-old-world.json](./271338-a-quick-trip-to-the-old-world.json) |
 | A Quiet Air | 229561 | [229561-a-quiet-air.json](./229561-a-quiet-air.json) |
 | A Quiet Mind | 100669 | [100669-a-quiet-mind.json](./100669-a-quiet-mind.json) |
 | A Quiet Place: The Road Ahead | 294453 | [294453-a-quiet-place-the-road-ahead.json](./294453-a-quiet-place-the-road-ahead.json) |
@@ -8024,6 +8025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AncientsReborn | 233439 | [233439-ancientsreborn.json](./233439-ancientsreborn.json) |
 | Ancings: The First Tournament | 283902 | [283902-ancings-the-first-tournament.json](./283902-ancings-the-first-tournament.json) |
 | Ancipital | 13801 | [13801-ancipital.json](./13801-ancipital.json) |
+| And All That Could Have Been | 271055 | [271055-and-all-that-could-have-been.json](./271055-and-all-that-could-have-been.json) |
 | And All Would Cry Beware! | 117627 | [117627-and-all-would-cry-beware.json](./117627-and-all-would-cry-beware.json) |
 | And Around Goes the Clock | 364514 | [364514-and-around-goes-the-clock.json](./364514-and-around-goes-the-clock.json) |
 | And From the Earth.... | 392399 | [392399-and-from-the-earth.json](./392399-and-from-the-earth.json) |
