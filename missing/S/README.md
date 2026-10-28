@@ -11383,6 +11383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleeping Dogs: The SWAT Pack | 166006 | [166006-sleeping-dogs-the-swat-pack.json](./166006-sleeping-dogs-the-swat-pack.json) |
 | Sleeping Dogs: Year of the Snake | 10873 | [10873-sleeping-dogs-year-of-the-snake.json](./10873-sleeping-dogs-year-of-the-snake.json) |
 | Sleeping Dogs: Zodiac Tournament | 78450 | [78450-sleeping-dogs-zodiac-tournament.json](./78450-sleeping-dogs-zodiac-tournament.json) |
+| Sleeping Dragon | 262774 | [262774-sleeping-dragon.json](./262774-sleeping-dragon.json) |
 | Sleeping Flowers: Thread Curse | 233490 | [233490-sleeping-flowers-thread-curse.json](./233490-sleeping-flowers-thread-curse.json) |
 | Sleeping Forest | 292513 | [292513-sleeping-forest.json](./292513-sleeping-forest.json) |
 | Sleeping Gods Lie | 71585 | [71585-sleeping-gods-lie.json](./71585-sleeping-gods-lie.json) |
@@ -21963,6 +21964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Rubicon | 35191 | [35191-starship-rubicon.json](./35191-starship-rubicon.json) |
 | Starship Saboteur Prototype | 133249 | [133249-starship-saboteur-prototype.json](./133249-starship-saboteur-prototype.json) |
 | Starship Scarwolf | 371933 | [371933-starship-scarwolf.json](./371933-starship-scarwolf.json) |
+| Starship Scramble | 263077 | [263077-starship-scramble.json](./263077-starship-scramble.json) |
 | Starship Showdown: Galactic Grand Prix | 283223 | [283223-starship-showdown-galactic-grand-prix.json](./283223-starship-showdown-galactic-grand-prix.json) |
 | Starship Survivor | 193288 | [193288-starship-survivor.json](./193288-starship-survivor.json) |
 | Starship Survivor | 30399 | [30399-starship-survivor.json](./30399-starship-survivor.json) |
@@ -25762,6 +25764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Sports Games: 4K Edition | 173168 | [173168-summer-sports-games-4k-edition.json](./173168-summer-sports-games-4k-edition.json) |
 | Summer Sports Party | 23261 | [23261-summer-sports-party.json](./23261-summer-sports-party.json) |
 | Summer Sports: Paradise Island | 5197 | [5197-summer-sports-paradise-island.json](./5197-summer-sports-paradise-island.json) |
+| Summer Sprint | 262771 | [262771-summer-sprint.json](./262771-summer-sprint.json) |
 | Summer Stars 2012 | 20233 | [20233-summer-stars-2012.json](./20233-summer-stars-2012.json) |
 | Summer Time Render: Another Horizon | 233927 | [233927-summer-time-render-another-horizon.json](./233927-summer-time-render-another-horizon.json) |
 | Summer Tri-Peaks Solitaire | 319300 | [319300-summer-tri-peaks-solitaire.json](./319300-summer-tri-peaks-solitaire.json) |
@@ -26756,6 +26759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gachapon World: SD Gundam X | 42401 | [42401-super-gachapon-world-sd-gundam-x.json](./42401-super-gachapon-world-sd-gundam-x.json) |
 | Super Gahaku | 417571 | [417571-super-gahaku.json](./417571-super-gahaku.json) |
 | Super Galaxy Ball | 219579 | [219579-super-galaxy-ball.json](./219579-super-galaxy-ball.json) |
+| Super Galaxy Ball: Skin Pack 1 | 263069 | [263069-super-galaxy-ball-skin-pack-1.json](./263069-super-galaxy-ball-skin-pack-1.json) |
 | Super Galaxy Boy | 54867 | [54867-super-galaxy-boy.json](./54867-super-galaxy-boy.json) |
 | Super Galaxy Ranger Luna | 327983 | [327983-super-galaxy-ranger-luna.json](./327983-super-galaxy-ranger-luna.json) |
 | Super Galaxy Squadron EX | 17991 | [17991-super-galaxy-squadron-ex.json](./17991-super-galaxy-squadron-ex.json) |
