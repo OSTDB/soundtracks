@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obey | 20350 | [20350-obey.json](./20350-obey.json) |
 | Obey Her or Else | 248434 | [248434-obey-her-or-else.json](./248434-obey-her-or-else.json) |
 | Obey Me | 118205 | [118205-obey-me.json](./118205-obey-me.json) |
+| Obey Me! Nightbringer | 242916 | [242916-obey-me-nightbringer.json](./242916-obey-me-nightbringer.json) |
 | Obey Me! Sinner's Choice: Lucifer | 396555 | [396555-obey-me-sinners-choice-lucifer.json](./396555-obey-me-sinners-choice-lucifer.json) |
 | Obey Me! Till Death Do Us Part | 382870 | [382870-obey-me-till-death-do-us-part.json](./382870-obey-me-till-death-do-us-part.json) |
 | Obey Me!: One Master to Rule Them All | 132649 | [132649-obey-me-one-master-to-rule-them-all.json](./132649-obey-me-one-master-to-rule-them-all.json) |
@@ -479,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopath Traveler + Octopath Traveler II Bundle | 304800 | [304800-octopath-traveler-octopath-traveler-ii-bundle.json](./304800-octopath-traveler-octopath-traveler-ii-bundle.json) |
 | Octopath Traveler 0: Digital Deluxe Edition | 366786 | [366786-octopath-traveler-0-digital-deluxe-edition.json](./366786-octopath-traveler-0-digital-deluxe-edition.json) |
 | Octopath Traveler II | 217554 | [217554-octopath-traveler-ii.json](./217554-octopath-traveler-ii.json) |
+| Octopath Traveler II: Steelbook Edition | 243868 | [243868-octopath-traveler-ii-steelbook-edition.json](./243868-octopath-traveler-ii-steelbook-edition.json) |
 | Octopath Traveler: Wayfarer's Edition | 136350 | [136350-octopath-traveler-wayfarers-edition.json](./136350-octopath-traveler-wayfarers-edition.json) |
 | Octopede | 94202 | [94202-octopede.json](./94202-octopede.json) |
 | Octopi: Snow Globe | 240112 | [240112-octopi-snow-globe.json](./240112-octopi-snow-globe.json) |
@@ -4108,6 +4110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otto’s Galactic Groove!! | 340851 | [340851-otto-s-galactic-groove.json](./340851-otto-s-galactic-groove.json) |
 | Otto's Magic Blocks | 208926 | [208926-ottos-magic-blocks.json](./208926-ottos-magic-blocks.json) |
 | Otto's Ottifanten: Kommando Stortebeker | 50559 | [50559-ottos-ottifanten-kommando-stortebeker.json](./50559-ottos-ottifanten-kommando-stortebeker.json) |
+| Otto's Tennis game | 243844 | [243844-ottos-tennis-game.json](./243844-ottos-tennis-game.json) |
 | Ottoman Empire: Spectacular Millennium | 88121 | [88121-ottoman-empire-spectacular-millennium.json](./88121-ottoman-empire-spectacular-millennium.json) |
 | Ottomax | 257346 | [257346-ottomax.json](./257346-ottomax.json) |
 | Ottopunk | 181858 | [181858-ottopunk.json](./181858-ottopunk.json) |
@@ -4292,6 +4295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Ammo | 177536 | [177536-out-of-ammo.json](./177536-out-of-ammo.json) |
 | Out of Ammo | 23990 | [23990-out-of-ammo.json](./23990-out-of-ammo.json) |
 | Out of Ammo: Death Drive | 54823 | [54823-out-of-ammo-death-drive.json](./54823-out-of-ammo-death-drive.json) |
+| Out of Body | 243722 | [243722-out-of-body.json](./243722-out-of-body.json) |
 | Out of Body | 377171 | [377171-out-of-body.json](./377171-out-of-body.json) |
 | Out of Bounds | 204817 | [204817-out-of-bounds.json](./204817-out-of-bounds.json) |
 | Out of Bounds | 357728 | [357728-out-of-bounds.json](./357728-out-of-bounds.json) |
