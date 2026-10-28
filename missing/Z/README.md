@@ -1470,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Infection | 223014 | [223014-zombie-infection.json](./223014-zombie-infection.json) |
 | Zombie Infection | 331340 | [331340-zombie-infection.json](./331340-zombie-infection.json) |
 | Zombie Infection 2 | 223015 | [223015-zombie-infection-2.json](./223015-zombie-infection-2.json) |
+| Zombie Infinity | 272405 | [272405-zombie-infinity.json](./272405-zombie-infinity.json) |
 | Zombie Inglor | 388115 | [388115-zombie-inglor.json](./388115-zombie-inglor.json) |
 | Zombie Invasion | 179883 | [179883-zombie-invasion.json](./179883-zombie-invasion.json) |
 | Zombie Invasion | 337751 | [337751-zombie-invasion.json](./337751-zombie-invasion.json) |
