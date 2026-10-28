@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-28T12:11:21.309Z",
-  "total_soundtracks": 2670,
+  "generated_at": "2026-10-28T13:20:49.551Z",
+  "total_soundtracks": 2671,
   "games": [
     {
       "igdb_id": 7522,
@@ -12056,8 +12056,14 @@
       "igdb_id": 52189,
       "game_name": "Grand Theft Auto VI",
       "game_url": "https://ostdb.net/games/grand-theft-auto-vi",
-      "cover_url": "https://i.scdn.co/image/ab67616d0000b273197fc499df23a7957415dffe",
+      "cover_url": "https://ostdb.net/media/uploads/3028a3afd0be9a887f67b12e4e0d87709993cb45be15eedb3650901cc803af47.jpg",
       "albums": [
+        {
+          "album_name": "Grand Theft Auto VI: Original Score",
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/nz/album/grand-theft-auto-vi-original-score/6827656134",
+          "album_link_url": ""
+        },
         {
           "album_name": "Grand Theft Auto VI: The Album",
           "spotify_url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4",
