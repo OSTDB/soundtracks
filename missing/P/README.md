@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora's Palace | 39380 | [39380-pandoras-palace.json](./39380-pandoras-palace.json) |
 | Pandora's Sack | 406685 | [406685-pandoras-sack.json](./406685-pandoras-sack.json) |
 | Pandora's Toybox | 368614 | [368614-pandoras-toybox.json](./368614-pandoras-toybox.json) |
+| Pandoras Books | 241564 | [241564-pandoras-books.json](./241564-pandoras-books.json) |
 | Pandoria | 148465 | [148465-pandoria.json](./148465-pandoria.json) |
 | Pandrax | 118194 | [118194-pandrax.json](./118194-pandrax.json) |
 | Pandu | 169681 | [169681-pandu.json](./169681-pandu.json) |
@@ -3062,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PBJ: The Musical | 325280 | [325280-pbj-the-musical.json](./325280-pbj-the-musical.json) |
 | PBJ: The Sandwich | 256160 | [256160-pbj-the-sandwich.json](./256160-pbj-the-sandwich.json) |
 | Pbouxhkiir Night on the Primox Alpha | 339780 | [339780-pbouxhkiir-night-on-the-primox-alpha.json](./339780-pbouxhkiir-night-on-the-primox-alpha.json) |
+| PBR: Raging Bulls | 241559 | [241559-pbr-raging-bulls.json](./241559-pbr-raging-bulls.json) |
 | PButtons | 356640 | [356640-pbuttons.json](./356640-pbuttons.json) |
 | PC Basket 4.0 | 320947 | [320947-pc-basket-4-0.json](./320947-pc-basket-4-0.json) |
 | Pc Building Empire | 357424 | [357424-pc-building-empire.json](./357424-pc-building-empire.json) |
@@ -6186,6 +6188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pindeavor | 208602 | [208602-pindeavor.json](./208602-pindeavor.json) |
 | Pine | 338225 | [338225-pine.json](./338225-pine.json) |
 | Pine Creek: The Book of Judith | 253215 | [253215-pine-creek-the-book-of-judith.json](./253215-pine-creek-the-book-of-judith.json) |
+| Pine Grove | 241566 | [241566-pine-grove.json](./241566-pine-grove.json) |
 | Pine Harbor | 257929 | [257929-pine-harbor.json](./257929-pine-harbor.json) |
 | Pine Hearts | 204528 | [204528-pine-hearts.json](./204528-pine-hearts.json) |
 | Pine Point: Insomniac | 334011 | [334011-pine-point-insomniac.json](./334011-pine-point-insomniac.json) |
@@ -6246,6 +6249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong Peg | 226090 | [226090-ping-pong-peg.json](./226090-ping-pong-peg.json) |
 | Ping Pong Pow | 23605 | [23605-ping-pong-pow.json](./23605-ping-pong-pow.json) |
 | Ping Pong Pufferfish | 188985 | [188985-ping-pong-pufferfish.json](./188985-ping-pong-pufferfish.json) |
+| Ping Pong Run | 241565 | [241565-ping-pong-run.json](./241565-ping-pong-run.json) |
 | Ping Pong Space | 130965 | [130965-ping-pong-space.json](./130965-ping-pong-space.json) |
 | Ping Pong Trick Shot | 56779 | [56779-ping-pong-trick-shot.json](./56779-ping-pong-trick-shot.json) |
 | Ping Pong Trick Shot 2 | 84823 | [84823-ping-pong-trick-shot-2.json](./84823-ping-pong-trick-shot-2.json) |
@@ -13280,6 +13284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prodoomer | 201234 | [201234-prodoomer.json](./201234-prodoomer.json) |
 | Producer (2021) | 154283 | [154283-producer-2021.json](./154283-producer-2021.json) |
 | Producer Tycoon | 244319 | [244319-producer-tycoon.json](./244319-producer-tycoon.json) |
+| Production Chain Tycoon | 241567 | [241567-production-chain-tycoon.json](./241567-production-chain-tycoon.json) |
 | Production City | 415009 | [415009-production-city.json](./415009-production-city.json) |
 | Production Line: Doors that go like this | 124782 | [124782-production-line-doors-that-go-like-this.json](./124782-production-line-doors-that-go-like-this.json) |
 | Proelium | 110745 | [110745-proelium.json](./110745-proelium.json) |
@@ -15758,6 +15763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli S Slitherlink | 225545 | [225545-puzzle-by-nikoli-s-slitherlink.json](./225545-puzzle-by-nikoli-s-slitherlink.json) |
 | Puzzle by Nikoli S Sudoku | 219293 | [219293-puzzle-by-nikoli-s-sudoku.json](./219293-puzzle-by-nikoli-s-sudoku.json) |
 | Puzzle by Nikoli S Yajilin | 252622 | [252622-puzzle-by-nikoli-s-yajilin.json](./252622-puzzle-by-nikoli-s-yajilin.json) |
+| Puzzle by Nikoli S: Masyu | 241179 | [241179-puzzle-by-nikoli-s-masyu.json](./241179-puzzle-by-nikoli-s-masyu.json) |
 | Puzzle by Nikoli S: Numberlink | 250392 | [250392-puzzle-by-nikoli-s-numberlink.json](./250392-puzzle-by-nikoli-s-numberlink.json) |
 | Puzzle by Nikoli S: Nurikabe | 231075 | [231075-puzzle-by-nikoli-s-nurikabe.json](./231075-puzzle-by-nikoli-s-nurikabe.json) |
 | Puzzle by Nikoli S: Shikaku | 245913 | [245913-puzzle-by-nikoli-s-shikaku.json](./245913-puzzle-by-nikoli-s-shikaku.json) |
@@ -15767,6 +15773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli W Heyawake | 230827 | [230827-puzzle-by-nikoli-w-heyawake.json](./230827-puzzle-by-nikoli-w-heyawake.json) |
 | Puzzle by Nikoli W Hitori | 256430 | [256430-puzzle-by-nikoli-w-hitori.json](./256430-puzzle-by-nikoli-w-hitori.json) |
 | Puzzle by Nikoli W Kakuro | 262657 | [262657-puzzle-by-nikoli-w-kakuro.json](./262657-puzzle-by-nikoli-w-kakuro.json) |
+| Puzzle by Nikoli W Masyu | 241175 | [241175-puzzle-by-nikoli-w-masyu.json](./241175-puzzle-by-nikoli-w-masyu.json) |
 | Puzzle by Nikoli W Slitherlink | 225476 | [225476-puzzle-by-nikoli-w-slitherlink.json](./225476-puzzle-by-nikoli-w-slitherlink.json) |
 | Puzzle by Nikoli W Yajilin | 251395 | [251395-puzzle-by-nikoli-w-yajilin.json](./251395-puzzle-by-nikoli-w-yajilin.json) |
 | Puzzle by Nikoli W: Sudoku | 218511 | [218511-puzzle-by-nikoli-w-sudoku.json](./218511-puzzle-by-nikoli-w-sudoku.json) |
