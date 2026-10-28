@@ -2746,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onsui | 278256 | [278256-onsui.json](./278256-onsui.json) |
 | Ontamarama | 21509 | [21509-ontamarama.json](./21509-ontamarama.json) |
 | OnTheFrontLine | 30734 | [30734-onthefrontline.json](./30734-onthefrontline.json) |
+| Onto Maizilind Unto Infinity: Act I - Destruction's Wake | 252536 | [252536-onto-maizilind-unto-infinity-act-i-destructions-wake.json](./252536-onto-maizilind-unto-infinity-act-i-destructions-wake.json) |
 | Ontos | 381219 | [381219-ontos.json](./381219-ontos.json) |
 | Ontranto | 277955 | [277955-ontranto.json](./277955-ontranto.json) |
 | Onward and Upward! DX | 279852 | [279852-onward-and-upward-dx.json](./279852-onward-and-upward-dx.json) |
@@ -5030,6 +5031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch 2: Season 2 - Greek Mythology | 228002 | [228002-overwatch-2-season-2-greek-mythology.json](./228002-overwatch-2-season-2-greek-mythology.json) |
 | Overwatch 2: Season 20 - Vendetta | 380108 | [380108-overwatch-2-season-20-vendetta.json](./380108-overwatch-2-season-20-vendetta.json) |
 | Overwatch 2: Season 4 - Space Opera | 243933 | [243933-overwatch-2-season-4-space-opera.json](./243933-overwatch-2-season-4-space-opera.json) |
+| Overwatch 2: Season 5 - High-Fantasy | 252775 | [252775-overwatch-2-season-5-high-fantasy.json](./252775-overwatch-2-season-5-high-fantasy.json) |
 | Overwatch 2: Season 6 - Invasion | 252842 | [252842-overwatch-2-season-6-invasion.json](./252842-overwatch-2-season-6-invasion.json) |
 | Overwatch 2: Season 7 - Rise of the Darkness | 270044 | [270044-overwatch-2-season-7-rise-of-the-darkness.json](./270044-overwatch-2-season-7-rise-of-the-darkness.json) |
 | Overwatch 2: Season 8 - Call of the Hunt | 275170 | [275170-overwatch-2-season-8-call-of-the-hunt.json](./275170-overwatch-2-season-8-call-of-the-hunt.json) |
