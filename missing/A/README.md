@@ -10740,6 +10740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
 | Arcade Archives: Satan of Saturn | 416064 | [416064-arcade-archives-satan-of-saturn.json](./416064-arcade-archives-satan-of-saturn.json) |
 | Arcade Archives: Scramble | 75699 | [75699-arcade-archives-scramble.json](./75699-arcade-archives-scramble.json) |
+| Arcade Archives: Scramble Formation | 278567 | [278567-arcade-archives-scramble-formation.json](./278567-arcade-archives-scramble-formation.json) |
 | Arcade Archives: Scrambled Egg | 364072 | [364072-arcade-archives-scrambled-egg.json](./364072-arcade-archives-scrambled-egg.json) |
 | Arcade Archives: Sea Fighter Poseidon | 154981 | [154981-arcade-archives-sea-fighter-poseidon.json](./154981-arcade-archives-sea-fighter-poseidon.json) |
 | Arcade Archives: Senjyo | 231212 | [231212-arcade-archives-senjyo.json](./231212-arcade-archives-senjyo.json) |
