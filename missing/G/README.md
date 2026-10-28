@@ -2248,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekko's Super Strength | 359431 | [359431-gekkos-super-strength.json](./359431-gekkos-super-strength.json) |
 | Gekkou no Carnevale | 137102 | [137102-gekkou-no-carnevale.json](./137102-gekkou-no-carnevale.json) |
 | Geko: Entering The Pipe | 239757 | [239757-geko-entering-the-pipe.json](./239757-geko-entering-the-pipe.json) |
+| Geko: In Search of the Big Fly | 261636 | [261636-geko-in-search-of-the-big-fly.json](./261636-geko-in-search-of-the-big-fly.json) |
 | Gekraxel | 120114 | [120114-gekraxel.json](./120114-gekraxel.json) |
 | Gel-Tank | 142801 | [142801-gel-tank.json](./142801-gel-tank.json) |
 | Gelatina is Hungry | 304961 | [304961-gelatina-is-hungry.json](./304961-gelatina-is-hungry.json) |
@@ -3063,6 +3064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get the Girl! | 93193 | [93193-get-the-girl.json](./93193-get-the-girl.json) |
 | Get the Glass | 272848 | [272848-get-the-glass.json](./272848-get-the-glass.json) |
 | Get the Guy | 372699 | [372699-get-the-guy.json](./372699-get-the-guy.json) |
+| Get Them Boats: Orca Revenge | 261930 | [261930-get-them-boats-orca-revenge.json](./261930-get-them-boats-orca-revenge.json) |
 | Get Them To Safety | 374053 | [374053-get-them-to-safety.json](./374053-get-them-to-safety.json) |
 | Get Tilted! :) | 304819 | [304819-get-tilted.json](./304819-get-tilted.json) |
 | Get to a Gun | 110511 | [110511-get-to-a-gun.json](./110511-get-to-a-gun.json) |
@@ -4237,6 +4239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch | 92479 | [92479-glitch.json](./92479-glitch.json) |
 | Glitch Assassin | 156023 | [156023-glitch-assassin.json](./156023-glitch-assassin.json) |
 | Glitch Boy | 25757 | [25757-glitch-boy.json](./25757-glitch-boy.json) |
+| Glitch Busters: Boss Challenge Pack | 261854 | [261854-glitch-busters-boss-challenge-pack.json](./261854-glitch-busters-boss-challenge-pack.json) |
 | Glitch Busters: Stuck on You | 204444 | [204444-glitch-busters-stuck-on-you.json](./204444-glitch-busters-stuck-on-you.json) |
 | Glitch Daddy | 277009 | [277009-glitch-daddy.json](./277009-glitch-daddy.json) |
 | Glitch Dream | 182755 | [182755-glitch-dream.json](./182755-glitch-dream.json) |
