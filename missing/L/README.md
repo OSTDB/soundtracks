@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lancelot | 12169 | [12169-lancelot.json](./12169-lancelot.json) |
 | Lancelot's Hangover : The Quest for the Holy Booze | 107775 | [107775-lancelots-hangover-the-quest-for-the-holy-booze.json](./107775-lancelots-hangover-the-quest-for-the-holy-booze.json) |
 | Lancen Adventure | 321814 | [321814-lancen-adventure.json](./321814-lancen-adventure.json) |
+| Lancer Lords | 251150 | [251150-lancer-lords.json](./251150-lancer-lords.json) |
 | Lancer Tactics | 375255 | [375255-lancer-tactics.json](./375255-lancer-tactics.json) |
 | Land Air Sea Warfare HD | 109017 | [109017-land-air-sea-warfare-hd.json](./109017-land-air-sea-warfare-hd.json) |
 | Land Before Time: Adventure Valley | 318945 | [318945-land-before-time-adventure-valley.json](./318945-land-before-time-adventure-valley.json) |
@@ -2466,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Future Past | 65515 | [65515-legends-of-future-past.json](./65515-legends-of-future-past.json) |
 | Legends of Gems | 348010 | [348010-legends-of-gems.json](./348010-legends-of-gems.json) |
 | Legends of Gondwana | 157467 | [157467-legends-of-gondwana.json](./157467-legends-of-gondwana.json) |
+| Legends of Haired Pyra | 251130 | [251130-legends-of-haired-pyra.json](./251130-legends-of-haired-pyra.json) |
 | Legends of Hapax | 199442 | [199442-legends-of-hapax.json](./199442-legends-of-hapax.json) |
 | Legends of Heropolis | 202851 | [202851-legends-of-heropolis.json](./202851-legends-of-heropolis.json) |
 | Legends Of Heropolis DX | 317840 | [317840-legends-of-heropolis-dx.json](./317840-legends-of-heropolis-dx.json) |
@@ -4076,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light No Fire | 279655 | [279655-light-no-fire.json](./279655-light-no-fire.json) |
 | Light of Atlantis | 253915 | [253915-light-of-atlantis.json](./253915-light-of-atlantis.json) |
 | Light Of Chaos | 304361 | [304361-light-of-chaos.json](./304361-light-of-chaos.json) |
+| Light of Coco | 250750 | [250750-light-of-coco.json](./250750-light-of-coco.json) |
 | Light of Darkness | 186087 | [186087-light-of-darkness.json](./186087-light-of-darkness.json) |
 | Light of Gallery | 115596 | [115596-light-of-gallery.json](./115596-light-of-gallery.json) |
 | Light of Hope 1: Fungi Spirulina | 367853 | [367853-light-of-hope-1-fungi-spirulina.json](./367853-light-of-hope-1-fungi-spirulina.json) |
@@ -5098,6 +5101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Gardens | 128385 | [128385-little-gardens.json](./128385-little-gardens.json) |
 | Little Genius Kids | 89542 | [89542-little-genius-kids.json](./89542-little-genius-kids.json) |
 | Little Ghost | 25455 | [25455-little-ghost.json](./25455-little-ghost.json) |
+| Little Ghosthunter | 249889 | [249889-little-ghosthunter.json](./249889-little-ghosthunter.json) |
 | Little Ghosties | 405158 | [405158-little-ghosties.json](./405158-little-ghosties.json) |
 | Little Girl in Underland | 323733 | [323733-little-girl-in-underland.json](./323733-little-girl-in-underland.json) |
 | Little Gods | 244259 | [244259-little-gods.json](./244259-little-gods.json) |
@@ -5314,6 +5318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Red Riding Hood: Wonder Animals | 288301 | [288301-little-red-riding-hood-wonder-animals.json](./288301-little-red-riding-hood-wonder-animals.json) |
 | Little Red Riding Hood: Wonder Animals Vol.2 | 288300 | [288300-little-red-riding-hood-wonder-animals-vol-2.json](./288300-little-red-riding-hood-wonder-animals-vol-2.json) |
 | Little Red Riding Hood's Wolf | 125863 | [125863-little-red-riding-hoods-wolf.json](./125863-little-red-riding-hoods-wolf.json) |
+| Little Red Riding Rogue | 251121 | [251121-little-red-riding-rogue.json](./251121-little-red-riding-rogue.json) |
 | Little Red Rocket Ship | 190199 | [190199-little-red-rocket-ship.json](./190199-little-red-rocket-ship.json) |
 | Little Reds Forest Fun | 114958 | [114958-little-reds-forest-fun.json](./114958-little-reds-forest-fun.json) |
 | Little Retreat | 381609 | [381609-little-retreat.json](./381609-little-retreat.json) |
@@ -6009,6 +6014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LogiCally | 164938 | [164938-logically.json](./164938-logically.json) |
 | LogicBots | 27141 | [27141-logicbots.json](./27141-logicbots.json) |
 | Logicubes | 211285 | [211285-logicubes.json](./211285-logicubes.json) |
+| LogiGolf | 250978 | [250978-logigolf.json](./250978-logigolf.json) |
 | LogiGun | 17560 | [17560-logigun.json](./17560-logigun.json) |
 | Logik | 204947 | [204947-logik.json](./204947-logik.json) |
 | LogiKing | 231051 | [231051-logiking.json](./231051-logiking.json) |
@@ -6626,6 +6632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Click 3 | 197410 | [197410-lord-of-the-click-3.json](./197410-lord-of-the-click-3.json) |
 | Lord of the Click 4 | 331469 | [331469-lord-of-the-click-4.json](./331469-lord-of-the-click-4.json) |
 | Lord of the Click 5 | 347778 | [347778-lord-of-the-click-5.json](./347778-lord-of-the-click-5.json) |
+| Lord of the Click: Interstellar Wars | 250546 | [250546-lord-of-the-click-interstellar-wars.json](./250546-lord-of-the-click-interstellar-wars.json) |
 | Lord of the Cyberdemons | 263364 | [263364-lord-of-the-cyberdemons.json](./263364-lord-of-the-cyberdemons.json) |
 | Lord of the Dark Castle | 35761 | [35761-lord-of-the-dark-castle.json](./35761-lord-of-the-dark-castle.json) |
 | Lord of the Dungeon | 283013 | [283013-lord-of-the-dungeon.json](./283013-lord-of-the-dungeon.json) |
