@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caladria Chronicles Volume 2 | 230972 | [230972-caladria-chronicles-volume-2.json](./230972-caladria-chronicles-volume-2.json) |
 | Caladrius | 47482 | [47482-caladrius.json](./47482-caladrius.json) |
 | Calamai Kid | 95688 | [95688-calamai-kid.json](./95688-calamai-kid.json) |
+| Calamari Capsize | 266346 | [266346-calamari-capsize.json](./266346-calamari-capsize.json) |
 | Calamari Clash | 127844 | [127844-calamari-clash.json](./127844-calamari-clash.json) |
 | Calamity | 303719 | [303719-calamity.json](./303719-calamity.json) |
 | Calamity | 364103 | [364103-calamity.json](./364103-calamity.json) |
@@ -1096,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candle Prick | 185609 | [185609-candle-prick.json](./185609-candle-prick.json) |
 | Candle Under Water | 124173 | [124173-candle-under-water.json](./124173-candle-under-water.json) |
 | Candle Wood | 315115 | [315115-candle-wood.json](./315115-candle-wood.json) |
+| Candlebook Island | 266059 | [266059-candlebook-island.json](./266059-candlebook-island.json) |
 | Candleholder | 330057 | [330057-candleholder.json](./330057-candleholder.json) |
 | Candlelight | 200472 | [200472-candlelight.json](./200472-candlelight.json) |
 | Candlelight | 276456 | [276456-candlelight.json](./276456-candlelight.json) |
@@ -1478,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capp's Ascent | 413482 | [413482-capps-ascent.json](./413482-capps-ascent.json) |
 | Cappadocia Puzzle | 303065 | [303065-cappadocia-puzzle.json](./303065-cappadocia-puzzle.json) |
 | Capper | 384667 | [384667-capper.json](./384667-capper.json) |
+| Cappi: Starbound Saga | 266365 | [266365-cappi-starbound-saga.json](./266365-cappi-starbound-saga.json) |
 | Cappu Dungeon | 345051 | [345051-cappu-dungeon.json](./345051-cappu-dungeon.json) |
 | Cappuccino Assassino Shooter | 350189 | [350189-cappuccino-assassino-shooter.json](./350189-cappuccino-assassino-shooter.json) |
 | Cappuccino: The Refill | 271781 | [271781-cappuccino-the-refill.json](./271781-cappuccino-the-refill.json) |
@@ -5158,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chapolim x Drácula: Um Duelo Assustador | 85983 | [85983-chapolim-x-dracula-um-duelo-assustador.json](./85983-chapolim-x-dracula-um-duelo-assustador.json) |
 | Chapter Master | 154813 | [154813-chapter-master.json](./154813-chapter-master.json) |
 | Chapter Wars: Expansion Pack | 286541 | [286541-chapter-wars-expansion-pack.json](./286541-chapter-wars-expansion-pack.json) |
+| Chapter Zero: The Angel Island Saga | 266347 | [266347-chapter-zero-the-angel-island-saga.json](./266347-chapter-zero-the-angel-island-saga.json) |
 | Chaqs | 223504 | [223504-chaqs.json](./223504-chaqs.json) |
 | Char's Ennui | 384774 | [384774-chars-ennui.json](./384774-chars-ennui.json) |
 | Chara Chenko | 130385 | [130385-chara-chenko.json](./130385-chara-chenko.json) |
@@ -17307,6 +17311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Chess | 208844 | [208844-cyber-chess.json](./208844-cyber-chess.json) |
 | Cyber Chicken: Extreme Edition | 52847 | [52847-cyber-chicken-extreme-edition.json](./52847-cyber-chicken-extreme-edition.json) |
 | Cyber Circuit | 60840 | [60840-cyber-circuit.json](./60840-cyber-circuit.json) |
+| Cyber Citizen Shockman 2: A New Menace | 266339 | [266339-cyber-citizen-shockman-2-a-new-menace.json](./266339-cyber-citizen-shockman-2-a-new-menace.json) |
 | Cyber Citizen Shockman 3: The Princess From Another World | 300374 | [300374-cyber-citizen-shockman-3-the-princess-from-another-world.json](./300374-cyber-citizen-shockman-3-the-princess-from-another-world.json) |
 | Cyber Citizen Shockman Zero | 306049 | [306049-cyber-citizen-shockman-zero.json](./306049-cyber-citizen-shockman-zero.json) |
 | Cyber City | 117077 | [117077-cyber-city.json](./117077-cyber-city.json) |
