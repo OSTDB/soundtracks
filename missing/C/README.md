@@ -3061,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Raid 2 | 197762 | [197762-castle-raid-2.json](./197762-castle-raid-2.json) |
 | Castle Rain | 320025 | [320025-castle-rain.json](./320025-castle-rain.json) |
 | Castle Ramble | 256433 | [256433-castle-ramble.json](./256433-castle-ramble.json) |
+| Castle Rathbone | 234840 | [234840-castle-rathbone.json](./234840-castle-rathbone.json) |
 | Castle Red | 123000 | [123000-castle-red.json](./123000-castle-red.json) |
 | Castle Rencounter | 111475 | [111475-castle-rencounter.json](./111475-castle-rencounter.json) |
 | Castle Renovator | 219174 | [219174-castle-renovator.json](./219174-castle-renovator.json) |
@@ -4615,6 +4616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Colossus Deluxe Pack | 256405 | [256405-century-age-of-ashes-colossus-deluxe-pack.json](./256405-century-age-of-ashes-colossus-deluxe-pack.json) |
 | Century: Age of Ashes - Dark Goliath Pack | 226301 | [226301-century-age-of-ashes-dark-goliath-pack.json](./226301-century-age-of-ashes-dark-goliath-pack.json) |
 | Century: Age of Ashes - Dragon Eggs Edition | 218495 | [218495-century-age-of-ashes-dragon-eggs-edition.json](./218495-century-age-of-ashes-dragon-eggs-edition.json) |
+| Century: Age of Ashes - Elite Sentry Edition | 234820 | [234820-century-age-of-ashes-elite-sentry-edition.json](./234820-century-age-of-ashes-elite-sentry-edition.json) |
 | Century: Age of Ashes - Fellow Edition | 199640 | [199640-century-age-of-ashes-fellow-edition.json](./199640-century-age-of-ashes-fellow-edition.json) |
 | Century: Age of Ashes - First Flight Edition | 199632 | [199632-century-age-of-ashes-first-flight-edition.json](./199632-century-age-of-ashes-first-flight-edition.json) |
 | Century: Age of Ashes - Frost Heir Edition | 251014 | [251014-century-age-of-ashes-frost-heir-edition.json](./251014-century-age-of-ashes-frost-heir-edition.json) |
@@ -14523,6 +14525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Shot | 12414 | [12414-crazy-shot.json](./12414-crazy-shot.json) |
 | Crazy Simulator | 128230 | [128230-crazy-simulator.json](./128230-crazy-simulator.json) |
 | Crazy Skies: Endless Arcade Flyer | 175560 | [175560-crazy-skies-endless-arcade-flyer.json](./175560-crazy-skies-endless-arcade-flyer.json) |
+| Crazy Snake | 234807 | [234807-crazy-snake.json](./234807-crazy-snake.json) |
 | Crazy Snowboard | 87553 | [87553-crazy-snowboard.json](./87553-crazy-snowboard.json) |
 | Crazy Soccer | 104631 | [104631-crazy-soccer.json](./104631-crazy-soccer.json) |
 | Crazy Sonic | 352784 | [352784-crazy-sonic.json](./352784-crazy-sonic.json) |
