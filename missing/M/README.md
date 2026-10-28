@@ -7302,6 +7302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mèimó de Màoxiǎn Shēnghuó | 164277 | [164277-meimo-de-maoxian-shenghuo.json](./164277-meimo-de-maoxian-shenghuo.json) |
 | Meimon! Daisan Yakyuu-bu | 48780 | [48780-meimon-daisan-yakyuu-bu.json](./48780-meimon-daisan-yakyuu-bu.json) |
 | Meimon! Tako Nishi Ouendan | 48779 | [48779-meimon-tako-nishi-ouendan.json](./48779-meimon-tako-nishi-ouendan.json) |
+| Meimou Halloween | 261072 | [261072-meimou-halloween.json](./261072-meimou-halloween.json) |
 | Meimu | 239557 | [239557-meimu.json](./239557-meimu.json) |
 | Mein neues Leben Abenteuer auf Tropicana | 152028 | [152028-mein-neues-leben-abenteuer-auf-tropicana.json](./152028-mein-neues-leben-abenteuer-auf-tropicana.json) |
 | Meine Eigene Traumstadt | 337719 | [337719-meine-eigene-traumstadt.json](./337719-meine-eigene-traumstadt.json) |
@@ -18858,6 +18859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Messenger: April Fool's 2017 DLC | 257839 | [257839-mystic-messenger-april-fools-2017-dlc.json](./257839-mystic-messenger-april-fools-2017-dlc.json) |
 | Mystic Messenger: Bad Jumin & After | 261139 | [261139-mystic-messenger-bad-jumin-and-after.json](./261139-mystic-messenger-bad-jumin-and-after.json) |
 | Mystic Messenger: Ray's After Ending | 261138 | [261138-mystic-messenger-rays-after-ending.json](./261138-mystic-messenger-rays-after-ending.json) |
+| Mystic Messenger: Rika's Behind Story | 261067 | [261067-mystic-messenger-rikas-behind-story.json](./261067-mystic-messenger-rikas-behind-story.json) |
 | Mystic Midway: Phantom Express | 45911 | [45911-mystic-midway-phantom-express.json](./45911-mystic-midway-phantom-express.json) |
 | Mystic Midway: Rest in Pieces | 45910 | [45910-mystic-midway-rest-in-pieces.json](./45910-mystic-midway-rest-in-pieces.json) |
 | Mystic Mine | 54245 | [54245-mystic-mine.json](./54245-mystic-mine.json) |
