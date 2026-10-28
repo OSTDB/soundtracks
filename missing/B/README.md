@@ -1695,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Kong Blast | 375828 | [375828-banana-kong-blast.json](./375828-banana-kong-blast.json) |
 | Banana Loco | 372021 | [372021-banana-loco.json](./372021-banana-loco.json) |
 | Banana Man | 15658 | [15658-banana-man.json](./15658-banana-man.json) |
+| Banana Man: The Space Monkeys | 243166 | [243166-banana-man-the-space-monkeys.json](./243166-banana-man-the-space-monkeys.json) |
 | Banana Massacre | 338193 | [338193-banana-massacre.json](./338193-banana-massacre.json) |
 | Banana Monkeys | 314245 | [314245-banana-monkeys.json](./314245-banana-monkeys.json) |
 | Banana Nababa | 124565 | [124565-banana-nababa.json](./124565-banana-nababa.json) |
@@ -3326,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Minesweeper Online | 300772 | [300772-battle-minesweeper-online.json](./300772-battle-minesweeper-online.json) |
 | Battle Monkeys: Fully Loaded | 100059 | [100059-battle-monkeys-fully-loaded.json](./100059-battle-monkeys-fully-loaded.json) |
 | Battle Mons | 413073 | [413073-battle-mons.json](./413073-battle-mons.json) |
+| Battle Monsters | 243835 | [243835-battle-monsters.json](./243835-battle-monsters.json) |
 | Battle Monsters | 45504 | [45504-battle-monsters.json](./45504-battle-monsters.json) |
 | Battle Moon Wars | 47065 | [47065-battle-moon-wars.json](./47065-battle-moon-wars.json) |
 | Battle Motion | 113547 | [113547-battle-motion.json](./113547-battle-motion.json) |
@@ -5446,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below Zero | 74914 | [74914-below-zero.json](./74914-below-zero.json) |
 | Below Zero: Prologue | 317326 | [317326-below-zero-prologue.json](./317326-below-zero-prologue.json) |
 | Below, Rusted Gods | 304148 | [304148-below-rusted-gods.json](./304148-below-rusted-gods.json) |
+| Below: Special Edition | 243865 | [243865-below-special-edition.json](./243865-below-special-edition.json) |
 | Belpaese: Homecoming | 68491 | [68491-belpaese-homecoming.json](./68491-belpaese-homecoming.json) |
 | Belt Action Collection | 136308 | [136308-belt-action-collection.json](./136308-belt-action-collection.json) |
 | Belt Colony | 214951 | [214951-belt-colony.json](./214951-belt-colony.json) |
@@ -10155,6 +10158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Intervention | 219213 | [219213-blue-intervention.json](./219213-blue-intervention.json) |
 | Blue Jay Joyride | 195628 | [195628-blue-jay-joyride.json](./195628-blue-jay-joyride.json) |
 | Blue June | 153405 | [153405-blue-june.json](./153405-blue-june.json) |
+| Blue Knight | 242913 | [242913-blue-knight.json](./242913-blue-knight.json) |
 | Blue Lacuna | 8381 | [8381-blue-lacuna.json](./8381-blue-lacuna.json) |
 | Blue Land | 302476 | [302476-blue-land.json](./302476-blue-land.json) |
 | Blue Laserdisc Challenge | 359895 | [359895-blue-laserdisc-challenge.json](./359895-blue-laserdisc-challenge.json) |
@@ -14350,6 +14354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Pop! | 181592 | [181592-bubble-pop.json](./181592-bubble-pop.json) |
 | Bubble Popper | 175098 | [175098-bubble-popper.json](./175098-bubble-popper.json) |
 | Bubble Puzzle 97 | 93424 | [93424-bubble-puzzle-97.json](./93424-bubble-puzzle-97.json) |
+| Bubble Puzzler | 243324 | [243324-bubble-puzzler.json](./243324-bubble-puzzler.json) |
 | Bubble Rage | 340228 | [340228-bubble-rage.json](./340228-bubble-rage.json) |
 | Bubble Raider | 110204 | [110204-bubble-raider.json](./110204-bubble-raider.json) |
 | Bubble Riders | 300999 | [300999-bubble-riders.json](./300999-bubble-riders.json) |
