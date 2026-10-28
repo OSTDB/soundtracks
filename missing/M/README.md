@@ -10624,6 +10624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Dairycraft | 366815 | [366815-minecraft-dairycraft.json](./366815-minecraft-dairycraft.json) |
 | Minecraft: Deluxe Collection DLC | 228890 | [228890-minecraft-deluxe-collection-dlc.json](./228890-minecraft-deluxe-collection-dlc.json) |
 | Minecraft: Deluxe Collection for PC | 350618 | [350618-minecraft-deluxe-collection-for-pc.json](./350618-minecraft-deluxe-collection-for-pc.json) |
+| Minecraft: Disney - Worlds of Adventure | 262539 | [262539-minecraft-disney-worlds-of-adventure.json](./262539-minecraft-disney-worlds-of-adventure.json) |
 | Minecraft: Dragonborn Mash-up | 233961 | [233961-minecraft-dragonborn-mash-up.json](./233961-minecraft-dragonborn-mash-up.json) |
 | Minecraft: Echo Crystal | 343904 | [343904-minecraft-echo-crystal.json](./343904-minecraft-echo-crystal.json) |
 | Minecraft: Egyptian Mythology Mash-up | 237331 | [237331-minecraft-egyptian-mythology-mash-up.json](./237331-minecraft-egyptian-mythology-mash-up.json) |
@@ -10632,6 +10633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Fantastic Fairgrounds | 316689 | [316689-minecraft-fantastic-fairgrounds.json](./316689-minecraft-fantastic-fairgrounds.json) |
 | Minecraft: Festive Mash-up | 234224 | [234224-minecraft-festive-mash-up.json](./234224-minecraft-festive-mash-up.json) |
 | Minecraft: Fire TV Edition | 140463 | [140463-minecraft-fire-tv-edition.json](./140463-minecraft-fire-tv-edition.json) |
+| Minecraft: Frostburn Update | 262158 | [262158-minecraft-frostburn-update.json](./262158-minecraft-frostburn-update.json) |
 | Minecraft: Frozen | 254125 | [254125-minecraft-frozen.json](./254125-minecraft-frozen.json) |
 | Minecraft: Godzilla | 285051 | [285051-minecraft-godzilla.json](./285051-minecraft-godzilla.json) |
 | Minecraft: Good Night's Sleep | 326994 | [326994-minecraft-good-nights-sleep.json](./326994-minecraft-good-nights-sleep.json) |
