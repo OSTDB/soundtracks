@@ -2018,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far East of Eden: Jipang Seven | 62119 | [62119-far-east-of-eden-jipang-seven.json](./62119-far-east-of-eden-jipang-seven.json) |
 | Far East of Eden: Kabuki Klash | 39554 | [39554-far-east-of-eden-kabuki-klash.json](./39554-far-east-of-eden-kabuki-klash.json) |
 | Far East of Eden: Ziria | 42002 | [42002-far-east-of-eden-ziria.json](./42002-far-east-of-eden-ziria.json) |
+| Far Far Away | 231564 | [231564-far-far-away.json](./231564-far-far-away.json) |
 | Far Far Away From Here | 186836 | [186836-far-far-away-from-here.json](./186836-far-far-away-from-here.json) |
 | Far Far West | 348263 | [348263-far-far-west.json](./348263-far-far-west.json) |
 | Far Fetched | 150622 | [150622-far-fetched.json](./150622-far-fetched.json) |
@@ -2551,6 +2552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Break Pro Basketball 3 | 82314 | [82314-fast-break-pro-basketball-3.json](./82314-fast-break-pro-basketball-3.json) |
 | Fast Bubble | 28094 | [28094-fast-bubble.json](./28094-fast-bubble.json) |
 | Fast Burger Simulator | 230411 | [230411-fast-burger-simulator.json](./230411-fast-burger-simulator.json) |
+| Fast Burger Simulator | 231178 | [231178-fast-burger-simulator.json](./231178-fast-burger-simulator.json) |
 | Fast Car | 309931 | [309931-fast-car.json](./309931-fast-car.json) |
 | Fast cars racing | 108381 | [108381-fast-cars-racing.json](./108381-fast-cars-racing.json) |
 | Fast Cars Small Islands | 284912 | [284912-fast-cars-small-islands.json](./284912-fast-cars-small-islands.json) |
@@ -4660,6 +4662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final World | 90646 | [90646-final-world.json](./90646-final-world.json) |
 | Final Zone | 344288 | [344288-final-zone.json](./344288-final-zone.json) |
 | FinalAdventure | 118811 | [118811-finaladventure.json](./118811-finaladventure.json) |
+| FinalFort | 231556 | [231556-finalfort.json](./231556-finalfort.json) |
 | Finalizer: Super Transformation | 40040 | [40040-finalizer-super-transformation.json](./40040-finalizer-super-transformation.json) |
 | Finalloop | 348779 | [348779-finalloop.json](./348779-finalloop.json) |
 | Finally Free | 290625 | [290625-finally-free.json](./290625-finally-free.json) |
@@ -4802,6 +4805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Way | 246330 | [246330-find-the-way.json](./246330-find-the-way.json) |
 | Find the Way | 246444 | [246444-find-the-way.json](./246444-find-the-way.json) |
 | Find the Way Out Samurai! | 245878 | [245878-find-the-way-out-samurai.json](./245878-find-the-way-out-samurai.json) |
+| Find the Whales | 231179 | [231179-find-the-whales.json](./231179-find-the-whales.json) |
 | Find This Pixel Anomaly | 320982 | [320982-find-this-pixel-anomaly.json](./320982-find-this-pixel-anomaly.json) |
 | Find this! | 54859 | [54859-find-this.json](./54859-find-this.json) |
 | Find Together on Stream | 289411 | [289411-find-together-on-stream.json](./289411-find-together-on-stream.json) |
@@ -11965,6 +11969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury | 240773 | [240773-fury.json](./240773-fury.json) |
 | Fury Battle Dragon | 188275 | [188275-fury-battle-dragon.json](./188275-fury-battle-dragon.json) |
 | Fury Cross Road | 235222 | [235222-fury-cross-road.json](./235222-fury-cross-road.json) |
+| Fury Fight: Gangsters of City | 231579 | [231579-fury-fight-gangsters-of-city.json](./231579-fury-fight-gangsters-of-city.json) |
 | Fury Fighter VR | 96520 | [96520-fury-fighter-vr.json](./96520-fury-fighter-vr.json) |
 | Fury Fighters | 212107 | [212107-fury-fighters.json](./212107-fury-fighters.json) |
 | Fury Knight | 155893 | [155893-fury-knight.json](./155893-fury-knight.json) |
