@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Journey | 196482 | [196482-magical-journey.json](./196482-magical-journey.json) |
 | Magical Kids Doropie | 48333 | [48333-magical-kids-doropie.json](./48333-magical-kids-doropie.json) |
 | Magical Kitchen | 277698 | [277698-magical-kitchen.json](./277698-magical-kitchen.json) |
+| Magical Lands | 269958 | [269958-magical-lands.json](./269958-magical-lands.json) |
 | Magical Literary Heroine Natsuki Saves The Literature Club! | 334273 | [334273-magical-literary-heroine-natsuki-saves-the-literature-club.json](./334273-magical-literary-heroine-natsuki-saves-the-literature-club.json) |
 | Magical Magic World | 250261 | [250261-magical-magic-world.json](./250261-magical-magic-world.json) |
 | Magical Makeover | 139311 | [139311-magical-makeover.json](./139311-magical-makeover.json) |
@@ -6309,6 +6310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Business M: Business World | 199900 | [199900-mega-business-m-business-world.json](./199900-mega-business-m-business-world.json) |
 | Mega Capital | 149383 | [149383-mega-capital.json](./149383-mega-capital.json) |
 | Mega Carrier Simulator | 392170 | [392170-mega-carrier-simulator.json](./392170-mega-carrier-simulator.json) |
+| Mega Casanova | 270229 | [270229-mega-casanova.json](./270229-mega-casanova.json) |
 | Mega Cat Studios Collection 1 | 130688 | [130688-mega-cat-studios-collection-1.json](./130688-mega-cat-studios-collection-1.json) |
 | Mega Cat Studios Collection 2 | 145832 | [145832-mega-cat-studios-collection-2.json](./145832-mega-cat-studios-collection-2.json) |
 | Mega City Force | 238767 | [238767-mega-city-force.json](./238767-mega-city-force.json) |
@@ -6335,6 +6337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Dystopia Micro Architect | 271696 | [271696-mega-dystopia-micro-architect.json](./271696-mega-dystopia-micro-architect.json) |
 | Mega Eater Girls | 404531 | [404531-mega-eater-girls.json](./404531-mega-eater-girls.json) |
 | Mega Fast Food | 213057 | [213057-mega-fast-food.json](./213057-mega-fast-food.json) |
+| Mega Flappy Sis | 270230 | [270230-mega-flappy-sis.json](./270230-mega-flappy-sis.json) |
 | Mega Force | 22433 | [22433-mega-force.json](./22433-mega-force.json) |
 | Mega Force | 6139 | [6139-mega-force.json](./6139-mega-force.json) |
 | Mega Game Room 2 | 209531 | [209531-mega-game-room-2.json](./209531-mega-game-room-2.json) |
@@ -6749,6 +6752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man World 2 GBC Edition | 306589 | [306589-mega-man-world-2-gbc-edition.json](./306589-mega-man-world-2-gbc-edition.json) |
 | Mega Man World 3 DX | 315770 | [315770-mega-man-world-3-dx.json](./315770-mega-man-world-3-dx.json) |
 | Mega Man World 4 DX | 326554 | [326554-mega-man-world-4-dx.json](./326554-mega-man-world-4-dx.json) |
+| Mega Man X | 270237 | [270237-mega-man-x.json](./270237-mega-man-x.json) |
 | Mega Man X | 88645 | [88645-mega-man-x.json](./88645-mega-man-x.json) |
 | Mega Man X Alpha | 222928 | [222928-mega-man-x-alpha.json](./222928-mega-man-x-alpha.json) |
 | Mega Man X Alpha Kaizo | 268419 | [268419-mega-man-x-alpha-kaizo.json](./268419-mega-man-x-alpha-kaizo.json) |
@@ -6861,6 +6865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: The New Lands Remastered | 269873 | [269873-mega-man-the-new-lands-remastered.json](./269873-mega-man-the-new-lands-remastered.json) |
 | Mega Man: The Power Battle | 1724 | [1724-mega-man-the-power-battle.json](./1724-mega-man-the-power-battle.json) |
 | Mega Man: The Sequel Wars | 215146 | [215146-mega-man-the-sequel-wars.json](./215146-mega-man-the-sequel-wars.json) |
+| Mega Man: The Sequel Wars - Episode Red | 270231 | [270231-mega-man-the-sequel-wars-episode-red.json](./270231-mega-man-the-sequel-wars-episode-red.json) |
 | Mega Man: The Wily Wars | 1727 | [1727-mega-man-the-wily-wars.json](./1727-mega-man-the-wily-wars.json) |
 | Mega Man: Twin Destinies | 313111 | [313111-mega-man-twin-destinies.json](./313111-mega-man-twin-destinies.json) |
 | Mega Man: Wily Tower | 255798 | [255798-mega-man-wily-tower.json](./255798-mega-man-wily-tower.json) |
@@ -8518,6 +8523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug Zero Online | 137929 | [137929-metal-slug-zero-online.json](./137929-metal-slug-zero-online.json) |
 | Metal Slug: Commander | 193975 | [193975-metal-slug-commander.json](./193975-metal-slug-commander.json) |
 | Metal Slug: Super Vehicle-001 | 191477 | [191477-metal-slug-super-vehicle-001.json](./191477-metal-slug-super-vehicle-001.json) |
+| Metal Slug: Super Vehicle-001 | 269931 | [269931-metal-slug-super-vehicle-001.json](./269931-metal-slug-super-vehicle-001.json) |
 | Metal Soldier Isaac II | 40353 | [40353-metal-soldier-isaac-ii.json](./40353-metal-soldier-isaac-ii.json) |
 | Metal Soldiers 3 | 206126 | [206126-metal-soldiers-3.json](./206126-metal-soldiers-3.json) |
 | Metal Sonic | 330575 | [330575-metal-sonic.json](./330575-metal-sonic.json) |
@@ -10639,6 +10645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Mutant Zombie Dungeons | 334047 | [334047-minecraft-mutant-zombie-dungeons.json](./334047-minecraft-mutant-zombie-dungeons.json) |
 | Minecraft: Mutants Add-On 2.0 | 334049 | [334049-minecraft-mutants-add-on-2-0.json](./334049-minecraft-mutants-add-on-2-0.json) |
 | Minecraft: Natural Texture Pack | 334052 | [334052-minecraft-natural-texture-pack.json](./334052-minecraft-natural-texture-pack.json) |
+| Minecraft: Nerf World | 269952 | [269952-minecraft-nerf-world.json](./269952-minecraft-nerf-world.json) |
 | Minecraft: Nightmare Skin Pack | 333235 | [333235-minecraft-nightmare-skin-pack.json](./333235-minecraft-nightmare-skin-pack.json) |
 | Minecraft: Nintendo Switch Edition | 85614 | [85614-minecraft-nintendo-switch-edition.json](./85614-minecraft-nintendo-switch-edition.json) |
 | Minecraft: Norse Mythology Bonus Skins | 322957 | [322957-minecraft-norse-mythology-bonus-skins.json](./322957-minecraft-norse-mythology-bonus-skins.json) |
