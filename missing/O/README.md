@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Simulator Online 4x4 | 196584 | [196584-offroad-simulator-online-4x4.json](./196584-offroad-simulator-online-4x4.json) |
 | Offroad Survival | 261658 | [261658-offroad-survival.json](./261658-offroad-survival.json) |
 | Offroad Thunder | 3702 | [3702-offroad-thunder.json](./3702-offroad-thunder.json) |
+| Offroad Truck 4x4 Dirt Simulator: Rally Racing Game | 255184 | [255184-offroad-truck-4x4-dirt-simulator-rally-racing-game.json](./255184-offroad-truck-4x4-dirt-simulator-rally-racing-game.json) |
 | Offroad Truck Racing | 174005 | [174005-offroad-truck-racing.json](./174005-offroad-truck-racing.json) |
 | Offroad Truck Simulator | 308505 | [308505-offroad-truck-simulator.json](./308505-offroad-truck-simulator.json) |
 | Offroad Truck Simulator: Heavy Duty Challenge | 165381 | [165381-offroad-truck-simulator-heavy-duty-challenge.json](./165381-offroad-truck-simulator-heavy-duty-challenge.json) |
