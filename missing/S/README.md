@@ -2627,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolhouse Rock!: America Rock | 113469 | [113469-schoolhouse-rock-america-rock.json](./113469-schoolhouse-rock-america-rock.json) |
 | Schoolhouse Rock!: Math Rock | 142707 | [142707-schoolhouse-rock-math-rock.json](./142707-schoolhouse-rock-math-rock.json) |
 | SchoolJump | 100539 | [100539-schooljump.json](./100539-schooljump.json) |
+| Schoolmare | 249381 | [249381-schoolmare.json](./249381-schoolmare.json) |
 | SchoolMate | 22464 | [22464-schoolmate.json](./22464-schoolmate.json) |
 | SchoolMate Sweets! | 22466 | [22466-schoolmate-sweets.json](./22466-schoolmate-sweets.json) |
 | Schoolmates - The Mystery of the Magic Bracelet | 54347 | [54347-schoolmates-the-mystery-of-the-magic-bracelet.json](./54347-schoolmates-the-mystery-of-the-magic-bracelet.json) |
@@ -19384,6 +19385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooble: A Search Engine Story | 177484 | [177484-spooble-a-search-engine-story.json](./177484-spooble-a-search-engine-story.json) |
 | Spoockey | 189071 | [189071-spoockey.json](./189071-spoockey.json) |
 | Spoofs Playland | 373552 | [373552-spoofs-playland.json](./373552-spoofs-playland.json) |
+| Spook Bowl | 249376 | [249376-spook-bowl.json](./249376-spook-bowl.json) |
 | Spook Game | 340178 | [340178-spook-game.json](./340178-spook-game.json) |
 | Spook House and Toxic Dumpsite | 69480 | [69480-spook-house-and-toxic-dumpsite.json](./69480-spook-house-and-toxic-dumpsite.json) |
 | Spook Tower | 179735 | [179735-spook-tower.json](./179735-spook-tower.json) |
@@ -22867,6 +22869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StellarPlans | 295334 | [295334-stellarplans.json](./295334-stellarplans.json) |
 | Stellarune | 272221 | [272221-stellarune.json](./272221-stellarune.json) |
 | StellaSpella | 151447 | [151447-stellaspella.json](./151447-stellaspella.json) |
+| Stellata Waterway | 249402 | [249402-stellata-waterway.json](./249402-stellata-waterway.json) |
 | Stellations | 353937 | [353937-stellations.json](./353937-stellations.json) |
 | Stellaxy | 129454 | [129454-stellaxy.json](./129454-stellaxy.json) |
 | Stellifier | 317018 | [317018-stellifier.json](./317018-stellifier.json) |
@@ -23264,6 +23267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stilstand | 138634 | [138634-stilstand.json](./138634-stilstand.json) |
 | Stilt Fella | 108781 | [108781-stilt-fella.json](./108781-stilt-fella.json) |
 | Stilton's Spire | 391556 | [391556-stiltons-spire.json](./391556-stiltons-spire.json) |
+| Stim | 249010 | [249010-stim.json](./249010-stim.json) |
 | Stimmings | 264614 | [264614-stimmings.json](./264614-stimmings.json) |
 | Stimulants | 262268 | [262268-stimulants.json](./262268-stimulants.json) |
 | Stimulation Clicker | 327636 | [327636-stimulation-clicker.json](./327636-stimulation-clicker.json) |
@@ -30867,6 +30871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syberia: The World Before - 20 Years Edition | 204908 | [204908-syberia-the-world-before-20-years-edition.json](./204908-syberia-the-world-before-20-years-edition.json) |
 | Syberia: The World Before - Collector's Edition | 204907 | [204907-syberia-the-world-before-collectors-edition.json](./204907-syberia-the-world-before-collectors-edition.json) |
 | Syberia: The World Before - Deluxe Edition | 169167 | [169167-syberia-the-world-before-deluxe-edition.json](./169167-syberia-the-world-before-deluxe-edition.json) |
+| Sybil is Haunted | 249393 | [249393-sybil-is-haunted.json](./249393-sybil-is-haunted.json) |
 | Sybil's Tail | 179657 | [179657-sybils-tail.json](./179657-sybils-tail.json) |
 | Sycamore | 186618 | [186618-sycamore.json](./186618-sycamore.json) |
 | Sycamore | 323346 | [323346-sycamore.json](./323346-sycamore.json) |
