@@ -1199,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted 4: A Thief's End Special Edition | 41874 | [41874-uncharted-4-a-thiefs-end-special-edition.json](./41874-uncharted-4-a-thiefs-end-special-edition.json) |
 | Uncharted Dual Pack | 145385 | [145385-uncharted-dual-pack.json](./145385-uncharted-dual-pack.json) |
 | Uncharted Island | 208954 | [208954-uncharted-island.json](./208954-uncharted-island.json) |
+| Uncharted Lands: Beginning | 275161 | [275161-uncharted-lands-beginning.json](./275161-uncharted-lands-beginning.json) |
 | Uncharted Ocean 2 | 231293 | [231293-uncharted-ocean-2.json](./231293-uncharted-ocean-2.json) |
 | Uncharted Ocean: Adventures at the Poles | 262097 | [262097-uncharted-ocean-adventures-at-the-poles.json](./262097-uncharted-ocean-adventures-at-the-poles.json) |
 | Uncharted Ocean: Set Sail | 125062 | [125062-uncharted-ocean-set-sail.json](./125062-uncharted-ocean-set-sail.json) |
