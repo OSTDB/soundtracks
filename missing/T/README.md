@@ -1170,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Rein Ravine | 319551 | [319551-tales-of-rein-ravine.json](./319551-tales-of-rein-ravine.json) |
 | Tales of Sabotage | 226608 | [226608-tales-of-sabotage.json](./226608-tales-of-sabotage.json) |
 | Tales of SclObonia | 368806 | [368806-tales-of-sclobonia.json](./368806-tales-of-sclobonia.json) |
+| Tales of Sector 1 | 245354 | [245354-tales-of-sector-1.json](./245354-tales-of-sector-1.json) |
 | Tales of Seikyu | 245733 | [245733-tales-of-seikyu.json](./245733-tales-of-seikyu.json) |
 | Tales of Shadowland | 185644 | [185644-tales-of-shadowland.json](./185644-tales-of-shadowland.json) |
 | Tales of Sirius | 370999 | [370999-tales-of-sirius.json](./370999-tales-of-sirius.json) |
@@ -28299,6 +28300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnip Boy Commits Tax Evasion: The Sunset Station Update | 196664 | [196664-turnip-boy-commits-tax-evasion-the-sunset-station-update.json](./196664-turnip-boy-commits-tax-evasion-the-sunset-station-update.json) |
 | Turnip Boy Steals the Mail | 342657 | [342657-turnip-boy-steals-the-mail.json](./342657-turnip-boy-steals-the-mail.json) |
 | Turnip Mountain | 217203 | [217203-turnip-mountain.json](./217203-turnip-mountain.json) |
+| TurnKee | 245355 | [245355-turnkee.json](./245355-turnkee.json) |
 | TurnOn | 19606 | [19606-turnon.json](./19606-turnon.json) |
 | Turnout | 337760 | [337760-turnout.json](./337760-turnout.json) |
 | Turnover | 35196 | [35196-turnover.json](./35196-turnover.json) |
