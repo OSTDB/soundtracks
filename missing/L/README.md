@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lagaf': Les Aventures de Moktar: Vol 1 - La Zoubida | 307197 | [307197-lagaf-les-aventures-de-moktar-vol-1-la-zoubida.json](./307197-lagaf-les-aventures-de-moktar-vol-1-la-zoubida.json) |
 | Laggerjack | 334813 | [334813-laggerjack.json](./334813-laggerjack.json) |
 | Lagnacure Legend | 93533 | [93533-lagnacure-legend.json](./93533-lagnacure-legend.json) |
+| Lagoda Odyssey | 231583 | [231583-lagoda-odyssey.json](./231583-lagoda-odyssey.json) |
 | Lagoon | 276473 | [276473-lagoon.json](./276473-lagoon.json) |
 | Lagoon | 42617 | [42617-lagoon.json](./42617-lagoon.json) |
 | Lagoon Lounge 2: The Secret Roommate | 290804 | [290804-lagoon-lounge-2-the-secret-roommate.json](./290804-lagoon-lounge-2-the-secret-roommate.json) |
@@ -1218,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Moor | 278287 | [278287-last-moor.json](./278287-last-moor.json) |
 | Last Mortem | 149515 | [149515-last-mortem.json](./149515-last-mortem.json) |
 | Last Night in Church | 419133 | [419133-last-night-in-church.json](./419133-last-night-in-church.json) |
+| Last Night in Zombie Village | 231182 | [231182-last-night-in-zombie-village.json](./231182-last-night-in-zombie-village.json) |
 | Last Night of Winter | 154024 | [154024-last-night-of-winter.json](./154024-last-night-of-winter.json) |
 | Last Night Shift | 273471 | [273471-last-night-shift.json](./273471-last-night-shift.json) |
 | Last Ninja 3 | 8403 | [8403-last-ninja-3.json](./8403-last-ninja-3.json) |
@@ -1594,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Game: Space Fight | 188954 | [188954-lawnmower-game-space-fight.json](./188954-lawnmower-game-space-fight.json) |
 | Lawnmower Game: Space Race | 225605 | [225605-lawnmower-game-space-race.json](./225605-lawnmower-game-space-race.json) |
 | Lawnmower Game: Survival | 334244 | [334244-lawnmower-game-survival.json](./334244-lawnmower-game-survival.json) |
+| Lawnmower Game: Ufo Chase | 231181 | [231181-lawnmower-game-ufo-chase.json](./231181-lawnmower-game-ufo-chase.json) |
 | Lawnmower Game: UFO Chase 2 | 395365 | [395365-lawnmower-game-ufo-chase-2.json](./395365-lawnmower-game-ufo-chase-2.json) |
 | Lawnmower Maniac | 385874 | [385874-lawnmower-maniac.json](./385874-lawnmower-maniac.json) |
 | Lawnmower Runner | 398505 | [398505-lawnmower-runner.json](./398505-lawnmower-runner.json) |
@@ -2988,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Len'en Ten'eisenki: Brilliant Pagoda or Haze Castle | 125794 | [125794-lenen-teneisenki-brilliant-pagoda-or-haze-castle.json](./125794-lenen-teneisenki-brilliant-pagoda-or-haze-castle.json) |
 | Len's Island | 136594 | [136594-lens-island.json](./136594-lens-island.json) |
 | Lendarios: Limits Breakers 1 | 393450 | [393450-lendarios-limits-breakers-1.json](./393450-lendarios-limits-breakers-1.json) |
+| Lendas do Pebol: Mythic Football | 231180 | [231180-lendas-do-pebol-mythic-football.json](./231180-lendas-do-pebol-mythic-football.json) |
 | Lendele | 182744 | [182744-lendele.json](./182744-lendele.json) |
 | Lěngxiě Zhèng Shǎizǐ | 157365 | [157365-lengxie-zheng-shaizi.json](./157365-lengxie-zheng-shaizi.json) |
 | Lenin - The Lion | 99626 | [99626-lenin-the-lion.json](./99626-lenin-the-lion.json) |
@@ -3260,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play Cards Solitaire | 367603 | [367603-lets-play-cards-solitaire.json](./367603-lets-play-cards-solitaire.json) |
 | Let's Play Curling!! | 194975 | [194975-lets-play-curling.json](./194975-lets-play-curling.json) |
 | Let's Play Duema! | 222270 | [222270-lets-play-duema.json](./222270-lets-play-duema.json) |
+| Let's Play Jigsaw Puzzles | 231184 | [231184-lets-play-jigsaw-puzzles.json](./231184-lets-play-jigsaw-puzzles.json) |
 | Let's Play Jigsaw Puzzles: A Journey Across Continents | 263210 | [263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json](./263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json) |
 | Let's Play Jigsaw Puzzles: At the Zoo | 239738 | [239738-lets-play-jigsaw-puzzles-at-the-zoo.json](./239738-lets-play-jigsaw-puzzles-at-the-zoo.json) |
 | Let's Play Jigsaw Puzzles: Birds | 240775 | [240775-lets-play-jigsaw-puzzles-birds.json](./240775-lets-play-jigsaw-puzzles-birds.json) |
@@ -3268,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play Jigsaw Puzzles: Flowers | 240766 | [240766-lets-play-jigsaw-puzzles-flowers.json](./240766-lets-play-jigsaw-puzzles-flowers.json) |
 | Let's Play Jigsaw Puzzles: France | 240750 | [240750-lets-play-jigsaw-puzzles-france.json](./240750-lets-play-jigsaw-puzzles-france.json) |
 | Let's Play Jigsaw Puzzles: Happy Holidays 2023 | 279543 | [279543-lets-play-jigsaw-puzzles-happy-holidays-2023.json](./279543-lets-play-jigsaw-puzzles-happy-holidays-2023.json) |
+| Let's Play Jigsaw Puzzles: Japan | 231183 | [231183-lets-play-jigsaw-puzzles-japan.json](./231183-lets-play-jigsaw-puzzles-japan.json) |
 | Let's Play Jigsaw Puzzles: Nordics | 240651 | [240651-lets-play-jigsaw-puzzles-nordics.json](./240651-lets-play-jigsaw-puzzles-nordics.json) |
 | Let's Play Jigsaw Puzzles: On the Farm | 240811 | [240811-lets-play-jigsaw-puzzles-on-the-farm.json](./240811-lets-play-jigsaw-puzzles-on-the-farm.json) |
 | Let's Play Jigsaw Puzzles: Thailand and Cambodia | 239765 | [239765-lets-play-jigsaw-puzzles-thailand-and-cambodia.json](./239765-lets-play-jigsaw-puzzles-thailand-and-cambodia.json) |
@@ -4363,6 +4369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like Veins Beneath the Town | 229614 | [229614-like-veins-beneath-the-town.json](./229614-like-veins-beneath-the-town.json) |
 | Like x Love: Totsukawa Hikaru | 397225 | [397225-like-x-love-totsukawa-hikaru.json](./397225-like-x-love-totsukawa-hikaru.json) |
 | Like2Be | 384343 | [384343-like2be.json](./384343-like2be.json) |
+| Lil Baby Poop's Nightmares | 231185 | [231185-lil-baby-poops-nightmares.json](./231185-lil-baby-poops-nightmares.json) |
 | Lil Big Invasion | 32818 | [32818-lil-big-invasion.json](./32818-lil-big-invasion.json) |
 | Lil Doll House | 293472 | [293472-lil-doll-house.json](./293472-lil-doll-house.json) |
 | Lil Dungeon Wizard | 181166 | [181166-lil-dungeon-wizard.json](./181166-lil-dungeon-wizard.json) |
@@ -8145,6 +8152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Shot | 102968 | [102968-lucky-shot.json](./102968-lucky-shot.json) |
 | Lucky Shot | 303107 | [303107-lucky-shot.json](./303107-lucky-shot.json) |
 | Lucky Shot | 402293 | [402293-lucky-shot.json](./402293-lucky-shot.json) |
+| Lucky simulation project | 231186 | [231186-lucky-simulation-project.json](./231186-lucky-simulation-project.json) |
 | Lucky Slots | 242551 | [242551-lucky-slots.json](./242551-lucky-slots.json) |
 | Lucky Spider Solitaire | 87141 | [87141-lucky-spider-solitaire.json](./87141-lucky-spider-solitaire.json) |
 | Lucky Stamina | 213992 | [213992-lucky-stamina.json](./213992-lucky-stamina.json) |
@@ -8290,6 +8298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion: Labyrinth of Shadows | 313413 | [313413-luigis-mansion-labyrinth-of-shadows.json](./313413-luigis-mansion-labyrinth-of-shadows.json) |
 | Luigi's Mansion: Premium Deluxe | 259268 | [259268-luigis-mansion-premium-deluxe.json](./259268-luigis-mansion-premium-deluxe.json) |
 | Luigi's Mansion: Sweet Home | 308372 | [308372-luigis-mansion-sweet-home.json](./308372-luigis-mansion-sweet-home.json) |
+| Luigi's Mansion: The Lab | 231554 | [231554-luigis-mansion-the-lab.json](./231554-luigis-mansion-the-lab.json) |
 | Luigi's Misadventures 2: Leviathan's Mania | 260815 | [260815-luigis-misadventures-2-leviathans-mania.json](./260815-luigis-misadventures-2-leviathans-mania.json) |
 | Luigi's Misadventures 3: Recipe for a Disaster | 260820 | [260820-luigis-misadventures-3-recipe-for-a-disaster.json](./260820-luigis-misadventures-3-recipe-for-a-disaster.json) |
 | Luigi's Misadventures 4: Galactic Kids Next Door | 260821 | [260821-luigis-misadventures-4-galactic-kids-next-door.json](./260821-luigis-misadventures-4-galactic-kids-next-door.json) |
