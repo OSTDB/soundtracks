@@ -4070,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector 40: The Soviet Legacy | 133228 | [133228-sector-40-the-soviet-legacy.json](./133228-sector-40-the-soviet-legacy.json) |
 | Sector 404 | 360889 | [360889-sector-404.json](./360889-sector-404.json) |
 | Sector 452 | 139330 | [139330-sector-452.json](./139330-sector-452.json) |
+| Sector 598 | 233700 | [233700-sector-598.json](./233700-sector-598.json) |
 | Sector 666 | 308256 | [308256-sector-666.json](./308256-sector-666.json) |
 | Sector 666: The Forgotten Zone | 235824 | [235824-sector-666-the-forgotten-zone.json](./235824-sector-666-the-forgotten-zone.json) |
 | Sector 724 | 76967 | [76967-sector-724.json](./76967-sector-724.json) |
@@ -6358,6 +6359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Shifter | 398276 | [398276-shape-shifter.json](./398276-shape-shifter.json) |
 | Shape Shifter: Formations | 226625 | [226625-shape-shifter-formations.json](./226625-shape-shifter-formations.json) |
 | Shape Shipper | 249738 | [249738-shape-shipper.json](./249738-shape-shipper.json) |
+| Shape Shipter | 233701 | [233701-shape-shipter.json](./233701-shape-shipter.json) |
 | Shape Shooter | 141493 | [141493-shape-shooter.json](./141493-shape-shooter.json) |
 | Shape Shuffle: A Shape Saga | 262066 | [262066-shape-shuffle-a-shape-saga.json](./262066-shape-shuffle-a-shape-saga.json) |
 | Shape Sorter - Early Learning | 106371 | [106371-shape-sorter-early-learning.json](./106371-shape-sorter-early-learning.json) |
@@ -13176,6 +13178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Scope: Realistic Tactical Shooter | 336397 | [336397-sniper-scope-realistic-tactical-shooter.json](./336397-sniper-scope-realistic-tactical-shooter.json) |
 | Sniper Shooter 3D: SWAT Missions Pro | 86719 | [86719-sniper-shooter-3d-swat-missions-pro.json](./86719-sniper-shooter-3d-swat-missions-pro.json) |
 | Sniper Shooter: Gun Shooting | 86982 | [86982-sniper-shooter-gun-shooting.json](./86982-sniper-shooter-gun-shooting.json) |
+| Sniper Somali Strike | 233717 | [233717-sniper-somali-strike.json](./233717-sniper-somali-strike.json) |
 | Sniper Squad Mission | 99659 | [99659-sniper-squad-mission.json](./99659-sniper-squad-mission.json) |
 | Sniper Strike 3D | 237365 | [237365-sniper-strike-3d.json](./237365-sniper-strike-3d.json) |
 | Sniper Strike: Special Ops | 261423 | [261423-sniper-strike-special-ops.json](./261423-sniper-strike-special-ops.json) |
@@ -23102,6 +23105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Arena Ballistick | 69277 | [69277-stick-arena-ballistick.json](./69277-stick-arena-ballistick.json) |
 | Stick Battle: Warriors Fight | 208950 | [208950-stick-battle-warriors-fight.json](./208950-stick-battle-warriors-fight.json) |
 | Stick Blender | 313177 | [313177-stick-blender.json](./313177-stick-blender.json) |
+| Stick Bros | 233702 | [233702-stick-bros.json](./233702-stick-bros.json) |
 | Stick City Run 2 By Lettu Games | 232160 | [232160-stick-city-run-2-by-lettu-games.json](./232160-stick-city-run-2-by-lettu-games.json) |
 | Stick Combat | 57175 | [57175-stick-combat.json](./57175-stick-combat.json) |
 | Stick Cricket | 138002 | [138002-stick-cricket.json](./138002-stick-cricket.json) |
@@ -23556,6 +23560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoneveil | 376439 | [376439-stoneveil.json](./376439-stoneveil.json) |
 | Stoneveil | 377591 | [377591-stoneveil.json](./377591-stoneveil.json) |
 | Stoneville Manor | 366262 | [366262-stoneville-manor.json](./366262-stoneville-manor.json) |
+| Stonga Bird | 233690 | [233690-stonga-bird.json](./233690-stonga-bird.json) |
 | Stonies | 86637 | [86637-stonies.json](./86637-stonies.json) |
 | Stonk Simulator | 353923 | [353923-stonk-simulator.json](./353923-stonk-simulator.json) |
 | Stonks-9800: Stock Market Simulator | 167271 | [167271-stonks-9800-stock-market-simulator.json](./167271-stonks-9800-stock-market-simulator.json) |
@@ -24996,6 +25001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuntman: Ignition | 2783 | [2783-stuntman-ignition.json](./2783-stuntman-ignition.json) |
 | StuntMania Reloaded | 17872 | [17872-stuntmania-reloaded.json](./17872-stuntmania-reloaded.json) |
 | Stunts | 11630 | [11630-stunts.json](./11630-stunts.json) |
+| Stunts Above Clouds | 233687 | [233687-stunts-above-clouds.json](./233687-stunts-above-clouds.json) |
 | Stunts above Clouds 2 | 296988 | [296988-stunts-above-clouds-2.json](./296988-stunts-above-clouds-2.json) |
 | Stunts above Clouds 3 | 304465 | [304465-stunts-above-clouds-3.json](./304465-stunts-above-clouds-3.json) |
 | Stunts Contest Extreme Cars | 216864 | [216864-stunts-contest-extreme-cars.json](./216864-stunts-contest-extreme-cars.json) |
@@ -25493,6 +25499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Dreams: Hints Pack | 379020 | [379020-sudoku-dreams-hints-pack.json](./379020-sudoku-dreams-hints-pack.json) |
 | Sudoku Epic | 83413 | [83413-sudoku-epic.json](./83413-sudoku-epic.json) |
 | Sudoku Fever | 49233 | [49233-sudoku-fever.json](./49233-sudoku-fever.json) |
+| Sudoku For 2 | 233721 | [233721-sudoku-for-2.json](./233721-sudoku-for-2.json) |
 | Sudoku for Kids | 268481 | [268481-sudoku-for-kids.json](./268481-sudoku-for-kids.json) |
 | Sudoku for Kids | 67237 | [67237-sudoku-for-kids.json](./67237-sudoku-for-kids.json) |
 | Sudoku for Kids | 88625 | [88625-sudoku-for-kids.json](./88625-sudoku-for-kids.json) |
@@ -28296,6 +28303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rad Ball | 234505 | [234505-super-rad-ball.json](./234505-super-rad-ball.json) |
 | Super Radish Witch | 135618 | [135618-super-radish-witch.json](./135618-super-radish-witch.json) |
 | Super Raft Boat Classic | 144142 | [144142-super-raft-boat-classic.json](./144142-super-raft-boat-classic.json) |
+| Super Raft Boat Together | 233704 | [233704-super-raft-boat-together.json](./233704-super-raft-boat-together.json) |
 | Super Raft Boat VR | 154881 | [154881-super-raft-boat-vr.json](./154881-super-raft-boat-vr.json) |
 | Super Ramp Skater | 296006 | [296006-super-ramp-skater.json](./296006-super-ramp-skater.json) |
 | Super Ranger | 377710 | [377710-super-ranger.json](./377710-super-ranger.json) |
@@ -30683,6 +30691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch Shapes | 406772 | [406772-switch-shapes.json](./406772-switch-shapes.json) |
 | Switch Sides 2: Sea Sandwich | 255037 | [255037-switch-sides-2-sea-sandwich.json](./255037-switch-sides-2-sea-sandwich.json) |
 | Switch the Darkness | 390449 | [390449-switch-the-darkness.json](./390449-switch-the-darkness.json) |
+| Switch the Track | 233693 | [233693-switch-the-track.json](./233693-switch-the-track.json) |
 | Switch: Or Die Trying | 31968 | [31968-switch-or-die-trying.json](./31968-switch-or-die-trying.json) |
 | Switch: The Case of the Curious Cat | 414828 | [414828-switch-the-case-of-the-curious-cat.json](./414828-switch-the-case-of-the-curious-cat.json) |
 | Switch! | 92519 | [92519-switch.json](./92519-switch.json) |
