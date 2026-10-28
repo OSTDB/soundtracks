@@ -719,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Pith and Pumpkins | 185415 | [185415-of-pith-and-pumpkins.json](./185415-of-pith-and-pumpkins.json) |
 | Of Potions and Spells | 312820 | [312820-of-potions-and-spells.json](./312820-of-potions-and-spells.json) |
 | Of Roots and Gears | 333052 | [333052-of-roots-and-gears.json](./333052-of-roots-and-gears.json) |
+| Of Sense and Soul | 234243 | [234243-of-sense-and-soul.json](./234243-of-sense-and-soul.json) |
 | Of Ships & Scoundrels | 110279 | [110279-of-ships-and-scoundrels.json](./110279-of-ships-and-scoundrels.json) |
 | Of the Devil | 234801 | [234801-of-the-devil.json](./234801-of-the-devil.json) |
 | Of the Devil: Episode 0 | 383570 | [383570-of-the-devil-episode-0.json](./383570-of-the-devil-episode-0.json) |
@@ -1607,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omoi o Sasageru Otome no Melody: Afureru Omoi o Shirabe ni Nosete | 82494 | [82494-omoi-o-sasageru-otome-no-melody-afureru-omoi-o-shirabe-ni-nosete.json](./82494-omoi-o-sasageru-otome-no-melody-afureru-omoi-o-shirabe-ni-nosete.json) |
 | Omoidaise! Kousei Nikki Joon-chan!! | 382992 | [382992-omoidaise-kousei-nikki-joon-chan.json](./382992-omoidaise-kousei-nikki-joon-chan.json) |
 | Omoide Cafe | 390202 | [390202-omoide-cafe.json](./390202-omoide-cafe.json) |
+| Omoide Kakaete Ai ni Koi!! | 234286 | [234286-omoide-kakaete-ai-ni-koi.json](./234286-omoide-kakaete-ai-ni-koi.json) |
 | Omoide ni Kawaru Kimi: Memories Off | 288773 | [288773-omoide-ni-kawaru-kimi-memories-off.json](./288773-omoide-ni-kawaru-kimi-memories-off.json) |
 | Omoide ni Kawaru Kimi: Memories Off | 68241 | [68241-omoide-ni-kawaru-kimi-memories-off.json](./68241-omoide-ni-kawaru-kimi-memories-off.json) |
 | Omoikane | 293556 | [293556-omoikane.json](./293556-omoikane.json) |
