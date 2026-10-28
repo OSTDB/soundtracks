@@ -5655,6 +5655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evan, Daniel and Friends. Vol 2 | 238970 | [238970-evan-daniel-and-friends-vol-2.json](./238970-evan-daniel-and-friends-vol-2.json) |
 | Evander Holyfield's 'Real Deal' Boxing | 46545 | [46545-evander-holyfields-real-deal-boxing.json](./46545-evander-holyfields-real-deal-boxing.json) |
 | Evander Holyfield's Real Deal Boxing | 45557 | [45557-evander-holyfields-real-deal-boxing.json](./45557-evander-holyfields-real-deal-boxing.json) |
+| Evanesce | 256644 | [256644-evanesce.json](./256644-evanesce.json) |
 | Evanesce Theory | 399738 | [399738-evanesce-theory.json](./399738-evanesce-theory.json) |
 | Evangeline | 26284 | [26284-evangeline.json](./26284-evangeline.json) |
 | Evangeline's Defense | 203556 | [203556-evangelines-defense.json](./203556-evangelines-defense.json) |
