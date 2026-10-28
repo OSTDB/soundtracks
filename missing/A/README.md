@@ -3649,6 +3649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | African Adventure: In Search of Dr. Livingston | 366265 | [366265-african-adventure-in-search-of-dr-livingston.json](./366265-african-adventure-in-search-of-dr-livingston.json) |
 | African Raiders-01 | 11889 | [11889-african-raiders-01.json](./11889-african-raiders-01.json) |
 | African Safari | 74039 | [74039-african-safari.json](./74039-african-safari.json) |
+| African Safari Race | 239236 | [239236-african-safari-race.json](./239236-african-safari-race.json) |
 | African Safari Trophy Hunter 3D | 206098 | [206098-african-safari-trophy-hunter-3d.json](./206098-african-safari-trophy-hunter-3d.json) |
 | Afrika | 130826 | [130826-afrika.json](./130826-afrika.json) |
 | Afrika | 7267 | [7267-afrika.json](./7267-afrika.json) |
@@ -10547,6 +10548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arbalester | 39621 | [39621-arbalester.json](./39621-arbalester.json) |
 | Arbe10: Base 10 | 101096 | [101096-arbe10-base-10.json](./101096-arbe10-base-10.json) |
 | Arbeit Man in another world | 151610 | [151610-arbeit-man-in-another-world.json](./151610-arbeit-man-in-another-world.json) |
+| Arbeiten Spiel! | 239237 | [239237-arbeiten-spiel.json](./239237-arbeiten-spiel.json) |
 | Arbiter | 204233 | [204233-arbiter.json](./204233-arbiter.json) |
 | Arbitology: Dei Gratia Rex | 123832 | [123832-arbitology-dei-gratia-rex.json](./123832-arbitology-dei-gratia-rex.json) |
 | Arbo: Arena Tactics | 303341 | [303341-arbo-arena-tactics.json](./303341-arbo-arena-tactics.json) |
@@ -15496,6 +15498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid It! | 241420 | [241420-avoid-it.json](./241420-avoid-it.json) |
 | Avoid Korean Memes | 245207 | [245207-avoid-korean-memes.json](./245207-avoid-korean-memes.json) |
 | Avoid Mushrooms | 418241 | [418241-avoid-mushrooms.json](./418241-avoid-mushrooms.json) |
+| Avoid Rect | 239238 | [239238-avoid-rect.json](./239238-avoid-rect.json) |
 | Avoid the Awful Thing that Vaguely Resembles a Banana!! | 69312 | [69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json](./69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json) |
 | Avoid the Demons | 168589 | [168589-avoid-the-demons.json](./168589-avoid-the-demons.json) |
 | Avoid the Monsters | 54450 | [54450-avoid-the-monsters.json](./54450-avoid-the-monsters.json) |
