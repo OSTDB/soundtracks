@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laws of Attraction | 313731 | [313731-laws-of-attraction.json](./313731-laws-of-attraction.json) |
 | Laws of Attraction 2 | 313732 | [313732-laws-of-attraction-2.json](./313732-laws-of-attraction-2.json) |
 | Laws of Machine | 96865 | [96865-laws-of-machine.json](./96865-laws-of-machine.json) |
+| Laws of Nadragia | 244399 | [244399-laws-of-nadragia.json](./244399-laws-of-nadragia.json) |
 | Lawyer Guy: Defender of Justice | 140852 | [140852-lawyer-guy-defender-of-justice.json](./140852-lawyer-guy-defender-of-justice.json) |
 | Lawyer Hunt | 94377 | [94377-lawyer-hunt.json](./94377-lawyer-hunt.json) |
 | Laxius Force | 50802 | [50802-laxius-force.json](./50802-laxius-force.json) |
@@ -5866,6 +5867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locksmith | 48906 | [48906-locksmith.json](./48906-locksmith.json) |
 | Locksmith Simulator | 216621 | [216621-locksmith-simulator.json](./216621-locksmith-simulator.json) |
 | Lockstone | 147745 | [147745-lockstone.json](./147745-lockstone.json) |
+| Lockstone Mountains | 244288 | [244288-lockstone-mountains.json](./244288-lockstone-mountains.json) |
 | LockYourDoor | 328855 | [328855-lockyourdoor.json](./328855-lockyourdoor.json) |
 | Loco | 138123 | [138123-loco.json](./138123-loco.json) |
 | Loco Bonobo | 192871 | [192871-loco-bonobo.json](./192871-loco-bonobo.json) |
@@ -5949,6 +5951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi Hip Hop Worlds to Study in | 203207 | [203207-lofi-hip-hop-worlds-to-study-in.json](./203207-lofi-hip-hop-worlds-to-study-in.json) |
 | Lofi Hollow | 192787 | [192787-lofi-hollow.json](./192787-lofi-hollow.json) |
 | LoFi Hotel | 211117 | [211117-lofi-hotel.json](./211117-lofi-hotel.json) |
+| LOFI Katana | 244411 | [244411-lofi-katana.json](./244411-lofi-katana.json) |
 | Lofi Kitten | 266305 | [266305-lofi-kitten.json](./266305-lofi-kitten.json) |
 | Lofi Milk Delivery | 245921 | [245921-lofi-milk-delivery.json](./245921-lofi-milk-delivery.json) |
 | Lofi Ping Pong | 116187 | [116187-lofi-ping-pong.json](./116187-lofi-ping-pong.json) |
