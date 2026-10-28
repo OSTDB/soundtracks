@@ -5715,6 +5715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golem | 310610 | [310610-golem.json](./310610-golem.json) |
 | Golem | 345640 | [345640-golem.json](./345640-golem.json) |
 | Golem | 47987 | [47987-golem.json](./47987-golem.json) |
+| Golem Builder | 235401 | [235401-golem-builder.json](./235401-golem-builder.json) |
 | Golem Creation Kit | 54990 | [54990-golem-creation-kit.json](./54990-golem-creation-kit.json) |
 | Golem Epic Adventures | 238297 | [238297-golem-epic-adventures.json](./238297-golem-epic-adventures.json) |
 | Golem Gates | 76066 | [76066-golem-gates.json](./76066-golem-gates.json) |
@@ -6352,6 +6353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorkamorka | 32667 | [32667-gorkamorka.json](./32667-gorkamorka.json) |
 | Gorky 17 | 7833 | [7833-gorky-17.json](./7833-gorky-17.json) |
 | Gorky Zero: Beyond Honor | 26557 | [26557-gorky-zero-beyond-honor.json](./26557-gorky-zero-beyond-honor.json) |
+| Gormadae | 235389 | [235389-gormadae.json](./235389-gormadae.json) |
 | Gormiti: Agguato nella Valle | 137936 | [137936-gormiti-agguato-nella-valle.json](./137936-gormiti-agguato-nella-valle.json) |
 | Gormiti: The Lords of Nature! | 188105 | [188105-gormiti-the-lords-of-nature.json](./188105-gormiti-the-lords-of-nature.json) |
 | Gormiti: The Lords of Nature! | 51032 | [51032-gormiti-the-lords-of-nature.json](./51032-gormiti-the-lords-of-nature.json) |
