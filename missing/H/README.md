@@ -1831,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harrier Strike Mission | 44080 | [44080-harrier-strike-mission.json](./44080-harrier-strike-mission.json) |
 | Harriet: From Slave to Hero | 195440 | [195440-harriet-from-slave-to-hero.json](./195440-harriet-from-slave-to-hero.json) |
 | Harrow | 265698 | [265698-harrow.json](./265698-harrow.json) |
+| Harrowed Ground | 278258 | [278258-harrowed-ground.json](./278258-harrowed-ground.json) |
 | Harrowed Halls: Lakeview Lane | 139198 | [139198-harrowed-halls-lakeview-lane.json](./139198-harrowed-halls-lakeview-lane.json) |
 | Harrowed Halls: Lakeview Lane - Collector's Edition | 126282 | [126282-harrowed-halls-lakeview-lane-collectors-edition.json](./126282-harrowed-halls-lakeview-lane-collectors-edition.json) |
 | Harrowed World: Dracula Fallen | 362870 | [362870-harrowed-world-dracula-fallen.json](./362870-harrowed-world-dracula-fallen.json) |
@@ -2648,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Trauma | 278083 | [278083-head-trauma.json](./278083-head-trauma.json) |
 | Head Worms | 149896 | [149896-head-worms.json](./149896-head-worms.json) |
 | Head-On Soccer | 19758 | [19758-head-on-soccer.json](./19758-head-on-soccer.json) |
+| Head-On Soccer | 278591 | [278591-head-on-soccer.json](./278591-head-on-soccer.json) |
 | Head-to-Head Karate | 234219 | [234219-head-to-head-karate.json](./234219-head-to-head-karate.json) |
 | Head's Adventures: Chibichibi | 393116 | [393116-heads-adventures-chibichibi.json](./393116-heads-adventures-chibichibi.json) |
 | Headache | 182372 | [182372-headache.json](./182372-headache.json) |
@@ -10663,9 +10665,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Mirror Run | 275088 | [275088-hyper-mirror-run.json](./275088-hyper-mirror-run.json) |
 | Hyper Mum Ft Adult Gaming | 230122 | [230122-hyper-mum-ft-adult-gaming.json](./230122-hyper-mum-ft-adult-gaming.json) |
 | Hyper Olympic | 278484 | [278484-hyper-olympic.json](./278484-hyper-olympic.json) |
+| Hyper Olympic | 278573 | [278573-hyper-olympic.json](./278573-hyper-olympic.json) |
+| Hyper Olympic '84 | 278574 | [278574-hyper-olympic-84.json](./278574-hyper-olympic-84.json) |
 | Hyper Olympic '84 Vol. 1 | 98245 | [98245-hyper-olympic-84-vol-1.json](./98245-hyper-olympic-84-vol-1.json) |
 | Hyper Olympic '84 Vol. 2 | 98246 | [98246-hyper-olympic-84-vol-2.json](./98246-hyper-olympic-84-vol-2.json) |
 | Hyper Olympic: Challenge 5 | 385738 | [385738-hyper-olympic-challenge-5.json](./385738-hyper-olympic-challenge-5.json) |
+| Hyper Olympic: Gentei-ban! | 278575 | [278575-hyper-olympic-gentei-ban.json](./278575-hyper-olympic-gentei-ban.json) |
 | Hyper Olympic: Jumping Type | 385734 | [385734-hyper-olympic-jumping-type.json](./385734-hyper-olympic-jumping-type.json) |
 | Hyper One: Space R.E.M. | 240848 | [240848-hyper-one-space-r-e-m.json](./240848-hyper-one-space-r-e-m.json) |
 | Hyper P.T. | 213364 | [213364-hyper-p-t.json](./213364-hyper-p-t.json) |
@@ -10696,6 +10701,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Ski | 385739 | [385739-hyper-ski.json](./385739-hyper-ski.json) |
 | Hyper Slasher | 81021 | [81021-hyper-slasher.json](./81021-hyper-slasher.json) |
 | Hyper Space | 59807 | [59807-hyper-space.json](./59807-hyper-space.json) |
+| Hyper Sports | 278584 | [278584-hyper-sports.json](./278584-hyper-sports.json) |
+| Hyper Sports | 278585 | [278585-hyper-sports.json](./278585-hyper-sports.json) |
+| Hyper Sports | 278586 | [278586-hyper-sports.json](./278586-hyper-sports.json) |
+| Hyper Sports | 278587 | [278587-hyper-sports.json](./278587-hyper-sports.json) |
+| Hyper Sports | 278588 | [278588-hyper-sports.json](./278588-hyper-sports.json) |
+| Hyper Sports | 278589 | [278589-hyper-sports.json](./278589-hyper-sports.json) |
+| Hyper Sports | 278590 | [278590-hyper-sports.json](./278590-hyper-sports.json) |
 | Hyper Sports | 6115 | [6115-hyper-sports.json](./6115-hyper-sports.json) |
 | Hyper Sports R | 103343 | [103343-hyper-sports-r.json](./103343-hyper-sports-r.json) |
 | Hyper Square | 345275 | [345275-hyper-square.json](./345275-hyper-square.json) |
