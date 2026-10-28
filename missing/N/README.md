@@ -3062,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | News Tycoon | 29738 | [29738-news-tycoon.json](./29738-news-tycoon.json) |
 | Newspaper Day | 319833 | [319833-newspaper-day.json](./319833-newspaper-day.json) |
 | Newspaper Puzzle Challenge: Sudoku Edition | 210035 | [210035-newspaper-puzzle-challenge-sudoku-edition.json](./210035-newspaper-puzzle-challenge-sudoku-edition.json) |
+| Newspaper Toss: Paperboy Edition | 261856 | [261856-newspaper-toss-paperboy-edition.json](./261856-newspaper-toss-paperboy-edition.json) |
 | Newsun | 324519 | [324519-newsun.json](./324519-newsun.json) |
 | Newt | 228901 | [228901-newt.json](./228901-newt.json) |
 | Newt One | 98145 | [98145-newt-one.json](./98145-newt-one.json) |
@@ -6496,6 +6497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Guesser | 97905 | [97905-number-guesser.json](./97905-number-guesser.json) |
 | Number Hunt | 101319 | [101319-number-hunt.json](./101319-number-hunt.json) |
 | Number Islands | 139923 | [139923-number-islands.json](./139923-number-islands.json) |
+| Number Jump King | 261944 | [261944-number-jump-king.json](./261944-number-jump-king.json) |
 | Number Line | 318257 | [318257-number-line.json](./318257-number-line.json) |
 | Number Machine | 350604 | [350604-number-machine.json](./350604-number-machine.json) |
 | Number Master | 223995 | [223995-number-master.json](./223995-number-master.json) |
