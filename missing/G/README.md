@@ -7454,6 +7454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Surge | 305646 | [305646-gravity-surge.json](./305646-gravity-surge.json) |
 | Gravity Swap 64 | 202107 | [202107-gravity-swap-64.json](./202107-gravity-swap-64.json) |
 | Gravity Switch | 247415 | [247415-gravity-switch.json](./247415-gravity-switch.json) |
+| Gravity Thrust | 231036 | [231036-gravity-thrust.json](./231036-gravity-thrust.json) |
 | Gravity Tilt | 266394 | [266394-gravity-tilt.json](./266394-gravity-tilt.json) |
 | Gravity Up | 318424 | [318424-gravity-up.json](./318424-gravity-up.json) |
 | Gravity Vector | 104791 | [104791-gravity-vector.json](./104791-gravity-vector.json) |
@@ -8802,6 +8803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Cloudia | 150083 | [150083-guardians-of-cloudia.json](./150083-guardians-of-cloudia.json) |
 | Guardians of Dao | 391995 | [391995-guardians-of-dao.json](./391995-guardians-of-dao.json) |
 | Guardians of Eden | 277360 | [277360-guardians-of-eden.json](./277360-guardians-of-eden.json) |
+| Guardians of Elderon | 231010 | [231010-guardians-of-elderon.json](./231010-guardians-of-elderon.json) |
 | Guardians of Ember | 26692 | [26692-guardians-of-ember.json](./26692-guardians-of-ember.json) |
 | Guardians of Gaia | 217263 | [217263-guardians-of-gaia.json](./217263-guardians-of-gaia.json) |
 | Guardians Of Gaia: Guardians 8 | 266321 | [266321-guardians-of-gaia-guardians-8.json](./266321-guardians-of-gaia-guardians-8.json) |
