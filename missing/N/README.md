@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narc | 307956 | [307956-narc.json](./307956-narc.json) |
 | Narc | 307957 | [307957-narc.json](./307957-narc.json) |
 | Narc | 4010 | [4010-narc.json](./4010-narc.json) |
+| Narcalid | 271872 | [271872-narcalid.json](./271872-narcalid.json) |
 | Narcis Crosswords | 304028 | [304028-narcis-crosswords.json](./304028-narcis-crosswords.json) |
 | Narcissist Tail | 394576 | [394576-narcissist-tail.json](./394576-narcissist-tail.json) |
 | Narcissu | 95463 | [95463-narcissu.json](./95463-narcissu.json) |
@@ -2511,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Network Notation | 391341 | [391341-network-notation.json](./391341-network-notation.json) |
 | Network Q RAC Rally | 261884 | [261884-network-q-rac-rally.json](./261884-network-q-rac-rally.json) |
 | Network Q RAC Rally Championship | 50310 | [50310-network-q-rac-rally-championship.json](./50310-network-q-rac-rally-championship.json) |
+| Network Unreachable | 271573 | [271573-network-unreachable.json](./271573-network-unreachable.json) |
 | Networking Event Simulator | 177799 | [177799-networking-event-simulator.json](./177799-networking-event-simulator.json) |
 | Networm | 34333 | [34333-networm.json](./34333-networm.json) |
 | Neues | 387131 | [387131-neues.json](./387131-neues.json) |
