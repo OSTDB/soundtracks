@@ -2370,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Pilots | 258112 | [258112-legendary-pilots.json](./258112-legendary-pilots.json) |
 | Legendary Racing | 232163 | [232163-legendary-racing.json](./232163-legendary-racing.json) |
 | Legendary Realms: A Fantasy World Odyssey | 242512 | [242512-legendary-realms-a-fantasy-world-odyssey.json](./242512-legendary-realms-a-fantasy-world-odyssey.json) |
+| Legendary Road Online | 279158 | [279158-legendary-road-online.json](./279158-legendary-road-online.json) |
 | Legendary Slide | 261781 | [261781-legendary-slide.json](./261781-legendary-slide.json) |
 | Legendary Slide 2: Platinum Edition | 266814 | [266814-legendary-slide-2-platinum-edition.json](./266814-legendary-slide-2-platinum-edition.json) |
 | Legendary Spell: Deluxe Edition | 395679 | [395679-legendary-spell-deluxe-edition.json](./395679-legendary-spell-deluxe-edition.json) |
@@ -5144,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Man Has a Day | 260022 | [260022-little-man-has-a-day.json](./260022-little-man-has-a-day.json) |
 | Little Marisa's Disaster Journey | 99440 | [99440-little-marisas-disaster-journey.json](./99440-little-marisas-disaster-journey.json) |
 | Little Martian | 153332 | [153332-little-martian.json](./153332-little-martian.json) |
+| Little Master Cricket | 278843 | [278843-little-master-cricket.json](./278843-little-master-cricket.json) |
 | Little Master: Niji Iro no Maseki | 42372 | [42372-little-master-niji-iro-no-maseki.json](./42372-little-master-niji-iro-no-maseki.json) |
 | Little Medusa | 106984 | [106984-little-medusa.json](./106984-little-medusa.json) |
 | Little Memories | 109741 | [109741-little-memories.json](./109741-little-memories.json) |
@@ -6421,6 +6423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loose Dog | 415506 | [415506-loose-dog.json](./415506-loose-dog.json) |
 | Loose Life | 216711 | [216711-loose-life.json](./216711-loose-life.json) |
 | Loose Lips(Side:foggy) | 151709 | [151709-loose-lips-side-foggy.json](./151709-loose-lips-side-foggy.json) |
+| Loose or Escape | 279017 | [279017-loose-or-escape.json](./279017-loose-or-escape.json) |
 | Loose the Moose | 225290 | [225290-loose-the-moose.json](./225290-loose-the-moose.json) |
 | Loot & Ledger | 373055 | [373055-loot-and-ledger.json](./373055-loot-and-ledger.json) |
 | Loot & Legends | 22354 | [22354-loot-and-legends.json](./22354-loot-and-legends.json) |
