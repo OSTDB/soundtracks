@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type III: The Third Lightning | 6550 | [6550-r-type-iii-the-third-lightning.json](./6550-r-type-iii-the-third-lightning.json) |
 | R-Type Leo | 6855 | [6855-r-type-leo.json](./6855-r-type-leo.json) |
 | R-Type Tactics I & II Cosmos | 225776 | [225776-r-type-tactics-i-and-ii-cosmos.json](./225776-r-type-tactics-i-and-ii-cosmos.json) |
+| R-Type Tactics I & II Cosmos: Deluxe Edition | 249962 | [249962-r-type-tactics-i-and-ii-cosmos-deluxe-edition.json](./249962-r-type-tactics-i-and-ii-cosmos-deluxe-edition.json) |
 | R-Type Tactics I & II Cosmos: Limited Edition | 276768 | [276768-r-type-tactics-i-and-ii-cosmos-limited-edition.json](./276768-r-type-tactics-i-and-ii-cosmos-limited-edition.json) |
 | R-Type Tactics II: Operation Bitter Chocolate | 44505 | [44505-r-type-tactics-ii-operation-bitter-chocolate.json](./44505-r-type-tactics-ii-operation-bitter-chocolate.json) |
 | R: Racing Evolution | 4076 | [4076-r-racing-evolution.json](./4076-r-racing-evolution.json) |
@@ -1152,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Hero | 35906 | [35906-rainbow-hero.json](./35906-rainbow-hero.json) |
 | Rainbow High: Runway Rush | 249255 | [249255-rainbow-high-runway-rush.json](./249255-rainbow-high-runway-rush.json) |
 | Rainbow Hills | 216742 | [216742-rainbow-hills.json](./216742-rainbow-hills.json) |
+| Rainbow hotel | 251125 | [251125-rainbow-hotel.json](./251125-rainbow-hotel.json) |
 | Rainbow Impostor Survivor 3D | 225782 | [225782-rainbow-impostor-survivor-3d.json](./225782-rainbow-impostor-survivor-3d.json) |
 | Rainbow Infinity | 232148 | [232148-rainbow-infinity.json](./232148-rainbow-infinity.json) |
 | Rainbow Invaders | 94958 | [94958-rainbow-invaders.json](./94958-rainbow-invaders.json) |
@@ -1193,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Rendezvous | 247990 | [247990-rainbow-rendezvous.json](./247990-rainbow-rendezvous.json) |
 | Rainbow Robin | 123829 | [123829-rainbow-robin.json](./123829-rainbow-robin.json) |
 | Rainbow Rockets! | 259243 | [259243-rainbow-rockets.json](./259243-rainbow-rockets.json) |
+| Rainbow Runner | 249586 | [249586-rainbow-runner.json](./249586-rainbow-runner.json) |
 | Rainbow Runner | 384529 | [384529-rainbow-runner.json](./384529-rainbow-runner.json) |
 | Rainbow Six Mobile | 200333 | [200333-rainbow-six-mobile.json](./200333-rainbow-six-mobile.json) |
 | Rainbow Six: Black Ops | 132046 | [132046-rainbow-six-black-ops.json](./132046-rainbow-six-black-ops.json) |
@@ -1978,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravensword: Shadowlands | 7196 | [7196-ravensword-shadowlands.json](./7196-ravensword-shadowlands.json) |
 | Ravensword: The Fallen King | 61031 | [61031-ravensword-the-fallen-king.json](./61031-ravensword-the-fallen-king.json) |
 | Ravensword: Undaunted | 155056 | [155056-ravensword-undaunted.json](./155056-ravensword-undaunted.json) |
+| Raventure | 250547 | [250547-raventure.json](./250547-raventure.json) |
 | Ravenwood | 312280 | [312280-ravenwood.json](./312280-ravenwood.json) |
 | Ravenwood 46 | 373051 | [373051-ravenwood-46.json](./373051-ravenwood-46.json) |
 | Ravenwood Academy: A Wizard101 Story | 298165 | [298165-ravenwood-academy-a-wizard101-story.json](./298165-ravenwood-academy-a-wizard101-story.json) |
@@ -2581,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Rage | 207716 | [207716-real-rage.json](./207716-real-rage.json) |
 | Real Rally | 240493 | [240493-real-rally.json](./240493-real-rally.json) |
 | Real Rash Flying Copter | 100328 | [100328-real-rash-flying-copter.json](./100328-real-rash-flying-copter.json) |
+| Real Riders | 250407 | [250407-real-riders.json](./250407-real-riders.json) |
 | Real Robot Battle Line | 92121 | [92121-real-robot-battle-line.json](./92121-real-robot-battle-line.json) |
 | Real Robot Regiment | 59332 | [59332-real-robot-regiment.json](./59332-real-robot-regiment.json) |
 | Real Robots Final Attack | 68026 | [68026-real-robots-final-attack.json](./68026-real-robots-final-attack.json) |
@@ -5955,6 +5960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm of the Universe: Ionia | 105683 | [105683-rhythm-of-the-universe-ionia.json](./105683-rhythm-of-the-universe-ionia.json) |
 | Rhythm Overdrive | 114527 | [114527-rhythm-overdrive.json](./114527-rhythm-overdrive.json) |
 | Rhythm Party | 20232 | [20232-rhythm-party.json](./20232-rhythm-party.json) |
+| Rhythm Planet | 250399 | [250399-rhythm-planet.json](./250399-rhythm-planet.json) |
 | Rhythm Plus | 207148 | [207148-rhythm-plus.json](./207148-rhythm-plus.json) |
 | Rhythm Producer | 275708 | [275708-rhythm-producer.json](./275708-rhythm-producer.json) |
 | Rhythm Quest | 178876 | [178876-rhythm-quest.json](./178876-rhythm-quest.json) |
@@ -6339,6 +6345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridiculous Rugby | 107593 | [107593-ridiculous-rugby.json](./107593-ridiculous-rugby.json) |
 | Ridiculous Shipping | 331317 | [331317-ridiculous-shipping.json](./331317-ridiculous-shipping.json) |
 | Ridiculous Space Battles | 349222 | [349222-ridiculous-space-battles.json](./349222-ridiculous-space-battles.json) |
+| Ridiculous Triathlon | 250408 | [250408-ridiculous-triathlon.json](./250408-ridiculous-triathlon.json) |
 | Riding Academy 2 | 54316 | [54316-riding-academy-2.json](./54316-riding-academy-2.json) |
 | Riding Champion: Legacy of Rosemond Hill | 64116 | [64116-riding-champion-legacy-of-rosemond-hill.json](./64116-riding-champion-legacy-of-rosemond-hill.json) |
 | Riding Club Championships | 31882 | [31882-riding-club-championships.json](./31882-riding-club-championships.json) |
@@ -8859,6 +8866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguescape | 131936 | [131936-roguescape.json](./131936-roguescape.json) |
 | RogueScape | 404080 | [404080-roguescape.json](./404080-roguescape.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
+| RogueStone 2: Open World | 249947 | [249947-roguestone-2-open-world.json](./249947-roguestone-2-open-world.json) |
 | Roguestorm Beats | 416651 | [416651-roguestorm-beats.json](./416651-roguestorm-beats.json) |
 | Roguesweeper | 389126 | [389126-roguesweeper.json](./389126-roguesweeper.json) |
 | RogueSweeper | 178851 | [178851-roguesweeper.json](./178851-roguesweeper.json) |
@@ -9635,6 +9643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose & Time | 60526 | [60526-rose-and-time.json](./60526-rose-and-time.json) |
 | Rose and Cross | 304468 | [304468-rose-and-cross.json](./304468-rose-and-cross.json) |
 | Rose and Locket | 182109 | [182109-rose-and-locket.json](./182109-rose-and-locket.json) |
+| Rose and Lotus: Petals of Memories | 250986 | [250986-rose-and-lotus-petals-of-memories.json](./250986-rose-and-lotus-petals-of-memories.json) |
 | Rose City Revenge: The Beginning | 220632 | [220632-rose-city-revenge-the-beginning.json](./220632-rose-city-revenge-the-beginning.json) |
 | Rose Cottage | 286673 | [286673-rose-cottage.json](./286673-rose-cottage.json) |
 | Rose From The Depths | 249623 | [249623-rose-from-the-depths.json](./249623-rose-from-the-depths.json) |
@@ -9832,6 +9841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Round Mars | 93783 | [93783-round-mars.json](./93783-round-mars.json) |
 | Round My Corners | 301241 | [301241-round-my-corners.json](./301241-round-my-corners.json) |
 | Round Ogre | 201121 | [201121-round-ogre.json](./201121-round-ogre.json) |
+| Round People | 250557 | [250557-round-people.json](./250557-round-people.json) |
 | Round Rooms | 120055 | [120055-round-rooms.json](./120055-round-rooms.json) |
 | Round Spike | 348954 | [348954-round-spike.json](./348954-round-spike.json) |
 | Round Table | 202719 | [202719-round-table.json](./202719-round-table.json) |
