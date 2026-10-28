@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Jello Party | 306922 | [306922-ultimate-jello-party.json](./306922-ultimate-jello-party.json) |
 | Ultimate Jewel | 242209 | [242209-ultimate-jewel.json](./242209-ultimate-jewel.json) |
 | Ultimate Jigsaw Puzzle Challenge | 293061 | [293061-ultimate-jigsaw-puzzle-challenge.json](./293061-ultimate-jigsaw-puzzle-challenge.json) |
+| Ultimate Jigsaw Puzzle Collection | 271867 | [271867-ultimate-jigsaw-puzzle-collection.json](./271867-ultimate-jigsaw-puzzle-collection.json) |
 | Ultimate JOI | 379331 | [379331-ultimate-joi.json](./379331-ultimate-joi.json) |
 | Ultimate Jungle Simulator | 86856 | [86856-ultimate-jungle-simulator.json](./86856-ultimate-jungle-simulator.json) |
 | Ultimate Kept Man Life | 340347 | [340347-ultimate-kept-man-life.json](./340347-ultimate-kept-man-life.json) |
