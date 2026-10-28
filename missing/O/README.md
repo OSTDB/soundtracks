@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad VR | 278962 | [278962-offroad-vr.json](./278962-offroad-vr.json) |
 | Offroad: Dead Planet | 189874 | [189874-offroad-dead-planet.json](./189874-offroad-dead-planet.json) |
 | Offroad: VR | 31092 | [31092-offroad-vr.json](./31092-offroad-vr.json) |
+| Offscreen | 258594 | [258594-offscreen.json](./258594-offscreen.json) |
 | Offsea | 235761 | [235761-offsea.json](./235761-offsea.json) |
 | Offshore Fishing | 387692 | [387692-offshore-fishing.json](./387692-offshore-fishing.json) |
 | Offshore Racing | 234617 | [234617-offshore-racing.json](./234617-offshore-racing.json) |
