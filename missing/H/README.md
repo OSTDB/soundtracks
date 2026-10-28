@@ -6642,6 +6642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highrise City | 147440 | [147440-highrise-city.json](./147440-highrise-city.json) |
 | Highrise City: Metro & Planes | 285117 | [285117-highrise-city-metro-and-planes.json](./285117-highrise-city-metro-and-planes.json) |
 | Highrise City: Vacation Season | 312037 | [312037-highrise-city-vacation-season.json](./312037-highrise-city-vacation-season.json) |
+| Highrise Guardian | 248084 | [248084-highrise-guardian.json](./248084-highrise-guardian.json) |
 | Highrise Heroes | 241342 | [241342-highrise-heroes.json](./241342-highrise-heroes.json) |
 | Highrollers | 235885 | [235885-highrollers.json](./235885-highrollers.json) |
 | Highschool Romance | 22214 | [22214-highschool-romance.json](./22214-highschool-romance.json) |
@@ -9555,6 +9556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Jigsaw: Urban Lifestyle | 273474 | [273474-house-of-jigsaw-urban-lifestyle.json](./273474-house-of-jigsaw-urban-lifestyle.json) |
 | House of Jigsaw: Vintage Revival | 273473 | [273473-house-of-jigsaw-vintage-revival.json](./273473-house-of-jigsaw-vintage-revival.json) |
 | House of Legacy | 267849 | [267849-house-of-legacy.json](./267849-house-of-legacy.json) |
+| House of Lies | 247867 | [247867-house-of-lies.json](./247867-house-of-lies.json) |
 | House of Lost Souls | 333624 | [333624-house-of-lost-souls.json](./333624-house-of-lost-souls.json) |
 | House of Maids | 189980 | [189980-house-of-maids.json](./189980-house-of-maids.json) |
 | House of Moiré | 212991 | [212991-house-of-moire.json](./212991-house-of-moire.json) |
