@@ -1448,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamaghost Jump! | 307681 | [307681-tamaghost-jump.json](./307681-tamaghost-jump.json) |
 | Tamaghost Jump!I Can't Believe It's Not Exorcism! | 307690 | [307690-tamaghost-jump-i-cant-believe-its-not-exorcism.json](./307690-tamaghost-jump-i-cant-believe-its-not-exorcism.json) |
 | Tamago | 369056 | [369056-tamago.json](./369056-tamago.json) |
+| Tamago de Puzzle | 230485 | [230485-tamago-de-puzzle.json](./230485-tamago-de-puzzle.json) |
 | Tamagopanda no Muchuu Land ni Youkoso!: Waku-waku Taiken Stamp Rally 100 | 327706 | [327706-tamagopanda-no-muchuu-land-ni-youkoso-waku-waku-taiken-stamp-rally-100.json](./327706-tamagopanda-no-muchuu-land-ni-youkoso-waku-waku-taiken-stamp-rally-100.json) |
 | Tamagotchi | 11284 | [11284-tamagotchi.json](./11284-tamagotchi.json) |
 | Tamagotchi | 194325 | [194325-tamagotchi.json](./194325-tamagotchi.json) |
@@ -3773,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terbis | 324799 | [324799-terbis.json](./324799-terbis.json) |
 | Tercios: Honor and Glory | 258325 | [258325-tercios-honor-and-glory.json](./258325-tercios-honor-and-glory.json) |
 | Tercity Life Simulator | 274375 | [274375-tercity-life-simulator.json](./274375-tercity-life-simulator.json) |
+| Terebi-denwa: Super Mario World | 230494 | [230494-terebi-denwa-super-mario-world.json](./230494-terebi-denwa-super-mario-world.json) |
 | Terebikko Ultra Hero Series: Ultraman | 293985 | [293985-terebikko-ultra-hero-series-ultraman.json](./293985-terebikko-ultra-hero-series-ultraman.json) |
 | Terebikko Ultra Hero Series: Ultraseven | 293986 | [293986-terebikko-ultra-hero-series-ultraseven.json](./293986-terebikko-ultra-hero-series-ultraseven.json) |
 | Terebron | 165681 | [165681-terebron.json](./165681-terebron.json) |
@@ -6860,6 +6862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of the Dead | 129668 | [129668-the-curse-of-the-dead.json](./129668-the-curse-of-the-dead.json) |
 | The Curse of the Egyptian Pyramid: Remaster Edition | 278698 | [278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json](./278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json) |
 | The Curse of the Werewolves | 17705 | [17705-the-curse-of-the-werewolves.json](./17705-the-curse-of-the-werewolves.json) |
+| The Curse of The Wise Tree | 230463 | [230463-the-curse-of-the-wise-tree.json](./230463-the-curse-of-the-wise-tree.json) |
 | The Curse of Town | 337050 | [337050-the-curse-of-town.json](./337050-the-curse-of-town.json) |
 | The Curse of Trasmoz | 135307 | [135307-the-curse-of-trasmoz.json](./135307-the-curse-of-trasmoz.json) |
 | The Curse of Unatxi Kamala | 294704 | [294704-the-curse-of-unatxi-kamala.json](./294704-the-curse-of-unatxi-kamala.json) |
@@ -15247,6 +15250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tales of Redbox: An Escape From Desire | 149377 | [149377-the-tales-of-redbox-an-escape-from-desire.json](./149377-the-tales-of-redbox-an-escape-from-desire.json) |
 | The Tales of the Magical Space Dough: Rebaked | 379439 | [379439-the-tales-of-the-magical-space-dough-rebaked.json](./379439-the-tales-of-the-magical-space-dough-rebaked.json) |
 | The Tales of Wonderlend | 379441 | [379441-the-tales-of-wonderlend.json](./379441-the-tales-of-wonderlend.json) |
+| The Talking Words Factory | 230453 | [230453-the-talking-words-factory.json](./230453-the-talking-words-factory.json) |
 | The Tall Man Tapes | 393557 | [393557-the-tall-man-tapes.json](./393557-the-tall-man-tapes.json) |
 | The Tall Wall Falls: The Inner Gate's Last Stand | 186171 | [186171-the-tall-wall-falls-the-inner-gates-last-stand.json](./186171-the-tall-wall-falls-the-inner-gates-last-stand.json) |
 | The Taller I Grow | 135598 | [135598-the-taller-i-grow.json](./135598-the-taller-i-grow.json) |
@@ -22398,6 +22402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Villain: Total Domination | 250749 | [250749-top-villain-total-domination.json](./250749-top-villain-total-domination.json) |
 | Top Web Search 23 | 283719 | [283719-top-web-search-23.json](./283719-top-web-search-23.json) |
 | Top wo Nerae: Cybernetic High-School III | 66210 | [66210-top-wo-nerae-cybernetic-high-school-iii.json](./66210-top-wo-nerae-cybernetic-high-school-iii.json) |
+| Top-Secret Personal Beeswax: Share a Journal with Junie B. | 230454 | [230454-top-secret-personal-beeswax-share-a-journal-with-junie-b.json](./230454-top-secret-personal-beeswax-share-a-journal-with-junie-b.json) |
 | Topa ou Não Topa | 278830 | [278830-topa-ou-nao-topa.json](./278830-topa-ou-nao-topa.json) |
 | Topac Battle | 296262 | [296262-topac-battle.json](./296262-topac-battle.json) |
 | Topac Battle: Supporter Pack | 310035 | [310035-topac-battle-supporter-pack.json](./310035-topac-battle-supporter-pack.json) |
@@ -24275,6 +24280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail Out: Legendary Cars | 255153 | [255153-trail-out-legendary-cars.json](./255153-trail-out-legendary-cars.json) |
 | Trail Out: Luxury Life | 268055 | [268055-trail-out-luxury-life.json](./268055-trail-out-luxury-life.json) |
 | Trail Out: Steel Wheels | 267408 | [267408-trail-out-steel-wheels.json](./267408-trail-out-steel-wheels.json) |
+| Trailblazer | 230469 | [230469-trailblazer.json](./230469-trailblazer.json) |
 | TrailBlazer | 146868 | [146868-trailblazer.json](./146868-trailblazer.json) |
 | TrailBlazer | 79138 | [79138-trailblazer.json](./79138-trailblazer.json) |
 | Trailblazer Advance | 246565 | [246565-trailblazer-advance.json](./246565-trailblazer-advance.json) |
@@ -27932,6 +27938,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
 | Tsumugi no Hanayome | 318859 | [318859-tsumugi-no-hanayome.json](./318859-tsumugi-no-hanayome.json) |
 | Tsumugu Logic | 202676 | [202676-tsumugu-logic.json](./202676-tsumugu-logic.json) |
+| Tsun Tsun Gumi 2: Moji-moji Pakkun | 230482 | [230482-tsun-tsun-gumi-2-moji-moji-pakkun.json](./230482-tsun-tsun-gumi-2-moji-moji-pakkun.json) |
+| Tsun Tsun Gumi: Suuji de Puni-puni | 230481 | [230481-tsun-tsun-gumi-suuji-de-puni-puni.json](./230481-tsun-tsun-gumi-suuji-de-puni-puni.json) |
 | Tsun-Tsun VR | 109297 | [109297-tsun-tsun-vr.json](./109297-tsun-tsun-vr.json) |
 | Tsunagare Numbers | 222420 | [222420-tsunagare-numbers.json](./222420-tsunagare-numbers.json) |
 | Tsunagari Chess School | 320379 | [320379-tsunagari-chess-school.json](./320379-tsunagari-chess-school.json) |
