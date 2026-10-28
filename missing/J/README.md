@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Blacksmith | 231942 | [231942-jack-blacksmith.json](./231942-jack-blacksmith.json) |
 | Jack Bonecroft 4 | 402726 | [402726-jack-bonecroft-4.json](./402726-jack-bonecroft-4.json) |
 | Jack Claw | 63244 | [63244-jack-claw.json](./63244-jack-claw.json) |
+| Jack Dragon | 264183 | [264183-jack-dragon.json](./264183-jack-dragon.json) |
 | Jack Flash | 93078 | [93078-jack-flash.json](./93078-jack-flash.json) |
 | Jack Hayes: The Lazarus Sign | 133067 | [133067-jack-hayes-the-lazarus-sign.json](./133067-jack-hayes-the-lazarus-sign.json) |
 | Jack Horror | 63859 | [63859-jack-horror.json](./63859-jack-horror.json) |
@@ -1699,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw World | 53249 | [53249-jigsaw-world.json](./53249-jigsaw-world.json) |
 | Jigsaw World | 80812 | [80812-jigsaw-world.json](./80812-jigsaw-world.json) |
 | Jigsaw Zoo | 289371 | [289371-jigsaw-zoo.json](./289371-jigsaw-zoo.json) |
+| Jigsaw-Land | 264174 | [264174-jigsaw-land.json](./264174-jigsaw-land.json) |
 | Jigsaw's Test | 393090 | [393090-jigsaws-test.json](./393090-jigsaws-test.json) |
 | JigsawMania | 75710 | [75710-jigsawmania.json](./75710-jigsawmania.json) |
 | Jigsaws Galore | 86684 | [86684-jigsaws-galore.json](./86684-jigsaws-galore.json) |
@@ -2296,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jomey | 287576 | [287576-jomey.json](./287576-jomey.json) |
 | Jomp The Jumper | 367155 | [367155-jomp-the-jumper.json](./367155-jomp-the-jumper.json) |
 | Jon Shafer's At the Gates | 8423 | [8423-jon-shafers-at-the-gates.json](./8423-jon-shafers-at-the-gates.json) |
+| Jon Story | 264167 | [264167-jon-story.json](./264167-jon-story.json) |
 | Jon's Jigsaw Puzzle | 357909 | [357909-jons-jigsaw-puzzle.json](./357909-jons-jigsaw-puzzle.json) |
 | Jonah Barrington's Squash | 72155 | [72155-jonah-barringtons-squash.json](./72155-jonah-barringtons-squash.json) |
 | Jonah Considers What Is Asked of Him | 375384 | [375384-jonah-considers-what-is-asked-of-him.json](./375384-jonah-considers-what-is-asked-of-him.json) |
@@ -3523,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Fajitas | 108592 | [108592-just-fajitas.json](./108592-just-fajitas.json) |
 | Just Fighting | 264998 | [264998-just-fighting.json](./264998-just-fighting.json) |
 | Just Find It 2 | 256340 | [256340-just-find-it-2.json](./256340-just-find-it-2.json) |
+| Just Find It 3 | 264193 | [264193-just-find-it-3.json](./264193-just-find-it-3.json) |
 | Just Find It 3: Collector's Edition | 304780 | [304780-just-find-it-3-collectors-edition.json](./304780-just-find-it-3-collectors-edition.json) |
 | Just Find It 4 | 302213 | [302213-just-find-it-4.json](./302213-just-find-it-4.json) |
 | Just Find It 4: Collector's Edition | 332495 | [332495-just-find-it-4-collectors-edition.json](./332495-just-find-it-4-collectors-edition.json) |
