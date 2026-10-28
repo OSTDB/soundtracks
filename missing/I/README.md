@@ -5634,6 +5634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Happened Here: A Storm is Brewing - Collector's Edition | 337247 | [337247-it-happened-here-a-storm-is-brewing-collectors-edition.json](./337247-it-happened-here-a-storm-is-brewing-collectors-edition.json) |
 | It Happened Here: Beacon of Truth - Collector's Edition | 270102 | [270102-it-happened-here-beacon-of-truth-collectors-edition.json](./270102-it-happened-here-beacon-of-truth-collectors-edition.json) |
 | It Happened Here: Streaming Lives | 266244 | [266244-it-happened-here-streaming-lives.json](./266244-it-happened-here-streaming-lives.json) |
+| It Happened Here: Streaming Lives - Collector's Edition | 237567 | [237567-it-happened-here-streaming-lives-collectors-edition.json](./237567-it-happened-here-streaming-lives-collectors-edition.json) |
 | IT Hell | 249827 | [249827-it-hell.json](./249827-it-hell.json) |
 | It is a Good Knight to Die | 236917 | [236917-it-is-a-good-knight-to-die.json](./236917-it-is-a-good-knight-to-die.json) |
 | It Is Coming | 335665 | [335665-it-is-coming.json](./335665-it-is-coming.json) |
