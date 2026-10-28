@@ -18338,6 +18338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellshot | 243700 | [243700-spellshot.json](./243700-spellshot.json) |
 | Spellsided | 311488 | [311488-spellsided.json](./311488-spellsided.json) |
 | Spellslayer | 266273 | [266273-spellslayer.json](./266273-spellslayer.json) |
+| Spellslinger | 261634 | [261634-spellslinger.json](./261634-spellslinger.json) |
 | Spellslinger | 264623 | [264623-spellslinger.json](./264623-spellslinger.json) |
 | Spellslinger Towns | 295335 | [295335-spellslinger-towns.json](./295335-spellslinger-towns.json) |
 | Spellsouls - Duel of Legends | 26908 | [26908-spellsouls-duel-of-legends.json](./26908-spellsouls-duel-of-legends.json) |
@@ -19766,6 +19767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Bugs | 35345 | [35345-spy-bugs.json](./35345-spy-bugs.json) |
 | Spy Car | 401797 | [401797-spy-car.json](./401797-spy-car.json) |
 | Spy Carnival | 406936 | [406936-spy-carnival.json](./406936-spy-carnival.json) |
+| Spy Cats | 261630 | [261630-spy-cats.json](./261630-spy-cats.json) |
 | Spy Chameleon | 15462 | [15462-spy-chameleon.json](./15462-spy-chameleon.json) |
 | Spy Chaser | 146767 | [146767-spy-chaser.json](./146767-spy-chaser.json) |
 | Spy DNA | 126417 | [126417-spy-dna.json](./126417-spy-dna.json) |
@@ -26770,6 +26772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Galdelic Hour | 43439 | [43439-super-galdelic-hour.json](./43439-super-galdelic-hour.json) |
 | Super Game System Basic | 76193 | [76193-super-game-system-basic.json](./76193-super-game-system-basic.json) |
 | Super gamebear with its three girlfriends | 112997 | [112997-super-gamebear-with-its-three-girlfriends.json](./112997-super-gamebear-with-its-three-girlfriends.json) |
+| Super Gattai | 261940 | [261940-super-gattai.json](./261940-super-gattai.json) |
 | Super Gear Quest | 76203 | [76203-super-gear-quest.json](./76203-super-gear-quest.json) |
 | Super Gears N Gators | 136228 | [136228-super-gears-n-gators.json](./136228-super-gears-n-gators.json) |
 | Super Geisha Neon | 236182 | [236182-super-geisha-neon.json](./236182-super-geisha-neon.json) |
