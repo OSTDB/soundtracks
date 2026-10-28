@@ -2278,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperi | 75791 | [75791-imperi.json](./75791-imperi.json) |
 | Imperi II | 100591 | [100591-imperi-ii.json](./100591-imperi-ii.json) |
 | Imperia Online | 33918 | [33918-imperia-online.json](./33918-imperia-online.json) |
+| Imperial Ambitions | 235944 | [235944-imperial-ambitions.json](./235944-imperial-ambitions.json) |
 | Imperial Arms: Curse of the Conqueror | 188452 | [188452-imperial-arms-curse-of-the-conqueror.json](./188452-imperial-arms-curse-of-the-conqueror.json) |
 | Imperial Bureaucracy Hero | 377963 | [377963-imperial-bureaucracy-hero.json](./377963-imperial-bureaucracy-hero.json) |
 | Imperial Destiny: Path of Gold | 231939 | [231939-imperial-destiny-path-of-gold.json](./231939-imperial-destiny-path-of-gold.json) |
