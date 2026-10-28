@@ -1693,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Warz | 238459 | [238459-zombie-warz.json](./238459-zombie-warz.json) |
 | Zombie Watch | 82359 | [82359-zombie-watch.json](./82359-zombie-watch.json) |
 | Zombie Watch Part II | 241629 | [241629-zombie-watch-part-ii.json](./241629-zombie-watch-part-ii.json) |
+| Zombie Within | 240615 | [240615-zombie-within.json](./240615-zombie-within.json) |
 | Zombie Woods | 283859 | [283859-zombie-woods.json](./283859-zombie-woods.json) |
 | Zombie World | 284283 | [284283-zombie-world.json](./284283-zombie-world.json) |
 | Zombie World | 93791 | [93791-zombie-world.json](./93791-zombie-world.json) |
