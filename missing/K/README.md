@@ -2415,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3553,6 +3554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Cat Adventures Bundle | 385138 | [385138-kitty-cat-adventures-bundle.json](./385138-kitty-cat-adventures-bundle.json) |
 | Kitty Cat Doctor | 204289 | [204289-kitty-cat-doctor.json](./204289-kitty-cat-doctor.json) |
 | Kitty Cat Love | 106655 | [106655-kitty-cat-love.json](./106655-kitty-cat-love.json) |
+| Kitty Cat Resort | 245350 | [245350-kitty-cat-resort.json](./245350-kitty-cat-resort.json) |
 | Kitty Cat Squash | 192691 | [192691-kitty-cat-squash.json](./192691-kitty-cat-squash.json) |
 | Kitty Cat Tycoon | 169125 | [169125-kitty-cat-tycoon.json](./169125-kitty-cat-tycoon.json) |
 | Kitty Cat: Jigsaw Puzzles | 32122 | [32122-kitty-cat-jigsaw-puzzles.json](./32122-kitty-cat-jigsaw-puzzles.json) |
@@ -4106,6 +4108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockin | 77015 | [77015-knockin.json](./77015-knockin.json) |
 | Knocking on her door | 108068 | [108068-knocking-on-her-door.json](./108068-knocking-on-her-door.json) |
 | Knocking Up My Nympho Neighbors | 235828 | [235828-knocking-up-my-nympho-neighbors.json](./235828-knocking-up-my-nympho-neighbors.json) |
+| Knockout | 245133 | [245133-knockout.json](./245133-knockout.json) |
 | Knockout 2: Wrath of the Karen | 244756 | [244756-knockout-2-wrath-of-the-karen.json](./244756-knockout-2-wrath-of-the-karen.json) |
 | Knockout Bowling VR | 129695 | [129695-knockout-bowling-vr.json](./129695-knockout-bowling-vr.json) |
 | Knockout City | 143615 | [143615-knockout-city.json](./143615-knockout-city.json) |
