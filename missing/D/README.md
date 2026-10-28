@@ -2868,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Air | 380242 | [380242-dead-air.json](./380242-dead-air.json) |
 | Dead Alliance | 36781 | [36781-dead-alliance.json](./36781-dead-alliance.json) |
 | Dead Alliance: Day One Edition | 103376 | [103376-dead-alliance-day-one-edition.json](./103376-dead-alliance-day-one-edition.json) |
+| Dead Alone | 263067 | [263067-dead-alone.json](./263067-dead-alone.json) |
 | Dead and Buried | 57195 | [57195-dead-and-buried.json](./57195-dead-and-buried.json) |
 | Dead Ant | 245149 | [245149-dead-ant.json](./245149-dead-ant.json) |
 | Dead Army - Radio Frequency | 32727 | [32727-dead-army-radio-frequency.json](./32727-dead-army-radio-frequency.json) |
@@ -13101,6 +13102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Warrior Monsters 2: Tara's Adventure | 24820 | [24820-dragon-warrior-monsters-2-taras-adventure.json](./24820-dragon-warrior-monsters-2-taras-adventure.json) |
 | Dragon Warrior VII | 1818 | [1818-dragon-warrior-vii.json](./1818-dragon-warrior-vii.json) |
 | Dragon Wars | 11406 | [11406-dragon-wars.json](./11406-dragon-wars.json) |
+| Dragon Wings | 263087 | [263087-dragon-wings.json](./263087-dragon-wings.json) |
 | Dragon World | 13608 | [13608-dragon-world.json](./13608-dragon-world.json) |
 | Dragon World 2001 | 40116 | [40116-dragon-world-2001.json](./40116-dragon-world-2001.json) |
 | Dragon World II | 40978 | [40978-dragon-world-ii.json](./40978-dragon-world-ii.json) |
