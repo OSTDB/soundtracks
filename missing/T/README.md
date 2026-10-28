@@ -5386,6 +5386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Barren Kingdoms | 182096 | [182096-the-barren-kingdoms.json](./182096-the-barren-kingdoms.json) |
 | The Bartlett Saga | 387700 | [387700-the-bartlett-saga.json](./387700-the-bartlett-saga.json) |
 | The Baseball 2003 | 61401 | [61401-the-baseball-2003.json](./61401-the-baseball-2003.json) |
+| The Baseball 2003: Shuuki-gou | 269389 | [269389-the-baseball-2003-shuuki-gou.json](./269389-the-baseball-2003-shuuki-gou.json) |
 | The Baseball T | 217912 | [217912-the-baseball-t.json](./217912-the-baseball-t.json) |
 | The Based Turnabout | 308419 | [308419-the-based-turnabout.json](./308419-the-based-turnabout.json) |
 | The Basement | 274942 | [274942-the-basement.json](./274942-the-basement.json) |
@@ -12842,6 +12843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pharaoh's Tomb | 143468 | [143468-the-pharaohs-tomb.json](./143468-the-pharaohs-tomb.json) |
 | The Pharaoh's Tomb | 290306 | [290306-the-pharaohs-tomb.json](./290306-the-pharaohs-tomb.json) |
 | The Pharody | 334222 | [334222-the-pharody.json](./334222-the-pharody.json) |
+| The Phenomenon | 269391 | [269391-the-phenomenon.json](./269391-the-phenomenon.json) |
 | The Phenomenon of Edgar Allan Poe 1/2 | 155465 | [155465-the-phenomenon-of-edgar-allan-poe-1-2.json](./155465-the-phenomenon-of-edgar-allan-poe-1-2.json) |
 | The Philistine Ploy | 293705 | [293705-the-philistine-ploy.json](./293705-the-philistine-ploy.json) |
 | The Phoenix | 188414 | [188414-the-phoenix.json](./188414-the-phoenix.json) |
@@ -17209,6 +17211,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Things That Go Bump | 194341 | [194341-things-that-go-bump.json](./194341-things-that-go-bump.json) |
 | Things to Forget: Lighthouse | 395478 | [395478-things-to-forget-lighthouse.json](./395478-things-to-forget-lighthouse.json) |
 | Things Too Ugly | 289948 | [289948-things-too-ugly.json](./289948-things-too-ugly.json) |
+| Things.smc | 269696 | [269696-things-smc.json](./269696-things-smc.json) |
+| Things.smc 2: Booni's Island.smc | 269701 | [269701-things-smc-2-boonis-island-smc.json](./269701-things-smc-2-boonis-island-smc.json) |
 | Think | 100765 | [100765-think.json](./100765-think.json) |
 | Think a Little | 289182 | [289182-think-a-little.json](./289182-think-a-little.json) |
 | Think About Aliens! | 150088 | [150088-think-about-aliens.json](./150088-think-about-aliens.json) |
@@ -17313,6 +17317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is a Black Parallelepipedon in a Yellow Field | 321027 | [321027-this-is-a-black-parallelepipedon-in-a-yellow-field.json](./321027-this-is-a-black-parallelepipedon-in-a-yellow-field.json) |
 | This is a Cry for Help | 300462 | [300462-this-is-a-cry-for-help.json](./300462-this-is-a-cry-for-help.json) |
 | This is a game | 198488 | [198488-this-is-a-game.json](./198488-this-is-a-game.json) |
+| This Is a Good Hack to Play If You Just Started Playing Kaizo... World | 269697 | [269697-this-is-a-good-hack-to-play-if-you-just-started-playing-kaizo-world.json](./269697-this-is-a-good-hack-to-play-if-you-just-started-playing-kaizo-world.json) |
 | This is a real thing that happened | 355471 | [355471-this-is-a-real-thing-that-happened.json](./355471-this-is-a-real-thing-that-happened.json) |
 | This is a Refuge | 226419 | [226419-this-is-a-refuge.json](./226419-this-is-a-refuge.json) |
 | This is a Small Town | 260557 | [260557-this-is-a-small-town.json](./260557-this-is-a-small-town.json) |
