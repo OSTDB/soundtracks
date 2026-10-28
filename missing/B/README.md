@@ -837,7 +837,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6451,6 +6450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Buck Hunter Pro | 62603 | [62603-big-buck-hunter-pro.json](./62603-big-buck-hunter-pro.json) |
 | Big Buck Hunter Pro Adventure | 328254 | [328254-big-buck-hunter-pro-adventure.json](./328254-big-buck-hunter-pro-adventure.json) |
 | Big Buck Hunter: Call of the Wild | 263653 | [263653-big-buck-hunter-call-of-the-wild.json](./263653-big-buck-hunter-call-of-the-wild.json) |
+| Big Buck Hunter: Marksman | 259691 | [259691-big-buck-hunter-marksman.json](./259691-big-buck-hunter-marksman.json) |
 | Big Buck Hunter: Shooter's Challenge | 263651 | [263651-big-buck-hunter-shooters-challenge.json](./263651-big-buck-hunter-shooters-challenge.json) |
 | Big Buck Hunter: Ultimate Trophy | 333517 | [333517-big-buck-hunter-ultimate-trophy.json](./333517-big-buck-hunter-ultimate-trophy.json) |
 | Big Buck Hunter: Ultimate Trophy - Deluxe Edition | 333717 | [333717-big-buck-hunter-ultimate-trophy-deluxe-edition.json](./333717-big-buck-hunter-ultimate-trophy-deluxe-edition.json) |
@@ -11797,6 +11797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle Tap | 289767 | [289767-bottle-tap.json](./289767-bottle-tap.json) |
 | Bottle Taps Race | 230679 | [230679-bottle-taps-race.json](./230679-bottle-taps-race.json) |
 | Bottle Target Shoot | 102249 | [102249-bottle-target-shoot.json](./102249-bottle-target-shoot.json) |
+| Bottle vs. Bullet | 259685 | [259685-bottle-vs-bullet.json](./259685-bottle-vs-bullet.json) |
 | Bottle_Shooter | 55240 | [55240-bottle-shooter.json](./55240-bottle-shooter.json) |
 | Bottle: Pilgrim | 74638 | [74638-bottle-pilgrim.json](./74638-bottle-pilgrim.json) |
 | Bottled by Bears | 405328 | [405328-bottled-by-bears.json](./405328-bottled-by-bears.json) |
