@@ -2694,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heading Home | 278954 | [278954-heading-home.json](./278954-heading-home.json) |
 | Heading Out | 154290 | [154290-heading-out.json](./154290-heading-out.json) |
 | Headlander | 15857 | [15857-headlander.json](./15857-headlander.json) |
+| Headless Chicken | 260503 | [260503-headless-chicken.json](./260503-headless-chicken.json) |
 | Headless D | 223629 | [223629-headless-d.json](./223629-headless-d.json) |
 | Headless Zombie 2 | 102020 | [102020-headless-zombie-2.json](./102020-headless-zombie-2.json) |
 | Headlice | 292585 | [292585-headlice.json](./292585-headlice.json) |
