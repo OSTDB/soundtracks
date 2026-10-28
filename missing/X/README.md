@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XaviX Baseball | 131489 | [131489-xavix-baseball.json](./131489-xavix-baseball.json) |
 | Xavix Bowling | 267372 | [267372-xavix-bowling.json](./267372-xavix-bowling.json) |
 | XaviX Tennis | 348923 | [348923-xavix-tennis.json](./348923-xavix-tennis.json) |
+| Xaxa Machine | 270503 | [270503-xaxa-machine.json](./270503-xaxa-machine.json) |
 | XBall Champion | 86232 | [86232-xball-champion.json](./86232-xball-champion.json) |
 | XBattle | 192104 | [192104-xbattle.json](./192104-xbattle.json) |
 | Xbird | 28424 | [28424-xbird.json](./28424-xbird.json) |
