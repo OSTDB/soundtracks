@@ -2910,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Showdown | 342217 | [342217-urban-showdown.json](./342217-urban-showdown.json) |
 | Urban Side | 313959 | [313959-urban-side.json](./313959-urban-side.json) |
 | Urban Skater: Skateboard Delivery City Challenge | 306752 | [306752-urban-skater-skateboard-delivery-city-challenge.json](./306752-urban-skater-skateboard-delivery-city-challenge.json) |
+| Urban Smash | 277881 | [277881-urban-smash.json](./277881-urban-smash.json) |
 | Urban Soldier | 80176 | [80176-urban-soldier.json](./80176-urban-soldier.json) |
 | Urban Space Squirrels | 66362 | [66362-urban-space-squirrels.json](./66362-urban-space-squirrels.json) |
 | Urban Street Fighter | 161607 | [161607-urban-street-fighter.json](./161607-urban-street-fighter.json) |
