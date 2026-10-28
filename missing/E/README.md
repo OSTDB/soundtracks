@@ -1993,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Defender | 339733 | [339733-elemental-defender.json](./339733-elemental-defender.json) |
 | Elemental Dreams | 277187 | [277187-elemental-dreams.json](./277187-elemental-dreams.json) |
 | Elemental Empire | 297816 | [297816-elemental-empire.json](./297816-elemental-empire.json) |
+| Elemental Escape | 264729 | [264729-elemental-escape.json](./264729-elemental-escape.json) |
 | Elemental Exiles | 295812 | [295812-elemental-exiles.json](./295812-elemental-exiles.json) |
 | Elemental Force | 274062 | [274062-elemental-force.json](./274062-elemental-force.json) |
 | Elemental Gearbolt | 9137 | [9137-elemental-gearbolt.json](./9137-elemental-gearbolt.json) |
@@ -3917,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Roller Coasters: Tuwhena Volcano | 166641 | [166641-epic-roller-coasters-tuwhena-volcano.json](./166641-epic-roller-coasters-tuwhena-volcano.json) |
 | Epic Roller Coasters: Twilight | 166649 | [166649-epic-roller-coasters-twilight.json](./166649-epic-roller-coasters-twilight.json) |
 | Epic Roller Coasters: Wyvern Siege | 166644 | [166644-epic-roller-coasters-wyvern-siege.json](./166644-epic-roller-coasters-wyvern-siege.json) |
+| Epic Roller Coasters: Yellowstone | 264723 | [264723-epic-roller-coasters-yellowstone.json](./264723-epic-roller-coasters-yellowstone.json) |
 | Epic Sax Game | 414339 | [414339-epic-sax-game.json](./414339-epic-sax-game.json) |
 | Epic Seal | 419184 | [419184-epic-seal.json](./419184-epic-seal.json) |
 | Epic Showdown | 34365 | [34365-epic-showdown.json](./34365-epic-showdown.json) |
@@ -5721,6 +5723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Even in Arcadia | 135022 | [135022-even-in-arcadia.json](./135022-even-in-arcadia.json) |
 | Even in Arcadia, There I Am | 136421 | [136421-even-in-arcadia-there-i-am.json](./136421-even-in-arcadia-there-i-am.json) |
 | Even Lovers Drown | 408772 | [408772-even-lovers-drown.json](./408772-even-lovers-drown.json) |
+| Even More Bloons | 264448 | [264448-even-more-bloons.json](./264448-even-more-bloons.json) |
 | Even Native Japanese Struggle Japanese Kanji Fill-in Quiz | 403742 | [403742-even-native-japanese-struggle-japanese-kanji-fill-in-quiz.json](./403742-even-native-japanese-struggle-japanese-kanji-fill-in-quiz.json) |
 | Even Some More Tales from Castle Balderstone | 329528 | [329528-even-some-more-tales-from-castle-balderstone.json](./329528-even-some-more-tales-from-castle-balderstone.json) |
 | Even the Stars | 136865 | [136865-even-the-stars.json](./136865-even-the-stars.json) |
@@ -6901,6 +6904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extermination | 271997 | [271997-extermination.json](./271997-extermination.json) |
 | Extermination 1 | 304705 | [304705-extermination-1.json](./304705-extermination-1.json) |
 | Extermination Day | 256703 | [256703-extermination-day.json](./256703-extermination-day.json) |
+| Extermination Overdrive | 264746 | [264746-extermination-overdrive.json](./264746-extermination-overdrive.json) |
 | Extermination Ship | 346546 | [346546-extermination-ship.json](./346546-extermination-ship.json) |
 | Extermination Shock | 285430 | [285430-extermination-shock.json](./285430-extermination-shock.json) |
 | Exterminator | 12733 | [12733-exterminator.json](./12733-exterminator.json) |
