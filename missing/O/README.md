@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscura | 341492 | [341492-obscura.json](./341492-obscura.json) |
 | ObsCure | 5941 | [5941-obscure.json](./5941-obscure.json) |
 | Obscure Chronicle of Dynastia | 392217 | [392217-obscure-chronicle-of-dynastia.json](./392217-obscure-chronicle-of-dynastia.json) |
+| Obscure Chronicle of Dynasty | 257504 | [257504-obscure-chronicle-of-dynasty.json](./257504-obscure-chronicle-of-dynasty.json) |
 | Obscure Depths | 258111 | [258111-obscure-depths.json](./258111-obscure-depths.json) |
 | Obscure Doubt | 117068 | [117068-obscure-doubt.json](./117068-obscure-doubt.json) |
 | Obscure Figures | 387648 | [387648-obscure-figures.json](./387648-obscure-figures.json) |
@@ -2927,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opening Weekend - Varmint Season | 115778 | [115778-opening-weekend-varmint-season.json](./115778-opening-weekend-varmint-season.json) |
 | Opening Weekend: Bear Season | 208993 | [208993-opening-weekend-bear-season.json](./208993-opening-weekend-bear-season.json) |
 | Opening Weekend: Big Cat Season | 208992 | [208992-opening-weekend-big-cat-season.json](./208992-opening-weekend-big-cat-season.json) |
+| Openlid | 257193 | [257193-openlid.json](./257193-openlid.json) |
 | OpenLoco | 138233 | [138233-openloco.json](./138233-openloco.json) |
 | OpenMMO | 410878 | [410878-openmmo.json](./410878-openmmo.json) |
 | OpenMW | 111444 | [111444-openmw.json](./111444-openmw.json) |
