@@ -2815,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Super Mario Goal | 328610 | [328610-lego-super-mario-goal.json](./328610-lego-super-mario-goal.json) |
 | LEGO Super Mario Jigsaw Puzzle | 328607 | [328607-lego-super-mario-jigsaw-puzzle.json](./328607-lego-super-mario-jigsaw-puzzle.json) |
 | LEGO Supersonic RC | 250613 | [250613-lego-supersonic-rc.json](./250613-lego-supersonic-rc.json) |
+| LEGO Technic Bionicle Nestlé | 267506 | [267506-lego-technic-bionicle-nestle.json](./267506-lego-technic-bionicle-nestle.json) |
 | LEGO Technic Cybermaster | 70479 | [70479-lego-technic-cybermaster.json](./70479-lego-technic-cybermaster.json) |
 | LEGO The Hobbit: Side Quest Character Pack | 168771 | [168771-lego-the-hobbit-side-quest-character-pack.json](./168771-lego-the-hobbit-side-quest-character-pack.json) |
 | LEGO The Hobbit: The Battle Pack | 168773 | [168773-lego-the-hobbit-the-battle-pack.json](./168773-lego-the-hobbit-the-battle-pack.json) |
@@ -8086,6 +8087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludo | 88853 | [88853-ludo.json](./88853-ludo.json) |
 | Ludo Anceint | 142938 | [142938-ludo-anceint.json](./142938-ludo-anceint.json) |
 | Ludo Blitz | 58751 | [58751-ludo-blitz.json](./58751-ludo-blitz.json) |
+| Ludo Club | 267502 | [267502-ludo-club.json](./267502-ludo-club.json) |
 | Ludo King | 169778 | [169778-ludo-king.json](./169778-ludo-king.json) |
 | Ludo Live!: Heroes and Strategy | 242661 | [242661-ludo-live-heroes-and-strategy.json](./242661-ludo-live-heroes-and-strategy.json) |
 | Ludo Master | 54175 | [54175-ludo-master.json](./54175-ludo-master.json) |
