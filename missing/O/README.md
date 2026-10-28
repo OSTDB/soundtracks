@@ -2946,6 +2946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Babel: New Tokyo Legacy | 25593 | [25593-operation-babel-new-tokyo-legacy.json](./25593-operation-babel-new-tokyo-legacy.json) |
 | Operation Blackout | 341514 | [341514-operation-blackout.json](./341514-operation-blackout.json) |
 | Operation Blindside: Annihilation | 343440 | [343440-operation-blindside-annihilation.json](./343440-operation-blindside-annihilation.json) |
+| Operation Blitzkrieg | 273201 | [273201-operation-blitzkrieg.json](./273201-operation-blitzkrieg.json) |
 | Operation Blood | 137566 | [137566-operation-blood.json](./137566-operation-blood.json) |
 | Operation Body Count | 8690 | [8690-operation-body-count.json](./8690-operation-body-count.json) |
 | Operation Bodycam | 316848 | [316848-operation-bodycam.json](./316848-operation-bodycam.json) |
