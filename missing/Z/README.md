@@ -1839,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombutcher | 379585 | [379585-zombutcher.json](./379585-zombutcher.json) |
 | ZombWave | 207402 | [207402-zombwave.json](./207402-zombwave.json) |
 | Zomcade | 148825 | [148825-zomcade.json](./148825-zomcade.json) |
+| Zomcats Invasion | 277989 | [277989-zomcats-invasion.json](./277989-zomcats-invasion.json) |
 | ZomDay | 54476 | [54476-zomday.json](./54476-zomday.json) |
 | Zomdied | 399432 | [399432-zomdied.json](./399432-zomdied.json) |
 | ZOMG! | 25020 | [25020-zomg.json](./25020-zomg.json) |
