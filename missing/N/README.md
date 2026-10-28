@@ -6069,6 +6069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notebook Workshop | 406205 | [406205-notebook-workshop.json](./406205-notebook-workshop.json) |
 | Notemon | 117467 | [117467-notemon.json](./117467-notemon.json) |
 | Notes From Province | 212965 | [212965-notes-from-province.json](./212965-notes-from-province.json) |
+| Notes of my silence | 247702 | [247702-notes-of-my-silence.json](./247702-notes-of-my-silence.json) |
 | Notes of Obsession | 56895 | [56895-notes-of-obsession.json](./56895-notes-of-obsession.json) |
 | Notes of Soul | 113343 | [113343-notes-of-soul.json](./113343-notes-of-soul.json) |
 | Notes of the Outskirts | 262255 | [262255-notes-of-the-outskirts.json](./262255-notes-of-the-outskirts.json) |
