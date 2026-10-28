@@ -1715,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Crime Du Parking | 264238 | [264238-le-crime-du-parking.json](./264238-le-crime-du-parking.json) |
 | Le Dernier Don | 303624 | [303624-le-dernier-don.json](./303624-le-dernier-don.json) |
 | Le Fetiche Maya | 10848 | [10848-le-fetiche-maya.json](./10848-le-fetiche-maya.json) |
+| Le Fol | 255830 | [255830-le-fol.json](./255830-le-fol.json) |
 | Le Frenchie | 151036 | [151036-le-frenchie.json](./151036-le-frenchie.json) |
 | Le Fruit Défendu | 142233 | [142233-le-fruit-defendu.json](./142233-le-fruit-defendu.json) |
 | Le Gardien du Savoir | 340553 | [340553-le-gardien-du-savoir.json](./340553-le-gardien-du-savoir.json) |
@@ -3796,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Bug | 359549 | [359549-life-bug.json](./359549-life-bug.json) |
 | Life by You | 240899 | [240899-life-by-you.json](./240899-life-by-you.json) |
 | Life Can Be Amazing | 163183 | [163183-life-can-be-amazing.json](./163183-life-can-be-amazing.json) |
+| Life Changer | 255477 | [255477-life-changer.json](./255477-life-changer.json) |
 | Life Code | 287774 | [287774-life-code.json](./287774-life-code.json) |
 | Life Codex | 309414 | [309414-life-codex.json](./309414-life-codex.json) |
 | Life Combinations | 117479 | [117479-life-combinations.json](./117479-life-combinations.json) |
