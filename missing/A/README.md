@@ -2101,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accele Brid | 38353 | [38353-accele-brid.json](./38353-accele-brid.json) |
 | Acceler 8 | 182945 | [182945-acceler-8.json](./182945-acceler-8.json) |
 | Accelerate | 379458 | [379458-accelerate.json](./379458-accelerate.json) |
+| Accelerate Zone | 255497 | [255497-accelerate-zone.json](./255497-accelerate-zone.json) |
 | Accelerating Hotkeys | 188513 | [188513-accelerating-hotkeys.json](./188513-accelerating-hotkeys.json) |
 | Acceleration of Suguri | 78639 | [78639-acceleration-of-suguri.json](./78639-acceleration-of-suguri.json) |
 | Acceleration of Suguri 2 | 25702 | [25702-acceleration-of-suguri-2.json](./25702-acceleration-of-suguri-2.json) |
@@ -4156,6 +4157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Hugo: Roborumble | 141696 | [141696-agent-hugo-roborumble.json](./141696-agent-hugo-roborumble.json) |
 | Agent in Depth | 216716 | [216716-agent-in-depth.json](./216716-agent-in-depth.json) |
 | Agent Intercept | 122635 | [122635-agent-intercept.json](./122635-agent-intercept.json) |
+| Agent Jump | 255496 | [255496-agent-jump.json](./255496-agent-jump.json) |
 | Agent Jump | 376849 | [376849-agent-jump.json](./376849-agent-jump.json) |
 | Agent Karen: Undercover Investigation of an Evil Organization | 82884 | [82884-agent-karen-undercover-investigation-of-an-evil-organization.json](./82884-agent-karen-undercover-investigation-of-an-evil-organization.json) |
 | Agent Klutz | 144910 | [144910-agent-klutz.json](./144910-agent-klutz.json) |
@@ -6618,6 +6620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alox Poker | 219766 | [219766-alox-poker.json](./219766-alox-poker.json) |
 | Alpaca Ball: Allstars - Collector's Edition | 146114 | [146114-alpaca-ball-allstars-collectors-edition.json](./146114-alpaca-ball-allstars-collectors-edition.json) |
 | Alpaca Evolution | 218527 | [218527-alpaca-evolution.json](./218527-alpaca-evolution.json) |
+| Alpaca Farm! Animal Adventure | 255809 | [255809-alpaca-farm-animal-adventure.json](./255809-alpaca-farm-animal-adventure.json) |
 | Alpaca Party | 326086 | [326086-alpaca-party.json](./326086-alpaca-party.json) |
 | Alpaca Party: Grab & Run | 389635 | [389635-alpaca-party-grab-and-run.json](./389635-alpaca-party-grab-and-run.json) |
 | Alpaca Run | 62451 | [62451-alpaca-run.json](./62451-alpaca-run.json) |
@@ -12431,6 +12434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Inc. | 290283 | [290283-art-inc.json](./290283-art-inc.json) |
 | Art is Boom | 276877 | [276877-art-is-boom.json](./276877-art-is-boom.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
+| Art is Rifle | 255479 | [255479-art-is-rifle.json](./255479-art-is-rifle.json) |
 | Art Jigsaw Puzzles | 303666 | [303666-art-jigsaw-puzzles.json](./303666-art-jigsaw-puzzles.json) |
 | Art Mahjong 2 | 91526 | [91526-art-mahjong-2.json](./91526-art-mahjong-2.json) |
 | Art Mahjong 4 | 199293 | [199293-art-mahjong-4.json](./199293-art-mahjong-4.json) |
@@ -12672,6 +12676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AruaRose | 144322 | [144322-aruarose.json](./144322-aruarose.json) |
 | Aruaru xx-san wo Sagase! | 251605 | [251605-aruaru-xx-san-wo-sagase.json](./251605-aruaru-xx-san-wo-sagase.json) |
 | Arubarea no Otome | 94628 | [94628-arubarea-no-otome.json](./94628-arubarea-no-otome.json) |
+| Arugisu no Tsubasa | 255828 | [255828-arugisu-no-tsubasa.json](./255828-arugisu-no-tsubasa.json) |
 | Arui ha Koi to Iu Na no Mahou | 416690 | [416690-arui-ha-koi-to-iu-na-no-mahou.json](./416690-arui-ha-koi-to-iu-na-no-mahou.json) |
 | Aruma Ketera | 382787 | [382787-aruma-ketera.json](./382787-aruma-ketera.json) |
 | Aruna | 167889 | [167889-aruna.json](./167889-aruna.json) |
