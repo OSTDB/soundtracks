@@ -11011,6 +11011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Game Compil 2 | 381731 | [381731-mini-game-compil-2.json](./381731-mini-game-compil-2.json) |
 | Mini Game Compil 3 | 322796 | [322796-mini-game-compil-3.json](./322796-mini-game-compil-3.json) |
 | Mini Game Machine | 346761 | [346761-mini-game-machine.json](./346761-mini-game-machine.json) |
+| Mini Game Player | 248382 | [248382-mini-game-player.json](./248382-mini-game-player.json) |
 | Mini Games Retro 90s | 368975 | [368975-mini-games-retro-90s.json](./368975-mini-games-retro-90s.json) |
 | Mini Garden Cafe | 260153 | [260153-mini-garden-cafe.json](./260153-mini-garden-cafe.json) |
 | Mini Gardens | 195420 | [195420-mini-gardens.json](./195420-mini-gardens.json) |
@@ -15433,6 +15434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 25: Off Road Helmets Pack | 374758 | [374758-motogp-25-off-road-helmets-pack.json](./374758-motogp-25-off-road-helmets-pack.json) |
 | MotoGP 26 | 394406 | [394406-motogp-26.json](./394406-motogp-26.json) |
 | MotoGP 3 | 5938 | [5938-motogp-3.json](./5938-motogp-3.json) |
+| MotoGP Arcade | 248689 | [248689-motogp-arcade.json](./248689-motogp-arcade.json) |
 | MotoGP Guru Racing 25/26 | 196554 | [196554-motogp-guru-racing-25-26.json](./196554-motogp-guru-racing-25-26.json) |
 | MotoGP4 | 20536 | [20536-motogp4.json](./20536-motogp4.json) |
 | Motoko Hime Adventure | 259489 | [259489-motoko-hime-adventure.json](./259489-motoko-hime-adventure.json) |
@@ -15763,6 +15765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movie Award Winners Trivia | 104637 | [104637-movie-award-winners-trivia.json](./104637-movie-award-winners-trivia.json) |
 | Movie Business: Die Welt der Filme | 388716 | [388716-movie-business-die-welt-der-filme.json](./388716-movie-business-die-welt-der-filme.json) |
 | Movie Cinema Simulator | 276630 | [276630-movie-cinema-simulator.json](./276630-movie-cinema-simulator.json) |
+| Movie Crosswords | 248406 | [248406-movie-crosswords.json](./248406-movie-crosswords.json) |
 | Movie Games | 51062 | [51062-movie-games.json](./51062-movie-games.json) |
 | Movie Grid | 319222 | [319222-movie-grid.json](./319222-movie-grid.json) |
 | Movie Night | 310560 | [310560-movie-night.json](./310560-movie-night.json) |
