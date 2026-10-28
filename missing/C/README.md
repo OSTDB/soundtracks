@@ -2897,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castelian | 295029 | [295029-castelian.json](./295029-castelian.json) |
 | Castella | 361065 | [361065-castella.json](./361065-castella.json) |
 | Castellan | 411700 | [411700-castellan.json](./411700-castellan.json) |
+| Castelo Negro | 242123 | [242123-castelo-negro.json](./242123-castelo-negro.json) |
 | Castelo Rá-Tim-Bum | 84302 | [84302-castelo-ra-tim-bum.json](./84302-castelo-ra-tim-bum.json) |
 | Caster | 9793 | [9793-caster.json](./9793-caster.json) |
 | Caster's Trap | 130339 | [130339-casters-trap.json](./130339-casters-trap.json) |
@@ -7385,6 +7386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chucky Mendoza and the Curse of the Pharaoh | 132720 | [132720-chucky-mendoza-and-the-curse-of-the-pharaoh.json](./132720-chucky-mendoza-and-the-curse-of-the-pharaoh.json) |
 | Chucky: Slash & Dash | 307138 | [307138-chucky-slash-and-dash.json](./307138-chucky-slash-and-dash.json) |
 | Chucky: The Road To Heaven | 235449 | [235449-chucky-the-road-to-heaven.json](./235449-chucky-the-road-to-heaven.json) |
+| Chucky: Wanna Play? | 242162 | [242162-chucky-wanna-play.json](./242162-chucky-wanna-play.json) |
 | Chug the Tiny Tugboat | 213548 | [213548-chug-the-tiny-tugboat.json](./213548-chug-the-tiny-tugboat.json) |
 | Chuggington: Babysitter Brewster | 230548 | [230548-chuggington-babysitter-brewster.json](./230548-chuggington-babysitter-brewster.json) |
 | Chuhou Joutai | 133460 | [133460-chuhou-joutai.json](./133460-chuhou-joutai.json) |
@@ -8318,6 +8320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Elements | 233216 | [233216-clash-of-elements.json](./233216-clash-of-elements.json) |
 | Clash of Empire | 181581 | [181581-clash-of-empire.json](./181581-clash-of-empire.json) |
 | Clash Of Empires | 289292 | [289292-clash-of-empires.json](./289292-clash-of-empires.json) |
+| Clash of Evil | 242139 | [242139-clash-of-evil.json](./242139-clash-of-evil.json) |
 | Clash of Evil: The Comeback | 272815 | [272815-clash-of-evil-the-comeback.json](./272815-clash-of-evil-the-comeback.json) |
 | Clash of Fingers | 237958 | [237958-clash-of-fingers.json](./237958-clash-of-fingers.json) |
 | Clash of Irons: Blitzkrieg | 157483 | [157483-clash-of-irons-blitzkrieg.json](./157483-clash-of-irons-blitzkrieg.json) |
@@ -9683,6 +9686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Gordon | 11749 | [11749-codename-gordon.json](./11749-codename-gordon.json) |
 | Codename: Kids Next Door - Flight of the Hamsters | 234535 | [234535-codename-kids-next-door-flight-of-the-hamsters.json](./234535-codename-kids-next-door-flight-of-the-hamsters.json) |
 | Codename: Kids Next Door - Operation S.O.D.A. | 49159 | [49159-codename-kids-next-door-operation-s-o-d-a.json](./49159-codename-kids-next-door-operation-s-o-d-a.json) |
+| Codename: Kids Next Door - Operation: G.R.A.D.U.A.T.E.S. | 242161 | [242161-codename-kids-next-door-operation-g-r-a-d-u-a-t-e-s.json](./242161-codename-kids-next-door-operation-g-r-a-d-u-a-t-e-s.json) |
 | Codename: Kids Next Door - Operation: V.I.D.E.O.G.A.M.E. | 2812 | [2812-codename-kids-next-door-operation-v-i-d-e-o-g-a-m-e.json](./2812-codename-kids-next-door-operation-v-i-d-e-o-g-a-m-e.json) |
 | Codename: Lovania | 384246 | [384246-codename-lovania.json](./384246-codename-lovania.json) |
 | Codename: Mystery Babylon | 157154 | [157154-codename-mystery-babylon.json](./157154-codename-mystery-babylon.json) |
