@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raceway: Drag & Stock Racing | 168316 | [168316-raceway-drag-and-stock-racing.json](./168316-raceway-drag-and-stock-racing.json) |
 | RaceWorms | 373179 | [373179-raceworms.json](./373179-raceworms.json) |
 | RaceXXL Space | 367394 | [367394-racexxl-space.json](./367394-racexxl-space.json) |
+| Racey Rocket | 268851 | [268851-racey-rocket.json](./268851-racey-rocket.json) |
 | Rachael Savage | 156921 | [156921-rachael-savage.json](./156921-rachael-savage.json) |
 | Rachel and Ariane | 255101 | [255101-rachel-and-ariane.json](./255101-rachel-and-ariane.json) |
 | Rachel's Game Pack | 208431 | [208431-rachels-game-pack.json](./208431-rachels-game-pack.json) |
@@ -763,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raging Ball | 416962 | [416962-raging-ball.json](./416962-raging-ball.json) |
 | Raging Blades | 43324 | [43324-raging-blades.json](./43324-raging-blades.json) |
 | Raging Blasters | 142659 | [142659-raging-blasters.json](./142659-raging-blasters.json) |
+| Raging Blitz | 269152 | [269152-raging-blitz.json](./269152-raging-blitz.json) |
 | Raging Bytes | 246079 | [246079-raging-bytes.json](./246079-raging-bytes.json) |
 | Raging Fighter | 48921 | [48921-raging-fighter.json](./48921-raging-fighter.json) |
 | Raging Fists: Retribution | 166723 | [166723-raging-fists-retribution.json](./166723-raging-fists-retribution.json) |
