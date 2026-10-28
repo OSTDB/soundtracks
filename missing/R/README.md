@@ -5264,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Space Shooter | 350356 | [350356-retro-space-shooter.json](./350356-retro-space-shooter.json) |
 | Retro Space Shooter | 75186 | [75186-retro-space-shooter.json](./75186-retro-space-shooter.json) |
 | Retro Speed 2 | 244088 | [244088-retro-speed-2.json](./244088-retro-speed-2.json) |
+| Retro Speed Game | 259688 | [259688-retro-speed-game.json](./259688-retro-speed-game.json) |
 | Retro Sphere | 81656 | [81656-retro-sphere.json](./81656-retro-sphere.json) |
 | Retro Sports Bundle | 154966 | [154966-retro-sports-bundle.json](./154966-retro-sports-bundle.json) |
 | Retro Style: Pixel Art Jigsaw Puzzles | 239063 | [239063-retro-style-pixel-art-jigsaw-puzzles.json](./239063-retro-style-pixel-art-jigsaw-puzzles.json) |
@@ -6949,6 +6950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk of Rain: Starstorm | 262102 | [262102-risk-of-rain-starstorm.json](./262102-risk-of-rain-starstorm.json) |
 | Risk Of Waifus | 382482 | [382482-risk-of-waifus.json](./382482-risk-of-waifus.json) |
 | Risk One's Neck | 109454 | [109454-risk-ones-neck.json](./109454-risk-ones-neck.json) |
+| Risk Ranch | 259695 | [259695-risk-ranch.json](./259695-risk-ranch.json) |
 | Risk System | 117781 | [117781-risk-system.json](./117781-risk-system.json) |
 | Risk your life to get your dinner back Nyanzou action game | 231070 | [231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json](./231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json) |
 | Risk: Factions | 3693 | [3693-risk-factions.json](./3693-risk-factions.json) |
