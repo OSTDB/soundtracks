@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-28T07:33:42.299Z",
-  "total_missing": 273667,
+  "generated_at": "2026-10-28T07:51:28.423Z",
+  "total_missing": 273717,
   "games": [
     {
       "igdb_id": 191680,
@@ -3285,6 +3285,11 @@
       "igdb_id": 164477,
       "game_name": "100% Orange Juice: Sham & Sherry",
       "file": "missing/0-9/164477-100-orange-juice-sham-and-sherry.json"
+    },
+    {
+      "igdb_id": 263064,
+      "game_name": "100% Orange Juice: Sweet Gods Pack",
+      "file": "missing/0-9/263064-100-orange-juice-sweet-gods-pack.json"
     },
     {
       "igdb_id": 164473,
@@ -191137,6 +191142,11 @@
       "file": "missing/C/241323-cat-jigsaw-puzzle-games-expansion-pack-11.json"
     },
     {
+      "igdb_id": 263082,
+      "game_name": "Cat Jigsaw Puzzle Games: Expansion Pack 2",
+      "file": "missing/C/263082-cat-jigsaw-puzzle-games-expansion-pack-2.json"
+    },
+    {
       "igdb_id": 263207,
       "game_name": "Cat Jigsaw Puzzle Games: Expansion Pack 3",
       "file": "missing/C/263207-cat-jigsaw-puzzle-games-expansion-pack-3.json"
@@ -191150,6 +191160,11 @@
       "igdb_id": 263098,
       "game_name": "Cat Jigsaw Puzzle Games: Expansion Pack 5",
       "file": "missing/C/263098-cat-jigsaw-puzzle-games-expansion-pack-5.json"
+    },
+    {
+      "igdb_id": 263063,
+      "game_name": "Cat Jigsaw Puzzle Games: Expansion Pack 6",
+      "file": "missing/C/263063-cat-jigsaw-puzzle-games-expansion-pack-6.json"
     },
     {
       "igdb_id": 263214,
@@ -197147,6 +197162,11 @@
       "file": "missing/C/256409-century-age-of-ashes-zealot-pack.json"
     },
     {
+      "igdb_id": 263061,
+      "game_name": "Century: Skaarp Pack",
+      "file": "missing/C/263061-century-skaarp-pack.json"
+    },
+    {
       "igdb_id": 340566,
       "game_name": "Century: Wishbringer Pack",
       "file": "missing/C/340566-century-wishbringer-pack.json"
@@ -201495,6 +201515,11 @@
       "igdb_id": 112697,
       "game_name": "Checkmate : Battle Arenas",
       "file": "missing/C/112697-checkmate-battle-arenas.json"
+    },
+    {
+      "igdb_id": 262777,
+      "game_name": "Checkmate Challenge",
+      "file": "missing/C/262777-checkmate-challenge.json"
     },
     {
       "igdb_id": 391068,
@@ -248937,6 +248962,11 @@
       "file": "missing/C/43784-crisis-city.json"
     },
     {
+      "igdb_id": 263072,
+      "game_name": "Crisis Control",
+      "file": "missing/C/263072-crisis-control.json"
+    },
+    {
       "igdb_id": 141504,
       "game_name": "Crisis Core: Final Fantasy VII - Collector's Edition",
       "file": "missing/C/141504-crisis-core-final-fantasy-vii-collectors-edition.json"
@@ -277820,6 +277850,11 @@
       "igdb_id": 103376,
       "game_name": "Dead Alliance: Day One Edition",
       "file": "missing/D/103376-dead-alliance-day-one-edition.json"
+    },
+    {
+      "igdb_id": 263067,
+      "game_name": "Dead Alone",
+      "file": "missing/D/263067-dead-alone.json"
     },
     {
       "igdb_id": 57195,
@@ -328990,6 +329025,11 @@
       "igdb_id": 11406,
       "game_name": "Dragon Wars",
       "file": "missing/D/11406-dragon-wars.json"
+    },
+    {
+      "igdb_id": 263087,
+      "game_name": "Dragon Wings",
+      "file": "missing/D/263087-dragon-wings.json"
     },
     {
       "igdb_id": 13608,
@@ -385292,6 +385332,11 @@
       "file": "missing/F/364553-faded-solitude.json"
     },
     {
+      "igdb_id": 263094,
+      "game_name": "Faded Stories: Full Moon",
+      "file": "missing/F/263094-faded-stories-full-moon.json"
+    },
+    {
       "igdb_id": 190176,
       "game_name": "Faded Stories: Greenberg",
       "file": "missing/F/190176-faded-stories-greenberg.json"
@@ -407102,6 +407147,11 @@
       "file": "missing/F/292914-finding-america-the-west-collectors-edition.json"
     },
     {
+      "igdb_id": 262776,
+      "game_name": "Finding Anastasia",
+      "file": "missing/F/262776-finding-anastasia.json"
+    },
+    {
       "igdb_id": 56494,
       "game_name": "Finding Bigfoot",
       "file": "missing/F/56494-finding-bigfoot.json"
@@ -411407,6 +411457,11 @@
       "file": "missing/F/319285-fishing-grind.json"
     },
     {
+      "igdb_id": 262781,
+      "game_name": "Fishing Guy",
+      "file": "missing/F/262781-fishing-guy.json"
+    },
+    {
       "igdb_id": 110240,
       "game_name": "Fishing Hero",
       "file": "missing/F/110240-fishing-hero.json"
@@ -411725,6 +411780,11 @@
       "igdb_id": 277352,
       "game_name": "Fishing Planet: Thanksgiving Cornucopia Pack",
       "file": "missing/F/277352-fishing-planet-thanksgiving-cornucopia-pack.json"
+    },
+    {
+      "igdb_id": 263088,
+      "game_name": "Fishing Planet: Topwater Kayak Pack",
+      "file": "missing/F/263088-fishing-planet-topwater-kayak-pack.json"
     },
     {
       "igdb_id": 366000,
@@ -417765,6 +417825,11 @@
       "igdb_id": 245770,
       "game_name": "Float",
       "file": "missing/F/245770-float.json"
+    },
+    {
+      "igdb_id": 263095,
+      "game_name": "Float",
+      "file": "missing/F/263095-float.json"
     },
     {
       "igdb_id": 51560,
@@ -436725,6 +436790,11 @@
       "igdb_id": 224240,
       "game_name": "From the Deep",
       "file": "missing/F/224240-from-the-deep.json"
+    },
+    {
+      "igdb_id": 263093,
+      "game_name": "From the Deep",
+      "file": "missing/F/263093-from-the-deep.json"
     },
     {
       "igdb_id": 9632,
@@ -481455,6 +481525,11 @@
       "igdb_id": 189340,
       "game_name": "Greed Is Bad",
       "file": "missing/G/189340-greed-is-bad.json"
+    },
+    {
+      "igdb_id": 263065,
+      "game_name": "Greed is Good",
+      "file": "missing/G/263065-greed-is-good.json"
     },
     {
       "igdb_id": 58680,
@@ -532992,6 +533067,11 @@
       "file": "missing/H/89840-homefront-the-revolution-goliath-edition.json"
     },
     {
+      "igdb_id": 263081,
+      "game_name": "Homefront: The Revolution - The Liberty Pack",
+      "file": "missing/H/263081-homefront-the-revolution-the-liberty-pack.json"
+    },
+    {
       "igdb_id": 53205,
       "game_name": "Homefront: The Revolution - The Voice Of Freedom",
       "file": "missing/H/53205-homefront-the-revolution-the-voice-of-freedom.json"
@@ -538990,6 +539070,11 @@
       "igdb_id": 4916,
       "game_name": "Hot Wheels: Beat That!",
       "file": "missing/H/4916-hot-wheels-beat-that.json"
+    },
+    {
+      "igdb_id": 263068,
+      "game_name": "Hot Wheels: Beefed Up Pack",
+      "file": "missing/H/263068-hot-wheels-beefed-up-pack.json"
     },
     {
       "igdb_id": 49295,
@@ -565207,6 +565292,11 @@
       "file": "missing/I/174611-infinity-island.json"
     },
     {
+      "igdb_id": 262783,
+      "game_name": "Infinity Islets",
+      "file": "missing/I/262783-infinity-islets.json"
+    },
+    {
       "igdb_id": 143085,
       "game_name": "Infinity Kingdom",
       "file": "missing/I/143085-infinity-kingdom.json"
@@ -575410,6 +575500,11 @@
       "igdb_id": 137362,
       "game_name": "Isle of the Crown",
       "file": "missing/I/137362-isle-of-the-crown.json"
+    },
+    {
+      "igdb_id": 263092,
+      "game_name": "Isle of the Jötunn",
+      "file": "missing/I/263092-isle-of-the-jotunn.json"
     },
     {
       "igdb_id": 101665,
@@ -590637,6 +590732,11 @@
       "file": "missing/J/144187-joy-the-pug.json"
     },
     {
+      "igdb_id": 262775,
+      "game_name": "Joy-N Help Me",
+      "file": "missing/J/262775-joy-n-help-me.json"
+    },
+    {
       "igdb_id": 323412,
       "game_name": "Joycoin",
       "file": "missing/J/323412-joycoin.json"
@@ -595245,6 +595345,11 @@
       "igdb_id": 118919,
       "game_name": "Just Cause 4: Los Demonios",
       "file": "missing/J/118919-just-cause-4-los-demonios.json"
+    },
+    {
+      "igdb_id": 263079,
+      "game_name": "Just Cause 4: Neon Racer Pack",
+      "file": "missing/J/263079-just-cause-4-neon-racer-pack.json"
     },
     {
       "igdb_id": 125637,
@@ -657782,6 +657887,11 @@
       "file": "missing/L/75422-lost-alice-destined-lovers-in-wonderland.json"
     },
     {
+      "igdb_id": 263078,
+      "game_name": "Lost Alien",
+      "file": "missing/L/263078-lost-alien.json"
+    },
+    {
       "igdb_id": 148812,
       "game_name": "Lost Alone",
       "file": "missing/L/148812-lost-alone.json"
@@ -660635,6 +660745,11 @@
       "igdb_id": 342304,
       "game_name": "Love",
       "file": "missing/L/342304-love.json"
+    },
+    {
+      "igdb_id": 262780,
+      "game_name": "Love & Country",
+      "file": "missing/L/262780-love-and-country.json"
     },
     {
       "igdb_id": 56254,
@@ -780307,6 +780422,11 @@
       "file": "missing/N/214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json"
     },
     {
+      "igdb_id": 263060,
+      "game_name": "NHRA Championship Drag Racing: Speed for All - Electro Blitz Pack",
+      "file": "missing/N/263060-nhra-championship-drag-racing-speed-for-all-electro-blitz-pack.json"
+    },
+    {
       "igdb_id": 263055,
       "game_name": "NHRA Championship Drag Racing: Speed for All - John Force Racing Pack",
       "file": "missing/N/263055-nhra-championship-drag-racing-speed-for-all-john-force-racing-pack.json"
@@ -801060,6 +801180,11 @@
       "igdb_id": 92364,
       "game_name": "Off-Road Redneck Racing",
       "file": "missing/O/92364-off-road-redneck-racing.json"
+    },
+    {
+      "igdb_id": 262779,
+      "game_name": "Off-Road Rides",
+      "file": "missing/O/262779-off-road-rides.json"
     },
     {
       "igdb_id": 30483,
@@ -837687,6 +837812,11 @@
       "file": "missing/P/289004-payday-2-legacy-collection.json"
     },
     {
+      "igdb_id": 263089,
+      "game_name": "Payday 2: McShay Mod Pack",
+      "file": "missing/P/263089-payday-2-mcshay-mod-pack.json"
+    },
+    {
       "igdb_id": 225170,
       "game_name": "Payday 2: McShay Weapon Pack",
       "file": "missing/P/225170-payday-2-mcshay-weapon-pack.json"
@@ -859617,6 +859747,11 @@
       "file": "missing/P/109357-pixel-royale.json"
     },
     {
+      "igdb_id": 263070,
+      "game_name": "Pixel Royale 3D",
+      "file": "missing/P/263070-pixel-royale-3d.json"
+    },
+    {
       "igdb_id": 402342,
       "game_name": "Pixel Run and Gun",
       "file": "missing/P/402342-pixel-run-and-gun.json"
@@ -862877,6 +863012,11 @@
       "file": "missing/P/191245-planet-zoo-europe-pack.json"
     },
     {
+      "igdb_id": 263097,
+      "game_name": "Planet Zoo: Grasslands Animal Pack",
+      "file": "missing/P/263097-planet-zoo-grasslands-animal-pack.json"
+    },
+    {
       "igdb_id": 174129,
       "game_name": "Planet Zoo: North America Animal Pack",
       "file": "missing/P/174129-planet-zoo-north-america-animal-pack.json"
@@ -862890,6 +863030,11 @@
       "igdb_id": 243535,
       "game_name": "Planet Zoo: Tropical Pack",
       "file": "missing/P/243535-planet-zoo-tropical-pack.json"
+    },
+    {
+      "igdb_id": 263073,
+      "game_name": "Planet Zoo: Twilight Pack",
+      "file": "missing/P/263073-planet-zoo-twilight-pack.json"
     },
     {
       "igdb_id": 197558,
@@ -913192,6 +913337,11 @@
       "file": "missing/R/316711-ragdoll-cannon.json"
     },
     {
+      "igdb_id": 263071,
+      "game_name": "Ragdoll Combat",
+      "file": "missing/R/263071-ragdoll-combat.json"
+    },
+    {
       "igdb_id": 252673,
       "game_name": "Ragdoll Destroyer",
       "file": "missing/R/252673-ragdoll-destroyer.json"
@@ -928227,6 +928377,11 @@
       "file": "missing/R/414361-redraft-the-fantasy-football-simulator.json"
     },
     {
+      "igdb_id": 262773,
+      "game_name": "RedRaptor",
+      "file": "missing/R/262773-redraptor.json"
+    },
+    {
       "igdb_id": 188035,
       "game_name": "ReDrawn: The Painted Tower",
       "file": "missing/R/188035-redrawn-the-painted-tower.json"
@@ -938927,9 +939082,19 @@
       "file": "missing/R/220710-rezzil-player.json"
     },
     {
+      "igdb_id": 263066,
+      "game_name": "Rezzil Player: Adidas Brand Pack",
+      "file": "missing/R/263066-rezzil-player-adidas-brand-pack.json"
+    },
+    {
       "igdb_id": 263130,
       "game_name": "Rezzil Player: Forest Team Pack",
       "file": "missing/R/263130-rezzil-player-forest-team-pack.json"
+    },
+    {
+      "igdb_id": 263074,
+      "game_name": "Rezzil Player: Rovers Team Pack",
+      "file": "missing/R/263074-rezzil-player-rovers-team-pack.json"
     },
     {
       "igdb_id": 401458,
@@ -955602,6 +955767,11 @@
       "file": "missing/R/239207-romance-md-always-on-call.json"
     },
     {
+      "igdb_id": 262782,
+      "game_name": "Romance of a Demon Kingdom's Fall",
+      "file": "missing/R/262782-romance-of-a-demon-kingdoms-fall.json"
+    },
+    {
       "igdb_id": 298515,
       "game_name": "Romance of Bousouzoku",
       "file": "missing/R/298515-romance-of-bousouzoku.json"
@@ -965470,6 +965640,11 @@
       "igdb_id": 154246,
       "game_name": "Rust: Voice Props Pack",
       "file": "missing/R/154246-rust-voice-props-pack.json"
+    },
+    {
+      "igdb_id": 262784,
+      "game_name": "Rust'N Ruin",
+      "file": "missing/R/262784-rustn-ruin.json"
     },
     {
       "igdb_id": 35699,
@@ -1023177,6 +1023352,11 @@
       "file": "missing/S/78450-sleeping-dogs-zodiac-tournament.json"
     },
     {
+      "igdb_id": 262774,
+      "game_name": "Sleeping Dragon",
+      "file": "missing/S/262774-sleeping-dragon.json"
+    },
+    {
       "igdb_id": 233490,
       "game_name": "Sleeping Flowers: Thread Curse",
       "file": "missing/S/233490-sleeping-flowers-thread-curse.json"
@@ -1076087,6 +1076267,11 @@
       "file": "missing/S/371933-starship-scarwolf.json"
     },
     {
+      "igdb_id": 263077,
+      "game_name": "Starship Scramble",
+      "file": "missing/S/263077-starship-scramble.json"
+    },
+    {
       "igdb_id": 283223,
       "game_name": "Starship Showdown: Galactic Grand Prix",
       "file": "missing/S/283223-starship-showdown-galactic-grand-prix.json"
@@ -1095082,6 +1095267,11 @@
       "file": "missing/S/5197-summer-sports-paradise-island.json"
     },
     {
+      "igdb_id": 262771,
+      "game_name": "Summer Sprint",
+      "file": "missing/S/262771-summer-sprint.json"
+    },
+    {
       "igdb_id": 20233,
       "game_name": "Summer Stars 2012",
       "file": "missing/S/20233-summer-stars-2012.json"
@@ -1100050,6 +1100240,11 @@
       "igdb_id": 219579,
       "game_name": "Super Galaxy Ball",
       "file": "missing/S/219579-super-galaxy-ball.json"
+    },
+    {
+      "igdb_id": 263069,
+      "game_name": "Super Galaxy Ball: Skin Pack 1",
+      "file": "missing/S/263069-super-galaxy-ball-skin-pack-1.json"
     },
     {
       "igdb_id": 54867,
@@ -1126817,6 +1127012,11 @@
       "file": "missing/T/56147-tale-of-toast.json"
     },
     {
+      "igdb_id": 263062,
+      "game_name": "Tale of Two Cranes",
+      "file": "missing/T/263062-tale-of-two-cranes.json"
+    },
+    {
       "igdb_id": 219564,
       "game_name": "Tale of Two Sardines",
       "file": "missing/T/219564-tale-of-two-sardines.json"
@@ -1152437,6 +1152637,11 @@
       "file": "missing/T/53708-the-cameron-files-loch-ness.json"
     },
     {
+      "igdb_id": 262772,
+      "game_name": "The Camp",
+      "file": "missing/T/262772-the-camp.json"
+    },
+    {
       "igdb_id": 36457,
       "game_name": "The Campaign Series: Fall Weiss",
       "file": "missing/T/36457-the-campaign-series-fall-weiss.json"
@@ -1156285,6 +1156490,11 @@
       "igdb_id": 344351,
       "game_name": "The Cursed Underground Parking Lot",
       "file": "missing/T/344351-the-cursed-underground-parking-lot.json"
+    },
+    {
+      "igdb_id": 263080,
+      "game_name": "The Cursed Village TD",
+      "file": "missing/T/263080-the-cursed-village-td.json"
     },
     {
       "igdb_id": 240720,
@@ -1166735,6 +1166945,11 @@
       "igdb_id": 386220,
       "game_name": "The Great House Escape",
       "file": "missing/T/386220-the-great-house-escape.json"
+    },
+    {
+      "igdb_id": 262778,
+      "game_name": "The Great Hunt",
+      "file": "missing/T/262778-the-great-hunt.json"
     },
     {
       "igdb_id": 343419,
@@ -1292302,6 +1292517,11 @@
       "file": "missing/V/416149-viking-brothers-vi-collectors-edition.json"
     },
     {
+      "igdb_id": 263076,
+      "game_name": "Viking Chef: Feast Frenzy",
+      "file": "missing/V/263076-viking-chef-feast-frenzy.json"
+    },
+    {
       "igdb_id": 121878,
       "game_name": "Viking Chess: Hnefatafl",
       "file": "missing/V/121878-viking-chess-hnefatafl.json"
@@ -1305742,6 +1305962,11 @@
       "file": "missing/W/338398-war-of-warship.json"
     },
     {
+      "igdb_id": 263091,
+      "game_name": "War of Wheels",
+      "file": "missing/W/263091-war-of-wheels.json"
+    },
+    {
       "igdb_id": 215666,
       "game_name": "War of Wizards",
       "file": "missing/W/215666-war-of-wizards.json"
@@ -1312712,6 +1312937,11 @@
       "file": "missing/W/197008-wavecade.json"
     },
     {
+      "igdb_id": 263085,
+      "game_name": "Wavecade: Ships Pack",
+      "file": "missing/W/263085-wavecade-ships-pack.json"
+    },
+    {
       "igdb_id": 391751,
       "game_name": "Wavecrashers",
       "file": "missing/W/391751-wavecrashers.json"
@@ -1316647,6 +1316877,11 @@
       "file": "missing/W/145463-west-hunt.json"
     },
     {
+      "igdb_id": 263086,
+      "game_name": "West Hunt: Halloween Pack",
+      "file": "missing/W/263086-west-hunt-halloween-pack.json"
+    },
+    {
       "igdb_id": 273670,
       "game_name": "West Hunt: Halloween Pack2",
       "file": "missing/W/273670-west-hunt-halloween-pack2.json"
@@ -1318030,6 +1318265,11 @@
       "igdb_id": 30662,
       "game_name": "What the Heck, Dude?",
       "file": "missing/W/30662-what-the-heck-dude.json"
+    },
+    {
+      "igdb_id": 263096,
+      "game_name": "What the Hell",
+      "file": "missing/W/263096-what-the-hell.json"
     },
     {
       "igdb_id": 120244,
@@ -1324160,6 +1324400,11 @@
       "igdb_id": 126619,
       "game_name": "Wild Terra 2: New Lands",
       "file": "missing/W/126619-wild-terra-2-new-lands.json"
+    },
+    {
+      "igdb_id": 263084,
+      "game_name": "Wild Terra 2: New Lands - Bard Pack",
+      "file": "missing/W/263084-wild-terra-2-new-lands-bard-pack.json"
     },
     {
       "igdb_id": 378307,
@@ -1357295,6 +1357540,11 @@
       "igdb_id": 216803,
       "game_name": "Z.O.N.A Project X VR",
       "file": "missing/Z/216803-z-o-n-a-project-x-vr.json"
+    },
+    {
+      "igdb_id": 263075,
+      "game_name": "Z.O.N.A: Origin",
+      "file": "missing/Z/263075-z-o-n-a-origin.json"
     },
     {
       "igdb_id": 199903,
