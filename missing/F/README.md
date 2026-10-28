@@ -1893,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy World Online Tycoon | 132209 | [132209-fantasy-world-online-tycoon.json](./132209-fantasy-world-online-tycoon.json) |
 | Fantasy World Simulator | 312458 | [312458-fantasy-world-simulator.json](./312458-fantasy-world-simulator.json) |
 | Fantasy World Souls | 235035 | [235035-fantasy-world-souls.json](./235035-fantasy-world-souls.json) |
+| Fantasy World TD | 250401 | [250401-fantasy-world-td.json](./250401-fantasy-world-td.json) |
 | Fantasy World: A Land Torn Asunder | 90069 | [90069-fantasy-world-a-land-torn-asunder.json](./90069-fantasy-world-a-land-torn-asunder.json) |
 | Fantasy Worlds Bundle | 125134 | [125134-fantasy-worlds-bundle.json](./125134-fantasy-worlds-bundle.json) |
 | Fantasy Zone | 18292 | [18292-fantasy-zone.json](./18292-fantasy-zone.json) |
@@ -4816,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Dory | 230376 | [230376-finding-dory.json](./230376-finding-dory.json) |
 | Finding Dory | 237525 | [237525-finding-dory.json](./237525-finding-dory.json) |
 | Finding fairies | 254582 | [254582-finding-fairies.json](./254582-finding-fairies.json) |
+| Finding Fate | 249944 | [249944-finding-fate.json](./249944-finding-fate.json) |
 | Finding Father | 377928 | [377928-finding-father.json](./377928-finding-father.json) |
 | Finding Felicia | 208335 | [208335-finding-felicia.json](./208335-finding-felicia.json) |
 | Finding Fern | 239659 | [239659-finding-fern.json](./239659-finding-fern.json) |
@@ -6532,6 +6534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaws in the People We Love | 117571 | [117571-flaws-in-the-people-we-love.json](./117571-flaws-in-the-people-we-love.json) |
 | Flay the Obscene: Compilation | 263410 | [263410-flay-the-obscene-compilation.json](./263410-flay-the-obscene-compilation.json) |
 | Flay the Obscene: Reversed | 263412 | [263412-flay-the-obscene-reversed.json](./263412-flay-the-obscene-reversed.json) |
+| Flayl | 249829 | [249829-flayl.json](./249829-flayl.json) |
 | FLChess | 334812 | [334812-flchess.json](./334812-flchess.json) |
 | Flea Market Simulator '24 | 285326 | [285326-flea-market-simulator-24.json](./285326-flea-market-simulator-24.json) |
 | Flea the Cat | 242058 | [242058-flea-the-cat.json](./242058-flea-the-cat.json) |
@@ -9115,6 +9118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune's Tavern: The Fantasy Tavern Simulator | 53062 | [53062-fortunes-tavern-the-fantasy-tavern-simulator.json](./53062-fortunes-tavern-the-fantasy-tavern-simulator.json) |
 | Fortune's Tavern: The Fantasy Tavern Simulator - Guns and Goblins | 170812 | [170812-fortunes-tavern-the-fantasy-tavern-simulator-guns-and-goblins.json](./170812-fortunes-tavern-the-fantasy-tavern-simulator-guns-and-goblins.json) |
 | Fortune's Tavern: The Fantasy Tavern Simulator - Miniature Gods | 170311 | [170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json](./170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json) |
+| Forty Foes | 249831 | [249831-forty-foes.json](./249831-forty-foes.json) |
 | Forty Niner | 152092 | [152092-forty-niner.json](./152092-forty-niner.json) |
 | Forty Thieves Solitaire Collection | 166679 | [166679-forty-thieves-solitaire-collection.json](./166679-forty-thieves-solitaire-collection.json) |
 | Forty-Niner | 295172 | [295172-forty-niner.json](./295172-forty-niner.json) |
