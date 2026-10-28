@@ -1300,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Garden | 390715 | [390715-idle-garden.json](./390715-idle-garden.json) |
 | Idle Gem Quest | 224562 | [224562-idle-gem-quest.json](./224562-idle-gem-quest.json) |
 | Idle Geometry Defense | 373735 | [373735-idle-geometry-defense.json](./373735-idle-geometry-defense.json) |
+| Idle Ghost Hotel | 245349 | [245349-idle-ghost-hotel.json](./245349-idle-ghost-hotel.json) |
 | Idle Gog: Endless War | 167360 | [167360-idle-gog-endless-war.json](./167360-idle-gog-endless-war.json) |
 | Idle Grid | 340516 | [340516-idle-grid.json](./340516-idle-grid.json) |
 | Idle Guardians | 117816 | [117816-idle-guardians.json](./117816-idle-guardians.json) |
@@ -1395,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Poker | 166816 | [166816-idle-poker.json](./166816-idle-poker.json) |
 | Idle Police Tycoon | 169900 | [169900-idle-police-tycoon.json](./169900-idle-police-tycoon.json) |
 | Idle Portal Guardian | 118372 | [118372-idle-portal-guardian.json](./118372-idle-portal-guardian.json) |
+| Idle Power | 245351 | [245351-idle-power.json](./245351-idle-power.json) |
 | Idle Quest Giver | 247210 | [247210-idle-quest-giver.json](./247210-idle-quest-giver.json) |
 | Idle Quest Simulator | 390058 | [390058-idle-quest-simulator.json](./390058-idle-quest-simulator.json) |
 | Idle Racing GO: Car Clicker Tycoon | 113604 | [113604-idle-racing-go-car-clicker-tycoon.json](./113604-idle-racing-go-car-clicker-tycoon.json) |
@@ -4129,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intelligent Strategy Games 10 | 70246 | [70246-intelligent-strategy-games-10.json](./70246-intelligent-strategy-games-10.json) |
 | Intellivania | 270284 | [270284-intellivania.json](./270284-intellivania.json) |
 | Intellivision Collection 2 | 147179 | [147179-intellivision-collection-2.json](./147179-intellivision-collection-2.json) |
+| Intellivision Flashback | 245652 | [245652-intellivision-flashback.json](./245652-intellivision-flashback.json) |
 | Intellivision Flashback | 57450 | [57450-intellivision-flashback.json](./57450-intellivision-flashback.json) |
 | Intellivision Greatest Hits: 20th Anniversary Edition | 210044 | [210044-intellivision-greatest-hits-20th-anniversary-edition.json](./210044-intellivision-greatest-hits-20th-anniversary-edition.json) |
 | Intellivision Lives! | 299109 | [299109-intellivision-lives.json](./299109-intellivision-lives.json) |
