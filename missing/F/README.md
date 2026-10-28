@@ -5402,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firework | 112854 | [112854-firework.json](./112854-firework.json) |
 | Firework | 139082 | [139082-firework.json](./139082-firework.json) |
 | Firework | 399603 | [399603-firework.json](./399603-firework.json) |
+| Firework Simulator | 234281 | [234281-firework-simulator.json](./234281-firework-simulator.json) |
 | Firework Survivor | 283843 | [283843-firework-survivor.json](./283843-firework-survivor.json) |
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
 | Fireworks | 78085 | [78085-fireworks.json](./78085-fireworks.json) |
@@ -8829,6 +8830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken | 378535 | [378535-forsaken.json](./378535-forsaken.json) |
 | Forsaken | 718 | [718-forsaken.json](./718-forsaken.json) |
 | Forsaken 64 | 327724 | [327724-forsaken-64.json](./327724-forsaken-64.json) |
+| Forsaken AR: Factory Reset | 234247 | [234247-forsaken-ar-factory-reset.json](./234247-forsaken-ar-factory-reset.json) |
 | Forsaken Champions | 201552 | [201552-forsaken-champions.json](./201552-forsaken-champions.json) |
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
 | Forsaken Denizen | 395004 | [395004-forsaken-denizen.json](./395004-forsaken-denizen.json) |
@@ -11436,6 +11438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Moon Fishing | 383396 | [383396-full-moon-fishing.json](./383396-full-moon-fishing.json) |
 | Full Moon Guildhouse Simulator | 366251 | [366251-full-moon-guildhouse-simulator.json](./366251-full-moon-guildhouse-simulator.json) |
 | Full Moon in San Francisco | 72274 | [72274-full-moon-in-san-francisco.json](./72274-full-moon-in-san-francisco.json) |
+| Full Moon Kit | 234288 | [234288-full-moon-kit.json](./234288-full-moon-kit.json) |
 | Full Moon Mafia | 298917 | [298917-full-moon-mafia.json](./298917-full-moon-mafia.json) |
 | Full Moon Rush | 243294 | [243294-full-moon-rush.json](./243294-full-moon-rush.json) |
 | Full of Crap | 288838 | [288838-full-of-crap.json](./288838-full-of-crap.json) |
@@ -11500,6 +11503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fumiko! | 27194 | [27194-fumiko.json](./27194-fumiko.json) |
 | Fumo | 236212 | [236212-fumo.json](./236212-fumo.json) |
 | Fumo | 289231 | [289231-fumo.json](./289231-fumo.json) |
+| Fumpers | 234246 | [234246-fumpers.json](./234246-fumpers.json) |
 | Fumpers 2: Dual Realms | 384508 | [384508-fumpers-2-dual-realms.json](./384508-fumpers-2-dual-realms.json) |
 | Fun | 360738 | [360738-fun.json](./360738-fun.json) |
 | Fun 'N Games | 4241 | [4241-fun-n-games.json](./4241-fun-n-games.json) |
