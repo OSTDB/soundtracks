@@ -3661,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedMask | 266811 | [266811-redmask.json](./266811-redmask.json) |
 | Redmoon | 71923 | [71923-redmoon.json](./71923-redmoon.json) |
 | RedMoonWorld | 411616 | [411616-redmoonworld.json](./411616-redmoonworld.json) |
+| RedNeck Bowl Games | 255473 | [255473-redneck-bowl-games.json](./255473-redneck-bowl-games.json) |
 | Redneck Brawl Turbo | 333172 | [333172-redneck-brawl-turbo.json](./333172-redneck-brawl-turbo.json) |
 | Redneck Deer Huntin' | 9005 | [9005-redneck-deer-huntin.json](./9005-redneck-deer-huntin.json) |
 | Redneck Ed: Astro Monsters Show | 132230 | [132230-redneck-ed-astro-monsters-show.json](./132230-redneck-ed-astro-monsters-show.json) |
@@ -9278,6 +9279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romantic Shooter | 242526 | [242526-romantic-shooter.json](./242526-romantic-shooter.json) |
 | Romantic Young Man | 371217 | [371217-romantic-young-man.json](./371217-romantic-young-man.json) |
 | Romanticized Dreams of a Post-Apocalyptic Cowpoke | 272730 | [272730-romanticized-dreams-of-a-post-apocalyptic-cowpoke.json](./272730-romanticized-dreams-of-a-post-apocalyptic-cowpoke.json) |
+| Romarinho a Caminho do Gol | 255833 | [255833-romarinho-a-caminho-do-gol.json](./255833-romarinho-a-caminho-do-gol.json) |
 | Romb | 377254 | [377254-romb.json](./377254-romb.json) |
 | Rombie | 82326 | [82326-rombie.json](./82326-rombie.json) |
 | Romby | 50508 | [50508-romby.json](./50508-romby.json) |
