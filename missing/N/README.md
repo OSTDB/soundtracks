@@ -6337,6 +6337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Nick | 125891 | [125891-nuclear-nick.json](./125891-nuclear-nick.json) |
 | Nuclear Nightmare | 297163 | [297163-nuclear-nightmare.json](./297163-nuclear-nightmare.json) |
 | Nuclear Outrun | 234601 | [234601-nuclear-outrun.json](./234601-nuclear-outrun.json) |
+| Nuclear Pack | 273200 | [273200-nuclear-pack.json](./273200-nuclear-pack.json) |
 | Nuclear Pizza War | 63200 | [63200-nuclear-pizza-war.json](./63200-nuclear-pizza-war.json) |
 | Nuclear Plant 2024 | 308267 | [308267-nuclear-plant-2024.json](./308267-nuclear-plant-2024.json) |
 | Nuclear Platypus Adventure | 179141 | [179141-nuclear-platypus-adventure.json](./179141-nuclear-platypus-adventure.json) |
