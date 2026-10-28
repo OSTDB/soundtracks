@@ -10392,6 +10392,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown 1896 - The Son of Gunpowder | 296920 | [296920-hunt-showdown-1896-the-son-of-gunpowder.json](./296920-hunt-showdown-1896-the-son-of-gunpowder.json) |
 | Hunt: Showdown 1896 - They Came from Salem | 332026 | [332026-hunt-showdown-1896-they-came-from-salem.json](./332026-hunt-showdown-1896-they-came-from-salem.json) |
 | Hunt: Showdown 1896 - When Shadows Dance | 265773 | [265773-hunt-showdown-1896-when-shadows-dance.json](./265773-hunt-showdown-1896-when-shadows-dance.json) |
+| Hunt: Showdown: Death's Herald | 241176 | [241176-hunt-showdown-deaths-herald.json](./241176-hunt-showdown-deaths-herald.json) |
+| Hunt: Showdown: Llorona's Heir | 241174 | [241174-hunt-showdown-lloronas-heir.json](./241174-hunt-showdown-lloronas-heir.json) |
 | Hunt3r | 215305 | [215305-hunt3r.json](./215305-hunt3r.json) |
 | HuntCore | 391807 | [391807-huntcore.json](./391807-huntcore.json) |
 | Huntdown: Collector's Edition | 152327 | [152327-huntdown-collectors-edition.json](./152327-huntdown-collectors-edition.json) |
