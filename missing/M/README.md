@@ -3300,6 +3300,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Golf | 328590 | [328590-mario-golf.json](./328590-mario-golf.json) |
 | Mario Golf | 3401 | [3401-mario-golf.json](./3401-mario-golf.json) |
 | Mario Golf | 340732 | [340732-mario-golf.json](./340732-mario-golf.json) |
+| Mario Golf: Azalea | 247110 | [247110-mario-golf-azalea.json](./247110-mario-golf-azalea.json) |
+| Mario Golf: Joe | 247112 | [247112-mario-golf-joe.json](./247112-mario-golf-joe.json) |
+| Mario Golf: Kid | 247109 | [247109-mario-golf-kid.json](./247109-mario-golf-kid.json) |
+| Mario Golf: Sherry | 247111 | [247111-mario-golf-sherry.json](./247111-mario-golf-sherry.json) |
 | Mario Golf: Super Rush | 143609 | [143609-mario-golf-super-rush.json](./143609-mario-golf-super-rush.json) |
 | Mario Golf: Toadstool Tour | 3403 | [3403-mario-golf-toadstool-tour.json](./3403-mario-golf-toadstool-tour.json) |
 | Mario Golf: World Tour | 3405 | [3405-mario-golf-world-tour.json](./3405-mario-golf-world-tour.json) |
@@ -3572,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Tennis | 344924 | [344924-mario-tennis.json](./344924-mario-tennis.json) |
 | Mario Tennis Fever | 366880 | [366880-mario-tennis-fever.json](./366880-mario-tennis-fever.json) |
 | Mario Tennis: Alex | 247100 | [247100-mario-tennis-alex.json](./247100-mario-tennis-alex.json) |
+| Mario Tennis: Bowser | 247107 | [247107-mario-tennis-bowser.json](./247107-mario-tennis-bowser.json) |
 | Mario Tennis: Harry | 247103 | [247103-mario-tennis-harry.json](./247103-mario-tennis-harry.json) |
 | Mario Tennis: Kate | 247104 | [247104-mario-tennis-kate.json](./247104-mario-tennis-kate.json) |
 | Mario Tennis: Nina | 247101 | [247101-mario-tennis-nina.json](./247101-mario-tennis-nina.json) |
@@ -3579,6 +3584,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Tennis: Power Tour | 6504 | [6504-mario-tennis-power-tour.json](./6504-mario-tennis-power-tour.json) |
 | Mario Tennis: Power Tour - Bicep Pump | 231624 | [231624-mario-tennis-power-tour-bicep-pump.json](./231624-mario-tennis-power-tour-bicep-pump.json) |
 | Mario Tennis: Ultra Smash | 11220 | [11220-mario-tennis-ultra-smash.json](./11220-mario-tennis-ultra-smash.json) |
+| Mario Tennis: Waluigi | 247108 | [247108-mario-tennis-waluigi.json](./247108-mario-tennis-waluigi.json) |
+| Mario Tennis: Wario | 247106 | [247106-mario-tennis-wario.json](./247106-mario-tennis-wario.json) |
+| Mario Tennis: Yoshi | 247105 | [247105-mario-tennis-yoshi.json](./247105-mario-tennis-yoshi.json) |
 | Mario the Juggler | 131952 | [131952-mario-the-juggler.json](./131952-mario-the-juggler.json) |
 | Mario Undoukai | 132029 | [132029-mario-undoukai.json](./132029-mario-undoukai.json) |
 | Mario vs. Airman | 219121 | [219121-mario-vs-airman.json](./219121-mario-vs-airman.json) |
@@ -8099,6 +8107,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MerFight | 191862 | [191862-merfight.json](./191862-merfight.json) |
 | Merge | 121544 | [121544-merge.json](./121544-merge.json) |
 | Merge | 310137 | [310137-merge.json](./310137-merge.json) |
+| Merge & Blade: Berserker | 246767 | [246767-merge-and-blade-berserker.json](./246767-merge-and-blade-berserker.json) |
+| Merge & Blade: Mineral mine | 246768 | [246768-merge-and-blade-mineral-mine.json](./246768-merge-and-blade-mineral-mine.json) |
+| Merge & Blade: Puppy Charater | 246769 | [246769-merge-and-blade-puppy-charater.json](./246769-merge-and-blade-puppy-charater.json) |
 | Merge 3 Mania | 234618 | [234618-merge-3-mania.json](./234618-merge-3-mania.json) |
 | Merge 5: 10x10 Color | 233518 | [233518-merge-5-10x10-color.json](./233518-merge-5-10x10-color.json) |
 | Merge Academy | 354983 | [354983-merge-academy.json](./354983-merge-academy.json) |
@@ -10534,6 +10545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindwheel | 25778 | [25778-mindwheel.json](./25778-mindwheel.json) |
 | MindWorks | 159566 | [159566-mindworks.json](./159566-mindworks.json) |
 | MindXcope | 266088 | [266088-mindxcope.json](./266088-mindxcope.json) |
+| Mine | 246765 | [246765-mine.json](./246765-mine.json) |
 | Mine | 311988 | [311988-mine.json](./311988-mine.json) |
 | Mine | 385265 | [385265-mine.json](./385265-mine.json) |
 | Mine & Ship Bundle: Gold Mining & Ship Graveyard Simulator 2 | 340950 | [340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json](./340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json) |
@@ -12310,6 +12322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Manager 2017 | 95918 | [95918-mlb-manager-2017.json](./95918-mlb-manager-2017.json) |
 | MLB Manager 2018 | 96270 | [96270-mlb-manager-2018.json](./96270-mlb-manager-2018.json) |
 | MLB Perfect Inning | 323161 | [323161-mlb-perfect-inning.json](./323161-mlb-perfect-inning.json) |
+| MLB Perfect Inning 2021 | 247128 | [247128-mlb-perfect-inning-2021.json](./247128-mlb-perfect-inning-2021.json) |
 | MLB Perfect Inning 24 | 321667 | [321667-mlb-perfect-inning-24.json](./321667-mlb-perfect-inning-24.json) |
 | MLB Perfect Inning Live | 96295 | [96295-mlb-perfect-inning-live.json](./96295-mlb-perfect-inning-live.json) |
 | MLB Perfect Inning: 23 | 212436 | [212436-mlb-perfect-inning-23.json](./212436-mlb-perfect-inning-23.json) |
