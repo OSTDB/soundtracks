@@ -3749,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Master Simulator | 309952 | [309952-market-master-simulator.json](./309952-market-master-simulator.json) |
 | Market Moe | 383171 | [383171-market-moe.json](./383171-market-moe.json) |
 | Market Mogul | 59899 | [59899-market-mogul.json](./59899-market-mogul.json) |
+| Market Simulator | 237018 | [237018-market-simulator.json](./237018-market-simulator.json) |
 | Market Simulator | 342024 | [342024-market-simulator.json](./342024-market-simulator.json) |
 | Market Street | 65955 | [65955-market-street.json](./65955-market-street.json) |
 | Market Trouble | 182541 | [182541-market-trouble.json](./182541-market-trouble.json) |
@@ -9974,6 +9975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Morphin Power Rangers: The Movie | 75981 | [75981-mighty-morphin-power-rangers-the-movie.json](./75981-mighty-morphin-power-rangers-the-movie.json) |
 | Mighty Morphin Power Rangers: Tiger Barcodzz - 22: Yellow Ranger | 362576 | [362576-mighty-morphin-power-rangers-tiger-barcodzz-22-yellow-ranger.json](./362576-mighty-morphin-power-rangers-tiger-barcodzz-22-yellow-ranger.json) |
 | Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
+| Mighty Muddy | 236982 | [236982-mighty-muddy.json](./236982-mighty-muddy.json) |
 | Mighty Mulan | 66940 | [66940-mighty-mulan.json](./66940-mighty-mulan.json) |
 | Mighty No. 9 | 5327 | [5327-mighty-no-9.json](./5327-mighty-no-9.json) |
 | Mighty No. 9: Ganbare! Beck | 78361 | [78361-mighty-no-9-ganbare-beck.json](./78361-mighty-no-9-ganbare-beck.json) |
@@ -10320,6 +10322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
 | Mimamo-Roll! | 395969 | [395969-mimamo-roll.json](./395969-mimamo-roll.json) |
 | Mimana Iyar Chronicle | 80165 | [80165-mimana-iyar-chronicle.json](./80165-mimana-iyar-chronicle.json) |
+| MimeDrink: The drinking game | 237003 | [237003-mimedrink-the-drinking-game.json](./237003-mimedrink-the-drinking-game.json) |
 | Mimelet | 187784 | [187784-mimelet.json](./187784-mimelet.json) |
 | Mimesis | 343183 | [343183-mimesis.json](./343183-mimesis.json) |
 | Mimesis Online | 23453 | [23453-mimesis-online.json](./23453-mimesis-online.json) |
@@ -16030,6 +16033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Rabbit's Memory | 101312 | [101312-mr-rabbits-memory.json](./101312-mr-rabbits-memory.json) |
 | MR Racer | 343459 | [343459-mr-racer.json](./343459-mr-racer.json) |
 | MR Racer Stunt Mania | 349888 | [349888-mr-racer-stunt-mania.json](./349888-mr-racer-stunt-mania.json) |
+| Mr Rex's Zealous Adventure | 237023 | [237023-mr-rexs-zealous-adventure.json](./237023-mr-rexs-zealous-adventure.json) |
 | Mr Right Simulator | 348795 | [348795-mr-right-simulator.json](./348795-mr-right-simulator.json) |
 | Mr Snuggles Dungeon Adventure | 310748 | [310748-mr-snuggles-dungeon-adventure.json](./310748-mr-snuggles-dungeon-adventure.json) |
 | Mr Stumps Dentures | 266708 | [266708-mr-stumps-dentures.json](./266708-mr-stumps-dentures.json) |
