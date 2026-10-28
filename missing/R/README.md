@@ -7099,6 +7099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Regions | 91082 | [91082-rival-regions.json](./91082-rival-regions.json) |
 | Rival Rides | 201608 | [201608-rival-rides.json](./201608-rival-rides.json) |
 | Rival Species | 350392 | [350392-rival-species.json](./350392-rival-species.json) |
+| Rival Stars Basketball | 249385 | [249385-rival-stars-basketball.json](./249385-rival-stars-basketball.json) |
 | Rival Stars College Football | 241865 | [241865-rival-stars-college-football.json](./241865-rival-stars-college-football.json) |
 | Rival Stars Horse Racing | 318221 | [318221-rival-stars-horse-racing.json](./318221-rival-stars-horse-racing.json) |
 | Rival Stars Horse Racing: VR Edition | 314638 | [314638-rival-stars-horse-racing-vr-edition.json](./314638-rival-stars-horse-racing-vr-edition.json) |
@@ -7454,6 +7455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadway Traffic Racer | 292327 | [292327-roadway-traffic-racer.json](./292327-roadway-traffic-racer.json) |
 | Roadworks Simulator | 33310 | [33310-roadworks-simulator.json](./33310-roadworks-simulator.json) |
 | Roah | 114892 | [114892-roah.json](./114892-roah.json) |
+| Roald Dahl's Twit or Miss | 249233 | [249233-roald-dahls-twit-or-miss.json](./249233-roald-dahls-twit-or-miss.json) |
 | Roam | 273769 | [273769-roam.json](./273769-roam.json) |
 | Roam | 324521 | [324521-roam.json](./324521-roam.json) |
 | Roam | 63893 | [63893-roam.json](./63893-roam.json) |
