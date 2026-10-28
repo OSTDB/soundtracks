@@ -1412,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tall Poppy | 172550 | [172550-tall-poppy.json](./172550-tall-poppy.json) |
 | Tall Ships: Age of Sail | 256537 | [256537-tall-ships-age-of-sail.json](./256537-tall-ships-age-of-sail.json) |
 | Tall Tales | 239139 | [239139-tall-tales.json](./239139-tall-tales.json) |
+| Tall Trails | 252784 | [252784-tall-trails.json](./252784-tall-trails.json) |
 | Tall Twins Tower | 62547 | [62547-tall-twins-tower.json](./62547-tall-twins-tower.json) |
 | Tallawa Game Nights | 415894 | [415894-tallawa-game-nights.json](./415894-tallawa-game-nights.json) |
 | Tally | 363154 | [363154-tally.json](./363154-tally.json) |
@@ -3337,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Run 2 | 7436 | [7436-temple-run-2.json](./7436-temple-run-2.json) |
 | Temple Run 3 | 380808 | [380808-temple-run-3.json](./380808-temple-run-3.json) |
 | Temple Run VR | 358824 | [358824-temple-run-vr.json](./358824-temple-run-vr.json) |
+| Temple Run: Idle Explorers | 252952 | [252952-temple-run-idle-explorers.json](./252952-temple-run-idle-explorers.json) |
 | Temple Run: Oz | 63613 | [63613-temple-run-oz.json](./63613-temple-run-oz.json) |
 | Temple Run: Puzzle Adventure | 174571 | [174571-temple-run-puzzle-adventure.json](./174571-temple-run-puzzle-adventure.json) |
 | Temple Run: Treasure Hunters | 233503 | [233503-temple-run-treasure-hunters.json](./233503-temple-run-treasure-hunters.json) |
@@ -9045,6 +9047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guardian Legend | 48058 | [48058-the-guardian-legend.json](./48058-the-guardian-legend.json) |
 | The Guardian Legend: Secret Edition | 269778 | [269778-the-guardian-legend-secret-edition.json](./269778-the-guardian-legend-secret-edition.json) |
 | The Guardian of Darkness | 73638 | [73638-the-guardian-of-darkness.json](./73638-the-guardian-of-darkness.json) |
+| The Guardian of Nature | 252780 | [252780-the-guardian-of-nature.json](./252780-the-guardian-of-nature.json) |
 | The Guardian of the Evil | 82674 | [82674-the-guardian-of-the-evil.json](./82674-the-guardian-of-the-evil.json) |
 | The Guardian Shift | 313446 | [313446-the-guardian-shift.json](./313446-the-guardian-shift.json) |
 | The Guardians of the Secret Garden | 349305 | [349305-the-guardians-of-the-secret-garden.json](./349305-the-guardians-of-the-secret-garden.json) |
@@ -11581,6 +11584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Painter | 386120 | [386120-the-lost-painter.json](./386120-the-lost-painter.json) |
 | The Lost Penguin | 302038 | [302038-the-lost-penguin.json](./302038-the-lost-penguin.json) |
 | The Lost Pisces | 26987 | [26987-the-lost-pisces.json](./26987-the-lost-pisces.json) |
+| The Lost Post | 252938 | [252938-the-lost-post.json](./252938-the-lost-post.json) |
 | The Lost Prince | 261737 | [261737-the-lost-prince.json](./261737-the-lost-prince.json) |
 | The Lost Residents | 180447 | [180447-the-lost-residents.json](./180447-the-lost-residents.json) |
 | The Lost Resort | 87558 | [87558-the-lost-resort.json](./87558-the-lost-resort.json) |
@@ -21789,6 +21793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: The Lost Artifact | 27555 | [27555-tomb-raider-the-lost-artifact.json](./27555-tomb-raider-the-lost-artifact.json) |
 | Tomb Raider: The Osiris Codex | 165176 | [165176-tomb-raider-the-osiris-codex.json](./165176-tomb-raider-the-osiris-codex.json) |
 | Tomb Raider: The Prophecy | 18809 | [18809-tomb-raider-the-prophecy.json](./18809-tomb-raider-the-prophecy.json) |
+| Tomb Raider: The Tower Bridge Experience | 252529 | [252529-tomb-raider-the-tower-bridge-experience.json](./252529-tomb-raider-the-tower-bridge-experience.json) |
 | Tomb Raider: The Trilogy | 161713 | [161713-tomb-raider-the-trilogy.json](./161713-tomb-raider-the-trilogy.json) |
 | Tomb Raider: Tomb of the Lost Adventurer | 144991 | [144991-tomb-raider-tomb-of-the-lost-adventurer.json](./144991-tomb-raider-tomb-of-the-lost-adventurer.json) |
 | Tomb Raider: Underworld | 146720 | [146720-tomb-raider-underworld.json](./146720-tomb-raider-underworld.json) |
@@ -26080,6 +26085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel to Spain | 293162 | [293162-travel-to-spain.json](./293162-travel-to-spain.json) |
 | Travel to Thailand | 293161 | [293161-travel-to-thailand.json](./293161-travel-to-thailand.json) |
 | Travel to USA | 337596 | [337596-travel-to-usa.json](./337596-travel-to-usa.json) |
+| Travel Town: Merge Adventure | 252963 | [252963-travel-town-merge-adventure.json](./252963-travel-town-merge-adventure.json) |
 | Travel Trivia | 305901 | [305901-travel-trivia.json](./305901-travel-trivia.json) |
 | Travel VR | 74924 | [74924-travel-vr.json](./74924-travel-vr.json) |
 | Travel With Dinosaurs | 351710 | [351710-travel-with-dinosaurs.json](./351710-travel-with-dinosaurs.json) |
@@ -27880,6 +27886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tug of Words | 198947 | [198947-tug-of-words.json](./198947-tug-of-words.json) |
 | Tug Team Tractor Multiplication | 312639 | [312639-tug-team-tractor-multiplication.json](./312639-tug-team-tractor-multiplication.json) |
 | Tug the Table | 373244 | [373244-tug-the-table.json](./373244-tug-the-table.json) |
+| Tug-of-War: Cybertruck | 252953 | [252953-tug-of-war-cybertruck.json](./252953-tug-of-war-cybertruck.json) |
 | Tuga Boy Adventures | 239094 | [239094-tuga-boy-adventures.json](./239094-tuga-boy-adventures.json) |
 | Tugboat Terror | 272715 | [272715-tugboat-terror.json](./272715-tugboat-terror.json) |
 | Tuggowar | 187225 | [187225-tuggowar.json](./187225-tuggowar.json) |
