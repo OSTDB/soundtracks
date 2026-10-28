@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbox | 168647 | [168647-warbox.json](./168647-warbox.json) |
 | Warbox | 232010 | [232010-warbox.json](./232010-warbox.json) |
 | Warbox Sandbox | 204926 | [204926-warbox-sandbox.json](./204926-warbox-sandbox.json) |
+| Warbringers of Angrul | 278246 | [278246-warbringers-of-angrul.json](./278246-warbringers-of-angrul.json) |
 | Warbrush | 125661 | [125661-warbrush.json](./125661-warbrush.json) |
 | Warcana | 265477 | [265477-warcana.json](./265477-warcana.json) |
 | Warcana: Cat DLC | 357371 | [357371-warcana-cat-dlc.json](./357371-warcana-cat-dlc.json) |
