@@ -5403,6 +5403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Batman | 84447 | [84447-the-batman.json](./84447-the-batman.json) |
 | The Batman: Multiply, Divide and Conquer | 230421 | [230421-the-batman-multiply-divide-and-conquer.json](./230421-the-batman-multiply-divide-and-conquer.json) |
 | The Batman: The Cobblebot Caper | 338352 | [338352-the-batman-the-cobblebot-caper.json](./338352-the-batman-the-cobblebot-caper.json) |
+| The Battery | 271341 | [271341-the-battery.json](./271341-the-battery.json) |
 | The Battle Cats | 59746 | [59746-the-battle-cats.json](./59746-the-battle-cats.json) |
 | The Battle Cats POP! | 19898 | [19898-the-battle-cats-pop.json](./19898-the-battle-cats-pop.json) |
 | The Battle Cats Unite! | 113359 | [113359-the-battle-cats-unite.json](./113359-the-battle-cats-unite.json) |
@@ -12075,6 +12076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mountain Peak | 422695 | [422695-the-mountain-peak.json](./422695-the-mountain-peak.json) |
 | The Mountaineer | 262440 | [262440-the-mountaineer.json](./262440-the-mountaineer.json) |
 | The Mountaineers | 244713 | [244713-the-mountaineers.json](./244713-the-mountaineers.json) |
+| The Mountains of Insanity | 271333 | [271333-the-mountains-of-insanity.json](./271333-the-mountains-of-insanity.json) |
 | The Mourne's | 207338 | [207338-the-mournes.json](./207338-the-mournes.json) |
 | The Mournmore Killings | 298459 | [298459-the-mournmore-killings.json](./298459-the-mournmore-killings.json) |
 | The Mouse | 57482 | [57482-the-mouse.json](./57482-the-mouse.json) |
@@ -12864,6 +12866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pillage | 75219 | [75219-the-pillage.json](./75219-the-pillage.json) |
 | The Pillagers of Raillore | 137096 | [137096-the-pillagers-of-raillore.json](./137096-the-pillagers-of-raillore.json) |
 | The Pillar: Puzzle Escape | 146579 | [146579-the-pillar-puzzle-escape.json](./146579-the-pillar-puzzle-escape.json) |
+| The Pillars of the Damned | 271340 | [271340-the-pillars-of-the-damned.json](./271340-the-pillars-of-the-damned.json) |
 | The Pinball of the Dead | 6534 | [6534-the-pinball-of-the-dead.json](./6534-the-pinball-of-the-dead.json) |
 | The Pinecone | 140352 | [140352-the-pinecone.json](./140352-the-pinecone.json) |
 | The Pink Panther | 218447 | [218447-the-pink-panther.json](./218447-the-pink-panther.json) |
@@ -14699,6 +14702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirits of Kelley Family | 129026 | [129026-the-spirits-of-kelley-family.json](./129026-the-spirits-of-kelley-family.json) |
 | The Spirits of Whispermoon | 267811 | [267811-the-spirits-of-whispermoon.json](./267811-the-spirits-of-whispermoon.json) |
 | The Spirits Within | 116229 | [116229-the-spirits-within.json](./116229-the-spirits-within.json) |
+| The Spiritworld | 271051 | [271051-the-spiritworld.json](./271051-the-spiritworld.json) |
 | The Splatters | 21145 | [21145-the-splatters.json](./21145-the-splatters.json) |
 | The Split | 229015 | [229015-the-split.json](./229015-the-split.json) |
 | The Splitting: Chapter 1 | 102017 | [102017-the-splitting-chapter-1.json](./102017-the-splitting-chapter-1.json) |
@@ -17018,6 +17022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheSpoiler | 289962 | [289962-thespoiler.json](./289962-thespoiler.json) |
 | Theta | 67736 | [67736-theta.json](./67736-theta.json) |
 | Thetan Arena | 172547 | [172547-thetan-arena.json](./172547-thetan-arena.json) |
+| Thetan Rivals | 271329 | [271329-thetan-rivals.json](./271329-thetan-rivals.json) |
 | TheTravelGame | 215723 | [215723-thetravelgame.json](./215723-thetravelgame.json) |
 | TheTruth.exe | 109623 | [109623-thetruth-exe.json](./109623-thetruth-exe.json) |
 | Theurgic | 288627 | [288627-theurgic.json](./288627-theurgic.json) |
@@ -26792,6 +26797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TriumphInTheSkies | 126401 | [126401-triumphintheskies.json](./126401-triumphintheskies.json) |
 | Triumvora | 346200 | [346200-triumvora.json](./346200-triumvora.json) |
 | Triuna: The Seven | 128280 | [128280-triuna-the-seven.json](./128280-triuna-the-seven.json) |
+| Triune Discovery | 271052 | [271052-triune-discovery.json](./271052-triune-discovery.json) |
 | Triuno Ascend | 398334 | [398334-triuno-ascend.json](./398334-triuno-ascend.json) |
 | Trivasion | 419324 | [419324-trivasion.json](./419324-trivasion.json) |
 | Triversal | 143605 | [143605-triversal.json](./143605-triversal.json) |
@@ -28478,6 +28484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twistcan | 333467 | [333467-twistcan.json](./333467-twistcan.json) |
 | Twisted | 30260 | [30260-twisted.json](./30260-twisted.json) |
 | Twisted Arrow | 32285 | [32285-twisted-arrow.json](./32285-twisted-arrow.json) |
+| Twisted Christmas Jam 2022 | 271049 | [271049-twisted-christmas-jam-2022.json](./271049-twisted-christmas-jam-2022.json) |
 | Twisted Citadel | 182526 | [182526-twisted-citadel.json](./182526-twisted-citadel.json) |
 | Twisted Detective | 301488 | [301488-twisted-detective.json](./301488-twisted-detective.json) |
 | Twisted Draw | 199649 | [199649-twisted-draw.json](./199649-twisted-draw.json) |
