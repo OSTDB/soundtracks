@@ -586,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quattro Super Hits | 57619 | [57619-quattro-super-hits.json](./57619-quattro-super-hits.json) |
 | Quaver | 109068 | [109068-quaver.json](./109068-quaver.json) |
 | Quazatron | 23061 | [23061-quazatron.json](./23061-quazatron.json) |
+| Quazzi | 234842 | [234842-quazzi.json](./234842-quazzi.json) |
 | Qub | 362305 | [362305-qub.json](./362305-qub.json) |
 | Qubd | 223608 | [223608-qubd.json](./223608-qubd.json) |
 | Qube Qross | 147706 | [147706-qube-qross.json](./147706-qube-qross.json) |
