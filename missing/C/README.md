@@ -7483,6 +7483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CineNerdle | 231639 | [231639-cinenerdle.json](./231639-cinenerdle.json) |
 | Cinescape VR | 349754 | [349754-cinescape-vr.json](./349754-cinescape-vr.json) |
 | Cinicross | 367828 | [367828-cinicross.json](./367828-cinicross.json) |
+| Cinnabar Kamen | 269141 | [269141-cinnabar-kamen.json](./269141-cinnabar-kamen.json) |
 | Cinnabar Nights | 314682 | [314682-cinnabar-nights.json](./314682-cinnabar-nights.json) |
 | Cinnabunny | 295008 | [295008-cinnabunny.json](./295008-cinnabunny.json) |
 | Cinnamon Ball: Kuru-kuru Sweets Paradise | 123299 | [123299-cinnamon-ball-kuru-kuru-sweets-paradise.json](./123299-cinnamon-ball-kuru-kuru-sweets-paradise.json) |
@@ -15176,6 +15177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross the Maze World | 290471 | [290471-cross-the-maze-world.json](./290471-cross-the-maze-world.json) |
 | Cross the Moon | 152151 | [152151-cross-the-moon.json](./152151-cross-the-moon.json) |
 | Cross the Red Line | 113859 | [113859-cross-the-red-line.json](./113859-cross-the-red-line.json) |
+| Cross The Ridge R | 269150 | [269150-cross-the-ridge-r.json](./269150-cross-the-ridge-r.json) |
 | Cross the Road | 186057 | [186057-cross-the-road.json](./186057-cross-the-road.json) |
 | Cross the Road | 230687 | [230687-cross-the-road.json](./230687-cross-the-road.json) |
 | Cross The World | 383627 | [383627-cross-the-world.json](./383627-cross-the-world.json) |
@@ -16546,6 +16548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culdcept II | 137524 | [137524-culdcept-ii.json](./137524-culdcept-ii.json) |
 | Culdcept Revolt | 27258 | [27258-culdcept-revolt.json](./27258-culdcept-revolt.json) |
 | Culdcept Saga | 6949 | [6949-culdcept-saga.json](./6949-culdcept-saga.json) |
+| Culdcept Saga Title Update Version | 268850 | [268850-culdcept-saga-title-update-version.json](./268850-culdcept-saga-title-update-version.json) |
 | Culina: Hands in the Kitchen | 35567 | [35567-culina-hands-in-the-kitchen.json](./35567-culina-hands-in-the-kitchen.json) |
 | Culinarium | 322168 | [322168-culinarium.json](./322168-culinarium.json) |
 | Culinary Construct | 397217 | [397217-culinary-construct.json](./397217-culinary-construct.json) |
