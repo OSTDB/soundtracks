@@ -8454,6 +8454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic NES Series: The Legend of Zelda | 18066 | [18066-classic-nes-series-the-legend-of-zelda.json](./18066-classic-nes-series-the-legend-of-zelda.json) |
 | Classic NES Series: Xevious | 49205 | [49205-classic-nes-series-xevious.json](./49205-classic-nes-series-xevious.json) |
 | Classic NES Series: Zelda II - The Adventure of Link | 136280 | [136280-classic-nes-series-zelda-ii-the-adventure-of-link.json](./136280-classic-nes-series-zelda-ii-the-adventure-of-link.json) |
+| Classic Night | 242734 | [242734-classic-night.json](./242734-classic-night.json) |
 | Classic Offensive | 250310 | [250310-classic-offensive.json](./250310-classic-offensive.json) |
 | Classic Pizza Tower Editor | 344034 | [344034-classic-pizza-tower-editor.json](./344034-classic-pizza-tower-editor.json) |
 | Classic Pool and Cyber Pool Bundle | 251804 | [251804-classic-pool-and-cyber-pool-bundle.json](./251804-classic-pool-and-cyber-pool-bundle.json) |
@@ -8998,6 +8999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone Hero | 84922 | [84922-clone-hero.json](./84922-clone-hero.json) |
 | Clone Hero: Guitar Hero Tracklist | 294143 | [294143-clone-hero-guitar-hero-tracklist.json](./294143-clone-hero-guitar-hero-tracklist.json) |
 | Clone Knights | 270527 | [270527-clone-knights.json](./270527-clone-knights.json) |
+| Clone Ranger | 242714 | [242714-clone-ranger.json](./242714-clone-ranger.json) |
 | Clone War | 295290 | [295290-clone-war.json](./295290-clone-war.json) |
 | Clone Your Way Out | 318254 | [318254-clone-your-way-out.json](./318254-clone-your-way-out.json) |
 | Clone-A-Doodle-Doo | 357350 | [357350-clone-a-doodle-doo.json](./357350-clone-a-doodle-doo.json) |
@@ -9446,6 +9448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobb Can Move | 401154 | [401154-cobb-can-move.json](./401154-cobb-can-move.json) |
 | Cobble and Trouble | 182986 | [182986-cobble-and-trouble.json](./182986-cobble-and-trouble.json) |
 | Cobble: The Stone Forager | 336445 | [336445-cobble-the-stone-forager.json](./336445-cobble-the-stone-forager.json) |
+| Cobblemon | 242702 | [242702-cobblemon.json](./242702-cobblemon.json) |
 | Cobi Darts | 106468 | [106468-cobi-darts.json](./106468-cobi-darts.json) |
 | Cobi Golf Shots | 96283 | [96283-cobi-golf-shots.json](./96283-cobi-golf-shots.json) |
 | Cobi Shoot | 257873 | [257873-cobi-shoot.json](./257873-cobi-shoot.json) |
