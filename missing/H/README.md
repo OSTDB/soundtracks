@@ -3635,6 +3635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell-Yeah Copter | 405955 | [405955-hell-yeah-copter.json](./405955-hell-yeah-copter.json) |
 | Hell, the Dungeon Again! | 96259 | [96259-hell-the-dungeon-again.json](./96259-hell-the-dungeon-again.json) |
 | Hell: A Cyberpunk Thriller | 4297 | [4297-hell-a-cyberpunk-thriller.json](./4297-hell-a-cyberpunk-thriller.json) |
+| Hell: Distant Lights | 244950 | [244950-hell-distant-lights.json](./244950-hell-distant-lights.json) |
 | Hell: Fight for Gilrand | 187781 | [187781-hell-fight-for-gilrand.json](./187781-hell-fight-for-gilrand.json) |
 | Hell's 8th Avenue: Miori's Mysterious Notebook | 348699 | [348699-hells-8th-avenue-mioris-mysterious-notebook.json](./348699-hells-8th-avenue-mioris-mysterious-notebook.json) |
 | Hell's Bell | 295861 | [295861-hells-bell.json](./295861-hells-bell.json) |
@@ -4254,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Crazy Girls | 202203 | [202203-hentai-crazy-girls.json](./202203-hentai-crazy-girls.json) |
 | Hentai Crush | 136424 | [136424-hentai-crush.json](./136424-hentai-crush.json) |
 | Hentai Crystals | 257003 | [257003-hentai-crystals.json](./257003-hentai-crystals.json) |
+| Hentai Cubes | 244951 | [244951-hentai-cubes.json](./244951-hentai-cubes.json) |
 | Hentai Cut and Nut | 369996 | [369996-hentai-cut-and-nut.json](./369996-hentai-cut-and-nut.json) |
 | Hentai Cute | 365420 | [365420-hentai-cute.json](./365420-hentai-cute.json) |
 | Hentai Cute Pazzle | 301674 | [301674-hentai-cute-pazzle.json](./301674-hentai-cute-pazzle.json) |
@@ -5096,6 +5098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Panda Bomber | 60794 | [60794-hero-panda-bomber.json](./60794-hero-panda-bomber.json) |
 | Hero Park | 156651 | [156651-hero-park.json](./156651-hero-park.json) |
 | Hero Party Must Fall | 345642 | [345642-hero-party-must-fall.json](./345642-hero-party-must-fall.json) |
+| Hero Planter | 244929 | [244929-hero-planter.json](./244929-hero-planter.json) |
 | Hero Plus | 76444 | [76444-hero-plus.json](./76444-hero-plus.json) |
 | Hero Pop | 151603 | [151603-hero-pop.json](./151603-hero-pop.json) |
 | Hero Quest | 331670 | [331670-hero-quest.json](./331670-hero-quest.json) |
@@ -9997,6 +10000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huge Beer Pong Challenges VR | 81674 | [81674-huge-beer-pong-challenges-vr.json](./81674-huge-beer-pong-challenges-vr.json) |
 | Huge Breast Princess Knight Anne | 158212 | [158212-huge-breast-princess-knight-anne.json](./158212-huge-breast-princess-knight-anne.json) |
 | Huge Enemy - Worldbreakers | 107855 | [107855-huge-enemy-worldbreakers.json](./107855-huge-enemy-worldbreakers.json) |
+| Huge Football | 244816 | [244816-huge-football.json](./244816-huge-football.json) |
 | Huge Insect | 64901 | [64901-huge-insect.json](./64901-huge-insect.json) |
 | Huge Jaws | 219665 | [219665-huge-jaws.json](./219665-huge-jaws.json) |
 | Huggernaut | 111903 | [111903-huggernaut.json](./111903-huggernaut.json) |
