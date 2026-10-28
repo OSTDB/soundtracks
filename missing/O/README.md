@@ -4989,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch 2: Season 4 - Space Opera | 243933 | [243933-overwatch-2-season-4-space-opera.json](./243933-overwatch-2-season-4-space-opera.json) |
 | Overwatch 2: Season 6 - Invasion | 252842 | [252842-overwatch-2-season-6-invasion.json](./252842-overwatch-2-season-6-invasion.json) |
 | Overwatch 2: Season 7 - Rise of the Darkness | 270044 | [270044-overwatch-2-season-7-rise-of-the-darkness.json](./270044-overwatch-2-season-7-rise-of-the-darkness.json) |
+| Overwatch 2: Season 8 - Call of the Hunt | 275170 | [275170-overwatch-2-season-8-call-of-the-hunt.json](./275170-overwatch-2-season-8-call-of-the-hunt.json) |
 | Overwatch 2: Watchpoint Pack | 221632 | [221632-overwatch-2-watchpoint-pack.json](./221632-overwatch-2-watchpoint-pack.json) |
 | Overwatch: Game of the Year Edition | 21229 | [21229-overwatch-game-of-the-year-edition.json](./21229-overwatch-game-of-the-year-edition.json) |
 | Overwatch: Legendary Edition | 118848 | [118848-overwatch-legendary-edition.json](./118848-overwatch-legendary-edition.json) |
