@@ -5867,6 +5867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Box of Horrors | 342100 | [342100-the-box-of-horrors.json](./342100-the-box-of-horrors.json) |
 | The Boxer | 13429 | [13429-the-boxer.json](./13429-the-boxer.json) |
 | The Boy and his Story | 369463 | [369463-the-boy-and-his-story.json](./369463-the-boy-and-his-story.json) |
+| The Boy and the Cathedral | 265789 | [265789-the-boy-and-the-cathedral.json](./265789-the-boy-and-the-cathedral.json) |
 | The Boy Sorcerer: Lost memory | 293597 | [293597-the-boy-sorcerer-lost-memory.json](./293597-the-boy-sorcerer-lost-memory.json) |
 | The Boy Who Typed Wolf | 99241 | [99241-the-boy-who-typed-wolf.json](./99241-the-boy-who-typed-wolf.json) |
 | The Boy With Bombs | 61122 | [61122-the-boy-with-bombs.json](./61122-the-boy-with-bombs.json) |
@@ -11852,6 +11853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mercury Man | 80879 | [80879-the-mercury-man.json](./80879-the-mercury-man.json) |
 | The Meridian Shard | 55963 | [55963-the-meridian-shard.json](./55963-the-meridian-shard.json) |
 | The Meridian Under the Heaven: Valhalla | 285311 | [285311-the-meridian-under-the-heaven-valhalla.json](./285311-the-meridian-under-the-heaven-valhalla.json) |
+| The Merlies | 265820 | [265820-the-merlies.json](./265820-the-merlies.json) |
 | The Mermaid Mask | 279369 | [279369-the-mermaid-mask.json](./279369-the-mermaid-mask.json) |
 | The Merry Fairy | 309530 | [309530-the-merry-fairy.json](./309530-the-merry-fairy.json) |
 | The Mesh | 88259 | [88259-the-mesh.json](./88259-the-mesh.json) |
@@ -23391,6 +23393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Offender | 177367 | [177367-tower-offender.json](./177367-tower-offender.json) |
 | Tower Offensive | 177836 | [177836-tower-offensive.json](./177836-tower-offensive.json) |
 | Tower Petroleum | 368295 | [368295-tower-petroleum.json](./368295-tower-petroleum.json) |
+| Tower Pets | 265458 | [265458-tower-pets.json](./265458-tower-pets.json) |
 | Tower Princess | 115661 | [115661-tower-princess.json](./115661-tower-princess.json) |
 | Tower Quest | 58626 | [58626-tower-quest.json](./58626-tower-quest.json) |
 | Tower Shield | 387588 | [387588-tower-shield.json](./387588-tower-shield.json) |
@@ -26407,6 +26410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Midnight | 187268 | [187268-trials-of-midnight.json](./187268-trials-of-midnight.json) |
 | Trials of Proelium | 192661 | [192661-trials-of-proelium.json](./192661-trials-of-proelium.json) |
 | Trials of Proelium Remastered | 348891 | [348891-trials-of-proelium-remastered.json](./348891-trials-of-proelium-remastered.json) |
+| Trials of Randoom | 265815 | [265815-trials-of-randoom.json](./265815-trials-of-randoom.json) |
 | Trials of the Blood Dragon | 19553 | [19553-trials-of-the-blood-dragon.json](./19553-trials-of-the-blood-dragon.json) |
 | Trials of the Forest Kingdom | 348675 | [348675-trials-of-the-forest-kingdom.json](./348675-trials-of-the-forest-kingdom.json) |
 | Trials of the Gauntlet | 89662 | [89662-trials-of-the-gauntlet.json](./89662-trials-of-the-gauntlet.json) |
