@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yarimono: DLC 1 | 315190 | [315190-yarimono-dlc-1.json](./315190-yarimono-dlc-1.json) |
 | Yaris | 21883 | [21883-yaris.json](./21883-yaris.json) |
 | Yarışçı Arazi | 326655 | [326655-yar-sc-arazi.json](./326655-yar-sc-arazi.json) |
+| Yark!: A Kobold Adventure | 246587 | [246587-yark-a-kobold-adventure.json](./246587-yark-a-kobold-adventure.json) |
 | Yarn | 166614 | [166614-yarn.json](./166614-yarn.json) |
 | Yarn | 294504 | [294504-yarn.json](./294504-yarn.json) |
 | Yarn Guardians | 302413 | [302413-yarn-guardians.json](./302413-yarn-guardians.json) |
@@ -742,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoku aru Dasshutsu Game: Gakushu Tengoku | 320003 | [320003-yoku-aru-dasshutsu-game-gakushu-tengoku.json](./320003-yoku-aru-dasshutsu-game-gakushu-tengoku.json) |
 | Yoku's Island Express | 27367 | [27367-yokus-island-express.json](./27367-yokus-island-express.json) |
 | Yokubou Lock: Boku no Kanojo wa Shasei Kanrinin | 313262 | [313262-yokubou-lock-boku-no-kanojo-wa-shasei-kanrinin.json](./313262-yokubou-lock-boku-no-kanojo-wa-shasei-kanrinin.json) |
+| Yolk Heroes: A Long Tamago | 250985 | [250985-yolk-heroes-a-long-tamago.json](./250985-yolk-heroes-a-long-tamago.json) |
 | Yolked | 178292 | [178292-yolked.json](./178292-yolked.json) |
 | Yollen | 348698 | [348698-yollen.json](./348698-yollen.json) |
 | Yolo Chase | 241535 | [241535-yolo-chase.json](./241535-yolo-chase.json) |
