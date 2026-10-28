@@ -1250,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainy Boba Cafe | 233981 | [233981-rainy-boba-cafe.json](./233981-rainy-boba-cafe.json) |
 | Rainy Butcher | 211937 | [211937-rainy-butcher.json](./211937-rainy-butcher.json) |
 | Rainy Day | 179673 | [179673-rainy-day.json](./179673-rainy-day.json) |
+| Rainy Day | 246764 | [246764-rainy-day.json](./246764-rainy-day.json) |
 | Rainy Day | 341312 | [341312-rainy-day.json](./341312-rainy-day.json) |
 | Rainy Day | 369229 | [369229-rainy-day.json](./369229-rainy-day.json) |
 | Rainy Day Games | 267213 | [267213-rainy-day-games.json](./267213-rainy-day-games.json) |
@@ -5797,6 +5798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewind 99 | 374207 | [374207-rewind-99.json](./374207-rewind-99.json) |
 | Rewind Night | 390698 | [390698-rewind-night.json](./390698-rewind-night.json) |
 | Rewind or Die | 244116 | [244116-rewind-or-die.json](./244116-rewind-or-die.json) |
+| Rewind Time | 247116 | [247116-rewind-time.json](./247116-rewind-time.json) |
 | Rewind to Fear: The Mansion | 342003 | [342003-rewind-to-fear-the-mansion.json](./342003-rewind-to-fear-the-mansion.json) |
 | Rewind: One Last Chance | 197736 | [197736-rewind-one-last-chance.json](./197736-rewind-one-last-chance.json) |
 | Rewindead | 382756 | [382756-rewindead.json](./382756-rewindead.json) |
