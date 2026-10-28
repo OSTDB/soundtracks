@@ -2236,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Chaos | 213446 | [213446-party-chaos.json](./213446-party-chaos.json) |
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
 | Party Club: Hangry Animals | 389231 | [389231-party-club-hangry-animals.json](./389231-party-club-hangry-animals.json) |
+| Party Connect | 267196 | [267196-party-connect.json](./267196-party-connect.json) |
 | Party Crasher Simulator | 163272 | [163272-party-crasher-simulator.json](./163272-party-crasher-simulator.json) |
 | Party Crashers | 75076 | [75076-party-crashers.json](./75076-party-crashers.json) |
 | Party Crashers Mayhem | 271607 | [271607-party-crashers-mayhem.json](./271607-party-crashers-mayhem.json) |
@@ -3511,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguino | 365853 | [365853-penguino.json](./365853-penguino.json) |
 | Penguins & Friends: Hey! That's My Fish! | 69132 | [69132-penguins-and-friends-hey-thats-my-fish.json](./69132-penguins-and-friends-hey-thats-my-fish.json) |
 | Penguins Arena: Sedna's World | 15779 | [15779-penguins-arena-sednas-world.json](./15779-penguins-arena-sednas-world.json) |
+| Penguins Luv Melons | 267532 | [267532-penguins-luv-melons.json](./267532-penguins-luv-melons.json) |
 | Penguins of Madagascar | 50738 | [50738-penguins-of-madagascar.json](./50738-penguins-of-madagascar.json) |
 | Penguins of the North | 121545 | [121545-penguins-of-the-north.json](./121545-penguins-of-the-north.json) |
 | Penguins vs. Bugs | 122402 | [122402-penguins-vs-bugs.json](./122402-penguins-vs-bugs.json) |
