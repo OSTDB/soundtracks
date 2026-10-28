@@ -1970,7 +1970,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssmare | 254032 | [254032-abyssmare.json](./254032-abyssmare.json) |
 | Abyssopelagia | 145511 | [145511-abyssopelagia.json](./145511-abyssopelagia.json) |
 | Abyssopelagic | 382880 | [382880-abyssopelagic.json](./382880-abyssopelagic.json) |
-| Abyssus | 165393 | [165393-abyssus.json](./165393-abyssus.json) |
 | Abyssus | 335145 | [335145-abyssus.json](./335145-abyssus.json) |
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
 | Abyssus Scroll | 338532 | [338532-abyssus-scroll.json](./338532-abyssus-scroll.json) |
