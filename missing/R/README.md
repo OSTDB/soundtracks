@@ -2163,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaynGames | 355087 | [355087-rayngames.json](./355087-rayngames.json) |
 | RayStorm | 45089 | [45089-raystorm.json](./45089-raystorm.json) |
 | RayStorm HD | 47448 | [47448-raystorm-hd.json](./47448-raystorm-hd.json) |
+| RayStorm x RayCrisis HD Collection | 240039 | [240039-raystorm-x-raycrisis-hd-collection.json](./240039-raystorm-x-raycrisis-hd-collection.json) |
 | Rayxanber | 92647 | [92647-rayxanber.json](./92647-rayxanber.json) |
 | Rayxanber II | 37592 | [37592-rayxanber-ii.json](./37592-rayxanber-ii.json) |
 | Rayxanber III | 37591 | [37591-rayxanber-iii.json](./37591-rayxanber-iii.json) |
