@@ -6050,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Thornkeep | 374073 | [374073-shadows-of-thornkeep.json](./374073-shadows-of-thornkeep.json) |
 | Shadows of War | 35998 | [35998-shadows-of-war.json](./35998-shadows-of-war.json) |
 | Shadows of War 2 | 391171 | [391171-shadows-of-war-2.json](./391171-shadows-of-war-2.json) |
+| Shadows of Zana | 259700 | [259700-shadows-of-zana.json](./259700-shadows-of-zana.json) |
 | Shadows on the Vatican Act 2: Wrath | 180111 | [180111-shadows-on-the-vatican-act-2-wrath.json](./180111-shadows-on-the-vatican-act-2-wrath.json) |
 | Shadows on the Vatican Act I: Greed | 36370 | [36370-shadows-on-the-vatican-act-i-greed.json](./36370-shadows-on-the-vatican-act-i-greed.json) |
 | Shadows on the Vatican Act II: Wrath | 27753 | [27753-shadows-on-the-vatican-act-ii-wrath.json](./27753-shadows-on-the-vatican-act-ii-wrath.json) |
@@ -8728,6 +8729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SiegeVR | 90784 | [90784-siegevr.json](./90784-siegevr.json) |
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
 | Siegius Arena | 399469 | [399469-siegius-arena.json](./399469-siegius-arena.json) |
+| Siemb Chronicles: Arkos The Traitor | 259384 | [259384-siemb-chronicles-arkos-the-traitor.json](./259384-siemb-chronicles-arkos-the-traitor.json) |
 | Sienna | 51221 | [51221-sienna.json](./51221-sienna.json) |
 | Sierra 7 | 300641 | [300641-sierra-7.json](./300641-sierra-7.json) |
 | Sierra Championship Boxing | 73238 | [73238-sierra-championship-boxing.json](./73238-sierra-championship-boxing.json) |
@@ -14117,6 +14119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sole Seeker | 266429 | [266429-sole-seeker.json](./266429-sole-seeker.json) |
 | Solebon | 63806 | [63806-solebon.json](./63806-solebon.json) |
 | Solebon Solitaire | 87541 | [87541-solebon-solitaire.json](./87541-solebon-solitaire.json) |
+| Soleil | 259381 | [259381-soleil.json](./259381-soleil.json) |
 | Soleil Survivor | 340355 | [340355-soleil-survivor.json](./340355-soleil-survivor.json) |
 | Solemn Knights: Entirely Ours | 254421 | [254421-solemn-knights-entirely-ours.json](./254421-solemn-knights-entirely-ours.json) |
 | Solemn Warriors | 330187 | [330187-solemn-warriors.json](./330187-solemn-warriors.json) |
@@ -20166,6 +20169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrels Gone Nuts | 290551 | [290551-squirrels-gone-nuts.json](./290551-squirrels-gone-nuts.json) |
 | Squirreltopia | 36132 | [36132-squirreltopia.json](./36132-squirreltopia.json) |
 | SquirrelTower | 422648 | [422648-squirreltower.json](./422648-squirreltower.json) |
+| SquirrelWarz | 259694 | [259694-squirrelwarz.json](./259694-squirrelwarz.json) |
 | Squish | 342865 | [342865-squish.json](./342865-squish.json) |
 | Squish 'em | 23887 | [23887-squish-em.json](./23887-squish-em.json) |
 | Squish and the Corrupted Crystal | 47996 | [47996-squish-and-the-corrupted-crystal.json](./47996-squish-and-the-corrupted-crystal.json) |
