@@ -9405,6 +9405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of God | 138182 | [138182-the-house-of-god.json](./138182-the-house-of-god.json) |
 | The House of Hikmah | 380426 | [380426-the-house-of-hikmah.json](./380426-the-house-of-hikmah.json) |
 | The House of Mr Chocolate | 142963 | [142963-the-house-of-mr-chocolate.json](./142963-the-house-of-mr-chocolate.json) |
+| The House of Rats | 248829 | [248829-the-house-of-rats.json](./248829-the-house-of-rats.json) |
 | The House of Silence | 299514 | [299514-the-house-of-silence.json](./299514-the-house-of-silence.json) |
 | The House of the Dead | 2469 | [2469-the-house-of-the-dead.json](./2469-the-house-of-the-dead.json) |
 | The House of the Dead 2 | 13777 | [13777-the-house-of-the-dead-2.json](./13777-the-house-of-the-dead-2.json) |
@@ -19575,6 +19576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 2000 | 249152 | [249152-tiger-woods-pga-tour-2000.json](./249152-tiger-woods-pga-tour-2000.json) |
 | Tiger Woods PGA Tour 2000 | 8811 | [8811-tiger-woods-pga-tour-2000.json](./8811-tiger-woods-pga-tour-2000.json) |
 | Tiger Woods PGA Tour 2001 | 8812 | [8812-tiger-woods-pga-tour-2001.json](./8812-tiger-woods-pga-tour-2001.json) |
+| Tiger Woods PGA Tour 2002 | 248690 | [248690-tiger-woods-pga-tour-2002.json](./248690-tiger-woods-pga-tour-2002.json) |
 | Tiger Woods PGA Tour 2003 | 904 | [904-tiger-woods-pga-tour-2003.json](./904-tiger-woods-pga-tour-2003.json) |
 | Tiger Woods PGA Tour 2004 | 243022 | [243022-tiger-woods-pga-tour-2004.json](./243022-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2004 | 243023 | [243023-tiger-woods-pga-tour-2004.json](./243023-tiger-woods-pga-tour-2004.json) |
@@ -23719,6 +23721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town of Destruction | 192184 | [192184-town-of-destruction.json](./192184-town-of-destruction.json) |
 | Town of Dusk | 251810 | [251810-town-of-dusk.json](./251810-town-of-dusk.json) |
 | Town of Host | 224196 | [224196-town-of-host.json](./224196-town-of-host.json) |
+| Town of idiots | 248388 | [248388-town-of-idiots.json](./248388-town-of-idiots.json) |
 | Town of Machine | 145049 | [145049-town-of-machine.json](./145049-town-of-machine.json) |
 | Town of Passion | 127633 | [127633-town-of-passion.json](./127633-town-of-passion.json) |
 | Town of Salem | 9658 | [9658-town-of-salem.json](./9658-town-of-salem.json) |
@@ -25029,6 +25032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz 2022: SA CL Class - RailPower Pack | 306100 | [306100-trainz-2022-sa-cl-class-railpower-pack.json](./306100-trainz-2022-sa-cl-class-railpower-pack.json) |
 | Trainz Classics Volume 1 & 2 | 54184 | [54184-trainz-classics-volume-1-and-2.json](./54184-trainz-classics-volume-1-and-2.json) |
 | Trainz Classics Volume 3 | 54183 | [54183-trainz-classics-volume-3.json](./54183-trainz-classics-volume-3.json) |
+| Trainz Driver 2 | 248408 | [248408-trainz-driver-2.json](./248408-trainz-driver-2.json) |
 | Trainz Plus | 204302 | [204302-trainz-plus.json](./204302-trainz-plus.json) |
 | Trainz Plus DLC - Pro Train: AC44C6M Loco Bundle | 384733 | [384733-trainz-plus-dlc-pro-train-ac44c6m-loco-bundle.json](./384733-trainz-plus-dlc-pro-train-ac44c6m-loco-bundle.json) |
 | Trainz Plus DLC: OBB Eurofima Second Class Pack | 400080 | [400080-trainz-plus-dlc-obb-eurofima-second-class-pack.json](./400080-trainz-plus-dlc-obb-eurofima-second-class-pack.json) |
@@ -28124,6 +28128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Speed Jet Racing: Super Bike Challenge Game | 99371 | [99371-turbo-speed-jet-racing-super-bike-challenge-game.json](./99371-turbo-speed-jet-racing-super-bike-challenge-game.json) |
 | Turbo Speedway | 71381 | [71381-turbo-speedway.json](./71381-turbo-speedway.json) |
 | Turbo Sprint | 229785 | [229785-turbo-sprint.json](./229785-turbo-sprint.json) |
+| Turbo Sprint Racing | 248850 | [248850-turbo-sprint-racing.json](./248850-turbo-sprint-racing.json) |
 | Turbo Stars | 352166 | [352166-turbo-stars.json](./352166-turbo-stars.json) |
 | Turbo Subs | 206070 | [206070-turbo-subs.json](./206070-turbo-subs.json) |
 | Turbo Tails | 264537 | [264537-turbo-tails.json](./264537-turbo-tails.json) |
