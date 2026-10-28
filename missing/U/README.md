@@ -2247,9 +2247,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unmatched: Digital Edition - Bigfoot | 248717 | [248717-unmatched-digital-edition-bigfoot.json](./248717-unmatched-digital-edition-bigfoot.json) |
 | Unmatched: Digital Edition - Dracula | 248706 | [248706-unmatched-digital-edition-dracula.json](./248706-unmatched-digital-edition-dracula.json) |
 | Unmatched: Digital Edition - Invisible Man | 248703 | [248703-unmatched-digital-edition-invisible-man.json](./248703-unmatched-digital-edition-invisible-man.json) |
+| Unmatched: Digital Edition - Jekyll & Hyde | 248702 | [248702-unmatched-digital-edition-jekyll-and-hyde.json](./248702-unmatched-digital-edition-jekyll-and-hyde.json) |
 | Unmatched: Digital Edition - Robin Hood | 248726 | [248726-unmatched-digital-edition-robin-hood.json](./248726-unmatched-digital-edition-robin-hood.json) |
 | Unmatched: Digital Edition - Sherlock Holmes | 248716 | [248716-unmatched-digital-edition-sherlock-holmes.json](./248716-unmatched-digital-edition-sherlock-holmes.json) |
 | Unmatched: Digital Edition - Sherwood Forest | 248718 | [248718-unmatched-digital-edition-sherwood-forest.json](./248718-unmatched-digital-edition-sherwood-forest.json) |
+| Unmatched: Digital Edition - Soho | 248701 | [248701-unmatched-digital-edition-soho.json](./248701-unmatched-digital-edition-soho.json) |
 | Unmatched: Digital Edition - Yukon | 248715 | [248715-unmatched-digital-edition-yukon.json](./248715-unmatched-digital-edition-yukon.json) |
 | Unmaze | 159363 | [159363-unmaze.json](./159363-unmaze.json) |
 | Unmechanical | 16368 | [16368-unmechanical.json](./16368-unmechanical.json) |
@@ -2650,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unusual Farm Operations | 335395 | [335395-unusual-farm-operations.json](./335395-unusual-farm-operations.json) |
 | Unusual Findings | 153890 | [153890-unusual-findings.json](./153890-unusual-findings.json) |
 | Unusual Ghost | 232008 | [232008-unusual-ghost.json](./232008-unusual-ghost.json) |
+| Unusual Night Shift | 248828 | [248828-unusual-night-shift.json](./248828-unusual-night-shift.json) |
 | Unusual Quest | 272885 | [272885-unusual-quest.json](./272885-unusual-quest.json) |
 | Unusual Tales: Deep Below | 380447 | [380447-unusual-tales-deep-below.json](./380447-unusual-tales-deep-below.json) |
 | Unusual Times | 221393 | [221393-unusual-times.json](./221393-unusual-times.json) |
@@ -2870,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Champion-e | 170014 | [170014-urban-champion-e.json](./170014-urban-champion-e.json) |
 | Urban Chaos | 8469 | [8469-urban-chaos.json](./8469-urban-chaos.json) |
 | Urban Chase | 279458 | [279458-urban-chase.json](./279458-urban-chase.json) |
+| Urban Crooks | 247122 | [247122-urban-crooks.json](./247122-urban-crooks.json) |
 | Urban Dead | 69281 | [69281-urban-dead.json](./69281-urban-dead.json) |
 | Urban Dreambog | 323391 | [323391-urban-dreambog.json](./323391-urban-dreambog.json) |
 | Urban Drug Empire | 223138 | [223138-urban-drug-empire.json](./223138-urban-drug-empire.json) |
