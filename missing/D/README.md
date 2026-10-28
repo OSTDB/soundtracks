@@ -5335,6 +5335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltatraveler: Section 4 | 315072 | [315072-deltatraveler-section-4.json](./315072-deltatraveler-section-4.json) |
 | DeltaZeal | 35029 | [35029-deltazeal.json](./35029-deltazeal.json) |
 | Deltazone Reloaded | 144082 | [144082-deltazone-reloaded.json](./144082-deltazone-reloaded.json) |
+| Deltazone: Map Pack #1 | 263313 | [263313-deltazone-map-pack-1.json](./263313-deltazone-map-pack-1.json) |
 | Deltora Quest | 47936 | [47936-deltora-quest.json](./47936-deltora-quest.json) |
 | Delucid | 390254 | [390254-delucid.json](./390254-delucid.json) |
 | Deluge | 351644 | [351644-deluge.json](./351644-deluge.json) |
@@ -16600,6 +16601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 7: Special | 269527 | [269527-dynasty-warriors-7-special.json](./269527-dynasty-warriors-7-special.json) |
 | Dynasty Warriors 7: Xtreme Legends - Definitive Edition | 113386 | [113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json](./113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json) |
 | Dynasty Warriors 8 | 6976 | [6976-dynasty-warriors-8.json](./6976-dynasty-warriors-8.json) |
+| Dynasty Warriors 8: Empires - Castle Pack | 263310 | [263310-dynasty-warriors-8-empires-castle-pack.json](./263310-dynasty-warriors-8-empires-castle-pack.json) |
 | Dynasty Warriors 8: Empires - Free Alliances Version | 221032 | [221032-dynasty-warriors-8-empires-free-alliances-version.json](./221032-dynasty-warriors-8-empires-free-alliances-version.json) |
 | Dynasty Warriors 8: Wang Yuanji 'Rorona' Costume | 306771 | [306771-dynasty-warriors-8-wang-yuanji-rorona-costume.json](./306771-dynasty-warriors-8-wang-yuanji-rorona-costume.json) |
 | Dynasty Warriors 8: Xtreme Legends Complete Edition | 21712 | [21712-dynasty-warriors-8-xtreme-legends-complete-edition.json](./21712-dynasty-warriors-8-xtreme-legends-complete-edition.json) |
