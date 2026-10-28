@@ -1462,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2010: The Text Adventure Game | 75229 | [75229-2010-the-text-adventure-game.json](./75229-2010-the-text-adventure-game.json) |
 | 2012 Apocalypse | 141518 | [141518-2012-apocalypse.json](./141518-2012-apocalypse.json) |
 | 2014.Aftermath | 115375 | [115375-2014-aftermath.json](./115375-2014-aftermath.json) |
+| 2016 Doodle Fruit Games | 238871 | [238871-2016-doodle-fruit-games.json](./238871-2016-doodle-fruit-games.json) |
 | 2017 Collection | 327362 | [327362-2017-collection.json](./327362-2017-collection.json) |
 | 2018 FIFA World Cup Russia | 317514 | [317514-2018-fifa-world-cup-russia.json](./317514-2018-fifa-world-cup-russia.json) |
 | 2018 World Football League | 103857 | [103857-2018-world-football-league.json](./103857-2018-world-football-league.json) |
