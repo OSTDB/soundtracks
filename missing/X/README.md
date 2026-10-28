@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xermatt Redux | 196089 | [196089-xermatt-redux.json](./196089-xermatt-redux.json) |
 | Xerme | 264517 | [264517-xerme.json](./264517-xerme.json) |
 | Xerminus | 371897 | [371897-xerminus.json](./371897-xerminus.json) |
+| Xero | 259111 | [259111-xero.json](./259111-xero.json) |
 | Xeroes | 312527 | [312527-xeroes.json](./312527-xeroes.json) |
 | Xerxes | 295671 | [295671-xerxes.json](./295671-xerxes.json) |
 | Xerxesia | 267998 | [267998-xerxesia.json](./267998-xerxesia.json) |
