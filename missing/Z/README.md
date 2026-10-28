@@ -1770,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies vs. Sheep | 67294 | [67294-zombies-vs-sheep.json](./67294-zombies-vs-sheep.json) |
 | Zombies vs. You | 289339 | [289339-zombies-vs-you.json](./289339-zombies-vs-you.json) |
 | Zombies War | 118341 | [118341-zombies-war.json](./118341-zombies-war.json) |
+| Zombies Wars | 270814 | [270814-zombies-wars.json](./270814-zombies-wars.json) |
 | Zombies, Run! | 65192 | [65192-zombies-run.json](./65192-zombies-run.json) |
 | Zombies: Faulty Towers | 121327 | [121327-zombies-faulty-towers.json](./121327-zombies-faulty-towers.json) |
 | Zombies! | 335649 | [335649-zombies.json](./335649-zombies.json) |
