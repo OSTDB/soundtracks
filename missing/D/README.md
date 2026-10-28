@@ -10237,6 +10237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Literature Club: The Festival | 336088 | [336088-doki-doki-literature-club-the-festival.json](./336088-doki-doki-literature-club-the-festival.json) |
 | Doki Doki Loser MC | 334271 | [334271-doki-doki-loser-mc.json](./334271-doki-doki-loser-mc.json) |
 | Doki Doki Malignancy | 333923 | [333923-doki-doki-malignancy.json](./333923-doki-doki-malignancy.json) |
+| Doki Doki Metal Club | 256956 | [256956-doki-doki-metal-club.json](./256956-doki-doki-metal-club.json) |
 | Doki Doki Nightmare | 333927 | [333927-doki-doki-nightmare.json](./333927-doki-doki-nightmare.json) |
 | Doki Doki No Happiness | 336060 | [336060-doki-doki-no-happiness.json](./336060-doki-doki-no-happiness.json) |
 | Doki Doki Our Final Heartbeat | 333609 | [333609-doki-doki-our-final-heartbeat.json](./333609-doki-doki-our-final-heartbeat.json) |
@@ -14513,6 +14514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droid Wars: Duel | 232950 | [232950-droid-wars-duel.json](./232950-droid-wars-duel.json) |
 | Droid404 | 159741 | [159741-droid404.json](./159741-droid404.json) |
 | Droid7 | 134927 | [134927-droid7.json](./134927-droid7.json) |
+| Droidmals: Lavanlier Town | 256942 | [256942-droidmals-lavanlier-town.json](./256942-droidmals-lavanlier-town.json) |
 | Droids | 84276 | [84276-droids.json](./84276-droids.json) |
 | Droids & Wizards | 124769 | [124769-droids-and-wizards.json](./124769-droids-and-wizards.json) |
 | Droids: The White Witch | 255557 | [255557-droids-the-white-witch.json](./255557-droids-the-white-witch.json) |
@@ -16259,6 +16261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk HD | 269503 | [269503-dusk-hd.json](./269503-dusk-hd.json) |
 | Dusk Hollow | 221371 | [221371-dusk-hollow.json](./221371-dusk-hollow.json) |
 | Dusk Hunters | 402561 | [402561-dusk-hunters.json](./402561-dusk-hunters.json) |
+| Dusk of Dragons: Survivors | 256953 | [256953-dusk-of-dragons-survivors.json](./256953-dusk-of-dragons-survivors.json) |
 | Dusk of the Cage | 237949 | [237949-dusk-of-the-cage.json](./237949-dusk-of-the-cage.json) |
 | Dusk of the wasteland age | 163351 | [163351-dusk-of-the-wasteland-age.json](./163351-dusk-of-the-wasteland-age.json) |
 | Dusk Park | 400854 | [400854-dusk-park.json](./400854-dusk-park.json) |
