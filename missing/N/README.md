@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netdreams Sudoku | 276625 | [276625-netdreams-sudoku.json](./276625-netdreams-sudoku.json) |
 | Netflix Infinite Runner | 76873 | [76873-netflix-infinite-runner.json](./76873-netflix-infinite-runner.json) |
 | Netflix Puzzled | 364819 | [364819-netflix-puzzled.json](./364819-netflix-puzzled.json) |
+| Netflix Stories: Money Heist | 276333 | [276333-netflix-stories-money-heist.json](./276333-netflix-stories-money-heist.json) |
 | Netflix Stories: Sex Education | 358223 | [358223-netflix-stories-sex-education.json](./358223-netflix-stories-sex-education.json) |
 | NetGame Adventure | 252298 | [252298-netgame-adventure.json](./252298-netgame-adventure.json) |
 | Netghost | 293838 | [293838-netghost.json](./293838-netghost.json) |
