@@ -2463,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastel Parade | 280466 | [280466-pastel-parade.json](./280466-pastel-parade.json) |
 | Pastel Pop | 242143 | [242143-pastel-pop.json](./242143-pastel-pop.json) |
 | Pastel Putter | 218409 | [218409-pastel-putter.json](./218409-pastel-putter.json) |
+| Pastel x Pastels | 229490 | [229490-pastel-x-pastels.json](./229490-pastel-x-pastels.json) |
 | Pastfinder | 24667 | [24667-pastfinder.json](./24667-pastfinder.json) |
 | Pastimes | 415198 | [415198-pastimes.json](./415198-pastimes.json) |
 | Pastimes - Game Box | 105822 | [105822-pastimes-game-box.json](./105822-pastimes-game-box.json) |
@@ -3896,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peril in the Agency | 365061 | [365061-peril-in-the-agency.json](./365061-peril-in-the-agency.json) |
 | Perilous Light | 374259 | [374259-perilous-light.json](./374259-perilous-light.json) |
 | Perilous Warp | 140357 | [140357-perilous-warp.json](./140357-perilous-warp.json) |
+| Perilous Wilde | 229911 | [229911-perilous-wilde.json](./229911-perilous-wilde.json) |
 | Perils of Baking | 103846 | [103846-perils-of-baking.json](./103846-perils-of-baking.json) |
 | Perils of Man | 17998 | [17998-perils-of-man.json](./17998-perils-of-man.json) |
 | Perimbó | 349431 | [349431-perimbo.json](./349431-perimbo.json) |
@@ -14468,6 +14470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocol VR | 116289 | [116289-protocol-vr.json](./116289-protocol-vr.json) |
 | Protocol Xeno | 211967 | [211967-protocol-xeno.json](./211967-protocol-xeno.json) |
 | Protocol Zero | 57929 | [57929-protocol-zero.json](./57929-protocol-zero.json) |
+| Protocol: 47 | 229902 | [229902-protocol-47.json](./229902-protocol-47.json) |
 | Protocol: Annihilation | 400169 | [400169-protocol-annihilation.json](./400169-protocol-annihilation.json) |
 | Protocol: Chapter 1 - Limbo | 415150 | [415150-protocol-chapter-1-limbo.json](./415150-protocol-chapter-1-limbo.json) |
 | Protocol: Children of War | 215325 | [215325-protocol-children-of-war.json](./215325-protocol-children-of-war.json) |
@@ -14626,6 +14629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psionic | 164092 | [164092-psionic.json](./164092-psionic.json) |
 | Psionic Awake | 235376 | [235376-psionic-awake.json](./235376-psionic-awake.json) |
 | Psionic Sentry: Infinite | 276191 | [276191-psionic-sentry-infinite.json](./276191-psionic-sentry-infinite.json) |
+| Psionics | 229903 | [229903-psionics.json](./229903-psionics.json) |
 | Psiplex | 305981 | [305981-psiplex.json](./305981-psiplex.json) |
 | PsiSyn: The Game | 368381 | [368381-psisyn-the-game.json](./368381-psisyn-the-game.json) |
 | PSN Protector | 320978 | [320978-psn-protector.json](./320978-psn-protector.json) |
