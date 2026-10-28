@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Y.A.W: You Are Weaponized | 140939 | [140939-y-a-w-you-are-weaponized.json](./140939-y-a-w-you-are-weaponized.json) |
 | Y.M.C.A. | 333632 | [333632-y-m-c-a.json](./333632-y-m-c-a.json) |
 | Y'Ryando | 309723 | [309723-yryando.json](./309723-yryando.json) |
+| Y2K Directive | 278245 | [278245-y2k-directive.json](./278245-y2k-directive.json) |
 | Y2K II: Benevolent Psychosis | 348292 | [348292-y2k-ii-benevolent-psychosis.json](./348292-y2k-ii-benevolent-psychosis.json) |
 | Y2K: The Game | 84208 | [84208-y2k-the-game.json](./84208-y2k-the-game.json) |
 | Y2kill | 414801 | [414801-y2kill.json](./414801-y2kill.json) |
