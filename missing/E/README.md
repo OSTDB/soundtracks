@@ -4371,6 +4371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape | 80938 | [80938-escape.json](./80938-escape.json) |
 | Escape | 98433 | [98433-escape.json](./98433-escape.json) |
 | Escape - Norm's World XL | 76176 | [76176-escape-norms-world-xl.json](./76176-escape-norms-world-xl.json) |
+| Escape & Avenge | 239242 | [239242-escape-and-avenge.json](./239242-escape-and-avenge.json) |
 | Escape + Rooms Horror Bundle | 417286 | [417286-escape-rooms-horror-bundle.json](./417286-escape-rooms-horror-bundle.json) |
 | Escape 2: The Closet | 317400 | [317400-escape-2-the-closet.json](./317400-escape-2-the-closet.json) |
 | Escape 4: The Bathroom | 317401 | [317401-escape-4-the-bathroom.json](./317401-escape-4-the-bathroom.json) |
