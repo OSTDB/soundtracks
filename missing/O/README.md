@@ -3951,14 +3951,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Legends | 136996 | [136996-otherworld-legends.json](./136996-otherworld-legends.json) |
 | Otherworld Legends: Aigneis | 235678 | [235678-otherworld-legends-aigneis.json](./235678-otherworld-legends-aigneis.json) |
 | Otherworld Legends: Anibella | 247886 | [247886-otherworld-legends-anibella.json](./247886-otherworld-legends-anibella.json) |
+| Otherworld Legends: Atomic Girl | 274601 | [274601-otherworld-legends-atomic-girl.json](./274601-otherworld-legends-atomic-girl.json) |
 | Otherworld Legends: Ebonfang | 212215 | [212215-otherworld-legends-ebonfang.json](./212215-otherworld-legends-ebonfang.json) |
 | Otherworld Legends: Fluffette | 310084 | [310084-otherworld-legends-fluffette.json](./310084-otherworld-legends-fluffette.json) |
 | Otherworld Legends: Hannah | 199589 | [199589-otherworld-legends-hannah.json](./199589-otherworld-legends-hannah.json) |
 | Otherworld Legends: Huo YuFeng | 286986 | [286986-otherworld-legends-huo-yufeng.json](./286986-otherworld-legends-huo-yufeng.json) |
 | Otherworld Legends: Jadetalon | 211895 | [211895-otherworld-legends-jadetalon.json](./211895-otherworld-legends-jadetalon.json) |
+| Otherworld Legends: Ourania | 274598 | [274598-otherworld-legends-ourania.json](./274598-otherworld-legends-ourania.json) |
+| Otherworld Legends: Sinistar Ruthven | 274600 | [274600-otherworld-legends-sinistar-ruthven.json](./274600-otherworld-legends-sinistar-ruthven.json) |
 | Otherworld Legends: Skin - Striker Dragoneer | 286984 | [286984-otherworld-legends-skin-striker-dragoneer.json](./286984-otherworld-legends-skin-striker-dragoneer.json) |
 | Otherworld Legends: Skin - Sunclipse | 286985 | [286985-otherworld-legends-skin-sunclipse.json](./286985-otherworld-legends-skin-sunclipse.json) |
 | Otherworld Legends: Skin - The Unreturning | 361892 | [361892-otherworld-legends-skin-the-unreturning.json](./361892-otherworld-legends-skin-the-unreturning.json) |
+| Otherworld Legends: Synthia | 274599 | [274599-otherworld-legends-synthia.json](./274599-otherworld-legends-synthia.json) |
 | Otherworld Legends: Uliana | 226705 | [226705-otherworld-legends-uliana.json](./226705-otherworld-legends-uliana.json) |
 | Otherworld Legends: Wu Fei | 286983 | [286983-otherworld-legends-wu-fei.json](./286983-otherworld-legends-wu-fei.json) |
 | Otherworld Legends: Zilan | 310083 | [310083-otherworld-legends-zilan.json](./310083-otherworld-legends-zilan.json) |
