@@ -4951,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Attack | 408874 | [408874-goblin-attack.json](./408874-goblin-attack.json) |
 | Goblin Auto Club Manager | 304522 | [304522-goblin-auto-club-manager.json](./304522-goblin-auto-club-manager.json) |
 | Goblin Boom | 295745 | [295745-goblin-boom.json](./295745-goblin-boom.json) |
+| Goblin Camp | 258300 | [258300-goblin-camp.json](./258300-goblin-camp.json) |
 | Goblin Cleanup | 282692 | [282692-goblin-cleanup.json](./282692-goblin-cleanup.json) |
 | Goblin Clicker | 365876 | [365876-goblin-clicker.json](./365876-goblin-clicker.json) |
 | Goblin Colony | 235705 | [235705-goblin-colony.json](./235705-goblin-colony.json) |
