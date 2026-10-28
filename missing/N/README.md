@@ -685,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Heat 4: Gold Edition | 187900 | [187900-nascar-heat-4-gold-edition.json](./187900-nascar-heat-4-gold-edition.json) |
 | NASCAR Heat 5 | 134370 | [134370-nascar-heat-5.json](./134370-nascar-heat-5.json) |
 | NASCAR Heat 5: Gold Edition | 136186 | [136186-nascar-heat-5-gold-edition.json](./136186-nascar-heat-5-gold-edition.json) |
+| Nascar Heat 5: Next Gen Car Update | 254274 | [254274-nascar-heat-5-next-gen-car-update.json](./254274-nascar-heat-5-next-gen-car-update.json) |
 | NASCAR Heat 5: Ultimate Edition | 164815 | [164815-nascar-heat-5-ultimate-edition.json](./164815-nascar-heat-5-ultimate-edition.json) |
 | NASCAR Heat 5: Ultimate Edition+ | 187308 | [187308-nascar-heat-5-ultimate-edition.json](./187308-nascar-heat-5-ultimate-edition.json) |
 | NASCAR Heat Bundle | 273941 | [273941-nascar-heat-bundle.json](./273941-nascar-heat-bundle.json) |
@@ -1598,6 +1599,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: The Run | 193780 | [193780-need-for-speed-the-run.json](./193780-need-for-speed-the-run.json) |
 | Need for Speed: The Run | 248134 | [248134-need-for-speed-the-run.json](./248134-need-for-speed-the-run.json) |
 | Need for Speed: Top Speed | 210103 | [210103-need-for-speed-top-speed.json](./210103-need-for-speed-top-speed.json) |
+| Need for Speed: Unbound - Ford Mustang GT Legendary Custom Pack | 254273 | [254273-need-for-speed-unbound-ford-mustang-gt-legendary-custom-pack.json](./254273-need-for-speed-unbound-ford-mustang-gt-legendary-custom-pack.json) |
+| Need for Speed: Unbound - Robojets Swag Pack | 254272 | [254272-need-for-speed-unbound-robojets-swag-pack.json](./254272-need-for-speed-unbound-robojets-swag-pack.json) |
 | Need for Speed: Unbound - Vol. 7 Premium Speed Pass | 301851 | [301851-need-for-speed-unbound-vol-7-premium-speed-pass.json](./301851-need-for-speed-unbound-vol-7-premium-speed-pass.json) |
 | Need for Speed: Undercover | 248137 | [248137-need-for-speed-undercover.json](./248137-need-for-speed-undercover.json) |
 | Need for Speed: Undercover | 248138 | [248138-need-for-speed-undercover.json](./248138-need-for-speed-undercover.json) |
