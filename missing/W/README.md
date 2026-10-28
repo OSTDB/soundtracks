@@ -5513,6 +5513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Hunt | 335622 | [335622-witch-hunt.json](./335622-witch-hunt.json) |
 | Witch Hunter | 165174 | [165174-witch-hunter.json](./165174-witch-hunter.json) |
 | Witch Hunter | 218158 | [218158-witch-hunter.json](./218158-witch-hunter.json) |
+| Witch Hunter Izana | 258821 | [258821-witch-hunter-izana.json](./258821-witch-hunter-izana.json) |
 | Witch Hunters: Full Moon Ceremony - Collector's Edition | 74350 | [74350-witch-hunters-full-moon-ceremony-collectors-edition.json](./74350-witch-hunters-full-moon-ceremony-collectors-edition.json) |
 | Witch Isis | 82835 | [82835-witch-isis.json](./82835-witch-isis.json) |
 | Witch Island II | 82367 | [82367-witch-island-ii.json](./82367-witch-island-ii.json) |
@@ -5848,6 +5849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard's Lair | 26471 | [26471-wizards-lair.json](./26471-wizards-lair.json) |
 | Wizard's Legacy | 311560 | [311560-wizards-legacy.json](./311560-wizards-legacy.json) |
 | Wizard's Oblation | 374016 | [374016-wizards-oblation.json](./374016-wizards-oblation.json) |
+| Wizard's Owl: Magic Delivery | 259110 | [259110-wizards-owl-magic-delivery.json](./259110-wizards-owl-magic-delivery.json) |
 | Wizard's Quest | 148818 | [148818-wizards-quest.json](./148818-wizards-quest.json) |
 | Wizard's Symphony | 96111 | [96111-wizards-symphony.json](./96111-wizards-symphony.json) |
 | Wizard's Terror | 176253 | [176253-wizards-terror.json](./176253-wizards-terror.json) |
