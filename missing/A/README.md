@@ -2245,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Pilot Pacific | 283877 | [283877-ace-pilot-pacific.json](./283877-ace-pilot-pacific.json) |
 | Ace Prosecutor Zero | 303022 | [303022-ace-prosecutor-zero.json](./303022-ace-prosecutor-zero.json) |
 | Ace Racer | 174905 | [174905-ace-racer.json](./174905-ace-racer.json) |
+| Ace Racers SP | 277126 | [277126-ace-racers-sp.json](./277126-ace-racers-sp.json) |
 | Ace Racing Turbo | 200057 | [200057-ace-racing-turbo.json](./200057-ace-racing-turbo.json) |
 | Ace Robot Combat | 270324 | [270324-ace-robot-combat.json](./270324-ace-robot-combat.json) |
 | Ace Squadron: WWII Conflicts | 223931 | [223931-ace-squadron-wwii-conflicts.json](./223931-ace-squadron-wwii-conflicts.json) |
@@ -14404,6 +14405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Super Lander Re-Nuked Edition | 392826 | [392826-atomic-super-lander-re-nuked-edition.json](./392826-atomic-super-lander-re-nuked-edition.json) |
 | Atomic Surf | 238641 | [238641-atomic-surf.json](./238641-atomic-surf.json) |
 | Atomic Survivors | 249748 | [249748-atomic-survivors.json](./249748-atomic-survivors.json) |
+| Atomic Titans: Light Violence | 277447 | [277447-atomic-titans-light-violence.json](./277447-atomic-titans-light-violence.json) |
 | Atomic War | 171811 | [171811-atomic-war.json](./171811-atomic-war.json) |
 | Atomic Warfare | 303901 | [303901-atomic-warfare.json](./303901-atomic-warfare.json) |
 | Atomic Wilds | 216661 | [216661-atomic-wilds.json](./216661-atomic-wilds.json) |
