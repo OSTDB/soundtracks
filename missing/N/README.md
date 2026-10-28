@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Colony | 349212 | [349212-neon-colony.json](./349212-neon-colony.json) |
 | Neon Cyber Samurai | 211993 | [211993-neon-cyber-samurai.json](./211993-neon-cyber-samurai.json) |
 | Neon Cyborg Cat Club | 148533 | [148533-neon-cyborg-cat-club.json](./148533-neon-cyborg-cat-club.json) |
+| Neon D-Fence Remaster | 251770 | [251770-neon-d-fence-remaster.json](./251770-neon-d-fence-remaster.json) |
 | Neon Dan | 282829 | [282829-neon-dan.json](./282829-neon-dan.json) |
 | Neon Dash | 391613 | [391613-neon-dash.json](./391613-neon-dash.json) |
 | Neon Dash Tales | 268970 | [268970-neon-dash-tales.json](./268970-neon-dash-tales.json) |
@@ -2282,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neonova | 313646 | [313646-neonova.json](./313646-neonova.json) |
 | NeonPlat's Cosmic Adventure | 59825 | [59825-neonplats-cosmic-adventure.json](./59825-neonplats-cosmic-adventure.json) |
 | NeonPowerUp! | 267841 | [267841-neonpowerup.json](./267841-neonpowerup.json) |
+| Neonscape | 251777 | [251777-neonscape.json](./251777-neonscape.json) |
 | Neonsomnia | 257087 | [257087-neonsomnia.json](./257087-neonsomnia.json) |
 | NeonTunnel | 176365 | [176365-neontunnel.json](./176365-neontunnel.json) |
 | Neonverse Defenders | 150933 | [150933-neonverse-defenders.json](./150933-neonverse-defenders.json) |
@@ -5261,6 +5263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobody Saves the World + Frozen Hearth Bundle | 219470 | [219470-nobody-saves-the-world-frozen-hearth-bundle.json](./219470-nobody-saves-the-world-frozen-hearth-bundle.json) |
 | Nobody Saves the World: Frozen Hearth | 214735 | [214735-nobody-saves-the-world-frozen-hearth.json](./214735-nobody-saves-the-world-frozen-hearth.json) |
 | Nobody Sleeps Tonight | 282812 | [282812-nobody-sleeps-tonight.json](./282812-nobody-sleeps-tonight.json) |
+| Nobody Told Me About ID | 251634 | [251634-nobody-told-me-about-id.json](./251634-nobody-told-me-about-id.json) |
 | Nobody's Dilemma | 252674 | [252674-nobodys-dilemma.json](./252674-nobodys-dilemma.json) |
 | Nobody's Home | 133744 | [133744-nobodys-home.json](./133744-nobodys-home.json) |
 | Nobody's Home | 179732 | [179732-nobodys-home.json](./179732-nobodys-home.json) |
