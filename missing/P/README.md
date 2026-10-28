@@ -6750,6 +6750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit Pioneers | 391153 | [391153-pit-pioneers.json](./391153-pit-pioneers.json) |
 | Pit Pot | 46113 | [46113-pit-pot.json](./46113-pit-pot.json) |
 | Pit Rush | 183382 | [183382-pit-rush.json](./183382-pit-rush.json) |
+| Pit Stop Challenge | 237587 | [237587-pit-stop-challenge.json](./237587-pit-stop-challenge.json) |
 | Pit Stop Racing: Club Vs. Club | 251662 | [251662-pit-stop-racing-club-vs-club.json](./251662-pit-stop-racing-club-vs-club.json) |
 | Pit Stop Racing: Manager | 234612 | [234612-pit-stop-racing-manager.json](./234612-pit-stop-racing-manager.json) |
 | Pit Stoppers | 217155 | [217155-pit-stoppers.json](./217155-pit-stoppers.json) |
@@ -7756,6 +7757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Tower: The Noise Update | 291543 | [291543-pizza-tower-the-noise-update.json](./291543-pizza-tower-the-noise-update.json) |
 | Pizza Truck | 96836 | [96836-pizza-truck.json](./96836-pizza-truck.json) |
 | Pizza Turtle 4evr | 232038 | [232038-pizza-turtle-4evr.json](./232038-pizza-turtle-4evr.json) |
+| Pizza Tycoon | 237575 | [237575-pizza-tycoon.json](./237575-pizza-tycoon.json) |
 | Pizza Tycoon 2 | 51885 | [51885-pizza-tycoon-2.json](./51885-pizza-tycoon-2.json) |
 | Pizza Western | 318191 | [318191-pizza-western.json](./318191-pizza-western.json) |
 | PIzza Wizard+ | 338632 | [338632-pizza-wizard.json](./338632-pizza-wizard.json) |
