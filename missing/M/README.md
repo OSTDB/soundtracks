@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Unfolding | 385356 | [385356-magic-unfolding.json](./385356-magic-unfolding.json) |
 | Magic Valley Hike | 342427 | [342427-magic-valley-hike.json](./342427-magic-valley-hike.json) |
 | Magic Venue | 303647 | [303647-magic-venue.json](./303647-magic-venue.json) |
+| Magic Vigilante | 241772 | [241772-magic-vigilante.json](./241772-magic-vigilante.json) |
 | Magic vs Zombies | 207705 | [207705-magic-vs-zombies.json](./207705-magic-vs-zombies.json) |
 | Magic vs. Metal | 196572 | [196572-magic-vs-metal.json](./196572-magic-vs-metal.json) |
 | Magic vs. Mind | 311601 | [311601-magic-vs-mind.json](./311601-magic-vs-mind.json) |
@@ -5378,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze 3D | 113478 | [113478-maze-3d.json](./113478-maze-3d.json) |
 | Maze 4D | 112921 | [112921-maze-4d.json](./112921-maze-4d.json) |
 | Maze 95 Ultimate | 406807 | [406807-maze-95-ultimate.json](./406807-maze-95-ultimate.json) |
+| Maze 999 | 241770 | [241770-maze-999.json](./241770-maze-999.json) |
 | Maze Ablaze | 211118 | [211118-maze-ablaze.json](./211118-maze-ablaze.json) |
 | Maze Action | 94006 | [94006-maze-action.json](./94006-maze-action.json) |
 | Maze Adventures | 94950 | [94950-maze-adventures.json](./94950-maze-adventures.json) |
@@ -10253,6 +10255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Million Hits | 266898 | [266898-million-hits.json](./266898-million-hits.json) |
 | Million KNights Vermilion | 79270 | [79270-million-knights-vermilion.json](./79270-million-knights-vermilion.json) |
 | Million Lords | 124637 | [124637-million-lords.json](./124637-million-lords.json) |
+| Million Monster Militia | 242149 | [242149-million-monster-militia.json](./242149-million-monster-militia.json) |
 | Million on Mars: Land Rush | 182494 | [182494-million-on-mars-land-rush.json](./182494-million-on-mars-land-rush.json) |
 | Million on Mars: Space to Venture | 169131 | [169131-million-on-mars-space-to-venture.json](./169131-million-on-mars-space-to-venture.json) |
 | Million Onion Hotel | 62068 | [62068-million-onion-hotel.json](./62068-million-onion-hotel.json) |
@@ -11380,6 +11383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minions. Five nights at Despicable Hospital 3D | 99418 | [99418-minions-five-nights-at-despicable-hospital-3d.json](./99418-minions-five-nights-at-despicable-hospital-3d.json) |
 | Miniopolis | 418518 | [418518-miniopolis.json](./418518-miniopolis.json) |
 | MiniPix Jump | 255049 | [255049-minipix-jump.json](./255049-minipix-jump.json) |
+| Miniplanet | 242121 | [242121-miniplanet.json](./242121-miniplanet.json) |
 | MiniPoly.io | 223531 | [223531-minipoly-io.json](./223531-minipoly-io.json) |
 | MiniRacer | 168076 | [168076-miniracer.json](./168076-miniracer.json) |
 | MiniRacingOnline | 151834 | [151834-miniracingonline.json](./151834-miniracingonline.json) |
