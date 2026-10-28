@@ -4164,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathverse: Let It Die | 178297 | [178297-deathverse-let-it-die.json](./178297-deathverse-let-it-die.json) |
 | Deathward | 397590 | [397590-deathward.json](./397590-deathward.json) |
 | Deathwatch | 221258 | [221258-deathwatch.json](./221258-deathwatch.json) |
+| Deathwave Aftermath | 259958 | [259958-deathwave-aftermath.json](./259958-deathwave-aftermath.json) |
 | deathwish | 318690 | [318690-deathwish.json](./318690-deathwish.json) |
 | Deathwish | 215541 | [215541-deathwish.json](./215541-deathwish.json) |
 | Deathwish Enforcers | 203766 | [203766-deathwish-enforcers.json](./203766-deathwish-enforcers.json) |
@@ -7656,6 +7657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diesel Express VR | 41968 | [41968-diesel-express-vr.json](./41968-diesel-express-vr.json) |
 | Diesel Knights | 331762 | [331762-diesel-knights.json](./331762-diesel-knights.json) |
 | Diesel Legacy: The Brazen Age | 252844 | [252844-diesel-legacy-the-brazen-age.json](./252844-diesel-legacy-the-brazen-age.json) |
+| Diesel Mechs | 260265 | [260265-diesel-mechs.json](./260265-diesel-mechs.json) |
 | Diesel Power | 29805 | [29805-diesel-power.json](./29805-diesel-power.json) |
 | Diesel Punch | 135753 | [135753-diesel-punch.json](./135753-diesel-punch.json) |
 | Diesel Racer 2 | 106951 | [106951-diesel-racer-2.json](./106951-diesel-racer-2.json) |
