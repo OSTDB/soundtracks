@@ -4802,6 +4802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aircoaster | 66731 | [66731-aircoaster.json](./66731-aircoaster.json) |
 | Aircraft Carrier Survival | 139380 | [139380-aircraft-carrier-survival.json](./139380-aircraft-carrier-survival.json) |
 | Aircraft Evolution | 82077 | [82077-aircraft-evolution.json](./82077-aircraft-evolution.json) |
+| Aircraft Flag Quiz | 232116 | [232116-aircraft-flag-quiz.json](./232116-aircraft-flag-quiz.json) |
 | Aircraft in Pixels 2: Albatros D.V | 182094 | [182094-aircraft-in-pixels-2-albatros-d-v.json](./182094-aircraft-in-pixels-2-albatros-d-v.json) |
 | Aircraft Infinity | 238691 | [238691-aircraft-infinity.json](./238691-aircraft-infinity.json) |
 | Aircraft Pushback Simulator | 234744 | [234744-aircraft-pushback-simulator.json](./234744-aircraft-pushback-simulator.json) |
@@ -7997,6 +7998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Cultivatrix | 290502 | [290502-ancient-cultivatrix.json](./290502-ancient-cultivatrix.json) |
 | Ancient Cultures: Tikal's Realm | 216466 | [216466-ancient-cultures-tikals-realm.json](./216466-ancient-cultures-tikals-realm.json) |
 | Ancient Demon Shadow | 304817 | [304817-ancient-demon-shadow.json](./304817-ancient-demon-shadow.json) |
+| Ancient Demons | 232110 | [232110-ancient-demons.json](./232110-ancient-demons.json) |
 | Ancient Dino Runner | 156227 | [156227-ancient-dino-runner.json](./156227-ancient-dino-runner.json) |
 | Ancient Dungeon | 121993 | [121993-ancient-dungeon.json](./121993-ancient-dungeon.json) |
 | Ancient Egypt | 358911 | [358911-ancient-egypt.json](./358911-ancient-egypt.json) |
