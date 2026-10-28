@@ -6693,6 +6693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shell Shatter | 243969 | [243969-shell-shatter.json](./243969-shell-shatter.json) |
 | Shell Shockers | 111890 | [111890-shell-shockers.json](./111890-shell-shockers.json) |
 | Shell_Break | 112951 | [112951-shell-break.json](./112951-shell-break.json) |
+| Shell's Kitchen | 275413 | [275413-shells-kitchen.json](./275413-shells-kitchen.json) |
 | Shell's Kitchen: Leo's Journey | 308377 | [308377-shells-kitchen-leos-journey.json](./308377-shells-kitchen-leos-journey.json) |
 | Shell's Kitchen: Nico's Journey | 308378 | [308378-shells-kitchen-nicos-journey.json](./308378-shells-kitchen-nicos-journey.json) |
 | Shell's Retriever | 268352 | [268352-shells-retriever.json](./268352-shells-retriever.json) |
@@ -10715,6 +10716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky High Golf | 256137 | [256137-sky-high-golf.json](./256137-sky-high-golf.json) |
 | Sky High Stuntman | 279696 | [279696-sky-high-stuntman.json](./279696-sky-high-stuntman.json) |
 | Sky Hop Saga | 58658 | [58658-sky-hop-saga.json](./58658-sky-hop-saga.json) |
+| Sky Hunter | 275441 | [275441-sky-hunter.json](./275441-sky-hunter.json) |
 | Sky Hunter | 75165 | [75165-sky-hunter.json](./75165-sky-hunter.json) |
 | Sky In Flames | 398483 | [398483-sky-in-flames.json](./398483-sky-in-flames.json) |
 | Sky in your eyes | 204933 | [204933-sky-in-your-eyes.json](./204933-sky-in-your-eyes.json) |
@@ -26815,6 +26817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Christmas Puzzles | 155585 | [155585-super-jigsaw-puzzle-generations-christmas-puzzles.json](./155585-super-jigsaw-puzzle-generations-christmas-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Cities 2 | 235728 | [235728-super-jigsaw-puzzle-generations-cities-2.json](./235728-super-jigsaw-puzzle-generations-cities-2.json) |
 | Super Jigsaw Puzzle: Generations - Colorful | 155580 | [155580-super-jigsaw-puzzle-generations-colorful.json](./155580-super-jigsaw-puzzle-generations-colorful.json) |
+| Super Jigsaw Puzzle: Generations - Colorful 3 | 275428 | [275428-super-jigsaw-puzzle-generations-colorful-3.json](./275428-super-jigsaw-puzzle-generations-colorful-3.json) |
 | Super Jigsaw Puzzle: Generations - Desert | 253843 | [253843-super-jigsaw-puzzle-generations-desert.json](./253843-super-jigsaw-puzzle-generations-desert.json) |
 | Super Jigsaw Puzzle: Generations - Dogs 2 | 293064 | [293064-super-jigsaw-puzzle-generations-dogs-2.json](./293064-super-jigsaw-puzzle-generations-dogs-2.json) |
 | Super Jigsaw Puzzle: Generations - Dogs Puzzles | 155619 | [155619-super-jigsaw-puzzle-generations-dogs-puzzles.json](./155619-super-jigsaw-puzzle-generations-dogs-puzzles.json) |
@@ -29255,6 +29258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Bowling | 262340 | [262340-survival-bowling.json](./262340-survival-bowling.json) |
 | Survival Bunker | 268946 | [268946-survival-bunker.json](./268946-survival-bunker.json) |
 | Survival Camp | 127662 | [127662-survival-camp.json](./127662-survival-camp.json) |
+| Survival Circle | 275424 | [275424-survival-circle.json](./275424-survival-circle.json) |
 | Survival City | 239564 | [239564-survival-city.json](./239564-survival-city.json) |
 | Survival City | 346260 | [346260-survival-city.json](./346260-survival-city.json) |
 | Survival Classic | 369530 | [369530-survival-classic.json](./369530-survival-classic.json) |
