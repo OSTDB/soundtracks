@@ -4873,6 +4873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escapee GO! | 67059 | [67059-escapee-go.json](./67059-escapee-go.json) |
 | EscapeeZ | 117783 | [117783-escapeez.json](./117783-escapeez.json) |
 | Escapeland | 264714 | [264714-escapeland.json](./264714-escapeland.json) |
+| EscapeMono | 273502 | [273502-escapemono.json](./273502-escapemono.json) |
 | Escapen't | 267801 | [267801-escapent.json](./267801-escapent.json) |
 | Escapepion | 221079 | [221079-escapepion.json](./221079-escapepion.json) |
 | EscapeRoute | 115507 | [115507-escaperoute.json](./115507-escaperoute.json) |
