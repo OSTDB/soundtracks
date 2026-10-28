@@ -7018,6 +7018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AmaranTime | 30172 | [30172-amarantime.json](./30172-amarantime.json) |
 | Amaranto | 170245 | [170245-amaranto.json](./170245-amaranto.json) |
 | Amarantus | 201324 | [201324-amarantus.json](./201324-amarantus.json) |
+| Amare Inversus | 259703 | [259703-amare-inversus.json](./259703-amare-inversus.json) |
 | Amare Magia | 401186 | [401186-amare-magia.json](./401186-amare-magia.json) |
 | Amarela | 323423 | [323423-amarela.json](./323423-amarela.json) |
 | Amarillo Slim Dealer's Choice | 71329 | [71329-amarillo-slim-dealers-choice.json](./71329-amarillo-slim-dealers-choice.json) |
