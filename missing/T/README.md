@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of the Shadow World | 267681 | [267681-tale-of-the-shadow-world.json](./267681-tale-of-the-shadow-world.json) |
 | Tale of the Singing Peaks | 301846 | [301846-tale-of-the-singing-peaks.json](./301846-tale-of-the-singing-peaks.json) |
 | Tale of Toast | 56147 | [56147-tale-of-toast.json](./56147-tale-of-toast.json) |
+| Tale of Two Cranes | 263062 | [263062-tale-of-two-cranes.json](./263062-tale-of-two-cranes.json) |
 | Tale of Two Sardines | 219564 | [219564-tale-of-two-sardines.json](./219564-tale-of-two-sardines.json) |
 | Tale of Two Sides | 309133 | [309133-tale-of-two-sides.json](./309133-tale-of-two-sides.json) |
 | Tale of Wuxia | 58616 | [58616-tale-of-wuxia.json](./58616-tale-of-wuxia.json) |
@@ -6048,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Callisto Protocol: Riot Bundle | 272560 | [272560-the-callisto-protocol-riot-bundle.json](./272560-the-callisto-protocol-riot-bundle.json) |
 | The Cameraman | 343145 | [343145-the-cameraman.json](./343145-the-cameraman.json) |
 | The Cameron Files - Loch Ness | 53708 | [53708-the-cameron-files-loch-ness.json](./53708-the-cameron-files-loch-ness.json) |
+| The Camp | 262772 | [262772-the-camp.json](./262772-the-camp.json) |
 | The Campaign Series: Fall Weiss | 36457 | [36457-the-campaign-series-fall-weiss.json](./36457-the-campaign-series-fall-weiss.json) |
 | The Campsite | 326605 | [326605-the-campsite.json](./326605-the-campsite.json) |
 | The Canals of Mars | 73349 | [73349-the-canals-of-mars.json](./73349-the-canals-of-mars.json) |
@@ -6818,6 +6820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Tape | 302677 | [302677-the-cursed-tape.json](./302677-the-cursed-tape.json) |
 | The Cursed Tower | 83617 | [83617-the-cursed-tower.json](./83617-the-cursed-tower.json) |
 | The Cursed Underground Parking Lot | 344351 | [344351-the-cursed-underground-parking-lot.json](./344351-the-cursed-underground-parking-lot.json) |
+| The Cursed Village TD | 263080 | [263080-the-cursed-village-td.json](./263080-the-cursed-village-td.json) |
 | The Cursewood | 240720 | [240720-the-cursewood.json](./240720-the-cursewood.json) |
 | The Cursor Game | 292260 | [292260-the-cursor-game.json](./292260-the-cursor-game.json) |
 | The Customer is Always Right! | 255270 | [255270-the-customer-is-always-right.json](./255270-the-customer-is-always-right.json) |
@@ -8908,6 +8911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Hero's Cat | 209605 | [209605-the-great-heros-cat.json](./209605-the-great-heros-cat.json) |
 | The Great Hide n Seek Expawdition | 149727 | [149727-the-great-hide-n-seek-expawdition.json](./149727-the-great-hide-n-seek-expawdition.json) |
 | The Great House Escape | 386220 | [386220-the-great-house-escape.json](./386220-the-great-house-escape.json) |
+| The Great Hunt | 262778 | [262778-the-great-hunt.json](./262778-the-great-hunt.json) |
 | The Great I Am | 343419 | [343419-the-great-i-am.json](./343419-the-great-i-am.json) |
 | The Great Indian Safari | 387415 | [387415-the-great-indian-safari.json](./387415-the-great-indian-safari.json) |
 | The Great Language Game | 58488 | [58488-the-great-language-game.json](./58488-the-great-language-game.json) |
