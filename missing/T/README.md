@@ -2975,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Shadow Heroes | 60961 | [60961-teenage-mutant-ninja-turtles-shadow-heroes.json](./60961-teenage-mutant-ninja-turtles-shadow-heroes.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Limited Edition | 207919 | [207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json](./207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles | 317624 | [317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json](./317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json) |
+| Teenage Mutant Ninja Turtles: Shredder's Revenge - Special Edition | 249964 | [249964-teenage-mutant-ninja-turtles-shredders-revenge-special-edition.json](./249964-teenage-mutant-ninja-turtles-shredders-revenge-special-edition.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Ultimate Edition | 317919 | [317919-teenage-mutant-ninja-turtles-shredders-revenge-ultimate-edition.json](./317919-teenage-mutant-ninja-turtles-shredders-revenge-ultimate-edition.json) |
 | Teenage Mutant Ninja Turtles: Smash-Up | 326787 | [326787-teenage-mutant-ninja-turtles-smash-up.json](./326787-teenage-mutant-ninja-turtles-smash-up.json) |
 | Teenage Mutant Ninja Turtles: Smash-Up | 5214 | [5214-teenage-mutant-ninja-turtles-smash-up.json](./5214-teenage-mutant-ninja-turtles-smash-up.json) |
@@ -4464,6 +4465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text me when you get home | 179890 | [179890-text-me-when-you-get-home.json](./179890-text-me-when-you-get-home.json) |
 | Text RPG | 169740 | [169740-text-rpg.json](./169740-text-rpg.json) |
 | Text Tiles | 46564 | [46564-text-tiles.json](./46564-text-tiles.json) |
+| Text Twist Classic | 249956 | [249956-text-twist-classic.json](./249956-text-twist-classic.json) |
 | Text Twist Pro | 69109 | [69109-text-twist-pro.json](./69109-text-twist-pro.json) |
 | Text Wall | 339272 | [339272-text-wall.json](./339272-text-wall.json) |
 | Text Your Life | 339270 | [339270-text-your-life.json](./339270-text-your-life.json) |
@@ -12581,6 +12583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Olympics | 13260 | [13260-the-olympics.json](./13260-the-olympics.json) |
 | The Omega Reach | 404351 | [404351-the-omega-reach.json](./404351-the-omega-reach.json) |
 | The Omega Stone: Riddle of the Sphinx II | 71524 | [71524-the-omega-stone-riddle-of-the-sphinx-ii.json](./71524-the-omega-stone-riddle-of-the-sphinx-ii.json) |
+| The Omins | 249959 | [249959-the-omins.json](./249959-the-omins.json) |
 | The OmniGallery | 158412 | [158412-the-omnigallery.json](./158412-the-omnigallery.json) |
 | The One | 289973 | [289973-the-one.json](./289973-the-one.json) |
 | The One | 297439 | [297439-the-one.json](./297439-the-one.json) |
@@ -12982,6 +12985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Piratescape | 176451 | [176451-the-piratescape.json](./176451-the-piratescape.json) |
 | The Pit | 213417 | [213417-the-pit.json](./213417-the-pit.json) |
 | The Pit | 23513 | [23513-the-pit.json](./23513-the-pit.json) |
+| The Pit | 250539 | [250539-the-pit.json](./250539-the-pit.json) |
 | The Pit | 351422 | [351422-the-pit.json](./351422-the-pit.json) |
 | The Pit | 78596 | [78596-the-pit.json](./78596-the-pit.json) |
 | The Pit and the Pendulum | 32957 | [32957-the-pit-and-the-pendulum.json](./32957-the-pit-and-the-pendulum.json) |
@@ -14571,6 +14575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slaverian Trucker | 185636 | [185636-the-slaverian-trucker.json](./185636-the-slaverian-trucker.json) |
 | The Slaying of Sandy Hook Elementary | 238966 | [238966-the-slaying-of-sandy-hook-elementary.json](./238966-the-slaying-of-sandy-hook-elementary.json) |
 | The Sledge of Rahmul and Merlin's Treasure | 69479 | [69479-the-sledge-of-rahmul-and-merlins-treasure.json](./69479-the-sledge-of-rahmul-and-merlins-treasure.json) |
+| The Sleep Experiment | 250982 | [250982-the-sleep-experiment.json](./250982-the-sleep-experiment.json) |
 | The Sleeping Light | 255513 | [255513-the-sleeping-light.json](./255513-the-sleeping-light.json) |
 | The Sleeping Sickness | 299811 | [299811-the-sleeping-sickness.json](./299811-the-sleeping-sickness.json) |
 | The Slime | 195476 | [195476-the-slime.json](./195476-the-slime.json) |
@@ -16317,6 +16322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warp: Cephisso | 351641 | [351641-the-warp-cephisso.json](./351641-the-warp-cephisso.json) |
 | The Warrens | 373224 | [373224-the-warrens.json](./373224-the-warrens.json) |
 | The Warrior | 116877 | [116877-the-warrior.json](./116877-the-warrior.json) |
+| The Warrior | 250976 | [250976-the-warrior.json](./250976-the-warrior.json) |
 | The Warrior of Treasures | 81776 | [81776-the-warrior-of-treasures.json](./81776-the-warrior-of-treasures.json) |
 | The Warrior of Treasures 2: Skull Hunter | 107804 | [107804-the-warrior-of-treasures-2-skull-hunter.json](./107804-the-warrior-of-treasures-2-skull-hunter.json) |
 | The Warrior of Wisdom | 173784 | [173784-the-warrior-of-wisdom.json](./173784-the-warrior-of-wisdom.json) |
@@ -17781,6 +17787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrillville: Off the Rails | 281902 | [281902-thrillville-off-the-rails.json](./281902-thrillville-off-the-rails.json) |
 | Thrillville: Off the Rails | 322364 | [322364-thrillville-off-the-rails.json](./322364-thrillville-off-the-rails.json) |
 | Thrive | 142499 | [142499-thrive.json](./142499-thrive.json) |
+| Thrive | 250154 | [250154-thrive.json](./250154-thrive.json) |
 | Thrive: Heavy Lies the Crown | 190494 | [190494-thrive-heavy-lies-the-crown.json](./190494-thrive-heavy-lies-the-crown.json) |
 | Thro' The Wall also Scramble | 319600 | [319600-thro-the-wall-also-scramble.json](./319600-thro-the-wall-also-scramble.json) |
 | Throb of Lovegirl: A Ero Waifu TD | 175983 | [175983-throb-of-lovegirl-a-ero-waifu-td.json](./175983-throb-of-lovegirl-a-ero-waifu-td.json) |
@@ -19711,6 +19718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiltfire | 199604 | [199604-tiltfire.json](./199604-tiltfire.json) |
 | Tilting | 416794 | [416794-tilting.json](./416794-tilting.json) |
 | Tilting Tiles: Fires of Industry | 319945 | [319945-tilting-tiles-fires-of-industry.json](./319945-tilting-tiles-fires-of-industry.json) |
+| Tilting Tiles: Micro Challenge | 250553 | [250553-tilting-tiles-micro-challenge.json](./250553-tilting-tiles-micro-challenge.json) |
 | TiltMaze | 90727 | [90727-tiltmaze.json](./90727-tiltmaze.json) |
 | Tiltoff | 141803 | [141803-tiltoff.json](./141803-tiltoff.json) |
 | Tiltspace | 167673 | [167673-tiltspace.json](./167673-tiltspace.json) |
@@ -22273,6 +22281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Trumps: Dogs & Dinosaurs | 64221 | [64221-top-trumps-dogs-and-dinosaurs.json](./64221-top-trumps-dogs-and-dinosaurs.json) |
 | Top Trumps: NBA All Stars | 6904 | [6904-top-trumps-nba-all-stars.json](./6904-top-trumps-nba-all-stars.json) |
 | Top Trumps: US Presidents | 57553 | [57553-top-trumps-us-presidents.json](./57553-top-trumps-us-presidents.json) |
+| Top Villain: Total Domination | 250749 | [250749-top-villain-total-domination.json](./250749-top-villain-total-domination.json) |
 | Top Web Search 23 | 283719 | [283719-top-web-search-23.json](./283719-top-web-search-23.json) |
 | Top wo Nerae: Cybernetic High-School III | 66210 | [66210-top-wo-nerae-cybernetic-high-school-iii.json](./66210-top-wo-nerae-cybernetic-high-school-iii.json) |
 | Topa ou Não Topa | 278830 | [278830-topa-ou-nao-topa.json](./278830-topa-ou-nao-topa.json) |
@@ -23998,6 +24007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracks and Turrets | 110247 | [110247-tracks-and-turrets.json](./110247-tracks-and-turrets.json) |
 | Tracks n' Turrets | 272899 | [272899-tracks-n-turrets.json](./272899-tracks-n-turrets.json) |
 | Tracks of Thought | 136982 | [136982-tracks-of-thought.json](./136982-tracks-of-thought.json) |
+| Tracks of Triumph | 250402 | [250402-tracks-of-triumph.json](./250402-tracks-of-triumph.json) |
 | Tracks of Triumph Retro Blast | 252889 | [252889-tracks-of-triumph-retro-blast.json](./252889-tracks-of-triumph-retro-blast.json) |
 | Tracks of Triumph: Good Old Times | 29886 | [29886-tracks-of-triumph-good-old-times.json](./29886-tracks-of-triumph-good-old-times.json) |
 | Tracks: The Train Set Game | 39748 | [39748-tracks-the-train-set-game.json](./39748-tracks-the-train-set-game.json) |
@@ -26470,6 +26480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triad | 297437 | [297437-triad.json](./297437-triad.json) |
 | Triad | 304367 | [304367-triad.json](./304367-triad.json) |
 | Triad | 54692 | [54692-triad.json](./54692-triad.json) |
+| Triad Ball | 250551 | [250551-triad-ball.json](./250551-triad-ball.json) |
 | Triad Stone | 63931 | [63931-triad-stone.json](./63931-triad-stone.json) |
 | Triad Volume 1 | 93153 | [93153-triad-volume-1.json](./93153-triad-volume-1.json) |
 | Triad Volume 2 | 78888 | [78888-triad-volume-2.json](./78888-triad-volume-2.json) |
@@ -27484,6 +27495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Love: Confide to the Maple | 32266 | [32266-true-love-confide-to-the-maple.json](./32266-true-love-confide-to-the-maple.json) |
 | True Lover's Knot | 34095 | [34095-true-lovers-knot.json](./34095-true-lovers-knot.json) |
 | True Matrix Total Conversion | 218654 | [218654-true-matrix-total-conversion.json](./218654-true-matrix-total-conversion.json) |
+| True Maze Defiance | 250538 | [250538-true-maze-defiance.json](./250538-true-maze-defiance.json) |
 | True Nightmare: Diner Loop | 413209 | [413209-true-nightmare-diner-loop.json](./413209-true-nightmare-diner-loop.json) |
 | True Nightmare: Roadside Сafe | 319642 | [319642-true-nightmare-roadside-afe.json](./319642-true-nightmare-roadside-afe.json) |
 | True North | 120030 | [120030-true-north.json](./120030-true-north.json) |
@@ -27499,6 +27511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Reporter: Mystery of Mistwood | 278000 | [278000-true-reporter-mystery-of-mistwood.json](./278000-true-reporter-mystery-of-mistwood.json) |
 | True Speed | 223880 | [223880-true-speed.json](./223880-true-speed.json) |
 | True Stalker | 280962 | [280962-true-stalker.json](./280962-true-stalker.json) |
+| True Survivors Bundle | 250556 | [250556-true-survivors-bundle.json](./250556-true-survivors-bundle.json) |
 | True Swing Golf | 20493 | [20493-true-swing-golf.json](./20493-true-swing-golf.json) |
 | True Swing Golf Express | 84482 | [84482-true-swing-golf-express.json](./84482-true-swing-golf-express.json) |
 | True Tears | 166455 | [166455-true-tears.json](./166455-true-tears.json) |
