@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 07 | 248771 | [248771-nba-live-07.json](./248771-nba-live-07.json) |
 | NBA Live 07 | 248772 | [248772-nba-live-07.json](./248772-nba-live-07.json) |
 | NBA Live 07 | 5951 | [5951-nba-live-07.json](./5951-nba-live-07.json) |
+| NBA Live 08 | 229283 | [229283-nba-live-08.json](./229283-nba-live-08.json) |
 | NBA Live 08 | 248773 | [248773-nba-live-08.json](./248773-nba-live-08.json) |
 | NBA Live 08 | 248774 | [248774-nba-live-08.json](./248774-nba-live-08.json) |
 | NBA Live 08 | 248775 | [248775-nba-live-08.json](./248775-nba-live-08.json) |
@@ -3358,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 27: Deluxe Edition | 410860 | [410860-nhl-27-deluxe-edition.json](./410860-nhl-27-deluxe-edition.json) |
 | NHL 2K | 128897 | [128897-nhl-2k.json](./128897-nhl-2k.json) |
 | NHL 2K | 8839 | [8839-nhl-2k.json](./8839-nhl-2k.json) |
+| NHL 2K10 | 229285 | [229285-nhl-2k10.json](./229285-nhl-2k10.json) |
 | NHL 2K10 | 287014 | [287014-nhl-2k10.json](./287014-nhl-2k10.json) |
 | NHL 2K2 | 8840 | [8840-nhl-2k2.json](./8840-nhl-2k2.json) |
 | NHL 2K3 | 4045 | [4045-nhl-2k3.json](./4045-nhl-2k3.json) |
@@ -4416,6 +4418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Flip | 300856 | [300856-ninja-flip.json](./300856-ninja-flip.json) |
 | Ninja Forest Maze | 274963 | [274963-ninja-forest-maze.json](./274963-ninja-forest-maze.json) |
 | Ninja Frog | 93523 | [93523-ninja-frog.json](./93523-ninja-frog.json) |
+| Ninja Froggies | 229277 | [229277-ninja-froggies.json](./229277-ninja-froggies.json) |
 | Ninja Frogs | 294193 | [294193-ninja-frogs.json](./294193-ninja-frogs.json) |
 | Ninja from Hell vs. Reptiloids | 105346 | [105346-ninja-from-hell-vs-reptiloids.json](./105346-ninja-from-hell-vs-reptiloids.json) |
 | Ninja Fun | 213897 | [213897-ninja-fun.json](./213897-ninja-fun.json) |
