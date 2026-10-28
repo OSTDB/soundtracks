@@ -1810,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator 2018 | 40470 | [40470-car-mechanic-simulator-2018.json](./40470-car-mechanic-simulator-2018.json) |
 | Car Mechanic Simulator 2021 | 152604 | [152604-car-mechanic-simulator-2021.json](./152604-car-mechanic-simulator-2021.json) |
 | Car Mechanic Simulator 2021: BMW DLC | 276213 | [276213-car-mechanic-simulator-2021-bmw-dlc.json](./276213-car-mechanic-simulator-2021-bmw-dlc.json) |
+| Car Mechanic Simulator 2021: Dodge, Plymouth, Chrysler Remastered | 254278 | [254278-car-mechanic-simulator-2021-dodge-plymouth-chrysler-remastered.json](./254278-car-mechanic-simulator-2021-dodge-plymouth-chrysler-remastered.json) |
 | Car Mechanic Simulator 2021: Drag Racing | 225229 | [225229-car-mechanic-simulator-2021-drag-racing.json](./225229-car-mechanic-simulator-2021-drag-racing.json) |
 | Car Mechanic Simulator 2021: Ford Remastered DLC | 331811 | [331811-car-mechanic-simulator-2021-ford-remastered-dlc.json](./331811-car-mechanic-simulator-2021-ford-remastered-dlc.json) |
 | Car Mechanic Simulator 2021: Jeep RAM Remastered | 296266 | [296266-car-mechanic-simulator-2021-jeep-ram-remastered.json](./296266-car-mechanic-simulator-2021-jeep-ram-remastered.json) |
@@ -3756,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatDog | 217951 | [217951-catdog.json](./217951-catdog.json) |
 | CatDog on Parade | 325082 | [325082-catdog-on-parade.json](./325082-catdog-on-parade.json) |
 | CatDog: Quest for the Golden Hydrant | 7569 | [7569-catdog-quest-for-the-golden-hydrant.json](./7569-catdog-quest-for-the-golden-hydrant.json) |
+| Cate P | 254629 | [254629-cate-p.json](./254629-cate-p.json) |
 | Cate West: The Velvet Keys | 200491 | [200491-cate-west-the-velvet-keys.json](./200491-cate-west-the-velvet-keys.json) |
 | Catechesis | 276693 | [276693-catechesis.json](./276693-catechesis.json) |
 | Catechumen | 84468 | [84468-catechumen.json](./84468-catechumen.json) |
@@ -9613,6 +9615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coded Arms: Assault | 137876 | [137876-coded-arms-assault.json](./137876-coded-arms-assault.json) |
 | Coded Black | 347784 | [347784-coded-black.json](./347784-coded-black.json) |
 | Coded Soul: Uketsugareshi Idea | 67801 | [67801-coded-soul-uketsugareshi-idea.json](./67801-coded-soul-uketsugareshi-idea.json) |
+| Coded Soul: Uketsunagareshi Idea | 254635 | [254635-coded-soul-uketsunagareshi-idea.json](./254635-coded-soul-uketsunagareshi-idea.json) |
 | Codedoor | 281997 | [281997-codedoor.json](./281997-codedoor.json) |
 | Codemakers | 193411 | [193411-codemakers.json](./193411-codemakers.json) |
 | Codemancer | 121400 | [121400-codemancer.json](./121400-codemancer.json) |
