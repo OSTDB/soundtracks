@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rangerdog | 152160 | [152160-rangerdog.json](./152160-rangerdog.json) |
 | Rangers | 138744 | [138744-rangers.json](./138744-rangers.json) |
 | Rangers Club Football | 267876 | [267876-rangers-club-football.json](./267876-rangers-club-football.json) |
+| Rangers Club Football 2005 | 269396 | [269396-rangers-club-football-2005.json](./269396-rangers-club-football-2005.json) |
 | Rangers Football Coach Season 2001-2002 | 59385 | [59385-rangers-football-coach-season-2001-2002.json](./59385-rangers-football-coach-season-2001-2002.json) |
 | Rangers of Oblivion | 113636 | [113636-rangers-of-oblivion.json](./113636-rangers-of-oblivion.json) |
 | RangerSteve.io | 56400 | [56400-rangersteve-io.json](./56400-rangersteve-io.json) |
