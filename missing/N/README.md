@@ -4821,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niva | 97303 | [97303-niva.json](./97303-niva.json) |
 | Nivalis Nights | 203301 | [203301-nivalis-nights.json](./203301-nivalis-nights.json) |
 | Nivoz Running Canned | 244249 | [244249-nivoz-running-canned.json](./244249-nivoz-running-canned.json) |
+| Niwa: Japanese Garden Simulator | 275420 | [275420-niwa-japanese-garden-simulator.json](./275420-niwa-japanese-garden-simulator.json) |
 | Niwatori ni Natta Ore: Kodoku na Majou to no Itsuka-kan | 258101 | [258101-niwatori-ni-natta-ore-kodoku-na-majou-to-no-itsuka-kan.json](./258101-niwatori-ni-natta-ore-kodoku-na-majou-to-no-itsuka-kan.json) |
 | Nix Umbra | 158504 | [158504-nix-umbra.json](./158504-nix-umbra.json) |
 | Nix: Ashes of the Phoenix | 242601 | [242601-nix-ashes-of-the-phoenix.json](./242601-nix-ashes-of-the-phoenix.json) |
