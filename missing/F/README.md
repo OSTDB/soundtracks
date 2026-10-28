@@ -6691,6 +6691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Champions Summer Sports | 86871 | [86871-flick-champions-summer-sports.json](./86871-flick-champions-summer-sports.json) |
 | Flick Champions XS | 88646 | [88646-flick-champions-xs.json](./88646-flick-champions-xs.json) |
 | Flick Chess! | 223937 | [223937-flick-chess.json](./223937-flick-chess.json) |
+| Flick Cola | 232615 | [232615-flick-cola.json](./232615-flick-cola.json) |
 | Flick Erasers Battle Royale | 315834 | [315834-flick-erasers-battle-royale.json](./315834-flick-erasers-battle-royale.json) |
 | Flick Field Goal 16 | 58208 | [58208-flick-field-goal-16.json](./58208-flick-field-goal-16.json) |
 | Flick Fishing | 79238 | [79238-flick-fishing.json](./79238-flick-fishing.json) |
@@ -7893,6 +7894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fool's Paradise | 149410 | [149410-fools-paradise.json](./149410-fools-paradise.json) |
 | Fool's Paradise | 293051 | [293051-fools-paradise.json](./293051-fools-paradise.json) |
 | Fool's Pub | 325264 | [325264-fools-pub.json](./325264-fools-pub.json) |
+| Foolball | 232603 | [232603-foolball.json](./232603-foolball.json) |
 | FoolHut Pack: 3 games in 1 | 295123 | [295123-foolhut-pack-3-games-in-1.json](./295123-foolhut-pack-3-games-in-1.json) |
 | Fooling Dead | 392709 | [392709-fooling-dead.json](./392709-fooling-dead.json) |
 | Foolish Earthlings! | 362789 | [362789-foolish-earthlings.json](./362789-foolish-earthlings.json) |
