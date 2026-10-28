@@ -6078,6 +6078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing.SeriOS | 319035 | [319035-nothing-serios.json](./319035-nothing-serios.json) |
 | Nothmere | 387715 | [387715-nothmere.json](./387715-nothmere.json) |
 | NotHog | 275673 | [275673-nothog.json](./275673-nothog.json) |
+| Nothorian | 260269 | [260269-nothorian.json](./260269-nothorian.json) |
 | Notice | 277337 | [277337-notice.json](./277337-notice.json) |
 | Notice Me Senpai | 403753 | [403753-notice-me-senpai.json](./403753-notice-me-senpai.json) |
 | Notice Period | 177785 | [177785-notice-period.json](./177785-notice-period.json) |
