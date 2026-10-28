@@ -10422,6 +10422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sker Ritual: Skerville Slasher | 322721 | [322721-sker-ritual-skerville-slasher.json](./322721-sker-ritual-skerville-slasher.json) |
 | Sker Ritual: Stranger Danger | 241317 | [241317-sker-ritual-stranger-danger.json](./241317-sker-ritual-stranger-danger.json) |
 | Sker Ritual: The Quiet Ones | 235843 | [235843-sker-ritual-the-quiet-ones.json](./235843-sker-ritual-the-quiet-ones.json) |
+| Skera VR | 237026 | [237026-skera-vr.json](./237026-skera-vr.json) |
 | Sketch | 245121 | [245121-sketch.json](./245121-sketch.json) |
 | Sketch Crawler | 189353 | [189353-sketch-crawler.json](./189353-sketch-crawler.json) |
 | Sketch Doom | 247518 | [247518-sketch-doom.json](./247518-sketch-doom.json) |
@@ -17087,6 +17088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Marshals Collection | 327207 | [327207-space-marshals-collection.json](./327207-space-marshals-collection.json) |
 | Space Mash | 366877 | [366877-space-mash.json](./366877-space-mash.json) |
 | Space Master | 292440 | [292440-space-master.json](./292440-space-master.json) |
+| Space Max | 236975 | [236975-space-max.json](./236975-space-max.json) |
 | Space Mayhem | 113039 | [113039-space-mayhem.json](./113039-space-mayhem.json) |
 | Space Maze | 103021 | [103021-space-maze.json](./103021-space-maze.json) |
 | Space Maze | 260322 | [260322-space-maze.json](./260322-space-maze.json) |
@@ -20931,6 +20933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Quest 1 in the 27th Century | 14511 | [14511-star-quest-1-in-the-27th-century.json](./14511-star-quest-1-in-the-27th-century.json) |
 | Star Quest: TCG | 101702 | [101702-star-quest-tcg.json](./101702-star-quest-tcg.json) |
 | Star Quiz Airline Two-Choice Universe | 386376 | [386376-star-quiz-airline-two-choice-universe.json](./386376-star-quiz-airline-two-choice-universe.json) |
+| Star Rabbits | 237027 | [237027-star-rabbits.json](./237027-star-rabbits.json) |
 | Star Racer | 270085 | [270085-star-racer.json](./270085-star-racer.json) |
 | Star Rage VR | 68697 | [68697-star-rage-vr.json](./68697-star-rage-vr.json) |
 | Star Raiders | 2217 | [2217-star-raiders.json](./2217-star-raiders.json) |
@@ -28378,6 +28381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Wars Y: DLC 1 - Contract from the Darkness | 375171 | [375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json](./375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json) |
 | Super Robot Wars Y: DLC 2 - Awakening of a Soul | 375172 | [375172-super-robot-wars-y-dlc-2-awakening-of-a-soul.json](./375172-super-robot-wars-y-dlc-2-awakening-of-a-soul.json) |
 | Super Robot Wars Y: Ultimate Edition | 356810 | [356810-super-robot-wars-y-ultimate-edition.json](./356810-super-robot-wars-y-ultimate-edition.json) |
+| Super Roboy | 237012 | [237012-super-roboy.json](./237012-super-roboy.json) |
 | Super Rock Blasters! | 31959 | [31959-super-rock-blasters.json](./31959-super-rock-blasters.json) |
 | Super Rocket Monkey | 389130 | [389130-super-rocket-monkey.json](./389130-super-rocket-monkey.json) |
 | Super Rocket Pets | 320155 | [320155-super-rocket-pets.json](./320155-super-rocket-pets.json) |
@@ -30545,6 +30549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swimmer Admiration | 169093 | [169093-swimmer-admiration.json](./169093-swimmer-admiration.json) |
 | Swimmer Away | 347354 | [347354-swimmer-away.json](./347354-swimmer-away.json) |
 | Swimming Dynasty | 258024 | [258024-swimming-dynasty.json](./258024-swimming-dynasty.json) |
+| Swimming Poo | 237015 | [237015-swimming-poo.json](./237015-swimming-poo.json) |
 | Swimming Pool Cleaner | 219561 | [219561-swimming-pool-cleaner.json](./219561-swimming-pool-cleaner.json) |
 | Swimming with Humpbacks | 117463 | [117463-swimming-with-humpbacks.json](./117463-swimming-with-humpbacks.json) |
 | Swimpossible! | 366238 | [366238-swimpossible.json](./366238-swimpossible.json) |
