@@ -2449,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastry Lovers | 30029 | [30029-pastry-lovers.json](./30029-pastry-lovers.json) |
 | Pastry Wars | 91730 | [91730-pastry-wars.json](./91730-pastry-wars.json) |
 | Pasture Palette | 374251 | [374251-pasture-palette.json](./374251-pasture-palette.json) |
+| Pasture: The Livestock Simulator | 264740 | [264740-pasture-the-livestock-simulator.json](./264740-pasture-the-livestock-simulator.json) |
 | Pat & Mat | 16210 | [16210-pat-and-mat.json](./16210-pat-and-mat.json) |
 | Pat Pat Cat | 387590 | [387590-pat-pat-cat.json](./387590-pat-pat-cat.json) |
 | Pat Riley Basketball | 28020 | [28020-pat-riley-basketball.json](./28020-pat-riley-basketball.json) |
@@ -14716,6 +14717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puckman | 47280 | [47280-puckman.json](./47280-puckman.json) |
 | Puckoff | 191060 | [191060-puckoff.json](./191060-puckoff.json) |
 | Puda + The Kid | 263198 | [263198-puda-the-kid.json](./263198-puda-the-kid.json) |
+| Pudding | 264725 | [264725-pudding.json](./264725-pudding.json) |
 | Pudding | 312022 | [312022-pudding.json](./312022-pudding.json) |
 | Pudding Bang 2 | 246259 | [246259-pudding-bang-2.json](./246259-pudding-bang-2.json) |
 | Pudding Chess | 241866 | [241866-pudding-chess.json](./241866-pudding-chess.json) |
