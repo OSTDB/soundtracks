@@ -2029,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save The Bear Cubs | 367564 | [367564-save-the-bear-cubs.json](./367564-save-the-bear-cubs.json) |
 | Save the Body | 190466 | [190466-save-the-body.json](./190466-save-the-body.json) |
 | Save The Castle! | 294062 | [294062-save-the-castle.json](./294062-save-the-castle.json) |
+| Save the City | 233164 | [233164-save-the-city.json](./233164-save-the-city.json) |
 | Save the City | 359440 | [359440-save-the-city.json](./359440-save-the-city.json) |
 | Save the Clock Tower | 311325 | [311325-save-the-clock-tower.json](./311325-save-the-clock-tower.json) |
 | Save the Creatures | 34194 | [34194-save-the-creatures.json](./34194-save-the-creatures.json) |
@@ -4488,6 +4489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seiya Monogatari: Anearth Fantasy Stories | 65978 | [65978-seiya-monogatari-anearth-fantasy-stories.json](./65978-seiya-monogatari-anearth-fantasy-stories.json) |
 | Seiya Online | 144251 | [144251-seiya-online.json](./144251-seiya-online.json) |
 | Seiyuu Danshi!: After Stories | 224471 | [224471-seiyuu-danshi-after-stories.json](./224471-seiyuu-danshi-after-stories.json) |
+| Seize Halloween Knight | 233186 | [233186-seize-halloween-knight.json](./233186-seize-halloween-knight.json) |
 | Seize the Cheese | 386875 | [386875-seize-the-cheese.json](./386875-seize-the-cheese.json) |
 | Seize the Clay | 118957 | [118957-seize-the-clay.json](./118957-seize-the-clay.json) |
 | Seize The Elixir | 377941 | [377941-seize-the-elixir.json](./377941-seize-the-elixir.json) |
@@ -8020,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopper's Paradise | 70404 | [70404-shoppers-paradise.json](./70404-shoppers-paradise.json) |
 | Shoppigeons | 181749 | [181749-shoppigeons.json](./181749-shoppigeons.json) |
 | Shopping Benfica | 298426 | [298426-shopping-benfica.json](./298426-shopping-benfica.json) |
+| Shopping Cart Defense | 233198 | [233198-shopping-cart-defense.json](./233198-shopping-cart-defense.json) |
 | Shopping Cart Hero 2 | 388042 | [388042-shopping-cart-hero-2.json](./388042-shopping-cart-hero-2.json) |
 | Shopping Cart Pusher | 414831 | [414831-shopping-cart-pusher.json](./414831-shopping-cart-pusher.json) |
 | Shopping Clutter 10: The Walkers Take the Stage | 281899 | [281899-shopping-clutter-10-the-walkers-take-the-stage.json](./281899-shopping-clutter-10-the-walkers-take-the-stage.json) |
@@ -11232,6 +11235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Fighter II | 75172 | [75172-slam-fighter-ii.json](./75172-slam-fighter-ii.json) |
 | Slam Jump | 250182 | [250182-slam-jump.json](./250182-slam-jump.json) |
 | Slam Land | 98407 | [98407-slam-land.json](./98407-slam-land.json) |
+| Slam Mania | 233163 | [233163-slam-mania.json](./233163-slam-mania.json) |
 | Slam Poets | 399698 | [399698-slam-poets.json](./399698-slam-poets.json) |
 | Slam Racer | 270277 | [270277-slam-racer.json](./270277-slam-racer.json) |
 | Slam Tank | 419874 | [419874-slam-tank.json](./419874-slam-tank.json) |
@@ -11442,6 +11446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Clock: Record and Analyse Your Sleep Patterns | 84883 | [84883-sleep-clock-record-and-analyse-your-sleep-patterns.json](./84883-sleep-clock-record-and-analyse-your-sleep-patterns.json) |
 | Sleep Cycles | 144742 | [144742-sleep-cycles.json](./144742-sleep-cycles.json) |
 | Sleep Herd | 348138 | [348138-sleep-herd.json](./348138-sleep-herd.json) |
+| Sleep In Office | 233178 | [233178-sleep-in-office.json](./233178-sleep-in-office.json) |
 | Sleep Is Death | 20664 | [20664-sleep-is-death.json](./20664-sleep-is-death.json) |
 | Sleep Paralysis | 121564 | [121564-sleep-paralysis.json](./121564-sleep-paralysis.json) |
 | Sleep Paralysis: The Uncanny Valley | 196876 | [196876-sleep-paralysis-the-uncanny-valley.json](./196876-sleep-paralysis-the-uncanny-valley.json) |
@@ -13762,6 +13767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Super Star | 235119 | [235119-soccer-super-star.json](./235119-soccer-super-star.json) |
 | Soccer Superstar | 358393 | [358393-soccer-superstar.json](./358393-soccer-superstar.json) |
 | Soccer Superstars | 38837 | [38837-soccer-superstars.json](./38837-soccer-superstars.json) |
+| Soccer Swipe & Match 3 | 233160 | [233160-soccer-swipe-and-match-3.json](./233160-soccer-swipe-and-match-3.json) |
 | Soccer Team Manager: English and Italian Leagues | 93376 | [93376-soccer-team-manager-english-and-italian-leagues.json](./93376-soccer-team-manager-english-and-italian-leagues.json) |
 | Soccer Tsuku 2002 | 372581 | [372581-soccer-tsuku-2002.json](./372581-soccer-tsuku-2002.json) |
 | Soccer Tsuku DS: Touch and Direct | 65016 | [65016-soccer-tsuku-ds-touch-and-direct.json](./65016-soccer-tsuku-ds-touch-and-direct.json) |
@@ -17411,6 +17417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Struck Run | 113158 | [113158-space-struck-run.json](./113158-space-struck-run.json) |
 | Space Subtraction | 310971 | [310971-space-subtraction.json](./310971-space-subtraction.json) |
 | Space Supermarket Simulator | 356041 | [356041-space-supermarket-simulator.json](./356041-space-supermarket-simulator.json) |
+| Space Surf: Shark Attack | 233192 | [233192-space-surf-shark-attack.json](./233192-space-surf-shark-attack.json) |
 | Space Surveyor | 315812 | [315812-space-surveyor.json](./315812-space-surveyor.json) |
 | Space Survival | 171402 | [171402-space-survival.json](./171402-space-survival.json) |
 | Space Survival | 183863 | [183863-space-survival.json](./183863-space-survival.json) |
@@ -17981,6 +17988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Forces Strike: Tactical Swat Shooter | 290426 | [290426-special-forces-strike-tactical-swat-shooter.json](./290426-special-forces-strike-tactical-swat-shooter.json) |
 | Special Forces VR | 41964 | [41964-special-forces-vr.json](./41964-special-forces-vr.json) |
 | Special Forces War: Zombie Attack | 275538 | [275538-special-forces-war-zombie-attack.json](./275538-special-forces-war-zombie-attack.json) |
+| Special Forces-S | 233183 | [233183-special-forces-s.json](./233183-special-forces-s.json) |
 | Special Forces: Blackout | 417280 | [417280-special-forces-blackout.json](./417280-special-forces-blackout.json) |
 | Special Forces: Operation Blood II | 137424 | [137424-special-forces-operation-blood-ii.json](./137424-special-forces-operation-blood-ii.json) |
 | Special Forces: Team X | 16403 | [16403-special-forces-team-x.json](./16403-special-forces-team-x.json) |
@@ -22221,6 +22229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Start Your Engines Bundle | 173789 | [173789-start-your-engines-bundle.json](./173789-start-your-engines-bundle.json) |
 | Start-Up | 57654 | [57654-start-up.json](./57654-start-up.json) |
 | Start! Heart Thief | 165011 | [165011-start-heart-thief.json](./165011-start-heart-thief.json) |
+| Startales | 233152 | [233152-startales.json](./233152-startales.json) |
 | StartBolita | 35421 | [35421-startbolita.json](./35421-startbolita.json) |
 | Startenders: Intergalactic Bartending | 187509 | [187509-startenders-intergalactic-bartending.json](./187509-startenders-intergalactic-bartending.json) |
 | Starters Orders 4 Horse Racing: Jumps Edition | 175566 | [175566-starters-orders-4-horse-racing-jumps-edition.json](./175566-starters-orders-4-horse-racing-jumps-edition.json) |
@@ -23165,6 +23174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Slasher | 264615 | [264615-stick-slasher.json](./264615-stick-slasher.json) |
 | Stick Soldiers | 68700 | [68700-stick-soldiers.json](./68700-stick-soldiers.json) |
 | Stick Spartans | 102956 | [102956-stick-spartans.json](./102956-stick-spartans.json) |
+| Stick Sprint | 233169 | [233169-stick-sprint.json](./233169-stick-sprint.json) |
 | Stick Squad 3 | 101924 | [101924-stick-squad-3.json](./101924-stick-squad-3.json) |
 | Stick Stunt Biker | 289564 | [289564-stick-stunt-biker.json](./289564-stick-stunt-biker.json) |
 | Stick Tennis | 277566 | [277566-stick-tennis.json](./277566-stick-tennis.json) |
@@ -23214,6 +23224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Archer Fight | 86932 | [86932-stickman-archer-fight.json](./86932-stickman-archer-fight.json) |
 | Stickman Archer Online | 239550 | [239550-stickman-archer-online.json](./239550-stickman-archer-online.json) |
 | Stickman Archers: Archery Rampage | 101575 | [101575-stickman-archers-archery-rampage.json](./101575-stickman-archers-archery-rampage.json) |
+| Stickman Awakens | 233185 | [233185-stickman-awakens.json](./233185-stickman-awakens.json) |
 | Stickman Badminton | 313547 | [313547-stickman-badminton.json](./313547-stickman-badminton.json) |
 | Stickman Base Jumper | 108645 | [108645-stickman-base-jumper.json](./108645-stickman-base-jumper.json) |
 | Stickman Battle War | 231893 | [231893-stickman-battle-war.json](./231893-stickman-battle-war.json) |
