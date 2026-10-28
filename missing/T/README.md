@@ -3414,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenacious | 111202 | [111202-tenacious.json](./111202-tenacious.json) |
 | Tenancy | 413893 | [413893-tenancy.json](./413893-tenancy.json) |
 | Tenants | 129152 | [129152-tenants.json](./129152-tenants.json) |
+| Tenbin no La Dea: Ikusa Megami Memoria | 258818 | [258818-tenbin-no-la-dea-ikusa-megami-memoria.json](./258818-tenbin-no-la-dea-ikusa-megami-memoria.json) |
 | Tenbu Mega CD Special | 46384 | [46384-tenbu-mega-cd-special.json](./46384-tenbu-mega-cd-special.json) |
 | Tenchi Fukkatsu! | 98061 | [98061-tenchi-fukkatsu.json](./98061-tenchi-fukkatsu.json) |
 | Tenchi Muyo! Game-hen | 84452 | [84452-tenchi-muyo-game-hen.json](./84452-tenchi-muyo-game-hen.json) |
@@ -3642,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tense | 260286 | [260286-tense.json](./260286-tense.json) |
 | Tense Parking | 392755 | [392755-tense-parking.json](./392755-tense-parking.json) |
 | Tensei | 264610 | [264610-tensei.json](./264610-tensei.json) |
+| Tensei Brave | 259109 | [259109-tensei-brave.json](./259109-tensei-brave.json) |
 | Tensei Hakkenshi Fuumaroku | 221604 | [221604-tensei-hakkenshi-fuumaroku.json](./221604-tensei-hakkenshi-fuumaroku.json) |
 | Tensei Shitara Slime Datta Ken: Lord of Tempest | 90112 | [90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json](./90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json) |
 | Tensei Shitara Slime Datta Ken: Tempest Stories | 306195 | [306195-tensei-shitara-slime-datta-ken-tempest-stories.json](./306195-tensei-shitara-slime-datta-ken-tempest-stories.json) |
@@ -10653,6 +10655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Town | 118829 | [118829-the-last-town.json](./118829-the-last-town.json) |
 | The Last Town: Excape | 149839 | [149839-the-last-town-excape.json](./149839-the-last-town-excape.json) |
 | The Last Train | 109625 | [109625-the-last-train.json](./109625-the-last-train.json) |
+| The Last Train | 259106 | [259106-the-last-train.json](./259106-the-last-train.json) |
 | The Last Train: Baquedano | 343255 | [343255-the-last-train-baquedano.json](./343255-the-last-train-baquedano.json) |
 | The Last Train: Final Ride | 175364 | [175364-the-last-train-final-ride.json](./175364-the-last-train-final-ride.json) |
 | The Last Transmission | 356685 | [356685-the-last-transmission.json](./356685-the-last-transmission.json) |
@@ -11112,6 +11115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Twilight Princess | 134014 | [134014-the-legend-of-zelda-twilight-princess.json](./134014-the-legend-of-zelda-twilight-princess.json) |
 | The Legend of Zelda: Twilight Princess HD | 18017 | [18017-the-legend-of-zelda-twilight-princess-hd.json](./18017-the-legend-of-zelda-twilight-princess-hd.json) |
 | The Legend of Zelda: Twilight Princess HD - Special Edition | 45134 | [45134-the-legend-of-zelda-twilight-princess-hd-special-edition.json](./45134-the-legend-of-zelda-twilight-princess-hd-special-edition.json) |
+| The Legend of Zelda: Twilight Princess Multiplayer | 258813 | [258813-the-legend-of-zelda-twilight-princess-multiplayer.json](./258813-the-legend-of-zelda-twilight-princess-multiplayer.json) |
 | The Legend of Zelda: Twilight Princess Randomizer | 241894 | [241894-the-legend-of-zelda-twilight-princess-randomizer.json](./241894-the-legend-of-zelda-twilight-princess-randomizer.json) |
 | The Legend of Zelda: Unnamed Quest | 322780 | [322780-the-legend-of-zelda-unnamed-quest.json](./322780-the-legend-of-zelda-unnamed-quest.json) |
 | The Legend of Zelda: Voyager of Time | 252292 | [252292-the-legend-of-zelda-voyager-of-time.json](./252292-the-legend-of-zelda-voyager-of-time.json) |
@@ -22188,6 +22192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Heroes | 321427 | [321427-top-heroes.json](./321427-top-heroes.json) |
 | Top Hunter: Roddy & Cathy | 46520 | [46520-top-hunter-roddy-and-cathy.json](./46520-top-hunter-roddy-and-cathy.json) |
 | Top Jump | 255584 | [255584-top-jump.json](./255584-top-jump.json) |
+| Top Jump | 259128 | [259128-top-jump.json](./259128-top-jump.json) |
 | Top Management II | 37785 | [37785-top-management-ii.json](./37785-top-management-ii.json) |
 | Top Model 3D | 84948 | [84948-top-model-3d.json](./84948-top-model-3d.json) |
 | Top Model Academy | 47869 | [47869-top-model-academy.json](./47869-top-model-academy.json) |
@@ -28267,6 +28272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Racing | 331872 | [331872-turtle-racing.json](./331872-turtle-racing.json) |
 | Turtle Riders: Adventure Begins | 333796 | [333796-turtle-riders-adventure-begins.json](./333796-turtle-riders-adventure-begins.json) |
 | Turtle River RPG | 304564 | [304564-turtle-river-rpg.json](./304564-turtle-river-rpg.json) |
+| Turtle Run: Crood Islands of Oz | 259131 | [259131-turtle-run-crood-islands-of-oz.json](./259131-turtle-run-crood-islands-of-oz.json) |
 | Turtle Rush | 122368 | [122368-turtle-rush.json](./122368-turtle-rush.json) |
 | Turtle Rush | 254386 | [254386-turtle-rush.json](./254386-turtle-rush.json) |
 | Turtle Ship | 38554 | [38554-turtle-ship.json](./38554-turtle-ship.json) |
