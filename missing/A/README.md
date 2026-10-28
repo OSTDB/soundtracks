@@ -5062,6 +5062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akaneiro: Demon Hunters | 1900 | [1900-akaneiro-demon-hunters.json](./1900-akaneiro-demon-hunters.json) |
 | Akanesasu Sekai de Kimi to Utau | 240479 | [240479-akanesasu-sekai-de-kimi-to-utau.json](./240479-akanesasu-sekai-de-kimi-to-utau.json) |
 | Akapulka: The Rainbow | 201666 | [201666-akapulka-the-rainbow.json](./201666-akapulka-the-rainbow.json) |
+| Akari and the Abyss | 246013 | [246013-akari-and-the-abyss.json](./246013-akari-and-the-abyss.json) |
 | Akari by Nikoli | 84869 | [84869-akari-by-nikoli.json](./84869-akari-by-nikoli.json) |
 | Akari: School Trip | 233654 | [233654-akari-school-trip.json](./233654-akari-school-trip.json) |
 | Akari: The Five Eyed Fox | 211026 | [211026-akari-the-five-eyed-fox.json](./211026-akari-the-five-eyed-fox.json) |
@@ -5608,6 +5609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfred Hitchcock’s Psycho Adventure Game | 320240 | [320240-alfred-hitchcock-s-psycho-adventure-game.json](./320240-alfred-hitchcock-s-psycho-adventure-game.json) |
 | Alfred is a Bad Guy | 318611 | [318611-alfred-is-a-bad-guy.json](./318611-alfred-is-a-bad-guy.json) |
 | Alfred Pelrock | 73801 | [73801-alfred-pelrock.json](./73801-alfred-pelrock.json) |
+| Alfredo | 245124 | [245124-alfredo.json](./245124-alfredo.json) |
 | Alfredo's Sneaky Meal | 257814 | [257814-alfredos-sneaky-meal.json](./257814-alfredos-sneaky-meal.json) |
 | Alfredo's Stupendous Surprise | 71050 | [71050-alfredos-stupendous-surprise.json](./71050-alfredos-stupendous-surprise.json) |
 | Algae | 106601 | [106601-algae.json](./106601-algae.json) |
@@ -5799,6 +5801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Arena | 39532 | [39532-alien-arena.json](./39532-alien-arena.json) |
 | Alien Arena: Warriors of Mars | 51937 | [51937-alien-arena-warriors-of-mars.json](./51937-alien-arena-warriors-of-mars.json) |
 | Alien Assault | 66623 | [66623-alien-assault.json](./66623-alien-assault.json) |
+| Alien Attack | 245129 | [245129-alien-attack.json](./245129-alien-attack.json) |
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
 | Alien Attack | 344944 | [344944-alien-attack.json](./344944-alien-attack.json) |
 | Alien Attack Team 2 | 102036 | [102036-alien-attack-team-2.json](./102036-alien-attack-team-2.json) |
@@ -14901,6 +14904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurcus Online | 132715 | [132715-aurcus-online.json](./132715-aurcus-online.json) |
 | Aure | 349251 | [349251-aure.json](./349251-aure.json) |
 | Aurelia: Stellar Arising | 201806 | [201806-aurelia-stellar-arising.json](./201806-aurelia-stellar-arising.json) |
+| Aurendor | 246006 | [246006-aurendor.json](./246006-aurendor.json) |
 | Aureole: Wings of Hope | 254013 | [254013-aureole-wings-of-hope.json](./254013-aureole-wings-of-hope.json) |
 | Auri's Amazing Arch Adventure | 388247 | [388247-auris-amazing-arch-adventure.json](./388247-auris-amazing-arch-adventure.json) |
 | Auri's Tales | 113042 | [113042-auris-tales.json](./113042-auris-tales.json) |
