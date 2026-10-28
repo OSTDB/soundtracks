@@ -3494,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Strike | 69896 | [69896-sea-strike.json](./69896-sea-strike.json) |
 | Sea Town | 238093 | [238093-sea-town.json](./238093-sea-town.json) |
 | Sea Trader: Rise of Taipan | 49386 | [49386-sea-trader-rise-of-taipan.json](./49386-sea-trader-rise-of-taipan.json) |
+| Sea under the sea under the sea | 280380 | [280380-sea-under-the-sea-under-the-sea.json](./280380-sea-under-the-sea-under-the-sea.json) |
 | Sea War | 168633 | [168633-sea-war.json](./168633-sea-war.json) |
 | Sea War Naval Supremacy | 391539 | [391539-sea-war-naval-supremacy.json](./391539-sea-war-naval-supremacy.json) |
 | Sea Warfare: Glorious | 188024 | [188024-sea-warfare-glorious.json](./188024-sea-warfare-glorious.json) |
@@ -5589,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shades of Doom | 71518 | [71518-shades-of-doom.json](./71518-shades-of-doom.json) |
 | Shades of Heroes | 126843 | [126843-shades-of-heroes.json](./126843-shades-of-heroes.json) |
 | Shades of Manhattan 2 | 182453 | [182453-shades-of-manhattan-2.json](./182453-shades-of-manhattan-2.json) |
+| Shades of Rayna: Lasher Class | 280379 | [280379-shades-of-rayna-lasher-class.json](./280379-shades-of-rayna-lasher-class.json) |
 | Shades of Sakura | 161616 | [161616-shades-of-sakura.json](./161616-shades-of-sakura.json) |
 | Shades: Combat Militia | 223918 | [223918-shades-combat-militia.json](./223918-shades-combat-militia.json) |
 | Shades: Shadow Fight Roguelike | 300698 | [300698-shades-shadow-fight-roguelike.json](./300698-shades-shadow-fight-roguelike.json) |
@@ -7988,6 +7990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShortStacked | 183958 | [183958-shortstacked.json](./183958-shortstacked.json) |
 | Shortstop by the Sea | 411302 | [411302-shortstop-by-the-sea.json](./411302-shortstop-by-the-sea.json) |
 | Shot & Dread Online | 293214 | [293214-shot-and-dread-online.json](./293214-shot-and-dread-online.json) |
+| Shot Block | 280056 | [280056-shot-block.json](./280056-shot-block.json) |
 | Shot Clock | 359303 | [359303-shot-clock.json](./359303-shot-clock.json) |
 | Shot Dawn | 197355 | [197355-shot-dawn.json](./197355-shot-dawn.json) |
 | Shot in the Dark | 35162 | [35162-shot-in-the-dark.json](./35162-shot-in-the-dark.json) |
@@ -10506,6 +10509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skirmish | 413242 | [413242-skirmish.json](./413242-skirmish.json) |
 | Skirmish Line: Mad Jack | 172129 | [172129-skirmish-line-mad-jack.json](./172129-skirmish-line-mad-jack.json) |
 | Skirmish Mayhem | 224428 | [224428-skirmish-mayhem.json](./224428-skirmish-mayhem.json) |
+| Skirmish Squad | 280377 | [280377-skirmish-squad.json](./280377-skirmish-squad.json) |
 | Skirmishers | 223368 | [223368-skirmishers.json](./223368-skirmishers.json) |
 | Skitt | 138735 | [138735-skitt.json](./138735-skitt.json) |
 | Skittles | 148170 | [148170-skittles.json](./148170-skittles.json) |
@@ -10589,6 +10593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skullgirls: 2nd Encore | 11179 | [11179-skullgirls-2nd-encore.json](./11179-skullgirls-2nd-encore.json) |
 | Skullgirls: 2nd Encore - Annie | 167349 | [167349-skullgirls-2nd-encore-annie.json](./167349-skullgirls-2nd-encore-annie.json) |
 | Skullgirls: 2nd Encore - Umbrella | 231240 | [231240-skullgirls-2nd-encore-umbrella.json](./231240-skullgirls-2nd-encore-umbrella.json) |
+| Skullgirls: Marie | 280378 | [280378-skullgirls-marie.json](./280378-skullgirls-marie.json) |
 | Skullgirls: Season 1 Pass | 370325 | [370325-skullgirls-season-1-pass.json](./370325-skullgirls-season-1-pass.json) |
 | Skullhammer | 181862 | [181862-skullhammer.json](./181862-skullhammer.json) |
 | Skullivan's | 329158 | [329158-skullivans.json](./329158-skullivans.json) |
@@ -14476,6 +14481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonar | 418276 | [418276-sonar.json](./418276-sonar.json) |
 | Sonar Beat | 113841 | [113841-sonar-beat.json](./113841-sonar-beat.json) |
 | Sonar Scout | 319043 | [319043-sonar-scout.json](./319043-sonar-scout.json) |
+| Sonar Shock | 280376 | [280376-sonar-shock.json](./280376-sonar-shock.json) |
 | Sonata | 271137 | [271137-sonata.json](./271137-sonata.json) |
 | Sonata | 383787 | [383787-sonata.json](./383787-sonata.json) |
 | Sonata Theory | 155028 | [155028-sonata-theory.json](./155028-sonata-theory.json) |
@@ -18838,6 +18844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit: Stallion of the Cimarron | 49257 | [49257-spirit-stallion-of-the-cimarron.json](./49257-spirit-stallion-of-the-cimarron.json) |
 | Spirit: Stallion of the Cimarron - Forever Free | 80314 | [80314-spirit-stallion-of-the-cimarron-forever-free.json](./80314-spirit-stallion-of-the-cimarron-forever-free.json) |
 | Spirit's Embrace | 54219 | [54219-spirits-embrace.json](./54219-spirits-embrace.json) |
+| Spirita Battler | 280375 | [280375-spirita-battler.json](./280375-spirita-battler.json) |
 | Spiritbound: The Goddess's Quest | 415183 | [415183-spiritbound-the-goddesss-quest.json](./415183-spiritbound-the-goddesss-quest.json) |
 | Spirited Heart | 61536 | [61536-spirited-heart.json](./61536-spirited-heart.json) |
 | Spirited Heart Deluxe | 17286 | [17286-spirited-heart-deluxe.json](./17286-spirited-heart-deluxe.json) |
@@ -20015,6 +20022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel Day | 278693 | [278693-squirrel-day.json](./278693-squirrel-day.json) |
 | Squirrel Divorce | 157409 | [157409-squirrel-divorce.json](./157409-squirrel-divorce.json) |
 | Squirrel Jump | 122165 | [122165-squirrel-jump.json](./122165-squirrel-jump.json) |
+| Squirrel Jump: Forest Pathway | 280367 | [280367-squirrel-jump-forest-pathway.json](./280367-squirrel-jump-forest-pathway.json) |
 | Squirrel Knight | 298145 | [298145-squirrel-knight.json](./298145-squirrel-knight.json) |
 | Squirrel Launcher | 230307 | [230307-squirrel-launcher.json](./230307-squirrel-launcher.json) |
 | Squirrel Legacy II: Children of the Nut | 286045 | [286045-squirrel-legacy-ii-children-of-the-nut.json](./286045-squirrel-legacy-ii-children-of-the-nut.json) |
@@ -28582,6 +28590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Yakyuudou 2 | 66208 | [66208-super-yakyuudou-2.json](./66208-super-yakyuudou-2.json) |
 | Super Yuki Onna-chan | 154423 | [154423-super-yuki-onna-chan.json](./154423-super-yuki-onna-chan.json) |
 | Super Yum Yum | 306006 | [306006-super-yum-yum.json](./306006-super-yum-yum.json) |
+| Super Yum Yum 2 | 280052 | [280052-super-yum-yum-2.json](./280052-super-yum-yum-2.json) |
 | Super Yum Yum 3 | 23266 | [23266-super-yum-yum-3.json](./23266-super-yum-yum-3.json) |
 | Super Zangyura | 151652 | [151652-super-zangyura.json](./151652-super-zangyura.json) |
 | Super Zaxxon | 22696 | [22696-super-zaxxon.json](./22696-super-zaxxon.json) |
