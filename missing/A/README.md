@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dragon's Tale: Fading Light | 264017 | [264017-a-dragons-tale-fading-light.json](./264017-a-dragons-tale-fading-light.json) |
 | A Dragons Dawn | 379560 | [379560-a-dragons-dawn.json](./379560-a-dragons-dawn.json) |
 | A Drawing's Journey | 84686 | [84686-a-drawings-journey.json](./84686-a-drawings-journey.json) |
+| A Dream 2 | 272121 | [272121-a-dream-2.json](./272121-a-dream-2.json) |
 | A Dream About a Room With Four Doors | 255855 | [255855-a-dream-about-a-room-with-four-doors.json](./255855-a-dream-about-a-room-with-four-doors.json) |
 | A Dream That Never Wakes Up | 236391 | [236391-a-dream-that-never-wakes-up.json](./236391-a-dream-that-never-wakes-up.json) |
 | A Dream Within a Dream | 394781 | [394781-a-dream-within-a-dream.json](./394781-a-dream-within-a-dream.json) |
@@ -3756,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterglow | 168117 | [168117-afterglow.json](./168117-afterglow.json) |
 | Afterglow Bytes: Reverie by the Shore | 382378 | [382378-afterglow-bytes-reverie-by-the-shore.json](./382378-afterglow-bytes-reverie-by-the-shore.json) |
 | Afterglow; The Scent | 272128 | [272128-afterglow-the-scent.json](./272128-afterglow-the-scent.json) |
+| Afterglow; Twin Creeks | 272124 | [272124-afterglow-twin-creeks.json](./272124-afterglow-twin-creeks.json) |
 | Afterglow: A New World Rising | 272126 | [272126-afterglow-a-new-world-rising.json](./272126-afterglow-a-new-world-rising.json) |
 | Aftergreen | 416832 | [416832-aftergreen.json](./416832-aftergreen.json) |
 | Aftergrinder | 28900 | [28900-aftergrinder.json](./28900-aftergrinder.json) |
@@ -4982,6 +4984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aka to Blue | 69502 | [69502-aka-to-blue.json](./69502-aka-to-blue.json) |
 | Akabeth Tactics | 116175 | [116175-akabeth-tactics.json](./116175-akabeth-tactics.json) |
 | Akabos | 330685 | [330685-akabos.json](./330685-akabos.json) |
+| Akagawa Jirou Mystery: Tsuki no Hikari - Shizumeru Kane no Satsujin | 272093 | [272093-akagawa-jirou-mystery-tsuki-no-hikari-shizumeru-kane-no-satsujin.json](./272093-akagawa-jirou-mystery-tsuki-no-hikari-shizumeru-kane-no-satsujin.json) |
 | Akagawa Jirou no Yuurei Ressha | 48606 | [48606-akagawa-jirou-no-yuurei-ressha.json](./48606-akagawa-jirou-no-yuurei-ressha.json) |
 | Akagawa Jirou: Majo-tachi no Nemuri | 67712 | [67712-akagawa-jirou-majo-tachi-no-nemuri.json](./67712-akagawa-jirou-majo-tachi-no-nemuri.json) |
 | Akagawa Jirou: Yasoukyoku | 62544 | [62544-akagawa-jirou-yasoukyoku.json](./62544-akagawa-jirou-yasoukyoku.json) |
@@ -5189,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuyaku Reijou ha Ringoku no Outaishi ni Dekiai Sareru | 295840 | [295840-akuyaku-reijou-ha-ringoku-no-outaishi-ni-dekiai-sareru.json](./295840-akuyaku-reijou-ha-ringoku-no-outaishi-ni-dekiai-sareru.json) |
 | Akyrikon VR | 158204 | [158204-akyrikon-vr.json](./158204-akyrikon-vr.json) |
 | Al Andalus 711 | 213273 | [213273-al-andalus-711.json](./213273-al-andalus-711.json) |
+| Al Bassel | 272402 | [272402-al-bassel.json](./272402-al-bassel.json) |
 | Al Capone | 421189 | [421189-al-capone.json](./421189-al-capone.json) |
 | Al Crepuscolo VR | 227677 | [227677-al-crepuscolo-vr.json](./227677-al-crepuscolo-vr.json) |
 | Al Emmo and the Lost Dutchman's Mine | 17330 | [17330-al-emmo-and-the-lost-dutchmans-mine.json](./17330-al-emmo-and-the-lost-dutchmans-mine.json) |
@@ -5739,6 +5743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien 3 | 273018 | [273018-alien-3.json](./273018-alien-3.json) |
 | Alien 3 | 8908 | [8908-alien-3.json](./8908-alien-3.json) |
 | Alien 911 | 117523 | [117523-alien-911.json](./117523-alien-911.json) |
+| Alien Abductee | 272105 | [272105-alien-abductee.json](./272105-alien-abductee.json) |
 | Alien Abduction Experience | 369371 | [369371-alien-abduction-experience.json](./369371-alien-abduction-experience.json) |
 | Alien Accident | 192744 | [192744-alien-accident.json](./192744-alien-accident.json) |
 | Alien Afteflife | 182807 | [182807-alien-afteflife.json](./182807-alien-afteflife.json) |
@@ -5918,6 +5923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Rain | 12251 | [12251-alien-rain.json](./12251-alien-rain.json) |
 | Alien Rampage | 46630 | [46630-alien-rampage.json](./46630-alien-rampage.json) |
 | Alien Resource Manager | 418313 | [418313-alien-resource-manager.json](./418313-alien-resource-manager.json) |
+| Alien Resurrection | 272125 | [272125-alien-resurrection.json](./272125-alien-resurrection.json) |
 | Alien Resurrection | 44995 | [44995-alien-resurrection.json](./44995-alien-resurrection.json) |
 | Alien Robot Monsters | 34724 | [34724-alien-robot-monsters.json](./34724-alien-robot-monsters.json) |
 | Alien Rush | 376851 | [376851-alien-rush.json](./376851-alien-rush.json) |
@@ -8231,6 +8237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelica Weaver: Catch Me When You Can | 9975 | [9975-angelica-weaver-catch-me-when-you-can.json](./9975-angelica-weaver-catch-me-when-you-can.json) |
 | Angelica Weaver: Catch Me When You Can - Collector's Edition | 30149 | [30149-angelica-weaver-catch-me-when-you-can-collectors-edition.json](./30149-angelica-weaver-catch-me-when-you-can-collectors-edition.json) |
 | Angeline Era | 252768 | [252768-angeline-era.json](./252768-angeline-era.json) |
+| Angelique Duet | 272090 | [272090-angelique-duet.json](./272090-angelique-duet.json) |
 | Angelique Duet | 45437 | [45437-angelique-duet.json](./45437-angelique-duet.json) |
 | Angelique Etoile | 72680 | [72680-angelique-etoile.json](./72680-angelique-etoile.json) |
 | Angelique Luminarise | 142754 | [142754-angelique-luminarise.json](./142754-angelique-luminarise.json) |
