@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calling Depths | 372788 | [372788-calling-depths.json](./372788-calling-depths.json) |
 | Calling Home | 245792 | [245792-calling-home.json](./245792-calling-home.json) |
 | Calling of my Nightingales | 229589 | [229589-calling-of-my-nightingales.json](./229589-calling-of-my-nightingales.json) |
+| Calliope Mori's Underworld Tour 2022 | 229494 | [229494-calliope-moris-underworld-tour-2022.json](./229494-calliope-moris-underworld-tour-2022.json) |
 | Callisto | 116934 | [116934-callisto.json](./116934-callisto.json) |
 | CallMara | 345253 | [345253-callmara.json](./345253-callmara.json) |
 | CallOfTree | 231199 | [231199-calloftree.json](./231199-calloftree.json) |
@@ -4087,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cauldron's Rift | 332283 | [332283-cauldrons-rift.json](./332283-cauldrons-rift.json) |
 | Cauldrons of War: Barbarossa | 169923 | [169923-cauldrons-of-war-barbarossa.json](./169923-cauldrons-of-war-barbarossa.json) |
 | Cauldrons of War: Stalingrad | 169145 | [169145-cauldrons-of-war-stalingrad.json](./169145-cauldrons-of-war-stalingrad.json) |
+| Cauli's Night | 229914 | [229914-caulis-night.json](./229914-caulis-night.json) |
 | Cauliflower Power | 136402 | [136402-cauliflower-power.json](./136402-cauliflower-power.json) |
 | Causa: Into the Dusk | 417958 | [417958-causa-into-the-dusk.json](./417958-causa-into-the-dusk.json) |
 | Causal Effect | 256721 | [256721-causal-effect.json](./256721-causal-effect.json) |
@@ -6117,6 +6119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Journey | 204513 | [204513-chicken-journey.json](./204513-chicken-journey.json) |
 | Chicken Jump | 108521 | [108521-chicken-jump.json](./108521-chicken-jump.json) |
 | Chicken Jump, Puppy Jump | 355197 | [355197-chicken-jump-puppy-jump.json](./355197-chicken-jump-puppy-jump.json) |
+| Chicken Killer | 229867 | [229867-chicken-killer.json](./229867-chicken-killer.json) |
 | Chicken Little | 343127 | [343127-chicken-little.json](./343127-chicken-little.json) |
 | Chicken Little: Batting Practice | 343129 | [343129-chicken-little-batting-practice.json](./343129-chicken-little-batting-practice.json) |
 | Chicken Little: Galactic Traveler | 343128 | [343128-chicken-little-galactic-traveler.json](./343128-chicken-little-galactic-traveler.json) |
@@ -6376,6 +6379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimera of Tactics 1 | 93593 | [93593-chimera-of-tactics-1.json](./93593-chimera-of-tactics-1.json) |
 | Chimera of Tactics 2 | 101395 | [101395-chimera-of-tactics-2.json](./101395-chimera-of-tactics-2.json) |
 | Chimera of Tactics 3: Gun and Soccer | 110353 | [110353-chimera-of-tactics-3-gun-and-soccer.json](./110353-chimera-of-tactics-3-gun-and-soccer.json) |
+| Chimera Online | 229881 | [229881-chimera-online.json](./229881-chimera-online.json) |
 | Chimera Pro | 417355 | [417355-chimera-pro.json](./417355-chimera-pro.json) |
 | Chimera Recollect | 391795 | [391795-chimera-recollect.json](./391795-chimera-recollect.json) |
 | Chimeral Fantasy | 223506 | [223506-chimeral-fantasy.json](./223506-chimeral-fantasy.json) |
@@ -7891,6 +7895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizens: On Mars | 249037 | [249037-citizens-on-mars.json](./249037-citizens-on-mars.json) |
 | Citres | 274515 | [274515-citres.json](./274515-citres.json) |
 | Citri Plays Noirwood | 220635 | [220635-citri-plays-noirwood.json](./220635-citri-plays-noirwood.json) |
+| Citroën C4 Robot | 229917 | [229917-citroen-c4-robot.json](./229917-citroen-c4-robot.json) |
 | Citron World Forward: Zero | 260330 | [260330-citron-world-forward-zero.json](./260330-citron-world-forward-zero.json) |
 | CitronRapide | 146071 | [146071-citronrapide.json](./146071-citronrapide.json) |
 | Citrouille: Sweet Witches | 106531 | [106531-citrouille-sweet-witches.json](./106531-citrouille-sweet-witches.json) |
