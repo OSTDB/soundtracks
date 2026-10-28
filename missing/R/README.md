@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Go | 262380 | [262380-racing-go.json](./262380-racing-go.json) |
 | Racing Go | 285333 | [285333-racing-go.json](./285333-racing-go.json) |
 | Racing Heroes | 197338 | [197338-racing-heroes.json](./197338-racing-heroes.json) |
+| Racing in Car | 245895 | [245895-racing-in-car.json](./245895-racing-in-car.json) |
 | Racing in Car | 86989 | [86989-racing-in-car.json](./86989-racing-in-car.json) |
 | Racing in Car 2 | 100326 | [100326-racing-in-car-2.json](./100326-racing-in-car-2.json) |
 | Racing in Motor | 253278 | [253278-racing-in-motor.json](./253278-racing-in-motor.json) |
@@ -4339,6 +4340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remonstrator | 334019 | [334019-remonstrator.json](./334019-remonstrator.json) |
 | Remont Soyuz | 181172 | [181172-remont-soyuz.json](./181172-remont-soyuz.json) |
 | Remoove | 67909 | [67909-remoove.json](./67909-remoove.json) |
+| Remore: Infested Kingdom | 244947 | [244947-remore-infested-kingdom.json](./244947-remore-infested-kingdom.json) |
 | Remorse | 167606 | [167606-remorse.json](./167606-remorse.json) |
 | Remorse | 378391 | [378391-remorse.json](./378391-remorse.json) |
 | Remorse: The List | 115393 | [115393-remorse-the-list.json](./115393-remorse-the-list.json) |
@@ -5957,6 +5959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Knights: Double Treble | 199460 | [199460-rhythm-knights-double-treble.json](./199460-rhythm-knights-double-treble.json) |
 | Rhythm League Heroes | 276181 | [276181-rhythm-league-heroes.json](./276181-rhythm-league-heroes.json) |
 | Rhythm Life | 276616 | [276616-rhythm-life.json](./276616-rhythm-life.json) |
+| Rhythm Lust Girl | 246032 | [246032-rhythm-lust-girl.json](./246032-rhythm-lust-girl.json) |
 | Rhythm Lust Girl 2 | 249786 | [249786-rhythm-lust-girl-2.json](./249786-rhythm-lust-girl-2.json) |
 | Rhythm Mage VR | 122150 | [122150-rhythm-mage-vr.json](./122150-rhythm-mage-vr.json) |
 | Rhythm Maker | 45889 | [45889-rhythm-maker.json](./45889-rhythm-maker.json) |
@@ -6274,6 +6277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 5: Free Pack 06 | 293410 | [293410-ride-5-free-pack-06.json](./293410-ride-5-free-pack-06.json) |
 | Ride 5: Racing Icons Pack | 286994 | [286994-ride-5-racing-icons-pack.json](./286994-ride-5-racing-icons-pack.json) |
 | Ride 5: Short Track Pack | 272941 | [272941-ride-5-short-track-pack.json](./272941-ride-5-short-track-pack.json) |
+| Ride 5: Special Edition | 246022 | [246022-ride-5-special-edition.json](./246022-ride-5-special-edition.json) |
 | Ride 5: Speed With Style Pack | 293411 | [293411-ride-5-speed-with-style-pack.json](./293411-ride-5-speed-with-style-pack.json) |
 | Ride 6 | 377690 | [377690-ride-6.json](./377690-ride-6.json) |
 | Ride Control Ultimate | 243403 | [243403-ride-control-ultimate.json](./243403-ride-control-ultimate.json) |
