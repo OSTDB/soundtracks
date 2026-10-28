@@ -1873,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Girls | 386197 | [386197-maid-girls.json](./386197-maid-girls.json) |
 | Maid Harem With Futa | 384720 | [384720-maid-harem-with-futa.json](./384720-maid-harem-with-futa.json) |
 | Maid Hunter | 235462 | [235462-maid-hunter.json](./235462-maid-hunter.json) |
+| Maid in Heaven: Ai to Iu Na no Yokubou | 260823 | [260823-maid-in-heaven-ai-to-iu-na-no-yokubou.json](./260823-maid-in-heaven-ai-to-iu-na-no-yokubou.json) |
 | Maid in Witch Life!: Yakata de Hajimaru H na Miryou Seikatsu | 194633 | [194633-maid-in-witch-life-yakata-de-hajimaru-h-na-miryou-seikatsu.json](./194633-maid-in-witch-life-yakata-de-hajimaru-h-na-miryou-seikatsu.json) |
 | Maid Knight Alicia | 199089 | [199089-maid-knight-alicia.json](./199089-maid-knight-alicia.json) |
 | Maid Made Maze | 204243 | [204243-maid-made-maze.json](./204243-maid-made-maze.json) |
