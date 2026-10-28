@@ -2760,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gentlemacho | 66620 | [66620-gentlemacho.json](./66620-gentlemacho.json) |
 | Gentleman Dress Up | 227927 | [227927-gentleman-dress-up.json](./227927-gentleman-dress-up.json) |
 | Gentlemen's Club | 286415 | [286415-gentlemens-club.json](./286415-gentlemens-club.json) |
+| Gentlemen's Puzzle Club | 252254 | [252254-gentlemens-puzzle-club.json](./252254-gentlemens-puzzle-club.json) |
 | GentleMoon 2 | 32902 | [32902-gentlemoon-2.json](./32902-gentlemoon-2.json) |
 | Gently Down the Marsh | 184913 | [184913-gently-down-the-marsh.json](./184913-gently-down-the-marsh.json) |
 | Gently Packed | 395267 | [395267-gently-packed.json](./395267-gently-packed.json) |
@@ -9117,6 +9118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gujian 3 | 113649 | [113649-gujian-3.json](./113649-gujian-3.json) |
 | Gulag | 115179 | [115179-gulag.json](./115179-gulag.json) |
 | Gulag | 268773 | [268773-gulag.json](./268773-gulag.json) |
+| Gulch Guardians | 252253 | [252253-gulch-guardians.json](./252253-gulch-guardians.json) |
 | Gulclight TDF2 | 64747 | [64747-gulclight-tdf2.json](./64747-gulclight-tdf2.json) |
 | Guldkorn Expressen | 92880 | [92880-guldkorn-expressen.json](./92880-guldkorn-expressen.json) |
 | Guldkornexpressen | 364461 | [364461-guldkornexpressen.json](./364461-guldkornexpressen.json) |
