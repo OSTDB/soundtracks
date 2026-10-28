@@ -3980,6 +3980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Dragon Cafe | 188300 | [188300-secrets-of-the-dragon-cafe.json](./188300-secrets-of-the-dragon-cafe.json) |
 | Secrets of the Heart | 399771 | [399771-secrets-of-the-heart.json](./399771-secrets-of-the-heart.json) |
 | Secrets of the Heartbeat | 302353 | [302353-secrets-of-the-heartbeat.json](./302353-secrets-of-the-heartbeat.json) |
+| Secrets of the Keep | 271574 | [271574-secrets-of-the-keep.json](./271574-secrets-of-the-keep.json) |
 | Secrets of the Lost Tomb | 165626 | [165626-secrets-of-the-lost-tomb.json](./165626-secrets-of-the-lost-tomb.json) |
 | Secrets of the Luxor | 73141 | [73141-secrets-of-the-luxor.json](./73141-secrets-of-the-luxor.json) |
 | Secrets of the Mansion | 184442 | [184442-secrets-of-the-mansion.json](./184442-secrets-of-the-mansion.json) |
@@ -9787,6 +9788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Intention | 273739 | [273739-sinister-intention.json](./273739-sinister-intention.json) |
 | Sinister Mansion | 297798 | [297798-sinister-mansion.json](./297798-sinister-mansion.json) |
 | Sinister Night | 200670 | [200670-sinister-night.json](./200670-sinister-night.json) |
+| Sinister Nights | 271590 | [271590-sinister-nights.json](./271590-sinister-nights.json) |
 | Sinister Outbreak | 366118 | [366118-sinister-outbreak.json](./366118-sinister-outbreak.json) |
 | Sinister Remains | 372020 | [372020-sinister-remains.json](./372020-sinister-remains.json) |
 | Sinister Seven | 275636 | [275636-sinister-seven.json](./275636-sinister-seven.json) |
@@ -22364,6 +22366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Champions | 47444 | [47444-steel-champions.json](./47444-steel-champions.json) |
 | Steel Chronicle | 340809 | [340809-steel-chronicle.json](./340809-steel-chronicle.json) |
 | Steel Chronicle VicTroopers | 372133 | [372133-steel-chronicle-victroopers.json](./372133-steel-chronicle-victroopers.json) |
+| Steel Circuit | 271558 | [271558-steel-circuit.json](./271558-steel-circuit.json) |
 | Steel Circus | 113149 | [113149-steel-circus.json](./113149-steel-circus.json) |
 | Steel Civilizations | 176373 | [176373-steel-civilizations.json](./176373-steel-civilizations.json) |
 | Steel Combat | 27500 | [27500-steel-combat.json](./27500-steel-combat.json) |
@@ -23547,6 +23550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strand | 320715 | [320715-strand.json](./320715-strand.json) |
 | Strand Boy | 228478 | [228478-strand-boy.json](./228478-strand-boy.json) |
 | Stranded | 170908 | [170908-stranded.json](./170908-stranded.json) |
+| Stranded | 271557 | [271557-stranded.json](./271557-stranded.json) |
 | Stranded | 308327 | [308327-stranded.json](./308327-stranded.json) |
 | Stranded | 337676 | [337676-stranded.json](./337676-stranded.json) |
 | Stranded | 376811 | [376811-stranded.json](./376811-stranded.json) |
@@ -24931,6 +24935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subspace Reticulum | 367537 | [367537-subspace-reticulum.json](./367537-subspace-reticulum.json) |
 | Subspace Voyage | 365850 | [365850-subspace-voyage.json](./365850-subspace-voyage.json) |
 | Substance Wars 64 | 384878 | [384878-substance-wars-64.json](./384878-substance-wars-64.json) |
+| Substitute Priest | 271559 | [271559-substitute-priest.json](./271559-substitute-priest.json) |
 | Substrate: Emergence | 398531 | [398531-substrate-emergence.json](./398531-substrate-emergence.json) |
 | Substratum | 128432 | [128432-substratum.json](./128432-substratum.json) |
 | Substream | 110276 | [110276-substream.json](./110276-substream.json) |
@@ -26875,6 +26880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Kittens 2 | 195278 | [195278-super-jigsaw-puzzle-generations-kittens-2.json](./195278-super-jigsaw-puzzle-generations-kittens-2.json) |
 | Super Jigsaw Puzzle: Generations - Kittens Puzzles | 155590 | [155590-super-jigsaw-puzzle-generations-kittens-puzzles.json](./155590-super-jigsaw-puzzle-generations-kittens-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Landscapes 3 | 259088 | [259088-super-jigsaw-puzzle-generations-landscapes-3.json](./259088-super-jigsaw-puzzle-generations-landscapes-3.json) |
+| Super Jigsaw Puzzle: Generations - Landscapes 4 | 271560 | [271560-super-jigsaw-puzzle-generations-landscapes-4.json](./271560-super-jigsaw-puzzle-generations-landscapes-4.json) |
 | Super Jigsaw Puzzle: Generations - Landscapes Puzzles | 155624 | [155624-super-jigsaw-puzzle-generations-landscapes-puzzles.json](./155624-super-jigsaw-puzzle-generations-landscapes-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Love | 195277 | [195277-super-jigsaw-puzzle-generations-love.json](./195277-super-jigsaw-puzzle-generations-love.json) |
 | Super Jigsaw Puzzle: Generations - Malaysia | 247876 | [247876-super-jigsaw-puzzle-generations-malaysia.json](./247876-super-jigsaw-puzzle-generations-malaysia.json) |
@@ -28578,6 +28584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ubie Land | 85530 | [85530-super-ubie-land.json](./85530-super-ubie-land.json) |
 | Super UDK & RU Country | 322792 | [322792-super-udk-and-ru-country.json](./322792-super-udk-and-ru-country.json) |
 | Super UFO Fighter | 120629 | [120629-super-ufo-fighter.json](./120629-super-ufo-fighter.json) |
+| Super Ultimate Fighters | 271862 | [271862-super-ultimate-fighters.json](./271862-super-ultimate-fighters.json) |
 | Super Ultimate Fighters X | 381710 | [381710-super-ultimate-fighters-x.json](./381710-super-ultimate-fighters-x.json) |
 | Super Ultimate Party Game | 339080 | [339080-super-ultimate-party-game.json](./339080-super-ultimate-party-game.json) |
 | Super Ultra Baseball 2 | 38242 | [38242-super-ultra-baseball-2.json](./38242-super-ultra-baseball-2.json) |
