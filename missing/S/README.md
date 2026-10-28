@@ -17228,6 +17228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pilot 2 | 25723 | [25723-space-pilot-2.json](./25723-space-pilot-2.json) |
 | Space Pilot Alliance | 182834 | [182834-space-pilot-alliance.json](./182834-space-pilot-alliance.json) |
 | Space Pinball | 50595 | [50595-space-pinball.json](./50595-space-pinball.json) |
+| Space Pirate Dernshous | 229320 | [229320-space-pirate-dernshous.json](./229320-space-pirate-dernshous.json) |
 | Space Pirate Sara | 139039 | [139039-space-pirate-sara.json](./139039-space-pirate-sara.json) |
 | Space Pirate Trainer | 34041 | [34041-space-pirate-trainer.json](./34041-space-pirate-trainer.json) |
 | Space Pirate Trainer DX | 174556 | [174556-space-pirate-trainer-dx.json](./174556-space-pirate-trainer-dx.json) |
@@ -21787,6 +21788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
 | Stark Tower Defense | 256093 | [256093-stark-tower-defense.json](./256093-stark-tower-defense.json) |
 | Starkid's Obstacle Course | 111199 | [111199-starkids-obstacle-course.json](./111199-starkids-obstacle-course.json) |
+| Starl Metaverse Project | 229284 | [229284-starl-metaverse-project.json](./229284-starl-metaverse-project.json) |
 | StarL2 | 274570 | [274570-starl2.json](./274570-starl2.json) |
 | Starlab | 258721 | [258721-starlab.json](./258721-starlab.json) |
 | Starlair | 321199 | [321199-starlair.json](./321199-starlair.json) |
@@ -27713,6 +27715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Evolution | 256701 | [256701-super-mario-evolution.json](./256701-super-mario-evolution.json) |
 | Super Mario Fallen Stars | 254090 | [254090-super-mario-fallen-stars.json](./254090-super-mario-fallen-stars.json) |
 | Super Mario Fantasy | 300256 | [300256-super-mario-fantasy.json](./300256-super-mario-fantasy.json) |
+| Super Mario Fantasy Adventure | 228876 | [228876-super-mario-fantasy-adventure.json](./228876-super-mario-fantasy-adventure.json) |
 | Super Mario Fighter 2 | 313416 | [313416-super-mario-fighter-2.json](./313416-super-mario-fighter-2.json) |
 | Super Mario Flash | 176865 | [176865-super-mario-flash.json](./176865-super-mario-flash.json) |
 | Super Mario Flash 2 | 183605 | [183605-super-mario-flash-2.json](./183605-super-mario-flash-2.json) |
