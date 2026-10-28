@@ -1179,7 +1179,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Spark: Probation | 258496 | [258496-tales-of-spark-probation.json](./258496-tales-of-spark-probation.json) |
 | Tales of Survival Horror | 379431 | [379431-tales-of-survival-horror.json](./379431-tales-of-survival-horror.json) |
 | Tales of Symphonia | 221716 | [221716-tales-of-symphonia.json](./221716-tales-of-symphonia.json) |
-| Tales of Symphonia | 221717 | [221717-tales-of-symphonia.json](./221717-tales-of-symphonia.json) |
 | Tales of Symphonia Remastered | 217564 | [217564-tales-of-symphonia-remastered.json](./217564-tales-of-symphonia-remastered.json) |
 | Tales of Symphonia: Dawn of the New World | 222629 | [222629-tales-of-symphonia-dawn-of-the-new-world.json](./222629-tales-of-symphonia-dawn-of-the-new-world.json) |
 | Tales of Symphonia: Dawn of the New World | 5210 | [5210-tales-of-symphonia-dawn-of-the-new-world.json](./5210-tales-of-symphonia-dawn-of-the-new-world.json) |
@@ -4118,7 +4117,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesla's Puzzles of Lights | 252008 | [252008-teslas-puzzles-of-lights.json](./252008-teslas-puzzles-of-lights.json) |
 | Tesla's Tower: The Wardenclyffe Mystery | 31954 | [31954-teslas-tower-the-wardenclyffe-mystery.json](./31954-teslas-tower-the-wardenclyffe-mystery.json) |
 | Tesla8 | 95985 | [95985-tesla8.json](./95985-tesla8.json) |
-| Teslagrad 2 | 214506 | [214506-teslagrad-2.json](./214506-teslagrad-2.json) |
 | Teslagrad Power Pack Edition | 246451 | [246451-teslagrad-power-pack-edition.json](./246451-teslagrad-power-pack-edition.json) |
 | Teslagrad Remastered | 246407 | [246407-teslagrad-remastered.json](./246407-teslagrad-remastered.json) |
 | Teslapunk | 20961 | [20961-teslapunk.json](./20961-teslapunk.json) |
@@ -9386,7 +9384,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House in the Hollow | 127780 | [127780-the-house-in-the-hollow.json](./127780-the-house-in-the-hollow.json) |
 | The House in the Woods | 176505 | [176505-the-house-in-the-woods.json](./176505-the-house-in-the-woods.json) |
 | The House of Big people | 188677 | [188677-the-house-of-big-people.json](./188677-the-house-of-big-people.json) |
-| The House of Da Vinci 3 | 197081 | [197081-the-house-of-da-vinci-3.json](./197081-the-house-of-da-vinci-3.json) |
 | The House of Da Vinci Bundle | 186543 | [186543-the-house-of-da-vinci-bundle.json](./186543-the-house-of-da-vinci-bundle.json) |
 | The House of Da Vinci Complete Bundle | 310498 | [310498-the-house-of-da-vinci-complete-bundle.json](./310498-the-house-of-da-vinci-complete-bundle.json) |
 | The House of Da Vinci VR | 314703 | [314703-the-house-of-da-vinci-vr.json](./314703-the-house-of-da-vinci-vr.json) |
@@ -12991,7 +12988,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Placebos | 82478 | [82478-the-placebos.json](./82478-the-placebos.json) |
 | The Places Where Snow Lingers | 327002 | [327002-the-places-where-snow-lingers.json](./327002-the-places-where-snow-lingers.json) |
 | The Plague | 26707 | [26707-the-plague.json](./26707-the-plague.json) |
-| The Plague Doctor of Wippra | 189301 | [189301-the-plague-doctor-of-wippra.json](./189301-the-plague-doctor-of-wippra.json) |
 | The Plague: Kingdom Wars - Dead Rising | 171356 | [171356-the-plague-kingdom-wars-dead-rising.json](./171356-the-plague-kingdom-wars-dead-rising.json) |
 | The Plan | 11764 | [11764-the-plan.json](./11764-the-plan.json) |
 | The Plane Game | 185483 | [185483-the-plane-game.json](./185483-the-plane-game.json) |
