@@ -9034,6 +9034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon 3: Platinum | 14801 | [14801-rollercoaster-tycoon-3-platinum.json](./14801-rollercoaster-tycoon-3-platinum.json) |
 | RollerCoaster Tycoon 3D | 6873 | [6873-rollercoaster-tycoon-3d.json](./6873-rollercoaster-tycoon-3d.json) |
 | RollerCoaster Tycoon 6 Pack | 228962 | [228962-rollercoaster-tycoon-6-pack.json](./228962-rollercoaster-tycoon-6-pack.json) |
+| RollerCoaster Tycoon 8 Pack | 252326 | [252326-rollercoaster-tycoon-8-pack.json](./252326-rollercoaster-tycoon-8-pack.json) |
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
 | RollerCoaster Tycoon on Nintendo Switch | 95855 | [95855-rollercoaster-tycoon-on-nintendo-switch.json](./95855-rollercoaster-tycoon-on-nintendo-switch.json) |
 | RollerCoaster Tycoon World | 7627 | [7627-rollercoaster-tycoon-world.json](./7627-rollercoaster-tycoon-world.json) |
@@ -10984,6 +10985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush | 326737 | [326737-rush.json](./326737-rush.json) |
 | Rush | 7634 | [7634-rush.json](./7634-rush.json) |
 | Rush | 88768 | [88768-rush.json](./88768-rush.json) |
+| Rush 'Hower | 252322 | [252322-rush-hower.json](./252322-rush-hower.json) |
 | Rush & Command | 137902 | [137902-rush-and-command.json](./137902-rush-and-command.json) |
 | Rush 2: Extreme Racing USA | 3593 | [3593-rush-2-extreme-racing-usa.json](./3593-rush-2-extreme-racing-usa.json) |
 | Rush and Blush | 333782 | [333782-rush-and-blush.json](./333782-rush-and-blush.json) |
