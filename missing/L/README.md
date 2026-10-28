@@ -7076,6 +7076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Memories 3 Side Stories | 369569 | [369569-lost-memories-3-side-stories.json](./369569-lost-memories-3-side-stories.json) |
 | Lost Memories: Romance You Choose | 299456 | [299456-lost-memories-romance-you-choose.json](./299456-lost-memories-romance-you-choose.json) |
 | Lost Meow | 295619 | [295619-lost-meow.json](./295619-lost-meow.json) |
+| Lost Meridian | 270491 | [270491-lost-meridian.json](./270491-lost-meridian.json) |
 | Lost Mind | 405022 | [405022-lost-mind.json](./405022-lost-mind.json) |
 | Lost Museum: Echoes of the Chromageists | 416055 | [416055-lost-museum-echoes-of-the-chromageists.json](./416055-lost-museum-echoes-of-the-chromageists.json) |
 | Lost my Collection of 100 Shells | 359574 | [359574-lost-my-collection-of-100-shells.json](./359574-lost-my-collection-of-100-shells.json) |
