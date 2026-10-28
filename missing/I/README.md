@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iDate: ReVibe | 393418 | [393418-idate-revibe.json](./393418-idate-revibe.json) |
 | Idaten Jump DS: Moero! Flame Kaiser | 124504 | [124504-idaten-jump-ds-moero-flame-kaiser.json](./124504-idaten-jump-ds-moero-flame-kaiser.json) |
 | Ide do szkoly | 318487 | [318487-ide-do-szkoly.json](./318487-ide-do-szkoly.json) |
+| Ide Yosuke Meijin no Shin Jissen Mahjong | 246575 | [246575-ide-yosuke-meijin-no-shin-jissen-mahjong.json](./246575-ide-yosuke-meijin-no-shin-jissen-mahjong.json) |
 | Ide Yosuke no Mahjong Kazoku 2 | 319695 | [319695-ide-yosuke-no-mahjong-kazoku-2.json](./319695-ide-yosuke-no-mahjong-kazoku-2.json) |
 | Ide Yosuke no Mahjong Kyoushitsu | 354912 | [354912-ide-yosuke-no-mahjong-kyoushitsu.json](./354912-ide-yosuke-no-mahjong-kyoushitsu.json) |
 | Ide Yosuke no Mahjong Kyoushitsu GB | 65243 | [65243-ide-yosuke-no-mahjong-kyoushitsu-gb.json](./65243-ide-yosuke-no-mahjong-kyoushitsu-gb.json) |
@@ -4815,6 +4816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisum Piscium | 394527 | [394527-invisum-piscium.json](./394527-invisum-piscium.json) |
 | Invitation | 94559 | [94559-invitation.json](./94559-invitation.json) |
 | Invitation to Fear | 188611 | [188611-invitation-to-fear.json](./188611-invitation-to-fear.json) |
+| Invitationem | 246207 | [246207-invitationem.json](./246207-invitationem.json) |
 | Inviyya | 182924 | [182924-inviyya.json](./182924-inviyya.json) |
 | Invizimals | 2994 | [2994-invizimals.json](./2994-invizimals.json) |
 | Invizimals: Hidden Challenges | 203233 | [203233-invizimals-hidden-challenges.json](./203233-invizimals-hidden-challenges.json) |
