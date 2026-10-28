@@ -6802,6 +6802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choro Q Park | 46095 | [46095-choro-q-park.json](./46095-choro-q-park.json) |
 | Choro Q Works | 97363 | [97363-choro-q-works.json](./97363-choro-q-works.json) |
 | Choro-Q Jet: Rainbow Wings | 43770 | [43770-choro-q-jet-rainbow-wings.json](./43770-choro-q-jet-rainbow-wings.json) |
+| Chorus of the Night | 235395 | [235395-chorus-of-the-night.json](./235395-chorus-of-the-night.json) |
 | Chorus: Day One Edition | 172575 | [172575-chorus-day-one-edition.json](./172575-chorus-day-one-edition.json) |
 | Chosen | 384064 | [384064-chosen.json](./384064-chosen.json) |
 | Chosen 2 | 30068 | [30068-chosen-2.json](./30068-chosen-2.json) |
@@ -13105,6 +13106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmoDrive:Infinity | 147932 | [147932-cosmodrive-infinity.json](./147932-cosmodrive-infinity.json) |
 | CosmoDrive:Zero | 111688 | [111688-cosmodrive-zero.json](./111688-cosmodrive-zero.json) |
 | Cosmogelica | 265674 | [265674-cosmogelica.json](./265674-cosmogelica.json) |
+| Cosmogonic | 235428 | [235428-cosmogonic.json](./235428-cosmogonic.json) |
 | CosmoKick.io | 405868 | [405868-cosmokick-io.json](./405868-cosmokick-io.json) |
 | Cosmolace | 339969 | [339969-cosmolace.json](./339969-cosmolace.json) |
 | CosmoLands \| Space-Adventure | 33482 | [33482-cosmolands-space-adventure.json](./33482-cosmolands-space-adventure.json) |
@@ -15990,6 +15992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptidate | 181800 | [181800-cryptidate.json](./181800-cryptidate.json) |
 | Cryptigma | 339919 | [339919-cryptigma.json](./339919-cryptigma.json) |
 | Cryptis | 250895 | [250895-cryptis.json](./250895-cryptis.json) |
+| Crypto Ball Z | 235403 | [235403-crypto-ball-z.json](./235403-crypto-ball-z.json) |
 | Crypto Cars World | 166476 | [166476-crypto-cars-world.json](./166476-crypto-cars-world.json) |
 | Crypto Clicker | 391693 | [391693-crypto-clicker.json](./391693-crypto-clicker.json) |
 | Crypto Crisis: Education Edition | 292683 | [292683-crypto-crisis-education-edition.json](./292683-crypto-crisis-education-edition.json) |
