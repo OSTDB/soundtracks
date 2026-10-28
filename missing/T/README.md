@@ -23280,6 +23280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tourist Trap | 54189 | [54189-tourist-trap.json](./54189-tourist-trap.json) |
 | Tourist Trophy | 8213 | [8213-tourist-trophy.json](./8213-tourist-trophy.json) |
 | Tournament Ark | 161703 | [161703-tournament-ark.json](./161703-tournament-ark.json) |
+| Tournament Arkanoid | 252327 | [252327-tournament-arkanoid.json](./252327-tournament-arkanoid.json) |
 | Tournament Blackjack | 70101 | [70101-tournament-blackjack.json](./70101-tournament-blackjack.json) |
 | Tournament Chess | 206080 | [206080-tournament-chess.json](./206080-tournament-chess.json) |
 | Tournament Chess II | 206081 | [206081-tournament-chess-ii.json](./206081-tournament-chess-ii.json) |
@@ -24218,6 +24219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Journey | 382209 | [382209-train-journey.json](./382209-train-journey.json) |
 | Train Jumble | 346917 | [346917-train-jumble.json](./346917-train-jumble.json) |
 | Train Kingdom | 226588 | [226588-train-kingdom.json](./226588-train-kingdom.json) |
+| Train Kit for A-Ressha de Ikou 2001 | 252186 | [252186-train-kit-for-a-ressha-de-ikou-2001.json](./252186-train-kit-for-a-ressha-de-ikou-2001.json) |
 | Train Life: A Railway Simulator | 163012 | [163012-train-life-a-railway-simulator.json](./163012-train-life-a-railway-simulator.json) |
 | Train Life: A Railway Simulator - 1920's Orient-Express Train | 219541 | [219541-train-life-a-railway-simulator-1920s-orient-express-train.json](./219541-train-life-a-railway-simulator-1920s-orient-express-train.json) |
 | Train Life: A Railway Simulator - The Orient-Express Edition | 214141 | [214141-train-life-a-railway-simulator-the-orient-express-edition.json](./214141-train-life-a-railway-simulator-the-orient-express-edition.json) |
@@ -27388,6 +27390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator USA | 125753 | [125753-truck-simulator-usa.json](./125753-truck-simulator-usa.json) |
 | Truck Simulator USA & ATV Monster Rally Bundle | 306513 | [306513-truck-simulator-usa-and-atv-monster-rally-bundle.json](./306513-truck-simulator-usa-and-atv-monster-rally-bundle.json) |
 | Truck Simulator USA Car Games: Driving games & Car 2022 | 196177 | [196177-truck-simulator-usa-car-games-driving-games-and-car-2022.json](./196177-truck-simulator-usa-car-games-driving-games-and-car-2022.json) |
+| Truck Simulator USA Revolution | 252314 | [252314-truck-simulator-usa-revolution.json](./252314-truck-simulator-usa-revolution.json) |
 | Truck Simulator World Tour Bundle: American and European Edition | 405920 | [405920-truck-simulator-world-tour-bundle-american-and-european-edition.json](./405920-truck-simulator-world-tour-bundle-american-and-european-edition.json) |
 | Truck Simulator: Delivery in City | 375410 | [375410-truck-simulator-delivery-in-city.json](./375410-truck-simulator-delivery-in-city.json) |
 | Truck Simulator: Driving School 2024 | 276862 | [276862-truck-simulator-driving-school-2024.json](./276862-truck-simulator-driving-school-2024.json) |
