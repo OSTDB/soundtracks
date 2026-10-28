@@ -4346,7 +4346,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII | 207028 | [207028-final-fantasy-vii.json](./207028-final-fantasy-vii.json) |
 | Final Fantasy VII | 381337 | [381337-final-fantasy-vii.json](./381337-final-fantasy-vii.json) |
 | Final Fantasy VII | 392808 | [392808-final-fantasy-vii.json](./392808-final-fantasy-vii.json) |
-| Final Fantasy VII | 393025 | [393025-final-fantasy-vii.json](./393025-final-fantasy-vii.json) |
 | Final Fantasy VII & Final Fantasy VIII Remastered Twin Pack | 127879 | [127879-final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack.json](./127879-final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack.json) |
 | Final Fantasy VII + VIII Double Pack | 55049 | [55049-final-fantasy-vii-viii-double-pack.json](./55049-final-fantasy-vii-viii-double-pack.json) |
 | Final Fantasy VII G-Bike | 7398 | [7398-final-fantasy-vii-g-bike.json](./7398-final-fantasy-vii-g-bike.json) |
