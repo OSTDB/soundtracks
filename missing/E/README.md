@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed, Edd n Eddy's Candy Machine Deluxe | 196798 | [196798-ed-edd-n-eddys-candy-machine-deluxe.json](./196798-ed-edd-n-eddys-candy-machine-deluxe.json) |
 | Ed, Edd, n' Eddy: Night of the Living Ed | 364540 | [364540-ed-edd-n-eddy-night-of-the-living-ed.json](./364540-ed-edd-n-eddy-night-of-the-living-ed.json) |
 | Ed's world story | 246850 | [246850-eds-world-story.json](./246850-eds-world-story.json) |
+| Edacity Snakes | 277690 | [277690-edacity-snakes.json](./277690-edacity-snakes.json) |
 | Edain Mod | 356216 | [356216-edain-mod.json](./356216-edain-mod.json) |
 | Edd Skeleton Game | 334004 | [334004-edd-skeleton-game.json](./334004-edd-skeleton-game.json) |
 | Edd the Duck | 265043 | [265043-edd-the-duck.json](./265043-edd-the-duck.json) |
@@ -6481,6 +6482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exisled | 80376 | [80376-exisled.json](./80376-exisled.json) |
 | Exist | 117407 | [117407-exist.json](./117407-exist.json) |
 | Exist | 212488 | [212488-exist.json](./212488-exist.json) |
+| Exist | 277683 | [277683-exist.json](./277683-exist.json) |
 | Exist | 390693 | [390693-exist.json](./390693-exist.json) |
 | Exist | 88472 | [88472-exist.json](./88472-exist.json) |
 | Exist Archive: The Other Side of the Sky | 11540 | [11540-exist-archive-the-other-side-of-the-sky.json](./11540-exist-archive-the-other-side-of-the-sky.json) |
