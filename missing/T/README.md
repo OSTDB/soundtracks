@@ -3635,6 +3635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tens Junior Maths IQ Challenge | 103993 | [103993-tens-junior-maths-iq-challenge.json](./103993-tens-junior-maths-iq-challenge.json) |
 | Tensai Bakabon | 46110 | [46110-tensai-bakabon.json](./46110-tensai-bakabon.json) |
 | Tensai Bit-Kun: Gramon Battle | 4198 | [4198-tensai-bit-kun-gramon-battle.json](./4198-tensai-bit-kun-gramon-battle.json) |
+| Tense | 260286 | [260286-tense.json](./260286-tense.json) |
 | Tense Parking | 392755 | [392755-tense-parking.json](./392755-tense-parking.json) |
 | Tensei | 264610 | [264610-tensei.json](./264610-tensei.json) |
 | Tensei Hakkenshi Fuumaroku | 221604 | [221604-tensei-hakkenshi-fuumaroku.json](./221604-tensei-hakkenshi-fuumaroku.json) |
@@ -4433,6 +4434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texnoplazm | 269190 | [269190-texnoplazm.json](./269190-texnoplazm.json) |
 | Texplore | 383946 | [383946-texplore.json](./383946-texplore.json) |
 | Text | 110635 | [110635-text.json](./110635-text.json) |
+| Text Adventure | 260272 | [260272-text-adventure.json](./260272-text-adventure.json) |
 | Text Adventure Engine | 295361 | [295361-text-adventure-engine.json](./295361-text-adventure-engine.json) |
 | Text Adventure Engine: Chicken Boy | 295362 | [295362-text-adventure-engine-chicken-boy.json](./295362-text-adventure-engine-chicken-boy.json) |
 | Text Adventure: Xianghua-hen | 227749 | [227749-text-adventure-xianghua-hen.json](./227749-text-adventure-xianghua-hen.json) |
@@ -5301,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms: Deeper | 201535 | [201535-the-backrooms-deeper.json](./201535-the-backrooms-deeper.json) |
 | The Backrooms: Escape | 272252 | [272252-the-backrooms-escape.json](./272252-the-backrooms-escape.json) |
 | The Backrooms: Forsaken | 329584 | [329584-the-backrooms-forsaken.json](./329584-the-backrooms-forsaken.json) |
+| The Backrooms: Last Expedition | 260284 | [260284-the-backrooms-last-expedition.json](./260284-the-backrooms-last-expedition.json) |
 | The Backrooms: Liminal Reality | 238066 | [238066-the-backrooms-liminal-reality.json](./238066-the-backrooms-liminal-reality.json) |
 | The Backrooms: Liminal Space | 379849 | [379849-the-backrooms-liminal-space.json](./379849-the-backrooms-liminal-space.json) |
 | The Backrooms: Lost Tape | 197312 | [197312-the-backrooms-lost-tape.json](./197312-the-backrooms-lost-tape.json) |
@@ -11633,6 +11636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lustful Champion | 384753 | [384753-the-lustful-champion.json](./384753-the-lustful-champion.json) |
 | The Lustful Touch | 371926 | [371926-the-lustful-touch.json](./371926-the-lustful-touch.json) |
 | The Lychgate | 268919 | [268919-the-lychgate.json](./268919-the-lychgate.json) |
+| The M/S Cornelia II Incident | 260271 | [260271-the-m-s-cornelia-ii-incident.json](./260271-the-m-s-cornelia-ii-incident.json) |
 | The m0rg VS keys | 93721 | [93721-the-m0rg-vs-keys.json](./93721-the-m0rg-vs-keys.json) |
 | The M1 Tank Platoon Collection | 227121 | [227121-the-m1-tank-platoon-collection.json](./227121-the-m1-tank-platoon-collection.json) |
 | The Machine | 288126 | [288126-the-machine.json](./288126-the-machine.json) |
@@ -13951,6 +13955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets of Hope | 236533 | [236533-the-secrets-of-hope.json](./236533-the-secrets-of-hope.json) |
 | The Secrets of Hosea Freeman | 62691 | [62691-the-secrets-of-hosea-freeman.json](./62691-the-secrets-of-hosea-freeman.json) |
 | The Secrets of Jesus | 122495 | [122495-the-secrets-of-jesus.json](./122495-the-secrets-of-jesus.json) |
+| The Secrets of Skellig | 260264 | [260264-the-secrets-of-skellig.json](./260264-the-secrets-of-skellig.json) |
 | The Secrets of the Forest | 336562 | [336562-the-secrets-of-the-forest.json](./336562-the-secrets-of-the-forest.json) |
 | The Secrets of the Forest | 99451 | [99451-the-secrets-of-the-forest.json](./99451-the-secrets-of-the-forest.json) |
 | The Secrets We Grow | 362483 | [362483-the-secrets-we-grow.json](./362483-the-secrets-we-grow.json) |
@@ -26671,6 +26676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trifide | 94381 | [94381-trifide.json](./94381-trifide.json) |
 | Trifling | 315531 | [315531-trifling.json](./315531-trifling.json) |
 | Trifoil | 312574 | [312574-trifoil.json](./312574-trifoil.json) |
+| TriFute | 260278 | [260278-trifute.json](./260278-trifute.json) |
 | Triga | 199652 | [199652-triga.json](./199652-triga.json) |
 | Trigaea | 227914 | [227914-trigaea.json](./227914-trigaea.json) |
 | Trigger | 104044 | [104044-trigger.json](./104044-trigger.json) |
