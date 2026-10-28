@@ -2077,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiki's Adventure | 125462 | [125462-kikis-adventure.json](./125462-kikis-adventure.json) |
 | Kiki's Vacation | 192195 | [192195-kikis-vacation.json](./192195-kikis-vacation.json) |
 | KikiMimi2 | 123511 | [123511-kikimimi2.json](./123511-kikimimi2.json) |
+| Kikimora's Clean-Up | 253708 | [253708-kikimoras-clean-up.json](./253708-kikimoras-clean-up.json) |
 | Kiko and the Game Kids | 326677 | [326677-kiko-and-the-game-kids.json](./326677-kiko-and-the-game-kids.json) |
 | Kiko: The Last Totem | 92080 | [92080-kiko-the-last-totem.json](./92080-kiko-the-last-totem.json) |
 | Kiko's Apple Adventure | 336635 | [336635-kikos-apple-adventure.json](./336635-kikos-apple-adventure.json) |
@@ -2478,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindawn: The Parish Remembers | 412555 | [412555-kindawn-the-parish-remembers.json](./412555-kindawn-the-parish-remembers.json) |
 | Kinder | 261432 | [261432-kinder.json](./261432-kinder.json) |
 | Kinder Finders | 339398 | [339398-kinder-finders.json](./339398-kinder-finders.json) |
+| Kinder World | 253710 | [253710-kinder-world.json](./253710-kinder-world.json) |
 | Kindergarten | 215760 | [215760-kindergarten.json](./215760-kindergarten.json) |
 | Kindergarten | 29526 | [29526-kindergarten.json](./29526-kindergarten.json) |
 | Kindergarten 2 | 118637 | [118637-kindergarten-2.json](./118637-kindergarten-2.json) |
