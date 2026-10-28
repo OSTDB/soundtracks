@@ -5720,6 +5720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evac Point | 389541 | [389541-evac-point.json](./389541-evac-point.json) |
 | Evacuate | 350334 | [350334-evacuate.json](./350334-evacuate.json) |
 | Evacuation | 182454 | [182454-evacuation.json](./182454-evacuation.json) |
+| Evacuation | 230493 | [230493-evacuation.json](./230493-evacuation.json) |
 | Evacuation Combat | 156682 | [156682-evacuation-combat.json](./156682-evacuation-combat.json) |
 | Evacuation Zone: Tampere | 342759 | [342759-evacuation-zone-tampere.json](./342759-evacuation-zone-tampere.json) |
 | Evade | 139677 | [139677-evade.json](./139677-evade.json) |
