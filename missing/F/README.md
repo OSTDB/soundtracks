@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Advisor | 104551 | [104551-fashion-advisor.json](./104551-fashion-advisor.json) |
 | Fashion AR | 116406 | [116406-fashion-ar.json](./116406-fashion-ar.json) |
 | Fashion Boutique | 142717 | [142717-fashion-boutique.json](./142717-fashion-boutique.json) |
+| Fashion Contract | 244926 | [244926-fashion-contract.json](./244926-fashion-contract.json) |
 | Fashion Designer | 128988 | [128988-fashion-designer.json](./128988-fashion-designer.json) |
 | Fashion Designer: High Fashion | 69106 | [69106-fashion-designer-high-fashion.json](./69106-fashion-designer-high-fashion.json) |
 | Fashion Diva Dress Up - Fashionista World | 103904 | [103904-fashion-diva-dress-up-fashionista-world.json](./103904-fashion-diva-dress-up-fashionista-world.json) |
