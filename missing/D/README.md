@@ -1477,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Moon | 69681 | [69681-dark-moon.json](./69681-dark-moon.json) |
 | Dark Moon Deities | 339366 | [339366-dark-moon-deities.json](./339366-dark-moon-deities.json) |
 | Dark Moon Motel | 219650 | [219650-dark-moon-motel.json](./219650-dark-moon-motel.json) |
+| Dark Mountain | 268603 | [268603-dark-mountain.json](./268603-dark-mountain.json) |
 | Dark Mountain II | 268626 | [268626-dark-mountain-ii.json](./268626-dark-mountain-ii.json) |
 | Dark Mysteries: The Soul Keeper - Collector's Edition | 88202 | [88202-dark-mysteries-the-soul-keeper-collectors-edition.json](./88202-dark-mysteries-the-soul-keeper-collectors-edition.json) |
 | Dark Mystery | 44252 | [44252-dark-mystery.json](./44252-dark-mystery.json) |
@@ -6146,6 +6147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Comets | 184923 | [184923-desert-comets.json](./184923-desert-comets.json) |
 | Desert Complex | 272115 | [272115-desert-complex.json](./272115-desert-complex.json) |
 | Desert Craft Exploration | 95888 | [95888-desert-craft-exploration.json](./95888-desert-craft-exploration.json) |
+| Desert Crypt | 268604 | [268604-desert-crypt.json](./268604-desert-crypt.json) |
 | Desert Demolition Starring Road Runner and Wile E. Coyote | 4518 | [4518-desert-demolition-starring-road-runner-and-wile-e-coyote.json](./4518-desert-demolition-starring-road-runner-and-wile-e-coyote.json) |
 | Desert Dive | 317425 | [317425-desert-dive.json](./317425-desert-dive.json) |
 | Desert Domination | 122922 | [122922-desert-domination.json](./122922-desert-domination.json) |
@@ -12920,6 +12922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monsters: The Dark Prince - Digital Deluxe Edition | 268553 | [268553-dragon-quest-monsters-the-dark-prince-digital-deluxe-edition.json](./268553-dragon-quest-monsters-the-dark-prince-digital-deluxe-edition.json) |
 | Dragon Quest Monsters: The Dark Prince - Master Edition | 261373 | [261373-dragon-quest-monsters-the-dark-prince-master-edition.json](./261373-dragon-quest-monsters-the-dark-prince-master-edition.json) |
 | Dragon Quest Monsters: The Dark Prince - Mighty Meat Platter | 284942 | [284942-dragon-quest-monsters-the-dark-prince-mighty-meat-platter.json](./284942-dragon-quest-monsters-the-dark-prince-mighty-meat-platter.json) |
+| Dragon Quest Monsters: The Dark Prince - The Mole Hole | 268582 | [268582-dragon-quest-monsters-the-dark-prince-the-mole-hole.json](./268582-dragon-quest-monsters-the-dark-prince-the-mole-hole.json) |
 | Dragon Quest Monsters: The Dark Prince - Treasure Trunks | 268571 | [268571-dragon-quest-monsters-the-dark-prince-treasure-trunks.json](./268571-dragon-quest-monsters-the-dark-prince-treasure-trunks.json) |
 | Dragon Quest Monsters: The Withered World | 403174 | [403174-dragon-quest-monsters-the-withered-world.json](./403174-dragon-quest-monsters-the-withered-world.json) |
 | Dragon Quest Monsters: The Withered World - Digital Deluxe Edition | 418330 | [418330-dragon-quest-monsters-the-withered-world-digital-deluxe-edition.json](./418330-dragon-quest-monsters-the-withered-world-digital-deluxe-edition.json) |
@@ -13155,6 +13158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Prophet | 3264 | [3264-dragons-prophet.json](./3264-dragons-prophet.json) |
 | Dragon's Revenge | 46219 | [46219-dragons-revenge.json](./46219-dragons-revenge.json) |
 | Dragon's Rock | 49303 | [49303-dragons-rock.json](./49303-dragons-rock.json) |
+| Dragon's Ruler | 268299 | [268299-dragons-ruler.json](./268299-dragons-ruler.json) |
 | Dragon's Valkyrie: Wings of Fire | 337667 | [337667-dragons-valkyrie-wings-of-fire.json](./337667-dragons-valkyrie-wings-of-fire.json) |
 | Dragon's Vengeance | 154047 | [154047-dragons-vengeance.json](./154047-dragons-vengeance.json) |
 | Dragon's Wake | 34533 | [34533-dragons-wake.json](./34533-dragons-wake.json) |
@@ -14554,6 +14558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Cooking | 311478 | [311478-drop-cooking.json](./311478-drop-cooking.json) |
 | Drop Dead: Remains | 95986 | [95986-drop-dead-remains.json](./95986-drop-dead-remains.json) |
 | Drop Dead: The Cabin | 238999 | [238999-drop-dead-the-cabin.json](./238999-drop-dead-the-cabin.json) |
+| Drop Doll | 268297 | [268297-drop-doll.json](./268297-drop-doll.json) |
 | Drop Duchy | 317865 | [317865-drop-duchy.json](./317865-drop-duchy.json) |
 | Drop Duchy: The North | 383572 | [383572-drop-duchy-the-north.json](./383572-drop-duchy-the-north.json) |
 | Drop Duchy: The Tribe | 370473 | [370473-drop-duchy-the-tribe.json](./370473-drop-duchy-the-tribe.json) |
@@ -14795,6 +14800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DrunKing | 378399 | [378399-drunking.json](./378399-drunking.json) |
 | Drunkknight | 195689 | [195689-drunkknight.json](./195689-drunkknight.json) |
 | Drunkle Ted's Wet and Wreckless | 226819 | [226819-drunkle-teds-wet-and-wreckless.json](./226819-drunkle-teds-wet-and-wreckless.json) |
+| Drunkoff V. | 268296 | [268296-drunkoff-v.json](./268296-drunkoff-v.json) |
 | Drunkonauts | 375201 | [375201-drunkonauts.json](./375201-drunkonauts.json) |
 | Druonio | 177013 | [177013-druonio.json](./177013-druonio.json) |
 | Drusilla Dreams | 33149 | [33149-drusilla-dreams.json](./33149-drusilla-dreams.json) |
@@ -15390,6 +15396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon & Heros | 168125 | [168125-dungeon-and-heros.json](./168125-dungeon-and-heros.json) |
 | Dungeon & Tales: Warriors and Dragons | 252628 | [252628-dungeon-and-tales-warriors-and-dragons.json](./252628-dungeon-and-tales-warriors-and-dragons.json) |
 | Dungeon 100 | 192663 | [192663-dungeon-100.json](./192663-dungeon-100.json) |
+| Dungeon 3D | 268300 | [268300-dungeon-3d.json](./268300-dungeon-3d.json) |
 | Dungeon 3D: Eastern | 277583 | [277583-dungeon-3d-eastern.json](./277583-dungeon-3d-eastern.json) |
 | Dungeon Abyss | 253275 | [253275-dungeon-abyss.json](./253275-dungeon-abyss.json) |
 | Dungeon Adventure | 100677 | [100677-dungeon-adventure.json](./100677-dungeon-adventure.json) |
