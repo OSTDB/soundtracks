@@ -9363,6 +9363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hole Story | 35579 | [35579-the-hole-story.json](./35579-the-hole-story.json) |
 | The Hole Town | 304912 | [304912-the-hole-town.json](./304912-the-hole-town.json) |
 | The Holiday Bakeoff | 325348 | [325348-the-holiday-bakeoff.json](./325348-the-holiday-bakeoff.json) |
+| The Holiday Express: Runaway Elf | 231000 | [231000-the-holiday-express-runaway-elf.json](./231000-the-holiday-express-runaway-elf.json) |
 | The Hollow | 388518 | [388518-the-hollow.json](./388518-the-hollow.json) |
 | The Hollow Alchemist | 371257 | [371257-the-hollow-alchemist.json](./371257-the-hollow-alchemist.json) |
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
@@ -17015,6 +17016,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Mississippi Acres Preserve Cosmetic Pack | 331917 | [331917-thehunter-call-of-the-wild-mississippi-acres-preserve-cosmetic-pack.json](./331917-thehunter-call-of-the-wild-mississippi-acres-preserve-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Modern Rifle Pack | 206793 | [206793-thehunter-call-of-the-wild-modern-rifle-pack.json](./206793-thehunter-call-of-the-wild-modern-rifle-pack.json) |
 | TheHunter: Call of the Wild - New England Mountains | 227336 | [227336-thehunter-call-of-the-wild-new-england-mountains.json](./227336-thehunter-call-of-the-wild-new-england-mountains.json) |
+| TheHunter: Call of the Wild - New England Mountains Scout Cosmetic Pack | 231020 | [231020-thehunter-call-of-the-wild-new-england-mountains-scout-cosmetic-pack.json](./231020-thehunter-call-of-the-wild-new-england-mountains-scout-cosmetic-pack.json) |
+| TheHunter: Call of the Wild - New England Mountains Veteran Cosmetic Pack | 231003 | [231003-thehunter-call-of-the-wild-new-england-mountains-veteran-cosmetic-pack.json](./231003-thehunter-call-of-the-wild-new-england-mountains-veteran-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - New Species 2018 | 206824 | [206824-thehunter-call-of-the-wild-new-species-2018.json](./206824-thehunter-call-of-the-wild-new-species-2018.json) |
 | TheHunter: Call of the Wild - New Species 2019 | 206825 | [206825-thehunter-call-of-the-wild-new-species-2019.json](./206825-thehunter-call-of-the-wild-new-species-2019.json) |
 | TheHunter: Call of the Wild - Parque Fernando | 154336 | [154336-thehunter-call-of-the-wild-parque-fernando.json](./154336-thehunter-call-of-the-wild-parque-fernando.json) |
@@ -17069,6 +17072,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Them's Fightin' Herds: Baihe | 284953 | [284953-thems-fightin-herds-baihe.json](./284953-thems-fightin-herds-baihe.json) |
 | Them's Fightin' Herds: Deluxe Edition | 203089 | [203089-thems-fightin-herds-deluxe-edition.json](./203089-thems-fightin-herds-deluxe-edition.json) |
 | Them's Fightin' Herds: Nidra | 284952 | [284952-thems-fightin-herds-nidra.json](./284952-thems-fightin-herds-nidra.json) |
+| Them's Fightin' Herds: Season 1 Pass | 230999 | [230999-thems-fightin-herds-season-1-pass.json](./230999-thems-fightin-herds-season-1-pass.json) |
+| Them's Fightin' Herds: Texas | 230998 | [230998-thems-fightin-herds-texas.json](./230998-thems-fightin-herds-texas.json) |
 | Them's Tale: The Road to Her | 395882 | [395882-thems-tale-the-road-to-her.json](./395882-thems-tale-the-road-to-her.json) |
 | TheMahjong | 317875 | [317875-themahjong.json](./317875-themahjong.json) |
 | Theme Hospital | 1624 | [1624-theme-hospital.json](./1624-theme-hospital.json) |
