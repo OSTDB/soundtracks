@@ -2788,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manor Cafe | 105854 | [105854-manor-cafe.json](./105854-manor-cafe.json) |
 | Manor Dynasty Strategy | 397065 | [397065-manor-dynasty-strategy.json](./397065-manor-dynasty-strategy.json) |
 | Manor Mania | 337846 | [337846-manor-mania.json](./337846-manor-mania.json) |
+| Manor Maze | 235927 | [235927-manor-maze.json](./235927-manor-maze.json) |
 | Manor of Mysteries | 265149 | [265149-manor-of-mysteries.json](./265149-manor-of-mysteries.json) |
 | Manor of Mystic Courtesans | 291072 | [291072-manor-of-mystic-courtesans.json](./291072-manor-of-mystic-courtesans.json) |
 | Manor of Shadows | 380678 | [380678-manor-of-shadows.json](./380678-manor-of-shadows.json) |
@@ -8073,6 +8074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant Empire | 176270 | [176270-merchant-empire.json](./176270-merchant-empire.json) |
 | Merchant in Dungeon | 240788 | [240788-merchant-in-dungeon.json](./240788-merchant-in-dungeon.json) |
 | Merchant Isle | 279488 | [279488-merchant-isle.json](./279488-merchant-isle.json) |
+| Merchant Legends: The Founding | 235950 | [235950-merchant-legends-the-founding.json](./235950-merchant-legends-the-founding.json) |
 | Merchant of Phenistoria | 159574 | [159574-merchant-of-phenistoria.json](./159574-merchant-of-phenistoria.json) |
 | Merchant of the Six Kingdoms | 236180 | [236180-merchant-of-the-six-kingdoms.json](./236180-merchant-of-the-six-kingdoms.json) |
 | Merchant Prince | 19705 | [19705-merchant-prince.json](./19705-merchant-prince.json) |
@@ -11389,6 +11391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minions of Elden | 176423 | [176423-minions-of-elden.json](./176423-minions-of-elden.json) |
 | Minions of Elden Online | 170924 | [170924-minions-of-elden-online.json](./170924-minions-of-elden-online.json) |
 | Minions of Mirth | 92326 | [92326-minions-of-mirth.json](./92326-minions-of-mirth.json) |
+| Minions of Steel | 235934 | [235934-minions-of-steel.json](./235934-minions-of-steel.json) |
 | Minions On Ice | 338125 | [338125-minions-on-ice.json](./338125-minions-on-ice.json) |
 | Minions Paradise | 11073 | [11073-minions-paradise.json](./11073-minions-paradise.json) |
 | Minions Survivors | 332359 | [332359-minions-survivors.json](./332359-minions-survivors.json) |
