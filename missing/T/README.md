@@ -3104,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken Tag Tournament HD | 143748 | [143748-tekken-tag-tournament-hd.json](./143748-tekken-tag-tournament-hd.json) |
 | Tekken X Street Fighter | 1239 | [1239-tekken-x-street-fighter.json](./1239-tekken-x-street-fighter.json) |
 | Tekken: Dark Resurrection | 389439 | [389439-tekken-dark-resurrection.json](./389439-tekken-dark-resurrection.json) |
+| Tekkouki Mikazuki Taikenban | 269148 | [269148-tekkouki-mikazuki-taikenban.json](./269148-tekkouki-mikazuki-taikenban.json) |
 | Tekkout2: Balls Of Rust | 355879 | [355879-tekkout2-balls-of-rust.json](./355879-tekkout2-balls-of-rust.json) |
 | Tekkyu Fight! The Great Battle Gaiden | 64785 | [64785-tekkyu-fight-the-great-battle-gaiden.json](./64785-tekkyu-fight-the-great-battle-gaiden.json) |
 | Tekkyuuman | 73245 | [73245-tekkyuuman.json](./73245-tekkyuuman.json) |
@@ -7567,6 +7568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls V: Skyrim VR | 37088 | [37088-the-elder-scrolls-v-skyrim-vr.json](./37088-the-elder-scrolls-v-skyrim-vr.json) |
 | The Elder Scrolls VI | 81249 | [81249-the-elder-scrolls-vi.json](./81249-the-elder-scrolls-vi.json) |
 | The Elder Scrolls: Arena - Deluxe Edition | 206663 | [206663-the-elder-scrolls-arena-deluxe-edition.json](./206663-the-elder-scrolls-arena-deluxe-edition.json) |
+| The Elder Scrolls: Castles | 269138 | [269138-the-elder-scrolls-castles.json](./269138-the-elder-scrolls-castles.json) |
 | The Elder Scrolls: Legends - Heroes of Skyrim | 37033 | [37033-the-elder-scrolls-legends-heroes-of-skyrim.json](./37033-the-elder-scrolls-legends-heroes-of-skyrim.json) |
 | The Elder Scrolls: Legends - Return to Clockwork City | 76423 | [76423-the-elder-scrolls-legends-return-to-clockwork-city.json](./76423-the-elder-scrolls-legends-return-to-clockwork-city.json) |
 | The Elder Tales | 264606 | [264606-the-elder-tales.json](./264606-the-elder-tales.json) |
@@ -9211,6 +9213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Highlands of Jurgald | 296752 | [296752-the-highlands-of-jurgald.json](./296752-the-highlands-of-jurgald.json) |
 | The Highscore | 117182 | [117182-the-highscore.json](./117182-the-highscore.json) |
 | The Highway | 365248 | [365248-the-highway.json](./365248-the-highway.json) |
+| The Highway Racing | 269159 | [269159-the-highway-racing.json](./269159-the-highway-racing.json) |
 | The Hike | 188920 | [188920-the-hike.json](./188920-the-hike.json) |
 | The Hiker | 279102 | [279102-the-hiker.json](./279102-the-hiker.json) |
 | The Hikyou Tankentai: Choutoko Special | 124270 | [124270-the-hikyou-tankentai-choutoko-special.json](./124270-the-hikyou-tankentai-choutoko-special.json) |
@@ -14328,6 +14331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Growing Together | 234545 | [234545-the-sims-4-growing-together.json](./234545-the-sims-4-growing-together.json) |
 | The Sims 4: Grunge Revival Kit | 252609 | [252609-the-sims-4-grunge-revival-kit.json](./252609-the-sims-4-grunge-revival-kit.json) |
 | The Sims 4: High School Years | 207387 | [207387-the-sims-4-high-school-years.json](./207387-the-sims-4-high-school-years.json) |
+| The Sims 4: Home Chef Hustle Stuff Pack | 269160 | [269160-the-sims-4-home-chef-hustle-stuff-pack.json](./269160-the-sims-4-home-chef-hustle-stuff-pack.json) |
 | The Sims 4: Horse Ranch | 253116 | [253116-the-sims-4-horse-ranch.json](./253116-the-sims-4-horse-ranch.json) |
 | The Sims 4: Industrial Loft Kit | 165538 | [165538-the-sims-4-industrial-loft-kit.json](./165538-the-sims-4-industrial-loft-kit.json) |
 | The Sims 4: Island Living | 119318 | [119318-the-sims-4-island-living.json](./119318-the-sims-4-island-living.json) |
@@ -24215,6 +24219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 3: Union Pacific Heritage - Livery Collection | 237943 | [237943-train-sim-world-3-union-pacific-heritage-livery-collection.json](./237943-train-sim-world-3-union-pacific-heritage-livery-collection.json) |
 | Train Sim World 4 | 262582 | [262582-train-sim-world-4.json](./262582-train-sim-world-4.json) |
 | Train Sim World 4: Antelope Valley Line - Los Angeles - Lancaster Route | 269324 | [269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json](./269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json) |
+| Train Sim World 4: Austrian Regional Edition | 268833 | [268833-train-sim-world-4-austrian-regional-edition.json](./268833-train-sim-world-4-austrian-regional-edition.json) |
 | Train Sim World 4: Bahnstrecke Salzburg - Rosenheim Route Add-On | 293695 | [293695-train-sim-world-4-bahnstrecke-salzburg-rosenheim-route-add-on.json](./293695-train-sim-world-4-bahnstrecke-salzburg-rosenheim-route-add-on.json) |
 | Train Sim World 4: Berninalinie - Tirano: Ospizio Bernina Route | 286525 | [286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json](./286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json) |
 | Train Sim World 4: Blackpool Branches: Preston - Blackpool & Ormskirk Route Add-On | 279149 | [279149-train-sim-world-4-blackpool-branches-preston-blackpool-and-ormskirk-route-add-on.json](./279149-train-sim-world-4-blackpool-branches-preston-blackpool-and-ormskirk-route-add-on.json) |
@@ -24222,6 +24227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 4: Edinburgh - Glasgow: Engineering Express Pack | 288920 | [288920-train-sim-world-4-edinburgh-glasgow-engineering-express-pack.json](./288920-train-sim-world-4-edinburgh-glasgow-engineering-express-pack.json) |
 | Train Sim World 4: Fife Circle Line - Edinburgh: Markinch via Dunfermline & Kirkcaldy Route | 290905 | [290905-train-sim-world-4-fife-circle-line-edinburgh-markinch-via-dunfermline-and-kirkcaldy-route.json](./290905-train-sim-world-4-fife-circle-line-edinburgh-markinch-via-dunfermline-and-kirkcaldy-route.json) |
 | Train Sim World 4: Flying Scotsman Centenary Edition | 274417 | [274417-train-sim-world-4-flying-scotsman-centenary-edition.json](./274417-train-sim-world-4-flying-scotsman-centenary-edition.json) |
+| Train Sim World 4: German Regional Edition | 268834 | [268834-train-sim-world-4-german-regional-edition.json](./268834-train-sim-world-4-german-regional-edition.json) |
 | Train Sim World 4: LIRR Commuter - New York: Long Beach, Hempstead & Hicksville | 308438 | [308438-train-sim-world-4-lirr-commuter-new-york-long-beach-hempstead-and-hicksville.json](./308438-train-sim-world-4-lirr-commuter-new-york-long-beach-hempstead-and-hicksville.json) |
 | Train Sim World 4: London Overground Suffragette line: Gospel Oak - Barking Riverside Route Add-On | 293692 | [293692-train-sim-world-4-london-overground-suffragette-line-gospel-oak-barking-riverside-route-add-on.json](./293692-train-sim-world-4-london-overground-suffragette-line-gospel-oak-barking-riverside-route-add-on.json) |
 | Train Sim World 4: Maintalbahn: Aschaffenburg - Miltenberg Route Add-On | 279147 | [279147-train-sim-world-4-maintalbahn-aschaffenburg-miltenberg-route-add-on.json](./279147-train-sim-world-4-maintalbahn-aschaffenburg-miltenberg-route-add-on.json) |
@@ -24229,6 +24235,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 4: RhB Arosa Aggregates Pack | 277587 | [277587-train-sim-world-4-rhb-arosa-aggregates-pack.json](./277587-train-sim-world-4-rhb-arosa-aggregates-pack.json) |
 | Train Sim World 4: S-Bahn Vorarlberg - Lindau - Bludenz Route | 269322 | [269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json](./269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json) |
 | Train Sim World 4: Semmeringbahn - Wiener Neustadt - Mürzzuschlag Route | 298259 | [298259-train-sim-world-4-semmeringbahn-wiener-neustadt-murzzuschlag-route.json](./298259-train-sim-world-4-semmeringbahn-wiener-neustadt-murzzuschlag-route.json) |
+| Train Sim World 4: UK Regional Edition | 268835 | [268835-train-sim-world-4-uk-regional-edition.json](./268835-train-sim-world-4-uk-regional-edition.json) |
+| Train Sim World 4: USA Regional Edition | 268838 | [268838-train-sim-world-4-usa-regional-edition.json](./268838-train-sim-world-4-usa-regional-edition.json) |
 | Train Sim World 5 | 314215 | [314215-train-sim-world-5.json](./314215-train-sim-world-5.json) |
 | Train Sim World 5: Amtrak's Acela | 359951 | [359951-train-sim-world-5-amtraks-acela.json](./359951-train-sim-world-5-amtraks-acela.json) |
 | Train Sim World 5: Arosalinie: Chur - Arosa Route Add-On | 359930 | [359930-train-sim-world-5-arosalinie-chur-arosa-route-add-on.json](./359930-train-sim-world-5-arosalinie-chur-arosa-route-add-on.json) |
