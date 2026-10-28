@@ -2165,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Breach | 388566 | [388566-data-breach.json](./388566-data-breach.json) |
 | Data Carddass Dragon Ball Z | 66916 | [66916-data-carddass-dragon-ball-z.json](./66916-data-carddass-dragon-ball-z.json) |
 | Data Carddass Dragon Ball Z 2 | 66915 | [66915-data-carddass-dragon-ball-z-2.json](./66915-data-carddass-dragon-ball-z-2.json) |
+| Data Center | 273728 | [273728-data-center.json](./273728-data-center.json) |
 | Data Center | 380236 | [380236-data-center.json](./380236-data-center.json) |
 | Data Defense | 104655 | [104655-data-defense.json](./104655-data-defense.json) |
 | Data Delivery Agents | 241974 | [241974-data-delivery-agents.json](./241974-data-delivery-agents.json) |
@@ -16579,6 +16580,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dystobel | 240687 | [240687-dystobel.json](./240687-dystobel.json) |
 | Dystofarm | 275347 | [275347-dystofarm.json](./275347-dystofarm.json) |
 | Dystopia | 108428 | [108428-dystopia.json](./108428-dystopia.json) |
+| Dystopia 3: Re-Birth of Anarchy | 273733 | [273733-dystopia-3-re-birth-of-anarchy.json](./273733-dystopia-3-re-birth-of-anarchy.json) |
+| Dystopia 3: Re-Birth of Anarchy Addon | 273742 | [273742-dystopia-3-re-birth-of-anarchy-addon.json](./273742-dystopia-3-re-birth-of-anarchy-addon.json) |
 | Dystopia Derby | 366558 | [366558-dystopia-derby.json](./366558-dystopia-derby.json) |
 | Dystopia RPG | 376132 | [376132-dystopia-rpg.json](./376132-dystopia-rpg.json) |
 | Dystopia: Contest of Heroes | 165361 | [165361-dystopia-contest-of-heroes.json](./165361-dystopia-contest-of-heroes.json) |
