@@ -2193,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf-Mail | 178524 | [178524-elf-mail.json](./178524-elf-mail.json) |
 | Elf-World: Three Kingdoms | 61888 | [61888-elf-world-three-kingdoms.json](./61888-elf-world-three-kingdoms.json) |
 | Elf: The Movie | 49301 | [49301-elf-the-movie.json](./49301-elf-the-movie.json) |
+| Elf's Scary Little Nightmares | 252958 | [252958-elfs-scary-little-nightmares.json](./252958-elfs-scary-little-nightmares.json) |
 | Elfazar's Hat | 318713 | [318713-elfazars-hat.json](./318713-elfazars-hat.json) |
 | Elfblade | 152209 | [152209-elfblade.json](./152209-elfblade.json) |
 | Elfenberg | 291681 | [291681-elfenberg.json](./291681-elfenberg.json) |
@@ -2484,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysium: Blood Games | 33828 | [33828-elysium-blood-games.json](./33828-elysium-blood-games.json) |
 | Elysium: Blue Den Mansion | 410488 | [410488-elysium-blue-den-mansion.json](./410488-elysium-blue-den-mansion.json) |
 | Elysium's Curse | 257352 | [257352-elysiums-curse.json](./257352-elysiums-curse.json) |
+| Elzzup | 252876 | [252876-elzzup.json](./252876-elzzup.json) |
 | Em | 187163 | [187163-em.json](./187163-em.json) |
 | Em-A-Li | 127793 | [127793-em-a-li.json](./127793-em-a-li.json) |
 | Em-A-Zurvival | 143970 | [143970-em-a-zurvival.json](./143970-em-a-zurvival.json) |
@@ -3172,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Crusade | 99015 | [99015-endless-crusade.json](./99015-endless-crusade.json) |
 | Endless Dark | 236912 | [236912-endless-dark.json](./236912-endless-dark.json) |
 | Endless Days | 240077 | [240077-endless-days.json](./240077-endless-days.json) |
+| Endless Days II | 252538 | [252538-endless-days-ii.json](./252538-endless-days-ii.json) |
 | Endless Dead | 35407 | [35407-endless-dead.json](./35407-endless-dead.json) |
 | Endless Deaths | 331920 | [331920-endless-deaths.json](./331920-endless-deaths.json) |
 | Endless Defence 2 | 120728 | [120728-endless-defence-2.json](./120728-endless-defence-2.json) |
