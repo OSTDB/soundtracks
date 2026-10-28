@@ -1413,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Hidden Secret | 368258 | [368258-family-hidden-secret.json](./368258-family-hidden-secret.json) |
 | Family Igo: Super Strong | 83472 | [83472-family-igo-super-strong.json](./83472-family-igo-super-strong.json) |
 | Family in Puzzle House | 261163 | [261163-family-in-puzzle-house.json](./261163-family-in-puzzle-house.json) |
+| Family Jigsaw Puzzle: Classic Mosaic Puzzles | 255188 | [255188-family-jigsaw-puzzle-classic-mosaic-puzzles.json](./255188-family-jigsaw-puzzle-classic-mosaic-puzzles.json) |
 | Family Jockey | 268128 | [268128-family-jockey.json](./268128-family-jockey.json) |
 | Family Jockey | 63542 | [63542-family-jockey.json](./63542-family-jockey.json) |
 | Family Jockey 2: Meiba no Kettou | 137878 | [137878-family-jockey-2-meiba-no-kettou.json](./137878-family-jockey-2-meiba-no-kettou.json) |
@@ -3497,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fetch Re;Quest | 361060 | [361060-fetch-re-quest.json](./361060-fetch-re-quest.json) |
 | Fetidity | 404163 | [404163-fetidity.json](./404163-fetidity.json) |
 | Fetish Club | 298320 | [298320-fetish-club.json](./298320-fetish-club.json) |
+| Fetish Fetish Collection! DX | 254882 | [254882-fetish-fetish-collection-dx.json](./254882-fetish-fetish-collection-dx.json) |
 | Fetish Fighters | 242931 | [242931-fetish-fighters.json](./242931-fetish-fighters.json) |
 | Fetish Locator | 255686 | [255686-fetish-locator.json](./255686-fetish-locator.json) |
 | Fetish Locator Week Three | 281337 | [281337-fetish-locator-week-three.json](./281337-fetish-locator-week-three.json) |
