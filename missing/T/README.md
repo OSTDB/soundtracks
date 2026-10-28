@@ -14956,6 +14956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Super Penguboy | 272178 | [272178-the-super-penguboy.json](./272178-the-super-penguboy.json) |
 | The Super Pie Throwing | 322254 | [322254-the-super-pie-throwing.json](./322254-the-super-pie-throwing.json) |
 | The Super Robot Bros | 313134 | [313134-the-super-robot-bros.json](./313134-the-super-robot-bros.json) |
+| The Super Shinobi | 266331 | [266331-the-super-shinobi.json](./266331-the-super-shinobi.json) |
 | The Super Spy | 46838 | [46838-the-super-spy.json](./46838-the-super-spy.json) |
 | The Super Sucker II | 108812 | [108812-the-super-sucker-ii.json](./108812-the-super-sucker-ii.json) |
 | The Superfluous | 31953 | [31953-the-superfluous.json](./31953-the-superfluous.json) |
@@ -18164,6 +18165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiffy's Magical Tales: Pinocchio | 323976 | [323976-tiffys-magical-tales-pinocchio.json](./323976-tiffys-magical-tales-pinocchio.json) |
 | Tiger & Bunny: Hero's Day | 63842 | [63842-tiger-and-bunny-heros-day.json](./63842-tiger-and-bunny-heros-day.json) |
 | Tiger & Bunny: On Air Jack! | 64861 | [64861-tiger-and-bunny-on-air-jack.json](./64861-tiger-and-bunny-on-air-jack.json) |
+| Tiger Blade | 266362 | [266362-tiger-blade.json](./266362-tiger-blade.json) |
 | Tiger Burger | 394217 | [394217-tiger-burger.json](./394217-tiger-burger.json) |
 | Tiger Casino | 131276 | [131276-tiger-casino.json](./131276-tiger-casino.json) |
 | Tiger Casino & Slot Game | 373625 | [373625-tiger-casino-and-slot-game.json](./373625-tiger-casino-and-slot-game.json) |
@@ -27176,6 +27178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck City | 351149 | [351149-truck-city.json](./351149-truck-city.json) |
 | Truck Dismount | 19284 | [19284-truck-dismount.json](./19284-truck-dismount.json) |
 | Truck Drag Racing Legends | 281047 | [281047-truck-drag-racing-legends.json](./281047-truck-drag-racing-legends.json) |
+| Truck Drag Racing Legends Simulator | 266338 | [266338-truck-drag-racing-legends-simulator.json](./266338-truck-drag-racing-legends-simulator.json) |
 | Truck Driver | 90387 | [90387-truck-driver.json](./90387-truck-driver.json) |
 | Truck Driver + Hidden Places & Damage System DLC Bundle | 164852 | [164852-truck-driver-hidden-places-and-damage-system-dlc-bundle.json](./164852-truck-driver-hidden-places-and-damage-system-dlc-bundle.json) |
 | Truck Driver Go | 320383 | [320383-truck-driver-go.json](./320383-truck-driver-go.json) |
