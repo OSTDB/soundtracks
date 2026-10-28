@@ -1778,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko no Sentouki | 343390 | [343390-neko-no-sentouki.json](./343390-neko-no-sentouki.json) |
 | Neko Nyaa~ | 195479 | [195479-neko-nyaa.json](./195479-neko-nyaa.json) |
 | Neko Odyssey | 261383 | [261383-neko-odyssey.json](./261383-neko-odyssey.json) |
+| Neko Office: Nightlife Adventures | 246011 | [246011-neko-office-nightlife-adventures.json](./246011-neko-office-nightlife-adventures.json) |
 | Neko Papala | 150539 | [150539-neko-papala.json](./150539-neko-papala.json) |
 | Neko Puzzle | 212851 | [212851-neko-puzzle.json](./212851-neko-puzzle.json) |
 | Neko Rescue Tale | 241040 | [241040-neko-rescue-tale.json](./241040-neko-rescue-tale.json) |
@@ -2187,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Marble Rust | 267019 | [267019-neon-marble-rust.json](./267019-neon-marble-rust.json) |
 | Neon Merger | 339309 | [339309-neon-merger.json](./339309-neon-merger.json) |
 | Neon Net | 291569 | [291569-neon-net.json](./291569-neon-net.json) |
+| Neon Nexus | 244933 | [244933-neon-nexus.json](./244933-neon-nexus.json) |
 | Neon Nexus | 301973 | [301973-neon-nexus.json](./301973-neon-nexus.json) |
 | Neon Nexus | 369343 | [369343-neon-nexus.json](./369343-neon-nexus.json) |
 | Neon Nights | 159821 | [159821-neon-nights.json](./159821-neon-nights.json) |
@@ -4514,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Otedama R | 240729 | [240729-ninja-otedama-r.json](./240729-ninja-otedama-r.json) |
 | Ninja Pac Man | 66382 | [66382-ninja-pac-man.json](./66382-ninja-pac-man.json) |
 | Ninja Painter 2 | 238965 | [238965-ninja-painter-2.json](./238965-ninja-painter-2.json) |
+| Ninja Party | 246005 | [246005-ninja-party.json](./246005-ninja-party.json) |
 | Ninja Party | 340839 | [340839-ninja-party.json](./340839-ninja-party.json) |
 | Ninja Pizza Girl | 18336 | [18336-ninja-pizza-girl.json](./18336-ninja-pizza-girl.json) |
 | Ninja Ponk HD | 232184 | [232184-ninja-ponk-hd.json](./232184-ninja-ponk-hd.json) |
@@ -4902,6 +4905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Contact | 302114 | [302114-no-contact.json](./302114-no-contact.json) |
 | No Cook Today | 414829 | [414829-no-cook-today.json](./414829-no-cook-today.json) |
 | No Cortarás a tu Hermana con el Filo de Esta Espada | 135690 | [135690-no-cortaras-a-tu-hermana-con-el-filo-de-esta-espada.json](./135690-no-cortaras-a-tu-hermana-con-el-filo-de-esta-espada.json) |
+| No Creeps Were Harmed TD | 244937 | [244937-no-creeps-were-harmed-td.json](./244937-no-creeps-were-harmed-td.json) |
 | No Crime | 244298 | [244298-no-crime.json](./244298-no-crime.json) |
 | No Crossing | 111855 | [111855-no-crossing.json](./111855-no-crossing.json) |
 | No Crying in Baseball | 180514 | [180514-no-crying-in-baseball.json](./180514-no-crying-in-baseball.json) |
@@ -6451,6 +6455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nukitashi 2 | 207209 | [207209-nukitashi-2.json](./207209-nukitashi-2.json) |
 | Nuklear Klone | 279805 | [279805-nuklear-klone.json](./279805-nuklear-klone.json) |
 | Nulandia | 304718 | [304718-nulandia.json](./304718-nulandia.json) |
+| Null | 245655 | [245655-null.json](./245655-null.json) |
 | Null | 279802 | [279802-null.json](./279802-null.json) |
 | Null | 401139 | [401139-null.json](./401139-null.json) |
 | Null & Peta -Invasion of the Queen Bug- | 127372 | [127372-null-and-peta-invasion-of-the-queen-bug.json](./127372-null-and-peta-invasion-of-the-queen-bug.json) |
