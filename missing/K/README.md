@@ -1144,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Koneko DS | 130800 | [130800-kawaii-koneko-ds.json](./130800-kawaii-koneko-ds.json) |
 | Kawaii Koneko DS 2 | 68005 | [68005-kawaii-koneko-ds-2.json](./68005-kawaii-koneko-ds-2.json) |
 | Kawaii Koneko DS 3 | 130728 | [130728-kawaii-koneko-ds-3.json](./130728-kawaii-koneko-ds-3.json) |
+| Kawaii Mansion: Home Makeover | 250561 | [250561-kawaii-mansion-home-makeover.json](./250561-kawaii-mansion-home-makeover.json) |
 | Kawaii Memory | 158138 | [158138-kawaii-memory.json](./158138-kawaii-memory.json) |
 | Kawaii Neko Girls | 160104 | [160104-kawaii-neko-girls.json](./160104-kawaii-neko-girls.json) |
 | Kawaii Neko Girls 2 | 319847 | [319847-kawaii-neko-girls-2.json](./319847-kawaii-neko-girls-2.json) |
@@ -2101,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kikuni Masahiko: Jirushi Warau Fukei-san Pachi-Slot Hunter | 65214 | [65214-kikuni-masahiko-jirushi-warau-fukei-san-pachi-slot-hunter.json](./65214-kikuni-masahiko-jirushi-warau-fukei-san-pachi-slot-hunter.json) |
 | Kikura | 212181 | [212181-kikura.json](./212181-kikura.json) |
 | KilaFlow | 265955 | [265955-kilaflow.json](./265955-kilaflow.json) |
+| Kilager | 249824 | [249824-kilager.json](./249824-kilager.json) |
 | Kilari: Become a Star | 70673 | [70673-kilari-become-a-star.json](./70673-kilari-become-a-star.json) |
 | Kileak: The DNA Imperative | 20255 | [20255-kileak-the-dna-imperative.json](./20255-kileak-the-dna-imperative.json) |
 | Kilgazar | 62105 | [62105-kilgazar.json](./62105-kilgazar.json) |
@@ -2271,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Klowns From Outer Space: Infernal Tracker - Slappy | 322734 | [322734-killer-klowns-from-outer-space-infernal-tracker-slappy.json](./322734-killer-klowns-from-outer-space-infernal-tracker-slappy.json) |
 | Killer Klowns from Outer Space: The Game | 214411 | [214411-killer-klowns-from-outer-space-the-game.json](./214411-killer-klowns-from-outer-space-the-game.json) |
 | Killer Klowns From Outer Space: The Game - Digital Deluxe Edition | 303285 | [303285-killer-klowns-from-outer-space-the-game-digital-deluxe-edition.json](./303285-killer-klowns-from-outer-space-the-game-digital-deluxe-edition.json) |
+| Killer Kong | 251149 | [251149-killer-kong.json](./251149-killer-kong.json) |
 | Killer Koobs | 224078 | [224078-killer-koobs.json](./224078-killer-koobs.json) |
 | Killer Loop | 45210 | [45210-killer-loop.json](./45210-killer-loop.json) |
 | Killer Motive | 148330 | [148330-killer-motive.json](./148330-killer-motive.json) |
@@ -3935,6 +3938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightmare Lands | 120702 | [120702-knightmare-lands.json](./120702-knightmare-lands.json) |
 | Knightmare Tales | 292746 | [292746-knightmare-tales.json](./292746-knightmare-tales.json) |
 | Knightmare Treasure | 179385 | [179385-knightmare-treasure.json](./179385-knightmare-treasure.json) |
+| Knightmares | 249966 | [249966-knightmares.json](./249966-knightmares.json) |
 | KnightOut | 76402 | [76402-knightout.json](./76402-knightout.json) |
 | Knightphone | 118267 | [118267-knightphone.json](./118267-knightphone.json) |
 | KnightQuest | 95427 | [95427-knightquest.json](./95427-knightquest.json) |
@@ -4702,6 +4706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korokesu | 221578 | [221578-korokesu.json](./221578-korokesu.json) |
 | Korokke! Ban-Ou no Kiki wo Sukue | 3970 | [3970-korokke-ban-ou-no-kiki-wo-sukue.json](./3970-korokke-ban-ou-no-kiki-wo-sukue.json) |
 | Korokoro | 338756 | [338756-korokoro.json](./338756-korokoro.json) |
+| Korokoro Harley | 250558 | [250558-korokoro-harley.json](./250558-korokoro-harley.json) |
 | Korokoro Post Nin | 92677 | [92677-korokoro-post-nin.json](./92677-korokoro-post-nin.json) |
 | Korolevskaya Noch | 327667 | [327667-korolevskaya-noch.json](./327667-korolevskaya-noch.json) |
 | Koromeke | 386768 | [386768-koromeke.json](./386768-koromeke.json) |
