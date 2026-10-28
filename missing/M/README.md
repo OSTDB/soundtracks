@@ -6765,6 +6765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man World 2 GBC Edition | 306589 | [306589-mega-man-world-2-gbc-edition.json](./306589-mega-man-world-2-gbc-edition.json) |
 | Mega Man World 3 DX | 315770 | [315770-mega-man-world-3-dx.json](./315770-mega-man-world-3-dx.json) |
 | Mega Man World 4 DX | 326554 | [326554-mega-man-world-4-dx.json](./326554-mega-man-world-4-dx.json) |
+| Mega Man World: Dr. Wily's Revenge GBC | 263619 | [263619-mega-man-world-dr-wilys-revenge-gbc.json](./263619-mega-man-world-dr-wilys-revenge-gbc.json) |
 | Mega Man X | 270237 | [270237-mega-man-x.json](./270237-mega-man-x.json) |
 | Mega Man X | 88645 | [88645-mega-man-x.json](./88645-mega-man-x.json) |
 | Mega Man X Alpha | 222928 | [222928-mega-man-x-alpha.json](./222928-mega-man-x-alpha.json) |
