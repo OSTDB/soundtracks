@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Rage | 66347 | [66347-vampire-rage.json](./66347-vampire-rage.json) |
 | Vampire Rain | 7231 | [7231-vampire-rain.json](./7231-vampire-rain.json) |
 | Vampire Rain: Altered Species | 21338 | [21338-vampire-rain-altered-species.json](./21338-vampire-rain-altered-species.json) |
+| Vampire Rancher | 235402 | [235402-vampire-rancher.json](./235402-vampire-rancher.json) |
 | Vampire Receptionist | 345405 | [345405-vampire-receptionist.json](./345405-vampire-receptionist.json) |
 | Vampire Revenge | 169786 | [169786-vampire-revenge.json](./169786-vampire-revenge.json) |
 | Vampire Romance | 223013 | [223013-vampire-romance.json](./223013-vampire-romance.json) |
@@ -1989,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villager | 178521 | [178521-villager.json](./178521-villager.json) |
 | Villager comes alive | 192451 | [192451-villager-comes-alive.json](./192451-villager-comes-alive.json) |
 | Villager's Biography | 102929 | [102929-villagers-biography.json](./102929-villagers-biography.json) |
+| Villager's Hideout | 235387 | [235387-villagers-hideout.json](./235387-villagers-hideout.json) |
 | VillageRhapsody | 225808 | [225808-villagerhapsody.json](./225808-villagerhapsody.json) |
 | Villagers and Heroes | 16843 | [16843-villagers-and-heroes.json](./16843-villagers-and-heroes.json) |
 | Villages | 81014 | [81014-villages.json](./81014-villages.json) |
