@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Blaster 2 | 66775 | [66775-ragdoll-blaster-2.json](./66775-ragdoll-blaster-2.json) |
 | Ragdoll Boxing Multiplayer | 360670 | [360670-ragdoll-boxing-multiplayer.json](./360670-ragdoll-boxing-multiplayer.json) |
 | Ragdoll Cannon | 316711 | [316711-ragdoll-cannon.json](./316711-ragdoll-cannon.json) |
+| Ragdoll Combat | 263071 | [263071-ragdoll-combat.json](./263071-ragdoll-combat.json) |
 | Ragdoll Destroyer | 252673 | [252673-ragdoll-destroyer.json](./252673-ragdoll-destroyer.json) |
 | Ragdoll Dismounting | 199977 | [199977-ragdoll-dismounting.json](./199977-ragdoll-dismounting.json) |
 | Ragdoll Fighter | 147141 | [147141-ragdoll-fighter.json](./147141-ragdoll-fighter.json) |
@@ -3685,6 +3686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redout: Ultimate Edition | 201038 | [201038-redout-ultimate-edition.json](./201038-redout-ultimate-edition.json) |
 | Redout: V.E.R.T.E.X. Pack | 226974 | [226974-redout-v-e-r-t-e-x-pack.json](./226974-redout-v-e-r-t-e-x-pack.json) |
 | ReDraft: The Fantasy Football Simulator | 414361 | [414361-redraft-the-fantasy-football-simulator.json](./414361-redraft-the-fantasy-football-simulator.json) |
+| RedRaptor | 262773 | [262773-redraptor.json](./262773-redraptor.json) |
 | ReDrawn: The Painted Tower | 188035 | [188035-redrawn-the-painted-tower.json](./188035-redrawn-the-painted-tower.json) |
 | ReDrawn: The Painted Tower - Collector's Edition | 193231 | [193231-redrawn-the-painted-tower-collectors-edition.json](./193231-redrawn-the-painted-tower-collectors-edition.json) |
 | RedRive | 123286 | [123286-redrive.json](./123286-redrive.json) |
@@ -5825,7 +5827,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rezon | 40186 | [40186-rezon.json](./40186-rezon.json) |
 | Rezrog | 23504 | [23504-rezrog.json](./23504-rezrog.json) |
 | Rezzil Player | 220710 | [220710-rezzil-player.json](./220710-rezzil-player.json) |
+| Rezzil Player: Adidas Brand Pack | 263066 | [263066-rezzil-player-adidas-brand-pack.json](./263066-rezzil-player-adidas-brand-pack.json) |
 | Rezzil Player: Forest Team Pack | 263130 | [263130-rezzil-player-forest-team-pack.json](./263130-rezzil-player-forest-team-pack.json) |
+| Rezzil Player: Rovers Team Pack | 263074 | [263074-rezzil-player-rovers-team-pack.json](./263074-rezzil-player-rovers-team-pack.json) |
 | RF Online Next | 401458 | [401458-rf-online-next.json](./401458-rf-online-next.json) |
 | RF Project | 193820 | [193820-rf-project.json](./193820-rf-project.json) |
 | RFA Station | 244907 | [244907-rfa-station.json](./244907-rfa-station.json) |
@@ -9160,6 +9164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
 | Romance is Dead | 273098 | [273098-romance-is-dead.json](./273098-romance-is-dead.json) |
 | Romance MD: Always on Call | 239207 | [239207-romance-md-always-on-call.json](./239207-romance-md-always-on-call.json) |
+| Romance of a Demon Kingdom's Fall | 262782 | [262782-romance-of-a-demon-kingdoms-fall.json](./262782-romance-of-a-demon-kingdoms-fall.json) |
 | Romance of Bousouzoku | 298515 | [298515-romance-of-bousouzoku.json](./298515-romance-of-bousouzoku.json) |
 | Romance of the Forgotten Kingdom | 63109 | [63109-romance-of-the-forgotten-kingdom.json](./63109-romance-of-the-forgotten-kingdom.json) |
 | Romance of the Three Kingdom Touch | 21956 | [21956-romance-of-the-three-kingdom-touch.json](./21956-romance-of-the-three-kingdom-touch.json) |
@@ -11134,6 +11139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust: Instruments Pack | 351516 | [351516-rust-instruments-pack.json](./351516-rust-instruments-pack.json) |
 | Rust: Sunburn Pack | 401308 | [401308-rust-sunburn-pack.json](./401308-rust-sunburn-pack.json) |
 | Rust: Voice Props Pack | 154246 | [154246-rust-voice-props-pack.json](./154246-rust-voice-props-pack.json) |
+| Rust'N Ruin | 262784 | [262784-rustn-ruin.json](./262784-rustn-ruin.json) |
 | Rustbucket Rumble | 35699 | [35699-rustbucket-rumble.json](./35699-rustbucket-rumble.json) |
 | Rustbuckets | 415297 | [415297-rustbuckets.json](./415297-rustbuckets.json) |
 | Rusted | 340945 | [340945-rusted.json](./340945-rusted.json) |
