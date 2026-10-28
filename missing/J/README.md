@@ -810,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JD Ware Advance | 417567 | [417567-jd-ware-advance.json](./417567-jd-ware-advance.json) |
 | JDG & le RPG | 354052 | [354052-jdg-and-le-rpg.json](./354052-jdg-and-le-rpg.json) |
 | JDM Drag Racing | 219457 | [219457-jdm-drag-racing.json](./219457-jdm-drag-racing.json) |
+| JDM Euphoria | 264739 | [264739-jdm-euphoria.json](./264739-jdm-euphoria.json) |
 | JDM Pixel Street Car Racing | 340526 | [340526-jdm-pixel-street-car-racing.json](./340526-jdm-pixel-street-car-racing.json) |
 | JDM Racing | 147854 | [147854-jdm-racing.json](./147854-jdm-racing.json) |
 | JDM Racing 2 | 147853 | [147853-jdm-racing-2.json](./147853-jdm-racing-2.json) |
@@ -1132,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Skiing | 246506 | [246506-jet-skiing.json](./246506-jet-skiing.json) |
 | Jet Skiing Race | 290899 | [290899-jet-skiing-race.json](./290899-jet-skiing-race.json) |
 | Jet Trains | 174200 | [174200-jet-trains.json](./174200-jet-trains.json) |
+| Jet Up | 264748 | [264748-jet-up.json](./264748-jet-up.json) |
 | Jet X2O | 77121 | [77121-jet-x2o.json](./77121-jet-x2o.json) |
 | Jet-Boot Jack | 79119 | [79119-jet-boot-jack.json](./79119-jet-boot-jack.json) |
 | Jet-Getters | 61715 | [61715-jet-getters.json](./61715-jet-getters.json) |
@@ -3457,6 +3459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause Collection Bundle | 384104 | [384104-just-cause-collection-bundle.json](./384104-just-cause-collection-bundle.json) |
 | Just Cause Mobile | 141548 | [141548-just-cause-mobile.json](./141548-just-cause-mobile.json) |
 | Just Clean Your Room | 415502 | [415502-just-clean-your-room.json](./415502-just-clean-your-room.json) |
+| Just Click the Button | 264738 | [264738-just-click-the-button.json](./264738-just-click-the-button.json) |
 | Just Climb | 286011 | [286011-just-climb.json](./286011-just-climb.json) |
 | Just Coffee with the Café Guy | 417582 | [417582-just-coffee-with-the-cafe-guy.json](./417582-just-coffee-with-the-cafe-guy.json) |
 | Just Crow Things | 264321 | [264321-just-crow-things.json](./264321-just-crow-things.json) |
@@ -3618,6 +3621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Survive | 279565 | [279565-just-survive.json](./279565-just-survive.json) |
 | Just Take Your Left | 148542 | [148542-just-take-your-left.json](./148542-just-take-your-left.json) |
 | Just Thanks | 267905 | [267905-just-thanks.json](./267905-just-thanks.json) |
+| Just the Two of Us | 264756 | [264756-just-the-two-of-us.json](./264756-just-the-two-of-us.json) |
 | Just Touch The WhiteBox!!! | 262355 | [262355-just-touch-the-whitebox.json](./262355-just-touch-the-whitebox.json) |
 | Just Turn Right | 246252 | [246252-just-turn-right.json](./246252-just-turn-right.json) |
 | Just Two | 299732 | [299732-just-two.json](./299732-just-two.json) |
