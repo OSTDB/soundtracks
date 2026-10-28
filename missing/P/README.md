@@ -6104,6 +6104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Tycoon | 64477 | [64477-pinball-tycoon.json](./64477-pinball-tycoon.json) |
 | Pinball Wicked | 43121 | [43121-pinball-wicked.json](./43121-pinball-wicked.json) |
 | Pinball Wizard | 12959 | [12959-pinball-wizard.json](./12959-pinball-wizard.json) |
+| Pinball Wizard | 260830 | [260830-pinball-wizard.json](./260830-pinball-wizard.json) |
 | Pinball Wizard 2000 | 100104 | [100104-pinball-wizard-2000.json](./100104-pinball-wizard-2000.json) |
 | Pinball World | 51887 | [51887-pinball-world.json](./51887-pinball-world.json) |
 | Pinball Yeah! | 28053 | [28053-pinball-yeah.json](./28053-pinball-yeah.json) |
@@ -8771,6 +8772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutonia 7: Going to the Hell | 260953 | [260953-plutonia-7-going-to-the-hell.json](./260953-plutonia-7-going-to-the-hell.json) |
 | Plutonia: Revisited Community Project | 138167 | [138167-plutonia-revisited-community-project.json](./138167-plutonia-revisited-community-project.json) |
 | Plutonium | 28597 | [28597-plutonium.json](./28597-plutonium.json) |
+| Plutonium Mario 64 | 260840 | [260840-plutonium-mario-64.json](./260840-plutonium-mario-64.json) |
 | Plutonium Pirates | 102363 | [102363-plutonium-pirates.json](./102363-plutonium-pirates.json) |
 | Plutonium Sandpit | 263425 | [263425-plutonium-sandpit.json](./263425-plutonium-sandpit.json) |
 | Plutonium T6 Multiplayer | 315118 | [315118-plutonium-t6-multiplayer.json](./315118-plutonium-t6-multiplayer.json) |
