@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z.O.N.A | 235285 | [235285-z-o-n-a.json](./235285-z-o-n-a.json) |
 | Z.O.N.A Project X | 234584 | [234584-z-o-n-a-project-x.json](./234584-z-o-n-a-project-x.json) |
 | Z.O.N.A Project X VR | 216803 | [216803-z-o-n-a-project-x-vr.json](./216803-z-o-n-a-project-x-vr.json) |
+| Z.O.N.A: Origin | 263075 | [263075-z-o-n-a-origin.json](./263075-z-o-n-a-origin.json) |
 | Z.O.N.A: Shadow of Limansk Redux | 199903 | [199903-z-o-n-a-shadow-of-limansk-redux.json](./199903-z-o-n-a-shadow-of-limansk-redux.json) |
 | Z.W! | 99772 | [99772-z-w.json](./99772-z-w.json) |
 | Z'code | 30782 | [30782-zcode.json](./30782-zcode.json) |
