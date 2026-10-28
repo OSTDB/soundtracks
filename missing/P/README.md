@@ -6100,6 +6100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Spire x 9 Years of Shadows | 396120 | [396120-pinball-spire-x-9-years-of-shadows.json](./396120-pinball-spire-x-9-years-of-shadows.json) |
 | Pinball Storm: Lokanta | 295212 | [295212-pinball-storm-lokanta.json](./295212-pinball-storm-lokanta.json) |
 | Pinball Strike Arcade Rampage | 377720 | [377720-pinball-strike-arcade-rampage.json](./377720-pinball-strike-arcade-rampage.json) |
+| Pinball Tristan | 261855 | [261855-pinball-tristan.json](./261855-pinball-tristan.json) |
 | Pinball Tycoon | 64477 | [64477-pinball-tycoon.json](./64477-pinball-tycoon.json) |
 | Pinball Wicked | 43121 | [43121-pinball-wicked.json](./43121-pinball-wicked.json) |
 | Pinball Wizard | 12959 | [12959-pinball-wizard.json](./12959-pinball-wizard.json) |
@@ -8612,6 +8613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasure Puzzle:Workshop - Part 5 | 163465 | [163465-pleasure-puzzle-workshop-part-5.json](./163465-pleasure-puzzle-workshop-part-5.json) |
 | Pleasure Ran Online | 392332 | [392332-pleasure-ran-online.json](./392332-pleasure-ran-online.json) |
 | Pleasure Sweet Secret | 309737 | [309737-pleasure-sweet-secret.json](./309737-pleasure-sweet-secret.json) |
+| Pleasure Zones | 261923 | [261923-pleasure-zones.json](./261923-pleasure-zones.json) |
 | Pleasuredrome | 325246 | [325246-pleasuredrome.json](./325246-pleasuredrome.json) |
 | Pleasuredromes Of Kubla Khan | 268738 | [268738-pleasuredromes-of-kubla-khan.json](./268738-pleasuredromes-of-kubla-khan.json) |
 | Pleasurepunk: Drug Dealer | 202193 | [202193-pleasurepunk-drug-dealer.json](./202193-pleasurepunk-drug-dealer.json) |
@@ -15102,6 +15104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppeteer's Curse | 285499 | [285499-puppeteers-curse.json](./285499-puppeteers-curse.json) |
 | Puppetmaster: Pose Viewer | 245741 | [245741-puppetmaster-pose-viewer.json](./245741-puppetmaster-pose-viewer.json) |
 | PuppeTNetiK: Speedrun Challenge | 152365 | [152365-puppetnetik-speedrun-challenge.json](./152365-puppetnetik-speedrun-challenge.json) |
+| Puppets' Dream TD | 261639 | [261639-puppets-dream-td.json](./261639-puppets-dream-td.json) |
 | PuppetShow: Destiny Undone | 63571 | [63571-puppetshow-destiny-undone.json](./63571-puppetshow-destiny-undone.json) |
 | PuppetShow: Destiny Undone - Collector's Edition | 105749 | [105749-puppetshow-destiny-undone-collectors-edition.json](./105749-puppetshow-destiny-undone-collectors-edition.json) |
 | PuppetShow: Fatal Mistake | 187931 | [187931-puppetshow-fatal-mistake.json](./187931-puppetshow-fatal-mistake.json) |
