@@ -2373,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary House | 81785 | [81785-scary-house.json](./81785-scary-house.json) |
 | Scary Humans | 31094 | [31094-scary-humans.json](./31094-scary-humans.json) |
 | Scary Library | 263383 | [263383-scary-library.json](./263383-scary-library.json) |
+| Scary Loop | 264194 | [264194-scary-loop.json](./264194-scary-loop.json) |
 | Scary Loop | 376083 | [376083-scary-loop.json](./376083-scary-loop.json) |
 | Scary Manager In Supermarket | 106657 | [106657-scary-manager-in-supermarket.json](./106657-scary-manager-in-supermarket.json) |
 | Scary Mansion Horror House HD | 208677 | [208677-scary-mansion-horror-house-hd.json](./208677-scary-mansion-horror-house-hd.json) |
@@ -11610,6 +11611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slightly Heroes | 112852 | [112852-slightly-heroes.json](./112852-slightly-heroes.json) |
 | Slightly Magic | 97124 | [97124-slightly-magic.json](./97124-slightly-magic.json) |
 | Slightly Magic: 8bit Legacy Edition | 32573 | [32573-slightly-magic-8bit-legacy-edition.json](./32573-slightly-magic-8bit-legacy-edition.json) |
+| Slightly Overweight Superhero and the Seven Levels of Death | 264164 | [264164-slightly-overweight-superhero-and-the-seven-levels-of-death.json](./264164-slightly-overweight-superhero-and-the-seven-levels-of-death.json) |
 | SligStorm | 279453 | [279453-sligstorm.json](./279453-sligstorm.json) |
 | Sliiide! | 221757 | [221757-sliiide.json](./221757-sliiide.json) |
 | Sliko | 156141 | [156141-sliko.json](./156141-sliko.json) |
@@ -17985,6 +17987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Haste | 340881 | [340881-speed-haste.json](./340881-speed-haste.json) |
 | Speed Hawk | 130003 | [130003-speed-hawk.json](./130003-speed-hawk.json) |
 | Speed Hero vs. Mega Ramp | 101985 | [101985-speed-hero-vs-mega-ramp.json](./101985-speed-hero-vs-mega-ramp.json) |
+| Speed Heroes | 264160 | [264160-speed-heroes.json](./264160-speed-heroes.json) |
 | Speed High | 240355 | [240355-speed-high.json](./240355-speed-high.json) |
 | Speed Intense Island | 233514 | [233514-speed-intense-island.json](./233514-speed-intense-island.json) |
 | Speed is Key | 201473 | [201473-speed-is-key.json](./201473-speed-is-key.json) |
@@ -22223,6 +22226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Safe 2020 | 156977 | [156977-stay-safe-2020.json](./156977-stay-safe-2020.json) |
 | Stay Safe: Labyrinth of the Mad | 120122 | [120122-stay-safe-labyrinth-of-the-mad.json](./120122-stay-safe-labyrinth-of-the-mad.json) |
 | Stay Sane | 294253 | [294253-stay-sane.json](./294253-stay-sane.json) |
+| Stay Still 2 | 264156 | [264156-stay-still-2.json](./264156-stay-still-2.json) |
 | Stay Tooned! | 13786 | [13786-stay-tooned.json](./13786-stay-tooned.json) |
 | Stay With Him | 415505 | [415505-stay-with-him.json](./415505-stay-with-him.json) |
 | Stay With Me | 184308 | [184308-stay-with-me.json](./184308-stay-with-me.json) |
@@ -27032,6 +27036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jump Ninja | 400458 | [400458-super-jump-ninja.json](./400458-super-jump-ninja.json) |
 | Super Jump Soccer | 188363 | [188363-super-jump-soccer.json](./188363-super-jump-soccer.json) |
 | Super Junior Shake | 266183 | [266183-super-junior-shake.json](./266183-super-junior-shake.json) |
+| Super Junkoid | 263863 | [263863-super-junkoid.json](./263863-super-junkoid.json) |
 | Super Kakuro: Cross Sums | 195632 | [195632-super-kakuro-cross-sums.json](./195632-super-kakuro-cross-sums.json) |
 | Super Karate Kid | 327765 | [327765-super-karate-kid.json](./327765-super-karate-kid.json) |
 | Super Karoshi | 201134 | [201134-super-karoshi.json](./201134-super-karoshi.json) |
@@ -28499,6 +28504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Spy Academy | 298269 | [298269-super-spy-academy.json](./298269-super-spy-academy.json) |
 | Super Spy Agents 3D | 197879 | [197879-super-spy-agents-3d.json](./197879-super-spy-agents-3d.json) |
 | Super Spy Hunter | 6154 | [6154-super-spy-hunter.json](./6154-super-spy-hunter.json) |
+| Super Spy Raccoon | 264196 | [264196-super-spy-raccoon.json](./264196-super-spy-raccoon.json) |
 | Super Spy Violet | 335252 | [335252-super-spy-violet.json](./335252-super-spy-violet.json) |
 | Super Spyroxo Adventures: Island of Dnfoo | 211685 | [211685-super-spyroxo-adventures-island-of-dnfoo.json](./211685-super-spyroxo-adventures-island-of-dnfoo.json) |
 | Super Squad | 127075 | [127075-super-squad.json](./127075-super-squad.json) |
