@@ -2302,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time + Party Harder Pack | 232993 | [232993-party-party-time-party-harder-pack.json](./232993-party-party-time-party-harder-pack.json) |
 | Party Party Time + Premium Pack Set | 253222 | [253222-party-party-time-premium-pack-set.json](./253222-party-party-time-premium-pack-set.json) |
 | Party Party Time + Royal Pack Set | 280071 | [280071-party-party-time-royal-pack-set.json](./280071-party-party-time-royal-pack-set.json) |
+| Party Party Time + Special Packs | 238106 | [238106-party-party-time-special-packs.json](./238106-party-party-time-special-packs.json) |
 | Party Party Time + Ultra Pack Set | 260684 | [260684-party-party-time-ultra-pack-set.json](./260684-party-party-time-ultra-pack-set.json) |
 | Party Party Time 2 + Duo Pack Set | 304813 | [304813-party-party-time-2-duo-pack-set.json](./304813-party-party-time-2-duo-pack-set.json) |
 | Party Party Time 2: Lively Party Pack | 374168 | [374168-party-party-time-2-lively-party-pack.json](./374168-party-party-time-2-lively-party-pack.json) |
@@ -2313,6 +2314,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time: Excitement Happy Thrilling Power 4 Pack Set | 280063 | [280063-party-party-time-excitement-happy-thrilling-power-4-pack-set.json](./280063-party-party-time-excitement-happy-thrilling-power-4-pack-set.json) |
 | Party Party Time: Excitement Pack | 253804 | [253804-party-party-time-excitement-pack.json](./253804-party-party-time-excitement-pack.json) |
 | Party Party Time: Happy Happy Pack | 259855 | [259855-party-party-time-happy-happy-pack.json](./259855-party-party-time-happy-happy-pack.json) |
+| Party Party Time: Party Fever Pack | 238134 | [238134-party-party-time-party-fever-pack.json](./238134-party-party-time-party-fever-pack.json) |
+| Party Party Time: Party Harder & Party Fever Pack | 238140 | [238140-party-party-time-party-harder-and-party-fever-pack.json](./238140-party-party-time-party-harder-and-party-fever-pack.json) |
 | Party Party Time: Party Harder Pack | 233000 | [233000-party-party-time-party-harder-pack.json](./233000-party-party-time-party-harder-pack.json) |
 | Party Party Time: Party Power Pack | 294021 | [294021-party-party-time-party-power-pack.json](./294021-party-party-time-party-power-pack.json) |
 | Party Party Time: Thrilling Party Pack | 275840 | [275840-party-party-time-thrilling-party-pack.json](./275840-party-party-time-thrilling-party-pack.json) |
@@ -9172,6 +9175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo Chick | 240876 | [240876-pogo-chick.json](./240876-pogo-chick.json) |
 | Pogo Daily Sudoku | 354988 | [354988-pogo-daily-sudoku.json](./354988-pogo-daily-sudoku.json) |
 | Pogo Epoch: Impossible 99% | 329177 | [329177-pogo-epoch-impossible-99.json](./329177-pogo-epoch-impossible-99.json) |
+| Pogo Girlfriend | 238133 | [238133-pogo-girlfriend.json](./238133-pogo-girlfriend.json) |
 | Pogo Island | 21401 | [21401-pogo-island.json](./21401-pogo-island.json) |
 | Pogo Joe | 23937 | [23937-pogo-joe.json](./23937-pogo-joe.json) |
 | Pogo Knight | 320566 | [320566-pogo-knight.json](./320566-pogo-knight.json) |
@@ -10476,6 +10480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Jigsaw Puzzle | 105780 | [105780-poly-jigsaw-puzzle.json](./105780-poly-jigsaw-puzzle.json) |
 | Poly Jigsaw: Birds | 240660 | [240660-poly-jigsaw-birds.json](./240660-poly-jigsaw-birds.json) |
 | Poly Jigsaw: Butterflies | 243859 | [243859-poly-jigsaw-butterflies.json](./243859-poly-jigsaw-butterflies.json) |
+| Poly Jigsaw: Cats | 238132 | [238132-poly-jigsaw-cats.json](./238132-poly-jigsaw-cats.json) |
 | Poly Jigsaw: Dinosaurs | 246798 | [246798-poly-jigsaw-dinosaurs.json](./246798-poly-jigsaw-dinosaurs.json) |
 | Poly Jigsaw: Dogs | 248665 | [248665-poly-jigsaw-dogs.json](./248665-poly-jigsaw-dogs.json) |
 | Poly Jigsaw: Furries | 255280 | [255280-poly-jigsaw-furries.json](./255280-poly-jigsaw-furries.json) |
