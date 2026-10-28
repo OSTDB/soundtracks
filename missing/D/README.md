@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Themed Crossword Puzzle | 88310 | [88310-daily-themed-crossword-puzzle.json](./88310-daily-themed-crossword-puzzle.json) |
 | Daily Thread: The Sewing of Discontent | 270121 | [270121-daily-thread-the-sewing-of-discontent.json](./270121-daily-thread-the-sewing-of-discontent.json) |
 | Daily Vrai | 413610 | [413610-daily-vrai.json](./413610-daily-vrai.json) |
+| Daimadou Senryaku Monogatari '95 | 253714 | [253714-daimadou-senryaku-monogatari-95.json](./253714-daimadou-senryaku-monogatari-95.json) |
 | Daimaou no Bijutsukan to Kaitoudan | 140003 | [140003-daimaou-no-bijutsukan-to-kaitoudan.json](./140003-daimaou-no-bijutsukan-to-kaitoudan.json) |
 | Daimei no nai Game Rigakkkai | 236746 | [236746-daimei-no-nai-game-rigakkkai.json](./236746-daimei-no-nai-game-rigakkkai.json) |
 | Daimon Comics: Herofrenia | 373266 | [373266-daimon-comics-herofrenia.json](./373266-daimon-comics-herofrenia.json) |
@@ -2827,6 +2828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | de Blob | 2637 | [2637-de-blob.json](./2637-de-blob.json) |
 | De Blob | 233776 | [233776-de-blob.json](./233776-de-blob.json) |
 | De Blob 2 | 4796 | [4796-de-blob-2.json](./4796-de-blob-2.json) |
+| De Blob: Utrecht | 253718 | [253718-de-blob-utrecht.json](./253718-de-blob-utrecht.json) |
 | De Fobos y Deimos | 103966 | [103966-de-fobos-y-deimos.json](./103966-de-fobos-y-deimos.json) |
 | De griezelbus 1 | 98943 | [98943-de-griezelbus-1.json](./98943-de-griezelbus-1.json) |
 | De griezelbus 2 | 78322 | [78322-de-griezelbus-2.json](./78322-de-griezelbus-2.json) |
@@ -12314,6 +12316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Toppel's Tankentai | 40045 | [40045-dr-toppels-tankentai.json](./40045-dr-toppels-tankentai.json) |
 | Dr. Trolley's Problem | 117072 | [117072-dr-trolleys-problem.json](./117072-dr-trolleys-problem.json) |
 | Dr. Umgebung's School of Life | 128992 | [128992-dr-umgebungs-school-of-life.json](./128992-dr-umgebungs-school-of-life.json) |
+| Dr. Virus | 254084 | [254084-dr-virus.json](./254084-dr-virus.json) |
 | Dr. What & Detective Son | 289806 | [289806-dr-what-and-detective-son.json](./289806-dr-what-and-detective-son.json) |
 | Dr. Wise: Medical Mysteries | 65185 | [65185-dr-wise-medical-mysteries.json](./65185-dr-wise-medical-mysteries.json) |
 | Dr. Woo's Twisted Clone Shop | 343996 | [343996-dr-woos-twisted-clone-shop.json](./343996-dr-woos-twisted-clone-shop.json) |
