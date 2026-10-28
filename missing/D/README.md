@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Da Box | 59672 | [59672-da-box.json](./59672-da-box.json) |
 | Da Capo 3 R | 27760 | [27760-da-capo-3-r.json](./27760-da-capo-3-r.json) |
 | Da Capo Innocent Finale | 371576 | [371576-da-capo-innocent-finale.json](./371576-da-capo-innocent-finale.json) |
+| Da Da Daungo | 277131 | [277131-da-da-daungo.json](./277131-da-da-daungo.json) |
 | Dà Fùwēng | 125469 | [125469-da-fuweng.json](./125469-da-fuweng.json) |
 | Dà Mèng Chūnqiū | 373702 | [373702-da-meng-chunqiu.json](./373702-da-meng-chunqiu.json) |
 | Da New Guys: Day of the Jackass | 65296 | [65296-da-new-guys-day-of-the-jackass.json](./65296-da-new-guys-day-of-the-jackass.json) |
@@ -1217,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark City: Kyiv | 397180 | [397180-dark-city-kyiv.json](./397180-dark-city-kyiv.json) |
 | Dark City: Kyiv - Collector's Edition | 268313 | [268313-dark-city-kyiv-collectors-edition.json](./268313-dark-city-kyiv-collectors-edition.json) |
 | Dark City: London | 376568 | [376568-dark-city-london.json](./376568-dark-city-london.json) |
+| Dark City: London - Collector's Edition | 277118 | [277118-dark-city-london-collectors-edition.json](./277118-dark-city-london-collectors-edition.json) |
 | Dark City: Munich - Collector's Edition | 376578 | [376578-dark-city-munich-collectors-edition.json](./376578-dark-city-munich-collectors-edition.json) |
 | Dark City: Paris | 397179 | [397179-dark-city-paris.json](./397179-dark-city-paris.json) |
 | Dark City: Paris Collector's Edition | 190743 | [190743-dark-city-paris-collectors-edition.json](./190743-dark-city-paris-collectors-edition.json) |
@@ -6291,6 +6293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desmond's Castle | 328317 | [328317-desmonds-castle.json](./328317-desmonds-castle.json) |
 | Desmond's Dungeon | 294474 | [294474-desmonds-dungeon.json](./294474-desmonds-dungeon.json) |
 | Desohunter | 156524 | [156524-desohunter.json](./156524-desohunter.json) |
+| Desolate City: Last Show | 277440 | [277440-desolate-city-last-show.json](./277440-desolate-city-last-show.json) |
 | Desolate City: The Bloody Dawn - Enhanced Edition | 113731 | [113731-desolate-city-the-bloody-dawn-enhanced-edition.json](./113731-desolate-city-the-bloody-dawn-enhanced-edition.json) |
 | Desolate Dusk | 336660 | [336660-desolate-dusk.json](./336660-desolate-dusk.json) |
 | Desolate Echoes | 337666 | [337666-desolate-echoes.json](./337666-desolate-echoes.json) |
@@ -8144,6 +8147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Master | 132161 | [132161-dino-master.json](./132161-dino-master.json) |
 | Dino Master | 69143 | [69143-dino-master.json](./69143-dino-master.json) |
 | Dino Match | 361340 | [361340-dino-match.json](./361340-dino-match.json) |
+| Dino Mayhem | 277121 | [277121-dino-mayhem.json](./277121-dino-mayhem.json) |
 | Dino Merge Wars | 237631 | [237631-dino-merge-wars.json](./237631-dino-merge-wars.json) |
 | Dino Nest | 147331 | [147331-dino-nest.json](./147331-dino-nest.json) |
 | Dino Numbers | 128485 | [128485-dino-numbers.json](./128485-dino-numbers.json) |
@@ -13651,6 +13655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream of Salmon | 156891 | [156891-dream-of-salmon.json](./156891-dream-of-salmon.json) |
 | Dream of the Blood Moon | 122998 | [122998-dream-of-the-blood-moon.json](./122998-dream-of-the-blood-moon.json) |
 | Dream of the Hikikomori | 190881 | [190881-dream-of-the-hikikomori.json](./190881-dream-of-the-hikikomori.json) |
+| Dream of the Star Haven | 277122 | [277122-dream-of-the-star-haven.json](./277122-dream-of-the-star-haven.json) |
 | Dream of Tiny Snow | 244786 | [244786-dream-of-tiny-snow.json](./244786-dream-of-tiny-snow.json) |
 | Dream of Tomorrow | 161354 | [161354-dream-of-tomorrow.json](./161354-dream-of-tomorrow.json) |
 | Dream of YukiHana | 396018 | [396018-dream-of-yukihana.json](./396018-dream-of-yukihana.json) |
