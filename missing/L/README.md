@@ -4026,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Maze | 207679 | [207679-light-maze.json](./207679-light-maze.json) |
 | Light my Fear | 116435 | [116435-light-my-fear.json](./116435-light-my-fear.json) |
 | Light Night Street | 353774 | [353774-light-night-street.json](./353774-light-night-street.json) |
+| Light No Fire | 279655 | [279655-light-no-fire.json](./279655-light-no-fire.json) |
 | Light of Atlantis | 253915 | [253915-light-of-atlantis.json](./253915-light-of-atlantis.json) |
 | Light Of Chaos | 304361 | [304361-light-of-chaos.json](./304361-light-of-chaos.json) |
 | Light of Darkness | 186087 | [186087-light-of-darkness.json](./186087-light-of-darkness.json) |
