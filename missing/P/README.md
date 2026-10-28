@@ -1490,7 +1490,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperboy | 19370 | [19370-paperboy.json](./19370-paperboy.json) |
 | Paperboy | 198844 | [198844-paperboy.json](./198844-paperboy.json) |
 | Paperboy | 256079 | [256079-paperboy.json](./256079-paperboy.json) |
+| Paperboy | 256080 | [256080-paperboy.json](./256080-paperboy.json) |
 | Paperboy | 256082 | [256082-paperboy.json](./256082-paperboy.json) |
+| Paperboy | 256085 | [256085-paperboy.json](./256085-paperboy.json) |
+| Paperboy | 256086 | [256086-paperboy.json](./256086-paperboy.json) |
 | Paperboy 2 | 12458 | [12458-paperboy-2.json](./12458-paperboy-2.json) |
 | Paperboy 2 | 307086 | [307086-paperboy-2.json](./307086-paperboy-2.json) |
 | Paperboy 2 | 307087 | [307087-paperboy-2.json](./307087-paperboy-2.json) |
@@ -10161,6 +10164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Penguin | 239731 | [239731-polar-penguin.json](./239731-polar-penguin.json) |
 | Polar Peril | 420212 | [420212-polar-peril.json](./420212-polar-peril.json) |
 | Polar Pierre | 24676 | [24676-polar-pierre.json](./24676-polar-pierre.json) |
+| Polar Pool | 256078 | [256078-polar-pool.json](./256078-polar-pool.json) |
 | Polar Pwnd | 399457 | [399457-polar-pwnd.json](./399457-polar-pwnd.json) |
 | Polar Pwnd 2: Der Feather’s Revenge | 399458 | [399458-polar-pwnd-2-der-feather-s-revenge.json](./399458-polar-pwnd-2-der-feather-s-revenge.json) |
 | Polar Roller | 326682 | [326682-polar-roller.json](./326682-polar-roller.json) |
@@ -14924,6 +14928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump It Up Infinity | 57715 | [57715-pump-it-up-infinity.json](./57715-pump-it-up-infinity.json) |
 | Pump It Up NX Absolute | 57716 | [57716-pump-it-up-nx-absolute.json](./57716-pump-it-up-nx-absolute.json) |
 | Pump It Up NX2: Next Xenesis | 57714 | [57714-pump-it-up-nx2-next-xenesis.json](./57714-pump-it-up-nx2-next-xenesis.json) |
+| Pump It Up Phoenix | 256094 | [256094-pump-it-up-phoenix.json](./256094-pump-it-up-phoenix.json) |
 | Pump It Up Phoenix 2 | 409779 | [409779-pump-it-up-phoenix-2.json](./409779-pump-it-up-phoenix-2.json) |
 | Pump It Up Prime 2 | 97387 | [97387-pump-it-up-prime-2.json](./97387-pump-it-up-prime-2.json) |
 | Pump It Up Rise | 345431 | [345431-pump-it-up-rise.json](./345431-pump-it-up-rise.json) |
