@@ -2266,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaravan 66 | 332961 | [332961-scaravan-66.json](./332961-scaravan-66.json) |
 | Scare Crow | 187090 | [187090-scare-crow.json](./187090-scare-crow.json) |
 | Scare Girl | 380728 | [380728-scare-girl.json](./380728-scare-girl.json) |
+| Scare Girl 2 | 266594 | [266594-scare-girl-2.json](./266594-scare-girl-2.json) |
 | Scare: Fatal Picture | 253871 | [253871-scare-fatal-picture.json](./253871-scare-fatal-picture.json) |
 | Scare: Fatal Picture - Manga Story | 358433 | [358433-scare-fatal-picture-manga-story.json](./358433-scare-fatal-picture-manga-story.json) |
 | Scare: Project of Fear | 192210 | [192210-scare-project-of-fear.json](./192210-scare-project-of-fear.json) |
@@ -2930,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Equestrian | 263764 | [263764-scp-equestrian.json](./263764-scp-equestrian.json) |
 | SCP: Escape Together | 139407 | [139407-scp-escape-together.json](./139407-scp-escape-together.json) |
 | SCP: Event Classified | 199581 | [199581-scp-event-classified.json](./199581-scp-event-classified.json) |
+| SCP: Event XK | 266596 | [266596-scp-event-xk.json](./266596-scp-event-xk.json) |
 | SCP: Experiments | 363962 | [363962-scp-experiments.json](./363962-scp-experiments.json) |
 | SCP: Facility | 223326 | [223326-scp-facility.json](./223326-scp-facility.json) |
 | SCP: Facility Manager | 219623 | [219623-scp-facility-manager.json](./219623-scp-facility-manager.json) |
@@ -8356,6 +8358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shunga Frame | 196094 | [196094-shunga-frame.json](./196094-shunga-frame.json) |
 | Shunkyoku no Tyrhhia: What a Beautiful Dawn | 144958 | [144958-shunkyoku-no-tyrhhia-what-a-beautiful-dawn.json](./144958-shunkyoku-no-tyrhhia-what-a-beautiful-dawn.json) |
 | Shuntle | 319141 | [319141-shuntle.json](./319141-shuntle.json) |
+| Shunya | 266599 | [266599-shunya.json](./266599-shunya.json) |
 | Shuppatsu! Doubutsu Tankentai | 63958 | [63958-shuppatsu-doubutsu-tankentai.json](./63958-shuppatsu-doubutsu-tankentai.json) |
 | Shura no Mon | 46258 | [46258-shura-no-mon.json](./46258-shura-no-mon.json) |
 | Shura No Mon | 179996 | [179996-shura-no-mon.json](./179996-shura-no-mon.json) |
@@ -10441,9 +10444,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi Toilet Attack | 264461 | [264461-skibidi-toilet-attack.json](./264461-skibidi-toilet-attack.json) |
 | Skibidi Toilet Hero: Sex Mod | 312888 | [312888-skibidi-toilet-hero-sex-mod.json](./312888-skibidi-toilet-hero-sex-mod.json) |
 | Skibidi Toilet India | 276076 | [276076-skibidi-toilet-india.json](./276076-skibidi-toilet-india.json) |
+| Skibidi Toilet Killer | 266925 | [266925-skibidi-toilet-killer.json](./266925-skibidi-toilet-killer.json) |
 | Skibidi Toilet Skibidi Boom | 264991 | [264991-skibidi-toilet-skibidi-boom.json](./264991-skibidi-toilet-skibidi-boom.json) |
 | Skibidi Toilet Wars | 315926 | [315926-skibidi-toilet-wars.json](./315926-skibidi-toilet-wars.json) |
 | Skibidi Toilet: Battle Royale | 321490 | [321490-skibidi-toilet-battle-royale.json](./321490-skibidi-toilet-battle-royale.json) |
+| Skibidi Toilets: Invasion | 266597 | [266597-skibidi-toilets-invasion.json](./266597-skibidi-toilets-invasion.json) |
 | SkibidiVerse | 266905 | [266905-skibidiverse.json](./266905-skibidiverse.json) |
 | Skibum | 58534 | [58534-skibum.json](./58534-skibum.json) |
 | Skid Island: Asphalt Mayhem | 291745 | [291745-skid-island-asphalt-mayhem.json](./291745-skid-island-asphalt-mayhem.json) |
@@ -16460,6 +16465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Betrayers | 188068 | [188068-space-betrayers.json](./188068-space-betrayers.json) |
 | Space Between Worlds | 108306 | [108306-space-between-worlds.json](./108306-space-between-worlds.json) |
 | Space Bit Attack | 19046 | [19046-space-bit-attack.json](./19046-space-bit-attack.json) |
+| Space Blade | 266598 | [266598-space-blade.json](./266598-space-blade.json) |
 | Space Blast Zom A Matching Game | 147642 | [147642-space-blast-zom-a-matching-game.json](./147642-space-blast-zom-a-matching-game.json) |
 | Space Blaster (Lines) | 169881 | [169881-space-blaster-lines.json](./169881-space-blaster-lines.json) |
 | Space Blasters | 346769 | [346769-space-blasters.json](./346769-space-blasters.json) |
@@ -16826,6 +16832,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders | 218440 | [218440-space-invaders.json](./218440-space-invaders.json) |
 | Space Invaders | 218445 | [218445-space-invaders.json](./218445-space-invaders.json) |
 | Space Invaders | 266956 | [266956-space-invaders.json](./266956-space-invaders.json) |
+| Space Invaders | 266958 | [266958-space-invaders.json](./266958-space-invaders.json) |
+| Space Invaders | 266959 | [266959-space-invaders.json](./266959-space-invaders.json) |
+| Space Invaders | 266960 | [266960-space-invaders.json](./266960-space-invaders.json) |
+| Space Invaders | 266962 | [266962-space-invaders.json](./266962-space-invaders.json) |
 | Space Invaders | 282080 | [282080-space-invaders.json](./282080-space-invaders.json) |
 | Space Invaders | 310668 | [310668-space-invaders.json](./310668-space-invaders.json) |
 | Space Invaders | 3601 | [3601-space-invaders.json](./3601-space-invaders.json) |
@@ -22343,6 +22353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunk Jigsaw Puzzles: Arctic Realms | 265515 | [265515-steampunk-jigsaw-puzzles-arctic-realms.json](./265515-steampunk-jigsaw-puzzles-arctic-realms.json) |
 | Steampunk Jigsaw Puzzles: Boomtown USA | 268951 | [268951-steampunk-jigsaw-puzzles-boomtown-usa.json](./268951-steampunk-jigsaw-puzzles-boomtown-usa.json) |
 | Steampunk Jigsaw Puzzles: Mediterranean City-States | 270894 | [270894-steampunk-jigsaw-puzzles-mediterranean-city-states.json](./270894-steampunk-jigsaw-puzzles-mediterranean-city-states.json) |
+| Steampunk Jigsaw Puzzles: The Great Battle | 266595 | [266595-steampunk-jigsaw-puzzles-the-great-battle.json](./266595-steampunk-jigsaw-puzzles-the-great-battle.json) |
 | Steampunk Jigsaw Puzzles: The Wild West | 265516 | [265516-steampunk-jigsaw-puzzles-the-wild-west.json](./265516-steampunk-jigsaw-puzzles-the-wild-west.json) |
 | Steampunk Racing 3D | 252141 | [252141-steampunk-racing-3d.json](./252141-steampunk-racing-3d.json) |
 | Steampunk Shinobi | 324946 | [324946-steampunk-shinobi.json](./324946-steampunk-shinobi.json) |
@@ -23783,6 +23794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strato | 35955 | [35955-strato.json](./35955-strato.json) |
 | Strato Breaker | 235357 | [235357-strato-breaker.json](./235357-strato-breaker.json) |
 | Strato Supremacy | 245853 | [245853-strato-supremacy.json](./245853-strato-supremacy.json) |
+| Strato-Scruffy | 266963 | [266963-strato-scruffy.json](./266963-strato-scruffy.json) |
 | Strato-Spear | 268443 | [268443-strato-spear.json](./268443-strato-spear.json) |
 | Strato'S Sylph | 82702 | [82702-stratos-sylph.json](./82702-stratos-sylph.json) |
 | StratoBash | 28764 | [28764-stratobash.json](./28764-stratobash.json) |
@@ -26692,6 +26704,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fox 2 | 146920 | [146920-super-fox-2.json](./146920-super-fox-2.json) |
 | Super Freaks 1 Remastered | 266873 | [266873-super-freaks-1-remastered.json](./266873-super-freaks-1-remastered.json) |
 | Super Freaks 1: Ultimate Edition | 268057 | [268057-super-freaks-1-ultimate-edition.json](./268057-super-freaks-1-ultimate-edition.json) |
+| Super Freaks Classic Pack | 266964 | [266964-super-freaks-classic-pack.json](./266964-super-freaks-classic-pack.json) |
+| Super Freaks: The Demo | 266957 | [266957-super-freaks-the-demo.json](./266957-super-freaks-the-demo.json) |
 | Super Friends Party | 117779 | [117779-super-friends-party.json](./117779-super-friends-party.json) |
 | Super Frog | 80840 | [80840-super-frog.json](./80840-super-frog.json) |
 | Super Frog's Quest | 108410 | [108410-super-frogs-quest.json](./108410-super-frogs-quest.json) |
