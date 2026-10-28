@@ -11531,6 +11531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door Puzzle | 358450 | [358450-door-puzzle.json](./358450-door-puzzle.json) |
 | Door Runners | 417374 | [417374-door-runners.json](./417374-door-runners.json) |
 | Door Simulator | 292952 | [292952-door-simulator.json](./292952-door-simulator.json) |
+| Door Slammers | 232610 | [232610-door-slammers.json](./232610-door-slammers.json) |
 | Door Slammers 2 | 55829 | [55829-door-slammers-2.json](./55829-door-slammers-2.json) |
 | Door Smasher | 153844 | [153844-door-smasher.json](./153844-door-smasher.json) |
 | Door to Door | 34244 | [34244-door-to-door.json](./34244-door-to-door.json) |
