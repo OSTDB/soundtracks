@@ -2339,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Control | 358898 | [358898-mall-control.json](./358898-mall-control.json) |
 | Mall Craze | 129090 | [129090-mall-craze.json](./129090-mall-craze.json) |
 | Mall Empire | 29478 | [29478-mall-empire.json](./29478-mall-empire.json) |
+| Mall Heist | 277123 | [277123-mall-heist.json](./277123-mall-heist.json) |
 | Mall Manager | 291255 | [291255-mall-manager.json](./291255-mall-manager.json) |
 | Mall Manager | 320444 | [320444-mall-manager.json](./320444-mall-manager.json) |
 | Mall Manager Simulator | 309444 | [309444-mall-manager-simulator.json](./309444-mall-manager-simulator.json) |
@@ -16029,6 +16030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Runner | 246474 | [246474-mr-runner.json](./246474-mr-runner.json) |
 | Mr. Runner 2: The Masks | 90204 | [90204-mr-runner-2-the-masks.json](./90204-mr-runner-2-the-masks.json) |
 | Mr. Saitou | 228357 | [228357-mr-saitou.json](./228357-mr-saitou.json) |
+| Mr. Sanna Clozz | 277456 | [277456-mr-sanna-clozz.json](./277456-mr-sanna-clozz.json) |
 | Mr. Scientist | 295159 | [295159-mr-scientist.json](./295159-mr-scientist.json) |
 | Mr. Semmel | 267838 | [267838-mr-semmel.json](./267838-mr-semmel.json) |
 | Mr. Sensei: Life as a Foreign Teacher in Japan | 329425 | [329425-mr-sensei-life-as-a-foreign-teacher-in-japan.json](./329425-mr-sensei-life-as-a-foreign-teacher-in-japan.json) |
