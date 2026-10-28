@@ -22150,6 +22150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tor Eternum | 148496 | [148496-tor-eternum.json](./148496-tor-eternum.json) |
 | Tora | 114381 | [114381-tora.json](./114381-tora.json) |
 | Tora he no Michi | 37647 | [37647-tora-he-no-michi.json](./37647-tora-he-no-michi.json) |
+| Tora's Garden | 274312 | [274312-toras-garden.json](./274312-toras-garden.json) |
 | Torara no Mahjong Kyoushitsu | 397894 | [397894-torara-no-mahjong-kyoushitsu.json](./397894-torara-no-mahjong-kyoushitsu.json) |
 | Toraware no Palm | 97297 | [97297-toraware-no-palm.json](./97297-toraware-no-palm.json) |
 | Toraware no Palm: Deluxe Edition | 136967 | [136967-toraware-no-palm-deluxe-edition.json](./136967-toraware-no-palm-deluxe-edition.json) |
@@ -25485,6 +25486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tralalero Tralala: Survive the Night | 352385 | [352385-tralalero-tralala-survive-the-night.json](./352385-tralalero-tralala-survive-the-night.json) |
 | Tram | 413414 | [413414-tram.json](./413414-tram.json) |
 | Tram Simulator Duesseldorf | 101082 | [101082-tram-simulator-duesseldorf.json](./101082-tram-simulator-duesseldorf.json) |
+| Tram Simulator Urban Transit | 274304 | [274304-tram-simulator-urban-transit.json](./274304-tram-simulator-urban-transit.json) |
 | TramCity Hakodate | 278893 | [278893-tramcity-hakodate.json](./278893-tramcity-hakodate.json) |
 | Tramp | 55845 | [55845-tramp.json](./55845-tramp.json) |
 | Tramp Simulator: Survival City Full | 223640 | [223640-tramp-simulator-survival-city-full.json](./223640-tramp-simulator-survival-city-full.json) |
@@ -26219,6 +26221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trepang2: Banger Edition | 254414 | [254414-trepang2-banger-edition.json](./254414-trepang2-banger-edition.json) |
 | Trepang2: Bladekisser DLC | 307033 | [307033-trepang2-bladekisser-dlc.json](./307033-trepang2-bladekisser-dlc.json) |
 | Trepang2: Digital Deluxe Edition | 287625 | [287625-trepang2-digital-deluxe-edition.json](./287625-trepang2-digital-deluxe-edition.json) |
+| Trepang2: Survival Mode | 274593 | [274593-trepang2-survival-mode.json](./274593-trepang2-survival-mode.json) |
 | Trepidation | 247922 | [247922-trepidation.json](./247922-trepidation.json) |
 | Tres | 319800 | [319800-tres.json](./319800-tres.json) |
 | Tres Acordes | 230757 | [230757-tres-acordes.json](./230757-tres-acordes.json) |
