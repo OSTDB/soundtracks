@@ -2246,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scanner Sombre Pack | 154462 | [154462-scanner-sombre-pack.json](./154462-scanner-sombre-pack.json) |
 | Scape | 287782 | [287782-scape.json](./287782-scape.json) |
 | Scape | 415979 | [415979-scape.json](./415979-scape.json) |
+| Scape Run | 258298 | [258298-scape-run.json](./258298-scape-run.json) |
 | Scapefall | 238932 | [238932-scapefall.json](./238932-scapefall.json) |
 | Scapeghost | 12208 | [12208-scapeghost.json](./12208-scapeghost.json) |
 | Scapegoat | 199295 | [199295-scapegoat.json](./199295-scapegoat.json) |
@@ -3059,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrapbook Memories | 302605 | [302605-scrapbook-memories.json](./302605-scrapbook-memories.json) |
 | Scrapbooking Story | 399679 | [399679-scrapbooking-story.json](./399679-scrapbooking-story.json) |
 | Scrapbox | 371878 | [371878-scrapbox.json](./371878-scrapbox.json) |
+| Scrapchasers | 258578 | [258578-scrapchasers.json](./258578-scrapchasers.json) |
 | ScrapCrew: Running on Fumes | 418623 | [418623-scrapcrew-running-on-fumes.json](./418623-scrapcrew-running-on-fumes.json) |
 | ScrapDown | 336659 | [336659-scrapdown.json](./336659-scrapdown.json) |
 | Scraper | 105731 | [105731-scraper.json](./105731-scraper.json) |
@@ -9658,6 +9660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simutrans: Pak64 | 170179 | [170179-simutrans-pak64.json](./170179-simutrans-pak64.json) |
 | Sin | 151822 | [151822-sin.json](./151822-sin.json) |
 | SiN | 1045 | [1045-sin.json](./1045-sin.json) |
+| Sin & Host: The Diner | 258566 | [258566-sin-and-host-the-diner.json](./258566-sin-and-host-the-diner.json) |
 | Sin & Siege | 352149 | [352149-sin-and-siege.json](./352149-sin-and-siege.json) |
 | Sin and Love | 344830 | [344830-sin-and-love.json](./344830-sin-and-love.json) |
 | Sin Breaker Rig | 238736 | [238736-sin-breaker-rig.json](./238736-sin-breaker-rig.json) |
@@ -13236,6 +13239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Fighters | 151562 | [151562-snow-fighters.json](./151562-snow-fighters.json) |
 | Snow Forest | 352295 | [352295-snow-forest.json](./352295-snow-forest.json) |
 | Snow Fortress | 26592 | [26592-snow-fortress.json](./26592-snow-fortress.json) |
+| Snow Fortress 2 | 258592 | [258592-snow-fortress-2.json](./258592-snow-fortress-2.json) |
 | Snow Games VR | 29782 | [29782-snow-games-vr.json](./29782-snow-games-vr.json) |
 | Snow Jewels Puzzle | 87134 | [87134-snow-jewels-puzzle.json](./87134-snow-jewels-puzzle.json) |
 | Snow Job | 4324 | [4324-snow-job.json](./4324-snow-job.json) |
@@ -22076,6 +22080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starvault | 341684 | [341684-starvault.json](./341684-starvault.json) |
 | Starve.io | 79268 | [79268-starve-io.json](./79268-starve-io.json) |
 | Starvedge | 349454 | [349454-starvedge.json](./349454-starvedge.json) |
+| Starveil | 258582 | [258582-starveil.json](./258582-starveil.json) |
 | Starverse: Requiem Aeternam Eden | 342543 | [342543-starverse-requiem-aeternam-eden.json](./342543-starverse-requiem-aeternam-eden.json) |
 | Starving | 28754 | [28754-starving.json](./28754-starving.json) |
 | Starving Cat | 326004 | [326004-starving-cat.json](./326004-starving-cat.json) |
