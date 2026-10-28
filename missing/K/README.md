@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kao The Kangaroo + Urban Trial Playground | 342415 | [342415-kao-the-kangaroo-urban-trial-playground.json](./342415-kao-the-kangaroo-urban-trial-playground.json) |
 | Kao the Kangaroo Trilogy | 143497 | [143497-kao-the-kangaroo-trilogy.json](./143497-kao-the-kangaroo-trilogy.json) |
 | Kao the Kangaroo: A Well Good Bundle | 221695 | [221695-kao-the-kangaroo-a-well-good-bundle.json](./221695-kao-the-kangaroo-a-well-good-bundle.json) |
+| Kao the Kangaroo: Anniversary Edition | 248239 | [248239-kao-the-kangaroo-anniversary-edition.json](./248239-kao-the-kangaroo-anniversary-edition.json) |
 | Kao the Kangaroo: Bend the Roo'les | 247577 | [247577-kao-the-kangaroo-bend-the-rooles.json](./247577-kao-the-kangaroo-bend-the-rooles.json) |
 | Kao the Kangaroo: Oh! Well | 221642 | [221642-kao-the-kangaroo-oh-well.json](./221642-kao-the-kangaroo-oh-well.json) |
 | Kao the Kangaroo: Round 2 | 3962 | [3962-kao-the-kangaroo-round-2.json](./3962-kao-the-kangaroo-round-2.json) |
@@ -2413,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
