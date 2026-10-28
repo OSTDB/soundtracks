@@ -1770,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car For Sale Simulator 2023 | 233027 | [233027-car-for-sale-simulator-2023.json](./233027-car-for-sale-simulator-2023.json) |
 | Car for Sale Simulator 2023: Car Mechanic, Wash, Car Flipper | 273327 | [273327-car-for-sale-simulator-2023-car-mechanic-wash-car-flipper.json](./273327-car-for-sale-simulator-2023-car-mechanic-wash-car-flipper.json) |
 | Car For Sale Simulator 2023: PickUp & SUV | 359608 | [359608-car-for-sale-simulator-2023-pickup-and-suv.json](./359608-car-for-sale-simulator-2023-pickup-and-suv.json) |
+| Car For Sale Simulator 2023: Super Sports DLC | 275426 | [275426-car-for-sale-simulator-2023-super-sports-dlc.json](./275426-car-for-sale-simulator-2023-super-sports-dlc.json) |
 | Car For Sale Together | 394613 | [394613-car-for-sale-together.json](./394613-car-for-sale-together.json) |
 | Car for Trade | 267352 | [267352-car-for-trade.json](./267352-car-for-trade.json) |
 | Car Game | 176820 | [176820-car-game.json](./176820-car-game.json) |
@@ -3864,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats and Jigsaws | 188124 | [188124-cats-and-jigsaws.json](./188124-cats-and-jigsaws.json) |
 | Cats and Mice | 307260 | [307260-cats-and-mice.json](./307260-cats-and-mice.json) |
 | Cats and Seek: Dino Park | 284413 | [284413-cats-and-seek-dino-park.json](./284413-cats-and-seek-dino-park.json) |
+| Cats and Seek: Extra Level | 275758 | [275758-cats-and-seek-extra-level.json](./275758-cats-and-seek-extra-level.json) |
 | Cats and Seek: Kyoto | 291419 | [291419-cats-and-seek-kyoto.json](./291419-cats-and-seek-kyoto.json) |
 | Cats and Seek: Osaka | 275525 | [275525-cats-and-seek-osaka.json](./275525-cats-and-seek-osaka.json) |
 | Cats and Seek: Toge Land | 328415 | [328415-cats-and-seek-toge-land.json](./328415-cats-and-seek-toge-land.json) |
@@ -7021,6 +7023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatic Conundrum | 338525 | [338525-chromatic-conundrum.json](./338525-chromatic-conundrum.json) |
 | Chromatic Cruiser | 388332 | [388332-chromatic-cruiser.json](./388332-chromatic-cruiser.json) |
 | Chromatic Fantasia EX | 98442 | [98442-chromatic-fantasia-ex.json](./98442-chromatic-fantasia-ex.json) |
+| Chromatic Isle | 275740 | [275740-chromatic-isle.json](./275740-chromatic-isle.json) |
 | Chromatic Labyrinth | 167603 | [167603-chromatic-labyrinth.json](./167603-chromatic-labyrinth.json) |
 | Chromatic Memories | 291894 | [291894-chromatic-memories.json](./291894-chromatic-memories.json) |
 | Chromatic Odyssey | 338522 | [338522-chromatic-odyssey.json](./338522-chromatic-odyssey.json) |
@@ -10002,6 +10005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Sex Party | 265776 | [265776-college-sex-party.json](./265776-college-sex-party.json) |
 | College Sex: Episode 1 | 268316 | [268316-college-sex-episode-1.json](./268316-college-sex-episode-1.json) |
 | College Sex: Episode 2 | 271651 | [271651-college-sex-episode-2.json](./271651-college-sex-episode-2.json) |
+| College Sex: Episode 4 | 275435 | [275435-college-sex-episode-4.json](./275435-college-sex-episode-4.json) |
 | College Sex: Episode 5 | 278944 | [278944-college-sex-episode-5.json](./278944-college-sex-episode-5.json) |
 | College Sex: Episode 6 | 285603 | [285603-college-sex-episode-6.json](./285603-college-sex-episode-6.json) |
 | College Sex: Episode 8 | 297927 | [297927-college-sex-episode-8.json](./297927-college-sex-episode-8.json) |
@@ -11447,6 +11451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conjurer Andy's Repeatable Dungeon | 135633 | [135633-conjurer-andys-repeatable-dungeon.json](./135633-conjurer-andys-repeatable-dungeon.json) |
 | Conjurers | 328362 | [328362-conjurers.json](./328362-conjurers.json) |
 | Conjuror's Eye | 88069 | [88069-conjurors-eye.json](./88069-conjurors-eye.json) |
+| Conjury | 275739 | [275739-conjury.json](./275739-conjury.json) |
 | Conker: Live & Reloaded | 1425 | [1425-conker-live-and-reloaded.json](./1425-conker-live-and-reloaded.json) |
 | Conker's Bad Fur Day | 1286 | [1286-conkers-bad-fur-day.json](./1286-conkers-bad-fur-day.json) |
 | Conker's Bad Fur Day: Reloaded | 421201 | [421201-conkers-bad-fur-day-reloaded.json](./421201-conkers-bad-fur-day-reloaded.json) |
@@ -15897,6 +15902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Conquest | 293044 | [293044-crystal-conquest.json](./293044-crystal-conquest.json) |
 | Crystal Control | 140923 | [140923-crystal-control.json](./140923-crystal-control.json) |
 | Crystal core | 124212 | [124212-crystal-core.json](./124212-crystal-core.json) |
+| Crystal Corruption: Reclamation | 275741 | [275741-crystal-corruption-reclamation.json](./275741-crystal-corruption-reclamation.json) |
 | Crystal Cosmos | 32244 | [32244-crystal-cosmos.json](./32244-crystal-cosmos.json) |
 | Crystal Crepes: Tales of Food and Magic | 379426 | [379426-crystal-crepes-tales-of-food-and-magic.json](./379426-crystal-crepes-tales-of-food-and-magic.json) |
 | Crystal Crisis | 101152 | [101152-crystal-crisis.json](./101152-crystal-crisis.json) |
@@ -17453,6 +17459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybercube | 68709 | [68709-cybercube.json](./68709-cybercube.json) |
 | Cybercum 2069 | 305763 | [305763-cybercum-2069.json](./305763-cybercum-2069.json) |
 | CyberDeck: The Cyberpunk Roguelike Deckbuilder | 406742 | [406742-cyberdeck-the-cyberpunk-roguelike-deckbuilder.json](./406742-cyberdeck-the-cyberpunk-roguelike-deckbuilder.json) |
+| Cyberdelic | 275757 | [275757-cyberdelic.json](./275757-cyberdelic.json) |
 | Cyberdillo | 39014 | [39014-cyberdillo.json](./39014-cyberdillo.json) |
 | Cyberdimension Neptunia: 4 Goddesses Online | 26402 | [26402-cyberdimension-neptunia-4-goddesses-online.json](./26402-cyberdimension-neptunia-4-goddesses-online.json) |
 | Cyberdimension Neptunia: 4 Goddesses Online - Royal Edition | 212313 | [212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json](./212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json) |
