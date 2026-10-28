@@ -8090,6 +8090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | And All That Could Have Been | 271055 | [271055-and-all-that-could-have-been.json](./271055-and-all-that-could-have-been.json) |
 | And All Would Cry Beware! | 117627 | [117627-and-all-would-cry-beware.json](./117627-and-all-would-cry-beware.json) |
 | And Around Goes the Clock | 364514 | [364514-and-around-goes-the-clock.json](./364514-and-around-goes-the-clock.json) |
+| And Everything Started To Fall | 242731 | [242731-and-everything-started-to-fall.json](./242731-and-everything-started-to-fall.json) |
 | And From the Earth.... | 392399 | [392399-and-from-the-earth.json](./392399-and-from-the-earth.json) |
 | And I Made Sure to Hold Your Head Sideways | 138781 | [138781-and-i-made-sure-to-hold-your-head-sideways.json](./138781-and-i-made-sure-to-hold-your-head-sideways.json) |
 | And I Must Scream | 115597 | [115597-and-i-must-scream.json](./115597-and-i-must-scream.json) |
@@ -10343,6 +10344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquamarine Submarine | 174564 | [174564-aquamarine-submarine.json](./174564-aquamarine-submarine.json) |
 | Aquamarine: Explorer's Edition | 390486 | [390486-aquamarine-explorers-edition.json](./390486-aquamarine-explorers-edition.json) |
 | Aquametsis | 278427 | [278427-aquametsis.json](./278427-aquametsis.json) |
+| Aquamorphosis | 242716 | [242716-aquamorphosis.json](./242716-aquamorphosis.json) |
 | AquaMoto Racing 3D | 23521 | [23521-aquamoto-racing-3d.json](./23521-aquamoto-racing-3d.json) |
 | Aquanaut | 14168 | [14168-aquanaut.json](./14168-aquanaut.json) |
 | Aquanaut | 153788 | [153788-aquanaut.json](./153788-aquanaut.json) |
