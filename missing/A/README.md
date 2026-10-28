@@ -3681,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Burner III | 5356 | [5356-after-burner-iii.json](./5356-after-burner-iii.json) |
 | After Burst | 7748 | [7748-after-burst.json](./7748-after-burst.json) |
 | After Corruption | 211173 | [211173-after-corruption.json](./211173-after-corruption.json) |
+| After Dark | 238130 | [238130-after-dark.json](./238130-after-dark.json) |
 | After Dark | 357793 | [357793-after-dark.json](./357793-after-dark.json) |
 | After Dark | 376844 | [376844-after-dark.json](./376844-after-dark.json) |
 | After Dark Games | 85943 | [85943-after-dark-games.json](./85943-after-dark-games.json) |
@@ -3761,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Turn | 249823 | [249823-after-the-turn.json](./249823-after-the-turn.json) |
 | After the Wane | 387356 | [387356-after-the-wane.json](./387356-after-the-wane.json) |
 | After the War | 5713 | [5713-after-the-war.json](./5713-after-the-war.json) |
+| After Thought | 238121 | [238121-after-thought.json](./238121-after-thought.json) |
 | After University | 263980 | [263980-after-university.json](./263980-after-university.json) |
 | After Wave: Downfall | 212284 | [212284-after-wave-downfall.json](./212284-after-wave-downfall.json) |
 | After Work | 360586 | [360586-after-work.json](./360586-after-work.json) |
@@ -8465,6 +8467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Bunnies | 328437 | [328437-angry-bunnies.json](./328437-angry-bunnies.json) |
 | Angry Bunnies | 62200 | [62200-angry-bunnies.json](./62200-angry-bunnies.json) |
 | Angry Bunnies: Colossal Carrot Crusade | 84756 | [84756-angry-bunnies-colossal-carrot-crusade.json](./84756-angry-bunnies-colossal-carrot-crusade.json) |
+| Angry Bunnies: Colossal Carrot Crusade - Aztec | 238141 | [238141-angry-bunnies-colossal-carrot-crusade-aztec.json](./238141-angry-bunnies-colossal-carrot-crusade-aztec.json) |
 | Angry Bunnies: Colossal Carrot Crusade - Desert | 403417 | [403417-angry-bunnies-colossal-carrot-crusade-desert.json](./403417-angry-bunnies-colossal-carrot-crusade-desert.json) |
 | Angry Bunnies: Colossal Carrot Crusade - Heroes | 238190 | [238190-angry-bunnies-colossal-carrot-crusade-heroes.json](./238190-angry-bunnies-colossal-carrot-crusade-heroes.json) |
 | Angry Bunny | 123872 | [123872-angry-bunny.json](./123872-angry-bunny.json) |
@@ -11908,6 +11911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: Fantastic Tames - Pyromane | 304377 | [304377-ark-fantastic-tames-pyromane.json](./304377-ark-fantastic-tames-pyromane.json) |
 | Ark: Genesis | 131698 | [131698-ark-genesis.json](./131698-ark-genesis.json) |
 | Ark: Lost Colony | 382572 | [382572-ark-lost-colony.json](./382572-ark-lost-colony.json) |
+| Ark: Ragnarok | 238148 | [238148-ark-ragnarok.json](./238148-ark-ragnarok.json) |
 | Ark: Ragnarok Ascended | 350531 | [350531-ark-ragnarok-ascended.json](./350531-ark-ragnarok-ascended.json) |
 | Ark: Scorched Earth | 103514 | [103514-ark-scorched-earth.json](./103514-ark-scorched-earth.json) |
 | Ark: Scorched Earth Ascended | 294992 | [294992-ark-scorched-earth-ascended.json](./294992-ark-scorched-earth-ascended.json) |
@@ -13813,6 +13817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Bandits | 201662 | [201662-astro-bandits.json](./201662-astro-bandits.json) |
 | Astro Battlers TD | 203241 | [203241-astro-battlers-td.json](./203241-astro-battlers-td.json) |
 | Astro Bears | 120138 | [120138-astro-bears.json](./120138-astro-bears.json) |
+| Astro Bears + Non-Bears | 238147 | [238147-astro-bears-non-bears.json](./238147-astro-bears-non-bears.json) |
 | Astro Bears Party | 54774 | [54774-astro-bears-party.json](./54774-astro-bears-party.json) |
 | Astro Bears: Non-Bears | 238446 | [238446-astro-bears-non-bears.json](./238446-astro-bears-non-bears.json) |
 | Astro Blaster | 13959 | [13959-astro-blaster.json](./13959-astro-blaster.json) |
@@ -14287,8 +14292,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Lulua: The Scion of Arland - Digital Deluxe Edition | 118934 | [118934-atelier-lulua-the-scion-of-arland-digital-deluxe-edition.json](./118934-atelier-lulua-the-scion-of-arland-digital-deluxe-edition.json) |
 | Atelier Lulua: The Scion of Arland - Premium Box | 136723 | [136723-atelier-lulua-the-scion-of-arland-premium-box.json](./136723-atelier-lulua-the-scion-of-arland-premium-box.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings | 36814 | [36814-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings.json](./36814-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings.json) |
+| Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Battle Mix Secret Teachings | 238144 | [238144-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-battle-mix-secret-teachings.json](./238144-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-battle-mix-secret-teachings.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Great Adventures in New Worlds Vol. 1 | 171395 | [171395-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-1.json](./171395-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-1.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Great Adventures in New Worlds Vol. 2 | 171342 | [171342-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-2.json](./171342-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-2.json) |
+| Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Ilmeria | 238146 | [238146-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-ilmeria.json](./238146-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-ilmeria.json) |
+| Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Lucia | 238145 | [238145-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-lucia.json](./238145-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-lucia.json) |
+| Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - New Quest: Loads of Exp Quest | 238143 | [238143-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-new-quest-loads-of-exp-quest.json](./238143-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-new-quest-loads-of-exp-quest.json) |
+| Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - New Quest: Piles of Coll Quest | 238142 | [238142-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-new-quest-piles-of-coll-quest.json](./238142-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-new-quest-piles-of-coll-quest.json) |
 | Atelier Marie | 329384 | [329384-atelier-marie.json](./329384-atelier-marie.json) |
 | Atelier Marie & Elie: The Alchemist of Salburg | 329357 | [329357-atelier-marie-and-elie-the-alchemist-of-salburg.json](./329357-atelier-marie-and-elie-the-alchemist-of-salburg.json) |
 | Atelier Marie Plus: The Alchemist of Salburg | 308190 | [308190-atelier-marie-plus-the-alchemist-of-salburg.json](./308190-atelier-marie-plus-the-alchemist-of-salburg.json) |
