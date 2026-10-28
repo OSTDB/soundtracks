@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EcoDriver | 233527 | [233527-ecodriver.json](./233527-ecodriver.json) |
 | EcoFish | 64234 | [64234-ecofish.json](./64234-ecofish.json) |
 | EcoGenesis | 292745 | [292745-ecogenesis.json](./292745-ecogenesis.json) |
+| EcoGnomix | 259108 | [259108-ecognomix.json](./259108-ecognomix.json) |
 | EcoL tactics | 112312 | [112312-ecol-tactics.json](./112312-ecol-tactics.json) |
 | EcoMahjong | 247652 | [247652-ecomahjong.json](./247652-ecomahjong.json) |
 | Ecoman | 134920 | [134920-ecoman.json](./134920-ecoman.json) |
@@ -3456,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engage Princess: Nemureru Himegimi to Yume no Mahoutsukai | 205618 | [205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json](./205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json) |
 | Engage Souls | 247442 | [247442-engage-souls.json](./247442-engage-souls.json) |
 | Engage to Jabberwock | 194351 | [194351-engage-to-jabberwock.json](./194351-engage-to-jabberwock.json) |
+| Engaging Destiny | 259115 | [259115-engaging-destiny.json](./259115-engaging-destiny.json) |
 | Engaging Snowflakes | 364385 | [364385-engaging-snowflakes.json](./364385-engaging-snowflakes.json) |
 | Engare | 34110 | [34110-engare.json](./34110-engare.json) |
 | Engawa Danshi to Kemono Tan | 222242 | [222242-engawa-danshi-to-kemono-tan.json](./222242-engawa-danshi-to-kemono-tan.json) |
@@ -6832,6 +6834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explore Jam 2 | 275322 | [275322-explore-jam-2.json](./275322-explore-jam-2.json) |
 | Explore Jam 3 | 275318 | [275318-explore-jam-3.json](./275318-explore-jam-3.json) |
 | Explore Mars | 323832 | [323832-explore-mars.json](./323832-explore-mars.json) |
+| Explore the Backrooms | 258811 | [258811-explore-the-backrooms.json](./258811-explore-the-backrooms.json) |
 | Explore the Grotto | 307580 | [307580-explore-the-grotto.json](./307580-explore-the-grotto.json) |
 | Explore Titanic | 86853 | [86853-explore-titanic.json](./86853-explore-titanic.json) |
 | Explorer | 131269 | [131269-explorer.json](./131269-explorer.json) |
