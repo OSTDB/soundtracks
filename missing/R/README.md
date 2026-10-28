@@ -1040,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Empire 2: Digital Deluxe Edition | 251012 | [251012-railway-empire-2-digital-deluxe-edition.json](./251012-railway-empire-2-digital-deluxe-edition.json) |
 | Railway Empire 2: India | 317818 | [317818-railway-empire-2-india.json](./317818-railway-empire-2-india.json) |
 | Railway Empire 2: Industrial Wonders | 347487 | [347487-railway-empire-2-industrial-wonders.json](./347487-railway-empire-2-industrial-wonders.json) |
+| Railway Empire 2: Nintendo Switch Edition | 254075 | [254075-railway-empire-2-nintendo-switch-edition.json](./254075-railway-empire-2-nintendo-switch-edition.json) |
 | Railway Empire: Complete Collection | 139950 | [139950-railway-empire-complete-collection.json](./139950-railway-empire-complete-collection.json) |
 | Railway Empire: Crossing the Andes | 111186 | [111186-railway-empire-crossing-the-andes.json](./111186-railway-empire-crossing-the-andes.json) |
 | Railway Empire: DLC Bundle | 227357 | [227357-railway-empire-dlc-bundle.json](./227357-railway-empire-dlc-bundle.json) |
@@ -5251,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Revolution 2 | 63230 | [63230-retro-revolution-2.json](./63230-retro-revolution-2.json) |
 | Retro Rewind: Video Store Simulator | 346334 | [346334-retro-rewind-video-store-simulator.json](./346334-retro-rewind-video-store-simulator.json) |
 | Retro Road Rumble | 84843 | [84843-retro-road-rumble.json](./84843-retro-road-rumble.json) |
+| Retro Rollers Bundle | 254076 | [254076-retro-rollers-bundle.json](./254076-retro-rollers-bundle.json) |
 | Retro Royale | 112262 | [112262-retro-royale.json](./112262-retro-royale.json) |
 | Retro RPG Online 2 | 124233 | [124233-retro-rpg-online-2.json](./124233-retro-rpg-online-2.json) |
 | Retro Rugby | 350335 | [350335-retro-rugby.json](./350335-retro-rugby.json) |
@@ -9765,6 +9767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotten Apples | 255543 | [255543-rotten-apples.json](./255543-rotten-apples.json) |
 | Rotten Chamber | 399886 | [399886-rotten-chamber.json](./399886-rotten-chamber.json) |
 | Rotten Crop | 357749 | [357749-rotten-crop.json](./357749-rotten-crop.json) |
+| Rotten Dinner | 254092 | [254092-rotten-dinner.json](./254092-rotten-dinner.json) |
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
 | Rotten Stigma | 392181 | [392181-rotten-stigma.json](./392181-rotten-stigma.json) |
 | Rotten Sun | 183948 | [183948-rotten-sun.json](./183948-rotten-sun.json) |
@@ -10457,6 +10460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rules: Motel Horizon | 392128 | [392128-rules-motel-horizon.json](./392128-rules-motel-horizon.json) |
 | Rules! | 80537 | [80537-rules.json](./80537-rules.json) |
 | Ruling Horsestown | 357858 | [357858-ruling-horsestown.json](./357858-ruling-horsestown.json) |
+| Rulue's Iron-Fist Spring Break | 253719 | [253719-rulues-iron-fist-spring-break.json](./253719-rulues-iron-fist-spring-break.json) |
 | Rum & Gun | 127620 | [127620-rum-and-gun.json](./127620-rum-and-gun.json) |
 | Rum N' Gold Royale | 306376 | [306376-rum-n-gold-royale.json](./306376-rum-n-gold-royale.json) |
 | Rum no Izumi Dungeon | 206551 | [206551-rum-no-izumi-dungeon.json](./206551-rum-no-izumi-dungeon.json) |
