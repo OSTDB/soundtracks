@@ -3385,9 +3385,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Jigsaw Puzzle Games: Expansion Pack 1 | 263200 | [263200-cat-jigsaw-puzzle-games-expansion-pack-1.json](./263200-cat-jigsaw-puzzle-games-expansion-pack-1.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 10 | 241324 | [241324-cat-jigsaw-puzzle-games-expansion-pack-10.json](./241324-cat-jigsaw-puzzle-games-expansion-pack-10.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 11 | 241323 | [241323-cat-jigsaw-puzzle-games-expansion-pack-11.json](./241323-cat-jigsaw-puzzle-games-expansion-pack-11.json) |
+| Cat Jigsaw Puzzle Games: Expansion Pack 2 | 263082 | [263082-cat-jigsaw-puzzle-games-expansion-pack-2.json](./263082-cat-jigsaw-puzzle-games-expansion-pack-2.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 3 | 263207 | [263207-cat-jigsaw-puzzle-games-expansion-pack-3.json](./263207-cat-jigsaw-puzzle-games-expansion-pack-3.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 4 | 263211 | [263211-cat-jigsaw-puzzle-games-expansion-pack-4.json](./263211-cat-jigsaw-puzzle-games-expansion-pack-4.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 5 | 263098 | [263098-cat-jigsaw-puzzle-games-expansion-pack-5.json](./263098-cat-jigsaw-puzzle-games-expansion-pack-5.json) |
+| Cat Jigsaw Puzzle Games: Expansion Pack 6 | 263063 | [263063-cat-jigsaw-puzzle-games-expansion-pack-6.json](./263063-cat-jigsaw-puzzle-games-expansion-pack-6.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 7 | 263214 | [263214-cat-jigsaw-puzzle-games-expansion-pack-7.json](./263214-cat-jigsaw-puzzle-games-expansion-pack-7.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 8 | 262945 | [262945-cat-jigsaw-puzzle-games-expansion-pack-8.json](./262945-cat-jigsaw-puzzle-games-expansion-pack-8.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 9 | 241322 | [241322-cat-jigsaw-puzzle-games-expansion-pack-9.json](./241322-cat-jigsaw-puzzle-games-expansion-pack-9.json) |
@@ -4587,6 +4589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Tribal Strife Edition | 288045 | [288045-century-age-of-ashes-tribal-strife-edition.json](./288045-century-age-of-ashes-tribal-strife-edition.json) |
 | Century: Age of Ashes - Valkurian Prelude Edition | 218491 | [218491-century-age-of-ashes-valkurian-prelude-edition.json](./218491-century-age-of-ashes-valkurian-prelude-edition.json) |
 | Century: Age of Ashes - Zealot Pack | 256409 | [256409-century-age-of-ashes-zealot-pack.json](./256409-century-age-of-ashes-zealot-pack.json) |
+| Century: Skaarp Pack | 263061 | [263061-century-skaarp-pack.json](./263061-century-skaarp-pack.json) |
 | Century: Wishbringer Pack | 340566 | [340566-century-wishbringer-pack.json](./340566-century-wishbringer-pack.json) |
 | CEO | 179515 | [179515-ceo.json](./179515-ceo.json) |
 | CEO | 197181 | [197181-ceo.json](./197181-ceo.json) |
@@ -5457,6 +5460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers' Treasure Hunt | 381937 | [381937-checkers-treasure-hunt.json](./381937-checkers-treasure-hunt.json) |
 | Checkers' Village | 382190 | [382190-checkers-village.json](./382190-checkers-village.json) |
 | Checkmate : Battle Arenas | 112697 | [112697-checkmate-battle-arenas.json](./112697-checkmate-battle-arenas.json) |
+| Checkmate Challenge | 262777 | [262777-checkmate-challenge.json](./262777-checkmate-challenge.json) |
 | Checkmate Heroines | 391068 | [391068-checkmate-heroines.json](./391068-checkmate-heroines.json) |
 | Checkmate II | 278859 | [278859-checkmate-ii.json](./278859-checkmate-ii.json) |
 | Checkmate in the Wild West: Chess Adventure | 373534 | [373534-checkmate-in-the-wild-west-chess-adventure.json](./373534-checkmate-in-the-wild-west-chess-adventure.json) |
@@ -14944,6 +14948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Brigade 2: Reloaded | 223144 | [223144-crisis-brigade-2-reloaded.json](./223144-crisis-brigade-2-reloaded.json) |
 | Crisis Bullet | 296446 | [296446-crisis-bullet.json](./296446-crisis-bullet.json) |
 | Crisis City | 43784 | [43784-crisis-city.json](./43784-crisis-city.json) |
+| Crisis Control | 263072 | [263072-crisis-control.json](./263072-crisis-control.json) |
 | Crisis Core: Final Fantasy VII - Collector's Edition | 141504 | [141504-crisis-core-final-fantasy-vii-collectors-edition.json](./141504-crisis-core-final-fantasy-vii-collectors-edition.json) |
 | Crisis Core: Final Fantasy VII - Reunion | 205201 | [205201-crisis-core-final-fantasy-vii-reunion.json](./205201-crisis-core-final-fantasy-vii-reunion.json) |
 | Crisis Force | 48652 | [48652-crisis-force.json](./48652-crisis-force.json) |
