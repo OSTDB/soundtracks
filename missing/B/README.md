@@ -3140,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Camp | 38887 | [38887-battle-camp.json](./38887-battle-camp.json) |
 | Battle Capacity | 332815 | [332815-battle-capacity.json](./332815-battle-capacity.json) |
 | Battle Cars | 224095 | [224095-battle-cars.json](./224095-battle-cars.json) |
+| Battle Cars | 236980 | [236980-battle-cars.json](./236980-battle-cars.json) |
 | Battle Cars | 332256 | [332256-battle-cars.json](./332256-battle-cars.json) |
 | Battle Cars | 36729 | [36729-battle-cars.json](./36729-battle-cars.json) |
 | Battle Cats Galaxy | 300455 | [300455-battle-cats-galaxy.json](./300455-battle-cats-galaxy.json) |
@@ -4142,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Bass | 334210 | [334210-beach-bass.json](./334210-beach-bass.json) |
 | Beach Bike Water: Challenge Ra | 107671 | [107671-beach-bike-water-challenge-ra.json](./107671-beach-bike-water-challenge-ra.json) |
 | Beach Blanket Volleyball | 362416 | [362416-beach-blanket-volleyball.json](./362416-beach-blanket-volleyball.json) |
+| Beach Boing | 236987 | [236987-beach-boing.json](./236987-beach-boing.json) |
 | Beach Bounce | 35698 | [35698-beach-bounce.json](./35698-beach-bounce.json) |
 | Beach Bounce Remastered | 22216 | [22216-beach-bounce-remastered.json](./22216-beach-bounce-remastered.json) |
 | Beach Bowling 3D | 66120 | [66120-beach-bowling-3d.json](./66120-beach-bowling-3d.json) |
@@ -4341,6 +4343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear's Restaurant | 151754 | [151754-bears-restaurant.json](./151754-bears-restaurant.json) |
 | Bearable - Return to Candyland | 232391 | [232391-bearable-return-to-candyland.json](./232391-bearable-return-to-candyland.json) |
 | Bearable Nightmares | 148893 | [148893-bearable-nightmares.json](./148893-bearable-nightmares.json) |
+| Bearadise 2: Big Bear Shuffle | 236977 | [236977-bearadise-2-big-bear-shuffle.json](./236977-bearadise-2-big-bear-shuffle.json) |
 | Bearalot: Bear Links | 235077 | [235077-bearalot-bear-links.json](./235077-bearalot-bear-links.json) |
 | Bearbarians | 62809 | [62809-bearbarians.json](./62809-bearbarians.json) |
 | Bearbushkas | 86653 | [86653-bearbushkas.json](./86653-bearbushkas.json) |
@@ -7576,6 +7579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Orchard: Animal Valley - Special Edition | 227702 | [227702-bit-orchard-animal-valley-special-edition.json](./227702-bit-orchard-animal-valley-special-edition.json) |
 | Bit Orchard: Animal Valley - Ultimate Edition | 208618 | [208618-bit-orchard-animal-valley-ultimate-edition.json](./208618-bit-orchard-animal-valley-ultimate-edition.json) |
 | Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
+| Bit Oz: Wonder Crusher | 237024 | [237024-bit-oz-wonder-crusher.json](./237024-bit-oz-wonder-crusher.json) |
 | Bit Pilot | 41514 | [41514-bit-pilot.json](./41514-bit-pilot.json) |
 | Bit Pit | 176429 | [176429-bit-pit.json](./176429-bit-pit.json) |
 | Bit Pong | 182172 | [182172-bit-pong.json](./182172-bit-pong.json) |
@@ -9382,6 +9386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocksy | 292059 | [292059-blocksy.json](./292059-blocksy.json) |
 | BlockTanks | 324917 | [324917-blocktanks.json](./324917-blocktanks.json) |
 | BlockTanks.io | 137629 | [137629-blocktanks-io.json](./137629-blocktanks-io.json) |
+| Blocktiful | 237016 | [237016-blocktiful.json](./237016-blocktiful.json) |
 | Blocktopia | 326241 | [326241-blocktopia.json](./326241-blocktopia.json) |
 | Blockudoku | 227479 | [227479-blockudoku.json](./227479-blockudoku.json) |
 | BlockUrbs | 338251 | [338251-blockurbs.json](./338251-blockurbs.json) |
@@ -10525,6 +10530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobbi_Cities | 68771 | [68771-bobbi-cities.json](./68771-bobbi-cities.json) |
 | Bobbin's Quest | 67985 | [67985-bobbins-quest.json](./67985-bobbins-quest.json) |
 | Bobble Bash | 265657 | [265657-bobble-bash.json](./265657-bobble-bash.json) |
+| Bobble Bunch: Ultimate Pet Adventure | 236994 | [236994-bobble-bunch-ultimate-pet-adventure.json](./236994-bobble-bunch-ultimate-pet-adventure.json) |
 | Bobble League | 254430 | [254430-bobble-league.json](./254430-bobble-league.json) |
 | Bobble Shop Simulator | 386240 | [386240-bobble-shop-simulator.json](./386240-bobble-shop-simulator.json) |
 | Bobble Wobble | 338657 | [338657-bobble-wobble.json](./338657-bobble-wobble.json) |
