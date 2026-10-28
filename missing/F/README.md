@@ -9445,6 +9445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Second Fury | 387916 | [387916-four-second-fury.json](./387916-four-second-fury.json) |
 | Four Sided Fantasy | 20104 | [20104-four-sided-fantasy.json](./20104-four-sided-fantasy.json) |
 | Four Smash Hits from Hewson | 97465 | [97465-four-smash-hits-from-hewson.json](./97465-four-smash-hits-from-hewson.json) |
+| Four Squares | 233149 | [233149-four-squares.json](./233149-four-squares.json) |
 | Four Stories Below | 101308 | [101308-four-stories-below.json](./101308-four-stories-below.json) |
 | Four Trax | 46864 | [46864-four-trax.json](./46864-four-trax.json) |
 | Four Ways | 129702 | [129702-four-ways.json](./129702-four-ways.json) |
