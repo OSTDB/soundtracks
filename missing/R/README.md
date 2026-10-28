@@ -2244,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re;quartz Reido | 211948 | [211948-re-quartz-reido.json](./211948-re-quartz-reido.json) |
 | Re: Aetatis | 174769 | [174769-re-aetatis.json](./174769-re-aetatis.json) |
 | RE: Castle Defense | 130367 | [130367-re-castle-defense.json](./130367-re-castle-defense.json) |
+| RE: Crank Sim | 278570 | [278570-re-crank-sim.json](./278570-re-crank-sim.json) |
 | Re: Danganronpa Refresh Retreat | 304349 | [304349-re-danganronpa-refresh-retreat.json](./304349-re-danganronpa-refresh-retreat.json) |
 | Re: Dream | 290080 | [290080-re-dream.json](./290080-re-dream.json) |
 | Re: Gals Panic 2 | 348933 | [348933-re-gals-panic-2.json](./348933-re-gals-panic-2.json) |
@@ -9964,6 +9965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Roads 3 Portal | 212653 | [212653-royal-roads-3-portal.json](./212653-royal-roads-3-portal.json) |
 | Royal Romances: Battle of the Woods | 226930 | [226930-royal-romances-battle-of-the-woods.json](./226930-royal-romances-battle-of-the-woods.json) |
 | Royal Romances: Battle of the Woods - Collector's Edition | 224741 | [224741-royal-romances-battle-of-the-woods-collectors-edition.json](./224741-royal-romances-battle-of-the-woods-collectors-edition.json) |
+| Royal Romances: Cursed Hearts - Collector's Edition | 278252 | [278252-royal-romances-cursed-hearts-collectors-edition.json](./278252-royal-romances-cursed-hearts-collectors-edition.json) |
 | Royal Romances: Endless Winter - Collector's Edition | 265305 | [265305-royal-romances-endless-winter-collectors-edition.json](./265305-royal-romances-endless-winter-collectors-edition.json) |
 | Royal Romances: Forbidden Magic - Collector's Edition | 240767 | [240767-royal-romances-forbidden-magic-collectors-edition.json](./240767-royal-romances-forbidden-magic-collectors-edition.json) |
 | Royal Romances: The Cursed Hearts DLC | 280258 | [280258-royal-romances-the-cursed-hearts-dlc.json](./280258-royal-romances-the-cursed-hearts-dlc.json) |
