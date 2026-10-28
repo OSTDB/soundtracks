@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talvisota: Winter War | 286414 | [286414-talvisota-winter-war.json](./286414-talvisota-winter-war.json) |
 | Talystro | 334352 | [334352-talystro.json](./334352-talystro.json) |
 | Tama & Friends: 3-choume Daibouken | 41332 | [41332-tama-and-friends-3-choume-daibouken.json](./41332-tama-and-friends-3-choume-daibouken.json) |
+| Tama & Friends: 3-match Puzzle | 276327 | [276327-tama-and-friends-3-match-puzzle.json](./276327-tama-and-friends-3-match-puzzle.json) |
 | Tama In-Between | 355580 | [355580-tama-in-between.json](./355580-tama-in-between.json) |
 | Tama: Adventurous Ball in Giddy Labyrinth | 60361 | [60361-tama-adventurous-ball-in-giddy-labyrinth.json](./60361-tama-adventurous-ball-in-giddy-labyrinth.json) |
 | Tamadog | 227503 | [227503-tamadog.json](./227503-tamadog.json) |
@@ -7149,6 +7150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil's Gambit | 186082 | [186082-the-devils-gambit.json](./186082-the-devils-gambit.json) |
 | The Devil's Garden | 105280 | [105280-the-devils-garden.json](./105280-the-devils-garden.json) |
 | The Devil's Gospel | 184448 | [184448-the-devils-gospel.json](./184448-the-devils-gospel.json) |
+| The Devil's Imago | 276009 | [276009-the-devils-imago.json](./276009-the-devils-imago.json) |
 | The Devil's Men | 7613 | [7613-the-devils-men.json](./7613-the-devils-men.json) |
 | The Devil's Route | 288698 | [288698-the-devils-route.json](./288698-the-devils-route.json) |
 | The Devil's Womb | 122006 | [122006-the-devils-womb.json](./122006-the-devils-womb.json) |
@@ -7287,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dragon and the Djinn | 189166 | [189166-the-dragon-and-the-djinn.json](./189166-the-dragon-and-the-djinn.json) |
 | The Dragon Apprentice | 196883 | [196883-the-dragon-apprentice.json](./196883-the-dragon-apprentice.json) |
 | The Dragon Odyssey | 335805 | [335805-the-dragon-odyssey.json](./335805-the-dragon-odyssey.json) |
+| The Dragon Prince: Xadia | 276331 | [276331-the-dragon-prince-xadia.json](./276331-the-dragon-prince-xadia.json) |
 | The Dragon Princess | 389693 | [389693-the-dragon-princess.json](./389693-the-dragon-princess.json) |
 | The Dragon Queen | 238526 | [238526-the-dragon-queen.json](./238526-the-dragon-queen.json) |
 | The Dragon Sword | 149934 | [149934-the-dragon-sword.json](./149934-the-dragon-sword.json) |
@@ -24711,6 +24714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Train Train | 158548 | [158548-train-train-train.json](./158548-train-train-train.json) |
 | Train Trip | 179462 | [179462-train-trip.json](./179462-train-trip.json) |
 | Train Tycoon | 152866 | [152866-train-tycoon.json](./152866-train-tycoon.json) |
+| Train Valley 2: Community Edition | 275996 | [275996-train-valley-2-community-edition.json](./275996-train-valley-2-community-edition.json) |
 | Train Valley 2: Editor's Bulletin | 243140 | [243140-train-valley-2-editors-bulletin.json](./243140-train-valley-2-editors-bulletin.json) |
 | Train Valley 2: Japanese Trails | 367283 | [367283-train-valley-2-japanese-trails.json](./367283-train-valley-2-japanese-trails.json) |
 | Train Valley 2: Myths and Rails | 200932 | [200932-train-valley-2-myths-and-rails.json](./200932-train-valley-2-myths-and-rails.json) |
