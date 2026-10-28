@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Underworld | 333653 | [333653-call-of-the-underworld.json](./333653-call-of-the-underworld.json) |
 | Call of the Void | 118610 | [118610-call-of-the-void.json](./118610-call-of-the-void.json) |
 | Call of the Void | 299714 | [299714-call-of-the-void.json](./299714-call-of-the-void.json) |
+| Call of the VoYD Genesis | 255816 | [255816-call-of-the-voyd-genesis.json](./255816-call-of-the-voyd-genesis.json) |
 | Call of the Wild: The Angler - Deluxe Edition | 264133 | [264133-call-of-the-wild-the-angler-deluxe-edition.json](./264133-call-of-the-wild-the-angler-deluxe-edition.json) |
 | Call of the Wild: The Angler - Japan Fishing Reserve | 331812 | [331812-call-of-the-wild-the-angler-japan-fishing-reserve.json](./331812-call-of-the-wild-the-angler-japan-fishing-reserve.json) |
 | Call of the Wild: The Angler - LakePal Bait Boat Pack | 318443 | [318443-call-of-the-wild-the-angler-lakepal-bait-boat-pack.json](./318443-call-of-the-wild-the-angler-lakepal-bait-boat-pack.json) |
@@ -4384,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celeste Classic 2: Lani's Trek | 366101 | [366101-celeste-classic-2-lanis-trek.json](./366101-celeste-classic-2-lanis-trek.json) |
 | Celeste Classic PSX | 360339 | [360339-celeste-classic-psx.json](./360339-celeste-classic-psx.json) |
 | Celeste Fusion Collab | 358282 | [358282-celeste-fusion-collab.json](./358282-celeste-fusion-collab.json) |
+| Celeste Mario's Zap & Dash! | 255899 | [255899-celeste-marios-zap-and-dash.json](./255899-celeste-marios-zap-and-dash.json) |
 | Celeste Strawberry Jam | 235102 | [235102-celeste-strawberry-jam.json](./235102-celeste-strawberry-jam.json) |
 | Celeste Witch | 76427 | [76427-celeste-witch.json](./76427-celeste-witch.json) |
 | Celeste: Into The Jungle | 353715 | [353715-celeste-into-the-jungle.json](./353715-celeste-into-the-jungle.json) |
@@ -11501,6 +11503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confrontation | 282719 | [282719-confrontation.json](./282719-confrontation.json) |
 | Confrontation: Battle for Black Gold | 363313 | [363313-confrontation-battle-for-black-gold.json](./363313-confrontation-battle-for-black-gold.json) |
 | Confronted | 291708 | [291708-confronted.json](./291708-confronted.json) |
+| Confronting | 255484 | [255484-confronting.json](./255484-confronting.json) |
 | Confused? | 71490 | [71490-confused.json](./71490-confused.json) |
 | Confusing game | 148340 | [148340-confusing-game.json](./148340-confusing-game.json) |
 | Confusion | 292401 | [292401-confusion.json](./292401-confusion.json) |
@@ -12724,6 +12727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupt The Priest | 111526 | [111526-corrupt-the-priest.json](./111526-corrupt-the-priest.json) |
 | Corrupt Them All: Devilina Vein | 392985 | [392985-corrupt-them-all-devilina-vein.json](./392985-corrupt-them-all-devilina-vein.json) |
 | Corrupt Them All: Tokyo Meow | 370577 | [370577-corrupt-them-all-tokyo-meow.json](./370577-corrupt-them-all-tokyo-meow.json) |
+| Corrupt: Political Simulator | 255481 | [255481-corrupt-political-simulator.json](./255481-corrupt-political-simulator.json) |
 | Corrupt.exe | 408850 | [408850-corrupt-exe.json](./408850-corrupt-exe.json) |
 | Corrupted | 251063 | [251063-corrupted.json](./251063-corrupted.json) |
 | Corrupted | 288804 | [288804-corrupted.json](./288804-corrupted.json) |
@@ -16412,6 +16416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubePuzzle | 163546 | [163546-cubepuzzle.json](./163546-cubepuzzle.json) |
 | Cuber | 254584 | [254584-cuber.json](./254584-cuber.json) |
 | Cuber | 365458 | [365458-cuber.json](./365458-cuber.json) |
+| Cuber 2: Ice Age | 255834 | [255834-cuber-2-ice-age.json](./255834-cuber-2-ice-age.json) |
 | Cuber 2: Ice Age Remake | 256310 | [256310-cuber-2-ice-age-remake.json](./256310-cuber-2-ice-age-remake.json) |
 | Cuber 3: Schmidt | 284357 | [284357-cuber-3-schmidt.json](./284357-cuber-3-schmidt.json) |
 | CubeRace | 114953 | [114953-cuberace.json](./114953-cuberace.json) |
@@ -17539,6 +17544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber-Cat | 151477 | [151477-cyber-cat.json](./151477-cyber-cat.json) |
 | Cyber-Cop | 80869 | [80869-cyber-cop.json](./80869-cyber-cop.json) |
 | Cyber-Wing | 130654 | [130654-cyber-wing.json](./130654-cyber-wing.json) |
+| Cyber: Mind Dive | 255482 | [255482-cyber-mind-dive.json](./255482-cyber-mind-dive.json) |
 | Cyber.one: Trans Car Racing | 126985 | [126985-cyber-one-trans-car-racing.json](./126985-cyber-one-trans-car-racing.json) |
 | Cyber92 Datawar | 398491 | [398491-cyber92-datawar.json](./398491-cyber92-datawar.json) |
 | CyberAge | 200993 | [200993-cyberage.json](./200993-cyberage.json) |
