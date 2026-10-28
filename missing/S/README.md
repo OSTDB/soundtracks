@@ -1593,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Big Adventures | 30075 | [30075-santas-big-adventures.json](./30075-santas-big-adventures.json) |
 | Santa's Big Sack | 380442 | [380442-santas-big-sack.json](./380442-santas-big-sack.json) |
 | Santa's Burnout | 390223 | [390223-santas-burnout.json](./390223-santas-burnout.json) |
+| Santa's Chimney Quest | 279018 | [279018-santas-chimney-quest.json](./279018-santas-chimney-quest.json) |
 | Santa's Christmas Adventure | 323100 | [323100-santas-christmas-adventure.json](./323100-santas-christmas-adventure.json) |
 | Santa's Christmas Gift Quest | 332340 | [332340-santas-christmas-gift-quest.json](./332340-santas-christmas-gift-quest.json) |
 | Santa's Christmas Solitaire | 30362 | [30362-santas-christmas-solitaire.json](./30362-santas-christmas-solitaire.json) |
@@ -6511,6 +6512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Palace | 312902 | [312902-shattered-palace.json](./312902-shattered-palace.json) |
 | Shattered Paradise | 387019 | [387019-shattered-paradise.json](./387019-shattered-paradise.json) |
 | Shattered Pixel Dungeon | 130394 | [130394-shattered-pixel-dungeon.json](./130394-shattered-pixel-dungeon.json) |
+| Shattered Plains | 279164 | [279164-shattered-plains.json](./279164-shattered-plains.json) |
 | Shattered Planet | 17510 | [17510-shattered-planet.json](./17510-shattered-planet.json) |
 | Shattered Realm Rebirth | 390666 | [390666-shattered-realm-rebirth.json](./390666-shattered-realm-rebirth.json) |
 | Shattered Realms | 76210 | [76210-shattered-realms.json](./76210-shattered-realms.json) |
@@ -11685,6 +11687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime's Journey | 378316 | [378316-slimes-journey.json](./378316-slimes-journey.json) |
 | Slime's Revenge | 152651 | [152651-slimes-revenge.json](./152651-slimes-revenge.json) |
 | Slimeblade | 420012 | [420012-slimeblade.json](./420012-slimeblade.json) |
+| Slimeboo | 279023 | [279023-slimeboo.json](./279023-slimeboo.json) |
 | Slimebrawl | 75061 | [75061-slimebrawl.json](./75061-slimebrawl.json) |
 | SlimeCatcher | 235615 | [235615-slimecatcher.json](./235615-slimecatcher.json) |
 | Slimed | 186273 | [186273-slimed.json](./186273-slimed.json) |
@@ -22144,6 +22147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steal the Meal: Unblock Puzzle | 261514 | [261514-steal-the-meal-unblock-puzzle.json](./261514-steal-the-meal-unblock-puzzle.json) |
 | Steal The Pig | 344448 | [344448-steal-the-pig.json](./344448-steal-the-pig.json) |
 | Steal the Spotlight | 185454 | [185454-steal-the-spotlight.json](./185454-steal-the-spotlight.json) |
+| Steal Then Just Escape | 279151 | [279151-steal-then-just-escape.json](./279151-steal-then-just-escape.json) |
 | Stealer | 347728 | [347728-stealer.json](./347728-stealer.json) |
 | Stealin' Steve | 421820 | [421820-stealin-steve.json](./421820-stealin-steve.json) |
 | Stealing Them Softly | 379695 | [379695-stealing-them-softly.json](./379695-stealing-them-softly.json) |
@@ -24444,6 +24448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroke Fill | 118794 | [118794-stroke-fill.json](./118794-stroke-fill.json) |
 | Stroke of Midnight | 54409 | [54409-stroke-of-midnight.json](./54409-stroke-of-midnight.json) |
 | Stroke of Midnight: Collector's Edition | 54410 | [54410-stroke-of-midnight-collectors-edition.json](./54410-stroke-of-midnight-collectors-edition.json) |
+| Stroke The Animals | 279020 | [279020-stroke-the-animals.json](./279020-stroke-the-animals.json) |
 | Stroke the Cat | 217915 | [217915-stroke-the-cat.json](./217915-stroke-the-cat.json) |
 | Stroke the Cow | 228017 | [228017-stroke-the-cow.json](./228017-stroke-the-cow.json) |
 | Stroke the Fish | 220342 | [220342-stroke-the-fish.json](./220342-stroke-the-fish.json) |
@@ -26013,6 +26018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super | 51970 | [51970-super.json](./51970-super.json) |
 | Super "Mario" World | 297240 | [297240-super-mario-world.json](./297240-super-mario-world.json) |
 | Super "Mario" World 2 | 297496 | [297496-super-mario-world-2.json](./297496-super-mario-world-2.json) |
+| Super "Sonic Saves the World" World | 278828 | [278828-super-sonic-saves-the-world-world.json](./278828-super-sonic-saves-the-world-world.json) |
 | Super 1 Karting Simulation | 94949 | [94949-super-1-karting-simulation.json](./94949-super-1-karting-simulation.json) |
 | Super 10 Pin | 270885 | [270885-super-10-pin.json](./270885-super-10-pin.json) |
 | Super 10 VR Bundle | 300275 | [300275-super-10-vr-bundle.json](./300275-super-10-vr-bundle.json) |
