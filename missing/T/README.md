@@ -5204,6 +5204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Attic | 377353 | [377353-the-attic.json](./377353-the-attic.json) |
 | The Attic: A Mystery Puzzle Game | 412363 | [412363-the-attic-a-mystery-puzzle-game.json](./412363-the-attic-a-mystery-puzzle-game.json) |
 | The Attic's a Dungeon ?! | 176431 | [176431-the-attics-a-dungeon.json](./176431-the-attics-a-dungeon.json) |
+| The Attraction to All Things Uncertain | 273729 | [273729-the-attraction-to-all-things-uncertain.json](./273729-the-attraction-to-all-things-uncertain.json) |
 | The Auction Game | 337199 | [337199-the-auction-game.json](./337199-the-auction-game.json) |
 | The Augury House | 188471 | [188471-the-augury-house.json](./188471-the-augury-house.json) |
 | The Aurora Chronicles | 383203 | [383203-the-aurora-chronicles.json](./383203-the-aurora-chronicles.json) |
@@ -11900,6 +11901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ministry of Silly Walks | 8556 | [8556-the-ministry-of-silly-walks.json](./8556-the-ministry-of-silly-walks.json) |
 | The Minotaur | 34159 | [34159-the-minotaur.json](./34159-the-minotaur.json) |
 | The Miracle Of San Martin | 416606 | [416606-the-miracle-of-san-martin.json](./416606-the-miracle-of-san-martin.json) |
+| The Miracle Piano Teaching System | 274059 | [274059-the-miracle-piano-teaching-system.json](./274059-the-miracle-piano-teaching-system.json) |
 | The Mirage: Illusion of Wish | 25057 | [25057-the-mirage-illusion-of-wish.json](./25057-the-mirage-illusion-of-wish.json) |
 | The Mirrion | 345104 | [345104-the-mirrion.json](./345104-the-mirrion.json) |
 | The Mirror | 124488 | [124488-the-mirror.json](./124488-the-mirror.json) |
@@ -12269,6 +12271,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The New Universes: Eine Neue Reise Beginnt - Chapter 1 | 120391 | [120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json](./120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json) |
 | The New York Times Simulator | 294777 | [294777-the-new-york-times-simulator.json](./294777-the-new-york-times-simulator.json) |
 | The Newton Mystery | 208332 | [208332-the-newton-mystery.json](./208332-the-newton-mystery.json) |
+| The NewZealand Story | 274066 | [274066-the-newzealand-story.json](./274066-the-newzealand-story.json) |
+| The NewZealand Story | 274068 | [274068-the-newzealand-story.json](./274068-the-newzealand-story.json) |
+| The NewZealand Story | 274070 | [274070-the-newzealand-story.json](./274070-the-newzealand-story.json) |
 | The NewZealand Story | 7628 | [7628-the-newzealand-story.json](./7628-the-newzealand-story.json) |
 | The Next Big Thing | 10958 | [10958-the-next-big-thing.json](./10958-the-next-big-thing.json) |
 | The Next Big Thing | 264879 | [264879-the-next-big-thing.json](./264879-the-next-big-thing.json) |
