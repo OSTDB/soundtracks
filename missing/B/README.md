@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bagel | 310482 | [310482-bagel.json](./310482-bagel.json) |
 | Bagel Love Story | 298691 | [298691-bagel-love-story.json](./298691-bagel-love-story.json) |
 | Bagelball | 341300 | [341300-bagelball.json](./341300-bagelball.json) |
+| Bagels | 242135 | [242135-bagels.json](./242135-bagels.json) |
 | Baggage Inspector | 293854 | [293854-baggage-inspector.json](./293854-baggage-inspector.json) |
 | Baggio's Magical Kicks | 64973 | [64973-baggios-magical-kicks.json](./64973-baggios-magical-kicks.json) |
 | Baghdad Central: Desert Gunner | 63014 | [63014-baghdad-central-desert-gunner.json](./63014-baghdad-central-desert-gunner.json) |
