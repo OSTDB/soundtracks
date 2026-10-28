@@ -2639,6 +2639,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Guardian | 109923 | [109923-team-guardian.json](./109923-team-guardian.json) |
 | Team Hero Coder | 416829 | [416829-team-hero-coder.json](./416829-team-hero-coder.json) |
 | Team Hogus: GHAMEMFAIFTH OTHIYLTIM | 185659 | [185659-team-hogus-ghamemfaifth-othiyltim.json](./185659-team-hogus-ghamemfaifth-othiyltim.json) |
+| Team Hot Wheels: Baja | 254625 | [254625-team-hot-wheels-baja.json](./254625-team-hot-wheels-baja.json) |
+| Team Hot Wheels: Drift | 254624 | [254624-team-hot-wheels-drift.json](./254624-team-hot-wheels-drift.json) |
+| Team Hot Wheels: Moto X | 254626 | [254626-team-hot-wheels-moto-x.json](./254626-team-hot-wheels-moto-x.json) |
 | Team Ice Cream VR | 189352 | [189352-team-ice-cream-vr.json](./189352-team-ice-cream-vr.json) |
 | Team Indie | 9491 | [9491-team-indie.json](./9491-team-indie.json) |
 | Team Innocent: The Point of No Return | 65738 | [65738-team-innocent-the-point-of-no-return.json](./65738-team-innocent-the-point-of-no-return.json) |
@@ -19885,6 +19888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time of the Wizard | 260308 | [260308-time-of-the-wizard.json](./260308-time-of-the-wizard.json) |
 | Time of the Zombies | 113657 | [113657-time-of-the-zombies.json](./113657-time-of-the-zombies.json) |
 | Time of War | 27638 | [27638-time-of-war.json](./27638-time-of-war.json) |
+| Time of War, Arkano'90 | 254704 | [254704-time-of-war-arkano90.json](./254704-time-of-war-arkano90.json) |
 | Time on Frog Island | 165399 | [165399-time-on-frog-island.json](./165399-time-on-frog-island.json) |
 | Time on Frog Island: Prologue | 209641 | [209641-time-on-frog-island-prologue.json](./209641-time-on-frog-island-prologue.json) |
 | Time Only Knows | 208411 | [208411-time-only-knows.json](./208411-time-only-knows.json) |
@@ -23502,6 +23506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Tactics: Astral Siege | 336624 | [336624-tower-tactics-astral-siege.json](./336624-tower-tactics-astral-siege.json) |
 | Tower Tank: TD Reversal | 113396 | [113396-tower-tank-td-reversal.json](./113396-tower-tank-td-reversal.json) |
 | Tower to Heaven | 173313 | [173313-tower-to-heaven.json](./173313-tower-to-heaven.json) |
+| Tower Up | 254631 | [254631-tower-up.json](./254631-tower-up.json) |
 | Tower Up | 346547 | [346547-tower-up.json](./346547-tower-up.json) |
 | Tower VR | 121307 | [121307-tower-vr.json](./121307-tower-vr.json) |
 | Tower Walker - The Ancient Ones | 252259 | [252259-tower-walker-the-ancient-ones.json](./252259-tower-walker-the-ancient-ones.json) |
@@ -27375,6 +27380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator: Delivery in City | 375410 | [375410-truck-simulator-delivery-in-city.json](./375410-truck-simulator-delivery-in-city.json) |
 | Truck Simulator: Driving School 2024 | 276862 | [276862-truck-simulator-driving-school-2024.json](./276862-truck-simulator-driving-school-2024.json) |
 | Truck Simulator: European Roads | 383514 | [383514-truck-simulator-european-roads.json](./383514-truck-simulator-european-roads.json) |
+| Truck Simulator: Heavy Cargo Driver 2023 | 254637 | [254637-truck-simulator-heavy-cargo-driver-2023.json](./254637-truck-simulator-heavy-cargo-driver-2023.json) |
 | Truck Simulator: Offroad | 223879 | [223879-truck-simulator-offroad.json](./223879-truck-simulator-offroad.json) |
 | Truck Simulator: World | 236249 | [236249-truck-simulator-world.json](./236249-truck-simulator-world.json) |
 | Truck Space | 220829 | [220829-truck-space.json](./220829-truck-space.json) |
