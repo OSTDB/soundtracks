@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Outpost | 302110 | [302110-last-outpost.json](./302110-last-outpost.json) |
 | Last Patriot | 328972 | [328972-last-patriot.json](./328972-last-patriot.json) |
 | Last Patrol | 378226 | [378226-last-patrol.json](./378226-last-patrol.json) |
+| Last Period | 247136 | [247136-last-period.json](./247136-last-period.json) |
 | Last Pickup | 323430 | [323430-last-pickup.json](./323430-last-pickup.json) |
 | Last Pill Bar | 415880 | [415880-last-pill-bar.json](./415880-last-pill-bar.json) |
 | Last Pirate: Survival Island | 193960 | [193960-last-pirate-survival-island.json](./193960-last-pirate-survival-island.json) |
@@ -3913,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Kanji Island | 303628 | [303628-life-of-kanji-island.json](./303628-life-of-kanji-island.json) |
 | Life of Lon | 36995 | [36995-life-of-lon.json](./36995-life-of-lon.json) |
 | Life of Mellow | 174702 | [174702-life-of-mellow.json](./174702-life-of-mellow.json) |
+| Life of Pi | 246766 | [246766-life-of-pi.json](./246766-life-of-pi.json) |
 | Life of Pixel | 10514 | [10514-life-of-pixel.json](./10514-life-of-pixel.json) |
 | Life of Slime | 242057 | [242057-life-of-slime.json](./242057-life-of-slime.json) |
 | Life of Snow Wolf | 246981 | [246981-life-of-snow-wolf.json](./246981-life-of-snow-wolf.json) |
