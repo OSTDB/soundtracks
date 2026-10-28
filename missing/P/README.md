@@ -2704,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrolling Mars | 276289 | [276289-patrolling-mars.json](./276289-patrolling-mars.json) |
 | Patrolling the Highway | 359409 | [359409-patrolling-the-highway.json](./359409-patrolling-the-highway.json) |
 | Patron | 152393 | [152393-patron.json](./152393-patron.json) |
+| Patrons | 275421 | [275421-patrons.json](./275421-patrons.json) |
 | Pattaya | 233365 | [233365-pattaya.json](./233365-pattaya.json) |
 | Pattaya Bar Simulator | 402118 | [402118-pattaya-bar-simulator.json](./402118-pattaya-bar-simulator.json) |
 | Patter | 310696 | [310696-patter.json](./310696-patter.json) |
@@ -8729,6 +8730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutonium T6 Multiplayer | 315118 | [315118-plutonium-t6-multiplayer.json](./315118-plutonium-t6-multiplayer.json) |
 | Plutonium: Kilimanjaro Oddysey | 321044 | [321044-plutonium-kilimanjaro-oddysey.json](./321044-plutonium-kilimanjaro-oddysey.json) |
 | Plutos | 15343 | [15343-plutos.json](./15343-plutos.json) |
+| Plutosis | 275433 | [275433-plutosis.json](./275433-plutosis.json) |
 | Pluvia: Episode II | 211906 | [211906-pluvia-episode-ii.json](./211906-pluvia-episode-ii.json) |
 | Ply | 178950 | [178950-ply.json](./178950-ply.json) |
 | Plylbl | 333977 | [333977-plylbl.json](./333977-plylbl.json) |
@@ -9106,6 +9108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point of No Return | 86815 | [86815-point-of-no-return.json](./86815-point-of-no-return.json) |
 | Point of View | 140512 | [140512-point-of-view.json](./140512-point-of-view.json) |
 | Point Perfect | 10707 | [10707-point-perfect.json](./10707-point-perfect.json) |
+| Point Salad | 275422 | [275422-point-salad.json](./275422-point-salad.json) |
 | Point Zero: Victoria | 390084 | [390084-point-zero-victoria.json](./390084-point-zero-victoria.json) |
 | Point'n'Click Lovers: Daedalic Adventure Bundle | 283723 | [283723-pointnclick-lovers-daedalic-adventure-bundle.json](./283723-pointnclick-lovers-daedalic-adventure-bundle.json) |
 | Pointblank | 131216 | [131216-pointblank.json](./131216-pointblank.json) |
@@ -15844,6 +15847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Vacations: Christmas | 275443 | [275443-puzzle-vacations-christmas.json](./275443-puzzle-vacations-christmas.json) |
 | Puzzle Vacations: France | 315898 | [315898-puzzle-vacations-france.json](./315898-puzzle-vacations-france.json) |
 | Puzzle Vacations: Italy | 322976 | [322976-puzzle-vacations-italy.json](./322976-puzzle-vacations-italy.json) |
+| Puzzle Vacations: Japan | 275442 | [275442-puzzle-vacations-japan.json](./275442-puzzle-vacations-japan.json) |
 | Puzzle Vacations: Nordics | 315897 | [315897-puzzle-vacations-nordics.json](./315897-puzzle-vacations-nordics.json) |
 | Puzzle Vault | 383165 | [383165-puzzle-vault.json](./383165-puzzle-vault.json) |
 | Puzzle Wall | 110800 | [110800-puzzle-wall.json](./110800-puzzle-wall.json) |
