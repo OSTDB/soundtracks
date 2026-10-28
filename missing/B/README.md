@@ -3412,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Puzzle 2048: Queens of the Abyss | 385140 | [385140-battle-puzzle-2048-queens-of-the-abyss.json](./385140-battle-puzzle-2048-queens-of-the-abyss.json) |
 | Battle Puzzle 2048: Space Girls | 336406 | [336406-battle-puzzle-2048-space-girls.json](./336406-battle-puzzle-2048-space-girls.json) |
 | Battle Puzzle 2048: Wicked Witches | 370801 | [370801-battle-puzzle-2048-wicked-witches.json](./370801-battle-puzzle-2048-wicked-witches.json) |
+| Battle Queen: Saikyou Fighters Retsuden | 278015 | [278015-battle-queen-saikyou-fighters-retsuden.json](./278015-battle-queen-saikyou-fighters-retsuden.json) |
 | Battle Racers | 38161 | [38161-battle-racers.json](./38161-battle-racers.json) |
 | Battle Racing Stars | 138719 | [138719-battle-racing-stars.json](./138719-battle-racing-stars.json) |
 | Battle Rage | 51051 | [51051-battle-rage.json](./51051-battle-rage.json) |
@@ -12291,6 +12292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Star | 105868 | [105868-boxing-star.json](./105868-boxing-star.json) |
 | Boxing Star: Match 3 | 325734 | [325734-boxing-star-match-3.json](./325734-boxing-star-match-3.json) |
 | Boxing Surgery Simulator 2000 | 183515 | [183515-boxing-surgery-simulator-2000.json](./183515-boxing-surgery-simulator-2000.json) |
+| Boxing Wrestle | 277704 | [277704-boxing-wrestle.json](./277704-boxing-wrestle.json) |
 | Boxlife | 36262 | [36262-boxlife.json](./36262-boxlife.json) |
 | BoxLoop | 207542 | [207542-boxloop.json](./207542-boxloop.json) |
 | BoxMaker | 52078 | [52078-boxmaker.json](./52078-boxmaker.json) |
@@ -12674,6 +12676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Blade | 39494 | [39494-brave-blade.json](./39494-brave-blade.json) |
 | Brave Blades | 224075 | [224075-brave-blades.json](./224075-brave-blades.json) |
 | Brave Bow Archer: Princess Rescue Simulator! | 261108 | [261108-brave-bow-archer-princess-rescue-simulator.json](./261108-brave-bow-archer-princess-rescue-simulator.json) |
+| Brave Boy | 277697 | [277697-brave-boy.json](./277697-brave-boy.json) |
 | Brave Brigade | 39176 | [39176-brave-brigade.json](./39176-brave-brigade.json) |
 | Brave Bubble Heart | 247870 | [247870-brave-bubble-heart.json](./247870-brave-bubble-heart.json) |
 | Brave Builder Construct A Climb | 201577 | [201577-brave-builder-construct-a-climb.json](./201577-brave-builder-construct-a-climb.json) |
