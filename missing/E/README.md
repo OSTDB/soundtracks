@@ -2915,6 +2915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires Through the Aeons | 240690 | [240690-empires-through-the-aeons.json](./240690-empires-through-the-aeons.json) |
 | Empires: Dawn of the Modern World | 678 | [678-empires-dawn-of-the-modern-world.json](./678-empires-dawn-of-the-modern-world.json) |
 | Empis | 215869 | [215869-empis.json](./215869-empis.json) |
+| Emplacement | 239804 | [239804-emplacement.json](./239804-emplacement.json) |
 | Employee A | 188994 | [188994-employee-a.json](./188994-employee-a.json) |
 | Employee of the Month | 202550 | [202550-employee-of-the-month.json](./202550-employee-of-the-month.json) |
 | Employee Recycling Center | 36463 | [36463-employee-recycling-center.json](./36463-employee-recycling-center.json) |
@@ -7176,6 +7177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye Contact: Hanako | 105236 | [105236-eye-contact-hanako.json](./105236-eye-contact-hanako.json) |
 | Eye For Blood | 217327 | [217327-eye-for-blood.json](./217327-eye-for-blood.json) |
 | Eye For Eye | 201544 | [201544-eye-for-eye.json](./201544-eye-for-eye.json) |
+| Eye in the Dark | 239827 | [239827-eye-in-the-dark.json](./239827-eye-in-the-dark.json) |
 | Eye in the Sky | 28294 | [28294-eye-in-the-sky.json](./28294-eye-in-the-sky.json) |
 | Eye Juice | 403205 | [403205-eye-juice.json](./403205-eye-juice.json) |
 | Eye Must Jump | 108876 | [108876-eye-must-jump.json](./108876-eye-must-jump.json) |
