@@ -685,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo | 388934 | [388934-echo.json](./388934-echo.json) |
 | Echo | 84104 | [84104-echo.json](./84104-echo.json) |
 | Echo 9 | 410936 | [410936-echo-9.json](./410936-echo-9.json) |
+| Echo Blade | 252308 | [252308-echo-blade.json](./252308-echo-blade.json) |
 | Echo Canyon Band | 417441 | [417441-echo-canyon-band.json](./417441-echo-canyon-band.json) |
 | Echo Chambers | 285508 | [285508-echo-chambers.json](./285508-echo-chambers.json) |
 | Echo Chess | 316998 | [316998-echo-chess.json](./316998-echo-chess.json) |
@@ -7092,6 +7093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Tactics | 71402 | [71402-extreme-tactics.json](./71402-extreme-tactics.json) |
 | Extreme Tag! | 240793 | [240793-extreme-tag.json](./240793-extreme-tag.json) |
 | Extreme Tennis | 23134 | [23134-extreme-tennis.json](./23134-extreme-tennis.json) |
+| Extreme Truck Parking Simulator Game | 252321 | [252321-extreme-truck-parking-simulator-game.json](./252321-extreme-truck-parking-simulator-game.json) |
 | Extreme Trucks Simulator | 129515 | [129515-extreme-trucks-simulator.json](./129515-extreme-trucks-simulator.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
 | Extreme Velocity 3 | 58155 | [58155-extreme-velocity-3.json](./58155-extreme-velocity-3.json) |
