@@ -1351,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Version Fille | 125947 | [125947-version-fille.json](./125947-version-fille.json) |
 | Version Three: Invisible Raid | 258035 | [258035-version-three-invisible-raid.json](./258035-version-three-invisible-raid.json) |
 | Verso | 177803 | [177803-verso.json](./177803-verso.json) |
+| Versus | 258515 | [258515-versus.json](./258515-versus.json) |
 | Versus | 285907 | [285907-versus.json](./285907-versus.json) |
 | Versus | 94053 | [94053-versus.json](./94053-versus.json) |
 | Versus Dev | 289917 | [289917-versus-dev.json](./289917-versus-dev.json) |
