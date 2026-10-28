@@ -3089,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LesLove.Club: Emily and Sarah | 155569 | [155569-leslove-club-emily-and-sarah.json](./155569-leslove-club-emily-and-sarah.json) |
 | Less Hope | 400183 | [400183-less-hope.json](./400183-less-hope.json) |
 | Lessaria: Fantasy Kingdom Sim | 261556 | [261556-lessaria-fantasy-kingdom-sim.json](./261556-lessaria-fantasy-kingdom-sim.json) |
+| Lessen | 232089 | [232089-lessen.json](./232089-lessen.json) |
 | Lesson | 111658 | [111658-lesson.json](./111658-lesson.json) |
 | Lesson Learned | 196115 | [196115-lesson-learned.json](./196115-lesson-learned.json) |
 | Lesson Learned | 303868 | [303868-lesson-learned.json](./303868-lesson-learned.json) |
@@ -3461,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter League | 254445 | [254445-letter-league.json](./254445-letter-league.json) |
 | Letter Lost | 343275 | [343275-letter-lost.json](./343275-letter-lost.json) |
 | Letter Match / Spell N Score / Crosswords | 169790 | [169790-letter-match-spell-n-score-crosswords.json](./169790-letter-match-spell-n-score-crosswords.json) |
+| Letter Pick | 232123 | [232123-letter-pick.json](./232123-letter-pick.json) |
 | Letter Quest Remastered/Three Fourths Home Bundle | 99525 | [99525-letter-quest-remastered-three-fourths-home-bundle.json](./99525-letter-quest-remastered-three-fourths-home-bundle.json) |
 | Letter Quest: Grimm's Journey | 17942 | [17942-letter-quest-grimms-journey.json](./17942-letter-quest-grimms-journey.json) |
 | Letter Rooms | 174217 | [174217-letter-rooms.json](./174217-letter-rooms.json) |
@@ -3480,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter-Setter | 55452 | [55452-letter-setter.json](./55452-letter-setter.json) |
 | Letteral | 242795 | [242795-letteral.json](./242795-letteral.json) |
 | Letterally | 400861 | [400861-letterally.json](./400861-letterally.json) |
+| Letterary | 232122 | [232122-letterary.json](./232122-letterary.json) |
 | Letterbane | 405754 | [405754-letterbane.json](./405754-letterbane.json) |
 | LetterBound | 151185 | [151185-letterbound.json](./151185-letterbound.json) |
 | Letterbox by Powgi | 219522 | [219522-letterbox-by-powgi.json](./219522-letterbox-by-powgi.json) |
