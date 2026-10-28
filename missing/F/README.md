@@ -3948,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Pilot | 12996 | [12996-fighter-pilot.json](./12996-fighter-pilot.json) |
 | Fighter Pilot: HeavyFire | 175699 | [175699-fighter-pilot-heavyfire.json](./175699-fighter-pilot-heavyfire.json) |
 | Fighter Saiyan: Super | 104398 | [104398-fighter-saiyan-super.json](./104398-fighter-saiyan-super.json) |
+| Fighter Street II | 276007 | [276007-fighter-street-ii.json](./276007-fighter-street-ii.json) |
 | Fighter Wing | 73784 | [73784-fighter-wing.json](./73784-fighter-wing.json) |
 | Fighter Within | 4787 | [4787-fighter-within.json](./4787-fighter-within.json) |
 | Fighter X Fighter | 211947 | [211947-fighter-x-fighter.json](./211947-fighter-x-fighter.json) |
@@ -6624,6 +6625,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flicky | 275907 | [275907-flicky.json](./275907-flicky.json) |
 | Flicky | 275909 | [275909-flicky.json](./275909-flicky.json) |
 | Flicky | 275910 | [275910-flicky.json](./275910-flicky.json) |
+| Flicky | 276021 | [276021-flicky.json](./276021-flicky.json) |
+| Flicky | 276023 | [276023-flicky.json](./276023-flicky.json) |
+| Flicky | 276024 | [276024-flicky.json](./276024-flicky.json) |
 | Flicky | 6105 | [6105-flicky.json](./6105-flicky.json) |
 | Flicky Marble | 103374 | [103374-flicky-marble.json](./103374-flicky-marble.json) |
 | Flickyhack | 361646 | [361646-flickyhack.json](./361646-flickyhack.json) |
@@ -7701,6 +7705,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Factory VR | 127020 | [127020-food-factory-vr.json](./127020-food-factory-vr.json) |
 | Food Fantasy | 104253 | [104253-food-fantasy.json](./104253-food-fantasy.json) |
 | Food Fight | 12325 | [12325-food-fight.json](./12325-food-fight.json) |
+| Food Fight | 276346 | [276346-food-fight.json](./276346-food-fight.json) |
+| Food Fight | 276347 | [276347-food-fight.json](./276347-food-fight.json) |
+| Food Fight | 276349 | [276349-food-fight.json](./276349-food-fight.json) |
 | Food Fight | 316255 | [316255-food-fight.json](./316255-food-fight.json) |
 | Food Fight | 357318 | [357318-food-fight.json](./357318-food-fight.json) |
 | Food Fight Fiesta: Multi-Use Cards | 333500 | [333500-food-fight-fiesta-multi-use-cards.json](./333500-food-fight-fiesta-multi-use-cards.json) |
@@ -8012,6 +8019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For a Vast Future: Definitive Edition | 283148 | [283148-for-a-vast-future-definitive-edition.json](./283148-for-a-vast-future-definitive-edition.json) |
 | For a Vast Future: Deluxe Edition | 268557 | [268557-for-a-vast-future-deluxe-edition.json](./268557-for-a-vast-future-deluxe-edition.json) |
 | For a Vast Future: Director's Cut | 295701 | [295701-for-a-vast-future-directors-cut.json](./295701-for-a-vast-future-directors-cut.json) |
+| For a Vast Future: Extended Edition | 275998 | [275998-for-a-vast-future-extended-edition.json](./275998-for-a-vast-future-extended-edition.json) |
 | For a Vast Future: Legendary Edition | 288287 | [288287-for-a-vast-future-legendary-edition.json](./288287-for-a-vast-future-legendary-edition.json) |
 | For a Vast Future: Premium Edition | 283149 | [283149-for-a-vast-future-premium-edition.json](./283149-for-a-vast-future-premium-edition.json) |
 | For a Vast Future: Special Edition | 278643 | [278643-for-a-vast-future-special-edition.json](./278643-for-a-vast-future-special-edition.json) |
