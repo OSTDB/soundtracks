@@ -7596,6 +7596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus Lido | 37724 | [37724-circus-lido.json](./37724-circus-lido.json) |
 | Circus Maximus | 23760 | [23760-circus-maximus.json](./23760-circus-maximus.json) |
 | Circus of Clowns | 342085 | [342085-circus-of-clowns.json](./342085-circus-of-clowns.json) |
+| Circus of TimTim | 278013 | [278013-circus-of-timtim.json](./278013-circus-of-timtim.json) |
 | Circus World | 52507 | [52507-circus-world.json](./52507-circus-world.json) |
 | Circus! | 289735 | [289735-circus.json](./289735-circus.json) |
 | CircusTroupe | 235779 | [235779-circustroupe.json](./235779-circustroupe.json) |
@@ -12582,6 +12583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpus Machina | 375975 | [375975-corpus-machina.json](./375975-corpus-machina.json) |
 | Corpus Pugna | 318545 | [318545-corpus-pugna.json](./318545-corpus-pugna.json) |
 | Corr | 245924 | [245924-corr.json](./245924-corr.json) |
+| Corr Idor | 277685 | [277685-corr-idor.json](./277685-corr-idor.json) |
 | Corral | 67525 | [67525-corral.json](./67525-corral.json) |
 | Correction | 271394 | [271394-correction.json](./271394-correction.json) |
 | Corrida da pesada | 231207 | [231207-corrida-da-pesada.json](./231207-corrida-da-pesada.json) |
