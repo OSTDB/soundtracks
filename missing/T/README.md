@@ -1428,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talvisota: Icy Hell | 9095 | [9095-talvisota-icy-hell.json](./9095-talvisota-icy-hell.json) |
 | Talvisota: Winter War | 286414 | [286414-talvisota-winter-war.json](./286414-talvisota-winter-war.json) |
 | Talystro | 334352 | [334352-talystro.json](./334352-talystro.json) |
+| Tam Duke | 273213 | [273213-tam-duke.json](./273213-tam-duke.json) |
 | Tama & Friends: 3-choume Daibouken | 41332 | [41332-tama-and-friends-3-choume-daibouken.json](./41332-tama-and-friends-3-choume-daibouken.json) |
 | Tama & Friends: 3-match Puzzle | 276327 | [276327-tama-and-friends-3-match-puzzle.json](./276327-tama-and-friends-3-match-puzzle.json) |
 | Tama In-Between | 355580 | [355580-tama-in-between.json](./355580-tama-in-between.json) |
@@ -5140,6 +5141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Armardisp | 260376 | [260376-the-armardisp.json](./260376-the-armardisp.json) |
 | The Armclaw Experiment | 99166 | [99166-the-armclaw-experiment.json](./99166-the-armclaw-experiment.json) |
 | The Armed Shadow | 339220 | [339220-the-armed-shadow.json](./339220-the-armed-shadow.json) |
+| The Army of Death | 273215 | [273215-the-army-of-death.json](./273215-the-army-of-death.json) |
 | The Arrangement | 73242 | [73242-the-arrangement.json](./73242-the-arrangement.json) |
 | The Arrogance of Man | 394447 | [394447-the-arrogance-of-man.json](./394447-the-arrogance-of-man.json) |
 | The Arrogant Kaiju Princess and The Detective Servant | 267060 | [267060-the-arrogant-kaiju-princess-and-the-detective-servant.json](./267060-the-arrogant-kaiju-princess-and-the-detective-servant.json) |
@@ -8103,6 +8105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Boss | 201115 | [201115-the-final-boss.json](./201115-the-final-boss.json) |
 | The Final Breath | 346927 | [346927-the-final-breath.json](./346927-the-final-breath.json) |
 | The Final Conflict | 71745 | [71745-the-final-conflict.json](./71745-the-final-conflict.json) |
+| The Final Confrontation | 273216 | [273216-the-final-confrontation.json](./273216-the-final-confrontation.json) |
 | The Final Countdown | 277318 | [277318-the-final-countdown.json](./277318-the-final-countdown.json) |
 | The Final Cut of Lilith Cunningham | 422135 | [422135-the-final-cut-of-lilith-cunningham.json](./422135-the-final-cut-of-lilith-cunningham.json) |
 | The Final Day of Spring | 183408 | [183408-the-final-day-of-spring.json](./183408-the-final-day-of-spring.json) |
@@ -8240,6 +8243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flames | 176510 | [176510-the-flames.json](./176510-the-flames.json) |
 | The Flames | 200926 | [200926-the-flames.json](./200926-the-flames.json) |
 | The Flames that Follow Us | 177238 | [177238-the-flames-that-follow-us.json](./177238-the-flames-that-follow-us.json) |
+| The Flaming Shipwreck | 273204 | [273204-the-flaming-shipwreck.json](./273204-the-flaming-shipwreck.json) |
 | The Flap! | 89785 | [89785-the-flap.json](./89785-the-flap.json) |
 | The Flash | 100289 | [100289-the-flash.json](./100289-the-flash.json) |
 | The Flash | 387115 | [387115-the-flash.json](./387115-the-flash.json) |
@@ -8568,6 +8572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gardener Simulator: Plant, Grow, Decorate, Build Sim | 283234 | [283234-the-gardener-simulator-plant-grow-decorate-build-sim.json](./283234-the-gardener-simulator-plant-grow-decorate-build-sim.json) |
 | The Gardens Between | 27324 | [27324-the-gardens-between.json](./27324-the-gardens-between.json) |
 | The Gas Station: Graveyard Shift | 379883 | [379883-the-gas-station-graveyard-shift.json](./379883-the-gas-station-graveyard-shift.json) |
+| The Gate | 273217 | [273217-the-gate.json](./273217-the-gate.json) |
 | The Gate | 319411 | [319411-the-gate.json](./319411-the-gate.json) |
 | The Gate | 323315 | [323315-the-gate.json](./323315-the-gate.json) |
 | The Gate | 35727 | [35727-the-gate.json](./35727-the-gate.json) |
@@ -12973,6 +12978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prabbits: Happy Dogfights | 139298 | [139298-the-prabbits-happy-dogfights.json](./139298-the-prabbits-happy-dogfights.json) |
 | The Predecessor | 382584 | [382584-the-predecessor.json](./382584-the-predecessor.json) |
 | The Premiership | 71787 | [71787-the-premiership.json](./71787-the-premiership.json) |
+| The Prequel To Time | 273220 | [273220-the-prequel-to-time.json](./273220-the-prequel-to-time.json) |
 | The Preschoolers: Season 1 | 221085 | [221085-the-preschoolers-season-1.json](./221085-the-preschoolers-season-1.json) |
 | The Preschoolers: Season 1 - Deluxe Edition | 226092 | [226092-the-preschoolers-season-1-deluxe-edition.json](./226092-the-preschoolers-season-1-deluxe-edition.json) |
 | The Preschoolers: Season 1 - Extended Edition | 233006 | [233006-the-preschoolers-season-1-extended-edition.json](./233006-the-preschoolers-season-1-extended-edition.json) |
@@ -19613,6 +19619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timberveil | 382757 | [382757-timberveil.json](./382757-timberveil.json) |
 | Timbre Star | 83147 | [83147-timbre-star.json](./83147-timbre-star.json) |
 | Time | 130947 | [130947-time.json](./130947-time.json) |
+| Time | 273219 | [273219-time.json](./273219-time.json) |
 | Time | 74873 | [74873-time.json](./74873-time.json) |
 | Time Ace | 21545 | [21545-time-ace.json](./21545-time-ace.json) |
 | Time Agent | 156945 | [156945-time-agent.json](./156945-time-agent.json) |
