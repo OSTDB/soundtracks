@@ -2637,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Foods | 82002 | [82002-fat-foods.json](./82002-fat-foods.json) |
 | Fat Fritz 2.0 SE | 155545 | [155545-fat-fritz-2-0-se.json](./155545-fat-fritz-2-0-se.json) |
 | Fat Frumos | 314818 | [314818-fat-frumos.json](./314818-fat-frumos.json) |
+| Fat Goblins | 273495 | [273495-fat-goblins.json](./273495-fat-goblins.json) |
 | Fat Hobo: Hobocop Saves Christmas | 410970 | [410970-fat-hobo-hobocop-saves-christmas.json](./410970-fat-hobo-hobocop-saves-christmas.json) |
 | Fat Kevin | 179494 | [179494-fat-kevin.json](./179494-fat-kevin.json) |
 | Fat Lads | 280132 | [280132-fat-lads.json](./280132-fat-lads.json) |
@@ -10769,6 +10770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Control: Invasion | 394396 | [394396-frontier-control-invasion.json](./394396-frontier-control-invasion.json) |
 | Frontier Days: Founding Pioneers | 85165 | [85165-frontier-days-founding-pioneers.json](./85165-frontier-days-founding-pioneers.json) |
 | Frontier Diver Progenexis | 177342 | [177342-frontier-diver-progenexis.json](./177342-frontier-diver-progenexis.json) |
+| Frontier Ferris For Adventurers | 273496 | [273496-frontier-ferris-for-adventurers.json](./273496-frontier-ferris-for-adventurers.json) |
 | Frontier Force | 345611 | [345611-frontier-force.json](./345611-frontier-force.json) |
 | Frontier Force Vanguard | 337478 | [337478-frontier-force-vanguard.json](./337478-frontier-force-vanguard.json) |
 | Frontier Forge | 413769 | [413769-frontier-forge.json](./413769-frontier-forge.json) |
