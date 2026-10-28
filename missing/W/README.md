@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall of Insanity 2 | 365847 | [365847-wall-of-insanity-2.json](./365847-wall-of-insanity-2.json) |
 | Wall of Taiji | 178248 | [178248-wall-of-taiji.json](./178248-wall-of-taiji.json) |
 | Wall Pipe | 344040 | [344040-wall-pipe.json](./344040-wall-pipe.json) |
+| Wall protection | 256943 | [256943-wall-protection.json](./256943-wall-protection.json) |
 | Wall Shooter | 244864 | [244864-wall-shooter.json](./244864-wall-shooter.json) |
 | Wall Simulator 2017 | 53882 | [53882-wall-simulator-2017.json](./53882-wall-simulator-2017.json) |
 | Wall Street | 261989 | [261989-wall-street.json](./261989-wall-street.json) |
@@ -2410,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WCCW 64 | 256793 | [256793-wccw-64.json](./256793-wccw-64.json) |
 | WCP Word Girlfriend | 259058 | [259058-wcp-word-girlfriend.json](./259058-wcp-word-girlfriend.json) |
 | WCW Diamond Dallas Page | 198955 | [198955-wcw-diamond-dallas-page.json](./198955-wcw-diamond-dallas-page.json) |
+| WCW Feel The Bang | 256936 | [256936-wcw-feel-the-bang.json](./256936-wcw-feel-the-bang.json) |
 | WCW Hollywood Hulk Hogan Power Fighter | 198958 | [198958-wcw-hollywood-hulk-hogan-power-fighter.json](./198958-wcw-hollywood-hulk-hogan-power-fighter.json) |
 | WCW Mayhem | 200415 | [200415-wcw-mayhem.json](./200415-wcw-mayhem.json) |
 | WCW Mayhem | 3633 | [3633-wcw-mayhem.json](./3633-wcw-mayhem.json) |
@@ -8185,6 +8187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF Attitude | 3643 | [3643-wwf-attitude.json](./3643-wwf-attitude.json) |
 | WWF King of the Ring | 265031 | [265031-wwf-king-of-the-ring.json](./265031-wwf-king-of-the-ring.json) |
 | WWF King of the Ring | 48707 | [48707-wwf-king-of-the-ring.json](./48707-wwf-king-of-the-ring.json) |
+| WWF Legends | 256937 | [256937-wwf-legends.json](./256937-wwf-legends.json) |
 | WWF No Mercy | 241491 | [241491-wwf-no-mercy.json](./241491-wwf-no-mercy.json) |
 | WWF No Mercy | 3644 | [3644-wwf-no-mercy.json](./3644-wwf-no-mercy.json) |
 | WWF Rage in the Cage | 5465 | [5465-wwf-rage-in-the-cage.json](./5465-wwf-rage-in-the-cage.json) |
