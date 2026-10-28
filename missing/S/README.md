@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sackboy: A Big Adventure - Astro Bot Costume | 290918 | [290918-sackboy-a-big-adventure-astro-bot-costume.json](./290918-sackboy-a-big-adventure-astro-bot-costume.json) |
 | Sackboy: A Big Adventure - Clank Costume | 327313 | [327313-sackboy-a-big-adventure-clank-costume.json](./327313-sackboy-a-big-adventure-clank-costume.json) |
 | Sackboy: A Big Adventure - Digital Deluxe Edition | 407590 | [407590-sackboy-a-big-adventure-digital-deluxe-edition.json](./407590-sackboy-a-big-adventure-digital-deluxe-edition.json) |
+| Sackboy: A Big Adventure - Emote Pack | 230997 | [230997-sackboy-a-big-adventure-emote-pack.json](./230997-sackboy-a-big-adventure-emote-pack.json) |
 | Sackgasse: The Last Resort | 149527 | [149527-sackgasse-the-last-resort.json](./149527-sackgasse-the-last-resort.json) |
 | Sackman se-X | 82125 | [82125-sackman-se-x.json](./82125-sackman-se-x.json) |
 | Sacra Terra: Angelic Night - Collector's Edition | 25475 | [25475-sacra-terra-angelic-night-collectors-edition.json](./25475-sacra-terra-angelic-night-collectors-edition.json) |
@@ -645,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: Double Pack | 144125 | [144125-saints-row-double-pack.json](./144125-saints-row-double-pack.json) |
 | Saints Row: Drive-By | 77307 | [77307-saints-row-drive-by.json](./77307-saints-row-drive-by.json) |
 | Saints Row: Exclusive Unkut Pack | 400843 | [400843-saints-row-exclusive-unkut-pack.json](./400843-saints-row-exclusive-unkut-pack.json) |
+| Saints Row: Festive Felonies Cosmetic Pack | 231001 | [231001-saints-row-festive-felonies-cosmetic-pack.json](./231001-saints-row-festive-felonies-cosmetic-pack.json) |
 | Saints Row: Front to Back Cosmetic Pack | 307141 | [307141-saints-row-front-to-back-cosmetic-pack.json](./307141-saints-row-front-to-back-cosmetic-pack.json) |
 | Saints Row: Funky Fresh Pack | 400840 | [400840-saints-row-funky-fresh-pack.json](./400840-saints-row-funky-fresh-pack.json) |
 | Saints Row: Gat Out of Hell | 7708 | [7708-saints-row-gat-out-of-hell.json](./7708-saints-row-gat-out-of-hell.json) |
@@ -655,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: Idols Anarchy Pack | 307146 | [307146-saints-row-idols-anarchy-pack.json](./307146-saints-row-idols-anarchy-pack.json) |
 | Saints Row: Industrial Map Pack | 400841 | [400841-saints-row-industrial-map-pack.json](./400841-saints-row-industrial-map-pack.json) |
 | Saints Row: Los Panteros American Muscle Bundle | 307148 | [307148-saints-row-los-panteros-american-muscle-bundle.json](./307148-saints-row-los-panteros-american-muscle-bundle.json) |
+| Saints Row: Merry Saintsmas Cosmetic Pack | 230996 | [230996-saints-row-merry-saintsmas-cosmetic-pack.json](./230996-saints-row-merry-saintsmas-cosmetic-pack.json) |
 | Saints Row: Platinum Edition | 169194 | [169194-saints-row-platinum-edition.json](./169194-saints-row-platinum-edition.json) |
 | Saints Row: Saints Criminal Customs | 307149 | [307149-saints-row-saints-criminal-customs.json](./307149-saints-row-saints-criminal-customs.json) |
 | Saints Row: SteelSeries Cosmetic Pack | 307151 | [307151-saints-row-steelseries-cosmetic-pack.json](./307151-saints-row-steelseries-cosmetic-pack.json) |
@@ -24342,6 +24345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter EX2 Plus | 44965 | [44965-street-fighter-ex2-plus.json](./44965-street-fighter-ex2-plus.json) |
 | Street Fighter II | 198927 | [198927-street-fighter-ii.json](./198927-street-fighter-ii.json) |
 | Street Fighter II | 198928 | [198928-street-fighter-ii.json](./198928-street-fighter-ii.json) |
+| Street Fighter II | 231006 | [231006-street-fighter-ii.json](./231006-street-fighter-ii.json) |
 | Street Fighter II | 276082 | [276082-street-fighter-ii.json](./276082-street-fighter-ii.json) |
 | Street Fighter II | 321621 | [321621-street-fighter-ii.json](./321621-street-fighter-ii.json) |
 | Street Fighter II | 321622 | [321622-street-fighter-ii.json](./321622-street-fighter-ii.json) |
@@ -28246,6 +28250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pitfall | 48233 | [48233-super-pitfall.json](./48233-super-pitfall.json) |
 | Super Pitfall II | 285408 | [285408-super-pitfall-ii.json](./285408-super-pitfall-ii.json) |
 | Super Pitfall: 30th Anniversary Edition | 48864 | [48864-super-pitfall-30th-anniversary-edition.json](./48864-super-pitfall-30th-anniversary-edition.json) |
+| Super Pixel Bundle | 231030 | [231030-super-pixel-bundle.json](./231030-super-pixel-bundle.json) |
 | Super Pixel Kid | 221706 | [221706-super-pixel-kid.json](./221706-super-pixel-kid.json) |
 | Super Pixel Maker | 181758 | [181758-super-pixel-maker.json](./181758-super-pixel-maker.json) |
 | Super Pixel Merge Balls | 293502 | [293502-super-pixel-merge-balls.json](./293502-super-pixel-merge-balls.json) |
@@ -28310,6 +28315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Galaxy - Boost Ball DLC Pack | 163566 | [163566-super-puzzle-galaxy-boost-ball-dlc-pack.json](./163566-super-puzzle-galaxy-boost-ball-dlc-pack.json) |
 | Super Puzzle Galaxy: Warp Ball DLC Pack | 163567 | [163567-super-puzzle-galaxy-warp-ball-dlc-pack.json](./163567-super-puzzle-galaxy-warp-ball-dlc-pack.json) |
 | Super Puzzle Pack | 139238 | [139238-super-puzzle-pack.json](./139238-super-puzzle-pack.json) |
+| Super Puzzle Pack 2 | 231029 | [231029-super-puzzle-pack-2.json](./231029-super-puzzle-pack-2.json) |
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Puzzle Platformer Deluxe | 20997 | [20997-super-puzzle-platformer-deluxe.json](./20997-super-puzzle-platformer-deluxe.json) |
 | Super Puzzle Sisters | 30737 | [30737-super-puzzle-sisters.json](./30737-super-puzzle-sisters.json) |
@@ -29477,6 +29483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supremacy: The Metaverse Game | 196789 | [196789-supremacy-the-metaverse-game.json](./196789-supremacy-the-metaverse-game.json) |
 | Supreme | 80546 | [80546-supreme.json](./80546-supreme.json) |
 | Supreme Candy: Oudou ni wa Oudoutaru Riyuu ga Arun Desu! | 137107 | [137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json](./137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json) |
+| Supreme Car Race on Highway Simulator: Ultimate Driving Games Poly Experience | 231038 | [231038-supreme-car-race-on-highway-simulator-ultimate-driving-games-poly-experience.json](./231038-supreme-car-race-on-highway-simulator-ultimate-driving-games-poly-experience.json) |
 | Supreme Challenge | 70071 | [70071-supreme-challenge.json](./70071-supreme-challenge.json) |
 | Supreme Commander 2 | 7201 | [7201-supreme-commander-2.json](./7201-supreme-commander-2.json) |
 | Supreme Commander 2: Infinite War Battle Pack | 155169 | [155169-supreme-commander-2-infinite-war-battle-pack.json](./155169-supreme-commander-2-infinite-war-battle-pack.json) |
