@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda no Densetsu: 4-tsu no Tsurugi + | 298870 | [298870-zelda-no-densetsu-4-tsu-no-tsurugi.json](./298870-zelda-no-densetsu-4-tsu-no-tsurugi.json) |
 | Zelda Online | 323863 | [323863-zelda-online.json](./323863-zelda-online.json) |
 | Zelda: Forest of the Lost Soul | 315028 | [315028-zelda-forest-of-the-lost-soul.json](./315028-zelda-forest-of-the-lost-soul.json) |
+| Zelda: Interconnected Strongholds | 249397 | [249397-zelda-interconnected-strongholds.json](./249397-zelda-interconnected-strongholds.json) |
 | Zelda: Meadow of Shadows | 248290 | [248290-zelda-meadow-of-shadows.json](./248290-zelda-meadow-of-shadows.json) |
 | Zelda: The Wand of Gamelon | 8533 | [8533-zelda-the-wand-of-gamelon.json](./8533-zelda-the-wand-of-gamelon.json) |
 | Zelda's Adventure | 248106 | [248106-zeldas-adventure.json](./248106-zeldas-adventure.json) |
@@ -1627,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Space Shooter II | 228119 | [228119-zombie-space-shooter-ii.json](./228119-zombie-space-shooter-ii.json) |
 | Zombie Spree: The Dawn | 211957 | [211957-zombie-spree-the-dawn.json](./211957-zombie-spree-the-dawn.json) |
 | Zombie Squad | 235460 | [235460-zombie-squad.json](./235460-zombie-squad.json) |
+| Zombie Squad | 251145 | [251145-zombie-squad.json](./251145-zombie-squad.json) |
 | Zombie Squash | 25060 | [25060-zombie-squash.json](./25060-zombie-squash.json) |
 | Zombie State | 299371 | [299371-zombie-state.json](./299371-zombie-state.json) |
 | Zombie Strike | 152796 | [152796-zombie-strike.json](./152796-zombie-strike.json) |
@@ -1943,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Orbs: Safari | 401726 | [401726-zoo-orbs-safari.json](./401726-zoo-orbs-safari.json) |
 | Zoo Packs | 129568 | [129568-zoo-packs.json](./129568-zoo-packs.json) |
 | Zoo Park | 9293 | [9293-zoo-park.json](./9293-zoo-park.json) |
+| Zoo Park Story | 249386 | [249386-zoo-park-story.json](./249386-zoo-park-story.json) |
 | Zoo Protocol | 411359 | [411359-zoo-protocol.json](./411359-zoo-protocol.json) |
 | Zoo Puzzle | 43236 | [43236-zoo-puzzle.json](./43236-zoo-puzzle.json) |
 | Zoo Quest | 20277 | [20277-zoo-quest.json](./20277-zoo-quest.json) |
