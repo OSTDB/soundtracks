@@ -3897,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside Her bedroom | 192070 | [192070-inside-her-bedroom.json](./192070-inside-her-bedroom.json) |
 | Inside Her Bedroom | 391827 | [391827-inside-her-bedroom.json](./391827-inside-her-bedroom.json) |
 | Inside Intruder | 329564 | [329564-inside-intruder.json](./329564-inside-intruder.json) |
+| Inside Job | 258050 | [258050-inside-job.json](./258050-inside-job.json) |
 | Inside Kitty's Outside Adventure | 97444 | [97444-inside-kittys-outside-adventure.json](./97444-inside-kittys-outside-adventure.json) |
 | Inside Lacrosse's CL2010 | 91420 | [91420-inside-lacrosses-cl2010.json](./91420-inside-lacrosses-cl2010.json) |
 | Inside Light | 172376 | [172376-inside-light.json](./172376-inside-light.json) |
