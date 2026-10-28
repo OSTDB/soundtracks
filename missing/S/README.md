@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Mau Otome no Rondo | 339138 | [339138-sakura-mau-otome-no-rondo.json](./339138-sakura-mau-otome-no-rondo.json) |
 | Sakura Mau Otome no Rondo | 60374 | [60374-sakura-mau-otome-no-rondo.json](./60374-sakura-mau-otome-no-rondo.json) |
 | Sakura Mau Otome no Rondo: Anata to Miru Fuyu Sakura | 60375 | [60375-sakura-mau-otome-no-rondo-anata-to-miru-fuyu-sakura.json](./60375-sakura-mau-otome-no-rondo-anata-to-miru-fuyu-sakura.json) |
+| Sakura Mirror | 235413 | [235413-sakura-mirror.json](./235413-sakura-mirror.json) |
 | Sakura MMO 2 | 113123 | [113123-sakura-mmo-2.json](./113123-sakura-mmo-2.json) |
 | Sakura Momoko Gekijou: Kojikoji | 96493 | [96493-sakura-momoko-gekijou-kojikoji.json](./96493-sakura-momoko-gekijou-kojikoji.json) |
 | Sakura Moonlight | 135892 | [135892-sakura-moonlight.json](./135892-sakura-moonlight.json) |
@@ -2709,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scintillatron 4096 | 118701 | [118701-scintillatron-4096.json](./118701-scintillatron-4096.json) |
 | Scion | 25885 | [25885-scion.json](./25885-scion.json) |
 | Scions of Fate | 72656 | [72656-scions-of-fate.json](./72656-scions-of-fate.json) |
+| Scions: Battle Eternal | 235433 | [235433-scions-battle-eternal.json](./235433-scions-battle-eternal.json) |
 | Scirocco Thugs | 336515 | [336515-scirocco-thugs.json](./336515-scirocco-thugs.json) |
 | Sciron | 178849 | [178849-sciron.json](./178849-sciron.json) |
 | Scission | 384144 | [384144-scission.json](./384144-scission.json) |
@@ -6498,6 +6500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Mart | 402445 | [402445-shark-mart.json](./402445-shark-mart.json) |
 | Shark or Die | 61105 | [61105-shark-or-die.json](./61105-shark-or-die.json) |
 | Shark Pinball | 165614 | [165614-shark-pinball.json](./165614-shark-pinball.json) |
+| Shark Rain | 235427 | [235427-shark-rain.json](./235427-shark-rain.json) |
 | Shark Riders | 150137 | [150137-shark-riders.json](./150137-shark-riders.json) |
 | Shark Siege | 296460 | [296460-shark-siege.json](./296460-shark-siege.json) |
 | Shark Simulator | 68769 | [68769-shark-simulator.json](./68769-shark-simulator.json) |
@@ -14578,6 +14581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Someplace Else | 136387 | [136387-someplace-else.json](./136387-someplace-else.json) |
 | Somer Assault | 44341 | [44341-somer-assault.json](./44341-somer-assault.json) |
 | Something a Little Super | 352844 | [352844-something-a-little-super.json](./352844-something-a-little-super.json) |
+| Something Amazing Room | 235411 | [235411-something-amazing-room.json](./235411-something-amazing-room.json) |
 | Something Ate My Alien | 116749 | [116749-something-ate-my-alien.json](./116749-something-ate-my-alien.json) |
 | Something Bad is on the Moon | 309207 | [309207-something-bad-is-on-the-moon.json](./309207-something-bad-is-on-the-moon.json) |
 | Something Dark Beyond The Light | 353871 | [353871-something-dark-beyond-the-light.json](./353871-something-dark-beyond-the-light.json) |
@@ -16524,6 +16528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space 1889 | 73866 | [73866-space-1889.json](./73866-space-1889.json) |
 | Space 2: Breakthrough Gaming Arcade | 145669 | [145669-space-2-breakthrough-gaming-arcade.json](./145669-space-2-breakthrough-gaming-arcade.json) |
 | Space Abyss | 159642 | [159642-space-abyss.json](./159642-space-abyss.json) |
+| Space Academy | 235394 | [235394-space-academy.json](./235394-space-academy.json) |
 | Space Accident | 191000 | [191000-space-accident.json](./191000-space-accident.json) |
 | Space Accident VR | 277766 | [277766-space-accident-vr.json](./277766-space-accident-vr.json) |
 | Space Ace | 100161 | [100161-space-ace.json](./100161-space-ace.json) |
@@ -18481,6 +18486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellslinger | 264623 | [264623-spellslinger.json](./264623-spellslinger.json) |
 | Spellslinger Towns | 295335 | [295335-spellslinger-towns.json](./295335-spellslinger-towns.json) |
 | Spellsouls - Duel of Legends | 26908 | [26908-spellsouls-duel-of-legends.json](./26908-spellsouls-duel-of-legends.json) |
+| Spellsphere | 235435 | [235435-spellsphere.json](./235435-spellsphere.json) |
 | Spellstone | 26794 | [26794-spellstone.json](./26794-spellstone.json) |
 | Spellstrife | 287043 | [287043-spellstrife.json](./287043-spellstrife.json) |
 | Spellsword | 19905 | [19905-spellsword.json](./19905-spellsword.json) |
@@ -24513,6 +24519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Warriors Online | 34067 | [34067-street-warriors-online.json](./34067-street-warriors-online.json) |
 | Street Wise: A Teenager's Story | 295760 | [295760-street-wise-a-teenagers-story.json](./295760-street-wise-a-teenagers-story.json) |
 | Street-food Tycoon Chef Fever: World Cook-ing Star | 248067 | [248067-street-food-tycoon-chef-fever-world-cook-ing-star.json](./248067-street-food-tycoon-chef-fever-world-cook-ing-star.json) |
+| Street's Disciple | 235414 | [235414-streets-disciple.json](./235414-streets-disciple.json) |
 | Streetball 2: On Fire | 256168 | [256168-streetball-2-on-fire.json](./256168-streetball-2-on-fire.json) |
 | Streetball Allstar: Showdown | 244092 | [244092-streetball-allstar-showdown.json](./244092-streetball-allstar-showdown.json) |
 | Streetball the Mecca | 244082 | [244082-streetball-the-mecca.json](./244082-streetball-the-mecca.json) |
@@ -24572,6 +24579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
 | Stress testing | 267301 | [267301-stress-testing.json](./267301-stress-testing.json) |
 | Stress, Out! | 258716 | [258716-stress-out.json](./258716-stress-out.json) |
+| Stressed Out | 235421 | [235421-stressed-out.json](./235421-stressed-out.json) |
 | StressOut | 128926 | [128926-stressout.json](./128926-stressout.json) |
 | StressRoom | 301256 | [301256-stressroom.json](./301256-stressroom.json) |
 | Stretch Arcade | 146018 | [146018-stretch-arcade.json](./146018-stretch-arcade.json) |
@@ -25641,6 +25649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Style: Complete Edition | 141892 | [141892-sugar-style-complete-edition.json](./141892-sugar-style-complete-edition.json) |
 | Sugar Sugar Rune: Heart Ga Ippai! Moegi Gakuen | 49811 | [49811-sugar-sugar-rune-heart-ga-ippai-moegi-gakuen.json](./49811-sugar-sugar-rune-heart-ga-ippai-moegi-gakuen.json) |
 | Sugar Sweet Temptation | 246774 | [246774-sugar-sweet-temptation.json](./246774-sugar-sweet-temptation.json) |
+| Sugar Tanks | 235434 | [235434-sugar-tanks.json](./235434-sugar-tanks.json) |
 | Sugar Tanks 2 | 290966 | [290966-sugar-tanks-2.json](./290966-sugar-tanks-2.json) |
 | Sugar Tanks Arena | 291506 | [291506-sugar-tanks-arena.json](./291506-sugar-tanks-arena.json) |
 | Sugar-Coated | 221038 | [221038-sugar-coated.json](./221038-sugar-coated.json) |
@@ -30187,6 +30196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarm Fortress | 294372 | [294372-swarm-fortress.json](./294372-swarm-fortress.json) |
 | Swarm Grinder | 223371 | [223371-swarm-grinder.json](./223371-swarm-grinder.json) |
 | Swarm Harvest | 417418 | [417418-swarm-harvest.json](./417418-swarm-harvest.json) |
+| Swarm Horror | 235416 | [235416-swarm-horror.json](./235416-swarm-horror.json) |
 | Swarm Hunter | 345557 | [345557-swarm-hunter.json](./345557-swarm-hunter.json) |
 | Swarm Me | 374722 | [374722-swarm-me.json](./374722-swarm-me.json) |
 | Swarm Queen | 68837 | [68837-swarm-queen.json](./68837-swarm-queen.json) |
