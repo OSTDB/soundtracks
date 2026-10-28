@@ -2302,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taste of War | 232929 | [232929-taste-of-war.json](./232929-taste-of-war.json) |
 | Tastee Lethal Tactics | 18312 | [18312-tastee-lethal-tactics.json](./18312-tastee-lethal-tactics.json) |
 | TasteMaker | 143630 | [143630-tastemaker.json](./143630-tastemaker.json) |
+| Tastes Like Coffee | 262147 | [262147-tastes-like-coffee.json](./262147-tastes-like-coffee.json) |
 | Tasty Arena | 151109 | [151109-tasty-arena.json](./151109-tasty-arena.json) |
 | Tasty Defense | 236246 | [236246-tasty-defense.json](./236246-tasty-defense.json) |
 | Tasty Jigsaw Happy Hour 2 | 157086 | [157086-tasty-jigsaw-happy-hour-2.json](./157086-tasty-jigsaw-happy-hour-2.json) |
@@ -2643,6 +2644,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Principal: A Racing Manager | 396011 | [396011-team-principal-a-racing-manager.json](./396011-team-principal-a-racing-manager.json) |
 | Team Racing League | 32141 | [32141-team-racing-league.json](./32141-team-racing-league.json) |
 | Team Rise | 258219 | [258219-team-rise.json](./258219-team-rise.json) |
+| Team Rocket 2: Looks Like We're Blasting Off Again! | 262162 | [262162-team-rocket-2-looks-like-were-blasting-off-again.json](./262162-team-rocket-2-looks-like-were-blasting-off-again.json) |
+| Team Rocket: Blasting Off at the Speed of Mapping | 262161 | [262161-team-rocket-blasting-off-at-the-speed-of-mapping.json](./262161-team-rocket-blasting-off-at-the-speed-of-mapping.json) |
 | Team Six | 255240 | [255240-team-six.json](./255240-team-six.json) |
 | Team Slay-Bells | 279727 | [279727-team-slay-bells.json](./279727-team-slay-bells.json) |
 | Team Sonic Fighters | 333675 | [333675-team-sonic-fighters.json](./333675-team-sonic-fighters.json) |
@@ -4193,6 +4196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tether | 343598 | [343598-tether.json](./343598-tether.json) |
 | Tethered | 25336 | [25336-tethered.json](./25336-tethered.json) |
 | Tethered: Deluxe Edition | 53715 | [53715-tethered-deluxe-edition.json](./53715-tethered-deluxe-edition.json) |
+| Tetherlure | 262143 | [262143-tetherlure.json](./262143-tetherlure.json) |
 | Tethernum | 60407 | [60407-tethernum.json](./60407-tethernum.json) |
 | Tetjis | 361756 | [361756-tetjis.json](./361756-tetjis.json) |
 | Tetnis | 93522 | [93522-tetnis.json](./93522-tetnis.json) |
@@ -6259,6 +6263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Children of The Woods: Lost Tape | 285891 | [285891-the-children-of-the-woods-lost-tape.json](./285891-the-children-of-the-woods-lost-tape.json) |
 | The Children's Friend | 236731 | [236731-the-childrens-friend.json](./236731-the-childrens-friend.json) |
 | The Chilling Moment You Realize It: Creepy Meaning Psychological Test | 410366 | [410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json](./410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json) |
+| The Chimba's Adventure | 262144 | [262144-the-chimbas-adventure.json](./262144-the-chimbas-adventure.json) |
 | The Chinese Room | 26699 | [26699-the-chinese-room.json](./26699-the-chinese-room.json) |
 | The Chipmunks | 217948 | [217948-the-chipmunks.json](./217948-the-chipmunks.json) |
 | The Chiral Night: Rhythm Carnival | 230197 | [230197-the-chiral-night-rhythm-carnival.json](./230197-the-chiral-night-rhythm-carnival.json) |
@@ -13559,6 +13564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Risen Survival | 236787 | [236787-the-risen-survival.json](./236787-the-risen-survival.json) |
 | The RisenDead : VR | 102897 | [102897-the-risendead-vr.json](./102897-the-risendead-vr.json) |
 | The Risers | 101336 | [101336-the-risers.json](./101336-the-risers.json) |
+| The Rising | 262542 | [262542-the-rising.json](./262542-the-rising.json) |
 | The Rising | 284907 | [284907-the-rising.json](./284907-the-rising.json) |
 | The Rising of the Follower | 181700 | [181700-the-rising-of-the-follower.json](./181700-the-rising-of-the-follower.json) |
 | The Rising of the Rose Ocelot | 82000 | [82000-the-rising-of-the-rose-ocelot.json](./82000-the-rising-of-the-rose-ocelot.json) |
@@ -15972,6 +15978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vagrant | 28738 | [28738-the-vagrant.json](./28738-the-vagrant.json) |
 | The Valiant: Coat of Arms collection | 257533 | [257533-the-valiant-coat-of-arms-collection.json](./257533-the-valiant-coat-of-arms-collection.json) |
 | The Valley | 197584 | [197584-the-valley.json](./197584-the-valley.json) |
+| The Valley | 262521 | [262521-the-valley.json](./262521-the-valley.json) |
 | The Valley | 292068 | [292068-the-valley.json](./292068-the-valley.json) |
 | The Valley | 94585 | [94585-the-valley.json](./94585-the-valley.json) |
 | The Valley Beyond | 373132 | [373132-the-valley-beyond.json](./373132-the-valley-beyond.json) |
@@ -16376,6 +16383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whispering Woods | 335361 | [335361-the-whispering-woods.json](./335361-the-whispering-woods.json) |
 | The Whistle | 270168 | [270168-the-whistle.json](./270168-the-whistle.json) |
 | The Whistle | 342837 | [342837-the-whistle.json](./342837-the-whistle.json) |
+| The White Barrows | 262524 | [262524-the-white-barrows.json](./262524-the-white-barrows.json) |
 | The White Birch | 63761 | [63761-the-white-birch.json](./63761-the-white-birch.json) |
 | The White Box | 331760 | [331760-the-white-box.json](./331760-the-white-box.json) |
 | The White Butcher | 122799 | [122799-the-white-butcher.json](./122799-the-white-butcher.json) |
@@ -17965,6 +17973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thy Flesh | 232837 | [232837-thy-flesh.json](./232837-thy-flesh.json) |
 | Thy Flesh Consumed | 396452 | [396452-thy-flesh-consumed.json](./396452-thy-flesh-consumed.json) |
 | Thy Flesh Turned into a Draft Excluder | 140430 | [140430-thy-flesh-turned-into-a-draft-excluder.json](./140430-thy-flesh-turned-into-a-draft-excluder.json) |
+| Thy Flesh Vored | 262543 | [262543-thy-flesh-vored.json](./262543-thy-flesh-vored.json) |
 | Thy Knights of Climbalot | 109675 | [109675-thy-knights-of-climbalot.json](./109675-thy-knights-of-climbalot.json) |
 | Thy Sword | 210447 | [210447-thy-sword.json](./210447-thy-sword.json) |
 | Thy Sword | 68320 | [68320-thy-sword.json](./68320-thy-sword.json) |
@@ -20560,6 +20569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan 2 | 262259 | [262259-titan-2.json](./262259-titan-2.json) |
 | Titan A.E. | 198944 | [198944-titan-a-e.json](./198944-titan-a-e.json) |
 | Titan A.E. | 67820 | [67820-titan-a-e.json](./67820-titan-a-e.json) |
+| Titan Arum | 262512 | [262512-titan-arum.json](./262512-titan-arum.json) |
 | Titan Attack: Wall Defense FPS | 175716 | [175716-titan-attack-wall-defense-fps.json](./175716-titan-attack-wall-defense-fps.json) |
 | Titan Attacks! | 11460 | [11460-titan-attacks.json](./11460-titan-attacks.json) |
 | Titan Chaser | 132513 | [132513-titan-chaser.json](./132513-titan-chaser.json) |
@@ -25724,6 +25734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transmission: Shortwave | 377208 | [377208-transmission-shortwave.json](./377208-transmission-shortwave.json) |
 | Transmissions | 213412 | [213412-transmissions.json](./213412-transmissions.json) |
 | Transmissions: Element 120 | 35389 | [35389-transmissions-element-120.json](./35389-transmissions-element-120.json) |
+| Transmorpher | 262510 | [262510-transmorpher.json](./262510-transmorpher.json) |
 | Transmorpher 3 | 101937 | [101937-transmorpher-3.json](./101937-transmorpher-3.json) |
 | Transmute Syndrome | 311670 | [311670-transmute-syndrome.json](./311670-transmute-syndrome.json) |
 | Transmute! | 120283 | [120283-transmute.json](./120283-transmute.json) |
@@ -26074,6 +26085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tray Racers! | 204540 | [204540-tray-racers.json](./204540-tray-racers.json) |
 | Traysia | 397716 | [397716-traysia.json](./397716-traysia.json) |
 | Traysia | 46259 | [46259-traysia.json](./46259-traysia.json) |
+| TRAZ | 262525 | [262525-traz.json](./262525-traz.json) |
 | Trazz | 173185 | [173185-trazz.json](./173185-trazz.json) |
 | Treacherous Journeys | 176207 | [176207-treacherous-journeys.json](./176207-treacherous-journeys.json) |
 | Treacherous Trials | 360456 | [360456-treacherous-trials.json](./360456-treacherous-trials.json) |
