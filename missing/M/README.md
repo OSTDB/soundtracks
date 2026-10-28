@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Made For | 343241 | [343241-made-for.json](./343241-made-for.json) |
 | Made in Abyss: Binary Star Falling into Darkness | 146711 | [146711-made-in-abyss-binary-star-falling-into-darkness.json](./146711-made-in-abyss-binary-star-falling-into-darkness.json) |
 | Made in Abyss: Binary Star Falling into Darkness - Collector's Edition | 150144 | [150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json](./150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json) |
+| Made in Hell | 259683 | [259683-made-in-hell.json](./259683-made-in-hell.json) |
 | Made in Lucifer City | 370012 | [370012-made-in-lucifer-city.json](./370012-made-in-lucifer-city.json) |
 | Made in Melostead | 270092 | [270092-made-in-melostead.json](./270092-made-in-melostead.json) |
 | Made in Ohio | 236880 | [236880-made-in-ohio.json](./236880-made-in-ohio.json) |
@@ -1374,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Stick Girl Miracle Kurun Survival! | 204253 | [204253-magical-stick-girl-miracle-kurun-survival.json](./204253-magical-stick-girl-miracle-kurun-survival.json) |
 | Magical Stock Princess | 157066 | [157066-magical-stock-princess.json](./157066-magical-stock-princess.json) |
 | Magical Strings | 157719 | [157719-magical-strings.json](./157719-magical-strings.json) |
+| Magical Swirl | 259693 | [259693-magical-swirl.json](./259693-magical-swirl.json) |
 | Magical Taluluto-kun | 180301 | [180301-magical-taluluto-kun.json](./180301-magical-taluluto-kun.json) |
 | Magical Taluluto-kun 2: Magical Adventure | 48432 | [48432-magical-taluluto-kun-2-magical-adventure.json](./48432-magical-taluluto-kun-2-magical-adventure.json) |
 | Magical Taluluto-kun 2: Raiba Zone Panic!! | 125846 | [125846-magical-taluluto-kun-2-raiba-zone-panic.json](./125846-magical-taluluto-kun-2-raiba-zone-panic.json) |
@@ -5238,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maybe Immortal | 190369 | [190369-maybe-immortal.json](./190369-maybe-immortal.json) |
 | Maybe It Meant Something | 406560 | [406560-maybe-it-meant-something.json](./406560-maybe-it-meant-something.json) |
 | Maybe Tomorrow | 238740 | [238740-maybe-tomorrow.json](./238740-maybe-tomorrow.json) |
+| Maybe Valentine's Day Isn't The Worst | 259378 | [259378-maybe-valentines-day-isnt-the-worst.json](./259378-maybe-valentines-day-isnt-the-worst.json) |
 | Maybe: Interactive Stories | 139886 | [139886-maybe-interactive-stories.json](./139886-maybe-interactive-stories.json) |
 | Maybe: Interactive Stories - A Bite of You | 226066 | [226066-maybe-interactive-stories-a-bite-of-you.json](./226066-maybe-interactive-stories-a-bite-of-you.json) |
 | Maybe: Interactive Stories - A Good Day to Be a Dog | 226061 | [226061-maybe-interactive-stories-a-good-day-to-be-a-dog.json](./226061-maybe-interactive-stories-a-good-day-to-be-a-dog.json) |
@@ -16888,6 +16891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Inc | 232906 | [232906-music-inc.json](./232906-music-inc.json) |
 | Music Intro Pro 68K | 265972 | [265972-music-intro-pro-68k.json](./265972-music-intro-pro-68k.json) |
 | Music Maker | 100265 | [100265-music-maker.json](./100265-music-maker.json) |
+| Music Man 2: New land | 259707 | [259707-music-man-2-new-land.json](./259707-music-man-2-new-land.json) |
 | Music Man 3: Last Dance | 295654 | [295654-music-man-3-last-dance.json](./295654-music-man-3-last-dance.json) |
 | Music Maniaz | 425442 | [425442-music-maniaz.json](./425442-music-maniaz.json) |
 | Music Master Chopin | 62679 | [62679-music-master-chopin.json](./62679-music-master-chopin.json) |
