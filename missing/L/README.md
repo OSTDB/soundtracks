@@ -8379,6 +8379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminesce | 159302 | [159302-luminesce.json](./159302-luminesce.json) |
 | Luminescence | 343594 | [343594-luminescence.json](./343594-luminescence.json) |
 | Luminescent | 218084 | [218084-luminescent.json](./218084-luminescent.json) |
+| Luminesweeper | 246569 | [246569-luminesweeper.json](./246569-luminesweeper.json) |
 | Luminex Quartet | 384502 | [384502-luminex-quartet.json](./384502-luminex-quartet.json) |
 | Luminids | 381925 | [381925-luminids.json](./381925-luminids.json) |
 | Luminis: Heal Them All | 270133 | [270133-luminis-heal-them-all.json](./270133-luminis-heal-them-all.json) |
