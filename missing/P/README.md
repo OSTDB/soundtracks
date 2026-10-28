@@ -2081,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parket Evolution | 213780 | [213780-parket-evolution.json](./213780-parket-evolution.json) |
 | Parking 3D | 119624 | [119624-parking-3d.json](./119624-parking-3d.json) |
 | Parking 3D - Car Parking | 102206 | [102206-parking-3d-car-parking.json](./102206-parking-3d-car-parking.json) |
+| Parking Adventure HD | 232611 | [232611-parking-adventure-hd.json](./232611-parking-adventure-hd.json) |
 | Parking Attendant | 151186 | [151186-parking-attendant.json](./151186-parking-attendant.json) |
 | Parking Attendant Simulator | 326379 | [326379-parking-attendant-simulator.json](./326379-parking-attendant-simulator.json) |
 | Parking Car | 156694 | [156694-parking-car.json](./156694-parking-car.json) |
@@ -2636,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Wrath of the Righteous - Mythic Edition | 166284 | [166284-pathfinder-wrath-of-the-righteous-mythic-edition.json](./166284-pathfinder-wrath-of-the-righteous-mythic-edition.json) |
 | Pathfinder: Wrath of the Righteous - Paint of War | 193127 | [193127-pathfinder-wrath-of-the-righteous-paint-of-war.json](./193127-pathfinder-wrath-of-the-righteous-paint-of-war.json) |
 | Pathfinder: Wrath of the Righteous - Season Pass 2 | 308827 | [308827-pathfinder-wrath-of-the-righteous-season-pass-2.json](./308827-pathfinder-wrath-of-the-righteous-season-pass-2.json) |
+| Pathfinder: Wrath of the Righteous - The Last Sarkorians | 232643 | [232643-pathfinder-wrath-of-the-righteous-the-last-sarkorians.json](./232643-pathfinder-wrath-of-the-righteous-the-last-sarkorians.json) |
 | Pathfinder: Wrath of the Righteous - The Lord of Nothing | 269217 | [269217-pathfinder-wrath-of-the-righteous-the-lord-of-nothing.json](./269217-pathfinder-wrath-of-the-righteous-the-lord-of-nothing.json) |
 | Pathfinder: Wrath of the Righteous - The Treasure of the Midnight Isles | 215691 | [215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json](./215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json) |
 | Pathfinder: Wrath of the Righteous - Through the Ashes | 198351 | [198351-pathfinder-wrath-of-the-righteous-through-the-ashes.json](./198351-pathfinder-wrath-of-the-righteous-through-the-ashes.json) |
@@ -9990,6 +9992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Theta Emerald EX | 194828 | [194828-pokemon-theta-emerald-ex.json](./194828-pokemon-theta-emerald-ex.json) |
 | Pokémon Theta Emerald Renev | 209550 | [209550-pokemon-theta-emerald-renev.json](./209550-pokemon-theta-emerald-renev.json) |
 | Pokémon This Gym of Mine | 227653 | [227653-pokemon-this-gym-of-mine.json](./227653-pokemon-this-gym-of-mine.json) |
+| Pokémon Throwback | 232636 | [232636-pokemon-throwback.json](./232636-pokemon-throwback.json) |
 | Pokemon Topaz | 383058 | [383058-pokemon-topaz.json](./383058-pokemon-topaz.json) |
 | Pokémon Topaz | 225711 | [225711-pokemon-topaz.json](./225711-pokemon-topaz.json) |
 | Pokémon Tourmaline | 378601 | [378601-pokemon-tourmaline.json](./378601-pokemon-tourmaline.json) |
