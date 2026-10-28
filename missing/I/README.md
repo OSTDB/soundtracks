@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icycle | 395111 | [395111-icycle.json](./395111-icycle.json) |
 | iD | 172035 | [172035-id.json](./172035-id.json) |
 | id Action Pack Vol. 3 | 222855 | [222855-id-action-pack-vol-3.json](./222855-id-action-pack-vol-3.json) |
+| Id Action Pack Vol. 4 | 276330 | [276330-id-action-pack-vol-4.json](./276330-id-action-pack-vol-4.json) |
 | Id Mindstate Machine | 335059 | [335059-id-mindstate-machine.json](./335059-id-mindstate-machine.json) |
 | ID-Ego | 125359 | [125359-id-ego.json](./125359-id-ego.json) |
 | ID4 Mission Disk 2: Alien Science Officer | 78005 | [78005-id4-mission-disk-2-alien-science-officer.json](./78005-id4-mission-disk-2-alien-science-officer.json) |
