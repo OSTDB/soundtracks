@@ -4351,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remorse | 167606 | [167606-remorse.json](./167606-remorse.json) |
 | Remorse | 378391 | [378391-remorse.json](./378391-remorse.json) |
 | Remorse: The List | 115393 | [115393-remorse-the-list.json](./115393-remorse-the-list.json) |
+| Remorses | 235938 | [235938-remorses.json](./235938-remorses.json) |
 | Remote Aphrodite | 404996 | [404996-remote-aphrodite.json](./404996-remote-aphrodite.json) |
 | Remote Assault | 74008 | [74008-remote-assault.json](./74008-remote-assault.json) |
 | Remote Bomber | 147839 | [147839-remote-bomber.json](./147839-remote-bomber.json) |
@@ -10002,6 +10003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roy Rattler | 298420 | [298420-roy-rattler.json](./298420-roy-rattler.json) |
 | Roy's Bizarre Adventure | 234548 | [234548-roys-bizarre-adventure.json](./234548-roys-bizarre-adventure.json) |
 | Roy's Rugs | 199385 | [199385-roys-rugs.json](./199385-roys-rugs.json) |
+| Royal Affairs | 235926 | [235926-royal-affairs.json](./235926-royal-affairs.json) |
 | Royal Agents: Sweet Zombie | 55638 | [55638-royal-agents-sweet-zombie.json](./55638-royal-agents-sweet-zombie.json) |
 | Royal Alchemist | 109734 | [109734-royal-alchemist.json](./109734-royal-alchemist.json) |
 | Royal Area | 121795 | [121795-royal-area.json](./121795-royal-area.json) |
