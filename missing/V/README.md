@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Game: Super Corrida | 345627 | [345627-video-game-super-corrida.json](./345627-video-game-super-corrida.json) |
 | Video Horror Society: Deathwire | 227720 | [227720-video-horror-society-deathwire.json](./227720-video-horror-society-deathwire.json) |
 | Video Horror Society: Reggie | 230976 | [230976-video-horror-society-reggie.json](./230976-video-horror-society-reggie.json) |
+| Video Horror Society: Ultrafan Founder's Pack | 230992 | [230992-video-horror-society-ultrafan-founders-pack.json](./230992-video-horror-society-ultrafan-founders-pack.json) |
 | Video Hustler | 283005 | [283005-video-hustler.json](./283005-video-hustler.json) |
 | Video Hustler | 38557 | [38557-video-hustler.json](./38557-video-hustler.json) |
 | Video Jam | 206063 | [206063-video-jam.json](./206063-video-jam.json) |
