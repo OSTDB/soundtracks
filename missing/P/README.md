@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pain | 231332 | [231332-pain.json](./231332-pain.json) |
 | Pain | 7387 | [7387-pain.json](./7387-pain.json) |
 | Pain 'n Dave: The Maze of Malice | 360678 | [360678-pain-n-dave-the-maze-of-malice.json](./360678-pain-n-dave-the-maze-of-malice.json) |
+| Pain in the Arch | 271334 | [271334-pain-in-the-arch.json](./271334-pain-in-the-arch.json) |
 | Pain is the Best Medicine | 292007 | [292007-pain-is-the-best-medicine.json](./292007-pain-is-the-best-medicine.json) |
 | Pain Loop | 255767 | [255767-pain-loop.json](./255767-pain-loop.json) |
 | Pain of War | 74987 | [74987-pain-of-war.json](./74987-pain-of-war.json) |
@@ -3497,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Wars | 52022 | [52022-penguin-wars.json](./52022-penguin-wars.json) |
 | Penguin Weapons | 405067 | [405067-penguin-weapons.json](./405067-penguin-weapons.json) |
 | Penguin with a Pumpgun | 235869 | [235869-penguin-with-a-pumpgun.json](./235869-penguin-with-a-pumpgun.json) |
+| Penguin World | 271057 | [271057-penguin-world.json](./271057-penguin-world.json) |
 | Penguin-kun Gira-Gira Wars | 54924 | [54924-penguin-kun-gira-gira-wars.json](./54924-penguin-kun-gira-gira-wars.json) |
 | Penguin-kun Wars | 39396 | [39396-penguin-kun-wars.json](./39396-penguin-kun-wars.json) |
 | Penguin: Sokoban Adventure | 313459 | [313459-penguin-sokoban-adventure.json](./313459-penguin-sokoban-adventure.json) |
