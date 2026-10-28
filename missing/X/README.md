@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenosaga: Pied Piper | 127790 | [127790-xenosaga-pied-piper.json](./127790-xenosaga-pied-piper.json) |
 | Xenoscape | 142886 | [142886-xenoscape.json](./142886-xenoscape.json) |
 | Xenoscape | 27287 | [27287-xenoscape.json](./27287-xenoscape.json) |
+| Xenoscape Online | 276579 | [276579-xenoscape-online.json](./276579-xenoscape-online.json) |
 | XenoShyft: Dreadmire | 170380 | [170380-xenoshyft-dreadmire.json](./170380-xenoshyft-dreadmire.json) |
 | XenoShyft: Forbidden Sciences | 170378 | [170378-xenoshyft-forbidden-sciences.json](./170378-xenoshyft-forbidden-sciences.json) |
 | XenoShyft: NorTec Elite | 170379 | [170379-xenoshyft-nortec-elite.json](./170379-xenoshyft-nortec-elite.json) |
