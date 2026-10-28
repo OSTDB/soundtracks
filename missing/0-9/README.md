@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Bad Wad | 259374 | [259374-1-bad-wad.json](./259374-1-bad-wad.json) |
 | 1 Bit Survivor | 233992 | [233992-1-bit-survivor.json](./233992-1-bit-survivor.json) |
 | 1 CatLine | 391649 | [391649-1-catline.json](./391649-1-catline.json) |
+| 1 Date Danger | 255815 | [255815-1-date-danger.json](./255815-1-date-danger.json) |
 | 1 Day a Mosquito | 308198 | [308198-1-day-a-mosquito.json](./308198-1-day-a-mosquito.json) |
 | 1 Fast Fight | 315347 | [315347-1-fast-fight.json](./315347-1-fast-fight.json) |
 | 1 Hit Kill | 105211 | [105211-1-hit-kill.json](./105211-1-hit-kill.json) |
