@@ -5504,6 +5504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Runner | 146816 | [146816-gold-runner.json](./146816-gold-runner.json) |
 | Gold Rush | 172467 | [172467-gold-rush.json](./172467-gold-rush.json) |
 | Gold Rush | 244761 | [244761-gold-rush.json](./244761-gold-rush.json) |
+| Gold Rush | 256108 | [256108-gold-rush.json](./256108-gold-rush.json) |
 | Gold Rush | 352253 | [352253-gold-rush.json](./352253-gold-rush.json) |
 | Gold Rush Clicker | 264658 | [264658-gold-rush-clicker.json](./264658-gold-rush-clicker.json) |
 | Gold Rush! | 12121 | [12121-gold-rush.json](./12121-gold-rush.json) |
