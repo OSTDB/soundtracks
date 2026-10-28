@@ -3965,6 +3965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of the Citadel | 275136 | [275136-whispers-of-the-citadel.json](./275136-whispers-of-the-citadel.json) |
 | Whispers of the Dead | 331171 | [331171-whispers-of-the-dead.json](./331171-whispers-of-the-dead.json) |
 | Whispers of the Hourglass | 346744 | [346744-whispers-of-the-hourglass.json](./346744-whispers-of-the-hourglass.json) |
+| Whispers of the Luminaries | 251778 | [251778-whispers-of-the-luminaries.json](./251778-whispers-of-the-luminaries.json) |
 | Whispers of the Past | 346458 | [346458-whispers-of-the-past.json](./346458-whispers-of-the-past.json) |
 | Whispers of the Requiem | 408115 | [408115-whispers-of-the-requiem.json](./408115-whispers-of-the-requiem.json) |
 | Whispers of the Sands | 279530 | [279530-whispers-of-the-sands.json](./279530-whispers-of-the-sands.json) |
