@@ -10904,6 +10904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyflower | 35411 | [35411-skyflower.json](./35411-skyflower.json) |
 | SkyFly | 275515 | [275515-skyfly.json](./275515-skyfly.json) |
 | Skyforce | 174856 | [174856-skyforce.json](./174856-skyforce.json) |
+| Skyforce Unite! | 276336 | [276336-skyforce-unite.json](./276336-skyforce-unite.json) |
 | Skyforge Trails | 401097 | [401097-skyforge-trails.json](./401097-skyforge-trails.json) |
 | Skyforge: Bounty Hunter Collector's Edition | 167666 | [167666-skyforge-bounty-hunter-collectors-edition.json](./167666-skyforge-bounty-hunter-collectors-edition.json) |
 | Skyformer | 257013 | [257013-skyformer.json](./257013-skyformer.json) |
@@ -18589,6 +18590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spidle Tridle | 101730 | [101730-spidle-tridle.json](./101730-spidle-tridle.json) |
 | Spidle Tridle | 334166 | [334166-spidle-tridle.json](./334166-spidle-tridle.json) |
 | Spidy | 269765 | [269765-spidy.json](./269765-spidy.json) |
+| Spiegel Ei | 276339 | [276339-spiegel-ei.json](./276339-spiegel-ei.json) |
 | Spielbahn | 266311 | [266311-spielbahn.json](./266311-spielbahn.json) |
 | Spies & Soldiers | 132796 | [132796-spies-and-soldiers.json](./132796-spies-and-soldiers.json) |
 | Spies in the Night | 256770 | [256770-spies-in-the-night.json](./256770-spies-in-the-night.json) |
@@ -22471,6 +22473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steep: X Games Pack | 251643 | [251643-steep-x-games-pack.json](./251643-steep-x-games-pack.json) |
 | Steeple Chase | 40693 | [40693-steeple-chase.json](./40693-steeple-chase.json) |
 | Steeplechase | 18204 | [18204-steeplechase.json](./18204-steeplechase.json) |
+| Steeplechase | 276345 | [276345-steeplechase.json](./276345-steeplechase.json) |
 | Steeplejack | 383968 | [383968-steeplejack.json](./383968-steeplejack.json) |
 | Steer Madness | 66745 | [66745-steer-madness.json](./66745-steer-madness.json) |
 | Steezelpunk | 391722 | [391722-steezelpunk.json](./391722-steezelpunk.json) |
@@ -27613,6 +27616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Minesweeper Attack | 126250 | [126250-super-minesweeper-attack.json](./126250-super-minesweeper-attack.json) |
 | Super Mini Mart | 204530 | [204530-super-mini-mart.json](./204530-super-mini-mart.json) |
 | Super Mini Puzzle Heroes | 64711 | [64711-super-mini-puzzle-heroes.json](./64711-super-mini-puzzle-heroes.json) |
+| Super MiniJolt | 276342 | [276342-super-minijolt.json](./276342-super-minijolt.json) |
 | Super Mining Mechs | 319672 | [319672-super-mining-mechs.json](./319672-super-mining-mechs.json) |
 | Super Mining Mechs: Toxic Treasures | 340567 | [340567-super-mining-mechs-toxic-treasures.json](./340567-super-mining-mechs-toxic-treasures.json) |
 | Super Mole | 146576 | [146576-super-mole.json](./146576-super-mole.json) |
