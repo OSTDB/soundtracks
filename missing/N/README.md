@@ -1477,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necros no Yousai | 332213 | [332213-necros-no-yousai.json](./332213-necros-no-yousai.json) |
 | Necroscope | 58889 | [58889-necroscope.json](./58889-necroscope.json) |
 | Necrosis: Reconfigurated | 138551 | [138551-necrosis-reconfigurated.json](./138551-necrosis-reconfigurated.json) |
+| Necroslayer | 265818 | [265818-necroslayer.json](./265818-necroslayer.json) |
 | Necrosmith | 204262 | [204262-necrosmith.json](./204262-necrosmith.json) |
 | Necrosmith 2 | 244317 | [244317-necrosmith-2.json](./244317-necrosmith-2.json) |
 | Necrosphere | 36626 | [36626-necrosphere.json](./36626-necrosphere.json) |
