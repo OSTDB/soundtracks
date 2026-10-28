@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Aruze Oukoku 3 | 56731 | [56731-pachi-slot-aruze-oukoku-3.json](./56731-pachi-slot-aruze-oukoku-3.json) |
 | Pachi-Slot Aruze Oukoku 6 | 56728 | [56728-pachi-slot-aruze-oukoku-6.json](./56728-pachi-slot-aruze-oukoku-6.json) |
 | Pachi-Slot Aruze Oukoku 7 | 56735 | [56735-pachi-slot-aruze-oukoku-7.json](./56735-pachi-slot-aruze-oukoku-7.json) |
+| Pachi-Slot Aruze Oukoku Pocket: Dai-hanabi | 279817 | [279817-pachi-slot-aruze-oukoku-pocket-dai-hanabi.json](./279817-pachi-slot-aruze-oukoku-pocket-dai-hanabi.json) |
 | Pachi-Slot Aruze Oukoku Pocket: Dekahel | 56737 | [56737-pachi-slot-aruze-oukoku-pocket-dekahel.json](./56737-pachi-slot-aruze-oukoku-pocket-dekahel.json) |
 | Pachi-Slot Biohazard 5 | 61488 | [61488-pachi-slot-biohazard-5.json](./61488-pachi-slot-biohazard-5.json) |
 | Pachi-Slot Gambler | 42238 | [42238-pachi-slot-gambler.json](./42238-pachi-slot-gambler.json) |
@@ -3249,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedro Kicks Back | 108932 | [108932-pedro-kicks-back.json](./108932-pedro-kicks-back.json) |
 | Pedro of Brazil | 265471 | [265471-pedro-of-brazil.json](./265471-pedro-of-brazil.json) |
 | Pedro's Adventures in Spanish | 159161 | [159161-pedros-adventures-in-spanish.json](./159161-pedros-adventures-in-spanish.json) |
+| Pee Pee Bon Bon: Qusumi Masayuki No Appare Characters 100 | 279806 | [279806-pee-pee-bon-bon-qusumi-masayuki-no-appare-characters-100.json](./279806-pee-pee-bon-bon-qusumi-masayuki-no-appare-characters-100.json) |
 | Pee War! | 163861 | [163861-pee-war.json](./163861-pee-war.json) |
 | Peeb Adventures | 144744 | [144744-peeb-adventures.json](./144744-peeb-adventures.json) |
 | Peece Maker | 233398 | [233398-peece-maker.json](./233398-peece-maker.json) |
@@ -4218,6 +4220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter's Day Out | 165366 | [165366-peters-day-out.json](./165366-peters-day-out.json) |
 | Peter's House | 364585 | [364585-peters-house.json](./364585-peters-house.json) |
 | Peter's Journey | 306096 | [306096-peters-journey.json](./306096-peters-journey.json) |
+| Peter's Magic Adventure | 279813 | [279813-peters-magic-adventure.json](./279813-peters-magic-adventure.json) |
 | Peter's Quest: For the Love of Daphne | 67349 | [67349-peters-quest-for-the-love-of-daphne.json](./67349-peters-quest-for-the-love-of-daphne.json) |
 | Petey Pedro Unbeetable Adventure | 272237 | [272237-petey-pedro-unbeetable-adventure.json](./272237-petey-pedro-unbeetable-adventure.json) |
 | PetHotel | 101581 | [101581-pethotel.json](./101581-pethotel.json) |
@@ -13064,6 +13067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu: Famista Online 2010 | 218396 | [218396-pro-yakyuu-famista-online-2010.json](./218396-pro-yakyuu-famista-online-2010.json) |
 | Pro Yakyuu: Greatest Nine 98 | 275140 | [275140-pro-yakyuu-greatest-nine-98.json](./275140-pro-yakyuu-greatest-nine-98.json) |
 | Pro Zombie Soccer AE | 90347 | [90347-pro-zombie-soccer-ae.json](./90347-pro-zombie-soccer-ae.json) |
+| Pro-Am 64 | 279439 | [279439-pro-am-64.json](./279439-pro-am-64.json) |
 | Pro-Logic Mah-Jong Hai-Shin | 290976 | [290976-pro-logic-mah-jong-hai-shin.json](./290976-pro-logic-mah-jong-hai-shin.json) |
 | Pro-Mahjong Kiwame Next | 97873 | [97873-pro-mahjong-kiwame-next.json](./97873-pro-mahjong-kiwame-next.json) |
 | Pro-Putt Domo | 68059 | [68059-pro-putt-domo.json](./68059-pro-putt-domo.json) |
