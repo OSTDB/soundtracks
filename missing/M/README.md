@@ -2563,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manchester United | 72167 | [72167-manchester-united.json](./72167-manchester-united.json) |
 | Manchester United Championship Soccer | 42503 | [42503-manchester-united-championship-soccer.json](./42503-manchester-united-championship-soccer.json) |
 | Manchester United Club Football | 52013 | [52013-manchester-united-club-football.json](./52013-manchester-united-club-football.json) |
+| Manchester United Club Football 2005 | 269395 | [269395-manchester-united-club-football-2005.json](./269395-manchester-united-club-football-2005.json) |
 | Manchester United Europe | 13073 | [13073-manchester-united-europe.json](./13073-manchester-united-europe.json) |
 | Manchester United Manager 2005 | 22546 | [22546-manchester-united-manager-2005.json](./22546-manchester-united-manager-2005.json) |
 | Manchester United Premier League Champions | 72271 | [72271-manchester-united-premier-league-champions.json](./72271-manchester-united-premier-league-champions.json) |
