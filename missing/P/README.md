@@ -3750,6 +3750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Percy Parcel | 212958 | [212958-percy-parcel.json](./212958-percy-parcel.json) |
 | Percy Penguin | 128467 | [128467-percy-penguin.json](./128467-percy-penguin.json) |
 | Percy the Penguin Saves Christmas | 78548 | [78548-percy-the-penguin-saves-christmas.json](./78548-percy-the-penguin-saves-christmas.json) |
+| Percy the Potty Pigeon | 233155 | [233155-percy-the-potty-pigeon.json](./233155-percy-the-potty-pigeon.json) |
 | Percy's Last Stand | 118403 | [118403-percys-last-stand.json](./118403-percys-last-stand.json) |
 | Percy's Predicament Deluxe | 67192 | [67192-percys-predicament-deluxe.json](./67192-percys-predicament-deluxe.json) |
 | Perdita | 285390 | [285390-perdita.json](./285390-perdita.json) |
@@ -8052,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Simulation | 63207 | [63207-planet-simulation.json](./63207-planet-simulation.json) |
 | Planet Smashers | 12336 | [12336-planet-smashers.json](./12336-planet-smashers.json) |
 | Planet Soccer | 57688 | [57688-planet-soccer.json](./57688-planet-soccer.json) |
+| Planet Soccer 2018 | 233187 | [233187-planet-soccer-2018.json](./233187-planet-soccer-2018.json) |
 | Planet Splitters | 102019 | [102019-planet-splitters.json](./102019-planet-splitters.json) |
 | Planet Squirrel | 106743 | [106743-planet-squirrel.json](./106743-planet-squirrel.json) |
 | Planet Stronghold | 8982 | [8982-planet-stronghold.json](./8982-planet-stronghold.json) |
@@ -8944,6 +8946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Crystal League | 202258 | [202258-pocket-crystal-league.json](./202258-pocket-crystal-league.json) |
 | Pocket Cuisine | 277504 | [277504-pocket-cuisine.json](./277504-pocket-cuisine.json) |
 | Pocket Densha 2 | 282418 | [282418-pocket-densha-2.json](./282418-pocket-densha-2.json) |
+| Pocket Dinosaurs to the Moon | 233182 | [233182-pocket-dinosaurs-to-the-moon.json](./233182-pocket-dinosaurs-to-the-moon.json) |
 | Pocket Dogfights | 96224 | [96224-pocket-dogfights.json](./96224-pocket-dogfights.json) |
 | Pocket Dogs | 49357 | [49357-pocket-dogs.json](./49357-pocket-dogs.json) |
 | Pocket Drift Rally | 391833 | [391833-pocket-drift-rally.json](./391833-pocket-drift-rally.json) |
@@ -9197,6 +9200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo Mini-Golf | 354989 | [354989-pogo-mini-golf.json](./354989-pogo-mini-golf.json) |
 | Pogo Panic | 373341 | [373341-pogo-panic.json](./373341-pogo-panic.json) |
 | Pogo Party | 224587 | [224587-pogo-party.json](./224587-pogo-party.json) |
+| Pogo Pogo World | 233150 | [233150-pogo-pogo-world.json](./233150-pogo-pogo-world.json) |
 | Pogo Postman | 183463 | [183463-pogo-postman.json](./183463-pogo-postman.json) |
 | Pogo Quest | 391093 | [391093-pogo-quest.json](./391093-pogo-quest.json) |
 | Pogo Rage: The Awakening | 220649 | [220649-pogo-rage-the-awakening.json](./220649-pogo-rage-the-awakening.json) |
@@ -15288,6 +15292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Shelter | 207140 | [207140-puppy-shelter.json](./207140-puppy-shelter.json) |
 | Puppy Truck | 411658 | [411658-puppy-truck.json](./411658-puppy-truck.json) |
 | Puppycraft: Maze | 341433 | [341433-puppycraft-maze.json](./341433-puppycraft-maze.json) |
+| Puppyman | 233181 | [233181-puppyman.json](./233181-puppyman.json) |
 | Pups & Purrs Animal Hospital | 165427 | [165427-pups-and-purrs-animal-hospital.json](./165427-pups-and-purrs-animal-hospital.json) |
 | Pups & Purrs Animal Hospital and Pups & Purrs Pet Shop Bundle | 308629 | [308629-pups-and-purrs-animal-hospital-and-pups-and-purrs-pet-shop-bundle.json](./308629-pups-and-purrs-animal-hospital-and-pups-and-purrs-pet-shop-bundle.json) |
 | Pups & Purrs Pet Shop | 145491 | [145491-pups-and-purrs-pet-shop.json](./145491-pups-and-purrs-pet-shop.json) |
