@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tail to Nose | 39505 | [39505-tail-to-nose.json](./39505-tail-to-nose.json) |
 | Tail Trail | 157403 | [157403-tail-trail.json](./157403-tail-trail.json) |
 | Tail-Tale | 194300 | [194300-tail-tale.json](./194300-tail-tale.json) |
+| Tailbound | 278565 | [278565-tailbound.json](./278565-tailbound.json) |
 | Tailed Demon Slayer | 174824 | [174824-tailed-demon-slayer.json](./174824-tailed-demon-slayer.json) |
 | Tailed Monsters Puzzle | 224160 | [224160-tailed-monsters-puzzle.json](./224160-tailed-monsters-puzzle.json) |
 | Tailgate | 314007 | [314007-tailgate.json](./314007-tailgate.json) |
@@ -2963,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 134080 | [134080-teenage-mutant-ninja-turtles-tournament-fighters.json](./134080-teenage-mutant-ninja-turtles-tournament-fighters.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 354768 | [354768-teenage-mutant-ninja-turtles-tournament-fighters.json](./354768-teenage-mutant-ninja-turtles-tournament-fighters.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 48274 | [48274-teenage-mutant-ninja-turtles-tournament-fighters.json](./48274-teenage-mutant-ninja-turtles-tournament-fighters.json) |
+| Teenage Mutant Ninja Turtles: Turtle Power! | 278438 | [278438-teenage-mutant-ninja-turtles-turtle-power.json](./278438-teenage-mutant-ninja-turtles-turtle-power.json) |
 | Teenage Mutant Ninja Turtles: Turtles in Time | 205211 | [205211-teenage-mutant-ninja-turtles-turtles-in-time.json](./205211-teenage-mutant-ninja-turtles-turtles-in-time.json) |
 | Teenage Mutant Ninja Turtles: Way of the Warrior | 146240 | [146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json](./146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json) |
 | Teenage Super Ninja Plumbers | 222882 | [222882-teenage-super-ninja-plumbers.json](./222882-teenage-super-ninja-plumbers.json) |
@@ -6100,6 +6102,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Castle of the West | 412533 | [412533-the-castle-of-the-west.json](./412533-the-castle-of-the-west.json) |
 | The Castle of Time | 197215 | [197215-the-castle-of-time.json](./197215-the-castle-of-time.json) |
 | The Castles of Burgundy | 115539 | [115539-the-castles-of-burgundy.json](./115539-the-castles-of-burgundy.json) |
+| The Castles of Burgundy: Map Pack 1 | 278434 | [278434-the-castles-of-burgundy-map-pack-1.json](./278434-the-castles-of-burgundy-map-pack-1.json) |
+| The Castles of Burgundy: Map Pack 2 | 278435 | [278435-the-castles-of-burgundy-map-pack-2.json](./278435-the-castles-of-burgundy-map-pack-2.json) |
 | The Castles of Doctor Creep | 24683 | [24683-the-castles-of-doctor-creep.json](./24683-the-castles-of-doctor-creep.json) |
 | The Cat | 289315 | [289315-the-cat.json](./289315-the-cat.json) |
 | The Cat and the Box | 116747 | [116747-the-cat-and-the-box.json](./116747-the-cat-and-the-box.json) |
@@ -17212,6 +17216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThirdPlace: Kon and Pon | 288621 | [288621-thirdplace-kon-and-pon.json](./288621-thirdplace-kon-and-pon.json) |
 | Thirst | 31836 | [31836-thirst.json](./31836-thirst.json) |
 | Thirst For Life | 111372 | [111372-thirst-for-life.json](./111372-thirst-for-life.json) |
+| Thirstchasm | 278566 | [278566-thirstchasm.json](./278566-thirstchasm.json) |
 | Thirsty | 310941 | [310941-thirsty.json](./310941-thirsty.json) |
 | Thirsty Bird | 403784 | [403784-thirsty-bird.json](./403784-thirsty-bird.json) |
 | Thirsty Heroes | 156885 | [156885-thirsty-heroes.json](./156885-thirsty-heroes.json) |
@@ -20912,6 +20917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TOCA World Touring Cars | 8002 | [8002-toca-world-touring-cars.json](./8002-toca-world-touring-cars.json) |
 | Tochi II: Senshi | 207289 | [207289-tochi-ii-senshi.json](./207289-tochi-ii-senshi.json) |
 | Tochi T.U.N.R | 251100 | [251100-tochi-t-u-n-r.json](./251100-tochi-t-u-n-r.json) |
+| Tochos vs. Brokens | 278249 | [278249-tochos-vs-brokens.json](./278249-tochos-vs-brokens.json) |
 | Tocovix | 168707 | [168707-tocovix.json](./168707-tocovix.json) |
 | ToD Fragments: Special Fun | 237239 | [237239-tod-fragments-special-fun.json](./237239-tod-fragments-special-fun.json) |
 | Tod Stein | 105197 | [105197-tod-stein.json](./105197-tod-stein.json) |
@@ -23173,6 +23179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Dream 2 | 382927 | [382927-tower-dream-2.json](./382927-tower-dream-2.json) |
 | Tower Empire Builder | 127096 | [127096-tower-empire-builder.json](./127096-tower-empire-builder.json) |
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
+| Tower Factory | 278248 | [278248-tower-factory.json](./278248-tower-factory.json) |
 | Tower Fall | 211643 | [211643-tower-fall.json](./211643-tower-fall.json) |
 | Tower Field | 302328 | [302328-tower-field.json](./302328-tower-field.json) |
 | Tower Fortress | 75968 | [75968-tower-fortress.json](./75968-tower-fortress.json) |
@@ -26087,6 +26094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasures of the Smithsonian | 46547 | [46547-treasures-of-the-smithsonian.json](./46547-treasures-of-the-smithsonian.json) |
 | TreasureTails | 386422 | [386422-treasuretails.json](./386422-treasuretails.json) |
 | Treat Fighter | 109507 | [109507-treat-fighter.json](./109507-treat-fighter.json) |
+| Treat Maze | 278569 | [278569-treat-maze.json](./278569-treat-maze.json) |
 | Treat-Seeking Tricksters | 320432 | [320432-treat-seeking-tricksters.json](./320432-treat-seeking-tricksters.json) |
 | Treble Cat | 89690 | [89690-treble-cat.json](./89690-treble-cat.json) |
 | Treble Cat HD | 107558 | [107558-treble-cat-hd.json](./107558-treble-cat-hd.json) |
@@ -27293,6 +27301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trumpy Wall | 106457 | [106457-trumpy-wall.json](./106457-trumpy-wall.json) |
 | Trundle | 93599 | [93599-trundle.json](./93599-trundle.json) |
 | Trunkey's Amazing Odyssey | 369467 | [369467-trunkeys-amazing-odyssey.json](./369467-trunkeys-amazing-odyssey.json) |
+| Trupe do Sapinho | 278247 | [278247-trupe-do-sapinho.json](./278247-trupe-do-sapinho.json) |
 | Trupki | 281924 | [281924-trupki.json](./281924-trupki.json) |
 | Trushybin & Removin: What I Couldn’t Delete | 390273 | [390273-trushybin-and-removin-what-i-couldn-t-delete.json](./390273-trushybin-and-removin-what-i-couldn-t-delete.json) |
 | Truss | 230370 | [230370-truss.json](./230370-truss.json) |
