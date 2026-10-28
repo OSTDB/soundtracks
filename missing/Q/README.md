@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Gravity: Campaign | 235631 | [235631-quantum-gravity-campaign.json](./235631-quantum-gravity-campaign.json) |
 | Quantum Hell | 413862 | [413862-quantum-hell.json](./413862-quantum-hell.json) |
 | Quantum Joe | 326098 | [326098-quantum-joe.json](./326098-quantum-joe.json) |
+| Quantum Knights | 258570 | [258570-quantum-knights.json](./258570-quantum-knights.json) |
 | Quantum Lake | 26604 | [26604-quantum-lake.json](./26604-quantum-lake.json) |
 | Quantum League | 118789 | [118789-quantum-league.json](./118789-quantum-league.json) |
 | Quantum Legend - vr show | 115604 | [115604-quantum-legend-vr-show.json](./115604-quantum-legend-vr-show.json) |
