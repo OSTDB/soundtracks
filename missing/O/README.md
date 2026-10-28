@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octordle | 194880 | [194880-octordle.json](./194880-octordle.json) |
 | Octoshield VR | 32392 | [32392-octoshield-vr.json](./32392-octoshield-vr.json) |
 | Octov | 25754 | [25754-octov.json](./25754-octov.json) |
+| Octrons Challenge Reloaded | 229883 | [229883-octrons-challenge-reloaded.json](./229883-octrons-challenge-reloaded.json) |
 | Oculant | 275717 | [275717-oculant.json](./275717-oculant.json) |
 | Ocular Deprivation | 211615 | [211615-ocular-deprivation.json](./211615-ocular-deprivation.json) |
 | Ocularis | 423883 | [423883-ocularis.json](./423883-ocularis.json) |
