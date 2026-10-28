@@ -3173,6 +3173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribble Hero | 382203 | [382203-scribble-hero.json](./382203-scribble-hero.json) |
 | Scribble Hunt | 409358 | [409358-scribble-hunt.json](./409358-scribble-hunt.json) |
 | Scribble It! | 120649 | [120649-scribble-it.json](./120649-scribble-it.json) |
+| Scribble It!: Premium Edition | 254083 | [254083-scribble-it-premium-edition.json](./254083-scribble-it-premium-edition.json) |
 | Scribble Ships | 30801 | [30801-scribble-ships.json](./30801-scribble-ships.json) |
 | Scribble Shooter | 21152 | [21152-scribble-shooter.json](./21152-scribble-shooter.json) |
 | Scribble Space | 35711 | [35711-scribble-space.json](./35711-scribble-space.json) |
@@ -27478,6 +27479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Epic 3 | 323815 | [323815-super-mario-epic-3.json](./323815-super-mario-epic-3.json) |
 | Super Mario Essex | 351583 | [351583-super-mario-essex.json](./351583-super-mario-essex.json) |
 | Super Mario Evolution | 256701 | [256701-super-mario-evolution.json](./256701-super-mario-evolution.json) |
+| Super Mario Fallen Stars | 254090 | [254090-super-mario-fallen-stars.json](./254090-super-mario-fallen-stars.json) |
 | Super Mario Fantasy | 300256 | [300256-super-mario-fantasy.json](./300256-super-mario-fantasy.json) |
 | Super Mario Fighter 2 | 313416 | [313416-super-mario-fighter-2.json](./313416-super-mario-fighter-2.json) |
 | Super Mario Flash | 176865 | [176865-super-mario-flash.json](./176865-super-mario-flash.json) |
