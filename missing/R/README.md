@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage of the Gladiator | 22113 | [22113-rage-of-the-gladiator.json](./22113-rage-of-the-gladiator.json) |
 | Rage of the Wasteland | 157137 | [157137-rage-of-the-wasteland.json](./157137-rage-of-the-wasteland.json) |
 | Rage of Tiger 2: Blood, Money and Tears | 64350 | [64350-rage-of-tiger-2-blood-money-and-tears.json](./64350-rage-of-tiger-2-blood-money-and-tears.json) |
+| Rage of Towers | 264184 | [264184-rage-of-towers.json](./264184-rage-of-towers.json) |
 | Rage Parking Simulator 2016 | 26955 | [26955-rage-parking-simulator-2016.json](./26955-rage-parking-simulator-2016.json) |
 | Rage Pig | 32745 | [32745-rage-pig.json](./32745-rage-pig.json) |
 | Rage Punk | 210545 | [210545-rage-punk.json](./210545-rage-punk.json) |
@@ -10543,6 +10544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run from Blablublas horror | 386543 | [386543-run-from-blablublas-horror.json](./386543-run-from-blablublas-horror.json) |
 | Run from Bubol Horror | 359990 | [359990-run-from-bubol-horror.json](./359990-run-from-bubol-horror.json) |
 | Run from Duck | 379931 | [379931-run-from-duck.json](./379931-run-from-duck.json) |
+| Run From Mummies | 263873 | [263873-run-from-mummies.json](./263873-run-from-mummies.json) |
 | Run from the Feds! | 316019 | [316019-run-from-the-feds.json](./316019-run-from-the-feds.json) |
 | Run from the Light | 296017 | [296017-run-from-the-light.json](./296017-run-from-the-light.json) |
 | Run Ghost Run | 125057 | [125057-run-ghost-run.json](./125057-run-ghost-run.json) |
