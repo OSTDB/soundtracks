@@ -3174,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vortex Raider | 416723 | [416723-vortex-raider.json](./416723-vortex-raider.json) |
 | Vortex Rolling | 152743 | [152743-vortex-rolling.json](./152743-vortex-rolling.json) |
 | Vortex: The Gateway | 34348 | [34348-vortex-the-gateway.json](./34348-vortex-the-gateway.json) |
+| Vortexika | 232612 | [232612-vortexika.json](./232612-vortexika.json) |
 | Vortexion | 318864 | [318864-vortexion.json](./318864-vortexion.json) |
 | VortexWars2 | 101759 | [101759-vortexwars2.json](./101759-vortexwars2.json) |
 | Vortix | 260569 | [260569-vortix.json](./260569-vortix.json) |
