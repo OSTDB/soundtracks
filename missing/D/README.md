@@ -2469,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day 178 | 338142 | [338142-day-178.json](./338142-day-178.json) |
 | Day 31 | 419946 | [419946-day-31.json](./419946-day-31.json) |
 | Day After Day | 342181 | [342181-day-after-day.json](./342181-day-after-day.json) |
+| Day After Forever | 272114 | [272114-day-after-forever.json](./272114-day-after-forever.json) |
 | Day and Knight | 137953 | [137953-day-and-knight.json](./137953-day-and-knight.json) |
 | Day and Night | 124009 | [124009-day-and-night.json](./124009-day-and-night.json) |
 | Day and Night | 415229 | [415229-day-and-night.json](./415229-day-and-night.json) |
@@ -6129,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Bus VR | 76421 | [76421-desert-bus-vr.json](./76421-desert-bus-vr.json) |
 | Desert Child | 91970 | [91970-desert-child.json](./91970-desert-child.json) |
 | Desert Comets | 184923 | [184923-desert-comets.json](./184923-desert-comets.json) |
+| Desert Complex | 272115 | [272115-desert-complex.json](./272115-desert-complex.json) |
 | Desert Craft Exploration | 95888 | [95888-desert-craft-exploration.json](./95888-desert-craft-exploration.json) |
 | Desert Demolition Starring Road Runner and Wile E. Coyote | 4518 | [4518-desert-demolition-starring-road-runner-and-wile-e-coyote.json](./4518-desert-demolition-starring-road-runner-and-wile-e-coyote.json) |
 | Desert Dive | 317425 | [317425-desert-dive.json](./317425-desert-dive.json) |
@@ -7982,6 +7984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension Ranger | 349330 | [349330-dimension-ranger.json](./349330-dimension-ranger.json) |
 | Dimension Reign | 129484 | [129484-dimension-reign.json](./129484-dimension-reign.json) |
 | Dimension Rift Zero | 149271 | [149271-dimension-rift-zero.json](./149271-dimension-rift-zero.json) |
+| Dimension Shift | 272106 | [272106-dimension-shift.json](./272106-dimension-shift.json) |
 | Dimension Shift | 323884 | [323884-dimension-shift.json](./323884-dimension-shift.json) |
 | Dimension Summoner: Hero Arena 3D Fantasy RPG | 95873 | [95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json](./95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json) |
 | Dimension Tripper Neptune: TOP NEP | 187445 | [187445-dimension-tripper-neptune-top-nep.json](./187445-dimension-tripper-neptune-top-nep.json) |
@@ -8603,6 +8606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discard All Hope | 350614 | [350614-discard-all-hope.json](./350614-discard-all-hope.json) |
 | Discarded Empire | 244128 | [244128-discarded-empire.json](./244128-discarded-empire.json) |
 | Discarded Memories: Mysteries of the Past | 261838 | [261838-discarded-memories-mysteries-of-the-past.json](./261838-discarded-memories-mysteries-of-the-past.json) |
+| Discarded Stronghold | 272101 | [272101-discarded-stronghold.json](./272101-discarded-stronghold.json) |
 | Discarnate | 265628 | [265628-discarnate.json](./265628-discarnate.json) |
 | Discarnate: Locust | 286932 | [286932-discarnate-locust.json](./286932-discarnate-locust.json) |
 | Discharge | 117040 | [117040-discharge.json](./117040-discharge.json) |
@@ -12630,6 +12634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Hero of Justice: Pack 2 | 225546 | [225546-dragon-ball-xenoverse-2-hero-of-justice-pack-2.json](./225546-dragon-ball-xenoverse-2-hero-of-justice-pack-2.json) |
 | Dragon Ball: Xenoverse 2 - Legendary Pack 1 | 168741 | [168741-dragon-ball-xenoverse-2-legendary-pack-1.json](./168741-dragon-ball-xenoverse-2-legendary-pack-1.json) |
 | Dragon Ball: Xenoverse 2 - Legendary Pack 2 | 193208 | [193208-dragon-ball-xenoverse-2-legendary-pack-2.json](./193208-dragon-ball-xenoverse-2-legendary-pack-2.json) |
+| Dragon Ball: Xenoverse 2 - Super Deluxe Edition | 272414 | [272414-dragon-ball-xenoverse-2-super-deluxe-edition.json](./272414-dragon-ball-xenoverse-2-super-deluxe-edition.json) |
 | Dragon Ball: Xenoverse 2 - Super Edition | 200692 | [200692-dragon-ball-xenoverse-2-super-edition.json](./200692-dragon-ball-xenoverse-2-super-edition.json) |
 | Dragon Ball: Xenoverse 2 - Super Pack 1 | 168743 | [168743-dragon-ball-xenoverse-2-super-pack-1.json](./168743-dragon-ball-xenoverse-2-super-pack-1.json) |
 | Dragon Ball: Xenoverse 2 - Super Pack 2 | 168744 | [168744-dragon-ball-xenoverse-2-super-pack-2.json](./168744-dragon-ball-xenoverse-2-super-pack-2.json) |
@@ -13316,6 +13321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw and Color | 276130 | [276130-draw-and-color.json](./276130-draw-and-color.json) |
 | Draw and Color: Kawaii | 219461 | [219461-draw-and-color-kawaii.json](./219461-draw-and-color-kawaii.json) |
 | Draw and Color: Kawaii - Complete Edition | 242047 | [242047-draw-and-color-kawaii-complete-edition.json](./242047-draw-and-color-kawaii-complete-edition.json) |
+| Draw and Color: Kawaii - Complete Edition + | 272410 | [272410-draw-and-color-kawaii-complete-edition.json](./272410-draw-and-color-kawaii-complete-edition.json) |
 | Draw and Color: Kawaii - Definitive Edition | 239480 | [239480-draw-and-color-kawaii-definitive-edition.json](./239480-draw-and-color-kawaii-definitive-edition.json) |
 | Draw and Color: Kawaii - Deluxe Edition | 237851 | [237851-draw-and-color-kawaii-deluxe-edition.json](./237851-draw-and-color-kawaii-deluxe-edition.json) |
 | Draw and Color: Kawaii - Director's Cut | 250361 | [250361-draw-and-color-kawaii-directors-cut.json](./250361-draw-and-color-kawaii-directors-cut.json) |
