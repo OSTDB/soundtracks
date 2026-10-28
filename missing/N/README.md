@@ -4480,6 +4480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja JaJaMaru-kun: Onigiri Ninpou-chou | 74780 | [74780-ninja-jajamaru-kun-onigiri-ninpou-chou.json](./74780-ninja-jajamaru-kun-onigiri-ninpou-chou.json) |
 | Ninja JaJaMaru-kun: Sakura-hime to Karyu no Himitsu | 62207 | [62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json](./62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json) |
 | Ninja JaJaMaru: Ginga Daisakusen | 48454 | [48454-ninja-jajamaru-ginga-daisakusen.json](./48454-ninja-jajamaru-ginga-daisakusen.json) |
+| Ninja JaJaMaru: Retro Collection | 237557 | [237557-ninja-jajamaru-retro-collection.json](./237557-ninja-jajamaru-retro-collection.json) |
 | Ninja JaJaMaru: The Great Yokai Battle + Hell - Deluxe Edition | 225783 | [225783-ninja-jajamaru-the-great-yokai-battle-hell-deluxe-edition.json](./225783-ninja-jajamaru-the-great-yokai-battle-hell-deluxe-edition.json) |
 | Ninja JaJaMaru: The Lost RPGs | 234622 | [234622-ninja-jajamaru-the-lost-rpgs.json](./234622-ninja-jajamaru-the-lost-rpgs.json) |
 | Ninja Jump | 88042 | [88042-ninja-jump.json](./88042-ninja-jump.json) |
