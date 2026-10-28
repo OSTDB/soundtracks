@@ -5042,6 +5042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Ideal | 393948 | [393948-hero-of-ideal.json](./393948-hero-of-ideal.json) |
 | Hero of Law | 351679 | [351679-hero-of-law.json](./351679-hero-of-law.json) |
 | Hero of Luxuria | 259105 | [259105-hero-of-luxuria.json](./259105-hero-of-luxuria.json) |
+| Hero of Magic | 254267 | [254267-hero-of-magic.json](./254267-hero-of-magic.json) |
 | Hero of Many | 17339 | [17339-hero-of-many.json](./17339-hero-of-many.json) |
 | Hero of Memory | 177227 | [177227-hero-of-memory.json](./177227-hero-of-memory.json) |
 | Hero of Minotaurs | 283540 | [283540-hero-of-minotaurs.json](./283540-hero-of-minotaurs.json) |
@@ -9376,6 +9377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houdini's Castle | 112790 | [112790-houdinis-castle.json](./112790-houdinis-castle.json) |
 | Houkago Campus | 97772 | [97772-houkago-campus.json](./97772-houkago-campus.json) |
 | Houkago Cinderella | 182470 | [182470-houkago-cinderella.json](./182470-houkago-cinderella.json) |
+| Houkago Cinderella 2 | 254627 | [254627-houkago-cinderella-2.json](./254627-houkago-cinderella-2.json) |
 | Houkago Cinderella 2 Mini Fandisk: Kimi to Odoru Hajimete no Happy Halloween | 377773 | [377773-houkago-cinderella-2-mini-fandisk-kimi-to-odoru-hajimete-no-happy-halloween.json](./377773-houkago-cinderella-2-mini-fandisk-kimi-to-odoru-hajimete-no-happy-halloween.json) |
 | Houkago Cinderella Mini Fandisk: Anata to Kaeru Saigo no Gekoudou | 377772 | [377772-houkago-cinderella-mini-fandisk-anata-to-kaeru-saigo-no-gekoudou.json](./377772-houkago-cinderella-mini-fandisk-anata-to-kaeru-saigo-no-gekoudou.json) |
 | Houkago Cinderella: Complete Limited Edition | 182479 | [182479-houkago-cinderella-complete-limited-edition.json](./182479-houkago-cinderella-complete-limited-edition.json) |
