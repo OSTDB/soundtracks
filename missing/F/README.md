@@ -2420,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmquest | 186552 | [186552-farmquest.json](./186552-farmquest.json) |
 | FarmRPG | 227832 | [227832-farmrpg.json](./227832-farmrpg.json) |
 | Farmscapes | 50452 | [50452-farmscapes.json](./50452-farmscapes.json) |
+| Farmside | 239457 | [239457-farmside.json](./239457-farmside.json) |
 | Farmtastic | 352351 | [352351-farmtastic.json](./352351-farmtastic.json) |
 | FarmTD | 332376 | [332376-farmtd.json](./332376-farmtd.json) |
 | FarmTech | 257891 | [257891-farmtech.json](./257891-farmtech.json) |
@@ -4261,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Doom | 218185 | [218185-final-doom.json](./218185-final-doom.json) |
 | Final Doom | 8191 | [8191-final-doom.json](./8191-final-doom.json) |
 | Final Doomer | 300445 | [300445-final-doomer.json](./300445-final-doomer.json) |
+| Final Dose | 239831 | [239831-final-dose.json](./239831-final-dose.json) |
 | Final Dream | 340973 | [340973-final-dream.json](./340973-final-dream.json) |
 | Final Duel 2: Deathmatch arena | 73775 | [73775-final-duel-2-deathmatch-arena.json](./73775-final-duel-2-deathmatch-arena.json) |
 | Final Dusk | 36046 | [36046-final-dusk.json](./36046-final-dusk.json) |
