@@ -3445,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Packs | 152690 | [152690-cat-packs.json](./152690-cat-packs.json) |
 | Cat Palette: Merging Colorful Kittens | 277755 | [277755-cat-palette-merging-colorful-kittens.json](./277755-cat-palette-merging-colorful-kittens.json) |
 | Cat Parents | 395178 | [395178-cat-parents.json](./395178-cat-parents.json) |
+| Cat Park | 257503 | [257503-cat-park.json](./257503-cat-park.json) |
 | Cat Piano | 300778 | [300778-cat-piano.json](./300778-cat-piano.json) |
 | Cat Ping Pong | 251642 | [251642-cat-ping-pong.json](./251642-cat-ping-pong.json) |
 | Cat Pipes | 244275 | [244275-cat-pipes.json](./244275-cat-pipes.json) |
@@ -17327,6 +17328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyanide Angel | 397162 | [397162-cyanide-angel.json](./397162-cyanide-angel.json) |
 | Cyanos: Ao wo Tayutau Nageki no Chou | 395357 | [395357-cyanos-ao-wo-tayutau-nageki-no-chou.json](./395357-cyanos-ao-wo-tayutau-nageki-no-chou.json) |
 | Cyanotype Daydream: The Girl Who Dreamed the World | 191059 | [191059-cyanotype-daydream-the-girl-who-dreamed-the-world.json](./191059-cyanotype-daydream-the-girl-who-dreamed-the-world.json) |
+| Cyb's Freaky Colonoscopy | 257180 | [257180-cybs-freaky-colonoscopy.json](./257180-cybs-freaky-colonoscopy.json) |
 | Cyball | 225843 | [225843-cyball.json](./225843-cyball.json) |
 | CybArena | 326244 | [326244-cybarena.json](./326244-cybarena.json) |
 | Cybarian: The Time Travelling Warrior | 107851 | [107851-cybarian-the-time-travelling-warrior.json](./107851-cybarian-the-time-travelling-warrior.json) |
