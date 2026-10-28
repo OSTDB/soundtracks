@@ -10089,6 +10089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Baseball: Dynasty Builder | 363421 | [363421-college-baseball-dynasty-builder.json](./363421-college-baseball-dynasty-builder.json) |
 | College Basketball Manager | 303735 | [303735-college-basketball-manager.json](./303735-college-basketball-manager.json) |
 | College Bball Coach | 78544 | [78544-college-bball-coach.json](./78544-college-bball-coach.json) |
+| College Bball Coach 2 | 239241 | [239241-college-bball-coach-2.json](./239241-college-bball-coach-2.json) |
 | College Bound | 187242 | [187242-college-bound.json](./187242-college-bound.json) |
 | College Bound: Arctic Adventure | 237482 | [237482-college-bound-arctic-adventure.json](./237482-college-bound-arctic-adventure.json) |
 | College Bound: Episode 3 | 196091 | [196091-college-bound-episode-3.json](./196091-college-bound-episode-3.json) |
