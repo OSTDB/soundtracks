@@ -9835,6 +9835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Iron | 60199 | [60199-cold-iron.json](./60199-cold-iron.json) |
 | Cold Iron: Quick Draw Western Duels | 30768 | [30768-cold-iron-quick-draw-western-duels.json](./30768-cold-iron-quick-draw-western-duels.json) |
 | Cold Lazarus | 289276 | [289276-cold-lazarus.json](./289276-cold-lazarus.json) |
+| Cold Light | 271857 | [271857-cold-light.json](./271857-cold-light.json) |
 | Cold Massacre | 220585 | [220585-cold-massacre.json](./220585-cold-massacre.json) |
 | Cold Meat | 166716 | [166716-cold-meat.json](./166716-cold-meat.json) |
 | Cold Pines | 391877 | [391877-cold-pines.json](./391877-cold-pines.json) |
@@ -12658,6 +12659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupted Dice | 405520 | [405520-corrupted-dice.json](./405520-corrupted-dice.json) |
 | Corrupted Kingdoms | 232550 | [232550-corrupted-kingdoms.json](./232550-corrupted-kingdoms.json) |
 | Corrupted Paradise | 290809 | [290809-corrupted-paradise.json](./290809-corrupted-paradise.json) |
+| Corrupted Sector | 271575 | [271575-corrupted-sector.json](./271575-corrupted-sector.json) |
 | Corrupted Souls | 366960 | [366960-corrupted-souls.json](./366960-corrupted-souls.json) |
 | Corrupted Universe Cries Quietly | 269282 | [269282-corrupted-universe-cries-quietly.json](./269282-corrupted-universe-cries-quietly.json) |
 | Corrupted Worlds | 408522 | [408522-corrupted-worlds.json](./408522-corrupted-worlds.json) |
@@ -16791,6 +16793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Dungeon | 126580 | [126580-curse-of-the-dungeon.json](./126580-curse-of-the-dungeon.json) |
 | Curse of the Ethereal Dragon | 384301 | [384301-curse-of-the-ethereal-dragon.json](./384301-curse-of-the-ethereal-dragon.json) |
 | Curse of the Forsaken | 373610 | [373610-curse-of-the-forsaken.json](./373610-curse-of-the-forsaken.json) |
+| Curse of the Golden Skull Key | 271569 | [271569-curse-of-the-golden-skull-key.json](./271569-curse-of-the-golden-skull-key.json) |
 | Curse of the Great Forest | 40704 | [40704-curse-of-the-great-forest.json](./40704-curse-of-the-great-forest.json) |
 | Curse of the Juniper Tree | 301409 | [301409-curse-of-the-juniper-tree.json](./301409-curse-of-the-juniper-tree.json) |
 | Curse of the Lich King | 178005 | [178005-curse-of-the-lich-king.json](./178005-curse-of-the-lich-king.json) |
