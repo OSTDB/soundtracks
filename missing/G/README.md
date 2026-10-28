@@ -4081,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator Bastards | 114698 | [114698-gladiator-bastards.json](./114698-gladiator-bastards.json) |
 | Gladiator Command | 391532 | [391532-gladiator-command.json](./391532-gladiator-command.json) |
 | Gladiator Fights | 343401 | [343401-gladiator-fights.json](./343401-gladiator-fights.json) |
+| Gladiator Immortal | 258807 | [258807-gladiator-immortal.json](./258807-gladiator-immortal.json) |
 | Gladiator Manager | 278095 | [278095-gladiator-manager.json](./278095-gladiator-manager.json) |
 | Gladiator of sparta | 173275 | [173275-gladiator-of-sparta.json](./173275-gladiator-of-sparta.json) |
 | Gladiator Of Valor | 313656 | [313656-gladiator-of-valor.json](./313656-gladiator-of-valor.json) |
@@ -5770,6 +5771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Pro | 247062 | [247062-golf-pro.json](./247062-golf-pro.json) |
 | Golf Pro 2000 Downunder | 93072 | [93072-golf-pro-2000-downunder.json](./93072-golf-pro-2000-downunder.json) |
 | Golf Pro Simulator | 348167 | [348167-golf-pro-simulator.json](./348167-golf-pro-simulator.json) |
+| Golf Putt 3D | 259130 | [259130-golf-putt-3d.json](./259130-golf-putt-3d.json) |
 | Golf Resort Tycoon | 73296 | [73296-golf-resort-tycoon.json](./73296-golf-resort-tycoon.json) |
 | Golf Resort Tycoon II | 23465 | [23465-golf-resort-tycoon-ii.json](./23465-golf-resort-tycoon-ii.json) |
 | Golf Rival | 107547 | [107547-golf-rival.json](./107547-golf-rival.json) |
