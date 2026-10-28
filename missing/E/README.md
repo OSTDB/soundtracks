@@ -2126,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elena's Journal: To Atlantis | 247960 | [247960-elenas-journal-to-atlantis.json](./247960-elenas-journal-to-atlantis.json) |
 | Elena's Journal: Unfinished Expedition | 207789 | [207789-elenas-journal-unfinished-expedition.json](./207789-elenas-journal-unfinished-expedition.json) |
 | Elendia Ceus | 116054 | [116054-elendia-ceus.json](./116054-elendia-ceus.json) |
+| Eleonor's Nightmares | 231175 | [231175-eleonors-nightmares.json](./231175-eleonors-nightmares.json) |
 | ElePaperAction | 295623 | [295623-elepaperaction.json](./295623-elepaperaction.json) |
 | ElePass: Only Elephants Can Unlock the Passcode | 317855 | [317855-elepass-only-elephants-can-unlock-the-passcode.json](./317855-elepass-only-elephants-can-unlock-the-passcode.json) |
 | Elephant Express VR | 30191 | [30191-elephant-express-vr.json](./30191-elephant-express-vr.json) |
@@ -3288,6 +3289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Mountain | 234058 | [234058-endless-mountain.json](./234058-endless-mountain.json) |
 | Endless Mountain | 294957 | [294957-endless-mountain.json](./294957-endless-mountain.json) |
 | Endless National | 188376 | [188376-endless-national.json](./188376-endless-national.json) |
+| Endless Nesla | 231176 | [231176-endless-nesla.json](./231176-endless-nesla.json) |
 | Endless Nightmare | 193996 | [193996-endless-nightmare.json](./193996-endless-nightmare.json) |
 | Endless Nightmare: Shrine | 200737 | [200737-endless-nightmare-shrine.json](./200737-endless-nightmare-shrine.json) |
 | Endless Nightmare: Weird Hospital | 174767 | [174767-endless-nightmare-weird-hospital.json](./174767-endless-nightmare-weird-hospital.json) |
@@ -6422,6 +6424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex Angelus | 235622 | [235622-ex-angelus.json](./235622-ex-angelus.json) |
 | Ex Astris | 174610 | [174610-ex-astris.json](./174610-ex-astris.json) |
 | Ex Change | 406293 | [406293-ex-change.json](./406293-ex-change.json) |
+| Ex Holics.exe | 231590 | [231590-ex-holics-exe.json](./231590-ex-holics-exe.json) |
 | Ex Libris | 403221 | [403221-ex-libris.json](./403221-ex-libris.json) |
 | Ex Life | 140527 | [140527-ex-life.json](./140527-ex-life.json) |
 | Ex Machina: Arcade | 17171 | [17171-ex-machina-arcade.json](./17171-ex-machina-arcade.json) |
@@ -6781,6 +6784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcised | 149238 | [149238-exorcised.json](./149238-exorcised.json) |
 | Exorcism Agency | 355208 | [355208-exorcism-agency.json](./355208-exorcism-agency.json) |
 | Exorcism Express | 181153 | [181153-exorcism-express.json](./181153-exorcism-express.json) |
+| Exorcism Ritual | 231177 | [231177-exorcism-ritual.json](./231177-exorcism-ritual.json) |
 | Exorcism: Case Zero | 72489 | [72489-exorcism-case-zero.json](./72489-exorcism-case-zero.json) |
 | Exorcism:Nuo Rituals | 390564 | [390564-exorcism-nuo-rituals.json](./390564-exorcism-nuo-rituals.json) |
 | Exorcist | 200360 | [200360-exorcist.json](./200360-exorcist.json) |
