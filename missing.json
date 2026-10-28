@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-28T12:04:18.604Z",
-  "total_missing": 274495,
+  "generated_at": "2026-10-28T12:12:34.102Z",
+  "total_missing": 274492,
   "games": [
     {
       "igdb_id": 191680,
@@ -99047,6 +99047,11 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
+    },
+    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -167000,11 +167005,6 @@
       "igdb_id": 133213,
       "game_name": "Buck Bradley: Comic Adventure",
       "file": "missing/B/133213-buck-bradley-comic-adventure.json"
-    },
-    {
-      "igdb_id": 3368,
-      "game_name": "Buck Bumble",
-      "file": "missing/B/3368-buck-bumble.json"
     },
     {
       "igdb_id": 51007,
@@ -610037,11 +610037,6 @@
       "file": "missing/K/25254-killing-room.json"
     },
     {
-      "igdb_id": 4334,
-      "game_name": "Killing Time",
-      "file": "missing/K/4334-killing-time.json"
-    },
-    {
       "igdb_id": 82092,
       "game_name": "Killing Time",
       "file": "missing/K/82092-killing-time.json"
@@ -610350,6 +610345,11 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
+    },
+    {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -864965,11 +864965,6 @@
       "igdb_id": 229653,
       "game_name": "Planet Ennea",
       "file": "missing/P/229653-planet-ennea.json"
-    },
-    {
-      "igdb_id": 5573,
-      "game_name": "Planet Explorers",
-      "file": "missing/P/5573-planet-explorers.json"
     },
     {
       "igdb_id": 177773,
@@ -1318122,11 +1318117,6 @@
       "file": "missing/W/5274-we-sing-uk-hits.json"
     },
     {
-      "igdb_id": 5275,
-      "game_name": "We Ski",
-      "file": "missing/W/5275-we-ski.json"
-    },
-    {
       "igdb_id": 36183,
       "game_name": "We Slay Monsters",
       "file": "missing/W/36183-we-slay-monsters.json"
@@ -1346815,11 +1346805,6 @@
       "igdb_id": 67954,
       "game_name": "X Operations",
       "file": "missing/X/67954-x-operations.json"
-    },
-    {
-      "igdb_id": 3347,
-      "game_name": "X Rebirth",
-      "file": "missing/X/3347-x-rebirth.json"
     },
     {
       "igdb_id": 52126,
