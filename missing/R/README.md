@@ -2933,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebellion Stryker | 316471 | [316471-rebellion-stryker.json](./316471-rebellion-stryker.json) |
 | Rebellion: A Rogue Souls Like | 153393 | [153393-rebellion-a-rogue-souls-like.json](./153393-rebellion-a-rogue-souls-like.json) |
 | Rebellions: Secret Game 2nd Stage | 153169 | [153169-rebellions-secret-game-2nd-stage.json](./153169-rebellions-secret-game-2nd-stage.json) |
+| Rebellious Numbers | 241570 | [241570-rebellious-numbers.json](./241570-rebellious-numbers.json) |
 | Rebellious Takeover | 396013 | [396013-rebellious-takeover.json](./396013-rebellious-takeover.json) |
 | Rebeloid | 368668 | [368668-rebeloid.json](./368668-rebeloid.json) |
 | Rebeloid VR | 364978 | [364978-rebeloid-vr.json](./364978-rebeloid-vr.json) |
@@ -8985,6 +8986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll to Ruin | 418256 | [418256-roll-to-ruin.json](./418256-roll-to-ruin.json) |
 | Roll to the Top | 108194 | [108194-roll-to-the-top.json](./108194-roll-to-the-top.json) |
 | Roll Turtle | 208577 | [208577-roll-turtle.json](./208577-roll-turtle.json) |
+| Roll-a-word | 241571 | [241571-roll-a-word.json](./241571-roll-a-word.json) |
 | Roll-o-Rama | 185883 | [185883-roll-o-rama.json](./185883-roll-o-rama.json) |
 | Roll, Die, Go Home | 182725 | [182725-roll-die-go-home.json](./182725-roll-die-go-home.json) |
 | Roll: A Puzzle Contraption | 303664 | [303664-roll-a-puzzle-contraption.json](./303664-roll-a-puzzle-contraption.json) |
@@ -9169,6 +9171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollTheEarth | 103437 | [103437-rolltheearth.json](./103437-rolltheearth.json) |
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
 | Rolly Dango | 306042 | [306042-rolly-dango.json](./306042-rolly-dango.json) |
+| Rolly Hills | 241569 | [241569-rolly-hills.json](./241569-rolly-hills.json) |
 | Rolly Rails | 345701 | [345701-rolly-rails.json](./345701-rolly-rails.json) |
 | Rolly Rolly | 78535 | [78535-rolly-rolly.json](./78535-rolly-rolly.json) |
 | Rolly's Adventure | 119560 | [119560-rollys-adventure.json](./119560-rollys-adventure.json) |
@@ -10264,6 +10267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubik's Puzzle World | 5131 | [5131-rubiks-puzzle-world.json](./5131-rubiks-puzzle-world.json) |
 | Rubinite | 265796 | [265796-rubinite.json](./265796-rubinite.json) |
 | Rubix Roller | 153821 | [153821-rubix-roller.json](./153821-rubix-roller.json) |
+| RubPix | 241568 | [241568-rubpix.json](./241568-rubpix.json) |
 | Rubu Tribe | 91873 | [91873-rubu-tribe.json](./91873-rubu-tribe.json) |
 | Ruby and the Lost Crystals | 360581 | [360581-ruby-and-the-lost-crystals.json](./360581-ruby-and-the-lost-crystals.json) |
 | Ruby Crush | 270417 | [270417-ruby-crush.json](./270417-ruby-crush.json) |
