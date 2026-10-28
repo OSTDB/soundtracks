@@ -1352,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Chess: Extended Edition | 215312 | [215312-family-chess-extended-edition.json](./215312-family-chess-extended-edition.json) |
 | Family Chess: GOTY Edition | 240411 | [240411-family-chess-goty-edition.json](./240411-family-chess-goty-edition.json) |
 | Family Chess: Magnificent Edition | 246647 | [246647-family-chess-magnificent-edition.json](./246647-family-chess-magnificent-edition.json) |
+| Family Chess: Platinum Edition | 238123 | [238123-family-chess-platinum-edition.json](./238123-family-chess-platinum-edition.json) |
 | Family Chess: Ultimate Edition | 212340 | [212340-family-chess-ultimate-edition.json](./212340-family-chess-ultimate-edition.json) |
 | Family Chess: Ultra Deluxe | 254678 | [254678-family-chess-ultra-deluxe.json](./254678-family-chess-ultra-deluxe.json) |
 | Family Circuit | 48498 | [48498-family-circuit.json](./48498-family-circuit.json) |
