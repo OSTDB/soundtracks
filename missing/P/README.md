@@ -8944,7 +8944,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Mini Golf 2 | 224987 | [224987-pocket-mini-golf-2.json](./224987-pocket-mini-golf-2.json) |
 | Pocket Mini Golf: Hole in one | 238029 | [238029-pocket-mini-golf-hole-in-one.json](./238029-pocket-mini-golf-hole-in-one.json) |
 | Pocket Mirror | 57894 | [57894-pocket-mirror.json](./57894-pocket-mirror.json) |
-| Pocket Mirror: GoldenerTraum | 211637 | [211637-pocket-mirror-goldenertraum.json](./211637-pocket-mirror-goldenertraum.json) |
 | Pocket Mobsters | 63146 | [63146-pocket-mobsters.json](./63146-pocket-mobsters.json) |
 | Pocket Monster | 196530 | [196530-pocket-monster.json](./196530-pocket-monster.json) |
 | Pocket Monsters Advanced Generation: Minna de Pico Pokémon Waiwai Battle! | 63048 | [63048-pocket-monsters-advanced-generation-minna-de-pico-pokemon-waiwai-battle.json](./63048-pocket-monsters-advanced-generation-minna-de-pico-pokemon-waiwai-battle.json) |
