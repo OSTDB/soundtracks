@@ -1283,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Young: RPG Mini | 331922 | [331922-old-young-rpg-mini.json](./331922-old-young-rpg-mini.json) |
 | Oldage | 72353 | [72353-oldage.json](./72353-oldage.json) |
 | OldBerserker | 180760 | [180760-oldberserker.json](./180760-oldberserker.json) |
+| Olden Peak | 272654 | [272654-olden-peak.json](./272654-olden-peak.json) |
 | Olden War | 261994 | [261994-olden-war.json](./261994-olden-war.json) |
 | Oldentide | 57892 | [57892-oldentide.json](./57892-oldentide.json) |
 | Older Brother, Twins, and Little Sister | 98013 | [98013-older-brother-twins-and-little-sister.json](./98013-older-brother-twins-and-little-sister.json) |
@@ -1512,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMG: One More Goal - Basic Campaigns Pack | 226124 | [226124-omg-one-more-goal-basic-campaigns-pack.json](./226124-omg-one-more-goal-basic-campaigns-pack.json) |
 | OMG: One More Goal! | 157072 | [157072-omg-one-more-goal.json](./157072-omg-one-more-goal.json) |
 | OMG: Our Manic Game | 66420 | [66420-omg-our-manic-game.json](./66420-omg-our-manic-game.json) |
+| Omg! Not Another Isekai | 272966 | [272966-omg-not-another-isekai.json](./272966-omg-not-another-isekai.json) |
 | OMG!: Overhead Micro Game | 379711 | [379711-omg-overhead-micro-game.json](./379711-omg-overhead-micro-game.json) |
 | Omh | 277227 | [277227-omh.json](./277227-omh.json) |
 | Omi Momi | 244633 | [244633-omi-momi.json](./244633-omi-momi.json) |
@@ -3732,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ortus Regni | 32621 | [32621-ortus-regni.json](./32621-ortus-regni.json) |
 | Orudo Taima | 184884 | [184884-orudo-taima.json](./184884-orudo-taima.json) |
 | Orufure-ru: Koufuku no Hanataba | 130026 | [130026-orufure-ru-koufuku-no-hanataba.json](./130026-orufure-ru-koufuku-no-hanataba.json) |
+| Orul | 272653 | [272653-orul.json](./272653-orul.json) |
 | Orun | 411713 | [411713-orun.json](./411713-orun.json) |
 | Oruna | 139420 | [139420-oruna.json](./139420-oruna.json) |
 | Orwell: Deluxe Edition | 51859 | [51859-orwell-deluxe-edition.json](./51859-orwell-deluxe-edition.json) |
