@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Potions and Spells | 312820 | [312820-of-potions-and-spells.json](./312820-of-potions-and-spells.json) |
 | Of Roots and Gears | 333052 | [333052-of-roots-and-gears.json](./333052-of-roots-and-gears.json) |
 | Of Ships & Scoundrels | 110279 | [110279-of-ships-and-scoundrels.json](./110279-of-ships-and-scoundrels.json) |
+| Of the Devil | 234801 | [234801-of-the-devil.json](./234801-of-the-devil.json) |
 | Of the Devil: Episode 0 | 383570 | [383570-of-the-devil-episode-0.json](./383570-of-the-devil-episode-0.json) |
 | Of the Devil: Episode 1 | 330913 | [330913-of-the-devil-episode-1.json](./330913-of-the-devil-episode-1.json) |
 | Of the Devil: Episode 2 | 379672 | [379672-of-the-devil-episode-2.json](./379672-of-the-devil-episode-2.json) |
@@ -1234,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olav & the Lute | 131996 | [131996-olav-and-the-lute.json](./131996-olav-and-the-lute.json) |
 | Olber's Paradox | 392816 | [392816-olbers-paradox.json](./392816-olbers-paradox.json) |
 | Old Adventure | 76374 | [76374-old-adventure.json](./76374-old-adventure.json) |
+| Old Bira's Farm | 234844 | [234844-old-biras-farm.json](./234844-old-biras-farm.json) |
 | Old Boy | 251762 | [251762-old-boy.json](./251762-old-boy.json) |
 | Old Car Crusher Crane & Dump Truck Driver | 99721 | [99721-old-car-crusher-crane-and-dump-truck-driver.json](./99721-old-car-crusher-crane-and-dump-truck-driver.json) |
 | Old Coin Pusher Friends | 172958 | [172958-old-coin-pusher-friends.json](./172958-old-coin-pusher-friends.json) |
@@ -2665,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only One Burn | 121915 | [121915-only-one-burn.json](./121915-only-one-burn.json) |
 | Only One Hope | 29727 | [29727-only-one-hope.json](./29727-only-one-hope.json) |
 | Only One Mosquito | 181354 | [181354-only-one-mosquito.json](./181354-only-one-mosquito.json) |
+| Only One Night | 234802 | [234802-only-one-night.json](./234802-only-one-night.json) |
 | Only One Night | 394222 | [394222-only-one-night.json](./394222-only-one-night.json) |
 | Only One Shall Pass | 184431 | [184431-only-one-shall-pass.json](./184431-only-one-shall-pass.json) |
 | Only One Way Up | 256919 | [256919-only-one-way-up.json](./256919-only-one-way-up.json) |
