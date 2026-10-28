@@ -8415,6 +8415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminleaf Chronicles | 301068 | [301068-luminleaf-chronicles.json](./301068-luminleaf-chronicles.json) |
 | Luminosity | 35836 | [35836-luminosity.json](./35836-luminosity.json) |
 | Luminoso | 35410 | [35410-luminoso.json](./35410-luminoso.json) |
+| Luminosus | 236999 | [236999-luminosus.json](./236999-luminosus.json) |
 | Luminous | 274662 | [274662-luminous.json](./274662-luminous.json) |
 | Luminous | 290643 | [290643-luminous.json](./290643-luminous.json) |
 | Luminous | 382191 | [382191-luminous.json](./382191-luminous.json) |
