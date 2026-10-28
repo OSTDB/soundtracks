@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden* | 36272 | [36272-eden.json](./36272-eden.json) |
 | Edenbound | 295813 | [295813-edenbound.json](./295813-edenbound.json) |
 | Edenfall | 321940 | [321940-edenfall.json](./321940-edenfall.json) |
+| Edenfall: Legacy of the First Wardens | 235937 | [235937-edenfall-legacy-of-the-first-wardens.json](./235937-edenfall-legacy-of-the-first-wardens.json) |
 | Edengate: The Edge of Life | 217918 | [217918-edengate-the-edge-of-life.json](./217918-edengate-the-edge-of-life.json) |
 | Edengrad | 34968 | [34968-edengrad.json](./34968-edengrad.json) |
 | Edengrall | 129102 | [129102-edengrall.json](./129102-edengrall.json) |
