@@ -4551,6 +4551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Horizon | 41969 | [41969-deep-horizon.json](./41969-deep-horizon.json) |
 | Deep Horrors of Fishing | 323724 | [323724-deep-horrors-of-fishing.json](./323724-deep-horrors-of-fishing.json) |
 | Deep Hunger | 390443 | [390443-deep-hunger.json](./390443-deep-hunger.json) |
+| Deep Hunters | 247564 | [247564-deep-hunters.json](./247564-deep-hunters.json) |
 | Deep II: The Center of the Earth | 69793 | [69793-deep-ii-the-center-of-the-earth.json](./69793-deep-ii-the-center-of-the-earth.json) |
 | Deep in Brixen Space | 140585 | [140585-deep-in-brixen-space.json](./140585-deep-in-brixen-space.json) |
 | Deep in hell | 185448 | [185448-deep-in-hell.json](./185448-deep-in-hell.json) |
@@ -7901,6 +7902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digit Dare | 266124 | [266124-digit-dare.json](./266124-digit-dare.json) |
 | Digit Daze | 101350 | [101350-digit-daze.json](./101350-digit-daze.json) |
 | Digit Factory | 221128 | [221128-digit-factory.json](./221128-digit-factory.json) |
+| Digit Monster II | 247303 | [247303-digit-monster-ii.json](./247303-digit-monster-ii.json) |
 | Digital Ange: Dennou Tenshi SS | 258872 | [258872-digital-ange-dennou-tenshi-ss.json](./258872-digital-ange-dennou-tenshi-ss.json) |
 | Digital Audio Wasteland | 297818 | [297818-digital-audio-wasteland.json](./297818-digital-audio-wasteland.json) |
 | Digital Bird Playground | 124255 | [124255-digital-bird-playground.json](./124255-digital-bird-playground.json) |
