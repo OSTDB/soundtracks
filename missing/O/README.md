@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Pop!: Calypso Collision | 390478 | [390478-ocean-pop-calypso-collision.json](./390478-ocean-pop-calypso-collision.json) |
 | Ocean Pressure | 269214 | [269214-ocean-pressure.json](./269214-ocean-pressure.json) |
 | Ocean Protector | 264104 | [264104-ocean-protector.json](./264104-ocean-protector.json) |
+| Ocean Punk | 242581 | [242581-ocean-punk.json](./242581-ocean-punk.json) |
 | Ocean Racer | 354583 | [354583-ocean-racer.json](./354583-ocean-racer.json) |
 | Ocean Raft Simulator & Survival | 380706 | [380706-ocean-raft-simulator-and-survival.json](./380706-ocean-raft-simulator-and-survival.json) |
 | Ocean Riders | 201682 | [201682-ocean-riders.json](./201682-ocean-riders.json) |
