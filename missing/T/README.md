@@ -16859,6 +16859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatre of War: Collection | 54198 | [54198-theatre-of-war-collection.json](./54198-theatre-of-war-collection.json) |
 | Theatre People | 57478 | [57478-theatre-people.json](./57478-theatre-people.json) |
 | Theatre Tales | 117666 | [117666-theatre-tales.json](./117666-theatre-tales.json) |
+| Theatre Wars: Goraku no Dendou | 247566 | [247566-theatre-wars-goraku-no-dendou.json](./247566-theatre-wars-goraku-no-dendou.json) |
 | Theatrhythm Dragon Quest | 60767 | [60767-theatrhythm-dragon-quest.json](./60767-theatrhythm-dragon-quest.json) |
 | Theatrhythm Final Bar Line | 217556 | [217556-theatrhythm-final-bar-line.json](./217556-theatrhythm-final-bar-line.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Collector's Edition | 89895 | [89895-theatrhythm-final-fantasy-curtain-call-collectors-edition.json](./89895-theatrhythm-final-fantasy-curtain-call-collectors-edition.json) |
@@ -21493,6 +21494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom and Jerry | 218399 | [218399-tom-and-jerry.json](./218399-tom-and-jerry.json) |
 | Tom and Jerry | 317063 | [317063-tom-and-jerry.json](./317063-tom-and-jerry.json) |
 | Tom and Jerry | 8025 | [8025-tom-and-jerry.json](./8025-tom-and-jerry.json) |
+| Tom and Jerry 3 | 247299 | [247299-tom-and-jerry-3.json](./247299-tom-and-jerry-3.json) |
 | Tom and Jerry Cheese Chase | 8044 | [8044-tom-and-jerry-cheese-chase.json](./8044-tom-and-jerry-cheese-chase.json) |
 | Tom and Jerry in House Trap | 368636 | [368636-tom-and-jerry-in-house-trap.json](./368636-tom-and-jerry-in-house-trap.json) |
 | Tom and Jerry in House Trap | 8032 | [8032-tom-and-jerry-in-house-trap.json](./8032-tom-and-jerry-in-house-trap.json) |
@@ -23537,6 +23539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Tactics Arena | 285534 | [285534-tower-tactics-arena.json](./285534-tower-tactics-arena.json) |
 | Tower Tactics II | 374368 | [374368-tower-tactics-ii.json](./374368-tower-tactics-ii.json) |
 | Tower Tactics: Astral Siege | 336624 | [336624-tower-tactics-astral-siege.json](./336624-tower-tactics-astral-siege.json) |
+| Tower Tactics: Celestial Dawn | 247699 | [247699-tower-tactics-celestial-dawn.json](./247699-tower-tactics-celestial-dawn.json) |
 | Tower Tank: TD Reversal | 113396 | [113396-tower-tank-td-reversal.json](./113396-tower-tank-td-reversal.json) |
 | Tower to Heaven | 173313 | [173313-tower-to-heaven.json](./173313-tower-to-heaven.json) |
 | Tower Up | 254631 | [254631-tower-up.json](./254631-tower-up.json) |
@@ -28561,6 +28564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Coves | 169315 | [169315-twin-coves.json](./169315-twin-coves.json) |
 | Twin Dragon | 2536 | [2536-twin-dragon.json](./2536-twin-dragon.json) |
 | Twin Dragons | 159356 | [159356-twin-dragons.json](./159356-twin-dragons.json) |
+| Twin Eagle | 247300 | [247300-twin-eagle.json](./247300-twin-eagle.json) |
 | Twin Eagle | 68355 | [68355-twin-eagle.json](./68355-twin-eagle.json) |
 | Twin Eagle II | 70389 | [70389-twin-eagle-ii.json](./70389-twin-eagle-ii.json) |
 | Twin Fighters X | 358652 | [358652-twin-fighters-x.json](./358652-twin-fighters-x.json) |
