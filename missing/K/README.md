@@ -3853,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight of the Keep | 379184 | [379184-knight-of-the-keep.json](./379184-knight-of-the-keep.json) |
 | Knight of the Lions | 163709 | [163709-knight-of-the-lions.json](./163709-knight-of-the-lions.json) |
 | Knight of the Living Dead | 191885 | [191885-knight-of-the-living-dead.json](./191885-knight-of-the-living-dead.json) |
+| Knight of the Living Dead | 242733 | [242733-knight-of-the-living-dead.json](./242733-knight-of-the-living-dead.json) |
 | Knight of the Lust Temple | 134625 | [134625-knight-of-the-lust-temple.json](./134625-knight-of-the-lust-temple.json) |
 | Knight of the Parking Lot | 158123 | [158123-knight-of-the-parking-lot.json](./158123-knight-of-the-parking-lot.json) |
 | Knight of Valour 3 HD | 285585 | [285585-knight-of-valour-3-hd.json](./285585-knight-of-valour-3-hd.json) |
