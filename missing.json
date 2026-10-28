@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-28T18:23:06.805Z",
-  "total_missing": 275676,
+  "generated_at": "2026-10-28T18:37:54.924Z",
+  "total_missing": 275726,
   "games": [
     {
       "igdb_id": 191680,
@@ -19105,6 +19105,11 @@
       "igdb_id": 135835,
       "game_name": "A Moth Argent",
       "file": "missing/A/135835-a-moth-argent.json"
+    },
+    {
+      "igdb_id": 240040,
+      "game_name": "A Mountain of One",
+      "file": "missing/A/240040-a-mountain-of-one.json"
     },
     {
       "igdb_id": 261846,
@@ -151237,6 +151242,11 @@
       "file": "missing/B/191003-bongirl.json"
     },
     {
+      "igdb_id": 240026,
+      "game_name": "Bongo",
+      "file": "missing/B/240026-bongo.json"
+    },
+    {
       "igdb_id": 334486,
       "game_name": "Bongo Cat",
       "file": "missing/B/334486-bongo-cat.json"
@@ -154215,6 +154225,11 @@
       "igdb_id": 309968,
       "game_name": "Botan's Bird Beats",
       "file": "missing/B/309968-botans-bird-beats.json"
+    },
+    {
+      "igdb_id": 240028,
+      "game_name": "Botanic",
+      "file": "missing/B/240028-botanic.json"
     },
     {
       "igdb_id": 281961,
@@ -171932,6 +171947,11 @@
       "file": "missing/B/231221-burger-chef-tycoon-extended-edition.json"
     },
     {
+      "igdb_id": 240402,
+      "game_name": "Burger Chef Tycoon Multiplayer Mode",
+      "file": "missing/B/240402-burger-chef-tycoon-multiplayer-mode.json"
+    },
+    {
       "igdb_id": 250363,
       "game_name": "Burger Chef Tycoon: Co-op Edition",
       "file": "missing/B/250363-burger-chef-tycoon-co-op-edition.json"
@@ -171955,6 +171975,11 @@
       "igdb_id": 273629,
       "game_name": "Burger Chef Tycoon: GOTY Edition",
       "file": "missing/B/273629-burger-chef-tycoon-goty-edition.json"
+    },
+    {
+      "igdb_id": 240404,
+      "game_name": "Burger Chef Tycoon: Multiplayer Edition",
+      "file": "missing/B/240404-burger-chef-tycoon-multiplayer-edition.json"
     },
     {
       "igdb_id": 227704,
@@ -173447,9 +173472,19 @@
       "file": "missing/B/213951-bus-simulator-21-man-bus-pack.json"
     },
     {
+      "igdb_id": 240037,
+      "game_name": "Bus Simulator 21: Next Stop",
+      "file": "missing/B/240037-bus-simulator-21-next-stop.json"
+    },
+    {
       "igdb_id": 249892,
       "game_name": "Bus Simulator 21: Next Stop - Ebusco Bus Pack",
       "file": "missing/B/249892-bus-simulator-21-next-stop-ebusco-bus-pack.json"
+    },
+    {
+      "igdb_id": 240038,
+      "game_name": "Bus Simulator 21: Next Stop - Gold Edition",
+      "file": "missing/B/240038-bus-simulator-21-next-stop-gold-edition.json"
     },
     {
       "igdb_id": 263040,
@@ -222830,6 +222865,11 @@
       "igdb_id": 31329,
       "game_name": "Cockroach Simulator",
       "file": "missing/C/31329-cockroach-simulator.json"
+    },
+    {
+      "igdb_id": 240022,
+      "game_name": "Cockroach Simulator: Household Survivor",
+      "file": "missing/C/240022-cockroach-simulator-household-survivor.json"
     },
     {
       "igdb_id": 31361,
@@ -316067,6 +316107,11 @@
       "file": "missing/D/61872-doggins.json"
     },
     {
+      "igdb_id": 240032,
+      "game_name": "Doggnation",
+      "file": "missing/D/240032-doggnation.json"
+    },
+    {
       "igdb_id": 287098,
       "game_name": "Doggo",
       "file": "missing/D/287098-doggo.json"
@@ -323550,6 +323595,11 @@
       "igdb_id": 227156,
       "game_name": "Doraemon Story of Season: Friends of the Great Kingdom - Winter Tales",
       "file": "missing/D/227156-doraemon-story-of-season-friends-of-the-great-kingdom-winter-tales.json"
+    },
+    {
+      "igdb_id": 240401,
+      "game_name": "Doraemon Story of Seasons: FGK DLC Pack 3",
+      "file": "missing/D/240401-doraemon-story-of-seasons-fgk-dlc-pack-3.json"
     },
     {
       "igdb_id": 206815,
@@ -392732,6 +392782,11 @@
       "file": "missing/F/215312-family-chess-extended-edition.json"
     },
     {
+      "igdb_id": 240411,
+      "game_name": "Family Chess: GOTY Edition",
+      "file": "missing/F/240411-family-chess-goty-edition.json"
+    },
+    {
       "igdb_id": 246647,
       "game_name": "Family Chess: Magnificent Edition",
       "file": "missing/F/246647-family-chess-magnificent-edition.json"
@@ -404612,6 +404667,31 @@
       "file": "missing/F/240317-fifa-09.json"
     },
     {
+      "igdb_id": 240394,
+      "game_name": "FIFA 13",
+      "file": "missing/F/240394-fifa-13.json"
+    },
+    {
+      "igdb_id": 240397,
+      "game_name": "FIFA 13",
+      "file": "missing/F/240397-fifa-13.json"
+    },
+    {
+      "igdb_id": 240418,
+      "game_name": "FIFA 14",
+      "file": "missing/F/240418-fifa-14.json"
+    },
+    {
+      "igdb_id": 240419,
+      "game_name": "FIFA 14",
+      "file": "missing/F/240419-fifa-14.json"
+    },
+    {
+      "igdb_id": 240421,
+      "game_name": "FIFA 14",
+      "file": "missing/F/240421-fifa-14.json"
+    },
+    {
       "igdb_id": 240422,
       "game_name": "FIFA 14",
       "file": "missing/F/240422-fifa-14.json"
@@ -404620,6 +404700,11 @@
       "igdb_id": 240417,
       "game_name": "FIFA 14 Mobile",
       "file": "missing/F/240417-fifa-14-mobile.json"
+    },
+    {
+      "igdb_id": 240420,
+      "game_name": "FIFA 14: Legacy Edition",
+      "file": "missing/F/240420-fifa-14-legacy-edition.json"
     },
     {
       "igdb_id": 240426,
@@ -405007,9 +405092,24 @@
       "file": "missing/F/240381-fifa-soccer-11.json"
     },
     {
+      "igdb_id": 240382,
+      "game_name": "FIFA Soccer 11",
+      "file": "missing/F/240382-fifa-soccer-11.json"
+    },
+    {
       "igdb_id": 240383,
       "game_name": "FIFA Soccer 11",
       "file": "missing/F/240383-fifa-soccer-11.json"
+    },
+    {
+      "igdb_id": 240384,
+      "game_name": "FIFA Soccer 11",
+      "file": "missing/F/240384-fifa-soccer-11.json"
+    },
+    {
+      "igdb_id": 240385,
+      "game_name": "FIFA Soccer 11",
+      "file": "missing/F/240385-fifa-soccer-11.json"
     },
     {
       "igdb_id": 503,
@@ -405017,9 +405117,34 @@
       "file": "missing/F/503-fifa-soccer-11.json"
     },
     {
+      "igdb_id": 240386,
+      "game_name": "FIFA Soccer 12",
+      "file": "missing/F/240386-fifa-soccer-12.json"
+    },
+    {
+      "igdb_id": 240387,
+      "game_name": "FIFA Soccer 12",
+      "file": "missing/F/240387-fifa-soccer-12.json"
+    },
+    {
+      "igdb_id": 240388,
+      "game_name": "FIFA Soccer 12",
+      "file": "missing/F/240388-fifa-soccer-12.json"
+    },
+    {
       "igdb_id": 240390,
       "game_name": "FIFA Soccer 12",
       "file": "missing/F/240390-fifa-soccer-12.json"
+    },
+    {
+      "igdb_id": 240391,
+      "game_name": "FIFA Soccer 12",
+      "file": "missing/F/240391-fifa-soccer-12.json"
+    },
+    {
+      "igdb_id": 240392,
+      "game_name": "FIFA Soccer 12",
+      "file": "missing/F/240392-fifa-soccer-12.json"
     },
     {
       "igdb_id": 2946,
@@ -405030,6 +405155,31 @@
       "igdb_id": 2153,
       "game_name": "FIFA Soccer 13",
       "file": "missing/F/2153-fifa-soccer-13.json"
+    },
+    {
+      "igdb_id": 240395,
+      "game_name": "FIFA Soccer 13",
+      "file": "missing/F/240395-fifa-soccer-13.json"
+    },
+    {
+      "igdb_id": 240396,
+      "game_name": "FIFA Soccer 13",
+      "file": "missing/F/240396-fifa-soccer-13.json"
+    },
+    {
+      "igdb_id": 240400,
+      "game_name": "FIFA Soccer 13",
+      "file": "missing/F/240400-fifa-soccer-13.json"
+    },
+    {
+      "igdb_id": 240409,
+      "game_name": "FIFA Soccer 13",
+      "file": "missing/F/240409-fifa-soccer-13.json"
+    },
+    {
+      "igdb_id": 240413,
+      "game_name": "FIFA Soccer 13",
+      "file": "missing/F/240413-fifa-soccer-13.json"
     },
     {
       "igdb_id": 240414,
@@ -425122,6 +425272,11 @@
       "file": "missing/F/268556-food-truck-tycoon-goty-edition.json"
     },
     {
+      "igdb_id": 240407,
+      "game_name": "Food Truck Tycoon: Multiplayer Edition",
+      "file": "missing/F/240407-food-truck-tycoon-multiplayer-edition.json"
+    },
+    {
       "igdb_id": 343329,
       "game_name": "Food Truck VR",
       "file": "missing/F/343329-food-truck-vr.json"
@@ -433665,6 +433820,11 @@
       "igdb_id": 130278,
       "game_name": "FPS Training",
       "file": "missing/F/130278-fps-training.json"
+    },
+    {
+      "igdb_id": 240389,
+      "game_name": "FPS War",
+      "file": "missing/F/240389-fps-war.json"
     },
     {
       "igdb_id": 240880,
@@ -486290,6 +486450,11 @@
       "igdb_id": 196995,
       "game_name": "Greyhill Incident",
       "file": "missing/G/196995-greyhill-incident.json"
+    },
+    {
+      "igdb_id": 240035,
+      "game_name": "Greyhill Incident: Abducted Edition",
+      "file": "missing/G/240035-greyhill-incident-abducted-edition.json"
     },
     {
       "igdb_id": 252682,
@@ -580465,6 +580630,11 @@
       "igdb_id": 187168,
       "game_name": "It follows you",
       "file": "missing/I/187168-it-follows-you.json"
+    },
+    {
+      "igdb_id": 240018,
+      "game_name": "It Gets So Lonely Here",
+      "file": "missing/I/240018-it-gets-so-lonely-here.json"
     },
     {
       "igdb_id": 338731,
@@ -758442,6 +758612,11 @@
       "file": "missing/M/182883-must-love-jaws.json"
     },
     {
+      "igdb_id": 240036,
+      "game_name": "Must Pop Words",
+      "file": "missing/M/240036-must-pop-words.json"
+    },
+    {
       "igdb_id": 67214,
       "game_name": "Must. Eat. Birds!",
       "file": "missing/M/67214-must-eat-birds.json"
@@ -808262,6 +808437,11 @@
       "file": "missing/O/14481-oh-no-more-lemmings.json"
     },
     {
+      "igdb_id": 240416,
+      "game_name": "Oh No! More Lemmings",
+      "file": "missing/O/240416-oh-no-more-lemmings.json"
+    },
+    {
       "igdb_id": 38294,
       "game_name": "Oh No! More Zombies Ate My Neighbors",
       "file": "missing/O/38294-oh-no-more-zombies-ate-my-neighbors.json"
@@ -837565,6 +837745,11 @@
       "igdb_id": 127816,
       "game_name": "Paradise Killer",
       "file": "missing/P/127816-paradise-killer.json"
+    },
+    {
+      "igdb_id": 240033,
+      "game_name": "Paradise Killer: Collector's Edition",
+      "file": "missing/P/240033-paradise-killer-collectors-edition.json"
     },
     {
       "igdb_id": 154518,
@@ -878662,6 +878847,11 @@
       "file": "missing/P/115653-pokemon-shield.json"
     },
     {
+      "igdb_id": 240024,
+      "game_name": "Pokémon Shield + Expansion Pass",
+      "file": "missing/P/240024-pokemon-shield-expansion-pass.json"
+    },
+    {
       "igdb_id": 252783,
       "game_name": "Pokémon Shield: The Crown Tundra",
       "file": "missing/P/252783-pokemon-shield-the-crown-tundra.json"
@@ -878850,6 +879040,11 @@
       "igdb_id": 165160,
       "game_name": "Pokémon Sword & Shield GBA",
       "file": "missing/P/165160-pokemon-sword-and-shield-gba.json"
+    },
+    {
+      "igdb_id": 240027,
+      "game_name": "Pokémon Sword + Expansion Pass",
+      "file": "missing/P/240027-pokemon-sword-expansion-pass.json"
     },
     {
       "igdb_id": 294432,
@@ -927487,6 +927682,11 @@
       "file": "missing/R/47448-raystorm-hd.json"
     },
     {
+      "igdb_id": 240039,
+      "game_name": "RayStorm x RayCrisis HD Collection",
+      "file": "missing/R/240039-raystorm-x-raycrisis-hd-collection.json"
+    },
+    {
       "igdb_id": 92647,
       "game_name": "Rayxanber",
       "file": "missing/R/92647-rayxanber.json"
@@ -973862,6 +974062,11 @@
       "file": "missing/S/404284-s-n-i-p-e-r-hunter-scope-enhancement-edition.json"
     },
     {
+      "igdb_id": 240408,
+      "game_name": "S.N.I.P.E.R.: Hunter Scope - Extended Edition",
+      "file": "missing/S/240408-s-n-i-p-e-r-hunter-scope-extended-edition.json"
+    },
+    {
       "igdb_id": 333723,
       "game_name": "S.N.I.P.E.R.: Hunter Scope - Full Edition",
       "file": "missing/S/333723-s-n-i-p-e-r-hunter-scope-full-edition.json"
@@ -999890,6 +1000095,11 @@
       "igdb_id": 319081,
       "game_name": "Severed",
       "file": "missing/S/319081-severed.json"
+    },
+    {
+      "igdb_id": 240415,
+      "game_name": "Severed Lands",
+      "file": "missing/S/240415-severed-lands.json"
     },
     {
       "igdb_id": 342754,
@@ -1066592,6 +1066802,11 @@
       "file": "missing/S/359466-spider-pong.json"
     },
     {
+      "igdb_id": 240029,
+      "game_name": "Spider Queen Cave",
+      "file": "missing/S/240029-spider-queen-cave.json"
+    },
+    {
       "igdb_id": 316801,
       "game_name": "Spider Riders: Battle for Arachna",
       "file": "missing/S/316801-spider-riders-battle-for-arachna.json"
@@ -1108695,6 +1108910,11 @@
       "igdb_id": 112984,
       "game_name": "Super Hero Fight Club: Reloaded",
       "file": "missing/S/112984-super-hero-fight-club-reloaded.json"
+    },
+    {
+      "igdb_id": 240406,
+      "game_name": "Super Hero Fighting Legends: Anime Mortal Battle",
+      "file": "missing/S/240406-super-hero-fighting-legends-anime-mortal-battle.json"
     },
     {
       "igdb_id": 207875,
@@ -1192720,6 +1192940,11 @@
       "igdb_id": 375210,
       "game_name": "The Night Crawler",
       "file": "missing/T/375210-the-night-crawler.json"
+    },
+    {
+      "igdb_id": 240031,
+      "game_name": "The Night Driver",
+      "file": "missing/T/240031-the-night-driver.json"
     },
     {
       "igdb_id": 134493,
@@ -1278507,6 +1278732,11 @@
       "file": "missing/U/12430-ultimate-domain.json"
     },
     {
+      "igdb_id": 240025,
+      "game_name": "Ultimate Double Dragon",
+      "file": "missing/U/240025-ultimate-double-dragon.json"
+    },
+    {
       "igdb_id": 86894,
       "game_name": "Ultimate Dragon Simulator",
       "file": "missing/U/86894-ultimate-dragon-simulator.json"
@@ -1287632,6 +1287862,11 @@
       "file": "missing/U/132312-unmetal.json"
     },
     {
+      "igdb_id": 240034,
+      "game_name": "UnMetal: Collector's Edition",
+      "file": "missing/U/240034-unmetal-collectors-edition.json"
+    },
+    {
       "igdb_id": 173099,
       "game_name": "UnMetal: UnDeluxe Edition",
       "file": "missing/U/173099-unmetal-undeluxe-edition.json"
@@ -1290842,6 +1291077,11 @@
       "file": "missing/U/240226-urban-flow-complete-edition.json"
     },
     {
+      "igdb_id": 240405,
+      "game_name": "Urban Flow: Deluxe Edition",
+      "file": "missing/U/240405-urban-flow-deluxe-edition.json"
+    },
+    {
       "igdb_id": 273302,
       "game_name": "Urban Flow: Diamond Edition",
       "file": "missing/U/273302-urban-flow-diamond-edition.json"
@@ -1290925,6 +1291165,11 @@
       "igdb_id": 304788,
       "game_name": "Urban Flow: Street Symphony",
       "file": "missing/U/304788-urban-flow-street-symphony.json"
+    },
+    {
+      "igdb_id": 240403,
+      "game_name": "Urban Flow: Streets Supplement",
+      "file": "missing/U/240403-urban-flow-streets-supplement.json"
     },
     {
       "igdb_id": 238353,
@@ -1302015,6 +1302260,11 @@
       "igdb_id": 100048,
       "game_name": "Vikings",
       "file": "missing/V/100048-vikings.json"
+    },
+    {
+      "igdb_id": 240398,
+      "game_name": "Vikings and Thrones",
+      "file": "missing/V/240398-vikings-and-thrones.json"
     },
     {
       "igdb_id": 343265,
