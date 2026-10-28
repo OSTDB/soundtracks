@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisenryaku: Master Combat | 166548 | [166548-daisenryaku-master-combat.json](./166548-daisenryaku-master-combat.json) |
 | Daisenryaku: Players's Spirit | 166549 | [166549-daisenryaku-playerss-spirit.json](./166549-daisenryaku-playerss-spirit.json) |
 | Daish Assault - The Videogame | 36735 | [36735-daish-assault-the-videogame.json](./36735-daish-assault-the-videogame.json) |
+| Daisho: Survival of a Samurai | 254710 | [254710-daisho-survival-of-a-samurai.json](./254710-daisho-survival-of-a-samurai.json) |
 | Daisia | 74739 | [74739-daisia.json](./74739-daisia.json) |
 | Daisu-Kiss | 65886 | [65886-daisu-kiss.json](./65886-daisu-kiss.json) |
 | Daisy Chain | 104137 | [104137-daisy-chain.json](./104137-daisy-chain.json) |
@@ -3499,7 +3500,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlined. | 410485 | [410485-deadlined.json](./410485-deadlined.json) |
 | Deadliners | 46489 | [46489-deadliners.json](./46489-deadliners.json) |
 | Deadlings: Rotten Edition | 26822 | [26822-deadlings-rotten-edition.json](./26822-deadlings-rotten-edition.json) |
-| Deadlink | 204239 | [204239-deadlink.json](./204239-deadlink.json) |
 | DeadLock | 166073 | [166073-deadlock.json](./166073-deadlock.json) |
 | Deadlock: Planetary Conquest | 10171 | [10171-deadlock-planetary-conquest.json](./10171-deadlock-planetary-conquest.json) |
 | Deadlocked | 177277 | [177277-deadlocked.json](./177277-deadlocked.json) |
@@ -6743,6 +6743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Pomu and the Tatsuki Manor Mystery | 283333 | [283333-detective-pomu-and-the-tatsuki-manor-mystery.json](./283333-detective-pomu-and-the-tatsuki-manor-mystery.json) |
 | Detective Puz | 133907 | [133907-detective-puz.json](./133907-detective-puz.json) |
 | Detective R & Prophet J | 402369 | [402369-detective-r-and-prophet-j.json](./402369-detective-r-and-prophet-j.json) |
+| Detective Reborn Bundle | 254705 | [254705-detective-reborn-bundle.json](./254705-detective-reborn-bundle.json) |
 | Detective Riddles: Sherlock's Heritage | 91096 | [91096-detective-riddles-sherlocks-heritage.json](./91096-detective-riddles-sherlocks-heritage.json) |
 | Detective Riddles: Sherlock's Heritage 2 | 100347 | [100347-detective-riddles-sherlocks-heritage-2.json](./100347-detective-riddles-sherlocks-heritage-2.json) |
 | Detective Rosie Morgan: Death at a Dinner Party | 236827 | [236827-detective-rosie-morgan-death-at-a-dinner-party.json](./236827-detective-rosie-morgan-death-at-a-dinner-party.json) |
@@ -13539,7 +13540,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Protocol | 277315 | [277315-dread-protocol.json](./277315-dread-protocol.json) |
 | Dread Rune | 199982 | [199982-dread-rune.json](./199982-dread-rune.json) |
 | Dread Station | 86760 | [86760-dread-station.json](./86760-dread-station.json) |
-| Dread Templar | 144585 | [144585-dread-templar.json](./144585-dread-templar.json) |
 | Dread the Rabbit | 183595 | [183595-dread-the-rabbit.json](./183595-dread-the-rabbit.json) |
 | Dread Tomb | 317785 | [317785-dread-tomb.json](./317785-dread-tomb.json) |
 | Dread Weight | 249334 | [249334-dread-weight.json](./249334-dread-weight.json) |
