@@ -7073,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Aardman Jigsaws: Wallace & Gromit - Vacation | 295131 | [295131-pixel-puzzles-aardman-jigsaws-wallace-and-gromit-vacation.json](./295131-pixel-puzzles-aardman-jigsaws-wallace-and-gromit-vacation.json) |
 | Pixel Puzzles Christmas Jigsaws | 389397 | [389397-pixel-puzzles-christmas-jigsaws.json](./389397-pixel-puzzles-christmas-jigsaws.json) |
 | Pixel Puzzles Fantasy Jigsaws | 389396 | [389396-pixel-puzzles-fantasy-jigsaws.json](./389396-pixel-puzzles-fantasy-jigsaws.json) |
+| Pixel Puzzles Illustrations & Anime: Jigsaw Pack - Variety Pack XS | 263868 | [263868-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-xs.json](./263868-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-xs.json) |
 | Pixel Puzzles Japan Jigsaws | 389414 | [389414-pixel-puzzles-japan-jigsaws.json](./389414-pixel-puzzles-japan-jigsaws.json) |
 | Pixel Puzzles Junior | 33190 | [33190-pixel-puzzles-junior.json](./33190-pixel-puzzles-junior.json) |
 | Pixel Puzzles Mosaics | 28746 | [28746-pixel-puzzles-mosaics.json](./28746-pixel-puzzles-mosaics.json) |
@@ -14001,6 +14002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Zircon | 416136 | [416136-project-zircon.json](./416136-project-zircon.json) |
 | Project Zombie | 345672 | [345672-project-zombie.json](./345672-project-zombie.json) |
 | Project Zomboid | 3189 | [3189-project-zomboid.json](./3189-project-zomboid.json) |
+| Project_03 | 264197 | [264197-project-03.json](./264197-project-03.json) |
 | Project_8 | 387524 | [387524-project-8.json](./387524-project-8.json) |
 | Project_Arktik | 410881 | [410881-project-arktik.json](./410881-project-arktik.json) |
 | Project_Escape | 133418 | [133418-project-escape.json](./133418-project-escape.json) |
@@ -14495,6 +14497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychdive. | 366334 | [366334-psychdive.json](./366334-psychdive.json) |
 | Psyche Metal: The Bleeding | 141070 | [141070-psyche-metal-the-bleeding.json](./141070-psyche-metal-the-bleeding.json) |
 | Psyche Soldier VR | 30097 | [30097-psyche-soldier-vr.json](./30097-psyche-soldier-vr.json) |
+| Psyche60s | 264170 | [264170-psyche60s.json](./264170-psyche60s.json) |
 | Psychedelica of the Ashen Hawk | 41824 | [41824-psychedelica-of-the-ashen-hawk.json](./41824-psychedelica-of-the-ashen-hawk.json) |
 | Psychiatric Hospital | 245978 | [245978-psychiatric-hospital.json](./245978-psychiatric-hospital.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Boys Dating Sim | 336558 | [336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json](./336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json) |
