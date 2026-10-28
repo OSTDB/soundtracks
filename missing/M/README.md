@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Project Nexus: Legacy of the S-3LF Eater | 269488 | [269488-madness-project-nexus-legacy-of-the-s-3lf-eater.json](./269488-madness-project-nexus-legacy-of-the-s-3lf-eater.json) |
 | Madness Retaliation | 123425 | [123425-madness-retaliation.json](./123425-madness-retaliation.json) |
 | Madness Starts Young | 386873 | [386873-madness-starts-young.json](./386873-madness-starts-young.json) |
+| Madness: Project Nexus - Classic | 239826 | [239826-madness-project-nexus-classic.json](./239826-madness-project-nexus-classic.json) |
 | Madnessarum | 285318 | [285318-madnessarum.json](./285318-madnessarum.json) |
 | MadnessMadnessMadness | 283738 | [283738-madnessmadnessmadness.json](./283738-madnessmadnessmadness.json) |
 | Mado | 364841 | [364841-mado.json](./364841-mado.json) |
@@ -1116,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Pot&ter Battlegrounds | 150500 | [150500-magic-pot-and-ter-battlegrounds.json](./150500-magic-pot-and-ter-battlegrounds.json) |
 | Magic Potion Destroyer | 55227 | [55227-magic-potion-destroyer.json](./55227-magic-potion-destroyer.json) |
 | Magic Potion Explorer | 33550 | [33550-magic-potion-explorer.json](./33550-magic-potion-explorer.json) |
+| Magic Potion Liberators | 239811 | [239811-magic-potion-liberators.json](./239811-magic-potion-liberators.json) |
 | Magic Potion Stories | 252666 | [252666-magic-potion-stories.json](./252666-magic-potion-stories.json) |
 | Magic Purple | 251706 | [251706-magic-purple.json](./251706-magic-purple.json) |
 | Magic Pussy: Chapter 1 | 244719 | [244719-magic-pussy-chapter-1.json](./244719-magic-pussy-chapter-1.json) |
@@ -11490,6 +11492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minos | 370704 | [370704-minos.json](./370704-minos.json) |
 | Minos Dungeon | 349426 | [349426-minos-dungeon.json](./349426-minos-dungeon.json) |
 | Minos Starfighter VR | 104639 | [104639-minos-starfighter-vr.json](./104639-minos-starfighter-vr.json) |
+| Minos Station: Escape Room | 239808 | [239808-minos-station-escape-room.json](./239808-minos-station-escape-room.json) |
 | Minos Trials | 392173 | [392173-minos-trials.json](./392173-minos-trials.json) |
 | Minos: Home A-Labyrinth | 381905 | [381905-minos-home-a-labyrinth.json](./381905-minos-home-a-labyrinth.json) |
 | Minotaur | 305839 | [305839-minotaur.json](./305839-minotaur.json) |
@@ -17604,6 +17607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Fairy Princess | 415014 | [415014-my-fairy-princess.json](./415014-my-fairy-princess.json) |
 | My Faithful and Loyal Wife Would Never Cheat on Me | 278413 | [278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json](./278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json) |
 | My Fake Boyfriend | 299457 | [299457-my-fake-boyfriend.json](./299457-my-fake-boyfriend.json) |
+| My Fake Goblin Wife | 239803 | [239803-my-fake-goblin-wife.json](./239803-my-fake-goblin-wife.json) |
 | My Fake Marriage | 299500 | [299500-my-fake-marriage.json](./299500-my-fake-marriage.json) |
 | My Family Tree | 379169 | [379169-my-family-tree.json](./379169-my-family-tree.json) |
 | My Fantasy Hostess Club | 310243 | [310243-my-fantasy-hostess-club.json](./310243-my-fantasy-hostess-club.json) |
@@ -17910,6 +17914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Life Changed | 165708 | [165708-my-life-changed.json](./165708-my-life-changed.json) |
 | My Life Coach | 240942 | [240942-my-life-coach.json](./240942-my-life-coach.json) |
 | My Life in a Monster Girl Paradise | 403025 | [403025-my-life-in-a-monster-girl-paradise.json](./403025-my-life-in-a-monster-girl-paradise.json) |
+| My Life in New York | 239467 | [239467-my-life-in-new-york.json](./239467-my-life-in-new-york.json) |
 | My Life My Love: Boku no Yume Watashi no Negai | 48814 | [48814-my-life-my-love-boku-no-yume-watashi-no-negai.json](./48814-my-life-my-love-boku-no-yume-watashi-no-negai.json) |
 | My Life of Repayment | 249960 | [249960-my-life-of-repayment.json](./249960-my-life-of-repayment.json) |
 | My Life with a Lonely Beauty | 266923 | [266923-my-life-with-a-lonely-beauty.json](./266923-my-life-with-a-lonely-beauty.json) |
