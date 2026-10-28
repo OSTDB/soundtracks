@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jin Ping Mei | 303592 | [303592-jin-ping-mei.json](./303592-jin-ping-mei.json) |
 | Jìn Shì Shū | 373705 | [373705-jin-shi-shu.json](./373705-jin-shi-shu.json) |
 | Jinagan | 378610 | [378610-jinagan.json](./378610-jinagan.json) |
+| Jīnchǎnchǎn zhī Zhàn | 279168 | [279168-jinchanchan-zhi-zhan.json](./279168-jinchanchan-zhi-zhan.json) |
 | Jinchou | 337480 | [337480-jinchou.json](./337480-jinchou.json) |
 | Jing 'an District Copstories | 157043 | [157043-jing-an-district-copstories.json](./157043-jing-an-district-copstories.json) |
 | Jìng Shìjiè | 188441 | [188441-jing-shijie.json](./188441-jing-shijie.json) |
