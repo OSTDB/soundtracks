@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nationwide Academic Check Junior High Level | 399663 | [399663-nationwide-academic-check-junior-high-level.json](./399663-nationwide-academic-check-junior-high-level.json) |
 | NationZero | 422650 | [422650-nationzero.json](./422650-nationzero.json) |
 | Native | 270274 | [270274-native.json](./270274-native.json) |
+| Native Hunter | 235915 | [235915-native-hunter.json](./235915-native-hunter.json) |
 | Natives | 250753 | [250753-natives.json](./250753-natives.json) |
 | NATO Commander | 24988 | [24988-nato-commander.json](./24988-nato-commander.json) |
 | Nato defense | 40991 | [40991-nato-defense.json](./40991-nato-defense.json) |
@@ -2898,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Slippery Samurai | 169715 | [169715-new-slippery-samurai.json](./169715-new-slippery-samurai.json) |
 | New Solitaire | 88871 | [88871-new-solitaire.json](./88871-new-solitaire.json) |
 | New Solitaire Card Game | 96973 | [96973-new-solitaire-card-game.json](./96973-new-solitaire-card-game.json) |
+| New Spring: Survival | 235907 | [235907-new-spring-survival.json](./235907-new-spring-survival.json) |
 | New Star Cricket | 234614 | [234614-new-star-cricket.json](./234614-new-star-cricket.json) |
 | New Star Grand Prix | 67064 | [67064-new-star-grand-prix.json](./67064-new-star-grand-prix.json) |
 | New Star Soccer | 7674 | [7674-new-star-soccer.json](./7674-new-star-soccer.json) |
@@ -4939,6 +4941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Fear Downhill Mountain Biking | 4654 | [4654-no-fear-downhill-mountain-biking.json](./4654-no-fear-downhill-mountain-biking.json) |
 | No Final Night: Protect the Sponk Can | 410918 | [410918-no-final-night-protect-the-sponk-can.json](./410918-no-final-night-protect-the-sponk-can.json) |
 | No Flowers in Arizona: Rust Red Vivarium | 410061 | [410061-no-flowers-in-arizona-rust-red-vivarium.json](./410061-no-flowers-in-arizona-rust-red-vivarium.json) |
+| No Fly Drone | 235932 | [235932-no-fly-drone.json](./235932-no-fly-drone.json) |
 | No Food No Drink | 338752 | [338752-no-food-no-drink.json](./338752-no-food-no-drink.json) |
 | No Food? | 373261 | [373261-no-food.json](./373261-no-food.json) |
 | No Forgiveness | 365147 | [365147-no-forgiveness.json](./365147-no-forgiveness.json) |
