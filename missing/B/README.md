@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1099,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakushou Yoshimoto ShinkiGeki | 37579 | [37579-bakushou-yoshimoto-shinkigeki.json](./37579-bakushou-yoshimoto-shinkigeki.json) |
 | Bakushou!! All Yoshimoto Quiz Ou Ketteisen DX | 45422 | [45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json](./45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json) |
 | Bakushou!! All Yoshimoto Quiz-Ou Ketteisen | 245247 | [245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json](./245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json) |
+| Bakushou!! Jinsei Kaidoh: Nova Usagi ga Miteru zo!! | 269387 | [269387-bakushou-jinsei-kaidoh-nova-usagi-ga-miteru-zo.json](./269387-bakushou-jinsei-kaidoh-nova-usagi-ga-miteru-zo.json) |
 | Bakusou Dekotora Densetsu 2: Otoko Jinsei Yume Ichiro | 60416 | [60416-bakusou-dekotora-densetsu-2-otoko-jinsei-yume-ichiro.json](./60416-bakusou-dekotora-densetsu-2-otoko-jinsei-yume-ichiro.json) |
 | Bakusou Dekotora Densetsu Black | 60413 | [60413-bakusou-dekotora-densetsu-black.json](./60413-bakusou-dekotora-densetsu-black.json) |
 | Bakusou Dekotora Densetsu for WonderSwan | 37524 | [37524-bakusou-dekotora-densetsu-for-wonderswan.json](./37524-bakusou-dekotora-densetsu-for-wonderswan.json) |
@@ -2573,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball in Hell | 177842 | [177842-baseball-in-hell.json](./177842-baseball-in-hell.json) |
 | Baseball Kings 2015 | 240849 | [240849-baseball-kings-2015.json](./240849-baseball-kings-2015.json) |
 | Baseball Kings VR | 89255 | [89255-baseball-kings-vr.json](./89255-baseball-kings-vr.json) |
+| Baseball Live 2005 | 269390 | [269390-baseball-live-2005.json](./269390-baseball-live-2005.json) |
 | Baseball Mania | 56963 | [56963-baseball-mania.json](./56963-baseball-mania.json) |
 | Baseball Mogul | 605 | [605-baseball-mogul.json](./605-baseball-mogul.json) |
 | Baseball Mogul 2000 | 72675 | [72675-baseball-mogul-2000.json](./72675-baseball-mogul-2000.json) |
@@ -11787,11 +11790,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouhou Koumakyou: Scarlet Family | 204382 | [204382-bouhou-koumakyou-scarlet-family.json](./204382-bouhou-koumakyou-scarlet-family.json) |
 | Bouhou Youyoumu | 204076 | [204076-bouhou-youyoumu.json](./204076-bouhou-youyoumu.json) |
 | Bouken Danshaku Don: The Lost Sunheart | 37720 | [37720-bouken-danshaku-don-the-lost-sunheart.json](./37720-bouken-danshaku-don-the-lost-sunheart.json) |
+| Bouken Shounen Club Gahou | 269383 | [269383-bouken-shounen-club-gahou.json](./269383-bouken-shounen-club-gahou.json) |
 | Bouken Yuuki Pluster World: Densetsu no Plust Gate | 49527 | [49527-bouken-yuuki-pluster-world-densetsu-no-plust-gate.json](./49527-bouken-yuuki-pluster-world-densetsu-no-plust-gate.json) |
 | Bouken Yuuki Pluster World: Densetsu no Pluster Gate EX | 49526 | [49526-bouken-yuuki-pluster-world-densetsu-no-pluster-gate-ex.json](./49526-bouken-yuuki-pluster-world-densetsu-no-pluster-gate-ex.json) |
 | Bouken Yuuki Pluster World: Pluston GP | 49525 | [49525-bouken-yuuki-pluster-world-pluston-gp.json](./49525-bouken-yuuki-pluster-world-pluston-gp.json) |
 | Bouken-Ou Beet: Busters Road | 49524 | [49524-bouken-ou-beet-busters-road.json](./49524-bouken-ou-beet-busters-road.json) |
+| Bouken-Ou Beet: Darkness Century | 269385 | [269385-bouken-ou-beet-darkness-century.json](./269385-bouken-ou-beet-darkness-century.json) |
 | Bouken-Ou Beet: Vandel vs. Busters | 269670 | [269670-bouken-ou-beet-vandel-vs-busters.json](./269670-bouken-ou-beet-vandel-vs-busters.json) |
+| Boukoku no Aegis 2035: Warship Gunner | 269386 | [269386-boukoku-no-aegis-2035-warship-gunner.json](./269386-boukoku-no-aegis-2035-warship-gunner.json) |
 | Boukyaku no Edicius | 367544 | [367544-boukyaku-no-edicius.json](./367544-boukyaku-no-edicius.json) |
 | Boukyaku no Senritsu | 49523 | [49523-boukyaku-no-senritsu.json](./49523-boukyaku-no-senritsu.json) |
 | Boulder Baby | 396450 | [396450-boulder-baby.json](./396450-boulder-baby.json) |
@@ -12810,6 +12816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravium: Hero Defense | 38974 | [38974-bravium-hero-defense.json](./38974-bravium-hero-defense.json) |
 | Bravo | 404663 | [404663-bravo.json](./404663-bravo.json) |
 | Bravo Air Race | 18250 | [18250-bravo-air-race.json](./18250-bravo-air-race.json) |
+| Bravo Music: Chou Meikyokuban | 269384 | [269384-bravo-music-chou-meikyokuban.json](./269384-bravo-music-chou-meikyokuban.json) |
 | Bravo Music: Christmas Edition | 86009 | [86009-bravo-music-christmas-edition.json](./86009-bravo-music-christmas-edition.json) |
 | Bravo Romeo Delta | 14344 | [14344-bravo-romeo-delta.json](./14344-bravo-romeo-delta.json) |
 | Bravo Soccer | 197628 | [197628-bravo-soccer.json](./197628-bravo-soccer.json) |
