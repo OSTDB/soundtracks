@@ -5474,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig vs. Box | 366219 | [366219-pig-vs-box.json](./366219-pig-vs-box.json) |
 | PigBang: Slice and Dice | 56259 | [56259-pigbang-slice-and-dice.json](./56259-pigbang-slice-and-dice.json) |
 | Pigbert | 361766 | [361766-pigbert.json](./361766-pigbert.json) |
+| Pigblue | 248091 | [248091-pigblue.json](./248091-pigblue.json) |
 | Pigbook | 278936 | [278936-pigbook.json](./278936-pigbook.json) |
 | Pigebomb | 307228 | [307228-pigebomb.json](./307228-pigebomb.json) |
 | Pigeon | 311457 | [311457-pigeon.json](./311457-pigeon.json) |
@@ -13499,6 +13500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project BBQ | 126288 | [126288-project-bbq.json](./126288-project-bbq.json) |
 | Project Beauty | 72777 | [72777-project-beauty.json](./72777-project-beauty.json) |
 | Project Beksinski | 251137 | [251137-project-beksinski.json](./251137-project-beksinski.json) |
+| Project Below | 248843 | [248843-project-below.json](./248843-project-below.json) |
 | Project Bengal | 341555 | [341555-project-bengal.json](./341555-project-bengal.json) |
 | Project Black Sun | 54280 | [54280-project-black-sun.json](./54280-project-black-sun.json) |
 | Project Blari | 150948 | [150948-project-blari.json](./150948-project-blari.json) |
@@ -16025,6 +16027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzled Hive | 311199 | [311199-puzzled-hive.json](./311199-puzzled-hive.json) |
 | Puzzled Knight | 125819 | [125819-puzzled-knight.json](./125819-puzzled-knight.json) |
 | Puzzled Love | 180813 | [180813-puzzled-love.json](./180813-puzzled-love.json) |
+| Puzzled Runner | 247865 | [247865-puzzled-runner.json](./247865-puzzled-runner.json) |
 | Puzzled Towers | 253209 | [253209-puzzled-towers.json](./253209-puzzled-towers.json) |
 | Puzzledom | 74529 | [74529-puzzledom.json](./74529-puzzledom.json) |
 | Puzzledom - classic puzzles all in one | 99221 | [99221-puzzledom-classic-puzzles-all-in-one.json](./99221-puzzledom-classic-puzzles-all-in-one.json) |
