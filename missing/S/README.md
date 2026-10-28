@@ -7931,6 +7931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Filling | 288358 | [288358-shooting-filling.json](./288358-shooting-filling.json) |
 | Shooting Gallery | 18587 | [18587-shooting-gallery.json](./18587-shooting-gallery.json) |
 | Shooting Gallery | 218543 | [218543-shooting-gallery.json](./218543-shooting-gallery.json) |
+| Shooting Gallery | 229910 | [229910-shooting-gallery.json](./229910-shooting-gallery.json) |
 | Shooting Gallery | 68566 | [68566-shooting-gallery.json](./68566-shooting-gallery.json) |
 | Shooting Gallery for Playdate | 230786 | [230786-shooting-gallery-for-playdate.json](./230786-shooting-gallery-for-playdate.json) |
 | Shooting Gallery Mayhem | 117516 | [117516-shooting-gallery-mayhem.json](./117516-shooting-gallery-mayhem.json) |
@@ -23137,6 +23138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick City Run 2 By Lettu Games | 232160 | [232160-stick-city-run-2-by-lettu-games.json](./232160-stick-city-run-2-by-lettu-games.json) |
 | Stick Combat | 57175 | [57175-stick-combat.json](./57175-stick-combat.json) |
 | Stick Cricket | 138002 | [138002-stick-cricket.json](./138002-stick-cricket.json) |
+| Stick Cricket Super League | 229878 | [229878-stick-cricket-super-league.json](./229878-stick-cricket-super-league.json) |
 | Stick Empires | 83399 | [83399-stick-empires.json](./83399-stick-empires.json) |
 | Stick Engine | 55524 | [55524-stick-engine.json](./55524-stick-engine.json) |
 | Stick Fight: Endless Battle | 245338 | [245338-stick-fight-endless-battle.json](./245338-stick-fight-endless-battle.json) |
@@ -24340,6 +24342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter Alpha 3 MAX | 42876 | [42876-street-fighter-alpha-3-max.json](./42876-street-fighter-alpha-3-max.json) |
 | Street Fighter Alpha 3 Upper | 219058 | [219058-street-fighter-alpha-3-upper.json](./219058-street-fighter-alpha-3-upper.json) |
 | Street Fighter Alpha 3: Xiang Long | 213628 | [213628-street-fighter-alpha-3-xiang-long.json](./213628-street-fighter-alpha-3-xiang-long.json) |
+| Street Fighter Alpha: Warriors' Dreams | 229865 | [229865-street-fighter-alpha-warriors-dreams.json](./229865-street-fighter-alpha-warriors-dreams.json) |
 | Street Fighter Alpha: Warriors' Dreams | 243819 | [243819-street-fighter-alpha-warriors-dreams.json](./243819-street-fighter-alpha-warriors-dreams.json) |
 | Street Fighter Alpha: Warriors' Dreams | 6702 | [6702-street-fighter-alpha-warriors-dreams.json](./6702-street-fighter-alpha-warriors-dreams.json) |
 | Street Fighter Anniversary Collection | 6178 | [6178-street-fighter-anniversary-collection.json](./6178-street-fighter-anniversary-collection.json) |
