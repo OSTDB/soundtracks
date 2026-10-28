@@ -3203,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack A Rat VR | 147427 | [147427-whack-a-rat-vr.json](./147427-whack-a-rat-vr.json) |
 | Whack A Tako | 202179 | [202179-whack-a-tako.json](./202179-whack-a-tako.json) |
 | Whack a Vote: Hammering the Polls | 30785 | [30785-whack-a-vote-hammering-the-polls.json](./30785-whack-a-vote-hammering-the-polls.json) |
+| Whack an Office Jerk | 236992 | [236992-whack-an-office-jerk.json](./236992-whack-an-office-jerk.json) |
 | Whack First!: Fight the Moles | 212268 | [212268-whack-first-fight-the-moles.json](./212268-whack-first-fight-the-moles.json) |
 | Whack Mole | 328199 | [328199-whack-mole.json](./328199-whack-mole.json) |
 | Whack the Burglar | 234465 | [234465-whack-the-burglar.json](./234465-whack-the-burglar.json) |
