@@ -3325,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost School | 133726 | [133726-ghost-school.json](./133726-ghost-school.json) |
 | Ghost Scramble | 212500 | [212500-ghost-scramble.json](./212500-ghost-scramble.json) |
 | Ghost Sector | 335826 | [335826-ghost-sector.json](./335826-ghost-sector.json) |
+| Ghost Seeker Hunter Simulation | 270495 | [270495-ghost-seeker-hunter-simulation.json](./270495-ghost-seeker-hunter-simulation.json) |
 | Ghost Shadow | 214199 | [214199-ghost-shadow.json](./214199-ghost-shadow.json) |
 | Ghost Ship | 287518 | [287518-ghost-ship.json](./287518-ghost-ship.json) |
 | Ghost Ship: Hidden Object Adventure Games | 97210 | [97210-ghost-ship-hidden-object-adventure-games.json](./97210-ghost-ship-hidden-object-adventure-games.json) |
@@ -8382,6 +8383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground to Dust | 303989 | [303989-ground-to-dust.json](./303989-ground-to-dust.json) |
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
 | Ground War | 127606 | [127606-ground-war.json](./127606-ground-war.json) |
+| Ground Wars KDR | 270481 | [270481-ground-wars-kdr.json](./270481-ground-wars-kdr.json) |
 | Ground Water: Episode of Dhanra | 374115 | [374115-ground-water-episode-of-dhanra.json](./374115-ground-water-episode-of-dhanra.json) |
 | Ground Wave | 91687 | [91687-ground-wave.json](./91687-ground-wave.json) |
 | Ground Zero | 249174 | [249174-ground-zero.json](./249174-ground-zero.json) |
