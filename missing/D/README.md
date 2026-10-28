@@ -9896,6 +9896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who Monster Invasion: Escape the Silence | 263532 | [263532-doctor-who-monster-invasion-escape-the-silence.json](./263532-doctor-who-monster-invasion-escape-the-silence.json) |
 | Doctor Who: An Unlikely Heist | 245024 | [245024-doctor-who-an-unlikely-heist.json](./245024-doctor-who-an-unlikely-heist.json) |
 | Doctor Who: Art Attack | 249279 | [249279-doctor-who-art-attack.json](./249279-doctor-who-art-attack.json) |
+| Doctor Who: Attack of the Graske | 234849 | [234849-doctor-who-attack-of-the-graske.json](./234849-doctor-who-attack-of-the-graske.json) |
 | Doctor Who: Battle of Time | 301692 | [301692-doctor-who-battle-of-time.json](./301692-doctor-who-battle-of-time.json) |
 | Doctor Who: Black Hole | 249293 | [249293-doctor-who-black-hole.json](./249293-doctor-who-black-hole.json) |
 | Doctor Who: Clockwork Quest | 249389 | [249389-doctor-who-clockwork-quest.json](./249389-doctor-who-clockwork-quest.json) |
@@ -9913,6 +9914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Flight Simulator | 263558 | [263558-doctor-who-flight-simulator.json](./263558-doctor-who-flight-simulator.json) |
 | Doctor Who: Into the Vortex | 235317 | [235317-doctor-who-into-the-vortex.json](./235317-doctor-who-into-the-vortex.json) |
 | Doctor Who: Jobsworth Judoon | 301942 | [301942-doctor-who-jobsworth-judoon.json](./301942-doctor-who-jobsworth-judoon.json) |
+| Doctor Who: K9 Deja Who | 234847 | [234847-doctor-who-k9-deja-who.json](./234847-doctor-who-k9-deja-who.json) |
 | Doctor Who: Land the Tardis | 237835 | [237835-doctor-who-land-the-tardis.json](./237835-doctor-who-land-the-tardis.json) |
 | Doctor Who: Lost in Time | 213285 | [213285-doctor-who-lost-in-time.json](./213285-doctor-who-lost-in-time.json) |
 | Doctor Who: Monster Invasion - Dalek Supremacy | 301937 | [301937-doctor-who-monster-invasion-dalek-supremacy.json](./301937-doctor-who-monster-invasion-dalek-supremacy.json) |
@@ -11784,6 +11786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Dash Defense | 400361 | [400361-dot-dash-defense.json](./400361-dot-dash-defense.json) |
 | Dot Dash Dot | 167619 | [167619-dot-dash-dot.json](./167619-dot-dash-dot.json) |
 | Dot Eater New Pick Dan | 222180 | [222180-dot-eater-new-pick-dan.json](./222180-dot-eater-new-pick-dan.json) |
+| Dot Fighters | 234832 | [234832-dot-fighters.json](./234832-dot-fighters.json) |
 | Dot Gobbler | 64817 | [64817-dot-gobbler.json](./64817-dot-gobbler.json) |
 | Dot Hop | 295803 | [295803-dot-hop.json](./295803-dot-hop.json) |
 | Dot Hopper | 52208 | [52208-dot-hopper.json](./52208-dot-hopper.json) |
