@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantomime Horse Obstacle Course | 408018 | [408018-pantomime-horse-obstacle-course.json](./408018-pantomime-horse-obstacle-course.json) |
 | Pantropy | 77611 | [77611-pantropy.json](./77611-pantropy.json) |
 | Pants | 179678 | [179678-pants.json](./179678-pants.json) |
+| Pants no Mikiri | 263615 | [263615-pants-no-mikiri.json](./263615-pants-no-mikiri.json) |
 | Pants Quest | 190217 | [190217-pants-quest.json](./190217-pants-quest.json) |
 | PantsTyping | 82708 | [82708-pantstyping.json](./82708-pantstyping.json) |
 | Pantsu Hunter: Back to the 90s | 113726 | [113726-pantsu-hunter-back-to-the-90s.json](./113726-pantsu-hunter-back-to-the-90s.json) |
@@ -5966,6 +5967,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Gearbox Pinball | 239030 | [239030-pinball-fx-gearbox-pinball.json](./239030-pinball-fx-gearbox-pinball.json) |
 | Pinball FX: Goat Simulator Pinball | 316243 | [316243-pinball-fx-goat-simulator-pinball.json](./316243-pinball-fx-goat-simulator-pinball.json) |
 | Pinball FX: Indiana Jones - The Pinball Adventure | 247667 | [247667-pinball-fx-indiana-jones-the-pinball-adventure.json](./247667-pinball-fx-indiana-jones-the-pinball-adventure.json) |
+| Pinball FX: Marvel Pinball - Cinematic Pack | 263309 | [263309-pinball-fx-marvel-pinball-cinematic-pack.json](./263309-pinball-fx-marvel-pinball-cinematic-pack.json) |
+| Pinball FX: Marvel Pinball - Marvel Legends Pack | 263308 | [263308-pinball-fx-marvel-pinball-marvel-legends-pack.json](./263308-pinball-fx-marvel-pinball-marvel-legends-pack.json) |
 | Pinball FX: Marvel Pinball Collection 1 | 239027 | [239027-pinball-fx-marvel-pinball-collection-1.json](./239027-pinball-fx-marvel-pinball-collection-1.json) |
 | Pinball FX: Marvel's Women of Power | 247661 | [247661-pinball-fx-marvels-women-of-power.json](./247661-pinball-fx-marvels-women-of-power.json) |
 | Pinball FX: Nightmare Mansion | 395547 | [395547-pinball-fx-nightmare-mansion.json](./395547-pinball-fx-nightmare-mansion.json) |
@@ -5988,6 +5991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Williams Pinball - Star Trek: The Next Generation | 261330 | [261330-pinball-fx-williams-pinball-star-trek-the-next-generation.json](./261330-pinball-fx-williams-pinball-star-trek-the-next-generation.json) |
 | Pinball FX: Williams Pinball - Swords of Fury | 239019 | [239019-pinball-fx-williams-pinball-swords-of-fury.json](./239019-pinball-fx-williams-pinball-swords-of-fury.json) |
 | Pinball FX: Williams Pinball - The Addams Family | 239018 | [239018-pinball-fx-williams-pinball-the-addams-family.json](./239018-pinball-fx-williams-pinball-the-addams-family.json) |
+| Pinball FX: Williams Pinball - Universal Monsters Pack | 263316 | [263316-pinball-fx-williams-pinball-universal-monsters-pack.json](./263316-pinball-fx-williams-pinball-universal-monsters-pack.json) |
 | Pinball FX: Williams Pinball - World Cup Soccer | 239017 | [239017-pinball-fx-williams-pinball-world-cup-soccer.json](./239017-pinball-fx-williams-pinball-world-cup-soccer.json) |
 | Pinball FX: Williams Pinball Collection 1 | 239021 | [239021-pinball-fx-williams-pinball-collection-1.json](./239021-pinball-fx-williams-pinball-collection-1.json) |
 | Pinball FX: Williams Pinball Collection 2 | 239020 | [239020-pinball-fx-williams-pinball-collection-2.json](./239020-pinball-fx-williams-pinball-collection-2.json) |
@@ -13959,6 +13963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Vostok | 258985 | [258985-project-vostok.json](./258985-project-vostok.json) |
 | Project Vostok: Episode 1 | 189892 | [189892-project-vostok-episode-1.json](./189892-project-vostok-episode-1.json) |
 | Project VR Wild Hunt | 120674 | [120674-project-vr-wild-hunt.json](./120674-project-vr-wild-hunt.json) |
+| Project VTS | 263306 | [263306-project-vts.json](./263306-project-vts.json) |
 | Project W.A.K.E. | 286431 | [286431-project-w-a-k-e.json](./286431-project-w-a-k-e.json) |
 | Project Walker | 305822 | [305822-project-walker.json](./305822-project-walker.json) |
 | Project Wand: Festival Of Futas | 290790 | [290790-project-wand-festival-of-futas.json](./290790-project-wand-festival-of-futas.json) |
