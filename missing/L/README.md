@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Lovers | 192244 | [192244-last-lovers.json](./192244-last-lovers.json) |
 | Last Mage Standing | 141498 | [141498-last-mage-standing.json](./141498-last-mage-standing.json) |
 | Last Mage Standing | 30008 | [30008-last-mage-standing.json](./30008-last-mage-standing.json) |
+| Last Mage Survivors | 257498 | [257498-last-mage-survivors.json](./257498-last-mage-survivors.json) |
 | Last Man | 273462 | [273462-last-man.json](./273462-last-man.json) |
 | Last Man Running | 424653 | [424653-last-man-running.json](./424653-last-man-running.json) |
 | Last Man Sitting | 76091 | [76091-last-man-sitting.json](./76091-last-man-sitting.json) |
@@ -8417,6 +8418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna Story: A Forgotten Tale | 141157 | [141157-luna-story-a-forgotten-tale.json](./141157-luna-story-a-forgotten-tale.json) |
 | Luna with the Moonlight | 215831 | [215831-luna-with-the-moonlight.json](./215831-luna-with-the-moonlight.json) |
 | Luna-3X | 315838 | [315838-luna-3x.json](./315838-luna-3x.json) |
+| Luna-tan | 257495 | [257495-luna-tan.json](./257495-luna-tan.json) |
 | Luna: Obscura | 341493 | [341493-luna-obscura.json](./341493-luna-obscura.json) |
 | Luna: Shattered Hearts - Episode 1 | 36173 | [36173-luna-shattered-hearts-episode-1.json](./36173-luna-shattered-hearts-episode-1.json) |
 | Luna: Supernatural Hunter | 189103 | [189103-luna-supernatural-hunter.json](./189103-luna-supernatural-hunter.json) |
