@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Team | 278353 | [278353-tank-team.json](./278353-tank-team.json) |
 | Tank Time | 177424 | [177424-tank-time.json](./177424-tank-time.json) |
 | Tank Top Tactics | 212842 | [212842-tank-top-tactics.json](./212842-tank-top-tactics.json) |
+| Tank Trace | 243849 | [243849-tank-trace.json](./243849-tank-trace.json) |
 | Tank Tread | 31584 | [31584-tank-tread.json](./31584-tank-tread.json) |
 | Tank Trouble 3D | 338701 | [338701-tank-trouble-3d.json](./338701-tank-trouble-3d.json) |
 | Tank Tyranny | 289346 | [289346-tank-tyranny.json](./289346-tank-tyranny.json) |
@@ -2020,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap My Katamari | 26991 | [26991-tap-my-katamari.json](./26991-tap-my-katamari.json) |
 | Tap On Overlap | 194168 | [194168-tap-on-overlap.json](./194168-tap-on-overlap.json) |
 | Tap Pet Hotel | 269072 | [269072-tap-pet-hotel.json](./269072-tap-pet-hotel.json) |
+| Tap Quiz | 243310 | [243310-tap-quiz.json](./243310-tap-quiz.json) |
 | Tap Rising | 242200 | [242200-tap-rising.json](./242200-tap-rising.json) |
 | Tap Romantics | 258930 | [258930-tap-romantics.json](./258930-tap-romantics.json) |
 | Tap Smiths | 58233 | [58233-tap-smiths.json](./58233-tap-smiths.json) |
@@ -6875,7 +6877,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cyber Masquerade: Summer Beach Reverie | 295340 | [295340-the-cyber-masquerade-summer-beach-reverie.json](./295340-the-cyber-masquerade-summer-beach-reverie.json) |
 | The Cycle | 105482 | [105482-the-cycle.json](./105482-the-cycle.json) |
 | The Cycle: Frontier | 174521 | [174521-the-cycle-frontier.json](./174521-the-cycle-frontier.json) |
+| The Cycle: Frontier - Authority Peacekeeper Pack | 243300 | [243300-the-cycle-frontier-authority-peacekeeper-pack.json](./243300-the-cycle-frontier-authority-peacekeeper-pack.json) |
 | The Cycle: Frontier - Breakthrough | 243632 | [243632-the-cycle-frontier-breakthrough.json](./243632-the-cycle-frontier-breakthrough.json) |
+| The Cycle: Frontier - Howler Tamer Bundle | 243304 | [243304-the-cycle-frontier-howler-tamer-bundle.json](./243304-the-cycle-frontier-howler-tamer-bundle.json) |
+| The Cycle: Frontier - Vivid Party Style Pack | 243303 | [243303-the-cycle-frontier-vivid-party-style-pack.json](./243303-the-cycle-frontier-vivid-party-style-pack.json) |
 | The Cycle: Season 3 | 137010 | [137010-the-cycle-season-3.json](./137010-the-cycle-season-3.json) |
 | The Cycles: International Grand Prix Racing | 12026 | [12026-the-cycles-international-grand-prix-racing.json](./12026-the-cycles-international-grand-prix-racing.json) |
 | The Cycling Games | 405100 | [405100-the-cycling-games.json](./405100-the-cycling-games.json) |
@@ -10553,6 +10558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Us Complete | 340213 | [340213-the-last-of-us-complete.json](./340213-the-last-of-us-complete.json) |
 | The Last of Us Complete: Collector's Edition | 340226 | [340226-the-last-of-us-complete-collectors-edition.json](./340226-the-last-of-us-complete-collectors-edition.json) |
 | The Last of Us Online | 386719 | [386719-the-last-of-us-online.json](./386719-the-last-of-us-online.json) |
+| The Last of Us Part I: Digital Deluxe Edition | 243296 | [243296-the-last-of-us-part-i-digital-deluxe-edition.json](./243296-the-last-of-us-part-i-digital-deluxe-edition.json) |
 | The Last of Us Part I: Firefly Edition | 215089 | [215089-the-last-of-us-part-i-firefly-edition.json](./215089-the-last-of-us-part-i-firefly-edition.json) |
 | The Last of Us Part II Remastered: Chronological Experience | 382539 | [382539-the-last-of-us-part-ii-remastered-chronological-experience.json](./382539-the-last-of-us-part-ii-remastered-chronological-experience.json) |
 | The Last of Us Part II Remastered: Patch 2.0.0 | 382537 | [382537-the-last-of-us-part-ii-remastered-patch-2-0-0.json](./382537-the-last-of-us-part-ii-remastered-patch-2-0-0.json) |
@@ -16723,6 +16729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Nifty Craft | 256263 | [256263-the-world-of-nifty-craft.json](./256263-the-world-of-nifty-craft.json) |
 | The World of Nocrone | 60362 | [60362-the-world-of-nocrone.json](./60362-the-world-of-nocrone.json) |
 | The World of Obert Skye | 249593 | [249593-the-world-of-obert-skye.json](./249593-the-world-of-obert-skye.json) |
+| The World of Pirates | 243858 | [243858-the-world-of-pirates.json](./243858-the-world-of-pirates.json) |
 | The World of Teo | 60382 | [60382-the-world-of-teo.json](./60382-the-world-of-teo.json) |
 | The World of the Candy Girl | 224538 | [224538-the-world-of-the-candy-girl.json](./224538-the-world-of-the-candy-girl.json) |
 | The World of War II: Frontlines of History | 283233 | [283233-the-world-of-war-ii-frontlines-of-history.json](./283233-the-world-of-war-ii-frontlines-of-history.json) |
@@ -22223,6 +22230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Down Racer | 107883 | [107883-top-down-racer.json](./107883-top-down-racer.json) |
 | Top Down Zombies | 214027 | [214027-top-down-zombies.json](./214027-top-down-zombies.json) |
 | Top Duck | 280930 | [280930-top-duck.json](./280930-top-duck.json) |
+| Top Dungeon War | 243717 | [243717-top-dungeon-war.json](./243717-top-dungeon-war.json) |
 | Top Fighter 2000 | 45590 | [45590-top-fighter-2000.json](./45590-top-fighter-2000.json) |
 | Top Fighter 2000 MK VIII | 45752 | [45752-top-fighter-2000-mk-viii.json](./45752-top-fighter-2000-mk-viii.json) |
 | Top Flight Turtle | 234171 | [234171-top-flight-turtle.json](./234171-top-flight-turtle.json) |
@@ -22455,6 +22463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tormented Soul | 322083 | [322083-tormented-soul.json](./322083-tormented-soul.json) |
 | Tormented Souls II: Digital Deluxe Edition | 401599 | [401599-tormented-souls-ii-digital-deluxe-edition.json](./401599-tormented-souls-ii-digital-deluxe-edition.json) |
 | Tormentor | 167259 | [167259-tormentor.json](./167259-tormentor.json) |
+| Tormentor | 243325 | [243325-tormentor.json](./243325-tormentor.json) |
 | Tormentor: Action Fire Counter Shooter Game Simulator - Premium Edition | 283161 | [283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json](./283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json) |
 | Tormentum - Mystery Adventure | 90807 | [90807-tormentum-mystery-adventure.json](./90807-tormentum-mystery-adventure.json) |
 | Tormentum II | 111364 | [111364-tormentum-ii.json](./111364-tormentum-ii.json) |
@@ -22916,6 +22925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touchgrind BMX | 86849 | [86849-touchgrind-bmx.json](./86849-touchgrind-bmx.json) |
 | Touchgrind BMX | 88294 | [88294-touchgrind-bmx.json](./88294-touchgrind-bmx.json) |
 | Touchgrind BMX 3: Rivals | 364425 | [364425-touchgrind-bmx-3-rivals.json](./364425-touchgrind-bmx-3-rivals.json) |
+| Touchgrind Scooter | 243313 | [243313-touchgrind-scooter.json](./243313-touchgrind-scooter.json) |
 | Touching Cloth At The End Of Time | 322011 | [322011-touching-cloth-at-the-end-of-time.json](./322011-touching-cloth-at-the-end-of-time.json) |
 | Touching Grass Simulator | 348985 | [348985-touching-grass-simulator.json](./348985-touching-grass-simulator.json) |
 | Touching Lights | 175608 | [175608-touching-lights.json](./175608-touching-lights.json) |
@@ -28738,6 +28748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Lines | 175365 | [175365-twisted-lines.json](./175365-twisted-lines.json) |
 | Twisted Love: Captive Souls | 288127 | [288127-twisted-love-captive-souls.json](./288127-twisted-love-captive-souls.json) |
 | Twisted Lovestruck | 243425 | [243425-twisted-lovestruck.json](./243425-twisted-lovestruck.json) |
+| Twisted Machines | 243718 | [243718-twisted-machines.json](./243718-twisted-machines.json) |
 | Twisted Metal | 256773 | [256773-twisted-metal.json](./256773-twisted-metal.json) |
 | Twisted Metal 2 | 256777 | [256777-twisted-metal-2.json](./256777-twisted-metal-2.json) |
 | Twisted Metal 2 | 4696 | [4696-twisted-metal-2.json](./4696-twisted-metal-2.json) |
