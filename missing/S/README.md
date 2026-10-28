@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakunaverse | 363980 | [363980-sakunaverse.json](./363980-sakunaverse.json) |
 | Sakura Agent | 29850 | [29850-sakura-agent.json](./29850-sakura-agent.json) |
 | Sakura Alien | 186848 | [186848-sakura-alien.json](./186848-sakura-alien.json) |
+| Sakura Alien 1: Uchuu kara no Raihousha | 272413 | [272413-sakura-alien-1-uchuu-kara-no-raihousha.json](./272413-sakura-alien-1-uchuu-kara-no-raihousha.json) |
 | Sakura Amidst Chaos | 238892 | [238892-sakura-amidst-chaos.json](./238892-sakura-amidst-chaos.json) |
 | Sakura And The Airyvixen | 289539 | [289539-sakura-and-the-airyvixen.json](./289539-sakura-and-the-airyvixen.json) |
 | Sakura Angels | 197621 | [197621-sakura-angels.json](./197621-sakura-angels.json) |
@@ -6104,6 +6105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shakugan no Shana | 72686 | [72686-shakugan-no-shana.json](./72686-shakugan-no-shana.json) |
 | Shakugan no Shana DS | 123413 | [123413-shakugan-no-shana-ds.json](./123413-shakugan-no-shana-ds.json) |
 | Shaky Ground: Apocollapse | 270652 | [270652-shaky-ground-apocollapse.json](./270652-shaky-ground-apocollapse.json) |
+| Shaky Grounds Series | 272100 | [272100-shaky-grounds-series.json](./272100-shaky-grounds-series.json) |
 | Shaky Grounds: Epicenter | 270654 | [270654-shaky-grounds-epicenter.json](./270654-shaky-grounds-epicenter.json) |
 | Shaky Grounds: Tragedy | 270653 | [270653-shaky-grounds-tragedy.json](./270653-shaky-grounds-tragedy.json) |
 | Shaky Structures | 180811 | [180811-shaky-structures.json](./180811-shaky-structures.json) |
@@ -24834,6 +24836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sublimity | 292528 | [292528-sublimity.json](./292528-sublimity.json) |
 | Subluminal | 189942 | [189942-subluminal.json](./189942-subluminal.json) |
 | Sublustrum | 379140 | [379140-sublustrum.json](./379140-sublustrum.json) |
+| Submachine | 272107 | [272107-submachine.json](./272107-submachine.json) |
 | Submachine 1: the Basement | 127877 | [127877-submachine-1-the-basement.json](./127877-submachine-1-the-basement.json) |
 | Submachine 10: The Exit | 129555 | [129555-submachine-10-the-exit.json](./129555-submachine-10-the-exit.json) |
 | Submachine 10: The Exit | 260768 | [260768-submachine-10-the-exit.json](./260768-submachine-10-the-exit.json) |
@@ -25702,7 +25705,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon Masks | 130221 | [130221-summon-masks.json](./130221-summon-masks.json) |
 | Summon My Girl | 278702 | [278702-summon-my-girl.json](./278702-summon-my-girl.json) |
 | Summon Night | 13063 | [13063-summon-night.json](./13063-summon-night.json) |
+| Summon Night | 272091 | [272091-summon-night.json](./272091-summon-night.json) |
 | Summon Night 2 | 13064 | [13064-summon-night-2.json](./13064-summon-night-2.json) |
+| Summon Night 2 | 272092 | [272092-summon-night-2.json](./272092-summon-night-2.json) |
 | Summon Night 3 | 13108 | [13108-summon-night-3.json](./13108-summon-night-3.json) |
 | Summon Night 4 | 13109 | [13109-summon-night-4.json](./13109-summon-night-4.json) |
 | Summon Night 5 | 13110 | [13110-summon-night-5.json](./13110-summon-night-5.json) |
@@ -26018,6 +26023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshine | 110784 | [110784-sunshine.json](./110784-sunshine.json) |
 | Sunshine & Overcast | 119595 | [119595-sunshine-and-overcast.json](./119595-sunshine-and-overcast.json) |
 | Sunshine Acres | 25002 | [25002-sunshine-acres.json](./25002-sunshine-acres.json) |
+| Sunshine Complex | 272123 | [272123-sunshine-complex.json](./272123-sunshine-complex.json) |
 | Sunshine Farm | 333005 | [333005-sunshine-farm.json](./333005-sunshine-farm.json) |
 | Sunshine Gravy: Fall | 364842 | [364842-sunshine-gravy-fall.json](./364842-sunshine-gravy-fall.json) |
 | Sunshine Heavy Industries | 146834 | [146834-sunshine-heavy-industries.json](./146834-sunshine-heavy-industries.json) |
@@ -30629,6 +30635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SX-1: Defender Line | 78897 | [78897-sx-1-defender-line.json](./78897-sx-1-defender-line.json) |
 | SXPD: Extreme Pursuit Force | 61525 | [61525-sxpd-extreme-pursuit-force.json](./61525-sxpd-extreme-pursuit-force.json) |
 | Sybaritic Extravaganza | 274298 | [274298-sybaritic-extravaganza.json](./274298-sybaritic-extravaganza.json) |
+| Syberia | 272095 | [272095-syberia.json](./272095-syberia.json) |
 | Syberia 3: An Automaton with a Plan | 150905 | [150905-syberia-3-an-automaton-with-a-plan.json](./150905-syberia-3-an-automaton-with-a-plan.json) |
 | Syberia 3: Deluxe Edition | 53697 | [53697-syberia-3-deluxe-edition.json](./53697-syberia-3-deluxe-edition.json) |
 | Syberia 3: The Complete Journey | 124797 | [124797-syberia-3-the-complete-journey.json](./124797-syberia-3-the-complete-journey.json) |
