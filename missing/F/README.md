@@ -2067,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faraway: Puzzle Escape | 101737 | [101737-faraway-puzzle-escape.json](./101737-faraway-puzzle-escape.json) |
 | Farbenspiel | 177837 | [177837-farbenspiel.json](./177837-farbenspiel.json) |
 | Farcana | 254458 | [254458-farcana.json](./254458-farcana.json) |
+| Farcaster | 244428 | [244428-farcaster.json](./244428-farcaster.json) |
 | Fare Thee Well | 96730 | [96730-fare-thee-well.json](./96730-fare-thee-well.json) |
 | Fareast Four Season: Hello World | 269014 | [269014-fareast-four-season-hello-world.json](./269014-fareast-four-season-hello-world.json) |
 | Faren Touga | 172696 | [172696-faren-touga.json](./172696-faren-touga.json) |
@@ -3204,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed the Cat | 233516 | [233516-feed-the-cat.json](./233516-feed-the-cat.json) |
 | Feed the Cat | 313271 | [313271-feed-the-cat.json](./313271-feed-the-cat.json) |
 | Feed the Circuit | 390587 | [390587-feed-the-circuit.json](./390587-feed-the-circuit.json) |
+| Feed the Cups | 244398 | [244398-feed-the-cups.json](./244398-feed-the-cups.json) |
 | Feed the Deep | 244320 | [244320-feed-the-deep.json](./244320-feed-the-deep.json) |
 | Feed the Demon Incremental | 389528 | [389528-feed-the-demon-incremental.json](./389528-feed-the-demon-incremental.json) |
 | Feed the Ducks | 128867 | [128867-feed-the-ducks.json](./128867-feed-the-ducks.json) |
@@ -7130,6 +7132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floria | 328417 | [328417-floria.json](./328417-floria.json) |
 | Floribella | 187868 | [187868-floribella.json](./187868-floribella.json) |
 | Florida Decay Arcade | 344275 | [344275-florida-decay-arcade.json](./344275-florida-decay-arcade.json) |
+| Florida Interstate '86 | 244420 | [244420-florida-interstate-86.json](./244420-florida-interstate-86.json) |
 | Florida Love Stories | 257847 | [257847-florida-love-stories.json](./257847-florida-love-stories.json) |
 | Florida Man: Hurricane Hijinks | 153377 | [153377-florida-man-hurricane-hijinks.json](./153377-florida-man-hurricane-hijinks.json) |
 | Florida Road Trip | 179985 | [179985-florida-road-trip.json](./179985-florida-road-trip.json) |
