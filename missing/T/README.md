@@ -2611,11 +2611,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Fortress 2: End of the Line Update | 256883 | [256883-team-fortress-2-end-of-the-line-update.json](./256883-team-fortress-2-end-of-the-line-update.json) |
 | Team Fortress 2: Gold Rush | 335705 | [335705-team-fortress-2-gold-rush.json](./335705-team-fortress-2-gold-rush.json) |
 | Team Fortress 2: Gold Rush Update | 256372 | [256372-team-fortress-2-gold-rush-update.json](./256372-team-fortress-2-gold-rush-update.json) |
+| Team Fortress 2: Invasion | 256959 | [256959-team-fortress-2-invasion.json](./256959-team-fortress-2-invasion.json) |
 | Team Fortress 2: Jungle Inferno | 256968 | [256968-team-fortress-2-jungle-inferno.json](./256968-team-fortress-2-jungle-inferno.json) |
 | Team Fortress 2: Love & War Update | 256882 | [256882-team-fortress-2-love-and-war-update.json](./256882-team-fortress-2-love-and-war-update.json) |
 | Team Fortress 2: Mann vs. Machine - Two Cities Update | 256881 | [256881-team-fortress-2-mann-vs-machine-two-cities-update.json](./256881-team-fortress-2-mann-vs-machine-two-cities-update.json) |
 | Team Fortress 2: Mann-Conomy Update | 256445 | [256445-team-fortress-2-mann-conomy-update.json](./256445-team-fortress-2-mann-conomy-update.json) |
 | Team Fortress 2: Mecha Update | 256782 | [256782-team-fortress-2-mecha-update.json](./256782-team-fortress-2-mecha-update.json) |
+| Team Fortress 2: Meet Your Match | 256966 | [256966-team-fortress-2-meet-your-match.json](./256966-team-fortress-2-meet-your-match.json) |
 | Team Fortress 2: Randomizer | 362981 | [362981-team-fortress-2-randomizer.json](./362981-team-fortress-2-randomizer.json) |
 | Team Fortress 2: Rebalanced | 400339 | [400339-team-fortress-2-rebalanced.json](./400339-team-fortress-2-rebalanced.json) |
 | Team Fortress 2: Robotic Boogaloo | 256783 | [256783-team-fortress-2-robotic-boogaloo.json](./256783-team-fortress-2-robotic-boogaloo.json) |
@@ -2627,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Fortress 2: The Scout Update | 256413 | [256413-team-fortress-2-the-scout-update.json](./256413-team-fortress-2-the-scout-update.json) |
 | Team Fortress 2: The Second Annu-Hell Scream Fortress Hauntdead Halloween Special | 256446 | [256446-team-fortress-2-the-second-annu-hell-scream-fortress-hauntdead-halloween-special.json](./256446-team-fortress-2-the-second-annu-hell-scream-fortress-hauntdead-halloween-special.json) |
 | Team Fortress 2: The Sniper vs. Spy Update | 256414 | [256414-team-fortress-2-the-sniper-vs-spy-update.json](./256414-team-fortress-2-the-sniper-vs-spy-update.json) |
+| Team Fortress 2: The Tough Break Update | 256964 | [256964-team-fortress-2-the-tough-break-update.json](./256964-team-fortress-2-the-tough-break-update.json) |
 | Team Fortress 2: War! Update | 256431 | [256431-team-fortress-2-war-update.json](./256431-team-fortress-2-war-update.json) |
 | Team Fortress 2008 | 339412 | [339412-team-fortress-2008.json](./339412-team-fortress-2008.json) |
 | Team Fortress Classic | 6359 | [6359-team-fortress-classic.json](./6359-team-fortress-classic.json) |
@@ -9424,6 +9427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hum: Abductions | 56876 | [56876-the-hum-abductions.json](./56876-the-hum-abductions.json) |
 | The Human Heart | 177913 | [177913-the-human-heart.json](./177913-the-human-heart.json) |
 | The Human Race | 26415 | [26415-the-human-race.json](./26415-the-human-race.json) |
+| The Human Show | 256645 | [256645-the-human-show.json](./256645-the-human-show.json) |
 | The Human Snake | 309413 | [309413-the-human-snake.json](./309413-the-human-snake.json) |
 | The Human Test / Restart | 339196 | [339196-the-human-test-restart.json](./339196-the-human-test-restart.json) |
 | The Humanity Check | 415318 | [415318-the-humanity-check.json](./415318-the-humanity-check.json) |
@@ -12614,6 +12618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oregon Trail | 11325 | [11325-the-oregon-trail.json](./11325-the-oregon-trail.json) |
 | The Oregon Trail | 191526 | [191526-the-oregon-trail.json](./191526-the-oregon-trail.json) |
 | The Oregon Trail | 193664 | [193664-the-oregon-trail.json](./193664-the-oregon-trail.json) |
+| The Oregon Trail | 256938 | [256938-the-oregon-trail.json](./256938-the-oregon-trail.json) |
 | The Oregon Trail Deluxe | 83359 | [83359-the-oregon-trail-deluxe.json](./83359-the-oregon-trail-deluxe.json) |
 | The Oregon Trail: 3rd Edition | 73240 | [73240-the-oregon-trail-3rd-edition.json](./73240-the-oregon-trail-3rd-edition.json) |
 | The Oregon Trail: 40th Anniversary Edition | 202693 | [202693-the-oregon-trail-40th-anniversary-edition.json](./202693-the-oregon-trail-40th-anniversary-edition.json) |
@@ -15175,6 +15180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tearoom | 141722 | [141722-the-tearoom.json](./141722-the-tearoom.json) |
 | The Technomancer | 9919 | [9919-the-technomancer.json](./9919-the-technomancer.json) |
 | The Teeth | 210650 | [210650-the-teeth.json](./210650-the-teeth.json) |
+| The Telephone | 256647 | [256647-the-telephone.json](./256647-the-telephone.json) |
 | The Teletransport Smurf | 135833 | [135833-the-teletransport-smurf.json](./135833-the-teletransport-smurf.json) |
 | The Telltale Batman Bundle | 118722 | [118722-the-telltale-batman-bundle.json](./118722-the-telltale-batman-bundle.json) |
 | The Telltale Games Collection | 99799 | [99799-the-telltale-games-collection.json](./99799-the-telltale-games-collection.json) |
@@ -26897,6 +26903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tripuzz | 273561 | [273561-tripuzz.json](./273561-tripuzz.json) |
 | Trireme Commander | 81738 | [81738-trireme-commander.json](./81738-trireme-commander.json) |
 | Tris | 69769 | [69769-tris.json](./69769-tris.json) |
+| Trishu-Drift | 256930 | [256930-trishu-drift.json](./256930-trishu-drift.json) |
 | Trisker | 130647 | [130647-trisker.json](./130647-trisker.json) |
 | Trism | 29043 | [29043-trism.json](./29043-trism.json) |
 | Trism 2 | 109506 | [109506-trism-2.json](./109506-trism-2.json) |
