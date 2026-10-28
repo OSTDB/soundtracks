@@ -12141,6 +12141,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowser's Lair Hockey | 231642 | [231642-bowsers-lair-hockey.json](./231642-bowsers-lair-hockey.json) |
 | Bowser's Last Stand | 321813 | [321813-bowsers-last-stand.json](./321813-bowsers-last-stand.json) |
 | Bowser's Recruitment | 320212 | [320212-bowsers-recruitment.json](./320212-bowsers-recruitment.json) |
+| Bowser's Revenge | 276869 | [276869-bowsers-revenge.json](./276869-bowsers-revenge.json) |
+| Bowser's Revenge 2 | 276878 | [276878-bowsers-revenge-2.json](./276878-bowsers-revenge-2.json) |
 | Bowser's Revenge 3 | 276782 | [276782-bowsers-revenge-3.json](./276782-bowsers-revenge-3.json) |
 | Bowser's Revenge 4 | 316124 | [316124-bowsers-revenge-4.json](./316124-bowsers-revenge-4.json) |
 | Bowser's Valley | 268009 | [268009-bowsers-valley.json](./268009-bowsers-valley.json) |
