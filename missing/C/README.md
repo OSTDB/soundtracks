@@ -16675,6 +16675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid Parasite: Sweet and Spicy Darling - Day One Edition | 287041 | [287041-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json](./287041-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json) |
 | Cupid Parasite/Cupid Parasite: Sweet and Spicy Darling – Day One Edition | 287042 | [287042-cupid-parasite-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json](./287042-cupid-parasite-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json) |
 | Cupid Story: First Date | 186508 | [186508-cupid-story-first-date.json](./186508-cupid-story-first-date.json) |
+| Cupid: Roguelite | 273512 | [273512-cupid-roguelite.json](./273512-cupid-roguelite.json) |
 | Cupid's Bargain | 392422 | [392422-cupids-bargain.json](./392422-cupids-bargain.json) |
 | Cupid's Chatroom | 309162 | [309162-cupids-chatroom.json](./309162-cupids-chatroom.json) |
 | Cupids Arrow | 399422 | [399422-cupids-arrow.json](./399422-cupids-arrow.json) |
@@ -17477,6 +17478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberdrome | 113511 | [113511-cyberdrome.json](./113511-cyberdrome.json) |
 | Cyberdyne Warrior | 47234 | [47234-cyberdyne-warrior.json](./47234-cyberdyne-warrior.json) |
 | Cyberemo 2007 | 380620 | [380620-cyberemo-2007.json](./380620-cyberemo-2007.json) |
+| CyberFall | 273511 | [273511-cyberfall.json](./273511-cyberfall.json) |
 | CyberFarm | 273777 | [273777-cyberfarm.json](./273777-cyberfarm.json) |
 | Cyberference | 244490 | [244490-cyberference.json](./244490-cyberference.json) |
 | Cyberfield | 258614 | [258614-cyberfield.json](./258614-cyberfield.json) |
