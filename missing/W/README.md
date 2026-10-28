@@ -2472,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Live Momora! | 402461 | [402461-we-are-live-momora.json](./402461-we-are-live-momora.json) |
 | We Are Locked | 351484 | [351484-we-are-locked.json](./351484-we-are-locked.json) |
 | We are Monsters | 299406 | [299406-we-are-monsters.json](./299406-we-are-monsters.json) |
+| We Are Not Alone | 229866 | [229866-we-are-not-alone.json](./229866-we-are-not-alone.json) |
 | We Are Not Alone: Contact | 312866 | [312866-we-are-not-alone-contact.json](./312866-we-are-not-alone-contact.json) |
 | We Are OFK | 152177 | [152177-we-are-ofk.json](./152177-we-are-ofk.json) |
 | We Are Only Moving Towards Each Other | 299117 | [299117-we-are-only-moving-towards-each-other.json](./299117-we-are-only-moving-towards-each-other.json) |
@@ -3832,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | While (true) | 312594 | [312594-while-true.json](./312594-while-true.json) |
 | While 1: | 364620 | [364620-while-1.json](./364620-while-1.json) |
 | While Dreaming | 185357 | [185357-while-dreaming.json](./185357-while-dreaming.json) |
+| While I'm Still Your Eyes | 229899 | [229899-while-im-still-your-eyes.json](./229899-while-im-still-your-eyes.json) |
 | While Mom is Away | 312552 | [312552-while-mom-is-away.json](./312552-while-mom-is-away.json) |
 | While Sleeping | 312553 | [312553-while-sleeping.json](./312553-while-sleeping.json) |
 | While the Whole World Laughs | 241486 | [241486-while-the-whole-world-laughs.json](./241486-while-the-whole-world-laughs.json) |
