@@ -4727,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phenomena Embattled | 274335 | [274335-phenomena-embattled.json](./274335-phenomena-embattled.json) |
 | Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
 | Phenomeno: Mitsurugi Yoishi wa Kowagaranai | 64150 | [64150-phenomeno-mitsurugi-yoishi-wa-kowagaranai.json](./64150-phenomeno-mitsurugi-yoishi-wa-kowagaranai.json) |
+| Phenomenon User Metropolitan Highway Invincible Legend Second Stage: Clash! Metropolitan Expressway Grand Prix- | 269941 | [269941-phenomenon-user-metropolitan-highway-invincible-legend-second-stage-clash-metropolitan-expressway-grand-prix.json](./269941-phenomenon-user-metropolitan-highway-invincible-legend-second-stage-clash-metropolitan-expressway-grand-prix.json) |
 | Phenomenon: City of Cyan | 61531 | [61531-phenomenon-city-of-cyan.json](./61531-phenomenon-city-of-cyan.json) |
 | Phenomenon: Outcome | 61533 | [61533-phenomenon-outcome.json](./61533-phenomenon-outcome.json) |
 | Phenomenon32 | 170228 | [170228-phenomenon32.json](./170228-phenomenon32.json) |
@@ -5402,6 +5403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PiePlex | 402950 | [402950-pieplex.json](./402950-pieplex.json) |
 | Pier Game | 340543 | [340543-pier-game.json](./340543-pier-game.json) |
 | Pier Pressure | 141532 | [141532-pier-pressure.json](./141532-pier-pressure.json) |
+| Pier Solar and the Great Architects | 270234 | [270234-pier-solar-and-the-great-architects.json](./270234-pier-solar-and-the-great-architects.json) |
 | Pier Solar and the Great Architects | 4512 | [4512-pier-solar-and-the-great-architects.json](./4512-pier-solar-and-the-great-architects.json) |
 | Pier57 Autocracy | 80470 | [80470-pier57-autocracy.json](./80470-pier57-autocracy.json) |
 | Pierce Through Heavens | 415037 | [415037-pierce-through-heavens.json](./415037-pierce-through-heavens.json) |
@@ -5681,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pill Puzzle | 241868 | [241868-pill-puzzle.json](./241868-pill-puzzle.json) |
 | Pill Puzzle 2 | 163549 | [163549-pill-puzzle-2.json](./163549-pill-puzzle-2.json) |
 | Pilla's Paradise | 255573 | [255573-pillas-paradise.json](./255573-pillas-paradise.json) |
+| Pillage the Village | 269937 | [269937-pillage-the-village.json](./269937-pillage-the-village.json) |
 | Pillaged Village: Humbled by Savages | 315133 | [315133-pillaged-village-humbled-by-savages.json](./315133-pillaged-village-humbled-by-savages.json) |
 | Pillar | 35188 | [35188-pillar.json](./35188-pillar.json) |
 | Pillar Builder Puzzle | 214684 | [214684-pillar-builder-puzzle.json](./214684-pillar-builder-puzzle.json) |
@@ -9492,6 +9495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Crystal Advance Redux | 252910 | [252910-pokemon-crystal-advance-redux.json](./252910-pokemon-crystal-advance-redux.json) |
 | Pokémon Crystal Inheritance | 408208 | [408208-pokemon-crystal-inheritance.json](./408208-pokemon-crystal-inheritance.json) |
 | Pokémon Crystal Kaizo | 210705 | [210705-pokemon-crystal-kaizo.json](./210705-pokemon-crystal-kaizo.json) |
+| Pokémon Crystal Legacy | 269946 | [269946-pokemon-crystal-legacy.json](./269946-pokemon-crystal-legacy.json) |
 | Pokémon Crystal Ultimate | 221660 | [221660-pokemon-crystal-ultimate.json](./221660-pokemon-crystal-ultimate.json) |
 | Pokémon CrystalDust | 346232 | [346232-pokemon-crystaldust.json](./346232-pokemon-crystaldust.json) |
 | Pokémon Cursed Version | 384834 | [384834-pokemon-cursed-version.json](./384834-pokemon-cursed-version.json) |
@@ -10946,6 +10950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popeye 2 | 12593 | [12593-popeye-2.json](./12593-popeye-2.json) |
 | Popeye and the Quest for the Woolly Mammoth | 73718 | [73718-popeye-and-the-quest-for-the-woolly-mammoth.json](./73718-popeye-and-the-quest-for-the-woolly-mammoth.json) |
 | Popeye Beach Volleyball | 45250 | [45250-popeye-beach-volleyball.json](./45250-popeye-beach-volleyball.json) |
+| Popeye Meets Ali Baba's Forty Thieves | 269925 | [269925-popeye-meets-ali-babas-forty-thieves.json](./269925-popeye-meets-ali-babas-forty-thieves.json) |
 | Popeye no Eigo Asobi | 48641 | [48641-popeye-no-eigo-asobi.json](./48641-popeye-no-eigo-asobi.json) |
 | Popeye: The Rescue | 209330 | [209330-popeye-the-rescue.json](./209330-popeye-the-rescue.json) |
 | PopGerm Classic | 253021 | [253021-popgerm-classic.json](./253021-popgerm-classic.json) |
@@ -11260,6 +11265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Possession Magenta | 60955 | [60955-possession-magenta.json](./60955-possession-magenta.json) |
 | Possession Obsession | 190419 | [190419-possession-obsession.json](./190419-possession-obsession.json) |
 | Possessioner | 213296 | [213296-possessioner.json](./213296-possessioner.json) |
+| Possessions | 269955 | [269955-possessions.json](./269955-possessions.json) |
 | Posshexor | 323810 | [323810-posshexor.json](./323810-posshexor.json) |
 | Possibility Space | 285152 | [285152-possibility-space.json](./285152-possibility-space.json) |
 | Possible One: Lunar Industries | 315341 | [315341-possible-one-lunar-industries.json](./315341-possible-one-lunar-industries.json) |
@@ -15835,6 +15841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Series Vol. 11: Nurikabe | 83412 | [83412-puzzle-series-vol-11-nurikabe.json](./83412-puzzle-series-vol-11-nurikabe.json) |
 | Puzzle Series Vol. 12: Akari | 184569 | [184569-puzzle-series-vol-12-akari.json](./184569-puzzle-series-vol-12-akari.json) |
 | Puzzle Series Vol. 2: Illust Logic + Colourful Logic | 85359 | [85359-puzzle-series-vol-2-illust-logic-colourful-logic.json](./85359-puzzle-series-vol-2-illust-logic-colourful-logic.json) |
+| Puzzle Series Vol. 3: Sudoku | 269954 | [269954-puzzle-series-vol-3-sudoku.json](./269954-puzzle-series-vol-3-sudoku.json) |
 | Puzzle Series Vol. 8: Nankuro | 83407 | [83407-puzzle-series-vol-8-nankuro.json](./83407-puzzle-series-vol-8-nankuro.json) |
 | Puzzle Series Vol. 9: Sudoku 2 Deluxe | 83411 | [83411-puzzle-series-vol-9-sudoku-2-deluxe.json](./83411-puzzle-series-vol-9-sudoku-2-deluxe.json) |
 | Puzzle Series: Jigsaw Puzzle - Koneko Mekuri-hen | 344572 | [344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json](./344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json) |
