@@ -2946,6 +2946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Four for Four | 218931 | [218931-teenage-mutant-ninja-turtles-four-for-four.json](./218931-teenage-mutant-ninja-turtles-four-for-four.json) |
 | Teenage Mutant Ninja Turtles: Master Splinter's Training Pack | 79779 | [79779-teenage-mutant-ninja-turtles-master-splinters-training-pack.json](./79779-teenage-mutant-ninja-turtles-master-splinters-training-pack.json) |
 | Teenage Mutant Ninja Turtles: Mutant Madness | 138015 | [138015-teenage-mutant-ninja-turtles-mutant-madness.json](./138015-teenage-mutant-ninja-turtles-mutant-madness.json) |
+| Teenage Mutant Ninja Turtles: Mutant Mayhem - Pizza Power | 261388 | [261388-teenage-mutant-ninja-turtles-mutant-mayhem-pizza-power.json](./261388-teenage-mutant-ninja-turtles-mutant-mayhem-pizza-power.json) |
 | Teenage Mutant Ninja Turtles: Mutant Rumble | 78281 | [78281-teenage-mutant-ninja-turtles-mutant-rumble.json](./78281-teenage-mutant-ninja-turtles-mutant-rumble.json) |
 | Teenage Mutant Ninja Turtles: Mutants & Monsters Mayhem | 146239 | [146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json](./146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json) |
 | Teenage Mutant Ninja Turtles: Mutants in Manhattan | 16989 | [16989-teenage-mutant-ninja-turtles-mutants-in-manhattan.json](./16989-teenage-mutant-ninja-turtles-mutants-in-manhattan.json) |
@@ -5379,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bar | 256847 | [256847-the-bar.json](./256847-the-bar.json) |
 | The Bar Souls | 370448 | [370448-the-bar-souls.json](./370448-the-bar-souls.json) |
 | The Barbarian and the Subterranean Caves | 32846 | [32846-the-barbarian-and-the-subterranean-caves.json](./32846-the-barbarian-and-the-subterranean-caves.json) |
+| The Barbie Diaries: High School Mystery | 261391 | [261391-the-barbie-diaries-high-school-mystery.json](./261391-the-barbie-diaries-high-school-mystery.json) |
 | The Barbie Diaries: High School Mystery | 7638 | [7638-the-barbie-diaries-high-school-mystery.json](./7638-the-barbie-diaries-high-school-mystery.json) |
 | The Bard for Her | 279855 | [279855-the-bard-for-her.json](./279855-the-bard-for-her.json) |
 | The Bard's Lore II: The Dark Tower | 335046 | [335046-the-bards-lore-ii-the-dark-tower.json](./335046-the-bards-lore-ii-the-dark-tower.json) |
@@ -14708,6 +14710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Space Between | 122765 | [122765-the-space-between.json](./122765-the-space-between.json) |
 | The Space Between | 378418 | [378418-the-space-between.json](./378418-the-space-between.json) |
 | The Space Between Stars | 364379 | [364379-the-space-between-stars.json](./364379-the-space-between-stars.json) |
+| The Space Brigade: Space Raiders - Refueled | 261065 | [261065-the-space-brigade-space-raiders-refueled.json](./261065-the-space-brigade-space-raiders-refueled.json) |
 | The Space Mission | 272103 | [272103-the-space-mission.json](./272103-the-space-mission.json) |
 | The Space Opera "Dragon Eyes" | 125954 | [125954-the-space-opera-dragon-eyes.json](./125954-the-space-opera-dragon-eyes.json) |
 | The Space Sheriff Spirits | 64780 | [64780-the-space-sheriff-spirits.json](./64780-the-space-sheriff-spirits.json) |
@@ -27166,6 +27169,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrotMania IV: Euphorius | 313471 | [313471-trotmania-iv-euphorius.json](./313471-trotmania-iv-euphorius.json) |
 | TrotMania V: Shrive | 313338 | [313338-trotmania-v-shrive.json](./313338-trotmania-v-shrive.json) |
 | TrotMania: Aeternum Obscurum | 313470 | [313470-trotmania-aeternum-obscurum.json](./313470-trotmania-aeternum-obscurum.json) |
+| TrotMania: Chrystalize | 261385 | [261385-trotmania-chrystalize.json](./261385-trotmania-chrystalize.json) |
+| TrotMania: Rhythm is Magic | 261384 | [261384-trotmania-rhythm-is-magic.json](./261384-trotmania-rhythm-is-magic.json) |
 | Trouble Comes Twice: Bonus Stories | 295266 | [295266-trouble-comes-twice-bonus-stories.json](./295266-trouble-comes-twice-bonus-stories.json) |
 | Trouble Fortune Company Happy Cure | 221830 | [221830-trouble-fortune-company-happy-cure.json](./221830-trouble-fortune-company-happy-cure.json) |
 | Trouble in Cookie Town | 346378 | [346378-trouble-in-cookie-town.json](./346378-trouble-in-cookie-town.json) |
@@ -27276,6 +27281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Parking Simulator | 129628 | [129628-truck-parking-simulator.json](./129628-truck-parking-simulator.json) |
 | Truck Parking Simulator 2026 | 410833 | [410833-truck-parking-simulator-2026.json](./410833-truck-parking-simulator-2026.json) |
 | Truck Parking Simulator VR | 305943 | [305943-truck-parking-simulator-vr.json](./305943-truck-parking-simulator-vr.json) |
+| Truck Preparation For Driving VR Training | 261386 | [261386-truck-preparation-for-driving-vr-training.json](./261386-truck-preparation-for-driving-vr-training.json) |
 | Truck Racing | 89072 | [89072-truck-racing.json](./89072-truck-racing.json) |
 | Truck Racing 2 | 43540 | [43540-truck-racing-2.json](./43540-truck-racing-2.json) |
 | Truck Racing Simulator | 391348 | [391348-truck-racing-simulator.json](./391348-truck-racing-simulator.json) |
