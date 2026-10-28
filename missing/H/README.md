@@ -10652,6 +10652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hymn | 183937 | [183937-hymn.json](./183937-hymn.json) |
 | Hymn to the Earless God | 263959 | [263959-hymn-to-the-earless-god.json](./263959-hymn-to-the-earless-god.json) |
 | Hymn: A Heretic Community Project | 262180 | [262180-hymn-a-heretic-community-project.json](./262180-hymn-a-heretic-community-project.json) |
+| Hynpytol | 261397 | [261397-hynpytol.json](./261397-hynpytol.json) |
 | Hyokkori Hyoutan-jima: Takaramono Tocchae! | 346028 | [346028-hyokkori-hyoutan-jima-takaramono-tocchae.json](./346028-hyokkori-hyoutan-jima-takaramono-tocchae.json) |
 | Hyouji Gazou Henkou Kanou Typing | 301609 | [301609-hyouji-gazou-henkou-kanou-typing.json](./301609-hyouji-gazou-henkou-kanou-typing.json) |
 | Hyoukin Kyoushitsu | 385741 | [385741-hyoukin-kyoushitsu.json](./385741-hyoukin-kyoushitsu.json) |
