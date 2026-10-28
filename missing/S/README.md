@@ -6206,6 +6206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shan Gui II: Sweet Osmanthus II | 110467 | [110467-shan-gui-ii-sweet-osmanthus-ii.json](./110467-shan-gui-ii-sweet-osmanthus-ii.json) |
 | Shan Gui II: Sweet Osmanthus II - Episode 2 | 171349 | [171349-shan-gui-ii-sweet-osmanthus-ii-episode-2.json](./171349-shan-gui-ii-sweet-osmanthus-ii-episode-2.json) |
 | Shān Hǎi Cháng Gē | 284607 | [284607-shan-hai-chang-ge.json](./284607-shan-hai-chang-ge.json) |
+| Shan Hai Express | 256105 | [256105-shan-hai-express.json](./256105-shan-hai-express.json) |
 | Shan Hai: Mythic Origins | 374845 | [374845-shan-hai-mythic-origins.json](./374845-shan-hai-mythic-origins.json) |
 | Shan's Salty Seamen | 176291 | [176291-shans-salty-seamen.json](./176291-shans-salty-seamen.json) |
 | Shana's Adventure | 82727 | [82727-shanas-adventure.json](./82727-shanas-adventure.json) |
@@ -8458,6 +8459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuusou Gyoku | 123608 | [123608-shuusou-gyoku.json](./123608-shuusou-gyoku.json) |
 | Shuutai Headless | 150575 | [150575-shuutai-headless.json](./150575-shuutai-headless.json) |
 | Shuv-It | 202002 | [202002-shuv-it.json](./202002-shuv-it.json) |
+| Shuvani | 256103 | [256103-shuvani.json](./256103-shuvani.json) |
 | Shuwa no Mori | 254483 | [254483-shuwa-no-mori.json](./254483-shuwa-no-mori.json) |
 | Shuwa Shuwa Guin! | 383940 | [383940-shuwa-shuwa-guin.json](./383940-shuwa-shuwa-guin.json) |
 | ShuXian Chronicles: Idle Ascension | 358471 | [358471-shuxian-chronicles-idle-ascension.json](./358471-shuxian-chronicles-idle-ascension.json) |
@@ -11737,6 +11739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Smasher EX | 213645 | [213645-slime-smasher-ex.json](./213645-slime-smasher-ex.json) |
 | Slime Squisher | 331657 | [331657-slime-squisher.json](./331657-slime-squisher.json) |
 | Slime Store Simulator | 344988 | [344988-slime-store-simulator.json](./344988-slime-store-simulator.json) |
+| Slime Survivor | 256395 | [256395-slime-survivor.json](./256395-slime-survivor.json) |
 | Slime Survivors | 304878 | [304878-slime-survivors.json](./304878-slime-survivors.json) |
 | Slime Tactics | 113592 | [113592-slime-tactics.json](./113592-slime-tactics.json) |
 | Slime Tales | 372427 | [372427-slime-tales.json](./372427-slime-tales.json) |
@@ -21607,6 +21610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starium | 335796 | [335796-starium.json](./335796-starium.json) |
 | Starjet Fights | 246778 | [246778-starjet-fights.json](./246778-starjet-fights.json) |
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
+| Stark Tower Defense | 256093 | [256093-stark-tower-defense.json](./256093-stark-tower-defense.json) |
 | Starkid's Obstacle Course | 111199 | [111199-starkids-obstacle-course.json](./111199-starkids-obstacle-course.json) |
 | StarL2 | 274570 | [274570-starl2.json](./274570-starl2.json) |
 | Starlab | 258721 | [258721-starlab.json](./258721-starlab.json) |
@@ -24115,6 +24119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6: Year 1 - Akuma | 251704 | [251704-street-fighter-6-year-1-akuma.json](./251704-street-fighter-6-year-1-akuma.json) |
 | Street Fighter 6: Year 1 - Rashid | 251653 | [251653-street-fighter-6-year-1-rashid.json](./251653-street-fighter-6-year-1-rashid.json) |
 | Street Fighter 6: Year 1 Character Pass | 252070 | [252070-street-fighter-6-year-1-character-pass.json](./252070-street-fighter-6-year-1-character-pass.json) |
+| Street Fighter 6: Year 1 Ultimate Pass | 256097 | [256097-street-fighter-6-year-1-ultimate-pass.json](./256097-street-fighter-6-year-1-ultimate-pass.json) |
 | Street Fighter 6: Year 2 - Elena | 305007 | [305007-street-fighter-6-year-2-elena.json](./305007-street-fighter-6-year-2-elena.json) |
 | Street Fighter 6: Year 2 - M. Bison | 305008 | [305008-street-fighter-6-year-2-m-bison.json](./305008-street-fighter-6-year-2-m-bison.json) |
 | Street Fighter 6: Year 2 - Mai | 305009 | [305009-street-fighter-6-year-2-mai.json](./305009-street-fighter-6-year-2-mai.json) |
