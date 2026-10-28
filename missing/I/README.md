@@ -5788,6 +5788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Italy '90 Soccer | 140489 | [140489-italy-90-soccer.json](./140489-italy-90-soccer.json) |
 | Italy 1990 | 85520 | [85520-italy-1990.json](./85520-italy-1990.json) |
 | Itazura Madness | 305907 | [305907-itazura-madness.json](./305907-itazura-madness.json) |
+| Itazura na Keshigum | 238117 | [238117-itazura-na-keshigum.json](./238117-itazura-na-keshigum.json) |
 | Itazura Tenshi | 224946 | [224946-itazura-tenshi.json](./224946-itazura-tenshi.json) |
 | Itch | 25436 | [25436-itch.json](./25436-itch.json) |
 | Itch! | 143745 | [143745-itch.json](./143745-itch.json) |
