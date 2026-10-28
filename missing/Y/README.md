@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Arrive In A Town | 138653 | [138653-you-arrive-in-a-town.json](./138653-you-arrive-in-a-town.json) |
 | You Brought a Shield to a Tentacle Fight | 181791 | [181791-you-brought-a-shield-to-a-tentacle-fight.json](./181791-you-brought-a-shield-to-a-tentacle-fight.json) |
 | You Can Do!mino | 234271 | [234271-you-can-do-mino.json](./234271-you-can-do-mino.json) |
+| You Can Kana | 229890 | [229890-you-can-kana.json](./229890-you-can-kana.json) |
 | You can not be there | 229013 | [229013-you-can-not-be-there.json](./229013-you-can-not-be-there.json) |
 | You Can Only Turn Left | 298849 | [298849-you-can-only-turn-left.json](./298849-you-can-only-turn-left.json) |
 | You Can Pet the Dog VR | 158704 | [158704-you-can-pet-the-dog-vr.json](./158704-you-can-pet-the-dog-vr.json) |
@@ -1112,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're Doomed | 112154 | [112154-youre-doomed.json](./112154-youre-doomed.json) |
 | You're Fired | 99082 | [99082-youre-fired.json](./99082-youre-fired.json) |
 | You're Fired! | 367368 | [367368-youre-fired.json](./367368-youre-fired.json) |
+| You're Fired! Revenge! | 231582 | [231582-youre-fired-revenge.json](./231582-youre-fired-revenge.json) |
 | You're Full of It | 202180 | [202180-youre-full-of-it.json](./202180-youre-full-of-it.json) |
 | You're Going to Make a Great Mother One Day | 177490 | [177490-youre-going-to-make-a-great-mother-one-day.json](./177490-youre-going-to-make-a-great-mother-one-day.json) |
 | You're Gonna Die 1000 Times (Or So) | 321474 | [321474-youre-gonna-die-1000-times-or-so.json](./321474-youre-gonna-die-1000-times-or-so.json) |
