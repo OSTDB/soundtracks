@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6798,6 +6799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billiard Academy Real Break | 264254 | [264254-billiard-academy-real-break.json](./264254-billiard-academy-real-break.json) |
 | Billiard Club | 52459 | [52459-billiard-club.json](./52459-billiard-club.json) |
 | Billiard Japonais | 92291 | [92291-billiard-japonais.json](./92291-billiard-japonais.json) |
+| Billiard of Chaos | 274308 | [274308-billiard-of-chaos.json](./274308-billiard-of-chaos.json) |
 | Billiard Rampage | 389682 | [389682-billiard-rampage.json](./389682-billiard-rampage.json) |
 | Billiard: VR | 30197 | [30197-billiard-vr.json](./30197-billiard-vr.json) |
 | Billiards | 362425 | [362425-billiards.json](./362425-billiards.json) |
@@ -8347,6 +8349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaloon Blalympia | 187505 | [187505-blaloon-blalympia.json](./187505-blaloon-blalympia.json) |
 | Blaloon Blalympia 2 | 218374 | [218374-blaloon-blalympia-2.json](./218374-blaloon-blalympia-2.json) |
 | Blam! Machinehead | 45414 | [45414-blam-machinehead.json](./45414-blam-machinehead.json) |
+| Blamcon Shooting Gallery | 274294 | [274294-blamcon-shooting-gallery.json](./274294-blamcon-shooting-gallery.json) |
 | Blamdown Udder Fury | 33063 | [33063-blamdown-udder-fury.json](./33063-blamdown-udder-fury.json) |
 | Blame him | 111802 | [111802-blame-him.json](./111802-blame-him.json) |
 | Blame the Intern | 185369 | [185369-blame-the-intern.json](./185369-blame-the-intern.json) |
@@ -11701,6 +11704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boti: Byteland Overclocked | 221164 | [221164-boti-byteland-overclocked.json](./221164-boti-byteland-overclocked.json) |
 | Boti: Byteland Overclocked - Bit Racing | 327814 | [327814-boti-byteland-overclocked-bit-racing.json](./327814-boti-byteland-overclocked-bit-racing.json) |
 | Boti: Byteland Overclocked - Bitosaurus | 327813 | [327813-boti-byteland-overclocked-bitosaurus.json](./327813-boti-byteland-overclocked-bitosaurus.json) |
+| Boti: Byteland Overclocked - Click or Treat | 274591 | [274591-boti-byteland-overclocked-click-or-treat.json](./274591-boti-byteland-overclocked-click-or-treat.json) |
 | Boti: Byteland Overclocked - Deluxe Edition | 331249 | [331249-boti-byteland-overclocked-deluxe-edition.json](./331249-boti-byteland-overclocked-deluxe-edition.json) |
 | Boti: Byteland Overclocked - Hidden Giftware | 285112 | [285112-boti-byteland-overclocked-hidden-giftware.json](./285112-boti-byteland-overclocked-hidden-giftware.json) |
 | Botics | 14336 | [14336-botics.json](./14336-botics.json) |
@@ -15507,6 +15511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 21: Next Stop - MAN Bus Pack | 250415 | [250415-bus-simulator-21-next-stop-man-bus-pack.json](./250415-bus-simulator-21-next-stop-man-bus-pack.json) |
 | Bus Simulator 21: Next Stop - Official Map Extension | 249884 | [249884-bus-simulator-21-next-stop-official-map-extension.json](./249884-bus-simulator-21-next-stop-official-map-extension.json) |
 | Bus Simulator 21: Next Stop - Official School Bus Extension | 264117 | [264117-bus-simulator-21-next-stop-official-school-bus-extension.json](./264117-bus-simulator-21-next-stop-official-school-bus-extension.json) |
+| Bus Simulator 21: Next Stop - Official Tram Extension | 274602 | [274602-bus-simulator-21-next-stop-official-tram-extension.json](./274602-bus-simulator-21-next-stop-official-tram-extension.json) |
 | Bus Simulator 21: Next Stop - VDL Bus Pack | 250418 | [250418-bus-simulator-21-next-stop-vdl-bus-pack.json](./250418-bus-simulator-21-next-stop-vdl-bus-pack.json) |
 | Bus Simulator 21: Protect Nature Interior Pack | 213950 | [213950-bus-simulator-21-protect-nature-interior-pack.json](./213950-bus-simulator-21-protect-nature-interior-pack.json) |
 | Bus Simulator 21: USA Skin Pack | 213849 | [213849-bus-simulator-21-usa-skin-pack.json](./213849-bus-simulator-21-usa-skin-pack.json) |
