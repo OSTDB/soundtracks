@@ -6497,6 +6497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooper no Juggling Game | 354236 | [354236-wooper-no-juggling-game.json](./354236-wooper-no-juggling-game.json) |
 | Woorld | 25867 | [25867-woorld.json](./25867-woorld.json) |
 | WoozyHero | 120739 | [120739-woozyhero.json](./120739-woozyhero.json) |
+| Woozzle Reborn | 232097 | [232097-woozzle-reborn.json](./232097-woozzle-reborn.json) |
 | Wor Games | 335847 | [335847-wor-games.json](./335847-wor-games.json) |
 | Worbital | 105070 | [105070-worbital.json](./105070-worbital.json) |
 | Worcle Worlds | 84965 | [84965-worcle-worlds.json](./84965-worcle-worlds.json) |
@@ -7938,6 +7939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestle Angels: Double Impact | 37625 | [37625-wrestle-angels-double-impact.json](./37625-wrestle-angels-double-impact.json) |
 | Wrestle Angels: Survivor | 69146 | [69146-wrestle-angels-survivor.json](./69146-wrestle-angels-survivor.json) |
 | Wrestle Angels: Survivor 2 | 69147 | [69147-wrestle-angels-survivor-2.json](./69147-wrestle-angels-survivor-2.json) |
+| Wrestle Champs | 232085 | [232085-wrestle-champs.json](./232085-wrestle-champs.json) |
 | Wrestle Fight Girls | 59272 | [59272-wrestle-fight-girls.json](./59272-wrestle-fight-girls.json) |
 | Wrestle Jump Man | 101077 | [101077-wrestle-jump-man.json](./101077-wrestle-jump-man.json) |
 | Wrestle Kingdom | 7251 | [7251-wrestle-kingdom.json](./7251-wrestle-kingdom.json) |
