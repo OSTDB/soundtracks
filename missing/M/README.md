@@ -4784,7 +4784,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchmaking Inc. | 328921 | [328921-matchmaking-inc.json](./328921-matchmaking-inc.json) |
 | Matchmension: House of Mist | 197915 | [197915-matchmension-house-of-mist.json](./197915-matchmension-house-of-mist.json) |
 | MatchOolu | 320525 | [320525-matchoolu.json](./320525-matchoolu.json) |
-| Matchpoint: Tennis Championships | 188540 | [188540-matchpoint-tennis-championships.json](./188540-matchpoint-tennis-championships.json) |
 | Matchpoint: Tennis Championships - Legends DLC | 227316 | [227316-matchpoint-tennis-championships-legends-dlc.json](./227316-matchpoint-tennis-championships-legends-dlc.json) |
 | Matchpoint: Tennis Championships - Legends Edition | 199628 | [199628-matchpoint-tennis-championships-legends-edition.json](./199628-matchpoint-tennis-championships-legends-edition.json) |
 | Matchpoop | 265122 | [265122-matchpoop.json](./265122-matchpoop.json) |
@@ -10512,7 +10511,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindmist | 142653 | [142653-mindmist.json](./142653-mindmist.json) |
 | Mindnight | 52260 | [52260-mindnight.json](./52260-mindnight.json) |
 | Mindread | 293992 | [293992-mindread.json](./293992-mindread.json) |
-| Minds Beneath Us | 152379 | [152379-minds-beneath-us.json](./152379-minds-beneath-us.json) |
 | Minds Define Us | 414511 | [414511-minds-define-us.json](./414511-minds-define-us.json) |
 | Minds of Nations | 128985 | [128985-minds-of-nations.json](./128985-minds-of-nations.json) |
 | MindScape: Verenna | 274760 | [274760-mindscape-verenna.json](./274760-mindscape-verenna.json) |
