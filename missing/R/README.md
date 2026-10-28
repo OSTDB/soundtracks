@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rance VI: Collapse of Zeth | 132656 | [132656-rance-vi-collapse-of-zeth.json](./132656-rance-vi-collapse-of-zeth.json) |
 | Rance: Hikari wo Motomete | 72298 | [72298-rance-hikari-wo-motomete.json](./72298-rance-hikari-wo-motomete.json) |
 | Ranch Battle | 283053 | [283053-ranch-battle.json](./283053-ranch-battle.json) |
+| Ranch Escape | 233190 | [233190-ranch-escape.json](./233190-ranch-escape.json) |
 | Ranch Mayhem | 298049 | [298049-ranch-mayhem.json](./298049-ranch-mayhem.json) |
 | Ranch Planet | 104270 | [104270-ranch-planet.json](./104270-ranch-planet.json) |
 | Ranch Simulator | 121087 | [121087-ranch-simulator.json](./121087-ranch-simulator.json) |
@@ -2616,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Stories from the Grave: Maleficium | 214698 | [214698-real-stories-from-the-grave-maleficium.json](./214698-real-stories-from-the-grave-maleficium.json) |
 | Real Stories from the Grave: The Body | 297512 | [297512-real-stories-from-the-grave-the-body.json](./297512-real-stories-from-the-grave-the-body.json) |
 | Real Stories: Veterinaire | 268390 | [268390-real-stories-veterinaire.json](./268390-real-stories-veterinaire.json) |
+| Real Street Basketball 3D | 233157 | [233157-real-street-basketball-3d.json](./233157-real-street-basketball-3d.json) |
 | Real Stunt Master 3D | 100646 | [100646-real-stunt-master-3d.json](./100646-real-stunt-master-3d.json) |
 | Real Sudoku3D | 91308 | [91308-real-sudoku3d.json](./91308-real-sudoku3d.json) |
 | Real Talk | 185342 | [185342-real-talk.json](./185342-real-talk.json) |
@@ -10196,6 +10198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rrrr3 | 168059 | [168059-rrrr3.json](./168059-rrrr3.json) |
 | RrrrrAbbits | 339983 | [339983-rrrrrabbits.json](./339983-rrrrrabbits.json) |
 | RRWard02 | 274209 | [274209-rrward02.json](./274209-rrward02.json) |
+| RS Boxing Champions | 233162 | [233162-rs-boxing-champions.json](./233162-rs-boxing-champions.json) |
 | RS3: Racing Simulation Three | 73359 | [73359-rs3-racing-simulation-three.json](./73359-rs3-racing-simulation-three.json) |
 | RSDKv4 Decompilation | 202233 | [202233-rsdkv4-decompilation.json](./202233-rsdkv4-decompilation.json) |
 | RSSU: Retro Style Soviet Undies | 298065 | [298065-rssu-retro-style-soviet-undies.json](./298065-rssu-retro-style-soviet-undies.json) |
@@ -11055,6 +11058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush For Glory | 10803 | [10803-rush-for-glory.json](./10803-rush-for-glory.json) |
 | Rush for Gold: California | 33345 | [33345-rush-for-gold-california.json](./33345-rush-for-gold-california.json) |
 | Rush for the Bomb | 54352 | [54352-rush-for-the-bomb.json](./54352-rush-for-the-bomb.json) |
+| Rush Galaxy | 233151 | [233151-rush-galaxy.json](./233151-rush-galaxy.json) |
 | Rush Grotto | 378895 | [378895-rush-grotto.json](./378895-rush-grotto.json) |
 | Rush Hero | 291955 | [291955-rush-hero.json](./291955-rush-hero.json) |
 | Rush Hour | 18541 | [18541-rush-hour.json](./18541-rush-hour.json) |
