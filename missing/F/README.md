@@ -7984,6 +7984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager Quiz | 318991 | [318991-football-manager-quiz.json](./318991-football-manager-quiz.json) |
 | Football Manager Touch 2016 | 371216 | [371216-football-manager-touch-2016.json](./371216-football-manager-touch-2016.json) |
 | Football Manager: World Cup Edition | 41003 | [41003-football-manager-world-cup-edition.json](./41003-football-manager-world-cup-edition.json) |
+| Football Master | 256954 | [256954-football-master.json](./256954-football-master.json) |
 | Football Master 2: FT9's Coming | 223938 | [223938-football-master-2-ft9s-coming.json](./223938-football-master-2-ft9s-coming.json) |
 | Football Masters 99 | 70789 | [70789-football-masters-99.json](./70789-football-masters-99.json) |
 | Football Mini Stars | 347322 | [347322-football-mini-stars.json](./347322-football-mini-stars.json) |
@@ -8947,6 +8948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Airphoria Pack | 260134 | [260134-fortnite-airphoria-pack.json](./260134-fortnite-airphoria-pack.json) |
 | Fortnite: Anime Legends Pack | 212329 | [212329-fortnite-anime-legends-pack.json](./212329-fortnite-anime-legends-pack.json) |
 | Fortnite: Bee Positive Pack | 363901 | [363901-fortnite-bee-positive-pack.json](./363901-fortnite-bee-positive-pack.json) |
+| Fortnite: Captain Hypatia's Level Up Quest Pack | 256639 | [256639-fortnite-captain-hypatias-level-up-quest-pack.json](./256639-fortnite-captain-hypatias-level-up-quest-pack.json) |
 | Fortnite: Chapter 2 | 129880 | [129880-fortnite-chapter-2.json](./129880-fortnite-chapter-2.json) |
 | Fortnite: Chapter 2 - Season 2 | 129912 | [129912-fortnite-chapter-2-season-2.json](./129912-fortnite-chapter-2-season-2.json) |
 | Fortnite: Chapter 2 - Season 3 | 135138 | [135138-fortnite-chapter-2-season-3.json](./135138-fortnite-chapter-2-season-3.json) |
@@ -9537,6 +9539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal Sailor | 293745 | [293745-fractal-sailor.json](./293745-fractal-sailor.json) |
 | Fractala Sandbox | 361028 | [361028-fractala-sandbox.json](./361028-fractala-sandbox.json) |
 | Fractalis | 121775 | [121775-fractalis.json](./121775-fractalis.json) |
+| Fractals of Destiny | 256955 | [256955-fractals-of-destiny.json](./256955-fractals-of-destiny.json) |
 | Fractasia VR | 105997 | [105997-fractasia-vr.json](./105997-fractasia-vr.json) |
 | Fracter | 101167 | [101167-fracter.json](./101167-fracter.json) |
 | Fraction Munchers | 325302 | [325302-fraction-munchers.json](./325302-fraction-munchers.json) |
