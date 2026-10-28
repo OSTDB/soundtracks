@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radzone | 256248 | [256248-radzone.json](./256248-radzone.json) |
 | Raef | 131588 | [131588-raef.json](./131588-raef.json) |
 | Raev: Kingdom on the Distant Shores | 336154 | [336154-raev-kingdom-on-the-distant-shores.json](./336154-raev-kingdom-on-the-distant-shores.json) |
+| Rafa's World | 231034 | [231034-rafas-world.json](./231034-rafas-world.json) |
 | Rafa's World + Axolotl + Cat Milk | 242658 | [242658-rafas-world-axolotl-cat-milk.json](./242658-rafas-world-axolotl-cat-milk.json) |
 | Raffle Cat | 123254 | [123254-raffle-cat.json](./123254-raffle-cat.json) |
 | Rafflesia | 40167 | [40167-rafflesia.json](./40167-rafflesia.json) |
@@ -9052,6 +9053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Crash | 114722 | [114722-roller-crash.json](./114722-roller-crash.json) |
 | Roller Drama | 143895 | [143895-roller-drama.json](./143895-roller-drama.json) |
 | Roller Jammer | 40420 | [40420-roller-jammer.json](./40420-roller-jammer.json) |
+| Roller Katz: BF - Episode 1 | 231041 | [231041-roller-katz-bf-episode-1.json](./231041-roller-katz-bf-episode-1.json) |
 | Roller Loop | 350198 | [350198-roller-loop.json](./350198-roller-loop.json) |
 | Roller Riot | 132703 | [132703-roller-riot.json](./132703-roller-riot.json) |
 | Roller Rush | 209008 | [209008-roller-rush.json](./209008-roller-rush.json) |
@@ -10563,6 +10565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Stars | 114700 | [114700-rumble-stars.json](./114700-rumble-stars.json) |
 | Rumble Sus | 238437 | [238437-rumble-sus.json](./238437-rumble-sus.json) |
 | Rumble Trucks | 44515 | [44515-rumble-trucks.json](./44515-rumble-trucks.json) |
+| Rumbleverse: Holiday Demon Pack | 231013 | [231013-rumbleverse-holiday-demon-pack.json](./231013-rumbleverse-holiday-demon-pack.json) |
 | Rumbly | 344294 | [344294-rumbly.json](./344294-rumbly.json) |
 | Rumbo and the Quest for Scar City | 185382 | [185382-rumbo-and-the-quest-for-scar-city.json](./185382-rumbo-and-the-quest-for-scar-city.json) |
 | Rumbral | 344465 | [344465-rumbral.json](./344465-rumbral.json) |
