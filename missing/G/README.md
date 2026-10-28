@@ -7015,6 +7015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grav Factor | 236323 | [236323-grav-factor.json](./236323-grav-factor.json) |
 | Grav Grav Gravity | 43163 | [43163-grav-grav-gravity.json](./43163-grav-grav-gravity.json) |
 | Grav My Balls | 345127 | [345127-grav-my-balls.json](./345127-grav-my-balls.json) |
+| Grav1ty | 275994 | [275994-grav1ty.json](./275994-grav1ty.json) |
 | Gravarior | 285496 | [285496-gravarior.json](./285496-gravarior.json) |
 | Gravastar | 125329 | [125329-gravastar.json](./125329-gravastar.json) |
 | GravBlocks | 34436 | [34436-gravblocks.json](./34436-gravblocks.json) |
