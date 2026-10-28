@@ -2938,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2 VR | 150511 | [150511-payday-2-vr.json](./150511-payday-2-vr.json) |
 | Payday 2: Armored Transport | 167696 | [167696-payday-2-armored-transport.json](./167696-payday-2-armored-transport.json) |
 | Payday 2: Biker Character Pack | 225108 | [225108-payday-2-biker-character-pack.json](./225108-payday-2-biker-character-pack.json) |
+| Payday 2: Black Cat Heist | 240976 | [240976-payday-2-black-cat-heist.json](./240976-payday-2-black-cat-heist.json) |
 | Payday 2: Border Crossing Heist | 167700 | [167700-payday-2-border-crossing-heist.json](./167700-payday-2-border-crossing-heist.json) |
 | Payday 2: Breakfast in Tijuana Heist | 167691 | [167691-payday-2-breakfast-in-tijuana-heist.json](./167691-payday-2-breakfast-in-tijuana-heist.json) |
 | Payday 2: Buluc's Mansion Heist | 167688 | [167688-payday-2-bulucs-mansion-heist.json](./167688-payday-2-bulucs-mansion-heist.json) |
@@ -2966,12 +2967,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: Guardians Tailor Pack | 225166 | [225166-payday-2-guardians-tailor-pack.json](./225166-payday-2-guardians-tailor-pack.json) |
 | Payday 2: H3H3 Character Pack | 225125 | [225125-payday-2-h3h3-character-pack.json](./225125-payday-2-h3h3-character-pack.json) |
 | Payday 2: High Octane Tailor Pack | 225167 | [225167-payday-2-high-octane-tailor-pack.json](./225167-payday-2-high-octane-tailor-pack.json) |
+| Payday 2: Hostile Takeover Heist | 240957 | [240957-payday-2-hostile-takeover-heist.json](./240957-payday-2-hostile-takeover-heist.json) |
 | Payday 2: John Wick Heists | 167686 | [167686-payday-2-john-wick-heists.json](./167686-payday-2-john-wick-heists.json) |
 | Payday 2: Lawless Tailor Pack | 252884 | [252884-payday-2-lawless-tailor-pack.json](./252884-payday-2-lawless-tailor-pack.json) |
 | Payday 2: Legacy Collection | 289004 | [289004-payday-2-legacy-collection.json](./289004-payday-2-legacy-collection.json) |
+| Payday 2: Lost in Transit Heist | 240958 | [240958-payday-2-lost-in-transit-heist.json](./240958-payday-2-lost-in-transit-heist.json) |
 | Payday 2: McShay Mod Pack | 263089 | [263089-payday-2-mcshay-mod-pack.json](./263089-payday-2-mcshay-mod-pack.json) |
 | Payday 2: McShay Weapon Pack | 225170 | [225170-payday-2-mcshay-weapon-pack.json](./225170-payday-2-mcshay-weapon-pack.json) |
 | Payday 2: Mega City Tailor Pack | 225171 | [225171-payday-2-mega-city-tailor-pack.json](./225171-payday-2-mega-city-tailor-pack.json) |
+| Payday 2: Midland Ranch Heist | 240963 | [240963-payday-2-midland-ranch-heist.json](./240963-payday-2-midland-ranch-heist.json) |
 | Payday 2: Mountain Master Heist | 196150 | [196150-payday-2-mountain-master-heist.json](./196150-payday-2-mountain-master-heist.json) |
 | Payday 2: San Martin Bank Heist | 167690 | [167690-payday-2-san-martin-bank-heist.json](./167690-payday-2-san-martin-bank-heist.json) |
 | Payday 2: Scarface Heist | 167698 | [167698-payday-2-scarface-heist.json](./167698-payday-2-scarface-heist.json) |
@@ -10499,6 +10503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Runner VR | 19038 | [19038-poly-runner-vr.json](./19038-poly-runner-vr.json) |
 | Poly S.A.E. | 185541 | [185541-poly-s-a-e.json](./185541-poly-s-a-e.json) |
 | Poly Shooting Simulator | 277886 | [277886-poly-shooting-simulator.json](./277886-poly-shooting-simulator.json) |
+| Poly Smash | 240617 | [240617-poly-smash.json](./240617-poly-smash.json) |
 | Poly Soldiers | 120811 | [120811-poly-soldiers.json](./120811-poly-soldiers.json) |
 | Poly Squad | 149076 | [149076-poly-squad.json](./149076-poly-squad.json) |
 | Poly Survivor | 270946 | [270946-poly-survivor.json](./270946-poly-survivor.json) |
