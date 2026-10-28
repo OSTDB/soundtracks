@@ -2366,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 22: Farm Production Pack | 296643 | [296643-farming-simulator-22-farm-production-pack.json](./296643-farming-simulator-22-farm-production-pack.json) |
 | Farming Simulator 22: Göweil Pack | 239013 | [239013-farming-simulator-22-goweil-pack.json](./239013-farming-simulator-22-goweil-pack.json) |
 | Farming Simulator 22: Mack Trucks - Black Anthem | 206531 | [206531-farming-simulator-22-mack-trucks-black-anthem.json](./206531-farming-simulator-22-mack-trucks-black-anthem.json) |
+| Farming Simulator 22: OXBO Pack | 265460 | [265460-farming-simulator-22-oxbo-pack.json](./265460-farming-simulator-22-oxbo-pack.json) |
 | Farming Simulator 22: Platinum Edition | 209191 | [209191-farming-simulator-22-platinum-edition.json](./209191-farming-simulator-22-platinum-edition.json) |
 | Farming Simulator 22: Premium Expansion | 255023 | [255023-farming-simulator-22-premium-expansion.json](./255023-farming-simulator-22-premium-expansion.json) |
 | Farming Simulator 22: Pumps n' Hoses Pack | 210271 | [210271-farming-simulator-22-pumps-n-hoses-pack.json](./210271-farming-simulator-22-pumps-n-hoses-pack.json) |
@@ -9810,6 +9811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Lab VR | 401383 | [401383-freaky-lab-vr.json](./401383-freaky-lab-vr.json) |
 | Freaky Panties | 262601 | [262601-freaky-panties.json](./262601-freaky-panties.json) |
 | Freaky Racing | 233112 | [233112-freaky-racing.json](./233112-freaky-racing.json) |
+| Freaky Trip | 265805 | [265805-freaky-trip.json](./265805-freaky-trip.json) |
 | Freaky Trip: Amazing Edition | 308803 | [308803-freaky-trip-amazing-edition.json](./308803-freaky-trip-amazing-edition.json) |
 | Freaky Trip: Camp Pack | 324414 | [324414-freaky-trip-camp-pack.json](./324414-freaky-trip-camp-pack.json) |
 | Freaky Trip: Complete Edition | 290447 | [290447-freaky-trip-complete-edition.json](./290447-freaky-trip-complete-edition.json) |
@@ -10600,6 +10602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggie Eggs | 344716 | [344716-froggie-eggs.json](./344716-froggie-eggs.json) |
 | Froggie: A Retro Platformer | 211968 | [211968-froggie-a-retro-platformer.json](./211968-froggie-a-retro-platformer.json) |
 | FroggieChat | 184831 | [184831-froggiechat.json](./184831-froggiechat.json) |
+| Froggies at the Zoo | 265459 | [265459-froggies-at-the-zoo.json](./265459-froggies-at-the-zoo.json) |
 | Froggin Up | 236128 | [236128-froggin-up.json](./236128-froggin-up.json) |
 | Froggin' Around | 265777 | [265777-froggin-around.json](./265777-froggin-around.json) |
 | Froggle | 407506 | [407506-froggle.json](./407506-froggle.json) |
