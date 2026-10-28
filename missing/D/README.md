@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darklands | 278369 | [278369-darklands.json](./278369-darklands.json) |
 | Darklands: Awakening | 164520 | [164520-darklands-awakening.json](./164520-darklands-awakening.json) |
 | DarkLast | 86618 | [86618-darklast.json](./86618-darklast.json) |
+| Darkless | 264172 | [264172-darkless.json](./264172-darkless.json) |
 | Darklight Conflict | 2399 | [2399-darklight-conflict.json](./2399-darklight-conflict.json) |
 | Darklight: Origin | 157100 | [157100-darklight-origin.json](./157100-darklight-origin.json) |
 | DarkLight: Platformer | 273509 | [273509-darklight-platformer.json](./273509-darklight-platformer.json) |
@@ -14009,6 +14010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscape Highschool | 337452 | [337452-dreamscape-highschool.json](./337452-dreamscape-highschool.json) |
 | Dreamscape Highschool: After Stories | 337451 | [337451-dreamscape-highschool-after-stories.json](./337451-dreamscape-highschool-after-stories.json) |
 | Dreamscape Journey | 180653 | [180653-dreamscape-journey.json](./180653-dreamscape-journey.json) |
+| Dreamscape Puzzles | 263870 | [263870-dreamscape-puzzles.json](./263870-dreamscape-puzzles.json) |
 | Dreamscape Return | 290920 | [290920-dreamscape-return.json](./290920-dreamscape-return.json) |
 | Dreamscape Runners | 238503 | [238503-dreamscape-runners.json](./238503-dreamscape-runners.json) |
 | DreamScapes Dimensions | 189339 | [189339-dreamscapes-dimensions.json](./189339-dreamscapes-dimensions.json) |
@@ -14148,6 +14150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Apocalypse | 296091 | [296091-drift-apocalypse.json](./296091-drift-apocalypse.json) |
 | Drift Boom Boom | 296877 | [296877-drift-boom-boom.json](./296877-drift-boom-boom.json) |
 | Drift Boss | 145531 | [145531-drift-boss.json](./145531-drift-boss.json) |
+| Drift Cars Zombie Crusher | 263864 | [263864-drift-cars-zombie-crusher.json](./263864-drift-cars-zombie-crusher.json) |
 | Drift Cart | 365239 | [365239-drift-cart.json](./365239-drift-cart.json) |
 | Drift City | 259514 | [259514-drift-city.json](./259514-drift-city.json) |
 | Drift City Underground | 235662 | [235662-drift-city-underground.json](./235662-drift-city-underground.json) |
