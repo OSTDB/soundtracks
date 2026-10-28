@@ -12435,6 +12435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Before Star Wars | 233653 | [233653-the-night-before-star-wars.json](./233653-the-night-before-star-wars.json) |
 | The Night Cafe | 32491 | [32491-the-night-cafe.json](./32491-the-night-cafe.json) |
 | The Night Crawler | 375210 | [375210-the-night-crawler.json](./375210-the-night-crawler.json) |
+| The Night Driver | 240031 | [240031-the-night-driver.json](./240031-the-night-driver.json) |
 | The Night Fisherman | 134493 | [134493-the-night-fisherman.json](./134493-the-night-fisherman.json) |
 | The Night Guard | 295385 | [295385-the-night-guard.json](./295385-the-night-guard.json) |
 | The Night Gym | 366333 | [366333-the-night-gym.json](./366333-the-night-gym.json) |
