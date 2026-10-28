@@ -6722,7 +6722,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorhaven: Cursed War | 278927 | [278927-lorhaven-cursed-war.json](./278927-lorhaven-cursed-war.json) |
 | Loria | 111928 | [111928-loria.json](./111928-loria.json) |
 | Lorn Vale | 305172 | [305172-lorn-vale.json](./305172-lorn-vale.json) |
-| Lorn's Lure | 145858 | [145858-lorns-lure.json](./145858-lorns-lure.json) |
 | Lorn's Lure: Danny's Song | 321662 | [321662-lorns-lure-dannys-song.json](./321662-lorns-lure-dannys-song.json) |
 | Lorne | 235754 | [235754-lorne.json](./235754-lorne.json) |
 | Lornsword Winter Chronicle | 117358 | [117358-lornsword-winter-chronicle.json](./117358-lornsword-winter-chronicle.json) |
@@ -7964,6 +7963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Dreams | 403918 | [403918-lucid-dreams.json](./403918-lucid-dreams.json) |
 | Lucid Echoes | 275537 | [275537-lucid-echoes.json](./275537-lucid-echoes.json) |
 | Lucid Falls | 381075 | [381075-lucid-falls.json](./381075-lucid-falls.json) |
+| Lucid Lenses | 254709 | [254709-lucid-lenses.json](./254709-lucid-lenses.json) |
 | Lucid Lucy | 228957 | [228957-lucid-lucy.json](./228957-lucid-lucy.json) |
 | Lucid Night | 277800 | [277800-lucid-night.json](./277800-lucid-night.json) |
 | Lucid Nightmares | 355126 | [355126-lucid-nightmares.json](./355126-lucid-nightmares.json) |
