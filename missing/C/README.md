@@ -9779,6 +9779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coins Only! | 373113 | [373113-coins-only.json](./373113-coins-only.json) |
 | Coinsweeper | 385932 | [385932-coinsweeper.json](./385932-coinsweeper.json) |
 | Coiny Block | 98441 | [98441-coiny-block.json](./98441-coiny-block.json) |
+| Coke | 274842 | [274842-coke.json](./274842-coke.json) |
 | Coke Bugs | 265398 | [265398-coke-bugs.json](./265398-coke-bugs.json) |
 | Col:Verse | 293830 | [293830-col-verse.json](./293830-col-verse.json) |
 | Cola | 372202 | [372202-cola.json](./372202-cola.json) |
