@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lake Road | 173242 | [173242-lake-road.json](./173242-lake-road.json) |
 | Lake Stillwater | 404442 | [404442-lake-stillwater.json](./404442-lake-stillwater.json) |
 | Lake: Season's Greetings | 252357 | [252357-lake-seasons-greetings.json](./252357-lake-seasons-greetings.json) |
+| Lake: Special Delivery | 276865 | [276865-lake-special-delivery.json](./276865-lake-special-delivery.json) |
 | Lakeburg | 405027 | [405027-lakeburg.json](./405027-lakeburg.json) |
 | Lakeburg Legacies: Supporter's Pack | 257460 | [257460-lakeburg-legacies-supporters-pack.json](./257460-lakeburg-legacies-supporters-pack.json) |
 | Lakefront Restaurant | 272303 | [272303-lakefront-restaurant.json](./272303-lakefront-restaurant.json) |
@@ -4877,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisssn | 82335 | [82335-lisssn.json](./82335-lisssn.json) |
 | List 118 | 263952 | [263952-list-118.json](./263952-list-118.json) |
 | List Animals Until Failure | 388370 | [388370-list-animals-until-failure.json](./388370-list-animals-until-failure.json) |
+| List-Runner | 276870 | [276870-list-runner.json](./276870-list-runner.json) |
 | Listed | 361868 | [361868-listed.json](./361868-listed.json) |
 | Listen | 151582 | [151582-listen.json](./151582-listen.json) |
 | Listen | 265581 | [265581-listen.json](./265581-listen.json) |
@@ -6777,6 +6779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Case: Monster Girl Takeover | 140578 | [140578-lost-case-monster-girl-takeover.json](./140578-lost-case-monster-girl-takeover.json) |
 | Lost Castle 2 | 263225 | [263225-lost-castle-2.json](./263225-lost-castle-2.json) |
 | Lost Castle: The Old Ones Awaken | 168060 | [168060-lost-castle-the-old-ones-awaken.json](./168060-lost-castle-the-old-ones-awaken.json) |
+| Lost Cat | 276574 | [276574-lost-cat.json](./276574-lost-cat.json) |
 | Lost Cause | 300766 | [300766-lost-cause.json](./300766-lost-cause.json) |
 | Lost Cave | 112758 | [112758-lost-cave.json](./112758-lost-cave.json) |
 | Lost Chakras | 305821 | [305821-lost-chakras.json](./305821-lost-chakras.json) |
@@ -7543,6 +7546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love or Passion | 254317 | [254317-love-or-passion.json](./254317-love-or-passion.json) |
 | Love Pandemonium | 284173 | [284173-love-pandemonium.json](./284173-love-pandemonium.json) |
 | Love Pheromone | 205609 | [205609-love-pheromone.json](./205609-love-pheromone.json) |
+| Love Poem Written For a Fairy | 276575 | [276575-love-poem-written-for-a-fairy.json](./276575-love-poem-written-for-a-fairy.json) |
 | Love Potion | 272364 | [272364-love-potion.json](./272364-love-potion.json) |
 | Love Quest | 37940 | [37940-love-quest.json](./37940-love-quest.json) |
 | Love Quest VR: Los Angeles | 369544 | [369544-love-quest-vr-los-angeles.json](./369544-love-quest-vr-los-angeles.json) |
