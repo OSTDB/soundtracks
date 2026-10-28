@@ -3093,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Babes: Lightning | 309649 | [309649-battle-babes-lightning.json](./309649-battle-babes-lightning.json) |
 | Battle Babes: Lust, Space & Shadow | 340554 | [340554-battle-babes-lust-space-and-shadow.json](./340554-battle-babes-lust-space-and-shadow.json) |
 | Battle Bakraid | 38541 | [38541-battle-bakraid.json](./38541-battle-bakraid.json) |
+| Battle Bakraid Unlimited Ver. | 245663 | [245663-battle-bakraid-unlimited-ver.json](./245663-battle-bakraid-unlimited-ver.json) |
 | Battle Ball | 91710 | [91710-battle-ball.json](./91710-battle-ball.json) |
 | Battle Balls | 166160 | [166160-battle-balls.json](./166160-battle-balls.json) |
 | Battle Balls | 80793 | [80793-battle-balls.json](./80793-battle-balls.json) |
@@ -4083,6 +4084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be A Lord | 114293 | [114293-be-a-lord.json](./114293-be-a-lord.json) |
 | Be a Maid in the Demon World: The Secret Cafe of the Demon Angel Hero | 171960 | [171960-be-a-maid-in-the-demon-world-the-secret-cafe-of-the-demon-angel-hero.json](./171960-be-a-maid-in-the-demon-world-the-secret-cafe-of-the-demon-angel-hero.json) |
 | Be a Pirate | 143746 | [143746-be-a-pirate.json](./143746-be-a-pirate.json) |
+| Be A Rock | 245356 | [245356-be-a-rock.json](./245356-be-a-rock.json) |
 | Be Brave, Barb | 331143 | [331143-be-brave-barb.json](./331143-be-brave-barb.json) |
 | Be dog do borks | 181606 | [181606-be-dog-do-borks.json](./181606-be-dog-do-borks.json) |
 | Be Fly | 338229 | [338229-be-fly.json](./338229-be-fly.json) |
@@ -6888,6 +6890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy 101 | 192964 | [192964-billy-101.json](./192964-billy-101.json) |
 | Billy 2 | 79120 | [79120-billy-2.json](./79120-billy-2.json) |
 | Billy Blade and the Temple of Time | 71421 | [71421-billy-blade-and-the-temple-of-time.json](./71421-billy-blade-and-the-temple-of-time.json) |
+| Billy Bob | 245131 | [245131-billy-bob.json](./245131-billy-bob.json) |
 | Billy Bob's Huntin'-n-Fishin' | 49913 | [49913-billy-bobs-huntin-n-fishin.json](./49913-billy-bobs-huntin-n-fishin.json) |
 | Billy Bomber | 124521 | [124521-billy-bomber.json](./124521-billy-bomber.json) |
 | Billy Bonka | 195563 | [195563-billy-bonka.json](./195563-billy-bonka.json) |
@@ -8263,6 +8266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade & Soul: Revolution | 143626 | [143626-blade-and-soul-revolution.json](./143626-blade-and-soul-revolution.json) |
 | Blade & Sword 2: Ancient Legend | 379912 | [379912-blade-and-sword-2-ancient-legend.json](./379912-blade-and-sword-2-ancient-legend.json) |
 | Blade 9 Online | 60964 | [60964-blade-9-online.json](./60964-blade-9-online.json) |
+| Blade Abyss | 246014 | [246014-blade-abyss.json](./246014-blade-abyss.json) |
 | Blade and Burden | 253315 | [253315-blade-and-burden.json](./253315-blade-and-burden.json) |
 | Blade and Madness | 349996 | [349996-blade-and-madness.json](./349996-blade-and-madness.json) |
 | Blade and Wings: Future Fantasy 3D Anime MMORPG Game | 110819 | [110819-blade-and-wings-future-fantasy-3d-anime-mmorpg-game.json](./110819-blade-and-wings-future-fantasy-3d-anime-mmorpg-game.json) |
@@ -14458,6 +14462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buccaneers Shipshape | 203899 | [203899-buccaneers-shipshape.json](./203899-buccaneers-shipshape.json) |
 | Buccaneers! | 125132 | [125132-buccaneers.json](./125132-buccaneers.json) |
 | Buccaneers! The New Age of Piracy | 192209 | [192209-buccaneers-the-new-age-of-piracy.json](./192209-buccaneers-the-new-age-of-piracy.json) |
+| Buccanyar | 245661 | [245661-buccanyar.json](./245661-buccanyar.json) |
 | Buciyo 5 | 307829 | [307829-buciyo-5.json](./307829-buciyo-5.json) |
 | Buck | 33521 | [33521-buck.json](./33521-buck.json) |
 | Buck and the Coin of Destiny | 315070 | [315070-buck-and-the-coin-of-destiny.json](./315070-buck-and-the-coin-of-destiny.json) |
@@ -14893,7 +14898,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
 | Bullet Box | 410199 | [410199-bullet-box.json](./410199-bullet-box.json) |
 | Bullet Boy | 58561 | [58561-bullet-boy.json](./58561-bullet-boy.json) |
+| Bullet Brawl | 246031 | [246031-bullet-brawl.json](./246031-bullet-brawl.json) |
 | Bullet Break | 346017 | [346017-bullet-break.json](./346017-bullet-break.json) |
+| Bullet Bunny | 246029 | [246029-bullet-bunny.json](./246029-bullet-bunny.json) |
 | Bullet Butlers | 58052 | [58052-bullet-butlers.json](./58052-bullet-butlers.json) |
 | Bullet Butlers: Juudan no Kanata | 259483 | [259483-bullet-butlers-juudan-no-kanata.json](./259483-bullet-butlers-juudan-no-kanata.json) |
 | Bullet Casters | 190426 | [190426-bullet-casters.json](./190426-bullet-casters.json) |
