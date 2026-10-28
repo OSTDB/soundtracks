@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samba de Amigo: Virtual Party | 251561 | [251561-samba-de-amigo-virtual-party.json](./251561-samba-de-amigo-virtual-party.json) |
 | Samba Hero | 315574 | [315574-samba-hero.json](./315574-samba-hero.json) |
 | Samba Shooter | 95650 | [95650-samba-shooter.json](./95650-samba-shooter.json) |
+| Samba Space Parade | 235929 | [235929-samba-space-parade.json](./235929-samba-space-parade.json) |
 | Sambaquis: A Story before Brazil | 216192 | [216192-sambaquis-a-story-before-brazil.json](./216192-sambaquis-a-story-before-brazil.json) |
 | SambaSim | 299382 | [299382-sambasim.json](./299382-sambasim.json) |
 | Sambird | 413475 | [413475-sambird.json](./413475-sambird.json) |
@@ -1153,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai of Hyuga Book 5 | 321212 | [321212-samurai-of-hyuga-book-5.json](./321212-samurai-of-hyuga-book-5.json) |
 | Samurai of Hyuga Book 5: Side Stories 11-20 | 213461 | [213461-samurai-of-hyuga-book-5-side-stories-11-20.json](./213461-samurai-of-hyuga-book-5-side-stories-11-20.json) |
 | Samurai of Hyuga Book 6 | 402539 | [402539-samurai-of-hyuga-book-6.json](./402539-samurai-of-hyuga-book-6.json) |
+| Samurai of the Lanterns | 235948 | [235948-samurai-of-the-lanterns.json](./235948-samurai-of-the-lanterns.json) |
 | Samurai Pig : The Way of the Rooster | 216925 | [216925-samurai-pig-the-way-of-the-rooster.json](./216925-samurai-pig-the-way-of-the-rooster.json) |
 | Samurai Pizza Cats: Blast from the Past! | 332394 | [332394-samurai-pizza-cats-blast-from-the-past.json](./332394-samurai-pizza-cats-blast-from-the-past.json) |
 | Samurai Plat | 56249 | [56249-samurai-plat.json](./56249-samurai-plat.json) |
@@ -9897,6 +9899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Nights | 271590 | [271590-sinister-nights.json](./271590-sinister-nights.json) |
 | Sinister Outbreak | 366118 | [366118-sinister-outbreak.json](./366118-sinister-outbreak.json) |
 | Sinister Remains | 372020 | [372020-sinister-remains.json](./372020-sinister-remains.json) |
+| Sinister Sacrifice | 235945 | [235945-sinister-sacrifice.json](./235945-sinister-sacrifice.json) |
 | Sinister Seven | 275636 | [275636-sinister-seven.json](./275636-sinister-seven.json) |
 | Sinister Sodies | 350339 | [350339-sinister-sodies.json](./350339-sinister-sodies.json) |
 | Sinister Squidward | 237869 | [237869-sinister-squidward.json](./237869-sinister-squidward.json) |
@@ -11384,6 +11387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Space | 187231 | [187231-slay-the-space.json](./187231-slay-the-space.json) |
 | Slay the Spire II | 296831 | [296831-slay-the-spire-ii.json](./296831-slay-the-spire-ii.json) |
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
+| Slay the Zone | 235941 | [235941-slay-the-zone.json](./235941-slay-the-zone.json) |
 | Slay To The End | 293831 | [293831-slay-to-the-end.json](./293831-slay-to-the-end.json) |
 | Slayaway Camp | 25239 | [25239-slayaway-camp.json](./25239-slayaway-camp.json) |
 | Slayaway Camp 2 | 273976 | [273976-slayaway-camp-2.json](./273976-slayaway-camp-2.json) |
@@ -13383,6 +13387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowball Fight | 397795 | [397795-snowball-fight.json](./397795-snowball-fight.json) |
 | Snowball Fight 2025 | 379038 | [379038-snowball-fight-2025.json](./379038-snowball-fight-2025.json) |
 | Snowball Fight At Christmas | 165020 | [165020-snowball-fight-at-christmas.json](./165020-snowball-fight-at-christmas.json) |
+| Snowball Fight Game | 235922 | [235922-snowball-fight-game.json](./235922-snowball-fight-game.json) |
 | SnowBall FPS | 367149 | [367149-snowball-fps.json](./367149-snowball-fps.json) |
 | Snowball Go Go Go | 247208 | [247208-snowball-go-go-go.json](./247208-snowball-go-go-go.json) |
 | Snowball Run | 93156 | [93156-snowball-run.json](./93156-snowball-run.json) |
