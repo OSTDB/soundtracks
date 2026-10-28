@@ -10596,6 +10596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Head World | 157408 | [157408-skull-head-world.json](./157408-skull-head-world.json) |
 | Skull Hotel | 347285 | [347285-skull-hotel.json](./347285-skull-hotel.json) |
 | Skull Island: Rise of Kong | 257674 | [257674-skull-island-rise-of-kong.json](./257674-skull-island-rise-of-kong.json) |
+| Skull Island: Rise of Kong - Colossal Edition | 269382 | [269382-skull-island-rise-of-kong-colossal-edition.json](./269382-skull-island-rise-of-kong-colossal-edition.json) |
 | Skull Island: Rise of Kong - Colossal Pack | 272584 | [272584-skull-island-rise-of-kong-colossal-pack.json](./272584-skull-island-rise-of-kong-colossal-pack.json) |
 | Skull Jones | 259664 | [259664-skull-jones.json](./259664-skull-jones.json) |
 | Skull Limb | 177839 | [177839-skull-limb.json](./177839-skull-limb.json) |
@@ -12545,6 +12546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMW The Princess Rescue 2: Luigi's Journey! | 222889 | [222889-smw-the-princess-rescue-2-luigis-journey.json](./222889-smw-the-princess-rescue-2-luigis-journey.json) |
 | SMW The Princess Rescue 3: The Turnabout | 261124 | [261124-smw-the-princess-rescue-3-the-turnabout.json](./261124-smw-the-princess-rescue-3-the-turnabout.json) |
 | SMW2+3: The Essence Star | 268099 | [268099-smw2-3-the-essence-star.json](./268099-smw2-3-the-essence-star.json) |
+| SMWC Island | 269703 | [269703-smwc-island.json](./269703-smwc-island.json) |
 | SMWLV | 267974 | [267974-smwlv.json](./267974-smwlv.json) |
 | SMYS: Classic | 292308 | [292308-smys-classic.json](./292308-smys-classic.json) |
 | SMYS: Classic - Costumes | 298253 | [298253-smys-classic-costumes.json](./298253-smys-classic-costumes.json) |
@@ -13077,6 +13079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snolf Zero: The Prequel | 143735 | [143735-snolf-zero-the-prequel.json](./143735-snolf-zero-the-prequel.json) |
 | Snolf: The Sonic Golf Experience | 143733 | [143733-snolf-the-sonic-golf-experience.json](./143733-snolf-the-sonic-golf-experience.json) |
 | Snolf: Tournament Edition | 201808 | [201808-snolf-tournament-edition.json](./201808-snolf-tournament-edition.json) |
+| Snoman's Land | 269690 | [269690-snomans-land.json](./269690-snomans-land.json) |
 | Snood | 246388 | [246388-snood.json](./246388-snood.json) |
 | Snood 2: On Vacation | 19107 | [19107-snood-2-on-vacation.json](./19107-snood-2-on-vacation.json) |
 | Snood Adventure | 99174 | [99174-snood-adventure.json](./99174-snood-adventure.json) |
