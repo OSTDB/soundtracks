@@ -5243,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Asskickers | 9403 | [9403-the-asskickers.json](./9403-the-asskickers.json) |
 | The Asteroid Belt's Trial | 107744 | [107744-the-asteroid-belts-trial.json](./107744-the-asteroid-belts-trial.json) |
 | The Asteroid Field | 280884 | [280884-the-asteroid-field.json](./280884-the-asteroid-field.json) |
+| The Astonishing Captain Skull | 238862 | [238862-the-astonishing-captain-skull.json](./238862-the-astonishing-captain-skull.json) |
 | The Astonishing Game | 29687 | [29687-the-astonishing-game.json](./29687-the-astonishing-game.json) |
 | The Astra Protocol | 409714 | [409714-the-astra-protocol.json](./409714-the-astra-protocol.json) |
 | The Astral Hero | 29719 | [29719-the-astral-hero.json](./29719-the-astral-hero.json) |
@@ -9202,6 +9203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Headmaster | 321293 | [321293-the-headmaster.json](./321293-the-headmaster.json) |
 | The Headsman | 153412 | [153412-the-headsman.json](./153412-the-headsman.json) |
 | The Healer | 188865 | [188865-the-healer.json](./188865-the-healer.json) |
+| The Healing | 239251 | [239251-the-healing.json](./239251-the-healing.json) |
 | The Healing of Sisyphus | 362867 | [362867-the-healing-of-sisyphus.json](./362867-the-healing-of-sisyphus.json) |
 | The Heart Defenders | 224778 | [224778-the-heart-defenders.json](./224778-the-heart-defenders.json) |
 | The Heart of Darkness | 164909 | [164909-the-heart-of-darkness.json](./164909-the-heart-of-darkness.json) |
@@ -14271,6 +14273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Siege of Jeomdo | 258199 | [258199-the-siege-of-jeomdo.json](./258199-the-siege-of-jeomdo.json) |
 | The Siege of Khe Sanh | 66412 | [66412-the-siege-of-khe-sanh.json](./66412-the-siege-of-khe-sanh.json) |
 | The Sigil Engine | 390096 | [390096-the-sigil-engine.json](./390096-the-sigil-engine.json) |
+| The Sign | 239235 | [239235-the-sign.json](./239235-the-sign.json) |
 | The Sign | 241634 | [241634-the-sign.json](./241634-the-sign.json) |
 | The Signal From Tölva | 22039 | [22039-the-signal-from-tolva.json](./22039-the-signal-from-tolva.json) |
 | The Signal State | 157524 | [157524-the-signal-state.json](./157524-the-signal-state.json) |
@@ -22042,6 +22045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonpuso | 37312 | [37312-tonpuso.json](./37312-tonpuso.json) |
 | Tons of Guns | 343845 | [343845-tons-of-guns.json](./343845-tons-of-guns.json) |
 | Tonsil Terror | 209945 | [209945-tonsil-terror.json](./209945-tonsil-terror.json) |
+| Tonto Run: Lone Ranger Edition | 239223 | [239223-tonto-run-lone-ranger-edition.json](./239223-tonto-run-lone-ranger-edition.json) |
 | Tony & Friends in Kellogg's Land | 58272 | [58272-tony-and-friends-in-kelloggs-land.json](./58272-tony-and-friends-in-kelloggs-land.json) |
 | Tony and Clyde | 172753 | [172753-tony-and-clyde.json](./172753-tony-and-clyde.json) |
 | Tony and Jennie | 337166 | [337166-tony-and-jennie.json](./337166-tony-and-jennie.json) |
@@ -24427,6 +24431,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 3: Southeastern Super Starter Pack | 256312 | [256312-train-sim-world-3-southeastern-super-starter-pack.json](./256312-train-sim-world-3-southeastern-super-starter-pack.json) |
 | Train Sim World 3: The Holiday Express - Runaway Elf | 237251 | [237251-train-sim-world-3-the-holiday-express-runaway-elf.json](./237251-train-sim-world-3-the-holiday-express-runaway-elf.json) |
 | Train Sim World 3: Union Pacific Heritage - Livery Collection | 237943 | [237943-train-sim-world-3-union-pacific-heritage-livery-collection.json](./237943-train-sim-world-3-union-pacific-heritage-livery-collection.json) |
+| Train Sim World 3: US Freight Bundle | 239257 | [239257-train-sim-world-3-us-freight-bundle.json](./239257-train-sim-world-3-us-freight-bundle.json) |
+| Train Sim World 3: US Passenger Bundle | 239255 | [239255-train-sim-world-3-us-passenger-bundle.json](./239255-train-sim-world-3-us-passenger-bundle.json) |
+| Train Sim World 3: US Super Bundle | 239256 | [239256-train-sim-world-3-us-super-bundle.json](./239256-train-sim-world-3-us-super-bundle.json) |
 | Train Sim World 4 | 262582 | [262582-train-sim-world-4.json](./262582-train-sim-world-4.json) |
 | Train Sim World 4: Antelope Valley Line - Los Angeles - Lancaster Route | 269324 | [269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json](./269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json) |
 | Train Sim World 4: Austrian Regional Edition | 268833 | [268833-train-sim-world-4-austrian-regional-edition.json](./268833-train-sim-world-4-austrian-regional-edition.json) |
@@ -27533,6 +27540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Colors | 228991 | [228991-true-colors.json](./228991-true-colors.json) |
 | True Colors | 388238 | [388238-true-colors.json](./388238-true-colors.json) |
 | True Colours | 234651 | [234651-true-colours.json](./234651-true-colours.json) |
+| True Combat: Elite | 238865 | [238865-true-combat-elite.json](./238865-true-combat-elite.json) |
 | True Confession | 403963 | [403963-true-confession.json](./403963-true-confession.json) |
 | True Crime: New York City | 4215 | [4215-true-crime-new-york-city.json](./4215-true-crime-new-york-city.json) |
 | True Crime: Streets of LA | 4216 | [4216-true-crime-streets-of-la.json](./4216-true-crime-streets-of-la.json) |
