@@ -2772,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: MAD JF-17 Thunder Campaign by Stone Sky | 325540 | [325540-dcs-world-mad-jf-17-thunder-campaign-by-stone-sky.json](./325540-dcs-world-mad-jf-17-thunder-campaign-by-stone-sky.json) |
 | DCS World: Marianas | 162859 | [162859-dcs-world-marianas.json](./162859-dcs-world-marianas.json) |
 | DCS World: Marianas WWII Map | 408127 | [408127-dcs-world-marianas-wwii-map.json](./408127-dcs-world-marianas-wwii-map.json) |
+| DCS World: Mi-24P The Border Prequel Campaign by Armen Murazyan | 261935 | [261935-dcs-world-mi-24p-the-border-prequel-campaign-by-armen-murazyan.json](./261935-dcs-world-mi-24p-the-border-prequel-campaign-by-armen-murazyan.json) |
 | DCS World: Mi-8MTV2 and Ka-50: Memory of a Hero Campaign by Stone Sky | 325910 | [325910-dcs-world-mi-8mtv2-and-ka-50-memory-of-a-hero-campaign-by-stone-sky.json](./325910-dcs-world-mi-8mtv2-and-ka-50-memory-of-a-hero-campaign-by-stone-sky.json) |
 | DCS World: MiG-21bis Battle of Krasnodar Campaign | 195404 | [195404-dcs-world-mig-21bis-battle-of-krasnodar-campaign.json](./195404-dcs-world-mig-21bis-battle-of-krasnodar-campaign.json) |
 | DCS World: MiG-21bis Constant Peg Campaign by Bunyap Campaigns | 325721 | [325721-dcs-world-mig-21bis-constant-peg-campaign-by-bunyap-campaigns.json](./325721-dcs-world-mig-21bis-constant-peg-campaign-by-bunyap-campaigns.json) |
@@ -6035,6 +6036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dere Evil.Exe | 104080 | [104080-dere-evil-exe.json](./104080-dere-evil-exe.json) |
 | Dere Exe: Classic Edition | 170220 | [170220-dere-exe-classic-edition.json](./170220-dere-exe-classic-edition.json) |
 | Dere Quartet | 337578 | [337578-dere-quartet.json](./337578-dere-quartet.json) |
+| Dere Vengeance | 261926 | [261926-dere-vengeance.json](./261926-dere-vengeance.json) |
 | Dere-chat | 199499 | [199499-dere-chat.json](./199499-dere-chat.json) |
 | Dere. Some Answers Before I... | 258696 | [258696-dere-some-answers-before-i.json](./258696-dere-some-answers-before-i.json) |
 | Derealization | 381096 | [381096-derealization.json](./381096-derealization.json) |
@@ -14445,6 +14447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Simulator 2009 | 27484 | [27484-driving-simulator-2009.json](./27484-driving-simulator-2009.json) |
 | Driving Simulator 2011 | 51254 | [51254-driving-simulator-2011.json](./51254-driving-simulator-2011.json) |
 | Driving Speed HD | 232332 | [232332-driving-speed-hd.json](./232332-driving-speed-hd.json) |
+| Driving Speed Pro | 261946 | [261946-driving-speed-pro.json](./261946-driving-speed-pro.json) |
 | Driving Theory Training | 72620 | [72620-driving-theory-training.json](./72620-driving-theory-training.json) |
 | Driving World Collection | 283206 | [283206-driving-world-collection.json](./283206-driving-world-collection.json) |
 | Driving World: Nordic Challenge | 147750 | [147750-driving-world-nordic-challenge.json](./147750-driving-world-nordic-challenge.json) |
@@ -15604,6 +15607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hack | 2529 | [2529-dungeon-hack.json](./2529-dungeon-hack.json) |
 | Dungeon Hearts DX | 85103 | [85103-dungeon-hearts-dx.json](./85103-dungeon-hearts-dx.json) |
 | Dungeon Hero | 18788 | [18788-dungeon-hero.json](./18788-dungeon-hero.json) |
+| Dungeon Heroes | 261637 | [261637-dungeon-heroes.json](./261637-dungeon-heroes.json) |
 | Dungeon Highway | 35645 | [35645-dungeon-highway.json](./35645-dungeon-highway.json) |
 | Dungeon Hotpot | 404814 | [404814-dungeon-hotpot.json](./404814-dungeon-hotpot.json) |
 | Dungeon Hunter | 23258 | [23258-dungeon-hunter.json](./23258-dungeon-hunter.json) |
