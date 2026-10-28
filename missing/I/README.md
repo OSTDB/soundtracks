@@ -3774,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innsmouth Nightmare | 311255 | [311255-innsmouth-nightmare.json](./311255-innsmouth-nightmare.json) |
 | Innyume | 223033 | [223033-innyume.json](./223033-innyume.json) |
 | Ino | 27691 | [27691-ino.json](./27691-ino.json) |
+| Inochi no Nai Uta | 246773 | [246773-inochi-no-nai-uta.json](./246773-inochi-no-nai-uta.json) |
 | Inokan | 179525 | [179525-inokan.json](./179525-inokan.json) |
 | InoLab Trials | 320326 | [320326-inolab-trials.json](./320326-inolab-trials.json) |
 | Inomushi Goro Goro | 138520 | [138520-inomushi-goro-goro.json](./138520-inomushi-goro-goro.json) |
