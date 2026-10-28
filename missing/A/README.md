@@ -5463,6 +5463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex and the Jets | 368610 | [368610-alex-and-the-jets.json](./368610-alex-and-the-jets.json) |
 | Alex Builds His Farm | 64157 | [64157-alex-builds-his-farm.json](./64157-alex-builds-his-farm.json) |
 | Alex Demeo's Race America | 48215 | [48215-alex-demeos-race-america.json](./48215-alex-demeos-race-america.json) |
+| Alex Ferguson's Player Manager 2002 | 278848 | [278848-alex-fergusons-player-manager-2002.json](./278848-alex-fergusons-player-manager-2002.json) |
 | Alex Hill: The Body at Clearwater Bay | 335423 | [335423-alex-hill-the-body-at-clearwater-bay.json](./335423-alex-hill-the-body-at-clearwater-bay.json) |
 | Alex Hill: Whispers at White Oak Inn | 288752 | [288752-alex-hill-whispers-at-white-oak-inn.json](./288752-alex-hill-whispers-at-white-oak-inn.json) |
 | Alex Hunter: Lord of the Mind | 30374 | [30374-alex-hunter-lord-of-the-mind.json](./30374-alex-hunter-lord-of-the-mind.json) |
@@ -10136,6 +10137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apprehension Arizona | 308452 | [308452-apprehension-arizona.json](./308452-apprehension-arizona.json) |
 | Apprentice | 14167 | [14167-apprentice.json](./14167-apprentice.json) |
 | Apprentice Arriving | 167599 | [167599-apprentice-arriving.json](./167599-apprentice-arriving.json) |
+| Apprentice Deluxe | 278841 | [278841-apprentice-deluxe.json](./278841-apprentice-deluxe.json) |
 | Apprentice II: The Knight's Move | 71371 | [71371-apprentice-ii-the-knights-move.json](./71371-apprentice-ii-the-knights-move.json) |
 | Apprentice Knight-Iona | 132667 | [132667-apprentice-knight-iona.json](./132667-apprentice-knight-iona.json) |
 | Approach Trainer | 14261 | [14261-approach-trainer.json](./14261-approach-trainer.json) |
