@@ -6913,6 +6913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Rome | 193441 | [193441-grand-theft-rome.json](./193441-grand-theft-rome.json) |
 | Grand Theft Timeline | 410456 | [410456-grand-theft-timeline.json](./410456-grand-theft-timeline.json) |
 | Grand Tits Adventure | 366233 | [366233-grand-tits-adventure.json](./366233-grand-tits-adventure.json) |
+| Grand Tour Legends | 240969 | [240969-grand-tour-legends.json](./240969-grand-tour-legends.json) |
 | Grand Tour Racing '99 | 91686 | [91686-grand-tour-racing-99.json](./91686-grand-tour-racing-99.json) |
 | Grand Tour Racing: GT-R 400 | 60888 | [60888-grand-tour-racing-gt-r-400.json](./60888-grand-tour-racing-gt-r-400.json) |
 | Grand Touring | 93440 | [93440-grand-touring.json](./93440-grand-touring.json) |
@@ -8543,6 +8544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Ver. 2 | 175834 | [175834-grow-ver-2.json](./175834-grow-ver-2.json) |
 | Grow Wild | 349646 | [349646-grow-wild.json](./349646-grow-wild.json) |
 | Grow Your Guarden | 263794 | [263794-grow-your-guarden.json](./263794-grow-your-guarden.json) |
+| Grow Your Team | 240610 | [240610-grow-your-team.json](./240610-grow-your-team.json) |
 | Grow: Song of the Evertree | 151673 | [151673-grow-song-of-the-evertree.json](./151673-grow-song-of-the-evertree.json) |
 | Growbot | 43091 | [43091-growbot.json](./43091-growbot.json) |
 | Growbotics | 59706 | [59706-growbotics.json](./59706-growbotics.json) |
