@@ -2663,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dayshift at Freddy's 3 | 216206 | [216206-dayshift-at-freddys-3.json](./216206-dayshift-at-freddys-3.json) |
 | Daytona Championship USA | 57333 | [57333-daytona-championship-usa.json](./57333-daytona-championship-usa.json) |
 | Daytona Racing | 92623 | [92623-daytona-racing.json](./92623-daytona-racing.json) |
+| Daytona Rush | 233194 | [233194-daytona-rush.json](./233194-daytona-rush.json) |
 | Daytona USA | 17245 | [17245-daytona-usa.json](./17245-daytona-usa.json) |
 | Daytona USA | 22007 | [22007-daytona-usa.json](./22007-daytona-usa.json) |
 | Daytona USA 2: Power Edition | 349356 | [349356-daytona-usa-2-power-edition.json](./349356-daytona-usa-2-power-edition.json) |
@@ -16306,6 +16307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunkadillo | 360760 | [360760-dunkadillo.json](./360760-dunkadillo.json) |
 | Dunkeep | 203947 | [203947-dunkeep.json](./203947-dunkeep.json) |
 | Dunkehr | 141181 | [141181-dunkehr.json](./141181-dunkehr.json) |
+| Dunker.io | 233197 | [233197-dunker-io.json](./233197-dunker-io.json) |
 | Dunkers | 58126 | [58126-dunkers.json](./58126-dunkers.json) |
 | Dunkers 2 | 87012 | [87012-dunkers-2.json](./87012-dunkers-2.json) |
 | DunkForce | 208097 | [208097-dunkforce.json](./208097-dunkforce.json) |
