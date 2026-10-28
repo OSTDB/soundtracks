@@ -7252,6 +7252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Trigger: Crimson Echoes | 38266 | [38266-chrono-trigger-crimson-echoes.json](./38266-chrono-trigger-crimson-echoes.json) |
 | Chrono Trigger: Jet Bike Special | 38105 | [38105-chrono-trigger-jet-bike-special.json](./38105-chrono-trigger-jet-bike-special.json) |
 | Chrono Trigger: Prophet's Guile | 315449 | [315449-chrono-trigger-prophets-guile.json](./315449-chrono-trigger-prophets-guile.json) |
+| Chrono Trigger: Schala Edition | 246580 | [246580-chrono-trigger-schala-edition.json](./246580-chrono-trigger-schala-edition.json) |
 | Chrono Trigger+ | 219077 | [219077-chrono-trigger.json](./219077-chrono-trigger.json) |
 | Chrono Wars | 60604 | [60604-chrono-wars.json](./60604-chrono-wars.json) |
 | Chrono's Arena | 126628 | [126628-chronos-arena.json](./126628-chronos-arena.json) |
@@ -9374,6 +9375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CM32 | 315571 | [315571-cm32.json](./315571-cm32.json) |
 | CMD 2048 | 107791 | [107791-cmd-2048.json](./107791-cmd-2048.json) |
 | Cmoar VR Cinema | 31318 | [31318-cmoar-vr-cinema.json](./31318-cmoar-vr-cinema.json) |
+| CMSR | 247124 | [247124-cmsr.json](./247124-cmsr.json) |
 | CMT Presents: Karaoke Revolution Country | 81142 | [81142-cmt-presents-karaoke-revolution-country.json](./81142-cmt-presents-karaoke-revolution-country.json) |
 | CMYP | 234603 | [234603-cmyp.json](./234603-cmyp.json) |
 | CMYW | 34607 | [34607-cmyw.json](./34607-cmyw.json) |
@@ -17495,6 +17497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Mission | 241294 | [241294-cyber-mission.json](./241294-cyber-mission.json) |
 | Cyber Nations | 63777 | [63777-cyber-nations.json](./63777-cyber-nations.json) |
 | Cyber Neon Bundle | 246880 | [246880-cyber-neon-bundle.json](./246880-cyber-neon-bundle.json) |
+| Cyber Neon Bundle | 247125 | [247125-cyber-neon-bundle.json](./247125-cyber-neon-bundle.json) |
 | Cyber Neon: Core Protocol | 424643 | [424643-cyber-neon-core-protocol.json](./424643-cyber-neon-core-protocol.json) |
 | Cyber Noah | 156015 | [156015-cyber-noah.json](./156015-cyber-noah.json) |
 | Cyber Noir Stories: The Trunk | 217207 | [217207-cyber-noir-stories-the-trunk.json](./217207-cyber-noir-stories-the-trunk.json) |
