@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-28T11:50:06.686Z",
-  "total_missing": 274457,
+  "generated_at": "2026-10-28T11:58:06.733Z",
+  "total_missing": 274445,
   "games": [
     {
       "igdb_id": 191680,
@@ -99010,11 +99010,6 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
-    },
-    {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -405902,11 +405897,6 @@
       "file": "missing/F/392808-final-fantasy-vii.json"
     },
     {
-      "igdb_id": 393025,
-      "game_name": "Final Fantasy VII",
-      "file": "missing/F/393025-final-fantasy-vii.json"
-    },
-    {
       "igdb_id": 127879,
       "game_name": "Final Fantasy VII & Final Fantasy VIII Remastered Twin Pack",
       "file": "missing/F/127879-final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack.json"
@@ -449957,11 +449947,6 @@
       "file": "missing/G/172398-gamble-tower.json"
     },
     {
-      "igdb_id": 361027,
-      "game_name": "Gamble With Your Friends",
-      "file": "missing/G/361027-gamble-with-your-friends.json"
-    },
-    {
       "igdb_id": 415756,
       "game_name": "Gamble Your Breath",
       "file": "missing/G/415756-gamble-your-breath.json"
@@ -460405,11 +460390,6 @@
       "igdb_id": 286572,
       "game_name": "Get to the Top Although There Is No Top!!",
       "file": "missing/G/286572-get-to-the-top-although-there-is-no-top.json"
-    },
-    {
-      "igdb_id": 322280,
-      "game_name": "Get to Work",
-      "file": "missing/G/322280-get-to-work.json"
     },
     {
       "igdb_id": 169356,
@@ -489470,11 +489450,6 @@
       "igdb_id": 304360,
       "game_name": "Guild Wars 2: Janthir Wilds",
       "file": "missing/G/304360-guild-wars-2-janthir-wilds.json"
-    },
-    {
-      "igdb_id": 255088,
-      "game_name": "Guild Wars 2: Secrets of the Obscure",
-      "file": "missing/G/255088-guild-wars-2-secrets-of-the-obscure.json"
     },
     {
       "igdb_id": 404694,
@@ -610240,11 +610215,6 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
-    },
-    {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -870072,11 +870042,6 @@
       "file": "missing/P/57894-pocket-mirror.json"
     },
     {
-      "igdb_id": 211637,
-      "game_name": "Pocket Mirror: GoldenerTraum",
-      "file": "missing/P/211637-pocket-mirror-goldenertraum.json"
-    },
-    {
       "igdb_id": 63146,
       "game_name": "Pocket Mobsters",
       "file": "missing/P/63146-pocket-mobsters.json"
@@ -1058547,11 +1058512,6 @@
       "file": "missing/S/57787-species-artificial-life-real-evolution.json"
     },
     {
-      "igdb_id": 302968,
-      "game_name": "Species: Unknown",
-      "file": "missing/S/302968-species-unknown.json"
-    },
-    {
       "igdb_id": 262963,
       "game_name": "Specimen #08",
       "file": "missing/S/262963-specimen-08.json"
@@ -1075165,11 +1075125,6 @@
       "igdb_id": 35596,
       "game_name": "Star Wars: Galactic Battlegrounds Saga",
       "file": "missing/S/35596-star-wars-galactic-battlegrounds-saga.json"
-    },
-    {
-      "igdb_id": 381248,
-      "game_name": "Star Wars: Galactic Racer",
-      "file": "missing/S/381248-star-wars-galactic-racer.json"
     },
     {
       "igdb_id": 77212,
@@ -1149542,11 +1149497,6 @@
       "file": "missing/T/146189-the-adventures-of-el-ballo.json"
     },
     {
-      "igdb_id": 358534,
-      "game_name": "The Adventures of Elliot: The Millennium Tales",
-      "file": "missing/T/358534-the-adventures-of-elliot-the-millennium-tales.json"
-    },
-    {
       "igdb_id": 395685,
       "game_name": "The Adventures of Elliot: The Millennium Tales - Digital Deluxe Edition",
       "file": "missing/T/395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json"
@@ -1174455,11 +1174405,6 @@
       "igdb_id": 251098,
       "game_name": "The Jackbox Party Trilogy 3.0",
       "file": "missing/T/251098-the-jackbox-party-trilogy-3-0.json"
-    },
-    {
-      "igdb_id": 318207,
-      "game_name": "The Jackbox Survey Scramble",
-      "file": "missing/T/318207-the-jackbox-survey-scramble.json"
     },
     {
       "igdb_id": 67698,
@@ -1255450,11 +1255395,6 @@
       "igdb_id": 86012,
       "game_name": "Trauma",
       "file": "missing/T/86012-trauma.json"
-    },
-    {
-      "igdb_id": 1525,
-      "game_name": "Trauma Center: New Blood",
-      "file": "missing/T/1525-trauma-center-new-blood.json"
     },
     {
       "igdb_id": 409415,
