@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Defence Squadron | 125680 | [125680-galactic-defence-squadron.json](./125680-galactic-defence-squadron.json) |
 | Galactic Defender | 261338 | [261338-galactic-defender.json](./261338-galactic-defender.json) |
 | Galactic Defenders | 263392 | [263392-galactic-defenders.json](./263392-galactic-defenders.json) |
+| Galactic Defense: Automation | 255492 | [255492-galactic-defense-automation.json](./255492-galactic-defense-automation.json) |
 | Galactic Diner | 199257 | [199257-galactic-diner.json](./199257-galactic-diner.json) |
 | Galactic Dominion | 107858 | [107858-galactic-dominion.json](./107858-galactic-dominion.json) |
 | Galactic Dream: Rage of War | 1031 | [1031-galactic-dream-rage-of-war.json](./1031-galactic-dream-rage-of-war.json) |
@@ -2346,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeminiArms | 116242 | [116242-geminiarms.json](./116242-geminiarms.json) |
 | GeminiFlame: Alpha Dragon | 269992 | [269992-geminiflame-alpha-dragon.json](./269992-geminiflame-alpha-dragon.json) |
 | Geminiii | 250457 | [250457-geminiii.json](./250457-geminiii.json) |
+| Geminism | 255817 | [255817-geminism.json](./255817-geminism.json) |
 | Geminism | 304816 | [304816-geminism.json](./304816-geminism.json) |
 | Geminose: Animal Popstars | 144940 | [144940-geminose-animal-popstars.json](./144940-geminose-animal-popstars.json) |
 | Geminum | 352391 | [352391-geminum.json](./352391-geminum.json) |
@@ -6934,6 +6936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandmaster Chess | 14493 | [14493-grandmaster-chess.json](./14493-grandmaster-chess.json) |
 | Grandmaster Chess | 166075 | [166075-grandmaster-chess.json](./166075-grandmaster-chess.json) |
 | Grandmaster Chess (CD-ROM Edition) | 98911 | [98911-grandmaster-chess-cd-rom-edition.json](./98911-grandmaster-chess-cd-rom-edition.json) |
+| Grandmaster's Gambit | 255832 | [255832-grandmasters-gambit.json](./255832-grandmasters-gambit.json) |
 | Grandmaster's Revenge | 215355 | [215355-grandmasters-revenge.json](./215355-grandmasters-revenge.json) |
 | Grandmasters Ascent | 266100 | [266100-grandmasters-ascent.json](./266100-grandmasters-ascent.json) |
 | Grandmother | 169345 | [169345-grandmother.json](./169345-grandmother.json) |
@@ -8261,6 +8264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Adventure Rave: Plue no Daibouken | 69138 | [69138-groove-adventure-rave-plue-no-daibouken.json](./69138-groove-adventure-rave-plue-no-daibouken.json) |
 | Groove Catch | 194193 | [194193-groove-catch.json](./194193-groove-catch.json) |
 | Groove Catcher | 171583 | [171583-groove-catcher.json](./171583-groove-catcher.json) |
+| Groove Club | 255902 | [255902-groove-club.json](./255902-groove-club.json) |
 | Groove Coaster + Touhou All DLC Bundle | 362481 | [362481-groove-coaster-touhou-all-dlc-bundle.json](./362481-groove-coaster-touhou-all-dlc-bundle.json) |
 | Groove Coaster + Undertale DLC Bundle | 362273 | [362273-groove-coaster-undertale-dlc-bundle.json](./362273-groove-coaster-undertale-dlc-bundle.json) |
 | Groove Coaster 2 Heavenly Festival | 126464 | [126464-groove-coaster-2-heavenly-festival.json](./126464-groove-coaster-2-heavenly-festival.json) |
