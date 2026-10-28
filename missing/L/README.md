@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Aventura De Axel | 74226 | [74226-la-aventura-de-axel.json](./74226-la-aventura-de-axel.json) |
 | La Bestia: The Migrant's Long Journey | 296485 | [296485-la-bestia-the-migrants-long-journey.json](./296485-la-bestia-the-migrants-long-journey.json) |
 | La Boîte à Bidules de l'Oncle Ernest | 285881 | [285881-la-boite-a-bidules-de-loncle-ernest.json](./285881-la-boite-a-bidules-de-loncle-ernest.json) |
+| La Búsqueda del Dilmun: La Tabla de Rawls | 280058 | [280058-la-busqueda-del-dilmun-la-tabla-de-rawls.json](./280058-la-busqueda-del-dilmun-la-tabla-de-rawls.json) |
 | La Carbonara | 323172 | [323172-la-carbonara.json](./323172-la-carbonara.json) |
 | La Casa del Taquero | 379725 | [379725-la-casa-del-taquero.json](./379725-la-casa-del-taquero.json) |
 | La Caza | 288121 | [288121-la-caza.json](./288121-la-caza.json) |
@@ -995,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Bone | 406785 | [406785-last-bone.json](./406785-last-bone.json) |
 | Last Boss -9x9 Action Battle- | 150252 | [150252-last-boss-9x9-action-battle.json](./150252-last-boss-9x9-action-battle.json) |
 | Last Box Standing May Go On | 336625 | [336625-last-box-standing-may-go-on.json](./336625-last-box-standing-may-go-on.json) |
+| Last Breakers | 280065 | [280065-last-breakers.json](./280065-last-breakers.json) |
 | Last Breath | 373619 | [373619-last-breath.json](./373619-last-breath.json) |
 | Last Breath | 413756 | [413756-last-breath.json](./413756-last-breath.json) |
 | Last Breath | 415436 | [415436-last-breath.json](./415436-last-breath.json) |
@@ -2665,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Duplo World | 356220 | [356220-lego-duplo-world.json](./356220-lego-duplo-world.json) |
 | LEGO Exo-Force: Deep Jungle | 343214 | [343214-lego-exo-force-deep-jungle.json](./343214-lego-exo-force-deep-jungle.json) |
 | LEGO Exo-Force: Sentai Showdown | 343211 | [343211-lego-exo-force-sentai-showdown.json](./343211-lego-exo-force-sentai-showdown.json) |
+| LEGO Five Nights at Freddy's | 280050 | [280050-lego-five-nights-at-freddys.json](./280050-lego-five-nights-at-freddys.json) |
 | LEGO Fortnite: Brick Life | 325544 | [325544-lego-fortnite-brick-life.json](./325544-lego-fortnite-brick-life.json) |
 | LEGO Fortnite: Expeditions | 387000 | [387000-lego-fortnite-expeditions.json](./387000-lego-fortnite-expeditions.json) |
 | LEGO Friends | 142951 | [142951-lego-friends.json](./142951-lego-friends.json) |
