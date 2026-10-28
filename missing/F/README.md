@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faded Memories | 130321 | [130321-faded-memories.json](./130321-faded-memories.json) |
 | Faded Monsuta | 350999 | [350999-faded-monsuta.json](./350999-faded-monsuta.json) |
 | Faded Solitude | 364553 | [364553-faded-solitude.json](./364553-faded-solitude.json) |
+| Faded Stories: Full Moon | 263094 | [263094-faded-stories-full-moon.json](./263094-faded-stories-full-moon.json) |
 | Faded Stories: Greenberg | 190176 | [190176-faded-stories-greenberg.json](./190176-faded-stories-greenberg.json) |
 | Fadedlands: The Reckless Squad | 348316 | [348316-fadedlands-the-reckless-squad.json](./348316-fadedlands-the-reckless-squad.json) |
 | Faderhead's Fist Full of Fuck You 2.0 | 97688 | [97688-faderheads-fist-full-of-fuck-you-2-0.json](./97688-faderheads-fist-full-of-fuck-you-2-0.json) |
@@ -4795,6 +4796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding America: The Pacific Northwest | 232924 | [232924-finding-america-the-pacific-northwest.json](./232924-finding-america-the-pacific-northwest.json) |
 | Finding America: The Pacific Northwest - Collector's Edition | 300825 | [300825-finding-america-the-pacific-northwest-collectors-edition.json](./300825-finding-america-the-pacific-northwest-collectors-edition.json) |
 | Finding America: The West - Collector's Edition | 292914 | [292914-finding-america-the-west-collectors-edition.json](./292914-finding-america-the-west-collectors-edition.json) |
+| Finding Anastasia | 262776 | [262776-finding-anastasia.json](./262776-finding-anastasia.json) |
 | Finding Bigfoot | 56494 | [56494-finding-bigfoot.json](./56494-finding-bigfoot.json) |
 | Finding Brenda: Episode 1 | 169928 | [169928-finding-brenda-episode-1.json](./169928-finding-brenda-episode-1.json) |
 | Finding Buddies | 308169 | [308169-finding-buddies.json](./308169-finding-buddies.json) |
@@ -5656,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Game | 213550 | [213550-fishing-game.json](./213550-fishing-game.json) |
 | Fishing Girl | 67078 | [67078-fishing-girl.json](./67078-fishing-girl.json) |
 | Fishing Grind | 319285 | [319285-fishing-grind.json](./319285-fishing-grind.json) |
+| Fishing Guy | 262781 | [262781-fishing-guy.json](./262781-fishing-guy.json) |
 | Fishing Hero | 110240 | [110240-fishing-hero.json](./110240-fishing-hero.json) |
 | Fishing Hook | 269936 | [269936-fishing-hook.json](./269936-fishing-hook.json) |
 | Fishing Inc | 390614 | [390614-fishing-inc.json](./390614-fishing-inc.json) |
@@ -5720,6 +5723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Planet: Supernatural Explorer Pack | 365989 | [365989-fishing-planet-supernatural-explorer-pack.json](./365989-fishing-planet-supernatural-explorer-pack.json) |
 | Fishing Planet: Taimen Khan Pack | 366006 | [366006-fishing-planet-taimen-khan-pack.json](./366006-fishing-planet-taimen-khan-pack.json) |
 | Fishing Planet: Thanksgiving Cornucopia Pack | 277352 | [277352-fishing-planet-thanksgiving-cornucopia-pack.json](./277352-fishing-planet-thanksgiving-cornucopia-pack.json) |
+| Fishing Planet: Topwater Kayak Pack | 263088 | [263088-fishing-planet-topwater-kayak-pack.json](./263088-fishing-planet-topwater-kayak-pack.json) |
 | Fishing Planet: Tropic Hunter Pack | 366000 | [366000-fishing-planet-tropic-hunter-pack.json](./366000-fishing-planet-tropic-hunter-pack.json) |
 | Fishing Planet: Ultimate Sport Bundle | 365998 | [365998-fishing-planet-ultimate-sport-bundle.json](./365998-fishing-planet-ultimate-sport-bundle.json) |
 | Fishing Planet: World Cats Cup Pack | 366009 | [366009-fishing-planet-world-cats-cup-pack.json](./366009-fishing-planet-world-cats-cup-pack.json) |
@@ -6928,6 +6932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floain | 290472 | [290472-floain.json](./290472-floain.json) |
 | Floain Plus | 375978 | [375978-floain-plus.json](./375978-floain-plus.json) |
 | Float | 245770 | [245770-float.json](./245770-float.json) |
+| Float | 263095 | [263095-float.json](./263095-float.json) |
 | Float Gallery | 51560 | [51560-float-gallery.json](./51560-float-gallery.json) |
 | Float Night | 111521 | [111521-float-night.json](./111521-float-night.json) |
 | Float Survival Simulator: Ocean Survivor | 324184 | [324184-float-survival-simulator-ocean-survivor.json](./324184-float-survival-simulator-ocean-survivor.json) |
@@ -10720,6 +10725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Ashes | 224243 | [224243-from-the-ashes.json](./224243-from-the-ashes.json) |
 | From the Darkness | 149716 | [149716-from-the-darkness.json](./149716-from-the-darkness.json) |
 | From the Deep | 224240 | [224240-from-the-deep.json](./224240-from-the-deep.json) |
+| From the Deep | 263093 | [263093-from-the-deep.json](./263093-from-the-deep.json) |
 | From the Depths | 9632 | [9632-from-the-depths.json](./9632-from-the-depths.json) |
 | From The Dust | 318853 | [318853-from-the-dust.json](./318853-from-the-dust.json) |
 | From The Forgotten | 340262 | [340262-from-the-forgotten.json](./340262-from-the-forgotten.json) |
