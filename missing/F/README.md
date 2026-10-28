@@ -10058,6 +10058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestyle Football 2 | 362044 | [362044-freestyle-football-2.json](./362044-freestyle-football-2.json) |
 | Freestyle Football R | 213008 | [213008-freestyle-football-r.json](./213008-freestyle-football-r.json) |
 | Freestyle Football Z | 270774 | [270774-freestyle-football-z.json](./270774-freestyle-football-z.json) |
+| Freestyle Ice Skater | 270499 | [270499-freestyle-ice-skater.json](./270499-freestyle-ice-skater.json) |
 | Freestyle King | 130610 | [130610-freestyle-king.json](./130610-freestyle-king.json) |
 | Freestyle MetalX | 3920 | [3920-freestyle-metalx.json](./3920-freestyle-metalx.json) |
 | FreeStyle Street Basketball | 21423 | [21423-freestyle-street-basketball.json](./21423-freestyle-street-basketball.json) |
@@ -10184,6 +10185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Bullet Arena | 31702 | [31702-friday-night-bullet-arena.json](./31702-friday-night-bullet-arena.json) |
 | Friday Night Crunchin' | 393266 | [393266-friday-night-crunchin.json](./393266-friday-night-crunchin.json) |
 | Friday Night Dustin' | 360892 | [360892-friday-night-dustin.json](./360892-friday-night-dustin.json) |
+| Friday Night Fever: Frenzy | 270506 | [270506-friday-night-fever-frenzy.json](./270506-friday-night-fever-frenzy.json) |
 | Friday Night Funk'n: Funkin' is Magic | 203223 | [203223-friday-night-funkn-funkin-is-magic.json](./203223-friday-night-funkn-funkin-is-magic.json) |
 | Friday Night Funkin vs. junim Cururu | 328236 | [328236-friday-night-funkin-vs-junim-cururu.json](./328236-friday-night-funkin-vs-junim-cururu.json) |
 | Friday Night Funkin: vs. Jeff | 242615 | [242615-friday-night-funkin-vs-jeff.json](./242615-friday-night-funkin-vs-jeff.json) |
