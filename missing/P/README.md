@@ -3971,6 +3971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perseus & Andromeda | 24696 | [24696-perseus-and-andromeda.json](./24696-perseus-and-andromeda.json) |
 | Persevera | 264685 | [264685-persevera.json](./264685-persevera.json) |
 | Perseverance | 149218 | [149218-perseverance.json](./149218-perseverance.json) |
+| Perseverance: Complete Edition | 233679 | [233679-perseverance-complete-edition.json](./233679-perseverance-complete-edition.json) |
 | Perseverance: Part 1 | 103226 | [103226-perseverance-part-1.json](./103226-perseverance-part-1.json) |
 | Perseverance: Part 2 | 171991 | [171991-perseverance-part-2.json](./171991-perseverance-part-2.json) |
 | Perseverance: Part 3 | 200410 | [200410-perseverance-part-3.json](./200410-perseverance-part-3.json) |
@@ -4482,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phalanstery | 74286 | [74286-phalanstery.json](./74286-phalanstery.json) |
 | Phalanx | 6532 | [6532-phalanx.json](./6532-phalanx.json) |
 | Phalanx of Resistance | 130143 | [130143-phalanx-of-resistance.json](./130143-phalanx-of-resistance.json) |
+| Phanotia I: Escavive | 233711 | [233711-phanotia-i-escavive.json](./233711-phanotia-i-escavive.json) |
 | Phanotia: Interlude I-Aubzan Abbey | 254372 | [254372-phanotia-interlude-i-aubzan-abbey.json](./254372-phanotia-interlude-i-aubzan-abbey.json) |
 | Phantaruk | 20788 | [20788-phantaruk.json](./20788-phantaruk.json) |
 | Phantasia | 192152 | [192152-phantasia.json](./192152-phantasia.json) |
@@ -5206,6 +5208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickle Frickle | 211717 | [211717-pickle-frickle.json](./211717-pickle-frickle.json) |
 | Pickle Fun | 219110 | [219110-pickle-fun.json](./219110-pickle-fun.json) |
 | Pickle Panic | 371460 | [371460-pickle-panic.json](./371460-pickle-panic.json) |
+| Pickle Pete | 233719 | [233719-pickle-pete.json](./233719-pickle-pete.json) |
 | Pickle Pete: Survival RPG | 245378 | [245378-pickle-pete-survival-rpg.json](./245378-pickle-pete-survival-rpg.json) |
 | Pickle Pop | 317446 | [317446-pickle-pop.json](./317446-pickle-pop.json) |
 | Pickle Run | 212713 | [212713-pickle-run.json](./212713-pickle-run.json) |
