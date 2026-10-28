@@ -4256,6 +4256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petka 9: Proletarskiy Glamur | 52763 | [52763-petka-9-proletarskiy-glamur.json](./52763-petka-9-proletarskiy-glamur.json) |
 | Petmancer | 351400 | [351400-petmancer.json](./351400-petmancer.json) |
 | Petoons Party | 117453 | [117453-petoons-party.json](./117453-petoons-party.json) |
+| Petpet Park | 268054 | [268054-petpet-park.json](./268054-petpet-park.json) |
 | Petracal | 364824 | [364824-petracal.json](./364824-petracal.json) |
 | Petradise | 175246 | [175246-petradise.json](./175246-petradise.json) |
 | Petri Dish | 356624 | [356624-petri-dish.json](./356624-petri-dish.json) |
@@ -4709,6 +4710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phaseshift | 175621 | [175621-phaseshift.json](./175621-phaseshift.json) |
 | PhaseWorm | 132477 | [132477-phaseworm.json](./132477-phaseworm.json) |
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
+| Phasmophobia: Ascension | 268059 | [268059-phasmophobia-ascension.json](./268059-phasmophobia-ascension.json) |
 | Phasmos | 419122 | [419122-phasmos.json](./419122-phasmos.json) |
 | Phat Phrog | 30892 | [30892-phat-phrog.json](./30892-phat-phrog.json) |
 | Phat Phrog Clicker | 314308 | [314308-phat-phrog-clicker.json](./314308-phat-phrog-clicker.json) |
@@ -4899,6 +4901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phonopolis | 204549 | [204549-phonopolis.json](./204549-phonopolis.json) |
 | Phoots and the Pineapple Throne | 304015 | [304015-phoots-and-the-pineapple-throne.json](./304015-phoots-and-the-pineapple-throne.json) |
 | Phos | 143971 | [143971-phos.json](./143971-phos.json) |
+| Phosphor | 267767 | [267767-phosphor.json](./267767-phosphor.json) |
 | Photo Clock | 84692 | [84692-photo-clock.json](./84692-photo-clock.json) |
 | Photo Finish | 110533 | [110533-photo-finish.json](./110533-photo-finish.json) |
 | Photo Genic | 283709 | [283709-photo-genic.json](./283709-photo-genic.json) |
@@ -9421,6 +9424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Blazed Glazed | 129808 | [129808-pokemon-blazed-glazed.json](./129808-pokemon-blazed-glazed.json) |
 | Pokémon Blooming Beast | 359976 | [359976-pokemon-blooming-beast.json](./359976-pokemon-blooming-beast.json) |
 | Pokémon Blue Chrome | 323763 | [323763-pokemon-blue-chrome.json](./323763-pokemon-blue-chrome.json) |
+| Pokémon Blue Kaizo | 268065 | [268065-pokemon-blue-kaizo.json](./268065-pokemon-blue-kaizo.json) |
 | Pokemon Bois | 250467 | [250467-pokemon-bois.json](./250467-pokemon-bois.json) |
 | Pokémon Box: Ruby & Sapphire | 93046 | [93046-pokemon-box-ruby-and-sapphire.json](./93046-pokemon-box-ruby-and-sapphire.json) |
 | Pokemon Breeder | 196863 | [196863-pokemon-breeder.json](./196863-pokemon-breeder.json) |
