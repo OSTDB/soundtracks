@@ -1951,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Tycoon 2: Folksy Facelift | 381899 | [381899-zoo-tycoon-2-folksy-facelift.json](./381899-zoo-tycoon-2-folksy-facelift.json) |
 | Zoo Tycoon 2: Marine Mania | 100132 | [100132-zoo-tycoon-2-marine-mania.json](./100132-zoo-tycoon-2-marine-mania.json) |
 | Zoo Tycoon 2: Paranoia! | 381976 | [381976-zoo-tycoon-2-paranoia.json](./381976-zoo-tycoon-2-paranoia.json) |
+| Zoo Tycoon 2: Radical Remake | 280053 | [280053-zoo-tycoon-2-radical-remake.json](./280053-zoo-tycoon-2-radical-remake.json) |
 | Zoo Tycoon 2032 | 176848 | [176848-zoo-tycoon-2032.json](./176848-zoo-tycoon-2032.json) |
 | Zoo Tycoon DS | 18598 | [18598-zoo-tycoon-ds.json](./18598-zoo-tycoon-ds.json) |
 | Zoo Tycoon Friends | 299574 | [299574-zoo-tycoon-friends.json](./299574-zoo-tycoon-friends.json) |
