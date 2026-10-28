@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tachyon Project | 19976 | [19976-tachyon-project.json](./19976-tachyon-project.json) |
 | Tachyon Project: Limited Edition | 166235 | [166235-tachyon-project-limited-edition.json](./166235-tachyon-project-limited-edition.json) |
 | Tachyon: The Fringe | 357 | [357-tachyon-the-fringe.json](./357-tachyon-the-fringe.json) |
+| Tachyonest | 259686 | [259686-tachyonest.json](./259686-tachyonest.json) |
 | Tachyons | 176425 | [176425-tachyons.json](./176425-tachyons.json) |
 | Tachyons: Battles Across the Galaxy | 236395 | [236395-tachyons-battles-across-the-galaxy.json](./236395-tachyons-battles-across-the-galaxy.json) |
 | Tachypsychia | 141253 | [141253-tachypsychia.json](./141253-tachypsychia.json) |
@@ -456,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin 12 | 342610 | [342610-taiko-no-tatsujin-12.json](./342610-taiko-no-tatsujin-12.json) |
 | Taiko no Tatsujin 12 Don-! to Zoryoban | 342611 | [342611-taiko-no-tatsujin-12-don-to-zoryoban.json](./342611-taiko-no-tatsujin-12-don-to-zoryoban.json) |
 | Taiko no Tatsujin 13 | 294220 | [294220-taiko-no-tatsujin-13.json](./294220-taiko-no-tatsujin-13.json) |
+| Taiko no Tatsujin 14 | 259386 | [259386-taiko-no-tatsujin-14.json](./259386-taiko-no-tatsujin-14.json) |
 | Taiko no Tatsujin 2 | 276063 | [276063-taiko-no-tatsujin-2.json](./276063-taiko-no-tatsujin-2.json) |
 | Taiko no Tatsujin 3 | 276065 | [276065-taiko-no-tatsujin-3.json](./276065-taiko-no-tatsujin-3.json) |
 | Taiko no Tatsujin 4 | 276389 | [276389-taiko-no-tatsujin-4.json](./276389-taiko-no-tatsujin-4.json) |
@@ -2060,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap That Date! | 323993 | [323993-tap-that-date.json](./323993-tap-that-date.json) |
 | Tap the Blocks | 214195 | [214195-tap-the-blocks.json](./214195-tap-the-blocks.json) |
 | Tap the Frog: Doodle | 166287 | [166287-tap-the-frog-doodle.json](./166287-tap-the-frog-doodle.json) |
+| Tap the Road | 259684 | [259684-tap-the-road.json](./259684-tap-the-road.json) |
 | Tap Those Targets | 158568 | [158568-tap-those-targets.json](./158568-tap-those-targets.json) |
 | Tap Titans | 91424 | [91424-tap-titans.json](./91424-tap-titans.json) |
 | Tap Titans 2 | 57168 | [57168-tap-titans-2.json](./57168-tap-titans-2.json) |
@@ -2530,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TD Overdrive: The Brotherhood of Speed | 6191 | [6191-td-overdrive-the-brotherhood-of-speed.json](./6191-td-overdrive-the-brotherhood-of-speed.json) |
 | TD Quest | 233092 | [233092-td-quest.json](./233092-td-quest.json) |
 | TD Strategy of Three Kingdoms | 130927 | [130927-td-strategy-of-three-kingdoms.json](./130927-td-strategy-of-three-kingdoms.json) |
+| TD Tower Defense | 259678 | [259678-td-tower-defense.json](./259678-td-tower-defense.json) |
 | TD Ultimate | 101022 | [101022-td-ultimate.json](./101022-td-ultimate.json) |
 | TD Worlds | 168619 | [168619-td-worlds.json](./168619-td-worlds.json) |
 | TD: Goblin Defenders | 101650 | [101650-td-goblin-defenders.json](./101650-td-goblin-defenders.json) |
@@ -16982,6 +16986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Therapy with Dr. Albert Krueger | 148411 | [148411-therapy-with-dr-albert-krueger.json](./148411-therapy-with-dr-albert-krueger.json) |
 | There | 79774 | [79774-there.json](./79774-there.json) |
 | There a no Armadillos in this game | 129212 | [129212-there-a-no-armadillos-in-this-game.json](./129212-there-a-no-armadillos-in-this-game.json) |
+| There Are Dinosaurs | 259674 | [259674-there-are-dinosaurs.json](./259674-there-are-dinosaurs.json) |
 | There Are Ghosts In These Stalls | 177292 | [177292-there-are-ghosts-in-these-stalls.json](./177292-there-are-ghosts-in-these-stalls.json) |
 | There Are Millions of Goblins | 402248 | [402248-there-are-millions-of-goblins.json](./402248-there-are-millions-of-goblins.json) |
 | There Are No Ghosts at the Grand | 347841 | [347841-there-are-no-ghosts-at-the-grand.json](./347841-there-are-no-ghosts-at-the-grand.json) |
@@ -19744,6 +19749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Blazer | 193303 | [193303-time-blazer.json](./193303-time-blazer.json) |
 | Time Bokan Series: Bokan Desuyo | 43759 | [43759-time-bokan-series-bokan-desuyo.json](./43759-time-bokan-series-bokan-desuyo.json) |
 | Time Bokan Series: Bokan to Ippatsu! Doronbo | 43764 | [43764-time-bokan-series-bokan-to-ippatsu-doronbo.json](./43764-time-bokan-series-bokan-to-ippatsu-doronbo.json) |
+| Time Bomb Race | 259689 | [259689-time-bomb-race.json](./259689-time-bomb-race.json) |
 | Time Break 2121 | 121464 | [121464-time-break-2121.json](./121464-time-break-2121.json) |
 | Time Breaker | 256666 | [256666-time-breaker.json](./256666-time-breaker.json) |
 | Time Breaking: Dino Breach | 386427 | [386427-time-breaking-dino-breach.json](./386427-time-breaking-dino-breach.json) |
@@ -20068,6 +20074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeScar: Hyperion | 110769 | [110769-timescar-hyperion.json](./110769-timescar-hyperion.json) |
 | TimeShift | 2030 | [2030-timeshift.json](./2030-timeshift.json) |
 | TimeShifters | 152456 | [152456-timeshifters.json](./152456-timeshifters.json) |
+| TimeShifters: Expansion Pack 1 | 259681 | [259681-timeshifters-expansion-pack-1.json](./259681-timeshifters-expansion-pack-1.json) |
 | Timeslip | 77974 | [77974-timeslip.json](./77974-timeslip.json) |
 | Timespinner 2: Unwoven Dream | 268677 | [268677-timespinner-2-unwoven-dream.json](./268677-timespinner-2-unwoven-dream.json) |
 | TimeSplitters | 317415 | [317415-timesplitters.json](./317415-timesplitters.json) |
@@ -25864,6 +25871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped in the Backrooms | 404793 | [404793-trapped-in-the-backrooms.json](./404793-trapped-in-the-backrooms.json) |
 | Trapped in the Forest | 190055 | [190055-trapped-in-the-forest.json](./190055-trapped-in-the-forest.json) |
 | Trapped in the Kanal | 259538 | [259538-trapped-in-the-kanal.json](./259538-trapped-in-the-kanal.json) |
+| Trapped in The Kanal | 259706 | [259706-trapped-in-the-kanal.json](./259706-trapped-in-the-kanal.json) |
 | Trapped in the Omniverse | 392113 | [392113-trapped-in-the-omniverse.json](./392113-trapped-in-the-omniverse.json) |
 | Trapped in The Tricky Prison | 270478 | [270478-trapped-in-the-tricky-prison.json](./270478-trapped-in-the-tricky-prison.json) |
 | Trapped Inside a Train (And There's Nothing You Can Do About It) | 299304 | [299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json](./299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json) |
@@ -27786,6 +27794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Túatha Echoes: The Village | 338603 | [338603-tuatha-echoes-the-village.json](./338603-tuatha-echoes-the-village.json) |
 | Tub Defenders | 252930 | [252930-tub-defenders.json](./252930-tub-defenders.json) |
 | Tub Sub | 180584 | [180584-tub-sub.json](./180584-tub-sub.json) |
+| Tubaruba | 259382 | [259382-tubaruba.json](./259382-tubaruba.json) |
 | Tubby Toast | 307839 | [307839-tubby-toast.json](./307839-tubby-toast.json) |
 | Tubby's Wonderful Town | 382751 | [382751-tubbys-wonderful-town.json](./382751-tubbys-wonderful-town.json) |
 | Tube | 93406 | [93406-tube.json](./93406-tube.json) |
