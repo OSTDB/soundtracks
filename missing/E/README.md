@@ -2712,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emmy II | 62195 | [62195-emmy-ii.json](./62195-emmy-ii.json) |
 | Emmy: The Funny Game | 62196 | [62196-emmy-the-funny-game.json](./62196-emmy-the-funny-game.json) |
 | Emmy's Lab Escape | 364483 | [364483-emmys-lab-escape.json](./364483-emmys-lab-escape.json) |
+| Emmyrea | 269408 | [269408-emmyrea.json](./269408-emmyrea.json) |
 | Emo Neccky | 229666 | [229666-emo-neccky.json](./229666-emo-neccky.json) |
 | Emo Quest XD | 280879 | [280879-emo-quest-xd.json](./280879-emo-quest-xd.json) |
 | Emo's Match Maker: The Game of Love | 209202 | [209202-emos-match-maker-the-game-of-love.json](./209202-emos-match-maker-the-game-of-love.json) |
