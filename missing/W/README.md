@@ -6923,6 +6923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World End Girlfriend | 207204 | [207204-world-end-girlfriend.json](./207204-world-end-girlfriend.json) |
 | World Ends Wednesday | 264144 | [264144-world-ends-wednesday.json](./264144-world-ends-wednesday.json) |
 | World Enduro Rally | 111671 | [111671-world-enduro-rally.json](./111671-world-enduro-rally.json) |
+| World Engine Fantazion | 279808 | [279808-world-engine-fantazion.json](./279808-world-engine-fantazion.json) |
 | World Escape | 68667 | [68667-world-escape.json](./68667-world-escape.json) |
 | World Eternal Online | 222460 | [222460-world-eternal-online.json](./222460-world-eternal-online.json) |
 | World Eternal: Battlegrounds | 312537 | [312537-world-eternal-battlegrounds.json](./312537-world-eternal-battlegrounds.json) |
