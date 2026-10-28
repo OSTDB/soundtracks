@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Multiplayer | 212734 | [212734-rage-multiplayer.json](./212734-rage-multiplayer.json) |
 | Rage Night | 224764 | [224764-rage-night.json](./224764-rage-night.json) |
 | Rage of Bahamut | 28007 | [28007-rage-of-bahamut.json](./28007-rage-of-bahamut.json) |
+| Rage of Blades | 254708 | [254708-rage-of-blades.json](./254708-rage-of-blades.json) |
 | Rage of Car Force: Car Crashing Games | 149356 | [149356-rage-of-car-force-car-crashing-games.json](./149356-rage-of-car-force-car-crashing-games.json) |
 | Rage of Destiny | 162836 | [162836-rage-of-destiny.json](./162836-rage-of-destiny.json) |
 | Rage of Kings | 181613 | [181613-rage-of-kings.json](./181613-rage-of-kings.json) |
@@ -7242,6 +7243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Avenger | 93049 | [93049-road-avenger.json](./93049-road-avenger.json) |
 | Road Block | 124709 | [124709-road-block.json](./124709-road-block.json) |
 | Road Builder | 172994 | [172994-road-builder.json](./172994-road-builder.json) |
+| Road Bustle 2 | 254636 | [254636-road-bustle-2.json](./254636-road-bustle-2.json) |
 | Road Cafe Simulator | 351028 | [351028-road-cafe-simulator.json](./351028-road-cafe-simulator.json) |
 | Road Cards | 187880 | [187880-road-cards.json](./187880-road-cards.json) |
 | Road Champs: BXS Stunt Biking | 49907 | [49907-road-champs-bxs-stunt-biking.json](./49907-road-champs-bxs-stunt-biking.json) |
