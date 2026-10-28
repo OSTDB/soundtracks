@@ -1762,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undying Dusk | 146286 | [146286-undying-dusk.json](./146286-undying-dusk.json) |
 | Undying Flame | 404173 | [404173-undying-flame.json](./404173-undying-flame.json) |
 | Undying Flower | 329481 | [329481-undying-flower.json](./329481-undying-flower.json) |
+| Undying Fortress | 258297 | [258297-undying-fortress.json](./258297-undying-fortress.json) |
 | Undying Lantern | 197131 | [197131-undying-lantern.json](./197131-undying-lantern.json) |
 | Undying Memoir | 270646 | [270646-undying-memoir.json](./270646-undying-memoir.json) |
 | Undying One | 390250 | [390250-undying-one.json](./390250-undying-one.json) |
