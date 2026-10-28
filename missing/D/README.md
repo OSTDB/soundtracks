@@ -6463,6 +6463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Lightfall - Season of Defiance | 240059 | [240059-destiny-2-lightfall-season-of-defiance.json](./240059-destiny-2-lightfall-season-of-defiance.json) |
 | Destiny 2: Lightfall - Season of the Deep | 250021 | [250021-destiny-2-lightfall-season-of-the-deep.json](./250021-destiny-2-lightfall-season-of-the-deep.json) |
 | Destiny 2: Lightfall - Season of the Wish | 278312 | [278312-destiny-2-lightfall-season-of-the-wish.json](./278312-destiny-2-lightfall-season-of-the-wish.json) |
+| Destiny 2: Lightfall - Season of the Witch | 262531 | [262531-destiny-2-lightfall-season-of-the-witch.json](./262531-destiny-2-lightfall-season-of-the-witch.json) |
 | Destiny 2: Limited Edition | 132151 | [132151-destiny-2-limited-edition.json](./132151-destiny-2-limited-edition.json) |
 | Destiny 2: Revenant | 319116 | [319116-destiny-2-revenant.json](./319116-destiny-2-revenant.json) |
 | Destiny 2: Revenant Silver Bundle | 326684 | [326684-destiny-2-revenant-silver-bundle.json](./326684-destiny-2-revenant-silver-bundle.json) |
@@ -6509,6 +6510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny RPG | 52886 | [52886-destiny-rpg.json](./52886-destiny-rpg.json) |
 | Destiny Saga | 277191 | [277191-destiny-saga.json](./277191-destiny-saga.json) |
 | Destiny Spire | 356899 | [356899-destiny-spire.json](./356899-destiny-spire.json) |
+| Destiny Star Girlfriend | 262535 | [262535-destiny-star-girlfriend.json](./262535-destiny-star-girlfriend.json) |
 | Destiny Star Girlfriend 2 | 296892 | [296892-destiny-star-girlfriend-2.json](./296892-destiny-star-girlfriend-2.json) |
 | Destiny Star Girlfriend 2 | 304983 | [304983-destiny-star-girlfriend-2.json](./304983-destiny-star-girlfriend-2.json) |
 | Destiny Star Girlfriend 3 | 305275 | [305275-destiny-star-girlfriend-3.json](./305275-destiny-star-girlfriend-3.json) |
@@ -7179,6 +7181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Dark Pathways Pack | 289474 | [289474-diablo-iv-dark-pathways-pack.json](./289474-diablo-iv-dark-pathways-pack.json) |
 | Diablo IV: Digital Deluxe Edition | 249741 | [249741-diablo-iv-digital-deluxe-edition.json](./249741-diablo-iv-digital-deluxe-edition.json) |
 | Diablo IV: Loot Reborn | 299726 | [299726-diablo-iv-loot-reborn.json](./299726-diablo-iv-loot-reborn.json) |
+| Diablo IV: Season of Blood | 262536 | [262536-diablo-iv-season-of-blood.json](./262536-diablo-iv-season-of-blood.json) |
 | Diablo IV: Season of Divine Intervention | 380541 | [380541-diablo-iv-season-of-divine-intervention.json](./380541-diablo-iv-season-of-divine-intervention.json) |
 | Diablo IV: Season of Hatred Rising | 314387 | [314387-diablo-iv-season-of-hatred-rising.json](./314387-diablo-iv-season-of-hatred-rising.json) |
 | Diablo IV: Season of Infernal Chaos | 372053 | [372053-diablo-iv-season-of-infernal-chaos.json](./372053-diablo-iv-season-of-infernal-chaos.json) |
@@ -7537,6 +7540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die drei ??? Das Geheimnis der Geisterinsel | 269702 | [269702-die-drei-das-geheimnis-der-geisterinsel.json](./269702-die-drei-das-geheimnis-der-geisterinsel.json) |
 | Die drei ??? Das Geheimnis der Toten | 269704 | [269704-die-drei-das-geheimnis-der-toten.json](./269704-die-drei-das-geheimnis-der-toten.json) |
 | Die drei ???: Das Gold der Inkas | 361324 | [361324-die-drei-das-gold-der-inkas.json](./361324-die-drei-das-gold-der-inkas.json) |
+| Die drei ???: Fluch des Flaschenteufels | 262522 | [262522-die-drei-fluch-des-flaschenteufels.json](./262522-die-drei-fluch-des-flaschenteufels.json) |
 | Die Drei ???: Ruf Der Trolle | 371610 | [371610-die-drei-ruf-der-trolle.json](./371610-die-drei-ruf-der-trolle.json) |
 | Die drei Freunde von der Reitschule | 291073 | [291073-die-drei-freunde-von-der-reitschule.json](./291073-die-drei-freunde-von-der-reitschule.json) |
 | Die Drei??? Kids: Jagd auf Das Phantom | 136371 | [136371-die-drei-kids-jagd-auf-das-phantom.json](./136371-die-drei-kids-jagd-auf-das-phantom.json) |
@@ -12610,6 +12614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Deluxe Edition | 237860 | [237860-dragon-ball-z-kakarot-a-new-power-awakens-set-deluxe-edition.json](./237860-dragon-ball-z-kakarot-a-new-power-awakens-set-deluxe-edition.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Goku's Next Journey | 288303 | [288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json](./288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Legendary Edition | 232992 | [232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json](./232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json) |
+| Dragon Ball Z: Kakarot + A New Power Awakens Set Season Pass 2 | 262157 | [262157-dragon-ball-z-kakarot-a-new-power-awakens-set-season-pass-2.json](./262157-dragon-ball-z-kakarot-a-new-power-awakens-set-season-pass-2.json) |
 | Dragon Ball Z: Legend of Z RPG | 314005 | [314005-dragon-ball-z-legend-of-z-rpg.json](./314005-dragon-ball-z-legend-of-z-rpg.json) |
 | Dragon Ball Z: Namekku-sei Chou Kessen | 346786 | [346786-dragon-ball-z-namekku-sei-chou-kessen.json](./346786-dragon-ball-z-namekku-sei-chou-kessen.json) |
 | Dragon Ball Z: Pong | 338683 | [338683-dragon-ball-z-pong.json](./338683-dragon-ball-z-pong.json) |
