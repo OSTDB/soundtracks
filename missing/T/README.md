@@ -2255,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tartaros | 320403 | [320403-tartaros.json](./320403-tartaros.json) |
 | Tartarus | 256845 | [256845-tartarus.json](./256845-tartarus.json) |
 | Tartarus | 29147 | [29147-tartarus.json](./29147-tartarus.json) |
+| Tartarus Longo Itinere | 238656 | [238656-tartarus-longo-itinere.json](./238656-tartarus-longo-itinere.json) |
 | Tarthenia | 171788 | [171788-tarthenia.json](./171788-tarthenia.json) |
 | Tarutobi | 371917 | [371917-tarutobi.json](./371917-tarutobi.json) |
 | Tarvos Desolation | 345044 | [345044-tarvos-desolation.json](./345044-tarvos-desolation.json) |
@@ -8140,6 +8141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fear Island | 153866 | [153866-the-fear-island.json](./153866-the-fear-island.json) |
 | The Feast | 228727 | [228727-the-feast.json](./228727-the-feast.json) |
 | The Feast of Madness: A Night of Drowning in Forbidden Temptation | 308876 | [308876-the-feast-of-madness-a-night-of-drowning-in-forbidden-temptation.json](./308876-the-feast-of-madness-a-night-of-drowning-in-forbidden-temptation.json) |
+| The Feathered Serpent | 238658 | [238658-the-feathered-serpent.json](./238658-the-feathered-serpent.json) |
 | The Feces Feasters | 368296 | [368296-the-feces-feasters.json](./368296-the-feces-feasters.json) |
 | The FED | 200016 | [200016-the-fed.json](./200016-the-fed.json) |
 | The Federal Rescue | 102967 | [102967-the-federal-rescue.json](./102967-the-federal-rescue.json) |
@@ -9070,6 +9072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Growth Journey | 34094 | [34094-the-growth-journey.json](./34094-the-growth-journey.json) |
 | The Growth Project | 26614 | [26614-the-growth-project.json](./26614-the-growth-project.json) |
 | The Grugs: Origins | 262969 | [262969-the-grugs-origins.json](./262969-the-grugs-origins.json) |
+| The Guard | 238686 | [238686-the-guard.json](./238686-the-guard.json) |
 | The Guardhouse | 271321 | [271321-the-guardhouse.json](./271321-the-guardhouse.json) |
 | The Guardian | 149495 | [149495-the-guardian.json](./149495-the-guardian.json) |
 | The Guardian | 219967 | [219967-the-guardian.json](./219967-the-guardian.json) |
@@ -15083,6 +15086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Super Robot Bros | 313134 | [313134-the-super-robot-bros.json](./313134-the-super-robot-bros.json) |
 | The Super Shinobi | 266331 | [266331-the-super-shinobi.json](./266331-the-super-shinobi.json) |
 | The Super Spy | 46838 | [46838-the-super-spy.json](./46838-the-super-spy.json) |
+| The Super Stoo-Pendous World of Dr. Seuss | 238668 | [238668-the-super-stoo-pendous-world-of-dr-seuss.json](./238668-the-super-stoo-pendous-world-of-dr-seuss.json) |
 | The Super Sucker II | 108812 | [108812-the-super-sucker-ii.json](./108812-the-super-sucker-ii.json) |
 | The Superfluous | 31953 | [31953-the-superfluous.json](./31953-the-superfluous.json) |
 | The Superfluous Sand | 133398 | [133398-the-superfluous-sand.json](./133398-the-superfluous-sand.json) |
@@ -16204,6 +16208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Void of Desires | 123947 | [123947-the-void-of-desires.json](./123947-the-void-of-desires.json) |
 | The Void Project | 276145 | [276145-the-void-project.json](./276145-the-void-project.json) |
 | The Void Rolls Back | 256785 | [256785-the-void-rolls-back.json](./256785-the-void-rolls-back.json) |
+| The Voidness | 238654 | [238654-the-voidness.json](./238654-the-voidness.json) |
 | The Volcano | 125463 | [125463-the-volcano.json](./125463-the-volcano.json) |
 | The Volleyball B | 214475 | [214475-the-volleyball-b.json](./214475-the-volleyball-b.json) |
 | The Voluntary Chipping | 272366 | [272366-the-voluntary-chipping.json](./272366-the-voluntary-chipping.json) |
@@ -21260,6 +21265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToHeart: Extra Stories - Serio & Masashi | 351148 | [351148-toheart-extra-stories-serio-and-masashi.json](./351148-toheart-extra-stories-serio-and-masashi.json) |
 | ToHeart2 | 132039 | [132039-toheart2.json](./132039-toheart2.json) |
 | ToHeart2 DX Plus | 65567 | [65567-toheart2-dx-plus.json](./65567-toheart2-dx-plus.json) |
+| ToHeart2 Portable | 238666 | [238666-toheart2-portable.json](./238666-toheart2-portable.json) |
 | ToHeart2 XRated | 238370 | [238370-toheart2-xrated.json](./238370-toheart2-xrated.json) |
 | ToHeart2: AnotherDays | 242474 | [242474-toheart2-anotherdays.json](./242474-toheart2-anotherdays.json) |
 | Tohoku Daigaku Karei Igaku Kenkyuusho: Kawashima Ryuuta Kyouju Kanshuu - Mono Sugoku Nou wo Kitaeru 5-Funkan no Oni Training | 136956 | [136956-tohoku-daigaku-karei-igaku-kenkyuusho-kawashima-ryuuta-kyouju-kanshuu-mono-sugoku-nou-wo-kitaeru-5-funkan-no-oni-training.json](./136956-tohoku-daigaku-karei-igaku-kenkyuusho-kawashima-ryuuta-kyouju-kanshuu-mono-sugoku-nou-wo-kitaeru-5-funkan-no-oni-training.json) |
@@ -24332,6 +24338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2: BR Class 31 Loco | 168732 | [168732-train-sim-world-2-br-class-31-loco.json](./168732-train-sim-world-2-br-class-31-loco.json) |
 | Train Sim World 2: BR Class 313 | 205574 | [205574-train-sim-world-2-br-class-313.json](./205574-train-sim-world-2-br-class-313.json) |
 | Train Sim World 2: BR Class 33 Loco | 168736 | [168736-train-sim-world-2-br-class-33-loco.json](./168736-train-sim-world-2-br-class-33-loco.json) |
+| Train Sim World 2: BR Class 52 'Western' Loco | 238695 | [238695-train-sim-world-2-br-class-52-western-loco.json](./238695-train-sim-world-2-br-class-52-western-loco.json) |
 | Train Sim World 2: BR Heavy Freight Pack | 227329 | [227329-train-sim-world-2-br-heavy-freight-pack.json](./227329-train-sim-world-2-br-heavy-freight-pack.json) |
 | Train Sim World 2: BR Heavy Freight Pack Loco | 168730 | [168730-train-sim-world-2-br-heavy-freight-pack-loco.json](./168730-train-sim-world-2-br-heavy-freight-pack-loco.json) |
 | Train Sim World 2: Caltrain MP15DC Diesel Switcher Loco | 161735 | [161735-train-sim-world-2-caltrain-mp15dc-diesel-switcher-loco.json](./161735-train-sim-world-2-caltrain-mp15dc-diesel-switcher-loco.json) |
