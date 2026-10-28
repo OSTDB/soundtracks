@@ -6410,6 +6410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of Dread | 342526 | [342526-shards-of-dread.json](./342526-shards-of-dread.json) |
 | Shards of Epoch Past | 301697 | [301697-shards-of-epoch-past.json](./301697-shards-of-epoch-past.json) |
 | Shards of Eradine | 88065 | [88065-shards-of-eradine.json](./88065-shards-of-eradine.json) |
+| Shards of God | 256947 | [256947-shards-of-god.json](./256947-shards-of-god.json) |
 | Shards of Hope | 184044 | [184044-shards-of-hope.json](./184044-shards-of-hope.json) |
 | Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
 | Shards of Order | 363332 | [363332-shards-of-order.json](./363332-shards-of-order.json) |
@@ -8147,6 +8148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show by Rock!! | 60352 | [60352-show-by-rock.json](./60352-show-by-rock.json) |
 | Show da Copa com Estádio 97 | 255668 | [255668-show-da-copa-com-estadio-97.json](./255668-show-da-copa-com-estadio-97.json) |
 | Show do Milhão | 122331 | [122331-show-do-milhao.json](./122331-show-do-milhao.json) |
+| Show do Milhão | 256640 | [256640-show-do-milhao.json](./256640-show-do-milhao.json) |
 | Show do Milhão | 93008 | [93008-show-do-milhao.json](./93008-show-do-milhao.json) |
 | Show do Milhão 2006 | 163341 | [163341-show-do-milhao-2006.json](./163341-show-do-milhao-2006.json) |
 | Show do Milhão Júnior | 135500 | [135500-show-do-milhao-junior.json](./135500-show-do-milhao-junior.json) |
@@ -10862,6 +10864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Roll! | 147653 | [147653-sky-roll.json](./147653-sky-roll.json) |
 | Sky Rollball | 28844 | [28844-sky-rollball.json](./28844-sky-rollball.json) |
 | Sky Roller Coaster | 298045 | [298045-sky-roller-coaster.json](./298045-sky-roller-coaster.json) |
+| Sky Roller: Rainbow Skating | 256934 | [256934-sky-roller-rainbow-skating.json](./256934-sky-roller-rainbow-skating.json) |
 | Sky Runner | 36904 | [36904-sky-runner.json](./36904-sky-runner.json) |
 | Sky Rusher | 97263 | [97263-sky-rusher.json](./97263-sky-rusher.json) |
 | Sky Saviour | 355591 | [355591-sky-saviour.json](./355591-sky-saviour.json) |
@@ -12718,6 +12721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Crossing | 306382 | [306382-snake-crossing.json](./306382-snake-crossing.json) |
 | Snake Cubed | 18906 | [18906-snake-cubed.json](./18906-snake-cubed.json) |
 | Snake Deluxe | 154407 | [154407-snake-deluxe.json](./154407-snake-deluxe.json) |
+| Snake Deluxe | 256653 | [256653-snake-deluxe.json](./256653-snake-deluxe.json) |
 | Snake Deluxe 2 | 256655 | [256655-snake-deluxe-2.json](./256655-snake-deluxe-2.json) |
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
 | Snake Dice | 364679 | [364679-snake-dice.json](./364679-snake-dice.json) |
@@ -19482,6 +19486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Ultra Premium | 328831 | [328831-sport-and-fun-swimming-ultra-premium.json](./328831-sport-and-fun-swimming-ultra-premium.json) |
 | Sport & Fun: Swimming - Ultra Special | 328830 | [328830-sport-and-fun-swimming-ultra-special.json](./328830-sport-and-fun-swimming-ultra-special.json) |
 | Sport & Fun: Swimming - Ultra Ultimate | 328829 | [328829-sport-and-fun-swimming-ultra-ultimate.json](./328829-sport-and-fun-swimming-ultra-ultimate.json) |
+| Sport & Fun: Swimming: Definitive Edition | 256635 | [256635-sport-and-fun-swimming-definitive-edition.json](./256635-sport-and-fun-swimming-definitive-edition.json) |
 | Sport 10 Pack | 131264 | [131264-sport-10-pack.json](./131264-sport-10-pack.json) |
 | Sport Freaks | 45906 | [45906-sport-freaks.json](./45906-sport-freaks.json) |
 | Sport Games | 45603 | [45603-sport-games.json](./45603-sport-games.json) |
