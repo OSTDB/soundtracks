@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Wild: The Angler - Deluxe Edition | 264133 | [264133-call-of-the-wild-the-angler-deluxe-edition.json](./264133-call-of-the-wild-the-angler-deluxe-edition.json) |
 | Call of the Wild: The Angler - Japan Fishing Reserve | 331812 | [331812-call-of-the-wild-the-angler-japan-fishing-reserve.json](./331812-call-of-the-wild-the-angler-japan-fishing-reserve.json) |
 | Call of the Wild: The Angler - LakePal Bait Boat Pack | 318443 | [318443-call-of-the-wild-the-angler-lakepal-bait-boat-pack.json](./318443-call-of-the-wild-the-angler-lakepal-bait-boat-pack.json) |
+| Call of the Wild: The Angler - Launch Edition | 264161 | [264161-call-of-the-wild-the-angler-launch-edition.json](./264161-call-of-the-wild-the-angler-launch-edition.json) |
 | Call of the Wild: The Angler - Reserve Pass | 276300 | [276300-call-of-the-wild-the-angler-reserve-pass.json](./276300-call-of-the-wild-the-angler-reserve-pass.json) |
 | Call of the Wild: The Angler - Ultimate Fishing Bundle | 301333 | [301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json](./301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json) |
 | Call of the Wild: The Angler - Winter Vehicle Cosmetics Pack | 366229 | [366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json](./366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json) |
@@ -7058,6 +7059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatic Odyssey | 338522 | [338522-chromatic-odyssey.json](./338522-chromatic-odyssey.json) |
 | Chromatic Souls | 200734 | [200734-chromatic-souls.json](./200734-chromatic-souls.json) |
 | Chromatic: Color Puzzles | 134425 | [134425-chromatic-color-puzzles.json](./134425-chromatic-color-puzzles.json) |
+| Chromaticasters | 264191 | [264191-chromaticasters.json](./264191-chromaticasters.json) |
 | Chromatide | 405166 | [405166-chromatide.json](./405166-chromatide.json) |
 | Chromatism | 80304 | [80304-chromatism.json](./80304-chromatism.json) |
 | Chromatrix | 295769 | [295769-chromatrix.json](./295769-chromatrix.json) |
@@ -13023,6 +13025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmosa | 117548 | [117548-cosmosa.json](./117548-cosmosa.json) |
 | Cosmosapiens | 173210 | [173210-cosmosapiens.json](./173210-cosmosapiens.json) |
 | Cosmoscope | 158200 | [158200-cosmoscope.json](./158200-cosmoscope.json) |
+| Cosmosiege | 264182 | [264182-cosmosiege.json](./264182-cosmosiege.json) |
 | Cosmoswat | 386514 | [386514-cosmoswat.json](./386514-cosmoswat.json) |
 | Cosmotots | 303739 | [303739-cosmotots.json](./303739-cosmotots.json) |
 | Cosmotroid | 263041 | [263041-cosmotroid.json](./263041-cosmotroid.json) |
