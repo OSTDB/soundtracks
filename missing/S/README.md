@@ -6683,6 +6683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Vomited Guns | 234237 | [234237-she-vomited-guns.json](./234237-she-vomited-guns.json) |
 | She Wants Me Dead | 32718 | [32718-she-wants-me-dead.json](./32718-she-wants-me-dead.json) |
 | She Wants Me Dead + Clumsy Rush | 237572 | [237572-she-wants-me-dead-clumsy-rush.json](./237572-she-wants-me-dead-clumsy-rush.json) |
+| She Wants Me Dead: Deluxe Edition | 231562 | [231562-she-wants-me-dead-deluxe-edition.json](./231562-she-wants-me-dead-deluxe-edition.json) |
 | She Wants Me Dead: Extended Edition | 239493 | [239493-she-wants-me-dead-extended-edition.json](./239493-she-wants-me-dead-extended-edition.json) |
 | She Wants Me Dead: Ultimate Edition | 237768 | [237768-she-wants-me-dead-ultimate-edition.json](./237768-she-wants-me-dead-ultimate-edition.json) |
 | She Wants to Suck My Blood? | 254324 | [254324-she-wants-to-suck-my-blood.json](./254324-she-wants-to-suck-my-blood.json) |
@@ -7074,6 +7075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiin | 55839 | [55839-shiin.json](./55839-shiin.json) |
 | Shiina Maho no Himitsu: Name ha H de Omoitsukimasu | 396485 | [396485-shiina-maho-no-himitsu-name-ha-h-de-omoitsukimasu.json](./396485-shiina-maho-no-himitsu-name-ha-h-de-omoitsukimasu.json) |
 | Shiina Taki's Decameron | 320725 | [320725-shiina-takis-decameron.json](./320725-shiina-takis-decameron.json) |
+| Shiitake Showdown | 231567 | [231567-shiitake-showdown.json](./231567-shiitake-showdown.json) |
 | Shijie Xiuxian | 295003 | [295003-shijie-xiuxian.json](./295003-shijie-xiuxian.json) |
 | Shìjiè Zhīwài | 400305 | [400305-shijie-zhiwai.json](./400305-shijie-zhiwai.json) |
 | Shìjiè Zhīwài de Yúrén Chuán | 373700 | [373700-shijie-zhiwai-de-yuren-chuan.json](./373700-shijie-zhiwai-de-yuren-chuan.json) |
@@ -17089,6 +17091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Kitten: An Easy Survival Game | 338272 | [338272-space-kitten-an-easy-survival-game.json](./338272-space-kitten-an-easy-survival-game.json) |
 | Space Komandirovka | 119703 | [119703-space-komandirovka.json](./119703-space-komandirovka.json) |
 | Space Lagat | 74953 | [74953-space-lagat.json](./74953-space-lagat.json) |
+| Space Landing | 231566 | [231566-space-landing.json](./231566-space-landing.json) |
 | Space Launch Engineer | 88244 | [88244-space-launch-engineer.json](./88244-space-launch-engineer.json) |
 | Space Launcher | 60875 | [60875-space-launcher.json](./60875-space-launcher.json) |
 | Space Lazors: Puzzle Saga | 257246 | [257246-space-lazors-puzzle-saga.json](./257246-space-lazors-puzzle-saga.json) |
@@ -17601,6 +17604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaced Liberation | 305645 | [305645-spaced-liberation.json](./305645-spaced-liberation.json) |
 | Spaced Out | 296360 | [296360-spaced-out.json](./296360-spaced-out.json) |
 | Spaced Penguin! | 406779 | [406779-spaced-penguin.json](./406779-spaced-penguin.json) |
+| SpaceDog | 231597 | [231597-spacedog.json](./231597-spacedog.json) |
 | Spacedust Defender | 179410 | [179410-spacedust-defender.json](./179410-spacedust-defender.json) |
 | SpaceDweller | 59864 | [59864-spacedweller.json](./59864-spacedweller.json) |
 | SpaceEngine | 7585 | [7585-spaceengine.json](./7585-spaceengine.json) |
@@ -23104,6 +23108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steventon Street | 180543 | [180543-steventon-street.json](./180543-steventon-street.json) |
 | Steventon Street: Deluxe Edition | 359069 | [359069-steventon-street-deluxe-edition.json](./359069-steventon-street-deluxe-edition.json) |
 | Stevo Life | 341016 | [341016-stevo-life.json](./341016-stevo-life.json) |
+| Stewart the Fox | 231552 | [231552-stewart-the-fox.json](./231552-stewart-the-fox.json) |
 | Stewie Talking Electronic Pinball | 218441 | [218441-stewie-talking-electronic-pinball.json](./218441-stewie-talking-electronic-pinball.json) |
 | STG Football | 222769 | [222769-stg-football.json](./222769-stg-football.json) |
 | STG01 | 296004 | [296004-stg01.json](./296004-stg01.json) |
@@ -25097,6 +25102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Su! | 223341 | [223341-su.json](./223341-su.json) |
 | SU42: Hired Gun | 345669 | [345669-su42-hired-gun.json](./345669-su42-hired-gun.json) |
 | Su8way | 408704 | [408704-su8way.json](./408704-su8way.json) |
+| Sua | 231560 | [231560-sua.json](./231560-sua.json) |
 | Sub Attack | 337208 | [337208-sub-attack.json](./337208-sub-attack.json) |
 | Sub Battle Simulator | 37162 | [37162-sub-battle-simulator.json](./37162-sub-battle-simulator.json) |
 | Sub Chase | 245579 | [245579-sub-chase.json](./245579-sub-chase.json) |
@@ -27835,6 +27841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Stellato | 260841 | [260841-super-mario-stellato.json](./260841-super-mario-stellato.json) |
 | Super Mario Storm I | 324681 | [324681-super-mario-storm-i.json](./324681-super-mario-storm-i.json) |
 | Super Mario Story | 313110 | [313110-super-mario-story.json](./313110-super-mario-story.json) |
+| Super Mario Strikers | 231573 | [231573-super-mario-strikers.json](./231573-super-mario-strikers.json) |
 | Super Mario Subpop | 320159 | [320159-super-mario-subpop.json](./320159-super-mario-subpop.json) |
 | Super Mario Sunburn | 135148 | [135148-super-mario-sunburn.json](./135148-super-mario-sunburn.json) |
 | Super Mario Sunshine | 229177 | [229177-super-mario-sunshine.json](./229177-super-mario-sunshine.json) |
@@ -28203,6 +28210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Panic Monsters | 71510 | [71510-super-panic-monsters.json](./71510-super-panic-monsters.json) |
 | Super Paper Bowser World | 323290 | [323290-super-paper-bowser-world.json](./323290-super-paper-bowser-world.json) |
 | Super Paper Mario | 231489 | [231489-super-paper-mario.json](./231489-super-paper-mario.json) |
+| Super Paper Mario Memory Match | 231568 | [231568-super-paper-mario-memory-match.json](./231568-super-paper-mario-memory-match.json) |
 | Super Paper Mario: Hard Mode - Rubies & Magic | 344918 | [344918-super-paper-mario-hard-mode-rubies-and-magic.json](./344918-super-paper-mario-hard-mode-rubies-and-magic.json) |
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
 | Super Party Sports: Football | 21315 | [21315-super-party-sports-football.json](./21315-super-party-sports-football.json) |
@@ -30968,6 +30976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Bones 5 | 360592 | [360592-swords-and-bones-5.json](./360592-swords-and-bones-5.json) |
 | Swords & Bones: Complete Edition | 250365 | [250365-swords-and-bones-complete-edition.json](./250365-swords-and-bones-complete-edition.json) |
 | Swords & Bones: Definitive Edition | 247592 | [247592-swords-and-bones-definitive-edition.json](./247592-swords-and-bones-definitive-edition.json) |
+| Swords & Bones: Deluxe Edition | 231561 | [231561-swords-and-bones-deluxe-edition.json](./231561-swords-and-bones-deluxe-edition.json) |
 | Swords & Bones: Extended Edition | 239494 | [239494-swords-and-bones-extended-edition.json](./239494-swords-and-bones-extended-edition.json) |
 | Swords & Bones: Premium Edition | 244819 | [244819-swords-and-bones-premium-edition.json](./244819-swords-and-bones-premium-edition.json) |
 | Swords & Bones: Special Edition | 242054 | [242054-swords-and-bones-special-edition.json](./242054-swords-and-bones-special-edition.json) |
