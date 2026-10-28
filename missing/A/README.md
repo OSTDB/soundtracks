@@ -9758,6 +9758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anything For You | 182129 | [182129-anything-for-you.json](./182129-anything-for-you.json) |
 | Anything Simulator | 391181 | [391181-anything-simulator.json](./391181-anything-simulator.json) |
 | Anytime Pool | 65488 | [65488-anytime-pool.json](./65488-anytime-pool.json) |
+| Anyu | 252318 | [252318-anyu.json](./252318-anyu.json) |
 | AnyWay! | 102412 | [102412-anyway.json](./102412-anyway.json) |
 | AnyWay!: Challenge #1 | 151558 | [151558-anyway-challenge-1.json](./151558-anyway-challenge-1.json) |
 | Anywhere RPG | 422686 | [422686-anywhere-rpg.json](./422686-anywhere-rpg.json) |
