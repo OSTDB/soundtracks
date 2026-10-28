@@ -10218,6 +10218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Simulator: Patrol Officers - Steelbook Edition | 210908 | [210908-police-simulator-patrol-officers-steelbook-edition.json](./210908-police-simulator-patrol-officers-steelbook-edition.json) |
 | Police Simulator: Patrol Officers - Surveillance Police Vehicle | 278391 | [278391-police-simulator-patrol-officers-surveillance-police-vehicle.json](./278391-police-simulator-patrol-officers-surveillance-police-vehicle.json) |
 | Police Simulator: Patrol Officers - Warden Police Vehicle | 290843 | [290843-police-simulator-patrol-officers-warden-police-vehicle.json](./290843-police-simulator-patrol-officers-warden-police-vehicle.json) |
+| Police Skill | 277706 | [277706-police-skill.json](./277706-police-skill.json) |
 | Police Station Cop Inc: Tycoon | 174884 | [174884-police-station-cop-inc-tycoon.json](./174884-police-station-cop-inc-tycoon.json) |
 | Police Stories | 28225 | [28225-police-stories.json](./28225-police-stories.json) |
 | Police Stories: The Academy | 211037 | [211037-police-stories-the-academy.json](./211037-police-stories-the-academy.json) |
@@ -10805,6 +10806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop It! | 319881 | [319881-pop-it.json](./319881-pop-it.json) |
 | Pop Journey | 220651 | [220651-pop-journey.json](./220651-pop-journey.json) |
 | Pop Logo Quiz | 105862 | [105862-pop-logo-quiz.json](./105862-pop-logo-quiz.json) |
+| Pop Monster | 277691 | [277691-pop-monster.json](./277691-pop-monster.json) |
 | Pop Moto | 249446 | [249446-pop-moto.json](./249446-pop-moto.json) |
 | Pop Off 2 | 264771 | [264771-pop-off-2.json](./264771-pop-off-2.json) |
 | Pop Optics | 397271 | [397271-pop-optics.json](./397271-pop-optics.json) |
