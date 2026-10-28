@@ -2612,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Online Chess Kingdoms | 93388 | [93388-online-chess-kingdoms.json](./93388-online-chess-kingdoms.json) |
 | Online Circle Pong | 75000 | [75000-online-circle-pong.json](./75000-online-circle-pong.json) |
 | Online FNAF | 271388 | [271388-online-fnaf.json](./271388-online-fnaf.json) |
+| Online Go Server | 230464 | [230464-online-go-server.json](./230464-online-go-server.json) |
 | Online Mouse Maze Game | 366344 | [366344-online-mouse-maze-game.json](./366344-online-mouse-maze-game.json) |
 | Online Obsession | 268969 | [268969-online-obsession.json](./268969-online-obsession.json) |
 | Online Open World RPG | 234078 | [234078-online-open-world-rpg.json](./234078-online-open-world-rpg.json) |
