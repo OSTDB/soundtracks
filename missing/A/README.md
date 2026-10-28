@@ -6259,6 +6259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All In One Sports: KungFu DLC | 417365 | [417365-all-in-one-sports-kungfu-dlc.json](./417365-all-in-one-sports-kungfu-dlc.json) |
 | All In One Sports: Soccer | 417370 | [417370-all-in-one-sports-soccer.json](./417370-all-in-one-sports-soccer.json) |
 | All In One Sports: Three Cushion Billiards | 417372 | [417372-all-in-one-sports-three-cushion-billiards.json](./417372-all-in-one-sports-three-cushion-billiards.json) |
+| All in Pairs | 264983 | [264983-all-in-pairs.json](./264983-all-in-pairs.json) |
 | All in Vain | 392139 | [392139-all-in-vain.json](./392139-all-in-vain.json) |
 | All in your head | 210907 | [210907-all-in-your-head.json](./210907-all-in-your-head.json) |
 | All in! Bundle | 164807 | [164807-all-in-bundle.json](./164807-all-in-bundle.json) |
