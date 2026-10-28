@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Grave | 310089 | [310089-call-of-the-grave.json](./310089-call-of-the-grave.json) |
 | Call of the Mighty Warriors | 32483 | [32483-call-of-the-mighty-warriors.json](./32483-call-of-the-mighty-warriors.json) |
 | Call of the Ninja! | 35730 | [35730-call-of-the-ninja.json](./35730-call-of-the-ninja.json) |
+| Call of the Sea VR | 248245 | [248245-call-of-the-sea-vr.json](./248245-call-of-the-sea-vr.json) |
 | Call of the Sea: Deluxe Edition | 154508 | [154508-call-of-the-sea-deluxe-edition.json](./154508-call-of-the-sea-deluxe-edition.json) |
 | Call of the Sea: Journey Edition | 185978 | [185978-call-of-the-sea-journey-edition.json](./185978-call-of-the-sea-journey-edition.json) |
 | Call of the Sea: Norah's Diary Edition | 170032 | [170032-call-of-the-sea-norahs-diary-edition.json](./170032-call-of-the-sea-norahs-diary-edition.json) |
@@ -2999,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Alchemists | 191808 | [191808-castle-of-alchemists.json](./191808-castle-of-alchemists.json) |
 | Castle of Asleep | 315503 | [315503-castle-of-asleep.json](./315503-castle-of-asleep.json) |
 | Castle of Awa | 104089 | [104089-castle-of-awa.json](./104089-castle-of-awa.json) |
+| Castle of Blackwater | 248085 | [248085-castle-of-blackwater.json](./248085-castle-of-blackwater.json) |
 | Castle of Cards | 200129 | [200129-castle-of-cards.json](./200129-castle-of-cards.json) |
 | Castle of Collapse | 149843 | [149843-castle-of-collapse.json](./149843-castle-of-collapse.json) |
 | Castle Of Cthulhu | 343583 | [343583-castle-of-cthulhu.json](./343583-castle-of-cthulhu.json) |
