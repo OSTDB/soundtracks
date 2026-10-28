@@ -7187,6 +7187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The DioField Chronicle | 194209 | [194209-the-diofield-chronicle.json](./194209-the-diofield-chronicle.json) |
 | The DioField Chronicle: Digital Deluxe Edition | 212339 | [212339-the-diofield-chronicle-digital-deluxe-edition.json](./212339-the-diofield-chronicle-digital-deluxe-edition.json) |
 | The Diplomat | 183828 | [183828-the-diplomat.json](./183828-the-diplomat.json) |
+| The Dire | 275743 | [275743-the-dire.json](./275743-the-dire.json) |
 | The Directed | 89253 | [89253-the-directed.json](./89253-the-directed.json) |
 | The Director's Disorder: Pilot Episode | 212121 | [212121-the-directors-disorder-pilot-episode.json](./212121-the-directors-disorder-pilot-episode.json) |
 | The Directorate: The Spy Who Killed A Saint | 253469 | [253469-the-directorate-the-spy-who-killed-a-saint.json](./253469-the-directorate-the-spy-who-killed-a-saint.json) |
@@ -14465,6 +14466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sly Fox | 122948 | [122948-the-sly-fox.json](./122948-the-sly-fox.json) |
 | The Small Christmas Game | 178580 | [178580-the-small-christmas-game.json](./178580-the-small-christmas-game.json) |
 | The Smash Cars Tournament | 195145 | [195145-the-smash-cars-tournament.json](./195145-the-smash-cars-tournament.json) |
+| The Smell of Death: A Tsugunohi Tale - Steam Edition | 275425 | [275425-the-smell-of-death-a-tsugunohi-tale-steam-edition.json](./275425-the-smell-of-death-a-tsugunohi-tale-steam-edition.json) |
 | The Smelly Mystery | 71809 | [71809-the-smelly-mystery.json](./71809-the-smelly-mystery.json) |
 | The Smile Alchemist | 238282 | [238282-the-smile-alchemist.json](./238282-the-smile-alchemist.json) |
 | The Smile Friends | 268944 | [268944-the-smile-friends.json](./268944-the-smile-friends.json) |
@@ -16838,6 +16840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theme Park Jam | 319302 | [319302-theme-park-jam.json](./319302-theme-park-jam.json) |
 | Theme Park Roller Coaster | 43273 | [43273-theme-park-roller-coaster.json](./43273-theme-park-roller-coaster.json) |
 | Theme Park Worker | 114964 | [114964-theme-park-worker.json](./114964-theme-park-worker.json) |
+| Theme-Gawad | 275431 | [275431-theme-gawad.json](./275431-theme-gawad.json) |
 | Themely | 393788 | [393788-themely.json](./393788-themely.json) |
 | TheMemory | 110540 | [110540-thememory.json](./110540-thememory.json) |
 | Themes of Dark and Light | 153864 | [153864-themes-of-dark-and-light.json](./153864-themes-of-dark-and-light.json) |
@@ -17999,6 +18002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tickets, Please! | 406202 | [406202-tickets-please.json](./406202-tickets-please.json) |
 | Ticking Tea Time | 327184 | [327184-ticking-tea-time.json](./327184-ticking-tea-time.json) |
 | Tickle Dice | 184436 | [184436-tickle-dice.json](./184436-tickle-dice.json) |
+| Tickle Girl | 275438 | [275438-tickle-girl.json](./275438-tickle-girl.json) |
 | Tickling Girls | 241848 | [241848-tickling-girls.json](./241848-tickling-girls.json) |
 | Ticklish Tessa | 202556 | [202556-ticklish-tessa.json](./202556-ticklish-tessa.json) |
 | Ticktock | 104010 | [104010-ticktock.json](./104010-ticktock.json) |
@@ -28514,6 +28518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twizz'ed Firefarta | 407248 | [407248-twizzed-firefarta.json](./407248-twizzed-firefarta.json) |
 | Twizzle Puzzle: Animals | 280249 | [280249-twizzle-puzzle-animals.json](./280249-twizzle-puzzle-animals.json) |
 | Twizzle Puzzle: Cats | 277753 | [277753-twizzle-puzzle-cats.json](./277753-twizzle-puzzle-cats.json) |
+| Twizzle Puzzle: Dogs | 275418 | [275418-twizzle-puzzle-dogs.json](./275418-twizzle-puzzle-dogs.json) |
 | Twizzle Puzzle: Dragons | 313653 | [313653-twizzle-puzzle-dragons.json](./313653-twizzle-puzzle-dragons.json) |
 | Twizzle Puzzle: Monkeys | 290690 | [290690-twizzle-puzzle-monkeys.json](./290690-twizzle-puzzle-monkeys.json) |
 | Twizzle Puzzle: Mushrooms | 310260 | [310260-twizzle-puzzle-mushrooms.json](./310260-twizzle-puzzle-mushrooms.json) |
