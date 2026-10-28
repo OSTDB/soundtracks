@@ -10434,6 +10434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frocket | 63807 | [63807-frocket.json](./63807-frocket.json) |
 | Frodoric the Driver | 142689 | [142689-frodoric-the-driver.json](./142689-frodoric-the-driver.json) |
 | Frog | 100997 | [100997-frog.json](./100997-frog.json) |
+| Frog | 266939 | [266939-frog.json](./266939-frog.json) |
 | Frog | 309433 | [309433-frog.json](./309433-frog.json) |
 | Frog | 340261 | [340261-frog.json](./340261-frog.json) |
 | Frog | 55874 | [55874-frog.json](./55874-frog.json) |
