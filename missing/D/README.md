@@ -1139,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Alleys: Penumbra Motel | 139755 | [139755-dark-alleys-penumbra-motel.json](./139755-dark-alleys-penumbra-motel.json) |
 | Dark Alleys: Penumbra Motel - Collector's Edition | 126281 | [126281-dark-alleys-penumbra-motel-collectors-edition.json](./126281-dark-alleys-penumbra-motel-collectors-edition.json) |
 | Dark Alliances | 381339 | [381339-dark-alliances.json](./381339-dark-alliances.json) |
+| Dark American Horror Stories | 270804 | [270804-dark-american-horror-stories.json](./270804-dark-american-horror-stories.json) |
 | Dark and Bright | 51552 | [51552-dark-and-bright.json](./51552-dark-and-bright.json) |
 | Dark and Darker | 207266 | [207266-dark-and-darker.json](./207266-dark-and-darker.json) |
 | Dark and Evil | 277773 | [277773-dark-and-evil.json](./277773-dark-and-evil.json) |
@@ -1269,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Deception: Monsters & Mortals - The Coma 2: Vicious Sisters | 292869 | [292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json](./292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json) |
 | Dark Deception: Monsters & Mortals - UK Creators | 270537 | [270537-dark-deception-monsters-and-mortals-uk-creators.json](./270537-dark-deception-monsters-and-mortals-uk-creators.json) |
 | Dark Deception: Monsters & Mortals - US Creator | 291694 | [291694-dark-deception-monsters-and-mortals-us-creator.json](./291694-dark-deception-monsters-and-mortals-us-creator.json) |
+| Dark Deception: Monsters & Mortals - Yandere Simulator | 270507 | [270507-dark-deception-monsters-and-mortals-yandere-simulator.json](./270507-dark-deception-monsters-and-mortals-yandere-simulator.json) |
 | Dark Decline | 269271 | [269271-dark-decline.json](./269271-dark-decline.json) |
 | Dark Deity | 147215 | [147215-dark-deity.json](./147215-dark-deity.json) |
 | Dark Deity 1 & 2 | 398151 | [398151-dark-deity-1-and-2.json](./398151-dark-deity-1-and-2.json) |
@@ -2269,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Z: TTRPG Enthusiast Pack | 316203 | [316203-date-z-ttrpg-enthusiast-pack.json](./316203-date-z-ttrpg-enthusiast-pack.json) |
 | DateBoy | 376656 | [376656-dateboy.json](./376656-dateboy.json) |
 | DateJournal | 133117 | [133117-datejournal.json](./133117-datejournal.json) |
+| Dateless Love: Love Story Behind the Restoration | 270803 | [270803-dateless-love-love-story-behind-the-restoration.json](./270803-dateless-love-love-story-behind-the-restoration.json) |
 | Datenshi Kyouko Part 1 | 230207 | [230207-datenshi-kyouko-part-1.json](./230207-datenshi-kyouko-part-1.json) |
 | Datenshi no Amai Yuuwaku x Kaikan Phrase | 67350 | [67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json](./67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json) |
 | Dates & Wires | 153522 | [153522-dates-and-wires.json](./153522-dates-and-wires.json) |
@@ -6036,6 +6039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dermimi's! | 327898 | [327898-dermimis.json](./327898-dermimis.json) |
 | Derora | 76366 | [76366-derora.json](./76366-derora.json) |
 | Derp Souls | 219241 | [219241-derp-souls.json](./219241-derp-souls.json) |
+| Derpixon x FNF | 270505 | [270505-derpixon-x-fnf.json](./270505-derpixon-x-fnf.json) |
 | Derpy Conga | 122086 | [122086-derpy-conga.json](./122086-derpy-conga.json) |
 | Derpy Dinos | 74433 | [74433-derpy-dinos.json](./74433-derpy-dinos.json) |
 | Derpy Fight | 74203 | [74203-derpy-fight.json](./74203-derpy-fight.json) |
@@ -6932,6 +6936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Piece | 174645 | [174645-devil-piece.json](./174645-devil-piece.json) |
 | Devil Rhythm -Silver Phantom- | 83401 | [83401-devil-rhythm-silver-phantom.json](./83401-devil-rhythm-silver-phantom.json) |
 | Devil Seed | 82748 | [82748-devil-seed.json](./82748-devil-seed.json) |
+| Devil Seeds | 270490 | [270490-devil-seeds.json](./270490-devil-seeds.json) |
 | Devil Should Die | 190950 | [190950-devil-should-die.json](./190950-devil-should-die.json) |
 | Devil Slayer | 171461 | [171461-devil-slayer.json](./171461-devil-slayer.json) |
 | Devil Slayer: Raksasi | 125075 | [125075-devil-slayer-raksasi.json](./125075-devil-slayer-raksasi.json) |
