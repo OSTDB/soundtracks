@@ -4523,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Death | 340921 | [340921-liminal-death.json](./340921-liminal-death.json) |
 | Liminal Doom | 252724 | [252724-liminal-doom.json](./252724-liminal-doom.json) |
 | Liminal Doom 2 | 301972 | [301972-liminal-doom-2.json](./301972-liminal-doom-2.json) |
+| Liminal Dreams | 234851 | [234851-liminal-dreams.json](./234851-liminal-dreams.json) |
 | Liminal Exploration | 177807 | [177807-liminal-exploration.json](./177807-liminal-exploration.json) |
 | Liminal Explorer | 407805 | [407805-liminal-explorer.json](./407805-liminal-explorer.json) |
 | Liminal Gallery | 274214 | [274214-liminal-gallery.json](./274214-liminal-gallery.json) |
@@ -6650,6 +6651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Dice | 84109 | [84109-lord-of-dice.json](./84109-lord-of-dice.json) |
 | Lord of Djinn | 37384 | [37384-lord-of-djinn.json](./37384-lord-of-djinn.json) |
 | Lord of doors | 320955 | [320955-lord-of-doors.json](./320955-lord-of-doors.json) |
+| Lord of Dragons | 234865 | [234865-lord-of-dragons.json](./234865-lord-of-dragons.json) |
 | Lord of Fire & Ice | 211589 | [211589-lord-of-fire-and-ice.json](./211589-lord-of-fire-and-ice.json) |
 | Lord of Gun | 40370 | [40370-lord-of-gun.json](./40370-lord-of-gun.json) |
 | Lord of Heroes | 137634 | [137634-lord-of-heroes.json](./137634-lord-of-heroes.json) |
@@ -7601,6 +7603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Language Japanese | 110424 | [110424-love-language-japanese.json](./110424-love-language-japanese.json) |
 | Love Language Stories | 285355 | [285355-love-language-stories.json](./285355-love-language-stories.json) |
 | Love Letter | 109759 | [109759-love-letter.json](./109759-love-letter.json) |
+| Love Letter | 234799 | [234799-love-letter.json](./234799-love-letter.json) |
 | Love Letter | 317810 | [317810-love-letter.json](./317810-love-letter.json) |
 | Love Letter | 323942 | [323942-love-letter.json](./323942-love-letter.json) |
 | Love Letter: First Draft | 310527 | [310527-love-letter-first-draft.json](./310527-love-letter-first-draft.json) |
