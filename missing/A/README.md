@@ -4604,6 +4604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Duel: 80 Years of Dogfighting | 72528 | [72528-air-duel-80-years-of-dogfighting.json](./72528-air-duel-80-years-of-dogfighting.json) |
 | Air Field Hockey | 175157 | [175157-air-field-hockey.json](./175157-air-field-hockey.json) |
 | Air Fight: Sky Fighters | 281043 | [281043-air-fight-sky-fighters.json](./281043-air-fight-sky-fighters.json) |
+| Air Fleet | 264165 | [264165-air-fleet.json](./264165-air-fleet.json) |
 | Air Force 1945: Sky Strikers | 58150 | [58150-air-force-1945-sky-strikers.json](./58150-air-force-1945-sky-strikers.json) |
 | Air Force Commander | 14231 | [14231-air-force-commander.json](./14231-air-force-commander.json) |
 | Air Force Commander: Combat Arms Fighter Shooting Attack | 88738 | [88738-air-force-commander-combat-arms-fighter-shooting-attack.json](./88738-air-force-commander-combat-arms-fighter-shooting-attack.json) |
@@ -5896,6 +5897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Invasion 3d | 90192 | [90192-alien-invasion-3d.json](./90192-alien-invasion-3d.json) |
 | Alien Invasion 3D Part 2 | 126561 | [126561-alien-invasion-3d-part-2.json](./126561-alien-invasion-3d-part-2.json) |
 | Alien Invasion Tower Defense | 30829 | [30829-alien-invasion-tower-defense.json](./30829-alien-invasion-tower-defense.json) |
+| Alien Investigator | 264190 | [264190-alien-investigator.json](./264190-alien-investigator.json) |
 | Alien Jelly: Food For Thought! | 122074 | [122074-alien-jelly-food-for-thought.json](./122074-alien-jelly-food-for-thought.json) |
 | Alien Jihad | 92308 | [92308-alien-jihad.json](./92308-alien-jihad.json) |
 | Alien Kingdom | 120760 | [120760-alien-kingdom.json](./120760-alien-kingdom.json) |
@@ -8032,6 +8034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Wars: Medieval Crusades | 211401 | [211401-ancient-wars-medieval-crusades.json](./211401-ancient-wars-medieval-crusades.json) |
 | Ancient Wars: Sparta Definitive Edition | 188425 | [188425-ancient-wars-sparta-definitive-edition.json](./188425-ancient-wars-sparta-definitive-edition.json) |
 | Ancient Wars: Sparta HD | 392185 | [392185-ancient-wars-sparta-hd.json](./392185-ancient-wars-sparta-hd.json) |
+| Ancient Weapon Holly | 264162 | [264162-ancient-weapon-holly.json](./264162-ancient-weapon-holly.json) |
 | Ancient Wind Spread | 270784 | [270784-ancient-wind-spread.json](./270784-ancient-wind-spread.json) |
 | Ancient Witch Arena | 215659 | [215659-ancient-witch-arena.json](./215659-ancient-witch-arena.json) |
 | Ancient Wonders: Gardens of Babylon | 273656 | [273656-ancient-wonders-gardens-of-babylon.json](./273656-ancient-wonders-gardens-of-babylon.json) |
@@ -11318,6 +11321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archetype | 80584 | [80584-archetype.json](./80584-archetype.json) |
 | Archetype and the Four Winds of Hell | 319423 | [319423-archetype-and-the-four-winds-of-hell.json](./319423-archetype-and-the-four-winds-of-hell.json) |
 | Archetype Arcadia | 155082 | [155082-archetype-arcadia.json](./155082-archetype-arcadia.json) |
+| Archetype Blue | 264179 | [264179-archetype-blue.json](./264179-archetype-blue.json) |
 | Archetypes: The Rite of Passage | 211439 | [211439-archetypes-the-rite-of-passage.json](./211439-archetypes-the-rite-of-passage.json) |
 | Archewood | 176204 | [176204-archewood.json](./176204-archewood.json) |
 | ArcheWorld | 217002 | [217002-archeworld.json](./217002-archeworld.json) |
