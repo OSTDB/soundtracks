@@ -1687,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy ERA | 54463 | [54463-fantasy-era.json](./54463-fantasy-era.json) |
 | Fantasy Fairways | 30629 | [30629-fantasy-fairways.json](./30629-fantasy-fairways.json) |
 | Fantasy Fighters | 200945 | [200945-fantasy-fighters.json](./200945-fantasy-fighters.json) |
+| Fantasy Fighters | 246771 | [246771-fantasy-fighters.json](./246771-fantasy-fighters.json) |
 | Fantasy Fighters: Historic Fighters | 209132 | [209132-fantasy-fighters-historic-fighters.json](./209132-fantasy-fighters-historic-fighters.json) |
 | Fantasy Finger Football | 120240 | [120240-fantasy-finger-football.json](./120240-fantasy-finger-football.json) |
 | Fantasy Fishing Town | 197225 | [197225-fantasy-fishing-town.json](./197225-fantasy-fishing-town.json) |
@@ -7810,6 +7811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Wagon | 333359 | [333359-food-wagon.json](./333359-food-wagon.json) |
 | Food War TD | 171439 | [171439-food-war-td.json](./171439-food-war-td.json) |
 | Foodfight! | 225838 | [225838-foodfight.json](./225838-foodfight.json) |
+| Foodfight! | 248834 | [248834-foodfight.json](./248834-foodfight.json) |
 | FoodFighters | 286010 | [286010-foodfighters.json](./286010-foodfighters.json) |
 | Foodguessr | 293936 | [293936-foodguessr.json](./293936-foodguessr.json) |
 | Foodie Avenue | 250368 | [250368-foodie-avenue.json](./250368-foodie-avenue.json) |
