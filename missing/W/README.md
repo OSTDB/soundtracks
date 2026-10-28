@@ -3917,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers from Within: Moving On | 159832 | [159832-whispers-from-within-moving-on.json](./159832-whispers-from-within-moving-on.json) |
 | Whispers in Akarra | 180208 | [180208-whispers-in-akarra.json](./180208-whispers-in-akarra.json) |
 | Whispers in the Dark | 165417 | [165417-whispers-in-the-dark.json](./165417-whispers-in-the-dark.json) |
+| Whispers in the Dark | 275423 | [275423-whispers-in-the-dark.json](./275423-whispers-in-the-dark.json) |
 | Whispers in the Fog | 347871 | [347871-whispers-in-the-fog.json](./347871-whispers-in-the-fog.json) |
 | Whispers in the Shadows | 295555 | [295555-whispers-in-the-shadows.json](./295555-whispers-in-the-shadows.json) |
 | Whispers in the Void | 287705 | [287705-whispers-in-the-void.json](./287705-whispers-in-the-void.json) |
@@ -7275,6 +7276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series of Poker: Full House Pro | 19970 | [19970-world-series-of-poker-full-house-pro.json](./19970-world-series-of-poker-full-house-pro.json) |
 | World Series: The Season | 40570 | [40570-world-series-the-season.json](./40570-world-series-the-season.json) |
 | World Serpent | 211064 | [211064-world-serpent.json](./211064-world-serpent.json) |
+| World Simulator 3 | 275415 | [275415-world-simulator-3.json](./275415-world-simulator-3.json) |
 | World Slayer | 28490 | [28490-world-slayer.json](./28490-world-slayer.json) |
 | World Snooker Challenge 2007 | 42848 | [42848-world-snooker-challenge-2007.json](./42848-world-snooker-challenge-2007.json) |
 | World Snooker Championship 2007 | 7248 | [7248-world-snooker-championship-2007.json](./7248-world-snooker-championship-2007.json) |
