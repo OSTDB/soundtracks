@@ -2944,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirth Evolution: Haunted Carnival Pack | 277516 | [277516-rebirth-evolution-haunted-carnival-pack.json](./277516-rebirth-evolution-haunted-carnival-pack.json) |
 | Rebirth Fantasy Online | 116306 | [116306-rebirth-fantasy-online.json](./116306-rebirth-fantasy-online.json) |
 | Rebirth Moment | 259032 | [259032-rebirth-moment.json](./259032-rebirth-moment.json) |
+| Rebirth of Arcadia | 258059 | [258059-rebirth-of-arcadia.json](./258059-rebirth-of-arcadia.json) |
 | Rebirth of Fortune | 174322 | [174322-rebirth-of-fortune.json](./174322-rebirth-of-fortune.json) |
 | Rebirth of Island | 33348 | [33348-rebirth-of-island.json](./33348-rebirth-of-island.json) |
 | Rebirth of Myths: Dragonborn | 297616 | [297616-rebirth-of-myths-dragonborn.json](./297616-rebirth-of-myths-dragonborn.json) |
@@ -9878,6 +9879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoverCraft Space Racing | 235287 | [235287-rovercraft-space-racing.json](./235287-rovercraft-space-racing.json) |
 | Roving in the Dark | 106602 | [106602-roving-in-the-dark.json](./106602-roving-in-the-dark.json) |
 | Roving Rogue | 19982 | [19982-roving-rogue.json](./19982-roving-rogue.json) |
+| Roving Rovers | 258076 | [258076-roving-rovers.json](./258076-roving-rovers.json) |
 | Rovio Classics: Angry Birds | 197792 | [197792-rovio-classics-angry-birds.json](./197792-rovio-classics-angry-birds.json) |
 | RovNav | 359355 | [359355-rovnav.json](./359355-rovnav.json) |
 | Rovonaut Comrade | 128656 | [128656-rovonaut-comrade.json](./128656-rovonaut-comrade.json) |
@@ -10535,6 +10537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Box Run | 222399 | [222399-run-box-run.json](./222399-run-box-run.json) |
 | Run Buddy | 274211 | [274211-run-buddy.json](./274211-run-buddy.json) |
 | Run Build Pew! | 201572 | [201572-run-build-pew.json](./201572-run-build-pew.json) |
+| Run Bunny Home | 257770 | [257770-run-bunny-home.json](./257770-run-bunny-home.json) |
 | Run Chicken, Run! | 370795 | [370795-run-chicken-run.json](./370795-run-chicken-run.json) |
 | Run Crabby Run | 54462 | [54462-run-crabby-run.json](./54462-run-crabby-run.json) |
 | Run Desnecessauro | 204862 | [204862-run-desnecessauro.json](./204862-run-desnecessauro.json) |
