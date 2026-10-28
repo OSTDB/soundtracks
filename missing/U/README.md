@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Dinosaur Simulator | 88927 | [88927-ultimate-dinosaur-simulator.json](./88927-ultimate-dinosaur-simulator.json) |
 | Ultimate Disc Golf | 129001 | [129001-ultimate-disc-golf.json](./129001-ultimate-disc-golf.json) |
 | Ultimate Domain | 12430 | [12430-ultimate-domain.json](./12430-ultimate-domain.json) |
+| Ultimate Double Dragon | 240025 | [240025-ultimate-double-dragon.json](./240025-ultimate-double-dragon.json) |
 | Ultimate Dragon Simulator | 86894 | [86894-ultimate-dragon-simulator.json](./86894-ultimate-dragon-simulator.json) |
 | Ultimate DragonMaster | 299412 | [299412-ultimate-dragonmaster.json](./299412-ultimate-dragonmaster.json) |
 | Ultimate Drummer | 369031 | [369031-ultimate-drummer.json](./369031-ultimate-drummer.json) |
@@ -2260,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unmechanical | 16368 | [16368-unmechanical.json](./16368-unmechanical.json) |
 | Unmemory | 131565 | [131565-unmemory.json](./131565-unmemory.json) |
 | UnMetal | 132312 | [132312-unmetal.json](./132312-unmetal.json) |
+| UnMetal: Collector's Edition | 240034 | [240034-unmetal-collectors-edition.json](./240034-unmetal-collectors-edition.json) |
 | UnMetal: UnDeluxe Edition | 173099 | [173099-unmetal-undeluxe-edition.json](./173099-unmetal-undeluxe-edition.json) |
 | Unmixable Syrup | 404404 | [404404-unmixable-syrup.json](./404404-unmixable-syrup.json) |
 | Unmoor | 89341 | [89341-unmoor.json](./89341-unmoor.json) |
@@ -2902,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Capital Commute | 308834 | [308834-urban-flow-capital-commute.json](./308834-urban-flow-capital-commute.json) |
 | Urban Flow: Combo Edition | 328809 | [328809-urban-flow-combo-edition.json](./328809-urban-flow-combo-edition.json) |
 | Urban Flow: Complete Edition | 240226 | [240226-urban-flow-complete-edition.json](./240226-urban-flow-complete-edition.json) |
+| Urban Flow: Deluxe Edition | 240405 | [240405-urban-flow-deluxe-edition.json](./240405-urban-flow-deluxe-edition.json) |
 | Urban Flow: Diamond Edition | 273302 | [273302-urban-flow-diamond-edition.json](./273302-urban-flow-diamond-edition.json) |
 | Urban Flow: Elite Edition | 268544 | [268544-urban-flow-elite-edition.json](./268544-urban-flow-elite-edition.json) |
 | Urban Flow: Epic Edition | 328808 | [328808-urban-flow-epic-edition.json](./328808-urban-flow-epic-edition.json) |
@@ -2919,6 +2922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Pro Edition | 399829 | [399829-urban-flow-pro-edition.json](./399829-urban-flow-pro-edition.json) |
 | Urban Flow: Silver Edition | 250390 | [250390-urban-flow-silver-edition.json](./250390-urban-flow-silver-edition.json) |
 | Urban Flow: Street Symphony | 304788 | [304788-urban-flow-street-symphony.json](./304788-urban-flow-street-symphony.json) |
+| Urban Flow: Streets Supplement | 240403 | [240403-urban-flow-streets-supplement.json](./240403-urban-flow-streets-supplement.json) |
 | Urban Flow: Winter Expansion Pack | 238353 | [238353-urban-flow-winter-expansion-pack.json](./238353-urban-flow-winter-expansion-pack.json) |
 | Urban Flow: Winter Extended Edition | 222190 | [222190-urban-flow-winter-extended-edition.json](./222190-urban-flow-winter-extended-edition.json) |
 | Urban Flow: X-Mas Edition | 275893 | [275893-urban-flow-x-mas-edition.json](./275893-urban-flow-x-mas-edition.json) |
