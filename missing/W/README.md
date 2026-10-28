@@ -1319,7 +1319,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Sanctus Reach - Horrors of the Warp | 111746 | [111746-warhammer-40-000-sanctus-reach-horrors-of-the-warp.json](./111746-warhammer-40-000-sanctus-reach-horrors-of-the-warp.json) |
 | Warhammer 40,000: Sanctus Reach - Legacy of the Weirdboy | 111745 | [111745-warhammer-40-000-sanctus-reach-legacy-of-the-weirdboy.json](./111745-warhammer-40-000-sanctus-reach-legacy-of-the-weirdboy.json) |
 | Warhammer 40,000: Sanctus Reach - Sons of Cadia | 111744 | [111744-warhammer-40-000-sanctus-reach-sons-of-cadia.json](./111744-warhammer-40-000-sanctus-reach-sons-of-cadia.json) |
-| Warhammer 40,000: Shootas, Blood & Teef | 159703 | [159703-warhammer-40-000-shootas-blood-and-teef.json](./159703-warhammer-40-000-shootas-blood-and-teef.json) |
 | Warhammer 40,000: Space Hulk | 74199 | [74199-warhammer-40-000-space-hulk.json](./74199-warhammer-40-000-space-hulk.json) |
 | Warhammer 40,000: Space Marine - Chaos Unleashed Map Pack | 163390 | [163390-warhammer-40-000-space-marine-chaos-unleashed-map-pack.json](./163390-warhammer-40-000-space-marine-chaos-unleashed-map-pack.json) |
 | Warhammer 40,000: Space Marine - Death Guard Champion Chapter Pack DLC | 225870 | [225870-warhammer-40-000-space-marine-death-guard-champion-chapter-pack-dlc.json](./225870-warhammer-40-000-space-marine-death-guard-champion-chapter-pack-dlc.json) |
@@ -6000,7 +5999,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobble Pole | 178423 | [178423-wobble-pole.json](./178423-wobble-pole.json) |
 | Wobble Warriors | 261558 | [261558-wobble-warriors.json](./261558-wobble-warriors.json) |
 | Wobble Wobble | 397923 | [397923-wobble-wobble.json](./397923-wobble-wobble.json) |
-| Wobbledogs | 142672 | [142672-wobbledogs.json](./142672-wobbledogs.json) |
 | Wobbly Bobbly | 69882 | [69882-wobbly-bobbly.json](./69882-wobbly-bobbly.json) |
 | Wobbly Construction! | 327448 | [327448-wobbly-construction.json](./327448-wobbly-construction.json) |
 | Wobbly Heights | 311197 | [311197-wobbly-heights.json](./311197-wobbly-heights.json) |
