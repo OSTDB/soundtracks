@@ -7698,6 +7698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follow Us | 383027 | [383027-follow-us.json](./383027-follow-us.json) |
 | Follow You | 218129 | [218129-follow-you.json](./218129-follow-you.json) |
 | Follow Your Heart | 163039 | [163039-follow-your-heart.json](./163039-follow-your-heart.json) |
+| Followars | 257494 | [257494-followars.json](./257494-followars.json) |
 | Followed by Death | 288125 | [288125-followed-by-death.json](./288125-followed-by-death.json) |
 | Follower | 383354 | [383354-follower.json](./383354-follower.json) |
 | Follower A | 178510 | [178510-follower-a.json](./178510-follower-a.json) |
@@ -10547,6 +10548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrogBall | 182169 | [182169-frogball.json](./182169-frogball.json) |
 | Frogborne | 404093 | [404093-frogborne.json](./404093-frogborne.json) |
 | Frogbound: The Legend of Sir Hopper | 297898 | [297898-frogbound-the-legend-of-sir-hopper.json](./297898-frogbound-the-legend-of-sir-hopper.json) |
+| Frogdate | 257515 | [257515-frogdate.json](./257515-frogdate.json) |
 | Frogenlav: Skyward Bound | 278418 | [278418-frogenlav-skyward-bound.json](./278418-frogenlav-skyward-bound.json) |
 | Frogfall | 305420 | [305420-frogfall.json](./305420-frogfall.json) |
 | FrogFlop | 313295 | [313295-frogflop.json](./313295-frogflop.json) |
@@ -11182,6 +11184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuchsia: a Point-and-Click Adventure | 139869 | [139869-fuchsia-a-point-and-click-adventure.json](./139869-fuchsia-a-point-and-click-adventure.json) |
 | Fuck AI | 390722 | [390722-fuck-ai.json](./390722-fuck-ai.json) |
 | Fuck Fest | 346687 | [346687-fuck-fest.json](./346687-fuck-fest.json) |
+| Fuck Global Warming... This is Hell | 257179 | [257179-fuck-global-warming-this-is-hell.json](./257179-fuck-global-warming-this-is-hell.json) |
 | Fuck Hitler | 225607 | [225607-fuck-hitler.json](./225607-fuck-hitler.json) |
 | Fuck Paper Scissors | 344382 | [344382-fuck-paper-scissors.json](./344382-fuck-paper-scissors.json) |
 | Fuck Putin | 209542 | [209542-fuck-putin.json](./209542-fuck-putin.json) |
