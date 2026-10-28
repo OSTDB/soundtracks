@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat Your Fucking Soup | 239774 | [239774-eat-your-fucking-soup.json](./239774-eat-your-fucking-soup.json) |
 | Eat Your Vegetables! | 265754 | [265754-eat-your-vegetables.json](./265754-eat-your-vegetables.json) |
 | Eat Your Words | 104798 | [104798-eat-your-words.json](./104798-eat-your-words.json) |
+| Eat Your Words: Word Puzzles | 232125 | [232125-eat-your-words-word-puzzles.json](./232125-eat-your-words-word-puzzles.json) |
 | Eat, Sleep, Bet, Repeat | 68167 | [68167-eat-sleep-bet-repeat.json](./68167-eat-sleep-bet-repeat.json) |
 | Eat, Sleep, Repeat | 179008 | [179008-eat-sleep-repeat.json](./179008-eat-sleep-repeat.json) |
 | Eat: The Revolution | 76637 | [76637-eat-the-revolution.json](./76637-eat-the-revolution.json) |
@@ -2795,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Wars | 397649 | [397649-emoji-wars.json](./397649-emoji-wars.json) |
 | Emoji-Connect | 291989 | [291989-emoji-connect.json](./291989-emoji-connect.json) |
 | Emojikara: A Clever Emoji Match Game | 58681 | [58681-emojikara-a-clever-emoji-match-game.json](./58681-emojikara-a-clever-emoji-match-game.json) |
+| Emojly: Emoji Logic Puzzles | 232120 | [232120-emojly-emoji-logic-puzzles.json](./232120-emojly-emoji-logic-puzzles.json) |
 | Emokunai Kiss | 214344 | [214344-emokunai-kiss.json](./214344-emokunai-kiss.json) |
 | Emolga and the Mail Trials | 340959 | [340959-emolga-and-the-mail-trials.json](./340959-emolga-and-the-mail-trials.json) |
 | Emono | 222981 | [222981-emono.json](./222981-emono.json) |
@@ -6872,6 +6874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expendable | 54012 | [54012-expendable.json](./54012-expendable.json) |
 | Expendabots | 404929 | [404929-expendabots.json](./404929-expendabots.json) |
 | Expense | 220020 | [220020-expense.json](./220020-expense.json) |
+| Experdle: For Word Experts | 232121 | [232121-experdle-for-word-experts.json](./232121-experdle-for-word-experts.json) |
 | Experience | 114836 | [114836-experience.json](./114836-experience.json) |
 | Experience | 36599 | [36599-experience.json](./36599-experience.json) |
 | eXperience 112 | 17873 | [17873-experience-112.json](./17873-experience-112.json) |
