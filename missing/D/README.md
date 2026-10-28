@@ -2599,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daymare Town 4 | 62702 | [62702-daymare-town-4.json](./62702-daymare-town-4.json) |
 | Daymare: 1994 Sandcastle - Limited Edition | 277376 | [277376-daymare-1994-sandcastle-limited-edition.json](./277376-daymare-1994-sandcastle-limited-edition.json) |
 | Days After | 169990 | [169990-days-after.json](./169990-days-after.json) |
+| Days End | 255495 | [255495-days-end.json](./255495-days-end.json) |
 | Days End: Becoming Blackbird | 256743 | [256743-days-end-becoming-blackbird.json](./256743-days-end-becoming-blackbird.json) |
 | Days Gone By | 127102 | [127102-days-gone-by.json](./127102-days-gone-by.json) |
 | Days Gone: Broken Road | 331216 | [331216-days-gone-broken-road.json](./331216-days-gone-broken-road.json) |
@@ -8571,6 +8572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Racing | 49177 | [49177-dirty-racing.json](./49177-dirty-racing.json) |
 | Dirty Room | 241854 | [241854-dirty-room.json](./241854-dirty-room.json) |
 | Dirty Room: Chapter 4 | 246843 | [246843-dirty-room-chapter-4.json](./246843-dirty-room-chapter-4.json) |
+| Dirty Room: Chapter 6 | 255494 | [255494-dirty-room-chapter-6.json](./255494-dirty-room-chapter-6.json) |
 | Dirty Room: Chapter 7 & 8 | 261380 | [261380-dirty-room-chapter-7-and-8.json](./261380-dirty-room-chapter-7-and-8.json) |
 | Dirty Room: Chapter 9 | 273505 | [273505-dirty-room-chapter-9.json](./273505-dirty-room-chapter-9.json) |
 | Dirty Rotten Bounders | 285023 | [285023-dirty-rotten-bounders.json](./285023-dirty-rotten-bounders.json) |
@@ -11080,6 +11082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Fun | 221076 | [221076-donut-fun.json](./221076-donut-fun.json) |
 | Donut Get! | 51173 | [51173-donut-get.json](./51173-donut-get.json) |
 | Donut Hockey | 373558 | [373558-donut-hockey.json](./373558-donut-hockey.json) |
+| Donut Land Clicker | 255493 | [255493-donut-land-clicker.json](./255493-donut-land-clicker.json) |
 | Donut Maker | 232179 | [232179-donut-maker.json](./232179-donut-maker.json) |
 | Donut Mod | 130036 | [130036-donut-mod.json](./130036-donut-mod.json) |
 | Donut or Cookie | 233660 | [233660-donut-or-cookie.json](./233660-donut-or-cookie.json) |
@@ -11123,6 +11126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Devil: 3volution - Puzzles & Quests | 204290 | [204290-doodle-devil-3volution-puzzles-and-quests.json](./204290-doodle-devil-3volution-puzzles-and-quests.json) |
 | Doodle Devil: Dark Side | 386861 | [386861-doodle-devil-dark-side.json](./386861-doodle-devil-dark-side.json) |
 | Doodle Devil: Pack | 212360 | [212360-doodle-devil-pack.json](./212360-doodle-devil-pack.json) |
+| Doodle Dice Monsters | 255818 | [255818-doodle-dice-monsters.json](./255818-doodle-dice-monsters.json) |
 | Doodle Drive | 208649 | [208649-doodle-drive.json](./208649-doodle-drive.json) |
 | Doodle Drops: Physics Puzzler | 88784 | [88784-doodle-drops-physics-puzzler.json](./88784-doodle-drops-physics-puzzler.json) |
 | Doodle Empires | 336893 | [336893-doodle-empires.json](./336893-doodle-empires.json) |
