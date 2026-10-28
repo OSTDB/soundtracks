@@ -5504,6 +5504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isonzo: Expedition Units | 303277 | [303277-isonzo-expedition-units.json](./303277-isonzo-expedition-units.json) |
 | Isonzo: First Wave | 265715 | [265715-isonzo-first-wave.json](./265715-isonzo-first-wave.json) |
 | Isonzo: First Wave Edition | 373585 | [373585-isonzo-first-wave-edition.json](./373585-isonzo-first-wave-edition.json) |
+| Isonzo: Glacial Units Pack | 265810 | [265810-isonzo-glacial-units-pack.json](./265810-isonzo-glacial-units-pack.json) |
 | Isonzo: Movember Handlebar | 373589 | [373589-isonzo-movember-handlebar.json](./373589-isonzo-movember-handlebar.json) |
 | Isonzo: Shellshocked Units Pack | 373586 | [373586-isonzo-shellshocked-units-pack.json](./373586-isonzo-shellshocked-units-pack.json) |
 | Isonzo: Third Wave | 296938 | [296938-isonzo-third-wave.json](./296938-isonzo-third-wave.json) |
