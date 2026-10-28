@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Boy Brother | 376758 | [376758-bad-boy-brother.json](./376758-bad-boy-brother.json) |
 | Bad Boy's Bad Day | 271664 | [271664-bad-boys-bad-day.json](./271664-bad-boys-bad-day.json) |
 | Bad Boys Do It Better! | 238905 | [238905-bad-boys-do-it-better.json](./238905-bad-boys-do-it-better.json) |
+| Bad Burgers | 252950 | [252950-bad-burgers.json](./252950-bad-burgers.json) |
 | Bad Business | 118304 | [118304-bad-business.json](./118304-bad-business.json) |
 | Bad Bytes | 391826 | [391826-bad-bytes.json](./391826-bad-bytes.json) |
 | Bad Capybara | 410831 | [410831-bad-capybara.json](./410831-bad-capybara.json) |
@@ -1154,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance Roll | 115495 | [115495-balance-roll.json](./115495-balance-roll.json) |
 | Balance the Beam | 58218 | [58218-balance-the-beam.json](./58218-balance-the-beam.json) |
 | Balance the Bottle | 268830 | [268830-balance-the-bottle.json](./268830-balance-the-bottle.json) |
+| Balance The Hat | 252945 | [252945-balance-the-hat.json](./252945-balance-the-hat.json) |
 | Balance The Stick | 255844 | [255844-balance-the-stick.json](./255844-balance-the-stick.json) |
 | Balance Weight | 242397 | [242397-balance-weight.json](./242397-balance-weight.json) |
 | Balance: Umbilical Wake | 410977 | [410977-balance-umbilical-wake.json](./410977-balance-umbilical-wake.json) |
@@ -9881,6 +9883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Walls: Hardcore x2 | 166223 | [166223-bloody-walls-hardcore-x2.json](./166223-bloody-walls-hardcore-x2.json) |
 | Bloody Walls: The Darkness | 166221 | [166221-bloody-walls-the-darkness.json](./166221-bloody-walls-the-darkness.json) |
 | Bloody Warriors: Shan-Go Troop Strikes Back! | 48541 | [48541-bloody-warriors-shan-go-troop-strikes-back.json](./48541-bloody-warriors-shan-go-troop-strikes-back.json) |
+| Bloody Woman | 252539 | [252539-bloody-woman.json](./252539-bloody-woman.json) |
 | Bloody Zombies | 100185 | [100185-bloody-zombies.json](./100185-bloody-zombies.json) |
 | Bloody Zombies | 28522 | [28522-bloody-zombies.json](./28522-bloody-zombies.json) |
 | BloodyXmas 2010 | 257789 | [257789-bloodyxmas-2010.json](./257789-bloodyxmas-2010.json) |
@@ -11363,6 +11366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Block | 108733 | [108733-boom-block.json](./108733-boom-block.json) |
 | Boom Blox Bash Party | 2260 | [2260-boom-blox-bash-party.json](./2260-boom-blox-bash-party.json) |
 | Boom Boom Bovine | 120118 | [120118-boom-boom-bovine.json](./120118-boom-boom-bovine.json) |
+| Boom Boom Football | 252954 | [252954-boom-boom-football.json](./252954-boom-boom-football.json) |
 | Boom Boom Hamster Doom | 344168 | [344168-boom-boom-hamster-doom.json](./344168-boom-boom-hamster-doom.json) |
 | Boom Boom Rocket | 16742 | [16742-boom-boom-rocket.json](./16742-boom-boom-rocket.json) |
 | Boom Boom Tower | 118063 | [118063-boom-boom-tower.json](./118063-boom-boom-tower.json) |
