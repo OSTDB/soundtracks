@@ -4865,6 +4865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airlock | 11856 | [11856-airlock.json](./11856-airlock.json) |
 | Airlock Arena: Profit or Perish | 149453 | [149453-airlock-arena-profit-or-perish.json](./149453-airlock-arena-profit-or-perish.json) |
 | AirLoveEngine | 366128 | [366128-airloveengine.json](./366128-airloveengine.json) |
+| Airman X | 233180 | [233180-airman-x.json](./233180-airman-x.json) |
 | AirMech | 1365 | [1365-airmech.json](./1365-airmech.json) |
 | AirMech: Command | 19899 | [19899-airmech-command.json](./19899-airmech-command.json) |
 | Airmen | 37402 | [37402-airmen.json](./37402-airmen.json) |
@@ -6598,6 +6599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in Space | 271671 | [271671-alone-in-space.json](./271671-alone-in-space.json) |
 | Alone in Space | 33499 | [33499-alone-in-space.json](./33499-alone-in-space.json) |
 | Alone in the Dark | 1956 | [1956-alone-in-the-dark.json](./1956-alone-in-the-dark.json) |
+| Alone in the Dark | 233171 | [233171-alone-in-the-dark.json](./233171-alone-in-the-dark.json) |
 | Alone in the Dark | 287174 | [287174-alone-in-the-dark.json](./287174-alone-in-the-dark.json) |
 | Alone in the Dark | 300074 | [300074-alone-in-the-dark.json](./300074-alone-in-the-dark.json) |
 | Alone in the Dark 2 | 1957 | [1957-alone-in-the-dark-2.json](./1957-alone-in-the-dark-2.json) |
@@ -9552,6 +9554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antarah | 326691 | [326691-antarah.json](./326691-antarah.json) |
 | Antarctic Adventure | 239172 | [239172-antarctic-adventure.json](./239172-antarctic-adventure.json) |
 | Antarctic Adventure | 385990 | [385990-antarctic-adventure.json](./385990-antarctic-adventure.json) |
+| Antarctic Escape | 233166 | [233166-antarctic-escape.json](./233166-antarctic-escape.json) |
 | Antarctic Expedition Mahjong Connect | 89853 | [89853-antarctic-expedition-mahjong-connect.json](./89853-antarctic-expedition-mahjong-connect.json) |
 | Antarctic Girl | 127922 | [127922-antarctic-girl.json](./127922-antarctic-girl.json) |
 | Antarctic Grave | 405940 | [405940-antarctic-grave.json](./405940-antarctic-grave.json) |
