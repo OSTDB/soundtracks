@@ -1979,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagination | 126357 | [126357-imagination.json](./126357-imagination.json) |
 | Imagination | 13007 | [13007-imagination.json](./13007-imagination.json) |
 | Imaginator | 122419 | [122419-imaginator.json](./122419-imaginator.json) |
+| Imagindar | 261937 | [261937-imagindar.json](./261937-imagindar.json) |
 | Imagine Earth | 17111 | [17111-imagine-earth.json](./17111-imagine-earth.json) |
 | Imagine Earth: Galaxies | 365584 | [365584-imagine-earth-galaxies.json](./365584-imagine-earth-galaxies.json) |
 | Imagine Island | 341607 | [341607-imagine-island.json](./341607-imagine-island.json) |
