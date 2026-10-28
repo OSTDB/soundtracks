@@ -9530,6 +9530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simpler Times | 308240 | [308240-simpler-times.json](./308240-simpler-times.json) |
 | SimpleRoad | 370872 | [370872-simpleroad.json](./370872-simpleroad.json) |
 | SimpleRockets | 197672 | [197672-simplerockets.json](./197672-simplerockets.json) |
+| Simplex | 271327 | [271327-simplex.json](./271327-simplex.json) |
 | Simpli Casa | 381707 | [381707-simpli-casa.json](./381707-simpli-casa.json) |
 | Simploe Tasks | 293053 | [293053-simploe-tasks.json](./293053-simploe-tasks.json) |
 | Simply Chess | 17604 | [17604-simply-chess.json](./17604-simply-chess.json) |
