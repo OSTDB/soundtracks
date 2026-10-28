@@ -2764,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice Paradise | 270636 | [270636-voice-paradise.json](./270636-voice-paradise.json) |
 | Voice Party | 232510 | [232510-voice-party.json](./232510-voice-party.json) |
 | Voice: Legacy of Hale | 253815 | [253815-voice-legacy-of-hale.json](./253815-voice-legacy-of-hale.json) |
+| VoiceActress | 275158 | [275158-voiceactress.json](./275158-voiceactress.json) |
 | VoiceATC Simulator | 401763 | [401763-voiceatc-simulator.json](./401763-voiceatc-simulator.json) |
 | Voiceless Elegy | 382175 | [382175-voiceless-elegy.json](./382175-voiceless-elegy.json) |
 | Voicemail: Laura | 383074 | [383074-voicemail-laura.json](./383074-voicemail-laura.json) |
@@ -3031,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VolleyBrawl | 132502 | [132502-volleybrawl.json](./132502-volleybrawl.json) |
 | Volleyfire | 66618 | [66618-volleyfire.json](./66618-volleyfire.json) |
 | Volleying | 72413 | [72413-volleying.json](./72413-volleying.json) |
+| Volleyring | 274863 | [274863-volleyring.json](./274863-volleyring.json) |
 | VolleySmash | 322075 | [322075-volleysmash.json](./322075-volleysmash.json) |
 | Vollun | 120048 | [120048-vollun.json](./120048-vollun.json) |
 | Volly | 130859 | [130859-volly.json](./130859-volly.json) |
