@@ -3572,6 +3572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma: A Codebreaking Game | 186587 | [186587-enigma-a-codebreaking-game.json](./186587-enigma-a-codebreaking-game.json) |
 | Enigma: An Illusion Named Family | 35612 | [35612-enigma-an-illusion-named-family.json](./35612-enigma-an-illusion-named-family.json) |
 | Enigma: Rising Tide | 24099 | [24099-enigma-rising-tide.json](./24099-enigma-rising-tide.json) |
+| Enigma: Tiny Spy | 237593 | [237593-enigma-tiny-spy.json](./237593-enigma-tiny-spy.json) |
 | Enigmarble | 269024 | [269024-enigmarble.json](./269024-enigmarble.json) |
 | Enigmarella | 190223 | [190223-enigmarella.json](./190223-enigmarella.json) |
 | Enigmas da Escuridão | 254992 | [254992-enigmas-da-escuridao.json](./254992-enigmas-da-escuridao.json) |
@@ -5278,6 +5279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Lux | 185351 | [185351-eternal-lux.json](./185351-eternal-lux.json) |
 | Eternal Magic | 122918 | [122918-eternal-magic.json](./122918-eternal-magic.json) |
 | Eternal Magic: Keeper | 171013 | [171013-eternal-magic-keeper.json](./171013-eternal-magic-keeper.json) |
+| Eternal Mahjong | 237594 | [237594-eternal-mahjong.json](./237594-eternal-mahjong.json) |
 | Eternal Man: Jump | 99605 | [99605-eternal-man-jump.json](./99605-eternal-man-jump.json) |
 | Eternal Man: Mountain | 95194 | [95194-eternal-man-mountain.json](./95194-eternal-man-mountain.json) |
 | Eternal Man: Village | 90817 | [90817-eternal-man-village.json](./90817-eternal-man-village.json) |
