@@ -3923,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats and Seek: Osaka | 275525 | [275525-cats-and-seek-osaka.json](./275525-cats-and-seek-osaka.json) |
 | Cats and Seek: Toge Land | 328415 | [328415-cats-and-seek-toge-land.json](./328415-cats-and-seek-toge-land.json) |
 | Cats and Seek: Tokyo | 315298 | [315298-cats-and-seek-tokyo.json](./315298-cats-and-seek-tokyo.json) |
+| Cats and Sokoban: Mimi's Scratcher | 236436 | [236436-cats-and-sokoban-mimis-scratcher.json](./236436-cats-and-sokoban-mimis-scratcher.json) |
 | Cats and Tails | 416968 | [416968-cats-and-tails.json](./416968-cats-and-tails.json) |
 | Cats are Cute | 130604 | [130604-cats-are-cute.json](./130604-cats-are-cute.json) |
 | Cats are Cute: Pop Time! | 322124 | [322124-cats-are-cute-pop-time.json](./322124-cats-are-cute-pop-time.json) |
@@ -5162,6 +5163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Squad | 371843 | [371843-chaos-squad.json](./371843-chaos-squad.json) |
 | Chaos Starter | 116876 | [116876-chaos-starter.json](./116876-chaos-starter.json) |
 | Chaos Stone Wars | 331382 | [331382-chaos-stone-wars.json](./331382-chaos-stone-wars.json) |
+| Chaos Storm: Strategy Edition | 236435 | [236435-chaos-storm-strategy-edition.json](./236435-chaos-storm-strategy-edition.json) |
 | Chaos Theory | 114298 | [114298-chaos-theory.json](./114298-chaos-theory.json) |
 | Chaos Theory Pirates | 130193 | [130193-chaos-theory-pirates.json](./130193-chaos-theory-pirates.json) |
 | Chaos Town | 36819 | [36819-chaos-town.json](./36819-chaos-town.json) |
@@ -8542,6 +8544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claustrophobic Nights | 267548 | [267548-claustrophobic-nights.json](./267548-claustrophobic-nights.json) |
 | ClaustrophobicCrypt | 311504 | [311504-claustrophobiccrypt.json](./311504-claustrophobiccrypt.json) |
 | Claustrum | 414597 | [414597-claustrum.json](./414597-claustrum.json) |
+| Clausum | 236433 | [236433-clausum.json](./236433-clausum.json) |
 | Clavis Kinkygate: Treasure of Danau River | 294033 | [294033-clavis-kinkygate-treasure-of-danau-river.json](./294033-clavis-kinkygate-treasure-of-danau-river.json) |
 | Claw | 176853 | [176853-claw.json](./176853-claw.json) |
 | Claw | 2474 | [2474-claw.json](./2474-claw.json) |
@@ -12569,6 +12572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cordillera | 287878 | [287878-cordillera.json](./287878-cordillera.json) |
 | Córdoba Court | 398659 | [398659-cordoba-court.json](./398659-cordoba-court.json) |
 | Cordura | 394664 | [394664-cordura.json](./394664-cordura.json) |
+| Corduroy Hollow | 236476 | [236476-corduroy-hollow.json](./236476-corduroy-hollow.json) |
 | Cordy | 112066 | [112066-cordy.json](./112066-cordy.json) |
 | Cordy 2 | 112067 | [112067-cordy-2.json](./112067-cordy-2.json) |
 | Cordy Sky | 290259 | [290259-cordy-sky.json](./290259-cordy-sky.json) |
