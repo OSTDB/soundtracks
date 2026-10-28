@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kain Cobra: Autogun Blaster | 307205 | [307205-kain-cobra-autogun-blaster.json](./307205-kain-cobra-autogun-blaster.json) |
 | Kainga | 132462 | [132462-kainga.json](./132462-kainga.json) |
 | Kainga: Collector's Edition | 243803 | [243803-kainga-collectors-edition.json](./243803-kainga-collectors-edition.json) |
+| Kairai Inn | 264159 | [264159-kairai-inn.json](./264159-kairai-inn.json) |
 | Kaire | 344388 | [344388-kaire.json](./344388-kaire.json) |
 | Kairo Land | 208037 | [208037-kairo-land.json](./208037-kairo-land.json) |
 | Kairo: Lore of the Magic | 317992 | [317992-kairo-lore-of-the-magic.json](./317992-kairo-lore-of-the-magic.json) |
