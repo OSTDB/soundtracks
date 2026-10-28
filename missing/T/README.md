@@ -4350,6 +4350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Dotbas | 324510 | [324510-tetris-dotbas.json](./324510-tetris-dotbas.json) |
 | Tetris DS | 18599 | [18599-tetris-ds.json](./18599-tetris-ds.json) |
 | Tetris DS | 238199 | [238199-tetris-ds.json](./238199-tetris-ds.json) |
+| Tetris DS Puzzle Mode | 231559 | [231559-tetris-ds-puzzle-mode.json](./231559-tetris-ds-puzzle-mode.json) |
 | Tetris DX | 49875 | [49875-tetris-dx.json](./49875-tetris-dx.json) |
 | Tetris E60 | 251021 | [251021-tetris-e60.json](./251021-tetris-e60.json) |
 | Tetris Effect: Connected | 135999 | [135999-tetris-effect-connected.json](./135999-tetris-effect-connected.json) |
@@ -9534,6 +9535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt for the Lost Ship | 89765 | [89765-the-hunt-for-the-lost-ship.json](./89765-the-hunt-for-the-lost-ship.json) |
 | The Hunt for the Lost Treasure | 88284 | [88284-the-hunt-for-the-lost-treasure.json](./88284-the-hunt-for-the-lost-treasure.json) |
 | The Hunt for the Lost Treasure 2 | 290007 | [290007-the-hunt-for-the-lost-treasure-2.json](./290007-the-hunt-for-the-lost-treasure-2.json) |
+| The Hunt for the Red Cthulhu | 231571 | [231571-the-hunt-for-the-red-cthulhu.json](./231571-the-hunt-for-the-red-cthulhu.json) |
 | The Hunted | 215741 | [215741-the-hunted.json](./215741-the-hunted.json) |
 | The Hunted | 28786 | [28786-the-hunted.json](./28786-the-hunted.json) |
 | The Hunted Witch | 252678 | [252678-the-hunted-witch.json](./252678-the-hunted-witch.json) |
@@ -11262,6 +11264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Library | 274430 | [274430-the-library.json](./274430-the-library.json) |
 | The Library | 339191 | [339191-the-library.json](./339191-the-library.json) |
 | The Library of Babble | 121620 | [121620-the-library-of-babble.json](./121620-the-library-of-babble.json) |
+| The Library of Babel: Deluxe Edition | 231576 | [231576-the-library-of-babel-deluxe-edition.json](./231576-the-library-of-babel-deluxe-edition.json) |
 | The Library on the Lake | 416029 | [416029-the-library-on-the-lake.json](./416029-the-library-on-the-lake.json) |
 | The Lie: Cottage of Secrets | 103933 | [103933-the-lie-cottage-of-secrets.json](./103933-the-lie-cottage-of-secrets.json) |
 | The Lies We Tell Ourselves | 221135 | [221135-the-lies-we-tell-ourselves.json](./221135-the-lies-we-tell-ourselves.json) |
@@ -26230,6 +26233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel VR | 74924 | [74924-travel-vr.json](./74924-travel-vr.json) |
 | Travel With Dinosaurs | 351710 | [351710-travel-with-dinosaurs.json](./351710-travel-with-dinosaurs.json) |
 | Traveler | 146599 | [146599-traveler.json](./146599-traveler.json) |
+| Traveler | 231589 | [231589-traveler.json](./231589-traveler.json) |
 | Traveler | 238969 | [238969-traveler.json](./238969-traveler.json) |
 | Traveler Lost | 367031 | [367031-traveler-lost.json](./367031-traveler-lost.json) |
 | Traveler of Artcaster | 149508 | [149508-traveler-of-artcaster.json](./149508-traveler-of-artcaster.json) |
