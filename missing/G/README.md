@@ -2282,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Blocks | 93822 | [93822-gem-blocks.json](./93822-gem-blocks.json) |
 | Gem Brawl Duel | 399732 | [399732-gem-brawl-duel.json](./399732-gem-brawl-duel.json) |
 | Gem Break | 84637 | [84637-gem-break.json](./84637-gem-break.json) |
+| Gem Collapse | 233724 | [233724-gem-collapse.json](./233724-gem-collapse.json) |
 | Gem Crash | 112816 | [112816-gem-crash.json](./112816-gem-crash.json) |
 | Gem Crush Match-3 | 397258 | [397258-gem-crush-match-3.json](./397258-gem-crush-match-3.json) |
 | Gem Defender: Soyjak Survivors | 271040 | [271040-gem-defender-soyjak-survivors.json](./271040-gem-defender-soyjak-survivors.json) |
@@ -3012,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Dexter | 26462 | [26462-get-dexter.json](./26462-get-dexter.json) |
 | Get Dexter 2 | 55203 | [55203-get-dexter-2.json](./55203-get-dexter-2.json) |
 | Get Dis Money | 82324 | [82324-get-dis-money.json](./82324-get-dis-money.json) |
+| Get Dumped | 233677 | [233677-get-dumped.json](./233677-get-dumped.json) |
 | Get fit with Mel B | 11624 | [11624-get-fit-with-mel-b.json](./11624-get-fit-with-mel-b.json) |
 | Get Fit: Beach Girls | 409520 | [409520-get-fit-beach-girls.json](./409520-get-fit-beach-girls.json) |
 | Get Fit: Beach Workout | 411142 | [411142-get-fit-beach-workout.json](./411142-get-fit-beach-workout.json) |
@@ -4510,6 +4512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glover: Collector's Edition | 207051 | [207051-glover-collectors-edition.json](./207051-glover-collectors-edition.json) |
 | GloveUp! | 425440 | [425440-gloveup.json](./425440-gloveup.json) |
 | Glow | 180567 | [180567-glow.json](./180567-glow.json) |
+| Glow | 233725 | [233725-glow.json](./233725-glow.json) |
 | Glow | 32346 | [32346-glow.json](./32346-glow.json) |
 | Glow Air Hockey | 87548 | [87548-glow-air-hockey.json](./87548-glow-air-hockey.json) |
 | Glow Artisan | 67181 | [67181-glow-artisan.json](./67181-glow-artisan.json) |
@@ -7361,6 +7364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Brawl | 159056 | [159056-gravity-brawl.json](./159056-gravity-brawl.json) |
 | Gravity Bumpers | 404652 | [404652-gravity-bumpers.json](./404652-gravity-bumpers.json) |
 | Gravity Cab | 270132 | [270132-gravity-cab.json](./270132-gravity-cab.json) |
+| Gravity Castle | 233706 | [233706-gravity-castle.json](./233706-gravity-castle.json) |
 | Gravity Cat | 143705 | [143705-gravity-cat.json](./143705-gravity-cat.json) |
 | Gravity Cat | 32853 | [32853-gravity-cat.json](./32853-gravity-cat.json) |
 | Gravity Chase | 125656 | [125656-gravity-chase.json](./125656-gravity-chase.json) |
@@ -7904,6 +7908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Iron 2 | 94220 | [94220-grid-iron-2.json](./94220-grid-iron-2.json) |
 | Grid Legends: Rise of Ravenwest | 226365 | [226365-grid-legends-rise-of-ravenwest.json](./226365-grid-legends-rise-of-ravenwest.json) |
 | GRID Legends: Valentin’s Classic Car-Nage | 239593 | [239593-grid-legends-valentin-s-classic-car-nage.json](./239593-grid-legends-valentin-s-classic-car-nage.json) |
+| Grid Legends: Winter Bash | 233685 | [233685-grid-legends-winter-bash.json](./233685-grid-legends-winter-bash.json) |
 | Grid Legion, Storm | 32146 | [32146-grid-legion-storm.json](./32146-grid-legion-storm.json) |
 | Grid Magic | 119785 | [119785-grid-magic.json](./119785-grid-magic.json) |
 | Grid Masters | 33337 | [33337-grid-masters.json](./33337-grid-masters.json) |
@@ -8422,6 +8427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Wai Wai Party!!!! - Original Pack 2 | 237890 | [237890-groove-coaster-wai-wai-party-original-pack-2.json](./237890-groove-coaster-wai-wai-party-original-pack-2.json) |
 | Groove Coaster: Wai Wai Party!!!! - Original Pack 3 | 237891 | [237891-groove-coaster-wai-wai-party-original-pack-3.json](./237891-groove-coaster-wai-wai-party-original-pack-3.json) |
 | Groove Coaster: Wai Wai Party!!!! - Original Pack 4: 10th Anniversary | 237892 | [237892-groove-coaster-wai-wai-party-original-pack-4-10th-anniversary.json](./237892-groove-coaster-wai-wai-party-original-pack-4-10th-anniversary.json) |
+| Groove Coaster: Wai Wai Party!!!! - Original Pack 7 | 233682 | [233682-groove-coaster-wai-wai-party-original-pack-7.json](./233682-groove-coaster-wai-wai-party-original-pack-7.json) |
 | Groove Coaster: Wai Wai Party!!!! - Original Pack 8: Arcade Memorial | 288295 | [288295-groove-coaster-wai-wai-party-original-pack-8-arcade-memorial.json](./288295-groove-coaster-wai-wai-party-original-pack-8-arcade-memorial.json) |
 | Groove Coaster: Wai Wai Party!!!! - Touhou Project Arrangements Pack 1 | 237882 | [237882-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-1.json](./237882-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-1.json) |
 | Groove Coaster: Wai Wai Party!!!! - Touhou Project Arrangements Pack 2 | 237886 | [237886-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-2.json](./237886-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-2.json) |
