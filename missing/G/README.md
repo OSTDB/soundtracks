@@ -2893,6 +2893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gericonia 2 | 127733 | [127733-gericonia-2.json](./127733-gericonia-2.json) |
 | Germ Blasters | 353910 | [353910-germ-blasters.json](./353910-germ-blasters.json) |
 | Germ Crazy | 94669 | [94669-germ-crazy.json](./94669-germ-crazy.json) |
+| Germ Killer | 277701 | [277701-germ-killer.json](./277701-germ-killer.json) |
 | Germ Patrol | 42147 | [42147-germ-patrol.json](./42147-germ-patrol.json) |
 | Germ Warfare | 137537 | [137537-germ-warfare.json](./137537-germ-warfare.json) |
 | Germ Wars | 30482 | [30482-germ-wars.json](./30482-germ-wars.json) |
@@ -8578,6 +8579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guānyú Wǒ Bèi Xuéjiě Jiǎn Huí Jiā Dāng Nǚyǒu Zhè Jiàn Shì | 397226 | [397226-guanyu-wo-bei-xuejie-jian-hui-jia-dang-nuyou-zhe-jian-shi.json](./397226-guanyu-wo-bei-xuejie-jian-hui-jia-dang-nuyou-zhe-jian-shi.json) |
 | Guará Guaraná | 381310 | [381310-guara-guarana.json](./381310-guara-guarana.json) |
 | Guard Duty | 6741 | [6741-guard-duty.json](./6741-guard-duty.json) |
+| Guard Farm | 277707 | [277707-guard-farm.json](./277707-guard-farm.json) |
 | Guard Force: Covert Strike | 133754 | [133754-guard-force-covert-strike.json](./133754-guard-force-covert-strike.json) |
 | Guard of Wonderland VR | 88126 | [88126-guard-of-wonderland-vr.json](./88126-guard-of-wonderland-vr.json) |
 | Guard the Future | 117574 | [117574-guard-the-future.json](./117574-guard-the-future.json) |
