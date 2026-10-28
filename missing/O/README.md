@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Drive Challenge | 65420 | [65420-ocean-drive-challenge.json](./65420-ocean-drive-challenge.json) |
 | Ocean Drive Challenge Remastered | 127220 | [127220-ocean-drive-challenge-remastered.json](./127220-ocean-drive-challenge-remastered.json) |
 | Ocean Driving: Boat Parking Simulator | 328510 | [328510-ocean-driving-boat-parking-simulator.json](./328510-ocean-driving-boat-parking-simulator.json) |
+| Ocean Explorer | 253405 | [253405-ocean-explorer.json](./253405-ocean-explorer.json) |
 | Ocean Explorer Tycoon | 209030 | [209030-ocean-explorer-tycoon.json](./209030-ocean-explorer-tycoon.json) |
 | Ocean Express | 54253 | [54253-ocean-express.json](./54253-ocean-express.json) |
 | Ocean Fishooter | 381737 | [381737-ocean-fishooter.json](./381737-ocean-fishooter.json) |
@@ -4701,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outspell | 219267 | [219267-outspell.json](./219267-outspell.json) |
 | OutSplit | 52778 | [52778-outsplit.json](./52778-outsplit.json) |
 | Outstand | 227793 | [227793-outstand.json](./227793-outstand.json) |
+| Outta Hand | 253175 | [253175-outta-hand.json](./253175-outta-hand.json) |
 | Outta Hell | 346797 | [346797-outta-hell.json](./346797-outta-hell.json) |
 | Outta Space | 409330 | [409330-outta-space.json](./409330-outta-space.json) |
 | Outta This Kingdom | 25509 | [25509-outta-this-kingdom.json](./25509-outta-this-kingdom.json) |
