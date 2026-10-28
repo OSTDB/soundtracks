@@ -3372,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHRA Championship Drag Racing | 18269 | [18269-nhra-championship-drag-racing.json](./18269-nhra-championship-drag-racing.json) |
 | NHRA Championship Drag Racing: Speed for All | 212785 | [212785-nhra-championship-drag-racing-speed-for-all.json](./212785-nhra-championship-drag-racing-speed-for-all.json) |
 | NHRA Championship Drag Racing: Speed for All - Deluxe Edition | 214728 | [214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json](./214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json) |
+| NHRA Championship Drag Racing: Speed for All - Electro Blitz Pack | 263060 | [263060-nhra-championship-drag-racing-speed-for-all-electro-blitz-pack.json](./263060-nhra-championship-drag-racing-speed-for-all-electro-blitz-pack.json) |
 | NHRA Championship Drag Racing: Speed for All - John Force Racing Pack | 263055 | [263055-nhra-championship-drag-racing-speed-for-all-john-force-racing-pack.json](./263055-nhra-championship-drag-racing-speed-for-all-john-force-racing-pack.json) |
 | NHRA Championship Drag Racing: Speed for All - Ultimate Edition | 212791 | [212791-nhra-championship-drag-racing-speed-for-all-ultimate-edition.json](./212791-nhra-championship-drag-racing-speed-for-all-ultimate-edition.json) |
 | NHRA Drag Racing 2 | 78037 | [78037-nhra-drag-racing-2.json](./78037-nhra-drag-racing-2.json) |
