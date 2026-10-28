@@ -4922,6 +4922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Septic Savages | 30853 | [30853-septic-savages.json](./30853-septic-savages.json) |
 | Septiny | 186193 | [186193-septiny.json](./186193-septiny.json) |
 | Septipus: Tentacle Apocalypse | 65275 | [65275-septipus-tentacle-apocalypse.json](./65275-septipus-tentacle-apocalypse.json) |
+| Septourian | 232126 | [232126-septourian.json](./232126-septourian.json) |
 | Sepulcri | 36918 | [36918-sepulcri.json](./36918-sepulcri.json) |
 | Sepulcrum | 344889 | [344889-sepulcrum.json](./344889-sepulcrum.json) |
 | Seq | 175080 | [175080-seq.json](./175080-seq.json) |
@@ -18514,6 +18515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellsword Cards: Origins | 118104 | [118104-spellsword-cards-origins.json](./118104-spellsword-cards-origins.json) |
 | Spellsworn | 26573 | [26573-spellsworn.json](./26573-spellsworn.json) |
 | Spellsworn | 289358 | [289358-spellsworn.json](./289358-spellsworn.json) |
+| Spellt | 232088 | [232088-spellt.json](./232088-spellt.json) |
 | SpellTanks | 236863 | [236863-spelltanks.json](./236863-spelltanks.json) |
 | Spelltooth | 383063 | [383063-spelltooth.json](./383063-spelltooth.json) |
 | SpellTower+ | 136455 | [136455-spelltower.json](./136455-spelltower.json) |
@@ -29399,12 +29401,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperStar JYPNation | 105971 | [105971-superstar-jypnation.json](./105971-superstar-jypnation.json) |
 | SuperStar Karaoke | 90912 | [90912-superstar-karaoke.json](./90912-superstar-karaoke.json) |
 | Superstar LDH | 399056 | [399056-superstar-ldh.json](./399056-superstar-ldh.json) |
+| SuperStar Loona | 232092 | [232092-superstar-loona.json](./232092-superstar-loona.json) |
 | SuperStar Pledis | 124619 | [124619-superstar-pledis.json](./124619-superstar-pledis.json) |
 | Superstar Shootout | 231631 | [231631-superstar-shootout.json](./231631-superstar-shootout.json) |
 | SuperStar Soccer | 73602 | [73602-superstar-soccer.json](./73602-superstar-soccer.json) |
 | Superstar Streetz | 186318 | [186318-superstar-streetz.json](./186318-superstar-streetz.json) |
 | SuperStar Woollim | 137874 | [137874-superstar-woollim.json](./137874-superstar-woollim.json) |
 | Superstar YG | 178345 | [178345-superstar-yg.json](./178345-superstar-yg.json) |
+| SuperStar: Oh My Girl | 232094 | [232094-superstar-oh-my-girl.json](./232094-superstar-oh-my-girl.json) |
 | Superstars V8: Next Challenge | 20499 | [20499-superstars-v8-next-challenge.json](./20499-superstars-v8-next-challenge.json) |
 | Superstein | 235865 | [235865-superstein.json](./235865-superstein.json) |
 | Superstition | 326522 | [326522-superstition.json](./326522-superstition.json) |
