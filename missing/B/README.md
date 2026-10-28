@@ -7173,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioOcean Fantasy | 196528 | [196528-bioocean-fantasy.json](./196528-bioocean-fantasy.json) |
 | Biophage | 316701 | [316701-biophage.json](./316701-biophage.json) |
 | Biophilia | 25029 | [25029-biophilia.json](./25029-biophilia.json) |
+| Biophilia | 262544 | [262544-biophilia.json](./262544-biophilia.json) |
 | Biophobia | 343832 | [343832-biophobia.json](./343832-biophobia.json) |
 | Bioprototype | 344140 | [344140-bioprototype.json](./344140-bioprototype.json) |
 | Biorage | 367035 | [367035-biorage.json](./367035-biorage.json) |
