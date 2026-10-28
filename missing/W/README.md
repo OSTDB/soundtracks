@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall-E | 220129 | [220129-wall-e.json](./220129-wall-e.json) |
 | Wall-E | 279597 | [279597-wall-e.json](./279597-wall-e.json) |
 | Wall-E | 343179 | [343179-wall-e.json](./343179-wall-e.json) |
+| WALL-E | 230455 | [230455-wall-e.json](./230455-wall-e.json) |
 | WALL-E | 320385 | [320385-wall-e.json](./320385-wall-e.json) |
 | WALL-E | 350049 | [350049-wall-e.json](./350049-wall-e.json) |
 | WALL-E | 357198 | [357198-wall-e.json](./357198-wall-e.json) |
@@ -6183,6 +6184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolvenrise | 359349 | [359349-wolvenrise.json](./359349-wolvenrise.json) |
 | Wolverine | 365006 | [365006-wolverine.json](./365006-wolverine.json) |
 | Wolverine | 85885 | [85885-wolverine.json](./85885-wolverine.json) |
+| Wolverine and the X-Men | 230456 | [230456-wolverine-and-the-x-men.json](./230456-wolverine-and-the-x-men.json) |
 | Wolverine M.R.D. Escape | 283580 | [283580-wolverine-m-r-d-escape.json](./283580-wolverine-m-r-d-escape.json) |
 | Wolverine: Adamantium Rage | 207235 | [207235-wolverine-adamantium-rage.json](./207235-wolverine-adamantium-rage.json) |
 | Wolverine: Adamantium Rage | 46250 | [46250-wolverine-adamantium-rage.json](./46250-wolverine-adamantium-rage.json) |
@@ -6534,6 +6536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Charades | 396009 | [396009-word-charades.json](./396009-word-charades.json) |
 | Word Charm | 88511 | [88511-word-charm.json](./88511-word-charm.json) |
 | Word Chase | 324814 | [324814-word-chase.json](./324814-word-chase.json) |
+| Word Chasers | 230457 | [230457-word-chasers.json](./230457-word-chasers.json) |
 | Word Chef | 192066 | [192066-word-chef.json](./192066-word-chef.json) |
 | Word Chef: Letter Pop | 241330 | [241330-word-chef-letter-pop.json](./241330-word-chef-letter-pop.json) |
 | Word Choices | 233052 | [233052-word-choices.json](./233052-word-choices.json) |
