@@ -10714,6 +10714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Leave | 285439 | [285439-dont-leave.json](./285439-dont-leave.json) |
 | Don't Let Her In | 305990 | [305990-dont-let-her-in.json](./305990-dont-let-her-in.json) |
 | Don't Let It Die | 295227 | [295227-dont-let-it-die.json](./295227-dont-let-it-die.json) |
+| Don’t Let It Out | 256081 | [256081-don-t-let-it-out.json](./256081-don-t-let-it-out.json) |
 | Don't Let Me Down | 204417 | [204417-dont-let-me-down.json](./204417-dont-let-me-down.json) |
 | Don't Let Me Fade | 352220 | [352220-dont-let-me-fade.json](./352220-dont-let-me-fade.json) |
 | Don't Let Me Rot | 365209 | [365209-dont-let-me-rot.json](./365209-dont-let-me-rot.json) |
