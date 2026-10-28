@@ -9612,6 +9612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship III: Combat Flight Simulator - Strike Package | 88624 | [88624-gunship-iii-combat-flight-simulator-strike-package.json](./88624-gunship-iii-combat-flight-simulator-strike-package.json) |
 | Gunship III: Combat Flight Simulator - U.S. Navy | 88609 | [88609-gunship-iii-combat-flight-simulator-u-s-navy.json](./88609-gunship-iii-combat-flight-simulator-u-s-navy.json) |
 | Gunship III: Flight Simulator - Strike Package | 90846 | [90846-gunship-iii-flight-simulator-strike-package.json](./90846-gunship-iii-flight-simulator-strike-package.json) |
+| Gunship Operator 3D | 252964 | [252964-gunship-operator-3d.json](./252964-gunship-operator-3d.json) |
 | Gunship Origins | 394127 | [394127-gunship-origins.json](./394127-gunship-origins.json) |
 | Gunship Recon: Character Puzzles | 163418 | [163418-gunship-recon-character-puzzles.json](./163418-gunship-recon-character-puzzles.json) |
 | Gunship Recon: Purchase Privilege | 156168 | [156168-gunship-recon-purchase-privilege.json](./156168-gunship-recon-purchase-privilege.json) |
