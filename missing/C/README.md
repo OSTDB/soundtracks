@@ -3284,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat and Dog Salon: Joyful Pets | 87166 | [87166-cat-and-dog-salon-joyful-pets.json](./87166-cat-and-dog-salon-joyful-pets.json) |
 | Cat and Ghostly Road | 114073 | [114073-cat-and-ghostly-road.json](./114073-cat-and-ghostly-road.json) |
 | Cat and Isle of Stars | 375203 | [375203-cat-and-isle-of-stars.json](./375203-cat-and-isle-of-stars.json) |
+| Cat and Ladder Climb | 252877 | [252877-cat-and-ladder-climb.json](./252877-cat-and-ladder-climb.json) |
 | Cat And Life | 301620 | [301620-cat-and-life.json](./301620-cat-and-life.json) |
 | Cat and Shadow and Death's Four Friends | 374070 | [374070-cat-and-shadow-and-deaths-four-friends.json](./374070-cat-and-shadow-and-deaths-four-friends.json) |
 | Cat and Watermouse | 216689 | [216689-cat-and-watermouse.json](./216689-cat-and-watermouse.json) |
@@ -5924,6 +5925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chex Quest | 8192 | [8192-chex-quest.json](./8192-chex-quest.json) |
 | Chex Quest 2: Flemoids Take Chextropolis | 8718 | [8718-chex-quest-2-flemoids-take-chextropolis.json](./8718-chex-quest-2-flemoids-take-chextropolis.json) |
 | Chex Quest 3 | 50386 | [50386-chex-quest-3.json](./50386-chex-quest-3.json) |
+| Chex Quest 4: Flemmed to The Core | 252535 | [252535-chex-quest-4-flemmed-to-the-core.json](./252535-chex-quest-4-flemmed-to-the-core.json) |
 | Chex Quest HD | 58136 | [58136-chex-quest-hd.json](./58136-chex-quest-hd.json) |
 | Chexs | 31753 | [31753-chexs.json](./31753-chexs.json) |
 | Cheyenne | 25957 | [25957-cheyenne.json](./25957-cheyenne.json) |
@@ -10627,6 +10629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colors! Maze 2 | 195536 | [195536-colors-maze-2.json](./195536-colors-maze-2.json) |
 | Colors! Platform | 199607 | [199607-colors-platform.json](./199607-colors-platform.json) |
 | Colors’ Heartbeat | 235480 | [235480-colors-heartbeat.json](./235480-colors-heartbeat.json) |
+| Colorscapes | 252962 | [252962-colorscapes.json](./252962-colorscapes.json) |
 | ColorSense | 182516 | [182516-colorsense.json](./182516-colorsense.json) |
 | Colorspace | 254398 | [254398-colorspace.json](./254398-colorspace.json) |
 | ColorSpill Ball | 334751 | [334751-colorspill-ball.json](./334751-colorspill-ball.json) |
@@ -14255,6 +14258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Climber 2 | 39808 | [39808-crazy-climber-2.json](./39808-crazy-climber-2.json) |
 | Crazy Climber 2000 | 77399 | [77399-crazy-climber-2000.json](./77399-crazy-climber-2000.json) |
 | Crazy Clown | 240045 | [240045-crazy-clown.json](./240045-crazy-clown.json) |
+| Crazy Coin | 252946 | [252946-crazy-coin.json](./252946-crazy-coin.json) |
 | Crazy Comets | 13832 | [13832-crazy-comets.json](./13832-crazy-comets.json) |
 | Crazy Cook | 204989 | [204989-crazy-cook.json](./204989-crazy-cook.json) |
 | Crazy Cooking Star Chef | 105699 | [105699-crazy-cooking-star-chef.json](./105699-crazy-cooking-star-chef.json) |
