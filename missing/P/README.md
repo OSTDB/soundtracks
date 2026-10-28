@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paccie | 241879 | [241879-paccie.json](./241879-paccie.json) |
 | Pace Car Pro | 110853 | [110853-pace-car-pro.json](./110853-pace-car-pro.json) |
 | Pacebreaker: An Experiment in AI-Perfected Exercise | 208343 | [208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json](./208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json) |
+| Pacer: Classic | 255811 | [255811-pacer-classic.json](./255811-pacer-classic.json) |
 | Pacewar | 322776 | [322776-pacewar.json](./322776-pacewar.json) |
 | PachaMama | 186272 | [186272-pachamama.json](./186272-pachamama.json) |
 | Pachansky Mathematics 2+2=8 | 393454 | [393454-pachansky-mathematics-2-2-8.json](./393454-pachansky-mathematics-2-2-8.json) |
@@ -2935,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: Clover Character Pack | 225114 | [225114-payday-2-clover-character-pack.json](./225114-payday-2-clover-character-pack.json) |
 | Payday 2: Crimewave Edition | 20041 | [20041-payday-2-crimewave-edition.json](./20041-payday-2-crimewave-edition.json) |
 | Payday 2: Crimewave Edition - GOAT Simulator Heists | 164579 | [164579-payday-2-crimewave-edition-goat-simulator-heists.json](./164579-payday-2-crimewave-edition-goat-simulator-heists.json) |
+| Payday 2: Crude Awakening Heist | 255475 | [255475-payday-2-crude-awakening-heist.json](./255475-payday-2-crude-awakening-heist.json) |
 | Payday 2: Dragan Character Pack | 225115 | [225115-payday-2-dragan-character-pack.json](./225115-payday-2-dragan-character-pack.json) |
 | Payday 2: Dragon Pack | 225117 | [225117-payday-2-dragon-pack.json](./225117-payday-2-dragon-pack.json) |
 | Payday 2: Espionage Weapon Pack | 400334 | [400334-payday-2-espionage-weapon-pack.json](./400334-payday-2-espionage-weapon-pack.json) |
@@ -8912,6 +8914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Kitten | 407477 | [407477-pocket-kitten.json](./407477-pocket-kitten.json) |
 | Pocket Knights 2 | 54715 | [54715-pocket-knights-2.json](./54715-pocket-knights-2.json) |
 | Pocket Kyoro-chan | 354959 | [354959-pocket-kyoro-chan.json](./354959-pocket-kyoro-chan.json) |
+| Pocket Land | 255808 | [255808-pocket-land.json](./255808-pocket-land.json) |
 | Pocket Lands | 183473 | [183473-pocket-lands.json](./183473-pocket-lands.json) |
 | Pocket Lands | 377647 | [377647-pocket-lands.json](./377647-pocket-lands.json) |
 | Pocket Legend | 322144 | [322144-pocket-legend.json](./322144-pocket-legend.json) |
@@ -11735,6 +11738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Battle for the Grid - Super Edition | 145981 | [145981-power-rangers-battle-for-the-grid-super-edition.json](./145981-power-rangers-battle-for-the-grid-super-edition.json) |
 | Power Rangers: Battle for the Grid - Trey of Triforia: Gold Zeo Ranger | 167792 | [167792-power-rangers-battle-for-the-grid-trey-of-triforia-gold-zeo-ranger.json](./167792-power-rangers-battle-for-the-grid-trey-of-triforia-gold-zeo-ranger.json) |
 | Power Rangers: Beats of Power | 198344 | [198344-power-rangers-beats-of-power.json](./198344-power-rangers-beats-of-power.json) |
+| Power Rangers: Beats of Power - Special Edition | 255837 | [255837-power-rangers-beats-of-power-special-edition.json](./255837-power-rangers-beats-of-power-special-edition.json) |
 | Power Rangers: Dino Thunder | 243195 | [243195-power-rangers-dino-thunder.json](./243195-power-rangers-dino-thunder.json) |
 | Power Rangers: Force in Time | 220104 | [220104-power-rangers-force-in-time.json](./220104-power-rangers-force-in-time.json) |
 | Power Rangers: Lightspeed Rescue | 248766 | [248766-power-rangers-lightspeed-rescue.json](./248766-power-rangers-lightspeed-rescue.json) |
