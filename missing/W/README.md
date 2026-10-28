@@ -2745,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weekend Solitaire: Meditation | 337257 | [337257-weekend-solitaire-meditation.json](./337257-weekend-solitaire-meditation.json) |
 | Weekend Solitaire: Ocean Kings | 416080 | [416080-weekend-solitaire-ocean-kings.json](./416080-weekend-solitaire-ocean-kings.json) |
 | Weekend Solitaire: Railway | 386124 | [386124-weekend-solitaire-railway.json](./386124-weekend-solitaire-railway.json) |
+| Weekend Solitaire: Summer Village | 275162 | [275162-weekend-solitaire-summer-village.json](./275162-weekend-solitaire-summer-village.json) |
 | Weekend Solitaire: Voyage | 386140 | [386140-weekend-solitaire-voyage.json](./386140-weekend-solitaire-voyage.json) |
 | Weekend Warriors MMA | 236195 | [236195-weekend-warriors-mma.json](./236195-weekend-warriors-mma.json) |
 | Weekly Jump Heroes Battle! My Collection 2 | 188366 | [188366-weekly-jump-heroes-battle-my-collection-2.json](./188366-weekly-jump-heroes-battle-my-collection-2.json) |
@@ -3579,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Did I Put It? | 223472 | [223472-where-did-i-put-it.json](./223472-where-did-i-put-it.json) |
 | Where Do I Fit? | 177489 | [177489-where-do-i-fit.json](./177489-where-do-i-fit.json) |
 | Where Dragon Spirits | 295485 | [295485-where-dragon-spirits.json](./295485-where-dragon-spirits.json) |
+| Where Dreams Die | 275164 | [275164-where-dreams-die.json](./275164-where-dreams-die.json) |
 | Where Ferrets | 282228 | [282228-where-ferrets.json](./282228-where-ferrets.json) |
 | Where Foxes | 306781 | [306781-where-foxes.json](./306781-where-foxes.json) |
 | Where Ghost Cats | 306783 | [306783-where-ghost-cats.json](./306783-where-ghost-cats.json) |
