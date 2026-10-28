@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Evolution Arcade | 375456 | [375456-dance-evolution-arcade.json](./375456-dance-evolution-arcade.json) |
 | Dance Factory | 20560 | [20560-dance-factory.json](./20560-dance-factory.json) |
 | Dance Fantasy | 40899 | [40899-dance-fantasy.json](./40899-dance-fantasy.json) |
+| Dance Fest | 269398 | [269398-dance-fest.json](./269398-dance-fest.json) |
 | Dance Fever HD | 232150 | [232150-dance-fever-hd.json](./232150-dance-fever-hd.json) |
 | Dance Fight | 239510 | [239510-dance-fight.json](./239510-dance-fight.json) |
 | Dance Floor | 47937 | [47937-dance-floor.json](./47937-dance-floor.json) |
@@ -2801,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DDinosaur with Double D's | 332934 | [332934-ddinosaur-with-double-ds.json](./332934-ddinosaur-with-double-ds.json) |
 | DDM Soccer '96 | 93390 | [93390-ddm-soccer-96.json](./93390-ddm-soccer-96.json) |
 | DDoD | 361039 | [361039-ddod.json](./361039-ddod.json) |
+| DDR Festival Dance Dance Revolution | 269397 | [269397-ddr-festival-dance-dance-revolution.json](./269397-ddr-festival-dance-dance-revolution.json) |
 | DDraceNetwork | 136770 | [136770-ddracenetwork.json](./136770-ddracenetwork.json) |
 | DDRMax Dance Dance Revolution | 79707 | [79707-ddrmax-dance-dance-revolution.json](./79707-ddrmax-dance-dance-revolution.json) |
 | DDRMax: Dance Dance Revolution 6thMix | 3677 | [3677-ddrmax-dance-dance-revolution-6thmix.json](./3677-ddrmax-dance-dance-revolution-6thmix.json) |
@@ -4354,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decline | 406895 | [406895-decline.json](./406895-decline.json) |
 | Declutterer | 410686 | [410686-declutterer.json](./410686-declutterer.json) |
 | Deco Deck | 247929 | [247929-deco-deck.json](./247929-deco-deck.json) |
+| Deco Tendances | 269689 | [269689-deco-tendances.json](./269689-deco-tendances.json) |
 | Deco: Block Simulator | 151661 | [151661-deco-block-simulator.json](./151661-deco-block-simulator.json) |
 | Decode | 390016 | [390016-decode.json](./390016-decode.json) |
 | Decodence | 351568 | [351568-decodence.json](./351568-decodence.json) |
@@ -5088,6 +5091,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dekaron M | 165416 | [165416-dekaron-m.json](./165416-dekaron-m.json) |
 | Dekiai Heart Candy Kun. | 327899 | [327899-dekiai-heart-candy-kun.json](./327899-dekiai-heart-candy-kun.json) |
 | Dekinai Watashi ga, Kurikaesu. | 402473 | [402473-dekinai-watashi-ga-kurikaesu.json](./402473-dekinai-watashi-ga-kurikaesu.json) |
+| Dekiru Otoko no Mote Life: Hiru no Mote Kouza-hen | 269691 | [269691-dekiru-otoko-no-mote-life-hiru-no-mote-kouza-hen.json](./269691-dekiru-otoko-no-mote-life-hiru-no-mote-kouza-hen.json) |
+| Dekiru Otoko no Mote Life: Yoru no Mote Jissen-hen | 269692 | [269692-dekiru-otoko-no-mote-life-yoru-no-mote-jissen-hen.json](./269692-dekiru-otoko-no-mote-life-yoru-no-mote-jissen-hen.json) |
 | Dekiru! Game Center | 255516 | [255516-dekiru-game-center.json](./255516-dekiru-game-center.json) |
 | Dekisugi Tingle Pack | 100169 | [100169-dekisugi-tingle-pack.json](./100169-dekisugi-tingle-pack.json) |
 | Dekitate High School | 44418 | [44418-dekitate-high-school.json](./44418-dekitate-high-school.json) |
@@ -5758,8 +5763,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Denizen's Den | 65382 | [65382-denizens-den.json](./65382-denizens-den.json) |
 | Denjarasu Jii-san Jya | 85082 | [85082-denjarasu-jii-san-jya.json](./85082-denjarasu-jii-san-jya.json) |
 | Denjin Makai | 46782 | [46782-denjin-makai.json](./46782-denjin-makai.json) |
+| Denjirou Sensei no Fushigi na Jikkenshitsu | 269695 | [269695-denjirou-sensei-no-fushigi-na-jikkenshitsu.json](./269695-denjirou-sensei-no-fushigi-na-jikkenshitsu.json) |
 | Denki Blocks! | 49155 | [49155-denki-blocks.json](./49155-denki-blocks.json) |
 | Denki Bounce | 155876 | [155876-denki-bounce.json](./155876-denki-bounce.json) |
+| Denksport Varia | 269693 | [269693-denksport-varia.json](./269693-denksport-varia.json) |
 | Dennis and Gnasher | 311315 | [311315-dennis-and-gnasher.json](./311315-dennis-and-gnasher.json) |
 | Dennis Miller: That's Geek to Me | 245252 | [245252-dennis-miller-thats-geek-to-me.json](./245252-dennis-miller-thats-geek-to-me.json) |
 | Dennis Miller: That's News to Me | 39019 | [39019-dennis-miller-thats-news-to-me.json](./39019-dennis-miller-thats-news-to-me.json) |
@@ -7515,6 +7522,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die drei ??? - Das Geheimnis des Magiers | 125036 | [125036-die-drei-das-geheimnis-des-magiers.json](./125036-die-drei-das-geheimnis-des-magiers.json) |
 | Die drei ??? 2 - Bomben in Rocky Beach | 125284 | [125284-die-drei-2-bomben-in-rocky-beach.json](./125284-die-drei-2-bomben-in-rocky-beach.json) |
 | Die drei ??? 3 - Gespensterjagd | 142239 | [142239-die-drei-3-gespensterjagd.json](./142239-die-drei-3-gespensterjagd.json) |
+| Die drei ??? Das Geheimnis der Geisterinsel | 269702 | [269702-die-drei-das-geheimnis-der-geisterinsel.json](./269702-die-drei-das-geheimnis-der-geisterinsel.json) |
+| Die drei ??? Das Geheimnis der Toten | 269704 | [269704-die-drei-das-geheimnis-der-toten.json](./269704-die-drei-das-geheimnis-der-toten.json) |
 | Die drei ???: Das Gold der Inkas | 361324 | [361324-die-drei-das-gold-der-inkas.json](./361324-die-drei-das-gold-der-inkas.json) |
 | Die Drei ???: Ruf Der Trolle | 371610 | [371610-die-drei-ruf-der-trolle.json](./371610-die-drei-ruf-der-trolle.json) |
 | Die drei Freunde von der Reitschule | 291073 | [291073-die-drei-freunde-von-der-reitschule.json](./291073-die-drei-freunde-von-der-reitschule.json) |
@@ -7760,6 +7769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digging Jim | 19222 | [19222-digging-jim.json](./19222-digging-jim.json) |
 | Digging the Forgotten Cave | 365828 | [365828-digging-the-forgotten-cave.json](./365828-digging-the-forgotten-cave.json) |
 | Diggles: The Myth of Fenris | 9521 | [9521-diggles-the-myth-of-fenris.json](./9521-diggles-the-myth-of-fenris.json) |
+| Diggy Diggy Dwarf | 269388 | [269388-diggy-diggy-dwarf.json](./269388-diggy-diggy-dwarf.json) |
 | Diggy: Gold Rush | 248098 | [248098-diggy-gold-rush.json](./248098-diggy-gold-rush.json) |
 | Digi Fighters | 392428 | [392428-digi-fighters.json](./392428-digi-fighters.json) |
 | Digi Pool | 70341 | [70341-digi-pool.json](./70341-digi-pool.json) |
@@ -9514,7 +9524,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ Star | 21243 | [21243-dj-star.json](./21243-dj-star.json) |
 | DJ Whip VR | 110693 | [110693-dj-whip-vr.json](./110693-dj-whip-vr.json) |
 | DJ Word Master | 105837 | [105837-dj-word-master.json](./105837-dj-word-master.json) |
+| DJ: Decks & FX - Claudio Coccoluto Edition | 269401 | [269401-dj-decks-and-fx-claudio-coccoluto-edition.json](./269401-dj-decks-and-fx-claudio-coccoluto-edition.json) |
+| DJ: Decks & FX - Live Session | 269400 | [269400-dj-decks-and-fx-live-session.json](./269400-dj-decks-and-fx-live-session.json) |
+| DJ: Decks & FX - Radio FG | 269402 | [269402-dj-decks-and-fx-radio-fg.json](./269402-dj-decks-and-fx-radio-fg.json) |
 | Django | 152658 | [152658-django.json](./152658-django.json) |
+| DJbox | 269399 | [269399-djbox.json](./269399-djbox.json) |
 | Djikstra's Enigmatic Puzzle Cube | 278423 | [278423-djikstras-enigmatic-puzzle-cube.json](./278423-djikstras-enigmatic-puzzle-cube.json) |
 | Djinn Caster | 129605 | [129605-djinn-caster.json](./129605-djinn-caster.json) |
 | Djinn: The Forbidden Knowledge | 302578 | [302578-djinn-the-forbidden-knowledge.json](./302578-djinn-the-forbidden-knowledge.json) |
@@ -11548,13 +11562,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Nobita no Getsumen Tansa-ki | 112091 | [112091-doraemon-nobita-no-getsumen-tansa-ki.json](./112091-doraemon-nobita-no-getsumen-tansa-ki.json) |
 | Doraemon: Nobita no Himitsu Dougu Hakubutsukan | 60544 | [60544-doraemon-nobita-no-himitsu-dougu-hakubutsukan.json](./60544-doraemon-nobita-no-himitsu-dougu-hakubutsukan.json) |
 | Doraemon: Nobita no Kyouryuu | 349417 | [349417-doraemon-nobita-no-kyouryuu.json](./349417-doraemon-nobita-no-kyouryuu.json) |
+| Doraemon: Nobita no Kyouryuu 2006 | 269698 | [269698-doraemon-nobita-no-kyouryuu-2006.json](./269698-doraemon-nobita-no-kyouryuu-2006.json) |
 | Doraemon: Nobita no Nankyoku Kachikochi Daibouken | 56993 | [56993-doraemon-nobita-no-nankyoku-kachikochi-daibouken.json](./56993-doraemon-nobita-no-nankyoku-kachikochi-daibouken.json) |
 | Doraemon: Nobita no Nippon Tanjou | 349419 | [349419-doraemon-nobita-no-nippon-tanjou.json](./349419-doraemon-nobita-no-nippon-tanjou.json) |
 | Doraemon: Nobita no Parallel Sayuuki | 349418 | [349418-doraemon-nobita-no-parallel-sayuuki.json](./349418-doraemon-nobita-no-parallel-sayuuki.json) |
+| Doraemon: Nobita no Shin Makai Daibouken DS | 269699 | [269699-doraemon-nobita-no-shin-makai-daibouken-ds.json](./269699-doraemon-nobita-no-shin-makai-daibouken-ds.json) |
 | Doraemon: Nobita no Time Machine Daibouken | 59056 | [59056-doraemon-nobita-no-time-machine-daibouken.json](./59056-doraemon-nobita-no-time-machine-daibouken.json) |
 | Doraemon: Nobita to 3-tsu no Seireiseki | 70797 | [70797-doraemon-nobita-to-3-tsu-no-seireiseki.json](./70797-doraemon-nobita-to-3-tsu-no-seireiseki.json) |
 | Doraemon: Nobita to Buriki no Meikyuu | 349442 | [349442-doraemon-nobita-to-buriki-no-meikyuu.json](./349442-doraemon-nobita-to-buriki-no-meikyuu.json) |
 | Doraemon: Nobita to Fukkatsu no Hoshi | 91772 | [91772-doraemon-nobita-to-fukkatsu-no-hoshi.json](./91772-doraemon-nobita-to-fukkatsu-no-hoshi.json) |
+| Doraemon: Nobita to Midori no Kyojin-den DS | 269700 | [269700-doraemon-nobita-to-midori-no-kyojin-den-ds.json](./269700-doraemon-nobita-to-midori-no-kyojin-den-ds.json) |
 | Doraemon: Nobita to Tetsu-jin Heidan | 349424 | [349424-doraemon-nobita-to-tetsu-jin-heidan.json](./349424-doraemon-nobita-to-tetsu-jin-heidan.json) |
 | Doraemon: Nobita to Yousei no Kuni | 38130 | [38130-doraemon-nobita-to-yousei-no-kuni.json](./38130-doraemon-nobita-to-yousei-no-kuni.json) |
 | Doraemon: Nobita's Resident Evil | 144660 | [144660-doraemon-nobitas-resident-evil.json](./144660-doraemon-nobitas-resident-evil.json) |
@@ -13537,6 +13554,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Angling | 100319 | [100319-dream-angling.json](./100319-dream-angling.json) |
 | Dream Animal | 376759 | [376759-dream-animal.json](./376759-dream-animal.json) |
 | Dream Antique | 284315 | [284315-dream-antique.json](./284315-dream-antique.json) |
+| Dream Audition | 269403 | [269403-dream-audition.json](./269403-dream-audition.json) |
+| Dream Audition 2 | 269404 | [269404-dream-audition-2.json](./269404-dream-audition-2.json) |
+| Dream Audition 3 | 269405 | [269405-dream-audition-3.json](./269405-dream-audition-3.json) |
+| Dream Audition Super Hit Disc 1 | 269406 | [269406-dream-audition-super-hit-disc-1.json](./269406-dream-audition-super-hit-disc-1.json) |
+| Dream Audition: Super Hit Disc 2 | 269407 | [269407-dream-audition-super-hit-disc-2.json](./269407-dream-audition-super-hit-disc-2.json) |
 | Dream Back | 155891 | [155891-dream-back.json](./155891-dream-back.json) |
 | Dream Bakery | 285348 | [285348-dream-bakery.json](./285348-dream-bakery.json) |
 | Dream Bar Simulator | 326438 | [326438-dream-bar-simulator.json](./326438-dream-bar-simulator.json) |
@@ -14791,6 +14813,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drywall Eating Simulator | 347597 | [347597-drywall-eating-simulator.json](./347597-drywall-eating-simulator.json) |
 | DS Bimoji Training | 306436 | [306436-ds-bimoji-training.json](./306436-ds-bimoji-training.json) |
 | DS de Classic Kiite Mimasenka | 269551 | [269551-ds-de-classic-kiite-mimasenka.json](./269551-ds-de-classic-kiite-mimasenka.json) |
+| DS de Yomu Series: Tezuka Osamu Hi no Tori 1 | 269705 | [269705-ds-de-yomu-series-tezuka-osamu-hi-no-tori-1.json](./269705-ds-de-yomu-series-tezuka-osamu-hi-no-tori-1.json) |
+| DS de Yomu Series: Tezuka Osamu Hi no Tori 2 | 269706 | [269706-ds-de-yomu-series-tezuka-osamu-hi-no-tori-2.json](./269706-ds-de-yomu-series-tezuka-osamu-hi-no-tori-2.json) |
 | DS Kageyama Method: Dennou Hanpuku - Chiri, Rekishi, Koumin: Maru x Maru Shakai-ka | 269576 | [269576-ds-kageyama-method-dennou-hanpuku-chiri-rekishi-koumin-maru-x-maru-shakai-ka.json](./269576-ds-kageyama-method-dennou-hanpuku-chiri-rekishi-koumin-maru-x-maru-shakai-ka.json) |
 | DS Kageyama Method: Dennou Hanpuku - Masu x Masu Hyaku Masu Keisan | 269578 | [269578-ds-kageyama-method-dennou-hanpuku-masu-x-masu-hyaku-masu-keisan.json](./269578-ds-kageyama-method-dennou-hanpuku-masu-x-masu-hyaku-masu-keisan.json) |
 | DS Kageyama Method: Dennou Hanpuku - Tadashii Kanji Kakitori-kun | 269577 | [269577-ds-kageyama-method-dennou-hanpuku-tadashii-kanji-kakitori-kun.json](./269577-ds-kageyama-method-dennou-hanpuku-tadashii-kanji-kakitori-kun.json) |
