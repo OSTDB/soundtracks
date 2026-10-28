@@ -7898,6 +7898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Audio Wasteland | 297818 | [297818-digital-audio-wasteland.json](./297818-digital-audio-wasteland.json) |
 | Digital Bird Playground | 124255 | [124255-digital-bird-playground.json](./124255-digital-bird-playground.json) |
 | Digital Bojangles Saga HD Remaster | 245255 | [245255-digital-bojangles-saga-hd-remaster.json](./245255-digital-bojangles-saga-hd-remaster.json) |
+| Digital Chain | 252325 | [252325-digital-chain.json](./252325-digital-chain.json) |
 | Digital Chaos | 234488 | [234488-digital-chaos.json](./234488-digital-chaos.json) |
 | Digital Circus Shooter | 276482 | [276482-digital-circus-shooter.json](./276482-digital-circus-shooter.json) |
 | Digital Circus: Obby Parkour | 276485 | [276485-digital-circus-obby-parkour.json](./276485-digital-circus-obby-parkour.json) |
@@ -9402,6 +9403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diver | 267291 | [267291-diver.json](./267291-diver.json) |
 | Diver Boy | 39871 | [39871-diver-boy.json](./39871-diver-boy.json) |
 | Diver Dash | 241872 | [241872-diver-dash.json](./241872-diver-dash.json) |
+| Diver Dogs | 252323 | [252323-diver-dogs.json](./252323-diver-dogs.json) |
 | Diver Down | 334030 | [334030-diver-down.json](./334030-diver-down.json) |
 | Diver, Catch & Cook Simulator | 386212 | [386212-diver-catch-and-cook-simulator.json](./386212-diver-catch-and-cook-simulator.json) |
 | Diver: Deep Water Adventures | 63282 | [63282-diver-deep-water-adventures.json](./63282-diver-deep-water-adventures.json) |
@@ -14426,6 +14428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive-In | 25134 | [25134-drive-in.json](./25134-drive-in.json) |
 | Drive! | 269164 | [269164-drive.json](./269164-drive.json) |
 | Drive!Drive!Drive! | 13231 | [13231-drive-drive-drive.json](./13231-drive-drive-drive.json) |
+| Drive.RS | 252324 | [252324-drive-rs.json](./252324-drive-rs.json) |
 | Driveby Gangster | 34452 | [34452-driveby-gangster.json](./34452-driveby-gangster.json) |
 | DriveCraft | 392909 | [392909-drivecraft.json](./392909-drivecraft.json) |
 | DriveCrazy | 151746 | [151746-drivecrazy.json](./151746-drivecrazy.json) |
