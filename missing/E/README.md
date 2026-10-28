@@ -2806,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of Angels IV: Limited Edition | 166264 | [166264-empire-of-angels-iv-limited-edition.json](./166264-empire-of-angels-iv-limited-edition.json) |
 | Empire of Atlantis | 66950 | [66950-empire-of-atlantis.json](./66950-empire-of-atlantis.json) |
 | Empire of Devil | 110703 | [110703-empire-of-devil.json](./110703-empire-of-devil.json) |
+| Empire of Disorder | 271050 | [271050-empire-of-disorder.json](./271050-empire-of-disorder.json) |
 | Empire of Empires | 211966 | [211966-empire-of-empires.json](./211966-empire-of-empires.json) |
 | Empire of Gnomes | 102701 | [102701-empire-of-gnomes.json](./102701-empire-of-gnomes.json) |
 | Empire of Karn | 70249 | [70249-empire-of-karn.json](./70249-empire-of-karn.json) |
