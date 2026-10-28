@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darfur is Dying | 172078 | [172078-darfur-is-dying.json](./172078-darfur-is-dying.json) |
 | Daria: A Kingdom Simulator | 275101 | [275101-daria-a-kingdom-simulator.json](./275101-daria-a-kingdom-simulator.json) |
 | Daring Academy | 211816 | [211816-daring-academy.json](./211816-daring-academy.json) |
+| Daris Venture | 266348 | [266348-daris-venture.json](./266348-daris-venture.json) |
 | Darius | 6789 | [6789-darius.json](./6789-darius.json) |
 | Darius Cozmic Collection | 104778 | [104778-darius-cozmic-collection.json](./104778-darius-cozmic-collection.json) |
 | Darius Cozmic Collection Arcade | 147940 | [147940-darius-cozmic-collection-arcade.json](./147940-darius-cozmic-collection-arcade.json) |
@@ -8617,6 +8618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Station #09 | 266405 | [266405-disc-station-09.json](./266405-disc-station-09.json) |
 | Disc Station #11 | 266411 | [266411-disc-station-11.json](./266411-disc-station-11.json) |
 | Disc Station #12 | 266479 | [266479-disc-station-12.json](./266479-disc-station-12.json) |
+| Disc Station 98 #00 | 266336 | [266336-disc-station-98-00.json](./266336-disc-station-98-00.json) |
 | Disc Station 98 #1 | 266404 | [266404-disc-station-98-1.json](./266404-disc-station-98-1.json) |
 | Disc Station 98 #2 | 336602 | [336602-disc-station-98-2.json](./336602-disc-station-98-2.json) |
 | Disc Station MSX #01 | 266403 | [266403-disc-station-msx-01.json](./266403-disc-station-msx-01.json) |
@@ -16183,6 +16185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duplo | 407947 | [407947-duplo.json](./407947-duplo.json) |
 | Duppy Detective Tashia | 215885 | [215885-duppy-detective-tashia.json](./215885-duppy-detective-tashia.json) |
 | Dura Vita Online | 164082 | [164082-dura-vita-online.json](./164082-dura-vita-online.json) |
+| Durak Online | 266371 | [266371-durak-online.json](./266371-durak-online.json) |
 | Durak Online | 369668 | [369668-durak-online.json](./369668-durak-online.json) |
 | Duralumin Wind | 80914 | [80914-duralumin-wind.json](./80914-duralumin-wind.json) |
 | Durango: Wild Lands | 26918 | [26918-durango-wild-lands.json](./26918-durango-wild-lands.json) |
