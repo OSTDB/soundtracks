@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantaar | 159884 | [159884-quantaar.json](./159884-quantaar.json) |
 | QuantAttack | 271140 | [271140-quantattack.json](./271140-quantattack.json) |
 | Quantic Dream Collection | 136184 | [136184-quantic-dream-collection.json](./136184-quantic-dream-collection.json) |
+| Quantic River | 278253 | [278253-quantic-river.json](./278253-quantic-river.json) |
 | Quantized | 37311 | [37311-quantized.json](./37311-quantized.json) |
 | Quantum | 19374 | [19374-quantum.json](./19374-quantum.json) |
 | Quantum Action | 353624 | [353624-quantum-action.json](./353624-quantum-action.json) |
