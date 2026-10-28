@@ -3446,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just another generic: FPS | 291219 | [291219-just-another-generic-fps.json](./291219-just-another-generic-fps.json) |
 | Just Another Guild Day | 414156 | [414156-just-another-guild-day.json](./414156-just-another-guild-day.json) |
 | Just Another Jump and Run | 195554 | [195554-just-another-jump-and-run.json](./195554-just-another-jump-and-run.json) |
+| Just Another Life | 235904 | [235904-just-another-life.json](./235904-just-another-life.json) |
 | Just Another Memory | 120914 | [120914-just-another-memory.json](./120914-just-another-memory.json) |
 | Just Another Night Shift | 249063 | [249063-just-another-night-shift.json](./249063-just-another-night-shift.json) |
 | Just Another Platformer | 316052 | [316052-just-another-platformer.json](./316052-just-another-platformer.json) |
