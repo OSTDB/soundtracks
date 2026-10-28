@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Made in Hell | 259683 | [259683-made-in-hell.json](./259683-made-in-hell.json) |
 | Made in Lucifer City | 370012 | [370012-made-in-lucifer-city.json](./370012-made-in-lucifer-city.json) |
 | Made in Melostead | 270092 | [270092-made-in-melostead.json](./270092-made-in-melostead.json) |
+| Made in Nightmare | 229390 | [229390-made-in-nightmare.json](./229390-made-in-nightmare.json) |
 | Made in Ohio | 236880 | [236880-made-in-ohio.json](./236880-made-in-ohio.json) |
 | Made in Physics | 184487 | [184487-made-in-physics.json](./184487-made-in-physics.json) |
 | Made in Tower | 311534 | [311534-made-in-tower.json](./311534-made-in-tower.json) |
@@ -1987,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maimaimaigoen: Episode 5 - That Which Connects Us | 343934 | [343934-maimaimaigoen-episode-5-that-which-connects-us.json](./343934-maimaimaigoen-episode-5-that-which-connects-us.json) |
 | Maimaimaigoen: Episode 6 - The Red Mask | 343937 | [343937-maimaimaigoen-episode-6-the-red-mask.json](./343937-maimaimaigoen-episode-6-the-red-mask.json) |
 | Maimaimaigoen: Episode 7 - The Lost Path | 343940 | [343940-maimaimaigoen-episode-7-the-lost-path.json](./343940-maimaimaigoen-episode-7-the-lost-path.json) |
+| Maimu | 229391 | [229391-maimu.json](./229391-maimu.json) |
 | Main Action | 254777 | [254777-main-action.json](./254777-main-action.json) |
 | Main Character Simulator | 107709 | [107709-main-character-simulator.json](./107709-main-character-simulator.json) |
 | Main Deity Space | 277515 | [277515-main-deity-space.json](./277515-main-deity-space.json) |
@@ -9615,6 +9617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midas Gold Plus | 30474 | [30474-midas-gold-plus.json](./30474-midas-gold-plus.json) |
 | Midautumn | 148943 | [148943-midautumn.json](./148943-midautumn.json) |
 | MidBoss | 30360 | [30360-midboss.json](./30360-midboss.json) |
+| MidCreati | 229273 | [229273-midcreati.json](./229273-midcreati.json) |
 | Middens | 55004 | [55004-middens.json](./55004-middens.json) |
 | Middle Age Conquest | 151289 | [151289-middle-age-conquest.json](./151289-middle-age-conquest.json) |
 | Middle Ages Hero | 115147 | [115147-middle-ages-hero.json](./115147-middle-ages-hero.json) |
