@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campfire | 275600 | [275600-campfire.json](./275600-campfire.json) |
 | Campfire Cat Cafe | 250431 | [250431-campfire-cat-cafe.json](./250431-campfire-cat-cafe.json) |
 | Campfire Cooking | 68468 | [68468-campfire-cooking.json](./68468-campfire-cooking.json) |
+| Campfire Cozy Friends | 279161 | [279161-campfire-cozy-friends.json](./279161-campfire-cozy-friends.json) |
 | Campfire Harmony | 402251 | [402251-campfire-harmony.json](./402251-campfire-harmony.json) |
 | Campfire Legends: The Babysitter | 62833 | [62833-campfire-legends-the-babysitter.json](./62833-campfire-legends-the-babysitter.json) |
 | Campfire Legends: The Hookman | 62834 | [62834-campfire-legends-the-hookman.json](./62834-campfire-legends-the-hookman.json) |
@@ -1809,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking | 226295 | [226295-car-parking.json](./226295-car-parking.json) |
 | Car Parking - Test Drive and Parking Simulator | 88298 | [88298-car-parking-test-drive-and-parking-simulator.json](./88298-car-parking-test-drive-and-parking-simulator.json) |
 | Car Parking & Car Driving Simulator 2023 | 271702 | [271702-car-parking-and-car-driving-simulator-2023.json](./271702-car-parking-and-car-driving-simulator-2023.json) |
+| Car Parking & Car Driving Simulator 2024 | 279019 | [279019-car-parking-and-car-driving-simulator-2024.json](./279019-car-parking-and-car-driving-simulator-2024.json) |
 | Car Parking 2 | 232448 | [232448-car-parking-2.json](./232448-car-parking-2.json) |
 | Car Parking 2 | 323095 | [323095-car-parking-2.json](./323095-car-parking-2.json) |
 | Car Parking Adventure | 384283 | [384283-car-parking-adventure.json](./384283-car-parking-adventure.json) |
@@ -2518,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars: Rev It Up In Radiator Springs | 220100 | [220100-cars-rev-it-up-in-radiator-springs.json](./220100-cars-rev-it-up-in-radiator-springs.json) |
 | Cars! Easy Car Games For Baby Boys | 101012 | [101012-cars-easy-car-games-for-baby-boys.json](./101012-cars-easy-car-games-for-baby-boys.json) |
 | CarsFall | 165368 | [165368-carsfall.json](./165368-carsfall.json) |
+| CarsFuckingDragons | 279162 | [279162-carsfuckingdragons.json](./279162-carsfuckingdragons.json) |
 | Carsh | 320044 | [320044-carsh.json](./320044-carsh.json) |
 | Carsick Carventure | 276692 | [276692-carsick-carventure.json](./276692-carsick-carventure.json) |
 | Carste Magic | 392074 | [392074-carste-magic.json](./392074-carste-magic.json) |
@@ -13264,6 +13267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cover Orange Players Pack 3 | 403355 | [403355-cover-orange-players-pack-3.json](./403355-cover-orange-players-pack-3.json) |
 | Cover U: Raora Route | 351001 | [351001-cover-u-raora-route.json](./351001-cover-u-raora-route.json) |
 | Cover Your Eyes | 127161 | [127161-cover-your-eyes.json](./127161-cover-your-eyes.json) |
+| Cover Yourself in Blood | 279163 | [279163-cover-yourself-in-blood.json](./279163-cover-yourself-in-blood.json) |
 | Covermount | 327295 | [327295-covermount.json](./327295-covermount.json) |
 | CoverQuest | 294456 | [294456-coverquest.json](./294456-coverquest.json) |
 | Covert | 112736 | [112736-covert.json](./112736-covert.json) |
