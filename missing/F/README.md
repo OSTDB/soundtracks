@@ -2489,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Store Simulator | 312977 | [312977-fashion-store-simulator.json](./312977-fashion-store-simulator.json) |
 | Fashion Universe | 212481 | [212481-fashion-universe.json](./212481-fashion-universe.json) |
 | Fashion Week: Junior Stylist | 79893 | [79893-fashion-week-junior-stylist.json](./79893-fashion-week-junior-stylist.json) |
+| Fashion World | 280069 | [280069-fashion-world.json](./280069-fashion-world.json) |
 | Fashion World: Deluxe Edition | 292917 | [292917-fashion-world-deluxe-edition.json](./292917-fashion-world-deluxe-edition.json) |
 | Fashion World: Premium Edition | 308804 | [308804-fashion-world-premium-edition.json](./308804-fashion-world-premium-edition.json) |
 | Fashion_Weak | 181755 | [181755-fashion-weak.json](./181755-fashion-weak.json) |
