@@ -1453,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario Land II | 204786 | [204786-wario-land-ii.json](./204786-wario-land-ii.json) |
 | Wario Land Remix | 322778 | [322778-wario-land-remix.json](./322778-wario-land-remix.json) |
 | Wario Land: Shake It! | 1702 | [1702-wario-land-shake-it.json](./1702-wario-land-shake-it.json) |
+| Wario Land: Super Mario Land 3 Color Edition | 263620 | [263620-wario-land-super-mario-land-3-color-edition.json](./263620-wario-land-super-mario-land-3-color-edition.json) |
 | Wario Land: The Shake Dimension | 328671 | [328671-wario-land-the-shake-dimension.json](./328671-wario-land-the-shake-dimension.json) |
 | Wario no Mori: Event Ban Ver. 1 | 401088 | [401088-wario-no-mori-event-ban-ver-1.json](./401088-wario-no-mori-event-ban-ver-1.json) |
 | Wario Pool | 230170 | [230170-wario-pool.json](./230170-wario-pool.json) |
