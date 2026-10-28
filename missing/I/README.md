@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am God of the Forestland | 82580 | [82580-i-am-god-of-the-forestland.json](./82580-i-am-god-of-the-forestland.json) |
 | I Am Hamster: Simulator | 407583 | [407583-i-am-hamster-simulator.json](./407583-i-am-hamster-simulator.json) |
 | I Am Here, I Won't Disappear. I Am Here, I Won't... | 329547 | [329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json](./329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json) |
+| I Am Hero: AFK Teamfight | 249591 | [249591-i-am-hero-afk-teamfight.json](./249591-i-am-hero-afk-teamfight.json) |
 | I Am Human! | 161173 | [161173-i-am-human.json](./161173-i-am-human.json) |
 | I Am Immortal Here | 337826 | [337826-i-am-immortal-here.json](./337826-i-am-immortal-here.json) |
 | I Am in This Photograph | 383751 | [383751-i-am-in-this-photograph.json](./383751-i-am-in-this-photograph.json) |
@@ -5205,6 +5206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ise Shima Mystery Annai: Itsuwari no Kuro Shinju | 69363 | [69363-ise-shima-mystery-annai-itsuwari-no-kuro-shinju.json](./69363-ise-shima-mystery-annai-itsuwari-no-kuro-shinju.json) |
 | Ise Shima Mystery Guide: The False Black Pearl | 67205 | [67205-ise-shima-mystery-guide-the-false-black-pearl.json](./67205-ise-shima-mystery-guide-the-false-black-pearl.json) |
 | Isee | 51514 | [51514-isee.json](./51514-isee.json) |
+| Isegyemeideu | 249951 | [249951-isegyemeideu.json](./249951-isegyemeideu.json) |
 | Iseijin Kara no Okurimono | 401835 | [401835-iseijin-kara-no-okurimono.json](./401835-iseijin-kara-no-okurimono.json) |
 | Iseikan Renai Guide: Interplanetary Love Guide | 325407 | [325407-iseikan-renai-guide-interplanetary-love-guide.json](./325407-iseikan-renai-guide-interplanetary-love-guide.json) |
 | Isekai Adventurer Guild | 348401 | [348401-isekai-adventurer-guild.json](./348401-isekai-adventurer-guild.json) |
@@ -5434,6 +5436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Jura Fishing Trip | 242055 | [242055-isle-of-jura-fishing-trip.json](./242055-isle-of-jura-fishing-trip.json) |
 | Isle of Jura Fishing Trip: Complete Edition | 268564 | [268564-isle-of-jura-fishing-trip-complete-edition.json](./268564-isle-of-jura-fishing-trip-complete-edition.json) |
 | Isle of Jura Fishing Trip: Definitive Edition | 263552 | [263552-isle-of-jura-fishing-trip-definitive-edition.json](./263552-isle-of-jura-fishing-trip-definitive-edition.json) |
+| Isle of Jura Fishing Trip: Deluxe Edition | 249583 | [249583-isle-of-jura-fishing-trip-deluxe-edition.json](./249583-isle-of-jura-fishing-trip-deluxe-edition.json) |
 | Isle of Jura Fishing Trip: Extended Edition | 251536 | [251536-isle-of-jura-fishing-trip-extended-edition.json](./251536-isle-of-jura-fishing-trip-extended-edition.json) |
 | Isle of Jura Fishing Trip: Premium Edition | 260050 | [260050-isle-of-jura-fishing-trip-premium-edition.json](./260050-isle-of-jura-fishing-trip-premium-edition.json) |
 | Isle of Jura Fishing Trip: Special Edition | 256634 | [256634-isle-of-jura-fishing-trip-special-edition.json](./256634-isle-of-jura-fishing-trip-special-edition.json) |
@@ -5605,6 +5608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Happened Here: A Storm is Brewing - Collector's Edition | 337247 | [337247-it-happened-here-a-storm-is-brewing-collectors-edition.json](./337247-it-happened-here-a-storm-is-brewing-collectors-edition.json) |
 | It Happened Here: Beacon of Truth - Collector's Edition | 270102 | [270102-it-happened-here-beacon-of-truth-collectors-edition.json](./270102-it-happened-here-beacon-of-truth-collectors-edition.json) |
 | It Happened Here: Streaming Lives | 266244 | [266244-it-happened-here-streaming-lives.json](./266244-it-happened-here-streaming-lives.json) |
+| IT Hell | 249827 | [249827-it-hell.json](./249827-it-hell.json) |
 | It is a Good Knight to Die | 236917 | [236917-it-is-a-good-knight-to-die.json](./236917-it-is-a-good-knight-to-die.json) |
 | It Is Coming | 335665 | [335665-it-is-coming.json](./335665-it-is-coming.json) |
 | It is Highnoon | 197740 | [197740-it-is-highnoon.json](./197740-it-is-highnoon.json) |
