@@ -4512,6 +4512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminalphobia | 149555 | [149555-liminalphobia.json](./149555-liminalphobia.json) |
 | Liminoid | 413643 | [413643-liminoid.json](./413643-liminoid.json) |
 | Limit Break | 359075 | [359075-limit-break.json](./359075-limit-break.json) |
+| Limit Buffet | 260505 | [260505-limit-buffet.json](./260505-limit-buffet.json) |
 | Limit Choice | 253601 | [253601-limit-choice.json](./253601-limit-choice.json) |
 | Limit Zero Breakers | 361763 | [361763-limit-zero-breakers.json](./361763-limit-zero-breakers.json) |
 | LiMiT's Escape Room Games | 196161 | [196161-limits-escape-room-games.json](./196161-limits-escape-room-games.json) |
@@ -8167,6 +8168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi and the Quest for Nothing 2 | 265883 | [265883-luigi-and-the-quest-for-nothing-2.json](./265883-luigi-and-the-quest-for-nothing-2.json) |
 | Luigi and the Quest for Nothing Revisited | 381732 | [381732-luigi-and-the-quest-for-nothing-revisited.json](./381732-luigi-and-the-quest-for-nothing-revisited.json) |
 | Luigi and the Quest for Nothing: Enhanced | 322380 | [322380-luigi-and-the-quest-for-nothing-enhanced.json](./322380-luigi-and-the-quest-for-nothing-enhanced.json) |
+| Luigi and the Violet Stars | 260842 | [260842-luigi-and-the-violet-stars.json](./260842-luigi-and-the-violet-stars.json) |
 | Luigi Doesn't Drink A Glass of Milk | 250050 | [250050-luigi-doesnt-drink-a-glass-of-milk.json](./250050-luigi-doesnt-drink-a-glass-of-milk.json) |
 | Luigi en Circusland | 70304 | [70304-luigi-en-circusland.json](./70304-luigi-en-circusland.json) |
 | Luigi Floating on an Egg Over the Sea | 307668 | [307668-luigi-floating-on-an-egg-over-the-sea.json](./307668-luigi-floating-on-an-egg-over-the-sea.json) |
@@ -8202,7 +8204,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion: Labyrinth of Shadows | 313413 | [313413-luigis-mansion-labyrinth-of-shadows.json](./313413-luigis-mansion-labyrinth-of-shadows.json) |
 | Luigi's Mansion: Premium Deluxe | 259268 | [259268-luigis-mansion-premium-deluxe.json](./259268-luigis-mansion-premium-deluxe.json) |
 | Luigi's Mansion: Sweet Home | 308372 | [308372-luigis-mansion-sweet-home.json](./308372-luigis-mansion-sweet-home.json) |
+| Luigi's Misadventures 2: Leviathan's Mania | 260815 | [260815-luigis-misadventures-2-leviathans-mania.json](./260815-luigis-misadventures-2-leviathans-mania.json) |
+| Luigi's Misadventures 3: Recipe for a Disaster | 260820 | [260820-luigis-misadventures-3-recipe-for-a-disaster.json](./260820-luigis-misadventures-3-recipe-for-a-disaster.json) |
+| Luigi's Misadventures 4: Galactic Kids Next Door | 260821 | [260821-luigis-misadventures-4-galactic-kids-next-door.json](./260821-luigis-misadventures-4-galactic-kids-next-door.json) |
 | Luigi's Misadventures 5: Rougenia Merald's Challenge | 276789 | [276789-luigis-misadventures-5-rougenia-meralds-challenge.json](./276789-luigis-misadventures-5-rougenia-meralds-challenge.json) |
+| Luigi's Misadventures: Tsux Namine's Factor | 260816 | [260816-luigis-misadventures-tsux-namines-factor.json](./260816-luigis-misadventures-tsux-namines-factor.json) |
 | Luigi's Other Mansion | 259838 | [259838-luigis-other-mansion.json](./259838-luigis-other-mansion.json) |
 | Luigi's Quest | 313088 | [313088-luigis-quest.json](./313088-luigis-quest.json) |
 | Luigi's Quest: Trouble in Sarasaland | 323612 | [323612-luigis-quest-trouble-in-sarasaland.json](./323612-luigis-quest-trouble-in-sarasaland.json) |
