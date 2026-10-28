@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QB Debugger Hero | 384786 | [384786-qb-debugger-hero.json](./384786-qb-debugger-hero.json) |
 | QB Planets | 150686 | [150686-qb-planets.json](./150686-qb-planets.json) |
 | QB Sim | 106501 | [106501-qb-sim.json](./106501-qb-sim.json) |
+| QB-3 | 258812 | [258812-qb-3.json](./258812-qb-3.json) |
 | Qbasic Gorillas | 11690 | [11690-qbasic-gorillas.json](./11690-qbasic-gorillas.json) |
 | QBeez 2 | 304318 | [304318-qbeez-2.json](./304318-qbeez-2.json) |
 | Qbeh-1: The Atlas Cube | 10746 | [10746-qbeh-1-the-atlas-cube.json](./10746-qbeh-1-the-atlas-cube.json) |
