@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Skills | 84076 | [84076-paint-skills.json](./84076-paint-skills.json) |
 | Paint Splash | 85326 | [85326-paint-splash.json](./85326-paint-splash.json) |
 | Paint the Snow: Idle | 365230 | [365230-paint-the-snow-idle.json](./365230-paint-the-snow-idle.json) |
+| Paint the Town Red VR | 253179 | [253179-paint-the-town-red-vr.json](./253179-paint-the-town-red-vr.json) |
 | Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
 | Paint Tower! | 88763 | [88763-paint-tower.json](./88763-paint-tower.json) |
 | Paint Tubes | 108217 | [108217-paint-tubes.json](./108217-paint-tubes.json) |
@@ -1779,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel Kingdom | 70600 | [70600-parallel-kingdom.json](./70600-parallel-kingdom.json) |
 | Parallel Lab | 198114 | [198114-parallel-lab.json](./198114-parallel-lab.json) |
 | Parallel Olympus | 156132 | [156132-parallel-olympus.json](./156132-parallel-olympus.json) |
+| Parallel Pals | 253531 | [253531-parallel-pals.json](./253531-parallel-pals.json) |
 | Parallel Pixel | 103422 | [103422-parallel-pixel.json](./103422-parallel-pixel.json) |
 | Parallel Plague: Good Old Days | 290487 | [290487-parallel-plague-good-old-days.json](./290487-parallel-plague-good-old-days.json) |
 | Parallel Rift | 332300 | [332300-parallel-rift.json](./332300-parallel-rift.json) |
@@ -13703,6 +13705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hospital: Traumatology Department | 154598 | [154598-project-hospital-traumatology-department.json](./154598-project-hospital-traumatology-department.json) |
 | Project Hover | 306319 | [306319-project-hover.json](./306319-project-hover.json) |
 | Project Hovercraft | 32181 | [32181-project-hovercraft.json](./32181-project-hovercraft.json) |
+| Project Hoyrá | 253403 | [253403-project-hoyra.json](./253403-project-hoyra.json) |
 | Project Hunt | 253516 | [253516-project-hunt.json](./253516-project-hunt.json) |
 | Project Hybrid | 269223 | [269223-project-hybrid.json](./269223-project-hybrid.json) |
 | Project Hyrax: Beyond Time | 197728 | [197728-project-hyrax-beyond-time.json](./197728-project-hyrax-beyond-time.json) |
