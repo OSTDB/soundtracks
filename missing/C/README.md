@@ -1873,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Racing: High on Fuel | 241825 | [241825-car-racing-high-on-fuel.json](./241825-car-racing-high-on-fuel.json) |
 | Car Racing: Highway Driving Simulator | 219455 | [219455-car-racing-highway-driving-simulator.json](./219455-car-racing-highway-driving-simulator.json) |
 | Car Racing: Highway Driving Simulator - Premium Edition | 283153 | [283153-car-racing-highway-driving-simulator-premium-edition.json](./283153-car-racing-highway-driving-simulator-premium-edition.json) |
+| Car Rental Simulator | 235903 | [235903-car-rental-simulator.json](./235903-car-rental-simulator.json) |
 | Car Rental Simulator | 380054 | [380054-car-rental-simulator.json](./380054-car-rental-simulator.json) |
 | Car Rush I | 254387 | [254387-car-rush-i.json](./254387-car-rush-i.json) |
 | Car Saler Simulator 2023 | 267347 | [267347-car-saler-simulator-2023.json](./267347-car-saler-simulator-2023.json) |
@@ -7755,6 +7756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadel Zero | 410470 | [410470-citadel-zero.json](./410470-citadel-zero.json) |
 | Citadel: Forged With Fire | 47823 | [47823-citadel-forged-with-fire.json](./47823-citadel-forged-with-fire.json) |
 | Citadel's Keeper | 295103 | [295103-citadels-keeper.json](./295103-citadels-keeper.json) |
+| Citadelic | 235911 | [235911-citadelic.json](./235911-citadelic.json) |
 | Citadels | 2804 | [2804-citadels.json](./2804-citadels.json) |
 | Citadelum | 284973 | [284973-citadelum.json](./284973-citadelum.json) |
 | CitaDrill | 329383 | [329383-citadrill.json](./329383-citadrill.json) |
@@ -11561,6 +11563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ConflictCraft | 32255 | [32255-conflictcraft.json](./32255-conflictcraft.json) |
 | ConflictCraft 2 | 190087 | [190087-conflictcraft-2.json](./190087-conflictcraft-2.json) |
 | Confluence: An Of Sense and Soul Soliloquy | 338884 | [338884-confluence-an-of-sense-and-soul-soliloquy.json](./338884-confluence-an-of-sense-and-soul-soliloquy.json) |
+| Conflux | 235930 | [235930-conflux.json](./235930-conflux.json) |
 | Conflux | 245976 | [245976-conflux.json](./245976-conflux.json) |
 | Conflux | 320520 | [320520-conflux.json](./320520-conflux.json) |
 | Confound Game | 358222 | [358222-confound-game.json](./358222-confound-game.json) |
@@ -11819,6 +11822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console War Giant | 407313 | [407313-console-war-giant.json](./407313-console-war-giant.json) |
 | Consonance | 374596 | [374596-consonance.json](./374596-consonance.json) |
 | Consortium | 9572 | [9572-consortium.json](./9572-consortium.json) |
+| Consortium VR | 235940 | [235940-consortium-vr.json](./235940-consortium-vr.json) |
 | Consorts of the Emperor | 402695 | [402695-consorts-of-the-emperor.json](./402695-consorts-of-the-emperor.json) |
 | Consortya | 150999 | [150999-consortya.json](./150999-consortya.json) |
 | Conspiracies of the Heart | 299004 | [299004-conspiracies-of-the-heart.json](./299004-conspiracies-of-the-heart.json) |
@@ -12480,6 +12484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cop Officers: Police Simulator of NYPD City | 302239 | [302239-cop-officers-police-simulator-of-nypd-city.json](./302239-cop-officers-police-simulator-of-nypd-city.json) |
 | Cop Police Escape: Racing Zone Clash | 254690 | [254690-cop-police-escape-racing-zone-clash.json](./254690-cop-police-escape-racing-zone-clash.json) |
 | Cop Rush | 368289 | [368289-cop-rush.json](./368289-cop-rush.json) |
+| Cop Simulator | 235943 | [235943-cop-simulator.json](./235943-cop-simulator.json) |
 | Cop-Out | 13515 | [13515-cop-out.json](./13515-cop-out.json) |
 | Copa City | 305177 | [305177-copa-city.json](./305177-copa-city.json) |
 | Copa City: Elite Tifo Collection | 406909 | [406909-copa-city-elite-tifo-collection.json](./406909-copa-city-elite-tifo-collection.json) |
@@ -13498,6 +13503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cow Chess | 331281 | [331281-cow-chess.json](./331281-cow-chess.json) |
 | Cow Defender | 97441 | [97441-cow-defender.json](./97441-cow-defender.json) |
 | Cow Evolution | 203205 | [203205-cow-evolution.json](./203205-cow-evolution.json) |
+| Cow Girl 2 | 235931 | [235931-cow-girl-2.json](./235931-cow-girl-2.json) |
 | Cow Hunter | 200371 | [200371-cow-hunter.json](./200371-cow-hunter.json) |
 | Cow Life Sim RPG | 281348 | [281348-cow-life-sim-rpg.json](./281348-cow-life-sim-rpg.json) |
 | Cow Milking Simulator | 74988 | [74988-cow-milking-simulator.json](./74988-cow-milking-simulator.json) |
