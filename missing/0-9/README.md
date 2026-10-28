@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 em 1: Game 9 | 245226 | [245226-20-em-1-game-9.json](./245226-20-em-1-game-9.json) |
 | 20 Floors | 405472 | [405472-20-floors.json](./405472-20-floors.json) |
 | 20 Games to Play With Your Mates | 98877 | [98877-20-games-to-play-with-your-mates.json](./98877-20-games-to-play-with-your-mates.json) |
+| 20 in 1 | 263636 | [263636-20-in-1.json](./263636-20-in-1.json) |
 | 20 in 1 Family Games Mega Collection | 386365 | [386365-20-in-1-family-games-mega-collection.json](./386365-20-in-1-family-games-mega-collection.json) |
 | 20 Minute Metropolis | 124263 | [124263-20-minute-metropolis.json](./124263-20-minute-metropolis.json) |
 | 20 Minutes Till Dawn | 199748 | [199748-20-minutes-till-dawn.json](./199748-20-minutes-till-dawn.json) |
@@ -2035,6 +2036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D MiniGolf: Makeover-Edition | 327436 | [327436-3d-minigolf-makeover-edition.json](./327436-3d-minigolf-makeover-edition.json) |
 | 3D Modern Tower | 357832 | [357832-3d-modern-tower.json](./357832-3d-modern-tower.json) |
 | 3D Morpion | 324513 | [324513-3d-morpion.json](./324513-3d-morpion.json) |
+| 3D Movie Maker | 263635 | [263635-3d-movie-maker.json](./263635-3d-movie-maker.json) |
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
 | 3D Next Puzzle | 357971 | [357971-3d-next-puzzle.json](./357971-3d-next-puzzle.json) |
 | 3D Ninja Fighter | 217715 | [217715-3d-ninja-fighter.json](./217715-3d-ninja-fighter.json) |
@@ -2337,6 +2339,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 42 Ways to Die in Space | 199346 | [199346-42-ways-to-die-in-space.json](./199346-42-ways-to-die-in-space.json) |
 | 420 Button Clicker | 124689 | [124689-420-button-clicker.json](./124689-420-button-clicker.json) |
 | 420Blaze It 2: Game of the Year | 298607 | [298607-420blaze-it-2-game-of-the-year.json](./298607-420blaze-it-2-game-of-the-year.json) |
+| 428 in 1 | 263634 | [263634-428-in-1.json](./263634-428-in-1.json) |
+| 428 in 1 vol. 3 | 263632 | [263632-428-in-1-vol-3.json](./263632-428-in-1-vol-3.json) |
 | 428: Shibuya Scramble | 95069 | [95069-428-shibuya-scramble.json](./95069-428-shibuya-scramble.json) |
 | 4294967296 | 319995 | [319995-4294967296.json](./319995-4294967296.json) |
 | 42nd Street | 84338 | [84338-42nd-street.json](./84338-42nd-street.json) |
@@ -2961,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Till Void | 133230 | [133230-9-till-void.json](./133230-9-till-void.json) |
 | 9 to 5 Smash It | 107028 | [107028-9-to-5-smash-it.json](./107028-9-to-5-smash-it.json) |
 | 9 To Ashes | 377407 | [377407-9-to-ashes.json](./377407-9-to-ashes.json) |
+| 9 to Die | 263616 | [263616-9-to-die.json](./263616-9-to-die.json) |
 | 9 Trials of Whiskers | 346187 | [346187-9-trials-of-whiskers.json](./346187-9-trials-of-whiskers.json) |
 | 9 Ways: Hentai Harem | 337785 | [337785-9-ways-hentai-harem.json](./337785-9-ways-hentai-harem.json) |
 | 9 Years of Dreaming | 337786 | [337786-9-years-of-dreaming.json](./337786-9-years-of-dreaming.json) |
