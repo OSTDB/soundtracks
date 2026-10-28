@@ -7209,6 +7209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitum | 187287 | [187287-gravitum.json](./187287-gravitum.json) |
 | Gravitus Minus | 185311 | [185311-gravitus-minus.json](./185311-gravitus-minus.json) |
 | GraviTV | 187291 | [187291-gravitv.json](./187291-gravitv.json) |
+| Gravitwist | 277443 | [277443-gravitwist.json](./277443-gravitwist.json) |
 | Gravity | 109175 | [109175-gravity.json](./109175-gravity.json) |
 | Gravity | 12125 | [12125-gravity.json](./12125-gravity.json) |
 | Gravity | 177540 | [177540-gravity.json](./177540-gravity.json) |
