@@ -7415,6 +7415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel-Warfare: Pro | 31256 | [31256-pixel-warfare-pro.json](./31256-pixel-warfare-pro.json) |
 | Pixel: Are You Squared? | 35701 | [35701-pixel-are-you-squared.json](./35701-pixel-are-you-squared.json) |
 | Pixel's Hallows Eve | 139209 | [139209-pixels-hallows-eve.json](./139209-pixels-hallows-eve.json) |
+| Pixel's Time Paradox | 254264 | [254264-pixels-time-paradox.json](./254264-pixels-time-paradox.json) |
 | Pixel's Unknown Battle Ground | 90958 | [90958-pixels-unknown-battle-ground.json](./90958-pixels-unknown-battle-ground.json) |
 | Pixelance | 382883 | [382883-pixelance.json](./382883-pixelance.json) |
 | Pixelarium | 117853 | [117853-pixelarium.json](./117853-pixelarium.json) |
@@ -7608,6 +7609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza at Resort 64 | 394367 | [394367-pizza-at-resort-64.json](./394367-pizza-at-resort-64.json) |
 | Pizza Bandit | 258559 | [258559-pizza-bandit.json](./258559-pizza-bandit.json) |
 | Pizza Bar Tycoon | 125058 | [125058-pizza-bar-tycoon.json](./125058-pizza-bar-tycoon.json) |
+| Pizza Bar Tycoon: Co-op Edition | 254641 | [254641-pizza-bar-tycoon-co-op-edition.json](./254641-pizza-bar-tycoon-co-op-edition.json) |
 | Pizza Bar Tycoon: Complete Edition | 222235 | [222235-pizza-bar-tycoon-complete-edition.json](./222235-pizza-bar-tycoon-complete-edition.json) |
 | Pizza Bar Tycoon: Discovery Edition | 330205 | [330205-pizza-bar-tycoon-discovery-edition.json](./330205-pizza-bar-tycoon-discovery-edition.json) |
 | Pizza Bar Tycoon: Expansion Pack 1 | 237977 | [237977-pizza-bar-tycoon-expansion-pack-1.json](./237977-pizza-bar-tycoon-expansion-pack-1.json) |
@@ -7767,6 +7769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Masters | 154012 | [154012-plague-masters.json](./154012-plague-masters.json) |
 | Plague of Athens VR | 327895 | [327895-plague-of-athens-vr.json](./327895-plague-of-athens-vr.json) |
 | Plague of Days | 118322 | [118322-plague-of-days.json](./118322-plague-of-days.json) |
+| Plague of the Moon | 254269 | [254269-plague-of-the-moon.json](./254269-plague-of-the-moon.json) |
 | Plague of Yamorn | 237230 | [237230-plague-of-yamorn.json](./237230-plague-of-yamorn.json) |
 | Plague Squad | 113873 | [113873-plague-squad.json](./113873-plague-squad.json) |
 | Plague Universe | 246884 | [246884-plague-universe.json](./246884-plague-universe.json) |
