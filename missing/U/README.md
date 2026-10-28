@@ -2747,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uplands Motel | 55750 | [55750-uplands-motel.json](./55750-uplands-motel.json) |
 | Uplife | 236775 | [236775-uplife.json](./236775-uplife.json) |
 | Uplifting | 159549 | [159549-uplifting.json](./159549-uplifting.json) |
+| Uplink | 273741 | [273741-uplink.json](./273741-uplink.json) |
 | Uplink | 8587 | [8587-uplink.json](./8587-uplink.json) |
 | Upload | 382312 | [382312-upload.json](./382312-upload.json) |
 | Upload Aliens | 390102 | [390102-upload-aliens.json](./390102-upload-aliens.json) |
