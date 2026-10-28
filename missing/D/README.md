@@ -908,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Wall! | 52843 | [52843-danger-wall.json](./52843-danger-wall.json) |
 | Danger World | 121616 | [121616-danger-world.json](./121616-danger-world.json) |
 | Danger World | 345965 | [345965-danger-world.json](./345965-danger-world.json) |
+| Danger Zone | 277687 | [277687-danger-zone.json](./277687-danger-zone.json) |
 | Danger Zone 2 | 104231 | [104231-danger-zone-2.json](./104231-danger-zone-2.json) |
 | Danger Zone Friends | 135044 | [135044-danger-zone-friends.json](./135044-danger-zone-friends.json) |
 | Danger, Bob-omb! Danger!: Handle with Care | 322377 | [322377-danger-bob-omb-danger-handle-with-care.json](./322377-danger-bob-omb-danger-handle-with-care.json) |
@@ -4691,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeprealm Odyssey: Adventure game | 208917 | [208917-deeprealm-odyssey-adventure-game.json](./208917-deeprealm-odyssey-adventure-game.json) |
 | Deepsea Salvor | 128375 | [128375-deepsea-salvor.json](./128375-deepsea-salvor.json) |
 | DeepSea Serenity: VR Underwater Trip | 288786 | [288786-deepsea-serenity-vr-underwater-trip.json](./288786-deepsea-serenity-vr-underwater-trip.json) |
+| Deepspace | 278007 | [278007-deepspace.json](./278007-deepspace.json) |
 | Deepspace Emporium | 332569 | [332569-deepspace-emporium.json](./332569-deepspace-emporium.json) |
 | DeepStates VR | 154272 | [154272-deepstates-vr.json](./154272-deepstates-vr.json) |
 | Deepstone Rift | 372644 | [372644-deepstone-rift.json](./372644-deepstone-rift.json) |
@@ -8333,6 +8335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dio's Bizarre Boutique | 184747 | [184747-dios-bizarre-boutique.json](./184747-dios-bizarre-boutique.json) |
 | Diode Arena | 207336 | [207336-diode-arena.json](./207336-diode-arena.json) |
 | Dion | 338341 | [338341-dion.json](./338341-dion.json) |
+| Dionysos Wars | 277996 | [277996-dionysos-wars.json](./277996-dionysos-wars.json) |
 | Dionysus | 412410 | [412410-dionysus.json](./412410-dionysus.json) |
 | Diora | 288688 | [288688-diora.json](./288688-diora.json) |
 | Diorama Battle of Ninja | 32948 | [32948-diorama-battle-of-ninja.json](./32948-diorama-battle-of-ninja.json) |
