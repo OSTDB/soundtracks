@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Spiele-Hits Vol. 1 | 131290 | [131290-10-spiele-hits-vol-1.json](./131290-10-spiele-hits-vol-1.json) |
 | 10 Talismans | 205801 | [205801-10-talismans.json](./205801-10-talismans.json) |
 | 10 Things You Can Be | 379985 | [379985-10-things-you-can-be.json](./379985-10-things-you-can-be.json) |
+| 10 voor Taal | 268068 | [268068-10-voor-taal.json](./268068-10-voor-taal.json) |
 | 10 Ways From Sunday | 165500 | [165500-10-ways-from-sunday.json](./165500-10-ways-from-sunday.json) |
 | 10 Years After | 36024 | [36024-10-years-after.json](./36024-10-years-after.json) |
 | 10-103: Null Kelvin | 176835 | [176835-10-103-null-kelvin.json](./176835-10-103-null-kelvin.json) |
@@ -673,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100$ | 231486 | [231486-100.json](./231486-100.json) |
 | 1000 Amps | 6281 | [6281-1000-amps.json](./6281-1000-amps.json) |
 | 1000 Best Solitaire Games | 292004 | [292004-1000-best-solitaire-games.json](./292004-1000-best-solitaire-games.json) |
+| 1000 Bornes: Coups-Fourres et Courses Folles! | 268069 | [268069-1000-bornes-coups-fourres-et-courses-folles.json](./268069-1000-bornes-coups-fourres-et-courses-folles.json) |
 | 1000 Cuts: Jomaku | 288725 | [288725-1000-cuts-jomaku.json](./288725-1000-cuts-jomaku.json) |
 | 1000 Days of Syria | 174227 | [174227-1000-days-of-syria.json](./174227-1000-days-of-syria.json) |
 | 1000 Deaths | 172435 | [172435-1000-deaths.json](./172435-1000-deaths.json) |
@@ -706,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000xResist | 218282 | [218282-1000xresist.json](./218282-1000xresist.json) |
 | 1001 BC: A Mediterranean Odyssey | 12353 | [12353-1001-bc-a-mediterranean-odyssey.json](./12353-1001-bc-a-mediterranean-odyssey.json) |
 | 1001 Black Raven Jigsaw | 199356 | [199356-1001-black-raven-jigsaw.json](./199356-1001-black-raven-jigsaw.json) |
+| 1001 Crosswords | 268070 | [268070-1001-crosswords.json](./268070-1001-crosswords.json) |
 | 1001 Crystal Mazes Collection | 66625 | [66625-1001-crystal-mazes-collection.json](./66625-1001-crystal-mazes-collection.json) |
 | 1001 Hugs | 126261 | [126261-1001-hugs.json](./126261-1001-hugs.json) |
 | 1001 Jigsaw American Puzzles | 195421 | [195421-1001-jigsaw-american-puzzles.json](./195421-1001-jigsaw-american-puzzles.json) |
@@ -875,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10tons Action Puzzle Bundle | 83747 | [83747-10tons-action-puzzle-bundle.json](./83747-10tons-action-puzzle-bundle.json) |
 | 10tons Adventure Puzzles Bundle | 82461 | [82461-10tons-adventure-puzzles-bundle.json](./82461-10tons-adventure-puzzles-bundle.json) |
 | 10tons Cyberpunk Bundle | 83746 | [83746-10tons-cyberpunk-bundle.json](./83746-10tons-cyberpunk-bundle.json) |
+| 11 Card Games | 268072 | [268072-11-card-games.json](./268072-11-card-games.json) |
 | 11 Doors: Escape From Prison | 358066 | [358066-11-doors-escape-from-prison.json](./358066-11-doors-escape-from-prison.json) |
 | 11 Eyes: CrossOver | 47396 | [47396-11-eyes-crossover.json](./47396-11-eyes-crossover.json) |
 | 11 Trials of Raz | 379454 | [379454-11-trials-of-raz.json](./379454-11-trials-of-raz.json) |
@@ -1060,6 +1064,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1500 DS Spirits Vol. 3: Block Kuzushi | 69129 | [69129-1500-ds-spirits-vol-3-block-kuzushi.json](./69129-1500-ds-spirits-vol-3-block-kuzushi.json) |
 | 1500 DS Spirits Vol. 4: Reversi | 100196 | [100196-1500-ds-spirits-vol-4-reversi.json](./100196-1500-ds-spirits-vol-4-reversi.json) |
 | 1500 DS Spirits Vol. 5: Hanafuda | 79546 | [79546-1500-ds-spirits-vol-5-hanafuda.json](./79546-1500-ds-spirits-vol-5-hanafuda.json) |
+| 1500 DS Spirits: Mahjong V | 268074 | [268074-1500-ds-spirits-mahjong-v.json](./268074-1500-ds-spirits-mahjong-v.json) |
+| 1500 DS Spirits: Shogi V | 268075 | [268075-1500-ds-spirits-shogi-v.json](./268075-1500-ds-spirits-shogi-v.json) |
 | 1500DS Spirits Vol. 6: Trump | 79186 | [79186-1500ds-spirits-vol-6-trump.json](./79186-1500ds-spirits-vol-6-trump.json) |
 | 1500DS Spirits Vol. 7: Chess | 79959 | [79959-1500ds-spirits-vol-7-chess.json](./79959-1500ds-spirits-vol-7-chess.json) |
 | 153 Hand Video Poker | 84670 | [84670-153-hand-video-poker.json](./84670-153-hand-video-poker.json) |
