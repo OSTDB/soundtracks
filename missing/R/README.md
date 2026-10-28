@@ -2853,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaper's Odyssey | 319809 | [319809-reapers-odyssey.json](./319809-reapers-odyssey.json) |
 | Reaper's Rite | 297561 | [297561-reapers-rite.json](./297561-reapers-rite.json) |
 | Reapers | 267448 | [267448-reapers.json](./267448-reapers.json) |
+| Reapers Inc. | 258573 | [258573-reapers-inc.json](./258573-reapers-inc.json) |
 | Reapers Reception | 406923 | [406923-reapers-reception.json](./406923-reapers-reception.json) |
 | Reaping Rewards | 41143 | [41143-reaping-rewards.json](./41143-reaping-rewards.json) |
 | Reaplaced | 270545 | [270545-reaplaced.json](./270545-reaplaced.json) |
@@ -4488,6 +4489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reparative | 177376 | [177376-reparative.json](./177376-reparative.json) |
 | Repartiendo Máscaras por Carratraca | 388511 | [388511-repartiendo-mascaras-por-carratraca.json](./388511-repartiendo-mascaras-por-carratraca.json) |
 | Repeat After Death | 327162 | [327162-repeat-after-death.json](./327162-repeat-after-death.json) |
+| Repeat After Me | 258598 | [258598-repeat-after-me.json](./258598-repeat-after-me.json) |
 | Repeat It Back To Me | 397840 | [397840-repeat-it-back-to-me.json](./397840-repeat-it-back-to-me.json) |
 | Repeat the Ending | 275602 | [275602-repeat-the-ending.json](./275602-repeat-the-ending.json) |
 | Repeat the image: Animals | 106425 | [106425-repeat-the-image-animals.json](./106425-repeat-the-image-animals.json) |
@@ -5987,6 +5989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythmica | 74223 | [74223-rhythmica.json](./74223-rhythmica.json) |
 | RhythmicTypeX | 279152 | [279152-rhythmictypex.json](./279152-rhythmictypex.json) |
 | Rhythmkill | 361064 | [361064-rhythmkill.json](./361064-rhythmkill.json) |
+| RhythmMMO | 258589 | [258589-rhythmmmo.json](./258589-rhythmmmo.json) |
 | Rhythmos | 194291 | [194291-rhythmos.json](./194291-rhythmos.json) |
 | RhythmPG | 179610 | [179610-rhythmpg.json](./179610-rhythmpg.json) |
 | Rhythmscapes | 317017 | [317017-rhythmscapes.json](./317017-rhythmscapes.json) |
@@ -7117,6 +7120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riven: The Sequel to Myst | 339943 | [339943-riven-the-sequel-to-myst.json](./339943-riven-the-sequel-to-myst.json) |
 | Riven: The Sequel to Myst | 347131 | [347131-riven-the-sequel-to-myst.json](./347131-riven-the-sequel-to-myst.json) |
 | Rivenaar's Grove | 324038 | [324038-rivenaars-grove.json](./324038-rivenaars-grove.json) |
+| Rivencrest | 258305 | [258305-rivencrest.json](./258305-rivencrest.json) |
 | Rivengard | 142891 | [142891-rivengard.json](./142891-rivengard.json) |
 | RivenTails Defense | 99080 | [99080-riventails-defense.json](./99080-riventails-defense.json) |
 | RivenWorld: The First Era | 236937 | [236937-rivenworld-the-first-era.json](./236937-rivenworld-the-first-era.json) |
