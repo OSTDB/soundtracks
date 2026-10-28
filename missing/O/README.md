@@ -4509,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutDrive | 18077 | [18077-outdrive.json](./18077-outdrive.json) |
 | Outer | 175597 | [175597-outer.json](./175597-outer.json) |
 | Outer Base | 259394 | [259394-outer-base.json](./259394-outer-base.json) |
+| Outer Colony | 247565 | [247565-outer-colony.json](./247565-outer-colony.json) |
 | Outer Darkness | 212963 | [212963-outer-darkness.json](./212963-outer-darkness.json) |
 | Outer Empires | 67317 | [67317-outer-empires.json](./67317-outer-empires.json) |
 | Outer Factory | 279106 | [279106-outer-factory.json](./279106-outer-factory.json) |
