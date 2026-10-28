@@ -781,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Eldoria | 333541 | [333541-echoes-of-eldoria.json](./333541-echoes-of-eldoria.json) |
 | Echoes of Eternea | 65281 | [65281-echoes-of-eternea.json](./65281-echoes-of-eternea.json) |
 | Echoes of Etheria | 266788 | [266788-echoes-of-etheria.json](./266788-echoes-of-etheria.json) |
+| Echoes of Fear | 275738 | [275738-echoes-of-fear.json](./275738-echoes-of-fear.json) |
 | Echoes of Fear | 384155 | [384155-echoes-of-fear.json](./384155-echoes-of-fear.json) |
 | Echoes of Forgotten Dreams | 340234 | [340234-echoes-of-forgotten-dreams.json](./340234-echoes-of-forgotten-dreams.json) |
 | Echoes of Formosa: Agent Reborn | 325059 | [325059-echoes-of-formosa-agent-reborn.json](./325059-echoes-of-formosa-agent-reborn.json) |
@@ -2473,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Em.Path | 320020 | [320020-em-path.json](./320020-em-path.json) |
 | EmagineWorld | 213402 | [213402-emagineworld.json](./213402-emagineworld.json) |
 | Emagon | 60783 | [60783-emagon.json](./60783-emagon.json) |
+| Emaki | 275434 | [275434-emaki.json](./275434-emaki.json) |
 | Eman Quest | 179400 | [179400-eman-quest.json](./179400-eman-quest.json) |
 | Emancipator Go! | 217456 | [217456-emancipator-go.json](./217456-emancipator-go.json) |
 | Emancy: Borderline War | 237650 | [237650-emancy-borderline-war.json](./237650-emancy-borderline-war.json) |
