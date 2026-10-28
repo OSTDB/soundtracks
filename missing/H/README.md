@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Trouble 8 | 420780 | [420780-halloween-trouble-8.json](./420780-halloween-trouble-8.json) |
 | Halloween Waifu | 378573 | [378573-halloween-waifu.json](./378573-halloween-waifu.json) |
 | Halloween with Veronica | 286397 | [286397-halloween-with-veronica.json](./286397-halloween-with-veronica.json) |
+| Halloween World | 267206 | [267206-halloween-world.json](./267206-halloween-world.json) |
 | Halloween: DinoBoo & The Valley of Shadows | 378822 | [378822-halloween-dinoboo-and-the-valley-of-shadows.json](./378822-halloween-dinoboo-and-the-valley-of-shadows.json) |
 | Halloween: Global Candy Cup 2015 | 275629 | [275629-halloween-global-candy-cup-2015.json](./275629-halloween-global-candy-cup-2015.json) |
 | Halloween: Jigsaw Puzzles | 72494 | [72494-halloween-jigsaw-puzzles.json](./72494-halloween-jigsaw-puzzles.json) |
@@ -1437,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Nuclear | 369704 | [369704-happy-nuclear.json](./369704-happy-nuclear.json) |
 | Happy Numbers | 149437 | [149437-happy-numbers.json](./149437-happy-numbers.json) |
 | Happy Orchard | 185530 | [185530-happy-orchard.json](./185530-happy-orchard.json) |
+| Happy Pairs | 267512 | [267512-happy-pairs.json](./267512-happy-pairs.json) |
 | Happy Pairs | 71185 | [71185-happy-pairs.json](./71185-happy-pairs.json) |
 | Happy Penguin VR | 28930 | [28930-happy-penguin-vr.json](./28930-happy-penguin-vr.json) |
 | Happy Pet Balance: Which is the heaviest? | 233538 | [233538-happy-pet-balance-which-is-the-heaviest.json](./233538-happy-pet-balance-which-is-the-heaviest.json) |
@@ -3814,12 +3816,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Kruisers with Sanrio Friends | 62781 | [62781-hello-kitty-kruisers-with-sanrio-friends.json](./62781-hello-kitty-kruisers-with-sanrio-friends.json) |
 | Hello Kitty Lovely Fruit Park | 36741 | [36741-hello-kitty-lovely-fruit-park.json](./36741-hello-kitty-lovely-fruit-park.json) |
 | Hello Kitty Lunchbox | 225660 | [225660-hello-kitty-lunchbox.json](./225660-hello-kitty-lunchbox.json) |
+| Hello Kitty Magical Block | 267504 | [267504-hello-kitty-magical-block.json](./267504-hello-kitty-magical-block.json) |
 | Hello Kitty Mahjong | 292106 | [292106-hello-kitty-mahjong.json](./292106-hello-kitty-mahjong.json) |
 | Hello Kitty Mahjong | 308184 | [308184-hello-kitty-mahjong.json](./308184-hello-kitty-mahjong.json) |
 | Hello Kitty Music Party | 288137 | [288137-hello-kitty-music-party.json](./288137-hello-kitty-music-party.json) |
 | Hello Kitty My Dream Store | 334062 | [334062-hello-kitty-my-dream-store.json](./334062-hello-kitty-my-dream-store.json) |
 | Hello Kitty no 'Otonaru' Mail | 279598 | [279598-hello-kitty-no-otonaru-mail.json](./279598-hello-kitty-no-otonaru-mail.json) |
 | Hello Kitty no Beads Koubou | 228559 | [228559-hello-kitty-no-beads-koubou.json](./228559-hello-kitty-no-beads-koubou.json) |
+| Hello Kitty no Garden Panic | 267503 | [267503-hello-kitty-no-garden-panic.json](./267503-hello-kitty-no-garden-panic.json) |
 | Hello Kitty no Gotouchi Collection: Koi no Doki-doki Travel | 269832 | [269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json](./269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json) |
 | Hello Kitty no Gotouchi Collection: Koi no DokiDoki Trouble | 274891 | [274891-hello-kitty-no-gotouchi-collection-koi-no-dokidoki-trouble.json](./274891-hello-kitty-no-gotouchi-collection-koi-no-dokidoki-trouble.json) |
 | Hello Kitty no Hanabatake | 3688 | [3688-hello-kitty-no-hanabatake.json](./3688-hello-kitty-no-hanabatake.json) |
@@ -7534,6 +7538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Warzone Edition | 305596 | [305596-hole-io-warzone-edition.json](./305596-hole-io-warzone-edition.json) |
 | Hole Is Mine | 404881 | [404881-hole-is-mine.json](./404881-hole-is-mine.json) |
 | Hole Land | 40348 | [40348-hole-land.json](./40348-hole-land.json) |
+| Hole Switch | 267492 | [267492-hole-switch.json](./267492-hole-switch.json) |
 | Hole Theory | 308512 | [308512-hole-theory.json](./308512-hole-theory.json) |
 | Hole War: The Abyss | 347732 | [347732-hole-war-the-abyss.json](./347732-hole-war-the-abyss.json) |
 | Hole Your Horses: Champion Edition | 394098 | [394098-hole-your-horses-champion-edition.json](./394098-hole-your-horses-champion-edition.json) |
