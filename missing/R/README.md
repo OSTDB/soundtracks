@@ -2888,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Inc. | 115206 | [115206-rebel-inc.json](./115206-rebel-inc.json) |
 | Rebel Infernal Path | 380793 | [380793-rebel-infernal-path.json](./380793-rebel-infernal-path.json) |
 | Rebel Kitsune | 177353 | [177353-rebel-kitsune.json](./177353-rebel-kitsune.json) |
+| Rebel Maneuver Linus | 264451 | [264451-rebel-maneuver-linus.json](./264451-rebel-maneuver-linus.json) |
 | Rebel Moon | 262644 | [262644-rebel-moon.json](./262644-rebel-moon.json) |
 | Rebel Moon Rising | 57628 | [57628-rebel-moon-rising.json](./57628-rebel-moon-rising.json) |
 | Rebel Pirates | 371238 | [371238-rebel-pirates.json](./371238-rebel-pirates.json) |
