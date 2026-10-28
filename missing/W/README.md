@@ -2826,6 +2826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Rituals in the Ancient Temples | 98403 | [98403-weird-rituals-in-the-ancient-temples.json](./98403-weird-rituals-in-the-ancient-temples.json) |
 | Weird RPG | 219144 | [219144-weird-rpg.json](./219144-weird-rpg.json) |
 | Weird RPG 2 | 286042 | [286042-weird-rpg-2.json](./286042-weird-rpg-2.json) |
+| Weird Shit is Going to Happen | 240960 | [240960-weird-shit-is-going-to-happen.json](./240960-weird-shit-is-going-to-happen.json) |
 | Weird Store | 252135 | [252135-weird-store.json](./252135-weird-store.json) |
 | Weird War: The Unknown Episode of World War II | 129543 | [129543-weird-war-the-unknown-episode-of-world-war-ii.json](./129543-weird-war-the-unknown-episode-of-world-war-ii.json) |
 | Weird Water World | 409629 | [409629-weird-water-world.json](./409629-weird-water-world.json) |
@@ -6676,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Trails | 305339 | [305339-word-trails.json](./305339-word-trails.json) |
 | Word Training Camp | 130929 | [130929-word-training-camp.json](./130929-word-training-camp.json) |
 | Word Travels | 205883 | [205883-word-travels.json](./205883-word-travels.json) |
+| Word Trip | 240973 | [240973-word-trip.json](./240973-word-trip.json) |
 | Word Tropics - Free Word Games and Puzzles | 106656 | [106656-word-tropics-free-word-games-and-puzzles.json](./106656-word-tropics-free-word-games-and-puzzles.json) |
 | Word Tuah | 338303 | [338303-word-tuah.json](./338303-word-tuah.json) |
 | Word Turtle Island | 301082 | [301082-word-turtle-island.json](./301082-word-turtle-island.json) |
