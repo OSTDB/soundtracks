@@ -8382,6 +8382,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Journey: Nitro | 219175 | [219175-classic-journey-nitro.json](./219175-classic-journey-nitro.json) |
 | Classic Kakuro | 206972 | [206972-classic-kakuro.json](./206972-classic-kakuro.json) |
 | Classic Kong | 134306 | [134306-classic-kong.json](./134306-classic-kong.json) |
+| Classic Mario World 2: The Great Alliance | 260812 | [260812-classic-mario-world-2-the-great-alliance.json](./260812-classic-mario-world-2-the-great-alliance.json) |
+| Classic Mario World 3: The Finale | 260813 | [260813-classic-mario-world-3-the-finale.json](./260813-classic-mario-world-3-the-finale.json) |
 | Classic Mario World: The Magic Crystals | 191909 | [191909-classic-mario-world-the-magic-crystals.json](./191909-classic-mario-world-the-magic-crystals.json) |
 | Classic Max Lite | 359478 | [359478-classic-max-lite.json](./359478-classic-max-lite.json) |
 | Classic Muncher | 13496 | [13496-classic-muncher.json](./13496-classic-muncher.json) |
@@ -11329,6 +11331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conatus: Forgotten Depths | 412216 | [412216-conatus-forgotten-depths.json](./412216-conatus-forgotten-depths.json) |
 | Conbunn Cardboard | 204099 | [204099-conbunn-cardboard.json](./204099-conbunn-cardboard.json) |
 | Conc Jump | 132852 | [132852-conc-jump.json](./132852-conc-jump.json) |
+| ConC.E.R.Ned | 260513 | [260513-conc-e-r-ned.json](./260513-conc-e-r-ned.json) |
 | Concave Shooter | 186166 | [186166-concave-shooter.json](./186166-concave-shooter.json) |
 | Concealed | 139783 | [139783-concealed.json](./139783-concealed.json) |
 | Concealed Intent | 35142 | [35142-concealed-intent.json](./35142-concealed-intent.json) |
@@ -13203,6 +13206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countermark Saga: The Tale of Fariz | 326209 | [326209-countermark-saga-the-tale-of-fariz.json](./326209-countermark-saga-the-tale-of-fariz.json) |
 | Countermeasure | 12306 | [12306-countermeasure.json](./12306-countermeasure.json) |
 | Counterpact | 221155 | [221155-counterpact.json](./221155-counterpact.json) |
+| Counterpick Labs | 260744 | [260744-counterpick-labs.json](./260744-counterpick-labs.json) |
 | Counterrealstic Syndrome γ | 130588 | [130588-counterrealstic-syndrome.json](./130588-counterrealstic-syndrome.json) |
 | CounterShots 1.0 | 131309 | [131309-countershots-1-0.json](./131309-countershots-1-0.json) |
 | CounterSide | 132648 | [132648-counterside.json](./132648-counterside.json) |
