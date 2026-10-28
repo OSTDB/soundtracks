@@ -3879,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight High | 127584 | [127584-fight-high.json](./127584-fight-high.json) |
 | Fight In Hole | 211248 | [211248-fight-in-hole.json](./211248-fight-in-hole.json) |
 | Fight in the Mind | 179478 | [179478-fight-in-the-mind.json](./179478-fight-in-the-mind.json) |
+| Fight Ippatsu! Juuden-Chan!! CC | 278831 | [278831-fight-ippatsu-juuden-chan-cc.json](./278831-fight-ippatsu-juuden-chan-cc.json) |
 | Fight Knight | 41814 | [41814-fight-knight.json](./41814-fight-knight.json) |
 | Fight League | 55822 | [55822-fight-league.json](./55822-fight-league.json) |
 | Fight Legends | 316068 | [316068-fight-legends.json](./316068-fight-legends.json) |
@@ -8283,6 +8284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest of Long Shadows | 356676 | [356676-forest-of-long-shadows.json](./356676-forest-of-long-shadows.json) |
 | Forest of Perdition | 286024 | [286024-forest-of-perdition.json](./286024-forest-of-perdition.json) |
 | Forest of Perdition 2: The School Trip | 315057 | [315057-forest-of-perdition-2-the-school-trip.json](./315057-forest-of-perdition-2-the-school-trip.json) |
+| Forest of Soul | 279141 | [279141-forest-of-soul.json](./279141-forest-of-soul.json) |
 | Forest Of Terenu | 369875 | [369875-forest-of-terenu.json](./369875-forest-of-terenu.json) |
 | Forest of the Abyss 2 | 98458 | [98458-forest-of-the-abyss-2.json](./98458-forest-of-the-abyss-2.json) |
 | Forest of the Dead | 133060 | [133060-forest-of-the-dead.json](./133060-forest-of-the-dead.json) |
@@ -9379,6 +9381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxes Need to Eat | 265864 | [265864-foxes-need-to-eat.json](./265864-foxes-need-to-eat.json) |
 | Foxes' Festival | 325909 | [325909-foxes-festival.json](./325909-foxes-festival.json) |
 | Foxfire | 404247 | [404247-foxfire.json](./404247-foxfire.json) |
+| FoxFire Mine | 279142 | [279142-foxfire-mine.json](./279142-foxfire-mine.json) |
 | Foxfolk | 52050 | [52050-foxfolk.json](./52050-foxfolk.json) |
 | FoxHaunt | 386279 | [386279-foxhaunt.json](./386279-foxhaunt.json) |
 | Foxhaven | 269966 | [269966-foxhaven.json](./269966-foxhaven.json) |
