@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Valentine's Day Quizzle | 232506 | [232506-a-valentines-day-quizzle.json](./232506-a-valentines-day-quizzle.json) |
 | A Valiant Story | 108484 | [108484-a-valiant-story.json](./108484-a-valiant-story.json) |
 | A Valley Without Wind | 1625 | [1625-a-valley-without-wind.json](./1625-a-valley-without-wind.json) |
+| A Vampire Romance: Paris Stories | 267511 | [267511-a-vampire-romance-paris-stories.json](./267511-a-vampire-romance-paris-stories.json) |
 | A Vampire Tale | 50283 | [50283-a-vampire-tale.json](./50283-a-vampire-tale.json) |
 | A Vampyre Story: Year One | 3137 | [3137-a-vampyre-story-year-one.json](./3137-a-vampyre-story-year-one.json) |
 | A Verdant Hue | 32234 | [32234-a-verdant-hue.json](./32234-a-verdant-hue.json) |
@@ -3597,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL Finals Fever | 72156 | [72156-afl-finals-fever.json](./72156-afl-finals-fever.json) |
 | AFL Live | 5477 | [5477-afl-live.json](./5477-afl-live.json) |
 | AFL Live 2 | 6907 | [6907-afl-live-2.json](./6907-afl-live-2.json) |
+| AFL Live: Premiership Edition | 267518 | [267518-afl-live-premiership-edition.json](./267518-afl-live-premiership-edition.json) |
 | AFL Mascot Manor | 91707 | [91707-afl-mascot-manor.json](./91707-afl-mascot-manor.json) |
 | AFL Premiership 2005 | 73847 | [73847-afl-premiership-2005.json](./73847-afl-premiership-2005.json) |
 | AFL Premiership 2006 | 43452 | [43452-afl-premiership-2006.json](./43452-afl-premiership-2006.json) |
@@ -8062,6 +8064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andarilho | 33289 | [33289-andarilho.json](./33289-andarilho.json) |
 | Andarin Weppes | 257888 | [257888-andarin-weppes.json](./257888-andarin-weppes.json) |
 | Andarin Weppes: Pre-Dementia | 289811 | [289811-andarin-weppes-pre-dementia.json](./289811-andarin-weppes-pre-dementia.json) |
+| Andaron Saga | 267530 | [267530-andaron-saga.json](./267530-andaron-saga.json) |
 | Andaron Saga: Randomizer | 315436 | [315436-andaron-saga-randomizer.json](./315436-andaron-saga-randomizer.json) |
 | AnderKant | 367493 | [367493-anderkant.json](./367493-anderkant.json) |
 | AnderKant 2 | 326243 | [326243-anderkant-2.json](./326243-anderkant-2.json) |
