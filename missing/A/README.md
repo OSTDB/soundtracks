@@ -3388,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial_Knight's Never Yield: Deluxe Edition | 169190 | [169190-aerial-knights-never-yield-deluxe-edition.json](./169190-aerial-knights-never-yield-deluxe-edition.json) |
 | Aerial_Knight's We Never Yield | 290947 | [290947-aerial-knights-we-never-yield.json](./290947-aerial-knights-we-never-yield.json) |
 | AerialDrop | 23326 | [23326-aerialdrop.json](./23326-aerialdrop.json) |
+| Aerion: The Last Alchemist | 247700 | [247700-aerion-the-last-alchemist.json](./247700-aerion-the-last-alchemist.json) |
 | Aeris | 288745 | [288745-aeris.json](./288745-aeris.json) |
 | Aeris & Zack | 157134 | [157134-aeris-and-zack.json](./157134-aeris-and-zack.json) |
 | Aero Cosmos | 335094 | [335094-aero-cosmos.json](./335094-aero-cosmos.json) |
@@ -9994,6 +9995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aphrodite Evolve Weapons Survivor: Greek Gods Versus Heaven | 404261 | [404261-aphrodite-evolve-weapons-survivor-greek-gods-versus-heaven.json](./404261-aphrodite-evolve-weapons-survivor-greek-gods-versus-heaven.json) |
 | Aphrodite's Bathhouse | 364091 | [364091-aphrodites-bathhouse.json](./364091-aphrodites-bathhouse.json) |
 | Apico | 135929 | [135929-apico.json](./135929-apico.json) |
+| Apico 2.0: I Can’t Beelieve it’s Not Butter(flies)! | 247558 | [247558-apico-2-0-i-can-t-beelieve-it-s-not-butter-flies.json](./247558-apico-2-0-i-can-t-beelieve-it-s-not-butter-flies.json) |
 | Apico 3.0: What Lies Beeneath | 317994 | [317994-apico-3-0-what-lies-beeneath.json](./317994-apico-3-0-what-lies-beeneath.json) |
 | Apico 4.0: Hive of Industry | 330561 | [330561-apico-4-0-hive-of-industry.json](./330561-apico-4-0-hive-of-industry.json) |
 | Apidya | 11906 | [11906-apidya.json](./11906-apidya.json) |
@@ -15195,6 +15197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auxworld | 272306 | [272306-auxworld.json](./272306-auxworld.json) |
 | AV Bishoujo Senshi Girl Fighting | 48591 | [48591-av-bishoujo-senshi-girl-fighting.json](./48591-av-bishoujo-senshi-girl-fighting.json) |
 | AV Director Life! | 346669 | [346669-av-director-life.json](./346669-av-director-life.json) |
+| AV Jiūjí Mahjong II | 247306 | [247306-av-jiuji-mahjong-ii.json](./247306-av-jiuji-mahjong-ii.json) |
 | AV Pachinko | 242089 | [242089-av-pachinko.json](./242089-av-pachinko.json) |
 | AV Sex Manager | 400407 | [400407-av-sex-manager.json](./400407-av-sex-manager.json) |
 | AV-17 | 110670 | [110670-av-17.json](./110670-av-17.json) |
