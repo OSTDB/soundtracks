@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xmas Presents | 393452 | [393452-xmas-presents.json](./393452-xmas-presents.json) |
 | Xmas Problem | 376515 | [376515-xmas-problem.json](./376515-xmas-problem.json) |
 | Xmas Puzzle | 62036 | [62036-xmas-puzzle.json](./62036-xmas-puzzle.json) |
+| Xmas Santa Mad Sleigh Run | 232082 | [232082-xmas-santa-mad-sleigh-run.json](./232082-xmas-santa-mad-sleigh-run.json) |
 | Xmas Shooting: Scramble!! | 26594 | [26594-xmas-shooting-scramble.json](./26594-xmas-shooting-scramble.json) |
 | Xmas Survivors | 382876 | [382876-xmas-survivors.json](./382876-xmas-survivors.json) |
 | Xmas Tripeaks | 95661 | [95661-xmas-tripeaks.json](./95661-xmas-tripeaks.json) |
@@ -796,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XMinutes: Wings | 47132 | [47132-xminutes-wings.json](./47132-xminutes-wings.json) |
 | XModule | 31495 | [31495-xmodule.json](./31495-xmodule.json) |
 | xMoon | 116946 | [116946-xmoon.json](./116946-xmoon.json) |
+| Xmos | 232108 | [232108-xmos.json](./232108-xmos.json) |
 | Xna | 45968 | [45968-xna.json](./45968-xna.json) |
 | xNetHack | 283536 | [283536-xnethack.json](./283536-xnethack.json) |
 | XO | 110270 | [110270-xo.json](./110270-xo.json) |
