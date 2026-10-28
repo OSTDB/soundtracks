@@ -5800,6 +5800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Island | 58211 | [58211-golf-island.json](./58211-golf-island.json) |
 | Golf Keeper | 130954 | [130954-golf-keeper.json](./130954-golf-keeper.json) |
 | Golf King: World Tour | 233430 | [233430-golf-king-world-tour.json](./233430-golf-king-world-tour.json) |
+| Golf knight | 232131 | [232131-golf-knight.json](./232131-golf-knight.json) |
 | Golf Loop | 329570 | [329570-golf-loop.json](./329570-golf-loop.json) |
 | Golf Master | 137673 | [137673-golf-master.json](./137673-golf-master.json) |
 | Golf Monday | 287234 | [287234-golf-monday.json](./287234-golf-monday.json) |
@@ -8600,6 +8601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growmancer | 344723 | [344723-growmancer.json](./344723-growmancer.json) |
 | Growmi | 302161 | [302161-growmi.json](./302161-growmi.json) |
 | Growmon Island | 374908 | [374908-growmon-island.json](./374908-growmon-island.json) |
+| Grows: Journey to the Sunshine | 232096 | [232096-grows-journey-to-the-sunshine.json](./232096-grows-journey-to-the-sunshine.json) |
 | Growth | 229675 | [229675-growth.json](./229675-growth.json) |
 | Growth | 280208 | [280208-growth.json](./280208-growth.json) |
 | Growth | 331885 | [331885-growth.json](./331885-growth.json) |
