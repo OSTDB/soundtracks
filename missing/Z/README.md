@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZigZag | 26920 | [26920-zigzag.json](./26920-zigzag.json) |
 | ZigZag Drifter | 302392 | [302392-zigzag-drifter.json](./302392-zigzag-drifter.json) |
 | Zigzag Infinite Runner | 123480 | [123480-zigzag-infinite-runner.json](./123480-zigzag-infinite-runner.json) |
+| ZigZagging Ski | 236455 | [236455-zigzagging-ski.json](./236455-zigzagging-ski.json) |
 | Ziircon | 211277 | [211277-ziircon.json](./211277-ziircon.json) |
 | ZikSquare | 124130 | [124130-ziksquare.json](./124130-ziksquare.json) |
 | ZiL Truck RallyCross | 29339 | [29339-zil-truck-rallycross.json](./29339-zil-truck-rallycross.json) |
