@@ -2545,6 +2545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ManaRocks | 77163 | [77163-manarocks.json](./77163-manarocks.json) |
 | Manas | 249359 | [249359-manas.json](./249359-manas.json) |
 | Manascape | 257933 | [257933-manascape.json](./257933-manascape.json) |
+| ManaSoul | 274305 | [274305-manasoul.json](./274305-manasoul.json) |
 | Manastone | 388263 | [388263-manastone.json](./388263-manastone.json) |
 | Manastorm | 30709 | [30709-manastorm.json](./30709-manastorm.json) |
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
@@ -18707,6 +18708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Black Isle - Collector's Edition | 107859 | [107859-mystery-trackers-black-isle-collectors-edition.json](./107859-mystery-trackers-black-isle-collectors-edition.json) |
 | Mystery Trackers: Blackrow's Secret | 201830 | [201830-mystery-trackers-blackrows-secret.json](./201830-mystery-trackers-blackrows-secret.json) |
 | Mystery Trackers: Darkwater Bay | 313461 | [313461-mystery-trackers-darkwater-bay.json](./313461-mystery-trackers-darkwater-bay.json) |
+| Mystery Trackers: Darkwater Bay - Collector's Edition | 274300 | [274300-mystery-trackers-darkwater-bay-collectors-edition.json](./274300-mystery-trackers-darkwater-bay-collectors-edition.json) |
 | Mystery Trackers: Fall of Iron Rock - Collector's Edition | 235489 | [235489-mystery-trackers-fall-of-iron-rock-collectors-edition.json](./235489-mystery-trackers-fall-of-iron-rock-collectors-edition.json) |
 | Mystery Trackers: Fatal Lesson - Collector's Edition | 253417 | [253417-mystery-trackers-fatal-lesson-collectors-edition.json](./253417-mystery-trackers-fatal-lesson-collectors-edition.json) |
 | Mystery Trackers: Forgotten Voices | 187958 | [187958-mystery-trackers-forgotten-voices.json](./187958-mystery-trackers-forgotten-voices.json) |
