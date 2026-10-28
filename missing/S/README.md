@@ -5214,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Guardians | 58313 | [58313-seven-guardians.json](./58313-seven-guardians.json) |
 | Seven Haunted Seas | 69148 | [69148-seven-haunted-seas.json](./69148-seven-haunted-seas.json) |
 | Seven Hearts | 351108 | [351108-seven-hearts.json](./351108-seven-hearts.json) |
+| Seven Heroes | 237591 | [237591-seven-heroes.json](./237591-seven-heroes.json) |
 | Seven Horns From Tilt | 143973 | [143973-seven-horns-from-tilt.json](./143973-seven-horns-from-tilt.json) |
 | Seven Hotties, All My Husbands | 417577 | [417577-seven-hotties-all-my-husbands.json](./417577-seven-hotties-all-my-husbands.json) |
 | Seven Idle Dwarf | 107094 | [107094-seven-idle-dwarf.json](./107094-seven-idle-dwarf.json) |
@@ -5310,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sewercide | 385930 | [385930-sewercide.json](./385930-sewercide.json) |
 | Sewermania | 42179 | [42179-sewermania.json](./42179-sewermania.json) |
 | Sewing Machine Simulator | 312435 | [312435-sewing-machine-simulator.json](./312435-sewing-machine-simulator.json) |
+| Sex & Drift | 237181 | [237181-sex-and-drift.json](./237181-sex-and-drift.json) |
 | Sex & Gun | 368092 | [368092-sex-and-gun.json](./368092-sex-and-gun.json) |
 | Sex Adventures: BDSM Dungeon | 219597 | [219597-sex-adventures-bdsm-dungeon.json](./219597-sex-adventures-bdsm-dungeon.json) |
 | Sex Adventures: Cuckold Gym | 226151 | [226151-sex-adventures-cuckold-gym.json](./226151-sex-adventures-cuckold-gym.json) |
@@ -6667,6 +6669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Sings, but She’s Not a Skylark, Not Even a Nightingale. | 412445 | [412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json](./412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json) |
 | She Tells Her Story | 383592 | [383592-she-tells-her-story.json](./383592-she-tells-her-story.json) |
 | She Wants Me Dead | 32718 | [32718-she-wants-me-dead.json](./32718-she-wants-me-dead.json) |
+| She Wants Me Dead + Clumsy Rush | 237572 | [237572-she-wants-me-dead-clumsy-rush.json](./237572-she-wants-me-dead-clumsy-rush.json) |
 | She Wants Me Dead: Extended Edition | 239493 | [239493-she-wants-me-dead-extended-edition.json](./239493-she-wants-me-dead-extended-edition.json) |
 | She Wants Me Dead: Ultimate Edition | 237768 | [237768-she-wants-me-dead-ultimate-edition.json](./237768-she-wants-me-dead-ultimate-edition.json) |
 | She Wants to Suck My Blood? | 254324 | [254324-she-wants-to-suck-my-blood.json](./254324-she-wants-to-suck-my-blood.json) |
@@ -8048,6 +8051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Sort | 303046 | [303046-shopping-sort.json](./303046-shopping-sort.json) |
 | Shopping Spree | 349871 | [349871-shopping-spree.json](./349871-shopping-spree.json) |
 | Shopping Street | 399460 | [399460-shopping-street.json](./399460-shopping-street.json) |
+| Shopping Talent | 237589 | [237589-shopping-talent.json](./237589-shopping-talent.json) |
 | Shopping Tycoon | 54514 | [54514-shopping-tycoon.json](./54514-shopping-tycoon.json) |
 | Shoppy Mart | 60067 | [60067-shoppy-mart.json](./60067-shoppy-mart.json) |
 | Shoppy Mart: Steam Edition | 90633 | [90633-shoppy-mart-steam-edition.json](./90633-shoppy-mart-steam-edition.json) |
@@ -10713,6 +10717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull8 | 362873 | [362873-skull8.json](./362873-skull8.json) |
 | SkullBall | 412892 | [412892-skullball.json](./412892-skullball.json) |
 | Skullborn | 192615 | [192615-skullborn.json](./192615-skullborn.json) |
+| Skullboy Master | 237574 | [237574-skullboy-master.json](./237574-skullboy-master.json) |
 | Skullbreaker | 370341 | [370341-skullbreaker.json](./370341-skullbreaker.json) |
 | Skullchef | 408786 | [408786-skullchef.json](./408786-skullchef.json) |
 | Skulldash | 142377 | [142377-skulldash.json](./142377-skulldash.json) |
@@ -13329,6 +13334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Moto Racing | 63837 | [63837-snow-moto-racing.json](./63837-snow-moto-racing.json) |
 | Snow Moto Racing Freedom | 29593 | [29593-snow-moto-racing-freedom.json](./29593-snow-moto-racing-freedom.json) |
 | Snow Moto: Racing Adventure | 283810 | [283810-snow-moto-racing-adventure.json](./283810-snow-moto-racing-adventure.json) |
+| Snow Mountain | 237559 | [237559-snow-mountain.json](./237559-snow-mountain.json) |
 | Snow of Spirit | 215546 | [215546-snow-of-spirit.json](./215546-snow-of-spirit.json) |
 | Snow Off Road | 194165 | [194165-snow-off-road.json](./194165-snow-off-road.json) |
 | Snow Pinball: Santa's Christmas Factory! | 104476 | [104476-snow-pinball-santas-christmas-factory.json](./104476-snow-pinball-santas-christmas-factory.json) |
@@ -16486,6 +16492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOVL: Fantasy Warfare | 280735 | [280735-sovl-fantasy-warfare.json](./280735-sovl-fantasy-warfare.json) |
 | SOVL: Ratkin Clans | 305773 | [305773-sovl-ratkin-clans.json](./305773-sovl-ratkin-clans.json) |
 | SOVL: Reptilian Kingdoms | 296657 | [296657-sovl-reptilian-kingdoms.json](./296657-sovl-reptilian-kingdoms.json) |
+| Sovranti | 237562 | [237562-sovranti.json](./237562-sovranti.json) |
 | Sowa VR | 215719 | [215719-sowa-vr.json](./215719-sowa-vr.json) |
 | Sowon | 222984 | [222984-sowon.json](./222984-sowon.json) |
 | Sowon : The Toy Wonderland | 298579 | [298579-sowon-the-toy-wonderland.json](./298579-sowon-the-toy-wonderland.json) |
@@ -21829,6 +21836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starr Ringer | 220502 | [220502-starr-ringer.json](./220502-starr-ringer.json) |
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
 | Starry Flowers | 145644 | [145644-starry-flowers.json](./145644-starry-flowers.json) |
+| Starry Fly | 237585 | [237585-starry-fly.json](./237585-starry-fly.json) |
 | Starry Knight | 172377 | [172377-starry-knight.json](./172377-starry-knight.json) |
 | Starry Makino | 159835 | [159835-starry-makino.json](./159835-starry-makino.json) |
 | Starry Moon Island | 172980 | [172980-starry-moon-island.json](./172980-starry-moon-island.json) |
@@ -24878,6 +24886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Student Council Leader Auriel | 247524 | [247524-student-council-leader-auriel.json](./247524-student-council-leader-auriel.json) |
 | Student Council President Shizuka: Undercover Investigation into Neglectful Men's School | 82614 | [82614-student-council-president-shizuka-undercover-investigation-into-neglectful-mens-school.json](./82614-student-council-president-shizuka-undercover-investigation-into-neglectful-mens-school.json) |
 | Student Transfer | 191892 | [191892-student-transfer.json](./191892-student-transfer.json) |
+| Students of Light Bonds: Typing RPG with Character Creation | 237184 | [237184-students-of-light-bonds-typing-rpg-with-character-creation.json](./237184-students-of-light-bonds-typing-rpg-with-character-creation.json) |
 | Students of Psionic Power | 211260 | [211260-students-of-psionic-power.json](./211260-students-of-psionic-power.json) |
 | Students' Horrible Stories: FIN | 147417 | [147417-students-horrible-stories-fin.json](./147417-students-horrible-stories-fin.json) |
 | Studio 100 Speeleiland | 130913 | [130913-studio-100-speeleiland.json](./130913-studio-100-speeleiland.json) |
@@ -29108,6 +29117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superheroes Fighting 3D | 108215 | [108215-superheroes-fighting-3d.json](./108215-superheroes-fighting-3d.json) |
 | Superheroes: Power of New Horizons Legacy | 324124 | [324124-superheroes-power-of-new-horizons-legacy.json](./324124-superheroes-power-of-new-horizons-legacy.json) |
 | Superhex.io | 321839 | [321839-superhex-io.json](./321839-superhex-io.json) |
+| Superhoops Basketball 2016 | 237579 | [237579-superhoops-basketball-2016.json](./237579-superhoops-basketball-2016.json) |
 | Superhot Prototype | 18119 | [18119-superhot-prototype.json](./18119-superhot-prototype.json) |
 | SuperHot Quake | 195987 | [195987-superhot-quake.json](./195987-superhot-quake.json) |
 | Superhot Shooter 3D | 223902 | [223902-superhot-shooter-3d.json](./223902-superhot-shooter-3d.json) |
