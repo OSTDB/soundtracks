@@ -2489,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man at Arms | 245151 | [245151-man-at-arms.json](./245151-man-at-arms.json) |
 | Man at Arms TD | 197713 | [197713-man-at-arms-td.json](./197713-man-at-arms-td.json) |
 | Man Boy vs. Doctor Sock | 327272 | [327272-man-boy-vs-doctor-sock.json](./327272-man-boy-vs-doctor-sock.json) |
+| Man Enough | 242724 | [242724-man-enough.json](./242724-man-enough.json) |
 | Man Face Spider I | 132773 | [132773-man-face-spider-i.json](./132773-man-face-spider-i.json) |
 | Man For Takeaway | 323844 | [323844-man-for-takeaway.json](./323844-man-for-takeaway.json) |
 | Man Helsing | 184765 | [184765-man-helsing.json](./184765-man-helsing.json) |
@@ -5357,6 +5358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayor T-Rex | 203666 | [203666-mayor-t-rex.json](./203666-mayor-t-rex.json) |
 | Mayority | 254169 | [254169-mayority.json](./254169-mayority.json) |
 | Maytroid | 111981 | [111981-maytroid.json](./111981-maytroid.json) |
+| Mayu | 242712 | [242712-mayu.json](./242712-mayu.json) |
 | Mayu: Last of the Yaksha | 197128 | [197128-mayu-last-of-the-yaksha.json](./197128-mayu-last-of-the-yaksha.json) |
 | MayuShoot | 185960 | [185960-mayushoot.json](./185960-mayushoot.json) |
 | Maz! | 74945 | [74945-maz.json](./74945-maz.json) |
