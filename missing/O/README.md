@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OctaRace | 273818 | [273818-octarace.json](./273818-octarace.json) |
 | Octarina | 150760 | [150760-octarina.json](./150760-octarina.json) |
 | Octarine | 184246 | [184246-octarine.json](./184246-octarine.json) |
+| Octate | 259372 | [259372-octate.json](./259372-octate.json) |
 | Octave | 180675 | [180675-octave.json](./180675-octave.json) |
 | Octavian | 169153 | [169153-octavian.json](./169153-octavian.json) |
 | Octavio Camacho | 247537 | [247537-octavio-camacho.json](./247537-octavio-camacho.json) |
@@ -1405,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Om Nom: Run & Om Nom: Run 2 | 363971 | [363971-om-nom-run-and-om-nom-run-2.json](./363971-om-nom-run-and-om-nom-run-2.json) |
 | Om Nom: Run 2 | 323698 | [323698-om-nom-run-2.json](./323698-om-nom-run-2.json) |
 | Om Nom: Run 2 - Emerald Edition | 396923 | [396923-om-nom-run-2-emerald-edition.json](./396923-om-nom-run-2-emerald-edition.json) |
+| OMA: One Man Army | 259701 | [259701-oma-one-man-army.json](./259701-oma-one-man-army.json) |
 | Omae Wa Mou Shindeiru | 98711 | [98711-omae-wa-mou-shindeiru.json](./98711-omae-wa-mou-shindeiru.json) |
 | Omakase! Savers | 275605 | [275605-omakase-savers.json](./275605-omakase-savers.json) |
 | Omamori | 185069 | [185069-omamori.json](./185069-omamori.json) |
@@ -3533,6 +3535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore no Shita de Agake | 205643 | [205643-ore-no-shita-de-agake.json](./205643-ore-no-shita-de-agake.json) |
 | Ore no Yacht: Ganbare Nippon Challenge | 378439 | [378439-ore-no-yacht-ganbare-nippon-challenge.json](./378439-ore-no-yacht-ganbare-nippon-challenge.json) |
 | Ore no Yome VR | 304892 | [304892-ore-no-yome-vr.json](./304892-ore-no-yome-vr.json) |
+| Ore no Yuukyuu Koi Monogatari | 259614 | [259614-ore-no-yuukyuu-koi-monogatari.json](./259614-ore-no-yuukyuu-koi-monogatari.json) |
 | Ore o Hoshigaru Futari no Haha | 97464 | [97464-ore-o-hoshigaru-futari-no-haha.json](./97464-ore-o-hoshigaru-futari-no-haha.json) |
 | Ore Quest: Digger's Delve | 280679 | [280679-ore-quest-diggers-delve.json](./280679-ore-quest-diggers-delve.json) |
 | Ore to Imouto no Kankei | 97766 | [97766-ore-to-imouto-no-kankei.json](./97766-ore-to-imouto-no-kankei.json) |
@@ -4751,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over Shooter | 339284 | [339284-over-shooter.json](./339284-over-shooter.json) |
 | Over Sky | 120597 | [120597-over-sky.json](./120597-over-sky.json) |
 | Over Speed | 247021 | [247021-over-speed.json](./247021-over-speed.json) |
+| Over Street: Traffic Racer | 259687 | [259687-over-street-traffic-racer.json](./259687-over-street-traffic-racer.json) |
 | Over the Alps: King of the Mountain | 135802 | [135802-over-the-alps-king-of-the-mountain.json](./135802-over-the-alps-king-of-the-mountain.json) |
 | Over the Counter | 186813 | [186813-over-the-counter.json](./186813-over-the-counter.json) |
 | Over the Hedge | 202105 | [202105-over-the-hedge.json](./202105-over-the-hedge.json) |
