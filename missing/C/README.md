@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cairns | 374398 | [374398-cairns.json](./374398-cairns.json) |
 | Cairo ShootOut! | 229800 | [229800-cairo-shootout.json](./229800-cairo-shootout.json) |
 | Cairo's Tale: The Big Egg | 156114 | [156114-cairos-tale-the-big-egg.json](./156114-cairos-tale-the-big-egg.json) |
+| Caislean: Paranormal | 251787 | [251787-caislean-paranormal.json](./251787-caislean-paranormal.json) |
 | Caïssa Board | 152893 | [152893-caissa-board.json](./152893-caissa-board.json) |
 | Caixa Mágica de Estórias | 296156 | [296156-caixa-magica-de-estorias.json](./296156-caixa-magica-de-estorias.json) |
 | Cajun Cop: The French Quarter Caper | 417496 | [417496-cajun-cop-the-french-quarter-caper.json](./417496-cajun-cop-the-french-quarter-caper.json) |
@@ -3741,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch'em | 302138 | [302138-catchem.json](./302138-catchem.json) |
 | Catcha | 327398 | [327398-catcha.json](./327398-catcha.json) |
 | Catcha Catcha Aliens! | 61630 | [61630-catcha-catcha-aliens.json](./61630-catcha-catcha-aliens.json) |
+| Catcha Snatcha | 251766 | [251766-catcha-snatcha.json](./251766-catcha-snatcha.json) |
 | CatchaDiablos | 340850 | [340850-catchadiablos.json](./340850-catchadiablos.json) |
 | Catchee | 197694 | [197694-catchee.json](./197694-catchee.json) |
 | Catching | 117654 | [117654-catching.json](./117654-catching.json) |
@@ -15571,6 +15573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crownfall: Young Hero | 373649 | [373649-crownfall-young-hero.json](./373649-crownfall-young-hero.json) |
 | Crownhold | 414112 | [414112-crownhold.json](./414112-crownhold.json) |
 | Crowning Calamity | 284332 | [284332-crowning-calamity.json](./284332-crowning-calamity.json) |
+| Crownless Abyss | 251767 | [251767-crownless-abyss.json](./251767-crownless-abyss.json) |
 | Crownrats | 410243 | [410243-crownrats.json](./410243-crownrats.json) |
 | Crowns and Pawns: Amber Road | 417328 | [417328-crowns-and-pawns-amber-road.json](./417328-crowns-and-pawns-amber-road.json) |
 | Crowns of Power | 138544 | [138544-crowns-of-power.json](./138544-crowns-of-power.json) |
@@ -16284,6 +16287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Clones | 151681 | [151681-cube-clones.json](./151681-cube-clones.json) |
 | Cube Color | 75658 | [75658-cube-color.json](./75658-cube-color.json) |
 | Cube Conflict | 167569 | [167569-cube-conflict.json](./167569-cube-conflict.json) |
+| Cube Control | 251760 | [251760-cube-control.json](./251760-cube-control.json) |
 | Cube Course | 130245 | [130245-cube-course.json](./130245-cube-course.json) |
 | Cube Crawler | 193939 | [193939-cube-crawler.json](./193939-cube-crawler.json) |
 | Cube Crawler | 328260 | [328260-cube-crawler.json](./328260-cube-crawler.json) |
@@ -17507,6 +17511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Slayer | 219672 | [219672-cyber-slayer.json](./219672-cyber-slayer.json) |
 | Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
 | Cyber Sleuth Simulacrum | 302157 | [302157-cyber-sleuth-simulacrum.json](./302157-cyber-sleuth-simulacrum.json) |
+| Cyber Soldier | 251351 | [251351-cyber-soldier.json](./251351-cyber-soldier.json) |
 | Cyber Soldier Sharaku | 45934 | [45934-cyber-soldier-sharaku.json](./45934-cyber-soldier-sharaku.json) |
 | Cyber Souls | 238591 | [238591-cyber-souls.json](./238591-cyber-souls.json) |
 | Cyber Speedway | 19740 | [19740-cyber-speedway.json](./19740-cyber-speedway.json) |
