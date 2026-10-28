@@ -4892,6 +4892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IOUA | 233888 | [233888-ioua.json](./233888-ioua.json) |
 | Ipad Baby | 282808 | [282808-ipad-baby.json](./282808-ipad-baby.json) |
 | iPitch | 92081 | [92081-ipitch.json](./92081-ipitch.json) |
+| IPL Quiz 2022 Cricket Champion | 229884 | [229884-ipl-quiz-2022-cricket-champion.json](./229884-ipl-quiz-2022-cricket-champion.json) |
 | IPollute | 302754 | [302754-ipollute.json](./302754-ipollute.json) |
 | Ippan Mario | 268193 | [268193-ippan-mario.json](./268193-ippan-mario.json) |
 | Ippan Zaidan Houjin: Nippon Kanji Shuujukudo Kentei Kikou Kounen - Kanjukuken DS | 269585 | [269585-ippan-zaidan-houjin-nippon-kanji-shuujukudo-kentei-kikou-kounen-kanjukuken-ds.json](./269585-ippan-zaidan-houjin-nippon-kanji-shuujukudo-kentei-kikou-kounen-kanjukuken-ds.json) |
