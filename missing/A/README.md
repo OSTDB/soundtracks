@@ -1757,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abraca Drunk | 415113 | [415113-abraca-drunk.json](./415113-abraca-drunk.json) |
 | Abraca: Imagic Games | 35858 | [35858-abraca-imagic-games.json](./35858-abraca-imagic-games.json) |
 | Abracablabla | 400403 | [400403-abracablabla.json](./400403-abracablabla.json) |
+| Abracadaball | 239466 | [239466-abracadaball.json](./239466-abracadaball.json) |
 | Abracadabra | 145900 | [145900-abracadabra.json](./145900-abracadabra.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
 | Abracademia | 383053 | [383053-abracademia.json](./383053-abracademia.json) |
@@ -9592,6 +9593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti Terrorist Shooting Game | 400654 | [400654-anti-terrorist-shooting-game.json](./400654-anti-terrorist-shooting-game.json) |
 | Anti V Reboot | 357805 | [357805-anti-v-reboot.json](./357805-anti-v-reboot.json) |
 | Anti-Ballistic-Missile | 145245 | [145245-anti-ballistic-missile.json](./145245-anti-ballistic-missile.json) |
+| Anti-Bully Adventure | 239454 | [239454-anti-bully-adventure.json](./239454-anti-bully-adventure.json) |
 | Anti-Cast | 58010 | [58010-anti-cast.json](./58010-anti-cast.json) |
 | Anti-Demon Stormedge Sakuya | 82621 | [82621-anti-demon-stormedge-sakuya.json](./82621-anti-demon-stormedge-sakuya.json) |
 | Anti-Goodness Dept. | 176787 | [176787-anti-goodness-dept.json](./176787-anti-goodness-dept.json) |
@@ -12237,6 +12239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armoured Commander | 56936 | [56936-armoured-commander.json](./56936-armoured-commander.json) |
 | Armoured Engines | 27486 | [27486-armoured-engines.json](./27486-armoured-engines.json) |
 | Armoured Onslaught | 129223 | [129223-armoured-onslaught.json](./129223-armoured-onslaught.json) |
+| Armoured VR | 239822 | [239822-armoured-vr.json](./239822-armoured-vr.json) |
 | Arms | 26759 | [26759-arms.json](./26759-arms.json) |
 | Arms Dealer Simulator | 406056 | [406056-arms-dealer-simulator.json](./406056-arms-dealer-simulator.json) |
 | Arms Devicer S!! | 82895 | [82895-arms-devicer-s.json](./82895-arms-devicer-s.json) |
