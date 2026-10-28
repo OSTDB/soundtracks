@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddle Up | 32227 | [32227-paddle-up.json](./32227-paddle-up.json) |
 | Paddle vs Paddle | 413015 | [413015-paddle-vs-paddle.json](./413015-paddle-vs-paddle.json) |
 | Paddle Vs. Paddle | 99741 | [99741-paddle-vs-paddle.json](./99741-paddle-vs-paddle.json) |
+| Paddle! Shimmyoumal! | 272113 | [272113-paddle-shimmyoumal.json](./272113-paddle-shimmyoumal.json) |
 | Paddlenoid | 381377 | [381377-paddlenoid.json](./381377-paddlenoid.json) |
 | Paddler | 403650 | [403650-paddler.json](./403650-paddler.json) |
 | Paddles | 214545 | [214545-paddles.json](./214545-paddles.json) |
@@ -3278,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peepers Paradise | 341586 | [341586-peepers-paradise.json](./341586-peepers-paradise.json) |
 | Peeping | 389669 | [389669-peeping.json](./389669-peeping.json) |
 | Peeping Tom | 284399 | [284399-peeping-tom.json](./284399-peeping-tom.json) |
+| Peepo Hop! | 272404 | [272404-peepo-hop.json](./272404-peepo-hop.json) |
 | Peer Gynt the Game | 126586 | [126586-peer-gynt-the-game.json](./126586-peer-gynt-the-game.json) |
 | Peer Pressure | 404397 | [404397-peer-pressure.json](./404397-peer-pressure.json) |
 | Peer to Peer | 306646 | [306646-peer-to-peer.json](./306646-peer-to-peer.json) |
@@ -14095,6 +14097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projekt Melody: A Nut Between Worlds! | 186659 | [186659-projekt-melody-a-nut-between-worlds.json](./186659-projekt-melody-a-nut-between-worlds.json) |
 | Projekt Z: Beyond Order | 138752 | [138752-projekt-z-beyond-order.json](./138752-projekt-z-beyond-order.json) |
 | Projekt: Passion - Season 2 | 297187 | [297187-projekt-passion-season-2.json](./297187-projekt-passion-season-2.json) |
+| Projeto Real | 272401 | [272401-projeto-real.json](./272401-projeto-real.json) |
 | Projeto Real: Rabbit the Pet | 286981 | [286981-projeto-real-rabbit-the-pet.json](./286981-projeto-real-rabbit-the-pet.json) |
 | Prokshov | 143728 | [143728-prokshov.json](./143728-prokshov.json) |
 | Prolegomena to a Hyperdimensional Interface That Will Be Able to Manifest From Three-Minute Interchanges | 324744 | [324744-prolegomena-to-a-hyperdimensional-interface-that-will-be-able-to-manifest-from-three-minute-interchanges.json](./324744-prolegomena-to-a-hyperdimensional-interface-that-will-be-able-to-manifest-from-three-minute-interchanges.json) |
