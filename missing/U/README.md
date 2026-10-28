@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Tag | 190158 | [190158-ultimate-tag.json](./190158-ultimate-tag.json) |
 | Ultimate Tank Experience | 184863 | [184863-ultimate-tank-experience.json](./184863-ultimate-tank-experience.json) |
 | Ultimate Tapan Kaikki | 19239 | [19239-ultimate-tapan-kaikki.json](./19239-ultimate-tapan-kaikki.json) |
+| Ultimate Tennis | 264976 | [264976-ultimate-tennis.json](./264976-ultimate-tennis.json) |
 | Ultimate Tennis: Revolution | 174841 | [174841-ultimate-tennis-revolution.json](./174841-ultimate-tennis-revolution.json) |
 | Ultimate Theater Simulator | 367400 | [367400-ultimate-theater-simulator.json](./367400-ultimate-theater-simulator.json) |
 | Ultimate Tic-Tac-Toe | 35501 | [35501-ultimate-tic-tac-toe.json](./35501-ultimate-tic-tac-toe.json) |
@@ -2479,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unstable Cylinder | 294182 | [294182-unstable-cylinder.json](./294182-unstable-cylinder.json) |
 | Unstable Engineer | 384743 | [384743-unstable-engineer.json](./384743-unstable-engineer.json) |
 | Unstable Rock | 213320 | [213320-unstable-rock.json](./213320-unstable-rock.json) |
+| Unstable Scientific | 265265 | [265265-unstable-scientific.json](./265265-unstable-scientific.json) |
 | Unstable Star | 338583 | [338583-unstable-star.json](./338583-unstable-star.json) |
 | Unstable Tower | 361746 | [361746-unstable-tower.json](./361746-unstable-tower.json) |
 | Unstack | 166175 | [166175-unstack.json](./166175-unstack.json) |
@@ -2683,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up & Down | 312568 | [312568-up-and-down.json](./312568-up-and-down.json) |
 | Up 1 Way | 371344 | [371344-up-1-way.json](./371344-up-1-way.json) |
 | UP 9 - Hexa Puzzle! | 100653 | [100653-up-9-hexa-puzzle.json](./100653-up-9-hexa-puzzle.json) |
+| Up Against Aliens | 265264 | [265264-up-against-aliens.json](./265264-up-against-aliens.json) |
 | Up All Knight | 232371 | [232371-up-all-knight.json](./232371-up-all-knight.json) |
 | Up All Night | 165064 | [165064-up-all-night.json](./165064-up-all-night.json) |
 | Up All Night: Daybreak | 245722 | [245722-up-all-night-daybreak.json](./245722-up-all-night-daybreak.json) |
@@ -2723,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upbaka! | 379706 | [379706-upbaka.json](./379706-upbaka.json) |
 | Upbeat | 390130 | [390130-upbeat.json](./390130-upbeat.json) |
 | Upbeat Melody Project | 386257 | [386257-upbeat-melody-project.json](./386257-upbeat-melody-project.json) |
+| Upbound | 265266 | [265266-upbound.json](./265266-upbound.json) |
 | UpBreakers | 107726 | [107726-upbreakers.json](./107726-upbreakers.json) |
 | Upcreek | 395156 | [395156-upcreek.json](./395156-upcreek.json) |
 | Updive | 150273 | [150273-updive.json](./150273-updive.json) |
