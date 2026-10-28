@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Blood | 402500 | [402500-half-blood.json](./402500-half-blood.json) |
 | Half Blood RPG | 163735 | [163735-half-blood-rpg.json](./163735-half-blood-rpg.json) |
 | Half Built: Casino | 211721 | [211721-half-built-casino.json](./211721-half-built-casino.json) |
+| Half Court Computer Basketball | 245470 | [245470-half-court-computer-basketball.json](./245470-half-court-computer-basketball.json) |
 | Half Dead | 33726 | [33726-half-dead.json](./33726-half-dead.json) |
 | Half Dead 2 | 110817 | [110817-half-dead-2.json](./110817-half-dead-2.json) |
 | Half Dead 3 | 165106 | [165106-half-dead-3.json](./165106-half-dead-3.json) |
@@ -1255,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hannah and the Kreludor Caves | 338381 | [338381-hannah-and-the-kreludor-caves.json](./338381-hannah-and-the-kreludor-caves.json) |
 | Hannah and the Pirate Caves | 338358 | [338358-hannah-and-the-pirate-caves.json](./338358-hannah-and-the-pirate-caves.json) |
 | Hannah Montana | 230314 | [230314-hannah-montana.json](./230314-hannah-montana.json) |
+| Hannah Montana | 245469 | [245469-hannah-montana.json](./245469-hannah-montana.json) |
 | Hannah Montana | 85966 | [85966-hannah-montana.json](./85966-hannah-montana.json) |
 | Hannah Montana: DVD Game | 228444 | [228444-hannah-montana-dvd-game.json](./228444-hannah-montana-dvd-game.json) |
 | Hannah Montana: Music Jam | 21514 | [21514-hannah-montana-music-jam.json](./21514-hannah-montana-music-jam.json) |
@@ -1768,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harker | 79127 | [79127-harker.json](./79127-harker.json) |
 | Harlem Blade II: Dark Angel | 249630 | [249630-harlem-blade-ii-dark-angel.json](./249630-harlem-blade-ii-dark-angel.json) |
 | Harlem Blade: The Greatest of All Time | 187208 | [187208-harlem-blade-the-greatest-of-all-time.json](./187208-harlem-blade-the-greatest-of-all-time.json) |
+| Harlem Globetrotters | 245468 | [245468-harlem-globetrotters.json](./245468-harlem-globetrotters.json) |
 | Harlem Globetrotters World Tour | 6430 | [6430-harlem-globetrotters-world-tour.json](./6430-harlem-globetrotters-world-tour.json) |
 | HarleQuest! | 246111 | [246111-harlequest.json](./246111-harlequest.json) |
 | Harlequin Fair: Harbour Dawn | 275501 | [275501-harlequin-fair-harbour-dawn.json](./275501-harlequin-fair-harbour-dawn.json) |
@@ -2295,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hearts Hotel | 340418 | [340418-haunted-hearts-hotel.json](./340418-haunted-hearts-hotel.json) |
 | Haunted Heist | 391023 | [391023-haunted-heist.json](./391023-haunted-heist.json) |
 | Haunted Heye Apartment | 245811 | [245811-haunted-heye-apartment.json](./245811-haunted-heye-apartment.json) |
+| Haunted Hill | 245123 | [245123-haunted-hill.json](./245123-haunted-hill.json) |
 | Haunted Hill | 276390 | [276390-haunted-hill.json](./276390-haunted-hill.json) |
 | Haunted Hotel | 146857 | [146857-haunted-hotel.json](./146857-haunted-hotel.json) |
 | Haunted Hotel | 31063 | [31063-haunted-hotel.json](./31063-haunted-hotel.json) |
@@ -2679,7 +2683,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Shot God | 79523 | [79523-head-shot-god.json](./79523-head-shot-god.json) |
 | Head Soccer | 260094 | [260094-head-soccer.json](./260094-head-soccer.json) |
 | Head Soccer | 87430 | [87430-head-soccer.json](./87430-head-soccer.json) |
+| Head to Head Basketball | 245467 | [245467-head-to-head-basketball.json](./245467-head-to-head-basketball.json) |
 | Head to Head Football | 217833 | [217833-head-to-head-football.json](./217833-head-to-head-football.json) |
+| Head to Head Hockey | 245466 | [245466-head-to-head-hockey.json](./245466-head-to-head-hockey.json) |
 | Head to Hell | 311875 | [311875-head-to-hell.json](./311875-head-to-hell.json) |
 | Head Trauma | 278083 | [278083-head-trauma.json](./278083-head-trauma.json) |
 | Head Worms | 149896 | [149896-head-worms.json](./149896-head-worms.json) |
@@ -4211,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Casual Jigsaw: Witches | 245768 | [245768-hentai-casual-jigsaw-witches.json](./245768-hentai-casual-jigsaw-witches.json) |
 | Hentai Casual Jigsaw: Zombies | 301672 | [301672-hentai-casual-jigsaw-zombies.json](./301672-hentai-casual-jigsaw-zombies.json) |
 | Hentai Casual Slider 2 | 234736 | [234736-hentai-casual-slider-2.json](./234736-hentai-casual-slider-2.json) |
+| Hentai Casual Swap 2 | 246015 | [246015-hentai-casual-swap-2.json](./246015-hentai-casual-swap-2.json) |
 | Hentai Casual Swap 3 | 371402 | [371402-hentai-casual-swap-3.json](./371402-hentai-casual-swap-3.json) |
 | Hentai Celestia | 369376 | [369376-hentai-celestia.json](./369376-hentai-celestia.json) |
 | Hentai Cheerleader | 239749 | [239749-hentai-cheerleader.json](./239749-hentai-cheerleader.json) |
@@ -4899,6 +4906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hercules V: Platinum Edition | 255765 | [255765-hercules-v-platinum-edition.json](./255765-hercules-v-platinum-edition.json) |
 | Hercules: Slayer of the Damned! | 67193 | [67193-hercules-slayer-of-the-damned.json](./67193-hercules-slayer-of-the-damned.json) |
 | Hercules: The Legendary Journeys | 186028 | [186028-hercules-the-legendary-journeys.json](./186028-hercules-the-legendary-journeys.json) |
+| Hercules: The Legendary Journeys | 245465 | [245465-hercules-the-legendary-journeys.json](./245465-hercules-the-legendary-journeys.json) |
 | Hercules: The Legendary Journeys | 3511 | [3511-hercules-the-legendary-journeys.json](./3511-hercules-the-legendary-journeys.json) |
 | Hercules: The True Story | 57439 | [57439-hercules-the-true-story.json](./57439-hercules-the-true-story.json) |
 | Herd is Coming | 118300 | [118300-herd-is-coming.json](./118300-herd-is-coming.json) |
@@ -6660,6 +6668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HighSpell | 341850 | [341850-highspell.json](./341850-highspell.json) |
 | Hightide | 215347 | [215347-hightide.json](./215347-hightide.json) |
 | HighVelocity Paintball | 112051 | [112051-highvelocity-paintball.json](./112051-highvelocity-paintball.json) |
+| Highway | 245464 | [245464-highway.json](./245464-highway.json) |
 | Highway | 247016 | [247016-highway.json](./247016-highway.json) |
 | Highway | 267410 | [267410-highway.json](./267410-highway.json) |
 | Highway | 367840 | [367840-highway.json](./367840-highway.json) |
@@ -7029,6 +7038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hirake! Ponkikki | 48472 | [48472-hirake-ponkikki.json](./48472-hirake-ponkikki.json) |
 | Hirameki Puzzle Tetogram | 222178 | [222178-hirameki-puzzle-tetogram.json](./222178-hirameki-puzzle-tetogram.json) |
 | Hirata Shougo Interactive Ehon: Aesop Monogatari Vol. 1 | 245530 | [245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json](./245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json) |
+| Hirata Shougo Interactive Ehon: Cinderella | 245479 | [245479-hirata-shougo-interactive-ehon-cinderella.json](./245479-hirata-shougo-interactive-ehon-cinderella.json) |
 | Hirdrih Technologic | 404974 | [404974-hirdrih-technologic.json](./404974-hirdrih-technologic.json) |
 | Hire Me! | 285521 | [285521-hire-me.json](./285521-hire-me.json) |
 | Hired 2 Die | 211704 | [211704-hired-2-die.json](./211704-hired-2-die.json) |
