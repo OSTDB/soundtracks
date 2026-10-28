@@ -2560,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled | 218540 | [218540-untitled.json](./218540-untitled.json) |
 | Untitled | 37015 | [37015-untitled.json](./37015-untitled.json) |
 | Untitled Automation Game | 391639 | [391639-untitled-automation-game.json](./391639-untitled-automation-game.json) |
+| Untitled Black Panther Game | 256091 | [256091-untitled-black-panther-game.json](./256091-untitled-black-panther-game.json) |
 | Untitled Block Platformer | 218384 | [218384-untitled-block-platformer.json](./218384-untitled-block-platformer.json) |
 | Untitled Car Game | 373018 | [373018-untitled-car-game.json](./373018-untitled-car-game.json) |
 | Untitled Criterion Racing Game | 61510 | [61510-untitled-criterion-racing-game.json](./61510-untitled-criterion-racing-game.json) |
