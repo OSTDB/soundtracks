@@ -2092,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Clash: Echoes of the Lost | 276732 | [276732-neon-clash-echoes-of-the-lost.json](./276732-neon-clash-echoes-of-the-lost.json) |
 | Neon Coliseum | 55612 | [55612-neon-coliseum.json](./55612-neon-coliseum.json) |
 | Neon Colony | 349212 | [349212-neon-colony.json](./349212-neon-colony.json) |
+| Neon Cop | 243850 | [243850-neon-cop.json](./243850-neon-cop.json) |
 | Neon Cyber Samurai | 211993 | [211993-neon-cyber-samurai.json](./211993-neon-cyber-samurai.json) |
 | Neon Cyborg Cat Club | 148533 | [148533-neon-cyborg-cat-club.json](./148533-neon-cyborg-cat-club.json) |
 | Neon D-Fence Remaster | 251770 | [251770-neon-d-fence-remaster.json](./251770-neon-d-fence-remaster.json) |
@@ -5618,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nongon Alpha | 56305 | [56305-nongon-alpha.json](./56305-nongon-alpha.json) |
 | Nonlinear Door | 273450 | [273450-nonlinear-door.json](./273450-nonlinear-door.json) |
 | Nonno Lorenzo | 216983 | [216983-nonno-lorenzo.json](./216983-nonno-lorenzo.json) |
+| Nonno's Legend | 243834 | [243834-nonnos-legend.json](./243834-nonnos-legend.json) |
 | Nono Adventure | 240218 | [240218-nono-adventure.json](./240218-nono-adventure.json) |
 | Nono Islands | 57111 | [57111-nono-islands.json](./57111-nono-islands.json) |
 | Nono Logix | 116436 | [116436-nono-logix.json](./116436-nono-logix.json) |
@@ -5994,6 +5996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not For Broadcast: Bits of Your Life | 240678 | [240678-not-for-broadcast-bits-of-your-life.json](./240678-not-for-broadcast-bits-of-your-life.json) |
 | Not For Broadcast: Complete Edition | 331858 | [331858-not-for-broadcast-complete-edition.json](./331858-not-for-broadcast-complete-edition.json) |
 | Not for Broadcast: Deluxe Edition | 242607 | [242607-not-for-broadcast-deluxe-edition.json](./242607-not-for-broadcast-deluxe-edition.json) |
+| Not For Broadcast: Season Pass | 243302 | [243302-not-for-broadcast-season-pass.json](./243302-not-for-broadcast-season-pass.json) |
 | Not For Broadcast: The Timeloop | 240693 | [240693-not-for-broadcast-the-timeloop.json](./240693-not-for-broadcast-the-timeloop.json) |
 | Not For You | 381698 | [381698-not-for-you.json](./381698-not-for-you.json) |
 | Not Guilty! | 353903 | [353903-not-guilty.json](./353903-not-guilty.json) |
