@@ -3436,6 +3436,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lets Ride Corral Club | 24709 | [24709-lets-ride-corral-club.json](./24709-lets-ride-corral-club.json) |
 | Letsss Play | 373153 | [373153-letsss-play.json](./373153-letsss-play.json) |
 | Letter Bender | 195107 | [195107-letter-bender.json](./195107-letter-bender.json) |
+| Letter Boost | 241579 | [241579-letter-boost.json](./241579-letter-boost.json) |
+| Letter Bounce | 241580 | [241580-letter-bounce.json](./241580-letter-bounce.json) |
 | Letter Boxed | 296097 | [296097-letter-boxed.json](./296097-letter-boxed.json) |
 | Letter Bunny | 304202 | [304202-letter-bunny.json](./304202-letter-bunny.json) |
 | Letter Challenge | 85252 | [85252-letter-challenge.json](./85252-letter-challenge.json) |
