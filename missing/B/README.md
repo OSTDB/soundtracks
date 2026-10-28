@@ -11212,6 +11212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bong Bong | 111549 | [111549-bong-bong.json](./111549-bong-bong.json) |
 | BongBongCapy | 400862 | [400862-bongbongcapy.json](./400862-bongbongcapy.json) |
 | Bongirl | 191003 | [191003-bongirl.json](./191003-bongirl.json) |
+| Bongo | 240026 | [240026-bongo.json](./240026-bongo.json) |
 | Bongo Cat | 334486 | [334486-bongo-cat.json](./334486-bongo-cat.json) |
 | Bongo Loves the Bible | 146262 | [146262-bongo-loves-the-bible.json](./146262-bongo-loves-the-bible.json) |
 | Bongo Quest | 190472 | [190472-bongo-quest.json](./190472-bongo-quest.json) |
@@ -11808,6 +11809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BOT.vinnik Chess: Prodigies | 223498 | [223498-bot-vinnik-chess-prodigies.json](./223498-bot-vinnik-chess-prodigies.json) |
 | Bot.vinnik Chess: Winning Patterns | 254119 | [254119-bot-vinnik-chess-winning-patterns.json](./254119-bot-vinnik-chess-winning-patterns.json) |
 | Botan's Bird Beats | 309968 | [309968-botans-bird-beats.json](./309968-botans-bird-beats.json) |
+| Botanic | 240028 | [240028-botanic.json](./240028-botanic.json) |
 | Botanica | 281961 | [281961-botanica.json](./281961-botanica.json) |
 | Botanica: Earthbound | 59824 | [59824-botanica-earthbound.json](./59824-botanica-earthbound.json) |
 | Botanica: Earthbound - Collector's Edition | 76480 | [76480-botanica-earthbound-collectors-edition.json](./76480-botanica-earthbound-collectors-edition.json) |
@@ -15351,11 +15353,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Chase | 13826 | [13826-burger-chase.json](./13826-burger-chase.json) |
 | Burger Chef Tycoon | 122869 | [122869-burger-chef-tycoon.json](./122869-burger-chef-tycoon.json) |
 | Burger Chef Tycoon Extended Edition | 231221 | [231221-burger-chef-tycoon-extended-edition.json](./231221-burger-chef-tycoon-extended-edition.json) |
+| Burger Chef Tycoon Multiplayer Mode | 240402 | [240402-burger-chef-tycoon-multiplayer-mode.json](./240402-burger-chef-tycoon-multiplayer-mode.json) |
 | Burger Chef Tycoon: Co-op Edition | 250363 | [250363-burger-chef-tycoon-co-op-edition.json](./250363-burger-chef-tycoon-co-op-edition.json) |
 | Burger Chef Tycoon: Complete Edition | 199110 | [199110-burger-chef-tycoon-complete-edition.json](./199110-burger-chef-tycoon-complete-edition.json) |
 | Burger Chef Tycoon: Elite Edition | 332515 | [332515-burger-chef-tycoon-elite-edition.json](./332515-burger-chef-tycoon-elite-edition.json) |
 | Burger Chef Tycoon: Expansion Pack 1 | 238016 | [238016-burger-chef-tycoon-expansion-pack-1.json](./238016-burger-chef-tycoon-expansion-pack-1.json) |
 | Burger Chef Tycoon: GOTY Edition | 273629 | [273629-burger-chef-tycoon-goty-edition.json](./273629-burger-chef-tycoon-goty-edition.json) |
+| Burger Chef Tycoon: Multiplayer Edition | 240404 | [240404-burger-chef-tycoon-multiplayer-edition.json](./240404-burger-chef-tycoon-multiplayer-edition.json) |
 | Burger Chef Tycoon: Premium Edition | 227704 | [227704-burger-chef-tycoon-premium-edition.json](./227704-burger-chef-tycoon-premium-edition.json) |
 | Burger Cooking Simulator | 250855 | [250855-burger-cooking-simulator.json](./250855-burger-cooking-simulator.json) |
 | Burger Flipper: A Fast Food Restaurant Simulator | 326480 | [326480-burger-flipper-a-fast-food-restaurant-simulator.json](./326480-burger-flipper-a-fast-food-restaurant-simulator.json) |
@@ -15654,7 +15658,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 21: Extended Edition | 169245 | [169245-bus-simulator-21-extended-edition.json](./169245-bus-simulator-21-extended-edition.json) |
 | Bus Simulator 21: Iveco Bus Pack | 197557 | [197557-bus-simulator-21-iveco-bus-pack.json](./197557-bus-simulator-21-iveco-bus-pack.json) |
 | Bus Simulator 21: MAN Bus Pack | 213951 | [213951-bus-simulator-21-man-bus-pack.json](./213951-bus-simulator-21-man-bus-pack.json) |
+| Bus Simulator 21: Next Stop | 240037 | [240037-bus-simulator-21-next-stop.json](./240037-bus-simulator-21-next-stop.json) |
 | Bus Simulator 21: Next Stop - Ebusco Bus Pack | 249892 | [249892-bus-simulator-21-next-stop-ebusco-bus-pack.json](./249892-bus-simulator-21-next-stop-ebusco-bus-pack.json) |
+| Bus Simulator 21: Next Stop - Gold Edition | 240038 | [240038-bus-simulator-21-next-stop-gold-edition.json](./240038-bus-simulator-21-next-stop-gold-edition.json) |
 | Bus Simulator 21: Next Stop - Halloween Skin Pack | 263040 | [263040-bus-simulator-21-next-stop-halloween-skin-pack.json](./263040-bus-simulator-21-next-stop-halloween-skin-pack.json) |
 | Bus Simulator 21: Next Stop - IVECO BUS Bus Pack | 250414 | [250414-bus-simulator-21-next-stop-iveco-bus-bus-pack.json](./250414-bus-simulator-21-next-stop-iveco-bus-bus-pack.json) |
 | Bus Simulator 21: Next Stop - MAN Bus Pack | 250415 | [250415-bus-simulator-21-next-stop-man-bus-pack.json](./250415-bus-simulator-21-next-stop-man-bus-pack.json) |
