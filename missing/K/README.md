@@ -1633,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ketchapp Soccer | 241575 | [241575-ketchapp-soccer.json](./241575-ketchapp-soccer.json) |
 | Ketchapp Summer Sports | 246960 | [246960-ketchapp-summer-sports.json](./246960-ketchapp-summer-sports.json) |
 | Ketchapp Tennis | 257877 | [257877-ketchapp-tennis.json](./257877-ketchapp-tennis.json) |
+| Ketchup Adventure | 234860 | [234860-ketchup-adventure.json](./234860-ketchup-adventure.json) |
 | Ketchup and Mayonnaise | 152107 | [152107-ketchup-and-mayonnaise.json](./152107-ketchup-and-mayonnaise.json) |
 | Kether | 45921 | [45921-kether.json](./45921-kether.json) |
 | KetnetKick | 94236 | [94236-ketnetkick.json](./94236-ketnetkick.json) |
@@ -2058,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidz Sports: Ice Hockey | 51069 | [51069-kidz-sports-ice-hockey.json](./51069-kidz-sports-ice-hockey.json) |
 | Kiekko.tk | 133753 | [133753-kiekko-tk.json](./133753-kiekko-tk.json) |
 | Kiem Ma 3D | 224032 | [224032-kiem-ma-3d.json](./224032-kiem-ma-3d.json) |
+| Kieta Ano Toki no Sakebi | 234833 | [234833-kieta-ano-toki-no-sakebi.json](./234833-kieta-ano-toki-no-sakebi.json) |
 | Kieta Princess | 41300 | [41300-kieta-princess.json](./41300-kieta-princess.json) |
 | Kieta Sekai to Tsuki to Shoujo: The World was Prayed by The Girl Living A Thousand Years | 97462 | [97462-kieta-sekai-to-tsuki-to-shoujo-the-world-was-prayed-by-the-girl-living-a-thousand-years.json](./97462-kieta-sekai-to-tsuki-to-shoujo-the-world-was-prayed-by-the-girl-living-a-thousand-years.json) |
 | Kifo Quest | 294656 | [294656-kifo-quest.json](./294656-kifo-quest.json) |
@@ -2423,7 +2425,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4565,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konjiki no Gash Bell!! Yuujou no Tag Battle Full Power | 3969 | [3969-konjiki-no-gash-bell-yuujou-no-tag-battle-full-power.json](./3969-konjiki-no-gash-bell-yuujou-no-tag-battle-full-power.json) |
 | Konjiki no Gash Bell!! Yuujou Tag Battle | 234643 | [234643-konjiki-no-gash-bell-yuujou-tag-battle.json](./234643-konjiki-no-gash-bell-yuujou-tag-battle.json) |
 | Konjiki no Gash Bell!!: Friends of Eternal Bonds | 283534 | [283534-konjiki-no-gash-bell-friends-of-eternal-bonds.json](./283534-konjiki-no-gash-bell-friends-of-eternal-bonds.json) |
+| Konjiki no Gashbell!! Yuujou no Zakeru: Dream Tag Tournament | 234808 | [234808-konjiki-no-gashbell-yuujou-no-zakeru-dream-tag-tournament.json](./234808-konjiki-no-gashbell-yuujou-no-zakeru-dream-tag-tournament.json) |
 | Konk World | 267910 | [267910-konk-world.json](./267910-konk-world.json) |
 | Konkey Dong | 413215 | [413215-konkey-dong.json](./413215-konkey-dong.json) |
 | Konkey Dong | 413216 | [413216-konkey-dong.json](./413216-konkey-dong.json) |
