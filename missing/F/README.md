@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Chess: Deluxe Edition | 208584 | [208584-family-chess-deluxe-edition.json](./208584-family-chess-deluxe-edition.json) |
 | Family Chess: Director's Cut | 251525 | [251525-family-chess-directors-cut.json](./251525-family-chess-directors-cut.json) |
 | Family Chess: Extended Edition | 215312 | [215312-family-chess-extended-edition.json](./215312-family-chess-extended-edition.json) |
+| Family Chess: GOTY Edition | 240411 | [240411-family-chess-goty-edition.json](./240411-family-chess-goty-edition.json) |
 | Family Chess: Magnificent Edition | 246647 | [246647-family-chess-magnificent-edition.json](./246647-family-chess-magnificent-edition.json) |
 | Family Chess: Ultimate Edition | 212340 | [212340-family-chess-ultimate-edition.json](./212340-family-chess-ultimate-edition.json) |
 | Family Chess: Ultra Deluxe | 254678 | [254678-family-chess-ultra-deluxe.json](./254678-family-chess-ultra-deluxe.json) |
@@ -3726,8 +3727,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 06: Road to FIFA World Cup | 22342 | [22342-fifa-06-road-to-fifa-world-cup.json](./22342-fifa-06-road-to-fifa-world-cup.json) |
 | FIFA 07 | 240291 | [240291-fifa-07.json](./240291-fifa-07.json) |
 | FIFA 09 | 240317 | [240317-fifa-09.json](./240317-fifa-09.json) |
+| FIFA 13 | 240394 | [240394-fifa-13.json](./240394-fifa-13.json) |
+| FIFA 13 | 240397 | [240397-fifa-13.json](./240397-fifa-13.json) |
+| FIFA 14 | 240418 | [240418-fifa-14.json](./240418-fifa-14.json) |
+| FIFA 14 | 240419 | [240419-fifa-14.json](./240419-fifa-14.json) |
+| FIFA 14 | 240421 | [240421-fifa-14.json](./240421-fifa-14.json) |
 | FIFA 14 | 240422 | [240422-fifa-14.json](./240422-fifa-14.json) |
 | FIFA 14 Mobile | 240417 | [240417-fifa-14-mobile.json](./240417-fifa-14-mobile.json) |
+| FIFA 14: Legacy Edition | 240420 | [240420-fifa-14-legacy-edition.json](./240420-fifa-14-legacy-edition.json) |
 | FIFA 15 | 240426 | [240426-fifa-15.json](./240426-fifa-15.json) |
 | FIFA 15 | 240427 | [240427-fifa-15.json](./240427-fifa-15.json) |
 | FIFA 15: Ultimate Edition | 167025 | [167025-fifa-15-ultimate-edition.json](./167025-fifa-15-ultimate-edition.json) |
@@ -3805,11 +3812,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 10 | 3133 | [3133-fifa-soccer-10.json](./3133-fifa-soccer-10.json) |
 | FIFA Soccer 11 | 240380 | [240380-fifa-soccer-11.json](./240380-fifa-soccer-11.json) |
 | FIFA Soccer 11 | 240381 | [240381-fifa-soccer-11.json](./240381-fifa-soccer-11.json) |
+| FIFA Soccer 11 | 240382 | [240382-fifa-soccer-11.json](./240382-fifa-soccer-11.json) |
 | FIFA Soccer 11 | 240383 | [240383-fifa-soccer-11.json](./240383-fifa-soccer-11.json) |
+| FIFA Soccer 11 | 240384 | [240384-fifa-soccer-11.json](./240384-fifa-soccer-11.json) |
+| FIFA Soccer 11 | 240385 | [240385-fifa-soccer-11.json](./240385-fifa-soccer-11.json) |
 | FIFA Soccer 11 | 503 | [503-fifa-soccer-11.json](./503-fifa-soccer-11.json) |
+| FIFA Soccer 12 | 240386 | [240386-fifa-soccer-12.json](./240386-fifa-soccer-12.json) |
+| FIFA Soccer 12 | 240387 | [240387-fifa-soccer-12.json](./240387-fifa-soccer-12.json) |
+| FIFA Soccer 12 | 240388 | [240388-fifa-soccer-12.json](./240388-fifa-soccer-12.json) |
 | FIFA Soccer 12 | 240390 | [240390-fifa-soccer-12.json](./240390-fifa-soccer-12.json) |
+| FIFA Soccer 12 | 240391 | [240391-fifa-soccer-12.json](./240391-fifa-soccer-12.json) |
+| FIFA Soccer 12 | 240392 | [240392-fifa-soccer-12.json](./240392-fifa-soccer-12.json) |
 | FIFA Soccer 12 | 2946 | [2946-fifa-soccer-12.json](./2946-fifa-soccer-12.json) |
 | FIFA Soccer 13 | 2153 | [2153-fifa-soccer-13.json](./2153-fifa-soccer-13.json) |
+| FIFA Soccer 13 | 240395 | [240395-fifa-soccer-13.json](./240395-fifa-soccer-13.json) |
+| FIFA Soccer 13 | 240396 | [240396-fifa-soccer-13.json](./240396-fifa-soccer-13.json) |
+| FIFA Soccer 13 | 240400 | [240400-fifa-soccer-13.json](./240400-fifa-soccer-13.json) |
+| FIFA Soccer 13 | 240409 | [240409-fifa-soccer-13.json](./240409-fifa-soccer-13.json) |
+| FIFA Soccer 13 | 240413 | [240413-fifa-soccer-13.json](./240413-fifa-soccer-13.json) |
 | FIFA Soccer 13 | 240414 | [240414-fifa-soccer-13.json](./240414-fifa-soccer-13.json) |
 | FIFA Soccer 2002 | 49326 | [49326-fifa-soccer-2002.json](./49326-fifa-soccer-2002.json) |
 | FIFA Soccer 2002: Major League Soccer | 209422 | [209422-fifa-soccer-2002-major-league-soccer.json](./209422-fifa-soccer-2002-major-league-soccer.json) |
@@ -7828,6 +7848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Tycoon: Complete Edition | 199845 | [199845-food-truck-tycoon-complete-edition.json](./199845-food-truck-tycoon-complete-edition.json) |
 | Food Truck Tycoon: Expansion Pack 2 | 199838 | [199838-food-truck-tycoon-expansion-pack-2.json](./199838-food-truck-tycoon-expansion-pack-2.json) |
 | Food Truck Tycoon: GOTY Edition | 268556 | [268556-food-truck-tycoon-goty-edition.json](./268556-food-truck-tycoon-goty-edition.json) |
+| Food Truck Tycoon: Multiplayer Edition | 240407 | [240407-food-truck-tycoon-multiplayer-edition.json](./240407-food-truck-tycoon-multiplayer-edition.json) |
 | Food Truck VR | 343329 | [343329-food-truck-vr.json](./343329-food-truck-vr.json) |
 | Food Wagon | 333359 | [333359-food-wagon.json](./333359-food-wagon.json) |
 | Food War TD | 171439 | [171439-food-war-td.json](./171439-food-war-td.json) |
@@ -9537,6 +9558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPS Shooting Master | 102748 | [102748-fps-shooting-master.json](./102748-fps-shooting-master.json) |
 | FPS Trainer | 94177 | [94177-fps-trainer.json](./94177-fps-trainer.json) |
 | FPS Training | 130278 | [130278-fps-training.json](./130278-fps-training.json) |
+| FPS War | 240389 | [240389-fps-war.json](./240389-fps-war.json) |
 | FPS War 2 | 240880 | [240880-fps-war-2.json](./240880-fps-war-2.json) |
 | FPS: Fun Puzzle Shooter | 75407 | [75407-fps-fun-puzzle-shooter.json](./75407-fps-fun-puzzle-shooter.json) |
 | FPS1 | 249631 | [249631-fps1.json](./249631-fps1.json) |
