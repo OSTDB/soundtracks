@@ -2891,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScourgeBringer | 115899 | [115899-scourgebringer.json](./115899-scourgebringer.json) |
 | Scout | 231533 | [231533-scout.json](./231533-scout.json) |
 | Scout | 56584 | [56584-scout.json](./56584-scout.json) |
+| Scout Duty | 236429 | [236429-scout-duty.json](./236429-scout-duty.json) |
 | Scout Search | 70098 | [70098-scout-search.json](./70098-scout-search.json) |
 | Scout: An Apocalypse Story | 177355 | [177355-scout-an-apocalypse-story.json](./177355-scout-an-apocalypse-story.json) |
 | Scouter | 316613 | [316613-scouter.json](./316613-scouter.json) |
@@ -7641,6 +7642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shissou, Yankee Damashii | 70592 | [70592-shissou-yankee-damashii.json](./70592-shissou-yankee-damashii.json) |
 | Shisya | 270779 | [270779-shisya.json](./270779-shisya.json) |
 | Shisya 2: Ghost Video | 308889 | [308889-shisya-2-ghost-video.json](./308889-shisya-2-ghost-video.json) |
+| Shit Clicker | 236484 | [236484-shit-clicker.json](./236484-shit-clicker.json) |
 | Shit Slam II | 372111 | [372111-shit-slam-ii.json](./372111-shit-slam-ii.json) |
 | Shit Storm | 81100 | [81100-shit-storm.json](./81100-shit-storm.json) |
 | Shit!! | 79214 | [79214-shit.json](./79214-shit.json) |
@@ -11940,6 +11942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlipBreak | 285954 | [285954-slipbreak.json](./285954-slipbreak.json) |
 | SlipDream Resonator | 190379 | [190379-slipdream-resonator.json](./190379-slipdream-resonator.json) |
 | SlipDrive | 104553 | [104553-slipdrive.json](./104553-slipdrive.json) |
+| Slipgate | 236483 | [236483-slipgate.json](./236483-slipgate.json) |
 | Slipgate to a Lost Dimension | 271188 | [271188-slipgate-to-a-lost-dimension.json](./271188-slipgate-to-a-lost-dimension.json) |
 | Slippery Delivery | 278885 | [278885-slippery-delivery.json](./278885-slippery-delivery.json) |
 | Slippery Flippers: Episode One - Amulet of the Gods | 231760 | [231760-slippery-flippers-episode-one-amulet-of-the-gods.json](./231760-slippery-flippers-episode-one-amulet-of-the-gods.json) |
