@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Girl: New Character B | 283882 | [283882-a-girl-new-character-b.json](./283882-a-girl-new-character-b.json) |
 | A-Kei Otaku | 113587 | [113587-a-kei-otaku.json](./113587-a-kei-otaku.json) |
 | A-Maze-Ing | 44373 | [44373-a-maze-ing.json](./44373-a-maze-ing.json) |
+| A-Mazing 3D | 264728 | [264728-a-mazing-3d.json](./264728-a-mazing-3d.json) |
 | A-mazing Ants | 52561 | [52561-a-mazing-ants.json](./52561-a-mazing-ants.json) |
 | A-Men | 8623 | [8623-a-men.json](./8623-a-men.json) |
 | A-Mused | 58085 | [58085-a-mused.json](./58085-a-mused.json) |
@@ -2833,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrift | 331880 | [331880-adrift.json](./331880-adrift.json) |
 | Adrift | 377088 | [377088-adrift.json](./377088-adrift.json) |
 | Adrift Arena | 128225 | [128225-adrift-arena.json](./128225-adrift-arena.json) |
+| Adrift in the Backrooms | 264732 | [264732-adrift-in-the-backrooms.json](./264732-adrift-in-the-backrooms.json) |
 | Adrift in Turbulent Waters | 201650 | [201650-adrift-in-turbulent-waters.json](./201650-adrift-in-turbulent-waters.json) |
 | Adrift Program | 269048 | [269048-adrift-program.json](./269048-adrift-program.json) |
 | ADRPAN | 143414 | [143414-adrpan.json](./143414-adrpan.json) |
@@ -13371,6 +13373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteion Nights | 87559 | [87559-asteion-nights.json](./87559-asteion-nights.json) |
 | Astelight Shissouki | 59172 | [59172-astelight-shissouki.json](./59172-astelight-shissouki.json) |
 | Astellia | 113957 | [113957-astellia.json](./113957-astellia.json) |
+| Aster | 264447 | [264447-aster.json](./264447-aster.json) |
 | Aster Force | 195114 | [195114-aster-force.json](./195114-aster-force.json) |
 | Aster Initiative | 274035 | [274035-aster-initiative.json](./274035-aster-initiative.json) |
 | Aster League: 2179 | 408839 | [408839-aster-league-2179.json](./408839-aster-league-2179.json) |
@@ -15286,6 +15289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avenger Bird | 30491 | [30491-avenger-bird.json](./30491-avenger-bird.json) |
 | Avenger Sharks | 249027 | [249027-avenger-sharks.json](./249027-avenger-sharks.json) |
 | Avengers in Galactic Storm | 39361 | [39361-avengers-in-galactic-storm.json](./39361-avengers-in-galactic-storm.json) |
+| Avengers Squad | 264727 | [264727-avengers-squad.json](./264727-avengers-squad.json) |
 | Avengers: Damage Control | 122760 | [122760-avengers-damage-control.json](./122760-avengers-damage-control.json) |
 | Avengers: Laptop Infantil | 297740 | [297740-avengers-laptop-infantil.json](./297740-avengers-laptop-infantil.json) |
 | AvengeXX | 118836 | [118836-avengexx.json](./118836-avengexx.json) |
@@ -15389,6 +15393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid the Demons | 168589 | [168589-avoid-the-demons.json](./168589-avoid-the-demons.json) |
 | Avoid the Monsters | 54450 | [54450-avoid-the-monsters.json](./54450-avoid-the-monsters.json) |
 | Avoid the Noid | 14445 | [14445-avoid-the-noid.json](./14445-avoid-the-noid.json) |
+| Avoid the Police | 264754 | [264754-avoid-the-police.json](./264754-avoid-the-police.json) |
 | Avoid the Rain 2 | 231836 | [231836-avoid-the-rain-2.json](./231836-avoid-the-rain-2.json) |
 | Avoid the Threats | 359439 | [359439-avoid-the-threats.json](./359439-avoid-the-threats.json) |
 | Avoid Them: Breakthrough Gaming Arcade | 146250 | [146250-avoid-them-breakthrough-gaming-arcade.json](./146250-avoid-them-breakthrough-gaming-arcade.json) |
