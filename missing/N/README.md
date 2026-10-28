@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazo Puyo: Arle no Roux | 45258 | [45258-nazo-puyo-arle-no-roux.json](./45258-nazo-puyo-arle-no-roux.json) |
 | Nazo to Kioku no Labyrinth: Somewhere, elsewhere | 172743 | [172743-nazo-to-kioku-no-labyrinth-somewhere-elsewhere.json](./172743-nazo-to-kioku-no-labyrinth-somewhere-elsewhere.json) |
 | Nazo Waku Yakata: Oto no Ma ni Ma ni | 66047 | [66047-nazo-waku-yakata-oto-no-ma-ni-ma-ni.json](./66047-nazo-waku-yakata-oto-no-ma-ni-ma-ni.json) |
+| Nazo-Oh | 257189 | [257189-nazo-oh.json](./257189-nazo-oh.json) |
 | Nazo-ou Pocket | 37565 | [37565-nazo-ou-pocket.json](./37565-nazo-ou-pocket.json) |
 | Nazobmplay | 80194 | [80194-nazobmplay.json](./80194-nazobmplay.json) |
 | Nazojike Quiz! | 349943 | [349943-nazojike-quiz.json](./349943-nazojike-quiz.json) |
@@ -3083,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newton's Promise | 388246 | [388246-newtons-promise.json](./388246-newtons-promise.json) |
 | Newtonian Horror | 184486 | [184486-newtonian-horror.json](./184486-newtonian-horror.json) |
 | Newtonian Inversion | 145260 | [145260-newtonian-inversion.json](./145260-newtonian-inversion.json) |
+| Newtonica | 257491 | [257491-newtonica.json](./257491-newtonica.json) |
 | Newtonica2 | 77116 | [77116-newtonica2.json](./77116-newtonica2.json) |
 | Newtraction | 194374 | [194374-newtraction.json](./194374-newtraction.json) |
 | NewU Fitness First Personal Trainer | 67689 | [67689-newu-fitness-first-personal-trainer.json](./67689-newu-fitness-first-personal-trainer.json) |
@@ -5119,6 +5121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Signal: Chornobyl | 414165 | [414165-no-signal-chornobyl.json](./414165-no-signal-chornobyl.json) |
 | No Skirt Convenience Shop | 212193 | [212193-no-skirt-convenience-shop.json](./212193-no-skirt-convenience-shop.json) |
 | No Sleep for Sole | 267362 | [267362-no-sleep-for-sole.json](./267362-no-sleep-for-sole.json) |
+| No Sleep for the Dead | 257499 | [257499-no-sleep-for-the-dead.json](./257499-no-sleep-for-the-dead.json) |
 | No Son of Mine | 201314 | [201314-no-son-of-mine.json](./201314-no-son-of-mine.json) |
 | No Stars No Problem | 323279 | [323279-no-stars-no-problem.json](./323279-no-stars-no-problem.json) |
 | No Stars, Only Constellations | 176935 | [176935-no-stars-only-constellations.json](./176935-no-stars-only-constellations.json) |
