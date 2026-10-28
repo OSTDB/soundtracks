@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Screen Platformer 2 | 133473 | [133473-1-screen-platformer-2.json](./133473-1-screen-platformer-2.json) |
 | 1 Shot 1 Kill | 297759 | [297759-1-shot-1-kill.json](./297759-1-shot-1-kill.json) |
 | 1 Shot Pool | 241205 | [241205-1-shot-pool.json](./241205-1-shot-pool.json) |
+| 1 Square | 279165 | [279165-1-square.json](./279165-1-square.json) |
 | 1 Teratoaster | 184343 | [184343-1-teratoaster.json](./184343-1-teratoaster.json) |
 | 1 Thousand Deaths | 411656 | [411656-1-thousand-deaths.json](./411656-1-thousand-deaths.json) |
 | 1 to 1 Humanoid Edible Toys | 301033 | [301033-1-to-1-humanoid-edible-toys.json](./301033-1-to-1-humanoid-edible-toys.json) |
@@ -1502,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Numbers Mania | 233515 | [233515-2048-numbers-mania.json](./233515-2048-numbers-mania.json) |
 | 2048 Plus | 113347 | [113347-2048-plus.json](./113347-2048-plus.json) |
 | 2048 Pool | 264475 | [264475-2048-pool.json](./264475-2048-pool.json) |
+| 2048 Puzzle: Evangelion Edition | 278840 | [278840-2048-puzzle-evangelion-edition.json](./278840-2048-puzzle-evangelion-edition.json) |
 | 2048 Puzzle: K-ON! Edition | 279669 | [279669-2048-puzzle-k-on-edition.json](./279669-2048-puzzle-k-on-edition.json) |
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
 | 2048 Snake | 315813 | [315813-2048-snake.json](./315813-2048-snake.json) |
@@ -2081,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Sun Temple | 308951 | [308951-3d-puzzle-sun-temple.json](./308951-3d-puzzle-sun-temple.json) |
 | 3D Puzzle: Underground | 308944 | [308944-3d-puzzle-underground.json](./308944-3d-puzzle-underground.json) |
 | 3D Puzzle: Vintage House | 246858 | [246858-3d-puzzle-vintage-house.json](./246858-3d-puzzle-vintage-house.json) |
+| 3D Puzzle: Wild West | 279016 | [279016-3d-puzzle-wild-west.json](./279016-3d-puzzle-wild-west.json) |
 | 3D Puzzle: Winter Outpost | 357753 | [357753-3d-puzzle-winter-outpost.json](./357753-3d-puzzle-winter-outpost.json) |
 | 3D Puzzle: Wood House | 192241 | [192241-3d-puzzle-wood-house.json](./192241-3d-puzzle-wood-house.json) |
 | 3D Quasars | 12356 | [12356-3d-quasars.json](./12356-3d-quasars.json) |
