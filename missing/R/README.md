@@ -3020,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recall | 154397 | [154397-recall.json](./154397-recall.json) |
 | Recall | 309570 | [309570-recall.json](./309570-recall.json) |
 | Recall News | 372978 | [372978-recall-news.json](./372978-recall-news.json) |
+| Recant | 268607 | [268607-recant.json](./268607-recant.json) |
 | Recapture the Castle | 173062 | [173062-recapture-the-castle.json](./173062-recapture-the-castle.json) |
 | ReCast FF3: War of the Magitek | 339255 | [339255-recast-ff3-war-of-the-magitek.json](./339255-recast-ff3-war-of-the-magitek.json) |
 | Recca no Honoo: Flame of Recca - Final Burning | 61445 | [61445-recca-no-honoo-flame-of-recca-final-burning.json](./61445-recca-no-honoo-flame-of-recca-final-burning.json) |
@@ -4038,6 +4039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reiner Knizia's: The Confrontation | 34650 | [34650-reiner-knizias-the-confrontation.json](./34650-reiner-knizias-the-confrontation.json) |
 | Reines Du Sabbat | 308288 | [308288-reines-du-sabbat.json](./308288-reines-du-sabbat.json) |
 | Reinforced Machine | 291344 | [291344-reinforced-machine.json](./291344-reinforced-machine.json) |
+| Reinforcer | 268610 | [268610-reinforcer.json](./268610-reinforcer.json) |
 | ReinPhazer | 137459 | [137459-reinphazer.json](./137459-reinphazer.json) |
 | Reinquarantination | 182899 | [182899-reinquarantination.json](./182899-reinquarantination.json) |
 | Reinvasion | 249140 | [249140-reinvasion.json](./249140-reinvasion.json) |
