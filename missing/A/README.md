@@ -3499,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Drift | 108046 | [108046-aether-drift.json](./108046-aether-drift.json) |
 | Aether Effect | 357787 | [357787-aether-effect.json](./357787-aether-effect.json) |
 | Aether Field | 129465 | [129465-aether-field.json](./129465-aether-field.json) |
+| Aether Fighter | 277694 | [277694-aether-fighter.json](./277694-aether-fighter.json) |
 | Aether Fly | 301681 | [301681-aether-fly.json](./301681-aether-fly.json) |
 | Aether Hexxen: Death-Space Requiem Act1 | 379571 | [379571-aether-hexxen-death-space-requiem-act1.json](./379571-aether-hexxen-death-space-requiem-act1.json) |
 | Aether League | 382222 | [382222-aether-league.json](./382222-aether-league.json) |
@@ -10210,6 +10211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Slug | 175837 | [175837-aqua-slug.json](./175837-aqua-slug.json) |
 | Aqua Teen Hunger Force Zombie Ninja Pro-Am | 6911 | [6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json](./6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json) |
 | Aqua TV | 80908 | [80908-aqua-tv.json](./80908-aqua-tv.json) |
+| Aqua-Mix | 278012 | [278012-aqua-mix.json](./278012-aqua-mix.json) |
 | Aqua-World: Umi Monogatari | 45432 | [45432-aqua-world-umi-monogatari.json](./45432-aqua-world-umi-monogatari.json) |
 | Aquaball | 312640 | [312640-aquaball.json](./312640-aquaball.json) |
 | Aquabike Rush | 410015 | [410015-aquabike-rush.json](./410015-aquabike-rush.json) |
@@ -11201,6 +11203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archeologist Simulator | 148988 | [148988-archeologist-simulator.json](./148988-archeologist-simulator.json) |
 | Archeon CD-i Quiz | 217996 | [217996-archeon-cd-i-quiz.json](./217996-archeon-cd-i-quiz.json) |
 | Archer | 235264 | [235264-archer.json](./235264-archer.json) |
+| Archer | 277693 | [277693-archer.json](./277693-archer.json) |
 | Archer 2 | 95313 | [95313-archer-2.json](./95313-archer-2.json) |
 | Archer 3D: Bow Shooting Range | 295686 | [295686-archer-3d-bow-shooting-range.json](./295686-archer-3d-bow-shooting-range.json) |
 | Archer boy | 158076 | [158076-archer-boy.json](./158076-archer-boy.json) |
@@ -12065,6 +12068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Firestorm | 194995 | [194995-armored-firestorm.json](./194995-armored-firestorm.json) |
 | Armored Fist | 14983 | [14983-armored-fist.json](./14983-armored-fist.json) |
 | Armored Fist 2 | 14984 | [14984-armored-fist-2.json](./14984-armored-fist-2.json) |
+| Armored Fox | 278011 | [278011-armored-fox.json](./278011-armored-fox.json) |
 | Armored Freedom | 29625 | [29625-armored-freedom.json](./29625-armored-freedom.json) |
 | Armored Front | 114055 | [114055-armored-front.json](./114055-armored-front.json) |
 | Armored Head | 139033 | [139033-armored-head.json](./139033-armored-head.json) |
@@ -13568,6 +13572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Divide | 277816 | [277816-astral-divide.json](./277816-astral-divide.json) |
 | Astral Dodge | 268876 | [268876-astral-dodge.json](./268876-astral-dodge.json) |
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
+| Astral Druids | 278002 | [278002-astral-druids.json](./278002-astral-druids.json) |
 | Astral Equilibrium | 140358 | [140358-astral-equilibrium.json](./140358-astral-equilibrium.json) |
 | Astral Escape | 308324 | [308324-astral-escape.json](./308324-astral-escape.json) |
 | Astral Fable | 303187 | [303187-astral-fable.json](./303187-astral-fable.json) |
