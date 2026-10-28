@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameGuru | 59978 | [59978-gameguru.json](./59978-gameguru.json) |
 | GameGuru: Industrial Sewer Pack | 166190 | [166190-gameguru-industrial-sewer-pack.json](./166190-gameguru-industrial-sewer-pack.json) |
 | Gamehunt | 119768 | [119768-gamehunt.json](./119768-gamehunt.json) |
+| Gamehunt | 234253 | [234253-gamehunt.json](./234253-gamehunt.json) |
 | GameKey: Disney - Disney Sports Bowling / Goofy's Underwater Adventure | 221806 | [221806-gamekey-disney-disney-sports-bowling-goofys-underwater-adventure.json](./221806-gamekey-disney-disney-sports-bowling-goofys-underwater-adventure.json) |
 | GameKey: Disney - Disney Sports Tennis / Disney Face Chase | 221799 | [221799-gamekey-disney-disney-sports-tennis-disney-face-chase.json](./221799-gamekey-disney-disney-sports-tennis-disney-face-chase.json) |
 | GameKey: Disney - Disney Sports Tennis / Disney Face Chase / The Riches of Agrabah with Disney | 221807 | [221807-gamekey-disney-disney-sports-tennis-disney-face-chase-the-riches-of-agrabah-with-disney.json](./221807-gamekey-disney-disney-sports-tennis-disney-face-chase-the-riches-of-agrabah-with-disney.json) |
@@ -2383,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gems Rush | 319964 | [319964-gems-rush.json](./319964-gems-rush.json) |
 | Gems With Friends | 60469 | [60469-gems-with-friends.json](./60469-gems-with-friends.json) |
 | Gemsa | 243966 | [243966-gemsa.json](./243966-gemsa.json) |
+| Gemscape | 234280 | [234280-gemscape.json](./234280-gemscape.json) |
 | Gemstone Defense | 165760 | [165760-gemstone-defense.json](./165760-gemstone-defense.json) |
 | Gemstone Guardians | 239640 | [239640-gemstone-guardians.json](./239640-gemstone-guardians.json) |
 | Gemstone IV | 79899 | [79899-gemstone-iv.json](./79899-gemstone-iv.json) |
@@ -7464,6 +7466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravityBall | 409647 | [409647-gravityball.json](./409647-gravityball.json) |
 | Gravityscape DX | 287590 | [287590-gravityscape-dx.json](./287590-gravityscape-dx.json) |
 | GravityTunnelVR | 52773 | [52773-gravitytunnelvr.json](./52773-gravitytunnelvr.json) |
+| Gravlist | 234279 | [234279-gravlist.json](./234279-gravlist.json) |
 | GravMetal | 335736 | [335736-gravmetal.json](./335736-gravmetal.json) |
 | GravNewton | 52249 | [52249-gravnewton.json](./52249-gravnewton.json) |
 | GravPool | 32180 | [32180-gravpool.json](./32180-gravpool.json) |
@@ -9870,6 +9873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyakuten Hanafuda | 256331 | [256331-gyakuten-hanafuda.json](./256331-gyakuten-hanafuda.json) |
 | Gyakuten Higurashi Saiban: Curry Naru Gyakuten | 257231 | [257231-gyakuten-higurashi-saiban-curry-naru-gyakuten.json](./257231-gyakuten-higurashi-saiban-curry-naru-gyakuten.json) |
 | Gyakuten Kenji 2 | 84972 | [84972-gyakuten-kenji-2.json](./84972-gyakuten-kenji-2.json) |
+| Gyakuten Live! | 234251 | [234251-gyakuten-live.json](./234251-gyakuten-live.json) |
 | Gyakuten Othellonia | 220312 | [220312-gyakuten-othellonia.json](./220312-gyakuten-othellonia.json) |
 | Gyakuten Puzzle Irekaeru Gyakuten | 256345 | [256345-gyakuten-puzzle-irekaeru-gyakuten.json](./256345-gyakuten-puzzle-irekaeru-gyakuten.json) |
 | Gyakuten Saiban | 221280 | [221280-gyakuten-saiban.json](./221280-gyakuten-saiban.json) |
