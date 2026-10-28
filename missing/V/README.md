@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valthirian Arc: Hero School Story 2 | 163873 | [163873-valthirian-arc-hero-school-story-2.json](./163873-valthirian-arc-hero-school-story-2.json) |
 | Valtica | 413509 | [413509-valtica.json](./413509-valtica.json) |
 | Valtric | 39995 | [39995-valtric.json](./39995-valtric.json) |
+| Valuable Cargo | 280242 | [280242-valuable-cargo.json](./280242-valuable-cargo.json) |
 | Value 1500: O-chan no Oekaki Logic 3 | 58531 | [58531-value-1500-o-chan-no-oekaki-logic-3.json](./58531-value-1500-o-chan-no-oekaki-logic-3.json) |
 | ValueHunt | 281338 | [281338-valuehunt.json](./281338-valuehunt.json) |
 | Valve Complete Pack | 55025 | [55025-valve-complete-pack.json](./55025-valve-complete-pack.json) |
@@ -752,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VaporPunk | 334309 | [334309-vaporpunk.json](./334309-vaporpunk.json) |
 | Vaporum | 56969 | [56969-vaporum.json](./56969-vaporum.json) |
 | Vaporum: Lockdown | 126812 | [126812-vaporum-lockdown.json](./126812-vaporum-lockdown.json) |
+| Vaporware Odyssey | 280366 | [280366-vaporware-odyssey.json](./280366-vaporware-odyssey.json) |
 | Vaporwave | 149882 | [149882-vaporwave.json](./149882-vaporwave.json) |
 | Vaporwave Battler | 350522 | [350522-vaporwave-battler.json](./350522-vaporwave-battler.json) |
 | Vaporwave Drift | 119453 | [119453-vaporwave-drift.json](./119453-vaporwave-drift.json) |
@@ -1112,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocity: Midnight Run | 415765 | [415765-velocity-midnight-run.json](./415765-velocity-midnight-run.json) |
 | Velocity: The Race Begins | 408903 | [408903-velocity-the-race-begins.json](./408903-velocity-the-race-begins.json) |
 | Velocity.io | 256350 | [256350-velocity-io.json](./256350-velocity-io.json) |
+| VelocityLoop, Zero to Lightspeed | 280365 | [280365-velocityloop-zero-to-lightspeed.json](./280365-velocityloop-zero-to-lightspeed.json) |
 | Velocrash | 414618 | [414618-velocrash.json](./414618-velocrash.json) |
 | Velone | 198247 | [198247-velone.json](./198247-velone.json) |
 | Veloren | 121445 | [121445-veloren.json](./121445-veloren.json) |
