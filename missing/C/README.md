@@ -5621,6 +5621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobyl | 228687 | [228687-chernobyl.json](./228687-chernobyl.json) |
 | Chernobyl | 59891 | [59891-chernobyl.json](./59891-chernobyl.json) |
 | Chernobyl 1986 | 120929 | [120929-chernobyl-1986.json](./120929-chernobyl-1986.json) |
+| Chernobyl Again | 265457 | [265457-chernobyl-again.json](./265457-chernobyl-again.json) |
 | Chernobyl Commando | 9796 | [9796-chernobyl-commando.json](./9796-chernobyl-commando.json) |
 | Chernobyl Trap | 193660 | [193660-chernobyl-trap.json](./193660-chernobyl-trap.json) |
 | Chernobyl VR Project | 20092 | [20092-chernobyl-vr-project.json](./20092-chernobyl-vr-project.json) |
@@ -7023,6 +7024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma Quaternion: Experience x3 | 171030 | [171030-chroma-quaternion-experience-x3.json](./171030-chroma-quaternion-experience-x3.json) |
 | Chroma Squad | 9046 | [9046-chroma-squad.json](./9046-chroma-squad.json) |
 | Chroma Tower | 183778 | [183778-chroma-tower.json](./183778-chroma-tower.json) |
+| Chroma Wars | 265804 | [265804-chroma-wars.json](./265804-chroma-wars.json) |
 | Chroma Ways | 72022 | [72022-chroma-ways.json](./72022-chroma-ways.json) |
 | Chroma Zero | 319356 | [319356-chroma-zero.json](./319356-chroma-zero.json) |
 | Chroma: Bloom and Blight | 128916 | [128916-chroma-bloom-and-blight.json](./128916-chroma-bloom-and-blight.json) |
@@ -8981,6 +8983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close the Sky | 413907 | [413907-close-the-sky.json](./413907-close-the-sky.json) |
 | Close the Window! | 81914 | [81914-close-the-window.json](./81914-close-the-window.json) |
 | Close the Windows, Lock the Doors | 184965 | [184965-close-the-windows-lock-the-doors.json](./184965-close-the-windows-lock-the-doors.json) |
+| Close to Flight | 265786 | [265786-close-to-flight.json](./265786-close-to-flight.json) |
 | Close to Light | 380114 | [380114-close-to-light.json](./380114-close-to-light.json) |
 | Close to You | 217874 | [217874-close-to-you.json](./217874-close-to-you.json) |
 | Close to: Inori no Oka | 196027 | [196027-close-to-inori-no-oka.json](./196027-close-to-inori-no-oka.json) |
