@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vassoul | 384251 | [384251-vassoul.json](./384251-vassoul.json) |
 | Vast | 116103 | [116103-vast.json](./116103-vast.json) |
 | Vast | 184787 | [184787-vast.json](./184787-vast.json) |
+| Vast | 265785 | [265785-vast.json](./265785-vast.json) |
 | Vast Haven-1 VR | 350495 | [350495-vast-haven-1-vr.json](./350495-vast-haven-1-vr.json) |
 | Vast Survival | 174774 | [174774-vast-survival.json](./174774-vast-survival.json) |
 | Vast Trivia of the Void | 166459 | [166459-vast-trivia-of-the-void.json](./166459-vast-trivia-of-the-void.json) |
