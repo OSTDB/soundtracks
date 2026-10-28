@@ -2422,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FarmTech | 257891 | [257891-farmtech.json](./257891-farmtech.json) |
 | Farmville | 9765 | [9765-farmville.json](./9765-farmville.json) |
 | FarmVille 2: Country Escape | 38889 | [38889-farmville-2-country-escape.json](./38889-farmville-2-country-escape.json) |
+| FarmVille 2: Tropic Escape | 243841 | [243841-farmville-2-tropic-escape.json](./243841-farmville-2-tropic-escape.json) |
 | FarmVille 3 | 204459 | [204459-farmville-3.json](./204459-farmville-3.json) |
 | FarmVille: Tropic Escape | 87574 | [87574-farmville-tropic-escape.json](./87574-farmville-tropic-escape.json) |
 | Farmwand | 260239 | [260239-farmwand.json](./260239-farmwand.json) |
@@ -5296,6 +5297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefly Shelter | 404865 | [404865-firefly-shelter.json](./404865-firefly-shelter.json) |
 | FireFly Studios' Stronghold Warchest | 78021 | [78021-firefly-studios-stronghold-warchest.json](./78021-firefly-studios-stronghold-warchest.json) |
 | Firefly Witch | 275345 | [275345-firefly-witch.json](./275345-firefly-witch.json) |
+| Firefly: A Myth Nerds Journey | 243845 | [243845-firefly-a-myth-nerds-journey.json](./243845-firefly-a-myth-nerds-journey.json) |
 | FireForce | 13050 | [13050-fireforce.json](./13050-fireforce.json) |
 | FireForce Online | 240907 | [240907-fireforce-online.json](./240907-fireforce-online.json) |
 | Firefox | 7970 | [7970-firefox.json](./7970-firefox.json) |
@@ -9106,6 +9108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Crafter | 369711 | [369711-fortune-crafter.json](./369711-fortune-crafter.json) |
 | Fortune Decker | 270743 | [270743-fortune-decker.json](./270743-fortune-decker.json) |
 | Fortune Factory | 413873 | [413873-fortune-factory.json](./413873-fortune-factory.json) |
+| Fortune Follow: The Mansion | 243301 | [243301-fortune-follow-the-mansion.json](./243301-fortune-follow-the-mansion.json) |
 | Fortune Fragments | 391788 | [391788-fortune-fragments.json](./391788-fortune-fragments.json) |
 | Fortune Handlers | 235493 | [235493-fortune-handlers.json](./235493-fortune-handlers.json) |
 | Fortune Hunter | 292047 | [292047-fortune-hunter.json](./292047-fortune-hunter.json) |
@@ -9415,6 +9418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FourPlay Chess | 193236 | [193236-fourplay-chess.json](./193236-fourplay-chess.json) |
 | Foursite | 273735 | [273735-foursite.json](./273735-foursite.json) |
 | Fourspell Survivors Online | 224247 | [224247-fourspell-survivors-online.json](./224247-fourspell-survivors-online.json) |
+| Fourteen Fiends | 243861 | [243861-fourteen-fiends.json](./243861-fourteen-fiends.json) |
 | Fourteen Years of Flames | 380664 | [380664-fourteen-years-of-flames.json](./380664-fourteen-years-of-flames.json) |
 | Fourth Dimension | 362405 | [362405-fourth-dimension.json](./362405-fourth-dimension.json) |
 | Fourth Space | 119564 | [119564-fourth-space.json](./119564-fourth-space.json) |
@@ -11385,6 +11389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Moon Guildhouse Simulator | 366251 | [366251-full-moon-guildhouse-simulator.json](./366251-full-moon-guildhouse-simulator.json) |
 | Full Moon in San Francisco | 72274 | [72274-full-moon-in-san-francisco.json](./72274-full-moon-in-san-francisco.json) |
 | Full Moon Mafia | 298917 | [298917-full-moon-mafia.json](./298917-full-moon-mafia.json) |
+| Full Moon Rush | 243294 | [243294-full-moon-rush.json](./243294-full-moon-rush.json) |
 | Full of Crap | 288838 | [288838-full-of-crap.json](./288838-full-of-crap.json) |
 | Full of Love | 116259 | [116259-full-of-love.json](./116259-full-of-love.json) |
 | Full Pipe | 28982 | [28982-full-pipe.json](./28982-full-pipe.json) |
@@ -11911,6 +11916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury of the Furries 2 | 226799 | [226799-fury-of-the-furries-2.json](./226799-fury-of-the-furries-2.json) |
 | Fury of the Gods | 35174 | [35174-fury-of-the-gods.json](./35174-fury-of-the-gods.json) |
 | Fury Race Survivor | 273491 | [273491-fury-race-survivor.json](./273491-fury-race-survivor.json) |
+| Fury Roads Survivor | 243322 | [243322-fury-roads-survivor.json](./243322-fury-roads-survivor.json) |
 | Fury Strike | 107918 | [107918-fury-strike.json](./107918-fury-strike.json) |
 | Fury! | 372209 | [372209-fury.json](./372209-fury.json) |
 | Fury's Path: To The Stars | 384299 | [384299-furys-path-to-the-stars.json](./384299-furys-path-to-the-stars.json) |
