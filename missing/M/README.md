@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Colors 2 | 233543 | [233543-magic-colors-2.json](./233543-magic-colors-2.json) |
 | Magic Combat VR | 115181 | [115181-magic-combat-vr.json](./115181-magic-combat-vr.json) |
 | Magic Construct | 333436 | [333436-magic-construct.json](./333436-magic-construct.json) |
+| Magic Corgi | 236434 | [236434-magic-corgi.json](./236434-magic-corgi.json) |
 | Magic Craft: The Hero of Fantasy Kingdom | 175227 | [175227-magic-craft-the-hero-of-fantasy-kingdom.json](./175227-magic-craft-the-hero-of-fantasy-kingdom.json) |
 | Magic Crayon | 57649 | [57649-magic-crayon.json](./57649-magic-crayon.json) |
 | Magic Crystals | 192810 | [192810-magic-crystals.json](./192810-magic-crystals.json) |
@@ -8409,6 +8410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Arms: Glitch in the System | 4004 | [4004-metal-arms-glitch-in-the-system.json](./4004-metal-arms-glitch-in-the-system.json) |
 | Metal Army | 59109 | [59109-metal-army.json](./59109-metal-army.json) |
 | Metal Army War Revenge | 221714 | [221714-metal-army-war-revenge.json](./221714-metal-army-war-revenge.json) |
+| Metal Ascension | 236459 | [236459-metal-ascension.json](./236459-metal-ascension.json) |
 | Metal Assault | 37375 | [37375-metal-assault.json](./37375-metal-assault.json) |
 | Metal Assault | 9040 | [9040-metal-assault.json](./9040-metal-assault.json) |
 | Metal Black: Alternative | 70648 | [70648-metal-black-alternative.json](./70648-metal-black-alternative.json) |
@@ -10151,6 +10153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Military Conflict: Vietnam | 154984 | [154984-military-conflict-vietnam.json](./154984-military-conflict-vietnam.json) |
 | Military Crusaders | 157002 | [157002-military-crusaders.json](./157002-military-crusaders.json) |
 | Military Defense | 326192 | [326192-military-defense.json](./326192-military-defense.json) |
+| Military Division | 236428 | [236428-military-division.json](./236428-military-division.json) |
 | Military Enlistment Office Escape Simulator | 233030 | [233030-military-enlistment-office-escape-simulator.json](./233030-military-enlistment-office-escape-simulator.json) |
 | Military Incremental Complex | 330099 | [330099-military-incremental-complex.json](./330099-military-incremental-complex.json) |
 | Military Madness | 270701 | [270701-military-madness.json](./270701-military-madness.json) |
@@ -10537,6 +10540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MindKatt | 285334 | [285334-mindkatt.json](./285334-mindkatt.json) |
 | Mindless | 153001 | [153001-mindless.json](./153001-mindless.json) |
 | MindLess | 128457 | [128457-mindless.json](./128457-mindless.json) |
+| Mindless Breakpoint | 236440 | [236440-mindless-breakpoint.json](./236440-mindless-breakpoint.json) |
 | Mindless Running | 33533 | [33533-mindless-running.json](./33533-mindless-running.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
 | MindLoop | 365195 | [365195-mindloop.json](./365195-mindloop.json) |
@@ -13969,6 +13973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Shooter | 290700 | [290700-monster-shooter.json](./290700-monster-shooter.json) |
 | Monster Shooter: The Lost Levels | 89807 | [89807-monster-shooter-the-lost-levels.json](./89807-monster-shooter-the-lost-levels.json) |
 | Monster Shop Simulator | 406858 | [406858-monster-shop-simulator.json](./406858-monster-shop-simulator.json) |
+| Monster Shopper | 236432 | [236432-monster-shopper.json](./236432-monster-shopper.json) |
 | Monster Slayer | 152985 | [152985-monster-slayer.json](./152985-monster-slayer.json) |
 | Monster Slayer Extermination | 215602 | [215602-monster-slayer-extermination.json](./215602-monster-slayer-extermination.json) |
 | Monster Slayer: Motion Edition | 363413 | [363413-monster-slayer-motion-edition.json](./363413-monster-slayer-motion-edition.json) |
