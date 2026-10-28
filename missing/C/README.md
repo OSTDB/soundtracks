@@ -886,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CamGirls Inc | 202386 | [202386-camgirls-inc.json](./202386-camgirls-inc.json) |
 | Camgoo Sixplay | 93123 | [93123-camgoo-sixplay.json](./93123-camgoo-sixplay.json) |
 | Camille and Laura | 311871 | [311871-camille-and-laura.json](./311871-camille-and-laura.json) |
+| Caminho Estreito | 262149 | [262149-caminho-estreito.json](./262149-caminho-estreito.json) |
 | Camino de Santiago | 319549 | [319549-camino-de-santiago.json](./319549-camino-de-santiago.json) |
 | Camisole | 128366 | [128366-camisole.json](./128366-camisole.json) |
 | Camo Sniper | 337157 | [337157-camo-sniper.json](./337157-camo-sniper.json) |
@@ -14466,6 +14467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazzers | 89957 | [89957-crazzers.json](./89957-crazzers.json) |
 | CRE1M1: Greyvein River | 276475 | [276475-cre1m1-greyvein-river.json](./276475-cre1m1-greyvein-river.json) |
 | Crea | 17105 | [17105-crea.json](./17105-crea.json) |
+| Crea Run! | 262504 | [262504-crea-run.json](./262504-crea-run.json) |
 | creak, Creak | 58706 | [58706-creak-creak.json](./58706-creak-creak.json) |
 | Creaks: Collector's Edition | 154553 | [154553-creaks-collectors-edition.json](./154553-creaks-collectors-edition.json) |
 | Cream and Cheese in Sonic the Hedgehog | 201287 | [201287-cream-and-cheese-in-sonic-the-hedgehog.json](./201287-cream-and-cheese-in-sonic-the-hedgehog.json) |
@@ -17269,6 +17271,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutouts! | 93454 | [93454-cutouts.json](./93454-cutouts.json) |
 | Cutthroat | 80929 | [80929-cutthroat.json](./80929-cutthroat.json) |
 | Cutthroat Gunboat | 51419 | [51419-cutthroat-gunboat.json](./51419-cutthroat-gunboat.json) |
+| Cutthroat Island | 262151 | [262151-cutthroat-island.json](./262151-cutthroat-island.json) |
+| Cutthroat Island | 262152 | [262152-cutthroat-island.json](./262152-cutthroat-island.json) |
 | Cutthroat Island | 7828 | [7828-cutthroat-island.json](./7828-cutthroat-island.json) |
 | Cutthroat Island GG2SMS | 369594 | [369594-cutthroat-island-gg2sms.json](./369594-cutthroat-island-gg2sms.json) |
 | Cutthroat Pinochle | 90384 | [90384-cutthroat-pinochle.json](./90384-cutthroat-pinochle.json) |
@@ -17863,3 +17867,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Czar: Decision | 129467 | [129467-czar-decision.json](./129467-czar-decision.json) |
 | Czarny Orzel | 130680 | [130680-czarny-orzel.json](./130680-czarny-orzel.json) |
 | Czech Soccer Manager 2020 | 145425 | [145425-czech-soccer-manager-2020.json](./145425-czech-soccer-manager-2020.json) |
+| CzechBox | 262160 | [262160-czechbox.json](./262160-czechbox.json) |
