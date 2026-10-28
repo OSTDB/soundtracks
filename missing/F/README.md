@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Stars: War of Empires | 33562 | [33562-falling-stars-war-of-empires.json](./33562-falling-stars-war-of-empires.json) |
 | Falling Stars... And Other Celestial Objects | 295618 | [295618-falling-stars-and-other-celestial-objects.json](./295618-falling-stars-and-other-celestial-objects.json) |
 | Falling to Heaven | 197052 | [197052-falling-to-heaven.json](./197052-falling-to-heaven.json) |
+| Falling Tower | 253955 | [253955-falling-tower.json](./253955-falling-tower.json) |
 | Falling Up | 134678 | [134678-falling-up.json](./134678-falling-up.json) |
 | Falling with Ice Phoenix!: Cozy Version | 387625 | [387625-falling-with-ice-phoenix-cozy-version.json](./387625-falling-with-ice-phoenix-cozy-version.json) |
 | Falling words | 100483 | [100483-falling-words.json](./100483-falling-words.json) |
