@@ -5184,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akumajou Dracula | 322142 | [322142-akumajou-dracula.json](./322142-akumajou-dracula.json) |
 | Akumajou Dracula | 377248 | [377248-akumajou-dracula.json](./377248-akumajou-dracula.json) |
 | Akumajou Dracula X: Gekka no Yasoukyoku | 45508 | [45508-akumajou-dracula-x-gekka-no-yasoukyoku.json](./45508-akumajou-dracula-x-gekka-no-yasoukyoku.json) |
+| Akumajyo Dracula Peke | 266915 | [266915-akumajyo-dracula-peke.json](./266915-akumajyo-dracula-peke.json) |
 | Akumanor Escape DX | 359894 | [359894-akumanor-escape-dx.json](./359894-akumanor-escape-dx.json) |
 | Akumanor Gaiden | 361222 | [361222-akumanor-gaiden.json](./361222-akumanor-gaiden.json) |
 | Akumi Wars | 199329 | [199329-akumi-wars.json](./199329-akumi-wars.json) |
@@ -12274,6 +12275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the World Puzzle | 362184 | [362184-around-the-world-puzzle.json](./362184-around-the-world-puzzle.json) |
 | Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
 | Around Us | 226230 | [226230-around-us.json](./226230-around-us.json) |
+| Around us: Zombie shooter | 266933 | [266933-around-us-zombie-shooter.json](./266933-around-us-zombie-shooter.json) |
 | Aroya Knight | 389681 | [389681-aroya-knight.json](./389681-aroya-knight.json) |
 | Arpiel Online | 56466 | [56466-arpiel-online.json](./56466-arpiel-online.json) |
 | Arpongi | 311333 | [311333-arpongi.json](./311333-arpongi.json) |
