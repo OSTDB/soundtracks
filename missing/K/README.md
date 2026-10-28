@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ker-Chunk! | 312159 | [312159-ker-chunk.json](./312159-ker-chunk.json) |
 | Kerbal Space Program | 3102 | [3102-kerbal-space-program.json](./3102-kerbal-space-program.json) |
 | Kerbal Space Program 2 | 121759 | [121759-kerbal-space-program-2.json](./121759-kerbal-space-program-2.json) |
+| Kerbal Space Program Complete Edition | 231007 | [231007-kerbal-space-program-complete-edition.json](./231007-kerbal-space-program-complete-edition.json) |
 | Kerbal Space Program: Breaking Ground | 118176 | [118176-kerbal-space-program-breaking-ground.json](./118176-kerbal-space-program-breaking-ground.json) |
 | Kerbal Space Program: Enhanced Edition - History and Parts Pack | 164578 | [164578-kerbal-space-program-enhanced-edition-history-and-parts-pack.json](./164578-kerbal-space-program-enhanced-edition-history-and-parts-pack.json) |
 | Kerbal Space Program: Enhanced Edition Complete | 139970 | [139970-kerbal-space-program-enhanced-edition-complete.json](./139970-kerbal-space-program-enhanced-edition-complete.json) |
@@ -2013,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids on Keys | 97482 | [97482-kids-on-keys.json](./97482-kids-on-keys.json) |
 | Kids on Site | 46426 | [46426-kids-on-site.json](./46426-kids-on-site.json) |
 | Kids on Site: Hard Hat Edition | 209925 | [209925-kids-on-site-hard-hat-edition.json](./209925-kids-on-site-hard-hat-edition.json) |
+| Kids Party Checkers | 231025 | [231025-kids-party-checkers.json](./231025-kids-party-checkers.json) |
 | Kids Preschool Puzzles | 323152 | [323152-kids-preschool-puzzles.json](./323152-kids-preschool-puzzles.json) |
 | Kids Puzzle - 2 in 1 Bundle | 231048 | [231048-kids-puzzle-2-in-1-bundle.json](./231048-kids-puzzle-2-in-1-bundle.json) |
 | Kids Puzzle Animal Game | 259974 | [259974-kids-puzzle-animal-game.json](./259974-kids-puzzle-animal-game.json) |
@@ -2426,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4661,6 +4664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kore ga Pro Yakyuu '89 | 42037 | [42037-kore-ga-pro-yakyuu-89.json](./42037-kore-ga-pro-yakyuu-89.json) |
 | Kore ga Pro Yakyuu '90 | 37686 | [37686-kore-ga-pro-yakyuu-90.json](./37686-kore-ga-pro-yakyuu-90.json) |
 | Kore VR | 244170 | [244170-kore-vr.json](./244170-kore-vr.json) |
+| Korea Dynasty | 231591 | [231591-korea-dynasty.json](./231591-korea-dynasty.json) |
 | Korea: Forgotten Conflict | 24186 | [24186-korea-forgotten-conflict.json](./24186-korea-forgotten-conflict.json) |
 | Korean Adventures in Russia | 156547 | [156547-korean-adventures-in-russia.json](./156547-korean-adventures-in-russia.json) |
 | Korean Dominatrixes Are the Best | 385706 | [385706-korean-dominatrixes-are-the-best.json](./385706-korean-dominatrixes-are-the-best.json) |
