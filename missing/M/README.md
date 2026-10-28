@@ -12727,6 +12727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito the Cat: Christmas Edition | 231256 | [231256-mojito-the-cat-christmas-edition.json](./231256-mojito-the-cat-christmas-edition.json) |
 | Mojito the Cat: Christmas Skins | 309642 | [309642-mojito-the-cat-christmas-skins.json](./309642-mojito-the-cat-christmas-skins.json) |
 | Mojito the Cat: Complete Edition | 254924 | [254924-mojito-the-cat-complete-edition.json](./254924-mojito-the-cat-complete-edition.json) |
+| Mojito the Cat: Complete Edition + | 272408 | [272408-mojito-the-cat-complete-edition.json](./272408-mojito-the-cat-complete-edition.json) |
 | Mojito the Cat: Definitive Edition | 251600 | [251600-mojito-the-cat-definitive-edition.json](./251600-mojito-the-cat-definitive-edition.json) |
 | Mojito the Cat: Deluxe Edition | 226780 | [226780-mojito-the-cat-deluxe-edition.json](./226780-mojito-the-cat-deluxe-edition.json) |
 | Mojito the Cat: Director's Cut | 267233 | [267233-mojito-the-cat-directors-cut.json](./267233-mojito-the-cat-directors-cut.json) |
@@ -14254,6 +14255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon64 | 339946 | [339946-moon64.json](./339946-moon64.json) |
 | Moonatees | 29161 | [29161-moonatees.json](./29161-moonatees.json) |
 | Moonbase | 94230 | [94230-moonbase.json](./94230-moonbase.json) |
+| Moonbase Accident | 272122 | [272122-moonbase-accident.json](./272122-moonbase-accident.json) |
 | Moonbase Alpha | 10264 | [10264-moonbase-alpha.json](./10264-moonbase-alpha.json) |
 | MoonBase Commander | 10557 | [10557-moonbase-commander.json](./10557-moonbase-commander.json) |
 | Moonbase Lambda | 272959 | [272959-moonbase-lambda.json](./272959-moonbase-lambda.json) |
