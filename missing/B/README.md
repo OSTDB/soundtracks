@@ -4262,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear in Super Action Adventure 2 | 95984 | [95984-bear-in-super-action-adventure-2.json](./95984-bear-in-super-action-adventure-2.json) |
 | Bear in the Snow | 362882 | [362882-bear-in-the-snow.json](./362882-bear-in-the-snow.json) |
 | Bear It | 277762 | [277762-bear-it.json](./277762-bear-it.json) |
+| Bear Jojo | 278563 | [278563-bear-jojo.json](./278563-bear-jojo.json) |
 | Bear Jump | 328200 | [328200-bear-jump.json](./328200-bear-jump.json) |
 | Bear Knight Honey Quest | 340734 | [340734-bear-knight-honey-quest.json](./340734-bear-knight-honey-quest.json) |
 | Bear Miner | 315236 | [315236-bear-miner.json](./315236-bear-miner.json) |
@@ -4425,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat 'Em All | 265924 | [265924-beat-em-all.json](./265924-beat-em-all.json) |
 | Beat 'Em Down | 151301 | [151301-beat-em-down.json](./151301-beat-em-down.json) |
 | Beat 'Em Up | 160294 | [160294-beat-em-up.json](./160294-beat-em-up.json) |
+| Beat 'N' Path | 278560 | [278560-beat-n-path.json](./278560-beat-n-path.json) |
 | Beat & Beasties | 406225 | [406225-beat-and-beasties.json](./406225-beat-and-beasties.json) |
 | Beat Aimer! | 213971 | [213971-beat-aimer.json](./213971-beat-aimer.json) |
 | Beat Arena | 168686 | [168686-beat-arena.json](./168686-beat-arena.json) |
@@ -4942,6 +4944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Became the Hunted | 109315 | [109315-became-the-hunted.json](./109315-became-the-hunted.json) |
 | Becastled | 139654 | [139654-becastled.json](./139654-becastled.json) |
 | Because I happened to know a secret of a transforming heroine... | 83177 | [83177-because-i-happened-to-know-a-secret-of-a-transforming-heroine.json](./83177-because-i-happened-to-know-a-secret-of-a-transforming-heroine.json) |
+| Because I Love Her Episode 1 | 278437 | [278437-because-i-love-her-episode-1.json](./278437-because-i-love-her-episode-1.json) |
 | Because It's a Dream, It Must Be Romance: Connecting Hearts Across Realities | 399613 | [399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json](./399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json) |
 | Because of Magic | 291953 | [291953-because-of-magic.json](./291953-because-of-magic.json) |
 | Because The World Died | 303707 | [303707-because-the-world-died.json](./303707-because-the-world-died.json) |
@@ -9027,6 +9030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block City: Bus Edition | 193216 | [193216-block-city-bus-edition.json](./193216-block-city-bus-edition.json) |
 | Block Collide | 180023 | [180023-block-collide.json](./180023-block-collide.json) |
 | Block Competition | 100564 | [100564-block-competition.json](./100564-block-competition.json) |
+| Block Control | 278436 | [278436-block-control.json](./278436-block-control.json) |
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
 | Block Craft 3D: City Building | 86995 | [86995-block-craft-3d-city-building.json](./86995-block-craft-3d-city-building.json) |
 | Block Craft 3D: Crafting & Building Game | 99707 | [99707-block-craft-3d-crafting-and-building-game.json](./99707-block-craft-3d-crafting-and-building-game.json) |
@@ -9194,6 +9198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockDoc | 111172 | [111172-blockdoc.json](./111172-blockdoc.json) |
 | Blockdown | 157204 | [157204-blockdown.json](./157204-blockdown.json) |
 | Blocked and Loaded | 81890 | [81890-blocked-and-loaded.json](./81890-blocked-and-loaded.json) |
+| Blocked In | 278559 | [278559-blocked-in.json](./278559-blocked-in.json) |
 | Blocked Up | 183897 | [183897-blocked-up.json](./183897-blocked-up.json) |
 | Blocked Zona | 200565 | [200565-blocked-zona.json](./200565-blocked-zona.json) |
 | Blocked-Out! | 305805 | [305805-blocked-out.json](./305805-blocked-out.json) |
@@ -9926,6 +9931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossoming Ruins | 375208 | [375208-blossoming-ruins.json](./375208-blossoming-ruins.json) |
 | Blossoming Yandere | 114115 | [114115-blossoming-yandere.json](./114115-blossoming-yandere.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
+| Blouncy | 278558 | [278558-blouncy.json](./278558-blouncy.json) |
 | Blow & Fly | 189358 | [189358-blow-and-fly.json](./189358-blow-and-fly.json) |
 | Blow Away | 244885 | [244885-blow-away.json](./244885-blow-away.json) |
 | Blow Away Survivors | 250507 | [250507-blow-away-survivors.json](./250507-blow-away-survivors.json) |
@@ -10995,6 +11001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonded Realities | 66109 | [66109-bonded-realities.json](./66109-bonded-realities.json) |
 | Bondee's Barnyard: Safety Violation | 231434 | [231434-bondees-barnyard-safety-violation.json](./231434-bondees-barnyard-safety-violation.json) |
 | Bonding, Now | 319676 | [319676-bonding-now.json](./319676-bonding-now.json) |
+| Bondman of Traps | 278561 | [278561-bondman-of-traps.json](./278561-bondman-of-traps.json) |
 | Bonds | 111096 | [111096-bonds.json](./111096-bonds.json) |
 | Bonds | 380036 | [380036-bonds.json](./380036-bonds.json) |
 | Bonds Defiled | 379388 | [379388-bonds-defiled.json](./379388-bonds-defiled.json) |
@@ -11974,6 +11981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boundra | 62499 | [62499-boundra.json](./62499-boundra.json) |
 | BoundWorlds | 295501 | [295501-boundworlds.json](./295501-boundworlds.json) |
 | Bounters | 199119 | [199119-bounters.json](./199119-bounters.json) |
+| Bounties of Babylon | 278433 | [278433-bounties-of-babylon.json](./278433-bounties-of-babylon.json) |
 | Bountiful Hunters | 382315 | [382315-bountiful-hunters.json](./382315-bountiful-hunters.json) |
 | Bountiful Life | 149503 | [149503-bountiful-life.json](./149503-bountiful-life.json) |
 | Bounty | 226269 | [226269-bounty.json](./226269-bounty.json) |
