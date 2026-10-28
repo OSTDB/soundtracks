@@ -5696,6 +5696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pileus Bad Trip | 391784 | [391784-pileus-bad-trip.json](./391784-pileus-bad-trip.json) |
 | Pilfer | 129434 | [129434-pilfer.json](./129434-pilfer.json) |
 | Pilfer | 388710 | [388710-pilfer.json](./388710-pilfer.json) |
+| Pilfer: Story of Light | 244065 | [244065-pilfer-story-of-light.json](./244065-pilfer-story-of-light.json) |
 | Pilgrim | 229788 | [229788-pilgrim.json](./229788-pilgrim.json) |
 | Pilgrim | 301813 | [301813-pilgrim.json](./301813-pilgrim.json) |
 | Pilgrim | 85593 | [85593-pilgrim.json](./85593-pilgrim.json) |
@@ -8189,6 +8190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plantgotchi | 122321 | [122321-plantgotchi.json](./122321-plantgotchi.json) |
 | Planth Care | 181356 | [181356-planth-care.json](./181356-planth-care.json) |
 | Planticulture | 364020 | [364020-planticulture.json](./364020-planticulture.json) |
+| Planting Trees | 244422 | [244422-planting-trees.json](./244422-planting-trees.json) |
 | Plantiquarian | 361257 | [361257-plantiquarian.json](./361257-plantiquarian.json) |
 | Plantolution | 182135 | [182135-plantolution.json](./182135-plantolution.json) |
 | Plantoons | 341570 | [341570-plantoons.json](./341570-plantoons.json) |
