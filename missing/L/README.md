@@ -2564,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion Fall | 184847 | [184847-legion-fall.json](./184847-legion-fall.json) |
 | Legion Gold | 125180 | [125180-legion-gold.json](./125180-legion-gold.json) |
 | Legion Hunters | 414491 | [414491-legion-hunters.json](./414491-legion-hunters.json) |
+| Legion of Doom | 231023 | [231023-legion-of-doom.json](./231023-legion-of-doom.json) |
 | Legion of Evil | 346775 | [346775-legion-of-evil.json](./346775-legion-of-evil.json) |
 | Legion of Honor | 401925 | [401925-legion-of-honor.json](./401925-legion-of-honor.json) |
 | Legion of Judgment: Fallen Angel | 238755 | [238755-legion-of-judgment-fallen-angel.json](./238755-legion-of-judgment-fallen-angel.json) |
