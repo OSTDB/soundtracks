@@ -12327,6 +12327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Ranger: Mogadishu | 52425 | [52425-army-ranger-mogadishu.json](./52425-army-ranger-mogadishu.json) |
 | Army Rescue | 51011 | [51011-army-rescue.json](./51011-army-rescue.json) |
 | Army to Army | 189019 | [189019-army-to-army.json](./189019-army-to-army.json) |
+| Army Troop | 236469 | [236469-army-troop.json](./236469-army-troop.json) |
 | Army Troop 2: Modern Guns | 297841 | [297841-army-troop-2-modern-guns.json](./297841-army-troop-2-modern-guns.json) |
 | Army Truck 3D: Military Drive | 87114 | [87114-army-truck-3d-military-drive.json](./87114-army-truck-3d-military-drive.json) |
 | Army vs Zombie | 226770 | [226770-army-vs-zombie.json](./226770-army-vs-zombie.json) |
@@ -12778,6 +12779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Dusk Falls: Special Edition | 324757 | [324757-as-dusk-falls-special-edition.json](./324757-as-dusk-falls-special-edition.json) |
 | As Duty Demands | 383103 | [383103-as-duty-demands.json](./383103-as-duty-demands.json) |
 | As Far as the Eye | 129107 | [129107-as-far-as-the-eye.json](./129107-as-far-as-the-eye.json) |
+| As Guilty As the Moon | 236453 | [236453-as-guilty-as-the-moon.json](./236453-as-guilty-as-the-moon.json) |
 | As If Dreaming When You're Wide Awake | 98326 | [98326-as-if-dreaming-when-youre-wide-awake.json](./98326-as-if-dreaming-when-youre-wide-awake.json) |
 | As If Through Glass | 395339 | [395339-as-if-through-glass.json](./395339-as-if-through-glass.json) |
 | As Long As It's Not Illegal: Act I | 230322 | [230322-as-long-as-its-not-illegal-act-i.json](./230322-as-long-as-its-not-illegal-act-i.json) |
@@ -15589,6 +15591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening Sarah | 255727 | [255727-awakening-sarah.json](./255727-awakening-sarah.json) |
 | Awakening the Charge | 349819 | [349819-awakening-the-charge.json](./349819-awakening-the-charge.json) |
 | Awakening the Light | 158553 | [158553-awakening-the-light.json](./158553-awakening-the-light.json) |
+| Awakening: Into the Stars | 236468 | [236468-awakening-into-the-stars.json](./236468-awakening-into-the-stars.json) |
 | Awakening: The Dreamless Castle | 66087 | [66087-awakening-the-dreamless-castle.json](./66087-awakening-the-dreamless-castle.json) |
 | Awakening: The Golden Age | 58000 | [58000-awakening-the-golden-age.json](./58000-awakening-the-golden-age.json) |
 | Awakening: The Golden Age - Collector's Edition | 29615 | [29615-awakening-the-golden-age-collectors-edition.json](./29615-awakening-the-golden-age-collectors-edition.json) |
