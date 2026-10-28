@@ -3285,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedal-Olli 3D | 114800 | [114800-pedal-olli-3d.json](./114800-pedal-olli-3d.json) |
 | Pedals in Panic | 410168 | [410168-pedals-in-panic.json](./410168-pedals-in-panic.json) |
 | Peddlers Between Pulsars | 349399 | [349399-peddlers-between-pulsars.json](./349399-peddlers-between-pulsars.json) |
+| Pedestal | 238662 | [238662-pedestal.json](./238662-pedestal.json) |
 | Pedreiro polar | 230715 | [230715-pedreiro-polar.json](./230715-pedreiro-polar.json) |
 | Pedro | 314289 | [314289-pedro.json](./314289-pedro.json) |
 | Pedro | 52008 | [52008-pedro.json](./52008-pedro.json) |
@@ -15963,6 +15964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Piecer: The Pattern | 340834 | [340834-puzzle-piecer-the-pattern.json](./340834-puzzle-piecer-the-pattern.json) |
 | Puzzle Piecer: The Sky Above | 349422 | [349422-puzzle-piecer-the-sky-above.json](./349422-puzzle-piecer-the-sky-above.json) |
 | Puzzle Piecer: The World Below | 330806 | [330806-puzzle-piecer-the-world-below.json](./330806-puzzle-piecer-the-world-below.json) |
+| Puzzle Pieces 4: Farewell Dear Winter | 238281 | [238281-puzzle-pieces-4-farewell-dear-winter.json](./238281-puzzle-pieces-4-farewell-dear-winter.json) |
 | Puzzle Pieces 5: Fairy Ring | 226345 | [226345-puzzle-pieces-5-fairy-ring.json](./226345-puzzle-pieces-5-fairy-ring.json) |
 | Puzzle Pirates | 15129 | [15129-puzzle-pirates.json](./15129-puzzle-pirates.json) |
 | Puzzle Pirates: Dark Seas | 59866 | [59866-puzzle-pirates-dark-seas.json](./59866-puzzle-pirates-dark-seas.json) |
