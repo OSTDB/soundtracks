@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Variable Puzzle | 330657 | [330657-variable-puzzle.json](./330657-variable-puzzle.json) |
 | Variables | 118581 | [118581-variables.json](./118581-variables.json) |
 | Variables 2 | 169399 | [169399-variables-2.json](./169399-variables-2.json) |
+| Varial | 246024 | [246024-varial.json](./246024-varial.json) |
 | Variant 22 | 234674 | [234674-variant-22.json](./234674-variant-22.json) |
 | Variant: Limits | 69317 | [69317-variant-limits.json](./69317-variant-limits.json) |
 | Variator | 400703 | [400703-variator.json](./400703-variator.json) |
@@ -2156,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ViralGuessr | 371012 | [371012-viralguessr.json](./371012-viralguessr.json) |
 | Virality | 84136 | [84136-virality.json](./84136-virality.json) |
 | Virar | 276814 | [276814-virar.json](./276814-virar.json) |
+| Virballs | 244585 | [244585-virballs.json](./244585-virballs.json) |
 | Virche Evermore: EpiC:Lycoris | 241528 | [241528-virche-evermore-epic-lycoris.json](./241528-virche-evermore-epic-lycoris.json) |
 | Virche Evermore: ErroR:salvation | 147480 | [147480-virche-evermore-error-salvation.json](./147480-virche-evermore-error-salvation.json) |
 | Vircoban | 322276 | [322276-vircoban.json](./322276-vircoban.json) |
