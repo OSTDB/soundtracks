@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easoar | 396670 | [396670-easoar.json](./396670-easoar.json) |
 | Eason | 192695 | [192695-eason.json](./192695-eason.json) |
 | East | 182314 | [182314-east.json](./182314-east.json) |
+| East Ardougne | 271571 | [271571-east-ardougne.json](./271571-east-ardougne.json) |
 | East Defense | 305526 | [305526-east-defense.json](./305526-east-defense.json) |
 | East Front | 14051 | [14051-east-front.json](./14051-east-front.json) |
 | East Front Campaign CD 1 | 78704 | [78704-east-front-campaign-cd-1.json](./78704-east-front-campaign-cd-1.json) |
