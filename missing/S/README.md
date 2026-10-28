@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Dungeon | 34340 | [34340-sakura-dungeon.json](./34340-sakura-dungeon.json) |
 | Sakura Fantasy | 209344 | [209344-sakura-fantasy.json](./209344-sakura-fantasy.json) |
 | Sakura Fantasy: Chapter 1 | 60155 | [60155-sakura-fantasy-chapter-1.json](./60155-sakura-fantasy-chapter-1.json) |
+| Sakura Flamingo Archives | 250142 | [250142-sakura-flamingo-archives.json](./250142-sakura-flamingo-archives.json) |
 | Sakura Forest Girls | 146061 | [146061-sakura-forest-girls.json](./146061-sakura-forest-girls.json) |
 | Sakura Forest Girls 3 | 193263 | [193263-sakura-forest-girls-3.json](./193263-sakura-forest-girls-3.json) |
 | Sakura Fox Adventure | 123910 | [123910-sakura-fox-adventure.json](./123910-sakura-fox-adventure.json) |
@@ -3017,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scramble | 168574 | [168574-scramble.json](./168574-scramble.json) |
 | Scramble | 246400 | [246400-scramble.json](./246400-scramble.json) |
 | Scramble | 297494 | [297494-scramble.json](./297494-scramble.json) |
+| Scramble All Fighters | 249888 | [249888-scramble-all-fighters.json](./249888-scramble-all-fighters.json) |
 | Scramble Cobra | 4315 | [4315-scramble-cobra.json](./4315-scramble-cobra.json) |
 | Scramble Heart City | 319148 | [319148-scramble-heart-city.json](./319148-scramble-heart-city.json) |
 | Scramble Mania | 401447 | [401447-scramble-mania.json](./401447-scramble-mania.json) |
@@ -5419,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Simulator: Bar Staff | 280342 | [280342-sex-simulator-bar-staff.json](./280342-sex-simulator-bar-staff.json) |
 | Sex Simulator: BDSM | 385042 | [385042-sex-simulator-bdsm.json](./385042-sex-simulator-bdsm.json) |
 | Sex Simulator: BDSM 2 | 253849 | [253849-sex-simulator-bdsm-2.json](./253849-sex-simulator-bdsm-2.json) |
+| Sex Simulator: BDSM Girls | 250550 | [250550-sex-simulator-bdsm-girls.json](./250550-sex-simulator-bdsm-girls.json) |
 | Sex Simulator: Beach Resort | 254370 | [254370-sex-simulator-beach-resort.json](./254370-sex-simulator-beach-resort.json) |
 | Sex Simulator: CamGirl Audition | 261092 | [261092-sex-simulator-camgirl-audition.json](./261092-sex-simulator-camgirl-audition.json) |
 | Sex Simulator: CamGirl Audition 2 | 263761 | [263761-sex-simulator-camgirl-audition-2.json](./263761-sex-simulator-camgirl-audition-2.json) |
@@ -6316,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Quiz | 263991 | [263991-shape-quiz.json](./263991-shape-quiz.json) |
 | Shape Sender Deluxe | 345843 | [345843-shape-sender-deluxe.json](./345843-shape-sender-deluxe.json) |
 | Shape Shift Shawn: Episode 1 - Tale of the Transmogrified | 171567 | [171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json](./171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json) |
+| Shape Shifter | 251141 | [251141-shape-shifter.json](./251141-shape-shifter.json) |
 | Shape Shifter | 323525 | [323525-shape-shifter.json](./323525-shape-shifter.json) |
 | Shape Shifter | 398276 | [398276-shape-shifter.json](./398276-shape-shifter.json) |
 | Shape Shifter: Formations | 226625 | [226625-shape-shifter-formations.json](./226625-shape-shifter-formations.json) |
@@ -17213,6 +17217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space runner | 27903 | [27903-space-runner.json](./27903-space-runner.json) |
 | Space Runner | 102257 | [102257-space-runner.json](./102257-space-runner.json) |
 | Space Runner: Anime | 169638 | [169638-space-runner-anime.json](./169638-space-runner-anime.json) |
+| Space Saga | 249835 | [249835-space-saga.json](./249835-space-saga.json) |
 | Space Salvage | 192601 | [192601-space-salvage.json](./192601-space-salvage.json) |
 | Space Salvage: Ship Happens | 377617 | [377617-space-salvage-ship-happens.json](./377617-space-salvage-ship-happens.json) |
 | Space Salvager | 17760 | [17760-space-salvager.json](./17760-space-salvager.json) |
@@ -17588,6 +17593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship Man 2 | 351258 | [351258-spaceship-man-2.json](./351258-spaceship-man-2.json) |
 | Spaceship Racer: Portal | 243041 | [243041-spaceship-racer-portal.json](./243041-spaceship-racer-portal.json) |
 | Spaceship Racer: Portal | 244744 | [244744-spaceship-racer-portal.json](./244744-spaceship-racer-portal.json) |
+| Spaceship Running Dudu | 250409 | [250409-spaceship-running-dudu.json](./250409-spaceship-running-dudu.json) |
 | Spaceship Survivors | 244732 | [244732-spaceship-survivors.json](./244732-spaceship-survivors.json) |
 | Spaceship Tactics | 338269 | [338269-spaceship-tactics.json](./338269-spaceship-tactics.json) |
 | Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
@@ -17632,6 +17638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacey McRacey | 134355 | [134355-spacey-mcracey.json](./134355-spacey-mcracey.json) |
 | Spacey Vade | 158153 | [158153-spacey-vade.json](./158153-spacey-vade.json) |
 | Spacey-Clopedia | 272484 | [272484-spacey-clopedia.json](./272484-spacey-clopedia.json) |
+| Spacident | 251134 | [251134-spacident.json](./251134-spacident.json) |
 | Spacious Snake | 178274 | [178274-spacious-snake.json](./178274-spacious-snake.json) |
 | Spacy Shuffle Puck | 91520 | [91520-spacy-shuffle-puck.json](./91520-spacy-shuffle-puck.json) |
 | Spade no Kuni no Alice: Wonderful White World | 148840 | [148840-spade-no-kuni-no-alice-wonderful-white-world.json](./148840-spade-no-kuni-no-alice-wonderful-white-world.json) |
@@ -18493,6 +18500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphinx Lowering | 229819 | [229819-sphinx-lowering.json](./229819-sphinx-lowering.json) |
 | Sphinx: Riddles of the Nile | 289377 | [289377-sphinx-riddles-of-the-nile.json](./289377-sphinx-riddles-of-the-nile.json) |
 | Sphirit | 351266 | [351266-sphirit.json](./351266-sphirit.json) |
+| Sphizofrenia: Concept of Horror | 251129 | [251129-sphizofrenia-concept-of-horror.json](./251129-sphizofrenia-concept-of-horror.json) |
 | Sphongos | 345562 | [345562-sphongos.json](./345562-sphongos.json) |
 | SPi's Nightmare | 294059 | [294059-spis-nightmare.json](./294059-spis-nightmare.json) |
 | Spibee | 382930 | [382930-spibee.json](./382930-spibee.json) |
@@ -21988,6 +21996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship | 268911 | [268911-starship.json](./268911-starship.json) |
 | Starship | 271761 | [271761-starship.json](./271761-starship.json) |
 | Starship | 326758 | [326758-starship.json](./326758-starship.json) |
+| Starship 43 | 249957 | [249957-starship-43.json](./249957-starship-43.json) |
 | Starship Annihilator: Complete Edition | 53659 | [53659-starship-annihilator-complete-edition.json](./53659-starship-annihilator-complete-edition.json) |
 | Starship Assassin | 57061 | [57061-starship-assassin.json](./57061-starship-assassin.json) |
 | Starship Avenger: Operation Take Back Earth | 105042 | [105042-starship-avenger-operation-take-back-earth.json](./105042-starship-avenger-operation-take-back-earth.json) |
@@ -22422,6 +22431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamDolls: Order of Chaos | 124261 | [124261-steamdolls-order-of-chaos.json](./124261-steamdolls-order-of-chaos.json) |
 | Steamed Hams, but it's RPGMaker2003! | 314002 | [314002-steamed-hams-but-its-rpgmaker2003.json](./314002-steamed-hams-but-its-rpgmaker2003.json) |
 | Steamed Hams: The Graphic Adventure | 188591 | [188591-steamed-hams-the-graphic-adventure.json](./188591-steamed-hams-the-graphic-adventure.json) |
+| Steamfantasy: Unbelievable Korwin Story | 251138 | [251138-steamfantasy-unbelievable-korwin-story.json](./251138-steamfantasy-unbelievable-korwin-story.json) |
 | Steamfarer | 13169 | [13169-steamfarer.json](./13169-steamfarer.json) |
 | SteamForge | 339666 | [339666-steamforge.json](./339666-steamforge.json) |
 | SteamGear Mash | 91943 | [91943-steamgear-mash.json](./91943-steamgear-mash.json) |
@@ -29882,6 +29892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzan's Potion Workshop | 273817 | [273817-suzans-potion-workshop.json](./273817-suzans-potion-workshop.json) |
 | Suze Orman's Money Game | 208352 | [208352-suze-ormans-money-game.json](./208352-suze-ormans-money-game.json) |
 | Suzerain: Expanded Edition | 373584 | [373584-suzerain-expanded-edition.json](./373584-suzerain-expanded-edition.json) |
+| Suzerain: Kingdom of Rizia | 249958 | [249958-suzerain-kingdom-of-rizia.json](./249958-suzerain-kingdom-of-rizia.json) |
 | Suzu ga Utau Hi | 263400 | [263400-suzu-ga-utau-hi.json](./263400-suzu-ga-utau-hi.json) |
 | Suzu Monogatari | 66075 | [66075-suzu-monogatari.json](./66075-suzu-monogatari.json) |
 | Suzu to Mari no Bouken 2: Lost Colors and Golden Bells | 206177 | [206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json](./206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json) |
