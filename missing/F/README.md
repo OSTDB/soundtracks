@@ -6083,6 +6083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights At Stickman | 89037 | [89037-five-nights-at-stickman.json](./89037-five-nights-at-stickman.json) |
 | Five Nights at the Chum Bucket | 359212 | [359212-five-nights-at-the-chum-bucket.json](./359212-five-nights-at-the-chum-bucket.json) |
 | Five Nights at Treasure Island | 238431 | [238431-five-nights-at-treasure-island.json](./238431-five-nights-at-treasure-island.json) |
+| Five Nights at Treasure Island 2: Original Revamp | 272665 | [272665-five-nights-at-treasure-island-2-original-revamp.json](./272665-five-nights-at-treasure-island-2-original-revamp.json) |
 | Five Nights At Treasure Island Simulator | 369659 | [369659-five-nights-at-treasure-island-simulator.json](./369659-five-nights-at-treasure-island-simulator.json) |
 | Five Nights at Treasure Island: Anniversary Edition | 238432 | [238432-five-nights-at-treasure-island-anniversary-edition.json](./238432-five-nights-at-treasure-island-anniversary-edition.json) |
 | Five Nights at Treasure Island: Old Builds | 238428 | [238428-five-nights-at-treasure-island-old-builds.json](./238428-five-nights-at-treasure-island-old-builds.json) |
@@ -9740,6 +9741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franz | 250301 | [250301-franz.json](./250301-franz.json) |
 | Franz Fury | 157923 | [157923-franz-fury.json](./157923-franz-fury.json) |
 | Franzen | 263443 | [263443-franzen.json](./263443-franzen.json) |
+| Frasier Fantasy | 272669 | [272669-frasier-fantasy.json](./272669-frasier-fantasy.json) |
 | Fraud Camp: Survival Escape | 372455 | [372455-fraud-camp-survival-escape.json](./372455-fraud-camp-survival-escape.json) |
 | Fraudster | 340245 | [340245-fraudster.json](./340245-fraudster.json) |
 | Fraulein Lolita First Date With You | 157955 | [157955-fraulein-lolita-first-date-with-you.json](./157955-fraulein-lolita-first-date-with-you.json) |
@@ -10853,6 +10855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frost | 32851 | [32851-frost.json](./32851-frost.json) |
 | Frost | 88972 | [88972-frost.json](./88972-frost.json) |
 | Frost & Flame: King of Avalon | 271382 | [271382-frost-and-flame-king-of-avalon.json](./271382-frost-and-flame-king-of-avalon.json) |
+| Frost Bite | 272661 | [272661-frost-bite.json](./272661-frost-bite.json) |
 | Frost Bite | 317454 | [317454-frost-bite.json](./317454-frost-bite.json) |
 | Frost Byte | 12108 | [12108-frost-byte.json](./12108-frost-byte.json) |
 | Frost Dragon in Adventure Land | 188033 | [188033-frost-dragon-in-adventure-land.json](./188033-frost-dragon-in-adventure-land.json) |
