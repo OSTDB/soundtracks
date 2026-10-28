@@ -2959,6 +2959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Defense | 182852 | [182852-castle-defense.json](./182852-castle-defense.json) |
 | Castle Defense | 277158 | [277158-castle-defense.json](./277158-castle-defense.json) |
 | Castle Demolition VR | 55260 | [55260-castle-demolition-vr.json](./55260-castle-demolition-vr.json) |
+| Castle Destroyers | 238139 | [238139-castle-destroyers.json](./238139-castle-destroyers.json) |
 | Castle Dice | 200035 | [200035-castle-dice.json](./200035-castle-dice.json) |
 | Castle Diorama | 183398 | [183398-castle-diorama.json](./183398-castle-diorama.json) |
 | Castle Doombad 2: Muahaha! | 324787 | [324787-castle-doombad-2-muahaha.json](./324787-castle-doombad-2-muahaha.json) |
@@ -16272,6 +16273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu Mythos ADV The Isle Of Ubohoth | 307779 | [307779-cthulhu-mythos-adv-the-isle-of-ubohoth.json](./307779-cthulhu-mythos-adv-the-isle-of-ubohoth.json) |
 | Cthulhu Mythos RPG -The Sleeping Girl of the Miasma Sea- | 110154 | [110154-cthulhu-mythos-rpg-the-sleeping-girl-of-the-miasma-sea.json](./110154-cthulhu-mythos-rpg-the-sleeping-girl-of-the-miasma-sea.json) |
 | Cthulhu Mythos RPG II | 82941 | [82941-cthulhu-mythos-rpg-ii.json](./82941-cthulhu-mythos-rpg-ii.json) |
+| Cthulhu Mythos RPG: Suishou no Yobigoe Plus | 238114 | [238114-cthulhu-mythos-rpg-suishou-no-yobigoe-plus.json](./238114-cthulhu-mythos-rpg-suishou-no-yobigoe-plus.json) |
 | Cthulhu Pub | 158630 | [158630-cthulhu-pub.json](./158630-cthulhu-pub.json) |
 | Cthulhu Rampage | 420497 | [420497-cthulhu-rampage.json](./420497-cthulhu-rampage.json) |
 | Cthulhu Realms | 32510 | [32510-cthulhu-realms.json](./32510-cthulhu-realms.json) |
