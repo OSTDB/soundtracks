@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Breach Wizards: Special Edition | 396407 | [396407-tactical-breach-wizards-special-edition.json](./396407-tactical-breach-wizards-special-edition.json) |
 | Tactical Chronicle | 96515 | [96515-tactical-chronicle.json](./96515-tactical-chronicle.json) |
 | Tactical Combat Department | 164059 | [164059-tactical-combat-department.json](./164059-tactical-combat-department.json) |
+| Tactical Command | 232640 | [232640-tactical-command.json](./232640-tactical-command.json) |
 | Tactical Craft Online | 34125 | [34125-tactical-craft-online.json](./34125-tactical-craft-online.json) |
 | Tactical Dual Pack: Necromunda - Underhive Wars & Space Hulk: Tactics | 223872 | [223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json](./223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json) |
 | Tactical Fighter | 56947 | [56947-tactical-fighter.json](./56947-tactical-fighter.json) |
@@ -4225,6 +4226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Testimony of Help | 268228 | [268228-testimony-of-help.json](./268228-testimony-of-help.json) |
 | Testing Facility | 274181 | [274181-testing-facility.json](./274181-testing-facility.json) |
 | Testing Pool | 262424 | [262424-testing-pool.json](./262424-testing-pool.json) |
+| Tet | 232646 | [232646-tet.json](./232646-tet.json) |
 | Tet Story | 400370 | [400370-tet-story.json](./400370-tet-story.json) |
 | Tetanus | 257353 | [257353-tetanus.json](./257353-tetanus.json) |
 | Tete | 409798 | [409798-tete.json](./409798-tete.json) |
@@ -5617,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Better Angels | 281370 | [281370-the-better-angels.json](./281370-the-better-angels.json) |
 | The Better Dead Ratification | 156190 | [156190-the-better-dead-ratification.json](./156190-the-better-dead-ratification.json) |
 | The Better Place | 229707 | [229707-the-better-place.json](./229707-the-better-place.json) |
+| The Betweenlands | 232649 | [232649-the-betweenlands.json](./232649-the-betweenlands.json) |
 | The Betweenlands | 323011 | [323011-the-betweenlands.json](./323011-the-betweenlands.json) |
 | The Beverly Hillbillies | 74018 | [74018-the-beverly-hillbillies.json](./74018-the-beverly-hillbillies.json) |
 | The Beyond | 339218 | [339218-the-beyond.json](./339218-the-beyond.json) |
@@ -22307,6 +22310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gear: Dare Devil | 43274 | [43274-top-gear-dare-devil.json](./43274-top-gear-dare-devil.json) |
 | Top Gear: Donut Dash | 402326 | [402326-top-gear-donut-dash.json](./402326-top-gear-donut-dash.json) |
 | Top Gear: Extreme Parking | 233921 | [233921-top-gear-extreme-parking.json](./233921-top-gear-extreme-parking.json) |
+| Top Gear: Race the Stig | 232616 | [232616-top-gear-race-the-stig.json](./232616-top-gear-race-the-stig.json) |
 | Top Gear: Road Trip | 114714 | [114714-top-gear-road-trip.json](./114714-top-gear-road-trip.json) |
 | Top Gear: Rocket Robin | 402331 | [402331-top-gear-rocket-robin.json](./402331-top-gear-rocket-robin.json) |
 | Top Gear: Stunt School SSR | 257363 | [257363-top-gear-stunt-school-ssr.json](./257363-top-gear-stunt-school-ssr.json) |
@@ -27080,6 +27084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triste | 371138 | [371138-triste.json](./371138-triste.json) |
 | Tristia Doki-doki Operation | 408142 | [408142-tristia-doki-doki-operation.json](./408142-tristia-doki-doki-operation.json) |
 | Tristia: Legacy | 231522 | [231522-tristia-legacy.json](./231522-tristia-legacy.json) |
+| Tristia: Restore | 232642 | [232642-tristia-restore.json](./232642-tristia-restore.json) |
 | Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
 | Tristoy | 17443 | [17443-tristoy.json](./17443-tristoy.json) |
 | Tritime Space | 310718 | [310718-tritime-space.json](./310718-tritime-space.json) |
