@@ -6608,6 +6608,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exilium | 258318 | [258318-exilium.json](./258318-exilium.json) |
 | Eximius: Seize the Frontline | 96094 | [96094-eximius-seize-the-frontline.json](./96094-eximius-seize-the-frontline.json) |
 | Eximius: Seize the Frontline - Exclusive Callsign Pack: Kings of Frontline | 230989 | [230989-eximius-seize-the-frontline-exclusive-callsign-pack-kings-of-frontline.json](./230989-eximius-seize-the-frontline-exclusive-callsign-pack-kings-of-frontline.json) |
+| Eximius: Seize the Frontline - Exclusive Callsign Pack: Signs of Destiny | 231012 | [231012-eximius-seize-the-frontline-exclusive-callsign-pack-signs-of-destiny.json](./231012-eximius-seize-the-frontline-exclusive-callsign-pack-signs-of-destiny.json) |
+| Eximius: Seize the Frontline - Exclusive Callsign Pack: The Hardened | 230994 | [230994-eximius-seize-the-frontline-exclusive-callsign-pack-the-hardened.json](./230994-eximius-seize-the-frontline-exclusive-callsign-pack-the-hardened.json) |
+| Eximius: Seize the Frontline - Exclusive Callsign Pack: The Unseen | 230993 | [230993-eximius-seize-the-frontline-exclusive-callsign-pack-the-unseen.json](./230993-eximius-seize-the-frontline-exclusive-callsign-pack-the-unseen.json) |
+| Eximius: Seize the Frontline - Exclusive Callsign Pack: Weapons of War | 231011 | [231011-eximius-seize-the-frontline-exclusive-callsign-pack-weapons-of-war.json](./231011-eximius-seize-the-frontline-exclusive-callsign-pack-weapons-of-war.json) |
 | Exipath | 400900 | [400900-exipath.json](./400900-exipath.json) |
 | Exipelago | 215868 | [215868-exipelago.json](./215868-exipelago.json) |
 | Exisled | 80376 | [80376-exisled.json](./80376-exisled.json) |
