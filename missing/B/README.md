@@ -11655,6 +11655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bored Wife | 306379 | [306379-bored-wife.json](./306379-bored-wife.json) |
 | Boredom Survivor | 301611 | [301611-boredom-survivor.json](./301611-boredom-survivor.json) |
 | Boredom Survivors | 365264 | [365264-boredom-survivors.json](./365264-boredom-survivors.json) |
+| Borefest | 248228 | [248228-borefest.json](./248228-borefest.json) |
 | Borewicz | 387066 | [387066-borewicz.json](./387066-borewicz.json) |
 | BOREWORKS | 413654 | [413654-boreworks.json](./413654-boreworks.json) |
 | Borfesu to 5-Jin no Akuma | 41731 | [41731-borfesu-to-5-jin-no-akuma.json](./41731-borfesu-to-5-jin-no-akuma.json) |
@@ -15511,6 +15512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnout | 275040 | [275040-burnout.json](./275040-burnout.json) |
 | Burnout | 3838 | [3838-burnout.json](./3838-burnout.json) |
 | Burnout | 410457 | [410457-burnout.json](./410457-burnout.json) |
+| BurnOut | 248237 | [248237-burnout.json](./248237-burnout.json) |
 | Burnout 2: Point of Impact | 3840 | [3840-burnout-2-point-of-impact.json](./3840-burnout-2-point-of-impact.json) |
 | Burnout 3: Takedown | 5761 | [5761-burnout-3-takedown.json](./5761-burnout-3-takedown.json) |
 | Burnout Chaos: Drift Car Project | 285349 | [285349-burnout-chaos-drift-car-project.json](./285349-burnout-chaos-drift-car-project.json) |
