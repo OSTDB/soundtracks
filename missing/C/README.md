@@ -4833,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion of Venus: Tayla's Big Adventure | 277752 | [277752-champion-of-venus-taylas-big-adventure.json](./277752-champion-of-venus-taylas-big-adventure.json) |
 | Champion Pro Wrestling | 6090 | [6090-champion-pro-wrestling.json](./6090-champion-pro-wrestling.json) |
 | Champion ProWres Special | 125978 | [125978-champion-prowres-special.json](./125978-champion-prowres-special.json) |
+| Champion Road | 277454 | [277454-champion-road.json](./277454-champion-road.json) |
 | Champion Shift | 249837 | [249837-champion-shift.json](./249837-champion-shift.json) |
 | Champion Simulator | 326458 | [326458-champion-simulator.json](./326458-champion-simulator.json) |
 | Champion Soccer | 6092 | [6092-champion-soccer.json](./6092-champion-soccer.json) |
@@ -7232,6 +7233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrysalis: Chrome Butterfly | 389559 | [389559-chrysalis-chrome-butterfly.json](./389559-chrysalis-chrome-butterfly.json) |
 | Chrysanthemum: On the Way to Sweet Dreams | 391235 | [391235-chrysanthemum-on-the-way-to-sweet-dreams.json](./391235-chrysanthemum-on-the-way-to-sweet-dreams.json) |
 | Chrysler Classic Racing | 51042 | [51042-chrysler-classic-racing.json](./51042-chrysler-classic-racing.json) |
+| Chrysolite | 277460 | [277460-chrysolite.json](./277460-chrysolite.json) |
 | Chthonian TD | 406144 | [406144-chthonian-td.json](./406144-chthonian-td.json) |
 | Chu | 206554 | [206554-chu.json](./206554-chu.json) |
 | Chu Da D | 247391 | [247391-chu-da-d.json](./247391-chu-da-d.json) |
@@ -8603,6 +8605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Click Click | 369641 | [369641-click-click-click.json](./369641-click-click-click.json) |
 | Click Cluck | 381145 | [381145-click-cluck.json](./381145-click-cluck.json) |
 | Click Commander | 120000 | [120000-click-commander.json](./120000-click-commander.json) |
+| Click Cricket | 277455 | [277455-click-cricket.json](./277455-click-cricket.json) |
 | Click Defense | 119722 | [119722-click-defense.json](./119722-click-defense.json) |
 | Click Deity | 246660 | [246660-click-deity.json](./246660-click-deity.json) |
 | Click Dungeon | 259503 | [259503-click-dungeon.json](./259503-click-dungeon.json) |
@@ -9843,6 +9846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Verdict 3 | 371862 | [371862-cold-verdict-3.json](./371862-cold-verdict-3.json) |
 | Cold VR | 296392 | [296392-cold-vr.json](./296392-cold-vr.json) |
 | Cold War | 68436 | [68436-cold-war.json](./68436-cold-war.json) |
+| Cold War 2395: Solus | 277138 | [277138-cold-war-2395-solus.json](./277138-cold-war-2395-solus.json) |
 | Cold War Commander | 67982 | [67982-cold-war-commander.json](./67982-cold-war-commander.json) |
 | Cold War Conflicts: Days in the Field 1950-1973 | 23785 | [23785-cold-war-conflicts-days-in-the-field-1950-1973.json](./23785-cold-war-conflicts-days-in-the-field-1950-1973.json) |
 | Cold War Era | 356265 | [356265-cold-war-era.json](./356265-cold-war-era.json) |
@@ -10401,6 +10405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Advent 2 Pack | 162600 | [162600-coloring-pixels-advent-2-pack.json](./162600-coloring-pixels-advent-2-pack.json) |
 | Coloring Pixels: Advent 3 Pack | 225002 | [225002-coloring-pixels-advent-3-pack.json](./225002-coloring-pixels-advent-3-pack.json) |
 | Coloring Pixels: Advent 4 Pack | 227467 | [227467-coloring-pixels-advent-4-pack.json](./227467-coloring-pixels-advent-4-pack.json) |
+| Coloring Pixels: Advent 5 Pack | 277438 | [277438-coloring-pixels-advent-5-pack.json](./277438-coloring-pixels-advent-5-pack.json) |
 | Coloring Pixels: Advent 6 Pack | 351619 | [351619-coloring-pixels-advent-6-pack.json](./351619-coloring-pixels-advent-6-pack.json) |
 | Coloring Pixels: Advent Pack | 162611 | [162611-coloring-pixels-advent-pack.json](./162611-coloring-pixels-advent-pack.json) |
 | Coloring Pixels: Amusement Park Pack | 162588 | [162588-coloring-pixels-amusement-park-pack.json](./162588-coloring-pixels-amusement-park-pack.json) |
@@ -12536,6 +12541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporate Lockdown | 250005 | [250005-corporate-lockdown.json](./250005-corporate-lockdown.json) |
 | Corporate Property | 63374 | [63374-corporate-property.json](./63374-corporate-property.json) |
 | Corporate Pursuit | 71364 | [71364-corporate-pursuit.json](./71364-corporate-pursuit.json) |
+| Corporate Pussy | 277458 | [277458-corporate-pussy.json](./277458-corporate-pussy.json) |
 | Corporate Raider: The Pirate of Wall St. | 65571 | [65571-corporate-raider-the-pirate-of-wall-st.json](./65571-corporate-raider-the-pirate-of-wall-st.json) |
 | Corporate Suck Up | 338888 | [338888-corporate-suck-up.json](./338888-corporate-suck-up.json) |
 | Corporation | 57696 | [57696-corporation.json](./57696-corporation.json) |
@@ -15938,6 +15944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Plague | 152454 | [152454-crystal-plague.json](./152454-crystal-plague.json) |
 | Crystal Project: Mod Pack 1 - Quality Fun | 300934 | [300934-crystal-project-mod-pack-1-quality-fun.json](./300934-crystal-project-mod-pack-1-quality-fun.json) |
 | Crystal Project: Mod Pack 2 - New Challenges | 314886 | [314886-crystal-project-mod-pack-2-new-challenges.json](./314886-crystal-project-mod-pack-2-new-challenges.json) |
+| Crystal Quest | 277142 | [277142-crystal-quest.json](./277142-crystal-quest.json) |
 | Crystal Quest Classic | 32182 | [32182-crystal-quest-classic.json](./32182-crystal-quest-classic.json) |
 | Crystal Raider | 55188 | [55188-crystal-raider.json](./55188-crystal-raider.json) |
 | Crystal Raiders VR | 144178 | [144178-crystal-raiders-vr.json](./144178-crystal-raiders-vr.json) |
