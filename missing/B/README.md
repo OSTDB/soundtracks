@@ -4260,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beambender | 14293 | [14293-beambender.json](./14293-beambender.json) |
 | Beamdog Ultimate Collector's Pack | 136374 | [136374-beamdog-ultimate-collectors-pack.json](./136374-beamdog-ultimate-collectors-pack.json) |
 | Beamdown | 338198 | [338198-beamdown.json](./338198-beamdown.json) |
+| Beamed 2 | 237588 | [237588-beamed-2.json](./237588-beamed-2.json) |
 | Beaming | 406150 | [406150-beaming.json](./406150-beaming.json) |
 | Beaming Stingray | 240820 | [240820-beaming-stingray.json](./240820-beaming-stingray.json) |
 | BeamStruggle | 367616 | [367616-beamstruggle.json](./367616-beamstruggle.json) |
