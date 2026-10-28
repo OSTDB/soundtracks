@@ -985,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbrella Basketball | 174595 | [174595-umbrella-basketball.json](./174595-umbrella-basketball.json) |
 | Umbrella Corps | 12530 | [12530-umbrella-corps.json](./12530-umbrella-corps.json) |
 | Umbrella Corps: Deluxe Edition | 24729 | [24729-umbrella-corps-deluxe-edition.json](./24729-umbrella-corps-deluxe-edition.json) |
+| Umbrella Drop | 270475 | [270475-umbrella-drop.json](./270475-umbrella-drop.json) |
 | Umbrella Escape | 230915 | [230915-umbrella-escape.json](./230915-umbrella-escape.json) |
 | Umbrella Girl | 279545 | [279545-umbrella-girl.json](./279545-umbrella-girl.json) |
 | Umesawa Yukari no Igo Seminar | 54939 | [54939-umesawa-yukari-no-igo-seminar.json](./54939-umesawa-yukari-no-igo-seminar.json) |
