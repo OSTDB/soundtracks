@@ -2113,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joggernauts | 60230 | [60230-joggernauts.json](./60230-joggernauts.json) |
 | Jogging | 358834 | [358834-jogging.json](./358834-jogging.json) |
 | Jogging | 359729 | [359729-jogging.json](./359729-jogging.json) |
+| Joggle: Word Puzzle | 232107 | [232107-joggle-word-puzzle.json](./232107-joggle-word-puzzle.json) |
 | Jogo da Nota | 409806 | [409806-jogo-da-nota.json](./409806-jogo-da-nota.json) |
 | Jogo de Bejos | 300525 | [300525-jogo-de-bejos.json](./300525-jogo-de-bejos.json) |
 | Jogo do Banquinho do Raul Gil | 222874 | [222874-jogo-do-banquinho-do-raul-gil.json](./222874-jogo-do-banquinho-do-raul-gil.json) |
