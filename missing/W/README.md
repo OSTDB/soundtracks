@@ -4963,6 +4963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windosill | 15002 | [15002-windosill.json](./15002-windosill.json) |
 | Windosill: Steam Deck Edition | 240095 | [240095-windosill-steam-deck-edition.json](./240095-windosill-steam-deck-edition.json) |
 | Window Aquarista | 373679 | [373679-window-aquarista.json](./373679-window-aquarista.json) |
+| Window Garden | 252785 | [252785-window-garden.json](./252785-window-garden.json) |
 | Window of Perspectives | 343966 | [343966-window-of-perspectives.json](./343966-window-of-perspectives.json) |
 | Window Seat | 409643 | [409643-window-seat.json](./409643-window-seat.json) |
 | Window Wizard | 68352 | [68352-window-wizard.json](./68352-window-wizard.json) |
