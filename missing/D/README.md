@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Ballz: Magic Dance Line Tiles Game | 105993 | [105993-dancing-ballz-magic-dance-line-tiles-game.json](./105993-dancing-ballz-magic-dance-line-tiles-game.json) |
 | Dancing Blade Katteni Momotenshi II: Tears of Eden | 64858 | [64858-dancing-blade-katteni-momotenshi-ii-tears-of-eden.json](./64858-dancing-blade-katteni-momotenshi-ii-tears-of-eden.json) |
 | Dancing Blade Katteni Momotenshi! | 64856 | [64856-dancing-blade-katteni-momotenshi.json](./64856-dancing-blade-katteni-momotenshi.json) |
+| Dancing Block | 267510 | [267510-dancing-block.json](./267510-dancing-block.json) |
 | Dancing Block | 90921 | [90921-dancing-block.json](./90921-dancing-block.json) |
 | Dancing Bones | 348406 | [348406-dancing-bones.json](./348406-dancing-bones.json) |
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
@@ -9120,6 +9121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Emperor's New Groove | 70222 | [70222-disneys-the-emperors-new-groove.json](./70222-disneys-the-emperors-new-groove.json) |
 | Disney's The Emperor's New Groove | 74425 | [74425-disneys-the-emperors-new-groove.json](./74425-disneys-the-emperors-new-groove.json) |
 | Disney's The Emperor's New Groove | 74426 | [74426-disneys-the-emperors-new-groove.json](./74426-disneys-the-emperors-new-groove.json) |
+| Disney's The Haunted Mansion | 267497 | [267497-disneys-the-haunted-mansion.json](./267497-disneys-the-haunted-mansion.json) |
 | Disney's The Haunted Mansion | 49405 | [49405-disneys-the-haunted-mansion.json](./49405-disneys-the-haunted-mansion.json) |
 | Disney's The Hunchback of Notre Dame | 198763 | [198763-disneys-the-hunchback-of-notre-dame.json](./198763-disneys-the-hunchback-of-notre-dame.json) |
 | Disney's The Hunchback of Notre Dame: Topsy Turvy Games | 228495 | [228495-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json](./228495-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json) |
