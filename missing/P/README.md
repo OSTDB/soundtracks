@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachislot Souten no Ken 2 | 61495 | [61495-pachislot-souten-no-ken-2.json](./61495-pachislot-souten-no-ken-2.json) |
 | Pachitte Chonmage | 109190 | [109190-pachitte-chonmage.json](./109190-pachitte-chonmage.json) |
 | Pachitte Chonmage Tatsujin 5: CR Kamen Rider | 61913 | [61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json](./61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json) |
+| Pachoink! | 259696 | [259696-pachoink.json](./259696-pachoink.json) |
 | Pacif Warriors 2 | 43538 | [43538-pacif-warriors-2.json](./43538-pacif-warriors-2.json) |
 | Pacific | 94135 | [94135-pacific.json](./94135-pacific.json) |
 | Pacific Battle | 195051 | [195051-pacific-battle.json](./195051-pacific-battle.json) |
@@ -2846,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawnshop No. 17 | 386290 | [386290-pawnshop-no-17.json](./386290-pawnshop-no-17.json) |
 | PawnShop Simulator | 325525 | [325525-pawnshop-simulator.json](./325525-pawnshop-simulator.json) |
 | Pawperty Damage | 238571 | [238571-pawperty-damage.json](./238571-pawperty-damage.json) |
+| Pawperty Damage: Free Character Skin Pack | 259679 | [259679-pawperty-damage-free-character-skin-pack.json](./259679-pawperty-damage-free-character-skin-pack.json) |
 | Pawprints Match | 359410 | [359410-pawprints-match.json](./359410-pawprints-match.json) |
 | PawRebuild | 406698 | [406698-pawrebuild.json](./406698-pawrebuild.json) |
 | Paws | 254901 | [254901-paws.json](./254901-paws.json) |
@@ -8828,6 +8830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Billiard Funk: The 9 Ball | 50558 | [50558-pocket-billiard-funk-the-9-ball.json](./50558-pocket-billiard-funk-the-9-ball.json) |
 | Pocket Billiards! | 41559 | [41559-pocket-billiards.json](./41559-pocket-billiards.json) |
 | Pocket Bite d20 | 184616 | [184616-pocket-bite-d20.json](./184616-pocket-bite-d20.json) |
+| Pocket BMX | 259690 | [259690-pocket-bmx.json](./259690-pocket-bmx.json) |
 | Pocket Bomberman | 2980 | [2980-pocket-bomberman.json](./2980-pocket-bomberman.json) |
 | Pocket Bomberman Blast Heroes | 232511 | [232511-pocket-bomberman-blast-heroes.json](./232511-pocket-bomberman-blast-heroes.json) |
 | Pocket Boss | 347684 | [347684-pocket-boss.json](./347684-pocket-boss.json) |
