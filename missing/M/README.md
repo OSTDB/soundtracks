@@ -4892,6 +4892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math World VR | 254919 | [254919-math-world-vr.json](./254919-math-world-vr.json) |
 | Math-A-Magic! / Echo! | 100043 | [100043-math-a-magic-echo.json](./100043-math-a-magic-echo.json) |
 | Math-A-Thon 2: The Mystery of the Missing Laboratory | 209547 | [209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json](./209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json) |
+| Math-Pak | 273197 | [273197-math-pak.json](./273197-math-pak.json) |
 | Math, BFF, and Notes | 276962 | [276962-math-bff-and-notes.json](./276962-math-bff-and-notes.json) |
 | Math+Sticks: Coffee Break Club | 238874 | [238874-math-sticks-coffee-break-club.json](./238874-math-sticks-coffee-break-club.json) |
 | Mathable | 232533 | [232533-mathable.json](./232533-mathable.json) |
@@ -8986,6 +8987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mibo: Escape Adventure | 194156 | [194156-mibo-escape-adventure.json](./194156-mibo-escape-adventure.json) |
 | Miboujin Nikki: Akogare no Ano Hito to Hitotsu Yane no Shita | 82972 | [82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json](./82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json) |
 | Miburi and Teburi | 230271 | [230271-miburi-and-teburi.json](./230271-miburi-and-teburi.json) |
+| Mic | 273198 | [273198-mic.json](./273198-mic.json) |
 | Mica King | 414749 | [414749-mica-king.json](./414749-mica-king.json) |
 | Mica: Apoptosis | 177515 | [177515-mica-apoptosis.json](./177515-mica-apoptosis.json) |
 | Micchiri Neko Dash! | 328359 | [328359-micchiri-neko-dash.json](./328359-micchiri-neko-dash.json) |
@@ -15724,7 +15726,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mozi | 310080 | [310080-mozi.json](./310080-mozi.json) |
 | Mozzle | 175414 | [175414-mozzle.json](./175414-mozzle.json) |
 | MP Orbit | 273225 | [273225-mp-orbit.json](./273225-mp-orbit.json) |
+| Mp Power | 273202 | [273202-mp-power.json](./273202-mp-power.json) |
 | MP Research Facility | 273224 | [273224-mp-research-facility.json](./273224-mp-research-facility.json) |
+| Mp Weapon | 273203 | [273203-mp-weapon.json](./273203-mp-weapon.json) |
 | MP1: Blargg's Fire Rivers | 283631 | [283631-mp1-blarggs-fire-rivers.json](./283631-mp1-blarggs-fire-rivers.json) |
 | MP1: Bowser Circle | 283643 | [283643-mp1-bowser-circle.json](./283643-mp1-bowser-circle.json) |
 | MP1: Bowser's Magma Castle | 283634 | [283634-mp1-bowsers-magma-castle.json](./283634-mp1-bowsers-magma-castle.json) |
@@ -16167,6 +16171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MSM Match it | 99106 | [99106-msm-match-it.json](./99106-msm-match-it.json) |
 | MSO FreeCell Arena | 417561 | [417561-mso-freecell-arena.json](./417561-mso-freecell-arena.json) |
 | Msoids | 199081 | [199081-msoids.json](./199081-msoids.json) |
+| MSSP | 273199 | [273199-mssp.json](./273199-mssp.json) |
 | MSSP 9: New Pietniemi | 308263 | [308263-mssp-9-new-pietniemi.json](./308263-mssp-9-new-pietniemi.json) |
 | MSSP8 | 308262 | [308262-mssp8.json](./308262-mssp8.json) |
 | Mstar | 137518 | [137518-mstar.json](./137518-mstar.json) |
