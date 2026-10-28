@@ -13478,6 +13478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girls: the Advent | 182733 | [182733-monster-girls-the-advent.json](./182733-monster-girls-the-advent.json) |
 | Monster Girls: You Can't Say No | 415164 | [415164-monster-girls-you-cant-say-no.json](./415164-monster-girls-you-cant-say-no.json) |
 | Monster Grid | 341331 | [341331-monster-grid.json](./341331-monster-grid.json) |
+| Monster Grinder Ultra | 280385 | [280385-monster-grinder-ultra.json](./280385-monster-grinder-ultra.json) |
 | Monster Guardians | 49716 | [49716-monster-guardians.json](./49716-monster-guardians.json) |
 | Monster Hatcher | 406920 | [406920-monster-hatcher.json](./406920-monster-hatcher.json) |
 | Monster Haven | 315708 | [315708-monster-haven.json](./315708-monster-haven.json) |
