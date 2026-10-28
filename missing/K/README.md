@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Anime: Cute Girls Magic World | 409685 | [409685-kawaii-anime-cute-girls-magic-world.json](./409685-kawaii-anime-cute-girls-magic-world.json) |
 | Kawaii Ano Ko ha Yousha toka Zenzen Shinai: Jiai no Youkou-hen | 376681 | [376681-kawaii-ano-ko-ha-yousha-toka-zenzen-shinai-jiai-no-youkou-hen.json](./376681-kawaii-ano-ko-ha-yousha-toka-zenzen-shinai-jiai-no-youkou-hen.json) |
 | Kawaii Coloring Book | 104223 | [104223-kawaii-coloring-book.json](./104223-kawaii-coloring-book.json) |
+| Kawaii Dake ja Dame? | 238115 | [238115-kawaii-dake-ja-dame.json](./238115-kawaii-dake-ja-dame.json) |
 | Kawaii Deathu Desu | 120089 | [120089-kawaii-deathu-desu.json](./120089-kawaii-deathu-desu.json) |
 | Kawaii Evolution Clicker | 301323 | [301323-kawaii-evolution-clicker.json](./301323-kawaii-evolution-clicker.json) |
 | Kawaii Force: Liberty Line | 397876 | [397876-kawaii-force-liberty-line.json](./397876-kawaii-force-liberty-line.json) |
@@ -2419,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2788,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Choice | 186308 | [186308-kings-choice.json](./186308-kings-choice.json) |
 | King's Courier | 377916 | [377916-kings-courier.json](./377916-kings-courier.json) |
 | King's Cup | 143441 | [143441-kings-cup.json](./143441-kings-cup.json) |
+| King's Descent | 238125 | [238125-kings-descent.json](./238125-kings-descent.json) |
 | King's Devotion | 381146 | [381146-kings-devotion.json](./381146-kings-devotion.json) |
 | King's Downfall | 383675 | [383675-kings-downfall.json](./383675-kings-downfall.json) |
 | King's Dungeon | 228691 | [228691-kings-dungeon.json](./228691-kings-dungeon.json) |
@@ -3410,6 +3413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kissaten Dream | 385648 | [385648-kissaten-dream.json](./385648-kissaten-dream.json) |
 | Kissed by a Star | 349981 | [349981-kissed-by-a-star.json](./349981-kissed-by-a-star.json) |
 | Kissed by the Baddest Bidder | 125276 | [125276-kissed-by-the-baddest-bidder.json](./125276-kissed-by-the-baddest-bidder.json) |
+| Kissed by the Baddest Bidder: Birthday Story DLC Pack | 238150 | [238150-kissed-by-the-baddest-bidder-birthday-story-dlc-pack.json](./238150-kissed-by-the-baddest-bidder-birthday-story-dlc-pack.json) |
 | Kissed by the Baddest Bidder: Drowning in your Kiss - Baba | 238343 | [238343-kissed-by-the-baddest-bidder-drowning-in-your-kiss-baba.json](./238343-kissed-by-the-baddest-bidder-drowning-in-your-kiss-baba.json) |
 | Kissed by the Baddest Bidder: Drowning in your Kiss - Mamoru | 238330 | [238330-kissed-by-the-baddest-bidder-drowning-in-your-kiss-mamoru.json](./238330-kissed-by-the-baddest-bidder-drowning-in-your-kiss-mamoru.json) |
 | Kissed by the Baddest Bidder: Drowning in your Kiss - Ota | 238331 | [238331-kissed-by-the-baddest-bidder-drowning-in-your-kiss-ota.json](./238331-kissed-by-the-baddest-bidder-drowning-in-your-kiss-ota.json) |
