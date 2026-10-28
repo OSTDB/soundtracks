@@ -2338,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carlson's Ticker Simulator | 293130 | [293130-carlsons-ticker-simulator.json](./293130-carlsons-ticker-simulator.json) |
 | Carlton | 83477 | [83477-carlton.json](./83477-carlton.json) |
 | Carma | 172153 | [172153-carma.json](./172153-carma.json) |
+| Carmageddon | 230473 | [230473-carmageddon.json](./230473-carmageddon.json) |
 | Carmageddon | 246743 | [246743-carmageddon.json](./246743-carmageddon.json) |
 | Carmageddon | 246895 | [246895-carmageddon.json](./246895-carmageddon.json) |
 | Carmageddon | 626 | [626-carmageddon.json](./626-carmageddon.json) |
@@ -6026,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicago Enforcer | 5775 | [5775-chicago-enforcer.json](./5775-chicago-enforcer.json) |
 | Chicago Project | 291330 | [291330-chicago-project.json](./291330-chicago-project.json) |
 | Chicago's 30 | 39161 | [39161-chicagos-30.json](./39161-chicagos-30.json) |
+| Chicane: Jenson Button Street Racing | 230472 | [230472-chicane-jenson-button-street-racing.json](./230472-chicane-jenson-button-street-racing.json) |
 | Chicco App Toys Blocks | 252566 | [252566-chicco-app-toys-blocks.json](./252566-chicco-app-toys-blocks.json) |
 | Chiccoo and Life | 303729 | [303729-chiccoo-and-life.json](./303729-chiccoo-and-life.json) |
 | Chichen-Itza | 178052 | [178052-chichen-itza.json](./178052-chichen-itza.json) |
@@ -13904,6 +13906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crane Quandry | 101009 | [101009-crane-quandry.json](./101009-crane-quandry.json) |
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
 | Cranga!: Harbor Frenzy | 31544 | [31544-cranga-harbor-frenzy.json](./31544-cranga-harbor-frenzy.json) |
+| Cranium: Partyland Park | 230460 | [230460-cranium-partyland-park.json](./230460-cranium-partyland-park.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
 | Crank & Watch: Ball | 271689 | [271689-crank-and-watch-ball.json](./271689-crank-and-watch-ball.json) |
 | Crank & Watch: Octopus | 267964 | [267964-crank-and-watch-octopus.json](./267964-crank-and-watch-octopus.json) |
@@ -17193,6 +17196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursor Car | 182928 | [182928-cursor-car.json](./182928-cursor-car.json) |
 | Cursor Challenge | 33120 | [33120-cursor-challenge.json](./33120-cursor-challenge.json) |
 | Cursor Custodian | 178856 | [178856-cursor-custodian.json](./178856-cursor-custodian.json) |
+| Cursor Invisible | 230444 | [230444-cursor-invisible.json](./230444-cursor-invisible.json) |
 | Cursor Kingdom | 316668 | [316668-cursor-kingdom.json](./316668-cursor-kingdom.json) |
 | Cursor Story | 237355 | [237355-cursor-story.json](./237355-cursor-story.json) |
 | Cursor Thief | 261893 | [261893-cursor-thief.json](./261893-cursor-thief.json) |
