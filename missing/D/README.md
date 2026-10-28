@@ -2250,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Nite | 336598 | [336598-date-nite.json](./336598-date-nite.json) |
 | Date of Death: Origin | 195553 | [195553-date-of-death-origin.json](./195553-date-of-death-origin.json) |
 | Date of Life | 151988 | [151988-date-of-life.json](./151988-date-of-life.json) |
+| Date One Direction | 264977 | [264977-date-one-direction.json](./264977-date-one-direction.json) |
 | Date or Destiny: Kiss or Miss | 348880 | [348880-date-or-destiny-kiss-or-miss.json](./348880-date-or-destiny-kiss-or-miss.json) |
 | Date or Die | 56508 | [56508-date-or-die.json](./56508-date-or-die.json) |
 | Date or Ditch | 85073 | [85073-date-or-ditch.json](./85073-date-or-ditch.json) |
