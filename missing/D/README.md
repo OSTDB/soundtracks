@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dämonenburg | 91586 | [91586-damonenburg.json](./91586-damonenburg.json) |
 | Damoria | 196273 | [196273-damoria.json](./196273-damoria.json) |
 | Damper/Glooper | 319577 | [319577-damper-glooper.json](./319577-damper-glooper.json) |
+| Dampf: The Cozy Tower Defense | 275756 | [275756-dampf-the-cozy-tower-defense.json](./275756-dampf-the-cozy-tower-defense.json) |
 | Dampftraum | 201111 | [201111-dampftraum.json](./201111-dampftraum.json) |
 | Damsel | 58533 | [58533-damsel.json](./58533-damsel.json) |
 | Damsels in Distress | 276199 | [276199-damsels-in-distress.json](./276199-damsels-in-distress.json) |
@@ -1808,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Dungeon II: Kingdoms | 296837 | [296837-darkest-dungeon-ii-kingdoms.json](./296837-darkest-dungeon-ii-kingdoms.json) |
 | Darkest Dungeon II: Oblivion Edition | 298850 | [298850-darkest-dungeon-ii-oblivion-edition.json](./298850-darkest-dungeon-ii-oblivion-edition.json) |
 | Darkest Dungeon II: Resolute Edition | 383423 | [383423-darkest-dungeon-ii-resolute-edition.json](./383423-darkest-dungeon-ii-resolute-edition.json) |
+| Darkest Dungeon II: The Binding Blade | 275753 | [275753-darkest-dungeon-ii-the-binding-blade.json](./275753-darkest-dungeon-ii-the-binding-blade.json) |
 | Darkest Dungeon: Collector's Edition | 136203 | [136203-darkest-dungeon-collectors-edition.json](./136203-darkest-dungeon-collectors-edition.json) |
 | Darkest Dungeon: Crimson Edition | 91323 | [91323-darkest-dungeon-crimson-edition.json](./91323-darkest-dungeon-crimson-edition.json) |
 | Darkest Dungeon: The Butcher's Circus | 172134 | [172134-darkest-dungeon-the-butchers-circus.json](./172134-darkest-dungeon-the-butchers-circus.json) |
@@ -4169,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debuff | 76502 | [76502-debuff.json](./76502-debuff.json) |
 | Debug | 190097 | [190097-debug.json](./190097-debug.json) |
 | Debug | 417988 | [417988-debug.json](./417988-debug.json) |
+| Debug Girl | 275744 | [275744-debug-girl.json](./275744-debug-girl.json) |
 | Debug Life | 339322 | [339322-debug-life.json](./339322-debug-life.json) |
 | Debug Nephemee | 397997 | [397997-debug-nephemee.json](./397997-debug-nephemee.json) |
 | Debugger 3.16: Recoded - Despair of the Developer Edition | 380127 | [380127-debugger-3-16-recoded-despair-of-the-developer-edition.json](./380127-debugger-3-16-recoded-despair-of-the-developer-edition.json) |
@@ -4692,6 +4695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deepmess | 285015 | [285015-deepmess.json](./285015-deepmess.json) |
 | Deepolis | 318139 | [318139-deepolis.json](./318139-deepolis.json) |
 | DeepOne | 242521 | [242521-deepone.json](./242521-deepone.json) |
+| Deepophobia | 275417 | [275417-deepophobia.json](./275417-deepophobia.json) |
 | Deeprealm Odyssey: Adventure game | 208917 | [208917-deeprealm-odyssey-adventure-game.json](./208917-deeprealm-odyssey-adventure-game.json) |
 | Deepsea Salvor | 128375 | [128375-deepsea-salvor.json](./128375-deepsea-salvor.json) |
 | DeepSea Serenity: VR Underwater Trip | 288786 | [288786-deepsea-serenity-vr-underwater-trip.json](./288786-deepsea-serenity-vr-underwater-trip.json) |
@@ -6224,6 +6228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desires of a Vampire | 298892 | [298892-desires-of-a-vampire.json](./298892-desires-of-a-vampire.json) |
 | Desk Deck Heroes | 303472 | [303472-desk-deck-heroes.json](./303472-desk-deck-heroes.json) |
 | Desk Dino | 387591 | [387591-desk-dino.json](./387591-desk-dino.json) |
+| Desk of Desires: VR Office Sex | 275755 | [275755-desk-of-desires-vr-office-sex.json](./275755-desk-of-desires-vr-office-sex.json) |
 | Desk Paws | 348883 | [348883-desk-paws.json](./348883-desk-paws.json) |
 | Desk Space: Idle Spacefleet clicker | 404989 | [404989-desk-space-idle-spacefleet-clicker.json](./404989-desk-space-idle-spacefleet-clicker.json) |
 | Deskape | 371304 | [371304-deskape.json](./371304-deskape.json) |
@@ -6838,6 +6843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devi & Pii | 215752 | [215752-devi-and-pii.json](./215752-devi-and-pii.json) |
 | Deviant Dungeon | 127931 | [127931-deviant-dungeon.json](./127931-deviant-dungeon.json) |
 | Deviation from Way | 190025 | [190025-deviation-from-way.json](./190025-deviation-from-way.json) |
+| Deviator | 275746 | [275746-deviator.json](./275746-deviator.json) |
 | Device | 150165 | [150165-device.json](./150165-device.json) |
 | Device 0101 | 294844 | [294844-device-0101.json](./294844-device-0101.json) |
 | Device Doctor Simulator 2024 | 290862 | [290862-device-doctor-simulator-2024.json](./290862-device-doctor-simulator-2024.json) |
@@ -9903,6 +9909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Adventure | 187192 | [187192-dog-adventure.json](./187192-dog-adventure.json) |
 | Dog Adventure | 343612 | [343612-dog-adventure.json](./343612-dog-adventure.json) |
 | Dog and Bone Are Friends | 60455 | [60455-dog-and-bone-are-friends.json](./60455-dog-and-bone-are-friends.json) |
+| Dog And Goblin | 275748 | [275748-dog-and-goblin.json](./275748-dog-and-goblin.json) |
 | Dog Cafe Tycoon | 226771 | [226771-dog-cafe-tycoon.json](./226771-dog-cafe-tycoon.json) |
 | Dog Chaos | 397732 | [397732-dog-chaos.json](./397732-dog-chaos.json) |
 | Dog Clicker | 190203 | [190203-dog-clicker.json](./190203-dog-clicker.json) |
@@ -14505,6 +14512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop the Ballz | 106932 | [106932-drop-the-ballz.json](./106932-drop-the-ballz.json) |
 | Drop the Bomb | 99587 | [99587-drop-the-bomb.json](./99587-drop-the-bomb.json) |
 | Drop the Clock | 91223 | [91223-drop-the-clock.json](./91223-drop-the-clock.json) |
+| Drop the Dice | 275752 | [275752-drop-the-dice.json](./275752-drop-the-dice.json) |
 | Drop the Number | 216214 | [216214-drop-the-number.json](./216214-drop-the-number.json) |
 | Drop Up | 106497 | [106497-drop-up.json](./106497-drop-up.json) |
 | Drop Up | 178935 | [178935-drop-up.json](./178935-drop-up.json) |
@@ -15564,6 +15572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Mercenaries | 309568 | [309568-dungeon-mercenaries.json](./309568-dungeon-mercenaries.json) |
 | Dungeon Mercenary | 182721 | [182721-dungeon-mercenary.json](./182721-dungeon-mercenary.json) |
 | Dungeon Merchant | 250872 | [250872-dungeon-merchant.json](./250872-dungeon-merchant.json) |
+| Dungeon Minesweeper | 275745 | [275745-dungeon-minesweeper.json](./275745-dungeon-minesweeper.json) |
 | Dungeon Misfits | 387423 | [387423-dungeon-misfits.json](./387423-dungeon-misfits.json) |
 | Dungeon Mori | 338000 | [338000-dungeon-mori.json](./338000-dungeon-mori.json) |
 | Dungeon Munchies: Collector's Edition | 289355 | [289355-dungeon-munchies-collectors-edition.json](./289355-dungeon-munchies-collectors-edition.json) |
@@ -15944,6 +15953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Taverns | 344039 | [344039-dungeons-and-taverns.json](./344039-dungeons-and-taverns.json) |
 | Dungeons and Tiles | 224060 | [224060-dungeons-and-tiles.json](./224060-dungeons-and-tiles.json) |
 | Dungeons Are Random | 33845 | [33845-dungeons-are-random.json](./33845-dungeons-are-random.json) |
+| Dungeons Deep | 275747 | [275747-dungeons-deep.json](./275747-dungeons-deep.json) |
 | Dungeons Forever | 84034 | [84034-dungeons-forever.json](./84034-dungeons-forever.json) |
 | Dungeons of Aether | 195068 | [195068-dungeons-of-aether.json](./195068-dungeons-of-aether.json) |
 | Dungeons of Aledorn | 60494 | [60494-dungeons-of-aledorn.json](./60494-dungeons-of-aledorn.json) |
