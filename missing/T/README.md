@@ -2066,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Trillionaire: Invest! | 261353 | [261353-tap-tap-trillionaire-invest.json](./261353-tap-tap-trillionaire-invest.json) |
 | Tap Tap West | 95963 | [95963-tap-tap-west.json](./95963-tap-tap-west.json) |
 | Tap That Date! | 323993 | [323993-tap-that-date.json](./323993-tap-that-date.json) |
+| Tap the Ball DX | 241555 | [241555-tap-the-ball-dx.json](./241555-tap-the-ball-dx.json) |
 | Tap the Blocks | 214195 | [214195-tap-the-blocks.json](./214195-tap-the-blocks.json) |
 | Tap the Frog: Doodle | 166287 | [166287-tap-the-frog-doodle.json](./166287-tap-the-frog-doodle.json) |
 | Tap the Road | 259684 | [259684-tap-the-road.json](./259684-tap-the-road.json) |
@@ -3563,6 +3564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Clash | 125197 | [125197-tennis-clash.json](./125197-tennis-clash.json) |
 | Tennis Club Story | 134020 | [134020-tennis-club-story.json](./134020-tennis-club-story.json) |
 | Tennis Court Smash | 92667 | [92667-tennis-court-smash.json](./92667-tennis-court-smash.json) |
+| Tennis Crackdown | 241545 | [241545-tennis-crackdown.json](./241545-tennis-crackdown.json) |
 | Tennis Cup | 123005 | [123005-tennis-cup.json](./123005-tennis-cup.json) |
 | Tennis Cup II | 73690 | [73690-tennis-cup-ii.json](./73690-tennis-cup-ii.json) |
 | Tennis Dog: Ultimate Good Boy | 179982 | [179982-tennis-dog-ultimate-good-boy.json](./179982-tennis-dog-ultimate-good-boy.json) |
@@ -4564,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Potato Game | 247951 | [247951-that-potato-game.json](./247951-that-potato-game.json) |
 | That Puzzle Game Everyone Knows | 135023 | [135023-that-puzzle-game-everyone-knows.json](./135023-that-puzzle-game-everyone-knows.json) |
 | That Racecar Game | 241651 | [241651-that-racecar-game.json](./241651-that-racecar-game.json) |
+| That Rhyme Game | 241544 | [241544-that-rhyme-game.json](./241544-that-rhyme-game.json) |
 | That Rocket Game | 244356 | [244356-that-rocket-game.json](./244356-that-rocket-game.json) |
 | That Role Playing | 190459 | [190459-that-role-playing.json](./190459-that-role-playing.json) |
 | That Sausage Museum Game | 350177 | [350177-that-sausage-museum-game.json](./350177-that-sausage-museum-game.json) |
@@ -15797,6 +15800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tree of Immortality | 310290 | [310290-the-tree-of-immortality.json](./310290-the-tree-of-immortality.json) |
 | The Tree Of Life | 295248 | [295248-the-tree-of-life.json](./295248-the-tree-of-life.json) |
 | The Treehouse Man | 102317 | [102317-the-treehouse-man.json](./102317-the-treehouse-man.json) |
+| The Treflik Family | 241180 | [241180-the-treflik-family.json](./241180-the-treflik-family.json) |
 | The Treflik Family: Deluxe Edition | 246883 | [246883-the-treflik-family-deluxe-edition.json](./246883-the-treflik-family-deluxe-edition.json) |
 | The Trench | 219669 | [219669-the-trench.json](./219669-the-trench.json) |
 | The Trial | 170383 | [170383-the-trial.json](./170383-the-trial.json) |
@@ -20508,6 +20512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Space Program | 174525 | [174525-tiny-space-program.json](./174525-tiny-space-program.json) |
 | Tiny Speedster | 307636 | [307636-tiny-speedster.json](./307636-tiny-speedster.json) |
 | Tiny Squads | 244628 | [244628-tiny-squads.json](./244628-tiny-squads.json) |
+| Tiny Stack | 241542 | [241542-tiny-stack.json](./241542-tiny-stack.json) |
 | Tiny Starfighters | 317413 | [317413-tiny-starfighters.json](./317413-tiny-starfighters.json) |
 | Tiny Step | 267333 | [267333-tiny-step.json](./267333-tiny-step.json) |
 | Tiny Stories: Santa Closes | 185928 | [185928-tiny-stories-santa-closes.json](./185928-tiny-stories-santa-closes.json) |
