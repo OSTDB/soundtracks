@@ -15547,6 +15547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motte Island | 20064 | [20064-motte-island.json](./20064-motte-island.json) |
 | Motteke Tamago | 42015 | [42015-motteke-tamago.json](./42015-motteke-tamago.json) |
 | Motteke Tamago Ganbare Kamonohashi | 62206 | [62206-motteke-tamago-ganbare-kamonohashi.json](./62206-motteke-tamago-ganbare-kamonohashi.json) |
+| Motteke Tamago with Ganbare Kamonohashi | 247571 | [247571-motteke-tamago-with-ganbare-kamonohashi.json](./247571-motteke-tamago-with-ganbare-kamonohashi.json) |
 | Mottia: The Gem Hunters | 215914 | [215914-mottia-the-gem-hunters.json](./215914-mottia-the-gem-hunters.json) |
 | Motto Immortal | 411564 | [411564-motto-immortal.json](./411564-motto-immortal.json) |
 | Motto Kigaru ni! Oekaki Koubou Plus | 222428 | [222428-motto-kigaru-ni-oekaki-koubou-plus.json](./222428-motto-kigaru-ni-oekaki-koubou-plus.json) |
@@ -17175,6 +17176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muyagangho | 224405 | [224405-muyagangho.json](./224405-muyagangho.json) |
 | Muzan: Chiniku no Ikenie | 67230 | [67230-muzan-chiniku-no-ikenie.json](./67230-muzan-chiniku-no-ikenie.json) |
 | Muzzle Flash | 62073 | [62073-muzzle-flash.json](./62073-muzzle-flash.json) |
+| Muzzle Run | 247304 | [247304-muzzle-run.json](./247304-muzzle-run.json) |
 | Muzzle Velocity | 70947 | [70947-muzzle-velocity.json](./70947-muzzle-velocity.json) |
 | MV Mazes | 150272 | [150272-mv-mazes.json](./150272-mv-mazes.json) |
 | MV-017 Metal Armor | 397417 | [397417-mv-017-metal-armor.json](./397417-mv-017-metal-armor.json) |
