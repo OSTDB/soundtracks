@@ -921,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are Just a Blue Switch | 364545 | [364545-you-are-just-a-blue-switch.json](./364545-you-are-just-a-blue-switch.json) |
 | You Are Kaiju | 148256 | [148256-you-are-kaiju.json](./148256-you-are-kaiju.json) |
 | You Are King | 59247 | [59247-you-are-king.json](./59247-you-are-king.json) |
+| You Are Liam: Shadow Memories | 270815 | [270815-you-are-liam-shadow-memories.json](./270815-you-are-liam-shadow-memories.json) |
 | You Are Lost | 181158 | [181158-you-are-lost.json](./181158-you-are-lost.json) |
 | You Are Mine 2 | 303296 | [303296-you-are-mine-2.json](./303296-you-are-mine-2.json) |
 | You Are Mine2 Otome Love Story | 231876 | [231876-you-are-mine2-otome-love-story.json](./231876-you-are-mine2-otome-love-story.json) |
