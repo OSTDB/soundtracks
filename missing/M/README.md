@@ -887,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Alliance | 323587 | [323587-magic-alliance.json](./323587-magic-alliance.json) |
 | Magic and Dragon: 4X Battle | 323427 | [323427-magic-and-dragon-4x-battle.json](./323427-magic-and-dragon-4x-battle.json) |
 | Magic and Elements | 205581 | [205581-magic-and-elements.json](./205581-magic-and-elements.json) |
+| Magic and Legend: Star Seekers | 255831 | [255831-magic-and-legend-star-seekers.json](./255831-magic-and-legend-star-seekers.json) |
 | Magic and Metal Zero: Tower of Metal | 182720 | [182720-magic-and-metal-zero-tower-of-metal.json](./182720-magic-and-metal-zero-tower-of-metal.json) |
 | Magic Archer: Monster Islands | 234475 | [234475-magic-archer-monster-islands.json](./234475-magic-archer-monster-islands.json) |
 | Magic Archers | 148862 | [148862-magic-archers.json](./148862-magic-archers.json) |
@@ -6381,6 +6382,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man | 281415 | [281415-mega-man.json](./281415-mega-man.json) |
 | Mega Man & Mega Man X 5in1 Special Box | 124033 | [124033-mega-man-and-mega-man-x-5in1-special-box.json](./124033-mega-man-and-mega-man-x-5in1-special-box.json) |
 | Mega Man 10 | 1723 | [1723-mega-man-10.json](./1723-mega-man-10.json) |
+| Mega Man 10: Bass Mode | 255821 | [255821-mega-man-10-bass-mode.json](./255821-mega-man-10-bass-mode.json) |
+| Mega Man 10: Endless Attack | 255826 | [255826-mega-man-10-endless-attack.json](./255826-mega-man-10-endless-attack.json) |
+| Mega Man 10: Special Stage 1 | 255822 | [255822-mega-man-10-special-stage-1.json](./255822-mega-man-10-special-stage-1.json) |
+| Mega Man 10: Special Stage 2 | 255824 | [255824-mega-man-10-special-stage-2.json](./255824-mega-man-10-special-stage-2.json) |
+| Mega Man 10: Special Stage 3 | 255825 | [255825-mega-man-10-special-stage-3.json](./255825-mega-man-10-special-stage-3.json) |
 | Mega Man 11 | 76723 | [76723-mega-man-11.json](./76723-mega-man-11.json) |
 | Mega Man 11: Amiibo Edition | 178398 | [178398-mega-man-11-amiibo-edition.json](./178398-mega-man-11-amiibo-edition.json) |
 | Mega Man 11: Collector's Package | 167160 | [167160-mega-man-11-collectors-package.json](./167160-mega-man-11-collectors-package.json) |
@@ -18046,6 +18052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pet | 245431 | [245431-my-pet.json](./245431-my-pet.json) |
 | My Pet Fan | 351721 | [351721-my-pet-fan.json](./351721-my-pet-fan.json) |
 | My Pet Femboy | 355617 | [355617-my-pet-femboy.json](./355617-my-pet-femboy.json) |
+| My Pet Hooligan | 255474 | [255474-my-pet-hooligan.json](./255474-my-pet-hooligan.json) |
 | My Pet Hooligan: Mall Santa Pack | 279155 | [279155-my-pet-hooligan-mall-santa-pack.json](./279155-my-pet-hooligan-mall-santa-pack.json) |
 | My Pet Hooligan: Ugly Christmas Sweater Pack | 279156 | [279156-my-pet-hooligan-ugly-christmas-sweater-pack.json](./279156-my-pet-hooligan-ugly-christmas-sweater-pack.json) |
 | My Pet Hotel | 17048 | [17048-my-pet-hotel.json](./17048-my-pet-hotel.json) |
