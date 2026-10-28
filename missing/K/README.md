@@ -4860,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KPatience | 134532 | [134532-kpatience.json](./134532-kpatience.json) |
 | Kpop idol Dress Up | 420670 | [420670-kpop-idol-dress-up.json](./420670-kpop-idol-dress-up.json) |
 | Kpop Love Idol Maker Manager | 297017 | [297017-kpop-love-idol-maker-manager.json](./297017-kpop-love-idol-maker-manager.json) |
+| Kpop Piano Game: Color Tiles | 272097 | [272097-kpop-piano-game-color-tiles.json](./272097-kpop-piano-game-color-tiles.json) |
 | Kra-Ken | 120023 | [120023-kra-ken.json](./120023-kra-ken.json) |
 | Kraa | 395141 | [395141-kraa.json](./395141-kraa.json) |
 | Kraal | 142366 | [142366-kraal.json](./142366-kraal.json) |
