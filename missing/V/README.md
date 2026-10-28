@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vape Store Miami | 406824 | [406824-vape-store-miami.json](./406824-vape-store-miami.json) |
 | Vaping Simulator: Pepe Edition | 55787 | [55787-vaping-simulator-pepe-edition.json](./55787-vaping-simulator-pepe-edition.json) |
 | Vapinupituru | 393537 | [393537-vapinupituru.json](./393537-vapinupituru.json) |
+| Vapor dash | 255285 | [255285-vapor-dash.json](./255285-vapor-dash.json) |
 | Vapor Maze | 178543 | [178543-vapor-maze.json](./178543-vapor-maze.json) |
 | Vapor Memories | 184122 | [184122-vapor-memories.json](./184122-vapor-memories.json) |
 | Vapor Music Tour | 160172 | [160172-vapor-music-tour.json](./160172-vapor-music-tour.json) |
