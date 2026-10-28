@@ -3255,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Borders | 264030 | [264030-infinite-borders.json](./264030-infinite-borders.json) |
 | Infinite Borders: Three Kingdoms | 348170 | [348170-infinite-borders-three-kingdoms.json](./348170-infinite-borders-three-kingdoms.json) |
 | Infinite Brick Breaker | 152989 | [152989-infinite-brick-breaker.json](./152989-infinite-brick-breaker.json) |
+| Infinite Canyon | 232604 | [232604-infinite-canyon.json](./232604-infinite-canyon.json) |
 | Infinite Canyon | 360646 | [360646-infinite-canyon.json](./360646-infinite-canyon.json) |
 | Infinite Chef | 300411 | [300411-infinite-chef.json](./300411-infinite-chef.json) |
 | Infinite Children | 114864 | [114864-infinite-children.json](./114864-infinite-children.json) |
