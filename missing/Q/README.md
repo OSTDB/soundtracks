@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quanero | 32194 | [32194-quanero.json](./32194-quanero.json) |
 | Quanero 2 - System Release | 83817 | [83817-quanero-2-system-release.json](./83817-quanero-2-system-release.json) |
 | Quánmín Wángzhě | 82037 | [82037-quanmin-wangzhe.json](./82037-quanmin-wangzhe.json) |
+| Quann Tulla | 229904 | [229904-quann-tulla.json](./229904-quann-tulla.json) |
 | Quanoid | 95682 | [95682-quanoid.json](./95682-quanoid.json) |
 | Quant | 172553 | [172553-quant.json](./172553-quant.json) |
 | Quantaar | 159884 | [159884-quantaar.json](./159884-quantaar.json) |
@@ -757,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest for Quintana Roo | 12317 | [12317-quest-for-quintana-roo.json](./12317-quest-for-quintana-roo.json) |
 | Quest for Runia | 160106 | [160106-quest-for-runia.json](./160106-quest-for-runia.json) |
 | Quest for Saddam | 209746 | [209746-quest-for-saddam.json](./209746-quest-for-saddam.json) |
+| Quest for Tanda | 229905 | [229905-quest-for-tanda.json](./229905-quest-for-tanda.json) |
 | Quest for the Book of Truth | 181207 | [181207-quest-for-the-book-of-truth.json](./181207-quest-for-the-book-of-truth.json) |
 | Quest for the Code | 185633 | [185633-quest-for-the-code.json](./185633-quest-for-the-code.json) |
 | Quest for the Crystal Skulls | 268756 | [268756-quest-for-the-crystal-skulls.json](./268756-quest-for-the-crystal-skulls.json) |
@@ -941,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet House Massacre | 317023 | [317023-quiet-house-massacre.json](./317023-quiet-house-massacre.json) |
 | Quiet in the Library | 390688 | [390688-quiet-in-the-library.json](./390688-quiet-in-the-library.json) |
 | Quiet is the Eyes | 279263 | [279263-quiet-is-the-eyes.json](./279263-quiet-is-the-eyes.json) |
+| Quiet Manor | 229906 | [229906-quiet-manor.json](./229906-quiet-manor.json) |
 | Quiet Maple | 184992 | [184992-quiet-maple.json](./184992-quiet-maple.json) |
 | Quiet on Set | 266300 | [266300-quiet-on-set.json](./266300-quiet-on-set.json) |
 | Quiet Rehabilitation | 281411 | [281411-quiet-rehabilitation.json](./281411-quiet-rehabilitation.json) |
