@@ -6077,6 +6077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Google Earth Flight Simulator | 10902 | [10902-google-earth-flight-simulator.json](./10902-google-earth-flight-simulator.json) |
 | Google Feud | 10898 | [10898-google-feud.json](./10898-google-feud.json) |
 | Google Feudle | 227214 | [227214-google-feudle.json](./227214-google-feudle.json) |
+| Google Maps Snake | 264979 | [264979-google-maps-snake.json](./264979-google-maps-snake.json) |
 | Google Maps: Pokémon Challenge | 239127 | [239127-google-maps-pokemon-challenge.json](./239127-google-maps-pokemon-challenge.json) |
 | Google Minesweeper | 184478 | [184478-google-minesweeper.json](./184478-google-minesweeper.json) |
 | Google Santa Tracker | 229336 | [229336-google-santa-tracker.json](./229336-google-santa-tracker.json) |
