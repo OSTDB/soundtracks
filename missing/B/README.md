@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2801,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bassmaster Fishing 2022: Lake Hartwell | 193438 | [193438-bassmaster-fishing-2022-lake-hartwell.json](./193438-bassmaster-fishing-2022-lake-hartwell.json) |
 | Bassmaster Fishing 2022: Lake Seminole | 196470 | [196470-bassmaster-fishing-2022-lake-seminole.json](./196470-bassmaster-fishing-2022-lake-seminole.json) |
 | Bassmaster Fishing 2022: Predator Equipment Pack | 225082 | [225082-bassmaster-fishing-2022-predator-equipment-pack.json](./225082-bassmaster-fishing-2022-predator-equipment-pack.json) |
+| Bassmaster Fishing 2022: Retro Cosmetic Pack Season Pass | 279166 | [279166-bassmaster-fishing-2022-retro-cosmetic-pack-season-pass.json](./279166-bassmaster-fishing-2022-retro-cosmetic-pack-season-pass.json) |
 | Bassmaster Fishing 2022: Super Deluxe Edition | 206684 | [206684-bassmaster-fishing-2022-super-deluxe-edition.json](./206684-bassmaster-fishing-2022-super-deluxe-edition.json) |
 | Bassmaster Fishing 2022: Synthwave Pack | 225083 | [225083-bassmaster-fishing-2022-synthwave-pack.json](./225083-bassmaster-fishing-2022-synthwave-pack.json) |
 | Bassmaster Fishing 2022: Throwback B.A.S.S. Pack | 225084 | [225084-bassmaster-fishing-2022-throwback-b-a-s-s-pack.json](./225084-bassmaster-fishing-2022-throwback-b-a-s-s-pack.json) |
@@ -6644,6 +6646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigfoot vs. Scots | 244257 | [244257-bigfoot-vs-scots.json](./244257-bigfoot-vs-scots.json) |
 | Bigfoot: Chasing Shadows | 69354 | [69354-bigfoot-chasing-shadows.json](./69354-bigfoot-chasing-shadows.json) |
 | Bigfoot: King of Crush | 51052 | [51052-bigfoot-king-of-crush.json](./51052-bigfoot-king-of-crush.json) |
+| Bigfoot's Journey | 279022 | [279022-bigfoots-journey.json](./279022-bigfoots-journey.json) |
 | Bigger Bikes | 190037 | [190037-bigger-bikes.json](./190037-bigger-bikes.json) |
 | Bigger Guns | 110113 | [110113-bigger-guns.json](./110113-bigger-guns.json) |
 | Bigger Guns: Expansion Pack | 226246 | [226246-bigger-guns-expansion-pack.json](./226246-bigger-guns-expansion-pack.json) |
