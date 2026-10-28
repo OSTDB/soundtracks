@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Succubus 2 | 146837 | [146837-sakura-succubus-2.json](./146837-sakura-succubus-2.json) |
 | Sakura Succubus 3 | 152892 | [152892-sakura-succubus-3.json](./152892-sakura-succubus-3.json) |
 | Sakura Succubus 5 | 193262 | [193262-sakura-succubus-5.json](./193262-sakura-succubus-5.json) |
+| Sakura Succubus 7 | 238671 | [238671-sakura-succubus-7.json](./238671-sakura-succubus-7.json) |
 | Sakura Succubus 7 | 289180 | [289180-sakura-succubus-7.json](./289180-sakura-succubus-7.json) |
 | Sakura Succubus 8 | 279520 | [279520-sakura-succubus-8.json](./279520-sakura-succubus-8.json) |
 | Sakura Succubus 8 | 353952 | [353952-sakura-succubus-8.json](./353952-sakura-succubus-8.json) |
@@ -2191,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara, Utsutsu. | 260977 | [260977-sayonara-utsutsu.json](./260977-sayonara-utsutsu.json) |
 | Sayori Shoots Up The Literature Club | 257531 | [257531-sayori-shoots-up-the-literature-club.json](./257531-sayori-shoots-up-the-literature-club.json) |
 | Sbaceball | 197700 | [197700-sbaceball.json](./197700-sbaceball.json) |
+| SBK 14: Official Mobile Game | 238673 | [238673-sbk-14-official-mobile-game.json](./238673-sbk-14-official-mobile-game.json) |
 | SBK 2011: Superbike World Championship | 41583 | [41583-sbk-2011-superbike-world-championship.json](./41583-sbk-2011-superbike-world-championship.json) |
 | SBK Team Manager | 200317 | [200317-sbk-team-manager.json](./200317-sbk-team-manager.json) |
 | SBK X: Superbike World Championship | 7180 | [7180-sbk-x-superbike-world-championship.json](./7180-sbk-x-superbike-world-championship.json) |
@@ -14509,6 +14511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somari Insanity | 331871 | [331871-somari-insanity.json](./331871-somari-insanity.json) |
 | Somari the Adventurer | 198522 | [198522-somari-the-adventurer.json](./198522-somari-the-adventurer.json) |
 | Somber | 216892 | [216892-somber.json](./216892-somber.json) |
+| Somber | 238663 | [238663-somber.json](./238663-somber.json) |
 | Somber Echoes | 293058 | [293058-somber-echoes.json](./293058-somber-echoes.json) |
 | Somber: Card Game | 185431 | [185431-somber-card-game.json](./185431-somber-card-game.json) |
 | Sombra | 311212 | [311212-sombra.json](./311212-sombra.json) |
@@ -16960,6 +16963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders | 218361 | [218361-space-invaders.json](./218361-space-invaders.json) |
 | Space Invaders | 218440 | [218440-space-invaders.json](./218440-space-invaders.json) |
 | Space Invaders | 218445 | [218445-space-invaders.json](./218445-space-invaders.json) |
+| Space Invaders | 238670 | [238670-space-invaders.json](./238670-space-invaders.json) |
 | Space Invaders | 266956 | [266956-space-invaders.json](./266956-space-invaders.json) |
 | Space Invaders | 266958 | [266958-space-invaders.json](./266958-space-invaders.json) |
 | Space Invaders | 266959 | [266959-space-invaders.json](./266959-space-invaders.json) |
@@ -27169,6 +27173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Horses Puzzles | 155626 | [155626-super-jigsaw-puzzle-generations-horses-puzzles.json](./155626-super-jigsaw-puzzle-generations-horses-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Ice Creams | 208816 | [208816-super-jigsaw-puzzle-generations-ice-creams.json](./208816-super-jigsaw-puzzle-generations-ice-creams.json) |
 | Super Jigsaw Puzzle: Generations - Iceland | 155614 | [155614-super-jigsaw-puzzle-generations-iceland.json](./155614-super-jigsaw-puzzle-generations-iceland.json) |
+| Super Jigsaw Puzzle: Generations - Illustrations | 238672 | [238672-super-jigsaw-puzzle-generations-illustrations.json](./238672-super-jigsaw-puzzle-generations-illustrations.json) |
 | Super Jigsaw Puzzle: Generations - Imagination | 193143 | [193143-super-jigsaw-puzzle-generations-imagination.json](./193143-super-jigsaw-puzzle-generations-imagination.json) |
 | Super Jigsaw Puzzle: Generations - Italy Puzzles | 155594 | [155594-super-jigsaw-puzzle-generations-italy-puzzles.json](./155594-super-jigsaw-puzzle-generations-italy-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Japan Puzzles | 155641 | [155641-super-jigsaw-puzzle-generations-japan-puzzles.json](./155641-super-jigsaw-puzzle-generations-japan-puzzles.json) |
