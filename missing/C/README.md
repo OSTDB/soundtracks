@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Wild: The Angler - Reserve Pass | 276300 | [276300-call-of-the-wild-the-angler-reserve-pass.json](./276300-call-of-the-wild-the-angler-reserve-pass.json) |
 | Call of the Wild: The Angler - Ultimate Fishing Bundle | 301333 | [301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json](./301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json) |
 | Call of the Wild: The Angler - Winter Vehicle Cosmetics Pack | 366229 | [366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json](./366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json) |
+| Call of the Wild: The Angler – Spain Reserve | 272651 | [272651-call-of-the-wild-the-angler-spain-reserve.json](./272651-call-of-the-wild-the-angler-spain-reserve.json) |
 | Call of the Winter Monarch | 183758 | [183758-call-of-the-winter-monarch.json](./183758-call-of-the-winter-monarch.json) |
 | Call of Tomsk-7 | 34751 | [34751-call-of-tomsk-7.json](./34751-call-of-tomsk-7.json) |
 | Call of Toys: Tower Defense! | 275357 | [275357-call-of-toys-tower-defense.json](./275357-call-of-toys-tower-defense.json) |
@@ -3564,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacombs | 142466 | [142466-catacombs.json](./142466-catacombs.json) |
 | Catacombs | 169979 | [169979-catacombs.json](./169979-catacombs.json) |
 | Catacombs | 25918 | [25918-catacombs.json](./25918-catacombs.json) |
+| Catacombs | 272650 | [272650-catacombs.json](./272650-catacombs.json) |
 | Catacombs | 289565 | [289565-catacombs.json](./289565-catacombs.json) |
 | Catacombs | 341456 | [341456-catacombs.json](./341456-catacombs.json) |
 | Catacombs 1: Demon War | 43505 | [43505-catacombs-1-demon-war.json](./43505-catacombs-1-demon-war.json) |
@@ -10144,6 +10146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Computer Games #1 | 71247 | [71247-color-computer-games-1.json](./71247-color-computer-games-1.json) |
 | Color Connect | 168679 | [168679-color-connect.json](./168679-color-connect.json) |
 | Color Connect | 397235 | [397235-color-connect.json](./397235-color-connect.json) |
+| Color Corruption | 272638 | [272638-color-corruption.json](./272638-color-corruption.json) |
 | Color Course | 185528 | [185528-color-course.json](./185528-color-course.json) |
 | Color Cross | 47769 | [47769-color-cross.json](./47769-color-cross.json) |
 | Color Crush | 387738 | [387738-color-crush.json](./387738-color-crush.json) |
