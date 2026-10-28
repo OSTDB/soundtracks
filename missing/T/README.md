@@ -13949,6 +13949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sekimeiya: Spun Glass | 141500 | [141500-the-sekimeiya-spun-glass.json](./141500-the-sekimeiya-spun-glass.json) |
 | The Seller | 84956 | [84956-the-seller.json](./84956-the-seller.json) |
 | The Semen Donation Truck! | 271562 | [271562-the-semen-donation-truck.json](./271562-the-semen-donation-truck.json) |
+| The Senate | 263607 | [263607-the-senate.json](./263607-the-senate.json) |
 | The Senex Bird | 220513 | [220513-the-senex-bird.json](./220513-the-senex-bird.json) |
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Sensational December Machine | 321623 | [321623-the-sensational-december-machine.json](./321623-the-sensational-december-machine.json) |
@@ -20934,6 +20935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaplan Arcade Collection Vol. 2 | 345545 | [345545-toaplan-arcade-collection-vol-2.json](./345545-toaplan-arcade-collection-vol-2.json) |
 | Toaplan Arcade Garage: Flying Fire Shark | 414454 | [414454-toaplan-arcade-garage-flying-fire-shark.json](./414454-toaplan-arcade-garage-flying-fire-shark.json) |
 | Toaplan Arcade Shoot'em Ups 1 | 336053 | [336053-toaplan-arcade-shootem-ups-1.json](./336053-toaplan-arcade-shootem-ups-1.json) |
+| Toaplan Arcade Shoot'em Ups 2 | 263617 | [263617-toaplan-arcade-shootem-ups-2.json](./263617-toaplan-arcade-shootem-ups-2.json) |
 | Toaplan Arcade Shoot'em Ups 3 | 336054 | [336054-toaplan-arcade-shootem-ups-3.json](./336054-toaplan-arcade-shootem-ups-3.json) |
 | Toaplan Arcade Shoot'em Ups 4 | 384582 | [384582-toaplan-arcade-shootem-ups-4.json](./384582-toaplan-arcade-shootem-ups-4.json) |
 | Toaplan Shooting Battle 1 | 125986 | [125986-toaplan-shooting-battle-1.json](./125986-toaplan-shooting-battle-1.json) |
@@ -27438,6 +27440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump vs. Covid: Save the World Clicker | 168575 | [168575-trump-vs-covid-save-the-world-clicker.json](./168575-trump-vs-covid-save-the-world-clicker.json) |
 | Trump: Agent of Hate | 26958 | [26958-trump-agent-of-hate.json](./26958-trump-agent-of-hate.json) |
 | Trump! Jump | 256262 | [256262-trump-jump.json](./256262-trump-jump.json) |
+| Trump's Empire | 263622 | [263622-trumps-empire.json](./263622-trumps-empire.json) |
 | Trumpets | 179164 | [179164-trumpets.json](./179164-trumpets.json) |
 | TrumpGate | 232340 | [232340-trumpgate.json](./232340-trumpgate.json) |
 | TrumPiñata | 32295 | [32295-trumpinata.json](./32295-trumpinata.json) |
