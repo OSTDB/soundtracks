@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-28T07:20:19.001Z",
-  "total_missing": 273619,
+  "generated_at": "2026-10-28T07:33:42.299Z",
+  "total_missing": 273667,
   "games": [
     {
       "igdb_id": 191680,
@@ -6992,6 +6992,11 @@
       "file": "missing/0-9/98877-20-games-to-play-with-your-mates.json"
     },
     {
+      "igdb_id": 263636,
+      "game_name": "20 in 1",
+      "file": "missing/0-9/263636-20-in-1.json"
+    },
+    {
       "igdb_id": 386365,
       "game_name": "20 in 1 Family Games Mega Collection",
       "file": "missing/0-9/386365-20-in-1-family-games-mega-collection.json"
@@ -10152,6 +10157,11 @@
       "file": "missing/0-9/324513-3d-morpion.json"
     },
     {
+      "igdb_id": 263635,
+      "game_name": "3D Movie Maker",
+      "file": "missing/0-9/263635-3d-movie-maker.json"
+    },
+    {
       "igdb_id": 15577,
       "game_name": "3D Munchy",
       "file": "missing/0-9/15577-3d-munchy.json"
@@ -11660,6 +11670,16 @@
       "igdb_id": 298607,
       "game_name": "420Blaze It 2: Game of the Year",
       "file": "missing/0-9/298607-420blaze-it-2-game-of-the-year.json"
+    },
+    {
+      "igdb_id": 263634,
+      "game_name": "428 in 1",
+      "file": "missing/0-9/263634-428-in-1.json"
+    },
+    {
+      "igdb_id": 263632,
+      "game_name": "428 in 1 vol. 3",
+      "file": "missing/0-9/263632-428-in-1-vol-3.json"
     },
     {
       "igdb_id": 95069,
@@ -14782,6 +14802,11 @@
       "file": "missing/0-9/377407-9-to-ashes.json"
     },
     {
+      "igdb_id": 263616,
+      "game_name": "9 to Die",
+      "file": "missing/0-9/263616-9-to-die.json"
+    },
+    {
       "igdb_id": 346187,
       "game_name": "9 Trials of Whiskers",
       "file": "missing/0-9/346187-9-trials-of-whiskers.json"
@@ -15970,6 +15995,11 @@
       "igdb_id": 65901,
       "game_name": "A Collection of Intellivision Classic Games",
       "file": "missing/A/65901-a-collection-of-intellivision-classic-games.json"
+    },
+    {
+      "igdb_id": 263641,
+      "game_name": "A Collection of Mini-Games",
+      "file": "missing/A/263641-a-collection-of-mini-games.json"
     },
     {
       "igdb_id": 301678,
@@ -58232,6 +58262,11 @@
       "file": "missing/A/295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json"
     },
     {
+      "igdb_id": 263621,
+      "game_name": "Animal Farm Parking: Deluxe Edition",
+      "file": "missing/A/263621-animal-farm-parking-deluxe-edition.json"
+    },
+    {
       "igdb_id": 283156,
       "game_name": "Animal Farm Parking: Extended Edition",
       "file": "missing/A/283156-animal-farm-parking-extended-edition.json"
@@ -59815,6 +59850,11 @@
       "igdb_id": 131061,
       "game_name": "Anime Music Quiz",
       "file": "missing/A/131061-anime-music-quiz.json"
+    },
+    {
+      "igdb_id": 263613,
+      "game_name": "Anime Paradise",
+      "file": "missing/A/263613-anime-paradise.json"
     },
     {
       "igdb_id": 276326,
@@ -87677,6 +87717,11 @@
       "file": "missing/A/76954-atomicrops.json"
     },
     {
+      "igdb_id": 263611,
+      "game_name": "Atomicrops Double Bundle",
+      "file": "missing/A/263611-atomicrops-double-bundle.json"
+    },
+    {
       "igdb_id": 224435,
       "game_name": "Atomicrops: Deerly Beloved",
       "file": "missing/A/224435-atomicrops-deerly-beloved.json"
@@ -98685,11 +98730,6 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
-    },
-    {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -211042,6 +211082,11 @@
       "file": "missing/C/292139-chura-umi-monogatari.json"
     },
     {
+      "igdb_id": 263640,
+      "game_name": "Church",
+      "file": "missing/C/263640-church.json"
+    },
+    {
       "igdb_id": 360740,
       "game_name": "Church Crew",
       "file": "missing/C/360740-church-crew.json"
@@ -225315,6 +225360,11 @@
       "igdb_id": 89645,
       "game_name": "Color Objects For Kids",
       "file": "missing/C/89645-color-objects-for-kids.json"
+    },
+    {
+      "igdb_id": 263307,
+      "game_name": "Color Odyssey",
+      "file": "missing/C/263307-color-odyssey.json"
     },
     {
       "igdb_id": 339410,
@@ -290112,6 +290162,11 @@
       "file": "missing/D/144082-deltazone-reloaded.json"
     },
     {
+      "igdb_id": 263313,
+      "game_name": "Deltazone: Map Pack #1",
+      "file": "missing/D/263313-deltazone-map-pack-1.json"
+    },
+    {
       "igdb_id": 47936,
       "game_name": "Deltora Quest",
       "file": "missing/D/47936-deltora-quest.json"
@@ -346437,6 +346492,11 @@
       "file": "missing/D/6976-dynasty-warriors-8.json"
     },
     {
+      "igdb_id": 263310,
+      "game_name": "Dynasty Warriors 8: Empires - Castle Pack",
+      "file": "missing/D/263310-dynasty-warriors-8-empires-castle-pack.json"
+    },
+    {
       "igdb_id": 221032,
       "game_name": "Dynasty Warriors 8: Empires - Free Alliances Version",
       "file": "missing/D/221032-dynasty-warriors-8-empires-free-alliances-version.json"
@@ -363802,6 +363862,11 @@
       "file": "missing/E/323374-enemy-front-limited-edition.json"
     },
     {
+      "igdb_id": 263311,
+      "game_name": "Enemy Front: Multiplayer Map Pack",
+      "file": "missing/E/263311-enemy-front-multiplayer-map-pack.json"
+    },
+    {
       "igdb_id": 52526,
       "game_name": "Enemy Infestation",
       "file": "missing/E/52526-enemy-infestation.json"
@@ -377485,6 +377550,11 @@
       "igdb_id": 13156,
       "game_name": "Evil Islands: Curse of the Lost Soul",
       "file": "missing/E/13156-evil-islands-curse-of-the-lost-soul.json"
+    },
+    {
+      "igdb_id": 263639,
+      "game_name": "Evil Journey: Plan A",
+      "file": "missing/E/263639-evil-journey-plan-a.json"
     },
     {
       "igdb_id": 55426,
@@ -407602,6 +407672,11 @@
       "file": "missing/F/203749-finity.json"
     },
     {
+      "igdb_id": 263646,
+      "game_name": "Finity",
+      "file": "missing/F/263646-finity.json"
+    },
+    {
       "igdb_id": 322936,
       "game_name": "Finity",
       "file": "missing/F/322936-finity.json"
@@ -413152,6 +413227,11 @@
       "file": "missing/F/338143-five-nights-at-freddys-pixel-edition.json"
     },
     {
+      "igdb_id": 263637,
+      "game_name": "Five Nights at Freddy's Simulator",
+      "file": "missing/F/263637-five-nights-at-freddys-simulator.json"
+    },
+    {
       "igdb_id": 383375,
       "game_name": "Five Nights at Freddy's Soulless Look",
       "file": "missing/F/383375-five-nights-at-freddys-soulless-look.json"
@@ -413595,6 +413675,11 @@
       "igdb_id": 319620,
       "game_name": "Five Nights to Remember",
       "file": "missing/F/319620-five-nights-to-remember.json"
+    },
+    {
+      "igdb_id": 263638,
+      "game_name": "Five Nights With 39",
+      "file": "missing/F/263638-five-nights-with-39.json"
     },
     {
       "igdb_id": 342546,
@@ -442627,6 +442712,11 @@
       "file": "missing/F/43741-fussball-live.json"
     },
     {
+      "igdb_id": 263647,
+      "game_name": "Fussball Manager 23",
+      "file": "missing/F/263647-fussball-manager-23.json"
+    },
+    {
       "igdb_id": 287248,
       "game_name": "Fussball Manager 24",
       "file": "missing/F/287248-fussball-manager-24.json"
@@ -449890,6 +449980,51 @@
       "igdb_id": 319582,
       "game_name": "Game-Pac",
       "file": "missing/G/319582-game-pac.json"
+    },
+    {
+      "igdb_id": 263623,
+      "game_name": "Game-VCD 1",
+      "file": "missing/G/263623-game-vcd-1.json"
+    },
+    {
+      "igdb_id": 263624,
+      "game_name": "Game-VCD 2",
+      "file": "missing/G/263624-game-vcd-2.json"
+    },
+    {
+      "igdb_id": 263625,
+      "game_name": "Game-VCD 3",
+      "file": "missing/G/263625-game-vcd-3.json"
+    },
+    {
+      "igdb_id": 263626,
+      "game_name": "Game-VCD 4",
+      "file": "missing/G/263626-game-vcd-4.json"
+    },
+    {
+      "igdb_id": 263627,
+      "game_name": "Game-VCD 5",
+      "file": "missing/G/263627-game-vcd-5.json"
+    },
+    {
+      "igdb_id": 263628,
+      "game_name": "Game-VCD 6",
+      "file": "missing/G/263628-game-vcd-6.json"
+    },
+    {
+      "igdb_id": 263629,
+      "game_name": "Game-VCD 7",
+      "file": "missing/G/263629-game-vcd-7.json"
+    },
+    {
+      "igdb_id": 263630,
+      "game_name": "Game-VCD 8",
+      "file": "missing/G/263630-game-vcd-8.json"
+    },
+    {
+      "igdb_id": 263631,
+      "game_name": "Game-VCD 9",
+      "file": "missing/G/263631-game-vcd-9.json"
     },
     {
       "igdb_id": 231840,
@@ -533652,6 +533787,11 @@
       "file": "missing/H/177775-honeycombat.json"
     },
     {
+      "igdb_id": 263645,
+      "game_name": "HoneyCome Come Come Party",
+      "file": "missing/H/263645-honeycome-come-come-party.json"
+    },
+    {
       "igdb_id": 164604,
       "game_name": "HoneyHoneyHoney!",
       "file": "missing/H/164604-honeyhoneyhoney.json"
@@ -554380,6 +554520,16 @@
       "igdb_id": 263188,
       "game_name": "Idle Dragon Clicker: Expansion Pack 1",
       "file": "missing/I/263188-idle-dragon-clicker-expansion-pack-1.json"
+    },
+    {
+      "igdb_id": 263312,
+      "game_name": "Idle Dragon Clicker: Expansion Pack 2",
+      "file": "missing/I/263312-idle-dragon-clicker-expansion-pack-2.json"
+    },
+    {
+      "igdb_id": 263315,
+      "game_name": "Idle Dragon Clicker: Expansion Pack 3",
+      "file": "missing/I/263315-idle-dragon-clicker-expansion-pack-3.json"
     },
     {
       "igdb_id": 285365,
@@ -586172,6 +586322,11 @@
       "file": "missing/J/286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json"
     },
     {
+      "igdb_id": 263643,
+      "game_name": "Jigsaw Puzzles Infinite: Classic Puzzle Pack",
+      "file": "missing/J/263643-jigsaw-puzzles-infinite-classic-puzzle-pack.json"
+    },
+    {
       "igdb_id": 240098,
       "game_name": "Jigsaw Puzzles: Fantasy Landscapes",
       "file": "missing/J/240098-jigsaw-puzzles-fantasy-landscapes.json"
@@ -608367,11 +608522,6 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
-    },
-    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -621565,6 +621715,11 @@
       "igdb_id": 395364,
       "game_name": "KSTG",
       "file": "missing/K/395364-kstg.json"
+    },
+    {
+      "igdb_id": 263610,
+      "game_name": "KSudoku",
+      "file": "missing/K/263610-ksudoku.json"
     },
     {
       "igdb_id": 189877,
@@ -658100,6 +658255,11 @@
       "igdb_id": 207692,
       "game_name": "Lost Dream: Memories",
       "file": "missing/L/207692-lost-dream-memories.json"
+    },
+    {
+      "igdb_id": 263644,
+      "game_name": "Lost Dream: Overgrown",
+      "file": "missing/L/263644-lost-dream-overgrown.json"
     },
     {
       "igdb_id": 194364,
@@ -701610,6 +701770,11 @@
       "igdb_id": 326554,
       "game_name": "Mega Man World 4 DX",
       "file": "missing/M/326554-mega-man-world-4-dx.json"
+    },
+    {
+      "igdb_id": 263619,
+      "game_name": "Mega Man World: Dr. Wily's Revenge GBC",
+      "file": "missing/M/263619-mega-man-world-dr-wilys-revenge-gbc.json"
     },
     {
       "igdb_id": 270237,
@@ -766597,6 +766762,11 @@
       "file": "missing/N/170048-nascar-21-ignition.json"
     },
     {
+      "igdb_id": 263314,
+      "game_name": "NASCAR 21: Ignition - 2022 Throwback Pack",
+      "file": "missing/N/263314-nascar-21-ignition-2022-throwback-pack.json"
+    },
+    {
       "igdb_id": 171271,
       "game_name": "Nascar 21: Ignition - Day 1 Edition",
       "file": "missing/N/171271-nascar-21-ignition-day-1-edition.json"
@@ -822637,6 +822807,11 @@
       "file": "missing/O/268398-oyako-de-asobo-miffy-no-omocha-bako.json"
     },
     {
+      "igdb_id": 263609,
+      "game_name": "Oyako de Manabu Bousai",
+      "file": "missing/O/263609-oyako-de-manabu-bousai.json"
+    },
+    {
       "igdb_id": 256269,
       "game_name": "Oyako de Manabu SDGs",
       "file": "missing/O/256269-oyako-de-manabu-sdgs.json"
@@ -828625,6 +828800,11 @@
       "igdb_id": 179678,
       "game_name": "Pants",
       "file": "missing/P/179678-pants.json"
+    },
+    {
+      "igdb_id": 263615,
+      "game_name": "Pants no Mikiri",
+      "file": "missing/P/263615-pants-no-mikiri.json"
     },
     {
       "igdb_id": 190217,
@@ -852602,6 +852782,16 @@
       "file": "missing/P/247667-pinball-fx-indiana-jones-the-pinball-adventure.json"
     },
     {
+      "igdb_id": 263309,
+      "game_name": "Pinball FX: Marvel Pinball - Cinematic Pack",
+      "file": "missing/P/263309-pinball-fx-marvel-pinball-cinematic-pack.json"
+    },
+    {
+      "igdb_id": 263308,
+      "game_name": "Pinball FX: Marvel Pinball - Marvel Legends Pack",
+      "file": "missing/P/263308-pinball-fx-marvel-pinball-marvel-legends-pack.json"
+    },
+    {
       "igdb_id": 239027,
       "game_name": "Pinball FX: Marvel Pinball Collection 1",
       "file": "missing/P/239027-pinball-fx-marvel-pinball-collection-1.json"
@@ -852710,6 +852900,11 @@
       "igdb_id": 239018,
       "game_name": "Pinball FX: Williams Pinball - The Addams Family",
       "file": "missing/P/239018-pinball-fx-williams-pinball-the-addams-family.json"
+    },
+    {
+      "igdb_id": 263316,
+      "game_name": "Pinball FX: Williams Pinball - Universal Monsters Pack",
+      "file": "missing/P/263316-pinball-fx-williams-pinball-universal-monsters-pack.json"
     },
     {
       "igdb_id": 239017,
@@ -892565,6 +892760,11 @@
       "igdb_id": 120674,
       "game_name": "Project VR Wild Hunt",
       "file": "missing/P/120674-project-vr-wild-hunt.json"
+    },
+    {
+      "igdb_id": 263306,
+      "game_name": "Project VTS",
+      "file": "missing/P/263306-project-vts.json"
     },
     {
       "igdb_id": 286431,
@@ -1016577,6 +1016777,11 @@
       "file": "missing/S/147980-six-sides-of-the-world-enhanced.json"
     },
     {
+      "igdb_id": 263642,
+      "game_name": "Six Souls: Requiem for Forgotten Birds",
+      "file": "missing/S/263642-six-souls-requiem-for-forgotten-birds.json"
+    },
+    {
       "igdb_id": 271297,
       "game_name": "Six textures",
       "file": "missing/S/271297-six-textures.json"
@@ -1018380,6 +1018585,11 @@
       "igdb_id": 266597,
       "game_name": "Skibidi Toilets: Invasion",
       "file": "missing/S/266597-skibidi-toilets-invasion.json"
+    },
+    {
+      "igdb_id": 263614,
+      "game_name": "Skibidi War: Toilets Attack",
+      "file": "missing/S/263614-skibidi-war-toilets-attack.json"
     },
     {
       "igdb_id": 266905,
@@ -1092110,6 +1092320,11 @@
       "igdb_id": 267545,
       "game_name": "Sudo King",
       "file": "missing/S/267545-sudo-king.json"
+    },
+    {
+      "igdb_id": 263608,
+      "game_name": "Sudo-O-Mate Junior",
+      "file": "missing/S/263608-sudo-o-mate-junior.json"
     },
     {
       "igdb_id": 36509,
@@ -1191732,6 +1191947,11 @@
       "file": "missing/T/271562-the-semen-donation-truck.json"
     },
     {
+      "igdb_id": 263607,
+      "game_name": "The Senate",
+      "file": "missing/T/263607-the-senate.json"
+    },
+    {
       "igdb_id": 220513,
       "game_name": "The Senex Bird",
       "file": "missing/T/220513-the-senex-bird.json"
@@ -1226657,6 +1226877,11 @@
       "file": "missing/T/336053-toaplan-arcade-shootem-ups-1.json"
     },
     {
+      "igdb_id": 263617,
+      "game_name": "Toaplan Arcade Shoot'em Ups 2",
+      "file": "missing/T/263617-toaplan-arcade-shootem-ups-2.json"
+    },
+    {
       "igdb_id": 336054,
       "game_name": "Toaplan Arcade Shoot'em Ups 3",
       "file": "missing/T/336054-toaplan-arcade-shootem-ups-3.json"
@@ -1259175,6 +1259400,11 @@
       "igdb_id": 256262,
       "game_name": "Trump! Jump",
       "file": "missing/T/256262-trump-jump.json"
+    },
+    {
+      "igdb_id": 263622,
+      "game_name": "Trump's Empire",
+      "file": "missing/T/263622-trumps-empire.json"
     },
     {
       "igdb_id": 179164,
@@ -1308467,6 +1308697,11 @@
       "file": "missing/W/1702-wario-land-shake-it.json"
     },
     {
+      "igdb_id": 263620,
+      "game_name": "Wario Land: Super Mario Land 3 Color Edition",
+      "file": "missing/W/263620-wario-land-super-mario-land-3-color-edition.json"
+    },
+    {
       "igdb_id": 328671,
       "game_name": "Wario Land: The Shake Dimension",
       "file": "missing/W/328671-wario-land-the-shake-dimension.json"
@@ -1347955,6 +1348190,11 @@
       "igdb_id": 164572,
       "game_name": "Yakuza: Like a Dragon - Ultimate Costume Set",
       "file": "missing/Y/164572-yakuza-like-a-dragon-ultimate-costume-set.json"
+    },
+    {
+      "igdb_id": 263612,
+      "game_name": "Yakuzukuri Puzzle Yumeiro Yuramu",
+      "file": "missing/Y/263612-yakuzukuri-puzzle-yumeiro-yuramu.json"
     },
     {
       "igdb_id": 201679,
