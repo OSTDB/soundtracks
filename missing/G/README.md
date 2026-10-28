@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallerie | 392169 | [392169-gallerie.json](./392169-gallerie.json) |
 | Gallery Collab 2024 | 373604 | [373604-gallery-collab-2024.json](./373604-gallery-collab-2024.json) |
 | Gallery Fake | 197660 | [197660-gallery-fake.json](./197660-gallery-fake.json) |
+| Gallery Gunner | 279021 | [279021-gallery-gunner.json](./279021-gallery-gunner.json) |
 | Gallery Hero | 110301 | [110301-gallery-hero.json](./110301-gallery-hero.json) |
 | Gallery Manager | 234660 | [234660-gallery-manager.json](./234660-gallery-manager.json) |
 | Gallery Night Shift | 279493 | [279493-gallery-night-shift.json](./279493-gallery-night-shift.json) |
@@ -1830,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station Simulator: Can Touch This DLC | 298596 | [298596-gas-station-simulator-can-touch-this-dlc.json](./298596-gas-station-simulator-can-touch-this-dlc.json) |
 | Gas Station Simulator: Car Junkyard | 286557 | [286557-gas-station-simulator-car-junkyard.json](./286557-gas-station-simulator-car-junkyard.json) |
 | Gas Station Simulator: DLC Pack | 267415 | [267415-gas-station-simulator-dlc-pack.json](./267415-gas-station-simulator-dlc-pack.json) |
+| Gas Station Simulator: Drive & Pumping | 279143 | [279143-gas-station-simulator-drive-and-pumping.json](./279143-gas-station-simulator-drive-and-pumping.json) |
 | Gas Station Simulator: Drive-In Cinema | 331176 | [331176-gas-station-simulator-drive-in-cinema.json](./331176-gas-station-simulator-drive-in-cinema.json) |
 | Gas Station Simulator: RV Camp | 346728 | [346728-gas-station-simulator-rv-camp.json](./346728-gas-station-simulator-rv-camp.json) |
 | Gas Station Simulator: Shady Deals | 202635 | [202635-gas-station-simulator-shady-deals.json](./202635-gas-station-simulator-shady-deals.json) |
@@ -2541,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius Greedy Mouse: Greedy of XOR | 172368 | [172368-genius-greedy-mouse-greedy-of-xor.json](./172368-genius-greedy-mouse-greedy-of-xor.json) |
 | Genius Killer | 174749 | [174749-genius-killer.json](./174749-genius-killer.json) |
 | Genius Loci | 176239 | [176239-genius-loci.json](./176239-genius-loci.json) |
+| Genius Moves! | 279144 | [279144-genius-moves.json](./279144-genius-moves.json) |
 | Genius Quiz | 240245 | [240245-genius-quiz.json](./240245-genius-quiz.json) |
 | Genius Quiz 1 | 240246 | [240246-genius-quiz-1.json](./240246-genius-quiz-1.json) |
 | Genius Quiz 10 | 241642 | [241642-genius-quiz-10.json](./241642-genius-quiz-10.json) |
