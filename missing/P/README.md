@@ -3097,6 +3097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC-Man | 25148 | [25148-pc-man.json](./25148-pc-man.json) |
 | PC-Sherlock: A Game of Logic & Deduction | 98920 | [98920-pc-sherlock-a-game-of-logic-and-deduction.json](./98920-pc-sherlock-a-game-of-logic-and-deduction.json) |
 | PCB | 372104 | [372104-pcb.json](./372104-pcb.json) |
+| PCD | 256940 | [256940-pcd.json](./256940-pcd.json) |
 | PCDX | 313082 | [313082-pcdx.json](./313082-pcdx.json) |
 | PD Ultraman Link | 107621 | [107621-pd-ultraman-link.json](./107621-pd-ultraman-link.json) |
 | PD: Prope Discoverer | 230223 | [230223-pd-prope-discoverer.json](./230223-pd-prope-discoverer.json) |
@@ -5173,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickle Run | 212713 | [212713-pickle-run.json](./212713-pickle-run.json) |
 | Pickle Theory | 331162 | [331162-pickle-theory.json](./331162-pickle-theory.json) |
 | Pickle Wars | 93466 | [93466-pickle-wars.json](./93466-pickle-wars.json) |
+| Pickle-Pocalypse | 256962 | [256962-pickle-pocalypse.json](./256962-pickle-pocalypse.json) |
 | Pickle's Book | 137999 | [137999-pickles-book.json](./137999-pickles-book.json) |
 | Pickleball One | 272337 | [272337-pickleball-one.json](./272337-pickleball-one.json) |
 | Pickleball Smash | 270160 | [270160-pickleball-smash.json](./270160-pickleball-smash.json) |
@@ -11576,6 +11578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power & Revolution: 2019 Edition - 2018 Scenarios | 168103 | [168103-power-and-revolution-2019-edition-2018-scenarios.json](./168103-power-and-revolution-2019-edition-2018-scenarios.json) |
 | Power & Revolution: 2021 Edition | 162429 | [162429-power-and-revolution-2021-edition.json](./162429-power-and-revolution-2021-edition.json) |
 | Power & Revolution: 2022 Edition | 196473 | [196473-power-and-revolution-2022-edition.json](./196473-power-and-revolution-2022-edition.json) |
+| Power & Revolution: 2023 Edition | 256944 | [256944-power-and-revolution-2023-edition.json](./256944-power-and-revolution-2023-edition.json) |
 | Power & Revolution: Geo-Political Simulator 4 | 53469 | [53469-power-and-revolution-geo-political-simulator-4.json](./53469-power-and-revolution-geo-political-simulator-4.json) |
 | Power at Sea | 55151 | [55151-power-at-sea.json](./55151-power-at-sea.json) |
 | Power Ball 2021 | 150620 | [150620-power-ball-2021.json](./150620-power-ball-2021.json) |
@@ -12412,6 +12415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primitive Race | 97228 | [97228-primitive-race.json](./97228-primitive-race.json) |
 | Primitive Road | 30659 | [30659-primitive-road.json](./30659-primitive-road.json) |
 | Primitive Shooter | 84075 | [84075-primitive-shooter.json](./84075-primitive-shooter.json) |
+| Primitive Society Simulator | 256642 | [256642-primitive-society-simulator.json](./256642-primitive-society-simulator.json) |
 | Primitive Survival | 105361 | [105361-primitive-survival.json](./105361-primitive-survival.json) |
 | Primitive Survival | 343602 | [343602-primitive-survival.json](./343602-primitive-survival.json) |
 | Primitive Wars | 27591 | [27591-primitive-wars.json](./27591-primitive-wars.json) |
@@ -13701,6 +13705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Impulse | 203304 | [203304-project-impulse.json](./203304-project-impulse.json) |
 | Project IO | 126920 | [126920-project-io.json](./126920-project-io.json) |
 | Project Ion | 62550 | [62550-project-ion.json](./62550-project-ion.json) |
+| Project Joshi | 256939 | [256939-project-joshi.json](./256939-project-joshi.json) |
 | Project Juggler | 305967 | [305967-project-juggler.json](./305967-project-juggler.json) |
 | Project Jump Scare | 60769 | [60769-project-jump-scare.json](./60769-project-jump-scare.json) |
 | Project Justice | 13096 | [13096-project-justice.json](./13096-project-justice.json) |
