@@ -11514,6 +11514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Tunes! Game de Tune Up! Da Pun! | 222544 | [222544-miracle-tunes-game-de-tune-up-da-pun.json](./222544-miracle-tunes-game-de-tune-up-da-pun.json) |
 | Miracle Warrior of Mountains and Seas | 153345 | [153345-miracle-warrior-of-mountains-and-seas.json](./153345-miracle-warrior-of-mountains-and-seas.json) |
 | Miracle Warriors: Seal of the Dark Lord | 47526 | [47526-miracle-warriors-seal-of-the-dark-lord.json](./47526-miracle-warriors-seal-of-the-dark-lord.json) |
+| Miracle World: Fushigi no Kuni no IQ Meiro | 256638 | [256638-miracle-world-fushigi-no-kuni-no-iq-meiro.json](./256638-miracle-world-fushigi-no-kuni-no-iq-meiro.json) |
 | Miracle! Panzou: 7-tsu no Hoshi no Uchuu Kaizoku | 49723 | [49723-miracle-panzou-7-tsu-no-hoshi-no-uchuu-kaizoku.json](./49723-miracle-panzou-7-tsu-no-hoshi-no-uchuu-kaizoku.json) |
 | Miraculo Island | 192612 | [192612-miraculo-island.json](./192612-miraculo-island.json) |
 | Miraculous Fall | 336682 | [336682-miraculous-fall.json](./336682-miraculous-fall.json) |
