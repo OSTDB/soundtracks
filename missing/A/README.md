@@ -14376,6 +14376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atganga: Spectacle for the Gods | 249071 | [249071-atganga-spectacle-for-the-gods.json](./249071-atganga-spectacle-for-the-gods.json) |
 | Atgtha in Absurdia | 133913 | [133913-atgtha-in-absurdia.json](./133913-atgtha-in-absurdia.json) |
 | Atha: In Search of the Well | 319677 | [319677-atha-in-search-of-the-well.json](./319677-atha-in-search-of-the-well.json) |
+| Atham Battle Simulator | 240626 | [240626-atham-battle-simulator.json](./240626-atham-battle-simulator.json) |
 | Athamuff | 370303 | [370303-athamuff.json](./370303-athamuff.json) |
 | Athanasia | 202129 | [202129-athanasia.json](./202129-athanasia.json) |
 | Athanasy + Ceiba Bundle | 284946 | [284946-athanasy-ceiba-bundle.json](./284946-athanasy-ceiba-bundle.json) |
