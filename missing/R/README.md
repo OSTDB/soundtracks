@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Drivin' | 307062 | [307062-race-drivin.json](./307062-race-drivin.json) |
 | Race Drivin' | 307063 | [307063-race-drivin.json](./307063-race-drivin.json) |
 | Race Drivin' (SA-1 Enhanced Version) | 300273 | [300273-race-drivin-sa-1-enhanced-version.json](./300273-race-drivin-sa-1-enhanced-version.json) |
+| Race Drivin' a Go! Go! | 270240 | [270240-race-drivin-a-go-go.json](./270240-race-drivin-a-go-go.json) |
 | Race Elcano | 291898 | [291898-race-elcano.json](./291898-race-elcano.json) |
 | Race For Nuts | 359481 | [359481-race-for-nuts.json](./359481-race-for-nuts.json) |
 | Race for the Galaxy | 44528 | [44528-race-for-the-galaxy.json](./44528-race-for-the-galaxy.json) |
