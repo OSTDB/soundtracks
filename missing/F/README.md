@@ -3170,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed and Battle: Grow Fish | 88930 | [88930-feed-and-battle-grow-fish.json](./88930-feed-and-battle-grow-fish.json) |
 | Feed and Grow: Crazy Fish | 193799 | [193799-feed-and-grow-crazy-fish.json](./193799-feed-and-grow-crazy-fish.json) |
 | Feed and Grow: Fish | 19876 | [19876-feed-and-grow-fish.json](./19876-feed-and-grow-fish.json) |
+| Feed Eggs | 252193 | [252193-feed-eggs.json](./252193-feed-eggs.json) |
 | Feed Garfield | 63865 | [63865-feed-garfield.json](./63865-feed-garfield.json) |
 | Feed Him | 236176 | [236176-feed-him.json](./236176-feed-him.json) |
 | Feed It | 403808 | [403808-feed-it.json](./403808-feed-it.json) |
@@ -6400,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlapTap Jo | 245756 | [245756-flaptap-jo.json](./245756-flaptap-jo.json) |
 | Flare Nuinui Quest | 210244 | [210244-flare-nuinui-quest.json](./210244-flare-nuinui-quest.json) |
 | Flare Nuinui Quest | 320719 | [320719-flare-nuinui-quest.json](./320719-flare-nuinui-quest.json) |
+| Flare: Empyrean Campaign | 252182 | [252182-flare-empyrean-campaign.json](./252182-flare-empyrean-campaign.json) |
 | Flarebound | 373621 | [373621-flarebound.json](./373621-flarebound.json) |
 | Flaregate Network | 325286 | [325286-flaregate-network.json](./325286-flaregate-network.json) |
 | Flarts | 233637 | [233637-flarts.json](./233637-flarts.json) |
