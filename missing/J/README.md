@@ -1173,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack 2 | 137947 | [137947-jetpack-2.json](./137947-jetpack-2.json) |
 | Jetpack Astronaut | 171564 | [171564-jetpack-astronaut.json](./171564-jetpack-astronaut.json) |
 | Jetpack Basketball | 242443 | [242443-jetpack-basketball.json](./242443-jetpack-basketball.json) |
+| Jetpack Battle | 251782 | [251782-jetpack-battle.json](./251782-jetpack-battle.json) |
 | Jetpack Birdie | 240754 | [240754-jetpack-birdie.json](./240754-jetpack-birdie.json) |
 | Jetpack Brontosaurus | 97095 | [97095-jetpack-brontosaurus.json](./97095-jetpack-brontosaurus.json) |
 | Jetpack Cat | 72694 | [72694-jetpack-cat.json](./72694-jetpack-cat.json) |
