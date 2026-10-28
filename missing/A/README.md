@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Beaver's Tale | 312657 | [312657-a-beavers-tale.json](./312657-a-beavers-tale.json) |
 | A Bee Movie Game But Every Time You Beat It It Gets Faster | 326590 | [326590-a-bee-movie-game-but-every-time-you-beat-it-it-gets-faster.json](./326590-a-bee-movie-game-but-every-time-you-beat-it-it-gets-faster.json) |
 | A Bee Sees | 99366 | [99366-a-bee-sees.json](./99366-a-bee-sees.json) |
+| A Belief in a Perfect Today | 266055 | [266055-a-belief-in-a-perfect-today.json](./266055-a-belief-in-a-perfect-today.json) |
 | A Better Mouse Trap | 71170 | [71170-a-better-mouse-trap.json](./71170-a-better-mouse-trap.json) |
 | A Better Schlo Dating Simulation | 298788 | [298788-a-better-schlo-dating-simulation.json](./298788-a-better-schlo-dating-simulation.json) |
 | A Better World | 325726 | [325726-a-better-world.json](./325726-a-better-world.json) |
@@ -209,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Date with Yesterday | 232848 | [232848-a-date-with-yesterday.json](./232848-a-date-with-yesterday.json) |
 | A Day | 145366 | [145366-a-day.json](./145366-a-day.json) |
 | A Day as a T-Rex | 209185 | [209185-a-day-as-a-t-rex.json](./209185-a-day-as-a-t-rex.json) |
+| A Day at the Beach | 266051 | [266051-a-day-at-the-beach.json](./266051-a-day-at-the-beach.json) |
 | A Day at the Carnival | 55853 | [55853-a-day-at-the-carnival.json](./55853-a-day-at-the-carnival.json) |
 | A Day at the Library | 102050 | [102050-a-day-at-the-library.json](./102050-a-day-at-the-library.json) |
 | A day for a kitten | 75803 | [75803-a-day-for-a-kitten.json](./75803-a-day-for-a-kitten.json) |
@@ -6464,6 +6466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allison's Diary: Rebirth | 112771 | [112771-allisons-diary-rebirth.json](./112771-allisons-diary-rebirth.json) |
 | AllKnowing Idol Jesus | 328401 | [328401-allknowing-idol-jesus.json](./328401-allknowing-idol-jesus.json) |
 | Allkpop Allstar | 59657 | [59657-allkpop-allstar.json](./59657-allkpop-allstar.json) |
+| AlllCall | 266366 | [266366-alllcall.json](./266366-alllcall.json) |
 | Allods Online | 13157 | [13157-allods-online.json](./13157-allods-online.json) |
 | Allogloom | 277935 | [277935-allogloom.json](./277935-allogloom.json) |
 | Allon3 | 224937 | [224937-allon3.json](./224937-allon3.json) |
@@ -7384,6 +7387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator 2018 | 86722 | [86722-american-truck-simulator-2018.json](./86722-american-truck-simulator-2018.json) |
 | American Truck Simulator 2022 | 197844 | [197844-american-truck-simulator-2022.json](./197844-american-truck-simulator-2022.json) |
 | American Truck Simulator: Arizona | 23478 | [23478-american-truck-simulator-arizona.json](./23478-american-truck-simulator-arizona.json) |
+| American Truck Simulator: Arkansas | 266359 | [266359-american-truck-simulator-arkansas.json](./266359-american-truck-simulator-arkansas.json) |
 | American Truck Simulator: Bobcat Cargo Pack | 402130 | [402130-american-truck-simulator-bobcat-cargo-pack.json](./402130-american-truck-simulator-bobcat-cargo-pack.json) |
 | American Truck Simulator: British Columbia | 375345 | [375345-american-truck-simulator-british-columbia.json](./375345-american-truck-simulator-british-columbia.json) |
 | American Truck Simulator: Cabin Accessories | 155358 | [155358-american-truck-simulator-cabin-accessories.json](./155358-american-truck-simulator-cabin-accessories.json) |
