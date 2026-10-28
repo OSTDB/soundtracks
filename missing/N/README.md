@@ -1994,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoCars | 258324 | [258324-neocars.json](./258324-neocars.json) |
 | Neocense | 157060 | [157060-neocense.json](./157060-neocense.json) |
 | Neoclassical: Chromaticist | 348133 | [348133-neoclassical-chromaticist.json](./348133-neoclassical-chromaticist.json) |
+| Neoclip | 259675 | [259675-neoclip.json](./259675-neoclip.json) |
 | Neoclyps | 297438 | [297438-neoclyps.json](./297438-neoclyps.json) |
 | NeoCoins | 362268 | [362268-neocoins.json](./362268-neocoins.json) |
 | Neocon Tower Defence 3 | 297157 | [297157-neocon-tower-defence-3.json](./297157-neocon-tower-defence-3.json) |
