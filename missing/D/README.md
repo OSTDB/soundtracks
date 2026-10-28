@@ -2296,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Datenshi Kyouko Part 1 | 230207 | [230207-datenshi-kyouko-part-1.json](./230207-datenshi-kyouko-part-1.json) |
 | Datenshi no Amai Yuuwaku x Kaikan Phrase | 67350 | [67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json](./67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json) |
 | Dates & Wires | 153522 | [153522-dates-and-wires.json](./153522-dates-and-wires.json) |
+| Datiddle | 240979 | [240979-datiddle.json](./240979-datiddle.json) |
 | Dating 4 Girls | 400931 | [400931-dating-4-girls.json](./400931-dating-4-girls.json) |
 | Dating after becoming Vtuber | 276682 | [276682-dating-after-becoming-vtuber.json](./276682-dating-after-becoming-vtuber.json) |
 | Dating and Dragons: A Love Quest | 351272 | [351272-dating-and-dragons-a-love-quest.json](./351272-dating-and-dragons-a-love-quest.json) |
@@ -6919,6 +6920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devestor | 375808 | [375808-devestor.json](./375808-devestor.json) |
 | Devexus | 199343 | [199343-devexus.json](./199343-devexus.json) |
 | Devi & Pii | 215752 | [215752-devi-and-pii.json](./215752-devi-and-pii.json) |
+| Deviant Anomalies | 240956 | [240956-deviant-anomalies.json](./240956-deviant-anomalies.json) |
 | Deviant Dungeon | 127931 | [127931-deviant-dungeon.json](./127931-deviant-dungeon.json) |
 | Deviation from Way | 190025 | [190025-deviation-from-way.json](./190025-deviation-from-way.json) |
 | Deviator | 275746 | [275746-deviator.json](./275746-deviator.json) |
@@ -12492,6 +12494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Football 26 | 375899 | [375899-draft-day-sports-pro-football-26.json](./375899-draft-day-sports-pro-football-26.json) |
 | Draft Day Sports: Pro Golf | 105388 | [105388-draft-day-sports-pro-golf.json](./105388-draft-day-sports-pro-golf.json) |
 | Draft Showdown | 417330 | [417330-draft-showdown.json](./417330-draft-showdown.json) |
+| Draft: In the Woods | 240611 | [240611-draft-in-the-woods.json](./240611-draft-in-the-woods.json) |
 | Drafting Tales | 116055 | [116055-drafting-tales.json](./116055-drafting-tales.json) |
 | DraftPunk | 388916 | [388916-draftpunk.json](./388916-draftpunk.json) |
 | Draftula | 364615 | [364615-draftula.json](./364615-draftula.json) |
