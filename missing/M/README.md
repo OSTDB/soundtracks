@@ -3843,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Survivor: Gold Edition | 385204 | [385204-mars-survivor-gold-edition.json](./385204-mars-survivor-gold-edition.json) |
 | Mars Survivor: Green Gun | 324457 | [324457-mars-survivor-green-gun.json](./324457-mars-survivor-green-gun.json) |
 | Mars Survivor: Red Rifle | 324458 | [324458-mars-survivor-red-rifle.json](./324458-mars-survivor-red-rifle.json) |
+| Mars Survivors | 253538 | [253538-mars-survivors.json](./253538-mars-survivors.json) |
 | Mars Taken | 90147 | [90147-mars-taken.json](./90147-mars-taken.json) |
 | Mars Taxi | 341707 | [341707-mars-taxi.json](./341707-mars-taxi.json) |
 | Mars Taxi | 70356 | [70356-mars-taxi.json](./70356-mars-taxi.json) |
@@ -4963,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matilda | 406546 | [406546-matilda.json](./406546-matilda.json) |
 | Matilda 2 | 409609 | [409609-matilda-2.json](./409609-matilda-2.json) |
 | Mating Zone | 59888 | [59888-mating-zone.json](./59888-mating-zone.json) |
+| Matinta | 253463 | [253463-matinta.json](./253463-matinta.json) |
 | Matisse's 3D World | 215313 | [215313-matisses-3d-world.json](./215313-matisses-3d-world.json) |
 | Mato Anomalies | 212050 | [212050-mato-anomalies.json](./212050-mato-anomalies.json) |
 | Mato Anomalies: Day One Edition | 228732 | [228732-mato-anomalies-day-one-edition.json](./228732-mato-anomalies-day-one-edition.json) |
@@ -10302,6 +10304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimic Busters | 418674 | [418674-mimic-busters.json](./418674-mimic-busters.json) |
 | Mimic Hunter | 36703 | [36703-mimic-hunter.json](./36703-mimic-hunter.json) |
 | Mimic Hunters | 239761 | [239761-mimic-hunters.json](./239761-mimic-hunters.json) |
+| Mimic Logic | 253406 | [253406-mimic-logic.json](./253406-mimic-logic.json) |
 | Mimic Man | 217185 | [217185-mimic-man.json](./217185-mimic-man.json) |
 | Mimic Meadows | 403328 | [403328-mimic-meadows.json](./403328-mimic-meadows.json) |
 | Mimic Party | 413646 | [413646-mimic-party.json](./413646-mimic-party.json) |
