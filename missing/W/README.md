@@ -2913,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Game III | 375315 | [375315-welcome-to-the-game-iii.json](./375315-welcome-to-the-game-iii.json) |
 | Welcome To The Gap | 399252 | [399252-welcome-to-the-gap.json](./399252-welcome-to-the-gap.json) |
 | Welcome to the Information Superhighway | 104250 | [104250-welcome-to-the-information-superhighway.json](./104250-welcome-to-the-information-superhighway.json) |
+| Welcome to the Karoshi Club | 280364 | [280364-welcome-to-the-karoshi-club.json](./280364-welcome-to-the-karoshi-club.json) |
 | Welcome to the Kawai | 97837 | [97837-welcome-to-the-kawai.json](./97837-welcome-to-the-kawai.json) |
 | Welcome to the Polyverse | 150518 | [150518-welcome-to-the-polyverse.json](./150518-welcome-to-the-polyverse.json) |
 | Welcome to the Ungdung Cafe | 337046 | [337046-welcome-to-the-ungdung-cafe.json](./337046-welcome-to-the-ungdung-cafe.json) |
@@ -3610,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is a Toilet!? | 227878 | [227878-where-is-a-toilet.json](./227878-where-is-a-toilet.json) |
 | Where is a Toilet!? | 228682 | [228682-where-is-a-toilet.json](./228682-where-is-a-toilet.json) |
 | Where is Billy? | 358653 | [358653-where-is-billy.json](./358653-where-is-billy.json) |
+| Where is Drake? | 280238 | [280238-where-is-drake.json](./280238-where-is-drake.json) |
 | Where is Earth? | 221109 | [221109-where-is-earth.json](./221109-where-is-earth.json) |
 | Where Is George | 287702 | [287702-where-is-george.json](./287702-where-is-george.json) |
 | Where is He | 192637 | [192637-where-is-he.json](./192637-where-is-he.json) |
@@ -4078,6 +4080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whizzle | 79090 | [79090-whizzle.json](./79090-whizzle.json) |
 | WHMIS 2015 VR | 196122 | [196122-whmis-2015-vr.json](./196122-whmis-2015-vr.json) |
 | Who Am I Next?: Animals | 410096 | [410096-who-am-i-next-animals.json](./410096-who-am-i-next-animals.json) |
+| Who am I: Remedy | 280363 | [280363-who-am-i-remedy.json](./280363-who-am-i-remedy.json) |
 | Who Am I: The Tale of Dorothy | 96654 | [96654-who-am-i-the-tale-of-dorothy.json](./96654-who-am-i-the-tale-of-dorothy.json) |
 | Who am I? | 328408 | [328408-who-am-i.json](./328408-who-am-i.json) |
 | Who Am You? | 306335 | [306335-who-am-you.json](./306335-who-am-you.json) |
@@ -5623,6 +5626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchy Business | 338315 | [338315-witchy-business.json](./338315-witchy-business.json) |
 | Witchy Life Story | 152184 | [152184-witchy-life-story.json](./152184-witchy-life-story.json) |
 | Witchy Tower | 377620 | [377620-witchy-tower.json](./377620-witchy-tower.json) |
+| Witchy Woes | 280239 | [280239-witchy-woes.json](./280239-witchy-woes.json) |
 | Witchy Wonderland | 344348 | [344348-witchy-wonderland.json](./344348-witchy-wonderland.json) |
 | Witchy Woo | 379902 | [379902-witchy-woo.json](./379902-witchy-woo.json) |
 | Witchydoku | 419862 | [419862-witchydoku.json](./419862-witchydoku.json) |
@@ -5936,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wo Long: Fallen Dynasty - Battle of Zhongyuan | 251547 | [251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json](./251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json) |
 | Wo Long: Fallen Dynasty - Complete Edition | 285776 | [285776-wo-long-fallen-dynasty-complete-edition.json](./285776-wo-long-fallen-dynasty-complete-edition.json) |
 | Wo Long: Fallen Dynasty - Steelbook Launch Edition | 225774 | [225774-wo-long-fallen-dynasty-steelbook-launch-edition.json](./225774-wo-long-fallen-dynasty-steelbook-launch-edition.json) |
+| Wo Long: Fallen Dynasty - Upheaval in Jingxiang | 280240 | [280240-wo-long-fallen-dynasty-upheaval-in-jingxiang.json](./280240-wo-long-fallen-dynasty-upheaval-in-jingxiang.json) |
 | Wo Yao Da | 76098 | [76098-wo-yao-da.json](./76098-wo-yao-da.json) |
 | Wǒ Yǒu Shàngjiàng | 150244 | [150244-wo-you-shangjiang.json](./150244-wo-you-shangjiang.json) |
 | Woah Vicky | 96281 | [96281-woah-vicky.json](./96281-woah-vicky.json) |
@@ -6792,6 +6797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Workshop Blooming in the Field & the Dark Dragon | 82901 | [82901-workshop-blooming-in-the-field-and-the-dark-dragon.json](./82901-workshop-blooming-in-the-field-and-the-dark-dragon.json) |
 | Workshop Invaders: Bouncy | 108990 | [108990-workshop-invaders-bouncy.json](./108990-workshop-invaders-bouncy.json) |
 | Workshop Maps Pack | 323599 | [323599-workshop-maps-pack.json](./323599-workshop-maps-pack.json) |
+| Workshop Simulator VR | 280241 | [280241-workshop-simulator-vr.json](./280241-workshop-simulator-vr.json) |
 | Worland: Dungeons | 187139 | [187139-worland-dungeons.json](./187139-worland-dungeons.json) |
 | World 23 | 368226 | [368226-world-23.json](./368226-world-23.json) |
 | World Advanced Daisenryaku: Sakusen File | 60803 | [60803-world-advanced-daisenryaku-sakusen-file.json](./60803-world-advanced-daisenryaku-sakusen-file.json) |
