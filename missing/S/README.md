@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salt and Sanctuary: Drowned Tome Edition | 136349 | [136349-salt-and-sanctuary-drowned-tome-edition.json](./136349-salt-and-sanctuary-drowned-tome-edition.json) |
 | Salt and Spice | 411504 | [411504-salt-and-spice.json](./411504-salt-and-spice.json) |
 | Salt Game | 219641 | [219641-salt-game.json](./219641-salt-game.json) |
+| Salt Lake 2002 | 248694 | [248694-salt-lake-2002.json](./248694-salt-lake-2002.json) |
 | Salt Meat Factory | 303815 | [303815-salt-meat-factory.json](./303815-salt-meat-factory.json) |
 | Salt the Earth | 118298 | [118298-salt-the-earth.json](./118298-salt-the-earth.json) |
 | SALT: Super Awesome Laser Tag | 379869 | [379869-salt-super-awesome-laser-tag.json](./379869-salt-super-awesome-laser-tag.json) |
@@ -4880,6 +4881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sephiria | 278379 | [278379-sephiria.json](./278379-sephiria.json) |
 | Sephonie | 144724 | [144724-sephonie.json](./144724-sephonie.json) |
 | Sepia | 257287 | [257287-sepia.json](./257287-sepia.json) |
+| Sepia Go! | 248826 | [248826-sepia-go.json](./248826-sepia-go.json) |
 | Sepium | 390240 | [390240-sepium.json](./390240-sepium.json) |
 | Sept Jours, Sept Lieux, Sept Vies | 151284 | [151284-sept-jours-sept-lieux-sept-vies.json](./151284-sept-jours-sept-lieux-sept-vies.json) |
 | Septar | 408236 | [408236-septar.json](./408236-septar.json) |
@@ -5982,6 +5984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowless | 351081 | [351081-shadowless.json](./351081-shadowless.json) |
 | ShadowLight Siblings | 314300 | [314300-shadowlight-siblings.json](./314300-shadowlight-siblings.json) |
 | Shadowlings | 103463 | [103463-shadowlings.json](./103463-shadowlings.json) |
+| Shadowman: Darque Legacy | 248845 | [248845-shadowman-darque-legacy.json](./248845-shadowman-darque-legacy.json) |
 | Shadowmont: RPG Community Bot | 342553 | [342553-shadowmont-rpg-community-bot.json](./342553-shadowmont-rpg-community-bot.json) |
 | Shadownest | 158199 | [158199-shadownest.json](./158199-shadownest.json) |
 | Shadoworld: The Impossible Escape Game | 204082 | [204082-shadoworld-the-impossible-escape-game.json](./204082-shadoworld-the-impossible-escape-game.json) |
@@ -6083,6 +6086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows: Awakening | 54775 | [54775-shadows-awakening.json](./54775-shadows-awakening.json) |
 | Shadowsense. | 207510 | [207510-shadowsense.json](./207510-shadowsense.json) |
 | ShadowSide | 81194 | [81194-shadowside.json](./81194-shadowside.json) |
+| Shadowspear Knight’s Quest | 248431 | [248431-shadowspear-knight-s-quest.json](./248431-shadowspear-knight-s-quest.json) |
 | Shadowstone | 388342 | [388342-shadowstone.json](./388342-shadowstone.json) |
 | ShadowStorm | 275832 | [275832-shadowstorm.json](./275832-shadowstorm.json) |
 | ShadowStrikeVR | 285114 | [285114-shadowstrikevr.json](./285114-shadowstrikevr.json) |
@@ -15329,6 +15333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Switch | 325840 | [325840-sonic-switch.json](./325840-sonic-switch.json) |
 | Sonic Tameshi | 316499 | [316499-sonic-tameshi.json](./316499-sonic-tameshi.json) |
 | Sonic Team Arena | 330964 | [330964-sonic-team-arena.json](./330964-sonic-team-arena.json) |
+| Sonic Tennis | 248383 | [248383-sonic-tennis.json](./248383-sonic-tennis.json) |
 | Sonic Tennis DX | 261295 | [261295-sonic-tennis-dx.json](./261295-sonic-tennis-dx.json) |
 | Sonic Terror | 387319 | [387319-sonic-terror.json](./387319-sonic-terror.json) |
 | Sonic Test Labs | 265209 | [265209-sonic-test-labs.json](./265209-sonic-test-labs.json) |
@@ -18163,6 +18168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedway Challenge 20 | 156931 | [156931-speedway-challenge-20.json](./156931-speedway-challenge-20.json) |
 | Speedway Challenge 2019 | 121301 | [121301-speedway-challenge-2019.json](./121301-speedway-challenge-2019.json) |
 | Speedway Challenge 2022 | 203562 | [203562-speedway-challenge-2022.json](./203562-speedway-challenge-2022.json) |
+| Speedway Challenge 2023 | 248381 | [248381-speedway-challenge-2023.json](./248381-speedway-challenge-2023.json) |
 | Speedway Challenge 2024 | 292550 | [292550-speedway-challenge-2024.json](./292550-speedway-challenge-2024.json) |
 | Speedway Challenge 2025 | 346262 | [346262-speedway-challenge-2025.json](./346262-speedway-challenge-2025.json) |
 | Speedway Challenge Career | 107685 | [107685-speedway-challenge-career.json](./107685-speedway-challenge-career.json) |
@@ -23560,6 +23566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm the Swan | 327288 | [327288-storm-the-swan.json](./327288-storm-the-swan.json) |
 | Storm United | 36153 | [36153-storm-united.json](./36153-storm-united.json) |
 | Storm VR | 33175 | [33175-storm-vr.json](./33175-storm-vr.json) |
+| Storm Warfare | 248832 | [248832-storm-warfare.json](./248832-storm-warfare.json) |
 | Storm Wars | 56482 | [56482-storm-wars.json](./56482-storm-wars.json) |
 | Storm Wars CCG | 26236 | [26236-storm-wars-ccg.json](./26236-storm-wars-ccg.json) |
 | Storm: Frontline Nation | 10928 | [10928-storm-frontline-nation.json](./10928-storm-frontline-nation.json) |
@@ -25824,6 +25831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Night | 281864 | [281864-summer-night.json](./281864-summer-night.json) |
 | Summer Nightmare | 293682 | [293682-summer-nightmare.json](./293682-summer-nightmare.json) |
 | Summer Nightmare | 29895 | [29895-summer-nightmare.json](./29895-summer-nightmare.json) |
+| Summer Numbers | 248435 | [248435-summer-numbers.json](./248435-summer-numbers.json) |
 | Summer of '58 | 159221 | [159221-summer-of-58.json](./159221-summer-of-58.json) |
 | Summer of '69 | 224578 | [224578-summer-of-69.json](./224578-summer-of-69.json) |
 | Summer of Adventure Bundle | 196513 | [196513-summer-of-adventure-bundle.json](./196513-summer-of-adventure-bundle.json) |
@@ -26487,6 +26495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bunny Woman | 403663 | [403663-super-bunny-woman.json](./403663-super-bunny-woman.json) |
 | Super Burger Master | 235159 | [235159-super-burger-master.json](./235159-super-burger-master.json) |
 | Super BurgerTime | 77876 | [77876-super-burgertime.json](./77876-super-burgertime.json) |
+| Super Bust-A-Move | 248692 | [248692-super-bust-a-move.json](./248692-super-bust-a-move.json) |
 | Super Buster Bros. | 38423 | [38423-super-buster-bros.json](./38423-super-buster-bros.json) |
 | Super Button Soccer | 33927 | [33927-super-button-soccer.json](./33927-super-button-soccer.json) |
 | Super Buzzy: Star of Eternity | 323902 | [323902-super-buzzy-star-of-eternity.json](./323902-super-buzzy-star-of-eternity.json) |
@@ -26681,6 +26690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Diagonal Mario | 316018 | [316018-super-diagonal-mario.json](./316018-super-diagonal-mario.json) |
 | Super Diagonal Mario 2: The Ultimate Meme Machine | 267944 | [267944-super-diagonal-mario-2-the-ultimate-meme-machine.json](./267944-super-diagonal-mario-2-the-ultimate-meme-machine.json) |
 | Super Dig Man Deluxe | 339478 | [339478-super-dig-man-deluxe.json](./339478-super-dig-man-deluxe.json) |
+| Super Digestion Moose | 248429 | [248429-super-digestion-moose.json](./248429-super-digestion-moose.json) |
 | Super Dino | 220880 | [220880-super-dino.json](./220880-super-dino.json) |
 | Super Dino: Extended Edition | 233907 | [233907-super-dino-extended-edition.json](./233907-super-dino-extended-edition.json) |
 | Super Dirt Racers | 161697 | [161697-super-dirt-racers.json](./161697-super-dirt-racers.json) |
@@ -27275,6 +27285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 4 | 160277 | [160277-super-mario-4.json](./160277-super-mario-4.json) |
 | Super Mario 4 Jugadores | 362159 | [362159-super-mario-4-jugadores.json](./362159-super-mario-4-jugadores.json) |
 | Super Mario 63 | 137008 | [137008-super-mario-63.json](./137008-super-mario-63.json) |
+| Super Mario 63 Redux | 248842 | [248842-super-mario-63-redux.json](./248842-super-mario-63-redux.json) |
 | Super Mario 64 1.5 Ztar Attack! | 135230 | [135230-super-mario-64-1-5-ztar-attack.json](./135230-super-mario-64-1-5-ztar-attack.json) |
 | Super Mario 64 2 | 175964 | [175964-super-mario-64-2.json](./175964-super-mario-64-2.json) |
 | Super Mario 64 3D World | 135228 | [135228-super-mario-64-3d-world.json](./135228-super-mario-64-3d-world.json) |
