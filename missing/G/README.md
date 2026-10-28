@@ -4592,6 +4592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 2 | 257389 | [257389-gnome-enchanted-jigsaw-puzzles-expansion-pack-2.json](./257389-gnome-enchanted-jigsaw-puzzles-expansion-pack-2.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 3 | 257863 | [257863-gnome-enchanted-jigsaw-puzzles-expansion-pack-3.json](./257863-gnome-enchanted-jigsaw-puzzles-expansion-pack-3.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 4 | 258948 | [258948-gnome-enchanted-jigsaw-puzzles-expansion-pack-4.json](./258948-gnome-enchanted-jigsaw-puzzles-expansion-pack-4.json) |
+| Gnome Enchanted Jigsaw Puzzles: Expansion Pack 5 | 259680 | [259680-gnome-enchanted-jigsaw-puzzles-expansion-pack-5.json](./259680-gnome-enchanted-jigsaw-puzzles-expansion-pack-5.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 9 | 260876 | [260876-gnome-enchanted-jigsaw-puzzles-expansion-pack-9.json](./260876-gnome-enchanted-jigsaw-puzzles-expansion-pack-9.json) |
 | Gnome Escape | 314409 | [314409-gnome-escape.json](./314409-gnome-escape.json) |
 | Gnome Five or More | 122767 | [122767-gnome-five-or-more.json](./122767-gnome-five-or-more.json) |
