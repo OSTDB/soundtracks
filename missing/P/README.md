@@ -5981,27 +5981,42 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX VR: Williams Pinball - World Cup Soccer | 338672 | [338672-pinball-fx-vr-williams-pinball-world-cup-soccer.json](./338672-pinball-fx-vr-williams-pinball-world-cup-soccer.json) |
 | Pinball FX VR: Williams Pinball Collection 1 | 344339 | [344339-pinball-fx-vr-williams-pinball-collection-1.json](./344339-pinball-fx-vr-williams-pinball-collection-1.json) |
 | Pinball FX: Bethesda Pinball | 386718 | [386718-pinball-fx-bethesda-pinball.json](./386718-pinball-fx-bethesda-pinball.json) |
+| Pinball FX: Borderlands - Vault Hunter Pinball | 247693 | [247693-pinball-fx-borderlands-vault-hunter-pinball.json](./247693-pinball-fx-borderlands-vault-hunter-pinball.json) |
+| Pinball FX: Brothers in Arms - Win the War Pinball | 247684 | [247684-pinball-fx-brothers-in-arms-win-the-war-pinball.json](./247684-pinball-fx-brothers-in-arms-win-the-war-pinball.json) |
 | Pinball FX: Buccaneer | 395544 | [395544-pinball-fx-buccaneer.json](./395544-pinball-fx-buccaneer.json) |
 | Pinball FX: Camp Bloodbrook | 324484 | [324484-pinball-fx-camp-bloodbrook.json](./324484-pinball-fx-camp-bloodbrook.json) |
+| Pinball FX: Carnivals & Legends | 247689 | [247689-pinball-fx-carnivals-and-legends.json](./247689-pinball-fx-carnivals-and-legends.json) |
 | Pinball FX: CastleStorm | 247674 | [247674-pinball-fx-castlestorm.json](./247674-pinball-fx-castlestorm.json) |
 | Pinball FX: Charity Pack | 308577 | [308577-pinball-fx-charity-pack.json](./308577-pinball-fx-charity-pack.json) |
+| Pinball FX: Core Collection | 247685 | [247685-pinball-fx-core-collection.json](./247685-pinball-fx-core-collection.json) |
 | Pinball FX: Earth Defense | 395548 | [395548-pinball-fx-earth-defense.json](./395548-pinball-fx-earth-defense.json) |
 | Pinball FX: Excalibur | 395549 | [395549-pinball-fx-excalibur.json](./395549-pinball-fx-excalibur.json) |
 | Pinball FX: Garfield Pinball | 239031 | [239031-pinball-fx-garfield-pinball.json](./239031-pinball-fx-garfield-pinball.json) |
 | Pinball FX: Gearbox Pinball | 239030 | [239030-pinball-fx-gearbox-pinball.json](./239030-pinball-fx-gearbox-pinball.json) |
 | Pinball FX: Goat Simulator Pinball | 316243 | [316243-pinball-fx-goat-simulator-pinball.json](./316243-pinball-fx-goat-simulator-pinball.json) |
+| Pinball FX: Grimm Tales | 247692 | [247692-pinball-fx-grimm-tales.json](./247692-pinball-fx-grimm-tales.json) |
+| Pinball FX: Homeworld - Journey to Hiigara Pinball | 247686 | [247686-pinball-fx-homeworld-journey-to-hiigara-pinball.json](./247686-pinball-fx-homeworld-journey-to-hiigara-pinball.json) |
 | Pinball FX: Indiana Jones - The Pinball Adventure | 247667 | [247667-pinball-fx-indiana-jones-the-pinball-adventure.json](./247667-pinball-fx-indiana-jones-the-pinball-adventure.json) |
+| Pinball FX: Marvel Pinball - Avengers Chronicles | 247688 | [247688-pinball-fx-marvel-pinball-avengers-chronicles.json](./247688-pinball-fx-marvel-pinball-avengers-chronicles.json) |
 | Pinball FX: Marvel Pinball - Cinematic Pack | 263309 | [263309-pinball-fx-marvel-pinball-cinematic-pack.json](./263309-pinball-fx-marvel-pinball-cinematic-pack.json) |
+| Pinball FX: Marvel Pinball - Heavy Hitters | 247698 | [247698-pinball-fx-marvel-pinball-heavy-hitters.json](./247698-pinball-fx-marvel-pinball-heavy-hitters.json) |
 | Pinball FX: Marvel Pinball - Marvel Legends Pack | 263308 | [263308-pinball-fx-marvel-pinball-marvel-legends-pack.json](./263308-pinball-fx-marvel-pinball-marvel-legends-pack.json) |
+| Pinball FX: Marvel Pinball - Vengeance and Virtue | 247690 | [247690-pinball-fx-marvel-pinball-vengeance-and-virtue.json](./247690-pinball-fx-marvel-pinball-vengeance-and-virtue.json) |
 | Pinball FX: Marvel Pinball Collection 1 | 239027 | [239027-pinball-fx-marvel-pinball-collection-1.json](./239027-pinball-fx-marvel-pinball-collection-1.json) |
 | Pinball FX: Marvel's Women of Power | 247661 | [247661-pinball-fx-marvels-women-of-power.json](./247661-pinball-fx-marvels-women-of-power.json) |
+| Pinball FX: My Little Pony Pinball | 247695 | [247695-pinball-fx-my-little-pony-pinball.json](./247695-pinball-fx-my-little-pony-pinball.json) |
 | Pinball FX: Nightmare Mansion | 395547 | [395547-pinball-fx-nightmare-mansion.json](./395547-pinball-fx-nightmare-mansion.json) |
 | Pinball FX: Pacific Rim Pinball | 300925 | [300925-pinball-fx-pacific-rim-pinball.json](./300925-pinball-fx-pacific-rim-pinball.json) |
 | Pinball FX: Peanuts' Snoopy Pinball | 239029 | [239029-pinball-fx-peanuts-snoopy-pinball.json](./239029-pinball-fx-peanuts-snoopy-pinball.json) |
 | Pinball FX: Rocky and Bullwinkle | 395546 | [395546-pinball-fx-rocky-and-bullwinkle.json](./395546-pinball-fx-rocky-and-bullwinkle.json) |
 | Pinball FX: Secrets and Shadows Pack | 239028 | [239028-pinball-fx-secrets-and-shadows-pack.json](./239028-pinball-fx-secrets-and-shadows-pack.json) |
 | Pinball FX: South Park Pinball | 270810 | [270810-pinball-fx-south-park-pinball.json](./270810-pinball-fx-south-park-pinball.json) |
+| Pinball FX: Star Wars Pinball | 247691 | [247691-pinball-fx-star-wars-pinball.json](./247691-pinball-fx-star-wars-pinball.json) |
+| Pinball FX: Star Wars Pinball - Balance of the Force | 247682 | [247682-pinball-fx-star-wars-pinball-balance-of-the-force.json](./247682-pinball-fx-star-wars-pinball-balance-of-the-force.json) |
+| Pinball FX: Star Wars Pinball - Heroes Within | 247681 | [247681-pinball-fx-star-wars-pinball-heroes-within.json](./247681-pinball-fx-star-wars-pinball-heroes-within.json) |
+| Pinball FX: Star Wars Pinball - The Last Jedi | 247696 | [247696-pinball-fx-star-wars-pinball-the-last-jedi.json](./247696-pinball-fx-star-wars-pinball-the-last-jedi.json) |
 | Pinball FX: Star Wars Pinball - Thrill of the Hunt | 239024 | [239024-pinball-fx-star-wars-pinball-thrill-of-the-hunt.json](./239024-pinball-fx-star-wars-pinball-thrill-of-the-hunt.json) |
+| Pinball FX: Star Wars Pinball - Unsung Heroes | 247687 | [247687-pinball-fx-star-wars-pinball-unsung-heroes.json](./247687-pinball-fx-star-wars-pinball-unsung-heroes.json) |
 | Pinball FX: Star Wars Pinball Collection 1 | 239026 | [239026-pinball-fx-star-wars-pinball-collection-1.json](./239026-pinball-fx-star-wars-pinball-collection-1.json) |
 | Pinball FX: Star Wars Pinball Collection 2 | 239025 | [239025-pinball-fx-star-wars-pinball-collection-2.json](./239025-pinball-fx-star-wars-pinball-collection-2.json) |
 | Pinball FX: Street Fighter II Tribute | 395551 | [395551-pinball-fx-street-fighter-ii-tribute.json](./395551-pinball-fx-street-fighter-ii-tribute.json) |
@@ -6019,7 +6034,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Williams Pinball - World Cup Soccer | 239017 | [239017-pinball-fx-williams-pinball-world-cup-soccer.json](./239017-pinball-fx-williams-pinball-world-cup-soccer.json) |
 | Pinball FX: Williams Pinball Collection 1 | 239021 | [239021-pinball-fx-williams-pinball-collection-1.json](./239021-pinball-fx-williams-pinball-collection-1.json) |
 | Pinball FX: Williams Pinball Collection 2 | 239020 | [239020-pinball-fx-williams-pinball-collection-2.json](./239020-pinball-fx-williams-pinball-collection-2.json) |
+| Pinball FX: Williams Pinball Volume 1 | 247694 | [247694-pinball-fx-williams-pinball-volume-1.json](./247694-pinball-fx-williams-pinball-volume-1.json) |
 | Pinball FX: Williams Pinball Volume 10 | 395384 | [395384-pinball-fx-williams-pinball-volume-10.json](./395384-pinball-fx-williams-pinball-volume-10.json) |
+| Pinball FX: Williams Pinball Volume 2 | 247679 | [247679-pinball-fx-williams-pinball-volume-2.json](./247679-pinball-fx-williams-pinball-volume-2.json) |
+| Pinball FX: Williams Pinball Volume 3 | 247683 | [247683-pinball-fx-williams-pinball-volume-3.json](./247683-pinball-fx-williams-pinball-volume-3.json) |
+| Pinball FX: Williams Pinball Volume 4 | 247678 | [247678-pinball-fx-williams-pinball-volume-4.json](./247678-pinball-fx-williams-pinball-volume-4.json) |
+| Pinball FX: Williams Pinball Volume 5 | 247680 | [247680-pinball-fx-williams-pinball-volume-5.json](./247680-pinball-fx-williams-pinball-volume-5.json) |
+| Pinball FX: Williams Pinball Volume 6 | 247697 | [247697-pinball-fx-williams-pinball-volume-6.json](./247697-pinball-fx-williams-pinball-volume-6.json) |
 | Pinball FX: Williams Pinball Volume 7 | 271828 | [271828-pinball-fx-williams-pinball-volume-7.json](./271828-pinball-fx-williams-pinball-volume-7.json) |
 | Pinball FX: Williams Pinball Volume 8 | 325528 | [325528-pinball-fx-williams-pinball-volume-8.json](./325528-pinball-fx-williams-pinball-volume-8.json) |
 | Pinball FX: World War Z Pinball | 239016 | [239016-pinball-fx-world-war-z-pinball.json](./239016-pinball-fx-world-war-z-pinball.json) |
