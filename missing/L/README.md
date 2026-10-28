@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.A.2 | 135900 | [135900-l-a-2.json](./135900-l-a-2.json) |
 | L.A.W. | 91855 | [91855-l-a-w.json](./91855-l-a-w.json) |
 | L.C.D. Bowling | 346111 | [346111-l-c-d-bowling.json](./346111-l-c-d-bowling.json) |
+| L.E.M. | 269166 | [269166-l-e-m.json](./269166-l-e-m.json) |
 | L.F.O. -Lost Future Omega- | 30207 | [30207-l-f-o-lost-future-omega.json](./30207-l-f-o-lost-future-omega.json) |
 | L.G.S.: Shinsetsu Houshin Engi | 64164 | [64164-l-g-s-shinsetsu-houshin-engi.json](./64164-l-g-s-shinsetsu-houshin-engi.json) |
 | L.I.F.E. Simulator | 329983 | [329983-l-i-f-e-simulator.json](./329983-l-i-f-e-simulator.json) |
@@ -4814,6 +4815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lips Breaker | 332848 | [332848-lips-breaker.json](./332848-lips-breaker.json) |
 | Lips Like Velum | 186714 | [186714-lips-like-velum.json](./186714-lips-like-velum.json) |
 | Lips: Canta en Español | 7051 | [7051-lips-canta-en-espanol.json](./7051-lips-canta-en-espanol.json) |
+| Lips: Deutsche Partyknaller | 268854 | [268854-lips-deutsche-partyknaller.json](./268854-lips-deutsche-partyknaller.json) |
 | Lips: Number One Hits | 7053 | [7053-lips-number-one-hits.json](./7053-lips-number-one-hits.json) |
 | Lipstick Assassin | 152847 | [152847-lipstick-assassin.json](./152847-lipstick-assassin.json) |
 | Lipstick. ADV | 269686 | [269686-lipstick-adv.json](./269686-lipstick-adv.json) |
@@ -6063,6 +6065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lollipop | 198329 | [198329-lollipop.json](./198329-lollipop.json) |
 | Lollipop Chainsaw | 1284 | [1284-lollipop-chainsaw.json](./1284-lollipop-chainsaw.json) |
 | Lollipop Chainsaw RePop: Nintendo Switch 2 Edition | 401101 | [401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json](./401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json) |
+| Lollipop Chainsaw: Premium Edition | 268855 | [268855-lollipop-chainsaw-premium-edition.json](./268855-lollipop-chainsaw-premium-edition.json) |
 | Lollipop: Summer! | 217202 | [217202-lollipop-summer.json](./217202-lollipop-summer.json) |
 | LolliPop: The Best Indie Game | 149496 | [149496-lollipop-the-best-indie-game.json](./149496-lollipop-the-best-indie-game.json) |
 | Lollipop! | 159882 | [159882-lollipop.json](./159882-lollipop.json) |
@@ -7494,6 +7497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Island: The Game - Season 4 | 262199 | [262199-love-island-the-game-season-4.json](./262199-love-island-the-game-season-4.json) |
 | Love Island: The Game - Season 5 | 262200 | [262200-love-island-the-game-season-5.json](./262200-love-island-the-game-season-5.json) |
 | Love Island: The Game - Season 6 | 262201 | [262201-love-island-the-game-season-6.json](./262201-love-island-the-game-season-6.json) |
+| Love Island: The Game - Season 7 | 268849 | [268849-love-island-the-game-season-7.json](./268849-love-island-the-game-season-7.json) |
 | Love Island: The Game - The Boat Party | 263663 | [263663-love-island-the-game-the-boat-party.json](./263663-love-island-the-game-the-boat-party.json) |
 | Love Kira | 307273 | [307273-love-kira.json](./307273-love-kira.json) |
 | Love Kuesuto | 268468 | [268468-love-kuesuto.json](./268468-love-kuesuto.json) |
@@ -8645,6 +8649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lustless | 241251 | [241251-lustless.json](./241251-lustless.json) |
 | Lustra: Lachea’s Tale | 346790 | [346790-lustra-lachea-s-tale.json](./346790-lustra-lachea-s-tale.json) |
 | Lustrous Heart | 298994 | [298994-lustrous-heart.json](./298994-lustrous-heart.json) |
+| Lustrous Spirit | 269157 | [269157-lustrous-spirit.json](./269157-lustrous-spirit.json) |
 | Lusty Bubbles: Animated Edition | 395845 | [395845-lusty-bubbles-animated-edition.json](./395845-lusty-bubbles-animated-edition.json) |
 | Lusty Chapters | 384759 | [384759-lusty-chapters.json](./384759-lusty-chapters.json) |
 | Lusty God | 238763 | [238763-lusty-god.json](./238763-lusty-god.json) |
