@@ -7851,6 +7851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shootinator | 303821 | [303821-shootinator.json](./303821-shootinator.json) |
 | Shooting Aircraft | 323846 | [323846-shooting-aircraft.json](./323846-shooting-aircraft.json) |
 | Shooting Arena VR | 141098 | [141098-shooting-arena-vr.json](./141098-shooting-arena-vr.json) |
+| Shooting Ball | 252956 | [252956-shooting-ball.json](./252956-shooting-ball.json) |
 | Shooting Ballons | 247012 | [247012-shooting-ballons.json](./247012-shooting-ballons.json) |
 | Shooting Beena Toy Story 3: Woody to Buzz no Daibouken! | 123619 | [123619-shooting-beena-toy-story-3-woody-to-buzz-no-daibouken.json](./123619-shooting-beena-toy-story-3-woody-to-buzz-no-daibouken.json) |
 | Shooting Blaster Big Bang Boom | 143954 | [143954-shooting-blaster-big-bang-boom.json](./143954-shooting-blaster-big-bang-boom.json) |
@@ -13662,6 +13663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Rally | 175287 | [175287-soccer-rally.json](./175287-soccer-rally.json) |
 | Soccer Rally | 210079 | [210079-soccer-rally.json](./210079-soccer-rally.json) |
 | Soccer RPG: Become the coach for the national team! | 94259 | [94259-soccer-rpg-become-the-coach-for-the-national-team.json](./94259-soccer-rpg-become-the-coach-for-the-national-team.json) |
+| Soccer Runner | 252949 | [252949-soccer-runner.json](./252949-soccer-runner.json) |
 | Soccer Shooter | 247063 | [247063-soccer-shooter.json](./247063-soccer-shooter.json) |
 | Soccer Shootout | 345929 | [345929-soccer-shootout.json](./345929-soccer-shootout.json) |
 | Soccer Showdown 3 | 233735 | [233735-soccer-showdown-3.json](./233735-soccer-showdown-3.json) |
@@ -19380,6 +19382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spookie Dookie | 372669 | [372669-spookie-dookie.json](./372669-spookie-dookie.json) |
 | Spookitchen | 350595 | [350595-spookitchen.json](./350595-spookitchen.json) |
 | Spookity Hollow | 170549 | [170549-spookity-hollow.json](./170549-spookity-hollow.json) |
+| Spookiz Pop | 252944 | [252944-spookiz-pop.json](./252944-spookiz-pop.json) |
 | Spooklands | 61064 | [61064-spooklands.json](./61064-spooklands.json) |
 | Spooks | 135717 | [135717-spooks.json](./135717-spooks.json) |
 | Spooks | 41137 | [41137-spooks.json](./41137-spooks.json) |
@@ -23116,6 +23119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Safe and Destroy | 81850 | [81850-stickman-safe-and-destroy.json](./81850-stickman-safe-and-destroy.json) |
 | Stickman Skate Battle | 116251 | [116251-stickman-skate-battle.json](./116251-stickman-skate-battle.json) |
 | Stickman Skater | 174341 | [174341-stickman-skater.json](./174341-stickman-skater.json) |
+| Stickman Ski | 252948 | [252948-stickman-ski.json](./252948-stickman-ski.json) |
 | Stickman Soccer | 82315 | [82315-stickman-soccer.json](./82315-stickman-soccer.json) |
 | Stickman Soccer 2016 | 90737 | [90737-stickman-soccer-2016.json](./90737-stickman-soccer-2016.json) |
 | Stickman Strikes: Conquer Fantasy World | 317870 | [317870-stickman-strikes-conquer-fantasy-world.json](./317870-stickman-strikes-conquer-fantasy-world.json) |
@@ -23918,6 +23922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Note 3 | 343324 | [343324-strawberry-note-3.json](./343324-strawberry-note-3.json) |
 | Strawberry Panic! Girls' School in Fullbloom | 61405 | [61405-strawberry-panic-girls-school-in-fullbloom.json](./61405-strawberry-panic-girls-school-in-fullbloom.json) |
 | Strawberry Park | 312732 | [312732-strawberry-park.json](./312732-strawberry-park.json) |
+| Strawberry Patch | 252941 | [252941-strawberry-patch.json](./252941-strawberry-patch.json) |
 | Strawberry Punch | 130664 | [130664-strawberry-punch.json](./130664-strawberry-punch.json) |
 | Strawberry Quest | 382370 | [382370-strawberry-quest.json](./382370-strawberry-quest.json) |
 | Strawberry Samurai | 197024 | [197024-strawberry-samurai.json](./197024-strawberry-samurai.json) |
@@ -27116,6 +27121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Karoshi | 201134 | [201134-super-karoshi.json](./201134-super-karoshi.json) |
 | Super Kart Mini Car Race | 283227 | [283227-super-kart-mini-car-race.json](./283227-super-kart-mini-car-race.json) |
 | Super Kart Racer | 267954 | [267954-super-kart-racer.json](./267954-super-kart-racer.json) |
+| Super Karts | 252936 | [252936-super-karts.json](./252936-super-karts.json) |
 | Super Karts | 50614 | [50614-super-karts.json](./50614-super-karts.json) |
 | Super Kawaii Ninja | 277459 | [277459-super-kawaii-ninja.json](./277459-super-kawaii-ninja.json) |
 | Super Kawaii Turtle Fighter | 56354 | [56354-super-kawaii-turtle-fighter.json](./56354-super-kawaii-turtle-fighter.json) |
@@ -29717,6 +29723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor's Dawn | 319940 | [319940-survivors-dawn.json](./319940-survivors-dawn.json) |
 | Survivor's Day | 294947 | [294947-survivors-day.json](./294947-survivors-day.json) |
 | Survivor's End | 250451 | [250451-survivors-end.json](./250451-survivors-end.json) |
+| Survivor's Guilt: Survival | 252947 | [252947-survivors-guilt-survival.json](./252947-survivors-guilt-survival.json) |
 | Survivorman VR: The Descent | 224602 | [224602-survivorman-vr-the-descent.json](./224602-survivorman-vr-the-descent.json) |
 | Survivors | 265811 | [265811-survivors.json](./265811-survivors.json) |
 | Survivors | 291906 | [291906-survivors.json](./291906-survivors.json) |
