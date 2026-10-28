@@ -1077,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dare to Fly | 52184 | [52184-dare-to-fly.json](./52184-dare-to-fly.json) |
 | Dare to Lucid Dream | 332416 | [332416-dare-to-lucid-dream.json](./332416-dare-to-lucid-dream.json) |
 | Dare to Speed | 244089 | [244089-dare-to-speed.json](./244089-dare-to-speed.json) |
+| Dare to Spread | 238696 | [238696-dare-to-spread.json](./238696-dare-to-spread.json) |
 | Dare to Stay | 207014 | [207014-dare-to-stay.json](./207014-dare-to-stay.json) |
 | Daredemo Asobi Taizen | 137069 | [137069-daredemo-asobi-taizen.json](./137069-daredemo-asobi-taizen.json) |
 | Daredemo Kantan! Watanabe Akira no Tsume Shogi | 269751 | [269751-daredemo-kantan-watanabe-akira-no-tsume-shogi.json](./269751-daredemo-kantan-watanabe-akira-no-tsume-shogi.json) |
@@ -5980,7 +5981,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths of Dread | 32174 | [32174-depths-of-dread.json](./32174-depths-of-dread.json) |
 | Depths of Faveg | 318060 | [318060-depths-of-faveg.json](./318060-depths-of-faveg.json) |
 | Depths of Fear: Knossos | 10182 | [10182-depths-of-fear-knossos.json](./10182-depths-of-fear-knossos.json) |
+| Depths of Helheim | 238674 | [238674-depths-of-helheim.json](./238674-depths-of-helheim.json) |
 | Depths of Horror: Mushroom Day | 152792 | [152792-depths-of-horror-mushroom-day.json](./152792-depths-of-horror-mushroom-day.json) |
+| Depths of Insanity | 238688 | [238688-depths-of-insanity.json](./238688-depths-of-insanity.json) |
 | Depths of Insanity 2 | 292321 | [292321-depths-of-insanity-2.json](./292321-depths-of-insanity-2.json) |
 | Depths of Insanity 3 | 372979 | [372979-depths-of-insanity-3.json](./372979-depths-of-insanity-3.json) |
 | Depths of Providence | 412560 | [412560-depths-of-providence.json](./412560-depths-of-providence.json) |
@@ -7407,6 +7410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Hero: The Unoriginal Story | 234673 | [234673-dice-hero-the-unoriginal-story.json](./234673-dice-hero-the-unoriginal-story.json) |
 | Dice Heroes | 396504 | [396504-dice-heroes.json](./396504-dice-heroes.json) |
 | Dice In You | 379013 | [379013-dice-in-you.json](./379013-dice-in-you.json) |
+| Dice is the Way | 238659 | [238659-dice-is-the-way.json](./238659-dice-is-the-way.json) |
 | Dice Jockey | 175171 | [175171-dice-jockey.json](./175171-dice-jockey.json) |
 | Dice Keeper | 117468 | [117468-dice-keeper.json](./117468-dice-keeper.json) |
 | Dice King | 188016 | [188016-dice-king.json](./188016-dice-king.json) |
@@ -12220,6 +12224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoxyLanD | 169662 | [169662-doxyland.json](./169662-doxyland.json) |
 | Doza 2: Novogodniy Peredoz | 116060 | [116060-doza-2-novogodniy-peredoz.json](./116060-doza-2-novogodniy-peredoz.json) |
 | Dozen Chess | 420782 | [420782-dozen-chess.json](./420782-dozen-chess.json) |
+| Dozie Penguinn | 238288 | [238288-dozie-penguinn.json](./238288-dozie-penguinn.json) |
 | Dozie Penguins | 216411 | [216411-dozie-penguins.json](./216411-dozie-penguins.json) |
 | DP.T: Dr Pepper Terror | 140916 | [140916-dp-t-dr-pepper-terror.json](./140916-dp-t-dr-pepper-terror.json) |
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
