@@ -4347,6 +4347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Chop!! | 270607 | [270607-ninja-chop.json](./270607-ninja-chop.json) |
 | Ninja Chowdown: Glaze of Glory | 290513 | [290513-ninja-chowdown-glaze-of-glory.json](./290513-ninja-chowdown-glaze-of-glory.json) |
 | Ninja Clan | 311498 | [311498-ninja-clan.json](./311498-ninja-clan.json) |
+| Ninja Climb | 274847 | [274847-ninja-climb.json](./274847-ninja-climb.json) |
 | Ninja Climb | 381229 | [381229-ninja-climb.json](./381229-ninja-climb.json) |
 | Ninja Clowns | 40993 | [40993-ninja-clowns.json](./40993-ninja-clowns.json) |
 | Ninja Code | 110362 | [110362-ninja-code.json](./110362-ninja-code.json) |
@@ -5054,6 +5055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Pineapple Left Behind | 11419 | [11419-no-pineapple-left-behind.json](./11419-no-pineapple-left-behind.json) |
 | No Place For Bravery | 23690 | [23690-no-place-for-bravery.json](./23690-no-place-for-bravery.json) |
 | No Place for the Dissident | 141136 | [141136-no-place-for-the-dissident.json](./141136-no-place-for-the-dissident.json) |
+| No Place To Hide | 274855 | [274855-no-place-to-hide.json](./274855-no-place-to-hide.json) |
 | No Play No Die | 233534 | [233534-no-play-no-die.json](./233534-no-play-no-die.json) |
 | No Plumbing Required | 58506 | [58506-no-plumbing-required.json](./58506-no-plumbing-required.json) |
 | No Pressure: Hive War | 274961 | [274961-no-pressure-hive-war.json](./274961-no-pressure-hive-war.json) |
