@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 4 - Soba Mask Costume | 296021 | [296021-one-piece-pirate-warriors-4-soba-mask-costume.json](./296021-one-piece-pirate-warriors-4-soba-mask-costume.json) |
 | One Piece: Pirate Warriors 4 - The Battle of Onigashima Pack | 266743 | [266743-one-piece-pirate-warriors-4-the-battle-of-onigashima-pack.json](./266743-one-piece-pirate-warriors-4-the-battle-of-onigashima-pack.json) |
 | One Piece: Pirate Warriors 4 - Ultimate Edition | 266820 | [266820-one-piece-pirate-warriors-4-ultimate-edition.json](./266820-one-piece-pirate-warriors-4-ultimate-edition.json) |
+| One Piece: Pirate Warriors 4 - Yamato's Grand Tour Logbook & Soul Map 1 | 268585 | [268585-one-piece-pirate-warriors-4-yamatos-grand-tour-logbook-and-soul-map-1.json](./268585-one-piece-pirate-warriors-4-yamatos-grand-tour-logbook-and-soul-map-1.json) |
 | One Piece: Pirate Warriors 4 - Zorojuro Costume | 296020 | [296020-one-piece-pirate-warriors-4-zorojuro-costume.json](./296020-one-piece-pirate-warriors-4-zorojuro-costume.json) |
 | One Piece: Romance Dawn | 6851 | [6851-one-piece-romance-dawn.json](./6851-one-piece-romance-dawn.json) |
 | One Piece: Starboard | 300799 | [300799-one-piece-starboard.json](./300799-one-piece-starboard.json) |
