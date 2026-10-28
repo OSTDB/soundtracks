@@ -2935,6 +2935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geppetto 2 | 333097 | [333097-geppetto-2.json](./333097-geppetto-2.json) |
 | Geraldinho | 92871 | [92871-geraldinho.json](./92871-geraldinho.json) |
 | Geras | 301883 | [301883-geras.json](./301883-geras.json) |
+| GeraScopia | 236465 | [236465-gerascopia.json](./236465-gerascopia.json) |
 | Gerbil Mech Program | 363908 | [363908-gerbil-mech-program.json](./363908-gerbil-mech-program.json) |
 | Gerbil Physics | 93524 | [93524-gerbil-physics.json](./93524-gerbil-physics.json) |
 | Gerçeğin Ötesinde: Beyond Reality | 19152 | [19152-gercegin-otesinde-beyond-reality.json](./19152-gercegin-otesinde-beyond-reality.json) |
@@ -3871,6 +3872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Doll Toy: Tamashii o Kudasai | 209622 | [209622-girl-doll-toy-tamashii-o-kudasai.json](./209622-girl-doll-toy-tamashii-o-kudasai.json) |
 | Girl Dress Up Classic | 400055 | [400055-girl-dress-up-classic.json](./400055-girl-dress-up-classic.json) |
 | Girl Dress Up Makeover | 88327 | [88327-girl-dress-up-makeover.json](./88327-girl-dress-up-makeover.json) |
+| Girl Fantasy | 236460 | [236460-girl-fantasy.json](./236460-girl-fantasy.json) |
 | Girl Fight | 19971 | [19971-girl-fight.json](./19971-girl-fight.json) |
 | Girl Frame | 349468 | [349468-girl-frame.json](./349468-girl-frame.json) |
 | Girl Friend (Kari): Kimi to Sugosu Natsuyasumi | 60334 | [60334-girl-friend-kari-kimi-to-sugosu-natsuyasumi.json](./60334-girl-friend-kari-kimi-to-sugosu-natsuyasumi.json) |
@@ -8555,6 +8557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Ver. 2 | 175834 | [175834-grow-ver-2.json](./175834-grow-ver-2.json) |
 | Grow Wild | 349646 | [349646-grow-wild.json](./349646-grow-wild.json) |
 | Grow Your Guarden | 263794 | [263794-grow-your-guarden.json](./263794-grow-your-guarden.json) |
+| Grow Your Pets | 236477 | [236477-grow-your-pets.json](./236477-grow-your-pets.json) |
 | Grow Your Team | 240610 | [240610-grow-your-team.json](./240610-grow-your-team.json) |
 | Grow: Song of the Evertree | 151673 | [151673-grow-song-of-the-evertree.json](./151673-grow-song-of-the-evertree.json) |
 | Growbot | 43091 | [43091-growbot.json](./43091-growbot.json) |
