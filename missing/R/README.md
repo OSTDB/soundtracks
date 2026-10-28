@@ -4286,6 +4286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remember Saint Patrick | 335079 | [335079-remember-saint-patrick.json](./335079-remember-saint-patrick.json) |
 | Remember the Flowers | 181297 | [181297-remember-the-flowers.json](./181297-remember-the-flowers.json) |
 | Remember to Remember | 249736 | [249736-remember-to-remember.json](./249736-remember-to-remember.json) |
+| Remember U | 231574 | [231574-remember-u.json](./231574-remember-u.json) |
 | Remember Valentine | 330967 | [330967-remember-valentine.json](./330967-remember-valentine.json) |
 | Remember When | 155382 | [155382-remember-when.json](./155382-remember-when.json) |
 | Remember, Lights Out | 126882 | [126882-remember-lights-out.json](./126882-remember-lights-out.json) |
@@ -5308,6 +5309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Sports Bundle | 154966 | [154966-retro-sports-bundle.json](./154966-retro-sports-bundle.json) |
 | Retro Style: Pixel Art Jigsaw Puzzles | 239063 | [239063-retro-style-pixel-art-jigsaw-puzzles.json](./239063-retro-style-pixel-art-jigsaw-puzzles.json) |
 | Retro Synthesis | 109715 | [109715-retro-synthesis.json](./109715-retro-synthesis.json) |
+| Retro Tank Arcade | 231563 | [231563-retro-tank-arcade.json](./231563-retro-tank-arcade.json) |
 | Retro Tanks | 130960 | [130960-retro-tanks.json](./130960-retro-tanks.json) |
 | Retro Three Kingdoms | 173202 | [173202-retro-three-kingdoms.json](./173202-retro-three-kingdoms.json) |
 | Retro Three Kingdoms: Special edition | 195251 | [195251-retro-three-kingdoms-special-edition.json](./195251-retro-three-kingdoms-special-edition.json) |
@@ -9860,6 +9862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rough Waves | 309619 | [309619-rough-waves.json](./309619-rough-waves.json) |
 | Roughly Crafted | 376432 | [376432-roughly-crafted.json](./376432-roughly-crafted.json) |
 | Rougien | 292097 | [292097-rougien.json](./292097-rougien.json) |
+| Rougle | 231558 | [231558-rougle.json](./231558-rougle.json) |
 | Roulette | 147900 | [147900-roulette.json](./147900-roulette.json) |
 | Roulette | 366926 | [366926-roulette.json](./366926-roulette.json) |
 | Roulette at Aces Casino | 147867 | [147867-roulette-at-aces-casino.json](./147867-roulette-at-aces-casino.json) |
