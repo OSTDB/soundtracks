@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4105,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Zero | 101649 | [101649-be-zero.json](./101649-be-zero.json) |
 | BE-A Walker | 102386 | [102386-be-a-walker.json](./102386-be-a-walker.json) |
 | Be-Bop High School: Koukousei Gokuraku Densetsu | 48546 | [48546-be-bop-high-school-koukousei-gokuraku-densetsu.json](./48546-be-bop-high-school-koukousei-gokuraku-densetsu.json) |
+| Be-Yond: Kurodaishou ni Mirareteru | 256643 | [256643-be-yond-kurodaishou-ni-mirareteru.json](./256643-be-yond-kurodaishou-ni-mirareteru.json) |
 | Be: Twin | 155712 | [155712-be-twin.json](./155712-be-twin.json) |
 | Be4-Ver-1 | 364363 | [364363-be4-ver-1.json](./364363-be4-ver-1.json) |
 | Beach anime day | 130238 | [130238-beach-anime-day.json](./130238-beach-anime-day.json) |
@@ -7059,6 +7061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BiochRL | 61110 | [61110-biochrl.json](./61110-biochrl.json) |
 | Biocide: Karver Island | 166823 | [166823-biocide-karver-island.json](./166823-biocide-karver-island.json) |
 | BioCrisis | 146626 | [146626-biocrisis.json](./146626-biocrisis.json) |
+| BioCrisis | 256958 | [256958-biocrisis.json](./256958-biocrisis.json) |
 | BioCrisis: Return 2 the Lab | 203905 | [203905-biocrisis-return-2-the-lab.json](./203905-biocrisis-return-2-the-lab.json) |
 | Biodigital | 107807 | [107807-biodigital.json](./107807-biodigital.json) |
 | BioDive | 292457 | [292457-biodive.json](./292457-biodive.json) |
@@ -8256,6 +8259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Exload | 231872 | [231872-blade-exload.json](./231872-blade-exload.json) |
 | Blade Flash Death | 151278 | [151278-blade-flash-death.json](./151278-blade-flash-death.json) |
 | Blade Force | 11860 | [11860-blade-force.json](./11860-blade-force.json) |
+| Blade Fury | 256946 | [256946-blade-fury.json](./256946-blade-fury.json) |
 | Blade II: The Return of Evil | 57547 | [57547-blade-ii-the-return-of-evil.json](./57547-blade-ii-the-return-of-evil.json) |
 | Blade Kitten: Dirty Angels | 62089 | [62089-blade-kitten-dirty-angels.json](./62089-blade-kitten-dirty-angels.json) |
 | Blade Knight | 420577 | [420577-blade-knight.json](./420577-blade-knight.json) |
@@ -9547,6 +9551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Money | 411673 | [411673-blood-money.json](./411673-blood-money.json) |
 | Blood Money: Lethal Eden | 388296 | [388296-blood-money-lethal-eden.json](./388296-blood-money-lethal-eden.json) |
 | Blood Moon | 116731 | [116731-blood-moon.json](./116731-blood-moon.json) |
+| Blood Moon | 256961 | [256961-blood-moon.json](./256961-blood-moon.json) |
 | Blood Moon Calling | 299010 | [299010-blood-moon-calling.json](./299010-blood-moon-calling.json) |
 | Blood Moon Horror | 262810 | [262810-blood-moon-horror.json](./262810-blood-moon-horror.json) |
 | Blood Moon Massacre | 373904 | [373904-blood-moon-massacre.json](./373904-blood-moon-massacre.json) |
@@ -12762,6 +12767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Bubble Heart | 247870 | [247870-brave-bubble-heart.json](./247870-brave-bubble-heart.json) |
 | Brave Builder Construct A Climb | 201577 | [201577-brave-builder-construct-a-climb.json](./201577-brave-builder-construct-a-climb.json) |
 | Brave Cano | 174350 | [174350-brave-cano.json](./174350-brave-cano.json) |
+| Brave Checker | 256949 | [256949-brave-checker.json](./256949-brave-checker.json) |
 | Brave Deeds of Rescue Team | 157505 | [157505-brave-deeds-of-rescue-team.json](./157505-brave-deeds-of-rescue-team.json) |
 | Brave Diggers | 110205 | [110205-brave-diggers.json](./110205-brave-diggers.json) |
 | Brave Doggy Quest | 190156 | [190156-brave-doggy-quest.json](./190156-brave-doggy-quest.json) |
@@ -14526,6 +14532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Ball | 274364 | [274364-bug-ball.json](./274364-bug-ball.json) |
 | Bug Bane Survivors | 366362 | [366362-bug-bane-survivors.json](./366362-bug-bane-survivors.json) |
 | Bug Battle | 287025 | [287025-bug-battle.json](./287025-bug-battle.json) |
+| Bug Bite! | 256929 | [256929-bug-bite.json](./256929-bug-bite.json) |
 | Bug Bites! | 338860 | [338860-bug-bites.json](./338860-bug-bites.json) |
 | Bug Blaster | 15688 | [15688-bug-blaster.json](./15688-bug-blaster.json) |
 | Bug Blasters: The Exterminators | 46550 | [46550-bug-blasters-the-exterminators.json](./46550-bug-blasters-the-exterminators.json) |
