@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggscape | 351688 | [351688-eggscape.json](./351688-eggscape.json) |
 | Eggson | 362772 | [362772-eggson.json](./362772-eggson.json) |
 | EggSort | 261316 | [261316-eggsort.json](./261316-eggsort.json) |
+| Eggsplorer | 240620 | [240620-eggsplorer.json](./240620-eggsplorer.json) |
 | Eggsplosion | 304284 | [304284-eggsplosion.json](./304284-eggsplosion.json) |
 | Eggstinct! | 392254 | [392254-eggstinct.json](./392254-eggstinct.json) |
 | Eggstraction | 294300 | [294300-eggstraction.json](./294300-eggstraction.json) |
@@ -2802,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emotions: A Day In A Life | 178603 | [178603-emotions-a-day-in-a-life.json](./178603-emotions-a-day-in-a-life.json) |
 | Emotions: Social MeDie | 391300 | [391300-emotions-social-medie.json](./391300-emotions-social-medie.json) |
 | Emotitron | 349455 | [349455-emotitron.json](./349455-emotitron.json) |
+| Emoto | 240962 | [240962-emoto.json](./240962-emoto.json) |
 | Emovi | 246243 | [246243-emovi.json](./246243-emovi.json) |
 | Emoyan no 10-bai Pro Yakyuu | 48332 | [48332-emoyan-no-10-bai-pro-yakyuu.json](./48332-emoyan-no-10-bai-pro-yakyuu.json) |
 | Empath | 182825 | [182825-empath.json](./182825-empath.json) |
@@ -7304,6 +7306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EZ2on Reboot: R - Hardcore Tano*C Music Pack vol.1 | 295121 | [295121-ez2on-reboot-r-hardcore-tano-c-music-pack-vol-1.json](./295121-ez2on-reboot-r-hardcore-tano-c-music-pack-vol-1.json) |
 | Eza | 176836 | [176836-eza.json](./176836-eza.json) |
 | Ezalm : Magic's Memory | 419955 | [419955-ezalm-magics-memory.json](./419955-ezalm-magics-memory.json) |
+| Ezamur | 240974 | [240974-ezamur.json](./240974-ezamur.json) |
 | Ezaron Defense | 120076 | [120076-ezaron-defense.json](./120076-ezaron-defense.json) |
 | Ezekiel | 273722 | [273722-ezekiel.json](./273722-ezekiel.json) |
 | Ezekiel: Noa and the Automaton Urbis | 398495 | [398495-ezekiel-noa-and-the-automaton-urbis.json](./398495-ezekiel-noa-and-the-automaton-urbis.json) |
