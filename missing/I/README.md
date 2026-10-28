@@ -1168,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Business Tycoon: Build Simulator | 197933 | [197933-idle-business-tycoon-build-simulator.json](./197933-idle-business-tycoon-build-simulator.json) |
 | Idle Business Tycoon: Build Simulator - Expansion Pack 1 | 201445 | [201445-idle-business-tycoon-build-simulator-expansion-pack-1.json](./201445-idle-business-tycoon-build-simulator-expansion-pack-1.json) |
 | Idle Business Tycoon: Build Simulator - Expansion Pack 2 | 201523 | [201523-idle-business-tycoon-build-simulator-expansion-pack-2.json](./201523-idle-business-tycoon-build-simulator-expansion-pack-2.json) |
+| Idle Calibur | 234870 | [234870-idle-calibur.json](./234870-idle-calibur.json) |
 | Idle Calibur: Zero | 385905 | [385905-idle-calibur-zero.json](./385905-idle-calibur-zero.json) |
 | Idle Campaign | 210851 | [210851-idle-campaign.json](./210851-idle-campaign.json) |
 | Idle Cannon | 182781 | [182781-idle-cannon.json](./182781-idle-cannon.json) |
