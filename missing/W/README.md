@@ -4976,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WindSoul | 38951 | [38951-windsoul.json](./38951-windsoul.json) |
 | Windsquire: Race From Dragon Castle | 241054 | [241054-windsquire-race-from-dragon-castle.json](./241054-windsquire-race-from-dragon-castle.json) |
 | WindStop Strategy | 385567 | [385567-windstop-strategy.json](./385567-windstop-strategy.json) |
+| Windstorm Double Pack | 259705 | [259705-windstorm-double-pack.json](./259705-windstorm-double-pack.json) |
 | Windstorm: Double Pack | 259539 | [259539-windstorm-double-pack.json](./259539-windstorm-double-pack.json) |
 | Windstorm: Start of a Great Friendship | 186557 | [186557-windstorm-start-of-a-great-friendship.json](./186557-windstorm-start-of-a-great-friendship.json) |
 | Windstorm: Start of a Great Friendship - Remastered | 295730 | [295730-windstorm-start-of-a-great-friendship-remastered.json](./295730-windstorm-start-of-a-great-friendship-remastered.json) |
