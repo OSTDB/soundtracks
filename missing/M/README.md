@@ -8595,6 +8595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metalyx | 354579 | [354579-metalyx.json](./354579-metalyx.json) |
 | Metamathema | 320782 | [320782-metamathema.json](./320782-metamathema.json) |
 | Metamaze | 178491 | [178491-metamaze.json](./178491-metamaze.json) |
+| Metamode | 266358 | [266358-metamode.json](./266358-metamode.json) |
 | Metamon | 227835 | [227835-metamon.json](./227835-metamon.json) |
 | Metamon Island | 223947 | [223947-metamon-island.json](./223947-metamon-island.json) |
 | Metamoqester | 39542 | [39542-metamoqester.json](./39542-metamoqester.json) |
@@ -9554,6 +9555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MidKnight Story | 115444 | [115444-midknight-story.json](./115444-midknight-story.json) |
 | Midline '85 | 247738 | [247738-midline-85.json](./247738-midline-85.json) |
 | Midna's Mario World | 282730 | [282730-midnas-mario-world.json](./282730-midnas-mario-world.json) |
+| Midnight | 266368 | [266368-midnight.json](./266368-midnight.json) |
 | Midnight | 284284 | [284284-midnight.json](./284284-midnight.json) |
 | Midnight | 312215 | [312215-midnight.json](./312215-midnight.json) |
 | Midnight | 33802 | [33802-midnight.json](./33802-midnight.json) |
@@ -12475,6 +12477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Möbius Front '83 | 140436 | [140436-mobius-front-83.json](./140436-mobius-front-83.json) |
 | Möbius Link | 400076 | [400076-mobius-link.json](./400076-mobius-link.json) |
 | Möbius Link 3D | 400075 | [400075-mobius-link-3d.json](./400075-mobius-link-3d.json) |
+| Mobius Red Zone | 266350 | [266350-mobius-red-zone.json](./266350-mobius-red-zone.json) |
 | Mobius Theory | 225602 | [225602-mobius-theory.json](./225602-mobius-theory.json) |
 | Möbius Trip | 364643 | [364643-mobius-trip.json](./364643-mobius-trip.json) |
 | Möbler | 118301 | [118301-mobler.json](./118301-mobler.json) |
