@@ -2422,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Villagers Origins 2 | 110988 | [110988-virtual-villagers-origins-2.json](./110988-virtual-villagers-origins-2.json) |
 | Virtual Virtual Reality | 96698 | [96698-virtual-virtual-reality.json](./96698-virtual-virtual-reality.json) |
 | Virtual Virtual Reality 2 | 191461 | [191461-virtual-virtual-reality-2.json](./191461-virtual-virtual-reality-2.json) |
+| Virtual Vixens | 261924 | [261924-virtual-vixens.json](./261924-virtual-vixens.json) |
 | Virtual Volleyball | 176137 | [176137-virtual-volleyball.json](./176137-virtual-volleyball.json) |
 | Virtual Walk English 1: Travel-hen | 230507 | [230507-virtual-walk-english-1-travel-hen.json](./230507-virtual-walk-english-1-travel-hen.json) |
 | Virtual Walk English 2: Travel-hen | 230523 | [230523-virtual-walk-english-2-travel-hen.json](./230523-virtual-walk-english-2-travel-hen.json) |
