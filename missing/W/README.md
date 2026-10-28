@@ -1560,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords IV: Heroes of Etheria | 24182 | [24182-warlords-iv-heroes-of-etheria.json](./24182-warlords-iv-heroes-of-etheria.json) |
 | Warlords of Aternum | 107181 | [107181-warlords-of-aternum.json](./107181-warlords-of-aternum.json) |
 | Warlords of the Deck | 301805 | [301805-warlords-of-the-deck.json](./301805-warlords-of-the-deck.json) |
+| Warlords: Castles | 261942 | [261942-warlords-castles.json](./261942-warlords-castles.json) |
 | Warlords: Evolved | 329637 | [329637-warlords-evolved.json](./329637-warlords-evolved.json) |
 | Warlords: Heroes | 101726 | [101726-warlords-heroes.json](./101726-warlords-heroes.json) |
 | Warlords.IO | 111729 | [111729-warlords-io.json](./111729-warlords-io.json) |
@@ -5358,6 +5359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout 3 Special Edition | 44855 | [44855-wipeout-3-special-edition.json](./44855-wipeout-3-special-edition.json) |
 | Wipeout 64 | 1539 | [1539-wipeout-64.json](./1539-wipeout-64.json) |
 | Wipeout Create & Crash | 47441 | [47441-wipeout-create-and-crash.json](./47441-wipeout-create-and-crash.json) |
+| Wipeout Dash | 261943 | [261943-wipeout-dash.json](./261943-wipeout-dash.json) |
 | Wipeout Dash 2 | 253259 | [253259-wipeout-dash-2.json](./253259-wipeout-dash-2.json) |
 | Wipeout Fusion | 1541 | [1541-wipeout-fusion.json](./1541-wipeout-fusion.json) |
 | WipEout HD: Fury | 22991 | [22991-wipeout-hd-fury.json](./22991-wipeout-hd-fury.json) |
@@ -7362,6 +7364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War 2: Operation Husky | 154592 | [154592-world-war-2-operation-husky.json](./154592-world-war-2-operation-husky.json) |
 | World War 2: Pacific Heroes | 24746 | [24746-world-war-2-pacific-heroes.json](./24746-world-war-2-pacific-heroes.json) |
 | World War 2: Time of Wrath | 17505 | [17505-world-war-2-time-of-wrath.json](./17505-world-war-2-time-of-wrath.json) |
+| World War 2: WW2 Strategy Games | 261633 | [261633-world-war-2-ww2-strategy-games.json](./261633-world-war-2-ww2-strategy-games.json) |
 | World War 3 | 102868 | [102868-world-war-3.json](./102868-world-war-3.json) |
 | World War 3: Card Battler | 216480 | [216480-world-war-3-card-battler.json](./216480-world-war-3-card-battler.json) |
 | World War Academy: Commander 1 | 170317 | [170317-world-war-academy-commander-1.json](./170317-world-war-academy-commander-1.json) |
@@ -8094,6 +8097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K23: Bad Bunny Bonus Pack | 263147 | [263147-wwe-2k23-bad-bunny-bonus-pack.json](./263147-wwe-2k23-bad-bunny-bonus-pack.json) |
 | WWE 2K23: Bad Bunny Edition | 273338 | [273338-wwe-2k23-bad-bunny-edition.json](./273338-wwe-2k23-bad-bunny-edition.json) |
 | WWE 2K23: Bad Bunny Edition - Bonus Pack | 273348 | [273348-wwe-2k23-bad-bunny-edition-bonus-pack.json](./273348-wwe-2k23-bad-bunny-edition-bonus-pack.json) |
+| WWE 2K23: Bad News U Pack | 261929 | [261929-wwe-2k23-bad-news-u-pack.json](./261929-wwe-2k23-bad-news-u-pack.json) |
 | WWE 2K23: Cross-Gen Digital Edition | 241078 | [241078-wwe-2k23-cross-gen-digital-edition.json](./241078-wwe-2k23-cross-gen-digital-edition.json) |
 | WWE 2K23: Deluxe Edition | 234209 | [234209-wwe-2k23-deluxe-edition.json](./234209-wwe-2k23-deluxe-edition.json) |
 | WWE 2K23: Pretty Sweet Pack | 279032 | [279032-wwe-2k23-pretty-sweet-pack.json](./279032-wwe-2k23-pretty-sweet-pack.json) |
