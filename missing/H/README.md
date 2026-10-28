@@ -2533,11 +2533,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayaoshi Quiz: Ouza Ketteisen | 228558 | [228558-hayaoshi-quiz-ouza-ketteisen.json](./228558-hayaoshi-quiz-ouza-ketteisen.json) |
 | Hayarigami 1, 2, 3 Pack | 247192 | [247192-hayarigami-1-2-3-pack.json](./247192-hayarigami-1-2-3-pack.json) |
 | Hayarigami 2 DS: Toshidensetsu Kaii Jiken | 287492 | [287492-hayarigami-2-ds-toshidensetsu-kaii-jiken.json](./287492-hayarigami-2-ds-toshidensetsu-kaii-jiken.json) |
+| Hayarigami 2 Portable: Keishichou Kaii Jiken File | 257764 | [257764-hayarigami-2-portable-keishichou-kaii-jiken-file.json](./257764-hayarigami-2-portable-keishichou-kaii-jiken-file.json) |
 | Hayarigami 2: Keishichou Kaii Jiken File | 259604 | [259604-hayarigami-2-keishichou-kaii-jiken-file.json](./259604-hayarigami-2-keishichou-kaii-jiken-file.json) |
 | Hayarigami 2: Keishichou Kaii Jiken File | 79330 | [79330-hayarigami-2-keishichou-kaii-jiken-file.json](./79330-hayarigami-2-keishichou-kaii-jiken-file.json) |
+| Hayarigami 3: Keishichou Kaii Jiken File | 257763 | [257763-hayarigami-3-keishichou-kaii-jiken-file.json](./257763-hayarigami-3-keishichou-kaii-jiken-file.json) |
 | Hayarigami 3: Keishichou Kaii Jiken File | 259603 | [259603-hayarigami-3-keishichou-kaii-jiken-file.json](./259603-hayarigami-3-keishichou-kaii-jiken-file.json) |
 | Hayarigami DS: Toshi Densetsu Kaii Jiken | 287490 | [287490-hayarigami-ds-toshi-densetsu-kaii-jiken.json](./287490-hayarigami-ds-toshi-densetsu-kaii-jiken.json) |
 | Hayarigami Portable: Keishichou Kaii Jiken File | 79329 | [79329-hayarigami-portable-keishichou-kaii-jiken-file.json](./79329-hayarigami-portable-keishichou-kaii-jiken-file.json) |
+| Hayarigami: Keishichou Kaii Jiken File | 257765 | [257765-hayarigami-keishichou-kaii-jiken-file.json](./257765-hayarigami-keishichou-kaii-jiken-file.json) |
 | Hayarigami: Keishichou Kaii Jiken File | 259602 | [259602-hayarigami-keishichou-kaii-jiken-file.json](./259602-hayarigami-keishichou-kaii-jiken-file.json) |
 | Hayate no Gotoku! Boku ga Romeo de Romeo ga Boku de | 78727 | [78727-hayate-no-gotoku-boku-ga-romeo-de-romeo-ga-boku-de.json](./78727-hayate-no-gotoku-boku-ga-romeo-de-romeo-ga-boku-de.json) |
 | Hayate no Gotoku! Ojousama Produce Daisakusen Boku Iro ni Somare! | 72684 | [72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json](./72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json) |
@@ -4002,6 +4005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellver | 129692 | [129692-hellver.json](./129692-hellver.json) |
 | Hellvivors | 217317 | [217317-hellvivors.json](./217317-hellvivors.json) |
 | Hellwalker: Gremory | 389667 | [389667-hellwalker-gremory.json](./389667-hellwalker-gremory.json) |
+| Hellwatch | 258070 | [258070-hellwatch.json](./258070-hellwatch.json) |
 | Hellway | 112693 | [112693-hellway.json](./112693-hellway.json) |
 | Hellway | 269165 | [269165-hellway.json](./269165-hellway.json) |
 | Hellway to Hell | 213841 | [213841-hellway-to-hell.json](./213841-hellway-to-hell.json) |
@@ -7987,6 +7991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homebound | 178519 | [178519-homebound.json](./178519-homebound.json) |
 | Homebound | 264550 | [264550-homebound.json](./264550-homebound.json) |
 | Homebound | 27682 | [27682-homebound.json](./27682-homebound.json) |
+| Homebound Haerold | 258046 | [258046-homebound-haerold.json](./258046-homebound-haerold.json) |
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
 | Homebound: Escape Room | 391344 | [391344-homebound-escape-room.json](./391344-homebound-escape-room.json) |
 | Homebound: New Beginnings | 237214 | [237214-homebound-new-beginnings.json](./237214-homebound-new-beginnings.json) |
@@ -10139,6 +10144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunahpu Quest. Mechanoid | 81903 | [81903-hunahpu-quest-mechanoid.json](./81903-hunahpu-quest-mechanoid.json) |
 | Hunchback at the Olympics | 70105 | [70105-hunchback-at-the-olympics.json](./70105-hunchback-at-the-olympics.json) |
 | Hunchback: The Adventure | 26390 | [26390-hunchback-the-adventure.json](./26390-hunchback-the-adventure.json) |
+| Hunchback's Dungeon | 258066 | [258066-hunchbacks-dungeon.json](./258066-hunchbacks-dungeon.json) |
 | Huncho | 176759 | [176759-huncho.json](./176759-huncho.json) |
 | Hunchy | 93401 | [93401-hunchy.json](./93401-hunchy.json) |
 | Hunchy 1066 | 67781 | [67781-hunchy-1066.json](./67781-hunchy-1066.json) |
