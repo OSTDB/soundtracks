@@ -814,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lara Croft and the Temple of Osiris: Legend Pack | 226872 | [226872-lara-croft-and-the-temple-of-osiris-legend-pack.json](./226872-lara-croft-and-the-temple-of-osiris-legend-pack.json) |
 | Lara Croft and the Temple of Osiris: Twisted Gears Pack | 226873 | [226873-lara-croft-and-the-temple-of-osiris-twisted-gears-pack.json](./226873-lara-croft-and-the-temple-of-osiris-twisted-gears-pack.json) |
 | Lara Croft Go | 11592 | [11592-lara-croft-go.json](./11592-lara-croft-go.json) |
+| Lara Croft: The Last Plague | 252531 | [252531-lara-croft-the-last-plague.json](./252531-lara-croft-the-last-plague.json) |
 | Lara Croft's Poker Party | 299543 | [299543-lara-crofts-poker-party.json](./299543-lara-crofts-poker-party.json) |
 | Lara Gates: The Lost Talisman Hidden Object Game | 144761 | [144761-lara-gates-the-lost-talisman-hidden-object-game.json](./144761-lara-gates-the-lost-talisman-hidden-object-game.json) |
 | Lara's Mysterious Restorations | 210213 | [210213-laras-mysterious-restorations.json](./210213-laras-mysterious-restorations.json) |
@@ -2213,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Faerghail | 12664 | [12664-legend-of-faerghail.json](./12664-legend-of-faerghail.json) |
 | Legend of Fairies | 73814 | [73814-legend-of-fairies.json](./73814-legend-of-fairies.json) |
 | Legend of Fighters | 62670 | [62670-legend-of-fighters.json](./62670-legend-of-fighters.json) |
+| Legend of Fighters: Duel Star | 252960 | [252960-legend-of-fighters-duel-star.json](./252960-legend-of-fighters-duel-star.json) |
 | Legend of Frog | 327576 | [327576-legend-of-frog.json](./327576-legend-of-frog.json) |
 | Legend of Gallant | 295915 | [295915-legend-of-gallant.json](./295915-legend-of-gallant.json) |
 | Legend Of Ghost Slayer Idle | 245376 | [245376-legend-of-ghost-slayer-idle.json](./245376-legend-of-ghost-slayer-idle.json) |
@@ -2401,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Spell: Deluxe Edition | 395679 | [395679-legendary-spell-deluxe-edition.json](./395679-legendary-spell-deluxe-edition.json) |
 | Legendary Spell: Spell Panic | 393901 | [393901-legendary-spell-spell-panic.json](./393901-legendary-spell-spell-panic.json) |
 | Legendary Sword | 193643 | [193643-legendary-sword.json](./193643-legendary-sword.json) |
+| Legendary Sword | 252965 | [252965-legendary-sword.json](./252965-legendary-sword.json) |
 | Legendary Tales | 157175 | [157175-legendary-tales.json](./157175-legendary-tales.json) |
 | Legendary Tales V: Price of Power - Collector's Edition | 416783 | [416783-legendary-tales-v-price-of-power-collectors-edition.json](./416783-legendary-tales-v-price-of-power-collectors-edition.json) |
 | Legendary Tales: Cataclysm | 186322 | [186322-legendary-tales-cataclysm.json](./186322-legendary-tales-cataclysm.json) |
@@ -5933,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi Ping Pong | 116187 | [116187-lofi-ping-pong.json](./116187-lofi-ping-pong.json) |
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
 | Loft is in the air | 315798 | [315798-loft-is-in-the-air.json](./315798-loft-is-in-the-air.json) |
+| Loftia | 252774 | [252774-loftia.json](./252774-loftia.json) |
 | Loftus and the Sky Cap | 170282 | [170282-loftus-and-the-sky-cap.json](./170282-loftus-and-the-sky-cap.json) |
 | Log Away | 350204 | [350204-log-away.json](./350204-log-away.json) |
 | Log Away: Christmas DLC | 395708 | [395708-log-away-christmas-dlc.json](./395708-log-away-christmas-dlc.json) |
@@ -5988,6 +5992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Pro | 78526 | [78526-logic-pro.json](./78526-logic-pro.json) |
 | Logic Pro 2 | 131151 | [131151-logic-pro-2.json](./131151-logic-pro-2.json) |
 | Logic Puzzle Collection: Sudoku, Permudoku, Nonodoku | 147949 | [147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json](./147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json) |
+| Logic Puzzle Rainbow Town | 252872 | [252872-logic-puzzle-rainbow-town.json](./252872-logic-puzzle-rainbow-town.json) |
 | Logic Quest 3D | 79759 | [79759-logic-quest-3d.json](./79759-logic-quest-3d.json) |
 | Logic Town: Santa's Grotto | 279131 | [279131-logic-town-santas-grotto.json](./279131-logic-town-santas-grotto.json) |
 | Logic Town: The Library | 288063 | [288063-logic-town-the-library.json](./288063-logic-town-the-library.json) |
@@ -6347,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looking Glass | 321831 | [321831-looking-glass.json](./321831-looking-glass.json) |
 | Looking Up | 391322 | [391322-looking-up.json](./391322-looking-up.json) |
 | Lookouts | 177910 | [177910-lookouts.json](./177910-lookouts.json) |
+| Looks Good | 252874 | [252874-looks-good.json](./252874-looks-good.json) |
 | Looksley's Line Up | 66584 | [66584-looksleys-line-up.json](./66584-looksleys-line-up.json) |
 | Loom | 240705 | [240705-loom.json](./240705-loom.json) |
 | Loom | 267418 | [267418-loom.json](./267418-loom.json) |
