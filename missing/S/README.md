@@ -14947,6 +14947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Frontiers: Holiday Cheer Suit | 352840 | [352840-sonic-frontiers-holiday-cheer-suit.json](./352840-sonic-frontiers-holiday-cheer-suit.json) |
 | Sonic Frontiers: Sonic Adventure 2 Shoes | 325364 | [325364-sonic-frontiers-sonic-adventure-2-shoes.json](./325364-sonic-frontiers-sonic-adventure-2-shoes.json) |
 | Sonic Frontiers: Sonic’s Birthday Bash | 254487 | [254487-sonic-frontiers-sonic-s-birthday-bash.json](./254487-sonic-frontiers-sonic-s-birthday-bash.json) |
+| Sonic Frontiers: The Final Horizon | 262533 | [262533-sonic-frontiers-the-final-horizon.json](./262533-sonic-frontiers-the-final-horizon.json) |
 | Sonic Frost | 316970 | [316970-sonic-frost.json](./316970-sonic-frost.json) |
 | Sonic Fusion | 326819 | [326819-sonic-fusion.json](./326819-sonic-fusion.json) |
 | Sonic Gaiden | 305282 | [305282-sonic-gaiden.json](./305282-sonic-gaiden.json) |
@@ -23817,12 +23818,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategy & Tactics: Dark Ages | 31923 | [31923-strategy-and-tactics-dark-ages.json](./31923-strategy-and-tactics-dark-ages.json) |
 | Strategy & Tactics: Sandbox World War II TBS | 99992 | [99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json](./99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json) |
 | Strategy & Tactics: Wargame Collection | 28583 | [28583-strategy-and-tactics-wargame-collection.json](./28583-strategy-and-tactics-wargame-collection.json) |
+| Strategy 1: Invasion | 262518 | [262518-strategy-1-invasion.json](./262518-strategy-1-invasion.json) |
 | Strategy Battles​ | 221753 | [221753-strategy-battles.json](./221753-strategy-battles.json) |
 | Strategy Challenges Collection 1 | 134475 | [134475-strategy-challenges-collection-1.json](./134475-strategy-challenges-collection-1.json) |
 | Strategy Challenges Collection 2 | 80846 | [80846-strategy-challenges-collection-2.json](./80846-strategy-challenges-collection-2.json) |
 | Strategy Game but With a Penguin Who Has a Sword | 251959 | [251959-strategy-game-but-with-a-penguin-who-has-a-sword.json](./251959-strategy-game-but-with-a-penguin-who-has-a-sword.json) |
 | Strategy Game Pack Volume 1 | 71718 | [71718-strategy-game-pack-volume-1.json](./71718-strategy-game-pack-volume-1.json) |
 | Strategy Games | 84213 | [84213-strategy-games.json](./84213-strategy-games.json) |
+| Strategy II: Hunt For The Bismark | 262520 | [262520-strategy-ii-hunt-for-the-bismark.json](./262520-strategy-ii-hunt-for-the-bismark.json) |
 | Strategy Master | 320832 | [320832-strategy-master.json](./320832-strategy-master.json) |
 | Strategy Six-Pack | 86034 | [86034-strategy-six-pack.json](./86034-strategy-six-pack.json) |
 | Stratený v Európe | 81661 | [81661-strateny-v-europe.json](./81661-strateny-v-europe.json) |
@@ -30242,6 +30245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SweetCanvas | 354760 | [354760-sweetcanvas.json](./354760-sweetcanvas.json) |
 | SweetCat | 327675 | [327675-sweetcat.json](./327675-sweetcat.json) |
 | Sweetcore Brews | 254288 | [254288-sweetcore-brews.json](./254288-sweetcore-brews.json) |
+| Sweeter Yesterday | 262146 | [262146-sweeter-yesterday.json](./262146-sweeter-yesterday.json) |
 | Sweetest Monster | 300720 | [300720-sweetest-monster.json](./300720-sweetest-monster.json) |
 | Sweetest Thing | 85412 | [85412-sweetest-thing.json](./85412-sweetest-thing.json) |
 | Sweetheart | 415166 | [415166-sweetheart.json](./415166-sweetheart.json) |
