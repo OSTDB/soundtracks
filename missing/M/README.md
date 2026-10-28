@@ -9869,6 +9869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Aphid 2 | 231987 | [231987-mighty-aphid-2.json](./231987-mighty-aphid-2.json) |
 | Mighty Aphid: Remastered Edition | 422668 | [422668-mighty-aphid-remastered-edition.json](./422668-mighty-aphid-remastered-edition.json) |
 | Mighty Arms | 348751 | [348751-mighty-arms.json](./348751-mighty-arms.json) |
+| Mighty Beanz | 254890 | [254890-mighty-beanz.json](./254890-mighty-beanz.json) |
 | Mighty Beanz Pocket Puzzles | 6510 | [6510-mighty-beanz-pocket-puzzles.json](./6510-mighty-beanz-pocket-puzzles.json) |
 | Mighty Bomb Jack | 40531 | [40531-mighty-bomb-jack.json](./40531-mighty-bomb-jack.json) |
 | Mighty Chameleon Brothers | 155469 | [155469-mighty-chameleon-brothers.json](./155469-mighty-chameleon-brothers.json) |
@@ -10647,6 +10648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Deluxe Collection DLC | 228890 | [228890-minecraft-deluxe-collection-dlc.json](./228890-minecraft-deluxe-collection-dlc.json) |
 | Minecraft: Deluxe Collection for PC | 350618 | [350618-minecraft-deluxe-collection-for-pc.json](./350618-minecraft-deluxe-collection-for-pc.json) |
 | Minecraft: Disney - Worlds of Adventure | 262539 | [262539-minecraft-disney-worlds-of-adventure.json](./262539-minecraft-disney-worlds-of-adventure.json) |
+| Minecraft: Doctor Who Skin Pack Volume 2 | 254876 | [254876-minecraft-doctor-who-skin-pack-volume-2.json](./254876-minecraft-doctor-who-skin-pack-volume-2.json) |
 | Minecraft: Dragonborn Mash-up | 233961 | [233961-minecraft-dragonborn-mash-up.json](./233961-minecraft-dragonborn-mash-up.json) |
 | Minecraft: Echo Crystal | 343904 | [343904-minecraft-echo-crystal.json](./343904-minecraft-echo-crystal.json) |
 | Minecraft: Egyptian Mythology Mash-up | 237331 | [237331-minecraft-egyptian-mythology-mash-up.json](./237331-minecraft-egyptian-mythology-mash-up.json) |
@@ -10672,6 +10674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Jurassic World Adventures | 285053 | [285053-minecraft-jurassic-world-adventures.json](./285053-minecraft-jurassic-world-adventures.json) |
 | Minecraft: Kung Fu Panda | 299203 | [299203-minecraft-kung-fu-panda.json](./299203-minecraft-kung-fu-panda.json) |
 | MInecraft: Lava Chicken | 327116 | [327116-minecraft-lava-chicken.json](./327116-minecraft-lava-chicken.json) |
+| MInecraft: Marvel Avengers Skin Pack | 254877 | [254877-minecraft-marvel-avengers-skin-pack.json](./254877-minecraft-marvel-avengers-skin-pack.json) |
 | Minecraft: Mega Man X | 239210 | [239210-minecraft-mega-man-x.json](./239210-minecraft-mega-man-x.json) |
 | Minecraft: Minecon 2015 Skin Pack | 301522 | [301522-minecraft-minecon-2015-skin-pack.json](./301522-minecraft-minecon-2015-skin-pack.json) |
 | Minecraft: Minecon 2016 Skin Pack | 255328 | [255328-minecraft-minecon-2016-skin-pack.json](./255328-minecraft-minecon-2016-skin-pack.json) |
@@ -15709,6 +15712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move Street Cricket | 20806 | [20806-move-street-cricket.json](./20806-move-street-cricket.json) |
 | Move Street Cricket II | 97933 | [97933-move-street-cricket-ii.json](./97933-move-street-cricket-ii.json) |
 | Move the Blocks | 57743 | [57743-move-the-blocks.json](./57743-move-the-blocks.json) |
+| Move the Box | 254892 | [254892-move-the-box.json](./254892-move-the-box.json) |
 | Move The Box: Classic Block Puzzle | 251052 | [251052-move-the-box-classic-block-puzzle.json](./251052-move-the-box-classic-block-puzzle.json) |
 | Move the Window | 167509 | [167509-move-the-window.json](./167509-move-the-window.json) |
 | Move your Brain: Rollway Puzzle | 67050 | [67050-move-your-brain-rollway-puzzle.json](./67050-move-your-brain-rollway-puzzle.json) |
@@ -17928,6 +17932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Flower | 373659 | [373659-my-lovely-flower.json](./373659-my-lovely-flower.json) |
 | My Lovely Girls | 382492 | [382492-my-lovely-girls.json](./382492-my-lovely-girls.json) |
 | My Lovely Noblewomen | 148339 | [148339-my-lovely-noblewomen.json](./148339-my-lovely-noblewomen.json) |
+| My Lovely Pets 2: Collector's Edition | 255286 | [255286-my-lovely-pets-2-collectors-edition.json](./255286-my-lovely-pets-2-collectors-edition.json) |
 | My Lovely Pony | 54224 | [54224-my-lovely-pony.json](./54224-my-lovely-pony.json) |
 | My Lovely Series | 313440 | [313440-my-lovely-series.json](./313440-my-lovely-series.json) |
 | My Lovely Wife | 132573 | [132573-my-lovely-wife.json](./132573-my-lovely-wife.json) |
