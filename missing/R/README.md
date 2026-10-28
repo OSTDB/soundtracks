@@ -6130,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricky Raccoon | 34666 | [34666-ricky-raccoon.json](./34666-ricky-raccoon.json) |
 | Ricky Recharge | 121593 | [121593-ricky-recharge.json](./121593-ricky-recharge.json) |
 | Ricky's Furry Duck Hunt | 255265 | [255265-rickys-furry-duck-hunt.json](./255265-rickys-furry-duck-hunt.json) |
+| Ricky's Rockin' Arcade | 235436 | [235436-rickys-rockin-arcade.json](./235436-rickys-rockin-arcade.json) |
 | Rico | 43367 | [43367-rico.json](./43367-rico.json) |
 | Rico London | 143454 | [143454-rico-london.json](./143454-rico-london.json) |
 | Rico: A Tale of Two Brothers | 125184 | [125184-rico-a-tale-of-two-brothers.json](./125184-rico-a-tale-of-two-brothers.json) |
@@ -8103,6 +8104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Scissor Paper | 262927 | [262927-rock-scissor-paper.json](./262927-rock-scissor-paper.json) |
 | Rock Show | 245700 | [245700-rock-show.json](./245700-rock-show.json) |
 | Rock Simulator | 127932 | [127932-rock-simulator.json](./127932-rock-simulator.json) |
+| Rock Simulator 2 | 235410 | [235410-rock-simulator-2.json](./235410-rock-simulator-2.json) |
 | Rock Snake | 193137 | [193137-rock-snake.json](./193137-rock-snake.json) |
 | Rock Star Ate My Hamster | 12751 | [12751-rock-star-ate-my-hamster.json](./12751-rock-star-ate-my-hamster.json) |
 | Rock Star Life Simulator | 260409 | [260409-rock-star-life-simulator.json](./260409-rock-star-life-simulator.json) |
