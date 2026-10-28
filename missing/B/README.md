@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bank Heist | 11129 | [11129-bank-heist.json](./11129-bank-heist.json) |
 | Bank Panic | 6083 | [6083-bank-panic.json](./6083-bank-panic.json) |
 | Bank Raid | 218362 | [218362-bank-raid.json](./218362-bank-raid.json) |
+| Bank Robber | 234848 | [234848-bank-robber.json](./234848-bank-robber.json) |
 | Bank Robber | 319569 | [319569-bank-robber.json](./319569-bank-robber.json) |
 | Bank Robbery Royale: Battle Simulator | 100937 | [100937-bank-robbery-royale-battle-simulator.json](./100937-bank-robbery-royale-battle-simulator.json) |
 | Bank Roll 2000 | 273208 | [273208-bank-roll-2000.json](./273208-bank-roll-2000.json) |
