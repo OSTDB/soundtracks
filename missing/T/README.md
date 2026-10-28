@@ -1659,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Chess | 304706 | [304706-tank-chess.json](./304706-tank-chess.json) |
 | Tank Combat | 54425 | [54425-tank-combat.json](./54425-tank-combat.json) |
 | Tank Command | 12342 | [12342-tank-command.json](./12342-tank-command.json) |
+| Tank Commander | 238127 | [238127-tank-commander.json](./238127-tank-commander.json) |
 | Tank Commander | 79073 | [79073-tank-commander.json](./79073-tank-commander.json) |
 | Tank Commander: Battlefield | 384164 | [384164-tank-commander-battlefield.json](./384164-tank-commander-battlefield.json) |
 | Tank Commando 3D | 184947 | [184947-tank-commando-3d.json](./184947-tank-commando-3d.json) |
@@ -4606,6 +4607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's a Cow: Crown | 403423 | [403423-thats-a-cow-crown.json](./403423-thats-a-cow-crown.json) |
 | That's a Cow: Deluxe Edition | 232994 | [232994-thats-a-cow-deluxe-edition.json](./232994-thats-a-cow-deluxe-edition.json) |
 | That's a Cow: Eggshell | 233001 | [233001-thats-a-cow-eggshell.json](./233001-thats-a-cow-eggshell.json) |
+| That's a Cow: Extended Edition | 238113 | [238113-thats-a-cow-extended-edition.json](./238113-thats-a-cow-extended-edition.json) |
 | That's a Cow: Premium Edition | 250364 | [250364-thats-a-cow-premium-edition.json](./250364-thats-a-cow-premium-edition.json) |
 | That's a Cow: Special Edition | 247595 | [247595-thats-a-cow-special-edition.json](./247595-thats-a-cow-special-edition.json) |
 | That's a lot of pixels! | 229830 | [229830-thats-a-lot-of-pixels.json](./229830-thats-a-lot-of-pixels.json) |
@@ -5253,6 +5255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Astronomy Quiz | 73479 | [73479-the-astronomy-quiz.json](./73479-the-astronomy-quiz.json) |
 | The Asylum Closed Ward | 331523 | [331523-the-asylum-closed-ward.json](./331523-the-asylum-closed-ward.json) |
 | The Asylum: Psychiatric Clinic for Abused Cuddly Toys | 66153 | [66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json](./66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json) |
+| The Atla Archives | 238109 | [238109-the-atla-archives.json](./238109-the-atla-archives.json) |
 | The Atlas Mystery: A VR Puzzle Game | 189349 | [189349-the-atlas-mystery-a-vr-puzzle-game.json](./189349-the-atlas-mystery-a-vr-puzzle-game.json) |
 | The Atlas Mystery: PC Edition | 336567 | [336567-the-atlas-mystery-pc-edition.json](./336567-the-atlas-mystery-pc-edition.json) |
 | The Atlas Problem | 365043 | [365043-the-atlas-problem.json](./365043-the-atlas-problem.json) |
