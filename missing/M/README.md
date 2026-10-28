@@ -7941,6 +7941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merauders: A Voyage of Discovery | 296981 | [296981-merauders-a-voyage-of-discovery.json](./296981-merauders-a-voyage-of-discovery.json) |
 | Merc Elite | 63276 | [63276-merc-elite.json](./63276-merc-elite.json) |
 | Merc Storia - The Healer and the Melody of the Heart | 333560 | [333560-merc-storia-the-healer-and-the-melody-of-the-heart.json](./333560-merc-storia-the-healer-and-the-melody-of-the-heart.json) |
+| Merc Storia: Ijutsushi to Kane no Neiro | 276006 | [276006-merc-storia-ijutsushi-to-kane-no-neiro.json](./276006-merc-storia-ijutsushi-to-kane-no-neiro.json) |
 | Merc Tactics | 183973 | [183973-merc-tactics.json](./183973-merc-tactics.json) |
 | Mercapolis | 302791 | [302791-mercapolis.json](./302791-mercapolis.json) |
 | Mercator | 345071 | [345071-mercator.json](./345071-mercator.json) |
@@ -12100,6 +12101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixx Island: Remix Plus - Director's Cut | 283255 | [283255-mixx-island-remix-plus-directors-cut.json](./283255-mixx-island-remix-plus-directors-cut.json) |
 | Mixx Island: Remix Plus - GOTY Edition | 284502 | [284502-mixx-island-remix-plus-goty-edition.json](./284502-mixx-island-remix-plus-goty-edition.json) |
 | Mixx Island: Remix Plus - Happy Edition | 287124 | [287124-mixx-island-remix-plus-happy-edition.json](./287124-mixx-island-remix-plus-happy-edition.json) |
+| Mixx Island: Remix Plus - Legendary Edition | 275997 | [275997-mixx-island-remix-plus-legendary-edition.json](./275997-mixx-island-remix-plus-legendary-edition.json) |
 | Mixx Island: Remix Plus - Magnificent Edition | 294830 | [294830-mixx-island-remix-plus-magnificent-edition.json](./294830-mixx-island-remix-plus-magnificent-edition.json) |
 | Mixx Island: Remix Plus - Platinum Edition | 280617 | [280617-mixx-island-remix-plus-platinum-edition.json](./280617-mixx-island-remix-plus-platinum-edition.json) |
 | Mixx Island: Remix Plus - Premium Edition | 263348 | [263348-mixx-island-remix-plus-premium-edition.json](./263348-mixx-island-remix-plus-premium-edition.json) |
@@ -16925,6 +16927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant | 79916 | [79916-mutant.json](./79916-mutant.json) |
 | Mutant Alien Moles of the Dead: Whack Whack or Die | 55941 | [55941-mutant-alien-moles-of-the-dead-whack-whack-or-die.json](./55941-mutant-alien-moles-of-the-dead-whack-whack-or-die.json) |
 | Mutant Alley: Do the Dinosaur | 157065 | [157065-mutant-alley-do-the-dinosaur.json](./157065-mutant-alley-do-the-dinosaur.json) |
+| Mutant Boxing League | 276335 | [276335-mutant-boxing-league.json](./276335-mutant-boxing-league.json) |
 | Mutant Crisis | 320539 | [320539-mutant-crisis.json](./320539-mutant-crisis.json) |
 | Mutant DNA | 341689 | [341689-mutant-dna.json](./341689-mutant-dna.json) |
 | Mutant Express | 264485 | [264485-mutant-express.json](./264485-mutant-express.json) |
