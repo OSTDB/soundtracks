@@ -3850,6 +3850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 2004 | 240275 | [240275-fifa-soccer-2004.json](./240275-fifa-soccer-2004.json) |
 | FIFA Soccer 2004 | 240276 | [240276-fifa-soccer-2004.json](./240276-fifa-soccer-2004.json) |
 | FIFA Soccer 2004 | 3136 | [3136-fifa-soccer-2004.json](./3136-fifa-soccer-2004.json) |
+| FIFA Soccer 2005 | 230476 | [230476-fifa-soccer-2005.json](./230476-fifa-soccer-2005.json) |
 | FIFA Soccer 2005 | 49195 | [49195-fifa-soccer-2005.json](./49195-fifa-soccer-2005.json) |
 | FIFA Soccer 2005: Mobile International Edition | 209186 | [209186-fifa-soccer-2005-mobile-international-edition.json](./209186-fifa-soccer-2005-mobile-international-edition.json) |
 | FIFA Soccer 64 | 10682 | [10682-fifa-soccer-64.json](./10682-fifa-soccer-64.json) |
@@ -6133,6 +6134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Hololive | 184320 | [184320-five-nights-at-hololive.json](./184320-five-nights-at-hololive.json) |
 | Five Nights at Jaygi's: Into Dreams... | 322379 | [322379-five-nights-at-jaygis-into-dreams.json](./322379-five-nights-at-jaygis-into-dreams.json) |
 | Five Nights At Jerpig's | 206010 | [206010-five-nights-at-jerpigs.json](./206010-five-nights-at-jerpigs.json) |
+| Five Nights at Konto's | 230474 | [230474-five-nights-at-kontos.json](./230474-five-nights-at-kontos.json) |
 | Five Nights at Kyle's 2 | 179724 | [179724-five-nights-at-kyles-2.json](./179724-five-nights-at-kyles-2.json) |
 | Five Nights at Leon's | 362592 | [362592-five-nights-at-leons.json](./362592-five-nights-at-leons.json) |
 | Five Nights at Leon’s 2 | 362610 | [362610-five-nights-at-leon-s-2.json](./362610-five-nights-at-leon-s-2.json) |
