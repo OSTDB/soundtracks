@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-28T13:20:49.551Z",
-  "total_soundtracks": 2671,
+  "generated_at": "2026-10-28T14:13:26.355Z",
+  "total_soundtracks": 2689,
   "games": [
     {
       "igdb_id": 7522,
@@ -318,6 +318,20 @@
           "album_name": "A Way Out (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6QenoaBO94H2FZ1ys727M4",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 147418,
+      "game_name": "A Year of Springs",
+      "game_url": "https://ostdb.net/games/a-year-of-springs",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d087d8d325801b8caa6356b1",
+      "albums": [
+        {
+          "album_name": "A Year of Springs Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5cEVIMMdKOGZLOWEyGQc58",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -639,6 +653,20 @@
         {
           "album_name": "AFK Journey: Original Game Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4Xy4DzUdKo7VbaqK4j84hr",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 228524,
+      "game_name": "After Us",
+      "game_url": "https://ostdb.net/games/after-us",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f35a3ecac0ba5284d39a117c",
+      "albums": [
+        {
+          "album_name": "After Us (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4shmjTJjSxOTTZNWzDfIPY",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -984,6 +1012,20 @@
           "album_name": "Alien: Isolation (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7mZJK1B3ym6z4Nwrga6eYJ",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 197779,
+      "game_name": "Alien: Isolation",
+      "game_url": "https://ostdb.net/games/alien-isolation",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739f60164329f8e430b0061364",
+      "albums": [
+        {
+          "album_name": "Alien: Isolation (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7mZJK1B3ym6z4Nwrga6eYJ",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -5783,6 +5825,20 @@
       ]
     },
     {
+      "igdb_id": 154262,
+      "game_name": "Creepy Tale 2",
+      "game_url": "https://ostdb.net/games/creepy-tale-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273161235732f86abbb007ede42",
+      "albums": [
+        {
+          "album_name": "Creepy Tale 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4r8t18T1Qy8bEMDXGx17tc",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 125633,
       "game_name": "Crimson Desert",
       "game_url": "https://ostdb.net/games/crimson-desert",
@@ -7139,6 +7195,20 @@
       ]
     },
     {
+      "igdb_id": 145070,
+      "game_name": "Despelote",
+      "game_url": "https://ostdb.net/games/despelote",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739ee8f0d396b98f2987e327f2",
+      "albums": [
+        {
+          "album_name": "Despelote Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7JvJUN1ljvuSIDuG27JBEF",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 107218,
       "game_name": "Desperados III",
       "game_url": "https://ostdb.net/games/desperados-iii",
@@ -7494,6 +7564,20 @@
     },
     {
       "igdb_id": 2636,
+      "game_name": "Dig Dug",
+      "game_url": "https://ostdb.net/games/dig-dug",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d2b874fc3309cb0ef08be0eb",
+      "albums": [
+        {
+          "album_name": "Dig Dug (Game Sound Effect) Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6Q8Xvmxz9QBJbHR5NXA7Kf",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 218867,
       "game_name": "Dig Dug",
       "game_url": "https://ostdb.net/games/dig-dug",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b273d2b874fc3309cb0ef08be0eb",
@@ -10065,6 +10149,20 @@
       ]
     },
     {
+      "igdb_id": 146218,
+      "game_name": "Final Fantasy VI",
+      "game_url": "https://ostdb.net/games/final-fantasy-vi",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
+      "albums": [
+        {
+          "album_name": "FINAL FANTASY VI Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/76XVjMzhQNv2pOQF3WVmeY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 427,
       "game_name": "Final Fantasy VII",
       "game_url": "https://ostdb.net/games/final-fantasy-vii",
@@ -10150,6 +10248,20 @@
     },
     {
       "igdb_id": 203538,
+      "game_name": "Final Fantasy VIII",
+      "game_url": "https://ostdb.net/games/final-fantasy-viii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734a8f99efdff178f3bdabde2a",
+      "albums": [
+        {
+          "album_name": "FINAL FANTASY VIII Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4WWm1rNVQvvZoXwt495cQn",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 203524,
       "game_name": "Final Fantasy VIII",
       "game_url": "https://ostdb.net/games/final-fantasy-viii",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b2734a8f99efdff178f3bdabde2a",
@@ -14817,6 +14929,20 @@
       ]
     },
     {
+      "igdb_id": 219196,
+      "game_name": "King of the Castle",
+      "game_url": "https://ostdb.net/games/king-of-the-castle",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732b43e3a059111873f762c432",
+      "albums": [
+        {
+          "album_name": "King of the Castle Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6796OlYP9WDhwRmXd7ZsDN",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 39216,
       "game_name": "King of Thieves",
       "game_url": "https://ostdb.net/games/king-of-thieves",
@@ -16955,6 +17081,20 @@
       ]
     },
     {
+      "igdb_id": 188540,
+      "game_name": "Matchpoint: Tennis Championships",
+      "game_url": "https://ostdb.net/games/matchpoint-tennis-championships",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f39f249132c5185bf04f82c6",
+      "albums": [
+        {
+          "album_name": "Matchpoint Tennis Championships (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/39EjvvhYKMu1hyhW6QfADf",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 960,
       "game_name": "Max Payne 3",
       "game_url": "https://ostdb.net/games/max-payne-3",
@@ -17603,6 +17743,20 @@
         {
           "album_name": "Minami Lane Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/6SRAcMScFwXVOMNAh3LqYU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 152379,
+      "game_name": "Minds Beneath Us",
+      "game_url": "https://ostdb.net/games/minds-beneath-us",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f0f9617510988e7045be605f",
+      "albums": [
+        {
+          "album_name": "Minds Beneath Us (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/21dh68jVEXybHyApbcRGNn",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -20563,6 +20717,20 @@
         {
           "album_name": "PewDiePie's Tuber Simulator (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0oCZ6SkuuaFvq6YZ04BzPx",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 214135,
+      "game_name": "PGA Tour 2K23",
+      "game_url": "https://ostdb.net/games/pga-tour-2k23",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737e783afc7734cc3c36b4631e",
+      "albums": [
+        {
+          "album_name": "PGA Tour 2K23 (Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/56Gz7htezpLsWBxk8SMPDA",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -24649,6 +24817,20 @@
       ]
     },
     {
+      "igdb_id": 211223,
+      "game_name": "Smushi Come Home",
+      "game_url": "https://ostdb.net/games/smushi-come-home",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e2b93de06705b3dd405c62d4",
+      "albums": [
+        {
+          "album_name": "Smushi Come Home (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0Bj0QqXpGN2oyKpI0I82fO",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1367,
       "game_name": "Sniper: Ghost Warrior",
       "game_url": "https://ostdb.net/games/sniper-ghost-warrior",
@@ -25321,6 +25503,20 @@
         {
           "album_name": "Spark the Electric Jester (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5bm6gRHteTufakqjb8uV8h",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 153620,
+      "game_name": "Spark the Electric Jester 3",
+      "game_url": "https://ostdb.net/games/spark-the-electric-jester-3",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fc3510bf16037820f8fb61c5",
+      "albums": [
+        {
+          "album_name": "Spark the Electric Jester 3 (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5hs9efCv4DXHmKN1FaubQi",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -26183,6 +26379,20 @@
       ]
     },
     {
+      "igdb_id": 214408,
+      "game_name": "Stranded: Alien Dawn",
+      "game_url": "https://ostdb.net/games/stranded-alien-dawn",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c9e223532a094d0586e2afbc",
+      "albums": [
+        {
+          "album_name": "Stranded: Alien Dawn (Vol. 1 / Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1yFSedO2v6A9o08hLsK5at",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 303010,
       "game_name": "Strange Antiquities",
       "game_url": "https://ostdb.net/games/strange-antiquities",
@@ -26644,6 +26854,20 @@
           "album_name": "Super Mario Sunshine: Iconic Themes, Vol. 2",
           "spotify_url": "https://open.spotify.com/album/5LvyFBNsFGml16qpa1hyHI",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 150031,
+      "game_name": "Super Mario World",
+      "game_url": "https://ostdb.net/games/super-mario-world",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738b30c5153381ceb1800d97b8",
+      "albums": [
+        {
+          "album_name": "Super Mario World (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4VlhJOFDMCOK3DoyMWaH1v",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -28443,6 +28667,20 @@
         {
           "album_name": "THE KING OF FIGHTERS XIV ORIGINAL SOUNDTRACK",
           "spotify_url": "https://open.spotify.com/album/3ZZhfJiKChF4fJWNwgnLxY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 201483,
+      "game_name": "The Knight Witch",
+      "game_url": "https://ostdb.net/games/the-knight-witch",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273967cb281f7f0b86bac98bfcf",
+      "albums": [
+        {
+          "album_name": "The Knight Witch (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3LyvhlqOIKr1QXrvBjN0oV",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -31827,6 +32065,20 @@
         {
           "album_name": "Warhammer 40,000: Battlesector (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/27dXjxf8R31YZG9MSHyG51",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 152266,
+      "game_name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+      "game_url": "https://ostdb.net/games/warhammer-40-000-chaos-gate-daemonhunters",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273194c801d2e712dd96ee3f751",
+      "albums": [
+        {
+          "album_name": "Warhammer 40,000: Chaos Gate - Daemonhunters (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/57dOr8h2ikw2oyTYo217U4",
           "apple_music_url": "",
           "album_link_url": ""
         }
