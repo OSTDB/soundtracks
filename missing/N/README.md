@@ -6070,6 +6070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Yet | 405941 | [405941-not-yet.json](./405941-not-yet.json) |
 | Not Your Eyes | 156660 | [156660-not-your-eyes.json](./156660-not-your-eyes.json) |
 | Not Your Mind | 201104 | [201104-not-your-mind.json](./201104-not-your-mind.json) |
+| Notakto | 233722 | [233722-notakto.json](./233722-notakto.json) |
 | Notch: The Innocent LunA - Eclipsed SinnerS | 17877 | [17877-notch-the-innocent-luna-eclipsed-sinners.json](./17877-notch-the-innocent-luna-eclipsed-sinners.json) |
 | NotChess | 362748 | [362748-notchess.json](./362748-notchess.json) |
 | NotCoD | 33686 | [33686-notcod.json](./33686-notcod.json) |
