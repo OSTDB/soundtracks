@@ -2504,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Dimetrodon | 168382 | [168382-day-of-the-dimetrodon.json](./168382-day-of-the-dimetrodon.json) |
 | Day of the Hamster | 304068 | [304068-day-of-the-hamster.json](./304068-day-of-the-hamster.json) |
 | Day of the Infected | 112510 | [112510-day-of-the-infected.json](./112510-day-of-the-infected.json) |
+| Day of the Lords | 271056 | [271056-day-of-the-lords.json](./271056-day-of-the-lords.json) |
 | Day of the Rising Dead | 349885 | [349885-day-of-the-rising-dead.json](./349885-day-of-the-rising-dead.json) |
 | Day of the Shell | 215537 | [215537-day-of-the-shell.json](./215537-day-of-the-shell.json) |
 | Day Of The Tank | 292999 | [292999-day-of-the-tank.json](./292999-day-of-the-tank.json) |
@@ -2871,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Body Killer | 151444 | [151444-dead-body-killer.json](./151444-dead-body-killer.json) |
 | Dead Box | 153885 | [153885-dead-box.json](./153885-dead-box.json) |
 | Dead But Alive! Southern England | 26469 | [26469-dead-but-alive-southern-england.json](./26469-dead-but-alive-southern-england.json) |
+| Dead But Dreaming | 271337 | [271337-dead-but-dreaming.json](./271337-dead-but-dreaming.json) |
 | Dead by Backrooms Anomaly | 348462 | [348462-dead-by-backrooms-anomaly.json](./348462-dead-by-backrooms-anomaly.json) |
 | Dead By DayLight | 339698 | [339698-dead-by-daylight.json](./339698-dead-by-daylight.json) |
 | Dead by Daylight Mobile | 137700 | [137700-dead-by-daylight-mobile.json](./137700-dead-by-daylight-mobile.json) |
@@ -4101,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathmatch Classics Vol. 2 | 322454 | [322454-deathmatch-classics-vol-2.json](./322454-deathmatch-classics-vol-2.json) |
 | Deathmatch Classics Vol. 3 | 322455 | [322455-deathmatch-classics-vol-3.json](./322455-deathmatch-classics-vol-3.json) |
 | Deathmatch Club | 130740 | [130740-deathmatch-club.json](./130740-deathmatch-club.json) |
+| Deathmatch Dimension | 271053 | [271053-deathmatch-dimension.json](./271053-deathmatch-dimension.json) |
 | Deathmatch Remix | 322456 | [322456-deathmatch-remix.json](./322456-deathmatch-remix.json) |
 | Deathmatch Soccer | 74437 | [74437-deathmatch-soccer.json](./74437-deathmatch-soccer.json) |
 | Deathmatch Village | 42683 | [42683-deathmatch-village.json](./42683-deathmatch-village.json) |
@@ -11980,6 +11983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down the Deep | 191612 | [191612-down-the-deep.json](./191612-down-the-deep.json) |
 | Down the Drain | 256830 | [256830-down-the-drain.json](./256830-down-the-drain.json) |
 | Down the Dungeon | 393545 | [393545-down-the-dungeon.json](./393545-down-the-dungeon.json) |
+| Down the Gutter | 271335 | [271335-down-the-gutter.json](./271335-down-the-gutter.json) |
 | Down the Hill! | 259239 | [259239-down-the-hill.json](./259239-down-the-hill.json) |
 | Down the Hole | 133813 | [133813-down-the-hole.json](./133813-down-the-hole.json) |
 | Down The Mountain | 307338 | [307338-down-the-mountain.json](./307338-down-the-mountain.json) |
