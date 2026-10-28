@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Mania | 120408 | [120408-mage-mania.json](./120408-mage-mania.json) |
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
 | Mage Math | 122060 | [122060-mage-math.json](./122060-mage-math.json) |
+| Mage Mayhem | 256102 | [256102-mage-mayhem.json](./256102-mage-mayhem.json) |
 | Mage Mountain | 149726 | [149726-mage-mountain.json](./149726-mage-mountain.json) |
 | Mage Noir | 199439 | [199439-mage-noir.json](./199439-mage-noir.json) |
 | Mage of Tempest Castle | 371352 | [371352-mage-of-tempest-castle.json](./371352-mage-of-tempest-castle.json) |
@@ -7158,6 +7159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami Paradise | 191464 | [191464-megami-paradise.json](./191464-megami-paradise.json) |
 | Megami Paradise 2 | 191465 | [191465-megami-paradise-2.json](./191465-megami-paradise-2.json) |
 | Megami Quest 2 | 202606 | [202606-megami-quest-2.json](./202606-megami-quest-2.json) |
+| Megami Tensei | 256389 | [256389-megami-tensei.json](./256389-megami-tensei.json) |
 | Megami Tensei Gaiden: Last Bible | 225584 | [225584-megami-tensei-gaiden-last-bible.json](./225584-megami-tensei-gaiden-last-bible.json) |
 | Megami Tensei Gaiden: Last Bible | 49830 | [49830-megami-tensei-gaiden-last-bible.json](./49830-megami-tensei-gaiden-last-bible.json) |
 | Megami Tensei Gaiden: Last Bible II | 265053 | [265053-megami-tensei-gaiden-last-bible-ii.json](./265053-megami-tensei-gaiden-last-bible-ii.json) |
@@ -9487,6 +9489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Multiplan | 44366 | [44366-microsoft-multiplan.json](./44366-microsoft-multiplan.json) |
 | Microsoft Oceans | 146588 | [146588-microsoft-oceans.json](./146588-microsoft-oceans.json) |
 | Microsoft Pinball Arcade | 249159 | [249159-microsoft-pinball-arcade.json](./249159-microsoft-pinball-arcade.json) |
+| Microsoft Plus! for Windows XP | 256398 | [256398-microsoft-plus-for-windows-xp.json](./256398-microsoft-plus-for-windows-xp.json) |
 | Microsoft Puzzle Collection Entertainment Pack | 73142 | [73142-microsoft-puzzle-collection-entertainment-pack.json](./73142-microsoft-puzzle-collection-entertainment-pack.json) |
 | Microsoft Rebound | 209515 | [209515-microsoft-rebound.json](./209515-microsoft-rebound.json) |
 | Microsoft Return of Arcade | 22620 | [22620-microsoft-return-of-arcade.json](./22620-microsoft-return-of-arcade.json) |
@@ -10617,6 +10620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Astronaut Training Center | 316751 | [316751-minecraft-astronaut-training-center.json](./316751-minecraft-astronaut-training-center.json) |
 | Minecraft: Battle and Beasts Skin Pack | 322958 | [322958-minecraft-battle-and-beasts-skin-pack.json](./322958-minecraft-battle-and-beasts-skin-pack.json) |
 | Minecraft: Be A Mob Add-On | 334050 | [334050-minecraft-be-a-mob-add-on.json](./334050-minecraft-be-a-mob-add-on.json) |
+| Minecraft: Better than Adventure! | 256096 | [256096-minecraft-better-than-adventure.json](./256096-minecraft-better-than-adventure.json) |
 | Minecraft: Biome Settlers 3 Skin Pack | 257345 | [257345-minecraft-biome-settlers-3-skin-pack.json](./257345-minecraft-biome-settlers-3-skin-pack.json) |
 | Minecraft: Biome Settlers Pack 1 | 302658 | [302658-minecraft-biome-settlers-pack-1.json](./302658-minecraft-biome-settlers-pack-1.json) |
 | Minecraft: Biome Settlers Pack 2 | 302660 | [302660-minecraft-biome-settlers-pack-2.json](./302660-minecraft-biome-settlers-pack-2.json) |
