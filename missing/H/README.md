@@ -2667,7 +2667,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headbangers Heaven | 250637 | [250637-headbangers-heaven.json](./250637-headbangers-heaven.json) |
 | Headbängers in Holiday Hell | 141232 | [141232-headbangers-in-holiday-hell.json](./141232-headbangers-in-holiday-hell.json) |
 | Headbangers: Feeling Peckish | 289201 | [289201-headbangers-feeling-peckish.json](./289201-headbangers-feeling-peckish.json) |
+| HeadBangers: Flock and Roll | 269381 | [269381-headbangers-flock-and-roll.json](./269381-headbangers-flock-and-roll.json) |
 | Headbangers: Fright or Flight | 279539 | [279539-headbangers-fright-or-flight.json](./279539-headbangers-fright-or-flight.json) |
+| HeadBangers: Pigeon Pass | 269380 | [269380-headbangers-pigeon-pass.json](./269380-headbangers-pigeon-pass.json) |
+| HeadBangers: Rhythm Royale - Digital Deluxe Edition | 269379 | [269379-headbangers-rhythm-royale-digital-deluxe-edition.json](./269379-headbangers-rhythm-royale-digital-deluxe-edition.json) |
 | HeadCount | 144944 | [144944-headcount.json](./144944-headcount.json) |
 | Headcrab Frenzy! | 127926 | [127926-headcrab-frenzy.json](./127926-headcrab-frenzy.json) |
 | Headcrab Invasion | 102008 | [102008-headcrab-invasion.json](./102008-headcrab-invasion.json) |
