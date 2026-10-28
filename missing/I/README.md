@@ -4429,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Cthulhu Mythology | 187848 | [187848-into-the-cthulhu-mythology.json](./187848-into-the-cthulhu-mythology.json) |
 | Into the Dark | 199644 | [199644-into-the-dark.json](./199644-into-the-dark.json) |
 | Into the Dark | 229514 | [229514-into-the-dark.json](./229514-into-the-dark.json) |
+| Into the Dark | 271339 | [271339-into-the-dark.json](./271339-into-the-dark.json) |
 | Into the Dark | 6613 | [6613-into-the-dark.json](./6613-into-the-dark.json) |
 | Into the Darkness VR | 220141 | [220141-into-the-darkness-vr.json](./220141-into-the-darkness-vr.json) |
 | Into the Dead 2 | 74828 | [74828-into-the-dead-2.json](./74828-into-the-dead-2.json) |
