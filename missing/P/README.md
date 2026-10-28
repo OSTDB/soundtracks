@@ -10777,6 +10777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pooyan | 297493 | [297493-pooyan.json](./297493-pooyan.json) |
 | Pooyan | 4618 | [4618-pooyan.json](./4618-pooyan.json) |
 | Poozle Mania | 224974 | [224974-poozle-mania.json](./224974-poozle-mania.json) |
+| Poozle Mania: Girls DLC #2 | 277128 | [277128-poozle-mania-girls-dlc-2.json](./277128-poozle-mania-girls-dlc-2.json) |
 | Pop | 21828 | [21828-pop.json](./21828-pop.json) |
 | Pop 'Em Drop 'Em SameGame | 21180 | [21180-pop-em-drop-em-samegame.json](./21180-pop-em-drop-em-samegame.json) |
 | Pop 'n Magic | 37582 | [37582-pop-n-magic.json](./37582-pop-n-magic.json) |
@@ -11368,6 +11369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potemkin | 59254 | [59254-potemkin.json](./59254-potemkin.json) |
 | Potentia | 142098 | [142098-potentia.json](./142098-potentia.json) |
 | Potentia | 43133 | [43133-potentia.json](./43133-potentia.json) |
+| Potential | 277130 | [277130-potential.json](./277130-potential.json) |
 | Potential Man | 411102 | [411102-potential-man.json](./411102-potential-man.json) |
 | Potestas | 123267 | [123267-potestas.json](./123267-potestas.json) |
 | Pothead | 184781 | [184781-pothead.json](./184781-pothead.json) |
@@ -15771,6 +15773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Pieces 5: Fairy Ring | 226345 | [226345-puzzle-pieces-5-fairy-ring.json](./226345-puzzle-pieces-5-fairy-ring.json) |
 | Puzzle Pirates | 15129 | [15129-puzzle-pirates.json](./15129-puzzle-pirates.json) |
 | Puzzle Pirates: Dark Seas | 59866 | [59866-puzzle-pirates-dark-seas.json](./59866-puzzle-pirates-dark-seas.json) |
+| Puzzle Planet | 277115 | [277115-puzzle-planet.json](./277115-puzzle-planet.json) |
 | Puzzle Player | 322038 | [322038-puzzle-player.json](./322038-puzzle-player.json) |
 | Puzzle Playground | 308502 | [308502-puzzle-playground.json](./308502-puzzle-playground.json) |
 | Puzzle Pleasant | 384070 | [384070-puzzle-pleasant.json](./384070-puzzle-pleasant.json) |
