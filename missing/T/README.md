@@ -5327,6 +5327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms: Deeper | 201535 | [201535-the-backrooms-deeper.json](./201535-the-backrooms-deeper.json) |
 | The Backrooms: Escape | 272252 | [272252-the-backrooms-escape.json](./272252-the-backrooms-escape.json) |
 | The Backrooms: Forsaken | 329584 | [329584-the-backrooms-forsaken.json](./329584-the-backrooms-forsaken.json) |
+| The Backrooms: Investigate and Escape | 244595 | [244595-the-backrooms-investigate-and-escape.json](./244595-the-backrooms-investigate-and-escape.json) |
 | The Backrooms: Last Expedition | 260284 | [260284-the-backrooms-last-expedition.json](./260284-the-backrooms-last-expedition.json) |
 | The Backrooms: Liminal Reality | 238066 | [238066-the-backrooms-liminal-reality.json](./238066-the-backrooms-liminal-reality.json) |
 | The Backrooms: Liminal Space | 379849 | [379849-the-backrooms-liminal-space.json](./379849-the-backrooms-liminal-space.json) |
@@ -16169,6 +16170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Void | 357725 | [357725-the-void.json](./357725-the-void.json) |
 | The Void Below | 333167 | [333167-the-void-below.json](./333167-the-void-below.json) |
 | The Void Between | 282022 | [282022-the-void-between.json](./282022-the-void-between.json) |
+| The Void Calls | 244589 | [244589-the-void-calls.json](./244589-the-void-calls.json) |
 | The Void Chronicles: One's Desolation | 285908 | [285908-the-void-chronicles-ones-desolation.json](./285908-the-void-chronicles-ones-desolation.json) |
 | The Void Corridors | 337123 | [337123-the-void-corridors.json](./337123-the-void-corridors.json) |
 | The Void of Desires | 123947 | [123947-the-void-of-desires.json](./123947-the-void-of-desires.json) |
@@ -28449,6 +28451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TVG Journey | 197563 | [197563-tvg-journey.json](./197563-tvg-journey.json) |
 | TVhead | 217506 | [217506-tvhead.json](./217506-tvhead.json) |
 | TVhTk | 271945 | [271945-tvhtk.json](./271945-tvhtk.json) |
+| Tvinnr | 244811 | [244811-tvinnr.json](./244811-tvinnr.json) |
 | Tvori | 131876 | [131876-tvori.json](./131876-tvori.json) |
 | TVS Sample Box | 280248 | [280248-tvs-sample-box.json](./280248-tvs-sample-box.json) |
 | TVs: The Illusion Channel | 209480 | [209480-tvs-the-illusion-channel.json](./209480-tvs-the-illusion-channel.json) |
