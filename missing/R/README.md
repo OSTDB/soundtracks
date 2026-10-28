@@ -10004,6 +10004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Dental | 389526 | [389526-royal-dental.json](./389526-royal-dental.json) |
 | Royal Detective: Incident at Ashford | 355553 | [355553-royal-detective-incident-at-ashford.json](./355553-royal-detective-incident-at-ashford.json) |
 | Royal Detective: Legend of the Golem | 102694 | [102694-royal-detective-legend-of-the-golem.json](./102694-royal-detective-legend-of-the-golem.json) |
+| Royal Diamonds | 246556 | [246556-royal-diamonds.json](./246556-royal-diamonds.json) |
 | Royal Dice: Random Defense | 174810 | [174810-royal-dice-random-defense.json](./174810-royal-dice-random-defense.json) |
 | Royal Duality | 191515 | [191515-royal-duality.json](./191515-royal-duality.json) |
 | Royal Dungeon | 205605 | [205605-royal-dungeon.json](./205605-royal-dungeon.json) |
@@ -10224,6 +10225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubble the Engineer | 359414 | [359414-rubble-the-engineer.json](./359414-rubble-the-engineer.json) |
 | Rubble Trouble | 13753 | [13753-rubble-trouble.json](./13753-rubble-trouble.json) |
 | Rubble Trouble Moscow | 326730 | [326730-rubble-trouble-moscow.json](./326730-rubble-trouble-moscow.json) |
+| Rubble Trouble New York | 246578 | [246578-rubble-trouble-new-york.json](./246578-rubble-trouble-new-york.json) |
 | Rubble Trouble Tokyo | 326729 | [326729-rubble-trouble-tokyo.json](./326729-rubble-trouble-tokyo.json) |
 | Rube Goldberg Workshop | 250452 | [250452-rube-goldberg-workshop.json](./250452-rube-goldberg-workshop.json) |
 | Rube Works | 36337 | [36337-rube-works.json](./36337-rube-works.json) |
