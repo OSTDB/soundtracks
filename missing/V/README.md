@@ -2736,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vnesis | 192737 | [192737-vnesis.json](./192737-vnesis.json) |
 | Vnm | 307292 | [307292-vnm.json](./307292-vnm.json) |
 | Vocabrawlary | 157089 | [157089-vocabrawlary.json](./157089-vocabrawlary.json) |
+| Vocabulary Galaxy Orrery | 255485 | [255485-vocabulary-galaxy-orrery.json](./255485-vocabulary-galaxy-orrery.json) |
 | VocabUScary | 95314 | [95314-vocabuscary.json](./95314-vocabuscary.json) |
 | VocabVan | 338565 | [338565-vocabvan.json](./338565-vocabvan.json) |
 | Vocadol | 198280 | [198280-vocadol.json](./198280-vocadol.json) |
