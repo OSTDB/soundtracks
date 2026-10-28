@@ -4008,6 +4008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights and Magic Bundle | 301783 | [301783-knights-and-magic-bundle.json](./301783-knights-and-magic-bundle.json) |
 | Knights and Merchants: The Shattered Kingdom | 3067 | [3067-knights-and-merchants-the-shattered-kingdom.json](./3067-knights-and-merchants-the-shattered-kingdom.json) |
 | Knights and Ogres | 96926 | [96926-knights-and-ogres.json](./96926-knights-and-ogres.json) |
+| Knights Beasts & Magic | 234290 | [234290-knights-beasts-and-magic.json](./234290-knights-beasts-and-magic.json) |
 | Knights College | 142272 | [142272-knights-college.json](./142272-knights-college.json) |
 | Knights Combo | 299403 | [299403-knights-combo.json](./299403-knights-combo.json) |
 | Knights Conquest | 123060 | [123060-knights-conquest.json](./123060-knights-conquest.json) |
