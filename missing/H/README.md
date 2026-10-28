@@ -7413,6 +7413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hlina | 244996 | [244996-hlina.json](./244996-hlina.json) |
 | Hlína | 335501 | [335501-hlina.json](./335501-hlina.json) |
 | Hlípa | 131414 | [131414-hlipa.json](./131414-hlipa.json) |
+| Hljod | 235919 | [235919-hljod.json](./235919-hljod.json) |
 | Hmph! Hmph! Yowai | 289454 | [289454-hmph-hmph-yowai.json](./289454-hmph-hmph-yowai.json) |
 | HMUR | 359893 | [359893-hmur.json](./359893-hmur.json) |
 | Hnefatafl | 133083 | [133083-hnefatafl.json](./133083-hnefatafl.json) |
@@ -7600,6 +7601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole in One Professional | 41795 | [41795-hole-in-one-professional.json](./41795-hole-in-one-professional.json) |
 | Hole in One Special | 41793 | [41793-hole-in-one-special.json](./41793-hole-in-one-special.json) |
 | Hole in the Wall | 20119 | [20119-hole-in-the-wall.json](./20119-hole-in-the-wall.json) |
+| Hole in Won | 235909 | [235909-hole-in-won.json](./235909-hole-in-won.json) |
 | Hole io | 263553 | [263553-hole-io.json](./263553-hole-io.json) |
 | Hole io & Candivity | 328512 | [328512-hole-io-and-candivity.json](./328512-hole-io-and-candivity.json) |
 | Hole io & Helix Jump | 315836 | [315836-hole-io-and-helix-jump.json](./315836-hole-io-and-helix-jump.json) |
@@ -9078,6 +9080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot And Lovely: Uniform | 262926 | [262926-hot-and-lovely-uniform.json](./262926-hot-and-lovely-uniform.json) |
 | Hot And Lovely: Violet | 367270 | [367270-hot-and-lovely-violet.json](./367270-hot-and-lovely-violet.json) |
 | Hot Asses | 393391 | [393391-hot-asses.json](./393391-hot-asses.json) |
+| Hot Babes | 235952 | [235952-hot-babes.json](./235952-hot-babes.json) |
 | Hot Beaver Camp | 260516 | [260516-hot-beaver-camp.json](./260516-hot-beaver-camp.json) |
 | Hot Blood | 240638 | [240638-hot-blood.json](./240638-hot-blood.json) |
 | Hot Brain | 44483 | [44483-hot-brain.json](./44483-hot-brain.json) |
@@ -9310,6 +9313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
 | Hot-Pink | 217490 | [217490-hot-pink.json](./217490-hot-pink.json) |
 | Hot, tasty & Armed | 177784 | [177784-hot-tasty-and-armed.json](./177784-hot-tasty-and-armed.json) |
+| HotBunz | 235902 | [235902-hotbunz.json](./235902-hotbunz.json) |
 | HotCarts | 339143 | [339143-hotcarts.json](./339143-hotcarts.json) |
 | Hotch Kiss | 148358 | [148358-hotch-kiss.json](./148358-hotch-kiss.json) |
 | Hotch Kiss | 63302 | [63302-hotch-kiss.json](./63302-hotch-kiss.json) |
