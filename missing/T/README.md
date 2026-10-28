@@ -3977,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrapets | 140467 | [140467-terrapets.json](./140467-terrapets.json) |
 | Terrapins | 185141 | [185141-terrapins.json](./185141-terrapins.json) |
 | TerrApocalipse | 370857 | [370857-terrapocalipse.json](./370857-terrapocalipse.json) |
+| Terrapy | 251349 | [251349-terrapy.json](./251349-terrapy.json) |
 | TerraRealms: The Discovery - Episode I | 122732 | [122732-terrarealms-the-discovery-episode-i.json](./122732-terrarealms-the-discovery-episode-i.json) |
 | Terraria 2 | 3021 | [3021-terraria-2.json](./3021-terraria-2.json) |
 | Terraria: Bigger and Boulder | 386978 | [386978-terraria-bigger-and-boulder.json](./386978-terraria-bigger-and-boulder.json) |
@@ -16263,6 +16264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wanderer | 320033 | [320033-the-wanderer.json](./320033-the-wanderer.json) |
 | The Wanderer Vibes: Neon | 153792 | [153792-the-wanderer-vibes-neon.json](./153792-the-wanderer-vibes-neon.json) |
 | The Wanderer: Chosen One | 211752 | [211752-the-wanderer-chosen-one.json](./211752-the-wanderer-chosen-one.json) |
+| The Wanderer: Frankenstein’s Creature | 251637 | [251637-the-wanderer-frankenstein-s-creature.json](./251637-the-wanderer-frankenstein-s-creature.json) |
 | The Wanderer's Rest | 391119 | [391119-the-wanderers-rest.json](./391119-the-wanderers-rest.json) |
 | The Wandering | 352768 | [352768-the-wandering.json](./352768-the-wandering.json) |
 | The Wandering Demon Blade | 288625 | [288625-the-wandering-demon-blade.json](./288625-the-wandering-demon-blade.json) |
@@ -22073,6 +22075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Ninjas! | 342165 | [342165-too-many-ninjas.json](./342165-too-many-ninjas.json) |
 | Too Many Sheep | 249838 | [249838-too-many-sheep.json](./249838-too-many-sheep.json) |
 | Too Many Snakes | 233082 | [233082-too-many-snakes.json](./233082-too-many-snakes.json) |
+| Too Many Super Shotguns | 251633 | [251633-too-many-super-shotguns.json](./251633-too-many-super-shotguns.json) |
 | Too Many Weapons | 37023 | [37023-too-many-weapons.json](./37023-too-many-weapons.json) |
 | Too Much Baggage | 420480 | [420480-too-much-baggage.json](./420480-too-much-baggage.json) |
 | Too Much Water | 157879 | [157879-too-much-water.json](./157879-too-much-water.json) |
@@ -22591,6 +22594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Tank Simulator | 75252 | [75252-total-tank-simulator.json](./75252-total-tank-simulator.json) |
 | Total Tank Simulator 2 | 378521 | [378521-total-tank-simulator-2.json](./378521-total-tank-simulator-2.json) |
 | Total Tank Simulator: Italy | 170736 | [170736-total-tank-simulator-italy.json](./170736-total-tank-simulator-italy.json) |
+| Total Tiki-Taka | 251638 | [251638-total-tiki-taka.json](./251638-total-tiki-taka.json) |
 | Total Upheaval | 250640 | [250640-total-upheaval.json](./250640-total-upheaval.json) |
 | Total Vengeance | 264577 | [264577-total-vengeance.json](./264577-total-vengeance.json) |
 | Total Vice | 112278 | [112278-total-vice.json](./112278-total-vice.json) |
@@ -27976,6 +27980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tungsten Orbital Destroyer | 180700 | [180700-tungsten-orbital-destroyer.json](./180700-tungsten-orbital-destroyer.json) |
 | Tungtung's Nightmare | 375934 | [375934-tungtungs-nightmare.json](./375934-tungtungs-nightmare.json) |
 | Tungulus | 47986 | [47986-tungulus.json](./47986-tungulus.json) |
+| Tunguska: Dead Zone | 251761 | [251761-tunguska-dead-zone.json](./251761-tunguska-dead-zone.json) |
 | Tunguska: Legend of Faith | 43901 | [43901-tunguska-legend-of-faith.json](./43901-tunguska-legend-of-faith.json) |
 | Tunguska: Shadow Master | 259075 | [259075-tunguska-shadow-master.json](./259075-tunguska-shadow-master.json) |
 | Tunguska: Slaughterhouse | 277348 | [277348-tunguska-slaughterhouse.json](./277348-tunguska-slaughterhouse.json) |
