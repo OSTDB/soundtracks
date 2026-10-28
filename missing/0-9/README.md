@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Across 2 Down | 38857 | [38857-1-across-2-down.json](./38857-1-across-2-down.json) |
 | 1 Agile Altercation | 316924 | [316924-1-agile-altercation.json](./316924-1-agile-altercation.json) |
 | 1 AM Moscow Time | 304848 | [304848-1-am-moscow-time.json](./304848-1-am-moscow-time.json) |
+| 1 Bad Wad | 259374 | [259374-1-bad-wad.json](./259374-1-bad-wad.json) |
 | 1 Bit Survivor | 233992 | [233992-1-bit-survivor.json](./233992-1-bit-survivor.json) |
 | 1 CatLine | 391649 | [391649-1-catline.json](./391649-1-catline.json) |
 | 1 Day a Mosquito | 308198 | [308198-1-day-a-mosquito.json](./308198-1-day-a-mosquito.json) |
@@ -687,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Light-Years Away | 293938 | [293938-1000-light-years-away.json](./293938-1000-light-years-away.json) |
 | 1000 Lines 2 Community Project | 259390 | [259390-1000-lines-2-community-project.json](./259390-1000-lines-2-community-project.json) |
 | 1000 Lines 3 Community Project | 259391 | [259391-1000-lines-3-community-project.json](./259391-1000-lines-3-community-project.json) |
+| 1000 Lines Community Project | 259389 | [259389-1000-lines-community-project.json](./259389-1000-lines-community-project.json) |
 | 1000 Man General | 240647 | [240647-1000-man-general.json](./240647-1000-man-general.json) |
 | 1000 Miglia: Great 1000 Miles Rally | 39354 | [39354-1000-miglia-great-1000-miles-rally.json](./39354-1000-miglia-great-1000-miles-rally.json) |
 | 1000 Needles | 188439 | [188439-1000-needles.json](./188439-1000-needles.json) |
@@ -2525,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 Floors: The Paranormal Investigators Prologue | 306699 | [306699-50-floors-the-paranormal-investigators-prologue.json](./306699-50-floors-the-paranormal-investigators-prologue.json) |
 | 50 Level Survival | 150988 | [150988-50-level-survival.json](./150988-50-level-survival.json) |
 | 50 Minutes 'Til Impact | 369730 | [369730-50-minutes-til-impact.json](./369730-50-minutes-til-impact.json) |
+| 50 Monsters | 259377 | [259377-50-monsters.json](./259377-50-monsters.json) |
 | 50 More Classic Games | 137413 | [137413-50-more-classic-games.json](./137413-50-more-classic-games.json) |
 | 50 Pinch Barrage!! | 21670 | [21670-50-pinch-barrage.json](./21670-50-pinch-barrage.json) |
 | 50 Shades of Graytall | 141084 | [141084-50-shades-of-graytall.json](./141084-50-shades-of-graytall.json) |
