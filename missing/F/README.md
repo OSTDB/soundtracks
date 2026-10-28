@@ -11880,6 +11880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fúshēng Mèng | 399047 | [399047-fusheng-meng.json](./399047-fusheng-meng.json) |
 | Fushigi Deka | 59442 | [59442-fushigi-deka.json](./59442-fushigi-deka.json) |
 | Fushigi Densha | 143636 | [143636-fushigi-densha.json](./143636-fushigi-densha.json) |
+| Fushigi na Jikken Quiz! | 257760 | [257760-fushigi-na-jikken-quiz.json](./257760-fushigi-na-jikken-quiz.json) |
 | Fushigi na Sekai no Kankou Nikki | 309359 | [309359-fushigi-na-sekai-no-kankou-nikki.json](./309359-fushigi-na-sekai-no-kankou-nikki.json) |
 | Fushigi na Sekai no Kankou Nikki II: Pakuru World to Sejika no Gyakushuu | 346376 | [346376-fushigi-na-sekai-no-kankou-nikki-ii-pakuru-world-to-sejika-no-gyakushuu.json](./346376-fushigi-na-sekai-no-kankou-nikki-ii-pakuru-world-to-sejika-no-gyakushuu.json) |
 | Fushigi no Daibouken Chiruno Kenzan! | 236317 | [236317-fushigi-no-daibouken-chiruno-kenzan.json](./236317-fushigi-no-daibouken-chiruno-kenzan.json) |
