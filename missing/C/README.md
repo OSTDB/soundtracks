@@ -2340,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmine Impact | 142318 | [142318-carmine-impact.json](./142318-carmine-impact.json) |
 | Carminia | 153385 | [153385-carminia.json](./153385-carminia.json) |
 | Carnage | 170831 | [170831-carnage.json](./170831-carnage.json) |
+| Carnage | 271325 | [271325-carnage.json](./271325-carnage.json) |
 | Carnage | 298396 | [298396-carnage.json](./298396-carnage.json) |
 | Carnage | 399041 | [399041-carnage.json](./399041-carnage.json) |
 | Carnage Contest | 395407 | [395407-carnage-contest.json](./395407-carnage-contest.json) |
