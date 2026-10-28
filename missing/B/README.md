@@ -6356,6 +6356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibimba wo Mazesaseruna 2 | 394578 | [394578-bibimba-wo-mazesaseruna-2.json](./394578-bibimba-wo-mazesaseruna-2.json) |
 | Bible Black: The Infection | 72571 | [72571-bible-black-the-infection.json](./72571-bible-black-the-infection.json) |
 | Bible Buffet | 11163 | [11163-bible-buffet.json](./11163-bible-buffet.json) |
+| Bible Fight | 229895 | [229895-bible-fight.json](./229895-bible-fight.json) |
 | Bible Games: Mission of Paul | 106937 | [106937-bible-games-mission-of-paul.json](./106937-bible-games-mission-of-paul.json) |
 | Bible Master | 299818 | [299818-bible-master.json](./299818-bible-master.json) |
 | Bible Master 2: The Chaos of Aglia | 299819 | [299819-bible-master-2-the-chaos-of-aglia.json](./299819-bible-master-2-the-chaos-of-aglia.json) |
@@ -11706,6 +11707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boreal Blade | 122099 | [122099-boreal-blade.json](./122099-boreal-blade.json) |
 | Boreal Tenebrae | 195729 | [195729-boreal-tenebrae.json](./195729-boreal-tenebrae.json) |
 | Boreal Tenebrae Act 0 | 404353 | [404353-boreal-tenebrae-act-0.json](./404353-boreal-tenebrae-act-0.json) |
+| Boreal Tenebrae Appendix I | 229897 | [229897-boreal-tenebrae-appendix-i.json](./229897-boreal-tenebrae-appendix-i.json) |
 | Boreal Tenebrae Deluxe | 242626 | [242626-boreal-tenebrae-deluxe.json](./242626-boreal-tenebrae-deluxe.json) |
 | Boreal Tenebrae Deluxe: Special Edition | 252633 | [252633-boreal-tenebrae-deluxe-special-edition.json](./252633-boreal-tenebrae-deluxe-special-edition.json) |
 | Boreal Tenebrae: Deluxe Definitive Edition | 259582 | [259582-boreal-tenebrae-deluxe-definitive-edition.json](./259582-boreal-tenebrae-deluxe-definitive-edition.json) |
@@ -13624,6 +13626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Player | 13443 | [13443-bridge-player.json](./13443-bridge-player.json) |
 | Bridge Player 3 | 13442 | [13442-bridge-player-3.json](./13442-bridge-player-3.json) |
 | Bridge Quest | 280715 | [280715-bridge-quest.json](./280715-bridge-quest.json) |
+| Bridge Race | 229877 | [229877-bridge-race.json](./229877-bridge-race.json) |
 | Bridge Race: Complete Edition | 343703 | [343703-bridge-race-complete-edition.json](./343703-bridge-race-complete-edition.json) |
 | Bridge Race: Horror Edition | 376249 | [376249-bridge-race-horror-edition.json](./376249-bridge-race-horror-edition.json) |
 | Bridge Race: Platinum Edition | 378956 | [378956-bridge-race-platinum-edition.json](./378956-bridge-race-platinum-edition.json) |
@@ -15461,6 +15464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BurgerTime | 276443 | [276443-burgertime.json](./276443-burgertime.json) |
 | BurgerTime | 4609 | [4609-burgertime.json](./4609-burgertime.json) |
 | BurgerTime Deluxe | 48958 | [48958-burgertime-deluxe.json](./48958-burgertime-deluxe.json) |
+| BurgerTime Micro Player | 229893 | [229893-burgertime-micro-player.json](./229893-burgertime-micro-player.json) |
 | BurgerTime Party! | 117745 | [117745-burgertime-party.json](./117745-burgertime-party.json) |
 | Burgerwise the Clown | 101618 | [101618-burgerwise-the-clown.json](./101618-burgerwise-the-clown.json) |
 | Burggeist | 302962 | [302962-burggeist.json](./302962-burggeist.json) |
