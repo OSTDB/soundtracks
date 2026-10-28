@@ -6649,6 +6649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choker: Chess & Poker | 144646 | [144646-choker-chess-and-poker.json](./144646-choker-chess-and-poker.json) |
 | Chokkan Asonde Rilakkuma | 279117 | [279117-chokkan-asonde-rilakkuma.json](./279117-chokkan-asonde-rilakkuma.json) |
 | Chokkan Crash Bandicoot | 210241 | [210241-chokkan-crash-bandicoot.json](./210241-chokkan-crash-bandicoot.json) |
+| Chokkan! Hirameki Oekaki Quiz | 241187 | [241187-chokkan-hirameki-oekaki-quiz.json](./241187-chokkan-hirameki-oekaki-quiz.json) |
 | Choko Loco 2 | 321179 | [321179-choko-loco-2.json](./321179-choko-loco-2.json) |
 | Choko Nana | 292930 | [292930-choko-nana.json](./292930-choko-nana.json) |
 | Chokotto Land | 64924 | [64924-chokotto-land.json](./64924-chokotto-land.json) |
