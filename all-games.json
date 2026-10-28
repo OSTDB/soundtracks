@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-28T11:57:10.405Z",
-  "total_soundtracks": 2663,
+  "generated_at": "2026-10-28T12:11:21.309Z",
+  "total_soundtracks": 2670,
   "games": [
     {
       "igdb_id": 7522,
@@ -4153,6 +4153,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/bubsy-4d-main-theme-single/1843871745?uo=4",
           "album_link_url": "https://album.link/i/1843871745"
+        }
+      ]
+    },
+    {
+      "igdb_id": 3368,
+      "game_name": "Buck Bumble",
+      "game_url": "https://ostdb.net/games/buck-bumble",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27310003e5cd99a10659d902b7c",
+      "albums": [
+        {
+          "album_name": "Buck Bumble (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5KtCgeIB55ZlNuySVAGixL",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -14727,6 +14741,20 @@
       ]
     },
     {
+      "igdb_id": 4334,
+      "game_name": "Killing Time",
+      "game_url": "https://ostdb.net/games/killing-time",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f5bc5ffcd59b7f8ff43b3bea",
+      "albums": [
+        {
+          "album_name": "Killing Time (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6Z8Z18k4of5i95kRSHcevv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1865,
       "game_name": "Killzone",
       "game_url": "https://ostdb.net/games/killzone",
@@ -19025,6 +19053,20 @@
       ]
     },
     {
+      "igdb_id": 2769,
+      "game_name": "Nicktoons Unite!",
+      "game_url": "https://ostdb.net/games/nicktoons-unite",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f02bd9c13f7e1733ce9f4d1b",
+      "albums": [
+        {
+          "album_name": "Nicktoons Unite (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4zmTwT5TWqKVY816XYAssp",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 132005,
       "game_name": "NieR Re[in]carnation",
       "game_url": "https://ostdb.net/games/nier-re-in-carnation",
@@ -20709,6 +20751,20 @@
         {
           "album_name": "Planet Crafter (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0ezBrNnZWMzAMCYzpf9AOo",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 5573,
+      "game_name": "Planet Explorers",
+      "game_url": "https://ostdb.net/games/planet-explorers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27368f9bff0569210cd81bab8e9",
+      "albums": [
+        {
+          "album_name": "Planet Explorers (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/077x7nUS4x01fwGYRHKrO8",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -32131,6 +32187,20 @@
       ]
     },
     {
+      "igdb_id": 5275,
+      "game_name": "We Ski",
+      "game_url": "https://ostdb.net/games/we-ski",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a8df5cb5a9366aad790d8538",
+      "albums": [
+        {
+          "album_name": "We Ski Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0DODw8aIHiSNs26ie4W8P8",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 27310,
       "game_name": "We Were Here",
       "game_url": "https://ostdb.net/games/we-were-here",
@@ -33043,6 +33113,20 @@
       ]
     },
     {
+      "igdb_id": 3347,
+      "game_name": "X Rebirth",
+      "game_url": "https://ostdb.net/games/x-rebirth",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273da9e420dd53ce1630ad943b9",
+      "albums": [
+        {
+          "album_name": "X Rebirth (Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2cth1fsMgrnZD22ZjZ5A3P",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 55123,
       "game_name": "X4: Foundations",
       "game_url": "https://ostdb.net/games/x4-foundations",
@@ -33427,6 +33511,20 @@
         {
           "album_name": "ZombiU (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1pnC0NQYQwPZz9bNqeNt5A",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1955,
+      "game_name": "Zork: Grand Inquisitor",
+      "game_url": "https://ostdb.net/games/zork-grand-inquisitor",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736d3bb4d69c70252e9d86fbd6",
+      "albums": [
+        {
+          "album_name": "Zork: Grand Inquisitor (Music from the Interactive Video Game)",
+          "spotify_url": "https://open.spotify.com/album/4NKNBAZ0R2Yr8yLNlphYw0",
           "apple_music_url": "",
           "album_link_url": ""
         }
