@@ -2568,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teabat! | 153220 | [153220-teabat.json](./153220-teabat.json) |
 | Teach Kids Games | 339413 | [339413-teach-kids-games.json](./339413-teach-kids-games.json) |
 | Teach My Little Sister How to Drive | 373092 | [373092-teach-my-little-sister-how-to-drive.json](./373092-teach-my-little-sister-how-to-drive.json) |
+| Teacher Certification Hell | 248222 | [248222-teacher-certification-hell.json](./248222-teacher-certification-hell.json) |
 | Teacher Lady | 286441 | [286441-teacher-lady.json](./286441-teacher-lady.json) |
 | Teacher Seduction | 276160 | [276160-teacher-seduction.json](./276160-teacher-seduction.json) |
 | Teachers Secrets | 298069 | [298069-teachers-secrets.json](./298069-teachers-secrets.json) |
@@ -6691,6 +6692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crimson Debt | 290408 | [290408-the-crimson-debt.json](./290408-the-crimson-debt.json) |
 | The Crimson Diamond: Chapter 1 | 129722 | [129722-the-crimson-diamond-chapter-1.json](./129722-the-crimson-diamond-chapter-1.json) |
 | The Crimson Flower that Divides: Lunar Coupling | 221211 | [221211-the-crimson-flower-that-divides-lunar-coupling.json](./221211-the-crimson-flower-that-divides-lunar-coupling.json) |
+| The Crimson Kingdom | 247860 | [247860-the-crimson-kingdom.json](./247860-the-crimson-kingdom.json) |
 | The Crimson Line | 345043 | [345043-the-crimson-line.json](./345043-the-crimson-line.json) |
 | The Crimson Lyre | 295504 | [295504-the-crimson-lyre.json](./295504-the-crimson-lyre.json) |
 | The Crimson Maid | 279002 | [279002-the-crimson-maid.json](./279002-the-crimson-maid.json) |
@@ -9247,6 +9249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero Unmasked! | 52274 | [52274-the-hero-unmasked.json](./52274-the-hero-unmasked.json) |
 | The Hero We Need | 159023 | [159023-the-hero-we-need.json](./159023-the-hero-we-need.json) |
 | The Hero with a Thousand Arms | 242399 | [242399-the-hero-with-a-thousand-arms.json](./242399-the-hero-with-a-thousand-arms.json) |
+| The Hero's Way | 248079 | [248079-the-heros-way.json](./248079-the-heros-way.json) |
 | The Herobrine Mod | 232684 | [232684-the-herobrine-mod.json](./232684-the-herobrine-mod.json) |
 | The Heroic Knight | 388303 | [388303-the-heroic-knight.json](./388303-the-heroic-knight.json) |
 | The Heroic Legend of Eagarlnia | 120766 | [120766-the-heroic-legend-of-eagarlnia.json](./120766-the-heroic-legend-of-eagarlnia.json) |
@@ -9723,6 +9726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Interactive Adventures of Dog Mendonça and Pizzaboy | 17976 | [17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json](./17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json) |
 | The Interdiction Zone | 274191 | [274191-the-interdiction-zone.json](./274191-the-interdiction-zone.json) |
 | The Interlude | 118172 | [118172-the-interlude.json](./118172-the-interlude.json) |
+| The Intermine Legacy: I am the Darkness | 248221 | [248221-the-intermine-legacy-i-am-the-darkness.json](./248221-the-intermine-legacy-i-am-the-darkness.json) |
 | The Intern: O Estágio | 81854 | [81854-the-intern-o-estagio.json](./81854-the-intern-o-estagio.json) |
 | The Intern: Temptation at Work | 420652 | [420652-the-intern-temptation-at-work.json](./420652-the-intern-temptation-at-work.json) |
 | The Internship | 102319 | [102319-the-internship.json](./102319-the-internship.json) |
@@ -13456,6 +13460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Pearls of Borneo | 387749 | [387749-the-red-pearls-of-borneo.json](./387749-the-red-pearls-of-borneo.json) |
 | The Red Prison | 117802 | [117802-the-red-prison.json](./117802-the-red-prison.json) |
 | The Red Sea | 202335 | [202335-the-red-sea.json](./202335-the-red-sea.json) |
+| The Red Selene | 247866 | [247866-the-red-selene.json](./247866-the-red-selene.json) |
 | The Red Solstice | 6170 | [6170-the-red-solstice.json](./6170-the-red-solstice.json) |
 | The Red Square | 91344 | [91344-the-red-square.json](./91344-the-red-square.json) |
 | The Red Star | 20370 | [20370-the-red-star.json](./20370-the-red-star.json) |
@@ -16168,6 +16173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vortex: Quantum Gate II | 73235 | [73235-the-vortex-quantum-gate-ii.json](./73235-the-vortex-quantum-gate-ii.json) |
 | The Vox: Tower Defense | 163842 | [163842-the-vox-tower-defense.json](./163842-the-vox-tower-defense.json) |
 | The Voyage Sinister | 338651 | [338651-the-voyage-sinister.json](./338651-the-voyage-sinister.json) |
+| The Voyager | 248248 | [248248-the-voyager.json](./248248-the-voyager.json) |
 | The Voyager's Trail | 180757 | [180757-the-voyagers-trail.json](./180757-the-voyagers-trail.json) |
 | The VR Canyon | 126660 | [126660-the-vr-canyon.json](./126660-the-vr-canyon.json) |
 | The VR Idol lives next door!? | 303279 | [303279-the-vr-idol-lives-next-door.json](./303279-the-vr-idol-lives-next-door.json) |
@@ -27932,6 +27938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuk Tuk Extreme Simulator | 199367 | [199367-tuk-tuk-extreme-simulator.json](./199367-tuk-tuk-extreme-simulator.json) |
 | Tuk Tuk Extreme: Real Car Driving Simulator & Parking 2023 Car Games 3D Vehicle | 231230 | [231230-tuk-tuk-extreme-real-car-driving-simulator-and-parking-2023-car-games-3d-vehicle.json](./231230-tuk-tuk-extreme-real-car-driving-simulator-and-parking-2023-car-games-3d-vehicle.json) |
 | Tuk Tuk Go! | 416172 | [416172-tuk-tuk-go.json](./416172-tuk-tuk-go.json) |
+| Tuk Tuk Race | 248236 | [248236-tuk-tuk-race.json](./248236-tuk-tuk-race.json) |
 | Tuk Tuk Taxi | 272573 | [272573-tuk-tuk-taxi.json](./272573-tuk-tuk-taxi.json) |
 | Tuk Tuk Trials | 109502 | [109502-tuk-tuk-trials.json](./109502-tuk-tuk-trials.json) |
 | Tukiyono | 205668 | [205668-tukiyono.json](./205668-tukiyono.json) |
