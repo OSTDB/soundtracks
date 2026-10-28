@@ -10536,6 +10536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hustle Quest: Historia of Urth | 299155 | [299155-hustle-quest-historia-of-urth.json](./299155-hustle-quest-historia-of-urth.json) |
 | Hustle Simulator | 224980 | [224980-hustle-simulator.json](./224980-hustle-simulator.json) |
 | Hustler | 92282 | [92282-hustler.json](./92282-hustler.json) |
+| Hustlerix | 260277 | [260277-hustlerix.json](./260277-hustlerix.json) |
 | Hustomten | 167564 | [167564-hustomten.json](./167564-hustomten.json) |
 | Hutaoriji: Emoji Girl Menhera | 188360 | [188360-hutaoriji-emoji-girl-menhera.json](./188360-hutaoriji-emoji-girl-menhera.json) |
 | Huts | 129575 | [129575-huts.json](./129575-huts.json) |
