@@ -3531,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initen | 115720 | [115720-initen.json](./115720-initen.json) |
 | Initia: Elemental Arena | 32942 | [32942-initia-elemental-arena.json](./32942-initia-elemental-arena.json) |
 | Initial 2: New Stage | 107414 | [107414-initial-2-new-stage.json](./107414-initial-2-new-stage.json) |
+| Initial 2: New Stage & Xuan Yuan Sword Bundle | 268611 | [268611-initial-2-new-stage-and-xuan-yuan-sword-bundle.json](./268611-initial-2-new-stage-and-xuan-yuan-sword-bundle.json) |
 | Initial D | 43854 | [43854-initial-d.json](./43854-initial-d.json) |
 | Initial D Arcade Stage 2 | 201776 | [201776-initial-d-arcade-stage-2.json](./201776-initial-d-arcade-stage-2.json) |
 | Initial D Arcade Stage 5 | 171294 | [171294-initial-d-arcade-stage-5.json](./171294-initial-d-arcade-stage-5.json) |
