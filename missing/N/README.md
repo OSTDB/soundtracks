@@ -1447,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NecroMerger | 200549 | [200549-necromerger.json](./200549-necromerger.json) |
 | Necromon | 294096 | [294096-necromon.json](./294096-necromon.json) |
 | Necromonads | 34743 | [34743-necromonads.json](./34743-necromonads.json) |
+| Necromorphosis | 274299 | [274299-necromorphosis.json](./274299-necromorphosis.json) |
 | Necromunda: Hired Gun - Gang Wars Cosmetics Bundle | 223535 | [223535-necromunda-hired-gun-gang-wars-cosmetics-bundle.json](./223535-necromunda-hired-gun-gang-wars-cosmetics-bundle.json) |
 | Necromunda: Hired Gun - Hellhound Pack | 223536 | [223536-necromunda-hired-gun-hellhound-pack.json](./223536-necromunda-hired-gun-hellhound-pack.json) |
 | Necromunda: Underhive Wars | 26846 | [26846-necromunda-underhive-wars.json](./26846-necromunda-underhive-wars.json) |
@@ -4314,6 +4315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja | 12837 | [12837-ninja.json](./12837-ninja.json) |
 | Ninja | 217835 | [217835-ninja.json](./217835-ninja.json) |
 | Ninja | 245137 | [245137-ninja.json](./245137-ninja.json) |
+| Ninja | 274605 | [274605-ninja.json](./274605-ninja.json) |
 | Ninja 1987 | 304559 | [304559-ninja-1987.json](./304559-ninja-1987.json) |
 | Ninja Akio | 212115 | [212115-ninja-akio.json](./212115-ninja-akio.json) |
 | Ninja Arashi 2 | 223997 | [223997-ninja-arashi-2.json](./223997-ninja-arashi-2.json) |
@@ -5848,6 +5850,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norukasoruka | 398984 | [398984-norukasoruka.json](./398984-norukasoruka.json) |
 | Norukasoruka: Tanpenshuu | 398985 | [398985-norukasoruka-tanpenshuu.json](./398985-norukasoruka-tanpenshuu.json) |
 | NoRush! | 410293 | [410293-norush.json](./410293-norush.json) |
+| Norwegian Jigsaw Puzzles: Expansion Pack 2 | 274609 | [274609-norwegian-jigsaw-puzzles-expansion-pack-2.json](./274609-norwegian-jigsaw-puzzles-expansion-pack-2.json) |
+| Norwegian Jigsaw Puzzles: Expansion Pack 3 | 274608 | [274608-norwegian-jigsaw-puzzles-expansion-pack-3.json](./274608-norwegian-jigsaw-puzzles-expansion-pack-3.json) |
+| Norwegian Jigsaw Puzzles: Expansion Pack 4 | 274607 | [274607-norwegian-jigsaw-puzzles-expansion-pack-4.json](./274607-norwegian-jigsaw-puzzles-expansion-pack-4.json) |
+| Norwegian Jigsaw Puzzles: Expansion Pack 5 | 274606 | [274606-norwegian-jigsaw-puzzles-expansion-pack-5.json](./274606-norwegian-jigsaw-puzzles-expansion-pack-5.json) |
 | Nory's Escape | 96559 | [96559-norys-escape.json](./96559-norys-escape.json) |
 | Noscope Flappy: MLG Bird Version - The Parody | 348744 | [348744-noscope-flappy-mlg-bird-version-the-parody.json](./348744-noscope-flappy-mlg-bird-version-the-parody.json) |
 | Nose | 152145 | [152145-nose.json](./152145-nose.json) |
