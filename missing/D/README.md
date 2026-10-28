@@ -5671,6 +5671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonic Deckmaster | 291505 | [291505-demonic-deckmaster.json](./291505-demonic-deckmaster.json) |
 | Demonic Defence 3 | 380695 | [380695-demonic-defence-3.json](./380695-demonic-defence-3.json) |
 | Demonic Destruction! | 261451 | [261451-demonic-destruction.json](./261451-demonic-destruction.json) |
+| Demonic Deviation | 260512 | [260512-demonic-deviation.json](./260512-demonic-deviation.json) |
 | Demonic Episode | 269479 | [269479-demonic-episode.json](./269479-demonic-episode.json) |
 | Demonic Gauntlet | 403120 | [403120-demonic-gauntlet.json](./403120-demonic-gauntlet.json) |
 | Demonic Karma Summoner | 85083 | [85083-demonic-karma-summoner.json](./85083-demonic-karma-summoner.json) |
@@ -6688,6 +6689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Fantasia: Excalimurder | 274562 | [274562-detective-fantasia-excalimurder.json](./274562-detective-fantasia-excalimurder.json) |
 | Detective Firefly | 348257 | [348257-detective-firefly.json](./348257-detective-firefly.json) |
 | Detective Frizbee | 332250 | [332250-detective-frizbee.json](./332250-detective-frizbee.json) |
+| Detective Gatuma: Get a Clue! | 260846 | [260846-detective-gatuma-get-a-clue.json](./260846-detective-gatuma-get-a-clue.json) |
 | Detective Girl of the Steam City | 114576 | [114576-detective-girl-of-the-steam-city.json](./114576-detective-girl-of-the-steam-city.json) |
 | Detective Gman | 172953 | [172953-detective-gman.json](./172953-detective-gman.json) |
 | Detective Grimoire: Secret of the Swamp | 10795 | [10795-detective-grimoire-secret-of-the-swamp.json](./10795-detective-grimoire-secret-of-the-swamp.json) |
@@ -11303,6 +11305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Warrior | 59860 | [59860-doom-warrior.json](./59860-doom-warrior.json) |
 | Doom Zero | 142176 | [142176-doom-zero.json](./142176-doom-zero.json) |
 | Doom: A Very Graphic Adventure | 320788 | [320788-doom-a-very-graphic-adventure.json](./320788-doom-a-very-graphic-adventure.json) |
+| Doom: Barracks Zone | 260825 | [260825-doom-barracks-zone.json](./260825-doom-barracks-zone.json) |
 | Doom: Bloodfall | 26558 | [26558-doom-bloodfall.json](./26558-doom-bloodfall.json) |
 | DOOM: Collector's Edition | 41614 | [41614-doom-collectors-edition.json](./41614-doom-collectors-edition.json) |
 | Doom: Damnation | 276881 | [276881-doom-damnation.json](./276881-doom-damnation.json) |
@@ -16571,6 +16574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Fishing: World Games | 59898 | [59898-dynamite-fishing-world-games.json](./59898-dynamite-fishing-world-games.json) |
 | Dynamite Flare | 293616 | [293616-dynamite-flare.json](./293616-dynamite-flare.json) |
 | Dynamite Golf | 175210 | [175210-dynamite-golf.json](./175210-dynamite-golf.json) |
+| Dynamite Headdy | 260839 | [260839-dynamite-headdy.json](./260839-dynamite-headdy.json) |
 | Dynamite It! | 297087 | [297087-dynamite-it.json](./297087-dynamite-it.json) |
 | Dynamite Joe | 300545 | [300545-dynamite-joe.json](./300545-dynamite-joe.json) |
 | Dynamite Soccer 2000 | 61336 | [61336-dynamite-soccer-2000.json](./61336-dynamite-soccer-2000.json) |
