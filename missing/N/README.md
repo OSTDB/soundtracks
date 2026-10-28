@@ -1746,6 +1746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Candy Shop | 169143 | [169143-neko-candy-shop.json](./169143-neko-candy-shop.json) |
 | Neko Chan | 161596 | [161596-neko-chan.json](./161596-neko-chan.json) |
 | Neko Cosmo Police | 209482 | [209482-neko-cosmo-police.json](./209482-neko-cosmo-police.json) |
+| Neko Crush | 242134 | [242134-neko-crush.json](./242134-neko-crush.json) |
 | Neko Dai Suki! | 45257 | [45257-neko-dai-suki.json](./45257-neko-dai-suki.json) |
 | Neko Daisuki! | 19668 | [19668-neko-daisuki.json](./19668-neko-daisuki.json) |
 | Neko Dating Sim | 223395 | [223395-neko-dating-sim.json](./223395-neko-dating-sim.json) |
