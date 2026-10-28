@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Darts | 48182 | [48182-magic-darts.json](./48182-magic-darts.json) |
 | Magic Defense | 155571 | [155571-magic-defense.json](./155571-magic-defense.json) |
 | Magic Dodgeball: Homeless Edition | 361875 | [361875-magic-dodgeball-homeless-edition.json](./361875-magic-dodgeball-homeless-edition.json) |
+| Magic Doom | 275430 | [275430-magic-doom.json](./275430-magic-doom.json) |
 | Magic Duck | 287787 | [287787-magic-duck.json](./287787-magic-duck.json) |
 | Magic Duels | 17696 | [17696-magic-duels.json](./17696-magic-duels.json) |
 | Magic Dungeon Hero: Freedom or Death | 328102 | [328102-magic-dungeon-hero-freedom-or-death.json](./328102-magic-dungeon-hero-freedom-or-death.json) |
@@ -3750,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marriage to the Demon Wife! | 202197 | [202197-marriage-to-the-demon-wife.json](./202197-marriage-to-the-demon-wife.json) |
 | Married Girls' Night School | 249750 | [249750-married-girls-night-school.json](./249750-married-girls-night-school.json) |
 | Married in Red | 307253 | [307253-married-in-red.json](./307253-married-in-red.json) |
+| Married Life With a Lamia | 275440 | [275440-married-life-with-a-lamia.json](./275440-married-life-with-a-lamia.json) |
 | Married Teacher, Big-Boob Lesson | 97737 | [97737-married-teacher-big-boob-lesson.json](./97737-married-teacher-big-boob-lesson.json) |
 | Married Woman Eilla's NTR RPG: Two Man Cell Journey with Obeying a Douchey Guy | 82852 | [82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json](./82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json) |
 | Marron Helps a Friend | 122947 | [122947-marron-helps-a-friend.json](./122947-marron-helps-a-friend.json) |
@@ -9609,6 +9611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Memories | 207747 | [207747-midnight-memories.json](./207747-midnight-memories.json) |
 | Midnight Memories: Sonata of the Soul | 311278 | [311278-midnight-memories-sonata-of-the-soul.json](./311278-midnight-memories-sonata-of-the-soul.json) |
 | Midnight Monitor: Aldercourt | 287601 | [287601-midnight-monitor-aldercourt.json](./287601-midnight-monitor-aldercourt.json) |
+| Midnight Monitor: Halloween Forever | 275429 | [275429-midnight-monitor-halloween-forever.json](./275429-midnight-monitor-halloween-forever.json) |
 | Midnight Munchies | 343056 | [343056-midnight-munchies.json](./343056-midnight-munchies.json) |
 | Midnight Murder Club | 312282 | [312282-midnight-murder-club.json](./312282-midnight-murder-club.json) |
 | Midnight Murder Maze | 365255 | [365255-midnight-murder-maze.json](./365255-midnight-murder-maze.json) |
