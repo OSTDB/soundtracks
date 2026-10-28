@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewelrift | 419879 | [419879-jewelrift.json](./419879-jewelrift.json) |
 | Jewelry Hearts Academia: We Will Wing Wonder World | 210504 | [210504-jewelry-hearts-academia-we-will-wing-wonder-world.json](./210504-jewelry-hearts-academia-we-will-wing-wonder-world.json) |
 | Jewels 20 | 73583 | [73583-jewels-20.json](./73583-jewels-20.json) |
+| Jewels Collection | 246553 | [246553-jewels-collection.json](./246553-jewels-collection.json) |
 | Jewels Deluxe | 108478 | [108478-jewels-deluxe.json](./108478-jewels-deluxe.json) |
 | Jewels Fantasy | 100837 | [100837-jewels-fantasy.json](./100837-jewels-fantasy.json) |
 | Jewels Hole | 220819 | [220819-jewels-hole.json](./220819-jewels-hole.json) |
@@ -3586,6 +3587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Keep Looting | 352837 | [352837-just-keep-looting.json](./352837-just-keep-looting.json) |
 | Just Keep Running | 248325 | [248325-just-keep-running.json](./248325-just-keep-running.json) |
 | Just Kill Me. | 341133 | [341133-just-kill-me.json](./341133-just-kill-me.json) |
+| Just Kiss Her Already! | 246211 | [246211-just-kiss-her-already.json](./246211-just-kiss-her-already.json) |
 | Just Kiss Him Already! | 225310 | [225310-just-kiss-him-already.json](./225310-just-kiss-him-already.json) |
 | Just Loot | 410162 | [410162-just-loot.json](./410162-just-loot.json) |
 | Just Made a MageTower | 369628 | [369628-just-made-a-magetower.json](./369628-just-made-a-magetower.json) |
