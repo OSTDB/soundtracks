@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Ski Rush | 147714 | [147714-jet-ski-rush.json](./147714-jet-ski-rush.json) |
 | Jet Skiing | 246506 | [246506-jet-skiing.json](./246506-jet-skiing.json) |
 | Jet Skiing Race | 290899 | [290899-jet-skiing-race.json](./290899-jet-skiing-race.json) |
+| Jet Storm 2: 3D | 241573 | [241573-jet-storm-2-3d.json](./241573-jet-storm-2-3d.json) |
 | Jet Trains | 174200 | [174200-jet-trains.json](./174200-jet-trains.json) |
 | Jet Up | 264748 | [264748-jet-up.json](./264748-jet-up.json) |
 | Jet X2O | 77121 | [77121-jet-x2o.json](./77121-jet-x2o.json) |
@@ -2676,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juggernaut: The New Story For Quake II | 73647 | [73647-juggernaut-the-new-story-for-quake-ii.json](./73647-juggernaut-the-new-story-for-quake-ii.json) |
 | Juggernauts | 114503 | [114503-juggernauts.json](./114503-juggernauts.json) |
 | Juggle | 246463 | [246463-juggle.json](./246463-juggle.json) |
+| Juggle Head | 241574 | [241574-juggle-head.json](./241574-juggle-head.json) |
 | Juggle Panic | 105546 | [105546-juggle-panic.json](./105546-juggle-panic.json) |
 | Juggle Star DX | 392117 | [392117-juggle-star-dx.json](./392117-juggle-star-dx.json) |
 | Juggle Struggle | 250659 | [250659-juggle-struggle.json](./250659-juggle-struggle.json) |
