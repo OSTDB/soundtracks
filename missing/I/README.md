@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Bees 10 | 224776 | [224776-i-commissioned-some-bees-10.json](./224776-i-commissioned-some-bees-10.json) |
 | I Commissioned Some Bees 13 | 270139 | [270139-i-commissioned-some-bees-13.json](./270139-i-commissioned-some-bees-13.json) |
 | I Commissioned Some Bees 14 | 235612 | [235612-i-commissioned-some-bees-14.json](./235612-i-commissioned-some-bees-14.json) |
+| I Commissioned Some Bees 15 | 248231 | [248231-i-commissioned-some-bees-15.json](./248231-i-commissioned-some-bees-15.json) |
 | I Commissioned Some Bees 2 | 205245 | [205245-i-commissioned-some-bees-2.json](./205245-i-commissioned-some-bees-2.json) |
 | I Commissioned Some Bees 3 | 207790 | [207790-i-commissioned-some-bees-3.json](./207790-i-commissioned-some-bees-3.json) |
 | I Commissioned Some Bees 4 | 211687 | [211687-i-commissioned-some-bees-4.json](./211687-i-commissioned-some-bees-4.json) |
@@ -465,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Suck At: Word Games | 63110 | [63110-i-suck-at-word-games.json](./63110-i-suck-at-word-games.json) |
 | I Support BCRF | 335456 | [335456-i-support-bcrf.json](./335456-i-support-bcrf.json) |
 | I Suppose | 367503 | [367503-i-suppose.json](./367503-i-suppose.json) |
+| I Swear this Hentai Game was a Gift | 248246 | [248246-i-swear-this-hentai-game-was-a-gift.json](./248246-i-swear-this-hentai-game-was-a-gift.json) |
 | I Tap Pirate. A Sea Survival Adventure Game | 103535 | [103535-i-tap-pirate-a-sea-survival-adventure-game.json](./103535-i-tap-pirate-a-sea-survival-adventure-game.json) |
 | I Think | 301265 | [301265-i-think.json](./301265-i-think.json) |
 | I Think I Need Your Help | 280943 | [280943-i-think-i-need-your-help.json](./280943-i-think-i-need-your-help.json) |
