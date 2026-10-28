@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Platformer | 88053 | [88053-ball-platformer.json](./88053-ball-platformer.json) |
 | Ball Points | 304693 | [304693-ball-points.json](./304693-ball-points.json) |
 | Ball Posse | 142090 | [142090-ball-posse.json](./142090-ball-posse.json) |
+| Ball Punchers | 235432 | [235432-ball-punchers.json](./235432-ball-punchers.json) |
 | Ball Raider | 14281 | [14281-ball-raider.json](./14281-ball-raider.json) |
 | Ball Raider II | 14282 | [14282-ball-raider-ii.json](./14282-ball-raider-ii.json) |
 | Ball Ranger | 174032 | [174032-ball-ranger.json](./174032-ball-ranger.json) |
@@ -8333,6 +8334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade of Darkness | 234658 | [234658-blade-of-darkness.json](./234658-blade-of-darkness.json) |
 | Blade of Darkness | 264484 | [264484-blade-of-darkness.json](./264484-blade-of-darkness.json) |
 | Blade of Dawn | 322361 | [322361-blade-of-dawn.json](./322361-blade-of-dawn.json) |
+| Blade of Destiny: Enter the Phoenix | 235391 | [235391-blade-of-destiny-enter-the-phoenix.json](./235391-blade-of-destiny-enter-the-phoenix.json) |
 | Blade of Following | 181778 | [181778-blade-of-following.json](./181778-blade-of-following.json) |
 | Blade of God | 199905 | [199905-blade-of-god.json](./199905-blade-of-god.json) |
 | Blade of God 2 | 174805 | [174805-blade-of-god-2.json](./174805-blade-of-god-2.json) |
@@ -13922,6 +13924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Sword: The Smoking Mirror | 1150 | [1150-broken-sword-the-smoking-mirror.json](./1150-broken-sword-the-smoking-mirror.json) |
 | Broken System | 236007 | [236007-broken-system.json](./236007-broken-system.json) |
 | Broken Tactics | 211460 | [211460-broken-tactics.json](./211460-broken-tactics.json) |
+| Broken Tails | 235408 | [235408-broken-tails.json](./235408-broken-tails.json) |
 | Broken Thorns: West Gate | 158058 | [158058-broken-thorns-west-gate.json](./158058-broken-thorns-west-gate.json) |
 | Broken Thunder | 287605 | [287605-broken-thunder.json](./287605-broken-thunder.json) |
 | Broken Ties | 96684 | [96684-broken-ties.json](./96684-broken-ties.json) |
