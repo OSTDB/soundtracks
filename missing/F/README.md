@@ -2612,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastest Dialler | 105027 | [105027-fastest-dialler.json](./105027-fastest-dialler.json) |
 | Fastest Finger First! 3 Hint Quiz | 283287 | [283287-fastest-finger-first-3-hint-quiz.json](./283287-fastest-finger-first-3-hint-quiz.json) |
 | Fastest Hands in the Wasd | 167922 | [167922-fastest-hands-in-the-wasd.json](./167922-fastest-hands-in-the-wasd.json) |
+| Fastest on the Buzzer | 254630 | [254630-fastest-on-the-buzzer.json](./254630-fastest-on-the-buzzer.json) |
 | FastFly | 349895 | [349895-fastfly.json](./349895-fastfly.json) |
 | FastFWD | 183388 | [183388-fastfwd.json](./183388-fastfwd.json) |
 | FastGo Running | 104021 | [104021-fastgo-running.json](./104021-fastgo-running.json) |
@@ -4822,6 +4823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Frankie 2 | 404932 | [404932-finding-frankie-2.json](./404932-finding-frankie-2.json) |
 | Finding Hannah | 237954 | [237954-finding-hannah.json](./237954-finding-hannah.json) |
 | Finding Heart | 109911 | [109911-finding-heart.json](./109911-finding-heart.json) |
+| Finding Heidi | 254642 | [254642-finding-heidi.json](./254642-finding-heidi.json) |
 | Finding Her | 387955 | [387955-finding-her.json](./387955-finding-her.json) |
 | Finding Jack's Treasure | 95956 | [95956-finding-jacks-treasure.json](./95956-finding-jacks-treasure.json) |
 | Finding Lake Chewaucan | 410689 | [410689-finding-lake-chewaucan.json](./410689-finding-lake-chewaucan.json) |
@@ -11930,6 +11932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusing Noracam | 267090 | [267090-fusing-noracam.json](./267090-fusing-noracam.json) |
 | Fusion | 158712 | [158712-fusion.json](./158712-fusion.json) |
 | Fusion | 182822 | [182822-fusion.json](./182822-fusion.json) |
+| Fusion Bundle | 254703 | [254703-fusion-bundle.json](./254703-fusion-bundle.json) |
 | Fusion Galaxy | 395572 | [395572-fusion-galaxy.json](./395572-fusion-galaxy.json) |
 | Fusion Guards | 116450 | [116450-fusion-guards.json](./116450-fusion-guards.json) |
 | Fusion Mage | 346506 | [346506-fusion-mage.json](./346506-fusion-mage.json) |
