@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Town | 105292 | [105292-factory-town.json](./105292-factory-town.json) |
 | Factory Town 2: Paradise | 356436 | [356436-factory-town-2-paradise.json](./356436-factory-town-2-paradise.json) |
 | Factory Town: Idle | 229249 | [229249-factory-town-idle.json](./229249-factory-town-idle.json) |
+| Factory Trashcension | 236450 | [236450-factory-trashcension.json](./236450-factory-trashcension.json) |
 | Factory Works Idle | 391319 | [391319-factory-works-idle.json](./391319-factory-works-idle.json) |
 | Factory512 | 212704 | [212704-factory512.json](./212704-factory512.json) |
 | Factorybelts 2 | 76386 | [76386-factorybelts-2.json](./76386-factorybelts-2.json) |
@@ -4941,6 +4942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Tied Jr. | 197749 | [197749-finger-tied-jr.json](./197749-finger-tied-jr.json) |
 | Finger Trees | 368665 | [368665-finger-trees.json](./368665-finger-trees.json) |
 | Fingerball: Dodge The Balls | 416840 | [416840-fingerball-dodge-the-balls.json](./416840-fingerball-dodge-the-balls.json) |
+| Fingerbang: All Bullets Pointin' | 236442 | [236442-fingerbang-all-bullets-pointin.json](./236442-fingerbang-all-bullets-pointin.json) |
 | Fingerbones | 13142 | [13142-fingerbones.json](./13142-fingerbones.json) |
 | Fingerbox | 401628 | [401628-fingerbox.json](./401628-fingerbox.json) |
 | Fingercrafts | 216259 | [216259-fingercrafts.json](./216259-fingercrafts.json) |
@@ -9878,6 +9880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frayed Knights: The Skull of S'makh-Daon | 17649 | [17649-frayed-knights-the-skull-of-smakh-daon.json](./17649-frayed-knights-the-skull-of-smakh-daon.json) |
 | Frayhem | 146723 | [146723-frayhem.json](./146723-frayhem.json) |
 | Fraymakers | 141090 | [141090-fraymakers.json](./141090-fraymakers.json) |
+| Frayspace | 236457 | [236457-frayspace.json](./236457-frayspace.json) |
 | Frazzle Dazzle | 180710 | [180710-frazzle-dazzle.json](./180710-frazzle-dazzle.json) |
 | FRC 25 | 377792 | [377792-frc-25.json](./377792-frc-25.json) |
 | Freak Control | 137490 | [137490-freak-control.json](./137490-freak-control.json) |
