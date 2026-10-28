@@ -13147,6 +13147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mona | 212161 | [212161-mona.json](./212161-mona.json) |
 | Mona | 217473 | [217473-mona.json](./217473-mona.json) |
 | Mona and the Witch's Hat | 195210 | [195210-mona-and-the-witchs-hat.json](./195210-mona-and-the-witchs-hat.json) |
+| Mona and the Witch's Hat Deluxe | 230458 | [230458-mona-and-the-witchs-hat-deluxe.json](./230458-mona-and-the-witchs-hat-deluxe.json) |
 | Monaco | 178055 | [178055-monaco.json](./178055-monaco.json) |
 | Monaco 2 | 194505 | [194505-monaco-2.json](./194505-monaco-2.json) |
 | Monaco 360: Retro Racing | 68556 | [68556-monaco-360-retro-racing.json](./68556-monaco-360-retro-racing.json) |
