@@ -6676,6 +6676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheepless Nights | 135082 | [135082-sheepless-nights.json](./135082-sheepless-nights.json) |
 | Sheeplings | 203522 | [203522-sheeplings.json](./203522-sheeplings.json) |
 | Sheeplings | 25508 | [25508-sheeplings.json](./25508-sheeplings.json) |
+| Sheepong | 268841 | [268841-sheepong.json](./268841-sheepong.json) |
 | Sheeps | 391303 | [391303-sheeps.json](./391303-sheeps.json) |
 | Sheepwith | 114726 | [114726-sheepwith.json](./114726-sheepwith.json) |
 | Sheepy | 300738 | [300738-sheepy.json](./300738-sheepy.json) |
@@ -27215,6 +27216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario brasileiro | 267931 | [267931-super-mario-brasileiro.json](./267931-super-mario-brasileiro.json) |
 | Super Mario Bratarsi | 323361 | [323361-super-mario-bratarsi.json](./323361-super-mario-bratarsi.json) |
 | Super Mario Bro-op | 294574 | [294574-super-mario-bro-op.json](./294574-super-mario-bro-op.json) |
+| Super Mario Bros 2: Mega Mario X | 269136 | [269136-super-mario-bros-2-mega-mario-x.json](./269136-super-mario-bros-2-mega-mario-x.json) |
 | Super Mario Bros 3000 | 250057 | [250057-super-mario-bros-3000.json](./250057-super-mario-bros-3000.json) |
 | Super Mario Bros 4: Escapade | 318550 | [318550-super-mario-bros-4-escapade.json](./318550-super-mario-bros-4-escapade.json) |
 | Super Mario Bros Galaxy DS | 146354 | [146354-super-mario-bros-galaxy-ds.json](./146354-super-mario-bros-galaxy-ds.json) |
