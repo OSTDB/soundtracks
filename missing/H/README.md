@@ -1742,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HaremMate | 22482 | [22482-haremmate.json](./22482-haremmate.json) |
 | HaremRoid VR | 279668 | [279668-haremroid-vr.json](./279668-haremroid-vr.json) |
 | Hareraiser II | 238889 | [238889-hareraiser-ii.json](./238889-hareraiser-ii.json) |
+| Hareraiser: Finale | 276008 | [276008-hareraiser-finale.json](./276008-hareraiser-finale.json) |
 | Hareshi Moyakana | 274989 | [274989-hareshi-moyakana.json](./274989-hareshi-moyakana.json) |
 | Hariti | 406882 | [406882-hariti.json](./406882-hariti.json) |
 | Harker | 79127 | [79127-harker.json](./79127-harker.json) |
