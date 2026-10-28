@@ -4873,6 +4873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nix: Ashes of the Phoenix | 242601 | [242601-nix-ashes-of-the-phoenix.json](./242601-nix-ashes-of-the-phoenix.json) |
 | Nix: The Paradox Relic | 410043 | [410043-nix-the-paradox-relic.json](./410043-nix-the-paradox-relic.json) |
 | Nixie | 267690 | [267690-nixie.json](./267690-nixie.json) |
+| Nixxsz Castle | 234276 | [234276-nixxsz-castle.json](./234276-nixxsz-castle.json) |
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
 | Nixy and the Seeds of Doom | 363459 | [363459-nixy-and-the-seeds-of-doom.json](./363459-nixy-and-the-seeds-of-doom.json) |
 | Nizero Shogi | 361584 | [361584-nizero-shogi.json](./361584-nizero-shogi.json) |
