@@ -2316,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave the Diver: Potion Craft | 314279 | [314279-dave-the-diver-potion-craft.json](./314279-dave-the-diver-potion-craft.json) |
 | Dave Winfield's Batter Up! | 111897 | [111897-dave-winfields-batter-up.json](./111897-dave-winfields-batter-up.json) |
 | Dave-Man | 126517 | [126517-dave-man.json](./126517-dave-man.json) |
+| Dave.exe | 276020 | [276020-dave-exe.json](./276020-dave-exe.json) |
 | Dave's Fun Algebra Class: Remastered | 264794 | [264794-daves-fun-algebra-class-remastered.json](./264794-daves-fun-algebra-class-remastered.json) |
 | Dave's Word Game | 381590 | [381590-daves-word-game.json](./381590-daves-word-game.json) |
 | Davey | 195580 | [195580-davey.json](./195580-davey.json) |
@@ -8275,6 +8276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Hunting Patrol 3D Jurassic VR | 160142 | [160142-dinosaur-hunting-patrol-3d-jurassic-vr.json](./160142-dinosaur-hunting-patrol-3d-jurassic-vr.json) |
 | Dinosaur Hunting: Ushinawareta Daichi | 85950 | [85950-dinosaur-hunting-ushinawareta-daichi.json](./85950-dinosaur-hunting-ushinawareta-daichi.json) |
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
+| Dinosaur Island Escape | 276026 | [276026-dinosaur-island-escape.json](./276026-dinosaur-island-escape.json) |
 | Dinosaur Jigsaw Puzzles - Kids Games for Toddlers | 86831 | [86831-dinosaur-jigsaw-puzzles-kids-games-for-toddlers.json](./86831-dinosaur-jigsaw-puzzles-kids-games-for-toddlers.json) |
 | Dinosaur King | 140907 | [140907-dinosaur-king.json](./140907-dinosaur-king.json) |
 | Dinosaur King | 48042 | [48042-dinosaur-king.json](./48042-dinosaur-king.json) |
@@ -12125,6 +12127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mario | 3476 | [3476-dr-mario.json](./3476-dr-mario.json) |
 | Dr. Mario 64 | 3475 | [3475-dr-mario-64.json](./3475-dr-mario-64.json) |
 | Dr. Mario BS Ban | 134437 | [134437-dr-mario-bs-ban.json](./134437-dr-mario-bs-ban.json) |
+| Dr. Mario DX | 276341 | [276341-dr-mario-dx.json](./276341-dr-mario-dx.json) |
 | Dr. Mario Express | 47847 | [47847-dr-mario-express.json](./47847-dr-mario-express.json) |
 | Dr. Mario Mania | 357345 | [357345-dr-mario-mania.json](./357345-dr-mario-mania.json) |
 | Dr. Mario Online Rx | 21910 | [21910-dr-mario-online-rx.json](./21910-dr-mario-online-rx.json) |
@@ -13707,6 +13710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Time | 152928 | [152928-dream-time.json](./152928-dream-time.json) |
 | Dream Tower | 357462 | [357462-dream-tower.json](./357462-dream-tower.json) |
 | Dream Tower | 409878 | [409878-dream-tower.json](./409878-dream-tower.json) |
+| Dream Town Story | 276329 | [276329-dream-town-story.json](./276329-dream-town-story.json) |
 | Dream Track Nation | 92482 | [92482-dream-track-nation.json](./92482-dream-track-nation.json) |
 | Dream Travel Agency! | 197244 | [197244-dream-travel-agency.json](./197244-dream-travel-agency.json) |
 | Dream Trials | 371412 | [371412-dream-trials.json](./371412-dream-trials.json) |
