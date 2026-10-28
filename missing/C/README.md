@@ -280,6 +280,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Haven | 406157 | [406157-cafe-haven.json](./406157-cafe-haven.json) |
 | Cafe in the Clouds | 175923 | [175923-cafe-in-the-clouds.json](./175923-cafe-in-the-clouds.json) |
 | Cafe Junkie | 59174 | [59174-cafe-junkie.json](./59174-cafe-junkie.json) |
+| Cafe Lindbergh: Summer Season | 269392 | [269392-cafe-lindbergh-summer-season.json](./269392-cafe-lindbergh-summer-season.json) |
+| Cafe Little Wish: Mahou no Recipe | 269393 | [269393-cafe-little-wish-mahou-no-recipe.json](./269393-cafe-little-wish-mahou-no-recipe.json) |
 | Cafe ma Cherie: Otome of Ikemen Cafe | 254947 | [254947-cafe-ma-cherie-otome-of-ikemen-cafe.json](./254947-cafe-ma-cherie-otome-of-ikemen-cafe.json) |
 | Café Machina | 414295 | [414295-cafe-machina.json](./414295-cafe-machina.json) |
 | Cafe Mahjongg | 52720 | [52720-cafe-mahjongg.json](./52720-cafe-mahjongg.json) |
@@ -857,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cambrian Crawl | 404981 | [404981-cambrian-crawl.json](./404981-cambrian-crawl.json) |
 | Cambrian Dawn | 226280 | [226280-cambrian-dawn.json](./226280-cambrian-dawn.json) |
 | Cambrian Dawn: Biceratopsidae DLC | 253207 | [253207-cambrian-dawn-biceratopsidae-dlc.json](./253207-cambrian-dawn-biceratopsidae-dlc.json) |
+| Cambrian QTS: Kaseki ni Natte mo | 269394 | [269394-cambrian-qts-kaseki-ni-natte-mo.json](./269394-cambrian-qts-kaseki-ni-natte-mo.json) |
 | Camega | 202808 | [202808-camega.json](./202808-camega.json) |
 | Camel | 169914 | [169914-camel.json](./169914-camel.json) |
 | Camel Up | 197715 | [197715-camel-up.json](./197715-camel-up.json) |
@@ -2536,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart Farmer | 177743 | [177743-cart-farmer.json](./177743-cart-farmer.json) |
 | Cart Fury | 43275 | [43275-cart-fury.json](./43275-cart-fury.json) |
 | Cart Fury: Championship Racing | 78637 | [78637-cart-fury-championship-racing.json](./78637-cart-fury-championship-racing.json) |
+| Cart Kings | 269409 | [269409-cart-kings.json](./269409-cart-kings.json) |
 | Cart Legends | 258329 | [258329-cart-legends.json](./258329-cart-legends.json) |
 | Cart Panic! OS: E-Commerce Tycoon | 402494 | [402494-cart-panic-os-e-commerce-tycoon.json](./402494-cart-panic-os-e-commerce-tycoon.json) |
 | Cart Precision Racing | 627 | [627-cart-precision-racing.json](./627-cart-precision-racing.json) |
@@ -6534,6 +6538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate Parade | 412912 | [412912-chocolate-parade.json](./412912-chocolate-parade.json) |
 | Chocolate Roll For Two | 178602 | [178602-chocolate-roll-for-two.json](./178602-chocolate-roll-for-two.json) |
 | Chocolate Shop Frenzy | 356687 | [356687-chocolate-shop-frenzy.json](./356687-chocolate-shop-frenzy.json) |
+| Chocolate Sunday | 269694 | [269694-chocolate-sunday.json](./269694-chocolate-sunday.json) |
 | Chocolatic Wars | 376685 | [376685-chocolatic-wars.json](./376685-chocolatic-wars.json) |
 | Chocolatier | 85999 | [85999-chocolatier.json](./85999-chocolatier.json) |
 | Chocolatio | 281996 | [281996-chocolatio.json](./281996-chocolatio.json) |
