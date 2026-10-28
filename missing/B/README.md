@@ -835,7 +835,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6577,6 +6576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Shot Basketball | 116160 | [116160-big-shot-basketball.json](./116160-big-shot-basketball.json) |
 | Big Shot Boxing | 88993 | [88993-big-shot-boxing.json](./88993-big-shot-boxing.json) |
 | Big Shot Swish | 120804 | [120804-big-shot-swish.json](./120804-big-shot-swish.json) |
+| Big Shots | 275751 | [275751-big-shots.json](./275751-big-shots.json) |
 | Big Sister's Ass | 97834 | [97834-big-sisters-ass.json](./97834-big-sisters-ass.json) |
 | Big Sky | 52461 | [52461-big-sky.json](./52461-big-sky.json) |
 | Big Sky Country: Book 1 | 313717 | [313717-big-sky-country-book-1.json](./313717-big-sky-country-book-1.json) |
@@ -11035,6 +11035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoneCraft | 51268 | [51268-bonecraft.json](./51268-bonecraft.json) |
 | Boned Again: Survivors | 362185 | [362185-boned-again-survivors.json](./362185-boned-again-survivors.json) |
 | Bonedle | 379170 | [379170-bonedle.json](./379170-bonedle.json) |
+| BoneField: Bodycam Horror | 275414 | [275414-bonefield-bodycam-horror.json](./275414-bonefield-bodycam-horror.json) |
 | Bonehammer | 331791 | [331791-bonehammer.json](./331791-bonehammer.json) |
 | Bonehearts | 395147 | [395147-bonehearts.json](./395147-bonehearts.json) |
 | Bonehold | 366910 | [366910-bonehold.json](./366910-bonehold.json) |
@@ -11372,6 +11373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boong-Ga Boong-Ga | 58738 | [58738-boong-ga-boong-ga.json](./58738-boong-ga-boong-ga.json) |
 | Boong?!: Die ultimatiefe Fußballsimulation | 100056 | [100056-boong-die-ultimatiefe-fu-ballsimulation.json](./100056-boong-die-ultimatiefe-fu-ballsimulation.json) |
 | Boonka | 317386 | [317386-boonka.json](./317386-boonka.json) |
+| Boons & Burdens | 275412 | [275412-boons-and-burdens.json](./275412-boons-and-burdens.json) |
 | Boons Farm | 108043 | [108043-boons-farm.json](./108043-boons-farm.json) |
 | Booobjz | 157388 | [157388-booobjz.json](./157388-booobjz.json) |
 | Booom-Slang! | 309628 | [309628-booom-slang.json](./309628-booom-slang.json) |
@@ -14452,6 +14454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Blitz | 41146 | [41146-bug-blitz.json](./41146-bug-blitz.json) |
 | Bug Bomb | 15689 | [15689-bug-bomb.json](./15689-bug-bomb.json) |
 | Bug Bomber | 14351 | [14351-bug-bomber.json](./14351-bug-bomber.json) |
+| Bug Bots | 275749 | [275749-bug-bots.json](./275749-bug-bots.json) |
 | Bug Bounce | 401068 | [401068-bug-bounce.json](./401068-bug-bounce.json) |
 | Bug Bunny: Discontroll | 373729 | [373729-bug-bunny-discontroll.json](./373729-bug-bunny-discontroll.json) |
 | Bug Busters | 271389 | [271389-bug-busters.json](./271389-bug-busters.json) |
