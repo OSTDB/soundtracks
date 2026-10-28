@@ -15041,6 +15041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automata 10 Pack Volume 2 | 258188 | [258188-automata-10-pack-volume-2.json](./258188-automata-10-pack-volume-2.json) |
 | Automata Break | 139455 | [139455-automata-break.json](./139455-automata-break.json) |
 | Automata Streetcar | 303903 | [303903-automata-streetcar.json](./303903-automata-streetcar.json) |
+| Automate Defend Repeat | 258069 | [258069-automate-defend-repeat.json](./258069-automate-defend-repeat.json) |
 | Automate It | 295288 | [295288-automate-it.json](./295288-automate-it.json) |
 | Automatic Flips | 409754 | [409754-automatic-flips.json](./409754-automatic-flips.json) |
 | Automatic Kingdom | 347015 | [347015-automatic-kingdom.json](./347015-automatic-kingdom.json) |
