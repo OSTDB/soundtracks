@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Graveyard for Dreams | 182105 | [182105-a-graveyard-for-dreams.json](./182105-a-graveyard-for-dreams.json) |
 | A Gravity Conspiracy | 316462 | [316462-a-gravity-conspiracy.json](./316462-a-gravity-conspiracy.json) |
 | A Great Day at the Races | 45946 | [45946-a-great-day-at-the-races.json](./45946-a-great-day-at-the-races.json) |
+| A Great Escape | 237002 | [237002-a-great-escape.json](./237002-a-great-escape.json) |
 | A Grim Chase | 407948 | [407948-a-grim-chase.json](./407948-a-grim-chase.json) |
 | A Grim Granny | 407959 | [407959-a-grim-granny.json](./407959-a-grim-granny.json) |
 | A Grim Tale of Vices | 115389 | [115389-a-grim-tale-of-vices.json](./115389-a-grim-tale-of-vices.json) |
@@ -1887,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss | 131223 | [131223-abyss.json](./131223-abyss.json) |
 | Abyss | 193294 | [193294-abyss.json](./193294-abyss.json) |
 | Abyss | 210669 | [210669-abyss.json](./210669-abyss.json) |
+| Abyss | 237021 | [237021-abyss.json](./237021-abyss.json) |
 | Abyss | 249689 | [249689-abyss.json](./249689-abyss.json) |
 | Abyss | 414121 | [414121-abyss.json](./414121-abyss.json) |
 | Abyss | 80512 | [80512-abyss.json](./80512-abyss.json) |
