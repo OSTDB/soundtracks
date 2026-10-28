@@ -5753,6 +5753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Even For Eternia | 116887 | [116887-even-for-eternia.json](./116887-even-for-eternia.json) |
 | Even Heroes Die | 197217 | [197217-even-heroes-die.json](./197217-even-heroes-die.json) |
 | Even if Tempest | 186104 | [186104-even-if-tempest.json](./186104-even-if-tempest.json) |
+| Even if Tempest: Dawning Connections | 246560 | [246560-even-if-tempest-dawning-connections.json](./246560-even-if-tempest-dawning-connections.json) |
 | Even in Arcadia | 135022 | [135022-even-in-arcadia.json](./135022-even-in-arcadia.json) |
 | Even in Arcadia, There I Am | 136421 | [136421-even-in-arcadia-there-i-am.json](./136421-even-in-arcadia-there-i-am.json) |
 | Even Lovers Drown | 408772 | [408772-even-lovers-drown.json](./408772-even-lovers-drown.json) |
@@ -6859,6 +6860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploration Pro | 103971 | [103971-exploration-pro.json](./103971-exploration-pro.json) |
 | Exploration Space | 96846 | [96846-exploration-space.json](./96846-exploration-space.json) |
 | Exploration: Light | 269987 | [269987-exploration-light.json](./269987-exploration-light.json) |
+| Explore | 246441 | [246441-explore.json](./246441-explore.json) |
 | Explore | 259720 | [259720-explore.json](./259720-explore.json) |
 | Explore Inc | 179030 | [179030-explore-inc.json](./179030-explore-inc.json) |
 | Explore Jam 1 | 275319 | [275319-explore-jam-1.json](./275319-explore-jam-1.json) |
