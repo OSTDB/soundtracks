@@ -7728,6 +7728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plan 9 From Planet Kr1x | 301114 | [301114-plan-9-from-planet-kr1x.json](./301114-plan-9-from-planet-kr1x.json) |
 | Plan B: Goddess's cards | 215700 | [215700-plan-b-goddesss-cards.json](./215700-plan-b-goddesss-cards.json) |
 | Plan B: Terraform | 226719 | [226719-plan-b-terraform.json](./226719-plan-b-terraform.json) |
+| Plan Bee | 278842 | [278842-plan-bee.json](./278842-plan-bee.json) |
 | Plan it Green | 10703 | [10703-plan-it-green.json](./10703-plan-it-green.json) |
 | Plan Z Chapter 1 | 32420 | [32420-plan-z-chapter-1.json](./32420-plan-z-chapter-1.json) |
 | Plana Gravatatis | 135076 | [135076-plana-gravatatis.json](./135076-plana-gravatatis.json) |
