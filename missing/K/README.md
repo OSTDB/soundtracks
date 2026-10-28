@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaboom! | 198790 | [198790-kaboom.json](./198790-kaboom.json) |
 | Kaboom! | 234092 | [234092-kaboom.json](./234092-kaboom.json) |
 | Kabu Trader Shun | 123337 | [123337-kabu-trader-shun.json](./123337-kabu-trader-shun.json) |
+| Kabufuda | 276871 | [276871-kabufuda.json](./276871-kabufuda.json) |
 | Kabuki Fire | 352322 | [352322-kabuki-fire.json](./352322-kabuki-fire.json) |
 | Kabuki Rocks | 37971 | [37971-kabuki-rocks.json](./37971-kabuki-rocks.json) |
 | Kabuki Warriors | 5873 | [5873-kabuki-warriors.json](./5873-kabuki-warriors.json) |
