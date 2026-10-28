@@ -4425,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Covid | 368684 | [368684-escape-from-covid.json](./368684-escape-from-covid.json) |
 | Escape From Cozy Island | 98776 | [98776-escape-from-cozy-island.json](./98776-escape-from-cozy-island.json) |
 | Escape from Crimson Manor | 196603 | [196603-escape-from-crimson-manor.json](./196603-escape-from-crimson-manor.json) |
+| Escape From Crimson Manor: Trapped Together | 251772 | [251772-escape-from-crimson-manor-trapped-together.json](./251772-escape-from-crimson-manor-trapped-together.json) |
 | Escape From Crypt | 388302 | [388302-escape-from-crypt.json](./388302-escape-from-crypt.json) |
 | Escape from Cyber City | 45931 | [45931-escape-from-cyber-city.json](./45931-escape-from-cyber-city.json) |
 | Escape From Darkmoor Manor | 36105 | [36105-escape-from-darkmoor-manor.json](./36105-escape-from-darkmoor-manor.json) |
