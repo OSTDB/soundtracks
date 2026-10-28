@@ -4828,6 +4828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defcon 5 | 39776 | [39776-defcon-5.json](./39776-defcon-5.json) |
 | DEFCON VR | 27325 | [27325-defcon-vr.json](./27325-defcon-vr.json) |
 | Defcon-2: Missiles of October | 107105 | [107105-defcon-2-missiles-of-october.json](./107105-defcon-2-missiles-of-october.json) |
+| Defcon: Xenos | 231174 | [231174-defcon-xenos.json](./231174-defcon-xenos.json) |
 | Defe the Defender | 344972 | [344972-defe-the-defender.json](./344972-defe-the-defender.json) |
 | Defeat Akali | 138079 | [138079-defeat-akali.json](./138079-defeat-akali.json) |
 | Defeat Me | 321507 | [321507-defeat-me.json](./321507-defeat-me.json) |
@@ -5483,6 +5484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolish & Build | 135607 | [135607-demolish-and-build.json](./135607-demolish-and-build.json) |
 | Demolish & Build 2017 | 24941 | [24941-demolish-and-build-2017.json](./24941-demolish-and-build-2017.json) |
 | Demolish & Build 2018 | 90102 | [90102-demolish-and-build-2018.json](./90102-demolish-and-build-2018.json) |
+| Demolish & Build Classic | 231580 | [231580-demolish-and-build-classic.json](./231580-demolish-and-build-classic.json) |
 | Demolish Derby: Nitro-Battle | 219471 | [219471-demolish-derby-nitro-battle.json](./219471-demolish-derby-nitro-battle.json) |
 | Demolish Fist | 39445 | [39445-demolish-fist.json](./39445-demolish-fist.json) |
 | Demolish or Die | 219239 | [219239-demolish-or-die.json](./219239-demolish-or-die.json) |
@@ -5571,6 +5573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Hunters | 332447 | [332447-demon-hunters.json](./332447-demon-hunters.json) |
 | Demon Hunting Diary | 296889 | [296889-demon-hunting-diary.json](./296889-demon-hunting-diary.json) |
 | Demon Huntress | 399625 | [399625-demon-huntress.json](./399625-demon-huntress.json) |
+| Demon Invasion: Endless | 231588 | [231588-demon-invasion-endless.json](./231588-demon-invasion-endless.json) |
 | Demon Island | 298519 | [298519-demon-island.json](./298519-demon-island.json) |
 | Demon Island Massacre | 270178 | [270178-demon-island-massacre.json](./270178-demon-island-massacre.json) |
 | Demon Itself | 370124 | [370124-demon-itself.json](./370124-demon-itself.json) |
@@ -7064,6 +7067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Island | 313102 | [313102-devils-island.json](./313102-devils-island.json) |
 | Devil's Island Pinball | 70331 | [70331-devils-island-pinball.json](./70331-devils-island-pinball.json) |
 | Devil's Kiss | 130127 | [130127-devils-kiss.json](./130127-devils-kiss.json) |
+| Devil's Liminal | 231173 | [231173-devils-liminal.json](./231173-devils-liminal.json) |
 | Devil's Logic | 405765 | [405765-devils-logic.json](./405765-devils-logic.json) |
 | Devil's Mansion | 267318 | [267318-devils-mansion.json](./267318-devils-mansion.json) |
 | Devil's Menu | 372588 | [372588-devils-menu.json](./372588-devils-menu.json) |
@@ -9698,6 +9702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DK Jungle Climber 64 DS | 315006 | [315006-dk-jungle-climber-64-ds.json](./315006-dk-jungle-climber-64-ds.json) |
 | DK Online | 114508 | [114508-dk-online.json](./114508-dk-online.json) |
 | DK: Jungle Climber | 1099 | [1099-dk-jungle-climber.json](./1099-dk-jungle-climber.json) |
+| DK: Jungle Climber - Rolling Panic | 231581 | [231581-dk-jungle-climber-rolling-panic.json](./231581-dk-jungle-climber-rolling-panic.json) |
 | DK: King of Swing - Hurling for Distance | 231633 | [231633-dk-king-of-swing-hurling-for-distance.json](./231633-dk-king-of-swing-hurling-for-distance.json) |
 | DK: King of Swing Remix | 298941 | [298941-dk-king-of-swing-remix.json](./298941-dk-king-of-swing-remix.json) |
 | DK64 Randomizer | 206186 | [206186-dk64-randomizer.json](./206186-dk64-randomizer.json) |
@@ -14281,6 +14286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift 'n' Burn 2: My Racer | 280966 | [280966-drift-n-burn-2-my-racer.json](./280966-drift-n-burn-2-my-racer.json) |
 | Drift 'n' Burn 365 | 280965 | [280965-drift-n-burn-365.json](./280965-drift-n-burn-365.json) |
 | Drift 'N' Thrift | 311663 | [311663-drift-n-thrift.json](./311663-drift-n-thrift.json) |
+| Drift & Drive | 231578 | [231578-drift-and-drive.json](./231578-drift-and-drive.json) |
 | Drift 19 | 47161 | [47161-drift-19.json](./47161-drift-19.json) |
 | Drift 1969 | 384558 | [384558-drift-1969.json](./384558-drift-1969.json) |
 | Drift 4000 | 100352 | [100352-drift-4000.json](./100352-drift-4000.json) |
@@ -16608,6 +16614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyebreaker | 349389 | [349389-dyebreaker.json](./349389-dyebreaker.json) |
 | Dyed in White | 385633 | [385633-dyed-in-white.json](./385633-dyed-in-white.json) |
 | Dyer Expedition | 235626 | [235626-dyer-expedition.json](./235626-dyer-expedition.json) |
+| Dyestributor | 231569 | [231569-dyestributor.json](./231569-dyestributor.json) |
 | Dyflexion | 189067 | [189067-dyflexion.json](./189067-dyflexion.json) |
 | Dyg | 208581 | [208581-dyg.json](./208581-dyg.json) |
 | Dyger | 39673 | [39673-dyger.json](./39673-dyger.json) |
