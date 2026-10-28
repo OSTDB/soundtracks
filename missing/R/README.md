@@ -4767,6 +4767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 2: Dual Shock Ver. | 213875 | [213875-resident-evil-2-dual-shock-ver.json](./213875-resident-evil-2-dual-shock-ver.json) |
 | Resident Evil 2: Extra DLC Pack | 164773 | [164773-resident-evil-2-extra-dlc-pack.json](./164773-resident-evil-2-extra-dlc-pack.json) |
 | Resident Evil 2: Kendo's Cut | 225802 | [225802-resident-evil-2-kendos-cut.json](./225802-resident-evil-2-kendos-cut.json) |
+| Resident Evil 2: Kendo's Cut - Uncut | 267758 | [267758-resident-evil-2-kendos-cut-uncut.json](./267758-resident-evil-2-kendos-cut-uncut.json) |
 | Resident Evil 2: Leon Costume '98 | 327114 | [327114-resident-evil-2-leon-costume-98.json](./327114-resident-evil-2-leon-costume-98.json) |
 | Resident Evil 2: Marvin's Mod | 333762 | [333762-resident-evil-2-marvins-mod.json](./333762-resident-evil-2-marvins-mod.json) |
 | Resident Evil 2: Pix' N Love Limited Edition | 221404 | [221404-resident-evil-2-pix-n-love-limited-edition.json](./221404-resident-evil-2-pix-n-love-limited-edition.json) |
