@@ -2984,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartstop | 199510 | [199510-heartstop.json](./199510-heartstop.json) |
 | Heartstrings | 202371 | [202371-heartstrings.json](./202371-heartstrings.json) |
 | HeartWeaver | 322090 | [322090-heartweaver.json](./322090-heartweaver.json) |
+| Heartwell | 276873 | [276873-heartwell.json](./276873-heartwell.json) |
 | Heartwild Solitaire Book One | 88737 | [88737-heartwild-solitaire-book-one.json](./88737-heartwild-solitaire-book-one.json) |
 | Heartwild Solitaire: Book Two | 96852 | [96852-heartwild-solitaire-book-two.json](./96852-heartwild-solitaire-book-two.json) |
 | Heartwood | 140954 | [140954-heartwood.json](./140954-heartwood.json) |
@@ -3662,6 +3663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helldivers: Vehicles Pack | 167665 | [167665-helldivers-vehicles-pack.json](./167665-helldivers-vehicles-pack.json) |
 | Helldivers: Weapons Pack | 167663 | [167663-helldivers-weapons-pack.json](./167663-helldivers-weapons-pack.json) |
 | Helle's Undersea City Project: Bringing Air to The Garden | 266092 | [266092-helles-undersea-city-project-bringing-air-to-the-garden.json](./266092-helles-undersea-city-project-bringing-air-to-the-garden.json) |
+| Helle's Undersea City Project: Bringing Air to The Garden - Nakino Mashiro | 276573 | [276573-helles-undersea-city-project-bringing-air-to-the-garden-nakino-mashiro.json](./276573-helles-undersea-city-project-bringing-air-to-the-garden-nakino-mashiro.json) |
 | Helleidoscope | 364674 | [364674-helleidoscope.json](./364674-helleidoscope.json) |
 | Hellementalz | 19213 | [19213-hellementalz.json](./19213-hellementalz.json) |
 | Hellen's Gallery | 269290 | [269290-hellens-gallery.json](./269290-hellens-gallery.json) |
@@ -8250,6 +8252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hood: Outlaws & Legends - Year 1 Edition | 169193 | [169193-hood-outlaws-and-legends-year-1-edition.json](./169193-hood-outlaws-and-legends-year-1-edition.json) |
 | Hoodbound | 394478 | [394478-hoodbound.json](./394478-hoodbound.json) |
 | Hooded Horse 4X Strategy Bundle | 231755 | [231755-hooded-horse-4x-strategy-bundle.json](./231755-hooded-horse-4x-strategy-bundle.json) |
+| Hoodgang Simulator | 276872 | [276872-hoodgang-simulator.json](./276872-hoodgang-simulator.json) |
 | Hoodies Squad: Alcoholypse | 298115 | [298115-hoodies-squad-alcoholypse.json](./298115-hoodies-squad-alcoholypse.json) |
 | Hoodo | 122015 | [122015-hoodo.json](./122015-hoodo.json) |
 | Hoodoo Voodoo | 13879 | [13879-hoodoo-voodoo.json](./13879-hoodoo-voodoo.json) |
@@ -10270,6 +10273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter | 367139 | [367139-hunter.json](./367139-hunter.json) |
 | Hunter | 409230 | [409230-hunter.json](./409230-hunter.json) |
 | Hunter A Hunter | 192461 | [192461-hunter-a-hunter.json](./192461-hunter-a-hunter.json) |
+| Hunter and Scorpion's Bet ReVised: Hunter's Path | 276885 | [276885-hunter-and-scorpions-bet-revised-hunters-path.json](./276885-hunter-and-scorpions-bet-revised-hunters-path.json) |
 | Hunter and Tavern | 374664 | [374664-hunter-and-tavern.json](./374664-hunter-and-tavern.json) |
 | Hunter Assassin | 130293 | [130293-hunter-assassin.json](./130293-hunter-assassin.json) |
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
