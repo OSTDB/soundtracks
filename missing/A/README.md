@@ -3327,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adverse Effects | 258882 | [258882-adverse-effects.json](./258882-adverse-effects.json) |
 | Adversity Andy | 178302 | [178302-adversity-andy.json](./178302-adversity-andy.json) |
 | Advertising Agency | 134377 | [134377-advertising-agency.json](./134377-advertising-agency.json) |
+| Advise the King | 229941 | [229941-advise-the-king.json](./229941-advise-the-king.json) |
 | Advisor: Elderly Paradigm | 383081 | [383081-advisor-elderly-paradigm.json](./383081-advisor-elderly-paradigm.json) |
 | Advisors at the End of the Universe | 122184 | [122184-advisors-at-the-end-of-the-universe.json](./122184-advisors-at-the-end-of-the-universe.json) |
 | AE Mini Game Collection | 279599 | [279599-ae-mini-game-collection.json](./279599-ae-mini-game-collection.json) |
@@ -12777,6 +12778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aruna | 167889 | [167889-aruna.json](./167889-aruna.json) |
 | Aruruu to Asobo!! | 317805 | [317805-aruruu-to-asobo.json](./317805-aruruu-to-asobo.json) |
 | Arvale | 14787 | [14787-arvale.json](./14787-arvale.json) |
+| ARVI Arena | 229909 | [229909-arvi-arena.json](./229909-arvi-arena.json) |
 | Arvis Knock Out! | 346379 | [346379-arvis-knock-out.json](./346379-arvis-knock-out.json) |
 | Arvis Punch | 329015 | [329015-arvis-punch.json](./329015-arvis-punch.json) |
 | Arvis Punch 2 | 346380 | [346380-arvis-punch-2.json](./346380-arvis-punch-2.json) |
@@ -13281,6 +13283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Mirage: The Forty Thieves | 314612 | [314612-assassins-creed-mirage-the-forty-thieves.json](./314612-assassins-creed-mirage-the-forty-thieves.json) |
 | Assassin's Creed Mythology Pack | 218994 | [218994-assassins-creed-mythology-pack.json](./218994-assassins-creed-mythology-pack.json) |
 | Assassin's Creed Odyssey: Legacy of the First Blade | 112732 | [112732-assassins-creed-odyssey-legacy-of-the-first-blade.json](./112732-assassins-creed-odyssey-legacy-of-the-first-blade.json) |
+| Assassin's Creed Odyssey: Omega Edition | 229492 | [229492-assassins-creed-odyssey-omega-edition.json](./229492-assassins-creed-odyssey-omega-edition.json) |
 | Assassin's Creed Odyssey: The Blind King | 241432 | [241432-assassins-creed-odyssey-the-blind-king.json](./241432-assassins-creed-odyssey-the-blind-king.json) |
 | Assassin's Creed Odyssey: The Fate of Atlantis | 113098 | [113098-assassins-creed-odyssey-the-fate-of-atlantis.json](./113098-assassins-creed-odyssey-the-fate-of-atlantis.json) |
 | Assassin's Creed Odyssey: The Fate of Atlantis - Episode 1: Fields of Elysium | 327929 | [327929-assassins-creed-odyssey-the-fate-of-atlantis-episode-1-fields-of-elysium.json](./327929-assassins-creed-odyssey-the-fate-of-atlantis-episode-1-fields-of-elysium.json) |
