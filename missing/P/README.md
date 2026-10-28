@@ -4322,6 +4322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petrol Station Sim | 263780 | [263780-petrol-station-sim.json](./263780-petrol-station-sim.json) |
 | Petroleum Explore: Drill & Sell | 227504 | [227504-petroleum-explore-drill-and-sell.json](./227504-petroleum-explore-drill-and-sell.json) |
 | Petrolhead Paradise | 252561 | [252561-petrolhead-paradise.json](./252561-petrolhead-paradise.json) |
+| PetrolHead: Epic Joyride | 236983 | [236983-petrolhead-epic-joyride.json](./236983-petrolhead-epic-joyride.json) |
 | PetRPG | 166472 | [166472-petrpg.json](./166472-petrpg.json) |
 | Pets | 314303 | [314303-pets.json](./314303-pets.json) |
 | Pets | 331219 | [331219-pets.json](./331219-pets.json) |
@@ -6948,6 +6949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cross Stitch: Spring Pack 2 | 334589 | [334589-pixel-cross-stitch-spring-pack-2.json](./334589-pixel-cross-stitch-spring-pack-2.json) |
 | Pixel Cross Stitch: Tribal Craze Pack 2 | 334590 | [334590-pixel-cross-stitch-tribal-craze-pack-2.json](./334590-pixel-cross-stitch-tribal-craze-pack-2.json) |
 | Pixel Cross Stitch: Tribal Craze Pack 3 | 334591 | [334591-pixel-cross-stitch-tribal-craze-pack-3.json](./334591-pixel-cross-stitch-tribal-craze-pack-3.json) |
+| Pixel Cup Soccer | 236986 | [236986-pixel-cup-soccer.json](./236986-pixel-cup-soccer.json) |
 | Pixel Cup Soccer 16 | 39001 | [39001-pixel-cup-soccer-16.json](./39001-pixel-cup-soccer-16.json) |
 | Pixel Cup Soccer 17 | 32354 | [32354-pixel-cup-soccer-17.json](./32354-pixel-cup-soccer-17.json) |
 | Pixel Cup Soccer: Ultimate Edition | 158544 | [158544-pixel-cup-soccer-ultimate-edition.json](./158544-pixel-cup-soccer-ultimate-edition.json) |
