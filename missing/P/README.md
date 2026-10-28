@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pajama Sam's Lost & Found | 10651 | [10651-pajama-sams-lost-and-found.json](./10651-pajama-sams-lost-and-found.json) |
 | Pajama Sam's Sock Works | 10652 | [10652-pajama-sams-sock-works.json](./10652-pajama-sams-sock-works.json) |
 | Pajamorama | 133710 | [133710-pajamorama.json](./133710-pajamorama.json) |
+| Pajithko | 266591 | [266591-pajithko.json](./266591-pajithko.json) |
 | Pajuu: Always With You | 177208 | [177208-pajuu-always-with-you.json](./177208-pajuu-always-with-you.json) |
 | Pakacuda | 83264 | [83264-pakacuda.json](./83264-pakacuda.json) |
 | Pakapow Party | 320114 | [320114-pakapow-party.json](./320114-pakapow-party.json) |
@@ -3694,6 +3695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Percepts | 18392 | [18392-percepts.json](./18392-percepts.json) |
 | Perceptum | 386968 | [386968-perceptum.json](./386968-perceptum.json) |
 | Perch | 29944 | [29944-perch.json](./29944-perch.json) |
+| Perchance to Dream | 266937 | [266937-perchance-to-dream.json](./266937-perchance-to-dream.json) |
 | Perchang | 58242 | [58242-perchang.json](./58242-perchang.json) |
 | Perchang World | 400242 | [400242-perchang-world.json](./400242-perchang-world.json) |
 | Perciflette | 384002 | [384002-perciflette.json](./384002-perciflette.json) |
@@ -13737,6 +13739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project MT | 363567 | [363567-project-mt.json](./363567-project-mt.json) |
 | Project MW | 278929 | [278929-project-mw.json](./278929-project-mw.json) |
 | Project N.E.X.T | 278534 | [278534-project-n-e-x-t.json](./278534-project-n-e-x-t.json) |
+| Project N3T | 266966 | [266966-project-n3t.json](./266966-project-n3t.json) |
 | Project Nasu | 270954 | [270954-project-nasu.json](./270954-project-nasu.json) |
 | Project Nautilus | 199399 | [199399-project-nautilus.json](./199399-project-nautilus.json) |
 | Project Nebula | 282074 | [282074-project-nebula.json](./282074-project-nebula.json) |
@@ -15310,6 +15313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puru-Chara Friends: Hoppe-chan to Sanrio Characters | 115185 | [115185-puru-chara-friends-hoppe-chan-to-sanrio-characters.json](./115185-puru-chara-friends-hoppe-chan-to-sanrio-characters.json) |
 | Purumui Purumui | 143677 | [143677-purumui-purumui.json](./143677-purumui-purumui.json) |
 | Pururun! Shizuku-chan: Asonde Tanoshiku Nouryoku Up | 327618 | [327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json](./327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json) |
+| Push | 266965 | [266965-push.json](./266965-push.json) |
 | Push | 55799 | [55799-push.json](./55799-push.json) |
 | Push & Plunder | 312669 | [312669-push-and-plunder.json](./312669-push-and-plunder.json) |
 | Push 3D | 341432 | [341432-push-3d.json](./341432-push-3d.json) |
