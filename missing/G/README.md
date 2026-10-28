@@ -4576,6 +4576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyph VR | 151534 | [151534-glyph-vr.json](./151534-glyph-vr.json) |
 | Glyph-Bound: Kotodama | 211653 | [211653-glyph-bound-kotodama.json](./211653-glyph-bound-kotodama.json) |
 | Glypha III | 70919 | [70919-glypha-iii.json](./70919-glypha-iii.json) |
+| Glypha: Vintage | 247701 | [247701-glypha-vintage.json](./247701-glypha-vintage.json) |
 | Glyphica: Typing Survival | 291596 | [291596-glyphica-typing-survival.json](./291596-glyphica-typing-survival.json) |
 | Glyphora | 349233 | [349233-glyphora.json](./349233-glyphora.json) |
 | Glyphs | 347281 | [347281-glyphs.json](./347281-glyphs.json) |
