@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salad Bar Tycoon: Expansion Pack 1 | 237972 | [237972-salad-bar-tycoon-expansion-pack-1.json](./237972-salad-bar-tycoon-expansion-pack-1.json) |
 | Salad Bar Tycoon: Expansion Pack 2 | 237973 | [237973-salad-bar-tycoon-expansion-pack-2.json](./237973-salad-bar-tycoon-expansion-pack-2.json) |
 | Salad Bar Tycoon: Extended Edition | 201143 | [201143-salad-bar-tycoon-extended-edition.json](./201143-salad-bar-tycoon-extended-edition.json) |
+| Salad Bar Tycoon: Premium Edition | 238107 | [238107-salad-bar-tycoon-premium-edition.json](./238107-salad-bar-tycoon-premium-edition.json) |
 | Salad Fields | 122820 | [122820-salad-fields.json](./122820-salad-fields.json) |
 | Salagander | 181222 | [181222-salagander.json](./181222-salagander.json) |
 | Salamander | 192397 | [192397-salamander.json](./192397-salamander.json) |
@@ -1581,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Paravia and Fiumaccio | 93011 | [93011-santa-paravia-and-fiumaccio.json](./93011-santa-paravia-and-fiumaccio.json) |
 | Santa Present Defense | 183510 | [183510-santa-present-defense.json](./183510-santa-present-defense.json) |
 | Santa Protects the Christmas Tree | 190133 | [190133-santa-protects-the-christmas-tree.json](./190133-santa-protects-the-christmas-tree.json) |
+| Santa Punishes | 238128 | [238128-santa-punishes.json](./238128-santa-punishes.json) |
 | Santa Ride! | 85817 | [85817-santa-ride.json](./85817-santa-ride.json) |
 | Santa Rockstar HD | 57060 | [57060-santa-rockstar-hd.json](./57060-santa-rockstar-hd.json) |
 | Santa Rockstar: Steam Edition | 90562 | [90562-santa-rockstar-steam-edition.json](./90562-santa-rockstar-steam-edition.json) |
@@ -6666,6 +6668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Tells Her Story | 383592 | [383592-she-tells-her-story.json](./383592-she-tells-her-story.json) |
 | She Wants Me Dead | 32718 | [32718-she-wants-me-dead.json](./32718-she-wants-me-dead.json) |
 | She Wants Me Dead: Extended Edition | 239493 | [239493-she-wants-me-dead-extended-edition.json](./239493-she-wants-me-dead-extended-edition.json) |
+| She Wants Me Dead: Ultimate Edition | 237768 | [237768-she-wants-me-dead-ultimate-edition.json](./237768-she-wants-me-dead-ultimate-edition.json) |
 | She Wants to Suck My Blood? | 254324 | [254324-she-wants-to-suck-my-blood.json](./254324-she-wants-to-suck-my-blood.json) |
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
 | She Who Fights Monsters | 60343 | [60343-she-who-fights-monsters.json](./60343-she-who-fights-monsters.json) |
@@ -20403,6 +20406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack the States 2 | 396763 | [396763-stack-the-states-2.json](./396763-stack-the-states-2.json) |
 | Stack to Ascension | 353802 | [353802-stack-to-ascension.json](./353802-stack-to-ascension.json) |
 | Stack Tower͏ | 219264 | [219264-stack-tower.json](./219264-stack-tower.json) |
+| Stack Tower | 238110 | [238110-stack-tower.json](./238110-stack-tower.json) |
 | Stack Up (or dive trying) | 133132 | [133132-stack-up-or-dive-trying.json](./133132-stack-up-or-dive-trying.json) |
 | Stack World | 236383 | [236383-stack-world.json](./236383-stack-world.json) |
 | Stack-Making Neighbors | 258976 | [258976-stack-making-neighbors.json](./258976-stack-making-neighbors.json) |
@@ -25340,6 +25344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Such Ninja | 254154 | [254154-such-ninja.json](./254154-such-ninja.json) |
 | Such, Such Were the Joys | 264352 | [264352-such-such-were-the-joys.json](./264352-such-such-were-the-joys.json) |
 | Suchawira World Traveler | 124563 | [124563-suchawira-world-traveler.json](./124563-suchawira-world-traveler.json) |
+| Suchie-Pai Adventure: Doki Doki Nightmare - Saturn Tribute | 237770 | [237770-suchie-pai-adventure-doki-doki-nightmare-saturn-tribute.json](./237770-suchie-pai-adventure-doki-doki-nightmare-saturn-tribute.json) |
 | Suchie-Pai Adventure: Doki-doki Nightmare | 92137 | [92137-suchie-pai-adventure-doki-doki-nightmare.json](./92137-suchie-pai-adventure-doki-doki-nightmare.json) |
 | SuchInheritance | 187182 | [187182-suchinheritance.json](./187182-suchinheritance.json) |
 | Suck Eggs! | 257788 | [257788-suck-eggs.json](./257788-suck-eggs.json) |
@@ -29893,6 +29898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Academy | 47780 | [47780-sushi-academy.json](./47780-sushi-academy.json) |
 | Sushi Alone | 151808 | [151808-sushi-alone.json](./151808-sushi-alone.json) |
 | Sushi Bar | 298874 | [298874-sushi-bar.json](./298874-sushi-bar.json) |
+| Sushi Bar Express | 238126 | [238126-sushi-bar-express.json](./238126-sushi-bar-express.json) |
 | Sushi Bar Express | 54416 | [54416-sushi-bar-express.json](./54416-sushi-bar-express.json) |
 | Sushi Bar Idle | 248161 | [248161-sushi-bar-idle.json](./248161-sushi-bar-idle.json) |
 | Sushi Bar: Moebius | 289277 | [289277-sushi-bar-moebius.json](./289277-sushi-bar-moebius.json) |
