@@ -3046,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Rush | 234046 | [234046-castle-rush.json](./234046-castle-rush.json) |
 | Castle Rush Zombies | 241620 | [241620-castle-rush-zombies.json](./241620-castle-rush-zombies.json) |
 | Castle Secrets: Between Day and Night | 87998 | [87998-castle-secrets-between-day-and-night.json](./87998-castle-secrets-between-day-and-night.json) |
+| Castle Secrets: Hidden Object | 261323 | [261323-castle-secrets-hidden-object.json](./261323-castle-secrets-hidden-object.json) |
 | Castle Shikigami 2 | 4149 | [4149-castle-shikigami-2.json](./4149-castle-shikigami-2.json) |
 | Castle Siege | 173196 | [173196-castle-siege.json](./173196-castle-siege.json) |
 | Castle Siege | 370155 | [370155-castle-siege.json](./370155-castle-siege.json) |
@@ -9267,6 +9268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Rush + Brawl Chess Family Bundle | 218455 | [218455-clumsy-rush-brawl-chess-family-bundle.json](./218455-clumsy-rush-brawl-chess-family-bundle.json) |
 | Clumsy Rush + Cyber Protocol | 218415 | [218415-clumsy-rush-cyber-protocol.json](./218415-clumsy-rush-cyber-protocol.json) |
 | Clumsy Rush: Ultimate Guys | 212682 | [212682-clumsy-rush-ultimate-guys.json](./212682-clumsy-rush-ultimate-guys.json) |
+| Clumsy Rush: Ultimate Guys - Amazing Edition | 261378 | [261378-clumsy-rush-ultimate-guys-amazing-edition.json](./261378-clumsy-rush-ultimate-guys-amazing-edition.json) |
 | Clumsy Rush: Ultimate Guys - Complete Edition | 232998 | [232998-clumsy-rush-ultimate-guys-complete-edition.json](./232998-clumsy-rush-ultimate-guys-complete-edition.json) |
 | Clumsy Rush: Ultimate Guys - Complete Edition + | 272409 | [272409-clumsy-rush-ultimate-guys-complete-edition.json](./272409-clumsy-rush-ultimate-guys-complete-edition.json) |
 | Clumsy Rush: Ultimate Guys - Decorations Pack 12 | 251665 | [251665-clumsy-rush-ultimate-guys-decorations-pack-12.json](./251665-clumsy-rush-ultimate-guys-decorations-pack-12.json) |
