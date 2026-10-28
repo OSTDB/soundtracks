@@ -6338,7 +6338,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Apocalypse 101 | 110032 | [110032-nuclear-apocalypse-101.json](./110032-nuclear-apocalypse-101.json) |
 | Nuclear Arms Race | 127600 | [127600-nuclear-arms-race.json](./127600-nuclear-arms-race.json) |
 | Nuclear Assault | 188846 | [188846-nuclear-assault.json](./188846-nuclear-assault.json) |
-| Nuclear Blaze | 153876 | [153876-nuclear-blaze.json](./153876-nuclear-blaze.json) |
 | Nuclear Cheetah | 265958 | [265958-nuclear-cheetah.json](./265958-nuclear-cheetah.json) |
 | Nuclear Chunks | 262165 | [262165-nuclear-chunks.json](./262165-nuclear-chunks.json) |
 | Nuclear Combat Ship | 252714 | [252714-nuclear-combat-ship.json](./252714-nuclear-combat-ship.json) |
