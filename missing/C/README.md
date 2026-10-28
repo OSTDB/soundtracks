@@ -7374,6 +7374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chupacabra | 59225 | [59225-chupacabra.json](./59225-chupacabra.json) |
 | Chupacabras: Night Hunt | 163904 | [163904-chupacabras-night-hunt.json](./163904-chupacabras-night-hunt.json) |
 | Chura-umi Monogatari | 292139 | [292139-chura-umi-monogatari.json](./292139-chura-umi-monogatari.json) |
+| Church | 263640 | [263640-church.json](./263640-church.json) |
 | Church Crew | 360740 | [360740-church-crew.json](./360740-church-crew.json) |
 | Church Era | 118391 | [118391-church-era.json](./118391-church-era.json) |
 | Church of Shadows | 323527 | [323527-church-of-shadows.json](./323527-church-of-shadows.json) |
@@ -10228,6 +10229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Muse | 368618 | [368618-color-muse.json](./368618-color-muse.json) |
 | Color Ninjas | 181782 | [181782-color-ninjas.json](./181782-color-ninjas.json) |
 | Color Objects For Kids | 89645 | [89645-color-objects-for-kids.json](./89645-color-objects-for-kids.json) |
+| Color Odyssey | 263307 | [263307-color-odyssey.json](./263307-color-odyssey.json) |
 | Color of Love | 339410 | [339410-color-of-love.json](./339410-color-of-love.json) |
 | Color of My Sound: Volume 1 | 309534 | [309534-color-of-my-sound-volume-1.json](./309534-color-of-my-sound-volume-1.json) |
 | Color Oil | 74710 | [74710-color-oil.json](./74710-color-oil.json) |
