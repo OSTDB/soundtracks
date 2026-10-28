@@ -5911,6 +5911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five | 384036 | [384036-five.json](./384036-five.json) |
 | Five A Day | 9135 | [9135-five-a-day.json](./9135-five-a-day.json) |
 | Five a Side Football 2024 | 267413 | [267413-five-a-side-football-2024.json](./267413-five-a-side-football-2024.json) |
+| Five Card Draw Poker | 279819 | [279819-five-card-draw-poker.json](./279819-five-card-draw-poker.json) |
 | Five Dates | 141088 | [141088-five-dates.json](./141088-five-dates.json) |
 | Five Day Great Escape | 114399 | [114399-five-day-great-escape.json](./114399-five-day-great-escape.json) |
 | Five Days | 287510 | [287510-five-days.json](./287510-five-days.json) |
