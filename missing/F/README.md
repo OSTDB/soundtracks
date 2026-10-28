@@ -5596,6 +5596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher-Price: Time To Play - Pet Shop | 283677 | [283677-fisher-price-time-to-play-pet-shop.json](./283677-fisher-price-time-to-play-pet-shop.json) |
 | Fisher's Qualm | 218664 | [218664-fishers-qualm.json](./218664-fishers-qualm.json) |
 | Fisher's Road | 387121 | [387121-fishers-road.json](./387121-fishers-road.json) |
+| Fisher's Wharf | 261395 | [261395-fishers-wharf.json](./261395-fishers-wharf.json) |
 | Fisherman | 326247 | [326247-fisherman.json](./326247-fisherman.json) |
 | Fisherman Simulator | 318694 | [318694-fisherman-simulator.json](./318694-fisherman-simulator.json) |
 | Fisherman: Idle Fishing Clicker | 183814 | [183814-fisherman-idle-fishing-clicker.json](./183814-fisherman-idle-fishing-clicker.json) |
@@ -7184,6 +7185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Shop: Big City Break | 209457 | [209457-flower-shop-big-city-break.json](./209457-flower-shop-big-city-break.json) |
 | Flower Shop: Summer In Fairbrook | 9843 | [9843-flower-shop-summer-in-fairbrook.json](./9843-flower-shop-summer-in-fairbrook.json) |
 | Flower Shop: Winter In Fairbrook | 17586 | [17586-flower-shop-winter-in-fairbrook.json](./17586-flower-shop-winter-in-fairbrook.json) |
+| Flower Sort Puzzle | 261404 | [261404-flower-sort-puzzle.json](./261404-flower-sort-puzzle.json) |
 | Flower Spinner Puzzle | 371410 | [371410-flower-spinner-puzzle.json](./371410-flower-spinner-puzzle.json) |
 | Flower Visit | 177576 | [177576-flower-visit.json](./177576-flower-visit.json) |
 | Flower vs. Zombie War | 223934 | [223934-flower-vs-zombie-war.json](./223934-flower-vs-zombie-war.json) |
@@ -12124,6 +12126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzzy World Cup Qatar 2022 | 312349 | [312349-fuzzy-world-cup-qatar-2022.json](./312349-fuzzy-world-cup-qatar-2022.json) |
 | Fuzzy's Quest | 127658 | [127658-fuzzys-quest.json](./127658-fuzzys-quest.json) |
 | Fuzzy's World of Miniature Space Golf | 50437 | [50437-fuzzys-world-of-miniature-space-golf.json](./50437-fuzzys-world-of-miniature-space-golf.json) |
+| Fuzzys Quest 2 | 261408 | [261408-fuzzys-quest-2.json](./261408-fuzzys-quest-2.json) |
 | Fwog | 270189 | [270189-fwog.json](./270189-fwog.json) |
 | Fwosty Poetwy | 179010 | [179010-fwosty-poetwy.json](./179010-fwosty-poetwy.json) |
 | FX Chess | 94266 | [94266-fx-chess.json](./94266-fx-chess.json) |
