@@ -6869,6 +6869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Heart: Book 2 | 313734 | [313734-the-cursed-heart-book-2.json](./313734-the-cursed-heart-book-2.json) |
 | The Cursed Hotel | 398325 | [398325-the-cursed-hotel.json](./398325-the-cursed-hotel.json) |
 | The Cursed Hour | 339209 | [339209-the-cursed-hour.json](./339209-the-cursed-hour.json) |
+| The Cursed Knight | 236441 | [236441-the-cursed-knight.json](./236441-the-cursed-knight.json) |
 | The Cursed Land | 306093 | [306093-the-cursed-land.json](./306093-the-cursed-land.json) |
 | The Cursed Legacy | 287312 | [287312-the-cursed-legacy.json](./287312-the-cursed-legacy.json) |
 | The Cursed Legacy | 350353 | [350353-the-cursed-legacy.json](./350353-the-cursed-legacy.json) |
@@ -8577,6 +8578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Furniture of Self | 185626 | [185626-the-furniture-of-self.json](./185626-the-furniture-of-self.json) |
 | The Furry Protocol | 406860 | [406860-the-furry-protocol.json](./406860-the-furry-protocol.json) |
 | The Fury | 58632 | [58632-the-fury.json](./58632-the-fury.json) |
+| The Futanati | 236481 | [236481-the-futanati.json](./236481-the-futanati.json) |
 | The Future Devil Must Work! Debt Repayment Arc | 82916 | [82916-the-future-devil-must-work-debt-repayment-arc.json](./82916-the-future-devil-must-work-debt-repayment-arc.json) |
 | The Future Ends | 226598 | [226598-the-future-ends.json](./226598-the-future-ends.json) |
 | The Future Is Loading... | 355174 | [355174-the-future-is-loading.json](./355174-the-future-is-loading.json) |
@@ -9280,6 +9282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero Unmasked! | 52274 | [52274-the-hero-unmasked.json](./52274-the-hero-unmasked.json) |
 | The Hero We Need | 159023 | [159023-the-hero-we-need.json](./159023-the-hero-we-need.json) |
 | The Hero with a Thousand Arms | 242399 | [242399-the-hero-with-a-thousand-arms.json](./242399-the-hero-with-a-thousand-arms.json) |
+| The Hero's Journey Through Time | 236466 | [236466-the-heros-journey-through-time.json](./236466-the-heros-journey-through-time.json) |
 | The Hero's Way | 248079 | [248079-the-heros-way.json](./248079-the-heros-way.json) |
 | The Herobrine Mod | 232684 | [232684-the-herobrine-mod.json](./232684-the-herobrine-mod.json) |
 | The Heroic Knight | 388303 | [388303-the-heroic-knight.json](./388303-the-heroic-knight.json) |
@@ -24256,6 +24259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailer Tales | 211609 | [211609-trailer-tales.json](./211609-trailer-tales.json) |
 | Trailer Trashers | 130157 | [130157-trailer-trashers.json](./130157-trailer-trashers.json) |
 | Trailmakers | 29667 | [29667-trailmakers.json](./29667-trailmakers.json) |
+| Trailmakers: Airborne Expansion | 236449 | [236449-trailmakers-airborne-expansion.json](./236449-trailmakers-airborne-expansion.json) |
 | Trailmakers: Decals - Expression Pack | 308437 | [308437-trailmakers-decals-expression-pack.json](./308437-trailmakers-decals-expression-pack.json) |
 | Trailmakers: Deluxe Edition | 187896 | [187896-trailmakers-deluxe-edition.json](./187896-trailmakers-deluxe-edition.json) |
 | Trailmakers: Frozen Tracks | 378217 | [378217-trailmakers-frozen-tracks.json](./378217-trailmakers-frozen-tracks.json) |
