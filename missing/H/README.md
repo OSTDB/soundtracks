@@ -2900,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearth and Hamlet | 392964 | [392964-hearth-and-hamlet.json](./392964-hearth-and-hamlet.json) |
 | Hearth Bound | 397128 | [397128-hearth-bound.json](./397128-hearth-bound.json) |
 | Hearth's Light: Potion Shop | 239669 | [239669-hearths-light-potion-shop.json](./239669-hearths-light-potion-shop.json) |
+| Hearth's Pantheon | 251957 | [251957-hearths-pantheon.json](./251957-hearths-pantheon.json) |
 | Hearthguard | 356677 | [356677-hearthguard.json](./356677-hearthguard.json) |
 | Hearthkeeper | 253489 | [253489-hearthkeeper.json](./253489-hearthkeeper.json) |
 | Hearthlands | 28325 | [28325-hearthlands.json](./28325-hearthlands.json) |
@@ -4786,6 +4787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai: Maid Madness | 288915 | [288915-hentai-maid-madness.json](./288915-hentai-maid-madness.json) |
 | Hentai: Make Love Not War 2 | 283269 | [283269-hentai-make-love-not-war-2.json](./283269-hentai-make-love-not-war-2.json) |
 | Hentai: Memory Leak | 335840 | [335840-hentai-memory-leak.json](./335840-hentai-memory-leak.json) |
+| Hentai: Mission Bombass | 252252 | [252252-hentai-mission-bombass.json](./252252-hentai-mission-bombass.json) |
 | Hentai: Nazi Girl | 327393 | [327393-hentai-nazi-girl.json](./327393-hentai-nazi-girl.json) |
 | Hentai: Neko Love | 286550 | [286550-hentai-neko-love.json](./286550-hentai-neko-love.json) |
 | Hentai: Nude Quest | 277922 | [277922-hentai-nude-quest.json](./277922-hentai-nude-quest.json) |
@@ -8471,6 +8473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope For Winter | 167584 | [167584-hope-for-winter.json](./167584-hope-for-winter.json) |
 | Hope in Hell | 34277 | [34277-hope-in-hell.json](./34277-hope-in-hell.json) |
 | Hope in the City | 347898 | [347898-hope-in-the-city.json](./347898-hope-in-the-city.json) |
+| Hope is Gone | 251952 | [251952-hope-is-gone.json](./251952-hope-is-gone.json) |
 | Hope Isle | 320819 | [320819-hope-isle.json](./320819-hope-isle.json) |
 | Hope Lake | 32445 | [32445-hope-lake.json](./32445-hope-lake.json) |
 | Hope Land | 158585 | [158585-hope-land.json](./158585-hope-land.json) |
@@ -10217,6 +10220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Corgi | 255728 | [255728-hungry-corgi.json](./255728-hungry-corgi.json) |
 | Hungry Dino | 171494 | [171494-hungry-dino.json](./171494-hungry-dino.json) |
 | Hungry Dinosaurs | 42587 | [42587-hungry-dinosaurs.json](./42587-hungry-dinosaurs.json) |
+| Hungry Dogs | 252251 | [252251-hungry-dogs.json](./252251-hungry-dogs.json) |
 | Hungry Ducks | 177291 | [177291-hungry-ducks.json](./177291-hungry-ducks.json) |
 | Hungry Fish | 167389 | [167389-hungry-fish.json](./167389-hungry-fish.json) |
 | Hungry Fish Evolution | 96629 | [96629-hungry-fish-evolution.json](./96629-hungry-fish-evolution.json) |
