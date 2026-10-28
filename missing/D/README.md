@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution: Hello Kitty | 207264 | [207264-dance-dance-revolution-hello-kitty.json](./207264-dance-dance-revolution-hello-kitty.json) |
 | Dance Dance Revolution: Hottest Party 2 | 50719 | [50719-dance-dance-revolution-hottest-party-2.json](./50719-dance-dance-revolution-hottest-party-2.json) |
 | Dance Dance Revolution: Hottest Party 4 | 50733 | [50733-dance-dance-revolution-hottest-party-4.json](./50733-dance-dance-revolution-hottest-party-4.json) |
+| Dance Dash | 258593 | [258593-dance-dash.json](./258593-dance-dash.json) |
 | Dance DeLight | 284589 | [284589-dance-delight.json](./284589-dance-delight.json) |
 | Dance Eden | 301054 | [301054-dance-eden.json](./301054-dance-eden.json) |
 | Dance Evolution Arcade | 375456 | [375456-dance-evolution-arcade.json](./375456-dance-evolution-arcade.json) |
@@ -1758,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Walk | 241873 | [241873-dark-walk.json](./241873-dark-walk.json) |
 | Dark War | 30813 | [30813-dark-war.json](./30813-dark-war.json) |
 | Dark War: Survival | 329651 | [329651-dark-war-survival.json](./329651-dark-war-survival.json) |
+| Dark Watcher | 258586 | [258586-dark-watcher.json](./258586-dark-watcher.json) |
 | Dark Watching: Chapter 1 | 383633 | [383633-dark-watching-chapter-1.json](./383633-dark-watching-chapter-1.json) |
 | Dark Water: Slime Invader | 147076 | [147076-dark-water-slime-invader.json](./147076-dark-water-slime-invader.json) |
 | Dark Wave | 104480 | [104480-dark-wave.json](./104480-dark-wave.json) |
@@ -4382,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decomposition | 339791 | [339791-decomposition.json](./339791-decomposition.json) |
 | Deconstruction | 105069 | [105069-deconstruction.json](./105069-deconstruction.json) |
 | Deconstruction Lab | 111228 | [111228-deconstruction-lab.json](./111228-deconstruction-lab.json) |
+| Deconstruction Simulator | 258588 | [258588-deconstruction-simulator.json](./258588-deconstruction-simulator.json) |
 | Deconstuctor | 102367 | [102367-deconstuctor.json](./102367-deconstuctor.json) |
 | Decontamination | 335879 | [335879-decontamination.json](./335879-decontamination.json) |
 | Decopins: Asset Fighters Series | 220012 | [220012-decopins-asset-fighters-series.json](./220012-decopins-asset-fighters-series.json) |
@@ -6435,6 +6438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destination Sol | 15737 | [15737-destination-sol.json](./15737-destination-sol.json) |
 | Destination Solitaire | 101408 | [101408-destination-solitaire.json](./101408-destination-solitaire.json) |
 | Destination Treasure Island | 52888 | [52888-destination-treasure-island.json](./52888-destination-treasure-island.json) |
+| Destination Unknown | 258579 | [258579-destination-unknown.json](./258579-destination-unknown.json) |
 | Destination: Dragons! | 292819 | [292819-destination-dragons.json](./292819-destination-dragons.json) |
 | Destination: Mars! | 72101 | [72101-destination-mars.json](./72101-destination-mars.json) |
 | Destind: Mr. Almost Right | 239209 | [239209-destind-mr-almost-right.json](./239209-destind-mr-almost-right.json) |
@@ -7639,6 +7643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diegesis of The Ruined | 298451 | [298451-diegesis-of-the-ruined.json](./298451-diegesis-of-the-ruined.json) |
 | Diego Balls | 343830 | [343830-diego-balls.json](./343830-diego-balls.json) |
 | Diego: Mission Red Tomato | 160211 | [160211-diego-mission-red-tomato.json](./160211-diego-mission-red-tomato.json) |
+| Diehexegy | 258307 | [258307-diehexegy.json](./258307-diehexegy.json) |
 | Diemi | 375352 | [375352-diemi.json](./375352-diemi.json) |
 | Dien Bien Phu | 78921 | [78921-dien-bien-phu.json](./78921-dien-bien-phu.json) |
 | Diener Dates | 252653 | [252653-diener-dates.json](./252653-diener-dates.json) |
@@ -8220,6 +8225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Panic | 351680 | [351680-dino-panic.json](./351680-dino-panic.json) |
 | Dino Park | 290253 | [290253-dino-park.json](./290253-dino-park.json) |
 | Dino Party | 382519 | [382519-dino-party.json](./382519-dino-party.json) |
+| Dino Path Trail | 258308 | [258308-dino-path-trail.json](./258308-dino-path-trail.json) |
 | Dino Pet Walker | 394535 | [394535-dino-pet-walker.json](./394535-dino-pet-walker.json) |
 | Dino Precision Platformer | 303476 | [303476-dino-precision-platformer.json](./303476-dino-precision-platformer.json) |
 | Dino Puzzler World | 239497 | [239497-dino-puzzler-world.json](./239497-dino-puzzler-world.json) |
@@ -13577,6 +13583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadtome | 349884 | [349884-dreadtome.json](./349884-dreadtome.json) |
 | Dreadway | 321577 | [321577-dreadway.json](./321577-dreadway.json) |
 | Dreadweave | 288795 | [288795-dreadweave.json](./288795-dreadweave.json) |
+| Dreadwinter | 258306 | [258306-dreadwinter.json](./258306-dreadwinter.json) |
 | DreadWood | 184110 | [184110-dreadwood.json](./184110-dreadwood.json) |
 | Dreadwoods Gatekeeper | 295507 | [295507-dreadwoods-gatekeeper.json](./295507-dreadwoods-gatekeeper.json) |
 | Dreadwoods Gatekeeper: Prologue | 295494 | [295494-dreadwoods-gatekeeper-prologue.json](./295494-dreadwoods-gatekeeper-prologue.json) |
