@@ -4626,6 +4626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaders | 380798 | [380798-invaders.json](./380798-invaders.json) |
 | Invaders | 79070 | [79070-invaders.json](./79070-invaders.json) |
 | Invaders 1978 | 72081 | [72081-invaders-1978.json](./72081-invaders-1978.json) |
+| Invaders from the Third Dimension | 253524 | [253524-invaders-from-the-third-dimension.json](./253524-invaders-from-the-third-dimension.json) |
 | Invaders From Uranus | 269153 | [269153-invaders-from-uranus.json](./269153-invaders-from-uranus.json) |
 | Invaders of the Mummy's Tomb | 300011 | [300011-invaders-of-the-mummys-tomb.json](./300011-invaders-of-the-mummys-tomb.json) |
 | Invaders Revenge | 41195 | [41195-invaders-revenge.json](./41195-invaders-revenge.json) |
@@ -4708,6 +4709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invercity | 199467 | [199467-invercity.json](./199467-invercity.json) |
 | Inverness Nights | 134676 | [134676-inverness-nights.json](./134676-inverness-nights.json) |
 | Inverse | 184366 | [184366-inverse.json](./184366-inverse.json) |
+| Inverse | 253176 | [253176-inverse.json](./253176-inverse.json) |
 | Inverse Evolver | 192711 | [192711-inverse-evolver.json](./192711-inverse-evolver.json) |
 | Inverse Ninjas vs. The Public Domain | 277593 | [277593-inverse-ninjas-vs-the-public-domain.json](./277593-inverse-ninjas-vs-the-public-domain.json) |
 | Inversed | 310575 | [310575-inversed.json](./310575-inversed.json) |
@@ -5337,6 +5339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Master | 264680 | [264680-island-master.json](./264680-island-master.json) |
 | Island Maze | 110918 | [110918-island-maze.json](./110918-island-maze.json) |
 | Island Mirrorge VR | 151291 | [151291-island-mirrorge-vr.json](./151291-island-mirrorge-vr.json) |
+| Island Notes | 253465 | [253465-island-notes.json](./253465-island-notes.json) |
 | Island of 16 Sisters | 371864 | [371864-island-of-16-sisters.json](./371864-island-of-16-sisters.json) |
 | Island of 16 Sisters Part 2 | 371866 | [371866-island-of-16-sisters-part-2.json](./371866-island-of-16-sisters-part-2.json) |
 | Island of Aito | 199657 | [199657-island-of-aito.json](./199657-island-of-aito.json) |
