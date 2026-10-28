@@ -842,7 +842,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1748,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banco Imobiliário 2000 | 187876 | [187876-banco-imobiliario-2000.json](./187876-banco-imobiliario-2000.json) |
 | Bancroft Academy | 265412 | [265412-bancroft-academy.json](./265412-bancroft-academy.json) |
 | Band Hero | 2678 | [2678-band-hero.json](./2678-band-hero.json) |
+| Band Land | 232095 | [232095-band-land.json](./232095-band-land.json) |
 | Band Manager | 78934 | [78934-band-manager.json](./78934-band-manager.json) |
 | Band Mates | 386414 | [386414-band-mates.json](./386414-band-mates.json) |
 | Band of Badasses | 355138 | [355138-band-of-badasses.json](./355138-band-of-badasses.json) |
@@ -11307,6 +11307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boo's There? | 280317 | [280317-boos-there.json](./280317-boos-there.json) |
 | Boo's Treat | 318551 | [318551-boos-treat.json](./318551-boos-treat.json) |
 | Booble Hentai | 149432 | [149432-booble-hentai.json](./149432-booble-hentai.json) |
+| Booblyc TD: Tower Last Defense | 232118 | [232118-booblyc-td-tower-last-defense.json](./232118-booblyc-td-tower-last-defense.json) |
 | BooBooBooster | 365558 | [365558-booboobooster.json](./365558-booboobooster.json) |
 | Boobs | 268499 | [268499-boobs.json](./268499-boobs.json) |
 | Boobs | 344551 | [344551-boobs.json](./344551-boobs.json) |
