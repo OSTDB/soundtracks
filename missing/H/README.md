@@ -9320,6 +9320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
 | Hot-Pink | 217490 | [217490-hot-pink.json](./217490-hot-pink.json) |
 | Hot, tasty & Armed | 177784 | [177784-hot-tasty-and-armed.json](./177784-hot-tasty-and-armed.json) |
+| HotBlood Drift | 233168 | [233168-hotblood-drift.json](./233168-hotblood-drift.json) |
 | HotBunz | 235902 | [235902-hotbunz.json](./235902-hotbunz.json) |
 | HotCarts | 339143 | [339143-hotcarts.json](./339143-hotcarts.json) |
 | Hotch Kiss | 148358 | [148358-hotch-kiss.json](./148358-hotch-kiss.json) |
