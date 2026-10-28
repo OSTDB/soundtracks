@@ -2362,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | David Crane's The Rescue of Princess Blobette | 48959 | [48959-david-cranes-the-rescue-of-princess-blobette.json](./48959-david-cranes-the-rescue-of-princess-blobette.json) |
 | David Douillet Judo | 57609 | [57609-david-douillet-judo.json](./57609-david-douillet-judo.json) |
 | David Get Keen | 228289 | [228289-david-get-keen.json](./228289-david-get-keen.json) |
+| David Haye's Jungle Rumble | 237011 | [237011-david-hayes-jungle-rumble.json](./237011-david-hayes-jungle-rumble.json) |
 | David Leadbetter's Greens | 71545 | [71545-david-leadbetters-greens.json](./71545-david-leadbetters-greens.json) |
 | David Robinson's Supreme Court | 46533 | [46533-david-robinsons-supreme-court.json](./46533-david-robinsons-supreme-court.json) |
 | David Wolf: Secret Agent | 57575 | [57575-david-wolf-secret-agent.json](./57575-david-wolf-secret-agent.json) |
@@ -4582,6 +4583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Inside | 309535 | [309535-deep-inside.json](./309535-deep-inside.json) |
 | Deep Labyrinth | 20552 | [20552-deep-labyrinth.json](./20552-deep-labyrinth.json) |
 | Deep Lake Mall | 320705 | [320705-deep-lake-mall.json](./320705-deep-lake-mall.json) |
+| Deep Lake Reel Fishing | 236988 | [236988-deep-lake-reel-fishing.json](./236988-deep-lake-reel-fishing.json) |
 | Deep Line | 361810 | [361810-deep-line.json](./361810-deep-line.json) |
 | Deep Loop | 372523 | [372523-deep-loop.json](./372523-deep-loop.json) |
 | Deep Loot | 271930 | [271930-deep-loot.json](./271930-deep-loot.json) |
@@ -8155,6 +8157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DinerTown Tycoon | 15000 | [15000-dinertown-tycoon.json](./15000-dinertown-tycoon.json) |
 | Ding Dong Dang | 302470 | [302470-ding-dong-dang.json](./302470-ding-dong-dang.json) |
 | Ding Dong Dead | 272495 | [272495-ding-dong-dead.json](./272495-ding-dong-dead.json) |
+| Ding Dong Delivery | 237008 | [237008-ding-dong-delivery.json](./237008-ding-dong-delivery.json) |
 | Ding Dong Delivery 2: Pizza | 249594 | [249594-ding-dong-delivery-2-pizza.json](./249594-ding-dong-delivery-2-pizza.json) |
 | Ding Dong Die | 321225 | [321225-ding-dong-die.json](./321225-ding-dong-die.json) |
 | Ding Dong Pitch | 379555 | [379555-ding-dong-pitch.json](./379555-ding-dong-pitch.json) |
