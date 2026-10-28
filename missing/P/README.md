@@ -11160,6 +11160,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porgy | 318416 | [318416-porgy.json](./318416-porgy.json) |
 | Pork Barrel | 318164 | [318164-pork-barrel.json](./318164-pork-barrel.json) |
 | Porkchop's Horror Show | 237438 | [237438-porkchops-horror-show.json](./237438-porkchops-horror-show.json) |
+| Porkérion | 246584 | [246584-porkerion.json](./246584-porkerion.json) |
+| Porkérion 2 | 246586 | [246586-porkerion-2.json](./246586-porkerion-2.json) |
+| Porkérion 3 | 246589 | [246589-porkerion-3.json](./246589-porkerion-3.json) |
 | Porkerpillar | 89209 | [89209-porkerpillar.json](./89209-porkerpillar.json) |
 | Porklike: Wurst Comes to Worst Gameboy | 311700 | [311700-porklike-wurst-comes-to-worst-gameboy.json](./311700-porklike-wurst-comes-to-worst-gameboy.json) |
 | Porkotyler's Captain Dodger | 241434 | [241434-porkotylers-captain-dodger.json](./241434-porkotylers-captain-dodger.json) |
@@ -12675,6 +12678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Princess: Himetachi no Abunai Houkago | 72671 | [72671-princess-princess-himetachi-no-abunai-houkago.json](./72671-princess-princess-himetachi-no-abunai-houkago.json) |
 | Princess Principal: Game of Mission | 70907 | [70907-princess-principal-game-of-mission.json](./70907-princess-principal-game-of-mission.json) |
 | Princess Project | 120596 | [120596-princess-project.json](./120596-princess-project.json) |
+| Princess Puzzle | 246555 | [246555-princess-puzzle.json](./246555-princess-puzzle.json) |
 | Princess Puzzle Adventure | 279868 | [279868-princess-puzzle-adventure.json](./279868-princess-puzzle-adventure.json) |
 | Princess Quest | 147183 | [147183-princess-quest.json](./147183-princess-quest.json) |
 | Princess Quest | 286070 | [286070-princess-quest.json](./286070-princess-quest.json) |
