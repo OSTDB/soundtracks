@@ -1674,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warptank | 318726 | [318726-warptank.json](./318726-warptank.json) |
 | WarpVector | 215665 | [215665-warpvector.json](./215665-warpvector.json) |
 | Warpzone Drifter | 111853 | [111853-warpzone-drifter.json](./111853-warpzone-drifter.json) |
+| Warpzone Drifter 2 | 276583 | [276583-warpzone-drifter-2.json](./276583-warpzone-drifter-2.json) |
 | WarpZone vs. The Dimension | 122148 | [122148-warpzone-vs-the-dimension.json](./122148-warpzone-vs-the-dimension.json) |
 | Warraff Online | 417397 | [417397-warraff-online.json](./417397-warraff-online.json) |
 | Warranty Man | 338397 | [338397-warranty-man.json](./338397-warranty-man.json) |
@@ -3233,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What do You Call a Group of Skeletons? | 352546 | [352546-what-do-you-call-a-group-of-skeletons.json](./352546-what-do-you-call-a-group-of-skeletons.json) |
 | What Do You Know? | 234723 | [234723-what-do-you-know.json](./234723-what-do-you-know.json) |
 | What Friends Are For | 251375 | [251375-what-friends-are-for.json](./251375-what-friends-are-for.json) |
+| What Games Does Your Dad Play | 276577 | [276577-what-games-does-your-dad-play.json](./276577-what-games-does-your-dad-play.json) |
 | What Girls Do in the Dark | 323557 | [323557-what-girls-do-in-the-dark.json](./323557-what-girls-do-in-the-dark.json) |
 | What Goes Pumpkin the Night | 186181 | [186181-what-goes-pumpkin-the-night.json](./186181-what-goes-pumpkin-the-night.json) |
 | What Goes Up | 144786 | [144786-what-goes-up.json](./144786-what-goes-up.json) |
@@ -4763,6 +4765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | William and Sly | 253811 | [253811-william-and-sly.json](./253811-william-and-sly.json) |
 | William and Sly | 377899 | [377899-william-and-sly.json](./377899-william-and-sly.json) |
 | William and Sly 2 | 377900 | [377900-william-and-sly-2.json](./377900-william-and-sly-2.json) |
+| William and Sly: Classic Collection | 276581 | [276581-william-and-sly-classic-collection.json](./276581-william-and-sly-classic-collection.json) |
 | William and the Lands of Rage | 127621 | [127621-william-and-the-lands-of-rage.json](./127621-william-and-the-lands-of-rage.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
 | William the Conqueror | 102014 | [102014-william-the-conqueror.json](./102014-william-the-conqueror.json) |
@@ -6012,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Ridge | 132578 | [132578-wolf-ridge.json](./132578-wolf-ridge.json) |
 | Wolf Riot | 193491 | [193491-wolf-riot.json](./193491-wolf-riot.json) |
 | Wolf Sheep & Cabbage | 381383 | [381383-wolf-sheep-and-cabbage.json](./381383-wolf-sheep-and-cabbage.json) |
+| Wolf Sheep Cabbage | 276580 | [276580-wolf-sheep-cabbage.json](./276580-wolf-sheep-cabbage.json) |
 | Wolf Simulator | 253803 | [253803-wolf-simulator.json](./253803-wolf-simulator.json) |
 | Wolf Souls | 249670 | [249670-wolf-souls.json](./249670-wolf-souls.json) |
 | Wolf Souls: Arena | 324331 | [324331-wolf-souls-arena.json](./324331-wolf-souls-arena.json) |
