@@ -1229,7 +1229,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Battlesector – Deeds of the Fallen | 344677 | [344677-warhammer-40-000-battlesector-deeds-of-the-fallen.json](./344677-warhammer-40-000-battlesector-deeds-of-the-fallen.json) |
 | Warhammer 40,000: Boltgun - Forges of Corruption Edition | 306489 | [306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json](./306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json) |
 | Warhammer 40,000: Boltgun Boom | 402507 | [402507-warhammer-40-000-boltgun-boom.json](./402507-warhammer-40-000-boltgun-boom.json) |
-| Warhammer 40,000: Chaos Gate - Daemonhunters | 152266 | [152266-warhammer-40-000-chaos-gate-daemonhunters.json](./152266-warhammer-40-000-chaos-gate-daemonhunters.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters Castellan Champion Upgrade Pack | 201521 | [201521-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-upgrade-pack.json](./201521-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-upgrade-pack.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters: Castellan - Garran Crowe | 303284 | [303284-warhammer-40-000-chaos-gate-daemonhunters-castellan-garran-crowe.json](./303284-warhammer-40-000-chaos-gate-daemonhunters-castellan-garran-crowe.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters: Castellan Champion Edition | 193689 | [193689-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-edition.json](./193689-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-edition.json) |
