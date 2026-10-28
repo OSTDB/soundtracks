@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackpot | 312259 | [312259-jackpot.json](./312259-jackpot.json) |
 | Jackpot | 84321 | [84321-jackpot.json](./84321-jackpot.json) |
 | Jackpot 2 | 266152 | [266152-jackpot-2.json](./266152-jackpot-2.json) |
+| Jackpot 3 | 265819 | [265819-jackpot-3.json](./265819-jackpot-3.json) |
 | Jackpot 777 | 85201 | [85201-jackpot-777.json](./85201-jackpot-777.json) |
 | Jackpot Buffalo Slots | 393538 | [393538-jackpot-buffalo-slots.json](./393538-jackpot-buffalo-slots.json) |
 | Jackpot Crash Course | 374296 | [374296-jackpot-crash-course.json](./374296-jackpot-crash-course.json) |
