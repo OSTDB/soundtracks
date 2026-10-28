@@ -15592,6 +15592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountaineer | 55712 | [55712-mountaineer.json](./55712-mountaineer.json) |
 | Mountains and Rivers scroll | 158100 | [158100-mountains-and-rivers-scroll.json](./158100-mountains-and-rivers-scroll.json) |
 | Mountains of Ket | 71424 | [71424-mountains-of-ket.json](./71424-mountains-of-ket.json) |
+| Mountains of Madness | 258302 | [258302-mountains-of-madness.json](./258302-mountains-of-madness.json) |
 | Mounted Knights Battle: Medieval Warrior Honor Simulator | 299524 | [299524-mounted-knights-battle-medieval-warrior-honor-simulator.json](./299524-mounted-knights-battle-medieval-warrior-honor-simulator.json) |
 | Mounted War | 336691 | [336691-mounted-war.json](./336691-mounted-war.json) |
 | Mountinuum | 285047 | [285047-mountinuum.json](./285047-mountinuum.json) |
@@ -17503,6 +17504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Farm 3D | 84714 | [84714-my-farm-3d.json](./84714-my-farm-3d.json) |
 | My Farm Life | 53391 | [53391-my-farm-life.json](./53391-my-farm-life.json) |
 | My Farm Life 2 | 54225 | [54225-my-farm-life-2.json](./54225-my-farm-life-2.json) |
+| My Father Lied | 258585 | [258585-my-father-lied.json](./258585-my-father-lied.json) |
 | My Father My Son | 188684 | [188684-my-father-my-son.json](./188684-my-father-my-son.json) |
 | My Father's House | 265318 | [265318-my-fathers-house.json](./265318-my-fathers-house.json) |
 | My Father's Secret | 170351 | [170351-my-fathers-secret.json](./170351-my-fathers-secret.json) |
@@ -17891,6 +17893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Work: Garage | 89180 | [89180-my-little-work-garage.json](./89180-my-little-work-garage.json) |
 | My Little World | 191524 | [191524-my-little-world.json](./191524-my-little-world.json) |
 | My Little Worms | 55718 | [55718-my-little-worms.json](./55718-my-little-worms.json) |
+| My Littlest Skeleton | 258301 | [258301-my-littlest-skeleton.json](./258301-my-littlest-skeleton.json) |
 | My Love 2 | 303286 | [303286-my-love-2.json](./303286-my-love-2.json) |
 | My Love for You is Evermore | 254570 | [254570-my-love-for-you-is-evermore.json](./254570-my-love-for-you-is-evermore.json) |
 | My Love for You is Evermore: Manager's Route | 281582 | [281582-my-love-for-you-is-evermore-managers-route.json](./281582-my-love-for-you-is-evermore-managers-route.json) |
