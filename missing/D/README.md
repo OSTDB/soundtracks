@@ -6683,6 +6683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Deep | 175214 | [175214-detective-deep.json](./175214-detective-deep.json) |
 | Detective Di: The Silk Rose Murders | 24444 | [24444-detective-di-the-silk-rose-murders.json](./24444-detective-di-the-silk-rose-murders.json) |
 | Detective Diaries | 302499 | [302499-detective-diaries.json](./302499-detective-diaries.json) |
+| Detective Dotson | 258809 | [258809-detective-dotson.json](./258809-detective-dotson.json) |
 | Detective Dotson: Chapter Two | 368627 | [368627-detective-dotson-chapter-two.json](./368627-detective-dotson-chapter-two.json) |
 | Detective Driver: Miami Files | 90352 | [90352-detective-driver-miami-files.json](./90352-detective-driver-miami-files.json) |
 | Detective Dunkadoo | 386965 | [386965-detective-dunkadoo.json](./386965-detective-dunkadoo.json) |
