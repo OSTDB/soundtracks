@@ -2590,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daymare Stray | 250344 | [250344-daymare-stray.json](./250344-daymare-stray.json) |
 | Daymare Town | 257446 | [257446-daymare-town.json](./257446-daymare-town.json) |
 | Daymare Town | 279235 | [279235-daymare-town.json](./279235-daymare-town.json) |
+| Daymare Town 1 | 257490 | [257490-daymare-town-1.json](./257490-daymare-town-1.json) |
 | Daymare Town 2 | 257642 | [257642-daymare-town-2.json](./257642-daymare-town-2.json) |
 | Daymare Town 2 | 257643 | [257643-daymare-town-2.json](./257643-daymare-town-2.json) |
 | Daymare Town 3 | 257644 | [257644-daymare-town-3.json](./257644-daymare-town-3.json) |
@@ -8912,6 +8913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley: Arcade Edition | 357417 | [357417-disney-dreamlight-valley-arcade-edition.json](./357417-disney-dreamlight-valley-arcade-edition.json) |
 | Disney Dreamlight Valley: Cozy Edition | 270205 | [270205-disney-dreamlight-valley-cozy-edition.json](./270205-disney-dreamlight-valley-cozy-edition.json) |
 | Disney Dreamlight Valley: Deluxe Edition | 214448 | [214448-disney-dreamlight-valley-deluxe-edition.json](./214448-disney-dreamlight-valley-deluxe-edition.json) |
+| Disney Dreamlight Valley: DreamSnaps Update | 257508 | [257508-disney-dreamlight-valley-dreamsnaps-update.json](./257508-disney-dreamlight-valley-dreamsnaps-update.json) |
 | Disney Dreamlight Valley: Emotional Rescue | 362263 | [362263-disney-dreamlight-valley-emotional-rescue.json](./362263-disney-dreamlight-valley-emotional-rescue.json) |
 | Disney Dreamlight Valley: Enchanted Adventure | 266853 | [266853-disney-dreamlight-valley-enchanted-adventure.json](./266853-disney-dreamlight-valley-enchanted-adventure.json) |
 | Disney Dreamlight Valley: Enchanted Edition | 331226 | [331226-disney-dreamlight-valley-enchanted-edition.json](./331226-disney-dreamlight-valley-enchanted-edition.json) |
@@ -12054,6 +12056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down the Deep | 191612 | [191612-down-the-deep.json](./191612-down-the-deep.json) |
 | Down the Drain | 256830 | [256830-down-the-drain.json](./256830-down-the-drain.json) |
 | Down the Dungeon | 393545 | [393545-down-the-dungeon.json](./393545-down-the-dungeon.json) |
+| Down the Eye of the Tiger | 257195 | [257195-down-the-eye-of-the-tiger.json](./257195-down-the-eye-of-the-tiger.json) |
 | Down the Gutter | 271335 | [271335-down-the-gutter.json](./271335-down-the-gutter.json) |
 | Down the Hill! | 259239 | [259239-down-the-hill.json](./259239-down-the-hill.json) |
 | Down the Hole | 133813 | [133813-down-the-hole.json](./133813-down-the-hole.json) |
