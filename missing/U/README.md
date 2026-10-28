@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | uDraw Pictionary | 5186 | [5186-udraw-pictionary.json](./5186-udraw-pictionary.json) |
 | uDraw Studio | 5185 | [5185-udraw-studio.json](./5185-udraw-studio.json) |
 | Uebergame | 34673 | [34673-uebergame.json](./34673-uebergame.json) |
+| Uebernatural: The Video Game | 266951 | [266951-uebernatural-the-video-game.json](./266951-uebernatural-the-video-game.json) |
 | UEDI: Shadow of the Citadel | 129801 | [129801-uedi-shadow-of-the-citadel.json](./129801-uedi-shadow-of-the-citadel.json) |
 | UEFA 2000 | 282707 | [282707-uefa-2000.json](./282707-uefa-2000.json) |
 | UEFA 2001 | 237507 | [237507-uefa-2001.json](./237507-uefa-2001.json) |
