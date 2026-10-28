@@ -3609,6 +3609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ent | 183892 | [183892-ent.json](./183892-ent.json) |
 | Entaku no Seito | 13201 | [13201-entaku-no-seito.json](./13201-entaku-no-seito.json) |
 | Entaku no Seito 2 | 74156 | [74156-entaku-no-seito-2.json](./74156-entaku-no-seito-2.json) |
+| Entaku no Seito: DRPG Selection | 268852 | [268852-entaku-no-seito-drpg-selection.json](./268852-entaku-no-seito-drpg-selection.json) |
 | Entaku no Seito: The Eternal Legend | 13216 | [13216-entaku-no-seito-the-eternal-legend.json](./13216-entaku-no-seito-the-eternal-legend.json) |
 | Entangled | 105321 | [105321-entangled.json](./105321-entangled.json) |
 | Entangled | 212158 | [212158-entangled.json](./212158-entangled.json) |
@@ -5067,6 +5068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essence of the Tjikko | 191491 | [191491-essence-of-the-tjikko.json](./191491-essence-of-the-tjikko.json) |
 | Essence of Waluigi | 250044 | [250044-essence-of-waluigi.json](./250044-essence-of-waluigi.json) |
 | Essence of Waluigi II: Eternal Awakening | 307404 | [307404-essence-of-waluigi-ii-eternal-awakening.json](./307404-essence-of-waluigi-ii-eternal-awakening.json) |
+| Essence//Structure | 269151 | [269151-essence-structure.json](./269151-essence-structure.json) |
 | Essential Mayhem | 159739 | [159739-essential-mayhem.json](./159739-essential-mayhem.json) |
 | Essential Power | 369038 | [369038-essential-power.json](./369038-essential-power.json) |
 | Essentures | 115455 | [115455-essentures.json](./115455-essentures.json) |
