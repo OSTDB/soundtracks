@@ -1918,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raven II | 357402 | [357402-raven-ii.json](./357402-raven-ii.json) |
 | Raven Port | 151460 | [151460-raven-port.json](./151460-raven-port.json) |
 | Raven Quest | 133198 | [133198-raven-quest.json](./133198-raven-quest.json) |
+| Raven Simulator | 275992 | [275992-raven-simulator.json](./275992-raven-simulator.json) |
 | Raven Squad: Operation Hidden Dagger | 7156 | [7156-raven-squad-operation-hidden-dagger.json](./7156-raven-squad-operation-hidden-dagger.json) |
 | Raven Tea | 371563 | [371563-raven-tea.json](./371563-raven-tea.json) |
 | Raven the Last Neko Slayer | 114083 | [114083-raven-the-last-neko-slayer.json](./114083-raven-the-last-neko-slayer.json) |
@@ -2155,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
 | Razenroth 2 | 163185 | [163185-razenroth-2.json](./163185-razenroth-2.json) |
 | RazePact | 356644 | [356644-razepact.json](./356644-razepact.json) |
+| Razerwire: Nanowars - Deluxe Edition | 276328 | [276328-razerwire-nanowars-deluxe-edition.json](./276328-razerwire-nanowars-deluxe-edition.json) |
 | Razgovor Online | 253878 | [253878-razgovor-online.json](./253878-razgovor-online.json) |
 | Raziel | 174742 | [174742-raziel.json](./174742-raziel.json) |
 | Raziel Dungeon Arena | 225689 | [225689-raziel-dungeon-arena.json](./225689-raziel-dungeon-arena.json) |
