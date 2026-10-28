@@ -3275,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyager | 12930 | [12930-voyager.json](./12930-voyager.json) |
 | Voyager | 131492 | [131492-voyager.json](./131492-voyager.json) |
 | Voyager | 220523 | [220523-voyager.json](./220523-voyager.json) |
+| Voyager | 237586 | [237586-voyager.json](./237586-voyager.json) |
 | Voyager | 284566 | [284566-voyager.json](./284566-voyager.json) |
 | Voyager | 346075 | [346075-voyager.json](./346075-voyager.json) |
 | Voyager I: Sabotage of the Robot Ship | 24848 | [24848-voyager-i-sabotage-of-the-robot-ship.json](./24848-voyager-i-sabotage-of-the-robot-ship.json) |
