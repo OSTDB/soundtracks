@@ -4081,6 +4081,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Witch | 346108 | [346108-white-witch.json](./346108-white-witch.json) |
 | White Wolf: Treasure Hunter | 243612 | [243612-white-wolf-treasure-hunter.json](./243612-white-wolf-treasure-hunter.json) |
 | White Wolf: Treasure Hunter 2 | 273382 | [273382-white-wolf-treasure-hunter-2.json](./273382-white-wolf-treasure-hunter-2.json) |
+| White-Hot Puyolympic! | 253721 | [253721-white-hot-puyolympic.json](./253721-white-hot-puyolympic.json) |
+| White-Hot! Puyolympic! in Bazaru | 253722 | [253722-white-hot-puyolympic-in-bazaru.json](./253722-white-hot-puyolympic-in-bazaru.json) |
 | White-Water Domo | 68060 | [68060-white-water-domo.json](./68060-white-water-domo.json) |
 | White: Invasion | 297983 | [297983-white-invasion.json](./297983-white-invasion.json) |
 | WhiteBird | 119670 | [119670-whitebird.json](./119670-whitebird.json) |
