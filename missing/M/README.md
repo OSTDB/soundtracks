@@ -4534,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of the Harem Guild | 109618 | [109618-master-of-the-harem-guild.json](./109618-master-of-the-harem-guild.json) |
 | Master of the Manor | 388164 | [388164-master-of-the-manor.json](./388164-master-of-the-manor.json) |
 | Master of the Monster Lair | 21276 | [21276-master-of-the-monster-lair.json](./21276-master-of-the-monster-lair.json) |
+| Master of The Secret Sea | 270479 | [270479-master-of-the-secret-sea.json](./270479-master-of-the-secret-sea.json) |
 | Master of the Skies: The Red Ace | 63183 | [63183-master-of-the-skies-the-red-ace.json](./63183-master-of-the-skies-the-red-ace.json) |
 | Master of the Tattooverse | 208823 | [208823-master-of-the-tattooverse.json](./208823-master-of-the-tattooverse.json) |
 | Master of the Wind | 123642 | [123642-master-of-the-wind.json](./123642-master-of-the-wind.json) |
@@ -4970,6 +4971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matsumoto Toru no Kabushiki Hisshougaku II | 48782 | [48782-matsumoto-toru-no-kabushiki-hisshougaku-ii.json](./48782-matsumoto-toru-no-kabushiki-hisshougaku-ii.json) |
 | Matsumura Kunihiro-den: Saikyou no Rekishi wo Nurikaero! | 38211 | [38211-matsumura-kunihiro-den-saikyou-no-rekishi-wo-nurikaero.json](./38211-matsumura-kunihiro-den-saikyou-no-rekishi-wo-nurikaero.json) |
 | Matsuri Messiah | 314799 | [314799-matsuri-messiah.json](./314799-matsuri-messiah.json) |
+| Matsurika no Kei: Tenmeiin Iden | 270501 | [270501-matsurika-no-kei-tenmeiin-iden.json](./270501-matsurika-no-kei-tenmeiin-iden.json) |
 | Matsurikki | 202314 | [202314-matsurikki.json](./202314-matsurikki.json) |
 | Matsuro Palette | 245042 | [245042-matsuro-palette.json](./245042-matsuro-palette.json) |
 | Matsutake Game | 294007 | [294007-matsutake-game.json](./294007-matsutake-game.json) |
@@ -13117,6 +13119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Forward | 295553 | [295553-monkey-forward.json](./295553-monkey-forward.json) |
 | Monkey Fright | 257405 | [257405-monkey-fright.json](./257405-monkey-fright.json) |
 | Monkey Fruit Fight! | 366302 | [366302-monkey-fruit-fight.json](./366302-monkey-fruit-fight.json) |
+| Monkey Game | 270483 | [270483-monkey-game.json](./270483-monkey-game.json) |
 | Monkey Gang | 351007 | [351007-monkey-gang.json](./351007-monkey-gang.json) |
 | Monkey Gems | 366443 | [366443-monkey-gems.json](./366443-monkey-gems.json) |
 | Monkey GO Happy | 395115 | [395115-monkey-go-happy.json](./395115-monkey-go-happy.json) |
