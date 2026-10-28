@@ -8939,6 +8939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blob Dash | 205619 | [205619-blob-dash.json](./205619-blob-dash.json) |
 | Blob Factory | 407300 | [407300-blob-factory.json](./407300-blob-factory.json) |
 | Blob King | 124762 | [124762-blob-king.json](./124762-blob-king.json) |
+| Blob Life | 270482 | [270482-blob-life.json](./270482-blob-life.json) |
 | Blob Man | 287493 | [287493-blob-man.json](./287493-blob-man.json) |
 | Blob Person | 149715 | [149715-blob-person.json](./149715-blob-person.json) |
 | Blob Quest | 213391 | [213391-blob-quest.json](./213391-blob-quest.json) |
@@ -11440,6 +11441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
 | Bootloop | 362055 | [362055-bootloop.json](./362055-bootloop.json) |
 | Bootombaa | 29185 | [29185-bootombaa.json](./29185-bootombaa.json) |
+| Boots and Daggers | 270493 | [270493-boots-and-daggers.json](./270493-boots-and-daggers.json) |
 | Boots Versus Plants | 157961 | [157961-boots-versus-plants.json](./157961-boots-versus-plants.json) |
 | Bootsies | 335397 | [335397-bootsies.json](./335397-bootsies.json) |
 | Bootstrap Island | 196895 | [196895-bootstrap-island.json](./196895-bootstrap-island.json) |
