@@ -6022,6 +6022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: CastleStorm | 247674 | [247674-pinball-fx-castlestorm.json](./247674-pinball-fx-castlestorm.json) |
 | Pinball FX: Charity Pack | 308577 | [308577-pinball-fx-charity-pack.json](./308577-pinball-fx-charity-pack.json) |
 | Pinball FX: Core Collection | 247685 | [247685-pinball-fx-core-collection.json](./247685-pinball-fx-core-collection.json) |
+| Pinball FX: DreamWorks Pinball | 231016 | [231016-pinball-fx-dreamworks-pinball.json](./231016-pinball-fx-dreamworks-pinball.json) |
 | Pinball FX: Earth Defense | 395548 | [395548-pinball-fx-earth-defense.json](./395548-pinball-fx-earth-defense.json) |
 | Pinball FX: Excalibur | 395549 | [395549-pinball-fx-excalibur.json](./395549-pinball-fx-excalibur.json) |
 | Pinball FX: Garfield Pinball | 239031 | [239031-pinball-fx-garfield-pinball.json](./239031-pinball-fx-garfield-pinball.json) |
@@ -12104,6 +12105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predator: Hunting Grounds - Dante "Beast Mode" Jefferson | 168764 | [168764-predator-hunting-grounds-dante-beast-mode-jefferson.json](./168764-predator-hunting-grounds-dante-beast-mode-jefferson.json) |
 | Predator: Hunting Grounds - Dutch '87 | 168762 | [168762-predator-hunting-grounds-dutch-87.json](./168762-predator-hunting-grounds-dutch-87.json) |
 | Predator: Hunting Grounds - Dutch 2025 DLC Pack | 168759 | [168759-predator-hunting-grounds-dutch-2025-dlc-pack.json](./168759-predator-hunting-grounds-dutch-2025-dlc-pack.json) |
+| Predator: Hunting Grounds - Hunting Party DLC Bundle 3 | 231019 | [231019-predator-hunting-grounds-hunting-party-dlc-bundle-3.json](./231019-predator-hunting-grounds-hunting-party-dlc-bundle-3.json) |
 | Predator: Hunting Grounds - Isabelle Fireteam DLC Pack | 168760 | [168760-predator-hunting-grounds-isabelle-fireteam-dlc-pack.json](./168760-predator-hunting-grounds-isabelle-fireteam-dlc-pack.json) |
 | Predator: Hunting Grounds - Jotun Predator | 387641 | [387641-predator-hunting-grounds-jotun-predator.json](./387641-predator-hunting-grounds-jotun-predator.json) |
 | Predator: Hunting Grounds - Jungle Edition | 331853 | [331853-predator-hunting-grounds-jungle-edition.json](./331853-predator-hunting-grounds-jungle-edition.json) |
@@ -15799,6 +15801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Box: Animals | 305617 | [305617-puzzle-box-animals.json](./305617-puzzle-box-animals.json) |
 | Puzzle Boy | 250213 | [250213-puzzle-boy.json](./250213-puzzle-boy.json) |
 | Puzzle Boys | 41393 | [41393-puzzle-boys.json](./41393-puzzle-boys.json) |
+| Puzzle Bundle for Toddlers and Kids: 7 in 1 | 231035 | [231035-puzzle-bundle-for-toddlers-and-kids-7-in-1.json](./231035-puzzle-bundle-for-toddlers-and-kids-7-in-1.json) |
 | Puzzle Bundle Xbox: Mimi New Friend, Sokocrab and StoryBlocks | 335104 | [335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json](./335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json) |
 | Puzzle Bundle Xbox: PuzzlePet - Feed Your Cat, Say Cheese, Mimi the Cat: New Friends, Story Blocks: The King and Sokocrab | 335103 | [335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json](./335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json) |
 | Puzzle Bundle: 3 in 1 | 147804 | [147804-puzzle-bundle-3-in-1.json](./147804-puzzle-bundle-3-in-1.json) |
@@ -16069,6 +16072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Vacations: Australia and New Zealand | 278495 | [278495-puzzle-vacations-australia-and-new-zealand.json](./278495-puzzle-vacations-australia-and-new-zealand.json) |
 | Puzzle Vacations: Christmas | 275443 | [275443-puzzle-vacations-christmas.json](./275443-puzzle-vacations-christmas.json) |
 | Puzzle Vacations: France | 315898 | [315898-puzzle-vacations-france.json](./315898-puzzle-vacations-france.json) |
+| Puzzle Vacations: Ireland | 231027 | [231027-puzzle-vacations-ireland.json](./231027-puzzle-vacations-ireland.json) |
 | Puzzle Vacations: Italy | 322976 | [322976-puzzle-vacations-italy.json](./322976-puzzle-vacations-italy.json) |
 | Puzzle Vacations: Japan | 275442 | [275442-puzzle-vacations-japan.json](./275442-puzzle-vacations-japan.json) |
 | Puzzle Vacations: Nordics | 315897 | [315897-puzzle-vacations-nordics.json](./315897-puzzle-vacations-nordics.json) |
