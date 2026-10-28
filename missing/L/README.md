@@ -8217,6 +8217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lugaru HD | 180628 | [180628-lugaru-hd.json](./180628-lugaru-hd.json) |
 | Luge Crush 2018 | 87201 | [87201-luge-crush-2018.json](./87201-luge-crush-2018.json) |
 | Luggage Lane | 314474 | [314474-luggage-lane.json](./314474-luggage-lane.json) |
+| Luggage Retrieval Officer | 242147 | [242147-luggage-retrieval-officer.json](./242147-luggage-retrieval-officer.json) |
 | Luhor's Memory | 393748 | [393748-luhors-memory.json](./393748-luhors-memory.json) |
 | Luigi & Spaghetti | 94408 | [94408-luigi-and-spaghetti.json](./94408-luigi-and-spaghetti.json) |
 | Luigi and the Island of Mystery | 273029 | [273029-luigi-and-the-island-of-mystery.json](./273029-luigi-and-the-island-of-mystery.json) |
