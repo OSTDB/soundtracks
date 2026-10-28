@@ -2415,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acne Attack | 72158 | [72158-acne-attack.json](./72158-acne-attack.json) |
 | Acno's Energizer | 326749 | [326749-acnos-energizer.json](./326749-acnos-energizer.json) |
 | Acolyte Fight! | 112251 | [112251-acolyte-fight.json](./112251-acolyte-fight.json) |
+| Acolyte of the Altar | 244924 | [244924-acolyte-of-the-altar.json](./244924-acolyte-of-the-altar.json) |
 | Aconcagua | 94123 | [94123-aconcagua.json](./94123-aconcagua.json) |
 | Aconite | 261712 | [261712-aconite.json](./261712-aconite.json) |
 | Aconitum | 379468 | [379468-aconitum.json](./379468-aconitum.json) |
@@ -13313,6 +13314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassination Classroom: Koro-Sensei's Great Besiegement!! | 64206 | [64206-assassination-classroom-koro-senseis-great-besiegement.json](./64206-assassination-classroom-koro-senseis-great-besiegement.json) |
 | Assassination Station | 54985 | [54985-assassination-station.json](./54985-assassination-station.json) |
 | Assassins Arena | 348897 | [348897-assassins-arena.json](./348897-assassins-arena.json) |
+| Assassins of Darkness | 244596 | [244596-assassins-of-darkness.json](./244596-assassins-of-darkness.json) |
 | Assassins Unleashed: The Apocalypse | 296492 | [296492-assassins-unleashed-the-apocalypse.json](./296492-assassins-unleashed-the-apocalypse.json) |
 | Assassinvisible | 378604 | [378604-assassinvisible.json](./378604-assassinvisible.json) |
 | Assau!t | 168221 | [168221-assau-t.json](./168221-assau-t.json) |
@@ -15779,6 +15781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aye Leon | 387342 | [387342-aye-leon.json](./387342-aye-leon.json) |
 | Aye! My Liege | 397390 | [397390-aye-my-liege.json](./397390-aye-my-liege.json) |
 | Ayin | 387724 | [387724-ayin.json](./387724-ayin.json) |
+| Ayla's Dollhouse | 244588 | [244588-aylas-dollhouse.json](./244588-aylas-dollhouse.json) |
 | Ayleouna | 198096 | [198096-ayleouna.json](./198096-ayleouna.json) |
 | Aylin: The Story of Tom | 359072 | [359072-aylin-the-story-of-tom.json](./359072-aylin-the-story-of-tom.json) |
 | Ayni Fairyland | 107896 | [107896-ayni-fairyland.json](./107896-ayni-fairyland.json) |
