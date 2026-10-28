@@ -2668,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality Falls | 110861 | [110861-reality-falls.json](./110861-reality-falls.json) |
 | Reality Fighters | 20732 | [20732-reality-fighters.json](./20732-reality-fighters.json) |
 | Reality Mod | 209539 | [209539-reality-mod.json](./209539-reality-mod.json) |
+| Reality Patrol | 265795 | [265795-reality-patrol.json](./265795-reality-patrol.json) |
 | Reality Raiders | 44216 | [44216-reality-raiders.json](./44216-reality-raiders.json) |
 | Reality Rash | 221094 | [221094-reality-rash.json](./221094-reality-rash.json) |
 | Reality Rifts | 320517 | [320517-reality-rifts.json](./320517-reality-rifts.json) |
@@ -10191,6 +10192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubik's Cube VR | 112126 | [112126-rubiks-cube-vr.json](./112126-rubiks-cube-vr.json) |
 | Rubik's Games | 78886 | [78886-rubiks-games.json](./78886-rubiks-games.json) |
 | Rubik's Puzzle World | 5131 | [5131-rubiks-puzzle-world.json](./5131-rubiks-puzzle-world.json) |
+| Rubinite | 265796 | [265796-rubinite.json](./265796-rubinite.json) |
 | Rubix Roller | 153821 | [153821-rubix-roller.json](./153821-rubix-roller.json) |
 | Rubu Tribe | 91873 | [91873-rubu-tribe.json](./91873-rubu-tribe.json) |
 | Ruby and the Lost Crystals | 360581 | [360581-ruby-and-the-lost-crystals.json](./360581-ruby-and-the-lost-crystals.json) |
