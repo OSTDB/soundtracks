@@ -7744,6 +7744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Fight | 357318 | [357318-food-fight.json](./357318-food-fight.json) |
 | Food Fight Fiesta: Multi-Use Cards | 333500 | [333500-food-fight-fiesta-multi-use-cards.json](./333500-food-fight-fiesta-multi-use-cards.json) |
 | Food Fight: Culinary Combat | 325901 | [325901-food-fight-culinary-combat.json](./325901-food-fight-culinary-combat.json) |
+| Food Fighter Clicker Games | 262505 | [262505-food-fighter-clicker-games.json](./262505-food-fighter-clicker-games.json) |
 | Food For Pigs | 235308 | [235308-food-for-pigs.json](./235308-food-for-pigs.json) |
 | Food Force | 70363 | [70363-food-force.json](./70363-food-force.json) |
 | Food Frenzy | 209465 | [209465-food-frenzy.json](./209465-food-frenzy.json) |
