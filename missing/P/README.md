@@ -10248,6 +10248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Simulator: Patrol Officers - Nintendo Switch Edition | 308630 | [308630-police-simulator-patrol-officers-nintendo-switch-edition.json](./308630-police-simulator-patrol-officers-nintendo-switch-edition.json) |
 | Police Simulator: Patrol Officers - Steelbook Edition | 210908 | [210908-police-simulator-patrol-officers-steelbook-edition.json](./210908-police-simulator-patrol-officers-steelbook-edition.json) |
 | Police Simulator: Patrol Officers - Surveillance Police Vehicle | 278391 | [278391-police-simulator-patrol-officers-surveillance-police-vehicle.json](./278391-police-simulator-patrol-officers-surveillance-police-vehicle.json) |
+| Police Simulator: Patrol Officers - Urban Terrain Vehicle | 268836 | [268836-police-simulator-patrol-officers-urban-terrain-vehicle.json](./268836-police-simulator-patrol-officers-urban-terrain-vehicle.json) |
 | Police Simulator: Patrol Officers - Warden Police Vehicle | 290843 | [290843-police-simulator-patrol-officers-warden-police-vehicle.json](./290843-police-simulator-patrol-officers-warden-police-vehicle.json) |
 | Police Skill | 277706 | [277706-police-skill.json](./277706-police-skill.json) |
 | Police Station Cop Inc: Tycoon | 174884 | [174884-police-station-cop-inc-tycoon.json](./174884-police-station-cop-inc-tycoon.json) |
@@ -12886,6 +12887,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prize Fighter | 5424 | [5424-prize-fighter.json](./5424-prize-fighter.json) |
 | Prize Fighter: Heavyweight Edition | 375599 | [375599-prize-fighter-heavyweight-edition.json](./375599-prize-fighter-heavyweight-edition.json) |
 | Prize Fighter: Remastered | 203790 | [203790-prize-fighter-remastered.json](./203790-prize-fighter-remastered.json) |
+| Prize Space Invaders | 269145 | [269145-prize-space-invaders.json](./269145-prize-space-invaders.json) |
+| Prize Tetris | 269146 | [269146-prize-tetris.json](./269146-prize-tetris.json) |
 | Prizefight | 68609 | [68609-prizefight.json](./68609-prizefight.json) |
 | Prizefighters | 239914 | [239914-prizefighters.json](./239914-prizefighters.json) |
 | Prizefighters 2 | 152668 | [152668-prizefighters-2.json](./152668-prizefighters-2.json) |
