@@ -935,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
 | Dangerous Connections | 303452 | [303452-dangerous-connections.json](./303452-dangerous-connections.json) |
 | Dangerous Curves | 330573 | [330573-dangerous-curves.json](./330573-dangerous-curves.json) |
+| Dangerous Dave Champion's Edition | 242917 | [242917-dangerous-dave-champions-edition.json](./242917-dangerous-dave-champions-edition.json) |
 | Dangerous Dave GS | 11385 | [11385-dangerous-dave-gs.json](./11385-dangerous-dave-gs.json) |
 | Dangerous Dave in the Deserted Pirate's Hideout | 11384 | [11384-dangerous-dave-in-the-deserted-pirates-hideout.json](./11384-dangerous-dave-in-the-deserted-pirates-hideout.json) |
 | Dangerous Dave Returns | 11387 | [11387-dangerous-dave-returns.json](./11387-dangerous-dave-returns.json) |
@@ -4632,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Hunter 2 | 95989 | [95989-deep-sea-hunter-2.json](./95989-deep-sea-hunter-2.json) |
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
 | Deep Sea Puzzle | 382453 | [382453-deep-sea-puzzle.json](./382453-deep-sea-puzzle.json) |
+| Deep Sea Quest: Rescue the Lost Mermaid | 243840 | [243840-deep-sea-quest-rescue-the-lost-mermaid.json](./243840-deep-sea-quest-rescue-the-lost-mermaid.json) |
 | Deep Sea Rhapsody | 250776 | [250776-deep-sea-rhapsody.json](./250776-deep-sea-rhapsody.json) |
 | Deep Sea Sweep | 250257 | [250257-deep-sea-sweep.json](./250257-deep-sea-sweep.json) |
 | Deep Sea Trip | 237235 | [237235-deep-sea-trip.json](./237235-deep-sea-trip.json) |
@@ -6251,6 +6253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert War WWII | 224676 | [224676-desert-war-wwii.json](./224676-desert-war-wwii.json) |
 | Desert War: Military Combat Shooter | 376711 | [376711-desert-war-military-combat-shooter.json](./376711-desert-war-military-combat-shooter.json) |
 | Desert Witch | 291693 | [291693-desert-witch.json](./291693-desert-witch.json) |
+| Desert Worms | 243851 | [243851-desert-worms.json](./243851-desert-worms.json) |
 | Deserted | 149203 | [149203-deserted.json](./149203-deserted.json) |
 | Deserted Island | 138823 | [138823-deserted-island.json](./138823-deserted-island.json) |
 | Deserted Island | 343742 | [343742-deserted-island.json](./343742-deserted-island.json) |
@@ -7908,6 +7911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digit Dare | 266124 | [266124-digit-dare.json](./266124-digit-dare.json) |
 | Digit Daze | 101350 | [101350-digit-daze.json](./101350-digit-daze.json) |
 | Digit Factory | 221128 | [221128-digit-factory.json](./221128-digit-factory.json) |
+| Digit God | 243309 | [243309-digit-god.json](./243309-digit-god.json) |
 | Digit Monster II | 247303 | [247303-digit-monster-ii.json](./247303-digit-monster-ii.json) |
 | Digital Ange: Dennou Tenshi SS | 258872 | [258872-digital-ange-dennou-tenshi-ss.json](./258872-digital-ange-dennou-tenshi-ss.json) |
 | Digital Audio Wasteland | 297818 | [297818-digital-audio-wasteland.json](./297818-digital-audio-wasteland.json) |
@@ -12195,6 +12199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downward Spear | 337591 | [337591-downward-spear.json](./337591-downward-spear.json) |
 | Downward Spiral: Prologue | 29981 | [29981-downward-spiral-prologue.json](./29981-downward-spiral-prologue.json) |
 | Downward: Enhanced Edition | 301912 | [301912-downward-enhanced-edition.json](./301912-downward-enhanced-edition.json) |
+| Downwordly | 243316 | [243316-downwordly.json](./243316-downwordly.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
 | Doxxed | 214111 | [214111-doxxed.json](./214111-doxxed.json) |
 | DoxyLanD | 169662 | [169662-doxyland.json](./169662-doxyland.json) |
@@ -12489,6 +12494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag and Drop Medieval | 304865 | [304865-drag-and-drop-medieval.json](./304865-drag-and-drop-medieval.json) |
 | Drag Battle | 249688 | [249688-drag-battle.json](./249688-drag-battle.json) |
 | Drag Battle Top Fuel | 192870 | [192870-drag-battle-top-fuel.json](./192870-drag-battle-top-fuel.json) |
+| Drag Boat Speed Racing | 243312 | [243312-drag-boat-speed-racing.json](./243312-drag-boat-speed-racing.json) |
 | Drag Clash Pro: Hot Rod Racing | 194254 | [194254-drag-clash-pro-hot-rod-racing.json](./194254-drag-clash-pro-hot-rod-racing.json) |
 | Drag Engineer | 171301 | [171301-drag-engineer.json](./171301-drag-engineer.json) |
 | Drag Fight | 208981 | [208981-drag-fight.json](./208981-drag-fight.json) |
@@ -14395,6 +14401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drimsley | 137526 | [137526-drimsley.json](./137526-drimsley.json) |
 | Dringle | 287503 | [287503-dringle.json](./287503-dringle.json) |
 | Drink | 178604 | [178604-drink.json](./178604-drink.json) |
+| Drink and Girls | 243163 | [243163-drink-and-girls.json](./243163-drink-and-girls.json) |
 | Drink Bar Maid | 134608 | [134608-drink-bar-maid.json](./134608-drink-bar-maid.json) |
 | Drink Bar Maid: Regression | 134609 | [134609-drink-bar-maid-regression.json](./134609-drink-bar-maid-regression.json) |
 | Drink Beer, Neglect Family | 185673 | [185673-drink-beer-neglect-family.json](./185673-drink-beer-neglect-family.json) |
