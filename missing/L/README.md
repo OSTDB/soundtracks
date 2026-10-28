@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Idyllic Beauty | 348355 | [348355-land-of-idyllic-beauty.json](./348355-land-of-idyllic-beauty.json) |
 | Land of Illusion Starring Mickey Mouse | 8123 | [8123-land-of-illusion-starring-mickey-mouse.json](./8123-land-of-illusion-starring-mickey-mouse.json) |
 | Land of Legends | 130833 | [130833-land-of-legends.json](./130833-land-of-legends.json) |
+| Land of Legends: Heroes of Loria | 247561 | [247561-land-of-legends-heroes-of-loria.json](./247561-land-of-legends-heroes-of-loria.json) |
 | Land of Livia | 398028 | [398028-land-of-livia.json](./398028-land-of-livia.json) |
 | Land of Mushrooms: Co-Op mode - Play with Friends | 324497 | [324497-land-of-mushrooms-co-op-mode-play-with-friends.json](./324497-land-of-mushrooms-co-op-mode-play-with-friends.json) |
 | Land of Mushrooms: Forest of Nightmares - Background | 324469 | [324469-land-of-mushrooms-forest-of-nightmares-background.json](./324469-land-of-mushrooms-forest-of-nightmares-background.json) |
@@ -7766,6 +7767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Archeologists | 367831 | [367831-lovely-archeologists.json](./367831-lovely-archeologists.json) |
 | Lovely Brides | 259025 | [259025-lovely-brides.json](./259025-lovely-brides.json) |
 | Lovely Bunny Girl! | 97934 | [97934-lovely-bunny-girl.json](./97934-lovely-bunny-girl.json) |
+| Lovely Cat: Dessert Bakery | 247560 | [247560-lovely-cat-dessert-bakery.json](./247560-lovely-cat-dessert-bakery.json) |
 | Lovely Cat: Dream Party | 247520 | [247520-lovely-cat-dream-party.json](./247520-lovely-cat-dream-party.json) |
 | Lovely Cat: Mermaid Castle | 247521 | [247521-lovely-cat-mermaid-castle.json](./247521-lovely-cat-mermaid-castle.json) |
 | Lovely Crush | 236925 | [236925-lovely-crush.json](./236925-lovely-crush.json) |
