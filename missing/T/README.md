@@ -6773,6 +6773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curio Society: Eclipse over Mesina HD | 104543 | [104543-the-curio-society-eclipse-over-mesina-hd.json](./104543-the-curio-society-eclipse-over-mesina-hd.json) |
 | The Curio Society: New Order HD | 91336 | [91336-the-curio-society-new-order-hd.json](./91336-the-curio-society-new-order-hd.json) |
 | The Curiosity | 311801 | [311801-the-curiosity.json](./311801-the-curiosity.json) |
+| The Curious Case of Captain Cray | 257194 | [257194-the-curious-case-of-captain-cray.json](./257194-the-curious-case-of-captain-cray.json) |
 | The Curious Study of Dr. Blackwood | 273846 | [273846-the-curious-study-of-dr-blackwood.json](./273846-the-curious-study-of-dr-blackwood.json) |
 | The Curious Tale of the Stolen Pets | 119332 | [119332-the-curious-tale-of-the-stolen-pets.json](./119332-the-curious-tale-of-the-stolen-pets.json) |
 | The Curry Simulator | 364106 | [364106-the-curry-simulator.json](./364106-the-curry-simulator.json) |
@@ -12084,6 +12085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moon Fields | 76944 | [76944-the-moon-fields.json](./76944-the-moon-fields.json) |
 | The Moon Has Faded Away | 341903 | [341903-the-moon-has-faded-away.json](./341903-the-moon-has-faded-away.json) |
 | The Moon Hell | 224652 | [224652-the-moon-hell.json](./224652-the-moon-hell.json) |
+| The Moon Looks Beautiful Tonight | 257487 | [257487-the-moon-looks-beautiful-tonight.json](./257487-the-moon-looks-beautiful-tonight.json) |
 | The Moon Looks Beautiful Tonight: Definitive Edition | 383600 | [383600-the-moon-looks-beautiful-tonight-definitive-edition.json](./383600-the-moon-looks-beautiful-tonight-definitive-edition.json) |
 | The Moon Night | 51962 | [51962-the-moon-night.json](./51962-the-moon-night.json) |
 | The Moon or Bust! | 112522 | [112522-the-moon-or-bust.json](./112522-the-moon-or-bust.json) |
@@ -27043,6 +27045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trollface Launch | 234908 | [234908-trollface-launch.json](./234908-trollface-launch.json) |
 | Trollface Quest | 195448 | [195448-trollface-quest.json](./195448-trollface-quest.json) |
 | Trollface Quest 13 | 257816 | [257816-trollface-quest-13.json](./257816-trollface-quest-13.json) |
+| Trollface Quest 2 | 257507 | [257507-trollface-quest-2.json](./257507-trollface-quest-2.json) |
 | Trollface Quest 3 | 257579 | [257579-trollface-quest-3.json](./257579-trollface-quest-3.json) |
 | Trollface Quest 5 | 257771 | [257771-trollface-quest-5.json](./257771-trollface-quest-5.json) |
 | Trollface Quest: Internet Memes | 257812 | [257812-trollface-quest-internet-memes.json](./257812-trollface-quest-internet-memes.json) |
