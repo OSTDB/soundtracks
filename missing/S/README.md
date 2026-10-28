@@ -12608,7 +12608,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smurfs' Village | 234053 | [234053-smurfs-village.json](./234053-smurfs-village.json) |
 | Smush | 119028 | [119028-smush.json](./119028-smush.json) |
 | Smush.TV | 111707 | [111707-smush-tv.json](./111707-smush-tv.json) |
-| Smushi Come Home | 211223 | [211223-smushi-come-home.json](./211223-smushi-come-home.json) |
 | Smuta | 294643 | [294643-smuta.json](./294643-smuta.json) |
 | Smuta: Inception | 204892 | [204892-smuta-inception.json](./204892-smuta-inception.json) |
 | Smuta: Zov serdtsa | 366715 | [366715-smuta-zov-serdtsa.json](./366715-smuta-zov-serdtsa.json) |
@@ -17710,7 +17709,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark Protocol | 413036 | [413036-spark-protocol.json](./413036-spark-protocol.json) |
 | Spark Quest | 348145 | [348145-spark-quest.json](./348145-spark-quest.json) |
 | Spark Spark | 284255 | [284255-spark-spark.json](./284255-spark-spark.json) |
-| Spark the Electric Jester 3 | 153620 | [153620-spark-the-electric-jester-3.json](./153620-spark-the-electric-jester-3.json) |
 | Spark the Electric Jester: Recharged | 337175 | [337175-spark-the-electric-jester-recharged.json](./337175-spark-the-electric-jester-recharged.json) |
 | Spark! Photon Blast | 369082 | [369082-spark-photon-blast.json](./369082-spark-photon-blast.json) |
 | SparkBlast | 301507 | [301507-sparkblast.json](./301507-sparkblast.json) |
@@ -23737,7 +23735,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded With Darkness | 357667 | [357667-stranded-with-darkness.json](./357667-stranded-with-darkness.json) |
 | Stranded With You | 389969 | [389969-stranded-with-you.json](./389969-stranded-with-you.json) |
 | Stranded: A Mars Adventure | 99532 | [99532-stranded-a-mars-adventure.json](./99532-stranded-a-mars-adventure.json) |
-| Stranded: Alien Dawn | 214408 | [214408-stranded-alien-dawn.json](./214408-stranded-alien-dawn.json) |
 | Stranded: Alien Dawn Premium Edition | 275619 | [275619-stranded-alien-dawn-premium-edition.json](./275619-stranded-alien-dawn-premium-edition.json) |
 | Stranded: Escape the Room | 175876 | [175876-stranded-escape-the-room.json](./175876-stranded-escape-the-room.json) |
 | Stranded: Mars ONE | 128412 | [128412-stranded-mars-one.json](./128412-stranded-mars-one.json) |
@@ -27686,7 +27683,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario War: Stomp Arena | 323200 | [323200-super-mario-war-stomp-arena.json](./323200-super-mario-war-stomp-arena.json) |
 | Super Mario Wars! | 323752 | [323752-super-mario-wars.json](./323752-super-mario-wars.json) |
 | Super Mario Wonderland 1987 | 307716 | [307716-super-mario-wonderland-1987.json](./307716-super-mario-wonderland-1987.json) |
-| Super Mario World | 150031 | [150031-super-mario-world.json](./150031-super-mario-world.json) |
 | Super Mario World | 178104 | [178104-super-mario-world.json](./178104-super-mario-world.json) |
 | Super Mario World | 270346 | [270346-super-mario-world.json](./270346-super-mario-world.json) |
 | Super Mario World 2021 | 267933 | [267933-super-mario-world-2021.json](./267933-super-mario-world-2021.json) |
