@@ -2102,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elephant Rave | 276834 | [276834-elephant-rave.json](./276834-elephant-rave.json) |
 | Elephant Rave 2 | 265084 | [265084-elephant-rave-2.json](./265084-elephant-rave-2.json) |
 | Elephant's Graveyard | 195463 | [195463-elephants-graveyard.json](./195463-elephants-graveyard.json) |
+| Elephantastic | 256397 | [256397-elephantastic.json](./256397-elephantastic.json) |
 | Elephantasy | 143407 | [143407-elephantasy.json](./143407-elephantasy.json) |
 | Elephantasy: Flipside | 235706 | [235706-elephantasy-flipside.json](./235706-elephantasy-flipside.json) |
 | Elepong | 69367 | [69367-elepong.json](./69367-elepong.json) |
