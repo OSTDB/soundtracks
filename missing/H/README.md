@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 1 Anthology | 400309 | [400309-half-life-1-anthology.json](./400309-half-life-1-anthology.json) |
 | Half-Life 2 Beta Minimalist Mod | 140851 | [140851-half-life-2-beta-minimalist-mod.json](./140851-half-life-2-beta-minimalist-mod.json) |
 | Half-Life 2 Classic | 128657 | [128657-half-life-2-classic.json](./128657-half-life-2-classic.json) |
+| Half-Life 2 RTX | 262537 | [262537-half-life-2-rtx.json](./262537-half-life-2-rtx.json) |
 | Half-Life 2 Substance | 366609 | [366609-half-life-2-substance.json](./366609-half-life-2-substance.json) |
 | Half-Life 2: Aftermath | 314127 | [314127-half-life-2-aftermath.json](./314127-half-life-2-aftermath.json) |
 | Half-Life 2: Alone Mod | 323932 | [323932-half-life-2-alone-mod.json](./323932-half-life-2-alone-mod.json) |
@@ -4900,6 +4901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hereford 1642 | 190138 | [190138-hereford-1642.json](./190138-hereford-1642.json) |
 | Herency | 190406 | [190406-herency.json](./190406-herency.json) |
 | Heresis | 340465 | [340465-heresis.json](./340465-heresis.json) |
+| Heresy | 262545 | [262545-heresy.json](./262545-heresy.json) |
 | Heresy | 323653 | [323653-heresy.json](./323653-heresy.json) |
 | Heresy | 34240 | [34240-heresy.json](./34240-heresy.json) |
 | Heresy Simulator | 174125 | [174125-heresy-simulator.json](./174125-heresy-simulator.json) |
@@ -9191,6 +9193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Velocity X | 2653 | [2653-hot-wheels-velocity-x.json](./2653-hot-wheels-velocity-x.json) |
 | Hot Wheels World Race | 243147 | [243147-hot-wheels-world-race.json](./243147-hot-wheels-world-race.json) |
 | Hot Wheels: All Out | 49283 | [49283-hot-wheels-all-out.json](./49283-hot-wheels-all-out.json) |
+| Hot Wheels: Barbie Dream Camper | 262511 | [262511-hot-wheels-barbie-dream-camper.json](./262511-hot-wheels-barbie-dream-camper.json) |
 | Hot Wheels: Bash Arena | 70992 | [70992-hot-wheels-bash-arena.json](./70992-hot-wheels-bash-arena.json) |
 | Hot Wheels: Beat That! | 4916 | [4916-hot-wheels-beat-that.json](./4916-hot-wheels-beat-that.json) |
 | Hot Wheels: Beefed Up Pack | 263068 | [263068-hot-wheels-beefed-up-pack.json](./263068-hot-wheels-beefed-up-pack.json) |
