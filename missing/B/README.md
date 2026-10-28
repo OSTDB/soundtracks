@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Faith | 329027 | [329027-bad-faith.json](./329027-bad-faith.json) |
 | Bad Flesh | 301140 | [301140-bad-flesh.json](./301140-bad-flesh.json) |
 | Bad Football | 407893 | [407893-bad-football.json](./407893-bad-football.json) |
+| Bad Friends Shooter | 235905 | [235905-bad-friends-shooter.json](./235905-bad-friends-shooter.json) |
 | Bad Girl | 127676 | [127676-bad-girl.json](./127676-bad-girl.json) |
 | Bad Girl Confidential: The Pleasure Den | 286530 | [286530-bad-girl-confidential-the-pleasure-den.json](./286530-bad-girl-confidential-the-pleasure-den.json) |
 | Bad Girls | 92432 | [92432-bad-girls.json](./92432-bad-girls.json) |
@@ -841,7 +842,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6482,6 +6482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Boo's Revenge | 261431 | [261431-big-boos-revenge.json](./261431-big-boos-revenge.json) |
 | Big Boot Baseball | 116063 | [116063-big-boot-baseball.json](./116063-big-boot-baseball.json) |
 | Big Booty Adventures | 186312 | [186312-big-booty-adventures.json](./186312-big-booty-adventures.json) |
+| Big Boss: A Villain Simulator | 235951 | [235951-big-boss-a-villain-simulator.json](./235951-big-boss-a-villain-simulator.json) |
 | Big Boy Adventure | 324340 | [324340-big-boy-adventure.json](./324340-big-boy-adventure.json) |
 | Big Boy Boxing | 145410 | [145410-big-boy-boxing.json](./145410-big-boy-boxing.json) |
 | Big Brain Wolf | 14993 | [14993-big-brain-wolf.json](./14993-big-brain-wolf.json) |
