@@ -2001,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unit 4: Clash of Agents | 170561 | [170561-unit-4-clash-of-agents.json](./170561-unit-4-clash-of-agents.json) |
 | Unit 404 | 142747 | [142747-unit-404.json](./142747-unit-404.json) |
 | Unit 42: Adrift in Space | 395043 | [395043-unit-42-adrift-in-space.json](./395043-unit-42-adrift-in-space.json) |
+| Unit Down Charge | 260273 | [260273-unit-down-charge.json](./260273-unit-down-charge.json) |
 | Unit Zero: Operation Black Veil | 371968 | [371968-unit-zero-operation-black-veil.json](./371968-unit-zero-operation-black-veil.json) |
 | Unite | 168631 | [168631-unite.json](./168631-unite.json) |
 | Unite | 176154 | [176154-unite.json](./176154-unite.json) |
