@@ -5116,6 +5116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Payne 2: Mona the Assassin | 320154 | [320154-max-payne-2-mona-the-assassin.json](./320154-max-payne-2-mona-the-assassin.json) |
 | Max Payne: Kung Fu Edition v3 | 24085 | [24085-max-payne-kung-fu-edition-v3.json](./24085-max-payne-kung-fu-edition-v3.json) |
 | Max Payne@University | 218649 | [218649-max-payne-university.json](./218649-max-payne-university.json) |
+| Max Power Racing | 251135 | [251135-max-power-racing.json](./251135-max-power-racing.json) |
 | Max Raider | 171423 | [171423-max-raider.json](./171423-max-raider.json) |
 | Max Reloaded II | 146798 | [146798-max-reloaded-ii.json](./146798-max-reloaded-ii.json) |
 | Max Resistance | 146545 | [146545-max-resistance.json](./146545-max-resistance.json) |
@@ -8733,6 +8734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteoric Shower | 47176 | [47176-meteoric-shower.json](./47176-meteoric-shower.json) |
 | Meteoric VR | 207725 | [207725-meteoric-vr.json](./207725-meteoric-vr.json) |
 | Meteorite Destroyer | 104119 | [104119-meteorite-destroyer.json](./104119-meteorite-destroyer.json) |
+| Meteorite Miner | 250548 | [250548-meteorite-miner.json](./250548-meteorite-miner.json) |
 | Meteorite V Base | 191625 | [191625-meteorite-v-base.json](./191625-meteorite-v-base.json) |
 | Meteorite Z: The Apocalypse | 293136 | [293136-meteorite-z-the-apocalypse.json](./293136-meteorite-z-the-apocalypse.json) |
 | Meteorite's Journey | 55146 | [55146-meteorites-journey.json](./55146-meteorites-journey.json) |
@@ -8775,6 +8777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetrixVR | 124142 | [124142-metrixvr.json](./124142-metrixvr.json) |
 | Metro | 253748 | [253748-metro.json](./253748-metro.json) |
 | Metro - The Board Game | 88803 | [88803-metro-the-board-game.json](./88803-metro-the-board-game.json) |
+| Metro 2033 | 251142 | [251142-metro-2033.json](./251142-metro-2033.json) |
 | Metro 2033 Wars: Born in the Dark | 23973 | [23973-metro-2033-wars-born-in-the-dark.json](./23973-metro-2033-wars-born-in-the-dark.json) |
 | Metro 2033: Wars | 59064 | [59064-metro-2033-wars.json](./59064-metro-2033-wars.json) |
 | Metro 2055 | 356553 | [356553-metro-2055.json](./356553-metro-2055.json) |
@@ -9251,6 +9254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroLeague Football 2 | 94265 | [94265-microleague-football-2.json](./94265-microleague-football-2.json) |
 | MicroLeague Wrestling | 80307 | [80307-microleague-wrestling.json](./80307-microleague-wrestling.json) |
 | MicroLink Shut the Box | 74063 | [74063-microlink-shut-the-box.json](./74063-microlink-shut-the-box.json) |
+| MicroMachines | 250475 | [250475-micromachines.json](./250475-micromachines.json) |
 | MicroMachines | 94846 | [94846-micromachines.json](./94846-micromachines.json) |
 | MicroMacro: Downtown Detective | 387475 | [387475-micromacro-downtown-detective.json](./387475-micromacro-downtown-detective.json) |
 | MicroMan | 24760 | [24760-microman.json](./24760-microman.json) |
@@ -11335,6 +11339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minion Quest: The Search for Bowser | 266891 | [266891-minion-quest-the-search-for-bowser.json](./266891-minion-quest-the-search-for-bowser.json) |
 | Minion Raid: Epic Monsters | 207125 | [207125-minion-raid-epic-monsters.json](./207125-minion-raid-epic-monsters.json) |
 | Minion Rumble | 338349 | [338349-minion-rumble.json](./338349-minion-rumble.json) |
+| Minion Shooter | 250565 | [250565-minion-shooter.json](./250565-minion-shooter.json) |
 | MiniOne Racing | 34989 | [34989-minione-racing.json](./34989-minione-racing.json) |
 | Minions | 59896 | [59896-minions.json](./59896-minions.json) |
 | Minions Battle | 116742 | [116742-minions-battle.json](./116742-minions-battle.json) |
@@ -12524,6 +12529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Wars X: Ultimate Simulation Battle | 252197 | [252197-mobile-wars-x-ultimate-simulation-battle.json](./252197-mobile-wars-x-ultimate-simulation-battle.json) |
 | Mobiles Tycoon | 304584 | [304584-mobiles-tycoon.json](./304584-mobiles-tycoon.json) |
 | Mobility: A City in Motion | 73739 | [73739-mobility-a-city-in-motion.json](./73739-mobility-a-city-in-motion.json) |
+| Mobilization | 250400 | [250400-mobilization.json](./250400-mobilization.json) |
 | Mobiloid | 64104 | [64104-mobiloid.json](./64104-mobiloid.json) |
 | Mobius | 104646 | [104646-mobius.json](./104646-mobius.json) |
 | Mobius Band | 217491 | [217491-mobius-band.json](./217491-mobius-band.json) |
@@ -12937,6 +12943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mom Simulator 2023 | 277841 | [277841-mom-simulator-2023.json](./277841-mom-simulator-2023.json) |
 | Mom-chan Diet Wii Figureobics by Jung Da-yeon | 5013 | [5013-mom-chan-diet-wii-figureobics-by-jung-da-yeon.json](./5013-mom-chan-diet-wii-figureobics-by-jung-da-yeon.json) |
 | Mom's Tent | 302998 | [302998-moms-tent.json](./302998-moms-tent.json) |
+| Momatron | 249836 | [249836-momatron.json](./249836-momatron.json) |
 | Mombo Combo 2 | 134331 | [134331-mombo-combo-2.json](./134331-mombo-combo-2.json) |
 | Mombo Combo Legacy | 326858 | [326858-mombo-combo-legacy.json](./326858-mombo-combo-legacy.json) |
 | Moment of Moonset | 284599 | [284599-moment-of-moonset.json](./284599-moment-of-moonset.json) |
@@ -14836,10 +14843,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: Khaos Reigns Bundle | 312357 | [312357-mortal-kombat-1-khaos-reigns-bundle.json](./312357-mortal-kombat-1-khaos-reigns-bundle.json) |
 | Mortal Kombat 1: Khaos Reigns Expansion | 312111 | [312111-mortal-kombat-1-khaos-reigns-expansion.json](./312111-mortal-kombat-1-khaos-reigns-expansion.json) |
 | Mortal Kombat 1: Khaos Reigns Story Expansion | 312356 | [312356-mortal-kombat-1-khaos-reigns-story-expansion.json](./312356-mortal-kombat-1-khaos-reigns-story-expansion.json) |
+| Mortal Kombat 1: Kollector's Edition | 250150 | [250150-mortal-kombat-1-kollectors-edition.json](./250150-mortal-kombat-1-kollectors-edition.json) |
+| Mortal Kombat 1: Kombat Pack | 250151 | [250151-mortal-kombat-1-kombat-pack.json](./250151-mortal-kombat-1-kombat-pack.json) |
 | Mortal Kombat 1: Mavado Kameo | 278618 | [278618-mortal-kombat-1-mavado-kameo.json](./278618-mortal-kombat-1-mavado-kameo.json) |
 | Mortal Kombat 1: Noob Saibot | 312334 | [312334-mortal-kombat-1-noob-saibot.json](./312334-mortal-kombat-1-noob-saibot.json) |
 | Mortal Kombat 1: Omni-Man | 266209 | [266209-mortal-kombat-1-omni-man.json](./266209-mortal-kombat-1-omni-man.json) |
 | Mortal Kombat 1: Peacemaker | 266213 | [266213-mortal-kombat-1-peacemaker.json](./266213-mortal-kombat-1-peacemaker.json) |
+| Mortal Kombat 1: Premium Edition | 250148 | [250148-mortal-kombat-1-premium-edition.json](./250148-mortal-kombat-1-premium-edition.json) |
 | Mortal Kombat 1: Quan Chi | 266211 | [266211-mortal-kombat-1-quan-chi.json](./266211-mortal-kombat-1-quan-chi.json) |
 | Mortal Kombat 1: Sektor | 312333 | [312333-mortal-kombat-1-sektor.json](./312333-mortal-kombat-1-sektor.json) |
 | Mortal Kombat 1: Shang Tsung | 265938 | [265938-mortal-kombat-1-shang-tsung.json](./265938-mortal-kombat-1-shang-tsung.json) |
@@ -16817,6 +16827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museum Magnate | 348585 | [348585-museum-magnate.json](./348585-museum-magnate.json) |
 | Museum Multiverse | 364368 | [364368-museum-multiverse.json](./364368-museum-multiverse.json) |
 | Museum Mystery | 291700 | [291700-museum-mystery.json](./291700-museum-mystery.json) |
+| Museum No.9 | 249942 | [249942-museum-no-9.json](./249942-museum-no-9.json) |
 | Museum of All Things | 333238 | [333238-museum-of-all-things.json](./333238-museum-of-all-things.json) |
 | Museum of Artists' Split Minds | 178854 | [178854-museum-of-artists-split-minds.json](./178854-museum-of-artists-split-minds.json) |
 | Museum of Extravagance | 169860 | [169860-museum-of-extravagance.json](./169860-museum-of-extravagance.json) |
@@ -17848,6 +17859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Life Coach | 240942 | [240942-my-life-coach.json](./240942-my-life-coach.json) |
 | My Life in a Monster Girl Paradise | 403025 | [403025-my-life-in-a-monster-girl-paradise.json](./403025-my-life-in-a-monster-girl-paradise.json) |
 | My Life My Love: Boku no Yume Watashi no Negai | 48814 | [48814-my-life-my-love-boku-no-yume-watashi-no-negai.json](./48814-my-life-my-love-boku-no-yume-watashi-no-negai.json) |
+| My Life of Repayment | 249960 | [249960-my-life-of-repayment.json](./249960-my-life-of-repayment.json) |
 | My Life with a Lonely Beauty | 266923 | [266923-my-life-with-a-lonely-beauty.json](./266923-my-life-with-a-lonely-beauty.json) |
 | My Life with You | 348969 | [348969-my-life-with-you.json](./348969-my-life-with-you.json) |
 | My Life: Farm Vet | 282143 | [282143-my-life-farm-vet.json](./282143-my-life-farm-vet.json) |
