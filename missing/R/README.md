@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Runner | 402228 | [402228-rabbit-runner.json](./402228-rabbit-runner.json) |
 | Rabbit Rush | 363024 | [363024-rabbit-rush.json](./363024-rabbit-rush.json) |
 | Rabbit Simulator | 143939 | [143939-rabbit-simulator.json](./143939-rabbit-simulator.json) |
+| Rabbit Simulator | 248389 | [248389-rabbit-simulator.json](./248389-rabbit-simulator.json) |
 | Rabbit Story | 28162 | [28162-rabbit-story.json](./28162-rabbit-story.json) |
 | Rabbit Trail | 333492 | [333492-rabbit-trail.json](./333492-rabbit-trail.json) |
 | Rabbit Trail | 42180 | [42180-rabbit-trail.json](./42180-rabbit-trail.json) |
@@ -589,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radikal Bikers | 287905 | [287905-radikal-bikers.json](./287905-radikal-bikers.json) |
 | Radikal Fighters | 306758 | [306758-radikal-fighters.json](./306758-radikal-fighters.json) |
 | Radio Active | 73787 | [73787-radio-active.json](./73787-radio-active.json) |
+| Radio Ball 3D | 248407 | [248407-radio-ball-3d.json](./248407-radio-ball-3d.json) |
 | Radio Cars | 275682 | [275682-radio-cars.json](./275682-radio-cars.json) |
 | Radio Commander | 107875 | [107875-radio-commander.json](./107875-radio-commander.json) |
 | Radio Commander: Battle of Britain ’40 | 418701 | [418701-radio-commander-battle-of-britain-40.json](./418701-radio-commander-battle-of-britain-40.json) |
@@ -5411,6 +5413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return the Backrooms | 224561 | [224561-return-the-backrooms.json](./224561-return-the-backrooms.json) |
 | Return to ... | 348960 | [348960-return-to.json](./348960-return-to.json) |
 | Return to Abyss | 233251 | [233251-return-to-abyss.json](./233251-return-to-abyss.json) |
+| Return to Abyss: Multidimensional Gift | 248399 | [248399-return-to-abyss-multidimensional-gift.json](./248399-return-to-abyss-multidimensional-gift.json) |
 | Return to Basic Killing | 274032 | [274032-return-to-basic-killing.json](./274032-return-to-basic-killing.json) |
 | Return To Booty Grotto | 363003 | [363003-return-to-booty-grotto.json](./363003-return-to-booty-grotto.json) |
 | Return to Campus | 328926 | [328926-return-to-campus.json](./328926-return-to-campus.json) |
@@ -8256,6 +8259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Squad: Infinity | 332856 | [332856-rocket-squad-infinity.json](./332856-rocket-squad-infinity.json) |
 | Rocket Stop Incident | 151512 | [151512-rocket-stop-incident.json](./151512-rocket-stop-incident.json) |
 | Rocket Storm | 401445 | [401445-rocket-storm.json](./401445-rocket-storm.json) |
+| Rocket Swing | 248403 | [248403-rocket-swing.json](./248403-rocket-swing.json) |
 | Rocket Sword | 172992 | [172992-rocket-sword.json](./172992-rocket-sword.json) |
 | Rocket Swords | 107793 | [107793-rocket-swords.json](./107793-rocket-swords.json) |
 | Rocket Theater Rehearsal | 185484 | [185484-rocket-theater-rehearsal.json](./185484-rocket-theater-rehearsal.json) |
@@ -10346,6 +10350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugida | 169384 | [169384-rugida.json](./169384-rugida.json) |
 | Rugon | 108991 | [108991-rugon.json](./108991-rugon.json) |
 | Rugosi | 106417 | [106417-rugosi.json](./106417-rugosi.json) |
+| Rugrats Go Wild! | 248691 | [248691-rugrats-go-wild.json](./248691-rugrats-go-wild.json) |
 | Rugrats Go Wild! | 7999 | [7999-rugrats-go-wild.json](./7999-rugrats-go-wild.json) |
 | Rugrats in Paris: The Movie | 249130 | [249130-rugrats-in-paris-the-movie.json](./249130-rugrats-in-paris-the-movie.json) |
 | Rugrats in Paris: The Movie | 2792 | [2792-rugrats-in-paris-the-movie.json](./2792-rugrats-in-paris-the-movie.json) |
