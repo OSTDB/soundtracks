@@ -5701,6 +5701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dempsey and Makepeace | 13588 | [13588-dempsey-and-makepeace.json](./13588-dempsey-and-makepeace.json) |
 | Demra: Rifts of War | 385700 | [385700-demra-rifts-of-war.json](./385700-demra-rifts-of-war.json) |
 | Den of the Defiant | 303471 | [303471-den-of-the-defiant.json](./303471-den-of-the-defiant.json) |
+| Den of Wolves | 279649 | [279649-den-of-wolves.json](./279649-den-of-wolves.json) |
 | Den Pain | 346388 | [346388-den-pain.json](./346388-den-pain.json) |
 | Den Vänstra Handens Stig | 32822 | [32822-den-vanstra-handens-stig.json](./32822-den-vanstra-handens-stig.json) |
 | Den Yttersta Gåtan | 201657 | [201657-den-yttersta-gatan.json](./201657-den-yttersta-gatan.json) |
@@ -8810,6 +8811,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Crossy Road | 58672 | [58672-disney-crossy-road.json](./58672-disney-crossy-road.json) |
 | Disney Dreamlight Valley: A Festival of Friendship | 237836 | [237836-disney-dreamlight-valley-a-festival-of-friendship.json](./237836-disney-dreamlight-valley-a-festival-of-friendship.json) |
 | Disney Dreamlight Valley: A Rift in Time - Chapter 1: Welcome to Eternity Isle | 279238 | [279238-disney-dreamlight-valley-a-rift-in-time-chapter-1-welcome-to-eternity-isle.json](./279238-disney-dreamlight-valley-a-rift-in-time-chapter-1-welcome-to-eternity-isle.json) |
+| Disney Dreamlight Valley: A Rift in Time - Chapter 2: The Spark of Imagination | 279443 | [279443-disney-dreamlight-valley-a-rift-in-time-chapter-2-the-spark-of-imagination.json](./279443-disney-dreamlight-valley-a-rift-in-time-chapter-2-the-spark-of-imagination.json) |
+| Disney Dreamlight Valley: A Rift in Time - Chapter 3: Treasures of Time | 279444 | [279444-disney-dreamlight-valley-a-rift-in-time-chapter-3-treasures-of-time.json](./279444-disney-dreamlight-valley-a-rift-in-time-chapter-3-treasures-of-time.json) |
 | Disney Dreamlight Valley: Arcade Edition | 357417 | [357417-disney-dreamlight-valley-arcade-edition.json](./357417-disney-dreamlight-valley-arcade-edition.json) |
 | Disney Dreamlight Valley: Cozy Edition | 270205 | [270205-disney-dreamlight-valley-cozy-edition.json](./270205-disney-dreamlight-valley-cozy-edition.json) |
 | Disney Dreamlight Valley: Deluxe Edition | 214448 | [214448-disney-dreamlight-valley-deluxe-edition.json](./214448-disney-dreamlight-valley-deluxe-edition.json) |
@@ -10170,6 +10173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Simp Club | 245885 | [245885-doki-simp-club.json](./245885-doki-simp-club.json) |
 | Doki x Doki Sasete!! | 202815 | [202815-doki-x-doki-sasete.json](./202815-doki-x-doki-sasete.json) |
 | Doki-doki Cooking Series 2: Gourmet Kitchen - Suteki na Obentou | 138030 | [138030-doki-doki-cooking-series-2-gourmet-kitchen-suteki-na-obentou.json](./138030-doki-doki-cooking-series-2-gourmet-kitchen-suteki-na-obentou.json) |
+| Doki-doki Literature Club! GB Version | 279818 | [279818-doki-doki-literature-club-gb-version.json](./279818-doki-doki-literature-club-gb-version.json) |
 | Doki-doki Majo Shinpan 2 Duo | 21456 | [21456-doki-doki-majo-shinpan-2-duo.json](./21456-doki-doki-majo-shinpan-2-duo.json) |
 | Doki-doki on Air | 166576 | [166576-doki-doki-on-air.json](./166576-doki-doki-on-air.json) |
 | Doki-doki on Air 2 | 166577 | [166577-doki-doki-on-air-2.json](./166577-doki-doki-on-air-2.json) |
