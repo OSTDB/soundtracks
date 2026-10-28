@@ -1860,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Sliding Puzzle 5 | 286462 | [286462-fantasy-sliding-puzzle-5.json](./286462-fantasy-sliding-puzzle-5.json) |
 | Fantasy Slots: Adventure Slots and Games | 60449 | [60449-fantasy-slots-adventure-slots-and-games.json](./60449-fantasy-slots-adventure-slots-and-games.json) |
 | Fantasy Smith VR | 115558 | [115558-fantasy-smith-vr.json](./115558-fantasy-smith-vr.json) |
+| Fantasy Solitaire: Card Match | 232106 | [232106-fantasy-solitaire-card-match.json](./232106-fantasy-solitaire-card-match.json) |
 | Fantasy Soul Revenge | 384288 | [384288-fantasy-soul-revenge.json](./384288-fantasy-soul-revenge.json) |
 | Fantasy Sprite Island | 157946 | [157946-fantasy-sprite-island.json](./157946-fantasy-sprite-island.json) |
 | Fantasy Squad W | 109575 | [109575-fantasy-squad-w.json](./109575-fantasy-squad-w.json) |
