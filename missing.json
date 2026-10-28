@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-28T22:48:29.027Z",
-  "total_missing": 276554,
+  "generated_at": "2026-10-28T23:05:10.010Z",
+  "total_missing": 276606,
   "games": [
     {
       "igdb_id": 191680,
@@ -23512,6 +23512,11 @@
       "file": "missing/A/188838-abc-flappy.json"
     },
     {
+      "igdb_id": 231039,
+      "game_name": "ABC Follow Me: Food Festival",
+      "file": "missing/A/231039-abc-follow-me-food-festival.json"
+    },
+    {
       "igdb_id": 351424,
       "game_name": "ABC Hide and Seek",
       "file": "missing/A/351424-abc-hide-and-seek.json"
@@ -25835,6 +25840,11 @@
       "igdb_id": 188382,
       "game_name": "Acacia Project",
       "file": "missing/A/188382-acacia-project.json"
+    },
+    {
+      "igdb_id": 230672,
+      "game_name": "Academia do Saber",
+      "file": "missing/A/230672-academia-do-saber.json"
     },
     {
       "igdb_id": 332287,
@@ -54787,6 +54797,11 @@
       "file": "missing/A/151304-anachronism.json"
     },
     {
+      "igdb_id": 230673,
+      "game_name": "Anaconda",
+      "file": "missing/A/230673-anaconda.json"
+    },
+    {
       "igdb_id": 57582,
       "game_name": "Anacreon: Imperial Conquest in the Far Future",
       "file": "missing/A/57582-anacreon-imperial-conquest-in-the-far-future.json"
@@ -58890,6 +58905,11 @@
       "igdb_id": 13191,
       "game_name": "Animal Gods",
       "file": "missing/A/13191-animal-gods.json"
+    },
+    {
+      "igdb_id": 231037,
+      "game_name": "Animal Golf: Battle Race",
+      "file": "missing/A/231037-animal-golf-battle-race.json"
     },
     {
       "igdb_id": 373754,
@@ -67785,6 +67805,11 @@
       "igdb_id": 199129,
       "game_name": "Aquatico",
       "file": "missing/A/199129-aquatico.json"
+    },
+    {
+      "igdb_id": 231002,
+      "game_name": "Aquatico: Founder's Pack",
+      "file": "missing/A/231002-aquatico-founders-pack.json"
     },
     {
       "igdb_id": 157717,
@@ -99710,6 +99735,11 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
+    },
+    {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -179737,6 +179767,11 @@
       "file": "missing/C/264161-call-of-the-wild-the-angler-launch-edition.json"
     },
     {
+      "igdb_id": 231009,
+      "game_name": "Call of the Wild: The Angler - Norway Reserve",
+      "file": "missing/C/231009-call-of-the-wild-the-angler-norway-reserve.json"
+    },
+    {
       "igdb_id": 276300,
       "game_name": "Call of the Wild: The Angler - Reserve Pass",
       "file": "missing/C/276300-call-of-the-wild-the-angler-reserve-pass.json"
@@ -195880,6 +195915,11 @@
       "igdb_id": 275033,
       "game_name": "Cats on Streets",
       "file": "missing/C/275033-cats-on-streets.json"
+    },
+    {
+      "igdb_id": 231042,
+      "game_name": "Cats Puzzle",
+      "file": "missing/C/231042-cats-puzzle.json"
     },
     {
       "igdb_id": 359998,
@@ -215102,6 +215142,11 @@
       "file": "missing/C/226303-cities-skylines-financial-districts.json"
     },
     {
+      "igdb_id": 231015,
+      "game_name": "Cities: Skylines - Financial Districts Bundle",
+      "file": "missing/C/231015-cities-skylines-financial-districts-bundle.json"
+    },
+    {
       "igdb_id": 249189,
       "game_name": "Cities: Skylines - Hotels & Retreats",
       "file": "missing/C/249189-cities-skylines-hotels-and-retreats.json"
@@ -217050,6 +217095,11 @@
       "igdb_id": 226304,
       "game_name": "Clad in Iron Chincha Islands 1866",
       "file": "missing/C/226304-clad-in-iron-chincha-islands-1866.json"
+    },
+    {
+      "igdb_id": 231022,
+      "game_name": "Clad in Iron War of the Pacific 1879",
+      "file": "missing/C/231022-clad-in-iron-war-of-the-pacific-1879.json"
     },
     {
       "igdb_id": 55607,
@@ -383557,6 +383607,26 @@
       "file": "missing/E/230989-eximius-seize-the-frontline-exclusive-callsign-pack-kings-of-frontline.json"
     },
     {
+      "igdb_id": 231012,
+      "game_name": "Eximius: Seize the Frontline - Exclusive Callsign Pack: Signs of Destiny",
+      "file": "missing/E/231012-eximius-seize-the-frontline-exclusive-callsign-pack-signs-of-destiny.json"
+    },
+    {
+      "igdb_id": 230994,
+      "game_name": "Eximius: Seize the Frontline - Exclusive Callsign Pack: The Hardened",
+      "file": "missing/E/230994-eximius-seize-the-frontline-exclusive-callsign-pack-the-hardened.json"
+    },
+    {
+      "igdb_id": 230993,
+      "game_name": "Eximius: Seize the Frontline - Exclusive Callsign Pack: The Unseen",
+      "file": "missing/E/230993-eximius-seize-the-frontline-exclusive-callsign-pack-the-unseen.json"
+    },
+    {
+      "igdb_id": 231011,
+      "game_name": "Eximius: Seize the Frontline - Exclusive Callsign Pack: Weapons of War",
+      "file": "missing/E/231011-eximius-seize-the-frontline-exclusive-callsign-pack-weapons-of-war.json"
+    },
+    {
       "igdb_id": 400900,
       "game_name": "Exipath",
       "file": "missing/E/400900-exipath.json"
@@ -399192,6 +399262,11 @@
       "file": "missing/F/146112-farming-simulator-22.json"
     },
     {
+      "igdb_id": 231004,
+      "game_name": "Farming Simulator 22 - Year 2 Season Pass",
+      "file": "missing/F/231004-farming-simulator-22-year-2-season-pass.json"
+    },
+    {
       "igdb_id": 276271,
       "game_name": "Farming Simulator 22: Case IH Farmall Anniversary Pack",
       "file": "missing/F/276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json"
@@ -408885,6 +408960,11 @@
       "igdb_id": 343369,
       "game_name": "Final Fantasy II: Job System",
       "file": "missing/F/343369-final-fantasy-ii-job-system.json"
+    },
+    {
+      "igdb_id": 231017,
+      "game_name": "Final Fantasy III",
+      "file": "missing/F/231017-final-fantasy-iii.json"
     },
     {
       "igdb_id": 340017,
@@ -426642,6 +426722,11 @@
       "file": "missing/F/240407-food-truck-tycoon-multiplayer-edition.json"
     },
     {
+      "igdb_id": 231031,
+      "game_name": "Food Truck Tycoons: 2 in 1 Bundle",
+      "file": "missing/F/231031-food-truck-tycoons-2-in-1-bundle.json"
+    },
+    {
       "igdb_id": 343329,
       "game_name": "Food Truck VR",
       "file": "missing/F/343329-food-truck-vr.json"
@@ -430870,6 +430955,11 @@
       "igdb_id": 380676,
       "game_name": "Forks & Daggers",
       "file": "missing/F/380676-forks-and-daggers.json"
+    },
+    {
+      "igdb_id": 231008,
+      "game_name": "Forkscythe",
+      "file": "missing/F/231008-forkscythe.json"
     },
     {
       "igdb_id": 303183,
@@ -485892,6 +485982,11 @@
       "file": "missing/G/247415-gravity-switch.json"
     },
     {
+      "igdb_id": 231036,
+      "game_name": "Gravity Thrust",
+      "file": "missing/G/231036-gravity-thrust.json"
+    },
+    {
       "igdb_id": 266394,
       "game_name": "Gravity Tilt",
       "file": "missing/G/266394-gravity-tilt.json"
@@ -492630,6 +492725,11 @@
       "igdb_id": 277360,
       "game_name": "Guardians of Eden",
       "file": "missing/G/277360-guardians-of-eden.json"
+    },
+    {
+      "igdb_id": 231010,
+      "game_name": "Guardians of Elderon",
+      "file": "missing/G/231010-guardians-of-elderon.json"
     },
     {
       "igdb_id": 26692,
@@ -517845,6 +517945,11 @@
       "igdb_id": 228560,
       "game_name": "Hello Kitty no Sweet Adventure: Daniel-kun ni Aitai",
       "file": "missing/H/228560-hello-kitty-no-sweet-adventure-daniel-kun-ni-aitai.json"
+    },
+    {
+      "igdb_id": 231018,
+      "game_name": "Hello Kitty no Tanoshii Butoukai",
+      "file": "missing/H/231018-hello-kitty-no-tanoshii-butoukai.json"
     },
     {
       "igdb_id": 230272,
@@ -546682,6 +546787,11 @@
       "file": "missing/H/249114-house-party-detective-liz-katz-in-a-gritty-kitty-murder-mystery.json"
     },
     {
+      "igdb_id": 230995,
+      "game_name": "House Party: Halloween Holiday Pack",
+      "file": "missing/H/230995-house-party-halloween-holiday-pack.json"
+    },
+    {
       "igdb_id": 263127,
       "game_name": "House Party: New Content Pack",
       "file": "missing/H/263127-house-party-new-content-pack.json"
@@ -557535,6 +557645,11 @@
       "igdb_id": 360145,
       "game_name": "I'll Be Home With You",
       "file": "missing/I/360145-ill-be-home-with-you.json"
+    },
+    {
+      "igdb_id": 231026,
+      "game_name": "I'll be your ideal lover! My Dream Lover",
+      "file": "missing/I/231026-ill-be-your-ideal-lover-my-dream-lover.json"
     },
     {
       "igdb_id": 183847,
@@ -582142,6 +582257,11 @@
       "file": "missing/I/373589-isonzo-movember-handlebar.json"
     },
     {
+      "igdb_id": 231014,
+      "game_name": "Isonzo: Royal Units Pack",
+      "file": "missing/I/231014-isonzo-royal-units-pack.json"
+    },
+    {
       "igdb_id": 373586,
       "game_name": "Isonzo: Shellshocked Units Pack",
       "file": "missing/I/373586-isonzo-shellshocked-units-pack.json"
@@ -587530,6 +587650,11 @@
       "igdb_id": 222221,
       "game_name": "Japanese Escape Games: Strange Park kara no Dasshutsu",
       "file": "missing/J/222221-japanese-escape-games-strange-park-kara-no-dasshutsu.json"
+    },
+    {
+      "igdb_id": 231033,
+      "game_name": "Japanese Escape Games: The Abandoned Schoolhouse",
+      "file": "missing/J/231033-japanese-escape-games-the-abandoned-schoolhouse.json"
     },
     {
       "igdb_id": 221699,
@@ -611002,6 +611127,11 @@
       "file": "missing/K/121759-kerbal-space-program-2.json"
     },
     {
+      "igdb_id": 231007,
+      "game_name": "Kerbal Space Program Complete Edition",
+      "file": "missing/K/231007-kerbal-space-program-complete-edition.json"
+    },
+    {
       "igdb_id": 118176,
       "game_name": "Kerbal Space Program: Breaking Ground",
       "file": "missing/K/118176-kerbal-space-program-breaking-ground.json"
@@ -613137,6 +613267,11 @@
       "file": "missing/K/209925-kids-on-site-hard-hat-edition.json"
     },
     {
+      "igdb_id": 231025,
+      "game_name": "Kids Party Checkers",
+      "file": "missing/K/231025-kids-party-checkers.json"
+    },
+    {
       "igdb_id": 323152,
       "game_name": "Kids Preschool Puzzles",
       "file": "missing/K/323152-kids-preschool-puzzles.json"
@@ -615200,6 +615335,11 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
+    },
+    {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -643665,6 +643805,11 @@
       "igdb_id": 414491,
       "game_name": "Legion Hunters",
       "file": "missing/L/414491-legion-hunters.json"
+    },
+    {
+      "igdb_id": 231023,
+      "game_name": "Legion of Doom",
+      "file": "missing/L/231023-legion-of-doom.json"
     },
     {
       "igdb_id": 346775,
@@ -730817,6 +730962,11 @@
       "file": "missing/M/246469-mini-golf.json"
     },
     {
+      "igdb_id": 231040,
+      "game_name": "Mini Golf & Pool Bundle",
+      "file": "missing/M/231040-mini-golf-and-pool-bundle.json"
+    },
+    {
       "igdb_id": 106515,
       "game_name": "Mini Golf 18",
       "file": "missing/M/106515-mini-golf-18.json"
@@ -757015,6 +757165,11 @@
       "igdb_id": 354578,
       "game_name": "Mrs. Mopp",
       "file": "missing/M/354578-mrs-mopp.json"
+    },
+    {
+      "igdb_id": 231032,
+      "game_name": "Mrs.Cat Between Worlds",
+      "file": "missing/M/231032-mrs-cat-between-worlds.json"
     },
     {
       "igdb_id": 154885,
@@ -818827,6 +818982,11 @@
       "file": "missing/O/115280-oninaki.json"
     },
     {
+      "igdb_id": 231024,
+      "game_name": "Onion Assault",
+      "file": "missing/O/231024-onion-assault.json"
+    },
+    {
       "igdb_id": 318730,
       "game_name": "Onion Delivery",
       "file": "missing/O/318730-onion-delivery.json"
@@ -862137,6 +862297,11 @@
       "file": "missing/P/247685-pinball-fx-core-collection.json"
     },
     {
+      "igdb_id": 231016,
+      "game_name": "Pinball FX: DreamWorks Pinball",
+      "file": "missing/P/231016-pinball-fx-dreamworks-pinball.json"
+    },
+    {
       "igdb_id": 395548,
       "game_name": "Pinball FX: Earth Defense",
       "file": "missing/P/395548-pinball-fx-earth-defense.json"
@@ -892547,6 +892712,11 @@
       "file": "missing/P/168759-predator-hunting-grounds-dutch-2025-dlc-pack.json"
     },
     {
+      "igdb_id": 231019,
+      "game_name": "Predator: Hunting Grounds - Hunting Party DLC Bundle 3",
+      "file": "missing/P/231019-predator-hunting-grounds-hunting-party-dlc-bundle-3.json"
+    },
+    {
       "igdb_id": 168760,
       "game_name": "Predator: Hunting Grounds - Isabelle Fireteam DLC Pack",
       "file": "missing/P/168760-predator-hunting-grounds-isabelle-fireteam-dlc-pack.json"
@@ -911022,6 +911192,11 @@
       "file": "missing/P/41393-puzzle-boys.json"
     },
     {
+      "igdb_id": 231035,
+      "game_name": "Puzzle Bundle for Toddlers and Kids: 7 in 1",
+      "file": "missing/P/231035-puzzle-bundle-for-toddlers-and-kids-7-in-1.json"
+    },
+    {
       "igdb_id": 335104,
       "game_name": "Puzzle Bundle Xbox: Mimi New Friend, Sokocrab and StoryBlocks",
       "file": "missing/P/335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json"
@@ -912370,6 +912545,11 @@
       "igdb_id": 315898,
       "game_name": "Puzzle Vacations: France",
       "file": "missing/P/315898-puzzle-vacations-france.json"
+    },
+    {
+      "igdb_id": 231027,
+      "game_name": "Puzzle Vacations: Ireland",
+      "file": "missing/P/231027-puzzle-vacations-ireland.json"
     },
     {
       "igdb_id": 322976,
@@ -923080,6 +923260,11 @@
       "igdb_id": 336154,
       "game_name": "Raev: Kingdom on the Distant Shores",
       "file": "missing/R/336154-raev-kingdom-on-the-distant-shores.json"
+    },
+    {
+      "igdb_id": 231034,
+      "game_name": "Rafa's World",
+      "file": "missing/R/231034-rafas-world.json"
     },
     {
       "igdb_id": 242658,
@@ -965047,6 +965232,11 @@
       "file": "missing/R/40420-roller-jammer.json"
     },
     {
+      "igdb_id": 231041,
+      "game_name": "Roller Katz: BF - Episode 1",
+      "file": "missing/R/231041-roller-katz-bf-episode-1.json"
+    },
+    {
       "igdb_id": 350198,
       "game_name": "Roller Loop",
       "file": "missing/R/350198-roller-loop.json"
@@ -972602,6 +972792,11 @@
       "file": "missing/R/44515-rumble-trucks.json"
     },
     {
+      "igdb_id": 231013,
+      "game_name": "Rumbleverse: Holiday Demon Pack",
+      "file": "missing/R/231013-rumbleverse-holiday-demon-pack.json"
+    },
+    {
       "igdb_id": 344294,
       "game_name": "Rumbly",
       "file": "missing/R/344294-rumbly.json"
@@ -978032,6 +978227,11 @@
       "file": "missing/S/407590-sackboy-a-big-adventure-digital-deluxe-edition.json"
     },
     {
+      "igdb_id": 230997,
+      "game_name": "Sackboy: A Big Adventure - Emote Pack",
+      "file": "missing/S/230997-sackboy-a-big-adventure-emote-pack.json"
+    },
+    {
       "igdb_id": 149527,
       "game_name": "Sackgasse: The Last Resort",
       "file": "missing/S/149527-sackgasse-the-last-resort.json"
@@ -980037,6 +980237,11 @@
       "file": "missing/S/400843-saints-row-exclusive-unkut-pack.json"
     },
     {
+      "igdb_id": 231001,
+      "game_name": "Saints Row: Festive Felonies Cosmetic Pack",
+      "file": "missing/S/231001-saints-row-festive-felonies-cosmetic-pack.json"
+    },
+    {
       "igdb_id": 307141,
       "game_name": "Saints Row: Front to Back Cosmetic Pack",
       "file": "missing/S/307141-saints-row-front-to-back-cosmetic-pack.json"
@@ -980085,6 +980290,11 @@
       "igdb_id": 307148,
       "game_name": "Saints Row: Los Panteros American Muscle Bundle",
       "file": "missing/S/307148-saints-row-los-panteros-american-muscle-bundle.json"
+    },
+    {
+      "igdb_id": 230996,
+      "game_name": "Saints Row: Merry Saintsmas Cosmetic Pack",
+      "file": "missing/S/230996-saints-row-merry-saintsmas-cosmetic-pack.json"
     },
     {
       "igdb_id": 169194,
@@ -1098532,6 +1098742,11 @@
       "file": "missing/S/198928-street-fighter-ii.json"
     },
     {
+      "igdb_id": 231006,
+      "game_name": "Street Fighter II",
+      "file": "missing/S/231006-street-fighter-ii.json"
+    },
+    {
       "igdb_id": 276082,
       "game_name": "Street Fighter II",
       "file": "missing/S/276082-street-fighter-ii.json"
@@ -1118052,6 +1118267,11 @@
       "file": "missing/S/48864-super-pitfall-30th-anniversary-edition.json"
     },
     {
+      "igdb_id": 231030,
+      "game_name": "Super Pixel Bundle",
+      "file": "missing/S/231030-super-pixel-bundle.json"
+    },
+    {
       "igdb_id": 221706,
       "game_name": "Super Pixel Kid",
       "file": "missing/S/221706-super-pixel-kid.json"
@@ -1118370,6 +1118590,11 @@
       "igdb_id": 139238,
       "game_name": "Super Puzzle Pack",
       "file": "missing/S/139238-super-puzzle-pack.json"
+    },
+    {
+      "igdb_id": 231029,
+      "game_name": "Super Puzzle Pack 2",
+      "file": "missing/S/231029-super-puzzle-pack-2.json"
     },
     {
       "igdb_id": 223665,
@@ -1124205,6 +1124430,11 @@
       "igdb_id": 137107,
       "game_name": "Supreme Candy: Oudou ni wa Oudoutaru Riyuu ga Arun Desu!",
       "file": "missing/S/137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json"
+    },
+    {
+      "igdb_id": 231038,
+      "game_name": "Supreme Car Race on Highway Simulator: Ultimate Driving Games Poly Experience",
+      "file": "missing/S/231038-supreme-car-race-on-highway-simulator-ultimate-driving-games-poly-experience.json"
     },
     {
       "igdb_id": 70071,
@@ -1181172,6 +1181402,11 @@
       "file": "missing/T/325348-the-holiday-bakeoff.json"
     },
     {
+      "igdb_id": 231000,
+      "game_name": "The Holiday Express: Runaway Elf",
+      "file": "missing/T/231000-the-holiday-express-runaway-elf.json"
+    },
+    {
       "igdb_id": 388518,
       "game_name": "The Hollow",
       "file": "missing/T/388518-the-hollow.json"
@@ -1219437,6 +1219672,16 @@
       "file": "missing/T/227336-thehunter-call-of-the-wild-new-england-mountains.json"
     },
     {
+      "igdb_id": 231020,
+      "game_name": "TheHunter: Call of the Wild - New England Mountains Scout Cosmetic Pack",
+      "file": "missing/T/231020-thehunter-call-of-the-wild-new-england-mountains-scout-cosmetic-pack.json"
+    },
+    {
+      "igdb_id": 231003,
+      "game_name": "TheHunter: Call of the Wild - New England Mountains Veteran Cosmetic Pack",
+      "file": "missing/T/231003-thehunter-call-of-the-wild-new-england-mountains-veteran-cosmetic-pack.json"
+    },
+    {
       "igdb_id": 206824,
       "game_name": "TheHunter: Call of the Wild - New Species 2018",
       "file": "missing/T/206824-thehunter-call-of-the-wild-new-species-2018.json"
@@ -1219705,6 +1219950,16 @@
       "igdb_id": 284952,
       "game_name": "Them's Fightin' Herds: Nidra",
       "file": "missing/T/284952-thems-fightin-herds-nidra.json"
+    },
+    {
+      "igdb_id": 230999,
+      "game_name": "Them's Fightin' Herds: Season 1 Pass",
+      "file": "missing/T/230999-thems-fightin-herds-season-1-pass.json"
+    },
+    {
+      "igdb_id": 230998,
+      "game_name": "Them's Fightin' Herds: Texas",
+      "file": "missing/T/230998-thems-fightin-herds-texas.json"
     },
     {
       "igdb_id": 395882,
@@ -1305275,6 +1305530,11 @@
       "igdb_id": 230976,
       "game_name": "Video Horror Society: Reggie",
       "file": "missing/V/230976-video-horror-society-reggie.json"
+    },
+    {
+      "igdb_id": 230992,
+      "game_name": "Video Horror Society: Ultrafan Founder's Pack",
+      "file": "missing/V/230992-video-horror-society-ultrafan-founders-pack.json"
     },
     {
       "igdb_id": 283005,
