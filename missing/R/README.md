@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rageball | 43894 | [43894-rageball.json](./43894-rageball.json) |
 | RageBall | 299699 | [299699-rageball.json](./299699-rageball.json) |
 | Rageball League | 174754 | [174754-rageball-league.json](./174754-rageball-league.json) |
+| Rageblocks | 259950 | [259950-rageblocks.json](./259950-rageblocks.json) |
 | RageByte | 383677 | [383677-ragebyte.json](./383677-ragebyte.json) |
 | Ragedanger Earth | 203664 | [203664-ragedanger-earth.json](./203664-ragedanger-earth.json) |
 | RageFall | 391191 | [391191-ragefall.json](./391191-ragefall.json) |
@@ -4026,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reincarnated As A Monster | 127158 | [127158-reincarnated-as-a-monster.json](./127158-reincarnated-as-a-monster.json) |
 | Reincarnated as a Noble | 217746 | [217746-reincarnated-as-a-noble.json](./217746-reincarnated-as-a-noble.json) |
 | Reincarnated as a Rookie | 302798 | [302798-reincarnated-as-a-rookie.json](./302798-reincarnated-as-a-rookie.json) |
+| Reincarnatio | 260270 | [260270-reincarnatio.json](./260270-reincarnatio.json) |
 | Reincarnation | 247901 | [247901-reincarnation.json](./247901-reincarnation.json) |
 | Reincarnation Tower | 289313 | [289313-reincarnation-tower.json](./289313-reincarnation-tower.json) |
 | Reincarnation: A Demon's Day Out | 387952 | [387952-reincarnation-a-demons-day-out.json](./387952-reincarnation-a-demons-day-out.json) |
@@ -9465,6 +9467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roommates with Benefits | 313802 | [313802-roommates-with-benefits.json](./313802-roommates-with-benefits.json) |
 | RoomRental | 94190 | [94190-roomrental.json](./94190-roomrental.json) |
 | Roomrush Racer | 404166 | [404166-roomrush-racer.json](./404166-roomrush-racer.json) |
+| Rooms | 260280 | [260280-rooms.json](./260280-rooms.json) |
 | Rooms | 265556 | [265556-rooms.json](./265556-rooms.json) |
 | Rooms | 388930 | [388930-rooms.json](./388930-rooms.json) |
 | Rooms of Dread | 232027 | [232027-rooms-of-dread.json](./232027-rooms-of-dread.json) |
