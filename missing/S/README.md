@@ -6853,6 +6853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shepherd of Light | 121594 | [121594-shepherd-of-light.json](./121594-shepherd-of-light.json) |
 | Shepherd Planet | 280124 | [280124-shepherd-planet.json](./280124-shepherd-planet.json) |
 | Shepherd Slaughter | 25540 | [25540-shepherd-slaughter.json](./25540-shepherd-slaughter.json) |
+| Shepherd's Crossing | 246758 | [246758-shepherds-crossing.json](./246758-shepherds-crossing.json) |
 | Shepherd's Crossing | 43270 | [43270-shepherds-crossing.json](./43270-shepherds-crossing.json) |
 | Shepherd's Crossing 2 | 47797 | [47797-shepherds-crossing-2.json](./47797-shepherds-crossing-2.json) |
 | Shepherd's Eye | 288230 | [288230-shepherds-eye.json](./288230-shepherds-eye.json) |
@@ -21459,6 +21460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starchaser: Priestess of the Night Sky | 35363 | [35363-starchaser-priestess-of-the-night-sky.json](./35363-starchaser-priestess-of-the-night-sky.json) |
 | Starcom: Nexus | 107854 | [107854-starcom-nexus.json](./107854-starcom-nexus.json) |
 | Starcom: Unknown Space | 211207 | [211207-starcom-unknown-space.json](./211207-starcom-unknown-space.json) |
+| StarCore Legacy | 246759 | [246759-starcore-legacy.json](./246759-starcore-legacy.json) |
 | Starcraft | 417642 | [417642-starcraft.json](./417642-starcraft.json) |
 | StarCraft 64 | 9067 | [9067-starcraft-64.json](./9067-starcraft-64.json) |
 | StarCraft II: Battle Chest | 136312 | [136312-starcraft-ii-battle-chest.json](./136312-starcraft-ii-battle-chest.json) |
@@ -24033,6 +24035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StrayShot | 277808 | [277808-strayshot.json](./277808-strayshot.json) |
 | Strazeal | 121483 | [121483-strazeal.json](./121483-strazeal.json) |
 | Streakshot | 97169 | [97169-streakshot.json](./97169-streakshot.json) |
+| Stream | 246992 | [246992-stream.json](./246992-stream.json) |
 | Stream - Circuit Puzzle | 102128 | [102128-stream-circuit-puzzle.json](./102128-stream-circuit-puzzle.json) |
 | Stream Animals: Free for All | 116031 | [116031-stream-animals-free-for-all.json](./116031-stream-animals-free-for-all.json) |
 | Stream Arena RPG | 387402 | [387402-stream-arena-rpg.json](./387402-stream-arena-rpg.json) |
@@ -25535,6 +25538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Style | 148419 | [148419-sugar-style.json](./148419-sugar-style.json) |
 | Sugar Style: Complete Edition | 141892 | [141892-sugar-style-complete-edition.json](./141892-sugar-style-complete-edition.json) |
 | Sugar Sugar Rune: Heart Ga Ippai! Moegi Gakuen | 49811 | [49811-sugar-sugar-rune-heart-ga-ippai-moegi-gakuen.json](./49811-sugar-sugar-rune-heart-ga-ippai-moegi-gakuen.json) |
+| Sugar Sweet Temptation | 246774 | [246774-sugar-sweet-temptation.json](./246774-sugar-sweet-temptation.json) |
 | Sugar Tanks 2 | 290966 | [290966-sugar-tanks-2.json](./290966-sugar-tanks-2.json) |
 | Sugar Tanks Arena | 291506 | [291506-sugar-tanks-arena.json](./291506-sugar-tanks-arena.json) |
 | Sugar-Coated | 221038 | [221038-sugar-coated.json](./221038-sugar-coated.json) |
@@ -29538,6 +29542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival EXtreme | 248915 | [248915-survival-extreme.json](./248915-survival-extreme.json) |
 | Survival Fish.io: Hunger Game | 223898 | [223898-survival-fish-io-hunger-game.json](./223898-survival-fish-io-hunger-game.json) |
 | Survival Float Simulator: Crocodile Waters Craft, Raft, Build | 317453 | [317453-survival-float-simulator-crocodile-waters-craft-raft-build.json](./317453-survival-float-simulator-crocodile-waters-craft-raft-build.json) |
+| Survival for Treasure | 246775 | [246775-survival-for-treasure.json](./246775-survival-for-treasure.json) |
 | Survival Fort | 233416 | [233416-survival-fort.json](./233416-survival-fort.json) |
 | Survival Frenzy | 116733 | [116733-survival-frenzy.json](./116733-survival-frenzy.json) |
 | Survival Game Master | 212477 | [212477-survival-game-master.json](./212477-survival-game-master.json) |
