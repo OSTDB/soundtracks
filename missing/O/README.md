@@ -1318,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olimdal | 113558 | [113558-olimdal.json](./113558-olimdal.json) |
 | Olimpia OT | 415015 | [415015-olimpia-ot.json](./415015-olimpia-ot.json) |
 | Olinda Fighters | 415941 | [415941-olinda-fighters.json](./415941-olinda-fighters.json) |
+| Olive's Art-Venture | 266049 | [266049-olives-art-venture.json](./266049-olives-art-venture.json) |
 | Oliver & Spike: Dimension Jumpers | 63894 | [63894-oliver-and-spike-dimension-jumpers.json](./63894-oliver-and-spike-dimension-jumpers.json) |
 | Oliver's Tale | 248502 | [248502-olivers-tale.json](./248502-olivers-tale.json) |
 | Olivers äventyr: Drakens förbannelse | 320948 | [320948-olivers-aventyr-drakens-forbannelse.json](./320948-olivers-aventyr-drakens-forbannelse.json) |
@@ -1683,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omvros | 404187 | [404187-omvros.json](./404187-omvros.json) |
 | On & Off | 412468 | [412468-on-and-off.json](./412468-on-and-off.json) |
 | On & Off Racing | 356302 | [356302-on-and-off-racing.json](./356302-on-and-off-racing.json) |
+| On a Cloudy Day | 266052 | [266052-on-a-cloudy-day.json](./266052-on-a-cloudy-day.json) |
 | On a Journey RPG | 309925 | [309925-on-a-journey-rpg.json](./309925-on-a-journey-rpg.json) |
 | On a Rainy Day | 68731 | [68731-on-a-rainy-day.json](./68731-on-a-rainy-day.json) |
 | On a Roll | 71017 | [71017-on-a-roll.json](./71017-on-a-roll.json) |
