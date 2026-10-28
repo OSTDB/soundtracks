@@ -13161,7 +13161,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of Death VII: The Beginning - Reanimated | 324914 | [324914-breath-of-death-vii-the-beginning-reanimated.json](./324914-breath-of-death-vii-the-beginning-reanimated.json) |
 | Breath of Dragon II | 203551 | [203551-breath-of-dragon-ii.json](./203551-breath-of-dragon-ii.json) |
 | Breath of Fire | 11617 | [11617-breath-of-fire.json](./11617-breath-of-fire.json) |
+| Breath of Fire | 276017 | [276017-breath-of-fire.json](./276017-breath-of-fire.json) |
 | Breath of Fire 6 | 63065 | [63065-breath-of-fire-6.json](./63065-breath-of-fire-6.json) |
+| Breath of Fire II | 276018 | [276018-breath-of-fire-ii.json](./276018-breath-of-fire-ii.json) |
 | Breath of Fire III | 18055 | [18055-breath-of-fire-iii.json](./18055-breath-of-fire-iii.json) |
 | Breath of Fire III | 207256 | [207256-breath-of-fire-iii.json](./207256-breath-of-fire-iii.json) |
 | Breath of Fire IV | 1280 | [1280-breath-of-fire-iv.json](./1280-breath-of-fire-iv.json) |
