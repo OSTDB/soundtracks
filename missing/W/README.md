@@ -6785,6 +6785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Workemon | 141174 | [141174-workemon.json](./141174-workemon.json) |
 | Worker 42 | 320172 | [320172-worker-42.json](./320172-worker-42.json) |
 | Worker Riot | 203554 | [203554-worker-riot.json](./203554-worker-riot.json) |
+| Worker Simulator | 275987 | [275987-worker-simulator.json](./275987-worker-simulator.json) |
 | Workers & Resources: Soviet Republic | 103065 | [103065-workers-and-resources-soviet-republic.json](./103065-workers-and-resources-soviet-republic.json) |
 | Workhorse | 357861 | [357861-workhorse.json](./357861-workhorse.json) |
 | Workhorse Desktop | 387162 | [387162-workhorse-desktop.json](./387162-workhorse-desktop.json) |
