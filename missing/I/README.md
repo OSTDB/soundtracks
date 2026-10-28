@@ -2627,9 +2627,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Your World (I Own) | 340761 | [340761-in-your-world-i-own.json](./340761-in-your-world-i-own.json) |
 | In Your Youth | 250453 | [250453-in-your-youth.json](./250453-in-your-youth.json) |
 | In-Fisherman: Freshwater Trophies | 27543 | [27543-in-fisherman-freshwater-trophies.json](./27543-in-fisherman-freshwater-trophies.json) |
+| In-Flight Bowling Tournament | 238870 | [238870-in-flight-bowling-tournament.json](./238870-in-flight-bowling-tournament.json) |
+| In-Flight Golf | 238869 | [238869-in-flight-golf.json](./238869-in-flight-golf.json) |
 | In-Flight Pac-Man | 205614 | [205614-in-flight-pac-man.json](./205614-in-flight-pac-man.json) |
+| In-Flight Sudoku | 238868 | [238868-in-flight-sudoku.json](./238868-in-flight-sudoku.json) |
 | In-Flight Tennis Club | 243755 | [243755-in-flight-tennis-club.json](./243755-in-flight-tennis-club.json) |
 | In-Flight Tetris | 145631 | [145631-in-flight-tetris.json](./145631-in-flight-tetris.json) |
+| In-Flight Trivia Tournament | 238867 | [238867-in-flight-trivia-tournament.json](./238867-in-flight-trivia-tournament.json) |
 | In-Sanity | 276648 | [276648-in-sanity.json](./276648-in-sanity.json) |
 | In-Terror-Gation | 280960 | [280960-in-terror-gation.json](./280960-in-terror-gation.json) |
 | In'ernus | 370263 | [370263-inernus.json](./370263-inernus.json) |
