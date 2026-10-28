@@ -7114,6 +7114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Battle Mutants | 74990 | [74990-bionic-battle-mutants.json](./74990-bionic-battle-mutants.json) |
 | Bionic Battler | 48964 | [48964-bionic-battler.json](./48964-bionic-battler.json) |
 | Bionic Bay | 203909 | [203909-bionic-bay.json](./203909-bionic-bay.json) |
+| Bionic Breakthrough | 268577 | [268577-bionic-breakthrough.json](./268577-bionic-breakthrough.json) |
 | Bionic Chainsaw Pogo Gorilla | 14526 | [14526-bionic-chainsaw-pogo-gorilla.json](./14526-bionic-chainsaw-pogo-gorilla.json) |
 | Bionic Commando | 54535 | [54535-bionic-commando.json](./54535-bionic-commando.json) |
 | Bionic Commando | 6914 | [6914-bionic-commando.json](./6914-bionic-commando.json) |
@@ -9621,6 +9622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Within: Thunderstorm Armor | 323246 | [323246-blood-within-thunderstorm-armor.json](./323246-blood-within-thunderstorm-armor.json) |
 | Blood X Thirsty | 338258 | [338258-blood-x-thirsty.json](./338258-blood-x-thirsty.json) |
 | Blood-over- | 93069 | [93069-blood-over.json](./93069-blood-over.json) |
+| Blood, Fire, Death | 268601 | [268601-blood-fire-death.json](./268601-blood-fire-death.json) |
 | Blood, Fuel, Ammo & Speed | 265406 | [265406-blood-fuel-ammo-and-speed.json](./265406-blood-fuel-ammo-and-speed.json) |
 | Blood: Endless Pursuit | 319409 | [319409-blood-endless-pursuit.json](./319409-blood-endless-pursuit.json) |
 | Blood: One Unit Whole Blood | 36299 | [36299-blood-one-unit-whole-blood.json](./36299-blood-one-unit-whole-blood.json) |
@@ -15303,6 +15305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burglar's Bazaar | 275516 | [275516-burglars-bazaar.json](./275516-burglars-bazaar.json) |
 | Burgle Bros | 75825 | [75825-burgle-bros.json](./75825-burgle-bros.json) |
 | Burgle Supply Company | 372804 | [372804-burgle-supply-company.json](./372804-burgle-supply-company.json) |
+| Burial Ground | 268602 | [268602-burial-ground.json](./268602-burial-ground.json) |
 | Burial Ground | 375554 | [375554-burial-ground.json](./375554-burial-ground.json) |
 | BuriBoard | 173256 | [173256-buriboard.json](./173256-buriboard.json) |
 | Buried | 272235 | [272235-buried.json](./272235-buried.json) |
