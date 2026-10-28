@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -12103,6 +12104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bow Man | 166812 | [166812-bow-man.json](./166812-bow-man.json) |
 | Bow-Bots | 208599 | [208599-bow-bots.json](./208599-bow-bots.json) |
 | Bow-wow Battle | 398481 | [398481-bow-wow-battle.json](./398481-bow-wow-battle.json) |
+| Bowave | 264980 | [264980-bowave.json](./264980-bowave.json) |
 | Bowels of the Beast | 283801 | [283801-bowels-of-the-beast.json](./283801-bowels-of-the-beast.json) |
 | Bowels of the Ocean | 165481 | [165481-bowels-of-the-ocean.json](./165481-bowels-of-the-ocean.json) |
 | Bowerwhelm | 202423 | [202423-bowerwhelm.json](./202423-bowerwhelm.json) |
