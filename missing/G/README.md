@@ -5872,6 +5872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golfing Greats 2 | 222908 | [222908-golfing-greats-2.json](./222908-golfing-greats-2.json) |
 | Golfing In Aether | 199271 | [199271-golfing-in-aether.json](./199271-golfing-in-aether.json) |
 | Golfing In Aether: Dustbowl | 275124 | [275124-golfing-in-aether-dustbowl.json](./275124-golfing-in-aether-dustbowl.json) |
+| Golfing In Aether: Winter | 235954 | [235954-golfing-in-aether-winter.json](./235954-golfing-in-aether-winter.json) |
 | Golfing Over It with Alva Majo | 93727 | [93727-golfing-over-it-with-alva-majo.json](./93727-golfing-over-it-with-alva-majo.json) |
 | Golfinite | 219801 | [219801-golfinite.json](./219801-golfinite.json) |
 | Golfinity | 60075 | [60075-golfinity.json](./60075-golfinity.json) |
@@ -5942,6 +5943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gone Golfing | 138654 | [138654-gone-golfing.json](./138654-gone-golfing.json) |
 | Gone Home: Console Edition | 82387 | [82387-gone-home-console-edition.json](./82387-gone-home-console-edition.json) |
 | Gone In November: Collector's Edition | 53074 | [53074-gone-in-november-collectors-edition.json](./53074-gone-in-november-collectors-edition.json) |
+| Gone Man | 235924 | [235924-gone-man.json](./235924-gone-man.json) |
 | Gone Rogue | 182245 | [182245-gone-rogue.json](./182245-gone-rogue.json) |
 | Gone Upstate | 152826 | [152826-gone-upstate.json](./152826-gone-upstate.json) |
 | Gone Viral | 90535 | [90535-gone-viral.json](./90535-gone-viral.json) |
