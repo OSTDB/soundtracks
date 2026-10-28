@@ -1312,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happiness! De:Lucks | 94724 | [94724-happiness-de-lucks.json](./94724-happiness-de-lucks.json) |
 | Happiness! Sakura Celebration! | 316015 | [316015-happiness-sakura-celebration.json](./316015-happiness-sakura-celebration.json) |
 | Happup | 130738 | [130738-happup.json](./130738-happup.json) |
+| Happy | 268060 | [268060-happy.json](./268060-happy.json) |
 | Happy Animal Farm | 140930 | [140930-happy-animal-farm.json](./140930-happy-animal-farm.json) |
 | Happy Animal Testing | 216699 | [216699-happy-animal-testing.json](./216699-happy-animal-testing.json) |
 | Happy Animals Bowling | 126488 | [126488-happy-animals-bowling.json](./126488-happy-animals-bowling.json) |
@@ -1712,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardware: Rivals | 15695 | [15695-hardware-rivals.json](./15695-hardware-rivals.json) |
 | Hardway Party | 102197 | [102197-hardway-party.json](./102197-hardway-party.json) |
 | Hardway: Endless Road Builder | 98534 | [98534-hardway-endless-road-builder.json](./98534-hardway-endless-road-builder.json) |
+| Hardwire | 267763 | [267763-hardwire.json](./267763-hardwire.json) |
 | Hardwired | 346551 | [346551-hardwired.json](./346551-hardwired.json) |
 | Hardwood Backgammon | 20501 | [20501-hardwood-backgammon.json](./20501-hardwood-backgammon.json) |
 | Hardwood Hearts | 20507 | [20507-hardwood-hearts.json](./20507-hardwood-hearts.json) |
@@ -6668,6 +6670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi Daybreak Kai | 64828 | [64828-higurashi-daybreak-kai.json](./64828-higurashi-daybreak-kai.json) |
 | Higurashi Daybreak Portable | 38477 | [38477-higurashi-daybreak-portable.json](./38477-higurashi-daybreak-portable.json) |
 | Higurashi Daybreak Portable: Mega Edition | 38478 | [38478-higurashi-daybreak-portable-mega-edition.json](./38478-higurashi-daybreak-portable-mega-edition.json) |
+| Higurashi no Naku Koro ni Chuu | 268051 | [268051-higurashi-no-naku-koro-ni-chuu.json](./268051-higurashi-no-naku-koro-ni-chuu.json) |
 | Higurashi no Naku Koro ni Hou | 251461 | [251461-higurashi-no-naku-koro-ni-hou.json](./251461-higurashi-no-naku-koro-ni-hou.json) |
 | Higurashi no Naku Koro ni Hou + Origin | 251513 | [251513-higurashi-no-naku-koro-ni-hou-origin.json](./251513-higurashi-no-naku-koro-ni-hou-origin.json) |
 | Higurashi no Naku Koro ni Hou: Batsukoishi-hen | 263930 | [263930-higurashi-no-naku-koro-ni-hou-batsukoishi-hen.json](./263930-higurashi-no-naku-koro-ni-hou-batsukoishi-hen.json) |
