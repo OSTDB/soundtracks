@@ -5067,6 +5067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estadi.ooo | 194414 | [194414-estadi-ooo.json](./194414-estadi-ooo.json) |
 | Estamos Pensando | 92675 | [92675-estamos-pensando.json](./92675-estamos-pensando.json) |
 | Estancia Protocol Zero | 405609 | [405609-estancia-protocol-zero.json](./405609-estancia-protocol-zero.json) |
+| Estate Empire | 275988 | [275988-estate-empire.json](./275988-estate-empire.json) |
 | Esteem | 333142 | [333142-esteem.json](./333142-esteem.json) |
 | Estelaroid: Escape Room | 258417 | [258417-estelaroid-escape-room.json](./258417-estelaroid-escape-room.json) |
 | Estellina | 286080 | [286080-estellina.json](./286080-estellina.json) |
@@ -6409,6 +6410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excursion | 108635 | [108635-excursion.json](./108635-excursion.json) |
 | Excursus | 177025 | [177025-excursus.json](./177025-excursus.json) |
 | Excuse Me | 202010 | [202010-excuse-me.json](./202010-excuse-me.json) |
+| Excuse Me Sir | 276014 | [276014-excuse-me-sir.json](./276014-excuse-me-sir.json) |
 | Excycle | 266864 | [266864-excycle.json](./266864-excycle.json) |
 | EXD: Extra Dimensional | 380540 | [380540-exd-extra-dimensional.json](./380540-exd-extra-dimensional.json) |
 | ExE | 304991 | [304991-exe.json](./304991-exe.json) |
