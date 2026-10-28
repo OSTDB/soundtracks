@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7796,6 +7797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Diamond | 275309 | [275309-black-diamond.json](./275309-black-diamond.json) |
 | Black Dog Bar | 216623 | [216623-black-dog-bar.json](./216623-black-dog-bar.json) |
 | Black Dragon | 38590 | [38590-black-dragon.json](./38590-black-dragon.json) |
+| Black Dragon Mage | 258595 | [258595-black-dragon-mage.json](./258595-black-dragon-mage.json) |
 | Black Dream | 93713 | [93713-black-dream.json](./93713-black-dream.json) |
 | Black Dungeon | 303368 | [303368-black-dungeon.json](./303368-black-dungeon.json) |
 | Black Dungeon: Draw A Card | 347195 | [347195-black-dungeon-draw-a-card.json](./347195-black-dungeon-draw-a-card.json) |
@@ -11613,6 +11615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boreal Tenebrae: Deluxe Special Edition | 255522 | [255522-boreal-tenebrae-deluxe-special-edition.json](./255522-boreal-tenebrae-deluxe-special-edition.json) |
 | Boreal Tenebrae: Deluxe Ultimate Edition | 247753 | [247753-boreal-tenebrae-deluxe-ultimate-edition.json](./247753-boreal-tenebrae-deluxe-ultimate-edition.json) |
 | Borealis | 17537 | [17537-borealis.json](./17537-borealis.json) |
+| Boreas | 258571 | [258571-boreas.json](./258571-boreas.json) |
 | Bored of the Rings | 12941 | [12941-bored-of-the-rings.json](./12941-bored-of-the-rings.json) |
 | Bored Wife | 306379 | [306379-bored-wife.json](./306379-bored-wife.json) |
 | Boredom Survivor | 301611 | [301611-boredom-survivor.json](./301611-boredom-survivor.json) |
