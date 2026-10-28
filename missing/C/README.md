@@ -4310,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celadon | 214121 | [214121-celadon.json](./214121-celadon.json) |
 | Celaria | 118385 | [118385-celaria.json](./118385-celaria.json) |
 | Celebrate | 80178 | [80178-celebrate.json](./80178-celebrate.json) |
+| Celebrating 50 years of Kids Coding | 279662 | [279662-celebrating-50-years-of-kids-coding.json](./279662-celebrating-50-years-of-kids-coding.json) |
 | Celebrating Lake Xochimilco | 250299 | [250299-celebrating-lake-xochimilco.json](./250299-celebrating-lake-xochimilco.json) |
 | Celebrating Lotería! | 375816 | [375816-celebrating-loteria.json](./375816-celebrating-loteria.json) |
 | Celebrating Pani Puri | 256370 | [256370-celebrating-pani-puri.json](./256370-celebrating-pani-puri.json) |
