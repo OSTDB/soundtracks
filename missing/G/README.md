@@ -7200,6 +7200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GraviFire | 144277 | [144277-gravifire.json](./144277-gravifire.json) |
 | Gravillipse | 252159 | [252159-gravillipse.json](./252159-gravillipse.json) |
 | Gravilon | 35652 | [35652-gravilon.json](./35652-gravilon.json) |
+| GraviMaze | 254886 | [254886-gravimaze.json](./254886-gravimaze.json) |
 | Gravinaytor | 305002 | [305002-gravinaytor.json](./305002-gravinaytor.json) |
 | Gravinoid | 128933 | [128933-gravinoid.json](./128933-gravinoid.json) |
 | Gravinull | 79159 | [79159-gravinull.json](./79159-gravinull.json) |
@@ -8354,6 +8355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Undertale DLC Pack 01 | 361705 | [361705-groove-coaster-undertale-dlc-pack-01.json](./361705-groove-coaster-undertale-dlc-pack-01.json) |
 | Groove Coaster: Undertale DLC Pack 02 | 361615 | [361615-groove-coaster-undertale-dlc-pack-02.json](./361615-groove-coaster-undertale-dlc-pack-02.json) |
 | Groove Coaster: Visionnerz | 361448 | [361448-groove-coaster-visionnerz.json](./361448-groove-coaster-visionnerz.json) |
+| Groove Coaster: Wai Wai Party!!!! - Chrono Circle + Music Diver Pack | 255220 | [255220-groove-coaster-wai-wai-party-chrono-circle-music-diver-pack.json](./255220-groove-coaster-wai-wai-party-chrono-circle-music-diver-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - Dempagumi.inc Pack | 237998 | [237998-groove-coaster-wai-wai-party-dempagumi-inc-pack.json](./237998-groove-coaster-wai-wai-party-dempagumi-inc-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - DJMax Respect Pack | 237937 | [237937-groove-coaster-wai-wai-party-djmax-respect-pack.json](./237937-groove-coaster-wai-wai-party-djmax-respect-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - Hit Song + VTuber Pack 5 | 268539 | [268539-groove-coaster-wai-wai-party-hit-song-vtuber-pack-5.json](./268539-groove-coaster-wai-wai-party-hit-song-vtuber-pack-5.json) |
