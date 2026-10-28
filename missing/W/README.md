@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W.A.N.D. Project | 266782 | [266782-w-a-n-d-project.json](./266782-w-a-n-d-project.json) |
 | W.A.R. Hangry | 302104 | [302104-w-a-r-hangry.json](./302104-w-a-r-hangry.json) |
 | W.A.R.D. | 379375 | [379375-w-a-r-d.json](./379375-w-a-r-d.json) |
+| W.A.R.P. | 234239 | [234239-w-a-r-p.json](./234239-w-a-r-p.json) |
 | W.H.A.L.E. | 130855 | [130855-w-h-a-l-e.json](./130855-w-h-a-l-e.json) |
 | W.I.M.S. | 374736 | [374736-w-i-m-s.json](./374736-w-i-m-s.json) |
 | W.I.N. | 41539 | [41539-w-i-n.json](./41539-w-i-n.json) |
