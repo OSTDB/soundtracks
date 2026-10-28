@@ -4635,6 +4635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Sweet Girls | 284238 | [284238-hentai-sweet-girls.json](./284238-hentai-sweet-girls.json) |
 | Hentai Swimming Club | 150530 | [150530-hentai-swimming-club.json](./150530-hentai-swimming-club.json) |
 | Hentai Tales Bundle | 300866 | [300866-hentai-tales-bundle.json](./300866-hentai-tales-bundle.json) |
+| Hentai Tales Vol. 1 | 271861 | [271861-hentai-tales-vol-1.json](./271861-hentai-tales-vol-1.json) |
 | Hentai Tales Vol. 2: Hitomi and Sea Trip | 277309 | [277309-hentai-tales-vol-2-hitomi-and-sea-trip.json](./277309-hentai-tales-vol-2-hitomi-and-sea-trip.json) |
 | Hentai Tales Vol. 3 | 300865 | [300865-hentai-tales-vol-3.json](./300865-hentai-tales-vol-3.json) |
 | Hentai Tales: Academy's Record | 371357 | [371357-hentai-tales-academys-record.json](./371357-hentai-tales-academys-record.json) |
