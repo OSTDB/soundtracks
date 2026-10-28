@@ -4458,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikagi 2: Premium Edition | 136799 | [136799-aikagi-2-premium-edition.json](./136799-aikagi-2-premium-edition.json) |
 | Aikagi 3 | 220346 | [220346-aikagi-3.json](./220346-aikagi-3.json) |
 | Aikagi After Days | 127935 | [127935-aikagi-after-days.json](./127935-aikagi-after-days.json) |
+| Aikagi Complete Box | 253709 | [253709-aikagi-complete-box.json](./253709-aikagi-complete-box.json) |
 | Aikagi with After Days | 127937 | [127937-aikagi-with-after-days.json](./127937-aikagi-with-after-days.json) |
 | Aikagi: Hidamari to Kanojo no Heyagi | 58098 | [58098-aikagi-hidamari-to-kanojo-no-heyagi.json](./58098-aikagi-hidamari-to-kanojo-no-heyagi.json) |
 | Aikagi: Kimi to Issho ni Pack | 127938 | [127938-aikagi-kimi-to-issho-ni-pack.json](./127938-aikagi-kimi-to-issho-ni-pack.json) |
@@ -7076,6 +7077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze: Easter | 116186 | [116186-amaze-easter.json](./116186-amaze-easter.json) |
 | Amaze: Halloween | 110183 | [110183-amaze-halloween.json](./110183-amaze-halloween.json) |
 | Amaze! | 246648 | [246648-amaze.json](./246648-amaze.json) |
+| Amaze! Time Attack Edition | 254078 | [254078-amaze-time-attack-edition.json](./254078-amaze-time-attack-edition.json) |
 | Amaze!: Level Pack 1 | 246871 | [246871-amaze-level-pack-1.json](./246871-amaze-level-pack-1.json) |
 | Amaze!: Level Pack 2 | 246872 | [246872-amaze-level-pack-2.json](./246872-amaze-level-pack-2.json) |
 | Amaze'd | 105299 | [105299-amazed.json](./105299-amazed.json) |
@@ -8410,6 +8412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Opera | 237496 | [237496-angry-birds-opera.json](./237496-angry-birds-opera.json) |
 | Angry Birds Philadelphia Eagles | 408808 | [408808-angry-birds-philadelphia-eagles.json](./408808-angry-birds-philadelphia-eagles.json) |
 | Angry Birds POP 2 | 122716 | [122716-angry-birds-pop-2.json](./122716-angry-birds-pop-2.json) |
+| Angry Birds Power Trouble | 253715 | [253715-angry-birds-power-trouble.json](./253715-angry-birds-power-trouble.json) |
 | Angry Birds Racing | 226776 | [226776-angry-birds-racing.json](./226776-angry-birds-racing.json) |
 | Angry Birds Refresh | 357348 | [357348-angry-birds-refresh.json](./357348-angry-birds-refresh.json) |
 | Angry Birds Reloaded | 159024 | [159024-angry-birds-reloaded.json](./159024-angry-birds-reloaded.json) |
@@ -11978,6 +11981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arlandria | 36830 | [36830-arlandria.json](./36830-arlandria.json) |
 | Arlcoco: The One Winged Princess Pet | 82774 | [82774-arlcoco-the-one-winged-princess-pet.json](./82774-arlcoco-the-one-winged-princess-pet.json) |
 | Arle no Bouken: Mahou no Jewel | 50020 | [50020-arle-no-bouken-mahou-no-jewel.json](./50020-arle-no-bouken-mahou-no-jewel.json) |
+| Arle's Travel Log | 253717 | [253717-arles-travel-log.json](./253717-arles-travel-log.json) |
 | Arlington Horse Racing | 38518 | [38518-arlington-horse-racing.json](./38518-arlington-horse-racing.json) |
 | Arlo the Rabbit | 99286 | [99286-arlo-the-rabbit.json](./99286-arlo-the-rabbit.json) |
 | Arlyeh Center for Heart Diseases | 271218 | [271218-arlyeh-center-for-heart-diseases.json](./271218-arlyeh-center-for-heart-diseases.json) |
@@ -14813,6 +14817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auditorium | 15282 | [15282-auditorium.json](./15282-auditorium.json) |
 | Audo | 181348 | [181348-audo.json](./181348-audo.json) |
 | Audrey & Alexis | 100816 | [100816-audrey-and-alexis.json](./100816-audrey-and-alexis.json) |
+| Audsdg | 254011 | [254011-audsdg.json](./254011-audsdg.json) |
 | Audubon Whales: Wildlife Adventure | 240150 | [240150-audubon-whales-wildlife-adventure.json](./240150-audubon-whales-wildlife-adventure.json) |
 | Auf Abwegen | 116058 | [116058-auf-abwegen.json](./116058-auf-abwegen.json) |
 | Auf Wiedersehen Monty | 13350 | [13350-auf-wiedersehen-monty.json](./13350-auf-wiedersehen-monty.json) |
@@ -14857,6 +14862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aura of Worlds | 55866 | [55866-aura-of-worlds.json](./55866-aura-of-worlds.json) |
 | Aura Shift | 121379 | [121379-aura-shift.json](./121379-aura-shift.json) |
 | Aura: Fate of the Ages | 9776 | [9776-aura-fate-of-the-ages.json](./9776-aura-fate-of-the-ages.json) |
+| Aura: Hentai Cards | 254012 | [254012-aura-hentai-cards.json](./254012-aura-hentai-cards.json) |
 | Aura: Hentai Cards - Horny Madness | 301641 | [301641-aura-hentai-cards-horny-madness.json](./301641-aura-hentai-cards-horny-madness.json) |
 | Aura: Hentai Cards - The Dark Sea DLC | 293466 | [293466-aura-hentai-cards-the-dark-sea-dlc.json](./293466-aura-hentai-cards-the-dark-sea-dlc.json) |
 | Aura's Room | 270600 | [270600-auras-room.json](./270600-auras-room.json) |
@@ -14870,6 +14876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurcus Online | 132715 | [132715-aurcus-online.json](./132715-aurcus-online.json) |
 | Aure | 349251 | [349251-aure.json](./349251-aure.json) |
 | Aurelia: Stellar Arising | 201806 | [201806-aurelia-stellar-arising.json](./201806-aurelia-stellar-arising.json) |
+| Aureole: Wings of Hope | 254013 | [254013-aureole-wings-of-hope.json](./254013-aureole-wings-of-hope.json) |
 | Auri's Amazing Arch Adventure | 388247 | [388247-auris-amazing-arch-adventure.json](./388247-auris-amazing-arch-adventure.json) |
 | Auri's Tales | 113042 | [113042-auris-tales.json](./113042-auris-tales.json) |
 | Aurion: Legacy of the Kori-Odan | 14224 | [14224-aurion-legacy-of-the-kori-odan.json](./14224-aurion-legacy-of-the-kori-odan.json) |
