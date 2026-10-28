@@ -6206,6 +6206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Tavern Simulator | 407369 | [407369-medieval-tavern-simulator.json](./407369-medieval-tavern-simulator.json) |
 | Medieval Thief VR | 260266 | [260266-medieval-thief-vr.json](./260266-medieval-thief-vr.json) |
 | Medieval Times | 119345 | [119345-medieval-times.json](./119345-medieval-times.json) |
+| Medieval towers | 235425 | [235425-medieval-towers.json](./235425-medieval-towers.json) |
 | Medieval Towns | 112835 | [112835-medieval-towns.json](./112835-medieval-towns.json) |
 | Medieval Trader Simulator | 186119 | [186119-medieval-trader-simulator.json](./186119-medieval-trader-simulator.json) |
 | Medieval Warlord | 420505 | [420505-medieval-warlord.json](./420505-medieval-warlord.json) |
@@ -12162,6 +12163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitch | 393980 | [393980-mitch.json](./393980-mitch.json) |
 | Mitch: Berry Challenge | 32536 | [32536-mitch-berry-challenge.json](./32536-mitch-berry-challenge.json) |
 | MitchiriNeko Bubble | 228544 | [228544-mitchirineko-bubble.json](./228544-mitchirineko-bubble.json) |
+| Mite | 235424 | [235424-mite.json](./235424-mite.json) |
 | Mite ha Ikenai | 300344 | [300344-mite-ha-ikenai.json](./300344-mite-ha-ikenai.json) |
 | Mite Kiite Nou de Kanjite Crossword Tengoku | 269440 | [269440-mite-kiite-nou-de-kanjite-crossword-tengoku.json](./269440-mite-kiite-nou-de-kanjite-crossword-tengoku.json) |
 | Mithra | 285485 | [285485-mithra.json](./285485-mithra.json) |
@@ -19207,6 +19209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mytho Duel | 320042 | [320042-mytho-duel.json](./320042-mytho-duel.json) |
 | Mythokyn Nightfall | 371278 | [371278-mythokyn-nightfall.json](./371278-mythokyn-nightfall.json) |
 | Mythology | 50378 | [50378-mythology.json](./50378-mythology.json) |
+| Mythology Waifus Mahjong | 235388 | [235388-mythology-waifus-mahjong.json](./235388-mythology-waifus-mahjong.json) |
 | MythoMania | 419981 | [419981-mythomania.json](./419981-mythomania.json) |
 | Mython Island | 141840 | [141840-mython-island.json](./141840-mython-island.json) |
 | Mythopolis | 419971 | [419971-mythopolis.json](./419971-mythopolis.json) |
