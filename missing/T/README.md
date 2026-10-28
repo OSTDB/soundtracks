@@ -7010,6 +7010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Realm | 194269 | [194269-the-dark-realm.json](./194269-the-dark-realm.json) |
 | The Dark Rites of Arkham | 338552 | [338552-the-dark-rites-of-arkham.json](./338552-the-dark-rites-of-arkham.json) |
 | The Dark Room | 301353 | [301353-the-dark-room.json](./301353-the-dark-room.json) |
+| The Dark Side Of Mars | 233156 | [233156-the-dark-side-of-mars.json](./233156-the-dark-side-of-mars.json) |
 | The Dark Side of the Moon | 144010 | [144010-the-dark-side-of-the-moon.json](./144010-the-dark-side-of-the-moon.json) |
 | The Dark Side of the Moon | 54465 | [54465-the-dark-side-of-the-moon.json](./54465-the-dark-side-of-the-moon.json) |
 | The Dark Spire | 21185 | [21185-the-dark-spire.json](./21185-the-dark-spire.json) |
