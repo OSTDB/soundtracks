@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Castles and Palaces 5 | 257464 | [257464-1001-jigsaw-castles-and-palaces-5.json](./257464-1001-jigsaw-castles-and-palaces-5.json) |
 | 1001 Jigsaw: Cute Cats | 195444 | [195444-1001-jigsaw-cute-cats.json](./195444-1001-jigsaw-cute-cats.json) |
 | 1001 Jigsaw: Cute Cats 2 | 211385 | [211385-1001-jigsaw-cute-cats-2.json](./211385-1001-jigsaw-cute-cats-2.json) |
+| 1001 Jigsaw: Cute Cats 3 | 232629 | [232629-1001-jigsaw-cute-cats-3.json](./232629-1001-jigsaw-cute-cats-3.json) |
 | 1001 Jigsaw: Cute Cats 5 | 244869 | [244869-1001-jigsaw-cute-cats-5.json](./244869-1001-jigsaw-cute-cats-5.json) |
 | 1001 Jigsaw: Earth Chronicles 2 | 163000 | [163000-1001-jigsaw-earth-chronicles-2.json](./163000-1001-jigsaw-earth-chronicles-2.json) |
 | 1001 Jigsaw: Earth Chronicles 3 | 90040 | [90040-1001-jigsaw-earth-chronicles-3.json](./90040-1001-jigsaw-earth-chronicles-3.json) |
@@ -1725,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2XKO: PS+ Benefit Bundle Y1S3 | 415424 | [415424-2xko-ps-benefit-bundle-y1s3.json](./415424-2xko-ps-benefit-bundle-y1s3.json) |
 | 2XKO: Starter Edition Standard | 386484 | [386484-2xko-starter-edition-standard.json](./386484-2xko-starter-edition-standard.json) |
 | 2XL ATV Offroad | 197676 | [197676-2xl-atv-offroad.json](./197676-2xl-atv-offroad.json) |
+| 2XL MX Offroad | 232614 | [232614-2xl-mx-offroad.json](./232614-2xl-mx-offroad.json) |
 | 2XL Snocross | 95653 | [95653-2xl-snocross.json](./95653-2xl-snocross.json) |
 | 2XL Supercross | 69327 | [69327-2xl-supercross.json](./69327-2xl-supercross.json) |
 | 2XL Supercross HD | 96726 | [96726-2xl-supercross-hd.json](./96726-2xl-supercross-hd.json) |
