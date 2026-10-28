@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Question | 341506 | [341506-one-more-question.json](./341506-one-more-question.json) |
 | One More Roll | 110908 | [110908-one-more-roll.json](./110908-one-more-roll.json) |
 | One More Run | 338534 | [338534-one-more-run.json](./338534-one-more-run.json) |
+| One More Run: Endless Cricket Runner | 233161 | [233161-one-more-run-endless-cricket-runner.json](./233161-one-more-run-endless-cricket-runner.json) |
 | One More Shooter Game | 271609 | [271609-one-more-shooter-game.json](./271609-one-more-shooter-game.json) |
 | One More Shot: Showdown | 335199 | [335199-one-more-shot-showdown.json](./335199-one-more-shot-showdown.json) |
 | One More Sleep | 177857 | [177857-one-more-sleep.json](./177857-one-more-sleep.json) |
