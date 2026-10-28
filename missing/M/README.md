@@ -2030,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maitetsu: Pure Station - Special Luxury Version with Triple Suede Tapestry Limited Edition | 167158 | [167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json](./167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json) |
 | Maitetsu: Pure Station: Hachiroku Figure - Limited Edition | 212325 | [212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json](./212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json) |
 | Maitre des Fleurs | 146063 | [146063-maitre-des-fleurs.json](./146063-maitre-des-fleurs.json) |
+| Maiz | 231187 | [231187-maiz.json](./231187-maiz.json) |
 | Maize | 326289 | [326289-maize.json](./326289-maize.json) |
 | Maize Mace Maze | 293075 | [293075-maize-mace-maze.json](./293075-maize-mace-maze.json) |
 | Maja and Benny | 353976 | [353976-maja-and-benny.json](./353976-maja-and-benny.json) |
@@ -2087,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majo Koi Nikki Dragon x Caravan | 144670 | [144670-majo-koi-nikki-dragon-x-caravan.json](./144670-majo-koi-nikki-dragon-x-caravan.json) |
 | Majo Kuruibana: Daria + Lito-hen | 398013 | [398013-majo-kuruibana-daria-lito-hen.json](./398013-majo-kuruibana-daria-lito-hen.json) |
 | Majo no Furo Life | 265640 | [265640-majo-no-furo-life.json](./265640-majo-no-furo-life.json) |
+| Majo no Yakata | 231592 | [231592-majo-no-yakata.json](./231592-majo-no-yakata.json) |
 | Majo'ou | 218950 | [218950-majoou.json](./218950-majoou.json) |
 | Majogami | 354209 | [354209-majogami.json](./354209-majogami.json) |
 | Majokko Cream-Chan Gokko Series 1: Wan Nyon Idol Gakuen | 49702 | [49702-majokko-cream-chan-gokko-series-1-wan-nyon-idol-gakuen.json](./49702-majokko-cream-chan-gokko-series-1-wan-nyon-idol-gakuen.json) |
@@ -3603,11 +3605,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Tennis: Power Tour | 342260 | [342260-mario-tennis-power-tour.json](./342260-mario-tennis-power-tour.json) |
 | Mario Tennis: Power Tour | 6504 | [6504-mario-tennis-power-tour.json](./6504-mario-tennis-power-tour.json) |
 | Mario Tennis: Power Tour - Bicep Pump | 231624 | [231624-mario-tennis-power-tour-bicep-pump.json](./231624-mario-tennis-power-tour-bicep-pump.json) |
+| Mario Tennis: Power Tour - Reflex Rally | 231593 | [231593-mario-tennis-power-tour-reflex-rally.json](./231593-mario-tennis-power-tour-reflex-rally.json) |
 | Mario Tennis: Ultra Smash | 11220 | [11220-mario-tennis-ultra-smash.json](./11220-mario-tennis-ultra-smash.json) |
 | Mario Tennis: Waluigi | 247108 | [247108-mario-tennis-waluigi.json](./247108-mario-tennis-waluigi.json) |
 | Mario Tennis: Wario | 247106 | [247106-mario-tennis-wario.json](./247106-mario-tennis-wario.json) |
 | Mario Tennis: Yoshi | 247105 | [247105-mario-tennis-yoshi.json](./247105-mario-tennis-yoshi.json) |
 | Mario the Juggler | 131952 | [131952-mario-the-juggler.json](./131952-mario-the-juggler.json) |
+| Mario Trivia | 231601 | [231601-mario-trivia.json](./231601-mario-trivia.json) |
 | Mario Undoukai | 132029 | [132029-mario-undoukai.json](./132029-mario-undoukai.json) |
 | Mario vs. Airman | 219121 | [219121-mario-vs-airman.json](./219121-mario-vs-airman.json) |
 | Mario vs. Bowser and Mighty No. 9 | 276790 | [276790-mario-vs-bowser-and-mighty-no-9.json](./276790-mario-vs-bowser-and-mighty-no-9.json) |
@@ -3665,6 +3669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Little Odyssey | 135218 | [135218-marios-little-odyssey.json](./135218-marios-little-odyssey.json) |
 | Mario's Mahalo Party | 324092 | [324092-marios-mahalo-party.json](./324092-marios-mahalo-party.json) |
 | Mario's Matching Madness | 341449 | [341449-marios-matching-madness.json](./341449-marios-matching-madness.json) |
+| Mario's Memory Madness | 231600 | [231600-marios-memory-madness.json](./231600-marios-memory-madness.json) |
 | Mario's Mini Micro Adventures | 331311 | [331311-marios-mini-micro-adventures.json](./331311-marios-mini-micro-adventures.json) |
 | Mario's Mission Earth | 195733 | [195733-marios-mission-earth.json](./195733-marios-mission-earth.json) |
 | Mario's Modules | 388945 | [388945-marios-modules.json](./388945-marios-modules.json) |
@@ -4461,6 +4466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Games 1 | 60330 | [60330-master-games-1.json](./60330-master-games-1.json) |
 | Master Golf | 247008 | [247008-master-golf.json](./247008-master-golf.json) |
 | Master Head | 138451 | [138451-master-head.json](./138451-master-head.json) |
+| Master Heroes | 231555 | [231555-master-heroes.json](./231555-master-heroes.json) |
 | Master Labyrinth | 45915 | [45915-master-labyrinth.json](./45915-master-labyrinth.json) |
 | Master Lander | 187299 | [187299-master-lander.json](./187299-master-lander.json) |
 | Master Leaf Blower | 317024 | [317024-master-leaf-blower.json](./317024-master-leaf-blower.json) |
@@ -5190,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximize | 110253 | [110253-maximize.json](./110253-maximize.json) |
 | Maximo vs. Army of Zin | 43642 | [43642-maximo-vs-army-of-zin.json](./43642-maximo-vs-army-of-zin.json) |
 | Maximo: Ghosts to Glory | 22054 | [22054-maximo-ghosts-to-glory.json](./22054-maximo-ghosts-to-glory.json) |
+| Maximum | 231553 | [231553-maximum.json](./231553-maximum.json) |
 | Maximum Action | 92784 | [92784-maximum-action.json](./92784-maximum-action.json) |
 | Maximum Apocalypse: The Video Game | 304291 | [304291-maximum-apocalypse-the-video-game.json](./304291-maximum-apocalypse-the-video-game.json) |
 | Maximum Archery the Game | 31711 | [31711-maximum-archery-the-game.json](./31711-maximum-archery-the-game.json) |
@@ -7508,6 +7515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melon Journey: Bittersweet Memories | 119653 | [119653-melon-journey-bittersweet-memories.json](./119653-melon-journey-bittersweet-memories.json) |
 | Melon Madness | 288765 | [288765-melon-madness.json](./288765-melon-madness.json) |
 | Melon Man | 297881 | [297881-melon-man.json](./297881-melon-man.json) |
+| Melon Mayhem | 231599 | [231599-melon-mayhem.json](./231599-melon-mayhem.json) |
 | Melon on a Mission | 416071 | [416071-melon-on-a-mission.json](./416071-melon-on-a-mission.json) |
 | Melon Parker: We are Whatever Club! | 378816 | [378816-melon-parker-we-are-whatever-club.json](./378816-melon-parker-we-are-whatever-club.json) |
 | Melon Sandbox | 231934 | [231934-melon-sandbox.json](./231934-melon-sandbox.json) |
@@ -9651,6 +9659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight | 33802 | [33802-midnight.json](./33802-midnight.json) |
 | Midnight 2 | 58602 | [58602-midnight-2.json](./58602-midnight-2.json) |
 | Midnight Acres | 262876 | [262876-midnight-acres.json](./262876-midnight-acres.json) |
+| Midnight Alert | 231190 | [231190-midnight-alert.json](./231190-midnight-alert.json) |
 | Midnight Arcade | 344364 | [344364-midnight-arcade.json](./344364-midnight-arcade.json) |
 | Midnight Arcade Orchestra | 423241 | [423241-midnight-arcade-orchestra.json](./423241-midnight-arcade-orchestra.json) |
 | Midnight Arrow | 239725 | [239725-midnight-arrow.json](./239725-midnight-arrow.json) |
@@ -9692,6 +9701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Cruise | 296377 | [296377-midnight-cruise.json](./296377-midnight-cruise.json) |
 | Midnight Custody | 290255 | [290255-midnight-custody.json](./290255-midnight-custody.json) |
 | Midnight Cycle in Muxi Town | 249734 | [249734-midnight-cycle-in-muxi-town.json](./249734-midnight-cycle-in-muxi-town.json) |
+| Midnight Dash | 231189 | [231189-midnight-dash.json](./231189-midnight-dash.json) |
 | Midnight Date Unleashed | 367765 | [367765-midnight-date-unleashed.json](./367765-midnight-date-unleashed.json) |
 | Midnight Dice | 323788 | [323788-midnight-dice.json](./323788-midnight-dice.json) |
 | Midnight Dreams | 255242 | [255242-midnight-dreams.json](./255242-midnight-dreams.json) |
@@ -9843,6 +9853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight's Blessing | 35245 | [35245-midnights-blessing.json](./35245-midnights-blessing.json) |
 | Midnight's Blessing 2 | 33040 | [33040-midnights-blessing-2.json](./33040-midnights-blessing-2.json) |
 | Midnight's Curse | 154569 | [154569-midnights-curse.json](./154569-midnights-curse.json) |
+| MidnightKing | 231565 | [231565-midnightking.json](./231565-midnightking.json) |
 | Midnightland | 81940 | [81940-midnightland.json](./81940-midnightland.json) |
 | MidnightNears | 344342 | [344342-midnightnears.json](./344342-midnightnears.json) |
 | Midora | 61307 | [61307-midora.json](./61307-midora.json) |
@@ -11239,6 +11250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini-Game Greatest Hits | 230390 | [230390-mini-game-greatest-hits.json](./230390-mini-game-greatest-hits.json) |
 | Mini-Level Megawad | 269654 | [269654-mini-level-megawad.json](./269654-mini-level-megawad.json) |
 | Mini-Map | 419200 | [419200-mini-map.json](./419200-mini-map.json) |
+| Mini-Mario Factory Game! | 231595 | [231595-mini-mario-factory-game.json](./231595-mini-mario-factory-game.json) |
 | Mini-Market Simulator VR | 309377 | [309377-mini-market-simulator-vr.json](./309377-mini-market-simulator-vr.json) |
 | Mini-Mech Mayhem | 74969 | [74969-mini-mech-mayhem.json](./74969-mini-mech-mayhem.json) |
 | Mini-Metroid | 291622 | [291622-mini-metroid.json](./291622-mini-metroid.json) |
@@ -15876,6 +15888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Corpse | 258030 | [258030-moving-corpse.json](./258030-moving-corpse.json) |
 | Moving Day | 75793 | [75793-moving-day.json](./75793-moving-day.json) |
 | Moving Day: Make It Home | 389417 | [389417-moving-day-make-it-home.json](./389417-moving-day-make-it-home.json) |
+| Moving Forward | 231586 | [231586-moving-forward.json](./231586-moving-forward.json) |
 | Moving Forward with Cat | 343221 | [343221-moving-forward-with-cat.json](./343221-moving-forward-with-cat.json) |
 | Moving In | 182158 | [182158-moving-in.json](./182158-moving-in.json) |
 | Moving In | 238131 | [238131-moving-in.json](./238131-moving-in.json) |
