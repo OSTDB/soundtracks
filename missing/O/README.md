@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oden-kun: Oden-mura no Tanoshii Nakama-tachi | 327599 | [327599-oden-kun-oden-mura-no-tanoshii-nakama-tachi.json](./327599-oden-kun-oden-mura-no-tanoshii-nakama-tachi.json) |
 | Oden-ya Ninjou Monogatari 3: Seiya ni Kiseki ga Yattekuru | 356260 | [356260-oden-ya-ninjou-monogatari-3-seiya-ni-kiseki-ga-yattekuru.json](./356260-oden-ya-ninjou-monogatari-3-seiya-ni-kiseki-ga-yattekuru.json) |
 | Odenavirus Online | 158516 | [158516-odenavirus-online.json](./158516-odenavirus-online.json) |
+| Odencat's Paradise Collection | 256401 | [256401-odencats-paradise-collection.json](./256401-odencats-paradise-collection.json) |
 | Odens öga | 304035 | [304035-odens-oga.json](./304035-odens-oga.json) |
 | Odentodo | 366628 | [366628-odentodo.json](./366628-odentodo.json) |
 | Odessa | 333649 | [333649-odessa.json](./333649-odessa.json) |
