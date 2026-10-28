@@ -1575,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warm Gun | 9686 | [9686-warm-gun.json](./9686-warm-gun.json) |
 | Warm Monkey | 331314 | [331314-warm-monkey.json](./331314-warm-monkey.json) |
 | Warm Potato | 307727 | [307727-warm-potato.json](./307727-warm-potato.json) |
+| Warm Snow: The Ash of Nightmare | 234836 | [234836-warm-snow-the-ash-of-nightmare.json](./234836-warm-snow-the-ash-of-nightmare.json) |
 | Warm Snow: The End Of Karma | 277353 | [277353-warm-snow-the-end-of-karma.json](./277353-warm-snow-the-end-of-karma.json) |
 | WarMA | 103948 | [103948-warma.json](./103948-warma.json) |
 | Warmace: Miniature Shop Simulator | 423203 | [423203-warmace-miniature-shop-simulator.json](./423203-warmace-miniature-shop-simulator.json) |
