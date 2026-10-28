@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope - Elite Edition | 268546 | [268546-s-n-i-p-e-r-hunter-scope-elite-edition.json](./268546-s-n-i-p-e-r-hunter-scope-elite-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Enhanced Edition | 412582 | [412582-s-n-i-p-e-r-hunter-scope-enhanced-edition.json](./412582-s-n-i-p-e-r-hunter-scope-enhanced-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Enhancement Edition | 404284 | [404284-s-n-i-p-e-r-hunter-scope-enhancement-edition.json](./404284-s-n-i-p-e-r-hunter-scope-enhancement-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope - Extended Edition | 240408 | [240408-s-n-i-p-e-r-hunter-scope-extended-edition.json](./240408-s-n-i-p-e-r-hunter-scope-extended-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Full Edition | 333723 | [333723-s-n-i-p-e-r-hunter-scope-full-edition.json](./333723-s-n-i-p-e-r-hunter-scope-full-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Gold Edition | 254639 | [254639-s-n-i-p-e-r-hunter-scope-gold-edition.json](./254639-s-n-i-p-e-r-hunter-scope-gold-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - GOTY Edition | 283164 | [283164-s-n-i-p-e-r-hunter-scope-goty-edition.json](./283164-s-n-i-p-e-r-hunter-scope-goty-edition.json) |
@@ -5274,6 +5275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severance | 327843 | [327843-severance.json](./327843-severance.json) |
 | Severance | 374827 | [374827-severance.json](./374827-severance.json) |
 | Severed | 319081 | [319081-severed.json](./319081-severed.json) |
+| Severed Lands | 240415 | [240415-severed-lands.json](./240415-severed-lands.json) |
 | Severed Love | 342754 | [342754-severed-love.json](./342754-severed-love.json) |
 | Severed Souls | 396675 | [396675-severed-souls.json](./396675-severed-souls.json) |
 | Severed Steel | 152172 | [152172-severed-steel.json](./152172-severed-steel.json) |
@@ -18613,6 +18615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Plus! | 91211 | [91211-spider-plus.json](./91211-spider-plus.json) |
 | Spider Ponds | 129571 | [129571-spider-ponds.json](./129571-spider-ponds.json) |
 | Spider Pong | 359466 | [359466-spider-pong.json](./359466-spider-pong.json) |
+| Spider Queen Cave | 240029 | [240029-spider-queen-cave.json](./240029-spider-queen-cave.json) |
 | Spider Riders: Battle for Arachna | 316801 | [316801-spider-riders-battle-for-arachna.json](./316801-spider-riders-battle-for-arachna.json) |
 | Spider Roulette | 386694 | [386694-spider-roulette.json](./386694-spider-roulette.json) |
 | Spider SG-21 | 230741 | [230741-spider-sg-21.json](./230741-spider-sg-21.json) |
@@ -27033,6 +27036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hero Demolition | 251674 | [251674-super-hero-demolition.json](./251674-super-hero-demolition.json) |
 | Super Hero Driving School | 203712 | [203712-super-hero-driving-school.json](./203712-super-hero-driving-school.json) |
 | Super Hero Fight Club: Reloaded | 112984 | [112984-super-hero-fight-club-reloaded.json](./112984-super-hero-fight-club-reloaded.json) |
+| Super Hero Fighting Legends: Anime Mortal Battle | 240406 | [240406-super-hero-fighting-legends-anime-mortal-battle.json](./240406-super-hero-fighting-legends-anime-mortal-battle.json) |
 | Super Hero Flying School | 207875 | [207875-super-hero-flying-school.json](./207875-super-hero-flying-school.json) |
 | Super Hero Generation | 80615 | [80615-super-hero-generation.json](./80615-super-hero-generation.json) |
 | Super Hero I.T. Software | 304658 | [304658-super-hero-i-t-software.json](./304658-super-hero-i-t-software.json) |
