@@ -9859,6 +9859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huebi's Adventure | 394339 | [394339-huebis-adventure.json](./394339-huebis-adventure.json) |
 | HueBots | 34589 | [34589-huebots.json](./34589-huebots.json) |
 | Huebrix | 68924 | [68924-huebrix.json](./68924-huebrix.json) |
+| Huecube | 272967 | [272967-huecube.json](./272967-huecube.json) |
 | Huenison | 34253 | [34253-huenison.json](./34253-huenison.json) |
 | Hueor | 127365 | [127365-hueor.json](./127365-hueor.json) |
 | Huerons: A challenging Puzzle | 216157 | [216157-huerons-a-challenging-puzzle.json](./216157-huerons-a-challenging-puzzle.json) |
