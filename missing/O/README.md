@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odile: Black Duckling Tale | 381221 | [381221-odile-black-duckling-tale.json](./381221-odile-black-duckling-tale.json) |
 | Odin Sphere: Leifthrasir | 15709 | [15709-odin-sphere-leifthrasir.json](./15709-odin-sphere-leifthrasir.json) |
 | Odin: Valhalla Rising | 137939 | [137939-odin-valhalla-rising.json](./137939-odin-valhalla-rising.json) |
+| Odin's Adventures | 232081 | [232081-odins-adventures.json](./232081-odins-adventures.json) |
 | Odin's Ring | 213443 | [213443-odins-ring.json](./213443-odins-ring.json) |
 | Odin's Tea Party | 226131 | [226131-odins-tea-party.json](./226131-odins-tea-party.json) |
 | Odinochestvo Skufa | 387055 | [387055-odinochestvo-skufa.json](./387055-odinochestvo-skufa.json) |
@@ -1392,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Boxing | 147751 | [147751-olympic-boxing.json](./147751-olympic-boxing.json) |
 | Olympic Decathlon | 178060 | [178060-olympic-decathlon.json](./178060-olympic-decathlon.json) |
 | Olympic Decathlon | 78618 | [78618-olympic-decathlon.json](./78618-olympic-decathlon.json) |
+| Olympic Games Jam Beijing 2022 | 232084 | [232084-olympic-games-jam-beijing-2022.json](./232084-olympic-games-jam-beijing-2022.json) |
 | Olympic Games Quiz | 344243 | [344243-olympic-games-quiz.json](./344243-olympic-games-quiz.json) |
 | Olympic Games Tokyo 2020: The Official Video Game | 116797 | [116797-olympic-games-tokyo-2020-the-official-video-game.json](./116797-olympic-games-tokyo-2020-the-official-video-game.json) |
 | Olympic Games: Atlanta 1996 | 4264 | [4264-olympic-games-atlanta-1996.json](./4264-olympic-games-atlanta-1996.json) |
