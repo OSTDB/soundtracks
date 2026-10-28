@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
 | 1days | 424687 | [424687-1days.json](./424687-1days.json) |
 | 1Dreamboy | 266154 | [266154-1dreamboy.json](./266154-1dreamboy.json) |
+| 1Dreamboy 2 | 264978 | [264978-1dreamboy-2.json](./264978-1dreamboy-2.json) |
 | 1Heart | 16316 | [16316-1heart.json](./16316-1heart.json) |
 | 1K Games | 319533 | [319533-1k-games.json](./319533-1k-games.json) |
 | 1K ZX Chess | 391019 | [391019-1k-zx-chess.json](./391019-1k-zx-chess.json) |
