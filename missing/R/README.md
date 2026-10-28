@@ -9578,6 +9578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope Dancer | 359320 | [359320-rope-dancer.json](./359320-rope-dancer.json) |
 | Rope Heroes : Hole Runner Game | 108441 | [108441-rope-heroes-hole-runner-game.json](./108441-rope-heroes-hole-runner-game.json) |
 | Rope Hope | 317270 | [317270-rope-hope.json](./317270-rope-hope.json) |
+| Rope Racers | 252937 | [252937-rope-racers.json](./252937-rope-racers.json) |
 | Rope Rescue | 65772 | [65772-rope-rescue.json](./65772-rope-rescue.json) |
 | Rope Up! | 401165 | [401165-rope-up.json](./401165-rope-up.json) |
 | Rope-Kun Adventure | 296664 | [296664-rope-kun-adventure.json](./296664-rope-kun-adventure.json) |
