@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cold Day In Shell | 328068 | [328068-a-cold-day-in-shell.json](./328068-a-cold-day-in-shell.json) |
 | A Collection of Bad Moments | 68618 | [68618-a-collection-of-bad-moments.json](./68618-a-collection-of-bad-moments.json) |
 | A Collection of Intellivision Classic Games | 65901 | [65901-a-collection-of-intellivision-classic-games.json](./65901-a-collection-of-intellivision-classic-games.json) |
+| A Collection of Mini-Games | 263641 | [263641-a-collection-of-mini-games.json](./263641-a-collection-of-mini-games.json) |
 | A College of Thirst & Claws: Season 1 | 301678 | [301678-a-college-of-thirst-and-claws-season-1.json](./301678-a-college-of-thirst-and-claws-season-1.json) |
 | A Coloring Break | 326233 | [326233-a-coloring-break.json](./326233-a-coloring-break.json) |
 | A Coloring Break: Expansion pack 1 | 357765 | [357765-a-coloring-break-expansion-pack-1.json](./357765-a-coloring-break-expansion-pack-1.json) |
@@ -8593,6 +8594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Express | 386404 | [386404-animal-express.json](./386404-animal-express.json) |
 | Animal Falling | 293089 | [293089-animal-falling.json](./293089-animal-falling.json) |
 | Animal Farm Jigsaw Games for Toddlers, Babys and Kids | 295265 | [295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json](./295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json) |
+| Animal Farm Parking: Deluxe Edition | 263621 | [263621-animal-farm-parking-deluxe-edition.json](./263621-animal-farm-parking-deluxe-edition.json) |
 | Animal Farm Parking: Extended Edition | 283156 | [283156-animal-farm-parking-extended-edition.json](./283156-animal-farm-parking-extended-edition.json) |
 | Animal Farmland | 312652 | [312652-animal-farmland.json](./312652-animal-farmland.json) |
 | Animal Fight Club: Australia Export | 221022 | [221022-animal-fight-club-australia-export.json](./221022-animal-fight-club-australia-export.json) |
@@ -8910,6 +8912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Minesweeper | 392464 | [392464-anime-minesweeper.json](./392464-anime-minesweeper.json) |
 | Anime Mother Life Simulator | 376264 | [376264-anime-mother-life-simulator.json](./376264-anime-mother-life-simulator.json) |
 | Anime Music Quiz | 131061 | [131061-anime-music-quiz.json](./131061-anime-music-quiz.json) |
+| Anime Paradise | 263613 | [263613-anime-paradise.json](./263613-anime-paradise.json) |
 | Anime Paradise: Ultimate Edition | 276326 | [276326-anime-paradise-ultimate-edition.json](./276326-anime-paradise-ultimate-edition.json) |
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
 | Anime Play Life: Unlimited | 153494 | [153494-anime-play-life-unlimited.json](./153494-anime-play-life-unlimited.json) |
@@ -14474,6 +14477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomica | 379989 | [379989-atomica.json](./379989-atomica.json) |
 | Atomical | 364367 | [364367-atomical.json](./364367-atomical.json) |
 | Atomicrops | 76954 | [76954-atomicrops.json](./76954-atomicrops.json) |
+| Atomicrops Double Bundle | 263611 | [263611-atomicrops-double-bundle.json](./263611-atomicrops-double-bundle.json) |
 | Atomicrops: Deerly Beloved | 224435 | [224435-atomicrops-deerly-beloved.json](./224435-atomicrops-deerly-beloved.json) |
 | Atomicrops: Deluxe Edition | 154542 | [154542-atomicrops-deluxe-edition.json](./154542-atomicrops-deluxe-edition.json) |
 | Atomicrops: Invasive Species | 167929 | [167929-atomicrops-invasive-species.json](./167929-atomicrops-invasive-species.json) |
