@@ -1050,9 +1050,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Thiz France | 230518 | [230518-quiz-thiz-france.json](./230518-quiz-thiz-france.json) |
 | Quiz Thiz France: Bronze Edition | 230776 | [230776-quiz-thiz-france-bronze-edition.json](./230776-quiz-thiz-france-bronze-edition.json) |
 | Quiz Thiz France: Silver Edition | 232021 | [232021-quiz-thiz-france-silver-edition.json](./232021-quiz-thiz-france-silver-edition.json) |
+| Quiz Thiz Germany | 242167 | [242167-quiz-thiz-germany.json](./242167-quiz-thiz-germany.json) |
 | Quiz Thiz Germany: Bronze Edition | 242549 | [242549-quiz-thiz-germany-bronze-edition.json](./242549-quiz-thiz-germany-bronze-edition.json) |
 | Quiz Thiz Germany: Gold Edition | 242555 | [242555-quiz-thiz-germany-gold-edition.json](./242555-quiz-thiz-germany-gold-edition.json) |
 | Quiz Thiz Germany: Silver Edition | 242411 | [242411-quiz-thiz-germany-silver-edition.json](./242411-quiz-thiz-germany-silver-edition.json) |
+| Quiz Thiz Italy: Gold Edition | 242166 | [242166-quiz-thiz-italy-gold-edition.json](./242166-quiz-thiz-italy-gold-edition.json) |
 | Quiz Thiz Italy: Silver Edition | 241858 | [241858-quiz-thiz-italy-silver-edition.json](./241858-quiz-thiz-italy-silver-edition.json) |
 | Quiz Thiz Spain | 232713 | [232713-quiz-thiz-spain.json](./232713-quiz-thiz-spain.json) |
 | Quiz Thiz Spain: Bronze Edition | 232714 | [232714-quiz-thiz-spain-bronze-edition.json](./232714-quiz-thiz-spain-bronze-edition.json) |
