@@ -1070,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazotoki Mail 2 | 222239 | [222239-nazotoki-mail-2.json](./222239-nazotoki-mail-2.json) |
 | Nazotoki Maze kara no Dasshutsu | 222223 | [222223-nazotoki-maze-kara-no-dasshutsu.json](./222223-nazotoki-maze-kara-no-dasshutsu.json) |
 | Nazotoki no Jikan: Thrill Suspense na Nazotoki Dasshutsu Mystery Suiri Game | 222388 | [222388-nazotoki-no-jikan-thrill-suspense-na-nazotoki-dasshutsu-mystery-suiri-game.json](./222388-nazotoki-no-jikan-thrill-suspense-na-nazotoki-dasshutsu-mystery-suiri-game.json) |
+| Nazotoki Noutore: BrainQuiz | 241190 | [241190-nazotoki-noutore-brainquiz.json](./241190-nazotoki-noutore-brainquiz.json) |
 | Nazotoki Suiri! Yuuzai? Muzai? | 251606 | [251606-nazotoki-suiri-yuuzai-muzai.json](./251606-nazotoki-suiri-yuuzai-muzai.json) |
 | Nazralath: The Fallen World | 211986 | [211986-nazralath-the-fallen-world.json](./211986-nazralath-the-fallen-world.json) |
 | Nazurin no Sagashi Mono? | 301629 | [301629-nazurin-no-sagashi-mono.json](./301629-nazurin-no-sagashi-mono.json) |
