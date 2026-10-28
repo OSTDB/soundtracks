@@ -4160,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erkattäññe | 313861 | [313861-erkattanne.json](./313861-erkattanne.json) |
 | Erl | 362859 | [362859-erl.json](./362859-erl.json) |
 | Erlking | 292383 | [292383-erlking.json](./292383-erlking.json) |
+| ErMa: Early Mammal | 279787 | [279787-erma-early-mammal.json](./279787-erma-early-mammal.json) |
 | Ermo | 74912 | [74912-ermo.json](./74912-ermo.json) |
 | ERN | 320875 | [320875-ern.json](./320875-ern.json) |
 | Ernest Colt: Western Shooter | 25052 | [25052-ernest-colt-western-shooter.json](./25052-ernest-colt-western-shooter.json) |
@@ -6569,6 +6570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo: Arena | 257473 | [257473-exo-arena.json](./257473-exo-arena.json) |
 | Exobiota | 398376 | [398376-exobiota.json](./398376-exobiota.json) |
 | Exoblast | 149265 | [149265-exoblast.json](./149265-exoblast.json) |
+| Exoborne | 279650 | [279650-exoborne.json](./279650-exoborne.json) |
 | Exocet | 40641 | [40641-exocet.json](./40641-exocet.json) |
 | Exocide | 197046 | [197046-exocide.json](./197046-exocide.json) |
 | ExoColony: Planet Survival | 226715 | [226715-exocolony-planet-survival.json](./226715-exocolony-planet-survival.json) |
