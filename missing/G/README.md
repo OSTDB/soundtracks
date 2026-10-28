@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game & Watch Manhole | 84549 | [84549-game-and-watch-manhole.json](./84549-game-and-watch-manhole.json) |
 | Game & Watch Mario's Cement Factory | 206933 | [206933-game-and-watch-marios-cement-factory.json](./206933-game-and-watch-marios-cement-factory.json) |
 | Game & Watch Mario's Cement Factory | 339262 | [339262-game-and-watch-marios-cement-factory.json](./339262-game-and-watch-marios-cement-factory.json) |
+| Game & Watch Oil Panic | 250146 | [250146-game-and-watch-oil-panic.json](./250146-game-and-watch-oil-panic.json) |
 | Game & Watch Vermin | 84645 | [84645-game-and-watch-vermin.json](./84645-game-and-watch-vermin.json) |
 | Game & Watch-e Collection | 231716 | [231716-game-and-watch-e-collection.json](./231716-game-and-watch-e-collection.json) |
 | Game & Watch-e: Fire | 232892 | [232892-game-and-watch-e-fire.json](./232892-game-and-watch-e-fire.json) |
@@ -3125,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getsuei Gakuen -kou- | 34263 | [34263-getsuei-gakuen-kou.json](./34263-getsuei-gakuen-kou.json) |
 | Getsuei no Kusari: Kyouran Moratoriamu | 136449 | [136449-getsuei-no-kusari-kyouran-moratoriamu.json](./136449-getsuei-no-kusari-kyouran-moratoriamu.json) |
 | Getsuei no Kusari: Sakuran Paranoia | 136448 | [136448-getsuei-no-kusari-sakuran-paranoia.json](./136448-getsuei-no-kusari-sakuran-paranoia.json) |
+| GetsuFumaDen: Undying Moon - Deluxe Edition | 249961 | [249961-getsufumaden-undying-moon-deluxe-edition.json](./249961-getsufumaden-undying-moon-deluxe-edition.json) |
 | GetsuFumaDen: Undying Moon - Digital Deluxe Edition | 199824 | [199824-getsufumaden-undying-moon-digital-deluxe-edition.json](./199824-getsufumaden-undying-moon-digital-deluxe-edition.json) |
 | Getter Love!!: Chou Renai Party Game Tanjou | 3504 | [3504-getter-love-chou-renai-party-game-tanjou.json](./3504-getter-love-chou-renai-party-game-tanjou.json) |
 | Getter Robo Daikessen! | 77981 | [77981-getter-robo-daikessen.json](./77981-getter-robo-daikessen.json) |
@@ -3205,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Beat | 170887 | [170887-ghost-beat.json](./170887-ghost-beat.json) |
 | Ghost Blade | 23442 | [23442-ghost-blade.json](./23442-ghost-blade.json) |
 | Ghost Blade HD: Limited Edition | 166279 | [166279-ghost-blade-hd-limited-edition.json](./166279-ghost-blade-hd-limited-edition.json) |
+| Ghost Blast | 250562 | [250562-ghost-blast.json](./250562-ghost-blast.json) |
 | Ghost Blast | 335775 | [335775-ghost-blast.json](./335775-ghost-blast.json) |
 | Ghost Blood | 165152 | [165152-ghost-blood.json](./165152-ghost-blood.json) |
 | Ghost Blood | 391320 | [391320-ghost-blood.json](./391320-ghost-blood.json) |
@@ -6220,6 +6223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goosebumps: The Game | 23472 | [23472-goosebumps-the-game.json](./23472-goosebumps-the-game.json) |
 | GooseGame.io | 327946 | [327946-goosegame-io.json](./327946-goosegame-io.json) |
 | GooseGogs | 92290 | [92290-goosegogs.json](./92290-goosegogs.json) |
+| Goosey Guess | 250984 | [250984-goosey-guess.json](./250984-goosey-guess.json) |
 | Goospace | 240812 | [240812-goospace.json](./240812-goospace.json) |
 | Goosthetic | 337210 | [337210-goosthetic.json](./337210-goosthetic.json) |
 | Gop Stop Auto | 384172 | [384172-gop-stop-auto.json](./384172-gop-stop-auto.json) |
@@ -7118,6 +7122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Realms | 303986 | [303986-grave-realms.json](./303986-grave-realms.json) |
 | Grave Robber | 249890 | [249890-grave-robber.json](./249890-grave-robber.json) |
 | Grave Rogue | 351800 | [351800-grave-rogue.json](./351800-grave-rogue.json) |
+| Grave Seasons | 251059 | [251059-grave-seasons.json](./251059-grave-seasons.json) |
 | Grave Shadows | 185450 | [185450-grave-shadows.json](./185450-grave-shadows.json) |
 | Grave Space | 312996 | [312996-grave-space.json](./312996-grave-space.json) |
 | Grave Spirit | 230215 | [230215-grave-spirit.json](./230215-grave-spirit.json) |
@@ -7290,6 +7295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity | 12125 | [12125-gravity.json](./12125-gravity.json) |
 | Gravity | 177540 | [177540-gravity.json](./177540-gravity.json) |
 | Gravity | 234147 | [234147-gravity.json](./234147-gravity.json) |
+| Gravity | 250540 | [250540-gravity.json](./250540-gravity.json) |
 | Gravity | 257292 | [257292-gravity.json](./257292-gravity.json) |
 | Gravity | 291912 | [291912-gravity.json](./291912-gravity.json) |
 | Gravity | 361682 | [361682-gravity.json](./361682-gravity.json) |
@@ -7827,6 +7833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greyhound Racing Tournament 2 | 103858 | [103858-greyhound-racing-tournament-2.json](./103858-greyhound-racing-tournament-2.json) |
 | Greyish White | 289345 | [289345-greyish-white.json](./289345-greyish-white.json) |
 | Greymarsh | 243566 | [243566-greymarsh.json](./243566-greymarsh.json) |
+| Greymarsh Redux | 250754 | [250754-greymarsh-redux.json](./250754-greymarsh-redux.json) |
 | Greymond. Saves the Specs | 377210 | [377210-greymond-saves-the-specs.json](./377210-greymond-saves-the-specs.json) |
 | Greymood | 262288 | [262288-greymood.json](./262288-greymood.json) |
 | Greyroad | 184856 | [184856-greyroad.json](./184856-greyroad.json) |
@@ -8255,6 +8262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grompula | 107674 | [107674-grompula.json](./107674-grompula.json) |
 | Gronions | 135762 | [135762-gronions.json](./135762-gronions.json) |
 | Gronk Want Rock | 249502 | [249502-gronk-want-rock.json](./249502-gronk-want-rock.json) |
+| Groob | 249945 | [249945-groob.json](./249945-groob.json) |
 | Grood | 90116 | [90116-grood.json](./90116-grood.json) |
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
 | Groon groon, babey! | 176216 | [176216-groon-groon-babey.json](./176216-groon-groon-babey.json) |
