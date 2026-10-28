@@ -5033,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Giants: Dinosaurs Strike VR | 367540 | [367540-hero-of-giants-dinosaurs-strike-vr.json](./367540-hero-of-giants-dinosaurs-strike-vr.json) |
 | Hero of Ideal | 393948 | [393948-hero-of-ideal.json](./393948-hero-of-ideal.json) |
 | Hero of Law | 351679 | [351679-hero-of-law.json](./351679-hero-of-law.json) |
+| Hero of Luxuria | 259105 | [259105-hero-of-luxuria.json](./259105-hero-of-luxuria.json) |
 | Hero of Many | 17339 | [17339-hero-of-many.json](./17339-hero-of-many.json) |
 | Hero of Memory | 177227 | [177227-hero-of-memory.json](./177227-hero-of-memory.json) |
 | Hero of Minotaurs | 283540 | [283540-hero-of-minotaurs.json](./283540-hero-of-minotaurs.json) |
