@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hansel & Gretel | 66943 | [66943-hansel-and-gretel.json](./66943-hansel-and-gretel.json) |
 | Hansel and Gretel | 215350 | [215350-hansel-and-gretel.json](./215350-hansel-and-gretel.json) |
 | Hansel and Gretel and the Enchanted Castle | 46641 | [46641-hansel-and-gretel-and-the-enchanted-castle.json](./46641-hansel-and-gretel-and-the-enchanted-castle.json) |
+| Hansel and Gretel DS | 229491 | [229491-hansel-and-gretel-ds.json](./229491-hansel-and-gretel-ds.json) |
 | Hansel and Gretel: Interactive Book | 265837 | [265837-hansel-and-gretel-interactive-book.json](./265837-hansel-and-gretel-interactive-book.json) |
 | Hanshin Tigers DS | 123320 | [123320-hanshin-tigers-ds.json](./123320-hanshin-tigers-ds.json) |
 | Hanski's Burlap of Chaos! | 174272 | [174272-hanskis-burlap-of-chaos.json](./174272-hanskis-burlap-of-chaos.json) |
@@ -6420,6 +6421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide | 183997 | [183997-hide.json](./183997-hide.json) |
 | Hide | 282234 | [282234-hide.json](./282234-hide.json) |
 | Hide 'n Heist | 346160 | [346160-hide-n-heist.json](./346160-hide-n-heist.json) |
+| Hide 'N Seek! | 229879 | [229879-hide-n-seek.json](./229879-hide-n-seek.json) |
 | Hide 'N Seek! | 317891 | [317891-hide-n-seek.json](./317891-hide-n-seek.json) |
 | Hide 'N Seek!: Complete Edition | 324377 | [324377-hide-n-seek-complete-edition.json](./324377-hide-n-seek-complete-edition.json) |
 | Hide 'N Seek!: Foes DLC | 317954 | [317954-hide-n-seek-foes-dlc.json](./317954-hide-n-seek-foes-dlc.json) |
@@ -8411,6 +8413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoodsters | 259536 | [259536-hoodsters.json](./259536-hoodsters.json) |
 | Hoodwink | 20820 | [20820-hoodwink.json](./20820-hoodwink.json) |
 | Hoofdrekenen | 98950 | [98950-hoofdrekenen.json](./98950-hoofdrekenen.json) |
+| Hoofield | 229912 | [229912-hoofield.json](./229912-hoofield.json) |
 | Hoofobia | 279898 | [279898-hoofobia.json](./279898-hoofobia.json) |
 | Hook | 10225 | [10225-hook.json](./10225-hook.json) |
 | Hook | 205927 | [205927-hook.json](./205927-hook.json) |
