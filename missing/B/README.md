@@ -6220,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Titanic | 73704 | [73704-beyond-the-titanic.json](./73704-beyond-the-titanic.json) |
 | Beyond the Underworld | 133371 | [133371-beyond-the-underworld.json](./133371-beyond-the-underworld.json) |
 | Beyond the Unknown: A Matter of Time - Collector's Edition | 417302 | [417302-beyond-the-unknown-a-matter-of-time-collectors-edition.json](./417302-beyond-the-unknown-a-matter-of-time-collectors-edition.json) |
+| Beyond the Veil: A Kitty Cat Mystery Adventure | 249403 | [249403-beyond-the-veil-a-kitty-cat-mystery-adventure.json](./249403-beyond-the-veil-a-kitty-cat-mystery-adventure.json) |
 | Beyond the Void | 72375 | [72375-beyond-the-void.json](./72375-beyond-the-void.json) |
 | Beyond the Wall | 241424 | [241424-beyond-the-wall.json](./241424-beyond-the-wall.json) |
 | Beyond the Wall | 80968 | [80968-beyond-the-wall.json](./80968-beyond-the-wall.json) |
@@ -10765,6 +10766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bola | 92445 | [92445-bola.json](./92445-bola.json) |
 | Bold | 243680 | [243680-bold.json](./243680-bold.json) |
 | Bold Blade | 81010 | [81010-bold-blade.json](./81010-bold-blade.json) |
+| Bold Moves | 249384 | [249384-bold-moves.json](./249384-bold-moves.json) |
 | Bold New World | 29726 | [29726-bold-new-world.json](./29726-bold-new-world.json) |
 | Bold: Networked Newt Action | 397821 | [397821-bold-networked-newt-action.json](./397821-bold-networked-newt-action.json) |
 | Boldly Forward | 383997 | [383997-boldly-forward.json](./383997-boldly-forward.json) |
