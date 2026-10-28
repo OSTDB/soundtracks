@@ -9499,6 +9499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Legend | 329503 | [329503-fox-legend.json](./329503-fox-legend.json) |
 | Fox McCloud's Blazing Blueberry Blast Off | 328850 | [328850-fox-mcclouds-blazing-blueberry-blast-off.json](./328850-fox-mcclouds-blazing-blueberry-blast-off.json) |
 | Fox n Forests | 21961 | [21961-fox-n-forests.json](./21961-fox-n-forests.json) |
+| Fox of the moon | 235423 | [235423-fox-of-the-moon.json](./235423-fox-of-the-moon.json) |
 | Fox Quest: The Elemental Keys | 310273 | [310273-fox-quest-the-elemental-keys.json](./310273-fox-quest-the-elemental-keys.json) |
 | Fox Runner Adventures | 237370 | [237370-fox-runner-adventures.json](./237370-fox-runner-adventures.json) |
 | Fox Simulator | 87268 | [87268-fox-simulator.json](./87268-fox-simulator.json) |
