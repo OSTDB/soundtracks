@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Moment of Time: Silentville | 32199 | [32199-1-moment-of-time-silentville.json](./32199-1-moment-of-time-silentville.json) |
 | 1 on 1 Government | 39809 | [39809-1-on-1-government.json](./39809-1-on-1-government.json) |
 | 1 or 3 Addictive Puzzle Game | 250238 | [250238-1-or-3-addictive-puzzle-game.json](./250238-1-or-3-addictive-puzzle-game.json) |
+| 1 Penguin 100 Cases | 276002 | [276002-1-penguin-100-cases.json](./276002-1-penguin-100-cases.json) |
 | 1 Screen Platformer | 97902 | [97902-1-screen-platformer.json](./97902-1-screen-platformer.json) |
 | 1 Screen Platformer 2 | 133473 | [133473-1-screen-platformer-2.json](./133473-1-screen-platformer-2.json) |
 | 1 Shot 1 Kill | 297759 | [297759-1-shot-1-kill.json](./297759-1-shot-1-kill.json) |
