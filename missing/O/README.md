@@ -3948,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othello 3D | 222309 | [222309-othello-3d.json](./222309-othello-3d.json) |
 | Othello de Othello DS | 131567 | [131567-othello-de-othello-ds.json](./131567-othello-de-othello-ds.json) |
 | Othello Millennium | 50552 | [50552-othello-millennium.json](./50552-othello-millennium.json) |
+| Othello Shiyou yo | 252334 | [252334-othello-shiyou-yo.json](./252334-othello-shiyou-yo.json) |
 | Othello Tiny | 389766 | [389766-othello-tiny.json](./389766-othello-tiny.json) |
 | Othello World | 228628 | [228628-othello-world.json](./228628-othello-world.json) |
 | Othello World | 42515 | [42515-othello-world.json](./42515-othello-world.json) |
