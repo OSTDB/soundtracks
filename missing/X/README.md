@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XLR | 33394 | [33394-xlr.json](./33394-xlr.json) |
 | Xmas Apocalypse | 226114 | [226114-xmas-apocalypse.json](./226114-xmas-apocalypse.json) |
 | Xmas Boom | 254136 | [254136-xmas-boom.json](./254136-xmas-boom.json) |
+| Xmas Gift | 277689 | [277689-xmas-gift.json](./277689-xmas-gift.json) |
 | Xmas Jam 2017 | 271230 | [271230-xmas-jam-2017.json](./271230-xmas-jam-2017.json) |
 | Xmas Lemmings | 213867 | [213867-xmas-lemmings.json](./213867-xmas-lemmings.json) |
 | Xmas Lemmings | 70466 | [70466-xmas-lemmings.json](./70466-xmas-lemmings.json) |
