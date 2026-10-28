@@ -1219,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Weapon | 377301 | [377301-magic-weapon.json](./377301-magic-weapon.json) |
 | Magic Witches | 280860 | [280860-magic-witches.json](./280860-magic-witches.json) |
 | Magic Wizard | 130862 | [130862-magic-wizard.json](./130862-magic-wizard.json) |
+| Magic Words: Craft Words | 243720 | [243720-magic-words-craft-words.json](./243720-magic-words-craft-words.json) |
 | Magic World | 372634 | [372634-magic-world.json](./372634-magic-world.json) |
 | Magic World Mahjong | 95320 | [95320-magic-world-mahjong.json](./95320-magic-world-mahjong.json) |
 | Magic World: Unravel the Magic | 242588 | [242588-magic-world-unravel-the-magic.json](./242588-magic-world-unravel-the-magic.json) |
@@ -10552,6 +10553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindwheel | 25778 | [25778-mindwheel.json](./25778-mindwheel.json) |
 | MindWorks | 159566 | [159566-mindworks.json](./159566-mindworks.json) |
 | MindXcope | 266088 | [266088-mindxcope.json](./266088-mindxcope.json) |
+| Mine | 243836 | [243836-mine.json](./243836-mine.json) |
 | Mine | 246765 | [246765-mine.json](./246765-mine.json) |
 | Mine | 311988 | [311988-mine.json](./311988-mine.json) |
 | Mine | 385265 | [385265-mine.json](./385265-mine.json) |
@@ -10991,6 +10993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
 | Mini Battle Ground | 191033 | [191033-mini-battle-ground.json](./191033-mini-battle-ground.json) |
 | Mini Blaster | 175611 | [175611-mini-blaster.json](./175611-mini-blaster.json) |
+| Mini Boxing | 243721 | [243721-mini-boxing.json](./243721-mini-boxing.json) |
 | Mini Car Coin Collector | 390609 | [390609-mini-car-coin-collector.json](./390609-mini-car-coin-collector.json) |
 | Mini Car Racing | 148355 | [148355-mini-car-racing.json](./148355-mini-car-racing.json) |
 | Mini Car Racing: Tiny Split Screen Tournament | 169157 | [169157-mini-car-racing-tiny-split-screen-tournament.json](./169157-mini-car-racing-tiny-split-screen-tournament.json) |
@@ -15167,6 +15170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoSimulator | 404512 | [404512-mosimulator.json](./404512-mosimulator.json) |
 | Moskao Fighter | 293361 | [293361-moskao-fighter.json](./293361-moskao-fighter.json) |
 | Mosquito | 394426 | [394426-mosquito.json](./394426-mosquito.json) |
+| Mosquito Must Die | 243842 | [243842-mosquito-must-die.json](./243842-mosquito-must-die.json) |
 | Mosquito Simulator | 320607 | [320607-mosquito-simulator.json](./320607-mosquito-simulator.json) |
 | Mosquiturros | 379040 | [379040-mosquiturros.json](./379040-mosquiturros.json) |
 | Moss Destruction | 103431 | [103431-moss-destruction.json](./103431-moss-destruction.json) |
@@ -15452,6 +15456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 21: Limited Edition Liveries | 168363 | [168363-motogp-21-limited-edition-liveries.json](./168363-motogp-21-limited-edition-liveries.json) |
 | MotoGP 22: Day One Edition | 300469 | [300469-motogp-22-day-one-edition.json](./300469-motogp-22-day-one-edition.json) |
 | MotoGP 23 | 243215 | [243215-motogp-23.json](./243215-motogp-23.json) |
+| MotoGP 23: Day One Edition | 243870 | [243870-motogp-23-day-one-edition.json](./243870-motogp-23-day-one-edition.json) |
 | MotoGP 24 | 291932 | [291932-motogp-24.json](./291932-motogp-24.json) |
 | MotoGP 24: Day One Edition | 292136 | [292136-motogp-24-day-one-edition.json](./292136-motogp-24-day-one-edition.json) |
 | MotoGP 24: Nolan Helmet Liveries | 309663 | [309663-motogp-24-nolan-helmet-liveries.json](./309663-motogp-24-nolan-helmet-liveries.json) |
@@ -17499,6 +17504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dear Neighbor, edition 404 | 178429 | [178429-my-dear-neighbor-edition-404.json](./178429-my-dear-neighbor-edition-404.json) |
 | My Dear Sister | 213449 | [213449-my-dear-sister.json](./213449-my-dear-sister.json) |
 | My Dearest Direst Disaster | 397803 | [397803-my-dearest-direst-disaster.json](./397803-my-dearest-direst-disaster.json) |
+| My Demon Wife | 243299 | [243299-my-demon-wife.json](./243299-my-demon-wife.json) |
 | My Demonic Romance | 243960 | [243960-my-demonic-romance.json](./243960-my-demonic-romance.json) |
 | My Desktop Dwarf: Taskbar Forge | 419913 | [419913-my-desktop-dwarf-taskbar-forge.json](./419913-my-desktop-dwarf-taskbar-forge.json) |
 | My Desktop Girlfriend | 384840 | [384840-my-desktop-girlfriend.json](./384840-my-desktop-girlfriend.json) |
@@ -18333,6 +18339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Talking Pretty Girl | 300430 | [300430-my-talking-pretty-girl.json](./300430-my-talking-pretty-girl.json) |
 | My Talking Tom | 87024 | [87024-my-talking-tom.json](./87024-my-talking-tom.json) |
 | My Talking Tom 2 | 180604 | [180604-my-talking-tom-2.json](./180604-my-talking-tom-2.json) |
+| My Talking Unicorn Emily | 243843 | [243843-my-talking-unicorn-emily.json](./243843-my-talking-unicorn-emily.json) |
 | My Tamagotchi Forever | 76234 | [76234-my-tamagotchi-forever.json](./76234-my-tamagotchi-forever.json) |
 | My Taskbar Farm | 371197 | [371197-my-taskbar-farm.json](./371197-my-taskbar-farm.json) |
 | My Tasty Husband | 390235 | [390235-my-tasty-husband.json](./390235-my-tasty-husband.json) |
