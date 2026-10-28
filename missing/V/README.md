@@ -1831,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vignettes | 82952 | [82952-vignettes.json](./82952-vignettes.json) |
 | Vigor | 257573 | [257573-vigor.json](./257573-vigor.json) |
 | Vigor Chronicles: Reckoning | 235312 | [235312-vigor-chronicles-reckoning.json](./235312-vigor-chronicles-reckoning.json) |
+| Vigor Chronicles: Salvation | 250141 | [250141-vigor-chronicles-salvation.json](./250141-vigor-chronicles-salvation.json) |
 | Vigor Roads | 58486 | [58486-vigor-roads.json](./58486-vigor-roads.json) |
 | Vigor: Battle-Hardened Merc | 301570 | [301570-vigor-battle-hardened-merc.json](./301570-vigor-battle-hardened-merc.json) |
 | Vigor: Path to Vengeance | 238102 | [238102-vigor-path-to-vengeance.json](./238102-vigor-path-to-vengeance.json) |
@@ -2918,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Vikings | 33573 | [33573-void-vikings.json](./33573-void-vikings.json) |
 | Void War | 291212 | [291212-void-war.json](./291212-void-war.json) |
 | Void War | 73668 | [73668-void-war.json](./73668-void-war.json) |
+| Void Warden | 249953 | [249953-void-warden.json](./249953-void-warden.json) |
 | Void Warfare | 148889 | [148889-void-warfare.json](./148889-void-warfare.json) |
 | Void Wars | 282025 | [282025-void-wars.json](./282025-void-wars.json) |
 | Void Whispers | 293999 | [293999-void-whispers.json](./293999-void-whispers.json) |
