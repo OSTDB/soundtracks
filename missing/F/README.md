@@ -7519,7 +7519,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Wizards | 412968 | [412968-flying-wizards.json](./412968-flying-wizards.json) |
 | FlyingChicken | 371894 | [371894-flyingchicken.json](./371894-flyingchicken.json) |
 | FlyInside Flight Simulator | 112710 | [112710-flyinside-flight-simulator.json](./112710-flyinside-flight-simulator.json) |
-| FlyKnight | 310121 | [310121-flyknight.json](./310121-flyknight.json) |
 | Flykt | 150418 | [150418-flykt.json](./150418-flykt.json) |
 | Flyland Wars: 2 Not Yours Mine | 173785 | [173785-flyland-wars-2-not-yours-mine.json](./173785-flyland-wars-2-not-yours-mine.json) |
 | Flyland Wars: 3 Model Trains | 173041 | [173041-flyland-wars-3-model-trains.json](./173041-flyland-wars-3-model-trains.json) |
@@ -8423,7 +8422,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Night | 155673 | [155673-forever-night.json](./155673-forever-night.json) |
 | Forever Quester | 243957 | [243957-forever-quester.json](./243957-forever-quester.json) |
 | Forever RPG | 410030 | [410030-forever-rpg.json](./410030-forever-rpg.json) |
-| Forever Skies | 187096 | [187096-forever-skies.json](./187096-forever-skies.json) |
 | Forever Skies: The Final Echoes Update | 404906 | [404906-forever-skies-the-final-echoes-update.json](./404906-forever-skies-the-final-echoes-update.json) |
 | Forever Space | 89366 | [89366-forever-space.json](./89366-forever-space.json) |
 | Forever Space: First Person Edition | 384589 | [384589-forever-space-first-person-edition.json](./384589-forever-space-first-person-edition.json) |
