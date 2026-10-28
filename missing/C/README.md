@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cactus Simulator | 394357 | [394357-cactus-simulator.json](./394357-cactus-simulator.json) |
 | Cactus Simulator 2 | 266986 | [266986-cactus-simulator-2.json](./266986-cactus-simulator-2.json) |
 | Cactus Simulator Remake | 370166 | [370166-cactus-simulator-remake.json](./370166-cactus-simulator-remake.json) |
+| Cactus Venture | 246017 | [246017-cactus-venture.json](./246017-cactus-venture.json) |
 | Cad Cam Warrior | 313335 | [313335-cad-cam-warrior.json](./313335-cad-cam-warrior.json) |
 | Cadalion Online | 9872 | [9872-cadalion-online.json](./9872-cadalion-online.json) |
 | Cadash | 6652 | [6652-cadash.json](./6652-cadash.json) |
@@ -3937,6 +3938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Game | 258079 | [258079-cats-game.json](./258079-cats-game.json) |
 | Cats Games + Say Cheese! + Soko Games | 335105 | [335105-cats-games-say-cheese-soko-games.json](./335105-cats-games-say-cheese-soko-games.json) |
 | Cats Go! | 360150 | [360150-cats-go.json](./360150-cats-go.json) |
+| Cats Hidden Around the World | 246028 | [246028-cats-hidden-around-the-world.json](./246028-cats-hidden-around-the-world.json) |
 | Cats Hidden Around the World 2 | 306340 | [306340-cats-hidden-around-the-world-2.json](./306340-cats-hidden-around-the-world-2.json) |
 | Cats Hidden in Advent Calendar | 386489 | [386489-cats-hidden-in-advent-calendar.json](./386489-cats-hidden-in-advent-calendar.json) |
 | Cats Hidden in Chang'an | 351716 | [351716-cats-hidden-in-changan.json](./351716-cats-hidden-in-changan.json) |
@@ -5566,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheetah | 346050 | [346050-cheetah.json](./346050-cheetah.json) |
 | Cheetah Simulator | 88155 | [88155-cheetah-simulator.json](./88155-cheetah-simulator.json) |
 | Cheetahmen | 243939 | [243939-cheetahmen.json](./243939-cheetahmen.json) |
+| Cheetahmen | 245125 | [245125-cheetahmen.json](./245125-cheetahmen.json) |
 | Cheetahmen II | 8062 | [8062-cheetahmen-ii.json](./8062-cheetahmen-ii.json) |
 | Cheezure | 316094 | [316094-cheezure.json](./316094-cheezure.json) |
 | Chef | 128575 | [128575-chef.json](./128575-chef.json) |
@@ -9992,6 +9995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cole Hunter: Payback | 383730 | [383730-cole-hunter-payback.json](./383730-cole-hunter-payback.json) |
 | Cole's Christmas 2024: GoonQuest | 327419 | [327419-coles-christmas-2024-goonquest.json](./327419-coles-christmas-2024-goonquest.json) |
 | Colecionador Show do Milhão | 222352 | [222352-colecionador-show-do-milhao.json](./222352-colecionador-show-do-milhao.json) |
+| ColecoVision Flashback | 245651 | [245651-colecovision-flashback.json](./245651-colecovision-flashback.json) |
 | Colette's Sugar Madness | 109765 | [109765-colettes-sugar-madness.json](./109765-colettes-sugar-madness.json) |
 | Colibrium: Zen Colour Matching | 107139 | [107139-colibrium-zen-colour-matching.json](./107139-colibrium-zen-colour-matching.json) |
 | Colin McRae Rally 2.0 | 235185 | [235185-colin-mcrae-rally-2-0.json](./235185-colin-mcrae-rally-2-0.json) |
@@ -12561,6 +12565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Hustlers | 369034 | [369034-core-hustlers.json](./369034-core-hustlers.json) |
 | Core Keeper | 152127 | [152127-core-keeper.json](./152127-core-keeper.json) |
 | Core Keeper: Shimmering Frontier | 270197 | [270197-core-keeper-shimmering-frontier.json](./270197-core-keeper-shimmering-frontier.json) |
+| Core Lords | 245889 | [245889-core-lords.json](./245889-core-lords.json) |
 | Core Masters | 62771 | [62771-core-masters.json](./62771-core-masters.json) |
 | Core Meltdown | 116954 | [116954-core-meltdown.json](./116954-core-meltdown.json) |
 | Core Miners | 384084 | [384084-core-miners.json](./384084-core-miners.json) |
