@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -909,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BadRobots VR | 59142 | [59142-badrobots-vr.json](./59142-badrobots-vr.json) |
 | BadSmith | 223365 | [223365-badsmith.json](./223365-badsmith.json) |
 | Baduk Challenge | 365880 | [365880-baduk-challenge.json](./365880-baduk-challenge.json) |
+| BadukPop | 266954 | [266954-badukpop.json](./266954-badukpop.json) |
 | Badventure | 267257 | [267257-badventure.json](./267257-badventure.json) |
 | BadZone | 406203 | [406203-badzone.json](./406203-badzone.json) |
 | Bae Bash! The Chaos Collection | 372066 | [372066-bae-bash-the-chaos-collection.json](./372066-bae-bash-the-chaos-collection.json) |
@@ -10793,6 +10795,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb It 6 | 359198 | [359198-bomb-it-6.json](./359198-bomb-it-6.json) |
 | Bomb It 7 | 387553 | [387553-bomb-it-7.json](./387553-bomb-it-7.json) |
 | Bomb Jack | 265023 | [265023-bomb-jack.json](./265023-bomb-jack.json) |
+| Bomb Jack | 266941 | [266941-bomb-jack.json](./266941-bomb-jack.json) |
+| Bomb Jack | 266942 | [266942-bomb-jack.json](./266942-bomb-jack.json) |
+| Bomb Jack | 266943 | [266943-bomb-jack.json](./266943-bomb-jack.json) |
+| Bomb Jack | 266944 | [266944-bomb-jack.json](./266944-bomb-jack.json) |
+| Bomb Jack | 266945 | [266945-bomb-jack.json](./266945-bomb-jack.json) |
+| Bomb Jack | 266946 | [266946-bomb-jack.json](./266946-bomb-jack.json) |
+| Bomb Jack | 266947 | [266947-bomb-jack.json](./266947-bomb-jack.json) |
+| Bomb Jack | 266948 | [266948-bomb-jack.json](./266948-bomb-jack.json) |
+| Bomb Jack | 266949 | [266949-bomb-jack.json](./266949-bomb-jack.json) |
 | Bomb Jack | 416566 | [416566-bomb-jack.json](./416566-bomb-jack.json) |
 | Bomb Jack | 6100 | [6100-bomb-jack.json](./6100-bomb-jack.json) |
 | Bomb Jack Beer Edition | 413222 | [413222-bomb-jack-beer-edition.json](./413222-bomb-jack-beer-edition.json) |
