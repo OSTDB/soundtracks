@@ -7070,6 +7070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In The Store | 408064 | [408064-lost-in-the-store.json](./408064-lost-in-the-store.json) |
 | Lost in the Storm | 190022 | [190022-lost-in-the-storm.json](./190022-lost-in-the-storm.json) |
 | Lost in the tomb | 74473 | [74473-lost-in-the-tomb.json](./74473-lost-in-the-tomb.json) |
+| Lost in the Void | 240625 | [240625-lost-in-the-void.json](./240625-lost-in-the-void.json) |
 | Lost in the Woods: Adventure Game | 223639 | [223639-lost-in-the-woods-adventure-game.json](./223639-lost-in-the-woods-adventure-game.json) |
 | Lost in Time | 14448 | [14448-lost-in-time.json](./14448-lost-in-time.json) |
 | Lost In Time | 171602 | [171602-lost-in-time.json](./171602-lost-in-time.json) |
