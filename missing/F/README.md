@@ -8489,6 +8489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Hope | 319675 | [319675-forgotten-hope.json](./319675-forgotten-hope.json) |
 | Forgotten Isle | 422067 | [422067-forgotten-isle.json](./422067-forgotten-isle.json) |
 | Forgotten Journey | 350352 | [350352-forgotten-journey.json](./350352-forgotten-journey.json) |
+| Forgotten Knight | 277124 | [277124-forgotten-knight.json](./277124-forgotten-knight.json) |
 | Forgotten Land | 53096 | [53096-forgotten-land.json](./53096-forgotten-land.json) |
 | Forgotten Lands: First Colony | 64724 | [64724-forgotten-lands-first-colony.json](./64724-forgotten-lands-first-colony.json) |
 | Forgotten Lands: Online | 340236 | [340236-forgotten-lands-online.json](./340236-forgotten-lands-online.json) |
@@ -11025,6 +11026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Smash Lite | 416741 | [416741-fruit-smash-lite.json](./416741-fruit-smash-lite.json) |
 | Fruit Splash Mania | 359218 | [359218-fruit-splash-mania.json](./359218-fruit-splash-mania.json) |
 | Fruit Stand Fortune | 330980 | [330980-fruit-stand-fortune.json](./330980-fruit-stand-fortune.json) |
+| Fruit Strike! | 277439 | [277439-fruit-strike.json](./277439-fruit-strike.json) |
 | Fruit Sudoku | 334750 | [334750-fruit-sudoku.json](./334750-fruit-sudoku.json) |
 | Fruit Switch | 265599 | [265599-fruit-switch.json](./265599-fruit-switch.json) |
 | Fruit Thieves | 183548 | [183548-fruit-thieves.json](./183548-fruit-thieves.json) |
