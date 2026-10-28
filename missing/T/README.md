@@ -2302,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasty Arena | 151109 | [151109-tasty-arena.json](./151109-tasty-arena.json) |
 | Tasty Defense | 236246 | [236246-tasty-defense.json](./236246-tasty-defense.json) |
 | Tasty Jigsaw Happy Hour 2 | 157086 | [157086-tasty-jigsaw-happy-hour-2.json](./157086-tasty-jigsaw-happy-hour-2.json) |
+| Tasty Jigsaw: Happy Hour | 268047 | [268047-tasty-jigsaw-happy-hour.json](./268047-tasty-jigsaw-happy-hour.json) |
 | Tasty Jigsaw: Happy Hour 3 | 255067 | [255067-tasty-jigsaw-happy-hour-3.json](./255067-tasty-jigsaw-happy-hour-3.json) |
 | Tasty Jigsaw: Happy Hour 4 | 267814 | [267814-tasty-jigsaw-happy-hour-4.json](./267814-tasty-jigsaw-happy-hour-4.json) |
 | Tasty Love | 192453 | [192453-tasty-love.json](./192453-tasty-love.json) |
@@ -10757,6 +10758,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Sora no Kiseki FC Evolution - Chara-Ani Limited Box | 268029 | [268029-the-legend-of-heroes-sora-no-kiseki-fc-evolution-chara-ani-limited-box.json](./268029-the-legend-of-heroes-sora-no-kiseki-fc-evolution-chara-ani-limited-box.json) |
 | The Legend of Heroes: Sora no Kiseki FC Evolution - Limited Edition | 268030 | [268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json](./268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json) |
 | The Legend of Heroes: Sora no Kiseki FC Kai - HD Edition | 136859 | [136859-the-legend-of-heroes-sora-no-kiseki-fc-kai-hd-edition.json](./136859-the-legend-of-heroes-sora-no-kiseki-fc-kai-hd-edition.json) |
+| The Legend of Heroes: Sora no Kiseki SC Evolution - Chara-Ani Limited Box | 268053 | [268053-the-legend-of-heroes-sora-no-kiseki-sc-evolution-chara-ani-limited-box.json](./268053-the-legend-of-heroes-sora-no-kiseki-sc-evolution-chara-ani-limited-box.json) |
+| The Legend of Heroes: Sora no Kiseki SC Evolution - Limited Edition | 268052 | [268052-the-legend-of-heroes-sora-no-kiseki-sc-evolution-limited-edition.json](./268052-the-legend-of-heroes-sora-no-kiseki-sc-evolution-limited-edition.json) |
+| The Legend of Heroes: Sora no Kiseki SC Kai - HD Edition | 268050 | [268050-the-legend-of-heroes-sora-no-kiseki-sc-kai-hd-edition.json](./268050-the-legend-of-heroes-sora-no-kiseki-sc-kai-hd-edition.json) |
 | The Legend of Heroes: Sora no Kiseki the 3rd Kai - HD Edition | 268097 | [268097-the-legend-of-heroes-sora-no-kiseki-the-3rd-kai-hd-edition.json](./268097-the-legend-of-heroes-sora-no-kiseki-the-3rd-kai-hd-edition.json) |
 | The Legend of Heroes: Trails Beyond the Horizon | 280573 | [280573-the-legend-of-heroes-trails-beyond-the-horizon.json](./280573-the-legend-of-heroes-trails-beyond-the-horizon.json) |
 | The Legend of Heroes: Trails from Zero - Deluxe Edition | 248792 | [248792-the-legend-of-heroes-trails-from-zero-deluxe-edition.json](./248792-the-legend-of-heroes-trails-from-zero-deluxe-edition.json) |
@@ -11114,6 +11118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Letter That Came Over Time | 386396 | [386396-the-letter-that-came-over-time.json](./386396-the-letter-that-came-over-time.json) |
 | The Levels of Backrooms | 217462 | [217462-the-levels-of-backrooms.json](./217462-the-levels-of-backrooms.json) |
 | The Leverage Game | 263103 | [263103-the-leverage-game.json](./263103-the-leverage-game.json) |
+| The Leviathan's Fantasy | 268058 | [268058-the-leviathans-fantasy.json](./268058-the-leviathans-fantasy.json) |
 | The Leviathan's Fantasy: DLC | 289327 | [289327-the-leviathans-fantasy-dlc.json](./289327-the-leviathans-fantasy-dlc.json) |
 | The Leviathan's Fantasy: Mechanical Crisis | 329013 | [329013-the-leviathans-fantasy-mechanical-crisis.json](./329013-the-leviathans-fantasy-mechanical-crisis.json) |
 | The Leviathan's Fantasy: Samurai and Onmyoji | 298175 | [298175-the-leviathans-fantasy-samurai-and-onmyoji.json](./298175-the-leviathans-fantasy-samurai-and-onmyoji.json) |
@@ -24017,6 +24022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail Out | 188913 | [188913-trail-out.json](./188913-trail-out.json) |
 | Trail Out: Hunt 007 Special | 275001 | [275001-trail-out-hunt-007-special.json](./275001-trail-out-hunt-007-special.json) |
 | Trail Out: Legendary Cars | 255153 | [255153-trail-out-legendary-cars.json](./255153-trail-out-legendary-cars.json) |
+| Trail Out: Luxury Life | 268055 | [268055-trail-out-luxury-life.json](./268055-trail-out-luxury-life.json) |
 | Trail Out: Steel Wheels | 267408 | [267408-trail-out-steel-wheels.json](./267408-trail-out-steel-wheels.json) |
 | TrailBlazer | 146868 | [146868-trailblazer.json](./146868-trailblazer.json) |
 | TrailBlazer | 79138 | [79138-trailblazer.json](./79138-trailblazer.json) |
