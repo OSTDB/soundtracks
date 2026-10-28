@@ -2474,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Girls | 213214 | [213214-fashion-girls.json](./213214-fashion-girls.json) |
 | Fashion Girls: All in One Edition | 271502 | [271502-fashion-girls-all-in-one-edition.json](./271502-fashion-girls-all-in-one-edition.json) |
 | Fashion Girls: Silver Edition | 315865 | [315865-fashion-girls-silver-edition.json](./315865-fashion-girls-silver-edition.json) |
+| Fashion Girls: Super Edition | 272407 | [272407-fashion-girls-super-edition.json](./272407-fashion-girls-super-edition.json) |
 | Fashion Holiday: A Game of Texas Hold 'Em | 252246 | [252246-fashion-holiday-a-game-of-texas-hold-em.json](./252246-fashion-holiday-a-game-of-texas-hold-em.json) |
 | Fashion Mall Story | 421374 | [421374-fashion-mall-story.json](./421374-fashion-mall-story.json) |
 | Fashion Model Story | 133713 | [133713-fashion-model-story.json](./133713-fashion-model-story.json) |
@@ -8359,6 +8360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foretales | 195096 | [195096-foretales.json](./195096-foretales.json) |
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
 | Forever Ago | 136299 | [136299-forever-ago.json](./136299-forever-ago.json) |
+| Forever and One More Day | 272112 | [272112-forever-and-one-more-day.json](./272112-forever-and-one-more-day.json) |
 | Forever Blue Luminous | 288165 | [288165-forever-blue-luminous.json](./288165-forever-blue-luminous.json) |
 | Forever Drive | 246964 | [246964-forever-drive.json](./246964-forever-drive.json) |
 | Forever Forest | 113461 | [113461-forever-forest.json](./113461-forever-forest.json) |
