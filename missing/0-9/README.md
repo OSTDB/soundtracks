@@ -1747,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Heures D'Agonie | 257264 | [257264-3-heures-dagonie.json](./257264-3-heures-dagonie.json) |
 | 3 Hit Blunders Bundle | 254418 | [254418-3-hit-blunders-bundle.json](./254418-3-hit-blunders-bundle.json) |
 | 3 in 1 College & Pro Football | 418709 | [418709-3-in-1-college-and-pro-football.json](./418709-3-in-1-college-and-pro-football.json) |
+| 3 in 1 Supergun | 247301 | [247301-3-in-1-supergun.json](./247301-3-in-1-supergun.json) |
 | 3 in 1: Logical Bundle | 208043 | [208043-3-in-1-logical-bundle.json](./208043-3-in-1-logical-bundle.json) |
 | 3 in 1: Multiplayer Bundle | 223566 | [223566-3-in-1-multiplayer-bundle.json](./223566-3-in-1-multiplayer-bundle.json) |
 | 3 In 1: Sudoku, Mahjong, MineSweeper | 263396 | [263396-3-in-1-sudoku-mahjong-minesweeper.json](./263396-3-in-1-sudoku-mahjong-minesweeper.json) |
@@ -2769,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 77: Beyond the Milky Way | 58053 | [58053-77-beyond-the-milky-way.json](./58053-77-beyond-the-milky-way.json) |
 | 771 | 416809 | [416809-771.json](./416809-771.json) |
 | 7743 | 412624 | [412624-7743.json](./412624-7743.json) |
+| 777 Lucky Bingo | 247305 | [247305-777-lucky-bingo.json](./247305-777-lucky-bingo.json) |
 | 7776 II: Dwarven Greed | 122259 | [122259-7776-ii-dwarven-greed.json](./122259-7776-ii-dwarven-greed.json) |
 | 77p Egg: Cubicle 77 | 377403 | [377403-77p-egg-cubicle-77.json](./377403-77p-egg-cubicle-77.json) |
 | 77p egg: Eggwife | 218143 | [218143-77p-egg-eggwife.json](./218143-77p-egg-eggwife.json) |
