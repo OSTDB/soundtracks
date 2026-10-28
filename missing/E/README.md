@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastern Euro Truck Simulator: Real Offroad Car Driving Game Sim 4x4 Mud | 252574 | [252574-eastern-euro-truck-simulator-real-offroad-car-driving-game-sim-4x4-mud.json](./252574-eastern-euro-truck-simulator-real-offroad-car-driving-game-sim-4x4-mud.json) |
 | Eastern Europe 1259 | 356157 | [356157-eastern-europe-1259.json](./356157-eastern-europe-1259.json) |
 | Eastern Europe Bus Sim | 232454 | [232454-eastern-europe-bus-sim.json](./232454-eastern-europe-bus-sim.json) |
+| Eastern Europe Train Sim 2 | 272398 | [272398-eastern-europe-train-sim-2.json](./272398-eastern-europe-train-sim-2.json) |
 | Eastern Exorcist | 121235 | [121235-eastern-exorcist.json](./121235-eastern-exorcist.json) |
 | Eastern Front | 260544 | [260544-eastern-front.json](./260544-eastern-front.json) |
 | Eastern Front (1941) | 24799 | [24799-eastern-front-1941.json](./24799-eastern-front-1941.json) |
