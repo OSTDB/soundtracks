@@ -841,7 +841,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1970,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baoxiao Duobiqiu | 97353 | [97353-baoxiao-duobiqiu.json](./97353-baoxiao-duobiqiu.json) |
 | Bàoxiào Sānguó | 92605 | [92605-baoxiao-sanguo.json](./92605-baoxiao-sanguo.json) |
 | Bapbap | 186656 | [186656-bapbap.json](./186656-bapbap.json) |
+| Baphomet: Eternal Flame | 244938 | [244938-baphomet-eternal-flame.json](./244938-baphomet-eternal-flame.json) |
 | Baphomet's Satellite | 262273 | [262273-baphomets-satellite.json](./262273-baphomets-satellite.json) |
 | Baptism | 75922 | [75922-baptism.json](./75922-baptism.json) |
 | Baptism of Fire | 189140 | [189140-baptism-of-fire.json](./189140-baptism-of-fire.json) |
@@ -9327,6 +9327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockpost | 110077 | [110077-blockpost.json](./110077-blockpost.json) |
 | Blockpost Mobile | 225875 | [225875-blockpost-mobile.json](./225875-blockpost-mobile.json) |
 | Blockremental | 348025 | [348025-blockremental.json](./348025-blockremental.json) |
+| BlockRunner: The BlockSide | 244944 | [244944-blockrunner-the-blockside.json](./244944-blockrunner-the-blockside.json) |
 | Blocks | 113503 | [113503-blocks.json](./113503-blocks.json) |
 | Blocks | 208625 | [208625-blocks.json](./208625-blocks.json) |
 | Blocks | 370143 | [370143-blocks.json](./370143-blocks.json) |
@@ -15509,6 +15510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Sand 3 | 146742 | [146742-burning-sand-3.json](./146742-burning-sand-3.json) |
 | Burning Secrets: A Bara Visual Novel | 236398 | [236398-burning-secrets-a-bara-visual-novel.json](./236398-burning-secrets-a-bara-visual-novel.json) |
 | Burning Secrets: A Bara Visual Novel | 275891 | [275891-burning-secrets-a-bara-visual-novel.json](./275891-burning-secrets-a-bara-visual-novel.json) |
+| Burning Skies Arcade | 244948 | [244948-burning-skies-arcade.json](./244948-burning-skies-arcade.json) |
 | Burning Skies Arcade: Extra Content | 380209 | [380209-burning-skies-arcade-extra-content.json](./380209-burning-skies-arcade-extra-content.json) |
 | Burning Skies Arcade: Supporter Pack | 380210 | [380210-burning-skies-arcade-supporter-pack.json](./380210-burning-skies-arcade-supporter-pack.json) |
 | Burning Sky | 336709 | [336709-burning-sky.json](./336709-burning-sky.json) |
