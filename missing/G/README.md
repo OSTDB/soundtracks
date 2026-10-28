@@ -5201,6 +5201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess of Fate IV: Lilith | 281447 | [281447-goddess-of-fate-iv-lilith.json](./281447-goddess-of-fate-iv-lilith.json) |
 | Goddess of Genesis S | 188323 | [188323-goddess-of-genesis-s.json](./188323-goddess-of-genesis-s.json) |
 | Goddess of Hentai | 281341 | [281341-goddess-of-hentai.json](./281341-goddess-of-hentai.json) |
+| Goddess of immortality | 260279 | [260279-goddess-of-immortality.json](./260279-goddess-of-immortality.json) |
 | Goddess of Math | 116116 | [116116-goddess-of-math.json](./116116-goddess-of-math.json) |
 | Goddess of Strategy | 390170 | [390170-goddess-of-strategy.json](./390170-goddess-of-strategy.json) |
 | Goddess Of Swing | 329353 | [329353-goddess-of-swing.json](./329353-goddess-of-swing.json) |
@@ -7032,6 +7033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grasshoping | 257670 | [257670-grasshoping.json](./257670-grasshoping.json) |
 | Grasshopper Collection | 349959 | [349959-grasshopper-collection.json](./349959-grasshopper-collection.json) |
 | Grasshopper Farm | 134026 | [134026-grasshopper-farm.json](./134026-grasshopper-farm.json) |
+| Grasshoppers! | 259957 | [259957-grasshoppers.json](./259957-grasshoppers.json) |
 | Grassland Defender Keita | 211074 | [211074-grassland-defender-keita.json](./211074-grassland-defender-keita.json) |
 | Grassland Planet | 354919 | [354919-grassland-planet.json](./354919-grassland-planet.json) |
 | Grassland Survivors | 279796 | [279796-grassland-survivors.json](./279796-grassland-survivors.json) |
@@ -7408,6 +7410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gray Dawn | 100367 | [100367-gray-dawn.json](./100367-gray-dawn.json) |
 | Gray Death | 151853 | [151853-gray-death.json](./151853-gray-death.json) |
 | Gray Desert | 128424 | [128424-gray-desert.json](./128424-gray-desert.json) |
+| Gray Destiny | 259956 | [259956-gray-destiny.json](./259956-gray-destiny.json) |
 | Gray Grofa | 51773 | [51773-gray-grofa.json](./51773-gray-grofa.json) |
 | Gray Matter | 264873 | [264873-gray-matter.json](./264873-gray-matter.json) |
 | Gray Memory | 116269 | [116269-gray-memory.json](./116269-gray-memory.json) |
