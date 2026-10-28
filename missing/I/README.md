@@ -5758,6 +5758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Item Getter: Bokura no Kagaku to Mahou no Kankei | 69100 | [69100-item-getter-bokura-no-kagaku-to-mahou-no-kankei.json](./69100-item-getter-bokura-no-kagaku-to-mahou-no-kankei.json) |
 | Item Shop Simulator | 406226 | [406226-item-shop-simulator.json](./406226-item-shop-simulator.json) |
 | Item Synthesis and Dungeon Exploration | 196124 | [196124-item-synthesis-and-dungeon-exploration.json](./196124-item-synthesis-and-dungeon-exploration.json) |
+| Item Tower | 259962 | [259962-item-tower.json](./259962-item-tower.json) |
 | ItemDay | 244659 | [244659-itemday.json](./244659-itemday.json) |
 | Iter | 398493 | [398493-iter.json](./398493-iter.json) |
 | Iter Vehemens Ad Necem | 108171 | [108171-iter-vehemens-ad-necem.json](./108171-iter-vehemens-ad-necem.json) |
