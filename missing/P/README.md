@@ -3214,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pebble Beach no Hatou New: Tournament Edition | 38143 | [38143-pebble-beach-no-hatou-new-tournament-edition.json](./38143-pebble-beach-no-hatou-new-tournament-edition.json) |
 | Pebble Beach no Hatou Plus | 280945 | [280945-pebble-beach-no-hatou-plus.json](./280945-pebble-beach-no-hatou-plus.json) |
 | Pebble End | 187772 | [187772-pebble-end.json](./187772-pebble-end.json) |
+| Pebble Jame | 273743 | [273743-pebble-jame.json](./273743-pebble-jame.json) |
 | Pebble Knights | 347758 | [347758-pebble-knights.json](./347758-pebble-knights.json) |
 | Pebble of Time | 165145 | [165145-pebble-of-time.json](./165145-pebble-of-time.json) |
 | Pebble Universe | 65356 | [65356-pebble-universe.json](./65356-pebble-universe.json) |
@@ -12765,6 +12766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisonela | 218697 | [218697-prisonela.json](./218697-prisonela.json) |
 | Prisonela DX | 284494 | [284494-prisonela-dx.json](./284494-prisonela-dx.json) |
 | Prisonela MD | 367939 | [367939-prisonela-md.json](./367939-prisonela-md.json) |
+| Prisoner | 273732 | [273732-prisoner.json](./273732-prisoner.json) |
 | Prisoner | 377780 | [377780-prisoner.json](./377780-prisoner.json) |
 | Prisoner | 44170 | [44170-prisoner.json](./44170-prisoner.json) |
 | Prisoner | 81185 | [81185-prisoner.json](./81185-prisoner.json) |
