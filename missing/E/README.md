@@ -2400,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elvandia Story | 43276 | [43276-elvandia-story.json](./43276-elvandia-story.json) |
 | Elvarn | 362585 | [362585-elvarn.json](./362585-elvarn.json) |
 | Elven Assassin | 31997 | [31997-elven-assassin.json](./31997-elven-assassin.json) |
+| Elven Assassin: Rise of Darkness | 274594 | [274594-elven-assassin-rise-of-darkness.json](./274594-elven-assassin-rise-of-darkness.json) |
 | Elven Battlegrounds | 235457 | [235457-elven-battlegrounds.json](./235457-elven-battlegrounds.json) |
 | Elven City Simulator | 231851 | [231851-elven-city-simulator.json](./231851-elven-city-simulator.json) |
 | Elven Dreams | 277835 | [277835-elven-dreams.json](./277835-elven-dreams.json) |
