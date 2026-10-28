@@ -1671,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captive Audience | 247579 | [247579-captive-audience.json](./247579-captive-audience.json) |
 | Captive Love Melty Holic | 416078 | [416078-captive-love-melty-holic.json](./416078-captive-love-melty-holic.json) |
 | Captive of Fortune | 81137 | [81137-captive-of-fortune.json](./81137-captive-of-fortune.json) |
+| Captivity Horror Multiplayer | 276348 | [276348-captivity-horror-multiplayer.json](./276348-captivity-horror-multiplayer.json) |
 | CaptMeow | 385832 | [385832-captmeow.json](./385832-captmeow.json) |
 | Captroon | 213248 | [213248-captroon.json](./213248-captroon.json) |
 | Capture | 104672 | [104672-capture.json](./104672-capture.json) |
@@ -2391,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnor City | 417417 | [417417-carnor-city.json](./417417-carnor-city.json) |
 | Carnosis | 414556 | [414556-carnosis.json](./414556-carnosis.json) |
 | Carol Coral's: Open the Door | 319552 | [319552-carol-corals-open-the-door.json](./319552-carol-corals-open-the-door.json) |
+| Carol Shaw's River Raid | 276344 | [276344-carol-shaws-river-raid.json](./276344-carol-shaws-river-raid.json) |
 | Carol the Dark Angel | 209722 | [209722-carol-the-dark-angel.json](./209722-carol-the-dark-angel.json) |
 | Carol Vorderman's Sudoku | 21886 | [21886-carol-vordermans-sudoku.json](./21886-carol-vordermans-sudoku.json) |
 | Carol Vorderman's Sudoku DVD Game | 264474 | [264474-carol-vordermans-sudoku-dvd-game.json](./264474-carol-vordermans-sudoku-dvd-game.json) |
@@ -4592,6 +4594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cereal Soup | 99128 | [99128-cereal-soup.json](./99128-cereal-soup.json) |
 | Cerealman | 419884 | [419884-cerealman.json](./419884-cerealman.json) |
 | Cerebral | 215841 | [215841-cerebral.json](./215841-cerebral.json) |
+| Cerebral Clash | 275995 | [275995-cerebral-clash.json](./275995-cerebral-clash.json) |
 | Cerebrawl | 70367 | [70367-cerebrawl.json](./70367-cerebrawl.json) |
 | Cerebrum Operation | 217261 | [217261-cerebrum-operation.json](./217261-cerebrum-operation.json) |
 | Cerebrum Remastered | 401771 | [401771-cerebrum-remastered.json](./401771-cerebrum-remastered.json) |
@@ -5957,6 +5960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken ~Boiled Egg~ | 99769 | [99769-chicken-boiled-egg.json](./99769-chicken-boiled-egg.json) |
 | Chicken and Duck Brothers | 218699 | [218699-chicken-and-duck-brothers.json](./218699-chicken-and-duck-brothers.json) |
 | Chicken Assassin: Reloaded | 100501 | [100501-chicken-assassin-reloaded.json](./100501-chicken-assassin-reloaded.json) |
+| Chicken Attack Deluxe | 276001 | [276001-chicken-attack-deluxe.json](./276001-chicken-attack-deluxe.json) |
 | Chicken Balls | 254586 | [254586-chicken-balls.json](./254586-chicken-balls.json) |
 | Chicken Blaster | 175778 | [175778-chicken-blaster.json](./175778-chicken-blaster.json) |
 | Chicken Bomb | 137595 | [137595-chicken-bomb.json](./137595-chicken-bomb.json) |
