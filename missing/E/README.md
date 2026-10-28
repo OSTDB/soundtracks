@@ -1592,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eisen | 240872 | [240872-eisen.json](./240872-eisen.json) |
 | Eisenbahn X: Modellset 1 - Bahnhof, Häuser, Scheunen | 169951 | [169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json](./169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json) |
 | Eisenwald: Blood of November | 25607 | [25607-eisenwald-blood-of-november.json](./25607-eisenwald-blood-of-november.json) |
+| EIsland Hop | 254073 | [254073-eisland-hop.json](./254073-eisland-hop.json) |
 | Either | 174528 | [174528-either.json](./174528-either.json) |
 | Either Eye | 389442 | [389442-either-eye.json](./389442-either-eye.json) |
 | Eitr | 11181 | [11181-eitr.json](./11181-eitr.json) |
@@ -5313,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EternaMine | 224721 | [224721-eternamine.json](./224721-eternamine.json) |
 | Eternia: Chronicles of Meranthe | 215366 | [215366-eternia-chronicles-of-meranthe.json](./215366-eternia-chronicles-of-meranthe.json) |
 | Eternia: Pet Whisperer | 145970 | [145970-eternia-pet-whisperer.json](./145970-eternia-pet-whisperer.json) |
+| Eternights: Deluxe Edition | 254085 | [254085-eternights-deluxe-edition.json](./254085-eternights-deluxe-edition.json) |
 | Eternis: Death Match | 298433 | [298433-eternis-death-match.json](./298433-eternis-death-match.json) |
 | Eternity | 276757 | [276757-eternity.json](./276757-eternity.json) |
 | Eternity | 313863 | [313863-eternity.json](./313863-eternity.json) |
@@ -5653,6 +5655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evader | 290693 | [290693-evader.json](./290693-evader.json) |
 | Evades X | 396444 | [396444-evades-x.json](./396444-evades-x.json) |
 | Evades.io | 112223 | [112223-evades-io.json](./112223-evades-io.json) |
+| Evalina The Sorceress | 254086 | [254086-evalina-the-sorceress.json](./254086-evalina-the-sorceress.json) |
 | Evaluate | 329457 | [329457-evaluate.json](./329457-evaluate.json) |
 | Evan Quest | 170357 | [170357-evan-quest.json](./170357-evan-quest.json) |
 | Evan Quest 2 | 192929 | [192929-evan-quest-2.json](./192929-evan-quest-2.json) |
@@ -6916,6 +6919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extended Stay | 158401 | [158401-extended-stay.json](./158401-extended-stay.json) |
 | Extensor | 85951 | [85951-extensor.json](./85951-extensor.json) |
 | Exteria | 31056 | [31056-exteria.json](./31056-exteria.json) |
+| ExtermiHate | 253954 | [253954-extermihate.json](./253954-extermihate.json) |
 | Exterminate | 78505 | [78505-exterminate.json](./78505-exterminate.json) |
 | Exterminate the world | 93751 | [93751-exterminate-the-world.json](./93751-exterminate-the-world.json) |
 | Exterminate Zombies: Get Paid | 215930 | [215930-exterminate-zombies-get-paid.json](./215930-exterminate-zombies-get-paid.json) |
