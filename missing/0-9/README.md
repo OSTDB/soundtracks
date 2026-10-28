@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Princes | 323686 | [323686-1000-princes.json](./323686-1000-princes.json) |
 | 1000 Questions Quiz! National Flag | 317903 | [317903-1000-questions-quiz-national-flag.json](./317903-1000-questions-quiz-national-flag.json) |
 | 1000 Questions to Be Chosen by the Cat Lord | 404260 | [404260-1000-questions-to-be-chosen-by-the-cat-lord.json](./404260-1000-questions-to-be-chosen-by-the-cat-lord.json) |
+| 1000 Rogues | 244067 | [244067-1000-rogues.json](./244067-1000-rogues.json) |
 | 1000 Score: 2D Platformer | 389990 | [389990-1000-score-2d-platformer.json](./389990-1000-score-2d-platformer.json) |
 | 1000 Seconds | 301027 | [301027-1000-seconds.json](./301027-1000-seconds.json) |
 | 1000 Shards | 169675 | [169675-1000-shards.json](./169675-1000-shards.json) |
