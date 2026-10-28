@@ -8745,6 +8745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Blasters | 199093 | [199093-meteor-blasters.json](./199093-meteor-blasters.json) |
 | Meteor Clash | 133325 | [133325-meteor-clash.json](./133325-meteor-clash.json) |
 | Meteor Command VR | 100827 | [100827-meteor-command-vr.json](./100827-meteor-command-vr.json) |
+| Meteor Commander | 233712 | [233712-meteor-commander.json](./233712-meteor-commander.json) |
 | Meteor Crush VR | 31901 | [31901-meteor-crush-vr.json](./31901-meteor-crush-vr.json) |
 | Meteor Destroyer | 178963 | [178963-meteor-destroyer.json](./178963-meteor-destroyer.json) |
 | Meteor Down! | 250880 | [250880-meteor-down.json](./250880-meteor-down.json) |
@@ -10747,9 +10748,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Jurassic World Adventures | 285053 | [285053-minecraft-jurassic-world-adventures.json](./285053-minecraft-jurassic-world-adventures.json) |
 | Minecraft: Kung Fu Panda | 299203 | [299203-minecraft-kung-fu-panda.json](./299203-minecraft-kung-fu-panda.json) |
 | MInecraft: Lava Chicken | 327116 | [327116-minecraft-lava-chicken.json](./327116-minecraft-lava-chicken.json) |
+| Minecraft: Legends - Deluxe Edition | 233678 | [233678-minecraft-legends-deluxe-edition.json](./233678-minecraft-legends-deluxe-edition.json) |
 | Minecraft: Lightyear | 254263 | [254263-minecraft-lightyear.json](./254263-minecraft-lightyear.json) |
 | Minecraft: LittleBigPlanet Edition | 234238 | [234238-minecraft-littlebigplanet-edition.json](./234238-minecraft-littlebigplanet-edition.json) |
 | MInecraft: Marvel Avengers Skin Pack | 254877 | [254877-minecraft-marvel-avengers-skin-pack.json](./254877-minecraft-marvel-avengers-skin-pack.json) |
+| Minecraft: Master Chief Mash-up | 233695 | [233695-minecraft-master-chief-mash-up.json](./233695-minecraft-master-chief-mash-up.json) |
 | Minecraft: Mega Man X | 239210 | [239210-minecraft-mega-man-x.json](./239210-minecraft-mega-man-x.json) |
 | Minecraft: Minecon 2015 Skin Pack | 301522 | [301522-minecraft-minecon-2015-skin-pack.json](./301522-minecraft-minecon-2015-skin-pack.json) |
 | Minecraft: Minecon 2016 Skin Pack | 255328 | [255328-minecraft-minecon-2016-skin-pack.json](./255328-minecraft-minecon-2016-skin-pack.json) |
@@ -15765,6 +15768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Trap / Operation / Simon | 77240 | [77240-mouse-trap-operation-simon.json](./77240-mouse-trap-operation-simon.json) |
 | Mouse Trap Hotel | 49037 | [49037-mouse-trap-hotel.json](./49037-mouse-trap-hotel.json) |
 | Mouse Trophy | 59057 | [59057-mouse-trophy.json](./59057-mouse-trophy.json) |
+| Mouse Tweaks | 233716 | [233716-mouse-tweaks.json](./233716-mouse-tweaks.json) |
 | Mouse Wants Cheese | 261308 | [261308-mouse-wants-cheese.json](./261308-mouse-wants-cheese.json) |
 | Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
 | Mouse World | 298081 | [298081-mouse-world.json](./298081-mouse-world.json) |
@@ -17308,6 +17312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Legends - Honda Pack 2025 | 350637 | [350637-mx-vs-atv-legends-honda-pack-2025.json](./350637-mx-vs-atv-legends-honda-pack-2025.json) |
 | MX vs. ATV: Legends - Husqvarna Pack | 350648 | [350648-mx-vs-atv-legends-husqvarna-pack.json](./350648-mx-vs-atv-legends-husqvarna-pack.json) |
 | MX vs. ATV: Legends - Husqvarna Pack 2025 | 356698 | [356698-mx-vs-atv-legends-husqvarna-pack-2025.json](./356698-mx-vs-atv-legends-husqvarna-pack-2025.json) |
+| MX vs. ATV: Legends - Icon Pack | 233683 | [233683-mx-vs-atv-legends-icon-pack.json](./233683-mx-vs-atv-legends-icon-pack.json) |
 | MX vs. ATV: Legends - Kawasaki Pack | 350649 | [350649-mx-vs-atv-legends-kawasaki-pack.json](./350649-mx-vs-atv-legends-kawasaki-pack.json) |
 | MX vs. ATV: Legends - Kawasaki Pack 2025 | 350641 | [350641-mx-vs-atv-legends-kawasaki-pack-2025.json](./350641-mx-vs-atv-legends-kawasaki-pack-2025.json) |
 | MX vs. ATV: Legends - KTM Pack 2025 | 350643 | [350643-mx-vs-atv-legends-ktm-pack-2025.json](./350643-mx-vs-atv-legends-ktm-pack-2025.json) |
