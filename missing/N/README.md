@@ -1038,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazi Bunker | 105252 | [105252-nazi-bunker.json](./105252-nazi-bunker.json) |
 | Nazi Elimination | 81988 | [81988-nazi-elimination.json](./81988-nazi-elimination.json) |
 | Nazi Labs | 367144 | [367144-nazi-labs.json](./367144-nazi-labs.json) |
+| Nazi Zombies: Portable | 248218 | [248218-nazi-zombies-portable.json](./248218-nazi-zombies-portable.json) |
 | NaziShoot | 72508 | [72508-nazishoot.json](./72508-nazishoot.json) |
 | NaziShootout | 88054 | [88054-nazishootout.json](./88054-nazishootout.json) |
 | Nazo no Chinbotsusen | 385713 | [385713-nazo-no-chinbotsusen.json](./385713-nazo-no-chinbotsusen.json) |
@@ -2115,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Exile | 120652 | [120652-neon-exile.json](./120652-neon-exile.json) |
 | Neon Exploding Bread | 363685 | [363685-neon-exploding-bread.json](./363685-neon-exploding-bread.json) |
 | Neon Express | 310723 | [310723-neon-express.json](./310723-neon-express.json) |
+| Neon Fantasy: Animals | 248227 | [248227-neon-fantasy-animals.json](./248227-neon-fantasy-animals.json) |
 | Neon Fantasy: Birds | 254144 | [254144-neon-fantasy-birds.json](./254144-neon-fantasy-birds.json) |
 | Neon Fantasy: Butterflies | 293493 | [293493-neon-fantasy-butterflies.json](./293493-neon-fantasy-butterflies.json) |
 | Neon Fantasy: Cats | 267842 | [267842-neon-fantasy-cats.json](./267842-neon-fantasy-cats.json) |
@@ -4053,6 +4055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare: Reimagined Beginning | 381396 | [381396-nightmare-reimagined-beginning.json](./381396-nightmare-reimagined-beginning.json) |
 | Nightmare: The Lunatic | 186025 | [186025-nightmare-the-lunatic.json](./186025-nightmare-the-lunatic.json) |
 | Nightmare: The Origins | 173218 | [173218-nightmare-the-origins.json](./173218-nightmare-the-origins.json) |
+| Nightmare: Worlds Collide | 248082 | [248082-nightmare-worlds-collide.json](./248082-nightmare-worlds-collide.json) |
 | Nightmare's Revenge | 322006 | [322006-nightmares-revenge.json](./322006-nightmares-revenge.json) |
 | NightmareBullet | 105364 | [105364-nightmarebullet.json](./105364-nightmarebullet.json) |
 | Nightmarena | 372547 | [372547-nightmarena.json](./372547-nightmarena.json) |
@@ -5992,6 +5995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Guilty! | 353903 | [353903-not-guilty.json](./353903-not-guilty.json) |
 | Not Heaven | 110938 | [110938-not-heaven.json](./110938-not-heaven.json) |
 | Not in Heaven | 111102 | [111102-not-in-heaven.json](./111102-not-in-heaven.json) |
+| Not In My Cave | 248225 | [248225-not-in-my-cave.json](./248225-not-in-my-cave.json) |
 | Not In My Crapper | 165376 | [165376-not-in-my-crapper.json](./165376-not-in-my-crapper.json) |
 | Not in the Groove | 138851 | [138851-not-in-the-groove.json](./138851-not-in-the-groove.json) |
 | Not Involved | 229782 | [229782-not-involved.json](./229782-not-involved.json) |
