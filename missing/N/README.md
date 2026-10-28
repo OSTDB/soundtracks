@@ -5295,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Iron Triangle | 21290 | [21290-nobunagas-ambition-iron-triangle.json](./21290-nobunagas-ambition-iron-triangle.json) |
 | Nobunaga's Ambition: Kakushin - Power Up Kit | 308205 | [308205-nobunagas-ambition-kakushin-power-up-kit.json](./308205-nobunagas-ambition-kakushin-power-up-kit.json) |
 | Nobunaga's Ambition: Lord of Darkness | 394236 | [394236-nobunagas-ambition-lord-of-darkness.json](./394236-nobunagas-ambition-lord-of-darkness.json) |
+| Nobunaga's Ambition: Ranseiki | 267525 | [267525-nobunagas-ambition-ranseiki.json](./267525-nobunagas-ambition-ranseiki.json) |
 | Nobunaga's Ambition: Ranseiki with Power Up Kit | 74687 | [74687-nobunagas-ambition-ranseiki-with-power-up-kit.json](./74687-nobunagas-ambition-ranseiki-with-power-up-kit.json) |
 | Nobunaga’s Ambition: Rebirth - Treasure Box Limited Edition | 212328 | [212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json](./212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json) |
 | Nobunaga's Ambition: Reppuden with Power Up Kit | 55810 | [55810-nobunagas-ambition-reppuden-with-power-up-kit.json](./55810-nobunagas-ambition-reppuden-with-power-up-kit.json) |
@@ -6102,6 +6103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nous | 105167 | [105167-nous.json](./105167-nous.json) |
 | Nous | 142387 | [142387-nous.json](./142387-nous.json) |
 | Nous | 231094 | [231094-nous.json](./231094-nous.json) |
+| Nova | 267515 | [267515-nova.json](./267515-nova.json) |
 | NOVA 1492 | 126543 | [126543-nova-1492.json](./126543-nova-1492.json) |
 | Nova 2001 | 38563 | [38563-nova-2001.json](./38563-nova-2001.json) |
 | Nova 9: The Return of Gir Draxon | 14516 | [14516-nova-9-the-return-of-gir-draxon.json](./14516-nova-9-the-return-of-gir-draxon.json) |
