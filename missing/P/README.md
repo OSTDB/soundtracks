@@ -4167,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Shop Snacks: Expansion Pack 2 | 237982 | [237982-pet-shop-snacks-expansion-pack-2.json](./237982-pet-shop-snacks-expansion-pack-2.json) |
 | Pet Shop Snacks: Extended Edition | 222233 | [222233-pet-shop-snacks-extended-edition.json](./222233-pet-shop-snacks-extended-edition.json) |
 | Pet Shop Snacks: Premium Edition | 225499 | [225499-pet-shop-snacks-premium-edition.json](./225499-pet-shop-snacks-premium-edition.json) |
+| Pet Shop World | 260255 | [260255-pet-shop-world.json](./260255-pet-shop-world.json) |
 | Pet Show Craze | 177041 | [177041-pet-show-craze.json](./177041-pet-show-craze.json) |
 | Pet Show: Complete Edition | 357018 | [357018-pet-show-complete-edition.json](./357018-pet-show-complete-edition.json) |
 | Pet Show: Sea Edition | 366781 | [366781-pet-show-sea-edition.json](./366781-pet-show-sea-edition.json) |
@@ -7267,6 +7268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles WW2 Jigsaw: Pack - German Railway Guns | 264507 | [264507-pixel-puzzles-ww2-jigsaw-pack-german-railway-guns.json](./264507-pixel-puzzles-ww2-jigsaw-pack-german-railway-guns.json) |
 | Pixel Puzzles WW2 Jigsaw: Pack - Soviet Invasion of Poland | 268141 | [268141-pixel-puzzles-ww2-jigsaw-pack-soviet-invasion-of-poland.json](./268141-pixel-puzzles-ww2-jigsaw-pack-soviet-invasion-of-poland.json) |
 | Pixel Puzzles: Illustrations & Anime | 162933 | [162933-pixel-puzzles-illustrations-and-anime.json](./162933-pixel-puzzles-illustrations-and-anime.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Book of Nature | 259951 | [259951-pixel-puzzles-illustrations-and-anime-jigsaw-pack-book-of-nature.json](./259951-pixel-puzzles-illustrations-and-anime-jigsaw-pack-book-of-nature.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Chibi | 241507 | [241507-pixel-puzzles-illustrations-and-anime-jigsaw-pack-chibi.json](./241507-pixel-puzzles-illustrations-and-anime-jigsaw-pack-chibi.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dark Sided | 162940 | [162940-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dark-sided.json](./162940-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dark-sided.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Deadswitch 3 | 303703 | [303703-pixel-puzzles-illustrations-and-anime-jigsaw-pack-deadswitch-3.json](./303703-pixel-puzzles-illustrations-and-anime-jigsaw-pack-deadswitch-3.json) |
@@ -11149,6 +11151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port Simulator 2012 - Hamburg | 54282 | [54282-port-simulator-2012-hamburg.json](./54282-port-simulator-2012-hamburg.json) |
 | Port Traventor | 184881 | [184881-port-traventor.json](./184881-port-traventor.json) |
 | Porta Nubi | 400670 | [400670-porta-nubi.json](./400670-porta-nubi.json) |
+| Porta-Tower | 260203 | [260203-porta-tower.json](./260203-porta-tower.json) |
 | Portabellows | 247780 | [247780-portabellows.json](./247780-portabellows.json) |
 | Portability | 159769 | [159769-portability.json](./159769-portability.json) |
 | Portable Island: Te no Hira no Resort | 207129 | [207129-portable-island-te-no-hira-no-resort.json](./207129-portable-island-te-no-hira-no-resort.json) |
@@ -14131,6 +14134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project.Tasker | 381301 | [381301-project-tasker.json](./381301-project-tasker.json) |
 | Project+ | 131887 | [131887-project.json](./131887-project.json) |
 | Project0 | 297190 | [297190-project0.json](./297190-project0.json) |
+| Projected Dreams | 260268 | [260268-projected-dreams.json](./260268-projected-dreams.json) |
 | Projectile Dysfunction | 138511 | [138511-projectile-dysfunction.json](./138511-projectile-dysfunction.json) |
 | Projectile Fighter | 109490 | [109490-projectile-fighter.json](./109490-projectile-fighter.json) |
 | Projectile Guardian | 54923 | [54923-projectile-guardian.json](./54923-projectile-guardian.json) |
@@ -16216,6 +16220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyrates! | 176742 | [176742-pyrates.json](./176742-pyrates.json) |
 | Pyrax | 120020 | [120020-pyrax.json](./120020-pyrax.json) |
 | Pyre | 18822 | [18822-pyre.json](./18822-pyre.json) |
+| Pyrene | 260275 | [260275-pyrene.json](./260275-pyrene.json) |
 | Pyreside Waltz | 236117 | [236117-pyreside-waltz.json](./236117-pyreside-waltz.json) |
 | Pyrite Heart | 17860 | [17860-pyrite-heart.json](./17860-pyrite-heart.json) |
 | Pyro | 254353 | [254353-pyro.json](./254353-pyro.json) |
