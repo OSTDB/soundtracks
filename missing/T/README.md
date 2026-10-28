@@ -7573,6 +7573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls IV: Shivering Isles | 894 | [894-the-elder-scrolls-iv-shivering-isles.json](./894-the-elder-scrolls-iv-shivering-isles.json) |
 | The Elder Scrolls Legends: Moons of Elsweyr | 119311 | [119311-the-elder-scrolls-legends-moons-of-elsweyr.json](./119311-the-elder-scrolls-legends-moons-of-elsweyr.json) |
 | The Elder Scrolls Online Collection: Gold Road | 306484 | [306484-the-elder-scrolls-online-collection-gold-road.json](./306484-the-elder-scrolls-online-collection-gold-road.json) |
+| The Elder Scrolls Online Collection: Necrom | 246570 | [246570-the-elder-scrolls-online-collection-necrom.json](./246570-the-elder-scrolls-online-collection-necrom.json) |
 | The Elder Scrolls Online: 2025 Premium Edition | 340745 | [340745-the-elder-scrolls-online-2025-premium-edition.json](./340745-the-elder-scrolls-online-2025-premium-edition.json) |
 | The Elder Scrolls Online: Ascending Tide | 237337 | [237337-the-elder-scrolls-online-ascending-tide.json](./237337-the-elder-scrolls-online-ascending-tide.json) |
 | The Elder Scrolls Online: Blackwood | 143024 | [143024-the-elder-scrolls-online-blackwood.json](./143024-the-elder-scrolls-online-blackwood.json) |
@@ -24181,6 +24182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail Out: Steel Wheels | 267408 | [267408-trail-out-steel-wheels.json](./267408-trail-out-steel-wheels.json) |
 | TrailBlazer | 146868 | [146868-trailblazer.json](./146868-trailblazer.json) |
 | TrailBlazer | 79138 | [79138-trailblazer.json](./79138-trailblazer.json) |
+| Trailblazer Advance | 246565 | [246565-trailblazer-advance.json](./246565-trailblazer-advance.json) |
 | Trailblazers | 88383 | [88383-trailblazers.json](./88383-trailblazers.json) |
 | Trailbreaker: Jupiter Edition | 109516 | [109516-trailbreaker-jupiter-edition.json](./109516-trailbreaker-jupiter-edition.json) |
 | Trailcam | 319792 | [319792-trailcam.json](./319792-trailcam.json) |
@@ -28777,6 +28779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisty Tracks | 73999 | [73999-twisty-tracks.json](./73999-twisty-tracks.json) |
 | Twisty Twins | 244111 | [244111-twisty-twins.json](./244111-twisty-twins.json) |
 | Twisty's Asylum Escapades | 31940 | [31940-twistys-asylum-escapades.json](./31940-twistys-asylum-escapades.json) |
+| Twitch Dates Pokemon | 246577 | [246577-twitch-dates-pokemon.json](./246577-twitch-dates-pokemon.json) |
 | Twitch Place | 230971 | [230971-twitch-place.json](./230971-twitch-place.json) |
 | Twitch Sings | 117421 | [117421-twitch-sings.json](./117421-twitch-sings.json) |
 | Twitchbox | 96052 | [96052-twitchbox.json](./96052-twitchbox.json) |
