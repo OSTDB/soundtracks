@@ -6227,6 +6227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Childhood Friends | 364958 | [364958-childhood-friends.json](./364958-childhood-friends.json) |
 | Childhood Gone: Shadowed Wand | 157536 | [157536-childhood-gone-shadowed-wand.json](./157536-childhood-gone-shadowed-wand.json) |
 | Childhood Heroes 3 in 1 | 340735 | [340735-childhood-heroes-3-in-1.json](./340735-childhood-heroes-3-in-1.json) |
+| Childhood Homes: And Why We Hate Them | 254091 | [254091-childhood-homes-and-why-we-hate-them.json](./254091-childhood-homes-and-why-we-hate-them.json) |
 | Childhood Watermelon | 366311 | [366311-childhood-watermelon.json](./366311-childhood-watermelon.json) |
 | Childhood's End | 365171 | [365171-childhoods-end.json](./365171-childhoods-end.json) |
 | Childhood's Rush | 293541 | [293541-childhoods-rush.json](./293541-childhoods-rush.json) |
@@ -12403,6 +12404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooperative Chess | 157105 | [157105-cooperative-chess.json](./157105-cooperative-chess.json) |
 | Cooporationation | 326823 | [326823-cooporationation.json](./326823-cooporationation.json) |
 | CoopRooms | 347156 | [347156-cooprooms.json](./347156-cooprooms.json) |
+| CoopValor 2056: All Unlimited Edition | 254089 | [254089-coopvalor-2056-all-unlimited-edition.json](./254089-coopvalor-2056-all-unlimited-edition.json) |
 | CoopValor 2056: Ukraine WW3 | 256292 | [256292-coopvalor-2056-ukraine-ww3.json](./256292-coopvalor-2056-ukraine-ww3.json) |
 | CoopValor WW2 Battle of the Bulge | 263522 | [263522-coopvalor-ww2-battle-of-the-bulge.json](./263522-coopvalor-ww2-battle-of-the-bulge.json) |
 | Cooties | 279887 | [279887-cooties.json](./279887-cooties.json) |
