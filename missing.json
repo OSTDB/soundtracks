@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-28T19:19:07.053Z",
-  "total_missing": 275874,
+  "generated_at": "2026-10-28T19:34:58.861Z",
+  "total_missing": 275926,
   "games": [
     {
       "igdb_id": 191680,
@@ -33817,6 +33817,11 @@
       "file": "missing/A/211173-after-corruption.json"
     },
     {
+      "igdb_id": 238130,
+      "game_name": "After Dark",
+      "file": "missing/A/238130-after-dark.json"
+    },
+    {
       "igdb_id": 357793,
       "game_name": "After Dark",
       "file": "missing/A/357793-after-dark.json"
@@ -34215,6 +34220,11 @@
       "igdb_id": 5713,
       "game_name": "After the War",
       "file": "missing/A/5713-after-the-war.json"
+    },
+    {
+      "igdb_id": 238121,
+      "game_name": "After Thought",
+      "file": "missing/A/238121-after-thought.json"
     },
     {
       "igdb_id": 263980,
@@ -57757,6 +57767,11 @@
       "file": "missing/A/84756-angry-bunnies-colossal-carrot-crusade.json"
     },
     {
+      "igdb_id": 238141,
+      "game_name": "Angry Bunnies: Colossal Carrot Crusade - Aztec",
+      "file": "missing/A/238141-angry-bunnies-colossal-carrot-crusade-aztec.json"
+    },
+    {
       "igdb_id": 403417,
       "game_name": "Angry Bunnies: Colossal Carrot Crusade - Desert",
       "file": "missing/A/403417-angry-bunnies-colossal-carrot-crusade-desert.json"
@@ -75007,6 +75022,11 @@
       "file": "missing/A/382572-ark-lost-colony.json"
     },
     {
+      "igdb_id": 238148,
+      "game_name": "Ark: Ragnarok",
+      "file": "missing/A/238148-ark-ragnarok.json"
+    },
+    {
       "igdb_id": 350531,
       "game_name": "Ark: Ragnarok Ascended",
       "file": "missing/A/350531-ark-ragnarok-ascended.json"
@@ -84542,6 +84562,11 @@
       "file": "missing/A/120138-astro-bears.json"
     },
     {
+      "igdb_id": 238147,
+      "game_name": "Astro Bears + Non-Bears",
+      "file": "missing/A/238147-astro-bears-non-bears.json"
+    },
+    {
       "igdb_id": 54774,
       "game_name": "Astro Bears Party",
       "file": "missing/A/54774-astro-bears-party.json"
@@ -86912,6 +86937,11 @@
       "file": "missing/A/36814-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings.json"
     },
     {
+      "igdb_id": 238144,
+      "game_name": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Battle Mix Secret Teachings",
+      "file": "missing/A/238144-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-battle-mix-secret-teachings.json"
+    },
+    {
       "igdb_id": 171395,
       "game_name": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Great Adventures in New Worlds Vol. 1",
       "file": "missing/A/171395-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-1.json"
@@ -86920,6 +86950,26 @@
       "igdb_id": 171342,
       "game_name": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Great Adventures in New Worlds Vol. 2",
       "file": "missing/A/171342-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-2.json"
+    },
+    {
+      "igdb_id": 238146,
+      "game_name": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Ilmeria",
+      "file": "missing/A/238146-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-ilmeria.json"
+    },
+    {
+      "igdb_id": 238145,
+      "game_name": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Lucia",
+      "file": "missing/A/238145-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-lucia.json"
+    },
+    {
+      "igdb_id": 238143,
+      "game_name": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - New Quest: Loads of Exp Quest",
+      "file": "missing/A/238143-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-new-quest-loads-of-exp-quest.json"
+    },
+    {
+      "igdb_id": 238142,
+      "game_name": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - New Quest: Piles of Coll Quest",
+      "file": "missing/A/238142-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-new-quest-piles-of-coll-quest.json"
     },
     {
       "igdb_id": 329384,
@@ -99430,6 +99480,11 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
+    },
+    {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -173297,6 +173352,11 @@
       "file": "missing/B/96112-burtik.json"
     },
     {
+      "igdb_id": 238122,
+      "game_name": "Buru-buru Wolf",
+      "file": "missing/B/238122-buru-buru-wolf.json"
+    },
+    {
       "igdb_id": 108997,
       "game_name": "Burujiru",
       "file": "missing/B/108997-burujiru.json"
@@ -190255,6 +190315,11 @@
       "igdb_id": 55260,
       "game_name": "Castle Demolition VR",
       "file": "missing/C/55260-castle-demolition-vr.json"
+    },
+    {
+      "igdb_id": 238139,
+      "game_name": "Castle Destroyers",
+      "file": "missing/C/238139-castle-destroyers.json"
     },
     {
       "igdb_id": 200035,
@@ -256827,6 +256892,11 @@
       "file": "missing/C/82941-cthulhu-mythos-rpg-ii.json"
     },
     {
+      "igdb_id": 238114,
+      "game_name": "Cthulhu Mythos RPG: Suishou no Yobigoe Plus",
+      "file": "missing/C/238114-cthulhu-mythos-rpg-suishou-no-yobigoe-plus.json"
+    },
+    {
       "igdb_id": 158630,
       "game_name": "Cthulhu Pub",
       "file": "missing/C/158630-cthulhu-pub.json"
@@ -272155,6 +272225,11 @@
       "igdb_id": 334340,
       "game_name": "Dark Dungeon Feminized",
       "file": "missing/D/334340-dark-dungeon-feminized.json"
+    },
+    {
+      "igdb_id": 238120,
+      "game_name": "Dark Dungeon Warrior",
+      "file": "missing/D/238120-dark-dungeon-warrior.json"
     },
     {
       "igdb_id": 41187,
@@ -314972,6 +315047,11 @@
       "file": "missing/D/239578-doctor-who-dalek-hack.json"
     },
     {
+      "igdb_id": 238108,
+      "game_name": "Doctor Who: Daleks v Cybermen",
+      "file": "missing/D/238108-doctor-who-daleks-v-cybermen.json"
+    },
+    {
       "igdb_id": 249743,
       "game_name": "Doctor Who: Defeat Deffry",
       "file": "missing/D/249743-doctor-who-defeat-deffry.json"
@@ -338635,6 +338715,11 @@
       "igdb_id": 343746,
       "game_name": "Drone Dash",
       "file": "missing/D/343746-drone-dash.json"
+    },
+    {
+      "igdb_id": 238138,
+      "game_name": "Drone Delivery",
+      "file": "missing/D/238138-drone-delivery.json"
     },
     {
       "igdb_id": 248391,
@@ -364685,6 +364770,26 @@
       "igdb_id": 238427,
       "game_name": "Enchanted in the Moonlight",
       "file": "missing/E/238427-enchanted-in-the-moonlight.json"
+    },
+    {
+      "igdb_id": 238156,
+      "game_name": "Enchanted in the Moonlight: Fated Romance - A Foxy Butler!?",
+      "file": "missing/E/238156-enchanted-in-the-moonlight-fated-romance-a-foxy-butler.json"
+    },
+    {
+      "igdb_id": 238155,
+      "game_name": "Enchanted in the Moonlight: Fated Romance - Love in the Time of Blogging",
+      "file": "missing/E/238155-enchanted-in-the-moonlight-fated-romance-love-in-the-time-of-blogging.json"
+    },
+    {
+      "igdb_id": 238154,
+      "game_name": "Enchanted in the Moonlight: Fated Romance - The Dear Bird's Call",
+      "file": "missing/E/238154-enchanted-in-the-moonlight-fated-romance-the-dear-birds-call.json"
+    },
+    {
+      "igdb_id": 238153,
+      "game_name": "Enchanted in the Moonlight: Fated Romance - The Weight of Love",
+      "file": "missing/E/238153-enchanted-in-the-moonlight-fated-romance-the-weight-of-love.json"
     },
     {
       "igdb_id": 119510,
@@ -393015,6 +393120,11 @@
       "igdb_id": 246647,
       "game_name": "Family Chess: Magnificent Edition",
       "file": "missing/F/246647-family-chess-magnificent-edition.json"
+    },
+    {
+      "igdb_id": 238123,
+      "game_name": "Family Chess: Platinum Edition",
+      "file": "missing/F/238123-family-chess-platinum-edition.json"
     },
     {
       "igdb_id": 212340,
@@ -451617,6 +451727,11 @@
       "file": "missing/G/24411-galaxy-reavers.json"
     },
     {
+      "igdb_id": 238118,
+      "game_name": "Galaxy Revo 2",
+      "file": "missing/G/238118-galaxy-revo-2.json"
+    },
+    {
       "igdb_id": 247488,
       "game_name": "Galaxy Revo: Remake",
       "file": "missing/G/247488-galaxy-revo-remake.json"
@@ -488535,6 +488650,16 @@
       "igdb_id": 232527,
       "game_name": "Grip on Reality",
       "file": "missing/G/232527-grip-on-reality.json"
+    },
+    {
+      "igdb_id": 238137,
+      "game_name": "Grip on Reality: Bound and Forgotten",
+      "file": "missing/G/238137-grip-on-reality-bound-and-forgotten.json"
+    },
+    {
+      "igdb_id": 238136,
+      "game_name": "Grip on Reality: Endless Night",
+      "file": "missing/G/238136-grip-on-reality-endless-night.json"
     },
     {
       "igdb_id": 232529,
@@ -581817,6 +581942,11 @@
       "file": "missing/I/305907-itazura-madness.json"
     },
     {
+      "igdb_id": 238117,
+      "game_name": "Itazura na Keshigum",
+      "file": "missing/I/238117-itazura-na-keshigum.json"
+    },
+    {
       "igdb_id": 224946,
       "game_name": "Itazura Tenshi",
       "file": "missing/I/224946-itazura-tenshi.json"
@@ -590385,6 +590515,11 @@
       "igdb_id": 231219,
       "game_name": "Jigsaw Masterpieces: Big Cat Friends",
       "file": "missing/J/231219-jigsaw-masterpieces-big-cat-friends.json"
+    },
+    {
+      "igdb_id": 238151,
+      "game_name": "Jigsaw Masterpieces: Black Cats in a Cat Welfare Cafe / Kenta Igarashi",
+      "file": "missing/J/238151-jigsaw-masterpieces-black-cats-in-a-cat-welfare-cafe-kenta-igarashi.json"
     },
     {
       "igdb_id": 238309,
@@ -607127,6 +607262,11 @@
       "file": "missing/K/104223-kawaii-coloring-book.json"
     },
     {
+      "igdb_id": 238115,
+      "game_name": "Kawaii Dake ja Dame?",
+      "file": "missing/K/238115-kawaii-dake-ja-dame.json"
+    },
+    {
       "igdb_id": 120089,
       "game_name": "Kawaii Deathu Desu",
       "file": "missing/K/120089-kawaii-deathu-desu.json"
@@ -613617,6 +613757,11 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
+    },
+    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -615460,6 +615605,11 @@
       "igdb_id": 143441,
       "game_name": "King's Cup",
       "file": "missing/K/143441-kings-cup.json"
+    },
+    {
+      "igdb_id": 238125,
+      "game_name": "King's Descent",
+      "file": "missing/K/238125-kings-descent.json"
     },
     {
       "igdb_id": 381146,
@@ -618570,6 +618720,11 @@
       "igdb_id": 125276,
       "game_name": "Kissed by the Baddest Bidder",
       "file": "missing/K/125276-kissed-by-the-baddest-bidder.json"
+    },
+    {
+      "igdb_id": 238150,
+      "game_name": "Kissed by the Baddest Bidder: Birthday Story DLC Pack",
+      "file": "missing/K/238150-kissed-by-the-baddest-bidder-birthday-story-dlc-pack.json"
     },
     {
       "igdb_id": 238343,
@@ -656880,6 +657035,11 @@
       "igdb_id": 169403,
       "game_name": "Live Empire",
       "file": "missing/L/169403-live-empire.json"
+    },
+    {
+      "igdb_id": 238119,
+      "game_name": "Live Factory",
+      "file": "missing/L/238119-live-factory.json"
     },
     {
       "igdb_id": 9492,
@@ -697250,6 +697410,11 @@
       "igdb_id": 336992,
       "game_name": "Match Marbles 6",
       "file": "missing/M/336992-match-marbles-6.json"
+    },
+    {
+      "igdb_id": 238152,
+      "game_name": "Match Master",
+      "file": "missing/M/238152-match-master.json"
     },
     {
       "igdb_id": 148969,
@@ -752807,6 +752972,11 @@
       "file": "missing/M/182158-moving-in.json"
     },
     {
+      "igdb_id": 238131,
+      "game_name": "Moving In",
+      "file": "missing/M/238131-moving-in.json"
+    },
+    {
       "igdb_id": 157512,
       "game_name": "Moving Letters",
       "file": "missing/M/157512-moving-letters.json"
@@ -767695,6 +767865,11 @@
       "igdb_id": 146858,
       "game_name": "Mystery Museum",
       "file": "missing/M/146858-mystery-museum.json"
+    },
+    {
+      "igdb_id": 238116,
+      "game_name": "Mystery no Tobira: Nazotoki no Jikan 2",
+      "file": "missing/M/238116-mystery-no-tobira-nazotoki-no-jikan-2.json"
     },
     {
       "igdb_id": 152025,
@@ -808202,6 +808377,11 @@
       "file": "missing/O/112052-offroad-heat.json"
     },
     {
+      "igdb_id": 238135,
+      "game_name": "Offroad Jeep 4x4: Car Driving Simulator",
+      "file": "missing/O/238135-offroad-jeep-4x4-car-driving-simulator.json"
+    },
+    {
       "igdb_id": 304329,
       "game_name": "Offroad Jeep Driving",
       "file": "missing/O/304329-offroad-jeep-driving.json"
@@ -823442,6 +823622,11 @@
       "file": "missing/O/38382-osu-karate-bu.json"
     },
     {
+      "igdb_id": 238105,
+      "game_name": "Osu!Droid",
+      "file": "missing/O/238105-osu-droid.json"
+    },
+    {
       "igdb_id": 412517,
       "game_name": "Osu!Lazer",
       "file": "missing/O/412517-osu-lazer.json"
@@ -824245,6 +824430,11 @@
       "igdb_id": 411387,
       "game_name": "Otonari no Tenshi-sama ni itsu no ma ni ka Dame Ningen ni Sareteita ken: Memorial Vacation",
       "file": "missing/O/411387-otonari-no-tenshi-sama-ni-itsu-no-ma-ni-ka-dame-ningen-ni-sareteita-ken-memorial-vacation.json"
+    },
+    {
+      "igdb_id": 238111,
+      "game_name": "Otonari-san",
+      "file": "missing/O/238111-otonari-san.json"
     },
     {
       "igdb_id": 239595,
@@ -841317,6 +841507,11 @@
       "file": "missing/P/280071-party-party-time-royal-pack-set.json"
     },
     {
+      "igdb_id": 238106,
+      "game_name": "Party Party Time + Special Packs",
+      "file": "missing/P/238106-party-party-time-special-packs.json"
+    },
+    {
       "igdb_id": 260684,
       "game_name": "Party Party Time + Ultra Pack Set",
       "file": "missing/P/260684-party-party-time-ultra-pack-set.json"
@@ -841370,6 +841565,16 @@
       "igdb_id": 259855,
       "game_name": "Party Party Time: Happy Happy Pack",
       "file": "missing/P/259855-party-party-time-happy-happy-pack.json"
+    },
+    {
+      "igdb_id": 238134,
+      "game_name": "Party Party Time: Party Fever Pack",
+      "file": "missing/P/238134-party-party-time-party-fever-pack.json"
+    },
+    {
+      "igdb_id": 238140,
+      "game_name": "Party Party Time: Party Harder & Party Fever Pack",
+      "file": "missing/P/238140-party-party-time-party-harder-and-party-fever-pack.json"
     },
     {
       "igdb_id": 233000,
@@ -875667,6 +875872,11 @@
       "file": "missing/P/329177-pogo-epoch-impossible-99.json"
     },
     {
+      "igdb_id": 238133,
+      "game_name": "Pogo Girlfriend",
+      "file": "missing/P/238133-pogo-girlfriend.json"
+    },
+    {
       "igdb_id": 21401,
       "game_name": "Pogo Island",
       "file": "missing/P/21401-pogo-island.json"
@@ -882185,6 +882395,11 @@
       "igdb_id": 243859,
       "game_name": "Poly Jigsaw: Butterflies",
       "file": "missing/P/243859-poly-jigsaw-butterflies.json"
+    },
+    {
+      "igdb_id": 238132,
+      "game_name": "Poly Jigsaw: Cats",
+      "file": "missing/P/238132-poly-jigsaw-cats.json"
     },
     {
       "igdb_id": 246798,
@@ -978487,6 +978702,11 @@
       "file": "missing/S/201143-salad-bar-tycoon-extended-edition.json"
     },
     {
+      "igdb_id": 238107,
+      "game_name": "Salad Bar Tycoon: Premium Edition",
+      "file": "missing/S/238107-salad-bar-tycoon-premium-edition.json"
+    },
+    {
       "igdb_id": 122820,
       "game_name": "Salad Fields",
       "file": "missing/S/122820-salad-fields.json"
@@ -982175,6 +982395,11 @@
       "igdb_id": 190133,
       "game_name": "Santa Protects the Christmas Tree",
       "file": "missing/S/190133-santa-protects-the-christmas-tree.json"
+    },
+    {
+      "igdb_id": 238128,
+      "game_name": "Santa Punishes",
+      "file": "missing/S/238128-santa-punishes.json"
     },
     {
       "igdb_id": 85817,
@@ -1007600,6 +1007825,11 @@
       "igdb_id": 239493,
       "game_name": "She Wants Me Dead: Extended Edition",
       "file": "missing/S/239493-she-wants-me-dead-extended-edition.json"
+    },
+    {
+      "igdb_id": 237768,
+      "game_name": "She Wants Me Dead: Ultimate Edition",
+      "file": "missing/S/237768-she-wants-me-dead-ultimate-edition.json"
     },
     {
       "igdb_id": 254324,
@@ -1076292,6 +1076522,11 @@
       "file": "missing/S/219264-stack-tower.json"
     },
     {
+      "igdb_id": 238110,
+      "game_name": "Stack Tower",
+      "file": "missing/S/238110-stack-tower.json"
+    },
+    {
       "igdb_id": 133132,
       "game_name": "Stack Up (or dive trying)",
       "file": "missing/S/133132-stack-up-or-dive-trying.json"
@@ -1100982,6 +1101217,11 @@
       "file": "missing/S/124563-suchawira-world-traveler.json"
     },
     {
+      "igdb_id": 237770,
+      "game_name": "Suchie-Pai Adventure: Doki Doki Nightmare - Saturn Tribute",
+      "file": "missing/S/237770-suchie-pai-adventure-doki-doki-nightmare-saturn-tribute.json"
+    },
+    {
       "igdb_id": 92137,
       "game_name": "Suchie-Pai Adventure: Doki-doki Nightmare",
       "file": "missing/S/92137-suchie-pai-adventure-doki-doki-nightmare.json"
@@ -1123747,6 +1123987,11 @@
       "file": "missing/S/298874-sushi-bar.json"
     },
     {
+      "igdb_id": 238126,
+      "game_name": "Sushi Bar Express",
+      "file": "missing/S/238126-sushi-bar-express.json"
+    },
+    {
       "igdb_id": 54416,
       "game_name": "Sushi Bar Express",
       "file": "missing/S/54416-sushi-bar-express.json"
@@ -1139677,6 +1139922,11 @@
       "file": "missing/T/12342-tank-command.json"
     },
     {
+      "igdb_id": 238127,
+      "game_name": "Tank Commander",
+      "file": "missing/T/238127-tank-commander.json"
+    },
+    {
       "igdb_id": 79073,
       "game_name": "Tank Commander",
       "file": "missing/T/79073-tank-commander.json"
@@ -1154412,6 +1154662,11 @@
       "file": "missing/T/233001-thats-a-cow-eggshell.json"
     },
     {
+      "igdb_id": 238113,
+      "game_name": "That's a Cow: Extended Edition",
+      "file": "missing/T/238113-thats-a-cow-extended-edition.json"
+    },
+    {
       "igdb_id": 250364,
       "game_name": "That's a Cow: Premium Edition",
       "file": "missing/T/250364-thats-a-cow-premium-edition.json"
@@ -1157645,6 +1157900,11 @@
       "igdb_id": 66153,
       "game_name": "The Asylum: Psychiatric Clinic for Abused Cuddly Toys",
       "file": "missing/T/66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json"
+    },
+    {
+      "igdb_id": 238109,
+      "game_name": "The Atla Archives",
+      "file": "missing/T/238109-the-atla-archives.json"
     },
     {
       "igdb_id": 189349,
