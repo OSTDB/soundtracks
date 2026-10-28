@@ -1502,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
 | Capsule Servant | 121441 | [121441-capsule-servant.json](./121441-capsule-servant.json) |
 | Capsule Silence XXIV | 58737 | [58737-capsule-silence-xxiv.json](./58737-capsule-silence-xxiv.json) |
+| CapsuleMan | 274296 | [274296-capsuleman.json](./274296-capsuleman.json) |
 | CapsuleToy | 232586 | [232586-capsuletoy.json](./232586-capsuletoy.json) |
 | Capsulitas | 390201 | [390201-capsulitas.json](./390201-capsulitas.json) |
 | Capt Crabs a Slimy Adventure | 249821 | [249821-capt-crabs-a-slimy-adventure.json](./249821-capt-crabs-a-slimy-adventure.json) |
@@ -5310,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing Birds | 177880 | [177880-chasing-birds.json](./177880-chasing-birds.json) |
 | Chasing Bottaflies | 286567 | [286567-chasing-bottaflies.json](./286567-chasing-bottaflies.json) |
 | Chasing Car Speed Drifting | 106473 | [106473-chasing-car-speed-drifting.json](./106473-chasing-car-speed-drifting.json) |
+| Chasing Chickens | 274315 | [274315-chasing-chickens.json](./274315-chasing-chickens.json) |
 | Chasing Dead | 21676 | [21676-chasing-dead.json](./21676-chasing-dead.json) |
 | Chasing Demons | 150553 | [150553-chasing-demons.json](./150553-chasing-demons.json) |
 | Chasing Halo | 207684 | [207684-chasing-halo.json](./207684-chasing-halo.json) |
@@ -9463,6 +9465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Geass: Hangyaku no Lelouch | 80230 | [80230-code-geass-hangyaku-no-lelouch.json](./80230-code-geass-hangyaku-no-lelouch.json) |
 | Code Geass: Lelouch of the Rebellion - Lost Colors | 66411 | [66411-code-geass-lelouch-of-the-rebellion-lost-colors.json](./66411-code-geass-lelouch-of-the-rebellion-lost-colors.json) |
 | Code Geass: Lelouch of the Rebellion R2 Banjou no Geass Gekijou | 80162 | [80162-code-geass-lelouch-of-the-rebellion-r2-banjou-no-geass-gekijou.json](./80162-code-geass-lelouch-of-the-rebellion-r2-banjou-no-geass-gekijou.json) |
+| Code Has Price | 274309 | [274309-code-has-price.json](./274309-code-has-price.json) |
 | Code Lyoko RDT | 346460 | [346460-code-lyoko-rdt.json](./346460-code-lyoko-rdt.json) |
 | Code Lyoko: Carthage Explorer | 128207 | [128207-code-lyoko-carthage-explorer.json](./128207-code-lyoko-carthage-explorer.json) |
 | Code Lyoko: Fall of X.A.N.A. | 8454 | [8454-code-lyoko-fall-of-x-a-n-a.json](./8454-code-lyoko-fall-of-x-a-n-a.json) |
@@ -13747,6 +13750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crankventure Capitalist | 314494 | [314494-crankventure-capitalist.json](./314494-crankventure-capitalist.json) |
 | Cranky Bird | 207285 | [207285-cranky-bird.json](./207285-cranky-bird.json) |
 | Cranky Cat | 16514 | [16514-cranky-cat.json](./16514-cranky-cat.json) |
+| Cranky Chibi Cthulhu | 274311 | [274311-cranky-chibi-cthulhu.json](./274311-cranky-chibi-cthulhu.json) |
 | Cranky Counter (Don't Play This Game!) | 281342 | [281342-cranky-counter-dont-play-this-game.json](./281342-cranky-counter-dont-play-this-game.json) |
 | Cranky Crabs | 397422 | [397422-cranky-crabs.json](./397422-cranky-crabs.json) |
 | Cranky Driller | 257808 | [257808-cranky-driller.json](./257808-cranky-driller.json) |
