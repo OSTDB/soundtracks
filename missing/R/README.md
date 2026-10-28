@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radirgy Noa Massive | 7152 | [7152-radirgy-noa-massive.json](./7152-radirgy-noa-massive.json) |
 | Radirgy Noa Wii | 254476 | [254476-radirgy-noa-wii.json](./254476-radirgy-noa-wii.json) |
 | Radish | 122180 | [122180-radish.json](./122180-radish.json) |
+| Radish Field | 277699 | [277699-radish-field.json](./277699-radish-field.json) |
 | Radish Kid Ascension | 180824 | [180824-radish-kid-ascension.json](./180824-radish-kid-ascension.json) |
 | Radium | 209320 | [209320-radium.json](./209320-radium.json) |
 | Radium | 35607 | [35607-radium.json](./35607-radium.json) |
