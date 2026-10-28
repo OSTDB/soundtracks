@@ -2739,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel's Avengers: Marvel's Ant-Man Pack | 138034 | [138034-lego-marvels-avengers-marvels-ant-man-pack.json](./138034-lego-marvels-avengers-marvels-ant-man-pack.json) |
 | LEGO Marvel's Avengers: Marvel's Captain America - Civil War Character Pack | 168780 | [168780-lego-marvels-avengers-marvels-captain-america-civil-war-character-pack.json](./168780-lego-marvels-avengers-marvels-captain-america-civil-war-character-pack.json) |
 | LEGO Marvel's Avengers: Spider-Man Character Pack | 168779 | [168779-lego-marvels-avengers-spider-man-character-pack.json](./168779-lego-marvels-avengers-spider-man-character-pack.json) |
+| LEGO Marvel's Avengers: The Avengers Adventurer Character Pack | 265464 | [265464-lego-marvels-avengers-the-avengers-adventurer-character-pack.json](./265464-lego-marvels-avengers-the-avengers-adventurer-character-pack.json) |
 | LEGO Masterpiece Collection | 142953 | [142953-lego-masterpiece-collection.json](./142953-lego-masterpiece-collection.json) |
 | Lego Merlok 2.0 Version 4.0.0 | 345593 | [345593-lego-merlok-2-0-version-4-0-0.json](./345593-lego-merlok-2-0-version-4-0-0.json) |
 | LEGO Minifigures Online | 17874 | [17874-lego-minifigures-online.json](./17874-lego-minifigures-online.json) |
@@ -3889,6 +3890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Tabayama | 344557 | [344557-life-of-tabayama.json](./344557-life-of-tabayama.json) |
 | Life of Thife | 277125 | [277125-life-of-thife.json](./277125-life-of-thife.json) |
 | Life on a Pizza | 164880 | [164880-life-on-a-pizza.json](./164880-life-on-a-pizza.json) |
+| Life on Mars: Genesis | 265456 | [265456-life-on-mars-genesis.json](./265456-life-on-mars-genesis.json) |
 | Life on Mars? | 59700 | [59700-life-on-mars.json](./59700-life-on-mars.json) |
 | Life on the Earth | 175677 | [175677-life-on-the-earth.json](./175677-life-on-the-earth.json) |
 | Life One | 114867 | [114867-life-one.json](./114867-life-one.json) |
@@ -4462,6 +4464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal | 344277 | [344277-liminal.json](./344277-liminal.json) |
 | Liminal 98 | 407790 | [407790-liminal-98.json](./407790-liminal-98.json) |
 | Liminal Aero | 399213 | [399213-liminal-aero.json](./399213-liminal-aero.json) |
+| Liminal Border Part I | 265813 | [265813-liminal-border-part-i.json](./265813-liminal-border-part-i.json) |
 | Liminal Border Part II | 285128 | [285128-liminal-border-part-ii.json](./285128-liminal-border-part-ii.json) |
 | Liminal Border Part III | 315044 | [315044-liminal-border-part-iii.json](./315044-liminal-border-part-iii.json) |
 | Liminal City: Axiom of Maria - Chapter One | 401804 | [401804-liminal-city-axiom-of-maria-chapter-one.json](./401804-liminal-city-axiom-of-maria-chapter-one.json) |
@@ -5163,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Maddie Dear | 278882 | [278882-little-maddie-dear.json](./278882-little-maddie-dear.json) |
 | Little Mage | 116355 | [116355-little-mage.json](./116355-little-mage.json) |
 | Little Mage Adventure | 224112 | [224112-little-mage-adventure.json](./224112-little-mage-adventure.json) |
+| Little Mages | 265462 | [265462-little-mages.json](./265462-little-mages.json) |
 | Little Magic | 267646 | [267646-little-magic.json](./267646-little-magic.json) |
 | Little Magic | 38383 | [38383-little-magic.json](./38383-little-magic.json) |
 | Little Magic | 81331 | [81331-little-magic.json](./81331-little-magic.json) |
@@ -6797,6 +6801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Castle 2 | 263225 | [263225-lost-castle-2.json](./263225-lost-castle-2.json) |
 | Lost Castle: The Old Ones Awaken | 168060 | [168060-lost-castle-the-old-ones-awaken.json](./168060-lost-castle-the-old-ones-awaken.json) |
 | Lost Cat | 276574 | [276574-lost-cat.json](./276574-lost-cat.json) |
+| Lost Cats | 265797 | [265797-lost-cats.json](./265797-lost-cats.json) |
 | Lost Cause | 300766 | [300766-lost-cause.json](./300766-lost-cause.json) |
 | Lost Cave | 112758 | [112758-lost-cave.json](./112758-lost-cave.json) |
 | Lost Chakras | 305821 | [305821-lost-chakras.json](./305821-lost-chakras.json) |
