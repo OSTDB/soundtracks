@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcoleptic Strata | 360907 | [360907-narcoleptic-strata.json](./360907-narcoleptic-strata.json) |
 | Narcos | 92686 | [92686-narcos.json](./92686-narcos.json) |
 | Narcos: Cartel Wars Unlimited | 233535 | [233535-narcos-cartel-wars-unlimited.json](./233535-narcos-cartel-wars-unlimited.json) |
+| Narcos: Idle Cartel | 250560 | [250560-narcos-idle-cartel.json](./250560-narcos-idle-cartel.json) |
 | Narcos: Rise of the Cartels | 112409 | [112409-narcos-rise-of-the-cartels.json](./112409-narcos-rise-of-the-cartels.json) |
 | Narcosis | 19168 | [19168-narcosis.json](./19168-narcosis.json) |
 | Narcotics Ninja | 198554 | [198554-narcotics-ninja.json](./198554-narcotics-ninja.json) |
@@ -794,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nationwide Academic Check Junior High Level | 399663 | [399663-nationwide-academic-check-junior-high-level.json](./399663-nationwide-academic-check-junior-high-level.json) |
 | NationZero | 422650 | [422650-nationzero.json](./422650-nationzero.json) |
 | Native | 270274 | [270274-native.json](./270274-native.json) |
+| Natives | 250753 | [250753-natives.json](./250753-natives.json) |
 | NATO Commander | 24988 | [24988-nato-commander.json](./24988-nato-commander.json) |
 | Nato defense | 40991 | [40991-nato-defense.json](./40991-nato-defense.json) |
 | Natsu Ecchi 2: Futago to Inaka no Natsuyasumi | 109001 | [109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json](./109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json) |
@@ -1441,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromancer's Army | 405706 | [405706-necromancers-army.json](./405706-necromancers-army.json) |
 | Necromancer's Gift | 173317 | [173317-necromancers-gift.json](./173317-necromancers-gift.json) |
 | Necromancer's Revenge | 301880 | [301880-necromancers-revenge.json](./301880-necromancers-revenge.json) |
+| Necromancers' Arena | 249008 | [249008-necromancers-arena.json](./249008-necromancers-arena.json) |
 | Necromancia | 302197 | [302197-necromancia.json](./302197-necromancia.json) |
 | Necromania: Trap of Darkness | 68965 | [68965-necromania-trap-of-darkness.json](./68965-necromania-trap-of-darkness.json) |
 | Necromanicide | 271734 | [271734-necromanicide.json](./271734-necromanicide.json) |
@@ -4932,6 +4935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Fuel Odyssey | 178983 | [178983-no-fuel-odyssey.json](./178983-no-fuel-odyssey.json) |
 | No Gasoline | 291527 | [291527-no-gasoline.json](./291527-no-gasoline.json) |
 | No Ghost in Circus Caravan | 311999 | [311999-no-ghost-in-circus-caravan.json](./311999-no-ghost-in-circus-caravan.json) |
+| No Ghost in Sky Elevator | 249011 | [249011-no-ghost-in-sky-elevator.json](./249011-no-ghost-in-sky-elevator.json) |
 | No Ghost in Stay Home | 152778 | [152778-no-ghost-in-stay-home.json](./152778-no-ghost-in-stay-home.json) |
 | No Give up | 316675 | [316675-no-give-up.json](./316675-no-give-up.json) |
 | No Gods of Men | 346764 | [346764-no-gods-of-men.json](./346764-no-gods-of-men.json) |
@@ -4960,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No King No Kingdom VR | 110684 | [110684-no-king-no-kingdom-vr.json](./110684-no-king-no-kingdom-vr.json) |
 | No Kings Tiny Defenders | 376455 | [376455-no-kings-tiny-defenders.json](./376455-no-kings-tiny-defenders.json) |
 | No Law | 381205 | [381205-no-law.json](./381205-no-law.json) |
+| No Legs? No Problem! | 249374 | [249374-no-legs-no-problem.json](./249374-no-legs-no-problem.json) |
 | No Life: Zombie Survivor | 293872 | [293872-no-life-zombie-survivor.json](./293872-no-life-zombie-survivor.json) |
 | No Light | 150684 | [150684-no-light.json](./150684-no-light.json) |
 | No Light | 155932 | [155932-no-light.json](./155932-no-light.json) |
