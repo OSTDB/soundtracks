@@ -4928,6 +4928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Wrestling | 13827 | [13827-championship-wrestling.json](./13827-championship-wrestling.json) |
 | Championship Wrestling Promoter | 199124 | [199124-championship-wrestling-promoter.json](./199124-championship-wrestling-promoter.json) |
 | ChampionsTCG | 273920 | [273920-championstcg.json](./273920-championstcg.json) |
+| Champiyon Pinball | 269929 | [269929-champiyon-pinball.json](./269929-champiyon-pinball.json) |
 | Champoo Club | 172200 | [172200-champoo-club.json](./172200-champoo-club.json) |
 | Champs TD | 210862 | [210862-champs-td.json](./210862-champs-td.json) |
 | Champs: Battlegrounds | 20117 | [20117-champs-battlegrounds.json](./20117-champs-battlegrounds.json) |
@@ -12308,6 +12309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coolmath Games: The Game | 234707 | [234707-coolmath-games-the-game.json](./234707-coolmath-games-the-game.json) |
 | Coolors | 161696 | [161696-coolors.json](./161696-coolors.json) |
 | CoolPaintr VR | 104022 | [104022-coolpaintr-vr.json](./104022-coolpaintr-vr.json) |
+| CoolPaintr VR: Deluxe Edition | 269945 | [269945-coolpaintr-vr-deluxe-edition.json](./269945-coolpaintr-vr-deluxe-edition.json) |
 | CoolPaintr VR: Voxel | 270143 | [270143-coolpaintr-vr-voxel.json](./270143-coolpaintr-vr-voxel.json) |
 | CoolPaintrVR | 99771 | [99771-coolpaintrvr.json](./99771-coolpaintrvr.json) |
 | Coolson’s Chocolate Alphabet | 266835 | [266835-coolson-s-chocolate-alphabet.json](./266835-coolson-s-chocolate-alphabet.json) |
@@ -13806,6 +13808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash & Spyro Super Pack Volume 3 | 68345 | [68345-crash-and-spyro-super-pack-volume-3.json](./68345-crash-and-spyro-super-pack-volume-3.json) |
 | Crash & Spyro Superpack I Crash Bandicoot: The Huge Adventure / Spyro: Season of Ice | 210236 | [210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json](./210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json) |
 | Crash + Spyro Triple Play Bundle | 218970 | [218970-crash-spyro-triple-play-bundle.json](./218970-crash-spyro-triple-play-bundle.json) |
+| Crash Advance IV | 269950 | [269950-crash-advance-iv.json](./269950-crash-advance-iv.json) |
 | Crash and Run | 238481 | [238481-crash-and-run.json](./238481-crash-and-run.json) |
 | Crash Bandicoot | 135449 | [135449-crash-bandicoot.json](./135449-crash-bandicoot.json) |
 | Crash Bandicoot | 210243 | [210243-crash-bandicoot.json](./210243-crash-bandicoot.json) |
