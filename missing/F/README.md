@@ -3272,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feelings | 217215 | [217215-feelings.json](./217215-feelings.json) |
 | Feelings Adrift | 33959 | [33959-feelings-adrift.json](./33959-feelings-adrift.json) |
 | FeeSoeeD | 51556 | [51556-feesoeed.json](./51556-feesoeed.json) |
+| Feet in the Snow | 234797 | [234797-feet-in-the-snow.json](./234797-feet-in-the-snow.json) |
 | Feet Paradise | 301885 | [301885-feet-paradise.json](./301885-feet-paradise.json) |
 | Feet Sweeper | 244495 | [244495-feet-sweeper.json](./244495-feet-sweeper.json) |
 | Feevo HD | 232546 | [232546-feevo-hd.json](./232546-feevo-hd.json) |
