@@ -4509,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlanders: Life of Yolotli | 260033 | [260033-outlanders-life-of-yolotli.json](./260033-outlanders-life-of-yolotli.json) |
 | Outlanders: The Keeper's Shanty | 298174 | [298174-outlanders-the-keepers-shanty.json](./298174-outlanders-the-keepers-shanty.json) |
 | Outlandia | 192747 | [192747-outlandia.json](./192747-outlandia.json) |
+| Outlands | 277984 | [277984-outlands.json](./277984-outlands.json) |
 | Outlands | 69495 | [69495-outlands.json](./69495-outlands.json) |
 | Outlands Safehouse | 405475 | [405475-outlands-safehouse.json](./405475-outlands-safehouse.json) |
 | Outlast: Bundle of Terror | 82441 | [82441-outlast-bundle-of-terror.json](./82441-outlast-bundle-of-terror.json) |
