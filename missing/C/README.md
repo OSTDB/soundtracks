@@ -1395,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Arcade Stadium: Ghosts 'n Goblins | 173796 | [173796-capcom-arcade-stadium-ghosts-n-goblins.json](./173796-capcom-arcade-stadium-ghosts-n-goblins.json) |
 | Capcom Arcade Stadium: Mega Twins | 150656 | [150656-capcom-arcade-stadium-mega-twins.json](./150656-capcom-arcade-stadium-mega-twins.json) |
 | Capcom Arcade Stadium: Powered Gear - Strategic Variant Armor Equipment | 234309 | [234309-capcom-arcade-stadium-powered-gear-strategic-variant-armor-equipment.json](./234309-capcom-arcade-stadium-powered-gear-strategic-variant-armor-equipment.json) |
+| Capcom Arcade Stadium: Progear | 234248 | [234248-capcom-arcade-stadium-progear.json](./234248-capcom-arcade-stadium-progear.json) |
 | Capcom Arcade Stadium: Tatakai no Banka | 150655 | [150655-capcom-arcade-stadium-tatakai-no-banka.json](./150655-capcom-arcade-stadium-tatakai-no-banka.json) |
 | Capcom baseball | 40129 | [40129-capcom-baseball.json](./40129-capcom-baseball.json) |
 | Capcom Beat 'Em Up Bundle | 109456 | [109456-capcom-beat-em-up-bundle.json](./109456-capcom-beat-em-up-bundle.json) |
@@ -9285,6 +9286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Sports Collection: Superior Edition | 413576 | [413576-club-sports-collection-superior-edition.json](./413576-club-sports-collection-superior-edition.json) |
 | Club Suicide | 196493 | [196493-club-suicide.json](./196493-club-suicide.json) |
 | Club Vanentine | 228689 | [228689-club-vanentine.json](./228689-club-vanentine.json) |
+| Clubby the Seal | 234289 | [234289-clubby-the-seal.json](./234289-clubby-the-seal.json) |
 | Clubhouse Games | 18597 | [18597-clubhouse-games.json](./18597-clubhouse-games.json) |
 | Clubhouse Games Express: Card Classics | 70418 | [70418-clubhouse-games-express-card-classics.json](./70418-clubhouse-games-express-card-classics.json) |
 | Clubhouse Games Express: Family Favorites | 67714 | [67714-clubhouse-games-express-family-favorites.json](./67714-clubhouse-games-express-family-favorites.json) |
