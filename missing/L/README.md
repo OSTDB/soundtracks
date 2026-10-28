@@ -2312,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Success Joe | 47580 | [47580-legend-of-success-joe.json](./47580-legend-of-success-joe.json) |
 | Legend of Sunflower | 180669 | [180669-legend-of-sunflower.json](./180669-legend-of-sunflower.json) |
 | Legend of Taigong | 254647 | [254647-legend-of-taigong.json](./254647-legend-of-taigong.json) |
+| Legend of Talisman | 237601 | [237601-legend-of-talisman.json](./237601-legend-of-talisman.json) |
 | Legend of the Amazon Women | 13800 | [13800-legend-of-the-amazon-women.json](./13800-legend-of-the-amazon-women.json) |
 | Legend of the Ancient Dragon | 73249 | [73249-legend-of-the-ancient-dragon.json](./73249-legend-of-the-ancient-dragon.json) |
 | Legend of the Ancient Sword | 55818 | [55818-legend-of-the-ancient-sword.json](./55818-legend-of-the-ancient-sword.json) |
@@ -2726,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Harry Potter Collection | 315367 | [315367-lego-harry-potter-collection.json](./315367-lego-harry-potter-collection.json) |
 | Lego Harry Potter Years 5-7: Character pack | 255376 | [255376-lego-harry-potter-years-5-7-character-pack.json](./255376-lego-harry-potter-years-5-7-character-pack.json) |
 | LEGO Harry Potter: The Battle for Hogwarts | 242439 | [242439-lego-harry-potter-the-battle-for-hogwarts.json](./242439-lego-harry-potter-the-battle-for-hogwarts.json) |
+| LEGO Harry Potter: Years 1-4 | 237596 | [237596-lego-harry-potter-years-1-4.json](./237596-lego-harry-potter-years-1-4.json) |
 | LEGO Harry Potter: Years 1-4 | 3149 | [3149-lego-harry-potter-years-1-4.json](./3149-lego-harry-potter-years-1-4.json) |
 | Lego Harry Potter: Years 5-7 Spell pack | 254891 | [254891-lego-harry-potter-years-5-7-spell-pack.json](./254891-lego-harry-potter-years-5-7-spell-pack.json) |
 | LEGO Hero Factory: Brain Attack | 193329 | [193329-lego-hero-factory-brain-attack.json](./193329-lego-hero-factory-brain-attack.json) |
@@ -4320,6 +4322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like a Dragon: Infinite Wealth - Ultimate Edition | 284866 | [284866-like-a-dragon-infinite-wealth-ultimate-edition.json](./284866-like-a-dragon-infinite-wealth-ultimate-edition.json) |
 | Like a Dragon: Infinite Wealth - Yakuza CD Collection Set | 288218 | [288218-like-a-dragon-infinite-wealth-yakuza-cd-collection-set.json](./288218-like-a-dragon-infinite-wealth-yakuza-cd-collection-set.json) |
 | Like a Dragon: Infinite Wealth Special Trial Version | 319033 | [319033-like-a-dragon-infinite-wealth-special-trial-version.json](./319033-like-a-dragon-infinite-wealth-special-trial-version.json) |
+| Like a Dragon: Ishin! - Digital Deluxe Edition | 237573 | [237573-like-a-dragon-ishin-digital-deluxe-edition.json](./237573-like-a-dragon-ishin-digital-deluxe-edition.json) |
 | Like a Dragon: Ishin! - Gun Upgrade Materials Kit | 239215 | [239215-like-a-dragon-ishin-gun-upgrade-materials-kit.json](./239215-like-a-dragon-ishin-gun-upgrade-materials-kit.json) |
 | Like a Dragon: Ishin! - Ryoma Growth Support | 247390 | [247390-like-a-dragon-ishin-ryoma-growth-support.json](./247390-like-a-dragon-ishin-ryoma-growth-support.json) |
 | Like a Dragon: Ishin! - Shinsengumi Captain's Set | 239212 | [239212-like-a-dragon-ishin-shinsengumi-captains-set.json](./239212-like-a-dragon-ishin-shinsengumi-captains-set.json) |
@@ -6895,6 +6898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Colony | 250422 | [250422-lost-colony.json](./250422-lost-colony.json) |
 | Lost Color | 258110 | [258110-lost-color.json](./258110-lost-color.json) |
 | Lost Colors | 112520 | [112520-lost-colors.json](./112520-lost-colors.json) |
+| Lost Colors: World of Secrets | 237599 | [237599-lost-colors-world-of-secrets.json](./237599-lost-colors-world-of-secrets.json) |
 | Lost Connection | 378392 | [378392-lost-connection.json](./378392-lost-connection.json) |
 | Lost Connections | 254371 | [254371-lost-connections.json](./254371-lost-connections.json) |
 | Lost Continent | 191553 | [191553-lost-continent.json](./191553-lost-continent.json) |
@@ -7504,6 +7508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Engine | 29956 | [29956-love-engine.json](./29956-love-engine.json) |
 | Love Escalator | 228633 | [228633-love-escalator.json](./228633-love-escalator.json) |
 | Love Eternal | 305358 | [305358-love-eternal.json](./305358-love-eternal.json) |
+| Love Exalt 8372 | 237566 | [237566-love-exalt-8372.json](./237566-love-exalt-8372.json) |
 | Love Fantasy | 164064 | [164064-love-fantasy.json](./164064-love-fantasy.json) |
 | Love Fashion and Friends | 70598 | [70598-love-fashion-and-friends.json](./70598-love-fashion-and-friends.json) |
 | Love FMV | 286972 | [286972-love-fmv.json](./286972-love-fmv.json) |
@@ -7692,6 +7697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love the Game | 314142 | [314142-love-the-game.json](./314142-love-the-game.json) |
 | Love the Guard, Be the King | 179686 | [179686-love-the-guard-be-the-king.json](./179686-love-the-guard-be-the-king.json) |
 | Love Thyself: A Horatio Story | 116948 | [116948-love-thyself-a-horatio-story.json](./116948-love-thyself-a-horatio-story.json) |
+| Love Too Easily | 237569 | [237569-love-too-easily.json](./237569-love-too-easily.json) |
 | Love Too Easily 2: Summer Pocha | 374563 | [374563-love-too-easily-2-summer-pocha.json](./374563-love-too-easily-2-summer-pocha.json) |
 | Love Too Easily Bundle | 400199 | [400199-love-too-easily-bundle.json](./400199-love-too-easily-bundle.json) |
 | Love Tore: Bitter | 64466 | [64466-love-tore-bitter.json](./64466-love-tore-bitter.json) |
