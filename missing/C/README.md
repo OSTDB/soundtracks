@@ -4726,6 +4726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Crusher | 124771 | [124771-chain-crusher.json](./124771-chain-crusher.json) |
 | Chain Fury | 181756 | [181756-chain-fury.json](./181756-chain-fury.json) |
 | Chain Gun | 202033 | [202033-chain-gun.json](./202033-chain-gun.json) |
+| Chain Letter | 232119 | [232119-chain-letter.json](./232119-chain-letter.json) |
 | Chain Ninja | 243577 | [243577-chain-ninja.json](./243577-chain-ninja.json) |
 | Chain of Eroticism | 163400 | [163400-chain-of-eroticism.json](./163400-chain-of-eroticism.json) |
 | Chain Quest | 200106 | [200106-chain-quest.json](./200106-chain-quest.json) |
@@ -5292,6 +5293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
 | Charlotte | 95227 | [95227-charlotte.json](./95227-charlotte.json) |
 | Charlotte: Dragon Slayer | 202727 | [202727-charlotte-dragon-slayer.json](./202727-charlotte-dragon-slayer.json) |
+| Charlotte's Table | 232109 | [232109-charlottes-table.json](./232109-charlottes-table.json) |
 | Charlotte's Web | 248748 | [248748-charlottes-web.json](./248748-charlottes-web.json) |
 | Charlotte's Web | 248749 | [248749-charlottes-web.json](./248749-charlottes-web.json) |
 | Charlotte's Web: Wilbur and Friends | 71015 | [71015-charlottes-web-wilbur-and-friends.json](./71015-charlottes-web-wilbur-and-friends.json) |
@@ -6190,6 +6192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chico Bento: Um Dia na Roça | 216294 | [216294-chico-bento-um-dia-na-roca.json](./216294-chico-bento-um-dia-na-roca.json) |
 | Chico's Delivery | 406052 | [406052-chicos-delivery.json](./406052-chicos-delivery.json) |
 | Chico's Rebound | 345050 | [345050-chicos-rebound.json](./345050-chicos-rebound.json) |
+| Chicobanana: Space Pong | 232101 | [232101-chicobanana-space-pong.json](./232101-chicobanana-space-pong.json) |
 | ChicScape | 152777 | [152777-chicscape.json](./152777-chicscape.json) |
 | Chiebura | 130585 | [130585-chiebura.json](./130585-chiebura.json) |
 | Chief Almighty | 231959 | [231959-chief-almighty.json](./231959-chief-almighty.json) |
