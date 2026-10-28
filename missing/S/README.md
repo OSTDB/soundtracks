@@ -3939,6 +3939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Service | 7183 | [7183-secret-service.json](./7183-secret-service.json) |
 | Secret Service: In Harm's Way | 73800 | [73800-secret-service-in-harms-way.json](./73800-secret-service-in-harms-way.json) |
 | Secret Service: Security Breach | 73350 | [73350-secret-service-security-breach.json](./73350-secret-service-security-breach.json) |
+| Secret Shuffle | 258058 | [258058-secret-shuffle.json](./258058-secret-shuffle.json) |
 | Secret Spy: Operation Love | 240249 | [240249-secret-spy-operation-love.json](./240249-secret-spy-operation-love.json) |
 | Secret Summer | 368096 | [368096-secret-summer.json](./368096-secret-summer.json) |
 | Secret Summoner | 236954 | [236954-secret-summoner.json](./236954-secret-summoner.json) |
@@ -4675,6 +4676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senjin Aleste | 165428 | [165428-senjin-aleste.json](./165428-senjin-aleste.json) |
 | Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
 | Senjou no Waltz for Nintendo Switch: Limited Edition | 253740 | [253740-senjou-no-waltz-for-nintendo-switch-limited-edition.json](./253740-senjou-no-waltz-for-nintendo-switch-limited-edition.json) |
+| Senju | 258055 | [258055-senju.json](./258055-senju.json) |
 | Senjyo | 40018 | [40018-senjyo.json](./40018-senjyo.json) |
 | Senkai Ibunroku Juntei Taisen | 282610 | [282610-senkai-ibunroku-juntei-taisen.json](./282610-senkai-ibunroku-juntei-taisen.json) |
 | Senkai Livin' | 392345 | [392345-senkai-livin.json](./392345-senkai-livin.json) |
@@ -6018,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Dunwich | 293751 | [293751-shadows-of-dunwich.json](./293751-shadows-of-dunwich.json) |
 | Shadows of Eldham | 302086 | [302086-shadows-of-eldham.json](./302086-shadows-of-eldham.json) |
 | Shadows of Empires | 227268 | [227268-shadows-of-empires.json](./227268-shadows-of-empires.json) |
+| Shadows of Fate | 258051 | [258051-shadows-of-fate.json](./258051-shadows-of-fate.json) |
 | Shadows of Forbidden Gods | 180249 | [180249-shadows-of-forbidden-gods.json](./180249-shadows-of-forbidden-gods.json) |
 | Shadows of Forbidden Gods: The Horrors Beneath | 290783 | [290783-shadows-of-forbidden-gods-the-horrors-beneath.json](./290783-shadows-of-forbidden-gods-the-horrors-beneath.json) |
 | Shadows of Her Past | 86648 | [86648-shadows-of-her-past.json](./86648-shadows-of-her-past.json) |
@@ -14569,6 +14572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son of Blagger | 47238 | [47238-son-of-blagger.json](./47238-son-of-blagger.json) |
 | Son of Nor | 16848 | [16848-son-of-nor.json](./16848-son-of-nor.json) |
 | Son of Perun Kharkiv | 264626 | [264626-son-of-perun-kharkiv.json](./264626-son-of-perun-kharkiv.json) |
+| Son of Sparta | 258077 | [258077-son-of-sparta.json](./258077-son-of-sparta.json) |
 | Son of the Dragon | 264884 | [264884-son-of-the-dragon.json](./264884-son-of-the-dragon.json) |
 | Son of the Mask | 265638 | [265638-son-of-the-mask.json](./265638-son-of-the-mask.json) |
 | Son Savaşçı | 149374 | [149374-son-savasc.json](./149374-son-savasc.json) |
@@ -19216,6 +19220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spoids | 29512 | [29512-spoids.json](./29512-spoids.json) |
 | Spoiler Alert | 20097 | [20097-spoiler-alert.json](./20097-spoiler-alert.json) |
 | Spoils of Plunder | 163851 | [163851-spoils-of-plunder.json](./163851-spoils-of-plunder.json) |
+| Spoils of War | 257768 | [257768-spoils-of-war.json](./257768-spoils-of-war.json) |
 | Spoko and Poko | 35395 | [35395-spoko-and-poko.json](./35395-spoko-and-poko.json) |
 | Spolous Ex | 182920 | [182920-spolous-ex.json](./182920-spolous-ex.json) |
 | Sponchies | 68603 | [68603-sponchies.json](./68603-sponchies.json) |
@@ -25241,6 +25246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudo Cats | 221263 | [221263-sudo-cats.json](./221263-sudo-cats.json) |
 | Sudo King | 267545 | [267545-sudo-king.json](./267545-sudo-king.json) |
 | Sudo-O-Mate Junior | 263608 | [263608-sudo-o-mate-junior.json](./263608-sudo-o-mate-junior.json) |
+| Sudoban | 258067 | [258067-sudoban.json](./258067-sudoban.json) |
 | SudoBlock | 36509 | [36509-sudoblock.json](./36509-sudoblock.json) |
 | Sudocats | 193466 | [193466-sudocats.json](./193466-sudocats.json) |
 | Sudocity | 216866 | [216866-sudocity.json](./216866-sudocity.json) |
@@ -30649,6 +30655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Rogue | 150435 | [150435-sword-rogue.json](./150435-sword-rogue.json) |
 | Sword Sage: Awakening | 375869 | [375869-sword-sage-awakening.json](./375869-sword-sage-awakening.json) |
 | Sword Sanctuary | 333394 | [333394-sword-sanctuary.json](./333394-sword-sanctuary.json) |
+| Sword sand Shotguns | 258071 | [258071-sword-sand-shotguns.json](./258071-sword-sand-shotguns.json) |
 | Sword Shop | 182738 | [182738-sword-shop.json](./182738-sword-shop.json) |
 | Sword Slayer | 63789 | [63789-sword-slayer.json](./63789-sword-slayer.json) |
 | Sword Smash | 244385 | [244385-sword-smash.json](./244385-sword-smash.json) |
