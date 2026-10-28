@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Zombie | 90516 | [90516-war-of-the-zombie.json](./90516-war-of-the-zombie.json) |
 | War of Thrones | 245263 | [245263-war-of-thrones.json](./245263-war-of-thrones.json) |
 | War of Warship | 338398 | [338398-war-of-warship.json](./338398-war-of-warship.json) |
+| War of Wheels | 263091 | [263091-war-of-wheels.json](./263091-war-of-wheels.json) |
 | War of Wizards | 215666 | [215666-war-of-wizards.json](./215666-war-of-wizards.json) |
 | War of Words 2 | 232066 | [232066-war-of-words-2.json](./232066-war-of-words-2.json) |
 | War of Zanzor III: Birth of Unity | 301825 | [301825-war-of-zanzor-iii-birth-of-unity.json](./301825-war-of-zanzor-iii-birth-of-unity.json) |
@@ -2256,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waveat ReLight V2 | 362811 | [362811-waveat-relight-v2.json](./362811-waveat-relight-v2.json) |
 | Wavebreaker | 411362 | [411362-wavebreaker.json](./411362-wavebreaker.json) |
 | Wavecade | 197008 | [197008-wavecade.json](./197008-wavecade.json) |
+| Wavecade: Ships Pack | 263085 | [263085-wavecade-ships-pack.json](./263085-wavecade-ships-pack.json) |
 | Wavecrashers | 391751 | [391751-wavecrashers.json](./391751-wavecrashers.json) |
 | Waveform | 15273 | [15273-waveform.json](./15273-waveform.json) |
 | Waveform Wipeout | 105687 | [105687-waveform-wipeout.json](./105687-waveform-wipeout.json) |
@@ -3043,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Front | 72145 | [72145-west-front.json](./72145-west-front.json) |
 | West Game | 199076 | [199076-west-game.json](./199076-west-game.json) |
 | West Hunt | 145463 | [145463-west-hunt.json](./145463-west-hunt.json) |
+| West Hunt: Halloween Pack | 263086 | [263086-west-hunt-halloween-pack.json](./263086-west-hunt-halloween-pack.json) |
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
 | West Journey | 338384 | [338384-west-journey.json](./338384-west-journey.json) |
 | West Journey War | 174647 | [174647-west-journey-war.json](./174647-west-journey-war.json) |
@@ -3320,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Golf? Sporty Sports! | 135804 | [135804-what-the-golf-sporty-sports.json](./135804-what-the-golf-sporty-sports.json) |
 | What The Hack! | 351278 | [351278-what-the-hack.json](./351278-what-the-hack.json) |
 | What the Heck, Dude? | 30662 | [30662-what-the-heck-dude.json](./30662-what-the-heck-dude.json) |
+| What the Hell | 263096 | [263096-what-the-hell.json](./263096-what-the-hell.json) |
 | What the hen! | 120244 | [120244-what-the-hen.json](./120244-what-the-hen.json) |
 | What the Luck? | 382857 | [382857-what-the-luck.json](./382857-what-the-luck.json) |
 | What the Pho: restaurant startup stories | 132799 | [132799-what-the-pho-restaurant-startup-stories.json](./132799-what-the-pho-restaurant-startup-stories.json) |
@@ -4546,6 +4550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Tactics | 304746 | [304746-wild-tactics.json](./304746-wild-tactics.json) |
 | Wild Tamer: Next Age | 220061 | [220061-wild-tamer-next-age.json](./220061-wild-tamer-next-age.json) |
 | Wild Terra 2: New Lands | 126619 | [126619-wild-terra-2-new-lands.json](./126619-wild-terra-2-new-lands.json) |
+| Wild Terra 2: New Lands - Bard Pack | 263084 | [263084-wild-terra-2-new-lands-bard-pack.json](./263084-wild-terra-2-new-lands-bard-pack.json) |
 | Wild Terra 2: New Lands - Cultist Pack | 378307 | [378307-wild-terra-2-new-lands-cultist-pack.json](./378307-wild-terra-2-new-lands-cultist-pack.json) |
 | Wild Terrain | 386423 | [386423-wild-terrain.json](./386423-wild-terrain.json) |
 | Wild Thing | 382411 | [382411-wild-thing.json](./382411-wild-thing.json) |
