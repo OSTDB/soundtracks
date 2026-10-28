@@ -1163,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edibles | 159815 | [159815-edibles.json](./159815-edibles.json) |
 | Ediction | 333545 | [333545-ediction.json](./333545-ediction.json) |
 | Edifice | 406145 | [406145-edifice.json](./406145-edifice.json) |
+| Edingir Odyssey | 249004 | [249004-edingir-odyssey.json](./249004-edingir-odyssey.json) |
 | Editarrr | 270519 | [270519-editarrr.json](./270519-editarrr.json) |
 | Editor in Chief: Beginning 1 | 108594 | [108594-editor-in-chief-beginning-1.json](./108594-editor-in-chief-beginning-1.json) |
 | Editor's Hell | 221176 | [221176-editors-hell.json](./221176-editors-hell.json) |
@@ -3525,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma Express: Hidden Objects | 233629 | [233629-enigma-express-hidden-objects.json](./233629-enigma-express-hidden-objects.json) |
 | Enigma Force | 14055 | [14055-enigma-force.json](./14055-enigma-force.json) |
 | Enigma Heart | 351000 | [351000-enigma-heart.json](./351000-enigma-heart.json) |
+| Enigma Manor | 250979 | [250979-enigma-manor.json](./250979-enigma-manor.json) |
 | Enigma of Forest | 302393 | [302393-enigma-of-forest.json](./302393-enigma-of-forest.json) |
 | Enigma of Sector Sigma | 262986 | [262986-enigma-of-sector-sigma.json](./262986-enigma-of-sector-sigma.json) |
 | Enigma of Sépia | 331861 | [331861-enigma-of-sepia.json](./331861-enigma-of-sepia.json) |
@@ -4020,6 +4022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epoch Vault | 411293 | [411293-epoch-vault.json](./411293-epoch-vault.json) |
 | Epoch Wars | 64216 | [64216-epoch-wars.json](./64216-epoch-wars.json) |
 | Epoch-Man | 218322 | [218322-epoch-man.json](./218322-epoch-man.json) |
+| Epochrypha | 250746 | [250746-epochrypha.json](./250746-epochrypha.json) |
 | Epochs of Enmity | 196012 | [196012-epochs-of-enmity.json](./196012-epochs-of-enmity.json) |
 | Epochs of Fire | 333009 | [333009-epochs-of-fire.json](./333009-epochs-of-fire.json) |
 | EpochStar | 395400 | [395400-epochstar.json](./395400-epochstar.json) |
@@ -6325,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evons | 408718 | [408718-evons.json](./408718-evons.json) |
 | Evony | 77044 | [77044-evony.json](./77044-evony.json) |
 | Evony: The King's Return | 197880 | [197880-evony-the-kings-return.json](./197880-evony-the-kings-return.json) |
+| EvoPet | 250563 | [250563-evopet.json](./250563-evopet.json) |
 | Evoplasm | 309859 | [309859-evoplasm.json](./309859-evoplasm.json) |
 | Evopollution | 17313 | [17313-evopollution.json](./17313-evopollution.json) |
 | Evorales | 163020 | [163020-evorales.json](./163020-evorales.json) |
@@ -7219,6 +7223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes on Yuki | 361287 | [361287-eyes-on-yuki.json](./361287-eyes-on-yuki.json) |
 | Eyes That Hypnotise | 324878 | [324878-eyes-that-hypnotise.json](./324878-eyes-that-hypnotise.json) |
 | Eyes: Nonogram | 294542 | [294542-eyes-nonogram.json](./294542-eyes-nonogram.json) |
+| Eyeser | 249231 | [249231-eyeser.json](./249231-eyeser.json) |
 | Eyeshield 21: AmeFoot Yarouze! Ya! Ha! | 58281 | [58281-eyeshield-21-amefoot-yarouze-ya-ha.json](./58281-eyeshield-21-amefoot-yarouze-ya-ha.json) |
 | Eyeshield 21: DevilBats DevilDays | 49582 | [49582-eyeshield-21-devilbats-devildays.json](./49582-eyeshield-21-devilbats-devildays.json) |
 | Eyeshield 21: Field no Saikyou Senshi-tachi | 72994 | [72994-eyeshield-21-field-no-saikyou-senshi-tachi.json](./72994-eyeshield-21-field-no-saikyou-senshi-tachi.json) |
