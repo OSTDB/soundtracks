@@ -8985,6 +8985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Season 9 | 129871 | [129871-fortnite-season-9.json](./129871-fortnite-season-9.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
 | Fortnite: The Final Reckoning Pack | 277521 | [277521-fortnite-the-final-reckoning-pack.json](./277521-fortnite-the-final-reckoning-pack.json) |
+| Fortnite: The High Stakes Club Pack | 267769 | [267769-fortnite-the-high-stakes-club-pack.json](./267769-fortnite-the-high-stakes-club-pack.json) |
 | Fortnite: The Laguna Pack | 255541 | [255541-fortnite-the-laguna-pack.json](./255541-fortnite-the-laguna-pack.json) |
 | Fortnite: The Last Laugh Bundle | 139889 | [139889-fortnite-the-last-laugh-bundle.json](./139889-fortnite-the-last-laugh-bundle.json) |
 | Fortnite: The Wavebreaker Pack | 322257 | [322257-fortnite-the-wavebreaker-pack.json](./322257-fortnite-the-wavebreaker-pack.json) |
@@ -9917,6 +9918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free for Fall | 192970 | [192970-free-for-fall.json](./192970-free-for-fall.json) |
 | Free for Fall | 366627 | [366627-free-for-fall.json](./366627-free-for-fall.json) |
 | Free Friends | 127665 | [127665-free-friends.json](./127665-free-friends.json) |
+| Free Gear | 268080 | [268080-free-gear.json](./268080-free-gear.json) |
 | Free Heroes of Might and Magic II: Resurrection | 186606 | [186606-free-heroes-of-might-and-magic-ii-resurrection.json](./186606-free-heroes-of-might-and-magic-ii-resurrection.json) |
 | Free Hugs Inc. | 178566 | [178566-free-hugs-inc.json](./178566-free-hugs-inc.json) |
 | Free Icecream | 328404 | [328404-free-icecream.json](./328404-free-icecream.json) |
