@@ -8226,6 +8226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clam Man 2: Open Mic | 150779 | [150779-clam-man-2-open-mic.json](./150779-clam-man-2-open-mic.json) |
 | Clamb | 278553 | [278553-clamb.json](./278553-clamb.json) |
 | Clamber | 414398 | [414398-clamber.json](./414398-clamber.json) |
+| Clampship | 244413 | [244413-clampship.json](./244413-clampship.json) |
 | Clan and Crown | 402939 | [402939-clan-and-crown.json](./402939-clan-and-crown.json) |
 | Clan Duramont | 357160 | [357160-clan-duramont.json](./357160-clan-duramont.json) |
 | Clan Fantasy Adventures | 373156 | [373156-clan-fantasy-adventures.json](./373156-clan-fantasy-adventures.json) |
@@ -13389,6 +13390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Court of Darkness: Captivation's Kiss | 399622 | [399622-court-of-darkness-captivations-kiss.json](./399622-court-of-darkness-captivations-kiss.json) |
 | Court of Darkness: Temptation's Kiss | 370803 | [370803-court-of-darkness-temptations-kiss.json](./370803-court-of-darkness-temptations-kiss.json) |
 | Court Sort VR | 219745 | [219745-court-sort-vr.json](./219745-court-sort-vr.json) |
+| Court, Connect, Capture | 244282 | [244282-court-connect-capture.json](./244282-court-connect-capture.json) |
 | Courting Death | 318791 | [318791-courting-death.json](./318791-courting-death.json) |
 | Courtroom Chaos: Starring Arnold Schwarzenegger | 410347 | [410347-courtroom-chaos-starring-arnold-schwarzenegger.json](./410347-courtroom-chaos-starring-arnold-schwarzenegger.json) |
 | Courtroom Chaos: Starring Snoop Dogg | 371262 | [371262-courtroom-chaos-starring-snoop-dogg.json](./371262-courtroom-chaos-starring-snoop-dogg.json) |
@@ -16335,6 +16337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Cube 2 | 365146 | [365146-cube-cube-2.json](./365146-cube-cube-2.json) |
 | Cube Cube! | 234324 | [234324-cube-cube.json](./234324-cube-cube.json) |
 | Cube Dancer | 165364 | [165364-cube-dancer.json](./165364-cube-dancer.json) |
+| Cube de Grace | 244063 | [244063-cube-de-grace.json](./244063-cube-de-grace.json) |
 | Cube Decider | 203966 | [203966-cube-decider.json](./203966-cube-decider.json) |
 | Cube Defender 2000 | 110123 | [110123-cube-defender-2000.json](./110123-cube-defender-2000.json) |
 | Cube Defense | 113574 | [113574-cube-defense.json](./113574-cube-defense.json) |
