@@ -9819,6 +9819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do You Remember? | 422071 | [422071-do-you-remember.json](./422071-do-you-remember.json) |
 | Do You See Sparky? | 242484 | [242484-do-you-see-sparky.json](./242484-do-you-see-sparky.json) |
 | Do You See the Waving Cape | 150391 | [150391-do-you-see-the-waving-cape.json](./150391-do-you-see-the-waving-cape.json) |
+| Do You Think This is a Game? | 229271 | [229271-do-you-think-this-is-a-game.json](./229271-do-you-think-this-is-a-game.json) |
 | Do You Want More!? | 203938 | [203938-do-you-want-more.json](./203938-do-you-want-more.json) |
 | Do-Do | 85924 | [85924-do-do.json](./85924-do-do.json) |
 | Do-Konjou Shougakusei: Bon Bita - Hadaka no Choujou Ketsusen!! Bita vs. Dokuro Dei! | 269574 | [269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json](./269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json) |
@@ -13720,6 +13721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Angling | 100319 | [100319-dream-angling.json](./100319-dream-angling.json) |
 | Dream Animal | 376759 | [376759-dream-animal.json](./376759-dream-animal.json) |
 | Dream Antique | 284315 | [284315-dream-antique.json](./284315-dream-antique.json) |
+| Dream Arena | 229270 | [229270-dream-arena.json](./229270-dream-arena.json) |
 | Dream Audition | 269403 | [269403-dream-audition.json](./269403-dream-audition.json) |
 | Dream Audition 2 | 269404 | [269404-dream-audition-2.json](./269404-dream-audition-2.json) |
 | Dream Audition 3 | 269405 | [269405-dream-audition-3.json](./269405-dream-audition-3.json) |
@@ -16253,6 +16255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Hell | 74228 | [74228-dungeons-of-hell.json](./74228-dungeons-of-hell.json) |
 | Dungeons of Hinterberg: Episode Renaud | 358904 | [358904-dungeons-of-hinterberg-episode-renaud.json](./358904-dungeons-of-hinterberg-episode-renaud.json) |
 | Dungeons of Honor | 191193 | [191193-dungeons-of-honor.json](./191193-dungeons-of-honor.json) |
+| Dungeons of Kairn | 229287 | [229287-dungeons-of-kairn.json](./229287-dungeons-of-kairn.json) |
 | Dungeons of Kragmor | 17006 | [17006-dungeons-of-kragmor.json](./17006-dungeons-of-kragmor.json) |
 | Dungeons of Kremlin: Remastered | 57038 | [57038-dungeons-of-kremlin-remastered.json](./57038-dungeons-of-kremlin-remastered.json) |
 | Dungeons of Legend: Cast Within | 115073 | [115073-dungeons-of-legend-cast-within.json](./115073-dungeons-of-legend-cast-within.json) |
