@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybara Carbonara | 132760 | [132760-capybara-carbonara.json](./132760-capybara-carbonara.json) |
 | Capybara Fighters! | 312609 | [312609-capybara-fighters.json](./312609-capybara-fighters.json) |
 | Capybara Go! | 318448 | [318448-capybara-go.json](./318448-capybara-go.json) |
+| Capybara Hotel | 239833 | [239833-capybara-hotel.json](./239833-capybara-hotel.json) |
 | Capybara Journey Go | 378782 | [378782-capybara-journey-go.json](./378782-capybara-journey-go.json) |
 | Capybara Madness | 231273 | [231273-capybara-madness.json](./231273-capybara-madness.json) |
 | Capybara Park | 312189 | [312189-capybara-park.json](./312189-capybara-park.json) |
@@ -4272,6 +4273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveworks | 383522 | [383522-caveworks.json](./383522-caveworks.json) |
 | CavEX | 293331 | [293331-cavex.json](./293331-cavex.json) |
 | Caviar | 284805 | [284805-caviar.json](./284805-caviar.json) |
+| Cavimilation | 239835 | [239835-cavimilation.json](./239835-cavimilation.json) |
 | Cavity Busters | 118652 | [118652-cavity-busters.json](./118652-cavity-busters.json) |
 | Cavorite | 333523 | [333523-cavorite.json](./333523-cavorite.json) |
 | Cavrncrate | 318513 | [318513-cavrncrate.json](./318513-cavrncrate.json) |
@@ -12140,6 +12142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control: Ultimate Edition - Cloud Version | 140503 | [140503-control-ultimate-edition-cloud-version.json](./140503-control-ultimate-edition-cloud-version.json) |
 | Controlled Climate Chaos | 282130 | [282130-controlled-climate-chaos.json](./282130-controlled-climate-chaos.json) |
 | Controlled Death | 302065 | [302065-controlled-death.json](./302065-controlled-death.json) |
+| Controller | 239817 | [239817-controller.json](./239817-controller.json) |
 | Controller King | 262849 | [262849-controller-king.json](./262849-controller-king.json) |
 | Controller Sync | 209489 | [209489-controller-sync.json](./209489-controller-sync.json) |
 | Controware | 285519 | [285519-controware.json](./285519-controware.json) |
@@ -15024,6 +15027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Skies: High Road to Revenge | 5793 | [5793-crimson-skies-high-road-to-revenge.json](./5793-crimson-skies-high-road-to-revenge.json) |
 | Crimson Snow | 221719 | [221719-crimson-snow.json](./221719-crimson-snow.json) |
 | Crimson Snow Deluxe | 310030 | [310030-crimson-snow-deluxe.json](./310030-crimson-snow-deluxe.json) |
+| Crimson Song | 239818 | [239818-crimson-song.json](./239818-crimson-song.json) |
 | Crimson Souls | 109696 | [109696-crimson-souls.json](./109696-crimson-souls.json) |
 | Crimson Survival | 89635 | [89635-crimson-survival.json](./89635-crimson-survival.json) |
 | Crimson Sword Saga: The Peloran Wars | 32183 | [32183-crimson-sword-saga-the-peloran-wars.json](./32183-crimson-sword-saga-the-peloran-wars.json) |
