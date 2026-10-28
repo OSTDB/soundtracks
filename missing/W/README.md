@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waking Nitemare | 309429 | [309429-waking-nitemare.json](./309429-waking-nitemare.json) |
 | Waking the Glares | 27923 | [27923-waking-the-glares.json](./27923-waking-the-glares.json) |
 | Waking the Glares - Chapter I and II | 56430 | [56430-waking-the-glares-chapter-i-and-ii.json](./56430-waking-the-glares-chapter-i-and-ii.json) |
+| Waking Tides | 258580 | [258580-waking-tides.json](./258580-waking-tides.json) |
 | Waking Up To You | 395038 | [395038-waking-up-to-you.json](./395038-waking-up-to-you.json) |
 | Waking up while the sun sets | 178490 | [178490-waking-up-while-the-sun-sets.json](./178490-waking-up-while-the-sun-sets.json) |
 | Waking Up: Way Back Home | 264511 | [264511-waking-up-way-back-home.json](./264511-waking-up-way-back-home.json) |
@@ -6048,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Sheep & Cabbage | 381383 | [381383-wolf-sheep-and-cabbage.json](./381383-wolf-sheep-and-cabbage.json) |
 | Wolf Sheep Cabbage | 276580 | [276580-wolf-sheep-cabbage.json](./276580-wolf-sheep-cabbage.json) |
 | Wolf Simulator | 253803 | [253803-wolf-simulator.json](./253803-wolf-simulator.json) |
+| Wolf Simulator | 258514 | [258514-wolf-simulator.json](./258514-wolf-simulator.json) |
 | Wolf Souls | 249670 | [249670-wolf-souls.json](./249670-wolf-souls.json) |
 | Wolf Souls: Arena | 324331 | [324331-wolf-souls-arena.json](./324331-wolf-souls-arena.json) |
 | Wolf Survival | 287688 | [287688-wolf-survival.json](./287688-wolf-survival.json) |
