@@ -708,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Zombie Defense 2 | 211801 | [211801-ultimate-zombie-defense-2.json](./211801-ultimate-zombie-defense-2.json) |
 | UltiMatt | 246929 | [246929-ultimatt.json](./246929-ultimatt.json) |
 | Ultimaze | 206716 | [206716-ultimaze.json](./206716-ultimaze.json) |
+| Ultimechs Spectator | 244068 | [244068-ultimechs-spectator.json](./244068-ultimechs-spectator.json) |
 | Ultimotion: Fitness | 220270 | [220270-ultimotion-fitness.json](./220270-ultimotion-fitness.json) |
 | Ultimotion: Sleeping Beauty & Tinker Bell | 220271 | [220271-ultimotion-sleeping-beauty-and-tinker-bell.json](./220271-ultimotion-sleeping-beauty-and-tinker-bell.json) |
 | Ultimotion: Swing Zone Sports | 220269 | [220269-ultimotion-swing-zone-sports.json](./220269-ultimotion-swing-zone-sports.json) |
@@ -2682,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unwound | 235873 | [235873-unwound.json](./235873-unwound.json) |
 | Unwoven | 409780 | [409780-unwoven.json](./409780-unwoven.json) |
 | Unyha | 306389 | [306389-unyha.json](./306389-unyha.json) |
+| Unyielder | 244405 | [244405-unyielder.json](./244405-unyielder.json) |
 | Unyielding | 156527 | [156527-unyielding.json](./156527-unyielding.json) |
 | Unyverse | 289919 | [289919-unyverse.json](./289919-unyverse.json) |
 | Unzipping a Mirror | 206538 | [206538-unzipping-a-mirror.json](./206538-unzipping-a-mirror.json) |
@@ -3151,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utopia Gatekeeper | 412617 | [412617-utopia-gatekeeper.json](./412617-utopia-gatekeeper.json) |
 | Utopia Must Fall | 301870 | [301870-utopia-must-fall.json](./301870-utopia-must-fall.json) |
 | Utopia no Soubou | 378191 | [378191-utopia-no-soubou.json](./378191-utopia-no-soubou.json) |
+| Utopia No.8 | 244416 | [244416-utopia-no-8.json](./244416-utopia-no-8.json) |
 | Utopia Process | 153390 | [153390-utopia-process.json](./153390-utopia-process.json) |
 | Utopia Syndrome | 110738 | [110738-utopia-syndrome.json](./110738-utopia-syndrome.json) |
 | Utopia: Birth of The Heroes | 388394 | [388394-utopia-birth-of-the-heroes.json](./388394-utopia-birth-of-the-heroes.json) |
