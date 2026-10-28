@@ -5648,6 +5648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Breakers | 333139 | [333139-shadow-breakers.json](./333139-shadow-breakers.json) |
 | Shadow Bridge | 414182 | [414182-shadow-bridge.json](./414182-shadow-bridge.json) |
 | Shadow Bug | 44246 | [44246-shadow-bug.json](./44246-shadow-bug.json) |
+| Shadow Bundle: Shadow Quest and Nightshade Ninja Warrior | 266342 | [266342-shadow-bundle-shadow-quest-and-nightshade-ninja-warrior.json](./266342-shadow-bundle-shadow-quest-and-nightshade-ninja-warrior.json) |
 | Shadow Burglar | 191864 | [191864-shadow-burglar.json](./191864-shadow-burglar.json) |
 | Shadow Chronicles: Collector's Edition | 201858 | [201858-shadow-chronicles-collectors-edition.json](./201858-shadow-chronicles-collectors-edition.json) |
 | Shadow City Mysteries: A Clockwork Noir | 290546 | [290546-shadow-city-mysteries-a-clockwork-noir.json](./290546-shadow-city-mysteries-a-clockwork-noir.json) |
@@ -9091,6 +9092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silk & Sorrow | 415870 | [415870-silk-and-sorrow.json](./415870-silk-and-sorrow.json) |
 | Silk and Secrets: Rites of Pleasure | 397846 | [397846-silk-and-secrets-rites-of-pleasure.json](./397846-silk-and-secrets-rites-of-pleasure.json) |
 | Silk Collector: Tidy Up the Clothing Store! | 420751 | [420751-silk-collector-tidy-up-the-clothing-store.json](./420751-silk-collector-tidy-up-the-clothing-store.json) |
+| Silk Road 2 | 266335 | [266335-silk-road-2.json](./266335-silk-road-2.json) |
 | Silk Roads II: Paths of Fortune | 348562 | [348562-silk-roads-ii-paths-of-fortune.json](./348562-silk-roads-ii-paths-of-fortune.json) |
 | Silk Roads: Caravan Kings | 169612 | [169612-silk-roads-caravan-kings.json](./169612-silk-roads-caravan-kings.json) |
 | Silk Suki: Chat Messaging Game | 298099 | [298099-silk-suki-chat-messaging-game.json](./298099-silk-suki-chat-messaging-game.json) |
@@ -15218,6 +15220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Skateboard | 152977 | [152977-sonic-skateboard.json](./152977-sonic-skateboard.json) |
 | Sonic Sky Chase Zone | 339670 | [339670-sonic-sky-chase-zone.json](./339670-sonic-sky-chase-zone.json) |
 | Sonic Skyfall | 316497 | [316497-sonic-skyfall.json](./316497-sonic-skyfall.json) |
+| Sonic Skywind | 266351 | [266351-sonic-skywind.json](./266351-sonic-skywind.json) |
 | Sonic Skywind: Episode II | 327000 | [327000-sonic-skywind-episode-ii.json](./327000-sonic-skywind-episode-ii.json) |
 | Sonic Slash | 331228 | [331228-sonic-slash.json](./331228-sonic-slash.json) |
 | Sonic Slash | 350060 | [350060-sonic-slash.json](./350060-sonic-slash.json) |
@@ -15232,6 +15235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Spam | 331440 | [331440-sonic-spam.json](./331440-sonic-spam.json) |
 | Sonic Special Runner | 321060 | [321060-sonic-special-runner.json](./321060-sonic-special-runner.json) |
 | Sonic Spectacle | 336358 | [336358-sonic-spectacle.json](./336358-sonic-spectacle.json) |
+| Sonic Spectre | 266352 | [266352-sonic-spectre.json](./266352-sonic-spectre.json) |
 | Sonic Speed | 336356 | [336356-sonic-speed.json](./336356-sonic-speed.json) |
 | Sonic Speed Blast | 330708 | [330708-sonic-speed-blast.json](./330708-sonic-speed-blast.json) |
 | Sonic Speed DX | 261281 | [261281-sonic-speed-dx.json](./261281-sonic-speed-dx.json) |
@@ -15410,6 +15414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Unleashed: Mazuri Adventure Pack | 337218 | [337218-sonic-unleashed-mazuri-adventure-pack.json](./337218-sonic-unleashed-mazuri-adventure-pack.json) |
 | Sonic Unleashed: Spagonia Adventure Pack | 337216 | [337216-sonic-unleashed-spagonia-adventure-pack.json](./337216-sonic-unleashed-spagonia-adventure-pack.json) |
 | Sonic Uprising | 318630 | [318630-sonic-uprising.json](./318630-sonic-uprising.json) |
+| Sonic USB Online | 266353 | [266353-sonic-usb-online.json](./266353-sonic-usb-online.json) |
 | Sonic Utopia | 305281 | [305281-sonic-utopia.json](./305281-sonic-utopia.json) |
 | Sonic Valkyria: Kanon | 351564 | [351564-sonic-valkyria-kanon.json](./351564-sonic-valkyria-kanon.json) |
 | Sonic Vania | 361578 | [361578-sonic-vania.json](./361578-sonic-vania.json) |
@@ -20319,6 +20324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stair Surfers | 175126 | [175126-stair-surfers.json](./175126-stair-surfers.json) |
 | Stair Tap | 365064 | [365064-stair-tap.json](./365064-stair-tap.json) |
 | Stair Tower | 317183 | [317183-stair-tower.json](./317183-stair-tower.json) |
+| Stair: Slide the Blocks to Ascend | 266326 | [266326-stair-slide-the-blocks-to-ascend.json](./266326-stair-slide-the-blocks-to-ascend.json) |
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
 | Staircore | 383131 | [383131-staircore.json](./383131-staircore.json) |
 | Stairdown | 221291 | [221291-stairdown.json](./221291-stairdown.json) |
@@ -23128,6 +23134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Here... Flight Adventure | 99178 | [99178-still-here-flight-adventure.json](./99178-still-here-flight-adventure.json) |
 | Still Heroes | 197963 | [197963-still-heroes.json](./197963-still-heroes.json) |
 | Still House | 366887 | [366887-still-house.json](./366887-still-house.json) |
+| Still Hunt | 266332 | [266332-still-hunt.json](./266332-still-hunt.json) |
 | Still It Runs | 350527 | [350527-still-it-runs.json](./350527-still-it-runs.json) |
 | Still Joking | 221425 | [221425-still-joking.json](./221425-still-joking.json) |
 | Still Life | 6175 | [6175-still-life.json](./6175-still-life.json) |
@@ -24201,6 +24208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Gears | 92348 | [92348-street-gears.json](./92348-street-gears.json) |
 | Street Girls | 296991 | [296991-street-girls.json](./296991-street-girls.json) |
 | Street Gods | 360774 | [360774-street-gods.json](./360774-street-gods.json) |
+| Street Harrier | 266328 | [266328-street-harrier.json](./266328-street-harrier.json) |
 | Street Hawk | 26215 | [26215-street-hawk.json](./26215-street-hawk.json) |
 | Street Heat | 40434 | [40434-street-heat.json](./40434-street-heat.json) |
 | Street Hero | 150950 | [150950-street-hero.json](./150950-street-hero.json) |
@@ -27362,6 +27370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Cloudy Cliffs | 394341 | [394341-super-mario-cloudy-cliffs.json](./394341-super-mario-cloudy-cliffs.json) |
 | Super Mario Construct | 250039 | [250039-super-mario-construct.json](./250039-super-mario-construct.json) |
 | Super Mario Construct 2: Yoshi's Fabrication Station | 250040 | [250040-super-mario-construct-2-yoshis-fabrication-station.json](./250040-super-mario-construct-2-yoshis-fabrication-station.json) |
+| Super Mario Continuance | 266356 | [266356-super-mario-continuance.json](./266356-super-mario-continuance.json) |
 | Super Mario Craft | 313112 | [313112-super-mario-craft.json](./313112-super-mario-craft.json) |
 | Super Mario Death Row 2: Shroomshank Redemption | 220042 | [220042-super-mario-death-row-2-shroomshank-redemption.json](./220042-super-mario-death-row-2-shroomshank-redemption.json) |
 | Super Mario Death Row! | 220006 | [220006-super-mario-death-row.json](./220006-super-mario-death-row.json) |
@@ -29868,6 +29877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap: Mobile Edition | 250439 | [250439-swap-mobile-edition.json](./250439-swap-mobile-edition.json) |
 | Swap! Swap! Swap! | 106405 | [106405-swap-swap-swap.json](./106405-swap-swap-swap.json) |
 | Swap. | 232037 | [232037-swap.json](./232037-swap.json) |
+| Swapdown | 266054 | [266054-swapdown.json](./266054-swapdown.json) |
 | Swapfell Ascendance | 331347 | [331347-swapfell-ascendance.json](./331347-swapfell-ascendance.json) |
 | Swapfell Maelstrom | 331668 | [331668-swapfell-maelstrom.json](./331668-swapfell-maelstrom.json) |
 | SwapFell: I Hate You. | 335064 | [335064-swapfell-i-hate-you.json](./335064-swapfell-i-hate-you.json) |
