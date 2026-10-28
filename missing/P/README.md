@@ -7933,6 +7933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of the Apes | 282720 | [282720-planet-of-the-apes.json](./282720-planet-of-the-apes.json) |
 | Planet of the Apes | 49358 | [49358-planet-of-the-apes.json](./49358-planet-of-the-apes.json) |
 | Planet of the Apes: Last Frontier | 54709 | [54709-planet-of-the-apes-last-frontier.json](./54709-planet-of-the-apes-last-frontier.json) |
+| Planet of War: The Legend of Fu | 258052 | [258052-planet-of-war-the-legend-of-fu.json](./258052-planet-of-war-the-legend-of-fu.json) |
 | Planet Oio | 317420 | [317420-planet-oio.json](./317420-planet-oio.json) |
 | Planet Omnia | 197912 | [197912-planet-omnia.json](./197912-planet-omnia.json) |
 | Planet Pachinko | 72555 | [72555-planet-pachinko.json](./72555-planet-pachinko.json) |
@@ -14536,6 +14537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Cat | 182224 | [182224-psychic-cat.json](./182224-psychic-cat.json) |
 | Psychic Eclipse | 288174 | [288174-psychic-eclipse.json](./288174-psychic-eclipse.json) |
 | Psychic Eclipse Code: Green | 289357 | [289357-psychic-eclipse-code-green.json](./289357-psychic-eclipse-code-green.json) |
+| Psychic Eclipse: Reload | 257766 | [257766-psychic-eclipse-reload.json](./257766-psychic-eclipse-reload.json) |
 | Psychic Force | 20140 | [20140-psychic-force.json](./20140-psychic-force.json) |
 | Psychic Force Complete | 71790 | [71790-psychic-force-complete.json](./71790-psychic-force-complete.json) |
 | Psychic Idle | 281288 | [281288-psychic-idle.json](./281288-psychic-idle.json) |
@@ -16249,6 +16251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PyroSlam: VR Table Tennis | 238359 | [238359-pyroslam-vr-table-tennis.json](./238359-pyroslam-vr-table-tennis.json) |
 | Pyrosynchist | 370690 | [370690-pyrosynchist.json](./370690-pyrosynchist.json) |
 | Pyrotechnica | 74029 | [74029-pyrotechnica.json](./74029-pyrotechnica.json) |
+| Pyroworks | 258047 | [258047-pyroworks.json](./258047-pyroworks.json) |
 | Pyrphoros | 303823 | [303823-pyrphoros.json](./303823-pyrphoros.json) |
 | Pyrrhic Paradise: Dissemble | 303085 | [303085-pyrrhic-paradise-dissemble.json](./303085-pyrrhic-paradise-dissemble.json) |
 | Pyrrhic Tales: Prelude to Darkness | 70347 | [70347-pyrrhic-tales-prelude-to-darkness.json](./70347-pyrrhic-tales-prelude-to-darkness.json) |
