@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X2: Wolverine's Revenge | 4579 | [4579-x2-wolverines-revenge.json](./4579-x2-wolverines-revenge.json) |
 | X2O | 89802 | [89802-x2o.json](./89802-x2o.json) |
 | X2Roulette | 395369 | [395369-x2roulette.json](./395369-x2roulette.json) |
+| X3 Studios | 273207 | [273207-x3-studios.json](./273207-x3-studios.json) |
 | X3: Albion Prelude | 9321 | [9321-x3-albion-prelude.json](./9321-x3-albion-prelude.json) |
 | X3: Albion Prelude - Bonus Package | 224391 | [224391-x3-albion-prelude-bonus-package.json](./224391-x3-albion-prelude-bonus-package.json) |
 | X3: Farnham's Legacy | 145483 | [145483-x3-farnhams-legacy.json](./145483-x3-farnhams-legacy.json) |
@@ -945,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XXOO | 277718 | [277718-xxoo.json](./277718-xxoo.json) |
 | XxU | 389627 | [389627-xxu.json](./389627-xxu.json) |
 | xXx | 85941 | [85941-xxx.json](./85941-xxx.json) |
+| XXX | 273193 | [273193-xxx.json](./273193-xxx.json) |
 | XXX Puzzle | 103646 | [103646-xxx-puzzle.json](./103646-xxx-puzzle.json) |
 | Xxx Talent | 385865 | [385865-xxx-talent.json](./385865-xxx-talent.json) |
 | Xxx_Cyberrat_Xxx | 216818 | [216818-xxx-cyberrat-xxx.json](./216818-xxx-cyberrat-xxx.json) |
