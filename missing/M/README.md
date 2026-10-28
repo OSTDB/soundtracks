@@ -12340,6 +12340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Manager 2018 | 96270 | [96270-mlb-manager-2018.json](./96270-mlb-manager-2018.json) |
 | MLB Perfect Inning | 323161 | [323161-mlb-perfect-inning.json](./323161-mlb-perfect-inning.json) |
 | MLB Perfect Inning 2021 | 247128 | [247128-mlb-perfect-inning-2021.json](./247128-mlb-perfect-inning-2021.json) |
+| MLB Perfect Inning 2022 | 241578 | [241578-mlb-perfect-inning-2022.json](./241578-mlb-perfect-inning-2022.json) |
 | MLB Perfect Inning 24 | 321667 | [321667-mlb-perfect-inning-24.json](./321667-mlb-perfect-inning-24.json) |
 | MLB Perfect Inning Live | 96295 | [96295-mlb-perfect-inning-live.json](./96295-mlb-perfect-inning-live.json) |
 | MLB Perfect Inning: 23 | 212436 | [212436-mlb-perfect-inning-23.json](./212436-mlb-perfect-inning-23.json) |
@@ -15176,6 +15177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoSimulator | 404512 | [404512-mosimulator.json](./404512-mosimulator.json) |
 | Moskao Fighter | 293361 | [293361-moskao-fighter.json](./293361-moskao-fighter.json) |
 | Mosquito | 394426 | [394426-mosquito.json](./394426-mosquito.json) |
+| Mosquito Alive | 241563 | [241563-mosquito-alive.json](./241563-mosquito-alive.json) |
 | Mosquito Must Die | 243842 | [243842-mosquito-must-die.json](./243842-mosquito-must-die.json) |
 | Mosquito Simulator | 320607 | [320607-mosquito-simulator.json](./320607-mosquito-simulator.json) |
 | Mosquiturros | 379040 | [379040-mosquiturros.json](./379040-mosquiturros.json) |
@@ -17359,6 +17361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bakery Empire: Tasty Edition | 290432 | [290432-my-bakery-empire-tasty-edition.json](./290432-my-bakery-empire-tasty-edition.json) |
 | My Ballet Studio | 20415 | [20415-my-ballet-studio.json](./20415-my-ballet-studio.json) |
 | My Ballet Studio | 51105 | [51105-my-ballet-studio.json](./51105-my-ballet-studio.json) |
+| My Baseball League | 241562 | [241562-my-baseball-league.json](./241562-my-baseball-league.json) |
 | My Bath Tub Companion | 304583 | [304583-my-bath-tub-companion.json](./304583-my-bath-tub-companion.json) |
 | My Beastly Lovers | 82476 | [82476-my-beastly-lovers.json](./82476-my-beastly-lovers.json) |
 | My Beautiful Faraway, Please Don't Be Cruel to Me | 399059 | [399059-my-beautiful-faraway-please-dont-be-cruel-to-me.json](./399059-my-beautiful-faraway-please-dont-be-cruel-to-me.json) |
