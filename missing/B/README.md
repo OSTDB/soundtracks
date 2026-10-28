@@ -10480,6 +10480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bober Constructions | 330759 | [330759-bober-constructions.json](./330759-bober-constructions.json) |
 | Böbl | 141431 | [141431-bobl.json](./141431-bobl.json) |
 | Bobls | 185156 | [185156-bobls.json](./185156-bobls.json) |
+| Bobls | 260283 | [260283-bobls.json](./260283-bobls.json) |
 | BoBo | 14328 | [14328-bobo.json](./14328-bobo.json) |
 | Bobo and the Chest of Nightmares | 332274 | [332274-bobo-and-the-chest-of-nightmares.json](./332274-bobo-and-the-chest-of-nightmares.json) |
 | Bobo Blitz | 291434 | [291434-bobo-blitz.json](./291434-bobo-blitz.json) |
