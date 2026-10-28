@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valley of the Dead: MalnaZidos | 193287 | [193287-valley-of-the-dead-malnazidos.json](./193287-valley-of-the-dead-malnazidos.json) |
 | Valley of the foxes | 86633 | [86633-valley-of-the-foxes.json](./86633-valley-of-the-foxes.json) |
 | Valley of the Moon | 184485 | [184485-valley-of-the-moon.json](./184485-valley-of-the-moon.json) |
+| Valley of the Old Masters | 236448 | [236448-valley-of-the-old-masters.json](./236448-valley-of-the-old-masters.json) |
 | Valley of The Savage Run | 250765 | [250765-valley-of-the-savage-run.json](./250765-valley-of-the-savage-run.json) |
 | Valley of Tribes | 338575 | [338575-valley-of-tribes.json](./338575-valley-of-tribes.json) |
 | Valley of Unicorns | 24948 | [24948-valley-of-unicorns.json](./24948-valley-of-unicorns.json) |
@@ -636,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampireville | 18892 | [18892-vampireville.json](./18892-vampireville.json) |
 | Vampireville: haunted castle adventure | 175295 | [175295-vampireville-haunted-castle-adventure.json](./175295-vampireville-haunted-castle-adventure.json) |
 | Vampiric Tower | 69853 | [69853-vampiric-tower.json](./69853-vampiric-tower.json) |
+| Vampiric Tower Remix | 236447 | [236447-vampiric-tower-remix.json](./236447-vampiric-tower-remix.json) |
 | Vampirii | 309434 | [309434-vampirii.json](./309434-vampirii.json) |
 | Vampirijagd 2 Nightrace | 84437 | [84437-vampirijagd-2-nightrace.json](./84437-vampirijagd-2-nightrace.json) |
 | Vampirina's Nails | 105656 | [105656-vampirinas-nails.json](./105656-vampirinas-nails.json) |
