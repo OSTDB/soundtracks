@@ -8220,6 +8220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DinoBox | 417416 | [417416-dinobox.json](./417416-dinobox.json) |
 | Dinobreak | 264154 | [264154-dinobreak.json](./264154-dinobreak.json) |
 | Dinobreak Killer Crisis Collection | 270302 | [270302-dinobreak-killer-crisis-collection.json](./270302-dinobreak-killer-crisis-collection.json) |
+| Dinobreak Strange Mutations Collection | 274837 | [274837-dinobreak-strange-mutations-collection.json](./274837-dinobreak-strange-mutations-collection.json) |
 | Dinobreak Triassic Torment Collection | 272701 | [272701-dinobreak-triassic-torment-collection.json](./272701-dinobreak-triassic-torment-collection.json) |
 | Dinobreak: Chronicles of Horror Collection | 331412 | [331412-dinobreak-chronicles-of-horror-collection.json](./331412-dinobreak-chronicles-of-horror-collection.json) |
 | Dinobreak: Crisis Collection | 331409 | [331409-dinobreak-crisis-collection.json](./331409-dinobreak-crisis-collection.json) |
@@ -13104,6 +13105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragona: Fireborne | 289010 | [289010-dragona-fireborne.json](./289010-dragona-fireborne.json) |
 | Dragonball Evolution: The Game | 2571 | [2571-dragonball-evolution-the-game.json](./2571-dragonball-evolution-the-game.json) |
 | DragonBall Heroes: Ultimate Mission 2 | 61952 | [61952-dragonball-heroes-ultimate-mission-2.json](./61952-dragonball-heroes-ultimate-mission-2.json) |
+| DragonBasic Space Invaders | 274864 | [274864-dragonbasic-space-invaders.json](./274864-dragonbasic-space-invaders.json) |
 | DragonBlast VR | 31671 | [31671-dragonblast-vr.json](./31671-dragonblast-vr.json) |
 | Dragonbolt Vanguard | 55893 | [55893-dragonbolt-vanguard.json](./55893-dragonbolt-vanguard.json) |
 | Dragonbone Dynasty | 23356 | [23356-dragonbone-dynasty.json](./23356-dragonbone-dynasty.json) |
