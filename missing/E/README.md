@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eFootball 2024 | 266157 | [266157-efootball-2024.json](./266157-efootball-2024.json) |
 | eFootball 2024: Leo Messi Edition | 265241 | [265241-efootball-2024-leo-messi-edition.json](./265241-efootball-2024-leo-messi-edition.json) |
 | EFootball 2026 by Felix Pro | 395200 | [395200-efootball-2026-by-felix-pro.json](./395200-efootball-2026-by-felix-pro.json) |
+| eFootball Champion Squads | 242170 | [242170-efootball-champion-squads.json](./242170-efootball-champion-squads.json) |
 | eFootball PES 2020: Legend Edition | 119573 | [119573-efootball-pes-2020-legend-edition.json](./119573-efootball-pes-2020-legend-edition.json) |
 | eFootball PES 2021 Season Update | 135881 | [135881-efootball-pes-2021-season-update.json](./135881-efootball-pes-2021-season-update.json) |
 | eFootball: Lamine Yamal Edition 2026 | 361246 | [361246-efootball-lamine-yamal-edition-2026.json](./361246-efootball-lamine-yamal-edition-2026.json) |
@@ -3486,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EnGaCho: Dreamy Butterfly | 290781 | [290781-engacho-dreamy-butterfly.json](./290781-engacho-dreamy-butterfly.json) |
 | Engacho! for WonderSwan | 267417 | [267417-engacho-for-wonderswan.json](./267417-engacho-for-wonderswan.json) |
 | Engage | 300460 | [300460-engage.json](./300460-engage.json) |
+| Engage Kill | 242131 | [242131-engage-kill.json](./242131-engage-kill.json) |
 | Engage Links | 92422 | [92422-engage-links.json](./92422-engage-links.json) |
 | Engage Princess: Nemureru Himegimi to Yume no Mahoutsukai | 205618 | [205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json](./205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json) |
 | Engage Souls | 247442 | [247442-engage-souls.json](./247442-engage-souls.json) |
@@ -6405,6 +6407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex-Mutants | 36738 | [36738-ex-mutants.json](./36738-ex-mutants.json) |
 | EX-Xdriver | 272339 | [272339-ex-xdriver.json](./272339-ex-xdriver.json) |
 | Ex-Zodiac | 133089 | [133089-ex-zodiac.json](./133089-ex-zodiac.json) |
+| EX: Extra | 242154 | [242154-ex-extra.json](./242154-ex-extra.json) |
 | Ex/l | 376446 | [376446-ex-l.json](./376446-ex-l.json) |
 | Ex0 Escape | 211208 | [211208-ex0-escape.json](./211208-ex0-escape.json) |
 | EX0: Dark Moon | 76355 | [76355-ex0-dark-moon.json](./76355-ex0-dark-moon.json) |
@@ -6643,6 +6646,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exive | 110551 | [110551-exive.json](./110551-exive.json) |
 | ExMortalis | 301858 | [301858-exmortalis.json](./301858-exmortalis.json) |
 | Exmortis | 196724 | [196724-exmortis.json](./196724-exmortis.json) |
+| Exmortis 2 | 242164 | [242164-exmortis-2.json](./242164-exmortis-2.json) |
+| Exmortis 3 | 242163 | [242163-exmortis-3.json](./242163-exmortis-3.json) |
 | Exo | 398008 | [398008-exo.json](./398008-exo.json) |
 | Exo Digger | 407813 | [407813-exo-digger.json](./407813-exo-digger.json) |
 | EXO Encounter 667 | 179188 | [179188-exo-encounter-667.json](./179188-exo-encounter-667.json) |
