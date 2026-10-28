@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Life | 396598 | [396598-racing-life.json](./396598-racing-life.json) |
 | Racing Madness | 68972 | [68972-racing-madness.json](./68972-racing-madness.json) |
 | Racing Madness 2 | 73334 | [73334-racing-madness-2.json](./73334-racing-madness-2.json) |
+| Racing Manager | 237004 | [237004-racing-manager.json](./237004-racing-manager.json) |
 | Racing Manager | 390198 | [390198-racing-manager.json](./390198-racing-manager.json) |
 | Racing Manager 2014 | 9419 | [9419-racing-manager-2014.json](./9419-racing-manager-2014.json) |
 | Racing Mania 2 | 71722 | [71722-racing-mania-2.json](./71722-racing-mania-2.json) |
@@ -1061,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Empire: Nintendo Switch Starter Bundle | 283198 | [283198-railway-empire-nintendo-switch-starter-bundle.json](./283198-railway-empire-nintendo-switch-starter-bundle.json) |
 | Railway Empire: Northern Europe | 145502 | [145502-railway-empire-northern-europe.json](./145502-railway-empire-northern-europe.json) |
 | Railway Empire: The Great Lakes | 124834 | [124834-railway-empire-the-great-lakes.json](./124834-railway-empire-the-great-lakes.json) |
+| Railway Escape | 236996 | [236996-railway-escape.json](./236996-railway-escape.json) |
 | Railway Inferno | 346095 | [346095-railway-inferno.json](./346095-railway-inferno.json) |
 | Railway Islands | 195424 | [195424-railway-islands.json](./195424-railway-islands.json) |
 | Railway Islands 2 | 270942 | [270942-railway-islands-2.json](./270942-railway-islands-2.json) |
@@ -9131,6 +9133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Macho: Tumbling to Earth | 330148 | [330148-rolling-macho-tumbling-to-earth.json](./330148-rolling-macho-tumbling-to-earth.json) |
 | Rolling Madness 3D | 54957 | [54957-rolling-madness-3d.json](./54957-rolling-madness-3d.json) |
 | Rolling Over It | 191834 | [191834-rolling-over-it.json](./191834-rolling-over-it.json) |
+| Rolling Rapids | 237007 | [237007-rolling-rapids.json](./237007-rolling-rapids.json) |
 | Rolling Realms | 226632 | [226632-rolling-realms.json](./226632-rolling-realms.json) |
 | Rolling Red Ball Rush Up Sky | 104451 | [104451-rolling-red-ball-rush-up-sky.json](./104451-rolling-red-ball-rush-up-sky.json) |
 | Rolling Revolt | 244500 | [244500-rolling-revolt.json](./244500-rolling-revolt.json) |
