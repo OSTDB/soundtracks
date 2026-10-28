@@ -841,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7217,6 +7218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biophobia | 343832 | [343832-biophobia.json](./343832-biophobia.json) |
 | Bioprototype | 344140 | [344140-bioprototype.json](./344140-bioprototype.json) |
 | Biorage | 367035 | [367035-biorage.json](./367035-biorage.json) |
+| Biorganic | 244066 | [244066-biorganic.json](./244066-biorganic.json) |
 | Biorhythm | 116721 | [116721-biorhythm.json](./116721-biorhythm.json) |
 | Biorhythm | 170531 | [170531-biorhythm.json](./170531-biorhythm.json) |
 | Biorhythm | 78373 | [78373-biorhythm.json](./78373-biorhythm.json) |
@@ -7455,6 +7457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biscuit Mafia | 364537 | [364537-biscuit-mafia.json](./364537-biscuit-mafia.json) |
 | Biscuitts 4 | 147364 | [147364-biscuitts-4.json](./147364-biscuitts-4.json) |
 | Biscuitts 5 | 247606 | [247606-biscuitts-5.json](./247606-biscuitts-5.json) |
+| Bish Bash Bots | 244419 | [244419-bish-bash-bots.json](./244419-bish-bash-bots.json) |
 | Bishi Bachi Special 3 | 43866 | [43866-bishi-bachi-special-3.json](./43866-bishi-bachi-special-3.json) |
 | Bishi Bashi Championship Mini Game Senshuken | 38591 | [38591-bishi-bashi-championship-mini-game-senshuken.json](./38591-bishi-bashi-championship-mini-game-senshuken.json) |
 | Bishi Bashi Special | 316812 | [316812-bishi-bashi-special.json](./316812-bishi-bashi-special.json) |
@@ -8760,6 +8763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Border | 34250 | [34250-bleeding-border.json](./34250-bleeding-border.json) |
 | Bleeding Canvas | 248729 | [248729-bleeding-canvas.json](./248729-bleeding-canvas.json) |
 | Bleeding Code | 328968 | [328968-bleeding-code.json](./328968-bleeding-code.json) |
+| Bleeding Deities | 244407 | [244407-bleeding-deities.json](./244407-bleeding-deities.json) |
 | Bleeding Kansas | 51939 | [51939-bleeding-kansas.json](./51939-bleeding-kansas.json) |
 | Bleeding Moons | 109914 | [109914-bleeding-moons.json](./109914-bleeding-moons.json) |
 | Bleeding Neon | 184764 | [184764-bleeding-neon.json](./184764-bleeding-neon.json) |
@@ -12184,6 +12188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowerwhelm | 202423 | [202423-bowerwhelm.json](./202423-bowerwhelm.json) |
 | Bowl 'Em Down | 240106 | [240106-bowl-em-down.json](./240106-bowl-em-down.json) |
 | Bowl Big | 411351 | [411351-bowl-big.json](./411351-bowl-big.json) |
+| Bowl Faster | 244409 | [244409-bowl-faster.json](./244409-bowl-faster.json) |
 | Bowl VR | 32315 | [32315-bowl-vr.json](./32315-bowl-vr.json) |
 | Bowl-O-Rama | 40271 | [40271-bowl-o-rama.json](./40271-bowl-o-rama.json) |
 | Bowlatro | 369521 | [369521-bowlatro.json](./369521-bowlatro.json) |
@@ -13932,6 +13937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broom Alien | 395447 | [395447-broom-alien.json](./395447-broom-alien.json) |
 | Broom Broom | 387655 | [387655-broom-broom.json](./387655-broom-broom.json) |
 | Broom Racer | 405525 | [405525-broom-racer.json](./405525-broom-racer.json) |
+| Broom Royale | 244430 | [244430-broom-royale.json](./244430-broom-royale.json) |
 | Broomball | 32147 | [32147-broomball.json](./32147-broomball.json) |
 | Broombot Battlegrounds | 235174 | [235174-broombot-battlegrounds.json](./235174-broombot-battlegrounds.json) |
 | Broomstick Exorcist | 344497 | [344497-broomstick-exorcist.json](./344497-broomstick-exorcist.json) |
