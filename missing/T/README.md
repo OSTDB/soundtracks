@@ -7385,6 +7385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream of Shadowlands | 142170 | [142170-the-dream-of-shadowlands.json](./142170-the-dream-of-shadowlands.json) |
 | The Dream of Shadowlands: Episode 2 | 174071 | [174071-the-dream-of-shadowlands-episode-2.json](./174071-the-dream-of-shadowlands-episode-2.json) |
 | The Dream of the Limbo | 298601 | [298601-the-dream-of-the-limbo.json](./298601-the-dream-of-the-limbo.json) |
+| The Dream Office | 258299 | [258299-the-dream-office.json](./258299-the-dream-office.json) |
 | The Dream Sequences | 221586 | [221586-the-dream-sequences.json](./221586-the-dream-sequences.json) |
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
 | The Dream Where Even Though You’ve Been Done With School for Years You Have to Go Back to School Because of a Class You Forgot About | 239211 | [239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json](./239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json) |
@@ -14655,6 +14656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sokpop Collection | 131559 | [131559-the-sokpop-collection.json](./131559-the-sokpop-collection.json) |
 | The SOL Device | 104524 | [104524-the-sol-device.json](./104524-the-sol-device.json) |
 | The Solace of Flowers | 376691 | [376691-the-solace-of-flowers.json](./376691-the-solace-of-flowers.json) |
+| The Solace Paradox | 258303 | [258303-the-solace-paradox.json](./258303-the-solace-paradox.json) |
 | The Solar Queen | 262838 | [262838-the-solar-queen.json](./262838-the-solar-queen.json) |
 | The Solar Ring | 207911 | [207911-the-solar-ring.json](./207911-the-solar-ring.json) |
 | The Solar System | 65405 | [65405-the-solar-system.json](./65405-the-solar-system.json) |
