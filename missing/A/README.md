@@ -4324,6 +4324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aha! I Found It! Hidden Object Game | 51099 | [51099-aha-i-found-it-hidden-object-game.json](./51099-aha-i-found-it-hidden-object-game.json) |
 | Aha! I Got It! Escape Game | 51098 | [51098-aha-i-got-it-escape-game.json](./51098-aha-i-got-it-escape-game.json) |
 | Aha! More Photo Spot-the-Difference | 399609 | [399609-aha-more-photo-spot-the-difference.json](./399609-aha-more-photo-spot-the-difference.json) |
+| Aha! Shashin de Machigai-sagashi | 251626 | [251626-aha-shashin-de-machigai-sagashi.json](./251626-aha-shashin-de-machigai-sagashi.json) |
 | Ahapika: Heroic Agency | 333057 | [333057-ahapika-heroic-agency.json](./333057-ahapika-heroic-agency.json) |
 | Ahead | 161704 | [161704-ahead.json](./161704-ahead.json) |
 | Ahegal | 110446 | [110446-ahegal.json](./110446-ahegal.json) |
@@ -13228,6 +13229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Syndicate: Season Pass | 399893 | [399893-assassins-creed-syndicate-season-pass.json](./399893-assassins-creed-syndicate-season-pass.json) |
 | Assassin's Creed Syndicate: Streets of London Pack | 109437 | [109437-assassins-creed-syndicate-streets-of-london-pack.json](./109437-assassins-creed-syndicate-streets-of-london-pack.json) |
 | Assassin's Creed Syndicate: The Dreadful Crimes | 109432 | [109432-assassins-creed-syndicate-the-dreadful-crimes.json](./109432-assassins-creed-syndicate-the-dreadful-crimes.json) |
+| Assassin's Creed Unity: Arno's Chronicles | 251353 | [251353-assassins-creed-unity-arnos-chronicles.json](./251353-assassins-creed-unity-arnos-chronicles.json) |
 | Assassin's Creed Unity: The Fleur-de-Lys | 399892 | [399892-assassins-creed-unity-the-fleur-de-lys.json](./399892-assassins-creed-unity-the-fleur-de-lys.json) |
 | Assassin's Creed Unity: Underground Armory Pack | 316131 | [316131-assassins-creed-unity-underground-armory-pack.json](./316131-assassins-creed-unity-underground-armory-pack.json) |
 | Assassin's Creed Valhalla: A Fated Encounter | 228706 | [228706-assassins-creed-valhalla-a-fated-encounter.json](./228706-assassins-creed-valhalla-a-fated-encounter.json) |
@@ -14022,6 +14024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asuka 120% Limited Burning Fest. | 46088 | [46088-asuka-120-limited-burning-fest.json](./46088-asuka-120-limited-burning-fest.json) |
 | Asuka Idol Journey | 399410 | [399410-asuka-idol-journey.json](./399410-asuka-idol-journey.json) |
 | Asuka x Redline Reverie | 405510 | [405510-asuka-x-redline-reverie.json](./405510-asuka-x-redline-reverie.json) |
+| Asuka-san ha Nabikanai | 251635 | [251635-asuka-san-ha-nabikanai.json](./251635-asuka-san-ha-nabikanai.json) |
 | Asuka: The Ascent | 340840 | [340840-asuka-the-ascent.json](./340840-asuka-the-ascent.json) |
 | Asura | 244393 | [244393-asura.json](./244393-asura.json) |
 | Asura | 28158 | [28158-asura.json](./28158-asura.json) |
