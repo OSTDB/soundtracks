@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Collection | 308389 | [308389-pac-man-collection.json](./308389-pac-man-collection.json) |
 | Pac-Man Collection | 6528 | [6528-pac-man-collection.json](./6528-pac-man-collection.json) |
 | Pac-Man Collection | 80452 | [80452-pac-man-collection.json](./80452-pac-man-collection.json) |
+| Pac-Man Community | 234815 | [234815-pac-man-community.json](./234815-pac-man-community.json) |
 | Pac-Man Couchcade | 304234 | [304234-pac-man-couchcade.json](./304234-pac-man-couchcade.json) |
 | Pac-Man Dash! | 38692 | [38692-pac-man-dash.json](./38692-pac-man-dash.json) |
 | Pac-Man Doom | 262564 | [262564-pac-man-doom.json](./262564-pac-man-doom.json) |
