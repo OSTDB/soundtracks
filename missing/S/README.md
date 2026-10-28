@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: Gat Out of Hell | 7708 | [7708-saints-row-gat-out-of-hell.json](./7708-saints-row-gat-out-of-hell.json) |
 | Saints Row: Going Commando Cosmetic Pack | 307144 | [307144-saints-row-going-commando-cosmetic-pack.json](./307144-saints-row-going-commando-cosmetic-pack.json) |
 | Saints Row: Gold Edition | 169195 | [169195-saints-row-gold-edition.json](./169195-saints-row-gold-edition.json) |
+| Saints Row: Hexy Halloween Free Cosmetic Pack | 274604 | [274604-saints-row-hexy-halloween-free-cosmetic-pack.json](./274604-saints-row-hexy-halloween-free-cosmetic-pack.json) |
 | Saints Row: Ho Ho Ho Pack | 400842 | [400842-saints-row-ho-ho-ho-pack.json](./400842-saints-row-ho-ho-ho-pack.json) |
 | Saints Row: Idols Anarchy Pack | 307146 | [307146-saints-row-idols-anarchy-pack.json](./307146-saints-row-idols-anarchy-pack.json) |
 | Saints Row: Industrial Map Pack | 400841 | [400841-saints-row-industrial-map-pack.json](./400841-saints-row-industrial-map-pack.json) |
@@ -883,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally's Studio HD | 107861 | [107861-sallys-studio-hd.json](./107861-sallys-studio-hd.json) |
 | Sally6 | 124723 | [124723-sally6.json](./124723-sally6.json) |
 | Salmon City | 388166 | [388166-salmon-city.json](./388166-salmon-city.json) |
+| Salmon Man | 274318 | [274318-salmon-man.json](./274318-salmon-man.json) |
 | Salmon Run | 69800 | [69800-salmon-run.json](./69800-salmon-run.json) |
 | Salmon Tower | 404182 | [404182-salmon-tower.json](./404182-salmon-tower.json) |
 | Salome's Kiss | 190940 | [190940-salomes-kiss.json](./190940-salomes-kiss.json) |
@@ -2378,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Psycho Lady Simulator | 278376 | [278376-scary-psycho-lady-simulator.json](./278376-scary-psycho-lady-simulator.json) |
 | Scary Robber: Home Clash | 227484 | [227484-scary-robber-home-clash.json](./227484-scary-robber-home-clash.json) |
 | Scary School | 296762 | [296762-scary-school.json](./296762-scary-school.json) |
+| Scary School Simulator 2 | 274307 | [274307-scary-school-simulator-2.json](./274307-scary-school-simulator-2.json) |
 | Scary School Simulator 3 | 312431 | [312431-scary-school-simulator-3.json](./312431-scary-school-simulator-3.json) |
 | Scary Shadow Spot: Bitter Glass | 328228 | [328228-scary-shadow-spot-bitter-glass.json](./328228-scary-shadow-spot-bitter-glass.json) |
 | Scary Shadow Spot: Last Farewell | 313583 | [313583-scary-shadow-spot-last-farewell.json](./313583-scary-shadow-spot-last-farewell.json) |
@@ -5086,6 +5089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesshouseki: Malice Eater | 124758 | [124758-sesshouseki-malice-eater.json](./124758-sesshouseki-malice-eater.json) |
 | Session Seven | 115395 | [115395-session-seven.json](./115395-session-seven.json) |
 | Session: Skate Sim | 75694 | [75694-session-skate-sim.json](./75694-session-skate-sim.json) |
+| Session: Skate Sim - Abandoned Mall | 274596 | [274596-session-skate-sim-abandoned-mall.json](./274596-session-skate-sim-abandoned-mall.json) |
 | Session: Skate Sim - Brandalised Pack | 231325 | [231325-session-skate-sim-brandalised-pack.json](./231325-session-skate-sim-brandalised-pack.json) |
 | Session: Skate Sim - Deluxe Edition | 218488 | [218488-session-skate-sim-deluxe-edition.json](./218488-session-skate-sim-deluxe-edition.json) |
 | Session: Skate Sim - El Lay | 377891 | [377891-session-skate-sim-el-lay.json](./377891-session-skate-sim-el-lay.json) |
@@ -6284,6 +6288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape TD | 186833 | [186833-shape-td.json](./186833-shape-td.json) |
 | Shape Theory | 244486 | [244486-shape-theory.json](./244486-shape-theory.json) |
 | Shape Together | 402374 | [402374-shape-together.json](./402374-shape-together.json) |
+| Shape Tunnel | 274306 | [274306-shape-tunnel.json](./274306-shape-tunnel.json) |
 | Shape Up | 20312 | [20312-shape-up.json](./20312-shape-up.json) |
 | Shape Up Battle Run | 364454 | [364454-shape-up-battle-run.json](./364454-shape-up-battle-run.json) |
 | Shape Up: Gold Edition | 227178 | [227178-shape-up-gold-edition.json](./227178-shape-up-gold-edition.json) |
@@ -17014,6 +17019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Quest: The Lost Chapter | 349896 | [349896-space-quest-the-lost-chapter.json](./349896-space-quest-the-lost-chapter.json) |
 | Space Quiz | 74456 | [74456-space-quiz.json](./74456-space-quiz.json) |
 | Space Rabbits in Space | 114895 | [114895-space-rabbits-in-space.json](./114895-space-rabbits-in-space.json) |
+| Space Race | 274592 | [274592-space-race.json](./274592-space-race.json) |
 | Space Race | 361117 | [361117-space-race.json](./361117-space-race.json) |
 | Space Racer | 15373 | [15373-space-racer.json](./15373-space-racer.json) |
 | Space Racer X | 241201 | [241201-space-racer-x.json](./241201-space-racer-x.json) |
@@ -18669,6 +18675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Rhythm XD + Monstercat Bundle | 283201 | [283201-spin-rhythm-xd-monstercat-bundle.json](./283201-spin-rhythm-xd-monstercat-bundle.json) |
 | Spin Rhythm XD: Chillhop | 332606 | [332606-spin-rhythm-xd-chillhop.json](./332606-spin-rhythm-xd-chillhop.json) |
 | Spin Rhythm XD: Indie Pack DLC | 379593 | [379593-spin-rhythm-xd-indie-pack-dlc.json](./379593-spin-rhythm-xd-indie-pack-dlc.json) |
+| Spin Rhythm XD: Monstercat | 274597 | [274597-spin-rhythm-xd-monstercat.json](./274597-spin-rhythm-xd-monstercat.json) |
 | Spin Rhythm XD: Supporter Pack DLC | 273312 | [273312-spin-rhythm-xd-supporter-pack-dlc.json](./273312-spin-rhythm-xd-supporter-pack-dlc.json) |
 | Spin Royale | 344459 | [344459-spin-royale.json](./344459-spin-royale.json) |
 | Spin Spell | 63556 | [63556-spin-spell.json](./63556-spin-spell.json) |
@@ -19245,6 +19252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooked | 45325 | [45325-spooked.json](./45325-spooked.json) |
 | Spooked Hide & Seek | 218669 | [218669-spooked-hide-and-seek.json](./218669-spooked-hide-and-seek.json) |
 | Spooker | 403027 | [403027-spooker.json](./403027-spooker.json) |
+| Spookermarket | 274310 | [274310-spookermarket.json](./274310-spookermarket.json) |
 | Spookie Dookie | 372669 | [372669-spookie-dookie.json](./372669-spookie-dookie.json) |
 | Spookitchen | 350595 | [350595-spookitchen.json](./350595-spookitchen.json) |
 | Spookity Hollow | 170549 | [170549-spookity-hollow.json](./170549-spookity-hollow.json) |
@@ -20322,6 +20330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand Your Ground | 266971 | [266971-stand-your-ground.json](./266971-stand-your-ground.json) |
 | Stand: Sins of the Immortals | 388790 | [388790-stand-sins-of-the-immortals.json](./388790-stand-sins-of-the-immortals.json) |
 | Stand: Survive, Team-up, And Never Die | 322445 | [322445-stand-survive-team-up-and-never-die.json](./322445-stand-survive-team-up-and-never-die.json) |
+| Standalone: Synergy | 274324 | [274324-standalone-synergy.json](./274324-standalone-synergy.json) |
 | Standard Bits | 108835 | [108835-standard-bits.json](./108835-standard-bits.json) |
 | Standard Legend | 116365 | [116365-standard-legend.json](./116365-standard-legend.json) |
 | Standard Snake | 87156 | [87156-standard-snake.json](./87156-standard-snake.json) |
@@ -30608,6 +30617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SX Superstar | 4193 | [4193-sx-superstar.json](./4193-sx-superstar.json) |
 | SX-1: Defender Line | 78897 | [78897-sx-1-defender-line.json](./78897-sx-1-defender-line.json) |
 | SXPD: Extreme Pursuit Force | 61525 | [61525-sxpd-extreme-pursuit-force.json](./61525-sxpd-extreme-pursuit-force.json) |
+| Sybaritic Extravaganza | 274298 | [274298-sybaritic-extravaganza.json](./274298-sybaritic-extravaganza.json) |
 | Syberia 3: An Automaton with a Plan | 150905 | [150905-syberia-3-an-automaton-with-a-plan.json](./150905-syberia-3-an-automaton-with-a-plan.json) |
 | Syberia 3: Deluxe Edition | 53697 | [53697-syberia-3-deluxe-edition.json](./53697-syberia-3-deluxe-edition.json) |
 | Syberia 3: The Complete Journey | 124797 | [124797-syberia-3-the-complete-journey.json](./124797-syberia-3-the-complete-journey.json) |
