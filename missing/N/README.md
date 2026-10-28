@@ -3012,6 +3012,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Warriors | 39033 | [39033-new-york-warriors.json](./39033-new-york-warriors.json) |
 | New York! New York! | 40379 | [40379-new-york-new-york.json](./40379-new-york-new-york.json) |
 | New Zealand Jigsaw Puzzles | 274766 | [274766-new-zealand-jigsaw-puzzles.json](./274766-new-zealand-jigsaw-puzzles.json) |
+| New Zealand Jigsaw Puzzles: Expansion Pack 2 | 276568 | [276568-new-zealand-jigsaw-puzzles-expansion-pack-2.json](./276568-new-zealand-jigsaw-puzzles-expansion-pack-2.json) |
+| New Zealand Jigsaw Puzzles: Expansion Pack 3 | 276569 | [276569-new-zealand-jigsaw-puzzles-expansion-pack-3.json](./276569-new-zealand-jigsaw-puzzles-expansion-pack-3.json) |
 | New Zelda | 270386 | [270386-new-zelda.json](./270386-new-zelda.json) |
 | New Zombie | 274473 | [274473-new-zombie.json](./274473-new-zombie.json) |
 | New! SMW2 Yoshi's Island | 186135 | [186135-new-smw2-yoshis-island.json](./186135-new-smw2-yoshis-island.json) |
