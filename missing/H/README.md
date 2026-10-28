@@ -3985,6 +3985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellvivors | 217317 | [217317-hellvivors.json](./217317-hellvivors.json) |
 | Hellwalker: Gremory | 389667 | [389667-hellwalker-gremory.json](./389667-hellwalker-gremory.json) |
 | Hellway | 112693 | [112693-hellway.json](./112693-hellway.json) |
+| Hellway | 269165 | [269165-hellway.json](./269165-hellway.json) |
 | Hellway to Hell | 213841 | [213841-hellway-to-hell.json](./213841-hellway-to-hell.json) |
 | Hellwomb | 150138 | [150138-hellwomb.json](./150138-hellwomb.json) |
 | Hellworld! | 173183 | [173183-hellworld.json](./173183-hellworld.json) |
@@ -6124,6 +6125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Mystery Place | 218413 | [218413-hidden-object-mystery-place.json](./218413-hidden-object-mystery-place.json) |
 | Hidden Object: Mystique Elves | 83623 | [83623-hidden-object-mystique-elves.json](./83623-hidden-object-mystique-elves.json) |
 | Hidden Object: Nether Worlds | 98585 | [98585-hidden-object-nether-worlds.json](./98585-hidden-object-nether-worlds.json) |
+| Hidden Object: NYC Detective Horror Story - Gold Version | 268832 | [268832-hidden-object-nyc-detective-horror-story-gold-version.json](./268832-hidden-object-nyc-detective-horror-story-gold-version.json) |
 | Hidden Object: Party 2015 | 98346 | [98346-hidden-object-party-2015.json](./98346-hidden-object-party-2015.json) |
 | Hidden Object: Pot O' Gold | 98589 | [98589-hidden-object-pot-o-gold.json](./98589-hidden-object-pot-o-gold.json) |
 | Hidden Object: Princess Cinderella | 98389 | [98389-hidden-object-princess-cinderella.json](./98389-hidden-object-princess-cinderella.json) |
@@ -7036,6 +7038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hissatsu Pachinko Station: Monster House Special | 58317 | [58317-hissatsu-pachinko-station-monster-house-special.json](./58317-hissatsu-pachinko-station-monster-house-special.json) |
 | Hissatsu Shaolin-ji | 385747 | [385747-hissatsu-shaolin-ji.json](./385747-hissatsu-shaolin-ji.json) |
 | Hissatsu Ura-Kagyou | 332643 | [332643-hissatsu-ura-kagyou.json](./332643-hissatsu-ura-kagyou.json) |
+| Hissatsu! | 269158 | [269158-hissatsu.json](./269158-hissatsu.json) |
 | Hisshou 777 Fighter: Pachi-Slot Ryuuguu Densetsu | 60509 | [60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json](./60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json) |
 | Hisshou Pachinko * Pachi-Slot Kouryoku Series Vol. 3: CR Marilyn Monroe | 61580 | [61580-hisshou-pachinko-pachi-slot-kouryoku-series-vol-3-cr-marilyn-monroe.json](./61580-hisshou-pachinko-pachi-slot-kouryoku-series-vol-3-cr-marilyn-monroe.json) |
 | Hisshou Pachinko * Pachi-Slot Kouryoku Series Vol. 4: CR Ashita ga Arusa, Yoshimoto World | 61579 | [61579-hisshou-pachinko-pachi-slot-kouryoku-series-vol-4-cr-ashita-ga-arusa-yoshimoto-world.json](./61579-hisshou-pachinko-pachi-slot-kouryoku-series-vol-4-cr-ashita-ga-arusa-yoshimoto-world.json) |
