@@ -3959,6 +3959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rei Galo TD | 289254 | [289254-rei-galo-td.json](./289254-rei-galo-td.json) |
 | Rei, the Drifter Girl | 82693 | [82693-rei-the-drifter-girl.json](./82693-rei-the-drifter-girl.json) |
 | Rei: A Girl With Wings | 291393 | [291393-rei-a-girl-with-wings.json](./291393-rei-a-girl-with-wings.json) |
+| Reichskanzlei | 273195 | [273195-reichskanzlei.json](./273195-reichskanzlei.json) |
 | Reid's Secret Date | 386099 | [386099-reids-secret-date.json](./386099-reids-secret-date.json) |
 | Reigen Doushi | 215135 | [215135-reigen-doushi.json](./215135-reigen-doushi.json) |
 | Reigen Doushi: Kyonshii Horror Daisensou | 385786 | [385786-reigen-doushi-kyonshii-horror-daisensou.json](./385786-reigen-doushi-kyonshii-horror-daisensou.json) |
