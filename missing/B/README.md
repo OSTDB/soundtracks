@@ -836,7 +836,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1600,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baltron | 48588 | [48588-baltron.json](./48588-baltron.json) |
 | Baluba-louk no Densetsu | 40013 | [40013-baluba-louk-no-densetsu.json](./40013-baluba-louk-no-densetsu.json) |
 | Baluno | 297780 | [297780-baluno.json](./297780-baluno.json) |
+| Balvenie's Birthday Party | 267519 | [267519-balvenies-birthday-party.json](./267519-balvenies-birthday-party.json) |
 | BAM | 271386 | [271386-bam.json](./271386-bam.json) |
 | Bam 'N Jam | 61547 | [61547-bam-n-jam.json](./61547-bam-n-jam.json) |
 | Bam Ball | 415010 | [415010-bam-ball.json](./415010-bam-ball.json) |
@@ -6946,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingiman: Trap Ochido | 189130 | [189130-bingiman-trap-ochido.json](./189130-bingiman-trap-ochido.json) |
 | Bingle Bingle | 283995 | [283995-bingle-bingle.json](./283995-bingle-bingle.json) |
 | Bingo | 206142 | [206142-bingo.json](./206142-bingo.json) |
+| Bingo | 267209 | [267209-bingo.json](./267209-bingo.json) |
 | Bingo | 86064 | [86064-bingo.json](./86064-bingo.json) |
 | Bingo 75 | 22429 | [22429-bingo-75.json](./22429-bingo-75.json) |
 | Bingo Bay | 239123 | [239123-bingo-bay.json](./239123-bingo-bay.json) |
@@ -10421,6 +10422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob's Cat Challenge | 115441 | [115441-bobs-cat-challenge.json](./115441-bobs-cat-challenge.json) |
 | Bob's Fears | 381283 | [381283-bobs-fears.json](./381283-bobs-fears.json) |
 | Bob's Full House | 13416 | [13416-bobs-full-house.json](./13416-bobs-full-house.json) |
+| Bob's Mansion | 267490 | [267490-bobs-mansion.json](./267490-bobs-mansion.json) |
 | Boba | 177569 | [177569-boba.json](./177569-boba.json) |
 | Boba | 239588 | [239588-boba.json](./239588-boba.json) |
 | Boba | 355857 | [355857-boba.json](./355857-boba.json) |
