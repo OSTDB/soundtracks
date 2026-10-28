@@ -3206,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in Odyssey and the Treasure of the Incas | 80366 | [80366-adventures-in-odyssey-and-the-treasure-of-the-incas.json](./80366-adventures-in-odyssey-and-the-treasure-of-the-incas.json) |
 | Adventures in Odyssey! Answer That! | 66070 | [66070-adventures-in-odyssey-answer-that.json](./66070-adventures-in-odyssey-answer-that.json) |
 | Adventures in Odyssey! The Sword of the Spirit | 66066 | [66066-adventures-in-odyssey-the-sword-of-the-spirit.json](./66066-adventures-in-odyssey-the-sword-of-the-spirit.json) |
+| Adventures in the Desert Country: Al and the Underground Labyrinth | 269944 | [269944-adventures-in-the-desert-country-al-and-the-underground-labyrinth.json](./269944-adventures-in-the-desert-country-al-and-the-underground-labyrinth.json) |
 | Adventures in the Dimension of Insidual Cruelitude. | 218996 | [218996-adventures-in-the-dimension-of-insidual-cruelitude.json](./218996-adventures-in-the-dimension-of-insidual-cruelitude.json) |
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
@@ -3791,6 +3792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AfterM.A.T.H. | 324276 | [324276-afterm-a-t-h.json](./324276-afterm-a-t-h.json) |
 | Aftermath | 183600 | [183600-aftermath.json](./183600-aftermath.json) |
 | Aftermath | 215776 | [215776-aftermath.json](./215776-aftermath.json) |
+| Aftermath | 269957 | [269957-aftermath.json](./269957-aftermath.json) |
 | Aftermath | 35770 | [35770-aftermath.json](./35770-aftermath.json) |
 | Aftermath | 380111 | [380111-aftermath.json](./380111-aftermath.json) |
 | Aftermath | 79071 | [79071-aftermath.json](./79071-aftermath.json) |
@@ -6917,6 +6919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaemi: Longing for you | 206335 | [206335-amaemi-longing-for-you.json](./206335-amaemi-longing-for-you.json) |
 | Amagami Chotto Omake Gekijou | 345602 | [345602-amagami-chotto-omake-gekijou.json](./345602-amagami-chotto-omake-gekijou.json) |
 | Amagami GS | 345603 | [345603-amagami-gs.json](./345603-amagami-gs.json) |
+| Amagami Mario Kart | 269949 | [269949-amagami-mario-kart.json](./269949-amagami-mario-kart.json) |
 | Amagi Shien | 45443 | [45443-amagi-shien.json](./45443-amagi-shien.json) |
 | Amaginu Kanojo: Side A | 369142 | [369142-amaginu-kanojo-side-a.json](./369142-amaginu-kanojo-side-a.json) |
 | Amaginu Kanojo: Side B | 369143 | [369143-amaginu-kanojo-side-b.json](./369143-amaginu-kanojo-side-b.json) |
