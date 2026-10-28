@@ -2346,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maline | 342141 | [342141-maline.json](./342141-maline.json) |
 | Maliya | 58721 | [58721-maliya.json](./58721-maliya.json) |
 | Malkari | 71326 | [71326-malkari.json](./71326-malkari.json) |
+| Malkin | 265816 | [265816-malkin.json](./265816-malkin.json) |
 | Malkin: The Cairn and the Crossroads | 285449 | [285449-malkin-the-cairn-and-the-crossroads.json](./285449-malkin-the-cairn-and-the-crossroads.json) |
 | Malkyrs: Arenas of Eternity | 74365 | [74365-malkyrs-arenas-of-eternity.json](./74365-malkyrs-arenas-of-eternity.json) |
 | Mall Control | 358898 | [358898-mall-control.json](./358898-mall-control.json) |
@@ -18955,6 +18956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth of Mist: Legacy | 167766 | [167766-myth-of-mist-legacy.json](./167766-myth-of-mist-legacy.json) |
 | Myth of Valderit | 386842 | [386842-myth-of-valderit.json](./386842-myth-of-valderit.json) |
 | Myth of Yggdrasil | 383741 | [383741-myth-of-yggdrasil.json](./383741-myth-of-yggdrasil.json) |
+| Myth or Reality: Mystery of the Lake - Collector's Edition | 265794 | [265794-myth-or-reality-mystery-of-the-lake-collectors-edition.json](./265794-myth-or-reality-mystery-of-the-lake-collectors-edition.json) |
 | Myth or Reality: Mystery of the Lake DLC | 268997 | [268997-myth-or-reality-mystery-of-the-lake-dlc.json](./268997-myth-or-reality-mystery-of-the-lake-dlc.json) |
 | Myth or Reality: Snowbound Secrets - Collector's Edition | 337277 | [337277-myth-or-reality-snowbound-secrets-collectors-edition.json](./337277-myth-or-reality-snowbound-secrets-collectors-edition.json) |
 | Myth Survivor | 337642 | [337642-myth-survivor.json](./337642-myth-survivor.json) |
