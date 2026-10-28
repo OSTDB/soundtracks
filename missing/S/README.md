@@ -9599,6 +9599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simply Minesweeper | 85369 | [85369-simply-minesweeper.json](./85369-simply-minesweeper.json) |
 | Simply Parkour | 169742 | [169742-simply-parkour.json](./169742-simply-parkour.json) |
 | Simply Phobos | 275265 | [275265-simply-phobos.json](./275265-simply-phobos.json) |
+| Simply Purple | 252337 | [252337-simply-purple.json](./252337-simply-purple.json) |
 | Simply Puzzles: Codewords | 163424 | [163424-simply-puzzles-codewords.json](./163424-simply-puzzles-codewords.json) |
 | Simply Rotate | 285482 | [285482-simply-rotate.json](./285482-simply-rotate.json) |
 | Simply Snakes | 300833 | [300833-simply-snakes.json](./300833-simply-snakes.json) |
@@ -10980,6 +10981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyFactory 4 | 204695 | [204695-skyfactory-4.json](./204695-skyfactory-4.json) |
 | Skyfall | 50514 | [50514-skyfall.json](./50514-skyfall.json) |
 | Skyfall Chasers | 219811 | [219811-skyfall-chasers.json](./219811-skyfall-chasers.json) |
+| SkyFall Slime: Freefall Feast | 252309 | [252309-skyfall-slime-freefall-feast.json](./252309-skyfall-slime-freefall-feast.json) |
 | Skyfarm | 316602 | [316602-skyfarm.json](./316602-skyfarm.json) |
 | Skyfear | 116976 | [116976-skyfear.json](./116976-skyfear.json) |
 | Skyfighter Arcade | 233632 | [233632-skyfighter-arcade.json](./233632-skyfighter-arcade.json) |
@@ -22019,6 +22021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Scramble | 263077 | [263077-starship-scramble.json](./263077-starship-scramble.json) |
 | Starship Showdown: Galactic Grand Prix | 283223 | [283223-starship-showdown-galactic-grand-prix.json](./283223-starship-showdown-galactic-grand-prix.json) |
 | Starship Survivor | 193288 | [193288-starship-survivor.json](./193288-starship-survivor.json) |
+| Starship Survivor | 252310 | [252310-starship-survivor.json](./252310-starship-survivor.json) |
 | Starship Survivor | 30399 | [30399-starship-survivor.json](./30399-starship-survivor.json) |
 | Starship Theory | 36962 | [36962-starship-theory.json](./36962-starship-theory.json) |
 | Starship Titanic | 1362 | [1362-starship-titanic.json](./1362-starship-titanic.json) |
@@ -24820,6 +24823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Kids | 48235 | [48235-stunt-kids.json](./48235-stunt-kids.json) |
 | Stunt Legends | 219583 | [219583-stunt-legends.json](./219583-stunt-legends.json) |
 | Stunt Master | 337190 | [337190-stunt-master.json](./337190-stunt-master.json) |
+| Stunt Paradise | 251949 | [251949-stunt-paradise.json](./251949-stunt-paradise.json) |
 | Stunt Paradise 2 | 389435 | [389435-stunt-paradise-2.json](./389435-stunt-paradise-2.json) |
 | Stunt Race | 395000 | [395000-stunt-race.json](./395000-stunt-race.json) |
 | Stunt Race FX | 28509 | [28509-stunt-race-fx.json](./28509-stunt-race-fx.json) |
@@ -26931,6 +26935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hiking Simulator 2020: Puzzles | 163422 | [163422-super-hiking-simulator-2020-puzzles.json](./163422-super-hiking-simulator-2020-puzzles.json) |
 | Super Hind | 44475 | [44475-super-hind.json](./44475-super-hind.json) |
 | Super Hipster Lumberjack | 34800 | [34800-super-hipster-lumberjack.json](./34800-super-hipster-lumberjack.json) |
+| Super Hit Baseball | 252312 | [252312-super-hit-baseball.json](./252312-super-hit-baseball.json) |
 | Super Hockey '94 | 38193 | [38193-super-hockey-94.json](./38193-super-hockey-94.json) |
 | Super Hockey Ball | 109642 | [109642-super-hockey-ball.json](./109642-super-hockey-ball.json) |
 | Super Holo Wars | 394807 | [394807-super-holo-wars.json](./394807-super-holo-wars.json) |
@@ -30005,6 +30010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swappy World | 276973 | [276973-swappy-world.json](./276973-swappy-world.json) |
 | SwapQuest | 23483 | [23483-swapquest.json](./23483-swapquest.json) |
 | Swaps and Traps | 72360 | [72360-swaps-and-traps.json](./72360-swaps-and-traps.json) |
+| Swapshot | 251951 | [251951-swapshot.json](./251951-swapshot.json) |
 | SwapStar | 252394 | [252394-swapstar.json](./252394-swapstar.json) |
 | SwapTales: Leon! | 116439 | [116439-swaptales-leon.json](./116439-swaptales-leon.json) |
 | SwapTiles | 100664 | [100664-swaptiles.json](./100664-swaptiles.json) |
@@ -30449,6 +30455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipe 3 | 256245 | [256245-swipe-3.json](./256245-swipe-3.json) |
 | Swipe Brick Breaker | 233415 | [233415-swipe-brick-breaker.json](./233415-swipe-brick-breaker.json) |
 | Swipe Casters | 87732 | [87732-swipe-casters.json](./87732-swipe-casters.json) |
+| Swipe Manager: Soccer 2018 | 252313 | [252313-swipe-manager-soccer-2018.json](./252313-swipe-manager-soccer-2018.json) |
 | Swipe Quest | 53695 | [53695-swipe-quest.json](./53695-swipe-quest.json) |
 | Swipe Soccer | 92520 | [92520-swipe-soccer.json](./92520-swipe-soccer.json) |
 | Swipe Stream | 343195 | [343195-swipe-stream.json](./343195-swipe-stream.json) |
@@ -30500,6 +30507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switchblade | 68106 | [68106-switchblade.json](./68106-switchblade.json) |
 | Switchblade II | 12369 | [12369-switchblade-ii.json](./12369-switchblade-ii.json) |
 | Switchblade II | 126452 | [126452-switchblade-ii.json](./126452-switchblade-ii.json) |
+| Switchblade: Epic Pack | 252187 | [252187-switchblade-epic-pack.json](./252187-switchblade-epic-pack.json) |
 | Switchboard | 234052 | [234052-switchboard.json](./234052-switchboard.json) |
 | Switchboard Copper | 184293 | [184293-switchboard-copper.json](./184293-switchboard-copper.json) |
 | Switchboard Heights | 145917 | [145917-switchboard-heights.json](./145917-switchboard-heights.json) |
