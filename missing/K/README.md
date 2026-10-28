@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaamos | 322683 | [322683-kaamos.json](./322683-kaamos.json) |
 | Kaapelipeli: The Cable Game | 138260 | [138260-kaapelipeli-the-cable-game.json](./138260-kaapelipeli-the-cable-game.json) |
 | Kaardik | 253500 | [253500-kaardik.json](./253500-kaardik.json) |
+| Kabama | 243306 | [243306-kabama.json](./243306-kabama.json) |
 | Kabaneri of the Iron Fortress: Ran - Hajimaru Michiato | 89983 | [89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json](./89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json) |
 | Kabe wo Norikoete | 206562 | [206562-kabe-wo-norikoete.json](./206562-kabe-wo-norikoete.json) |
 | Kabedon Kareshi: Manatsu no Charao | 240227 | [240227-kabedon-kareshi-manatsu-no-charao.json](./240227-kabedon-kareshi-manatsu-no-charao.json) |
@@ -2607,6 +2608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Erik | 112725 | [112725-king-erik.json](./112725-king-erik.json) |
 | King Exit | 63715 | [63715-king-exit.json](./63715-king-exit.json) |
 | King Fishing | 236727 | [236727-king-fishing.json](./236727-king-fishing.json) |
+| King Flames | 243848 | [243848-king-flames.json](./243848-king-flames.json) |
 | King Flappy | 97460 | [97460-king-flappy.json](./97460-king-flappy.json) |
 | King For a Week | 397373 | [397373-king-for-a-week.json](./397373-king-for-a-week.json) |
 | King God Castle | 203220 | [203220-king-god-castle.json](./203220-king-god-castle.json) |
@@ -3173,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinnikuman II: Tatakae! Ramenman | 346032 | [346032-kinnikuman-ii-tatakae-ramenman.json](./346032-kinnikuman-ii-tatakae-ramenman.json) |
 | Kinnikuman III: Ougon no Mask-hen | 346034 | [346034-kinnikuman-iii-ougon-no-mask-hen.json](./346034-kinnikuman-iii-ougon-no-mask-hen.json) |
 | Kinnikuman Muscle Grand Prix Max | 66662 | [66662-kinnikuman-muscle-grand-prix-max.json](./66662-kinnikuman-muscle-grand-prix-max.json) |
+| Kinnikuman Muscle Grand Prix Max 2: Tokumori | 242912 | [242912-kinnikuman-muscle-grand-prix-max-2-tokumori.json](./242912-kinnikuman-muscle-grand-prix-max-2-tokumori.json) |
 | Kinnikuman Muscle Grand Prix Max 2: Tokumori | 65999 | [65999-kinnikuman-muscle-grand-prix-max-2-tokumori.json](./65999-kinnikuman-muscle-grand-prix-max-2-tokumori.json) |
 | Kinnikuman Nisei: Choujin Seisenshi | 37366 | [37366-kinnikuman-nisei-choujin-seisenshi.json](./37366-kinnikuman-nisei-choujin-seisenshi.json) |
 | Kinnikuman Nisei: Dream Tag Match | 37365 | [37365-kinnikuman-nisei-dream-tag-match.json](./37365-kinnikuman-nisei-dream-tag-match.json) |
@@ -3222,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kira and the Life Stone | 170901 | [170901-kira-and-the-life-stone.json](./170901-kira-and-the-life-stone.json) |
 | Kira Kira | 125163 | [125163-kira-kira.json](./125163-kira-kira.json) |
 | Kira Kira | 140523 | [140523-kira-kira.json](./140523-kira-kira.json) |
+| Kira Kira Aso BD | 242909 | [242909-kira-kira-aso-bd.json](./242909-kira-kira-aso-bd.json) |
 | Kira Kira Curtain Call | 125740 | [125740-kira-kira-curtain-call.json](./125740-kira-kira-curtain-call.json) |
 | Kira Kira Magical Stars | 298966 | [298966-kira-kira-magical-stars.json](./298966-kira-kira-magical-stars.json) |
 | Kira Kira Pop Princess | 26560 | [26560-kira-kira-pop-princess.json](./26560-kira-kira-pop-princess.json) |
