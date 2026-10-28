@@ -6527,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Ninja | 146611 | [146611-shattered-ninja.json](./146611-shattered-ninja.json) |
 | Shattered Origins: Guardians of Unity | 47035 | [47035-shattered-origins-guardians-of-unity.json](./47035-shattered-origins-guardians-of-unity.json) |
 | Shattered Palace | 312902 | [312902-shattered-palace.json](./312902-shattered-palace.json) |
+| Shattered Paradise | 268084 | [268084-shattered-paradise.json](./268084-shattered-paradise.json) |
 | Shattered Paradise | 387019 | [387019-shattered-paradise.json](./387019-shattered-paradise.json) |
 | Shattered Pixel Dungeon | 130394 | [130394-shattered-pixel-dungeon.json](./130394-shattered-pixel-dungeon.json) |
 | Shattered Plains | 279164 | [279164-shattered-plains.json](./279164-shattered-plains.json) |
@@ -7022,6 +7023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikigami no Shiro EX & II Pack | 64332 | [64332-shikigami-no-shiro-ex-and-ii-pack.json](./64332-shikigami-no-shiro-ex-and-ii-pack.json) |
 | Shikinjoh | 231545 | [231545-shikinjoh.json](./231545-shikinjoh.json) |
 | Shikinjou | 231346 | [231346-shikinjou.json](./231346-shikinjou.json) |
+| Shikinjou | 267756 | [267756-shikinjou.json](./267756-shikinjou.json) |
 | Shikisai Kankaku Test Art na Kyouyou Nou-tre Joushiki IQ Check | 254927 | [254927-shikisai-kankaku-test-art-na-kyouyou-nou-tre-joushiki-iq-check.json](./254927-shikisai-kankaku-test-art-na-kyouyou-nou-tre-joushiki-iq-check.json) |
 | Shikkoku no Sharnoth: What a beautiful tomorrow | 186285 | [186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json](./186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json) |
 | Shikoku Kororozashi Deluxe: Sake Jidori Udon Senki | 163760 | [163760-shikoku-kororozashi-deluxe-sake-jidori-udon-senki.json](./163760-shikoku-kororozashi-deluxe-sake-jidori-udon-senki.json) |
@@ -9889,6 +9891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SinxHolic | 219141 | [219141-sinxholic.json](./219141-sinxholic.json) |
 | Sinyaya Boroda | 387015 | [387015-sinyaya-boroda.json](./387015-sinyaya-boroda.json) |
 | Sio and Mysterious Forest | 122214 | [122214-sio-and-mysterious-forest.json](./122214-sio-and-mysterious-forest.json) |
+| Sion II | 267765 | [267765-sion-ii.json](./267765-sion-ii.json) |
 | Sionan | 230260 | [230260-sionan.json](./230260-sionan.json) |
 | Sionic Love | 399711 | [399711-sionic-love.json](./399711-sionic-love.json) |
 | Sip Fisher | 346401 | [346401-sip-fisher.json](./346401-sip-fisher.json) |
@@ -14526,6 +14529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son Son II | 37689 | [37689-son-son-ii.json](./37689-son-son-ii.json) |
 | Sonafleki | 393153 | [393153-sonafleki.json](./393153-sonafleki.json) |
 | Sonak | 356648 | [356648-sonak.json](./356648-sonak.json) |
+| Sonar | 268046 | [268046-sonar.json](./268046-sonar.json) |
 | Sonar | 418276 | [418276-sonar.json](./418276-sonar.json) |
 | Sonar Beat | 113841 | [113841-sonar-beat.json](./113841-sonar-beat.json) |
 | Sonar Scout | 319043 | [319043-sonar-scout.json](./319043-sonar-scout.json) |
@@ -19079,6 +19083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spleen | 419990 | [419990-spleen.json](./419990-spleen.json) |
 | Splendor & Misery | 385439 | [385439-splendor-and-misery.json](./385439-splendor-and-misery.json) |
 | Splendor Blast | 40164 | [40164-splendor-blast.json](./40164-splendor-blast.json) |
+| Splendor Blast II | 267759 | [267759-splendor-blast-ii.json](./267759-splendor-blast-ii.json) |
 | Splendor: The Cities | 162870 | [162870-splendor-the-cities.json](./162870-splendor-the-cities.json) |
 | Splendor: The Strongholds | 172174 | [172174-splendor-the-strongholds.json](./172174-splendor-the-strongholds.json) |
 | Splett | 342660 | [342660-splett.json](./342660-splett.json) |
@@ -25164,6 +25169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku | 263395 | [263395-sudoku.json](./263395-sudoku.json) |
 | Sudoku | 264458 | [264458-sudoku.json](./264458-sudoku.json) |
 | Sudoku | 267544 | [267544-sudoku.json](./267544-sudoku.json) |
+| Sudoku | 268048 | [268048-sudoku.json](./268048-sudoku.json) |
 | Sudoku | 337482 | [337482-sudoku.json](./337482-sudoku.json) |
 | Sudoku | 386771 | [386771-sudoku.json](./386771-sudoku.json) |
 | Sudoku | 397667 | [397667-sudoku.json](./397667-sudoku.json) |
@@ -26675,6 +26681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fowlst 2 | 147611 | [147611-super-fowlst-2.json](./147611-super-fowlst-2.json) |
 | Super Fox 2 | 146920 | [146920-super-fox-2.json](./146920-super-fox-2.json) |
 | Super Freaks 1 Remastered | 266873 | [266873-super-freaks-1-remastered.json](./266873-super-freaks-1-remastered.json) |
+| Super Freaks 1: Ultimate Edition | 268057 | [268057-super-freaks-1-ultimate-edition.json](./268057-super-freaks-1-ultimate-edition.json) |
 | Super Friends Party | 117779 | [117779-super-friends-party.json](./117779-super-friends-party.json) |
 | Super Frog | 80840 | [80840-super-frog.json](./80840-super-frog.json) |
 | Super Frog's Quest | 108410 | [108410-super-frogs-quest.json](./108410-super-frogs-quest.json) |
