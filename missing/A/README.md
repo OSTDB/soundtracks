@@ -2880,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advance Wars | 236813 | [236813-advance-wars.json](./236813-advance-wars.json) |
 | Advance Wars 1+2: Re-Boot Camp | 152360 | [152360-advance-wars-1-2-re-boot-camp.json](./152360-advance-wars-1-2-re-boot-camp.json) |
 | Advance Wars 2: Black Hole Rising | 236815 | [236815-advance-wars-2-black-hole-rising.json](./236815-advance-wars-2-black-hole-rising.json) |
+| Advance Wars by Web | 251128 | [251128-advance-wars-by-web.json](./251128-advance-wars-by-web.json) |
 | Advance Wars: Days of Ruin | 1694 | [1694-advance-wars-days-of-ruin.json](./1694-advance-wars-days-of-ruin.json) |
 | Advance Wars: Dual Strike | 1693 | [1693-advance-wars-dual-strike.json](./1693-advance-wars-dual-strike.json) |
 | Advance, Fish! | 379476 | [379476-advance-fish.json](./379476-advance-fish.json) |
@@ -3747,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Storm | 263979 | [263979-after-the-storm.json](./263979-after-the-storm.json) |
 | After the Stream Went Dark | 396010 | [396010-after-the-stream-went-dark.json](./396010-after-the-stream-went-dark.json) |
 | After the Suns | 119533 | [119533-after-the-suns.json](./119533-after-the-suns.json) |
+| After the Turn | 249823 | [249823-after-the-turn.json](./249823-after-the-turn.json) |
 | After the Wane | 387356 | [387356-after-the-wane.json](./387356-after-the-wane.json) |
 | After the War | 5713 | [5713-after-the-war.json](./5713-after-the-war.json) |
 | After University | 263980 | [263980-after-university.json](./263980-after-university.json) |
@@ -3879,6 +3881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against the Wall | 63004 | [63004-against-the-wall.json](./63004-against-the-wall.json) |
 | Against the Will of a Chainsaw | 207132 | [207132-against-the-will-of-a-chainsaw.json](./207132-against-the-will-of-a-chainsaw.json) |
 | Against Twilight | 349927 | [349927-against-twilight.json](./349927-against-twilight.json) |
+| Against War: Medieval | 250410 | [250410-against-war-medieval.json](./250410-against-war-medieval.json) |
 | Against Wokou Frontline | 389992 | [389992-against-wokou-frontline.json](./389992-against-wokou-frontline.json) |
 | Agalta | 372558 | [372558-agalta.json](./372558-agalta.json) |
 | Agalta 3 | 372562 | [372562-agalta-3.json](./372562-agalta-3.json) |
@@ -9021,6 +9024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aniquilation | 132152 | [132152-aniquilation.json](./132152-aniquilation.json) |
 | Aniquiz | 409619 | [409619-aniquiz.json](./409619-aniquiz.json) |
 | Anise Flowers | 185129 | [185129-anise-flowers.json](./185129-anise-flowers.json) |
+| Anisto | 249941 | [249941-anisto.json](./249941-anisto.json) |
 | Anita's Camp | 310539 | [310539-anitas-camp.json](./310539-anitas-camp.json) |
 | Anita's Job | 310538 | [310538-anitas-job.json](./310538-anitas-job.json) |
 | Anito: Defend A Land Enraged | 24106 | [24106-anito-defend-a-land-enraged.json](./24106-anito-defend-a-land-enraged.json) |
@@ -9143,6 +9147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Efficiency Masters Bundle | 317368 | [317368-anno-1800-efficiency-masters-bundle.json](./317368-anno-1800-efficiency-masters-bundle.json) |
 | Anno 1800: Eldritch Pack | 274724 | [274724-anno-1800-eldritch-pack.json](./274724-anno-1800-eldritch-pack.json) |
 | Anno 1800: Empire of the Skies | 197350 | [197350-anno-1800-empire-of-the-skies.json](./197350-anno-1800-empire-of-the-skies.json) |
+| Anno 1800: Fiesta Pack | 250542 | [250542-anno-1800-fiesta-pack.json](./250542-anno-1800-fiesta-pack.json) |
 | Anno 1800: Gold Edition | 273340 | [273340-anno-1800-gold-edition.json](./273340-anno-1800-gold-edition.json) |
 | Anno 1800: Gold Edition Year 3 | 146136 | [146136-anno-1800-gold-edition-year-3.json](./146136-anno-1800-gold-edition-year-3.json) |
 | Anno 1800: Gold Edition Year 4 | 197662 | [197662-anno-1800-gold-edition-year-4.json](./197662-anno-1800-gold-edition-year-4.json) |
@@ -9666,6 +9671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antix | 15597 | [15597-antix.json](./15597-antix.json) |
 | Antixonix | 140493 | [140493-antixonix.json](./140493-antixonix.json) |
 | Antiyoy | 25554 | [25554-antiyoy.json](./25554-antiyoy.json) |
+| Antkeep | 249825 | [249825-antkeep.json](./249825-antkeep.json) |
 | Antlion Soccer | 290348 | [290348-antlion-soccer.json](./290348-antlion-soccer.json) |
 | Antlions Everywhere | 268034 | [268034-antlions-everywhere.json](./268034-antlions-everywhere.json) |
 | AntMe! | 138000 | [138000-antme.json](./138000-antme.json) |
