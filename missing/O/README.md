@@ -3628,6 +3628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origin Space | 52281 | [52281-origin-space.json](./52281-origin-space.json) |
 | Original Frisbee Disc Sports: Ultimate & Golf | 21449 | [21449-original-frisbee-disc-sports-ultimate-and-golf.json](./21449-original-frisbee-disc-sports-ultimate-and-golf.json) |
 | Original Journey | 40968 | [40968-original-journey.json](./40968-original-journey.json) |
+| Original Soul | 265783 | [265783-original-soul.json](./265783-original-soul.json) |
 | Original Story from Fairy Tail: Gekitotsu! Kardia Daiseidou | 80340 | [80340-original-story-from-fairy-tail-gekitotsu-kardia-daiseidou.json](./80340-original-story-from-fairy-tail-gekitotsu-kardia-daiseidou.json) |
 | Original Switch Color 2 | 90379 | [90379-original-switch-color-2.json](./90379-original-switch-color-2.json) |
 | Original War | 9538 | [9538-original-war.json](./9538-original-war.json) |
