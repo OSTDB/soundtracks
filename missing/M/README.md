@@ -2493,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man or Muppet | 204238 | [204238-man-or-muppet.json](./204238-man-or-muppet.json) |
 | Man or Vampire | 112264 | [112264-man-or-vampire.json](./112264-man-or-vampire.json) |
 | Man Overboard! | 242454 | [242454-man-overboard.json](./242454-man-overboard.json) |
+| Man Parts | 261925 | [261925-man-parts.json](./261925-man-parts.json) |
 | Man Sa Yarbah Al Malyoon | 301363 | [301363-man-sa-yarbah-al-malyoon.json](./301363-man-sa-yarbah-al-malyoon.json) |
 | Man Sa Yarbah Al Malyoon | 309210 | [309210-man-sa-yarbah-al-malyoon.json](./309210-man-sa-yarbah-al-malyoon.json) |
 | Man vs Machine | 150062 | [150062-man-vs-machine.json](./150062-man-vs-machine.json) |
@@ -6048,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medical Record Sheet | 253003 | [253003-medical-record-sheet.json](./253003-medical-record-sheet.json) |
 | Medical verdict | 107913 | [107913-medical-verdict.json](./107913-medical-verdict.json) |
 | Medicalat | 125780 | [125780-medicalat.json](./125780-medicalat.json) |
+| Medice To Arms | 261642 | [261642-medice-to-arms.json](./261642-medice-to-arms.json) |
 | Medicevil | 279121 | [279121-medicevil.json](./279121-medicevil.json) |
 | Medicinal Cuisine Master | 358480 | [358480-medicinal-cuisine-master.json](./358480-medicinal-cuisine-master.json) |
 | Medicinal Herbs: Cannabis Grow Simulator | 172149 | [172149-medicinal-herbs-cannabis-grow-simulator.json](./172149-medicinal-herbs-cannabis-grow-simulator.json) |
