@@ -7527,6 +7527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicing Knight. | 73157 | [73157-dicing-knight.json](./73157-dicing-knight.json) |
 | Dick and Dom's Hoopla! | 304208 | [304208-dick-and-doms-hoopla.json](./304208-dick-and-doms-hoopla.json) |
 | Dick Hook | 287901 | [287901-dick-hook.json](./287901-dick-hook.json) |
+| Dick Killer | 229870 | [229870-dick-killer.json](./229870-dick-killer.json) |
 | Dick Ranger | 207722 | [207722-dick-ranger.json](./207722-dick-ranger.json) |
 | Dick Richards | 185410 | [185410-dick-richards.json](./185410-dick-richards.json) |
 | Dick Ricko | 90227 | [90227-dick-ricko.json](./90227-dick-ricko.json) |
@@ -10179,6 +10180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggins | 61872 | [61872-doggins.json](./61872-doggins.json) |
 | Doggnation | 240032 | [240032-doggnation.json](./240032-doggnation.json) |
 | Doggo | 287098 | [287098-doggo.json](./287098-doggo.json) |
+| Doggo Dentist | 229896 | [229896-doggo-dentist.json](./229896-doggo-dentist.json) |
 | Doggo Dungeon | 174270 | [174270-doggo-dungeon.json](./174270-doggo-dungeon.json) |
 | Doggo Garden Defense | 246012 | [246012-doggo-garden-defense.json](./246012-doggo-garden-defense.json) |
 | Doggo Patrol | 223606 | [223606-doggo-patrol.json](./223606-doggo-patrol.json) |
@@ -11717,8 +11719,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Nobita's Resident Evil 2 | 238417 | [238417-doraemon-nobitas-resident-evil-2.json](./238417-doraemon-nobitas-resident-evil-2.json) |
 | Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai | 60545 | [60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json](./60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json) |
 | Doraemon: Yume Dorobou to 7-nin no Gozans | 45730 | [45730-doraemon-yume-dorobou-to-7-nin-no-gozans.json](./45730-doraemon-yume-dorobou-to-7-nin-no-gozans.json) |
+| Doraemontchi | 229868 | [229868-doraemontchi.json](./229868-doraemontchi.json) |
 | Doraijin | 129674 | [129674-doraijin.json](./129674-doraijin.json) |
 | DoraKone | 116849 | [116849-dorakone.json](./116849-dorakone.json) |
+| Doramitchi | 229869 | [229869-doramitchi.json](./229869-doramitchi.json) |
 | DoraMoji: Nobita no Kanji Daisakusen | 222467 | [222467-doramoji-nobita-no-kanji-daisakusen.json](./222467-doramoji-nobita-no-kanji-daisakusen.json) |
 | Dorapan | 66753 | [66753-dorapan.json](./66753-dorapan.json) |
 | DoraSlot: Bakuenchi! Kyojin no Hoshi II | 269492 | [269492-doraslot-bakuenchi-kyojin-no-hoshi-ii.json](./269492-doraslot-bakuenchi-kyojin-no-hoshi-ii.json) |
