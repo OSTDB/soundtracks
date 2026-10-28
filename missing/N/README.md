@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naraku | 291847 | [291847-naraku.json](./291847-naraku.json) |
 | Naraku no Shiro Ichiyanagi Nagomu, Nidome no Junan | 124636 | [124636-naraku-no-shiro-ichiyanagi-nagomu-nidome-no-junan.json](./124636-naraku-no-shiro-ichiyanagi-nagomu-nidome-no-junan.json) |
 | Narara Superboard: Hwansang Seoyugi | 145599 | [145599-narara-superboard-hwansang-seoyugi.json](./145599-narara-superboard-hwansang-seoyugi.json) |
+| Naratha | 272962 | [272962-naratha.json](./272962-naratha.json) |
 | Narava RPG | 277432 | [277432-narava-rpg.json](./277432-narava-rpg.json) |
 | Narazumono | 118027 | [118027-narazumono.json](./118027-narazumono.json) |
 | Narazumono Sentou Butai | 37671 | [37671-narazumono-sentou-butai.json](./37671-narazumono-sentou-butai.json) |
@@ -4932,6 +4933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No JetPacks For Chattini | 346015 | [346015-no-jetpacks-for-chattini.json](./346015-no-jetpacks-for-chattini.json) |
 | No Jokes With Mages | 392373 | [392373-no-jokes-with-mages.json](./392373-no-jokes-with-mages.json) |
 | No King No Kingdom | 75606 | [75606-no-king-no-kingdom.json](./75606-no-king-no-kingdom.json) |
+| No King No Kingdom II | 272964 | [272964-no-king-no-kingdom-ii.json](./272964-no-king-no-kingdom-ii.json) |
 | No King No Kingdom VR | 110684 | [110684-no-king-no-kingdom-vr.json](./110684-no-king-no-kingdom-vr.json) |
 | No Kings Tiny Defenders | 376455 | [376455-no-kings-tiny-defenders.json](./376455-no-kings-tiny-defenders.json) |
 | No Law | 381205 | [381205-no-law.json](./381205-no-law.json) |
@@ -5178,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No.13813 | 403923 | [403923-no-13813.json](./403923-no-13813.json) |
 | No.8 High School | 333506 | [333506-no-8-high-school.json](./333506-no-8-high-school.json) |
 | No.Break Brick | 244643 | [244643-no-break-brick.json](./244643-no-break-brick.json) |
+| No.HazedHeart | 272963 | [272963-no-hazedheart.json](./272963-no-hazedheart.json) |
 | No1Left | 34283 | [34283-no1left.json](./34283-no1left.json) |
 | No70: Eye of Basir | 35238 | [35238-no70-eye-of-basir.json](./35238-no70-eye-of-basir.json) |
 | Noa Noa! | 115029 | [115029-noa-noa.json](./115029-noa-noa.json) |
