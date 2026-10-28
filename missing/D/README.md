@@ -6388,7 +6388,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despair: Blood Curse | 153951 | [153951-despair-blood-curse.json](./153951-despair-blood-curse.json) |
 | Despatch: Entity Astray | 158062 | [158062-despatch-entity-astray.json](./158062-despatch-entity-astray.json) |
 | Despectum Drakone | 203952 | [203952-despectum-drakone.json](./203952-despectum-drakone.json) |
-| Despelote | 145070 | [145070-despelote.json](./145070-despelote.json) |
 | Desperabis | 121707 | [121707-desperabis.json](./121707-desperabis.json) |
 | Desperado 2 | 13590 | [13590-desperado-2.json](./13590-desperado-2.json) |
 | Desperados | 68252 | [68252-desperados.json](./68252-desperados.json) |
@@ -7722,7 +7721,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dogs: Streetbusters | 50160 | [50160-dig-dogs-streetbusters.json](./50160-dig-dogs-streetbusters.json) |
 | Dig Down | 368689 | [368689-dig-down.json](./368689-dig-down.json) |
 | Dig Dug | 218861 | [218861-dig-dug.json](./218861-dig-dug.json) |
-| Dig Dug | 218867 | [218867-dig-dug.json](./218867-dig-dug.json) |
 | Dig Dug Arrangement | 132160 | [132160-dig-dug-arrangement.json](./132160-dig-dug-arrangement.json) |
 | Dig Dug Arrangement | 178410 | [178410-dig-dug-arrangement.json](./178410-dig-dug-arrangement.json) |
 | Dig Dug Deeper | 2737 | [2737-dig-dug-deeper.json](./2737-dig-dug-deeper.json) |
