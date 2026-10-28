@@ -4150,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Filthy Hands | 90306 | [90306-filthy-hands.json](./90306-filthy-hands.json) |
 | Filthy Lucre | 19590 | [19590-filthy-lucre.json](./19590-filthy-lucre.json) |
 | Filthy Rich | 313881 | [313881-filthy-rich.json](./313881-filthy-rich.json) |
+| Filthy Us: Complete Edition | 274836 | [274836-filthy-us-complete-edition.json](./274836-filthy-us-complete-edition.json) |
 | Filtration | 372429 | [372429-filtration.json](./372429-filtration.json) |
 | FIM Speedway Grand Prix | 67678 | [67678-fim-speedway-grand-prix.json](./67678-fim-speedway-grand-prix.json) |
 | FIM Speedway Grand Prix 2 | 67677 | [67677-fim-speedway-grand-prix-2.json](./67677-fim-speedway-grand-prix-2.json) |
@@ -6111,6 +6112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Starless Rivers | 285438 | [285438-five-starless-rivers.json](./285438-five-starless-rivers.json) |
 | Five Stars | 233492 | [233492-five-stars.json](./233492-five-stars.json) |
 | Five Stars | 365870 | [365870-five-stars.json](./365870-five-stars.json) |
+| Five Toons at Night | 275150 | [275150-five-toons-at-night.json](./275150-five-toons-at-night.json) |
 | Five Tribes | 110051 | [110051-five-tribes.json](./110051-five-tribes.json) |
 | Five Unreal Nights at Candy's | 288853 | [288853-five-unreal-nights-at-candys.json](./288853-five-unreal-nights-at-candys.json) |
 | Five Worlds Escape | 315779 | [315779-five-worlds-escape.json](./315779-five-worlds-escape.json) |
@@ -9845,6 +9847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy Or Not | 396697 | [396697-freddy-or-not.json](./396697-freddy-or-not.json) |
 | Freddy Pharkas: Frontier Pharmacist | 110 | [110-freddy-pharkas-frontier-pharmacist.json](./110-freddy-pharkas-frontier-pharmacist.json) |
 | Freddy's Archives: Remains Of The Past | 253949 | [253949-freddys-archives-remains-of-the-past.json](./253949-freddys-archives-remains-of-the-past.json) |
+| Freddy's Job : Old Pizzeria | 275151 | [275151-freddys-job-old-pizzeria.json](./275151-freddys-job-old-pizzeria.json) |
 | Freddy's Journey | 104083 | [104083-freddys-journey.json](./104083-freddys-journey.json) |
 | Freddy's Pizza Parlor Survival | 245306 | [245306-freddys-pizza-parlor-survival.json](./245306-freddys-pizza-parlor-survival.json) |
 | Freddy's Rescue Roundup | 72088 | [72088-freddys-rescue-roundup.json](./72088-freddys-rescue-roundup.json) |
