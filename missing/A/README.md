@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Magical Tale: Revoke DX | 381603 | [381603-a-magical-tale-revoke-dx.json](./381603-a-magical-tale-revoke-dx.json) |
 | A Magnetic Adventure | 52368 | [52368-a-magnetic-adventure.json](./52368-a-magnetic-adventure.json) |
 | A Maiden's Serenade | 302680 | [302680-a-maidens-serenade.json](./302680-a-maidens-serenade.json) |
+| A Maldição da Vila Sinistra | 242124 | [242124-a-maldicao-da-vila-sinistra.json](./242124-a-maldicao-da-vila-sinistra.json) |
 | A Male Me Dressed up and Was Loved | 82878 | [82878-a-male-me-dressed-up-and-was-loved.json](./82878-a-male-me-dressed-up-and-was-loved.json) |
 | A Mallard's Song | 282087 | [282087-a-mallards-song.json](./282087-a-mallards-song.json) |
 | A Man with a Monocle | 25005 | [25005-a-man-with-a-monocle.json](./25005-a-man-with-a-monocle.json) |
@@ -1085,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Super Mario Thing | 278626 | [278626-a-super-mario-thing.json](./278626-a-super-mario-thing.json) |
 | A Superplanet Called KG | 374899 | [374899-a-superplanet-called-kg.json](./374899-a-superplanet-called-kg.json) |
 | A Surgery Beyond The Heart | 301231 | [301231-a-surgery-beyond-the-heart.json](./301231-a-surgery-beyond-the-heart.json) |
+| A Taça Mágica | 242127 | [242127-a-taca-magica.json](./242127-a-taca-magica.json) |
 | A Tag Knight | 196575 | [196575-a-tag-knight.json](./196575-a-tag-knight.json) |
 | A Tale About Flowers | 188501 | [188501-a-tale-about-flowers.json](./188501-a-tale-about-flowers.json) |
 | A Tale about Tail | 185079 | [185079-a-tale-about-tail.json](./185079-a-tale-about-tail.json) |
@@ -5963,6 +5965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Planet | 308337 | [308337-alien-planet.json](./308337-alien-planet.json) |
 | Alien Planet Bell | 302130 | [302130-alien-planet-bell.json](./302130-alien-planet-bell.json) |
 | Alien Planet Explorer | 147191 | [147191-alien-planet-explorer.json](./147191-alien-planet-explorer.json) |
+| Alien Planet Survival | 241779 | [241779-alien-planet-survival.json](./241779-alien-planet-survival.json) |
 | Alien Planet X64-2 | 270703 | [270703-alien-planet-x64-2.json](./270703-alien-planet-x64-2.json) |
 | Alien Poker | 270621 | [270621-alien-poker.json](./270621-alien-poker.json) |
 | Alien Prop Hunt | 190221 | [190221-alien-prop-hunt.json](./190221-alien-prop-hunt.json) |
@@ -8770,6 +8773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AnimalFruitTart | 369230 | [369230-animalfruittart.json](./369230-animalfruittart.json) |
 | Animalia | 216337 | [216337-animalia.json](./216337-animalia.json) |
 | Animalia | 268138 | [268138-animalia.json](./268138-animalia.json) |
+| Animalia Dreamland | 242150 | [242150-animalia-dreamland.json](./242150-animalia-dreamland.json) |
 | Animalia Education: Family | 104484 | [104484-animalia-education-family.json](./104484-animalia-education-family.json) |
 | Animalia Memories | 341141 | [341141-animalia-memories.json](./341141-animalia-memories.json) |
 | Animalia Survival | 167832 | [167832-animalia-survival.json](./167832-animalia-survival.json) |
@@ -9538,6 +9542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antartica | 400962 | [400962-antartica.json](./400962-antartica.json) |
 | AntarticaRoyale | 255284 | [255284-antarticaroyale.json](./255284-antarticaroyale.json) |
 | Antbear | 371561 | [371561-antbear.json](./371561-antbear.json) |
+| Antbuster | 242158 | [242158-antbuster.json](./242158-antbuster.json) |
 | AntCity | 318137 | [318137-antcity.json](./318137-antcity.json) |
 | Antcopter | 306036 | [306036-antcopter.json](./306036-antcopter.json) |
 | Ante | 148868 | [148868-ante.json](./148868-ante.json) |
@@ -11090,6 +11095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade ZX Collection: Anteater | 304195 | [304195-arcade-zx-collection-anteater.json](./304195-arcade-zx-collection-anteater.json) |
 | Arcade ZX Collection: Botanic | 304194 | [304194-arcade-zx-collection-botanic.json](./304194-arcade-zx-collection-botanic.json) |
 | Arcade ZX Collection: Tetris | 304193 | [304193-arcade-zx-collection-tetris.json](./304193-arcade-zx-collection-tetris.json) |
+| Arcade! Classic Arcade Pack | 242137 | [242137-arcade-classic-arcade-pack.json](./242137-arcade-classic-arcade-pack.json) |
 | Arcade's Greatest Hits: The Atari Collection 2 | 43925 | [43925-arcades-greatest-hits-the-atari-collection-2.json](./43925-arcades-greatest-hits-the-atari-collection-2.json) |
 | Arcade's Greatest Hits: The Midway Collection 2 | 43924 | [43924-arcades-greatest-hits-the-midway-collection-2.json](./43924-arcades-greatest-hits-the-midway-collection-2.json) |
 | Arcadebnb | 187220 | [187220-arcadebnb.json](./187220-arcadebnb.json) |
