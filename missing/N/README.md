@@ -3549,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicktoons Unite! | 202111 | [202111-nicktoons-unite.json](./202111-nicktoons-unite.json) |
 | Nicktoons Volleyball | 243826 | [243826-nicktoons-volleyball.json](./243826-nicktoons-volleyball.json) |
 | Nicktoons Winners Cup Racing | 2771 | [2771-nicktoons-winners-cup-racing.json](./2771-nicktoons-winners-cup-racing.json) |
+| Nicktoons: Attack of the Toybots | 240986 | [240986-nicktoons-attack-of-the-toybots.json](./240986-nicktoons-attack-of-the-toybots.json) |
 | Nicktoons: Attack of the Toybots | 241231 | [241231-nicktoons-attack-of-the-toybots.json](./241231-nicktoons-attack-of-the-toybots.json) |
 | Nicktoons: Attack of the Toybots | 2774 | [2774-nicktoons-attack-of-the-toybots.json](./2774-nicktoons-attack-of-the-toybots.json) |
 | Nicktoons: Battle for Volcano Island | 248519 | [248519-nicktoons-battle-for-volcano-island.json](./248519-nicktoons-battle-for-volcano-island.json) |
