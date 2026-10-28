@@ -3946,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rehabbers | 127596 | [127596-rehabbers.json](./127596-rehabbers.json) |
 | ReHack | 84031 | [84031-rehack.json](./84031-rehack.json) |
 | RehAIbilitation | 257561 | [257561-rehaibilitation.json](./257561-rehaibilitation.json) |
+| ReHarmony | 277457 | [277457-reharmony.json](./277457-reharmony.json) |
 | Rehaunted | 410924 | [410924-rehaunted.json](./410924-rehaunted.json) |
 | Reheat: The Rescue | 307419 | [307419-reheat-the-rescue.json](./307419-reheat-the-rescue.json) |
 | Rehtona | 113857 | [113857-rehtona.json](./113857-rehtona.json) |
@@ -10315,6 +10316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruinas | 308318 | [308318-ruinas.json](./308318-ruinas.json) |
 | Ruinas de Maimará | 326145 | [326145-ruinas-de-maimara.json](./326145-ruinas-de-maimara.json) |
 | Ruination | 114854 | [114854-ruination.json](./114854-ruination.json) |
+| Ruindog | 277114 | [277114-ruindog.json](./277114-ruindog.json) |
 | Ruindrift | 371883 | [371883-ruindrift.json](./371883-ruindrift.json) |
 | Ruine | 118055 | [118055-ruine.json](./118055-ruine.json) |
 | Ruined | 287912 | [287912-ruined.json](./287912-ruined.json) |
