@@ -4733,6 +4733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Marbles 15 | 401143 | [401143-match-marbles-15.json](./401143-match-marbles-15.json) |
 | Match Marbles 3 | 337237 | [337237-match-marbles-3.json](./337237-match-marbles-3.json) |
 | Match Marbles 6 | 336992 | [336992-match-marbles-6.json](./336992-match-marbles-6.json) |
+| Match Master | 238152 | [238152-match-master.json](./238152-match-master.json) |
 | Match Match Mania! | 148969 | [148969-match-match-mania.json](./148969-match-match-mania.json) |
 | Match Me If You Can | 248806 | [248806-match-me-if-you-can.json](./248806-match-me-if-you-can.json) |
 | Match More | 32671 | [32671-match-more.json](./32671-match-more.json) |
@@ -15844,6 +15845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Day: Make It Home | 389417 | [389417-moving-day-make-it-home.json](./389417-moving-day-make-it-home.json) |
 | Moving Forward with Cat | 343221 | [343221-moving-forward-with-cat.json](./343221-moving-forward-with-cat.json) |
 | Moving In | 182158 | [182158-moving-in.json](./182158-moving-in.json) |
+| Moving In | 238131 | [238131-moving-in.json](./238131-moving-in.json) |
 | Moving Letters | 157512 | [157512-moving-letters.json](./157512-moving-letters.json) |
 | Moving On | 202712 | [202712-moving-on.json](./202712-moving-on.json) |
 | Moving On | 303075 | [303075-moving-on.json](./303075-moving-on.json) |
@@ -18822,6 +18824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Murders: Jack the Ripper | 84703 | [84703-mystery-murders-jack-the-ripper.json](./84703-mystery-murders-jack-the-ripper.json) |
 | Mystery Murders: The Sleeping Palace | 84702 | [84702-mystery-murders-the-sleeping-palace.json](./84702-mystery-murders-the-sleeping-palace.json) |
 | Mystery Museum | 146858 | [146858-mystery-museum.json](./146858-mystery-museum.json) |
+| Mystery no Tobira: Nazotoki no Jikan 2 | 238116 | [238116-mystery-no-tobira-nazotoki-no-jikan-2.json](./238116-mystery-no-tobira-nazotoki-no-jikan-2.json) |
 | Mystery Objects | 152025 | [152025-mystery-objects.json](./152025-mystery-objects.json) |
 | Mystery of Ancients: Dagger | 106989 | [106989-mystery-of-ancients-dagger.json](./106989-mystery-of-ancients-dagger.json) |
 | Mystery of Camp Enigma | 147447 | [147447-mystery-of-camp-enigma.json](./147447-mystery-of-camp-enigma.json) |
