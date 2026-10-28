@@ -10931,6 +10931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Traverse USA | 75674 | [75674-arcade-archives-traverse-usa.json](./75674-arcade-archives-traverse-usa.json) |
 | Arcade Archives: Trio the Punch | 202769 | [202769-arcade-archives-trio-the-punch.json](./202769-arcade-archives-trio-the-punch.json) |
 | Arcade Archives: Tube Panic | 135575 | [135575-arcade-archives-tube-panic.json](./135575-arcade-archives-tube-panic.json) |
+| Arcade Archives: Turbo Force | 241181 | [241181-arcade-archives-turbo-force.json](./241181-arcade-archives-turbo-force.json) |
 | Arcade Archives: Tutankham | 300732 | [300732-arcade-archives-tutankham.json](./300732-arcade-archives-tutankham.json) |
 | Arcade Archives: TX-1 | 411810 | [411810-arcade-archives-tx-1.json](./411810-arcade-archives-tx-1.json) |
 | Arcade Archives: Typhoon Gal | 173130 | [173130-arcade-archives-typhoon-gal.json](./173130-arcade-archives-typhoon-gal.json) |
