@@ -2614,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Fortress 2: Invasion | 256959 | [256959-team-fortress-2-invasion.json](./256959-team-fortress-2-invasion.json) |
 | Team Fortress 2: Jungle Inferno | 256968 | [256968-team-fortress-2-jungle-inferno.json](./256968-team-fortress-2-jungle-inferno.json) |
 | Team Fortress 2: Love & War Update | 256882 | [256882-team-fortress-2-love-and-war-update.json](./256882-team-fortress-2-love-and-war-update.json) |
+| Team Fortress 2: Mann vs. Machine | 256381 | [256381-team-fortress-2-mann-vs-machine.json](./256381-team-fortress-2-mann-vs-machine.json) |
 | Team Fortress 2: Mann vs. Machine - Two Cities Update | 256881 | [256881-team-fortress-2-mann-vs-machine-two-cities-update.json](./256881-team-fortress-2-mann-vs-machine-two-cities-update.json) |
 | Team Fortress 2: Mann-Conomy Update | 256445 | [256445-team-fortress-2-mann-conomy-update.json](./256445-team-fortress-2-mann-conomy-update.json) |
 | Team Fortress 2: Mecha Update | 256782 | [256782-team-fortress-2-mecha-update.json](./256782-team-fortress-2-mecha-update.json) |
@@ -2626,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Fortress 2: The First Ever Classless Update | 256415 | [256415-team-fortress-2-the-first-ever-classless-update.json](./256415-team-fortress-2-the-first-ever-classless-update.json) |
 | Team Fortress 2: The Gun Mettle Update | 256889 | [256889-team-fortress-2-the-gun-mettle-update.json](./256889-team-fortress-2-the-gun-mettle-update.json) |
 | Team Fortress 2: The Mac Update | 256442 | [256442-team-fortress-2-the-mac-update.json](./256442-team-fortress-2-the-mac-update.json) |
+| Team Fortress 2: The Pyro Update | 256392 | [256392-team-fortress-2-the-pyro-update.json](./256392-team-fortress-2-the-pyro-update.json) |
 | Team Fortress 2: The Scout Update | 256413 | [256413-team-fortress-2-the-scout-update.json](./256413-team-fortress-2-the-scout-update.json) |
 | Team Fortress 2: The Second Annu-Hell Scream Fortress Hauntdead Halloween Special | 256446 | [256446-team-fortress-2-the-second-annu-hell-scream-fortress-hauntdead-halloween-special.json](./256446-team-fortress-2-the-second-annu-hell-scream-fortress-hauntdead-halloween-special.json) |
 | Team Fortress 2: The Sniper vs. Spy Update | 256414 | [256414-team-fortress-2-the-sniper-vs-spy-update.json](./256414-team-fortress-2-the-sniper-vs-spy-update.json) |
@@ -21674,6 +21676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Keeper Mansion Deluxe Pinball | 193215 | [193215-tomb-keeper-mansion-deluxe-pinball.json](./193215-tomb-keeper-mansion-deluxe-pinball.json) |
 | Tomb Nightmares | 302929 | [302929-tomb-nightmares.json](./302929-tomb-nightmares.json) |
 | Tomb of Doom | 70873 | [70873-tomb-of-doom.json](./70873-tomb-of-doom.json) |
+| Tomb of Dread | 256100 | [256100-tomb-of-dread.json](./256100-tomb-of-dread.json) |
 | Tomb of Evil Avenue | 120890 | [120890-tomb-of-evil-avenue.json](./120890-tomb-of-evil-avenue.json) |
 | Tomb of Friends | 249468 | [249468-tomb-of-friends.json](./249468-tomb-of-friends.json) |
 | Tomb of Friends + | 114280 | [114280-tomb-of-friends.json](./114280-tomb-of-friends.json) |
@@ -25099,6 +25102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Niddertalbahn | 205462 | [205462-trainz-plus-niddertalbahn.json](./205462-trainz-plus-niddertalbahn.json) |
 | Trainz Plus: Niddertalbahn | 205524 | [205524-trainz-plus-niddertalbahn.json](./205524-trainz-plus-niddertalbahn.json) |
 | Trainz Plus: NR Class Locomotive - JBR Indian Pacific Pack | 284916 | [284916-trainz-plus-nr-class-locomotive-jbr-indian-pacific-pack.json](./284916-trainz-plus-nr-class-locomotive-jbr-indian-pacific-pack.json) |
+| Trainz Plus: NR Class Locomotive - National Rail Mega Pack | 256378 | [256378-trainz-plus-nr-class-locomotive-national-rail-mega-pack.json](./256378-trainz-plus-nr-class-locomotive-national-rail-mega-pack.json) |
 | Trainz Plus: NS SD60E - 6963 GoRail | 205562 | [205562-trainz-plus-ns-sd60e-6963-gorail.json](./205562-trainz-plus-ns-sd60e-6963-gorail.json) |
 | Trainz Plus: NS SD60E - Horsehead | 205517 | [205517-trainz-plus-ns-sd60e-horsehead.json](./205517-trainz-plus-ns-sd60e-horsehead.json) |
 | Trainz Plus: NYC J3a-Dreyfuss streamlined Hudson | 205446 | [205446-trainz-plus-nyc-j3a-dreyfuss-streamlined-hudson.json](./205446-trainz-plus-nyc-j3a-dreyfuss-streamlined-hudson.json) |
@@ -25448,6 +25452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: New York Central 10a 2-8-2 | 205338 | [205338-trainz-railroad-simulator-2022-new-york-central-10a-2-8-2.json](./205338-trainz-railroad-simulator-2022-new-york-central-10a-2-8-2.json) |
 | Trainz Railroad Simulator 2022: Niddertalbahn | 205360 | [205360-trainz-railroad-simulator-2022-niddertalbahn.json](./205360-trainz-railroad-simulator-2022-niddertalbahn.json) |
 | Trainz Railroad Simulator 2022: NR Class Locomotive - JBR Indian Pacific Pack | 284917 | [284917-trainz-railroad-simulator-2022-nr-class-locomotive-jbr-indian-pacific-pack.json](./284917-trainz-railroad-simulator-2022-nr-class-locomotive-jbr-indian-pacific-pack.json) |
+| Trainz Railroad Simulator 2022: NR Class Locomotive - National Rail Mega Pack | 256377 | [256377-trainz-railroad-simulator-2022-nr-class-locomotive-national-rail-mega-pack.json](./256377-trainz-railroad-simulator-2022-nr-class-locomotive-national-rail-mega-pack.json) |
 | Trainz Railroad Simulator 2022: NS SD60E - 6920 Veterans Unit | 205417 | [205417-trainz-railroad-simulator-2022-ns-sd60e-6920-veterans-unit.json](./205417-trainz-railroad-simulator-2022-ns-sd60e-6920-veterans-unit.json) |
 | Trainz Railroad Simulator 2022: NS SD60E - 6963 GoRail | 205363 | [205363-trainz-railroad-simulator-2022-ns-sd60e-6963-gorail.json](./205363-trainz-railroad-simulator-2022-ns-sd60e-6963-gorail.json) |
 | Trainz Railroad Simulator 2022: NS SD60E - Horsehead Locomotive | 205352 | [205352-trainz-railroad-simulator-2022-ns-sd60e-horsehead-locomotive.json](./205352-trainz-railroad-simulator-2022-ns-sd60e-horsehead-locomotive.json) |
