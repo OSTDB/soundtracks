@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7090,6 +7091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biomass | 142950 | [142950-biomass.json](./142950-biomass.json) |
 | Biomass: Extermination | 361275 | [361275-biomass-extermination.json](./361275-biomass-extermination.json) |
 | Biome Conquest | 227943 | [227943-biome-conquest.json](./227943-biome-conquest.json) |
+| Biome: Mr. Self Destruct | 271330 | [271330-biome-mr-self-destruct.json](./271330-biome-mr-self-destruct.json) |
 | BioMech Vendetta | 380402 | [380402-biomech-vendetta.json](./380402-biomech-vendetta.json) |
 | Biomechanical Toy | 39613 | [39613-biomechanical-toy.json](./39613-biomechanical-toy.json) |
 | Biomechanical Toy | 405910 | [405910-biomechanical-toy.json](./405910-biomechanical-toy.json) |
