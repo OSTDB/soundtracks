@@ -4137,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathrun TV | 152284 | [152284-deathrun-tv.json](./152284-deathrun-tv.json) |
 | Deaths Dawn | 380764 | [380764-deaths-dawn.json](./380764-deaths-dawn.json) |
 | Deaths of Peck | 398425 | [398425-deaths-of-peck.json](./398425-deaths-of-peck.json) |
+| Deaths Toll | 258064 | [258064-deaths-toll.json](./258064-deaths-toll.json) |
 | Deathsmashers 4 | 185558 | [185558-deathsmashers-4.json](./185558-deathsmashers-4.json) |
 | Deathsmiles | 6963 | [6963-deathsmiles.json](./6963-deathsmiles.json) |
 | Deathsmiles I & II | 139183 | [139183-deathsmiles-i-and-ii.json](./139183-deathsmiles-i-and-ii.json) |
