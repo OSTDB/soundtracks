@@ -5621,6 +5621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Feeds | 207220 | [207220-it-feeds.json](./207220-it-feeds.json) |
 | It Fishes At Night | 316945 | [316945-it-fishes-at-night.json](./316945-it-fishes-at-night.json) |
 | It follows you | 187168 | [187168-it-follows-you.json](./187168-it-follows-you.json) |
+| It Gets So Lonely Here | 240018 | [240018-it-gets-so-lonely-here.json](./240018-it-gets-so-lonely-here.json) |
 | It Girl | 338731 | [338731-it-girl.json](./338731-it-girl.json) |
 | It Goes Away in the End | 312920 | [312920-it-goes-away-in-the-end.json](./312920-it-goes-away-in-the-end.json) |
 | It Goes On | 360495 | [360495-it-goes-on.json](./360495-it-goes-on.json) |
