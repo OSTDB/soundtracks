@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Steps into the abyss | 283971 | [283971-backrooms-steps-into-the-abyss.json](./283971-backrooms-steps-into-the-abyss.json) |
 | Backrooms: Surreality | 226241 | [226241-backrooms-surreality.json](./226241-backrooms-surreality.json) |
 | Backrooms: The Deep Dark | 407814 | [407814-backrooms-the-deep-dark.json](./407814-backrooms-the-deep-dark.json) |
+| Backrooms: The Game | 231587 | [231587-backrooms-the-game.json](./231587-backrooms-the-game.json) |
 | Backrooms: The Lost Circus | 335054 | [335054-backrooms-the-lost-circus.json](./335054-backrooms-the-lost-circus.json) |
 | Backrooms: The Next Level | 353784 | [353784-backrooms-the-next-level.json](./353784-backrooms-the-next-level.json) |
 | Backrooms: The Old Watcher | 407412 | [407412-backrooms-the-old-watcher.json](./407412-backrooms-the-old-watcher.json) |
@@ -1404,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballads at Midnight | 207399 | [207399-ballads-at-midnight.json](./207399-ballads-at-midnight.json) |
 | Ballads of Hongye | 197151 | [197151-ballads-of-hongye.json](./197151-ballads-of-hongye.json) |
 | Ballads of Hongye Reborn | 317781 | [317781-ballads-of-hongye-reborn.json](./317781-ballads-of-hongye-reborn.json) |
+| Ballads of Hongye: Grand Edition | 231575 | [231575-ballads-of-hongye-grand-edition.json](./231575-ballads-of-hongye-grand-edition.json) |
 | Ballance | 20895 | [20895-ballance.json](./20895-ballance.json) |
 | Ballance: The Return | 127371 | [127371-ballance-the-return.json](./127371-ballance-the-return.json) |
 | Ballapalooza | 275110 | [275110-ballapalooza.json](./275110-ballapalooza.json) |
@@ -9538,6 +9540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl 2: The Necromantic | 52651 | [52651-blood-bowl-2-the-necromantic.json](./52651-blood-bowl-2-the-necromantic.json) |
 | Blood Bowl 2: Undead | 52650 | [52650-blood-bowl-2-undead.json](./52650-blood-bowl-2-undead.json) |
 | Blood Bowl 2: Wood Elves | 52648 | [52648-blood-bowl-2-wood-elves.json](./52648-blood-bowl-2-wood-elves.json) |
+| Blood Bowl 3: Black Orcs Edition | 231577 | [231577-blood-bowl-3-black-orcs-edition.json](./231577-blood-bowl-3-black-orcs-edition.json) |
 | Blood Bowl 3: Brutal Edition | 142166 | [142166-blood-bowl-3-brutal-edition.json](./142166-blood-bowl-3-brutal-edition.json) |
 | Blood Bowl III | 138137 | [138137-blood-bowl-iii.json](./138137-blood-bowl-iii.json) |
 | Blood Bowl III: Season 1 | 250909 | [250909-blood-bowl-iii-season-1.json](./250909-blood-bowl-iii-season-1.json) |
@@ -12677,6 +12680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Test: Nurse Puzzle | 216109 | [216109-brain-test-nurse-puzzle.json](./216109-brain-test-nurse-puzzle.json) |
 | Brain Test: Thinking Game | 221342 | [221342-brain-test-thinking-game.json](./221342-brain-test-thinking-game.json) |
 | Brain Test: Tricky Puzzles | 322082 | [322082-brain-test-tricky-puzzles.json](./322082-brain-test-tricky-puzzles.json) |
+| Brain Tester: Mind trick quiz | 231198 | [231198-brain-tester-mind-trick-quiz.json](./231198-brain-tester-mind-trick-quiz.json) |
 | Brain Tester: Mind trick quiz | 233650 | [233650-brain-tester-mind-trick-quiz.json](./233650-brain-tester-mind-trick-quiz.json) |
 | Brain Tester: Mind Trick Quiz 2 | 301839 | [301839-brain-tester-mind-trick-quiz-2.json](./301839-brain-tester-mind-trick-quiz-2.json) |
 | Brain Trainer: Spot the Difference | 99384 | [99384-brain-trainer-spot-the-difference.json](./99384-brain-trainer-spot-the-difference.json) |
@@ -15396,6 +15400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Chef Tycoon: Complete Edition | 199110 | [199110-burger-chef-tycoon-complete-edition.json](./199110-burger-chef-tycoon-complete-edition.json) |
 | Burger Chef Tycoon: Elite Edition | 332515 | [332515-burger-chef-tycoon-elite-edition.json](./332515-burger-chef-tycoon-elite-edition.json) |
 | Burger Chef Tycoon: Expansion Pack 1 | 238016 | [238016-burger-chef-tycoon-expansion-pack-1.json](./238016-burger-chef-tycoon-expansion-pack-1.json) |
+| Burger Chef Tycoon: Expansion Pack 2 | 231596 | [231596-burger-chef-tycoon-expansion-pack-2.json](./231596-burger-chef-tycoon-expansion-pack-2.json) |
 | Burger Chef Tycoon: GOTY Edition | 273629 | [273629-burger-chef-tycoon-goty-edition.json](./273629-burger-chef-tycoon-goty-edition.json) |
 | Burger Chef Tycoon: Multiplayer Edition | 240404 | [240404-burger-chef-tycoon-multiplayer-edition.json](./240404-burger-chef-tycoon-multiplayer-edition.json) |
 | Burger Chef Tycoon: Premium Edition | 227704 | [227704-burger-chef-tycoon-premium-edition.json](./227704-burger-chef-tycoon-premium-edition.json) |
