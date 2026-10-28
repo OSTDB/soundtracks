@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hands of Necromancy II | 278539 | [278539-hands-of-necromancy-ii.json](./278539-hands-of-necromancy-ii.json) |
 | Hands of the Killer | 150096 | [150096-hands-of-the-killer.json](./150096-hands-of-the-killer.json) |
 | Hands of the Sovereign | 372062 | [372062-hands-of-the-sovereign.json](./372062-hands-of-the-sovereign.json) |
+| Hands of Timber | 277998 | [277998-hands-of-timber.json](./277998-hands-of-timber.json) |
 | Hands of Time | 49927 | [49927-hands-of-time.json](./49927-hands-of-time.json) |
 | Hands of Victory | 380801 | [380801-hands-of-victory.json](./380801-hands-of-victory.json) |
 | Hands of War | 387927 | [387927-hands-of-war.json](./387927-hands-of-war.json) |
@@ -3190,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
 | Hed the Pig | 142305 | [142305-hed-the-pig.json](./142305-hed-the-pig.json) |
+| Hedenite | 277991 | [277991-hedenite.json](./277991-hedenite.json) |
 | Hedera | 135605 | [135605-hedera.json](./135605-hedera.json) |
 | Hedge Fund Tycoon | 239779 | [239779-hedge-fund-tycoon.json](./239779-hedge-fund-tycoon.json) |
 | Hedgebomber Stories: A Shy Guy's Panic | 323675 | [323675-hedgebomber-stories-a-shy-guys-panic.json](./323675-hedgebomber-stories-a-shy-guys-panic.json) |
@@ -9805,6 +9807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huanu Poems | 339119 | [339119-huanu-poems.json](./339119-huanu-poems.json) |
 | Huanxiang Sanguozhi | 70024 | [70024-huanxiang-sanguozhi.json](./70024-huanxiang-sanguozhi.json) |
 | Huànxiǎng Xiū Zhēn | 375424 | [375424-huanxiang-xiu-zhen.json](./375424-huanxiang-xiu-zhen.json) |
+| Huarongdao | 277705 | [277705-huarongdao.json](./277705-huarongdao.json) |
 | Huaxia: Warring States | 314435 | [314435-huaxia-warring-states.json](./314435-huaxia-warring-states.json) |
 | Hub of Pain | 268912 | [268912-hub-of-pain.json](./268912-hub-of-pain.json) |
 | Hube: Seeker of Achievements | 100435 | [100435-hube-seeker-of-achievements.json](./100435-hube-seeker-of-achievements.json) |
@@ -10143,6 +10146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Humphrey: Eat The World | 275612 | [275612-hungry-humphrey-eat-the-world.json](./275612-hungry-humphrey-eat-the-world.json) |
 | Hungry Hungry Hippos | 335404 | [335404-hungry-hungry-hippos.json](./335404-hungry-hungry-hippos.json) |
 | Hungry in Dungeon | 329660 | [329660-hungry-in-dungeon.json](./329660-hungry-in-dungeon.json) |
+| Hungry Jungle | 277988 | [277988-hungry-jungle.json](./277988-hungry-jungle.json) |
 | Hungry Knight! | 128651 | [128651-hungry-knight.json](./128651-hungry-knight.json) |
 | Hungry Lamu | 219023 | [219023-hungry-lamu.json](./219023-hungry-lamu.json) |
 | Hungry Meem | 328179 | [328179-hungry-meem.json](./328179-hungry-meem.json) |
