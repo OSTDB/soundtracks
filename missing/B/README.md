@@ -7150,6 +7150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Heart 2 | 17721 | [17721-bionic-heart-2.json](./17721-bionic-heart-2.json) |
 | Bionic Hunter VR | 127190 | [127190-bionic-hunter-vr.json](./127190-bionic-hunter-vr.json) |
 | Bionic Marine Command Online | 50289 | [50289-bionic-marine-command-online.json](./50289-bionic-marine-command-online.json) |
+| Bionic Momentum | 256104 | [256104-bionic-momentum.json](./256104-bionic-momentum.json) |
 | Bionic Ninja | 13403 | [13403-bionic-ninja.json](./13403-bionic-ninja.json) |
 | Bionic Rebirth | 283997 | [283997-bionic-rebirth.json](./283997-bionic-rebirth.json) |
 | Bionic Shield: Battle for Space Nebula Omega | 189123 | [189123-bionic-shield-battle-for-space-nebula-omega.json](./189123-bionic-shield-battle-for-space-nebula-omega.json) |
@@ -14659,6 +14660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BugsBox | 99739 | [99739-bugsbox.json](./99739-bugsbox.json) |
 | BugsBoxVR | 111454 | [111454-bugsboxvr.json](./111454-bugsboxvr.json) |
 | Bugscraper | 230797 | [230797-bugscraper.json](./230797-bugscraper.json) |
+| Bugsnax | 256396 | [256396-bugsnax.json](./256396-bugsnax.json) |
 | Bugsnax: The Isle of Bigsnax | 178326 | [178326-bugsnax-the-isle-of-bigsnax.json](./178326-bugsnax-the-isle-of-bigsnax.json) |
 | Bugspeed Collider | 34127 | [34127-bugspeed-collider.json](./34127-bugspeed-collider.json) |
 | BugSquash | 346562 | [346562-bugsquash.json](./346562-bugsquash.json) |
