@@ -2699,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jujutsu Kaisen: Cursed Clash - Jujutsu High First-Years Outfit Set | 289838 | [289838-jujutsu-kaisen-cursed-clash-jujutsu-high-first-years-outfit-set.json](./289838-jujutsu-kaisen-cursed-clash-jujutsu-high-first-years-outfit-set.json) |
 | Jujutsu Kaisen: Cursed Clash - Kyoto Jujutsu High School Girls' Outfit Set | 317959 | [317959-jujutsu-kaisen-cursed-clash-kyoto-jujutsu-high-school-girls-outfit-set.json](./317959-jujutsu-kaisen-cursed-clash-kyoto-jujutsu-high-school-girls-outfit-set.json) |
 | Jujutsu Kaisen: Cursed Clash - The Shibuya Incident | 307753 | [307753-jujutsu-kaisen-cursed-clash-the-shibuya-incident.json](./307753-jujutsu-kaisen-cursed-clash-the-shibuya-incident.json) |
+| Jujutsu Kaisen: Cursed Clash - Ultimate Edition | 276325 | [276325-jujutsu-kaisen-cursed-clash-ultimate-edition.json](./276325-jujutsu-kaisen-cursed-clash-ultimate-edition.json) |
 | Jujutsutchi 0 | 230186 | [230186-jujutsutchi-0.json](./230186-jujutsutchi-0.json) |
 | Jukai Maze | 387051 | [387051-jukai-maze.json](./387051-jukai-maze.json) |
 | Jukaya | 180587 | [180587-jukaya.json](./180587-jukaya.json) |
