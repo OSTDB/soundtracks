@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 2,630" src="https://img.shields.io/badge/soundtracks-2%2C630-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 2,148" src="https://img.shields.io/badge/games-2%2C148-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 271,149" src="https://img.shields.io/badge/missing-271%2C149-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 272,269" src="https://img.shields.io/badge/missing-272%2C269-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -30,20 +30,20 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/nightmare-creatures-ii"><img src="https://i.scdn.co/image/ab67616d0000b2734d8daa8549df9cde98e6dd96" width="120" height="120" alt="" /></a><br /><sub><b>Nightmare Creatures II</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/constance"><img src="https://i.scdn.co/image/ab67616d0000b273e3230ac7088e35cdd7a0d1e9" width="120" height="120" alt="" /></a><br /><sub><b>Constance</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/deathtrap"><img src="https://i.scdn.co/image/ab67616d0000b2737913fd7ad3a574de951b9f41" width="120" height="120" alt="" /></a><br /><sub><b>Deathtrap</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/face-noir"><img src="https://i.scdn.co/image/ab67616d0000b273272c0f195719ed295606519c" width="120" height="120" alt="" /></a><br /><sub><b>Face Noir</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/orcs-and-elves"><img src="https://i.scdn.co/image/ab67616d0000b2731bae1da909bd85ebf8217e92" width="120" height="120" alt="" /></a><br /><sub><b>Orcs &amp; Elves</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/expeditions-conquistador"><img src="https://i.scdn.co/image/ab67616d0000b273ca86dda27f1cc1263baa5df3" width="120" height="120" alt="" /></a><br /><sub><b>Expeditions: Conquistador</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/lost-echo"><img src="https://i.scdn.co/image/ab67616d0000b2734d74042cade0a15788e5b161" width="120" height="120" alt="" /></a><br /><sub><b>Lost Echo</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/we-know-the-devil"><img src="https://i.scdn.co/image/ab67616d0000b2730ba05a0bbb7528f13a94a567" width="120" height="120" alt="" /></a><br /><sub><b>We Know the Devil</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/timelie"><img src="https://i.scdn.co/image/ab67616d0000b27332f75b061a8bcfcf372427ca" width="120" height="120" alt="" /></a><br /><sub><b>Timelie</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/nier-re-in-carnation"><img src="https://i.scdn.co/image/ab67616d0000b273a94e0e1558782357a1733bfa" width="120" height="120" alt="" /></a><br /><sub><b>NieR Re[in]carnation</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/shovel-knight-dig"><img src="https://i.scdn.co/image/ab67616d0000b27388cbf0975589bc8a77142e10" width="120" height="120" alt="" /></a><br /><sub><b>Shovel Knight Dig</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/quarantine-circular"><img src="https://i.scdn.co/image/ab67616d0000b2738ee1c22f0b39dee4afc0795c" width="120" height="120" alt="" /></a><br /><sub><b>Quarantine Circular</b></sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/blade-kitten"><img src="https://i.scdn.co/image/ab67616d0000b2733da79e666b912b1671bb8438" width="120" height="120" alt="" /></a><br /><sub><b>Blade Kitten</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/unlimited-saga"><img src="https://i.scdn.co/image/ab67616d0000b2739690e96079637b7d444c0128" width="120" height="120" alt="" /></a><br /><sub><b>Unlimited SaGa</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/blood-money"><img src="https://i.scdn.co/image/ab67616d0000b2739d52f181207fd9ef266b455d" width="120" height="120" alt="" /></a><br /><sub><b>Blood Money</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/shift-happens"><img src="https://i.scdn.co/image/ab67616d0000b2737ea5de98d1b24a326f29cd0d" width="120" height="120" alt="" /></a><br /><sub><b>Shift Happens</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/chronology"><img src="https://i.scdn.co/image/ab67616d0000b273bef91349b8da132dcda9b2bd" width="120" height="120" alt="" /></a><br /><sub><b>Chronology</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/hover-revolt-of-gamers"><img src="https://i.scdn.co/image/ab67616d0000b27321ec6d06408d4350fe0827d0" width="120" height="120" alt="" /></a><br /><sub><b>Hover: Revolt of Gamers</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/i-am-dead"><img src="https://i.scdn.co/image/ab67616d0000b273a4d20304f4fec08f6201b693" width="120" height="120" alt="" /></a><br /><sub><b>I Am Dead</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/wings-of-vi"><img src="https://i.scdn.co/image/ab67616d0000b2735f79713bbe23254e2e08ebab" width="120" height="120" alt="" /></a><br /><sub><b>Wings of Vi</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/simulacra-2"><img src="https://i.scdn.co/image/ab67616d0000b2737bf648b893c5b9f20aeb05bf" width="120" height="120" alt="" /></a><br /><sub><b>Simulacra 2</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/vampire-the-masquerade-shadows-of-new-york"><img src="https://i.scdn.co/image/ab67616d0000b273a1360f31f526f6518bd55031" width="120" height="120" alt="" /></a><br /><sub><b>Vampire: The Masquerade - Shadows of New York</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/floppy-knights"><img src="https://i.scdn.co/image/ab67616d0000b2736a608dfe1b28d607b43ba821" width="120" height="120" alt="" /></a><br /><sub><b>Floppy Knights</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/opus-rocket-of-whispers"><img src="https://i.scdn.co/image/ab67616d0000b2734fdf780795ce4d16a39dc513" width="120" height="120" alt="" /></a><br /><sub><b>Opus: Rocket of Whispers</b></sub></td>
 </tr>
 </table>
 
@@ -69,7 +69,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Divinity: Original Sin** | [🔎 Find on Spotify](https://open.spotify.com/search/Divinity%3A%20Original%20Sin%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/5082-divinity-original-sin.json) |
 | 15 | **LEGO Star Wars: The Video Game** | [🔎 Find on Spotify](https://open.spotify.com/search/LEGO%20Star%20Wars%3A%20The%20Video%20Game%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/L/2681-lego-star-wars-the-video-game.json) |
 
-More in **[missing/](missing/README.md)** (271,149 games).
+More in **[missing/](missing/README.md)** (272,269 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -114,4 +114,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,630 soundtracks &middot; last updated 2026-10-27T19:35:44.826Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,630 soundtracks &middot; last updated 2026-10-28T00:41:04.540Z</sub>
