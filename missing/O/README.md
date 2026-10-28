@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oberty | 259042 | [259042-oberty.json](./259042-oberty.json) |
 | Obesity Simulator | 264705 | [264705-obesity-simulator.json](./264705-obesity-simulator.json) |
 | Obey | 20350 | [20350-obey.json](./20350-obey.json) |
+| Obey Her or Else | 248434 | [248434-obey-her-or-else.json](./248434-obey-her-or-else.json) |
 | Obey Me | 118205 | [118205-obey-me.json](./118205-obey-me.json) |
 | Obey Me! Sinner's Choice: Lucifer | 396555 | [396555-obey-me-sinners-choice-lucifer.json](./396555-obey-me-sinners-choice-lucifer.json) |
 | Obey Me! Till Death Do Us Part | 382870 | [382870-obey-me-till-death-do-us-part.json](./382870-obey-me-till-death-do-us-part.json) |
@@ -1536,7 +1537,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omicroid | 107675 | [107675-omicroid.json](./107675-omicroid.json) |
 | Omicron: Coronavirus Battlegrounds | 393453 | [393453-omicron-coronavirus-battlegrounds.json](./393453-omicron-coronavirus-battlegrounds.json) |
 | Omicrox | 361803 | [361803-omicrox.json](./361803-omicrox.json) |
+| Omikron 2: Karma | 248848 | [248848-omikron-2-karma.json](./248848-omikron-2-karma.json) |
 | Omikron: The Nomad Soul | 1982 | [1982-omikron-the-nomad-soul.json](./1982-omikron-the-nomad-soul.json) |
+| Omikron: The Nomad Soul | 248846 | [248846-omikron-the-nomad-soul.json](./248846-omikron-the-nomad-soul.json) |
 | Omina Mortis | 36983 | [36983-omina-mortis.json](./36983-omina-mortis.json) |
 | Ominoflux | 336595 | [336595-ominoflux.json](./336595-ominoflux.json) |
 | Ominous | 273126 | [273126-ominous.json](./273126-ominous.json) |
