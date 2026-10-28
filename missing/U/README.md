@@ -1950,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicycle Legend | 244087 | [244087-unicycle-legend.json](./244087-unicycle-legend.json) |
 | Unicycle Pizza Time! | 314910 | [314910-unicycle-pizza-time.json](./314910-unicycle-pizza-time.json) |
 | Unicycle Together | 389403 | [389403-unicycle-together.json](./389403-unicycle-together.json) |
+| Unicyclist | 249380 | [249380-unicyclist.json](./249380-unicyclist.json) |
 | Unidentified | 112841 | [112841-unidentified.json](./112841-unidentified.json) |
 | Unidentified Feline Obliterators | 332962 | [332962-unidentified-feline-obliterators.json](./332962-unidentified-feline-obliterators.json) |
 | UniDuni | 168642 | [168642-uniduni.json](./168642-uniduni.json) |
