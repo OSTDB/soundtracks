@@ -17888,7 +17888,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Warfare | 108075 | [108075-special-warfare.json](./108075-special-warfare.json) |
 | Specialist's Vengeance | 167394 | [167394-specialists-vengeance.json](./167394-specialists-vengeance.json) |
 | Species: Artificial Life, Real Evolution | 57787 | [57787-species-artificial-life-real-evolution.json](./57787-species-artificial-life-real-evolution.json) |
-| Species: Unknown | 302968 | [302968-species-unknown.json](./302968-species-unknown.json) |
 | Specimen #08 | 262963 | [262963-specimen-08.json](./262963-specimen-08.json) |
 | Specimen #14 | 263006 | [263006-specimen-14.json](./263006-specimen-14.json) |
 | Specimen 13 | 138450 | [138450-specimen-13.json](./138450-specimen-13.json) |
@@ -21211,7 +21210,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Galactic Battle | 198918 | [198918-star-wars-galactic-battle.json](./198918-star-wars-galactic-battle.json) |
 | Star Wars: Galactic Battlegrounds | 139 | [139-star-wars-galactic-battlegrounds.json](./139-star-wars-galactic-battlegrounds.json) |
 | Star Wars: Galactic Battlegrounds Saga | 35596 | [35596-star-wars-galactic-battlegrounds-saga.json](./35596-star-wars-galactic-battlegrounds-saga.json) |
-| Star Wars: Galactic Racer | 381248 | [381248-star-wars-galactic-racer.json](./381248-star-wars-galactic-racer.json) |
 | Star Wars: Galaxies - Starter Kit | 77212 | [77212-star-wars-galaxies-starter-kit.json](./77212-star-wars-galaxies-starter-kit.json) |
 | Star Wars: Galaxy of Heroes | 19577 | [19577-star-wars-galaxy-of-heroes.json](./19577-star-wars-galaxy-of-heroes.json) |
 | Star Wars: Heritage Pack | 200175 | [200175-star-wars-heritage-pack.json](./200175-star-wars-heritage-pack.json) |
