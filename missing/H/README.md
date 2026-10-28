@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haque | 75364 | [75364-haque.json](./75364-haque.json) |
 | Här Kommer Pippi Långstrump | 337184 | [337184-har-kommer-pippi-langstrump.json](./337184-har-kommer-pippi-langstrump.json) |
 | Harakatsu 2 | 367026 | [367026-harakatsu-2.json](./367026-harakatsu-2.json) |
+| Harakiri | 232633 | [232633-harakiri.json](./232633-harakiri.json) |
 | Harakuju Tantei Gakuen: Steel Wood | 58054 | [58054-harakuju-tantei-gakuen-steel-wood.json](./58054-harakuju-tantei-gakuen-steel-wood.json) |
 | Harald | 72347 | [72347-harald.json](./72347-harald.json) |
 | Haram | 228947 | [228947-haram.json](./228947-haram.json) |
@@ -4010,6 +4011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellRazor64 | 226352 | [226352-hellrazor64.json](./226352-hellrazor64.json) |
 | Hellreaper | 371214 | [371214-hellreaper.json](./371214-hellreaper.json) |
 | Hellrider | 143083 | [143083-hellrider.json](./143083-hellrider.json) |
+| Hellrider 3 | 232607 | [232607-hellrider-3.json](./232607-hellrider-3.json) |
 | Hellrooms | 324322 | [324322-hellrooms.json](./324322-hellrooms.json) |
 | Hells Bend on Wounded Knee | 248679 | [248679-hells-bend-on-wounded-knee.json](./248679-hells-bend-on-wounded-knee.json) |
 | Hells Divide | 121359 | [121359-hells-divide.json](./121359-hells-divide.json) |
@@ -4494,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Killer: Girls & Chess | 151622 | [151622-hentai-killer-girls-and-chess.json](./151622-hentai-killer-girls-and-chess.json) |
 | Hentai Lady | 110742 | [110742-hentai-lady.json](./110742-hentai-lady.json) |
 | Hentai Ladyboy Ren | 367051 | [367051-hentai-ladyboy-ren.json](./367051-hentai-ladyboy-ren.json) |
+| Hentai Leaked!? Only for Fans | 232645 | [232645-hentai-leaked-only-for-fans.json](./232645-hentai-leaked-only-for-fans.json) |
 | Hentai LightUp | 365441 | [365441-hentai-lightup.json](./365441-hentai-lightup.json) |
 | Hentai Like a Boss | 365442 | [365442-hentai-like-a-boss.json](./365442-hentai-like-a-boss.json) |
 | Hentai Like a Boss 2 | 365443 | [365443-hentai-like-a-boss-2.json](./365443-hentai-like-a-boss-2.json) |
@@ -5605,6 +5608,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagon Dungeon: The Arcana Stone | 114786 | [114786-hexagon-dungeon-the-arcana-stone.json](./114786-hexagon-dungeon-the-arcana-stone.json) |
 | Hexagon Hamlet | 183529 | [183529-hexagon-hamlet.json](./183529-hexagon-hamlet.json) |
 | Hexagon Heroes | 132272 | [132272-hexagon-heroes.json](./132272-hexagon-heroes.json) |
+| Hexagon Puzzle Blocks | 232647 | [232647-hexagon-puzzle-blocks.json](./232647-hexagon-puzzle-blocks.json) |
+| Hexagon Puzzle Blocks: Expansion Pack | 232648 | [232648-hexagon-puzzle-blocks-expansion-pack.json](./232648-hexagon-puzzle-blocks-expansion-pack.json) |
 | Hexagon Soup | 384143 | [384143-hexagon-soup.json](./384143-hexagon-soup.json) |
 | Hexagon Survivors | 249855 | [249855-hexagon-survivors.json](./249855-hexagon-survivors.json) |
 | Hexagon Tribute | 224458 | [224458-hexagon-tribute.json](./224458-hexagon-tribute.json) |
