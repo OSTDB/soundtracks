@@ -1751,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of the Nile | 139079 | [139079-warriors-of-the-nile.json](./139079-warriors-of-the-nile.json) |
 | Warriors of the Nile Series Bundle | 230802 | [230802-warriors-of-the-nile-series-bundle.json](./230802-warriors-of-the-nile-series-bundle.json) |
 | Warriors of the Sword | 402525 | [402525-warriors-of-the-sword.json](./402525-warriors-of-the-sword.json) |
+| Warriors of the Universe | 247129 | [247129-warriors-of-the-universe.json](./247129-warriors-of-the-universe.json) |
 | Warriors of Titus | 93749 | [93749-warriors-of-titus.json](./93749-warriors-of-titus.json) |
 | Warriors of Vilvatikta | 31628 | [31628-warriors-of-vilvatikta.json](./31628-warriors-of-vilvatikta.json) |
 | Warriors Orochi | 7242 | [7242-warriors-orochi.json](./7242-warriors-orochi.json) |
@@ -5708,6 +5709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With Shining Eyes | 278957 | [278957-with-shining-eyes.json](./278957-with-shining-eyes.json) |
 | With the Addition of Markiplier | 159181 | [159181-with-the-addition-of-markiplier.json](./159181-with-the-addition-of-markiplier.json) |
 | With The Fire And Sword | 330885 | [330885-with-the-fire-and-sword.json](./330885-with-the-fire-and-sword.json) |
+| With the Last Moonbeam | 247121 | [247121-with-the-last-moonbeam.json](./247121-with-the-last-moonbeam.json) |
 | With You | 188710 | [188710-with-you.json](./188710-with-you.json) |
 | With You: Mitsumete Itai | 37347 | [37347-with-you-mitsumete-itai.json](./37347-with-you-mitsumete-itai.json) |
 | Wither | 376822 | [376822-wither.json](./376822-wither.json) |
@@ -8024,6 +8026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wújìn Shēnyuān | 117368 | [117368-wujin-shenyuan.json](./117368-wujin-shenyuan.json) |
 | Wujin Zhi Jian Mingyuin | 83840 | [83840-wujin-zhi-jian-mingyuin.json](./83840-wujin-zhi-jian-mingyuin.json) |
 | Wukong 2088 | 373892 | [373892-wukong-2088.json](./373892-wukong-2088.json) |
+| Wukong Odyssey | 246754 | [246754-wukong-odyssey.json](./246754-wukong-odyssey.json) |
 | Wukong Sun: Black Legend | 328464 | [328464-wukong-sun-black-legend.json](./328464-wukong-sun-black-legend.json) |
 | Wukong Survivors | 389519 | [389519-wukong-survivors.json](./389519-wukong-survivors.json) |
 | Wukong Survivors: Begin | 387379 | [387379-wukong-survivors-begin.json](./387379-wukong-survivors-begin.json) |
