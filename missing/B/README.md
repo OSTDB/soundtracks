@@ -2309,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barely Alive | 387111 | [387111-barely-alive.json](./387111-barely-alive.json) |
 | Barely Floating | 138214 | [138214-barely-floating.json](./138214-barely-floating.json) |
 | Barely Intersex | 419616 | [419616-barely-intersex.json](./419616-barely-intersex.json) |
+| Barely Working | 254015 | [254015-barely-working.json](./254015-barely-working.json) |
 | Barezu ni Ikiru! | 212465 | [212465-barezu-ni-ikiru.json](./212465-barezu-ni-ikiru.json) |
 | Barf and Beer | 92615 | [92615-barf-and-beer.json](./92615-barf-and-beer.json) |
 | Barf Royale | 401510 | [401510-barf-royale.json](./401510-barf-royale.json) |
@@ -4393,6 +4394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Quest: Ultimate Heroes | 175761 | [175761-beast-quest-ultimate-heroes.json](./175761-beast-quest-ultimate-heroes.json) |
 | Beast Saga | 334624 | [334624-beast-saga.json](./334624-beast-saga.json) |
 | Beast Saga Saikyou Gekiotsu Coliseum | 222442 | [222442-beast-saga-saikyou-gekiotsu-coliseum.json](./222442-beast-saga-saikyou-gekiotsu-coliseum.json) |
+| Beast Slayer | 254014 | [254014-beast-slayer.json](./254014-beast-slayer.json) |
 | Beast Slayer Origin | 333482 | [333482-beast-slayer-origin.json](./333482-beast-slayer-origin.json) |
 | Beast Survivor | 374792 | [374792-beast-survivor.json](./374792-beast-survivor.json) |
 | Beast Unleashed | 349460 | [349460-beast-unleashed.json](./349460-beast-unleashed.json) |
@@ -5053,6 +5055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee Holder | 184505 | [184505-bee-holder.json](./184505-bee-holder.json) |
 | Bee in the Valley | 250384 | [250384-bee-in-the-valley.json](./250384-bee-in-the-valley.json) |
 | Bee Invasion | 368157 | [368157-bee-invasion.json](./368157-bee-invasion.json) |
+| Bee Island | 254010 | [254010-bee-island.json](./254010-bee-island.json) |
 | Bee Leader | 208409 | [208409-bee-leader.json](./208409-bee-leader.json) |
 | Bee Magic | 314254 | [314254-bee-magic.json](./314254-bee-magic.json) |
 | Bee Master | 366282 | [366282-bee-master.json](./366282-bee-master.json) |
@@ -5911,6 +5914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bethesda Pinball | 297501 | [297501-bethesda-pinball.json](./297501-bethesda-pinball.json) |
 | Betia Pera-pera English Adventure | 194976 | [194976-betia-pera-pera-english-adventure.json](./194976-betia-pera-pera-english-adventure.json) |
 | Betomis | 263943 | [263943-betomis.json](./263943-betomis.json) |
+| Beton Bath | 254009 | [254009-beton-bath.json](./254009-beton-bath.json) |
 | Beton Brutal | 240683 | [240683-beton-brutal.json](./240683-beton-brutal.json) |
 | BeTrapped! | 71522 | [71522-betrapped.json](./71522-betrapped.json) |
 | Betray Me Not | 239679 | [239679-betray-me-not.json](./239679-betray-me-not.json) |
@@ -6328,6 +6332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibou | 32916 | [32916-bibou.json](./32916-bibou.json) |
 | Bibou Quest | 150917 | [150917-bibou-quest.json](./150917-bibou-quest.json) |
 | Bic's Christmas Tale | 317344 | [317344-bics-christmas-tale.json](./317344-bics-christmas-tale.json) |
+| Bichito Clicker | 254008 | [254008-bichito-clicker.json](./254008-bichito-clicker.json) |
 | Bicho | 223474 | [223474-bicho.json](./223474-bicho.json) |
 | Bickadoodle | 185088 | [185088-bickadoodle.json](./185088-bickadoodle.json) |
 | Bicolor | 208385 | [208385-bicolor.json](./208385-bicolor.json) |
@@ -6348,6 +6353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bicyclism EP | 31950 | [31950-bicyclism-ep.json](./31950-bicyclism-ep.json) |
 | Bid Battle: Auction War Simulator Storage Hunter | 310459 | [310459-bid-battle-auction-war-simulator-storage-hunter.json](./310459-bid-battle-auction-war-simulator-storage-hunter.json) |
 | Bid King | 390605 | [390605-bid-king.json](./390605-bid-king.json) |
+| Bid War: Auction Simulator Storage Hunter | 254007 | [254007-bid-war-auction-simulator-storage-hunter.json](./254007-bid-war-auction-simulator-storage-hunter.json) |
 | Bid Whist: Card Game | 220817 | [220817-bid-whist-card-game.json](./220817-bid-whist-card-game.json) |
 | Biden My Time: A Joe Biden Garfield-Reading Simulator | 176737 | [176737-biden-my-time-a-joe-biden-garfield-reading-simulator.json](./176737-biden-my-time-a-joe-biden-garfield-reading-simulator.json) |
 | Bienvenue à la cosy académie | 129135 | [129135-bienvenue-a-la-cosy-academie.json](./129135-bienvenue-a-la-cosy-academie.json) |
@@ -11815,6 +11821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle vs. Bullet | 259685 | [259685-bottle-vs-bullet.json](./259685-bottle-vs-bullet.json) |
 | Bottle_Shooter | 55240 | [55240-bottle-shooter.json](./55240-bottle-shooter.json) |
 | Bottle: Pilgrim | 74638 | [74638-bottle-pilgrim.json](./74638-bottle-pilgrim.json) |
+| Bottle: Pilgrim Redux | 254088 | [254088-bottle-pilgrim-redux.json](./254088-bottle-pilgrim-redux.json) |
 | Bottled by Bears | 405328 | [405328-bottled-by-bears.json](./405328-bottled-by-bears.json) |
 | Bottom of the 9th | 3369 | [3369-bottom-of-the-9th.json](./3369-bottom-of-the-9th.json) |
 | Bottom of the 9th | 93658 | [93658-bottom-of-the-9th.json](./93658-bottom-of-the-9th.json) |
@@ -15612,6 +15619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Stop Spirit | 408191 | [408191-bus-stop-spirit.json](./408191-bus-stop-spirit.json) |
 | Bus Story: games for kids | 98999 | [98999-bus-story-games-for-kids.json](./98999-bus-story-games-for-kids.json) |
 | Bus Tycoon ND | 24995 | [24995-bus-tycoon-nd.json](./24995-bus-tycoon-nd.json) |
+| Bus Tycoon Night and Day | 254077 | [254077-bus-tycoon-night-and-day.json](./254077-bus-tycoon-night-and-day.json) |
 | Bus World | 126333 | [126333-bus-world.json](./126333-bus-world.json) |
 | Bus-Simulator 2012 | 16700 | [16700-bus-simulator-2012.json](./16700-bus-simulator-2012.json) |
 | Buscando a Bigotes | 417981 | [417981-buscando-a-bigotes.json](./417981-buscando-a-bigotes.json) |
