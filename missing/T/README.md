@@ -2732,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech vs Magic | 126480 | [126480-tech-vs-magic.json](./126480-tech-vs-magic.json) |
 | Tech Warriors Giga Fighters | 218015 | [218015-tech-warriors-giga-fighters.json](./218015-tech-warriors-giga-fighters.json) |
 | Tech-Heresy | 272497 | [272497-tech-heresy.json](./272497-tech-heresy.json) |
+| Tech-Panic | 279789 | [279789-tech-panic.json](./279789-tech-panic.json) |
 | Tech48 | 92628 | [92628-tech48.json](./92628-tech48.json) |
 | Techblox | 144900 | [144900-techblox.json](./144900-techblox.json) |
 | Techium Eclipse | 183508 | [183508-techium-eclipse.json](./183508-techium-eclipse.json) |
@@ -4993,6 +4994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Universe of the Psychotrons | 315610 | [315610-the-amazing-universe-of-the-psychotrons.json](./315610-the-amazing-universe-of-the-psychotrons.json) |
 | The Amazing Virtual Sea-Monkeys | 49267 | [49267-the-amazing-virtual-sea-monkeys.json](./49267-the-amazing-virtual-sea-monkeys.json) |
 | The Amazing World of Gumball Mini Games | 352173 | [352173-the-amazing-world-of-gumball-mini-games.json](./352173-the-amazing-world-of-gumball-mini-games.json) |
+| The Amazing World of Gumball: Fellowship of the Things | 279435 | [279435-the-amazing-world-of-gumball-fellowship-of-the-things.json](./279435-the-amazing-world-of-gumball-fellowship-of-the-things.json) |
 | The Amazon Trail | 2306 | [2306-the-amazon-trail.json](./2306-the-amazon-trail.json) |
 | The Ambassador: Fractured Timelines | 128228 | [128228-the-ambassador-fractured-timelines.json](./128228-the-ambassador-fractured-timelines.json) |
 | The Amber Throne | 19517 | [19517-the-amber-throne.json](./19517-the-amber-throne.json) |
@@ -7956,6 +7958,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fan | 30114 | [30114-the-fan.json](./30114-the-fan.json) |
 | The Fan Game - Ghostbusters and The Secret of Monkey Island | 394785 | [394785-the-fan-game-ghostbusters-and-the-secret-of-monkey-island.json](./394785-the-fan-game-ghostbusters-and-the-secret-of-monkey-island.json) |
 | The Fan Game: Back to the Future - Part III: Timeline of Monkey Island | 279213 | [279213-the-fan-game-back-to-the-future-part-iii-timeline-of-monkey-island.json](./279213-the-fan-game-back-to-the-future-part-iii-timeline-of-monkey-island.json) |
+| The Fan Game: Back to the Future - Part IV: The Multitasking Crystal | 279447 | [279447-the-fan-game-back-to-the-future-part-iv-the-multitasking-crystal.json](./279447-the-fan-game-back-to-the-future-part-iv-the-multitasking-crystal.json) |
+| The Fan Game: Back to the Future - Part V: Multidimensional Space-Timelines | 279448 | [279448-the-fan-game-back-to-the-future-part-v-multidimensional-space-timelines.json](./279448-the-fan-game-back-to-the-future-part-v-multidimensional-space-timelines.json) |
 | The Fanciful Chronicle | 297833 | [297833-the-fanciful-chronicle.json](./297833-the-fanciful-chronicle.json) |
 | The Fancy Pants Adventure: World 3 | 65260 | [65260-the-fancy-pants-adventure-world-3.json](./65260-the-fancy-pants-adventure-world-3.json) |
 | The Fancy Pants Adventures | 51634 | [51634-the-fancy-pants-adventures.json](./51634-the-fancy-pants-adventures.json) |
@@ -13241,6 +13245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rapid Treasure Escape | 176325 | [176325-the-rapid-treasure-escape.json](./176325-the-rapid-treasure-escape.json) |
 | The Raptured | 289967 | [289967-the-raptured.json](./289967-the-raptured.json) |
 | The Ratchelor Season 2 | 191517 | [191517-the-ratchelor-season-2.json](./191517-the-ratchelor-season-2.json) |
+| The Ratchelor Season 3: Rats in the City | 279804 | [279804-the-ratchelor-season-3-rats-in-the-city.json](./279804-the-ratchelor-season-3-rats-in-the-city.json) |
 | The Ratchelor: A Rat Dating Sim | 143502 | [143502-the-ratchelor-a-rat-dating-sim.json](./143502-the-ratchelor-a-rat-dating-sim.json) |
 | The Ratline | 351273 | [351273-the-ratline.json](./351273-the-ratline.json) |
 | The Rats | 9558 | [9558-the-rats.json](./9558-the-rats.json) |
@@ -15692,6 +15697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Two Moons | 249939 | [249939-the-two-moons.json](./249939-the-two-moons.json) |
 | The Two of Us | 185944 | [185944-the-two-of-us.json](./185944-the-two-of-us.json) |
 | The Two Thinkers | 333335 | [333335-the-two-thinkers.json](./333335-the-two-thinkers.json) |
+| The Two Towers | 279652 | [279652-the-two-towers.json](./279652-the-two-towers.json) |
 | The Typing of the Dead | 11605 | [11605-the-typing-of-the-dead.json](./11605-the-typing-of-the-dead.json) |
 | The Typing of the Dead: Overkill - Dancing with the Dead DLC | 53785 | [53785-the-typing-of-the-dead-overkill-dancing-with-the-dead-dlc.json](./53785-the-typing-of-the-dead-overkill-dancing-with-the-dead-dlc.json) |
 | The Typing of the Dead: Overkill - Filth DLC | 53786 | [53786-the-typing-of-the-dead-overkill-filth-dlc.json](./53786-the-typing-of-the-dead-overkill-filth-dlc.json) |
