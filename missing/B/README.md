@@ -2452,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrel Boot Camp | 100571 | [100571-barrel-boot-camp.json](./100571-barrel-boot-camp.json) |
 | Barrel Defender Galaxy | 175563 | [175563-barrel-defender-galaxy.json](./175563-barrel-defender-galaxy.json) |
 | Barrel Full of Monkeys | 223496 | [223496-barrel-full-of-monkeys.json](./223496-barrel-full-of-monkeys.json) |
+| Barrel It: The Water Adventure | 248392 | [248392-barrel-it-the-water-adventure.json](./248392-barrel-it-the-water-adventure.json) |
 | Barrel of DNA | 175220 | [175220-barrel-of-dna.json](./175220-barrel-of-dna.json) |
 | Barrel Rescue | 7438 | [7438-barrel-rescue.json](./7438-barrel-rescue.json) |
 | Barrel River 2 | 196809 | [196809-barrel-river-2.json](./196809-barrel-river-2.json) |
@@ -4517,6 +4518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Nebula | 25609 | [25609-beat-nebula.json](./25609-beat-nebula.json) |
 | Beat of Life | 347311 | [347311-beat-of-life.json](./347311-beat-of-life.json) |
 | Beat of Rebellion | 373532 | [373532-beat-of-rebellion.json](./373532-beat-of-rebellion.json) |
+| Beat of the Pixel Heat | 248833 | [248833-beat-of-the-pixel-heat.json](./248833-beat-of-the-pixel-heat.json) |
 | Beat or Die: The MiniGames | 127368 | [127368-beat-or-die-the-minigames.json](./127368-beat-or-die-the-minigames.json) |
 | Beat Planet Music | 98807 | [98807-beat-planet-music.json](./98807-beat-planet-music.json) |
 | Beat Refle | 209689 | [209689-beat-refle.json](./209689-beat-refle.json) |
@@ -5247,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Begie Ade: A lyric of Lie and Retribution | 153533 | [153533-begie-ade-a-lyric-of-lie-and-retribution.json](./153533-begie-ade-a-lyric-of-lie-and-retribution.json) |
 | Beginner'sGame | 96643 | [96643-beginnersgame.json](./96643-beginnersgame.json) |
 | Beginning Grammer | 42195 | [42195-beginning-grammer.json](./42195-beginning-grammer.json) |
+| Beginning of the Rain | 248387 | [248387-beginning-of-the-rain.json](./248387-beginning-of-the-rain.json) |
 | Beglov Style | 129060 | [129060-beglov-style.json](./129060-beglov-style.json) |
 | BeGone | 109038 | [109038-begone.json](./109038-begone.json) |
 | BeGone: WarLand 2 | 101925 | [101925-begone-warland-2.json](./101925-begone-warland-2.json) |
@@ -11122,6 +11125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Warper | 323777 | [323777-bone-warper.json](./323777-bone-warper.json) |
 | Bone: Out From Boneville | 10059 | [10059-bone-out-from-boneville.json](./10059-bone-out-from-boneville.json) |
 | Bone's Cafe | 188921 | [188921-bones-cafe.json](./188921-bones-cafe.json) |
+| Bone2.exe: Life After Death | 248825 | [248825-bone2-exe-life-after-death.json](./248825-bone2-exe-life-after-death.json) |
 | BoneBone | 19752 | [19752-bonebone.json](./19752-bonebone.json) |
 | BoneBone: Rise of the Deathlord | 32808 | [32808-bonebone-rise-of-the-deathlord.json](./32808-bonebone-rise-of-the-deathlord.json) |
 | BoneCraft | 51268 | [51268-bonecraft.json](./51268-bonecraft.json) |
@@ -15814,6 +15818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ButteredLilly's Random Quotes & Avatar Remote | 303716 | [303716-butteredlillys-random-quotes-and-avatar-remote.json](./303716-butteredlillys-random-quotes-and-avatar-remote.json) |
 | Butterflies Bundle | 164787 | [164787-butterflies-bundle.json](./164787-butterflies-bundle.json) |
 | Butterflies Episode 2: Getting Up | 176211 | [176211-butterflies-episode-2-getting-up.json](./176211-butterflies-episode-2-getting-up.json) |
+| Butterflies Episode 3: Welcome to the Jungle | 248687 | [248687-butterflies-episode-3-welcome-to-the-jungle.json](./248687-butterflies-episode-3-welcome-to-the-jungle.json) |
 | Butterflies: Episode 1 - Rudies | 134666 | [134666-butterflies-episode-1-rudies.json](./134666-butterflies-episode-1-rudies.json) |
 | ButterFlight | 98934 | [98934-butterflight.json](./98934-butterflight.json) |
 | Butterflowers | 186180 | [186180-butterflowers.json](./186180-butterflowers.json) |
