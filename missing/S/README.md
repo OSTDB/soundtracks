@@ -1945,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savanna | 346098 | [346098-savanna.json](./346098-savanna.json) |
 | Savanna Shot VR | 102391 | [102391-savanna-shot-vr.json](./102391-savanna-shot-vr.json) |
 | Savanna Story Diamond Edition | 274921 | [274921-savanna-story-diamond-edition.json](./274921-savanna-story-diamond-edition.json) |
+| Savannah Gurashi no Cheetah-san | 269942 | [269942-savannah-gurashi-no-cheetah-san.json](./269942-savannah-gurashi-no-cheetah-san.json) |
 | Savannah Park | 187783 | [187783-savannah-park.json](./187783-savannah-park.json) |
 | Savannah Runnah | 243610 | [243610-savannah-runnah.json](./243610-savannah-runnah.json) |
 | Savant: Ascent | 7879 | [7879-savant-ascent.json](./7879-savant-ascent.json) |
@@ -2969,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Valravn | 280174 | [280174-scp-valravn.json](./280174-scp-valravn.json) |
 | Scrabble | 131524 | [131524-scrabble.json](./131524-scrabble.json) |
 | Scrabble | 199433 | [199433-scrabble.json](./199433-scrabble.json) |
+| Scrabble | 270238 | [270238-scrabble.json](./270238-scrabble.json) |
 | Scrabble | 282608 | [282608-scrabble.json](./282608-scrabble.json) |
 | Scrabble | 286433 | [286433-scrabble.json](./286433-scrabble.json) |
 | Scrabble | 344151 | [344151-scrabble.json](./344151-scrabble.json) |
@@ -6252,6 +6254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shao Lin | 137383 | [137383-shao-lin.json](./137383-shao-lin.json) |
 | Shaolin | 18299 | [18299-shaolin.json](./18299-shaolin.json) |
 | Shaolin Bao | 303478 | [303478-shaolin-bao.json](./303478-shaolin-bao.json) |
+| Shaolin Carcará | 270235 | [270235-shaolin-carcara.json](./270235-shaolin-carcara.json) |
 | Shaolin Master | 123063 | [123063-shaolin-master.json](./123063-shaolin-master.json) |
 | Shaolin Master Plus | 123062 | [123062-shaolin-master-plus.json](./123062-shaolin-master-plus.json) |
 | Shaolin Sudoku | 180218 | [180218-shaolin-sudoku.json](./180218-shaolin-sudoku.json) |
@@ -6894,6 +6897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiba Eternity | 221385 | [221385-shiba-eternity.json](./221385-shiba-eternity.json) |
 | Shiba Inu Rescue | 147381 | [147381-shiba-inu-rescue.json](./147381-shiba-inu-rescue.json) |
 | Shiba Mekuri | 158726 | [158726-shiba-mekuri.json](./158726-shiba-mekuri.json) |
+| Shiba Simulator Supreme | 269956 | [269956-shiba-simulator-supreme.json](./269956-shiba-simulator-supreme.json) |
 | Shiba Sweet | 347830 | [347830-shiba-sweet.json](./347830-shiba-sweet.json) |
 | Shiba Wars | 397913 | [397913-shiba-wars.json](./397913-shiba-wars.json) |
 | Shibainu: VR Katana Simulator | 197408 | [197408-shibainu-vr-katana-simulator.json](./197408-shibainu-vr-katana-simulator.json) |
@@ -15322,6 +15326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: Blasting Adventure | 317704 | [317704-sonic-the-hedgehog-blasting-adventure.json](./317704-sonic-the-hedgehog-blasting-adventure.json) |
 | Sonic the Hedgehog: Borderline | 318516 | [318516-sonic-the-hedgehog-borderline.json](./318516-sonic-the-hedgehog-borderline.json) |
 | Sonic the Hedgehog: Brutus | 326550 | [326550-sonic-the-hedgehog-brutus.json](./326550-sonic-the-hedgehog-brutus.json) |
+| Sonic the Hedgehog: Chaos Crush | 269935 | [269935-sonic-the-hedgehog-chaos-crush.json](./269935-sonic-the-hedgehog-chaos-crush.json) |
 | Sonic the Hedgehog: Chaos Delta | 335712 | [335712-sonic-the-hedgehog-chaos-delta.json](./335712-sonic-the-hedgehog-chaos-delta.json) |
 | Sonic the Hedgehog: Chaos Factor | 330963 | [330963-sonic-the-hedgehog-chaos-factor.json](./330963-sonic-the-hedgehog-chaos-factor.json) |
 | Sonic the Hedgehog: Chaos Spirits | 331396 | [331396-sonic-the-hedgehog-chaos-spirits.json](./331396-sonic-the-hedgehog-chaos-spirits.json) |
@@ -15444,6 +15449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: Before the Sequel - Aftermath | 139181 | [139181-sonic-before-the-sequel-aftermath.json](./139181-sonic-before-the-sequel-aftermath.json) |
 | Sonic: Before the Sequel - Redux | 266508 | [266508-sonic-before-the-sequel-redux.json](./266508-sonic-before-the-sequel-redux.json) |
 | Sonic: Between Worlds | 326163 | [326163-sonic-between-worlds.json](./326163-sonic-between-worlds.json) |
+| Sonic: Brother Trouble | 270225 | [270225-sonic-brother-trouble.json](./270225-sonic-brother-trouble.json) |
 | Sonic: Christmas Trouble | 361631 | [361631-sonic-christmas-trouble.json](./361631-sonic-christmas-trouble.json) |
 | Sonic: Dark Abyss | 333709 | [333709-sonic-dark-abyss.json](./333709-sonic-dark-abyss.json) |
 | Sonic: Dark Horizon | 330822 | [330822-sonic-dark-horizon.json](./330822-sonic-dark-horizon.json) |
@@ -15551,6 +15557,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sons of Tyr | 176424 | [176424-sons-of-tyr.json](./176424-sons-of-tyr.json) |
 | Sonsgorod: The Archipelago | 311900 | [311900-sonsgorod-the-archipelago.json](./311900-sonsgorod-the-archipelago.json) |
 | Sonucido: The Mage - A Dungeon Crawler by Daniel da Silva | 193200 | [193200-sonucido-the-mage-a-dungeon-crawler-by-daniel-da-silva.json](./193200-sonucido-the-mage-a-dungeon-crawler-by-daniel-da-silva.json) |
+| Sonyc | 269933 | [269933-sonyc.json](./269933-sonyc.json) |
+| Sonyc | 269934 | [269934-sonyc.json](./269934-sonyc.json) |
 | Sonyeojeonjaeng: Hwansangui Cheonhatongil-jeon | 233548 | [233548-sonyeojeonjaeng-hwansangui-cheonhatongil-jeon.json](./233548-sonyeojeonjaeng-hwansangui-cheonhatongil-jeon.json) |
 | Sonzai | 138210 | [138210-sonzai.json](./138210-sonzai.json) |
 | Soon Shine | 85389 | [85389-soon-shine.json](./85389-soon-shine.json) |
@@ -26316,6 +26324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Buster Bros. | 38423 | [38423-super-buster-bros.json](./38423-super-buster-bros.json) |
 | Super Button Soccer | 33927 | [33927-super-button-soccer.json](./33927-super-button-soccer.json) |
 | Super Buzzy: Star of Eternity | 323902 | [323902-super-buzzy-star-of-eternity.json](./323902-super-buzzy-star-of-eternity.json) |
+| Super Byoon | 270236 | [270236-super-byoon.json](./270236-super-byoon.json) |
 | Super C | 84919 | [84919-super-c.json](./84919-super-c.json) |
 | Super Cabbage Kabumi | 352187 | [352187-super-cabbage-kabumi.json](./352187-super-cabbage-kabumi.json) |
 | Super Cable Boy | 139217 | [139217-super-cable-boy.json](./139217-super-cable-boy.json) |
