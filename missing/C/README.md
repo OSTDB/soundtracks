@@ -14675,6 +14675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crey | 126030 | [126030-crey.json](./126030-crey.json) |
 | CRI Gokan Pack | 299824 | [299824-cri-gokan-pack.json](./299824-cri-gokan-pack.json) |
 | Criaturas de la Noche | 272011 | [272011-criaturas-de-la-noche.json](./272011-criaturas-de-la-noche.json) |
+| Crib | 264749 | [264749-crib.json](./264749-crib.json) |
 | Cribbage | 83490 | [83490-cribbage.json](./83490-cribbage.json) |
 | Cribbage | 83492 | [83492-cribbage.json](./83492-cribbage.json) |
 | Cribbage Academy | 91279 | [91279-cribbage-academy.json](./91279-cribbage-academy.json) |
