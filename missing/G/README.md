@@ -5069,6 +5069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Medicine | 414832 | [414832-god-of-medicine.json](./414832-god-of-medicine.json) |
 | God of Riffs | 148697 | [148697-god-of-riffs.json](./148697-god-of-riffs.json) |
 | God of Rock | 214507 | [214507-god-of-rock.json](./214507-god-of-rock.json) |
+| God of Stickfights | 279454 | [279454-god-of-stickfights.json](./279454-god-of-stickfights.json) |
 | God of Stocks | 412963 | [412963-god-of-stocks.json](./412963-god-of-stocks.json) |
 | God of the Arena Dungeon | 163196 | [163196-god-of-the-arena-dungeon.json](./163196-god-of-the-arena-dungeon.json) |
 | God of Thunder | 2526 | [2526-god-of-thunder.json](./2526-god-of-thunder.json) |
@@ -6980,6 +6981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grasshopper Farm | 134026 | [134026-grasshopper-farm.json](./134026-grasshopper-farm.json) |
 | Grassland Defender Keita | 211074 | [211074-grassland-defender-keita.json](./211074-grassland-defender-keita.json) |
 | Grassland Planet | 354919 | [354919-grassland-planet.json](./354919-grassland-planet.json) |
+| Grassland Survivors | 279796 | [279796-grassland-survivors.json](./279796-grassland-survivors.json) |
 | Grater | 115629 | [115629-grater.json](./115629-grater.json) |
 | Gratia | 183021 | [183021-gratia.json](./183021-gratia.json) |
 | Gratuitous Animal Massacre | 119748 | [119748-gratuitous-animal-massacre.json](./119748-gratuitous-animal-massacre.json) |
@@ -8538,6 +8540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GTA Long Night | 309592 | [309592-gta-long-night.json](./309592-gta-long-night.json) |
 | GtaGuessr | 322025 | [322025-gtaguessr.json](./322025-gtaguessr.json) |
 | GTFO | 36646 | [36646-gtfo.json](./36646-gtfo.json) |
+| GTFO: The Final Chapter | 279648 | [279648-gtfo-the-final-chapter.json](./279648-gtfo-the-final-chapter.json) |
 | GTH 3033: Grand Theft Hunter 3033 | 285486 | [285486-gth-3033-grand-theft-hunter-3033.json](./285486-gth-3033-grand-theft-hunter-3033.json) |
 | GTI Club+: Rally Côte d'Azur | 97105 | [97105-gti-club-rally-cote-dazur.json](./97105-gti-club-rally-cote-dazur.json) |
 | GTI Racing | 14804 | [14804-gti-racing.json](./14804-gti-racing.json) |
@@ -8904,6 +8907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Additional Battle Stage: White House Reborn | 254562 | [254562-guilty-gear-strive-additional-battle-stage-white-house-reborn.json](./254562-guilty-gear-strive-additional-battle-stage-white-house-reborn.json) |
 | Guilty Gear: Strive - Additional Character 1: Goldlewis Dickinson | 160697 | [160697-guilty-gear-strive-additional-character-1-goldlewis-dickinson.json](./160697-guilty-gear-strive-additional-character-1-goldlewis-dickinson.json) |
 | Guilty Gear: Strive - Additional Character 10: Johnny | 263028 | [263028-guilty-gear-strive-additional-character-10-johnny.json](./263028-guilty-gear-strive-additional-character-10-johnny.json) |
+| Guilty Gear: Strive - Additional Character 11: Elphelt Valentine | 279656 | [279656-guilty-gear-strive-additional-character-11-elphelt-valentine.json](./279656-guilty-gear-strive-additional-character-11-elphelt-valentine.json) |
 | Guilty Gear: Strive - Additional Character 12: A.B.A | 293843 | [293843-guilty-gear-strive-additional-character-12-a-b-a.json](./293843-guilty-gear-strive-additional-character-12-a-b-a.json) |
 | Guilty Gear: Strive - Additional Character 13: Slayer | 299722 | [299722-guilty-gear-strive-additional-character-13-slayer.json](./299722-guilty-gear-strive-additional-character-13-slayer.json) |
 | Guilty Gear: Strive - Additional Character 18 - Jam Kuradoberi | 410656 | [410656-guilty-gear-strive-additional-character-18-jam-kuradoberi.json](./410656-guilty-gear-strive-additional-character-18-jam-kuradoberi.json) |
