@@ -5379,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wired | 307616 | [307616-wired.json](./307616-wired.json) |
 | Wired 2 Kill | 396668 | [396668-wired-2-kill.json](./396668-wired-2-kill.json) |
 | Wired Gambit | 307207 | [307207-wired-gambit.json](./307207-wired-gambit.json) |
+| Wired Soul | 269147 | [269147-wired-soul.json](./269147-wired-soul.json) |
 | Wired to the Moon | 185472 | [185472-wired-to-the-moon.json](./185472-wired-to-the-moon.json) |
 | Wired Tokyo | 395793 | [395793-wired-tokyo.json](./395793-wired-tokyo.json) |
 | Wired Twin-Stick Bundle | 90956 | [90956-wired-twin-stick-bundle.json](./90956-wired-twin-stick-bundle.json) |
