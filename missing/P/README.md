@@ -2285,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time 3 | 324133 | [324133-party-party-time-3.json](./324133-party-party-time-3.json) |
 | Party Party Time: Character Skin Pack | 250189 | [250189-party-party-time-character-skin-pack.json](./250189-party-party-time-character-skin-pack.json) |
 | Party Party Time: Character Skin Pack 2 | 256460 | [256460-party-party-time-character-skin-pack-2.json](./256460-party-party-time-character-skin-pack-2.json) |
+| Party Party Time: Excitement Happy Thrilling Power 4 Pack Set | 280063 | [280063-party-party-time-excitement-happy-thrilling-power-4-pack-set.json](./280063-party-party-time-excitement-happy-thrilling-power-4-pack-set.json) |
 | Party Party Time: Excitement Pack | 253804 | [253804-party-party-time-excitement-pack.json](./253804-party-party-time-excitement-pack.json) |
 | Party Party Time: Happy Happy Pack | 259855 | [259855-party-party-time-happy-happy-pack.json](./259855-party-party-time-happy-happy-pack.json) |
 | Party Party Time: Party Harder Pack | 233000 | [233000-party-party-time-party-harder-pack.json](./233000-party-party-time-party-harder-pack.json) |
@@ -2807,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawfect Cat Mansion | 314862 | [314862-pawfect-cat-mansion.json](./314862-pawfect-cat-mansion.json) |
 | Pawfectly Designed | 275449 | [275449-pawfectly-designed.json](./275449-pawfectly-designed.json) |
 | Pawfectly Designed: Deluxe Edition | 312062 | [312062-pawfectly-designed-deluxe-edition.json](./312062-pawfectly-designed-deluxe-edition.json) |
+| Pawfectly Designed: Extended Edition | 280066 | [280066-pawfectly-designed-extended-edition.json](./280066-pawfectly-designed-extended-edition.json) |
 | Pawffice | 390162 | [390162-pawffice.json](./390162-pawffice.json) |
 | Pawfish Bay | 337181 | [337181-pawfish-bay.json](./337181-pawfish-bay.json) |
 | Pawful Dice | 390809 | [390809-pawful-dice.json](./390809-pawful-dice.json) |
@@ -8536,6 +8538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please, Don't Touch Anything 3D | 31235 | [31235-please-dont-touch-anything-3d.json](./31235-please-dont-touch-anything-3d.json) |
 | Please, Don't Touch Anything VR | 103922 | [103922-please-dont-touch-anything-vr.json](./103922-please-dont-touch-anything-vr.json) |
 | Please, Don't Touch Anything: Classic | 151565 | [151565-please-dont-touch-anything-classic.json](./151565-please-dont-touch-anything-classic.json) |
+| Please, Don't Touch Anything: House Broken | 280061 | [280061-please-dont-touch-anything-house-broken.json](./280061-please-dont-touch-anything-house-broken.json) |
 | Please, Forgive Me | 256995 | [256995-please-forgive-me.json](./256995-please-forgive-me.json) |
 | Please, Spin | 403337 | [403337-please-spin.json](./403337-please-spin.json) |
 | Please, Stay Away | 362864 | [362864-please-stay-away.json](./362864-please-stay-away.json) |
@@ -12491,8 +12494,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker 4 | 72591 | [72591-princess-maker-4.json](./72591-princess-maker-4.json) |
 | Princess Maker 4 Portable | 205640 | [205640-princess-maker-4-portable.json](./205640-princess-maker-4-portable.json) |
 | Princess Maker Collection | 78302 | [78302-princess-maker-collection.json](./78302-princess-maker-collection.json) |
+| Princess Maker for Kakao | 280048 | [280048-princess-maker-for-kakao.json](./280048-princess-maker-for-kakao.json) |
 | Princess Maker Pocket Dai-sakusen | 64809 | [64809-princess-maker-pocket-dai-sakusen.json](./64809-princess-maker-pocket-dai-sakusen.json) |
+| Princess Maker Q | 280046 | [280046-princess-maker-q.json](./280046-princess-maker-q.json) |
 | Princess Maker Refine | 27317 | [27317-princess-maker-refine.json](./27317-princess-maker-refine.json) |
+| Princess Maker Social | 280049 | [280049-princess-maker-social.json](./280049-princess-maker-social.json) |
 | Princess Maker: Children of Revelation | 316082 | [316082-princess-maker-children-of-revelation.json](./316082-princess-maker-children-of-revelation.json) |
 | Princess Maker: Faery Tales Come True | 127847 | [127847-princess-maker-faery-tales-come-true.json](./127847-princess-maker-faery-tales-come-true.json) |
 | Princess Maker: Go! Go! Princess | 64812 | [64812-princess-maker-go-go-princess.json](./64812-princess-maker-go-go-princess.json) |
@@ -13206,6 +13212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Wise and His X-Ray Eyes | 209907 | [209907-professor-wise-and-his-x-ray-eyes.json](./209907-professor-wise-and-his-x-ray-eyes.json) |
 | Professora Abelha Aprendendo Figuras Geométricas | 294437 | [294437-professora-abelha-aprendendo-figuras-geometricas.json](./294437-professora-abelha-aprendendo-figuras-geometricas.json) |
 | Profi Girls | 247959 | [247959-profi-girls.json](./247959-profi-girls.json) |
+| Profiler Files: New Orleans | 280384 | [280384-profiler-files-new-orleans.json](./280384-profiler-files-new-orleans.json) |
 | Profiler: The Hopscotch Killer - Extended Edition | 262360 | [262360-profiler-the-hopscotch-killer-extended-edition.json](./262360-profiler-the-hopscotch-killer-extended-edition.json) |
 | Profiles of the Forgotten | 123419 | [123419-profiles-of-the-forgotten.json](./123419-profiles-of-the-forgotten.json) |
 | Profit or Peril | 374028 | [374028-profit-or-peril.json](./374028-profit-or-peril.json) |
