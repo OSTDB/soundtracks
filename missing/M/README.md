@@ -1856,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahoutsukai ni Naru Houhou | 97338 | [97338-mahoutsukai-ni-naru-houhou.json](./97338-mahoutsukai-ni-naru-houhou.json) |
 | Mahoutsukai no Yoru | 65487 | [65487-mahoutsukai-no-yoru.json](./65487-mahoutsukai-no-yoru.json) |
 | Mahsung Deluxe | 30738 | [30738-mahsung-deluxe.json](./30738-mahsung-deluxe.json) |
+| Mai and the Legendary Treasure | 248081 | [248081-mai-and-the-legendary-treasure.json](./248081-mai-and-the-legendary-treasure.json) |
 | Mai In The Mysterious Castle | 277595 | [277595-mai-in-the-mysterious-castle.json](./277595-mai-in-the-mysterious-castle.json) |
 | Mai Nurse | 384807 | [384807-mai-nurse.json](./384807-mai-nurse.json) |
 | Mai-Chan's Sweet Buns | 142448 | [142448-mai-chans-sweet-buns.json](./142448-mai-chans-sweet-buns.json) |
@@ -3784,6 +3785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Married in Red | 307253 | [307253-married-in-red.json](./307253-married-in-red.json) |
 | Married Life With a Lamia | 275440 | [275440-married-life-with-a-lamia.json](./275440-married-life-with-a-lamia.json) |
 | Married Teacher, Big-Boob Lesson | 97737 | [97737-married-teacher-big-boob-lesson.json](./97737-married-teacher-big-boob-lesson.json) |
+| Married Woman Cosplay Life | 248247 | [248247-married-woman-cosplay-life.json](./248247-married-woman-cosplay-life.json) |
 | Married Woman Eilla's NTR RPG: Two Man Cell Journey with Obeying a Douchey Guy | 82852 | [82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json](./82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json) |
 | Marron Helps a Friend | 122947 | [122947-marron-helps-a-friend.json](./122947-marron-helps-a-friend.json) |
 | Marron's Day | 272750 | [272750-marrons-day.json](./272750-marrons-day.json) |
@@ -16592,6 +16594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munchman: 35th Anniversary Edition | 308363 | [308363-munchman-35th-anniversary-edition.json](./308363-munchman-35th-anniversary-edition.json) |
 | Munchy 64 | 343415 | [343415-munchy-64.json](./343415-munchy-64.json) |
 | Munchy Cat | 389476 | [389476-munchy-cat.json](./389476-munchy-cat.json) |
+| Munchy Mammals | 248083 | [248083-munchy-mammals.json](./248083-munchy-mammals.json) |
 | Munchyman | 98234 | [98234-munchyman.json](./98234-munchyman.json) |
 | Mundaun | 101007 | [101007-mundaun.json](./101007-mundaun.json) |
 | Mundial de Fútbol | 86008 | [86008-mundial-de-futbol.json](./86008-mundial-de-futbol.json) |
