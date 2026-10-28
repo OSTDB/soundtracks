@@ -7293,6 +7293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Derby | 366418 | [366418-dice-derby.json](./366418-dice-derby.json) |
 | Dice Dice Dice | 309383 | [309383-dice-dice-dice.json](./309383-dice-dice-dice.json) |
 | Dice Dice Dice: A Roll Playing Game | 291300 | [291300-dice-dice-dice-a-roll-playing-game.json](./291300-dice-dice-dice-a-roll-playing-game.json) |
+| Dice Dice Fantasia | 278826 | [278826-dice-dice-fantasia.json](./278826-dice-dice-fantasia.json) |
 | Dice Dreams | 233897 | [233897-dice-dreams.json](./233897-dice-dreams.json) |
 | Dice Fight | 232368 | [232368-dice-fight.json](./232368-dice-fight.json) |
 | Dice Game | 226179 | [226179-dice-game.json](./226179-dice-game.json) |
@@ -10190,6 +10191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokimon Quest: II | 414852 | [414852-dokimon-quest-ii.json](./414852-dokimon-quest-ii.json) |
 | Dokis & Dragons | 334008 | [334008-dokis-and-dragons.json](./334008-dokis-and-dragons.json) |
 | Dokis World | 269030 | [269030-dokis-world.json](./269030-dokis-world.json) |
+| DokiSui: Doki-doki Suikoden | 278827 | [278827-dokisui-doki-doki-suikoden.json](./278827-dokisui-doki-doki-suikoden.json) |
 | Dokkaebi Hentai Adventures | 88073 | [88073-dokkaebi-hentai-adventures.json](./88073-dokkaebi-hentai-adventures.json) |
 | Dokkalfheim Magical University | 278526 | [278526-dokkalfheim-magical-university.json](./278526-dokkalfheim-magical-university.json) |
 | Doko Demo Issho: Let's Gakkou! | 72561 | [72561-doko-demo-issho-lets-gakkou.json](./72561-doko-demo-issho-lets-gakkou.json) |
