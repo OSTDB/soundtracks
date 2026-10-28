@@ -26328,6 +26328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super City: Superhero Sim | 140273 | [140273-super-city-superhero-sim.json](./140273-super-city-superhero-sim.json) |
 | Super Citycon: City Builder | 232541 | [232541-super-citycon-city-builder.json](./232541-super-citycon-city-builder.json) |
 | Super Clash Crossover | 120413 | [120413-super-clash-crossover.json](./120413-super-clash-crossover.json) |
+| Super Classics HD Bundle | 276867 | [276867-super-classics-hd-bundle.json](./276867-super-classics-hd-bundle.json) |
 | Super Climb Up | 123400 | [123400-super-climb-up.json](./123400-super-climb-up.json) |
 | Super Climb Up!! | 377053 | [377053-super-climb-up.json](./377053-super-climb-up.json) |
 | Super Cloner 3D | 223925 | [223925-super-cloner-3d.json](./223925-super-cloner-3d.json) |
@@ -27444,6 +27445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World | 270346 | [270346-super-mario-world.json](./270346-super-mario-world.json) |
 | Super Mario World 2021 | 267933 | [267933-super-mario-world-2021.json](./267933-super-mario-world-2021.json) |
 | Super Mario World 2025 | 378564 | [378564-super-mario-world-2025.json](./378564-super-mario-world-2025.json) |
+| Super Mario World 3: A Whole New World | 276879 | [276879-super-mario-world-3-a-whole-new-world.json](./276879-super-mario-world-3-a-whole-new-world.json) |
 | Super Mario World 64 | 230538 | [230538-super-mario-world-64.json](./230538-super-mario-world-64.json) |
 | Super Mario World and the Bois! | 268366 | [268366-super-mario-world-and-the-bois.json](./268366-super-mario-world-and-the-bois.json) |
 | Super Mario World Bros. | 268367 | [268367-super-mario-world-bros.json](./268367-super-mario-world-bros.json) |
@@ -27488,6 +27490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario: Fushigi no Janjanland | 230171 | [230171-super-mario-fushigi-no-janjanland.json](./230171-super-mario-fushigi-no-janjanland.json) |
 | Super Mario: Fushigi no Koro-koro Party | 132033 | [132033-super-mario-fushigi-no-koro-koro-party.json](./132033-super-mario-fushigi-no-koro-koro-party.json) |
 | Super Mario: Fushigi no Koro-koro Party 2 | 132034 | [132034-super-mario-fushigi-no-koro-koro-party-2.json](./132034-super-mario-fushigi-no-koro-koro-party-2.json) |
+| Super Mario: Hunter's Revenge 3 | 276888 | [276888-super-mario-hunters-revenge-3.json](./276888-super-mario-hunters-revenge-3.json) |
 | Super Mario: Magnum Opus | 250041 | [250041-super-mario-magnum-opus.json](./250041-super-mario-magnum-opus.json) |
 | Super Mario: Oiram's Invasion | 268403 | [268403-super-mario-oirams-invasion.json](./268403-super-mario-oirams-invasion.json) |
 | Super Mario: Red Scare | 321468 | [321468-super-mario-red-scare.json](./321468-super-mario-red-scare.json) |
