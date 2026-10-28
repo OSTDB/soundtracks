@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack Powersports | 112892 | [112892-pack-powersports.json](./112892-pack-powersports.json) |
 | Pack'n Boy | 138652 | [138652-packn-boy.json](./138652-packn-boy.json) |
 | Package chaos | 411698 | [411698-package-chaos.json](./411698-package-chaos.json) |
+| Package Dudes | 234240 | [234240-package-dudes.json](./234240-package-dudes.json) |
 | Package Handler VR | 112173 | [112173-package-handler-vr.json](./112173-package-handler-vr.json) |
 | Package Inc | 174530 | [174530-package-inc.json](./174530-package-inc.json) |
 | Package Inspector | 195697 | [195697-package-inspector.json](./195697-package-inspector.json) |
@@ -6420,6 +6421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pip L | 226685 | [226685-pip-l.json](./226685-pip-l.json) |
 | Pip My Dice | 314288 | [314288-pip-my-dice.json](./314288-pip-my-dice.json) |
 | Pip Pepper Park Planner | 347116 | [347116-pip-pepper-park-planner.json](./347116-pip-pepper-park-planner.json) |
+| Pip XL | 234235 | [234235-pip-xl.json](./234235-pip-xl.json) |
 | Pip: Battle for the Arctic | 240723 | [240723-pip-battle-for-the-arctic.json](./240723-pip-battle-for-the-arctic.json) |
 | Pip! | 123445 | [123445-pip.json](./123445-pip.json) |
 | Pip's Big Discovery | 407269 | [407269-pips-big-discovery.json](./407269-pips-big-discovery.json) |
@@ -13042,6 +13044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PrizeMap | 398641 | [398641-prizemap.json](./398641-prizemap.json) |
 | Prizm | 92899 | [92899-prizm.json](./92899-prizm.json) |
 | Prizma Puzzle Classic | 378184 | [378184-prizma-puzzle-classic.json](./378184-prizma-puzzle-classic.json) |
+| Prizma Puzzle Prime | 234275 | [234275-prizma-puzzle-prime.json](./234275-prizma-puzzle-prime.json) |
 | Pro 123 My Little Funny Animals Connect the Dots | 102616 | [102616-pro-123-my-little-funny-animals-connect-the-dots.json](./102616-pro-123-my-little-funny-animals-connect-the-dots.json) |
 | Pro 18: World Tour Golf | 43821 | [43821-pro-18-world-tour-golf.json](./43821-pro-18-world-tour-golf.json) |
 | Pro Baccarat | 351003 | [351003-pro-baccarat.json](./351003-pro-baccarat.json) |
