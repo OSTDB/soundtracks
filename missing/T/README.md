@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics V: "Obsidian Brigade" | 119598 | [119598-tactics-v-obsidian-brigade.json](./119598-tactics-v-obsidian-brigade.json) |
 | Tactics: Bludgeons Blessing | 44130 | [44130-tactics-bludgeons-blessing.json](./44130-tactics-bludgeons-blessing.json) |
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
+| TactiCube | 235946 | [235946-tacticube.json](./235946-tacticube.json) |
 | Tactile Wars | 76564 | [76564-tactile-wars.json](./76564-tactile-wars.json) |
 | Tactilite | 397160 | [397160-tactilite.json](./397160-tactilite.json) |
 | Tactishia | 297894 | [297894-tactishia.json](./297894-tactishia.json) |
@@ -1245,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of TianYuan Dynasty | 220747 | [220747-tales-of-tianyuan-dynasty.json](./220747-tales-of-tianyuan-dynasty.json) |
 | Tales of Tirunia | 379430 | [379430-tales-of-tirunia.json](./379430-tales-of-tirunia.json) |
 | Tales of Tonbrook | 360336 | [360336-tales-of-tonbrook.json](./360336-tales-of-tonbrook.json) |
+| Tales of Tsuki: Moon Guardians | 235920 | [235920-tales-of-tsuki-moon-guardians.json](./235920-tales-of-tsuki-moon-guardians.json) |
 | Tales of Tuscany | 341407 | [341407-tales-of-tuscany.json](./341407-tales-of-tuscany.json) |
 | Tales of Tyria | 135808 | [135808-tales-of-tyria.json](./135808-tales-of-tyria.json) |
 | Tales of Valkyrie | 379436 | [379436-tales-of-valkyrie.json](./379436-tales-of-valkyrie.json) |
@@ -1840,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TankVR | 68505 | [68505-tankvr.json](./68505-tankvr.json) |
 | Tanky Panky | 158508 | [158508-tanky-panky.json](./158508-tanky-panky.json) |
 | Tanky Tanks | 120399 | [120399-tanky-tanks.json](./120399-tanky-tanks.json) |
+| Tanky Tanks 2 | 235910 | [235910-tanky-tanks-2.json](./235910-tanky-tanks-2.json) |
 | Tanky Tanks VR | 128928 | [128928-tanky-tanks-vr.json](./128928-tanky-tanks-vr.json) |
 | TankYou! | 31685 | [31685-tankyou.json](./31685-tankyou.json) |
 | TankZone Battle | 20343 | [20343-tankzone-battle.json](./20343-tankzone-battle.json) |
@@ -26329,6 +26332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunter for Pico | 285845 | [285845-treasure-hunter-for-pico.json](./285845-treasure-hunter-for-pico.json) |
 | Treasure Hunter G | 15844 | [15844-treasure-hunter-g.json](./15844-treasure-hunter-g.json) |
 | Treasure Hunter Simulator 2 | 153995 | [153995-treasure-hunter-simulator-2.json](./153995-treasure-hunter-simulator-2.json) |
+| Treasure Hunter VR | 235939 | [235939-treasure-hunter-vr.json](./235939-treasure-hunter-vr.json) |
 | Treasure Hunter X | 85522 | [85522-treasure-hunter-x.json](./85522-treasure-hunter-x.json) |
 | Treasure Hunter: History of Monastery Gold | 253581 | [253581-treasure-hunter-history-of-monastery-gold.json](./253581-treasure-hunter-history-of-monastery-gold.json) |
 | Treasure Hunter: Idle RPG | 311246 | [311246-treasure-hunter-idle-rpg.json](./311246-treasure-hunter-idle-rpg.json) |
@@ -26988,6 +26992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Action Volume 5 | 93382 | [93382-triple-action-volume-5.json](./93382-triple-action-volume-5.json) |
 | Triple Agent! | 75144 | [75144-triple-agent.json](./75144-triple-agent.json) |
 | Triple Bubble | 307579 | [307579-triple-bubble.json](./307579-triple-bubble.json) |
+| Triple Canopy no Majo | 235936 | [235936-triple-canopy-no-majo.json](./235936-triple-canopy-no-majo.json) |
 | Triple Command | 42158 | [42158-triple-command.json](./42158-triple-command.json) |
 | Triple Crown Championship Snowboarding | 50732 | [50732-triple-crown-championship-snowboarding.json](./50732-triple-crown-championship-snowboarding.json) |
 | Triple Dungeon | 157476 | [157476-triple-dungeon.json](./157476-triple-dungeon.json) |
