@@ -1891,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jingi Storm: The Arcade | 77813 | [77813-jingi-storm-the-arcade.json](./77813-jingi-storm-the-arcade.json) |
 | Jìngjiè 2: Qiánkūn Yī Zhì | 373687 | [373687-jingjie-2-qiankun-yi-zhi.json](./373687-jingjie-2-qiankun-yi-zhi.json) |
 | Jingle | 81694 | [81694-jingle.json](./81694-jingle.json) |
+| Jingle Balls | 235393 | [235393-jingle-balls.json](./235393-jingle-balls.json) |
 | Jingle Cats | 63293 | [63293-jingle-cats.json](./63293-jingle-cats.json) |
 | Jingle Strike VR | 381764 | [381764-jingle-strike-vr.json](./381764-jingle-strike-vr.json) |
 | Jinglebug Journey | 409835 | [409835-jinglebug-journey.json](./409835-jinglebug-journey.json) |
