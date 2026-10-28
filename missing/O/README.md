@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O Réquiem das Crianças | 385652 | [385652-o-requiem-das-criancas.json](./385652-o-requiem-das-criancas.json) |
 | O Salão Encantado | 216274 | [216274-o-salao-encantado.json](./216274-o-salao-encantado.json) |
 | O Sítio do Picapau Amarelo: As Reinações de Narizinho | 286924 | [286924-o-sitio-do-picapau-amarelo-as-reinacoes-de-narizinho.json](./286924-o-sitio-do-picapau-amarelo-as-reinacoes-de-narizinho.json) |
+| O Sombrio: A Voz das Almas | 278832 | [278832-o-sombrio-a-voz-das-almas.json](./278832-o-sombrio-a-voz-das-almas.json) |
 | O Vagabundo | 290018 | [290018-o-vagabundo.json](./290018-o-vagabundo.json) |
 | O Viajante | 281889 | [281889-o-viajante.json](./281889-o-viajante.json) |
 | O-Bot The Robot | 336608 | [336608-o-bot-the-robot.json](./336608-o-bot-the-robot.json) |
@@ -963,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Apollo! | 396123 | [396123-oh-apollo.json](./396123-oh-apollo.json) |
 | Oh Baby! Kart | 278139 | [278139-oh-baby-kart.json](./278139-oh-baby-kart.json) |
 | Oh Balls 2 | 103527 | [103527-oh-balls-2.json](./103527-oh-balls-2.json) |
+| Oh Balls Merge | 278834 | [278834-oh-balls-merge.json](./278834-oh-balls-merge.json) |
 | Oh Boy Cheese | 106617 | [106617-oh-boy-cheese.json](./106617-oh-boy-cheese.json) |
 | Oh Boy Cheese Remastered | 341503 | [341503-oh-boy-cheese-remastered.json](./341503-oh-boy-cheese-remastered.json) |
 | Oh Boy More Cheese | 192642 | [192642-oh-boy-more-cheese.json](./192642-oh-boy-more-cheese.json) |
@@ -2909,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenPop | 184869 | [184869-openpop.json](./184869-openpop.json) |
 | OpenQuest | 94550 | [94550-openquest.json](./94550-openquest.json) |
 | OpenQuiz | 246110 | [246110-openquiz.json](./246110-openquiz.json) |
+| OpenSeason | 279154 | [279154-openseason.json](./279154-openseason.json) |
 | OpenSpades | 98371 | [98371-openspades.json](./98371-openspades.json) |
 | OpenTaiko | 323888 | [323888-opentaiko.json](./323888-opentaiko.json) |
 | OpenTTD | 18074 | [18074-openttd.json](./18074-openttd.json) |
@@ -3478,6 +3481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ordinary Stickman Goes For A Walk | 289245 | [289245-ordinary-stickman-goes-for-a-walk.json](./289245-ordinary-stickman-goes-for-a-walk.json) |
 | Ordinary Suspects | 418211 | [418211-ordinary-suspects.json](./418211-ordinary-suspects.json) |
 | Ordinem | 114339 | [114339-ordinem.json](./114339-ordinem.json) |
+| Ordinem | 279146 | [279146-ordinem.json](./279146-ordinem.json) |
 | Ordo Et Chao: New World | 113562 | [113562-ordo-et-chao-new-world.json](./113562-ordo-et-chao-new-world.json) |
 | Ore & Odds | 400688 | [400688-ore-and-odds.json](./400688-ore-and-odds.json) |
 | Ore Dake no Idol: eye no Sainou | 194594 | [194594-ore-dake-no-idol-eye-no-sainou.json](./194594-ore-dake-no-idol-eye-no-sainou.json) |
@@ -4479,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outertale: Project Spacetime | 313236 | [313236-outertale-project-spacetime.json](./313236-outertale-project-spacetime.json) |
 | Outertown | 118191 | [118191-outertown.json](./118191-outertown.json) |
 | Outerverse | 164901 | [164901-outerverse.json](./164901-outerverse.json) |
+| Outfield | 279153 | [279153-outfield.json](./279153-outfield.json) |
 | Outfoxed | 179165 | [179165-outfoxed.json](./179165-outfoxed.json) |
 | Outgrown | 188001 | [188001-outgrown.json](./188001-outgrown.json) |
 | Outhold | 345514 | [345514-outhold.json](./345514-outhold.json) |
