@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Island Driver | 201257 | [201257-paradise-island-driver.json](./201257-paradise-island-driver.json) |
 | Paradise Island: Exotic | 344008 | [344008-paradise-island-exotic.json](./344008-paradise-island-exotic.json) |
 | Paradise Killer | 127816 | [127816-paradise-killer.json](./127816-paradise-killer.json) |
+| Paradise Killer: Collector's Edition | 240033 | [240033-paradise-killer-collectors-edition.json](./240033-paradise-killer-collectors-edition.json) |
 | Paradise Killer: Perfect 25 Edition | 154518 | [154518-paradise-killer-perfect-25-edition.json](./154518-paradise-killer-perfect-25-edition.json) |
 | Paradise Lofts | 156652 | [156652-paradise-lofts.json](./156652-paradise-lofts.json) |
 | Paradise Lost | 134574 | [134574-paradise-lost.json](./134574-paradise-lost.json) |
@@ -9905,6 +9906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Shattered Dimensions | 199782 | [199782-pokemon-shattered-dimensions.json](./199782-pokemon-shattered-dimensions.json) |
 | Pokémon Shattered Light | 223053 | [223053-pokemon-shattered-light.json](./223053-pokemon-shattered-light.json) |
 | Pokémon Shield | 115653 | [115653-pokemon-shield.json](./115653-pokemon-shield.json) |
+| Pokémon Shield + Expansion Pass | 240024 | [240024-pokemon-shield-expansion-pass.json](./240024-pokemon-shield-expansion-pass.json) |
 | Pokémon Shield: The Crown Tundra | 252783 | [252783-pokemon-shield-the-crown-tundra.json](./252783-pokemon-shield-the-crown-tundra.json) |
 | Pokémon Shield: The Isle of Armor | 252782 | [252782-pokemon-shield-the-isle-of-armor.json](./252782-pokemon-shield-the-isle-of-armor.json) |
 | Pokemon Shining Opal | 337420 | [337420-pokemon-shining-opal.json](./337420-pokemon-shining-opal.json) |
@@ -9943,6 +9945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sweet 2th | 141822 | [141822-pokemon-sweet-2th.json](./141822-pokemon-sweet-2th.json) |
 | Pokémon Sword & Pokémon Shield Double Pack | 115652 | [115652-pokemon-sword-and-pokemon-shield-double-pack.json](./115652-pokemon-sword-and-pokemon-shield-double-pack.json) |
 | Pokémon Sword & Shield GBA | 165160 | [165160-pokemon-sword-and-shield-gba.json](./165160-pokemon-sword-and-shield-gba.json) |
+| Pokémon Sword + Expansion Pass | 240027 | [240027-pokemon-sword-expansion-pass.json](./240027-pokemon-sword-expansion-pass.json) |
 | Pokémon Sword and Shield | 294432 | [294432-pokemon-sword-and-shield.json](./294432-pokemon-sword-and-shield.json) |
 | Pokémon Sword and Shield Ultimate Plus | 334072 | [334072-pokemon-sword-and-shield-ultimate-plus.json](./334072-pokemon-sword-and-shield-ultimate-plus.json) |
 | Pokémon Sword Expansion Pass | 128071 | [128071-pokemon-sword-expansion-pass.json](./128071-pokemon-sword-expansion-pass.json) |
