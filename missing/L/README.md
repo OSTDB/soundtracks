@@ -3375,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethis: Path of Progress II | 116438 | [116438-lethis-path-of-progress-ii.json](./116438-lethis-path-of-progress-ii.json) |
 | Leticia Land | 183464 | [183464-leticia-land.json](./183464-leticia-land.json) |
 | Letifer | 267831 | [267831-letifer.json](./267831-letifer.json) |
+| LetMeOut | 275991 | [275991-letmeout.json](./275991-letmeout.json) |
 | LetMeSee | 406295 | [406295-letmesee.json](./406295-letmesee.json) |
 | Letreco | 186524 | [186524-letreco.json](./186524-letreco.json) |
 | Letris 4 | 233103 | [233103-letris-4.json](./233103-letris-4.json) |
@@ -8092,6 +8093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludus Mortis | 224699 | [224699-ludus-mortis.json](./224699-ludus-mortis.json) |
 | Ludus Vetitus | 292766 | [292766-ludus-vetitus.json](./292766-ludus-vetitus.json) |
 | Ludus: A Gladiator Story | 411712 | [411712-ludus-a-gladiator-story.json](./411712-ludus-a-gladiator-story.json) |
+| Ludus: Merge Arena | 276340 | [276340-ludus-merge-arena.json](./276340-ludus-merge-arena.json) |
 | Luduvo | 412303 | [412303-luduvo.json](./412303-luduvo.json) |
 | Ludwig | 9239 | [9239-ludwig.json](./9239-ludwig.json) |
 | Luenna: School of the Magi | 380197 | [380197-luenna-school-of-the-magi.json](./380197-luenna-school-of-the-magi.json) |
