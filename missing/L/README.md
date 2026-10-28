@@ -983,6 +983,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last 22 | 340896 | [340896-last-22.json](./340896-last-22.json) |
 | Last 4 Survive: The Outbreak | 287158 | [287158-last-4-survive-the-outbreak.json](./287158-last-4-survive-the-outbreak.json) |
 | Last Action Hero | 16139 | [16139-last-action-hero.json](./16139-last-action-hero.json) |
+| Last Action Hero | 262153 | [262153-last-action-hero.json](./262153-last-action-hero.json) |
+| Last Action Hero | 262154 | [262154-last-action-hero.json](./262154-last-action-hero.json) |
+| Last Action Hero | 262155 | [262155-last-action-hero.json](./262155-last-action-hero.json) |
 | Last Alive | 104823 | [104823-last-alive.json](./104823-last-alive.json) |
 | Last Alive | 37363 | [37363-last-alive.json](./37363-last-alive.json) |
 | Last Alliance: Total War | 356251 | [356251-last-alliance-total-war.json](./356251-last-alliance-total-war.json) |
