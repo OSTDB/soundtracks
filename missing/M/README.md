@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 22: Dynasty Edition | 155098 | [155098-madden-nfl-22-dynasty-edition.json](./155098-madden-nfl-22-dynasty-edition.json) |
 | Madden NFL 23 | 203376 | [203376-madden-nfl-23.json](./203376-madden-nfl-23.json) |
 | Madden NFL 23 | 243668 | [243668-madden-nfl-23.json](./243668-madden-nfl-23.json) |
+| Madden NFL 23 Mobile Football | 232618 | [232618-madden-nfl-23-mobile-football.json](./232618-madden-nfl-23-mobile-football.json) |
 | Madden NFL 23: All Madden Edition | 204081 | [204081-madden-nfl-23-all-madden-edition.json](./204081-madden-nfl-23-all-madden-edition.json) |
 | Madden NFL 24: Deluxe Edition | 252388 | [252388-madden-nfl-24-deluxe-edition.json](./252388-madden-nfl-24-deluxe-edition.json) |
 | Madden NFL 24: Michael Vick 20th Anniversary Edition | 276866 | [276866-madden-nfl-24-michael-vick-20th-anniversary-edition.json](./276866-madden-nfl-24-michael-vick-20th-anniversary-edition.json) |
@@ -6985,6 +6986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Screen Solitaire | 330210 | [330210-mega-screen-solitaire.json](./330210-mega-screen-solitaire.json) |
 | Mega Serval | 224750 | [224750-mega-serval.json](./224750-mega-serval.json) |
 | Mega Snake: 16-Bit Edition | 412598 | [412598-mega-snake-16-bit-edition.json](./412598-mega-snake-16-bit-edition.json) |
+| Mega Snake: highly addictive | 232602 | [232602-mega-snake-highly-addictive.json](./232602-mega-snake-highly-addictive.json) |
 | Mega Solitaire | 209528 | [209528-mega-solitaire.json](./209528-mega-solitaire.json) |
 | Mega Sports | 94333 | [94333-mega-sports.json](./94333-mega-sports.json) |
 | Mega Starforce: Return to the Great Star | 275311 | [275311-mega-starforce-return-to-the-great-star.json](./275311-mega-starforce-return-to-the-great-star.json) |
@@ -7730,6 +7732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorize the Evidence: 1-Minute Memory Mystery | 409540 | [409540-memorize-the-evidence-1-minute-memory-mystery.json](./409540-memorize-the-evidence-1-minute-memory-mystery.json) |
 | Memorize V | 164229 | [164229-memorize-v.json](./164229-memorize-v.json) |
 | Memorrha | 109573 | [109573-memorrha.json](./109573-memorrha.json) |
+| Memorrha Mobile | 232601 | [232601-memorrha-mobile.json](./232601-memorrha-mobile.json) |
 | Memory | 152143 | [152143-memory.json](./152143-memory.json) |
 | Memory | 219288 | [219288-memory.json](./219288-memory.json) |
 | Memory | 331940 | [331940-memory.json](./331940-memory.json) |
@@ -18135,6 +18138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Neighbor Alice | 157044 | [157044-my-neighbor-alice.json](./157044-my-neighbor-alice.json) |
 | My Neighbor Enide | 295630 | [295630-my-neighbor-enide.json](./295630-my-neighbor-enide.json) |
 | My Neighbor is a Yandere?! | 143062 | [143062-my-neighbor-is-a-yandere.json](./143062-my-neighbor-is-a-yandere.json) |
+| My Neighbor Neko | 232630 | [232630-my-neighbor-neko.json](./232630-my-neighbor-neko.json) |
 | My Neighbor's Lonely Wife | 389632 | [389632-my-neighbors-lonely-wife.json](./389632-my-neighbors-lonely-wife.json) |
 | My Neighbor's Lonely Wife 2 | 379889 | [379889-my-neighbors-lonely-wife-2.json](./379889-my-neighbors-lonely-wife-2.json) |
 | My Neighborhood Arcade | 153503 | [153503-my-neighborhood-arcade.json](./153503-my-neighborhood-arcade.json) |
