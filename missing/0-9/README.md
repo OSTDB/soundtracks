@@ -1902,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 32 Secs | 148335 | [148335-32-secs.json](./148335-32-secs.json) |
 | 32-in-1 Games | 247015 | [247015-32-in-1-games.json](./247015-32-in-1-games.json) |
 | 32, Dandelion Drift | 348227 | [348227-32-dandelion-drift.json](./348227-32-dandelion-drift.json) |
+| 326 | 254711 | [254711-326.json](./254711-326.json) |
 | 32nd America's Cup: The Game | 72609 | [72609-32nd-americas-cup-the-game.json](./72609-32nd-americas-cup-the-game.json) |
 | 33 kvadratnykh metra: Voyna s sosedyami | 337520 | [337520-33-kvadratnykh-metra-voyna-s-sosedyami.json](./337520-33-kvadratnykh-metra-voyna-s-sosedyami.json) |
 | 33 Rounds | 126563 | [126563-33-rounds.json](./126563-33-rounds.json) |
@@ -2654,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 688(I) Hunter/Killer | 585 | [585-688-i-hunter-killer.json](./585-688-i-hunter-killer.json) |
 | 69 | 334791 | [334791-69.json](./334791-69.json) |
 | 69 Andariel Hot | 208630 | [208630-69-andariel-hot.json](./208630-69-andariel-hot.json) |
+| 69 Balls | 251953 | [251953-69-balls.json](./251953-69-balls.json) |
 | 69 Berta Hot | 211390 | [211390-69-berta-hot.json](./211390-69-berta-hot.json) |
 | 69 Cindy Love | 164593 | [164593-69-cindy-love.json](./164593-69-cindy-love.json) |
 | 69 Ember Hot | 222961 | [222961-69-ember-hot.json](./222961-69-ember-hot.json) |
