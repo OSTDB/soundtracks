@@ -996,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Masca | 405725 | [405725-13-masca.json](./405725-13-masca.json) |
 | 13 Minutes of Light | 98413 | [98413-13-minutes-of-light.json](./98413-13-minutes-of-light.json) |
 | 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
+| 13 Playing Cards of Demon | 264166 | [264166-13-playing-cards-of-demon.json](./264166-13-playing-cards-of-demon.json) |
 | 13 Puzzle Rooms | 134374 | [134374-13-puzzle-rooms.json](./134374-13-puzzle-rooms.json) |
 | 13 Rosas | 270620 | [270620-13-rosas.json](./270620-13-rosas.json) |
 | 13 Seconds | 283868 | [283868-13-seconds.json](./283868-13-seconds.json) |
@@ -1462,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2022 A Doom Odyssey | 258889 | [258889-2022-a-doom-odyssey.json](./258889-2022-a-doom-odyssey.json) |
 | 2022 SURVIVAL GUIDE | 394422 | [394422-2022-survival-guide.json](./394422-2022-survival-guide.json) |
 | 2023: Alien Bugs Invade Earth | 367716 | [367716-2023-alien-bugs-invade-earth.json](./367716-2023-alien-bugs-invade-earth.json) |
+| 2024 U.S. Election Simulator | 263869 | [263869-2024-u-s-election-simulator.json](./263869-2024-u-s-election-simulator.json) |
 | 2024: Mosaic Retrospective | 327347 | [327347-2024-mosaic-retrospective.json](./327347-2024-mosaic-retrospective.json) |
 | 2025 | 358068 | [358068-2025.json](./358068-2025.json) |
 | 2025 Advent Calendar | 383072 | [383072-2025-advent-calendar.json](./383072-2025-advent-calendar.json) |
