@@ -845,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10984,6 +10985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Threat | 77324 | [77324-bomb-threat.json](./77324-bomb-threat.json) |
 | Bomb Time | 287494 | [287494-bomb-time.json](./287494-bomb-time.json) |
 | Bomb Up | 263944 | [263944-bomb-up.json](./263944-bomb-up.json) |
+| Bomb Viking | 212600 | [212600-bomb-viking.json](./212600-bomb-viking.json) |
 | Bomb-Bomb | 101628 | [101628-bomb-bomb.json](./101628-bomb-bomb.json) |
 | Bomb: A Modern Missile Command | 134395 | [134395-bomb-a-modern-missile-command.json](./134395-bomb-a-modern-missile-command.json) |
 | Bomb: Who let the dogfight? | 17403 | [17403-bomb-who-let-the-dogfight.json](./17403-bomb-who-let-the-dogfight.json) |
@@ -13926,6 +13928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Darwin | 124659 | [124659-broken-darwin.json](./124659-broken-darwin.json) |
 | Broken Dawn II | 175669 | [175669-broken-dawn-ii.json](./175669-broken-dawn-ii.json) |
 | Broken Depths RPG | 412898 | [412898-broken-depths-rpg.json](./412898-broken-depths-rpg.json) |
+| Broken Dimensions | 212599 | [212599-broken-dimensions.json](./212599-broken-dimensions.json) |
 | Broken Dimensions | 350640 | [350640-broken-dimensions.json](./350640-broken-dimensions.json) |
 | Broken Dreams | 33495 | [33495-broken-dreams.json](./33495-broken-dreams.json) |
 | Broken Drive | 416958 | [416958-broken-drive.json](./416958-broken-drive.json) |
@@ -15274,6 +15277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunflower | 205014 | [205014-bunflower.json](./205014-bunflower.json) |
 | Bung Ball | 252808 | [252808-bung-ball.json](./252808-bung-ball.json) |
 | Bungee Run | 295472 | [295472-bungee-run.json](./295472-bungee-run.json) |
+| Bungee Stickmen+ | 212612 | [212612-bungee-stickmen.json](./212612-bungee-stickmen.json) |
 | Bungie Mac Action Sack | 172660 | [172660-bungie-mac-action-sack.json](./172660-bungie-mac-action-sack.json) |
 | Bungmyeong | 145640 | [145640-bungmyeong.json](./145640-bungmyeong.json) |
 | Bungo Bash | 377332 | [377332-bungo-bash.json](./377332-bungo-bash.json) |
