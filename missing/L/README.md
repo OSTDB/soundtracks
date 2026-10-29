@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laid-Back Camp: Virtual - Fumoto Campsite | 147813 | [147813-laid-back-camp-virtual-fumoto-campsite.json](./147813-laid-back-camp-virtual-fumoto-campsite.json) |
 | Laid-Back Camp: Virtual - Lake Motosu | 143719 | [143719-laid-back-camp-virtual-lake-motosu.json](./143719-laid-back-camp-virtual-lake-motosu.json) |
 | Laigu Project | 194140 | [194140-laigu-project.json](./194140-laigu-project.json) |
+| Laika | 184190 | [184190-laika.json](./184190-laika.json) |
 | Laika 2.0 | 57037 | [57037-laika-2-0.json](./57037-laika-2-0.json) |
 | Laika: A Space-Dog Oddyssey | 401033 | [401033-laika-a-space-dog-oddyssey.json](./401033-laika-a-space-dog-oddyssey.json) |
 | LainTSX | 248784 | [248784-laintsx.json](./248784-laintsx.json) |
@@ -1254,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Night Shift | 273471 | [273471-last-night-shift.json](./273471-last-night-shift.json) |
 | Last Ninja 3 | 8403 | [8403-last-ninja-3.json](./8403-last-ninja-3.json) |
 | Last Nova | 358367 | [358367-last-nova.json](./358367-last-nova.json) |
+| Last November | 184189 | [184189-last-november.json](./184189-last-november.json) |
 | Last Nuclear Darkness | 158162 | [158162-last-nuclear-darkness.json](./158162-last-nuclear-darkness.json) |
 | Last Oasis | 114422 | [114422-last-oasis.json](./114422-last-oasis.json) |
 | Last of Ark | 208664 | [208664-last-of-ark.json](./208664-last-of-ark.json) |
@@ -6665,6 +6667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loose the Moose | 225290 | [225290-loose-the-moose.json](./225290-loose-the-moose.json) |
 | Loot & Ledger | 373055 | [373055-loot-and-ledger.json](./373055-loot-and-ledger.json) |
 | Loot & Legends | 22354 | [22354-loot-and-legends.json](./22354-loot-and-legends.json) |
+| Loot & Looter | 184209 | [184209-loot-and-looter.json](./184209-loot-and-looter.json) |
 | Loot and Order | 385336 | [385336-loot-and-order.json](./385336-loot-and-order.json) |
 | Loot and Shoot | 250000 | [250000-loot-and-shoot.json](./250000-loot-and-shoot.json) |
 | Loot Before the Law | 411820 | [411820-loot-before-the-law.json](./411820-loot-before-the-law.json) |
@@ -6676,6 +6679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Box Simulator: Heroes of the Dark Age | 232984 | [232984-loot-box-simulator-heroes-of-the-dark-age.json](./232984-loot-box-simulator-heroes-of-the-dark-age.json) |
 | Loot Box Simulator: RPG Anime Girls | 216225 | [216225-loot-box-simulator-rpg-anime-girls.json](./216225-loot-box-simulator-rpg-anime-girls.json) |
 | Loot Box Waifus | 391689 | [391689-loot-box-waifus.json](./391689-loot-box-waifus.json) |
+| Loot Clicker | 184176 | [184176-loot-clicker.json](./184176-loot-clicker.json) |
 | Loot Express Delivery Service | 211824 | [211824-loot-express-delivery-service.json](./211824-loot-express-delivery-service.json) |
 | Loot Frog | 404355 | [404355-loot-frog.json](./404355-loot-frog.json) |
 | Loot Goblin Inc. | 337672 | [337672-loot-goblin-inc.json](./337672-loot-goblin-inc.json) |
@@ -6703,6 +6707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Scoot | 386702 | [386702-loot-scoot.json](./386702-loot-scoot.json) |
 | Loot Shop Simulator | 346922 | [346922-loot-shop-simulator.json](./346922-loot-shop-simulator.json) |
 | Loot Slider | 148955 | [148955-loot-slider.json](./148955-loot-slider.json) |
+| Loot Snake | 184211 | [184211-loot-snake.json](./184211-loot-snake.json) |
 | Loot Survivor | 392485 | [392485-loot-survivor.json](./392485-loot-survivor.json) |
 | Loot Survivors | 413098 | [413098-loot-survivors.json](./413098-loot-survivors.json) |
 | Loot The Game | 377752 | [377752-loot-the-game.json](./377752-loot-the-game.json) |
@@ -7482,6 +7487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lots of Cats in Every Moment: The Whereabouts of the Photo | 310693 | [310693-lots-of-cats-in-every-moment-the-whereabouts-of-the-photo.json](./310693-lots-of-cats-in-every-moment-the-whereabouts-of-the-photo.json) |
 | Lots of Guns | 65466 | [65466-lots-of-guns.json](./65466-lots-of-guns.json) |
 | Lots of Slots | 147892 | [147892-lots-of-slots.json](./147892-lots-of-slots.json) |
+| Lots of Swords | 184214 | [184214-lots-of-swords.json](./184214-lots-of-swords.json) |
 | Lots of Things 2: Travel and Search - Collector's Edition | 307759 | [307759-lots-of-things-2-travel-and-search-collectors-edition.json](./307759-lots-of-things-2-travel-and-search-collectors-edition.json) |
 | Lots of Things: Collector's Edition | 295469 | [295469-lots-of-things-collectors-edition.json](./295469-lots-of-things-collectors-edition.json) |
 | LotS: Light on the Sea | 400371 | [400371-lots-light-on-the-sea.json](./400371-lots-light-on-the-sea.json) |
