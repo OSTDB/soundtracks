@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkabout Mini Golf: Atlantis | 232952 | [232952-walkabout-mini-golf-atlantis.json](./232952-walkabout-mini-golf-atlantis.json) |
 | Walkabout Mini Golf: Blokhaven | 408259 | [408259-walkabout-mini-golf-blokhaven.json](./408259-walkabout-mini-golf-blokhaven.json) |
 | Walkabout Mini Golf: Crystal Lair | 360337 | [360337-walkabout-mini-golf-crystal-lair.json](./360337-walkabout-mini-golf-crystal-lair.json) |
+| Walkabout Mini Golf: El Dorado | 204143 | [204143-walkabout-mini-golf-el-dorado.json](./204143-walkabout-mini-golf-el-dorado.json) |
 | Walkabout Mini Golf: Forgotten Fairyland | 372655 | [372655-walkabout-mini-golf-forgotten-fairyland.json](./372655-walkabout-mini-golf-forgotten-fairyland.json) |
 | Walkabout Mini Golf: Gardens of Babylon | 196105 | [196105-walkabout-mini-golf-gardens-of-babylon.json](./196105-walkabout-mini-golf-gardens-of-babylon.json) |
 | Walkabout Mini Golf: Homestar Runner Distraction Pack | 402688 | [402688-walkabout-mini-golf-homestar-runner-distraction-pack.json](./402688-walkabout-mini-golf-homestar-runner-distraction-pack.json) |
