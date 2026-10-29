@@ -845,7 +845,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3305,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle High 2 A+ | 76497 | [76497-battle-high-2-a.json](./76497-battle-high-2-a.json) |
 | Battle High School | 91922 | [91922-battle-high-school.json](./91922-battle-high-school.json) |
 | Battle High: San Bruno | 91792 | [91792-battle-high-san-bruno.json](./91792-battle-high-san-bruno.json) |
+| Battle Humanoid | 206410 | [206410-battle-humanoid.json](./206410-battle-humanoid.json) |
 | Battle Hunters Zero | 194167 | [194167-battle-hunters-zero.json](./194167-battle-hunters-zero.json) |
 | Battle In Space | 212470 | [212470-battle-in-space.json](./212470-battle-in-space.json) |
 | Battle in the City | 161623 | [161623-battle-in-the-city.json](./161623-battle-in-the-city.json) |
@@ -9306,6 +9306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Strike | 28898 | [28898-block-strike.json](./28898-block-strike.json) |
 | Block Survival: Legend of the Lost Islands | 37041 | [37041-block-survival-legend-of-the-lost-islands.json](./37041-block-survival-legend-of-the-lost-islands.json) |
 | Block The Monster | 272783 | [272783-block-the-monster.json](./272783-block-the-monster.json) |
+| Block Tower Online | 206414 | [206414-block-tower-online.json](./206414-block-tower-online.json) |
 | Block Tower TD 2 | 309432 | [309432-block-tower-td-2.json](./309432-block-tower-td-2.json) |
 | Block Tricks | 107364 | [107364-block-tricks.json](./107364-block-tricks.json) |
 | Block Trucks Multiplayer Racing | 337655 | [337655-block-trucks-multiplayer-racing.json](./337655-block-trucks-multiplayer-racing.json) |
@@ -12688,6 +12689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Games Mahjongg | 25011 | [25011-brain-games-mahjongg.json](./25011-brain-games-mahjongg.json) |
 | Brain Games: Brain Puzzles 2 | 206481 | [206481-brain-games-brain-puzzles-2.json](./206481-brain-games-brain-puzzles-2.json) |
 | Brain Games: Numbers Blast | 60384 | [60384-brain-games-numbers-blast.json](./60384-brain-games-numbers-blast.json) |
+| Brain Games: Word Puzzles | 206482 | [206482-brain-games-word-puzzles.json](./206482-brain-games-word-puzzles.json) |
 | Brain Guzzler | 35270 | [35270-brain-guzzler.json](./35270-brain-guzzler.json) |
 | Brain Guzzlers from Beyond! | 59711 | [59711-brain-guzzlers-from-beyond.json](./59711-brain-guzzlers-from-beyond.json) |
 | Brain Hack Squad | 350026 | [350026-brain-hack-squad.json](./350026-brain-hack-squad.json) |
@@ -12716,6 +12718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Overload: Calculate | 275519 | [275519-brain-overload-calculate.json](./275519-brain-overload-calculate.json) |
 | Brain Party | 70629 | [70629-brain-party.json](./70629-brain-party.json) |
 | Brain Please Don't | 135563 | [135563-brain-please-dont.json](./135563-brain-please-dont.json) |
+| Brain Power | 206483 | [206483-brain-power.json](./206483-brain-power.json) |
 | Brain Power | 70868 | [70868-brain-power.json](./70868-brain-power.json) |
 | Brain Practice | 87287 | [87287-brain-practice.json](./87287-brain-practice.json) |
 | Brain Pump | 116155 | [116155-brain-pump.json](./116155-brain-pump.json) |
@@ -12751,6 +12754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Tester: Mind Trick Quiz 2 | 301839 | [301839-brain-tester-mind-trick-quiz-2.json](./301839-brain-tester-mind-trick-quiz-2.json) |
 | Brain Trainer: Spot the Difference | 99384 | [99384-brain-trainer-spot-the-difference.json](./99384-brain-trainer-spot-the-difference.json) |
 | Brain Training 3D | 145312 | [145312-brain-training-3d.json](./145312-brain-training-3d.json) |
+| Brain Training For Dummies | 206486 | [206486-brain-training-for-dummies.json](./206486-brain-training-for-dummies.json) |
 | Brain Training! Art Puzzle | 366780 | [366780-brain-training-art-puzzle.json](./366780-brain-training-art-puzzle.json) |
 | Brain Training! Order Quiz | 403739 | [403739-brain-training-order-quiz.json](./403739-brain-training-order-quiz.json) |
 | Brain Training! Perfect Memory | 365559 | [365559-brain-training-perfect-memory.json](./365559-brain-training-perfect-memory.json) |
@@ -12912,6 +12916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz: Forever Diamondz | 248532 | [248532-bratz-forever-diamondz.json](./248532-bratz-forever-diamondz.json) |
 | Bratz: Forever Diamondz | 248533 | [248533-bratz-forever-diamondz.json](./248533-bratz-forever-diamondz.json) |
 | Bratz: Forever Diamondz | 3835 | [3835-bratz-forever-diamondz.json](./3835-bratz-forever-diamondz.json) |
+| Bratz: Formal Funk | 206488 | [206488-bratz-formal-funk.json](./206488-bratz-formal-funk.json) |
 | Bratz: Girlz Really Rock | 43248 | [43248-bratz-girlz-really-rock.json](./43248-bratz-girlz-really-rock.json) |
 | Bratz: Rock Angelz | 248472 | [248472-bratz-rock-angelz.json](./248472-bratz-rock-angelz.json) |
 | Bratz: Super Babyz | 67804 | [67804-bratz-super-babyz.json](./67804-bratz-super-babyz.json) |
@@ -13212,6 +13217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breadskate Forever | 350543 | [350543-breadskate-forever.json](./350543-breadskate-forever.json) |
 | Breadsticks | 223335 | [223335-breadsticks.json](./223335-breadsticks.json) |
 | Breadwinner VR | 55493 | [55493-breadwinner-vr.json](./55493-breadwinner-vr.json) |
+| Break | 206489 | [206489-break.json](./206489-break.json) |
 | Break 'Em All | 20534 | [20534-break-em-all.json](./20534-break-em-all.json) |
 | Break a Leg | 307054 | [307054-break-a-leg.json](./307054-break-a-leg.json) |
 | Break an Egg | 305336 | [305336-break-an-egg.json](./305336-break-an-egg.json) |
@@ -13531,6 +13537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Break Blitz | 61966 | [61966-brick-break-blitz.json](./61966-brick-break-blitz.json) |
 | Brick Breaker | 13436 | [13436-brick-breaker.json](./13436-brick-breaker.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
+| Brick Breaker | 206490 | [206490-brick-breaker.json](./206490-brick-breaker.json) |
 | Brick Breaker | 264223 | [264223-brick-breaker.json](./264223-brick-breaker.json) |
 | Brick Breaker Arcade | 59201 | [59201-brick-breaker-arcade.json](./59201-brick-breaker-arcade.json) |
 | Brick Breaker Bunch | 87968 | [87968-brick-breaker-bunch.json](./87968-brick-breaker-bunch.json) |
@@ -13656,6 +13663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge | 55105 | [55105-bridge.json](./55105-bridge.json) |
 | Bridge | 85515 | [85515-bridge.json](./85515-bridge.json) |
 | Bridge 2000 | 12408 | [12408-bridge-2000.json](./12408-bridge-2000.json) |
+| Bridge 3000 | 206491 | [206491-bridge-3000.json](./206491-bridge-3000.json) |
 | Bridge 4.0 | 362440 | [362440-bridge-4-0.json](./362440-bridge-4-0.json) |
 | Bridge 5.0 | 362441 | [362441-bridge-5-0.json](./362441-bridge-5-0.json) |
 | Bridge Between Two Islands | 308475 | [308475-bridge-between-two-islands.json](./308475-bridge-between-two-islands.json) |
@@ -13725,6 +13733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge to Another World: The Others - Collector's Edition | 75655 | [75655-bridge-to-another-world-the-others-collectors-edition.json](./75655-bridge-to-another-world-the-others-collectors-edition.json) |
 | Bridge to Another World: Through the Looking Glass | 397099 | [397099-bridge-to-another-world-through-the-looking-glass.json](./397099-bridge-to-another-world-through-the-looking-glass.json) |
 | Bridge to Another World: Through the Looking Glass - Collector's Edition | 397098 | [397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json](./397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json) |
+| Bridge Training | 206493 | [206493-bridge-training.json](./206493-bridge-training.json) |
 | Bridge-It | 12983 | [12983-bridge-it.json](./12983-bridge-it.json) |
 | Bridge! | 36304 | [36304-bridge.json](./36304-bridge.json) |
 | Bridge! 2 | 33738 | [33738-bridge-2.json](./33738-bridge-2.json) |
@@ -14007,6 +14016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Sword 5: The Serpent's Curse - Episode 2 | 94069 | [94069-broken-sword-5-the-serpents-curse-episode-2.json](./94069-broken-sword-5-the-serpents-curse-episode-2.json) |
 | Broken Sword 5: The Serpent's Curse - Premium Edition | 136170 | [136170-broken-sword-5-the-serpents-curse-premium-edition.json](./136170-broken-sword-5-the-serpents-curse-premium-edition.json) |
 | Broken Sword: Parzival’s Stone | 262650 | [262650-broken-sword-parzival-s-stone.json](./262650-broken-sword-parzival-s-stone.json) |
+| Broken Sword: Shadow of the Templars - The Director's Cut | 206510 | [206510-broken-sword-shadow-of-the-templars-the-directors-cut.json](./206510-broken-sword-shadow-of-the-templars-the-directors-cut.json) |
 | Broken Sword: Shadow of the Templars Reforged | 262651 | [262651-broken-sword-shadow-of-the-templars-reforged.json](./262651-broken-sword-shadow-of-the-templars-reforged.json) |
 | Broken Sword: The Shadow of the Templars | 206502 | [206502-broken-sword-the-shadow-of-the-templars.json](./206502-broken-sword-the-shadow-of-the-templars.json) |
 | Broken Sword: The Shadow of the Templars | 206503 | [206503-broken-sword-the-shadow-of-the-templars.json](./206503-broken-sword-the-shadow-of-the-templars.json) |
