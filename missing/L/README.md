@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth 2 | 96302 | [96302-labyrinth-2.json](./96302-labyrinth-2.json) |
 | Labyrinth 3 | 171066 | [171066-labyrinth-3.json](./171066-labyrinth-3.json) |
 | Labyrinth City: Pierre the Maze Detective | 145786 | [145786-labyrinth-city-pierre-the-maze-detective.json](./145786-labyrinth-city-pierre-the-maze-detective.json) |
+| Labyrinth Deck | 184720 | [184720-labyrinth-deck.json](./184720-labyrinth-deck.json) |
 | Labyrinth DeLux: A Crusoe Quest | 192229 | [192229-labyrinth-delux-a-crusoe-quest.json](./192229-labyrinth-delux-a-crusoe-quest.json) |
 | Labyrinth Escape | 41901 | [41901-labyrinth-escape.json](./41901-labyrinth-escape.json) |
 | Labyrinth Eternal | 187898 | [187898-labyrinth-eternal.json](./187898-labyrinth-eternal.json) |
@@ -4152,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Dark | 273573 | [273573-light-dark.json](./273573-light-dark.json) |
 | Light De Deux | 338264 | [338264-light-de-deux.json](./338264-light-de-deux.json) |
 | Light Eater | 215642 | [215642-light-eater.json](./215642-light-eater.json) |
+| Light Em Up!: Escape from Transylvania | 184690 | [184690-light-em-up-escape-from-transylvania.json](./184690-light-em-up-escape-from-transylvania.json) |
 | Light Engine | 333973 | [333973-light-engine.json](./333973-light-engine.json) |
 | Light Fairytale: Episode 2 | 127638 | [127638-light-fairytale-episode-2.json](./127638-light-fairytale-episode-2.json) |
 | Light Fairytale: Episode 3 | 224825 | [224825-light-fairytale-episode-3.json](./224825-light-fairytale-episode-3.json) |
@@ -6610,6 +6612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopdio | 321425 | [321425-loopdio.json](./321425-loopdio.json) |
 | Loopdrop | 364696 | [364696-loopdrop.json](./364696-loopdrop.json) |
 | Looped | 285506 | [285506-looped.json](./285506-looped.json) |
+| Looped Fellas | 184714 | [184714-looped-fellas.json](./184714-looped-fellas.json) |
 | Looped: Love at first sight | 310711 | [310711-looped-love-at-first-sight.json](./310711-looped-love-at-first-sight.json) |
 | Loopedal | 364642 | [364642-loopedal.json](./364642-loopedal.json) |
 | Looper | 292133 | [292133-looper.json](./292133-looper.json) |
