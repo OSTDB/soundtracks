@@ -2606,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Like A Fox | 55973 | [55973-fast-like-a-fox.json](./55973-fast-like-a-fox.json) |
 | Fast or Dead VR | 215568 | [215568-fast-or-dead-vr.json](./215568-fast-or-dead-vr.json) |
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
+| Fast Riders: Unlimited Road | 228054 | [228054-fast-riders-unlimited-road.json](./228054-fast-riders-unlimited-road.json) |
 | Fast RMX | 26816 | [26816-fast-rmx.json](./26816-fast-rmx.json) |
 | Fast Rolling | 77178 | [77178-fast-rolling.json](./77178-fast-rolling.json) |
 | Fast Running | 311183 | [311183-fast-running.json](./311183-fast-running.json) |
@@ -3287,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feevo HD | 232546 | [232546-feevo-hd.json](./232546-feevo-hd.json) |
 | Fegefeuer Soul Tower | 285324 | [285324-fegefeuer-soul-tower.json](./285324-fegefeuer-soul-tower.json) |
 | Fei Duanmu VS Kobayashi | 87955 | [87955-fei-duanmu-vs-kobayashi.json](./87955-fei-duanmu-vs-kobayashi.json) |
+| FEI Equestriad World Tour | 228148 | [228148-fei-equestriad-world-tour.json](./228148-fei-equestriad-world-tour.json) |
 | Fei Tian | 86105 | [86105-fei-tian.json](./86105-fei-tian.json) |
 | Feichuan | 345944 | [345944-feichuan.json](./345944-feichuan.json) |
 | Feign | 172516 | [172516-feign.json](./172516-feign.json) |
