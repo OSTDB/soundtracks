@@ -2708,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Comics Legends | 60027 | [60027-dc-comics-legends.json](./60027-dc-comics-legends.json) |
 | DC Comics Super Heroes: The Watchtower | 220122 | [220122-dc-comics-super-heroes-the-watchtower.json](./220122-dc-comics-super-heroes-the-watchtower.json) |
 | DC Dual Force | 212690 | [212690-dc-dual-force.json](./212690-dc-dual-force.json) |
+| DC Heroes & Villains | 194123 | [194123-dc-heroes-and-villains.json](./194123-dc-heroes-and-villains.json) |
 | DC Heroes United | 323030 | [323030-dc-heroes-united.json](./323030-dc-heroes-united.json) |
 | DC Super Hero Girls | 58643 | [58643-dc-super-hero-girls.json](./58643-dc-super-hero-girls.json) |
 | DC Super Hero Girls: Blitz | 294679 | [294679-dc-super-hero-girls-blitz.json](./294679-dc-super-hero-girls-blitz.json) |
