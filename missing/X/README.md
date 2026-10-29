@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X Dash 3D | 312535 | [312535-x-dash-3d.json](./312535-x-dash-3d.json) |
 | X Defense: Timing TD | 288436 | [288436-x-defense-timing-td.json](./288436-x-defense-timing-td.json) |
 | X Falling Sand | 152039 | [152039-x-falling-sand.json](./152039-x-falling-sand.json) |
+| X Fugitive | 190341 | [190341-x-fugitive.json](./190341-x-fugitive.json) |
 | X Games Snow Boarder | 125783 | [125783-x-games-snow-boarder.json](./125783-x-games-snow-boarder.json) |
 | X Invader | 227442 | [227442-x-invader.json](./227442-x-invader.json) |
 | X Japan - Virtual Shock 001 | 94710 | [94710-x-japan-virtual-shock-001.json](./94710-x-japan-virtual-shock-001.json) |
