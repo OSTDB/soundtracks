@@ -10553,6 +10553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Story | 70817 | [70817-hunter-story.json](./70817-hunter-story.json) |
 | Hunter Survive Zero | 379165 | [379165-hunter-survive-zero.json](./379165-hunter-survive-zero.json) |
 | Hunter Survivors | 204824 | [204824-hunter-survivors.json](./204824-hunter-survivors.json) |
+| Hunter W | 208751 | [208751-hunter-w.json](./208751-hunter-w.json) |
 | Hunter x Hunter: Arena Battle | 122017 | [122017-hunter-x-hunter-arena-battle.json](./122017-hunter-x-hunter-arena-battle.json) |
 | Hunter X Hunter: Hunter no Keifu | 65245 | [65245-hunter-x-hunter-hunter-no-keifu.json](./65245-hunter-x-hunter-hunter-no-keifu.json) |
 | Hunter X Hunter: Maboroshi no Greed Island | 60607 | [60607-hunter-x-hunter-maboroshi-no-greed-island.json](./60607-hunter-x-hunter-maboroshi-no-greed-island.json) |
