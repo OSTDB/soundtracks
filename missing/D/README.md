@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.N.A. | 137022 | [137022-d-n-a.json](./137022-d-n-a.json) |
 | D.N.A.: Dark Native Apostle | 56134 | [56134-d-n-a-dark-native-apostle.json](./56134-d-n-a-dark-native-apostle.json) |
 | D.N.Age | 32179 | [32179-d-n-age.json](./32179-d-n-age.json) |
+| D.O.A | 193604 | [193604-d-o-a.json](./193604-d-o-a.json) |
 | D.O.A.S.: Department of Applied Science | 184601 | [184601-d-o-a-s-department-of-applied-science.json](./184601-d-o-a-s-department-of-applied-science.json) |
 | D.O.G: Fight For Your Life | 70203 | [70203-d-o-g-fight-for-your-life.json](./70203-d-o-g-fight-for-your-life.json) |
 | D.O.L.L.S. | 373607 | [373607-d-o-l-l-s.json](./373607-d-o-l-l-s.json) |
@@ -815,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dander | 36785 | [36785-dander.json](./36785-dander.json) |
 | Dandy | 13568 | [13568-dandy.json](./13568-dandy.json) |
 | Dandy & Randy | 110964 | [110964-dandy-and-randy.json](./110964-dandy-and-randy.json) |
+| Dandy & Randy DX | 193624 | [193624-dandy-and-randy-dx.json](./193624-dandy-and-randy-dx.json) |
 | Dandy Ace | 116533 | [116533-dandy-ace.json](./116533-dandy-ace.json) |
 | Dandy Boy Adventures | 280637 | [280637-dandy-boy-adventures.json](./280637-dandy-boy-adventures.json) |
 | Dandy Boy Halloween Adventure | 292056 | [292056-dandy-boy-halloween-adventure.json](./292056-dandy-boy-halloween-adventure.json) |
@@ -3492,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadbolt | 18389 | [18389-deadbolt.json](./18389-deadbolt.json) |
 | Deadboot | 360103 | [360103-deadboot.json](./360103-deadboot.json) |
 | Deadbreed | 14726 | [14726-deadbreed.json](./14726-deadbreed.json) |
+| Deadburg | 193629 | [193629-deadburg.json](./193629-deadburg.json) |
 | Deadbus | 380452 | [380452-deadbus.json](./380452-deadbus.json) |
 | Deadcam | 323190 | [323190-deadcam.json](./323190-deadcam.json) |
 | Deadcam | 373301 | [373301-deadcam.json](./373301-deadcam.json) |
@@ -5089,6 +5092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deflection Dimension | 102353 | [102353-deflection-dimension.json](./102353-deflection-dimension.json) |
 | Deflector | 179190 | [179190-deflector.json](./179190-deflector.json) |
 | Deflector | 93563 | [93563-deflector.json](./93563-deflector.json) |
+| Deflector: Specimen One | 193602 | [193602-deflector-specimen-one.json](./193602-deflector-specimen-one.json) |
 | Deflector: Specimen Zero | 189925 | [189925-deflector-specimen-zero.json](./189925-deflector-specimen-zero.json) |
 | Deflectorium | 293860 | [293860-deflectorium.json](./293860-deflectorium.json) |
 | Deflektor | 12042 | [12042-deflektor.json](./12042-deflektor.json) |
@@ -5279,6 +5283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delisoba Deluxe | 213864 | [213864-delisoba-deluxe.json](./213864-delisoba-deluxe.json) |
 | DeliSpace | 291441 | [291441-delispace.json](./291441-delispace.json) |
 | Deliver It 3D | 214324 | [214324-deliver-it-3d.json](./214324-deliver-it-3d.json) |
+| Deliver or Die! | 193089 | [193089-deliver-or-die.json](./193089-deliver-or-die.json) |
 | Deliver This! | 365152 | [365152-deliver-this.json](./365152-deliver-this.json) |
 | Deliver Together | 406324 | [406324-deliver-together.json](./406324-deliver-together.json) |
 | Deliver Us From Evil | 178484 | [178484-deliver-us-from-evil.json](./178484-deliver-us-from-evil.json) |
@@ -10532,6 +10537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokuro | 17734 | [17734-dokuro.json](./17734-dokuro.json) |
 | Dokutsu Randamu | 384656 | [384656-dokutsu-randamu.json](./384656-dokutsu-randamu.json) |
 | Dokutsujima | 222396 | [222396-dokutsujima.json](./222396-dokutsujima.json) |
+| Dokyusei: Bangin' Summer | 193074 | [193074-dokyusei-bangin-summer.json](./193074-dokyusei-bangin-summer.json) |
 | Dokyusei: Bangin' Summer - Home Edition | 304282 | [304282-dokyusei-bangin-summer-home-edition.json](./304282-dokyusei-bangin-summer-home-edition.json) |
 | Dola | 110741 | [110741-dola.json](./110741-dola.json) |
 | Dolan Kart | 96914 | [96914-dolan-kart.json](./96914-dolan-kart.json) |
@@ -15371,6 +15377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck's Most Terrible Day | 277336 | [277336-ducks-most-terrible-day.json](./277336-ducks-most-terrible-day.json) |
 | Duckball: Glorious Ducks | 133987 | [133987-duckball-glorious-ducks.json](./133987-duckball-glorious-ducks.json) |
 | Duckers | 232582 | [232582-duckers.json](./232582-duckers.json) |
+| DuckHunt: Missouri Kidz | 193597 | [193597-duckhunt-missouri-kidz.json](./193597-duckhunt-missouri-kidz.json) |
 | Duckie Dash | 32811 | [32811-duckie-dash.json](./32811-duckie-dash.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
 | DuckLaserDuck | 320584 | [320584-ducklaserduck.json](./320584-ducklaserduck.json) |
