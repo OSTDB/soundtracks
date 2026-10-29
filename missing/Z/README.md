@@ -1447,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Go | 117031 | [117031-zombie-go.json](./117031-zombie-go.json) |
 | Zombie God | 386994 | [386994-zombie-god.json](./386994-zombie-god.json) |
 | Zombie Golf | 121983 | [121983-zombie-golf.json](./121983-zombie-golf.json) |
+| Zombie Good Guy | 188788 | [188788-zombie-good-guy.json](./188788-zombie-good-guy.json) |
 | Zombie Gorge: Survival Defense | 385064 | [385064-zombie-gorge-survival-defense.json](./385064-zombie-gorge-survival-defense.json) |
 | Zombie Graveyard Simulator | 333007 | [333007-zombie-graveyard-simulator.json](./333007-zombie-graveyard-simulator.json) |
 | Zombie Grenades Practice | 93665 | [93665-zombie-grenades-practice.json](./93665-zombie-grenades-practice.json) |
@@ -1977,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Rampage | 17622 | [17622-zoo-rampage.json](./17622-zoo-rampage.json) |
 | Zoo Rescue | 92301 | [92301-zoo-rescue.json](./92301-zoo-rescue.json) |
 | Zoo Rescue: Match 3 & Animals | 317878 | [317878-zoo-rescue-match-3-and-animals.json](./317878-zoo-rescue-match-3-and-animals.json) |
+| Zoo Seeker | 188794 | [188794-zoo-seeker.json](./188794-zoo-seeker.json) |
 | Zoo Simulator | 216802 | [216802-zoo-simulator.json](./216802-zoo-simulator.json) |
 | Zoo Sounds: Fun Educational Games for Kids | 95654 | [95654-zoo-sounds-fun-educational-games-for-kids.json](./95654-zoo-sounds-fun-educational-games-for-kids.json) |
 | Zoo Squad | 192394 | [192394-zoo-squad.json](./192394-zoo-squad.json) |
