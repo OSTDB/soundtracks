@@ -5768,6 +5768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice is Dead: Episode 1 | 140361 | [140361-alice-is-dead-episode-1.json](./140361-alice-is-dead-episode-1.json) |
 | Alice is Dead: Episode 2 | 140362 | [140362-alice-is-dead-episode-2.json](./140362-alice-is-dead-episode-2.json) |
 | Alice is Dead: Episode 3 | 140363 | [140363-alice-is-dead-episode-3.json](./140363-alice-is-dead-episode-3.json) |
+| Alice is Dead: Hearts and Diamonds | 204801 | [204801-alice-is-dead-hearts-and-diamonds.json](./204801-alice-is-dead-hearts-and-diamonds.json) |
 | Alice Landing | 390651 | [390651-alice-landing.json](./390651-alice-landing.json) |
 | Alice Lorange Adventures Season 2 | 393111 | [393111-alice-lorange-adventures-season-2.json](./393111-alice-lorange-adventures-season-2.json) |
 | Alice Mesmerizing Episodes of Neurosis: AMEN | 328218 | [328218-alice-mesmerizing-episodes-of-neurosis-amen.json](./328218-alice-mesmerizing-episodes-of-neurosis-amen.json) |
@@ -9797,6 +9798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antpocalypse | 386917 | [386917-antpocalypse.json](./386917-antpocalypse.json) |
 | AntQueen 3D | 117642 | [117642-antqueen-3d.json](./117642-antqueen-3d.json) |
 | Antrabhara | 223491 | [223491-antrabhara.json](./223491-antrabhara.json) |
+| Antro | 204787 | [204787-antro.json](./204787-antro.json) |
 | Antrum | 113426 | [113426-antrum.json](./113426-antrum.json) |
 | Ants | 170965 | [170965-ants.json](./170965-ants.json) |
 | Ants | 301781 | [301781-ants.json](./301781-ants.json) |
@@ -10254,6 +10256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | App Empire Tycoon | 363957 | [363957-app-empire-tycoon.json](./363957-app-empire-tycoon.json) |
 | Appa | 367951 | [367951-appa.json](./367951-appa.json) |
 | Appalachian Onslaught | 399090 | [399090-appalachian-onslaught.json](./399090-appalachian-onslaught.json) |
+| Apparatus | 204796 | [204796-apparatus.json](./204796-apparatus.json) |
 | Apparatus: Exanimus | 361328 | [361328-apparatus-exanimus.json](./361328-apparatus-exanimus.json) |
 | Appare-den: Fukuryuu no Shou | 243782 | [243782-appare-den-fukuryuu-no-shou.json](./243782-appare-den-fukuryuu-no-shou.json) |
 | Appare! Shogi Jiisan | 269650 | [269650-appare-shogi-jiisan.json](./269650-appare-shogi-jiisan.json) |
@@ -12590,6 +12593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Diff | 303677 | [303677-art-diff.json](./303677-art-diff.json) |
 | Art for Snakes | 315704 | [315704-art-for-snakes.json](./315704-art-for-snakes.json) |
 | Art Gallery Tycoon | 335811 | [335811-art-gallery-tycoon.json](./335811-art-gallery-tycoon.json) |
+| Art Girl 2 | 204802 | [204802-art-girl-2.json](./204802-art-girl-2.json) |
 | Art Heist | 127812 | [127812-art-heist.json](./127812-art-heist.json) |
 | Art Heist | 267006 | [267006-art-heist.json](./267006-art-heist.json) |
 | Art Heist, White Hat | 100762 | [100762-art-heist-white-hat.json](./100762-art-heist-white-hat.json) |
@@ -12659,6 +12663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art With Friends Free | 323019 | [323019-art-with-friends-free.json](./323019-art-with-friends-free.json) |
 | Art Without Blood | 401253 | [401253-art-without-blood.json](./401253-art-without-blood.json) |
 | Art World | 82186 | [82186-art-world.json](./82186-art-world.json) |
+| Art your brains | 204803 | [204803-art-your-brains.json](./204803-art-your-brains.json) |
 | Art-O-Ween: A Ghost in the Gallery | 272461 | [272461-art-o-ween-a-ghost-in-the-gallery.json](./272461-art-o-ween-a-ghost-in-the-gallery.json) |
 | Art-O-Ween: Night at the Gallery | 236811 | [236811-art-o-ween-night-at-the-gallery.json](./236811-art-o-ween-night-at-the-gallery.json) |
 | Art-Therapy: Diamonds | 388337 | [388337-art-therapy-diamonds.json](./388337-art-therapy-diamonds.json) |
