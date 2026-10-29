@@ -9424,6 +9424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator 1.0 | 3353 | [3353-microsoft-flight-simulator-1-0.json](./3353-microsoft-flight-simulator-1-0.json) |
 | Microsoft Flight Simulator 2.0 | 3354 | [3354-microsoft-flight-simulator-2-0.json](./3354-microsoft-flight-simulator-2-0.json) |
 | Microsoft Flight Simulator 2000 | 788 | [788-microsoft-flight-simulator-2000.json](./788-microsoft-flight-simulator-2000.json) |
+| Microsoft Flight Simulator 2000: World Airliners - 747-400 and 777-200 Professional | 205876 | [205876-microsoft-flight-simulator-2000-world-airliners-747-400-and-777-200-professional.json](./205876-microsoft-flight-simulator-2000-world-airliners-747-400-and-777-200-professional.json) |
 | Microsoft Flight Simulator 2002 | 73734 | [73734-microsoft-flight-simulator-2002.json](./73734-microsoft-flight-simulator-2002.json) |
 | Microsoft Flight Simulator 2002: Professional Edition | 711 | [711-microsoft-flight-simulator-2002-professional-edition.json](./711-microsoft-flight-simulator-2002-professional-edition.json) |
 | Microsoft Flight Simulator 2004: A Century of Flight | 712 | [712-microsoft-flight-simulator-2004-a-century-of-flight.json](./712-microsoft-flight-simulator-2004-a-century-of-flight.json) |
