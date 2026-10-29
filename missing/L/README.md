@@ -4462,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily Adventuresses! Episode 4: The Ancienaut beneath the Mask | 419954 | [419954-lily-adventuresses-episode-4-the-ancienaut-beneath-the-mask.json](./419954-lily-adventuresses-episode-4-the-ancienaut-beneath-the-mask.json) |
 | Lily Bard Mysteries: The Body in Shakespeare Park | 120617 | [120617-lily-bard-mysteries-the-body-in-shakespeare-park.json](./120617-lily-bard-mysteries-the-body-in-shakespeare-park.json) |
 | Lily Bergamo | 52542 | [52542-lily-bergamo.json](./52542-lily-bergamo.json) |
+| Lily City | 227522 | [227522-lily-city.json](./227522-lily-city.json) |
 | Lily Diary | 301132 | [301132-lily-diary.json](./301132-lily-diary.json) |
 | Lily Fantasia | 278975 | [278975-lily-fantasia.json](./278975-lily-fantasia.json) |
 | Lily in DreamWorld | 290892 | [290892-lily-in-dreamworld.json](./290892-lily-in-dreamworld.json) |
