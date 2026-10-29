@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacebreaker: An Experiment in AI-Perfected Exercise | 208343 | [208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json](./208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json) |
 | Pacer: Classic | 255811 | [255811-pacer-classic.json](./255811-pacer-classic.json) |
 | Pacewar | 322776 | [322776-pacewar.json](./322776-pacewar.json) |
+| Pacfish | 204799 | [204799-pacfish.json](./204799-pacfish.json) |
 | PachaMama | 186272 | [186272-pachamama.json](./186272-pachamama.json) |
 | Pachansky Mathematics 2+2=8 | 393454 | [393454-pachansky-mathematics-2-2-8.json](./393454-pachansky-mathematics-2-2-8.json) |
 | Pachi Pachi Saga | 212703 | [212703-pachi-pachi-saga.json](./212703-pachi-pachi-saga.json) |
@@ -13184,6 +13185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private: Pornmania | 254545 | [254545-private-pornmania.json](./254545-private-pornmania.json) |
 | Privateer | 269222 | [269222-privateer.json](./269222-privateer.json) |
 | Privateer 2: The Darkening | 810 | [810-privateer-2-the-darkening.json](./810-privateer-2-the-darkening.json) |
+| Privateer Escape | 204790 | [204790-privateer-escape.json](./204790-privateer-escape.json) |
 | Privateers | 58288 | [58288-privateers.json](./58288-privateers.json) |
 | Prixel | 111205 | [111205-prixel.json](./111205-prixel.json) |
 | Prize Denied | 339962 | [339962-prize-denied.json](./339962-prize-denied.json) |
