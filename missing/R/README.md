@@ -2321,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re: Rem Plus | 108843 | [108843-re-rem-plus.json](./108843-re-rem-plus.json) |
 | Re: Rem Plus | 231787 | [231787-re-rem-plus.json](./231787-re-rem-plus.json) |
 | Re: Spin. Die. Repeat. | 392073 | [392073-re-spin-die-repeat.json](./392073-re-spin-die-repeat.json) |
+| Re: Summon | 187691 | [187691-re-summon.json](./187691-re-summon.json) |
 | Re: Survivor | 193430 | [193430-re-survivor.json](./193430-re-survivor.json) |
 | Re: Tree of Savior | 174808 | [174808-re-tree-of-savior.json](./174808-re-tree-of-savior.json) |
 | Re:Aegis | 291753 | [291753-re-aegis.json](./291753-re-aegis.json) |
@@ -8388,6 +8389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Poker | 302396 | [302396-rocket-poker.json](./302396-rocket-poker.json) |
 | Rocket Power: Beach Bandits | 243188 | [243188-rocket-power-beach-bandits.json](./243188-rocket-power-beach-bandits.json) |
 | Rocket Power: Zero Gravity Zone | 262089 | [262089-rocket-power-zero-gravity-zone.json](./262089-rocket-power-zero-gravity-zone.json) |
+| Rocket Punch | 187677 | [187677-rocket-punch.json](./187677-rocket-punch.json) |
 | Rocket Rabbit - Coin Race | 147866 | [147866-rocket-rabbit-coin-race.json](./147866-rocket-rabbit-coin-race.json) |
 | Rocket Racing: Fuse Starter Quest Pack | 303532 | [303532-rocket-racing-fuse-starter-quest-pack.json](./303532-rocket-racing-fuse-starter-quest-pack.json) |
 | Rocket Raid | 13751 | [13751-rocket-raid.json](./13751-rocket-raid.json) |
@@ -10468,6 +10470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rückblende | 81193 | [81193-ruckblende.json](./81193-ruckblende.json) |
 | Ruckingenur CE | 401778 | [401778-ruckingenur-ce.json](./401778-ruckingenur-ce.json) |
 | Ruckingenur II | 401777 | [401777-ruckingenur-ii.json](./401777-ruckingenur-ii.json) |
+| Ruckus Rumble | 187678 | [187678-ruckus-rumble.json](./187678-ruckus-rumble.json) |
 | Rucoy 2: Mirror World MMORPG | 231916 | [231916-rucoy-2-mirror-world-mmorpg.json](./231916-rucoy-2-mirror-world-mmorpg.json) |
 | Rucoy Online | 76572 | [76572-rucoy-online.json](./76572-rucoy-online.json) |
 | Ruction: The Golden Tablet | 32207 | [32207-ruction-the-golden-tablet.json](./32207-ruction-the-golden-tablet.json) |
@@ -10824,6 +10827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Like Hell! | 61642 | [61642-run-like-hell.json](./61642-run-like-hell.json) |
 | Run Like Hell! Treasure Bundle | 118155 | [118155-run-like-hell-treasure-bundle.json](./118155-run-like-hell-treasure-bundle.json) |
 | Run Like Hell!: Heart Breaker | 393434 | [393434-run-like-hell-heart-breaker.json](./393434-run-like-hell-heart-breaker.json) |
+| Run Little Hero | 187675 | [187675-run-little-hero.json](./187675-run-little-hero.json) |
 | Run Man | 251641 | [251641-run-man.json](./251641-run-man.json) |
 | Run Mr. Bunny | 94879 | [94879-run-mr-bunny.json](./94879-run-mr-bunny.json) |
 | Run Mr. Robo! | 307872 | [307872-run-mr-robo.json](./307872-run-mr-robo.json) |
