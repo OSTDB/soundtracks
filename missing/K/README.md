@@ -5462,6 +5462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurohyou: Ryuu ga Gotoku Shinshou | 66611 | [66611-kurohyou-ryuu-ga-gotoku-shinshou.json](./66611-kurohyou-ryuu-ga-gotoku-shinshou.json) |
 | Kuroi Hitomi no Noir: Cielgris Fantasm | 213910 | [213910-kuroi-hitomi-no-noir-cielgris-fantasm.json](./213910-kuroi-hitomi-no-noir-cielgris-fantasm.json) |
 | Kuroi Mishin: Sekaikei Girl | 307069 | [307069-kuroi-mishin-sekaikei-girl.json](./307069-kuroi-mishin-sekaikei-girl.json) |
+| Kuroi Tsubasa | 189825 | [189825-kuroi-tsubasa.json](./189825-kuroi-tsubasa.json) |
 | Kuroi Tsubasa: Deluxe Edition | 192557 | [192557-kuroi-tsubasa-deluxe-edition.json](./192557-kuroi-tsubasa-deluxe-edition.json) |
 | Kuroinu 2 Redux | 262080 | [262080-kuroinu-2-redux.json](./262080-kuroinu-2-redux.json) |
 | Kuroinu Redux | 244746 | [244746-kuroinu-redux.json](./244746-kuroinu-redux.json) |
