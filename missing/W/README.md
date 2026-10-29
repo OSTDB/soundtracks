@@ -1703,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarPods | 107865 | [107865-warpods.json](./107865-warpods.json) |
 | Warpside | 108274 | [108274-warpside.json](./108274-warpside.json) |
 | WarpSpeed | 4494 | [4494-warpspeed.json](./4494-warpspeed.json) |
+| Warpspeed Infinity | 198018 | [198018-warpspeed-infinity.json](./198018-warpspeed-infinity.json) |
 | Warpsquad | 216844 | [216844-warpsquad.json](./216844-warpsquad.json) |
 | Warptank | 318726 | [318726-warptank.json](./318726-warptank.json) |
 | WarpVector | 215665 | [215665-warpvector.json](./215665-warpvector.json) |
@@ -5196,6 +5197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingspan + European Expansion + Seasonal Decorative Pack | 223762 | [223762-wingspan-european-expansion-seasonal-decorative-pack.json](./223762-wingspan-european-expansion-seasonal-decorative-pack.json) |
 | Wingspan Oceania Deluxe Bundle | 331509 | [331509-wingspan-oceania-deluxe-bundle.json](./331509-wingspan-oceania-deluxe-bundle.json) |
 | Wingspan: Bird Pack - British Birds | 414782 | [414782-wingspan-bird-pack-british-birds.json](./414782-wingspan-bird-pack-british-birds.json) |
+| Wingspan: European Expansion | 197499 | [197499-wingspan-european-expansion.json](./197499-wingspan-european-expansion.json) |
 | Wingspan: Seasonal Decorative Pack 2 | 414783 | [414783-wingspan-seasonal-decorative-pack-2.json](./414783-wingspan-seasonal-decorative-pack-2.json) |
 | Wingspan: The Board Game | 174266 | [174266-wingspan-the-board-game.json](./174266-wingspan-the-board-game.json) |
 | Wingspan: Woodland Wonders Decorative Pack | 310400 | [310400-wingspan-woodland-wonders-decorative-pack.json](./310400-wingspan-woodland-wonders-decorative-pack.json) |
