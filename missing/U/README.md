@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uchi no Tenjouura ga Sawagashisugite Shouganai Slowly Neko-hen | 206559 | [206559-uchi-no-tenjouura-ga-sawagashisugite-shouganai-slowly-neko-hen.json](./206559-uchi-no-tenjouura-ga-sawagashisugite-shouganai-slowly-neko-hen.json) |
 | Uchi Tore: Saitan 4-fun Kin Tore & Yuusansou Undou | 276469 | [276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json](./276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json) |
 | Uchida Yasuo DS Mystery Detective Asami Mitsuhiko Series: Fukutoshin Serial Murder Incidents | 92650 | [92650-uchida-yasuo-ds-mystery-detective-asami-mitsuhiko-series-fukutoshin-serial-murder-incidents.json](./92650-uchida-yasuo-ds-mystery-detective-asami-mitsuhiko-series-fukutoshin-serial-murder-incidents.json) |
+| Uchikano: Living With My Girlfriend | 201965 | [201965-uchikano-living-with-my-girlfriend.json](./201965-uchikano-living-with-my-girlfriend.json) |
 | Uchikano: Living With My Lovers | 250485 | [250485-uchikano-living-with-my-lovers.json](./250485-uchikano-living-with-my-lovers.json) |
 | Uchu | 145507 | [145507-uchu.json](./145507-uchu.json) |
 | Uchu Mega Fight | 196791 | [196791-uchu-mega-fight.json](./196791-uchu-mega-fight.json) |
