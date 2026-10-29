@@ -5348,6 +5348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Relics | 312194 | [312194-retro-relics.json](./312194-retro-relics.json) |
 | Retro Revolution 2 | 63230 | [63230-retro-revolution-2.json](./63230-retro-revolution-2.json) |
 | Retro Rewind: Video Store Simulator | 346334 | [346334-retro-rewind-video-store-simulator.json](./346334-retro-rewind-video-store-simulator.json) |
+| Retro Ride | 196982 | [196982-retro-ride.json](./196982-retro-ride.json) |
 | Retro Road Rumble | 84843 | [84843-retro-road-rumble.json](./84843-retro-road-rumble.json) |
 | Retro Rollers Bundle | 254076 | [254076-retro-rollers-bundle.json](./254076-retro-rollers-bundle.json) |
 | Retro Royale | 112262 | [112262-retro-royale.json](./112262-retro-royale.json) |
@@ -7585,6 +7586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roamaor | 249314 | [249314-roamaor.json](./249314-roamaor.json) |
 | Roaming Backrooms | 265156 | [265156-roaming-backrooms.json](./265156-roaming-backrooms.json) |
 | Roaming Fortress | 17841 | [17841-roaming-fortress.json](./17841-roaming-fortress.json) |
+| Roaming the Stars | 196970 | [196970-roaming-the-stars.json](./196970-roaming-the-stars.json) |
 | Roaming through the Rivers | 214731 | [214731-roaming-through-the-rivers.json](./214731-roaming-through-the-rivers.json) |
 | Roams.io | 266367 | [266367-roams-io.json](./266367-roams-io.json) |
 | Roanoke | 260561 | [260561-roanoke.json](./260561-roanoke.json) |
