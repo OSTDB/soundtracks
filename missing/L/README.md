@@ -1105,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Days of Spring 2: Deluxe Edition | 53264 | [53264-last-days-of-spring-2-deluxe-edition.json](./53264-last-days-of-spring-2-deluxe-edition.json) |
 | Last Days of Spring Visual Novel | 34322 | [34322-last-days-of-spring-visual-novel.json](./34322-last-days-of-spring-visual-novel.json) |
 | Last Days of Tascaria | 99595 | [99595-last-days-of-tascaria.json](./99595-last-days-of-tascaria.json) |
+| Last Debt | 179341 | [179341-last-debt.json](./179341-last-debt.json) |
 | Last Defender | 310562 | [310562-last-defender.json](./310562-last-defender.json) |
 | Last Defenders | 173045 | [173045-last-defenders.json](./173045-last-defenders.json) |
 | Last Definitive Fantasy | 340897 | [340897-last-definitive-fantasy.json](./340897-last-definitive-fantasy.json) |
@@ -3610,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letux Game | 199469 | [199469-letux-game.json](./199469-letux-game.json) |
 | Letzte Worte VR | 111587 | [111587-letzte-worte-vr.json](./111587-letzte-worte-vr.json) |
 | Leucistic Wyvern | 266657 | [266657-leucistic-wyvern.json](./266657-leucistic-wyvern.json) |
+| LeukoBlast! | 179295 | [179295-leukoblast.json](./179295-leukoblast.json) |
 | Levaluhta | 155380 | [155380-levaluhta.json](./155380-levaluhta.json) |
 | Levana Horror Tale | 316356 | [316356-levana-horror-tale.json](./316356-levana-horror-tale.json) |
 | Levania | 367018 | [367018-levania.json](./367018-levania.json) |
@@ -4708,6 +4710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linda Cube | 94898 | [94898-linda-cube.json](./94898-linda-cube.json) |
 | Linda Cube Again | 65761 | [65761-linda-cube-again.json](./65761-linda-cube-again.json) |
 | Linda Cube Kanzenban | 194757 | [194757-linda-cube-kanzenban.json](./194757-linda-cube-kanzenban.json) |
+| LindaBee | 179313 | [179313-lindabee.json](./179313-lindabee.json) |
 | Lindsi Luna Blast | 62215 | [62215-lindsi-luna-blast.json](./62215-lindsi-luna-blast.json) |
 | Lindwyrm | 262827 | [262827-lindwyrm.json](./262827-lindwyrm.json) |
 | Line / Dash | 32187 | [32187-line-dash.json](./32187-line-dash.json) |
