@@ -2493,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Warrior | 13634 | [13634-elven-warrior.json](./13634-elven-warrior.json) |
 | Elvenar | 59764 | [59764-elvenar.json](./59764-elvenar.json) |
 | ElvenEscape | 203945 | [203945-elvenescape.json](./203945-elvenescape.json) |
+| Elvera | 207651 | [207651-elvera.json](./207651-elvera.json) |
 | Elves | 295940 | [295940-elves.json](./295940-elves.json) |
 | Elves '87 | 246233 | [246233-elves-87.json](./246233-elves-87.json) |
 | Elves Adventure | 31972 | [31972-elves-adventure.json](./31972-elves-adventure.json) |
@@ -3976,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Pandemonium | 253961 | [253961-epic-pandemonium.json](./253961-epic-pandemonium.json) |
 | Epic Paper Mario | 338735 | [338735-epic-paper-mario.json](./338735-epic-paper-mario.json) |
 | Epic Party Clicker | 314632 | [314632-epic-party-clicker.json](./314632-epic-party-clicker.json) |
+| Epic Party Quest | 207641 | [207641-epic-party-quest.json](./207641-epic-party-quest.json) |
 | Epic Pirate | 307723 | [307723-epic-pirate.json](./307723-epic-pirate.json) |
 | Epic Pirates Story | 200019 | [200019-epic-pirates-story.json](./200019-epic-pirates-story.json) |
 | Epic Pixel War | 296391 | [296391-epic-pixel-war.json](./296391-epic-pixel-war.json) |
