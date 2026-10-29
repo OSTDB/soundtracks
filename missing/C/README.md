@@ -4756,6 +4756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerebrawl | 70367 | [70367-cerebrawl.json](./70367-cerebrawl.json) |
 | Cerebrum Operation | 217261 | [217261-cerebrum-operation.json](./217261-cerebrum-operation.json) |
 | Cerebrum Remastered | 401771 | [401771-cerebrum-remastered.json](./401771-cerebrum-remastered.json) |
+| Ceremonial Circles | 196448 | [196448-ceremonial-circles.json](./196448-ceremonial-circles.json) |
 | Ceremonial Speedmaps | 271193 | [271193-ceremonial-speedmaps.json](./271193-ceremonial-speedmaps.json) |
 | Ceremony of Innocence | 72092 | [72092-ceremony-of-innocence.json](./72092-ceremony-of-innocence.json) |
 | Ceres | 35707 | [35707-ceres.json](./35707-ceres.json) |
@@ -5223,6 +5224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos In Andromeda | 15873 | [15873-chaos-in-andromeda.json](./15873-chaos-in-andromeda.json) |
 | Chaos Islands | 296395 | [296395-chaos-islands.json](./296395-chaos-islands.json) |
 | Chaos Journey | 295021 | [295021-chaos-journey.json](./295021-chaos-journey.json) |
+| Chaos Law | 196422 | [196422-chaos-law.json](./196422-chaos-law.json) |
 | Chaos League | 50120 | [50120-chaos-league.json](./50120-chaos-league.json) |
 | Chaos League: Sudden Death | 70068 | [70068-chaos-league-sudden-death.json](./70068-chaos-league-sudden-death.json) |
 | Chaos Legion | 2917 | [2917-chaos-legion.json](./2917-chaos-legion.json) |
@@ -8468,6 +8470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Evil | 242139 | [242139-clash-of-evil.json](./242139-clash-of-evil.json) |
 | Clash of Evil: The Comeback | 272815 | [272815-clash-of-evil-the-comeback.json](./272815-clash-of-evil-the-comeback.json) |
 | Clash of Fingers | 237958 | [237958-clash-of-fingers.json](./237958-clash-of-fingers.json) |
+| Clash of Glory | 196408 | [196408-clash-of-glory.json](./196408-clash-of-glory.json) |
 | Clash of Irons: Blitzkrieg | 157483 | [157483-clash-of-irons-blitzkrieg.json](./157483-clash-of-irons-blitzkrieg.json) |
 | Clash of Kings | 15200 | [15200-clash-of-kings.json](./15200-clash-of-kings.json) |
 | Clash of Legends | 108178 | [108178-clash-of-legends.json](./108178-clash-of-legends.json) |
@@ -9261,6 +9264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Cutter | 147000 | [147000-cloud-cutter.json](./147000-cloud-cutter.json) |
 | Cloud Dwellers | 350598 | [350598-cloud-dwellers.json](./350598-cloud-dwellers.json) |
 | Cloud Escape | 183612 | [183612-cloud-escape.json](./183612-cloud-escape.json) |
+| Cloud Exiles | 196423 | [196423-cloud-exiles.json](./196423-cloud-exiles.json) |
 | Cloud Gardens | 136407 | [136407-cloud-gardens.json](./136407-cloud-gardens.json) |
 | Cloud Golf | 405902 | [405902-cloud-golf.json](./405902-cloud-golf.json) |
 | Cloud Grove | 59934 | [59934-cloud-grove.json](./59934-cloud-grove.json) |
@@ -9803,6 +9807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code::Lux | 372092 | [372092-code-lux.json](./372092-code-lux.json) |
 | Code:29 | 215514 | [215514-code-29.json](./215514-code-29.json) |
 | Code:Machina | 212165 | [212165-code-machina.json](./212165-code-machina.json) |
+| Code.Breaker() | 195885 | [195885-code-breaker.json](./195885-code-breaker.json) |
 | Code.Zer0 | 261220 | [261220-code-zer0.json](./261220-code-zer0.json) |
 | Code/The Werewolf Party | 120927 | [120927-code-the-werewolf-party.json](./120927-code-the-werewolf-party.json) |
 | Code2040 | 119632 | [119632-code2040.json](./119632-code2040.json) |
@@ -11131,6 +11136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comets Wake | 76918 | [76918-comets-wake.json](./76918-comets-wake.json) |
 | CometSoldier | 256107 | [256107-cometsoldier.json](./256107-cometsoldier.json) |
 | Comfort | 134414 | [134414-comfort.json](./134414-comfort.json) |
+| Comfort | 195880 | [195880-comfort.json](./195880-comfort.json) |
 | Comfort Zone | 266724 | [266724-comfort-zone.json](./266724-comfort-zone.json) |
 | Comforting Sounds | 183924 | [183924-comforting-sounds.json](./183924-comforting-sounds.json) |
 | Comfwee Café | 393517 | [393517-comfwee-cafe.json](./393517-comfwee-cafe.json) |
@@ -13902,6 +13908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crabland | 290998 | [290998-crabland.json](./290998-crabland.json) |
 | Crablike | 342058 | [342058-crablike.json](./342058-crablike.json) |
 | Crabling | 244904 | [244904-crabling.json](./244904-crabling.json) |
+| Crabmania | 196446 | [196446-crabmania.json](./196446-crabmania.json) |
 | CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
 | Crabmeat | 351084 | [351084-crabmeat.json](./351084-crabmeat.json) |
 | Crabrun | 423302 | [423302-crabrun.json](./423302-crabrun.json) |
@@ -15129,6 +15136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Wave | 12018 | [12018-crime-wave.json](./12018-crime-wave.json) |
 | Crime Wave | 23837 | [23837-crime-wave.json](./23837-crime-wave.json) |
 | Crime Zone | 262240 | [262240-crime-zone.json](./262240-crime-zone.json) |
+| Crime Сity | 195866 | [195866-crime-ity.json](./195866-crime-ity.json) |
 | Crime: 1997 | 271097 | [271097-crime-1997.json](./271097-crime-1997.json) |
 | CrimeBloc | 347795 | [347795-crimebloc.json](./347795-crimebloc.json) |
 | Crimebot | 398261 | [398261-crimebot.json](./398261-crimebot.json) |
