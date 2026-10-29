@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Rise of a Ninja | 7101 | [7101-naruto-rise-of-a-ninja.json](./7101-naruto-rise-of-a-ninja.json) |
 | Naruto: Shinobi Collection Shippuranbu | 139193 | [139193-naruto-shinobi-collection-shippuranbu.json](./139193-naruto-shinobi-collection-shippuranbu.json) |
 | Naruto: Slugfest | 130874 | [130874-naruto-slugfest.json](./130874-naruto-slugfest.json) |
+| Naruto: Star Students - Ninja Survival | 203058 | [203058-naruto-star-students-ninja-survival.json](./203058-naruto-star-students-ninja-survival.json) |
 | Naruto: The Broken Bond | 7102 | [7102-naruto-the-broken-bond.json](./7102-naruto-the-broken-bond.json) |
 | Naruto: Ultimate Collection | 220253 | [220253-naruto-ultimate-collection.json](./220253-naruto-ultimate-collection.json) |
 | Naruto: Ultimate Duel | 174605 | [174605-naruto-ultimate-duel.json](./174605-naruto-ultimate-duel.json) |
