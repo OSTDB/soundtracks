@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabbath | 275548 | [275548-sabbath.json](./275548-sabbath.json) |
 | Saber Fight VR | 127529 | [127529-saber-fight-vr.json](./127529-saber-fight-vr.json) |
 | Saber Marionette J: Battle Sabers | 44821 | [44821-saber-marionette-j-battle-sabers.json](./44821-saber-marionette-j-battle-sabers.json) |
+| Saber Merge 3D: Galaxy Battle | 214290 | [214290-saber-merge-3d-galaxy-battle.json](./214290-saber-merge-3d-galaxy-battle.json) |
 | Saber Punks | 152309 | [152309-saber-punks.json](./152309-saber-punks.json) |
 | Saber Rider and the Star Sheriffs | 66399 | [66399-saber-rider-and-the-star-sheriffs.json](./66399-saber-rider-and-the-star-sheriffs.json) |
 | Saber Ship | 213462 | [213462-saber-ship.json](./213462-saber-ship.json) |
@@ -9668,6 +9669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Story: Alex - Two Guys | 172132 | [172132-simple-story-alex-two-guys.json](./172132-simple-story-alex-two-guys.json) |
 | Simple Tennis | 306018 | [306018-simple-tennis.json](./306018-simple-tennis.json) |
 | Simple Tower Defense | 259287 | [259287-simple-tower-defense.json](./259287-simple-tower-defense.json) |
+| Simple Trains | 214274 | [214274-simple-trains.json](./214274-simple-trains.json) |
 | Simple Zombie Survival | 368594 | [368594-simple-zombie-survival.json](./368594-simple-zombie-survival.json) |
 | Simplefield | 46475 | [46475-simplefield.json](./46475-simplefield.json) |
 | SimpleMMO | 145898 | [145898-simplemmo.json](./145898-simplemmo.json) |
@@ -11442,6 +11444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
 | Slay the Zone | 235941 | [235941-slay-the-zone.json](./235941-slay-the-zone.json) |
 | Slay To The End | 293831 | [293831-slay-to-the-end.json](./293831-slay-to-the-end.json) |
+| Slay Zombie | 214313 | [214313-slay-zombie.json](./214313-slay-zombie.json) |
 | Slayaway Camp | 25239 | [25239-slayaway-camp.json](./25239-slayaway-camp.json) |
 | Slayaway Camp 2 | 273976 | [273976-slayaway-camp-2.json](./273976-slayaway-camp-2.json) |
 | Slayblade | 394830 | [394830-slayblade.json](./394830-slayblade.json) |
@@ -12419,6 +12422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Cat Heroes | 84882 | [84882-smash-cat-heroes.json](./84882-smash-cat-heroes.json) |
 | Smash Champs | 350197 | [350197-smash-champs.json](./350197-smash-champs.json) |
 | Smash Club: Streets of Shmeenis | 147650 | [147650-smash-club-streets-of-shmeenis.json](./147650-smash-club-streets-of-shmeenis.json) |
+| Smash Colors | 214318 | [214318-smash-colors.json](./214318-smash-colors.json) |
 | Smash Cops | 22929 | [22929-smash-cops.json](./22929-smash-cops.json) |
 | Smash Court 3 | 61669 | [61669-smash-court-3.json](./61669-smash-court-3.json) |
 | Smash Court Tennis 3 | 7188 | [7188-smash-court-tennis-3.json](./7188-smash-court-tennis-3.json) |
@@ -20520,6 +20524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Order | 388009 | [388009-stack-order.json](./388009-stack-order.json) |
 | Stack Pro | 96068 | [96068-stack-pro.json](./96068-stack-pro.json) |
 | Stack Slayer | 287745 | [287745-stack-slayer.json](./287745-stack-slayer.json) |
+| Stack Smash | 214282 | [214282-stack-smash.json](./214282-stack-smash.json) |
 | Stack Stones | 226615 | [226615-stack-stones.json](./226615-stack-stones.json) |
 | Stack Surge | 297003 | [297003-stack-surge.json](./297003-stack-surge.json) |
 | Stack the Blocks! | 380475 | [380475-stack-the-blocks.json](./380475-stack-the-blocks.json) |
@@ -22883,6 +22888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steeplechase | 276345 | [276345-steeplechase.json](./276345-steeplechase.json) |
 | Steeplejack | 383968 | [383968-steeplejack.json](./383968-steeplejack.json) |
 | Steer Madness | 66745 | [66745-steer-madness.json](./66745-steer-madness.json) |
+| Steering Wheel Evolution | 214291 | [214291-steering-wheel-evolution.json](./214291-steering-wheel-evolution.json) |
 | Steezelpunk | 391722 | [391722-steezelpunk.json](./391722-steezelpunk.json) |
 | Stefanos Sizzilin Pizza Pie | 103481 | [103481-stefanos-sizzilin-pizza-pie.json](./103481-stefanos-sizzilin-pizza-pie.json) |
 | Stefanos Sizzlin Pizza Pie | 180042 | [180042-stefanos-sizzlin-pizza-pie.json](./180042-stefanos-sizzlin-pizza-pie.json) |
@@ -25100,6 +25106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Race | 395000 | [395000-stunt-race.json](./395000-stunt-race.json) |
 | Stunt Race FX | 28509 | [28509-stunt-race-fx.json](./28509-stunt-race-fx.json) |
 | Stunt Racer 2000 | 13259 | [13259-stunt-racer-2000.json](./13259-stunt-racer-2000.json) |
+| Stunt Rails | 214309 | [214309-stunt-rails.json](./214309-stunt-rails.json) |
 | Stunt Runner | 62994 | [62994-stunt-runner.json](./62994-stunt-runner.json) |
 | Stunt Rush: 3D Buggy Racing | 246985 | [246985-stunt-rush-3d-buggy-racing.json](./246985-stunt-rush-3d-buggy-racing.json) |
 | Stunt Scooter Simulator | 294833 | [294833-stunt-scooter-simulator.json](./294833-stunt-scooter-simulator.json) |
@@ -26734,6 +26741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Brawl Rush | 204856 | [204856-super-brawl-rush.json](./204856-super-brawl-rush.json) |
 | Super Brawl Universe | 125347 | [125347-super-brawl-universe.json](./125347-super-brawl-universe.json) |
 | Super Brawl World | 71180 | [71180-super-brawl-world.json](./71180-super-brawl-world.json) |
+| Super Brawler | 214294 | [214294-super-brawler.json](./214294-super-brawler.json) |
 | Super Breakout | 12321 | [12321-super-breakout.json](./12321-super-breakout.json) |
 | Super Breakout | 239502 | [239502-super-breakout.json](./239502-super-breakout.json) |
 | Super Breakout | 239520 | [239520-super-breakout.json](./239520-super-breakout.json) |
