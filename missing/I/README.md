@@ -4914,6 +4914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ion Fury + Aftershock | 274835 | [274835-ion-fury-aftershock.json](./274835-ion-fury-aftershock.json) |
 | Ion Fury: Aftershock | 145471 | [145471-ion-fury-aftershock.json](./145471-ion-fury-aftershock.json) |
 | Ion Shift | 257941 | [257941-ion-shift.json](./257941-ion-shift.json) |
+| Ion Stormfire | 211012 | [211012-ion-stormfire.json](./211012-ion-stormfire.json) |
 | Ion.A | 290541 | [290541-ion-a.json](./290541-ion-a.json) |
 | Iona's Island | 348658 | [348658-ionas-island.json](./348658-ionas-island.json) |
 | Iona's Toybox | 361041 | [361041-ionas-toybox.json](./361041-ionas-toybox.json) |
