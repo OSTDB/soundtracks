@@ -844,7 +844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1558,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Bombs | 300733 | [300733-balls-bombs.json](./300733-balls-bombs.json) |
 | Balls Break Bricks | 384728 | [384728-balls-break-bricks.json](./384728-balls-break-bricks.json) |
 | Balls Bricks Breaker | 100839 | [100839-balls-bricks-breaker.json](./100839-balls-bricks-breaker.json) |
+| Balls Bricks Breaker 3 | 227529 | [227529-balls-bricks-breaker-3.json](./227529-balls-bricks-breaker-3.json) |
 | Balls Control | 90767 | [90767-balls-control.json](./90767-balls-control.json) |
 | Balls Crush Simulator | 319432 | [319432-balls-crush-simulator.json](./319432-balls-crush-simulator.json) |
 | Balls Gone Wild | 343220 | [343220-balls-gone-wild.json](./343220-balls-gone-wild.json) |
@@ -10539,6 +10539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob's Fears | 381283 | [381283-bobs-fears.json](./381283-bobs-fears.json) |
 | Bob's Full House | 13416 | [13416-bobs-full-house.json](./13416-bobs-full-house.json) |
 | Bob's Mansion | 267490 | [267490-bobs-mansion.json](./267490-bobs-mansion.json) |
+| Bob's World | 227548 | [227548-bobs-world.json](./227548-bobs-world.json) |
 | Boba | 177569 | [177569-boba.json](./177569-boba.json) |
 | Boba | 239588 | [239588-boba.json](./239588-boba.json) |
 | Boba | 355857 | [355857-boba.json](./355857-boba.json) |
@@ -12342,6 +12343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Align | 86312 | [86312-box-align.json](./86312-box-align.json) |
 | Box and Ball | 153851 | [153851-box-and-ball.json](./153851-box-and-ball.json) |
 | Box Bakery | 310007 | [310007-box-bakery.json](./310007-box-bakery.json) |
+| Box Blocks | 227542 | [227542-box-blocks.json](./227542-box-blocks.json) |
 | Box Bop | 314485 | [314485-box-bop.json](./314485-box-bop.json) |
 | Box box | 174078 | [174078-box-box.json](./174078-box-box.json) |
 | Box Box Box! | 379055 | [379055-box-box-box.json](./379055-box-box-box.json) |
@@ -14420,6 +14422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shock! Bane Blaster Game | 306203 | [306203-bubble-shock-bane-blaster-game.json](./306203-bubble-shock-bane-blaster-game.json) |
 | Bubble Shoot Farm | 272182 | [272182-bubble-shoot-farm.json](./272182-bubble-shoot-farm.json) |
 | Bubble Shooter | 224076 | [224076-bubble-shooter.json](./224076-bubble-shooter.json) |
+| Bubble Shooter | 227537 | [227537-bubble-shooter.json](./227537-bubble-shooter.json) |
 | Bubble Shooter | 335469 | [335469-bubble-shooter.json](./335469-bubble-shooter.json) |
 | Bubble Shooter | 380041 | [380041-bubble-shooter.json](./380041-bubble-shooter.json) |
 | Bubble Shooter 2 | 299775 | [299775-bubble-shooter-2.json](./299775-bubble-shooter-2.json) |
@@ -15613,6 +15616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnout Drift | 116364 | [116364-burnout-drift.json](./116364-burnout-drift.json) |
 | Burnout Legends | 10916 | [10916-burnout-legends.json](./10916-burnout-legends.json) |
 | Burnout Legends | 194233 | [194233-burnout-legends.json](./194233-burnout-legends.json) |
+| Burnout Masters | 227532 | [227532-burnout-masters.json](./227532-burnout-masters.json) |
 | Burnout Mobile | 342038 | [342038-burnout-mobile.json](./342038-burnout-mobile.json) |
 | Burnout Paradise Remastered | 78153 | [78153-burnout-paradise-remastered.json](./78153-burnout-paradise-remastered.json) |
 | Burnout Paradise: Cops and Robbers | 118274 | [118274-burnout-paradise-cops-and-robbers.json](./118274-burnout-paradise-cops-and-robbers.json) |
