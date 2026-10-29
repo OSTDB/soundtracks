@@ -5014,6 +5014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Override 2: Super Mech League - Dan Moroboshi Fighter | 161783 | [161783-override-2-super-mech-league-dan-moroboshi-fighter.json](./161783-override-2-super-mech-league-dan-moroboshi-fighter.json) |
 | Override 2: Super Mech League - Ultraman | 161784 | [161784-override-2-super-mech-league-ultraman.json](./161784-override-2-super-mech-league-ultraman.json) |
 | Override 2: Super Mech League - Ultraman Deluxe Edition | 139888 | [139888-override-2-super-mech-league-ultraman-deluxe-edition.json](./139888-override-2-super-mech-league-ultraman-deluxe-edition.json) |
+| Override 2: Super Mech League - Ultraman Edition Pack | 225327 | [225327-override-2-super-mech-league-ultraman-edition-pack.json](./225327-override-2-super-mech-league-ultraman-edition-pack.json) |
 | Override: Mech City Brawl | 105028 | [105028-override-mech-city-brawl.json](./105028-override-mech-city-brawl.json) |
 | Override: Mech City Brawl - Bellona | 161792 | [161792-override-mech-city-brawl-bellona.json](./161792-override-mech-city-brawl-bellona.json) |
 | Override: Mech City Brawl - Maestro | 161790 | [161790-override-mech-city-brawl-maestro.json](./161790-override-mech-city-brawl-maestro.json) |
