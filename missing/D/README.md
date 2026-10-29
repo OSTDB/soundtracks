@@ -11365,6 +11365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Riders | 359862 | [359862-donut-riders.json](./359862-donut-riders.json) |
 | Donut Shop | 108313 | [108313-donut-shop.json](./108313-donut-shop.json) |
 | Donut Shop Simulator | 348761 | [348761-donut-shop-simulator.json](./348761-donut-shop-simulator.json) |
+| Donut Wrangler | 177192 | [177192-donut-wrangler.json](./177192-donut-wrangler.json) |
 | Donutal | 391675 | [391675-donutal.json](./391675-donutal.json) |
 | Donutis Simulator | 159538 | [159538-donutis-simulator.json](./159538-donutis-simulator.json) |
 | Donuts | 263019 | [263019-donuts.json](./263019-donuts.json) |
@@ -16753,6 +16754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustoria | 347570 | [347570-dustoria.json](./347570-dustoria.json) |
 | Dustpine District | 419858 | [419858-dustpine-district.json](./419858-dustpine-district.json) |
 | Dustpocalypse | 422136 | [422136-dustpocalypse.json](./422136-dustpocalypse.json) |
+| DustSim | 177173 | [177173-dustsim.json](./177173-dustsim.json) |
 | Dustswap: Dusttrust | 330050 | [330050-dustswap-dusttrust.json](./330050-dustswap-dusttrust.json) |
 | Dusttale | 136912 | [136912-dusttale.json](./136912-dusttale.json) |
 | Dusttale Reimagined | 329662 | [329662-dusttale-reimagined.json](./329662-dusttale-reimagined.json) |
