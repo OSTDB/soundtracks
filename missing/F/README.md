@@ -3942,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fifty Words by Powgi | 123311 | [123311-fifty-words-by-powgi.json](./123311-fifty-words-by-powgi.json) |
 | Fig and Totems | 386093 | [386093-fig-and-totems.json](./386093-fig-and-totems.json) |
 | Fig: The Game for Depression | 395113 | [395113-fig-the-game-for-depression.json](./395113-fig-the-game-for-depression.json) |
+| Fig. | 212617 | [212617-fig.json](./212617-fig.json) |
 | Figaro | 364631 | [364631-figaro.json](./364631-figaro.json) |
 | Figgerits | 214333 | [214333-figgerits.json](./214333-figgerits.json) |
 | Fight | 147425 | [147425-fight.json](./147425-fight.json) |
