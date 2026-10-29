@@ -1977,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raven the Last Neko Slayer | 114083 | [114083-raven-the-last-neko-slayer.json](./114083-raven-the-last-neko-slayer.json) |
 | Raven Tower | 416372 | [416372-raven-tower.json](./416372-raven-tower.json) |
 | Raven-Star | 350207 | [350207-raven-star.json](./350207-raven-star.json) |
+| Raven: Arang | 194104 | [194104-raven-arang.json](./194104-raven-arang.json) |
 | Raven: Chapter 1 - The Commands of Eurybia | 74002 | [74002-raven-chapter-1-the-commands-of-eurybia.json](./74002-raven-chapter-1-the-commands-of-eurybia.json) |
 | Raven: The Rise | 224406 | [224406-raven-the-rise.json](./224406-raven-the-rise.json) |
 | Raven's Cry | 7686 | [7686-ravens-cry.json](./7686-ravens-cry.json) |
@@ -6205,6 +6206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rick and Josh adventures | 195620 | [195620-rick-and-josh-adventures.json](./195620-rick-and-josh-adventures.json) |
 | Rick and Morty Game | 307573 | [307573-rick-and-morty-game.json](./307573-rick-and-morty-game.json) |
 | Rick and Morty Presents: Jerry's Game | 74299 | [74299-rick-and-morty-presents-jerrys-game.json](./74299-rick-and-morty-presents-jerrys-game.json) |
+| Rick and Morty: Clone Rumble | 194111 | [194111-rick-and-morty-clone-rumble.json](./194111-rick-and-morty-clone-rumble.json) |
 | Rick and Morty: Virtual Rick-ality | 20459 | [20459-rick-and-morty-virtual-rick-ality.json](./20459-rick-and-morty-virtual-rick-ality.json) |
 | Rick Astley: The Game | 195335 | [195335-rick-astley-the-game.json](./195335-rick-astley-the-game.json) |
 | Rick Dangerous | 12202 | [12202-rick-dangerous.json](./12202-rick-dangerous.json) |
