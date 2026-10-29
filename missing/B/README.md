@@ -845,7 +845,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8354,6 +8353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Dancer: Lineage of Light | 269079 | [269079-blade-dancer-lineage-of-light.json](./269079-blade-dancer-lineage-of-light.json) |
 | Blade Eagle 3-D | 45663 | [45663-blade-eagle-3-d.json](./45663-blade-eagle-3-d.json) |
 | Blade Exload | 231872 | [231872-blade-exload.json](./231872-blade-exload.json) |
+| Blade Fantasy | 213192 | [213192-blade-fantasy.json](./213192-blade-fantasy.json) |
 | Blade Flash Death | 151278 | [151278-blade-flash-death.json](./151278-blade-flash-death.json) |
 | Blade Force | 11860 | [11860-blade-force.json](./11860-blade-force.json) |
 | Blade Fury | 256946 | [256946-blade-fury.json](./256946-blade-fury.json) |
