@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Meal | 125999 | [125999-last-meal.json](./125999-last-meal.json) |
 | Last Memories | 236385 | [236385-last-memories.json](./236385-last-memories.json) |
 | Last Memory | 155693 | [155693-last-memory.json](./155693-last-memory.json) |
+| Last Meow Standing | 202490 | [202490-last-meow-standing.json](./202490-last-meow-standing.json) |
 | Last Message | 316160 | [316160-last-message.json](./316160-last-message.json) |
 | Last Message Plus | 316173 | [316173-last-message-plus.json](./316173-last-message-plus.json) |
 | Last Mind Standing | 318445 | [318445-last-mind-standing.json](./318445-last-mind-standing.json) |
@@ -4329,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights In The Sky | 310267 | [310267-lights-in-the-sky.json](./310267-lights-in-the-sky.json) |
 | Lights of Life | 260259 | [260259-lights-of-life.json](./260259-lights-of-life.json) |
 | Lights Off | 100159 | [100159-lights-off.json](./100159-lights-off.json) |
+| Lights Off! | 202514 | [202514-lights-off.json](./202514-lights-off.json) |
 | Lights Orb | 143316 | [143316-lights-orb.json](./143316-lights-orb.json) |
 | Lights Out | 199429 | [199429-lights-out.json](./199429-lights-out.json) |
 | Lights Out | 217183 | [217183-lights-out.json](./217183-lights-out.json) |
