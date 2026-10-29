@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can't Believe It's Not Gambling 2(k) | 130716 | [130716-i-cant-believe-its-not-gambling-2-k.json](./130716-i-cant-believe-its-not-gambling-2-k.json) |
 | I Can't Believe It's Not Gambling: GOTY Edition | 74929 | [74929-i-cant-believe-its-not-gambling-goty-edition.json](./74929-i-cant-believe-its-not-gambling-goty-edition.json) |
 | I Can't Believe the Most Popular Girl in School is a Lesbian, Just Like Me! | 184894 | [184894-i-cant-believe-the-most-popular-girl-in-school-is-a-lesbian-just-like-me.json](./184894-i-cant-believe-the-most-popular-girl-in-school-is-a-lesbian-just-like-me.json) |
+| I can't carry all these ducks! | 177161 | [177161-i-cant-carry-all-these-ducks.json](./177161-i-cant-carry-all-these-ducks.json) |
 | I Can't Cry. | 183930 | [183930-i-cant-cry.json](./183930-i-cant-cry.json) |
 | I Can't Escape | 94137 | [94137-i-cant-escape.json](./94137-i-cant-escape.json) |
 | I Can't Escape: Darkness | 35861 | [35861-i-cant-escape-darkness.json](./35861-i-cant-escape-darkness.json) |
