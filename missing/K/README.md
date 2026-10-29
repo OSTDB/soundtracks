@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kartong | 38787 | [38787-kartong.json](./38787-kartong.json) |
 | Kartong - Death by Cardboard! | 77571 | [77571-kartong-death-by-cardboard.json](./77571-kartong-death-by-cardboard.json) |
 | Kartoon Racing: Singleplayer Multiplayer Racing | 213140 | [213140-kartoon-racing-singleplayer-multiplayer-racing.json](./213140-kartoon-racing-singleplayer-multiplayer-racing.json) |
+| Kartrider Dash | 186466 | [186466-kartrider-dash.json](./186466-kartrider-dash.json) |
 | Kartrider Rush | 186711 | [186711-kartrider-rush.json](./186711-kartrider-rush.json) |
 | KartRider: Drift | 125626 | [125626-kartrider-drift.json](./125626-kartrider-drift.json) |
 | Karts With Chat | 345505 | [345505-karts-with-chat.json](./345505-karts-with-chat.json) |
@@ -1157,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Girl | 202194 | [202194-kawaii-girl.json](./202194-kawaii-girl.json) |
 | Kawaii Girls | 334088 | [334088-kawaii-girls.json](./334088-kawaii-girls.json) |
 | Kawaii Girls | 335317 | [335317-kawaii-girls.json](./335317-kawaii-girls.json) |
+| Kawaii Girls Puzzle | 187073 | [187073-kawaii-girls-puzzle.json](./187073-kawaii-girls-puzzle.json) |
 | Kawaii Girls: Busty Bear | 378810 | [378810-kawaii-girls-busty-bear.json](./378810-kawaii-girls-busty-bear.json) |
 | Kawaii Girls: Cute Cheerleader | 362962 | [362962-kawaii-girls-cute-cheerleader.json](./362962-kawaii-girls-cute-cheerleader.json) |
 | Kawaii Girls: Dashing Devil | 387103 | [387103-kawaii-girls-dashing-devil.json](./387103-kawaii-girls-dashing-devil.json) |
@@ -1553,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kendo Rage | 15845 | [15845-kendo-rage.json](./15845-kendo-rage.json) |
 | Kendo Warrior | 286224 | [286224-kendo-warrior.json](./286224-kendo-warrior.json) |
 | Kendrick Lamar Heardle | 369137 | [369137-kendrick-lamar-heardle.json](./369137-kendrick-lamar-heardle.json) |
+| Keng's Little Universe | 187029 | [187029-kengs-little-universe.json](./187029-kengs-little-universe.json) |
 | KenGeki CrossZone | 393953 | [393953-kengeki-crosszone.json](./393953-kengeki-crosszone.json) |
 | Kengo 2: Sword of the Samurai | 1421 | [1421-kengo-2-sword-of-the-samurai.json](./1421-kengo-2-sword-of-the-samurai.json) |
 | Kengo 3 | 1422 | [1422-kengo-3.json](./1422-kengo-3.json) |
@@ -2479,7 +2482,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2552,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindawn: The Parish Remembers | 412555 | [412555-kindawn-the-parish-remembers.json](./412555-kindawn-the-parish-remembers.json) |
 | Kinder | 261432 | [261432-kinder.json](./261432-kinder.json) |
 | Kinder Finders | 339398 | [339398-kinder-finders.json](./339398-kinder-finders.json) |
+| Kinder Pingui: Fresh Adventures | 186416 | [186416-kinder-pingui-fresh-adventures.json](./186416-kinder-pingui-fresh-adventures.json) |
 | Kinder World | 253710 | [253710-kinder-world.json](./253710-kinder-world.json) |
 | Kindergarten | 215760 | [215760-kindergarten.json](./215760-kindergarten.json) |
 | Kindergarten | 29526 | [29526-kindergarten.json](./29526-kindergarten.json) |
@@ -5442,6 +5445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurage Life | 368103 | [368103-kurage-life.json](./368103-kurage-life.json) |
 | Kurai Nichiyoubi: Sombre Dimanche | 260982 | [260982-kurai-nichiyoubi-sombre-dimanche.json](./260982-kurai-nichiyoubi-sombre-dimanche.json) |
 | Kurama and the Cursed Isles | 196986 | [196986-kurama-and-the-cursed-isles.json](./196986-kurama-and-the-cursed-isles.json) |
+| Kurayami | 187054 | [187054-kurayami.json](./187054-kurayami.json) |
 | Kurayami | 94763 | [94763-kurayami.json](./94763-kurayami.json) |
 | Kurayami Zaka no Ie | 261878 | [261878-kurayami-zaka-no-ie.json](./261878-kurayami-zaka-no-ie.json) |
 | Kurenai Maid Tycoon | 235864 | [235864-kurenai-maid-tycoon.json](./235864-kurenai-maid-tycoon.json) |
@@ -5472,6 +5476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuroi Tsubasa: Deluxe Edition | 192557 | [192557-kuroi-tsubasa-deluxe-edition.json](./192557-kuroi-tsubasa-deluxe-edition.json) |
 | Kuroinu 2 Redux | 262080 | [262080-kuroinu-2-redux.json](./262080-kuroinu-2-redux.json) |
 | Kuroinu Redux | 244746 | [244746-kuroinu-redux.json](./244746-kuroinu-redux.json) |
+| Kurokami-sama's Feast | 187065 | [187065-kurokami-samas-feast.json](./187065-kurokami-samas-feast.json) |
 | Kuroki run! | 184927 | [184927-kuroki-run.json](./184927-kuroki-run.json) |
 | Kuroko no Basket: Kiseki no Game | 63055 | [63055-kuroko-no-basket-kiseki-no-game.json](./63055-kuroko-no-basket-kiseki-no-game.json) |
 | Kuroko no Basket: Mirai he no Kizuna | 60492 | [60492-kuroko-no-basket-mirai-he-no-kizuna.json](./60492-kuroko-no-basket-mirai-he-no-kizuna.json) |
