@@ -2203,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viridian | 296340 | [296340-viridian.json](./296340-viridian.json) |
 | Viridian Room | 247597 | [247597-viridian-room.json](./247597-viridian-room.json) |
 | Viridian Sage | 256990 | [256990-viridian-sage.json](./256990-viridian-sage.json) |
+| Virion | 195352 | [195352-virion.json](./195352-virion.json) |
 | Virion | 338568 | [338568-virion.json](./338568-virion.json) |
 | Virium | 211633 | [211633-virium.json](./211633-virium.json) |
 | Virivì e l'ombra della pioggia | 389125 | [389125-virivi-e-lombra-della-pioggia.json](./389125-virivi-e-lombra-della-pioggia.json) |
@@ -3151,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vom Drachentöten | 389120 | [389120-vom-drachentoten.json](./389120-vom-drachentoten.json) |
 | Vomitoreum | 142271 | [142271-vomitoreum.json](./142271-vomitoreum.json) |
 | Vona: She | 241263 | [241263-vona-she.json](./241263-vona-she.json) |
+| Vonbit | 195360 | [195360-vonbit.json](./195360-vonbit.json) |
 | VonGarland Castle: Beyond Blood | 335216 | [335216-vongarland-castle-beyond-blood.json](./335216-vongarland-castle-beyond-blood.json) |
 | VonGarland Castle: Sacrilege of the Night | 264526 | [264526-vongarland-castle-sacrilege-of-the-night.json](./264526-vongarland-castle-sacrilege-of-the-night.json) |
 | VoodLoop | 364566 | [364566-voodloop.json](./364566-voodloop.json) |
@@ -3343,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Apocalypse | 30554 | [30554-vr-apocalypse.json](./30554-vr-apocalypse.json) |
 | VR Aquarium Miyabi | 29828 | [29828-vr-aquarium-miyabi.json](./29828-vr-aquarium-miyabi.json) |
 | VR Archeology: Secrets of Kulikovo Field | 226160 | [226160-vr-archeology-secrets-of-kulikovo-field.json](./226160-vr-archeology-secrets-of-kulikovo-field.json) |
+| VR Archery | 195384 | [195384-vr-archery.json](./195384-vr-archery.json) |
 | VR AstroSmash | 157533 | [157533-vr-astrosmash.json](./157533-vr-astrosmash.json) |
 | VR Async Balls | 186832 | [186832-vr-async-balls.json](./186832-vr-async-balls.json) |
 | VR Atlantis Search: with Deep Diving | 157008 | [157008-vr-atlantis-search-with-deep-diving.json](./157008-vr-atlantis-search-with-deep-diving.json) |
