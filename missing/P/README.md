@@ -8173,6 +8173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of Blood Thirsty Santa | 125261 | [125261-planet-of-blood-thirsty-santa.json](./125261-planet-of-blood-thirsty-santa.json) |
 | Planet of Carrots | 311254 | [311254-planet-of-carrots.json](./311254-planet-of-carrots.json) |
 | Planet of Cartmans 2 | 175902 | [175902-planet-of-cartmans-2.json](./175902-planet-of-cartmans-2.json) |
+| Planet of Cubes | 182056 | [182056-planet-of-cubes.json](./182056-planet-of-cubes.json) |
 | Planet of Cubes Survival Games | 88442 | [88442-planet-of-cubes-survival-games.json](./88442-planet-of-cubes-survival-games.json) |
 | Planet of Lana Collection | 393897 | [393897-planet-of-lana-collection.json](./393897-planet-of-lana-collection.json) |
 | Planet of Lana II: Children of the Leaf | 348200 | [348200-planet-of-lana-ii-children-of-the-leaf.json](./348200-planet-of-lana-ii-children-of-the-leaf.json) |
@@ -9313,6 +9314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket-Run Pool | 102094 | [102094-pocket-run-pool.json](./102094-pocket-run-pool.json) |
 | Pocketing the Ball | 294126 | [294126-pocketing-the-ball.json](./294126-pocketing-the-ball.json) |
 | Pocketman Teal | 181232 | [181232-pocketman-teal.json](./181232-pocketman-teal.json) |
+| Pocketman Third D | 182021 | [182021-pocketman-third-d.json](./182021-pocketman-third-d.json) |
 | Pocketon Peak | 181686 | [181686-pocketon-peak.json](./181686-pocketon-peak.json) |
 | PocketShooting | 216437 | [216437-pocketshooting.json](./216437-pocketshooting.json) |
 | PocketSports Football HD | 64684 | [64684-pocketsports-football-hd.json](./64684-pocketsports-football-hd.json) |
