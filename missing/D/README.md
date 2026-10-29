@@ -13387,6 +13387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Survival | 373180 | [373180-dragon-survival.json](./373180-dragon-survival.json) |
 | Dragon Survivors | 238430 | [238430-dragon-survivors.json](./238430-dragon-survivors.json) |
 | Dragon Swarm | 87240 | [87240-dragon-swarm.json](./87240-dragon-swarm.json) |
+| Dragon Sweeper | 182023 | [182023-dragon-sweeper.json](./182023-dragon-sweeper.json) |
 | Dragon Sword | 47739 | [47739-dragon-sword.json](./47739-dragon-sword.json) |
 | Dragon Syndicate | 363782 | [363782-dragon-syndicate.json](./363782-dragon-syndicate.json) |
 | Dragon Tale 4: The Raven Plot - Collector's Edition | 337221 | [337221-dragon-tale-4-the-raven-plot-collectors-edition.json](./337221-dragon-tale-4-the-raven-plot-collectors-edition.json) |
