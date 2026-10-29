@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Elastic Boy: Mission 1 | 85418 | [85418-tales-of-elastic-boy-mission-1.json](./85418-tales-of-elastic-boy-mission-1.json) |
 | Tales of Eldoria | 376003 | [376003-tales-of-eldoria.json](./376003-tales-of-eldoria.json) |
 | Tales of Elondria | 296996 | [296996-tales-of-elondria.json](./296996-tales-of-elondria.json) |
+| Tales of Enders | 183750 | [183750-tales-of-enders.json](./183750-tales-of-enders.json) |
 | Tales of Erin | 112244 | [112244-tales-of-erin.json](./112244-tales-of-erin.json) |
 | Tales of Escape | 29560 | [29560-tales-of-escape.json](./29560-tales-of-escape.json) |
 | Tales of Escape: Cold As Ice | 172119 | [172119-tales-of-escape-cold-as-ice.json](./172119-tales-of-escape-cold-as-ice.json) |
@@ -4106,6 +4107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrible Life Expectancy | 352386 | [352386-terrible-life-expectancy.json](./352386-terrible-life-expectancy.json) |
 | Terrible Teeth | 167156 | [167156-terrible-teeth.json](./167156-terrible-teeth.json) |
 | Terrierble Logic | 251008 | [251008-terrierble-logic.json](./251008-terrierble-logic.json) |
+| Terrific Tennis | 183736 | [183736-terrific-tennis.json](./183736-terrific-tennis.json) |
 | Terrifying 9/11 | 165146 | [165146-terrifying-9-11.json](./165146-terrifying-9-11.json) |
 | Territopple | 379666 | [379666-territopple.json](./379666-territopple.json) |
 | Territorial Conquest | 374101 | [374101-territorial-conquest.json](./374101-territorial-conquest.json) |
@@ -5160,6 +5162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amulet of Darath | 58864 | [58864-the-amulet-of-darath.json](./58864-the-amulet-of-darath.json) |
 | The Anacrusis: Deluxe Edition | 192304 | [192304-the-anacrusis-deluxe-edition.json](./192304-the-anacrusis-deluxe-edition.json) |
 | The Analyst | 211289 | [211289-the-analyst.json](./211289-the-analyst.json) |
+| The Anarchic Kingdom | 183705 | [183705-the-anarchic-kingdom.json](./183705-the-anarchic-kingdom.json) |
 | The Ancestral Trail | 204911 | [204911-the-ancestral-trail.json](./204911-the-ancestral-trail.json) |
 | The Anchorite | 325079 | [325079-the-anchorite.json](./325079-the-anchorite.json) |
 | The Ancient Art of Staying Alive | 134268 | [134268-the-ancient-art-of-staying-alive.json](./134268-the-ancient-art-of-staying-alive.json) |
@@ -16025,6 +16028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Train Giant | 10002 | [10002-the-train-giant.json](./10002-the-train-giant.json) |
 | The Train of Souls | 177772 | [177772-the-train-of-souls.json](./177772-the-train-of-souls.json) |
 | The Train Part 2 | 307376 | [307376-the-train-part-2.json](./307376-the-train-part-2.json) |
+| The Train to Thrinacia | 183740 | [183740-the-train-to-thrinacia.json](./183740-the-train-to-thrinacia.json) |
 | The Train: Escape to Normandy | 47183 | [47183-the-train-escape-to-normandy.json](./47183-the-train-escape-to-normandy.json) |
 | The Training Diary of a Novice Magician Shin | 82810 | [82810-the-training-diary-of-a-novice-magician-shin.json](./82810-the-training-diary-of-a-novice-magician-shin.json) |
 | The Tram | 413738 | [413738-the-tram.json](./413738-the-tram.json) |
@@ -26550,6 +26554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traum | 89421 | [89421-traum.json](./89421-traum.json) |
 | Trauma | 15124 | [15124-trauma.json](./15124-trauma.json) |
 | Trauma | 180787 | [180787-trauma.json](./180787-trauma.json) |
+| Trauma | 183739 | [183739-trauma.json](./183739-trauma.json) |
 | Trauma | 191124 | [191124-trauma.json](./191124-trauma.json) |
 | Trauma | 301607 | [301607-trauma.json](./301607-trauma.json) |
 | Trauma | 55014 | [55014-trauma.json](./55014-trauma.json) |
