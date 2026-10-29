@@ -845,7 +845,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6189,6 +6188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Shattered Isles | 126545 | [126545-beyond-shattered-isles.json](./126545-beyond-shattered-isles.json) |
 | Beyond Silence | 363964 | [363964-beyond-silence.json](./363964-beyond-silence.json) |
 | Beyond Skyrim | 19221 | [19221-beyond-skyrim.json](./19221-beyond-skyrim.json) |
+| Beyond Skyrim: Bruma | 210400 | [210400-beyond-skyrim-bruma.json](./210400-beyond-skyrim-bruma.json) |
 | Beyond SMBWii | 336104 | [336104-beyond-smbwii.json](./336104-beyond-smbwii.json) |
 | Beyond Solar | 172135 | [172135-beyond-solar.json](./172135-beyond-solar.json) |
 | Beyond Space Remastered | 108616 | [108616-beyond-space-remastered.json](./108616-beyond-space-remastered.json) |
@@ -7454,6 +7454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds of a Feather | 350569 | [350569-birds-of-a-feather.json](./350569-birds-of-a-feather.json) |
 | Birds of Ascent | 404222 | [404222-birds-of-ascent.json](./404222-birds-of-ascent.json) |
 | Birds of Impalatism | 422673 | [422673-birds-of-impalatism.json](./422673-birds-of-impalatism.json) |
+| Birds of Paradise | 210425 | [210425-birds-of-paradise.json](./210425-birds-of-paradise.json) |
 | Birds of Prey | 11962 | [11962-birds-of-prey.json](./11962-birds-of-prey.json) |
 | Birds of Prey | 15673 | [15673-birds-of-prey.json](./15673-birds-of-prey.json) |
 | Birds of Prey | 273239 | [273239-birds-of-prey.json](./273239-birds-of-prey.json) |
