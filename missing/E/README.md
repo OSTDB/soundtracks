@@ -4668,6 +4668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the escape-game | 102247 | [102247-escape-from-the-escape-game.json](./102247-escape-from-the-escape-game.json) |
 | Escape from the Facility | 290252 | [290252-escape-from-the-facility.json](./290252-escape-from-the-facility.json) |
 | Escape From the Grim | 129004 | [129004-escape-from-the-grim.json](./129004-escape-from-the-grim.json) |
+| Escape from the Haunted House | 202995 | [202995-escape-from-the-haunted-house.json](./202995-escape-from-the-haunted-house.json) |
 | Escape From the Hospital | 100742 | [100742-escape-from-the-hospital.json](./100742-escape-from-the-hospital.json) |
 | Escape From The Island | 283290 | [283290-escape-from-the-island.json](./283290-escape-from-the-island.json) |
 | Escape from the Lockdown: The Demon Fortress | 166061 | [166061-escape-from-the-lockdown-the-demon-fortress.json](./166061-escape-from-the-lockdown-the-demon-fortress.json) |
