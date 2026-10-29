@@ -5056,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serenity | 418862 | [418862-serenity.json](./418862-serenity.json) |
 | Serenity at Dusk | 179056 | [179056-serenity-at-dusk.json](./179056-serenity-at-dusk.json) |
 | Serenity Ov Ball | 185459 | [185459-serenity-ov-ball.json](./185459-serenity-ov-ball.json) |
+| Serenity VR | 182665 | [182665-serenity-vr.json](./182665-serenity-vr.json) |
 | Sereno | 368367 | [368367-sereno.json](./368367-sereno.json) |
 | Seres | 207382 | [207382-seres.json](./207382-seres.json) |
 | Seres Universalis: Three Kingdoms | 372109 | [372109-seres-universalis-three-kingdoms.json](./372109-seres-universalis-three-kingdoms.json) |
@@ -8264,6 +8265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Science | 365155 | [365155-shotgun-science.json](./365155-shotgun-science.json) |
 | Shotgun Shenanigans | 279691 | [279691-shotgun-shenanigans.json](./279691-shotgun-shenanigans.json) |
 | Shotgun Symphony | 144262 | [144262-shotgun-symphony.json](./144262-shotgun-symphony.json) |
+| Shotgun Wedding | 182655 | [182655-shotgun-wedding.json](./182655-shotgun-wedding.json) |
 | Shotgun Witch | 140451 | [140451-shotgun-witch.json](./140451-shotgun-witch.json) |
 | Shothop | 396417 | [396417-shothop.json](./396417-shothop.json) |
 | Shotrun | 414283 | [414283-shotrun.json](./414283-shotrun.json) |
@@ -19819,6 +19821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooble: A Search Engine Story | 177484 | [177484-spooble-a-search-engine-story.json](./177484-spooble-a-search-engine-story.json) |
 | Spoockey | 189071 | [189071-spoockey.json](./189071-spoockey.json) |
 | Spoofs Playland | 373552 | [373552-spoofs-playland.json](./373552-spoofs-playland.json) |
+| Spook and Thunder | 182672 | [182672-spook-and-thunder.json](./182672-spook-and-thunder.json) |
 | Spook Bowl | 249376 | [249376-spook-bowl.json](./249376-spook-bowl.json) |
 | Spook Game | 340178 | [340178-spook-game.json](./340178-spook-game.json) |
 | Spook House and Toxic Dumpsite | 69480 | [69480-spook-house-and-toxic-dumpsite.json](./69480-spook-house-and-toxic-dumpsite.json) |
@@ -22449,6 +22452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars Simulation | 31618 | [31618-stars-simulation.json](./31618-stars-simulation.json) |
 | Stars Slide | 153160 | [153160-stars-slide.json](./153160-stars-slide.json) |
 | Stars Survivor | 291481 | [291481-stars-survivor.json](./291481-stars-survivor.json) |
+| Stars Troopers | 182678 | [182678-stars-troopers.json](./182678-stars-troopers.json) |
 | Stars Wheel | 175747 | [175747-stars-wheel.json](./175747-stars-wheel.json) |
 | Stars Without Number | 99095 | [99095-stars-without-number.json](./99095-stars-without-number.json) |
 | Stars, Stripes and Subgames: Collector's Edition | 308494 | [308494-stars-stripes-and-subgames-collectors-edition.json](./308494-stars-stripes-and-subgames-collectors-edition.json) |
@@ -24463,6 +24467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Blasted Sky Glide | 143681 | [143681-strawberry-blasted-sky-glide.json](./143681-strawberry-blasted-sky-glide.json) |
 | Strawberry Chocolate | 367495 | [367495-strawberry-chocolate.json](./367495-strawberry-chocolate.json) |
 | Strawberry Chocolate: Miner 8AD 4SS | 162253 | [162253-strawberry-chocolate-miner-8ad-4ss.json](./162253-strawberry-chocolate-miner-8ad-4ss.json) |
+| Strawberry Daiquiri | 182641 | [182641-strawberry-daiquiri.json](./182641-strawberry-daiquiri.json) |
 | Strawberry Jam | 159175 | [159175-strawberry-jam.json](./159175-strawberry-jam.json) |
 | Strawberry Jumping Journey | 341409 | [341409-strawberry-jumping-journey.json](./341409-strawberry-jumping-journey.json) |
 | Strawberry Magic | 186032 | [186032-strawberry-magic.json](./186032-strawberry-magic.json) |
@@ -25502,6 +25507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Commander | 160306 | [160306-sub-commander.json](./160306-sub-commander.json) |
 | Sub Commander | 263472 | [263472-sub-commander.json](./263472-sub-commander.json) |
 | Sub Culture | 50135 | [50135-sub-culture.json](./50135-sub-culture.json) |
+| Sub Dragon | 182667 | [182667-sub-dragon.json](./182667-sub-dragon.json) |
 | Sub Duel | 97352 | [97352-sub-duel.json](./97352-sub-duel.json) |
 | Sub Four: The Uncle | 110146 | [110146-sub-four-the-uncle.json](./110146-sub-four-the-uncle.json) |
 | Sub Game | 316079 | [316079-sub-game.json](./316079-sub-game.json) |
