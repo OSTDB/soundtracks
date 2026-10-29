@@ -2818,6 +2818,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Sea: A Pirate's Pact | 113865 | [113865-7th-sea-a-pirates-pact.json](./113865-7th-sea-a-pirates-pact.json) |
 | 7th Sector | 115336 | [115336-7th-sector.json](./115336-7th-sector.json) |
 | 7th Sector: Museum | 172115 | [172115-7th-sector-museum.json](./172115-7th-sector-museum.json) |
+| 7th Serpent: Crossfire | 214930 | [214930-7th-serpent-crossfire.json](./214930-7th-serpent-crossfire.json) |
+| 7th Serpent: Genesis | 214932 | [214932-7th-serpent-genesis.json](./214932-7th-serpent-genesis.json) |
 | 7Worlds: The Dreaming Dale | 129012 | [129012-7worlds-the-dreaming-dale.json](./129012-7worlds-the-dreaming-dale.json) |
 | 7x7 | 98850 | [98850-7x7.json](./98850-7x7.json) |
 | 7Years | 311157 | [311157-7years.json](./311157-7years.json) |
