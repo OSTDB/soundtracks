@@ -15096,6 +15096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puffy Dog Puzzle | 379005 | [379005-puffy-dog-puzzle.json](./379005-puffy-dog-puzzle.json) |
 | Puffy no P.S. I Love You | 314219 | [314219-puffy-no-p-s-i-love-you.json](./314219-puffy-no-p-s-i-love-you.json) |
 | Puffy's Saga | 12725 | [12725-puffys-saga.json](./12725-puffys-saga.json) |
+| Pufu's Spiral: Adventures Around the World | 209861 | [209861-pufus-spiral-adventures-around-the-world.json](./209861-pufus-spiral-adventures-around-the-world.json) |
 | Pug and Seek | 341437 | [341437-pug-and-seek.json](./341437-pug-and-seek.json) |
 | Pug Hop Mole Bop | 254672 | [254672-pug-hop-mole-bop.json](./254672-pug-hop-mole-bop.json) |
 | Pug Rapids | 241812 | [241812-pug-rapids.json](./241812-pug-rapids.json) |
