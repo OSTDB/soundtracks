@@ -12301,6 +12301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pref Club | 80796 | [80796-pref-club.json](./80796-pref-club.json) |
 | Preface: Undiscovered World | 324577 | [324577-preface-undiscovered-world.json](./324577-preface-undiscovered-world.json) |
 | Pregnancy | 35722 | [35722-pregnancy.json](./35722-pregnancy.json) |
+| Pregnant | 192572 | [192572-pregnant.json](./192572-pregnant.json) |
 | Pregnant Mom Emergency Surgery | 99421 | [99421-pregnant-mom-emergency-surgery.json](./99421-pregnant-mom-emergency-surgery.json) |
 | Pregnant Mom Simulator 3d | 296749 | [296749-pregnant-mom-simulator-3d.json](./296749-pregnant-mom-simulator-3d.json) |
 | Pregnant Mom Virtual Family Neighbor Helper | 96001 | [96001-pregnant-mom-virtual-family-neighbor-helper.json](./96001-pregnant-mom-virtual-family-neighbor-helper.json) |
