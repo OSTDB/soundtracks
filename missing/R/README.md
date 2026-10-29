@@ -2803,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealmCraft | 86509 | [86509-realmcraft.json](./86509-realmcraft.json) |
 | Realmguard | 404341 | [404341-realmguard.json](./404341-realmguard.json) |
 | Realms | 12741 | [12741-realms.json](./12741-realms.json) |
+| Realms | 203606 | [203606-realms.json](./203606-realms.json) |
 | Realms at War | 387046 | [387046-realms-at-war.json](./387046-realms-at-war.json) |
 | Realms Beyond: Ashes of the Fallen | 112086 | [112086-realms-beyond-ashes-of-the-fallen.json](./112086-realms-beyond-ashes-of-the-fallen.json) |
 | Realms Edge | 368568 | [368568-realms-edge.json](./368568-realms-edge.json) |
@@ -11278,6 +11279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Gangsta in Hell | 99063 | [99063-russian-gangsta-in-hell.json](./99063-russian-gangsta-in-hell.json) |
 | Russian Hentai 3 | 155461 | [155461-russian-hentai-3.json](./155461-russian-hentai-3.json) |
 | Russian Horror Story | 34761 | [34761-russian-horror-story.json](./34761-russian-horror-story.json) |
+| Russian Hunter | 203596 | [203596-russian-hunter.json](./203596-russian-hunter.json) |
 | Russian Life Simulator | 118022 | [118022-russian-life-simulator.json](./118022-russian-life-simulator.json) |
 | Russian Love Story | 104552 | [104552-russian-love-story.json](./104552-russian-love-story.json) |
 | Russian Mailman Simulator | 157496 | [157496-russian-mailman-simulator.json](./157496-russian-mailman-simulator.json) |
