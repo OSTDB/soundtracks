@@ -4808,6 +4808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Academy of the Cosmic Realm | 385421 | [385421-the-academy-of-the-cosmic-realm.json](./385421-the-academy-of-the-cosmic-realm.json) |
 | The Academy: Love Potions | 112282 | [112282-the-academy-love-potions.json](./112282-the-academy-love-potions.json) |
 | The Accursed Crown | 213221 | [213221-the-accursed-crown.json](./213221-the-accursed-crown.json) |
+| The Accursed Crown of the Giant King | 207077 | [207077-the-accursed-crown-of-the-giant-king.json](./207077-the-accursed-crown-of-the-giant-king.json) |
 | The Accursed Crown of the Giant King: Chapter 2 - The Duchy of Despair | 207774 | [207774-the-accursed-crown-of-the-giant-king-chapter-2-the-duchy-of-despair.json](./207774-the-accursed-crown-of-the-giant-king-chapter-2-the-duchy-of-despair.json) |
 | The Accursed Crown of the Giant King: Chapter 3 - Citadel on the Wilderlands | 207775 | [207775-the-accursed-crown-of-the-giant-king-chapter-3-citadel-on-the-wilderlands.json](./207775-the-accursed-crown-of-the-giant-king-chapter-3-citadel-on-the-wilderlands.json) |
 | The Accursed Crown of the Giant King: Chapter 4 - The Fallen Giant Kingdom | 207776 | [207776-the-accursed-crown-of-the-giant-king-chapter-4-the-fallen-giant-kingdom.json](./207776-the-accursed-crown-of-the-giant-king-chapter-4-the-fallen-giant-kingdom.json) |
@@ -10100,6 +10101,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Quesadilla: Turbo | 225755 | [225755-the-jumping-quesadilla-turbo.json](./225755-the-jumping-quesadilla-turbo.json) |
 | The Jumping Salad | 230302 | [230302-the-jumping-salad.json](./230302-the-jumping-salad.json) |
 | The Jumping Salad: Turbo | 230304 | [230304-the-jumping-salad-turbo.json](./230304-the-jumping-salad-turbo.json) |
+| The Jumping Sandwich | 207106 | [207106-the-jumping-sandwich.json](./207106-the-jumping-sandwich.json) |
+| The Jumping Sandwich: Turbo | 207111 | [207111-the-jumping-sandwich-turbo.json](./207111-the-jumping-sandwich-turbo.json) |
 | The Jumping Shaped Fries | 356514 | [356514-the-jumping-shaped-fries.json](./356514-the-jumping-shaped-fries.json) |
 | The Jumping Soda | 205078 | [205078-the-jumping-soda.json](./205078-the-jumping-soda.json) |
 | The Jumping Soda: Turbo | 205079 | [205079-the-jumping-soda-turbo.json](./205079-the-jumping-soda-turbo.json) |
@@ -10409,6 +10412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land Before Time Animated MovieBook | 329643 | [329643-the-land-before-time-animated-moviebook.json](./329643-the-land-before-time-animated-moviebook.json) |
 | The Land Before Time: Activity Center | 229378 | [229378-the-land-before-time-activity-center.json](./229378-the-land-before-time-activity-center.json) |
 | The Land Before Time: Big Water Adventure | 45068 | [45068-the-land-before-time-big-water-adventure.json](./45068-the-land-before-time-big-water-adventure.json) |
+| The Land Before Time: Dinosaur Arcade | 206996 | [206996-the-land-before-time-dinosaur-arcade.json](./206996-the-land-before-time-dinosaur-arcade.json) |
 | The Land Before Time: Great Valley Racing Adventure | 45069 | [45069-the-land-before-time-great-valley-racing-adventure.json](./45069-the-land-before-time-great-valley-racing-adventure.json) |
 | The Land Before Time: Into the Mysterious Beyond | 49332 | [49332-the-land-before-time-into-the-mysterious-beyond.json](./49332-the-land-before-time-into-the-mysterious-beyond.json) |
 | The Land Before Time: Math Adventure | 329646 | [329646-the-land-before-time-math-adventure.json](./329646-the-land-before-time-math-adventure.json) |
@@ -11484,6 +11488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Uni | 330731 | [330731-the-little-uni.json](./330731-the-little-uni.json) |
 | The little vampir | 91093 | [91093-the-little-vampir.json](./91093-the-little-vampir.json) |
 | The Little Witch Shop: New in Town | 240794 | [240794-the-little-witch-shop-new-in-town.json](./240794-the-little-witch-shop-new-in-town.json) |
+| The Little Wizard | 206999 | [206999-the-little-wizard.json](./206999-the-little-wizard.json) |
 | The Little World | 333337 | [333337-the-little-world.json](./333337-the-little-world.json) |
 | The Living Dungeon | 21316 | [21316-the-living-dungeon.json](./21316-the-living-dungeon.json) |
 | The Living End & Elder World Waystation | 271480 | [271480-the-living-end-and-elder-world-waystation.json](./271480-the-living-end-and-elder-world-waystation.json) |
@@ -11584,6 +11589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: Kingdoms of Harad | 380534 | [380534-the-lord-of-the-rings-online-kingdoms-of-harad.json](./380534-the-lord-of-the-rings-online-kingdoms-of-harad.json) |
 | The Lord of the Rings Online: Legacy of Morgoth | 376581 | [376581-the-lord-of-the-rings-online-legacy-of-morgoth.json](./376581-the-lord-of-the-rings-online-legacy-of-morgoth.json) |
 | The Lord of the Rings Online: Minas Morgul | 275924 | [275924-the-lord-of-the-rings-online-minas-morgul.json](./275924-the-lord-of-the-rings-online-minas-morgul.json) |
+| The Lord of the Rings Online: Mithril Edition | 207000 | [207000-the-lord-of-the-rings-online-mithril-edition.json](./207000-the-lord-of-the-rings-online-mithril-edition.json) |
 | The Lord of the Rings Online: Mordor | 46778 | [46778-the-lord-of-the-rings-online-mordor.json](./46778-the-lord-of-the-rings-online-mordor.json) |
 | The Lord of the Rings Online: Quad Pack | 169321 | [169321-the-lord-of-the-rings-online-quad-pack.json](./169321-the-lord-of-the-rings-online-quad-pack.json) |
 | The Lord of the Rings Online: Quest Pack: Legacy of the Necromancer | 384536 | [384536-the-lord-of-the-rings-online-quest-pack-legacy-of-the-necromancer.json](./384536-the-lord-of-the-rings-online-quest-pack-legacy-of-the-necromancer.json) |
@@ -13578,6 +13584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Real Texas: Cellpop Goes Out At Night | 51923 | [51923-the-real-texas-cellpop-goes-out-at-night.json](./51923-the-real-texas-cellpop-goes-out-at-night.json) |
 | The Real Texas: Dusty Skies Edition | 51922 | [51922-the-real-texas-dusty-skies-edition.json](./51922-the-real-texas-dusty-skies-edition.json) |
 | The Real World | 218651 | [218651-the-real-world.json](./218651-the-real-world.json) |
+| The Realm | 207001 | [207001-the-realm.json](./207001-the-realm.json) |
 | The Realm | 292558 | [292558-the-realm.json](./292558-the-realm.json) |
 | The Realm of Insight Compass | 253513 | [253513-the-realm-of-insight-compass.json](./253513-the-realm-of-insight-compass.json) |
 | The Realm of Keren: Exploratio | 174691 | [174691-the-realm-of-keren-exploratio.json](./174691-the-realm-of-keren-exploratio.json) |
@@ -16120,6 +16127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Underground Man 2 | 215732 | [215732-the-underground-man-2.json](./215732-the-underground-man-2.json) |
 | The Undergrounders | 339847 | [339847-the-undergrounders.json](./339847-the-undergrounders.json) |
 | The Undermall | 394454 | [394454-the-undermall.json](./394454-the-undermall.json) |
+| The Unders_core | 207085 | [207085-the-unders-core.json](./207085-the-unders-core.json) |
 | The Undersea | 273819 | [273819-the-undersea.json](./273819-the-undersea.json) |
 | The Underside | 242468 | [242468-the-underside.json](./242468-the-underside.json) |
 | The Undertaking | 225837 | [225837-the-undertaking.json](./225837-the-undertaking.json) |
@@ -22554,6 +22562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topatoi: Spinning Through the Worlds | 52981 | [52981-topatoi-spinning-through-the-worlds.json](./52981-topatoi-spinning-through-the-worlds.json) |
 | TopDownFarter | 384003 | [384003-topdownfarter.json](./384003-topdownfarter.json) |
 | Topgolf with Pro Putt | 143067 | [143067-topgolf-with-pro-putt.json](./143067-topgolf-with-pro-putt.json) |
+| Tophat Quest | 207104 | [207104-tophat-quest.json](./207104-tophat-quest.json) |
 | Tophet | 336508 | [336508-tophet.json](./336508-tophet.json) |
 | Topia World Builder | 87876 | [87876-topia-world-builder.json](./87876-topia-world-builder.json) |
 | Topic Twister | 254162 | [254162-topic-twister.json](./254162-topic-twister.json) |
