@@ -12518,6 +12518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretend You're Xyzzy | 306207 | [306207-pretend-youre-xyzzy.json](./306207-pretend-youre-xyzzy.json) |
 | Pretentious Game | 10719 | [10719-pretentious-game.json](./10719-pretentious-game.json) |
 | Preternatural Candy Shop | 179417 | [179417-preternatural-candy-shop.json](./179417-preternatural-candy-shop.json) |
+| Pretinders | 184705 | [184705-pretinders.json](./184705-pretinders.json) |
 | Pretty Agent | 311561 | [311561-pretty-agent.json](./311561-pretty-agent.json) |
 | Pretty Angel | 127092 | [127092-pretty-angel.json](./127092-pretty-angel.json) |
 | Pretty Ballerina Dancer | 87015 | [87015-pretty-ballerina-dancer.json](./87015-pretty-ballerina-dancer.json) |
