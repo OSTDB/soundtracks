@@ -6164,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rico London | 143454 | [143454-rico-london.json](./143454-rico-london.json) |
 | Rico: A Tale of Two Brothers | 125184 | [125184-rico-a-tale-of-two-brothers.json](./125184-rico-a-tale-of-two-brothers.json) |
 | Rico: Breakout | 171328 | [171328-rico-breakout.json](./171328-rico-breakout.json) |
+| Rico: Breakout Bundle | 225950 | [225950-rico-breakout-bundle.json](./225950-rico-breakout-bundle.json) |
 | Ricochet | 209166 | [209166-ricochet.json](./209166-ricochet.json) |
 | Ricochet | 282445 | [282445-ricochet.json](./282445-ricochet.json) |
 | Ricochet | 368008 | [368008-ricochet.json](./368008-ricochet.json) |
@@ -8347,6 +8348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketfella | 58660 | [58660-rocketfella.json](./58660-rocketfella.json) |
 | RocketGirl | 76709 | [76709-rocketgirl.json](./76709-rocketgirl.json) |
 | Rocketing | 142223 | [142223-rocketing.json](./142223-rocketing.json) |
+| Rocketio 2 | 225962 | [225962-rocketio-2.json](./225962-rocketio-2.json) |
 | Rocketio 3 | 228925 | [228925-rocketio-3.json](./228925-rocketio-3.json) |
 | Rocketman | 261663 | [261663-rocketman.json](./261663-rocketman.json) |
 | Rocketman | 287548 | [287548-rocketman.json](./287548-rocketman.json) |
