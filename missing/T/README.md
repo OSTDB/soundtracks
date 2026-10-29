@@ -5282,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arys Expedition: Special Edition | 53714 | [53714-the-arys-expedition-special-edition.json](./53714-the-arys-expedition-special-edition.json) |
 | The Asafo Journey | 220672 | [220672-the-asafo-journey.json](./220672-the-asafo-journey.json) |
 | The Ascent of the Gothic Tower | 228967 | [228967-the-ascent-of-the-gothic-tower.json](./228967-the-ascent-of-the-gothic-tower.json) |
+| The Ascent: Cyber Heist | 213148 | [213148-the-ascent-cyber-heist.json](./213148-the-ascent-cyber-heist.json) |
 | The Ascent: CyberSec Pack | 276306 | [276306-the-ascent-cybersec-pack.json](./276306-the-ascent-cybersec-pack.json) |
 | The Ascot | 298061 | [298061-the-ascot.json](./298061-the-ascot.json) |
 | The Asfrixa | 192822 | [192822-the-asfrixa.json](./192822-the-asfrixa.json) |
@@ -23272,6 +23273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Infinite Nocturne | 342052 | [342052-touhou-infinite-nocturne.json](./342052-touhou-infinite-nocturne.json) |
 | Touhou Iyuushou: What the Bullet Hell?! | 351102 | [351102-touhou-iyuushou-what-the-bullet-hell.json](./351102-touhou-iyuushou-what-the-bullet-hell.json) |
 | Touhou Jaseishou: The Last Comer | 246672 | [246672-touhou-jaseishou-the-last-comer.json](./246672-touhou-jaseishou-the-last-comer.json) |
+| Touhou JRPG | 213172 | [213172-touhou-jrpg.json](./213172-touhou-jrpg.json) |
 | Touhou Kaeizuka: Phantasmagoria of Flower View | 27156 | [27156-touhou-kaeizuka-phantasmagoria-of-flower-view.json](./27156-touhou-kaeizuka-phantasmagoria-of-flower-view.json) |
 | Touhou Kaikeidou: Marine Benefit | 280171 | [280171-touhou-kaikeidou-marine-benefit.json](./280171-touhou-kaikeidou-marine-benefit.json) |
 | Touhou Kaisekiki: Arabasiri | 269930 | [269930-touhou-kaisekiki-arabasiri.json](./269930-touhou-kaisekiki-arabasiri.json) |
