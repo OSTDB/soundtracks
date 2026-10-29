@@ -2996,6 +2996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Information Superhighway | 104250 | [104250-welcome-to-the-information-superhighway.json](./104250-welcome-to-the-information-superhighway.json) |
 | Welcome to the Karoshi Club | 280364 | [280364-welcome-to-the-karoshi-club.json](./280364-welcome-to-the-karoshi-club.json) |
 | Welcome to the Kawai | 97837 | [97837-welcome-to-the-kawai.json](./97837-welcome-to-the-kawai.json) |
+| Welcome to the Mansion Remastered | 181540 | [181540-welcome-to-the-mansion-remastered.json](./181540-welcome-to-the-mansion-remastered.json) |
 | Welcome to the Polyverse | 150518 | [150518-welcome-to-the-polyverse.json](./150518-welcome-to-the-polyverse.json) |
 | Welcome to the Ungdung Cafe | 337046 | [337046-welcome-to-the-ungdung-cafe.json](./337046-welcome-to-the-ungdung-cafe.json) |
 | Welcome to the World of Zippy the Circle: Visual Novel | 228764 | [228764-welcome-to-the-world-of-zippy-the-circle-visual-novel.json](./228764-welcome-to-the-world-of-zippy-the-circle-visual-novel.json) |
@@ -5816,6 +5817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With the Last Moonbeam | 247121 | [247121-with-the-last-moonbeam.json](./247121-with-the-last-moonbeam.json) |
 | With You | 188710 | [188710-with-you.json](./188710-with-you.json) |
 | With You: Mitsumete Itai | 37347 | [37347-with-you-mitsumete-itai.json](./37347-with-you-mitsumete-itai.json) |
+| With Your Mom's Tits | 181487 | [181487-with-your-moms-tits.json](./181487-with-your-moms-tits.json) |
 | Wither | 376822 | [376822-wither.json](./376822-wither.json) |
 | Witherbloom | 291447 | [291447-witherbloom.json](./291447-witherbloom.json) |
 | Withered Haven | 390820 | [390820-withered-haven.json](./390820-withered-haven.json) |
@@ -6027,6 +6029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry: Inochi no Kusabi | 85870 | [85870-wizardry-inochi-no-kusabi.json](./85870-wizardry-inochi-no-kusabi.json) |
 | Wizardry: Knight of Diamonds - The Second Scenario | 2865 | [2865-wizardry-knight-of-diamonds-the-second-scenario.json](./2865-wizardry-knight-of-diamonds-the-second-scenario.json) |
 | Wizardry: Labyrinth of Lost Souls | 21083 | [21083-wizardry-labyrinth-of-lost-souls.json](./21083-wizardry-labyrinth-of-lost-souls.json) |
+| Wizardry: New Age of Llylgamyn | 181493 | [181493-wizardry-new-age-of-llylgamyn.json](./181493-wizardry-new-age-of-llylgamyn.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 370644 | [370644-wizardry-proving-grounds-of-the-mad-overlord.json](./370644-wizardry-proving-grounds-of-the-mad-overlord.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 370647 | [370647-wizardry-proving-grounds-of-the-mad-overlord.json](./370647-wizardry-proving-grounds-of-the-mad-overlord.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 370743 | [370743-wizardry-proving-grounds-of-the-mad-overlord.json](./370743-wizardry-proving-grounds-of-the-mad-overlord.json) |
