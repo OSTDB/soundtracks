@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero 4 Champ | 37648 | [37648-zero-4-champ.json](./37648-zero-4-champ.json) |
 | Zero 5 | 40818 | [40818-zero-5.json](./40818-zero-5.json) |
 | Zero Caliber: Reloaded | 174559 | [174559-zero-caliber-reloaded.json](./174559-zero-caliber-reloaded.json) |
+| Zero Chastity: A Sultry Summer Holiday | 192566 | [192566-zero-chastity-a-sultry-summer-holiday.json](./192566-zero-chastity-a-sultry-summer-holiday.json) |
 | Zero City: Try to Survive | 140935 | [140935-zero-city-try-to-survive.json](./140935-zero-city-try-to-survive.json) |
 | Zero Comico | 185970 | [185970-zero-comico.json](./185970-zero-comico.json) |
 | Zero Conflict TD | 271276 | [271276-zero-conflict-td.json](./271276-zero-conflict-td.json) |
