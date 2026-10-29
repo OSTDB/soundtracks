@@ -148,6 +148,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.W.I.N.E. | 51224 | [51224-s-w-i-n-e.json](./51224-s-w-i-n-e.json) |
 | S.X.E. Slider | 298247 | [298247-s-x-e-slider.json](./298247-s-x-e-slider.json) |
 | S.X.E. Slider: Dungeons | 311617 | [311617-s-x-e-slider-dungeons.json](./311617-s-x-e-slider-dungeons.json) |
+| S.Y.K: Renshouden | 203048 | [203048-s-y-k-renshouden.json](./203048-s-y-k-renshouden.json) |
+| S.Y.K: Renshouden Portable | 203049 | [203049-s-y-k-renshouden-portable.json](./203049-s-y-k-renshouden-portable.json) |
+| S.Y.K: Shinsetsu Saiyuuki | 202994 | [202994-s-y-k-shinsetsu-saiyuuki.json](./202994-s-y-k-shinsetsu-saiyuuki.json) |
+| S.Y.K: Shinsetsu Saiyuuki Portable | 203020 | [203020-s-y-k-shinsetsu-saiyuuki-portable.json](./203020-s-y-k-shinsetsu-saiyuuki-portable.json) |
 | S'More Words | 421371 | [421371-smore-words.json](./421371-smore-words.json) |
 | S&box | 142355 | [142355-s-and-box.json](./142355-s-and-box.json) |
 | S&M: FL | 214373 | [214373-s-and-m-fl.json](./214373-s-and-m-fl.json) |
@@ -1146,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Jack: Cavern Raid | 338745 | [338745-samurai-jack-cavern-raid.json](./338745-samurai-jack-cavern-raid.json) |
 | Samurai Jack: Code of the Samurai | 327029 | [327029-samurai-jack-code-of-the-samurai.json](./327029-samurai-jack-code-of-the-samurai.json) |
 | Samurai Jack: Desert Quest | 338746 | [338746-samurai-jack-desert-quest.json](./338746-samurai-jack-desert-quest.json) |
+| Samurai Jack: Rave Slaves | 203060 | [203060-samurai-jack-rave-slaves.json](./203060-samurai-jack-rave-slaves.json) |
 | Samurai Jack: The Amulet of Time | 2822 | [2822-samurai-jack-the-amulet-of-time.json](./2822-samurai-jack-the-amulet-of-time.json) |
 | Samurai Jack: The Shadow of Aku | 2823 | [2823-samurai-jack-the-shadow-of-aku.json](./2823-samurai-jack-the-shadow-of-aku.json) |
 | Samurai Jack: Way of the Warrior | 338747 | [338747-samurai-jack-way-of-the-warrior.json](./338747-samurai-jack-way-of-the-warrior.json) |
@@ -9500,6 +9505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Hello Kitty Vol. 02: Hello Kitty Illust Puzzle | 64658 | [64658-simple-1500-series-hello-kitty-vol-02-hello-kitty-illust-puzzle.json](./64658-simple-1500-series-hello-kitty-vol-02-hello-kitty-illust-puzzle.json) |
 | Simple 1500 Series Hello Kitty Vol. 03: Hello Kitty Block Kuzushi | 64652 | [64652-simple-1500-series-hello-kitty-vol-03-hello-kitty-block-kuzushi.json](./64652-simple-1500-series-hello-kitty-vol-03-hello-kitty-block-kuzushi.json) |
 | Simple 1500 Series Hello Kitty Vol. 04: Trump | 64650 | [64650-simple-1500-series-hello-kitty-vol-04-trump.json](./64650-simple-1500-series-hello-kitty-vol-04-trump.json) |
+| Simple 1500 Series Vol. 1: The Mahjong | 202996 | [202996-simple-1500-series-vol-1-the-mahjong.json](./202996-simple-1500-series-vol-1-the-mahjong.json) |
 | Simple 1500 Series Vol. 100: The Uchuu Hikoushi | 203128 | [203128-simple-1500-series-vol-100-the-uchuu-hikoushi.json](./203128-simple-1500-series-vol-100-the-uchuu-hikoushi.json) |
 | Simple 1500 Series Vol. 101: The Sentou | 151843 | [151843-simple-1500-series-vol-101-the-sentou.json](./151843-simple-1500-series-vol-101-the-sentou.json) |
 | Simple 1500 Series Vol. 103: The Ganso Densha Utenshi - Densha De Go! | 203129 | [203129-simple-1500-series-vol-103-the-ganso-densha-utenshi-densha-de-go.json](./203129-simple-1500-series-vol-103-the-ganso-densha-utenshi-densha-de-go.json) |
@@ -9508,12 +9514,41 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 15: The Pachinko | 209498 | [209498-simple-1500-series-vol-15-the-pachinko.json](./209498-simple-1500-series-vol-15-the-pachinko.json) |
 | Simple 1500 Series Vol. 16: The Pachislot | 209499 | [209499-simple-1500-series-vol-16-the-pachislot.json](./209499-simple-1500-series-vol-16-the-pachislot.json) |
 | Simple 1500 Series Vol. 17: The Bike Race | 59052 | [59052-simple-1500-series-vol-17-the-bike-race.json](./59052-simple-1500-series-vol-17-the-bike-race.json) |
+| Simple 1500 Series Vol. 19: The Sugoroku | 203006 | [203006-simple-1500-series-vol-19-the-sugoroku.json](./203006-simple-1500-series-vol-19-the-sugoroku.json) |
 | Simple 1500 Series Vol. 2: The Shogi | 70571 | [70571-simple-1500-series-vol-2-the-shogi.json](./70571-simple-1500-series-vol-2-the-shogi.json) |
+| Simple 1500 Series Vol. 21: The Yakyuu - Pro Yakyuu Jitsumeiban | 203008 | [203008-simple-1500-series-vol-21-the-yakyuu-pro-yakyuu-jitsumeiban.json](./203008-simple-1500-series-vol-21-the-yakyuu-pro-yakyuu-jitsumeiban.json) |
 | Simple 1500 Series Vol. 22: The Pro Wrestling | 45221 | [45221-simple-1500-series-vol-22-the-pro-wrestling.json](./45221-simple-1500-series-vol-22-the-pro-wrestling.json) |
+| Simple 1500 Series Vol. 23: The Gateball | 203009 | [203009-simple-1500-series-vol-23-the-gateball.json](./203009-simple-1500-series-vol-23-the-gateball.json) |
+| Simple 1500 Series Vol. 24: The Gun Shooting | 203010 | [203010-simple-1500-series-vol-24-the-gun-shooting.json](./203010-simple-1500-series-vol-24-the-gun-shooting.json) |
+| Simple 1500 Series Vol. 25: The Keiba | 203011 | [203011-simple-1500-series-vol-25-the-keiba.json](./203011-simple-1500-series-vol-25-the-keiba.json) |
+| Simple 1500 Series Vol. 28: The Dungeon RPG | 203013 | [203013-simple-1500-series-vol-28-the-dungeon-rpg.json](./203013-simple-1500-series-vol-28-the-dungeon-rpg.json) |
+| Simple 1500 Series Vol. 29: The Tsuri | 203014 | [203014-simple-1500-series-vol-29-the-tsuri.json](./203014-simple-1500-series-vol-29-the-tsuri.json) |
+| Simple 1500 Series Vol. 33: The Takkyuu | 203017 | [203017-simple-1500-series-vol-33-the-takkyuu.json](./203017-simple-1500-series-vol-33-the-takkyuu.json) |
+| Simple 1500 Series Vol. 34: The Quiz Bangumi | 203018 | [203018-simple-1500-series-vol-34-the-quiz-bangumi.json](./203018-simple-1500-series-vol-34-the-quiz-bangumi.json) |
+| Simple 1500 Series Vol. 36: The Renai Simulation - Natsu-iro Celebration | 203021 | [203021-simple-1500-series-vol-36-the-renai-simulation-natsu-iro-celebration.json](./203021-simple-1500-series-vol-36-the-renai-simulation-natsu-iro-celebration.json) |
+| Simple 1500 Series Vol. 37: The Illust Puzzle & Slide Puzzle | 203023 | [203023-simple-1500-series-vol-37-the-illust-puzzle-and-slide-puzzle.json](./203023-simple-1500-series-vol-37-the-illust-puzzle-and-slide-puzzle.json) |
+| Simple 1500 Series Vol. 38: The Real Racing Toyota | 203024 | [203024-simple-1500-series-vol-38-the-real-racing-toyota.json](./203024-simple-1500-series-vol-38-the-real-racing-toyota.json) |
+| Simple 1500 Series Vol. 39: The Mahjong 2 | 203025 | [203025-simple-1500-series-vol-39-the-mahjong-2.json](./203025-simple-1500-series-vol-39-the-mahjong-2.json) |
+| Simple 1500 Series Vol. 4: The Reversi | 202997 | [202997-simple-1500-series-vol-4-the-reversi.json](./202997-simple-1500-series-vol-4-the-reversi.json) |
+| Simple 1500 Series Vol. 40: The Shogi 2 | 203027 | [203027-simple-1500-series-vol-40-the-shogi-2.json](./203027-simple-1500-series-vol-40-the-shogi-2.json) |
+| Simple 1500 Series Vol. 41: The Reversi 2 | 203028 | [203028-simple-1500-series-vol-41-the-reversi-2.json](./203028-simple-1500-series-vol-41-the-reversi-2.json) |
 | Simple 1500 Series Vol. 42: The Igo 2 | 82129 | [82129-simple-1500-series-vol-42-the-igo-2.json](./82129-simple-1500-series-vol-42-the-igo-2.json) |
+| Simple 1500 Series Vol. 43: The Hanafuda 2 | 203029 | [203029-simple-1500-series-vol-43-the-hanafuda-2.json](./203029-simple-1500-series-vol-43-the-hanafuda-2.json) |
+| Simple 1500 Series Vol. 45: The Block Kuzushi 2 | 203030 | [203030-simple-1500-series-vol-45-the-block-kuzushi-2.json](./203030-simple-1500-series-vol-45-the-block-kuzushi-2.json) |
+| Simple 1500 Series Vol. 46: The Mahjong Ochige - Raku Jongg | 203031 | [203031-simple-1500-series-vol-46-the-mahjong-ochige-raku-jongg.json](./203031-simple-1500-series-vol-46-the-mahjong-ochige-raku-jongg.json) |
+| Simple 1500 Series Vol. 49: The Casino | 203033 | [203033-simple-1500-series-vol-49-the-casino.json](./203033-simple-1500-series-vol-49-the-casino.json) |
+| Simple 1500 Series Vol. 50: The Billiards 2 | 203034 | [203034-simple-1500-series-vol-50-the-billiards-2.json](./203034-simple-1500-series-vol-50-the-billiards-2.json) |
+| Simple 1500 Series Vol. 51: The Jigsaw Puzzle | 203035 | [203035-simple-1500-series-vol-51-the-jigsaw-puzzle.json](./203035-simple-1500-series-vol-51-the-jigsaw-puzzle.json) |
 | Simple 1500 Series Vol. 52: The Pro Wrestling 2 | 44754 | [44754-simple-1500-series-vol-52-the-pro-wrestling-2.json](./44754-simple-1500-series-vol-52-the-pro-wrestling-2.json) |
+| Simple 1500 Series Vol. 54: The VolleyBall - Break Volley Plus | 203037 | [203037-simple-1500-series-vol-54-the-volleyball-break-volley-plus.json](./203037-simple-1500-series-vol-54-the-volleyball-break-volley-plus.json) |
+| Simple 1500 Series Vol. 55: The Darts | 203039 | [203039-simple-1500-series-vol-55-the-darts.json](./203039-simple-1500-series-vol-55-the-darts.json) |
 | Simple 1500 Series Vol. 56: The Sniper | 57130 | [57130-simple-1500-series-vol-56-the-sniper.json](./57130-simple-1500-series-vol-56-the-sniper.json) |
+| Simple 1500 Series Vol. 57: The Meiro | 203040 | [203040-simple-1500-series-vol-57-the-meiro.json](./203040-simple-1500-series-vol-57-the-meiro.json) |
 | Simple 1500 Series Vol. 58: The Sumo | 124665 | [124665-simple-1500-series-vol-58-the-sumo.json](./124665-simple-1500-series-vol-58-the-sumo.json) |
+| Simple 1500 Series Vol. 60: The Table Hockey | 203054 | [203054-simple-1500-series-vol-60-the-table-hockey.json](./203054-simple-1500-series-vol-60-the-table-hockey.json) |
+| Simple 1500 Series Vol. 61: The Quiz 2 | 203055 | [203055-simple-1500-series-vol-61-the-quiz-2.json](./203055-simple-1500-series-vol-61-the-quiz-2.json) |
+| Simple 1500 Series Vol. 62: The Ski | 203056 | [203056-simple-1500-series-vol-62-the-ski.json](./203056-simple-1500-series-vol-62-the-ski.json) |
+| Simple 1500 Series Vol. 63: The Gun Shooting 2 | 203057 | [203057-simple-1500-series-vol-63-the-gun-shooting-2.json](./203057-simple-1500-series-vol-63-the-gun-shooting-2.json) |
 | Simple 1500 Series Vol. 65: The Golf | 130774 | [130774-simple-1500-series-vol-65-the-golf.json](./130774-simple-1500-series-vol-65-the-golf.json) |
 | Simple 1500 Series Vol. 66: The Kaiten - Mawasun Da!! | 203064 | [203064-simple-1500-series-vol-66-the-kaiten-mawasun-da.json](./203064-simple-1500-series-vol-66-the-kaiten-mawasun-da.json) |
 | Simple 1500 Series Vol. 7: The Card | 66013 | [66013-simple-1500-series-vol-7-the-card.json](./66013-simple-1500-series-vol-7-the-card.json) |
