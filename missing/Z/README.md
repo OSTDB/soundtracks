@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zima | 346624 | [346624-zima.json](./346624-zima.json) |
 | Zima uhodi! | 96871 | [96871-zima-uhodi.json](./96871-zima-uhodi.json) |
 | Zimbo | 96517 | [96517-zimbo.json](./96517-zimbo.json) |
+| Zimmer | 214907 | [214907-zimmer.json](./214907-zimmer.json) |
 | Zimo: Mahjong Fanatic | 84932 | [84932-zimo-mahjong-fanatic.json](./84932-zimo-mahjong-fanatic.json) |
 | Zin & Zan | 380194 | [380194-zin-and-zan.json](./380194-zin-and-zan.json) |
 | Zine Fair Lady | 176956 | [176956-zine-fair-lady.json](./176956-zine-fair-lady.json) |
