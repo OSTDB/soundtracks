@@ -5471,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firework Simulator | 234281 | [234281-firework-simulator.json](./234281-firework-simulator.json) |
 | Firework Survivor | 283843 | [283843-firework-survivor.json](./283843-firework-survivor.json) |
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
+| Fireworks | 216066 | [216066-fireworks.json](./216066-fireworks.json) |
 | Fireworks | 78085 | [78085-fireworks.json](./78085-fireworks.json) |
 | Fireworks Extravaganza | 57611 | [57611-fireworks-extravaganza.json](./57611-fireworks-extravaganza.json) |
 | Fireworks Mania | 126512 | [126512-fireworks-mania.json](./126512-fireworks-mania.json) |
@@ -12267,6 +12268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Shock | 13718 | [13718-future-shock.json](./13718-future-shock.json) |
 | Future Simulation World | 123937 | [123937-future-simulation-world.json](./123937-future-simulation-world.json) |
 | Future Snooker | 126386 | [126386-future-snooker.json](./126386-future-snooker.json) |
+| Future Soccer Battle | 216038 | [216038-future-soccer-battle.json](./216038-future-soccer-battle.json) |
 | Future Spy | 40037 | [40037-future-spy.json](./40037-future-spy.json) |
 | Future Swashbuckler | 305945 | [305945-future-swashbuckler.json](./305945-future-swashbuckler.json) |
 | Future Tank | 68346 | [68346-future-tank.json](./68346-future-tank.json) |
