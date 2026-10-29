@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camelot 2: The Holy Grail | 247766 | [247766-camelot-2-the-holy-grail.json](./247766-camelot-2-the-holy-grail.json) |
 | Camelot II: The Holy Grail - Collector's Edition | 417499 | [417499-camelot-ii-the-holy-grail-collectors-edition.json](./417499-camelot-ii-the-holy-grail-collectors-edition.json) |
 | Camelot Warriors | 13461 | [13461-camelot-warriors.json](./13461-camelot-warriors.json) |
+| Camelot: Wrath of the Green Knight | 189335 | [189335-camelot-wrath-of-the-green-knight.json](./189335-camelot-wrath-of-the-green-knight.json) |
 | Camelot: Wrath of the Green Knight - Collector's Edition | 249373 | [249373-camelot-wrath-of-the-green-knight-collectors-edition.json](./249373-camelot-wrath-of-the-green-knight-collectors-edition.json) |
 | CamelVsPirates | 395811 | [395811-camelvspirates.json](./395811-camelvspirates.json) |
 | Camera | 307051 | [307051-camera.json](./307051-camera.json) |
@@ -3354,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Mahjong | 293478 | [293478-casual-mahjong.json](./293478-casual-mahjong.json) |
 | Casual Penalty | 100462 | [100462-casual-penalty.json](./100462-casual-penalty.json) |
 | Casual Pixel Warrior | 188910 | [188910-casual-pixel-warrior.json](./188910-casual-pixel-warrior.json) |
+| Casual Pro Wrestling | 189306 | [189306-casual-pro-wrestling.json](./189306-casual-pro-wrestling.json) |
 | Casual Puzzles Bundle 8 in 1 | 302246 | [302246-casual-puzzles-bundle-8-in-1.json](./302246-casual-puzzles-bundle-8-in-1.json) |
 | Casual Romance Club | 73471 | [73471-casual-romance-club.json](./73471-casual-romance-club.json) |
 | Casual Spider Solitaire | 84134 | [84134-casual-spider-solitaire.json](./84134-casual-spider-solitaire.json) |
@@ -7425,6 +7427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronokicker 202K | 181161 | [181161-chronokicker-202k.json](./181161-chronokicker-202k.json) |
 | Chronology: Deluxe Edition | 257371 | [257371-chronology-deluxe-edition.json](./257371-chronology-deluxe-edition.json) |
 | Chronomancy: Watchmaker's Curse | 184504 | [184504-chronomancy-watchmakers-curse.json](./184504-chronomancy-watchmakers-curse.json) |
+| Chronomaster | 189291 | [189291-chronomaster.json](./189291-chronomaster.json) |
 | Chronometer | 92352 | [92352-chronometer.json](./92352-chronometer.json) |
 | Chronomina | 185620 | [185620-chronomina.json](./185620-chronomina.json) |
 | Chronominion Idler | 347358 | [347358-chronominion-idler.json](./347358-chronominion-idler.json) |
@@ -16480,6 +16483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryste: the Faith of Fire Vol.1 | 28870 | [28870-cryste-the-faith-of-fire-vol-1.json](./28870-cryste-the-faith-of-fire-vol-1.json) |
 | Crystian and Lost Crystals | 418210 | [418210-crystian-and-lost-crystals.json](./418210-crystian-and-lost-crystals.json) |
 | Crystle Castles | 80391 | [80391-crystle-castles.json](./80391-crystle-castles.json) |
+| Cryweard | 189302 | [189302-cryweard.json](./189302-cryweard.json) |
 | Cryzen.io | 282507 | [282507-cryzen-io.json](./282507-cryzen-io.json) |
 | Cryzon Part 2 | 379909 | [379909-cryzon-part-2.json](./379909-cryzon-part-2.json) |
 | Cryzon Part1 | 371419 | [371419-cryzon-part1.json](./371419-cryzon-part1.json) |
