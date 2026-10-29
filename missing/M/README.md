@@ -1935,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maiden | 344870 | [344870-maiden.json](./344870-maiden.json) |
 | Maiden City: The Last Collateral Damage | 90408 | [90408-maiden-city-the-last-collateral-damage.json](./90408-maiden-city-the-last-collateral-damage.json) |
 | Maiden Cops | 209681 | [209681-maiden-cops.json](./209681-maiden-cops.json) |
+| Maiden Gear | 212043 | [212043-maiden-gear.json](./212043-maiden-gear.json) |
 | Maiden Kingdom | 220443 | [220443-maiden-kingdom.json](./220443-maiden-kingdom.json) |
 | Maiden Maze | 147376 | [147376-maiden-maze.json](./147376-maiden-maze.json) |
 | Maiden Voyage | 299770 | [299770-maiden-voyage.json](./299770-maiden-voyage.json) |
@@ -7051,6 +7052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megabat | 253913 | [253913-megabat.json](./253913-megabat.json) |
 | MegaBattle | 158561 | [158561-megabattle.json](./158561-megabattle.json) |
 | Megablast | 46860 | [46860-megablast.json](./46860-megablast.json) |
+| MegaBlasters! | 212078 | [212078-megablasters.json](./212078-megablasters.json) |
 | Megabonk | 327405 | [327405-megabonk.json](./327405-megabonk.json) |
 | Megabonk Smash | 376471 | [376471-megabonk-smash.json](./376471-megabonk-smash.json) |
 | MegaBoy | 282791 | [282791-megaboy.json](./282791-megaboy.json) |
@@ -11520,6 +11522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniverse | 179059 | [179059-miniverse.json](./179059-miniverse.json) |
 | Miniverse Minigolf | 93383 | [93383-miniverse-minigolf.json](./93383-miniverse-minigolf.json) |
 | Miniverse Wars | 125709 | [125709-miniverse-wars.json](./125709-miniverse-wars.json) |
+| MiniWarfare | 212061 | [212061-miniwarfare.json](./212061-miniwarfare.json) |
 | MiniWood VR | 118159 | [118159-miniwood-vr.json](./118159-miniwood-vr.json) |
 | MiniWorld | 184032 | [184032-miniworld.json](./184032-miniworld.json) |
 | Miniworld Royale | 208969 | [208969-miniworld-royale.json](./208969-miniworld-royale.json) |
@@ -12223,6 +12226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistified | 254375 | [254375-mistified.json](./254375-mistified.json) |
 | Mistlands: Wheats & Demons | 351404 | [351404-mistlands-wheats-and-demons.json](./351404-mistlands-wheats-and-demons.json) |
 | Mistletoe Hotel | 323731 | [323731-mistletoe-hotel.json](./323731-mistletoe-hotel.json) |
+| Mistmoon Falls | 212085 | [212085-mistmoon-falls.json](./212085-mistmoon-falls.json) |
 | Mistonia's Hope: The Lost Delight | 274882 | [274882-mistonias-hope-the-lost-delight.json](./274882-mistonias-hope-the-lost-delight.json) |
 | Mistover | 116145 | [116145-mistover.json](./116145-mistover.json) |
 | Mistover: Limited Edition | 166270 | [166270-mistover-limited-edition.json](./166270-mistover-limited-edition.json) |
@@ -14250,6 +14254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters of Mican | 270307 | [270307-monsters-of-mican.json](./270307-monsters-of-mican.json) |
 | Monsters of Moldred | 310265 | [310265-monsters-of-moldred.json](./310265-monsters-of-moldred.json) |
 | Monsters of Seabrook | 224653 | [224653-monsters-of-seabrook.json](./224653-monsters-of-seabrook.json) |
+| Monsters of the North | 212083 | [212083-monsters-of-the-north.json](./212083-monsters-of-the-north.json) |
 | Monsters sandbox | 127085 | [127085-monsters-sandbox.json](./127085-monsters-sandbox.json) |
 | Monsters Tap Tap Music Battle University | 253273 | [253273-monsters-tap-tap-music-battle-university.json](./253273-monsters-tap-tap-music-battle-university.json) |
 | Monsters University | 137564 | [137564-monsters-university.json](./137564-monsters-university.json) |
@@ -17773,6 +17778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Fake Boyfriend | 299457 | [299457-my-fake-boyfriend.json](./299457-my-fake-boyfriend.json) |
 | My Fake Goblin Wife | 239803 | [239803-my-fake-goblin-wife.json](./239803-my-fake-goblin-wife.json) |
 | My Fake Marriage | 299500 | [299500-my-fake-marriage.json](./299500-my-fake-marriage.json) |
+| My Familiar | 212047 | [212047-my-familiar.json](./212047-my-familiar.json) |
 | My Family Tree | 379169 | [379169-my-family-tree.json](./379169-my-family-tree.json) |
 | My Fantastic Ranch | 213165 | [213165-my-fantastic-ranch.json](./213165-my-fantastic-ranch.json) |
 | My Fantasy Hostess Club | 310243 | [310243-my-fantasy-hostess-club.json](./310243-my-fantasy-hostess-club.json) |
