@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madtoys Knights | 319115 | [319115-madtoys-knights.json](./319115-madtoys-knights.json) |
 | Maduro Run | 392933 | [392933-maduro-run.json](./392933-maduro-run.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
+| MadVentures | 204180 | [204180-madventures.json](./204180-madventures.json) |
 | MadWheels | 185476 | [185476-madwheels.json](./185476-madwheels.json) |
 | Madzik | 294184 | [294184-madzik.json](./294184-madzik.json) |
 | Maegami ga Nagakute Seikaku ga Kurai Kakuu no Otoko | 416645 | [416645-maegami-ga-nagakute-seikaku-ga-kurai-kakuu-no-otoko.json](./416645-maegami-ga-nagakute-seikaku-ga-kurai-kakuu-no-otoko.json) |
@@ -16416,6 +16417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Triangle Mania 2 | 265857 | [265857-mr-triangle-mania-2.json](./265857-mr-triangle-mania-2.json) |
 | Mr. Triangle The Pizza Delivery Guy Mania Simulator 2k17 | 316362 | [316362-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17.json](./316362-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17.json) |
 | Mr. Triangle The Pizza Delivery Guy Mania Simulator 2k17 Turbo HD Remix GOTY 2024 Edition: Coked Up + 1.5 Collection DX Directors Cut & Knuckles | 316364 | [316364-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17-turbo-hd-remix-goty-2024-edition-coked-up-1-5-collection-dx-directors-cut-and-knuckles.json](./316364-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17-turbo-hd-remix-goty-2024-edition-coked-up-1-5-collection-dx-directors-cut-and-knuckles.json) |
+| Mr. Triangle's Maze | 204181 | [204181-mr-triangles-maze.json](./204181-mr-triangles-maze.json) |
 | Mr. Troove | 400857 | [400857-mr-troove.json](./400857-mr-troove.json) |
 | Mr. Tuff | 214975 | [214975-mr-tuff.json](./214975-mr-tuff.json) |
 | Mr. Tulip Head | 183274 | [183274-mr-tulip-head.json](./183274-mr-tulip-head.json) |
@@ -16641,6 +16643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mughaan | 238522 | [238522-mughaan.json](./238522-mughaan.json) |
 | Mugogy Jump | 298300 | [298300-mugogy-jump.json](./298300-mugogy-jump.json) |
 | Mugsy | 25719 | [25719-mugsy.json](./25719-mugsy.json) |
+| Mugsy & Mugsy's Revenge | 204166 | [204166-mugsy-and-mugsys-revenge.json](./204166-mugsy-and-mugsys-revenge.json) |
 | Mugsy's Revenge | 26216 | [26216-mugsys-revenge.json](./26216-mugsys-revenge.json) |
 | Muhammad Ali | 228360 | [228360-muhammad-ali.json](./228360-muhammad-ali.json) |
 | Muhammad Ali Heavyweight Boxing | 288070 | [288070-muhammad-ali-heavyweight-boxing.json](./288070-muhammad-ali-heavyweight-boxing.json) |
@@ -17902,6 +17905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Furry Detective | 192160 | [192160-my-furry-detective.json](./192160-my-furry-detective.json) |
 | My Furry Girlfriend | 244196 | [244196-my-furry-girlfriend.json](./244196-my-furry-girlfriend.json) |
 | My Furry Maid | 199472 | [199472-my-furry-maid.json](./199472-my-furry-maid.json) |
+| My Furry Protogen | 204165 | [204165-my-furry-protogen.json](./204165-my-furry-protogen.json) |
 | My Furry Protogen: 18+ Adult Only Patch | 213447 | [213447-my-furry-protogen-18-adult-only-patch.json](./213447-my-furry-protogen-18-adult-only-patch.json) |
 | My Furry Stepmom | 393374 | [393374-my-furry-stepmom.json](./393374-my-furry-stepmom.json) |
 | My Furry Succubus | 253899 | [253899-my-furry-succubus.json](./253899-my-furry-succubus.json) |
@@ -19098,6 +19102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Series: A Vampire Tale | 54244 | [54244-mystery-series-a-vampire-tale.json](./54244-mystery-series-a-vampire-tale.json) |
 | Mystery Society 2: Hidden Puzzles | 250954 | [250954-mystery-society-2-hidden-puzzles.json](./250954-mystery-society-2-hidden-puzzles.json) |
 | Mystery Solitaire: Arkham's Spirits | 126841 | [126841-mystery-solitaire-arkhams-spirits.json](./126841-mystery-solitaire-arkhams-spirits.json) |
+| Mystery Solitaire: Cthulhu Mythos | 204164 | [204164-mystery-solitaire-cthulhu-mythos.json](./204164-mystery-solitaire-cthulhu-mythos.json) |
 | Mystery Solitaire: Cthulhu Mythos 2 | 251852 | [251852-mystery-solitaire-cthulhu-mythos-2.json](./251852-mystery-solitaire-cthulhu-mythos-2.json) |
 | Mystery Solitaire: Cthulhu Mythos 3 | 270966 | [270966-mystery-solitaire-cthulhu-mythos-3.json](./270966-mystery-solitaire-cthulhu-mythos-3.json) |
 | Mystery Solitaire: Dreamcatcher | 153531 | [153531-mystery-solitaire-dreamcatcher.json](./153531-mystery-solitaire-dreamcatcher.json) |
