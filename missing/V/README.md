@@ -2890,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Fighters | 403667 | [403667-void-fighters.json](./403667-void-fighters.json) |
 | Void Flesh | 362168 | [362168-void-flesh.json](./362168-void-flesh.json) |
 | Void Foundation: Into The Void | 295287 | [295287-void-foundation-into-the-void.json](./295287-void-foundation-into-the-void.json) |
+| Void Frame | 185811 | [185811-void-frame.json](./185811-void-frame.json) |
 | Void Frontiers | 384049 | [384049-void-frontiers.json](./384049-void-frontiers.json) |
 | Void Funk | 250846 | [250846-void-funk.json](./250846-void-funk.json) |
 | Void Future: Hacking Protocol | 376207 | [376207-void-future-hacking-protocol.json](./376207-void-future-hacking-protocol.json) |
