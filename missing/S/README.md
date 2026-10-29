@@ -7673,6 +7673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Surveyor Through the Ages: VR | 170324 | [170324-ship-surveyor-through-the-ages-vr.json](./170324-ship-surveyor-through-the-ages-vr.json) |
 | Ship Tycoon | 89757 | [89757-ship-tycoon.json](./89757-ship-tycoon.json) |
 | Ship v Maze | 376281 | [376281-ship-v-maze.json](./376281-ship-v-maze.json) |
+| Ship War | 179339 | [179339-ship-war.json](./179339-ship-war.json) |
 | Ship Wreck | 268334 | [268334-ship-wreck.json](./268334-ship-wreck.json) |
 | Ship's Cat | 292392 | [292392-ships-cat.json](./292392-ships-cat.json) |
 | Shipbreakers | 107366 | [107366-shipbreakers.json](./107366-shipbreakers.json) |
@@ -12073,6 +12074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimehead | 416935 | [416935-slimehead.json](./416935-slimehead.json) |
 | SlimeJumper: Ultimate Jump | 156639 | [156639-slimejumper-ultimate-jump.json](./156639-slimejumper-ultimate-jump.json) |
 | Slimekeep | 157387 | [157387-slimekeep.json](./157387-slimekeep.json) |
+| Slimekoban | 179306 | [179306-slimekoban.json](./179306-slimekoban.json) |
 | SlimeLabs | 152083 | [152083-slimelabs.json](./152083-slimelabs.json) |
 | Slimelon | 300786 | [300786-slimelon.json](./300786-slimelon.json) |
 | Slimepatch | 392904 | [392904-slimepatch.json](./392904-slimepatch.json) |
@@ -12785,6 +12787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smithy | 32486 | [32486-smithy.json](./32486-smithy.json) |
 | Smithy of the Fishy | 184218 | [184218-smithy-of-the-fishy.json](./184218-smithy-of-the-fishy.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
+| Smitty's Journey | 179327 | [179327-smittys-journey.json](./179327-smittys-journey.json) |
 | SMOD Troopers | 312617 | [312617-smod-troopers.json](./312617-smod-troopers.json) |
 | SMOD: Outbreak | 312616 | [312616-smod-outbreak.json](./312616-smod-outbreak.json) |
 | Smog City | 313958 | [313958-smog-city.json](./313958-smog-city.json) |
@@ -31246,6 +31249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switcher | 105710 | [105710-switcher.json](./105710-switcher.json) |
 | Switcheroo | 340397 | [340397-switcheroo.json](./340397-switcheroo.json) |
 | Switcheroo | 59686 | [59686-switcheroo.json](./59686-switcheroo.json) |
+| Switcheroo! | 179325 | [179325-switcheroo.json](./179325-switcheroo.json) |
 | Switchfire | 54418 | [54418-switchfire.json](./54418-switchfire.json) |
 | Switching Heroes | 395295 | [395295-switching-heroes.json](./395295-switching-heroes.json) |
 | Switchy Road DeluX | 147608 | [147608-switchy-road-delux.json](./147608-switchy-road-delux.json) |
