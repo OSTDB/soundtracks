@@ -4845,6 +4845,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World: Ultra Special | 316270 | [316270-hentai-world-ultra-special.json](./316270-hentai-world-ultra-special.json) |
 | Hentai World: Ultra Ultimate | 309050 | [309050-hentai-world-ultra-ultimate.json](./309050-hentai-world-ultra-ultimate.json) |
 | Hentai XXX Plus: Jigsaws Vol 1 | 288317 | [288317-hentai-xxx-plus-jigsaws-vol-1.json](./288317-hentai-xxx-plus-jigsaws-vol-1.json) |
+| Hentai Zodiac Puzzle | 213723 | [213723-hentai-zodiac-puzzle.json](./213723-hentai-zodiac-puzzle.json) |
+| Hentai Zodiac Puzzle 2 | 213725 | [213725-hentai-zodiac-puzzle-2.json](./213725-hentai-zodiac-puzzle-2.json) |
 | Hentai: Area 51 | 148703 | [148703-hentai-area-51.json](./148703-hentai-area-51.json) |
 | Hentai: Beach Day | 296905 | [296905-hentai-beach-day.json](./296905-hentai-beach-day.json) |
 | Hentai: Color by Number | 368515 | [368515-hentai-color-by-number.json](./368515-hentai-color-by-number.json) |
@@ -8456,6 +8458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook | 214611 | [214611-hook.json](./214611-hook.json) |
 | Hook | 78145 | [78145-hook.json](./78145-hook.json) |
 | Hook | 8704 | [8704-hook.json](./8704-hook.json) |
+| Hook & Go | 213776 | [213776-hook-and-go.json](./213776-hook-and-go.json) |
 | Hook & Kaiju | 266729 | [266729-hook-and-kaiju.json](./266729-hook-and-kaiju.json) |
 | Hook & Roll | 401738 | [401738-hook-and-roll.json](./401738-hook-and-roll.json) |
 | Hook 2 | 192626 | [192626-hook-2.json](./192626-hook-2.json) |
