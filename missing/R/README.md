@@ -7113,6 +7113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rittai Ninja Katsugeki Tenchu: Shinobi Hyakusen | 64911 | [64911-rittai-ninja-katsugeki-tenchu-shinobi-hyakusen.json](./64911-rittai-ninja-katsugeki-tenchu-shinobi-hyakusen.json) |
 | Rittai-ban: Yuugeki-oh | 333952 | [333952-rittai-ban-yuugeki-oh.json](./333952-rittai-ban-yuugeki-oh.json) |
 | Ritter | 106320 | [106320-ritter.json](./106320-ritter.json) |
+| Ritter Rost: Die eiserne Burg | 220950 | [220950-ritter-rost-die-eiserne-burg.json](./220950-ritter-rost-die-eiserne-burg.json) |
 | Ritterorden | 390083 | [390083-ritterorden.json](./390083-ritterorden.json) |
 | Ritterschlag | 398452 | [398452-ritterschlag.json](./398452-ritterschlag.json) |
 | Ritual | 123401 | [123401-ritual.json](./123401-ritual.json) |
