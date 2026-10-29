@@ -4604,6 +4604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Thornberrys Australian Wildlife Rescue | 225704 | [225704-wild-thornberrys-australian-wildlife-rescue.json](./225704-wild-thornberrys-australian-wildlife-rescue.json) |
 | Wild Times | 149221 | [149221-wild-times.json](./149221-wild-times.json) |
 | Wild Tower | 373740 | [373740-wild-tower.json](./373740-wild-tower.json) |
+| Wild Trax Racing | 225959 | [225959-wild-trax-racing.json](./225959-wild-trax-racing.json) |
 | Wild Tribe | 228001 | [228001-wild-tribe.json](./228001-wild-tribe.json) |
 | Wild Turkey Hunt | 95453 | [95453-wild-turkey-hunt.json](./95453-wild-turkey-hunt.json) |
 | Wild Unknown | 29472 | [29472-wild-unknown.json](./29472-wild-unknown.json) |
