@@ -1826,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary Grigsby's War in Russia | 70767 | [70767-gary-grigsbys-war-in-russia.json](./70767-gary-grigsbys-war-in-russia.json) |
 | Gary Grigsby's War in the East | 24627 | [24627-gary-grigsbys-war-in-the-east.json](./24627-gary-grigsbys-war-in-the-east.json) |
 | Gary Grigsby's War in the East 2 | 143425 | [143425-gary-grigsbys-war-in-the-east-2.json](./143425-gary-grigsbys-war-in-the-east-2.json) |
+| Gary Grigsby's War in the East 2: Steel Inferno | 220422 | [220422-gary-grigsbys-war-in-the-east-2-steel-inferno.json](./220422-gary-grigsbys-war-in-the-east-2-steel-inferno.json) |
 | Gary Grigsby's War in the East: Don to the Danube | 154491 | [154491-gary-grigsbys-war-in-the-east-don-to-the-danube.json](./154491-gary-grigsbys-war-in-the-east-don-to-the-danube.json) |
 | Gary Grigsby's War in the East: Lost Battles | 174171 | [174171-gary-grigsbys-war-in-the-east-lost-battles.json](./174171-gary-grigsbys-war-in-the-east-lost-battles.json) |
 | Gary Grigsby's War in the Pacific | 69846 | [69846-gary-grigsbys-war-in-the-pacific.json](./69846-gary-grigsbys-war-in-the-pacific.json) |
@@ -2382,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemology | 85167 | [85167-gemology.json](./85167-gemology.json) |
 | Gemporium | 330563 | [330563-gemporium.json](./330563-gemporium.json) |
 | Gems and Knight | 274450 | [274450-gems-and-knight.json](./274450-gems-and-knight.json) |
+| Gems Defenders | 220423 | [220423-gems-defenders.json](./220423-gems-defenders.json) |
 | Gems Frontier | 98550 | [98550-gems-frontier.json](./98550-gems-frontier.json) |
 | Gems Kingdom | 111604 | [111604-gems-kingdom.json](./111604-gems-kingdom.json) |
 | Gems of Destiny: Magic Rescue | 416696 | [416696-gems-of-destiny-magic-rescue.json](./416696-gems-of-destiny-magic-rescue.json) |
@@ -8296,6 +8298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grisaia: Phantom Trigger Vol. 8 | 191896 | [191896-grisaia-phantom-trigger-vol-8.json](./191896-grisaia-phantom-trigger-vol-8.json) |
 | Grisaia: Shuuketsu no Hyakka - Les Rassemblement Cent Fruits de la Grisaia | 403209 | [403209-grisaia-shuuketsu-no-hyakka-les-rassemblement-cent-fruits-de-la-grisaia.json](./403209-grisaia-shuuketsu-no-hyakka-les-rassemblement-cent-fruits-de-la-grisaia.json) |
 | Grisly Grottos | 271845 | [271845-grisly-grottos.json](./271845-grisly-grottos.json) |
+| Grist | 220424 | [220424-grist.json](./220424-grist.json) |
 | Griswold the Goblin | 406243 | [406243-griswold-the-goblin.json](./406243-griswold-the-goblin.json) |
 | Grit | 145372 | [145372-grit.json](./145372-grit.json) |
 | Grit & Gold | 310506 | [310506-grit-and-gold.json](./310506-grit-and-gold.json) |
@@ -9194,6 +9197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Rock Tour | 21261 | [21261-guitar-rock-tour.json](./21261-guitar-rock-tour.json) |
 | Guitar Star | 267958 | [267958-guitar-star.json](./267958-guitar-star.json) |
 | Guitar Tuner 360 | 77410 | [77410-guitar-tuner-360.json](./77410-guitar-tuner-360.json) |
+| Guitar Zeros | 220425 | [220425-guitar-zeros.json](./220425-guitar-zeros.json) |
 | GuitarFreaks 10thMix & DrumMania 9thMix | 314344 | [314344-guitarfreaks-10thmix-and-drummania-9thmix.json](./314344-guitarfreaks-10thmix-and-drummania-9thmix.json) |
 | GuitarFreaks 11thMix & DrumMania 10thMix | 314352 | [314352-guitarfreaks-11thmix-and-drummania-10thmix.json](./314352-guitarfreaks-11thmix-and-drummania-10thmix.json) |
 | GuitarFreaks 2ndMix | 314346 | [314346-guitarfreaks-2ndmix.json](./314346-guitarfreaks-2ndmix.json) |
