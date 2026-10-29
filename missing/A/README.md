@@ -2460,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acquiescence | 183862 | [183862-acquiescence.json](./183862-acquiescence.json) |
 | Acquisition War | 148502 | [148502-acquisition-war.json](./148502-acquisition-war.json) |
 | Acquittal: Induction | 302599 | [302599-acquittal-induction.json](./302599-acquittal-induction.json) |
+| Acquitted | 199735 | [199735-acquitted.json](./199735-acquitted.json) |
 | Acras | 211392 | [211392-acras.json](./211392-acras.json) |
 | Acre Crisis | 301594 | [301594-acre-crisis.json](./301594-acre-crisis.json) |
 | Acre: Last Stand | 381299 | [381299-acre-last-stand.json](./381299-acre-last-stand.json) |
@@ -5515,6 +5516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlcremieStudio | 319561 | [319561-alcremiestudio.json](./319561-alcremiestudio.json) |
 | Alcúdia | 165367 | [165367-alcudia.json](./165367-alcudia.json) |
 | Alcurio | 408572 | [408572-alcurio.json](./408572-alcurio.json) |
+| Alcyone | 199752 | [199752-alcyone.json](./199752-alcyone.json) |
 | Alcyone | 383604 | [383604-alcyone.json](./383604-alcyone.json) |
 | Alcyone: The Last City | 118072 | [118072-alcyone-the-last-city.json](./118072-alcyone-the-last-city.json) |
 | Alder Choke | 217926 | [217926-alder-choke.json](./217926-alder-choke.json) |
@@ -6987,6 +6989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alum | 26873 | [26873-alum.json](./26873-alum.json) |
 | Alum | 28576 | [28576-alum.json](./28576-alum.json) |
 | Aluminium City | 395819 | [395819-aluminium-city.json](./395819-aluminium-city.json) |
+| Alumni | 199763 | [199763-alumni.json](./199763-alumni.json) |
 | Alundra | 1175 | [1175-alundra.json](./1175-alundra.json) |
 | Alundra 2: A New Legend Begins | 1176 | [1176-alundra-2-a-new-legend-begins.json](./1176-alundra-2-a-new-legend-begins.json) |
 | Alurwe: Ein Spaziergang durch Alt-Urfahr West | 117423 | [117423-alurwe-ein-spaziergang-durch-alt-urfahr-west.json](./117423-alurwe-ein-spaziergang-durch-alt-urfahr-west.json) |
@@ -7139,6 +7142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amateur Surgeon 4: Re-Generations | 57116 | [57116-amateur-surgeon-4-re-generations.json](./57116-amateur-surgeon-4-re-generations.json) |
 | Amateur Surgeon Hospital | 304207 | [304207-amateur-surgeon-hospital.json](./304207-amateur-surgeon-hospital.json) |
 | Amateurs | 177459 | [177459-amateurs.json](./177459-amateurs.json) |
+| AMathing | 200271 | [200271-amathing.json](./200271-amathing.json) |
 | Amato | 391273 | [391273-amato.json](./391273-amato.json) |
 | Amatsu Misora ni! Kumo no Hatate ni | 62263 | [62263-amatsu-misora-ni-kumo-no-hatate-ni.json](./62263-amatsu-misora-ni-kumo-no-hatate-ni.json) |
 | Amatsu Sora ni Saku | 309672 | [309672-amatsu-sora-ni-saku.json](./309672-amatsu-sora-ni-saku.json) |
@@ -9173,6 +9177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anna Kournikova's Smash Court Tennis | 18666 | [18666-anna-kournikovas-smash-court-tennis.json](./18666-anna-kournikovas-smash-court-tennis.json) |
 | Anna Redux | 397638 | [397638-anna-redux.json](./397638-anna-redux.json) |
 | Anna vs. Sentimental Fighter | 330933 | [330933-anna-vs-sentimental-fighter.json](./330933-anna-vs-sentimental-fighter.json) |
+| Anna vs. the A.I. Maze | 199755 | [199755-anna-vs-the-a-i-maze.json](./199755-anna-vs-the-a-i-maze.json) |
 | Anna-san-tachi no Fushigi no Meikyuu | 208405 | [208405-anna-san-tachi-no-fushigi-no-meikyuu.json](./208405-anna-san-tachi-no-fushigi-no-meikyuu.json) |
 | Anna: The Magic of Words | 210701 | [210701-anna-the-magic-of-words.json](./210701-anna-the-magic-of-words.json) |
 | Anna: The Series Test | 156645 | [156645-anna-the-series-test.json](./156645-anna-the-series-test.json) |
@@ -11351,6 +11356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Tower Defense | 237077 | [237077-arcane-tower-defense.json](./237077-arcane-tower-defense.json) |
 | Arcane Tower Survivors | 342641 | [342641-arcane-tower-survivors.json](./342641-arcane-tower-survivors.json) |
 | Arcane Treasures: Trading Card Game | 303343 | [303343-arcane-treasures-trading-card-game.json](./303343-arcane-treasures-trading-card-game.json) |
+| Arcane Vale | 200290 | [200290-arcane-vale.json](./200290-arcane-vale.json) |
 | Arcane Walker | 154998 | [154998-arcane-walker.json](./154998-arcane-walker.json) |
 | Arcane Warlords | 247950 | [247950-arcane-warlords.json](./247950-arcane-warlords.json) |
 | Arcane Waters | 152824 | [152824-arcane-waters.json](./152824-arcane-waters.json) |
@@ -12464,6 +12470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aro & Elmi | 146716 | [146716-aro-and-elmi.json](./146716-aro-and-elmi.json) |
 | Aro: Tales in the Dome | 378248 | [378248-aro-tales-in-the-dome.json](./378248-aro-tales-in-the-dome.json) |
 | Arobynn: Below The Surface | 248893 | [248893-arobynn-below-the-surface.json](./248893-arobynn-below-the-surface.json) |
+| Arobynn: The First Adventure | 199734 | [199734-arobynn-the-first-adventure.json](./199734-arobynn-the-first-adventure.json) |
 | Aroma | 226231 | [226231-aroma.json](./226231-aroma.json) |
 | Aroma Button | 380110 | [380110-aroma-button.json](./380110-aroma-button.json) |
 | Aron's Adventure | 117147 | [117147-arons-adventure.json](./117147-arons-adventure.json) |
@@ -15351,6 +15358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn and Girls | 149393 | [149393-autumn-and-girls.json](./149393-autumn-and-girls.json) |
 | Autumn Aurora 2 | 376213 | [376213-autumn-aurora-2.json](./376213-autumn-aurora-2.json) |
 | Autumn Break | 255556 | [255556-autumn-break.json](./255556-autumn-break.json) |
+| Autumn Dynasty | 200286 | [200286-autumn-dynasty.json](./200286-autumn-dynasty.json) |
 | Autumn Dynasty Warlords | 23424 | [23424-autumn-dynasty-warlords.json](./23424-autumn-dynasty-warlords.json) |
 | Autumn Garden | 82181 | [82181-autumn-garden.json](./82181-autumn-garden.json) |
 | Autumn Hike | 257431 | [257431-autumn-hike.json](./257431-autumn-hike.json) |
@@ -15486,6 +15494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Life | 151848 | [151848-avatar-life.json](./151848-avatar-life.json) |
 | Avatar Ninja! | 94738 | [94738-avatar-ninja.json](./94738-avatar-ninja.json) |
 | Avatar of the Wolf | 36829 | [36829-avatar-of-the-wolf.json](./36829-avatar-of-the-wolf.json) |
+| Avatar of War: The Dark Lord | 200296 | [200296-avatar-of-war-the-dark-lord.json](./200296-avatar-of-war-the-dark-lord.json) |
 | Avatar Onslaught 2 | 77594 | [77594-avatar-onslaught-2.json](./77594-avatar-onslaught-2.json) |
 | Avatar Paintball | 77598 | [77598-avatar-paintball.json](./77598-avatar-paintball.json) |
 | Avatar Pinball | 144035 | [144035-avatar-pinball.json](./144035-avatar-pinball.json) |
