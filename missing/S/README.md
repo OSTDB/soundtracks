@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors 4 | 7290 | [7290-samurai-warriors-4.json](./7290-samurai-warriors-4.json) |
 | Samurai Warriors 4 DX | 112910 | [112910-samurai-warriors-4-dx.json](./112910-samurai-warriors-4-dx.json) |
 | Samurai Warriors 4-II | 12279 | [12279-samurai-warriors-4-ii.json](./12279-samurai-warriors-4-ii.json) |
+| Samurai Warriors 4-II: Scenario Set | 225941 | [225941-samurai-warriors-4-ii-scenario-set.json](./225941-samurai-warriors-4-ii-scenario-set.json) |
 | Samurai Warriors 4: Empires | 12280 | [12280-samurai-warriors-4-empires.json](./12280-samurai-warriors-4-empires.json) |
 | Samurai Warriors 4: Special Anime Pack | 178296 | [178296-samurai-warriors-4-special-anime-pack.json](./178296-samurai-warriors-4-special-anime-pack.json) |
 | Samurai Warriors 5: Ikkitousen Box | 146037 | [146037-samurai-warriors-5-ikkitousen-box.json](./146037-samurai-warriors-5-ikkitousen-box.json) |
@@ -4754,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura Peach and Reflextions: Limited Double Pack | 117172 | [117172-senran-kagura-peach-and-reflextions-limited-double-pack.json](./117172-senran-kagura-peach-and-reflextions-limited-double-pack.json) |
 | Senran Kagura Peach Ball | 54521 | [54521-senran-kagura-peach-ball.json](./54521-senran-kagura-peach-ball.json) |
 | Senran Kagura Reflexions | 28129 | [28129-senran-kagura-reflexions.json](./28129-senran-kagura-reflexions.json) |
+| Senran Kagura Reflexions: 30 Accessory Set | 225928 | [225928-senran-kagura-reflexions-30-accessory-set.json](./225928-senran-kagura-reflexions-30-accessory-set.json) |
 | Senran Kagura Reflexions: Murasaki Reflexions Course & 7-Outfit Set | 374271 | [374271-senran-kagura-reflexions-murasaki-reflexions-course-and-7-outfit-set.json](./374271-senran-kagura-reflexions-murasaki-reflexions-course-and-7-outfit-set.json) |
 | Senran Kagura Reflexions: Ryouna Reflexions Course & 7-Outfit Set | 374269 | [374269-senran-kagura-reflexions-ryouna-reflexions-course-and-7-outfit-set.json](./374269-senran-kagura-reflexions-ryouna-reflexions-course-and-7-outfit-set.json) |
 | Senran Kagura Reflexions: Yomi Reflexions Course & 12-Outfit Set | 374268 | [374268-senran-kagura-reflexions-yomi-reflexions-course-and-12-outfit-set.json](./374268-senran-kagura-reflexions-yomi-reflexions-course-and-12-outfit-set.json) |
@@ -16229,6 +16231,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur VI: 2B | 168722 | [168722-soulcalibur-vi-2b.json](./168722-soulcalibur-vi-2b.json) |
 | SoulCalibur VI: Amy | 168723 | [168723-soulcalibur-vi-amy.json](./168723-soulcalibur-vi-amy.json) |
 | SoulCalibur VI: Cassandra | 168724 | [168724-soulcalibur-vi-cassandra.json](./168724-soulcalibur-vi-cassandra.json) |
+| SoulCalibur VI: Character Creation Set A | 225940 | [225940-soulcalibur-vi-character-creation-set-a.json](./225940-soulcalibur-vi-character-creation-set-a.json) |
+| SoulCalibur VI: Character Creation Set C | 225929 | [225929-soulcalibur-vi-character-creation-set-c.json](./225929-soulcalibur-vi-character-creation-set-c.json) |
 | SoulCalibur VI: Character Creation Set F | 224129 | [224129-soulcalibur-vi-character-creation-set-f.json](./224129-soulcalibur-vi-character-creation-set-f.json) |
 | SoulCalibur VI: Collector's Edition | 47071 | [47071-soulcalibur-vi-collectors-edition.json](./47071-soulcalibur-vi-collectors-edition.json) |
 | SoulCalibur VI: Deluxe Edition | 103299 | [103299-soulcalibur-vi-deluxe-edition.json](./103299-soulcalibur-vi-deluxe-edition.json) |
@@ -18900,6 +18904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spike Goes Skiing | 37539 | [37539-spike-goes-skiing.json](./37539-spike-goes-skiing.json) |
 | Spike Hike | 112203 | [112203-spike-hike.json](./112203-spike-hike.json) |
 | Spike Hoppin' | 41984 | [41984-spike-hoppin.json](./41984-spike-hoppin.json) |
+| Spike II: The Great Emu War | 225966 | [225966-spike-ii-the-great-emu-war.json](./225966-spike-ii-the-great-emu-war.json) |
 | Spike in Transylvania | 70278 | [70278-spike-in-transylvania.json](./70278-spike-in-transylvania.json) |
 | Spike Match | 369748 | [369748-spike-match.json](./369748-spike-match.json) |
 | Spike Mtn | 213536 | [213536-spike-mtn.json](./213536-spike-mtn.json) |
@@ -23700,6 +23705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stories Untold | 27094 | [27094-stories-untold.json](./27094-stories-untold.json) |
 | Stories: The Path of Destinies | 12815 | [12815-stories-the-path-of-destinies.json](./12815-stories-the-path-of-destinies.json) |
 | Stories: The Path of Destinies - Collector's Edition | 53674 | [53674-stories-the-path-of-destinies-collectors-edition.json](./53674-stories-the-path-of-destinies-collectors-edition.json) |
+| Stories: The Path of Destinies & Omensight Bundle | 225949 | [225949-stories-the-path-of-destinies-and-omensight-bundle.json](./225949-stories-the-path-of-destinies-and-omensight-bundle.json) |
 | Storm | 28573 | [28573-storm.json](./28573-storm.json) |
 | Storm | 45275 | [45275-storm.json](./45275-storm.json) |
 | Storm Angel | 400297 | [400297-storm-angel.json](./400297-storm-angel.json) |
@@ -24545,6 +24551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Outlaws 2: Winner Takes All - Digital Deluxe Edition | 173797 | [173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json](./173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json) |
 | Street Outlaws 2: Winner Takes All - Ryan Martin Bundle | 226709 | [226709-street-outlaws-2-winner-takes-all-ryan-martin-bundle.json](./226709-street-outlaws-2-winner-takes-all-ryan-martin-bundle.json) |
 | Street Outlaws 2: Winner Takes All - Steel Thunder Bundle | 226699 | [226699-street-outlaws-2-winner-takes-all-steel-thunder-bundle.json](./226699-street-outlaws-2-winner-takes-all-steel-thunder-bundle.json) |
+| Street Outlaws 2: Winner Takes All - The 70s Bundle | 225945 | [225945-street-outlaws-2-winner-takes-all-the-70s-bundle.json](./225945-street-outlaws-2-winner-takes-all-the-70s-bundle.json) |
 | Street Outlaws: The List | 122442 | [122442-street-outlaws-the-list.json](./122442-street-outlaws-the-list.json) |
 | Street Paint Playground | 217991 | [217991-street-paint-playground.json](./217991-street-paint-playground.json) |
 | Street Power Football | 134708 | [134708-street-power-football.json](./134708-street-power-football.json) |
