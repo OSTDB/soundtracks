@@ -7110,6 +7110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grassassins | 310049 | [310049-grassassins.json](./310049-grassassins.json) |
 | Grassfires of Veldstar | 183328 | [183328-grassfires-of-veldstar.json](./183328-grassfires-of-veldstar.json) |
 | GrassGames Cribbage | 88220 | [88220-grassgames-cribbage.json](./88220-grassgames-cribbage.json) |
+| GrassGames Hearts 3 | 224835 | [224835-grassgames-hearts-3.json](./224835-grassgames-hearts-3.json) |
 | Grasshoping | 257670 | [257670-grasshoping.json](./257670-grasshoping.json) |
 | Grasshopper Collection | 349959 | [349959-grasshopper-collection.json](./349959-grasshopper-collection.json) |
 | Grasshopper Farm | 134026 | [134026-grasshopper-farm.json](./134026-grasshopper-farm.json) |
