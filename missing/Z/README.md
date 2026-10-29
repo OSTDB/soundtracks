@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Mansion | 218713 | [218713-zombie-mansion.json](./218713-zombie-mansion.json) |
 | Zombie Massacre | 415927 | [415927-zombie-massacre.json](./415927-zombie-massacre.json) |
 | Zombie Mathters | 156890 | [156890-zombie-mathters.json](./156890-zombie-mathters.json) |
+| Zombie Maze | 190348 | [190348-zombie-maze.json](./190348-zombie-maze.json) |
 | Zombie Maze | 205851 | [205851-zombie-maze.json](./205851-zombie-maze.json) |
 | Zombie Mess | 70987 | [70987-zombie-mess.json](./70987-zombie-mess.json) |
 | Zombie Misfits | 65533 | [65533-zombie-misfits.json](./65533-zombie-misfits.json) |
