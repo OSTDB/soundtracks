@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maduro Run | 392933 | [392933-maduro-run.json](./392933-maduro-run.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
 | MadVentures | 204180 | [204180-madventures.json](./204180-madventures.json) |
+| Madville+ | 197475 | [197475-madville.json](./197475-madville.json) |
 | MadWheels | 185476 | [185476-madwheels.json](./185476-madwheels.json) |
 | Madzik | 294184 | [294184-madzik.json](./294184-madzik.json) |
 | Maegami ga Nagakute Seikaku ga Kurai Kakuu no Otoko | 416645 | [416645-maegami-ga-nagakute-seikaku-ga-kurai-kakuu-no-otoko.json](./416645-maegami-ga-nagakute-seikaku-ga-kurai-kakuu-no-otoko.json) |
@@ -1206,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Tower Hero: DungeonKing | 255685 | [255685-magic-tower-hero-dungeonking.json](./255685-magic-tower-hero-dungeonking.json) |
 | Magic Tower Story | 197647 | [197647-magic-tower-story.json](./197647-magic-tower-story.json) |
 | Magic Tower: Cao Cao | 415513 | [415513-magic-tower-cao-cao.json](./415513-magic-tower-cao-cao.json) |
+| Magic Tower: Destroy the Wormhole | 197491 | [197491-magic-tower-destroy-the-wormhole.json](./197491-magic-tower-destroy-the-wormhole.json) |
 | Magic Tower: Legion | 391089 | [391089-magic-tower-legion.json](./391089-magic-tower-legion.json) |
 | Magic Tower: Tap Defense | 255735 | [255735-magic-tower-tap-defense.json](./255735-magic-tower-tap-defense.json) |
 | Magic Trap | 255143 | [255143-magic-trap.json](./255143-magic-trap.json) |
@@ -3831,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marmargee Fighter Girl vs. Zombies & Monsters! | 290797 | [290797-marmargee-fighter-girl-vs-zombies-and-monsters.json](./290797-marmargee-fighter-girl-vs-zombies-and-monsters.json) |
 | Marmoset | 189110 | [189110-marmoset.json](./189110-marmoset.json) |
 | Marmot Fight Club | 350195 | [350195-marmot-fight-club.json](./350195-marmot-fight-club.json) |
+| Maroon Berets: 2030 | 197518 | [197518-maroon-berets-2030.json](./197518-maroon-berets-2030.json) |
 | Maroon! | 336461 | [336461-maroon.json](./336461-maroon.json) |
 | Marooned | 151651 | [151651-marooned.json](./151651-marooned.json) |
 | Marooned | 209558 | [209558-marooned.json](./209558-marooned.json) |
@@ -15742,6 +15745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorcycle Ride: Infinity | 373886 | [373886-motorcycle-ride-infinity.json](./373886-motorcycle-ride-infinity.json) |
 | Motorcycle RPG | 196815 | [196815-motorcycle-rpg.json](./196815-motorcycle-rpg.json) |
 | Motorcycle Sales Simulator | 326474 | [326474-motorcycle-sales-simulator.json](./326474-motorcycle-sales-simulator.json) |
+| Motorcycle Travel Simulator | 197503 | [197503-motorcycle-travel-simulator.json](./197503-motorcycle-travel-simulator.json) |
 | Motorcycles: World Championship | 312113 | [312113-motorcycles-world-championship.json](./312113-motorcycles-world-championship.json) |
 | Motordoom | 224614 | [224614-motordoom.json](./224614-motordoom.json) |
 | Motorfish | 376214 | [376214-motorfish.json](./376214-motorfish.json) |
@@ -18024,6 +18028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero One's Justice 2: DLC Pack 4 - Tetsutetsu Tetsutetsu | 168261 | [168261-my-hero-ones-justice-2-dlc-pack-4-tetsutetsu-tetsutetsu.json](./168261-my-hero-ones-justice-2-dlc-pack-4-tetsutetsu-tetsutetsu.json) |
 | My Hero One's Justice 2: DLC Pack 5 - Gentle & La Brava | 168257 | [168257-my-hero-ones-justice-2-dlc-pack-5-gentle-and-la-brava.json](./168257-my-hero-ones-justice-2-dlc-pack-5-gentle-and-la-brava.json) |
 | My Hero One's Justice 2: DLC Pack 6 - Hitoshi Shinso | 174545 | [174545-my-hero-ones-justice-2-dlc-pack-6-hitoshi-shinso.json](./174545-my-hero-ones-justice-2-dlc-pack-6-hitoshi-shinso.json) |
+| My Hero One's Justice 2: DLC Pack 9 - Midnight | 197508 | [197508-my-hero-ones-justice-2-dlc-pack-9-midnight.json](./197508-my-hero-ones-justice-2-dlc-pack-9-midnight.json) |
 | My Hero One's Justice 2: Outlaw Suit Set | 237917 | [237917-my-hero-ones-justice-2-outlaw-suit-set.json](./237917-my-hero-ones-justice-2-outlaw-suit-set.json) |
 | My Hero One's Justice 2: Pack 10 Yuga Aoyama | 202510 | [202510-my-hero-ones-justice-2-pack-10-yuga-aoyama.json](./202510-my-hero-ones-justice-2-pack-10-yuga-aoyama.json) |
 | My Hero One's Justice 2: Pack 7 Present Mic | 193195 | [193195-my-hero-ones-justice-2-pack-7-present-mic.json](./193195-my-hero-ones-justice-2-pack-7-present-mic.json) |
