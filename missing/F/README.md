@@ -2095,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faraday's Flaw | 310583 | [310583-faradays-flaw.json](./310583-faradays-flaw.json) |
 | Farafalla | 225285 | [225285-farafalla.json](./225285-farafalla.json) |
 | Farathan | 149703 | [149703-farathan.json](./149703-farathan.json) |
+| Faraway | 205868 | [205868-faraway.json](./205868-faraway.json) |
 | Faraway | 325275 | [325275-faraway.json](./325275-faraway.json) |
 | Faraway 3: Arctic Escape | 102700 | [102700-faraway-3-arctic-escape.json](./102700-faraway-3-arctic-escape.json) |
 | Faraway 4: Ancient Escape | 115052 | [115052-faraway-4-ancient-escape.json](./115052-faraway-4-ancient-escape.json) |
@@ -5315,6 +5316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Showdown | 303049 | [303049-fire-showdown.json](./303049-fire-showdown.json) |
 | Fire Squad | 212425 | [212425-fire-squad.json](./212425-fire-squad.json) |
 | Fire Station Renovation | 211256 | [211256-fire-station-renovation.json](./211256-fire-station-renovation.json) |
+| Fire Story | 205869 | [205869-fire-story.json](./205869-fire-story.json) |
 | Fire Strike | 317044 | [317044-fire-strike.json](./317044-fire-strike.json) |
 | Fire Theft | 141749 | [141749-fire-theft.json](./141749-fire-theft.json) |
 | Fire Thief | 286053 | [286053-fire-thief.json](./286053-fire-thief.json) |
@@ -11443,6 +11445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuel Tiracas | 77282 | [77282-fuel-tiracas.json](./77282-fuel-tiracas.json) |
 | Fuel37 | 288068 | [288068-fuel37.json](./288068-fuel37.json) |
 | Fuezon | 206451 | [206451-fuezon.json](./206451-fuezon.json) |
+| Fufufu | 205870 | [205870-fufufu.json](./205870-fufufu.json) |
 | Fuga: Melodies of Steel - Back to School Costume Pack | 228026 | [228026-fuga-melodies-of-steel-back-to-school-costume-pack.json](./228026-fuga-melodies-of-steel-back-to-school-costume-pack.json) |
 | Fuga: Melodies of Steel - Deluxe Edition | 164582 | [164582-fuga-melodies-of-steel-deluxe-edition.json](./164582-fuga-melodies-of-steel-deluxe-edition.json) |
 | Fuga: Melodies of Steel - Fantasy Costume Pack | 284455 | [284455-fuga-melodies-of-steel-fantasy-costume-pack.json](./284455-fuga-melodies-of-steel-fantasy-costume-pack.json) |
@@ -11713,6 +11716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funbag Fantasy: Sideboob Story | 127949 | [127949-funbag-fantasy-sideboob-story.json](./127949-funbag-fantasy-sideboob-story.json) |
 | Funbag Fantasy: Sideboob Story 2 | 131858 | [131858-funbag-fantasy-sideboob-story-2.json](./131858-funbag-fantasy-sideboob-story-2.json) |
 | Funball | 94946 | [94946-funball.json](./94946-funball.json) |
+| FunBall 3D | 205858 | [205858-funball-3d.json](./205858-funball-3d.json) |
 | Funbox Ultimate Slots Bundle | 317549 | [317549-funbox-ultimate-slots-bundle.json](./317549-funbox-ultimate-slots-bundle.json) |
 | Func Key | 383673 | [383673-func-key.json](./383673-func-key.json) |
 | Function | 119618 | [119618-function.json](./119618-function.json) |
