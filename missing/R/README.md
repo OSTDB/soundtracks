@@ -6684,6 +6684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringwold: The Last Collector | 414275 | [414275-ringwold-the-last-collector.json](./414275-ringwold-the-last-collector.json) |
 | Ringworld: Revenge of the Patriarch | 46727 | [46727-ringworld-revenge-of-the-patriarch.json](./46727-ringworld-revenge-of-the-patriarch.json) |
 | Ringwyrm | 410985 | [410985-ringwyrm.json](./410985-ringwyrm.json) |
+| Rinji Shuuden | 222085 | [222085-rinji-shuuden.json](./222085-rinji-shuuden.json) |
 | Rinlo | 133133 | [133133-rinlo.json](./133133-rinlo.json) |
 | Rinne | 182316 | [182316-rinne.json](./182316-rinne.json) |
 | Rinne | 263333 | [263333-rinne.json](./263333-rinne.json) |
@@ -9520,6 +9521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Containing Candle x4 | 142502 | [142502-room-containing-candle-x4.json](./142502-room-containing-candle-x4.json) |
 | Room Escape '1053' | 127376 | [127376-room-escape-1053.json](./127376-room-escape-1053.json) |
 | Room Escape in Voxels | 200440 | [200440-room-escape-in-voxels.json](./200440-room-escape-in-voxels.json) |
+| Room Escape: Prisoners Hero | 222068 | [222068-room-escape-prisoners-hero.json](./222068-room-escape-prisoners-hero.json) |
 | Room Escape: Scary Horror Game | 232026 | [232026-room-escape-scary-horror-game.json](./232026-room-escape-scary-horror-game.json) |
 | Room Escape: Strange Case 2 | 285859 | [285859-room-escape-strange-case-2.json](./285859-room-escape-strange-case-2.json) |
 | Room Explorer 2010 | 198511 | [198511-room-explorer-2010.json](./198511-room-explorer-2010.json) |
