@@ -4598,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Island | 341975 | [341975-escape-from-island.json](./341975-escape-from-island.json) |
 | Escape From Ithara | 224559 | [224559-escape-from-ithara.json](./224559-escape-from-ithara.json) |
 | Escape from Jay Is Games | 103169 | [103169-escape-from-jay-is-games.json](./103169-escape-from-jay-is-games.json) |
+| Escape from JiG | 183214 | [183214-escape-from-jig.json](./183214-escape-from-jig.json) |
 | Escape from Kabagahara | 134949 | [134949-escape-from-kabagahara.json](./134949-escape-from-kabagahara.json) |
 | Escape from Khoshima | 12994 | [12994-escape-from-khoshima.json](./12994-escape-from-khoshima.json) |
 | Escape From Kiss | 348896 | [348896-escape-from-kiss.json](./348896-escape-from-kiss.json) |
@@ -4743,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Voyna: Dead Forest | 113754 | [113754-escape-from-voyna-dead-forest.json](./113754-escape-from-voyna-dead-forest.json) |
 | Escape from Vulcan's Isle | 24861 | [24861-escape-from-vulcans-isle.json](./24861-escape-from-vulcans-isle.json) |
 | Escape From Warehouse | 312124 | [312124-escape-from-warehouse.json](./312124-escape-from-warehouse.json) |
+| Escape from witch cottage! | 183173 | [183173-escape-from-witch-cottage.json](./183173-escape-from-witch-cottage.json) |
 | Escape From Woomera | 172108 | [172108-escape-from-woomera.json](./172108-escape-from-woomera.json) |
 | Escape From Yandere | 388741 | [388741-escape-from-yandere.json](./388741-escape-from-yandere.json) |
 | Escape from Zellman Orbital | 31741 | [31741-escape-from-zellman-orbital.json](./31741-escape-from-zellman-orbital.json) |
@@ -4843,6 +4845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Purgatory | 197021 | [197021-escape-purgatory.json](./197021-escape-purgatory.json) |
 | Escape Qinglong Mountain Re | 295150 | [295150-escape-qinglong-mountain-re.json](./295150-escape-qinglong-mountain-re.json) |
 | Escape Quest 8:Peace Keeper | 99171 | [99171-escape-quest-8-peace-keeper.json](./99171-escape-quest-8-peace-keeper.json) |
+| Escape Reality | 183208 | [183208-escape-reality.json](./183208-escape-reality.json) |
 | Escape Rebooted | 128902 | [128902-escape-rebooted.json](./128902-escape-rebooted.json) |
 | Escape Road 2 | 327733 | [327733-escape-road-2.json](./327733-escape-road-2.json) |
 | Escape Room | 76510 | [76510-escape-room.json](./76510-escape-room.json) |
@@ -4976,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the School | 355217 | [355217-escape-the-school.json](./355217-escape-the-school.json) |
 | Escape The School | 377336 | [377336-escape-the-school.json](./377336-escape-the-school.json) |
 | Escape the Script | 378598 | [378598-escape-the-script.json](./378598-escape-the-script.json) |
+| Escape the Slender forest | 183167 | [183167-escape-the-slender-forest.json](./183167-escape-the-slender-forest.json) |
 | Escape the SoulKeeper's Forest | 176829 | [176829-escape-the-soulkeepers-forest.json](./176829-escape-the-soulkeepers-forest.json) |
 | Escape the Super Nerdy Dungeon: W100 Master Edition | 279523 | [279523-escape-the-super-nerdy-dungeon-w100-master-edition.json](./279523-escape-the-super-nerdy-dungeon-w100-master-edition.json) |
 | Escape the Tank | 153362 | [153362-escape-the-tank.json](./153362-escape-the-tank.json) |
@@ -5006,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Trick: Convenience Store | 85121 | [85121-escape-trick-convenience-store.json](./85121-escape-trick-convenience-store.json) |
 | Escape Tsunami: Take Brainrots! | 388523 | [388523-escape-tsunami-take-brainrots.json](./388523-escape-tsunami-take-brainrots.json) |
 | Escape Until Friday | 117591 | [117591-escape-until-friday.json](./117591-escape-until-friday.json) |
+| Escape Vauban | 183179 | [183179-escape-vauban.json](./183179-escape-vauban.json) |
 | Escape Velocity | 113399 | [113399-escape-velocity.json](./113399-escape-velocity.json) |
 | Escape Velocity | 334070 | [334070-escape-velocity.json](./334070-escape-velocity.json) |
 | Escape Velocity | 377579 | [377579-escape-velocity.json](./377579-escape-velocity.json) |
@@ -5050,6 +5055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escapeland | 264714 | [264714-escapeland.json](./264714-escapeland.json) |
 | EscapeMono | 273502 | [273502-escapemono.json](./273502-escapemono.json) |
 | Escapen't | 267801 | [267801-escapent.json](./267801-escapent.json) |
+| EscapeOne Web | 183177 | [183177-escapeone-web.json](./183177-escapeone-web.json) |
 | Escapepion | 221079 | [221079-escapepion.json](./221079-escapepion.json) |
 | EscapeRoute | 115507 | [115507-escaperoute.json](./115507-escaperoute.json) |
 | Escapers | 210853 | [210853-escapers.json](./210853-escapers.json) |
