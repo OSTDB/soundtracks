@@ -6322,6 +6322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinballistik | 52654 | [52654-pinballistik.json](./52654-pinballistik.json) |
 | Pinballistik Alien Tycoon Bundle | 118858 | [118858-pinballistik-alien-tycoon-bundle.json](./118858-pinballistik-alien-tycoon-bundle.json) |
 | Pinballtoon | 289299 | [289299-pinballtoon.json](./289299-pinballtoon.json) |
+| Pinballvania! | 177148 | [177148-pinballvania.json](./177148-pinballvania.json) |
 | Pinbo | 39987 | [39987-pinbo.json](./39987-pinbo.json) |
 | Pinbomb | 417419 | [417419-pinbomb.json](./417419-pinbomb.json) |
 | Pinbot | 295908 | [295908-pinbot.json](./295908-pinbot.json) |
@@ -11360,6 +11361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popo & Rob | 341561 | [341561-popo-and-rob.json](./341561-popo-and-rob.json) |
 | Popo Team | 195067 | [195067-popo-team.json](./195067-popo-team.json) |
 | Popo's Tower | 136731 | [136731-popos-tower.json](./136731-popos-tower.json) |
+| Popol Maya | 178182 | [178182-popol-maya.json](./178182-popol-maya.json) |
 | PoPoLoCrois Monogatari | 63015 | [63015-popolocrois-monogatari.json](./63015-popolocrois-monogatari.json) |
 | PoPoLoCrois Monogatari II | 63016 | [63016-popolocrois-monogatari-ii.json](./63016-popolocrois-monogatari-ii.json) |
 | PoPoLoCrois Monogatari: Narcia no Namida to Yousei no Fue | 82802 | [82802-popolocrois-monogatari-narcia-no-namida-to-yousei-no-fue.json](./82802-popolocrois-monogatari-narcia-no-namida-to-yousei-no-fue.json) |
@@ -14900,6 +14902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pryzm Chapter One: The Dark Unicorn | 24078 | [24078-pryzm-chapter-one-the-dark-unicorn.json](./24078-pryzm-chapter-one-the-dark-unicorn.json) |
 | PS! Flash | 178483 | [178483-ps-flash.json](./178483-ps-flash.json) |
 | PS!Outertale | 313279 | [313279-ps-outertale.json](./313279-ps-outertale.json) |
+| PS5 Simulator | 177149 | [177149-ps5-simulator.json](./177149-ps5-simulator.json) |
 | PSA World Tour Squash 2015 | 60327 | [60327-psa-world-tour-squash-2015.json](./60327-psa-world-tour-squash-2015.json) |
 | PSA: Peepy Saving Adventure! | 193614 | [193614-psa-peepy-saving-adventure.json](./193614-psa-peepy-saving-adventure.json) |
 | Psalm 2 | 402547 | [402547-psalm-2.json](./402547-psalm-2.json) |
@@ -16660,6 +16663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pylon: Rogue | 27745 | [27745-pylon-rogue.json](./27745-pylon-rogue.json) |
 | Pyme's Genocide | 182708 | [182708-pymes-genocide.json](./182708-pymes-genocide.json) |
 | PyNori | 336921 | [336921-pynori.json](./336921-pynori.json) |
+| Pyo | 177155 | [177155-pyo.json](./177155-pyo.json) |
 | Pyon-pyon Kyaruru no Mahjong-Biyori | 279678 | [279678-pyon-pyon-kyaruru-no-mahjong-biyori.json](./279678-pyon-pyon-kyaruru-no-mahjong-biyori.json) |
 | Pyongyang Racer | 64090 | [64090-pyongyang-racer.json](./64090-pyongyang-racer.json) |
 | Pyoro 64 | 142231 | [142231-pyoro-64.json](./142231-pyoro-64.json) |
