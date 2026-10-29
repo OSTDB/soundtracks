@@ -2371,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Partygoer! | 329035 | [329035-partygoer.json](./329035-partygoer.json) |
 | PartyIcons | 336943 | [336943-partyicons.json](./336943-partyicons.json) |
 | Partymasters | 90769 | [90769-partymasters.json](./90769-partymasters.json) |
+| Partypit Games | 214905 | [214905-partypit-games.json](./214905-partypit-games.json) |
 | PartySaur: Dino Mayhem | 261731 | [261731-partysaur-dino-mayhem.json](./261731-partysaur-dino-mayhem.json) |
 | PartySparkers | 227010 | [227010-partysparkers.json](./227010-partysparkers.json) |
 | PartyToons | 215555 | [215555-partytoons.json](./215555-partytoons.json) |
@@ -3614,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Arcade: Spider-Man 3: Bell Tower Brawl | 230181 | [230181-penny-arcade-spider-man-3-bell-tower-brawl.json](./230181-penny-arcade-spider-man-3-bell-tower-brawl.json) |
 | Penny Arcade's On the Rain-Slick Precipice of Darkness 3 | 14980 | [14980-penny-arcades-on-the-rain-slick-precipice-of-darkness-3.json](./14980-penny-arcades-on-the-rain-slick-precipice-of-darkness-3.json) |
 | Penny Black | 100651 | [100651-penny-black.json](./100651-penny-black.json) |
+| Penny Blood | 214912 | [214912-penny-blood.json](./214912-penny-blood.json) |
 | Penny Dell Jumbo Crosswords | 89199 | [89199-penny-dell-jumbo-crosswords.json](./89199-penny-dell-jumbo-crosswords.json) |
 | Penny Dell Jumbo Crosswords 2 | 204494 | [204494-penny-dell-jumbo-crosswords-2.json](./204494-penny-dell-jumbo-crosswords-2.json) |
 | Penny Dell Sudoku | 310702 | [310702-penny-dell-sudoku.json](./310702-penny-dell-sudoku.json) |
@@ -12426,6 +12428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Girls Escape Plus | 275720 | [275720-pretty-girls-escape-plus.json](./275720-pretty-girls-escape-plus.json) |
 | Pretty Girls Four Kings Solitaire | 195797 | [195797-pretty-girls-four-kings-solitaire.json](./195797-pretty-girls-four-kings-solitaire.json) |
 | Pretty Girls Game Collection | 203094 | [203094-pretty-girls-game-collection.json](./203094-pretty-girls-game-collection.json) |
+| Pretty Girls Game Collection 2 | 214880 | [214880-pretty-girls-game-collection-2.json](./214880-pretty-girls-game-collection-2.json) |
 | Pretty Girls Game Collection 4 | 342770 | [342770-pretty-girls-game-collection-4.json](./342770-pretty-girls-game-collection-4.json) |
 | Pretty Girls Mahjong Solitaire | 34716 | [34716-pretty-girls-mahjong-solitaire.json](./34716-pretty-girls-mahjong-solitaire.json) |
 | Pretty Girls Mahjong Solitaire: Blue | 170376 | [170376-pretty-girls-mahjong-solitaire-blue.json](./170376-pretty-girls-mahjong-solitaire-blue.json) |
@@ -12573,6 +12576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Survival Wars | 310150 | [310150-primal-survival-wars.json](./310150-primal-survival-wars.json) |
 | Primal Survivors | 224627 | [224627-primal-survivors.json](./224627-primal-survivors.json) |
 | Primal Threat | 173048 | [173048-primal-threat.json](./173048-primal-threat.json) |
+| Primal: Collector's Edition | 214920 | [214920-primal-collectors-edition.json](./214920-primal-collectors-edition.json) |
 | Primals.io | 80884 | [80884-primals-io.json](./80884-primals-io.json) |
 | Primarch | 238939 | [238939-primarch.json](./238939-primarch.json) |
 | Primary | 200922 | [200922-primary.json](./200922-primary.json) |
