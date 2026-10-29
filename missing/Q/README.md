@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quin | 152813 | [152813-quin.json](./152813-quin.json) |
 | Quinb: 4 Players Reaction Game | 369891 | [369891-quinb-4-players-reaction-game.json](./369891-quinb-4-players-reaction-game.json) |
 | Quing's Quest VII: The Death of Videogames | 128593 | [128593-quings-quest-vii-the-death-of-videogames.json](./128593-quings-quest-vii-the-death-of-videogames.json) |
+| Quinidiom | 226988 | [226988-quinidiom.json](./226988-quinidiom.json) |
 | Quink | 15353 | [15353-quink.json](./15353-quink.json) |
 | Quinn & Flynn | 272728 | [272728-quinn-and-flynn.json](./272728-quinn-and-flynn.json) |
 | Quinn's Aquarium | 354994 | [354994-quinns-aquarium.json](./354994-quinns-aquarium.json) |
@@ -975,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quintus and the Absent Truth | 140487 | [140487-quintus-and-the-absent-truth.json](./140487-quintus-and-the-absent-truth.json) |
 | Quip Anomaly | 31938 | [31938-quip-anomaly.json](./31938-quip-anomaly.json) |
 | Quiplash | 11588 | [11588-quiplash.json](./11588-quiplash.json) |
+| Quiplash: Quip Pack 1 | 226987 | [226987-quiplash-quip-pack-1.json](./226987-quiplash-quip-pack-1.json) |
 | Quirk | 139801 | [139801-quirk.json](./139801-quirk.json) |
 | Quirk! Origins: A Jester's Tale | 274516 | [274516-quirk-origins-a-jesters-tale.json](./274516-quirk-origins-a-jesters-tale.json) |
 | Quirks | 209745 | [209745-quirks.json](./209745-quirks.json) |
