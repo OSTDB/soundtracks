@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quasar Kid | 183788 | [183788-quasar-kid.json](./183788-quasar-kid.json) |
 | Quasara | 110191 | [110191-quasara.json](./110191-quasara.json) |
 | Quase Rosa | 373857 | [373857-quase-rosa.json](./373857-quase-rosa.json) |
+| Quaser One | 226493 | [226493-quaser-one.json](./226493-quaser-one.json) |
 | Quash | 137473 | [137473-quash.json](./137473-quash.json) |
 | Quasimodo | 25091 | [25091-quasimodo.json](./25091-quasimodo.json) |
 | Quasimorph | 216947 | [216947-quasimorph.json](./216947-quasimorph.json) |
