@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wands and Witches | 140835 | [140835-wands-and-witches.json](./140835-wands-and-witches.json) |
 | Wandsmith | 396464 | [396464-wandsmith.json](./396464-wandsmith.json) |
 | Wanech's Z.O.O. | 369907 | [369907-wanechs-z-o-o.json](./369907-wanechs-z-o-o.json) |
+| Wang fried | 190843 | [190843-wang-fried.json](./190843-wang-fried.json) |
 | Wang Nukem | 308371 | [308371-wang-nukem.json](./308371-wang-nukem.json) |
 | Wangan Dead Heat | 213763 | [213763-wangan-dead-heat.json](./213763-wangan-dead-heat.json) |
 | Wangan Dead Heat + Real Arrange | 213942 | [213942-wangan-dead-heat-real-arrange.json](./213942-wangan-dead-heat-real-arrange.json) |
@@ -1094,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wardogz | 215668 | [215668-wardogz.json](./215668-wardogz.json) |
 | Wardoll | 339304 | [339304-wardoll.json](./339304-wardoll.json) |
 | WarDoom Wargame | 273393 | [273393-wardoom-wargame.json](./273393-wardoom-wargame.json) |
+| Wardrive | 190869 | [190869-wardrive.json](./190869-wardrive.json) |
 | Wardrum | 380420 | [380420-wardrum.json](./380420-wardrum.json) |
 | Wardwell House VR | 163966 | [163966-wardwell-house-vr.json](./163966-wardwell-house-vr.json) |
 | Ware's Laboratory | 373111 | [373111-wares-laboratory.json](./373111-wares-laboratory.json) |
@@ -2045,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wastelanders | 362823 | [362823-wastelanders.json](./362823-wastelanders.json) |
 | Wastelands | 79221 | [79221-wastelands.json](./79221-wastelands.json) |
 | WastePunk | 258430 | [258430-wastepunk.json](./258430-wastepunk.json) |
+| Wasting Away | 190842 | [190842-wasting-away.json](./190842-wasting-away.json) |
 | Wasure Yuki | 283804 | [283804-wasure-yuki.json](./283804-wasure-yuki.json) |
 | Wat A Life | 129023 | [129023-wat-a-life.json](./129023-wat-a-life.json) |
 | Wat? | 244277 | [244277-wat.json](./244277-wat.json) |
@@ -7180,6 +7183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Anikids | 52123 | [52123-world-of-anikids.json](./52123-world-of-anikids.json) |
 | World of Art: Learn with Jigsaw Puzzles | 162216 | [162216-world-of-art-learn-with-jigsaw-puzzles.json](./162216-world-of-art-learn-with-jigsaw-puzzles.json) |
 | World of Art: Learn with Jigsaw Puzzles - Pixel Art by Numbers | 254652 | [254652-world-of-art-learn-with-jigsaw-puzzles-pixel-art-by-numbers.json](./254652-world-of-art-learn-with-jigsaw-puzzles-pixel-art-by-numbers.json) |
+| World of Barn | 190833 | [190833-world-of-barn.json](./190833-world-of-barn.json) |
 | World of Battles: Morningstar | 23540 | [23540-world-of-battles-morningstar.json](./23540-world-of-battles-morningstar.json) |
 | World of Bingo | 97427 | [97427-world-of-bingo.json](./97427-world-of-bingo.json) |
 | World of Blade: Zombie Slasher | 245324 | [245324-world-of-blade-zombie-slasher.json](./245324-world-of-blade-zombie-slasher.json) |
