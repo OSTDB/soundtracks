@@ -5155,6 +5155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Eater: Off Shot - Twin Pack Vol. 6 | 216268 | [216268-god-eater-off-shot-twin-pack-vol-6.json](./216268-god-eater-off-shot-twin-pack-vol-6.json) |
 | God Eater: Off Shot - Twin Pack Vol. 7 | 216269 | [216269-god-eater-off-shot-twin-pack-vol-7.json](./216269-god-eater-off-shot-twin-pack-vol-7.json) |
 | God Eater: Resonant Ops | 74176 | [74176-god-eater-resonant-ops.json](./74176-god-eater-resonant-ops.json) |
+| God Edge | 202484 | [202484-god-edge.json](./202484-god-edge.json) |
 | GoD Factory: Wingmen | 12514 | [12514-god-factory-wingmen.json](./12514-god-factory-wingmen.json) |
 | God Fishing | 358872 | [358872-god-fishing.json](./358872-god-fishing.json) |
 | God For A Day | 277267 | [277267-god-for-a-day.json](./277267-god-for-a-day.json) |
@@ -5281,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess Krypton Gold System | 342023 | [342023-goddess-krypton-gold-system.json](./342023-goddess-krypton-gold-system.json) |
 | Goddess Legion | 347739 | [347739-goddess-legion.json](./347739-goddess-legion.json) |
 | Goddess of Card War | 148995 | [148995-goddess-of-card-war.json](./148995-goddess-of-card-war.json) |
+| Goddess of Card War 2 | 202518 | [202518-goddess-of-card-war-2.json](./202518-goddess-of-card-war-2.json) |
 | Goddess of Card War: DLC-1 | 170420 | [170420-goddess-of-card-war-dlc-1.json](./170420-goddess-of-card-war-dlc-1.json) |
 | Goddess of Card War: DLC-2 | 170419 | [170419-goddess-of-card-war-dlc-2.json](./170419-goddess-of-card-war-dlc-2.json) |
 | Goddess of Fate IV: Lilith | 281447 | [281447-goddess-of-fate-iv-lilith.json](./281447-goddess-of-fate-iv-lilith.json) |
@@ -7987,6 +7989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Start | 55992 | [55992-grid-start.json](./55992-grid-start.json) |
 | Grid Tycoon | 392970 | [392970-grid-tycoon.json](./392970-grid-tycoon.json) |
 | Grid Wars II | 51233 | [51233-grid-wars-ii.json](./51233-grid-wars-ii.json) |
+| Grid Words | 202492 | [202492-grid-words.json](./202492-grid-words.json) |
 | Grid-M | 257921 | [257921-grid-m.json](./257921-grid-m.json) |
 | Grid-Tsugi | 386538 | [386538-grid-tsugi.json](./386538-grid-tsugi.json) |
 | Grid: Autosport - Drag Pack | 365684 | [365684-grid-autosport-drag-pack.json](./365684-grid-autosport-drag-pack.json) |
@@ -8197,6 +8200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimhook | 277334 | [277334-grimhook.json](./277334-grimhook.json) |
 | Grimhunt | 201446 | [201446-grimhunt.json](./201446-grimhunt.json) |
 | GrimKeep | 339144 | [339144-grimkeep.json](./339144-grimkeep.json) |
+| Grimland | 202513 | [202513-grimland.json](./202513-grimland.json) |
 | Grimlands | 65048 | [65048-grimlands.json](./65048-grimlands.json) |
 | Grimlight | 200727 | [200727-grimlight.json](./200727-grimlight.json) |
 | Grimlord | 204833 | [204833-grimlord.json](./204833-grimlord.json) |
