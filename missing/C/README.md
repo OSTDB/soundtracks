@@ -1073,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can't Drive This | 27097 | [27097-cant-drive-this.json](./27097-cant-drive-this.json) |
 | Can't Even See the Sky | 361922 | [361922-cant-even-see-the-sky.json](./361922-cant-even-see-the-sky.json) |
 | Can't Hold My Feelings | 403434 | [403434-cant-hold-my-feelings.json](./403434-cant-hold-my-feelings.json) |
+| Can't Let Go | 185841 | [185841-cant-let-go.json](./185841-cant-let-go.json) |
 | Can't Live Without Electricity | 242944 | [242944-cant-live-without-electricity.json](./242944-cant-live-without-electricity.json) |
 | Can't Run Frm Evil | 262294 | [262294-cant-run-frm-evil.json](./262294-cant-run-frm-evil.json) |
 | Can't Sleep! | 333627 | [333627-cant-sleep.json](./333627-cant-sleep.json) |
@@ -2714,6 +2715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Network: Punch Time Explosion | 2798 | [2798-cartoon-network-punch-time-explosion.json](./2798-cartoon-network-punch-time-explosion.json) |
 | Cartoon Network: Punch Time Explosion XL | 21151 | [21151-cartoon-network-punch-time-explosion-xl.json](./21151-cartoon-network-punch-time-explosion-xl.json) |
 | Cartoon Network: Toon Jam! | 206759 | [206759-cartoon-network-toon-jam.json](./206759-cartoon-network-toon-jam.json) |
+| Cartoon Network: Trick or Treat Beat! | 185824 | [185824-cartoon-network-trick-or-treat-beat.json](./185824-cartoon-network-trick-or-treat-beat.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
 | Cartoon Rage | 239216 | [239216-cartoon-rage.json](./239216-cartoon-rage.json) |
 | Cartoon Roach: Fun Ninja Game | 175599 | [175599-cartoon-roach-fun-ninja-game.json](./175599-cartoon-roach-fun-ninja-game.json) |
@@ -9883,7 +9885,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: God | 305947 | [305947-codename-god.json](./305947-codename-god.json) |
 | Codename: Gordon | 11749 | [11749-codename-gordon.json](./11749-codename-gordon.json) |
 | Codename: Kids Next Door - Flight of the Hamsters | 234535 | [234535-codename-kids-next-door-flight-of-the-hamsters.json](./234535-codename-kids-next-door-flight-of-the-hamsters.json) |
+| Codename: Kids Next Door - Ice Creamed | 185822 | [185822-codename-kids-next-door-ice-creamed.json](./185822-codename-kids-next-door-ice-creamed.json) |
+| Codename: Kids Next Door - Numbuh Generator | 185823 | [185823-codename-kids-next-door-numbuh-generator.json](./185823-codename-kids-next-door-numbuh-generator.json) |
 | Codename: Kids Next Door - Operation S.O.D.A. | 49159 | [49159-codename-kids-next-door-operation-s-o-d-a.json](./49159-codename-kids-next-door-operation-s-o-d-a.json) |
+| Codename: Kids Next Door - Operation S.T.A.R.T.U.P. | 185820 | [185820-codename-kids-next-door-operation-s-t-a-r-t-u-p.json](./185820-codename-kids-next-door-operation-s-t-a-r-t-u-p.json) |
+| Codename: Kids Next Door - Operation T.R.I.C.K. or T.R.E.A.T. | 185825 | [185825-codename-kids-next-door-operation-t-r-i-c-k-or-t-r-e-a-t.json](./185825-codename-kids-next-door-operation-t-r-i-c-k-or-t-r-e-a-t.json) |
 | Codename: Kids Next Door - Operation: G.R.A.D.U.A.T.E.S. | 242161 | [242161-codename-kids-next-door-operation-g-r-a-d-u-a-t-e-s.json](./242161-codename-kids-next-door-operation-g-r-a-d-u-a-t-e-s.json) |
 | Codename: Kids Next Door - Operation: V.I.D.E.O.G.A.M.E. | 2812 | [2812-codename-kids-next-door-operation-v-i-d-e-o-g-a-m-e.json](./2812-codename-kids-next-door-operation-v-i-d-e-o-g-a-m-e.json) |
 | Codename: Lovania | 384246 | [384246-codename-lovania.json](./384246-codename-lovania.json) |
@@ -10255,6 +10261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collateral Damages | 345925 | [345925-collateral-damages.json](./345925-collateral-damages.json) |
 | Collateral Damages 2 | 345927 | [345927-collateral-damages-2.json](./345927-collateral-damages-2.json) |
 | Collateral Dungeon | 290958 | [290958-collateral-dungeon.json](./290958-collateral-dungeon.json) |
+| Collateral Thinking DX | 185859 | [185859-collateral-thinking-dx.json](./185859-collateral-thinking-dx.json) |
 | Collecstar | 261744 | [261744-collecstar.json](./261744-collecstar.json) |
 | Collect a Brainrot | 382844 | [382844-collect-a-brainrot.json](./382844-collect-a-brainrot.json) |
 | Collect Baby Oil | 329679 | [329679-collect-baby-oil.json](./329679-collect-baby-oil.json) |
@@ -18084,6 +18091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk Messenger | 169830 | [169830-cyberpunk-messenger.json](./169830-cyberpunk-messenger.json) |
 | Cyberpunk Paradise Elysium: The Visual Novel | 303867 | [303867-cyberpunk-paradise-elysium-the-visual-novel.json](./303867-cyberpunk-paradise-elysium-the-visual-novel.json) |
 | Cyberpunk Parkour Uprising | 309003 | [309003-cyberpunk-parkour-uprising.json](./309003-cyberpunk-parkour-uprising.json) |
+| Cyberpunk Runner | 185818 | [185818-cyberpunk-runner.json](./185818-cyberpunk-runner.json) |
 | Cyberpunk Samurai | 309006 | [309006-cyberpunk-samurai.json](./309006-cyberpunk-samurai.json) |
 | Cyberpunk Samurai VR | 192003 | [192003-cyberpunk-samurai-vr.json](./192003-cyberpunk-samurai-vr.json) |
 | Cyberpunk Sex | 277366 | [277366-cyberpunk-sex.json](./277366-cyberpunk-sex.json) |
