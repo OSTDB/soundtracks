@@ -1450,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egglomania | 175256 | [175256-egglomania.json](./175256-egglomania.json) |
 | Eggman | 309664 | [309664-eggman.json](./309664-eggman.json) |
 | Eggman | 339727 | [339727-eggman.json](./339727-eggman.json) |
+| Eggman Hates Furries | 213183 | [213183-eggman-hates-furries.json](./213183-eggman-hates-furries.json) |
 | Eggman no Kazuate Panic! | 261249 | [261249-eggman-no-kazuate-panic.json](./261249-eggman-no-kazuate-panic.json) |
 | Eggman Strikes | 330956 | [330956-eggman-strikes.json](./330956-eggman-strikes.json) |
 | Eggnogg+ | 50288 | [50288-eggnogg.json](./50288-eggnogg.json) |
@@ -7133,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Auto Fishing | 364426 | [364426-extreme-auto-fishing.json](./364426-extreme-auto-fishing.json) |
 | Extreme Bankikki | 204247 | [204247-extreme-bankikki.json](./204247-extreme-bankikki.json) |
 | Extreme Basketball | 86104 | [86104-extreme-basketball.json](./86104-extreme-basketball.json) |
+| Extreme Bike X | 213142 | [213142-extreme-bike-x.json](./213142-extreme-bike-x.json) |
 | Extreme Bikers | 234473 | [234473-extreme-bikers.json](./234473-extreme-bikers.json) |
 | Extreme Bus Driver 2024 | 261401 | [261401-extreme-bus-driver-2024.json](./261401-extreme-bus-driver-2024.json) |
 | Extreme Bus Driver Simulator | 261763 | [261763-extreme-bus-driver-simulator.json](./261763-extreme-bus-driver-simulator.json) |
