@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Marriage Project: Starting from 9 Years Old | 151095 | [151095-happy-marriage-project-starting-from-9-years-old.json](./151095-happy-marriage-project-starting-from-9-years-old.json) |
 | Happy Mask | 263209 | [263209-happy-mask.json](./263209-happy-mask.json) |
 | Happy Maze | 30944 | [30944-happy-maze.json](./30944-happy-maze.json) |
+| Happy Merge Home | 216035 | [216035-happy-merge-home.json](./216035-happy-merge-home.json) |
 | Happy Mice | 246460 | [246460-happy-mice.json](./246460-happy-mice.json) |
 | Happy Mining | 195163 | [195163-happy-mining.json](./195163-happy-mining.json) |
 | Happy Monster | 295366 | [295366-happy-monster.json](./295366-happy-monster.json) |
@@ -2204,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku Logic Paint | 144758 | [144758-hatsune-miku-logic-paint.json](./144758-hatsune-miku-logic-paint.json) |
 | Hatsune Miku Logic Paint S | 144759 | [144759-hatsune-miku-logic-paint-s.json](./144759-hatsune-miku-logic-paint-s.json) |
 | Hatsune Miku Logic Paint S+ | 353940 | [353940-hatsune-miku-logic-paint-s.json](./353940-hatsune-miku-logic-paint-s.json) |
+| Hatsune Miku Tycoon | 216034 | [216034-hatsune-miku-tycoon.json](./216034-hatsune-miku-tycoon.json) |
 | Hatsune Miku VR | 89847 | [89847-hatsune-miku-vr.json](./89847-hatsune-miku-vr.json) |
 | Hatsune Miku VR: 5 Songs pack 1 | 223587 | [223587-hatsune-miku-vr-5-songs-pack-1.json](./223587-hatsune-miku-vr-5-songs-pack-1.json) |
 | Hatsune Miku VR: 5 Songs pack 2 | 223589 | [223589-hatsune-miku-vr-5-songs-pack-2.json](./223589-hatsune-miku-vr-5-songs-pack-2.json) |
@@ -2702,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Shot God | 79523 | [79523-head-shot-god.json](./79523-head-shot-god.json) |
 | Head Soccer | 260094 | [260094-head-soccer.json](./260094-head-soccer.json) |
 | Head Soccer | 87430 | [87430-head-soccer.json](./87430-head-soccer.json) |
+| Head Strike: 1v1 Soccer Games | 216033 | [216033-head-strike-1v1-soccer-games.json](./216033-head-strike-1v1-soccer-games.json) |
 | Head to Head Basketball | 245467 | [245467-head-to-head-basketball.json](./245467-head-to-head-basketball.json) |
 | Head to Head Football | 217833 | [217833-head-to-head-football.json](./217833-head-to-head-football.json) |
 | Head to Head Hockey | 245466 | [245466-head-to-head-hockey.json](./245466-head-to-head-hockey.json) |
@@ -5103,6 +5106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Masters | 104812 | [104812-hero-masters.json](./104812-hero-masters.json) |
 | Hero Must Die | 60035 | [60035-hero-must-die.json](./60035-hero-must-die.json) |
 | Hero Must Die. Again | 127334 | [127334-hero-must-die-again.json](./127334-hero-must-die-again.json) |
+| Hero Nexus | 216032 | [216032-hero-nexus.json](./216032-hero-nexus.json) |
 | Hero of Allacrost | 127885 | [127885-hero-of-allacrost.json](./127885-hero-of-allacrost.json) |
 | Hero of Fate | 250886 | [250886-hero-of-fate.json](./250886-hero-of-fate.json) |
 | Hero of Fate: Darkness Land | 292647 | [292647-hero-of-fate-darkness-land.json](./292647-hero-of-fate-darkness-land.json) |
@@ -5213,6 +5217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Hour 2 | 381190 | [381190-heros-hour-2.json](./381190-heros-hour-2.json) |
 | Hero's Hour: Deluxe Edition | 251551 | [251551-heros-hour-deluxe-edition.json](./251551-heros-hour-deluxe-edition.json) |
 | Hero's Ignition | 373743 | [373743-heros-ignition.json](./373743-heros-ignition.json) |
+| Hero's Journey | 216013 | [216013-heros-journey.json](./216013-heros-journey.json) |
 | Hero's Journey | 368005 | [368005-heros-journey.json](./368005-heros-journey.json) |
 | Hero's Odyssey | 330675 | [330675-heros-odyssey.json](./330675-heros-odyssey.json) |
 | Hero's Puzzle Path | 57572 | [57572-heros-puzzle-path.json](./57572-heros-puzzle-path.json) |
@@ -6529,6 +6534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hifuu Bouenkyou | 222505 | [222505-hifuu-bouenkyou.json](./222505-hifuu-bouenkyou.json) |
 | Hifuu Fragment | 161330 | [161330-hifuu-fragment.json](./161330-hifuu-fragment.json) |
 | Hifuu Nightmare Diary: Violet Detector. | 107253 | [107253-hifuu-nightmare-diary-violet-detector.json](./107253-hifuu-nightmare-diary-violet-detector.json) |
+| Higan: Eruthyll | 216031 | [216031-higan-eruthyll.json](./216031-higan-eruthyll.json) |
 | Higanbana | 122634 | [122634-higanbana.json](./122634-higanbana.json) |
 | Higanbana | 308896 | [308896-higanbana.json](./308896-higanbana.json) |
 | Higanbana no Saku Yoru ni: The Second Night | 64864 | [64864-higanbana-no-saku-yoru-ni-the-second-night.json](./64864-higanbana-no-saku-yoru-ni-the-second-night.json) |
@@ -8588,6 +8594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope Lost | 338678 | [338678-hope-lost.json](./338678-hope-lost.json) |
 | Hope of Bion | 260612 | [260612-hope-of-bion.json](./260612-hope-of-bion.json) |
 | Hope of humanity | 102963 | [102963-hope-of-humanity.json](./102963-hope-of-humanity.json) |
+| Hope of Last Survivors: Game | 216030 | [216030-hope-of-last-survivors-game.json](./216030-hope-of-last-survivors-game.json) |
 | Hope of Taru | 317709 | [317709-hope-of-taru.json](./317709-hope-of-taru.json) |
 | Hope Returns | 183348 | [183348-hope-returns.json](./183348-hope-returns.json) |
 | Hope Springs Eternal | 94227 | [94227-hope-springs-eternal.json](./94227-hope-springs-eternal.json) |
@@ -8821,6 +8828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Adventure: Zombie Edition VR | 243061 | [243061-horror-adventure-zombie-edition-vr.json](./243061-horror-adventure-zombie-edition-vr.json) |
 | Horror Amusement Park | 249213 | [249213-horror-amusement-park.json](./249213-horror-amusement-park.json) |
 | Horror Bosses - Clicker | 95818 | [95818-horror-bosses-clicker.json](./95818-horror-bosses-clicker.json) |
+| Horror Brawl | 216029 | [216029-horror-brawl.json](./216029-horror-brawl.json) |
 | Horror Break | 187751 | [187751-horror-break.json](./187751-horror-break.json) |
 | Horror Break: Head to Head | 214528 | [214528-horror-break-head-to-head.json](./214528-horror-break-head-to-head.json) |
 | Horror Bundle Vol. 1 | 147795 | [147795-horror-bundle-vol-1.json](./147795-horror-bundle-vol-1.json) |
