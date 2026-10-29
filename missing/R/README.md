@@ -1622,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Raiders | 169639 | [169639-random-raiders.json](./169639-random-raiders.json) |
 | Random Rooms | 86761 | [86761-random-rooms.json](./86761-random-rooms.json) |
 | Random Thing Game | 236278 | [236278-random-thing-game.json](./236278-random-thing-game.json) |
+| Random Three Kingdoms | 208141 | [208141-random-three-kingdoms.json](./208141-random-three-kingdoms.json) |
 | Random War | 118807 | [118807-random-war.json](./118807-random-war.json) |
 | Random-Pac | 187085 | [187085-random-pac.json](./187085-random-pac.json) |
 | Randomax | 319752 | [319752-randomax.json](./319752-randomax.json) |
@@ -2956,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Racing | 137368 | [137368-rebel-racing.json](./137368-rebel-racing.json) |
 | Rebel Raiders: Operation Nighthawk | 5120 | [5120-rebel-raiders-operation-nighthawk.json](./5120-rebel-raiders-operation-nighthawk.json) |
 | Rebel Reenactment: Battle of the Wilderness | 164429 | [164429-rebel-reenactment-battle-of-the-wilderness.json](./164429-rebel-reenactment-battle-of-the-wilderness.json) |
+| Rebel Riders | 208142 | [208142-rebel-riders.json](./208142-rebel-riders.json) |
 | Rebel Roar | 408736 | [408736-rebel-roar.json](./408736-rebel-roar.json) |
 | Rebel Runner: Operation - Digital Code | 209258 | [209258-rebel-runner-operation-digital-code.json](./209258-rebel-runner-operation-digital-code.json) |
 | Rebel Spirit! | 339156 | [339156-rebel-spirit.json](./339156-rebel-spirit.json) |
@@ -3003,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirth of Fortune | 174322 | [174322-rebirth-of-fortune.json](./174322-rebirth-of-fortune.json) |
 | Rebirth of Island | 33348 | [33348-rebirth-of-island.json](./33348-rebirth-of-island.json) |
 | Rebirth of Myths: Dragonborn | 297616 | [297616-rebirth-of-myths-dragonborn.json](./297616-rebirth-of-myths-dragonborn.json) |
+| Rebirth Online | 208143 | [208143-rebirth-online.json](./208143-rebirth-online.json) |
 | Rebirth RC | 147808 | [147808-rebirth-rc.json](./147808-rebirth-rc.json) |
 | Rebirth-Land of Zombies | 189122 | [189122-rebirth-land-of-zombies.json](./189122-rebirth-land-of-zombies.json) |
 | Rebirth: Beware of Mr.Wang | 174114 | [174114-rebirth-beware-of-mr-wang.json](./174114-rebirth-beware-of-mr-wang.json) |
@@ -5090,6 +5093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restart Heart | 341858 | [341858-restart-heart.json](./341858-restart-heart.json) |
 | Restart ShuHan Dynasty: Origin | 330663 | [330663-restart-shuhan-dynasty-origin.json](./330663-restart-shuhan-dynasty-origin.json) |
 | Restart Your Life Adventures of Tylenol | 207668 | [207668-restart-your-life-adventures-of-tylenol.json](./207668-restart-your-life-adventures-of-tylenol.json) |
+| Restart: Dawn | 208144 | [208144-restart-dawn.json](./208144-restart-dawn.json) |
 | Restarting Systems: Smoke's Bizarre Adventure | 378799 | [378799-restarting-systems-smokes-bizarre-adventure.json](./378799-restarting-systems-smokes-bizarre-adventure.json) |
 | Restaurant at the End of Time | 257880 | [257880-restaurant-at-the-end-of-time.json](./257880-restaurant-at-the-end-of-time.json) |
 | Restaurant Battle | 256641 | [256641-restaurant-battle.json](./256641-restaurant-battle.json) |
@@ -8655,6 +8659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky Ride | 169801 | [169801-rocky-ride.json](./169801-rocky-ride.json) |
 | Rocky Rodent | 42648 | [42648-rocky-rodent.json](./42648-rocky-rodent.json) |
 | Rocky Stairs | 230726 | [230726-rocky-stairs.json](./230726-rocky-stairs.json) |
+| Rocky Towers | 208147 | [208147-rocky-towers.json](./208147-rocky-towers.json) |
 | Rocky Towers: Puzzle Defense | 237378 | [237378-rocky-towers-puzzle-defense.json](./237378-rocky-towers-puzzle-defense.json) |
 | Rocky Wings | 265184 | [265184-rocky-wings.json](./265184-rocky-wings.json) |
 | Rocky's Boots | 72978 | [72978-rockys-boots.json](./72978-rockys-boots.json) |
@@ -10047,6 +10052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rowan's Battle of Britain | 73818 | [73818-rowans-battle-of-britain.json](./73818-rowans-battle-of-britain.json) |
 | RowBot Rally | 256258 | [256258-rowbot-rally.json](./256258-rowbot-rally.json) |
 | Rowbots | 224804 | [224804-rowbots.json](./224804-rowbots.json) |
+| Rowdy City Wrestling | 208148 | [208148-rowdy-city-wrestling.json](./208148-rowdy-city-wrestling.json) |
 | Rowdy Rascals | 266593 | [266593-rowdy-rascals.json](./266593-rowdy-rascals.json) |
 | Rowdy Rudy II: PowerTrip | 141700 | [141700-rowdy-rudy-ii-powertrip.json](./141700-rowdy-rudy-ii-powertrip.json) |
 | Rowdy Rudy's Revenge | 141699 | [141699-rowdy-rudys-revenge.json](./141699-rowdy-rudys-revenge.json) |
@@ -10155,6 +10161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Life: Hard to be a Queen | 120410 | [120410-royal-life-hard-to-be-a-queen.json](./120410-royal-life-hard-to-be-a-queen.json) |
 | Royal Mahjong | 64443 | [64443-royal-mahjong.json](./64443-royal-mahjong.json) |
 | Royal Mahjong King's Journey | 195763 | [195763-royal-mahjong-kings-journey.json](./195763-royal-mahjong-kings-journey.json) |
+| Royal Match | 208146 | [208146-royal-match.json](./208146-royal-match.json) |
 | Royal Merchant | 122167 | [122167-royal-merchant.json](./122167-royal-merchant.json) |
 | Royal Merge! | 296078 | [296078-royal-merge.json](./296078-royal-merge.json) |
 | Royal Montgomery Raceways | 321418 | [321418-royal-montgomery-raceways.json](./321418-royal-montgomery-raceways.json) |
