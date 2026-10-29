@@ -2459,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi to Mezameru Ikutsuka no Houhou | 398997 | [398997-kimi-to-mezameru-ikutsuka-no-houhou.json](./398997-kimi-to-mezameru-ikutsuka-no-houhou.json) |
 | Kimi to Yumemishi | 194582 | [194582-kimi-to-yumemishi.json](./194582-kimi-to-yumemishi.json) |
 | Kimi wa Hero ~ Taiketsu! | 74766 | [74766-kimi-wa-hero-taiketsu.json](./74766-kimi-wa-hero-taiketsu.json) |
+| Kimikare: Shingakki | 222624 | [222624-kimikare-shingakki.json](./222624-kimikare-shingakki.json) |
 | KimiKiss: Chotto Matome Gekijou | 411517 | [411517-kimikiss-chotto-matome-gekijou.json](./411517-kimikiss-chotto-matome-gekijou.json) |
 | KimiKiss: Chotto Omake Gekijou | 411521 | [411521-kimikiss-chotto-omake-gekijou.json](./411521-kimikiss-chotto-omake-gekijou.json) |
 | KimiMuzi: The Merciless Queen of the Pigs | 381774 | [381774-kimimuzi-the-merciless-queen-of-the-pigs.json](./381774-kimimuzi-the-merciless-queen-of-the-pigs.json) |
@@ -4344,6 +4345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi no Tsuzuki wa Honeymoon de | 238412 | [238412-koi-no-tsuzuki-wa-honeymoon-de.json](./238412-koi-no-tsuzuki-wa-honeymoon-de.json) |
 | Koi Puncher MMXVIII | 184972 | [184972-koi-puncher-mmxviii.json](./184972-koi-puncher-mmxviii.json) |
 | Koi Remake | 212444 | [212444-koi-remake.json](./212444-koi-remake.json) |
+| Koi Sentai Love & Peace the P.S.P. | 222628 | [222628-koi-sentai-love-and-peace-the-p-s-p.json](./222628-koi-sentai-love-and-peace-the-p-s-p.json) |
 | Koi Shiyo? | 194535 | [194535-koi-shiyo.json](./194535-koi-shiyo.json) |
 | Koi Solitaire | 108415 | [108415-koi-solitaire.json](./108415-koi-solitaire.json) |
 | Koi Suru Amairo Homestay: Ryuugakusei ha Wanko-kei Osananajimi | 402717 | [402717-koi-suru-amairo-homestay-ryuugakusei-ha-wanko-kei-osananajimi.json](./402717-koi-suru-amairo-homestay-ryuugakusei-ha-wanko-kei-osananajimi.json) |
@@ -4356,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi to H Shika Shiteinai! | 396673 | [396673-koi-to-h-shika-shiteinai.json](./396673-koi-to-h-shika-shiteinai.json) |
 | Koi Unleashed | 121342 | [121342-koi-unleashed.json](./121342-koi-unleashed.json) |
 | Koi wa Alf Laylah | 191691 | [191691-koi-wa-alf-laylah.json](./191691-koi-wa-alf-laylah.json) |
+| Koi wa Rule ni Shibararenai! | 222630 | [222630-koi-wa-rule-ni-shibararenai.json](./222630-koi-wa-rule-ni-shibararenai.json) |
 | Koi wa Sotto Saku Hana no you ni | 194533 | [194533-koi-wa-sotto-saku-hana-no-you-ni.json](./194533-koi-wa-sotto-saku-hana-no-you-ni.json) |
 | Koi wa Sotto Saku Hana no you ni: Futari wa Eien ni Yorisotte Iku | 194534 | [194534-koi-wa-sotto-saku-hana-no-you-ni-futari-wa-eien-ni-yorisotte-iku.json](./194534-koi-wa-sotto-saku-hana-no-you-ni-futari-wa-eien-ni-yorisotte-iku.json) |
 | Koi x Mitsu Set | 221253 | [221253-koi-x-mitsu-set.json](./221253-koi-x-mitsu-set.json) |
