@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Not Alone | 346713 | [346713-im-not-alone.json](./346713-im-not-alone.json) |
 | I'm Not Alone | 66893 | [66893-im-not-alone.json](./66893-im-not-alone.json) |
 | I'm Not Crazy | 309866 | [309866-im-not-crazy.json](./309866-im-not-crazy.json) |
+| I'm Not Happy | 223803 | [223803-im-not-happy.json](./223803-im-not-happy.json) |
 | I'm Not Jelly | 186263 | [186263-im-not-jelly.json](./186263-im-not-jelly.json) |
 | I'm Not Sleepy | 295002 | [295002-im-not-sleepy.json](./295002-im-not-sleepy.json) |
 | I'm Not Spider | 347801 | [347801-im-not-spider.json](./347801-im-not-spider.json) |
@@ -2379,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Tracks Car Driving | 28004 | [28004-impossible-tracks-car-driving.json](./28004-impossible-tracks-car-driving.json) |
 | Impossible Twisty Dots | 88288 | [88288-impossible-twisty-dots.json](./88288-impossible-twisty-dots.json) |
 | Impossible VR Ninja | 107696 | [107696-impossible-vr-ninja.json](./107696-impossible-vr-ninja.json) |
+| ImpossiBot | 223804 | [223804-impossibot.json](./223804-impossibot.json) |
 | ImpossiBowl | 264150 | [264150-impossibowl.json](./264150-impossibowl.json) |
 | ImpossiBubble | 186823 | [186823-impossibubble.json](./186823-impossibubble.json) |
 | Imposter The Horror | 282045 | [282045-imposter-the-horror.json](./282045-imposter-the-horror.json) |
@@ -2603,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Raven Shadow – Ve stínu havrana | 44247 | [44247-in-the-raven-shadow-ve-stinu-havrana.json](./44247-in-the-raven-shadow-ve-stinu-havrana.json) |
 | In the Rim | 103398 | [103398-in-the-rim.json](./103398-in-the-rim.json) |
 | In The Ruined Courtyard | 260420 | [260420-in-the-ruined-courtyard.json](./260420-in-the-ruined-courtyard.json) |
+| In the Rural Village of Nagoro | 223798 | [223798-in-the-rural-village-of-nagoro.json](./223798-in-the-rural-village-of-nagoro.json) |
 | In the Search For: Revenge | 133055 | [133055-in-the-search-for-revenge.json](./133055-in-the-search-for-revenge.json) |
 | In the Shadow of the Truth | 32798 | [32798-in-the-shadow-of-the-truth.json](./32798-in-the-shadow-of-the-truth.json) |
 | In the Shadows | 180657 | [180657-in-the-shadows.json](./180657-in-the-shadows.json) |
@@ -4560,6 +4563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Sky | 236142 | [236142-into-the-sky.json](./236142-into-the-sky.json) |
 | Into the Slimy Mines | 391764 | [391764-into-the-slimy-mines.json](./391764-into-the-slimy-mines.json) |
 | Into the Soup | 126554 | [126554-into-the-soup.json](./126554-into-the-soup.json) |
+| Into the Spiritwell | 223799 | [223799-into-the-spiritwell.json](./223799-into-the-spiritwell.json) |
 | Into the Stars | 21564 | [21564-into-the-stars.json](./21564-into-the-stars.json) |
 | Into the Stars - Deluxe | 53235 | [53235-into-the-stars-deluxe.json](./53235-into-the-stars-deluxe.json) |
 | Into the Timeverse | 172180 | [172180-into-the-timeverse.json](./172180-into-the-timeverse.json) |
@@ -4779,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inverted Dreams | 390111 | [390111-inverted-dreams.json](./390111-inverted-dreams.json) |
 | Inverted Journey | 295886 | [295886-inverted-journey.json](./295886-inverted-journey.json) |
 | Inverted Space | 176990 | [176990-inverted-space.json](./176990-inverted-space.json) |
+| InVertia | 223801 | [223801-invertia.json](./223801-invertia.json) |
 | Invertinator | 350525 | [350525-invertinator.json](./350525-invertinator.json) |
 | Invertio | 186196 | [186196-invertio.json](./186196-invertio.json) |
 | Invest | 94215 | [94215-invest.json](./94215-invest.json) |
@@ -5275,6 +5280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Guild | 417935 | [417935-isekai-guild.json](./417935-isekai-guild.json) |
 | Isekai Guild Simulation | 407811 | [407811-isekai-guild-simulation.json](./407811-isekai-guild-simulation.json) |
 | Isekai Harem Quest: Love, Blades, and Power | 334180 | [334180-isekai-harem-quest-love-blades-and-power.json](./334180-isekai-harem-quest-love-blades-and-power.json) |
+| Isekai Harem Saver | 223760 | [223760-isekai-harem-saver.json](./223760-isekai-harem-saver.json) |
 | Isekai HKV | 388726 | [388726-isekai-hkv.json](./388726-isekai-hkv.json) |
 | Isekai Infinity: Worlds Unleashed | 291852 | [291852-isekai-infinity-worlds-unleashed.json](./291852-isekai-infinity-worlds-unleashed.json) |
 | Isekai Janken Hero | 220039 | [220039-isekai-janken-hero.json](./220039-isekai-janken-hero.json) |
@@ -5684,6 +5690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Moves | 98215 | [98215-it-moves.json](./98215-it-moves.json) |
 | It Pays to Be a Winner | 122410 | [122410-it-pays-to-be-a-winner.json](./122410-it-pays-to-be-a-winner.json) |
 | It Reaches | 373840 | [373840-it-reaches.json](./373840-it-reaches.json) |
+| It Returned to the Desert | 223796 | [223796-it-returned-to-the-desert.json](./223796-it-returned-to-the-desert.json) |
 | It Runs Red | 117440 | [117440-it-runs-red.json](./117440-it-runs-red.json) |
 | It Sleeps Below the Haar | 217396 | [217396-it-sleeps-below-the-haar.json](./217396-it-sleeps-below-the-haar.json) |
 | IT Specialist Simulator | 346606 | [346606-it-specialist-simulator.json](./346606-it-specialist-simulator.json) |
