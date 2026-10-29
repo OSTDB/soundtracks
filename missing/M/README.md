@@ -4472,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Detective Archives: Rain Code - Ch. Halara: Raining Cats & Dog | 268575 | [268575-master-detective-archives-rain-code-ch-halara-raining-cats-and-dog.json](./268575-master-detective-archives-rain-code-ch-halara-raining-cats-and-dog.json) |
 | Master Detective Archives: Rain Code - Ch. Vivia: The Near-Death Detective + Ch. Yakou: Thank You, My Detective | 268772 | [268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json](./268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json) |
 | Master Detective Archives: Rain Code - Digital Deluxe Edition | 247654 | [247654-master-detective-archives-rain-code-digital-deluxe-edition.json](./247654-master-detective-archives-rain-code-digital-deluxe-edition.json) |
+| Master Detective Archives: Rain Code - Mysteriful Limited Edition | 218885 | [218885-master-detective-archives-rain-code-mysteriful-limited-edition.json](./218885-master-detective-archives-rain-code-mysteriful-limited-edition.json) |
 | Master Detective Archives: Rain Code Plus | 300724 | [300724-master-detective-archives-rain-code-plus.json](./300724-master-detective-archives-rain-code-plus.json) |
 | Master Detective Archives: Rain Code Plus - Limited Edition | 300753 | [300753-master-detective-archives-rain-code-plus-limited-edition.json](./300753-master-detective-archives-rain-code-plus-limited-edition.json) |
 | Master Detective Archives: Rain Code Plus ^ Danganronpa 1, 2, V3 Bundle | 331534 | [331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json](./331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json) |
@@ -15841,6 +15842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Playhouse | 29048 | [29048-mouse-playhouse.json](./29048-mouse-playhouse.json) |
 | Mouse Practice for Kids | 373897 | [373897-mouse-practice-for-kids.json](./373897-mouse-practice-for-kids.json) |
 | Mouse Saving Simulator | 402226 | [402226-mouse-saving-simulator.json](./402226-mouse-saving-simulator.json) |
+| Mouse Sector | 218857 | [218857-mouse-sector.json](./218857-mouse-sector.json) |
 | Mouse Shooter | 350330 | [350330-mouse-shooter.json](./350330-mouse-shooter.json) |
 | Mouse Trap | 248053 | [248053-mouse-trap.json](./248053-mouse-trap.json) |
 | Mouse Trap | 5687 | [5687-mouse-trap.json](./5687-mouse-trap.json) |
@@ -18081,6 +18083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Haven | 381800 | [381800-my-little-haven.json](./381800-my-little-haven.json) |
 | My Little Helper: Spring Cleaning | 146117 | [146117-my-little-helper-spring-cleaning.json](./146117-my-little-helper-spring-cleaning.json) |
 | My Little Icecream Booth | 146747 | [146747-my-little-icecream-booth.json](./146747-my-little-icecream-booth.json) |
+| My Little Idol | 218850 | [218850-my-little-idol.json](./218850-my-little-idol.json) |
 | My Little Karaoke: Singing is Magic | 266924 | [266924-my-little-karaoke-singing-is-magic.json](./266924-my-little-karaoke-singing-is-magic.json) |
 | My Little Kitties | 20759 | [20759-my-little-kitties.json](./20759-my-little-kitties.json) |
 | My Little Kitty Cat | 99001 | [99001-my-little-kitty-cat.json](./99001-my-little-kitty-cat.json) |
