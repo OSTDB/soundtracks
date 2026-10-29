@@ -3258,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkfood | 261958 | [261958-junkfood.json](./261958-junkfood.json) |
 | Junkfood 2: Summertime Slotter | 296185 | [296185-junkfood-2-summertime-slotter.json](./296185-junkfood-2-summertime-slotter.json) |
 | Junkfood 3: Wow Wow West | 307812 | [307812-junkfood-3-wow-wow-west.json](./307812-junkfood-3-wow-wow-west.json) |
+| Junkienator | 211007 | [211007-junkienator.json](./211007-junkienator.json) |
 | Junkineering | 320866 | [320866-junkineering.json](./320866-junkineering.json) |
 | Junkland Jam | 92097 | [92097-junkland-jam.json](./92097-junkland-jam.json) |
 | Junklands | 284897 | [284897-junklands.json](./284897-junklands.json) |
@@ -3323,6 +3324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juranka Classic | 101375 | [101375-juranka-classic.json](./101375-juranka-classic.json) |
 | Jurard Run | 337441 | [337441-jurard-run.json](./337441-jurard-run.json) |
 | Juraroid | 370551 | [370551-juraroid.json](./370551-juraroid.json) |
+| Jurassic Architect | 210980 | [210980-jurassic-architect.json](./210980-jurassic-architect.json) |
 | Jurassic Arena | 89060 | [89060-jurassic-arena.json](./89060-jurassic-arena.json) |
 | Jurassic Boy 2 | 48578 | [48578-jurassic-boy-2.json](./48578-jurassic-boy-2.json) |
 | Jurassic City Walk | 99030 | [99030-jurassic-city-walk.json](./99030-jurassic-city-walk.json) |
