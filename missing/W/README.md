@@ -2870,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird RPG | 219144 | [219144-weird-rpg.json](./219144-weird-rpg.json) |
 | Weird RPG 2 | 286042 | [286042-weird-rpg-2.json](./286042-weird-rpg-2.json) |
 | Weird Shit is Going to Happen | 240960 | [240960-weird-shit-is-going-to-happen.json](./240960-weird-shit-is-going-to-happen.json) |
+| Weird Simulator | 186470 | [186470-weird-simulator.json](./186470-weird-simulator.json) |
 | Weird Store | 252135 | [252135-weird-store.json](./252135-weird-store.json) |
 | Weird War: The Unknown Episode of World War II | 129543 | [129543-weird-war-the-unknown-episode-of-world-war-ii.json](./129543-weird-war-the-unknown-episode-of-world-war-ii.json) |
 | Weird Water World | 409629 | [409629-weird-water-world.json](./409629-weird-water-world.json) |
@@ -3815,6 +3816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's my geek? | 197230 | [197230-wheres-my-geek.json](./197230-wheres-my-geek.json) |
 | Where's my Hentai Deck? | 370463 | [370463-wheres-my-hentai-deck.json](./370463-wheres-my-hentai-deck.json) |
 | Where's My Hentai Deck? Castle Hunt | 389621 | [389621-wheres-my-hentai-deck-castle-hunt.json](./389621-wheres-my-hentai-deck-castle-hunt.json) |
+| Where's My Horse? An Escape the Room Adventure | 187036 | [187036-wheres-my-horse-an-escape-the-room-adventure.json](./187036-wheres-my-horse-an-escape-the-room-adventure.json) |
 | Where's My Kitty | 338374 | [338374-wheres-my-kitty.json](./338374-wheres-my-kitty.json) |
 | Where's My Lunch?! | 170360 | [170360-wheres-my-lunch.json](./170360-wheres-my-lunch.json) |
 | Where's My Mickey? | 63275 | [63275-wheres-my-mickey.json](./63275-wheres-my-mickey.json) |
@@ -8069,6 +8071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestling Empire Forever | 270163 | [270163-wrestling-empire-forever.json](./270163-wrestling-empire-forever.json) |
 | Wrestling Manager 2023 | 226116 | [226116-wrestling-manager-2023.json](./226116-wrestling-manager-2023.json) |
 | Wrestling Mpire 2008 | 79374 | [79374-wrestling-mpire-2008.json](./79374-wrestling-mpire-2008.json) |
+| Wrestling MPire Remix: Career Edition | 186430 | [186430-wrestling-mpire-remix-career-edition.json](./186430-wrestling-mpire-remix-career-edition.json) |
 | Wrestling Revolution 2D | 76990 | [76990-wrestling-revolution-2d.json](./76990-wrestling-revolution-2d.json) |
 | Wrestling Revolution 3D | 44186 | [44186-wrestling-revolution-3d.json](./44186-wrestling-revolution-3d.json) |
 | Wrestling Revolution Pro | 91987 | [91987-wrestling-revolution-pro.json](./91987-wrestling-revolution-pro.json) |
