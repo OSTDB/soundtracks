@@ -2315,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carimara: Beneath the Forlorn Limbs | 339618 | [339618-carimara-beneath-the-forlorn-limbs.json](./339618-carimara-beneath-the-forlorn-limbs.json) |
 | Caring Critter Bundle | 328565 | [328565-caring-critter-bundle.json](./328565-caring-critter-bundle.json) |
 | Cario | 220341 | [220341-cario.json](./220341-cario.json) |
+| Cario 3 | 228762 | [228762-cario-3.json](./228762-cario-3.json) |
 | Carious Weltling | 354450 | [354450-carious-weltling.json](./354450-carious-weltling.json) |
 | Carious Weltling II | 111553 | [111553-carious-weltling-ii.json](./111553-carious-weltling-ii.json) |
 | Carist | 407896 | [407896-carist.json](./407896-carist.json) |
@@ -6920,6 +6921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christa & Tonyo | 352857 | [352857-christa-and-tonyo.json](./352857-christa-and-tonyo.json) |
 | Christian Matchups | 95423 | [95423-christian-matchups.json](./95423-christian-matchups.json) |
 | Christine | 92150 | [92150-christine.json](./92150-christine.json) |
+| Christmas | 228669 | [228669-christmas.json](./228669-christmas.json) |
 | Christmas - Color Your Puzzle and Paint for Kids | 87617 | [87617-christmas-color-your-puzzle-and-paint-for-kids.json](./87617-christmas-color-your-puzzle-and-paint-for-kids.json) |
 | Christmas Across America | 417584 | [417584-christmas-across-america.json](./417584-christmas-across-america.json) |
 | Christmas Adventure: Candy Storm | 33159 | [33159-christmas-adventure-candy-storm.json](./33159-christmas-adventure-candy-storm.json) |
@@ -9787,6 +9789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Extra: Ukuzala | 320528 | [320528-coffee-extra-ukuzala.json](./320528-coffee-extra-ukuzala.json) |
 | Coffee For Cthulhu | 295232 | [295232-coffee-for-cthulhu.json](./295232-coffee-for-cthulhu.json) |
 | Coffee For Robots | 219740 | [219740-coffee-for-robots.json](./219740-coffee-for-robots.json) |
+| Coffee Fun | 228765 | [228765-coffee-fun.json](./228765-coffee-fun.json) |
 | Coffee Inc 2 | 193686 | [193686-coffee-inc-2.json](./193686-coffee-inc-2.json) |
 | Coffee Kiss | 179079 | [179079-coffee-kiss.json](./179079-coffee-kiss.json) |
 | Coffee Mafia | 112322 | [112322-coffee-mafia.json](./112322-coffee-mafia.json) |
@@ -14008,6 +14011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot 4: It's About Time | 135254 | [135254-crash-bandicoot-4-its-about-time.json](./135254-crash-bandicoot-4-its-about-time.json) |
 | Crash Bandicoot 4: N. Hanced | 323730 | [323730-crash-bandicoot-4-n-hanced.json](./323730-crash-bandicoot-4-n-hanced.json) |
 | Crash Bandicoot Action Pack | 196663 | [196663-crash-bandicoot-action-pack.json](./196663-crash-bandicoot-action-pack.json) |
+| Crash Bandicoot Flash | 228752 | [228752-crash-bandicoot-flash.json](./228752-crash-bandicoot-flash.json) |
 | Crash Bandicoot N. Sane Trilogy: Future Tense | 229857 | [229857-crash-bandicoot-n-sane-trilogy-future-tense.json](./229857-crash-bandicoot-n-sane-trilogy-future-tense.json) |
 | Crash Bandicoot N. Sane Trilogy: Stormy Ascent | 229856 | [229856-crash-bandicoot-n-sane-trilogy-stormy-ascent.json](./229856-crash-bandicoot-n-sane-trilogy-stormy-ascent.json) |
 | Crash Bandicoot N.Finite | 374279 | [374279-crash-bandicoot-n-finite.json](./374279-crash-bandicoot-n-finite.json) |
@@ -14591,6 +14595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy the Hedgehog | 129182 | [129182-crazy-the-hedgehog.json](./129182-crazy-the-hedgehog.json) |
 | Crazy Toad | 379703 | [379703-crazy-toad.json](./379703-crazy-toad.json) |
 | Crazy Toad | 68754 | [68754-crazy-toad.json](./68754-crazy-toad.json) |
+| Crazy Tower | 228666 | [228666-crazy-tower.json](./228666-crazy-tower.json) |
 | Crazy Tracer | 13707 | [13707-crazy-tracer.json](./13707-crazy-tracer.json) |
 | Crazy Traffic: City Parking Simulator | 317925 | [317925-crazy-traffic-city-parking-simulator.json](./317925-crazy-traffic-city-parking-simulator.json) |
 | Crazy Train | 41759 | [41759-crazy-train.json](./41759-crazy-train.json) |
