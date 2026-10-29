@@ -7692,6 +7692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love N Life: Happy Student | 360633 | [360633-love-n-life-happy-student.json](./360633-love-n-life-happy-student.json) |
 | Love n Life: Lucky Teacher | 253901 | [253901-love-n-life-lucky-teacher.json](./253901-love-n-life-lucky-teacher.json) |
 | Love n War: Hero by Chance II | 152666 | [152666-love-n-war-hero-by-chance-ii.json](./152666-love-n-war-hero-by-chance-ii.json) |
+| Love n War: Warlord by Chance II | 220431 | [220431-love-n-war-warlord-by-chance-ii.json](./220431-love-n-war-warlord-by-chance-ii.json) |
 | Love Never Dies: Ikemen of the Marsh | 268666 | [268666-love-never-dies-ikemen-of-the-marsh.json](./268666-love-never-dies-ikemen-of-the-marsh.json) |
 | Love Nikki: Dress Up Queen | 56001 | [56001-love-nikki-dress-up-queen.json](./56001-love-nikki-dress-up-queen.json) |
 | Love Note | 97992 | [97992-love-note.json](./97992-love-note.json) |
@@ -7699,6 +7700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love of Dragons | 155846 | [155846-love-of-dragons.json](./155846-love-of-dragons.json) |
 | Love of Magic | 237485 | [237485-love-of-magic.json](./237485-love-of-magic.json) |
 | Love of Magic Book 2: The War | 202759 | [202759-love-of-magic-book-2-the-war.json](./202759-love-of-magic-book-2-the-war.json) |
+| Love of Magic Book 3: The Return | 220432 | [220432-love-of-magic-book-3-the-return.json](./220432-love-of-magic-book-3-the-return.json) |
 | Love of Renai Koutei of Love! | 172713 | [172713-love-of-renai-koutei-of-love.json](./172713-love-of-renai-koutei-of-love.json) |
 | Love on Beach | 193132 | [193132-love-on-beach.json](./193132-love-on-beach.json) |
 | Love on Leave | 247495 | [247495-love-on-leave.json](./247495-love-on-leave.json) |
@@ -7744,6 +7746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Story: The Way Home | 102187 | [102187-love-story-the-way-home.json](./102187-love-story-the-way-home.json) |
 | Love Sucks: Night One | 156516 | [156516-love-sucks-night-one.json](./156516-love-sucks-night-one.json) |
 | Love Sucks: Night Three | 303639 | [303639-love-sucks-night-three.json](./303639-love-sucks-night-three.json) |
+| Love Sucks: Night Two | 220433 | [220433-love-sucks-night-two.json](./220433-love-sucks-night-two.json) |
 | Love Sweets | 178338 | [178338-love-sweets.json](./178338-love-sweets.json) |
 | Love Take Back | 330814 | [330814-love-take-back.json](./330814-love-take-back.json) |
 | Love Talks | 209477 | [209477-love-talks.json](./209477-love-talks.json) |
@@ -8236,6 +8239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludicrium | 312924 | [312924-ludicrium.json](./312924-ludicrium.json) |
 | Ludicrous Leap | 289243 | [289243-ludicrous-leap.json](./289243-ludicrous-leap.json) |
 | Ludicrous Speed | 102162 | [102162-ludicrous-speed.json](./102162-ludicrous-speed.json) |
+| Ludicrous Uprising | 220434 | [220434-ludicrous-uprising.json](./220434-ludicrous-uprising.json) |
 | Ludo | 418923 | [418923-ludo.json](./418923-ludo.json) |
 | Ludo | 88853 | [88853-ludo.json](./88853-ludo.json) |
 | Ludo Anceint | 142938 | [142938-ludo-anceint.json](./142938-ludo-anceint.json) |
@@ -8636,6 +8640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar: Eternal Blue | 5401 | [5401-lunar-eternal-blue.json](./5401-lunar-eternal-blue.json) |
 | Lunar: Silver Star Harmony | 13909 | [13909-lunar-silver-star-harmony.json](./13909-lunar-silver-star-harmony.json) |
 | Lunar: Silver Star Story Complete | 13905 | [13905-lunar-silver-star-story-complete.json](./13905-lunar-silver-star-story-complete.json) |
+| Lunar: The Last Human | 220435 | [220435-lunar-the-last-human.json](./220435-lunar-the-last-human.json) |
 | Lunar: The Silver Star | 5334 | [5334-lunar-the-silver-star.json](./5334-lunar-the-silver-star.json) |
 | Lunar's Chosen | 280781 | [280781-lunars-chosen.json](./280781-lunars-chosen.json) |
 | Lunar's Chosen: Episode 2 | 277748 | [277748-lunars-chosen-episode-2.json](./277748-lunars-chosen-episode-2.json) |
