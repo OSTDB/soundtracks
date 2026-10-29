@@ -10441,6 +10441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rudra no Hihou | 15838 | [15838-rudra-no-hihou.json](./15838-rudra-no-hihou.json) |
 | Rudra: A Tale of Time | 244616 | [244616-rudra-a-tale-of-time.json](./244616-rudra-a-tale-of-time.json) |
 | Rue | 165663 | [165663-rue.json](./165663-rue.json) |
+| Rue La Résistance | 202509 | [202509-rue-la-resistance.json](./202509-rue-la-resistance.json) |
 | Rue Valley | 217012 | [217012-rue-valley.json](./217012-rue-valley.json) |
 | Rue Valley: Digital Deluxe Edition | 402699 | [402699-rue-valley-digital-deluxe-edition.json](./402699-rue-valley-digital-deluxe-edition.json) |
 | Ruff 'N' Tumble | 12755 | [12755-ruff-n-tumble.json](./12755-ruff-n-tumble.json) |
