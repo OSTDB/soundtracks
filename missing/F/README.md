@@ -1281,6 +1281,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | False Myth 2 | 416387 | [416387-false-myth-2.json](./416387-false-myth-2.json) |
 | False Positive Paradox | 401006 | [401006-false-positive-paradox.json](./401006-false-positive-paradox.json) |
 | False Princess Iruruu | 330020 | [330020-false-princess-iruruu.json](./330020-false-princess-iruruu.json) |
+| False Rebirth: Enhanced Edition | 179345 | [179345-false-rebirth-enhanced-edition.json](./179345-false-rebirth-enhanced-edition.json) |
+| False Server | 179311 | [179311-false-server.json](./179311-false-server.json) |
 | False Shelter | 28785 | [28785-false-shelter.json](./28785-false-shelter.json) |
 | False Skies | 216635 | [216635-false-skies.json](./216635-false-skies.json) |
 | False Title | 347588 | [347588-false-title.json](./347588-false-title.json) |
@@ -3019,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatty Fight | 256544 | [256544-fatty-fight.json](./256544-fatty-fight.json) |
 | Fatty In Trouble | 238398 | [238398-fatty-in-trouble.json](./238398-fatty-in-trouble.json) |
 | Fatty Maze's Adventures | 35723 | [35723-fatty-mazes-adventures.json](./35723-fatty-mazes-adventures.json) |
+| Fatty Shark | 179340 | [179340-fatty-shark.json](./179340-fatty-shark.json) |
 | Fatum | 407302 | [407302-fatum.json](./407302-fatum.json) |
 | Fatum Betula | 133175 | [133175-fatum-betula.json](./133175-fatum-betula.json) |
 | Fatum Betula + Food Truck Tycoon | 250343 | [250343-fatum-betula-food-truck-tycoon.json](./250343-fatum-betula-food-truck-tycoon.json) |
@@ -7692,6 +7695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Hero | 64265 | [64265-flying-hero.json](./64265-flying-hero.json) |
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
 | Flying Hero X | 146684 | [146684-flying-hero-x.json](./146684-flying-hero-x.json) |
+| Flying Hero: City on fire | 179308 | [179308-flying-hero-city-on-fire.json](./179308-flying-hero-city-on-fire.json) |
 | Flying Heroes | 24119 | [24119-flying-heroes.json](./24119-flying-heroes.json) |
 | Flying in Labyrinth | 114934 | [114934-flying-in-labyrinth.json](./114934-flying-in-labyrinth.json) |
 | Flying Islands | 366955 | [366955-flying-islands.json](./366955-flying-islands.json) |
