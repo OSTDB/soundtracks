@@ -1644,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale Green | 308158 | [308158-undertale-green.json](./308158-undertale-green.json) |
 | Undertale Green: The Pre-Show | 329622 | [329622-undertale-green-the-pre-show.json](./329622-undertale-green-the-pre-show.json) |
 | Undertale Hard Mode: Director's Cut | 364600 | [364600-undertale-hard-mode-directors-cut.json](./364600-undertale-hard-mode-directors-cut.json) |
+| Undertale Last Breath | 218848 | [218848-undertale-last-breath.json](./218848-undertale-last-breath.json) |
 | Undertale Patience | 307154 | [307154-undertale-patience.json](./307154-undertale-patience.json) |
 | Undertale Perseverance | 398006 | [398006-undertale-perseverance.json](./398006-undertale-perseverance.json) |
 | Undertale Plus | 329655 | [329655-undertale-plus.json](./329655-undertale-plus.json) |
@@ -2630,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unto the Aurora | 344999 | [344999-unto-the-aurora.json](./344999-unto-the-aurora.json) |
 | Unto the End | 37146 | [37146-unto-the-end.json](./37146-unto-the-end.json) |
 | Untold | 184415 | [184415-untold.json](./184415-untold.json) |
+| Untold Atlas | 218836 | [218836-untold-atlas.json](./218836-untold-atlas.json) |
 | Untold Chronicles: The Harvest | 374829 | [374829-untold-chronicles-the-harvest.json](./374829-untold-chronicles-the-harvest.json) |
 | Untold History: Descendant of the Sun - Collector's Edition | 416161 | [416161-untold-history-descendant-of-the-sun-collectors-edition.json](./416161-untold-history-descendant-of-the-sun-collectors-edition.json) |
 | Untold Legends: Brotherhood of the Blade | 22508 | [22508-untold-legends-brotherhood-of-the-blade.json](./22508-untold-legends-brotherhood-of-the-blade.json) |
