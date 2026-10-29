@@ -1435,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Run Aya | 338100 | [338100-idle-run-aya.json](./338100-idle-run-aya.json) |
 | Idle Saga | 318215 | [318215-idle-saga.json](./318215-idle-saga.json) |
 | Idle Sailor | 390740 | [390740-idle-sailor.json](./390740-idle-sailor.json) |
+| Idle Sand Castle | 187647 | [187647-idle-sand-castle.json](./187647-idle-sand-castle.json) |
 | Idle Sand Tycoon | 245205 | [245205-idle-sand-tycoon.json](./245205-idle-sand-tycoon.json) |
 | Idle School Simulator | 299903 | [299903-idle-school-simulator.json](./299903-idle-school-simulator.json) |
 | Idle Shapes | 226164 | [226164-idle-shapes.json](./226164-idle-shapes.json) |
@@ -4039,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insignia | 152232 | [152232-insignia.json](./152232-insignia.json) |
 | Insignia: Tactics | 175139 | [175139-insignia-tactics.json](./175139-insignia-tactics.json) |
 | Insincere | 32725 | [32725-insincere.json](./32725-insincere.json) |
+| Insipid | 189293 | [189293-insipid.json](./189293-insipid.json) |
 | Insomnia | 224710 | [224710-insomnia.json](./224710-insomnia.json) |
 | Insomnia | 238747 | [238747-insomnia.json](./238747-insomnia.json) |
 | Insomnia | 278403 | [278403-insomnia.json](./278403-insomnia.json) |
@@ -4317,6 +4319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Basketball Manager | 106559 | [106559-international-basketball-manager.json](./106559-international-basketball-manager.json) |
 | International Basketball Manager 23 | 224551 | [224551-international-basketball-manager-23.json](./224551-international-basketball-manager-23.json) |
 | International Bounty Hunter | 183830 | [183830-international-bounty-hunter.json](./183830-international-bounty-hunter.json) |
+| International Boxing | 187664 | [187664-international-boxing.json](./187664-international-boxing.json) |
 | International Boxing Champions | 233544 | [233544-international-boxing-champions.json](./233544-international-boxing-champions.json) |
 | International Bridge Contractors | 69797 | [69797-international-bridge-contractors.json](./69797-international-bridge-contractors.json) |
 | International Championship Wrestling | 137618 | [137618-international-championship-wrestling.json](./137618-international-championship-wrestling.json) |
