@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5898,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Fiends | 59922 | [59922-best-fiends.json](./59922-best-fiends.json) |
 | Best Fiends Forever | 57363 | [57363-best-fiends-forever.json](./57363-best-fiends-forever.json) |
 | Best Fighter | 283991 | [283991-best-fighter.json](./283991-best-fighter.json) |
+| Best Forklift Operator | 190338 | [190338-best-forklift-operator.json](./190338-best-forklift-operator.json) |
 | Best Friend | 133110 | [133110-best-friend.json](./133110-best-friend.json) |
 | Best Friend | 215489 | [215489-best-friend.json](./215489-best-friend.json) |
 | Best Friends | 313956 | [313956-best-friends.json](./313956-best-friends.json) |
@@ -9725,6 +9727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Night | 326976 | [326976-blood-night.json](./326976-blood-night.json) |
 | Blood Night | 394066 | [394066-blood-night.json](./394066-blood-night.json) |
 | Blood nor Water | 109503 | [109503-blood-nor-water.json](./109503-blood-nor-water.json) |
+| Blood Nova | 190322 | [190322-blood-nova.json](./190322-blood-nova.json) |
 | Blood Oath | 350061 | [350061-blood-oath.json](./350061-blood-oath.json) |
 | Blood Oath | 64716 | [64716-blood-oath.json](./64716-blood-oath.json) |
 | Blood of a Demon | 387703 | [387703-blood-of-a-demon.json](./387703-blood-of-a-demon.json) |
@@ -12229,6 +12232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Chicken | 306529 | [306529-bouncy-chicken.json](./306529-bouncy-chicken.json) |
 | Bouncy Click | 366274 | [366274-bouncy-click.json](./366274-bouncy-click.json) |
 | Bouncy Cloud | 156724 | [156724-bouncy-cloud.json](./156724-bouncy-cloud.json) |
+| Bouncy Cube | 190334 | [190334-bouncy-cube.json](./190334-bouncy-cube.json) |
 | Bouncy Ducks | 69476 | [69476-bouncy-ducks.json](./69476-bouncy-ducks.json) |
 | Bouncy Egg | 340974 | [340974-bouncy-egg.json](./340974-bouncy-egg.json) |
 | Bouncy Egg | 96287 | [96287-bouncy-egg.json](./96287-bouncy-egg.json) |
