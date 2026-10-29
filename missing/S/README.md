@@ -4578,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selene's Labyrinth | 184389 | [184389-selenes-labyrinth.json](./184389-selenes-labyrinth.json) |
 | Selene's Nightmare | 153850 | [153850-selenes-nightmare.json](./153850-selenes-nightmare.json) |
 | Selene's Unbearable Night | 258414 | [258414-selenes-unbearable-night.json](./258414-selenes-unbearable-night.json) |
+| Selenelion | 210997 | [210997-selenelion.json](./210997-selenelion.json) |
 | Selenon Rising: Episode 2 | 171367 | [171367-selenon-rising-episode-2.json](./171367-selenon-rising-episode-2.json) |
 | Selenon Rising: Episode 3 | 171368 | [171368-selenon-rising-episode-3.json](./171368-selenon-rising-episode-3.json) |
 | Selenwald | 190988 | [190988-selenwald.json](./190988-selenwald.json) |
@@ -8465,6 +8466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffleboard 2023 | 231900 | [231900-shuffleboard-2023.json](./231900-shuffleboard-2023.json) |
 | Shuffled Nightmares | 132602 | [132602-shuffled-nightmares.json](./132602-shuffled-nightmares.json) |
 | Shuffled Words | 219608 | [219608-shuffled-words.json](./219608-shuffled-words.json) |
+| Shufflepoker | 211011 | [211011-shufflepoker.json](./211011-shufflepoker.json) |
 | Shufflepuck | 282841 | [282841-shufflepuck.json](./282841-shufflepuck.json) |
 | Shufflepuck Cantina Deluxe | 62608 | [62608-shufflepuck-cantina-deluxe.json](./62608-shufflepuck-cantina-deluxe.json) |
 | Shuffles 'n Scuffles | 372701 | [372701-shuffles-n-scuffles.json](./372701-shuffles-n-scuffles.json) |
@@ -16029,6 +16031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soshite Kono Sora ni Kirameku Kimi no Uta XXX | 221828 | [221828-soshite-kono-sora-ni-kirameku-kimi-no-uta-xxx.json](./221828-soshite-kono-sora-ni-kirameku-kimi-no-uta-xxx.json) |
 | Soshite Suki ni Naru | 375357 | [375357-soshite-suki-ni-naru.json](./375357-soshite-suki-ni-naru.json) |
 | Sosnova | 359356 | [359356-sosnova.json](./359356-sosnova.json) |
+| Sosso | 211004 | [211004-sosso.json](./211004-sosso.json) |
 | Sosuria | 268599 | [268599-sosuria.json](./268599-sosuria.json) |
 | Sotano | 190036 | [190036-sotano.json](./190036-sotano.json) |
 | Soter | 157139 | [157139-soter.json](./157139-soter.json) |
@@ -18124,6 +18127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectating Simulator the Racing | 123564 | [123564-spectating-simulator-the-racing.json](./123564-spectating-simulator-the-racing.json) |
 | Spectator | 216880 | [216880-spectator.json](./216880-spectator.json) |
 | Spectator 2 | 264629 | [264629-spectator-2.json](./264629-spectator-2.json) |
+| Specteared | 210982 | [210982-specteared.json](./210982-specteared.json) |
 | Specter Spelunker Resizes | 283736 | [283736-specter-spelunker-resizes.json](./283736-specter-spelunker-resizes.json) |
 | Specter Spelunker Shrinks | 242907 | [242907-specter-spelunker-shrinks.json](./242907-specter-spelunker-shrinks.json) |
 | Specters | 164046 | [164046-specters.json](./164046-specters.json) |
@@ -26971,6 +26975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Demo World: The Legend Continues | 198224 | [198224-super-demo-world-the-legend-continues.json](./198224-super-demo-world-the-legend-continues.json) |
 | Super Demon Attack | 44376 | [44376-super-demon-attack.json](./44376-super-demon-attack.json) |
 | Super Demon Boy | 120677 | [120677-super-demon-boy.json](./120677-super-demon-boy.json) |
+| Super Demon Survivors | 210984 | [210984-super-demon-survivors.json](./210984-super-demon-survivors.json) |
 | Super Depressed Bro... | 223087 | [223087-super-depressed-bro.json](./223087-super-depressed-bro.json) |
 | Super Depth | 239567 | [239567-super-depth.json](./239567-super-depth.json) |
 | Super Destronaut | 31859 | [31859-super-destronaut.json](./31859-super-destronaut.json) |
