@@ -1009,7 +1009,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy! Platinum Edition | 48978 | [48978-jeopardy-platinum-edition.json](./48978-jeopardy-platinum-edition.json) |
 | Jeopardy! PlayShow | 140551 | [140551-jeopardy-playshow.json](./140551-jeopardy-playshow.json) |
 | Jeopardy! PlayShow: All-Star Captains Classics | 212624 | [212624-jeopardy-playshow-all-star-captains-classics.json](./212624-jeopardy-playshow-all-star-captains-classics.json) |
+| Jeopardy! PlayShow: Best of the 1980's | 212621 | [212621-jeopardy-playshow-best-of-the-1980s.json](./212621-jeopardy-playshow-best-of-the-1980s.json) |
 | Jeopardy! PlayShow: College Championship | 212623 | [212623-jeopardy-playshow-college-championship.json](./212623-jeopardy-playshow-college-championship.json) |
+| Jeopardy! PlayShow: Teen Tournament | 212622 | [212622-jeopardy-playshow-teen-tournament.json](./212622-jeopardy-playshow-teen-tournament.json) |
 | Jeopardy! PlayShow: The Road to the All-Star Games | 212626 | [212626-jeopardy-playshow-the-road-to-the-all-star-games.json](./212626-jeopardy-playshow-the-road-to-the-all-star-games.json) |
 | Jeopardy! PlayShow: Tournament of Champions | 212625 | [212625-jeopardy-playshow-tournament-of-champions.json](./212625-jeopardy-playshow-tournament-of-champions.json) |
 | Jeopardy! Sports Edition | 348214 | [348214-jeopardy-sports-edition.json](./348214-jeopardy-sports-edition.json) |
@@ -2906,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Start Crazy Karts | 50638 | [50638-jump-start-crazy-karts.json](./50638-jump-start-crazy-karts.json) |
 | Jump Stop | 81927 | [81927-jump-stop.json](./81927-jump-stop.json) |
 | Jump Tanks | 36330 | [36330-jump-tanks.json](./36330-jump-tanks.json) |
+| Jump the Car | 212618 | [212618-jump-the-car.json](./212618-jump-the-car.json) |
 | Jump the Crank | 365143 | [365143-jump-the-crank.json](./365143-jump-the-crank.json) |
 | Jump the Gun | 227450 | [227450-jump-the-gun.json](./227450-jump-the-gun.json) |
 | Jump the Track | 341994 | [341994-jump-the-track.json](./341994-jump-the-track.json) |
