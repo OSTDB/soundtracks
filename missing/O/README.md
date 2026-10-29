@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off the Rails | 223638 | [223638-off-the-rails.json](./223638-off-the-rails.json) |
 | Off the Rails | 396761 | [396761-off-the-rails.json](./396761-off-the-rails.json) |
 | Off The Rails | 281989 | [281989-off-the-rails.json](./281989-off-the-rails.json) |
+| Off the Record | 180942 | [180942-off-the-record.json](./180942-off-the-record.json) |
 | Off the Record: Liberty Stone | 82141 | [82141-off-the-record-liberty-stone.json](./82141-off-the-record-liberty-stone.json) |
 | Off the Record: Linden Shades - Collector's Edition | 32787 | [32787-off-the-record-linden-shades-collectors-edition.json](./32787-off-the-record-linden-shades-collectors-edition.json) |
 | Off The Record: The Art of Deception | 98411 | [98411-off-the-record-the-art-of-deception.json](./98411-off-the-record-the-art-of-deception.json) |
