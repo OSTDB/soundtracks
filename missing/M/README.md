@@ -9385,6 +9385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microbial Sector | 321825 | [321825-microbial-sector.json](./321825-microbial-sector.json) |
 | Microbian | 376078 | [376078-microbian.json](./376078-microbian.json) |
 | MicroBot | 21082 | [21082-microbot.json](./21082-microbot.json) |
+| Microbrewery Tycoon | 190337 | [190337-microbrewery-tycoon.json](./190337-microbrewery-tycoon.json) |
 | MicroBuddies | 196712 | [196712-microbuddies.json](./196712-microbuddies.json) |
 | Microchess | 85752 | [85752-microchess.json](./85752-microchess.json) |
 | MicroCity | 144375 | [144375-microcity.json](./144375-microcity.json) |
@@ -11157,6 +11158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Arcade Monster Maze | 200338 | [200338-mini-arcade-monster-maze.json](./200338-mini-arcade-monster-maze.json) |
 | Mini Arenas | 215596 | [215596-mini-arenas.json](./215596-mini-arenas.json) |
 | Mini Army | 399402 | [399402-mini-army.json](./399402-mini-army.json) |
+| Mini Army Tactics Medieval | 190343 | [190343-mini-army-tactics-medieval.json](./190343-mini-army-tactics-medieval.json) |
 | Mini Attack Submarine | 57763 | [57763-mini-attack-submarine.json](./57763-mini-attack-submarine.json) |
 | Mini Avoid | 208158 | [208158-mini-avoid.json](./208158-mini-avoid.json) |
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
@@ -13330,6 +13332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monastery | 211971 | [211971-monastery.json](./211971-monastery.json) |
 | Monastery | 342174 | [342174-monastery.json](./342174-monastery.json) |
 | Monastery 2: Beyond the Darkness | 398814 | [398814-monastery-2-beyond-the-darkness.json](./398814-monastery-2-beyond-the-darkness.json) |
+| Monastery Builder | 190339 | [190339-monastery-builder.json](./190339-monastery-builder.json) |
 | Monastery: Ora et Labora | 364402 | [364402-monastery-ora-et-labora.json](./364402-monastery-ora-et-labora.json) |
 | Monativity Surveillance | 359542 | [359542-monativity-surveillance.json](./359542-monativity-surveillance.json) |
 | Monato Esprit | 68047 | [68047-monato-esprit.json](./68047-monato-esprit.json) |
@@ -19136,6 +19139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Gevaudan | 332448 | [332448-mystery-of-gevaudan.json](./332448-mystery-of-gevaudan.json) |
 | Mystery of Haunted Hollow: Point Click Escape Game | 91066 | [91066-mystery-of-haunted-hollow-point-click-escape-game.json](./91066-mystery-of-haunted-hollow-point-click-escape-game.json) |
 | Mystery of Hidden Inheritance | 95581 | [95581-mystery-of-hidden-inheritance.json](./95581-mystery-of-hidden-inheritance.json) |
+| Mystery of Island | 190357 | [190357-mystery-of-island.json](./190357-mystery-of-island.json) |
 | Mystery of Lucy Green: The Devil's Diaries | 153158 | [153158-mystery-of-lucy-green-the-devils-diaries.json](./153158-mystery-of-lucy-green-the-devils-diaries.json) |
 | Mystery of Melody Memorial | 89078 | [89078-mystery-of-melody-memorial.json](./89078-mystery-of-melody-memorial.json) |
 | Mystery of Mortlake Mansion | 65188 | [65188-mystery-of-mortlake-mansion.json](./65188-mystery-of-mortlake-mansion.json) |
