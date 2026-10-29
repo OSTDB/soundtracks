@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-29T01:04:04.252Z",
-  "total_missing": 277006,
+  "generated_at": "2026-10-29T01:18:25.508Z",
+  "total_missing": 277054,
   "games": [
     {
       "igdb_id": 191680,
@@ -48415,6 +48415,11 @@
       "igdb_id": 316407,
       "game_name": "Almost Reversi",
       "file": "missing/A/316407-almost-reversi.json"
+    },
+    {
+      "igdb_id": 225968,
+      "game_name": "Almost Tennis",
+      "file": "missing/A/225968-almost-tennis.json"
     },
     {
       "igdb_id": 113722,
@@ -99852,11 +99857,6 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
-    },
-    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -108625,6 +108625,11 @@
       "igdb_id": 87059,
       "game_name": "Baseball Boy!",
       "file": "missing/B/87059-baseball-boy.json"
+    },
+    {
+      "igdb_id": 225971,
+      "game_name": "Baseball Brat Badventure",
+      "file": "missing/B/225971-baseball-brat-badventure.json"
     },
     {
       "igdb_id": 336068,
@@ -148927,6 +148932,11 @@
       "file": "missing/B/393471-body-sushi.json"
     },
     {
+      "igdb_id": 225979,
+      "game_name": "Body. Electric.",
+      "file": "missing/B/225979-body-electric.json"
+    },
+    {
       "igdb_id": 368253,
       "game_name": "BodyCam 2025",
       "file": "missing/B/368253-bodycam-2025.json"
@@ -164257,6 +164267,11 @@
       "file": "missing/B/413006-bright-sky-the-watch-of-the-future.json"
     },
     {
+      "igdb_id": 225980,
+      "game_name": "Bright Sudoku",
+      "file": "missing/B/225980-bright-sudoku.json"
+    },
+    {
       "igdb_id": 159846,
       "game_name": "Brightblood",
       "file": "missing/B/159846-brightblood.json"
@@ -173010,6 +173025,11 @@
       "igdb_id": 117745,
       "game_name": "BurgerTime Party!",
       "file": "missing/B/117745-burgertime-party.json"
+    },
+    {
+      "igdb_id": 225964,
+      "game_name": "BurgerWave",
+      "file": "missing/B/225964-burgerwave.json"
     },
     {
       "igdb_id": 101618,
@@ -185807,6 +185827,11 @@
       "file": "missing/C/266911-caravan-boomer.json"
     },
     {
+      "igdb_id": 225957,
+      "game_name": "Caravan Journey",
+      "file": "missing/C/225957-caravan-journey.json"
+    },
+    {
       "igdb_id": 226089,
       "game_name": "Caravan Journey: Nitro",
       "file": "missing/C/226089-caravan-journey-nitro.json"
@@ -187720,6 +187745,11 @@
       "igdb_id": 220341,
       "game_name": "Cario",
       "file": "missing/C/220341-cario.json"
+    },
+    {
+      "igdb_id": 225956,
+      "game_name": "Cario 2",
+      "file": "missing/C/225956-cario-2.json"
     },
     {
       "igdb_id": 228762,
@@ -215535,6 +215565,11 @@
       "igdb_id": 301332,
       "game_name": "Cities: Skylines Remastered - Campus",
       "file": "missing/C/301332-cities-skylines-remastered-campus.json"
+    },
+    {
+      "igdb_id": 225958,
+      "game_name": "Cities: VR - Enhanced Edition",
+      "file": "missing/C/225958-cities-vr-enhanced-edition.json"
     },
     {
       "igdb_id": 33484,
@@ -253855,6 +253890,11 @@
       "igdb_id": 213323,
       "game_name": "Crossroads of Life",
       "file": "missing/C/213323-crossroads-of-life.json"
+    },
+    {
+      "igdb_id": 225976,
+      "game_name": "Crossroads: Escaping the Dark - Collector's Edition",
+      "file": "missing/C/225976-crossroads-escaping-the-dark-collectors-edition.json"
     },
     {
       "igdb_id": 383745,
@@ -330667,6 +330707,11 @@
       "file": "missing/D/226333-dragon-ball-xenoverse-2-hero-of-justice-pack-1.json"
     },
     {
+      "igdb_id": 225942,
+      "game_name": "Dragon Ball: Xenoverse 2 - Hero of Justice Pack Set",
+      "file": "missing/D/225942-dragon-ball-xenoverse-2-hero-of-justice-pack-set.json"
+    },
+    {
       "igdb_id": 225546,
       "game_name": "Dragon Ball: Xenoverse 2 - Hero of Justice: Pack 2",
       "file": "missing/D/225546-dragon-ball-xenoverse-2-hero-of-justice-pack-2.json"
@@ -350575,6 +350620,11 @@
       "igdb_id": 225913,
       "game_name": "Dynasty Warriors 9: Guo Jia Additional Hypothetical Scenarios Set",
       "file": "missing/D/225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json"
+    },
+    {
+      "igdb_id": 225939,
+      "game_name": "Dynasty Warriors 9: Xu Shu Additional Hypothetical Scenarios Set",
+      "file": "missing/D/225939-dynasty-warriors-9-xu-shu-additional-hypothetical-scenarios-set.json"
     },
     {
       "igdb_id": 225909,
@@ -377662,6 +377712,16 @@
       "file": "missing/E/226790-eternal-return-beachside-splash-character-bundle.json"
     },
     {
+      "igdb_id": 225947,
+      "game_name": "Eternal Return: Character Bundle 1",
+      "file": "missing/E/225947-eternal-return-character-bundle-1.json"
+    },
+    {
+      "igdb_id": 225948,
+      "game_name": "Eternal Return: Character Bundle 2",
+      "file": "missing/E/225948-eternal-return-character-bundle-2.json"
+    },
+    {
       "igdb_id": 10905,
       "game_name": "Eternal Ring",
       "file": "missing/E/10905-eternal-ring.json"
@@ -403425,6 +403485,11 @@
       "igdb_id": 422058,
       "game_name": "Fearless Crew",
       "file": "missing/F/422058-fearless-crew.json"
+    },
+    {
+      "igdb_id": 225969,
+      "game_name": "Fearless Four",
+      "file": "missing/F/225969-fearless-four.json"
     },
     {
       "igdb_id": 268740,
@@ -524327,6 +524392,11 @@
       "file": "missing/H/257252-hero-beetle-war-tower-attack.json"
     },
     {
+      "igdb_id": 225973,
+      "game_name": "Hero Blast",
+      "file": "missing/H/225973-hero-blast.json"
+    },
+    {
       "igdb_id": 212463,
       "game_name": "Hero Blaze: Three Kingdoms",
       "file": "missing/H/212463-hero-blaze-three-kingdoms.json"
@@ -575627,9 +575697,19 @@
       "file": "missing/I/27533-insurgency-modern-infantry-combat.json"
     },
     {
+      "igdb_id": 225936,
+      "game_name": "Insurgency: Sandstorm - Breakaway Set Bundle",
+      "file": "missing/I/225936-insurgency-sandstorm-breakaway-set-bundle.json"
+    },
+    {
       "igdb_id": 321157,
       "game_name": "Insurgency: Sandstorm - Chemical Combat Gear Set",
       "file": "missing/I/321157-insurgency-sandstorm-chemical-combat-gear-set.json"
+    },
+    {
+      "igdb_id": 225938,
+      "game_name": "Insurgency: Sandstorm - Cold Blood Set Bundle",
+      "file": "missing/I/225938-insurgency-sandstorm-cold-blood-set-bundle.json"
     },
     {
       "igdb_id": 373508,
@@ -575662,6 +575742,16 @@
       "file": "missing/I/321160-insurgency-sandstorm-dusty-weapon-skin-set.json"
     },
     {
+      "igdb_id": 225935,
+      "game_name": "Insurgency: Sandstorm - Exodus Set Bundle",
+      "file": "missing/I/225935-insurgency-sandstorm-exodus-set-bundle.json"
+    },
+    {
+      "igdb_id": 225931,
+      "game_name": "Insurgency: Sandstorm - Glasshouse Set Bundle",
+      "file": "missing/I/225931-insurgency-sandstorm-glasshouse-set-bundle.json"
+    },
+    {
       "igdb_id": 169172,
       "game_name": "Insurgency: Sandstorm - Gold Edition",
       "file": "missing/I/169172-insurgency-sandstorm-gold-edition.json"
@@ -575677,9 +575767,19 @@
       "file": "missing/I/273935-insurgency-sandstorm-mountain-tactical-gear-set.json"
     },
     {
+      "igdb_id": 225937,
+      "game_name": "Insurgency: Sandstorm - Night Ops Set Bundle",
+      "file": "missing/I/225937-insurgency-sandstorm-night-ops-set-bundle.json"
+    },
+    {
       "igdb_id": 273934,
       "game_name": "Insurgency: Sandstorm - Onslaught Set Bundle",
       "file": "missing/I/273934-insurgency-sandstorm-onslaught-set-bundle.json"
+    },
+    {
+      "igdb_id": 225934,
+      "game_name": "Insurgency: Sandstorm - Praetorian Set Bundle",
+      "file": "missing/I/225934-insurgency-sandstorm-praetorian-set-bundle.json"
     },
     {
       "igdb_id": 321158,
@@ -610567,6 +610667,11 @@
       "file": "missing/K/253547-keep-the-lights-on.json"
     },
     {
+      "igdb_id": 225975,
+      "game_name": "Keep the Lights On!",
+      "file": "missing/K/225975-keep-the-lights-on.json"
+    },
+    {
       "igdb_id": 59037,
       "game_name": "Keep Them Below",
       "file": "missing/K/59037-keep-them-below.json"
@@ -616070,11 +616175,6 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
-    },
-    {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -706867,6 +706967,11 @@
       "file": "missing/M/383479-mediaevi.json"
     },
     {
+      "igdb_id": 225967,
+      "game_name": "Medial",
+      "file": "missing/M/225967-medial.json"
+    },
+    {
       "igdb_id": 136102,
       "game_name": "Median XL",
       "file": "missing/M/136102-median-xl.json"
@@ -745592,6 +745697,11 @@
       "file": "missing/M/223548-monster-jam-steel-titans-2-inverse-truck-pack.json"
     },
     {
+      "igdb_id": 225943,
+      "game_name": "Monster Jam Steel Titans: Fire & Ice Truck Bundle",
+      "file": "missing/M/225943-monster-jam-steel-titans-fire-and-ice-truck-bundle.json"
+    },
+    {
       "igdb_id": 42932,
       "game_name": "Monster Jam: Crush It!",
       "file": "missing/M/42932-monster-jam-crush-it.json"
@@ -777152,6 +777262,11 @@
       "file": "missing/N/38210-natsuki-crisis-battle.json"
     },
     {
+      "igdb_id": 225981,
+      "game_name": "Natsukiri: Summer Vacation At Kirishima House",
+      "file": "missing/N/225981-natsukiri-summer-vacation-at-kirishima-house.json"
+    },
+    {
       "igdb_id": 366182,
       "game_name": "Natsumatsuri",
       "file": "missing/N/366182-natsumatsuri.json"
@@ -781005,6 +781120,11 @@
       "igdb_id": 26297,
       "game_name": "Need for Speed: No Limits",
       "file": "missing/N/26297-need-for-speed-no-limits.json"
+    },
+    {
+      "igdb_id": 225944,
+      "game_name": "Need for Speed: Payback - Pontiac Firebird & Aston Martin DB5 Superbuild Bundle",
+      "file": "missing/N/225944-need-for-speed-payback-pontiac-firebird-and-aston-martin-db5-superbuild-bundle.json"
     },
     {
       "igdb_id": 248143,
@@ -798307,6 +798427,11 @@
       "file": "missing/N/37327-no-mans-land.json"
     },
     {
+      "igdb_id": 225972,
+      "game_name": "No Mans Land",
+      "file": "missing/N/225972-no-mans-land.json"
+    },
+    {
       "igdb_id": 23328,
       "game_name": "No Mario's Sky",
       "file": "missing/N/23328-no-marios-sky.json"
@@ -800915,6 +801040,11 @@
       "igdb_id": 390731,
       "game_name": "NolyRhythm",
       "file": "missing/N/390731-nolyrhythm.json"
+    },
+    {
+      "igdb_id": 225965,
+      "game_name": "Nom Nom",
+      "file": "missing/N/225965-nom-nom.json"
     },
     {
       "igdb_id": 209650,
@@ -863892,6 +864022,11 @@
       "file": "missing/P/164003-pinball-fx3-marvel-pinball-original-pack.json"
     },
     {
+      "igdb_id": 225946,
+      "game_name": "Pinball FX3: Marvel Pinball Season 2 Bundle",
+      "file": "missing/P/225946-pinball-fx3-marvel-pinball-season-2-bundle.json"
+    },
+    {
       "igdb_id": 163999,
       "game_name": "Pinball FX3: Marvel Pinball Vengeance and Virtue Pack",
       "file": "missing/P/163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json"
@@ -873132,6 +873267,11 @@
       "file": "missing/P/168241-planet-coaster-quick-draw-interactive-shooting-ride.json"
     },
     {
+      "igdb_id": 225955,
+      "game_name": "Planet Coaster: Spooky & Adventure Bundle",
+      "file": "missing/P/225955-planet-coaster-spooky-and-adventure-bundle.json"
+    },
+    {
       "igdb_id": 100303,
       "game_name": "Planet Coaster: Spooky Pack",
       "file": "missing/P/100303-planet-coaster-spooky-pack.json"
@@ -873145,6 +873285,11 @@
       "igdb_id": 168242,
       "game_name": "Planet Coaster: The Munsters Munster Koach Construction Kit",
       "file": "missing/P/168242-planet-coaster-the-munsters-munster-koach-construction-kit.json"
+    },
+    {
+      "igdb_id": 225954,
+      "game_name": "Planet Coaster: Vintage & World's Fair Bundle",
+      "file": "missing/P/225954-planet-coaster-vintage-and-worlds-fair-bundle.json"
     },
     {
       "igdb_id": 110841,
@@ -885340,6 +885485,11 @@
       "igdb_id": 10711,
       "game_name": "Police Simulator 2",
       "file": "missing/P/10711-police-simulator-2.json"
+    },
+    {
+      "igdb_id": 225963,
+      "game_name": "Police Simulator 2023",
+      "file": "missing/P/225963-police-simulator-2023.json"
     },
     {
       "igdb_id": 143318,
@@ -903815,6 +903965,11 @@
       "igdb_id": 323047,
       "game_name": "Project Superstar",
       "file": "missing/P/323047-project-superstar.json"
+    },
+    {
+      "igdb_id": 225977,
+      "game_name": "Project Survivor",
+      "file": "missing/P/225977-project-survivor.json"
     },
     {
       "igdb_id": 330576,
@@ -952122,6 +952277,11 @@
       "file": "missing/R/171328-rico-breakout.json"
     },
     {
+      "igdb_id": 225950,
+      "game_name": "Rico: Breakout Bundle",
+      "file": "missing/R/225950-rico-breakout-bundle.json"
+    },
+    {
       "igdb_id": 209166,
       "game_name": "Ricochet",
       "file": "missing/R/209166-ricochet.json"
@@ -963035,6 +963195,11 @@
       "igdb_id": 142223,
       "game_name": "Rocketing",
       "file": "missing/R/142223-rocketing.json"
+    },
+    {
+      "igdb_id": 225962,
+      "game_name": "Rocketio 2",
+      "file": "missing/R/225962-rocketio-2.json"
     },
     {
       "igdb_id": 228925,
@@ -984627,6 +984792,11 @@
       "file": "missing/S/12279-samurai-warriors-4-ii.json"
     },
     {
+      "igdb_id": 225941,
+      "game_name": "Samurai Warriors 4-II: Scenario Set",
+      "file": "missing/S/225941-samurai-warriors-4-ii-scenario-set.json"
+    },
+    {
       "igdb_id": 12280,
       "game_name": "Samurai Warriors 4: Empires",
       "file": "missing/S/12280-samurai-warriors-4-empires.json"
@@ -1002230,6 +1002400,11 @@
       "igdb_id": 28129,
       "game_name": "Senran Kagura Reflexions",
       "file": "missing/S/28129-senran-kagura-reflexions.json"
+    },
+    {
+      "igdb_id": 225928,
+      "game_name": "Senran Kagura Reflexions: 30 Accessory Set",
+      "file": "missing/S/225928-senran-kagura-reflexions-30-accessory-set.json"
     },
     {
       "igdb_id": 374271,
@@ -1059612,6 +1059787,16 @@
       "file": "missing/S/168724-soulcalibur-vi-cassandra.json"
     },
     {
+      "igdb_id": 225940,
+      "game_name": "SoulCalibur VI: Character Creation Set A",
+      "file": "missing/S/225940-soulcalibur-vi-character-creation-set-a.json"
+    },
+    {
+      "igdb_id": 225929,
+      "game_name": "SoulCalibur VI: Character Creation Set C",
+      "file": "missing/S/225929-soulcalibur-vi-character-creation-set-c.json"
+    },
+    {
       "igdb_id": 224129,
       "game_name": "SoulCalibur VI: Character Creation Set F",
       "file": "missing/S/224129-soulcalibur-vi-character-creation-set-f.json"
@@ -1072965,6 +1073150,11 @@
       "igdb_id": 41984,
       "game_name": "Spike Hoppin'",
       "file": "missing/S/41984-spike-hoppin.json"
+    },
+    {
+      "igdb_id": 225966,
+      "game_name": "Spike II: The Great Emu War",
+      "file": "missing/S/225966-spike-ii-the-great-emu-war.json"
     },
     {
       "igdb_id": 70278,
@@ -1096972,6 +1097162,11 @@
       "file": "missing/S/53674-stories-the-path-of-destinies-collectors-edition.json"
     },
     {
+      "igdb_id": 225949,
+      "game_name": "Stories: The Path of Destinies & Omensight Bundle",
+      "file": "missing/S/225949-stories-the-path-of-destinies-and-omensight-bundle.json"
+    },
+    {
       "igdb_id": 28573,
       "game_name": "Storm",
       "file": "missing/S/28573-storm.json"
@@ -1101195,6 +1101390,11 @@
       "igdb_id": 226699,
       "game_name": "Street Outlaws 2: Winner Takes All - Steel Thunder Bundle",
       "file": "missing/S/226699-street-outlaws-2-winner-takes-all-steel-thunder-bundle.json"
+    },
+    {
+      "igdb_id": 225945,
+      "game_name": "Street Outlaws 2: Winner Takes All - The 70s Bundle",
+      "file": "missing/S/225945-street-outlaws-2-winner-takes-all-the-70s-bundle.json"
     },
     {
       "igdb_id": 122442,
@@ -1163092,6 +1163292,11 @@
       "file": "missing/T/234116-the-backrooms-nightmare-dimension.json"
     },
     {
+      "igdb_id": 225974,
+      "game_name": "The Backrooms: Realism",
+      "file": "missing/T/225974-the-backrooms-realism.json"
+    },
+    {
       "igdb_id": 374828,
       "game_name": "The Backrooms: Rescue Expedition",
       "file": "missing/T/374828-the-backrooms-rescue-expedition.json"
@@ -1201432,6 +1201637,11 @@
       "file": "missing/T/362189-the-pig-cow-horizons-of-the-new-valley.json"
     },
     {
+      "igdb_id": 225960,
+      "game_name": "The Pig D: Deluxe Edition",
+      "file": "missing/T/225960-the-pig-d-deluxe-edition.json"
+    },
+    {
       "igdb_id": 186183,
       "game_name": "The Pig: Money Is Time",
       "file": "missing/T/186183-the-pig-money-is-time.json"
@@ -1208110,6 +1208320,11 @@
       "igdb_id": 397220,
       "game_name": "The Simen Rumors",
       "file": "missing/T/397220-the-simen-rumors.json"
+    },
+    {
+      "igdb_id": 225970,
+      "game_name": "The Simorgh",
+      "file": "missing/T/225970-the-simorgh.json"
     },
     {
       "igdb_id": 142079,
@@ -1238497,6 +1238712,11 @@
       "file": "missing/T/119538-tiny-derby.json"
     },
     {
+      "igdb_id": 225978,
+      "game_name": "Tiny Detour",
+      "file": "missing/T/225978-tiny-detour.json"
+    },
+    {
       "igdb_id": 158648,
       "game_name": "Tiny Devil Adventure",
       "file": "missing/T/158648-tiny-devil-adventure.json"
@@ -1247540,6 +1247760,11 @@
       "igdb_id": 202935,
       "game_name": "Tools Up! Garden Party: Season Pass",
       "file": "missing/T/202935-tools-up-garden-party-season-pass.json"
+    },
+    {
+      "igdb_id": 225951,
+      "game_name": "Tools Up!: The Renovation Spree Bundle",
+      "file": "missing/T/225951-tools-up-the-renovation-spree-bundle.json"
     },
     {
       "igdb_id": 280131,
@@ -1258892,6 +1259117,11 @@
       "file": "missing/T/239256-train-sim-world-3-us-super-bundle.json"
     },
     {
+      "igdb_id": 225932,
+      "game_name": "Train Sim World 3: West Somerset Railway",
+      "file": "missing/T/225932-train-sim-world-3-west-somerset-railway.json"
+    },
+    {
       "igdb_id": 262582,
       "game_name": "Train Sim World 4",
       "file": "missing/T/262582-train-sim-world-4.json"
@@ -1261320,6 +1261550,11 @@
       "igdb_id": 156461,
       "game_name": "Train Simulator: Semmeringbahn - Mürzzuschlag to Gloggnitz Route Add-On",
       "file": "missing/T/156461-train-simulator-semmeringbahn-murzzuschlag-to-gloggnitz-route-add-on.json"
+    },
+    {
+      "igdb_id": 225930,
+      "game_name": "Train Simulator: Settle Carlisle Specials Add-On",
+      "file": "missing/T/225930-train-simulator-settle-carlisle-specials-add-on.json"
     },
     {
       "igdb_id": 156422,
@@ -1340500,6 +1340735,11 @@
       "igdb_id": 373740,
       "game_name": "Wild Tower",
       "file": "missing/W/373740-wild-tower.json"
+    },
+    {
+      "igdb_id": 225959,
+      "game_name": "Wild Trax Racing",
+      "file": "missing/W/225959-wild-trax-racing.json"
     },
     {
       "igdb_id": 228001,
