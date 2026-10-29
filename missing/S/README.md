@@ -16433,6 +16433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
 | SoulTrigger | 372606 | [372606-soultrigger.json](./372606-soultrigger.json) |
 | Soulvars | 150176 | [150176-soulvars.json](./150176-soulvars.json) |
+| Soulvars Fatal Error | 206420 | [206420-soulvars-fatal-error.json](./206420-soulvars-fatal-error.json) |
 | Soulvester vs. Lil' Beezey | 245730 | [245730-soulvester-vs-lil-beezey.json](./245730-soulvester-vs-lil-beezey.json) |
 | Soulveyor | 216724 | [216724-soulveyor.json](./216724-soulveyor.json) |
 | SoulWander | 348785 | [348785-soulwander.json](./348785-soulwander.json) |
@@ -16642,6 +16643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sowon | 222984 | [222984-sowon.json](./222984-sowon.json) |
 | Sowon : The Toy Wonderland | 298579 | [298579-sowon-the-toy-wonderland.json](./298579-sowon-the-toy-wonderland.json) |
 | Soy Supremacy | 372036 | [372036-soy-supremacy.json](./372036-soy-supremacy.json) |
+| SoyMilk Runner | 206494 | [206494-soymilk-runner.json](./206494-soymilk-runner.json) |
 | Soyuz Constructors | 120647 | [120647-soyuz-constructors.json](./120647-soyuz-constructors.json) |
 | SP-Light | 291452 | [291452-sp-light.json](./291452-sp-light.json) |
 | Sp:In | 242788 | [242788-sp-in.json](./242788-sp-in.json) |
@@ -28263,6 +28265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball | 134907 | [134907-super-monkey-ball.json](./134907-super-monkey-ball.json) |
 | Super Monkey Ball | 2927 | [2927-super-monkey-ball.json](./2927-super-monkey-ball.json) |
 | Super Monkey Ball 2 | 2928 | [2928-super-monkey-ball-2.json](./2928-super-monkey-ball-2.json) |
+| Super Monkey Ball 2-Pack | 206509 | [206509-super-monkey-ball-2-pack.json](./206509-super-monkey-ball-2-pack.json) |
 | Super Monkey Ball 3D | 6893 | [6893-super-monkey-ball-3d.json](./6893-super-monkey-ball-3d.json) |
 | Super Monkey Ball Adventure | 248530 | [248530-super-monkey-ball-adventure.json](./248530-super-monkey-ball-adventure.json) |
 | Super Monkey Ball Adventure | 4188 | [4188-super-monkey-ball-adventure.json](./4188-super-monkey-ball-adventure.json) |
