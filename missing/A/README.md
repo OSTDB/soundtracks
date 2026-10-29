@@ -2963,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Dungeons & Dragons: Pool of Radiance | 8732 | [8732-advanced-dungeons-and-dragons-pool-of-radiance.json](./8732-advanced-dungeons-and-dragons-pool-of-radiance.json) |
 | Advanced Dungeons & Dragons: Secret of the Silver Blades | 12760 | [12760-advanced-dungeons-and-dragons-secret-of-the-silver-blades.json](./12760-advanced-dungeons-and-dragons-secret-of-the-silver-blades.json) |
 | Advanced Dungeons & Dragons: Treasure of Tarmin | 5655 | [5655-advanced-dungeons-and-dragons-treasure-of-tarmin.json](./5655-advanced-dungeons-and-dragons-treasure-of-tarmin.json) |
+| Advanced Education with Viktor Strobovski | 182059 | [182059-advanced-education-with-viktor-strobovski.json](./182059-advanced-education-with-viktor-strobovski.json) |
 | Advanced Fantasian: Quest for Lost Sanctuary | 304243 | [304243-advanced-fantasian-quest-for-lost-sanctuary.json](./304243-advanced-fantasian-quest-for-lost-sanctuary.json) |
 | Advanced Fruit Machine Simulator | 12348 | [12348-advanced-fruit-machine-simulator.json](./12348-advanced-fruit-machine-simulator.json) |
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
@@ -3815,6 +3816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Inferno | 211423 | [211423-after-the-inferno.json](./211423-after-the-inferno.json) |
 | After the Melodrama Novel | 379500 | [379500-after-the-melodrama-novel.json](./379500-after-the-melodrama-novel.json) |
 | After the Meteor Shower | 230940 | [230940-after-the-meteor-shower.json](./230940-after-the-meteor-shower.json) |
+| After the Shift: Concord | 182061 | [182061-after-the-shift-concord.json](./182061-after-the-shift-concord.json) |
 | After the Storm | 263979 | [263979-after-the-storm.json](./263979-after-the-storm.json) |
 | After the Stream Went Dark | 396010 | [396010-after-the-stream-went-dark.json](./396010-after-the-stream-went-dark.json) |
 | After the Suns | 119533 | [119533-after-the-suns.json](./119533-after-the-suns.json) |
@@ -6968,6 +6970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altered Beast | 2604 | [2604-altered-beast.json](./2604-altered-beast.json) |
 | Altered Beast: Guardian of the Realms | 49193 | [49193-altered-beast-guardian-of-the-realms.json](./49193-altered-beast-guardian-of-the-realms.json) |
 | Altered Destiny | 2304 | [2304-altered-destiny.json](./2304-altered-destiny.json) |
+| Altered Fates | 182030 | [182030-altered-fates.json](./182030-altered-fates.json) |
 | Alteredblood+ | 398990 | [398990-alteredblood.json](./398990-alteredblood.json) |
 | AlterEgo | 178545 | [178545-alterego.json](./178545-alterego.json) |
 | AlterEgo City | 306643 | [306643-alterego-city.json](./306643-alterego-city.json) |
@@ -7777,6 +7780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Us Story: On Guard | 404707 | [404707-among-us-story-on-guard.json](./404707-among-us-story-on-guard.json) |
 | Among Us VR: Glove Pack - Catch Deez Hands | 316401 | [316401-among-us-vr-glove-pack-catch-deez-hands.json](./316401-among-us-vr-glove-pack-catch-deez-hands.json) |
 | Among Us VR: Limited Time Pack - DUM Duo | 316402 | [316402-among-us-vr-limited-time-pack-dum-duo.json](./316402-among-us-vr-limited-time-pack-dum-duo.json) |
+| Among Us: All in One Pack | 182053 | [182053-among-us-all-in-one-pack.json](./182053-among-us-all-in-one-pack.json) |
 | Among Us: Crewmate Edition | 155093 | [155093-among-us-crewmate-edition.json](./155093-among-us-crewmate-edition.json) |
 | Among Us: District 5 | 355060 | [355060-among-us-district-5.json](./355060-among-us-district-5.json) |
 | Among Us: Ejected Edition | 155092 | [155092-among-us-ejected-edition.json](./155092-among-us-ejected-edition.json) |
@@ -9384,6 +9388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ano Yo Iki Densha | 381405 | [381405-ano-yo-iki-densha.json](./381405-ano-yo-iki-densha.json) |
 | Ano-chan wo Byouin ni Tsuretette | 283054 | [283054-ano-chan-wo-byouin-ni-tsuretette.json](./283054-ano-chan-wo-byouin-ni-tsuretette.json) |
 | Ano, Subarashii wo Mou Ichido: Saisouban HD | 251530 | [251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json](./251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json) |
+| Anode Heart | 182028 | [182028-anode-heart.json](./182028-anode-heart.json) |
 | Anode Heart 2 | 345994 | [345994-anode-heart-2.json](./345994-anode-heart-2.json) |
 | Anode Heart: Layer Null | 319845 | [319845-anode-heart-layer-null.json](./319845-anode-heart-layer-null.json) |
 | Anode Heart: Tenelon | 397589 | [397589-anode-heart-tenelon.json](./397589-anode-heart-tenelon.json) |
