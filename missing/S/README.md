@@ -2851,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCOP | 251085 | [251085-scop.json](./251085-scop.json) |
 | Scopa | 100012 | [100012-scopa.json](./100012-scopa.json) |
 | Scopaesthesia | 256720 | [256720-scopaesthesia.json](./256720-scopaesthesia.json) |
+| Scope | 183180 | [183180-scope.json](./183180-scope.json) |
 | Scope Out | 372505 | [372505-scope-out.json](./372505-scope-out.json) |
 | Scopecreep | 370891 | [370891-scopecreep.json](./370891-scopecreep.json) |
 | Scopic | 132865 | [132865-scopic.json](./132865-scopic.json) |
@@ -3176,6 +3177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scratchin' Melodii | 215235 | [215235-scratchin-melodii.json](./215235-scratchin-melodii.json) |
 | ScrawlBrawl | 194902 | [194902-scrawlbrawl.json](./194902-scrawlbrawl.json) |
 | Scray Nightmare: Secret Mystery | 89001 | [89001-scray-nightmare-secret-mystery.json](./89001-scray-nightmare-secret-mystery.json) |
+| Scream | 183211 | [183211-scream.json](./183211-scream.json) |
 | Scream 4 | 77204 | [77204-scream-4.json](./77204-scream-4.json) |
 | Scream and Steel: Horror Story Shooter | 284493 | [284493-scream-and-steel-horror-story-shooter.json](./284493-scream-and-steel-horror-story-shooter.json) |
 | Scream Collector | 74450 | [74450-scream-collector.json](./74450-scream-collector.json) |
@@ -12473,6 +12475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Town Detective | 310585 | [310585-small-town-detective.json](./310585-small-town-detective.json) |
 | Small Town Detective in Where are Ray And Cooper | 310586 | [310586-small-town-detective-in-where-are-ray-and-cooper.json](./310586-small-town-detective-in-where-are-ray-and-cooper.json) |
 | Small Town Robot | 151288 | [151288-small-town-robot.json](./151288-small-town-robot.json) |
+| Small Town Rocket Ship | 183199 | [183199-small-town-rocket-ship.json](./183199-small-town-rocket-ship.json) |
 | Small Town Terrors: Galdor's Bluff | 79248 | [79248-small-town-terrors-galdors-bluff.json](./79248-small-town-terrors-galdors-bluff.json) |
 | Small Town Terrors: Galdor's Bluff - Collector's Edition | 33814 | [33814-small-town-terrors-galdors-bluff-collectors-edition.json](./33814-small-town-terrors-galdors-bluff-collectors-edition.json) |
 | Small Town Terrors: Livingston | 33771 | [33771-small-town-terrors-livingston.json](./33771-small-town-terrors-livingston.json) |
@@ -14107,6 +14110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soft de Hard na Monogatari | 112039 | [112039-soft-de-hard-na-monogatari.json](./112039-soft-de-hard-na-monogatari.json) |
 | Soft de Hard na Monogatari 2 | 112034 | [112034-soft-de-hard-na-monogatari-2.json](./112034-soft-de-hard-na-monogatari-2.json) |
 | Soft Drizzle | 177527 | [177527-soft-drizzle.json](./177527-soft-drizzle.json) |
+| Soft Drizzle: B-Track | 183175 | [183175-soft-drizzle-b-track.json](./183175-soft-drizzle-b-track.json) |
 | Soft Earth | 143457 | [143457-soft-earth.json](./143457-soft-earth.json) |
 | Soft Kitten Experience | 267533 | [267533-soft-kitten-experience.json](./267533-soft-kitten-experience.json) |
 | Soft Ruin | 415324 | [415324-soft-ruin.json](./415324-soft-ruin.json) |
@@ -14745,6 +14749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solomon Program | 128357 | [128357-solomon-program.json](./128357-solomon-program.json) |
 | Solomon Snow: First Contact | 207647 | [207647-solomon-snow-first-contact.json](./207647-solomon-snow-first-contact.json) |
 | Solomon's Boneyard: Hideous Retro Edition | 407175 | [407175-solomons-boneyard-hideous-retro-edition.json](./407175-solomons-boneyard-hideous-retro-edition.json) |
+| Solomon's Box | 183206 | [183206-solomons-box.json](./183206-solomons-box.json) |
 | Solomon's Keep | 132812 | [132812-solomons-keep.json](./132812-solomons-keep.json) |
 | Solomon's Key | 28384 | [28384-solomons-key.json](./28384-solomons-key.json) |
 | Solomon's Key | 286608 | [286608-solomons-key.json](./286608-solomons-key.json) |
@@ -16169,6 +16174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort The Toys | 419887 | [419887-sort-the-toys.json](./419887-sort-the-toys.json) |
 | Sort Them Ducks | 412357 | [412357-sort-them-ducks.json](./412357-sort-them-ducks.json) |
 | Sort Tiles | 364023 | [364023-sort-tiles.json](./364023-sort-tiles.json) |
+| Sort Your Life Out | 183218 | [183218-sort-your-life-out.json](./183218-sort-your-life-out.json) |
 | Sorted | 392265 | [392265-sorted.json](./392265-sorted.json) |
 | Sorted! | 219586 | [219586-sorted.json](./219586-sorted.json) |
 | Sorter | 388912 | [388912-sorter.json](./388912-sorter.json) |
