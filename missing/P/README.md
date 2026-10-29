@@ -1917,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormasight: The Mermaid's Curse | 388426 | [388426-paranormasight-the-mermaids-curse.json](./388426-paranormasight-the-mermaids-curse.json) |
 | Paranox | 273828 | [273828-paranox.json](./273828-paranox.json) |
 | Paranoya | 204269 | [204269-paranoya.json](./204269-paranoya.json) |
+| Parapara Leloluv | 226473 | [226473-parapara-leloluv.json](./226473-parapara-leloluv.json) |
 | ParaParaParadise 2nd mix | 78946 | [78946-paraparaparadise-2nd-mix.json](./78946-paraparaparadise-2nd-mix.json) |
 | ParaParaParadise V1.1 | 314329 | [314329-paraparaparadise-v1-1.json](./314329-paraparaparadise-v1-1.json) |
 | Paraplasm: Beyond the Veil | 295160 | [295160-paraplasm-beyond-the-veil.json](./295160-paraplasm-beyond-the-veil.json) |
@@ -2050,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park Beyond: Impossified Edition | 242369 | [242369-park-beyond-impossified-edition.json](./242369-park-beyond-impossified-edition.json) |
 | Park Beyond: Visioneer Edition | 254055 | [254055-park-beyond-visioneer-edition.json](./254055-park-beyond-visioneer-edition.json) |
 | Park Bound | 40524 | [40524-park-bound.json](./40524-park-bound.json) |
+| Park Control Simulator | 226470 | [226470-park-control-simulator.json](./226470-park-control-simulator.json) |
 | Park Escape | 362740 | [362740-park-escape.json](./362740-park-escape.json) |
 | Park Inc | 146878 | [146878-park-inc.json](./146878-park-inc.json) |
 | Park It at All Costs! | 373125 | [373125-park-it-at-all-costs.json](./373125-park-it-at-all-costs.json) |
@@ -9077,6 +9079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Pioneers | 152388 | [152388-pocket-pioneers.json](./152388-pocket-pioneers.json) |
 | Pocket Pix | 260880 | [260880-pocket-pix.json](./260880-pocket-pix.json) |
 | Pocket Planes | 65017 | [65017-pocket-planes.json](./65017-pocket-planes.json) |
+| Pocket Planet | 226479 | [226479-pocket-planet.json](./226479-pocket-planet.json) |
 | Pocket Plants | 149595 | [149595-pocket-plants.json](./149595-pocket-plants.json) |
 | Pocket Plants | 265949 | [265949-pocket-plants.json](./265949-pocket-plants.json) |
 | Pocket Player Pro: Mega Man | 275242 | [275242-pocket-player-pro-mega-man.json](./275242-pocket-player-pro-mega-man.json) |
@@ -9210,6 +9213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pog 5 | 165705 | [165705-pog-5.json](./165705-pog-5.json) |
 | Pog 6 | 188853 | [188853-pog-6.json](./188853-pog-6.json) |
 | Pog 7 | 190932 | [190932-pog-7.json](./190932-pog-7.json) |
+| Pog X | 226508 | [226508-pog-x.json](./226508-pog-x.json) |
 | Pog XL | 236891 | [236891-pog-xl.json](./236891-pog-xl.json) |
 | Pogger's Legends | 319641 | [319641-poggers-legends.json](./319641-poggers-legends.json) |
 | Poggers | 115710 | [115710-poggers.json](./115710-poggers.json) |
@@ -12439,6 +12443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pride | 181737 | [181737-pride.json](./181737-pride.json) |
 | Pride and Prejudice | 22177 | [22177-pride-and-prejudice.json](./22177-pride-and-prejudice.json) |
 | Pride and Prejudice: Blood Ties | 192776 | [192776-pride-and-prejudice-blood-ties.json](./192776-pride-and-prejudice-blood-ties.json) |
+| Pride and Prejudice: Blood Ties - Collector's Edition | 226491 | [226491-pride-and-prejudice-blood-ties-collectors-edition.json](./226491-pride-and-prejudice-blood-ties-collectors-edition.json) |
 | Pride FC: Fighting Championships | 18276 | [18276-pride-fc-fighting-championships.json](./18276-pride-fc-fighting-championships.json) |
 | Pride GP Grand Prix 2003 | 67048 | [67048-pride-gp-grand-prix-2003.json](./67048-pride-gp-grand-prix-2003.json) |
 | Pride of Nations | 2068 | [2068-pride-of-nations.json](./2068-pride-of-nations.json) |
