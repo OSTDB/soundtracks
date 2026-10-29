@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valor | 299145 | [299145-valor.json](./299145-valor.json) |
 | Valor | 368260 | [368260-valor.json](./368260-valor.json) |
 | Valor & Blade | 318544 | [318544-valor-and-blade.json](./318544-valor-and-blade.json) |
+| Valor & Victory: Arnhem | 218842 | [218842-valor-and-victory-arnhem.json](./218842-valor-and-victory-arnhem.json) |
 | Valor & Victory: Kursk | 260381 | [260381-valor-and-victory-kursk.json](./260381-valor-and-victory-kursk.json) |
 | Valor & Victory: Shield of Cholm | 207788 | [207788-valor-and-victory-shield-of-cholm.json](./207788-valor-and-victory-shield-of-cholm.json) |
 | Valor & Victory: Stalingrad | 191004 | [191004-valor-and-victory-stalingrad.json](./191004-valor-and-victory-stalingrad.json) |
