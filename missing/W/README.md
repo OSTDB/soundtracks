@@ -3228,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack Your Computer | 356717 | [356717-whack-your-computer.json](./356717-whack-your-computer.json) |
 | Whack Your Ex | 193853 | [193853-whack-your-ex.json](./193853-whack-your-ex.json) |
 | Whack Your Neighbor | 327996 | [327996-whack-your-neighbor.json](./327996-whack-your-neighbor.json) |
+| Whack Your Zombie Neighbour: Sports Edition | 214321 | [214321-whack-your-zombie-neighbour-sports-edition.json](./214321-whack-your-zombie-neighbour-sports-edition.json) |
 | Whack-A-Dalek | 239583 | [239583-whack-a-dalek.json](./239583-whack-a-dalek.json) |
 | Whack-A-Friend | 85486 | [85486-whack-a-friend.json](./85486-whack-a-friend.json) |
 | Whack-a-Mole | 288363 | [288363-whack-a-mole.json](./288363-whack-a-mole.json) |
@@ -6419,6 +6420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood Killer | 152638 | [152638-wood-killer.json](./152638-wood-killer.json) |
 | Wood Nuts & Bolts Puzzle | 331341 | [331341-wood-nuts-and-bolts-puzzle.json](./331341-wood-nuts-and-bolts-puzzle.json) |
 | Wood Puzzle | 208942 | [208942-wood-puzzle.json](./208942-wood-puzzle.json) |
+| Wood Unroll Ball | 214283 | [214283-wood-unroll-ball.json](./214283-wood-unroll-ball.json) |
 | Wood Walker | 395874 | [395874-wood-walker.json](./395874-wood-walker.json) |
 | Wood'N'Destroy | 396367 | [396367-woodndestroy.json](./396367-woodndestroy.json) |
 | Woodbound | 140971 | [140971-woodbound.json](./140971-woodbound.json) |
