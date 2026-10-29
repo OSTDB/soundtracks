@@ -3650,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewd Gym | 207337 | [207337-lewd-gym.json](./207337-lewd-gym.json) |
 | Lewd Hentai Puzzle | 306241 | [306241-lewd-hentai-puzzle.json](./306241-lewd-hentai-puzzle.json) |
 | Lewd Island | 385875 | [385875-lewd-island.json](./385875-lewd-island.json) |
+| Lewd Life with My Doggy Wife | 203633 | [203633-lewd-life-with-my-doggy-wife.json](./203633-lewd-life-with-my-doggy-wife.json) |
 | Lewd Maze | 171801 | [171801-lewd-maze.json](./171801-lewd-maze.json) |
 | Lewd Mod | 355607 | [355607-lewd-mod.json](./355607-lewd-mod.json) |
 | Lewd Mod 2 | 356871 | [356871-lewd-mod-2.json](./356871-lewd-mod-2.json) |
@@ -8996,6 +8997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyser | 118982 | [118982-lyser.json](./118982-lyser.json) |
 | Lyset Core | 377911 | [377911-lyset-core.json](./377911-lyset-core.json) |
 | Lysium: Stardiver | 314505 | [314505-lysium-stardiver.json](./314505-lysium-stardiver.json) |
+| Lysogenesis | 203638 | [203638-lysogenesis.json](./203638-lysogenesis.json) |
 | Lyssa | 260122 | [260122-lyssa.json](./260122-lyssa.json) |
 | Lyssa: Goddess of Rage | 273929 | [273929-lyssa-goddess-of-rage.json](./273929-lyssa-goddess-of-rage.json) |
 | Lyssophobia | 179181 | [179181-lyssophobia.json](./179181-lyssophobia.json) |
