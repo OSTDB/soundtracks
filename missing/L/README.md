@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L'Cestrue Seyuntres | 128451 | [128451-lcestrue-seyuntres.json](./128451-lcestrue-seyuntres.json) |
 | L'Empereur | 85737 | [85737-lempereur.json](./85737-lempereur.json) |
 | L'Empire Banger V1 | 412766 | [412766-lempire-banger-v1.json](./412766-lempire-banger-v1.json) |
+| L'employe parfait | 180943 | [180943-lemploye-parfait.json](./180943-lemploye-parfait.json) |
 | L'Eredità | 317207 | [317207-leredita.json](./317207-leredita.json) |
 | L'esprit du loup | 144074 | [144074-lesprit-du-loup.json](./144074-lesprit-du-loup.json) |
 | L'Histoire de France Pour Les Nuls | 269633 | [269633-lhistoire-de-france-pour-les-nuls.json](./269633-lhistoire-de-france-pour-les-nuls.json) |
@@ -3030,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemon Cake | 137111 | [137111-lemon-cake.json](./137111-lemon-cake.json) |
 | Lemon Pending | 179362 | [179362-lemon-pending.json](./179362-lemon-pending.json) |
 | Lemon Run | 192576 | [192576-lemon-run.json](./192576-lemon-run.json) |
+| Lemon Street | 180937 | [180937-lemon-street.json](./180937-lemon-street.json) |
 | Lemonade | 366258 | [366258-lemonade.json](./366258-lemonade.json) |
 | Lemonade Apocalypse | 290965 | [290965-lemonade-apocalypse.json](./290965-lemonade-apocalypse.json) |
 | Lemonade Stand | 207283 | [207283-lemonade-stand.json](./207283-lemonade-stand.json) |
