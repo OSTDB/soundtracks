@@ -4835,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Legend | 398182 | [398182-deer-legend.json](./398182-deer-legend.json) |
 | Deer Man | 19045 | [19045-deer-man.json](./19045-deer-man.json) |
 | Deer Napped | 93223 | [93223-deer-napped.json](./93223-deer-napped.json) |
+| Deer Nightmare | 210978 | [210978-deer-nightmare.json](./210978-deer-nightmare.json) |
 | Deer Simulator | 83185 | [83185-deer-simulator.json](./83185-deer-simulator.json) |
 | Deer's Revenge | 112655 | [112655-deers-revenge.json](./112655-deers-revenge.json) |
 | DeerHunterFan.com TV: The Season | 219236 | [219236-deerhunterfan-com-tv-the-season.json](./219236-deerhunterfan-com-tv-the-season.json) |
@@ -5424,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delusion | 302735 | [302735-delusion.json](./302735-delusion.json) |
 | Delusion Gallery | 178607 | [178607-delusion-gallery.json](./178607-delusion-gallery.json) |
 | Delusion Out of Space | 247891 | [247891-delusion-out-of-space.json](./247891-delusion-out-of-space.json) |
+| Delusional | 211015 | [211015-delusional.json](./211015-delusional.json) |
 | Delusional | 377584 | [377584-delusional.json](./377584-delusional.json) |
 | Deluxe Free Cell Solitaire | 86899 | [86899-deluxe-free-cell-solitaire.json](./86899-deluxe-free-cell-solitaire.json) |
 | Deluxe Galaga | 39026 | [39026-deluxe-galaga.json](./39026-deluxe-galaga.json) |
@@ -7719,6 +7721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Siedler IV: Community Pack | 255533 | [255533-die-siedler-iv-community-pack.json](./255533-die-siedler-iv-community-pack.json) |
 | Die Siedler IV: Die Neue Welt | 255532 | [255532-die-siedler-iv-die-neue-welt.json](./255532-die-siedler-iv-die-neue-welt.json) |
 | Die Stadt der Löwen | 99696 | [99696-die-stadt-der-lowen.json](./99696-die-stadt-der-lowen.json) |
+| Die to Survive | 210994 | [210994-die-to-survive.json](./210994-die-to-survive.json) |
 | Die Together | 184465 | [184465-die-together.json](./184465-die-together.json) |
 | Die Totenmaske | 184105 | [184105-die-totenmaske.json](./184105-die-totenmaske.json) |
 | Die Trying | 343205 | [343205-die-trying.json](./343205-die-trying.json) |
@@ -10260,6 +10263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggo | 287098 | [287098-doggo.json](./287098-doggo.json) |
 | Doggo Dentist | 229896 | [229896-doggo-dentist.json](./229896-doggo-dentist.json) |
 | Doggo Dungeon | 174270 | [174270-doggo-dungeon.json](./174270-doggo-dungeon.json) |
+| Doggo Estates | 210998 | [210998-doggo-estates.json](./210998-doggo-estates.json) |
 | Doggo Garden Defense | 246012 | [246012-doggo-garden-defense.json](./246012-doggo-garden-defense.json) |
 | Doggo Patrol | 223606 | [223606-doggo-patrol.json](./223606-doggo-patrol.json) |
 | Doggo Quest | 151047 | [151047-doggo-quest.json](./151047-doggo-quest.json) |
