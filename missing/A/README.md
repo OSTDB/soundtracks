@@ -1345,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Girl | 272640 | [272640-a-girl.json](./272640-a-girl.json) |
 | A-Girl: New Character B | 283882 | [283882-a-girl-new-character-b.json](./283882-a-girl-new-character-b.json) |
 | A-Kei Otaku | 113587 | [113587-a-kei-otaku.json](./113587-a-kei-otaku.json) |
+| A-Kei Otaku Kanojo | 222069 | [222069-a-kei-otaku-kanojo.json](./222069-a-kei-otaku-kanojo.json) |
 | A-Maze-Ing | 44373 | [44373-a-maze-ing.json](./44373-a-maze-ing.json) |
 | A-Mazing 3D | 264728 | [264728-a-mazing-3d.json](./264728-a-mazing-3d.json) |
 | A-mazing Ants | 52561 | [52561-a-mazing-ants.json](./52561-a-mazing-ants.json) |
@@ -8627,6 +8628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Anatomy VR | 377359 | [377359-animal-anatomy-vr.json](./377359-animal-anatomy-vr.json) |
 | Animal Arena | 274950 | [274950-animal-arena.json](./274950-animal-arena.json) |
 | Animal Away Jam | 297651 | [297651-animal-away-jam.json](./297651-animal-away-jam.json) |
+| Animal Babies Puzzle | 222053 | [222053-animal-babies-puzzle.json](./222053-animal-babies-puzzle.json) |
 | Animal Babysister Fighter | 200474 | [200474-animal-babysister-fighter.json](./200474-animal-babysister-fighter.json) |
 | Animal Basket | 313573 | [313573-animal-basket.json](./313573-animal-basket.json) |
 | Animal Battle Arena | 315808 | [315808-animal-battle-arena.json](./315808-animal-battle-arena.json) |
