@@ -19824,6 +19824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Conqueror | 123920 | [123920-tile-conqueror.json](./123920-tile-conqueror.json) |
 | Tile Cross | 300723 | [300723-tile-cross.json](./300723-tile-cross.json) |
 | Tile Game Classic | 88272 | [88272-tile-game-classic.json](./88272-tile-game-classic.json) |
+| Tile Garden | 214305 | [214305-tile-garden.json](./214305-tile-garden.json) |
 | Tile Garden | 234483 | [234483-tile-garden.json](./234483-tile-garden.json) |
 | Tile Hero | 416174 | [416174-tile-hero.json](./416174-tile-hero.json) |
 | Tile Jong | 336379 | [336379-tile-jong.json](./336379-tile-jong.json) |
@@ -22551,6 +22552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topswap | 265510 | [265510-topswap.json](./265510-topswap.json) |
 | Topsy Turvy | 147414 | [147414-topsy-turvy.json](./147414-topsy-turvy.json) |
 | Topsy Turvy | 9832 | [9832-topsy-turvy.json](./9832-topsy-turvy.json) |
+| Topwar | 214298 | [214298-topwar.json](./214298-topwar.json) |
 | Topworld | 310815 | [310815-topworld.json](./310815-topworld.json) |
 | Topzerah | 365164 | [365164-topzerah.json](./365164-topzerah.json) |
 | ToQger Maze Game | 60491 | [60491-toqger-maze-game.json](./60491-toqger-maze-game.json) |
@@ -26504,6 +26506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Isle | 92402 | [92402-treasure-isle.json](./92402-treasure-isle.json) |
 | Treasure Journey | 337044 | [337044-treasure-journey.json](./337044-treasure-journey.json) |
 | Treasure Knight | 285363 | [285363-treasure-knight.json](./285363-treasure-knight.json) |
+| Treasure Master | 214303 | [214303-treasure-master.json](./214303-treasure-master.json) |
 | Treasure Master | 80822 | [80822-treasure-master.json](./80822-treasure-master.json) |
 | Treasure Masters, Inc. | 24771 | [24771-treasure-masters-inc.json](./24771-treasure-masters-inc.json) |
 | Treasure Masters, Inc.: The Lost City | 54180 | [54180-treasure-masters-inc-the-lost-city.json](./54180-treasure-masters-inc-the-lost-city.json) |
