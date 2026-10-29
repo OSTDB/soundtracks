@@ -1445,6 +1445,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tam Duke | 273213 | [273213-tam-duke.json](./273213-tam-duke.json) |
 | Tama & Friends: 3-choume Daibouken | 41332 | [41332-tama-and-friends-3-choume-daibouken.json](./41332-tama-and-friends-3-choume-daibouken.json) |
 | Tama & Friends: 3-match Puzzle | 276327 | [276327-tama-and-friends-3-match-puzzle.json](./276327-tama-and-friends-3-match-puzzle.json) |
+| Tama and Friends: 3-choume ha Oosawagi | 218270 | [218270-tama-and-friends-3-choume-ha-oosawagi.json](./218270-tama-and-friends-3-choume-ha-oosawagi.json) |
+| Tama and Friends: Kankeri Hajimeru yo! | 218298 | [218298-tama-and-friends-kankeri-hajimeru-yo.json](./218298-tama-and-friends-kankeri-hajimeru-yo.json) |
+| Tama and Friends: Pop Step Tama | 218297 | [218297-tama-and-friends-pop-step-tama.json](./218297-tama-and-friends-pop-step-tama.json) |
 | Tama In-Between | 355580 | [355580-tama-in-between.json](./355580-tama-in-between.json) |
 | Tama: Adventurous Ball in Giddy Labyrinth | 60361 | [60361-tama-adventurous-ball-in-giddy-labyrinth.json](./60361-tama-adventurous-ball-in-giddy-labyrinth.json) |
 | Tamadog | 227503 | [227503-tamadog.json](./227503-tamadog.json) |
@@ -2367,7 +2370,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasu Bowl | 349101 | [349101-tasu-bowl.json](./349101-tasu-bowl.json) |
 | Tasukemono | 250766 | [250766-tasukemono.json](./250766-tasukemono.json) |
 | Tatakae Butasan | 221579 | [221579-tatakae-butasan.json](./221579-tatakae-butasan.json) |
+| Tatakae RX! | 218246 | [218246-tatakae-rx.json](./218246-tatakae-rx.json) |
 | Tatakae! Draft Redder | 385811 | [385811-tatakae-draft-redder.json](./385811-tatakae-draft-redder.json) |
+| Tatakae! Juohmaru | 218243 | [218243-tatakae-juohmaru.json](./218243-tatakae-juohmaru.json) |
 | Tatakae! KitadeMan | 173078 | [173078-tatakae-kitademan.json](./173078-tatakae-kitademan.json) |
 | Tatakae! Pro Yakyuu Twin League | 209780 | [209780-tatakae-pro-yakyuu-twin-league.json](./209780-tatakae-pro-yakyuu-twin-league.json) |
 | Tatakae! Ultraman | 345915 | [345915-tatakae-ultraman.json](./345915-tatakae-ultraman.json) |
@@ -5316,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Auction Game | 337199 | [337199-the-auction-game.json](./337199-the-auction-game.json) |
 | The Augury House | 188471 | [188471-the-augury-house.json](./188471-the-augury-house.json) |
 | The Aurora Chronicles | 383203 | [383203-the-aurora-chronicles.json](./383203-the-aurora-chronicles.json) |
+| The Aurora World | 218274 | [218274-the-aurora-world.json](./218274-the-aurora-world.json) |
 | The Austrian Painter | 179484 | [179484-the-austrian-painter.json](./179484-the-austrian-painter.json) |
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
 | The Automatician | 51504 | [51504-the-automatician.json](./51504-the-automatician.json) |
@@ -10027,6 +10033,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Choco Santa: Turbo | 227840 | [227840-the-jumping-choco-santa-turbo.json](./227840-the-jumping-choco-santa-turbo.json) |
 | The Jumping Chocolate | 231371 | [231371-the-jumping-chocolate.json](./231371-the-jumping-chocolate.json) |
 | The Jumping Chocolate: Turbo | 231372 | [231372-the-jumping-chocolate-turbo.json](./231372-the-jumping-chocolate-turbo.json) |
+| The Jumping Churros | 218284 | [218284-the-jumping-churros.json](./218284-the-jumping-churros.json) |
+| The Jumping Churros: Turbo | 218285 | [218285-the-jumping-churros-turbo.json](./218285-the-jumping-churros-turbo.json) |
 | The Jumping Coffee | 214700 | [214700-the-jumping-coffee.json](./214700-the-jumping-coffee.json) |
 | The Jumping Cookie | 228592 | [228592-the-jumping-cookie.json](./228592-the-jumping-cookie.json) |
 | The Jumping Cookie: Turbo | 228593 | [228593-the-jumping-cookie-turbo.json](./228593-the-jumping-cookie-turbo.json) |
@@ -23454,6 +23462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toukiden: The Age of Demons | 8658 | [8658-toukiden-the-age-of-demons.json](./8658-toukiden-the-age-of-demons.json) |
 | Touko in Underland | 312764 | [312764-touko-in-underland.json](./312764-touko-in-underland.json) |
 | Toukon Heat | 274405 | [274405-toukon-heat.json](./274405-toukon-heat.json) |
+| Toukon Juohmaru | 218292 | [218292-toukon-juohmaru.json](./218292-toukon-juohmaru.json) |
 | Toumayhem | 202857 | [202857-toumayhem.json](./202857-toumayhem.json) |
 | Toumei na Yasashisa | 368604 | [368604-toumei-na-yasashisa.json](./368604-toumei-na-yasashisa.json) |
 | Toupei55 | 151475 | [151475-toupei55.json](./151475-toupei55.json) |
@@ -24177,6 +24186,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track & Field | 6439 | [6439-track-and-field.json](./6439-track-and-field.json) |
 | Track & Field II | 20903 | [20903-track-and-field-ii.json](./20903-track-and-field-ii.json) |
 | Track & Field in Barcelona | 48893 | [48893-track-and-field-in-barcelona.json](./48893-track-and-field-in-barcelona.json) |
+| Track & Field: Running Type | 218294 | [218294-track-and-field-running-type.json](./218294-track-and-field-running-type.json) |
+| Track & Field: Throwing Type | 218293 | [218293-track-and-field-throwing-type.json](./218293-track-and-field-throwing-type.json) |
 | Track Attack: Changes Everything | 251202 | [251202-track-attack-changes-everything.json](./251202-track-attack-changes-everything.json) |
 | Track Craft | 318717 | [318717-track-craft.json](./318717-track-craft.json) |
 | Track Masters Pro | 338953 | [338953-track-masters-pro.json](./338953-track-masters-pro.json) |
@@ -28536,6 +28547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok: Evolution | 146695 | [146695-turok-evolution.json](./146695-turok-evolution.json) |
 | Turok: Origins | 325600 | [325600-turok-origins.json](./325600-turok-origins.json) |
 | Turok: Rage Wars | 1327 | [1327-turok-rage-wars.json](./1327-turok-rage-wars.json) |
+| Turovero: The Celestial Tower | 218278 | [218278-turovero-the-celestial-tower.json](./218278-turovero-the-celestial-tower.json) |
 | Turpedo | 188420 | [188420-turpedo.json](./188420-turpedo.json) |
 | Turpin | 42138 | [42138-turpin.json](./42138-turpin.json) |
 | Turquoise | 389596 | [389596-turquoise.json](./389596-turquoise.json) |
