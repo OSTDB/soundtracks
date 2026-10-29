@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ochin ni Toshi Puzzle Tonjan!? | 48798 | [48798-ochin-ni-toshi-puzzle-tonjan.json](./48798-ochin-ni-toshi-puzzle-tonjan.json) |
 | Ochiru Part Tsuma: Toshishita Otoko to no Jouji ni Oboreta Hate ni... | 413706 | [413706-ochiru-part-tsuma-toshishita-otoko-to-no-jouji-ni-oboreta-hate-ni.json](./413706-ochiru-part-tsuma-toshishita-otoko-to-no-jouji-ni-oboreta-hate-ni.json) |
 | Ochre | 400963 | [400963-ochre.json](./400963-ochre.json) |
+| Ocnus Theory | 216602 | [216602-ocnus-theory.json](./216602-ocnus-theory.json) |
 | Oco | 125845 | [125845-oco.json](./125845-oco.json) |
 | Ocolast | 158027 | [158027-ocolast.json](./158027-ocolast.json) |
 | Ocon | 329061 | [329061-ocon.json](./329061-ocon.json) |
@@ -2817,6 +2818,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ookami Okami | 343046 | [343046-ookami-okami.json](./343046-ookami-okami.json) |
 | Ookami to Koushinryou: Boku to Holo no Ichi-nen | 123449 | [123449-ookami-to-koushinryou-boku-to-holo-no-ichi-nen.json](./123449-ookami-to-koushinryou-boku-to-holo-no-ichi-nen.json) |
 | Ookami to Koushinryou: Umi wo Wataru Kaze | 61433 | [61433-ookami-to-koushinryou-umi-wo-wataru-kaze.json](./61433-ookami-to-koushinryou-umi-wo-wataru-kaze.json) |
+| Ookami-kun 3 | 216559 | [216559-ookami-kun-3.json](./216559-ookami-kun-3.json) |
+| Ookami-kun 4 | 216560 | [216560-ookami-kun-4.json](./216560-ookami-kun-4.json) |
+| Ookami-kun 5 | 216561 | [216561-ookami-kun-5.json](./216561-ookami-kun-5.json) |
 | Ookami-otoko Satsujin Jiken | 56755 | [56755-ookami-otoko-satsujin-jiken.json](./56755-ookami-otoko-satsujin-jiken.json) |
 | Ookeenga | 225842 | [225842-ookeenga.json](./225842-ookeenga.json) |
 | Ookibloks | 34516 | [34516-ookibloks.json](./34516-ookibloks.json) |
@@ -3131,6 +3135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Desert Storm | 8712 | [8712-operation-desert-storm.json](./8712-operation-desert-storm.json) |
 | Operation: Eronta | 236210 | [236210-operation-eronta.json](./236210-operation-eronta.json) |
 | Operation: Escape | 367768 | [367768-operation-escape.json](./367768-operation-escape.json) |
+| Operation: Forge the Deep | 216610 | [216610-operation-forge-the-deep.json](./216610-operation-forge-the-deep.json) |
 | Operation: Get Bike Back | 270705 | [270705-operation-get-bike-back.json](./270705-operation-get-bike-back.json) |
 | Operation: Hostage Rescue | 337987 | [337987-operation-hostage-rescue.json](./337987-operation-hostage-rescue.json) |
 | Operation: Hostage Rescue - Close Quarters Combat | 208989 | [208989-operation-hostage-rescue-close-quarters-combat.json](./208989-operation-hostage-rescue-close-quarters-combat.json) |
