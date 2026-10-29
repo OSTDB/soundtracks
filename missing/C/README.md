@@ -12133,6 +12133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction: Action - Player: F-46-# - Relic Hunter | 354483 | [354483-construction-action-player-f-46-relic-hunter.json](./354483-construction-action-player-f-46-relic-hunter.json) |
 | Construction: Action - Player: F-47-# - Fisherman | 354490 | [354490-construction-action-player-f-47-fisherman.json](./354490-construction-action-player-f-47-fisherman.json) |
 | Construction: Action - Player: F-48-# - Apricorn Maker | 354484 | [354484-construction-action-player-f-48-apricorn-maker.json](./354484-construction-action-player-f-48-apricorn-maker.json) |
+| Constructopia | 196960 | [196960-constructopia.json](./196960-constructopia.json) |
 | Constructor | 2614 | [2614-constructor.json](./2614-constructor.json) |
 | Constructor | 26780 | [26780-constructor.json](./26780-constructor.json) |
 | Constructor: Building Pack 1 - World Tenant Buildings | 226839 | [226839-constructor-building-pack-1-world-tenant-buildings.json](./226839-constructor-building-pack-1-world-tenant-buildings.json) |
@@ -15958,6 +15959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crunda | 333043 | [333043-crunda.json](./333043-crunda.json) |
 | Crunky | 204200 | [204200-crunky.json](./204200-crunky.json) |
 | Cruo Domine | 246857 | [246857-cruo-domine.json](./246857-cruo-domine.json) |
+| Crupt | 196989 | [196989-crupt.json](./196989-crupt.json) |
 | Crusade in Europe | 25922 | [25922-crusade-in-europe.json](./25922-crusade-in-europe.json) |
 | Crusade of Deitra | 173296 | [173296-crusade-of-deitra.json](./173296-crusade-of-deitra.json) |
 | Crusade of Destiny | 66721 | [66721-crusade-of-destiny.json](./66721-crusade-of-destiny.json) |
