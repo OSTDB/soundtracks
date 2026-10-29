@@ -809,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Kamil vs. Ninja Nejat | 165491 | [165491-karate-kamil-vs-ninja-nejat.json](./165491-karate-kamil-vs-ninja-nejat.json) |
 | Karate Kat Times Tables | 102608 | [102608-karate-kat-times-tables.json](./102608-karate-kat-times-tables.json) |
 | Karate Kid | 218348 | [218348-karate-kid.json](./218348-karate-kid.json) |
+| Karate King | 217675 | [217675-karate-king.json](./217675-karate-king.json) |
 | Karate King | 67651 | [67651-karate-king.json](./67651-karate-king.json) |
 | Karate Krab | 76650 | [76650-karate-krab.json](./76650-karate-krab.json) |
 | Karate Krab: Karate Krab In Space | 172051 | [172051-karate-krab-karate-krab-in-space.json](./172051-karate-krab-karate-krab-in-space.json) |
@@ -1209,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaz Ball | 81735 | [81735-kaz-ball.json](./81735-kaz-ball.json) |
 | Kaz: Pushing the Virtual Divide | 22147 | [22147-kaz-pushing-the-virtual-divide.json](./22147-kaz-pushing-the-virtual-divide.json) |
 | Kaz's Adventure | 207768 | [207768-kazs-adventure.json](./207768-kazs-adventure.json) |
+| Kazaam | 217676 | [217676-kazaam.json](./217676-kazaam.json) |
 | Kazak | 239685 | [239685-kazak.json](./239685-kazak.json) |
 | Kazakh ' Jack | 144941 | [144941-kazakh-jack.json](./144941-kazakh-jack.json) |
 | Kaze Kiri: Ninja Action | 37612 | [37612-kaze-kiri-ninja-action.json](./37612-kaze-kiri-ninja-action.json) |
@@ -2436,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
