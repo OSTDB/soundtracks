@@ -9694,6 +9694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divineko | 291617 | [291617-divineko.json](./291617-divineko.json) |
 | Diviner | 394850 | [394850-diviner.json](./394850-diviner.json) |
 | DivineRPG | 241498 | [241498-divinerpg.json](./241498-divinerpg.json) |
+| Diving Bell | 184722 | [184722-diving-bell.json](./184722-diving-bell.json) |
 | Diving City | 142184 | [142184-diving-city.json](./142184-diving-city.json) |
 | Diving Corsola | 71567 | [71567-diving-corsola.json](./71567-diving-corsola.json) |
 | Diving Disorder | 157567 | [157567-diving-disorder.json](./157567-diving-disorder.json) |
@@ -10177,6 +10178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgy Rocks | 133988 | [133988-dodgy-rocks.json](./133988-dodgy-rocks.json) |
 | Dodo | 277973 | [277973-dodo.json](./277973-dodo.json) |
 | Dodo Adventures | 136894 | [136894-dodo-adventures.json](./136894-dodo-adventures.json) |
+| Dodo Drop | 184707 | [184707-dodo-drop.json](./184707-dodo-drop.json) |
 | Dodo Duckie | 342305 | [342305-dodo-duckie.json](./342305-dodo-duckie.json) |
 | Dodo Fly: New World | 241824 | [241824-dodo-fly-new-world.json](./241824-dodo-fly-new-world.json) |
 | DoDodge | 231330 | [231330-dododge.json](./231330-dododge.json) |
@@ -10280,6 +10282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog vs Cat Othello | 313537 | [313537-dog-vs-cat-othello.json](./313537-dog-vs-cat-othello.json) |
 | Dog Walking Adventures | 319861 | [319861-dog-walking-adventures.json](./319861-dog-walking-adventures.json) |
 | Dog Walking, Dog Running, and Dog Still | 135783 | [135783-dog-walking-dog-running-and-dog-still.json](./135783-dog-walking-dog-running-and-dog-still.json) |
+| Dog Wants Treat | 184719 | [184719-dog-wants-treat.json](./184719-dog-wants-treat.json) |
 | Dog Wash! | 225656 | [225656-dog-wash.json](./225656-dog-wash.json) |
 | Dog Years | 266800 | [266800-dog-years.json](./266800-dog-years.json) |
 | Dog-a-Boo | 90623 | [90623-dog-a-boo.json](./90623-dog-a-boo.json) |
@@ -10803,6 +10806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domovoy | 316785 | [316785-domovoy.json](./316785-domovoy.json) |
 | Domum | 211965 | [211965-domum.json](./211965-domum.json) |
 | Domus Abscondita | 312765 | [312765-domus-abscondita.json](./312765-domus-abscondita.json) |
+| Domus Monstra | 184694 | [184694-domus-monstra.json](./184694-domus-monstra.json) |
 | Domynyo | 171302 | [171302-domynyo.json](./171302-domynyo.json) |
 | Don Bluth Presents Dragon's Lair 20th Anniversary Special Edition | 84222 | [84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json](./84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json) |
 | Don Bradman Cricket 14 | 6967 | [6967-don-bradman-cricket-14.json](./6967-don-bradman-cricket-14.json) |
