@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LAIzy Picture Phone | 307217 | [307217-laizy-picture-phone.json](./307217-laizy-picture-phone.json) |
 | Lakatos | 240662 | [240662-lakatos.json](./240662-lakatos.json) |
 | Lake Adventure | 279780 | [279780-lake-adventure.json](./279780-lake-adventure.json) |
+| Lake Facade: Director's Cut | 193584 | [193584-lake-facade-directors-cut.json](./193584-lake-facade-directors-cut.json) |
 | Lake Hero | 412959 | [412959-lake-hero.json](./412959-lake-hero.json) |
 | Lake House: Children of Silence | 40967 | [40967-lake-house-children-of-silence.json](./40967-lake-house-children-of-silence.json) |
 | Lake Masters | 67302 | [67302-lake-masters.json](./67302-lake-masters.json) |
@@ -547,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamb Fountain and Dungeon | 208086 | [208086-lamb-fountain-and-dungeon.json](./208086-lamb-fountain-and-dungeon.json) |
 | Lamb to the Slaughter | 323553 | [323553-lamb-to-the-slaughter.json](./323553-lamb-to-the-slaughter.json) |
 | Lambchop Loves Music | 209818 | [209818-lambchop-loves-music.json](./209818-lambchop-loves-music.json) |
+| Lambda end Theory | 193591 | [193591-lambda-end-theory.json](./193591-lambda-end-theory.json) |
 | Lambda Fortress | 345541 | [345541-lambda-fortress.json](./345541-lambda-fortress.json) |
 | Lambda Neros R | 412767 | [412767-lambda-neros-r.json](./412767-lambda-neros-r.json) |
 | Lambda Spellcrafting Academy | 243541 | [243541-lambda-spellcrafting-academy.json](./243541-lambda-spellcrafting-academy.json) |
@@ -3019,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemon | 314315 | [314315-lemon.json](./314315-lemon.json) |
 | Lemon Cake | 137111 | [137111-lemon-cake.json](./137111-lemon-cake.json) |
 | Lemon Pending | 179362 | [179362-lemon-pending.json](./179362-lemon-pending.json) |
+| Lemon Run | 192576 | [192576-lemon-run.json](./192576-lemon-run.json) |
 | Lemonade | 366258 | [366258-lemonade.json](./366258-lemonade.json) |
 | Lemonade Apocalypse | 290965 | [290965-lemonade-apocalypse.json](./290965-lemonade-apocalypse.json) |
 | Lemonade Stand | 207283 | [207283-lemonade-stand.json](./207283-lemonade-stand.json) |
@@ -7063,6 +7066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Eidolons: Digital Deluxe | 227358 | [227358-lost-eidolons-digital-deluxe.json](./227358-lost-eidolons-digital-deluxe.json) |
 | Lost Ember: Legendary Souls | 380803 | [380803-lost-ember-legendary-souls.json](./380803-lost-ember-legendary-souls.json) |
 | Lost Ember: Rekindled Edition | 314439 | [314439-lost-ember-rekindled-edition.json](./314439-lost-ember-rekindled-edition.json) |
+| Lost Ember: VR Edition | 193626 | [193626-lost-ember-vr-edition.json](./193626-lost-ember-vr-edition.json) |
 | Lost Empire: Immortals | 21470 | [21470-lost-empire-immortals.json](./21470-lost-empire-immortals.json) |
 | Lost Entry | 395746 | [395746-lost-entry.json](./395746-lost-entry.json) |
 | Lost Epic | 150168 | [150168-lost-epic.json](./150168-lost-epic.json) |
