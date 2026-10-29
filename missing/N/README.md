@@ -1132,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K22: WNBA 25th Anniversary Edition | 158595 | [158595-nba-2k22-wnba-25th-anniversary-edition.json](./158595-nba-2k22-wnba-25th-anniversary-edition.json) |
 | NBA 2K23: Championship Edition | 242936 | [242936-nba-2k23-championship-edition.json](./242936-nba-2k23-championship-edition.json) |
 | NBA 2K23: Digital Deluxe Edition | 216409 | [216409-nba-2k23-digital-deluxe-edition.json](./216409-nba-2k23-digital-deluxe-edition.json) |
+| NBA 2K23: Michael Jordan Edition | 208715 | [208715-nba-2k23-michael-jordan-edition.json](./208715-nba-2k23-michael-jordan-edition.json) |
 | NBA 2K24: 25th Anniversary Edition | 265738 | [265738-nba-2k24-25th-anniversary-edition.json](./265738-nba-2k24-25th-anniversary-edition.json) |
 | NBA 2K24: Black Mamba Edition | 256201 | [256201-nba-2k24-black-mamba-edition.json](./256201-nba-2k24-black-mamba-edition.json) |
 | NBA 2K25 | 308034 | [308034-nba-2k25.json](./308034-nba-2k25.json) |
@@ -1159,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Action '95 starring David Robinson | 4551 | [4551-nba-action-95-starring-david-robinson.json](./4551-nba-action-95-starring-david-robinson.json) |
 | NBA All Net | 60466 | [60466-nba-all-net.json](./60466-nba-all-net.json) |
 | NBA All-Star Challenge 2 | 49010 | [49010-nba-all-star-challenge-2.json](./49010-nba-all-star-challenge-2.json) |
+| NBA All-World | 208757 | [208757-nba-all-world.json](./208757-nba-all-world.json) |
 | NBA Ball Stars | 235131 | [235131-nba-ball-stars.json](./235131-nba-ball-stars.json) |
 | NBA Baller Beats | 47414 | [47414-nba-baller-beats.json](./47414-nba-baller-beats.json) |
 | NBA Ballers: Chosen One | 7106 | [7106-nba-ballers-chosen-one.json](./7106-nba-ballers-chosen-one.json) |
