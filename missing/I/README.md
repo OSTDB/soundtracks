@@ -2546,6 +2546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Silence | 140038 | [140038-in-silence.json](./140038-in-silence.json) |
 | In Silence Waits | 377211 | [377211-in-silence-waits.json](./377211-in-silence-waits.json) |
 | In Silico | 348241 | [348241-in-silico.json](./348241-in-silico.json) |
+| In Sink | 197514 | [197514-in-sink.json](./197514-in-sink.json) |
 | In Somnio | 130382 | [130382-in-somnio.json](./130382-in-somnio.json) |
 | In Sound Mind: Deluxe Edition | 146132 | [146132-in-sound-mind-deluxe-edition.json](./146132-in-sound-mind-deluxe-edition.json) |
 | In Sound Mind: Digital Deluxe Edition | 173101 | [173101-in-sound-mind-digital-deluxe-edition.json](./173101-in-sound-mind-digital-deluxe-edition.json) |
@@ -3199,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno | 346092 | [346092-inferno.json](./346092-inferno.json) |
 | Inferno | 91849 | [91849-inferno.json](./91849-inferno.json) |
 | Inferno 2 | 34822 | [34822-inferno-2.json](./34822-inferno-2.json) |
+| Inferno Arena | 197505 | [197505-inferno-arena.json](./197505-inferno-arena.json) |
 | Inferno Climber | 33761 | [33761-inferno-climber.json](./33761-inferno-climber.json) |
 | Inferno Climber: Reborn | 95833 | [95833-inferno-climber-reborn.json](./95833-inferno-climber-reborn.json) |
 | Inferno Frontier | 340751 | [340751-inferno-frontier.json](./340751-inferno-frontier.json) |
