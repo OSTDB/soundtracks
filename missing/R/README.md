@@ -1806,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rasen Reijoh Spiral Ojosama: Chohatsu no Makina | 265945 | [265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json](./265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json) |
 | Rasetsu 2 | 374684 | [374684-rasetsu-2.json](./374684-rasetsu-2.json) |
 | Rasetsu Fumaden | 207676 | [207676-rasetsu-fumaden.json](./207676-rasetsu-fumaden.json) |
+| Rasetsu Xan | 200868 | [200868-rasetsu-xan.json](./200868-rasetsu-xan.json) |
 | Rashlander | 116832 | [116832-rashlander.json](./116832-rashlander.json) |
 | Rashness | 185390 | [185390-rashness.json](./185390-rashness.json) |
 | Rashomon | 135602 | [135602-rashomon.json](./135602-rashomon.json) |
@@ -2766,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Chaos | 313868 | [313868-realm-of-chaos.json](./313868-realm-of-chaos.json) |
 | Realm of Chaos: 25th Anniversary Edition | 300744 | [300744-realm-of-chaos-25th-anniversary-edition.json](./300744-realm-of-chaos-25th-anniversary-edition.json) |
 | Realm of Dissonance | 319182 | [319182-realm-of-dissonance.json](./319182-realm-of-dissonance.json) |
+| Realm of Divinos | 200824 | [200824-realm-of-divinos.json](./200824-realm-of-divinos.json) |
 | Realm of Dread | 265306 | [265306-realm-of-dread.json](./265306-realm-of-dread.json) |
 | Realm of Heroes | 167257 | [167257-realm-of-heroes.json](./167257-realm-of-heroes.json) |
 | Realm Of I | 291547 | [291547-realm-of-i.json](./291547-realm-of-i.json) |
@@ -6057,6 +6059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Plus | 207148 | [207148-rhythm-plus.json](./207148-rhythm-plus.json) |
 | Rhythm Producer | 275708 | [275708-rhythm-producer.json](./275708-rhythm-producer.json) |
 | Rhythm Quest | 178876 | [178876-rhythm-quest.json](./178876-rhythm-quest.json) |
+| Rhythm Quest | 201439 | [201439-rhythm-quest.json](./201439-rhythm-quest.json) |
 | Rhythm Racer | 406108 | [406108-rhythm-racer.json](./406108-rhythm-racer.json) |
 | Rhythm Racer 2 | 235075 | [235075-rhythm-racer-2.json](./235075-rhythm-racer-2.json) |
 | Rhythm Rat Rampage | 361864 | [361864-rhythm-rat-rampage.json](./361864-rhythm-rat-rampage.json) |
@@ -7333,6 +7336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RLChess | 333189 | [333189-rlchess.json](./333189-rlchess.json) |
 | RLCraft | 203457 | [203457-rlcraft.json](./203457-rlcraft.json) |
 | RLLL: Tower of Choices | 172457 | [172457-rlll-tower-of-choices.json](./172457-rlll-tower-of-choices.json) |
+| RMaze | 201420 | [201420-rmaze.json](./201420-rmaze.json) |
 | RMF's Ragdoll Physics Experiments | 344800 | [344800-rmfs-ragdoll-physics-experiments.json](./344800-rmfs-ragdoll-physics-experiments.json) |
 | RMX Real Motocross | 147133 | [147133-rmx-real-motocross.json](./147133-rmx-real-motocross.json) |
 | RNFF: Running Naked in a Field of Flowers | 69544 | [69544-rnff-running-naked-in-a-field-of-flowers.json](./69544-rnff-running-naked-in-a-field-of-flowers.json) |
@@ -10171,6 +10175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Jigsaw 3 | 241616 | [241616-royal-jigsaw-3.json](./241616-royal-jigsaw-3.json) |
 | Royal Kingdom | 327955 | [327955-royal-kingdom.json](./327955-royal-kingdom.json) |
 | Royal Legends: Marshes Curse - Collector's Edition | 186331 | [186331-royal-legends-marshes-curse-collectors-edition.json](./186331-royal-legends-marshes-curse-collectors-edition.json) |
+| Royal Legends: Raised in Exile - Collector's Edition | 201395 | [201395-royal-legends-raised-in-exile-collectors-edition.json](./201395-royal-legends-raised-in-exile-collectors-edition.json) |
 | Royal Life: Hard to be a Queen | 120410 | [120410-royal-life-hard-to-be-a-queen.json](./120410-royal-life-hard-to-be-a-queen.json) |
 | Royal Mahjong | 64443 | [64443-royal-mahjong.json](./64443-royal-mahjong.json) |
 | Royal Mahjong King's Journey | 195763 | [195763-royal-mahjong-kings-journey.json](./195763-royal-mahjong-kings-journey.json) |
