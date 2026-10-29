@@ -2376,6 +2376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlett Mysteries: Cursed Child | 37006 | [37006-scarlett-mysteries-cursed-child.json](./37006-scarlett-mysteries-cursed-child.json) |
 | Scarlett: Nichijou no Kyoukaisen | 258870 | [258870-scarlett-nichijou-no-kyoukaisen.json](./258870-scarlett-nichijou-no-kyoukaisen.json) |
 | Scarlett's Dungeon | 55749 | [55749-scarletts-dungeon.json](./55749-scarletts-dungeon.json) |
+| Scarpone Scamps | 207658 | [207658-scarpone-scamps.json](./207658-scarpone-scamps.json) |
 | ScarQuest | 301242 | [301242-scarquest.json](./301242-scarquest.json) |
 | Scarred | 264640 | [264640-scarred.json](./264640-scarred.json) |
 | Scarred Stars | 154985 | [154985-scarred-stars.json](./154985-scarred-stars.json) |
@@ -3076,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrambled: Syd City | 178896 | [178896-scrambled-syd-city.json](./178896-scrambled-syd-city.json) |
 | Scramblies | 58181 | [58181-scramblies.json](./58181-scramblies.json) |
 | Scrandle | 342592 | [342592-scrandle.json](./342592-scrandle.json) |
+| Scranny | 207649 | [207649-scranny.json](./207649-scranny.json) |
 | Scrap | 84139 | [84139-scrap.json](./84139-scrap.json) |
 | Scrap Age | 280468 | [280468-scrap-age.json](./280468-scrap-age.json) |
 | Scrap Age Survivors | 306498 | [306498-scrap-age-survivors.json](./306498-scrap-age-survivors.json) |
@@ -5631,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Poker | 21217 | [21217-sexy-poker.json](./21217-sexy-poker.json) |
 | Sexy Pussies | 384875 | [384875-sexy-pussies.json](./384875-sexy-pussies.json) |
 | Sexy Puzzle | 335443 | [335443-sexy-puzzle.json](./335443-sexy-puzzle.json) |
+| Sexy Sharks | 207635 | [207635-sexy-sharks.json](./207635-sexy-sharks.json) |
 | Sexy Sliders | 367269 | [367269-sexy-sliders.json](./367269-sexy-sliders.json) |
 | Sexy Sniper | 159814 | [159814-sexy-sniper.json](./159814-sexy-sniper.json) |
 | Sexy Space Airlines | 286444 | [286444-sexy-space-airlines.json](./286444-sexy-space-airlines.json) |
@@ -14589,6 +14592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo Royale | 172950 | [172950-solo-royale.json](./172950-solo-royale.json) |
 | Solo Shift! | 400173 | [400173-solo-shift.json](./400173-solo-shift.json) |
 | Solo Tactics | 374790 | [374790-solo-tactics.json](./374790-solo-tactics.json) |
+| Solo War Medieval | 207633 | [207633-solo-war-medieval.json](./207633-solo-war-medieval.json) |
 | Solo_Poker | 118936 | [118936-solo-poker.json](./118936-solo-poker.json) |
 | Solomania | 329378 | [329378-solomania.json](./329378-solomania.json) |
 | Solomon Division | 216891 | [216891-solomon-division.json](./216891-solomon-division.json) |
@@ -14596,6 +14600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solomon no Kagi: Another Ver | 414621 | [414621-solomon-no-kagi-another-ver.json](./414621-solomon-no-kagi-another-ver.json) |
 | Solomon no Kagi: Oujo Rihita no Namida | 46127 | [46127-solomon-no-kagi-oujo-rihita-no-namida.json](./46127-solomon-no-kagi-oujo-rihita-no-namida.json) |
 | Solomon Program | 128357 | [128357-solomon-program.json](./128357-solomon-program.json) |
+| Solomon Snow: First Contact | 207647 | [207647-solomon-snow-first-contact.json](./207647-solomon-snow-first-contact.json) |
 | Solomon's Boneyard: Hideous Retro Edition | 407175 | [407175-solomons-boneyard-hideous-retro-edition.json](./407175-solomons-boneyard-hideous-retro-edition.json) |
 | Solomon's Keep | 132812 | [132812-solomons-keep.json](./132812-solomons-keep.json) |
 | Solomon's Key | 28384 | [28384-solomons-key.json](./28384-solomons-key.json) |
@@ -16182,6 +16187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Land: Hunting World | 354242 | [354242-soul-land-hunting-world.json](./354242-soul-land-hunting-world.json) |
 | Soul Launcher | 208073 | [208073-soul-launcher.json](./208073-soul-launcher.json) |
 | Soul Light | 187407 | [187407-soul-light.json](./187407-soul-light.json) |
+| Soul Link | 207644 | [207644-soul-link.json](./207644-soul-link.json) |
 | Soul Locus | 35754 | [35754-soul-locus.json](./35754-soul-locus.json) |
 | Soul Machine | 351707 | [351707-soul-machine.json](./351707-soul-machine.json) |
 | Soul Master | 180288 | [180288-soul-master.json](./180288-soul-master.json) |
@@ -19993,6 +19999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint.Fire | 235655 | [235655-sprint-fire.json](./235655-sprint-fire.json) |
 | SprintLine | 287909 | [287909-sprintline.json](./287909-sprintline.json) |
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
+| Sprite Fight | 207639 | [207639-sprite-fight.json](./207639-sprite-fight.json) |
 | Sprite Generator | 169898 | [169898-sprite-generator.json](./169898-sprite-generator.json) |
 | Sprite Hunter | 385890 | [385890-sprite-hunter.json](./385890-sprite-hunter.json) |
 | Sprite Land | 339225 | [339225-sprite-land.json](./339225-sprite-land.json) |
@@ -27514,6 +27521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Killer Hornets: Resurrection | 54413 | [54413-super-killer-hornets-resurrection.json](./54413-super-killer-hornets-resurrection.json) |
 | Super Kingcrab Simulator | 345804 | [345804-super-kingcrab-simulator.json](./345804-super-kingcrab-simulator.json) |
 | Super Kirby Clash | 122229 | [122229-super-kirby-clash.json](./122229-super-kirby-clash.json) |
+| Super Kit: To the Top | 207643 | [207643-super-kit-to-the-top.json](./207643-super-kit-to-the-top.json) |
 | Super Kittens | 138489 | [138489-super-kittens.json](./138489-super-kittens.json) |
 | Super Kitty Tales | 180774 | [180774-super-kitty-tales.json](./180774-super-kitty-tales.json) |
 | Super Kiwi 64: Doomsday | 284145 | [284145-super-kiwi-64-doomsday.json](./284145-super-kiwi-64-doomsday.json) |
