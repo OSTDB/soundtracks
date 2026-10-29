@@ -1097,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edenya | 281659 | [281659-edenya.json](./281659-edenya.json) |
 | Edepth Angel: Pinocchio's Murder | 83609 | [83609-edepth-angel-pinocchios-murder.json](./83609-edepth-angel-pinocchios-murder.json) |
 | Ederon Online | 136767 | [136767-ederon-online.json](./136767-ederon-online.json) |
+| Edessa: School of Wizardry | 205938 | [205938-edessa-school-of-wizardry.json](./205938-edessa-school-of-wizardry.json) |
 | EDF Computer Base | 272136 | [272136-edf-computer-base.json](./272136-edf-computer-base.json) |
 | EDF Overtaken | 273236 | [273236-edf-overtaken.json](./273236-edf-overtaken.json) |
 | EDF Secret Base | 270698 | [270698-edf-secret-base.json](./270698-edf-secret-base.json) |
@@ -4758,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Her | 389589 | [389589-escape-her.json](./389589-escape-her.json) |
 | Escape Him. | 267802 | [267802-escape-him.json](./267802-escape-him.json) |
 | Escape House | 357145 | [357145-escape-house.json](./357145-escape-house.json) |
+| Escape If You Can | 205866 | [205866-escape-if-you-can.json](./205866-escape-if-you-can.json) |
 | Escape If You Can | 377280 | [377280-escape-if-you-can.json](./377280-escape-if-you-can.json) |
 | Escape if you can - Buried | 101499 | [101499-escape-if-you-can-buried.json](./101499-escape-if-you-can-buried.json) |
 | Escape Inc. | 310581 | [310581-escape-inc.json](./310581-escape-inc.json) |
@@ -6162,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyone Dies | 127684 | [127684-everyone-dies.json](./127684-everyone-dies.json) |
 | Everyone Fights | 339776 | [339776-everyone-fights.json](./339776-everyone-fights.json) |
 | Everyone Goes Home | 120926 | [120926-everyone-goes-home.json](./120926-everyone-goes-home.json) |
+| Everyone Moves With You | 205867 | [205867-everyone-moves-with-you.json](./205867-everyone-moves-with-you.json) |
 | Everyone Sing | 45293 | [45293-everyone-sing.json](./45293-everyone-sing.json) |
 | Everyone Will Die | 422159 | [422159-everyone-will-die.json](./422159-everyone-will-die.json) |
 | Everyone Wins Bingo | 209216 | [209216-everyone-wins-bingo.json](./209216-everyone-wins-bingo.json) |
