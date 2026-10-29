@@ -3918,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insectonator: Zombie Mode | 300453 | [300453-insectonator-zombie-mode.json](./300453-insectonator-zombie-mode.json) |
 | Insectophobia : Episode 1 | 38767 | [38767-insectophobia-episode-1.json](./38767-insectophobia-episode-1.json) |
 | Insector Hecti in the Interchange | 67272 | [67272-insector-hecti-in-the-interchange.json](./67272-insector-hecti-in-the-interchange.json) |
+| Insector War | 217711 | [217711-insector-war.json](./217711-insector-war.json) |
 | Insector X | 39455 | [39455-insector-x.json](./39455-insector-x.json) |
 | Insects | 112800 | [112800-insects.json](./112800-insects.json) |
 | Insects Runner | 75670 | [75670-insects-runner.json](./75670-insects-runner.json) |
