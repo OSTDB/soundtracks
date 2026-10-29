@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Midnight Stroll | 205669 | [205669-a-midnight-stroll.json](./205669-a-midnight-stroll.json) |
 | A Midnight Village Story | 226221 | [226221-a-midnight-village-story.json](./226221-a-midnight-village-story.json) |
 | A Milky Way | 135237 | [135237-a-milky-way.json](./135237-a-milky-way.json) |
+| A Million Lightyears Beyond | 210989 | [210989-a-million-lightyears-beyond.json](./210989-a-million-lightyears-beyond.json) |
 | A Million Minions | 206118 | [206118-a-million-minions.json](./206118-a-million-minions.json) |
 | A Million Murder Mysteries | 283909 | [283909-a-million-murder-mysteries.json](./283909-a-million-murder-mysteries.json) |
 | A Minecraft Movie | 338668 | [338668-a-minecraft-movie.json](./338668-a-minecraft-movie.json) |
@@ -2992,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advaria: Chronicles of Immortality | 283898 | [283898-advaria-chronicles-of-immortality.json](./283898-advaria-chronicles-of-immortality.json) |
 | Adven'chuta | 94542 | [94542-advenchuta.json](./94542-advenchuta.json) |
 | Advena | 38719 | [38719-advena.json](./38719-advena.json) |
+| Advenclave | 211003 | [211003-advenclave.json](./211003-advenclave.json) |
 | Advendows Calendar OS 2022 | 229038 | [229038-advendows-calendar-os-2022.json](./229038-advendows-calendar-os-2022.json) |
 | Advenger of Stuart | 236271 | [236271-advenger-of-stuart.json](./236271-advenger-of-stuart.json) |
 | Advent | 35219 | [35219-advent.json](./35219-advent.json) |
@@ -15213,6 +15215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autofading Se Disparaître | 257429 | [257429-autofading-se-disparaitre.json](./257429-autofading-se-disparaitre.json) |
 | AutoFans: Charged Rate | 63691 | [63691-autofans-charged-rate.json](./63691-autofans-charged-rate.json) |
 | AutoForge | 257105 | [257105-autoforge.json](./257105-autoforge.json) |
+| Autogame Deluxe | 211017 | [211017-autogame-deluxe.json](./211017-autogame-deluxe.json) |
 | Autogiro | 326251 | [326251-autogiro.json](./326251-autogiro.json) |
 | Autograv | 288194 | [288194-autograv.json](./288194-autograv.json) |
 | Autograv: Mini | 289408 | [289408-autograv-mini.json](./289408-autograv-mini.json) |
