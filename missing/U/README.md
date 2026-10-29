@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO: Unidentified Falling Objects | 244473 | [244473-ufo-unidentified-falling-objects.json](./244473-ufo-unidentified-falling-objects.json) |
 | UFO/Sea Monsters/Break It Down/Rebuild/Shoot | 137926 | [137926-ufo-sea-monsters-break-it-down-rebuild-shoot.json](./137926-ufo-sea-monsters-break-it-down-rebuild-shoot.json) |
 | UFO2 Extraterrestrials: Shadows over Earth | 65459 | [65459-ufo2-extraterrestrials-shadows-over-earth.json](./65459-ufo2-extraterrestrials-shadows-over-earth.json) |
+| UFO99 | 208120 | [208120-ufo99.json](./208120-ufo99.json) |
 | UFObia | 217240 | [217240-ufobia.json](./217240-ufobia.json) |
 | UFOntastic | 359309 | [359309-ufontastic.json](./359309-ufontastic.json) |
 | Ufophilia | 368145 | [368145-ufophilia.json](./368145-ufophilia.json) |
