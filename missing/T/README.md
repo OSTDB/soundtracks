@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Talk Stories: Dreamwalker | 345852 | [345852-tavern-talk-stories-dreamwalker.json](./345852-tavern-talk-stories-dreamwalker.json) |
 | Tavern Talk: Pirate Palooza (Costume Pack) | 376798 | [376798-tavern-talk-pirate-palooza-costume-pack.json](./376798-tavern-talk-pirate-palooza-costume-pack.json) |
 | Tavern Talk: Tempest Tantrum | 336038 | [336038-tavern-talk-tempest-tantrum.json](./336038-tavern-talk-tempest-tantrum.json) |
+| Tavern Tapper | 218873 | [218873-tavern-tapper.json](./218873-tavern-tapper.json) |
 | Tavern Timer | 406886 | [406886-tavern-timer.json](./406886-tavern-timer.json) |
 | Tavern Tycoon | 33603 | [33603-tavern-tycoon.json](./33603-tavern-tycoon.json) |
 | Tavern Tycoon: Brew & Brawl | 391758 | [391758-tavern-tycoon-brew-and-brawl.json](./391758-tavern-tycoon-brew-and-brawl.json) |
@@ -16503,6 +16504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wavy Tube Man Chronicles | 316737 | [316737-the-wavy-tube-man-chronicles.json](./316737-the-wavy-tube-man-chronicles.json) |
 | The Wavy Tube Man Chronicles | 64172 | [64172-the-wavy-tube-man-chronicles.json](./64172-the-wavy-tube-man-chronicles.json) |
 | The Way | 251177 | [251177-the-way.json](./251177-the-way.json) |
+| The Way Back Home: Sinister Night | 218829 | [218829-the-way-back-home-sinister-night.json](./218829-the-way-back-home-sinister-night.json) |
 | The Way Down | 357734 | [357734-the-way-down.json](./357734-the-way-down.json) |
 | The Way Home | 166721 | [166721-the-way-home.json](./166721-the-way-home.json) |
 | The Way Home | 193961 | [193961-the-way-home.json](./193961-the-way-home.json) |
@@ -21913,6 +21915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of Thunder | 302617 | [302617-tomb-of-thunder.json](./302617-tomb-of-thunder.json) |
 | Tomb of Trials | 180270 | [180270-tomb-of-trials.json](./180270-tomb-of-trials.json) |
 | Tomb Offering | 340944 | [340944-tomb-offering.json](./340944-tomb-offering.json) |
+| Tomb Raider | 218832 | [218832-tomb-raider.json](./218832-tomb-raider.json) |
 | Tomb Raider | 266697 | [266697-tomb-raider.json](./266697-tomb-raider.json) |
 | Tomb Raider 1+2+3 | 154439 | [154439-tomb-raider-1-2-3.json](./154439-tomb-raider-1-2-3.json) |
 | Tomb Raider Anthology | 44886 | [44886-tomb-raider-anthology.json](./44886-tomb-raider-anthology.json) |
