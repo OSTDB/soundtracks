@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Adventures: Park Ranger 6 | 153138 | [153138-vacation-adventures-park-ranger-6.json](./153138-vacation-adventures-park-ranger-6.json) |
 | Vacation Adventures: Park Ranger 7 | 168682 | [168682-vacation-adventures-park-ranger-7.json](./168682-vacation-adventures-park-ranger-7.json) |
 | Vacation Adventures: Park Ranger 8 | 191072 | [191072-vacation-adventures-park-ranger-8.json](./191072-vacation-adventures-park-ranger-8.json) |
+| Vacation Adventures: Park Ranger 9 | 193599 | [193599-vacation-adventures-park-ranger-9.json](./193599-vacation-adventures-park-ranger-9.json) |
 | Vacation Cove | 273221 | [273221-vacation-cove.json](./273221-vacation-cove.json) |
 | Vacation Gone Awry | 74019 | [74019-vacation-gone-awry.json](./74019-vacation-gone-awry.json) |
 | Vacation in Paradise | 370256 | [370256-vacation-in-paradise.json](./370256-vacation-in-paradise.json) |
@@ -3541,6 +3542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Tomb's Secrets2 | 102248 | [102248-vr-tombs-secrets2.json](./102248-vr-tombs-secrets2.json) |
 | VR Tractor Farming | 248032 | [248032-vr-tractor-farming.json](./248032-vr-tractor-farming.json) |
 | VR Traffic Safety with Polly | 338564 | [338564-vr-traffic-safety-with-polly.json](./338564-vr-traffic-safety-with-polly.json) |
+| VR Training: Hot Work | 193076 | [193076-vr-training-hot-work.json](./193076-vr-training-hot-work.json) |
 | VR travel as a little tiny small dwarf | 252226 | [252226-vr-travel-as-a-little-tiny-small-dwarf.json](./252226-vr-travel-as-a-little-tiny-small-dwarf.json) |
 | VR Treasure Raider | 153383 | [153383-vr-treasure-raider.json](./153383-vr-treasure-raider.json) |
 | VR Triber | 74153 | [74153-vr-triber.json](./74153-vr-triber.json) |
@@ -3691,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Vemny & Friends | 302648 | [302648-vs-vemny-and-friends.json](./302648-vs-vemny-and-friends.json) |
 | Vs. Volleyball | 214587 | [214587-vs-volleyball.json](./214587-vs-volleyball.json) |
 | Vs. Vulcan Venture | 214592 | [214592-vs-vulcan-venture.json](./214592-vs-vulcan-venture.json) |
+| VSCS-II | 193070 | [193070-vscs-ii.json](./193070-vscs-ii.json) |
 | Vsevolod | 10431 | [10431-vsevolod.json](./10431-vsevolod.json) |
 | VSR: Void Space Racing | 105590 | [105590-vsr-void-space-racing.json](./105590-vsr-void-space-racing.json) |
 | VT Harmony | 248110 | [248110-vt-harmony.json](./248110-vt-harmony.json) |
