@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landgrabbers | 95683 | [95683-landgrabbers.json](./95683-landgrabbers.json) |
 | Landinar: Into the Void | 99162 | [99162-landinar-into-the-void.json](./99162-landinar-into-the-void.json) |
 | Landing | 330670 | [330670-landing.json](./330670-landing.json) |
+| Landing Gear | 209260 | [209260-landing-gear.json](./209260-landing-gear.json) |
 | Landing Hero: Haneda x 787 | 199108 | [199108-landing-hero-haneda-x-787.json](./199108-landing-hero-haneda-x-787.json) |
 | Landing High Japan | 129142 | [129142-landing-high-japan.json](./129142-landing-high-japan.json) |
 | Landing Party | 74089 | [74089-landing-party.json](./74089-landing-party.json) |
@@ -1760,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Manoir | 385441 | [385441-le-manoir.json](./385441-le-manoir.json) |
 | Le Manoir de L'Étrange | 25752 | [25752-le-manoir-de-letrange.json](./25752-le-manoir-de-letrange.json) |
 | Le Mans | 65279 | [65279-le-mans.json](./65279-le-mans.json) |
+| Le Mans 24 | 209261 | [209261-le-mans-24.json](./209261-le-mans-24.json) |
 | Le Mans Ultimate | 253412 | [253412-le-mans-ultimate.json](./253412-le-mans-ultimate.json) |
 | Le Mans Ultimate: BMW M Hybrid V8 | 304430 | [304430-le-mans-ultimate-bmw-m-hybrid-v8.json](./304430-le-mans-ultimate-bmw-m-hybrid-v8.json) |
 | Le Mirage Mystique | 392423 | [392423-le-mirage-mystique.json](./392423-le-mirage-mystique.json) |
