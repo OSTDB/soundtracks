@@ -1163,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Harem | 297911 | [297911-last-harem.json](./297911-last-harem.json) |
 | Last Harvest | 138779 | [138779-last-harvest.json](./138779-last-harvest.json) |
 | Last Helion | 317863 | [317863-last-helion.json](./317863-last-helion.json) |
+| Last Hero | 196430 | [196430-last-hero.json](./196430-last-hero.json) |
 | Last Heroes | 35248 | [35248-last-heroes.json](./35248-last-heroes.json) |
 | Last Heroes 2 | 33695 | [33695-last-heroes-2.json](./33695-last-heroes-2.json) |
 | Last Heroes 4 | 29167 | [29167-last-heroes-4.json](./29167-last-heroes-4.json) |
@@ -1384,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Word | 342169 | [342169-last-word.json](./342169-last-word.json) |
 | Last Words | 215024 | [215024-last-words.json](./215024-last-words.json) |
 | Last Words. | 389127 | [389127-last-words.json](./389127-last-words.json) |
+| Last World | 196415 | [196415-last-world.json](./196415-last-world.json) |
 | Last Year | 19819 | [19819-last-year.json](./19819-last-year.json) |
 | Last Year's Snow Was Falling 2 | 378568 | [378568-last-years-snow-was-falling-2.json](./378568-last-years-snow-was-falling-2.json) |
 | Last You Standing | 364656 | [364656-last-you-standing.json](./364656-last-you-standing.json) |
@@ -4470,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilac: Side Witch | 397190 | [397190-lilac-side-witch.json](./397190-lilac-side-witch.json) |
 | Lilac: Side Wizard | 397191 | [397191-lilac-side-wizard.json](./397191-lilac-side-wizard.json) |
 | Lilacs in the Breeze | 364387 | [364387-lilacs-in-the-breeze.json](./364387-lilacs-in-the-breeze.json) |
+| Lilei and Han Meimei | 195381 | [195381-lilei-and-han-meimei.json](./195381-lilei-and-han-meimei.json) |
 | lilGunBois | 101364 | [101364-lilgunbois.json](./101364-lilgunbois.json) |
 | Lili | 63277 | [63277-lili.json](./63277-lili.json) |
 | Lili:Miesta | 77682 | [77682-lili-miesta.json](./77682-lili-miesta.json) |
@@ -4830,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingword | 307591 | [307591-lingword.json](./307591-lingword.json) |
 | Língxià Jìyì | 130924 | [130924-lingxia-jiyi.json](./130924-lingxia-jiyi.json) |
 | Linia Stripes | 221745 | [221745-linia-stripes.json](./221745-linia-stripes.json) |
+| Linia Super | 196440 | [196440-linia-super.json](./196440-linia-super.json) |
 | Linja vs. the Maneclowns | 321290 | [321290-linja-vs-the-maneclowns.json](./321290-linja-vs-the-maneclowns.json) |
 | Link | 174799 | [174799-link.json](./174799-link.json) |
 | Link | 18925 | [18925-link.json](./18925-link.json) |
@@ -5963,6 +5967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked Together | 372722 | [372722-locked-together.json](./372722-locked-together.json) |
 | Locked Together | 405617 | [405617-locked-together.json](./405617-locked-together.json) |
 | Locked Up | 137990 | [137990-locked-up.json](./137990-locked-up.json) |
+| Locked Up | 195357 | [195357-locked-up.json](./195357-locked-up.json) |
 | Locked-In | 146138 | [146138-locked-in.json](./146138-locked-in.json) |
 | Locked-in syndrome | 33787 | [33787-locked-in-syndrome.json](./33787-locked-in-syndrome.json) |
 | Locked-Room Mystery: Hidden Truths in Everyday Life | 399657 | [399657-locked-room-mystery-hidden-truths-in-everyday-life.json](./399657-locked-room-mystery-hidden-truths-in-everyday-life.json) |
