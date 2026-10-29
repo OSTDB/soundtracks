@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valiant | 19040 | [19040-valiant.json](./19040-valiant.json) |
 | Valiant | 257236 | [257236-valiant.json](./257236-valiant.json) |
 | Valiant Force | 56568 | [56568-valiant-force.json](./56568-valiant-force.json) |
+| Valiant Force 2 | 228039 | [228039-valiant-force-2.json](./228039-valiant-force-2.json) |
 | Valiant Gears | 130226 | [130226-valiant-gears.json](./130226-valiant-gears.json) |
 | Valiant Hearts: The Collection | 290111 | [290111-valiant-hearts-the-collection.json](./290111-valiant-hearts-the-collection.json) |
 | Valiant Knights: Typing Battle | 29053 | [29053-valiant-knights-typing-battle.json](./29053-valiant-knights-typing-battle.json) |
