@@ -3170,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Drummer | 305139 | [305139-jungle-drummer.json](./305139-jungle-drummer.json) |
 | Jungle Fever | 14141 | [14141-jungle-fever.json](./14141-jungle-fever.json) |
 | Jungle Gems VR | 250845 | [250845-jungle-gems-vr.json](./250845-jungle-gems-vr.json) |
+| Jungle Gin HD | 209859 | [209859-jungle-gin-hd.json](./209859-jungle-gin-hd.json) |
 | Jungle Guardians | 112720 | [112720-jungle-guardians.json](./112720-jungle-guardians.json) |
 | Jungle Heat: War of Clans | 56576 | [56576-jungle-heat-war-of-clans.json](./56576-jungle-heat-war-of-clans.json) |
 | Jungle House | 157455 | [157455-jungle-house.json](./157455-jungle-house.json) |
@@ -3182,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Juggle | 101271 | [101271-jungle-juggle.json](./101271-jungle-juggle.json) |
 | Jungle Jumble | 341454 | [341454-jungle-jumble.json](./341454-jungle-jumble.json) |
 | Jungle Jumperz | 336754 | [336754-jungle-jumperz.json](./336754-jungle-jumperz.json) |
+| Jungle Kids | 209858 | [209858-jungle-kids.json](./209858-jungle-kids.json) |
 | Jungle Kong | 339240 | [339240-jungle-kong.json](./339240-jungle-kong.json) |
 | Jungle Kong | 367844 | [367844-jungle-kong.json](./367844-jungle-kong.json) |
 | Jungle Man | 354335 | [354335-jungle-man.json](./354335-jungle-man.json) |
@@ -3197,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Quest | 236688 | [236688-jungle-quest.json](./236688-jungle-quest.json) |
 | Jungle Quest | 54160 | [54160-jungle-quest.json](./54160-jungle-quest.json) |
 | Jungle Ranger | 283855 | [283855-jungle-ranger.json](./283855-jungle-ranger.json) |
+| Jungle Rangers | 209857 | [209857-jungle-rangers.json](./209857-jungle-rangers.json) |
 | Jungle Rot | 351677 | [351677-jungle-rot.json](./351677-jungle-rot.json) |
 | Jungle Rumble | 158097 | [158097-jungle-rumble.json](./158097-jungle-rumble.json) |
 | Jungle Rumble: Freedom, Happiness and Bananas | 52534 | [52534-jungle-rumble-freedom-happiness-and-bananas.json](./52534-jungle-rumble-freedom-happiness-and-bananas.json) |
@@ -3228,11 +3231,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junior Arithmancer | 138149 | [138149-junior-arithmancer.json](./138149-junior-arithmancer.json) |
 | Junior Brain Trainer | 23270 | [23270-junior-brain-trainer.json](./23270-junior-brain-trainer.json) |
 | Junior Brain Trainer 2 | 210004 | [210004-junior-brain-trainer-2.json](./210004-junior-brain-trainer-2.json) |
+| Junior Brain Trainer: Math Edition | 209854 | [209854-junior-brain-trainer-math-edition.json](./209854-junior-brain-trainer-math-edition.json) |
 | Junior Classic Books and Fairytales | 85716 | [85716-junior-classic-books-and-fairytales.json](./85716-junior-classic-books-and-fairytales.json) |
 | Junior Classic Games | 338790 | [338790-junior-classic-games.json](./338790-junior-classic-games.json) |
 | Junior Classic Games 3D | 122193 | [122193-junior-classic-games-3d.json](./122193-junior-classic-games-3d.json) |
 | Junior Education 2 | 151997 | [151997-junior-education-2.json](./151997-junior-education-2.json) |
 | Junior Fitness Trainer | 268182 | [268182-junior-fitness-trainer.json](./268182-junior-fitness-trainer.json) |
+| Junior Island Adventure | 209853 | [209853-junior-island-adventure.json](./209853-junior-island-adventure.json) |
 | Junior League Sports | 50984 | [50984-junior-league-sports.json](./50984-junior-league-sports.json) |
 | Junior League: Sports - Soccer | 187245 | [187245-junior-league-sports-soccer.json](./187245-junior-league-sports-soccer.json) |
 | Junior MithulBlox | 318495 | [318495-junior-mithulblox.json](./318495-junior-mithulblox.json) |
@@ -3630,6 +3635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Made a MageTower | 369628 | [369628-just-made-a-magetower.json](./369628-just-made-a-magetower.json) |
 | Just Madness: Earth Apocalypse 1979 | 412250 | [412250-just-madness-earth-apocalypse-1979.json](./412250-just-madness-earth-apocalypse-1979.json) |
 | Just Maze | 184295 | [184295-just-maze.json](./184295-just-maze.json) |
+| Just Me and my Mom | 209851 | [209851-just-me-and-my-mom.json](./209851-just-me-and-my-mom.json) |
 | Just Me and Only Me Against the World | 176437 | [176437-just-me-and-only-me-against-the-world.json](./176437-just-me-and-only-me-against-the-world.json) |
 | Just Move Fall Dungeon Endless Abyss | 360661 | [360661-just-move-fall-dungeon-endless-abyss.json](./360661-just-move-fall-dungeon-endless-abyss.json) |
 | Just Move On! | 329005 | [329005-just-move-on.json](./329005-just-move-on.json) |
