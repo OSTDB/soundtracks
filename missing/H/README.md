@@ -7533,6 +7533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ho'omana'o Mau: A Somber Daydream | 400216 | [400216-hoomanao-mau-a-somber-daydream.json](./400216-hoomanao-mau-a-somber-daydream.json) |
 | Hoard | 7402 | [7402-hoard.json](./7402-hoard.json) |
 | Hoard Defender VR | 346371 | [346371-hoard-defender-vr.json](./346371-hoard-defender-vr.json) |
+| Hoard It! | 184210 | [184210-hoard-it.json](./184210-hoard-it.json) |
 | Hoard: Dynamite Roll! | 171075 | [171075-hoard-dynamite-roll.json](./171075-hoard-dynamite-roll.json) |
 | Hoard: Flame-Broiled Sandwich | 171076 | [171076-hoard-flame-broiled-sandwich.json](./171076-hoard-flame-broiled-sandwich.json) |
 | Hoard's LLC: Limited Labyrinth Corporation | 344494 | [344494-hoards-llc-limited-labyrinth-corporation.json](./344494-hoards-llc-limited-labyrinth-corporation.json) |
