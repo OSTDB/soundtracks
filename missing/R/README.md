@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Final 2: DLC Set 4 | 186523 | [186523-r-type-final-2-dlc-set-4.json](./186523-r-type-final-2-dlc-set-4.json) |
 | R-Type Final 2: DLC Set 5 | 193745 | [193745-r-type-final-2-dlc-set-5.json](./193745-r-type-final-2-dlc-set-5.json) |
 | R-Type Final 2: DLC Set 6 | 193746 | [193746-r-type-final-2-dlc-set-6.json](./193746-r-type-final-2-dlc-set-6.json) |
+| R-Type Final 2: DLC Set 7 | 213769 | [213769-r-type-final-2-dlc-set-7.json](./213769-r-type-final-2-dlc-set-7.json) |
 | R-Type Final 2: DLC Set 8 | 219777 | [219777-r-type-final-2-dlc-set-8.json](./219777-r-type-final-2-dlc-set-8.json) |
 | R-Type Final 2: DLC Set 9 | 223867 | [223867-r-type-final-2-dlc-set-9.json](./223867-r-type-final-2-dlc-set-9.json) |
 | R-Type Final 2: Inaugural Flight Edition | 140441 | [140441-r-type-final-2-inaugural-flight-edition.json](./140441-r-type-final-2-inaugural-flight-edition.json) |
@@ -8963,6 +8964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RogueType | 221142 | [221142-roguetype.json](./221142-roguetype.json) |
 | RogueVerse | 120777 | [120777-rogueverse.json](./120777-rogueverse.json) |
 | RogueVirus | 372621 | [372621-roguevirus.json](./372621-roguevirus.json) |
+| Roguevive | 213772 | [213772-roguevive.json](./213772-roguevive.json) |
 | Roguie | 382303 | [382303-roguie.json](./382303-roguie.json) |
 | Rogum: A Cat Match Puzzle | 386691 | [386691-rogum-a-cat-match-puzzle.json](./386691-rogum-a-cat-match-puzzle.json) |
 | Rogumon | 346193 | [346193-rogumon.json](./346193-rogumon.json) |
@@ -9284,6 +9286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roman Wars: Deck Building Game | 189867 | [189867-roman-wars-deck-building-game.json](./189867-roman-wars-deck-building-game.json) |
 | Roman Way | 137888 | [137888-roman-way.json](./137888-roman-way.json) |
 | Romance | 153739 | [153739-romance.json](./153739-romance.json) |
+| Romance | 213728 | [213728-romance.json](./213728-romance.json) |
 | Romance - Hidden Object Games | 86918 | [86918-romance-hidden-object-games.json](./86918-romance-hidden-object-games.json) |
 | Romance after dark | 385873 | [385873-romance-after-dark.json](./385873-romance-after-dark.json) |
 | Romance Choice | 301949 | [301949-romance-choice.json](./301949-romance-choice.json) |
