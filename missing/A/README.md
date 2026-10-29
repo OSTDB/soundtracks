@@ -15266,6 +15266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autoball | 394887 | [394887-autoball.json](./394887-autoball.json) |
 | AutoBlobber | 345066 | [345066-autoblobber.json](./345066-autoblobber.json) |
 | Autobots | 14457 | [14457-autobots.json](./14457-autobots.json) |
+| AutoBrawl | 194811 | [194811-autobrawl.json](./194811-autobrawl.json) |
 | Autocard: Your RPG Adventure | 381264 | [381264-autocard-your-rpg-adventure.json](./381264-autocard-your-rpg-adventure.json) |
 | Autochef | 319532 | [319532-autochef.json](./319532-autochef.json) |
 | AutoChess Moba | 219104 | [219104-autochess-moba.json](./219104-autochess-moba.json) |
@@ -15991,6 +15992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aye Fair Lady | 126019 | [126019-aye-fair-lady.json](./126019-aye-fair-lady.json) |
 | Aye Leon | 387342 | [387342-aye-leon.json](./387342-aye-leon.json) |
 | Aye! My Liege | 397390 | [397390-aye-my-liege.json](./397390-aye-my-liege.json) |
+| Ayelouna | 194801 | [194801-ayelouna.json](./194801-ayelouna.json) |
 | Ayin | 387724 | [387724-ayin.json](./387724-ayin.json) |
 | Ayla's Dollhouse | 244588 | [244588-aylas-dollhouse.json](./244588-aylas-dollhouse.json) |
 | Ayleouna | 198096 | [198096-ayleouna.json](./198096-ayleouna.json) |
