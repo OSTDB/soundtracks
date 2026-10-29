@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Light Jog | 315018 | [315018-a-light-jog.json](./315018-a-light-jog.json) |
 | A Light Long Gone | 135086 | [135086-a-light-long-gone.json](./135086-a-light-long-gone.json) |
 | A Lighthouse Tale | 410433 | [410433-a-lighthouse-tale.json](./410433-a-lighthouse-tale.json) |
+| A Lil' Horror Story: The Camp Fire | 205853 | [205853-a-lil-horror-story-the-camp-fire.json](./205853-a-lil-horror-story-the-camp-fire.json) |
 | A Line Held Tight | 404819 | [404819-a-line-held-tight.json](./404819-a-line-held-tight.json) |
 | A Line in the Sand | 12440 | [12440-a-line-in-the-sand.json](./12440-a-line-in-the-sand.json) |
 | A Link to the Past: ReLink | 219086 | [219086-a-link-to-the-past-relink.json](./219086-a-link-to-the-past-relink.json) |
@@ -8094,6 +8095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Observer | 297570 | [297570-ancient-observer.json](./297570-ancient-observer.json) |
 | Ancient Ocean: The Fall of Atlantis | 337816 | [337816-ancient-ocean-the-fall-of-atlantis.json](./337816-ancient-ocean-the-fall-of-atlantis.json) |
 | Ancient Orb | 184494 | [184494-ancient-orb.json](./184494-ancient-orb.json) |
+| Ancient Origins | 205844 | [205844-ancient-origins.json](./205844-ancient-origins.json) |
 | Ancient Origins: Flying Fish | 262975 | [262975-ancient-origins-flying-fish.json](./262975-ancient-origins-flying-fish.json) |
 | Ancient Phantasma | 308655 | [308655-ancient-phantasma.json](./308655-ancient-phantasma.json) |
 | Ancient Planet | 35891 | [35891-ancient-planet.json](./35891-ancient-planet.json) |
@@ -8115,6 +8117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Savo | 303161 | [303161-ancient-savo.json](./303161-ancient-savo.json) |
 | Ancient Scroll | 303162 | [303162-ancient-scroll.json](./303162-ancient-scroll.json) |
 | Ancient Secret | 359748 | [359748-ancient-secret.json](./359748-ancient-secret.json) |
+| Ancient Secrets | 205846 | [205846-ancient-secrets.json](./205846-ancient-secrets.json) |
 | Ancient Secrets: Mystery of the Vanishing Bride | 58018 | [58018-ancient-secrets-mystery-of-the-vanishing-bride.json](./58018-ancient-secrets-mystery-of-the-vanishing-bride.json) |
 | Ancient Secrets: Quest for the Golden Key | 58016 | [58016-ancient-secrets-quest-for-the-golden-key.json](./58016-ancient-secrets-quest-for-the-golden-key.json) |
 | Ancient Secrets: Voyage in Time | 202057 | [202057-ancient-secrets-voyage-in-time.json](./202057-ancient-secrets-voyage-in-time.json) |
@@ -8607,6 +8610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ani-Chess | 283922 | [283922-ani-chess.json](./283922-ani-chess.json) |
 | Anibabe! Choose Your Girl | 231435 | [231435-anibabe-choose-your-girl.json](./231435-anibabe-choose-your-girl.json) |
 | Aniballs | 240043 | [240043-aniballs.json](./240043-aniballs.json) |
+| Anica | 205860 | [205860-anica.json](./205860-anica.json) |
 | Anicca | 208058 | [208058-anicca.json](./208058-anicca.json) |
 | Anicon: Animal Complex | 249274 | [249274-anicon-animal-complex.json](./249274-anicon-animal-complex.json) |
 | Anicon: Animal Complex - Cat's Path | 32031 | [32031-anicon-animal-complex-cats-path.json](./32031-anicon-animal-complex-cats-path.json) |
@@ -9140,6 +9144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankh: Anniversary Edition | 35651 | [35651-ankh-anniversary-edition.json](./35651-ankh-anniversary-edition.json) |
 | Ankh: Curse of the Scarab King | 21271 | [21271-ankh-curse-of-the-scarab-king.json](./21271-ankh-curse-of-the-scarab-king.json) |
 | Ankh: Reverse the Curse | 4849 | [4849-ankh-reverse-the-curse.json](./4849-ankh-reverse-the-curse.json) |
+| Ankh: The Lost Treasures | 205848 | [205848-ankh-the-lost-treasures.json](./205848-ankh-the-lost-treasures.json) |
 | Ankh: The Tales of Mystery | 66357 | [66357-ankh-the-tales-of-mystery.json](./66357-ankh-the-tales-of-mystery.json) |
 | Ankhet | 213958 | [213958-ankhet.json](./213958-ankhet.json) |
 | Ankhway: The Interplanetary Legacy | 344876 | [344876-ankhway-the-interplanetary-legacy.json](./344876-ankhway-the-interplanetary-legacy.json) |
