@@ -9153,6 +9153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Blowout | 30741 | [30741-block-blowout.json](./30741-block-blowout.json) |
 | Block Bot: Puzzle Journey | 312158 | [312158-block-bot-puzzle-journey.json](./312158-block-bot-puzzle-journey.json) |
 | Block Bounce | 368489 | [368489-block-bounce.json](./368489-block-bounce.json) |
+| Block Box Skyland Sword | 208729 | [208729-block-box-skyland-sword.json](./208729-block-box-skyland-sword.json) |
 | Block Boy | 311359 | [311359-block-boy.json](./311359-block-boy.json) |
 | Block Brain | 239885 | [239885-block-brain.json](./239885-block-brain.json) |
 | Block Breaker | 195789 | [195789-block-breaker.json](./195789-block-breaker.json) |
@@ -10818,6 +10819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku mo Sekai wo Sukuitai | 344321 | [344321-boku-mo-sekai-wo-sukuitai.json](./344321-boku-mo-sekai-wo-sukuitai.json) |
 | Boku mo Sekai wo Sukuitai: Battle Tournament | 344322 | [344322-boku-mo-sekai-wo-sukuitai-battle-tournament.json](./344322-boku-mo-sekai-wo-sukuitai-battle-tournament.json) |
 | Boku ni Todoita Kimi no Koe | 98049 | [98049-boku-ni-todoita-kimi-no-koe.json](./98049-boku-ni-todoita-kimi-no-koe.json) |
+| Boku no Bottakuri Bar 3: Sekai shinshutsu-hen | 208733 | [208733-boku-no-bottakuri-bar-3-sekai-shinshutsu-hen.json](./208733-boku-no-bottakuri-bar-3-sekai-shinshutsu-hen.json) |
 | Boku no Choro-Q | 59440 | [59440-boku-no-choro-q.json](./59440-boku-no-choro-q.json) |
 | Boku no Enikki | 148242 | [148242-boku-no-enikki.json](./148242-boku-no-enikki.json) |
 | Boku no Knife de Kimi wo Tasuketai | 299585 | [299585-boku-no-knife-de-kimi-wo-tasuketai.json](./299585-boku-no-knife-de-kimi-wo-tasuketai.json) |
