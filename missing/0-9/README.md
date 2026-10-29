@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Mushrooms | 150421 | [150421-100-hidden-mushrooms.json](./150421-100-hidden-mushrooms.json) |
 | 100 Hidden Pandas: Village | 343124 | [343124-100-hidden-pandas-village.json](./343124-100-hidden-pandas-village.json) |
 | 100 Hidden Rams | 163750 | [163750-100-hidden-rams.json](./163750-100-hidden-rams.json) |
+| 100 Hidden Turtles | 203632 | [203632-100-hidden-turtles.json](./203632-100-hidden-turtles.json) |
 | 100 Hiddensaurs | 306946 | [306946-100-hiddensaurs.json](./306946-100-hiddensaurs.json) |
 | 100 Hiddensaurs: Egypt | 325503 | [325503-100-hiddensaurs-egypt.json](./325503-100-hiddensaurs-egypt.json) |
 | 100 Hiddensaurs: Eighties | 376893 | [376893-100-hiddensaurs-eighties.json](./376893-100-hiddensaurs-eighties.json) |
@@ -1700,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2K Invaders | 304239 | [304239-2k-invaders.json](./304239-2k-invaders.json) |
 | 2K Shells | 328033 | [328033-2k-shells.json](./328033-2k-shells.json) |
 | 2K1X Subzero Heroes | 304215 | [304215-2k1x-subzero-heroes.json](./304215-2k1x-subzero-heroes.json) |
+| 2K20 Cuba | 203627 | [203627-2k20-cuba.json](./203627-2k20-cuba.json) |
 | 2Kxx | 358078 | [358078-2kxx.json](./358078-2kxx.json) |
 | 2MD: VR Football Evolution | 160137 | [160137-2md-vr-football-evolution.json](./160137-2md-vr-football-evolution.json) |
 | 2MD: VR Football Unleashed | 174552 | [174552-2md-vr-football-unleashed.json](./174552-2md-vr-football-unleashed.json) |
@@ -2641,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6-in-1 IQ Scale Bundle: Cube Match | 170740 | [170740-6-in-1-iq-scale-bundle-cube-match.json](./170740-6-in-1-iq-scale-bundle-cube-match.json) |
 | 6-in-1 IQ Scale Bundle: Lost Starships | 166212 | [166212-6-in-1-iq-scale-bundle-lost-starships.json](./166212-6-in-1-iq-scale-bundle-lost-starships.json) |
 | 6-in-1 IQ Scale Bundle: Starships | 170806 | [170806-6-in-1-iq-scale-bundle-starships.json](./170806-6-in-1-iq-scale-bundle-starships.json) |
+| 6-Mon Adventure | 203618 | [203618-6-mon-adventure.json](./203618-6-mon-adventure.json) |
 | 6-nen 1-gumi | 294246 | [294246-6-nen-1-gumi.json](./294246-6-nen-1-gumi.json) |
 | 6-Pak | 86067 | [86067-6-pak.json](./86067-6-pak.json) |
 | 6-Sided Stories | 304668 | [304668-6-sided-stories.json](./304668-6-sided-stories.json) |
