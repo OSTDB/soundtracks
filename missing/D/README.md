@@ -2290,6 +2290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Night | 179077 | [179077-date-night.json](./179077-date-night.json) |
 | Date Night | 393971 | [393971-date-night.json](./393971-date-night.json) |
 | Date Night Bowling | 137109 | [137109-date-night-bowling.json](./137109-date-night-bowling.json) |
+| Date Night With Eyeless Jack | 179849 | [179849-date-night-with-eyeless-jack.json](./179849-date-night-with-eyeless-jack.json) |
 | Date Nite | 336598 | [336598-date-nite.json](./336598-date-nite.json) |
 | Date of Death: Origin | 195553 | [195553-date-of-death-origin.json](./195553-date-of-death-origin.json) |
 | Date of Life | 151988 | [151988-date-of-life.json](./151988-date-of-life.json) |
@@ -13777,6 +13778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Two Save: Save the man | 197363 | [197363-draw-two-save-save-the-man.json](./197363-draw-two-save-save-the-man.json) |
 | Draw Wario | 328684 | [328684-draw-wario.json](./328684-draw-wario.json) |
 | Draw World | 346538 | [346538-draw-world.json](./346538-draw-world.json) |
+| Draw Your Own Adventure | 179854 | [179854-draw-your-own-adventure.json](./179854-draw-your-own-adventure.json) |
 | Draw_Love | 43513 | [43513-draw-love.json](./43513-draw-love.json) |
 | Draw-A-Mountain | 185098 | [185098-draw-a-mountain.json](./185098-draw-a-mountain.json) |
 | Draw-Play | 339158 | [339158-draw-play.json](./339158-draw-play.json) |
