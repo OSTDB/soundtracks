@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need For Madness 2 | 63232 | [63232-need-for-madness-2.json](./63232-need-for-madness-2.json) |
 | Need for Race Street King & Formula Auto Sport Racing Pack | 385132 | [385132-need-for-race-street-king-and-formula-auto-sport-racing-pack.json](./385132-need-for-race-street-king-and-formula-auto-sport-racing-pack.json) |
 | Need For Race: Street King | 328511 | [328511-need-for-race-street-king.json](./328511-need-for-race-street-king.json) |
+| Need for Russia 4: Moscow Nights | 227444 | [227444-need-for-russia-4-moscow-nights.json](./227444-need-for-russia-4-moscow-nights.json) |
 | Need For Scream | 345550 | [345550-need-for-scream.json](./345550-need-for-scream.json) |
 | Need for Seat | 364277 | [364277-need-for-seat.json](./364277-need-for-seat.json) |
 | Need For Seed | 76394 | [76394-need-for-seed.json](./76394-need-for-seed.json) |
