@@ -5828,6 +5828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Academy | 267302 | [267302-mech-academy.json](./267302-mech-academy.json) |
 | Mech Ace Combat Trainer | 31880 | [31880-mech-ace-combat-trainer.json](./31880-mech-ace-combat-trainer.json) |
 | Mech Anarchy | 34018 | [34018-mech-anarchy.json](./34018-mech-anarchy.json) |
+| Mech Arena | 192558 | [192558-mech-arena.json](./192558-mech-arena.json) |
 | Mech Arena | 254093 | [254093-mech-arena.json](./254093-mech-arena.json) |
 | Mech Arena Shooter Battle | 380843 | [380843-mech-arena-shooter-battle.json](./380843-mech-arena-shooter-battle.json) |
 | Mech Armada | 145929 | [145929-mech-armada.json](./145929-mech-armada.json) |
@@ -12887,6 +12888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ModernArcheryVR | 100832 | [100832-modernarcheryvr.json](./100832-modernarcheryvr.json) |
 | ModernFire | 370079 | [370079-modernfire.json](./370079-modernfire.json) |
 | Modernism | 92806 | [92806-modernism.json](./92806-modernism.json) |
+| Modest Eyes | 192551 | [192551-modest-eyes.json](./192551-modest-eyes.json) |
 | Modest Hero | 132459 | [132459-modest-hero.json](./132459-modest-hero.json) |
 | Modest Kind | 68613 | [68613-modest-kind.json](./68613-modest-kind.json) |
 | Modi i Nanna: Sprytne Smyki | 176138 | [176138-modi-i-nanna-sprytne-smyki.json](./176138-modi-i-nanna-sprytne-smyki.json) |
@@ -14264,6 +14266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Wilds | 159532 | [159532-monster-wilds.json](./159532-monster-wilds.json) |
 | Monster World | 402399 | [402399-monster-world.json](./402399-monster-world.json) |
 | Monster World IV | 18282 | [18282-monster-world-iv.json](./18282-monster-world-iv.json) |
+| Monster X | 192549 | [192549-monster-x.json](./192549-monster-x.json) |
 | Monster X Monster | 118032 | [118032-monster-x-monster.json](./118032-monster-x-monster.json) |
 | Monster-Man | 137911 | [137911-monster-man.json](./137911-monster-man.json) |
 | Monster: Titan's Playground | 302927 | [302927-monster-titans-playground.json](./302927-monster-titans-playground.json) |
@@ -16199,6 +16202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MP5 | 201242 | [201242-mp5.json](./201242-mp5.json) |
 | MPaliens | 120913 | [120913-mpaliens.json](./120913-mpaliens.json) |
 | Mpirimpa | 341339 | [341339-mpirimpa.json](./341339-mpirimpa.json) |
+| MR 333 | 192568 | [192568-mr-333.json](./192568-mr-333.json) |
 | Mr Anchry's Day of Twilight | 132076 | [132076-mr-anchrys-day-of-twilight.json](./132076-mr-anchrys-day-of-twilight.json) |
 | Mr Anchry's Divine Intervention | 124271 | [124271-mr-anchrys-divine-intervention.json](./124271-mr-anchrys-divine-intervention.json) |
 | Mr Autofire | 142112 | [142112-mr-autofire.json](./142112-mr-autofire.json) |
@@ -17023,6 +17027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mystery- Detective Investigation Story | 130648 | [130648-murder-mystery-detective-investigation-story.json](./130648-murder-mystery-detective-investigation-story.json) |
 | Murder Mystery: Who Killed Linda Neuman | 251095 | [251095-murder-mystery-who-killed-linda-neuman.json](./251095-murder-mystery-who-killed-linda-neuman.json) |
 | Murder Next Room | 225214 | [225214-murder-next-room.json](./225214-murder-next-room.json) |
+| Murder of the Bear lake | 192579 | [192579-murder-of-the-bear-lake.json](./192579-murder-of-the-bear-lake.json) |
 | Murder on Mainstreet | 262299 | [262299-murder-on-mainstreet.json](./262299-murder-on-mainstreet.json) |
 | Murder on Snake Road | 66961 | [66961-murder-on-snake-road.json](./66961-murder-on-snake-road.json) |
 | Murder on Space Station 52 | 197526 | [197526-murder-on-space-station-52.json](./197526-murder-on-space-station-52.json) |
