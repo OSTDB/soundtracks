@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1955,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bannerlings | 419941 | [419941-bannerlings.json](./419941-bannerlings.json) |
 | Bannerman | 44277 | [44277-bannerman.json](./44277-bannerman.json) |
 | Bannerman | 70395 | [70395-bannerman.json](./70395-bannerman.json) |
+| Banners Begone! | 177153 | [177153-banners-begone.json](./177153-banners-begone.json) |
 | Banners of Ruin: Collection | 324501 | [324501-banners-of-ruin-collection.json](./324501-banners-of-ruin-collection.json) |
 | Banners of Ruin: DLC Pack | 324413 | [324413-banners-of-ruin-dlc-pack.json](./324413-banners-of-ruin-dlc-pack.json) |
 | Banners of Ruin: Iris | 260316 | [260316-banners-of-ruin-iris.json](./260316-banners-of-ruin-iris.json) |
@@ -2928,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baten Kaitos Origins | 236710 | [236710-baten-kaitos-origins.json](./236710-baten-kaitos-origins.json) |
 | Baten Kaitos: Eternal Wings and the Lost Ocean | 236709 | [236709-baten-kaitos-eternal-wings-and-the-lost-ocean.json](./236709-baten-kaitos-eternal-wings-and-the-lost-ocean.json) |
 | Bath House Simulator | 326471 | [326471-bath-house-simulator.json](./326471-bath-house-simulator.json) |
+| Bath Time | 177168 | [177168-bath-time.json](./177168-bath-time.json) |
 | BathDad | 311873 | [311873-bathdad.json](./311873-bathdad.json) |
 | BathDoom | 254306 | [254306-bathdoom.json](./254306-bathdoom.json) |
 | Bathhouse Creatures | 331274 | [331274-bathhouse-creatures.json](./331274-bathhouse-creatures.json) |
@@ -10204,6 +10207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blow Fish Music Quiz | 195441 | [195441-blow-fish-music-quiz.json](./195441-blow-fish-music-quiz.json) |
 | Blow it up | 150867 | [150867-blow-it-up.json](./150867-blow-it-up.json) |
 | Blow Out | 312823 | [312823-blow-out.json](./312823-blow-out.json) |
+| Blow the Hen Down | 177152 | [177152-blow-the-hen-down.json](./177152-blow-the-hen-down.json) |
 | Blow Up Pieces: Unleashed | 116791 | [116791-blow-up-pieces-unleashed.json](./116791-blow-up-pieces-unleashed.json) |
 | Blow Up! | 47556 | [47556-blow-up.json](./47556-blow-up.json) |
 | Blow-Up: Avenge Humanity | 345096 | [345096-blow-up-avenge-humanity.json](./345096-blow-up-avenge-humanity.json) |
