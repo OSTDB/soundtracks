@@ -11443,6 +11443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lion King: Platinum Edition - Timon And Pumbaa’s Virtual Safari Boat Tour | 325093 | [325093-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-boat-tour.json](./325093-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-boat-tour.json) |
 | The Lion King: Platinum Edition - Timon And Pumbaa’s Virtual Safari Jeep Tour | 325092 | [325092-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-jeep-tour.json](./325092-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-jeep-tour.json) |
 | The Lion King: Timon & Pumbaa | 217955 | [217955-the-lion-king-timon-and-pumbaa.json](./217955-the-lion-king-timon-and-pumbaa.json) |
+| The Lion's Beak, or Six Ways to Not Make a Videogame | 203608 | [203608-the-lions-beak-or-six-ways-to-not-make-a-videogame.json](./203608-the-lions-beak-or-six-ways-to-not-make-a-videogame.json) |
 | The Lion's Song | 26674 | [26674-the-lions-song.json](./26674-the-lions-song.json) |
 | The Lion's Song: Episode 2 - Anthology | 168343 | [168343-the-lions-song-episode-2-anthology.json](./168343-the-lions-song-episode-2-anthology.json) |
 | The Lion's Song: Episode 3 - Derivation | 168345 | [168345-the-lions-song-episode-3-derivation.json](./168345-the-lions-song-episode-3-derivation.json) |
@@ -13877,6 +13878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Room VR: A Dark Matter | 123991 | [123991-the-room-vr-a-dark-matter.json](./123991-the-room-vr-a-dark-matter.json) |
 | The Rooms | 191855 | [191855-the-rooms.json](./191855-the-rooms.json) |
 | The Rooster Files | 382502 | [382502-the-rooster-files.json](./382502-the-rooster-files.json) |
+| The Roots | 203621 | [203621-the-roots.json](./203621-the-roots.json) |
 | The Roots: Gates of Chaos | 47566 | [47566-the-roots-gates-of-chaos.json](./47566-the-roots-gates-of-chaos.json) |
 | The Roottrees Are Dead | 276492 | [276492-the-roottrees-are-dead.json](./276492-the-roottrees-are-dead.json) |
 | The Roottrees Are Dead | 288983 | [288983-the-roottrees-are-dead.json](./288983-the-roottrees-are-dead.json) |
@@ -16401,6 +16403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wakers | 204330 | [204330-the-wakers.json](./204330-the-wakers.json) |
 | The Walk | 375939 | [375939-the-walk.json](./375939-the-walk.json) |
 | The Walk of Life | 179987 | [179987-the-walk-of-life.json](./179987-the-walk-of-life.json) |
+| The Walker | 203619 | [203619-the-walker.json](./203619-the-walker.json) |
 | The Walker | 52030 | [52030-the-walker.json](./52030-the-walker.json) |
 | The Walking Dead Match 3 Tales | 303175 | [303175-the-walking-dead-match-3-tales.json](./303175-the-walking-dead-match-3-tales.json) |
 | The Walking Dead Onslaught | 118485 | [118485-the-walking-dead-onslaught.json](./118485-the-walking-dead-onslaught.json) |
