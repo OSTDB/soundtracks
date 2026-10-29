@@ -15486,6 +15486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude Perfect HD | 86892 | [86892-dude-perfect-hd.json](./86892-dude-perfect-hd.json) |
 | Dude Perfect: Trickshot Challenge | 421397 | [421397-dude-perfect-trickshot-challenge.json](./421397-dude-perfect-trickshot-challenge.json) |
 | Dude Quest | 240139 | [240139-dude-quest.json](./240139-dude-quest.json) |
+| Dude Sim | 183220 | [183220-dude-sim.json](./183220-dude-sim.json) |
 | Dude Simulator | 37419 | [37419-dude-simulator.json](./37419-dude-simulator.json) |
 | Dude Simulator 3 | 144297 | [144297-dude-simulator-3.json](./144297-dude-simulator-3.json) |
 | Dude Simulator 4 | 164929 | [164929-dude-simulator-4.json](./164929-dude-simulator-4.json) |
