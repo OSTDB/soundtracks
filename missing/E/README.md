@@ -2217,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Bowling 6: Air Biscuits | 71801 | [71801-elf-bowling-6-air-biscuits.json](./71801-elf-bowling-6-air-biscuits.json) |
 | Elf Bowling 7 1/7: The Last Insult | 56539 | [56539-elf-bowling-7-1-7-the-last-insult.json](./56539-elf-bowling-7-1-7-the-last-insult.json) |
 | Elf Bowling: Collector's Edition | 61343 | [61343-elf-bowling-collectors-edition.json](./61343-elf-bowling-collectors-edition.json) |
+| Elf Breeding Farm | 210399 | [210399-elf-breeding-farm.json](./210399-elf-breeding-farm.json) |
 | Elf Cat Jeff | 185425 | [185425-elf-cat-jeff.json](./185425-elf-cat-jeff.json) |
 | Elf Clash | 349741 | [349741-elf-clash.json](./349741-elf-clash.json) |
 | Elf Defense | 303995 | [303995-elf-defense.json](./303995-elf-defense.json) |
@@ -2234,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Shift | 420759 | [420759-elf-shift.json](./420759-elf-shift.json) |
 | Elf Survivor | 320830 | [320830-elf-survivor.json](./320830-elf-survivor.json) |
 | Elf Tennis Club | 419881 | [419881-elf-tennis-club.json](./419881-elf-tennis-club.json) |
+| Elf Wives Cheat to Ride my Meat | 210394 | [210394-elf-wives-cheat-to-ride-my-meat.json](./210394-elf-wives-cheat-to-ride-my-meat.json) |
 | Elf World Adventure | 339736 | [339736-elf-world-adventure.json](./339736-elf-world-adventure.json) |
 | Elf World Adventure 2 | 339737 | [339737-elf-world-adventure-2.json](./339737-elf-world-adventure-2.json) |
 | Elf World Adventure 3 | 339738 | [339738-elf-world-adventure-3.json](./339738-elf-world-adventure-3.json) |
@@ -5983,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evering | 182386 | [182386-evering.json](./182386-evering.json) |
 | Everise | 388980 | [388980-everise.json](./388980-everise.json) |
 | Everlands | 200130 | [200130-everlands.json](./200130-everlands.json) |
+| Everlast | 210416 | [210416-everlast.json](./210416-everlast.json) |
 | Everlast: Undying Tale | 381335 | [381335-everlast-undying-tale.json](./381335-everlast-undying-tale.json) |
 | Everlasting Abundance | 247420 | [247420-everlasting-abundance.json](./247420-everlasting-abundance.json) |
 | Everlasting Alchemists | 298999 | [298999-everlasting-alchemists.json](./298999-everlasting-alchemists.json) |
