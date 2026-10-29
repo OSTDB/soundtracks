@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Guys: PlayStation Plus Autumn Pack | 323402 | [323402-fall-guys-playstation-plus-autumn-pack.json](./323402-fall-guys-playstation-plus-autumn-pack.json) |
 | Fall Guys: Plush Fox Pack | 243775 | [243775-fall-guys-plush-fox-pack.json](./243775-fall-guys-plush-fox-pack.json) |
 | Fall Guys: Popping Whizzbanger Pack | 243661 | [243661-fall-guys-popping-whizzbanger-pack.json](./243661-fall-guys-popping-whizzbanger-pack.json) |
+| Fall Guys: Season 2 - Satellite Scramble | 216558 | [216558-fall-guys-season-2-satellite-scramble.json](./216558-fall-guys-season-2-satellite-scramble.json) |
 | Fall Guys: Season 2 Starter Pack | 243659 | [243659-fall-guys-season-2-starter-pack.json](./243659-fall-guys-season-2-starter-pack.json) |
 | Fall Guys: Season 3 - Sunken Secrets | 227459 | [227459-fall-guys-season-3-sunken-secrets.json](./227459-fall-guys-season-3-sunken-secrets.json) |
 | Fall Guys: Season 4 - Creative Construction | 243406 | [243406-fall-guys-season-4-creative-construction.json](./243406-fall-guys-season-4-creative-construction.json) |
