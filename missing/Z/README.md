@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-Race | 144005 | [144005-z-race.json](./144005-z-race.json) |
 | Z-Rush Survival | 191818 | [191818-z-rush-survival.json](./191818-z-rush-survival.json) |
 | Z-Stop | 212654 | [212654-z-stop.json](./212654-z-stop.json) |
+| Z-Virus | 179331 | [179331-z-virus.json](./179331-z-virus.json) |
 | Z-Warp | 192278 | [192278-z-warp.json](./192278-z-warp.json) |
 | Z-Xtricator | 153505 | [153505-z-xtricator.json](./153505-z-xtricator.json) |
 | Z: Escape | 99647 | [99647-z-escape.json](./99647-z-escape.json) |
