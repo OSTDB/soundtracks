@@ -3120,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Zero | 333014 | [333014-operation-zero.json](./333014-operation-zero.json) |
 | Operation Zeta | 138457 | [138457-operation-zeta.json](./138457-operation-zeta.json) |
 | Operation: Air Assault | 281278 | [281278-operation-air-assault.json](./281278-operation-air-assault.json) |
+| Operation: Aliens | 217680 | [217680-operation-aliens.json](./217680-operation-aliens.json) |
 | Operation: Alpha Zylon | 54265 | [54265-operation-alpha-zylon.json](./54265-operation-alpha-zylon.json) |
 | Operation: Armored Liberty | 49319 | [49319-operation-armored-liberty.json](./49319-operation-armored-liberty.json) |
 | Operation: Biowar | 140944 | [140944-operation-biowar.json](./140944-operation-biowar.json) |
