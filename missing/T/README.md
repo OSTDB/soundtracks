@@ -5779,6 +5779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Birdwatcher | 198101 | [198101-the-birdwatcher.json](./198101-the-birdwatcher.json) |
 | The Birth of an Artificial Intelligence | 165778 | [165778-the-birth-of-an-artificial-intelligence.json](./165778-the-birth-of-an-artificial-intelligence.json) |
 | The Birth of Magic | 421803 | [421803-the-birth-of-magic.json](./421803-the-birth-of-magic.json) |
+| The Birthday | 199199 | [199199-the-birthday.json](./199199-the-birthday.json) |
 | The Bistro: Ryouri & Wine no Shokunin tachi | 387137 | [387137-the-bistro-ryouri-and-wine-no-shokunin-tachi.json](./387137-the-bistro-ryouri-and-wine-no-shokunin-tachi.json) |
 | The Bit.Trip | 20152 | [20152-the-bit-trip.json](./20152-the-bit-trip.json) |
 | The Bit's Escape | 287756 | [287756-the-bits-escape.json](./287756-the-bits-escape.json) |
@@ -6452,6 +6453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Circle of Suffering | 190364 | [190364-the-circle-of-suffering.json](./190364-the-circle-of-suffering.json) |
 | The Circle: Martial Arts Fighter | 206189 | [206189-the-circle-martial-arts-fighter.json](./206189-the-circle-martial-arts-fighter.json) |
 | The Circulation of Shadows | 271462 | [271462-the-circulation-of-shadows.json](./271462-the-circulation-of-shadows.json) |
+| The Circus | 199245 | [199245-the-circus.json](./199245-the-circus.json) |
 | The Circus of Misfortune | 364662 | [364662-the-circus-of-misfortune.json](./364662-the-circus-of-misfortune.json) |
 | The Citadel | 184356 | [184356-the-citadel.json](./184356-the-citadel.json) |
 | The Citadel | 58820 | [58820-the-citadel.json](./58820-the-citadel.json) |
@@ -6697,6 +6699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Courage to be Disliked | 294967 | [294967-the-courage-to-be-disliked.json](./294967-the-courage-to-be-disliked.json) |
 | The Court of Wanderers | 152793 | [152793-the-court-of-wanderers.json](./152793-the-court-of-wanderers.json) |
 | The Coven | 37114 | [37114-the-coven.json](./37114-the-coven.json) |
+| The Coven of Calahree | 199238 | [199238-the-coven-of-calahree.json](./199238-the-coven-of-calahree.json) |
 | The Covenant | 13526 | [13526-the-covenant.json](./13526-the-covenant.json) |
 | The Coveted Mirror | 25038 | [25038-the-coveted-mirror.json](./25038-the-coveted-mirror.json) |
 | The Cow Flew Over the Moon | 8368 | [8368-the-cow-flew-over-the-moon.json](./8368-the-cow-flew-over-the-moon.json) |
@@ -12293,6 +12296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moon Relax | 165021 | [165021-the-moon-relax.json](./165021-the-moon-relax.json) |
 | The Moon Sliver | 17965 | [17965-the-moon-sliver.json](./17965-the-moon-sliver.json) |
 | The Moonflower | 248007 | [248007-the-moonflower.json](./248007-the-moonflower.json) |
+| The Moonlight Circus | 199235 | [199235-the-moonlight-circus.json](./199235-the-moonlight-circus.json) |
 | The Moonlight Motel | 148870 | [148870-the-moonlight-motel.json](./148870-the-moonlight-motel.json) |
 | The Moonlighters | 62993 | [62993-the-moonlighters.json](./62993-the-moonlighters.json) |
 | The Moonlit Tower | 216324 | [216324-the-moonlit-tower.json](./216324-the-moonlit-tower.json) |
@@ -13762,6 +13766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revolt: Awakening | 74932 | [74932-the-revolt-awakening.json](./74932-the-revolt-awakening.json) |
 | The Revolt: Massing | 193884 | [193884-the-revolt-massing.json](./193884-the-revolt-massing.json) |
 | The Reward of Cherishment and Eternity. | 329199 | [329199-the-reward-of-cherishment-and-eternity.json](./329199-the-reward-of-cherishment-and-eternity.json) |
+| The Rewind Factory | 199234 | [199234-the-rewind-factory.json](./199234-the-rewind-factory.json) |
 | The Rewind Hero Returns | 404992 | [404992-the-rewind-hero-returns.json](./404992-the-rewind-hero-returns.json) |
 | The Rewinder | 127031 | [127031-the-rewinder.json](./127031-the-rewinder.json) |
 | The Rewinder: Definitive Edition | 294824 | [294824-the-rewinder-definitive-edition.json](./294824-the-rewinder-definitive-edition.json) |
@@ -21629,6 +21634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokoro's Mahjong | 37786 | [37786-tokoros-mahjong.json](./37786-tokoros-mahjong.json) |
 | Tokoro's Mahjong Jr. | 126011 | [126011-tokoros-mahjong-jr.json](./126011-tokoros-mahjong-jr.json) |
 | TokoToko | 124705 | [124705-tokotoko.json](./124705-tokotoko.json) |
+| Tokoton Mahjong! Joryuu Pro ni Chousen! Tetsuman Megami Special | 199222 | [199222-tokoton-mahjong-joryuu-pro-ni-chousen-tetsuman-megami-special.json](./199222-tokoton-mahjong-joryuu-pro-ni-chousen-tetsuman-megami-special.json) |
 | Tokoyo ni Ochiru Hana | 163358 | [163358-tokoyo-ni-ochiru-hana.json](./163358-tokoyo-ni-ochiru-hana.json) |
 | Tokoyo: The Tower of Perpetuity | 139042 | [139042-tokoyo-the-tower-of-perpetuity.json](./139042-tokoyo-the-tower-of-perpetuity.json) |
 | Tokubetsu Byoutou | 77815 | [77815-tokubetsu-byoutou.json](./77815-tokubetsu-byoutou.json) |
@@ -26616,6 +26622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Gaust: Gaust Diver - Deep Purple | 123461 | [123461-treasure-gaust-gaust-diver-deep-purple.json](./123461-treasure-gaust-gaust-diver-deep-purple.json) |
 | Treasure Gear | 130357 | [130357-treasure-gear.json](./130357-treasure-gear.json) |
 | Treasure Girl 3D 2 | 196099 | [196099-treasure-girl-3d-2.json](./196099-treasure-girl-3d-2.json) |
+| Treasure Grab | 199198 | [199198-treasure-grab.json](./199198-treasure-grab.json) |
 | Treasure Guardian: Collector Shift Defender's Saga | 301536 | [301536-treasure-guardian-collector-shift-defenders-saga.json](./301536-treasure-guardian-collector-shift-defenders-saga.json) |
 | Treasure Hunt | 12969 | [12969-treasure-hunt.json](./12969-treasure-hunt.json) |
 | Treasure Hunt | 208892 | [208892-treasure-hunt.json](./208892-treasure-hunt.json) |
