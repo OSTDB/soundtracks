@@ -11122,6 +11122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperjustice: Hyper Holidays Expansion | 285320 | [285320-hyperjustice-hyper-holidays-expansion.json](./285320-hyperjustice-hyper-holidays-expansion.json) |
 | Hyperkidmorph2mr.gunner | 336110 | [336110-hyperkidmorph2mr-gunner.json](./336110-hyperkidmorph2mr-gunner.json) |
 | Hyperkin RetroN 5 | 23833 | [23833-hyperkin-retron-5.json](./23833-hyperkin-retron-5.json) |
+| Hyperland | 207634 | [207634-hyperland.json](./207634-hyperland.json) |
 | Hyperlane Highway | 395812 | [395812-hyperlane-highway.json](./395812-hyperlane-highway.json) |
 | HyperLeague Heroes | 191179 | [191179-hyperleague-heroes.json](./191179-hyperleague-heroes.json) |
 | Hyperlight | 254435 | [254435-hyperlight.json](./254435-hyperlight.json) |
