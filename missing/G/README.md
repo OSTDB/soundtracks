@@ -2232,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geki Kuukan Pro Baseball: At the End of the Century 1999 | 302700 | [302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json](./302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json) |
 | Geki Yaba Runner Deluxe | 84638 | [84638-geki-yaba-runner-deluxe.json](./84638-geki-yaba-runner-deluxe.json) |
 | Geki Yaba Runner Habanero | 222389 | [222389-geki-yaba-runner-habanero.json](./222389-geki-yaba-runner-habanero.json) |
+| Geki-J Pachi-Slot: Chibari yo DX | 225340 | [225340-geki-j-pachi-slot-chibari-yo-dx.json](./225340-geki-j-pachi-slot-chibari-yo-dx.json) |
 | Gekiatsu!! Pachige Tamashii Max Evangelion 7 x Seimei no Kodou | 249698 | [249698-gekiatsu-pachige-tamashii-max-evangelion-7-x-seimei-no-kodou.json](./249698-gekiatsu-pachige-tamashii-max-evangelion-7-x-seimei-no-kodou.json) |
 | Gekibo: Gekisha Boy | 43199 | [43199-gekibo-gekisha-boy.json](./43199-gekibo-gekisha-boy.json) |
 | Gekiden Youitan: Ep.1 | 83244 | [83244-gekiden-youitan-ep-1.json](./83244-gekiden-youitan-ep-1.json) |
@@ -6239,6 +6240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goonya Monster: Battle Pass - Eternal Pass + Infinity Cookie | 301019 | [301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json](./301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json) |
 | Goonya Monster: Buster - Iwasake-chan/Fake Type | 279872 | [279872-goonya-monster-buster-iwasake-chan-fake-type.json](./279872-goonya-monster-buster-iwasake-chan-fake-type.json) |
 | Goonya Monster: Buster - Lord Ham/Fake Type | 279871 | [279871-goonya-monster-buster-lord-ham-fake-type.json](./279871-goonya-monster-buster-lord-ham-fake-type.json) |
+| Goonya Monster: Digital Deluxe Edition | 225330 | [225330-goonya-monster-digital-deluxe-edition.json](./225330-goonya-monster-digital-deluxe-edition.json) |
 | Goonya Monster: Fake Type - Pack 2 | 279870 | [279870-goonya-monster-fake-type-pack-2.json](./279870-goonya-monster-fake-type-pack-2.json) |
 | Goooal | 309010 | [309010-goooal.json](./309010-goooal.json) |
 | Goooooal América | 61462 | [61462-goooooal-america.json](./61462-goooooal-america.json) |
@@ -6814,6 +6816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Poo World | 138218 | [138218-grand-poo-world.json](./138218-grand-poo-world.json) |
 | Grand Poo World II | 138219 | [138219-grand-poo-world-ii.json](./138219-grand-poo-world-ii.json) |
 | Grand Poo World III | 277198 | [277198-grand-poo-world-iii.json](./277198-grand-poo-world-iii.json) |
+| Grand Pring Dash | 225334 | [225334-grand-pring-dash.json](./225334-grand-pring-dash.json) |
 | Grand Prix | 18103 | [18103-grand-prix.json](./18103-grand-prix.json) |
 | Grand Prix | 195040 | [195040-grand-prix.json](./195040-grand-prix.json) |
 | Grand Prix | 234094 | [234094-grand-prix.json](./234094-grand-prix.json) |
