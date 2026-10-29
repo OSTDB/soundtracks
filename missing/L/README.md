@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Day Lockdown | 272758 | [272758-last-day-lockdown.json](./272758-last-day-lockdown.json) |
 | Last Day of Fear | 77168 | [77168-last-day-of-fear.json](./77168-last-day-of-fear.json) |
 | Last Day of Rome | 119551 | [119551-last-day-of-rome.json](./119551-last-day-of-rome.json) |
+| Last Day of Summer | 216575 | [216575-last-day-of-summer.json](./216575-last-day-of-summer.json) |
 | Last Day on Stroggos | 402832 | [402832-last-day-on-stroggos.json](./402832-last-day-on-stroggos.json) |
 | Last Day Rules: Survival | 174717 | [174717-last-day-rules-survival.json](./174717-last-day-rules-survival.json) |
 | Last Day: Zombie Survival VR | 199484 | [199484-last-day-zombie-survival-vr.json](./199484-last-day-zombie-survival-vr.json) |
@@ -2534,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Solitaire: Curse of the Dragons | 34532 | [34532-legends-of-solitaire-curse-of-the-dragons.json](./34532-legends-of-solitaire-curse-of-the-dragons.json) |
 | Legends of Starkadia | 290902 | [290902-legends-of-starkadia.json](./290902-legends-of-starkadia.json) |
 | Legends of Talia: Arcadia | 74461 | [74461-legends-of-talia-arcadia.json](./74461-legends-of-talia-arcadia.json) |
+| Legends of the Brawl | 216599 | [216599-legends-of-the-brawl.json](./216599-legends-of-the-brawl.json) |
 | Legends of the East: The Cobra's Eye - Collector's Edition | 381379 | [381379-legends-of-the-east-the-cobras-eye-collectors-edition.json](./381379-legends-of-the-east-the-cobras-eye-collectors-edition.json) |
 | Legends of The Internet | 311208 | [311208-legends-of-the-internet.json](./311208-legends-of-the-internet.json) |
 | Legends of the Jedi | 228697 | [228697-legends-of-the-jedi.json](./228697-legends-of-the-jedi.json) |
@@ -6042,6 +6044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Log(Hic!) | 92941 | [92941-log-hic.json](./92941-log-hic.json) |
 | Logam vs Ksi | 108344 | [108344-logam-vs-ksi.json](./108344-logam-vs-ksi.json) |
 | Logan Paul Adventure | 259418 | [259418-logan-paul-adventure.json](./259418-logan-paul-adventure.json) |
+| Loggerhead | 216570 | [216570-loggerhead.json](./216570-loggerhead.json) |
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
 | Logi. | 105719 | [105719-logi.json](./105719-logi.json) |
 | Logiart Grimoire | 263886 | [263886-logiart-grimoire.json](./263886-logiart-grimoire.json) |
@@ -6348,6 +6351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Dream | 217238 | [217238-long-dream.json](./217238-long-dream.json) |
 | Long Drive Island | 332959 | [332959-long-drive-island.json](./332959-long-drive-island.json) |
 | Long Drive North | 320382 | [320382-long-drive-north.json](./320382-long-drive-north.json) |
+| Long Gone | 216609 | [216609-long-gone.json](./216609-long-gone.json) |
 | Long Gone Days | 31820 | [31820-long-gone-days.json](./31820-long-gone-days.json) |
 | Long Hun Shi Ke | 90619 | [90619-long-hun-shi-ke.json](./90619-long-hun-shi-ke.json) |
 | Long in the Tooth | 376130 | [376130-long-in-the-tooth.json](./376130-long-in-the-tooth.json) |
