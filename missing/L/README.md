@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Minute Love | 177908 | [177908-last-minute-love.json](./177908-last-minute-love.json) |
 | Last Minute Shopping | 278544 | [278544-last-minute-shopping.json](./278544-last-minute-shopping.json) |
 | Last Mission | 40083 | [40083-last-mission.json](./40083-last-mission.json) |
+| Last Monarch | 204151 | [204151-last-monarch.json](./204151-last-monarch.json) |
 | Last Monday | 402867 | [402867-last-monday.json](./402867-last-monday.json) |
 | Last Moon | 120387 | [120387-last-moon.json](./120387-last-moon.json) |
 | Last Moon | 166480 | [166480-last-moon.json](./166480-last-moon.json) |
@@ -1245,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Oasis | 114422 | [114422-last-oasis.json](./114422-last-oasis.json) |
 | Last of Ark | 208664 | [208664-last-of-ark.json](./208664-last-of-ark.json) |
 | Last of Ass | 157161 | [157161-last-of-ass.json](./157161-last-of-ass.json) |
+| Last of Humanity | 204150 | [204150-last-of-humanity.json](./204150-last-of-humanity.json) |
 | Last of Light | 177746 | [177746-last-of-light.json](./177746-last-of-light.json) |
 | Last of the Noticers | 291856 | [291856-last-of-the-noticers.json](./291856-last-of-the-noticers.json) |
 | Last One Standing | 176332 | [176332-last-one-standing.json](./176332-last-one-standing.json) |
@@ -1343,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Throne | 364035 | [364035-last-throne.json](./364035-last-throne.json) |
 | Last ticket for Eternity | 178864 | [178864-last-ticket-for-eternity.json](./178864-last-ticket-for-eternity.json) |
 | Last Tide | 106114 | [106114-last-tide.json](./106114-last-tide.json) |
+| Last Time I Saw You | 204149 | [204149-last-time-i-saw-you.json](./204149-last-time-i-saw-you.json) |
 | Last Toon Standing | 72512 | [72512-last-toon-standing.json](./72512-last-toon-standing.json) |
 | Last Train Home | 131385 | [131385-last-train-home.json](./131385-last-train-home.json) |
 | Last Train Home: Digital Deluxe Edition | 278580 | [278580-last-train-home-digital-deluxe-edition.json](./278580-last-train-home-digital-deluxe-edition.json) |
@@ -1969,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn Geography | 47904 | [47904-learn-geography.json](./47904-learn-geography.json) |
 | Learn Hiragana!! | 228052 | [228052-learn-hiragana.json](./228052-learn-hiragana.json) |
 | Learn Japanese Kana & Vocab with Sushi | 368886 | [368886-learn-japanese-kana-and-vocab-with-sushi.json](./368886-learn-japanese-kana-and-vocab-with-sushi.json) |
+| Learn Japanese RPG: Hiragana Forbidden Speech | 204153 | [204153-learn-japanese-rpg-hiragana-forbidden-speech.json](./204153-learn-japanese-rpg-hiragana-forbidden-speech.json) |
 | Learn Japanese to Survive! Hiragana Battle | 33622 | [33622-learn-japanese-to-survive-hiragana-battle.json](./33622-learn-japanese-to-survive-hiragana-battle.json) |
 | Learn Japanese to Survive! Katakana War | 27684 | [27684-learn-japanese-to-survive-katakana-war.json](./27684-learn-japanese-to-survive-katakana-war.json) |
 | Learn Kana the Fun Way! | 65805 | [65805-learn-kana-the-fun-way.json](./65805-learn-kana-the-fun-way.json) |
@@ -3925,6 +3929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Is Not the End | 156999 | [156999-life-is-not-the-end.json](./156999-life-is-not-the-end.json) |
 | Life is Pain | 239584 | [239584-life-is-pain.json](./239584-life-is-pain.json) |
 | Life is Paine | 188443 | [188443-life-is-paine.json](./188443-life-is-paine.json) |
+| Life is Paradise | 204174 | [204174-life-is-paradise.json](./204174-life-is-paradise.json) |
 | Life is Pointless | 113651 | [113651-life-is-pointless.json](./113651-life-is-pointless.json) |
 | Life is sad | 157407 | [157407-life-is-sad.json](./157407-life-is-sad.json) |
 | Life is Scary | 176765 | [176765-life-is-scary.json](./176765-life-is-scary.json) |
@@ -4834,6 +4839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link PET_EX: Twin Navi DX Edition | 353188 | [353188-link-pet-ex-twin-navi-dx-edition.json](./353188-link-pet-ex-twin-navi-dx-edition.json) |
 | Link PET_EXE: Ijuuin Enzan Version | 353190 | [353190-link-pet-exe-ijuuin-enzan-version.json](./353190-link-pet-exe-ijuuin-enzan-version.json) |
 | Link the animals | 117774 | [117774-link-the-animals.json](./117774-link-the-animals.json) |
+| Link the Cubes | 204175 | [204175-link-the-cubes.json](./204175-link-the-cubes.json) |
 | Link Tower | 320810 | [320810-link-tower.json](./320810-link-tower.json) |
 | Link Track | 255012 | [255012-link-track.json](./255012-link-track.json) |
 | Link Twin | 29055 | [29055-link-twin.json](./29055-link-twin.json) |
@@ -6375,6 +6381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Dream | 217238 | [217238-long-dream.json](./217238-long-dream.json) |
 | Long Drive Island | 332959 | [332959-long-drive-island.json](./332959-long-drive-island.json) |
 | Long Drive North | 320382 | [320382-long-drive-north.json](./320382-long-drive-north.json) |
+| Long Drop | 204176 | [204176-long-drop.json](./204176-long-drop.json) |
 | Long Gone | 216609 | [216609-long-gone.json](./216609-long-gone.json) |
 | Long Gone Days | 31820 | [31820-long-gone-days.json](./31820-long-gone-days.json) |
 | Long Hun Shi Ke | 90619 | [90619-long-hun-shi-ke.json](./90619-long-hun-shi-ke.json) |
@@ -6918,6 +6925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Alone Ep.2: Daddy | 185912 | [185912-lost-alone-ep-2-daddy.json](./185912-lost-alone-ep-2-daddy.json) |
 | Lost Alone Ultimate | 245026 | [245026-lost-alone-ultimate.json](./245026-lost-alone-ultimate.json) |
 | Lost Alone Ultimate: George's Nightmare | 266349 | [266349-lost-alone-ultimate-georges-nightmare.json](./266349-lost-alone-ultimate-georges-nightmare.json) |
+| Lost Alone: Ep.3 - Granny | 204177 | [204177-lost-alone-ep-3-granny.json](./204177-lost-alone-ep-3-granny.json) |
 | Lost Along The Way | 253919 | [253919-lost-along-the-way.json](./253919-lost-along-the-way.json) |
 | Lost Altr | 339490 | [339490-lost-altr.json](./339490-lost-altr.json) |
 | Lost Amulets | 116457 | [116457-lost-amulets.json](./116457-lost-amulets.json) |
@@ -7249,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lures | 387302 | [387302-lost-lures.json](./387302-lost-lures.json) |
 | Lost Luxury | 268896 | [268896-lost-luxury.json](./268896-lost-luxury.json) |
 | Lost Manor | 302190 | [302190-lost-manor.json](./302190-lost-manor.json) |
+| Lost Marbles | 204178 | [204178-lost-marbles.json](./204178-lost-marbles.json) |
 | Lost Marbles | 36365 | [36365-lost-marbles.json](./36365-lost-marbles.json) |
 | Lost Maria: Namonaki Hana | 394168 | [394168-lost-maria-namonaki-hana.json](./394168-lost-maria-namonaki-hana.json) |
 | Lost Mastery | 304633 | [304633-lost-mastery.json](./304633-lost-mastery.json) |
@@ -8863,6 +8872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lustful Ponies | 195738 | [195738-lustful-ponies.json](./195738-lustful-ponies.json) |
 | Lustful Ponies 2 | 215607 | [215607-lustful-ponies-2.json](./215607-lustful-ponies-2.json) |
 | Lustful Professor | 369158 | [369158-lustful-professor.json](./369158-lustful-professor.json) |
+| Lustful Pussies | 204179 | [204179-lustful-pussies.json](./204179-lustful-pussies.json) |
 | Lustful Roommates | 367287 | [367287-lustful-roommates.json](./367287-lustful-roommates.json) |
 | Lustless | 241251 | [241251-lustless.json](./241251-lustless.json) |
 | Lustra: Lachea’s Tale | 346790 | [346790-lustra-lachea-s-tale.json](./346790-lustra-lachea-s-tale.json) |
