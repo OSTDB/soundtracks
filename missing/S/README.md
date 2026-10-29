@@ -8493,6 +8493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrouded Tales: Revenge of Shadows | 139741 | [139741-shrouded-tales-revenge-of-shadows.json](./139741-shrouded-tales-revenge-of-shadows.json) |
 | Shrouded Tales: The Spellbound Land | 139743 | [139743-shrouded-tales-the-spellbound-land.json](./139743-shrouded-tales-the-spellbound-land.json) |
 | Shrug Island: The Meeting | 34055 | [34055-shrug-island-the-meeting.json](./34055-shrug-island-the-meeting.json) |
+| Shrumblo and the Magical Grumblo | 190349 | [190349-shrumblo-and-the-magical-grumblo.json](./190349-shrumblo-and-the-magical-grumblo.json) |
 | Shtdn | 202225 | [202225-shtdn.json](./202225-shtdn.json) |
 | SHTF | 55980 | [55980-shtf.json](./55980-shtf.json) |
 | Shtrek | 335298 | [335298-shtrek.json](./335298-shtrek.json) |
@@ -8971,6 +8972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SIGame | 285584 | [285584-sigame.json](./285584-sigame.json) |
 | Sigformation | 235369 | [235369-sigformation.json](./235369-sigformation.json) |
 | Sigh of the Abyss | 207584 | [207584-sigh-of-the-abyss.json](./207584-sigh-of-the-abyss.json) |
+| Sigh of the Abyss: Shadow Bonds | 190313 | [190313-sigh-of-the-abyss-shadow-bonds.json](./190313-sigh-of-the-abyss-shadow-bonds.json) |
 | SIght | 243649 | [243649-sight.json](./243649-sight.json) |
 | Sight Blight | 249726 | [249726-sight-blight.json](./249726-sight-blight.json) |
 | Sight Insomnia | 364381 | [364381-sight-insomnia.json](./364381-sight-insomnia.json) |
@@ -14086,6 +14088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Softnauts the Game | 23908 | [23908-softnauts-the-game.json](./23908-softnauts-the-game.json) |
 | Softris | 221360 | [221360-softris.json](./221360-softris.json) |
 | Softstar Games Bundle | 231783 | [231783-softstar-games-bundle.json](./231783-softstar-games-bundle.json) |
+| Software Company | 190355 | [190355-software-company.json](./190355-software-company.json) |
 | Software House Simulator | 149728 | [149728-software-house-simulator.json](./149728-software-house-simulator.json) |
 | Software Inc. | 35463 | [35463-software-inc.json](./35463-software-inc.json) |
 | Software Manager | 78597 | [78597-software-manager.json](./78597-software-manager.json) |
@@ -14191,6 +14194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SokoNature | 324666 | [324666-sokonature.json](./324666-sokonature.json) |
 | Sokonuke Taisen Game | 191645 | [191645-sokonuke-taisen-game.json](./191645-sokonuke-taisen-game.json) |
 | SokoPenguin | 293673 | [293673-sokopenguin.json](./293673-sokopenguin.json) |
+| Sokoramp | 190340 | [190340-sokoramp.json](./190340-sokoramp.json) |
 | Sokorobot | 327980 | [327980-sokorobot.json](./327980-sokorobot.json) |
 | Sokorun: One Box | 209673 | [209673-sokorun-one-box.json](./209673-sokorun-one-box.json) |
 | Sokos | 33053 | [33053-sokos.json](./33053-sokos.json) |
@@ -16828,6 +16832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Baller | 133431 | [133431-space-baller.json](./133431-space-baller.json) |
 | Space Ballers | 197163 | [197163-space-ballers.json](./197163-space-ballers.json) |
 | Space Ballet | 25758 | [25758-space-ballet.json](./25758-space-ballet.json) |
+| Space Balls | 190325 | [190325-space-balls.json](./190325-space-balls.json) |
 | Space Bandit | 150577 | [150577-space-bandit.json](./150577-space-bandit.json) |
 | Space Bandits | 42176 | [42176-space-bandits.json](./42176-space-bandits.json) |
 | Space Bar | 411582 | [411582-space-bar.json](./411582-space-bar.json) |
@@ -23777,6 +23782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoked: Big Air Edition | 21107 | [21107-stoked-big-air-edition.json](./21107-stoked-big-air-edition.json) |
 | Stolen | 6177 | [6177-stolen.json](./6177-stolen.json) |
 | Stolen Blood | 341452 | [341452-stolen-blood.json](./341452-stolen-blood.json) |
+| Stolen Crown | 190359 | [190359-stolen-crown.json](./190359-stolen-crown.json) |
 | Stolen Dolls | 226430 | [226430-stolen-dolls.json](./226430-stolen-dolls.json) |
 | Stolen Heart | 397673 | [397673-stolen-heart.json](./397673-stolen-heart.json) |
 | Stolen Hearts: Wolf Knight | 285860 | [285860-stolen-hearts-wolf-knight.json](./285860-stolen-hearts-wolf-knight.json) |
