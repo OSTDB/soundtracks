@@ -3596,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Rivals VR | 255160 | [255160-sea-rivals-vr.json](./255160-sea-rivals-vr.json) |
 | Sea Rogue | 237446 | [237446-sea-rogue.json](./237446-sea-rogue.json) |
 | Sea Rover | 293523 | [293523-sea-rover.json](./293523-sea-rover.json) |
+| Sea Rovers: MetaPlunder | 187071 | [187071-sea-rovers-metaplunder.json](./187071-sea-rovers-metaplunder.json) |
 | Sea Salt | 96204 | [96204-sea-salt.json](./96204-sea-salt.json) |
 | Sea Salt City | 404240 | [404240-sea-salt-city.json](./404240-sea-salt-city.json) |
 | Sea Scenes | 219616 | [219616-sea-scenes.json](./219616-sea-scenes.json) |
@@ -4095,6 +4096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Mansion | 184442 | [184442-secrets-of-the-mansion.json](./184442-secrets-of-the-mansion.json) |
 | Secrets of the Middle Ages | 165660 | [165660-secrets-of-the-middle-ages.json](./165660-secrets-of-the-middle-ages.json) |
 | Secrets of the Past: Dion | 110895 | [110895-secrets-of-the-past-dion.json](./110895-secrets-of-the-past-dion.json) |
+| Secrets of the Past: Mother's Diary | 187031 | [187031-secrets-of-the-past-mothers-diary.json](./187031-secrets-of-the-past-mothers-diary.json) |
 | Secrets of the Room 3: The Girl Group Back to the Night | 265782 | [265782-secrets-of-the-room-3-the-girl-group-back-to-the-night.json](./265782-secrets-of-the-room-3-the-girl-group-back-to-the-night.json) |
 | Secrets of the Seas | 53585 | [53585-secrets-of-the-seas.json](./53585-secrets-of-the-seas.json) |
 | Secrets of the Shiratori Twins | 247413 | [247413-secrets-of-the-shiratori-twins.json](./247413-secrets-of-the-shiratori-twins.json) |
@@ -6025,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Warrior: Special Edition | 53592 | [53592-shadow-warrior-special-edition.json](./53592-shadow-warrior-special-edition.json) |
 | Shadow Warriors | 6878 | [6878-shadow-warriors.json](./6878-shadow-warriors.json) |
 | Shadow Wars | 98553 | [98553-shadow-wars.json](./98553-shadow-wars.json) |
+| Shadow Watcher | 186486 | [186486-shadow-watcher.json](./186486-shadow-watcher.json) |
 | Shadow Wolf Mysteries: Bane of the Family | 139734 | [139734-shadow-wolf-mysteries-bane-of-the-family.json](./139734-shadow-wolf-mysteries-bane-of-the-family.json) |
 | Shadow Wolf Mysteries: Bane of the Family - Collector's Edition | 76479 | [76479-shadow-wolf-mysteries-bane-of-the-family-collectors-edition.json](./76479-shadow-wolf-mysteries-bane-of-the-family-collectors-edition.json) |
 | Shadow Wolf Mysteries: Curse of the Full Moon | 139737 | [139737-shadow-wolf-mysteries-curse-of-the-full-moon.json](./139737-shadow-wolf-mysteries-curse-of-the-full-moon.json) |
@@ -7078,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shi's Summer Battle | 360683 | [360683-shis-summer-battle.json](./360683-shis-summer-battle.json) |
 | Shia LaBeouf: Meme Master Dating Simulator | 12076 | [12076-shia-labeouf-meme-master-dating-simulator.json](./12076-shia-labeouf-meme-master-dating-simulator.json) |
 | Shiawase Shou no Kanrinin-san | 136792 | [136792-shiawase-shou-no-kanrinin-san.json](./136792-shiawase-shou-no-kanrinin-san.json) |
+| Shiba Army | 186410 | [186410-shiba-army.json](./186410-shiba-army.json) |
 | Shiba Boop! | 397016 | [397016-shiba-boop.json](./397016-shiba-boop.json) |
 | Shiba Cafe | 177516 | [177516-shiba-cafe.json](./177516-shiba-cafe.json) |
 | Shiba Eternity | 221385 | [221385-shiba-eternity.json](./221385-shiba-eternity.json) |
@@ -11772,6 +11776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendytubbies II | 214423 | [214423-slendytubbies-ii.json](./214423-slendytubbies-ii.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
 | Slendytubbies: Worlds | 283548 | [283548-slendytubbies-worlds.json](./283548-slendytubbies-worlds.json) |
+| Slette Mette | 186468 | [186468-slette-mette.json](./186468-slette-mette.json) |
 | Sleuth | 94909 | [94909-sleuth.json](./94909-sleuth.json) |
 | SLG Remix | 33428 | [33428-slg-remix.json](./33428-slg-remix.json) |
 | SLI-FI: 2D Planet Platformer | 55694 | [55694-sli-fi-2d-planet-platformer.json](./55694-sli-fi-2d-planet-platformer.json) |
@@ -11845,6 +11850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Treasures: Lydia's Hunt | 311778 | [311778-slide-treasures-lydias-hunt.json](./311778-slide-treasures-lydias-hunt.json) |
 | Slide Viking: Treasure's Path | 395664 | [395664-slide-viking-treasures-path.json](./395664-slide-viking-treasures-path.json) |
 | Slide With You | 401834 | [401834-slide-with-you.json](./401834-slide-with-you.json) |
+| Slide-A-Lama | 186456 | [186456-slide-a-lama.json](./186456-slide-a-lama.json) |
 | Slide: Animal Race | 174020 | [174020-slide-animal-race.json](./174020-slide-animal-race.json) |
 | Slide! Throw! Snow Party | 379977 | [379977-slide-throw-snow-party.json](./379977-slide-throw-snow-party.json) |
 | Slide!! | 74194 | [74194-slide.json](./74194-slide.json) |
@@ -12493,6 +12499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Dart | 246281 | [246281-smart-dart.json](./246281-smart-dart.json) |
 | Smart Decoy | 221657 | [221657-smart-decoy.json](./221657-smart-decoy.json) |
 | Smart Educational Games for Mac | 100607 | [100607-smart-educational-games-for-mac.json](./100607-smart-educational-games-for-mac.json) |
+| Smart Factory Tycoon | 187061 | [187061-smart-factory-tycoon.json](./187061-smart-factory-tycoon.json) |
 | Smart Farm | 390078 | [390078-smart-farm.json](./390078-smart-farm.json) |
 | Smart Fart | 149938 | [149938-smart-fart.json](./149938-smart-fart.json) |
 | Smart Fish | 250877 | [250877-smart-fish.json](./250877-smart-fish.json) |
@@ -24044,6 +24051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Wars | 56482 | [56482-storm-wars.json](./56482-storm-wars.json) |
 | Storm Wars CCG | 26236 | [26236-storm-wars-ccg.json](./26236-storm-wars-ccg.json) |
 | Storm: Frontline Nation | 10928 | [10928-storm-frontline-nation.json](./10928-storm-frontline-nation.json) |
+| Storm: Lost Normality | 186409 | [186409-storm-lost-normality.json](./186409-storm-lost-normality.json) |
 | Storm's Eye | 295303 | [295303-storms-eye.json](./295303-storms-eye.json) |
 | Storm's Wrath | 360630 | [360630-storms-wrath.json](./360630-storms-wrath.json) |
 | Stormball | 77379 | [77379-stormball.json](./77379-stormball.json) |
@@ -24167,8 +24175,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storyteller: Devilish Update | 269078 | [269078-storyteller-devilish-update.json](./269078-storyteller-devilish-update.json) |
 | Storytime Cats: Meows and Mistletoes | 420769 | [420769-storytime-cats-meows-and-mistletoes.json](./420769-storytime-cats-meows-and-mistletoes.json) |
 | Storyvale | 57464 | [57464-storyvale.json](./57464-storyvale.json) |
+| Stötnisse Åker Hiss | 187026 | [187026-stotnisse-aker-hiss.json](./187026-stotnisse-aker-hiss.json) |
 | Stow Away | 400958 | [400958-stow-away.json](./400958-stow-away.json) |
 | Stowaway | 174008 | [174008-stowaway.json](./174008-stowaway.json) |
+| Stowaway | 187078 | [187078-stowaway.json](./187078-stowaway.json) |
 | Stowaway | 288868 | [288868-stowaway.json](./288868-stowaway.json) |
 | Stowizm | 184103 | [184103-stowizm.json](./184103-stowizm.json) |
 | Stozle: Solve the Mystery | 284563 | [284563-stozle-solve-the-mystery.json](./284563-stozle-solve-the-mystery.json) |
@@ -24562,6 +24572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamers Interactive Quiz Game | 343454 | [343454-streamers-interactive-quiz-game.json](./343454-streamers-interactive-quiz-game.json) |
 | Streamers' Secret Life | 221582 | [221582-streamers-secret-life.json](./221582-streamers-secret-life.json) |
 | StreamerVille | 285996 | [285996-streamerville.json](./285996-streamerville.json) |
+| StreamFest | 187007 | [187007-streamfest.json](./187007-streamfest.json) |
 | StreamGods: Streamer Tycoon | 169449 | [169449-streamgods-streamer-tycoon.json](./169449-streamgods-streamer-tycoon.json) |
 | Streaming Girls 18+:- OnlyFap Live | 286468 | [286468-streaming-girls-18-onlyfap-live.json](./286468-streaming-girls-18-onlyfap-live.json) |
 | StreamInk | 166594 | [166594-streamink.json](./166594-streamink.json) |
@@ -25644,6 +25655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subtracto | 372536 | [372536-subtracto.json](./372536-subtracto.json) |
 | Subtyrannya - A story-driven merchant game | 112898 | [112898-subtyrannya-a-story-driven-merchant-game.json](./112898-subtyrannya-a-story-driven-merchant-game.json) |
 | Subuccus | 211656 | [211656-subuccus.json](./211656-subuccus.json) |
+| Subugs | 187064 | [187064-subugs.json](./187064-subugs.json) |
 | Suburban Commando | 73811 | [73811-suburban-commando.json](./73811-suburban-commando.json) |
 | Suburban Footy League | 272911 | [272911-suburban-footy-league.json](./272911-suburban-footy-league.json) |
 | Suburban Hive | 308482 | [308482-suburban-hive.json](./308482-suburban-hive.json) |
@@ -26730,6 +26742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Shapes | 157384 | [157384-sunset-shapes.json](./157384-sunset-shapes.json) |
 | Sunset Shores | 294794 | [294794-sunset-shores.json](./294794-sunset-shores.json) |
 | Sunset Solitaire | 302071 | [302071-sunset-solitaire.json](./302071-sunset-solitaire.json) |
+| Sunset Spirit Steel | 187066 | [187066-sunset-spirit-steel.json](./187066-sunset-spirit-steel.json) |
 | Sunset Sprout | 348460 | [348460-sunset-sprout.json](./348460-sunset-sprout.json) |
 | Sunset Squid | 180659 | [180659-sunset-squid.json](./180659-sunset-squid.json) |
 | Sunset Street Ninja | 375943 | [375943-sunset-street-ninja.json](./375943-sunset-street-ninja.json) |
@@ -27634,6 +27647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Mushrooms | 162229 | [162229-super-jigsaw-puzzle-generations-mushrooms.json](./162229-super-jigsaw-puzzle-generations-mushrooms.json) |
 | Super Jigsaw Puzzle: Generations - New York Puzzles | 155602 | [155602-super-jigsaw-puzzle-generations-new-york-puzzles.json](./155602-super-jigsaw-puzzle-generations-new-york-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - New Zealand | 155578 | [155578-super-jigsaw-puzzle-generations-new-zealand.json](./155578-super-jigsaw-puzzle-generations-new-zealand.json) |
+| Super Jigsaw Puzzle: Generations - Norway | 186491 | [186491-super-jigsaw-puzzle-generations-norway.json](./186491-super-jigsaw-puzzle-generations-norway.json) |
 | Super Jigsaw Puzzle: Generations - Original SJP | 155618 | [155618-super-jigsaw-puzzle-generations-original-sjp.json](./155618-super-jigsaw-puzzle-generations-original-sjp.json) |
 | Super Jigsaw Puzzle: Generations - Paintings 2 | 226510 | [226510-super-jigsaw-puzzle-generations-paintings-2.json](./226510-super-jigsaw-puzzle-generations-paintings-2.json) |
 | Super Jigsaw Puzzle: Generations - Paintings Puzzles | 155623 | [155623-super-jigsaw-puzzle-generations-paintings-puzzles.json](./155623-super-jigsaw-puzzle-generations-paintings-puzzles.json) |
