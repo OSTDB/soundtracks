@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odeio Sonhar | 307048 | [307048-odeio-sonhar.json](./307048-odeio-sonhar.json) |
 | Odekake Takorin: Choigae | 222527 | [222527-odekake-takorin-choigae.json](./222527-odekake-takorin-choigae.json) |
 | Odell Lake | 93132 | [93132-odell-lake.json](./93132-odell-lake.json) |
+| Oden | 211025 | [211025-oden.json](./211025-oden.json) |
 | Oden | 334857 | [334857-oden.json](./334857-oden.json) |
 | Oden Cart 2: A Taste of Time | 159289 | [159289-oden-cart-2-a-taste-of-time.json](./159289-oden-cart-2-a-taste-of-time.json) |
 | Oden Cart: A Heartwarming Tale | 159288 | [159288-oden-cart-a-heartwarming-tale.json](./159288-oden-cart-a-heartwarming-tale.json) |
@@ -1348,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olenveld | 419352 | [419352-olenveld.json](./419352-olenveld.json) |
 | Olga Doesn't Die | 388837 | [388837-olga-doesnt-die.json](./388837-olga-doesnt-die.json) |
 | Olga: Episode 1 | 292954 | [292954-olga-episode-1.json](./292954-olga-episode-1.json) |
+| Olgob the Bold | 211021 | [211021-olgob-the-bold.json](./211021-olgob-the-bold.json) |
 | Olho | 227661 | [227661-olho.json](./227661-olho.json) |
 | Olho Spectral | 265495 | [265495-olho-spectral.json](./265495-olho-spectral.json) |
 | Oli | 192791 | [192791-oli.json](./192791-oli.json) |
