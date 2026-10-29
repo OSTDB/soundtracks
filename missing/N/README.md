@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Porsche Unleashed | 248143 | [248143-need-for-speed-porsche-unleashed.json](./248143-need-for-speed-porsche-unleashed.json) |
 | Need for Speed: Porsche Unleashed | 94 | [94-need-for-speed-porsche-unleashed.json](./94-need-for-speed-porsche-unleashed.json) |
 | Need for Speed: ProStreet | 210431 | [210431-need-for-speed-prostreet.json](./210431-need-for-speed-prostreet.json) |
+| Need for Speed: ProStreet | 210432 | [210432-need-for-speed-prostreet.json](./210432-need-for-speed-prostreet.json) |
 | Need for Speed: ProStreet | 240505 | [240505-need-for-speed-prostreet.json](./240505-need-for-speed-prostreet.json) |
 | Need for Speed: ProStreet | 248125 | [248125-need-for-speed-prostreet.json](./248125-need-for-speed-prostreet.json) |
 | Need for Speed: ProStreet | 248126 | [248126-need-for-speed-prostreet.json](./248126-need-for-speed-prostreet.json) |
@@ -2406,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerd Simulator | 312531 | [312531-nerd-simulator.json](./312531-nerd-simulator.json) |
 | Nerd Survivors | 272740 | [272740-nerd-survivors.json](./272740-nerd-survivors.json) |
 | Nerd: Tracing Dayline | 318273 | [318273-nerd-tracing-dayline.json](./318273-nerd-tracing-dayline.json) |
+| Nerd's Guide to Surviving High School | 210369 | [210369-nerds-guide-to-surviving-high-school.json](./210369-nerds-guide-to-surviving-high-school.json) |
 | Nerds & Ammo | 391585 | [391585-nerds-and-ammo.json](./391585-nerds-and-ammo.json) |
 | Nerds Rope: Follow the Leader Game | 373535 | [373535-nerds-rope-follow-the-leader-game.json](./373535-nerds-rope-follow-the-leader-game.json) |
 | Nerdtastic Norman & The Soul Fragments | 295400 | [295400-nerdtastic-norman-and-the-soul-fragments.json](./295400-nerdtastic-norman-and-the-soul-fragments.json) |
@@ -3469,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nibble: Pizza Delivery | 254997 | [254997-nibble-pizza-delivery.json](./254997-nibble-pizza-delivery.json) |
 | Nibbles | 88657 | [88657-nibbles.json](./88657-nibbles.json) |
 | Nibblet | 256709 | [256709-nibblet.json](./256709-nibblet.json) |
+| Nibbly '92 | 210391 | [210391-nibbly-92.json](./210391-nibbly-92.json) |
 | Nibeos | 303489 | [303489-nibeos.json](./303489-nibeos.json) |
 | Nibiru | 120155 | [120155-nibiru.json](./120155-nibiru.json) |
 | Nibiru | 205071 | [205071-nibiru.json](./205071-nibiru.json) |
