@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Aquarium by DS | 69090 | [69090-fantasy-aquarium-by-ds.json](./69090-fantasy-aquarium-by-ds.json) |
 | Fantasy Aquarium World | 51030 | [51030-fantasy-aquarium-world.json](./51030-fantasy-aquarium-world.json) |
 | Fantasy Baseball | 246277 | [246277-fantasy-baseball.json](./246277-fantasy-baseball.json) |
+| Fantasy Battle Islands | 196979 | [196979-fantasy-battle-islands.json](./196979-fantasy-battle-islands.json) |
 | Fantasy Battles | 109762 | [109762-fantasy-battles.json](./109762-fantasy-battles.json) |
 | Fantasy Battles | 343604 | [343604-fantasy-battles.json](./343604-fantasy-battles.json) |
 | Fantasy Beast Football | 99372 | [99372-fantasy-beast-football.json](./99372-fantasy-beast-football.json) |
@@ -2349,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer Simulator Evolution | 288161 | [288161-farmer-simulator-evolution.json](./288161-farmer-simulator-evolution.json) |
 | Farmer Survivors | 270516 | [270516-farmer-survivors.json](./270516-farmer-survivors.json) |
 | Farmer Time: A Magical Farming Adventure | 164939 | [164939-farmer-time-a-magical-farming-adventure.json](./164939-farmer-time-a-magical-farming-adventure.json) |
+| Farmer Toon | 197005 | [197005-farmer-toon.json](./197005-farmer-toon.json) |
 | Farmer's Delight | 232679 | [232679-farmers-delight.json](./232679-farmers-delight.json) |
 | Farmer's Diary | 285575 | [285575-farmers-diary.json](./285575-farmers-diary.json) |
 | Farmer's Dynasty | 75102 | [75102-farmers-dynasty.json](./75102-farmers-dynasty.json) |
@@ -3390,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felix the Toy | 144846 | [144846-felix-the-toy.json](./144846-felix-the-toy.json) |
 | Felix the Toy DX | 239140 | [239140-felix-the-toy-dx.json](./239140-felix-the-toy-dx.json) |
 | Felix VR | 163916 | [163916-felix-vr.json](./163916-felix-vr.json) |
+| Fell | 196957 | [196957-fell.json](./196957-fell.json) |
 | Fell | 237197 | [237197-fell.json](./237197-fell.json) |
 | Fell from another world | 213478 | [213478-fell-from-another-world.json](./213478-fell-from-another-world.json) |
 | Fell Seal DLC Bundle | 154965 | [154965-fell-seal-dlc-bundle.json](./154965-fell-seal-dlc-bundle.json) |
@@ -10889,6 +10892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy Family Fort | 175963 | [175963-froggy-family-fort.json](./175963-froggy-family-fort.json) |
 | Froggy Jump | 52185 | [52185-froggy-jump.json](./52185-froggy-jump.json) |
 | Froggy Pot | 186121 | [186121-froggy-pot.json](./186121-froggy-pot.json) |
+| Froggy Quest | 197000 | [197000-froggy-quest.json](./197000-froggy-quest.json) |
 | Froggy Quest | 229280 | [229280-froggy-quest.json](./229280-froggy-quest.json) |
 | Froggy Revenge | 418731 | [418731-froggy-revenge.json](./418731-froggy-revenge.json) |
 | Froggy Shelf | 184341 | [184341-froggy-shelf.json](./184341-froggy-shelf.json) |
