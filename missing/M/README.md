@@ -5590,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: Path of Light - Oasis Edition | 404280 | [404280-maze-path-of-light-oasis-edition.json](./404280-maze-path-of-light-oasis-edition.json) |
 | Maze: Path of Light - Wild Constellations | 354195 | [354195-maze-path-of-light-wild-constellations.json](./354195-maze-path-of-light-wild-constellations.json) |
 | Maze: Path of Light - Wild Edition | 368780 | [368780-maze-path-of-light-wild-edition.json](./368780-maze-path-of-light-wild-edition.json) |
+| Maze: Pedestal of Trials | 187671 | [187671-maze-pedestal-of-trials.json](./187671-maze-pedestal-of-trials.json) |
 | Maze: Shadow of Light | 109562 | [109562-maze-shadow-of-light.json](./109562-maze-shadow-of-light.json) |
 | Maze: Sinister Play - Collector's Edition | 170215 | [170215-maze-sinister-play-collectors-edition.json](./170215-maze-sinister-play-collectors-edition.json) |
 | Maze: Subject 360 - Collector's Edition | 32785 | [32785-maze-subject-360-collectors-edition.json](./32785-maze-subject-360-collectors-edition.json) |
@@ -9909,6 +9910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Riff | 350888 | [350888-midnight-riff.json](./350888-midnight-riff.json) |
 | Midnight Road Warriors | 209513 | [209513-midnight-road-warriors.json](./209513-midnight-road-warriors.json) |
 | Midnight Runner: Blade Galaxy Beat Puzzle Legacy 3D Games Ultimate Edition | 231258 | [231258-midnight-runner-blade-galaxy-beat-puzzle-legacy-3d-games-ultimate-edition.json](./231258-midnight-runner-blade-galaxy-beat-puzzle-legacy-3d-games-ultimate-edition.json) |
+| Midnight Rush | 187658 | [187658-midnight-rush.json](./187658-midnight-rush.json) |
 | Midnight Saga: The Monster | 212974 | [212974-midnight-saga-the-monster.json](./212974-midnight-saga-the-monster.json) |
 | Midnight Saturn | 374024 | [374024-midnight-saturn.json](./374024-midnight-saturn.json) |
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
@@ -10753,6 +10755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Jam 1 | 343595 | [343595-mine-jam-1.json](./343595-mine-jam-1.json) |
 | Mine Make Escape | 347745 | [347745-mine-make-escape.json](./347745-mine-make-escape.json) |
 | Mine Memory | 278412 | [278412-mine-memory.json](./278412-mine-memory.json) |
+| Mine My Mind | 187685 | [187685-mine-my-mind.json](./187685-mine-my-mind.json) |
 | Mine Nueeper Ninin ga Shinobuden | 98028 | [98028-mine-nueeper-ninin-ga-shinobuden.json](./98028-mine-nueeper-ninin-ga-shinobuden.json) |
 | Mine of My Mind | 389970 | [389970-mine-of-my-mind.json](./389970-mine-of-my-mind.json) |
 | Mine of Sight | 101763 | [101763-mine-of-sight.json](./101763-mine-of-sight.json) |
