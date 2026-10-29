@@ -7134,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grappledrome | 36453 | [36453-grappledrome.json](./36453-grappledrome.json) |
 | Grapplers: Relic Rivals | 297860 | [297860-grapplers-relic-rivals.json](./297860-grapplers-relic-rivals.json) |
 | GrappleShot | 159585 | [159585-grappleshot.json](./159585-grappleshot.json) |
+| GrappleWell | 204144 | [204144-grapplewell.json](./204144-grapplewell.json) |
 | Grapplin' Apples | 409351 | [409351-grapplin-apples.json](./409351-grapplin-apples.json) |
 | Grappling Bagel | 348870 | [348870-grappling-bagel.json](./348870-grappling-bagel.json) |
 | Grappling Dash | 215584 | [215584-grappling-dash.json](./215584-grappling-dash.json) |
