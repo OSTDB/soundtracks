@@ -2444,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onegai AiPri | 396935 | [396935-onegai-aipri.json](./396935-onegai-aipri.json) |
 | Onegai My Melody: My Melody Adventure | 315563 | [315563-onegai-my-melody-my-melody-adventure.json](./315563-onegai-my-melody-my-melody-adventure.json) |
 | Onegai My Melody: Yume no Kuni no Daibouken | 97812 | [97812-onegai-my-melody-yume-no-kuni-no-daibouken.json](./97812-onegai-my-melody-yume-no-kuni-no-daibouken.json) |
+| Onegai Shachou! | 228126 | [228126-onegai-shachou.json](./228126-onegai-shachou.json) |
 | Onegai Teacher | 126296 | [126296-onegai-teacher.json](./126296-onegai-teacher.json) |
 | Onegai Twin(s) | 98037 | [98037-onegai-twin-s.json](./98037-onegai-twin-s.json) |
 | OneHit | 75104 | [75104-onehit.json](./75104-onehit.json) |
