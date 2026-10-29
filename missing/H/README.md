@@ -11209,6 +11209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnotica Quest | 302509 | [302509-hypnotica-quest.json](./302509-hypnotica-quest.json) |
 | Hypogea | 303550 | [303550-hypogea.json](./303550-hypogea.json) |
 | Hypogeal | 401015 | [401015-hypogeal.json](./401015-hypogeal.json) |
+| Hypogean | 212045 | [212045-hypogean.json](./212045-hypogean.json) |
 | Hypogean Descent | 266791 | [266791-hypogean-descent.json](./266791-hypogean-descent.json) |
 | Hyposolus | 409360 | [409360-hyposolus.json](./409360-hyposolus.json) |
 | Hyposphere | 33020 | [33020-hyposphere.json](./33020-hyposphere.json) |
