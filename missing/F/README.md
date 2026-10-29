@@ -2168,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm | 364085 | [364085-farm.json](./364085-farm.json) |
 | Farm & Feast | 414305 | [414305-farm-and-feast.json](./414305-farm-and-feast.json) |
 | Farm & Puzzle | 148687 | [148687-farm-and-puzzle.json](./148687-farm-and-puzzle.json) |
+| Farm & Survive Bundle | 218858 | [218858-farm-and-survive-bundle.json](./218858-farm-and-survive-bundle.json) |
 | Farm 123 - Learn to count | 87509 | [87509-farm-123-learn-to-count.json](./87509-farm-123-learn-to-count.json) |
 | Farm 123 - Learn to count! | 99097 | [99097-farm-123-learn-to-count.json](./99097-farm-123-learn-to-count.json) |
 | Farm 2+ | 412347 | [412347-farm-2.json](./412347-farm-2.json) |
@@ -4010,6 +4011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight or Flight | 113046 | [113046-fight-or-flight.json](./113046-fight-or-flight.json) |
 | Fight or Flight VR | 272266 | [272266-fight-or-flight-vr.json](./272266-fight-or-flight-vr.json) |
 | Fight or Lose | 230678 | [230678-fight-or-lose.json](./230678-fight-or-lose.json) |
+| Fight Over Dat Ancient | 218831 | [218831-fight-over-dat-ancient.json](./218831-fight-over-dat-ancient.json) |
 | Fight Party | 147248 | [147248-fight-party.json](./147248-fight-party.json) |
 | Fight Plane | 235471 | [235471-fight-plane.json](./235471-fight-plane.json) |
 | Fight Poker | 404832 | [404832-fight-poker.json](./404832-fight-poker.json) |
