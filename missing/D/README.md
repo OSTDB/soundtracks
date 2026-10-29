@@ -1000,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DangerZone VR | 166049 | [166049-dangerzone-vr.json](./166049-dangerzone-vr.json) |
 | Danghost | 216741 | [216741-danghost.json](./216741-danghost.json) |
 | Dangle | 274996 | [274996-dangle.json](./274996-dangle.json) |
+| Danglebox | 190324 | [190324-danglebox.json](./190324-danglebox.json) |
 | Dango Dash | 228508 | [228508-dango-dash.json](./228508-dango-dash.json) |
 | Dango Thief | 242539 | [242539-dango-thief.json](./242539-dango-thief.json) |
 | Dango! | 207726 | [207726-dango.json](./207726-dango.json) |
@@ -2117,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Blitz | 90079 | [90079-dash-blitz.json](./90079-dash-blitz.json) |
 | Dash Cats | 316936 | [316936-dash-cats.json](./316936-dash-cats.json) |
 | Dash Connect 2 | 368577 | [368577-dash-connect-2.json](./368577-dash-connect-2.json) |
+| Dash Cup Kickers | 190333 | [190333-dash-cup-kickers.json](./190333-dash-cup-kickers.json) |
 | Dash Dash Dead | 361455 | [361455-dash-dash-dead.json](./361455-dash-dash-dead.json) |
 | Dash Dash Delivery | 160264 | [160264-dash-dash-delivery.json](./160264-dash-dash-delivery.json) |
 | Dash Dash Run! | 54505 | [54505-dash-dash-run.json](./54505-dash-dash-run.json) |
@@ -6685,6 +6687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy Simulator VR | 235068 | [235068-destroy-simulator-vr.json](./235068-destroy-simulator-vr.json) |
 | Destroy the Castle | 349843 | [349843-destroy-the-castle.json](./349843-destroy-the-castle.json) |
 | Destroy the Cubes | 156133 | [156133-destroy-the-cubes.json](./156133-destroy-the-cubes.json) |
+| Destroy the Cubes 2 | 190362 | [190362-destroy-the-cubes-2.json](./190362-destroy-the-cubes-2.json) |
 | Destroy the Demon Army | 370196 | [370196-destroy-the-demon-army.json](./370196-destroy-the-demon-army.json) |
 | Destroy the Dummies | 158641 | [158641-destroy-the-dummies.json](./158641-destroy-the-dummies.json) |
 | Destroy the Hexons | 156129 | [156129-destroy-the-hexons.json](./156129-destroy-the-hexons.json) |
@@ -14397,6 +14400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamy Goat | 174618 | [174618-dreamy-goat.json](./174618-dreamy-goat.json) |
 | Dreamy Hill | 345694 | [345694-dreamy-hill.json](./345694-dreamy-hill.json) |
 | Dreamy Idea | 292065 | [292065-dreamy-idea.json](./292065-dreamy-idea.json) |
+| Dreamy Planet | 190350 | [190350-dreamy-planet.json](./190350-dreamy-planet.json) |
 | Dreamy Room | 337096 | [337096-dreamy-room.json](./337096-dreamy-room.json) |
 | Dreamy Syrup | 330906 | [330906-dreamy-syrup.json](./330906-dreamy-syrup.json) |
 | Dreary Disposition | 271799 | [271799-dreary-disposition.json](./271799-dreary-disposition.json) |
