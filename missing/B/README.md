@@ -4032,6 +4032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayonetta 2 | 279336 | [279336-bayonetta-2.json](./279336-bayonetta-2.json) |
 | Bayonetta 2: Bonus Edition | 51154 | [51154-bayonetta-2-bonus-edition.json](./51154-bayonetta-2-bonus-edition.json) |
 | Bayonetta 2: First Print Edition | 51187 | [51187-bayonetta-2-first-print-edition.json](./51187-bayonetta-2-first-print-edition.json) |
+| Bayonetta 3: Trinity Masquerade Edition | 209839 | [209839-bayonetta-3-trinity-masquerade-edition.json](./209839-bayonetta-3-trinity-masquerade-edition.json) |
 | Bayonetta Origins: Cereza and the Lost Demon | 228528 | [228528-bayonetta-origins-cereza-and-the-lost-demon.json](./228528-bayonetta-origins-cereza-and-the-lost-demon.json) |
 | Bayonetta: Nonstop Climax Edition | 136898 | [136898-bayonetta-nonstop-climax-edition.json](./136898-bayonetta-nonstop-climax-edition.json) |
 | Bayou Boats | 387711 | [387711-bayou-boats.json](./387711-bayou-boats.json) |
