@@ -6588,6 +6588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almost Nearly Borderline Perfect | 402119 | [402119-almost-nearly-borderline-perfect.json](./402119-almost-nearly-borderline-perfect.json) |
 | Almost Out of Mana | 399583 | [399583-almost-out-of-mana.json](./399583-almost-out-of-mana.json) |
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
+| Almost Tennis | 225968 | [225968-almost-tennis.json](./225968-almost-tennis.json) |
 | Almost There: The Platformer | 113722 | [113722-almost-there-the-platformer.json](./113722-almost-there-the-platformer.json) |
 | Alnahsha Run | 202235 | [202235-alnahsha-run.json](./202235-alnahsha-run.json) |
 | Alnam no Kiba: Juuzoku Juuni Shinto Densetsu | 108919 | [108919-alnam-no-kiba-juuzoku-juuni-shinto-densetsu.json](./108919-alnam-no-kiba-juuzoku-juuni-shinto-densetsu.json) |
