@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Pretense of Death | 177334 | [177334-under-pretense-of-death.json](./177334-under-pretense-of-death.json) |
 | Under Princess: Pure Voice | 109005 | [109005-under-princess-pure-voice.json](./109005-under-princess-pure-voice.json) |
 | Under Shelter | 146550 | [146550-under-shelter.json](./146550-under-shelter.json) |
+| Under Siege | 203591 | [203591-under-siege.json](./203591-under-siege.json) |
 | Under Siege | 383347 | [383347-under-siege.json](./383347-under-siege.json) |
 | Under Siege | 52990 | [52990-under-siege.json](./52990-under-siege.json) |
 | Under Siege | 95467 | [95467-under-siege.json](./95467-under-siege.json) |
