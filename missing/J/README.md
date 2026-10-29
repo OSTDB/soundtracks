@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Collapse | 421799 | [421799-jelly-collapse.json](./421799-jelly-collapse.json) |
 | Jelly Cube Blast | 233908 | [233908-jelly-cube-blast.json](./233908-jelly-cube-blast.json) |
 | Jelly Defense | 22206 | [22206-jelly-defense.json](./22206-jelly-defense.json) |
+| Jelly Drift | 177195 | [177195-jelly-drift.json](./177195-jelly-drift.json) |
 | Jelly Escape | 286641 | [286641-jelly-escape.json](./286641-jelly-escape.json) |
 | Jelly Express | 199592 | [199592-jelly-express.json](./199592-jelly-express.json) |
 | Jelly Forest | 202545 | [202545-jelly-forest.json](./202545-jelly-forest.json) |
@@ -1052,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jerry and the Mystery Loot Box | 83564 | [83564-jerry-and-the-mystery-loot-box.json](./83564-jerry-and-the-mystery-loot-box.json) |
 | Jerry Anker and the Quest to get Love | 324195 | [324195-jerry-anker-and-the-quest-to-get-love.json](./324195-jerry-anker-and-the-quest-to-get-love.json) |
 | Jerry Glanville's Pigskin Footbrawl | 46188 | [46188-jerry-glanvilles-pigskin-footbrawl.json](./46188-jerry-glanvilles-pigskin-footbrawl.json) |
+| Jerry Is Not Invited | 177175 | [177175-jerry-is-not-invited.json](./177175-jerry-is-not-invited.json) |
 | Jerry Jobhopper | 122174 | [122174-jerry-jobhopper.json](./122174-jerry-jobhopper.json) |
 | Jerry McPartlin: Rebel with a Cause | 286508 | [286508-jerry-mcpartlin-rebel-with-a-cause.json](./286508-jerry-mcpartlin-rebel-with-a-cause.json) |
 | Jerry the Polar Bear | 100828 | [100828-jerry-the-polar-bear.json](./100828-jerry-the-polar-bear.json) |
