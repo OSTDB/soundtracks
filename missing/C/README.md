@@ -13555,6 +13555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courage Saw Game | 385598 | [385598-courage-saw-game.json](./385598-courage-saw-game.json) |
 | Courage the Cowardly Dog: Creep TV | 186279 | [186279-courage-the-cowardly-dog-creep-tv.json](./186279-courage-the-cowardly-dog-creep-tv.json) |
 | Courage the Cowardly Dog: Hell Bound Hound | 142356 | [142356-courage-the-cowardly-dog-hell-bound-hound.json](./142356-courage-the-cowardly-dog-hell-bound-hound.json) |
+| Courage the Cowardly Dog: Pharaoh Phobia | 203059 | [203059-courage-the-cowardly-dog-pharaoh-phobia.json](./203059-courage-the-cowardly-dog-pharaoh-phobia.json) |
 | Courage: The Videogame | 170005 | [170005-courage-the-videogame.json](./170005-courage-the-videogame.json) |
 | Courage: ZaGame | 338284 | [338284-courage-zagame.json](./338284-courage-zagame.json) |
 | Courage's Reasoning Nori 5 Chewed Rice Balls | 288305 | [288305-courages-reasoning-nori-5-chewed-rice-balls.json](./288305-courages-reasoning-nori-5-chewed-rice-balls.json) |
