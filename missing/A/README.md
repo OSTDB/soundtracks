@@ -2603,6 +2603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Service | 12289 | [12289-action-service.json](./12289-action-service.json) |
 | Action Sport | 72179 | [72179-action-sport.json](./72179-action-sport.json) |
 | Action Stations! | 12387 | [12387-action-stations.json](./12387-action-stations.json) |
+| Action Strike: Heroes | 196429 | [196429-action-strike-heroes.json](./196429-action-strike-heroes.json) |
 | Action Study Runner | 379472 | [379472-action-study-runner.json](./379472-action-study-runner.json) |
 | Action Supercross | 50393 | [50393-action-supercross.json](./50393-action-supercross.json) |
 | Action-Strategy Baseball | 72966 | [72966-action-strategy-baseball.json](./72966-action-strategy-baseball.json) |
@@ -4058,6 +4059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Enigma: The Secret of the Sixth Ghost | 22103 | [22103-age-of-enigma-the-secret-of-the-sixth-ghost.json](./22103-age-of-enigma-the-secret-of-the-sixth-ghost.json) |
 | Age of Enigma: The Sixth Ghost | 52360 | [52360-age-of-enigma-the-sixth-ghost.json](./52360-age-of-enigma-the-sixth-ghost.json) |
 | Age of Enlightenment | 316458 | [316458-age-of-enlightenment.json](./316458-age-of-enlightenment.json) |
+| Age of Evil | 196439 | [196439-age-of-evil.json](./196439-age-of-evil.json) |
 | Age of Expansion | 391049 | [391049-age-of-expansion.json](./391049-age-of-expansion.json) |
 | Age of Explorers | 396377 | [396377-age-of-explorers.json](./396377-age-of-explorers.json) |
 | Age of Farming | 30500 | [30500-age-of-farming.json](./30500-age-of-farming.json) |
@@ -4792,6 +4794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Trix | 18048 | [18048-air-trix.json](./18048-air-trix.json) |
 | Air Twister | 203458 | [203458-air-twister.json](./203458-air-twister.json) |
 | Air Tycoon 2 | 175127 | [175127-air-tycoon-2.json](./175127-air-tycoon-2.json) |
+| Air VR | 195906 | [195906-air-vr.json](./195906-air-vr.json) |
 | Air Warrior | 14232 | [14232-air-warrior.json](./14232-air-warrior.json) |
 | Air Warrior II | 376855 | [376855-air-warrior-ii.json](./376855-air-warrior-ii.json) |
 | Air Warrior III | 376856 | [376856-air-warrior-iii.json](./376856-air-warrior-iii.json) |
@@ -5733,6 +5736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alibi for love | 387624 | [387624-alibi-for-love.json](./387624-alibi-for-love.json) |
 | Alibi: The Dinner Party | 262003 | [262003-alibi-the-dinner-party.json](./262003-alibi-the-dinner-party.json) |
 | Alibito | 412444 | [412444-alibito.json](./412444-alibito.json) |
+| Alice | 195861 | [195861-alice.json](./195861-alice.json) |
 | Alice | 230182 | [230182-alice.json](./230182-alice.json) |
 | Alice & Marisa | 270382 | [270382-alice-and-marisa.json](./270382-alice-and-marisa.json) |
 | Alice 49: Ep. 0 - Diamonds and Cream Puffs | 331923 | [331923-alice-49-ep-0-diamonds-and-cream-puffs.json](./331923-alice-49-ep-0-diamonds-and-cream-puffs.json) |
@@ -6689,6 +6693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone To Melt | 365753 | [365753-alone-to-melt.json](./365753-alone-to-melt.json) |
 | Alone Together | 98214 | [98214-alone-together.json](./98214-alone-together.json) |
 | Alone With a Bunch of Robots | 115158 | [115158-alone-with-a-bunch-of-robots.json](./115158-alone-with-a-bunch-of-robots.json) |
+| Alone With You | 195898 | [195898-alone-with-you.json](./195898-alone-with-you.json) |
 | Alone With You | 8635 | [8635-alone-with-you.json](./8635-alone-with-you.json) |
 | Alone Without Her | 19380 | [19380-alone-without-her.json](./19380-alone-without-her.json) |
 | Alone: Chapter 1 | 296885 | [296885-alone-chapter-1.json](./296885-alone-chapter-1.json) |
@@ -8666,6 +8671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animaddicts | 190724 | [190724-animaddicts.json](./190724-animaddicts.json) |
 | Animaddicts 2 | 192891 | [192891-animaddicts-2.json](./192891-animaddicts-2.json) |
 | Animaddicts 3 | 195704 | [195704-animaddicts-3.json](./195704-animaddicts-3.json) |
+| Animaddicts 4 | 196427 | [196427-animaddicts-4.json](./196427-animaddicts-4.json) |
 | Animagi | 377681 | [377681-animagi.json](./377681-animagi.json) |
 | Animahjong X | 331189 | [331189-animahjong-x.json](./331189-animahjong-x.json) |
 | Animal Academy | 237806 | [237806-animal-academy.json](./237806-animal-academy.json) |
@@ -10381,6 +10387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Approval | 212597 | [212597-approval.json](./212597-approval.json) |
 | Approximately Up | 377061 | [377061-approximately-up.json](./377061-approximately-up.json) |
 | Appulse | 335232 | [335232-appulse.json](./335232-appulse.json) |
+| Apré Lapli | 195888 | [195888-apre-lapli.json](./195888-apre-lapli.json) |
 | Aprenda Libras | 315615 | [315615-aprenda-libras.json](./315615-aprenda-libras.json) |
 | Aprende con Horacio: La Gran Aventura de las Palabras | 283755 | [283755-aprende-con-horacio-la-gran-aventura-de-las-palabras.json](./283755-aprende-con-horacio-la-gran-aventura-de-las-palabras.json) |
 | Apricity | 253741 | [253741-apricity.json](./253741-apricity.json) |
@@ -10678,6 +10685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arbor | 159038 | [159038-arbor.json](./159038-arbor.json) |
 | Arborea: Magnicidio en la Corte | 316835 | [316835-arborea-magnicidio-en-la-corte.json](./316835-arborea-magnicidio-en-la-corte.json) |
 | Arboreal | 190052 | [190052-arboreal.json](./190052-arboreal.json) |
+| Arboreal | 195879 | [195879-arboreal.json](./195879-arboreal.json) |
 | Arboretum | 122919 | [122919-arboretum.json](./122919-arboretum.json) |
 | Arboria | 126432 | [126432-arboria.json](./126432-arboria.json) |
 | Arby | 377051 | [377051-arby.json](./377051-arby.json) |
@@ -10947,6 +10955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: P-47 | 135583 | [135583-arcade-archives-p-47.json](./135583-arcade-archives-p-47.json) |
 | Arcade Archives: P.O.W. - Prisoners of War | 131846 | [131846-arcade-archives-p-o-w-prisoners-of-war.json](./131846-arcade-archives-p-o-w-prisoners-of-war.json) |
 | Arcade Archives: Pac & Pal | 215109 | [215109-arcade-archives-pac-and-pal.json](./215109-arcade-archives-pac-and-pal.json) |
+| Arcade Archives: Pac-Land | 196444 | [196444-arcade-archives-pac-land.json](./196444-arcade-archives-pac-land.json) |
 | Arcade Archives: Pac-Man | 172431 | [172431-arcade-archives-pac-man.json](./172431-arcade-archives-pac-man.json) |
 | Arcade Archives: Penguin-Kun Wars | 129497 | [129497-arcade-archives-penguin-kun-wars.json](./129497-arcade-archives-penguin-kun-wars.json) |
 | Arcade Archives: Pettan Pyuu | 147115 | [147115-arcade-archives-pettan-pyuu.json](./147115-arcade-archives-pettan-pyuu.json) |
