@@ -28248,6 +28248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsubasa Chronicle Vol. 2 | 124108 | [124108-tsubasa-chronicle-vol-2.json](./124108-tsubasa-chronicle-vol-2.json) |
 | Tsubasa Heaven | 406831 | [406831-tsubasa-heaven.json](./406831-tsubasa-heaven.json) |
 | Tsubasa no Oka no Hime: A Red and Blue Moon Finite Loop | 255620 | [255620-tsubasa-no-oka-no-hime-a-red-and-blue-moon-finite-loop.json](./255620-tsubasa-no-oka-no-hime-a-red-and-blue-moon-finite-loop.json) |
+| Tsubasa+ | 188242 | [188242-tsubasa.json](./188242-tsubasa.json) |
 | TsucnenT's Treasures | 369225 | [369225-tsucnents-treasures.json](./369225-tsucnents-treasures.json) |
 | TsucnenT's Treasures II | 369226 | [369226-tsucnents-treasures-ii.json](./369226-tsucnents-treasures-ii.json) |
 | Tsugi no Giseisha wo Oshirase Shimasu: Kimi to Ko no Hateru Kotonai Kurayami wo | 340532 | [340532-tsugi-no-giseisha-wo-oshirase-shimasu-kimi-to-ko-no-hateru-kotonai-kurayami-wo.json](./340532-tsugi-no-giseisha-wo-oshirase-shimasu-kimi-to-ko-no-hateru-kotonai-kurayami-wo.json) |
