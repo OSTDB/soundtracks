@@ -3024,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Jack'Son | 15088 | [15088-jumping-jackson.json](./15088-jumping-jackson.json) |
 | Jumping Jacks | 243100 | [243100-jumping-jacks.json](./243100-jumping-jacks.json) |
 | Jumping Jax | 141040 | [141040-jumping-jax.json](./141040-jumping-jax.json) |
+| Jumping Jazz Cats | 207632 | [207632-jumping-jazz-cats.json](./207632-jumping-jazz-cats.json) |
 | Jumping Jean | 364235 | [364235-jumping-jean.json](./364235-jumping-jean.json) |
 | Jumping jet | 131844 | [131844-jumping-jet.json](./131844-jumping-jet.json) |
 | Jumping Joe! Friends Edition | 170387 | [170387-jumping-joe-friends-edition.json](./170387-jumping-joe-friends-edition.json) |
