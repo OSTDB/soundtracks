@@ -6241,6 +6241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Mayhem | 40716 | [40716-medieval-mayhem.json](./40716-medieval-mayhem.json) |
 | Medieval Mayhem | 75009 | [75009-medieval-mayhem.json](./75009-medieval-mayhem.json) |
 | Medieval Merchants - A historical trading simulation | 95298 | [95298-medieval-merchants-a-historical-trading-simulation.json](./95298-medieval-merchants-a-historical-trading-simulation.json) |
+| Medieval Merge | 194151 | [194151-medieval-merge.json](./194151-medieval-merge.json) |
 | Medieval Merge: Epic Adventure | 248158 | [248158-medieval-merge-epic-adventure.json](./248158-medieval-merge-epic-adventure.json) |
 | Medieval Moves: Deadmund's Quest | 18230 | [18230-medieval-moves-deadmunds-quest.json](./18230-medieval-moves-deadmunds-quest.json) |
 | Medieval Mystery Match | 46473 | [46473-medieval-mystery-match.json](./46473-medieval-mystery-match.json) |
@@ -8484,6 +8485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metachromium | 164239 | [164239-metachromium.json](./164239-metachromium.json) |
 | MetaCity M | 220334 | [220334-metacity-m.json](./220334-metacity-m.json) |
 | Metacity Patrol | 339796 | [339796-metacity-patrol.json](./339796-metacity-patrol.json) |
+| Metacraft | 194130 | [194130-metacraft.json](./194130-metacraft.json) |
 | Metacube | 342779 | [342779-metacube.json](./342779-metacube.json) |
 | MetaDOS | 199923 | [199923-metados.json](./199923-metados.json) |
 | MetaDude | 254634 | [254634-metadude.json](./254634-metadude.json) |
@@ -13670,6 +13672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster 4x4: Masters of Metal | 4017 | [4017-monster-4x4-masters-of-metal.json](./4017-monster-4x4-masters-of-metal.json) |
 | Monster Academy | 167307 | [167307-monster-academy.json](./167307-monster-academy.json) |
 | Monster Academy: An Interactive Story | 415063 | [415063-monster-academy-an-interactive-story.json](./415063-monster-academy-an-interactive-story.json) |
+| Monster Adventure | 194129 | [194129-monster-adventure.json](./194129-monster-adventure.json) |
 | Monster Adventure | 195891 | [195891-monster-adventure.json](./195891-monster-adventure.json) |
 | Monster Adventures | 61088 | [61088-monster-adventures.json](./61088-monster-adventures.json) |
 | Monster Adventures Crazy | 239230 | [239230-monster-adventures-crazy.json](./239230-monster-adventures-crazy.json) |
@@ -13925,6 +13928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Stories 3: Twisted Reflection - Special Outfits Set | 376797 | [376797-monster-hunter-stories-3-twisted-reflection-special-outfits-set.json](./376797-monster-hunter-stories-3-twisted-reflection-special-outfits-set.json) |
 | Monster Hunter Stories Collection | 292151 | [292151-monster-hunter-stories-collection.json](./292151-monster-hunter-stories-collection.json) |
 | Monster Hunter Stories Deluxe Collection | 306546 | [306546-monster-hunter-stories-deluxe-collection.json](./306546-monster-hunter-stories-deluxe-collection.json) |
+| Monster Hunter Stories: Tabidachi no Shou | 194142 | [194142-monster-hunter-stories-tabidachi-no-shou.json](./194142-monster-hunter-stories-tabidachi-no-shou.json) |
 | Monster Hunter Tri | 2268 | [2268-monster-hunter-tri.json](./2268-monster-hunter-tri.json) |
 | Monster Hunter Tri G | 85616 | [85616-monster-hunter-tri-g.json](./85616-monster-hunter-tri-g.json) |
 | Monster Hunter Tri: Classic Controller Pro Pack | 78629 | [78629-monster-hunter-tri-classic-controller-pro-pack.json](./78629-monster-hunter-tri-classic-controller-pro-pack.json) |
@@ -17395,6 +17399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutants & Zombies | 278532 | [278532-mutants-and-zombies.json](./278532-mutants-and-zombies.json) |
 | Mutants Ate My Carrots | 273401 | [273401-mutants-ate-my-carrots.json](./273401-mutants-ate-my-carrots.json) |
 | Mutants from the Deep | 165545 | [165545-mutants-from-the-deep.json](./165545-mutants-from-the-deep.json) |
+| Mutants Genetic Gladiators | 194100 | [194100-mutants-genetic-gladiators.json](./194100-mutants-genetic-gladiators.json) |
 | Mutants Of Mist | 285964 | [285964-mutants-of-mist.json](./285964-mutants-of-mist.json) |
 | Mutants vs. the Chosen | 371579 | [371579-mutants-vs-the-chosen.json](./371579-mutants-vs-the-chosen.json) |
 | Mutants vs. the Chosen Part 2 | 371583 | [371583-mutants-vs-the-chosen-part-2.json](./371583-mutants-vs-the-chosen-part-2.json) |
