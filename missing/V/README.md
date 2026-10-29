@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venus Flytraps | 234593 | [234593-venus-flytraps.json](./234593-venus-flytraps.json) |
 | Venus in Furs: Sensual Pleasure | 215674 | [215674-venus-in-furs-sensual-pleasure.json](./215674-venus-in-furs-sensual-pleasure.json) |
 | Venus in Transit | 395581 | [395581-venus-in-transit.json](./395581-venus-in-transit.json) |
+| Venus Looks for Jupiter | 200829 | [200829-venus-looks-for-jupiter.json](./200829-venus-looks-for-jupiter.json) |
 | Venus Meets Venus | 128592 | [128592-venus-meets-venus.json](./128592-venus-meets-venus.json) |
 | Venus One: Galactic Overlords | 253602 | [253602-venus-one-galactic-overlords.json](./253602-venus-one-galactic-overlords.json) |
 | Venus Project | 60430 | [60430-venus-project.json](./60430-venus-project.json) |
@@ -1979,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Escape | 342481 | [342481-village-escape.json](./342481-village-escape.json) |
 | Village Fest: Digging | 161699 | [161699-village-fest-digging.json](./161699-village-fest-digging.json) |
 | Village Feud | 118795 | [118795-village-feud.json](./118795-village-feud.json) |
+| Village Guardians Break | 201400 | [201400-village-guardians-break.json](./201400-village-guardians-break.json) |
 | Village Heros | 235992 | [235992-village-heros.json](./235992-village-heros.json) |
 | Village Life: Love & Babies | 38885 | [38885-village-life-love-and-babies.json](./38885-village-life-love-and-babies.json) |
 | Village Mayhem | 179550 | [179550-village-mayhem.json](./179550-village-mayhem.json) |
