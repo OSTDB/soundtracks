@@ -5490,6 +5490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Witch Reinette: Swan no Namida Rhapsody | 124646 | [124646-little-witch-reinette-swan-no-namida-rhapsody.json](./124646-little-witch-reinette-swan-no-namida-rhapsody.json) |
 | Little Witch Survivors | 349103 | [349103-little-witch-survivors.json](./349103-little-witch-survivors.json) |
 | Little Witch's Carnival | 372509 | [372509-little-witchs-carnival.json](./372509-little-witchs-carnival.json) |
+| Little Witchelsa: Pumpkin Peril | 219393 | [219393-little-witchelsa-pumpkin-peril.json](./219393-little-witchelsa-pumpkin-peril.json) |
 | Little Witches vs. Monsters | 341174 | [341174-little-witches-vs-monsters.json](./341174-little-witches-vs-monsters.json) |
 | Little Wizard | 66026 | [66026-little-wizard.json](./66026-little-wizard.json) |
 | Little Wizard Sally | 240867 | [240867-little-wizard-sally.json](./240867-little-wizard-sally.json) |
@@ -8237,6 +8238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucy's Levitation | 194832 | [194832-lucys-levitation.json](./194832-lucys-levitation.json) |
 | Lucy's World | 229001 | [229001-lucys-world.json](./229001-lucys-world.json) |
 | Ludaro | 341535 | [341535-ludaro.json](./341535-ludaro.json) |
+| Ludde | 219412 | [219412-ludde.json](./219412-ludde.json) |
 | Luddite Rampage | 349651 | [349651-luddite-rampage.json](./349651-luddite-rampage.json) |
 | Ludesia: Spidering with Scraping | 368984 | [368984-ludesia-spidering-with-scraping.json](./368984-ludesia-spidering-with-scraping.json) |
 | Ludical | 303817 | [303817-ludical.json](./303817-ludical.json) |
