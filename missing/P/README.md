@@ -3753,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | People Versus Everything | 225219 | [225219-people-versus-everything.json](./225219-people-versus-everything.json) |
 | People Will Money | 275445 | [275445-people-will-money.json](./275445-people-will-money.json) |
 | People's Chess | 175248 | [175248-peoples-chess.json](./175248-peoples-chess.json) |
+| People's Committee of Game Development | 180946 | [180946-peoples-committee-of-game-development.json](./180946-peoples-committee-of-game-development.json) |
 | People's Press Kiosk | 410957 | [410957-peoples-press-kiosk.json](./410957-peoples-press-kiosk.json) |
 | People's Tactics | 69556 | [69556-peoples-tactics.json](./69556-peoples-tactics.json) |
 | People's World | 284903 | [284903-peoples-world.json](./284903-peoples-world.json) |
@@ -7264,6 +7265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel People | 22178 | [22178-pixel-people.json](./22178-pixel-people.json) |
 | Pixel Petals | 269218 | [269218-pixel-petals.json](./269218-pixel-petals.json) |
 | Pixel Petkeeper | 213838 | [213838-pixel-petkeeper.json](./213838-pixel-petkeeper.json) |
+| Pixel Pets | 180950 | [180950-pixel-pets.json](./180950-pixel-pets.json) |
 | Pixel Petz | 140428 | [140428-pixel-petz.json](./140428-pixel-petz.json) |
 | Pixel Pileup Party | 130201 | [130201-pixel-pileup-party.json](./130201-pixel-pileup-party.json) |
 | Pixel Piracy Online | 270040 | [270040-pixel-piracy-online.json](./270040-pixel-piracy-online.json) |
@@ -8968,6 +8970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber Hero | 192079 | [192079-plumber-hero.json](./192079-plumber-hero.json) |
 | Plumber No More | 184109 | [184109-plumber-no-more.json](./184109-plumber-no-more.json) |
 | Plumber Pickle | 392742 | [392742-plumber-pickle.json](./392742-plumber-pickle.json) |
+| Plumber Puzzles | 180965 | [180965-plumber-puzzles.json](./180965-plumber-puzzles.json) |
 | Plumber Waluigi | 323352 | [323352-plumber-waluigi.json](./323352-plumber-waluigi.json) |
 | Plumber World | 403752 | [403752-plumber-world.json](./403752-plumber-world.json) |
 | Plumber: the Pipe Rush | 103822 | [103822-plumber-the-pipe-rush.json](./103822-plumber-the-pipe-rush.json) |
@@ -9953,6 +9956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Island | 202405 | [202405-pokemon-island.json](./202405-pokemon-island.json) |
 | Pokémon Island | 324004 | [324004-pokemon-island.json](./324004-pokemon-island.json) |
 | Pokémon Jade | 229095 | [229095-pokemon-jade.json](./229095-pokemon-jade.json) |
+| Pokémon Jaspe | 180959 | [180959-pokemon-jaspe.json](./180959-pokemon-jaspe.json) |
 | Pokemon Kaisen | 384836 | [384836-pokemon-kaisen.json](./384836-pokemon-kaisen.json) |
 | Pokemon Kalos Crystal | 304731 | [304731-pokemon-kalos-crystal.json](./304731-pokemon-kalos-crystal.json) |
 | Pokemon Kanlara Ultimate | 349654 | [349654-pokemon-kanlara-ultimate.json](./349654-pokemon-kanlara-ultimate.json) |
@@ -10065,6 +10069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Potassium | 360040 | [360040-pokemon-potassium.json](./360040-pokemon-potassium.json) |
 | Pokémon Prism | 129588 | [129588-pokemon-prism.json](./129588-pokemon-prism.json) |
 | Pokémon Prismatic Moon | 383533 | [383533-pokemon-prismatic-moon.json](./383533-pokemon-prismatic-moon.json) |
+| Pokémon Prisme | 180957 | [180957-pokemon-prisme.json](./180957-pokemon-prisme.json) |
 | Pokémon Pro | 314722 | [314722-pokemon-pro.json](./314722-pokemon-pro.json) |
 | Pokémon Procyon and Deneb | 276343 | [276343-pokemon-procyon-and-deneb.json](./276343-pokemon-procyon-and-deneb.json) |
 | Pokémon Project Studio Red/Blue Version | 131390 | [131390-pokemon-project-studio-red-blue-version.json](./131390-pokemon-project-studio-red-blue-version.json) |
@@ -14387,6 +14392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project to Escape | 146082 | [146082-project-to-escape.json](./146082-project-to-escape.json) |
 | Project Tokyo Dolls | 76143 | [76143-project-tokyo-dolls.json](./76143-project-tokyo-dolls.json) |
 | Project Toon Tanks | 132249 | [132249-project-toon-tanks.json](./132249-project-toon-tanks.json) |
+| Project Torrim | 180939 | [180939-project-torrim.json](./180939-project-torrim.json) |
 | Project Treasure | 94761 | [94761-project-treasure.json](./94761-project-treasure.json) |
 | Project Trek | 193941 | [193941-project-trek.json](./193941-project-trek.json) |
 | Project TurboBlast | 327357 | [327357-project-turboblast.json](./327357-project-turboblast.json) |
