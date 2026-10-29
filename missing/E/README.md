@@ -4624,6 +4624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Sunveil Starport | 299430 | [299430-escape-from-sunveil-starport.json](./299430-escape-from-sunveil-starport.json) |
 | Escape from Sylon 6 | 14057 | [14057-escape-from-sylon-6.json](./14057-escape-from-sylon-6.json) |
 | Escape from Tarkan | 389051 | [389051-escape-from-tarkan.json](./389051-escape-from-tarkan.json) |
+| Escape from Tarkov: Arena | 203610 | [203610-escape-from-tarkov-arena.json](./203610-escape-from-tarkov-arena.json) |
 | Escape from Tarkov: Bear - Arktika | 399106 | [399106-escape-from-tarkov-bear-arktika.json](./399106-escape-from-tarkov-bear-arktika.json) |
 | Escape from Tarkov: Bear - Classic | 399113 | [399113-escape-from-tarkov-bear-classic.json](./399113-escape-from-tarkov-bear-classic.json) |
 | Escape from Tarkov: Bear - Cyclone | 399115 | [399115-escape-from-tarkov-bear-cyclone.json](./399115-escape-from-tarkov-bear-cyclone.json) |
@@ -5238,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estranged Family | 381954 | [381954-estranged-family.json](./381954-estranged-family.json) |
 | Estranged: The Departure | 147260 | [147260-estranged-the-departure.json](./147260-estranged-the-departure.json) |
 | Estresamente | 241257 | [241257-estresamente.json](./241257-estresamente.json) |
+| Estrus Princess | 203599 | [203599-estrus-princess.json](./203599-estrus-princess.json) |
 | eSudoku 15K | 268915 | [268915-esudoku-15k.json](./268915-esudoku-15k.json) |
 | Esukoto Makai Youhei-dan | 206449 | [206449-esukoto-makai-youhei-dan.json](./206449-esukoto-makai-youhei-dan.json) |
 | Esurient | 411972 | [411972-esurient.json](./411972-esurient.json) |
@@ -6335,6 +6337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil World Hopsca | 336001 | [336001-evil-world-hopsca.json](./336001-evil-world-hopsca.json) |
 | Evil Zombies: Death on the Road | 232158 | [232158-evil-zombies-death-on-the-road.json](./232158-evil-zombies-death-on-the-road.json) |
 | Evil, My Friend | 185547 | [185547-evil-my-friend.json](./185547-evil-my-friend.json) |
+| Evil's Den | 203617 | [203617-evils-den.json](./203617-evils-den.json) |
 | Evil's Doom | 63052 | [63052-evils-doom.json](./63052-evils-doom.json) |
 | EvilBane: Rise of Ravens | 137390 | [137390-evilbane-rise-of-ravens.json](./137390-evilbane-rise-of-ravens.json) |
 | EvilCraft | 232678 | [232678-evilcraft.json](./232678-evilcraft.json) |
