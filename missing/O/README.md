@@ -1336,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Young: RPG Mini | 331922 | [331922-old-young-rpg-mini.json](./331922-old-young-rpg-mini.json) |
 | Oldage | 72353 | [72353-oldage.json](./72353-oldage.json) |
 | OldBerserker | 180760 | [180760-oldberserker.json](./180760-oldberserker.json) |
+| OldComputerArchive.zip | 183178 | [183178-oldcomputerarchive-zip.json](./183178-oldcomputerarchive-zip.json) |
 | Olden Peak | 272654 | [272654-olden-peak.json](./272654-olden-peak.json) |
 | Olden War | 261994 | [261994-olden-war.json](./261994-olden-war.json) |
 | Oldentide | 57892 | [57892-oldentide.json](./57892-oldentide.json) |
@@ -2706,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Hope: Episode 6 | 170922 | [170922-only-hope-episode-6.json](./170922-only-hope-episode-6.json) |
 | Only Hope: Episode 7 | 170918 | [170918-only-hope-episode-7.json](./170918-only-hope-episode-7.json) |
 | Only Humans On Board | 402951 | [402951-only-humans-on-board.json](./402951-only-humans-on-board.json) |
+| Only In Darkness | 183209 | [183209-only-in-darkness.json](./183209-only-in-darkness.json) |
 | Only in Passing | 262523 | [262523-only-in-passing.json](./262523-only-in-passing.json) |
 | Only Jump | 413644 | [413644-only-jump.json](./413644-only-jump.json) |
 | Only Jump On Pogo | 361008 | [361008-only-jump-on-pogo.json](./361008-only-jump-on-pogo.json) |
