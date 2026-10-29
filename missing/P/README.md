@@ -1119,6 +1119,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic at Multiverse High! | 31660 | [31660-panic-at-multiverse-high.json](./31660-panic-at-multiverse-high.json) |
 | Panic Attack | 163845 | [163845-panic-attack.json](./163845-panic-attack.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
+| Panic Bomber | 198029 | [198029-panic-bomber.json](./198029-panic-bomber.json) |
+| Panic Bomber Original | 198030 | [198030-panic-bomber-original.json](./198030-panic-bomber-original.json) |
 | Panic Button | 71230 | [71230-panic-button.json](./71230-panic-button.json) |
 | Panic Cell | 335750 | [335750-panic-cell.json](./335750-panic-cell.json) |
 | Panic Crew | 390672 | [390672-panic-crew.json](./390672-panic-crew.json) |
@@ -1141,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Palette Portable | 204391 | [204391-panic-palette-portable.json](./204391-panic-palette-portable.json) |
 | Panic Park | 62238 | [62238-panic-park.json](./62238-panic-park.json) |
 | Panic Party | 134631 | [134631-panic-party.json](./134631-panic-party.json) |
+| Panic Porcupine | 197510 | [197510-panic-porcupine.json](./197510-panic-porcupine.json) |
 | Panic Protocol | 390769 | [390769-panic-protocol.json](./390769-panic-protocol.json) |
 | Panic Road | 268003 | [268003-panic-road.json](./268003-panic-road.json) |
 | Panic Road | 317019 | [317019-panic-road.json](./317019-panic-road.json) |
@@ -1862,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoia: Happiness is Mandatory | 117313 | [117313-paranoia-happiness-is-mandatory.json](./117313-paranoia-happiness-is-mandatory.json) |
 | Paranoia: The Game Edition | 255574 | [255574-paranoia-the-game-edition.json](./255574-paranoia-the-game-edition.json) |
 | Paranoia: The Official Video Game | 90105 | [90105-paranoia-the-official-video-game.json](./90105-paranoia-the-official-video-game.json) |
+| Paranoiac: Remake Version | 198042 | [198042-paranoiac-remake-version.json](./198042-paranoiac-remake-version.json) |
 | Paranoiak | 208326 | [208326-paranoiak.json](./208326-paranoiak.json) |
 | ParanoiaScape | 123266 | [123266-paranoiascape.json](./123266-paranoiascape.json) |
 | Paranoid | 111861 | [111861-paranoid.json](./111861-paranoid.json) |
@@ -3371,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peeking at the peak | 278387 | [278387-peeking-at-the-peak.json](./278387-peeking-at-the-peak.json) |
 | Peel a Banana | 368557 | [368557-peel-a-banana.json](./368557-peel-a-banana.json) |
 | Peep | 120658 | [120658-peep.json](./120658-peep.json) |
+| Peep Invasion | 197513 | [197513-peep-invasion.json](./197513-peep-invasion.json) |
 | Peep the Trayton | 187803 | [187803-peep-the-trayton.json](./187803-peep-the-trayton.json) |
 | Peepaw's Farm | 164305 | [164305-peepaws-farm.json](./164305-peepaws-farm.json) |
 | Peepers | 248807 | [248807-peepers.json](./248807-peepers.json) |
@@ -9684,6 +9689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Black/White Redux | 335435 | [335435-pokemon-black-white-redux.json](./335435-pokemon-black-white-redux.json) |
 | Pokémon Blaze Black | 141482 | [141482-pokemon-blaze-black.json](./141482-pokemon-blaze-black.json) |
 | Pokémon Blaze Black 2 | 137113 | [137113-pokemon-blaze-black-2.json](./137113-pokemon-blaze-black-2.json) |
+| Pokémon Blaze Black 2 Redux | 198025 | [198025-pokemon-blaze-black-2-redux.json](./198025-pokemon-blaze-black-2-redux.json) |
 | Pokémon Blazed Glazed | 129808 | [129808-pokemon-blazed-glazed.json](./129808-pokemon-blazed-glazed.json) |
 | Pokémon Blooming Beast | 359976 | [359976-pokemon-blooming-beast.json](./359976-pokemon-blooming-beast.json) |
 | Pokémon Blue Chrome | 323763 | [323763-pokemon-blue-chrome.json](./323763-pokemon-blue-chrome.json) |
@@ -13485,6 +13491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Probably Archery | 13362 | [13362-probably-archery.json](./13362-probably-archery.json) |
 | Probably Art | 328976 | [328976-probably-art.json](./328976-probably-art.json) |
 | Probably Nothing | 367054 | [367054-probably-nothing.json](./367054-probably-nothing.json) |
+| Probably Poker | 198046 | [198046-probably-poker.json](./198046-probably-poker.json) |
 | Probably Tuesday | 212086 | [212086-probably-tuesday.json](./212086-probably-tuesday.json) |
 | Probationary Girlfriend | 266319 | [266319-probationary-girlfriend.json](./266319-probationary-girlfriend.json) |
 | Probe | 133057 | [133057-probe.json](./133057-probe.json) |
