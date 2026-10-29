@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lambdarune | 351685 | [351685-lambdarune.json](./351685-lambdarune.json) |
 | Lambo Jump | 234711 | [234711-lambo-jump.json](./234711-lambo-jump.json) |
 | Lambo Speed: Drift X | 104515 | [104515-lambo-speed-drift-x.json](./104515-lambo-speed-drift-x.json) |
+| Lamborghini | 201970 | [201970-lamborghini.json](./201970-lamborghini.json) |
 | Lamborghini: American Challenge | 380116 | [380116-lamborghini-american-challenge.json](./380116-lamborghini-american-challenge.json) |
 | Lambs on the Road: The Beginning | 152352 | [152352-lambs-on-the-road-the-beginning.json](./152352-lambs-on-the-road-the-beginning.json) |
 | Lamecraft | 254333 | [254333-lamecraft.json](./254333-lamecraft.json) |
@@ -3251,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Get Happy Ending Project Chapter 1 Yume Nikki Time to Wake Up | 229488 | [229488-lets-get-happy-ending-project-chapter-1-yume-nikki-time-to-wake-up.json](./229488-lets-get-happy-ending-project-chapter-1-yume-nikki-time-to-wake-up.json) |
 | Let's Get Rich | 112316 | [112316-lets-get-rich.json](./112316-lets-get-rich.json) |
 | Let's Go | 246466 | [246466-lets-go.json](./246466-lets-go.json) |
+| Let's Go Baby! Suffocation | 201932 | [201932-lets-go-baby-suffocation.json](./201932-lets-go-baby-suffocation.json) |
 | Let's Go Bassfishing! | 282681 | [282681-lets-go-bassfishing.json](./282681-lets-go-bassfishing.json) |
 | Let's Go By Train! | 21398 | [21398-lets-go-by-train.json](./21398-lets-go-by-train.json) |
 | Let's Go Camping | 220143 | [220143-lets-go-camping.json](./220143-lets-go-camping.json) |
@@ -6171,6 +6173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistik | 370728 | [370728-logistik.json](./370728-logistik.json) |
 | Logistique | 157572 | [157572-logistique.json](./157572-logistique.json) |
 | Logix: The Missing Part | 301884 | [301884-logix-the-missing-part.json](./301884-logix-the-missing-part.json) |
+| Logjam | 201956 | [201956-logjam.json](./201956-logjam.json) |
 | Logo | 119300 | [119300-logo.json](./119300-logo.json) |
 | Logo Game Guess: Brand Quiz | 331650 | [331650-logo-game-guess-brand-quiz.json](./331650-logo-game-guess-brand-quiz.json) |
 | Logo Quiz | 135126 | [135126-logo-quiz.json](./135126-logo-quiz.json) |
@@ -7451,6 +7454,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lottie! | 388890 | [388890-lottie.json](./388890-lottie.json) |
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
 | Lotto Life | 190370 | [190370-lotto-life.json](./190370-lotto-life.json) |
+| Lottso! | 201928 | [201928-lottso.json](./201928-lottso.json) |
+| Lottso! Deluxe | 201927 | [201927-lottso-deluxe.json](./201927-lottso-deluxe.json) |
+| Lottso! Express | 201929 | [201929-lottso-express.json](./201929-lottso-express.json) |
 | Lottso! Express HD | 354977 | [354977-lottso-express-hd.json](./354977-lottso-express-hd.json) |
 | Lotus | 105745 | [105745-lotus.json](./105745-lotus.json) |
 | Lotus | 45249 | [45249-lotus.json](./45249-lotus.json) |
