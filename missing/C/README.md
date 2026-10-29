@@ -2015,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Crafter Genesis | 268310 | [268310-card-crafter-genesis.json](./268310-card-crafter-genesis.json) |
 | Card Crawl | 56112 | [56112-card-crawl.json](./56112-card-crawl.json) |
 | Card Crawl 2 | 404815 | [404815-card-crawl-2.json](./404815-card-crawl-2.json) |
+| Card Crawl Adventure | 212613 | [212613-card-crawl-adventure.json](./212613-card-crawl-adventure.json) |
 | Card Crunch | 105954 | [105954-card-crunch.json](./105954-card-crunch.json) |
 | Card Cultivation | 369080 | [369080-card-cultivation.json](./369080-card-cultivation.json) |
 | Card Cultivation: Nine Palaces Illusory Realm | 297916 | [297916-card-cultivation-nine-palaces-illusory-realm.json](./297916-card-cultivation-nine-palaces-illusory-realm.json) |
@@ -2440,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival of Shadows | 287327 | [287327-carnival-of-shadows.json](./287327-carnival-of-shadows.json) |
 | Carnival of Souls | 309526 | [309526-carnival-of-souls.json](./309526-carnival-of-souls.json) |
 | Carnival of the Animals | 76910 | [76910-carnival-of-the-animals.json](./76910-carnival-of-the-animals.json) |
+| Carnival Rhythm | 212575 | [212575-carnival-rhythm.json](./212575-carnival-rhythm.json) |
 | Carnival Roulette | 384244 | [384244-carnival-roulette.json](./384244-carnival-roulette.json) |
 | Carnival VR Orientation | 150395 | [150395-carnival-vr-orientation.json](./150395-carnival-vr-orientation.json) |
 | Carnivalé: Cenzo's Adventure | 238880 | [238880-carnivale-cenzos-adventure.json](./238880-carnivale-cenzos-adventure.json) |
@@ -11065,6 +11067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Summoner Time Trial Version | 253759 | [253759-comet-summoner-time-trial-version.json](./253759-comet-summoner-time-trial-version.json) |
 | Comet Tail: Polygon Panic | 369010 | [369010-comet-tail-polygon-panic.json](./369010-comet-tail-polygon-panic.json) |
 | Comet Tycoon | 349881 | [349881-comet-tycoon.json](./349881-comet-tycoon.json) |
+| Cometh Battle | 212568 | [212568-cometh-battle.json](./212568-cometh-battle.json) |
 | Comets Wake | 76918 | [76918-comets-wake.json](./76918-comets-wake.json) |
 | CometSoldier | 256107 | [256107-cometsoldier.json](./256107-cometsoldier.json) |
 | Comfort | 134414 | [134414-comfort.json](./134414-comfort.json) |
@@ -13377,6 +13380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Attack | 279009 | [279009-counter-attack.json](./279009-counter-attack.json) |
 | Counter Attack on Zombies | 397297 | [397297-counter-attack-on-zombies.json](./397297-counter-attack-on-zombies.json) |
 | Counter Bottle Shooter: Pro Aim Master Target Bottle Shoot 3D Game Strike Pistol | 231278 | [231278-counter-bottle-shooter-pro-aim-master-target-bottle-shoot-3d-game-strike-pistol.json](./231278-counter-bottle-shooter-pro-aim-master-target-bottle-shoot-3d-game-strike-pistol.json) |
+| Counter Bunny Hop | 212620 | [212620-counter-bunny-hop.json](./212620-counter-bunny-hop.json) |
 | Counter Call: Half Escape Shooter | 403737 | [403737-counter-call-half-escape-shooter.json](./403737-counter-call-half-escape-shooter.json) |
 | Counter Clash | 290852 | [290852-counter-clash.json](./290852-counter-clash.json) |
 | Counter Crossline: Crime War | 219304 | [219304-counter-crossline-crime-war.json](./219304-counter-crossline-crime-war.json) |
@@ -16068,6 +16072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt of the NecroDancer: Hatsune Miku | 295649 | [295649-crypt-of-the-necrodancer-hatsune-miku.json](./295649-crypt-of-the-necrodancer-hatsune-miku.json) |
 | Crypt of the Necrodancer: Nintendo Switch Edition | 135593 | [135593-crypt-of-the-necrodancer-nintendo-switch-edition.json](./135593-crypt-of-the-necrodancer-nintendo-switch-edition.json) |
 | Crypt of the Necrodancer: Shovel Knight | 376071 | [376071-crypt-of-the-necrodancer-shovel-knight.json](./376071-crypt-of-the-necrodancer-shovel-knight.json) |
+| Crypt of the NecroDancer: Synchrony | 212583 | [212583-crypt-of-the-necrodancer-synchrony.json](./212583-crypt-of-the-necrodancer-synchrony.json) |
 | Crypt of the Serpent King | 31307 | [31307-crypt-of-the-serpent-king.json](./31307-crypt-of-the-serpent-king.json) |
 | Crypt of the Serpent King: Remastered - 4K Edition | 208456 | [208456-crypt-of-the-serpent-king-remastered-4k-edition.json](./208456-crypt-of-the-serpent-king-remastered-4k-edition.json) |
 | Crypt of the Undead | 24862 | [24862-crypt-of-the-undead.json](./24862-crypt-of-the-undead.json) |
