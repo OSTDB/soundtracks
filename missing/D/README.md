@@ -2324,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dateless Love: Love Story Behind the Restoration | 270803 | [270803-dateless-love-love-story-behind-the-restoration.json](./270803-dateless-love-love-story-behind-the-restoration.json) |
 | Datenshi Kyouko Part 1 | 230207 | [230207-datenshi-kyouko-part-1.json](./230207-datenshi-kyouko-part-1.json) |
 | Datenshi no Amai Yuuwaku x Kaikan Phrase | 67350 | [67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json](./67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json) |
+| Datepixel: A Nopixel Dating Sim | 184205 | [184205-datepixel-a-nopixel-dating-sim.json](./184205-datepixel-a-nopixel-dating-sim.json) |
 | Dates & Wires | 153522 | [153522-dates-and-wires.json](./153522-dates-and-wires.json) |
 | Datiddle | 240979 | [240979-datiddle.json](./240979-datiddle.json) |
 | Dating 4 Girls | 400931 | [400931-dating-4-girls.json](./400931-dating-4-girls.json) |
@@ -9523,6 +9524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Worlds 2: Return of the Shakturi | 324930 | [324930-distant-worlds-2-return-of-the-shakturi.json](./324930-distant-worlds-2-return-of-the-shakturi.json) |
 | Distant Worlds: Universe | 16806 | [16806-distant-worlds-universe.json](./16806-distant-worlds-universe.json) |
 | Distantia | 408029 | [408029-distantia.json](./408029-distantia.json) |
+| Distantquest: An Ancestral Fansim | 184206 | [184206-distantquest-an-ancestral-fansim.json](./184206-distantquest-an-ancestral-fansim.json) |
 | Distill, My Beating Heart! | 292019 | [292019-distill-my-beating-heart.json](./292019-distill-my-beating-heart.json) |
 | Distillery & Tavern Duo: Moonshine Inc. + Crossroads Inn: A Fantasy Tavern Sim | 328549 | [328549-distillery-and-tavern-duo-moonshine-inc-crossroads-inn-a-fantasy-tavern-sim.json](./328549-distillery-and-tavern-duo-moonshine-inc-crossroads-inn-a-fantasy-tavern-sim.json) |
 | Distorted | 372143 | [372143-distorted.json](./372143-distorted.json) |
@@ -13033,6 +13035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Blaze | 39659 | [39659-dragon-blaze.json](./39659-dragon-blaze.json) |
 | Dragon Block C | 395101 | [395101-dragon-block-c.json](./395101-dragon-block-c.json) |
 | Dragon Bobby: The Story of a Life | 272995 | [272995-dragon-bobby-the-story-of-a-life.json](./272995-dragon-bobby-the-story-of-a-life.json) |
+| Dragon Bones | 184208 | [184208-dragon-bones.json](./184208-dragon-bones.json) |
 | Dragon Booster | 47891 | [47891-dragon-booster.json](./47891-dragon-booster.json) |
 | Dragon Bowl | 37344 | [37344-dragon-bowl.json](./37344-dragon-bowl.json) |
 | Dragon Boy | 108995 | [108995-dragon-boy.json](./108995-dragon-boy.json) |
@@ -14959,6 +14962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Mahjong Tiles | 287314 | [287314-drop-mahjong-tiles.json](./287314-drop-mahjong-tiles.json) |
 | Drop Mania | 73716 | [73716-drop-mania.json](./73716-drop-mania.json) |
 | Drop Not! | 103217 | [103217-drop-not.json](./103217-drop-not.json) |
+| Drop Off | 184178 | [184178-drop-off.json](./184178-drop-off.json) |
 | Drop one NPC to another | 187183 | [187183-drop-one-npc-to-another.json](./187183-drop-one-npc-to-another.json) |
 | Drop Out 0 | 31594 | [31594-drop-out-0.json](./31594-drop-out-0.json) |
 | Drop Pane: Not Only Match-3 | 290480 | [290480-drop-pane-not-only-match-3.json](./290480-drop-pane-not-only-match-3.json) |
@@ -15775,6 +15779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungemon | 339930 | [339930-dungemon.json](./339930-dungemon.json) |
 | Dungems | 211513 | [211513-dungems.json](./211513-dungems.json) |
 | Dungen | 169436 | [169436-dungen.json](./169436-dungen.json) |
+| DunGen | 184180 | [184180-dungen.json](./184180-dungen.json) |
 | Dungene | 217354 | [217354-dungene.json](./217354-dungene.json) |
 | Dungenious | 187782 | [187782-dungenious.json](./187782-dungenious.json) |
 | Dungeon | 227756 | [227756-dungeon.json](./227756-dungeon.json) |
@@ -17102,6 +17107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dystopian Nights | 119610 | [119610-dystopian-nights.json](./119610-dystopian-nights.json) |
 | Dystopy | 30748 | [30748-dystopy.json](./30748-dystopy.json) |
 | Dystoria | 27387 | [27387-dystoria.json](./27387-dystoria.json) |
+| Dystropicana | 184188 | [184188-dystropicana.json](./184188-dystropicana.json) |
 | Dyztopia: Post-Human RPG | 231748 | [231748-dyztopia-post-human-rpg.json](./231748-dyztopia-post-human-rpg.json) |
 | DZ & Riggy Vs. the Fantasy World | 320412 | [320412-dz-and-riggy-vs-the-fantasy-world.json](./320412-dz-and-riggy-vs-the-fantasy-world.json) |
 | DZ & Riggy vs. the Worlds II | 252079 | [252079-dz-and-riggy-vs-the-worlds-ii.json](./252079-dz-and-riggy-vs-the-worlds-ii.json) |
