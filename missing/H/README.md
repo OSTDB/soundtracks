@@ -5333,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of a Broken Land | 17663 | [17663-heroes-of-a-broken-land.json](./17663-heroes-of-a-broken-land.json) |
 | Heroes of a Broken Land 2 | 114089 | [114089-heroes-of-a-broken-land-2.json](./114089-heroes-of-a-broken-land-2.json) |
 | Heroes of Abyss | 191160 | [191160-heroes-of-abyss.json](./191160-heroes-of-abyss.json) |
+| Heroes of Agora | 190321 | [190321-heroes-of-agora.json](./190321-heroes-of-agora.json) |
 | Heroes of Anirea | 349910 | [349910-heroes-of-anirea.json](./349910-heroes-of-anirea.json) |
 | Heroes of Annihilated Empires | 14824 | [14824-heroes-of-annihilated-empires.json](./14824-heroes-of-annihilated-empires.json) |
 | Heroes of Arca | 29575 | [29575-heroes-of-arca.json](./29575-heroes-of-arca.json) |
@@ -6598,6 +6599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Dimension | 194952 | [194952-high-dimension.json](./194952-high-dimension.json) |
 | High Dive | 233747 | [233747-high-dive.json](./233747-high-dive.json) |
 | High Dragon Tower | 357842 | [357842-high-dragon-tower.json](./357842-high-dragon-tower.json) |
+| High Elo Girls | 190335 | [190335-high-elo-girls.json](./190335-high-elo-girls.json) |
 | High Energy Heroes | 271207 | [271207-high-energy-heroes.json](./271207-high-energy-heroes.json) |
 | High Entropy: Challenges | 136112 | [136112-high-entropy-challenges.json](./136112-high-entropy-challenges.json) |
 | High Factory | 182097 | [182097-high-factory.json](./182097-high-factory.json) |
@@ -6853,6 +6855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Hou: Limited Edition | 166271 | [166271-higurashi-no-naku-koro-ni-hou-limited-edition.json](./166271-higurashi-no-naku-koro-ni-hou-limited-edition.json) |
 | Higurashi no Naku Koro ni Hou: Outbreak | 263490 | [263490-higurashi-no-naku-koro-ni-hou-outbreak.json](./263490-higurashi-no-naku-koro-ni-hou-outbreak.json) |
 | Higurashi no Naku Koro ni Hou: Outbreak | 263931 | [263931-higurashi-no-naku-koro-ni-hou-outbreak.json](./263931-higurashi-no-naku-koro-ni-hou-outbreak.json) |
+| Higurashi no Naku Koro ni Hou+ | 191428 | [191428-higurashi-no-naku-koro-ni-hou.json](./191428-higurashi-no-naku-koro-ni-hou.json) |
 | Higurashi no Naku Koro ni Hou+: Mehagashi-hen | 263660 | [263660-higurashi-no-naku-koro-ni-hou-mehagashi-hen.json](./263660-higurashi-no-naku-koro-ni-hou-mehagashi-hen.json) |
 | Higurashi no Naku Koro ni Iki | 136769 | [136769-higurashi-no-naku-koro-ni-iki.json](./136769-higurashi-no-naku-koro-ni-iki.json) |
 | Higurashi no Naku Koro ni Jan | 229816 | [229816-higurashi-no-naku-koro-ni-jan.json](./229816-higurashi-no-naku-koro-ni-jan.json) |
@@ -7461,6 +7464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive In Space | 290716 | [290716-hive-in-space.json](./290716-hive-in-space.json) |
 | Hive Jump | 20874 | [20874-hive-jump.json](./20874-hive-jump.json) |
 | Hive Jump 2: Survivors | 264591 | [264591-hive-jump-2-survivors.json](./264591-hive-jump-2-survivors.json) |
+| Hive P v. S | 191378 | [191378-hive-p-v-s.json](./191378-hive-p-v-s.json) |
 | Hive Quest | 104030 | [104030-hive-quest.json](./104030-hive-quest.json) |
 | Hive Rise | 66921 | [66921-hive-rise.json](./66921-hive-rise.json) |
 | Hive Slayer | 160235 | [160235-hive-slayer.json](./160235-hive-slayer.json) |
@@ -8760,6 +8764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horde: The Northern Wind | 18879 | [18879-horde-the-northern-wind.json](./18879-horde-the-northern-wind.json) |
 | Horde: Zombie Outbreak | 105576 | [105576-horde-zombie-outbreak.json](./105576-horde-zombie-outbreak.json) |
 | Hordebreak | 238761 | [238761-hordebreak.json](./238761-hordebreak.json) |
+| Hordebreaker | 190332 | [190332-hordebreaker.json](./190332-hordebreaker.json) |
 | HordeCore | 112767 | [112767-hordecore.json](./112767-hordecore.json) |
 | HordeCore: Training Ground | 157195 | [157195-hordecore-training-ground.json](./157195-hordecore-training-ground.json) |
 | HordeFighter 2D | 267458 | [267458-hordefighter-2d.json](./267458-hordefighter-2d.json) |
@@ -10066,6 +10071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HR2 | 178540 | [178540-hr2.json](./178540-hr2.json) |
 | Hrana | 395461 | [395461-hrana.json](./395461-hrana.json) |
 | Hrdina | 119543 | [119543-hrdina.json](./119543-hrdina.json) |
+| Hrima | 191383 | [191383-hrima.json](./191383-hrima.json) |
 | HRmageddon | 397409 | [397409-hrmageddon.json](./397409-hrmageddon.json) |
 | Hrolfr vs. Evil Skulls | 379721 | [379721-hrolfr-vs-evil-skulls.json](./379721-hrolfr-vs-evil-skulls.json) |
 | Hroogar | 200314 | [200314-hroogar.json](./200314-hroogar.json) |
