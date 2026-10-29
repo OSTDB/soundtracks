@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanilla Wafers | 275215 | [275215-vanilla-wafers.json](./275215-vanilla-wafers.json) |
 | Vanilla: Made to Order | 221718 | [221718-vanilla-made-to-order.json](./221718-vanilla-made-to-order.json) |
 | VanillaBeast: Ace in the Hole | 148992 | [148992-vanillabeast-ace-in-the-hole.json](./148992-vanillabeast-ace-in-the-hole.json) |
+| VanillaBeast: Retro Knock-Out! | 219413 | [219413-vanillabeast-retro-knock-out.json](./219413-vanillabeast-retro-knock-out.json) |
 | VanillaSugar | 356695 | [356695-vanillasugar.json](./356695-vanillasugar.json) |
 | VanimateApp | 270855 | [270855-vanimateapp.json](./270855-vanimateapp.json) |
 | Vanirya Legends | 419586 | [419586-vanirya-legends.json](./419586-vanirya-legends.json) |
@@ -1292,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vergilius | 225533 | [225533-vergilius.json](./225533-vergilius.json) |
 | Verho: Curse of Faces | 318767 | [318767-verho-curse-of-faces.json](./318767-verho-curse-of-faces.json) |
 | Verho: Curse of Faces | 410369 | [410369-verho-curse-of-faces.json](./410369-verho-curse-of-faces.json) |
+| Veridian Expanse | 219399 | [219399-veridian-expanse.json](./219399-veridian-expanse.json) |
 | Veridus: The Walking Nightmare | 416672 | [416672-veridus-the-walking-nightmare.json](./416672-veridus-the-walking-nightmare.json) |
 | Veriscape | 249651 | [249651-veriscape.json](./249651-veriscape.json) |
 | Verisim Skies | 244899 | [244899-verisim-skies.json](./244899-verisim-skies.json) |
