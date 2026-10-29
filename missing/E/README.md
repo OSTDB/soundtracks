@@ -1891,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electric Tortoise | 128613 | [128613-electric-tortoise.json](./128613-electric-tortoise.json) |
 | Electric Trains | 197741 | [197741-electric-trains.json](./197741-electric-trains.json) |
 | Electric Zombies | 32610 | [32610-electric-zombies.json](./32610-electric-zombies.json) |
+| Electrical Safety VR Training | 226519 | [226519-electrical-safety-vr-training.json](./226519-electrical-safety-vr-training.json) |
 | Electrician | 41304 | [41304-electrician.json](./41304-electrician.json) |
 | Electrician Simulator | 118473 | [118473-electrician-simulator.json](./118473-electrician-simulator.json) |
 | Electrician Simulator VR | 326444 | [326444-electrician-simulator-vr.json](./326444-electrician-simulator-vr.json) |
@@ -3959,6 +3960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Pirates Story | 200019 | [200019-epic-pirates-story.json](./200019-epic-pirates-story.json) |
 | Epic Pixel War | 296391 | [296391-epic-pixel-war.json](./296391-epic-pixel-war.json) |
 | Epic Pizza | 277314 | [277314-epic-pizza.json](./277314-epic-pizza.json) |
+| Epic Princess | 226515 | [226515-epic-princess.json](./226515-epic-princess.json) |
 | Epic Prose | 28169 | [28169-epic-prose.json](./28169-epic-prose.json) |
 | Epic Prose: Special Edition | 52020 | [52020-epic-prose-special-edition.json](./52020-epic-prose-special-edition.json) |
 | Epic Quest of the 4 Crystals | 34695 | [34695-epic-quest-of-the-4-crystals.json](./34695-epic-quest-of-the-4-crystals.json) |
@@ -4720,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game: The Old Folk House | 288312 | [288312-escape-game-the-old-folk-house.json](./288312-escape-game-the-old-folk-house.json) |
 | Escape Game:The Kitty The Vacant Lot | 351229 | [351229-escape-game-the-kitty-the-vacant-lot.json](./351229-escape-game-the-kitty-the-vacant-lot.json) |
 | Escape Goat: Azuma Eiji no Enzai | 395464 | [395464-escape-goat-azuma-eiji-no-enzai.json](./395464-escape-goat-azuma-eiji-no-enzai.json) |
+| Escape Halloween Forest | 226518 | [226518-escape-halloween-forest.json](./226518-escape-halloween-forest.json) |
 | Escape Her | 389589 | [389589-escape-her.json](./389589-escape-her.json) |
 | Escape Him. | 267802 | [267802-escape-him.json](./267802-escape-him.json) |
 | Escape House | 357145 | [357145-escape-house.json](./357145-escape-house.json) |
