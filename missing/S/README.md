@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope - Back To School Edition | 263549 | [263549-s-n-i-p-e-r-hunter-scope-back-to-school-edition.json](./263549-s-n-i-p-e-r-hunter-scope-back-to-school-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Collectors Edition | 277894 | [277894-s-n-i-p-e-r-hunter-scope-collectors-edition.json](./277894-s-n-i-p-e-r-hunter-scope-collectors-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Comprehensive Edition | 396929 | [396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json](./396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope - Deluxe Edition | 221504 | [221504-s-n-i-p-e-r-hunter-scope-deluxe-edition.json](./221504-s-n-i-p-e-r-hunter-scope-deluxe-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Diamond Edition | 271837 | [271837-s-n-i-p-e-r-hunter-scope-diamond-edition.json](./271837-s-n-i-p-e-r-hunter-scope-diamond-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Elite Edition | 268546 | [268546-s-n-i-p-e-r-hunter-scope-elite-edition.json](./268546-s-n-i-p-e-r-hunter-scope-elite-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Enhanced Edition | 412582 | [412582-s-n-i-p-e-r-hunter-scope-enhanced-edition.json](./412582-s-n-i-p-e-r-hunter-scope-enhanced-edition.json) |
@@ -845,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salaam | 127341 | [127341-salaam.json](./127341-salaam.json) |
 | Salacot Jack: Deluxe | 316400 | [316400-salacot-jack-deluxe.json](./316400-salacot-jack-deluxe.json) |
 | Salad Bar Tycoon | 147924 | [147924-salad-bar-tycoon.json](./147924-salad-bar-tycoon.json) |
+| Salad Bar Tycoon: Deluxe Edition | 221500 | [221500-salad-bar-tycoon-deluxe-edition.json](./221500-salad-bar-tycoon-deluxe-edition.json) |
 | Salad Bar Tycoon: Expansion Pack 1 | 237972 | [237972-salad-bar-tycoon-expansion-pack-1.json](./237972-salad-bar-tycoon-expansion-pack-1.json) |
 | Salad Bar Tycoon: Expansion Pack 2 | 237973 | [237973-salad-bar-tycoon-expansion-pack-2.json](./237973-salad-bar-tycoon-expansion-pack-2.json) |
 | Salad Bar Tycoon: Extended Edition | 201143 | [201143-salad-bar-tycoon-extended-edition.json](./201143-salad-bar-tycoon-extended-edition.json) |
@@ -13075,6 +13077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Claws | 358649 | [358649-sneaky-claws.json](./358649-sneaky-claws.json) |
 | Sneaky Clean | 411990 | [411990-sneaky-clean.json](./411990-sneaky-clean.json) |
 | Sneaky Fishy | 419369 | [419369-sneaky-fishy.json](./419369-sneaky-fishy.json) |
+| Sneaky Forest | 221517 | [221517-sneaky-forest.json](./221517-sneaky-forest.json) |
 | Sneaky IT Support | 211572 | [211572-sneaky-it-support.json](./211572-sneaky-it-support.json) |
 | Sneaky Kitten | 156650 | [156650-sneaky-kitten.json](./156650-sneaky-kitten.json) |
 | Sneaky Monsters | 251540 | [251540-sneaky-monsters.json](./251540-sneaky-monsters.json) |
@@ -27705,6 +27708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Dimensions Deluxe | 356137 | [356137-super-mario-bros-dimensions-deluxe.json](./356137-super-mario-bros-dimensions-deluxe.json) |
 | Super Mario Bros. DX | 372198 | [372198-super-mario-bros-dx.json](./372198-super-mario-bros-dx.json) |
 | Super Mario Bros. Extreme Adventure | 314104 | [314104-super-mario-bros-extreme-adventure.json](./314104-super-mario-bros-extreme-adventure.json) |
+| Super Mario Bros. for Lost Players | 221521 | [221521-super-mario-bros-for-lost-players.json](./221521-super-mario-bros-for-lost-players.json) |
 | Super Mario Bros. Funk Mix Deluxe | 203389 | [203389-super-mario-bros-funk-mix-deluxe.json](./203389-super-mario-bros-funk-mix-deluxe.json) |
 | Super Mario Bros. Game Watch | 172502 | [172502-super-mario-bros-game-watch.json](./172502-super-mario-bros-game-watch.json) |
 | Super Mario Bros. in Crazy Castle | 323826 | [323826-super-mario-bros-in-crazy-castle.json](./323826-super-mario-bros-in-crazy-castle.json) |
@@ -27869,6 +27873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Odyssey Safari | 250042 | [250042-super-mario-odyssey-safari.json](./250042-super-mario-odyssey-safari.json) |
 | Super Mario Odyssey: 2D Mario in 3D! | 247533 | [247533-super-mario-odyssey-2d-mario-in-3d.json](./247533-super-mario-odyssey-2d-mario-in-3d.json) |
 | Super Mario Odyssey: A Galaxy Story | 357441 | [357441-super-mario-odyssey-a-galaxy-story.json](./357441-super-mario-odyssey-a-galaxy-story.json) |
+| Super Mario Odyssey: Balloon World | 221524 | [221524-super-mario-odyssey-balloon-world.json](./221524-super-mario-odyssey-balloon-world.json) |
 | Super Mario Odyssey: Bon-Bones Mountain | 246625 | [246625-super-mario-odyssey-bon-bones-mountain.json](./246625-super-mario-odyssey-bon-bones-mountain.json) |
 | Super Mario Odyssey: Fluffy Bluff Kingdom | 345487 | [345487-super-mario-odyssey-fluffy-bluff-kingdom.json](./345487-super-mario-odyssey-fluffy-bluff-kingdom.json) |
 | Super Mario Odyssey: The Lost Kingdoms | 344010 | [344010-super-mario-odyssey-the-lost-kingdoms.json](./344010-super-mario-odyssey-the-lost-kingdoms.json) |
@@ -30413,6 +30418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Bakery Tycoon: Co-op Edition | 252623 | [252623-sweet-bakery-tycoon-co-op-edition.json](./252623-sweet-bakery-tycoon-co-op-edition.json) |
 | Sweet Bakery Tycoon: Complete Edition | 284931 | [284931-sweet-bakery-tycoon-complete-edition.json](./284931-sweet-bakery-tycoon-complete-edition.json) |
 | Sweet Bakery Tycoon: Couch Co-op Edition | 262236 | [262236-sweet-bakery-tycoon-couch-co-op-edition.json](./262236-sweet-bakery-tycoon-couch-co-op-edition.json) |
+| Sweet Bakery Tycoon: Deluxe Edition | 221501 | [221501-sweet-bakery-tycoon-deluxe-edition.json](./221501-sweet-bakery-tycoon-deluxe-edition.json) |
 | Sweet Bakery Tycoon: Expansion Pack 1 | 237913 | [237913-sweet-bakery-tycoon-expansion-pack-1.json](./237913-sweet-bakery-tycoon-expansion-pack-1.json) |
 | Sweet Bakery Tycoon: Expansion Pack 2 | 237914 | [237914-sweet-bakery-tycoon-expansion-pack-2.json](./237914-sweet-bakery-tycoon-expansion-pack-2.json) |
 | Sweet Bakery Tycoon: Extended Edition | 213345 | [213345-sweet-bakery-tycoon-extended-edition.json](./213345-sweet-bakery-tycoon-extended-edition.json) |
