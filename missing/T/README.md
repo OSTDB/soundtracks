@@ -8717,6 +8717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Futanati | 236481 | [236481-the-futanati.json](./236481-the-futanati.json) |
 | The Future Devil Must Work! Debt Repayment Arc | 82916 | [82916-the-future-devil-must-work-debt-repayment-arc.json](./82916-the-future-devil-must-work-debt-repayment-arc.json) |
 | The Future Ends | 226598 | [226598-the-future-ends.json](./226598-the-future-ends.json) |
+| The future I want for games | 184187 | [184187-the-future-i-want-for-games.json](./184187-the-future-i-want-for-games.json) |
 | The Future Is Loading... | 355174 | [355174-the-future-is-loading.json](./355174-the-future-is-loading.json) |
 | The Future is Ours | 339200 | [339200-the-future-is-ours.json](./339200-the-future-is-ours.json) |
 | The Future Project | 190140 | [190140-the-future-project.json](./190140-the-future-project.json) |
@@ -13107,6 +13108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Payphone | 398484 | [398484-the-payphone.json](./398484-the-payphone.json) |
 | The Peace Keepers | 44465 | [44465-the-peace-keepers.json](./44465-the-peace-keepers.json) |
 | The Peacekeeper | 307300 | [307300-the-peacekeeper.json](./307300-the-peacekeeper.json) |
+| The Peak | 184165 | [184165-the-peak.json](./184165-the-peak.json) |
 | The Peak Addiction | 61637 | [61637-the-peak-addiction.json](./61637-the-peak-addiction.json) |
 | The Peak Climb VR | 215734 | [215734-the-peak-climb-vr.json](./215734-the-peak-climb-vr.json) |
 | The Peanuts Movie: Snoopy's Grand Adventure | 18993 | [18993-the-peanuts-movie-snoopys-grand-adventure.json](./18993-the-peanuts-movie-snoopys-grand-adventure.json) |
@@ -15296,6 +15298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sum of All Fears | 1863 | [1863-the-sum-of-all-fears.json](./1863-the-sum-of-all-fears.json) |
 | The Sum of All Fears | 248466 | [248466-the-sum-of-all-fears.json](./248466-the-sum-of-all-fears.json) |
 | The Sumerian Game | 231395 | [231395-the-sumerian-game.json](./231395-the-sumerian-game.json) |
+| The Summit | 184193 | [184193-the-summit.json](./184193-the-summit.json) |
 | The Summit | 351075 | [351075-the-summit.json](./351075-the-summit.json) |
 | The Summit High | 178666 | [178666-the-summit-high.json](./178666-the-summit-high.json) |
 | The Summit Library | 272202 | [272202-the-summit-library.json](./272202-the-summit-library.json) |
@@ -20626,6 +20629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
 | Tiny | 196410 | [196410-tiny.json](./196410-tiny.json) |
 | Tiny | 298261 | [298261-tiny.json](./298261-tiny.json) |
+| Tiny & Big: Up that Mountain | 184167 | [184167-tiny-and-big-up-that-mountain.json](./184167-tiny-and-big-up-that-mountain.json) |
 | tiny & Tall: Gleipnir | 112031 | [112031-tiny-and-tall-gleipnir.json](./112031-tiny-and-tall-gleipnir.json) |
 | Tiny 2048 | 267568 | [267568-tiny-2048.json](./267568-tiny-2048.json) |
 | Tiny Adventure | 304163 | [304163-tiny-adventure.json](./304163-tiny-adventure.json) |
@@ -25363,6 +25367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train to Hong Kong | 324323 | [324323-train-to-hong-kong.json](./324323-train-to-hong-kong.json) |
 | Train to Nowhere | 309617 | [309617-train-to-nowhere.json](./309617-train-to-nowhere.json) |
 | Train to Sachsenhausen | 400563 | [400563-train-to-sachsenhausen.json](./400563-train-to-sachsenhausen.json) |
+| Train to Summer's End | 184171 | [184171-train-to-summers-end.json](./184171-train-to-summers-end.json) |
 | Train Toremaru: Connect & Solve | 159159 | [159159-train-toremaru-connect-and-solve.json](./159159-train-toremaru-connect-and-solve.json) |
 | Train Town | 17777 | [17777-train-town.json](./17777-train-town.json) |
 | Train Traffic Manager | 276126 | [276126-train-traffic-manager.json](./276126-train-traffic-manager.json) |
@@ -26721,6 +26726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Dive | 278504 | [278504-treasure-dive.json](./278504-treasure-dive.json) |
 | Treasure Drop | 373651 | [373651-treasure-drop.json](./373651-treasure-drop.json) |
 | Treasure Drop: Complete Edition | 385211 | [385211-treasure-drop-complete-edition.json](./385211-treasure-drop-complete-edition.json) |
+| Treasure Far Away | 184166 | [184166-treasure-far-away.json](./184166-treasure-far-away.json) |
 | Treasure Forest Clicker | 350494 | [350494-treasure-forest-clicker.json](./350494-treasure-forest-clicker.json) |
 | Treasure Galaxy! | 142146 | [142146-treasure-galaxy.json](./142146-treasure-galaxy.json) |
 | Treasure Gaust: Gaust Diver - Crimson Red | 123462 | [123462-treasure-gaust-gaust-diver-crimson-red.json](./123462-treasure-gaust-gaust-diver-crimson-red.json) |
