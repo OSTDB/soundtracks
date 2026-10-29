@@ -2556,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until I Have You | 24977 | [24977-until-i-have-you.json](./24977-until-i-have-you.json) |
 | Until It's Undone | 185345 | [185345-until-its-undone.json](./185345-until-its-undone.json) |
 | Until Last Breath | 148539 | [148539-until-last-breath.json](./148539-until-last-breath.json) |
+| Until Last Tomorrow | 224815 | [224815-until-last-tomorrow.json](./224815-until-last-tomorrow.json) |
 | Until None Remain VR | 68365 | [68365-until-none-remain-vr.json](./68365-until-none-remain-vr.json) |
 | Until None Remain: Battle Royale VR | 74556 | [74556-until-none-remain-battle-royale-vr.json](./74556-until-none-remain-battle-royale-vr.json) |
 | Until Oblivion | 309908 | [309908-until-oblivion.json](./309908-until-oblivion.json) |
@@ -2948,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Mercenary | 146297 | [146297-urban-mercenary.json](./146297-urban-mercenary.json) |
 | Urban Myth Dissolution Center | 216784 | [216784-urban-myth-dissolution-center.json](./216784-urban-myth-dissolution-center.json) |
 | Urban Myth.exe | 387551 | [387551-urban-myth-exe.json](./387551-urban-myth-exe.json) |
+| Urban Night Battle Girl | 224844 | [224844-urban-night-battle-girl.json](./224844-urban-night-battle-girl.json) |
 | Urban Ninja | 343488 | [343488-urban-ninja.json](./343488-urban-ninja.json) |
 | Urban Project | 348877 | [348877-urban-project.json](./348877-urban-project.json) |
 | Urban Rivals World | 64821 | [64821-urban-rivals-world.json](./64821-urban-rivals-world.json) |
