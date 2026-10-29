@@ -2655,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazuki Makimura's Love Story | 221265 | [221265-hazuki-makimuras-love-story.json](./221265-hazuki-makimuras-love-story.json) |
 | Hazuki Makimura's Love Story | 255108 | [255108-hazuki-makimuras-love-story.json](./255108-hazuki-makimuras-love-story.json) |
 | Hazumino | 267326 | [267326-hazumino.json](./267326-hazumino.json) |
+| Hazy Days | 184729 | [184729-hazy-days.json](./184729-hazy-days.json) |
 | Hazy Hollow | 260188 | [260188-hazy-hollow.json](./260188-hazy-hollow.json) |
 | Hazy Maze | 113462 | [113462-hazy-maze.json](./113462-hazy-maze.json) |
 | Hazy Maze Temple | 300251 | [300251-hazy-maze-temple.json](./300251-hazy-maze-temple.json) |
@@ -6712,6 +6713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Speed Trains 2 - England | 88742 | [88742-high-speed-trains-2-england.json](./88742-high-speed-trains-2-england.json) |
 | High Spirits | 317300 | [317300-high-spirits.json](./317300-high-spirits.json) |
 | High Stakes | 141081 | [141081-high-stakes.json](./141081-high-stakes.json) |
+| High Stakes | 184692 | [184692-high-stakes.json](./184692-high-stakes.json) |
 | High Stakes | 299750 | [299750-high-stakes.json](./299750-high-stakes.json) |
 | High Stakes | 414952 | [414952-high-stakes.json](./414952-high-stakes.json) |
 | High Stakes Gambling | 273750 | [273750-high-stakes-gambling.json](./273750-high-stakes-gambling.json) |
@@ -10316,6 +10318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanity Lost | 229047 | [229047-humanity-lost.json](./229047-humanity-lost.json) |
 | Humanity Must Perish | 68323 | [68323-humanity-must-perish.json](./68323-humanity-must-perish.json) |
 | Humanity Remains | 280680 | [280680-humanity-remains.json](./280680-humanity-remains.json) |
+| Humanity Walks Into a Bar | 184715 | [184715-humanity-walks-into-a-bar.json](./184715-humanity-walks-into-a-bar.json) |
 | Humanity: First Woman In Space | 153880 | [153880-humanity-first-woman-in-space.json](./153880-humanity-first-woman-in-space.json) |
 | Humanity's Fall | 392296 | [392296-humanitys-fall.json](./392296-humanitys-fall.json) |
 | Humanity's Last Hope | 360657 | [360657-humanitys-last-hope.json](./360657-humanitys-last-hope.json) |
