@@ -7989,6 +7989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anaria | 350965 | [350965-anaria.json](./350965-anaria.json) |
 | Anark.io | 95592 | [95592-anark-io.json](./95592-anark-io.json) |
 | Anasozas: Another Surreal World | 379449 | [379449-anasozas-another-surreal-world.json](./379449-anasozas-another-surreal-world.json) |
+| Anastasia | 198670 | [198670-anastasia.json](./198670-anastasia.json) |
 | Anastasia | 208394 | [208394-anastasia.json](./208394-anastasia.json) |
 | Anastasia to 7-nin no Himegami: Inmon no Rakuin | 108978 | [108978-anastasia-to-7-nin-no-himegami-inmon-no-rakuin.json](./108978-anastasia-to-7-nin-no-himegami-inmon-no-rakuin.json) |
 | Anastasia: Adventures with Pooka and Bartok | 69561 | [69561-anastasia-adventures-with-pooka-and-bartok.json](./69561-anastasia-adventures-with-pooka-and-bartok.json) |
@@ -8917,6 +8918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animaniacs | 228407 | [228407-animaniacs.json](./228407-animaniacs.json) |
 | Animaniacs | 7756 | [7756-animaniacs.json](./7756-animaniacs.json) |
 | Animaniacs Game Pack | 78028 | [78028-animaniacs-game-pack.json](./78028-animaniacs-game-pack.json) |
+| Animaniacs Hollywood Hi Jinx | 198671 | [198671-animaniacs-hollywood-hi-jinx.json](./198671-animaniacs-hollywood-hi-jinx.json) |
 | Animaniacs Splat Ball | 70771 | [70771-animaniacs-splat-ball.json](./70771-animaniacs-splat-ball.json) |
 | Animaniacs: A Gigantic Adventure | 69227 | [69227-animaniacs-a-gigantic-adventure.json](./69227-animaniacs-a-gigantic-adventure.json) |
 | Animaniacs: Hollywood Hypnotics | 200362 | [200362-animaniacs-hollywood-hypnotics.json](./200362-animaniacs-hollywood-hypnotics.json) |
