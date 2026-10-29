@@ -1580,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KenKen Pro by Will Shortz | 66747 | [66747-kenken-pro-by-will-shortz.json](./66747-kenken-pro-by-will-shortz.json) |
 | KenKen: Train Your Brain | 68022 | [68022-kenken-train-your-brain.json](./68022-kenken-train-your-brain.json) |
 | Kenkoku no Shokudou | 222367 | [222367-kenkoku-no-shokudou.json](./222367-kenkoku-no-shokudou.json) |
+| Kennan Simulator | 177166 | [177166-kennan-simulator.json](./177166-kennan-simulator.json) |
 | Kennedy Approach | 25920 | [25920-kennedy-approach.json](./25920-kennedy-approach.json) |
 | Kennel Chaos: Daycare Simulator | 418898 | [418898-kennel-chaos-daycare-simulator.json](./418898-kennel-chaos-daycare-simulator.json) |
 | Kenney's Zombies | 184224 | [184224-kenneys-zombies.json](./184224-kenneys-zombies.json) |
@@ -2484,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5466,6 +5468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuri | 104422 | [104422-kuri.json](./104422-kuri.json) |
 | Kuri Kinton | 40086 | [40086-kuri-kinton.json](./40086-kuri-kinton.json) |
 | Kurikin: Nano Island Story | 59337 | [59337-kurikin-nano-island-story.json](./59337-kurikin-nano-island-story.json) |
+| Kurm Frog Teach ABC | 177180 | [177180-kurm-frog-teach-abc.json](./177180-kurm-frog-teach-abc.json) |
 | Kurmatron | 255505 | [255505-kurmatron.json](./255505-kurmatron.json) |
 | Kuro | 228004 | [228004-kuro.json](./228004-kuro.json) |
 | Kuro Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Sanpaku Yokka no Tabi | 396941 | [396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json](./396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json) |
