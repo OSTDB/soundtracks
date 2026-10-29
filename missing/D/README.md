@@ -2543,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day in the Life | 177323 | [177323-day-in-the-life.json](./177323-day-in-the-life.json) |
 | Day in the Life of a Harpy | 126877 | [126877-day-in-the-life-of-a-harpy.json](./126877-day-in-the-life-of-a-harpy.json) |
 | Day Island | 135747 | [135747-day-island.json](./135747-day-island.json) |
+| Day of Apocalypse: Escape from Earth | 183730 | [183730-day-of-apocalypse-escape-from-earth.json](./183730-day-of-apocalypse-escape-from-earth.json) |
 | Day of Atonement | 307889 | [307889-day-of-atonement.json](./307889-day-of-atonement.json) |
 | Day Of Dead | 246856 | [246856-day-of-dead.json](./246856-day-of-dead.json) |
 | Day of Defeat | 7551 | [7551-day-of-defeat.json](./7551-day-of-defeat.json) |
@@ -4103,6 +4104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Sword Spirit | 310146 | [310146-death-sword-spirit.json](./310146-death-sword-spirit.json) |
 | Death Tales | 61517 | [61517-death-tales.json](./61517-death-tales.json) |
 | Death Tank | 21259 | [21259-death-tank.json](./21259-death-tank.json) |
+| Death Tennis | 183734 | [183734-death-tennis.json](./183734-death-tennis.json) |
 | Death That Blooms Into a Flower | 388300 | [388300-death-that-blooms-into-a-flower.json](./388300-death-that-blooms-into-a-flower.json) |
 | Death the Guitar | 257925 | [257925-death-the-guitar.json](./257925-death-the-guitar.json) |
 | Death to Spies | 9376 | [9376-death-to-spies.json](./9376-death-to-spies.json) |
@@ -4787,6 +4789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeper | 223440 | [223440-deeper.json](./223440-deeper.json) |
 | Deeper | 343279 | [343279-deeper.json](./343279-deeper.json) |
 | Deeper and Darker | 341928 | [341928-deeper-and-darker.json](./341928-deeper-and-darker.json) |
+| Deeper and Driller | 183708 | [183708-deeper-and-driller.json](./183708-deeper-and-driller.json) |
 | Deeper Club | 396698 | [396698-deeper-club.json](./396698-deeper-club.json) |
 | Deeper in the Dark | 240047 | [240047-deeper-in-the-dark.json](./240047-deeper-in-the-dark.json) |
 | Deeper Red 2028: We Are Escape | 128345 | [128345-deeper-red-2028-we-are-escape.json](./128345-deeper-red-2028-we-are-escape.json) |
@@ -9874,6 +9877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DMCA's Sky | 127260 | [127260-dmcas-sky.json](./127260-dmcas-sky.json) |
 | DMD Mars Mission | 86516 | [86516-dmd-mars-mission.json](./86516-dmd-mars-mission.json) |
 | DMG Deals Damage | 163219 | [163219-dmg-deals-damage.json](./163219-dmg-deals-damage.json) |
+| DMG Express | 183747 | [183747-dmg-express.json](./183747-dmg-express.json) |
 | DMN7 | 150472 | [150472-dmn7.json](./150472-dmn7.json) |
 | Dmod | 275917 | [275917-dmod.json](./275917-dmod.json) |
 | DMT Simulator | 326436 | [326436-dmt-simulator.json](./326436-dmt-simulator.json) |
@@ -15965,6 +15969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Explorers | 385857 | [385857-dungeon-explorers.json](./385857-dungeon-explorers.json) |
 | Dungeon Explorers 2 | 423293 | [423293-dungeon-explorers-2.json](./423293-dungeon-explorers-2.json) |
 | Dungeon Falan | 187792 | [187792-dungeon-falan.json](./187792-dungeon-falan.json) |
+| Dungeon Fall | 183749 | [183749-dungeon-fall.json](./183749-dungeon-fall.json) |
 | Dungeon Faster | 318132 | [318132-dungeon-faster.json](./318132-dungeon-faster.json) |
 | Dungeon Fellowship | 187776 | [187776-dungeon-fellowship.json](./187776-dungeon-fellowship.json) |
 | Dungeon Fighter Live: Fall of Hendon Myre | 65266 | [65266-dungeon-fighter-live-fall-of-hendon-myre.json](./65266-dungeon-fighter-live-fall-of-hendon-myre.json) |
