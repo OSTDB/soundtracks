@@ -2859,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DDTank | 146050 | [146050-ddtank.json](./146050-ddtank.json) |
 | de Blob | 2637 | [2637-de-blob.json](./2637-de-blob.json) |
 | De Blob | 233776 | [233776-de-blob.json](./233776-de-blob.json) |
+| De Blob 2 | 207100 | [207100-de-blob-2.json](./207100-de-blob-2.json) |
 | De Blob 2 | 4796 | [4796-de-blob-2.json](./4796-de-blob-2.json) |
 | De Blob Online | 225354 | [225354-de-blob-online.json](./225354-de-blob-online.json) |
 | De Blob: Utrecht | 253718 | [253718-de-blob-utrecht.json](./253718-de-blob-utrecht.json) |
@@ -8941,6 +8942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 5: Alliance of Vengeance - Limited Edition | 167058 | [167058-disgaea-5-alliance-of-vengeance-limited-edition.json](./167058-disgaea-5-alliance-of-vengeance-limited-edition.json) |
 | Disgaea 6 Complete | 191497 | [191497-disgaea-6-complete.json](./191497-disgaea-6-complete.json) |
 | Disgaea 6 Complete: Deluxe Edition | 191498 | [191498-disgaea-6-complete-deluxe-edition.json](./191498-disgaea-6-complete-deluxe-edition.json) |
+| Disgaea 6 Complete: Digital Dood Edition | 207094 | [207094-disgaea-6-complete-digital-dood-edition.json](./207094-disgaea-6-complete-digital-dood-edition.json) |
 | Disgaea 6: Defiance of Destiny - Desco | 238319 | [238319-disgaea-6-defiance-of-destiny-desco.json](./238319-disgaea-6-defiance-of-destiny-desco.json) |
 | Disgaea 6: Defiance of Destiny - Fuka | 238312 | [238312-disgaea-6-defiance-of-destiny-fuka.json](./238312-disgaea-6-defiance-of-destiny-fuka.json) |
 | Disgaea 6: Defiance of Destiny - Killia | 238318 | [238318-disgaea-6-defiance-of-destiny-killia.json](./238318-disgaea-6-defiance-of-destiny-killia.json) |
@@ -10033,6 +10035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: The Doctor and the Dalek | 250508 | [250508-doctor-who-the-doctor-and-the-dalek.json](./250508-doctor-who-the-doctor-and-the-dalek.json) |
 | Doctor Who: The Edge of Reality - Deluxe Edition | 189946 | [189946-doctor-who-the-edge-of-reality-deluxe-edition.json](./189946-doctor-who-the-edge-of-reality-deluxe-edition.json) |
 | Doctor Who: The Edge of Reality - Digital Deluxe Edition | 237903 | [237903-doctor-who-the-edge-of-reality-digital-deluxe-edition.json](./237903-doctor-who-the-edge-of-reality-digital-deluxe-edition.json) |
+| Doctor Who: The Edge of Reality + The Lonely Assassins | 207092 | [207092-doctor-who-the-edge-of-reality-the-lonely-assassins.json](./207092-doctor-who-the-edge-of-reality-the-lonely-assassins.json) |
 | Doctor Who: The Edge of Time | 118784 | [118784-doctor-who-the-edge-of-time.json](./118784-doctor-who-the-edge-of-time.json) |
 | Doctor Who: The First Adventure | 66678 | [66678-doctor-who-the-first-adventure.json](./66678-doctor-who-the-first-adventure.json) |
 | Doctor Who: The Last Dalek | 232823 | [232823-doctor-who-the-last-dalek.json](./232823-doctor-who-the-last-dalek.json) |
