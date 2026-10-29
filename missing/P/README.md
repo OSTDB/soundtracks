@@ -1424,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: TTYD - Tower of Trials v3.0 | 358321 | [358321-paper-mario-ttyd-tower-of-trials-v3-0.json](./358321-paper-mario-ttyd-tower-of-trials-v3-0.json) |
 | Paper Monsters Recut | 17668 | [17668-paper-monsters-recut.json](./17668-paper-monsters-recut.json) |
 | Paper Nebula | 213445 | [213445-paper-nebula.json](./213445-paper-nebula.json) |
+| Paper Needs Inspiration! | 224827 | [224827-paper-needs-inspiration.json](./224827-paper-needs-inspiration.json) |
 | Paper Nomad: Master Edition | 311733 | [311733-paper-nomad-master-edition.json](./311733-paper-nomad-master-edition.json) |
 | Paper Pal | 305481 | [305481-paper-pal.json](./305481-paper-pal.json) |
 | Paper Perjury | 262865 | [262865-paper-perjury.json](./262865-paper-perjury.json) |
@@ -1760,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paragon Slots | 297175 | [297175-paragon-slots.json](./297175-paragon-slots.json) |
 | Paragon-R: Secrets of the Sky Sanctum | 422481 | [422481-paragon-r-secrets-of-the-sky-sanctum.json](./422481-paragon-r-secrets-of-the-sky-sanctum.json) |
 | Paragon: The Overprime | 130500 | [130500-paragon-the-overprime.json](./130500-paragon-the-overprime.json) |
+| Paragonian 3: The Warrior of Light | 224837 | [224837-paragonian-3-the-warrior-of-light.json](./224837-paragonian-3-the-warrior-of-light.json) |
 | Paragraph 78 | 72749 | [72749-paragraph-78.json](./72749-paragraph-78.json) |
 | Parahcuy | 321493 | [321493-parahcuy.json](./321493-parahcuy.json) |
 | Paraido | 265781 | [265781-paraido.json](./265781-paraido.json) |
@@ -6485,6 +6487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipeline Crawl | 341988 | [341988-pipeline-crawl.json](./341988-pipeline-crawl.json) |
 | Pipeline of Emperor Yu | 129424 | [129424-pipeline-of-emperor-yu.json](./129424-pipeline-of-emperor-yu.json) |
 | Pipeline of Emperor Yu | 130785 | [130785-pipeline-of-emperor-yu.json](./130785-pipeline-of-emperor-yu.json) |
+| Pipeline Panic | 224834 | [224834-pipeline-panic.json](./224834-pipeline-panic.json) |
 | Pipeline RTX | 192980 | [192980-pipeline-rtx.json](./192980-pipeline-rtx.json) |
 | Pipeline Tycoon | 388304 | [388304-pipeline-tycoon.json](./388304-pipeline-tycoon.json) |
 | Pipeline VR | 173253 | [173253-pipeline-vr.json](./173253-pipeline-vr.json) |
@@ -11767,6 +11770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Eleven | 42043 | [42043-power-eleven.json](./42043-power-eleven.json) |
 | Power F1 | 93180 | [93180-power-f1.json](./93180-power-f1.json) |
 | Power Factory Featuring C+C Music Factory | 5420 | [5420-power-factory-featuring-c-c-music-factory.json](./5420-power-factory-featuring-c-c-music-factory.json) |
+| Power Fail | 224855 | [224855-power-fail.json](./224855-power-fail.json) |
 | Power Fantasy | 258465 | [258465-power-fantasy.json](./258465-power-fantasy.json) |
 | Power Fantasy: Kaze the Samurai | 293498 | [293498-power-fantasy-kaze-the-samurai.json](./293498-power-fantasy-kaze-the-samurai.json) |
 | Power Fantasy: Krampus Night | 279535 | [279535-power-fantasy-krampus-night.json](./279535-power-fantasy-krampus-night.json) |
@@ -14230,6 +14234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: EGG | 330872 | [330872-project-egg.json](./330872-project-egg.json) |
 | Project: Eliot | 337158 | [337158-project-eliot.json](./337158-project-eliot.json) |
 | Project: Eternal Flame | 208233 | [208233-project-eternal-flame.json](./208233-project-eternal-flame.json) |
+| Project: Extreme | 224821 | [224821-project-extreme.json](./224821-project-extreme.json) |
 | Project: Firmament | 407548 | [407548-project-firmament.json](./407548-project-firmament.json) |
 | Project: Fractured Reality | 347160 | [347160-project-fractured-reality.json](./347160-project-fractured-reality.json) |
 | Project: G-216 | 313480 | [313480-project-g-216.json](./313480-project-g-216.json) |
@@ -14812,6 +14817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psyhonds | 402418 | [402418-psyhonds.json](./402418-psyhonds.json) |
 | PsyHotel | 132197 | [132197-psyhotel.json](./132197-psyhotel.json) |
 | Psyia | 111670 | [111670-psyia.json](./111670-psyia.json) |
+| Psyke | 224830 | [224830-psyke.json](./224830-psyke.json) |
 | Psyko | 285332 | [285332-psyko.json](./285332-psyko.json) |
 | Psyko | 295909 | [295909-psyko.json](./295909-psyko.json) |
 | PsyOps Solutions | 114252 | [114252-psyops-solutions.json](./114252-psyops-solutions.json) |
