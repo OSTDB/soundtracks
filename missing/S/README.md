@@ -8710,6 +8710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sibilla | 405005 | [405005-sibilla.json](./405005-sibilla.json) |
 | Sibling Souls | 343388 | [343388-sibling-souls.json](./343388-sibling-souls.json) |
 | Siblings | 282607 | [282607-siblings.json](./282607-siblings.json) |
+| Sicari Remastered | 180986 | [180986-sicari-remastered.json](./180986-sicari-remastered.json) |
 | Sicaria | 289425 | [289425-sicaria.json](./289425-sicaria.json) |
 | Sichiken | 407213 | [407213-sichiken.json](./407213-sichiken.json) |
 | Sicier's Zweck | 117076 | [117076-siciers-zweck.json](./117076-siciers-zweck.json) |
@@ -11014,6 +11015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Dust | 307180 | [307180-sky-dust.json](./307180-sky-dust.json) |
 | Sky End Market | 333460 | [333460-sky-end-market.json](./333460-sky-end-market.json) |
 | Sky Escort | 259158 | [259158-sky-escort.json](./259158-sky-escort.json) |
+| Sky Farm | 180940 | [180940-sky-farm.json](./180940-sky-farm.json) |
 | Sky Fields | 337770 | [337770-sky-fields.json](./337770-sky-fields.json) |
 | Sky Fields: Goober Gardens | 348708 | [348708-sky-fields-goober-gardens.json](./348708-sky-fields-goober-gardens.json) |
 | Sky Fighter | 131416 | [131416-sky-fighter.json](./131416-sky-fighter.json) |
@@ -18026,6 +18028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceteam | 7207 | [7207-spaceteam.json](./7207-spaceteam.json) |
 | Spaceteam VR | 119337 | [119337-spaceteam-vr.json](./119337-spaceteam-vr.json) |
 | Spaceteam: The Second Dimension | 211606 | [211606-spaceteam-the-second-dimension.json](./211606-spaceteam-the-second-dimension.json) |
+| Spacetime Odissey | 180964 | [180964-spacetime-odissey.json](./180964-spacetime-odissey.json) |
 | Spacetour Express | 315890 | [315890-spacetour-express.json](./315890-spacetour-express.json) |
 | Spacetours VR: Ep.1 - The Solar System | 29475 | [29475-spacetours-vr-ep-1-the-solar-system.json](./29475-spacetours-vr-ep-1-the-solar-system.json) |
 | Spacetron | 258469 | [258469-spacetron.json](./258469-spacetron.json) |
@@ -25540,6 +25543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Terrania | 22680 | [22680-sub-terrania.json](./22680-sub-terrania.json) |
 | Sub Wars | 104699 | [104699-sub-wars.json](./104699-sub-wars.json) |
 | Sub Wars | 200395 | [200395-sub-wars.json](./200395-sub-wars.json) |
+| Sub-Optimal | 180944 | [180944-sub-optimal.json](./180944-sub-optimal.json) |
 | Sub-Species | 381645 | [381645-sub-species.json](./381645-sub-species.json) |
 | Sub-Uber-Marine | 194380 | [194380-sub-uber-marine.json](./194380-sub-uber-marine.json) |
 | Sub-Verge | 334623 | [334623-sub-verge.json](./334623-sub-verge.json) |
