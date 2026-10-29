@@ -4063,6 +4063,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Eyes | 166719 | [166719-white-eyes.json](./166719-white-eyes.json) |
 | White Girl | 165598 | [165598-white-girl.json](./165598-white-girl.json) |
 | White Haven Mysteries | 17201 | [17201-white-haven-mysteries.json](./17201-white-haven-mysteries.json) |
+| White Heart Baekgu | 209290 | [209290-white-heart-baekgu.json](./209290-white-heart-baekgu.json) |
+| White Heart Baekgu 3 | 209292 | [209292-white-heart-baekgu-3.json](./209292-white-heart-baekgu-3.json) |
+| White Heart Baekgu's Second Story | 209291 | [209291-white-heart-baekgus-second-story.json](./209291-white-heart-baekgus-second-story.json) |
 | White Hell | 162256 | [162256-white-hell.json](./162256-white-hell.json) |
 | White House | 409237 | [409237-white-house.json](./409237-white-house.json) |
 | White Iris | 419851 | [419851-white-iris.json](./419851-white-iris.json) |
