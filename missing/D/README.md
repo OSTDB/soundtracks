@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Thread: The Sewing of Discontent | 270121 | [270121-daily-thread-the-sewing-of-discontent.json](./270121-daily-thread-the-sewing-of-discontent.json) |
 | Daily Vrai | 413610 | [413610-daily-vrai.json](./413610-daily-vrai.json) |
 | Daimadou Senryaku Monogatari '95 | 253714 | [253714-daimadou-senryaku-monogatari-95.json](./253714-daimadou-senryaku-monogatari-95.json) |
+| Daimakaimura | 213187 | [213187-daimakaimura.json](./213187-daimakaimura.json) |
 | Daimaou no Bijutsukan to Kaitoudan | 140003 | [140003-daimaou-no-bijutsukan-to-kaitoudan.json](./140003-daimaou-no-bijutsukan-to-kaitoudan.json) |
 | Daimei no nai Game Rigakkkai | 236746 | [236746-daimei-no-nai-game-rigakkkai.json](./236746-daimei-no-nai-game-rigakkkai.json) |
 | Daimon Comics: Herofrenia | 373266 | [373266-daimon-comics-herofrenia.json](./373266-daimon-comics-herofrenia.json) |
@@ -6984,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Assault | 41197 | [41197-devil-assault.json](./41197-devil-assault.json) |
 | Devil Band: Rock the Underworld | 85079 | [85079-devil-band-rock-the-underworld.json](./85079-devil-band-rock-the-underworld.json) |
 | Devil Bartender | 192606 | [192606-devil-bartender.json](./192606-devil-bartender.json) |
+| Devil Beauty & Animal Cuties! | 213160 | [213160-devil-beauty-and-animal-cuties.json](./213160-devil-beauty-and-animal-cuties.json) |
 | Devil Below | 293171 | [293171-devil-below.json](./293171-devil-below.json) |
 | Devil Book: Hand-Drawn Action MMO | 146171 | [146171-devil-book-hand-drawn-action-mmo.json](./146171-devil-book-hand-drawn-action-mmo.json) |
 | Devil Catcher | 171414 | [171414-devil-catcher.json](./171414-devil-catcher.json) |
@@ -11955,6 +11957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Agent | 57164 | [57164-double-agent.json](./57164-double-agent.json) |
 | Double Axle | 39870 | [39870-double-axle.json](./39870-double-axle.json) |
 | Double Barrel Desperado | 350229 | [350229-double-barrel-desperado.json](./350229-double-barrel-desperado.json) |
+| Double Barrel Mayhem | 213173 | [213173-double-barrel-mayhem.json](./213173-double-barrel-mayhem.json) |
 | Double Block | 172533 | [172533-double-block.json](./172533-double-block.json) |
 | Double Bloob | 62680 | [62680-double-bloob.json](./62680-double-bloob.json) |
 | Double Breakout | 57325 | [57325-double-breakout.json](./57325-double-breakout.json) |
@@ -15431,6 +15434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duels Kings | 227834 | [227834-duels-kings.json](./227834-duels-kings.json) |
 | Duels of Fortune | 138441 | [138441-duels-of-fortune.json](./138441-duels-of-fortune.json) |
 | Duels+ | 398635 | [398635-duels.json](./398635-duels.json) |
+| Duelstar | 213146 | [213146-duelstar.json](./213146-duelstar.json) |
 | DuelVox | 155574 | [155574-duelvox.json](./155574-duelvox.json) |
 | Duelyst GG | 232452 | [232452-duelyst-gg.json](./232452-duelyst-gg.json) |
 | Duelyst II | 215867 | [215867-duelyst-ii.json](./215867-duelyst-ii.json) |
@@ -16419,6 +16423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunkers | 58126 | [58126-dunkers.json](./58126-dunkers.json) |
 | Dunkers 2 | 87012 | [87012-dunkers-2.json](./87012-dunkers-2.json) |
 | DunkForce | 208097 | [208097-dunkforce.json](./208097-dunkforce.json) |
+| Dunkin' Match-3 | 213195 | [213195-dunkin-match-3.json](./213195-dunkin-match-3.json) |
 | Dunkirk: The Forgotten Soldier | 380842 | [380842-dunkirk-the-forgotten-soldier.json](./380842-dunkirk-the-forgotten-soldier.json) |
 | Dunkle Manöver | 92851 | [92851-dunkle-manover.json](./92851-dunkle-manover.json) |
 | Dunkle Schatten 3: Tod in der Südkurve | 124684 | [124684-dunkle-schatten-3-tod-in-der-sudkurve.json](./124684-dunkle-schatten-3-tod-in-der-sudkurve.json) |
