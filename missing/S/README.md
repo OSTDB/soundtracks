@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Maker | 195551 | [195551-saint-maker.json](./195551-saint-maker.json) |
 | Saint of Chains | 374295 | [374295-saint-of-chains.json](./374295-saint-of-chains.json) |
 | Saint Patrick's Day Break 2 Head to Head | 194360 | [194360-saint-patricks-day-break-2-head-to-head.json](./194360-saint-patricks-day-break-2-head-to-head.json) |
+| Saint Patrick's Day Break Head to Head | 210390 | [210390-saint-patricks-day-break-head-to-head.json](./210390-saint-patricks-day-break-head-to-head.json) |
 | Saint Patrick's Day Run | 194368 | [194368-saint-patricks-day-run.json](./194368-saint-patricks-day-run.json) |
 | Saint Patricks Day Break 2 | 193282 | [193282-saint-patricks-day-break-2.json](./193282-saint-patricks-day-break-2.json) |
 | Saint Patricks Day Fun | 224990 | [224990-saint-patricks-day-fun.json](./224990-saint-patricks-day-fun.json) |
@@ -15050,6 +15051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic CD | 86807 | [86807-sonic-cd.json](./86807-sonic-cd.json) |
 | Sonic CD 2011 Decompilation | 202234 | [202234-sonic-cd-2011-decompilation.json](./202234-sonic-cd-2011-decompilation.json) |
 | Sonic CD Breakout | 332650 | [332650-sonic-cd-breakout.json](./332650-sonic-cd-breakout.json) |
+| Sonic CD Restored | 210397 | [210397-sonic-cd-restored.json](./210397-sonic-cd-restored.json) |
 | Sonic CD: Episode Metal | 201809 | [201809-sonic-cd-episode-metal.json](./201809-sonic-cd-episode-metal.json) |
 | Sonic CD: Static Charge | 334627 | [334627-sonic-cd-static-charge.json](./334627-sonic-cd-static-charge.json) |
 | Sonic CD++ | 198545 | [198545-sonic-cd.json](./198545-sonic-cd.json) |
@@ -21991,6 +21993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
 | Starry Flowers | 145644 | [145644-starry-flowers.json](./145644-starry-flowers.json) |
 | Starry Fly | 237585 | [237585-starry-fly.json](./237585-starry-fly.json) |
+| Starry Garden: Animal Park | 210365 | [210365-starry-garden-animal-park.json](./210365-starry-garden-animal-park.json) |
 | Starry Knight | 172377 | [172377-starry-knight.json](./172377-starry-knight.json) |
 | Starry Makino | 159835 | [159835-starry-makino.json](./159835-starry-makino.json) |
 | Starry Moon Island | 172980 | [172980-starry-moon-island.json](./172980-starry-moon-island.json) |
@@ -28018,6 +28021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World 64 | 230538 | [230538-super-mario-world-64.json](./230538-super-mario-world-64.json) |
 | Super Mario World and the Bois! | 268366 | [268366-super-mario-world-and-the-bois.json](./268366-super-mario-world-and-the-bois.json) |
 | Super Mario World Bros. | 268367 | [268367-super-mario-world-bros.json](./268367-super-mario-world-bros.json) |
+| Super Mario World Central Production 2 | 210409 | [210409-super-mario-world-central-production-2.json](./210409-super-mario-world-central-production-2.json) |
 | Super Mario World DX | 341956 | [341956-super-mario-world-dx.json](./341956-super-mario-world-dx.json) |
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
 | Super Mario World Randomizer | 182184 | [182184-super-mario-world-randomizer.json](./182184-super-mario-world-randomizer.json) |
