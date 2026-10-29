@@ -4738,6 +4738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Car Stunt Simulator: 3D Extreme Highway Car Driving Games | 233680 | [233680-chain-car-stunt-simulator-3d-extreme-highway-car-driving-games.json](./233680-chain-car-stunt-simulator-3d-extreme-highway-car-driving-games.json) |
 | Chain Champs | 177011 | [177011-chain-champs.json](./177011-chain-champs.json) |
 | Chain Chronicle | 20061 | [20061-chain-chronicle.json](./20061-chain-chronicle.json) |
+| Chain Chronicle V | 222657 | [222657-chain-chronicle-v.json](./222657-chain-chronicle-v.json) |
 | Chain Corp | 351115 | [351115-chain-corp.json](./351115-chain-corp.json) |
 | Chain Crisis | 271288 | [271288-chain-crisis.json](./271288-chain-crisis.json) |
 | Chain Crusher | 124771 | [124771-chain-crusher.json](./124771-chain-crusher.json) |
@@ -13155,6 +13156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmoDrive:Infinity | 147932 | [147932-cosmodrive-infinity.json](./147932-cosmodrive-infinity.json) |
 | CosmoDrive:Zero | 111688 | [111688-cosmodrive-zero.json](./111688-cosmodrive-zero.json) |
 | Cosmogelica | 265674 | [265674-cosmogelica.json](./265674-cosmogelica.json) |
+| Cosmogenesis | 222625 | [222625-cosmogenesis.json](./222625-cosmogenesis.json) |
 | Cosmogonic | 235428 | [235428-cosmogonic.json](./235428-cosmogonic.json) |
 | CosmoKick.io | 405868 | [405868-cosmokick-io.json](./405868-cosmokick-io.json) |
 | Cosmolace | 339969 | [339969-cosmolace.json](./339969-cosmolace.json) |
