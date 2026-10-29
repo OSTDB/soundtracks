@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaporwave Vision Quest: Kmart Sepulcher | 144064 | [144064-vaporwave-vision-quest-kmart-sepulcher.json](./144064-vaporwave-vision-quest-kmart-sepulcher.json) |
 | Vaporwave World | 130202 | [130202-vaporwave-world.json](./130202-vaporwave-world.json) |
 | Vapour | 35849 | [35849-vapour.json](./35849-vapour.json) |
+| Var'Alith | 181480 | [181480-varalith.json](./181480-varalith.json) |
 | varBlocks | 91229 | [91229-varblocks.json](./91229-varblocks.json) |
 | Vardia | 275694 | [275694-vardia.json](./275694-vardia.json) |
 | Vardir | 178468 | [178468-vardir.json](./178468-vardir.json) |
@@ -952,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector's Adventures | 102292 | [102292-vectors-adventures.json](./102292-vectors-adventures.json) |
 | Vectorball | 13043 | [13043-vectorball.json](./13043-vectorball.json) |
 | Vectored | 395662 | [395662-vectored.json](./395662-vectored.json) |
+| VectorField | 181524 | [181524-vectorfield.json](./181524-vectorfield.json) |
 | Vectorgeddon | 64191 | [64191-vectorgeddon.json](./64191-vectorgeddon.json) |
 | Vectorial Rush | 365762 | [365762-vectorial-rush.json](./365762-vectorial-rush.json) |
 | Vectorio: Frosted Defenses Pack | 222897 | [222897-vectorio-frosted-defenses-pack.json](./222897-vectorio-frosted-defenses-pack.json) |
