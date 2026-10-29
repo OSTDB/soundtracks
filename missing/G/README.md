@@ -2540,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis Alpha One: Deluxe Edition | 154543 | [154543-genesis-alpha-one-deluxe-edition.json](./154543-genesis-alpha-one-deluxe-edition.json) |
 | Genesis II | 296814 | [296814-genesis-ii.json](./296814-genesis-ii.json) |
 | Genesis Noir | 27413 | [27413-genesis-noir.json](./27413-genesis-noir.json) |
+| Genesis Noir: Collector's Edition | 214879 | [214879-genesis-noir-collectors-edition.json](./214879-genesis-noir-collectors-edition.json) |
 | Genesis Noir: The Cosmic Collection | 169188 | [169188-genesis-noir-the-cosmic-collection.json](./169188-genesis-noir-the-cosmic-collection.json) |
 | Genesis of a Small God | 241285 | [241285-genesis-of-a-small-god.json](./241285-genesis-of-a-small-god.json) |
 | Genesis of Descent | 256858 | [256858-genesis-of-descent.json](./256858-genesis-of-descent.json) |
@@ -5182,6 +5183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Medicine | 414832 | [414832-god-of-medicine.json](./414832-god-of-medicine.json) |
 | God of Riffs | 148697 | [148697-god-of-riffs.json](./148697-god-of-riffs.json) |
 | God of Rock | 214507 | [214507-god-of-rock.json](./214507-god-of-rock.json) |
+| God of Rock: Deluxe Edition | 214872 | [214872-god-of-rock-deluxe-edition.json](./214872-god-of-rock-deluxe-edition.json) |
 | God of Stickfights | 279454 | [279454-god-of-stickfights.json](./279454-god-of-stickfights.json) |
 | God of Stocks | 412963 | [412963-god-of-stocks.json](./412963-god-of-stocks.json) |
 | God of the Arena Dungeon | 163196 | [163196-god-of-the-arena-dungeon.json](./163196-god-of-the-arena-dungeon.json) |
