@@ -4440,6 +4440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive Assault Network | 9379 | [9379-massive-assault-network.json](./9379-massive-assault-network.json) |
 | Massive Assault Network 2 | 9381 | [9381-massive-assault-network-2.json](./9381-massive-assault-network-2.json) |
 | Massive Assault: Phantom Renaissance | 9380 | [9380-massive-assault-phantom-renaissance.json](./9380-massive-assault-phantom-renaissance.json) |
+| Massive Attack | 214292 | [214292-massive-attack.json](./214292-massive-attack.json) |
 | Massive Decks | 146833 | [146833-massive-decks.json](./146833-massive-decks.json) |
 | Massive Defense | 239740 | [239740-massive-defense.json](./239740-massive-defense.json) |
 | Massive Galaxy | 89669 | [89669-massive-galaxy.json](./89669-massive-galaxy.json) |
@@ -18580,6 +18581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town: Home | 362420 | [362420-my-town-home.json](./362420-my-town-home.json) |
 | My Town: ICEE Amusement Park | 99320 | [99320-my-town-icee-amusement-park.json](./99320-my-town-icee-amusement-park.json) |
 | My Town: Museum | 89126 | [89126-my-town-museum.json](./89126-my-town-museum.json) |
+| My Town: Police Station | 214319 | [214319-my-town-police-station.json](./214319-my-town-police-station.json) |
 | My Town: Shopping Mall | 88919 | [88919-my-town-shopping-mall.json](./88919-my-town-shopping-mall.json) |
 | My Town: World of Games | 227539 | [227539-my-town-world-of-games.json](./227539-my-town-world-of-games.json) |
 | My Traditional Princes | 299600 | [299600-my-traditional-princes.json](./299600-my-traditional-princes.json) |
