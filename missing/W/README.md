@@ -3017,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome To... Chichester OVN 2 : Master Tormenter Grendel Jinx !? | 123961 | [123961-welcome-to-chichester-ovn-2-master-tormenter-grendel-jinx.json](./123961-welcome-to-chichester-ovn-2-master-tormenter-grendel-jinx.json) |
 | Welcome To... Chichester OVN: Omnibus Edition | 248334 | [248334-welcome-to-chichester-ovn-omnibus-edition.json](./248334-welcome-to-chichester-ovn-omnibus-edition.json) |
 | Welcome To... Chichester: The Spy of America and the Long Vacation | 180082 | [180082-welcome-to-chichester-the-spy-of-america-and-the-long-vacation.json](./180082-welcome-to-chichester-the-spy-of-america-and-the-long-vacation.json) |
+| Welcome_Owner | 179863 | [179863-welcome-owner.json](./179863-welcome-owner.json) |
 | Welcome, [Employee Name] | 402286 | [402286-welcome-employee-name.json](./402286-welcome-employee-name.json) |
 | Welcome, Get Out! | 269196 | [269196-welcome-get-out.json](./269196-welcome-get-out.json) |
 | Welcome, Sharehouse! | 347369 | [347369-welcome-sharehouse.json](./347369-welcome-sharehouse.json) |
@@ -3586,6 +3587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When I Said "It's Ok To Be Cringe" I Didn't Mean Like That | 300677 | [300677-when-i-said-its-ok-to-be-cringe-i-didnt-mean-like-that.json](./300677-when-i-said-its-ok-to-be-cringe-i-didnt-mean-like-that.json) |
 | When I was a boycow | 178675 | [178675-when-i-was-a-boycow.json](./178675-when-i-was-a-boycow.json) |
 | When I Was Young | 117549 | [117549-when-i-was-young.json](./117549-when-i-was-young.json) |
+| When I'm Gone | 179862 | [179862-when-im-gone.json](./179862-when-im-gone.json) |
 | When I’m Not Drawing | 392405 | [392405-when-i-m-not-drawing.json](./392405-when-i-m-not-drawing.json) |
 | When In Rome | 34112 | [34112-when-in-rome.json](./34112-when-in-rome.json) |
 | When in Rome 1: Accounting for Taste | 216340 | [216340-when-in-rome-1-accounting-for-taste.json](./216340-when-in-rome-1-accounting-for-taste.json) |
