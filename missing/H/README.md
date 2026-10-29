@@ -2117,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hasbro's Battleship | 85991 | [85991-hasbros-battleship.json](./85991-hasbros-battleship.json) |
 | Hasegawa Nozomi | 355180 | [355180-hasegawa-nozomi.json](./355180-hasegawa-nozomi.json) |
 | Hash Line | 120402 | [120402-hash-line.json](./120402-hash-line.json) |
+| Hashasky Shougun no Daibouken | 212577 | [212577-hashasky-shougun-no-daibouken.json](./212577-hashasky-shougun-no-daibouken.json) |
 | Hashi Infinite | 404055 | [404055-hashi-infinite.json](./404055-hashi-infinite.json) |
 | Hashi: Bridges | 391842 | [391842-hashi-bridges.json](./391842-hashi-bridges.json) |
 | Hashire Hebereke: EX | 325670 | [325670-hashire-hebereke-ex.json](./325670-hashire-hebereke-ex.json) |
@@ -7330,6 +7331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3: The Splitter Pack | 357257 | [357257-hitman-3-the-splitter-pack.json](./357257-hitman-3-the-splitter-pack.json) |
 | Hitman 3: Trinity Pack | 224225 | [224225-hitman-3-trinity-pack.json](./224225-hitman-3-trinity-pack.json) |
 | Hitman Absolution: Elite Edition | 53210 | [53210-hitman-absolution-elite-edition.json](./53210-hitman-absolution-elite-edition.json) |
+| Hitman Collection | 212588 | [212588-hitman-collection.json](./212588-hitman-collection.json) |
 | Hitman Collection | 74880 | [74880-hitman-collection.json](./74880-hitman-collection.json) |
 | Hitman Go | 6073 | [6073-hitman-go.json](./6073-hitman-go.json) |
 | Hitman Go: Definitive Edition | 21580 | [21580-hitman-go-definitive-edition.json](./21580-hitman-go-definitive-edition.json) |
