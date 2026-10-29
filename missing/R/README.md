@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnagard | 40201 | [40201-ragnagard.json](./40201-ragnagard.json) |
 | Ragnania HD | 109711 | [109711-ragnania-hd.json](./109711-ragnania-hd.json) |
 | RagnaQuest | 108896 | [108896-ragnaquest.json](./108896-ragnaquest.json) |
+| Ragnar | 187034 | [187034-ragnar.json](./187034-ragnar.json) |
 | Ragnar | 352296 | [352296-ragnar.json](./352296-ragnar.json) |
 | Ragnar's Chinese Memory Game | 156112 | [156112-ragnars-chinese-memory-game.json](./156112-ragnars-chinese-memory-game.json) |
 | Ragnarock | 139399 | [139399-ragnarock.json](./139399-ragnarock.json) |
@@ -3819,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reeelz | 348952 | [348952-reeelz.json](./348952-reeelz.json) |
 | Reef Light Conundrum | 285405 | [285405-reef-light-conundrum.json](./285405-reef-light-conundrum.json) |
 | Reef Rivals | 191825 | [191825-reef-rivals.json](./191825-reef-rivals.json) |
+| Reef Rumble | 186469 | [186469-reef-rumble.json](./186469-reef-rumble.json) |
 | Reef Shot | 63699 | [63699-reef-shot.json](./63699-reef-shot.json) |
 | Reefland | 190351 | [190351-reefland.json](./190351-reefland.json) |
 | Reefland Odyssey | 244192 | [244192-reefland-odyssey.json](./244192-reefland-odyssey.json) |
@@ -4874,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 0 | 15108 | [15108-resident-evil-0.json](./15108-resident-evil-0.json) |
 | Resident Evil 0: Demake | 407906 | [407906-resident-evil-0-demake.json](./407906-resident-evil-0-demake.json) |
 | Resident Evil 1.5: Battle Coliseum | 400424 | [400424-resident-evil-1-5-battle-coliseum.json](./400424-resident-evil-1-5-battle-coliseum.json) |
+| Resident Evil 2 | 186400 | [186400-resident-evil-2.json](./186400-resident-evil-2.json) |
 | Resident Evil 2 | 210710 | [210710-resident-evil-2.json](./210710-resident-evil-2.json) |
 | Resident Evil 2 | 217953 | [217953-resident-evil-2.json](./217953-resident-evil-2.json) |
 | Resident Evil 2 | 287844 | [287844-resident-evil-2.json](./287844-resident-evil-2.json) |
@@ -6270,6 +6273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle Diario | 109063 | [109063-riddle-diario.json](./109063-riddle-diario.json) |
 | Riddle fidget spinner | 297649 | [297649-riddle-fidget-spinner.json](./297649-riddle-fidget-spinner.json) |
 | Riddle for your Life | 253521 | [253521-riddle-for-your-life.json](./253521-riddle-for-your-life.json) |
+| Riddle Girl | 187039 | [187039-riddle-girl.json](./187039-riddle-girl.json) |
 | Riddle in Riddle | 150114 | [150114-riddle-in-riddle.json](./150114-riddle-in-riddle.json) |
 | Riddle Joker | 97388 | [97388-riddle-joker.json](./97388-riddle-joker.json) |
 | Riddle of Pythagoras | 40424 | [40424-riddle-of-pythagoras.json](./40424-riddle-of-pythagoras.json) |
@@ -9361,6 +9365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roman Sands RE:Build | 229067 | [229067-roman-sands-re-build.json](./229067-roman-sands-re-build.json) |
 | Roman the Worm | 105336 | [105336-roman-the-worm.json](./105336-roman-the-worm.json) |
 | Roman Trahtenberg: V poiskah ideal'nogo anekdota | 403581 | [403581-roman-trahtenberg-v-poiskah-idealnogo-anekdota.json](./403581-roman-trahtenberg-v-poiskah-idealnogo-anekdota.json) |
+| Roman Triumph | 186413 | [186413-roman-triumph.json](./186413-roman-triumph.json) |
 | Roman Wars: Deck Building Game | 189867 | [189867-roman-wars-deck-building-game.json](./189867-roman-wars-deck-building-game.json) |
 | Roman Way | 137888 | [137888-roman-way.json](./137888-roman-way.json) |
 | Romance | 153739 | [153739-romance.json](./153739-romance.json) |
