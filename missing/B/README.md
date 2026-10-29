@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6247,6 +6248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Sea | 107707 | [107707-beyond-the-sea.json](./107707-beyond-the-sea.json) |
 | Beyond the Shadow | 219204 | [219204-beyond-the-shadow.json](./219204-beyond-the-shadow.json) |
 | Beyond the Sideline Football | 62223 | [62223-beyond-the-sideline-football.json](./62223-beyond-the-sideline-football.json) |
+| Beyond the Skies | 226492 | [226492-beyond-the-skies.json](./226492-beyond-the-skies.json) |
 | Beyond the Sky | 110748 | [110748-beyond-the-sky.json](./110748-beyond-the-sky.json) |
 | Beyond the Space Wall | 348662 | [348662-beyond-the-space-wall.json](./348662-beyond-the-space-wall.json) |
 | Beyond the Stars VR | 119721 | [119721-beyond-the-stars-vr.json](./119721-beyond-the-stars-vr.json) |
