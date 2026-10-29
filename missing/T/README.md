@@ -4877,6 +4877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventure of Nayu | 142651 | [142651-the-adventure-of-nayu.json](./142651-the-adventure-of-nayu.json) |
 | The Adventure of Ninomae Ina'nis | 321522 | [321522-the-adventure-of-ninomae-inanis.json](./321522-the-adventure-of-ninomae-inanis.json) |
 | The Adventure of Popo | 309948 | [309948-the-adventure-of-popo.json](./309948-the-adventure-of-popo.json) |
+| The Adventure of Ravi 'n' Navi | 180982 | [180982-the-adventure-of-ravi-n-navi.json](./180982-the-adventure-of-ravi-n-navi.json) |
 | The Adventure Pals | 22359 | [22359-the-adventure-pals.json](./22359-the-adventure-pals.json) |
 | The Adventure Remastered | 323591 | [323591-the-adventure-remastered.json](./323591-the-adventure-remastered.json) |
 | The Adventure Story of Yixiu | 293385 | [293385-the-adventure-story-of-yixiu.json](./293385-the-adventure-story-of-yixiu.json) |
@@ -11196,6 +11197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Dragonflame: Highschool Collection | 200828 | [200828-the-legend-of-the-dragonflame-highschool-collection.json](./200828-the-legend-of-the-dragonflame-highschool-collection.json) |
 | The Legend of The Duck Knite | 117507 | [117507-the-legend-of-the-duck-knite.json](./117507-the-legend-of-the-duck-knite.json) |
 | The Legend of the Heroes of the Water Margin | 330499 | [330499-the-legend-of-the-heroes-of-the-water-margin.json](./330499-the-legend-of-the-heroes-of-the-water-margin.json) |
+| The Legend of the Last Dragon | 180952 | [180952-the-legend-of-the-last-dragon.json](./180952-the-legend-of-the-last-dragon.json) |
 | The Legend of the Radient Mask | 135094 | [135094-the-legend-of-the-radient-mask.json](./135094-the-legend-of-the-radient-mask.json) |
 | The Legend of The Sacred Stone EX | 371336 | [371336-the-legend-of-the-sacred-stone-ex.json](./371336-the-legend-of-the-sacred-stone-ex.json) |
 | The Legend of the Soulforce: Heroes of the Abyss | 204183 | [204183-the-legend-of-the-soulforce-heroes-of-the-abyss.json](./204183-the-legend-of-the-soulforce-heroes-of-the-abyss.json) |
@@ -13934,6 +13936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road to Hades | 96354 | [96354-the-road-to-hades.json](./96354-the-road-to-hades.json) |
 | The Road To Harvest: Food From Across The Ocean | 328105 | [328105-the-road-to-harvest-food-from-across-the-ocean.json](./328105-the-road-to-harvest-food-from-across-the-ocean.json) |
 | The Road to Recovery: A Personal 2D Adventure Game | 259174 | [259174-the-road-to-recovery-a-personal-2d-adventure-game.json](./259174-the-road-to-recovery-a-personal-2d-adventure-game.json) |
+| The Road to Wellchapel | 180938 | [180938-the-road-to-wellchapel.json](./180938-the-road-to-wellchapel.json) |
 | The Road Trip | 100460 | [100460-the-road-trip.json](./100460-the-road-trip.json) |
 | The Roaring Empire | 132661 | [132661-the-roaring-empire.json](./132661-the-roaring-empire.json) |
 | The Roast: Coffee Shop Simulator | 350012 | [350012-the-roast-coffee-shop-simulator.json](./350012-the-roast-coffee-shop-simulator.json) |
