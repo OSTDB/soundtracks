@@ -1852,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekokoro | 105289 | [105289-nekokoro.json](./105289-nekokoro.json) |
 | Nekoman | 97829 | [97829-nekoman.json](./97829-nekoman.json) |
 | Nekomancer of Nowhere | 325512 | [325512-nekomancer-of-nowhere.json](./325512-nekomancer-of-nowhere.json) |
+| Nekomancer: Seeded by Darkness | 211554 | [211554-nekomancer-seeded-by-darkness.json](./211554-nekomancer-seeded-by-darkness.json) |
 | Nekomancy | 213440 | [213440-nekomancy.json](./213440-nekomancy.json) |
 | Nekome: Nazi Hunter | 388249 | [388249-nekome-nazi-hunter.json](./388249-nekome-nazi-hunter.json) |
 | Nekomew's Nightmares | 212701 | [212701-nekomews-nightmares.json](./212701-nekomews-nightmares.json) |
