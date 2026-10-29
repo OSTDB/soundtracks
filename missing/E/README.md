@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclectic Guests | 178674 | [178674-eclectic-guests.json](./178674-eclectic-guests.json) |
 | Eclectic Shell | 328265 | [328265-eclectic-shell.json](./328265-eclectic-shell.json) |
 | Eclesiar | 416717 | [416717-eclesiar.json](./416717-eclesiar.json) |
+| Eclidus | 186441 | [186441-eclidus.json](./186441-eclidus.json) |
 | Eclipse | 172192 | [172192-eclipse.json](./172192-eclipse.json) |
 | Eclipse | 200272 | [200272-eclipse.json](./200272-eclipse.json) |
 | Eclipse | 216246 | [216246-eclipse.json](./216246-eclipse.json) |
@@ -4222,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Era of Miracles | 124167 | [124167-era-of-miracles.json](./124167-era-of-miracles.json) |
 | Era of Newborns | 113190 | [113190-era-of-newborns.json](./113190-era-of-newborns.json) |
 | Era of Samurai: Code of Love | 163356 | [163356-era-of-samurai-code-of-love.json](./163356-era-of-samurai-code-of-love.json) |
+| Era of War | 187059 | [187059-era-of-war.json](./187059-era-of-war.json) |
 | Era One | 258333 | [258333-era-one.json](./258333-era-one.json) |
 | Era Online: Şeref Savaşı | 415972 | [415972-era-online-seref-savas.json](./415972-era-online-seref-savas.json) |
 | Era uma vez um gato | 286926 | [286926-era-uma-vez-um-gato.json](./286926-era-uma-vez-um-gato.json) |
@@ -6389,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eville: Mr. Peterson | 221423 | [221423-eville-mr-peterson.json](./221423-eville-mr-peterson.json) |
 | Eville: Star Gazer Pack | 263230 | [263230-eville-star-gazer-pack.json](./263230-eville-star-gazer-pack.json) |
 | EvilMorph | 30333 | [30333-evilmorph.json](./30333-evilmorph.json) |
+| Evilmun 2 | 187057 | [187057-evilmun-2.json](./187057-evilmun-2.json) |
 | Evilmun Family | 180196 | [180196-evilmun-family.json](./180196-evilmun-family.json) |
 | Evilmun Family 1.2.1 Forrest Fuss | 264462 | [264462-evilmun-family-1-2-1-forrest-fuss.json](./264462-evilmun-family-1-2-1-forrest-fuss.json) |
 | Evilmun Family 1.3.1 Water Update | 264050 | [264050-evilmun-family-1-3-1-water-update.json](./264050-evilmun-family-1-3-1-water-update.json) |
