@@ -5041,6 +5041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Barrier | 29747 | [29747-hero-barrier.json](./29747-hero-barrier.json) |
 | Hero Battle | 33001 | [33001-hero-battle.json](./33001-hero-battle.json) |
 | Hero Beetle War: Tower Attack | 257252 | [257252-hero-beetle-war-tower-attack.json](./257252-hero-beetle-war-tower-attack.json) |
+| Hero Blast | 225973 | [225973-hero-blast.json](./225973-hero-blast.json) |
 | Hero Blaze: Three Kingdoms | 212463 | [212463-hero-blaze-three-kingdoms.json](./212463-hero-blaze-three-kingdoms.json) |
 | Hero Bootcamp | 380573 | [380573-hero-bootcamp.json](./380573-hero-bootcamp.json) |
 | Hero Boy | 31721 | [31721-hero-boy.json](./31721-hero-boy.json) |
