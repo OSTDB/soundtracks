@@ -2347,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemini | 139404 | [139404-gemini.json](./139404-gemini.json) |
 | Gemini | 86115 | [86115-gemini.json](./86115-gemini.json) |
 | Gemini Arms | 145546 | [145546-gemini-arms.json](./145546-gemini-arms.json) |
+| Gemini Chase | 223223 | [223223-gemini-chase.json](./223223-gemini-chase.json) |
 | Gemini City: Science and Magic | 255892 | [255892-gemini-city-science-and-magic.json](./255892-gemini-city-science-and-magic.json) |
 | Gemini Lost | 16080 | [16080-gemini-lost.json](./16080-gemini-lost.json) |
 | Gemini of the Abandoned | 130082 | [130082-gemini-of-the-abandoned.json](./130082-gemini-of-the-abandoned.json) |
@@ -3229,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Blood | 165152 | [165152-ghost-blood.json](./165152-ghost-blood.json) |
 | Ghost Blood | 391320 | [391320-ghost-blood.json](./391320-ghost-blood.json) |
 | Ghost Bros | 224236 | [224236-ghost-bros.json](./224236-ghost-bros.json) |
+| Ghost Bus Simulator | 223227 | [223227-ghost-bus-simulator.json](./223227-ghost-bus-simulator.json) |
 | Ghost Buster 3D | 114937 | [114937-ghost-buster-3d.json](./114937-ghost-buster-3d.json) |
 | Ghost Buster:Village | 401063 | [401063-ghost-buster-village.json](./401063-ghost-buster-village.json) |
 | Ghost Car | 385440 | [385440-ghost-car.json](./385440-ghost-car.json) |
@@ -6152,6 +6154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goofy Insanity | 259240 | [259240-goofy-insanity.json](./259240-goofy-insanity.json) |
 | Goofy Lil Guys | 335250 | [335250-goofy-lil-guys.json](./335250-goofy-lil-guys.json) |
 | Goofy Monsters - Sokoban Land | 25927 | [25927-goofy-monsters-sokoban-land.json](./25927-goofy-monsters-sokoban-land.json) |
+| Goofy Neighborhood | 223262 | [223262-goofy-neighborhood.json](./223262-goofy-neighborhood.json) |
 | Goofy Soccer | 320874 | [320874-goofy-soccer.json](./320874-goofy-soccer.json) |
 | Goofy's Hysterical History Tour | 46210 | [46210-goofys-hysterical-history-tour.json](./46210-goofys-hysterical-history-tour.json) |
 | Goofy's Loco-Coconuts | 246510 | [246510-goofys-loco-coconuts.json](./246510-goofys-loco-coconuts.json) |
@@ -7438,6 +7441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Machine | 294441 | [294441-gravity-machine.json](./294441-gravity-machine.json) |
 | Gravity Magician | 226671 | [226671-gravity-magician.json](./226671-gravity-magician.json) |
 | Gravity Mastery | 144191 | [144191-gravity-mastery.json](./144191-gravity-mastery.json) |
+| Gravity Maze | 223238 | [223238-gravity-maze.json](./223238-gravity-maze.json) |
 | Gravity Mike | 239624 | [239624-gravity-mike.json](./239624-gravity-mike.json) |
 | Gravity Mummy | 173022 | [173022-gravity-mummy.json](./173022-gravity-mummy.json) |
 | Gravity Panda | 114263 | [114263-gravity-panda.json](./114263-gravity-panda.json) |
