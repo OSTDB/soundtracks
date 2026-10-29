@@ -2104,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Town | 125155 | [125155-harvest-town.json](./125155-harvest-town.json) |
 | Harvest Uranus | 244514 | [244514-harvest-uranus.json](./244514-harvest-uranus.json) |
 | Harvest Village | 340417 | [340417-harvest-village.json](./340417-harvest-village.json) |
+| Harvest VR | 182659 | [182659-harvest-vr.json](./182659-harvest-vr.json) |
 | Harvest101 | 316036 | [316036-harvest101.json](./316036-harvest101.json) |
 | Harvested | 118393 | [118393-harvested.json](./118393-harvested.json) |
 | Harvested | 362388 | [362388-harvested.json](./362388-harvested.json) |
@@ -3575,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Heroes | 226720 | [226720-hell-heroes.json](./226720-hell-heroes.json) |
 | Hell Hold'em | 401460 | [401460-hell-holdem.json](./401460-hell-holdem.json) |
 | Hell Hole | 73173 | [73173-hell-hole.json](./73173-hell-hole.json) |
+| Hell Hole Classic | 182673 | [182673-hell-hole-classic.json](./182673-hell-hole-classic.json) |
 | Hell Hospital | 414424 | [414424-hell-hospital.json](./414424-hell-hospital.json) |
 | Hell Hunt | 138481 | [138481-hell-hunt.json](./138481-hell-hunt.json) |
 | Hell Hunter: Anti-Nomen | 270032 | [270032-hell-hunter-anti-nomen.json](./270032-hell-hunter-anti-nomen.json) |
@@ -4068,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellrooms | 324322 | [324322-hellrooms.json](./324322-hellrooms.json) |
 | Hells Bend on Wounded Knee | 248679 | [248679-hells-bend-on-wounded-knee.json](./248679-hells-bend-on-wounded-knee.json) |
 | Hells Divide | 121359 | [121359-hells-divide.json](./121359-hells-divide.json) |
+| Hells Gate | 182683 | [182683-hells-gate.json](./182683-hells-gate.json) |
 | Hellscaper | 394647 | [394647-hellscaper.json](./394647-hellscaper.json) |
 | Hellseed | 127607 | [127607-hellseed.json](./127607-hellseed.json) |
 | Hellshots Golf | 113593 | [113593-hellshots-golf.json](./113593-hellshots-golf.json) |
@@ -4081,6 +4084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellsplit: Arena | 117599 | [117599-hellsplit-arena.json](./117599-hellsplit-arena.json) |
 | Hellsplit: Labyrinth | 410965 | [410965-hellsplit-labyrinth.json](./410965-hellsplit-labyrinth.json) |
 | Hellsprint | 349447 | [349447-hellsprint.json](./349447-hellsprint.json) |
+| Hellstar | 182647 | [182647-hellstar.json](./182647-hellstar.json) |
 | HellStar Squadron | 97112 | [97112-hellstar-squadron.json](./97112-hellstar-squadron.json) |
 | Hellstuck: Rage With Your Friends | 200712 | [200712-hellstuck-rage-with-your-friends.json](./200712-hellstuck-rage-with-your-friends.json) |
 | Helltaker | 133152 | [133152-helltaker.json](./133152-helltaker.json) |
@@ -8379,6 +8383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hong Lou Meng: Lin Daiyu yu Bei Jing Wang | 394801 | [394801-hong-lou-meng-lin-daiyu-yu-bei-jing-wang.json](./394801-hong-lou-meng-lin-daiyu-yu-bei-jing-wang.json) |
 | HongKong Noir | 255283 | [255283-hongkong-noir.json](./255283-hongkong-noir.json) |
 | Honjou Rendoku to Ushinawareta Nachlass | 398976 | [398976-honjou-rendoku-to-ushinawareta-nachlass.json](./398976-honjou-rendoku-to-ushinawareta-nachlass.json) |
+| Honk II | 182648 | [182648-honk-ii.json](./182648-honk-ii.json) |
 | Honk III | 180779 | [180779-honk-iii.json](./180779-honk-iii.json) |
 | Honk of Heroes | 293641 | [293641-honk-of-heroes.json](./293641-honk-of-heroes.json) |
 | Honkai Impact 3rd | 96032 | [96032-honkai-impact-3rd.json](./96032-honkai-impact-3rd.json) |
