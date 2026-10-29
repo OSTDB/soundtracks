@@ -2136,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Twiks | 291726 | [291726-save-twiks.json](./291726-save-twiks.json) |
 | Save Us | 190931 | [190931-save-us.json](./190931-save-us.json) |
 | Save Us, Doctor Faust! | 416827 | [416827-save-us-doctor-faust.json](./416827-save-us-doctor-faust.json) |
+| Save You | 180390 | [180390-save-you.json](./180390-save-you.json) |
 | Save Your Chicks | 341965 | [341965-save-your-chicks.json](./341965-save-your-chicks.json) |
 | Save Your Crabies | 347500 | [347500-save-your-crabies.json](./347500-save-your-crabies.json) |
 | Save Your Nuts | 76347 | [76347-save-your-nuts.json](./76347-save-your-nuts.json) |
@@ -13785,6 +13786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Year 5 Pass | 397753 | [397753-snowrunner-year-5-pass.json](./397753-snowrunner-year-5-pass.json) |
 | Snowscape | 364868 | [364868-snowscape.json](./364868-snowscape.json) |
 | Snowscapes | 244145 | [244145-snowscapes.json](./244145-snowscapes.json) |
+| Snowset | 180391 | [180391-snowset.json](./180391-snowset.json) |
 | Snowsquall Grip | 302375 | [302375-snowsquall-grip.json](./302375-snowsquall-grip.json) |
 | Snowsted Royale | 228130 | [228130-snowsted-royale.json](./228130-snowsted-royale.json) |
 | Snowstorm | 405717 | [405717-snowstorm.json](./405717-snowstorm.json) |
@@ -26253,6 +26255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suits: A Business RPG | 16135 | [16135-suits-a-business-rpg.json](./16135-suits-a-business-rpg.json) |
 | SuitU | 341166 | [341166-suitu.json](./341166-suitu.json) |
 | Suīyáng: Shī Yǔ Huǒ | 374626 | [374626-suiyang-shi-yu-huo.json](./374626-suiyang-shi-yu-huo.json) |
+| Suiyue | 180427 | [180427-suiyue.json](./180427-suiyue.json) |
 | Suizokukan Project: Fish Hunter he no Michi | 385927 | [385927-suizokukan-project-fish-hunter-he-no-michi.json](./385927-suizokukan-project-fish-hunter-he-no-michi.json) |
 | Sujimon Quest | 258343 | [258343-sujimon-quest.json](./258343-sujimon-quest.json) |
 | Suka's Escape | 126872 | [126872-sukas-escape.json](./126872-sukas-escape.json) |
@@ -30760,6 +30763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarog | 92950 | [92950-swarog.json](./92950-swarog.json) |
 | Swashbuckler | 23233 | [23233-swashbuckler.json](./23233-swashbuckler.json) |
 | Swashbucklers: Blue vs. Grey | 21508 | [21508-swashbucklers-blue-vs-grey.json](./21508-swashbucklers-blue-vs-grey.json) |
+| Swashbucko: In the Lair of the Dragon Filth | 180435 | [180435-swashbucko-in-the-lair-of-the-dragon-filth.json](./180435-swashbucko-in-the-lair-of-the-dragon-filth.json) |
 | Swat | 71547 | [71547-swat.json](./71547-swat.json) |
 | SWAT | 307058 | [307058-swat.json](./307058-swat.json) |
 | SWAT 3: Close Quarters Battle | 313 | [313-swat-3-close-quarters-battle.json](./313-swat-3-close-quarters-battle.json) |
