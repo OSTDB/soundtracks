@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N2O | 226133 | [226133-n2o.json](./226133-n2o.json) |
 | N2O: Nitrous Oxide | 45094 | [45094-n2o-nitrous-oxide.json](./45094-n2o-nitrous-oxide.json) |
 | N3: Ninety-Nine Nights | 7094 | [7094-n3-ninety-nine-nights.json](./7094-n3-ninety-nine-nights.json) |
+| N31 | 201426 | [201426-n31.json](./201426-n31.json) |
 | N3II: Ninety-Nine Nights | 7095 | [7095-n3ii-ninety-nine-nights.json](./7095-n3ii-ninety-nine-nights.json) |
 | N3Rally | 310204 | [310204-n3rally.json](./310204-n3rally.json) |
 | N64 SP Map Jam | 300421 | [300421-n64-sp-map-jam.json](./300421-n64-sp-map-jam.json) |
@@ -1929,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis the Warlock | 37187 | [37187-nemesis-the-warlock.json](./37187-nemesis-the-warlock.json) |
 | Nemesis Z | 287211 | [287211-nemesis-z.json](./287211-nemesis-z.json) |
 | Nemesis: Final Dragon Tower | 341364 | [341364-nemesis-final-dragon-tower.json](./341364-nemesis-final-dragon-tower.json) |
+| Nemesis: Lockdown | 201403 | [201403-nemesis-lockdown.json](./201403-nemesis-lockdown.json) |
 | Nemesis: Race Against the Pandemic | 160063 | [160063-nemesis-race-against-the-pandemic.json](./160063-nemesis-race-against-the-pandemic.json) |
 | Nemesis: The Final Challenge | 262391 | [262391-nemesis-the-final-challenge.json](./262391-nemesis-the-final-challenge.json) |
 | Nemesis: The Final Challenge | 262392 | [262392-nemesis-the-final-challenge.json](./262392-nemesis-the-final-challenge.json) |
@@ -6002,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nosferatu no Otome-tachi | 403637 | [403637-nosferatu-no-otome-tachi.json](./403637-nosferatu-no-otome-tachi.json) |
 | Nosferatu: The Wrath of Malachi | 8960 | [8960-nosferatu-the-wrath-of-malachi.json](./8960-nosferatu-the-wrath-of-malachi.json) |
 | Nosfereatyou | 179579 | [179579-nosfereatyou.json](./179579-nosfereatyou.json) |
+| Nosher | 200820 | [200820-nosher.json](./200820-nosher.json) |
 | Noskovrazdor | 402543 | [402543-noskovrazdor.json](./402543-noskovrazdor.json) |
 | NoSlack Pets: Lo-Fi Paws | 365249 | [365249-noslack-pets-lo-fi-paws.json](./365249-noslack-pets-lo-fi-paws.json) |
 | NoSleep: Nightmare Chronicles | 297160 | [297160-nosleep-nightmare-chronicles.json](./297160-nosleep-nightmare-chronicles.json) |
