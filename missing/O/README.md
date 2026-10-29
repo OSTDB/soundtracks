@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O Horror Amarelo | 338939 | [338939-o-horror-amarelo.json](./338939-o-horror-amarelo.json) |
 | O Jardim Magico 3 | 251380 | [251380-o-jardim-magico-3.json](./251380-o-jardim-magico-3.json) |
 | O Livro Mágico | 290084 | [290084-o-livro-magico.json](./290084-o-livro-magico.json) |
+| O o o | 185838 | [185838-o-o-o.json](./185838-o-o-o.json) |
 | O Queijorcista | 298408 | [298408-o-queijorcista.json](./298408-o-queijorcista.json) |
 | O Rei | 121649 | [121649-o-rei.json](./121649-o-rei.json) |
 | O reino em outro mundo | 315131 | [315131-o-reino-em-outro-mundo.json](./315131-o-reino-em-outro-mundo.json) |
@@ -5052,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlord | 44 | [44-overlord.json](./44-overlord.json) |
 | Overlord II | 46 | [46-overlord-ii.json](./46-overlord-ii.json) |
 | Overlord: Dark Legend | 47 | [47-overlord-dark-legend.json](./47-overlord-dark-legend.json) |
+| Overlord: Escape from Nazarick | 185855 | [185855-overlord-escape-from-nazarick.json](./185855-overlord-escape-from-nazarick.json) |
 | Overlord: Escape From Nazarick - Limited Collector's Edition | 285683 | [285683-overlord-escape-from-nazarick-limited-collectors-edition.json](./285683-overlord-escape-from-nazarick-limited-collectors-edition.json) |
 | Overlord: Fellowship of Evil | 9901 | [9901-overlord-fellowship-of-evil.json](./9901-overlord-fellowship-of-evil.json) |
 | Overlord: Minions | 48 | [48-overlord-minions.json](./48-overlord-minions.json) |
