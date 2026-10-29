@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball laB | 89384 | [89384-ball-lab.json](./89384-ball-lab.json) |
 | Ball laB 2 | 226239 | [226239-ball-lab-2.json](./226239-ball-lab-2.json) |
 | Ball League | 107119 | [107119-ball-league.json](./107119-ball-league.json) |
+| Ball Legends | 194135 | [194135-ball-legends.json](./194135-ball-legends.json) |
 | Ball Mania | 280449 | [280449-ball-mania.json](./280449-ball-mania.json) |
 | Ball Master Up! | 260899 | [260899-ball-master-up.json](./260899-ball-master-up.json) |
 | Ball Match Quest | 108481 | [108481-ball-match-quest.json](./108481-ball-match-quest.json) |
@@ -3434,6 +3435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Luzon 1945 | 103530 | [103530-battle-of-luzon-1945.json](./103530-battle-of-luzon-1945.json) |
 | Battle of Orion 10: First contact | 235474 | [235474-battle-of-orion-10-first-contact.json](./235474-battle-of-orion-10-first-contact.json) |
 | Battle of Painters | 37403 | [37403-battle-of-painters.json](./37403-battle-of-painters.json) |
+| Battle of Pirates: Legend Return | 194147 | [194147-battle-of-pirates-legend-return.json](./194147-battle-of-pirates-legend-return.json) |
 | Battle of Plans | 417500 | [417500-battle-of-plans.json](./417500-battle-of-plans.json) |
 | Battle of Puppets | 66616 | [66616-battle-of-puppets.json](./66616-battle-of-puppets.json) |
 | Battle of Rebels | 266972 | [266972-battle-of-rebels.json](./266972-battle-of-rebels.json) |
@@ -3602,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Titan Rainbow | 234686 | [234686-battle-titan-rainbow.json](./234686-battle-titan-rainbow.json) |
 | Battle Titans | 199942 | [199942-battle-titans.json](./199942-battle-titans.json) |
 | Battle Tops | 192738 | [192738-battle-tops.json](./192738-battle-tops.json) |
+| Battle Towers | 194103 | [194103-battle-towers.json](./194103-battle-towers.json) |
 | Battle Tracks | 207403 | [207403-battle-tracks.json](./207403-battle-tracks.json) |
 | Battle Train | 311876 | [311876-battle-train.json](./311876-battle-train.json) |
 | Battle Traverse | 58287 | [58287-battle-traverse.json](./58287-battle-traverse.json) |
@@ -8357,6 +8360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bladam Topaz | 149395 | [149395-bladam-topaz.json](./149395-bladam-topaz.json) |
 | Blade | 122191 | [122191-blade.json](./122191-blade.json) |
 | Blade | 14312 | [14312-blade.json](./14312-blade.json) |
+| Blade | 194148 | [194148-blade.json](./194148-blade.json) |
 | Blade | 8719 | [8719-blade.json](./8719-blade.json) |
 | Blade & Bones | 31781 | [31781-blade-and-bones.json](./31781-blade-and-bones.json) |
 | Blade & Sorcery | 111474 | [111474-blade-and-sorcery.json](./111474-blade-and-sorcery.json) |
@@ -12998,6 +13002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Builder Construct A Climb | 201577 | [201577-brave-builder-construct-a-climb.json](./201577-brave-builder-construct-a-climb.json) |
 | Brave Cano | 174350 | [174350-brave-cano.json](./174350-brave-cano.json) |
 | Brave Checker | 256949 | [256949-brave-checker.json](./256949-brave-checker.json) |
+| Brave Conquest | 194121 | [194121-brave-conquest.json](./194121-brave-conquest.json) |
 | Brave Deeds of Rescue Team | 157505 | [157505-brave-deeds-of-rescue-team.json](./157505-brave-deeds-of-rescue-team.json) |
 | Brave Diggers | 110205 | [110205-brave-diggers.json](./110205-brave-diggers.json) |
 | Brave Doggy Quest | 190156 | [190156-brave-doggy-quest.json](./190156-brave-doggy-quest.json) |
