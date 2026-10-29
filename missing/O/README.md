@@ -3962,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osu!Droid | 238105 | [238105-osu-droid.json](./238105-osu-droid.json) |
 | Osu!Lazer | 412517 | [412517-osu-lazer.json](./412517-osu-lazer.json) |
 | Osu!Octave | 202713 | [202713-osu-octave.json](./202713-osu-octave.json) |
+| Osu!Stream | 219931 | [219931-osu-stream.json](./219931-osu-stream.json) |
 | Oswald | 130892 | [130892-oswald.json](./130892-oswald.json) |
 | Oswald's Adventure | 55347 | [55347-oswalds-adventure.json](./55347-oswalds-adventure.json) |
 | Oswald's Supermarket | 299781 | [299781-oswalds-supermarket.json](./299781-oswalds-supermarket.json) |
@@ -4297,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our War: The Strongest Shield | 301842 | [301842-our-war-the-strongest-shield.json](./301842-our-war-the-strongest-shield.json) |
 | Our Way | 104673 | [104673-our-way.json](./104673-our-way.json) |
 | Our Way | 169977 | [169977-our-way.json](./169977-our-way.json) |
+| Our Ways | 219911 | [219911-our-ways.json](./219911-our-ways.json) |
 | Our Winding Road | 301408 | [301408-our-winding-road.json](./301408-our-winding-road.json) |
 | Our Wonderland | 204222 | [204222-our-wonderland.json](./204222-our-wonderland.json) |
 | Our Wonderland | 403157 | [403157-our-wonderland.json](./403157-our-wonderland.json) |
