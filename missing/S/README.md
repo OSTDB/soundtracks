@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanitarium Enhanced | 414849 | [414849-sanitarium-enhanced.json](./414849-sanitarium-enhanced.json) |
 | Sanitarium Massacre | 62684 | [62684-sanitarium-massacre.json](./62684-sanitarium-massacre.json) |
 | Sanity Break | 369013 | [369013-sanity-break.json](./369013-sanity-break.json) |
+| Sanity City | 192559 | [192559-sanity-city.json](./192559-sanity-city.json) |
 | Sanity of Morris | 137638 | [137638-sanity-of-morris.json](./137638-sanity-of-morris.json) |
 | Sanity Protocol | 355029 | [355029-sanity-protocol.json](./355029-sanity-protocol.json) |
 | Sanity: Aiken's Artifact | 90142 | [90142-sanity-aikens-artifact.json](./90142-sanity-aikens-artifact.json) |
@@ -3270,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scriptic: Interactive Dramas | 191860 | [191860-scriptic-interactive-dramas.json](./191860-scriptic-interactive-dramas.json) |
 | Scriptorium: Master of Manuscripts | 313811 | [313811-scriptorium-master-of-manuscripts.json](./313811-scriptorium-master-of-manuscripts.json) |
 | Scriptur | 190225 | [190225-scriptur.json](./190225-scriptur.json) |
+| Scripture | 192574 | [192574-scripture.json](./192574-scripture.json) |
 | Scrivalry | 58129 | [58129-scrivalry.json](./58129-scrivalry.json) |
 | Scriver: A Word Game | 402115 | [402115-scriver-a-word-game.json](./402115-scriver-a-word-game.json) |
 | Scroll Driver Lite | 232157 | [232157-scroll-driver-lite.json](./232157-scroll-driver-lite.json) |
@@ -7491,6 +7493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
 | Shinobi no Dokutsu | 181773 | [181773-shinobi-no-dokutsu.json](./181773-shinobi-no-dokutsu.json) |
 | Shinobi no Okite | 132759 | [132759-shinobi-no-okite.json](./132759-shinobi-no-okite.json) |
+| Shinobi Non Grata | 192565 | [192565-shinobi-non-grata.json](./192565-shinobi-non-grata.json) |
 | Shinobi Origins | 389108 | [389108-shinobi-origins.json](./389108-shinobi-origins.json) |
 | Shinobi Rising | 216286 | [216286-shinobi-rising.json](./216286-shinobi-rising.json) |
 | Shinobi Saga | 285539 | [285539-shinobi-saga.json](./285539-shinobi-saga.json) |
@@ -13554,6 +13557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow White Solitaire: Charmed Kingdom | 81771 | [81771-snow-white-solitaire-charmed-kingdom.json](./81771-snow-white-solitaire-charmed-kingdom.json) |
 | Snow White: Counting Diamond Mine | 198897 | [198897-snow-white-counting-diamond-mine.json](./198897-snow-white-counting-diamond-mine.json) |
 | Snow World | 176972 | [176972-snow-world.json](./176972-snow-world.json) |
+| Snow-Swept Quest | 192548 | [192548-snow-swept-quest.json](./192548-snow-swept-quest.json) |
 | Snow! | 180771 | [180771-snow.json](./180771-snow.json) |
 | Snow! | 376566 | [376566-snow.json](./376566-snow.json) |
 | Snowball | 147827 | [147827-snowball.json](./147827-snowball.json) |
@@ -13985,6 +13989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Socialize | 189037 | [189037-socialize.json](./189037-socialize.json) |
 | Socialize: Poly | 191522 | [191522-socialize-poly.json](./191522-socialize-poly.json) |
 | Socially Awkward | 359199 | [359199-socially-awkward.json](./359199-socially-awkward.json) |
+| Society | 192561 | [192561-society.json](./192561-society.json) |
 | Society of the Serpent Moon: Last Half of Darkness | 53632 | [53632-society-of-the-serpent-moon-last-half-of-darkness.json](./53632-society-of-the-serpent-moon-last-half-of-darkness.json) |
 | Society's Paradigms | 152833 | [152833-societys-paradigms.json](./152833-societys-paradigms.json) |
 | Socioball | 128558 | [128558-socioball.json](./128558-socioball.json) |
@@ -18169,6 +18174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spearmint Goose | 195195 | [195195-spearmint-goose.json](./195195-spearmint-goose.json) |
 | Spearrowblade | 383057 | [383057-spearrowblade.json](./383057-spearrowblade.json) |
 | Spears 'n' Spades | 52059 | [52059-spears-n-spades.json](./52059-spears-n-spades.json) |
+| Spears of a Heart: Elusive Rhythms | 192569 | [192569-spears-of-a-heart-elusive-rhythms.json](./192569-spears-of-a-heart-elusive-rhythms.json) |
 | Spebo | 259830 | [259830-spebo.json](./259830-spebo.json) |
 | Spec | 304575 | [304575-spec.json](./304575-spec.json) |
 | Spec Ops II: Green Berets | 9342 | [9342-spec-ops-ii-green-berets.json](./9342-spec-ops-ii-green-berets.json) |
@@ -18689,6 +18695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellgrimage | 199226 | [199226-spellgrimage.json](./199226-spellgrimage.json) |
 | Spellgroove | 220600 | [220600-spellgroove.json](./220600-spellgroove.json) |
 | Spellhack!! | 295097 | [295097-spellhack.json](./295097-spellhack.json) |
+| Spellhearts | 192547 | [192547-spellhearts.json](./192547-spellhearts.json) |
 | Spellhook | 402548 | [402548-spellhook.json](./402548-spellhook.json) |
 | SpellHunter | 153024 | [153024-spellhunter.json](./153024-spellhunter.json) |
 | Spellic | 207345 | [207345-spellic.json](./207345-spellic.json) |
@@ -19764,6 +19771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spookware: Watch Party | 189180 | [189180-spookware-watch-party.json](./189180-spookware-watch-party.json) |
 | SpookWave | 183065 | [183065-spookwave.json](./183065-spookwave.json) |
 | Spooky Bodies | 343392 | [343392-spooky-bodies.json](./343392-spooky-bodies.json) |
+| Spooky Bricks | 192582 | [192582-spooky-bricks.json](./192582-spooky-bricks.json) |
 | Spooky Bundle: From Shadow & Apocalipsis | 267773 | [267773-spooky-bundle-from-shadow-and-apocalipsis.json](./267773-spooky-bundle-from-shadow-and-apocalipsis.json) |
 | Spooky Castle | 47235 | [47235-spooky-castle.json](./47235-spooky-castle.json) |
 | Spooky Chase | 136485 | [136485-spooky-chase.json](./136485-spooky-chase.json) |
@@ -21959,6 +21967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfleet Orion | 23297 | [23297-starfleet-orion.json](./23297-starfleet-orion.json) |
 | Starflight 1+2 | 154450 | [154450-starflight-1-2.json](./154450-starflight-1-2.json) |
 | Starflight II: Trade Routes of the Cloud Nebula | 12777 | [12777-starflight-ii-trade-routes-of-the-cloud-nebula.json](./12777-starflight-ii-trade-routes-of-the-cloud-nebula.json) |
+| StarFlint the BlackHole Prophecy | 192567 | [192567-starflint-the-blackhole-prophecy.json](./192567-starflint-the-blackhole-prophecy.json) |
 | Starflower Inc. | 348788 | [348788-starflower-inc.json](./348788-starflower-inc.json) |
 | StarFlyers: Alien Space Chase | 122951 | [122951-starflyers-alien-space-chase.json](./122951-starflyers-alien-space-chase.json) |
 | StarFlyers: Royal Jewel Rescue | 122950 | [122950-starflyers-royal-jewel-rescue.json](./122950-starflyers-royal-jewel-rescue.json) |
@@ -29394,6 +29403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Yakyuu-dou | 76993 | [76993-super-yakyuu-dou.json](./76993-super-yakyuu-dou.json) |
 | Super Yakyuudou '93 - 94 Nendo Data Kaiteiban | 66198 | [66198-super-yakyuudou-93-94-nendo-data-kaiteiban.json](./66198-super-yakyuudou-93-94-nendo-data-kaiteiban.json) |
 | Super Yakyuudou 2 | 66208 | [66208-super-yakyuudou-2.json](./66208-super-yakyuudou-2.json) |
+| Super Yodelland: Legend of the Katzenbär | 192564 | [192564-super-yodelland-legend-of-the-katzenbar.json](./192564-super-yodelland-legend-of-the-katzenbar.json) |
 | Super Yuki Onna-chan | 154423 | [154423-super-yuki-onna-chan.json](./154423-super-yuki-onna-chan.json) |
 | Super Yum Yum | 306006 | [306006-super-yum-yum.json](./306006-super-yum-yum.json) |
 | Super Yum Yum 2 | 280052 | [280052-super-yum-yum-2.json](./280052-super-yum-yum-2.json) |
@@ -30743,6 +30753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Delivery | 367298 | [367298-sweet-delivery.json](./367298-sweet-delivery.json) |
 | Sweet Desire | 147380 | [147380-sweet-desire.json](./147380-sweet-desire.json) |
 | Sweet Desire 2 | 158394 | [158394-sweet-desire-2.json](./158394-sweet-desire-2.json) |
+| Sweet Desire 3 | 192540 | [192540-sweet-desire-3.json](./192540-sweet-desire-3.json) |
 | Sweet Desire: Hentai Puzzle | 189983 | [189983-sweet-desire-hentai-puzzle.json](./189983-sweet-desire-hentai-puzzle.json) |
 | Sweet Dream | 172106 | [172106-sweet-dream.json](./172106-sweet-dream.json) |
 | Sweet Dream | 229597 | [229597-sweet-dream.json](./229597-sweet-dream.json) |
