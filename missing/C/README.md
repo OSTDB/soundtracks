@@ -17645,6 +17645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Serpent | 276681 | [276681-cyber-serpent.json](./276681-cyber-serpent.json) |
 | Cyber Sex | 294054 | [294054-cyber-sex.json](./294054-cyber-sex.json) |
 | Cyber Shard Clicker | 374205 | [374205-cyber-shard-clicker.json](./374205-cyber-shard-clicker.json) |
+| Cyber Skirmish | 226517 | [226517-cyber-skirmish.json](./226517-cyber-skirmish.json) |
 | Cyber Slayer | 219672 | [219672-cyber-slayer.json](./219672-cyber-slayer.json) |
 | Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
 | Cyber Sleuth Simulacrum | 302157 | [302157-cyber-sleuth-simulacrum.json](./302157-cyber-sleuth-simulacrum.json) |
