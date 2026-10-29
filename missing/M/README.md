@@ -3139,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Margin of the Strange | 301867 | [301867-margin-of-the-strange.json](./301867-margin-of-the-strange.json) |
 | Marginal act | 93778 | [93778-marginal-act.json](./93778-marginal-act.json) |
 | Marginal Break | 236260 | [236260-marginal-break.json](./236260-marginal-break.json) |
+| Margo | 214911 | [214911-margo.json](./214911-margo.json) |
 | Margo: On The Brink | 223373 | [223373-margo-on-the-brink.json](./223373-margo-on-the-brink.json) |
 | Margo: The Bean Adventure | 174305 | [174305-margo-the-bean-adventure.json](./174305-margo-the-bean-adventure.json) |
 | Margonem | 58835 | [58835-margonem.json](./58835-margonem.json) |
@@ -9899,6 +9900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MidnightNears | 344342 | [344342-midnightnears.json](./344342-midnightnears.json) |
 | Midora | 61307 | [61307-midora.json](./61307-midora.json) |
 | Midori Budou-den | 339121 | [339121-midori-budou-den.json](./339121-midori-budou-den.json) |
+| Midori Forest | 214908 | [214908-midori-forest.json](./214908-midori-forest.json) |
 | Midori No Makibao: Kuroi Inazuma Shiroi Kiseki | 396756 | [396756-midori-no-makibao-kuroi-inazuma-shiroi-kiseki.json](./396756-midori-no-makibao-kuroi-inazuma-shiroi-kiseki.json) |
 | Midori no Makibaoo | 228619 | [228619-midori-no-makibaoo.json](./228619-midori-no-makibaoo.json) |
 | Midsummer Leg's Dream | 303791 | [303791-midsummer-legs-dream.json](./303791-midsummer-legs-dream.json) |
@@ -15812,6 +15814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain of Ape | 249622 | [249622-mountain-of-ape.json](./249622-mountain-of-ape.json) |
 | Mountain Shoot | 54976 | [54976-mountain-shoot.json](./54976-mountain-shoot.json) |
 | Mountain Sniper Shooter Elite Assassin | 102844 | [102844-mountain-sniper-shooter-elite-assassin.json](./102844-mountain-sniper-shooter-elite-assassin.json) |
+| Mountain Sports | 214894 | [214894-mountain-sports.json](./214894-mountain-sports.json) |
 | Mountain Tanks | 87744 | [87744-mountain-tanks.json](./87744-mountain-tanks.json) |
 | Mountain Taxi Challenge | 382978 | [382978-mountain-taxi-challenge.json](./382978-mountain-taxi-challenge.json) |
 | Mountain Taxi Driver | 119745 | [119745-mountain-taxi-driver.json](./119745-mountain-taxi-driver.json) |
@@ -17159,6 +17162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music On: Playing Piano | 85302 | [85302-music-on-playing-piano.json](./85302-music-on-playing-piano.json) |
 | Music On: Retro Keyboard | 85301 | [85301-music-on-retro-keyboard.json](./85301-music-on-retro-keyboard.json) |
 | Music Piano 7 | 352191 | [352191-music-piano-7.json](./352191-music-piano-7.json) |
+| Music Plus | 214906 | [214906-music-plus.json](./214906-music-plus.json) |
 | Music Producer | 101403 | [101403-music-producer.json](./101403-music-producer.json) |
 | Music Producer Tycoon | 346908 | [346908-music-producer-tycoon.json](./346908-music-producer-tycoon.json) |
 | Music Puzzle | 256543 | [256543-music-puzzle.json](./256543-music-puzzle.json) |
@@ -18499,6 +18503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sweet Bully | 206027 | [206027-my-sweet-bully.json](./206027-my-sweet-bully.json) |
 | My Sweet Devil 3: Ring | 97695 | [97695-my-sweet-devil-3-ring.json](./97695-my-sweet-devil-3-ring.json) |
 | My Sweet Herbivore High | 231421 | [231421-my-sweet-herbivore-high.json](./231421-my-sweet-herbivore-high.json) |
+| My Sweet High School Memories | 214915 | [214915-my-sweet-high-school-memories.json](./214915-my-sweet-high-school-memories.json) |
 | My Sweet Home Dungeon | 299199 | [299199-my-sweet-home-dungeon.json](./299199-my-sweet-home-dungeon.json) |
 | My Sweet Puppy Love | 208280 | [208280-my-sweet-puppy-love.json](./208280-my-sweet-puppy-love.json) |
 | My Sweet Roomies | 378198 | [378198-my-sweet-roomies.json](./378198-my-sweet-roomies.json) |
