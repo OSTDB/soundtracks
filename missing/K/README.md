@@ -4015,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightblade | 194900 | [194900-knightblade.json](./194900-knightblade.json) |
 | Knightcore | 398647 | [398647-knightcore.json](./398647-knightcore.json) |
 | Knightcore Kingdom | 227514 | [227514-knightcore-kingdom.json](./227514-knightcore-kingdom.json) |
+| Knightcore Universal | 188257 | [188257-knightcore-universal.json](./188257-knightcore-universal.json) |
 | Knightczech: The beginning | 145446 | [145446-knightczech-the-beginning.json](./145446-knightczech-the-beginning.json) |
 | Knightess | 262943 | [262943-knightess.json](./262943-knightess.json) |
 | Knightess Layla: The Humiliating Life of a Seed Bed | 82687 | [82687-knightess-layla-the-humiliating-life-of-a-seed-bed.json](./82687-knightess-layla-the-humiliating-life-of-a-seed-bed.json) |
@@ -5217,6 +5218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubic | 58107 | [58107-kubic.json](./58107-kubic.json) |
 | Kubics | 284751 | [284751-kubics.json](./284751-kubics.json) |
 | Kubika | 390136 | [390136-kubika.json](./390136-kubika.json) |
+| Kubiko | 188259 | [188259-kubiko.json](./188259-kubiko.json) |
 | Kubikon 3D | 278259 | [278259-kubikon-3d.json](./278259-kubikon-3d.json) |
 | Kubikon 3D: Arctic DLC | 372539 | [372539-kubikon-3d-arctic-dlc.json](./372539-kubikon-3d-arctic-dlc.json) |
 | Kubikon 3D: Complete Edition | 401780 | [401780-kubikon-3d-complete-edition.json](./401780-kubikon-3d-complete-edition.json) |
@@ -5311,6 +5313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu | 359300 | [359300-kung-fu.json](./359300-kung-fu.json) |
 | Kung Fu Addiction | 381316 | [381316-kung-fu-addiction.json](./381316-kung-fu-addiction.json) |
 | Kung Fu All-Star VR | 55727 | [55727-kung-fu-all-star-vr.json](./55727-kung-fu-all-star-vr.json) |
+| Kung Fu All-Star: MMA Fight | 188269 | [188269-kung-fu-all-star-mma-fight.json](./188269-kung-fu-all-star-mma-fight.json) |
 | Kung Fu Chaos | 5898 | [5898-kung-fu-chaos.json](./5898-kung-fu-chaos.json) |
 | Kung Fu Chess | 180198 | [180198-kung-fu-chess.json](./180198-kung-fu-chess.json) |
 | Kung Fu Clicker | 106983 | [106983-kung-fu-clicker.json](./106983-kung-fu-clicker.json) |
@@ -5479,6 +5482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuroneko-sou Souzoku Satsujin Jiken | 222910 | [222910-kuroneko-sou-souzoku-satsujin-jiken.json](./222910-kuroneko-sou-souzoku-satsujin-jiken.json) |
 | Kuroobi | 272462 | [272462-kuroobi.json](./272462-kuroobi.json) |
 | Kuros | 16059 | [16059-kuros.json](./16059-kuros.json) |
+| Kuroshio: Awakening | 188252 | [188252-kuroshio-awakening.json](./188252-kuroshio-awakening.json) |
 | Kuroshio: Neon Blood | 425456 | [425456-kuroshio-neon-blood.json](./425456-kuroshio-neon-blood.json) |
 | Kuroshitsuji: Phantom & Ghost | 36752 | [36752-kuroshitsuji-phantom-and-ghost.json](./36752-kuroshitsuji-phantom-and-ghost.json) |
 | Kuroyuki Hime: Snow Black | 218951 | [218951-kuroyuki-hime-snow-black.json](./218951-kuroyuki-hime-snow-black.json) |
