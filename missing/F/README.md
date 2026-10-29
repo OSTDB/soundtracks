@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fair and Square | 380757 | [380757-fair-and-square.json](./380757-fair-and-square.json) |
 | Fair Deal: Las Vegas | 110129 | [110129-fair-deal-las-vegas.json](./110129-fair-deal-las-vegas.json) |
 | Fair Food Maker Game | 97153 | [97153-fair-food-maker-game.json](./97153-fair-food-maker-game.json) |
+| Fair n Square | 177160 | [177160-fair-n-square.json](./177160-fair-n-square.json) |
 | Fair Strike | 35675 | [35675-fair-strike.json](./35675-fair-strike.json) |
 | Fair, then Partly Piggy | 289741 | [289741-fair-then-partly-piggy.json](./289741-fair-then-partly-piggy.json) |
 | Faircroft's Antiques: Home for Christmas | 150943 | [150943-faircrofts-antiques-home-for-christmas.json](./150943-faircrofts-antiques-home-for-christmas.json) |
@@ -2541,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farting Simulator | 315285 | [315285-farting-simulator.json](./315285-farting-simulator.json) |
 | Fartonauts | 348358 | [348358-fartonauts.json](./348358-fartonauts.json) |
 | Farty Bird | 148805 | [148805-farty-bird.json](./148805-farty-bird.json) |
+| Farty Rocket | 177182 | [177182-farty-rocket.json](./177182-farty-rocket.json) |
 | Farwake | 403666 | [403666-farwake.json](./403666-farwake.json) |
 | FarWest Colony | 269019 | [269019-farwest-colony.json](./269019-farwest-colony.json) |
 | Farwoods | 203248 | [203248-farwoods.json](./203248-farwoods.json) |
