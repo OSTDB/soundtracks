@@ -6619,6 +6619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradient Flow | 273827 | [273827-gradient-flow.json](./273827-gradient-flow.json) |
 | Gradiently | 142702 | [142702-gradiently.json](./142702-gradiently.json) |
 | Gradius | 1476 | [1476-gradius.json](./1476-gradius.json) |
+| Gradius | 213188 | [213188-gradius.json](./213188-gradius.json) |
 | Gradius | 213191 | [213191-gradius.json](./213191-gradius.json) |
 | Gradius | 218913 | [218913-gradius.json](./218913-gradius.json) |
 | Gradius | 262393 | [262393-gradius.json](./262393-gradius.json) |
@@ -6627,6 +6628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius Gaiden | 1484 | [1484-gradius-gaiden.json](./1484-gradius-gaiden.json) |
 | Gradius Galaxies | 77990 | [77990-gradius-galaxies.json](./77990-gradius-galaxies.json) |
 | Gradius II | 213190 | [213190-gradius-ii.json](./213190-gradius-ii.json) |
+| Gradius II: Gofer no Yabou | 213189 | [213189-gradius-ii-gofer-no-yabou.json](./213189-gradius-ii-gofer-no-yabou.json) |
 | Gradius III | 335430 | [335430-gradius-iii.json](./335430-gradius-iii.json) |
 | Gradius III and IV | 98976 | [98976-gradius-iii-and-iv.json](./98976-gradius-iii-and-iv.json) |
 | Gradius IV: Revival | 1486 | [1486-gradius-iv-revival.json](./1486-gradius-iv-revival.json) |
@@ -8591,6 +8593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grove Island | 219162 | [219162-grove-island.json](./219162-grove-island.json) |
 | Grove: Nostalgia's End | 192952 | [192952-grove-nostalgias-end.json](./192952-grove-nostalgias-end.json) |
 | Groven | 199350 | [199350-groven.json](./199350-groven.json) |
+| Grover's Animal Adventures | 213176 | [213176-grovers-animal-adventures.json](./213176-grovers-animal-adventures.json) |
 | Grover's Travels | 333206 | [333206-grovers-travels.json](./333206-grovers-travels.json) |
 | Grow | 28503 | [28503-grow.json](./28503-grow.json) |
 | Grow & Go: Cozy Deliveries | 414406 | [414406-grow-and-go-cozy-deliveries.json](./414406-grow-and-go-cozy-deliveries.json) |
