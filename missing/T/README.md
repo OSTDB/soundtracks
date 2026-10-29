@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tailside: Cozy Cafe Sim | 296995 | [296995-tailside-cozy-cafe-sim.json](./296995-tailside-cozy-cafe-sim.json) |
 | Tailspin! | 177371 | [177371-tailspin.json](./177371-tailspin.json) |
 | Tailwind | 90648 | [90648-tailwind.json](./90648-tailwind.json) |
+| Tailypo | 191393 | [191393-tailypo.json](./191393-tailypo.json) |
 | TailzFromTheGrave | 108434 | [108434-tailzfromthegrave.json](./108434-tailzfromthegrave.json) |
 | Taima Miko Yuugi | 68673 | [68673-taima-miko-yuugi.json](./68673-taima-miko-yuugi.json) |
 | Taima Toushin Hachikuma Tok | 245929 | [245929-taima-toushin-hachikuma-tok.json](./245929-taima-toushin-hachikuma-tok.json) |
@@ -8588,6 +8589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgoatten Isles | 177749 | [177749-the-forgoatten-isles.json](./177749-the-forgoatten-isles.json) |
 | The Forgotten Apartment | 344832 | [344832-the-forgotten-apartment.json](./344832-the-forgotten-apartment.json) |
 | The Forgotten Boundary | 201485 | [201485-the-forgotten-boundary.json](./201485-the-forgotten-boundary.json) |
+| The Forgotten Castle | 190868 | [190868-the-forgotten-castle.json](./190868-the-forgotten-castle.json) |
 | The Forgotten City | 297448 | [297448-the-forgotten-city.json](./297448-the-forgotten-city.json) |
 | The Forgotten City: Cloud Version | 173145 | [173145-the-forgotten-city-cloud-version.json](./173145-the-forgotten-city-cloud-version.json) |
 | The Forgotten City: Digital Collector's Edition | 167179 | [167179-the-forgotten-city-digital-collectors-edition.json](./167179-the-forgotten-city-digital-collectors-edition.json) |
@@ -9176,6 +9178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Greys: Human Abductions | 371546 | [371546-the-greys-human-abductions.json](./371546-the-greys-human-abductions.json) |
 | The Grid | 185943 | [185943-the-grid.json](./185943-the-grid.json) |
 | The Grid | 407546 | [407546-the-grid.json](./407546-the-grid.json) |
+| The Griffin and the Minor Canon | 191392 | [191392-the-griffin-and-the-minor-canon.json](./191392-the-griffin-and-the-minor-canon.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
 | The Grim Adventures of Billy & Mandy | 248521 | [248521-the-grim-adventures-of-billy-and-mandy.json](./248521-the-grim-adventures-of-billy-and-mandy.json) |
 | The Grim and I | 120837 | [120837-the-grim-and-i.json](./120837-the-grim-and-i.json) |
@@ -11333,6 +11336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Triforce Duo | 241230 | [241230-the-legend-of-zelda-triforce-duo.json](./241230-the-legend-of-zelda-triforce-duo.json) |
 | The Legend of Zelda: Triforce Power | 359011 | [359011-the-legend-of-zelda-triforce-power.json](./359011-the-legend-of-zelda-triforce-power.json) |
 | The Legend of Zelda: Twilight Princess | 134014 | [134014-the-legend-of-zelda-twilight-princess.json](./134014-the-legend-of-zelda-twilight-princess.json) |
+| The Legend of Zelda: Twilight Princess | 191440 | [191440-the-legend-of-zelda-twilight-princess.json](./191440-the-legend-of-zelda-twilight-princess.json) |
 | The Legend of Zelda: Twilight Princess HD | 18017 | [18017-the-legend-of-zelda-twilight-princess-hd.json](./18017-the-legend-of-zelda-twilight-princess-hd.json) |
 | The Legend of Zelda: Twilight Princess HD - Special Edition | 45134 | [45134-the-legend-of-zelda-twilight-princess-hd-special-edition.json](./45134-the-legend-of-zelda-twilight-princess-hd-special-edition.json) |
 | The Legend of Zelda: Twilight Princess Multiplayer | 258813 | [258813-the-legend-of-zelda-twilight-princess-multiplayer.json](./258813-the-legend-of-zelda-twilight-princess-multiplayer.json) |
@@ -16068,6 +16072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trolley Solution | 345954 | [345954-the-trolley-solution.json](./345954-the-trolley-solution.json) |
 | The Trolling Adventure | 384008 | [384008-the-trolling-adventure.json](./384008-the-trolling-adventure.json) |
 | The Trolls in Crazyland | 48706 | [48706-the-trolls-in-crazyland.json](./48706-the-trolls-in-crazyland.json) |
+| The Trooper | 190864 | [190864-the-trooper.json](./190864-the-trooper.json) |
 | The Trotties Adventure | 273315 | [273315-the-trotties-adventure.json](./273315-the-trotties-adventure.json) |
 | The Trouble: Defense | 316661 | [316661-the-trouble-defense.json](./316661-the-trouble-defense.json) |
 | The Truck Game | 114250 | [114250-the-truck-game.json](./114250-the-truck-game.json) |
@@ -20248,6 +20253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Ramesside (A New Reckoning) | 36351 | [36351-time-ramesside-a-new-reckoning.json](./36351-time-ramesside-a-new-reckoning.json) |
 | Time Re:Quest | 329083 | [329083-time-re-quest.json](./329083-time-re-quest.json) |
 | Time Recoil | 27785 | [27785-time-recoil.json](./27785-time-recoil.json) |
+| Time Reject | 190834 | [190834-time-reject.json](./190834-time-reject.json) |
 | Time Relics: Gears of Light | 18895 | [18895-time-relics-gears-of-light.json](./18895-time-relics-gears-of-light.json) |
 | Time Reversal | 188352 | [188352-time-reversal.json](./188352-time-reversal.json) |
 | Time Riders in American History | 73722 | [73722-time-riders-in-american-history.json](./73722-time-riders-in-american-history.json) |
@@ -21153,6 +21159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNT: Threevilution | 316174 | [316174-tnt-threevilution.json](./316174-tnt-threevilution.json) |
 | TNT! | 118978 | [118978-tnt.json](./118978-tnt.json) |
 | TNTPhobia | 311461 | [311461-tntphobia.json](./311461-tntphobia.json) |
+| To a Starling | 191445 | [191445-to-a-starling.json](./191445-to-a-starling.json) |
 | To Aerthen | 222350 | [222350-to-aerthen.json](./222350-to-aerthen.json) |
 | To Akimon | 115462 | [115462-to-akimon.json](./115462-to-akimon.json) |
 | To Altare | 281418 | [281418-to-altare.json](./281418-to-altare.json) |
@@ -27208,6 +27215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tridek: Creatures of Galena | 63142 | [63142-tridek-creatures-of-galena.json](./63142-tridek-creatures-of-galena.json) |
 | Trident | 159647 | [159647-trident.json](./159647-trident.json) |
 | Trident Barrage | 115370 | [115370-trident-barrage.json](./115370-trident-barrage.json) |
+| Trident Temple | 191426 | [191426-trident-temple.json](./191426-trident-temple.json) |
 | Trident's Tale | 336161 | [336161-tridents-tale.json](./336161-tridents-tale.json) |
 | Trident's Wake | 74813 | [74813-tridents-wake.json](./74813-tridents-wake.json) |
 | Tridevyatye zemli (Svet ili t'ma) | 101262 | [101262-tridevyatye-zemli-svet-ili-tma.json](./101262-tridevyatye-zemli-svet-ili-tma.json) |
