@@ -7056,6 +7056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Pictures Anthology: Little Hope & Man of Medan Bundle | 169246 | [169246-the-dark-pictures-anthology-little-hope-and-man-of-medan-bundle.json](./169246-the-dark-pictures-anthology-little-hope-and-man-of-medan-bundle.json) |
 | The Dark Pictures Anthology: Season One | 225775 | [225775-the-dark-pictures-anthology-season-one.json](./225775-the-dark-pictures-anthology-season-one.json) |
 | The Dark Pictures Anthology: The Craven Man | 257078 | [257078-the-dark-pictures-anthology-the-craven-man.json](./257078-the-dark-pictures-anthology-the-craven-man.json) |
+| The Dark Pictures Anthology: Volume 2 | 208736 | [208736-the-dark-pictures-anthology-volume-2.json](./208736-the-dark-pictures-anthology-volume-2.json) |
 | The Dark Pictures Anthology: Winterfold | 257077 | [257077-the-dark-pictures-anthology-winterfold.json](./257077-the-dark-pictures-anthology-winterfold.json) |
 | The Dark Pictures: Switchback VR | 224413 | [224413-the-dark-pictures-switchback-vr.json](./224413-the-dark-pictures-switchback-vr.json) |
 | The Dark Pictures: Volume 1 | 249739 | [249739-the-dark-pictures-volume-1.json](./249739-the-dark-pictures-volume-1.json) |
@@ -7334,6 +7335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Diabolical Trilogy | 203717 | [203717-the-diabolical-trilogy.json](./203717-the-diabolical-trilogy.json) |
 | The Diamond Adventures | 377218 | [377218-the-diamond-adventures.json](./377218-the-diamond-adventures.json) |
 | The Diamond Mystery in Rosemond Valley | 125305 | [125305-the-diamond-mystery-in-rosemond-valley.json](./125305-the-diamond-mystery-in-rosemond-valley.json) |
+| The Diary | 208755 | [208755-the-diary.json](./208755-the-diary.json) |
 | The Diary | 250356 | [250356-the-diary.json](./250356-the-diary.json) |
 | The Die Is Cast | 240474 | [240474-the-die-is-cast.json](./240474-the-die-is-cast.json) |
 | The Difference Between Us | 184309 | [184309-the-difference-between-us.json](./184309-the-difference-between-us.json) |
@@ -23434,6 +23436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Spell Bubble: Side Story Pack - Yukari Arc | 209120 | [209120-touhou-spell-bubble-side-story-pack-yukari-arc.json](./209120-touhou-spell-bubble-side-story-pack-yukari-arc.json) |
 | Touhou Spell Bubble: Side Story Pack Sanae Arc | 144773 | [144773-touhou-spell-bubble-side-story-pack-sanae-arc.json](./144773-touhou-spell-bubble-side-story-pack-sanae-arc.json) |
 | Touhou Spell Bubble: Sound Holic - Song Pack | 224507 | [224507-touhou-spell-bubble-sound-holic-song-pack.json](./224507-touhou-spell-bubble-sound-holic-song-pack.json) |
+| Touhou Spell Bubble: Special Song Pack Vol. 1 | 208752 | [208752-touhou-spell-bubble-special-song-pack-vol-1.json](./208752-touhou-spell-bubble-special-song-pack-vol-1.json) |
 | Touhou Spell Bubble: TamaOnSen - Song Pack | 209326 | [209326-touhou-spell-bubble-tamaonsen-song-pack.json](./209326-touhou-spell-bubble-tamaonsen-song-pack.json) |
 | Touhou Spell Bubble: Touhou Chireiden - Arrangements Pack | 209325 | [209325-touhou-spell-bubble-touhou-chireiden-arrangements-pack.json](./209325-touhou-spell-bubble-touhou-chireiden-arrangements-pack.json) |
 | Touhou Spell Bubble: Touhou Collaborations Pack | 209147 | [209147-touhou-spell-bubble-touhou-collaborations-pack.json](./209147-touhou-spell-bubble-touhou-collaborations-pack.json) |
@@ -27448,6 +27451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron Run/r: Ultimate Edition | 53852 | [53852-tron-run-r-ultimate-edition.json](./53852-tron-run-r-ultimate-edition.json) |
 | Tron: Catalyst | 319717 | [319717-tron-catalyst.json](./319717-tron-catalyst.json) |
 | Tron: Deadly Discs | 5710 | [5710-tron-deadly-discs.json](./5710-tron-deadly-discs.json) |
+| Tron: Evolution | 208754 | [208754-tron-evolution.json](./208754-tron-evolution.json) |
 | Tron: Evolution | 381659 | [381659-tron-evolution.json](./381659-tron-evolution.json) |
 | Tron: Evolution | 7220 | [7220-tron-evolution.json](./7220-tron-evolution.json) |
 | Tron: Identity | 216277 | [216277-tron-identity.json](./216277-tron-identity.json) |
