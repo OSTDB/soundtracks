@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Spot It + Exit Station 7 + Find Room 96 + HighScore Anomaly Shop +HighScore Anomaly Underground | 319775 | [319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json](./319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json) |
 | Santa's Vacation | 76391 | [76391-santas-vacation.json](./76391-santas-vacation.json) |
 | Santa's Visit | 123895 | [123895-santas-visit.json](./123895-santas-visit.json) |
+| Santa's Workshop | 185282 | [185282-santas-workshop.json](./185282-santas-workshop.json) |
 | Santa's Workshop | 343787 | [343787-santas-workshop.json](./343787-santas-workshop.json) |
 | Santa's Workshop Challenge: The North Pole Gift Adventure | 283241 | [283241-santas-workshop-challenge-the-north-pole-gift-adventure.json](./283241-santas-workshop-challenge-the-north-pole-gift-adventure.json) |
 | Santa's Workshop: Unhinged | 128550 | [128550-santas-workshop-unhinged.json](./128550-santas-workshop-unhinged.json) |
@@ -13772,6 +13773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowy Love | 151458 | [151458-snowy-love.json](./151458-snowy-love.json) |
 | Snowy Memories | 333424 | [333424-snowy-memories.json](./333424-snowy-memories.json) |
 | Snowy Mountain | 235744 | [235744-snowy-mountain.json](./235744-snowy-mountain.json) |
+| Snowy Path | 185309 | [185309-snowy-path.json](./185309-snowy-path.json) |
 | Snowy: Fish Frenzy | 71519 | [71519-snowy-fish-frenzy.json](./71519-snowy-fish-frenzy.json) |
 | Snowy: Lunch Rush | 73289 | [73289-snowy-lunch-rush.json](./73289-snowy-lunch-rush.json) |
 | Snowy: Space Trip | 69835 | [69835-snowy-space-trip.json](./69835-snowy-space-trip.json) |
@@ -14700,6 +14702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solm | 183079 | [183079-solm.json](./183079-solm.json) |
 | Solnox: Grimoire of Seasons | 302321 | [302321-solnox-grimoire-of-seasons.json](./302321-solnox-grimoire-of-seasons.json) |
 | Solo | 145987 | [145987-solo.json](./145987-solo.json) |
+| Solo | 185292 | [185292-solo.json](./185292-solo.json) |
 | Solo | 277771 | [277771-solo.json](./277771-solo.json) |
 | Solo | 28315 | [28315-solo.json](./28315-solo.json) |
 | Solo Chess | 372985 | [372985-solo-chess.json](./372985-solo-chess.json) |
@@ -17902,6 +17905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceguy: Red Space | 111666 | [111666-spaceguy-red-space.json](./111666-spaceguy-red-space.json) |
 | SpaceHack: Eden | 346245 | [346245-spacehack-eden.json](./346245-spacehack-eden.json) |
 | Spacehawk 50 | 385797 | [385797-spacehawk-50.json](./385797-spacehawk-50.json) |
+| SpaceHook | 185265 | [185265-spacehook.json](./185265-spacehook.json) |
 | SpaceInvasion | 196275 | [196275-spaceinvasion.json](./196275-spaceinvasion.json) |
 | Spacejacked | 24046 | [24046-spacejacked.json](./24046-spacejacked.json) |
 | Spacejump | 250598 | [250598-spacejump.json](./250598-spacejump.json) |
