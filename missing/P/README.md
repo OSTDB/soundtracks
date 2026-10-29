@@ -2505,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patagon | 223412 | [223412-patagon.json](./223412-patagon.json) |
 | Patagonian Pilgrimage | 360755 | [360755-patagonian-pilgrimage.json](./360755-patagonian-pilgrimage.json) |
 | Patalliro! | 218288 | [218288-patalliro.json](./218288-patalliro.json) |
+| PataNoir | 216573 | [216573-patanoir.json](./216573-patanoir.json) |
 | PataNoir | 33327 | [33327-patanoir.json](./33327-patanoir.json) |
 | Patapon | 7812 | [7812-patapon.json](./7812-patapon.json) |
 | Patapon 1+2 Replay | 337025 | [337025-patapon-1-2-replay.json](./337025-patapon-1-2-replay.json) |
@@ -2589,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Survival | 412274 | [412274-path-of-survival.json](./412274-path-of-survival.json) |
 | Path of Tengri | 202716 | [202716-path-of-tengri.json](./202716-path-of-tengri.json) |
 | Path of Thalanos | 123883 | [123883-path-of-thalanos.json](./123883-path-of-thalanos.json) |
+| Path of the Abyss | 216571 | [216571-path-of-the-abyss.json](./216571-path-of-the-abyss.json) |
 | Path of the Bogatyr | 356569 | [356569-path-of-the-bogatyr.json](./356569-path-of-the-bogatyr.json) |
 | Path of the Dead | 185335 | [185335-path-of-the-dead.json](./185335-path-of-the-dead.json) |
 | Path of the Heart | 364885 | [364885-path-of-the-heart.json](./364885-path-of-the-heart.json) |
@@ -4379,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets at Work | 190153 | [190153-pets-at-work.json](./190153-pets-at-work.json) |
 | Pets Crossing | 247028 | [247028-pets-crossing.json](./247028-pets-crossing.json) |
 | Pets Fun House | 90466 | [90466-pets-fun-house.json](./90466-pets-fun-house.json) |
+| Pets Hotel | 216607 | [216607-pets-hotel.json](./216607-pets-hotel.json) |
 | Pets in Action Bundle | 212787 | [212787-pets-in-action-bundle.json](./212787-pets-in-action-bundle.json) |
 | Pets Live | 340799 | [340799-pets-live.json](./340799-pets-live.json) |
 | Pets No More | 154818 | [154818-pets-no-more.json](./154818-pets-no-more.json) |
@@ -8635,6 +8638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayHex | 319877 | [319877-playhex.json](./319877-playhex.json) |
 | Playhouse Strip Poker | 55990 | [55990-playhouse-strip-poker.json](./55990-playhouse-strip-poker.json) |
 | Playing Field 2 | 410419 | [410419-playing-field-2.json](./410419-playing-field-2.json) |
+| Playing Games | 216576 | [216576-playing-games.json](./216576-playing-games.json) |
 | Playing God VR | 179923 | [179923-playing-god-vr.json](./179923-playing-god-vr.json) |
 | Playing History - The Plague | 34628 | [34628-playing-history-the-plague.json](./34628-playing-history-the-plague.json) |
 | Playing History 2 - Slave Trade | 12073 | [12073-playing-history-2-slave-trade.json](./12073-playing-history-2-slave-trade.json) |
@@ -13424,6 +13428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Procemon: You Must Catch Them | 369727 | [369727-procemon-you-must-catch-them.json](./369727-procemon-you-must-catch-them.json) |
 | Process | 60528 | [60528-process.json](./60528-process.json) |
 | Process of Elimination | 216583 | [216583-process-of-elimination.json](./216583-process-of-elimination.json) |
+| Process of Elimination: Deluxe Edition | 216584 | [216584-process-of-elimination-deluxe-edition.json](./216584-process-of-elimination-deluxe-edition.json) |
 | Procession Engine | 413079 | [413079-procession-engine.json](./413079-procession-engine.json) |
 | Procrastinaire: Solitairy Confinement | 179932 | [179932-procrastinaire-solitairy-confinement.json](./179932-procrastinaire-solitairy-confinement.json) |
 | Procrastinaut | 270951 | [270951-procrastinaut.json](./270951-procrastinaut.json) |
