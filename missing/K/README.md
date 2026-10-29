@@ -4462,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kojimachi Island | 197199 | [197199-kojimachi-island.json](./197199-kojimachi-island.json) |
 | Kojou | 157928 | [157928-kojou.json](./157928-kojou.json) |
 | Kojouji | 149543 | [149543-kojouji.json](./149543-kojouji.json) |
+| Kojum | 203053 | [203053-kojum.json](./203053-kojum.json) |
 | Koko | 276337 | [276337-koko.json](./276337-koko.json) |
 | Koko & Kebi: Crank Harrier | 274671 | [274671-koko-and-kebi-crank-harrier.json](./274671-koko-and-kebi-crank-harrier.json) |
 | Koko Adventure | 54899 | [54899-koko-adventure.json](./54899-koko-adventure.json) |
