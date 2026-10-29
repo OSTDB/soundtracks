@@ -8843,6 +8843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Night: Spooky Night Vol. 1 | 221735 | [221735-horror-night-spooky-night-vol-1.json](./221735-horror-night-spooky-night-vol-1.json) |
 | Horror Night: The Slenderman Takings | 236824 | [236824-horror-night-the-slenderman-takings.json](./236824-horror-night-the-slenderman-takings.json) |
 | Horror Nightmare Collection | 290626 | [290626-horror-nightmare-collection.json](./290626-horror-nightmare-collection.json) |
+| Horror of Cridewell | 228662 | [228662-horror-of-cridewell.json](./228662-horror-of-cridewell.json) |
 | Horror of Minos | 178346 | [178346-horror-of-minos.json](./178346-horror-of-minos.json) |
 | Horror of the Deep | 30127 | [30127-horror-of-the-deep.json](./30127-horror-of-the-deep.json) |
 | Horror of Victim | 293484 | [293484-horror-of-victim.json](./293484-horror-of-victim.json) |
@@ -9315,6 +9316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Holiday Season Customization Pack | 248412 | [248412-hot-wheels-holiday-season-customization-pack.json](./248412-hot-wheels-holiday-season-customization-pack.json) |
 | Hot Wheels: Hot Rod Customization Pack | 248426 | [248426-hot-wheels-hot-rod-customization-pack.json](./248426-hot-wheels-hot-rod-customization-pack.json) |
 | Hot Wheels: Jetz | 166206 | [166206-hot-wheels-jetz.json](./166206-hot-wheels-jetz.json) |
+| Hot Wheels: King of the Road | 228664 | [228664-hot-wheels-king-of-the-road.json](./228664-hot-wheels-king-of-the-road.json) |
 | Hot Wheels: Mechanix | 70991 | [70991-hot-wheels-mechanix.json](./70991-hot-wheels-mechanix.json) |
 | Hot Wheels: Outer Space Customization Pack | 248415 | [248415-hot-wheels-outer-space-customization-pack.json](./248415-hot-wheels-outer-space-customization-pack.json) |
 | Hot Wheels: Pink Fashion Customization Pack | 248424 | [248424-hot-wheels-pink-fashion-customization-pack.json](./248424-hot-wheels-pink-fashion-customization-pack.json) |
@@ -10249,6 +10251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hummingbird Garden | 388542 | [388542-hummingbird-garden.json](./388542-hummingbird-garden.json) |
 | Hummingbird Mind | 60454 | [60454-hummingbird-mind.json](./60454-hummingbird-mind.json) |
 | Hummingbird's Crown | 207241 | [207241-hummingbirds-crown.json](./207241-hummingbirds-crown.json) |
+| Humongous Classic Collection | 228741 | [228741-humongous-classic-collection.json](./228741-humongous-classic-collection.json) |
 | Humorpractor | 180845 | [180845-humorpractor.json](./180845-humorpractor.json) |
 | Humpi and Hemicube | 271619 | [271619-humpi-and-hemicube.json](./271619-humpi-and-hemicube.json) |
 | Humpsters | 71220 | [71220-humpsters.json](./71220-humpsters.json) |
