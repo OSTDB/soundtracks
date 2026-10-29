@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kartoffelpüree: Der Gemüse-Shooter | 100078 | [100078-kartoffelpuree-der-gemuse-shooter.json](./100078-kartoffelpuree-der-gemuse-shooter.json) |
 | Kartong | 38787 | [38787-kartong.json](./38787-kartong.json) |
 | Kartong - Death by Cardboard! | 77571 | [77571-kartong-death-by-cardboard.json](./77571-kartong-death-by-cardboard.json) |
+| Kartoon Racing: Singleplayer Multiplayer Racing | 213140 | [213140-kartoon-racing-singleplayer-multiplayer-racing.json](./213140-kartoon-racing-singleplayer-multiplayer-racing.json) |
 | Kartrider Rush | 186711 | [186711-kartrider-rush.json](./186711-kartrider-rush.json) |
 | KartRider: Drift | 125626 | [125626-kartrider-drift.json](./125626-kartrider-drift.json) |
 | Karts With Chat | 345505 | [345505-karts-with-chat.json](./345505-karts-with-chat.json) |
@@ -2854,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Quest | 8260 | [8260-kings-quest.json](./8260-kings-quest.json) |
 | King's Quest 4+5+6 | 154935 | [154935-kings-quest-4-5-6.json](./154935-kings-quest-4-5-6.json) |
 | King's Quest Collection | 27852 | [27852-kings-quest-collection.json](./27852-kings-quest-collection.json) |
+| King's Quest Collector's Edition | 213196 | [213196-kings-quest-collectors-edition.json](./213196-kings-quest-collectors-edition.json) |
 | King's Quest II: Romancing the Stones | 77309 | [77309-kings-quest-ii-romancing-the-stones.json](./77309-kings-quest-ii-romancing-the-stones.json) |
 | King's Quest III Redux: To Heir is Human | 132066 | [132066-kings-quest-iii-redux-to-heir-is-human.json](./132066-kings-quest-iii-redux-to-heir-is-human.json) |
 | King's Quest IV: The Perils of Rosella | 744 | [744-kings-quest-iv-the-perils-of-rosella.json](./744-kings-quest-iv-the-perils-of-rosella.json) |
