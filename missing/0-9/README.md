@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Words | 83913 | [83913-1000-words.json](./83913-1000-words.json) |
 | 1000-Bit | 137930 | [137930-1000-bit.json](./137930-1000-bit.json) |
 | 1000: The All-Mother's Embrace | 326044 | [326044-1000-the-all-mothers-embrace.json](./326044-1000-the-all-mothers-embrace.json) |
+| 1000$ | 213174 | [213174-1000.json](./213174-1000.json) |
 | 10000000 | 9705 | [9705-10000000.json](./9705-10000000.json) |
 | 1000cc Turbo | 12347 | [12347-1000cc-turbo.json](./12347-1000cc-turbo.json) |
 | 1000m Zombie Escape! | 222202 | [222202-1000m-zombie-escape.json](./222202-1000m-zombie-escape.json) |
