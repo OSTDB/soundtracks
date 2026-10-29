@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Romancer | 54980 | [54980-earth-romancer.json](./54980-earth-romancer.json) |
 | Earth Saver | 59386 | [59386-earth-saver.json](./59386-earth-saver.json) |
 | Earth Saves Our Love | 267392 | [267392-earth-saves-our-love.json](./267392-earth-saves-our-love.json) |
+| Earth School | 219921 | [219921-earth-school.json](./219921-earth-school.json) |
 | Earth Science | 159176 | [159176-earth-science.json](./159176-earth-science.json) |
 | Earth Space Colonies | 33646 | [33646-earth-space-colonies.json](./33646-earth-space-colonies.json) |
 | Earth Space Defenders | 373211 | [373211-earth-space-defenders.json](./373211-earth-space-defenders.json) |
@@ -1840,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritch World | 137610 | [137610-eldritch-world.json](./137610-eldritch-world.json) |
 | Eldritchvania | 223680 | [223680-eldritchvania.json](./223680-eldritchvania.json) |
 | Eldrum: Black Dust | 325732 | [325732-eldrum-black-dust.json](./325732-eldrum-black-dust.json) |
+| Eldrum: Red Tide | 219922 | [219922-eldrum-red-tide.json](./219922-eldrum-red-tide.json) |
 | Eldrum: Untold | 202863 | [202863-eldrum-untold.json](./202863-eldrum-untold.json) |
 | Ele Blaze | 68662 | [68662-ele-blaze.json](./68662-ele-blaze.json) |
 | Ele-Mental | 149082 | [149082-ele-mental.json](./149082-ele-mental.json) |
@@ -4801,6 +4803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room Pentalogy Bundle | 284488 | [284488-escape-room-pentalogy-bundle.json](./284488-escape-room-pentalogy-bundle.json) |
 | Escape Room Six Games Pack | 332011 | [332011-escape-room-six-games-pack.json](./332011-escape-room-six-games-pack.json) |
 | Escape Room Super Bundle | 295471 | [295471-escape-room-super-bundle.json](./295471-escape-room-super-bundle.json) |
+| Escape Room that Moon Night | 219948 | [219948-escape-room-that-moon-night.json](./219948-escape-room-that-moon-night.json) |
 | Escape Room Ultimate Bundle | 306493 | [306493-escape-room-ultimate-bundle.json](./306493-escape-room-ultimate-bundle.json) |
 | Escape Room Ultimate Trilogy | 332333 | [332333-escape-room-ultimate-trilogy.json](./332333-escape-room-ultimate-trilogy.json) |
 | Escape Room VR | 128340 | [128340-escape-room-vr.json](./128340-escape-room-vr.json) |
@@ -4957,6 +4960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape With Bombs | 179134 | [179134-escape-with-bombs.json](./179134-escape-with-bombs.json) |
 | Escape with Monet | 96928 | [96928-escape-with-monet.json](./96928-escape-with-monet.json) |
 | Escape Yourself | 208665 | [208665-escape-yourself.json](./208665-escape-yourself.json) |
+| Escape Z Town | 219923 | [219923-escape-z-town.json](./219923-escape-z-town.json) |
 | Escape Zolstar | 121633 | [121633-escape-zolstar.json](./121633-escape-zolstar.json) |
 | Escape Zombie Land | 75898 | [75898-escape-zombie-land.json](./75898-escape-zombie-land.json) |
 | Escape Zombies At Night | 150498 | [150498-escape-zombies-at-night.json](./150498-escape-zombies-at-night.json) |
