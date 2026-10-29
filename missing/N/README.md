@@ -1937,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis: The Final Challenge | 262391 | [262391-nemesis-the-final-challenge.json](./262391-nemesis-the-final-challenge.json) |
 | Nemesis: The Final Challenge | 262392 | [262392-nemesis-the-final-challenge.json](./262392-nemesis-the-final-challenge.json) |
 | Nemesis: The Wizardry Adventure | 2500 | [2500-nemesis-the-wizardry-adventure.json](./2500-nemesis-the-wizardry-adventure.json) |
+| Nemesisters | 184196 | [184196-nemesisters.json](./184196-nemesisters.json) |
 | Nemexia | 142976 | [142976-nemexia.json](./142976-nemexia.json) |
 | Nemezis: Mysterious Journey III - Deluxe Edition | 159692 | [159692-nemezis-mysterious-journey-iii-deluxe-edition.json](./159692-nemezis-mysterious-journey-iii-deluxe-edition.json) |
 | Nemire | 199306 | [199306-nemire.json](./199306-nemire.json) |
@@ -3066,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Year's Jam | 325263 | [325263-new-years-jam.json](./325263-new-years-jam.json) |
 | New Years 7016 | 137301 | [137301-new-years-7016.json](./137301-new-years-7016.json) |
 | New Years Eve Slaughter 2022 | 257416 | [257416-new-years-eve-slaughter-2022.json](./257416-new-years-eve-slaughter-2022.json) |
+| New York 2017 | 184192 | [184192-new-york-2017.json](./184192-new-york-2017.json) |
 | New York Bus Simulator | 33445 | [33445-new-york-bus-simulator.json](./33445-new-york-bus-simulator.json) |
 | New York City | 25698 | [25698-new-york-city.json](./25698-new-york-city.json) |
 | New York City Driver | 243696 | [243696-new-york-city-driver.json](./243696-new-york-city-driver.json) |
@@ -4936,6 +4938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niva | 341480 | [341480-niva.json](./341480-niva.json) |
 | Niva | 97303 | [97303-niva.json](./97303-niva.json) |
 | Nivalis Nights | 203301 | [203301-nivalis-nights.json](./203301-nivalis-nights.json) |
+| Nivearum | 184183 | [184183-nivearum.json](./184183-nivearum.json) |
 | Niveil: Red Riding Hood story | 230467 | [230467-niveil-red-riding-hood-story.json](./230467-niveil-red-riding-hood-story.json) |
 | Nivoz Running Canned | 244249 | [244249-nivoz-running-canned.json](./244249-nivoz-running-canned.json) |
 | Niwa: Japanese Garden Simulator | 275420 | [275420-niwa-japanese-garden-simulator.json](./275420-niwa-japanese-garden-simulator.json) |
@@ -5635,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noisz Starlivht: True Heroes | 316706 | [316706-noisz-starlivht-true-heroes.json](./316706-noisz-starlivht-true-heroes.json) |
 | Noisz: DM Ashura Level Pack | 317032 | [317032-noisz-dm-ashura-level-pack.json](./317032-noisz-dm-ashura-level-pack.json) |
 | Noisz: Hyun Level Pack | 317031 | [317031-noisz-hyun-level-pack.json](./317031-noisz-hyun-level-pack.json) |
+| Noitanigami | 184184 | [184184-noitanigami.json](./184184-noitanigami.json) |
 | Noitapeli | 249886 | [249886-noitapeli.json](./249886-noitapeli.json) |
 | Noitcelfer | 248128 | [248128-noitcelfer.json](./248128-noitcelfer.json) |
 | Noite de Bingo: Fofoca com Vampiro | 308014 | [308014-noite-de-bingo-fofoca-com-vampiro.json](./308014-noite-de-bingo-fofoca-com-vampiro.json) |
@@ -6078,6 +6082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not a Prank | 118977 | [118977-not-a-prank.json](./118977-not-a-prank.json) |
 | Not a Safe Place | 415757 | [415757-not-a-safe-place.json](./415757-not-a-safe-place.json) |
 | Not A Thief Simulator | 236862 | [236862-not-a-thief-simulator.json](./236862-not-a-thief-simulator.json) |
+| Not Actually A DOS Game | 184181 | [184181-not-actually-a-dos-game.json](./184181-not-actually-a-dos-game.json) |
 | Not Again, Hero | 364684 | [364684-not-again-hero.json](./364684-not-again-hero.json) |
 | Not All There | 229781 | [229781-not-all-there.json](./229781-not-all-there.json) |
 | Not Alone | 108847 | [108847-not-alone.json](./108847-not-alone.json) |
@@ -6355,6 +6360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Now Showing | 394765 | [394765-now-showing.json](./394765-now-showing.json) |
 | Now Streaming | 122351 | [122351-now-streaming.json](./122351-now-streaming.json) |
 | Now Testing: 407 | 148885 | [148885-now-testing-407.json](./148885-now-testing-407.json) |
+| Now That's Sport! | 184179 | [184179-now-thats-sport.json](./184179-now-thats-sport.json) |
 | Now That's What I Call Games | 131874 | [131874-now-thats-what-i-call-games.json](./131874-now-thats-what-i-call-games.json) |
 | Now That's What I Call Games 3 | 125283 | [125283-now-thats-what-i-call-games-3.json](./125283-now-thats-what-i-call-games-3.json) |
 | Now That's What I Call Sing 2 | 24961 | [24961-now-thats-what-i-call-sing-2.json](./24961-now-thats-what-i-call-sing-2.json) |
