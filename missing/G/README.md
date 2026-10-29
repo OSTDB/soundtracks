@@ -6570,6 +6570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotouchi Tetsudou: Gotouchi Chara to Nihon Zenkoku no Tabi | 71016 | [71016-gotouchi-tetsudou-gotouchi-chara-to-nihon-zenkoku-no-tabi.json](./71016-gotouchi-tetsudou-gotouchi-chara-to-nihon-zenkoku-no-tabi.json) |
 | Gotta Bounce | 272463 | [272463-gotta-bounce.json](./272463-gotta-bounce.json) |
 | Gotta Date Them All | 149720 | [149720-gotta-date-them-all.json](./149720-gotta-date-them-all.json) |
+| Gotta Eat the Plums! With William Carlos Williams | 182040 | [182040-gotta-eat-the-plums-with-william-carlos-williams.json](./182040-gotta-eat-the-plums-with-william-carlos-williams.json) |
 | Gotta Get Going: Steam Smugglers Prologue | 90402 | [90402-gotta-get-going-steam-smugglers-prologue.json](./90402-gotta-get-going-steam-smugglers-prologue.json) |
 | Gotta Get Home | 231299 | [231299-gotta-get-home.json](./231299-gotta-get-home.json) |
 | Gotta Go | 51488 | [51488-gotta-go.json](./51488-gotta-go.json) |
