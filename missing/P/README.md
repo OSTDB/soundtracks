@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man 2: The New Adventures | 11603 | [11603-pac-man-2-the-new-adventures.json](./11603-pac-man-2-the-new-adventures.json) |
 | Pac-Man 256 | 14701 | [14701-pac-man-256.json](./14701-pac-man-256.json) |
 | Pac-Man 256 | 219438 | [219438-pac-man-256.json](./219438-pac-man-256.json) |
+| Pac-Man 25th Anniversary | 219390 | [219390-pac-man-25th-anniversary.json](./219390-pac-man-25th-anniversary.json) |
 | Pac-Man 3D: White House Edition | 364837 | [364837-pac-man-3d-white-house-edition.json](./364837-pac-man-3d-white-house-edition.json) |
 | Pac-Man 4K | 277412 | [277412-pac-man-4k.json](./277412-pac-man-4k.json) |
 | Pac-Man 4K | 40655 | [40655-pac-man-4k.json](./40655-pac-man-4k.json) |
@@ -186,16 +187,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Collection | 308389 | [308389-pac-man-collection.json](./308389-pac-man-collection.json) |
 | Pac-Man Collection | 6528 | [6528-pac-man-collection.json](./6528-pac-man-collection.json) |
 | Pac-Man Collection | 80452 | [80452-pac-man-collection.json](./80452-pac-man-collection.json) |
+| Pac-Man Colour Handheld LCD Game | 219385 | [219385-pac-man-colour-handheld-lcd-game.json](./219385-pac-man-colour-handheld-lcd-game.json) |
 | Pac-Man Community | 234815 | [234815-pac-man-community.json](./234815-pac-man-community.json) |
 | Pac-Man Couchcade | 304234 | [304234-pac-man-couchcade.json](./304234-pac-man-couchcade.json) |
 | Pac-Man Dash! | 38692 | [38692-pac-man-dash.json](./38692-pac-man-dash.json) |
+| Pac-Man Desktop Arcade | 219388 | [219388-pac-man-desktop-arcade.json](./219388-pac-man-desktop-arcade.json) |
 | Pac-Man Doom | 262564 | [262564-pac-man-doom.json](./262564-pac-man-doom.json) |
 | Pac-Man Double Feature | 378397 | [378397-pac-man-double-feature.json](./378397-pac-man-double-feature.json) |
 | Pac-Man Escape | 274859 | [274859-pac-man-escape.json](./274859-pac-man-escape.json) |
 | Pac-Man Fever | 4061 | [4061-pac-man-fever.json](./4061-pac-man-fever.json) |
 | Pac-Man Forever | 396714 | [396714-pac-man-forever.json](./396714-pac-man-forever.json) |
+| Pac-Man Game Keyring | 219387 | [219387-pac-man-game-keyring.json](./219387-pac-man-game-keyring.json) |
 | Pac-Man Games | 220257 | [220257-pac-man-games.json](./220257-pac-man-games.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
+| Pac-Man in a Tin | 219374 | [219374-pac-man-in-a-tin.json](./219374-pac-man-in-a-tin.json) |
 | Pac-Man Maker | 28186 | [28186-pac-man-maker.json](./28186-pac-man-maker.json) |
 | Pac-Man Mega Tunnel Battle | 140269 | [140269-pac-man-mega-tunnel-battle.json](./140269-pac-man-mega-tunnel-battle.json) |
 | Pac-Man Mega Tunnel Battle: Chomp Champs - Deluxe Edition | 297307 | [297307-pac-man-mega-tunnel-battle-chomp-champs-deluxe-edition.json](./297307-pac-man-mega-tunnel-battle-chomp-champs-deluxe-edition.json) |
@@ -214,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man S | 64683 | [64683-pac-man-s.json](./64683-pac-man-s.json) |
 | Pac-Man SDL | 334737 | [334737-pac-man-sdl.json](./334737-pac-man-sdl.json) |
 | Pac-Man Social | 64682 | [64682-pac-man-social.json](./64682-pac-man-social.json) |
+| Pac-Man Tilt | 219389 | [219389-pac-man-tilt.json](./219389-pac-man-tilt.json) |
 | Pac-Man VR | 65001 | [65001-pac-man-vr.json](./65001-pac-man-vr.json) |
 | Pac-Man Vs. | 4062 | [4062-pac-man-vs.json](./4062-pac-man-vs.json) |
 | Pac-Man vs. & Pac-Man World 2 | 349360 | [349360-pac-man-vs-and-pac-man-world-2.json](./349360-pac-man-vs-and-pac-man-world-2.json) |
@@ -240,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man: Special Color Edition | 49833 | [49833-pac-man-special-color-edition.json](./49833-pac-man-special-color-edition.json) |
 | Pac-Man: Ticket Mania | 146284 | [146284-pac-man-ticket-mania.json](./146284-pac-man-ticket-mania.json) |
 | Pac-Man's Arcade Party | 220255 | [220255-pac-mans-arcade-party.json](./220255-pac-mans-arcade-party.json) |
+| Pac-Man's Pixel Bash | 219391 | [219391-pac-mans-pixel-bash.json](./219391-pac-mans-pixel-bash.json) |
 | PAC-MANGAMES | 131311 | [131311-pac-mangames.json](./131311-pac-mangames.json) |
 | Pac-Mania | 174623 | [174623-pac-mania.json](./174623-pac-mania.json) |
 | Pac-Mania | 284365 | [284365-pac-mania.json](./284365-pac-mania.json) |
@@ -2154,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Go | 146713 | [146713-parkour-go.json](./146713-parkour-go.json) |
 | Parkour Jump Adventure | 245914 | [245914-parkour-jump-adventure.json](./245914-parkour-jump-adventure.json) |
 | Parkour Labs | 258335 | [258335-parkour-labs.json](./258335-parkour-labs.json) |
+| Parkour Legends | 219401 | [219401-parkour-legends.json](./219401-parkour-legends.json) |
 | Parkour Master | 145024 | [145024-parkour-master.json](./145024-parkour-master.json) |
 | Parkour Master | 204816 | [204816-parkour-master.json](./204816-parkour-master.json) |
 | Parkour Master | 310794 | [310794-parkour-master.json](./310794-parkour-master.json) |
@@ -2609,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Octavius | 243815 | [243815-path-to-octavius.json](./243815-path-to-octavius.json) |
 | Path to Prosperity | 150738 | [150738-path-to-prosperity.json](./150738-path-to-prosperity.json) |
 | Path to Purge | 220461 | [220461-path-to-purge.json](./220461-path-to-purge.json) |
+| Path to Ruin | 219400 | [219400-path-to-ruin.json](./219400-path-to-ruin.json) |
 | Path to Serenity | 350497 | [350497-path-to-serenity.json](./350497-path-to-serenity.json) |
 | Path to Success | 54258 | [54258-path-to-success.json](./54258-path-to-success.json) |
 | Path to Tamer Town | 366097 | [366097-path-to-tamer-town.json](./366097-path-to-tamer-town.json) |
@@ -10418,6 +10427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Hot Pursuit | 193239 | [193239-police-hot-pursuit.json](./193239-police-hot-pursuit.json) |
 | Police hot Tale | 168594 | [168594-police-hot-tale.json](./168594-police-hot-tale.json) |
 | Police Infinity | 59292 | [59292-police-infinity.json](./59292-police-infinity.json) |
+| Police Interceptors | 219395 | [219395-police-interceptors.json](./219395-police-interceptors.json) |
 | Police Monster Drift | 147238 | [147238-police-monster-drift.json](./147238-police-monster-drift.json) |
 | Police Officer | 415218 | [415218-police-officer.json](./415218-police-officer.json) |
 | Police on Duty | 209656 | [209656-police-on-duty.json](./209656-police-on-duty.json) |
@@ -10692,6 +10702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyjump | 366390 | [366390-polyjump.json](./366390-polyjump.json) |
 | PolyKat | 57028 | [57028-polykat.json](./57028-polykat.json) |
 | Polyko's Super Jelly Bean Quest in the Sketchbook of Illusion | 130777 | [130777-polykos-super-jelly-bean-quest-in-the-sketchbook-of-illusion.json](./130777-polykos-super-jelly-bean-quest-in-the-sketchbook-of-illusion.json) |
+| Polylithic | 219396 | [219396-polylithic.json](./219396-polylithic.json) |
 | Polylumina | 388510 | [388510-polylumina.json](./388510-polylumina.json) |
 | Polymaniacs | 183418 | [183418-polymaniacs.json](./183418-polymaniacs.json) |
 | Polymatic | 103624 | [103624-polymatic.json](./103624-polymatic.json) |
