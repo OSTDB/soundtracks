@@ -7794,6 +7794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Absolutely Not Suspicious Cabin in the Woods | 160212 | [160212-an-absolutely-not-suspicious-cabin-in-the-woods.json](./160212-an-absolutely-not-suspicious-cabin-in-the-woods.json) |
 | An Abstract Art Game in 10 Seconds | 319548 | [319548-an-abstract-art-game-in-10-seconds.json](./319548-an-abstract-art-game-in-10-seconds.json) |
 | An Abyss of Dreams | 325339 | [325339-an-abyss-of-dreams.json](./325339-an-abyss-of-dreams.json) |
+| An Act of Murder | 217666 | [217666-an-act-of-murder.json](./217666-an-act-of-murder.json) |
 | An Action Roguelite For When You Have 20 Minutes to Spare | 244828 | [244828-an-action-roguelite-for-when-you-have-20-minutes-to-spare.json](./244828-an-action-roguelite-for-when-you-have-20-minutes-to-spare.json) |
 | An Adventurer's Gallantry | 238518 | [238518-an-adventurers-gallantry.json](./238518-an-adventurers-gallantry.json) |
 | An Adventurer's Tale | 112604 | [112604-an-adventurers-tale.json](./112604-an-adventurers-tale.json) |
