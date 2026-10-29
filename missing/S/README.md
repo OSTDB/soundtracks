@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Legends | 214132 | [214132-samurai-legends.json](./214132-samurai-legends.json) |
 | Samurai Love Ballad: Party | 238893 | [238893-samurai-love-ballad-party.json](./238893-samurai-love-ballad-party.json) |
 | Samurai Maiden | 212269 | [212269-samurai-maiden.json](./212269-samurai-maiden.json) |
+| Samurai Maiden: Deluxe Edition | 223764 | [223764-samurai-maiden-deluxe-edition.json](./223764-samurai-maiden-deluxe-edition.json) |
 | Samurai Mech | 242707 | [242707-samurai-mech.json](./242707-samurai-mech.json) |
 | Samurai Mech II | 242708 | [242708-samurai-mech-ii.json](./242708-samurai-mech-ii.json) |
 | Samurai Nihon-Ichi | 40415 | [40415-samurai-nihon-ichi.json](./40415-samurai-nihon-ichi.json) |
@@ -3321,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Battle Alliance: Deluxe Edition | 212627 | [212627-sd-gundam-battle-alliance-deluxe-edition.json](./212627-sd-gundam-battle-alliance-deluxe-edition.json) |
 | SD Gundam Battle Alliance: Limited Edition | 205271 | [205271-sd-gundam-battle-alliance-limited-edition.json](./205271-sd-gundam-battle-alliance-limited-edition.json) |
 | SD Gundam Battle Alliance: Ultimate Edition | 218498 | [218498-sd-gundam-battle-alliance-ultimate-edition.json](./218498-sd-gundam-battle-alliance-ultimate-edition.json) |
+| SD Gundam Battle Alliance: Unit and Scenario Pack 1 | 223767 | [223767-sd-gundam-battle-alliance-unit-and-scenario-pack-1.json](./223767-sd-gundam-battle-alliance-unit-and-scenario-pack-1.json) |
 | SD Gundam Battle Alliance: Unit and Scenario Pack 2 | 237976 | [237976-sd-gundam-battle-alliance-unit-and-scenario-pack-2.json](./237976-sd-gundam-battle-alliance-unit-and-scenario-pack-2.json) |
 | SD Gundam Battle Alliance: Unit and Scenario Pack 3 | 223572 | [223572-sd-gundam-battle-alliance-unit-and-scenario-pack-3.json](./223572-sd-gundam-battle-alliance-unit-and-scenario-pack-3.json) |
 | SD Gundam Capsule Fighter Online | 63388 | [63388-sd-gundam-capsule-fighter-online.json](./63388-sd-gundam-capsule-fighter-online.json) |
@@ -13573,6 +13575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: The Mastodon | 251989 | [251989-snowrunner-the-mastodon.json](./251989-snowrunner-the-mastodon.json) |
 | SnowRunner: True Colors Vinyl Wrap | 148153 | [148153-snowrunner-true-colors-vinyl-wrap.json](./148153-snowrunner-true-colors-vinyl-wrap.json) |
 | SnowRunner: Western Star 49X | 148147 | [148147-snowrunner-western-star-49x.json](./148147-snowrunner-western-star-49x.json) |
+| SnowRunner: Western Star Wolf Pack | 223766 | [223766-snowrunner-western-star-wolf-pack.json](./223766-snowrunner-western-star-wolf-pack.json) |
 | SnowRunner: Year 1 Pass + Year 2 Pass + Year 3 Pass + Year 4 Pass | 284962 | [284962-snowrunner-year-1-pass-year-2-pass-year-3-pass-year-4-pass.json](./284962-snowrunner-year-1-pass-year-2-pass-year-3-pass-year-4-pass.json) |
 | SnowRunner: Year 3 Pass | 230832 | [230832-snowrunner-year-3-pass.json](./230832-snowrunner-year-3-pass.json) |
 | SnowRunner: Year 4 Pass | 284961 | [284961-snowrunner-year-4-pass.json](./284961-snowrunner-year-4-pass.json) |
@@ -26914,6 +26917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dig Man Deluxe | 339478 | [339478-super-dig-man-deluxe.json](./339478-super-dig-man-deluxe.json) |
 | Super Digestion Moose | 248429 | [248429-super-digestion-moose.json](./248429-super-digestion-moose.json) |
 | Super Dino | 220880 | [220880-super-dino.json](./220880-super-dino.json) |
+| Super Dino: Dino-x Pack | 223795 | [223795-super-dino-dino-x-pack.json](./223795-super-dino-dino-x-pack.json) |
 | Super Dino: Extended Edition | 233907 | [233907-super-dino-extended-edition.json](./233907-super-dino-extended-edition.json) |
 | Super Dirt Racers | 161697 | [161697-super-dirt-racers.json](./161697-super-dirt-racers.json) |
 | Super Disc Soccer | 147462 | [147462-super-disc-soccer.json](./147462-super-disc-soccer.json) |
@@ -31264,6 +31268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synaxarion Christian Stories: Great Martyr Christina of Tyre | 324476 | [324476-synaxarion-christian-stories-great-martyr-christina-of-tyre.json](./324476-synaxarion-christian-stories-great-martyr-christina-of-tyre.json) |
 | Synaxarion Christian Stories: Holy Martyr Neophytos | 313228 | [313228-synaxarion-christian-stories-holy-martyr-neophytos.json](./313228-synaxarion-christian-stories-holy-martyr-neophytos.json) |
 | Synaxarion Christian Stories: Holy Martyr Savvas the Goth | 310445 | [310445-synaxarion-christian-stories-holy-martyr-savvas-the-goth.json](./310445-synaxarion-christian-stories-holy-martyr-savvas-the-goth.json) |
+| Synaxarion: Acts Part 1 | 223765 | [223765-synaxarion-acts-part-1.json](./223765-synaxarion-acts-part-1.json) |
 | Synaxarion: Great Martyr Theodore the Tyro | 306536 | [306536-synaxarion-great-martyr-theodore-the-tyro.json](./306536-synaxarion-great-martyr-theodore-the-tyro.json) |
 | Sync | 296802 | [296802-sync.json](./296802-sync.json) |
 | Sync | 61978 | [61978-sync.json](./61978-sync.json) |
