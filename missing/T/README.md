@@ -922,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Scale | 339628 | [339628-tale-of-scale.json](./339628-tale-of-scale.json) |
 | Tale of Season | 174762 | [174762-tale-of-season.json](./174762-tale-of-season.json) |
 | Tale of Serendipity | 189056 | [189056-tale-of-serendipity.json](./189056-tale-of-serendipity.json) |
+| Tale of six | 193098 | [193098-tale-of-six.json](./193098-tale-of-six.json) |
 | Tale of Souls | 339421 | [339421-tale-of-souls.json](./339421-tale-of-souls.json) |
 | Tale of Specters: Joseon 1592 | 412461 | [412461-tale-of-specters-joseon-1592.json](./412461-tale-of-specters-joseon-1592.json) |
 | Tale of Starship | 126510 | [126510-tale-of-starship.json](./126510-tale-of-starship.json) |
@@ -5464,6 +5465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bakerville Case | 217383 | [217383-the-bakerville-case.json](./217383-the-bakerville-case.json) |
 | The Bakery Tales | 328475 | [328475-the-bakery-tales.json](./328475-the-bakery-tales.json) |
 | The Baldina | 367183 | [367183-the-baldina.json](./367183-the-baldina.json) |
+| The Baleful Tower | 193092 | [193092-the-baleful-tower.json](./193092-the-baleful-tower.json) |
 | The Ball | 363961 | [363961-the-ball.json](./363961-the-ball.json) |
 | The Ball | 9402 | [9402-the-ball.json](./9402-the-ball.json) |
 | The Ball 2 | 224475 | [224475-the-ball-2.json](./224475-the-ball-2.json) |
@@ -6422,6 +6424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Christmas Gifts | 105688 | [105688-the-christmas-gifts.json](./105688-the-christmas-gifts.json) |
 | The Christmas Pickle | 391279 | [391279-the-christmas-pickle.json](./391279-the-christmas-pickle.json) |
 | The Christmas Spirit: Golden Ticket | 187968 | [187968-the-christmas-spirit-golden-ticket.json](./187968-the-christmas-spirit-golden-ticket.json) |
+| The Christmas Spirit: Golden Ticket - Collector's Edition | 193062 | [193062-the-christmas-spirit-golden-ticket-collectors-edition.json](./193062-the-christmas-spirit-golden-ticket-collectors-edition.json) |
 | The Christmas Spirit: Grimm Tales | 139430 | [139430-the-christmas-spirit-grimm-tales.json](./139430-the-christmas-spirit-grimm-tales.json) |
 | The Christmas Spirit: Journey Before Christmas - Collector's Edition | 170211 | [170211-the-christmas-spirit-journey-before-christmas-collectors-edition.json](./170211-the-christmas-spirit-journey-before-christmas-collectors-edition.json) |
 | The Christopher Redemption: I | 276811 | [276811-the-christopher-redemption-i.json](./276811-the-christopher-redemption-i.json) |
@@ -6434,6 +6437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicles of Eleos: The Hall of Azaron | 253408 | [253408-the-chronicles-of-eleos-the-hall-of-azaron.json](./253408-the-chronicles-of-eleos-the-hall-of-azaron.json) |
 | The Chronicles of Emerland Solitaire | 22089 | [22089-the-chronicles-of-emerland-solitaire.json](./22089-the-chronicles-of-emerland-solitaire.json) |
 | The Chronicles of Ezra Blackwell: Episode 1 - Pappi's Peril | 277281 | [277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json](./277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json) |
+| The Chronicles of Hercules II: Wrath of Kronos | 193600 | [193600-the-chronicles-of-hercules-ii-wrath-of-kronos.json](./193600-the-chronicles-of-hercules-ii-wrath-of-kronos.json) |
 | The Chronicles of Hercules: The 12 Labours | 169366 | [169366-the-chronicles-of-hercules-the-12-labours.json](./169366-the-chronicles-of-hercules-the-12-labours.json) |
 | The Chronicles of Jonah and the Whale | 113480 | [113480-the-chronicles-of-jonah-and-the-whale.json](./113480-the-chronicles-of-jonah-and-the-whale.json) |
 | The Chronicles of King Arthur: Episode 1 - Excalibur | 112952 | [112952-the-chronicles-of-king-arthur-episode-1-excalibur.json](./112952-the-chronicles-of-king-arthur-episode-1-excalibur.json) |
@@ -8742,6 +8746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life 2: Fairytale Kingdom World | 171608 | [171608-the-game-of-life-2-fairytale-kingdom-world.json](./171608-the-game-of-life-2-fairytale-kingdom-world.json) |
 | The Game of Life 2: Frozen Lands World | 171516 | [171516-the-game-of-life-2-frozen-lands-world.json](./171516-the-game-of-life-2-frozen-lands-world.json) |
 | The Game of Life 2: Haunted Hills world | 171398 | [171398-the-game-of-life-2-haunted-hills-world.json](./171398-the-game-of-life-2-haunted-hills-world.json) |
+| The Game of Life 2: Lunar Age | 193101 | [193101-the-game-of-life-2-lunar-age.json](./193101-the-game-of-life-2-lunar-age.json) |
 | The Game of Life 2: Sandy Shores World | 171592 | [171592-the-game-of-life-2-sandy-shores-world.json](./171592-the-game-of-life-2-sandy-shores-world.json) |
 | The Game of Life 2: Sweet Haven World | 207800 | [207800-the-game-of-life-2-sweet-haven-world.json](./207800-the-game-of-life-2-sweet-haven-world.json) |
 | The Game of Life 2: Ultimate Life Collection | 228888 | [228888-the-game-of-life-2-ultimate-life-collection.json](./228888-the-game-of-life-2-ultimate-life-collection.json) |
@@ -13254,6 +13259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pocket Arcade | 264008 | [264008-the-pocket-arcade.json](./264008-the-pocket-arcade.json) |
 | The Podlands | 117484 | [117484-the-podlands.json](./117484-the-podlands.json) |
 | The Pointless Car Chase | 121701 | [121701-the-pointless-car-chase.json](./121701-the-pointless-car-chase.json) |
+| The Pointless Car Chase: Refueled | 193607 | [193607-the-pointless-car-chase-refueled.json](./193607-the-pointless-car-chase-refueled.json) |
 | The Poisoner | 118825 | [118825-the-poisoner.json](./118825-the-poisoner.json) |
 | The Polar Explorer: Hokkyoku he no VR Soriasobi | 308903 | [308903-the-polar-explorer-hokkyoku-he-no-vr-soriasobi.json](./308903-the-polar-explorer-hokkyoku-he-no-vr-soriasobi.json) |
 | The Polar Express | 210732 | [210732-the-polar-express.json](./210732-the-polar-express.json) |
@@ -14780,6 +14786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sinking Forest | 328338 | [328338-the-sinking-forest.json](./328338-the-sinking-forest.json) |
 | The Sinking of the Dream Chaser | 257685 | [257685-the-sinking-of-the-dream-chaser.json](./257685-the-sinking-of-the-dream-chaser.json) |
 | The Sinking Structure, Clione, and Lost Child: Log-1 | 193443 | [193443-the-sinking-structure-clione-and-lost-child-log-1.json](./193443-the-sinking-structure-clione-and-lost-child-log-1.json) |
+| The Sinking Structure, Clione, and Lost Child: Log-2 | 193610 | [193610-the-sinking-structure-clione-and-lost-child-log-2.json](./193610-the-sinking-structure-clione-and-lost-child-log-2.json) |
 | The Sinking Structure, Clione, and Lost Child: Log-3 | 192419 | [192419-the-sinking-structure-clione-and-lost-child-log-3.json](./192419-the-sinking-structure-clione-and-lost-child-log-3.json) |
 | The Sinking Structure, Clione, and Lost Child: Log5 | 195225 | [195225-the-sinking-structure-clione-and-lost-child-log5.json](./195225-the-sinking-structure-clione-and-lost-child-log5.json) |
 | The Sins | 267573 | [267573-the-sins.json](./267573-the-sins.json) |
@@ -27209,6 +27216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigaea | 227914 | [227914-trigaea.json](./227914-trigaea.json) |
 | Trigger | 104044 | [104044-trigger.json](./104044-trigger.json) |
 | Trigger | 179070 | [179070-trigger.json](./179070-trigger.json) |
+| Trigger | 193594 | [193594-trigger.json](./193594-trigger.json) |
 | Trigger | 63910 | [63910-trigger.json](./63910-trigger.json) |
 | Trigger Dungeon | 187256 | [187256-trigger-dungeon.json](./187256-trigger-dungeon.json) |
 | Trigger Fever | 254657 | [254657-trigger-fever.json](./254657-trigger-fever.json) |
