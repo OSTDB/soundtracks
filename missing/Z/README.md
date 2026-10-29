@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zed Shot | 107041 | [107041-zed-shot.json](./107041-zed-shot.json) |
 | Zed Zone | 216810 | [216810-zed-zone.json](./216810-zed-zone.json) |
 | ZED: Absolution | 62030 | [62030-zed-absolution.json](./62030-zed-absolution.json) |
+| Zed's Alchemy | 186420 | [186420-zeds-alchemy.json](./186420-zeds-alchemy.json) |
 | Zeddas | 242258 | [242258-zeddas.json](./242258-zeddas.json) |
 | Zeddas: Servant of Sheol | 74003 | [74003-zeddas-servant-of-sheol.json](./74003-zeddas-servant-of-sheol.json) |
 | Zeddytron 2081 | 293360 | [293360-zeddytron-2081.json](./293360-zeddytron-2081.json) |
@@ -1789,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies In Valkeala | 369750 | [369750-zombies-in-valkeala.json](./369750-zombies-in-valkeala.json) |
 | Zombies Inc | 104617 | [104617-zombies-inc.json](./104617-zombies-inc.json) |
 | Zombies Invasion | 204899 | [204899-zombies-invasion.json](./204899-zombies-invasion.json) |
+| Zombies Killer Machine | 186414 | [186414-zombies-killer-machine.json](./186414-zombies-killer-machine.json) |
 | Zombies Killer Machine | 221590 | [221590-zombies-killer-machine.json](./221590-zombies-killer-machine.json) |
 | Zombies Midnight | 207771 | [207771-zombies-midnight.json](./207771-zombies-midnight.json) |
 | Zombies Must Die | 151476 | [151476-zombies-must-die.json](./151476-zombies-must-die.json) |
@@ -2262,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zwaard | 235973 | [235973-zwaard.json](./235973-zwaard.json) |
 | Zwackery | 40975 | [40975-zwackery.json](./40975-zwackery.json) |
 | Zwamman | 395176 | [395176-zwamman.json](./395176-zwamman.json) |
+| Zwart Wit | 187044 | [187044-zwart-wit.json](./187044-zwart-wit.json) |
 | Zwei Trigger | 371565 | [371565-zwei-trigger.json](./371565-zwei-trigger.json) |
 | Zwei: The Ilvard Insurrection | 36701 | [36701-zwei-the-ilvard-insurrection.json](./36701-zwei-the-ilvard-insurrection.json) |
 | Zwei!!: The Arges Adventure | 61631 | [61631-zwei-the-arges-adventure.json](./61631-zwei-the-arges-adventure.json) |
