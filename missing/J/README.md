@@ -1498,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Dinosaurs | 284945 | [284945-jigsaw-dinosaurs.json](./284945-jigsaw-dinosaurs.json) |
 | Jigsaw Explorer | 290261 | [290261-jigsaw-explorer.json](./290261-jigsaw-explorer.json) |
 | Jigsaw Fantastic Pets | 284944 | [284944-jigsaw-fantastic-pets.json](./284944-jigsaw-fantastic-pets.json) |
+| Jigsaw Finale | 178781 | [178781-jigsaw-finale.json](./178781-jigsaw-finale.json) |
 | Jigsaw Frame: Relax | 162996 | [162996-jigsaw-frame-relax.json](./162996-jigsaw-frame-relax.json) |
 | Jigsaw Fun 3-in-1 Collection | 197341 | [197341-jigsaw-fun-3-in-1-collection.json](./197341-jigsaw-fun-3-in-1-collection.json) |
 | Jigsaw Fun: 3-in-1 Collection | 196259 | [196259-jigsaw-fun-3-in-1-collection.json](./196259-jigsaw-fun-3-in-1-collection.json) |
