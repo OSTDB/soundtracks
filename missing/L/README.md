@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lag Simulator | 343958 | [343958-lag-simulator.json](./343958-lag-simulator.json) |
 | Lagaf': Les Aventures de Moktar: Vol 1 - La Zoubida | 307197 | [307197-lagaf-les-aventures-de-moktar-vol-1-la-zoubida.json](./307197-lagaf-les-aventures-de-moktar-vol-1-la-zoubida.json) |
 | Laggerjack | 334813 | [334813-laggerjack.json](./334813-laggerjack.json) |
+| Lagnacure | 213197 | [213197-lagnacure.json](./213197-lagnacure.json) |
 | Lagnacure Legend | 93533 | [93533-lagnacure-legend.json](./93533-lagnacure-legend.json) |
 | Lagoda Odyssey | 231583 | [231583-lagoda-odyssey.json](./231583-lagoda-odyssey.json) |
 | Lagoon | 276473 | [276473-lagoon.json](./276473-lagoon.json) |
@@ -663,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land94 | 300266 | [300266-land94.json](./300266-land94.json) |
 | Landborne | 250036 | [250036-landborne.json](./250036-landborne.json) |
 | Landbound | 235949 | [235949-landbound.json](./235949-landbound.json) |
+| LandBox | 213164 | [213164-landbox.json](./213164-landbox.json) |
 | LandCombat: Ren | 193243 | [193243-landcombat-ren.json](./193243-landcombat-ren.json) |
 | Landelver | 285970 | [285970-landelver.json](./285970-landelver.json) |
 | Lander 8009 VR | 37039 | [37039-lander-8009-vr.json](./37039-lander-8009-vr.json) |
@@ -5339,6 +5341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Ninja Brothers | 26599 | [26599-little-ninja-brothers.json](./26599-little-ninja-brothers.json) |
 | Little Noah: Scion of Paradise | 206809 | [206809-little-noah-scion-of-paradise.json](./206809-little-noah-scion-of-paradise.json) |
 | Little Noah: Scion of Paradise - Avatar, Lilliput, and Accessory Pack | 223577 | [223577-little-noah-scion-of-paradise-avatar-lilliput-and-accessory-pack.json](./223577-little-noah-scion-of-paradise-avatar-lilliput-and-accessory-pack.json) |
+| Little Noah: Scion of Paradise - Special Edition | 213141 | [213141-little-noah-scion-of-paradise-special-edition.json](./213141-little-noah-scion-of-paradise-special-edition.json) |
 | Little Number Daycare: Learn, Count, Say, Play for Toddlers | 409538 | [409538-little-number-daycare-learn-count-say-play-for-toddlers.json](./409538-little-number-daycare-learn-count-say-play-for-toddlers.json) |
 | Little Octopus | 157956 | [157956-little-octopus.json](./157956-little-octopus.json) |
 | Little Odyssey | 253473 | [253473-little-odyssey.json](./253473-little-odyssey.json) |
@@ -5582,6 +5585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Adventure | 187298 | [187298-live-adventure.json](./187298-live-adventure.json) |
 | Live Ammo | 93030 | [93030-live-ammo.json](./93030-live-ammo.json) |
 | Live and Learn | 76931 | [76931-live-and-learn.json](./76931-live-and-learn.json) |
+| Live Art | 213147 | [213147-live-art.json](./213147-live-art.json) |
 | Live at Strummer's Pond | 253498 | [253498-live-at-strummers-pond.json](./253498-live-at-strummers-pond.json) |
 | Live Bingo | 186058 | [186058-live-bingo.json](./186058-live-bingo.json) |
 | Live By Night: The Chase | 54904 | [54904-live-by-night-the-chase.json](./54904-live-by-night-the-chase.json) |
