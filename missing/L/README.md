@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labor Power | 312301 | [312301-labor-power.json](./312301-labor-power.json) |
 | Labor Rights Funeral in Ukraine | 379962 | [379962-labor-rights-funeral-in-ukraine.json](./379962-labor-rights-funeral-in-ukraine.json) |
 | Laboratoriya | 183751 | [183751-laboratoriya.json](./183751-laboratoriya.json) |
+| Laboratory | 187646 | [187646-laboratory.json](./187646-laboratory.json) |
 | Laboratory 3D | 323664 | [323664-laboratory-3d.json](./323664-laboratory-3d.json) |
 | Laboratory Rat Escape Simulator Pro | 213213 | [213213-laboratory-rat-escape-simulator-pro.json](./213213-laboratory-rat-escape-simulator-pro.json) |
 | Laboratory X-29 | 258550 | [258550-laboratory-x-29.json](./258550-laboratory-x-29.json) |
