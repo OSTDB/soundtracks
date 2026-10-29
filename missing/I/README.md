@@ -1132,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idiot Maiden | 249619 | [249619-idiot-maiden.json](./249619-idiot-maiden.json) |
 | Idiot Squad | 52247 | [52247-idiot-squad.json](./52247-idiot-squad.json) |
 | Idiot Test | 122436 | [122436-idiot-test.json](./122436-idiot-test.json) |
+| Idiotic | 190826 | [190826-idiotic.json](./190826-idiotic.json) |
 | Idiotic Dots | 316742 | [316742-idiotic-dots.json](./316742-idiotic-dots.json) |
 | Idiots In The Das | 342599 | [342599-idiots-in-the-das.json](./342599-idiots-in-the-das.json) |
 | Idiots' Fantasy | 276247 | [276247-idiots-fantasy.json](./276247-idiots-fantasy.json) |
@@ -2266,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iMP: Surf the Music | 100197 | [100197-imp-surf-the-music.json](./100197-imp-surf-the-music.json) |
 | Impact | 257890 | [257890-impact.json](./257890-impact.json) |
 | Impact | 340505 | [340505-impact.json](./340505-impact.json) |
+| Impact of Power | 191376 | [191376-impact-of-power.json](./191376-impact-of-power.json) |
 | Impact Racing | 20250 | [20250-impact-racing.json](./20250-impact-racing.json) |
 | Impact Space | 212292 | [212292-impact-space.json](./212292-impact-space.json) |
 | Impact to the Head | 408246 | [408246-impact-to-the-head.json](./408246-impact-to-the-head.json) |
