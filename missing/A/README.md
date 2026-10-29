@@ -7211,6 +7211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazeing Lemons | 75901 | [75901-amazeing-lemons.json](./75901-amazeing-lemons.json) |
 | Amazeing Racer | 372647 | [372647-amazeing-racer.json](./372647-amazeing-racer.json) |
 | Amazething | 154020 | [154020-amazething.json](./154020-amazething.json) |
+| Amazin' George 2 | 187662 | [187662-amazin-george-2.json](./187662-amazin-george-2.json) |
 | Amazin' George 2: Digital Deluxe | 212279 | [212279-amazin-george-2-digital-deluxe.json](./212279-amazin-george-2-digital-deluxe.json) |
 | Amazin' Lumo | 207895 | [207895-amazin-lumo.json](./207895-amazin-lumo.json) |
 | Amazin' Mage | 270867 | [270867-amazin-mage.json](./270867-amazin-mage.json) |
@@ -10293,6 +10294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apothecurse | 334175 | [334175-apothecurse.json](./334175-apothecurse.json) |
 | Apotheker | 141880 | [141880-apotheker.json](./141880-apotheker.json) |
 | Apotheon Arena | 34065 | [34065-apotheon-arena.json](./34065-apotheon-arena.json) |
+| Apotheorasis: Lab of the Blind Gods | 187657 | [187657-apotheorasis-lab-of-the-blind-gods.json](./187657-apotheorasis-lab-of-the-blind-gods.json) |
 | Apotheosis | 211437 | [211437-apotheosis.json](./211437-apotheosis.json) |
 | Apotheosis Engine | 399701 | [399701-apotheosis-engine.json](./399701-apotheosis-engine.json) |
 | Apotheosis X | 252089 | [252089-apotheosis-x.json](./252089-apotheosis-x.json) |
@@ -10910,6 +10912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Haunted Castle | 99487 | [99487-arcade-archives-haunted-castle.json](./99487-arcade-archives-haunted-castle.json) |
 | Arcade Archives: Heroic Episode | 88594 | [88594-arcade-archives-heroic-episode.json](./88594-arcade-archives-heroic-episode.json) |
 | Arcade Archives: Highway Race | 192078 | [192078-arcade-archives-highway-race.json](./192078-arcade-archives-highway-race.json) |
+| Arcade Archives: Hopping Mappy | 187667 | [187667-arcade-archives-hopping-mappy.json](./187667-arcade-archives-hopping-mappy.json) |
 | Arcade Archives: Hyper Crash | 409673 | [409673-arcade-archives-hyper-crash.json](./409673-arcade-archives-hyper-crash.json) |
 | Arcade Archives: Hyper Sports | 126493 | [126493-arcade-archives-hyper-sports.json](./126493-arcade-archives-hyper-sports.json) |
 | Arcade Archives: Ice Climber | 68333 | [68333-arcade-archives-ice-climber.json](./68333-arcade-archives-ice-climber.json) |
@@ -15840,6 +15843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awe | 20352 | [20352-awe.json](./20352-awe.json) |
 | Awe | 284564 | [284564-awe.json](./284564-awe.json) |
 | Awe of Despair | 75811 | [75811-awe-of-despair.json](./75811-awe-of-despair.json) |
+| Awekening of Cthulhu | 187674 | [187674-awekening-of-cthulhu.json](./187674-awekening-of-cthulhu.json) |
 | Awele/Oware: Mancala | 89069 | [89069-awele-oware-mancala.json](./89069-awele-oware-mancala.json) |
 | Awesome Animated Monster Maker | 115070 | [115070-awesome-animated-monster-maker.json](./115070-awesome-animated-monster-maker.json) |
 | Awesome Animated Monster Maker: Ultra Edition | 109179 | [109179-awesome-animated-monster-maker-ultra-edition.json](./109179-awesome-animated-monster-maker-ultra-edition.json) |
