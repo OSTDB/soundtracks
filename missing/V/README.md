@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Invasion | 67331 | [67331-viking-invasion.json](./67331-viking-invasion.json) |
 | Viking Invasion 2 - Tower Defense | 85476 | [85476-viking-invasion-2-tower-defense.json](./85476-viking-invasion-2-tower-defense.json) |
 | Viking Rage VR | 28534 | [28534-viking-rage-vr.json](./28534-viking-rage-vr.json) |
+| Viking Raider | 208118 | [208118-viking-raider.json](./208118-viking-raider.json) |
 | Viking Raider | 24666 | [24666-viking-raider.json](./24666-viking-raider.json) |
 | Viking Raiders | 415427 | [415427-viking-raiders.json](./415427-viking-raiders.json) |
 | Viking Rise | 246290 | [246290-viking-rise.json](./246290-viking-rise.json) |
@@ -3088,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volleyball Simulator | 111900 | [111900-volleyball-simulator.json](./111900-volleyball-simulator.json) |
 | Volleyball Trainer: The Legend of Sports | 224211 | [224211-volleyball-trainer-the-legend-of-sports.json](./224211-volleyball-trainer-the-legend-of-sports.json) |
 | Volleyball Xciting | 79579 | [79579-volleyball-xciting.json](./79579-volleyball-xciting.json) |
+| Volleyball: Spike Master | 208117 | [208117-volleyball-spike-master.json](./208117-volleyball-spike-master.json) |
 | Volleyball! | 109453 | [109453-volleyball.json](./109453-volleyball.json) |
 | Volleyborne: Unbound Horizons | 322076 | [322076-volleyborne-unbound-horizons.json](./322076-volleyborne-unbound-horizons.json) |
 | VolleyBrawl | 132502 | [132502-volleybrawl.json](./132502-volleybrawl.json) |
