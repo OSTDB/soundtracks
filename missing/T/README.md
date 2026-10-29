@@ -2390,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tattoos and Tulips | 257976 | [257976-tattoos-and-tulips.json](./257976-tattoos-and-tulips.json) |
 | TattooVR | 326179 | [326179-tattoovr.json](./326179-tattoovr.json) |
 | TatuBall | 175643 | [175643-tatuball.json](./175643-tatuball.json) |
+| Tatusino | 228743 | [228743-tatusino.json](./228743-tatusino.json) |
 | Tatvalok | 380542 | [380542-tatvalok.json](./380542-tatvalok.json) |
 | Tau | 256210 | [256210-tau.json](./256210-tau.json) |
 | Tau Ceti | 26342 | [26342-tau-ceti.json](./26342-tau-ceti.json) |
@@ -6583,6 +6584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Conveni: Ano Machi wo Dokusen Seyo | 178558 | [178558-the-conveni-ano-machi-wo-dokusen-seyo.json](./178558-the-conveni-ano-machi-wo-dokusen-seyo.json) |
 | The Convenience Store | 129292 | [129292-the-convenience-store.json](./129292-the-convenience-store.json) |
 | The Cook in the Court of the Count | 397669 | [397669-the-cook-in-the-court-of-the-count.json](./397669-the-cook-in-the-court-of-the-count.json) |
+| The Cooking Class | 228651 | [228651-the-cooking-class.json](./228651-the-cooking-class.json) |
 | The Cooking Club | 343206 | [343206-the-cooking-club.json](./343206-the-cooking-club.json) |
 | The Cooking Game | 32134 | [32134-the-cooking-game.json](./32134-the-cooking-game.json) |
 | The Cooking Game VR | 104045 | [104045-the-cooking-game-vr.json](./104045-the-cooking-game-vr.json) |
@@ -11392,6 +11394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Match Girl and Her Friend, the Crow | 290405 | [290405-the-little-match-girl-and-her-friend-the-crow.json](./290405-the-little-match-girl-and-her-friend-the-crow.json) |
 | The Little Match Girl, by Hans Christian Andersen | 290401 | [290401-the-little-match-girl-by-hans-christian-andersen.json](./290401-the-little-match-girl-by-hans-christian-andersen.json) |
 | The Little Mermaid | 255682 | [255682-the-little-mermaid.json](./255682-the-little-mermaid.json) |
+| The Little Mermaid Pinball | 228672 | [228672-the-little-mermaid-pinball.json](./228672-the-little-mermaid-pinball.json) |
 | The Little Mermaid: Ariel and the Star Festival | 312065 | [312065-the-little-mermaid-ariel-and-the-star-festival.json](./312065-the-little-mermaid-ariel-and-the-star-festival.json) |
 | The Little Mermaid: Princess of the Underwater Kingdoms | 289367 | [289367-the-little-mermaid-princess-of-the-underwater-kingdoms.json](./289367-the-little-mermaid-princess-of-the-underwater-kingdoms.json) |
 | The Little Mermaid: The Wedding | 371003 | [371003-the-little-mermaid-the-wedding.json](./371003-the-little-mermaid-the-wedding.json) |
@@ -12138,6 +12141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mobius: Apartment | 322635 | [322635-the-mobius-apartment.json](./322635-the-mobius-apartment.json) |
 | The Modern Atlas | 404779 | [404779-the-modern-atlas.json](./404779-the-modern-atlas.json) |
 | The Mofflys: Invasion Mayhem | 278509 | [278509-the-mofflys-invasion-mayhem.json](./278509-the-mofflys-invasion-mayhem.json) |
+| The Mold Exorcist | 228751 | [228751-the-mold-exorcist.json](./228751-the-mold-exorcist.json) |
 | The Molfar: Call of Heart | 367932 | [367932-the-molfar-call-of-heart.json](./367932-the-molfar-call-of-heart.json) |
 | The Mom | 285849 | [285849-the-mom.json](./285849-the-mom.json) |
 | The Moment of Memory | 369348 | [369348-the-moment-of-memory.json](./369348-the-moment-of-memory.json) |
@@ -13406,6 +13410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quivering | 8943 | [8943-the-quivering.json](./8943-the-quivering.json) |
 | The Quiz Gear Fight!! | 46601 | [46601-the-quiz-gear-fight.json](./46601-the-quiz-gear-fight.json) |
 | The Quiz Quest | 400366 | [400366-the-quiz-quest.json](./400366-the-quiz-quest.json) |
+| The Quiz Room | 228657 | [228657-the-quiz-room.json](./228657-the-quiz-room.json) |
 | The Quizard's Domain | 300651 | [300651-the-quizards-domain.json](./300651-the-quizards-domain.json) |
 | The Rabbit and Tamaki are Taking a Break! | 286106 | [286106-the-rabbit-and-tamaki-are-taking-a-break.json](./286106-the-rabbit-and-tamaki-are-taking-a-break.json) |
 | The Rabbit and the Owl | 51612 | [51612-the-rabbit-and-the-owl.json](./51612-the-rabbit-and-the-owl.json) |
@@ -13649,6 +13654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rewinder: Definitive Edition | 294824 | [294824-the-rewinder-definitive-edition.json](./294824-the-rewinder-definitive-edition.json) |
 | The Rewinder: Root of Evil | 267364 | [267364-the-rewinder-root-of-evil.json](./267364-the-rewinder-root-of-evil.json) |
 | The Rewrite Journal | 297573 | [297573-the-rewrite-journal.json](./297573-the-rewrite-journal.json) |
+| The Rex T | 228761 | [228761-the-rex-t.json](./228761-the-rex-t.json) |
 | The Rez! | 327293 | [327293-the-rez.json](./327293-the-rez.json) |
 | The Rhapsody of Zephyr Remastered | 416992 | [416992-the-rhapsody-of-zephyr-remastered.json](./416992-the-rhapsody-of-zephyr-remastered.json) |
 | The Rhine Railway: Mannheim - Karlsruhe Collection | 53783 | [53783-the-rhine-railway-mannheim-karlsruhe-collection.json](./53783-the-rhine-railway-mannheim-karlsruhe-collection.json) |
@@ -19834,6 +19840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilting | 416794 | [416794-tilting.json](./416794-tilting.json) |
 | Tilting Tiles: Fires of Industry | 319945 | [319945-tilting-tiles-fires-of-industry.json](./319945-tilting-tiles-fires-of-industry.json) |
 | Tilting Tiles: Micro Challenge | 250553 | [250553-tilting-tiles-micro-challenge.json](./250553-tilting-tiles-micro-challenge.json) |
+| Tilting Tiles: Ultimate Tilt Remix | 228766 | [228766-tilting-tiles-ultimate-tilt-remix.json](./228766-tilting-tiles-ultimate-tilt-remix.json) |
 | TiltMaze | 90727 | [90727-tiltmaze.json](./90727-tiltmaze.json) |
 | Tiltoff | 141803 | [141803-tiltoff.json](./141803-tiltoff.json) |
 | Tiltspace | 167673 | [167673-tiltspace.json](./167673-tiltspace.json) |
@@ -23051,6 +23058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou 3D Dungeon | 152988 | [152988-touhou-3d-dungeon.json](./152988-touhou-3d-dungeon.json) |
 | Touhou Adventure | 189858 | [189858-touhou-adventure.json](./189858-touhou-adventure.json) |
 | Touhou Arcadia Record | 212442 | [212442-touhou-arcadia-record.json](./212442-touhou-arcadia-record.json) |
+| Touhou Artificial Dream in Arcadia | 228758 | [228758-touhou-artificial-dream-in-arcadia.json](./228758-touhou-artificial-dream-in-arcadia.json) |
 | Touhou Asked | 109351 | [109351-touhou-asked.json](./109351-touhou-asked.json) |
 | Touhou Baisyunyado: Soap of Royal Road | 138029 | [138029-touhou-baisyunyado-soap-of-royal-road.json](./138029-touhou-baisyunyado-soap-of-royal-road.json) |
 | Touhou Big Big Battle: The Justice | 210216 | [210216-touhou-big-big-battle-the-justice.json](./210216-touhou-big-big-battle-the-justice.json) |
