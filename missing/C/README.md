@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Machine | 28333 | [28333-candy-machine.json](./28333-candy-machine.json) |
 | Candy Magic | 384568 | [384568-candy-magic.json](./384568-candy-magic.json) |
 | Candy Maid | 224777 | [224777-candy-maid.json](./224777-candy-maid.json) |
+| Candy Maker | 192583 | [192583-candy-maker.json](./192583-candy-maker.json) |
 | Candy Makeup Beauty Game | 86790 | [86790-candy-makeup-beauty-game.json](./86790-candy-makeup-beauty-game.json) |
 | Candy Makeup Party Salon | 90185 | [90185-candy-makeup-party-salon.json](./90185-candy-makeup-party-salon.json) |
 | Candy Mandy | 114956 | [114956-candy-mandy.json](./114956-candy-mandy.json) |
@@ -5510,6 +5511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasm Crawl | 277761 | [277761-chasm-crawl.json](./277761-chasm-crawl.json) |
 | Chasmal | 231798 | [231798-chasmal.json](./231798-chasmal.json) |
 | Chaste Tris | 202615 | [202615-chaste-tris.json](./202615-chaste-tris.json) |
+| Chastity Catastrophe | 192588 | [192588-chastity-catastrophe.json](./192588-chastity-catastrophe.json) |
 | Chat Arena | 115424 | [115424-chat-arena.json](./115424-chat-arena.json) |
 | Chat Guess Games | 280857 | [280857-chat-guess-games.json](./280857-chat-guess-games.json) |
 | Chat Noir | 319438 | [319438-chat-noir.json](./319438-chat-noir.json) |
@@ -5870,6 +5872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Club | 193694 | [193694-chess-club.json](./193694-chess-club.json) |
 | Chess Club Valley | 303527 | [303527-chess-club-valley.json](./303527-chess-club-valley.json) |
 | Chess Corp | 216701 | [216701-chess-corp.json](./216701-chess-corp.json) |
+| Chess Crown | 192556 | [192556-chess-crown.json](./192556-chess-crown.json) |
 | Chess Cubed | 90436 | [90436-chess-cubed.json](./90436-chess-cubed.json) |
 | Chess Defense Saga | 234200 | [234200-chess-defense-saga.json](./234200-chess-defense-saga.json) |
 | Chess Deluxe | 86703 | [86703-chess-deluxe.json](./86703-chess-deluxe.json) |
@@ -7697,6 +7700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cineminha | 290096 | [290096-cineminha.json](./290096-cineminha.json) |
 | Cinemoji | 164959 | [164959-cinemoji.json](./164959-cinemoji.json) |
 | Cinemoji: Halloween | 181036 | [181036-cinemoji-halloween.json](./181036-cinemoji-halloween.json) |
+| Cinemoji: Series | 192585 | [192585-cinemoji-series.json](./192585-cinemoji-series.json) |
 | CineNerdle | 231638 | [231638-cinenerdle.json](./231638-cinenerdle.json) |
 | CineNerdle | 231639 | [231639-cinenerdle.json](./231639-cinenerdle.json) |
 | Cinescape VR | 349754 | [349754-cinescape-vr.json](./349754-cinescape-vr.json) |
@@ -11922,6 +11926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of Chesterwoode | 73222 | [73222-conquest-of-chesterwoode.json](./73222-conquest-of-chesterwoode.json) |
 | Conquest of Elysium 2 | 326798 | [326798-conquest-of-elysium-2.json](./326798-conquest-of-elysium-2.json) |
 | Conquest of Elysium 4 | 24605 | [24605-conquest-of-elysium-4.json](./24605-conquest-of-elysium-4.json) |
+| Conquest of Empires | 192578 | [192578-conquest-of-empires.json](./192578-conquest-of-empires.json) |
 | Conquest of Empires 2 | 272191 | [272191-conquest-of-empires-2.json](./272191-conquest-of-empires-2.json) |
 | Conquest of Helios | 204202 | [204202-conquest-of-helios.json](./204202-conquest-of-helios.json) |
 | Conquest of Japan | 73770 | [73770-conquest-of-japan.json](./73770-conquest-of-japan.json) |
@@ -16360,6 +16365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Gal Mahjong | 123070 | [123070-crystal-gal-mahjong.json](./123070-crystal-gal-mahjong.json) |
 | Crystal Gal Mahjong II | 123071 | [123071-crystal-gal-mahjong-ii.json](./123071-crystal-gal-mahjong-ii.json) |
 | Crystal Garden | 386998 | [386998-crystal-garden.json](./386998-crystal-garden.json) |
+| Crystal Goddess | 192546 | [192546-crystal-goddess.json](./192546-crystal-goddess.json) |
 | Crystal Guard TD | 291368 | [291368-crystal-guard-td.json](./291368-crystal-guard-td.json) |
 | Crystal Guardian | 296668 | [296668-crystal-guardian.json](./296668-crystal-guardian.json) |
 | Crystal Guardians | 240672 | [240672-crystal-guardians.json](./240672-crystal-guardians.json) |
