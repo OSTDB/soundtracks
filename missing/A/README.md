@@ -1049,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Soup of Mind | 382278 | [382278-a-soup-of-mind.json](./382278-a-soup-of-mind.json) |
 | A Space for the Unbound | 110039 | [110039-a-space-for-the-unbound.json](./110039-a-space-for-the-unbound.json) |
 | A Space for the Unbound: Special Edition | 283586 | [283586-a-space-for-the-unbound-special-edition.json](./283586-a-space-for-the-unbound-special-edition.json) |
+| A Space Odyssey | 189289 | [189289-a-space-odyssey.json](./189289-a-space-odyssey.json) |
 | A Spaceman Came Travelling | 177444 | [177444-a-spaceman-came-travelling.json](./177444-a-spaceman-came-travelling.json) |
 | A Spaceship Accident | 372446 | [372446-a-spaceship-accident.json](./372446-a-spaceship-accident.json) |
 | A Special Place In Hell | 249066 | [249066-a-special-place-in-hell.json](./249066-a-special-place-in-hell.json) |
@@ -2714,6 +2715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam's Memories | 190889 | [190889-adams-memories.json](./190889-adams-memories.json) |
 | Adam's Venture: Origins | 16298 | [16298-adams-venture-origins.json](./16298-adams-venture-origins.json) |
 | Adam's Venture: Origins - Deluxe Edition | 118747 | [118747-adams-venture-origins-deluxe-edition.json](./118747-adams-venture-origins-deluxe-edition.json) |
+| Adamanta View | 189328 | [189328-adamanta-view.json](./189328-adamanta-view.json) |
 | Adamantine Cruelty | 271248 | [271248-adamantine-cruelty.json](./271248-adamantine-cruelty.json) |
 | Adanath | 219701 | [219701-adanath.json](./219701-adanath.json) |
 | Adapt | 118085 | [118085-adapt.json](./118085-adapt.json) |
@@ -3909,6 +3911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterwards | 177724 | [177724-afterwards.json](./177724-afterwards.json) |
 | Afterworld | 288746 | [288746-afterworld.json](./288746-afterworld.json) |
 | Afterworld | 62014 | [62014-afterworld.json](./62014-afterworld.json) |
+| Afterworld King | 189321 | [189321-afterworld-king.json](./189321-afterworld-king.json) |
 | Afterworld: The Age of Tomorrow | 141501 | [141501-afterworld-the-age-of-tomorrow.json](./141501-afterworld-the-age-of-tomorrow.json) |
 | AfterZoom | 84738 | [84738-afterzoom.json](./84738-afterzoom.json) |
 | AftLife: Girl and Cats, and Lost World | 284326 | [284326-aftlife-girl-and-cats-and-lost-world.json](./284326-aftlife-girl-and-cats-and-lost-world.json) |
@@ -9914,6 +9917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anything Simulator | 391181 | [391181-anything-simulator.json](./391181-anything-simulator.json) |
 | Anytime Pool | 65488 | [65488-anytime-pool.json](./65488-anytime-pool.json) |
 | Anyu | 252318 | [252318-anyu.json](./252318-anyu.json) |
+| Anyway | 189312 | [189312-anyway.json](./189312-anyway.json) |
 | AnyWay! | 102412 | [102412-anyway.json](./102412-anyway.json) |
 | AnyWay!: Challenge #1 | 151558 | [151558-anyway-challenge-1.json](./151558-anyway-challenge-1.json) |
 | Anywhere RPG | 422686 | [422686-anywhere-rpg.json](./422686-anywhere-rpg.json) |
@@ -12597,6 +12601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrowmancer | 176690 | [176690-arrowmancer.json](./176690-arrowmancer.json) |
 | Arrowmania | 284355 | [284355-arrowmania.json](./284355-arrowmania.json) |
 | ArrowMongers | 240808 | [240808-arrowmongers.json](./240808-arrowmongers.json) |
+| Arrows | 189337 | [189337-arrows.json](./189337-arrows.json) |
 | Arrows and Antiquity | 274377 | [274377-arrows-and-antiquity.json](./274377-arrows-and-antiquity.json) |
 | Arrows Left | 242505 | [242505-arrows-left.json](./242505-arrows-left.json) |
 | Arrows: Puzzle Escape | 383565 | [383565-arrows-puzzle-escape.json](./383565-arrows-puzzle-escape.json) |
@@ -13757,6 +13762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Farmer | 134972 | [134972-asteroid-farmer.json](./134972-asteroid-farmer.json) |
 | Asteroid Fight | 32257 | [32257-asteroid-fight.json](./32257-asteroid-fight.json) |
 | Asteroid Fire | 40722 | [40722-asteroid-fire.json](./40722-asteroid-fire.json) |
+| Asteroid Force | 189310 | [189310-asteroid-force.json](./189310-asteroid-force.json) |
 | Asteroid Forward | 369344 | [369344-asteroid-forward.json](./369344-asteroid-forward.json) |
 | Asteroid Hunter | 67932 | [67932-asteroid-hunter.json](./67932-asteroid-hunter.json) |
 | Asteroid Invaders | 120375 | [120375-asteroid-invaders.json](./120375-asteroid-invaders.json) |
