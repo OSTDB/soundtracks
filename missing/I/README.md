@@ -4529,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into Magicland | 45342 | [45342-into-magicland.json](./45342-into-magicland.json) |
 | Into Oblivion | 301586 | [301586-into-oblivion.json](./301586-into-oblivion.json) |
 | Into Oblivion | 46748 | [46748-into-oblivion.json](./46748-into-oblivion.json) |
+| Into Outer Bass | 184713 | [184713-into-outer-bass.json](./184713-into-outer-bass.json) |
 | Into Ruins | 224107 | [224107-into-ruins.json](./224107-into-ruins.json) |
 | Into Samomor | 247915 | [247915-into-samomor.json](./247915-into-samomor.json) |
 | Into Sandy's Cities | 314149 | [314149-into-sandys-cities.json](./314149-into-sandys-cities.json) |
