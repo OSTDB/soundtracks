@@ -9105,6 +9105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Greatest Chef | 322098 | [322098-the-greatest-chef.json](./322098-the-greatest-chef.json) |
 | The Greatest Game in the World | 182975 | [182975-the-greatest-game-in-the-world.json](./182975-the-greatest-game-in-the-world.json) |
 | The Greatest Survival | 176149 | [176149-the-greatest-survival.json](./176149-the-greatest-survival.json) |
+| The Greedy Cave 2: Time Gate | 208123 | [208123-the-greedy-cave-2-time-gate.json](./208123-the-greedy-cave-2-time-gate.json) |
 | The Greedy MaxCoon | 96658 | [96658-the-greedy-maxcoon.json](./96658-the-greedy-maxcoon.json) |
 | The Green Book | 311569 | [311569-the-green-book.json](./311569-the-green-book.json) |
 | The Green Hook Fighter | 377075 | [377075-the-green-hook-fighter.json](./377075-the-green-hook-fighter.json) |
@@ -16389,6 +16390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: A New Frontier - Episode 4: Thicker Than Water | 127065 | [127065-the-walking-dead-a-new-frontier-episode-4-thicker-than-water.json](./127065-the-walking-dead-a-new-frontier-episode-4-thicker-than-water.json) |
 | The Walking Dead: A New Frontier - Episode 5: From the Gallows | 127066 | [127066-the-walking-dead-a-new-frontier-episode-5-from-the-gallows.json](./127066-the-walking-dead-a-new-frontier-episode-5-from-the-gallows.json) |
 | The Walking Dead: Aftermath | 410938 | [410938-the-walking-dead-aftermath.json](./410938-the-walking-dead-aftermath.json) |
+| The Walking Dead: All-Stars | 208122 | [208122-the-walking-dead-all-stars.json](./208122-the-walking-dead-all-stars.json) |
 | The Walking Dead: Assault | 22173 | [22173-the-walking-dead-assault.json](./22173-the-walking-dead-assault.json) |
 | The Walking Dead: Betrayal | 259748 | [259748-the-walking-dead-betrayal.json](./259748-the-walking-dead-betrayal.json) |
 | The Walking Dead: Destinies | 262261 | [262261-the-walking-dead-destinies.json](./262261-the-walking-dead-destinies.json) |
@@ -16826,6 +16828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wolf's Hunt | 288619 | [288619-the-wolfs-hunt.json](./288619-the-wolfs-hunt.json) |
 | The Woman Above | 398476 | [398476-the-woman-above.json](./398476-the-woman-above.json) |
 | The Wonder Pets!: Save the Animals! | 124088 | [124088-the-wonder-pets-save-the-animals.json](./124088-the-wonder-pets-save-the-animals.json) |
+| The Wonder Stone | 208137 | [208137-the-wonder-stone.json](./208137-the-wonder-stone.json) |
 | The Wonder Sword | 327585 | [327585-the-wonder-sword.json](./327585-the-wonder-sword.json) |
 | The Wonderful 101 | 264890 | [264890-the-wonderful-101.json](./264890-the-wonderful-101.json) |
 | The Wonderful 101: Remastered | 129240 | [129240-the-wonderful-101-remastered.json](./129240-the-wonderful-101-remastered.json) |
@@ -17921,6 +17924,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms: Fate of the Dragon | 6985 | [6985-three-kingdoms-fate-of-the-dragon.json](./6985-three-kingdoms-fate-of-the-dragon.json) |
 | Three Kingdoms: Hero Wars | 208053 | [208053-three-kingdoms-hero-wars.json](./208053-three-kingdoms-hero-wars.json) |
 | Three Kingdoms: Legends of Heroes | 108406 | [108406-three-kingdoms-legends-of-heroes.json](./108406-three-kingdoms-legends-of-heroes.json) |
+| Three Kingdoms: Legends of War | 208124 | [208124-three-kingdoms-legends-of-war.json](./208124-three-kingdoms-legends-of-war.json) |
+| Three Kingdoms: Overlord | 208125 | [208125-three-kingdoms-overlord.json](./208125-three-kingdoms-overlord.json) |
 | Three Kingdoms: Shu-han Chronicles | 345028 | [345028-three-kingdoms-shu-han-chronicles.json](./345028-three-kingdoms-shu-han-chronicles.json) |
 | Three Kingdoms: The Blood Moon | 290842 | [290842-three-kingdoms-the-blood-moon.json](./290842-three-kingdoms-the-blood-moon.json) |
 | Three Kingdoms: The Last Warlord | 29826 | [29826-three-kingdoms-the-last-warlord.json](./29826-three-kingdoms-the-last-warlord.json) |
@@ -27716,6 +27721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator USA & ATV Monster Rally Bundle | 306513 | [306513-truck-simulator-usa-and-atv-monster-rally-bundle.json](./306513-truck-simulator-usa-and-atv-monster-rally-bundle.json) |
 | Truck Simulator USA Car Games: Driving games & Car 2022 | 196177 | [196177-truck-simulator-usa-car-games-driving-games-and-car-2022.json](./196177-truck-simulator-usa-car-games-driving-games-and-car-2022.json) |
 | Truck Simulator USA Revolution | 252314 | [252314-truck-simulator-usa-revolution.json](./252314-truck-simulator-usa-revolution.json) |
+| Truck Simulator USA: Evolution | 208119 | [208119-truck-simulator-usa-evolution.json](./208119-truck-simulator-usa-evolution.json) |
 | Truck Simulator World Tour Bundle: American and European Edition | 405920 | [405920-truck-simulator-world-tour-bundle-american-and-european-edition.json](./405920-truck-simulator-world-tour-bundle-american-and-european-edition.json) |
 | Truck Simulator: Delivery in City | 375410 | [375410-truck-simulator-delivery-in-city.json](./375410-truck-simulator-delivery-in-city.json) |
 | Truck Simulator: Driving School 2024 | 276862 | [276862-truck-simulator-driving-school-2024.json](./276862-truck-simulator-driving-school-2024.json) |
