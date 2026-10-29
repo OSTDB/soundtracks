@@ -3735,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search Eye Plus V2.0 | 325521 | [325521-search-eye-plus-v2-0.json](./325521-search-eye-plus-v2-0.json) |
 | Search for the Secret Keys | 69885 | [69885-search-for-the-secret-keys.json](./69885-search-for-the-secret-keys.json) |
 | Search for the Titanic | 69849 | [69849-search-for-the-titanic.json](./69849-search-for-the-titanic.json) |
+| Search of Galaxy | 192006 | [192006-search-of-galaxy.json](./192006-search-of-galaxy.json) |
 | Search of the Stolen Crown Jewels | 143048 | [143048-search-of-the-stolen-crown-jewels.json](./143048-search-of-the-stolen-crown-jewels.json) |
 | Search Party: Director's Cut | 171004 | [171004-search-party-directors-cut.json](./171004-search-party-directors-cut.json) |
 | Searching | 292389 | [292389-searching.json](./292389-searching.json) |
@@ -5961,6 +5962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Runner | 385379 | [385379-shadow-runner.json](./385379-shadow-runner.json) |
 | Shadow Saboteur | 246790 | [246790-shadow-saboteur.json](./246790-shadow-saboteur.json) |
 | Shadow Sacrament: The Roots of Evil | 347848 | [347848-shadow-sacrament-the-roots-of-evil.json](./347848-shadow-sacrament-the-roots-of-evil.json) |
+| Shadow Samurai Revenge | 192038 | [192038-shadow-samurai-revenge.json](./192038-shadow-samurai-revenge.json) |
 | Shadow Saw Us | 408072 | [408072-shadow-saw-us.json](./408072-shadow-saw-us.json) |
 | Shadow Seeker | 150140 | [150140-shadow-seeker.json](./150140-shadow-seeker.json) |
 | Shadow Shoot | 261279 | [261279-shadow-shoot.json](./261279-shadow-shoot.json) |
@@ -6568,6 +6570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharing Lights | 192902 | [192902-sharing-lights.json](./192902-sharing-lights.json) |
 | Sharique | 112267 | [112267-sharique.json](./112267-sharique.json) |
 | Shark | 110852 | [110852-shark.json](./110852-shark.json) |
+| Shark Adventure | 192041 | [192041-shark-adventure.json](./192041-shark-adventure.json) |
 | Shark Assault Simulator | 202542 | [202542-shark-assault-simulator.json](./202542-shark-assault-simulator.json) |
 | Shark Attack | 134536 | [134536-shark-attack.json](./134536-shark-attack.json) |
 | Shark Attack | 160183 | [160183-shark-attack.json](./160183-shark-attack.json) |
@@ -24553,6 +24556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Boyz | 43237 | [43237-street-boyz.json](./43237-street-boyz.json) |
 | Street Burners | 110854 | [110854-street-burners.json](./110854-street-burners.json) |
 | Street Cat | 78041 | [78041-street-cat.json](./78041-street-cat.json) |
+| Street Cats Race | 192048 | [192048-street-cats-race.json](./192048-street-cats-race.json) |
 | Street Champ VR | 30699 | [30699-street-champ-vr.json](./30699-street-champ-vr.json) |
 | Street Chaser | 247088 | [247088-street-chaser.json](./247088-street-chaser.json) |
 | Street Chaves | 141519 | [141519-street-chaves.json](./141519-street-chaves.json) |
