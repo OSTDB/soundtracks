@@ -3127,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearful Tales: Hansel and Gretel - Collector's Edition | 22078 | [22078-fearful-tales-hansel-and-gretel-collectors-edition.json](./22078-fearful-tales-hansel-and-gretel-collectors-edition.json) |
 | Fearless | 302933 | [302933-fearless.json](./302933-fearless.json) |
 | Fearless Crew | 422058 | [422058-fearless-crew.json](./422058-fearless-crew.json) |
+| Fearless Four | 225969 | [225969-fearless-four.json](./225969-fearless-four.json) |
 | Fearless Fred and the Factory of Doom | 268740 | [268740-fearless-fred-and-the-factory-of-doom.json](./268740-fearless-fred-and-the-factory-of-doom.json) |
 | Fearless Night | 63679 | [63679-fearless-night.json](./63679-fearless-night.json) |
 | Fearless Tigor | 114819 | [114819-fearless-tigor.json](./114819-fearless-tigor.json) |
