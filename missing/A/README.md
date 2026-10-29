@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hand With Many Fingers | 129453 | [129453-a-hand-with-many-fingers.json](./129453-a-hand-with-many-fingers.json) |
 | A Handful of Keflings | 83948 | [83948-a-handful-of-keflings.json](./83948-a-handful-of-keflings.json) |
 | A Handful of Lewd Games | 337801 | [337801-a-handful-of-lewd-games.json](./337801-a-handful-of-lewd-games.json) |
+| A Handful of Recurring Dreams | 184195 | [184195-a-handful-of-recurring-dreams.json](./184195-a-handful-of-recurring-dreams.json) |
 | A Happy New Year | 324964 | [324964-a-happy-new-year.json](./324964-a-happy-new-year.json) |
 | A Happy Place | 376114 | [376114-a-happy-place.json](./376114-a-happy-place.json) |
 | A Happy Valentine | 225237 | [225237-a-happy-valentine.json](./225237-a-happy-valentine.json) |
@@ -1359,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Girl: New Character B | 283882 | [283882-a-girl-new-character-b.json](./283882-a-girl-new-character-b.json) |
 | A-Kei Otaku | 113587 | [113587-a-kei-otaku.json](./113587-a-kei-otaku.json) |
 | A-Kei Otaku Kanojo | 222069 | [222069-a-kei-otaku-kanojo.json](./222069-a-kei-otaku-kanojo.json) |
+| A-Maze Batz | 184207 | [184207-a-maze-batz.json](./184207-a-maze-batz.json) |
 | A-Maze-Ing | 44373 | [44373-a-maze-ing.json](./44373-a-maze-ing.json) |
 | A-Mazing 3D | 264728 | [264728-a-mazing-3d.json](./264728-a-mazing-3d.json) |
 | A-mazing Ants | 52561 | [52561-a-mazing-ants.json](./52561-a-mazing-ants.json) |
@@ -12841,6 +12843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
 | Artificia Armata | 261675 | [261675-artificia-armata.json](./261675-artificia-armata.json) |
 | Artificial | 115126 | [115126-artificial.json](./115126-artificial.json) |
+| Artificial | 184212 | [184212-artificial.json](./184212-artificial.json) |
 | Artificial | 235361 | [235361-artificial.json](./235361-artificial.json) |
 | Artificial Academy | 22471 | [22471-artificial-academy.json](./22471-artificial-academy.json) |
 | Artificial Dawn | 419366 | [419366-artificial-dawn.json](./419366-artificial-dawn.json) |
@@ -15734,6 +15737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avocado | 311499 | [311499-avocado.json](./311499-avocado.json) |
 | Avocado Love | 187204 | [187204-avocado-love.json](./187204-avocado-love.json) |
 | Avocado Puzzle Quest | 211414 | [211414-avocado-puzzle-quest.json](./211414-avocado-puzzle-quest.json) |
+| Avocado Smash | 184197 | [184197-avocado-smash.json](./184197-avocado-smash.json) |
 | AvoCuddle | 117839 | [117839-avocuddle.json](./117839-avocuddle.json) |
 | Avoid | 152135 | [152135-avoid.json](./152135-avoid.json) |
 | Avoid | 177406 | [177406-avoid.json](./177406-avoid.json) |
