@@ -9003,6 +9003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Riding Deluxe | 81654 | [81654-horse-riding-deluxe.json](./81654-horse-riding-deluxe.json) |
 | Horse Riding Tales | 116716 | [116716-horse-riding-tales.json](./116716-horse-riding-tales.json) |
 | Horse Riding Tales | 235160 | [235160-horse-riding-tales.json](./235160-horse-riding-tales.json) |
+| Horse Riding: Breakthrough Gaming Arcade | 207074 | [207074-horse-riding-breakthrough-gaming-arcade.json](./207074-horse-riding-breakthrough-gaming-arcade.json) |
 | Horse Runner DX | 303569 | [303569-horse-runner-dx.json](./303569-horse-runner-dx.json) |
 | Horse Shelter 2022 | 204821 | [204821-horse-shelter-2022.json](./204821-horse-shelter-2022.json) |
 | Horse Shoes | 358835 | [358835-horse-shoes.json](./358835-horse-shoes.json) |
@@ -10387,6 +10388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Fox | 181393 | [181393-hungry-fox.json](./181393-hungry-fox.json) |
 | Hungry Frog | 183335 | [183335-hungry-frog.json](./183335-hungry-frog.json) |
 | Hungry Froo | 259976 | [259976-hungry-froo.json](./259976-hungry-froo.json) |
+| Hungry Galaxies | 207079 | [207079-hungry-galaxies.json](./207079-hungry-galaxies.json) |
 | Hungry Ghosts | 43433 | [43433-hungry-ghosts.json](./43433-hungry-ghosts.json) |
 | Hungry Giraffe | 20808 | [20808-hungry-giraffe.json](./20808-hungry-giraffe.json) |
 | Hungry Harry 3D | 182710 | [182710-hungry-harry-3d.json](./182710-hungry-harry-3d.json) |
