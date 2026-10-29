@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk the Past VR | 239742 | [239742-walk-the-past-vr.json](./239742-walk-the-past-vr.json) |
 | Walk the Times | 258020 | [258020-walk-the-times.json](./258020-walk-the-times.json) |
 | Walk to the Woods | 202667 | [202667-walk-to-the-woods.json](./202667-walk-to-the-woods.json) |
+| Walk While My Grandmother Plays the Piano | 223255 | [223255-walk-while-my-grandmother-plays-the-piano.json](./223255-walk-while-my-grandmother-plays-the-piano.json) |
 | Walk With Me | 128002 | [128002-walk-with-me.json](./128002-walk-with-me.json) |
 | Walk With Me | 266050 | [266050-walk-with-me.json](./266050-walk-with-me.json) |
 | Walk with me. | 178459 | [178459-walk-with-me.json](./178459-walk-with-me.json) |
@@ -7173,6 +7174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Music Interactive Simulator | 199291 | [199291-world-of-music-interactive-simulator.json](./199291-world-of-music-interactive-simulator.json) |
 | World of Mystery | 230966 | [230966-world-of-mystery.json](./230966-world-of-mystery.json) |
 | World of Myths | 112493 | [112493-world-of-myths.json](./112493-world-of-myths.json) |
+| World of Naples | 223258 | [223258-world-of-naples.json](./223258-world-of-naples.json) |
 | World of One | 39012 | [39012-world-of-one.json](./39012-world-of-one.json) |
 | World of One: Holistic Edition | 52122 | [52122-world-of-one-holistic-edition.json](./52122-world-of-one-holistic-edition.json) |
 | World of Outlaws: Dirt Racing | 213356 | [213356-world-of-outlaws-dirt-racing.json](./213356-world-of-outlaws-dirt-racing.json) |
