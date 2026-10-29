@@ -2024,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkzan Adventure | 376558 | [376558-darkzan-adventure.json](./376558-darkzan-adventure.json) |
 | Darkzan Arena | 244895 | [244895-darkzan-arena.json](./244895-darkzan-arena.json) |
 | Darkzone: Idle RPG | 150759 | [150759-darkzone-idle-rpg.json](./150759-darkzone-idle-rpg.json) |
+| Darling Duality: Winter Wish | 178780 | [178780-darling-duality-winter-wish.json](./178780-darling-duality-winter-wish.json) |
 | Darling II: Backlash | 203328 | [203328-darling-ii-backlash.json](./203328-darling-ii-backlash.json) |
 | Darling of the Sea | 225817 | [225817-darling-of-the-sea.json](./225817-darling-of-the-sea.json) |
 | Darling Pet | 188590 | [188590-darling-pet.json](./188590-darling-pet.json) |
