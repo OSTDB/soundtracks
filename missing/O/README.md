@@ -2969,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenArena | 77358 | [77358-openarena.json](./77358-openarena.json) |
 | OpenArena Live | 357434 | [357434-openarena-live.json](./357434-openarena-live.json) |
 | OpenBlox | 376648 | [376648-openblox.json](./376648-openblox.json) |
+| Openbound | 210418 | [210418-openbound.json](./210418-openbound.json) |
 | Openbound Online | 183583 | [183583-openbound-online.json](./183583-openbound-online.json) |
 | OpenBVE | 51272 | [51272-openbve.json](./51272-openbve.json) |
 | Opencast Mining | 113846 | [113846-opencast-mining.json](./113846-opencast-mining.json) |
