@@ -9020,6 +9020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Hidden Worlds | 98278 | [98278-disney-hidden-worlds.json](./98278-disney-hidden-worlds.json) |
 | Disney Hot Shots: Disney's Tarzan Jungle Tumble | 231855 | [231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json](./231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json) |
 | Disney Hot Shots: Disney's Terk & Tantor Power Lunch | 231857 | [231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json](./231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json) |
+| Disney Hotshots: Disney's 101 Dalmatians | 228661 | [228661-disney-hotshots-disneys-101-dalmatians.json](./228661-disney-hotshots-disneys-101-dalmatians.json) |
 | Disney Hotshots: Disney's Tarzan | 231854 | [231854-disney-hotshots-disneys-tarzan.json](./231854-disney-hotshots-disneys-tarzan.json) |
 | Disney Hotshots: The Little Mermaid | 228446 | [228446-disney-hotshots-the-little-mermaid.json](./228446-disney-hotshots-the-little-mermaid.json) |
 | Disney Infinity 2.0 Spider-Man Playset | 263922 | [263922-disney-infinity-2-0-spider-man-playset.json](./263922-disney-infinity-2-0-spider-man-playset.json) |
@@ -10224,6 +10225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogs | 314312 | [314312-dogs.json](./314312-dogs.json) |
 | Dogs and Paws | 308604 | [308604-dogs-and-paws.json](./308604-dogs-and-paws.json) |
 | Dogs and Pigs | 187187 | [187187-dogs-and-pigs.json](./187187-dogs-and-pigs.json) |
+| Dogs Can Speak English | 228655 | [228655-dogs-can-speak-english.json](./228655-dogs-can-speak-english.json) |
 | Dogs Contrast | 333485 | [333485-dogs-contrast.json](./333485-dogs-contrast.json) |
 | Dogs Cyberpuzzle | 203949 | [203949-dogs-cyberpuzzle.json](./203949-dogs-cyberpuzzle.json) |
 | Dogs Day | 238555 | [238555-dogs-day.json](./238555-dogs-day.json) |
@@ -13352,6 +13354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonfly Chronicles | 105133 | [105133-dragonfly-chronicles.json](./105133-dragonfly-chronicles.json) |
 | Dragonfly II | 97467 | [97467-dragonfly-ii.json](./97467-dragonfly-ii.json) |
 | DragonHeart | 80824 | [80824-dragonheart.json](./80824-dragonheart.json) |
+| DragonHill VR | 228759 | [228759-dragonhill-vr.json](./228759-dragonhill-vr.json) |
 | Dragonia | 124242 | [124242-dragonia.json](./124242-dragonia.json) |
 | Dragonia | 38788 | [38788-dragonia.json](./38788-dragonia.json) |
 | Dragonica Mama | 335716 | [335716-dragonica-mama.json](./335716-dragonica-mama.json) |
@@ -15316,6 +15319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel of Sword | 196548 | [196548-duel-of-sword.json](./196548-duel-of-sword.json) |
 | Duel Princess | 186912 | [186912-duel-princess.json](./186912-duel-princess.json) |
 | Duel Puzzle Wars | 114688 | [114688-duel-puzzle-wars.json](./114688-duel-puzzle-wars.json) |
+| Duel Revolution | 228746 | [228746-duel-revolution.json](./228746-duel-revolution.json) |
 | Duel School Infinite | 210524 | [210524-duel-school-infinite.json](./210524-duel-school-infinite.json) |
 | Duel Survival | 67913 | [67913-duel-survival.json](./67913-duel-survival.json) |
 | Duel Timers | 367371 | [367371-duel-timers.json](./367371-duel-timers.json) |
