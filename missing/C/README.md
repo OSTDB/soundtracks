@@ -13215,6 +13215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmoWarrior Zero | 43875 | [43875-cosmowarrior-zero.json](./43875-cosmowarrior-zero.json) |
 | Cosmula | 306348 | [306348-cosmula.json](./306348-cosmula.json) |
 | Cosplay Chu | 97771 | [97771-cosplay-chu.json](./97771-cosplay-chu.json) |
+| Cosplay Club | 220442 | [220442-cosplay-club.json](./220442-cosplay-club.json) |
 | Cosplay Convention Crisis | 102330 | [102330-cosplay-convention-crisis.json](./102330-cosplay-convention-crisis.json) |
 | Cosplay Crisis: Succubus Invasion | 309861 | [309861-cosplay-crisis-succubus-invasion.json](./309861-cosplay-crisis-succubus-invasion.json) |
 | Cosplay Fever!! | 370261 | [370261-cosplay-fever.json](./370261-cosplay-fever.json) |
@@ -15146,6 +15147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Control | 263072 | [263072-crisis-control.json](./263072-crisis-control.json) |
 | Crisis Core: Final Fantasy VII - Collector's Edition | 141504 | [141504-crisis-core-final-fantasy-vii-collectors-edition.json](./141504-crisis-core-final-fantasy-vii-collectors-edition.json) |
 | Crisis Core: Final Fantasy VII - Reunion | 205201 | [205201-crisis-core-final-fantasy-vii-reunion.json](./205201-crisis-core-final-fantasy-vii-reunion.json) |
+| Crisis Core: Final Fantasy VII: Reunion - Digital Deluxe Edition | 220439 | [220439-crisis-core-final-fantasy-vii-reunion-digital-deluxe-edition.json](./220439-crisis-core-final-fantasy-vii-reunion-digital-deluxe-edition.json) |
 | Crisis Force | 48652 | [48652-crisis-force.json](./48652-crisis-force.json) |
 | Crisis Heart Brawlers: Clash at Otakon | 64681 | [64681-crisis-heart-brawlers-clash-at-otakon.json](./64681-crisis-heart-brawlers-clash-at-otakon.json) |
 | Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
