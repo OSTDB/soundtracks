@@ -2327,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:birth Colony -Lost Azurite- | 60049 | [60049-re-birth-colony-lost-azurite.json](./60049-re-birth-colony-lost-azurite.json) |
 | Re:Birth Online | 133728 | [133728-re-birth-online.json](./133728-re-birth-online.json) |
 | Re:Birthday Song - Koi wo Utau Shinigami | 54920 | [54920-re-birthday-song-koi-wo-utau-shinigami.json](./54920-re-birthday-song-koi-wo-utau-shinigami.json) |
+| Re:Birthday Song: Koi wo Utau Shinigami - Another Record | 199220 | [199220-re-birthday-song-koi-wo-utau-shinigami-another-record.json](./199220-re-birthday-song-koi-wo-utau-shinigami-another-record.json) |
 | Re:Blue | 415482 | [415482-re-blue.json](./415482-re-blue.json) |
 | Re:bound | 229012 | [229012-re-bound.json](./229012-re-bound.json) |
 | Re:Bounding | 107668 | [107668-re-bounding.json](./107668-re-bounding.json) |
@@ -8511,6 +8512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman EXE Legend of Network | 265959 | [265959-rockman-exe-legend-of-network.json](./265959-rockman-exe-legend-of-network.json) |
 | RockMan EXE N1 Battle | 37354 | [37354-rockman-exe-n1-battle.json](./37354-rockman-exe-n1-battle.json) |
 | Rockman EXE Phantom of Network | 265957 | [265957-rockman-exe-phantom-of-network.json](./265957-rockman-exe-phantom-of-network.json) |
+| Rockman Exhaust | 199217 | [199217-rockman-exhaust.json](./199217-rockman-exhaust.json) |
 | Rockman GP | 309669 | [309669-rockman-gp.json](./309669-rockman-gp.json) |
 | Rockman Install Metal | 210486 | [210486-rockman-install-metal.json](./210486-rockman-install-metal.json) |
 | Rockman IQ Xuànfēng | 389005 | [389005-rockman-iq-xuanfeng.json](./389005-rockman-iq-xuanfeng.json) |
