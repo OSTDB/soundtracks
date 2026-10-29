@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takatron: 2098 | 384785 | [384785-takatron-2098.json](./384785-takatron-2098.json) |
 | Take | 57490 | [57490-take.json](./57490-take.json) |
 | Take 'Em Out | 71802 | [71802-take-em-out.json](./71802-take-em-out.json) |
+| Take & Reign | 177193 | [177193-take-and-reign.json](./177193-take-and-reign.json) |
 | Take a Break | 178887 | [178887-take-a-break.json](./178887-take-a-break.json) |
 | Take a Break! Crosswords | 76557 | [76557-take-a-break-crosswords.json](./76557-take-a-break-crosswords.json) |
 | Take a Break! Pinball | 73688 | [73688-take-a-break-pinball.json](./73688-take-a-break-pinball.json) |
@@ -3090,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeth Brushing Simulator | 228730 | [228730-teeth-brushing-simulator.json](./228730-teeth-brushing-simulator.json) |
 | Teeth Cutter | 390617 | [390617-teeth-cutter.json](./390617-teeth-cutter.json) |
 | Teeth of Glass | 306769 | [306769-teeth-of-glass.json](./306769-teeth-of-glass.json) |
+| Teeth Simulator | 177187 | [177187-teeth-simulator.json](./177187-teeth-simulator.json) |
 | Teething | 63797 | [63797-teething.json](./63797-teething.json) |
 | Teeto | 285987 | [285987-teeto.json](./285987-teeto.json) |
 | Teeworlds | 35005 | [35005-teeworlds.json](./35005-teeworlds.json) |
@@ -3249,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
 | Telepath Tactics Liberated | 189802 | [189802-telepath-tactics-liberated.json](./189802-telepath-tactics-liberated.json) |
 | Telepathy | 282667 | [282667-telepathy.json](./282667-telepathy.json) |
+| Telephone Trouble | 177157 | [177157-telephone-trouble.json](./177157-telephone-trouble.json) |
 | Teleport Jumper | 312044 | [312044-teleport-jumper.json](./312044-teleport-jumper.json) |
 | Teleport Master | 332798 | [332798-teleport-master.json](./332798-teleport-master.json) |
 | Teleport VR | 240646 | [240646-teleport-vr.json](./240646-teleport-vr.json) |
@@ -14894,6 +14897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sky Project: Land of Noris | 418547 | [418547-the-sky-project-land-of-noris.json](./418547-the-sky-project-land-of-noris.json) |
 | The Skylia Prophecy | 141585 | [141585-the-skylia-prophecy.json](./141585-the-skylia-prophecy.json) |
 | The Skyscraper and the Scar | 57477 | [57477-the-skyscraper-and-the-scar.json](./57477-the-skyscraper-and-the-scar.json) |
+| The Slappening | 177176 | [177176-the-slappening.json](./177176-the-slappening.json) |
 | The Slasher Camp Massacre | 218738 | [218738-the-slasher-camp-massacre.json](./218738-the-slasher-camp-massacre.json) |
 | The Slater | 104815 | [104815-the-slater.json](./104815-the-slater.json) |
 | The Slaughter: Act One | 16995 | [16995-the-slaughter-act-one.json](./16995-the-slaughter-act-one.json) |
@@ -20011,6 +20015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tightrope Theatre | 204141 | [204141-tightrope-theatre.json](./204141-tightrope-theatre.json) |
 | Tightrope Walking | 178076 | [178076-tightrope-walking.json](./178076-tightrope-walking.json) |
 | Tiime | 153386 | [153386-tiime.json](./153386-tiime.json) |
+| Tiiny Ragdoll Sandbox | 177194 | [177194-tiiny-ragdoll-sandbox.json](./177194-tiiny-ragdoll-sandbox.json) |
 | Tik Tak Caro | 239328 | [239328-tik-tak-caro.json](./239328-tik-tak-caro.json) |
 | Tik Werlen | 396194 | [396194-tik-werlen.json](./396194-tik-werlen.json) |
 | Tikal | 103541 | [103541-tikal.json](./103541-tikal.json) |
@@ -27671,6 +27676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trizeal Remix | 32927 | [32927-trizeal-remix.json](./32927-trizeal-remix.json) |
 | Trizna | 293233 | [293233-trizna.json](./293233-trizna.json) |
 | Trizon | 333437 | [333437-trizon.json](./333437-trizon.json) |
+| Trizzle | 177183 | [177183-trizzle.json](./177183-trizzle.json) |
 | Trizzle | 355007 | [355007-trizzle.json](./355007-trizzle.json) |
 | TRL: The Rail Loaders | 266485 | [266485-trl-the-rail-loaders.json](./266485-trl-the-rail-loaders.json) |
 | Troddlers | 39029 | [39029-troddlers.json](./39029-troddlers.json) |
