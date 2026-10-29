@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pakku Pony | 374671 | [374671-pakku-pony.json](./374671-pakku-pony.json) |
 | Pako | 9568 | [9568-pako.json](./9568-pako.json) |
 | Pako 2 | 29028 | [29028-pako-2.json](./29028-pako-2.json) |
+| Pako 3 | 188261 | [188261-pako-3.json](./188261-pako-3.json) |
 | Pako 4 | 339925 | [339925-pako-4.json](./339925-pako-4.json) |
 | Pako Caravan | 147830 | [147830-pako-caravan.json](./147830-pako-caravan.json) |
 | Pako Highway | 212448 | [212448-pako-highway.json](./212448-pako-highway.json) |
@@ -4782,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantomancer | 331234 | [331234-phantomancer.json](./331234-phantomancer.json) |
 | Phantomas | 37029 | [37029-phantomas.json](./37029-phantomas.json) |
 | Phantomas 2 | 45344 | [45344-phantomas-2.json](./45344-phantomas-2.json) |
+| Phantomoon | 188265 | [188265-phantomoon.json](./188265-phantomoon.json) |
 | Phantomphobia: Yijie | 331945 | [331945-phantomphobia-yijie.json](./331945-phantomphobia-yijie.json) |
 | Phantomphobia: Zhenli | 331946 | [331946-phantomphobia-zhenli.json](./331946-phantomphobia-zhenli.json) |
 | PhantomRider | 347053 | [347053-phantomrider.json](./347053-phantomrider.json) |
@@ -10766,6 +10768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyfield WW2 | 102148 | [102148-polyfield-ww2.json](./102148-polyfield-ww2.json) |
 | PolyFight | 316278 | [316278-polyfight.json](./316278-polyfight.json) |
 | Polyforce WW2 | 155384 | [155384-polyforce-ww2.json](./155384-polyforce-ww2.json) |
+| Polyforge | 188272 | [188272-polyforge.json](./188272-polyforge.json) |
 | Polyfuru feat. Asano Ruri | 122215 | [122215-polyfuru-feat-asano-ruri.json](./122215-polyfuru-feat-asano-ruri.json) |
 | Polyfuru feat. Marinasu β | 127179 | [127179-polyfuru-feat-marinasu.json](./127179-polyfuru-feat-marinasu.json) |
 | Polyfuru feat. Miya Kamino | 118290 | [118290-polyfuru-feat-miya-kamino.json](./118290-polyfuru-feat-miya-kamino.json) |
@@ -12610,6 +12613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pride Dance Out & Proud | 201972 | [201972-pride-dance-out-and-proud.json](./201972-pride-dance-out-and-proud.json) |
 | Pride FC: Fighting Championships | 18276 | [18276-pride-fc-fighting-championships.json](./18276-pride-fc-fighting-championships.json) |
 | Pride GP Grand Prix 2003 | 67048 | [67048-pride-gp-grand-prix-2003.json](./67048-pride-gp-grand-prix-2003.json) |
+| Pride of Eden | 188233 | [188233-pride-of-eden.json](./188233-pride-of-eden.json) |
 | Pride of Nations | 2068 | [2068-pride-of-nations.json](./2068-pride-of-nations.json) |
 | Pride Quiz | 272561 | [272561-pride-quiz.json](./272561-pride-quiz.json) |
 | Pride Run | 104131 | [104131-pride-run.json](./104131-pride-run.json) |
@@ -14848,6 +14852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psalm VR | 343853 | [343853-psalm-vr.json](./343853-psalm-vr.json) |
 | PSBO | 57534 | [57534-psbo.json](./57534-psbo.json) |
 | Psebay | 43063 | [43063-psebay.json](./43063-psebay.json) |
+| Psebay: Gravity Moto Trials | 188256 | [188256-psebay-gravity-moto-trials.json](./188256-psebay-gravity-moto-trials.json) |
 | Pseudo Collision | 389657 | [389657-pseudo-collision.json](./389657-pseudo-collision.json) |
 | Pseudo-Haunting | 272948 | [272948-pseudo-haunting.json](./272948-pseudo-haunting.json) |
 | Pseudo-Psy Play | 216937 | [216937-pseudo-psy-play.json](./216937-pseudo-psy-play.json) |
@@ -16557,6 +16562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlix | 68543 | [68543-puzzlix.json](./68543-puzzlix.json) |
 | Puzzlor | 399884 | [399884-puzzlor.json](./399884-puzzlor.json) |
 | Puzzly Game Collection | 105938 | [105938-puzzly-game-collection.json](./105938-puzzly-game-collection.json) |
+| Puzzmagic | 188229 | [188229-puzzmagic.json](./188229-puzzmagic.json) |
 | PuzzMiX | 295756 | [295756-puzzmix.json](./295756-puzzmix.json) |
 | Puzznic | 12199 | [12199-puzznic.json](./12199-puzznic.json) |
 | Puzznic | 295044 | [295044-puzznic.json](./295044-puzznic.json) |
