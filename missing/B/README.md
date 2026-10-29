@@ -8170,6 +8170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackguards: Untold Legends | 11105 | [11105-blackguards-untold-legends.json](./11105-blackguards-untold-legends.json) |
 | Blackhaven | 160683 | [160683-blackhaven.json](./160683-blackhaven.json) |
 | Blackheart | 249897 | [249897-blackheart.json](./249897-blackheart.json) |
+| BlackHill | 211005 | [211005-blackhill.json](./211005-blackhill.json) |
 | Blackhole | 13220 | [13220-blackhole.json](./13220-blackhole.json) |
 | Blackhole Maker | 384859 | [384859-blackhole-maker.json](./384859-blackhole-maker.json) |
 | Blackhole on the Road | 269047 | [269047-blackhole-on-the-road.json](./269047-blackhole-on-the-road.json) |
@@ -9631,6 +9632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Golf | 264083 | [264083-blood-golf.json](./264083-blood-golf.json) |
 | Blood Harvest | 29565 | [29565-blood-harvest.json](./29565-blood-harvest.json) |
 | Blood High! | 376865 | [376865-blood-high.json](./376865-blood-high.json) |
+| Blood Hospital | 210992 | [210992-blood-hospital.json](./210992-blood-hospital.json) |
 | Blood Hunting | 259726 | [259726-blood-hunting.json](./259726-blood-hunting.json) |
 | Blood Idol Wakabayashi | 124676 | [124676-blood-idol-wakabayashi.json](./124676-blood-idol-wakabayashi.json) |
 | Blood II: Revelations | 127929 | [127929-blood-ii-revelations.json](./127929-blood-ii-revelations.json) |
