@@ -12841,6 +12841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Naval Combat | 153149 | [153149-modern-naval-combat.json](./153149-modern-naval-combat.json) |
 | Modern Naval Warfare | 186903 | [186903-modern-naval-warfare.json](./186903-modern-naval-warfare.json) |
 | Modern Naval Warfare: Sea Combat | 389067 | [389067-modern-naval-warfare-sea-combat.json](./389067-modern-naval-warfare-sea-combat.json) |
+| Modern Ops | 201964 | [201964-modern-ops.json](./201964-modern-ops.json) |
 | Modern Road-Like | 104041 | [104041-modern-road-like.json](./104041-modern-road-like.json) |
 | Modern Sonic Adventure 2: The Trial | 350564 | [350564-modern-sonic-adventure-2-the-trial.json](./350564-modern-sonic-adventure-2-the-trial.json) |
 | Modern Strike Online | 36958 | [36958-modern-strike-online.json](./36958-modern-strike-online.json) |
