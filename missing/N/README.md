@@ -5363,6 +5363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobody Saves the World: Frozen Hearth | 214735 | [214735-nobody-saves-the-world-frozen-hearth.json](./214735-nobody-saves-the-world-frozen-hearth.json) |
 | Nobody Sleeps Tonight | 282812 | [282812-nobody-sleeps-tonight.json](./282812-nobody-sleeps-tonight.json) |
 | Nobody Told Me About ID | 251634 | [251634-nobody-told-me-about-id.json](./251634-nobody-told-me-about-id.json) |
+| Nobody: The Turnaround | 192027 | [192027-nobody-the-turnaround.json](./192027-nobody-the-turnaround.json) |
 | Nobody's Dilemma | 252674 | [252674-nobodys-dilemma.json](./252674-nobodys-dilemma.json) |
 | Nobody's Home | 133744 | [133744-nobodys-home.json](./133744-nobodys-home.json) |
 | Nobody's Home | 179732 | [179732-nobodys-home.json](./179732-nobodys-home.json) |
@@ -5555,6 +5556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodrog's Fortress | 182463 | [182463-nodrogs-fortress.json](./182463-nodrogs-fortress.json) |
 | Nodwar | 378906 | [378906-nodwar.json](./378906-nodwar.json) |
 | Noel 3: Mission on the Line | 107624 | [107624-noel-3-mission-on-the-line.json](./107624-noel-3-mission-on-the-line.json) |
+| Noel the Mortal Fate | 192026 | [192026-noel-the-mortal-fate.json](./192026-noel-the-mortal-fate.json) |
 | Noel the Mortal Fate S1-7 | 102484 | [102484-noel-the-mortal-fate-s1-7.json](./102484-noel-the-mortal-fate-s1-7.json) |
 | Noel the Mortal Fate: Complete Edition | 354817 | [354817-noel-the-mortal-fate-complete-edition.json](./354817-noel-the-mortal-fate-complete-edition.json) |
 | Noel the Mortal Fate: Season 10 | 220453 | [220453-noel-the-mortal-fate-season-10.json](./220453-noel-the-mortal-fate-season-10.json) |
