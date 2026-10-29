@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk Around And Do Nothing | 392358 | [392358-walk-around-and-do-nothing.json](./392358-walk-around-and-do-nothing.json) |
 | Walk Around the World | 414532 | [414532-walk-around-the-world.json](./414532-walk-around-the-world.json) |
 | Walk Around this Place | 229096 | [229096-walk-around-this-place.json](./229096-walk-around-this-place.json) |
+| Walk Hero | 199747 | [199747-walk-hero.json](./199747-walk-hero.json) |
 | Walk Home | 183069 | [183069-walk-home.json](./183069-walk-home.json) |
 | Walk in the Rain | 185092 | [185092-walk-in-the-rain.json](./185092-walk-in-the-rain.json) |
 | Walk It! | 364614 | [364614-walk-it.json](./364614-walk-it.json) |
@@ -3252,6 +3253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack-a-Mole | 288363 | [288363-whack-a-mole.json](./288363-whack-a-mole.json) |
 | Whack-A-Monster | 410919 | [410919-whack-a-monster.json](./410919-whack-a-monster.json) |
 | Whack-A-Wolf | 230711 | [230711-whack-a-wolf.json](./230711-whack-a-wolf.json) |
+| Whacka Mole | 200264 | [200264-whacka-mole.json](./200264-whacka-mole.json) |
 | WhackAKyouka | 164870 | [164870-whackakyouka.json](./164870-whackakyouka.json) |
 | WhackaMon Hammer Hideout | 423889 | [423889-whackamon-hammer-hideout.json](./423889-whackamon-hammer-hideout.json) |
 | Whacked! | 377148 | [377148-whacked.json](./377148-whacked.json) |
