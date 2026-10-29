@@ -4117,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Slash | 204374 | [204374-nightmare-slash.json](./204374-nightmare-slash.json) |
 | Nightmare Tale | 292758 | [292758-nightmare-tale.json](./292758-nightmare-tale.json) |
 | Nightmare Temptation Academy | 144117 | [144117-nightmare-temptation-academy.json](./144117-nightmare-temptation-academy.json) |
+| Nightmare traveler | 178819 | [178819-nightmare-traveler.json](./178819-nightmare-traveler.json) |
 | Nightmare Trip | 309020 | [309020-nightmare-trip.json](./309020-nightmare-trip.json) |
 | Nightmare Vortex | 263323 | [263323-nightmare-vortex.json](./263323-nightmare-vortex.json) |
 | Nightmare Within | 311615 | [311615-nightmare-within.json](./311615-nightmare-within.json) |
@@ -6904,6 +6905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nykrig | 184646 | [184646-nykrig.json](./184646-nykrig.json) |
 | Nylos | 335362 | [335362-nylos.json](./335362-nylos.json) |
 | Nym: Path of the Skycaster | 164224 | [164224-nym-path-of-the-skycaster.json](./164224-nym-path-of-the-skycaster.json) |
+| Nymble | 178815 | [178815-nymble.json](./178815-nymble.json) |
 | Nymble 2 | 408495 | [408495-nymble-2.json](./408495-nymble-2.json) |
 | Nympho Wife | 163789 | [163789-nympho-wife.json](./163789-nympho-wife.json) |
 | Nympho's Path | 208450 | [208450-nymphos-path.json](./208450-nymphos-path.json) |
