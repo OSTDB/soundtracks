@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa-Léguas e Coyote | 281881 | [281881-papa-leguas-e-coyote.json](./281881-papa-leguas-e-coyote.json) |
 | Papa-letras | 290083 | [290083-papa-letras.json](./290083-papa-letras.json) |
 | Papa's Bakeria | 101027 | [101027-papas-bakeria.json](./101027-papas-bakeria.json) |
+| Papa's Burgeria | 210358 | [210358-papas-burgeria.json](./210358-papas-burgeria.json) |
 | Papa's Burgeria | 77672 | [77672-papas-burgeria.json](./77672-papas-burgeria.json) |
 | Papa's Burgeria HD | 86695 | [86695-papas-burgeria-hd.json](./86695-papas-burgeria-hd.json) |
 | Papa's Burgeria to Go! | 96986 | [96986-papas-burgeria-to-go.json](./96986-papas-burgeria-to-go.json) |
@@ -7541,6 +7542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Traffic: Highway Racing | 102216 | [102216-pixel-traffic-highway-racing.json](./102216-pixel-traffic-highway-racing.json) |
 | Pixel Trainer | 107098 | [107098-pixel-trainer.json](./107098-pixel-trainer.json) |
 | Pixel Transit | 339296 | [339296-pixel-transit.json](./339296-pixel-transit.json) |
+| Pixel Traveler | 210392 | [210392-pixel-traveler.json](./210392-pixel-traveler.json) |
 | Pixel Troopers | 351752 | [351752-pixel-troopers.json](./351752-pixel-troopers.json) |
 | Pixel Trouble | 192235 | [192235-pixel-trouble.json](./192235-pixel-trouble.json) |
 | Pixel Waifu: Escape From the Dark Corporation. The Telepathic Power of a Lovestruck Otaku | 398558 | [398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json](./398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json) |
