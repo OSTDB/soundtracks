@@ -2354,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave in Danger | 94884 | [94884-dave-in-danger.json](./94884-dave-in-danger.json) |
 | Dave Microwaves Games Trilogy I | 177974 | [177974-dave-microwaves-games-trilogy-i.json](./177974-dave-microwaves-games-trilogy-i.json) |
 | Dave Mirra Freestyle BMX | 26012 | [26012-dave-mirra-freestyle-bmx.json](./26012-dave-mirra-freestyle-bmx.json) |
+| Dave Mirra Freestyle BMX 2 | 208753 | [208753-dave-mirra-freestyle-bmx-2.json](./208753-dave-mirra-freestyle-bmx-2.json) |
 | Dave Mirra Freestyle BMX 2 | 3871 | [3871-dave-mirra-freestyle-bmx-2.json](./3871-dave-mirra-freestyle-bmx-2.json) |
 | Dave Mirra Freestyle BMX: Maximum Remix | 84166 | [84166-dave-mirra-freestyle-bmx-maximum-remix.json](./84166-dave-mirra-freestyle-bmx-maximum-remix.json) |
 | Dave the Bird | 244367 | [244367-dave-the-bird.json](./244367-dave-the-bird.json) |
@@ -4673,6 +4674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Delivery & Co. | 412575 | [412575-deep-sea-delivery-and-co.json](./412575-deep-sea-delivery-and-co.json) |
 | Deep Sea Endurance | 114894 | [114894-deep-sea-endurance.json](./114894-deep-sea-endurance.json) |
 | Deep Sea Fish: Hidden World | 408590 | [408590-deep-sea-fish-hidden-world.json](./408590-deep-sea-fish-hidden-world.json) |
+| Deep Sea Fishing 2: Offshore Angler | 208718 | [208718-deep-sea-fishing-2-offshore-angler.json](./208718-deep-sea-fishing-2-offshore-angler.json) |
 | Deep Sea Hunter | 95988 | [95988-deep-sea-hunter.json](./95988-deep-sea-hunter.json) |
 | Deep Sea Hunter 2 | 95989 | [95989-deep-sea-hunter-2.json](./95989-deep-sea-hunter-2.json) |
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
@@ -5594,6 +5596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Hentai Slayer | 235784 | [235784-demon-hentai-slayer.json](./235784-demon-hentai-slayer.json) |
 | Demon Hunt | 319555 | [319555-demon-hunt.json](./319555-demon-hunt.json) |
 | Demon Hunter | 117579 | [117579-demon-hunter.json](./117579-demon-hunter.json) |
+| Demon Hunter | 208747 | [208747-demon-hunter.json](./208747-demon-hunter.json) |
 | Demon Hunter | 31217 | [31217-demon-hunter.json](./31217-demon-hunter.json) |
 | Demon Hunter 2: New Chapter | 32774 | [32774-demon-hunter-2-new-chapter.json](./32774-demon-hunter-2-new-chapter.json) |
 | Demon Hunter 5: Ascendance | 116856 | [116856-demon-hunter-5-ascendance.json](./116856-demon-hunter-5-ascendance.json) |
@@ -7806,6 +7809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig and Shoot | 84026 | [84026-dig-and-shoot.json](./84026-dig-and-shoot.json) |
 | Dig Baby Dig Company | 376450 | [376450-dig-baby-dig-company.json](./376450-dig-baby-dig-company.json) |
 | Dig Bombers | 135759 | [135759-dig-bombers.json](./135759-dig-bombers.json) |
+| Dig Deep | 208732 | [208732-dig-deep.json](./208732-dig-deep.json) |
 | Dig Deep: Chunky Pets | 246881 | [246881-dig-deep-chunky-pets.json](./246881-dig-deep-chunky-pets.json) |
 | Dig Deeper | 358464 | [358464-dig-deeper.json](./358464-dig-deeper.json) |
 | Dig Dig Boom | 235417 | [235417-dig-dig-boom.json](./235417-dig-dig-boom.json) |
@@ -12226,6 +12230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dove Days: Time Flies | 364262 | [364262-dove-days-time-flies.json](./364262-dove-days-time-flies.json) |
 | Dovetail Games: Euro Fishing | 17666 | [17666-dovetail-games-euro-fishing.json](./17666-dovetail-games-euro-fishing.json) |
 | Dovez | 80607 | [80607-dovez.json](./80607-dovez.json) |
+| Dowajwo! Enjeu | 208739 | [208739-dowajwo-enjeu.json](./208739-dowajwo-enjeu.json) |
 | Down | 295887 | [295887-down.json](./295887-down.json) |
 | Down Among the Dead Men | 386779 | [386779-down-among-the-dead-men.json](./386779-down-among-the-dead-men.json) |
 | Down Beneath | 179725 | [179725-down-beneath.json](./179725-down-beneath.json) |
