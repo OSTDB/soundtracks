@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
 | UAC Invasion: The Supply Depot | 256868 | [256868-uac-invasion-the-supply-depot.json](./256868-uac-invasion-the-supply-depot.json) |
 | UAC Ultra | 140469 | [140469-uac-ultra.json](./140469-uac-ultra.json) |
+| UAL: Universal AIM League | 186478 | [186478-ual-universal-aim-league.json](./186478-ual-universal-aim-league.json) |
 | Uanamon: Rugly Invasion | 260001 | [260001-uanamon-rugly-invasion.json](./260001-uanamon-rugly-invasion.json) |
 | UAV Wars | 92672 | [92672-uav-wars.json](./92672-uav-wars.json) |
 | Uayeb | 29539 | [29539-uayeb.json](./29539-uayeb.json) |
@@ -838,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Sudoku | 338598 | [338598-ultra-sudoku.json](./338598-ultra-sudoku.json) |
 | Ultra Sweeper | 338597 | [338597-ultra-sweeper.json](./338597-ultra-sweeper.json) |
 | Ultra Tank | 39402 | [39402-ultra-tank.json](./39402-ultra-tank.json) |
+| Ultra Thunderball | 187037 | [187037-ultra-thunderball.json](./187037-ultra-thunderball.json) |
 | Ultra Vertigo | 373032 | [373032-ultra-vertigo.json](./373032-ultra-vertigo.json) |
 | Ultra Violet | 150057 | [150057-ultra-violet.json](./150057-ultra-violet.json) |
 | Ultra Vleurette | 267356 | [267356-ultra-vleurette.json](./267356-ultra-vleurette.json) |
@@ -1298,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unconditional Fate's Season 1 Wrap Up! | 300001 | [300001-unconditional-fates-season-1-wrap-up.json](./300001-unconditional-fates-season-1-wrap-up.json) |
 | Unconquered Castle | 109632 | [109632-unconquered-castle.json](./109632-unconquered-castle.json) |
 | Uncontained | 270305 | [270305-uncontained.json](./270305-uncontained.json) |
+| Uncontrollable Dream | 182677 | [182677-uncontrollable-dream.json](./182677-uncontrollable-dream.json) |
 | UnControlled Shooter | 331179 | [331179-uncontrolled-shooter.json](./331179-uncontrolled-shooter.json) |
 | Unconventional Broadcasting Department Mika & Luna | 405948 | [405948-unconventional-broadcasting-department-mika-and-luna.json](./405948-unconventional-broadcasting-department-mika-and-luna.json) |
 | Unconventional Ragdoll Game | 151525 | [151525-unconventional-ragdoll-game.json](./151525-unconventional-ragdoll-game.json) |
@@ -1305,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncorporeal: Alcatraz Island Lofts | 32089 | [32089-uncorporeal-alcatraz-island-lofts.json](./32089-uncorporeal-alcatraz-island-lofts.json) |
 | Uncorporeal: Fluffy! | 32120 | [32120-uncorporeal-fluffy.json](./32120-uncorporeal-fluffy.json) |
 | Uncounted Isles | 219532 | [219532-uncounted-isles.json](./219532-uncounted-isles.json) |
+| Uncoven: The Seventh Day | 187053 | [187053-uncoven-the-seventh-day.json](./187053-uncoven-the-seventh-day.json) |
 | Uncover | 273390 | [273390-uncover.json](./273390-uncover.json) |
 | Uncover | 316427 | [316427-uncover.json](./316427-uncover.json) |
 | Uncover the Triad of Terror | 309052 | [309052-uncover-the-triad-of-terror.json](./309052-uncover-the-triad-of-terror.json) |
@@ -1554,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercrewed | 89325 | [89325-undercrewed.json](./89325-undercrewed.json) |
 | Undercroft | 301097 | [301097-undercroft.json](./301097-undercroft.json) |
 | Undercroft | 92056 | [92056-undercroft.json](./92056-undercroft.json) |
+| Undercurrent | 187067 | [187067-undercurrent.json](./187067-undercurrent.json) |
 | Undercurrent | 399199 | [399199-undercurrent.json](./399199-undercurrent.json) |
 | Underdeck | 100755 | [100755-underdeck.json](./100755-underdeck.json) |
 | Underdeep | 423858 | [423858-underdeep.json](./423858-underdeep.json) |
@@ -2252,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlitten | 217114 | [217114-unlitten.json](./217114-unlitten.json) |
 | Unload | 412472 | [412472-unload.json](./412472-unload.json) |
 | Unlock | 217149 | [217149-unlock.json](./217149-unlock.json) |
+| Unlock Everything | 182669 | [182669-unlock-everything.json](./182669-unlock-everything.json) |
 | Unlock Kimono Cuties | 196667 | [196667-unlock-kimono-cuties.json](./196667-unlock-kimono-cuties.json) |
 | Unlock Me | 114165 | [114165-unlock-me.json](./114165-unlock-me.json) |
 | Unlock Me | 338587 | [338587-unlock-me.json](./338587-unlock-me.json) |
@@ -2722,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unwelcome | 276586 | [276586-unwelcome.json](./276586-unwelcome.json) |
 | Unwelcome Guest | 337453 | [337453-unwelcome-guest.json](./337453-unwelcome-guest.json) |
 | Unwell Known | 152829 | [152829-unwell-known.json](./152829-unwell-known.json) |
+| Unwieldy Wand | 182666 | [182666-unwieldy-wand.json](./182666-unwieldy-wand.json) |
 | Unwilling Host | 389698 | [389698-unwilling-host.json](./389698-unwilling-host.json) |
 | Unwilting | 323345 | [323345-unwilting.json](./323345-unwilting.json) |
 | Unwind | 57065 | [57065-unwind.json](./57065-unwind.json) |
