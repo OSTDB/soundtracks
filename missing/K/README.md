@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaboom! | 172030 | [172030-kaboom.json](./172030-kaboom.json) |
 | Kaboom! | 198790 | [198790-kaboom.json](./198790-kaboom.json) |
 | Kaboom! | 234092 | [234092-kaboom.json](./234092-kaboom.json) |
+| KaBoom! | 211555 | [211555-kaboom.json](./211555-kaboom.json) |
 | Kaboom!: The Mad Doctor's Revenge | 214889 | [214889-kaboom-the-mad-doctors-revenge.json](./214889-kaboom-the-mad-doctors-revenge.json) |
 | Kabu Trader Shun | 123337 | [123337-kabu-trader-shun.json](./123337-kabu-trader-shun.json) |
 | Kabufuda | 276871 | [276871-kabufuda.json](./276871-kabufuda.json) |
@@ -2447,7 +2448,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4388,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi-Koi Japan: Ukiyoe Deluxe Edition | 53261 | [53261-koi-koi-japan-ukiyoe-deluxe-edition.json](./53261-koi-koi-japan-ukiyoe-deluxe-edition.json) |
 | Koi-Koi Japan: Ukiyoe Tours Vol.2 | 168066 | [168066-koi-koi-japan-ukiyoe-tours-vol-2.json](./168066-koi-koi-japan-ukiyoe-tours-vol-2.json) |
 | Koi-Koi Japan: Ukiyoe Tours Vol.3 | 168064 | [168064-koi-koi-japan-ukiyoe-tours-vol-3.json](./168064-koi-koi-japan-ukiyoe-tours-vol-3.json) |
+| Koi-Koi VR: Love Blossoms | 211562 | [211562-koi-koi-vr-love-blossoms.json](./211562-koi-koi-vr-love-blossoms.json) |
 | Koibana Days | 58571 | [58571-koibana-days.json](./58571-koibana-days.json) |
 | Koibito no Nazo: Lover's Enigma | 310521 | [310521-koibito-no-nazo-lovers-enigma.json](./310521-koibito-no-nazo-lovers-enigma.json) |
 | Koibumi | 279130 | [279130-koibumi.json](./279130-koibumi.json) |
@@ -4571,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konchuu Monster: Super Battle | 97814 | [97814-konchuu-monster-super-battle.json](./97814-konchuu-monster-super-battle.json) |
 | Koncolos | 192264 | [192264-koncolos.json](./192264-koncolos.json) |
 | Konductra | 20619 | [20619-konductra.json](./20619-konductra.json) |
+| Konduktor | 211517 | [211517-konduktor.json](./211517-konduktor.json) |
 | Koneko Club | 385748 | [385748-koneko-club.json](./385748-koneko-club.json) |
 | Koneko Monogatari: The Adventures of Chatran | 41271 | [41271-koneko-monogatari-the-adventures-of-chatran.json](./41271-koneko-monogatari-the-adventures-of-chatran.json) |
 | Koneko Neko Neko | 108173 | [108173-koneko-neko-neko.json](./108173-koneko-neko-neko.json) |
