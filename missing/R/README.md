@@ -2813,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realmbound | 297926 | [297926-realmbound.json](./297926-realmbound.json) |
 | RealmCraft | 86509 | [86509-realmcraft.json](./86509-realmcraft.json) |
 | Realmguard | 404341 | [404341-realmguard.json](./404341-realmguard.json) |
+| RealmLess | 188777 | [188777-realmless.json](./188777-realmless.json) |
 | Realms | 12741 | [12741-realms.json](./12741-realms.json) |
 | Realms | 203606 | [203606-realms.json](./203606-realms.json) |
 | Realms at War | 387046 | [387046-realms-at-war.json](./387046-realms-at-war.json) |
@@ -3786,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReDrop | 347773 | [347773-redrop.json](./347773-redrop.json) |
 | Redrum | 209255 | [209255-redrum.json](./209255-redrum.json) |
 | Redrum | 237269 | [237269-redrum.json](./237269-redrum.json) |
+| Reds Adventure A Seasons New Beginning | 188767 | [188767-reds-adventure-a-seasons-new-beginning.json](./188767-reds-adventure-a-seasons-new-beginning.json) |
 | RedShift | 328963 | [328963-redshift.json](./328963-redshift.json) |
 | Redshift Blueshift | 35314 | [35314-redshift-blueshift.json](./35314-redshift-blueshift.json) |
 | Redshift VR | 111067 | [111067-redshift-vr.json](./111067-redshift-vr.json) |
@@ -7591,6 +7593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadwars | 12843 | [12843-roadwars.json](./12843-roadwars.json) |
 | Roadwars | 95398 | [95398-roadwars.json](./95398-roadwars.json) |
 | Roadway Traffic Racer | 292327 | [292327-roadway-traffic-racer.json](./292327-roadway-traffic-racer.json) |
+| Roadworks 2 | 189298 | [189298-roadworks-2.json](./189298-roadworks-2.json) |
 | Roadworks Simulator | 33310 | [33310-roadworks-simulator.json](./33310-roadworks-simulator.json) |
 | Roah | 114892 | [114892-roah.json](./114892-roah.json) |
 | Roald Dahl's Twit or Miss | 249233 | [249233-roald-dahls-twit-or-miss.json](./249233-roald-dahls-twit-or-miss.json) |
@@ -9729,6 +9732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooted | 194616 | [194616-rooted.json](./194616-rooted.json) |
 | Rooten | 155659 | [155659-rooten.json](./155659-rooten.json) |
 | RootKeeper | 258396 | [258396-rootkeeper.json](./258396-rootkeeper.json) |
+| Rootlash | 189300 | [189300-rootlash.json](./189300-rootlash.json) |
 | Rootless | 183036 | [183036-rootless.json](./183036-rootless.json) |
 | Rootless | 377198 | [377198-rootless.json](./377198-rootless.json) |
 | Rootlify | 413110 | [413110-rootlify.json](./413110-rootlify.json) |
