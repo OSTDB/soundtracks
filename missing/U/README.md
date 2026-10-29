@@ -2211,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited Fight | 163778 | [163778-unlimited-fight.json](./163778-unlimited-fight.json) |
 | Unlimited Fight Ultimate Strike | 235353 | [235353-unlimited-fight-ultimate-strike.json](./235353-unlimited-fight-ultimate-strike.json) |
 | Unlimited Hearts | 67243 | [67243-unlimited-hearts.json](./67243-unlimited-hearts.json) |
+| Unlimited Skills Hero | 227521 | [227521-unlimited-skills-hero.json](./227521-unlimited-skills-hero.json) |
 | Unlimited Worlds | 298616 | [298616-unlimited-worlds.json](./298616-unlimited-worlds.json) |
 | Unline | 278501 | [278501-unline.json](./278501-unline.json) |
 | Unlisted | 422034 | [422034-unlisted.json](./422034-unlisted.json) |
