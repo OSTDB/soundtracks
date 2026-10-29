@@ -13927,6 +13927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Defender | 364560 | [364560-astro-defender.json](./364560-astro-defender.json) |
 | Astro Destroyers | 346131 | [346131-astro-destroyers.json](./346131-astro-destroyers.json) |
 | Astro Duel | 33856 | [33856-astro-duel.json](./33856-astro-duel.json) |
+| Astro Duel 2 | 217131 | [217131-astro-duel-2.json](./217131-astro-duel-2.json) |
 | Astro Duel Deluxe + Astro Duel 2 | 386215 | [386215-astro-duel-deluxe-astro-duel-2.json](./386215-astro-duel-deluxe-astro-duel-2.json) |
 | Astro Empires | 124660 | [124660-astro-empires.json](./124660-astro-empires.json) |
 | Astro Engineers | 249798 | [249798-astro-engineers.json](./249798-astro-engineers.json) |
