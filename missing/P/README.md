@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Mania | 284473 | [284473-pac-mania.json](./284473-pac-mania.json) |
 | Pac-Mania | 284474 | [284474-pac-mania.json](./284474-pac-mania.json) |
 | Pac-Mania | 299838 | [299838-pac-mania.json](./299838-pac-mania.json) |
+| Pac-Mazing | 185304 | [185304-pac-mazing.json](./185304-pac-mazing.json) |
 | Pac-Mondrian | 174791 | [174791-pac-mondrian.json](./174791-pac-mondrian.json) |
 | Pac-Motos | 203273 | [203273-pac-motos.json](./203273-pac-motos.json) |
 | Pac-pac Doraemon | 349438 | [349438-pac-pac-doraemon.json](./349438-pac-pac-doraemon.json) |
@@ -7966,6 +7967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Place for Hero | 153907 | [153907-place-for-hero.json](./153907-place-for-hero.json) |
 | Place Icebergs Apart | 318190 | [318190-place-icebergs-apart.json](./318190-place-icebergs-apart.json) |
 | Place Kick Master Football Championship | 247003 | [247003-place-kick-master-football-championship.json](./247003-place-kick-master-football-championship.json) |
+| Place Place | 185300 | [185300-place-place.json](./185300-place-place.json) |
 | Place: Weapon Workshop | 411079 | [411079-place-weapon-workshop.json](./411079-place-weapon-workshop.json) |
 | Placebo Love | 150074 | [150074-placebo-love.json](./150074-placebo-love.json) |
 | Placefront | 170322 | [170322-placefront.json](./170322-placefront.json) |
@@ -16431,6 +16433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle:Traditional Chinese Paintings | 108395 | [108395-puzzle-traditional-chinese-paintings.json](./108395-puzzle-traditional-chinese-paintings.json) |
 | Puzzle! Animals | 100025 | [100025-puzzle-animals.json](./100025-puzzle-animals.json) |
 | Puzzle! Mushihimetama | 66102 | [66102-puzzle-mushihimetama.json](./66102-puzzle-mushihimetama.json) |
+| Puzzlebot | 185294 | [185294-puzzlebot.json](./185294-puzzlebot.json) |
 | Puzzlebot Challenge | 138794 | [138794-puzzlebot-challenge.json](./138794-puzzlebot-challenge.json) |
 | PuzzleCore | 404535 | [404535-puzzlecore.json](./404535-puzzlecore.json) |
 | Puzzled | 100211 | [100211-puzzled.json](./100211-puzzled.json) |
