@@ -5803,6 +5803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nontan to Issho: Nohara de Asobo | 268519 | [268519-nontan-to-issho-nohara-de-asobo.json](./268519-nontan-to-issho-nohara-de-asobo.json) |
 | Nonterraqueous | 26266 | [26266-nonterraqueous.json](./26266-nonterraqueous.json) |
 | Nonu | 292378 | [292378-nonu.json](./292378-nonu.json) |
+| NonZero | 182657 | [182657-nonzero.json](./182657-nonzero.json) |
 | Noob Hunter | 130053 | [130053-noob-hunter.json](./130053-noob-hunter.json) |
 | Noob Squad | 32242 | [32242-noob-squad.json](./32242-noob-squad.json) |
 | Noob: Les Sans-Factions - Limited Edition | 242937 | [242937-noob-les-sans-factions-limited-edition.json](./242937-noob-les-sans-factions-limited-edition.json) |
@@ -6193,6 +6194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoteBlaster | 260766 | [260766-noteblaster.json](./260766-noteblaster.json) |
 | Notebook Artillery | 149485 | [149485-notebook-artillery.json](./149485-notebook-artillery.json) |
 | Notebook Battlegrounds | 383096 | [383096-notebook-battlegrounds.json](./383096-notebook-battlegrounds.json) |
+| Notebook Detective | 182656 | [182656-notebook-detective.json](./182656-notebook-detective.json) |
 | Notebook Entries Vol.1 | 215623 | [215623-notebook-entries-vol-1.json](./215623-notebook-entries-vol-1.json) |
 | Notebook Ninja Fights | 144751 | [144751-notebook-ninja-fights.json](./144751-notebook-ninja-fights.json) |
 | Notebook Workshop | 406205 | [406205-notebook-workshop.json](./406205-notebook-workshop.json) |
