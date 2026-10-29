@@ -3308,6 +3308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Heart Heard Of, Ghost Guessed | 230389 | [230389-what-heart-heard-of-ghost-guessed.json](./230389-what-heart-heard-of-ghost-guessed.json) |
 | What I left behind | 184054 | [184054-what-i-left-behind.json](./184054-what-i-left-behind.json) |
 | What if Adventure Time was a 3D Anime | 234038 | [234038-what-if-adventure-time-was-a-3d-anime.json](./234038-what-if-adventure-time-was-a-3d-anime.json) |
+| What If George Washington Was a Girl? | 212581 | [212581-what-if-george-washington-was-a-girl.json](./212581-what-if-george-washington-was-a-girl.json) |
 | What If Your Girl Was a Frog 2 | 292772 | [292772-what-if-your-girl-was-a-frog-2.json](./292772-what-if-your-girl-was-a-frog-2.json) |
 | What if Your Girl Was a Frog? | 202553 | [202553-what-if-your-girl-was-a-frog.json](./202553-what-if-your-girl-was-a-frog.json) |
 | What in Carnation?! | 398810 | [398810-what-in-carnation.json](./398810-what-in-carnation.json) |
