@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean City Racing: Redux | 36294 | [36294-ocean-city-racing-redux.json](./36294-ocean-city-racing-redux.json) |
 | Ocean Classics Volume 1 | 109909 | [109909-ocean-classics-volume-1.json](./109909-ocean-classics-volume-1.json) |
 | Ocean Commander | 51016 | [51016-ocean-commander.json](./51016-ocean-commander.json) |
+| Ocean Current Punk | 190845 | [190845-ocean-current-punk.json](./190845-ocean-current-punk.json) |
 | Ocean Depths | 359735 | [359735-ocean-depths.json](./359735-ocean-depths.json) |
 | Ocean Drift | 233521 | [233521-ocean-drift.json](./233521-ocean-drift.json) |
 | Ocean Drive Challenge | 65420 | [65420-ocean-drive-challenge.json](./65420-ocean-drive-challenge.json) |
@@ -2429,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One-Eyed Lee and the Dinner Party | 127382 | [127382-one-eyed-lee-and-the-dinner-party.json](./127382-one-eyed-lee-and-the-dinner-party.json) |
 | One-Eyed Likho | 250955 | [250955-one-eyed-likho.json](./250955-one-eyed-likho.json) |
 | One-Hit Slayer! Swordog | 367963 | [367963-one-hit-slayer-swordog.json](./367963-one-hit-slayer-swordog.json) |
+| One-Hit Wonder | 191369 | [191369-one-hit-wonder.json](./191369-one-hit-wonder.json) |
 | One-inch Tactics | 301574 | [301574-one-inch-tactics.json](./301574-one-inch-tactics.json) |
 | One-Move Checkmate: Chess Brain Trainer | 411144 | [411144-one-move-checkmate-chess-brain-trainer.json](./411144-one-move-checkmate-chess-brain-trainer.json) |
 | One-Off | 300872 | [300872-one-off.json](./300872-one-off.json) |
@@ -2969,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Star Fighter | 339288 | [339288-open-star-fighter.json](./339288-open-star-fighter.json) |
 | Open Starbound | 354644 | [354644-open-starbound.json](./354644-open-starbound.json) |
 | Open Surge | 230243 | [230243-open-surge.json](./230243-open-surge.json) |
+| Open That Vein | 191397 | [191397-open-that-vein.json](./191397-open-that-vein.json) |
 | Open the Door | 98852 | [98852-open-the-door.json](./98852-open-the-door.json) |
 | Open the Door: A Short Story About Life | 245264 | [245264-open-the-door-a-short-story-about-life.json](./245264-open-the-door-a-short-story-about-life.json) |
 | Open The Doors | 310164 | [310164-open-the-doors.json](./310164-open-the-doors.json) |
@@ -4254,6 +4257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Beautiful Earth 2 | 164887 | [164887-our-beautiful-earth-2.json](./164887-our-beautiful-earth-2.json) |
 | Our Beautiful Earth 3 | 294447 | [294447-our-beautiful-earth-3.json](./294447-our-beautiful-earth-3.json) |
 | Our Beautiful Earth 4 | 294692 | [294692-our-beautiful-earth-4.json](./294692-our-beautiful-earth-4.json) |
+| Our Brotherly War | 190865 | [190865-our-brotherly-war.json](./190865-our-brotherly-war.json) |
 | Our Burial Dolls Remastered | 386210 | [386210-our-burial-dolls-remastered.json](./386210-our-burial-dolls-remastered.json) |
 | Our Children - Escaping Earth | 115511 | [115511-our-children-escaping-earth.json](./115511-our-children-escaping-earth.json) |
 | Our Church and Halloween RPG: Story Five - James Version | 214940 | [214940-our-church-and-halloween-rpg-story-five-james-version.json](./214940-our-church-and-halloween-rpg-story-five-james-version.json) |
