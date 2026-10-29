@@ -2492,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Live Momora! | 402461 | [402461-we-are-live-momora.json](./402461-we-are-live-momora.json) |
 | We Are Locked | 351484 | [351484-we-are-locked.json](./351484-we-are-locked.json) |
 | We are Monsters | 299406 | [299406-we-are-monsters.json](./299406-we-are-monsters.json) |
+| We Are Not All Alone Unhappy | 203593 | [203593-we-are-not-all-alone-unhappy.json](./203593-we-are-not-all-alone-unhappy.json) |
 | We Are Not Alone | 229866 | [229866-we-are-not-alone.json](./229866-we-are-not-alone.json) |
 | We Are Not Alone: Contact | 312866 | [312866-we-are-not-alone-contact.json](./312866-we-are-not-alone-contact.json) |
 | We Are OFK | 152177 | [152177-we-are-ofk.json](./152177-we-are-ofk.json) |
@@ -3305,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Grows in the Night | 178905 | [178905-what-grows-in-the-night.json](./178905-what-grows-in-the-night.json) |
 | What Happened | 133080 | [133080-what-happened.json](./133080-what-happened.json) |
 | What Happened At Sugar Hill? | 394117 | [394117-what-happened-at-sugar-hill.json](./394117-what-happened-at-sugar-hill.json) |
+| What Happened in Addison's Grotto | 203637 | [203637-what-happened-in-addisons-grotto.json](./203637-what-happened-in-addisons-grotto.json) |
 | What Happened on the Moon? | 335710 | [335710-what-happened-on-the-moon.json](./335710-what-happened-on-the-moon.json) |
 | What Happened to Kate | 298136 | [298136-what-happened-to-kate.json](./298136-what-happened-to-kate.json) |
 | What Happened to Lily? | 342848 | [342848-what-happened-to-lily.json](./342848-what-happened-to-lily.json) |
