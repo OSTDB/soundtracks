@@ -3266,12 +3266,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Chump | 287750 | [287750-infinite-chump.json](./287750-infinite-chump.json) |
 | Infinite Climb | 353640 | [353640-infinite-climb.json](./353640-infinite-climb.json) |
 | Infinite Coaster | 303581 | [303581-infinite-coaster.json](./303581-infinite-coaster.json) |
+| Infinite Connections | 227550 | [227550-infinite-connections.json](./227550-infinite-connections.json) |
 | Infinite Construction | 192442 | [192442-infinite-construction.json](./192442-infinite-construction.json) |
 | Infinite Country | 265573 | [265573-infinite-country.json](./265573-infinite-country.json) |
 | Infinite Craft | 285172 | [285172-infinite-craft.json](./285172-infinite-craft.json) |
 | Infinite Crosswords | 385317 | [385317-infinite-crosswords.json](./385317-infinite-crosswords.json) |
 | Infinite Cube Defense | 171317 | [171317-infinite-cube-defense.json](./171317-infinite-cube-defense.json) |
 | Infinite Dash | 173800 | [173800-infinite-dash.json](./173800-infinite-dash.json) |
+| Infinite Differences | 227547 | [227547-infinite-differences.json](./227547-infinite-differences.json) |
 | Infinite Dronin | 131824 | [131824-infinite-dronin.json](./131824-infinite-dronin.json) |
 | Infinite Dunamis | 39013 | [39013-infinite-dunamis.json](./39013-infinite-dunamis.json) |
 | Infinite Dungeon | 386473 | [386473-infinite-dungeon.json](./386473-infinite-dungeon.json) |
@@ -3569,6 +3571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inheritance | 323997 | [323997-inheritance.json](./323997-inheritance.json) |
 | Inheritance | 365746 | [365746-inheritance.json](./365746-inheritance.json) |
 | Inheritance of Ash | 322793 | [322793-inheritance-of-ash.json](./322793-inheritance-of-ash.json) |
+| Inheritance: Ladeina's Path | 227456 | [227456-inheritance-ladeinas-path.json](./227456-inheritance-ladeinas-path.json) |
 | Inherited Shadows | 403838 | [403838-inherited-shadows.json](./403838-inherited-shadows.json) |
 | Inhibit | 264688 | [264688-inhibit.json](./264688-inhibit.json) |
 | Inhuman | 193276 | [193276-inhuman.json](./193276-inhuman.json) |
