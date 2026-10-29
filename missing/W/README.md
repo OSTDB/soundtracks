@@ -1931,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warui Kami | 225501 | [225501-warui-kami.json](./225501-warui-kami.json) |
 | WarUniverse | 123614 | [123614-waruniverse.json](./123614-waruniverse.json) |
 | WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
+| Waryong Three Kingdoms | 208741 | [208741-waryong-three-kingdoms.json](./208741-waryong-three-kingdoms.json) |
 | Warzone | 308473 | [308473-warzone.json](./308473-warzone.json) |
 | WarZone | 370920 | [370920-warzone.json](./370920-warzone.json) |
 | Warzone 2100 | 51297 | [51297-warzone-2100.json](./51297-warzone-2100.json) |
