@@ -305,9 +305,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake Upstart Mapping Project 2017 | 322055 | [322055-quake-upstart-mapping-project-2017.json](./322055-quake-upstart-mapping-project-2017.json) |
 | Quake VR | 196018 | [196018-quake-vr.json](./196018-quake-vr.json) |
 | Quake: A Roman Wilderness of Pain | 196709 | [196709-quake-a-roman-wilderness-of-pain.json](./196709-quake-a-roman-wilderness-of-pain.json) |
+| Quake: A Verdant Dawn | 196450 | [196450-quake-a-verdant-dawn.json](./196450-quake-a-verdant-dawn.json) |
 | Quake: Alkaline Jam | 196802 | [196802-quake-alkaline-jam.json](./196802-quake-alkaline-jam.json) |
 | Quake: Altars of Storm | 196460 | [196460-quake-altars-of-storm.json](./196460-quake-altars-of-storm.json) |
 | Quake: Arcade Tournament Edition | 405632 | [405632-quake-arcade-tournament-edition.json](./405632-quake-arcade-tournament-edition.json) |
+| Quake: Arcanum | 196457 | [196457-quake-arcanum.json](./196457-quake-arcanum.json) |
 | Quake: Autumn Haunting | 202931 | [202931-quake-autumn-haunting.json](./202931-quake-autumn-haunting.json) |
 | Quake: Backsteingotik | 196494 | [196494-quake-backsteingotik.json](./196494-quake-backsteingotik.json) |
 | Quake: Bestial Devastation | 196503 | [196503-quake-bestial-devastation.json](./196503-quake-bestial-devastation.json) |
@@ -336,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Func Jam 6 | 196623 | [196623-quake-func-jam-6.json](./196623-quake-func-jam-6.json) |
 | Quake: Func Jam 7 | 196624 | [196624-quake-func-jam-7.json](./196624-quake-func-jam-7.json) |
 | Quake: Func Jam 8 | 196628 | [196628-quake-func-jam-8.json](./196628-quake-func-jam-8.json) |
+| Quake: Func Jam 9 | 196455 | [196455-quake-func-jam-9.json](./196455-quake-func-jam-9.json) |
 | Quake: Func Jam X | 196630 | [196630-quake-func-jam-x.json](./196630-quake-func-jam-x.json) |
 | Quake: Func Xmas Jam 2017 | 196492 | [196492-quake-func-xmas-jam-2017.json](./196492-quake-func-xmas-jam-2017.json) |
 | Quake: Halloween Jam | 196484 | [196484-quake-halloween-jam.json](./196484-quake-halloween-jam.json) |
@@ -355,10 +358,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Prelude to Apocalypse & Mordrigor's Demise | 196580 | [196580-quake-prelude-to-apocalypse-and-mordrigors-demise.json](./196580-quake-prelude-to-apocalypse-and-mordrigors-demise.json) |
 | Quake: Rapture | 196653 | [196653-quake-rapture.json](./196653-quake-rapture.json) |
 | Quake: Raven Keep | 142275 | [142275-quake-raven-keep.json](./142275-quake-raven-keep.json) |
+| Quake: Realms of the Lost | 196451 | [196451-quake-realms-of-the-lost.json](./196451-quake-realms-of-the-lost.json) |
 | Quake: Realms of Tiddles | 202929 | [202929-quake-realms-of-tiddles.json](./202929-quake-realms-of-tiddles.json) |
+| Quake: Reliquary | 196456 | [196456-quake-reliquary.json](./196456-quake-reliquary.json) |
 | Quake: Retro Jam Egyptian | 196725 | [196725-quake-retro-jam-egyptian.json](./196725-quake-retro-jam-egyptian.json) |
 | Quake: Retro Jam Windtunnel | 196726 | [196726-quake-retro-jam-windtunnel.json](./196726-quake-retro-jam-windtunnel.json) |
 | Quake: Rubicon | 325922 | [325922-quake-rubicon.json](./325922-quake-rubicon.json) |
+| Quake: Rubicon Rumble Pack | 196454 | [196454-quake-rubicon-rumble-pack.json](./196454-quake-rubicon-rumble-pack.json) |
+| Quake: Rubicon2 | 196453 | [196453-quake-rubicon2.json](./196453-quake-rubicon2.json) |
 | Quake: Sewer Jam | 196799 | [196799-quake-sewer-jam.json](./196799-quake-sewer-jam.json) |
 | Quake: SMEJ Jam | 196491 | [196491-quake-smej-jam.json](./196491-quake-smej-jam.json) |
 | Quake: Soul of Evil | 196644 | [196644-quake-soul-of-evil.json](./196644-quake-soul-of-evil.json) |
@@ -367,7 +374,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: The Final Descent | 196723 | [196723-quake-the-final-descent.json](./196723-quake-the-final-descent.json) |
 | Quake: The Offering | 46627 | [46627-quake-the-offering.json](./46627-quake-the-offering.json) |
 | Quake: The Prodigy | 195911 | [195911-quake-the-prodigy.json](./195911-quake-the-prodigy.json) |
+| Quake: The Punishment Due | 196447 | [196447-quake-the-punishment-due.json](./196447-quake-the-punishment-due.json) |
 | Quake: The Punishment Due | 280188 | [280188-quake-the-punishment-due.json](./280188-quake-the-punishment-due.json) |
+| Quake: The Purifier | 196449 | [196449-quake-the-purifier.json](./196449-quake-the-purifier.json) |
 | Quake: Torrent of Impurities | 196498 | [196498-quake-torrent-of-impurities.json](./196498-quake-torrent-of-impurities.json) |
 | Quake: Travail | 203189 | [203189-quake-travail.json](./203189-quake-travail.json) |
 | Quake: Underdark Overbright & Copper | 199075 | [199075-quake-underdark-overbright-and-copper.json](./199075-quake-underdark-overbright-and-copper.json) |
@@ -966,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quietus | 242906 | [242906-quietus.json](./242906-quietus.json) |
 | Quietus Euphony | 374046 | [374046-quietus-euphony.json](./374046-quietus-euphony.json) |
 | Quiiiz | 304204 | [304204-quiiiz.json](./304204-quiiiz.json) |
+| Quijote: Quest for Glory | 195364 | [195364-quijote-quest-for-glory.json](./195364-quijote-quest-for-glory.json) |
 | Quill | 273779 | [273779-quill.json](./273779-quill.json) |
 | Quill > Pistol | 366240 | [366240-quill-pistol.json](./366240-quill-pistol.json) |
 | Quilly | 123495 | [123495-quilly.json](./123495-quilly.json) |
