@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Glory: Critical Warfare & AirJet Fighter: Sky Assault Bundle Collection | 386563 | [386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json](./386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json) |
 | Call of Guns: FPS Multiplayer Online 3D Guns Game | 216017 | [216017-call-of-guns-fps-multiplayer-online-3d-guns-game.json](./216017-call-of-guns-fps-multiplayer-online-3d-guns-game.json) |
 | Call of Hentai Neko | 367511 | [367511-call-of-hentai-neko.json](./367511-call-of-hentai-neko.json) |
+| Call of Heroes | 194115 | [194115-call-of-heroes.json](./194115-call-of-heroes.json) |
 | Call of Honor: Duty of Warfare | 288162 | [288162-call-of-honor-duty-of-warfare.json](./288162-call-of-honor-duty-of-warfare.json) |
 | Call of Honor: Duty of Warfare & Battlefront Trench Warriors: Ops of Warfare | 305623 | [305623-call-of-honor-duty-of-warfare-and-battlefront-trench-warriors-ops-of-warfare.json](./305623-call-of-honor-duty-of-warfare-and-battlefront-trench-warriors-ops-of-warfare.json) |
 | Call of Honor: Shooter of Warfare | 328095 | [328095-call-of-honor-shooter-of-warfare.json](./328095-call-of-honor-shooter-of-warfare.json) |
@@ -3165,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Tycoon Simulator | 393415 | [393415-castle-tycoon-simulator.json](./393415-castle-tycoon-simulator.json) |
 | Castle V Castle | 331947 | [331947-castle-v-castle.json](./331947-castle-v-castle.json) |
 | Castle Walker | 216410 | [216410-castle-walker.json](./216410-castle-walker.json) |
+| Castle War | 194102 | [194102-castle-war.json](./194102-castle-war.json) |
 | Castle War | 380055 | [380055-castle-war.json](./380055-castle-war.json) |
 | Castle War | 380056 | [380056-castle-war.json](./380056-castle-war.json) |
 | Castle Warriors | 238381 | [238381-castle-warriors.json](./238381-castle-warriors.json) |
@@ -6657,6 +6659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chizome Kijo | 206457 | [206457-chizome-kijo.json](./206457-chizome-kijo.json) |
 | Chizome no Hana | 299686 | [299686-chizome-no-hana.json](./299686-chizome-no-hana.json) |
 | Chkn | 34021 | [34021-chkn.json](./34021-chkn.json) |
+| Chlea Adventure Fantasy Island | 194146 | [194146-chlea-adventure-fantasy-island.json](./194146-chlea-adventure-fantasy-island.json) |
 | Chloe Puzzle Game | 162247 | [162247-chloe-puzzle-game.json](./162247-chloe-puzzle-game.json) |
 | Chloe's Requiem | 124639 | [124639-chloes-requiem.json](./124639-chloes-requiem.json) |
 | Chloe’s Requiem: Encore | 250285 | [250285-chloe-s-requiem-encore.json](./250285-chloe-s-requiem-encore.json) |
@@ -7276,6 +7279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicle of Daneya | 156969 | [156969-chronicle-of-daneya.json](./156969-chronicle-of-daneya.json) |
 | Chronicle of Ekan | 169980 | [169980-chronicle-of-ekan.json](./169980-chronicle-of-ekan.json) |
 | Chronicle of Forgotten Times: Pawn of the Gods | 202642 | [202642-chronicle-of-forgotten-times-pawn-of-the-gods.json](./202642-chronicle-of-forgotten-times-pawn-of-the-gods.json) |
+| Chronicle of Infinity | 194117 | [194117-chronicle-of-infinity.json](./194117-chronicle-of-infinity.json) |
 | Chronicle of Innsmouth | 28527 | [28527-chronicle-of-innsmouth.json](./28527-chronicle-of-innsmouth.json) |
 | Chronicle of Wuxia & Xianxia Survivors | 406548 | [406548-chronicle-of-wuxia-and-xianxia-survivors.json](./406548-chronicle-of-wuxia-and-xianxia-survivors.json) |
 | Chronicle Survivors | 287198 | [287198-chronicle-survivors.json](./287198-chronicle-survivors.json) |
@@ -12488,6 +12492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena: Sushi Time! | 260040 | [260040-cooking-arena-sushi-time.json](./260040-cooking-arena-sushi-time.json) |
 | Cooking Arena: Sweet Bakery Tycoon | 260036 | [260036-cooking-arena-sweet-bakery-tycoon.json](./260036-cooking-arena-sweet-bakery-tycoon.json) |
 | Cooking Arena: Value Edition | 399814 | [399814-cooking-arena-value-edition.json](./399814-cooking-arena-value-edition.json) |
+| Cooking Battle! | 194134 | [194134-cooking-battle.json](./194134-cooking-battle.json) |
 | Cooking Bride to Primrose Lake | 417602 | [417602-cooking-bride-to-primrose-lake.json](./417602-cooking-bride-to-primrose-lake.json) |
 | Cooking by the Numbers | 364616 | [364616-cooking-by-the-numbers.json](./364616-cooking-by-the-numbers.json) |
 | Cooking Champions | 119017 | [119017-cooking-champions.json](./119017-cooking-champions.json) |
@@ -15314,6 +15319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Wing | 146102 | [146102-crisis-wing.json](./146102-crisis-wing.json) |
 | Crisis Zone | 13896 | [13896-crisis-zone.json](./13896-crisis-zone.json) |
 | Crisis: North Korea | 62792 | [62792-crisis-north-korea.json](./62792-crisis-north-korea.json) |
+| Crisis: S | 194124 | [194124-crisis-s.json](./194124-crisis-s.json) |
 | Crisis: The Third Way | 382220 | [382220-crisis-the-third-way.json](./382220-crisis-the-third-way.json) |
 | Crisis/Divider | 305153 | [305153-crisis-divider.json](./305153-crisis-divider.json) |
 | Crisp Cube | 125886 | [125886-crisp-cube.json](./125886-crisp-cube.json) |
