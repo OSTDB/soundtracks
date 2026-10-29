@@ -5536,6 +5536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuusou Kagaku Sekai Gulliver Boy | 81278 | [81278-kuusou-kagaku-sekai-gulliver-boy.json](./81278-kuusou-kagaku-sekai-gulliver-boy.json) |
 | Kuusou Kagaku Sekai Gulliver Boy: Kuusou Kagaku Puzzle Puritto Pon | 228604 | [228604-kuusou-kagaku-sekai-gulliver-boy-kuusou-kagaku-puzzle-puritto-pon.json](./228604-kuusou-kagaku-sekai-gulliver-boy-kuusou-kagaku-puzzle-puritto-pon.json) |
 | Kuusou Sakaba: A Great Banquet Of Liars | 288361 | [288361-kuusou-sakaba-a-great-banquet-of-liars.json](./288361-kuusou-sakaba-a-great-banquet-of-liars.json) |
+| Kuzbass | 194112 | [194112-kuzbass.json](./194112-kuzbass.json) |
 | Kuzgakai's Dungeon | 215794 | [215794-kuzgakais-dungeon.json](./215794-kuzgakais-dungeon.json) |
 | Kvaka-zadavaka | 367906 | [367906-kvaka-zadavaka.json](./367906-kvaka-zadavaka.json) |
 | Kvark | 244262 | [244262-kvark.json](./244262-kvark.json) |
