@@ -2033,11 +2033,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Gunner | 128551 | [128551-3d-gunner.json](./128551-3d-gunner.json) |
 | 3D Hardcore Cube | 55329 | [55329-3d-hardcore-cube.json](./55329-3d-hardcore-cube.json) |
 | 3D Havoc | 11110 | [11110-3d-havoc.json](./11110-3d-havoc.json) |
+| 3D Hearts Deluxe | 205937 | [205937-3d-hearts-deluxe.json](./205937-3d-hearts-deluxe.json) |
+| 3D Helicopter Coyote Hunter | 205939 | [205939-3d-helicopter-coyote-hunter.json](./205939-3d-helicopter-coyote-hunter.json) |
 | 3D Hentai Blackjack | 228924 | [228924-3d-hentai-blackjack.json](./228924-3d-hentai-blackjack.json) |
 | 3D Hentai Chess | 149424 | [149424-3d-hentai-chess.json](./149424-3d-hentai-chess.json) |
 | 3D Hentai Puzzle | 163558 | [163558-3d-hentai-puzzle.json](./163558-3d-hentai-puzzle.json) |
 | 3D Hentai Puzzle 2 | 163534 | [163534-3d-hentai-puzzle-2.json](./163534-3d-hentai-puzzle-2.json) |
 | 3D Hopper | 327387 | [327387-3d-hopper.json](./327387-3d-hopper.json) |
+| 3D Hunting: Extreme | 205940 | [205940-3d-hunting-extreme.json](./205940-3d-hunting-extreme.json) |
+| 3D Hunting: Grizzly | 205941 | [205941-3d-hunting-grizzly.json](./205941-3d-hunting-grizzly.json) |
+| 3D Hunting: Grizzly | 205943 | [205943-3d-hunting-grizzly.json](./205943-3d-hunting-grizzly.json) |
+| 3D Hunting: Shark | 205947 | [205947-3d-hunting-shark.json](./205947-3d-hunting-shark.json) |
 | 3D Hunting: Trophy Whitetail | 70239 | [70239-3d-hunting-trophy-whitetail.json](./70239-3d-hunting-trophy-whitetail.json) |
 | 3D Icon Quiz | 232060 | [232060-3d-icon-quiz.json](./232060-3d-icon-quiz.json) |
 | 3D Illusion Maze Path Puzzle | 100621 | [100621-3d-illusion-maze-path-puzzle.json](./100621-3d-illusion-maze-path-puzzle.json) |
