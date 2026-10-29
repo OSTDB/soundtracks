@@ -851,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Rush | 310834 | [310834-galaxy-rush.json](./310834-galaxy-rush.json) |
 | Galaxy Rushroom | 116024 | [116024-galaxy-rushroom.json](./116024-galaxy-rushroom.json) |
 | Galaxy Saver | 84646 | [84646-galaxy-saver.json](./84646-galaxy-saver.json) |
+| Galaxy Shooter | 178787 | [178787-galaxy-shooter.json](./178787-galaxy-shooter.json) |
 | Galaxy Shooter Space War Games | 231949 | [231949-galaxy-shooter-space-war-games.json](./231949-galaxy-shooter-space-war-games.json) |
 | Galaxy Shooting: Alien War | 105539 | [105539-galaxy-shooting-alien-war.json](./105539-galaxy-shooting-alien-war.json) |
 | Galaxy Sphere | 180066 | [180066-galaxy-sphere.json](./180066-galaxy-sphere.json) |
