@@ -2689,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | inAntrum | 201545 | [201545-inantrum.json](./201545-inantrum.json) |
 | Inari | 277605 | [277605-inari.json](./277605-inari.json) |
 | Inari | 384014 | [384014-inari.json](./384014-inari.json) |
+| Inari's Tale | 190328 | [190328-inaris-tale.json](./190328-inaris-tale.json) |
 | Inaro | 263321 | [263321-inaro.json](./263321-inaro.json) |
 | Inauthentic Hummus | 348353 | [348353-inauthentic-hummus.json](./348353-inauthentic-hummus.json) |
 | Inayah: Life after Gods | 317838 | [317838-inayah-life-after-gods.json](./317838-inayah-life-after-gods.json) |
@@ -5300,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isabelle 64 | 135266 | [135266-isabelle-64.json](./135266-isabelle-64.json) |
 | Isadora's Edge | 329969 | [329969-isadoras-edge.json](./329969-isadoras-edge.json) |
 | Isagi's Bartending Diary | 405634 | [405634-isagis-bartending-diary.json](./405634-isagis-bartending-diary.json) |
+| Isaiah 188 | 190314 | [190314-isaiah-188.json](./190314-isaiah-188.json) |
 | Isaiah 24:4-6 | 228973 | [228973-isaiah-24-4-6.json](./228973-isaiah-24-4-6.json) |
 | Isane Insects: The Inception | 53255 | [53255-isane-insects-the-inception.json](./53255-isane-insects-the-inception.json) |
 | iSays - Simon Says Classic Color Switch Memory Game | 89733 | [89733-isays-simon-says-classic-color-switch-memory-game.json](./89733-isays-simon-says-classic-color-switch-memory-game.json) |
