@@ -1259,6 +1259,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game-VCD 7 | 263629 | [263629-game-vcd-7.json](./263629-game-vcd-7.json) |
 | Game-VCD 8 | 263630 | [263630-game-vcd-8.json](./263630-game-vcd-8.json) |
 | Game-VCD 9 | 263631 | [263631-game-vcd-9.json](./263631-game-vcd-9.json) |
+| Game-Ware Vol. 1 | 222651 | [222651-game-ware-vol-1.json](./222651-game-ware-vol-1.json) |
+| Game-Ware Vol. 2 | 222665 | [222665-game-ware-vol-2.json](./222665-game-ware-vol-2.json) |
+| Game-Ware Vol. 3 | 222666 | [222666-game-ware-vol-3.json](./222666-game-ware-vol-3.json) |
+| Game-Ware Vol. 4 | 222667 | [222667-game-ware-vol-4.json](./222667-game-ware-vol-4.json) |
+| Game-Ware Vol. 5 | 222668 | [222668-game-ware-vol-5.json](./222668-game-ware-vol-5.json) |
 | Game, Game, Game, and again Game | 231840 | [231840-game-game-game-and-again-game.json](./231840-game-game-game-and-again-game.json) |
 | Game, Net & Match! | 85732 | [85732-game-net-and-match.json](./85732-game-net-and-match.json) |
 | Game, Set & Match | 41002 | [41002-game-set-and-match.json](./41002-game-set-and-match.json) |
@@ -5180,6 +5185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War III: Remastered | 19959 | [19959-god-of-war-iii-remastered.json](./19959-god-of-war-iii-remastered.json) |
 | God of War Laufey | 404063 | [404063-god-of-war-laufey.json](./404063-god-of-war-laufey.json) |
 | God of War Laufey: Digital Deluxe Edition | 420579 | [420579-god-of-war-laufey-digital-deluxe-edition.json](./420579-god-of-war-laufey-digital-deluxe-edition.json) |
+| God of War Ragnarök: Digital Deluxe Edition | 222603 | [222603-god-of-war-ragnarok-digital-deluxe-edition.json](./222603-god-of-war-ragnarok-digital-deluxe-edition.json) |
 | God of War Remake | 389450 | [389450-god-of-war-remake.json](./389450-god-of-war-remake.json) |
 | God of War Sons of Sparta: Digital Deluxe Edition | 407463 | [407463-god-of-war-sons-of-sparta-digital-deluxe-edition.json](./407463-god-of-war-sons-of-sparta-digital-deluxe-edition.json) |
 | God of War Trilogy | 44653 | [44653-god-of-war-trilogy.json](./44653-god-of-war-trilogy.json) |
@@ -7256,6 +7262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Smash | 90583 | [90583-graveyard-smash.json](./90583-graveyard-smash.json) |
 | Graveyard Spells | 186674 | [186674-graveyard-spells.json](./186674-graveyard-spells.json) |
 | Graveyard Sprint | 245874 | [245874-graveyard-sprint.json](./245874-graveyard-sprint.json) |
+| Graveyard Strolls | 222613 | [222613-graveyard-strolls.json](./222613-graveyard-strolls.json) |
 | Graveyard: The Shift | 247663 | [247663-graveyard-the-shift.json](./247663-graveyard-the-shift.json) |
 | Graveyard404 | 365260 | [365260-graveyard404.json](./365260-graveyard404.json) |
 | GraveyardGambit | 308969 | [308969-graveyardgambit.json](./308969-graveyardgambit.json) |
