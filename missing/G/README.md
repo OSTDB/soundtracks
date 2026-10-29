@@ -4848,6 +4848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Up | 363958 | [363958-go-up.json](./363958-go-up.json) |
 | Go Up Frog | 401521 | [401521-go-up-frog.json](./401521-go-up-frog.json) |
 | Go Up! | 255666 | [255666-go-up.json](./255666-go-up.json) |
+| Go Vacation | 210428 | [210428-go-vacation.json](./210428-go-vacation.json) |
 | Go West | 133998 | [133998-go-west.json](./133998-go-west.json) |
 | Go West Together | 413863 | [413863-go-west-together.json](./413863-go-west-together.json) |
 | Go West! A Lucky Luke Adventure | 110321 | [110321-go-west-a-lucky-luke-adventure.json](./110321-go-west-a-lucky-luke-adventure.json) |
@@ -7096,6 +7097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graphomata | 288878 | [288878-graphomata.json](./288878-graphomata.json) |
 | GraphSpacer | 68637 | [68637-graphspacer.json](./68637-graphspacer.json) |
 | GraphSpacer Black | 80243 | [80243-graphspacer-black.json](./80243-graphspacer-black.json) |
+| Graphwar | 210415 | [210415-graphwar.json](./210415-graphwar.json) |
 | Graphwar II | 309395 | [309395-graphwar-ii.json](./309395-graphwar-ii.json) |
 | Grapixo Arte em Guerra | 407522 | [407522-grapixo-arte-em-guerra.json](./407522-grapixo-arte-em-guerra.json) |
 | Grappin | 168699 | [168699-grappin.json](./168699-grappin.json) |
@@ -8961,6 +8963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess the Person? | 88466 | [88466-guess-the-person.json](./88466-guess-the-person.json) |
 | Guess the Word | 115339 | [115339-guess-the-word.json](./115339-guess-the-word.json) |
 | Guess the Word | 277341 | [277341-guess-the-word.json](./277341-guess-the-word.json) |
+| Guess The.Game | 210398 | [210398-guess-the-game.json](./210398-guess-the-game.json) |
 | Guess Their Answer | 316105 | [316105-guess-their-answer.json](./316105-guess-their-answer.json) |
 | Guess Where You Are | 320164 | [320164-guess-where-you-are.json](./320164-guess-where-you-are.json) |
 | Guess who ? | 104929 | [104929-guess-who.json](./104929-guess-who.json) |
