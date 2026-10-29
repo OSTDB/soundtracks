@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magneko | 212980 | [212980-magneko.json](./212980-magneko.json) |
 | Magnery Reign | 156580 | [156580-magnery-reign.json](./156580-magnery-reign.json) |
 | Magnet Action: Zi | 147890 | [147890-magnet-action-zi.json](./147890-magnet-action-zi.json) |
+| Magnet Block | 223224 | [223224-magnet-block.json](./223224-magnet-block.json) |
 | Magnet Crusher | 190903 | [190903-magnet-crusher.json](./190903-magnet-crusher.json) |
 | Magnet Effect | 214010 | [214010-magnet-effect.json](./214010-magnet-effect.json) |
 | Magnet Face | 203091 | [203091-magnet-face.json](./203091-magnet-face.json) |
@@ -3980,6 +3981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Tricks | 394133 | [394133-martial-tricks.json](./394133-martial-tricks.json) |
 | Martian Escape | 191117 | [191117-martian-escape.json](./191117-martian-escape.json) |
 | Martian Gothic: Unification | 24120 | [24120-martian-gothic-unification.json](./24120-martian-gothic-unification.json) |
+| Martian Invaders | 223235 | [223235-martian-invaders.json](./223235-martian-invaders.json) |
 | Martian Law | 121987 | [121987-martian-law.json](./121987-martian-law.json) |
 | Martian Panic | 4996 | [4996-martian-panic.json](./4996-martian-panic.json) |
 | Martian Potato | 157041 | [157041-martian-potato.json](./157041-martian-potato.json) |
@@ -16194,6 +16196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
 | Mr. Gray and the Island Invasion | 177729 | [177729-mr-gray-and-the-island-invasion.json](./177729-mr-gray-and-the-island-invasion.json) |
 | Mr. Grin's Final Act | 382591 | [382591-mr-grins-final-act.json](./382591-mr-grins-final-act.json) |
+| Mr. Healer | 223271 | [223271-mr-healer.json](./223271-mr-healer.json) |
 | Mr. Heli | 10446 | [10446-mr-heli.json](./10446-mr-heli.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
 | Mr. Hibbl: The Lost Levels | 262237 | [262237-mr-hibbl-the-lost-levels.json](./262237-mr-hibbl-the-lost-levels.json) |
@@ -17568,6 +17571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Confounding Cat is Criminally Cute! | 284911 | [284911-my-confounding-cat-is-criminally-cute.json](./284911-my-confounding-cat-is-criminally-cute.json) |
 | My Cool Diner | 200150 | [200150-my-cool-diner.json](./200150-my-cool-diner.json) |
 | My Cousin the Rogue | 160062 | [160062-my-cousin-the-rogue.json](./160062-my-cousin-the-rogue.json) |
+| My Coworker is an Idiot | 223241 | [223241-my-coworker-is-an-idiot.json](./223241-my-coworker-is-an-idiot.json) |
 | My Coworkers Are Made Of Static | 401490 | [401490-my-coworkers-are-made-of-static.json](./401490-my-coworkers-are-made-of-static.json) |
 | My Cozy Aquarium | 373615 | [373615-my-cozy-aquarium.json](./373615-my-cozy-aquarium.json) |
 | My Cozy Home | 258936 | [258936-my-cozy-home.json](./258936-my-cozy-home.json) |
@@ -18198,6 +18202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Name Is... | 372803 | [372803-my-name-is.json](./372803-my-name-is.json) |
 | My Naughty Shotgun | 197400 | [197400-my-naughty-shotgun.json](./197400-my-naughty-shotgun.json) |
 | My NBA 2K18 | 88856 | [88856-my-nba-2k18.json](./88856-my-nba-2k18.json) |
+| My Needy Neighbour Girls | 223257 | [223257-my-needy-neighbour-girls.json](./223257-my-needy-neighbour-girls.json) |
 | My Neighbor Alice | 157044 | [157044-my-neighbor-alice.json](./157044-my-neighbor-alice.json) |
 | My Neighbor Enide | 295630 | [295630-my-neighbor-enide.json](./295630-my-neighbor-enide.json) |
 | My Neighbor is a Yandere?! | 143062 | [143062-my-neighbor-is-a-yandere.json](./143062-my-neighbor-is-a-yandere.json) |
