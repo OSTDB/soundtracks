@@ -27894,6 +27894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Sayajin Aventura | 265845 | [265845-super-mario-sayajin-aventura.json](./265845-super-mario-sayajin-aventura.json) |
 | Super Mario Scene Creator | 328343 | [328343-super-mario-scene-creator.json](./328343-super-mario-scene-creator.json) |
 | Super Mario Senseless Delirium | 199032 | [199032-super-mario-senseless-delirium.json](./199032-super-mario-senseless-delirium.json) |
+| Super Mario Skycastle | 222648 | [222648-super-mario-skycastle.json](./222648-super-mario-skycastle.json) |
 | Super Mario Spectral | 401859 | [401859-super-mario-spectral.json](./401859-super-mario-spectral.json) |
 | Super Mario Spikers | 175958 | [175958-super-mario-spikers.json](./175958-super-mario-spikers.json) |
 | Super Mario Star Path | 314130 | [314130-super-mario-star-path.json](./314130-super-mario-star-path.json) |
@@ -27989,6 +27990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario: Hunter's Revenge 3 | 276888 | [276888-super-mario-hunters-revenge-3.json](./276888-super-mario-hunters-revenge-3.json) |
 | Super Mario: Magnum Opus | 250041 | [250041-super-mario-magnum-opus.json](./250041-super-mario-magnum-opus.json) |
 | Super Mario: Oiram's Invasion | 268403 | [268403-super-mario-oirams-invasion.json](./268403-super-mario-oirams-invasion.json) |
+| Super Mario: Parallel Stars | 222659 | [222659-super-mario-parallel-stars.json](./222659-super-mario-parallel-stars.json) |
 | Super Mario: Red Scare | 321468 | [321468-super-mario-red-scare.json](./321468-super-mario-red-scare.json) |
 | Super Mario: Red Scare 2 | 318038 | [318038-super-mario-red-scare-2.json](./318038-super-mario-red-scare-2.json) |
 | Super Mario: Shatters of A Soul | 323871 | [323871-super-mario-shatters-of-a-soul.json](./323871-super-mario-shatters-of-a-soul.json) |
@@ -30141,6 +30143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sut | 271903 | [271903-sut.json](./271903-sut.json) |
 | Sutakomi: Star Communicator | 49804 | [49804-sutakomi-star-communicator.json](./49804-sutakomi-star-communicator.json) |
 | Suteki na Kanojo no Tsukurikata | 156919 | [156919-suteki-na-kanojo-no-tsukurikata.json](./156919-suteki-na-kanojo-no-tsukurikata.json) |
+| Suto Mani: Strobe Mania | 222637 | [222637-suto-mani-strobe-mania.json](./222637-suto-mani-strobe-mania.json) |
 | Sutobasu Yarou Shou | 42426 | [42426-sutobasu-yarou-shou.json](./42426-sutobasu-yarou-shou.json) |
 | Sutopuri Nurie | 193783 | [193783-sutopuri-nurie.json](./193783-sutopuri-nurie.json) |
 | Sutte Hakkun | 356234 | [356234-sutte-hakkun.json](./356234-sutte-hakkun.json) |
