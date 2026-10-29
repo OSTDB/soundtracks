@@ -3641,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell On Earth Shareware | 275212 | [275212-hell-on-earth-shareware.json](./275212-hell-on-earth-shareware.json) |
 | Hell on Ice | 180686 | [180686-hell-on-ice.json](./180686-hell-on-ice.json) |
 | Hell Pages | 161610 | [161610-hell-pages.json](./161610-hell-pages.json) |
+| Hell Punk Awakening | 196990 | [196990-hell-punk-awakening.json](./196990-hell-punk-awakening.json) |
 | Hell Revealations | 275570 | [275570-hell-revealations.json](./275570-hell-revealations.json) |
 | Hell Revealed | 138759 | [138759-hell-revealed.json](./138759-hell-revealed.json) |
 | Hell Revealed II | 139895 | [139895-hell-revealed-ii.json](./139895-hell-revealed-ii.json) |
@@ -7027,6 +7028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
 | Himawari no Kyoukai to Nagai Natsuyasumi | 137108 | [137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json](./137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json) |
 | Himawari to Koi no Kioku | 194574 | [194574-himawari-to-koi-no-kioku.json](./194574-himawari-to-koi-no-kioku.json) |
+| Himbo Harem Homicide | 196976 | [196976-himbo-harem-homicide.json](./196976-himbo-harem-homicide.json) |
 | Hime Cut | 330502 | [330502-hime-cut.json](./330502-hime-cut.json) |
 | Hime Girl Paradise: Mechikawa! Age Sakari Sensation! | 140934 | [140934-hime-girl-paradise-mechikawa-age-sakari-sensation.json](./140934-hime-girl-paradise-mechikawa-age-sakari-sensation.json) |
 | Hime Hibi Zoku! 2 Gakki: New Princess Days!! | 59372 | [59372-hime-hibi-zoku-2-gakki-new-princess-days.json](./59372-hime-hibi-zoku-2-gakki-new-princess-days.json) |
@@ -8135,6 +8137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Together | 302624 | [302624-home-together.json](./302624-home-together.json) |
 | Home Town Work | 393768 | [393768-home-town-work.json](./393768-home-town-work.json) |
 | Home trip | 262103 | [262103-home-trip.json](./262103-home-trip.json) |
+| Home VR | 197003 | [197003-home-vr.json](./197003-home-vr.json) |
 | Home Wars | 43334 | [43334-home-wars.json](./43334-home-wars.json) |
 | Home World Run | 315322 | [315322-home-world-run.json](./315322-home-world-run.json) |
 | Home_0 | 325661 | [325661-home-0.json](./325661-home-0.json) |
