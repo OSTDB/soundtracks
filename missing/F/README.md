@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable III: Understone Quest Pack | 20558 | [20558-fable-iii-understone-quest-pack.json](./20558-fable-iii-understone-quest-pack.json) |
 | Fable Legends | 5624 | [5624-fable-legends.json](./5624-fable-legends.json) |
 | Fable Mosaics: Rapunzel | 294218 | [294218-fable-mosaics-rapunzel.json](./294218-fable-mosaics-rapunzel.json) |
+| Fable of Fairy Stones | 222064 | [222064-fable-of-fairy-stones.json](./222064-fable-of-fairy-stones.json) |
 | Fable of the Sword | 83486 | [83486-fable-of-the-sword.json](./83486-fable-of-the-sword.json) |
 | Fable Rush | 52283 | [52283-fable-rush.json](./52283-fable-rush.json) |
 | Fable: 20th Anniversary Demake | 342668 | [342668-fable-20th-anniversary-demake.json](./342668-fable-20th-anniversary-demake.json) |
@@ -11774,6 +11775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Bird | 247538 | [247538-funny-bird.json](./247538-funny-bird.json) |
 | Funny Bubble | 40130 | [40130-funny-bubble.json](./40130-funny-bubble.json) |
 | Funny Bunny Gun | 216639 | [216639-funny-bunny-gun.json](./216639-funny-bunny-gun.json) |
+| Funny Car Wash | 222055 | [222055-funny-car-wash.json](./222055-funny-car-wash.json) |
 | Funny Card | 193495 | [193495-funny-card.json](./193495-funny-card.json) |
 | Funny Cards | 82138 | [82138-funny-cards.json](./82138-funny-cards.json) |
 | Funny Cargo Simulator | 348407 | [348407-funny-cargo-simulator.json](./348407-funny-cargo-simulator.json) |
