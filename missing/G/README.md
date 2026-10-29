@@ -8245,6 +8245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrimWhimsy | 336647 | [336647-grimwhimsy.json](./336647-grimwhimsy.json) |
 | Grimwild Horror | 319169 | [319169-grimwild-horror.json](./319169-grimwild-horror.json) |
 | Grin Bandana | 54475 | [54475-grin-bandana.json](./54475-grin-bandana.json) |
+| Grin Robot Games Bundle | 218847 | [218847-grin-robot-games-bundle.json](./218847-grin-robot-games-bundle.json) |
 | Grinbo | 91554 | [91554-grinbo.json](./91554-grinbo.json) |
 | Grind | 153162 | [153162-grind.json](./153162-grind.json) |
 | Grind Hero | 361630 | [361630-grind-hero.json](./361630-grind-hero.json) |
