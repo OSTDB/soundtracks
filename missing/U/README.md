@@ -2128,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe 25: The Loop | 171072 | [171072-universe-25-the-loop.json](./171072-universe-25-the-loop.json) |
 | Universe 3 | 13085 | [13085-universe-3.json](./13085-universe-3.json) |
 | Universe 42 | 243719 | [243719-universe-42.json](./243719-universe-42.json) |
+| Universe 51: Tannhäuser Wars | 195894 | [195894-universe-51-tannhauser-wars.json](./195894-universe-51-tannhauser-wars.json) |
 | Universe Apart | 199491 | [199491-universe-apart.json](./199491-universe-apart.json) |
 | Universe at War: Earth Assault | 7230 | [7230-universe-at-war-earth-assault.json](./7230-universe-at-war-earth-assault.json) |
 | Universe Dawn | 336994 | [336994-universe-dawn.json](./336994-universe-dawn.json) |
