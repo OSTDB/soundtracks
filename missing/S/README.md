@@ -14322,6 +14322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldiers of Vietnam: American | 220048 | [220048-soldiers-of-vietnam-american.json](./220048-soldiers-of-vietnam-american.json) |
 | Soldiers vs. Zombies: Tower Defense | 345385 | [345385-soldiers-vs-zombies-tower-defense.json](./345385-soldiers-vs-zombies-tower-defense.json) |
 | Soldiers: Arena | 34024 | [34024-soldiers-arena.json](./34024-soldiers-arena.json) |
+| Soldiers: SDC2X | 204791 | [204791-soldiers-sdc2x.json](./204791-soldiers-sdc2x.json) |
 | Söldner-X 2: Final Prototype | 26937 | [26937-soldner-x-2-final-prototype.json](./26937-soldner-x-2-final-prototype.json) |
 | Söldner-X 2: Final Prototype - Definitive Edition | 140847 | [140847-soldner-x-2-final-prototype-definitive-edition.json](./140847-soldner-x-2-final-prototype-definitive-edition.json) |
 | Söldner-X 2: The Last Chapter | 26938 | [26938-soldner-x-2-the-last-chapter.json](./26938-soldner-x-2-the-last-chapter.json) |
@@ -24186,6 +24187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Command Classic: WWII | 96683 | [96683-strategic-command-classic-wwii.json](./96683-strategic-command-classic-wwii.json) |
 | Strategic Command WWII: War in the Pacific | 292538 | [292538-strategic-command-wwii-war-in-the-pacific.json](./292538-strategic-command-wwii-war-in-the-pacific.json) |
 | Strategic Command WWII: World at War | 112747 | [112747-strategic-command-wwii-world-at-war.json](./112747-strategic-command-wwii-world-at-war.json) |
+| Strategic Command: American Civil War | 204783 | [204783-strategic-command-american-civil-war.json](./204783-strategic-command-american-civil-war.json) |
 | Strategic Command: American Civil War - Concert of Europe | 361043 | [361043-strategic-command-american-civil-war-concert-of-europe.json](./361043-strategic-command-american-civil-war-concert-of-europe.json) |
 | Strategic Command: American Civil War - Wars in the Americas | 231865 | [231865-strategic-command-american-civil-war-wars-in-the-americas.json](./231865-strategic-command-american-civil-war-wars-in-the-americas.json) |
 | Strategic Command: European Theater | 51892 | [51892-strategic-command-european-theater.json](./51892-strategic-command-european-theater.json) |
