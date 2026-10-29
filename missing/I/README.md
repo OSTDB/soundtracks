@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Spy: Treasure Hunt | 91749 | [91749-i-spy-treasure-hunt.json](./91749-i-spy-treasure-hunt.json) |
 | I Still Live Under Your House | 277745 | [277745-i-still-live-under-your-house.json](./277745-i-still-live-under-your-house.json) |
 | I Suck At: Word Games | 63110 | [63110-i-suck-at-word-games.json](./63110-i-suck-at-word-games.json) |
+| I Suddenly Became a Magical Girl to Fight Aliens from Another Dimension?! | 184202 | [184202-i-suddenly-became-a-magical-girl-to-fight-aliens-from-another-dimension.json](./184202-i-suddenly-became-a-magical-girl-to-fight-aliens-from-another-dimension.json) |
 | I Support BCRF | 335456 | [335456-i-support-bcrf.json](./335456-i-support-bcrf.json) |
 | I Suppose | 367503 | [367503-i-suppose.json](./367503-i-suppose.json) |
 | I Swear this Hentai Game was a Gift | 248246 | [248246-i-swear-this-hentai-game-was-a-gift.json](./248246-i-swear-this-hentai-game-was-a-gift.json) |
