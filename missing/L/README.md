@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands 101 | 143550 | [143550-lands-101.json](./143550-lands-101.json) |
 | Lands of Achra | 347708 | [347708-lands-of-achra.json](./347708-lands-of-achra.json) |
 | Lands of Avaronia | 293681 | [293681-lands-of-avaronia.json](./293681-lands-of-avaronia.json) |
+| Lands of Crown | 207617 | [207617-lands-of-crown.json](./207617-lands-of-crown.json) |
 | Lands of Devastation | 32697 | [32697-lands-of-devastation.json](./32697-lands-of-devastation.json) |
 | Lands of Fire | 215195 | [215195-lands-of-fire.json](./215195-lands-of-fire.json) |
 | Lands of Havoc | 15244 | [15244-lands-of-havoc.json](./15244-lands-of-havoc.json) |
@@ -1949,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaper | 376574 | [376574-leaper.json](./376574-leaper.json) |
 | Leapfrog | 310992 | [310992-leapfrog.json](./310992-leapfrog.json) |
 | LeapFrog: Text & Learn | 327425 | [327425-leapfrog-text-and-learn.json](./327425-leapfrog-text-and-learn.json) |
+| Leapgate | 207629 | [207629-leapgate.json](./207629-leapgate.json) |
 | LeapII | 103955 | [103955-leapii.json](./103955-leapii.json) |
 | Leaping Legend | 290282 | [290282-leaping-legend.json](./290282-leaping-legend.json) |
 | LeapLand Adventures | 230275 | [230275-leapland-adventures.json](./230275-leapland-adventures.json) |
