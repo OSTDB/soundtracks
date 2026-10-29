@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Burger | 295134 | [295134-galaxy-burger.json](./295134-galaxy-burger.json) |
 | Galaxy Cannon Rider | 33051 | [33051-galaxy-cannon-rider.json](./33051-galaxy-cannon-rider.json) |
 | Galaxy Card Game | 404064 | [404064-galaxy-card-game.json](./404064-galaxy-card-game.json) |
+| Galaxy Cat | 201953 | [201953-galaxy-cat.json](./201953-galaxy-cat.json) |
 | Galaxy Citizen | 202538 | [202538-galaxy-citizen.json](./202538-galaxy-citizen.json) |
 | Galaxy Cleaners: Dracula's Castle | 385431 | [385431-galaxy-cleaners-draculas-castle.json](./385431-galaxy-cleaners-draculas-castle.json) |
 | Galaxy Cocoa | 363573 | [363573-galaxy-cocoa.json](./363573-galaxy-cocoa.json) |
