@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Decluster Zero: Bullet Nocturne | 142933 | [142933-decluster-zero-bullet-nocturne.json](./142933-decluster-zero-bullet-nocturne.json) |
 | .Decluster: Into the Bullet Hell | 142934 | [142934-decluster-into-the-bullet-hell.json](./142934-decluster-into-the-bullet-hell.json) |
 | .Detuned | 7724 | [7724-detuned.json](./7724-detuned.json) |
+| .Dog | 178808 | [178808-dog.json](./178808-dog.json) |
 | .Exe | 32666 | [32666-exe.json](./32666-exe.json) |
 | .ExE | 202236 | [202236-exe.json](./202236-exe.json) |
 | .Fall | 126441 | [126441-fall.json](./126441-fall.json) |
@@ -1382,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2-in-1 Fun Pack I Dreamworks Madagascar: Operation Penguin + Shrek 2 | 86054 | [86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json](./86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json) |
 | 2-in-1 Geminim/Siamond | 338795 | [338795-2-in-1-geminim-siamond.json](./338795-2-in-1-geminim-siamond.json) |
 | 2-in-1 Kart Racing Bundle | 331455 | [331455-2-in-1-kart-racing-bundle.json](./331455-2-in-1-kart-racing-bundle.json) |
+| 2-in-1: Meine Tierpension + Meine Tiersprechstunde | 178776 | [178776-2-in-1-meine-tierpension-meine-tiersprechstunde.json](./178776-2-in-1-meine-tierpension-meine-tiersprechstunde.json) |
 | 2-taku de Bishoujo Game | 214377 | [214377-2-taku-de-bishoujo-game.json](./214377-2-taku-de-bishoujo-game.json) |
 | 2-taku de Koishite Mune-kyun | 251629 | [251629-2-taku-de-koishite-mune-kyun.json](./251629-2-taku-de-koishite-mune-kyun.json) |
 | 2–3 Years in Grindstan | 358072 | [358072-2-3-years-in-grindstan.json](./358072-2-3-years-in-grindstan.json) |
@@ -1426,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 Games to Play With Your Mates | 98877 | [98877-20-games-to-play-with-your-mates.json](./98877-20-games-to-play-with-your-mates.json) |
 | 20 in 1 | 263636 | [263636-20-in-1.json](./263636-20-in-1.json) |
 | 20 in 1 Family Games Mega Collection | 386365 | [386365-20-in-1-family-games-mega-collection.json](./386365-20-in-1-family-games-mega-collection.json) |
+| 20 Ladies | 178798 | [178798-20-ladies.json](./178798-20-ladies.json) |
 | 20 Minute Metropolis | 124263 | [124263-20-minute-metropolis.json](./124263-20-minute-metropolis.json) |
 | 20 Minutes Till Dawn | 199748 | [199748-20-minutes-till-dawn.json](./199748-20-minutes-till-dawn.json) |
 | 20 More, Somehow Even Smaller, Mazes | 393460 | [393460-20-more-somehow-even-smaller-mazes.json](./393460-20-more-somehow-even-smaller-mazes.json) |
@@ -2629,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5x Qube : addictive puzzle grid fill 10/10 | 88672 | [88672-5x-qube-addictive-puzzle-grid-fill-10-10.json](./88672-5x-qube-addictive-puzzle-grid-fill-10-10.json) |
 | 5yn-OS | 424692 | [424692-5yn-os.json](./424692-5yn-os.json) |
 | 6 | 34296 | [34296-6.json](./34296-6.json) |
+| 6 AM at The Chum Bucket | 178804 | [178804-6-am-at-the-chum-bucket.json](./178804-6-am-at-the-chum-bucket.json) |
 | 6 Colors | 93366 | [93366-6-colors.json](./93366-6-colors.json) |
 | 6 Day Assassin | 171790 | [171790-6-day-assassin.json](./171790-6-day-assassin.json) |
 | 6 Days a Sacrifice | 71502 | [71502-6-days-a-sacrifice.json](./71502-6-days-a-sacrifice.json) |
@@ -2952,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 88 Heroes: 98 Heroes Edition | 74315 | [74315-88-heroes-98-heroes-edition.json](./74315-88-heroes-98-heroes-edition.json) |
 | 88 Nights in the Forest | 377400 | [377400-88-nights-in-the-forest.json](./377400-88-nights-in-the-forest.json) |
 | 8874 | 216774 | [216774-8874.json](./216774-8874.json) |
+| 890B | 178792 | [178792-890b.json](./178792-890b.json) |
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
 | 8AM | 288739 | [288739-8am.json](./288739-8am.json) |
 | 8AM: The Graveyard | 377399 | [377399-8am-the-graveyard.json](./377399-8am-the-graveyard.json) |
