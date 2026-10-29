@@ -5839,6 +5839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin Crasher | 258989 | [258989-pin-crasher.json](./258989-pin-crasher.json) |
 | Pin Hockey: Ice Arena | 140409 | [140409-pin-hockey-ice-arena.json](./140409-pin-hockey-ice-arena.json) |
 | Pin Pong | 18155 | [18155-pin-pong.json](./18155-pin-pong.json) |
+| Pin Rescue | 227549 | [227549-pin-rescue.json](./227549-pin-rescue.json) |
 | Pin Strike | 315807 | [315807-pin-strike.json](./315807-pin-strike.json) |
 | Pin Strike 2 | 375421 | [375421-pin-strike-2.json](./375421-pin-strike-2.json) |
 | Pin Strike 3 | 380656 | [380656-pin-strike-3.json](./380656-pin-strike-3.json) |
