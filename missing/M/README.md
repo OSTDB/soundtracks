@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Cubes | 246346 | [246346-magic-cubes.json](./246346-magic-cubes.json) |
 | Magic Darts | 48182 | [48182-magic-darts.json](./48182-magic-darts.json) |
 | Magic Defense | 155571 | [155571-magic-defense.json](./155571-magic-defense.json) |
+| Magic Disc Golf | 189309 | [189309-magic-disc-golf.json](./189309-magic-disc-golf.json) |
 | Magic Dodgeball: Homeless Edition | 361875 | [361875-magic-dodgeball-homeless-edition.json](./361875-magic-dodgeball-homeless-edition.json) |
 | Magic Doom | 275430 | [275430-magic-doom.json](./275430-magic-doom.json) |
 | Magic Duck | 287787 | [287787-magic-duck.json](./287787-magic-duck.json) |
@@ -2189,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makai Agito | 337589 | [337589-makai-agito.json](./337589-makai-agito.json) |
 | Makai Fukkatsu | 77577 | [77577-makai-fukkatsu.json](./77577-makai-fukkatsu.json) |
 | Makai Hakkenden Shada | 37675 | [37675-makai-hakkenden-shada.json](./37675-makai-hakkenden-shada.json) |
+| Makai Kingdom: Reclaimed and Rebound | 189329 | [189329-makai-kingdom-reclaimed-and-rebound.json](./189329-makai-kingdom-reclaimed-and-rebound.json) |
 | Makai Toushi SaGa | 84142 | [84142-makai-toushi-saga.json](./84142-makai-toushi-saga.json) |
 | Makai Wars | 51444 | [51444-makai-wars.json](./51444-makai-wars.json) |
 | Makaimura | 385551 | [385551-makaimura.json](./385551-makaimura.json) |
@@ -3924,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Survivor: Green Gun | 324457 | [324457-mars-survivor-green-gun.json](./324457-mars-survivor-green-gun.json) |
 | Mars Survivor: Red Rifle | 324458 | [324458-mars-survivor-red-rifle.json](./324458-mars-survivor-red-rifle.json) |
 | Mars Survivors | 253538 | [253538-mars-survivors.json](./253538-mars-survivors.json) |
+| Mars Tactics | 189333 | [189333-mars-tactics.json](./189333-mars-tactics.json) |
 | Mars Taken | 90147 | [90147-mars-taken.json](./90147-mars-taken.json) |
 | Mars Taxi | 341707 | [341707-mars-taxi.json](./341707-mars-taxi.json) |
 | Mars Taxi | 70356 | [70356-mars-taxi.json](./70356-mars-taxi.json) |
@@ -5303,6 +5306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | May Blues | 153990 | [153990-may-blues.json](./153990-may-blues.json) |
 | May Club | 73791 | [73791-may-club.json](./73791-may-club.json) |
+| May God Forgive Us | 189338 | [189338-may-god-forgive-us.json](./189338-may-god-forgive-us.json) |
 | May I Open My Eyes to the Night!? | 303293 | [303293-may-i-open-my-eyes-to-the-night.json](./303293-may-i-open-my-eyes-to-the-night.json) |
 | May I Take Your Order? | 123025 | [123025-may-i-take-your-order.json](./123025-may-i-take-your-order.json) |
 | May Sky | 350362 | [350362-may-sky.json](./350362-may-sky.json) |
