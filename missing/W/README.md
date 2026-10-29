@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkabout Mini Golf: Pocket Edition | 251578 | [251578-walkabout-mini-golf-pocket-edition.json](./251578-walkabout-mini-golf-pocket-edition.json) |
 | Walkabout Mini Golf: Raptor Cliff's | 342279 | [342279-walkabout-mini-golf-raptor-cliffs.json](./342279-walkabout-mini-golf-raptor-cliffs.json) |
 | Walkabout Mini Golf: Shangri-La | 196063 | [196063-walkabout-mini-golf-shangri-la.json](./196063-walkabout-mini-golf-shangri-la.json) |
+| Walkabout Mini Golf: Sweetopia | 193623 | [193623-walkabout-mini-golf-sweetopia.json](./193623-walkabout-mini-golf-sweetopia.json) |
 | Walkabout Mini Golf: Tokyo | 360886 | [360886-walkabout-mini-golf-tokyo.json](./360886-walkabout-mini-golf-tokyo.json) |
 | Walkabout Mini Golf: Upside Town | 241306 | [241306-walkabout-mini-golf-upside-town.json](./241306-walkabout-mini-golf-upside-town.json) |
 | Walkabout Mini Golf: Venice | 305774 | [305774-walkabout-mini-golf-venice.json](./305774-walkabout-mini-golf-venice.json) |
@@ -2610,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Want You | 242646 | [242646-we-want-you.json](./242646-we-want-you.json) |
 | We Want Your Head | 383154 | [383154-we-want-your-head.json](./383154-we-want-your-head.json) |
 | We Went Back | 130185 | [130185-we-went-back.json](./130185-we-went-back.json) |
+| We Were Friends | 192555 | [192555-we-were-friends.json](./192555-we-were-friends.json) |
 | We Were Here Tomorrow | 393015 | [393015-we-were-here-tomorrow.json](./393015-we-were-here-tomorrow.json) |
 | We Were Kidnapped | 202511 | [202511-we-were-kidnapped.json](./202511-we-were-kidnapped.json) |
 | We Were Monkeys | 292437 | [292437-we-were-monkeys.json](./292437-we-were-monkeys.json) |
@@ -4253,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Stole My Bone? | 177361 | [177361-who-stole-my-bone.json](./177361-who-stole-my-bone.json) |
 | Who tells your story | 398383 | [398383-who-tells-your-story.json](./398383-who-tells-your-story.json) |
 | Who tells your story: Fantasy Pack | 404269 | [404269-who-tells-your-story-fantasy-pack.json](./404269-who-tells-your-story-fantasy-pack.json) |
+| Who the Fuck Ate Grandma? | 192581 | [192581-who-the-fuck-ate-grandma.json](./192581-who-the-fuck-ate-grandma.json) |
 | Who Tied Me to the Rocket? | 199965 | [199965-who-tied-me-to-the-rocket.json](./199965-who-tied-me-to-the-rocket.json) |
 | Who Wants to Be a Hypnoslut? | 263668 | [263668-who-wants-to-be-a-hypnoslut.json](./263668-who-wants-to-be-a-hypnoslut.json) |
 | Who Wants to Be a Millionaire | 210722 | [210722-who-wants-to-be-a-millionaire.json](./210722-who-wants-to-be-a-millionaire.json) |
@@ -7433,6 +7436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Reborn | 49502 | [49502-world-reborn.json](./49502-world-reborn.json) |
 | World Revolution | 84454 | [84454-world-revolution.json](./84454-world-revolution.json) |
 | World Robot Boxing 2 | 196302 | [196302-world-robot-boxing-2.json](./196302-world-robot-boxing-2.json) |
+| World Seed | 193581 | [193581-world-seed.json](./193581-world-seed.json) |
 | World Seed Classic | 129736 | [129736-world-seed-classic.json](./129736-world-seed-classic.json) |
 | World Senate Game - Free Online Multiplayer Game | 145434 | [145434-world-senate-game-free-online-multiplayer-game.json](./145434-world-senate-game-free-online-multiplayer-game.json) |
 | World Series 1964 | 130864 | [130864-world-series-1964.json](./130864-world-series-1964.json) |
