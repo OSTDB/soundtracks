@@ -3754,6 +3754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PeoplePackages | 74939 | [74939-peoplepackages.json](./74939-peoplepackages.json) |
 | Peopletale Online | 176790 | [176790-peopletale-online.json](./176790-peopletale-online.json) |
 | Pep-Pel | 212959 | [212959-pep-pel.json](./212959-pep-pel.json) |
+| PepaFatal | 185839 | [185839-pepafatal.json](./185839-pepafatal.json) |
 | Pepe Chatters | 287356 | [287356-pepe-chatters.json](./287356-pepe-chatters.json) |
 | Pepe Pillz | 393523 | [393523-pepe-pillz.json](./393523-pepe-pillz.json) |
 | Pepe's Little Adventure | 325703 | [325703-pepes-little-adventure.json](./325703-pepes-little-adventure.json) |
@@ -4851,6 +4852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
 | Phasmophobia: Ascension | 268059 | [268059-phasmophobia-ascension.json](./268059-phasmophobia-ascension.json) |
 | Phasmos | 419122 | [419122-phasmos.json](./419122-phasmos.json) |
+| PhasR | 185834 | [185834-phasr.json](./185834-phasr.json) |
 | Phat Phrog | 30892 | [30892-phat-phrog.json](./30892-phat-phrog.json) |
 | Phat Phrog Clicker | 314308 | [314308-phat-phrog-clicker.json](./314308-phat-phrog-clicker.json) |
 | Phat Stacks | 30506 | [30506-phat-stacks.json](./30506-phat-stacks.json) |
@@ -12006,6 +12008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Racing Bundle 4 | 409549 | [409549-power-racing-bundle-4.json](./409549-power-racing-bundle-4.json) |
 | Power Rangers | 220102 | [220102-power-rangers.json](./220102-power-rangers.json) |
 | Power Rangers All-Stars | 109037 | [109037-power-rangers-all-stars.json](./109037-power-rangers-all-stars.json) |
+| Power Rangers Dino Thunder: Red Hot Rescue | 185845 | [185845-power-rangers-dino-thunder-red-hot-rescue.json](./185845-power-rangers-dino-thunder-red-hot-rescue.json) |
 | Power Rangers Legends | 63856 | [63856-power-rangers-legends.json](./63856-power-rangers-legends.json) |
 | Power Rangers Online | 383684 | [383684-power-rangers-online.json](./383684-power-rangers-online.json) |
 | Power Rangers S.P.D. | 3292 | [3292-power-rangers-s-p-d.json](./3292-power-rangers-s-p-d.json) |
@@ -15916,6 +15919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putrefaction 2: Void Walker | 30131 | [30131-putrefaction-2-void-walker.json](./30131-putrefaction-2-void-walker.json) |
 | Putrefier | 256824 | [256824-putrefier.json](./256824-putrefier.json) |
 | Putrid Beasts | 367914 | [367914-putrid-beasts.json](./367914-putrid-beasts.json) |
+| Putrid Shark | 185860 | [185860-putrid-shark.json](./185860-putrid-shark.json) |
 | Putrid Shot Ultra | 207273 | [207273-putrid-shot-ultra.json](./207273-putrid-shot-ultra.json) |
 | Putrid Snow 2: House of Yule | 402231 | [402231-putrid-snow-2-house-of-yule.json](./402231-putrid-snow-2-house-of-yule.json) |
 | Putrid/Sharp | 404947 | [404947-putrid-sharp.json](./404947-putrid-sharp.json) |
