@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-29T03:03:33.995Z",
-  "total_missing": 277404,
+  "generated_at": "2026-10-29T03:35:12.341Z",
+  "total_missing": 277506,
   "games": [
     {
       "igdb_id": 191680,
@@ -99922,6 +99922,11 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
+    },
+    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -186842,6 +186847,11 @@
       "file": "missing/C/115018-cardfight-vanguard-ex.json"
     },
     {
+      "igdb_id": 221508,
+      "game_name": "Cardfight!! Vanguard EX: Digital Deluxe Edition",
+      "file": "missing/C/221508-cardfight-vanguard-ex-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 81456,
       "game_name": "Cardfight!! Vanguard G: Stride to Victory!!",
       "file": "missing/C/81456-cardfight-vanguard-g-stride-to-victory.json"
@@ -270217,6 +270227,11 @@
       "file": "missing/D/266887-dance-of-death.json"
     },
     {
+      "igdb_id": 220965,
+      "game_name": "Dance of Decapods",
+      "file": "missing/D/220965-dance-of-decapods.json"
+    },
+    {
       "igdb_id": 412278,
       "game_name": "Dance of the Butterflies",
       "file": "missing/D/412278-dance-of-the-butterflies.json"
@@ -285595,6 +285610,11 @@
       "igdb_id": 164965,
       "game_name": "Dear Mom: My Letter to You",
       "file": "missing/D/164965-dear-mom-my-letter-to-you.json"
+    },
+    {
+      "igdb_id": 221492,
+      "game_name": "Dear My Abyss",
+      "file": "missing/D/221492-dear-my-abyss.json"
     },
     {
       "igdb_id": 405635,
@@ -304687,6 +304707,11 @@
       "file": "missing/D/231630-diddy-kong-racing-ds-timbers-balloon-pop.json"
     },
     {
+      "igdb_id": 220970,
+      "game_name": "Diddy Kong Racing: GoldenEye",
+      "file": "missing/D/220970-diddy-kong-racing-goldeneye.json"
+    },
+    {
       "igdb_id": 290359,
       "game_name": "Diddy Kong Racing: Ocarina of Time",
       "file": "missing/D/290359-diddy-kong-racing-ocarina-of-time.json"
@@ -315620,6 +315645,11 @@
       "igdb_id": 2888,
       "game_name": "DND",
       "file": "missing/D/2888-dnd.json"
+    },
+    {
+      "igdb_id": 221505,
+      "game_name": "DnD Adventure: Rogue's Choice",
+      "file": "missing/D/221505-dnd-adventure-rogues-choice.json"
     },
     {
       "igdb_id": 154281,
@@ -342757,6 +342787,11 @@
       "file": "missing/D/135883-duck-guardian-one.json"
     },
     {
+      "igdb_id": 220980,
+      "game_name": "Duck Hunt",
+      "file": "missing/D/220980-duck-hunt.json"
+    },
+    {
       "igdb_id": 2741,
       "game_name": "Duck Hunt",
       "file": "missing/D/2741-duck-hunt.json"
@@ -357702,6 +357737,11 @@
       "file": "missing/E/172771-efootball-2022.json"
     },
     {
+      "igdb_id": 220988,
+      "game_name": "eFootball 2022",
+      "file": "missing/E/220988-efootball-2022.json"
+    },
+    {
       "igdb_id": 214925,
       "game_name": "eFootball 2023",
       "file": "missing/E/214925-efootball-2023.json"
@@ -357725,6 +357765,11 @@
       "igdb_id": 242170,
       "game_name": "eFootball Champion Squads",
       "file": "missing/E/242170-efootball-champion-squads.json"
+    },
+    {
+      "igdb_id": 220987,
+      "game_name": "eFootball PES 2020",
+      "file": "missing/E/220987-efootball-pes-2020.json"
     },
     {
       "igdb_id": 119573,
@@ -372375,6 +372420,11 @@
       "igdb_id": 323706,
       "game_name": "Eraser vs. Ruler",
       "file": "missing/E/323706-eraser-vs-ruler.json"
+    },
+    {
+      "igdb_id": 221496,
+      "game_name": "Eraser-kun Race GP",
+      "file": "missing/E/221496-eraser-kun-race-gp.json"
     },
     {
       "igdb_id": 64237,
@@ -410817,9 +410867,24 @@
       "file": "missing/F/293777-final-fantasy-xiv-online-starter-edition.json"
     },
     {
+      "igdb_id": 221522,
+      "game_name": "Final Fantasy XIV: A Realm Awoken",
+      "file": "missing/F/221522-final-fantasy-xiv-a-realm-awoken.json"
+    },
+    {
       "igdb_id": 41839,
       "game_name": "Final Fantasy XIV: A Realm Reborn - Collector's Edition",
       "file": "missing/F/41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json"
+    },
+    {
+      "igdb_id": 221529,
+      "game_name": "Final Fantasy XIV: As Goes Light, So Goes Darkness",
+      "file": "missing/F/221529-final-fantasy-xiv-as-goes-light-so-goes-darkness.json"
+    },
+    {
+      "igdb_id": 221528,
+      "game_name": "Final Fantasy XIV: Before the Fall",
+      "file": "missing/F/221528-final-fantasy-xiv-before-the-fall.json"
     },
     {
       "igdb_id": 41854,
@@ -410835,6 +410900,16 @@
       "igdb_id": 307775,
       "game_name": "Final Fantasy XIV: Dawntrail - Collector's Edition",
       "file": "missing/F/307775-final-fantasy-xiv-dawntrail-collectors-edition.json"
+    },
+    {
+      "igdb_id": 221525,
+      "game_name": "Final Fantasy XIV: Defenders of Eorzea",
+      "file": "missing/F/221525-final-fantasy-xiv-defenders-of-eorzea.json"
+    },
+    {
+      "igdb_id": 221526,
+      "game_name": "Final Fantasy XIV: Dreams of Ice",
+      "file": "missing/F/221526-final-fantasy-xiv-dreams-of-ice.json"
     },
     {
       "igdb_id": 143232,
@@ -410867,6 +410942,16 @@
       "file": "missing/F/376015-final-fantasy-xiv-into-the-mist.json"
     },
     {
+      "igdb_id": 221533,
+      "game_name": "Final Fantasy XIV: Revenge of the Horde",
+      "file": "missing/F/221533-final-fantasy-xiv-revenge-of-the-horde.json"
+    },
+    {
+      "igdb_id": 221539,
+      "game_name": "Final Fantasy XIV: Rise of a New Sun",
+      "file": "missing/F/221539-final-fantasy-xiv-rise-of-a-new-sun.json"
+    },
+    {
       "igdb_id": 333873,
       "game_name": "Final Fantasy XIV: Seekers of Eternity",
       "file": "missing/F/333873-final-fantasy-xiv-seekers-of-eternity.json"
@@ -410880,6 +410965,11 @@
       "igdb_id": 167106,
       "game_name": "Final Fantasy XIV: Shadowbringers - Collector's Edition",
       "file": "missing/F/167106-final-fantasy-xiv-shadowbringers-collectors-edition.json"
+    },
+    {
+      "igdb_id": 221536,
+      "game_name": "Final Fantasy XIV: Soul Surrender",
+      "file": "missing/F/221536-final-fantasy-xiv-soul-surrender.json"
     },
     {
       "igdb_id": 26625,
@@ -410897,9 +410987,34 @@
       "file": "missing/F/246956-final-fantasy-xiv-the-dark-throne.json"
     },
     {
+      "igdb_id": 221537,
+      "game_name": "Final Fantasy XIV: The Far Edge of Fate",
+      "file": "missing/F/221537-final-fantasy-xiv-the-far-edge-of-fate.json"
+    },
+    {
+      "igdb_id": 221530,
+      "game_name": "Final Fantasy XIV: The Gears of Change",
+      "file": "missing/F/221530-final-fantasy-xiv-the-gears-of-change.json"
+    },
+    {
+      "igdb_id": 221538,
+      "game_name": "Final Fantasy XIV: The Legend Returns",
+      "file": "missing/F/221538-final-fantasy-xiv-the-legend-returns.json"
+    },
+    {
       "igdb_id": 350547,
       "game_name": "Final Fantasy XIV: The Promise of Tomorrow",
       "file": "missing/F/350547-final-fantasy-xiv-the-promise-of-tomorrow.json"
+    },
+    {
+      "igdb_id": 221523,
+      "game_name": "Final Fantasy XIV: Through the Maelstrom",
+      "file": "missing/F/221523-final-fantasy-xiv-through-the-maelstrom.json"
+    },
+    {
+      "igdb_id": 221540,
+      "game_name": "Final Fantasy XIV: Under the Moonlight",
+      "file": "missing/F/221540-final-fantasy-xiv-under-the-moonlight.json"
     },
     {
       "igdb_id": 129157,
@@ -427845,6 +427960,11 @@
       "igdb_id": 199845,
       "game_name": "Food Truck Tycoon: Complete Edition",
       "file": "missing/F/199845-food-truck-tycoon-complete-edition.json"
+    },
+    {
+      "igdb_id": 221506,
+      "game_name": "Food Truck Tycoon: Deluxe Edition",
+      "file": "missing/F/221506-food-truck-tycoon-deluxe-edition.json"
     },
     {
       "igdb_id": 199838,
@@ -521577,6 +521697,11 @@
       "file": "missing/H/340434-hentai-furry.json"
     },
     {
+      "igdb_id": 221516,
+      "game_name": "Hentai Furry 3",
+      "file": "missing/H/221516-hentai-furry-3.json"
+    },
+    {
       "igdb_id": 347768,
       "game_name": "Hentai Furry Bunny",
       "file": "missing/H/347768-hentai-furry-bunny.json"
@@ -579137,6 +579262,11 @@
       "file": "missing/I/293689-inuit-uppirijatuqangit.json"
     },
     {
+      "igdb_id": 221498,
+      "game_name": "Inukari: Chase of Deception - Deluxe Edition",
+      "file": "missing/I/221498-inukari-chase-of-deception-deluxe-edition.json"
+    },
+    {
       "igdb_id": 249031,
       "game_name": "Inukari: Fateful Detour",
       "file": "missing/I/249031-inukari-fateful-detour.json"
@@ -586505,6 +586635,26 @@
       "igdb_id": 136813,
       "game_name": "J.League Winning Eleven 10 + Europe League 06-07",
       "file": "missing/J/136813-j-league-winning-eleven-10-europe-league-06-07.json"
+    },
+    {
+      "igdb_id": 220998,
+      "game_name": "J.League Winning Eleven 2007 Club Championship",
+      "file": "missing/J/220998-j-league-winning-eleven-2007-club-championship.json"
+    },
+    {
+      "igdb_id": 220999,
+      "game_name": "J.League Winning Eleven 2008 Club Championship",
+      "file": "missing/J/220999-j-league-winning-eleven-2008-club-championship.json"
+    },
+    {
+      "igdb_id": 220997,
+      "game_name": "J.League Winning Eleven 6",
+      "file": "missing/J/220997-j-league-winning-eleven-6.json"
+    },
+    {
+      "igdb_id": 220948,
+      "game_name": "J.League Winning Eleven 9: Asia Championship",
+      "file": "missing/J/220948-j-league-winning-eleven-9-asia-championship.json"
     },
     {
       "igdb_id": 48459,
@@ -617017,6 +617167,11 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
+    },
+    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -627325,6 +627480,11 @@
       "igdb_id": 81640,
       "game_name": "Kommersant",
       "file": "missing/K/81640-kommersant.json"
+    },
+    {
+      "igdb_id": 220963,
+      "game_name": "Kommissar Kugelblitz: Das Geheimnis von Spooky Hill",
+      "file": "missing/K/220963-kommissar-kugelblitz-das-geheimnis-von-spooky-hill.json"
     },
     {
       "igdb_id": 221256,
@@ -642650,6 +642810,16 @@
       "igdb_id": 137918,
       "game_name": "Learning Factory",
       "file": "missing/L/137918-learning-factory.json"
+    },
+    {
+      "igdb_id": 221489,
+      "game_name": "Learning Factory: Curious Mind Edition",
+      "file": "missing/L/221489-learning-factory-curious-mind-edition.json"
+    },
+    {
+      "igdb_id": 221488,
+      "game_name": "Learning Factory: True Engineer Edition",
+      "file": "missing/L/221488-learning-factory-true-engineer-edition.json"
     },
     {
       "igdb_id": 217468,
@@ -685265,6 +685435,11 @@
       "igdb_id": 118324,
       "game_name": "Magnetic Pull",
       "file": "missing/M/118324-magnetic-pull.json"
+    },
+    {
+      "igdb_id": 221484,
+      "game_name": "Magnetic Structures",
+      "file": "missing/M/221484-magnetic-structures.json"
     },
     {
       "igdb_id": 91791,
@@ -754767,6 +754942,11 @@
       "file": "missing/M/283139-moto-rush-gt-definitive-edition.json"
     },
     {
+      "igdb_id": 221507,
+      "game_name": "Moto Rush GT: Deluxe Edition",
+      "file": "missing/M/221507-moto-rush-gt-deluxe-edition.json"
+    },
+    {
       "igdb_id": 280613,
       "game_name": "Moto Rush GT: Diamond Edition",
       "file": "missing/M/280613-moto-rush-gt-diamond-edition.json"
@@ -766470,6 +766650,11 @@
       "igdb_id": 253899,
       "game_name": "My Furry Succubus",
       "file": "missing/M/253899-my-furry-succubus.json"
+    },
+    {
+      "igdb_id": 221515,
+      "game_name": "My Furry Teacher",
+      "file": "missing/M/221515-my-furry-teacher.json"
     },
     {
       "igdb_id": 215892,
@@ -779615,6 +779800,11 @@
       "igdb_id": 206558,
       "game_name": "Nazoritas Addictive Puzzle",
       "file": "missing/N/206558-nazoritas-addictive-puzzle.json"
+    },
+    {
+      "igdb_id": 221494,
+      "game_name": "Nazotoki Battle Tore! Densetsu no Mamiya wo Fukkatsu Saseyo!",
+      "file": "missing/N/221494-nazotoki-battle-tore-densetsu-no-mamiya-wo-fukkatsu-saseyo.json"
     },
     {
       "igdb_id": 261372,
@@ -797837,6 +798027,11 @@
       "file": "missing/N/85308-nintendo-labo-toy-con-01-variety-kit.json"
     },
     {
+      "igdb_id": 221511,
+      "game_name": "Nintendo Labo: Toy-Con 03 - Drive Kit",
+      "file": "missing/N/221511-nintendo-labo-toy-con-03-drive-kit.json"
+    },
+    {
       "igdb_id": 2172,
       "game_name": "Nintendo Land",
       "file": "missing/N/2172-nintendo-land.json"
@@ -799467,6 +799662,11 @@
       "file": "missing/N/262883-no-mans-sky-echoes.json"
     },
     {
+      "igdb_id": 221534,
+      "game_name": "No Man's Sky: Endurance",
+      "file": "missing/N/221534-no-mans-sky-endurance.json"
+    },
+    {
       "igdb_id": 222090,
       "game_name": "No Man's Sky: Exo Mech",
       "file": "missing/N/222090-no-mans-sky-exo-mech.json"
@@ -799522,6 +799722,11 @@
       "file": "missing/N/221638-no-mans-sky-origins.json"
     },
     {
+      "igdb_id": 221535,
+      "game_name": "No Man's Sky: Outlaws",
+      "file": "missing/N/221535-no-mans-sky-outlaws.json"
+    },
+    {
       "igdb_id": 222781,
       "game_name": "No Man's Sky: Pathfinder",
       "file": "missing/N/222781-no-mans-sky-pathfinder.json"
@@ -799565,6 +799770,11 @@
       "igdb_id": 363705,
       "game_name": "No Man's Sky: Voyagers",
       "file": "missing/N/363705-no-mans-sky-voyagers.json"
+    },
+    {
+      "igdb_id": 221531,
+      "game_name": "No Man's Sky: Waypoint",
+      "file": "missing/N/221531-no-mans-sky-waypoint.json"
     },
     {
       "igdb_id": 308973,
@@ -822177,6 +822387,11 @@
       "file": "missing/O/335701-onmyouji-emaki.json"
     },
     {
+      "igdb_id": 221510,
+      "game_name": "Onna Katei Kyoushi Jitka-sensei to Misshitsu ni Itara Maru-maru Shichau Kamoshirenai",
+      "file": "missing/O/221510-onna-katei-kyoushi-jitka-sensei-to-misshitsu-ni-itara-maru-maru-shichau-kamoshirenai.json"
+    },
+    {
       "igdb_id": 143385,
       "game_name": "Onna no Ko to Misshitsu ni Itara **shichau Kamoshirenai",
       "file": "missing/O/143385-onna-no-ko-to-misshitsu-ni-itara-shichau-kamoshirenai.json"
@@ -822865,6 +823080,11 @@
       "igdb_id": 151999,
       "game_name": "Open Brush",
       "file": "missing/O/151999-open-brush.json"
+    },
+    {
+      "igdb_id": 220964,
+      "game_name": "Open Course",
+      "file": "missing/O/220964-open-course.json"
     },
     {
       "igdb_id": 214622,
@@ -839262,6 +839482,11 @@
       "file": "missing/P/147152-pancake-bar-tycoon.json"
     },
     {
+      "igdb_id": 221502,
+      "game_name": "Pancake Bar Tycoon: Deluxe Edition",
+      "file": "missing/P/221502-pancake-bar-tycoon-deluxe-edition.json"
+    },
+    {
       "igdb_id": 237915,
       "game_name": "Pancake Bar Tycoon: Expansion Pack 1",
       "file": "missing/P/237915-pancake-bar-tycoon-expansion-pack-1.json"
@@ -844535,6 +844760,11 @@
       "igdb_id": 107740,
       "game_name": "Paratopic: Definitive Cut",
       "file": "missing/P/107740-paratopic-definitive-cut.json"
+    },
+    {
+      "igdb_id": 221503,
+      "game_name": "Paratopic: Deluxe Edition",
+      "file": "missing/P/221503-paratopic-deluxe-edition.json"
     },
     {
       "igdb_id": 349384,
@@ -900452,14 +900682,94 @@
       "file": "missing/P/220944-pro-evolution-soccer-2.json"
     },
     {
+      "igdb_id": 220954,
+      "game_name": "Pro Evolution Soccer 2008",
+      "file": "missing/P/220954-pro-evolution-soccer-2008.json"
+    },
+    {
+      "igdb_id": 220955,
+      "game_name": "Pro Evolution Soccer 2008",
+      "file": "missing/P/220955-pro-evolution-soccer-2008.json"
+    },
+    {
+      "igdb_id": 220967,
+      "game_name": "Pro Evolution Soccer 2008",
+      "file": "missing/P/220967-pro-evolution-soccer-2008.json"
+    },
+    {
+      "igdb_id": 220968,
+      "game_name": "Pro Evolution Soccer 2008",
+      "file": "missing/P/220968-pro-evolution-soccer-2008.json"
+    },
+    {
+      "igdb_id": 220969,
+      "game_name": "Pro Evolution Soccer 2008",
+      "file": "missing/P/220969-pro-evolution-soccer-2008.json"
+    },
+    {
+      "igdb_id": 220956,
+      "game_name": "Pro Evolution Soccer 2009",
+      "file": "missing/P/220956-pro-evolution-soccer-2009.json"
+    },
+    {
+      "igdb_id": 220972,
+      "game_name": "Pro Evolution Soccer 2009",
+      "file": "missing/P/220972-pro-evolution-soccer-2009.json"
+    },
+    {
+      "igdb_id": 220973,
+      "game_name": "Pro Evolution Soccer 2009",
+      "file": "missing/P/220973-pro-evolution-soccer-2009.json"
+    },
+    {
+      "igdb_id": 220974,
+      "game_name": "Pro Evolution Soccer 2009",
+      "file": "missing/P/220974-pro-evolution-soccer-2009.json"
+    },
+    {
       "igdb_id": 4648,
       "game_name": "Pro Evolution Soccer 2009",
       "file": "missing/P/4648-pro-evolution-soccer-2009.json"
     },
     {
+      "igdb_id": 220957,
+      "game_name": "Pro Evolution Soccer 2010",
+      "file": "missing/P/220957-pro-evolution-soccer-2010.json"
+    },
+    {
+      "igdb_id": 220975,
+      "game_name": "Pro Evolution Soccer 2010",
+      "file": "missing/P/220975-pro-evolution-soccer-2010.json"
+    },
+    {
+      "igdb_id": 220976,
+      "game_name": "Pro Evolution Soccer 2010",
+      "file": "missing/P/220976-pro-evolution-soccer-2010.json"
+    },
+    {
+      "igdb_id": 220977,
+      "game_name": "Pro Evolution Soccer 2010",
+      "file": "missing/P/220977-pro-evolution-soccer-2010.json"
+    },
+    {
       "igdb_id": 240462,
       "game_name": "Pro Evolution Soccer 2010",
       "file": "missing/P/240462-pro-evolution-soccer-2010.json"
+    },
+    {
+      "igdb_id": 220959,
+      "game_name": "Pro Evolution Soccer 2011",
+      "file": "missing/P/220959-pro-evolution-soccer-2011.json"
+    },
+    {
+      "igdb_id": 220978,
+      "game_name": "Pro Evolution Soccer 2011",
+      "file": "missing/P/220978-pro-evolution-soccer-2011.json"
+    },
+    {
+      "igdb_id": 220979,
+      "game_name": "Pro Evolution Soccer 2011",
+      "file": "missing/P/220979-pro-evolution-soccer-2011.json"
     },
     {
       "igdb_id": 240463,
@@ -900482,14 +900792,44 @@
       "file": "missing/P/47629-pro-evolution-soccer-2011-3d.json"
     },
     {
+      "igdb_id": 220960,
+      "game_name": "Pro Evolution Soccer 2012",
+      "file": "missing/P/220960-pro-evolution-soccer-2012.json"
+    },
+    {
+      "igdb_id": 220981,
+      "game_name": "Pro Evolution Soccer 2012",
+      "file": "missing/P/220981-pro-evolution-soccer-2012.json"
+    },
+    {
+      "igdb_id": 220982,
+      "game_name": "Pro Evolution Soccer 2012",
+      "file": "missing/P/220982-pro-evolution-soccer-2012.json"
+    },
+    {
       "igdb_id": 240465,
       "game_name": "Pro Evolution Soccer 2012",
       "file": "missing/P/240465-pro-evolution-soccer-2012.json"
     },
     {
+      "igdb_id": 220961,
+      "game_name": "Pro Evolution Soccer 2013",
+      "file": "missing/P/220961-pro-evolution-soccer-2013.json"
+    },
+    {
+      "igdb_id": 220983,
+      "game_name": "Pro Evolution Soccer 2013",
+      "file": "missing/P/220983-pro-evolution-soccer-2013.json"
+    },
+    {
       "igdb_id": 240466,
       "game_name": "Pro Evolution Soccer 2013",
       "file": "missing/P/240466-pro-evolution-soccer-2013.json"
+    },
+    {
+      "igdb_id": 220984,
+      "game_name": "Pro Evolution Soccer 2014",
+      "file": "missing/P/220984-pro-evolution-soccer-2014.json"
     },
     {
       "igdb_id": 240467,
@@ -909680,6 +910020,11 @@
       "igdb_id": 175849,
       "game_name": "Pui Pui Molcar Let's! Molcar Party!",
       "file": "missing/P/175849-pui-pui-molcar-lets-molcar-party.json"
+    },
+    {
+      "igdb_id": 221499,
+      "game_name": "Pui Pui Molcar Let's! Molcar Party!: Digital Deluxe Edition",
+      "file": "missing/P/221499-pui-pui-molcar-lets-molcar-party-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 230159,
@@ -950872,6 +951217,11 @@
       "file": "missing/R/244709-revenge-of-the-shadow-ninja.json"
     },
     {
+      "igdb_id": 221520,
+      "game_name": "Revenge of the Slimes",
+      "file": "missing/R/221520-revenge-of-the-slimes.json"
+    },
+    {
       "igdb_id": 305812,
       "game_name": "Revenge of the Speeddemons!",
       "file": "missing/R/305812-revenge-of-the-speeddemons.json"
@@ -958330,6 +958680,11 @@
       "igdb_id": 106320,
       "game_name": "Ritter",
       "file": "missing/R/106320-ritter.json"
+    },
+    {
+      "igdb_id": 220950,
+      "game_name": "Ritter Rost: Die eiserne Burg",
+      "file": "missing/R/220950-ritter-rost-die-eiserne-burg.json"
     },
     {
       "igdb_id": 390083,
@@ -980307,6 +980662,11 @@
       "file": "missing/S/396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json"
     },
     {
+      "igdb_id": 221504,
+      "game_name": "S.N.I.P.E.R.: Hunter Scope - Deluxe Edition",
+      "file": "missing/S/221504-s-n-i-p-e-r-hunter-scope-deluxe-edition.json"
+    },
+    {
       "igdb_id": 271837,
       "game_name": "S.N.I.P.E.R.: Hunter Scope - Diamond Edition",
       "file": "missing/S/271837-s-n-i-p-e-r-hunter-scope-diamond-edition.json"
@@ -984210,6 +984570,11 @@
       "igdb_id": 147924,
       "game_name": "Salad Bar Tycoon",
       "file": "missing/S/147924-salad-bar-tycoon.json"
+    },
+    {
+      "igdb_id": 221500,
+      "game_name": "Salad Bar Tycoon: Deluxe Edition",
+      "file": "missing/S/221500-salad-bar-tycoon-deluxe-edition.json"
     },
     {
       "igdb_id": 237972,
@@ -1019877,6 +1020242,11 @@
       "file": "missing/S/411615-shootout.json"
     },
     {
+      "igdb_id": 220971,
+      "game_name": "Shootout At Old Tucson",
+      "file": "missing/S/220971-shootout-at-old-tucson.json"
+    },
+    {
       "igdb_id": 24810,
       "game_name": "Shootout at the OK Galaxy",
       "file": "missing/S/24810-shootout-at-the-ok-galaxy.json"
@@ -1045360,6 +1045730,11 @@
       "igdb_id": 419369,
       "game_name": "Sneaky Fishy",
       "file": "missing/S/419369-sneaky-fishy.json"
+    },
+    {
+      "igdb_id": 221517,
+      "game_name": "Sneaky Forest",
+      "file": "missing/S/221517-sneaky-forest.json"
     },
     {
       "igdb_id": 211572,
@@ -1118522,6 +1118897,11 @@
       "file": "missing/S/314104-super-mario-bros-extreme-adventure.json"
     },
     {
+      "igdb_id": 221521,
+      "game_name": "Super Mario Bros. for Lost Players",
+      "file": "missing/S/221521-super-mario-bros-for-lost-players.json"
+    },
+    {
       "igdb_id": 203389,
       "game_name": "Super Mario Bros. Funk Mix Deluxe",
       "file": "missing/S/203389-super-mario-bros-funk-mix-deluxe.json"
@@ -1119340,6 +1119720,11 @@
       "igdb_id": 357441,
       "game_name": "Super Mario Odyssey: A Galaxy Story",
       "file": "missing/S/357441-super-mario-odyssey-a-galaxy-story.json"
+    },
+    {
+      "igdb_id": 221524,
+      "game_name": "Super Mario Odyssey: Balloon World",
+      "file": "missing/S/221524-super-mario-odyssey-balloon-world.json"
     },
     {
       "igdb_id": 246625,
@@ -1132060,6 +1132445,11 @@
       "igdb_id": 262236,
       "game_name": "Sweet Bakery Tycoon: Couch Co-op Edition",
       "file": "missing/S/262236-sweet-bakery-tycoon-couch-co-op-edition.json"
+    },
+    {
+      "igdb_id": 221501,
+      "game_name": "Sweet Bakery Tycoon: Deluxe Edition",
+      "file": "missing/S/221501-sweet-bakery-tycoon-deluxe-edition.json"
     },
     {
       "igdb_id": 237913,
@@ -1168532,6 +1168922,11 @@
       "file": "missing/T/227183-the-caligula-effect-2-complete-edition.json"
     },
     {
+      "igdb_id": 221497,
+      "game_name": "The Caligula Effect 2: Digital Deluxe Edition",
+      "file": "missing/T/221497-the-caligula-effect-2-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 146013,
       "game_name": "The Caligula Effect 2: First Press Limited Edition",
       "file": "missing/T/146013-the-caligula-effect-2-first-press-limited-edition.json"
@@ -1181612,6 +1182007,11 @@
       "file": "missing/T/348237-the-gatekeeper-of-scarlets-mansion.json"
     },
     {
+      "igdb_id": 221491,
+      "game_name": "The Gates of Ursa",
+      "file": "missing/T/221491-the-gates-of-ursa.json"
+    },
+    {
       "igdb_id": 177890,
       "game_name": "The Gateway Persona",
       "file": "missing/T/177890-the-gateway-persona.json"
@@ -1186795,6 +1187195,11 @@
       "igdb_id": 32861,
       "game_name": "The Infinite Black",
       "file": "missing/T/32861-the-infinite-black.json"
+    },
+    {
+      "igdb_id": 221519,
+      "game_name": "The Infinite Black 2",
+      "file": "missing/T/221519-the-infinite-black-2.json"
     },
     {
       "igdb_id": 401825,
@@ -1196575,6 +1196980,11 @@
       "igdb_id": 454,
       "game_name": "The Lost Vikings",
       "file": "missing/T/454-the-lost-vikings.json"
+    },
+    {
+      "igdb_id": 221483,
+      "game_name": "The Lost Vilage",
+      "file": "missing/T/221483-the-lost-vilage.json"
     },
     {
       "igdb_id": 211916,
@@ -1241152,6 +1241562,11 @@
       "file": "missing/T/373854-tiny-tactics-go.json"
     },
     {
+      "igdb_id": 221487,
+      "game_name": "Tiny Talents",
+      "file": "missing/T/221487-tiny-talents.json"
+    },
+    {
       "igdb_id": 36951,
       "game_name": "Tiny Tales: Heart of the Forest",
       "file": "missing/T/36951-tiny-tales-heart-of-the-forest.json"
@@ -1243205,6 +1243620,11 @@
       "igdb_id": 61714,
       "game_name": "To Leave",
       "file": "missing/T/61714-to-leave.json"
+    },
+    {
+      "igdb_id": 221493,
+      "game_name": "To Leave: Deluxe Edition",
+      "file": "missing/T/221493-to-leave-deluxe-edition.json"
     },
     {
       "igdb_id": 212287,
@@ -1271750,6 +1272170,11 @@
       "igdb_id": 109660,
       "game_name": "Trials of the Illuminati: Snack Time Jigsaw Puzzles",
       "file": "missing/T/109660-trials-of-the-illuminati-snack-time-jigsaw-puzzles.json"
+    },
+    {
+      "igdb_id": 221512,
+      "game_name": "Trials of the Illuminati: Women of Beauty Jigsaws",
+      "file": "missing/T/221512-trials-of-the-illuminati-women-of-beauty-jigsaws.json"
     },
     {
       "igdb_id": 138602,
@@ -1345467,6 +1345892,16 @@
       "file": "missing/W/252332-winnies-hole.json"
     },
     {
+      "igdb_id": 220995,
+      "game_name": "Winning Eleven Online",
+      "file": "missing/W/220995-winning-eleven-online.json"
+    },
+    {
+      "igdb_id": 220996,
+      "game_name": "Winning Eleven Online 2014",
+      "file": "missing/W/220996-winning-eleven-online-2014.json"
+    },
+    {
       "igdb_id": 268207,
       "game_name": "Winning Eleven Play Maker 2010: Aoki Samurai no Chousen",
       "file": "missing/W/268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json"
@@ -1345475,6 +1345910,11 @@
       "igdb_id": 220951,
       "game_name": "Winning Eleven: Pro Evolution Soccer 2007",
       "file": "missing/W/220951-winning-eleven-pro-evolution-soccer-2007.json"
+    },
+    {
+      "igdb_id": 220952,
+      "game_name": "Winning Eleven: Pro Evolution Soccer 2007",
+      "file": "missing/W/220952-winning-eleven-pro-evolution-soccer-2007.json"
     },
     {
       "igdb_id": 2484,
@@ -1353512,6 +1353952,11 @@
       "file": "missing/W/137688-words-on-stream.json"
     },
     {
+      "igdb_id": 221514,
+      "game_name": "Words Plus",
+      "file": "missing/W/221514-words-plus.json"
+    },
+    {
       "igdb_id": 233055,
       "game_name": "Words Scramble",
       "file": "missing/W/233055-words-scramble.json"
@@ -1356417,14 +1356862,74 @@
       "file": "missing/W/139423-world-soccer-strikers-91.json"
     },
     {
+      "igdb_id": 220991,
+      "game_name": "World Soccer Winning Eleven 2006 Arcade Championship",
+      "file": "missing/W/220991-world-soccer-winning-eleven-2006-arcade-championship.json"
+    },
+    {
+      "igdb_id": 220958,
+      "game_name": "World Soccer Winning Eleven 2010: Aoki Samurai no Chousen",
+      "file": "missing/W/220958-world-soccer-winning-eleven-2010-aoki-samurai-no-chousen.json"
+    },
+    {
+      "igdb_id": 220962,
+      "game_name": "World Soccer Winning Eleven 2014: Aoki Samurai no Chousen",
+      "file": "missing/W/220962-world-soccer-winning-eleven-2014-aoki-samurai-no-chousen.json"
+    },
+    {
+      "igdb_id": 220947,
+      "game_name": "World Soccer Winning Eleven 9",
+      "file": "missing/W/220947-world-soccer-winning-eleven-9.json"
+    },
+    {
+      "igdb_id": 220949,
+      "game_name": "World Soccer Winning Eleven 9: Liveware Evolution",
+      "file": "missing/W/220949-world-soccer-winning-eleven-9-liveware-evolution.json"
+    },
+    {
+      "igdb_id": 220992,
+      "game_name": "World Soccer Winning Eleven Arcade Championship 2008",
+      "file": "missing/W/220992-world-soccer-winning-eleven-arcade-championship-2008.json"
+    },
+    {
+      "igdb_id": 220994,
+      "game_name": "World Soccer Winning Eleven Arcade Championship 2012",
+      "file": "missing/W/220994-world-soccer-winning-eleven-arcade-championship-2012.json"
+    },
+    {
+      "igdb_id": 220993,
+      "game_name": "World Soccer Winning Eleven Arcade Championship 2014",
+      "file": "missing/W/220993-world-soccer-winning-eleven-arcade-championship-2014.json"
+    },
+    {
+      "igdb_id": 220989,
+      "game_name": "World Soccer Winning Eleven Arcade Game Style",
+      "file": "missing/W/220989-world-soccer-winning-eleven-arcade-game-style.json"
+    },
+    {
+      "igdb_id": 220990,
+      "game_name": "World Soccer Winning Eleven Arcade Game Style 2003",
+      "file": "missing/W/220990-world-soccer-winning-eleven-arcade-game-style-2003.json"
+    },
+    {
       "igdb_id": 68693,
       "game_name": "World Soccer: Winning Eleven",
       "file": "missing/W/68693-world-soccer-winning-eleven.json"
     },
     {
+      "igdb_id": 220953,
+      "game_name": "World Soccer: Winning Eleven 10 - Liveware Evolution",
+      "file": "missing/W/220953-world-soccer-winning-eleven-10-liveware-evolution.json"
+    },
+    {
       "igdb_id": 64960,
       "game_name": "World Soccer: Winning Eleven 2010 - Arcade Championship",
       "file": "missing/W/64960-world-soccer-winning-eleven-2010-arcade-championship.json"
+    },
+    {
+      "igdb_id": 220986,
+      "game_name": "World Soccer: Winning Eleven 2014",
+      "file": "missing/W/220986-world-soccer-winning-eleven-2014.json"
     },
     {
       "igdb_id": 72574,
@@ -1364545,6 +1365050,11 @@
       "igdb_id": 316695,
       "game_name": "XGA",
       "file": "missing/X/316695-xga.json"
+    },
+    {
+      "igdb_id": 221509,
+      "game_name": "XGamer: AI Revolution",
+      "file": "missing/X/221509-xgamer-ai-revolution.json"
     },
     {
       "igdb_id": 4581,
