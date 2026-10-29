@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Battalion Defense | 386195 | [386195-last-battalion-defense.json](./386195-last-battalion-defense.json) |
 | Last Battle | 27971 | [27971-last-battle.json](./27971-last-battle.json) |
 | Last Battleground: Survival | 77422 | [77422-last-battleground-survival.json](./77422-last-battleground-survival.json) |
+| Last Beat Enhanced | 212614 | [212614-last-beat-enhanced.json](./212614-last-beat-enhanced.json) |
 | Last Berserker: Endless War | 81132 | [81132-last-berserker-endless-war.json](./81132-last-berserker-endless-war.json) |
 | Last Bet | 221035 | [221035-last-bet.json](./221035-last-bet.json) |
 | Last Bible III | 38354 | [38354-last-bible-iii.json](./38354-last-bible-iii.json) |
@@ -2569,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends: Saint George | 349812 | [349812-legends-saint-george.json](./349812-legends-saint-george.json) |
 | Legendum | 395385 | [395385-legendum.json](./395385-legendum.json) |
 | Legenne | 70381 | [70381-legenne.json](./70381-legenne.json) |
+| Legeno Slayer | 212602 | [212602-legeno-slayer.json](./212602-legeno-slayer.json) |
 | Leggite Luta Livre | 198482 | [198482-leggite-luta-livre.json](./198482-leggite-luta-livre.json) |
 | Legie | 81407 | [81407-legie.json](./81407-legie.json) |
 | Legio | 91523 | [91523-legio.json](./91523-legio.json) |
