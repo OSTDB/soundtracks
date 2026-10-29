@@ -2124,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Bugs | 73218 | [73218-water-bugs.json](./73218-water-bugs.json) |
 | Water Castle | 268473 | [268473-water-castle.json](./268473-water-castle.json) |
 | Water Chaos | 236877 | [236877-water-chaos.json](./236877-water-chaos.json) |
+| Water City | 219410 | [219410-water-city.json](./219410-water-city.json) |
 | Water City | 268472 | [268472-water-city.json](./268472-water-city.json) |
 | Water Clock | 106620 | [106620-water-clock.json](./106620-water-clock.json) |
 | Water Connect Puzzle | 213379 | [213379-water-connect-puzzle.json](./213379-water-connect-puzzle.json) |
@@ -5462,6 +5463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wireless 60 | 246213 | [246213-wireless-60.json](./246213-wireless-60.json) |
 | Wireless Air 60 | 246212 | [246212-wireless-air-60.json](./246212-wireless-air-60.json) |
 | Wireless Hunting Video Game System | 246215 | [246215-wireless-hunting-video-game-system.json](./246215-wireless-hunting-video-game-system.json) |
+| Wireless Ms. Pac-Man | 219422 | [219422-wireless-ms-pac-man.json](./219422-wireless-ms-pac-man.json) |
 | Wires and Whiskers | 357162 | [357162-wires-and-whiskers.json](./357162-wires-and-whiskers.json) |
 | Wirewalker | 260610 | [260610-wirewalker.json](./260610-wirewalker.json) |
 | WireWalking | 284836 | [284836-wirewalking.json](./284836-wirewalking.json) |
