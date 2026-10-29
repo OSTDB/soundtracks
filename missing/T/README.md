@@ -9368,6 +9368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hedgehogs | 99405 | [99405-the-hedgehogs.json](./99405-the-hedgehogs.json) |
 | The Heft Effect | 311874 | [311874-the-heft-effect.json](./311874-the-heft-effect.json) |
 | The Heights | 244504 | [244504-the-heights.json](./244504-the-heights.json) |
+| The Heilwald Loophole | 188769 | [188769-the-heilwald-loophole.json](./188769-the-heilwald-loophole.json) |
 | The Heiress | 51604 | [51604-the-heiress.json](./51604-the-heiress.json) |
 | The Heiress of Sorcery | 130210 | [130210-the-heiress-of-sorcery.json](./130210-the-heiress-of-sorcery.json) |
 | The Heirloom | 292604 | [292604-the-heirloom.json](./292604-the-heirloom.json) |
@@ -9668,6 +9669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunted Witch | 252678 | [252678-the-hunted-witch.json](./252678-the-hunted-witch.json) |
 | The Hunter | 284260 | [284260-the-hunter.json](./284260-the-hunter.json) |
 | The Hunter Cursed by Night | 296467 | [296467-the-hunter-cursed-by-night.json](./296467-the-hunter-cursed-by-night.json) |
+| The Hunter of Falkenberg | 188770 | [188770-the-hunter-of-falkenberg.json](./188770-the-hunter-of-falkenberg.json) |
 | The Hunter's Journals: Blissful Ignorance | 123870 | [123870-the-hunters-journals-blissful-ignorance.json](./123870-the-hunters-journals-blissful-ignorance.json) |
 | The Hunter's Journals: Tattered Sails | 195895 | [195895-the-hunters-journals-tattered-sails.json](./195895-the-hunters-journals-tattered-sails.json) |
 | The Hunter's Journals: Wight Chapel Dreams | 213424 | [213424-the-hunters-journals-wight-chapel-dreams.json](./213424-the-hunters-journals-wight-chapel-dreams.json) |
@@ -22914,6 +22916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tota Life: Parent-kid Suite | 299206 | [299206-tota-life-parent-kid-suite.json](./299206-tota-life-parent-kid-suite.json) |
 | Total 15 | 105155 | [105155-total-15.json](./105155-total-15.json) |
 | Total Adrenaline 3D Drag Racing | 73708 | [73708-total-adrenaline-3d-drag-racing.json](./73708-total-adrenaline-3d-drag-racing.json) |
+| Total Anarchy: Pavilion City | 188807 | [188807-total-anarchy-pavilion-city.json](./188807-total-anarchy-pavilion-city.json) |
 | Total Annihilation | 918 | [918-total-annihilation.json](./918-total-annihilation.json) |
 | Total Annihilation: Commander Pack | 98907 | [98907-total-annihilation-commander-pack.json](./98907-total-annihilation-commander-pack.json) |
 | Total Annihilation: Kingdoms | 11614 | [11614-total-annihilation-kingdoms.json](./11614-total-annihilation-kingdoms.json) |
@@ -26788,6 +26791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Star | 247746 | [247746-treasure-star.json](./247746-treasure-star.json) |
 | Treasure Strike | 62110 | [62110-treasure-strike.json](./62110-treasure-strike.json) |
 | Treasure Tech | 140468 | [140468-treasure-tech.json](./140468-treasure-tech.json) |
+| Treasure Temples | 188792 | [188792-treasure-temples.json](./188792-treasure-temples.json) |
 | Treasure Tile | 157441 | [157441-treasure-tile.json](./157441-treasure-tile.json) |
 | Treasure Tomb VR | 153375 | [153375-treasure-tomb-vr.json](./153375-treasure-tomb-vr.json) |
 | Treasure Tombs: Ra Deal | 250487 | [250487-treasure-tombs-ra-deal.json](./250487-treasure-tombs-ra-deal.json) |
@@ -28453,6 +28457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuk Tuk Taxi | 272573 | [272573-tuk-tuk-taxi.json](./272573-tuk-tuk-taxi.json) |
 | Tuk Tuk Trials | 109502 | [109502-tuk-tuk-trials.json](./109502-tuk-tuk-trials.json) |
 | Tukiyono | 205668 | [205668-tukiyono.json](./205668-tukiyono.json) |
+| Tukki & Champ | 188812 | [188812-tukki-and-champ.json](./188812-tukki-and-champ.json) |
 | Tukoni: Forest Keepers | 141273 | [141273-tukoni-forest-keepers.json](./141273-tukoni-forest-keepers.json) |
 | TukTuk | 196240 | [196240-tuktuk.json](./196240-tuktuk.json) |
 | TukTuk | 214757 | [214757-tuktuk.json](./214757-tuktuk.json) |
