@@ -1481,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A189 | 307653 | [307653-a189.json](./307653-a189.json) |
 | A2 Racer II | 80309 | [80309-a2-racer-ii.json](./80309-a2-racer-ii.json) |
 | A2 Racer III: Europa Tour | 44841 | [44841-a2-racer-iii-europa-tour.json](./44841-a2-racer-iii-europa-tour.json) |
+| A2 Zygon | 193596 | [193596-a2-zygon.json](./193596-a2-zygon.json) |
 | A2Be: A Science Fiction Narrative | 87810 | [87810-a2be-a-science-fiction-narrative.json](./87810-a2be-a-science-fiction-narrative.json) |
 | A2C: Ayry Seems to be Playtesting a 2D Runner Shooter from Cci | 307165 | [307165-a2c-ayry-seems-to-be-playtesting-a-2d-runner-shooter-from-cci.json](./307165-a2c-ayry-seems-to-be-playtesting-a-2d-runner-shooter-from-cci.json) |
 | A3: Still Alive | 130673 | [130673-a3-still-alive.json](./130673-a3-still-alive.json) |
@@ -5341,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aladdin Pinball | 127641 | [127641-aladdin-pinball.json](./127641-aladdin-pinball.json) |
 | Aladdin: Fate of Agrabah | 67821 | [67821-aladdin-fate-of-agrabah.json](./67821-aladdin-fate-of-agrabah.json) |
 | Aladdin: Hidden Objects Game | 132580 | [132580-aladdin-hidden-objects-game.json](./132580-aladdin-hidden-objects-game.json) |
+| Aladdin: Save the Princess | 193609 | [193609-aladdin-save-the-princess.json](./193609-aladdin-save-the-princess.json) |
 | Aladdin's Magic Lamp | 14235 | [14235-aladdins-magic-lamp.json](./14235-aladdins-magic-lamp.json) |
 | Aladin & the Enchanted Lamp | 96636 | [96636-aladin-and-the-enchanted-lamp.json](./96636-aladin-and-the-enchanted-lamp.json) |
 | Aladin & the Enchanted Lamp: Extended Edition | 416859 | [416859-aladin-and-the-enchanted-lamp-extended-edition.json](./416859-aladin-and-the-enchanted-lamp-extended-edition.json) |
@@ -5348,6 +5350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ALaLa: Wake Mi Up! | 36424 | [36424-alala-wake-mi-up.json](./36424-alala-wake-mi-up.json) |
 | Alaloth: Champions of the Four Kingdoms | 27406 | [27406-alaloth-champions-of-the-four-kingdoms.json](./27406-alaloth-champions-of-the-four-kingdoms.json) |
 | Alaloth: Champions of The Four Kingdoms - Deluxe Edition | 325391 | [325391-alaloth-champions-of-the-four-kingdoms-deluxe-edition.json](./325391-alaloth-champions-of-the-four-kingdoms-deluxe-edition.json) |
+| Alan and the kid | 193071 | [193071-alan-and-the-kid.json](./193071-alan-and-the-kid.json) |
 | Alan Hansen's Sports Challenge | 4665 | [4665-alan-hansens-sports-challenge.json](./4665-alan-hansens-sports-challenge.json) |
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
 | Alan Probe: Amateur Surgeon - Christmas Edition | 65917 | [65917-alan-probe-amateur-surgeon-christmas-edition.json](./65917-alan-probe-amateur-surgeon-christmas-edition.json) |
@@ -10404,6 +10407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | April Grove | 339401 | [339401-april-grove.json](./339401-april-grove.json) |
 | April Was A Fool | 199052 | [199052-april-was-a-fool.json](./199052-april-was-a-fool.json) |
 | April's Diary | 249014 | [249014-aprils-diary.json](./249014-aprils-diary.json) |
+| Apsis | 193090 | [193090-apsis.json](./193090-apsis.json) |
 | APT | 35534 | [35534-apt.json](./35534-apt.json) |
 | Apt. 407 | 345437 | [345437-apt-407.json](./345437-apt-407.json) |
 | Apt. Map | 227438 | [227438-apt-map.json](./227438-apt-map.json) |
@@ -13871,6 +13875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astraia Land | 311188 | [311188-astraia-land.json](./311188-astraia-land.json) |
 | Astral | 111566 | [111566-astral.json](./111566-astral.json) |
 | Astral | 14273 | [14273-astral.json](./14273-astral.json) |
+| Astral | 193064 | [193064-astral.json](./193064-astral.json) |
 | Astral | 377836 | [377836-astral.json](./377836-astral.json) |
 | Astral Abstraction | 282523 | [282523-astral-abstraction.json](./282523-astral-abstraction.json) |
 | Astral Alliance | 272487 | [272487-astral-alliance.json](./272487-astral-alliance.json) |
