@@ -1691,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Engaño de Barbapoca: Capítulo 1 - Esta Pizza Está de Muerte | 321029 | [321029-el-engano-de-barbapoca-capitulo-1-esta-pizza-esta-de-muerte.json](./321029-el-engano-de-barbapoca-capitulo-1-esta-pizza-esta-de-muerte.json) |
 | El Engaño de Barbapoca: Capítulo 2 - Competencia Fantasmal | 321031 | [321031-el-engano-de-barbapoca-capitulo-2-competencia-fantasmal.json](./321031-el-engano-de-barbapoca-capitulo-2-competencia-fantasmal.json) |
 | El Escape de Charly | 321056 | [321056-el-escape-de-charly.json](./321056-el-escape-de-charly.json) |
+| El Gancho | 192058 | [192058-el-gancho.json](./192058-el-gancho.json) |
 | El gaucho Martín Fierro | 340035 | [340035-el-gaucho-martin-fierro.json](./340035-el-gaucho-martin-fierro.json) |
 | El Hero | 333227 | [333227-el-hero.json](./333227-el-hero.json) |
 | El Hijo: A Wild West Tale | 25227 | [25227-el-hijo-a-wild-west-tale.json](./25227-el-hijo-a-wild-west-tale.json) |
