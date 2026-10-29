@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madlad Friend Sim | 179496 | [179496-madlad-friend-sim.json](./179496-madlad-friend-sim.json) |
 | Madland | 121598 | [121598-madland.json](./121598-madland.json) |
 | Madman | 272280 | [272280-madman.json](./272280-madman.json) |
+| MadMan | 193053 | [193053-madman.json](./193053-madman.json) |
 | Madman's Dice | 374801 | [374801-madmans-dice.json](./374801-madmans-dice.json) |
 | Madman's Maze | 351521 | [351521-madmans-maze.json](./351521-madmans-maze.json) |
 | Madness | 30519 | [30519-madness.json](./30519-madness.json) |
@@ -4319,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maschinen Dolls | 260548 | [260548-maschinen-dolls.json](./260548-maschinen-dolls.json) |
 | Mascot Dunks | 90234 | [90234-mascot-dunks.json](./90234-mascot-dunks.json) |
 | Mascot Mayhem | 350004 | [350004-mascot-mayhem.json](./350004-mascot-mayhem.json) |
+| MASD | 193619 | [193619-masd.json](./193619-masd.json) |
 | Masefeh | 378443 | [378443-masefeh.json](./378443-masefeh.json) |
 | Maseylia: Echoes of the Past | 302107 | [302107-maseylia-echoes-of-the-past.json](./302107-maseylia-echoes-of-the-past.json) |
 | Mash | 100606 | [100606-mash.json](./100606-mash.json) |
@@ -9702,6 +9704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middens | 55004 | [55004-middens.json](./55004-middens.json) |
 | Middle Age Conquest | 151289 | [151289-middle-age-conquest.json](./151289-middle-age-conquest.json) |
 | Middle Ages Hero | 115147 | [115147-middle-ages-hero.json](./115147-middle-ages-hero.json) |
+| Middle Ages Jigsaw Puzzles | 193054 | [193054-middle-ages-jigsaw-puzzles.json](./193054-middle-ages-jigsaw-puzzles.json) |
 | Middle Ages Jigsaw Puzzles: Expansion Pack | 227034 | [227034-middle-ages-jigsaw-puzzles-expansion-pack.json](./227034-middle-ages-jigsaw-puzzles-expansion-pack.json) |
 | Middle Ages: Peasants & Knights | 304662 | [304662-middle-ages-peasants-and-knights.json](./304662-middle-ages-peasants-and-knights.json) |
 | Middle Earth Hero | 55613 | [55613-middle-earth-hero.json](./55613-middle-earth-hero.json) |
@@ -10028,6 +10031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might of Fate | 406130 | [406130-might-of-fate.json](./406130-might-of-fate.json) |
 | Might of Merchants | 216691 | [216691-might-of-merchants.json](./216691-might-of-merchants.json) |
 | Might of the Meek | 413877 | [413877-might-of-the-meek.json](./413877-might-of-the-meek.json) |
+| Might of the Stones | 193621 | [193621-might-of-the-stones.json](./193621-might-of-the-stones.json) |
 | Mightier | 341696 | [341696-mightier.json](./341696-mightier.json) |
 | Mightier | 50136 | [50136-mightier.json](./50136-mightier.json) |
 | Mightreya | 314489 | [314489-mightreya.json](./314489-mightreya.json) |
@@ -13816,6 +13820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Fantasy | 116339 | [116339-monster-girl-fantasy.json](./116339-monster-girl-fantasy.json) |
 | Monster Girl Fantasy 2: Exposed | 120738 | [120738-monster-girl-fantasy-2-exposed.json](./120738-monster-girl-fantasy-2-exposed.json) |
 | Monster Girl Incursion | 169154 | [169154-monster-girl-incursion.json](./169154-monster-girl-incursion.json) |
+| Monster Girl Invasion | 193616 | [193616-monster-girl-invasion.json](./193616-monster-girl-invasion.json) |
 | Monster Girl Jungle | 375969 | [375969-monster-girl-jungle.json](./375969-monster-girl-jungle.json) |
 | Monster Girl Maker 2 | 362265 | [362265-monster-girl-maker-2.json](./362265-monster-girl-maker-2.json) |
 | Monster Girl Manager | 190438 | [190438-monster-girl-manager.json](./190438-monster-girl-manager.json) |
@@ -13959,6 +13964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Impossible Truck No Limit Adventure Drive Simulator Sport 3D | 227516 | [227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json](./227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json) |
 | Monster in the Dark: Remaster | 195275 | [195275-monster-in-the-dark-remaster.json](./195275-monster-in-the-dark-remaster.json) |
 | Monster Inn | 42140 | [42140-monster-inn.json](./42140-monster-inn.json) |
+| Monster Island | 193582 | [193582-monster-island.json](./193582-monster-island.json) |
 | Monster Island | 258829 | [258829-monster-island.json](./258829-monster-island.json) |
 | Monster Island | 295237 | [295237-monster-island.json](./295237-monster-island.json) |
 | Monster Island | 65276 | [65276-monster-island.json](./65276-monster-island.json) |
@@ -14298,6 +14304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters and Medicine | 54804 | [54804-monsters-and-medicine.json](./54804-monsters-and-medicine.json) |
 | Monsters and Spirits | 273751 | [273751-monsters-and-spirits.json](./273751-monsters-and-spirits.json) |
 | Monsters and Sprites | 388264 | [388264-monsters-and-sprites.json](./388264-monsters-and-sprites.json) |
+| Monsters and Warriors | 193085 | [193085-monsters-and-warriors.json](./193085-monsters-and-warriors.json) |
 | Monsters Are Coming! | 346956 | [346956-monsters-are-coming.json](./346956-monsters-are-coming.json) |
 | Monsters Are Coming!: Madness Builds | 417323 | [417323-monsters-are-coming-madness-builds.json](./417323-monsters-are-coming-madness-builds.json) |
 | Monsters Ate My Birthday Cake | 17344 | [17344-monsters-ate-my-birthday-cake.json](./17344-monsters-ate-my-birthday-cake.json) |
@@ -15540,6 +15547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotionSports: Adrenaline | 20215 | [20215-motionsports-adrenaline.json](./20215-motionsports-adrenaline.json) |
 | MotionSports: Play for Real | 2658 | [2658-motionsports-play-for-real.json](./2658-motionsports-play-for-real.json) |
 | Motivational Hero | 170272 | [170272-motivational-hero.json](./170272-motivational-hero.json) |
+| Motivational Hero Vol. 2 | 193097 | [193097-motivational-hero-vol-2.json](./193097-motivational-hero-vol-2.json) |
 | Motivo | 39759 | [39759-motivo.json](./39759-motivo.json) |
 | Moto | 252606 | [252606-moto.json](./252606-moto.json) |
 | Moto Championship 26 | 385089 | [385089-moto-championship-26.json](./385089-moto-championship-26.json) |
@@ -18687,6 +18695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Traditional Princes | 299600 | [299600-my-traditional-princes.json](./299600-my-traditional-princes.json) |
 | My Trailer Park Life | 275018 | [275018-my-trailer-park-life.json](./275018-my-trailer-park-life.json) |
 | My Train Arrives | 121980 | [121980-my-train-arrives.json](./121980-my-train-arrives.json) |
+| My Train Arrives: In ten years | 193586 | [193586-my-train-arrives-in-ten-years.json](./193586-my-train-arrives-in-ten-years.json) |
 | My Train Arrives: Sea and Mountains | 274927 | [274927-my-train-arrives-sea-and-mountains.json](./274927-my-train-arrives-sea-and-mountains.json) |
 | My Train World | 156663 | [156663-my-train-world.json](./156663-my-train-world.json) |
 | My Trainer is a Futanari | 207328 | [207328-my-trainer-is-a-futanari.json](./207328-my-trainer-is-a-futanari.json) |
@@ -19157,9 +19166,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: Grimm's Tales 6 | 208822 | [208822-mystery-solitaire-grimms-tales-6.json](./208822-mystery-solitaire-grimms-tales-6.json) |
 | Mystery Solitaire: Grimm's Tales 7 | 231817 | [231817-mystery-solitaire-grimms-tales-7.json](./231817-mystery-solitaire-grimms-tales-7.json) |
 | Mystery Solitaire: Grimm's Tales 9 | 262586 | [262586-mystery-solitaire-grimms-tales-9.json](./262586-mystery-solitaire-grimms-tales-9.json) |
+| Mystery Solitaire: Powerful Alchemist 2 | 193598 | [193598-mystery-solitaire-powerful-alchemist-2.json](./193598-mystery-solitaire-powerful-alchemist-2.json) |
 | Mystery Solitaire: Powerful Alchemist 3 | 214006 | [214006-mystery-solitaire-powerful-alchemist-3.json](./214006-mystery-solitaire-powerful-alchemist-3.json) |
 | Mystery Solitaire: Secret Island | 65176 | [65176-mystery-solitaire-secret-island.json](./65176-mystery-solitaire-secret-island.json) |
 | Mystery Solitaire: The Black Raven | 138013 | [138013-mystery-solitaire-the-black-raven.json](./138013-mystery-solitaire-the-black-raven.json) |
+| Mystery Solitaire: The Black Raven 2 | 193608 | [193608-mystery-solitaire-the-black-raven-2.json](./193608-mystery-solitaire-the-black-raven-2.json) |
 | Mystery Solitaire: The Black Raven 3 | 199741 | [199741-mystery-solitaire-the-black-raven-3.json](./199741-mystery-solitaire-the-black-raven-3.json) |
 | Mystery Solitaire: The Black Raven 4 | 241884 | [241884-mystery-solitaire-the-black-raven-4.json](./241884-mystery-solitaire-the-black-raven-4.json) |
 | Mystery Solitaire: The Black Raven 5 | 254756 | [254756-mystery-solitaire-the-black-raven-5.json](./254756-mystery-solitaire-the-black-raven-5.json) |
