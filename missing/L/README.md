@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn Chess | 240066 | [240066-learn-chess.json](./240066-learn-chess.json) |
 | Learn Colors Shapes Preschool Games for Kids Games | 232169 | [232169-learn-colors-shapes-preschool-games-for-kids-games.json](./232169-learn-colors-shapes-preschool-games-for-kids-games.json) |
 | Learn Geography | 47904 | [47904-learn-geography.json](./47904-learn-geography.json) |
+| Learn Hiragana!! | 228052 | [228052-learn-hiragana.json](./228052-learn-hiragana.json) |
 | Learn Japanese Kana & Vocab with Sushi | 368886 | [368886-learn-japanese-kana-and-vocab-with-sushi.json](./368886-learn-japanese-kana-and-vocab-with-sushi.json) |
 | Learn Japanese to Survive! Hiragana Battle | 33622 | [33622-learn-japanese-to-survive-hiragana-battle.json](./33622-learn-japanese-to-survive-hiragana-battle.json) |
 | Learn Japanese to Survive! Katakana War | 27684 | [27684-learn-japanese-to-survive-katakana-war.json](./27684-learn-japanese-to-survive-katakana-war.json) |
@@ -4043,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liftoff Inc. | 410396 | [410396-liftoff-inc.json](./410396-liftoff-inc.json) |
 | Liftoff: Drone Racing | 138528 | [138528-liftoff-drone-racing.json](./138528-liftoff-drone-racing.json) |
 | Liftoff: Drone Racing - Deluxe Edition | 139829 | [139829-liftoff-drone-racing-deluxe-edition.json](./139829-liftoff-drone-racing-deluxe-edition.json) |
+| Liftopia: One more! | 228042 | [228042-liftopia-one-more.json](./228042-liftopia-one-more.json) |
 | Lifty! | 113581 | [113581-lifty.json](./113581-lifty.json) |
 | Liga do Tempo | 290086 | [290086-liga-do-tempo.json](./290086-liga-do-tempo.json) |
 | Lighark | 270557 | [270557-lighark.json](./270557-lighark.json) |
@@ -6051,6 +6053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Puzzle Collection: Sudoku, Permudoku, Nonodoku | 147949 | [147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json](./147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json) |
 | Logic Puzzle Rainbow Town | 252872 | [252872-logic-puzzle-rainbow-town.json](./252872-logic-puzzle-rainbow-town.json) |
 | Logic Quest 3D | 79759 | [79759-logic-quest-3d.json](./79759-logic-quest-3d.json) |
+| Logic Square | 228142 | [228142-logic-square.json](./228142-logic-square.json) |
 | Logic Town: Santa's Grotto | 279131 | [279131-logic-town-santas-grotto.json](./279131-logic-town-santas-grotto.json) |
 | Logic Town: The Library | 288063 | [288063-logic-town-the-library.json](./288063-logic-town-the-library.json) |
 | Logic Training IQ Quiz for Kids | 401131 | [401131-logic-training-iq-quiz-for-kids.json](./401131-logic-training-iq-quiz-for-kids.json) |
