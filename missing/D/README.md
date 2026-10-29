@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Da Rock | 332579 | [332579-da-rock.json](./332579-da-rock.json) |
 | Dà Sānguó Shídài | 347226 | [347226-da-sanguo-shidai.json](./347226-da-sanguo-shidai.json) |
 | Dà Táng Xīyù Jì | 149892 | [149892-da-tang-xiyu-ji.json](./149892-da-tang-xiyu-ji.json) |
+| Da Vinci Cannon 2 | 219919 | [219919-da-vinci-cannon-2.json](./219919-da-vinci-cannon-2.json) |
 | Da Vinci Pinball | 89149 | [89149-da-vinci-pinball.json](./89149-da-vinci-pinball.json) |
 | Da Vinci's Legacy | 328319 | [328319-da-vincis-legacy.json](./328319-da-vincis-legacy.json) |
 | Da Will | 274125 | [274125-da-will.json](./274125-da-will.json) |
@@ -7496,6 +7497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Versa | 218406 | [218406-dice-versa.json](./218406-dice-versa.json) |
 | Dice vs Dice | 173269 | [173269-dice-vs-dice.json](./173269-dice-vs-dice.json) |
 | Dice vs. Monsters | 184619 | [184619-dice-vs-monsters.json](./184619-dice-vs-monsters.json) |
+| Dice Wars | 219918 | [219918-dice-wars.json](./219918-dice-wars.json) |
 | Dice With Death | 328406 | [328406-dice-with-death.json](./328406-dice-with-death.json) |
 | Dice with the Devil: Rerolled | 333015 | [333015-dice-with-the-devil-rerolled.json](./333015-dice-with-the-devil-rerolled.json) |
 | Dice World | 250832 | [250832-dice-world.json](./250832-dice-world.json) |
@@ -15989,6 +15991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Rollers | 184623 | [184623-dungeon-rollers.json](./184623-dungeon-rollers.json) |
 | Dungeon Route | 350066 | [350066-dungeon-route.json](./350066-dungeon-route.json) |
 | Dungeon RPG Pikudan 2 | 222324 | [222324-dungeon-rpg-pikudan-2.json](./222324-dungeon-rpg-pikudan-2.json) |
+| Dungeon RPG: Abyssal Dystopia | 219920 | [219920-dungeon-rpg-abyssal-dystopia.json](./219920-dungeon-rpg-abyssal-dystopia.json) |
 | Dungeon RPG: Hero | 235161 | [235161-dungeon-rpg-hero.json](./235161-dungeon-rpg-hero.json) |
 | Dungeon Ruins | 294294 | [294294-dungeon-ruins.json](./294294-dungeon-ruins.json) |
 | Dungeon Rummage: Survival | 323794 | [323794-dungeon-rummage-survival.json](./323794-dungeon-rummage-survival.json) |
