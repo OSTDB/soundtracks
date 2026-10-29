@@ -2624,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teaching Gender-Affirming Care | 405151 | [405151-teaching-gender-affirming-care.json](./405151-teaching-gender-affirming-care.json) |
 | Teaching Simulator: Elite Class | 377972 | [377972-teaching-simulator-elite-class.json](./377972-teaching-simulator-elite-class.json) |
 | Teacup | 214023 | [214023-teacup.json](./214023-teacup.json) |
+| Teahouse of Souls | 210988 | [210988-teahouse-of-souls.json](./210988-teahouse-of-souls.json) |
 | Teahouse of the Gods | 226192 | [226192-teahouse-of-the-gods.json](./226192-teahouse-of-the-gods.json) |
 | TeaKnights | 408906 | [408906-teaknights.json](./408906-teaknights.json) |
 | Teal | 38775 | [38775-teal.json](./38775-teal.json) |
@@ -4079,6 +4080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrifying 9/11 | 165146 | [165146-terrifying-9-11.json](./165146-terrifying-9-11.json) |
 | Territopple | 379666 | [379666-territopple.json](./379666-territopple.json) |
 | Territorial Conquest | 374101 | [374101-territorial-conquest.json](./374101-territorial-conquest.json) |
+| Territorial Duck | 210979 | [210979-territorial-duck.json](./210979-territorial-duck.json) |
 | Territorial Hissing | 261686 | [261686-territorial-hissing.json](./261686-territorial-hissing.json) |
 | Territorial.io | 152149 | [152149-territorial-io.json](./152149-territorial-io.json) |
 | Territory | 171036 | [171036-territory.json](./171036-territory.json) |
@@ -17580,6 +17582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
 | Third Party | 184955 | [184955-third-party.json](./184955-third-party.json) |
 | Third Person Basketball Court | 385675 | [385675-third-person-basketball-court.json](./385675-third-person-basketball-court.json) |
+| Third Power | 211016 | [211016-third-power.json](./211016-third-power.json) |
 | Third Reich | 14518 | [14518-third-reich.json](./14518-third-reich.json) |
 | Third Reich PC | 138103 | [138103-third-reich-pc.json](./138103-third-reich-pc.json) |
 | Third Shift | 344998 | [344998-third-shift.json](./344998-third-shift.json) |
@@ -21300,6 +21303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobidase! Trouble Hanafuda Douchuuki | 269512 | [269512-tobidase-trouble-hanafuda-douchuuki.json](./269512-tobidase-trouble-hanafuda-douchuuki.json) |
 | Tobii Horizon | 236870 | [236870-tobii-horizon.json](./236870-tobii-horizon.json) |
 | Tobimarisa | 97511 | [97511-tobimarisa.json](./97511-tobimarisa.json) |
+| Tobin's Tale | 211018 | [211018-tobins-tale.json](./211018-tobins-tale.json) |
 | Tobit | 114851 | [114851-tobit.json](./114851-tobit.json) |
 | Tobitaro | 391152 | [391152-tobitaro.json](./391152-tobitaro.json) |
 | Tobla: Divine Path | 279132 | [279132-tobla-divine-path.json](./279132-tobla-divine-path.json) |
@@ -27758,6 +27762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Confession | 403963 | [403963-true-confession.json](./403963-true-confession.json) |
 | True Crime: New York City | 4215 | [4215-true-crime-new-york-city.json](./4215-true-crime-new-york-city.json) |
 | True Crime: Streets of LA | 4216 | [4216-true-crime-streets-of-la.json](./4216-true-crime-streets-of-la.json) |
+| True Demon | 211001 | [211001-true-demon.json](./211001-true-demon.json) |
 | True Detective Solitaire | 88755 | [88755-true-detective-solitaire.json](./88755-true-detective-solitaire.json) |
 | True Detective Solitaire 2 | 181092 | [181092-true-detective-solitaire-2.json](./181092-true-detective-solitaire-2.json) |
 | True Disc Golf | 247586 | [247586-true-disc-golf.json](./247586-true-disc-golf.json) |
@@ -28723,6 +28728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tvinnr | 244811 | [244811-tvinnr.json](./244811-tvinnr.json) |
 | Tvori | 131876 | [131876-tvori.json](./131876-tvori.json) |
 | TVS Sample Box | 280248 | [280248-tvs-sample-box.json](./280248-tvs-sample-box.json) |
+| TVs: The Awakening | 210991 | [210991-tvs-the-awakening.json](./210991-tvs-the-awakening.json) |
 | TVs: The Illusion Channel | 209480 | [209480-tvs-the-illusion-channel.json](./209480-tvs-the-illusion-channel.json) |
 | Twaddle Paddle | 114320 | [114320-twaddle-paddle.json](./114320-twaddle-paddle.json) |
 | Twas The Night | 326207 | [326207-twas-the-night.json](./326207-twas-the-night.json) |
