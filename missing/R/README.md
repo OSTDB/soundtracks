@@ -2295,6 +2295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re: Dream | 290080 | [290080-re-dream.json](./290080-re-dream.json) |
 | Re: Gals Panic 2 | 348933 | [348933-re-gals-panic-2.json](./348933-re-gals-panic-2.json) |
 | RE: Get to Schol on Time | 140865 | [140865-re-get-to-schol-on-time.json](./140865-re-get-to-schol-on-time.json) |
+| Re: High School | 214916 | [214916-re-high-school.json](./214916-re-high-school.json) |
 | Re: Imagine the character | 182703 | [182703-re-imagine-the-character.json](./182703-re-imagine-the-character.json) |
 | Re: LieF ~Shin'ainaru Anata e~ | 144956 | [144956-re-lief-shinainaru-anata-e.json](./144956-re-lief-shinainaru-anata-e.json) |
 | Re: Lord - Tales of Adventure | 369535 | [369535-re-lord-tales-of-adventure.json](./369535-re-lord-tales-of-adventure.json) |
@@ -7248,6 +7249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Raid | 5693 | [5693-river-raid.json](./5693-river-raid.json) |
 | River Raid 3D | 204070 | [204070-river-raid-3d.json](./204070-river-raid-3d.json) |
 | River Raid II | 40573 | [40573-river-raid-ii.json](./40573-river-raid-ii.json) |
+| River Raid: Mission of No Return | 214888 | [214888-river-raid-mission-of-no-return.json](./214888-river-raid-mission-of-no-return.json) |
 | River Relaxation VR | 110701 | [110701-river-relaxation-vr.json](./110701-river-relaxation-vr.json) |
 | River Rescue | 23897 | [23897-river-rescue.json](./23897-river-rescue.json) |
 | River Run | 390704 | [390704-river-run.json](./390704-river-run.json) |
