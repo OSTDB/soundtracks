@@ -1318,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match: Snowscapes | 337274 | [337274-jewel-match-snowscapes.json](./337274-jewel-match-snowscapes.json) |
 | Jewel Match: Solitaire Seasons - Collector's Edition | 309503 | [309503-jewel-match-solitaire-seasons-collectors-edition.json](./309503-jewel-match-solitaire-seasons-collectors-edition.json) |
 | Jewel Match: Twilight 3 - Collector's Edition | 159026 | [159026-jewel-match-twilight-3-collectors-edition.json](./159026-jewel-match-twilight-3-collectors-edition.json) |
+| Jewel Match: Winter Wonderland 2 - Collector's Edition | 228045 | [228045-jewel-match-winter-wonderland-2-collectors-edition.json](./228045-jewel-match-winter-wonderland-2-collectors-edition.json) |
 | Jewel Matrix | 77763 | [77763-jewel-matrix.json](./77763-jewel-matrix.json) |
 | Jewel Monsters | 213811 | [213811-jewel-monsters.json](./213811-jewel-monsters.json) |
 | Jewel of Arabia: Dreamers | 139124 | [139124-jewel-of-arabia-dreamers.json](./139124-jewel-of-arabia-dreamers.json) |
