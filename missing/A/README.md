@@ -9307,6 +9307,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anode Heart 2 | 345994 | [345994-anode-heart-2.json](./345994-anode-heart-2.json) |
 | Anode Heart: Layer Null | 319845 | [319845-anode-heart-layer-null.json](./319845-anode-heart-layer-null.json) |
 | Anode Heart: Tenelon | 397589 | [397589-anode-heart-tenelon.json](./397589-anode-heart-tenelon.json) |
+| Anodia | 213180 | [213180-anodia.json](./213180-anodia.json) |
+| Anodia 2 | 213179 | [213179-anodia-2.json](./213179-anodia-2.json) |
 | Anodos | 211398 | [211398-anodos.json](./211398-anodos.json) |
 | Anodyne 2: Return to Dust | 104890 | [104890-anodyne-2-return-to-dust.json](./104890-anodyne-2-return-to-dust.json) |
 | Anodyne Franchise Bundle | 405119 | [405119-anodyne-franchise-bundle.json](./405119-anodyne-franchise-bundle.json) |
