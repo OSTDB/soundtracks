@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly no Puzzle | 141197 | [141197-jelly-no-puzzle.json](./141197-jelly-no-puzzle.json) |
 | Jelly Pops | 22934 | [22934-jelly-pops.json](./22934-jelly-pops.json) |
 | Jelly Run 2048 | 221351 | [221351-jelly-run-2048.json](./221351-jelly-run-2048.json) |
+| Jelly slice! | 200864 | [200864-jelly-slice.json](./200864-jelly-slice.json) |
 | Jelly Solitaire | 89790 | [89790-jelly-solitaire.json](./89790-jelly-solitaire.json) |
 | Jelly Troops | 324864 | [324864-jelly-troops.json](./324864-jelly-troops.json) |
 | Jelly Truck | 322049 | [322049-jelly-truck.json](./322049-jelly-truck.json) |
@@ -1599,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Halloween 5 | 274583 | [274583-jigsaw-puzzle-pack-pixel-puzzles-ultimate-halloween-5.json](./274583-jigsaw-puzzle-pack-pixel-puzzles-ultimate-halloween-5.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Jiu Jitsu | 243159 | [243159-jigsaw-puzzle-pack-pixel-puzzles-ultimate-jiu-jitsu.json](./243159-jigsaw-puzzle-pack-pixel-puzzles-ultimate-jiu-jitsu.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Psychedelic | 266739 | [266739-jigsaw-puzzle-pack-pixel-puzzles-ultimate-psychedelic.json](./266739-jigsaw-puzzle-pack-pixel-puzzles-ultimate-psychedelic.json) |
+| Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Variety Pack 20 | 201441 | [201441-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-20.json](./201441-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-20.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Variety Pack 22 | 270193 | [270193-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-22.json](./270193-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-22.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Variety Pack 7XS | 263506 | [263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json](./263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate Germany 2 | 272326 | [272326-jigsaw-puzzle-pack-pixel-puzzles-ultimate-germany-2.json](./272326-jigsaw-puzzle-pack-pixel-puzzles-ultimate-germany-2.json) |
@@ -3401,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Alive | 90084 | [90084-jurassic-world-alive.json](./90084-jurassic-world-alive.json) |
 | Jurassic World Camp Cretaceous: Hidden Adventure | 256846 | [256846-jurassic-world-camp-cretaceous-hidden-adventure.json](./256846-jurassic-world-camp-cretaceous-hidden-adventure.json) |
 | Jurassic World Evolution 2 | 152064 | [152064-jurassic-world-evolution-2.json](./152064-jurassic-world-evolution-2.json) |
+| Jurassic World Evolution 2: Camp Cretaceous Dinosaur Pack | 200838 | [200838-jurassic-world-evolution-2-camp-cretaceous-dinosaur-pack.json](./200838-jurassic-world-evolution-2-camp-cretaceous-dinosaur-pack.json) |
 | Jurassic World Evolution 2: Complete Edition | 411823 | [411823-jurassic-world-evolution-2-complete-edition.json](./411823-jurassic-world-evolution-2-complete-edition.json) |
 | Jurassic World Evolution 2: Cretaceous Predator Pack | 277848 | [277848-jurassic-world-evolution-2-cretaceous-predator-pack.json](./277848-jurassic-world-evolution-2-cretaceous-predator-pack.json) |
 | Jurassic World Evolution 2: Deluxe Edition | 169166 | [169166-jurassic-world-evolution-2-deluxe-edition.json](./169166-jurassic-world-evolution-2-deluxe-edition.json) |
