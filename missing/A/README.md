@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game of Turnabouts | 308544 | [308544-a-game-of-turnabouts.json](./308544-a-game-of-turnabouts.json) |
 | A Game That Rhymes With Grug | 351703 | [351703-a-game-that-rhymes-with-grug.json](./351703-a-game-that-rhymes-with-grug.json) |
 | A Game With a Kitty | 74789 | [74789-a-game-with-a-kitty.json](./74789-a-game-with-a-kitty.json) |
+| A Game with a Kitty 1 & Darkside Adventures | 210371 | [210371-a-game-with-a-kitty-1-and-darkside-adventures.json](./210371-a-game-with-a-kitty-1-and-darkside-adventures.json) |
 | A Game with a Kitty 3 | 313567 | [313567-a-game-with-a-kitty-3.json](./313567-a-game-with-a-kitty-3.json) |
 | A Game with a Kitty 6: Moon Minion | 313576 | [313576-a-game-with-a-kitty-6-moon-minion.json](./313576-a-game-with-a-kitty-6-moon-minion.json) |
 | A Game You Can Afford In This Economy | 226102 | [226102-a-game-you-can-afford-in-this-economy.json](./226102-a-game-you-can-afford-in-this-economy.json) |
@@ -2264,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Force | 121736 | [121736-ace-force.json](./121736-ace-force.json) |
 | Ace Gals Tennis | 61059 | [61059-ace-gals-tennis.json](./61059-ace-gals-tennis.json) |
 | Ace Gambler: Phoenix Wright | 302644 | [302644-ace-gambler-phoenix-wright.json](./302644-ace-gambler-phoenix-wright.json) |
+| Ace Golf: Blade Brawlers | 210363 | [210363-ace-golf-blade-brawlers.json](./210363-ace-golf-blade-brawlers.json) |
 | Ace In Space | 128339 | [128339-ace-in-space.json](./128339-ace-in-space.json) |
 | Ace Invaders | 147460 | [147460-ace-invaders.json](./147460-ace-invaders.json) |
 | Ace Lightning | 248736 | [248736-ace-lightning.json](./248736-ace-lightning.json) |
@@ -3221,6 +3223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure World | 32772 | [32772-adventure-world.json](./32772-adventure-world.json) |
 | Adventure XT | 84125 | [84125-adventure-xt.json](./84125-adventure-xt.json) |
 | Adventure: All in the Game | 58070 | [58070-adventure-all-in-the-game.json](./58070-adventure-all-in-the-game.json) |
+| Adventure: Limited Edition | 210364 | [210364-adventure-limited-edition.json](./210364-adventure-limited-edition.json) |
 | Adventure: The Inside Job | 60796 | [60796-adventure-the-inside-job.json](./60796-adventure-the-inside-job.json) |
 | Adventure: Welcome to the Genre | 165506 | [165506-adventure-welcome-to-the-genre.json](./165506-adventure-welcome-to-the-genre.json) |
 | Adventure's Calling | 235052 | [235052-adventures-calling.json](./235052-adventures-calling.json) |
@@ -6931,6 +6934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alternative Girls 2 | 216215 | [216215-alternative-girls-2.json](./216215-alternative-girls-2.json) |
 | Alternative Shemevolution | 404836 | [404836-alternative-shemevolution.json](./404836-alternative-shemevolution.json) |
 | Alternator: Tactical Stealth Operations | 116881 | [116881-alternator-tactical-stealth-operations.json](./116881-alternator-tactical-stealth-operations.json) |
+| Alterniabound | 210362 | [210362-alterniabound.json](./210362-alterniabound.json) |
 | Alternian Turnabout: Aradia Megido | 383173 | [383173-alternian-turnabout-aradia-megido.json](./383173-alternian-turnabout-aradia-megido.json) |
 | Alternity | 59974 | [59974-alternity.json](./59974-alternity.json) |
 | Alternoidz | 134388 | [134388-alternoidz.json](./134388-alternoidz.json) |
@@ -8683,6 +8687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing: New Horizons - Happy Home Paradise | 176552 | [176552-animal-crossing-new-horizons-happy-home-paradise.json](./176552-animal-crossing-new-horizons-happy-home-paradise.json) |
 | Animal Crossing: New Horizons - Nintendo Switch 2 Edition | 375733 | [375733-animal-crossing-new-horizons-nintendo-switch-2-edition.json](./375733-animal-crossing-new-horizons-nintendo-switch-2-edition.json) |
 | Animal Crossing: New Leaf - Premium Edition | 89900 | [89900-animal-crossing-new-leaf-premium-edition.json](./89900-animal-crossing-new-leaf-premium-edition.json) |
+| Animal Crossing: New Leaf - Welcome Amiibo! | 210422 | [210422-animal-crossing-new-leaf-welcome-amiibo.json](./210422-animal-crossing-new-leaf-welcome-amiibo.json) |
 | Animal Crossing: New Leaf - Welcome Luxury | 294788 | [294788-animal-crossing-new-leaf-welcome-luxury.json](./294788-animal-crossing-new-leaf-welcome-luxury.json) |
 | Animal Crossing: New Murder | 251058 | [251058-animal-crossing-new-murder.json](./251058-animal-crossing-new-murder.json) |
 | Animal Crossing: Pocket Camp | 58630 | [58630-animal-crossing-pocket-camp.json](./58630-animal-crossing-pocket-camp.json) |
@@ -11341,6 +11346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanists 2 | 245802 | [245802-arcanists-2.json](./245802-arcanists-2.json) |
 | Arcanium: Rise of Akhan | 97340 | [97340-arcanium-rise-of-akhan.json](./97340-arcanium-rise-of-akhan.json) |
 | Arcano | 149826 | [149826-arcano.json](./149826-arcano.json) |
+| Arcano: El juego de Galicia | 210366 | [210366-arcano-el-juego-de-galicia.json](./210366-arcano-el-juego-de-galicia.json) |
 | Arcano: The Trickery | 159638 | [159638-arcano-the-trickery.json](./159638-arcano-the-trickery.json) |
 | Arcanoid Breakout | 147468 | [147468-arcanoid-breakout.json](./147468-arcanoid-breakout.json) |
 | Arcanora | 272789 | [272789-arcanora.json](./272789-arcanora.json) |
