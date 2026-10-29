@@ -1294,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanabi: Collector's Edition | 272293 | [272293-sanabi-collectors-edition.json](./272293-sanabi-collectors-edition.json) |
 | Sanada Juu Yuushi | 48862 | [48862-sanada-juu-yuushi.json](./48862-sanada-juu-yuushi.json) |
 | Sanae no Chou Tokkyuu: TheExpressTrial | 206929 | [206929-sanae-no-chou-tokkyuu-theexpresstrial.json](./206929-sanae-no-chou-tokkyuu-theexpresstrial.json) |
+| Sanae no Gensoukyou | 207082 | [207082-sanae-no-gensoukyou.json](./207082-sanae-no-gensoukyou.json) |
 | Sanae no Youkai Taiji Shinan | 360893 | [360893-sanae-no-youkai-taiji-shinan.json](./360893-sanae-no-youkai-taiji-shinan.json) |
 | Sanae Toumaden X | 158500 | [158500-sanae-toumaden-x.json](./158500-sanae-toumaden-x.json) |
 | Sanae Toumaden X2 | 224689 | [224689-sanae-toumaden-x2.json](./224689-sanae-toumaden-x2.json) |
@@ -4159,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seducing the Devil | 236113 | [236113-seducing-the-devil.json](./236113-seducing-the-devil.json) |
 | Seduction | 172708 | [172708-seduction.json](./172708-seduction.json) |
 | Seduction of Beauty | 292622 | [292622-seduction-of-beauty.json](./292622-seduction-of-beauty.json) |
+| Seduction: A Monk's Fate | 207110 | [207110-seduction-a-monks-fate.json](./207110-seduction-a-monks-fate.json) |
 | Seductive Shadows | 288916 | [288916-seductive-shadows.json](./288916-seductive-shadows.json) |
 | Seductive Solitude | 225080 | [225080-seductive-solitude.json](./225080-seductive-solitude.json) |
 | Seductive Tombs: Beach Love | 163767 | [163767-seductive-tombs-beach-love.json](./163767-seductive-tombs-beach-love.json) |
@@ -10384,6 +10386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skateboard Party 2 | 38937 | [38937-skateboard-party-2.json](./38937-skateboard-party-2.json) |
 | Skateboard Party 3 | 38936 | [38936-skateboard-party-3.json](./38936-skateboard-party-3.json) |
 | Skateboarding | 358842 | [358842-skateboarding.json](./358842-skateboarding.json) |
+| Skateboarding 2: Breakthrough Gaming Arcade | 207076 | [207076-skateboarding-2-breakthrough-gaming-arcade.json](./207076-skateboarding-2-breakthrough-gaming-arcade.json) |
 | Skateboarding: Breakthrough Gaming Arcade | 143632 | [143632-skateboarding-breakthrough-gaming-arcade.json](./143632-skateboarding-breakthrough-gaming-arcade.json) |
 | Skatebound | 400494 | [400494-skatebound.json](./400494-skatebound.json) |
 | Skatebug | 413101 | [413101-skatebug.json](./413101-skatebug.json) |
@@ -13468,6 +13471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Wars | 150785 | [150785-snow-wars.json](./150785-snow-wars.json) |
 | Snow Wave | 91551 | [91551-snow-wave.json](./91551-snow-wave.json) |
 | Snow Wave 2 | 401717 | [401717-snow-wave-2.json](./401717-snow-wave-2.json) |
+| Snow Wave: Avalanche | 206998 | [206998-snow-wave-avalanche.json](./206998-snow-wave-avalanche.json) |
 | Snow White and the Seven Dwarfs | 77396 | [77396-snow-white-and-the-seven-dwarfs.json](./77396-snow-white-and-the-seven-dwarfs.json) |
 | Snow White Ashes | 289791 | [289791-snow-white-ashes.json](./289791-snow-white-ashes.json) |
 | Snow White in Happily Ever After | 42582 | [42582-snow-white-in-happily-ever-after.json](./42582-snow-white-in-happily-ever-after.json) |
@@ -13648,6 +13652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowstorm of despair | 192596 | [192596-snowstorm-of-despair.json](./192596-snowstorm-of-despair.json) |
 | Snowtopia: Ski Resort Builder | 113363 | [113363-snowtopia-ski-resort-builder.json](./113363-snowtopia-ski-resort-builder.json) |
 | Snowtracked | 216888 | [216888-snowtracked.json](./216888-snowtracked.json) |
+| SnowTraxx | 206997 | [206997-snowtraxx.json](./206997-snowtraxx.json) |
 | Snowtrix | 301300 | [301300-snowtrix.json](./301300-snowtrix.json) |
 | Snowy Flag | 291444 | [291444-snowy-flag.json](./291444-snowy-flag.json) |
 | Snowy Leaps | 233436 | [233436-snowy-leaps.json](./233436-snowy-leaps.json) |
@@ -13869,6 +13874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Wind Shot | 233736 | [233736-soccer-wind-shot.json](./233736-soccer-wind-shot.json) |
 | Soccer World | 321228 | [321228-soccer-world.json](./321228-soccer-world.json) |
 | Soccer World Cap | 241550 | [241550-soccer-world-cap.json](./241550-soccer-world-cap.json) |
+| Soccer: Breakthrough Gaming Arcade | 207063 | [207063-soccer-breakthrough-gaming-arcade.json](./207063-soccer-breakthrough-gaming-arcade.json) |
 | Soccer: Breakthrough Gaming Arcade - Challenge Mode Edition | 214904 | [214904-soccer-breakthrough-gaming-arcade-challenge-mode-edition.json](./214904-soccer-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Soccer: Goal Keeper cup | 232314 | [232314-soccer-goal-keeper-cup.json](./232314-soccer-goal-keeper-cup.json) |
 | Soccer: Kick the Goal | 245404 | [245404-soccer-kick-the-goal.json](./245404-soccer-kick-the-goal.json) |
@@ -16653,6 +16659,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space #2: The Gallery of Unfulfilled Dreams | 352762 | [352762-space-2-the-gallery-of-unfulfilled-dreams.json](./352762-space-2-the-gallery-of-unfulfilled-dreams.json) |
 | Space 1889 | 73866 | [73866-space-1889.json](./73866-space-1889.json) |
 | Space 2: Breakthrough Gaming Arcade | 145669 | [145669-space-2-breakthrough-gaming-arcade.json](./145669-space-2-breakthrough-gaming-arcade.json) |
+| Space 2: Breakthrough Gaming Arcade - 2 Player Cooperation Edition | 207071 | [207071-space-2-breakthrough-gaming-arcade-2-player-cooperation-edition.json](./207071-space-2-breakthrough-gaming-arcade-2-player-cooperation-edition.json) |
+| Space 2: Breakthrough Gaming Arcade - 3 Player Cooperation Edition | 207068 | [207068-space-2-breakthrough-gaming-arcade-3-player-cooperation-edition.json](./207068-space-2-breakthrough-gaming-arcade-3-player-cooperation-edition.json) |
+| Space 2: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 207067 | [207067-space-2-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./207067-space-2-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
+| Space 2: Breakthrough Gaming Arcade - Challenge Mode Edition | 207066 | [207066-space-2-breakthrough-gaming-arcade-challenge-mode-edition.json](./207066-space-2-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Space Abyss | 159642 | [159642-space-abyss.json](./159642-space-abyss.json) |
 | Space Academy | 235394 | [235394-space-academy.json](./235394-space-academy.json) |
 | Space Accident | 191000 | [191000-space-accident.json](./191000-space-accident.json) |
@@ -23690,6 +23700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Wars | 91938 | [91938-stone-wars.json](./91938-stone-wars.json) |
 | Stone Wheel | 246426 | [246426-stone-wheel.json](./246426-stone-wheel.json) |
 | Stone Wheel 2: Bee Legend | 235139 | [235139-stone-wheel-2-bee-legend.json](./235139-stone-wheel-2-bee-legend.json) |
+| Stone-Jong | 207112 | [207112-stone-jong.json](./207112-stone-jong.json) |
 | StoneBack | 180032 | [180032-stoneback.json](./180032-stoneback.json) |
 | StoneBack \| Prehistory | 32067 | [32067-stoneback-prehistory.json](./32067-stoneback-prehistory.json) |
 | Stoneborn | 401028 | [401028-stoneborn.json](./401028-stoneborn.json) |
@@ -24071,8 +24082,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Horticulture | 186597 | [186597-strange-horticulture.json](./186597-strange-horticulture.json) |
 | Strange House | 236241 | [236241-strange-house.json](./236241-strange-house.json) |
 | Strange Investigations: Becoming | 187952 | [187952-strange-investigations-becoming.json](./187952-strange-investigations-becoming.json) |
+| Strange Investigations: Becoming - Collector's Edition | 207086 | [207086-strange-investigations-becoming-collectors-edition.json](./207086-strange-investigations-becoming-collectors-edition.json) |
 | Strange Investigations: Secrets Can be Deadly - Collector's Edition | 256713 | [256713-strange-investigations-secrets-can-be-deadly-collectors-edition.json](./256713-strange-investigations-secrets-can-be-deadly-collectors-edition.json) |
 | Strange Investigations: Truth Will Out - Collector's Edition | 356764 | [356764-strange-investigations-truth-will-out-collectors-edition.json](./356764-strange-investigations-truth-will-out-collectors-edition.json) |
+| Strange Investigations: Two for Solitaire - Collector's Edition | 207087 | [207087-strange-investigations-two-for-solitaire-collectors-edition.json](./207087-strange-investigations-two-for-solitaire-collectors-edition.json) |
 | Strange Labyrinth | 310096 | [310096-strange-labyrinth.json](./310096-strange-labyrinth.json) |
 | Strange Loop | 26433 | [26433-strange-loop.json](./26433-strange-loop.json) |
 | Strange Love: Vampire Boyfriends | 63676 | [63676-strange-love-vampire-boyfriends.json](./63676-strange-love-vampire-boyfriends.json) |
@@ -29504,6 +29517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
 | Supermarket Manager Empire 2024 | 316240 | [316240-supermarket-manager-empire-2024.json](./316240-supermarket-manager-empire-2024.json) |
 | Supermarket Manager Simulator | 314863 | [314863-supermarket-manager-simulator.json](./314863-supermarket-manager-simulator.json) |
+| Supermarket Mania | 206995 | [206995-supermarket-mania.json](./206995-supermarket-mania.json) |
 | Supermarket Mania | 23664 | [23664-supermarket-mania.json](./23664-supermarket-mania.json) |
 | Supermarket Mania HD | 24271 | [24271-supermarket-mania-hd.json](./24271-supermarket-mania-hd.json) |
 | Supermarket Mania: Match 3 | 334007 | [334007-supermarket-mania-match-3.json](./334007-supermarket-mania-match-3.json) |
