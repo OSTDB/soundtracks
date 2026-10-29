@@ -3387,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat and Can | 226299 | [226299-cat-and-can.json](./226299-cat-and-can.json) |
 | Cat and Dog Adventure | 95564 | [95564-cat-and-dog-adventure.json](./95564-cat-and-dog-adventure.json) |
 | Cat and Dog Salon: Joyful Pets | 87166 | [87166-cat-and-dog-salon-joyful-pets.json](./87166-cat-and-dog-salon-joyful-pets.json) |
+| Cat and Fish | 187648 | [187648-cat-and-fish.json](./187648-cat-and-fish.json) |
 | Cat and Ghostly Road | 114073 | [114073-cat-and-ghostly-road.json](./114073-cat-and-ghostly-road.json) |
 | Cat and Isle of Stars | 375203 | [375203-cat-and-isle-of-stars.json](./375203-cat-and-isle-of-stars.json) |
 | Cat and Ladder Climb | 252877 | [252877-cat-and-ladder-climb.json](./252877-cat-and-ladder-climb.json) |
@@ -5401,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlotte's Web: Wilbur and Friends | 71015 | [71015-charlottes-web-wilbur-and-friends.json](./71015-charlottes-web-wilbur-and-friends.json) |
 | Charly Diams | 39114 | [39114-charly-diams.json](./39114-charly-diams.json) |
 | Charly the Clown | 66339 | [66339-charly-the-clown.json](./66339-charly-the-clown.json) |
+| Charm | 187653 | [187653-charm.json](./187653-charm.json) |
 | Charm | 232657 | [232657-charm.json](./232657-charm.json) |
 | Charm & Clue | 410685 | [410685-charm-and-clue.json](./410685-charm-and-clue.json) |
 | Charm & Clue 2 | 417505 | [417505-charm-and-clue-2.json](./417505-charm-and-clue-2.json) |
@@ -13182,6 +13184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Horizons: Path of the Wanderer | 278552 | [278552-cosmic-horizons-path-of-the-wanderer.json](./278552-cosmic-horizons-path-of-the-wanderer.json) |
 | Cosmic Horror Tales: Roots Below | 292491 | [292491-cosmic-horror-tales-roots-below.json](./292491-cosmic-horror-tales-roots-below.json) |
 | Cosmic Husbandry | 354917 | [354917-cosmic-husbandry.json](./354917-cosmic-husbandry.json) |
+| Cosmic Invasion | 187694 | [187694-cosmic-invasion.json](./187694-cosmic-invasion.json) |
 | Cosmic Invasion | 335844 | [335844-cosmic-invasion.json](./335844-cosmic-invasion.json) |
 | Cosmic Kitchen | 295272 | [295272-cosmic-kitchen.json](./295272-cosmic-kitchen.json) |
 | Cosmic Kites | 38814 | [38814-cosmic-kites.json](./38814-cosmic-kites.json) |
