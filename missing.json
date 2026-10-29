@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-29T11:37:00.865Z",
-  "total_missing": 279064,
+  "generated_at": "2026-10-29T11:49:00.777Z",
+  "total_missing": 279114,
   "games": [
     {
       "igdb_id": 191680,
@@ -12005,6 +12005,11 @@
       "igdb_id": 219511,
       "game_name": "4D Golf",
       "file": "missing/0-9/219511-4d-golf.json"
+    },
+    {
+      "igdb_id": 203052,
+      "game_name": "4D Miner",
+      "file": "missing/0-9/203052-4d-miner.json"
     },
     {
       "igdb_id": 84048,
@@ -132712,6 +132717,11 @@
       "file": "missing/B/271184-biotoxin.json"
     },
     {
+      "igdb_id": 203015,
+      "game_name": "Biotronic",
+      "file": "missing/B/203015-biotronic.json"
+    },
+    {
       "igdb_id": 403643,
       "game_name": "Biotype",
       "file": "missing/B/403643-biotype.json"
@@ -244812,6 +244822,11 @@
       "file": "missing/C/142356-courage-the-cowardly-dog-hell-bound-hound.json"
     },
     {
+      "igdb_id": 203059,
+      "game_name": "Courage the Cowardly Dog: Pharaoh Phobia",
+      "file": "missing/C/203059-courage-the-cowardly-dog-pharaoh-phobia.json"
+    },
+    {
       "igdb_id": 170005,
       "game_name": "Courage: The Videogame",
       "file": "missing/C/170005-courage-the-videogame.json"
@@ -301685,6 +301700,11 @@
       "igdb_id": 171483,
       "game_name": "Destructo",
       "file": "missing/D/171483-destructo.json"
+    },
+    {
+      "igdb_id": 203032,
+      "game_name": "Destructo 2",
+      "file": "missing/D/203032-destructo-2.json"
     },
     {
       "igdb_id": 353495,
@@ -376550,6 +376570,11 @@
       "igdb_id": 129004,
       "game_name": "Escape From the Grim",
       "file": "missing/E/129004-escape-from-the-grim.json"
+    },
+    {
+      "igdb_id": 202995,
+      "game_name": "Escape from the Haunted House",
+      "file": "missing/E/202995-escape-from-the-haunted-house.json"
     },
     {
       "igdb_id": 100742,
@@ -484850,6 +484875,11 @@
       "igdb_id": 285676,
       "game_name": "Gothic Virtual Tabletop",
       "file": "missing/G/285676-gothic-virtual-tabletop.json"
+    },
+    {
+      "igdb_id": 203046,
+      "game_name": "Gothic: Complete Collection",
+      "file": "missing/G/203046-gothic-complete-collection.json"
     },
     {
       "igdb_id": 333956,
@@ -630415,6 +630445,11 @@
       "igdb_id": 149543,
       "game_name": "Kojouji",
       "file": "missing/K/149543-kojouji.json"
+    },
+    {
+      "igdb_id": 203053,
+      "game_name": "Kojum",
+      "file": "missing/K/203053-kojum.json"
     },
     {
       "igdb_id": 276337,
@@ -781907,6 +781942,11 @@
       "file": "missing/N/130874-naruto-slugfest.json"
     },
     {
+      "igdb_id": 203058,
+      "game_name": "Naruto: Star Students - Ninja Survival",
+      "file": "missing/N/203058-naruto-star-students-ninja-survival.json"
+    },
+    {
       "igdb_id": 7102,
       "game_name": "Naruto: The Broken Bond",
       "file": "missing/N/7102-naruto-the-broken-bond.json"
@@ -867672,6 +867712,11 @@
       "file": "missing/P/100912-pigs-in-war-strategy-game.json"
     },
     {
+      "igdb_id": 203043,
+      "game_name": "Pigs on Head",
+      "file": "missing/P/203043-pigs-on-head.json"
+    },
+    {
       "igdb_id": 177269,
       "game_name": "Pigsaw",
       "file": "missing/P/177269-pigsaw.json"
@@ -883770,6 +883815,11 @@
       "igdb_id": 400286,
       "game_name": "Plobania 47/B",
       "file": "missing/P/400286-plobania-47-b.json"
+    },
+    {
+      "igdb_id": 203022,
+      "game_name": "Plock",
+      "file": "missing/P/203022-plock.json"
     },
     {
       "igdb_id": 159682,
@@ -909447,6 +909497,11 @@
       "file": "missing/P/154598-project-hospital-traumatology-department.json"
     },
     {
+      "igdb_id": 203026,
+      "game_name": "Project Household",
+      "file": "missing/P/203026-project-household.json"
+    },
+    {
       "igdb_id": 306319,
       "game_name": "Project Hover",
       "file": "missing/P/306319-project-hover.json"
@@ -922645,6 +922700,11 @@
       "igdb_id": 43272,
       "game_name": "Q-Ball: Billiards Master",
       "file": "missing/Q/43272-q-ball-billiards-master.json"
+    },
+    {
+      "igdb_id": 203047,
+      "game_name": "Q-Cubed",
+      "file": "missing/Q/203047-q-cubed.json"
     },
     {
       "igdb_id": 302787,
@@ -986662,6 +986722,26 @@
       "file": "missing/S/311617-s-x-e-slider-dungeons.json"
     },
     {
+      "igdb_id": 203048,
+      "game_name": "S.Y.K: Renshouden",
+      "file": "missing/S/203048-s-y-k-renshouden.json"
+    },
+    {
+      "igdb_id": 203049,
+      "game_name": "S.Y.K: Renshouden Portable",
+      "file": "missing/S/203049-s-y-k-renshouden-portable.json"
+    },
+    {
+      "igdb_id": 202994,
+      "game_name": "S.Y.K: Shinsetsu Saiyuuki",
+      "file": "missing/S/202994-s-y-k-shinsetsu-saiyuuki.json"
+    },
+    {
+      "igdb_id": 203020,
+      "game_name": "S.Y.K: Shinsetsu Saiyuuki Portable",
+      "file": "missing/S/203020-s-y-k-shinsetsu-saiyuuki-portable.json"
+    },
+    {
       "igdb_id": 421371,
       "game_name": "S'More Words",
       "file": "missing/S/421371-smore-words.json"
@@ -991650,6 +991730,11 @@
       "igdb_id": 338746,
       "game_name": "Samurai Jack: Desert Quest",
       "file": "missing/S/338746-samurai-jack-desert-quest.json"
+    },
+    {
+      "igdb_id": 203060,
+      "game_name": "Samurai Jack: Rave Slaves",
+      "file": "missing/S/203060-samurai-jack-rave-slaves.json"
     },
     {
       "igdb_id": 2822,
@@ -1033422,6 +1033507,11 @@
       "file": "missing/S/64650-simple-1500-series-hello-kitty-vol-04-trump.json"
     },
     {
+      "igdb_id": 202996,
+      "game_name": "Simple 1500 Series Vol. 1: The Mahjong",
+      "file": "missing/S/202996-simple-1500-series-vol-1-the-mahjong.json"
+    },
+    {
       "igdb_id": 203128,
       "game_name": "Simple 1500 Series Vol. 100: The Uchuu Hikoushi",
       "file": "missing/S/203128-simple-1500-series-vol-100-the-uchuu-hikoushi.json"
@@ -1033462,9 +1033552,19 @@
       "file": "missing/S/59052-simple-1500-series-vol-17-the-bike-race.json"
     },
     {
+      "igdb_id": 203006,
+      "game_name": "Simple 1500 Series Vol. 19: The Sugoroku",
+      "file": "missing/S/203006-simple-1500-series-vol-19-the-sugoroku.json"
+    },
+    {
       "igdb_id": 70571,
       "game_name": "Simple 1500 Series Vol. 2: The Shogi",
       "file": "missing/S/70571-simple-1500-series-vol-2-the-shogi.json"
+    },
+    {
+      "igdb_id": 203008,
+      "game_name": "Simple 1500 Series Vol. 21: The Yakyuu - Pro Yakyuu Jitsumeiban",
+      "file": "missing/S/203008-simple-1500-series-vol-21-the-yakyuu-pro-yakyuu-jitsumeiban.json"
     },
     {
       "igdb_id": 45221,
@@ -1033472,9 +1033572,109 @@
       "file": "missing/S/45221-simple-1500-series-vol-22-the-pro-wrestling.json"
     },
     {
+      "igdb_id": 203009,
+      "game_name": "Simple 1500 Series Vol. 23: The Gateball",
+      "file": "missing/S/203009-simple-1500-series-vol-23-the-gateball.json"
+    },
+    {
+      "igdb_id": 203010,
+      "game_name": "Simple 1500 Series Vol. 24: The Gun Shooting",
+      "file": "missing/S/203010-simple-1500-series-vol-24-the-gun-shooting.json"
+    },
+    {
+      "igdb_id": 203011,
+      "game_name": "Simple 1500 Series Vol. 25: The Keiba",
+      "file": "missing/S/203011-simple-1500-series-vol-25-the-keiba.json"
+    },
+    {
+      "igdb_id": 203013,
+      "game_name": "Simple 1500 Series Vol. 28: The Dungeon RPG",
+      "file": "missing/S/203013-simple-1500-series-vol-28-the-dungeon-rpg.json"
+    },
+    {
+      "igdb_id": 203014,
+      "game_name": "Simple 1500 Series Vol. 29: The Tsuri",
+      "file": "missing/S/203014-simple-1500-series-vol-29-the-tsuri.json"
+    },
+    {
+      "igdb_id": 203017,
+      "game_name": "Simple 1500 Series Vol. 33: The Takkyuu",
+      "file": "missing/S/203017-simple-1500-series-vol-33-the-takkyuu.json"
+    },
+    {
+      "igdb_id": 203018,
+      "game_name": "Simple 1500 Series Vol. 34: The Quiz Bangumi",
+      "file": "missing/S/203018-simple-1500-series-vol-34-the-quiz-bangumi.json"
+    },
+    {
+      "igdb_id": 203021,
+      "game_name": "Simple 1500 Series Vol. 36: The Renai Simulation - Natsu-iro Celebration",
+      "file": "missing/S/203021-simple-1500-series-vol-36-the-renai-simulation-natsu-iro-celebration.json"
+    },
+    {
+      "igdb_id": 203023,
+      "game_name": "Simple 1500 Series Vol. 37: The Illust Puzzle & Slide Puzzle",
+      "file": "missing/S/203023-simple-1500-series-vol-37-the-illust-puzzle-and-slide-puzzle.json"
+    },
+    {
+      "igdb_id": 203024,
+      "game_name": "Simple 1500 Series Vol. 38: The Real Racing Toyota",
+      "file": "missing/S/203024-simple-1500-series-vol-38-the-real-racing-toyota.json"
+    },
+    {
+      "igdb_id": 203025,
+      "game_name": "Simple 1500 Series Vol. 39: The Mahjong 2",
+      "file": "missing/S/203025-simple-1500-series-vol-39-the-mahjong-2.json"
+    },
+    {
+      "igdb_id": 202997,
+      "game_name": "Simple 1500 Series Vol. 4: The Reversi",
+      "file": "missing/S/202997-simple-1500-series-vol-4-the-reversi.json"
+    },
+    {
+      "igdb_id": 203027,
+      "game_name": "Simple 1500 Series Vol. 40: The Shogi 2",
+      "file": "missing/S/203027-simple-1500-series-vol-40-the-shogi-2.json"
+    },
+    {
+      "igdb_id": 203028,
+      "game_name": "Simple 1500 Series Vol. 41: The Reversi 2",
+      "file": "missing/S/203028-simple-1500-series-vol-41-the-reversi-2.json"
+    },
+    {
       "igdb_id": 82129,
       "game_name": "Simple 1500 Series Vol. 42: The Igo 2",
       "file": "missing/S/82129-simple-1500-series-vol-42-the-igo-2.json"
+    },
+    {
+      "igdb_id": 203029,
+      "game_name": "Simple 1500 Series Vol. 43: The Hanafuda 2",
+      "file": "missing/S/203029-simple-1500-series-vol-43-the-hanafuda-2.json"
+    },
+    {
+      "igdb_id": 203030,
+      "game_name": "Simple 1500 Series Vol. 45: The Block Kuzushi 2",
+      "file": "missing/S/203030-simple-1500-series-vol-45-the-block-kuzushi-2.json"
+    },
+    {
+      "igdb_id": 203031,
+      "game_name": "Simple 1500 Series Vol. 46: The Mahjong Ochige - Raku Jongg",
+      "file": "missing/S/203031-simple-1500-series-vol-46-the-mahjong-ochige-raku-jongg.json"
+    },
+    {
+      "igdb_id": 203033,
+      "game_name": "Simple 1500 Series Vol. 49: The Casino",
+      "file": "missing/S/203033-simple-1500-series-vol-49-the-casino.json"
+    },
+    {
+      "igdb_id": 203034,
+      "game_name": "Simple 1500 Series Vol. 50: The Billiards 2",
+      "file": "missing/S/203034-simple-1500-series-vol-50-the-billiards-2.json"
+    },
+    {
+      "igdb_id": 203035,
+      "game_name": "Simple 1500 Series Vol. 51: The Jigsaw Puzzle",
+      "file": "missing/S/203035-simple-1500-series-vol-51-the-jigsaw-puzzle.json"
     },
     {
       "igdb_id": 44754,
@@ -1033482,14 +1033682,49 @@
       "file": "missing/S/44754-simple-1500-series-vol-52-the-pro-wrestling-2.json"
     },
     {
+      "igdb_id": 203037,
+      "game_name": "Simple 1500 Series Vol. 54: The VolleyBall - Break Volley Plus",
+      "file": "missing/S/203037-simple-1500-series-vol-54-the-volleyball-break-volley-plus.json"
+    },
+    {
+      "igdb_id": 203039,
+      "game_name": "Simple 1500 Series Vol. 55: The Darts",
+      "file": "missing/S/203039-simple-1500-series-vol-55-the-darts.json"
+    },
+    {
       "igdb_id": 57130,
       "game_name": "Simple 1500 Series Vol. 56: The Sniper",
       "file": "missing/S/57130-simple-1500-series-vol-56-the-sniper.json"
     },
     {
+      "igdb_id": 203040,
+      "game_name": "Simple 1500 Series Vol. 57: The Meiro",
+      "file": "missing/S/203040-simple-1500-series-vol-57-the-meiro.json"
+    },
+    {
       "igdb_id": 124665,
       "game_name": "Simple 1500 Series Vol. 58: The Sumo",
       "file": "missing/S/124665-simple-1500-series-vol-58-the-sumo.json"
+    },
+    {
+      "igdb_id": 203054,
+      "game_name": "Simple 1500 Series Vol. 60: The Table Hockey",
+      "file": "missing/S/203054-simple-1500-series-vol-60-the-table-hockey.json"
+    },
+    {
+      "igdb_id": 203055,
+      "game_name": "Simple 1500 Series Vol. 61: The Quiz 2",
+      "file": "missing/S/203055-simple-1500-series-vol-61-the-quiz-2.json"
+    },
+    {
+      "igdb_id": 203056,
+      "game_name": "Simple 1500 Series Vol. 62: The Ski",
+      "file": "missing/S/203056-simple-1500-series-vol-62-the-ski.json"
+    },
+    {
+      "igdb_id": 203057,
+      "game_name": "Simple 1500 Series Vol. 63: The Gun Shooting 2",
+      "file": "missing/S/203057-simple-1500-series-vol-63-the-gun-shooting-2.json"
     },
     {
       "igdb_id": 130774,
@@ -1215837,6 +1216072,11 @@
       "file": "missing/T/167245-the-settlers-7-paths-to-a-kingdom-uncharted-land-map-pack.json"
     },
     {
+      "igdb_id": 203045,
+      "game_name": "The Settlers Complete I-VI",
+      "file": "missing/T/203045-the-settlers-complete-i-vi.json"
+    },
+    {
       "igdb_id": 71922,
       "game_name": "The Settlers II: 10th Anniversary - Vikings",
       "file": "missing/T/71922-the-settlers-ii-10th-anniversary-vikings.json"
@@ -1262587,6 +1262827,11 @@
       "file": "missing/T/146886-tour-of-neverland.json"
     },
     {
+      "igdb_id": 203050,
+      "game_name": "Tour Party: Sotsugyou Ryokou ni Ikou",
+      "file": "missing/T/203050-tour-party-sotsugyou-ryokou-ni-ikou.json"
+    },
+    {
       "igdb_id": 252895,
       "game_name": "Touring",
       "file": "missing/T/252895-touring.json"
@@ -1293390,6 +1293635,11 @@
       "igdb_id": 248886,
       "game_name": "UFO: The Ranch",
       "file": "missing/U/248886-ufo-the-ranch.json"
+    },
+    {
+      "igdb_id": 203044,
+      "game_name": "UFO: Trilogy",
+      "file": "missing/U/203044-ufo-trilogy.json"
     },
     {
       "igdb_id": 244473,
