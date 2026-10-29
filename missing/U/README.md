@@ -2075,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | United States of America Jigsaw Puzzles: Expansion Pack 3 | 281917 | [281917-united-states-of-america-jigsaw-puzzles-expansion-pack-3.json](./281917-united-states-of-america-jigsaw-puzzles-expansion-pack-3.json) |
 | United States of America Jigsaw Puzzles: Expansion Pack 4 | 281918 | [281918-united-states-of-america-jigsaw-puzzles-expansion-pack-4.json](./281918-united-states-of-america-jigsaw-puzzles-expansion-pack-4.json) |
 | United States Quiz | 92820 | [92820-united-states-quiz.json](./92820-united-states-quiz.json) |
+| United Students Academy | 180409 | [180409-united-students-academy.json](./180409-united-students-academy.json) |
 | United Tactics | 41815 | [41815-united-tactics.json](./41815-united-tactics.json) |
 | United We Chess | 181635 | [181635-united-we-chess.json](./181635-united-we-chess.json) |
 | United2030 | 405779 | [405779-united2030.json](./405779-united2030.json) |
