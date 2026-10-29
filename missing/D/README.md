@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dad's Dice: History of Legends | 217461 | [217461-dads-dice-history-of-legends.json](./217461-dads-dice-history-of-legends.json) |
 | Dad’s Gonna Be a Travel Influencer. | 403932 | [403932-dad-s-gonna-be-a-travel-influencer.json](./403932-dad-s-gonna-be-a-travel-influencer.json) |
 | Dad's Last Fishing Trip | 328894 | [328894-dads-last-fishing-trip.json](./328894-dads-last-fishing-trip.json) |
+| Daddy | 223230 | [223230-daddy.json](./223230-daddy.json) |
 | Daddy Comes Home | 330477 | [330477-daddy-comes-home.json](./330477-daddy-comes-home.json) |
 | Daddy Long Legs | 89289 | [89289-daddy-long-legs.json](./89289-daddy-long-legs.json) |
 | Daddy Moto Racing | 255063 | [255063-daddy-moto-racing.json](./255063-daddy-moto-racing.json) |
@@ -279,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DaGame | 146238 | [146238-dagame.json](./146238-dagame.json) |
 | Dagat-i Kal Kal Kal | 63262 | [63262-dagat-i-kal-kal-kal.json](./63262-dagat-i-kal-kal-kal.json) |
 | Dagdrom | 183468 | [183468-dagdrom.json](./183468-dagdrom.json) |
+| Dagdrøm | 223260 | [223260-dagdr-m.json](./223260-dagdr-m.json) |
 | DaGeDar | 47924 | [47924-dagedar.json](./47924-dagedar.json) |
 | Dagestan Technology Anthology | 52844 | [52844-dagestan-technology-anthology.json](./52844-dagestan-technology-anthology.json) |
 | Dagga | 329462 | [329462-dagga.json](./329462-dagga.json) |
@@ -1809,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkdire | 112954 | [112954-darkdire.json](./112954-darkdire.json) |
 | Darkdire: The Advanced Set - Greencastle Expansion | 224125 | [224125-darkdire-the-advanced-set-greencastle-expansion.json](./224125-darkdire-the-advanced-set-greencastle-expansion.json) |
 | DarkEdeNight | 86050 | [86050-darkedenight.json](./86050-darkedenight.json) |
+| Darken Derek: The Last Fallen | 223243 | [223243-darken-derek-the-last-fallen.json](./223243-darken-derek-the-last-fallen.json) |
 | Darken VR | 106334 | [106334-darken-vr.json](./106334-darken-vr.json) |
 | Darkend | 331684 | [331684-darkend.json](./331684-darkend.json) |
 | DarkEnd | 17217 | [17217-darkend.json](./17217-darkend.json) |
@@ -3196,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Night Highway | 405727 | [405727-dead-night-highway.json](./405727-dead-night-highway.json) |
 | Dead Ninja Mortal Shadow | 280729 | [280729-dead-ninja-mortal-shadow.json](./280729-dead-ninja-mortal-shadow.json) |
 | Dead No-Head | 187404 | [187404-dead-no-head.json](./187404-dead-no-head.json) |
+| Dead of Darkness | 223270 | [223270-dead-of-darkness.json](./223270-dead-of-darkness.json) |
 | Dead of Darkness 2 | 422094 | [422094-dead-of-darkness-2.json](./422094-dead-of-darkness-2.json) |
 | Dead of Day | 244894 | [244894-dead-of-day.json](./244894-dead-of-day.json) |
 | Dead of Night | 224113 | [224113-dead-of-night.json](./224113-dead-of-night.json) |
@@ -9524,6 +9528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Ascent: Map Pack | 161752 | [161752-divine-ascent-map-pack.json](./161752-divine-ascent-map-pack.json) |
 | Divine Business: Fantasy Trading Simulator | 113744 | [113744-divine-business-fantasy-trading-simulator.json](./113744-divine-business-fantasy-trading-simulator.json) |
 | Divine D.I.V.A. | 117684 | [117684-divine-d-i-v-a.json](./117684-divine-d-i-v-a.json) |
+| Divine Dawn | 223232 | [223232-divine-dawn.json](./223232-divine-dawn.json) |
 | Divine Divinity | 671 | [671-divine-divinity.json](./671-divine-divinity.json) |
 | Divine Doubt | 278707 | [278707-divine-doubt.json](./278707-divine-doubt.json) |
 | Divine Duel | 215026 | [215026-divine-duel.json](./215026-divine-duel.json) |
@@ -9572,6 +9577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diving Into Abyss | 379093 | [379093-diving-into-abyss.json](./379093-diving-into-abyss.json) |
 | Diving Through Hell | 418556 | [418556-diving-through-hell.json](./418556-diving-through-hell.json) |
 | Divinia Chronicles: Relics of Gan-Ti | 17437 | [17437-divinia-chronicles-relics-of-gan-ti.json](./17437-divinia-chronicles-relics-of-gan-ti.json) |
+| Divinity | 223256 | [223256-divinity.json](./223256-divinity.json) |
 | Divinity | 381216 | [381216-divinity.json](./381216-divinity.json) |
 | Divinity Arrival | 254569 | [254569-divinity-arrival.json](./254569-divinity-arrival.json) |
 | Divinity Chronicles: Journey to the West | 140623 | [140623-divinity-chronicles-journey-to-the-west.json](./140623-divinity-chronicles-journey-to-the-west.json) |
@@ -11772,6 +11778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorke and Ymp | 32601 | [32601-dorke-and-ymp.json](./32601-dorke-and-ymp.json) |
 | Dorkom | 407600 | [407600-dorkom.json](./407600-dorkom.json) |
 | Dorky Fork | 130209 | [130209-dorky-fork.json](./130209-dorky-fork.json) |
+| Dorm Days | 223236 | [223236-dorm-days.json](./223236-dorm-days.json) |
 | Dorman's Attraction: Upgraded & Advanced | 396897 | [396897-dormans-attraction-upgraded-and-advanced.json](./396897-dormans-attraction-upgraded-and-advanced.json) |
 | Dormant | 313496 | [313496-dormant.json](./313496-dormant.json) |
 | Dormant World | 55802 | [55802-dormant-world.json](./55802-dormant-world.json) |
