@@ -1385,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Wilderness | 257257 | [257257-undead-wilderness.json](./257257-undead-wilderness.json) |
 | Undead World | 226488 | [226488-undead-world.json](./226488-undead-world.json) |
 | Undead World Order | 415844 | [415844-undead-world-order.json](./415844-undead-world-order.json) |
+| Undead World: Hero Survival | 194107 | [194107-undead-world-hero-survival.json](./194107-undead-world-hero-survival.json) |
 | Undead zombies | 127765 | [127765-undead-zombies.json](./127765-undead-zombies.json) |
 | Undead Zone | 241828 | [241828-undead-zone.json](./241828-undead-zone.json) |
 | Undead: Rise of Betrayed King | 278503 | [278503-undead-rise-of-betrayed-king.json](./278503-undead-rise-of-betrayed-king.json) |
