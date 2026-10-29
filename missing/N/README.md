@@ -2111,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Coliseum | 55612 | [55612-neon-coliseum.json](./55612-neon-coliseum.json) |
 | Neon Colony | 349212 | [349212-neon-colony.json](./349212-neon-colony.json) |
 | Neon Cop | 243850 | [243850-neon-cop.json](./243850-neon-cop.json) |
+| Neon Cyber Desert | 217121 | [217121-neon-cyber-desert.json](./217121-neon-cyber-desert.json) |
 | Neon Cyber Samurai | 211993 | [211993-neon-cyber-samurai.json](./211993-neon-cyber-samurai.json) |
 | Neon Cyborg Cat Club | 148533 | [148533-neon-cyborg-cat-club.json](./148533-neon-cyborg-cat-club.json) |
 | Neon D-Fence Remaster | 251770 | [251770-neon-d-fence-remaster.json](./251770-neon-d-fence-remaster.json) |
