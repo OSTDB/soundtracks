@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Empire | 240484 | [240484-galactic-empire.json](./240484-galactic-empire.json) |
 | Galactic Empires | 176370 | [176370-galactic-empires.json](./176370-galactic-empires.json) |
 | Galactic Escape | 208829 | [208829-galactic-escape.json](./208829-galactic-escape.json) |
+| Galactic Explorers | 199721 | [199721-galactic-explorers.json](./199721-galactic-explorers.json) |
 | Galactic Express | 294392 | [294392-galactic-express.json](./294392-galactic-express.json) |
 | Galactic Express | 381041 | [381041-galactic-express.json](./381041-galactic-express.json) |
 | Galactic Federation | 189357 | [189357-galactic-federation.json](./189357-galactic-federation.json) |
@@ -1341,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamer Den | 177928 | [177928-gamer-den.json](./177928-gamer-den.json) |
 | Gamer Girls 2 | 162842 | [162842-gamer-girls-2.json](./162842-gamer-girls-2.json) |
 | Gamer Girls: Cyberpunk 2069 | 286461 | [286461-gamer-girls-cyberpunk-2069.json](./286461-gamer-girls-cyberpunk-2069.json) |
+| Gamer Girls: Dating Sim | 199729 | [199729-gamer-girls-dating-sim.json](./199729-gamer-girls-dating-sim.json) |
 | Gamer Girls: Futanari | 210858 | [210858-gamer-girls-futanari.json](./210858-gamer-girls-futanari.json) |
 | Gamer Life | 127636 | [127636-gamer-life.json](./127636-gamer-life.json) |
 | Gamer Pack | 131182 | [131182-gamer-pack.json](./131182-gamer-pack.json) |
@@ -4083,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give a Dam! | 248066 | [248066-give-a-dam.json](./248066-give-a-dam.json) |
 | Give an imp a chance! | 330931 | [330931-give-an-imp-a-chance.json](./330931-give-an-imp-a-chance.json) |
 | Give Gifts Give Life | 397240 | [397240-give-gifts-give-life.json](./397240-give-gifts-give-life.json) |
+| Give It Up: Spring Festival | 200293 | [200293-give-it-up-spring-festival.json](./200293-give-it-up-spring-festival.json) |
 | Give It Up! | 59302 | [59302-give-it-up.json](./59302-give-it-up.json) |
 | Give It Up! 3 | 260897 | [260897-give-it-up-3.json](./260897-give-it-up-3.json) |
 | Give It Up! Bouncy | 147354 | [147354-give-it-up-bouncy.json](./147354-give-it-up-bouncy.json) |
@@ -4571,6 +4574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow Up 2 | 320023 | [320023-glow-up-2.json](./320023-glow-up-2.json) |
 | Glow Worm | 209755 | [209755-glow-worm.json](./209755-glow-worm.json) |
 | GlowBoard: WinterFest | 251449 | [251449-glowboard-winterfest.json](./251449-glowboard-winterfest.json) |
+| GlowBoarding | 199742 | [199742-glowboarding.json](./199742-glowboarding.json) |
 | Glowface in Love | 315944 | [315944-glowface-in-love.json](./315944-glowface-in-love.json) |
 | Glowface In Love 2 | 354235 | [354235-glowface-in-love-2.json](./354235-glowface-in-love-2.json) |
 | Glowfall Vale | 389057 | [389057-glowfall-vale.json](./389057-glowfall-vale.json) |
