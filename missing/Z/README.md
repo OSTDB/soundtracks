@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeus II: Carnage Heart | 66187 | [66187-zeus-ii-carnage-heart.json](./66187-zeus-ii-carnage-heart.json) |
 | Zeus Quest Remastered | 147435 | [147435-zeus-quest-remastered.json](./147435-zeus-quest-remastered.json) |
 | Zeus Quest Remastered | 32893 | [32893-zeus-quest-remastered.json](./32893-zeus-quest-remastered.json) |
+| Zeus Quest: The Rebirth of Earth | 202520 | [202520-zeus-quest-the-rebirth-of-earth.json](./202520-zeus-quest-the-rebirth-of-earth.json) |
 | Zeus vs Monsters: Math Game for Kids | 33492 | [33492-zeus-vs-monsters-math-game-for-kids.json](./33492-zeus-vs-monsters-math-game-for-kids.json) |
 | Zeus vs. Monsters | 87540 | [87540-zeus-vs-monsters.json](./87540-zeus-vs-monsters.json) |
 | Zeus: Carnage Heart Second | 66186 | [66186-zeus-carnage-heart-second.json](./66186-zeus-carnage-heart-second.json) |
@@ -1594,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie School | 110348 | [110348-zombie-school.json](./110348-zombie-school.json) |
 | Zombie School Survival | 367574 | [367574-zombie-school-survival.json](./367574-zombie-school-survival.json) |
 | Zombie Scrapper | 116766 | [116766-zombie-scrapper.json](./116766-zombie-scrapper.json) |
+| Zombie Scream | 202491 | [202491-zombie-scream.json](./202491-zombie-scream.json) |
 | Zombie Season | 123547 | [123547-zombie-season.json](./123547-zombie-season.json) |
 | Zombie Serial Killer Incident | 99594 | [99594-zombie-serial-killer-incident.json](./99594-zombie-serial-killer-incident.json) |
 | Zombie Shooter | 16017 | [16017-zombie-shooter.json](./16017-zombie-shooter.json) |
