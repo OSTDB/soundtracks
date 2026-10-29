@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairytale Fables | 271637 | [271637-fairytale-fables.json](./271637-fairytale-fables.json) |
 | Fairytale Fights | 6991 | [6991-fairytale-fights.json](./6991-fairytale-fights.json) |
 | Fairytale Furnishing | 295560 | [295560-fairytale-furnishing.json](./295560-fairytale-furnishing.json) |
+| Fairytale Kart Race | 188231 | [188231-fairytale-kart-race.json](./188231-fairytale-kart-race.json) |
 | Fairytale Mosaics: Beauty and Beast | 126839 | [126839-fairytale-mosaics-beauty-and-beast.json](./126839-fairytale-mosaics-beauty-and-beast.json) |
 | Fairytale Mosaics: Beauty and the Beast 2 | 99574 | [99574-fairytale-mosaics-beauty-and-the-beast-2.json](./99574-fairytale-mosaics-beauty-and-the-beast-2.json) |
 | Fairytale Mosaics: Cinderella 2 | 155649 | [155649-fairytale-mosaics-cinderella-2.json](./155649-fairytale-mosaics-cinderella-2.json) |
