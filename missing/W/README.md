@@ -3248,6 +3248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack the Serial Killer | 90514 | [90514-whack-the-serial-killer.json](./90514-whack-the-serial-killer.json) |
 | Whack the Thieves | 188289 | [188289-whack-the-thieves.json](./188289-whack-the-thieves.json) |
 | Whack Your Boss | 221409 | [221409-whack-your-boss.json](./221409-whack-your-boss.json) |
+| Whack Your Boss: Cartoon Land | 194105 | [194105-whack-your-boss-cartoon-land.json](./194105-whack-your-boss-cartoon-land.json) |
 | Whack Your Boss: Superhero | 188284 | [188284-whack-your-boss-superhero.json](./188284-whack-your-boss-superhero.json) |
 | Whack Your Computer | 356717 | [356717-whack-your-computer.json](./356717-whack-your-computer.json) |
 | Whack Your Ex | 193853 | [193853-whack-your-ex.json](./193853-whack-your-ex.json) |
@@ -4077,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Coat, Red Hands | 415479 | [415479-white-coat-red-hands.json](./415479-white-coat-red-hands.json) |
 | White Dandelion | 158698 | [158698-white-dandelion.json](./158698-white-dandelion.json) |
 | White Day 2: Swan Song | 55020 | [55020-white-day-2-swan-song.json](./55020-white-day-2-swan-song.json) |
+| White Day 2: The Flower That Tells Lies | 194137 | [194137-white-day-2-the-flower-that-tells-lies.json](./194137-white-day-2-the-flower-that-tells-lies.json) |
 | White Day 2: The Flower That Tells Lies - Complete Edition | 287049 | [287049-white-day-2-the-flower-that-tells-lies-complete-edition.json](./287049-white-day-2-the-flower-that-tells-lies-complete-edition.json) |
 | White Day 2: The Flower That Tells Lies - Ep.2 | 248335 | [248335-white-day-2-the-flower-that-tells-lies-ep-2.json](./248335-white-day-2-the-flower-that-tells-lies-ep-2.json) |
 | White Day 2: The Flower That Tells Lies - Ep.3 | 257484 | [257484-white-day-2-the-flower-that-tells-lies-ep-3.json](./257484-white-day-2-the-flower-that-tells-lies-ep-3.json) |
@@ -4597,6 +4599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Lynx Jigsaw | 357967 | [357967-wild-lynx-jigsaw.json](./357967-wild-lynx-jigsaw.json) |
 | Wild Lynx Jigsaw: Expansion Pack 1 | 357968 | [357968-wild-lynx-jigsaw-expansion-pack-1.json](./357968-wild-lynx-jigsaw-expansion-pack-1.json) |
 | Wild Lynx Jigsaw: Expansion Pack 2 | 357969 | [357969-wild-lynx-jigsaw-expansion-pack-2.json](./357969-wild-lynx-jigsaw-expansion-pack-2.json) |
+| Wild Maiden | 194114 | [194114-wild-maiden.json](./194114-wild-maiden.json) |
 | Wild Man Jump | 305465 | [305465-wild-man-jump.json](./305465-wild-man-jump.json) |
 | Wild Man Jump | 305473 | [305473-wild-man-jump.json](./305473-wild-man-jump.json) |
 | Wild Marble Beats | 181351 | [181351-wild-marble-beats.json](./181351-wild-marble-beats.json) |
