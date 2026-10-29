@@ -11178,6 +11178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperide | 131423 | [131423-hyperide.json](./131423-hyperide.json) |
 | Hyperide VR | 75024 | [75024-hyperide-vr.json](./75024-hyperide-vr.json) |
 | Hyperide: Vector Raid | 112815 | [112815-hyperide-vector-raid.json](./112815-hyperide-vector-raid.json) |
+| Hyperjustice | 189815 | [189815-hyperjustice.json](./189815-hyperjustice.json) |
 | Hyperjustice: Hyper Holidays Expansion | 285320 | [285320-hyperjustice-hyper-holidays-expansion.json](./285320-hyperjustice-hyper-holidays-expansion.json) |
 | Hyperkidmorph2mr.gunner | 336110 | [336110-hyperkidmorph2mr-gunner.json](./336110-hyperkidmorph2mr-gunner.json) |
 | Hyperkin RetroN 5 | 23833 | [23833-hyperkin-retron-5.json](./23833-hyperkin-retron-5.json) |
