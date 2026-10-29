@@ -1875,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across the World: West Virginia 1861 | 159618 | [159618-wars-across-the-world-west-virginia-1861.json](./159618-wars-across-the-world-west-virginia-1861.json) |
 | Wars Across the World: Zulu 1879 | 242623 | [242623-wars-across-the-world-zulu-1879.json](./242623-wars-across-the-world-zulu-1879.json) |
 | Wars and Battles: Normandy | 76439 | [76439-wars-and-battles-normandy.json](./76439-wars-and-battles-normandy.json) |
+| Wars and Roses | 187697 | [187697-wars-and-roses.json](./187697-wars-and-roses.json) |
 | Wars and Warriors: Joan of Arc | 17297 | [17297-wars-and-warriors-joan-of-arc.json](./17297-wars-and-warriors-joan-of-arc.json) |
 | Wars of Cards: Roma | 241781 | [241781-wars-of-cards-roma.json](./241781-wars-of-cards-roma.json) |
 | Wars of Napoleon | 33092 | [33092-wars-of-napoleon.json](./33092-wars-of-napoleon.json) |
@@ -5088,6 +5089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windwalkers | 9185 | [9185-windwalkers.json](./9185-windwalkers.json) |
 | Windward | 17902 | [17902-windward.json](./17902-windward.json) |
 | Windward Horizon | 298621 | [298621-windward-horizon.json](./298621-windward-horizon.json) |
+| WindWind | 187665 | [187665-windwind.json](./187665-windwind.json) |
 | WindWord | 104641 | [104641-windword.json](./104641-windword.json) |
 | Windwoven | 374606 | [374606-windwoven.json](./374606-windwoven.json) |
 | Windy Creator | 327751 | [327751-windy-creator.json](./327751-windy-creator.json) |
