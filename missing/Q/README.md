@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quizarium | 232569 | [232569-quizarium.json](./232569-quizarium.json) |
 | Quizball Goal | 94167 | [94167-quizball-goal.json](./94167-quizball-goal.json) |
 | QuizCross | 58213 | [58213-quizcross.json](./58213-quizcross.json) |
+| QuizDuel! | 227546 | [227546-quizduel.json](./227546-quizduel.json) |
 | Quizee | 171897 | [171897-quizee.json](./171897-quizee.json) |
 | Quizei | 375799 | [375799-quizei.json](./375799-quizei.json) |
 | QuizFizz | 255140 | [255140-quizfizz.json](./255140-quizfizz.json) |
