@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Sword VR | 27699 | [27699-samurai-sword-vr.json](./27699-samurai-sword-vr.json) |
 | Samurai Tactics | 187744 | [187744-samurai-tactics.json](./187744-samurai-tactics.json) |
 | Samurai Trilogy | 37177 | [37177-samurai-trilogy.json](./37177-samurai-trilogy.json) |
+| Samurai Unicorn | 218856 | [218856-samurai-unicorn.json](./218856-samurai-unicorn.json) |
 | Samurai VR | 251758 | [251758-samurai-vr.json](./251758-samurai-vr.json) |
 | Samurai vs Zombies Defense | 63402 | [63402-samurai-vs-zombies-defense.json](./63402-samurai-vs-zombies-defense.json) |
 | Samurai vs. Zombies Defense 2 | 127047 | [127047-samurai-vs-zombies-defense-2.json](./127047-samurai-vs-zombies-defense-2.json) |
@@ -8358,6 +8359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrimp | 314251 | [314251-shrimp.json](./314251-shrimp.json) |
 | Shrimp Game: Overkrill | 292946 | [292946-shrimp-game-overkrill.json](./292946-shrimp-game-overkrill.json) |
 | Shrimp Keeping Simulator | 340371 | [340371-shrimp-keeping-simulator.json](./340371-shrimp-keeping-simulator.json) |
+| Shrimp Magicality | 218855 | [218855-shrimp-magicality.json](./218855-shrimp-magicality.json) |
 | Shrimp Slam It | 177740 | [177740-shrimp-slam-it.json](./177740-shrimp-slam-it.json) |
 | Shrimp.io | 286942 | [286942-shrimp-io.json](./286942-shrimp-io.json) |
 | Shrimplation | 364686 | [364686-shrimplation.json](./364686-shrimplation.json) |
@@ -26349,6 +26351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunless City | 124459 | [124459-sunless-city.json](./124459-sunless-city.json) |
 | Sunless Empire | 383603 | [383603-sunless-empire.json](./383603-sunless-empire.json) |
 | Sunless Sea | 8925 | [8925-sunless-sea.json](./8925-sunless-sea.json) |
+| Sunless Sea: Zubmariner Edition | 218845 | [218845-sunless-sea-zubmariner-edition.json](./218845-sunless-sea-zubmariner-edition.json) |
 | Sunless Skies | 24427 | [24427-sunless-skies.json](./24427-sunless-skies.json) |
 | Sunlight In A Tin | 188602 | [188602-sunlight-in-a-tin.json](./188602-sunlight-in-a-tin.json) |
 | Sunlit | 229593 | [229593-sunlit.json](./229593-sunlit.json) |
