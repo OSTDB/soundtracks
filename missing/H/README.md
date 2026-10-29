@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallway of Adventures | 71713 | [71713-hallway-of-adventures.json](./71713-hallway-of-adventures.json) |
 | Hallway of Horrors | 319804 | [319804-hallway-of-horrors.json](./319804-hallway-of-horrors.json) |
 | Hallways | 280421 | [280421-hallways.json](./280421-hallways.json) |
+| Hallways of Fear | 178812 | [178812-hallways-of-fear.json](./178812-hallways-of-fear.json) |
 | Halma | 102289 | [102289-halma.json](./102289-halma.json) |
 | Halmaverse | 340409 | [340409-halmaverse.json](./340409-halmaverse.json) |
 | Halnote | 97801 | [97801-halnote.json](./97801-halnote.json) |
@@ -1144,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handless Millionaire | 383473 | [383473-handless-millionaire.json](./383473-handless-millionaire.json) |
 | Handlime | 402439 | [402439-handlime.json](./402439-handlime.json) |
 | Handmancers | 260587 | [260587-handmancers.json](./260587-handmancers.json) |
+| Handpan | 178786 | [178786-handpan.json](./178786-handpan.json) |
 | HandPass VR | 30755 | [30755-handpass-vr.json](./30755-handpass-vr.json) |
 | Hands of Necromancy | 203249 | [203249-hands-of-necromancy.json](./203249-hands-of-necromancy.json) |
 | Hands of Necromancy II | 278539 | [278539-hands-of-necromancy-ii.json](./278539-hands-of-necromancy-ii.json) |
@@ -2138,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hashasky Shougun no Daibouken | 212577 | [212577-hashasky-shougun-no-daibouken.json](./212577-hashasky-shougun-no-daibouken.json) |
 | Hashi Infinite | 404055 | [404055-hashi-infinite.json](./404055-hashi-infinite.json) |
 | Hashi: Bridges | 391842 | [391842-hashi-bridges.json](./391842-hashi-bridges.json) |
+| Hashihime of the Old Book Town append | 178795 | [178795-hashihime-of-the-old-book-town-append.json](./178795-hashihime-of-the-old-book-town-append.json) |
 | Hashire Hebereke: EX | 325670 | [325670-hashire-hebereke-ex.json](./325670-hashire-hebereke-ex.json) |
 | Hashire! Chuukan Kanrishoku | 254930 | [254930-hashire-chuukan-kanrishoku.json](./254930-hashire-chuukan-kanrishoku.json) |
 | Hashiriya Drifter | 186282 | [186282-hashiriya-drifter.json](./186282-hashiriya-drifter.json) |
@@ -2854,6 +2857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearse Hero | 406119 | [406119-hearse-hero.json](./406119-hearse-hero.json) |
 | Heart | 285573 | [285573-heart.json](./285573-heart.json) |
 | Heart & Soul | 173319 | [173319-heart-and-soul.json](./173319-heart-and-soul.json) |
+| Heart a La Mode | 178784 | [178784-heart-a-la-mode.json](./178784-heart-a-la-mode.json) |
 | Heart Abyss | 197240 | [197240-heart-abyss.json](./197240-heart-abyss.json) |
 | Heart and Core | 295598 | [295598-heart-and-core.json](./295598-heart-and-core.json) |
 | Heart and Seoul | 30833 | [30833-heart-and-seoul.json](./30833-heart-and-seoul.json) |
@@ -7441,6 +7445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitme 2 | 225273 | [225273-hitme-2.json](./225273-hitme-2.json) |
 | Hitmen Havoc | 222829 | [222829-hitmen-havoc.json](./222829-hitmen-havoc.json) |
 | Hitogata Happa | 16232 | [16232-hitogata-happa.json](./16232-hitogata-happa.json) |
+| Hitogotchi | 178821 | [178821-hitogotchi.json](./178821-hitogotchi.json) |
 | Hitokata | 337114 | [337114-hitokata.json](./337114-hitokata.json) |
 | Hitori | 334771 | [334771-hitori.json](./334771-hitori.json) |
 | Hitori by Nikoli | 85184 | [85184-hitori-by-nikoli.json](./85184-hitori-by-nikoli.json) |
@@ -8135,6 +8140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Maid: Owari no Tachi | 70581 | [70581-home-maid-owari-no-tachi.json](./70581-home-maid-owari-no-tachi.json) |
 | Home Makeover: Hidden Object | 146710 | [146710-home-makeover-hidden-object.json](./146710-home-makeover-hidden-object.json) |
 | Home Office | 154062 | [154062-home-office.json](./154062-home-office.json) |
+| Home Office Hell | 178785 | [178785-home-office-hell.json](./178785-home-office-hell.json) |
 | Home Office Simulator | 223391 | [223391-home-office-simulator.json](./223391-home-office-simulator.json) |
 | Home on Prom Night | 184968 | [184968-home-on-prom-night.json](./184968-home-on-prom-night.json) |
 | Home Path | 294940 | [294940-home-path.json](./294940-home-path.json) |
