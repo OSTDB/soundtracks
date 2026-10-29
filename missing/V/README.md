@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Various Daylife: Mobile | 233061 | [233061-various-daylife-mobile.json](./233061-various-daylife-mobile.json) |
 | Varista | 258600 | [258600-varista.json](./258600-varista.json) |
 | VariTale | 71508 | [71508-varitale.json](./71508-varitale.json) |
+| Varkana | 217662 | [217662-varkana.json](./217662-varkana.json) |
 | Varkij: Dream and Nightmare | 264530 | [264530-varkij-dream-and-nightmare.json](./264530-varkij-dream-and-nightmare.json) |
 | Varkon | 95368 | [95368-varkon.json](./95368-varkon.json) |
 | Varlet | 341552 | [341552-varlet.json](./341552-varlet.json) |
