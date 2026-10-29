@@ -11958,6 +11958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark Saver | 256225 | [256225-ark-saver.json](./256225-ark-saver.json) |
 | Ark: Aberration | 76206 | [76206-ark-aberration.json](./76206-ark-aberration.json) |
 | Ark: Aberration Ascended | 316101 | [316101-ark-aberration-ascended.json](./316101-ark-aberration-ascended.json) |
+| ARK: Dinosaur Discovery | 223802 | [223802-ark-dinosaur-discovery.json](./223802-ark-dinosaur-discovery.json) |
 | Ark: Extinction | 103515 | [103515-ark-extinction.json](./103515-ark-extinction.json) |
 | Ark: Extinction Ascended | 338826 | [338826-ark-extinction-ascended.json](./338826-ark-extinction-ascended.json) |
 | Ark: Fantastic Tames - Pyromane | 304377 | [304377-ark-fantastic-tames-pyromane.json](./304377-ark-fantastic-tames-pyromane.json) |
