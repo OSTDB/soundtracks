@@ -1202,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantsylvania | 64373 | [64373-pantsylvania.json](./64373-pantsylvania.json) |
 | Pantufa the Cat | 318632 | [318632-pantufa-the-cat.json](./318632-pantufa-the-cat.json) |
 | Pantufa the Cat: Extended Edition | 318631 | [318631-pantufa-the-cat-extended-edition.json](./318631-pantufa-the-cat-extended-edition.json) |
+| Panty Load | 204163 | [204163-panty-load.json](./204163-panty-load.json) |
 | Panty Match Girls | 386375 | [386375-panty-match-girls.json](./386375-panty-match-girls.json) |
 | Panty Raider: From Here to Immaturity | 81476 | [81476-panty-raider-from-here-to-immaturity.json](./81476-panty-raider-from-here-to-immaturity.json) |
 | Panty Slide | 113153 | [113153-panty-slide.json](./113153-panty-slide.json) |
@@ -1383,12 +1384,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Flight: Beyond Time | 236130 | [236130-paper-flight-beyond-time.json](./236130-paper-flight-beyond-time.json) |
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
 | Paper Flight: Relic Hunter | 263132 | [263132-paper-flight-relic-hunter.json](./263132-paper-flight-relic-hunter.json) |
+| Paper Flight: Speed Rush | 204162 | [204162-paper-flight-speed-rush.json](./204162-paper-flight-speed-rush.json) |
+| Paper Flight: Super Speed Dash | 204161 | [204161-paper-flight-super-speed-dash.json](./204161-paper-flight-super-speed-dash.json) |
 | Paper Flights | 235224 | [235224-paper-flights.json](./235224-paper-flights.json) |
 | Paper Florist | 381361 | [381361-paper-florist.json](./381361-paper-florist.json) |
 | Paper Football | 89501 | [89501-paper-football.json](./89501-paper-football.json) |
 | Paper Front | 108355 | [108355-paper-front.json](./108355-paper-front.json) |
 | Paper Galaxy | 64129 | [64129-paper-galaxy.json](./64129-paper-galaxy.json) |
 | Paper Ghost Stories: 7PM | 224985 | [224985-paper-ghost-stories-7pm.json](./224985-paper-ghost-stories-7pm.json) |
+| Paper Ghost Stories: Third Eye Open | 204157 | [204157-paper-ghost-stories-third-eye-open.json](./204157-paper-ghost-stories-third-eye-open.json) |
 | Paper Glider | 144878 | [144878-paper-glider.json](./144878-paper-glider.json) |
 | Paper Hero Manager | 279109 | [279109-paper-hero-manager.json](./279109-paper-hero-manager.json) |
 | Paper Heroes | 174743 | [174743-paper-heroes.json](./174743-paper-heroes.json) |
@@ -1645,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Para: Rime of Zealot | 278900 | [278900-para-rime-of-zealot.json](./278900-para-rime-of-zealot.json) |
 | Para//ax | 186170 | [186170-para-ax.json](./186170-para-ax.json) |
 | Para//Llax | 413226 | [413226-para-llax.json](./413226-para-llax.json) |
+| Parabellum Galaxia | 204158 | [204158-parabellum-galaxia.json](./204158-parabellum-galaxia.json) |
 | Parabellum: Artifacts of War | 400701 | [400701-parabellum-artifacts-of-war.json](./400701-parabellum-artifacts-of-war.json) |
 | Parable Academy | 346708 | [346708-parable-academy.json](./346708-parable-academy.json) |
 | Parables of the Set Apart: The Pursuit of Wisdom | 387530 | [387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json](./387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json) |
@@ -1745,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradox Guardians | 277361 | [277361-paradox-guardians.json](./277361-paradox-guardians.json) |
 | Paradox Lost | 330161 | [330161-paradox-lost.json](./330161-paradox-lost.json) |
 | Paradox Metal | 264142 | [264142-paradox-metal.json](./264142-paradox-metal.json) |
+| Paradox of Hope VR | 204159 | [204159-paradox-of-hope-vr.json](./204159-paradox-of-hope-vr.json) |
 | Paradox of the Cryptomancers | 99622 | [99622-paradox-of-the-cryptomancers.json](./99622-paradox-of-the-cryptomancers.json) |
 | Paradox Protocol | 347571 | [347571-paradox-protocol.json](./347571-paradox-protocol.json) |
 | Paradox Soul | 83933 | [83933-paradox-soul.json](./83933-paradox-soul.json) |
@@ -4721,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Tank | 321993 | [321993-phantom-tank.json](./321993-phantom-tank.json) |
 | Phantom Tank | 40576 | [40576-phantom-tank.json](./40576-phantom-tank.json) |
 | Phantom Ten | 311292 | [311292-phantom-ten.json](./311292-phantom-ten.json) |
+| Phantom Tentacle | 204160 | [204160-phantom-tentacle.json](./204160-phantom-tentacle.json) |
 | Phantom the Huntress | 390092 | [390092-phantom-the-huntress.json](./390092-phantom-the-huntress.json) |
 | Phantom Thief Angels: Twin Angel - Labyrinth of Time and World: Re:light | 335978 | [335978-phantom-thief-angels-twin-angel-labyrinth-of-time-and-world-re-light.json](./335978-phantom-thief-angels-twin-angel-labyrinth-of-time-and-world-re-light.json) |
 | Phantom Thief Celianna | 106623 | [106623-phantom-thief-celianna.json](./106623-phantom-thief-celianna.json) |
@@ -7536,6 +7543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Survivor | 247986 | [247986-pixel-survivor.json](./247986-pixel-survivor.json) |
 | Pixel Survivors | 35921 | [35921-pixel-survivors.json](./35921-pixel-survivors.json) |
 | Pixel Survivors: Defense | 374632 | [374632-pixel-survivors-defense.json](./374632-pixel-survivors-defense.json) |
+| Pixel Survivors: Roguelike | 204156 | [204156-pixel-survivors-roguelike.json](./204156-pixel-survivors-roguelike.json) |
 | Pixel Sweepers | 259244 | [259244-pixel-sweepers.json](./259244-pixel-sweepers.json) |
 | Pixel Tactics Online | 148131 | [148131-pixel-tactics-online.json](./148131-pixel-tactics-online.json) |
 | Pixel Tank | 247319 | [247319-pixel-tank.json](./247319-pixel-tank.json) |
@@ -7962,6 +7970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plandzz | 51737 | [51737-plandzz.json](./51737-plandzz.json) |
 | Plane Accident | 204813 | [204813-plane-accident.json](./204813-plane-accident.json) |
 | Plane and Simple | 143108 | [143108-plane-and-simple.json](./143108-plane-and-simple.json) |
+| Plane Attack | 204155 | [204155-plane-attack.json](./204155-plane-attack.json) |
 | Plane Balance | 372787 | [372787-plane-balance.json](./372787-plane-balance.json) |
 | Plane Destroyer | 329627 | [329627-plane-destroyer.json](./329627-plane-destroyer.json) |
 | Plane Flight Simulator | 380171 | [380171-plane-flight-simulator.json](./380171-plane-flight-simulator.json) |
@@ -8399,6 +8408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasmania | 94618 | [94618-plasmania.json](./94618-plasmania.json) |
 | Plasmaplant | 262177 | [262177-plasmaplant.json](./262177-plasmaplant.json) |
 | PlasmArrow | 19104 | [19104-plasmarrow.json](./19104-plasmarrow.json) |
+| Plasmatic | 204154 | [204154-plasmatic.json](./204154-plasmatic.json) |
 | Plasmatic | 253338 | [253338-plasmatic.json](./253338-plasmatic.json) |
 | Plasmatron | 53165 | [53165-plasmatron.json](./53165-plasmatron.json) |
 | Plasmaworm | 93052 | [93052-plasmaworm.json](./93052-plasmaworm.json) |
@@ -12717,6 +12727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia Classic | 21797 | [21797-prince-of-persia-classic.json](./21797-prince-of-persia-classic.json) |
 | Prince of Persia Classic | 248927 | [248927-prince-of-persia-classic.json](./248927-prince-of-persia-classic.json) |
 | Prince of Persia Collection: Limited Edition | 209893 | [209893-prince-of-persia-collection-limited-edition.json](./209893-prince-of-persia-collection-limited-edition.json) |
+| Prince of Persia Franchise | 204142 | [204142-prince-of-persia-franchise.json](./204142-prince-of-persia-franchise.json) |
 | Prince of Persia HD | 327769 | [327769-prince-of-persia-hd.json](./327769-prince-of-persia-hd.json) |
 | Prince of Persia Retro | 284854 | [284854-prince-of-persia-retro.json](./284854-prince-of-persia-retro.json) |
 | Prince of Persia Trilogy | 44706 | [44706-prince-of-persia-trilogy.json](./44706-prince-of-persia-trilogy.json) |
