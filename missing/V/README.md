@@ -2029,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villain's Legacy 2 | 349273 | [349273-villains-legacy-2.json](./349273-villains-legacy-2.json) |
 | Villainess Idolized By Everyone | 252654 | [252654-villainess-idolized-by-everyone.json](./252654-villainess-idolized-by-everyone.json) |
 | Villainous | 319976 | [319976-villainous.json](./319976-villainous.json) |
+| Villainous Contraptions | 182671 | [182671-villainous-contraptions.json](./182671-villainous-contraptions.json) |
 | Villainous Valentine | 313750 | [313750-villainous-valentine.json](./313750-villainous-valentine.json) |
 | Villains Corp. | 252136 | [252136-villains-corp.json](./252136-villains-corp.json) |
 | Villains: Robot Battle Royale | 378613 | [378613-villains-robot-battle-royale.json](./378613-villains-robot-battle-royale.json) |
