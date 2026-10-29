@@ -13844,6 +13844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crack-Up | 13528 | [13528-crack-up.json](./13528-crack-up.json) |
 | Crack'ed | 11298 | [11298-cracked.json](./11298-cracked.json) |
 | Crackdown 2 | 2897 | [2897-crackdown-2.json](./2897-crackdown-2.json) |
+| Cracked | 214929 | [214929-cracked.json](./214929-cracked.json) |
 | Cracked | 261769 | [261769-cracked.json](./261769-cracked.json) |
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
 | Cracked Up | 164961 | [164961-cracked-up.json](./164961-cracked-up.json) |
