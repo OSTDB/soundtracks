@@ -4355,6 +4355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RememPair | 349304 | [349304-remempair.json](./349304-remempair.json) |
 | RememPair: Anime Avatars | 350863 | [350863-remempair-anime-avatars.json](./350863-remempair-anime-avatars.json) |
 | Remi | 388700 | [388700-remi.json](./388700-remi.json) |
+| RemiFla Spirits | 204778 | [204778-remifla-spirits.json](./204778-remifla-spirits.json) |
 | RemiFla Spirits 2 | 213957 | [213957-remifla-spirits-2.json](./213957-remifla-spirits-2.json) |
 | Remilia's Challenge | 369571 | [369571-remilias-challenge.json](./369571-remilias-challenge.json) |
 | RemiLore: Lost Girl in the Lands of Lore | 103259 | [103259-remilore-lost-girl-in-the-lands-of-lore.json](./103259-remilore-lost-girl-in-the-lands-of-lore.json) |
@@ -6150,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Racer | 394058 | [394058-rich-racer.json](./394058-rich-racer.json) |
 | Rich River | 391203 | [391203-rich-river.json](./391203-rich-river.json) |
 | Rich School Girl Simulator | 300324 | [300324-rich-school-girl-simulator.json](./300324-rich-school-girl-simulator.json) |
+| Rich Taste of Ecchi | 204792 | [204792-rich-taste-of-ecchi.json](./204792-rich-taste-of-ecchi.json) |
 | Rich Tauber's Bass Champ | 94420 | [94420-rich-taubers-bass-champ.json](./94420-rich-taubers-bass-champ.json) |
 | Rich Teddy Adventure | 261677 | [261677-rich-teddy-adventure.json](./261677-rich-teddy-adventure.json) |
 | Rich Uncle: A Gay Adventure | 385307 | [385307-rich-uncle-a-gay-adventure.json](./385307-rich-uncle-a-gay-adventure.json) |
@@ -11362,6 +11364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustle | 181346 | [181346-rustle.json](./181346-rustle.json) |
 | Rustled Pete | 212822 | [212822-rustled-pete.json](./212822-rustled-pete.json) |
 | Rustler | 99302 | [99302-rustler.json](./99302-rustler.json) |
+| Rustler: Complete Edition | 204779 | [204779-rustler-complete-edition.json](./204779-rustler-complete-edition.json) |
 | Rustler: Murder Madness | 193103 | [193103-rustler-murder-madness.json](./193103-rustler-murder-madness.json) |
 | Rustler: Vinci | 193205 | [193205-rustler-vinci.json](./193205-rustler-vinci.json) |
 | Rustling Leaves | 249781 | [249781-rustling-leaves.json](./249781-rustling-leaves.json) |
