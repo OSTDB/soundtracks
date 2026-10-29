@@ -8374,6 +8374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clarent Saga: Chronicles | 189023 | [189023-clarent-saga-chronicles.json](./189023-clarent-saga-chronicles.json) |
 | Clarent Saga: Mana Chapter 0 | 264767 | [264767-clarent-saga-mana-chapter-0.json](./264767-clarent-saga-mana-chapter-0.json) |
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
+| Clarice Clairvoyage | 210995 | [210995-clarice-clairvoyage.json](./210995-clarice-clairvoyage.json) |
 | Clarice: The Storyteller | 216597 | [216597-clarice-the-storyteller.json](./216597-clarice-the-storyteller.json) |
 | Clarisse | 56425 | [56425-clarisse.json](./56425-clarisse.json) |
 | Clarity of the Soul | 181001 | [181001-clarity-of-the-soul.json](./181001-clarity-of-the-soul.json) |
@@ -17750,6 +17751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Slayer | 219672 | [219672-cyber-slayer.json](./219672-cyber-slayer.json) |
 | Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
 | Cyber Sleuth Simulacrum | 302157 | [302157-cyber-sleuth-simulacrum.json](./302157-cyber-sleuth-simulacrum.json) |
+| Cyber Sokoban | 210990 | [210990-cyber-sokoban.json](./210990-cyber-sokoban.json) |
 | Cyber Soldier | 251351 | [251351-cyber-soldier.json](./251351-cyber-soldier.json) |
 | Cyber Soldier Sharaku | 45934 | [45934-cyber-soldier-sharaku.json](./45934-cyber-soldier-sharaku.json) |
 | Cyber Souls | 238591 | [238591-cyber-souls.json](./238591-cyber-souls.json) |
