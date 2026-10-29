@@ -1162,7 +1162,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Battler | 393620 | [393620-idle-battler.json](./393620-idle-battler.json) |
 | Idle Bear Island | 174859 | [174859-idle-bear-island.json](./174859-idle-bear-island.json) |
 | Idle Beast Hunter | 297222 | [297222-idle-beast-hunter.json](./297222-idle-beast-hunter.json) |
+| Idle Berserker: Action RPG | 216028 | [216028-idle-berserker-action-rpg.json](./216028-idle-berserker-action-rpg.json) |
 | Idle Biceps | 244182 | [244182-idle-biceps.json](./244182-idle-biceps.json) |
+| Idle Billionaire Tycoon | 216027 | [216027-idle-billionaire-tycoon.json](./216027-idle-billionaire-tycoon.json) |
 | Idle Blocks | 267848 | [267848-idle-blocks.json](./267848-idle-blocks.json) |
 | Idle Boss Rush | 341977 | [341977-idle-boss-rush.json](./341977-idle-boss-rush.json) |
 | Idle Bouncer | 61644 | [61644-idle-bouncer.json](./61644-idle-bouncer.json) |
@@ -1285,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Dungeons | 103476 | [103476-idle-dungeons.json](./103476-idle-dungeons.json) |
 | Idle Dunk Masters | 106663 | [106663-idle-dunk-masters.json](./106663-idle-dunk-masters.json) |
 | Idle Dyson Swarm | 313189 | [313189-idle-dyson-swarm.json](./313189-idle-dyson-swarm.json) |
+| Idle Electro Mage: Item frenzy | 216026 | [216026-idle-electro-mage-item-frenzy.json](./216026-idle-electro-mage-item-frenzy.json) |
 | Idle Elemental | 392446 | [392446-idle-elemental.json](./392446-idle-elemental.json) |
 | Idle Empires | 372697 | [372697-idle-empires.json](./372697-idle-empires.json) |
 | Idle Exorcism Hero | 270167 | [270167-idle-exorcism-hero.json](./270167-idle-exorcism-hero.json) |
