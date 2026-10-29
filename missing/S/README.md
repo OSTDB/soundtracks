@@ -3464,6 +3464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Legends: Phantasmal Light - Collector's Edition | 36244 | [36244-sea-legends-phantasmal-light-collectors-edition.json](./36244-sea-legends-phantasmal-light-collectors-edition.json) |
 | Sea Life Safari | 21829 | [21829-sea-life-safari.json](./21829-sea-life-safari.json) |
 | Sea Loot | 176275 | [176275-sea-loot.json](./176275-sea-loot.json) |
+| Sea Lords | 219950 | [219950-sea-lords.json](./219950-sea-lords.json) |
 | Sea Magic | 411961 | [411961-sea-magic.json](./411961-sea-magic.json) |
 | Sea Monkeys | 419846 | [419846-sea-monkeys.json](./419846-sea-monkeys.json) |
 | Sea Monster | 92823 | [92823-sea-monster.json](./92823-sea-monster.json) |
@@ -13777,6 +13778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Party | 310813 | [310813-soccer-party.json](./310813-soccer-party.json) |
 | Soccer Penalty Kick | 391354 | [391354-soccer-penalty-kick.json](./391354-soccer-penalty-kick.json) |
 | Soccer Physics | 101579 | [101579-soccer-physics.json](./101579-soccer-physics.json) |
+| Soccer Physics Fight | 219901 | [219901-soccer-physics-fight.json](./219901-soccer-physics-fight.json) |
 | Soccer Pinball | 80790 | [80790-soccer-pinball.json](./80790-soccer-pinball.json) |
 | Soccer Player Simulator | 116473 | [116473-soccer-player-simulator.json](./116473-soccer-player-simulator.json) |
 | Soccer Puzzle | 391351 | [391351-soccer-puzzle.json](./391351-soccer-puzzle.json) |
@@ -19535,6 +19537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquigglePants 3D | 21719 | [21719-spongebob-squigglepants-3d.json](./21719-spongebob-squigglepants-3d.json) |
 | SpongeBob vs. EvilBob | 343172 | [343172-spongebob-vs-evilbob.json](./343172-spongebob-vs-evilbob.json) |
 | SpongeBob: Bubble Pop F.U.N. | 320381 | [320381-spongebob-bubble-pop-f-u-n.json](./320381-spongebob-bubble-pop-f-u-n.json) |
+| SpongeBob: Get Cooking | 219902 | [219902-spongebob-get-cooking.json](./219902-spongebob-get-cooking.json) |
 | Spongebob: Gone Fishing | 242346 | [242346-spongebob-gone-fishing.json](./242346-spongebob-gone-fishing.json) |
 | SpongeBob: Krusty Cook-Off | 130748 | [130748-spongebob-krusty-cook-off.json](./130748-spongebob-krusty-cook-off.json) |
 | SpongeBob: Krusty Cook-Off - Extra Krusty Edition | 221331 | [221331-spongebob-krusty-cook-off-extra-krusty-edition.json](./221331-spongebob-krusty-cook-off-extra-krusty-edition.json) |
@@ -21887,6 +21890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlite: Defender of Justice Ultimate HD Edition | 232982 | [232982-starlite-defender-of-justice-ultimate-hd-edition.json](./232982-starlite-defender-of-justice-ultimate-hd-edition.json) |
 | Starloom | 382769 | [382769-starloom.json](./382769-starloom.json) |
 | Starlord | 12780 | [12780-starlord.json](./12780-starlord.json) |
+| Starlost: Space Shooter | 219949 | [219949-starlost-space-shooter.json](./219949-starlost-space-shooter.json) |
 | Starlynx | 177942 | [177942-starlynx.json](./177942-starlynx.json) |
 | Starmade | 9552 | [9552-starmade.json](./9552-starmade.json) |
 | StarMaker | 125965 | [125965-starmaker.json](./125965-starmaker.json) |
