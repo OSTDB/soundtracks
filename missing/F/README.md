@@ -5358,6 +5358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FireAirPlan | 195926 | [195926-fireairplan.json](./195926-fireairplan.json) |
 | Firearm | 206762 | [206762-firearm.json](./206762-firearm.json) |
 | Firearms | 229495 | [229495-firearms.json](./229495-firearms.json) |
+| Firearms Factory | 190836 | [190836-firearms-factory.json](./190836-firearms-factory.json) |
 | Firearms Master | 335326 | [335326-firearms-master.json](./335326-firearms-master.json) |
 | Fireball | 18565 | [18565-fireball.json](./18565-fireball.json) |
 | Fireball | 374834 | [374834-fireball.json](./374834-fireball.json) |
@@ -5436,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireflies | 199286 | [199286-fireflies.json](./199286-fireflies.json) |
 | Fireflies | 233999 | [233999-fireflies.json](./233999-fireflies.json) |
 | Fireflies | 336718 | [336718-fireflies.json](./336718-fireflies.json) |
+| Fireflies & Figments: A Willow's Journey | 190851 | [190851-fireflies-and-figments-a-willows-journey.json](./190851-fireflies-and-figments-a-willows-journey.json) |
 | Firefly | 369859 | [369859-firefly.json](./369859-firefly.json) |
 | Firefly | 55209 | [55209-firefly.json](./55209-firefly.json) |
 | FireFly | 169861 | [169861-firefly.json](./169861-firefly.json) |
@@ -9354,6 +9356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forward to the Sky | 19244 | [19244-forward-to-the-sky.json](./19244-forward-to-the-sky.json) |
 | Forward Toward Uranus X | 401897 | [401897-forward-toward-uranus-x.json](./401897-forward-toward-uranus-x.json) |
 | Forward Winds | 206594 | [206594-forward-winds.json](./206594-forward-winds.json) |
+| Forward: Escape the Fold | 191388 | [191388-forward-escape-the-fold.json](./191388-forward-escape-the-fold.json) |
 | Forwards | 270042 | [270042-forwards.json](./270042-forwards.json) |
 | Forwards Compatible | 271742 | [271742-forwards-compatible.json](./271742-forwards-compatible.json) |
 | Foryster | 312225 | [312225-foryster.json](./312225-foryster.json) |
