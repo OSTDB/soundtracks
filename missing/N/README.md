@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazono-Jikenbo: Shinjuku Renzoku Quiz Jiken | 349506 | [349506-nazono-jikenbo-shinjuku-renzoku-quiz-jiken.json](./349506-nazono-jikenbo-shinjuku-renzoku-quiz-jiken.json) |
 | Nazono-Jikenbo: The Composer Murder Case. | 349510 | [349510-nazono-jikenbo-the-composer-murder-case.json](./349510-nazono-jikenbo-the-composer-murder-case.json) |
 | Nazoritas Addictive Puzzle | 206558 | [206558-nazoritas-addictive-puzzle.json](./206558-nazoritas-addictive-puzzle.json) |
+| Nazotoki Battle Tore! Densetsu no Mamiya wo Fukkatsu Saseyo! | 221494 | [221494-nazotoki-battle-tore-densetsu-no-mamiya-wo-fukkatsu-saseyo.json](./221494-nazotoki-battle-tore-densetsu-no-mamiya-wo-fukkatsu-saseyo.json) |
 | Nazotoki IQ Quiz | 261372 | [261372-nazotoki-iq-quiz.json](./261372-nazotoki-iq-quiz.json) |
 | Nazotoki Mail | 218986 | [218986-nazotoki-mail.json](./218986-nazotoki-mail.json) |
 | Nazotoki Mail 2 | 222239 | [222239-nazotoki-mail-2.json](./222239-nazotoki-mail-2.json) |
@@ -4715,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo DSi Metronome | 85311 | [85311-nintendo-dsi-metronome.json](./85311-nintendo-dsi-metronome.json) |
 | Nintendo Game Seminar 2013: Jukousei Sakuhin | 396385 | [396385-nintendo-game-seminar-2013-jukousei-sakuhin.json](./396385-nintendo-game-seminar-2013-jukousei-sakuhin.json) |
 | Nintendo Labo: Toy-Con 01 - Variety Kit | 85308 | [85308-nintendo-labo-toy-con-01-variety-kit.json](./85308-nintendo-labo-toy-con-01-variety-kit.json) |
+| Nintendo Labo: Toy-Con 03 - Drive Kit | 221511 | [221511-nintendo-labo-toy-con-03-drive-kit.json](./221511-nintendo-labo-toy-con-03-drive-kit.json) |
 | Nintendo Land | 2172 | [2172-nintendo-land.json](./2172-nintendo-land.json) |
 | Nintendo Mini Classic: Snoopy Tennis | 206367 | [206367-nintendo-mini-classic-snoopy-tennis.json](./206367-nintendo-mini-classic-snoopy-tennis.json) |
 | Nintendo Mini Classics: Carrera | 206372 | [206372-nintendo-mini-classics-carrera.json](./206372-nintendo-mini-classics-carrera.json) |
@@ -5041,6 +5043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Companions | 221636 | [221636-no-mans-sky-companions.json](./221636-no-mans-sky-companions.json) |
 | No Man's Sky: Desolation | 221742 | [221742-no-mans-sky-desolation.json](./221742-no-mans-sky-desolation.json) |
 | No Man's Sky: Echoes | 262883 | [262883-no-mans-sky-echoes.json](./262883-no-mans-sky-echoes.json) |
+| No Man's Sky: Endurance | 221534 | [221534-no-mans-sky-endurance.json](./221534-no-mans-sky-endurance.json) |
 | No Man's Sky: Exo Mech | 222090 | [222090-no-mans-sky-exo-mech.json](./222090-no-mans-sky-exo-mech.json) |
 | No Man's Sky: Expeditions | 221635 | [221635-no-mans-sky-expeditions.json](./221635-no-mans-sky-expeditions.json) |
 | No Man's Sky: Foundation | 222782 | [222782-no-mans-sky-foundation.json](./222782-no-mans-sky-foundation.json) |
@@ -5052,6 +5055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Omega | 287088 | [287088-no-mans-sky-omega.json](./287088-no-mans-sky-omega.json) |
 | No Man's Sky: Orbital | 294064 | [294064-no-mans-sky-orbital.json](./294064-no-mans-sky-orbital.json) |
 | No Man's Sky: Origins | 221638 | [221638-no-mans-sky-origins.json](./221638-no-mans-sky-origins.json) |
+| No Man's Sky: Outlaws | 221535 | [221535-no-mans-sky-outlaws.json](./221535-no-mans-sky-outlaws.json) |
 | No Man's Sky: Pathfinder | 222781 | [222781-no-mans-sky-pathfinder.json](./222781-no-mans-sky-pathfinder.json) |
 | No Man's Sky: Prisms | 221610 | [221610-no-mans-sky-prisms.json](./221610-no-mans-sky-prisms.json) |
 | No Man's Sky: Relics | 336874 | [336874-no-mans-sky-relics.json](./336874-no-mans-sky-relics.json) |
@@ -5061,6 +5065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: The Swarm | 403195 | [403195-no-mans-sky-the-swarm.json](./403195-no-mans-sky-the-swarm.json) |
 | No Man's Sky: Visions | 222754 | [222754-no-mans-sky-visions.json](./222754-no-mans-sky-visions.json) |
 | No Man's Sky: Voyagers | 363705 | [363705-no-mans-sky-voyagers.json](./363705-no-mans-sky-voyagers.json) |
+| No Man's Sky: Waypoint | 221531 | [221531-no-mans-sky-waypoint.json](./221531-no-mans-sky-waypoint.json) |
 | No Man's Sky: Worlds Part I | 308973 | [308973-no-mans-sky-worlds-part-i.json](./308973-no-mans-sky-worlds-part-i.json) |
 | No Man's Sky: Worlds Part II | 329714 | [329714-no-mans-sky-worlds-part-ii.json](./329714-no-mans-sky-worlds-part-ii.json) |
 | No Man's Sky: Xeno Arena | 397678 | [397678-no-mans-sky-xeno-arena.json](./397678-no-mans-sky-xeno-arena.json) |
