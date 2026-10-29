@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage's Legacy | 312162 | [312162-mages-legacy.json](./312162-mages-legacy.json) |
 | Mage's Maze Play: Inma no Doukutsu ni Idomu Boukensha | 175659 | [175659-mages-maze-play-inma-no-doukutsu-ni-idomu-boukensha.json](./175659-mages-maze-play-inma-no-doukutsu-ni-idomu-boukensha.json) |
 | Mageanoid | 312190 | [312190-mageanoid.json](./312190-mageanoid.json) |
+| MageCosmos | 192005 | [192005-magecosmos.json](./192005-magecosmos.json) |
 | Magecraft | 247913 | [247913-magecraft.json](./247913-magecraft.json) |
 | MageCraft | 244147 | [244147-magecraft.json](./244147-magecraft.json) |
 | Magefall | 210719 | [210719-magefall.json](./210719-magefall.json) |
@@ -4662,6 +4663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master System Handy | 202806 | [202806-master-system-handy.json](./202806-master-system-handy.json) |
 | Master System Plug & Play | 230828 | [230828-master-system-plug-and-play.json](./230828-master-system-plug-and-play.json) |
 | Master the Sky | 257693 | [257693-master-the-sky.json](./257693-master-the-sky.json) |
+| Master Theft TVs | 192009 | [192009-master-theft-tvs.json](./192009-master-theft-tvs.json) |
 | Master Thief Simulator | 389540 | [389540-master-thief-simulator.json](./389540-master-thief-simulator.json) |
 | Master Thief: Skyscraper Sting | 295920 | [295920-master-thief-skyscraper-sting.json](./295920-master-thief-skyscraper-sting.json) |
 | Master Whip | 175658 | [175658-master-whip.json](./175658-master-whip.json) |
@@ -8750,6 +8752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetalHeart: Replicants Rampage | 69749 | [69749-metalheart-replicants-rampage.json](./69749-metalheart-replicants-rampage.json) |
 | Metallic Metronome | 157906 | [157906-metallic-metronome.json](./157906-metallic-metronome.json) |
 | Metallicars | 234319 | [234319-metallicars.json](./234319-metallicars.json) |
+| Metallophobia | 192007 | [192007-metallophobia.json](./192007-metallophobia.json) |
 | MetalMercs | 311886 | [311886-metalmercs.json](./311886-metalmercs.json) |
 | MetalNoise | 31503 | [31503-metalnoise.json](./31503-metalnoise.json) |
 | Metalocalypse: Dethgame | 68300 | [68300-metalocalypse-dethgame.json](./68300-metalocalypse-dethgame.json) |
@@ -8943,6 +8946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Saga Bundle | 164753 | [164753-metro-saga-bundle.json](./164753-metro-saga-bundle.json) |
 | Metro Sim Hustle | 105601 | [105601-metro-sim-hustle.json](./105601-metro-sim-hustle.json) |
 | Metro Simulator | 154904 | [154904-metro-simulator.json](./154904-metro-simulator.json) |
+| Metro Simulator 2 | 192002 | [192002-metro-simulator-2.json](./192002-metro-simulator-2.json) |
 | Metro Simulator: 'Oka' Liveries Pack | 344137 | [344137-metro-simulator-oka-liveries-pack.json](./344137-metro-simulator-oka-liveries-pack.json) |
 | Metro Survival: Zombie Hunter | 174873 | [174873-metro-survival-zombie-hunter.json](./174873-metro-survival-zombie-hunter.json) |
 | Metro Trip Simulator | 404772 | [404772-metro-trip-simulator.json](./404772-metro-trip-simulator.json) |
