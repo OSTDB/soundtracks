@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Gingdom | 386993 | [386993-garden-gingdom.json](./386993-garden-gingdom.json) |
 | Garden Gnome Beatmaker | 380199 | [380199-garden-gnome-beatmaker.json](./380199-garden-gnome-beatmaker.json) |
 | Garden Golf | 64736 | [64736-garden-golf.json](./64736-garden-golf.json) |
+| Garden Gray The | 212572 | [212572-garden-gray-the.json](./212572-garden-gray-the.json) |
 | Garden Grower | 25553 | [25553-garden-grower.json](./25553-garden-grower.json) |
 | Garden Guardian | 211109 | [211109-garden-guardian.json](./211109-garden-guardian.json) |
 | Garden Harvest | 285145 | [285145-garden-harvest.json](./285145-garden-harvest.json) |
@@ -7261,6 +7262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Ghoul! | 133999 | [133999-graveyard-ghoul.json](./133999-graveyard-ghoul.json) |
 | Graveyard Girls | 207727 | [207727-graveyard-girls.json](./207727-graveyard-girls.json) |
 | Graveyard Gunslingers | 258021 | [258021-graveyard-gunslingers.json](./258021-graveyard-gunslingers.json) |
+| Graveyard Keeper | 212593 | [212593-graveyard-keeper.json](./212593-graveyard-keeper.json) |
 | Graveyard Keeper | 27384 | [27384-graveyard-keeper.json](./27384-graveyard-keeper.json) |
 | Graveyard Keeper II | 397817 | [397817-graveyard-keeper-ii.json](./397817-graveyard-keeper-ii.json) |
 | Graveyard Keeper II: Pre-Order Bonus | 415416 | [415416-graveyard-keeper-ii-pre-order-bonus.json](./415416-graveyard-keeper-ii-pre-order-bonus.json) |
