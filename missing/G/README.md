@@ -3449,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Soul M | 410205 | [410205-ghost-soul-m.json](./410205-ghost-soul-m.json) |
 | Ghost Squad | 4890 | [4890-ghost-squad.json](./4890-ghost-squad.json) |
 | Ghost Stories | 119035 | [119035-ghost-stories.json](./119035-ghost-stories.json) |
+| Ghost Stories | 179846 | [179846-ghost-stories.json](./179846-ghost-stories.json) |
 | Ghost Stories | 200443 | [200443-ghost-stories.json](./200443-ghost-stories.json) |
 | Ghost Stories 2 | 150607 | [150607-ghost-stories-2.json](./150607-ghost-stories-2.json) |
 | Ghost Story | 135572 | [135572-ghost-story.json](./135572-ghost-story.json) |
@@ -8745,6 +8746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growmi | 302161 | [302161-growmi.json](./302161-growmi.json) |
 | Growmon Island | 374908 | [374908-growmon-island.json](./374908-growmon-island.json) |
 | Grows: Journey to the Sunshine | 232096 | [232096-grows-journey-to-the-sunshine.json](./232096-grows-journey-to-the-sunshine.json) |
+| Growth | 179858 | [179858-growth.json](./179858-growth.json) |
 | Growth | 229675 | [229675-growth.json](./229675-growth.json) |
 | Growth | 280208 | [280208-growth.json](./280208-growth.json) |
 | Growth | 331885 | [331885-growth.json](./331885-growth.json) |
