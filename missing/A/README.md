@@ -7502,6 +7502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Montana | 195585 | [195585-american-truck-simulator-montana.json](./195585-american-truck-simulator-montana.json) |
 | American Truck Simulator: Nebraska | 261149 | [261149-american-truck-simulator-nebraska.json](./261149-american-truck-simulator-nebraska.json) |
 | American Truck Simulator: New Mexico | 75672 | [75672-american-truck-simulator-new-mexico.json](./75672-american-truck-simulator-new-mexico.json) |
+| American Truck Simulator: Oklahoma | 228046 | [228046-american-truck-simulator-oklahoma.json](./228046-american-truck-simulator-oklahoma.json) |
 | American Truck Simulator: Oregon | 115773 | [115773-american-truck-simulator-oregon.json](./115773-american-truck-simulator-oregon.json) |
 | American Truck Simulator: Pink Ribbon Charity Pack | 353398 | [353398-american-truck-simulator-pink-ribbon-charity-pack.json](./353398-american-truck-simulator-pink-ribbon-charity-pack.json) |
 | American Truck Simulator: Retrowave Paint Jobs Pack | 353405 | [353405-american-truck-simulator-retrowave-paint-jobs-pack.json](./353405-american-truck-simulator-retrowave-paint-jobs-pack.json) |
@@ -9836,9 +9837,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AO International Tennis | 98964 | [98964-ao-international-tennis.json](./98964-ao-international-tennis.json) |
 | Ao no Kanata no Four Rhythm 4th Anniversary Box | 124030 | [124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json](./124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json) |
 | Ao no Kanata no Four Rhythm Extra1+2P | 280892 | [280892-ao-no-kanata-no-four-rhythm-extra1-2p.json](./280892-ao-no-kanata-no-four-rhythm-extra1-2p.json) |
+| Ao no Kanata no Four Rhythm Extra1+2S | 228057 | [228057-ao-no-kanata-no-four-rhythm-extra1-2s.json](./228057-ao-no-kanata-no-four-rhythm-extra1-2s.json) |
 | Ao no Kanata no Four Rhythm Extra1P | 278306 | [278306-ao-no-kanata-no-four-rhythm-extra1p.json](./278306-ao-no-kanata-no-four-rhythm-extra1p.json) |
 | Ao no Kanata no Four Rhythm Extra1S | 211381 | [211381-ao-no-kanata-no-four-rhythm-extra1s.json](./211381-ao-no-kanata-no-four-rhythm-extra1s.json) |
 | Ao no Kanata no Four Rhythm Extra2P | 278307 | [278307-ao-no-kanata-no-four-rhythm-extra2p.json](./278307-ao-no-kanata-no-four-rhythm-extra2p.json) |
+| Ao no Kanata no Four Rhythm Extra2S | 228056 | [228056-ao-no-kanata-no-four-rhythm-extra2s.json](./228056-ao-no-kanata-no-four-rhythm-extra2s.json) |
 | Ao no Kanata no Four Rhythm IF 01: Minamo Shirase | 178329 | [178329-ao-no-kanata-no-four-rhythm-if-01-minamo-shirase.json](./178329-ao-no-kanata-no-four-rhythm-if-01-minamo-shirase.json) |
 | Ao no Kanata no Four Rhythm: HD Edition | 136793 | [136793-ao-no-kanata-no-four-rhythm-hd-edition.json](./136793-ao-no-kanata-no-four-rhythm-hd-edition.json) |
 | Ao no Mama de... | 420562 | [420562-ao-no-mama-de.json](./420562-ao-no-mama-de.json) |
@@ -11894,6 +11897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arinn | 261787 | [261787-arinn.json](./261787-arinn.json) |
 | Arinoa: Conquest | 374359 | [374359-arinoa-conquest.json](./374359-arinoa-conquest.json) |
 | Ario | 293346 | [293346-ario.json](./293346-ario.json) |
+| Ariokan | 228043 | [228043-ariokan.json](./228043-ariokan.json) |
 | Aripi | 158136 | [158136-aripi.json](./158136-aripi.json) |
 | Aris | 344428 | [344428-aris.json](./344428-aris.json) |
 | Aris Arcanum | 324531 | [324531-aris-arcanum.json](./324531-aris-arcanum.json) |
