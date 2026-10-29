@@ -2323,6 +2323,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joker w Coat Physics | 342188 | [342188-joker-w-coat-physics.json](./342188-joker-w-coat-physics.json) |
 | Joker's Knock | 422671 | [422671-jokers-knock.json](./422671-jokers-knock.json) |
 | Jollibae | 355173 | [355173-jollibae.json](./355173-jollibae.json) |
+| Jollibee's: Phase 1 | 185847 | [185847-jollibees-phase-1.json](./185847-jollibees-phase-1.json) |
+| Jollibee's: Phase 2 | 185848 | [185848-jollibees-phase-2.json](./185848-jollibees-phase-2.json) |
 | Jollitown | 364382 | [364382-jollitown.json](./364382-jollitown.json) |
 | Jolly 3: Chapter 1 | 184507 | [184507-jolly-3-chapter-1.json](./184507-jolly-3-chapter-1.json) |
 | Jolly 3: Chapter 2 | 184508 | [184508-jolly-3-chapter-2.json](./184508-jolly-3-chapter-2.json) |
