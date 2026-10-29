@@ -9396,6 +9396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anonymous;Code | 11776 | [11776-anonymous-code.json](./11776-anonymous-code.json) |
 | Anonymous;Code: Digital Deluxe Edition | 260034 | [260034-anonymous-code-digital-deluxe-edition.json](./260034-anonymous-code-digital-deluxe-edition.json) |
 | Anonymous;Code: Limited Edition | 201045 | [201045-anonymous-code-limited-edition.json](./201045-anonymous-code-limited-edition.json) |
+| Anonymous;Code: Steelbook Launch Edition | 209836 | [209836-anonymous-code-steelbook-launch-edition.json](./209836-anonymous-code-steelbook-launch-edition.json) |
 | Anopek | 154066 | [154066-anopek.json](./154066-anopek.json) |
 | Anorak City | 308468 | [308468-anorak-city.json](./308468-anorak-city.json) |
 | Anosognosia | 398584 | [398584-anosognosia.json](./398584-anosognosia.json) |
@@ -13615,6 +13616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix XXL 3: The Crystal Menhir | 105002 | [105002-asterix-and-obelix-xxl-3-the-crystal-menhir.json](./105002-asterix-and-obelix-xxl-3-the-crystal-menhir.json) |
 | Asterix & Obelix XXL 3: The Crystal Menhir - Collector's Edition | 166231 | [166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json](./166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json) |
 | Asterix & Obelix XXXL: The Ram From Hibernia | 208734 | [208734-asterix-and-obelix-xxxl-the-ram-from-hibernia.json](./208734-asterix-and-obelix-xxxl-the-ram-from-hibernia.json) |
+| Asterix & Obelix XXXL: The Ram From Hibernia - Day One Edition | 209810 | [209810-asterix-and-obelix-xxxl-the-ram-from-hibernia-day-one-edition.json](./209810-asterix-and-obelix-xxxl-the-ram-from-hibernia-day-one-edition.json) |
 | Astérix & Obélix: Bash Them All! | 49254 | [49254-asterix-and-obelix-bash-them-all.json](./49254-asterix-and-obelix-bash-them-all.json) |
 | Asterix & Obelix: Cesar's Challenge | 262663 | [262663-asterix-and-obelix-cesars-challenge.json](./262663-asterix-and-obelix-cesars-challenge.json) |
 | Asterix & Obelix: Heroes | 267001 | [267001-asterix-and-obelix-heroes.json](./267001-asterix-and-obelix-heroes.json) |
