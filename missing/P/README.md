@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pajama Sam Vol. 2 | 154440 | [154440-pajama-sam-vol-2.json](./154440-pajama-sam-vol-2.json) |
 | Pajama Sam: Don't Fear the Dark | 51107 | [51107-pajama-sam-dont-fear-the-dark.json](./51107-pajama-sam-dont-fear-the-dark.json) |
 | Pajama Sam: Games to Play on Any Day | 17716 | [17716-pajama-sam-games-to-play-on-any-day.json](./17716-pajama-sam-games-to-play-on-any-day.json) |
+| Pajama Sam: No Need to Hide When It's Dark Outside | 192052 | [192052-pajama-sam-no-need-to-hide-when-its-dark-outside.json](./192052-pajama-sam-no-need-to-hide-when-its-dark-outside.json) |
 | Pajama Sam's Lost & Found | 10651 | [10651-pajama-sams-lost-and-found.json](./10651-pajama-sams-lost-and-found.json) |
 | Pajama Sam's Sock Works | 10652 | [10652-pajama-sams-sock-works.json](./10652-pajama-sams-sock-works.json) |
 | Pajamorama | 133710 | [133710-pajamorama.json](./133710-pajamorama.json) |
@@ -6087,6 +6088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball for the CD-i | 131493 | [131493-pinball-for-the-cd-i.json](./131493-pinball-for-the-cd-i.json) |
 | Pinball for the TRS-80 CoCo. | 131468 | [131468-pinball-for-the-trs-80-coco.json](./131468-pinball-for-the-trs-80-coco.json) |
 | Pinball Freedom | 196317 | [196317-pinball-freedom.json](./196317-pinball-freedom.json) |
+| Pinball Frenzy | 192050 | [192050-pinball-frenzy.json](./192050-pinball-frenzy.json) |
 | Pinball Fun | 43245 | [43245-pinball-fun.json](./43245-pinball-fun.json) |
 | Pinball FX | 185795 | [185795-pinball-fx.json](./185795-pinball-fx.json) |
 | Pinball FX 2: Marvel Pinball - Vengeance and Virtue | 20822 | [20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json](./20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json) |
@@ -7141,6 +7143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Oma2ri Adventure | 195867 | [195867-pixel-game-maker-series-oma2ri-adventure.json](./195867-pixel-game-maker-series-oma2ri-adventure.json) |
 | Pixel Game Maker Series: Pearl vs Grey | 227845 | [227845-pixel-game-maker-series-pearl-vs-grey.json](./227845-pixel-game-maker-series-pearl-vs-grey.json) |
 | Pixel Game Maker Series: Rocket Frog | 335354 | [335354-pixel-game-maker-series-rocket-frog.json](./335354-pixel-game-maker-series-rocket-frog.json) |
+| Pixel Game Maker Series: Rumble Dragon | 192057 | [192057-pixel-game-maker-series-rumble-dragon.json](./192057-pixel-game-maker-series-rumble-dragon.json) |
 | Pixel Game Maker Series: Storm Swordsman | 277520 | [277520-pixel-game-maker-series-storm-swordsman.json](./277520-pixel-game-maker-series-storm-swordsman.json) |
 | Pixel Game Maker Series: Stray Witch and the Ghost Train | 370820 | [370820-pixel-game-maker-series-stray-witch-and-the-ghost-train.json](./370820-pixel-game-maker-series-stray-witch-and-the-ghost-train.json) |
 | Pixel Game Maker Series: Tentacled Terrors Tyrannize Terra! | 244824 | [244824-pixel-game-maker-series-tentacled-terrors-tyrannize-terra.json](./244824-pixel-game-maker-series-tentacled-terrors-tyrannize-terra.json) |
@@ -7180,6 +7183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Hunter | 402339 | [402339-pixel-hunter.json](./402339-pixel-hunter.json) |
 | Pixel Hunter Idle | 273564 | [273564-pixel-hunter-idle.json](./273564-pixel-hunter-idle.json) |
 | Pixel Islands | 177328 | [177328-pixel-islands.json](./177328-pixel-islands.json) |
+| Pixel Jumper | 192040 | [192040-pixel-jumper.json](./192040-pixel-jumper.json) |
 | Pixel Kane | 273439 | [273439-pixel-kane.json](./273439-pixel-kane.json) |
 | Pixel Knight | 252675 | [252675-pixel-knight.json](./252675-pixel-knight.json) |
 | Pixel Knights Online | 227375 | [227375-pixel-knights-online.json](./227375-pixel-knights-online.json) |
@@ -10468,6 +10472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polemista | 404403 | [404403-polemista.json](./404403-polemista.json) |
 | Polestar | 220145 | [220145-polestar.json](./220145-polestar.json) |
 | Polestar | 237834 | [237834-polestar.json](./237834-polestar.json) |
+| Polgar Magic Detective: Murder Mystery Journey | 192042 | [192042-polgar-magic-detective-murder-mystery-journey.json](./192042-polgar-magic-detective-murder-mystery-journey.json) |
 | Polgar: Magic Detective | 191175 | [191175-polgar-magic-detective.json](./191175-polgar-magic-detective.json) |
 | Poli Díaz | 112871 | [112871-poli-diaz.json](./112871-poli-diaz.json) |
 | Poliana Cake Crush | 248801 | [248801-poliana-cake-crush.json](./248801-poliana-cake-crush.json) |
@@ -12517,6 +12522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Girls Panic! Plus | 169680 | [169680-pretty-girls-panic-plus.json](./169680-pretty-girls-panic-plus.json) |
 | Pretty Girls Pop Match | 322414 | [322414-pretty-girls-pop-match.json](./322414-pretty-girls-pop-match.json) |
 | Pretty Girls Rivers | 192279 | [192279-pretty-girls-rivers.json](./192279-pretty-girls-rivers.json) |
+| Pretty Girls Speed | 192022 | [192022-pretty-girls-speed.json](./192022-pretty-girls-speed.json) |
 | Pretty girls teach beefy guys | 161329 | [161329-pretty-girls-teach-beefy-guys.json](./161329-pretty-girls-teach-beefy-guys.json) |
 | Pretty Girls Tile Match | 219695 | [219695-pretty-girls-tile-match.json](./219695-pretty-girls-tile-match.json) |
 | Pretty Good Solitaire | 89241 | [89241-pretty-good-solitaire.json](./89241-pretty-good-solitaire.json) |
