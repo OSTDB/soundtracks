@@ -3777,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maritime Mecha Mystery | 291558 | [291558-maritime-mecha-mystery.json](./291558-maritime-mecha-mystery.json) |
 | Marito Arcade | 228317 | [228317-marito-arcade.json](./228317-marito-arcade.json) |
 | Mariuccha Alchemy Queen | 149449 | [149449-mariuccha-alchemy-queen.json](./149449-mariuccha-alchemy-queen.json) |
+| Marius | 180415 | [180415-marius.json](./180415-marius.json) |
 | Marius | 76368 | [76368-marius.json](./76368-marius.json) |
 | Mark & Lara: Partners in Justice | 146028 | [146028-mark-and-lara-partners-in-justice.json](./146028-mark-and-lara-partners-in-justice.json) |
 | Mark After Dark | 67903 | [67903-mark-after-dark.json](./67903-mark-after-dark.json) |
