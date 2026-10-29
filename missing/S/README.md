@@ -11145,6 +11145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyline Sprinters | 263058 | [263058-skyline-sprinters.json](./263058-skyline-sprinters.json) |
 | Skyline Urban Story | 349221 | [349221-skyline-urban-story.json](./349221-skyline-urban-story.json) |
 | Skylords Reborn | 122901 | [122901-skylords-reborn.json](./122901-skylords-reborn.json) |
+| Skylore | 227544 | [227544-skylore.json](./227544-skylore.json) |
 | Skylost | 201710 | [201710-skylost.json](./201710-skylost.json) |
 | SkyMatch | 277136 | [277136-skymatch.json](./277136-skymatch.json) |
 | Skymote | 417612 | [417612-skymote.json](./417612-skymote.json) |
@@ -11958,6 +11959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingstar | 80640 | [80640-slingstar.json](./80640-slingstar.json) |
 | Slingy Snow | 175168 | [175168-slingy-snow.json](./175168-slingy-snow.json) |
 | Slink & Snatch: Tales of Thievery | 220666 | [220666-slink-and-snatch-tales-of-thievery.json](./220666-slink-and-snatch-tales-of-thievery.json) |
+| Slink.io | 227540 | [227540-slink-io.json](./227540-slink-io.json) |
 | Slinki | 35633 | [35633-slinki.json](./35633-slinki.json) |
 | Slinkie Dinkie | 368796 | [368796-slinkie-dinkie.json](./368796-slinkie-dinkie.json) |
 | Slip | 36357 | [36357-slip.json](./36357-slip.json) |
@@ -13765,6 +13767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Rally | 210079 | [210079-soccer-rally.json](./210079-soccer-rally.json) |
 | Soccer RPG: Become the coach for the national team! | 94259 | [94259-soccer-rpg-become-the-coach-for-the-national-team.json](./94259-soccer-rpg-become-the-coach-for-the-national-team.json) |
 | Soccer Runner | 252949 | [252949-soccer-runner.json](./252949-soccer-runner.json) |
+| Soccer Rush | 227463 | [227463-soccer-rush.json](./227463-soccer-rush.json) |
 | Soccer Shooter | 247063 | [247063-soccer-shooter.json](./247063-soccer-shooter.json) |
 | Soccer Shootout | 345929 | [345929-soccer-shootout.json](./345929-soccer-shootout.json) |
 | Soccer Showdown 3 | 233735 | [233735-soccer-showdown-3.json](./233735-soccer-showdown-3.json) |
@@ -17527,6 +17530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space War Attack | 43546 | [43546-space-war-attack.json](./43546-space-war-attack.json) |
 | Space War Commander | 25431 | [25431-space-war-commander.json](./25431-space-war-commander.json) |
 | Space War Economy Idle | 346253 | [346253-space-war-economy-idle.json](./346253-space-war-economy-idle.json) |
+| Space War Plane | 227462 | [227462-space-war-plane.json](./227462-space-war-plane.json) |
 | Space War: Infinity | 118608 | [118608-space-war-infinity.json](./118608-space-war-infinity.json) |
 | Space War: Protect the Moon | 110289 | [110289-space-war-protect-the-moon.json](./110289-space-war-protect-the-moon.json) |
 | Space Warfare | 114848 | [114848-space-warfare.json](./114848-space-warfare.json) |
@@ -20264,6 +20268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squatzee | 184467 | [184467-squatzee.json](./184467-squatzee.json) |
 | Squawky | 334461 | [334461-squawky.json](./334461-squawky.json) |
 | Squaxel | 160103 | [160103-squaxel.json](./160103-squaxel.json) |
+| Sqube Darkness | 227543 | [227543-sqube-darkness.json](./227543-sqube-darkness.json) |
 | Sqube Escape | 313269 | [313269-sqube-escape.json](./313269-sqube-escape.json) |
 | Squeak | 296003 | [296003-squeak.json](./296003-squeak.json) |
 | Squeakers | 87781 | [87781-squeakers.json](./87781-squeakers.json) |
@@ -21119,6 +21124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Struck | 78375 | [78375-star-struck.json](./78375-star-struck.json) |
 | Star Surfer | 236752 | [236752-star-surfer.json](./236752-star-surfer.json) |
 | Star Surveyor | 32760 | [32760-star-surveyor.json](./32760-star-surveyor.json) |
+| Star Survivor | 227443 | [227443-star-survivor.json](./227443-star-survivor.json) |
 | Star Swapper | 94728 | [94728-star-swapper.json](./94728-star-swapper.json) |
 | Star Sweep | 200367 | [200367-star-sweep.json](./200367-star-sweep.json) |
 | Star Sweet | 76476 | [76476-star-sweet.json](./76476-star-sweet.json) |
