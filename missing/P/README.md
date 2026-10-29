@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Checkers VR | 105098 | [105098-paradise-checkers-vr.json](./105098-paradise-checkers-vr.json) |
 | Paradise City Island Sim Town | 87148 | [87148-paradise-city-island-sim-town.json](./87148-paradise-city-island-sim-town.json) |
 | Paradise Cleaning: Days with Marie, My Love | 370754 | [370754-paradise-cleaning-days-with-marie-my-love.json](./370754-paradise-cleaning-days-with-marie-my-love.json) |
+| Paradise Cleaning: Me and my Doctor's Life in the Hospital | 207648 | [207648-paradise-cleaning-me-and-my-doctors-life-in-the-hospital.json](./207648-paradise-cleaning-me-and-my-doctors-life-in-the-hospital.json) |
 | Paradise Cleaning!: Married Woman Cosplay Life | 235479 | [235479-paradise-cleaning-married-woman-cosplay-life.json](./235479-paradise-cleaning-married-woman-cosplay-life.json) |
 | Paradise Cleaning!: Sexual Massage shop - Akari | 246795 | [246795-paradise-cleaning-sexual-massage-shop-akari.json](./246795-paradise-cleaning-sexual-massage-shop-akari.json) |
 | Paradise Corner | 413668 | [413668-paradise-corner.json](./413668-paradise-corner.json) |
@@ -15687,6 +15688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Stack | 146348 | [146348-push-stack.json](./146348-push-stack.json) |
 | Push sticks | 127588 | [127588-push-sticks.json](./127588-push-sticks.json) |
 | Push That Cat!! | 258642 | [258642-push-that-cat.json](./258642-push-that-cat.json) |
+| Push the Blocks | 207625 | [207625-push-the-blocks.json](./207625-push-the-blocks.json) |
 | Push the Box | 147899 | [147899-push-the-box.json](./147899-push-the-box.json) |
 | Push the Box | 247075 | [247075-push-the-box.json](./247075-push-the-box.json) |
 | Push the Box 3D | 167784 | [167784-push-the-box-3d.json](./167784-push-the-box-3d.json) |
