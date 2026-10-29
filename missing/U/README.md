@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Wobble Run | 407102 | [407102-ultimate-wobble-run.json](./407102-ultimate-wobble-run.json) |
 | Ultimate Word Search 2: Letter Boxed | 31678 | [31678-ultimate-word-search-2-letter-boxed.json](./31678-ultimate-word-search-2-letter-boxed.json) |
 | Ultimate Yahtzee | 69218 | [69218-ultimate-yahtzee.json](./69218-ultimate-yahtzee.json) |
+| Ultimate Zombie Death Ball | 194815 | [194815-ultimate-zombie-death-ball.json](./194815-ultimate-zombie-death-ball.json) |
 | Ultimate Zombie Defense | 127723 | [127723-ultimate-zombie-defense.json](./127723-ultimate-zombie-defense.json) |
 | Ultimate Zombie Defense 2 | 211801 | [211801-ultimate-zombie-defense-2.json](./211801-ultimate-zombie-defense-2.json) |
 | UltiMatt | 246929 | [246929-ultimatt.json](./246929-ultimatt.json) |
@@ -1331,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Awakens | 342897 | [342897-undead-awakens.json](./342897-undead-awakens.json) |
 | Undead Battle Royale | 148320 | [148320-undead-battle-royale.json](./148320-undead-battle-royale.json) |
 | Undead Blackout | 34425 | [34425-undead-blackout.json](./34425-undead-blackout.json) |
+| Undead Blocks | 194766 | [194766-undead-blocks.json](./194766-undead-blocks.json) |
 | Undead Bowling | 62273 | [62273-undead-bowling.json](./62273-undead-bowling.json) |
 | Undead Breakout | 196625 | [196625-undead-breakout.json](./196625-undead-breakout.json) |
 | Undead Carnage League | 233059 | [233059-undead-carnage-league.json](./233059-undead-carnage-league.json) |
