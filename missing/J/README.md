@@ -3025,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Flash! 2 | 20300 | [20300-jumping-flash-2.json](./20300-jumping-flash-2.json) |
 | Jumping Frog | 169624 | [169624-jumping-frog.json](./169624-jumping-frog.json) |
 | Jumping Frog: A Time Traveller | 247496 | [247496-jumping-frog-a-time-traveller.json](./247496-jumping-frog-a-time-traveller.json) |
+| Jumping Helix Ball | 192055 | [192055-jumping-helix-ball.json](./192055-jumping-helix-ball.json) |
 | Jumping Henry | 340779 | [340779-jumping-henry.json](./340779-jumping-henry.json) |
 | Jumping Horses Champions | 104509 | [104509-jumping-horses-champions.json](./104509-jumping-horses-champions.json) |
 | Jumping in the middle of the sky | 289775 | [289775-jumping-in-the-middle-of-the-sky.json](./289775-jumping-in-the-middle-of-the-sky.json) |
@@ -3052,6 +3053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Pirates | 172983 | [172983-jumping-pirates.json](./172983-jumping-pirates.json) |
 | Jumping Platform Minigame | 158683 | [158683-jumping-platform-minigame.json](./158683-jumping-platform-minigame.json) |
 | Jumping Pop | 46798 | [46798-jumping-pop.json](./46798-jumping-pop.json) |
+| Jumping Quest | 192036 | [192036-jumping-quest.json](./192036-jumping-quest.json) |
 | Jumping Stack Ball | 147723 | [147723-jumping-stack-ball.json](./147723-jumping-stack-ball.json) |
 | Jumping Steve | 289817 | [289817-jumping-steve.json](./289817-jumping-steve.json) |
 | Jumping Tank | 29701 | [29701-jumping-tank.json](./29701-jumping-tank.json) |
