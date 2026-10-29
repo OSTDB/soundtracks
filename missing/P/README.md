@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pam's Fantastic Adventures | 285960 | [285960-pams-fantastic-adventures.json](./285960-pams-fantastic-adventures.json) |
 | Pam's Fantastic Escape | 243723 | [243723-pams-fantastic-escape.json](./243723-pams-fantastic-escape.json) |
 | Pam's HarvestCraft | 232682 | [232682-pams-harvestcraft.json](./232682-pams-harvestcraft.json) |
+| Pam's House: An Escape Game | 183212 | [183212-pams-house-an-escape-game.json](./183212-pams-house-an-escape-game.json) |
 | Pamali: Indonesian Folklore Horror - The Tied Corpse | 117737 | [117737-pamali-indonesian-folklore-horror-the-tied-corpse.json](./117737-pamali-indonesian-folklore-horror-the-tied-corpse.json) |
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
 | Pamina vs. Slimes | 341598 | [341598-pamina-vs-slimes.json](./341598-pamina-vs-slimes.json) |
@@ -1888,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoide | 333371 | [333371-paranoide.json](./333371-paranoide.json) |
 | Paranoihell | 123826 | [123826-paranoihell.json](./123826-paranoihell.json) |
 | Paranoir | 354639 | [354639-paranoir.json](./354639-paranoir.json) |
+| Paranormal | 183194 | [183194-paranormal.json](./183194-paranormal.json) |
 | Paranormal '98 | 376489 | [376489-paranormal-98.json](./376489-paranormal-98.json) |
 | Paranormal Activity: The Lost Soul | 32699 | [32699-paranormal-activity-the-lost-soul.json](./32699-paranormal-activity-the-lost-soul.json) |
 | Paranormal Activity: The VR Game | 25626 | [25626-paranormal-activity-the-vr-game.json](./25626-paranormal-activity-the-vr-game.json) |
@@ -3664,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Dell Jumbo Crosswords | 89199 | [89199-penny-dell-jumbo-crosswords.json](./89199-penny-dell-jumbo-crosswords.json) |
 | Penny Dell Jumbo Crosswords 2 | 204494 | [204494-penny-dell-jumbo-crosswords-2.json](./204494-penny-dell-jumbo-crosswords-2.json) |
 | Penny Dell Sudoku | 310702 | [310702-penny-dell-sudoku.json](./310702-penny-dell-sudoku.json) |
+| Penny Dragon | 183195 | [183195-penny-dragon.json](./183195-penny-dragon.json) |
 | Penny Dreadfuls: Sweeney Todd - Premium Edition | 208877 | [208877-penny-dreadfuls-sweeney-todd-premium-edition.json](./208877-penny-dreadfuls-sweeney-todd-premium-edition.json) |
 | Penny for Your Potion | 356255 | [356255-penny-for-your-potion.json](./356255-penny-for-your-potion.json) |
 | Penny For Your Thoughts | 367052 | [367052-penny-for-your-thoughts.json](./367052-penny-for-your-thoughts.json) |
@@ -12452,6 +12455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Present Memories: A Vox Akuma Fangame | 198338 | [198338-present-memories-a-vox-akuma-fangame.json](./198338-present-memories-a-vox-akuma-fangame.json) |
 | Present Panic | 320213 | [320213-present-panic.json](./320213-present-panic.json) |
 | Present Panic!: A Princess Adventure | 269877 | [269877-present-panic-a-princess-adventure.json](./269877-present-panic-a-princess-adventure.json) |
+| Present Quest | 183176 | [183176-present-quest.json](./183176-present-quest.json) |
 | Present-X | 206066 | [206066-present-x.json](./206066-present-x.json) |
 | Presentable Liberty Remake | 212233 | [212233-presentable-liberty-remake.json](./212233-presentable-liberty-remake.json) |
 | Presenter Slides | 213947 | [213947-presenter-slides.json](./213947-presenter-slides.json) |
