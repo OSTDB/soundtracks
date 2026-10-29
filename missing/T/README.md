@@ -7348,6 +7348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Designer's Curse Chapter 2: Forgotten Horrors | 338329 | [338329-the-designers-curse-chapter-2-forgotten-horrors.json](./338329-the-designers-curse-chapter-2-forgotten-horrors.json) |
 | The Desire of the Amazons | 272279 | [272279-the-desire-of-the-amazons.json](./272279-the-desire-of-the-amazons.json) |
 | The Desolate Hope | 17351 | [17351-the-desolate-hope.json](./17351-the-desolate-hope.json) |
+| The Desolation | 179293 | [179293-the-desolation.json](./179293-the-desolation.json) |
 | The Desperate Flight of Hand Solo | 293923 | [293923-the-desperate-flight-of-hand-solo.json](./293923-the-desperate-flight-of-hand-solo.json) |
 | The Destiny Of Nagari | 295229 | [295229-the-destiny-of-nagari.json](./295229-the-destiny-of-nagari.json) |
 | The Destiny Star of Girlfriend: Episode of Fujiko | 305322 | [305322-the-destiny-star-of-girlfriend-episode-of-fujiko.json](./305322-the-destiny-star-of-girlfriend-episode-of-fujiko.json) |
@@ -8011,6 +8012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Everlasting Lovestory at the Windcap | 322019 | [322019-the-everlasting-lovestory-at-the-windcap.json](./322019-the-everlasting-lovestory-at-the-windcap.json) |
 | The Everloom | 377901 | [377901-the-everloom.json](./377901-the-everloom.json) |
 | The Evidence | 209567 | [209567-the-evidence.json](./209567-the-evidence.json) |
+| The Evil Church | 179319 | [179319-the-evil-church.json](./179319-the-evil-church.json) |
 | The Evil D | 330047 | [330047-the-evil-d.json](./330047-the-evil-d.json) |
 | The Evil Dead | 25832 | [25832-the-evil-dead.json](./25832-the-evil-dead.json) |
 | The Evil King | 152997 | [152997-the-evil-king.json](./152997-the-evil-king.json) |
@@ -8621,6 +8623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten City: Digital Collector's Edition | 167179 | [167179-the-forgotten-city-digital-collectors-edition.json](./167179-the-forgotten-city-digital-collectors-edition.json) |
 | The Forgotten Deity | 330664 | [330664-the-forgotten-deity.json](./330664-the-forgotten-deity.json) |
 | The Forgotten Demons | 197195 | [197195-the-forgotten-demons.json](./197195-the-forgotten-demons.json) |
+| The Forgotten Dungeon | 179309 | [179309-the-forgotten-dungeon.json](./179309-the-forgotten-dungeon.json) |
 | The Forgotten Empire | 191164 | [191164-the-forgotten-empire.json](./191164-the-forgotten-empire.json) |
 | The Forgotten Fairy Tales: The Spectra World | 100153 | [100153-the-forgotten-fairy-tales-the-spectra-world.json](./100153-the-forgotten-fairy-tales-the-spectra-world.json) |
 | The Forgotten Forest | 34276 | [34276-the-forgotten-forest.json](./34276-the-forgotten-forest.json) |
@@ -13276,6 +13279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pizza Courier | 215733 | [215733-the-pizza-courier.json](./215733-the-pizza-courier.json) |
 | The Pizza Delivery Boy Who Saved the World | 100595 | [100595-the-pizza-delivery-boy-who-saved-the-world.json](./100595-the-pizza-delivery-boy-who-saved-the-world.json) |
 | The Place I Called Home | 138479 | [138479-the-place-i-called-home.json](./138479-the-place-i-called-home.json) |
+| The Place of Jinn | 179292 | [179292-the-place-of-jinn.json](./179292-the-place-of-jinn.json) |
 | The Placebos | 82478 | [82478-the-placebos.json](./82478-the-placebos.json) |
 | The Places Where Snow Lingers | 327002 | [327002-the-places-where-snow-lingers.json](./327002-the-places-where-snow-lingers.json) |
 | The Plague | 26707 | [26707-the-plague.json](./26707-the-plague.json) |
@@ -15456,6 +15460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tail Of Beta Lyrae | 23578 | [23578-the-tail-of-beta-lyrae.json](./23578-the-tail-of-beta-lyrae.json) |
 | The Tail of King Boris of Oris | 364661 | [364661-the-tail-of-king-boris-of-oris.json](./364661-the-tail-of-king-boris-of-oris.json) |
 | The Tail of the Serpent | 178681 | [178681-the-tail-of-the-serpent.json](./178681-the-tail-of-the-serpent.json) |
+| The Tainted | 179297 | [179297-the-tainted.json](./179297-the-tainted.json) |
 | The Take | 90852 | [90852-the-take.json](./90852-the-take.json) |
 | The Takechan Man | 385818 | [385818-the-takechan-man.json](./385818-the-takechan-man.json) |
 | The TakeOver | 34039 | [34039-the-takeover.json](./34039-the-takeover.json) |
@@ -22925,6 +22930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torpedo Alley | 314417 | [314417-torpedo-alley.json](./314417-torpedo-alley.json) |
 | Torpedo Boat | 239648 | [239648-torpedo-boat.json](./239648-torpedo-boat.json) |
 | Torpedo Fire | 23998 | [23998-torpedo-fire.json](./23998-torpedo-fire.json) |
+| Torpedo Run | 179324 | [179324-torpedo-run.json](./179324-torpedo-run.json) |
 | Torpedorun | 58872 | [58872-torpedorun.json](./58872-torpedorun.json) |
 | TorpedoRun Naval War | 89525 | [89525-torpedorun-naval-war.json](./89525-torpedorun-naval-war.json) |
 | Torque | 179604 | [179604-torque.json](./179604-torque.json) |
@@ -26729,6 +26735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tray Racers! | 204540 | [204540-tray-racers.json](./204540-tray-racers.json) |
 | Traysia | 397716 | [397716-traysia.json](./397716-traysia.json) |
 | Traysia | 46259 | [46259-traysia.json](./46259-traysia.json) |
+| Trayveler | 179323 | [179323-trayveler.json](./179323-trayveler.json) |
 | TRAZ | 262525 | [262525-traz.json](./262525-traz.json) |
 | Trazz | 173185 | [173185-trazz.json](./173185-trazz.json) |
 | Treacherous Journeys | 176207 | [176207-treacherous-journeys.json](./176207-treacherous-journeys.json) |
