@@ -3935,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cathedral 3-D | 123364 | [123364-cathedral-3-d.json](./123364-cathedral-3-d.json) |
 | Cathedral of Sorrow | 218683 | [218683-cathedral-of-sorrow.json](./218683-cathedral-of-sorrow.json) |
 | Cathedral: Crow's Curse | 352757 | [352757-cathedral-crows-curse.json](./352757-cathedral-crows-curse.json) |
+| Cathedrals' Treasures | 183716 | [183716-cathedrals-treasures.json](./183716-cathedrals-treasures.json) |
 | Catherine | 2151 | [2151-catherine.json](./2151-catherine.json) |
 | Catherine and the Spirit World | 315106 | [315106-catherine-and-the-spirit-world.json](./315106-catherine-and-the-spirit-world.json) |
 | Catherine Classic | 113905 | [113905-catherine-classic.json](./113905-catherine-classic.json) |
@@ -6178,6 +6179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Blaster | 175778 | [175778-chicken-blaster.json](./175778-chicken-blaster.json) |
 | Chicken Bomb | 137595 | [137595-chicken-bomb.json](./137595-chicken-bomb.json) |
 | Chicken Boy's Counterattack | 291488 | [291488-chicken-boys-counterattack.json](./291488-chicken-boys-counterattack.json) |
+| Chicken Butt | 183702 | [183702-chicken-butt.json](./183702-chicken-butt.json) |
 | Chicken Cannon! | 165120 | [165120-chicken-cannon.json](./165120-chicken-cannon.json) |
 | Chicken Cha Cha Cha | 174236 | [174236-chicken-cha-cha-cha.json](./174236-chicken-cha-cha-cha.json) |
 | Chicken Chasers | 338510 | [338510-chicken-chasers.json](./338510-chicken-chasers.json) |
@@ -6287,6 +6289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChickenPop! | 103519 | [103519-chickenpop.json](./103519-chickenpop.json) |
 | Chickens | 94352 | [94352-chickens.json](./94352-chickens.json) |
 | Chickens 2 | 19234 | [19234-chickens-2.json](./19234-chickens-2.json) |
+| Chickens Apocalypse | 183706 | [183706-chickens-apocalypse.json](./183706-chickens-apocalypse.json) |
 | Chickens Can't Fly | 22341 | [22341-chickens-cant-fly.json](./22341-chickens-cant-fly.json) |
 | Chickens Don't Fly | 361681 | [361681-chickens-dont-fly.json](./361681-chickens-dont-fly.json) |
 | Chickens in Choppers | 270401 | [270401-chickens-in-choppers.json](./270401-chickens-in-choppers.json) |
@@ -18205,6 +18208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybus Adventure | 412927 | [412927-cybus-adventure.json](./412927-cybus-adventure.json) |
 | Cycene | 334851 | [334851-cycene.json](./334851-cycene.json) |
 | Cyclanoid | 57679 | [57679-cyclanoid.json](./57679-cyclanoid.json) |
+| Cycle | 183700 | [183700-cycle.json](./183700-cycle.json) |
 | Cycle | 202381 | [202381-cycle.json](./202381-cycle.json) |
 | Cycle | 224167 | [224167-cycle.json](./224167-cycle.json) |
 | Cycle | 47997 | [47997-cycle.json](./47997-cycle.json) |
