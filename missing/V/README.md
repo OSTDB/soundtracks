@@ -2220,12 +2220,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Athletics | 412215 | [412215-virtua-athletics.json](./412215-virtua-athletics.json) |
 | Virtua Blinds | 134278 | [134278-virtua-blinds.json](./134278-virtua-blinds.json) |
 | Virtua Bowling | 354530 | [354530-virtua-bowling.json](./354530-virtua-bowling.json) |
+| Virtua Cop | 198653 | [198653-virtua-cop.json](./198653-virtua-cop.json) |
+| Virtua Cop | 198655 | [198655-virtua-cop.json](./198655-virtua-cop.json) |
 | Virtua Cop | 199018 | [199018-virtua-cop.json](./199018-virtua-cop.json) |
 | Virtua Cop | 6289 | [6289-virtua-cop.json](./6289-virtua-cop.json) |
 | Virtua Cop 2 | 2470 | [2470-virtua-cop-2.json](./2470-virtua-cop-2.json) |
 | Virtua Cop 3 | 66555 | [66555-virtua-cop-3.json](./66555-virtua-cop-3.json) |
 | Virtua Cop: Elite Edition | 22071 | [22071-virtua-cop-elite-edition.json](./22071-virtua-cop-elite-edition.json) |
 | Virtua Fighter | 19734 | [19734-virtua-fighter.json](./19734-virtua-fighter.json) |
+| Virtua Fighter | 198657 | [198657-virtua-fighter.json](./198657-virtua-fighter.json) |
 | Virtua Fighter | 199019 | [199019-virtua-fighter.json](./199019-virtua-fighter.json) |
 | Virtua Fighter 10th Anniversary | 1553 | [1553-virtua-fighter-10th-anniversary.json](./1553-virtua-fighter-10th-anniversary.json) |
 | Virtua Fighter 2 | 199020 | [199020-virtua-fighter-2.json](./199020-virtua-fighter-2.json) |
