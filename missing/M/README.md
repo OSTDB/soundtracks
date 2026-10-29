@@ -13766,6 +13766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Garden | 75026 | [75026-monster-garden.json](./75026-monster-garden.json) |
 | Monster Gate | 49717 | [49717-monster-gate.json](./49717-monster-gate.json) |
 | Monster Gate: Ooinaru Dungeon - Fuuin no Orb | 49718 | [49718-monster-gate-ooinaru-dungeon-fuuin-no-orb.json](./49718-monster-gate-ooinaru-dungeon-fuuin-no-orb.json) |
+| Monster Girl | 207103 | [207103-monster-girl.json](./207103-monster-girl.json) |
 | Monster Girl * Fusion | 82764 | [82764-monster-girl-fusion.json](./82764-monster-girl-fusion.json) |
 | Monster Girl 1,000 | 243531 | [243531-monster-girl-1-000.json](./243531-monster-girl-1-000.json) |
 | Monster Girl 2 | 237291 | [237291-monster-girl-2.json](./237291-monster-girl-2.json) |
