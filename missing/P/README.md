@@ -15835,6 +15835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Bonsai | 259558 | [259558-puzzle-bonsai.json](./259558-puzzle-bonsai.json) |
 | Puzzle Book | 133653 | [133653-puzzle-book.json](./133653-puzzle-book.json) |
 | Puzzle Book: Adventure Pack | 237980 | [237980-puzzle-book-adventure-pack.json](./237980-puzzle-book-adventure-pack.json) |
+| Puzzle Book: All DLCs Pack | 223771 | [223771-puzzle-book-all-dlcs-pack.json](./223771-puzzle-book-all-dlcs-pack.json) |
 | Puzzle Book: Animals Edition | 378959 | [378959-puzzle-book-animals-edition.json](./378959-puzzle-book-animals-edition.json) |
 | Puzzle Book: Furry Friends Bundle | 223564 | [223564-puzzle-book-furry-friends-bundle.json](./223564-puzzle-book-furry-friends-bundle.json) |
 | Puzzle Book: Horizon Edition | 365552 | [365552-puzzle-book-horizon-edition.json](./365552-puzzle-book-horizon-edition.json) |
