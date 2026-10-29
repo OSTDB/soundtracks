@@ -7054,6 +7054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extermination | 130828 | [130828-extermination.json](./130828-extermination.json) |
 | Extermination | 271997 | [271997-extermination.json](./271997-extermination.json) |
 | Extermination 1 | 304705 | [304705-extermination-1.json](./304705-extermination-1.json) |
+| Extermination Cars Stadium | 219402 | [219402-extermination-cars-stadium.json](./219402-extermination-cars-stadium.json) |
 | Extermination Day | 256703 | [256703-extermination-day.json](./256703-extermination-day.json) |
 | Extermination Overdrive | 264746 | [264746-extermination-overdrive.json](./264746-extermination-overdrive.json) |
 | Extermination Ship | 346546 | [346546-extermination-ship.json](./346546-extermination-ship.json) |
@@ -7215,6 +7216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Tag! | 240793 | [240793-extreme-tag.json](./240793-extreme-tag.json) |
 | Extreme Tennis | 23134 | [23134-extreme-tennis.json](./23134-extreme-tennis.json) |
 | Extreme Truck Parking Simulator Game | 252321 | [252321-extreme-truck-parking-simulator-game.json](./252321-extreme-truck-parking-simulator-game.json) |
+| Extreme Truck Stunts | 219403 | [219403-extreme-truck-stunts.json](./219403-extreme-truck-stunts.json) |
 | Extreme Trucks Simulator | 129515 | [129515-extreme-trucks-simulator.json](./129515-extreme-trucks-simulator.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
 | Extreme Velocity 3 | 58155 | [58155-extreme-velocity-3.json](./58155-extreme-velocity-3.json) |
