@@ -8401,6 +8401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Secrets9- Hidden Crimes in High School | 95890 | [95890-mermaid-secrets9-hidden-crimes-in-high-school.json](./95890-mermaid-secrets9-hidden-crimes-in-high-school.json) |
 | Mermaid Spa & Makeover | 90733 | [90733-mermaid-spa-and-makeover.json](./90733-mermaid-spa-and-makeover.json) |
 | Mermaid Splash! | 146522 | [146522-mermaid-splash.json](./146522-mermaid-splash.json) |
+| Mermaid Splash! Passion Festival | 178775 | [178775-mermaid-splash-passion-festival.json](./178775-mermaid-splash-passion-festival.json) |
 | Mermaid Stories: Book 1 - The Lost Gift | 339377 | [339377-mermaid-stories-book-1-the-lost-gift.json](./339377-mermaid-stories-book-1-the-lost-gift.json) |
 | Mermaid Story | 219289 | [219289-mermaid-story.json](./219289-mermaid-story.json) |
 | Mermaid Story: Extended Edition | 233906 | [233906-mermaid-story-extended-edition.json](./233906-mermaid-story-extended-edition.json) |
@@ -9815,6 +9816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Calling: Wise Dragon | 95917 | [95917-midnight-calling-wise-dragon.json](./95917-midnight-calling-wise-dragon.json) |
 | Midnight Calling: Wise Dragon - Collector's Edition | 221136 | [221136-midnight-calling-wise-dragon-collectors-edition.json](./221136-midnight-calling-wise-dragon-collectors-edition.json) |
 | Midnight Carnival | 30851 | [30851-midnight-carnival.json](./30851-midnight-carnival.json) |
+| Midnight Cartridge | 178823 | [178823-midnight-cartridge.json](./178823-midnight-cartridge.json) |
 | Midnight Castle | 294462 | [294462-midnight-castle.json](./294462-midnight-castle.json) |
 | Midnight Cat Heist | 378996 | [378996-midnight-cat-heist.json](./378996-midnight-cat-heist.json) |
 | Midnight Cemetery | 273457 | [273457-midnight-cemetery.json](./273457-midnight-cemetery.json) |
@@ -18122,6 +18124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Academia: Ultra Impact | 186112 | [186112-my-hero-academia-ultra-impact.json](./186112-my-hero-academia-ultra-impact.json) |
 | My Hero Academia: United Survival | 397382 | [397382-my-hero-academia-united-survival.json](./397382-my-hero-academia-united-survival.json) |
 | My Hero and the King | 63265 | [63265-my-hero-and-the-king.json](./63265-my-hero-and-the-king.json) |
+| My Hero Dating Simulator | 178773 | [178773-my-hero-dating-simulator.json](./178773-my-hero-dating-simulator.json) |
 | My Hero Holiday | 184330 | [184330-my-hero-holiday.json](./184330-my-hero-holiday.json) |
 | My Hero Kitty | 299402 | [299402-my-hero-kitty.json](./299402-my-hero-kitty.json) |
 | My Hero One's Justice | 76428 | [76428-my-hero-ones-justice.json](./76428-my-hero-ones-justice.json) |
