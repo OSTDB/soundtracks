@@ -1308,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Diary: Wolf Hall | 113743 | [113743-magical-diary-wolf-hall.json](./113743-magical-diary-wolf-hall.json) |
 | Magical Dice Kids | 130337 | [130337-magical-dice-kids.json](./130337-magical-dice-kids.json) |
 | Magical Dinosaur Tour | 42014 | [42014-magical-dinosaur-tour.json](./42014-magical-dinosaur-tour.json) |
+| Magical Disaster X | 182052 | [182052-magical-disaster-x.json](./182052-magical-disaster-x.json) |
 | Magical DoReMi: Puzzle Carnival | 325725 | [325725-magical-doremi-puzzle-carnival.json](./325725-magical-doremi-puzzle-carnival.json) |
 | Magical Drop | 71552 | [71552-magical-drop.json](./71552-magical-drop.json) |
 | Magical Drop 3 | 45319 | [45319-magical-drop-3.json](./45319-magical-drop-3.json) |
@@ -8932,6 +8933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metrail | 125108 | [125108-metrail.json](./125108-metrail.json) |
 | Metranaut | 294745 | [294745-metranaut.json](./294745-metranaut.json) |
 | Metrania | 75595 | [75595-metrania.json](./75595-metrania.json) |
+| Metrash | 182068 | [182068-metrash.json](./182068-metrash.json) |
 | Metric Racer | 133427 | [133427-metric-racer.json](./133427-metric-racer.json) |
 | Metrico | 19919 | [19919-metrico.json](./19919-metrico.json) |
 | Metris | 91515 | [91515-metris.json](./91515-metris.json) |
@@ -9391,6 +9393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Titans Wrestling | 364877 | [364877-micro-titans-wrestling.json](./364877-micro-titans-wrestling.json) |
 | Micro Trans Actions | 176938 | [176938-micro-trans-actions.json](./176938-micro-trans-actions.json) |
 | Micro Vendor Adventures | 110796 | [110796-micro-vendor-adventures.json](./110796-micro-vendor-adventures.json) |
+| Micro Wars | 182042 | [182042-micro-wars.json](./182042-micro-wars.json) |
 | Micro Wars | 314450 | [314450-micro-wars.json](./314450-micro-wars.json) |
 | Micro Wars | 341963 | [341963-micro-wars.json](./341963-micro-wars.json) |
 | Micro-Breakout | 320150 | [320150-micro-breakout.json](./320150-micro-breakout.json) |
@@ -11096,6 +11099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minerva | 10129 | [10129-minerva.json](./10129-minerva.json) |
 | Minerva Labyrinth | 344499 | [344499-minerva-labyrinth.json](./344499-minerva-labyrinth.json) |
 | Mines | 102817 | [102817-mines.json](./102817-mines.json) |
+| Mines | 182033 | [182033-mines.json](./182033-mines.json) |
 | Mines | 205095 | [205095-mines.json](./205095-mines.json) |
 | Mines | 94643 | [94643-mines.json](./94643-mines.json) |
 | Mines & Dragons | 163994 | [163994-mines-and-dragons.json](./163994-mines-and-dragons.json) |
@@ -13218,6 +13222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momatron | 249836 | [249836-momatron.json](./249836-momatron.json) |
 | Mombo Combo 2 | 134331 | [134331-mombo-combo-2.json](./134331-mombo-combo-2.json) |
 | Mombo Combo Legacy | 326858 | [326858-mombo-combo-legacy.json](./326858-mombo-combo-legacy.json) |
+| Moment | 182044 | [182044-moment.json](./182044-moment.json) |
 | Moment of Moonset | 284599 | [284599-moment-of-moonset.json](./284599-moment-of-moonset.json) |
 | Moment to Midnight | 229248 | [229248-moment-to-midnight.json](./229248-moment-to-midnight.json) |
 | Momenta | 346906 | [346906-momenta.json](./346906-momenta.json) |
