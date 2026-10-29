@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaguMagu Pro | 165074 | [165074-magumagu-pro.json](./165074-magumagu-pro.json) |
 | Maguntsche: Chapter One Remastered | 168859 | [168859-maguntsche-chapter-one-remastered.json](./168859-maguntsche-chapter-one-remastered.json) |
 | Maguntsche: Chapter Two | 371971 | [371971-maguntsche-chapter-two.json](./371971-maguntsche-chapter-two.json) |
+| Magurele Mystery | 211524 | [211524-magurele-mystery.json](./211524-magurele-mystery.json) |
 | Măgurele Mystery 2 | 293487 | [293487-magurele-mystery-2.json](./293487-magurele-mystery-2.json) |
 | Magus | 170346 | [170346-magus.json](./170346-magus.json) |
 | Magus | 8577 | [8577-magus.json](./8577-magus.json) |
@@ -11394,6 +11395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minigunner | 207509 | [207509-minigunner.json](./207509-minigunner.json) |
 | MiniHunt | 296986 | [296986-minihunt.json](./296986-minihunt.json) |
 | MiniJolt | 275252 | [275252-minijolt.json](./275252-minijolt.json) |
+| Miniland | 211544 | [211544-miniland.json](./211544-miniland.json) |
 | Miniland Adventure | 283256 | [283256-miniland-adventure.json](./283256-miniland-adventure.json) |
 | MiniLaw: Ministry of Law | 32024 | [32024-minilaw-ministry-of-law.json](./32024-minilaw-ministry-of-law.json) |
 | MiniLife: Tournament | 257960 | [257960-minilife-tournament.json](./257960-minilife-tournament.json) |
@@ -16497,6 +16499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MSX-21 | 97805 | [97805-msx-21.json](./97805-msx-21.json) |
 | MSX-Dino | 267559 | [267559-msx-dino.json](./267559-msx-dino.json) |
 | MT Force Aliens Uprising | 341343 | [341343-mt-force-aliens-uprising.json](./341343-mt-force-aliens-uprising.json) |
+| Mt. Aki | 211533 | [211533-mt-aki.json](./211533-mt-aki.json) |
 | Mt. Doubt | 101979 | [101979-mt-doubt.json](./101979-mt-doubt.json) |
 | MTB Dirt | 154999 | [154999-mtb-dirt.json](./154999-mtb-dirt.json) |
 | MTB DirtCross | 298860 | [298860-mtb-dirtcross.json](./298860-mtb-dirtcross.json) |
@@ -18076,6 +18079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Last Heatwave | 396556 | [396556-my-last-heatwave.json](./396556-my-last-heatwave.json) |
 | My Last Journey | 190390 | [190390-my-last-journey.json](./190390-my-last-journey.json) |
 | My Last Memories About You | 158133 | [158133-my-last-memories-about-you.json](./158133-my-last-memories-about-you.json) |
+| My Last Night Here | 211561 | [211561-my-last-night-here.json](./211561-my-last-night-here.json) |
 | My Last Stand: Survivors | 389549 | [389549-my-last-stand-survivors.json](./389549-my-last-stand-survivors.json) |
 | My Legend of Immortal Cultivation | 265317 | [265317-my-legend-of-immortal-cultivation.json](./265317-my-legend-of-immortal-cultivation.json) |
 | My Lego Network | 321552 | [321552-my-lego-network.json](./321552-my-lego-network.json) |
