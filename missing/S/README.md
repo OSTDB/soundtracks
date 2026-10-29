@@ -6291,8 +6291,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date?: Arabian Dreams Wildest Tales in Starry Nights | 225664 | [225664-shall-we-date-arabian-dreams-wildest-tales-in-starry-nights.json](./225664-shall-we-date-arabian-dreams-wildest-tales-in-starry-nights.json) |
 | Shall we date?: Become Elite | 225684 | [225684-shall-we-date-become-elite.json](./225684-shall-we-date-become-elite.json) |
 | Shall we date?: Blood in Roses | 199961 | [199961-shall-we-date-blood-in-roses.json](./199961-shall-we-date-blood-in-roses.json) |
+| Shall We Date?: Destiny Ninja | 181497 | [181497-shall-we-date-destiny-ninja.json](./181497-shall-we-date-destiny-ninja.json) |
 | Shall We Date?: Destiny Ninja 2 | 122928 | [122928-shall-we-date-destiny-ninja-2.json](./122928-shall-we-date-destiny-ninja-2.json) |
 | Shall we date?: Guard Me, Sherlock! | 225667 | [225667-shall-we-date-guard-me-sherlock.json](./225667-shall-we-date-guard-me-sherlock.json) |
+| Shall We Date?: Heian Love | 181521 | [181521-shall-we-date-heian-love.json](./181521-shall-we-date-heian-love.json) |
 | Shall we date?: Love, Mafia Dawn of the Don | 225673 | [225673-shall-we-date-love-mafia-dawn-of-the-don.json](./225673-shall-we-date-love-mafia-dawn-of-the-don.json) |
 | Shall we date?: Love, Mafia My Signore | 225674 | [225674-shall-we-date-love-mafia-my-signore.json](./225674-shall-we-date-love-mafia-my-signore.json) |
 | Shall we date?: Modern Cinderella | 225670 | [225670-shall-we-date-modern-cinderella.json](./225670-shall-we-date-modern-cinderella.json) |
@@ -7220,6 +7222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiki Tea House | 419956 | [419956-shiki-tea-house.json](./419956-shiki-tea-house.json) |
 | Shiki-Tei | 93616 | [93616-shiki-tei.json](./93616-shiki-tei.json) |
 | Shiki: The Four Seasons | 123554 | [123554-shiki-the-four-seasons.json](./123554-shiki-the-four-seasons.json) |
+| Shikigami | 181499 | [181499-shikigami.json](./181499-shikigami.json) |
 | Shikigami No Shiro Evolution | 281464 | [281464-shikigami-no-shiro-evolution.json](./281464-shikigami-no-shiro-evolution.json) |
 | Shikigami no Shiro EX & II Pack | 64332 | [64332-shikigami-no-shiro-ex-and-ii-pack.json](./64332-shikigami-no-shiro-ex-and-ii-pack.json) |
 | Shikinjoh | 231545 | [231545-shikinjoh.json](./231545-shikinjoh.json) |
@@ -8296,6 +8299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoujo Minority: Nagusame no Ai | 194607 | [194607-shoujo-minority-nagusame-no-ai.json](./194607-shoujo-minority-nagusame-no-ai.json) |
 | Shoujo Shuryou no Suiri Ryouiki: Kogane Shima no Mitsuyaku | 153137 | [153137-shoujo-shuryou-no-suiri-ryouiki-kogane-shima-no-mitsuyaku.json](./153137-shoujo-shuryou-no-suiri-ryouiki-kogane-shima-no-mitsuyaku.json) |
 | Shoujo Taimashi Misato | 97739 | [97739-shoujo-taimashi-misato.json](./97739-shoujo-taimashi-misato.json) |
+| Shoujo Yoshitsune-den | 181501 | [181501-shoujo-yoshitsune-den.json](./181501-shoujo-yoshitsune-den.json) |
 | Should I Buy It? | 180818 | [180818-should-i-buy-it.json](./180818-should-i-buy-it.json) |
 | Should Shoot | 197714 | [197714-should-shoot.json](./197714-should-shoot.json) |
 | Should the Stars Have Eyes | 183926 | [183926-should-the-stars-have-eyes.json](./183926-should-the-stars-have-eyes.json) |
@@ -8308,6 +8312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shounen D no Kokuhaku | 221036 | [221036-shounen-d-no-kokuhaku.json](./221036-shounen-d-no-kokuhaku.json) |
 | Shounen Kininden Tsumuji | 67608 | [67608-shounen-kininden-tsumuji.json](./67608-shounen-kininden-tsumuji.json) |
 | Shounen Ninja Sasuke | 38232 | [38232-shounen-ninja-sasuke.json](./38232-shounen-ninja-sasuke.json) |
+| Shounen Onmyouji: Tsubasa yo Ima, Sora he Kaere | 181523 | [181523-shounen-onmyouji-tsubasa-yo-ima-sora-he-kaere.json](./181523-shounen-onmyouji-tsubasa-yo-ima-sora-he-kaere.json) |
 | Shounen Tantei-dan to Oka no Ue no Kimyou na Karakuri Yashiki | 251623 | [251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json](./251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json) |
 | Shounen to Tenkiame | 397943 | [397943-shounen-to-tenkiame.json](./397943-shounen-to-tenkiame.json) |
 | Shounin yo, Taishi wo Idake!! | 42380 | [42380-shounin-yo-taishi-wo-idake.json](./42380-shounin-yo-taishi-wo-idake.json) |
@@ -14833,6 +14838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Spring Days | 242540 | [242540-some-spring-days.json](./242540-some-spring-days.json) |
 | Some Sword, Some Play | 215774 | [215774-some-sword-some-play.json](./215774-some-sword-some-play.json) |
 | Some Synergy | 210883 | [210883-some-synergy.json](./210883-some-synergy.json) |
+| Some Trashy Game | 181536 | [181536-some-trashy-game.json](./181536-some-trashy-game.json) |
 | Someday | 120923 | [120923-someday.json](./120923-someday.json) |
 | Someday You'll Return: Director's Cut | 241044 | [241044-someday-youll-return-directors-cut.json](./241044-someday-youll-return-directors-cut.json) |
 | Someone Creepy | 357196 | [357196-someone-creepy.json](./357196-someone-creepy.json) |
@@ -16288,6 +16294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Chained | 348392 | [348392-soul-chained.json](./348392-soul-chained.json) |
 | Soul Challenge | 149324 | [149324-soul-challenge.json](./149324-soul-challenge.json) |
 | Soul Chomper | 230867 | [230867-soul-chomper.json](./230867-soul-chomper.json) |
+| Soul Cipher: The Code Within | 181489 | [181489-soul-cipher-the-code-within.json](./181489-soul-cipher-the-code-within.json) |
 | Soul Clicker | 400739 | [400739-soul-clicker.json](./400739-soul-clicker.json) |
 | Soul Climb | 189007 | [189007-soul-climb.json](./189007-soul-climb.json) |
 | Soul Crystal | 47194 | [47194-soul-crystal.json](./47194-soul-crystal.json) |
@@ -17625,6 +17632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shadow | 178988 | [178988-space-shadow.json](./178988-space-shadow.json) |
 | Space Shaft | 81026 | [81026-space-shaft.json](./81026-space-shaft.json) |
 | Space Shapes | 126567 | [126567-space-shapes.json](./126567-space-shapes.json) |
+| Space Shark | 181539 | [181539-space-shark.json](./181539-space-shark.json) |
 | Space Shark Wrangle Fest | 245843 | [245843-space-shark-wrangle-fest.json](./245843-space-shark-wrangle-fest.json) |
 | Space Shells | 204100 | [204100-space-shells.json](./204100-space-shells.json) |
 | Space Ship | 175828 | [175828-space-ship.json](./175828-space-ship.json) |
@@ -24610,6 +24618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreamerBeater | 308214 | [308214-streamerbeater.json](./308214-streamerbeater.json) |
 | StreamerFun | 413064 | [413064-streamerfun.json](./413064-streamerfun.json) |
 | Streamers Cleaning Simulator | 312422 | [312422-streamers-cleaning-simulator.json](./312422-streamers-cleaning-simulator.json) |
+| Streamers Company Tycoon | 181537 | [181537-streamers-company-tycoon.json](./181537-streamers-company-tycoon.json) |
 | Streamers Interactive Quiz Game | 343454 | [343454-streamers-interactive-quiz-game.json](./343454-streamers-interactive-quiz-game.json) |
 | Streamers' Secret Life | 221582 | [221582-streamers-secret-life.json](./221582-streamers-secret-life.json) |
 | StreamerVille | 285996 | [285996-streamerville.json](./285996-streamerville.json) |
@@ -25490,6 +25499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Styscraper | 334230 | [334230-styscraper.json](./334230-styscraper.json) |
 | Styx VR DrumSim | 130296 | [130296-styx-vr-drumsim.json](./130296-styx-vr-drumsim.json) |
 | Styx: Final Shores | 371136 | [371136-styx-final-shores.json](./371136-styx-final-shores.json) |
+| Styx: Vertical Platformer | 181535 | [181535-styx-vertical-platformer.json](./181535-styx-vertical-platformer.json) |
 | Su and the Quest for meaning | 27532 | [27532-su-and-the-quest-for-meaning.json](./27532-su-and-the-quest-for-meaning.json) |
 | Su Doku Classic 2 | 410435 | [410435-su-doku-classic-2.json](./410435-su-doku-classic-2.json) |
 | Su Hack | 111002 | [111002-su-hack.json](./111002-su-hack.json) |
