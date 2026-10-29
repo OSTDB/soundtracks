@@ -781,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take a Seat! | 202961 | [202961-take-a-seat.json](./202961-take-a-seat.json) |
 | Take a Smile | 246484 | [246484-take-a-smile.json](./246484-take-a-smile.json) |
 | Take a Walk | 329517 | [329517-take-a-walk.json](./329517-take-a-walk.json) |
+| Take As Needed | 190315 | [190315-take-as-needed.json](./190315-take-as-needed.json) |
 | Take Bomb: The Suit Take Off | 280254 | [280254-take-bomb-the-suit-take-off.json](./280254-take-bomb-the-suit-take-off.json) |
 | Take Care (of Me) | 339422 | [339422-take-care-of-me.json](./339422-take-care-of-me.json) |
 | Take Care of It: Memories | 405443 | [405443-take-care-of-it-memories.json](./405443-take-care-of-it-memories.json) |
@@ -7494,6 +7495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doorway Effect | 240685 | [240685-the-doorway-effect.json](./240685-the-doorway-effect.json) |
 | The Dope Game: Android Edition | 109202 | [109202-the-dope-game-android-edition.json](./109202-the-dope-game-android-edition.json) |
 | The Dope Game: Dope Fiend Edition | 53726 | [53726-the-dope-game-dope-fiend-edition.json](./53726-the-dope-game-dope-fiend-edition.json) |
+| The Dormant Knight | 190356 | [190356-the-dormant-knight.json](./190356-the-dormant-knight.json) |
 | The Dot | 226205 | [226205-the-dot.json](./226205-the-dot.json) |
 | The Double | 394086 | [394086-the-double.json](./394086-the-double.json) |
 | The Douchebag Workout | 393546 | [393546-the-douchebag-workout.json](./393546-the-douchebag-workout.json) |
@@ -17360,6 +17362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There is No Pause Button! | 69374 | [69374-there-is-no-pause-button.json](./69374-there-is-no-pause-button.json) |
 | There is No Plan B | 298390 | [298390-there-is-no-plan-b.json](./298390-there-is-no-plan-b.json) |
 | There Is No Sleep | 289284 | [289284-there-is-no-sleep.json](./289284-there-is-no-sleep.json) |
+| There is No Stairs | 190352 | [190352-there-is-no-stairs.json](./190352-there-is-no-stairs.json) |
 | There Is No Tomorrow | 84041 | [84041-there-is-no-tomorrow.json](./84041-there-is-no-tomorrow.json) |
 | There Is No Turning Back! | 111004 | [111004-there-is-no-turning-back.json](./111004-there-is-no-turning-back.json) |
 | There Is Nothing Here | 179174 | [179174-there-is-nothing-here.json](./179174-there-is-nothing-here.json) |
@@ -22793,6 +22796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tormented 12 | 34730 | [34730-tormented-12.json](./34730-tormented-12.json) |
 | Tormented Soul | 322083 | [322083-tormented-soul.json](./322083-tormented-soul.json) |
 | Tormented Souls II: Digital Deluxe Edition | 401599 | [401599-tormented-souls-ii-digital-deluxe-edition.json](./401599-tormented-souls-ii-digital-deluxe-edition.json) |
+| Tormentis | 190320 | [190320-tormentis.json](./190320-tormentis.json) |
 | Tormentor | 167259 | [167259-tormentor.json](./167259-tormentor.json) |
 | Tormentor | 243325 | [243325-tormentor.json](./243325-tormentor.json) |
 | Tormentor: Action Fire Counter Shooter Game Simulator - Premium Edition | 283161 | [283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json](./283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json) |
@@ -27993,6 +27997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Love Sweet Lies | 238887 | [238887-true-love-sweet-lies.json](./238887-true-love-sweet-lies.json) |
 | True Love: Confide to the Maple | 32266 | [32266-true-love-confide-to-the-maple.json](./32266-true-love-confide-to-the-maple.json) |
 | True Lover's Knot | 34095 | [34095-true-lovers-knot.json](./34095-true-lovers-knot.json) |
+| True Magician | 190330 | [190330-true-magician.json](./190330-true-magician.json) |
 | True Matrix Total Conversion | 218654 | [218654-true-matrix-total-conversion.json](./218654-true-matrix-total-conversion.json) |
 | True Maze Defiance | 250538 | [250538-true-maze-defiance.json](./250538-true-maze-defiance.json) |
 | True Nightmare: Diner Loop | 413209 | [413209-true-nightmare-diner-loop.json](./413209-true-nightmare-diner-loop.json) |
