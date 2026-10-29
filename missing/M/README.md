@@ -1823,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Vanilla Syndrome | 91933 | [91933-mahjong-vanilla-syndrome.json](./91933-mahjong-vanilla-syndrome.json) |
 | Mahjong Venice Mystery Classic | 99179 | [99179-mahjong-venice-mystery-classic.json](./99179-mahjong-venice-mystery-classic.json) |
 | Mahjong Venice Mystery Puzzle | 87715 | [87715-mahjong-venice-mystery-puzzle.json](./87715-mahjong-venice-mystery-puzzle.json) |
+| Mahjong Village | 181531 | [181531-mahjong-village.json](./181531-mahjong-village.json) |
 | Mahjong VR | 61605 | [61605-mahjong-vr.json](./61605-mahjong-vr.json) |
 | Mahjong Wisdom | 67175 | [67175-mahjong-wisdom.json](./67175-mahjong-wisdom.json) |
 | Mahjong Wonders | 232490 | [232490-mahjong-wonders.json](./232490-mahjong-wonders.json) |
@@ -12480,6 +12481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miya Might Break | 390138 | [390138-miya-might-break.json](./390138-miya-might-break.json) |
 | Miya's Everyday Joy of Cooking | 202144 | [202144-miyas-everyday-joy-of-cooking.json](./202144-miyas-everyday-joy-of-cooking.json) |
 | Miyaji Shachou no Pachinko Fan: Shouri Sengen 2 | 37925 | [37925-miyaji-shachou-no-pachinko-fan-shouri-sengen-2.json](./37925-miyaji-shachou-no-pachinko-fan-shouri-sengen-2.json) |
+| Miyako: Awayuki no Utage | 181498 | [181498-miyako-awayuki-no-utage.json](./181498-miyako-awayuki-no-utage.json) |
 | Miyamori | 21965 | [21965-miyamori.json](./21965-miyamori.json) |
 | Miyamoto | 175328 | [175328-miyamoto.json](./175328-miyamoto.json) |
 | Miyamoto | 320443 | [320443-miyamoto.json](./320443-miyamoto.json) |
@@ -19212,6 +19214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of the Malign | 348463 | [348463-mystery-of-the-malign.json](./348463-mystery-of-the-malign.json) |
 | Mystery of the Missing Brigantine | 188519 | [188519-mystery-of-the-missing-brigantine.json](./188519-mystery-of-the-missing-brigantine.json) |
 | Mystery of the Opera | 94792 | [94792-mystery-of-the-opera.json](./94792-mystery-of-the-opera.json) |
+| Mystery of the Opera: The Phantom's Secret | 181525 | [181525-mystery-of-the-opera-the-phantoms-secret.json](./181525-mystery-of-the-opera-the-phantoms-secret.json) |
 | Mystery of the Sky Temple | 360369 | [360369-mystery-of-the-sky-temple.json](./360369-mystery-of-the-sky-temple.json) |
 | Mystery of Time and Space | 78675 | [78675-mystery-of-time-and-space.json](./78675-mystery-of-time-and-space.json) |
 | Mystery of Unicorn Castle: The Beastmaster | 33876 | [33876-mystery-of-unicorn-castle-the-beastmaster.json](./33876-mystery-of-unicorn-castle-the-beastmaster.json) |
