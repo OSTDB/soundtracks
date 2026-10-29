@@ -2845,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | de Blob | 2637 | [2637-de-blob.json](./2637-de-blob.json) |
 | De Blob | 233776 | [233776-de-blob.json](./233776-de-blob.json) |
 | De Blob 2 | 4796 | [4796-de-blob-2.json](./4796-de-blob-2.json) |
+| De Blob Online | 225354 | [225354-de-blob-online.json](./225354-de-blob-online.json) |
 | De Blob: Utrecht | 253718 | [253718-de-blob-utrecht.json](./253718-de-blob-utrecht.json) |
 | De Fobos y Deimos | 103966 | [103966-de-fobos-y-deimos.json](./103966-de-fobos-y-deimos.json) |
 | De griezelbus 1 | 98943 | [98943-de-griezelbus-1.json](./98943-de-griezelbus-1.json) |
@@ -2985,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Castle | 117625 | [117625-dead-castle.json](./117625-dead-castle.json) |
 | Dead Cat Bounce | 387631 | [387631-dead-cat-bounce.json](./387631-dead-cat-bounce.json) |
 | Dead Cells: Action Game of the Year | 122268 | [122268-dead-cells-action-game-of-the-year.json](./122268-dead-cells-action-game-of-the-year.json) |
+| Dead Cells: Everyone is Here Vol. 2 | 225338 | [225338-dead-cells-everyone-is-here-vol-2.json](./225338-dead-cells-everyone-is-here-vol-2.json) |
 | Dead Cells: Everyone is Here! | 221962 | [221962-dead-cells-everyone-is-here.json](./221962-dead-cells-everyone-is-here.json) |
 | Dead Cells: Netflix Edition | 274723 | [274723-dead-cells-netflix-edition.json](./274723-dead-cells-netflix-edition.json) |
 | Dead Cells: Prisoner's Edition | 136322 | [136322-dead-cells-prisoners-edition.json](./136322-dead-cells-prisoners-edition.json) |
@@ -6375,6 +6377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Reptiles | 405581 | [405581-desktop-reptiles.json](./405581-desktop-reptiles.json) |
 | Desktop Snail Assassin | 408604 | [408604-desktop-snail-assassin.json](./408604-desktop-snail-assassin.json) |
 | Desktop Soccer | 112128 | [112128-desktop-soccer.json](./112128-desktop-soccer.json) |
+| Desktop Soccer 2 | 225328 | [225328-desktop-soccer-2.json](./225328-desktop-soccer-2.json) |
 | Desktop Soccer 2: Nihon Daihyou Edition | 233925 | [233925-desktop-soccer-2-nihon-daihyou-edition.json](./233925-desktop-soccer-2-nihon-daihyou-edition.json) |
 | Desktop Standing Card Plates | 394346 | [394346-desktop-standing-card-plates.json](./394346-desktop-standing-card-plates.json) |
 | Desktop Survivors 98 | 325702 | [325702-desktop-survivors-98.json](./325702-desktop-survivors-98.json) |
@@ -13821,6 +13824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Enkoure | 316157 | [316157-dream-enkoure.json](./316157-dream-enkoure.json) |
 | Dream Escape | 290121 | [290121-dream-escape.json](./290121-dream-escape.json) |
 | Dream Escape VR | 157405 | [157405-dream-escape-vr.json](./157405-dream-escape-vr.json) |
+| Dream Escaper | 225346 | [225346-dream-escaper.json](./225346-dream-escaper.json) |
 | Dream Factory | 34319 | [34319-dream-factory.json](./34319-dream-factory.json) |
 | Dream Fallen: Vila do Chaves | 188082 | [188082-dream-fallen-vila-do-chaves.json](./188082-dream-fallen-vila-do-chaves.json) |
 | Dream Fight Will | 216735 | [216735-dream-fight-will.json](./216735-dream-fight-will.json) |
