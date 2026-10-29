@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanbutsu Himouto! Umaru-chan Daratto Puzzle | 222392 | [222392-kanbutsu-himouto-umaru-chan-daratto-puzzle.json](./222392-kanbutsu-himouto-umaru-chan-daratto-puzzle.json) |
 | Kanchayudha | 57106 | [57106-kanchayudha.json](./57106-kanchayudha.json) |
 | KanColle Kai | 11461 | [11461-kancolle-kai.json](./11461-kancolle-kai.json) |
+| Kanda Alice mo Suiri Suru. | 210404 | [210404-kanda-alice-mo-suiri-suru.json](./210404-kanda-alice-mo-suiri-suru.json) |
 | Kandagawa Jet Girls | 121202 | [121202-kandagawa-jet-girls.json](./121202-kandagawa-jet-girls.json) |
 | Kandagawa Jet Girls: DX Jet Pack | 136700 | [136700-kandagawa-jet-girls-dx-jet-pack.json](./136700-kandagawa-jet-girls-dx-jet-pack.json) |
 | Kandagawa Jet Girls: Ikaruga & Yomi Character Set | 225914 | [225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json](./225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json) |
@@ -646,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KanjiFlash | 367056 | [367056-kanjiflash.json](./367056-kanjiflash.json) |
 | KanjiMemory | 293480 | [293480-kanjimemory.json](./293480-kanjimemory.json) |
 | Kanjozoku 2: Drift Car Games | 297309 | [297309-kanjozoku-2-drift-car-games.json](./297309-kanjozoku-2-drift-car-games.json) |
+| Kanjozoku Game Racer | 210360 | [210360-kanjozoku-game-racer.json](./210360-kanjozoku-game-racer.json) |
 | Kanjozoku Game: Car Racing & Highway Driving Simulator Remaster | 399798 | [399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json](./399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json) |
 | Kanjozoku: Wangan Runners | 280666 | [280666-kanjozoku-wangan-runners.json](./280666-kanjozoku-wangan-runners.json) |
 | Kanken Smart Taisaku | 329902 | [329902-kanken-smart-taisaku.json](./329902-kanken-smart-taisaku.json) |
@@ -2094,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kikaijikake no Merceneria | 386112 | [386112-kikaijikake-no-merceneria.json](./386112-kikaijikake-no-merceneria.json) |
 | Kikak | 183796 | [183796-kikak.json](./183796-kikak.json) |
 | Kikan Bakumatsu Ibun Last Cavalier | 59912 | [59912-kikan-bakumatsu-ibun-last-cavalier.json](./59912-kikan-bakumatsu-ibun-last-cavalier.json) |
+| Kikansha Thomas: Sodor-tou no Nakama-tachi | 210421 | [210421-kikansha-thomas-sodor-tou-no-nakama-tachi.json](./210421-kikansha-thomas-sodor-tou-no-nakama-tachi.json) |
 | Kiken Drive: 2nd Lap | 273464 | [273464-kiken-drive-2nd-lap.json](./273464-kiken-drive-2nd-lap.json) |
 | Kiki | 237267 | [237267-kiki.json](./237267-kiki.json) |
 | Kiki | 309528 | [309528-kiki.json](./309528-kiki.json) |
@@ -2448,7 +2451,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2698,6 +2700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Egypt GX | 117428 | [117428-king-of-egypt-gx.json](./117428-king-of-egypt-gx.json) |
 | King of Fighters '95, The: Special Item Box | 75461 | [75461-king-of-fighters-95-the-special-item-box.json](./75461-king-of-fighters-95-the-special-item-box.json) |
 | King of Fighters 2002: 3rd Strike of the Orochi | 205791 | [205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json](./205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json) |
+| King of Fighters R-2 | 210437 | [210437-king-of-fighters-r-2.json](./210437-king-of-fighters-r-2.json) |
 | King of Fighters XV: Characters - Duo Lon | 266344 | [266344-king-of-fighters-xv-characters-duo-lon.json](./266344-king-of-fighters-xv-characters-duo-lon.json) |
 | King of Fighters XV: Garou MotW Terry Costume | 320249 | [320249-king-of-fighters-xv-garou-motw-terry-costume.json](./320249-king-of-fighters-xv-garou-motw-terry-costume.json) |
 | King of Fighters: Survival City | 241577 | [241577-king-of-fighters-survival-city.json](./241577-king-of-fighters-survival-city.json) |
