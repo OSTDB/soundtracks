@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.E.R.O. | 6112 | [6112-h-e-r-o.json](./6112-h-e-r-o.json) |
 | H.G. | 340858 | [340858-h-g.json](./340858-h-g.json) |
 | H.I.A: Horror Investigation Agency | 253523 | [253523-h-i-a-horror-investigation-agency.json](./253523-h-i-a-horror-investigation-agency.json) |
+| H.I.C.H. | 180967 | [180967-h-i-c-h.json](./180967-h-i-c-h.json) |
 | H.I.S.T.O.R.Y T.O.R.C.H.K.A 2 | 82322 | [82322-h-i-s-t-o-r-y-t-o-r-c-h-k-a-2.json](./82322-h-i-s-t-o-r-y-t-o-r-c-h-k-a-2.json) |
 | H.I.v.C.A.: Human Intelligence vs Computer Algorithm | 311102 | [311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json](./311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json) |
 | H.I.V.E. | 201014 | [201014-h-i-v-e.json](./201014-h-i-v-e.json) |
@@ -3539,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix: Descent N Ascent | 284906 | [284906-helix-descent-n-ascent.json](./284906-helix-descent-n-ascent.json) |
 | Helixian | 158154 | [158154-helixian.json](./158154-helixian.json) |
 | HelixMod VR | 121871 | [121871-helixmod-vr.json](./121871-helixmod-vr.json) |
+| Helixteus 3 | 180934 | [180934-helixteus-3.json](./180934-helixteus-3.json) |
 | Hell | 17612 | [17612-hell.json](./17612-hell.json) |
 | Hell | 184834 | [184834-hell.json](./184834-hell.json) |
 | Hell | 287523 | [287523-hell.json](./287523-hell.json) |
@@ -7047,6 +7049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Him | 171979 | [171979-him.json](./171979-him.json) |
 | Him | 258482 | [258482-him.json](./258482-him.json) |
 | Him & Her | 135652 | [135652-him-and-her.json](./135652-him-and-her.json) |
+| Him & Her 3 | 180980 | [180980-him-and-her-3.json](./180980-him-and-her-3.json) |
 | Him & Her: Her Challenges | 238195 | [238195-him-and-her-her-challenges.json](./238195-him-and-her-her-challenges.json) |
 | Him & I | 123545 | [123545-him-and-i.json](./123545-him-and-i.json) |
 | Him, the Smile & Bloom | 315911 | [315911-him-the-smile-and-bloom.json](./315911-him-the-smile-and-bloom.json) |
@@ -7972,6 +7975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holomento | 137885 | [137885-holomento.json](./137885-holomento.json) |
 | Holonglide | 106611 | [106611-holonglide.json](./106611-holonglide.json) |
 | Holonomy | 310570 | [310570-holonomy.json](./310570-holonomy.json) |
+| Holonoptic | 180948 | [180948-holonoptic.json](./180948-holonoptic.json) |
 | HoloParade | 276842 | [276842-holoparade.json](./276842-holoparade.json) |
 | HoloParade: Deluxe Edition | 346003 | [346003-holoparade-deluxe-edition.json](./346003-holoparade-deluxe-edition.json) |
 | HoloParade: DLC with BGM and Costume - Shirakami Fubuki | 302580 | [302580-holoparade-dlc-with-bgm-and-costume-shirakami-fubuki.json](./302580-holoparade-dlc-with-bgm-and-costume-shirakami-fubuki.json) |
@@ -9090,6 +9094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horses of Gavarnie | 387653 | [387653-horses-of-gavarnie.json](./387653-horses-of-gavarnie.json) |
 | Horses of Hoofprint Bay | 376483 | [376483-horses-of-hoofprint-bay.json](./376483-horses-of-hoofprint-bay.json) |
 | Horses.io: Horse Herd Racing | 269010 | [269010-horses-io-horse-herd-racing.json](./269010-horses-io-horse-herd-racing.json) |
+| Horseshoe Crab Rescue! | 180970 | [180970-horseshoe-crab-rescue.json](./180970-horseshoe-crab-rescue.json) |
 | Horsey Game | 392467 | [392467-horsey-game.json](./392467-horsey-game.json) |
 | Horsey I | 362166 | [362166-horsey-i.json](./362166-horsey-i.json) |
 | Horsez | 248607 | [248607-horsez.json](./248607-horsez.json) |
