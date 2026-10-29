@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth | 178288 | [178288-labyrinth.json](./178288-labyrinth.json) |
 | Labyrinth | 18211 | [18211-labyrinth.json](./18211-labyrinth.json) |
 | Labyrinth | 206701 | [206701-labyrinth.json](./206701-labyrinth.json) |
+| Labyrinth | 209820 | [209820-labyrinth.json](./209820-labyrinth.json) |
 | Labyrinth | 249273 | [249273-labyrinth.json](./249273-labyrinth.json) |
 | Labyrinth | 25102 | [25102-labyrinth.json](./25102-labyrinth.json) |
 | Labyrinth | 260387 | [260387-labyrinth.json](./260387-labyrinth.json) |
@@ -543,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamb Chop & Friends | 198796 | [198796-lamb-chop-and-friends.json](./198796-lamb-chop-and-friends.json) |
 | Lamb Fountain and Dungeon | 208086 | [208086-lamb-fountain-and-dungeon.json](./208086-lamb-fountain-and-dungeon.json) |
 | Lamb to the Slaughter | 323553 | [323553-lamb-to-the-slaughter.json](./323553-lamb-to-the-slaughter.json) |
+| Lambchop Loves Music | 209818 | [209818-lambchop-loves-music.json](./209818-lambchop-loves-music.json) |
 | Lambda Fortress | 345541 | [345541-lambda-fortress.json](./345541-lambda-fortress.json) |
 | Lambda Neros R | 412767 | [412767-lambda-neros-r.json](./412767-lambda-neros-r.json) |
 | Lambda Spellcrafting Academy | 243541 | [243541-lambda-spellcrafting-academy.json](./243541-lambda-spellcrafting-academy.json) |
@@ -888,7 +890,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Las Vegas Gambling | 47291 | [47291-las-vegas-gambling.json](./47291-las-vegas-gambling.json) |
 | Las Vegas Girls | 38568 | [38568-las-vegas-girls.json](./38568-las-vegas-girls.json) |
 | Las Vegas Roulette | 47278 | [47278-las-vegas-roulette.json](./47278-las-vegas-roulette.json) |
+| Las Vegas Super Casino Plus | 209815 | [209815-las-vegas-super-casino-plus.json](./209815-las-vegas-super-casino-plus.json) |
+| Las Vegas Tycoon | 209814 | [209814-las-vegas-tycoon.json](./209814-las-vegas-tycoon.json) |
 | Las Vegas Video Poker | 79560 | [79560-las-vegas-video-poker.json](./79560-las-vegas-video-poker.json) |
+| Las Vegas-Casino Players Edition | 209816 | [209816-las-vegas-casino-players-edition.json](./209816-las-vegas-casino-players-edition.json) |
 | Lasagna Boy | 117149 | [117149-lasagna-boy.json](./117149-lasagna-boy.json) |
 | Lasagna Boy Classic | 344332 | [344332-lasagna-boy-classic.json](./344332-lasagna-boy-classic.json) |
 | LaSalle Ishii no Child's Quest | 48792 | [48792-lasalle-ishii-no-childs-quest.json](./48792-lasalle-ishii-no-childs-quest.json) |
