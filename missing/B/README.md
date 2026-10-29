@@ -14175,6 +14175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brony Cards | 312214 | [312214-brony-cards.json](./312214-brony-cards.json) |
 | Bronze | 13446 | [13446-bronze.json](./13446-bronze.json) |
 | Bronze | 60031 | [60031-bronze.json](./60031-bronze.json) |
+| Bronze Age | 182069 | [182069-bronze-age.json](./182069-bronze-age.json) |
 | Bronze Age | 65827 | [65827-bronze-age.json](./65827-bronze-age.json) |
 | Bronze Dragon: Conquest of Infinity | 122987 | [122987-bronze-dragon-conquest-of-infinity.json](./122987-bronze-dragon-conquest-of-infinity.json) |
 | Bronze Hoof | 127083 | [127083-bronze-hoof.json](./127083-bronze-hoof.json) |
