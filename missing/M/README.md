@@ -8129,6 +8129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenary Tactics | 310800 | [310800-mercenary-tactics.json](./310800-mercenary-tactics.json) |
 | Mercenary: The Second City | 15500 | [15500-mercenary-the-second-city.json](./15500-mercenary-the-second-city.json) |
 | Mercer Mayer's Little Critter and the Great Race | 71347 | [71347-mercer-mayers-little-critter-and-the-great-race.json](./71347-mercer-mayers-little-critter-and-the-great-race.json) |
+| Mercer Mayer's Little Critter: Just Me and My Dad | 209850 | [209850-mercer-mayers-little-critter-just-me-and-my-dad.json](./209850-mercer-mayers-little-critter-just-me-and-my-dad.json) |
 | Mercforce: 30X1 | 120380 | [120380-mercforce-30x1.json](./120380-mercforce-30x1.json) |
 | Merch Tycoon | 102138 | [102138-merch-tycoon.json](./102138-merch-tycoon.json) |
 | Merchant | 139231 | [139231-merchant.json](./139231-merchant.json) |
