@@ -2844,14 +2844,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Force Awakens - The Phantom Limb | 138163 | [138163-lego-star-wars-the-force-awakens-the-phantom-limb.json](./138163-lego-star-wars-the-force-awakens-the-phantom-limb.json) |
 | LEGO Star Wars: The Quest for R2-D2 | 74979 | [74979-lego-star-wars-the-quest-for-r2-d2.json](./74979-lego-star-wars-the-quest-for-r2-d2.json) |
 | LEGO Star Wars: The Skywalker Saga | 119305 | [119305-lego-star-wars-the-skywalker-saga.json](./119305-lego-star-wars-the-skywalker-saga.json) |
+| LEGO Star Wars: The Skywalker Saga - Andor Character Pack | 223782 | [223782-lego-star-wars-the-skywalker-saga-andor-character-pack.json](./223782-lego-star-wars-the-skywalker-saga-andor-character-pack.json) |
+| LEGO Star Wars: The Skywalker Saga - Book of Boba Fett Character Pack | 223781 | [223781-lego-star-wars-the-skywalker-saga-book-of-boba-fett-character-pack.json](./223781-lego-star-wars-the-skywalker-saga-book-of-boba-fett-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - Character Collection 1 | 196046 | [196046-lego-star-wars-the-skywalker-saga-character-collection-1.json](./196046-lego-star-wars-the-skywalker-saga-character-collection-1.json) |
+| LEGO Star Wars: The Skywalker Saga - Character Collection 1 & 2 | 223780 | [223780-lego-star-wars-the-skywalker-saga-character-collection-1-and-2.json](./223780-lego-star-wars-the-skywalker-saga-character-collection-1-and-2.json) |
+| LEGO Star Wars: The Skywalker Saga - Character Collection 2 | 223773 | [223773-lego-star-wars-the-skywalker-saga-character-collection-2.json](./223773-lego-star-wars-the-skywalker-saga-character-collection-2.json) |
 | LEGO Star Wars: The Skywalker Saga - Classic Character Edition | 139937 | [139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json](./139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json) |
 | LEGO Star Wars: The Skywalker Saga - Classic Character Pack | 199517 | [199517-lego-star-wars-the-skywalker-saga-classic-character-pack.json](./199517-lego-star-wars-the-skywalker-saga-classic-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - Classic Obi-Wan Kenobi | 388997 | [388997-lego-star-wars-the-skywalker-saga-classic-obi-wan-kenobi.json](./388997-lego-star-wars-the-skywalker-saga-classic-obi-wan-kenobi.json) |
 | LEGO Star Wars: The Skywalker Saga - Deluxe Edition | 138105 | [138105-lego-star-wars-the-skywalker-saga-deluxe-edition.json](./138105-lego-star-wars-the-skywalker-saga-deluxe-edition.json) |
 | LEGO Star Wars: The Skywalker Saga - Galactic Edition | 216281 | [216281-lego-star-wars-the-skywalker-saga-galactic-edition.json](./216281-lego-star-wars-the-skywalker-saga-galactic-edition.json) |
+| LEGO Star Wars: The Skywalker Saga - Obi-Wan Kenobi Character Pack | 223774 | [223774-lego-star-wars-the-skywalker-saga-obi-wan-kenobi-character-pack.json](./223774-lego-star-wars-the-skywalker-saga-obi-wan-kenobi-character-pack.json) |
+| LEGO Star Wars: The Skywalker Saga - Rebels Character Pack | 223775 | [223775-lego-star-wars-the-skywalker-saga-rebels-character-pack.json](./223775-lego-star-wars-the-skywalker-saga-rebels-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - Solo: A Star Wars Story - Character Pack | 201138 | [201138-lego-star-wars-the-skywalker-saga-solo-a-star-wars-story-character-pack.json](./201138-lego-star-wars-the-skywalker-saga-solo-a-star-wars-story-character-pack.json) |
+| LEGO Star Wars: The Skywalker Saga - Summer Vacation Character Pack | 223776 | [223776-lego-star-wars-the-skywalker-saga-summer-vacation-character-pack.json](./223776-lego-star-wars-the-skywalker-saga-summer-vacation-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - The Bad Batch Character Pack | 201129 | [201129-lego-star-wars-the-skywalker-saga-the-bad-batch-character-pack.json](./201129-lego-star-wars-the-skywalker-saga-the-bad-batch-character-pack.json) |
+| LEGO Star Wars: The Skywalker Saga - The Clone Wars Character Pack | 223777 | [223777-lego-star-wars-the-skywalker-saga-the-clone-wars-character-pack.json](./223777-lego-star-wars-the-skywalker-saga-the-clone-wars-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - The Mandalorian: Season 1 - Character Pack | 201137 | [201137-lego-star-wars-the-skywalker-saga-the-mandalorian-season-1-character-pack.json](./201137-lego-star-wars-the-skywalker-saga-the-mandalorian-season-1-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - The Mandalorian: Season 2 - Character Pack | 201139 | [201139-lego-star-wars-the-skywalker-saga-the-mandalorian-season-2-character-pack.json](./201139-lego-star-wars-the-skywalker-saga-the-mandalorian-season-2-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - Trooper Pack | 201140 | [201140-lego-star-wars-the-skywalker-saga-trooper-pack.json](./201140-lego-star-wars-the-skywalker-saga-trooper-pack.json) |
@@ -5281,7 +5289,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Mouse's Encyclopedia + Under Leaves | 188099 | [188099-little-mouses-encyclopedia-under-leaves.json](./188099-little-mouses-encyclopedia-under-leaves.json) |
 | Little Mouse's Encyclopedia: Complete Edition | 241398 | [241398-little-mouses-encyclopedia-complete-edition.json](./241398-little-mouses-encyclopedia-complete-edition.json) |
 | Little Mouse's Encyclopedia: Definitive Edition | 251510 | [251510-little-mouses-encyclopedia-definitive-edition.json](./251510-little-mouses-encyclopedia-definitive-edition.json) |
+| Little Mouse's Encyclopedia: Deluxe Edition | 223779 | [223779-little-mouses-encyclopedia-deluxe-edition.json](./223779-little-mouses-encyclopedia-deluxe-edition.json) |
 | Little Mouse's Encyclopedia: Extended Edition | 231266 | [231266-little-mouses-encyclopedia-extended-edition.json](./231266-little-mouses-encyclopedia-extended-edition.json) |
+| Little Mouse's Encyclopedia: Forest Puzzle | 223788 | [223788-little-mouses-encyclopedia-forest-puzzle.json](./223788-little-mouses-encyclopedia-forest-puzzle.json) |
+| Little Mouse's Encyclopedia: Garden Puzzle | 223791 | [223791-little-mouses-encyclopedia-garden-puzzle.json](./223791-little-mouses-encyclopedia-garden-puzzle.json) |
+| Little Mouse's Encyclopedia: Pond Puzzle | 223770 | [223770-little-mouses-encyclopedia-pond-puzzle.json](./223770-little-mouses-encyclopedia-pond-puzzle.json) |
 | Little Mouse's Encyclopedia: Premium Edition | 233358 | [233358-little-mouses-encyclopedia-premium-edition.json](./233358-little-mouses-encyclopedia-premium-edition.json) |
 | Little Mouse's Encyclopedia: Special Edition | 231267 | [231267-little-mouses-encyclopedia-special-edition.json](./231267-little-mouses-encyclopedia-special-edition.json) |
 | Little Mouse's Encyclopedia: Ultimate Edition | 231268 | [231268-little-mouses-encyclopedia-ultimate-edition.json](./231268-little-mouses-encyclopedia-ultimate-edition.json) |
@@ -6914,6 +6926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Cave | 112758 | [112758-lost-cave.json](./112758-lost-cave.json) |
 | Lost Chakras | 305821 | [305821-lost-chakras.json](./305821-lost-chakras.json) |
 | Lost Chapter | 244229 | [244229-lost-chapter.json](./244229-lost-chapter.json) |
+| Lost Chiko | 223778 | [223778-lost-chiko.json](./223778-lost-chiko.json) |
 | Lost Chiko 2 | 305490 | [305490-lost-chiko-2.json](./305490-lost-chiko-2.json) |
 | Lost Child | 348223 | [348223-lost-child.json](./348223-lost-child.json) |
 | Lost Children of the Mansion | 392857 | [392857-lost-children-of-the-mansion.json](./392857-lost-children-of-the-mansion.json) |
