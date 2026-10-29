@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lars | 266128 | [266128-lars.json](./266128-lars.json) |
 | Lars the Wanderer | 145652 | [145652-lars-the-wanderer.json](./145652-lars-the-wanderer.json) |
 | Laruaville 12 | 195716 | [195716-laruaville-12.json](./195716-laruaville-12.json) |
+| Laruaville 13 | 226506 | [226506-laruaville-13.json](./226506-laruaville-13.json) |
 | Laruaville 14 | 259506 | [259506-laruaville-14.json](./259506-laruaville-14.json) |
 | Laruaville 15 | 302355 | [302355-laruaville-15.json](./302355-laruaville-15.json) |
 | Laruaville 17 | 377062 | [377062-laruaville-17.json](./377062-laruaville-17.json) |
@@ -4022,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifescape 2: Bodybionics | 351552 | [351552-lifescape-2-bodybionics.json](./351552-lifescape-2-bodybionics.json) |
 | Lifesigns | 143575 | [143575-lifesigns.json](./143575-lifesigns.json) |
 | LifeSigns: Surgical Unit | 18600 | [18600-lifesigns-surgical-unit.json](./18600-lifesigns-surgical-unit.json) |
+| Lifespace Traveler | 226482 | [226482-lifespace-traveler.json](./226482-lifespace-traveler.json) |
 | Lifespan 5seconds | 107701 | [107701-lifespan-5seconds.json](./107701-lifespan-5seconds.json) |
 | Lifespeed | 27386 | [27386-lifespeed.json](./27386-lifespeed.json) |
 | Lifestream - A Haunting Text Adventure | 31344 | [31344-lifestream-a-haunting-text-adventure.json](./31344-lifestream-a-haunting-text-adventure.json) |
