@@ -3407,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Goblin: Cursed Forest | 35406 | [35406-red-goblin-cursed-forest.json](./35406-red-goblin-cursed-forest.json) |
 | Red Goddess: Inner World | 15912 | [15912-red-goddess-inner-world.json](./15912-red-goddess-inner-world.json) |
 | Red Goes Faster | 173090 | [173090-red-goes-faster.json](./173090-red-goes-faster.json) |
+| Red Green Blue: Color Mix | 227437 | [227437-red-green-blue-color-mix.json](./227437-red-green-blue-color-mix.json) |
 | Red Green Donkey | 278286 | [278286-red-green-donkey.json](./278286-red-green-donkey.json) |
 | Red Grimly Tale | 397131 | [397131-red-grimly-tale.json](./397131-red-grimly-tale.json) |
 | Red Gun | 196609 | [196609-red-gun.json](./196609-red-gun.json) |
