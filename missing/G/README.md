@@ -1385,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games Interactive 2 | 96506 | [96506-games-interactive-2.json](./96506-games-interactive-2.json) |
 | Games of Rome | 391815 | [391815-games-of-rome.json](./391815-games-of-rome.json) |
 | Games People Play: Hearts, Spades, and Euchre | 78910 | [78910-games-people-play-hearts-spades-and-euchre.json](./78910-games-people-play-hearts-spades-and-euchre.json) |
+| Games Sampler 2 for Windows 95 | 194772 | [194772-games-sampler-2-for-windows-95.json](./194772-games-sampler-2-for-windows-95.json) |
 | Games&Girls | 29106 | [29106-games-and-girls.json](./29106-games-and-girls.json) |
 | Games8x8 | 376022 | [376022-games8x8.json](./376022-games8x8.json) |
 | GameStart Pixel Battle | 207865 | [207865-gamestart-pixel-battle.json](./207865-gamestart-pixel-battle.json) |
@@ -4184,6 +4185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiators: Ludus Manager | 116213 | [116213-gladiators-ludus-manager.json](./116213-gladiators-ludus-manager.json) |
 | Gladiators: The Unconquered | 132535 | [132535-gladiators-the-unconquered.json](./132535-gladiators-the-unconquered.json) |
 | Gladiatory | 290896 | [290896-gladiatory.json](./290896-gladiatory.json) |
+| Gladiatus | 194814 | [194814-gladiatus.json](./194814-gladiatus.json) |
 | Gladihaters | 149405 | [149405-gladihaters.json](./149405-gladihaters.json) |
 | Gladihoppers | 103356 | [103356-gladihoppers.json](./103356-gladihoppers.json) |
 | Gladii | 158922 | [158922-gladii.json](./158922-gladii.json) |
@@ -5587,6 +5589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Miner World Tour | 373899 | [373899-gold-miner-world-tour.json](./373899-gold-miner-world-tour.json) |
 | Gold Miner: Classic Edition | 360579 | [360579-gold-miner-classic-edition.json](./360579-gold-miner-classic-edition.json) |
 | Gold Miner: Return to Glory | 384298 | [384298-gold-miner-return-to-glory.json](./384298-gold-miner-return-to-glory.json) |
+| Gold Miner: Special Edition | 194799 | [194799-gold-miner-special-edition.json](./194799-gold-miner-special-edition.json) |
 | Gold Miner: Vegas | 188566 | [188566-gold-miner-vegas.json](./188566-gold-miner-vegas.json) |
 | Gold Mining Simulator | 39755 | [39755-gold-mining-simulator.json](./39755-gold-mining-simulator.json) |
 | Gold Mining Simulator + Mini Machines DLC | 332017 | [332017-gold-mining-simulator-mini-machines-dlc.json](./332017-gold-mining-simulator-mini-machines-dlc.json) |
@@ -7807,6 +7810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Planet | 183405 | [183405-green-planet.json](./183405-green-planet.json) |
 | Green Pond Town | 384294 | [384294-green-pond-town.json](./384294-green-pond-town.json) |
 | Green Project | 133419 | [133419-green-project.json](./133419-green-project.json) |
+| Green Rabbit | 194790 | [194790-green-rabbit.json](./194790-green-rabbit.json) |
 | Green Reaper | 246915 | [246915-green-reaper.json](./246915-green-reaper.json) |
 | Green Revival | 340325 | [340325-green-revival.json](./340325-green-revival.json) |
 | Green Run | 107197 | [107197-green-run.json](./107197-green-run.json) |
@@ -9413,6 +9417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Massacre | 418864 | [418864-gun-massacre.json](./418864-gun-massacre.json) |
 | Gun Master | 169652 | [169652-gun-master.json](./169652-gun-master.json) |
 | Gun Mayhem | 342123 | [342123-gun-mayhem.json](./342123-gun-mayhem.json) |
+| Gun Mayhem 2 | 194802 | [194802-gun-mayhem-2.json](./194802-gun-mayhem-2.json) |
 | Gun Mayhem Redux | 102021 | [102021-gun-mayhem-redux.json](./102021-gun-mayhem-redux.json) |
 | Gun Monkey! | 406559 | [406559-gun-monkey.json](./406559-gun-monkey.json) |
 | Gun Monkeys | 16541 | [16541-gun-monkeys.json](./16541-gun-monkeys.json) |
@@ -9504,6 +9509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guncaster | 142417 | [142417-guncaster.json](./142417-guncaster.json) |
 | Guncaster | 367575 | [367575-guncaster.json](./367575-guncaster.json) |
 | GunCat | 327102 | [327102-guncat.json](./327102-guncat.json) |
+| Guncho | 194751 | [194751-guncho.json](./194751-guncho.json) |
 | Guncho | 275604 | [275604-guncho.json](./275604-guncho.json) |
 | Gunclone Arena | 389647 | [389647-gunclone-arena.json](./389647-gunclone-arena.json) |
 | Guncom 2 | 43532 | [43532-guncom-2.json](./43532-guncom-2.json) |
