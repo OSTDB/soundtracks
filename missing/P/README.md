@@ -10125,6 +10125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Velvet: Special Hatenna Edition | 337422 | [337422-pokemon-velvet-special-hatenna-edition.json](./337422-pokemon-velvet-special-hatenna-edition.json) |
 | Pokémon Version Violette | 401803 | [401803-pokemon-version-violette.json](./401803-pokemon-version-violette.json) |
 | Pokémon Villain Jam | 354642 | [354642-pokemon-villain-jam.json](./354642-pokemon-villain-jam.json) |
+| Pokémon Vintage White | 213154 | [213154-pokemon-vintage-white.json](./213154-pokemon-vintage-white.json) |
 | Pokémon Violet + The Hidden Treasure of Area Zero | 240084 | [240084-pokemon-violet-the-hidden-treasure-of-area-zero.json](./240084-pokemon-violet-the-hidden-treasure-of-area-zero.json) |
 | Pokémon Violet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239933 | [239933-pokemon-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239933-pokemon-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
 | Pokémon Void | 199996 | [199996-pokemon-void.json](./199996-pokemon-void.json) |
