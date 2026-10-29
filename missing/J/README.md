@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JellyCar | 9635 | [9635-jellycar.json](./9635-jellycar.json) |
 | JellyCar 2 | 67223 | [67223-jellycar-2.json](./67223-jellycar-2.json) |
 | JellyCar 3 | 228601 | [228601-jellycar-3.json](./228601-jellycar-3.json) |
+| JellyCar Worlds | 198022 | [198022-jellycar-worlds.json](./198022-jellycar-worlds.json) |
 | JellyCod | 265540 | [265540-jellycod.json](./265540-jellycod.json) |
 | Jellydad Hero | 180135 | [180135-jellydad-hero.json](./180135-jellydad-hero.json) |
 | Jellyfish | 55769 | [55769-jellyfish.json](./55769-jellyfish.json) |
@@ -1309,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match Atlantis Solitaire 5: Collector's Edition | 381596 | [381596-jewel-match-atlantis-solitaire-5-collectors-edition.json](./381596-jewel-match-atlantis-solitaire-5-collectors-edition.json) |
 | Jewel Match Atlantis Solitaire: Collector's Edition | 126907 | [126907-jewel-match-atlantis-solitaire-collectors-edition.json](./126907-jewel-match-atlantis-solitaire-collectors-edition.json) |
 | Jewel Match IV | 128477 | [128477-jewel-match-iv.json](./128477-jewel-match-iv.json) |
+| Jewel Match Origins 2: Bavarian Palace - Collector's Edition | 197487 | [197487-jewel-match-origins-2-bavarian-palace-collectors-edition.json](./197487-jewel-match-origins-2-bavarian-palace-collectors-edition.json) |
 | Jewel Match Origins 3: Camelot Castle - Collector's Edition | 295759 | [295759-jewel-match-origins-3-camelot-castle-collectors-edition.json](./295759-jewel-match-origins-3-camelot-castle-collectors-edition.json) |
 | Jewel Match Origins: Palais Imperial - Collector's Edition | 169954 | [169954-jewel-match-origins-palais-imperial-collectors-edition.json](./169954-jewel-match-origins-palais-imperial-collectors-edition.json) |
 | Jewel Match Royale | 296202 | [296202-jewel-match-royale.json](./296202-jewel-match-royale.json) |
@@ -1704,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzles for Kids and Adults: Europe | 162236 | [162236-jigsaw-puzzles-for-kids-and-adults-europe.json](./162236-jigsaw-puzzles-for-kids-and-adults-europe.json) |
 | Jigsaw Puzzles for Kids and Adults: Islands | 162231 | [162231-jigsaw-puzzles-for-kids-and-adults-islands.json](./162231-jigsaw-puzzles-for-kids-and-adults-islands.json) |
 | Jigsaw Puzzles Free by WallpaperFusion | 90937 | [90937-jigsaw-puzzles-free-by-wallpaperfusion.json](./90937-jigsaw-puzzles-free-by-wallpaperfusion.json) |
+| Jigsaw Puzzles Infinite | 197498 | [197498-jigsaw-puzzles-infinite.json](./197498-jigsaw-puzzles-infinite.json) |
 | Jigsaw Puzzles Infinite: Cats & Dogs Puzzle Pack | 286238 | [286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json](./286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json) |
 | Jigsaw Puzzles Infinite: Classic Puzzle Pack | 263643 | [263643-jigsaw-puzzles-infinite-classic-puzzle-pack.json](./263643-jigsaw-puzzles-infinite-classic-puzzle-pack.json) |
 | Jigsaw Puzzles: Fantasy Landscapes | 240098 | [240098-jigsaw-puzzles-fantasy-landscapes.json](./240098-jigsaw-puzzles-fantasy-landscapes.json) |
@@ -3703,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Touch The WhiteBox!!! | 262355 | [262355-just-touch-the-whitebox.json](./262355-just-touch-the-whitebox.json) |
 | Just Turn Right | 246252 | [246252-just-turn-right.json](./246252-just-turn-right.json) |
 | Just Two | 299732 | [299732-just-two.json](./299732-just-two.json) |
+| Just Upstream | 197483 | [197483-just-upstream.json](./197483-just-upstream.json) |
 | Just Volleyball | 419607 | [419607-just-volleyball.json](./419607-just-volleyball.json) |
 | Just VR Slingshot Target Practice | 29581 | [29581-just-vr-slingshot-target-practice.json](./29581-just-vr-slingshot-target-practice.json) |
 | Just Waiting Cats | 364863 | [364863-just-waiting-cats.json](./364863-just-waiting-cats.json) |
