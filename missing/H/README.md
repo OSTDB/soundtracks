@@ -4336,6 +4336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Frames | 381801 | [381801-hentai-frames.json](./381801-hentai-frames.json) |
 | Hentai Furry | 286401 | [286401-hentai-furry.json](./286401-hentai-furry.json) |
 | Hentai Furry | 340434 | [340434-hentai-furry.json](./340434-hentai-furry.json) |
+| Hentai Furry 3 | 221516 | [221516-hentai-furry-3.json](./221516-hentai-furry-3.json) |
 | Hentai Furry Bunny | 347768 | [347768-hentai-furry-bunny.json](./347768-hentai-furry-bunny.json) |
 | Hentai Furry Cow | 384584 | [384584-hentai-furry-cow.json](./384584-hentai-furry-cow.json) |
 | Hentai Furry Goat | 411126 | [411126-hentai-furry-goat.json](./411126-hentai-furry-goat.json) |
