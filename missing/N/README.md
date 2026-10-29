@@ -5606,6 +5606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noir Lords | 356556 | [356556-noir-lords.json](./356556-noir-lords.json) |
 | Noir Mafia Simulator: 1960s American Crime | 365562 | [365562-noir-mafia-simulator-1960s-american-crime.json](./365562-noir-mafia-simulator-1960s-american-crime.json) |
 | Noir Punk | 150240 | [150240-noir-punk.json](./150240-noir-punk.json) |
+| Noir RPG | 188244 | [188244-noir-rpg.json](./188244-noir-rpg.json) |
 | Noir Storm | 216984 | [216984-noir-storm.json](./216984-noir-storm.json) |
 | Noir Syndrome | 17380 | [17380-noir-syndrome.json](./17380-noir-syndrome.json) |
 | Noir Total: Deadly Party | 343270 | [343270-noir-total-deadly-party.json](./343270-noir-total-deadly-party.json) |
@@ -5843,6 +5844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nora: Forest Nights | 298654 | [298654-nora-forest-nights.json](./298654-nora-forest-nights.json) |
 | Nora: In Search of Hidden Ingredients | 306334 | [306334-nora-in-search-of-hidden-ingredients.json](./306334-nora-in-search-of-hidden-ingredients.json) |
 | Nora: The Wannabe Alchemist + Mosaic Chronicles Deluxe | 305413 | [305413-nora-the-wannabe-alchemist-mosaic-chronicles-deluxe.json](./305413-nora-the-wannabe-alchemist-mosaic-chronicles-deluxe.json) |
+| Nora's AdventurEscape | 188227 | [188227-noras-adventurescape.json](./188227-noras-adventurescape.json) |
 | Nora's Dream | 200732 | [200732-noras-dream.json](./200732-noras-dream.json) |
 | Noracam's Slider Challenge | 215622 | [215622-noracams-slider-challenge.json](./215622-noracams-slider-challenge.json) |
 | Noragami Aragoto | 174843 | [174843-noragami-aragoto.json](./174843-noragami-aragoto.json) |
