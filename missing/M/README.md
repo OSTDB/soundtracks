@@ -13465,6 +13465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Puncher | 50026 | [50026-monkey-puncher.json](./50026-monkey-puncher.json) |
 | Monkey Quest | 182970 | [182970-monkey-quest.json](./182970-monkey-quest.json) |
 | Monkey Quest | 19100 | [19100-monkey-quest.json](./19100-monkey-quest.json) |
+| Monkey Racing | 200276 | [200276-monkey-racing.json](./200276-monkey-racing.json) |
 | Monkey Rush | 87557 | [87557-monkey-rush.json](./87557-monkey-rush.json) |
 | Monkey Shines | 80849 | [80849-monkey-shines.json](./80849-monkey-shines.json) |
 | Monkey Shines 2: Gorilla Warfare | 397411 | [397411-monkey-shines-2-gorilla-warfare.json](./397411-monkey-shines-2-gorilla-warfare.json) |
@@ -19074,6 +19075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Ancients: Dagger | 106989 | [106989-mystery-of-ancients-dagger.json](./106989-mystery-of-ancients-dagger.json) |
 | Mystery of Camp Enigma | 147447 | [147447-mystery-of-camp-enigma.json](./147447-mystery-of-camp-enigma.json) |
 | Mystery of Camp Enigma 2 | 152503 | [152503-mystery-of-camp-enigma-2.json](./152503-mystery-of-camp-enigma-2.json) |
+| Mystery of Fortune 2 | 200302 | [200302-mystery-of-fortune-2.json](./200302-mystery-of-fortune-2.json) |
 | Mystery of Fortune 2 Refine | 187850 | [187850-mystery-of-fortune-2-refine.json](./187850-mystery-of-fortune-2-refine.json) |
 | Mystery of Fortune 3 | 175263 | [175263-mystery-of-fortune-3.json](./175263-mystery-of-fortune-3.json) |
 | Mystery of Gevaudan | 332448 | [332448-mystery-of-gevaudan.json](./332448-mystery-of-gevaudan.json) |
@@ -19132,6 +19134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: Powerful Alchemist 3 | 214006 | [214006-mystery-solitaire-powerful-alchemist-3.json](./214006-mystery-solitaire-powerful-alchemist-3.json) |
 | Mystery Solitaire: Secret Island | 65176 | [65176-mystery-solitaire-secret-island.json](./65176-mystery-solitaire-secret-island.json) |
 | Mystery Solitaire: The Black Raven | 138013 | [138013-mystery-solitaire-the-black-raven.json](./138013-mystery-solitaire-the-black-raven.json) |
+| Mystery Solitaire: The Black Raven 3 | 199741 | [199741-mystery-solitaire-the-black-raven-3.json](./199741-mystery-solitaire-the-black-raven-3.json) |
 | Mystery Solitaire: The Black Raven 4 | 241884 | [241884-mystery-solitaire-the-black-raven-4.json](./241884-mystery-solitaire-the-black-raven-4.json) |
 | Mystery Solitaire: The Black Raven 5 | 254756 | [254756-mystery-solitaire-the-black-raven-5.json](./254756-mystery-solitaire-the-black-raven-5.json) |
 | Mystery Solitaire: The Black Raven 6 | 341352 | [341352-mystery-solitaire-the-black-raven-6.json](./341352-mystery-solitaire-the-black-raven-6.json) |
