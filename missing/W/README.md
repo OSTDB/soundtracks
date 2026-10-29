@@ -2596,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Sing UK Hits | 5274 | [5274-we-sing-uk-hits.json](./5274-we-sing-uk-hits.json) |
 | We Slay Monsters | 36183 | [36183-we-slay-monsters.json](./36183-we-slay-monsters.json) |
 | We Surround You | 150687 | [150687-we-surround-you.json](./150687-we-surround-you.json) |
+| We Survive Tonight | 199227 | [199227-we-survive-tonight.json](./199227-we-survive-tonight.json) |
 | We Suspect Foul Play | 293338 | [293338-we-suspect-foul-play.json](./293338-we-suspect-foul-play.json) |
 | We the People | 236841 | [236841-we-the-people.json](./236841-we-the-people.json) |
 | We The Pixies | 365805 | [365805-we-the-pixies.json](./365805-we-the-pixies.json) |
