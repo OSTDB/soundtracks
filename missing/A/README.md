@@ -13100,6 +13100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes: Afterglow | 184280 | [184280-ashes-afterglow.json](./184280-ashes-afterglow.json) |
 | Ashes: Blackwater | 399273 | [399273-ashes-blackwater.json](./399273-ashes-blackwater.json) |
 | Ashes: Dead Man Walking | 141487 | [141487-ashes-dead-man-walking.json](./141487-ashes-dead-man-walking.json) |
+| Ashes: Exponential RPG | 213762 | [213762-ashes-exponential-rpg.json](./213762-ashes-exponential-rpg.json) |
 | Ashes: Hard Reset | 305124 | [305124-ashes-hard-reset.json](./305124-ashes-hard-reset.json) |
 | Ashfall | 218167 | [218167-ashfall.json](./218167-ashfall.json) |
 | Ashfield Hollow | 349713 | [349713-ashfield-hollow.json](./349713-ashfield-hollow.json) |
