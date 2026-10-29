@@ -8847,6 +8847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Shelter Simulator | 130134 | [130134-animal-shelter-simulator.json](./130134-animal-shelter-simulator.json) |
 | Animal Shelter Simulator: Horse Shelter DLC | 232523 | [232523-animal-shelter-simulator-horse-shelter-dlc.json](./232523-animal-shelter-simulator-horse-shelter-dlc.json) |
 | Animal Shelter Simulator: Puppies & Kittens | 209661 | [209661-animal-shelter-simulator-puppies-and-kittens.json](./209661-animal-shelter-simulator-puppies-and-kittens.json) |
+| Animal Simulator | 189814 | [189814-animal-simulator.json](./189814-animal-simulator.json) |
 | Animal Smash | 365068 | [365068-animal-smash.json](./365068-animal-smash.json) |
 | Animal Soccer World | 43355 | [43355-animal-soccer-world.json](./43355-animal-soccer-world.json) |
 | Animal Stackers | 395870 | [395870-animal-stackers.json](./395870-animal-stackers.json) |
@@ -12590,6 +12591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow: Button Heart | 417341 | [417341-arrow-button-heart.json](./417341-arrow-button-heart.json) |
 | Arrow.io | 86785 | [86785-arrow-io.json](./86785-arrow-io.json) |
 | ArrowBall | 172599 | [172599-arrowball.json](./172599-arrowball.json) |
+| ArrowBase | 189808 | [189808-arrowbase.json](./189808-arrowbase.json) |
 | Arrowbound | 286962 | [286962-arrowbound.json](./286962-arrowbound.json) |
 | Arrowman | 389463 | [389463-arrowman.json](./389463-arrowman.json) |
 | Arrowmancer | 176690 | [176690-arrowmancer.json](./176690-arrowmancer.json) |
