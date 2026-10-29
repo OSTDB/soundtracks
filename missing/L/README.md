@@ -3578,6 +3578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters From a Rainy Day: Oceans and Lace | 152812 | [152812-letters-from-a-rainy-day-oceans-and-lace.json](./152812-letters-from-a-rainy-day-oceans-and-lace.json) |
 | Letters From Nowhere | 54165 | [54165-letters-from-nowhere.json](./54165-letters-from-nowhere.json) |
 | Letters From Nowhere 2 | 54164 | [54164-letters-from-nowhere-2.json](./54164-letters-from-nowhere-2.json) |
+| Letters From the Moon | 186407 | [186407-letters-from-the-moon.json](./186407-letters-from-the-moon.json) |
 | Letters from the War | 340916 | [340916-letters-from-the-war.json](./340916-letters-from-the-war.json) |
 | Letters Long Lost | 153762 | [153762-letters-long-lost.json](./153762-letters-long-lost.json) |
 | Letters of Art | 384324 | [384324-letters-of-art.json](./384324-letters-of-art.json) |
@@ -3660,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leviathan: Warships | 10512 | [10512-leviathan-warships.json](./10512-leviathan-warships.json) |
 | Leviathan's Sword | 199478 | [199478-leviathans-sword.json](./199478-leviathans-sword.json) |
 | Levis Umbra | 241419 | [241419-levis-umbra.json](./241419-levis-umbra.json) |
+| Levitation Simulator | 187051 | [187051-levitation-simulator.json](./187051-levitation-simulator.json) |
 | Levitation Simulator 2 | 339382 | [339382-levitation-simulator-2.json](./339382-levitation-simulator-2.json) |
 | Lew Pulsipher's Doomstar | 32151 | [32151-lew-pulsiphers-doomstar.json](./32151-lew-pulsiphers-doomstar.json) |
 | Lewandowski: Football Star | 247324 | [247324-lewandowski-football-star.json](./247324-lewandowski-football-star.json) |
@@ -7872,6 +7874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Yourself | 268343 | [268343-love-yourself.json](./268343-love-yourself.json) |
 | Love-Colored Memories | 412974 | [412974-love-colored-memories.json](./412974-love-colored-memories.json) |
 | Love, Death & Mummies: Zombie Romance Visual Novel | 303322 | [303322-love-death-and-mummies-zombie-romance-visual-novel.json](./303322-love-death-and-mummies-zombie-romance-visual-novel.json) |
+| Love, Death & Veggies | 186479 | [186479-love-death-and-veggies.json](./186479-love-death-and-veggies.json) |
 | Love, Death and PvP | 250190 | [250190-love-death-and-pvp.json](./250190-love-death-and-pvp.json) |
 | Love, Election & Chocolate | 79167 | [79167-love-election-and-chocolate.json](./79167-love-election-and-chocolate.json) |
 | Love, Ghostie | 204529 | [204529-love-ghostie.json](./204529-love-ghostie.json) |
