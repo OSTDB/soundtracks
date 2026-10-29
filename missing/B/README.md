@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7755,6 +7756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitter Tides | 106404 | [106404-bitter-tides.json](./106404-bitter-tides.json) |
 | Bitter-Sweet Cohabitation | 241372 | [241372-bitter-sweet-cohabitation.json](./241372-bitter-sweet-cohabitation.json) |
 | Bitter/Sweet Blythe | 259475 | [259475-bitter-sweet-blythe.json](./259475-bitter-sweet-blythe.json) |
+| Bitterheim | 201959 | [201959-bitterheim.json](./201959-bitterheim.json) |
 | Bitterroot | 181857 | [181857-bitterroot.json](./181857-bitterroot.json) |
 | Bittersweet | 133953 | [133953-bittersweet.json](./133953-bittersweet.json) |
 | Bittersweet Blossoms | 346214 | [346214-bittersweet-blossoms.json](./346214-bittersweet-blossoms.json) |
@@ -11474,6 +11476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookshop Wonderland: Supermarket Simulator | 320452 | [320452-bookshop-wonderland-supermarket-simulator.json](./320452-bookshop-wonderland-supermarket-simulator.json) |
 | Bookstore Dream | 62950 | [62950-bookstore-dream.json](./62950-bookstore-dream.json) |
 | Bookstore Incremental | 418880 | [418880-bookstore-incremental.json](./418880-bookstore-incremental.json) |
+| Bookstore Simulator | 201950 | [201950-bookstore-simulator.json](./201950-bookstore-simulator.json) |
 | BookStore Simulator | 407491 | [407491-bookstore-simulator.json](./407491-bookstore-simulator.json) |
 | Bookworm | 316279 | [316279-bookworm.json](./316279-bookworm.json) |
 | Bookworm | 8325 | [8325-bookworm.json](./8325-bookworm.json) |
@@ -14373,6 +14376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bù Shàngàn Bù Liànài | 373701 | [373701-bu-shangan-bu-lianai.json](./373701-bu-shangan-bu-lianai.json) |
 | Bub Block | 157985 | [157985-bub-block.json](./157985-bub-block.json) |
 | Bub-O Burst | 319075 | [319075-bub-o-burst.json](./319075-bub-o-burst.json) |
+| Bub-O Collect! | 201982 | [201982-bub-o-collect.json](./201982-bub-o-collect.json) |
 | Bub-O Escape | 280739 | [280739-bub-o-escape.json](./280739-bub-o-escape.json) |
 | Bub's Big Blowout! | 265065 | [265065-bubs-big-blowout.json](./265065-bubs-big-blowout.json) |
 | Bub's Puzzle Blast! | 316032 | [316032-bubs-puzzle-blast.json](./316032-bubs-puzzle-blast.json) |
