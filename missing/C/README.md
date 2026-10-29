@@ -2118,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!! Vanguard Dear Days: Character Set 08 - Jinki Mukae | 270192 | [270192-cardfight-vanguard-dear-days-character-set-08-jinki-mukae.json](./270192-cardfight-vanguard-dear-days-character-set-08-jinki-mukae.json) |
 | Cardfight!! Vanguard Dear Days: Character Set 10 - Samuel Fredson | 270191 | [270191-cardfight-vanguard-dear-days-character-set-10-samuel-fredson.json](./270191-cardfight-vanguard-dear-days-character-set-10-samuel-fredson.json) |
 | Cardfight!! Vanguard EX | 115018 | [115018-cardfight-vanguard-ex.json](./115018-cardfight-vanguard-ex.json) |
+| Cardfight!! Vanguard EX: Digital Deluxe Edition | 221508 | [221508-cardfight-vanguard-ex-digital-deluxe-edition.json](./221508-cardfight-vanguard-ex-digital-deluxe-edition.json) |
 | Cardfight!! Vanguard G: Stride to Victory!! | 81456 | [81456-cardfight-vanguard-g-stride-to-victory.json](./81456-cardfight-vanguard-g-stride-to-victory.json) |
 | Cardfight!! Vanguard Zero | 124770 | [124770-cardfight-vanguard-zero.json](./124770-cardfight-vanguard-zero.json) |
 | Cardfight!! Vanguard: Dear Days - Additional Card Set Vol. 4 D-SS03: Stride Deckset - Chronojet | 254675 | [254675-cardfight-vanguard-dear-days-additional-card-set-vol-4-d-ss03-stride-deckset-chronojet.json](./254675-cardfight-vanguard-dear-days-additional-card-set-vol-4-d-ss03-stride-deckset-chronojet.json) |
