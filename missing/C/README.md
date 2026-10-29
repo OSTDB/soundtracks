@@ -2715,6 +2715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartridge Defense | 132277 | [132277-cartridge-defense.json](./132277-cartridge-defense.json) |
 | Cartridge Monsters | 158030 | [158030-cartridge-monsters.json](./158030-cartridge-monsters.json) |
 | Cartridge Monsters: Rebirth | 278920 | [278920-cartridge-monsters-rebirth.json](./278920-cartridge-monsters-rebirth.json) |
+| Cartridge the Tiger | 203594 | [203594-cartridge-the-tiger.json](./203594-cartridge-the-tiger.json) |
 | Carts Battle | 310071 | [310071-carts-battle.json](./310071-carts-battle.json) |
 | Cartuchito World: Canella Edition | 275621 | [275621-cartuchito-world-canella-edition.json](./275621-cartuchito-world-canella-edition.json) |
 | Carvalho: Los Pájaros de Bangkok | 138790 | [138790-carvalho-los-pajaros-de-bangkok.json](./138790-carvalho-los-pajaros-de-bangkok.json) |
@@ -6261,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicktionary | 375202 | [375202-chicktionary.json](./375202-chicktionary.json) |
 | Chicku | 181397 | [181397-chicku.json](./181397-chicku.json) |
 | Chicku | 33515 | [33515-chicku.json](./33515-chicku.json) |
+| Chickweed | 203626 | [203626-chickweed.json](./203626-chickweed.json) |
 | Chicky Woggy | 305433 | [305433-chicky-woggy.json](./305433-chicky-woggy.json) |
 | Chicky Woggy | 363306 | [363306-chicky-woggy.json](./363306-chicky-woggy.json) |
 | Chicky Woggy | 41421 | [41421-chicky-woggy.json](./41421-chicky-woggy.json) |
@@ -15014,6 +15016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Captain 2019 | 118777 | [118777-cricket-captain-2019.json](./118777-cricket-captain-2019.json) |
 | Cricket Captain 2020 | 137914 | [137914-cricket-captain-2020.json](./137914-cricket-captain-2020.json) |
 | Cricket Captain 2021 | 156212 | [156212-cricket-captain-2021.json](./156212-cricket-captain-2021.json) |
+| Cricket Captain 2022 | 203601 | [203601-cricket-captain-2022.json](./203601-cricket-captain-2022.json) |
 | Cricket Captain 2023 | 252242 | [252242-cricket-captain-2023.json](./252242-cricket-captain-2023.json) |
 | Cricket Captain 2024 | 302184 | [302184-cricket-captain-2024.json](./302184-cricket-captain-2024.json) |
 | Cricket Captain 2025 | 351614 | [351614-cricket-captain-2025.json](./351614-cricket-captain-2025.json) |
