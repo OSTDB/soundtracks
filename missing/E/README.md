@@ -2573,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember's Love | 224310 | [224310-embers-love.json](./224310-embers-love.json) |
 | Ember's Verge | 324303 | [324303-embers-verge.json](./324303-embers-verge.json) |
 | Emberance | 309627 | [309627-emberance.json](./309627-emberance.json) |
+| Emberbane | 210975 | [210975-emberbane.json](./210975-emberbane.json) |
 | Embercast | 421231 | [421231-embercast.json](./421231-embercast.json) |
 | Emberdoom | 32584 | [32584-emberdoom.json](./32584-emberdoom.json) |
 | Emberdoom VR | 106476 | [106476-emberdoom-vr.json](./106476-emberdoom-vr.json) |
