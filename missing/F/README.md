@@ -7278,6 +7278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floppy Jump 3-in-1 | 385550 | [385550-floppy-jump-3-in-1.json](./385550-floppy-jump-3-in-1.json) |
 | Floppy Knights: Version 2.0 | 230299 | [230299-floppy-knights-version-2-0.json](./230299-floppy-knights-version-2-0.json) |
 | Floppy Minecraft | 144104 | [144104-floppy-minecraft.json](./144104-floppy-minecraft.json) |
+| Floppy Pipe | 184712 | [184712-floppy-pipe.json](./184712-floppy-pipe.json) |
 | Floppy Turd | 233402 | [233402-floppy-turd.json](./233402-floppy-turd.json) |
 | Flora | 364685 | [364685-flora.json](./364685-flora.json) |
 | Flora and Sauna | 201035 | [201035-flora-and-sauna.json](./201035-flora-and-sauna.json) |
