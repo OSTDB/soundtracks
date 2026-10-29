@@ -11909,6 +11909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argon Swamp | 137308 | [137308-argon-swamp.json](./137308-argon-swamp.json) |
 | Argonauts Agency: Ares Games | 360665 | [360665-argonauts-agency-ares-games.json](./360665-argonauts-agency-ares-games.json) |
 | Argonauts Agency: Ares Games - Collector's Edition | 338664 | [338664-argonauts-agency-ares-games-collectors-edition.json](./338664-argonauts-agency-ares-games-collectors-edition.json) |
+| Argonauts Agency: Captive of Circe | 190871 | [190871-argonauts-agency-captive-of-circe.json](./190871-argonauts-agency-captive-of-circe.json) |
 | Argonauts Agency: Captive of Circe - Collectors Edition | 357334 | [357334-argonauts-agency-captive-of-circe-collectors-edition.json](./357334-argonauts-agency-captive-of-circe-collectors-edition.json) |
 | Argonauts Agency: Chair of Hephaestus | 188084 | [188084-argonauts-agency-chair-of-hephaestus.json](./188084-argonauts-agency-chair-of-hephaestus.json) |
 | Argonauts Agency: Chair of Hephaestus - Collector's Edition | 357335 | [357335-argonauts-agency-chair-of-hephaestus-collectors-edition.json](./357335-argonauts-agency-chair-of-hephaestus-collectors-edition.json) |
@@ -12246,6 +12247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armageddon Operation Dragon | 84978 | [84978-armageddon-operation-dragon.json](./84978-armageddon-operation-dragon.json) |
 | Armageddon Riders | 84152 | [84152-armageddon-riders.json](./84152-armageddon-riders.json) |
 | Armageddon Riders + Planets Under Attack Bundle | 99803 | [99803-armageddon-riders-planets-under-attack-bundle.json](./99803-armageddon-riders-planets-under-attack-bundle.json) |
+| Armageddon: For the Crimson Glory | 191374 | [191374-armageddon-for-the-crimson-glory.json](./191374-armageddon-for-the-crimson-glory.json) |
 | Armageddonica | 361832 | [361832-armageddonica.json](./361832-armageddonica.json) |
 | ArmageDoom | 201231 | [201231-armagedoom.json](./201231-armagedoom.json) |
 | Armagetron Advanced | 51244 | [51244-armagetron-advanced.json](./51244-armagetron-advanced.json) |
@@ -13801,6 +13803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids Deluxe | 13689 | [13689-asteroids-deluxe.json](./13689-asteroids-deluxe.json) |
 | Asteroids Deluxe: Evolved | 329638 | [329638-asteroids-deluxe-evolved.json](./329638-asteroids-deluxe-evolved.json) |
 | Asteroids Do Concern Me | 91806 | [91806-asteroids-do-concern-me.json](./91806-asteroids-do-concern-me.json) |
+| Asteroids Extreme | 190823 | [190823-asteroids-extreme.json](./190823-asteroids-extreme.json) |
 | Asteroids Hyper 64 | 10664 | [10664-asteroids-hyper-64.json](./10664-asteroids-hyper-64.json) |
 | Asteroids Maneuvers | 149946 | [149946-asteroids-maneuvers.json](./149946-asteroids-maneuvers.json) |
 | Asteroids Millennium | 51716 | [51716-asteroids-millennium.json](./51716-asteroids-millennium.json) |
