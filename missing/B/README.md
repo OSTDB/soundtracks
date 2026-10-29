@@ -7252,6 +7252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Rebirth | 283997 | [283997-bionic-rebirth.json](./283997-bionic-rebirth.json) |
 | Bionic Shield: Battle for Space Nebula Omega | 189123 | [189123-bionic-shield-battle-for-space-nebula-omega.json](./189123-bionic-shield-battle-for-space-nebula-omega.json) |
 | Bionic Slammer | 236324 | [236324-bionic-slammer.json](./236324-bionic-slammer.json) |
+| Bionic Tadpole | 203629 | [203629-bionic-tadpole.json](./203629-bionic-tadpole.json) |
 | Bionicle Defenders | 343283 | [343283-bionicle-defenders.json](./343283-bionicle-defenders.json) |
 | Bionicle Heroes | 200958 | [200958-bionicle-heroes.json](./200958-bionicle-heroes.json) |
 | Bionicle Heroes | 200959 | [200959-bionicle-heroes.json](./200959-bionicle-heroes.json) |
@@ -14744,6 +14745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Bounce | 401068 | [401068-bug-bounce.json](./401068-bug-bounce.json) |
 | Bug Bunny: Discontroll | 373729 | [373729-bug-bunny-discontroll.json](./373729-bug-bunny-discontroll.json) |
 | Bug Busters | 271389 | [271389-bug-busters.json](./271389-bug-busters.json) |
+| Bug Butcher | 203622 | [203622-bug-butcher.json](./203622-bug-butcher.json) |
 | Bug Catcher | 287651 | [287651-bug-catcher.json](./287651-bug-catcher.json) |
 | Bug Catcher | 380039 | [380039-bug-catcher.json](./380039-bug-catcher.json) |
 | Bug Cleaners | 336030 | [336030-bug-cleaners.json](./336030-bug-cleaners.json) |
@@ -15726,6 +15728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burrow | 287496 | [287496-burrow.json](./287496-burrow.json) |
 | Burrow | 376800 | [376800-burrow.json](./376800-burrow.json) |
 | Burrow burrow | 159784 | [159784-burrow-burrow.json](./159784-burrow-burrow.json) |
+| Burrow of the Fallen Bear: A Gay Furry Visual Novel | 203636 | [203636-burrow-of-the-fallen-bear-a-gay-furry-visual-novel.json](./203636-burrow-of-the-fallen-bear-a-gay-furry-visual-novel.json) |
 | Burrow Wing | 327760 | [327760-burrow-wing.json](./327760-burrow-wing.json) |
 | Burrows | 178397 | [178397-burrows.json](./178397-burrows.json) |
 | Burrows | 377195 | [377195-burrows.json](./377195-burrows.json) |
