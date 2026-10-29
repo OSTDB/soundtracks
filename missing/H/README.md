@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Monogatari Collection | 49589 | [49589-hamster-monogatari-collection.json](./49589-hamster-monogatari-collection.json) |
 | Hamster Monogatari GB + Magi Ham Mahou no Shoujo | 97853 | [97853-hamster-monogatari-gb-magi-ham-mahou-no-shoujo.json](./97853-hamster-monogatari-gb-magi-ham-mahou-no-shoujo.json) |
 | Hamster no Odekake | 387298 | [387298-hamster-no-odekake.json](./387298-hamster-no-odekake.json) |
+| Hamster on Rails | 204145 | [204145-hamster-on-rails.json](./204145-hamster-on-rails.json) |
 | Hamster Panic | 151743 | [151743-hamster-panic.json](./151743-hamster-panic.json) |
 | Hamster Paradise | 228499 | [228499-hamster-paradise.json](./228499-hamster-paradise.json) |
 | Hamster Paradise 2 | 281544 | [281544-hamster-paradise-2.json](./281544-hamster-paradise-2.json) |
@@ -1715,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardCube | 32302 | [32302-hardcube.json](./32302-hardcube.json) |
 | HardCube 2 | 220033 | [220033-hardcube-2.json](./220033-hardcube-2.json) |
 | HardDriverz | 365150 | [365150-harddriverz.json](./365150-harddriverz.json) |
+| Hardenville | 204146 | [204146-hardenville.json](./204146-hardenville.json) |
 | Harder | 334707 | [334707-harder.json](./334707-harder.json) |
 | Harder Mario Bros. Meltdown | 335627 | [335627-harder-mario-bros-meltdown.json](./335627-harder-mario-bros-meltdown.json) |
 | Harder Parkour | 380117 | [380117-harder-parkour.json](./380117-harder-parkour.json) |
@@ -2853,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart is Muscle | 181933 | [181933-heart-is-muscle.json](./181933-heart-is-muscle.json) |
 | Heart Keeper | 342634 | [342634-heart-keeper.json](./342634-heart-keeper.json) |
 | Heart Knots | 138022 | [138022-heart-knots.json](./138022-heart-knots.json) |
+| Heart Lake | 204147 | [204147-heart-lake.json](./204147-heart-lake.json) |
 | Heart Maze | 40994 | [40994-heart-maze.json](./40994-heart-maze.json) |
 | Heart no Kuni no Alice: Wonderful Twin World | 218642 | [218642-heart-no-kuni-no-alice-wonderful-twin-world.json](./218642-heart-no-kuni-no-alice-wonderful-twin-world.json) |
 | Heart of a Knight | 322078 | [322078-heart-of-a-knight.json](./322078-heart-of-a-knight.json) |
@@ -3150,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven's Door | 231057 | [231057-heavens-door.json](./231057-heavens-door.json) |
 | Heaven's Door | 393565 | [393565-heavens-door.json](./393565-heavens-door.json) |
 | Heaven's Dream | 258929 | [258929-heavens-dream.json](./258929-heavens-dream.json) |
+| Heaven's Fox | 204148 | [204148-heavens-fox.json](./204148-heavens-fox.json) |
 | Heaven's Gambler | 348738 | [348738-heavens-gambler.json](./348738-heavens-gambler.json) |
 | Heaven's Glaive | 387362 | [387362-heavens-glaive.json](./387362-heavens-glaive.json) |
 | Heaven's Grave | 121473 | [121473-heavens-grave.json](./121473-heavens-grave.json) |
