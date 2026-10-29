@@ -5609,6 +5609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Memory Puzzle: Spanking Girls | 248658 | [248658-sexy-memory-puzzle-spanking-girls.json](./248658-sexy-memory-puzzle-spanking-girls.json) |
 | Sexy Memory Puzzle: Sports Car Futanari | 340606 | [340606-sexy-memory-puzzle-sports-car-futanari.json](./340606-sexy-memory-puzzle-sports-car-futanari.json) |
 | Sexy Memory Puzzle: Sports Car Girl | 340605 | [340605-sexy-memory-puzzle-sports-car-girl.json](./340605-sexy-memory-puzzle-sports-car-girl.json) |
+| Sexy Milf Town | 212607 | [212607-sexy-milf-town.json](./212607-sexy-milf-town.json) |
 | Sexy Milfs | 230905 | [230905-sexy-milfs.json](./230905-sexy-milfs.json) |
 | Sexy Miss | 116264 | [116264-sexy-miss.json](./116264-sexy-miss.json) |
 | Sexy Mystic Survivors | 199508 | [199508-sexy-mystic-survivors.json](./199508-sexy-mystic-survivors.json) |
@@ -23749,6 +23750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
 | Stories | 292753 | [292753-stories.json](./292753-stories.json) |
 | Stories and Smoke | 153799 | [153799-stories-and-smoke.json](./153799-stories-and-smoke.json) |
+| Stories from Sol: The Gun-Dog | 212585 | [212585-stories-from-sol-the-gun-dog.json](./212585-stories-from-sol-the-gun-dog.json) |
 | Stories From the Cores | 231774 | [231774-stories-from-the-cores.json](./231774-stories-from-the-cores.json) |
 | Stories in Glass: Winter | 274911 | [274911-stories-in-glass-winter.json](./274911-stories-in-glass-winter.json) |
 | Stories In Stone | 106434 | [106434-stories-in-stone.json](./106434-stories-in-stone.json) |
