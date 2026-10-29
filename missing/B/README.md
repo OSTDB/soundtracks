@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -920,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badpak | 271952 | [271952-badpak.json](./271952-badpak.json) |
 | BadRobots VR | 59142 | [59142-badrobots-vr.json](./59142-badrobots-vr.json) |
 | BadSmith | 223365 | [223365-badsmith.json](./223365-badsmith.json) |
+| BadTrip | 193084 | [193084-badtrip.json](./193084-badtrip.json) |
 | Baduk Challenge | 365880 | [365880-baduk-challenge.json](./365880-baduk-challenge.json) |
 | BadukPop | 266954 | [266954-badukpop.json](./266954-badukpop.json) |
 | Badventure | 267257 | [267257-badventure.json](./267257-badventure.json) |
@@ -3261,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Sea 3D | 163895 | [163895-battle-for-sea-3d.json](./163895-battle-for-sea-3d.json) |
 | Battle for the Ashes | 14290 | [14290-battle-for-the-ashes.json](./14290-battle-for-the-ashes.json) |
 | Battle for the Board | 259091 | [259091-battle-for-the-board.json](./259091-battle-for-the-board.json) |
+| Battle for the Droid Station | 193093 | [193093-battle-for-the-droid-station.json](./193093-battle-for-the-droid-station.json) |
 | Battle for the Galaxy | 54955 | [54955-battle-for-the-galaxy.json](./54955-battle-for-the-galaxy.json) |
 | Battle For The Hill | 294123 | [294123-battle-for-the-hill.json](./294123-battle-for-the-hill.json) |
 | Battle for the Kingdom | 156631 | [156631-battle-for-the-kingdom.json](./156631-battle-for-the-kingdom.json) |
@@ -7869,6 +7872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Blade | 293097 | [293097-black-blade.json](./293097-black-blade.json) |
 | Black blood | 132781 | [132781-black-blood.json](./132781-black-blood.json) |
 | Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
+| Black Book: Endless Battles | 193627 | [193627-black-book-endless-battles.json](./193627-black-book-endless-battles.json) |
 | Black Border II | 374564 | [374564-black-border-ii.json](./374564-black-border-ii.json) |
 | Black Border Patrol Simulator | 139646 | [139646-black-border-patrol-simulator.json](./139646-black-border-patrol-simulator.json) |
 | Black Border: Border Simulator | 174205 | [174205-black-border-border-simulator.json](./174205-black-border-border-simulator.json) |
@@ -8368,6 +8372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade & Soul Heroes | 347649 | [347649-blade-and-soul-heroes.json](./347649-blade-and-soul-heroes.json) |
 | Blade & Soul Neo | 333270 | [333270-blade-and-soul-neo.json](./333270-blade-and-soul-neo.json) |
 | Blade & Soul: Revolution | 143626 | [143626-blade-and-soul-revolution.json](./143626-blade-and-soul-revolution.json) |
+| Blade & Sword | 193611 | [193611-blade-and-sword.json](./193611-blade-and-sword.json) |
 | Blade & Sword 2: Ancient Legend | 379912 | [379912-blade-and-sword-2-ancient-legend.json](./379912-blade-and-sword-2-ancient-legend.json) |
 | Blade 9 Online | 60964 | [60964-blade-9-online.json](./60964-blade-9-online.json) |
 | Blade Abyss | 246014 | [246014-blade-abyss.json](./246014-blade-abyss.json) |
@@ -11611,6 +11616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomer | 410649 | [410649-boomer.json](./410649-boomer.json) |
 | Boomer Brawler | 355616 | [355616-boomer-brawler.json](./355616-boomer-brawler.json) |
 | Boomer Simulator | 142729 | [142729-boomer-simulator.json](./142729-boomer-simulator.json) |
+| Boomer Slayers | 193587 | [193587-boomer-slayers.json](./193587-boomer-slayers.json) |
 | Boomer Zombie | 211250 | [211250-boomer-zombie.json](./211250-boomer-zombie.json) |
 | Boomer: Beyond Vanilla | 260500 | [260500-boomer-beyond-vanilla.json](./260500-boomer-beyond-vanilla.json) |
 | Boomerang | 279059 | [279059-boomerang.json](./279059-boomerang.json) |
@@ -14103,6 +14109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrokenLore: Ascend | 377235 | [377235-brokenlore-ascend.json](./377235-brokenlore-ascend.json) |
 | BrokenLore: Don't Lie | 370708 | [370708-brokenlore-dont-lie.json](./370708-brokenlore-dont-lie.json) |
 | BrokenLore: Low | 304308 | [304308-brokenlore-low.json](./304308-brokenlore-low.json) |
+| Brolections 2022 | 193078 | [193078-brolections-2022.json](./193078-brolections-2022.json) |
 | Broll | 140843 | [140843-broll.json](./140843-broll.json) |
 | Bromeliad | 158053 | [158053-bromeliad.json](./158053-bromeliad.json) |
 | Brominion | 335637 | [335637-brominion.json](./335637-brominion.json) |
@@ -15643,6 +15650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burial Ground | 375554 | [375554-burial-ground.json](./375554-burial-ground.json) |
 | Burial Stone | 196988 | [196988-burial-stone.json](./196988-burial-stone.json) |
 | BuriBoard | 173256 | [173256-buriboard.json](./173256-buriboard.json) |
+| Buried | 193083 | [193083-buried.json](./193083-buried.json) |
 | Buried | 272235 | [272235-buried.json](./272235-buried.json) |
 | Buried | 380046 | [380046-buried.json](./380046-buried.json) |
 | Buried Alive: Breathless Rescue | 258999 | [258999-buried-alive-breathless-rescue.json](./258999-buried-alive-breathless-rescue.json) |
