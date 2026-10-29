@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octofoot | 180446 | [180446-octofoot.json](./180446-octofoot.json) |
 | OctoFurry | 128971 | [128971-octofurry.json](./128971-octofurry.json) |
 | Octogram | 265686 | [265686-octogram.json](./265686-octogram.json) |
+| OctoMaze | 199725 | [199725-octomaze.json](./199725-octomaze.json) |
 | Octonauts | 230394 | [230394-octonauts.json](./230394-octonauts.json) |
 | Octonauts and the Giant Squid | 387410 | [387410-octonauts-and-the-giant-squid.json](./387410-octonauts-and-the-giant-squid.json) |
 | Octonauts and the Whale Shark | 227525 | [227525-octonauts-and-the-whale-shark.json](./227525-octonauts-and-the-whale-shark.json) |
@@ -1563,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMG: One More Goal - Basic Campaigns Pack | 226124 | [226124-omg-one-more-goal-basic-campaigns-pack.json](./226124-omg-one-more-goal-basic-campaigns-pack.json) |
 | OMG: One More Goal! | 157072 | [157072-omg-one-more-goal.json](./157072-omg-one-more-goal.json) |
 | OMG: Our Manic Game | 66420 | [66420-omg-our-manic-game.json](./66420-omg-our-manic-game.json) |
+| OMG: TD! | 200263 | [200263-omg-td.json](./200263-omg-td.json) |
 | Omg! Not Another Isekai | 272966 | [272966-omg-not-another-isekai.json](./272966-omg-not-another-isekai.json) |
 | OMG!: Overhead Micro Game | 379711 | [379711-omg-overhead-micro-game.json](./379711-omg-overhead-micro-game.json) |
 | Omh | 277227 | [277227-omh.json](./277227-omh.json) |
@@ -2322,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Room Dungeon | 182164 | [182164-one-room-dungeon.json](./182164-one-room-dungeon.json) |
 | One Room Dungeon | 319069 | [319069-one-room-dungeon.json](./319069-one-room-dungeon.json) |
 | One Room Hotel | 178654 | [178654-one-room-hotel.json](./178654-one-room-hotel.json) |
+| One Room VR: Yui Edition | 200266 | [200266-one-room-vr-yui-edition.json](./200266-one-room-vr-yui-edition.json) |
 | One Room: Prisoner's Dilemma | 304353 | [304353-one-room-prisoners-dilemma.json](./304353-one-room-prisoners-dilemma.json) |
 | One Room: Yui Hanasaka Memorial | 326122 | [326122-one-room-yui-hanasaka-memorial.json](./326122-one-room-yui-hanasaka-memorial.json) |
 | One Rotten Oath | 358376 | [358376-one-rotten-oath.json](./358376-one-rotten-oath.json) |
