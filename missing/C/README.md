@@ -2283,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards On The Table | 412462 | [412462-cards-on-the-table.json](./412462-cards-on-the-table.json) |
 | Cards Survivors | 246487 | [246487-cards-survivors.json](./246487-cards-survivors.json) |
 | Cards We're Dealt | 244741 | [244741-cards-were-dealt.json](./244741-cards-were-dealt.json) |
+| Cards with Personalities | 182661 | [182661-cards-with-personalities.json](./182661-cards-with-personalities.json) |
 | Cards with Personalities Classic | 291620 | [291620-cards-with-personalities-classic.json](./291620-cards-with-personalities-classic.json) |
 | Cards, the Universe and Everything | 379187 | [379187-cards-the-universe-and-everything.json](./379187-cards-the-universe-and-everything.json) |
 | Cards, Universe & Everything | 248154 | [248154-cards-universe-and-everything.json](./248154-cards-universe-and-everything.json) |
