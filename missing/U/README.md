@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Un-Matching Game | 307293 | [307293-un-matching-game.json](./307293-un-matching-game.json) |
 | Un-Usual Hotline | 352520 | [352520-un-usual-hotline.json](./352520-un-usual-hotline.json) |
 | Un:Birthday Song ~Ai wo Utau Shinigami~ | 54919 | [54919-un-birthday-song-ai-wo-utau-shinigami.json](./54919-un-birthday-song-ai-wo-utau-shinigami.json) |
+| Un:Birthday Song: Ai wo Utau Shinigami - Another Record | 199219 | [199219-un-birthday-song-ai-wo-utau-shinigami-another-record.json](./199219-un-birthday-song-ai-wo-utau-shinigami-another-record.json) |
 | Un:logical | 320393 | [320393-un-logical.json](./320393-un-logical.json) |
 | UN:Me | 381080 | [381080-un-me.json](./381080-un-me.json) |
 | Un/Fragment | 289925 | [289925-un-fragment.json](./289925-un-fragment.json) |
@@ -1396,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undefined Game Pack | 346500 | [346500-undefined-game-pack.json](./346500-undefined-game-pack.json) |
 | Undelve | 406050 | [406050-undelve.json](./406050-undelve.json) |
 | Undemon | 182363 | [182363-undemon.json](./182363-undemon.json) |
+| Under | 200292 | [200292-under.json](./200292-under.json) |
 | Under | 233136 | [233136-under.json](./233136-under.json) |
 | Under a Caustic Snow, I Danced | 129503 | [129503-under-a-caustic-snow-i-danced.json](./129503-under-a-caustic-snow-i-danced.json) |
 | Under a Desert Sun | 29561 | [29561-under-a-desert-sun.json](./29561-under-a-desert-sun.json) |
