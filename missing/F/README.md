@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail: Hero's Journey | 59806 | [59806-fairy-tail-heros-journey.json](./59806-fairy-tail-heros-journey.json) |
 | Fairy Tail: Portable Guild | 44480 | [44480-fairy-tail-portable-guild.json](./44480-fairy-tail-portable-guild.json) |
 | Fairy Tail: Zeref's Awakening | 63398 | [63398-fairy-tail-zerefs-awakening.json](./63398-fairy-tail-zerefs-awakening.json) |
+| Fairy Tale | 208745 | [208745-fairy-tale.json](./208745-fairy-tale.json) |
 | Fairy Tale | 269419 | [269419-fairy-tale.json](./269419-fairy-tale.json) |
 | Fairy Tale Busters | 56571 | [56571-fairy-tale-busters.json](./56571-fairy-tale-busters.json) |
 | Fairy Tale Diaries | 110972 | [110972-fairy-tale-diaries.json](./110972-fairy-tale-diaries.json) |
@@ -12105,6 +12106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury Roads Survivor | 243322 | [243322-fury-roads-survivor.json](./243322-fury-roads-survivor.json) |
 | Fury Strike | 107918 | [107918-fury-strike.json](./107918-fury-strike.json) |
 | Fury Turn | 220421 | [220421-fury-turn.json](./220421-fury-turn.json) |
+| Fury Unleashed: Bang Edition | 208748 | [208748-fury-unleashed-bang-edition.json](./208748-fury-unleashed-bang-edition.json) |
 | Fury! | 372209 | [372209-fury.json](./372209-fury.json) |
 | Fury's Path: To The Stars | 384299 | [384299-furys-path-to-the-stars.json](./384299-furys-path-to-the-stars.json) |
 | Fury's Sky | 121334 | [121334-furys-sky.json](./121334-furys-sky.json) |
