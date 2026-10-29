@@ -1561,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abalone | 9939 | [9939-abalone.json](./9939-abalone.json) |
 | Abalyte | 110692 | [110692-abalyte.json](./110692-abalyte.json) |
 | Aban Hawkins & the 1000 Spikes | 91756 | [91756-aban-hawkins-and-the-1000-spikes.json](./91756-aban-hawkins-and-the-1000-spikes.json) |
+| Abandon | 222631 | [222631-abandon.json](./222631-abandon.json) |
 | Abandon | 91827 | [91827-abandon.json](./91827-abandon.json) |
 | Abandon: The Town | 268033 | [268033-abandon-the-town.json](./268033-abandon-the-town.json) |
 | Abandon02 | 129084 | [129084-abandon02.json](./129084-abandon02.json) |
@@ -9819,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Any Way Out | 298447 | [298447-any-way-out.json](./298447-any-way-out.json) |
 | Any World | 192794 | [192794-any-world.json](./192794-any-world.json) |
 | Any.One Online | 209772 | [209772-any-one-online.json](./209772-any-one-online.json) |
+| Anya's Dodgeball Challenge | 222652 | [222652-anyas-dodgeball-challenge.json](./222652-anyas-dodgeball-challenge.json) |
 | AnyCircuit | 385289 | [385289-anycircuit.json](./385289-anycircuit.json) |
 | Anyek | 154313 | [154313-anyek.json](./154313-anyek.json) |
 | Anykey | 89671 | [89671-anykey.json](./89671-anykey.json) |
