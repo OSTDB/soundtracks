@@ -6243,6 +6243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliensurf | 71539 | [71539-aliensurf.json](./71539-aliensurf.json) |
 | AlienSurvival | 106129 | [106129-aliensurvival.json](./106129-aliensurvival.json) |
 | AlienXcape | 322359 | [322359-alienxcape.json](./322359-alienxcape.json) |
+| Alienxplode | 185272 | [185272-alienxplode.json](./185272-alienxplode.json) |
 | Alienz | 116399 | [116399-alienz.json](./116399-alienz.json) |
 | Alienz! | 338921 | [338921-alienz.json](./338921-alienz.json) |
 | Alienzix: CyberNet | 330938 | [330938-alienzix-cybernet.json](./330938-alienzix-cybernet.json) |
@@ -7765,6 +7766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Us | 230236 | [230236-among-us.json](./230236-among-us.json) |
 | Among Us | 353925 | [353925-among-us.json](./353925-among-us.json) |
 | Among Us 3D | 332784 | [332784-among-us-3d.json](./332784-among-us-3d.json) |
+| Among Us 3D: VR | 185254 | [185254-among-us-3d-vr.json](./185254-among-us-3d-vr.json) |
 | Among Us 3D: VR - The Tracker | 377655 | [377655-among-us-3d-vr-the-tracker.json](./377655-among-us-3d-vr-the-tracker.json) |
 | Among Us Arena: Ultimate | 216295 | [216295-among-us-arena-ultimate.json](./216295-among-us-arena-ultimate.json) |
 | Among Us Story: On Guard | 404707 | [404707-among-us-story-on-guard.json](./404707-among-us-story-on-guard.json) |
