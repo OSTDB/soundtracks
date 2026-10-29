@@ -5866,6 +5866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillars Of Fog | 337165 | [337165-pillars-of-fog.json](./337165-pillars-of-fog.json) |
 | Pillars of Garendall | 69873 | [69873-pillars-of-garendall.json](./69873-pillars-of-garendall.json) |
 | Pillars of Light | 197018 | [197018-pillars-of-light.json](./197018-pillars-of-light.json) |
+| Pillars of Sorrow | 187645 | [187645-pillars-of-sorrow.json](./187645-pillars-of-sorrow.json) |
 | Pillars on Poppy Hills | 152095 | [152095-pillars-on-poppy-hills.json](./152095-pillars-on-poppy-hills.json) |
 | Pillazon: MMO Drug Lord Tycoon | 227794 | [227794-pillazon-mmo-drug-lord-tycoon.json](./227794-pillazon-mmo-drug-lord-tycoon.json) |
 | Pilli Adventure | 76534 | [76534-pilli-adventure.json](./76534-pilli-adventure.json) |
@@ -13896,6 +13897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project CARS: Stanceworks Track Expansion | 120189 | [120189-project-cars-stanceworks-track-expansion.json](./120189-project-cars-stanceworks-track-expansion.json) |
 | Project CARS: US Race Car Pack | 120188 | [120188-project-cars-us-race-car-pack.json](./120188-project-cars-us-race-car-pack.json) |
 | Project Cartaphilus | 266796 | [266796-project-cartaphilus.json](./266796-project-cartaphilus.json) |
+| Project Castaway | 187690 | [187690-project-castaway.json](./187690-project-castaway.json) |
 | Project Castlevania Z | 337172 | [337172-project-castlevania-z.json](./337172-project-castlevania-z.json) |
 | Project Cataclysm | 393653 | [393653-project-cataclysm.json](./393653-project-cataclysm.json) |
 | Project Centauri | 115494 | [115494-project-centauri.json](./115494-project-centauri.json) |
@@ -16085,6 +16087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Bots | 10731 | [10731-puzzle-bots.json](./10731-puzzle-bots.json) |
 | Puzzle Bowling | 158143 | [158143-puzzle-bowling.json](./158143-puzzle-bowling.json) |
 | Puzzle Box | 166072 | [166072-puzzle-box.json](./166072-puzzle-box.json) |
+| Puzzle Box | 187689 | [187689-puzzle-box.json](./187689-puzzle-box.json) |
 | Puzzle Box | 27037 | [27037-puzzle-box.json](./27037-puzzle-box.json) |
 | Puzzle Box - Classic Puzzles All in One | 103908 | [103908-puzzle-box-classic-puzzles-all-in-one.json](./103908-puzzle-box-classic-puzzles-all-in-one.json) |
 | Puzzle Box 3 in 1 | 151600 | [151600-puzzle-box-3-in-1.json](./151600-puzzle-box-3-in-1.json) |
