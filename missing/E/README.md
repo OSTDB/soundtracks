@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ekphrasis | 405494 | [405494-ekphrasis.json](./405494-ekphrasis.json) |
 | Eksperyment Delfin | 283112 | [283112-eksperyment-delfin.json](./283112-eksperyment-delfin.json) |
 | Ekudorado: Kagami no Naka no Oukoku | 66167 | [66167-ekudorado-kagami-no-naka-no-oukoku.json](./66167-ekudorado-kagami-no-naka-no-oukoku.json) |
+| Ekurbanizu | 180945 | [180945-ekurbanizu.json](./180945-ekurbanizu.json) |
 | El | 262203 | [262203-el.json](./262203-el.json) |
 | El Akelarre de Lola | 335722 | [335722-el-akelarre-de-lola.json](./335722-el-akelarre-de-lola.json) |
 | El Boletero: The Space Ticketer | 333044 | [333044-el-boletero-the-space-ticketer.json](./333044-el-boletero-the-space-ticketer.json) |
@@ -6689,6 +6690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exerion II: Zorni | 37189 | [37189-exerion-ii-zorni.json](./37189-exerion-ii-zorni.json) |
 | Exertainment Mountain Bike Rally / Speed Racer | 60204 | [60204-exertainment-mountain-bike-rally-speed-racer.json](./60204-exertainment-mountain-bike-rally-speed-racer.json) |
 | Exertus | 120109 | [120109-exertus.json](./120109-exertus.json) |
+| Exertus: Redux | 180968 | [180968-exertus-redux.json](./180968-exertus-redux.json) |
 | Exes Assault!! | 187397 | [187397-exes-assault.json](./187397-exes-assault.json) |
 | Exeter Castle | 370016 | [370016-exeter-castle.json](./370016-exeter-castle.json) |
 | Exfil | 278819 | [278819-exfil.json](./278819-exfil.json) |
