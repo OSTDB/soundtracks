@@ -1408,7 +1408,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys II Eternal | 124502 | [124502-ys-ii-eternal.json](./124502-ys-ii-eternal.json) |
 | Ys II: Ancient Ys Vanished - The Final Chapter | 15449 | [15449-ys-ii-ancient-ys-vanished-the-final-chapter.json](./15449-ys-ii-ancient-ys-vanished-the-final-chapter.json) |
 | Ys II: Ancient Ys Vanished - The Final Chapter | 206639 | [206639-ys-ii-ancient-ys-vanished-the-final-chapter.json](./206639-ys-ii-ancient-ys-vanished-the-final-chapter.json) |
+| Ys III | 206522 | [206522-ys-iii.json](./206522-ys-iii.json) |
 | Ys III: Wanderers from Ys | 201313 | [201313-ys-iii-wanderers-from-ys.json](./201313-ys-iii-wanderers-from-ys.json) |
+| Ys III: Wanderers from Ys | 206524 | [206524-ys-iii-wanderers-from-ys.json](./206524-ys-iii-wanderers-from-ys.json) |
 | Ys III: Wanderers from Ys | 375490 | [375490-ys-iii-wanderers-from-ys.json](./375490-ys-iii-wanderers-from-ys.json) |
 | Ys IV: Mask of the Sun | 15451 | [15451-ys-iv-mask-of-the-sun.json](./15451-ys-iv-mask-of-the-sun.json) |
 | Ys IV: The Dawn of Ys | 15452 | [15452-ys-iv-the-dawn-of-ys.json](./15452-ys-iv-the-dawn-of-ys.json) |
@@ -1474,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys: Memories of Celceta - Silver Anniversary Edition | 42679 | [42679-ys-memories-of-celceta-silver-anniversary-edition.json](./42679-ys-memories-of-celceta-silver-anniversary-edition.json) |
 | Ys: The Vanished Omens | 206129 | [206129-ys-the-vanished-omens.json](./206129-ys-the-vanished-omens.json) |
 | Ys: Wanderers from Ys | 15450 | [15450-ys-wanderers-from-ys.json](./15450-ys-wanderers-from-ys.json) |
+| Ys: Wanderers from Ys | 206523 | [206523-ys-wanderers-from-ys.json](./206523-ys-wanderers-from-ys.json) |
 | YSFlight | 50309 | [50309-ysflight.json](./50309-ysflight.json) |
 | Ytbb | 188456 | [188456-ytbb.json](./188456-ytbb.json) |
 | YTP All-Stars | 370903 | [370903-ytp-all-stars.json](./370903-ytp-all-stars.json) |
