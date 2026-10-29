@@ -3243,6 +3243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telepaint | 19985 | [19985-telepaint.json](./19985-telepaint.json) |
 | Telepath of Evil | 339411 | [339411-telepath-of-evil.json](./339411-telepath-of-evil.json) |
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
+| Telepath Tactics Liberated | 189802 | [189802-telepath-tactics-liberated.json](./189802-telepath-tactics-liberated.json) |
 | Telepathy | 282667 | [282667-telepathy.json](./282667-telepathy.json) |
 | Teleport Jumper | 312044 | [312044-teleport-jumper.json](./312044-teleport-jumper.json) |
 | Teleport Master | 332798 | [332798-teleport-master.json](./332798-teleport-master.json) |
@@ -6527,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Closure | 249767 | [249767-the-closure.json](./249767-the-closure.json) |
 | The Clot Thickens | 156578 | [156578-the-clot-thickens.json](./156578-the-clot-thickens.json) |
 | The Clotted Island | 128591 | [128591-the-clotted-island.json](./128591-the-clotted-island.json) |
+| The Cloud Dream of the Nine | 189817 | [189817-the-cloud-dream-of-the-nine.json](./189817-the-cloud-dream-of-the-nine.json) |
 | The Cloud Dream of the Nine: A new beginning of a dream | 193177 | [193177-the-cloud-dream-of-the-nine-a-new-beginning-of-a-dream.json](./193177-the-cloud-dream-of-the-nine-a-new-beginning-of-a-dream.json) |
 | The Cloud Forest | 362188 | [362188-the-cloud-forest.json](./362188-the-cloud-forest.json) |
 | The Cloudberry Abyss | 402998 | [402998-the-cloudberry-abyss.json](./402998-the-cloudberry-abyss.json) |
@@ -9198,6 +9200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grinding of Teeth | 271852 | [271852-the-grinding-of-teeth.json](./271852-the-grinding-of-teeth.json) |
 | The Grindstone | 369169 | [369169-the-grindstone.json](./369169-the-grindstone.json) |
 | The Grip Games PS Vita Collection | 99795 | [99795-the-grip-games-ps-vita-collection.json](./99795-the-grip-games-ps-vita-collection.json) |
+| The Grip of Madness | 189810 | [189810-the-grip-of-madness.json](./189810-the-grip-of-madness.json) |
 | The Gristmill | 187272 | [187272-the-gristmill.json](./187272-the-gristmill.json) |
 | The Grizzled: Armistice Digital | 215744 | [215744-the-grizzled-armistice-digital.json](./215744-the-grizzled-armistice-digital.json) |
 | The Groom of Gallagher Mansion | 249060 | [249060-the-groom-of-gallagher-mansion.json](./249060-the-groom-of-gallagher-mansion.json) |
@@ -16218,6 +16221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Undying Beast | 177310 | [177310-the-undying-beast.json](./177310-the-undying-beast.json) |
 | The Undying Plague | 35759 | [35759-the-undying-plague.json](./35759-the-undying-plague.json) |
 | The Undying Sea | 349092 | [349092-the-undying-sea.json](./349092-the-undying-sea.json) |
+| The Unearthened | 189837 | [189837-the-unearthened.json](./189837-the-unearthened.json) |
 | The Unexpected (But Not Entirely Surprising) Demise of Jacques du Schnozzle | 329126 | [329126-the-unexpected-but-not-entirely-surprising-demise-of-jacques-du-schnozzle.json](./329126-the-unexpected-but-not-entirely-surprising-demise-of-jacques-du-schnozzle.json) |
 | The Unexpected Heiress | 313854 | [313854-the-unexpected-heiress.json](./313854-the-unexpected-heiress.json) |
 | The Unexplained | 215731 | [215731-the-unexplained.json](./215731-the-unexplained.json) |
@@ -17507,6 +17511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Linger | 259588 | [259588-they-linger.json](./259588-they-linger.json) |
 | They Live Here Now | 176932 | [176932-they-live-here-now.json](./176932-they-live-here-now.json) |
 | They Live in the Fractures | 333431 | [333431-they-live-in-the-fractures.json](./333431-they-live-in-the-fractures.json) |
+| They Look Like People | 189841 | [189841-they-look-like-people.json](./189841-they-look-like-people.json) |
 | They Look Strange and Have to Die | 181233 | [181233-they-look-strange-and-have-to-die.json](./181233-they-look-strange-and-have-to-die.json) |
 | They Love Them | 235813 | [235813-they-love-them.json](./235813-they-love-them.json) |
 | They Need To Be Fed | 242725 | [242725-they-need-to-be-fed.json](./242725-they-need-to-be-fed.json) |
@@ -18572,6 +18577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiebreaker | 93017 | [93017-tiebreaker.json](./93017-tiebreaker.json) |
 | Tiebreakers | 403216 | [403216-tiebreakers.json](./403216-tiebreakers.json) |
 | Tied By Numbers | 386153 | [386153-tied-by-numbers.json](./386153-tied-by-numbers.json) |
+| Tied by your Red | 189838 | [189838-tied-by-your-red.json](./189838-tied-by-your-red.json) |
 | Tied to the Beat | 391039 | [391039-tied-to-the-beat.json](./391039-tied-to-the-beat.json) |
 | Tien Len: Killer 13 | 175422 | [175422-tien-len-killer-13.json](./175422-tien-len-killer-13.json) |
 | Tier 1 | 30204 | [30204-tier-1.json](./30204-tier-1.json) |
@@ -27959,6 +27965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Backgammon HD | 87922 | [87922-true-backgammon-hd.json](./87922-true-backgammon-hd.json) |
 | True Beauty | 242019 | [242019-true-beauty.json](./242019-true-beauty.json) |
 | True Blades | 36725 | [36725-true-blades.json](./36725-true-blades.json) |
+| True Bum Simulator | 189816 | [189816-true-bum-simulator.json](./189816-true-bum-simulator.json) |
 | True Colors | 120714 | [120714-true-colors.json](./120714-true-colors.json) |
 | True Colors | 228991 | [228991-true-colors.json](./228991-true-colors.json) |
 | True Colors | 388238 | [388238-true-colors.json](./388238-true-colors.json) |
