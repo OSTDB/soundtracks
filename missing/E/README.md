@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eizoku | 134519 | [134519-eizoku.json](./134519-eizoku.json) |
 | EJ Puzzles: Hooked | 85106 | [85106-ej-puzzles-hooked.json](./85106-ej-puzzles-hooked.json) |
 | Eject Bombin' | 182923 | [182923-eject-bombin.json](./182923-eject-bombin.json) |
+| Ejected Star | 217120 | [217120-ejected-star.json](./217120-ejected-star.json) |
 | Ejihon Tantei Jimusho | 107588 | [107588-ejihon-tantei-jimusho.json](./107588-ejihon-tantei-jimusho.json) |
 | Ekans | 260588 | [260588-ekans.json](./260588-ekans.json) |
 | Ekholux | 374399 | [374399-ekholux.json](./374399-ekholux.json) |
@@ -1939,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronia | 55918 | [55918-electronia.json](./55918-electronia.json) |
 | Electronic Billiards | 79584 | [79584-electronic-billiards.json](./79584-electronic-billiards.json) |
 | Electronic City Tycoon | 212504 | [212504-electronic-city-tycoon.json](./212504-electronic-city-tycoon.json) |
+| Electronic Evolution | 217153 | [217153-electronic-evolution.json](./217153-electronic-evolution.json) |
 | Electronic Football | 225531 | [225531-electronic-football.json](./225531-electronic-football.json) |
 | Electronic Hand-Held Connect Four | 233610 | [233610-electronic-hand-held-connect-four.json](./233610-electronic-hand-held-connect-four.json) |
 | Electronic Hand-Held Monopoly | 233988 | [233988-electronic-hand-held-monopoly.json](./233988-electronic-hand-held-monopoly.json) |
@@ -3033,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchantasy: The Quest for the Eternal Grimoire | 356657 | [356657-enchantasy-the-quest-for-the-eternal-grimoire.json](./356657-enchantasy-the-quest-for-the-eternal-grimoire.json) |
 | Enchanted | 13641 | [13641-enchanted.json](./13641-enchanted.json) |
 | Enchanted Arms | 6988 | [6988-enchanted-arms.json](./6988-enchanted-arms.json) |
+| Enchanted Blacksmith | 217144 | [217144-enchanted-blacksmith.json](./217144-enchanted-blacksmith.json) |
 | Enchanted Bricks | 221891 | [221891-enchanted-bricks.json](./221891-enchanted-bricks.json) |
 | Enchanted Broom | 384071 | [384071-enchanted-broom.json](./384071-enchanted-broom.json) |
 | Enchanted Fairy Friends: Secret of the Fairy Queen | 68031 | [68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json](./68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json) |
@@ -4205,6 +4208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erase Box | 227925 | [227925-erase-box.json](./227925-erase-box.json) |
 | Erase: Missing Link | 361802 | [361802-erase-missing-link.json](./361802-erase-missing-link.json) |
 | Eraser | 186092 | [186092-eraser.json](./186092-eraser.json) |
+| Eraser | 217143 | [217143-eraser.json](./217143-eraser.json) |
 | Eraser | 339263 | [339263-eraser.json](./339263-eraser.json) |
 | Eraser & Builder | 29683 | [29683-eraser-and-builder.json](./29683-eraser-and-builder.json) |
 | Eraser Advent | 247980 | [247980-eraser-advent.json](./247980-eraser-advent.json) |
