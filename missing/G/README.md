@@ -4183,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiators Simulator: The Champions of Liberty | 342399 | [342399-gladiators-simulator-the-champions-of-liberty.json](./342399-gladiators-simulator-the-champions-of-liberty.json) |
 | Gladiators Tale | 248001 | [248001-gladiators-tale.json](./248001-gladiators-tale.json) |
 | Gladiators: Ludus Manager | 116213 | [116213-gladiators-ludus-manager.json](./116213-gladiators-ludus-manager.json) |
+| Gladiators: Survival in Rome | 194132 | [194132-gladiators-survival-in-rome.json](./194132-gladiators-survival-in-rome.json) |
 | Gladiators: The Unconquered | 132535 | [132535-gladiators-the-unconquered.json](./132535-gladiators-the-unconquered.json) |
 | Gladiatory | 290896 | [290896-gladiatory.json](./290896-gladiatory.json) |
 | Gladiatus | 194814 | [194814-gladiatus.json](./194814-gladiatus.json) |
@@ -5640,6 +5641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Ball | 311206 | [311206-golden-ball.json](./311206-golden-ball.json) |
 | Golden Balls | 78081 | [78081-golden-balls.json](./78081-golden-balls.json) |
 | Golden Basket | 73598 | [73598-golden-basket.json](./73598-golden-basket.json) |
+| Golden Bros | 194152 | [194152-golden-bros.json](./194152-golden-bros.json) |
 | Golden Chambers | 253999 | [253999-golden-chambers.json](./253999-golden-chambers.json) |
 | Golden Desire: Fantasy Romance | 357123 | [357123-golden-desire-fantasy-romance.json](./357123-golden-desire-fantasy-romance.json) |
 | Golden Dungeons | 88193 | [88193-golden-dungeons.json](./88193-golden-dungeons.json) |
@@ -6841,6 +6843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Classes | 313415 | [313415-grand-classes.json](./313415-grand-classes.json) |
 | Grand Crime Miami | 366950 | [366950-grand-crime-miami.json](./366950-grand-crime-miami.json) |
 | Grand Cross | 40124 | [40124-grand-cross.json](./40124-grand-cross.json) |
+| Grand Cross S | 194109 | [194109-grand-cross-s.json](./194109-grand-cross-s.json) |
 | Grand Cross W | 193860 | [193860-grand-cross-w.json](./193860-grand-cross-w.json) |
 | Grand Cross: Age of Titans | 261101 | [261101-grand-cross-age-of-titans.json](./261101-grand-cross-age-of-titans.json) |
 | Grand Crown: Pandora's Fate | 350200 | [350200-grand-crown-pandoras-fate.json](./350200-grand-crown-pandoras-fate.json) |
