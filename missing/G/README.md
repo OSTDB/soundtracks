@@ -5242,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Wars: Future Past | 25312 | [25312-god-wars-future-past.json](./25312-god-wars-future-past.json) |
 | God Will | 308862 | [308862-god-will.json](./308862-god-will.json) |
 | God Within VR | 264737 | [264737-god-within-vr.json](./264737-god-within-vr.json) |
+| God-Machine: Shogun CyberMetal Arena | 205859 | [205859-god-machine-shogun-cybermetal-arena.json](./205859-god-machine-shogun-cybermetal-arena.json) |
 | God, I Hate Wasps | 135080 | [135080-god-i-hate-wasps.json](./135080-god-i-hate-wasps.json) |
 | God, Save the Queens! | 406682 | [406682-god-save-the-queens.json](./406682-god-save-the-queens.json) |
 | God: The Game | 264872 | [264872-god-the-game.json](./264872-god-the-game.json) |
