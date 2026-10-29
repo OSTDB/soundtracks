@@ -4348,6 +4348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 203111 | [203111-tetris.json](./203111-tetris.json) |
 | Tetris | 203112 | [203112-tetris.json](./203112-tetris.json) |
 | Tetris | 203117 | [203117-tetris.json](./203117-tetris.json) |
+| Tetris | 206508 | [206508-tetris.json](./206508-tetris.json) |
 | Tetris | 213370 | [213370-tetris.json](./213370-tetris.json) |
 | Tetris | 214130 | [214130-tetris.json](./214130-tetris.json) |
 | Tetris | 215381 | [215381-tetris.json](./215381-tetris.json) |
@@ -6050,6 +6051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Broken Seal: Arena | 86434 | [86434-the-broken-seal-arena.json](./86434-the-broken-seal-arena.json) |
 | The Broken Vow | 322173 | [322173-the-broken-vow.json](./322173-the-broken-vow.json) |
 | The Bronx | 154914 | [154914-the-bronx.json](./154914-the-bronx.json) |
+| The Bronze Age | 206517 | [206517-the-bronze-age.json](./206517-the-bronze-age.json) |
 | The Broston Saga | 143932 | [143932-the-broston-saga.json](./143932-the-broston-saga.json) |
 | The Brotherhood of Ruin | 142277 | [142277-the-brotherhood-of-ruin.json](./142277-the-brotherhood-of-ruin.json) |
 | The Brothers | 216751 | [216751-the-brothers.json](./216751-the-brothers.json) |
@@ -7404,6 +7406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Document of Metal Gear Solid 2 | 139343 | [139343-the-document-of-metal-gear-solid-2.json](./139343-the-document-of-metal-gear-solid-2.json) |
 | The Dog | 327153 | [327153-the-dog.json](./327153-the-dog.json) |
 | The Dog Island | 4815 | [4815-the-dog-island.json](./4815-the-dog-island.json) |
+| The Dog K | 206518 | [206518-the-dog-k.json](./206518-the-dog-k.json) |
 | The Dog Master | 209293 | [209293-the-dog-master.json](./209293-the-dog-master.json) |
 | The Dog Quiz | 223149 | [223149-the-dog-quiz.json](./223149-the-dog-quiz.json) |
 | The Dog Run | 114410 | [114410-the-dog-run.json](./114410-the-dog-run.json) |
