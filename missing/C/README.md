@@ -14285,6 +14285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Shin-Chan: Ora to Wanpaku Gokko dazo | 63314 | [63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json](./63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json) |
 | Crayon Shin-chan: Puzzle Daimaou no Nazo | 172768 | [172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json](./172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json) |
 | Crayon Shin-Chan: Uchuu de Achoo!? Yuujou no Oba-Karate!! | 56242 | [56242-crayon-shin-chan-uchuu-de-achoo-yuujou-no-oba-karate.json](./56242-crayon-shin-chan-uchuu-de-achoo-yuujou-no-oba-karate.json) |
+| Crayon Shin-chan: Undoukai ha Oosawagi! | 218268 | [218268-crayon-shin-chan-undoukai-ha-oosawagi.json](./218268-crayon-shin-chan-undoukai-ha-oosawagi.json) |
 | Crayon Shinchan My Sugoroku Great Strategy | 390523 | [390523-crayon-shinchan-my-sugoroku-great-strategy.json](./390523-crayon-shinchan-my-sugoroku-great-strategy.json) |
 | Crayon Story: Thumbelina | 414884 | [414884-crayon-story-thumbelina.json](./414884-crayon-story-thumbelina.json) |
 | CrayonCore | 324990 | [324990-crayoncore.json](./324990-crayoncore.json) |
@@ -14391,6 +14392,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Circus | 269748 | [269748-crazy-circus.json](./269748-crazy-circus.json) |
 | Crazy City Golf | 423215 | [423215-crazy-city-golf.json](./423215-crazy-city-golf.json) |
 | Crazy Click Thursday | 219746 | [219746-crazy-click-thursday.json](./219746-crazy-click-thursday.json) |
+| Crazy Climber | 218249 | [218249-crazy-climber.json](./218249-crazy-climber.json) |
+| Crazy Climber | 218251 | [218251-crazy-climber.json](./218251-crazy-climber.json) |
 | Crazy Climber | 307266 | [307266-crazy-climber.json](./307266-crazy-climber.json) |
 | Crazy Climber | 347695 | [347695-crazy-climber.json](./347695-crazy-climber.json) |
 | Crazy Climber | 4611 | [4611-crazy-climber.json](./4611-crazy-climber.json) |
