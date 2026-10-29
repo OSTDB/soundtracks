@@ -1988,6 +1988,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LearnEng - The Word Maker | 110856 | [110856-learneng-the-word-maker.json](./110856-learneng-the-word-maker.json) |
 | Learning a Foreign Language Is No Easy Task, for Sure | 179039 | [179039-learning-a-foreign-language-is-no-easy-task-for-sure.json](./179039-learning-a-foreign-language-is-no-easy-task-for-sure.json) |
 | Learning Factory | 137918 | [137918-learning-factory.json](./137918-learning-factory.json) |
+| Learning Factory: Curious Mind Edition | 221489 | [221489-learning-factory-curious-mind-edition.json](./221489-learning-factory-curious-mind-edition.json) |
+| Learning Factory: True Engineer Edition | 221488 | [221488-learning-factory-true-engineer-edition.json](./221488-learning-factory-true-engineer-edition.json) |
 | Learning Geography: Countries of the World | 217468 | [217468-learning-geography-countries-of-the-world.json](./217468-learning-geography-countries-of-the-world.json) |
 | Learning jigsaw: Animals | 154307 | [154307-learning-jigsaw-animals.json](./154307-learning-jigsaw-animals.json) |
 | Learning Ladder: Year 3 | 327264 | [327264-learning-ladder-year-3.json](./327264-learning-ladder-year-3.json) |
