@@ -3636,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When We Arrive | 390795 | [390795-when-we-arrive.json](./390795-when-we-arrive.json) |
 | When We First Met | 153774 | [153774-when-we-first-met.json](./153774-when-we-first-met.json) |
 | When We Lost | 215650 | [215650-when-we-lost.json](./215650-when-we-lost.json) |
+| When We Were Monsters | 180398 | [180398-when-we-were-monsters.json](./180398-when-we-were-monsters.json) |
 | When Will I Get Home? | 408982 | [408982-when-will-i-get-home.json](./408982-when-will-i-get-home.json) |
 | When Yanderes Cry | 124657 | [124657-when-yanderes-cry.json](./124657-when-yanderes-cry.json) |
 | When You See It | 312122 | [312122-when-you-see-it.json](./312122-when-you-see-it.json) |
@@ -4174,6 +4175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whitemare | 274137 | [274137-whitemare.json](./274137-whitemare.json) |
 | Whitemare 2 | 274138 | [274138-whitemare-2.json](./274138-whitemare-2.json) |
 | Whitematter | 365895 | [365895-whitematter.json](./365895-whitematter.json) |
+| Whiteout | 180401 | [180401-whiteout.json](./180401-whiteout.json) |
 | Whiteout | 181385 | [181385-whiteout.json](./181385-whiteout.json) |
 | Whiteout Frontier | 286949 | [286949-whiteout-frontier.json](./286949-whiteout-frontier.json) |
 | Whiteout Survival | 240884 | [240884-whiteout-survival.json](./240884-whiteout-survival.json) |
