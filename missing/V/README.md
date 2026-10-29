@@ -1934,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikings vs. Dragons | 241541 | [241541-vikings-vs-dragons.json](./241541-vikings-vs-dragons.json) |
 | Vikings Wars | 128981 | [128981-vikings-wars.json](./128981-vikings-wars.json) |
 | Vikings: Age of the Axe | 149504 | [149504-vikings-age-of-the-axe.json](./149504-vikings-age-of-the-axe.json) |
+| Vikings: For Valhalla | 216062 | [216062-vikings-for-valhalla.json](./216062-vikings-for-valhalla.json) |
 | Vikings: The Strategy of Ultimate Conquest | 73590 | [73590-vikings-the-strategy-of-ultimate-conquest.json](./73590-vikings-the-strategy-of-ultimate-conquest.json) |
 | Vikings: Valhalla | 266144 | [266144-vikings-valhalla.json](./266144-vikings-valhalla.json) |
 | Vikings: Valhalla Saga | 228120 | [228120-vikings-valhalla-saga.json](./228120-vikings-valhalla-saga.json) |
@@ -2809,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice of God | 181349 | [181349-voice-of-god.json](./181349-voice-of-god.json) |
 | Voice of Nature | 386708 | [386708-voice-of-nature.json](./386708-voice-of-nature.json) |
 | Voice of Pripyat | 16920 | [16920-voice-of-pripyat.json](./16920-voice-of-pripyat.json) |
+| Voice of Steel | 216067 | [216067-voice-of-steel.json](./216067-voice-of-steel.json) |
 | Voice of the Killer | 150094 | [150094-voice-of-the-killer.json](./150094-voice-of-the-killer.json) |
 | Voice of the Ocean | 354004 | [354004-voice-of-the-ocean.json](./354004-voice-of-the-ocean.json) |
 | Voice of the Wizard by Brett Farkas | 221179 | [221179-voice-of-the-wizard-by-brett-farkas.json](./221179-voice-of-the-wizard-by-brett-farkas.json) |
