@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 11 Card Games | 268072 | [268072-11-card-games.json](./268072-11-card-games.json) |
 | 11 Doors: Escape From Prison | 358066 | [358066-11-doors-escape-from-prison.json](./358066-11-doors-escape-from-prison.json) |
 | 11 Eyes: CrossOver | 47396 | [47396-11-eyes-crossover.json](./47396-11-eyes-crossover.json) |
+| 11 Hào Xiǎozhèn Zōnghézhèng | 223805 | [223805-11-hao-xiaozhen-zonghezheng.json](./223805-11-hao-xiaozhen-zonghezheng.json) |
 | 11 Trials of Raz | 379454 | [379454-11-trials-of-raz.json](./379454-11-trials-of-raz.json) |
 | 11-11: Memories Retold | 103249 | [103249-11-11-memories-retold.json](./103249-11-11-memories-retold.json) |
 | 11-A-Side Soccer | 279699 | [279699-11-a-side-soccer.json](./279699-11-a-side-soccer.json) |
