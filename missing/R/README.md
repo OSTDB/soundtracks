@@ -6203,6 +6203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rick and Morty Game | 307573 | [307573-rick-and-morty-game.json](./307573-rick-and-morty-game.json) |
 | Rick and Morty Presents: Jerry's Game | 74299 | [74299-rick-and-morty-presents-jerrys-game.json](./74299-rick-and-morty-presents-jerrys-game.json) |
 | Rick and Morty: Virtual Rick-ality | 20459 | [20459-rick-and-morty-virtual-rick-ality.json](./20459-rick-and-morty-virtual-rick-ality.json) |
+| Rick Astley: The Game | 195335 | [195335-rick-astley-the-game.json](./195335-rick-astley-the-game.json) |
 | Rick Dangerous | 12202 | [12202-rick-dangerous.json](./12202-rick-dangerous.json) |
 | Rick Dangerous 2 | 12203 | [12203-rick-dangerous-2.json](./12203-rick-dangerous-2.json) |
 | Rick Dangerous 2 | 308151 | [308151-rick-dangerous-2.json](./308151-rick-dangerous-2.json) |
@@ -9906,6 +9907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotato Ship | 185612 | [185612-rotato-ship.json](./185612-rotato-ship.json) |
 | Rotatorix | 74379 | [74379-rotatorix.json](./74379-rotatorix.json) |
 | Rote | 105428 | [105428-rote.json](./105428-rote.json) |
+| Rote2: RoteSquare | 195346 | [195346-rote2-rotesquare.json](./195346-rote2-rotesquare.json) |
 | Rotego | 158063 | [158063-rotego.json](./158063-rotego.json) |
 | Rotem | 372546 | [372546-rotem.json](./372546-rotem.json) |
 | Roterra 4: Magical Revolution | 234605 | [234605-roterra-4-magical-revolution.json](./234605-roterra-4-magical-revolution.json) |
