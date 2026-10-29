@@ -5154,6 +5154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingspan + European Expansion | 200514 | [200514-wingspan-european-expansion.json](./200514-wingspan-european-expansion.json) |
 | Wingspan + European Expansion + Oceania Expansion | 275894 | [275894-wingspan-european-expansion-oceania-expansion.json](./275894-wingspan-european-expansion-oceania-expansion.json) |
 | Wingspan + European Expansion + Oceania Expansion + Seasonal Decorative Pack | 275895 | [275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json](./275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json) |
+| Wingspan + European Expansion + Seasonal Decorative Pack | 223762 | [223762-wingspan-european-expansion-seasonal-decorative-pack.json](./223762-wingspan-european-expansion-seasonal-decorative-pack.json) |
 | Wingspan Oceania Deluxe Bundle | 331509 | [331509-wingspan-oceania-deluxe-bundle.json](./331509-wingspan-oceania-deluxe-bundle.json) |
 | Wingspan: Bird Pack - British Birds | 414782 | [414782-wingspan-bird-pack-british-birds.json](./414782-wingspan-bird-pack-british-birds.json) |
 | Wingspan: Seasonal Decorative Pack 2 | 414783 | [414783-wingspan-seasonal-decorative-pack-2.json](./414783-wingspan-seasonal-decorative-pack-2.json) |
@@ -7231,6 +7232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks: Blitz - Predator Pack | 302204 | [302204-world-of-tanks-blitz-predator-pack.json](./302204-world-of-tanks-blitz-predator-pack.json) |
 | World of Tanks: Blitz - Resource Pack | 171011 | [171011-world-of-tanks-blitz-resource-pack.json](./171011-world-of-tanks-blitz-resource-pack.json) |
 | World of Tanks: Blitz - Space Pack | 171012 | [171012-world-of-tanks-blitz-space-pack.json](./171012-world-of-tanks-blitz-space-pack.json) |
+| World of Tanks: Blitz - Type 64 Comic Bundle | 223763 | [223763-world-of-tanks-blitz-type-64-comic-bundle.json](./223763-world-of-tanks-blitz-type-64-comic-bundle.json) |
 | World of Tanks: Heat | 361890 | [361890-world-of-tanks-heat.json](./361890-world-of-tanks-heat.json) |
 | World of Tanks: Independence | 121641 | [121641-world-of-tanks-independence.json](./121641-world-of-tanks-independence.json) |
 | World of Tanks: Mercenaries | 103239 | [103239-world-of-tanks-mercenaries.json](./103239-world-of-tanks-mercenaries.json) |
