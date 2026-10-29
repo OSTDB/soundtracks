@@ -1370,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Chess: GOTY Edition | 240411 | [240411-family-chess-goty-edition.json](./240411-family-chess-goty-edition.json) |
 | Family Chess: Magnificent Edition | 246647 | [246647-family-chess-magnificent-edition.json](./246647-family-chess-magnificent-edition.json) |
 | Family Chess: Platinum Edition | 238123 | [238123-family-chess-platinum-edition.json](./238123-family-chess-platinum-edition.json) |
+| Family Chess: Special Edition | 219381 | [219381-family-chess-special-edition.json](./219381-family-chess-special-edition.json) |
 | Family Chess: Ultimate Edition | 212340 | [212340-family-chess-ultimate-edition.json](./212340-family-chess-ultimate-edition.json) |
 | Family Chess: Ultra Deluxe | 254678 | [254678-family-chess-ultra-deluxe.json](./254678-family-chess-ultra-deluxe.json) |
 | Family Circuit | 48498 | [48498-family-circuit.json](./48498-family-circuit.json) |
@@ -6442,6 +6443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Arms | 81698 | [81698-flappy-arms.json](./81698-flappy-arms.json) |
 | Flappy Ball | 228271 | [228271-flappy-ball.json](./228271-flappy-ball.json) |
 | Flappy Bat | 156970 | [156970-flappy-bat.json](./156970-flappy-bat.json) |
+| Flappy Bat 2 | 219406 | [219406-flappy-bat-2.json](./219406-flappy-bat-2.json) |
 | Flappy Bat 3 | 347231 | [347231-flappy-bat-3.json](./347231-flappy-bat-3.json) |
 | Flappy Bee | 169471 | [169471-flappy-bee.json](./169471-flappy-bee.json) |
 | Flappy Bird | 195491 | [195491-flappy-bird.json](./195491-flappy-bird.json) |
@@ -6466,6 +6468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Butt | 207568 | [207568-flappy-butt.json](./207568-flappy-butt.json) |
 | Flappy Camel | 283767 | [283767-flappy-camel.json](./283767-flappy-camel.json) |
 | Flappy Cato | 413158 | [413158-flappy-cato.json](./413158-flappy-cato.json) |
+| Flappy Cheep Cheep | 219419 | [219419-flappy-cheep-cheep.json](./219419-flappy-cheep-cheep.json) |
 | Flappy Coq | 376044 | [376044-flappy-coq.json](./376044-flappy-coq.json) |
 | Flappy Crush | 239546 | [239546-flappy-crush.json](./239546-flappy-crush.json) |
 | Flappy Cube | 179195 | [179195-flappy-cube.json](./179195-flappy-cube.json) |
