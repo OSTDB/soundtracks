@@ -6704,6 +6704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destructive Contraptions | 156022 | [156022-destructive-contraptions.json](./156022-destructive-contraptions.json) |
 | Destructive physics | 127848 | [127848-destructive-physics.json](./127848-destructive-physics.json) |
 | Destructo | 171483 | [171483-destructo.json](./171483-destructo.json) |
+| Destructo 2 | 203032 | [203032-destructo-2.json](./203032-destructo-2.json) |
 | Destructo Truck | 353495 | [353495-destructo-truck.json](./353495-destructo-truck.json) |
 | DestructoPod | 119710 | [119710-destructopod.json](./119710-destructopod.json) |
 | Destructor | 24019 | [24019-destructor.json](./24019-destructor.json) |
