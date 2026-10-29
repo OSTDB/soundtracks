@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
 | A Desert Dusk | 280226 | [280226-a-desert-dusk.json](./280226-a-desert-dusk.json) |
 | A Detective Game | 302498 | [302498-a-detective-game.json](./302498-a-detective-game.json) |
+| A Detective's Demise | 219938 | [219938-a-detectives-demise.json](./219938-a-detectives-demise.json) |
 | A Detective's Novel | 27921 | [27921-a-detectives-novel.json](./27921-a-detectives-novel.json) |
 | A Devilish Nightmare | 217850 | [217850-a-devilish-nightmare.json](./217850-a-devilish-nightmare.json) |
 | A Diamond Display | 397163 | [397163-a-diamond-display.json](./397163-a-diamond-display.json) |
@@ -4689,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey | 89804 | [89804-air-hockey.json](./89804-air-hockey.json) |
 | Air Hockey | 94114 | [94114-air-hockey.json](./94114-air-hockey.json) |
 | Air Hockey Arcade: Casual Board Game | 242589 | [242589-air-hockey-arcade-casual-board-game.json](./242589-air-hockey-arcade-casual-board-game.json) |
+| Air Hockey Black | 219942 | [219942-air-hockey-black.json](./219942-air-hockey-black.json) |
 | Air Hockey Blue | 197773 | [197773-air-hockey-blue.json](./197773-air-hockey-blue.json) |
 | Air Hockey Championship | 254714 | [254714-air-hockey-championship.json](./254714-air-hockey-championship.json) |
 | Air Hockey Gamepack | 153699 | [153699-air-hockey-gamepack.json](./153699-air-hockey-gamepack.json) |
@@ -6681,6 +6683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alox Poker | 219766 | [219766-alox-poker.json](./219766-alox-poker.json) |
 | Alpaca Ball: Allstars - Collector's Edition | 146114 | [146114-alpaca-ball-allstars-collectors-edition.json](./146114-alpaca-ball-allstars-collectors-edition.json) |
 | Alpaca Evolution | 218527 | [218527-alpaca-evolution.json](./218527-alpaca-evolution.json) |
+| Alpaca Farm! | 219943 | [219943-alpaca-farm.json](./219943-alpaca-farm.json) |
 | Alpaca Farm! Animal Adventure | 255809 | [255809-alpaca-farm-animal-adventure.json](./255809-alpaca-farm-animal-adventure.json) |
 | Alpaca Party | 326086 | [326086-alpaca-party.json](./326086-alpaca-party.json) |
 | Alpaca Party: Grab & Run | 389635 | [389635-alpaca-party-grab-and-run.json](./389635-alpaca-party-grab-and-run.json) |
@@ -6873,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter Aeon | 228745 | [228745-alter-aeon.json](./228745-alter-aeon.json) |
 | Alter Age | 310513 | [310513-alter-age.json](./310513-alter-age.json) |
 | Alter Cosmos | 103539 | [103539-alter-cosmos.json](./103539-alter-cosmos.json) |
+| Alter Dogma | 219944 | [219944-alter-dogma.json](./219944-alter-dogma.json) |
 | Alter Echo | 1989 | [1989-alter-echo.json](./1989-alter-echo.json) |
 | Alter Ego | 134505 | [134505-alter-ego.json](./134505-alter-ego.json) |
 | Alter Ego | 246772 | [246772-alter-ego.json](./246772-alter-ego.json) |
@@ -7408,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Civil War Battles | 101433 | [101433-american-civil-war-battles.json](./101433-american-civil-war-battles.json) |
 | American Civil War Mod: Revived | 356166 | [356166-american-civil-war-mod-revived.json](./356166-american-civil-war-mod-revived.json) |
 | American Civil War: Gettysburg | 63180 | [63180-american-civil-war-gettysburg.json](./63180-american-civil-war-gettysburg.json) |
+| American Commando | 219947 | [219947-american-commando.json](./219947-american-commando.json) |
 | American Conquest: Anthology | 324664 | [324664-american-conquest-anthology.json](./324664-american-conquest-anthology.json) |
 | American Conquest: Divided Nation | 9361 | [9361-american-conquest-divided-nation.json](./9361-american-conquest-divided-nation.json) |
 | American Cooking Simulator | 330850 | [330850-american-cooking-simulator.json](./330850-american-cooking-simulator.json) |
@@ -8642,6 +8647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Cafe | 356711 | [356711-animal-cafe.json](./356711-animal-cafe.json) |
 | Animal Camp: Healing Resort | 299393 | [299393-animal-camp-healing-resort.json](./299393-animal-camp-healing-resort.json) |
 | Animal Care Shop | 212499 | [212499-animal-care-shop.json](./212499-animal-care-shop.json) |
+| Animal Cars Kids Racing Game | 219945 | [219945-animal-cars-kids-racing-game.json](./219945-animal-cars-kids-racing-game.json) |
 | Animal Chameleon | 409344 | [409344-animal-chameleon.json](./409344-animal-chameleon.json) |
 | Animal Circus: Learning Games | 106521 | [106521-animal-circus-learning-games.json](./106521-animal-circus-learning-games.json) |
 | Animal City | 130756 | [130756-animal-city.json](./130756-animal-city.json) |
@@ -12892,6 +12898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascended Gods: Realm of Origins | 270104 | [270104-ascended-gods-realm-of-origins.json](./270104-ascended-gods-realm-of-origins.json) |
 | Ascended Realms | 137683 | [137683-ascended-realms.json](./137683-ascended-realms.json) |
 | Ascender | 20346 | [20346-ascender.json](./20346-ascender.json) |
+| Ascender | 219939 | [219939-ascender.json](./219939-ascender.json) |
 | Ascenders | 194853 | [194853-ascenders.json](./194853-ascenders.json) |
 | Ascendia | 255859 | [255859-ascendia.json](./255859-ascendia.json) |
 | Ascending Inferno | 256126 | [256126-ascending-inferno.json](./256126-ascending-inferno.json) |
