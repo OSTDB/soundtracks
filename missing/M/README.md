@@ -6410,6 +6410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MEFB | 130736 | [130736-mefb.json](./130736-mefb.json) |
 | MEG 9: Lost Echoes | 59944 | [59944-meg-9-lost-echoes.json](./59944-meg-9-lost-echoes.json) |
 | MEG:RVO | 62434 | [62434-meg-rvo.json](./62434-meg-rvo.json) |
+| Meg's Monster | 203595 | [203595-megs-monster.json](./203595-megs-monster.json) |
 | Meg's Monster: Lost Memories | 376429 | [376429-megs-monster-lost-memories.json](./376429-megs-monster-lost-memories.json) |
 | Mega | 215615 | [215615-mega.json](./215615-mega.json) |
 | Mega 99Vidas | 274000 | [274000-mega-99vidas.json](./274000-mega-99vidas.json) |
@@ -9675,6 +9676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mid | 372231 | [372231-mid.json](./372231-mid.json) |
 | Mid or Feed | 129414 | [129414-mid-or-feed.json](./129414-mid-or-feed.json) |
 | Mid-Death Crisis | 295495 | [295495-mid-death-crisis.json](./295495-mid-death-crisis.json) |
+| Mida's Adventure | 203611 | [203611-midas-adventure.json](./203611-midas-adventure.json) |
 | Midair | 55115 | [55115-midair.json](./55115-midair.json) |
 | Midair 2 | 133680 | [133680-midair-2.json](./133680-midair-2.json) |
 | Midas | 338837 | [338837-midas.json](./338837-midas.json) |
@@ -14848,6 +14850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Adventures of Big Mac: The Mad Maintenance Man | 64143 | [64143-more-adventures-of-big-mac-the-mad-maintenance-man.json](./64143-more-adventures-of-big-mac-the-mad-maintenance-man.json) |
 | More and More | 113057 | [113057-more-and-more.json](./113057-more-and-more.json) |
 | More Bloons | 261910 | [261910-more-bloons.json](./261910-more-bloons.json) |
+| More Bones Than You Can Count | 203645 | [203645-more-bones-than-you-can-count.json](./203645-more-bones-than-you-can-count.json) |
 | More Brain Exercise | 66419 | [66419-more-brain-exercise.json](./66419-more-brain-exercise.json) |
 | More Buffet! | 90414 | [90414-more-buffet.json](./90414-more-buffet.json) |
 | More Cookies! | 105534 | [105534-more-cookies.json](./105534-more-cookies.json) |
