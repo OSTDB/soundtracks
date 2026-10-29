@@ -2308,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Chess | 93198 | [93198-virtual-chess.json](./93198-virtual-chess.json) |
 | Virtual Chess 3 | 206059 | [206059-virtual-chess-3.json](./206059-virtual-chess-3.json) |
 | Virtual Chess 64 | 3334 | [3334-virtual-chess-64.json](./3334-virtual-chess-64.json) |
+| Virtual Circuit Board | 197500 | [197500-virtual-circuit-board.json](./197500-virtual-circuit-board.json) |
 | Virtual City | 74325 | [74325-virtual-city.json](./74325-virtual-city.json) |
 | Virtual City 2: Paradise Resort | 74320 | [74320-virtual-city-2-paradise-resort.json](./74320-virtual-city-2-paradise-resort.json) |
 | Virtual City Playground | 88634 | [88634-virtual-city-playground.json](./88634-virtual-city-playground.json) |
