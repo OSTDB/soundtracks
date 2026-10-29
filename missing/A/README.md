@@ -4617,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aion 2 | 117297 | [117297-aion-2.json](./117297-aion-2.json) |
 | Aion Classic | 214966 | [214966-aion-classic.json](./214966-aion-classic.json) |
 | Aion Collector's Edition | 405640 | [405640-aion-collectors-edition.json](./405640-aion-collectors-edition.json) |
+| Aion Tempest | 188238 | [188238-aion-tempest.json](./188238-aion-tempest.json) |
 | Aion: Assault on Balaurea | 206099 | [206099-aion-assault-on-balaurea.json](./206099-aion-assault-on-balaurea.json) |
 | Aion: Dark Betrayal | 62683 | [62683-aion-dark-betrayal.json](./62683-aion-dark-betrayal.json) |
 | Aion: Echoes of Eternity | 77274 | [77274-aion-echoes-of-eternity.json](./77274-aion-echoes-of-eternity.json) |
@@ -12881,6 +12882,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artists of Fortune: Distant Worlds - Fulgur Planet | 148348 | [148348-artists-of-fortune-distant-worlds-fulgur-planet.json](./148348-artists-of-fortune-distant-worlds-fulgur-planet.json) |
 | Artists of Fortune: Distant Worlds - Lacerta Planet | 148347 | [148347-artists-of-fortune-distant-worlds-lacerta-planet.json](./148347-artists-of-fortune-distant-worlds-lacerta-planet.json) |
 | Artists of Fortune: Paint by Numbers! - Aquaris Planet | 191235 | [191235-artists-of-fortune-paint-by-numbers-aquaris-planet.json](./191235-artists-of-fortune-paint-by-numbers-aquaris-planet.json) |
+| Artists of Fortune: Paint by Numbers! - New Voyager Ep. 2 | 188222 | [188222-artists-of-fortune-paint-by-numbers-new-voyager-ep-2.json](./188222-artists-of-fortune-paint-by-numbers-new-voyager-ep-2.json) |
+| Artists of Fortune: Paint by Numbers! - New Voyager Ep. 3 | 188223 | [188223-artists-of-fortune-paint-by-numbers-new-voyager-ep-3.json](./188223-artists-of-fortune-paint-by-numbers-new-voyager-ep-3.json) |
+| Artists of Fortune: Paint by Numbers! - New Voyager Ep. 4 | 188224 | [188224-artists-of-fortune-paint-by-numbers-new-voyager-ep-4.json](./188224-artists-of-fortune-paint-by-numbers-new-voyager-ep-4.json) |
+| Artists of Fortune: Paint by Numbers! - New Voyager Ep. 5 | 188226 | [188226-artists-of-fortune-paint-by-numbers-new-voyager-ep-5.json](./188226-artists-of-fortune-paint-by-numbers-new-voyager-ep-5.json) |
+| Artists of Fortune: Paint by Numbers! - New Voyager Ep. 6 | 188225 | [188225-artists-of-fortune-paint-by-numbers-new-voyager-ep-6.json](./188225-artists-of-fortune-paint-by-numbers-new-voyager-ep-6.json) |
 | Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 1 | 191230 | [191230-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-1.json](./191230-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-1.json) |
 | Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 2 | 191229 | [191229-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-2.json](./191229-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-2.json) |
 | Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 3 | 191236 | [191236-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-3.json](./191236-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-3.json) |
