@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallowed Legends: Samhain - Collector's Edition | 375380 | [375380-hallowed-legends-samhain-collectors-edition.json](./375380-hallowed-legends-samhain-collectors-edition.json) |
 | Hallowed Legends: Ship of Bones | 376641 | [376641-hallowed-legends-ship-of-bones.json](./376641-hallowed-legends-ship-of-bones.json) |
 | Hallowed Legends: Templar - Collector's Edition | 376584 | [376584-hallowed-legends-templar-collectors-edition.json](./376584-hallowed-legends-templar-collectors-edition.json) |
+| Hallowed Pumpkins | 224836 | [224836-hallowed-pumpkins.json](./224836-hallowed-pumpkins.json) |
 | Halloweeeen! | 407922 | [407922-halloweeeen.json](./407922-halloweeeen.json) |
 | Halloweeen! | 251355 | [251355-halloweeen.json](./251355-halloweeen.json) |
 | Halloween | 40790 | [40790-halloween.json](./40790-halloween.json) |
