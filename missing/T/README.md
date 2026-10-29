@@ -9818,6 +9818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Invasion 2 | 268038 | [268038-the-invasion-2.json](./268038-the-invasion-2.json) |
 | The Invasion of Area 51 | 130871 | [130871-the-invasion-of-area-51.json](./130871-the-invasion-of-area-51.json) |
 | The Invention of "Q" | 383660 | [383660-the-invention-of-q.json](./383660-the-invention-of-q.json) |
+| The Inverse | 222662 | [222662-the-inverse.json](./222662-the-inverse.json) |
 | The Inverted Spire | 176914 | [176914-the-inverted-spire.json](./176914-the-inverted-spire.json) |
 | The Investigation Files of Assistant Arimura | 133387 | [133387-the-investigation-files-of-assistant-arimura.json](./133387-the-investigation-files-of-assistant-arimura.json) |
 | The InVincible Iron Ivy: Enter the Pretty, Pretty Princess | 270878 | [270878-the-invincible-iron-ivy-enter-the-pretty-pretty-princess.json](./270878-the-invincible-iron-ivy-enter-the-pretty-pretty-princess.json) |
@@ -11054,6 +11055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the War Axe | 190129 | [190129-the-legend-of-the-war-axe.json](./190129-the-legend-of-the-war-axe.json) |
 | The Legend of the Wind | 388124 | [388124-the-legend-of-the-wind.json](./388124-the-legend-of-the-wind.json) |
 | The Legend of Tianding | 151693 | [151693-the-legend-of-tianding.json](./151693-the-legend-of-tianding.json) |
+| The Legend of Tiger and Phoenix | 222647 | [222647-the-legend-of-tiger-and-phoenix.json](./222647-the-legend-of-tiger-and-phoenix.json) |
 | The Legend of Tiny Man | 261721 | [261721-the-legend-of-tiny-man.json](./261721-the-legend-of-tiny-man.json) |
 | The Legend of Tomoko | 339192 | [339192-the-legend-of-tomoko.json](./339192-the-legend-of-tomoko.json) |
 | The Legend of Vraz | 54298 | [54298-the-legend-of-vraz.json](./54298-the-legend-of-vraz.json) |
@@ -20653,6 +20655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tina's Wonderlands: Glutton's Gamble | 205019 | [205019-tiny-tinas-wonderlands-gluttons-gamble.json](./205019-tiny-tinas-wonderlands-gluttons-gamble.json) |
 | Tiny Tina's Wonderlands: Next Level Edition | 170024 | [170024-tiny-tinas-wonderlands-next-level-edition.json](./170024-tiny-tinas-wonderlands-next-level-edition.json) |
 | Tiny Tina's Wonderlands: Season Pass | 293727 | [293727-tiny-tinas-wonderlands-season-pass.json](./293727-tiny-tinas-wonderlands-season-pass.json) |
+| Tiny Tina's Wonderlands: Shattering Spectreglass | 222661 | [222661-tiny-tinas-wonderlands-shattering-spectreglass.json](./222661-tiny-tinas-wonderlands-shattering-spectreglass.json) |
 | Tiny Tires | 294509 | [294509-tiny-tires.json](./294509-tiny-tires.json) |
 | Tiny Titans: Card Rumble | 356539 | [356539-tiny-titans-card-rumble.json](./356539-tiny-titans-card-rumble.json) |
 | Tiny Token Empires | 21002 | [21002-tiny-token-empires.json](./21002-tiny-token-empires.json) |
@@ -28966,6 +28969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisty's Asylum Escapades | 31940 | [31940-twistys-asylum-escapades.json](./31940-twistys-asylum-escapades.json) |
 | Twitch Dates Pokemon | 246577 | [246577-twitch-dates-pokemon.json](./246577-twitch-dates-pokemon.json) |
 | Twitch Place | 230971 | [230971-twitch-place.json](./230971-twitch-place.json) |
+| Twitch Plays Pokémon: Anniversary Red | 222658 | [222658-twitch-plays-pokemon-anniversary-red.json](./222658-twitch-plays-pokemon-anniversary-red.json) |
 | Twitch Sings | 117421 | [117421-twitch-sings.json](./117421-twitch-sings.json) |
 | Twitchbox | 96052 | [96052-twitchbox.json](./96052-twitchbox.json) |
 | Twitchoos RUN: Socks & Stream | 133111 | [133111-twitchoos-run-socks-and-stream.json](./133111-twitchoos-run-socks-and-stream.json) |
