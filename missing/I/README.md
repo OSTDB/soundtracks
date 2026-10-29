@@ -2832,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incubus Heart: Demon Love Redemption | 386192 | [386192-incubus-heart-demon-love-redemption.json](./386192-incubus-heart-demon-love-redemption.json) |
 | Incubus Quest | 264188 | [264188-incubus-quest.json](./264188-incubus-quest.json) |
 | Incubus: A ghost-hunters tale | 221683 | [221683-incubus-a-ghost-hunters-tale.json](./221683-incubus-a-ghost-hunters-tale.json) |
+| Incursion | 202515 | [202515-incursion.json](./202515-incursion.json) |
 | Incursion | 373819 | [373819-incursion.json](./373819-incursion.json) |
 | Incursion | 80792 | [80792-incursion.json](./80792-incursion.json) |
 | Incursion 2: The Artifact | 95947 | [95947-incursion-2-the-artifact.json](./95947-incursion-2-the-artifact.json) |
@@ -3919,6 +3920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insect Revolution VR | 117356 | [117356-insect-revolution-vr.json](./117356-insect-revolution-vr.json) |
 | Insect Seeker | 180994 | [180994-insect-seeker.json](./180994-insect-seeker.json) |
 | Insect Simulator | 192641 | [192641-insect-simulator.json](./192641-insect-simulator.json) |
+| Insect Swarm | 202496 | [202496-insect-swarm.json](./202496-insect-swarm.json) |
 | Insect War | 188844 | [188844-insect-war.json](./188844-insect-war.json) |
 | Insect Wars | 249920 | [249920-insect-wars.json](./249920-insect-wars.json) |
 | Insect Worlds | 151294 | [151294-insect-worlds.json](./151294-insect-worlds.json) |
