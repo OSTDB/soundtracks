@@ -3344,6 +3344,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hei | 115173 | [115173-hei.json](./115173-hei.json) |
 | Hēi'àn Liàolǐ | 111705 | [111705-heian-liaoli.json](./111705-heian-liaoli.json) |
 | Heian City Story | 299388 | [299388-heian-city-story.json](./299388-heian-city-story.json) |
+| Heian Love Wars | 181512 | [181512-heian-love-wars.json](./181512-heian-love-wars.json) |
+| Heian Onshijo Koi Emaki | 181520 | [181520-heian-onshijo-koi-emaki.json](./181520-heian-onshijo-koi-emaki.json) |
 | Heiankyo Alien | 118758 | [118758-heiankyo-alien.json](./118758-heiankyo-alien.json) |
 | Heiankyo Alien | 40001 | [40001-heiankyo-alien.json](./40001-heiankyo-alien.json) |
 | Heiankyo Alien | 75136 | [75136-heiankyo-alien.json](./75136-heiankyo-alien.json) |
@@ -9114,6 +9116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi no Meiling | 294655 | [294655-hoshi-no-meiling.json](./294655-hoshi-no-meiling.json) |
 | Hoshi no Natchan | 285452 | [285452-hoshi-no-natchan.json](./285452-hoshi-no-natchan.json) |
 | Hoshi no Ouji-sama | 368555 | [368555-hoshi-no-ouji-sama.json](./368555-hoshi-no-ouji-sama.json) |
+| Hoshi no Oujo: Uchuu Ishiki ni Mezameta Yoshitsune | 181522 | [181522-hoshi-no-oujo-uchuu-ishiki-ni-mezameta-yoshitsune.json](./181522-hoshi-no-oujo-uchuu-ishiki-ni-mezameta-yoshitsune.json) |
 | Hoshi no Shirusu Shinjitsu | 394495 | [394495-hoshi-no-shirusu-shinjitsu.json](./394495-hoshi-no-shirusu-shinjitsu.json) |
 | Hoshi Ori Yume Mirai: Converted Edition | 136791 | [136791-hoshi-ori-yume-mirai-converted-edition.json](./136791-hoshi-ori-yume-mirai-converted-edition.json) |
 | Hoshi Ori Yume Mirai: Perfect Edition | 150036 | [150036-hoshi-ori-yume-mirai-perfect-edition.json](./150036-hoshi-ori-yume-mirai-perfect-edition.json) |
