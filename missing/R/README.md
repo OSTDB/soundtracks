@@ -690,6 +690,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RagBrawl | 244163 | [244163-ragbrawl.json](./244163-ragbrawl.json) |
 | Ragdoll Achievement | 387950 | [387950-ragdoll-achievement.json](./387950-ragdoll-achievement.json) |
 | Ragdoll Arena: Kick the body | 374893 | [374893-ragdoll-arena-kick-the-body.json](./374893-ragdoll-arena-kick-the-body.json) |
+| Ragdoll Avalanche | 201952 | [201952-ragdoll-avalanche.json](./201952-ragdoll-avalanche.json) |
+| Ragdoll Avalanche 2 | 201951 | [201951-ragdoll-avalanche-2.json](./201951-ragdoll-avalanche-2.json) |
 | Ragdoll Backflips | 104575 | [104575-ragdoll-backflips.json](./104575-ragdoll-backflips.json) |
 | Ragdoll Blaster | 67691 | [67691-ragdoll-blaster.json](./67691-ragdoll-blaster.json) |
 | Ragdoll Blaster 2 | 66775 | [66775-ragdoll-blaster-2.json](./66775-ragdoll-blaster-2.json) |
@@ -5533,6 +5535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Sector 9 | 73778 | [73778-return-to-sector-9.json](./73778-return-to-sector-9.json) |
 | Return to Sender | 241224 | [241224-return-to-sender.json](./241224-return-to-sender.json) |
 | Return to Sender | 336560 | [336560-return-to-sender.json](./336560-return-to-sender.json) |
+| Return to the Roots | 201969 | [201969-return-to-the-roots.json](./201969-return-to-the-roots.json) |
 | Return to the Skyway | 207660 | [207660-return-to-the-skyway.json](./207660-return-to-the-skyway.json) |
 | Return to Trahulara | 359007 | [359007-return-to-trahulara.json](./359007-return-to-trahulara.json) |
 | Return to Wonderland | 356844 | [356844-return-to-wonderland.json](./356844-return-to-wonderland.json) |
@@ -10339,6 +10342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTS Football | 259085 | [259085-rts-football.json](./259085-rts-football.json) |
 | RTS Hero | 380817 | [380817-rts-hero.json](./380817-rts-hero.json) |
 | RTS Quantum Chess | 181630 | [181630-rts-quantum-chess.json](./181630-rts-quantum-chess.json) |
+| RTS Siege Up! | 201936 | [201936-rts-siege-up.json](./201936-rts-siege-up.json) |
 | RTS Tactical Warfare: Siege Survival | 292458 | [292458-rts-tactical-warfare-siege-survival.json](./292458-rts-tactical-warfare-siege-survival.json) |
 | Ru Lin Wai Shi Fan Jin | 258455 | [258455-ru-lin-wai-shi-fan-jin.json](./258455-ru-lin-wai-shi-fan-jin.json) |
 | Ruadh: Warbands | 210606 | [210606-ruadh-warbands.json](./210606-ruadh-warbands.json) |
@@ -10764,6 +10768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Gun Die Ultimate | 118083 | [118083-run-gun-die-ultimate.json](./118083-run-gun-die-ultimate.json) |
 | Run Gun Robots | 184935 | [184935-run-gun-robots.json](./184935-run-gun-robots.json) |
 | Run Gun Sports | 86649 | [86649-run-gun-sports.json](./86649-run-gun-sports.json) |
+| Run Hare Run | 201955 | [201955-run-hare-run.json](./201955-run-hare-run.json) |
 | Run Higher | 309717 | [309717-run-higher.json](./309717-run-higher.json) |
 | Run Hunter Run | 96086 | [96086-run-hunter-run.json](./96086-run-hunter-run.json) |
 | Run It Back | 364672 | [364672-run-it-back.json](./364672-run-it-back.json) |
