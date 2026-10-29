@@ -7557,6 +7557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunithm Star Plus | 154232 | [154232-chunithm-star-plus.json](./154232-chunithm-star-plus.json) |
 | Chunithm Sun | 231772 | [231772-chunithm-sun.json](./231772-chunithm-sun.json) |
 | Chunithm Sun Plus | 269300 | [269300-chunithm-sun-plus.json](./269300-chunithm-sun-plus.json) |
+| Chunithm Super Star Plus | 191379 | [191379-chunithm-super-star-plus.json](./191379-chunithm-super-star-plus.json) |
 | Chunithm Verse | 335960 | [335960-chunithm-verse.json](./335960-chunithm-verse.json) |
 | Chunithm X-Verse-X | 379181 | [379181-chunithm-x-verse-x.json](./379181-chunithm-x-verse-x.json) |
 | Chunithm X-Verse-X International Version | 397774 | [397774-chunithm-x-verse-x-international-version.json](./397774-chunithm-x-verse-x-international-version.json) |
@@ -16121,6 +16122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruzcredo: Become a Legend! | 332272 | [332272-cruzcredo-become-a-legend.json](./332272-cruzcredo-become-a-legend.json) |
 | CRW : Metal Jacket | 127833 | [127833-crw-metal-jacket.json](./127833-crw-metal-jacket.json) |
 | CRW: Counter Revolution War | 61554 | [61554-crw-counter-revolution-war.json](./61554-crw-counter-revolution-war.json) |
+| Cry Baby | 190846 | [190846-cry-baby.json](./190846-cry-baby.json) |
 | Cry From the Abyss | 379086 | [379086-cry-from-the-abyss.json](./379086-cry-from-the-abyss.json) |
 | Cry of Athena | 158506 | [158506-cry-of-athena.json](./158506-cry-of-athena.json) |
 | Cry of Monster | 367403 | [367403-cry-of-monster.json](./367403-cry-of-monster.json) |
@@ -16277,6 +16279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryptoQuote | 96031 | [96031-cryptoquote.json](./96031-cryptoquote.json) |
 | Cryptoria | 406128 | [406128-cryptoria.json](./406128-cryptoria.json) |
 | Cryptorig | 203965 | [203965-cryptorig.json](./203965-cryptorig.json) |
+| Cryptosnake | 191448 | [191448-cryptosnake.json](./191448-cryptosnake.json) |
 | Cryptower | 260282 | [260282-cryptower.json](./260282-cryptower.json) |
 | Cryptr | 201673 | [201673-cryptr.json](./201673-cryptr.json) |
 | Cryptract | 110859 | [110859-cryptract.json](./110859-cryptract.json) |
