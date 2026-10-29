@@ -963,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Survival | 228898 | [228898-hamster-survival.json](./228898-hamster-survival.json) |
 | Hamster Town | 222833 | [222833-hamster-town.json](./222833-hamster-town.json) |
 | Hamster Tycoon: Cake Maker | 294037 | [294037-hamster-tycoon-cake-maker.json](./294037-hamster-tycoon-cake-maker.json) |
+| Hamster Valley | 214923 | [214923-hamster-valley.json](./214923-hamster-valley.json) |
 | Hamster, Eat, Run | 406668 | [406668-hamster-eat-run.json](./406668-hamster-eat-run.json) |
 | Hamsterball | 45288 | [45288-hamsterball.json](./45288-hamsterball.json) |
 | Hamsterball | 70100 | [70100-hamsterball.json](./70100-hamsterball.json) |
@@ -7567,6 +7568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hogs of War | 8877 | [8877-hogs-of-war.json](./8877-hogs-of-war.json) |
 | Hogtie | 348335 | [348335-hogtie.json](./348335-hogtie.json) |
 | Hogvalord: The Ranch | 236389 | [236389-hogvalord-the-ranch.json](./236389-hogvalord-the-ranch.json) |
+| Hogwarts Legacy: Collector's Edition | 214875 | [214875-hogwarts-legacy-collectors-edition.json](./214875-hogwarts-legacy-collectors-edition.json) |
 | Hogwarts Legacy: Dark Arts Pack | 237565 | [237565-hogwarts-legacy-dark-arts-pack.json](./237565-hogwarts-legacy-dark-arts-pack.json) |
 | Hogwarts Legacy: Deluxe Edition | 214873 | [214873-hogwarts-legacy-deluxe-edition.json](./214873-hogwarts-legacy-deluxe-edition.json) |
 | Hogwarts Legacy: Digital Deluxe Edition | 214440 | [214440-hogwarts-legacy-digital-deluxe-edition.json](./214440-hogwarts-legacy-digital-deluxe-edition.json) |
