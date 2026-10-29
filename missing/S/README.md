@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Gear | 70441 | [70441-sacred-gear.json](./70441-sacred-gear.json) |
 | Sacred Gems | 236298 | [236298-sacred-gems.json](./236298-sacred-gems.json) |
 | Sacred Grove Solitaire | 115523 | [115523-sacred-grove-solitaire.json](./115523-sacred-grove-solitaire.json) |
+| Sacred Legend: Battle of the Gods | 182037 | [182037-sacred-legend-battle-of-the-gods.json](./182037-sacred-legend-battle-of-the-gods.json) |
 | Sacred Light: Pyre of Hubris | 382986 | [382986-sacred-light-pyre-of-hubris.json](./382986-sacred-light-pyre-of-hubris.json) |
 | Sacred Line | 60524 | [60524-sacred-line.json](./60524-sacred-line.json) |
 | Sacred Line Genesis | 60523 | [60523-sacred-line-genesis.json](./60523-sacred-line-genesis.json) |
@@ -2731,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Science Fiction Classics | 78670 | [78670-science-fiction-classics.json](./78670-science-fiction-classics.json) |
 | Science Girls | 340006 | [340006-science-girls.json](./340006-science-girls.json) |
 | Science Girls | 5603 | [5603-science-girls.json](./5603-science-girls.json) |
+| Science Girls! | 182039 | [182039-science-girls.json](./182039-science-girls.json) |
 | Science Kombat | 58686 | [58686-science-kombat.json](./58686-science-kombat.json) |
 | Science Papa | 21112 | [21112-science-papa.json](./21112-science-papa.json) |
 | Science Show VR: The Abyss | 128265 | [128265-science-show-vr-the-abyss.json](./128265-science-show-vr-the-abyss.json) |
@@ -7014,6 +7016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherberia | 190452 | [190452-sherberia.json](./190452-sherberia.json) |
 | Sherbert In A Bottle | 225311 | [225311-sherbert-in-a-bottle.json](./225311-sherbert-in-a-bottle.json) |
 | Sheriff Looper | 383344 | [383344-sheriff-looper.json](./383344-sheriff-looper.json) |
+| Sheriff of Mahjong | 182057 | [182057-sheriff-of-mahjong.json](./182057-sheriff-of-mahjong.json) |
 | Sheriff Rage | 172199 | [172199-sheriff-rage.json](./172199-sheriff-rage.json) |
 | Sherlock | 25857 | [25857-sherlock.json](./25857-sherlock.json) |
 | Sherlock | 353927 | [353927-sherlock.json](./353927-sherlock.json) |
@@ -23915,6 +23918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonebot Adventures | 154433 | [154433-stonebot-adventures.json](./154433-stonebot-adventures.json) |
 | Stonebound | 378924 | [378924-stonebound.json](./378924-stonebound.json) |
 | Stonecall | 421789 | [421789-stonecall.json](./421789-stonecall.json) |
+| Stonecraft | 182070 | [182070-stonecraft.json](./182070-stonecraft.json) |
 | Stoned | 352202 | [352202-stoned.json](./352202-stoned.json) |
 | Stoned to Death | 404767 | [404767-stoned-to-death.json](./404767-stoned-to-death.json) |
 | Stonedeep | 120405 | [120405-stonedeep.json](./120405-stonedeep.json) |
