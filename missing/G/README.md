@@ -5497,6 +5497,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOL:Legend | 99581 | [99581-gol-legend.json](./99581-gol-legend.json) |
 | Golazo! | 122408 | [122408-golazo.json](./122408-golazo.json) |
 | Golazo! 2: Pixel Stars | 243236 | [243236-golazo-2-pixel-stars.json](./243236-golazo-2-pixel-stars.json) |
+| Golazo! 2: Qatar International Stars | 223772 | [223772-golazo-2-qatar-international-stars.json](./223772-golazo-2-qatar-international-stars.json) |
+| Golazo! 2: Soccer Cup 2022 | 223790 | [223790-golazo-2-soccer-cup-2022.json](./223790-golazo-2-soccer-cup-2022.json) |
 | Gold | 315301 | [315301-gold.json](./315301-gold.json) |
 | Gold ’n Goal | 406504 | [406504-gold-n-goal.json](./406504-gold-n-goal.json) |
 | Gold & Goblins | 341628 | [341628-gold-and-goblins.json](./341628-gold-and-goblins.json) |
@@ -5858,6 +5860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf With Your Friends: Bouncy Castle Course | 204956 | [204956-golf-with-your-friends-bouncy-castle-course.json](./204956-golf-with-your-friends-bouncy-castle-course.json) |
 | Golf With Your Friends: Corrupted Forest Course | 250169 | [250169-golf-with-your-friends-corrupted-forest-course.json](./250169-golf-with-your-friends-corrupted-forest-course.json) |
 | Golf With Your Friends: Critical Hit Pack | 298594 | [298594-golf-with-your-friends-critical-hit-pack.json](./298594-golf-with-your-friends-critical-hit-pack.json) |
+| Golf With Your Friends: Deluxe Edition | 223789 | [223789-golf-with-your-friends-deluxe-edition.json](./223789-golf-with-your-friends-deluxe-edition.json) |
 | Golf With Your Friends: Fairytale Fables Pack | 268540 | [268540-golf-with-your-friends-fairytale-fables-pack.json](./268540-golf-with-your-friends-fairytale-fables-pack.json) |
 | Golf With Your Friends: Horrifying Headgear Pack | 336929 | [336929-golf-with-your-friends-horrifying-headgear-pack.json](./336929-golf-with-your-friends-horrifying-headgear-pack.json) |
 | Golf With Your Friends: Legends of Olympus Pack | 317679 | [317679-golf-with-your-friends-legends-of-olympus-pack.json](./317679-golf-with-your-friends-legends-of-olympus-pack.json) |
