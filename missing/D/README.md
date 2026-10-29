@@ -9575,6 +9575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive | 88462 | [88462-dive.json](./88462-dive.json) |
 | Dive Alert: Becky's Version | 69075 | [69075-dive-alert-beckys-version.json](./69075-dive-alert-beckys-version.json) |
 | Dive Alert: Matt's Version | 69072 | [69072-dive-alert-matts-version.json](./69072-dive-alert-matts-version.json) |
+| Dive Bar Superstars | 187695 | [187695-dive-bar-superstars.json](./187695-dive-bar-superstars.json) |
 | Dive Bomber | 68462 | [68462-dive-bomber.json](./68462-dive-bomber.json) |
 | Dive Expedition: Complete Edition | 385197 | [385197-dive-expedition-complete-edition.json](./385197-dive-expedition-complete-edition.json) |
 | Dive Expedition: Plane Wreck DLC | 378971 | [378971-dive-expedition-plane-wreck-dlc.json](./378971-dive-expedition-plane-wreck-dlc.json) |
@@ -10114,6 +10115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Club Party | 58693 | [58693-dodge-club-party.json](./58693-dodge-club-party.json) |
 | Dodge Club Pocket | 96105 | [96105-dodge-club-pocket.json](./96105-dodge-club-pocket.json) |
 | Dodge Dancer | 149577 | [149577-dodge-dancer.json](./149577-dodge-dancer.json) |
+| Dodge Dots | 187686 | [187686-dodge-dots.json](./187686-dodge-dots.json) |
 | Dodge Dummy | 114351 | [114351-dodge-dummy.json](./114351-dodge-dummy.json) |
 | Dodge Everything | 381367 | [381367-dodge-everything.json](./381367-dodge-everything.json) |
 | Dodge It! | 165736 | [165736-dodge-it.json](./165736-dodge-it.json) |
