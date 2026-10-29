@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Orbit | 114844 | [114844-dangerous-orbit.json](./114844-dangerous-orbit.json) |
 | Dangerous Plane | 149682 | [149682-dangerous-plane.json](./149682-dangerous-plane.json) |
 | Dangerous Planet | 152671 | [152671-dangerous-planet.json](./152671-dangerous-planet.json) |
+| Dangerous platform | 178197 | [178197-dangerous-platform.json](./178197-dangerous-platform.json) |
 | Dangerous Pursuit | 371642 | [371642-dangerous-pursuit.json](./371642-dangerous-pursuit.json) |
 | Dangerous Relationship | 32273 | [32273-dangerous-relationship.json](./32273-dangerous-relationship.json) |
 | Dangerous Roads | 395518 | [395518-dangerous-roads.json](./395518-dangerous-roads.json) |
@@ -3048,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Covid-19 in space | 150525 | [150525-dead-covid-19-in-space.json](./150525-dead-covid-19-in-space.json) |
 | Dead Crossway Zompell Survival Zombie | 298441 | [298441-dead-crossway-zompell-survival-zombie.json](./298441-dead-crossway-zompell-survival-zombie.json) |
 | Dead Cubes | 129755 | [129755-dead-cubes.json](./129755-dead-cubes.json) |
+| Dead Dating | 178200 | [178200-dead-dating.json](./178200-dead-dating.json) |
 | Dead Dawn | 193958 | [193958-dead-dawn.json](./193958-dead-dawn.json) |
 | Dead Daylight | 330916 | [330916-dead-daylight.json](./330916-dead-daylight.json) |
 | Dead Days | 221787 | [221787-dead-days.json](./221787-dead-days.json) |
@@ -3435,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Star | 21960 | [21960-dead-star.json](./21960-dead-star.json) |
 | Dead Station | 225883 | [225883-dead-station.json](./225883-dead-station.json) |
 | Dead Station 2 | 305410 | [305410-dead-station-2.json](./305410-dead-station-2.json) |
+| Dead sticks | 177674 | [177674-dead-sticks.json](./177674-dead-sticks.json) |
 | Dead Stop | 34298 | [34298-dead-stop.json](./34298-dead-stop.json) |
 | Dead Stop: No Vacancy | 413462 | [413462-dead-stop-no-vacancy.json](./413462-dead-stop-no-vacancy.json) |
 | Dead Streets: Zombie Blitz | 326009 | [326009-dead-streets-zombie-blitz.json](./326009-dead-streets-zombie-blitz.json) |
@@ -4208,6 +4211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathmatch Remix | 322456 | [322456-deathmatch-remix.json](./322456-deathmatch-remix.json) |
 | Deathmatch Soccer | 74437 | [74437-deathmatch-soccer.json](./74437-deathmatch-soccer.json) |
 | Deathmatch Village | 42683 | [42683-deathmatch-village.json](./42683-deathmatch-village.json) |
+| Deathmaze 5000 | 178194 | [178194-deathmaze-5000.json](./178194-deathmaze-5000.json) |
 | DeathMetal | 30579 | [30579-deathmetal.json](./30579-deathmetal.json) |
 | Deathmoon | 364008 | [364008-deathmoon.json](./364008-deathmoon.json) |
 | DeathOmen | 189013 | [189013-deathomen.json](./189013-deathomen.json) |
@@ -5765,6 +5769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Draw | 235349 | [235349-demons-draw.json](./235349-demons-draw.json) |
 | Demon's Island | 301576 | [301576-demons-island.json](./301576-demons-island.json) |
 | Demon's Mirror | 152170 | [152170-demons-mirror.json](./152170-demons-mirror.json) |
+| Demon's Nightmare: Ar Ek-Qua Er Seta | 177704 | [177704-demons-nightmare-ar-ek-qua-er-seta.json](./177704-demons-nightmare-ar-ek-qua-er-seta.json) |
 | Demon's Residence | 164275 | [164275-demons-residence.json](./164275-demons-residence.json) |
 | Demon's Residence | 207878 | [207878-demons-residence.json](./207878-demons-residence.json) |
 | Demon's Revenge | 13587 | [13587-demons-revenge.json](./13587-demons-revenge.json) |
@@ -9616,6 +9621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive! | 70110 | [70110-dive.json](./70110-dive.json) |
 | Divekick | 4759 | [4759-divekick.json](./4759-divekick.json) |
 | Divekick: Addition Edition + | 20226 | [20226-divekick-addition-edition.json](./20226-divekick-addition-edition.json) |
+| Diver | 178241 | [178241-diver.json](./178241-diver.json) |
 | Diver | 267291 | [267291-diver.json](./267291-diver.json) |
 | Diver Boy | 39871 | [39871-diver-boy.json](./39871-diver-boy.json) |
 | Diver Dash | 241872 | [241872-diver-dash.json](./241872-diver-dash.json) |
@@ -11642,6 +11648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomer Simulator | 164945 | [164945-doomer-simulator.json](./164945-doomer-simulator.json) |
 | Doomer Simulator | 337556 | [337556-doomer-simulator.json](./337556-doomer-simulator.json) |
 | Doomer's Adventure | 166844 | [166844-doomers-adventure.json](./166844-doomers-adventure.json) |
+| Doomer7 | 178226 | [178226-doomer7.json](./178226-doomer7.json) |
 | Doomfields | 354929 | [354929-doomfields.json](./354929-doomfields.json) |
 | DoomGals | 202836 | [202836-doomgals.json](./202836-doomgals.json) |
 | Doomies | 253972 | [253972-doomies.json](./253972-doomies.json) |
