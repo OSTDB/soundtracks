@@ -2926,11 +2926,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman | 131964 | [131964-batman.json](./131964-batman.json) |
 | Batman | 14288 | [14288-batman.json](./14288-batman.json) |
 | Batman | 164313 | [164313-batman.json](./164313-batman.json) |
+| Batman | 198672 | [198672-batman.json](./198672-batman.json) |
+| Batman | 198676 | [198676-batman.json](./198676-batman.json) |
 | Batman | 200135 | [200135-batman.json](./200135-batman.json) |
 | Batman | 214896 | [214896-batman.json](./214896-batman.json) |
 | Batman | 26457 | [26457-batman.json](./26457-batman.json) |
 | Batman | 304097 | [304097-batman.json](./304097-batman.json) |
 | Batman & Flash | 326624 | [326624-batman-and-flash.json](./326624-batman-and-flash.json) |
+| Batman & Robin | 198673 | [198673-batman-and-robin.json](./198673-batman-and-robin.json) |
 | Batman & Robin | 199423 | [199423-batman-and-robin.json](./199423-batman-and-robin.json) |
 | Batman & Robin | 234179 | [234179-batman-and-robin.json](./234179-batman-and-robin.json) |
 | Batman & The Flash: Hero Run | 61546 | [61546-batman-and-the-flash-hero-run.json](./61546-batman-and-the-flash-hero-run.json) |
@@ -2949,8 +2952,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Forever | 77237 | [77237-batman-forever.json](./77237-batman-forever.json) |
 | Batman Forever | 77350 | [77350-batman-forever.json](./77350-batman-forever.json) |
 | Batman Forever | 7769 | [7769-batman-forever.json](./7769-batman-forever.json) |
+| Batman Forever: Double Dose of Doom | 198674 | [198674-batman-forever-double-dose-of-doom.json](./198674-batman-forever-double-dose-of-doom.json) |
 | Batman Forever: The Arcade Game | 45202 | [45202-batman-forever-the-arcade-game.json](./45202-batman-forever-the-arcade-game.json) |
 | Batman Returns | 121244 | [121244-batman-returns.json](./121244-batman-returns.json) |
+| Batman Returns | 198678 | [198678-batman-returns.json](./198678-batman-returns.json) |
 | Batman Returns | 200153 | [200153-batman-returns.json](./200153-batman-returns.json) |
 | Batman Returns | 343294 | [343294-batman-returns.json](./343294-batman-returns.json) |
 | Batman Returns | 4379 | [4379-batman-returns.json](./4379-batman-returns.json) |
@@ -3010,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Rise of Sin Tzu | 197871 | [197871-batman-rise-of-sin-tzu.json](./197871-batman-rise-of-sin-tzu.json) |
 | Batman: Rise of Sin Tzu | 5739 | [5739-batman-rise-of-sin-tzu.json](./5739-batman-rise-of-sin-tzu.json) |
 | Batman: Shadows of Gotham | 45200 | [45200-batman-shadows-of-gotham.json](./45200-batman-shadows-of-gotham.json) |
+| Batman: The Animated Series | 198677 | [198677-batman-the-animated-series.json](./198677-batman-the-animated-series.json) |
 | Batman: The Brave and the Bold | 245552 | [245552-batman-the-brave-and-the-bold.json](./245552-batman-the-brave-and-the-bold.json) |
 | Batman: The Brave and the Bold - The Videogame | 343034 | [343034-batman-the-brave-and-the-bold-the-videogame.json](./343034-batman-the-brave-and-the-bold-the-videogame.json) |
 | Batman: The Brave and the Bold - The Videogame | 4707 | [4707-batman-the-brave-and-the-bold-the-videogame.json](./4707-batman-the-brave-and-the-bold-the-videogame.json) |
@@ -3971,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battletoads | 103289 | [103289-battletoads.json](./103289-battletoads.json) |
 | Battletoads | 136619 | [136619-battletoads.json](./136619-battletoads.json) |
 | Battletoads | 14591 | [14591-battletoads.json](./14591-battletoads.json) |
+| Battletoads | 198679 | [198679-battletoads.json](./198679-battletoads.json) |
 | Battletoads | 262942 | [262942-battletoads.json](./262942-battletoads.json) |
 | Battletoads | 284226 | [284226-battletoads.json](./284226-battletoads.json) |
 | Battletoads | 365173 | [365173-battletoads.json](./365173-battletoads.json) |
@@ -14223,9 +14230,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Doom | 126295 | [126295-brutal-doom.json](./126295-brutal-doom.json) |
 | Brutal Doom 64 | 25583 | [25583-brutal-doom-64.json](./25583-brutal-doom-64.json) |
 | Brutal Doom: Ali Jr's Challenge | 199067 | [199067-brutal-doom-ali-jrs-challenge.json](./199067-brutal-doom-ali-jrs-challenge.json) |
+| Brutal Doom: Arthur's Edition Reloaded | 198654 | [198654-brutal-doom-arthurs-edition-reloaded.json](./198654-brutal-doom-arthurs-edition-reloaded.json) |
+| Brutal Doom: Black Edition | 198656 | [198656-brutal-doom-black-edition.json](./198656-brutal-doom-black-edition.json) |
+| Brutal Doom: Hell on Earth - Starter Pack | 198658 | [198658-brutal-doom-hell-on-earth-starter-pack.json](./198658-brutal-doom-hell-on-earth-starter-pack.json) |
+| Brutal Doom: Kickass Edition | 198660 | [198660-brutal-doom-kickass-edition.json](./198660-brutal-doom-kickass-edition.json) |
+| Brutal Doom: Platinum | 198675 | [198675-brutal-doom-platinum.json](./198675-brutal-doom-platinum.json) |
+| Brutal Doom: Power Fantasy | 198662 | [198662-brutal-doom-power-fantasy.json](./198662-brutal-doom-power-fantasy.json) |
+| Brutal Doom: Project Brutality | 198667 | [198667-brutal-doom-project-brutality.json](./198667-brutal-doom-project-brutality.json) |
 | Brutal Doom: ZioMcCall's Vision | 198693 | [198693-brutal-doom-ziomccalls-vision.json](./198693-brutal-doom-ziomccalls-vision.json) |
 | Brutal Grounds | 137881 | [137881-brutal-grounds.json](./137881-brutal-grounds.json) |
 | Brutal Half-Life | 195991 | [195991-brutal-half-life.json](./195991-brutal-half-life.json) |
+| Brutal Heretic RPG | 198680 | [198680-brutal-heretic-rpg.json](./198680-brutal-heretic-rpg.json) |
+| Brutal Hexen RPG | 198681 | [198681-brutal-hexen-rpg.json](./198681-brutal-hexen-rpg.json) |
 | Brutal Inventions | 88003 | [88003-brutal-inventions.json](./88003-brutal-inventions.json) |
 | Brutal John 2 | 199287 | [199287-brutal-john-2.json](./199287-brutal-john-2.json) |
 | Brutal Katana | 304832 | [304832-brutal-katana.json](./304832-brutal-katana.json) |
