@@ -5041,6 +5041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physical Contact: Speed | 51409 | [51409-physical-contact-speed.json](./51409-physical-contact-speed.json) |
 | Physical Exorcism: Case 01 | 110672 | [110672-physical-exorcism-case-01.json](./110672-physical-exorcism-case-01.json) |
 | Physical Layer | 241282 | [241282-physical-layer.json](./241282-physical-layer.json) |
+| Physical Simulation Guy | 228136 | [228136-physical-simulation-guy.json](./228136-physical-simulation-guy.json) |
 | Physical Spheres | 305519 | [305519-physical-spheres.json](./305519-physical-spheres.json) |
 | Physical Train: Chamland National Railway | 374625 | [374625-physical-train-chamland-national-railway.json](./374625-physical-train-chamland-national-railway.json) |
 | Physicality | 202361 | [202361-physicality.json](./202361-physicality.json) |
@@ -6192,6 +6193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Yeah! | 28053 | [28053-pinball-yeah.json](./28053-pinball-yeah.json) |
 | Pinball-e | 170009 | [170009-pinball-e.json](./170009-pinball-e.json) |
 | Pinball: Breakthrough Gaming Arcade | 192327 | [192327-pinball-breakthrough-gaming-arcade.json](./192327-pinball-breakthrough-gaming-arcade.json) |
+| Pinball: Breakthrough Gaming Arcade - Challenge Mode Edition | 228051 | [228051-pinball-breakthrough-gaming-arcade-challenge-mode-edition.json](./228051-pinball-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Pinball: Our Church and Halloween RPG - Machine #1 | 208619 | [208619-pinball-our-church-and-halloween-rpg-machine-1.json](./208619-pinball-our-church-and-halloween-rpg-machine-1.json) |
 | Pinball: Our Church and Halloween RPG - Machine #2 | 213631 | [213631-pinball-our-church-and-halloween-rpg-machine-2.json](./213631-pinball-our-church-and-halloween-rpg-machine-2.json) |
 | Pinball: Our Church and Halloween RPG - Machine #3 | 213632 | [213632-pinball-our-church-and-halloween-rpg-machine-3.json](./213632-pinball-our-church-and-halloween-rpg-machine-3.json) |
@@ -8944,6 +8946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Card Jockey: Ride On! | 230543 | [230543-pocket-card-jockey-ride-on.json](./230543-pocket-card-jockey-ride-on.json) |
 | Pocket Chibi - Anime Dress Up | 104454 | [104454-pocket-chibi-anime-dress-up.json](./104454-pocket-chibi-anime-dress-up.json) |
 | Pocket City | 79996 | [79996-pocket-city.json](./79996-pocket-city.json) |
+| Pocket City 2 | 228137 | [228137-pocket-city-2.json](./228137-pocket-city-2.json) |
 | Pocket Clothier | 102632 | [102632-pocket-clothier.json](./102632-pocket-clothier.json) |
 | Pocket Color Billiard | 137631 | [137631-pocket-color-billiard.json](./137631-pocket-color-billiard.json) |
 | Pocket Color Trump | 137983 | [137983-pocket-color-trump.json](./137983-pocket-color-trump.json) |
