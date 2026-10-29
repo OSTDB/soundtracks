@@ -5307,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maya Fey: Medium Attorney | 309971 | [309971-maya-fey-medium-attorney.json](./309971-maya-fey-medium-attorney.json) |
 | Maya Fey's Borger Eating Simulator | 302645 | [302645-maya-feys-borger-eating-simulator.json](./302645-maya-feys-borger-eating-simulator.json) |
 | Maya Prophecy | 291913 | [291913-maya-prophecy.json](./291913-maya-prophecy.json) |
+| Maya Star | 195356 | [195356-maya-star.json](./195356-maya-star.json) |
 | Maya the Bee: Garden Adventures | 198181 | [198181-maya-the-bee-garden-adventures.json](./198181-maya-the-bee-garden-adventures.json) |
 | Maya the Bee: Sweet Gold | 49328 | [49328-maya-the-bee-sweet-gold.json](./49328-maya-the-bee-sweet-gold.json) |
 | Maya the Bee: The Great Adventure | 49327 | [49327-maya-the-bee-the-great-adventure.json](./49327-maya-the-bee-the-great-adventure.json) |
@@ -8254,6 +8255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Girls | 212490 | [212490-merge-girls.json](./212490-merge-girls.json) |
 | Merge Grabber | 216040 | [216040-merge-grabber.json](./216040-merge-grabber.json) |
 | Merge Hamster | 326860 | [326860-merge-hamster.json](./326860-merge-hamster.json) |
+| Merge Hero | 195388 | [195388-merge-hero.json](./195388-merge-hero.json) |
 | Merge Hexa Puzzle | 348742 | [348742-merge-hexa-puzzle.json](./348742-merge-hexa-puzzle.json) |
 | Merge Hidden | 409720 | [409720-merge-hidden.json](./409720-merge-hidden.json) |
 | Merge Jelly | 208935 | [208935-merge-jelly.json](./208935-merge-jelly.json) |
@@ -8959,6 +8961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Doom | 324011 | [324011-metroid-doom.json](./324011-metroid-doom.json) |
 | Metroid Dread | 15698 | [15698-metroid-dread.json](./15698-metroid-dread.json) |
 | Metroid Dread | 233651 | [233651-metroid-dread.json](./233651-metroid-dread.json) |
+| Metroid Dread Demake | 195336 | [195336-metroid-dread-demake.json](./195336-metroid-dread-demake.json) |
 | Metroid Dreadnought | 142221 | [142221-metroid-dreadnought.json](./142221-metroid-dreadnought.json) |
 | Metroid Ecliption | 324077 | [324077-metroid-ecliption.json](./324077-metroid-ecliption.json) |
 | Metroid Fool | 295024 | [295024-metroid-fool.json](./295024-metroid-fool.json) |
