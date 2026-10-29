@@ -3422,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Road | 272707 | [272707-ghost-road.json](./272707-ghost-road.json) |
 | Ghost Room | 291882 | [291882-ghost-room.json](./291882-ghost-room.json) |
 | Ghost Room Deep | 343720 | [343720-ghost-room-deep.json](./343720-ghost-room-deep.json) |
+| Ghost Roulette | 182662 | [182662-ghost-roulette.json](./182662-ghost-roulette.json) |
 | Ghost Run | 53082 | [53082-ghost-run.json](./53082-ghost-run.json) |
 | Ghost Run 3D | 154571 | [154571-ghost-run-3d.json](./154571-ghost-run-3d.json) |
 | Ghost Rush! | 97107 | [97107-ghost-rush.json](./97107-ghost-rush.json) |
