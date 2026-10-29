@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Factory TD | 307694 | [307694-candy-factory-td.json](./307694-candy-factory-td.json) |
 | Candy Fall | 148980 | [148980-candy-fall.json](./148980-candy-fall.json) |
 | Candy Girl | 382784 | [382784-candy-girl.json](./382784-candy-girl.json) |
+| Candy Girlfriend | 207614 | [207614-candy-girlfriend.json](./207614-candy-girlfriend.json) |
 | Candy Golf | 320029 | [320029-candy-golf.json](./320029-candy-golf.json) |
 | Candy Gun | 163705 | [163705-candy-gun.json](./163705-candy-gun.json) |
 | Candy Hair Salon | 90898 | [90898-candy-hair-salon.json](./90898-candy-hair-salon.json) |
@@ -10254,6 +10255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collie Call: Farm of Tomorrow | 344964 | [344964-collie-call-farm-of-tomorrow.json](./344964-collie-call-farm-of-tomorrow.json) |
 | Collie Call: The Future Is Calling | 393041 | [393041-collie-call-the-future-is-calling.json](./393041-collie-call-the-future-is-calling.json) |
 | Collie Defense | 338788 | [338788-collie-defense.json](./338788-collie-defense.json) |
+| Collision | 207645 | [207645-collision.json](./207645-collision.json) |
 | Collision | 331107 | [331107-collision.json](./331107-collision.json) |
 | Collision Course | 30539 | [30539-collision-course.json](./30539-collision-course.json) |
 | Collision Hero | 175854 | [175854-collision-hero.json](./175854-collision-hero.json) |
@@ -13237,6 +13239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmoPirates | 258553 | [258553-cosmopirates.json](./258553-cosmopirates.json) |
 | CosmoPlayerZ | 219481 | [219481-cosmoplayerz.json](./219481-cosmoplayerz.json) |
 | Cosmopolitan | 269749 | [269749-cosmopolitan.json](./269749-cosmopolitan.json) |
+| Cosmopoly | 207653 | [207653-cosmopoly.json](./207653-cosmopoly.json) |
 | Cosmorbit | 384537 | [384537-cosmorbit.json](./384537-cosmorbit.json) |
 | Cosmos | 127861 | [127861-cosmos.json](./127861-cosmos.json) |
 | Cosmos | 281862 | [281862-cosmos.json](./281862-cosmos.json) |
@@ -13363,6 +13366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count of Wallachia | 276403 | [276403-count-of-wallachia.json](./276403-count-of-wallachia.json) |
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
 | Count Pacula | 335178 | [335178-count-pacula.json](./335178-count-pacula.json) |
+| Count Pumpcula | 207655 | [207655-count-pumpcula.json](./207655-count-pumpcula.json) |
 | Count the Dead | 148787 | [148787-count-the-dead.json](./148787-count-the-dead.json) |
 | Count the Score | 407839 | [407839-count-the-score.json](./407839-count-the-score.json) |
 | Count to Ten | 301876 | [301876-count-to-ten.json](./301876-count-to-ten.json) |
@@ -13642,6 +13646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy Escape | 88233 | [88233-cowboy-escape.json](./88233-cowboy-escape.json) |
 | Cowboy Football | 180535 | [180535-cowboy-football.json](./180535-cowboy-football.json) |
 | Cowboy Gold Round-Up | 103867 | [103867-cowboy-gold-round-up.json](./103867-cowboy-gold-round-up.json) |
+| Cowboy Hell | 207656 | [207656-cowboy-hell.json](./207656-cowboy-hell.json) |
 | Cowboy in Space | 345382 | [345382-cowboy-in-space.json](./345382-cowboy-in-space.json) |
 | Cowboy Kid | 48142 | [48142-cowboy-kid.json](./48142-cowboy-kid.json) |
 | Cowboy Kidz | 13527 | [13527-cowboy-kidz.json](./13527-cowboy-kidz.json) |
@@ -15525,6 +15530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossed Wires | 291191 | [291191-crossed-wires.json](./291191-crossed-wires.json) |
 | Crossedland | 207501 | [207501-crossedland.json](./207501-crossedland.json) |
 | Crosser | 121550 | [121550-crosser.json](./121550-crosser.json) |
+| Crossfar | 207640 | [207640-crossfar.json](./207640-crossfar.json) |
 | Crossfire | 13535 | [13535-crossfire.json](./13535-crossfire.json) |
 | Crossfire | 183918 | [183918-crossfire.json](./183918-crossfire.json) |
 | Crossfire | 404692 | [404692-crossfire.json](./404692-crossfire.json) |
