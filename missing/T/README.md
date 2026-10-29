@@ -7308,6 +7308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Delirium Dimension | 269658 | [269658-the-delirium-dimension.json](./269658-the-delirium-dimension.json) |
 | The Deliverer | 180643 | [180643-the-deliverer.json](./180643-the-deliverer.json) |
 | The DeLuca Family: Season 1 | 297721 | [297721-the-deluca-family-season-1.json](./297721-the-deluca-family-season-1.json) |
+| The Delusion of Dream | 180437 | [180437-the-delusion-of-dream.json](./180437-the-delusion-of-dream.json) |
 | The Delusions of Maximillian Wurst | 243646 | [243646-the-delusions-of-maximillian-wurst.json](./243646-the-delusions-of-maximillian-wurst.json) |
 | The Delusions of Von Sottendorff and His Squared Mind | 63520 | [63520-the-delusions-of-von-sottendorff-and-his-squared-mind.json](./63520-the-delusions-of-von-sottendorff-and-his-squared-mind.json) |
 | The Demon Blade | 309587 | [309587-the-demon-blade.json](./309587-the-demon-blade.json) |
@@ -8818,6 +8819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Garden | 31611 | [31611-the-garden.json](./31611-the-garden.json) |
 | The Garden | 376640 | [376640-the-garden.json](./376640-the-garden.json) |
 | The Garden Gate Pai Sho | 320849 | [320849-the-garden-gate-pai-sho.json](./320849-the-garden-gate-pai-sho.json) |
+| The Garden of God | 180423 | [180423-the-garden-of-god.json](./180423-the-garden-of-god.json) |
 | The Garden of Hades | 231464 | [231464-the-garden-of-hades.json](./231464-the-garden-of-hades.json) |
 | The Garden of Hermeneus | 347349 | [347349-the-garden-of-hermeneus.json](./347349-the-garden-of-hermeneus.json) |
 | The Garden of Orilon | 168581 | [168581-the-garden-of-orilon.json](./168581-the-garden-of-orilon.json) |
@@ -11609,6 +11611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lone Keeper | 354518 | [354518-the-lone-keeper.json](./354518-the-lone-keeper.json) |
 | The Lone Ranger | 218914 | [218914-the-lone-ranger.json](./218914-the-lone-ranger.json) |
 | The Lone Ranger | 48183 | [48183-the-lone-ranger.json](./48183-the-lone-ranger.json) |
+| The Lone Soldier | 180422 | [180422-the-lone-soldier.json](./180422-the-lone-soldier.json) |
 | The Lone Survivor | 105818 | [105818-the-lone-survivor.json](./105818-the-lone-survivor.json) |
 | The Lone Warrior | 37180 | [37180-the-lone-warrior.json](./37180-the-lone-warrior.json) |
 | The Loneliest Summer | 159827 | [159827-the-loneliest-summer.json](./159827-the-loneliest-summer.json) |
@@ -16057,6 +16060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trap: Remake - Winter | 351098 | [351098-the-trap-remake-winter.json](./351098-the-trap-remake-winter.json) |
 | The Trap: Remastered | 170871 | [170871-the-trap-remastered.json](./170871-the-trap-remastered.json) |
 | The Trasamire Campaigns | 213418 | [213418-the-trasamire-campaigns.json](./213418-the-trasamire-campaigns.json) |
+| The Trash Collector | 180395 | [180395-the-trash-collector.json](./180395-the-trash-collector.json) |
 | The Trash Pack | 138505 | [138505-the-trash-pack.json](./138505-the-trash-pack.json) |
 | The Trash Pack: The Gross Gang in Your Garbage | 9752 | [9752-the-trash-pack-the-gross-gang-in-your-garbage.json](./9752-the-trash-pack-the-gross-gang-in-your-garbage.json) |
 | The Trashcan Games | 302060 | [302060-the-trashcan-games.json](./302060-the-trashcan-games.json) |
@@ -17889,6 +17893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This too | 183940 | [183940-this-too.json](./183940-this-too.json) |
 | This Trip: Hunted in Forest | 178520 | [178520-this-trip-hunted-in-forest.json](./178520-this-trip-hunted-in-forest.json) |
 | This Village Girl Turned Out to Be Under a Lewdification Curse! | 83189 | [83189-this-village-girl-turned-out-to-be-under-a-lewdification-curse.json](./83189-this-village-girl-turned-out-to-be-under-a-lewdification-curse.json) |
+| This War of Mine | 180418 | [180418-this-war-of-mine.json](./180418-this-war-of-mine.json) |
 | This War of Mine: Complete Edition | 111817 | [111817-this-war-of-mine-complete-edition.json](./111817-this-war-of-mine-complete-edition.json) |
 | This War of Mine: Forget Celebrations | 323204 | [323204-this-war-of-mine-forget-celebrations.json](./323204-this-war-of-mine-forget-celebrations.json) |
 | This War of Mine: Stories - Father's Promise | 75871 | [75871-this-war-of-mine-stories-fathers-promise.json](./75871-this-war-of-mine-stories-fathers-promise.json) |
