@@ -2056,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Job Joust | 293226 | [293226-job-joust.json](./293226-job-joust.json) |
 | Job Simulator: Human Relations | 413169 | [413169-job-simulator-human-relations.json](./413169-job-simulator-human-relations.json) |
 | Job Simulator: The 2050 Archives | 12596 | [12596-job-simulator-the-2050-archives.json](./12596-job-simulator-the-2050-archives.json) |
+| Job the Leprechaun | 210435 | [210435-job-the-leprechaun.json](./210435-job-the-leprechaun.json) |
 | Job the Leprechaun | 34849 | [34849-job-the-leprechaun.json](./34849-job-the-leprechaun.json) |
 | Jobhunt | 178465 | [178465-jobhunt.json](./178465-jobhunt.json) |
 | Jobifai | 340774 | [340774-jobifai.json](./340774-jobifai.json) |
