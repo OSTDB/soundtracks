@@ -7138,6 +7138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Dream | 149889 | [149889-devils-dream.json](./149889-devils-dream.json) |
 | Devil's Drizzle | 318133 | [318133-devils-drizzle.json](./318133-devils-drizzle.json) |
 | Devil's Dungeon | 190051 | [190051-devils-dungeon.json](./190051-devils-dungeon.json) |
+| Devil's Eyes | 189830 | [189830-devils-eyes.json](./189830-devils-eyes.json) |
 | Devil's Food | 301952 | [301952-devils-food.json](./301952-devils-food.json) |
 | Devil's Gold | 166056 | [166056-devils-gold.json](./166056-devils-gold.json) |
 | Devil's Grip | 257300 | [257300-devils-grip.json](./257300-devils-grip.json) |
@@ -14870,6 +14871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Tactics | 21487 | [21487-drone-tactics.json](./21487-drone-tactics.json) |
 | Drone Tanks | 415111 | [415111-drone-tanks.json](./415111-drone-tanks.json) |
 | Drone tracks | 121699 | [121699-drone-tracks.json](./121699-drone-tracks.json) |
+| Drone VR | 189807 | [189807-drone-vr.json](./189807-drone-vr.json) |
 | Drone Warfare | 81179 | [81179-drone-warfare.json](./81179-drone-warfare.json) |
 | Drone Warfare: Global Ops | 348177 | [348177-drone-warfare-global-ops.json](./348177-drone-warfare-global-ops.json) |
 | Drone Wars | 126355 | [126355-drone-wars.json](./126355-drone-wars.json) |
