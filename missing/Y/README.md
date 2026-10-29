@@ -1536,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Reshef of Destruction | 49379 | [49379-yu-gi-oh-reshef-of-destruction.json](./49379-yu-gi-oh-reshef-of-destruction.json) |
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale | 159242 | [159242-yu-gi-oh-rush-duel-dawn-of-the-battle-royale.json](./159242-yu-gi-oh-rush-duel-dawn-of-the-battle-royale.json) |
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale - Let's Go! Go Rush!! | 217963 | [217963-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush.json](./217963-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush.json) |
+| Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale - Let's Go! Go Rush!! Special Edition | 225342 | [225342-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush-special-edition.json](./225342-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush-special-edition.json) |
 | Yu-Gi-Oh! The Dawn of Destiny | 6257 | [6257-yu-gi-oh-the-dawn-of-destiny.json](./6257-yu-gi-oh-the-dawn-of-destiny.json) |
 | Yu-Gi-Oh! The Eternal Duelist Soul | 11672 | [11672-yu-gi-oh-the-eternal-duelist-soul.json](./11672-yu-gi-oh-the-eternal-duelist-soul.json) |
 | Yu-Gi-Oh! The Sacred Cards | 6697 | [6697-yu-gi-oh-the-sacred-cards.json](./6697-yu-gi-oh-the-sacred-cards.json) |
@@ -1683,10 +1684,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Nikki 3D | 177808 | [177808-yume-nikki-3d.json](./177808-yume-nikki-3d.json) |
 | Yume Nikki GB | 229685 | [229685-yume-nikki-gb.json](./229685-yume-nikki-gb.json) |
 | Yume Nikki GB | 229686 | [229686-yume-nikki-gb.json](./229686-yume-nikki-gb.json) |
+| Yume Nikki Hazard | 225364 | [225364-yume-nikki-hazard.json](./225364-yume-nikki-hazard.json) |
 | Yume Nikki Jam 2018 Submission | 229601 | [229601-yume-nikki-jam-2018-submission.json](./229601-yume-nikki-jam-2018-submission.json) |
 | Yume Nikki PS | 376501 | [376501-yume-nikki-ps.json](./376501-yume-nikki-ps.json) |
 | Yume Nikki Rythm | 229600 | [229600-yume-nikki-rythm.json](./229600-yume-nikki-rythm.json) |
+| Yume Nikki Smash Dream | 225349 | [225349-yume-nikki-smash-dream.json](./225349-yume-nikki-smash-dream.json) |
 | Yume Nikki Space | 307052 | [307052-yume-nikki-space.json](./307052-yume-nikki-space.json) |
+| Yume Nikki Tetris Minigame | 225350 | [225350-yume-nikki-tetris-minigame.json](./225350-yume-nikki-tetris-minigame.json) |
 | Yume Nikki Ver. 1.00 | 202368 | [202368-yume-nikki-ver-1-00.json](./202368-yume-nikki-ver-1-00.json) |
 | Yume Nikki Ware | 307091 | [307091-yume-nikki-ware.json](./307091-yume-nikki-ware.json) |
 | Yume Nikki: Atari 2600 | 229681 | [229681-yume-nikki-atari-2600.json](./229681-yume-nikki-atari-2600.json) |
