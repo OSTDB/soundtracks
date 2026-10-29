@@ -9871,6 +9871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Memories: Sonata of the Soul | 311278 | [311278-midnight-memories-sonata-of-the-soul.json](./311278-midnight-memories-sonata-of-the-soul.json) |
 | Midnight Monitor: Aldercourt | 287601 | [287601-midnight-monitor-aldercourt.json](./287601-midnight-monitor-aldercourt.json) |
 | Midnight Monitor: Halloween Forever | 275429 | [275429-midnight-monitor-halloween-forever.json](./275429-midnight-monitor-halloween-forever.json) |
+| Midnight Monorail | 183742 | [183742-midnight-monorail.json](./183742-midnight-monorail.json) |
 | Midnight Munchies | 343056 | [343056-midnight-munchies.json](./343056-midnight-munchies.json) |
 | Midnight Murder Club | 312282 | [312282-midnight-murder-club.json](./312282-midnight-murder-club.json) |
 | Midnight Murder Maze | 365255 | [365255-midnight-murder-maze.json](./365255-midnight-murder-maze.json) |
@@ -17118,6 +17119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murders on Budapest | 174285 | [174285-murders-on-budapest.json](./174285-murders-on-budapest.json) |
 | Murders on the Yangtze River | 201417 | [201417-murders-on-the-yangtze-river.json](./201417-murders-on-the-yangtze-river.json) |
 | Murdershifters | 183768 | [183768-murdershifters.json](./183768-murdershifters.json) |
+| Murdertrain a comin` | 183735 | [183735-murdertrain-a-comin.json](./183735-murdertrain-a-comin.json) |
 | Murderwave: Digital Slaughter | 121011 | [121011-murderwave-digital-slaughter.json](./121011-murderwave-digital-slaughter.json) |
 | Murdle | 194471 | [194471-murdle.json](./194471-murdle.json) |
 | Murdo's Quest | 201464 | [201464-murdos-quest.json](./201464-murdos-quest.json) |
