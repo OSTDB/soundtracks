@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Army Battle Simulator | 102734 | [102734-tank-army-battle-simulator.json](./102734-tank-army-battle-simulator.json) |
 | Tank Army: Fast Fingers Shmup | 175366 | [175366-tank-army-fast-fingers-shmup.json](./175366-tank-army-fast-fingers-shmup.json) |
 | Tank Assault X | 29633 | [29633-tank-assault-x.json](./29633-tank-assault-x.json) |
+| Tank Attack | 217693 | [217693-tank-attack.json](./217693-tank-attack.json) |
 | Tank Attack | 273913 | [273913-tank-attack.json](./273913-tank-attack.json) |
 | Tank Attack | 401148 | [401148-tank-attack.json](./401148-tank-attack.json) |
 | Tank Attack | 60037 | [60037-tank-attack.json](./60037-tank-attack.json) |
@@ -8407,6 +8408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flaming Shipwreck | 273204 | [273204-the-flaming-shipwreck.json](./273204-the-flaming-shipwreck.json) |
 | The Flap! | 89785 | [89785-the-flap.json](./89785-the-flap.json) |
 | The Flash | 100289 | [100289-the-flash.json](./100289-the-flash.json) |
+| The Flash | 217694 | [217694-the-flash.json](./217694-the-flash.json) |
 | The Flash | 387115 | [387115-the-flash.json](./387115-the-flash.json) |
 | The Flash | 48945 | [48945-the-flash.json](./48945-the-flash.json) |
 | The Flat | 262910 | [262910-the-flat.json](./262910-the-flat.json) |
@@ -19762,6 +19764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 2008 | 51234 | [51234-tiger-woods-pga-tour-2008.json](./51234-tiger-woods-pga-tour-2008.json) |
 | Tiger Woods PGA Tour Golf | 206788 | [206788-tiger-woods-pga-tour-golf.json](./206788-tiger-woods-pga-tour-golf.json) |
 | Tiger-Heli | 364617 | [364617-tiger-heli.json](./364617-tiger-heli.json) |
+| Tiger's Baseball All-Stars | 217705 | [217705-tigers-baseball-all-stars.json](./217705-tigers-baseball-all-stars.json) |
 | Tigers on the Hunt | 59521 | [59521-tigers-on-the-hunt.json](./59521-tigers-on-the-hunt.json) |
 | Tigers on the Prowl | 47113 | [47113-tigers-on-the-prowl.json](./47113-tigers-on-the-prowl.json) |
 | Tigey's Gift | 199302 | [199302-tigeys-gift.json](./199302-tigeys-gift.json) |
@@ -23113,6 +23116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touge: JDM Dealership Simulator | 414158 | [414158-touge-jdm-dealership-simulator.json](./414158-touge-jdm-dealership-simulator.json) |
 | Tougen Anki: Crimson Inferno | 396591 | [396591-tougen-anki-crimson-inferno.json](./396591-tougen-anki-crimson-inferno.json) |
 | Tougenkyou | 151807 | [151807-tougenkyou.json](./151807-tougenkyou.json) |
+| Tough Beans | 217681 | [217681-tough-beans.json](./217681-tough-beans.json) |
 | Tough Cat | 416966 | [416966-tough-cat.json](./416966-tough-cat.json) |
 | Tough Love Arena | 142114 | [142114-tough-love-arena.json](./142114-tough-love-arena.json) |
 | Tough Story: Big Hell | 54457 | [54457-tough-story-big-hell.json](./54457-tough-story-big-hell.json) |
@@ -26542,6 +26546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Trap | 237270 | [237270-treasure-trap.json](./237270-treasure-trap.json) |
 | Treasure Trap | 70936 | [70936-treasure-trap.json](./70936-treasure-trap.json) |
 | Treasure Treasure: Fortress Forage | 91780 | [91780-treasure-treasure-fortress-forage.json](./91780-treasure-treasure-fortress-forage.json) |
+| Treasure Trolls | 217700 | [217700-treasure-trolls.json](./217700-treasure-trolls.json) |
 | Treasure Trove Through Time | 176282 | [176282-treasure-trove-through-time.json](./176282-treasure-trove-through-time.json) |
 | Treasure World | 21125 | [21125-treasure-world.json](./21125-treasure-world.json) |
 | TreasureHunter by R.Garfield | 175579 | [175579-treasurehunter-by-r-garfield.json](./175579-treasurehunter-by-r-garfield.json) |
@@ -27330,6 +27335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troll Face Quest: Game of Trolls | 306703 | [306703-troll-face-quest-game-of-trolls.json](./306703-troll-face-quest-game-of-trolls.json) |
 | Troll Hunter VR | 150916 | [150916-troll-hunter-vr.json](./150916-troll-hunter-vr.json) |
 | Troll Quest | 145930 | [145930-troll-quest.json](./145930-troll-quest.json) |
+| Troll-A-Mania | 217701 | [217701-troll-a-mania.json](./217701-troll-a-mania.json) |
 | Trollboarder | 85458 | [85458-trollboarder.json](./85458-trollboarder.json) |
 | Trollbound | 233131 | [233131-trollbound.json](./233131-trollbound.json) |
 | Trolley Delayma | 267294 | [267294-trolley-delayma.json](./267294-trolley-delayma.json) |
