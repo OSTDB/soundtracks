@@ -854,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -14459,6 +14460,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS SimCity: Machi Tsukuri Taikai - Scenario 3 | 179713 | [179713-bs-simcity-machi-tsukuri-taikai-scenario-3.json](./179713-bs-simcity-machi-tsukuri-taikai-scenario-3.json) |
 | BS SimCity: Machi Tsukuri Taikai - Scenario 4 | 179714 | [179714-bs-simcity-machi-tsukuri-taikai-scenario-4.json](./179714-bs-simcity-machi-tsukuri-taikai-scenario-4.json) |
 | BS Spriggan Powered | 134462 | [134462-bs-spriggan-powered.json](./134462-bs-spriggan-powered.json) |
+| BS Spriggan Powered: Dai-1-wa | 179852 | [179852-bs-spriggan-powered-dai-1-wa.json](./179852-bs-spriggan-powered-dai-1-wa.json) |
+| BS Spriggan Powered: Dai-2-wa | 179855 | [179855-bs-spriggan-powered-dai-2-wa.json](./179855-bs-spriggan-powered-dai-2-wa.json) |
+| BS Spriggan Powered: Dai-3-wa | 179856 | [179856-bs-spriggan-powered-dai-3-wa.json](./179856-bs-spriggan-powered-dai-3-wa.json) |
+| BS Spriggan Powered: Dai-4-wa | 179869 | [179869-bs-spriggan-powered-dai-4-wa.json](./179869-bs-spriggan-powered-dai-4-wa.json) |
+| BS Spriggan Powered: Prelude | 179872 | [179872-bs-spriggan-powered-prelude.json](./179872-bs-spriggan-powered-prelude.json) |
 | BS Super Aleste | 266871 | [266871-bs-super-aleste.json](./266871-bs-super-aleste.json) |
 | BS Super Mario Collection: Dai-1-shuu | 179729 | [179729-bs-super-mario-collection-dai-1-shuu.json](./179729-bs-super-mario-collection-dai-1-shuu.json) |
 | BS Super Mario Collection: Dai-2-shuu | 179730 | [179730-bs-super-mario-collection-dai-2-shuu.json](./179730-bs-super-mario-collection-dai-2-shuu.json) |
@@ -14469,6 +14475,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Super Mario USA: Power Challenge - Dai-3-kai | 179974 | [179974-bs-super-mario-usa-power-challenge-dai-3-kai.json](./179974-bs-super-mario-usa-power-challenge-dai-3-kai.json) |
 | BS Super Mario USA: Power Challenge - Dai-4-kai | 179975 | [179975-bs-super-mario-usa-power-challenge-dai-4-kai.json](./179975-bs-super-mario-usa-power-challenge-dai-4-kai.json) |
 | BS Tantei Club: Yuki ni Kieta Kako | 68227 | [68227-bs-tantei-club-yuki-ni-kieta-kako.json](./68227-bs-tantei-club-yuki-ni-kieta-kako.json) |
+| BS Tantei Club: Yuki ni Kieta Kako - Chuuhen | 179836 | [179836-bs-tantei-club-yuki-ni-kieta-kako-chuuhen.json](./179836-bs-tantei-club-yuki-ni-kieta-kako-chuuhen.json) |
+| BS Tantei Club: Yuki ni Kieta Kako - Kouhen | 179837 | [179837-bs-tantei-club-yuki-ni-kieta-kako-kouhen.json](./179837-bs-tantei-club-yuki-ni-kieta-kako-kouhen.json) |
+| BS Tantei Club: Yuki ni Kieta Kako - Zenpen | 179835 | [179835-bs-tantei-club-yuki-ni-kieta-kako-zenpen.json](./179835-bs-tantei-club-yuki-ni-kieta-kako-zenpen.json) |
 | BS The Legend of Zelda "MottZilla Patch" | 150080 | [150080-bs-the-legend-of-zelda-mottzilla-patch.json](./150080-bs-the-legend-of-zelda-mottzilla-patch.json) |
 | BS The Legend of Zelda: Ancient Stone Tablets | 322560 | [322560-bs-the-legend-of-zelda-ancient-stone-tablets.json](./322560-bs-the-legend-of-zelda-ancient-stone-tablets.json) |
 | BS The Legend of Zelda: Ancient Stone Tablets - Master Quest | 150082 | [150082-bs-the-legend-of-zelda-ancient-stone-tablets-master-quest.json](./150082-bs-the-legend-of-zelda-ancient-stone-tablets-master-quest.json) |
