@@ -2604,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Want Your Head | 383154 | [383154-we-want-your-head.json](./383154-we-want-your-head.json) |
 | We Went Back | 130185 | [130185-we-went-back.json](./130185-we-went-back.json) |
 | We Were Here Tomorrow | 393015 | [393015-we-were-here-tomorrow.json](./393015-we-were-here-tomorrow.json) |
+| We Were Kidnapped | 202511 | [202511-we-were-kidnapped.json](./202511-we-were-kidnapped.json) |
 | We Were Monkeys | 292437 | [292437-we-were-monkeys.json](./292437-we-were-monkeys.json) |
 | We Who Rise | 358814 | [358814-we-who-rise.json](./358814-we-who-rise.json) |
 | We Will Be Gods | 342716 | [342716-we-will-be-gods.json](./342716-we-will-be-gods.json) |
