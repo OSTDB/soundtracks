@@ -5343,6 +5343,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Remnant: The First Chapter | 195411 | [195411-eternal-remnant-the-first-chapter.json](./195411-eternal-remnant-the-first-chapter.json) |
 | Eternal Return | 31290 | [31290-eternal-return.json](./31290-eternal-return.json) |
 | Eternal Return: Beachside Splash Character Bundle | 226790 | [226790-eternal-return-beachside-splash-character-bundle.json](./226790-eternal-return-beachside-splash-character-bundle.json) |
+| Eternal Return: Character Bundle 1 | 225947 | [225947-eternal-return-character-bundle-1.json](./225947-eternal-return-character-bundle-1.json) |
+| Eternal Return: Character Bundle 2 | 225948 | [225948-eternal-return-character-bundle-2.json](./225948-eternal-return-character-bundle-2.json) |
 | Eternal Ring | 10905 | [10905-eternal-ring.json](./10905-eternal-ring.json) |
 | Eternal Rising | 244175 | [244175-eternal-rising.json](./244175-eternal-rising.json) |
 | Eternal Roadster | 244097 | [244097-eternal-roadster.json](./244097-eternal-roadster.json) |
