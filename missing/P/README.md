@@ -6758,6 +6758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Caribbean Online | 81226 | [81226-pirates-of-the-caribbean-online.json](./81226-pirates-of-the-caribbean-online.json) |
 | Pirates of the Caribbean: Aegir's Fire | 72552 | [72552-pirates-of-the-caribbean-aegirs-fire.json](./72552-pirates-of-the-caribbean-aegirs-fire.json) |
 | Pirates of the Caribbean: Armada of the Damned | 68228 | [68228-pirates-of-the-caribbean-armada-of-the-damned.json](./68228-pirates-of-the-caribbean-armada-of-the-damned.json) |
+| Pirates of the Caribbean: At World's End | 201926 | [201926-pirates-of-the-caribbean-at-worlds-end.json](./201926-pirates-of-the-caribbean-at-worlds-end.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 194266 | [194266-pirates-of-the-caribbean-dead-mans-chest.json](./194266-pirates-of-the-caribbean-dead-mans-chest.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 20542 | [20542-pirates-of-the-caribbean-dead-mans-chest.json](./20542-pirates-of-the-caribbean-dead-mans-chest.json) |
 | Pirates Of The Caribbean: Islands Of Fortune | 294649 | [294649-pirates-of-the-caribbean-islands-of-fortune.json](./294649-pirates-of-the-caribbean-islands-of-fortune.json) |
@@ -12549,6 +12550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pride and Prejudice | 22177 | [22177-pride-and-prejudice.json](./22177-pride-and-prejudice.json) |
 | Pride and Prejudice: Blood Ties | 192776 | [192776-pride-and-prejudice-blood-ties.json](./192776-pride-and-prejudice-blood-ties.json) |
 | Pride and Prejudice: Blood Ties - Collector's Edition | 226491 | [226491-pride-and-prejudice-blood-ties-collectors-edition.json](./226491-pride-and-prejudice-blood-ties-collectors-edition.json) |
+| Pride Dance Out & Proud | 201972 | [201972-pride-dance-out-and-proud.json](./201972-pride-dance-out-and-proud.json) |
 | Pride FC: Fighting Championships | 18276 | [18276-pride-fc-fighting-championships.json](./18276-pride-fc-fighting-championships.json) |
 | Pride GP Grand Prix 2003 | 67048 | [67048-pride-gp-grand-prix-2003.json](./67048-pride-gp-grand-prix-2003.json) |
 | Pride of Nations | 2068 | [2068-pride-of-nations.json](./2068-pride-of-nations.json) |
@@ -15403,6 +15405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punk Wars | 150059 | [150059-punk-wars.json](./150059-punk-wars.json) |
 | Punk Wars: Threat From Within | 201015 | [201015-punk-wars-threat-from-within.json](./201015-punk-wars-threat-from-within.json) |
 | Punk-o-Matic | 243144 | [243144-punk-o-matic.json](./243144-punk-o-matic.json) |
+| Punk-o-Matic 2 | 201931 | [201931-punk-o-matic-2.json](./201931-punk-o-matic-2.json) |
 | Punk's Not Dead | 50373 | [50373-punks-not-dead.json](./50373-punks-not-dead.json) |
 | Punkgrad | 165743 | [165743-punkgrad.json](./165743-punkgrad.json) |
 | Punks Not Dead | 83938 | [83938-punks-not-dead.json](./83938-punks-not-dead.json) |
