@@ -1933,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caramella Girls | 174357 | [174357-caramella-girls.json](./174357-caramella-girls.json) |
 | Caravan | 19290 | [19290-caravan.json](./19290-caravan.json) |
 | Caravan Boomer | 266911 | [266911-caravan-boomer.json](./266911-caravan-boomer.json) |
+| Caravan Journey | 225957 | [225957-caravan-journey.json](./225957-caravan-journey.json) |
 | Caravan Journey: Nitro | 226089 | [226089-caravan-journey-nitro.json](./226089-caravan-journey-nitro.json) |
 | Caravan Manager | 420495 | [420495-caravan-manager.json](./420495-caravan-manager.json) |
 | Caravan Quest: Discover America | 336983 | [336983-caravan-quest-discover-america.json](./336983-caravan-quest-discover-america.json) |
@@ -2316,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carimara: Beneath the Forlorn Limbs | 339618 | [339618-carimara-beneath-the-forlorn-limbs.json](./339618-carimara-beneath-the-forlorn-limbs.json) |
 | Caring Critter Bundle | 328565 | [328565-caring-critter-bundle.json](./328565-caring-critter-bundle.json) |
 | Cario | 220341 | [220341-cario.json](./220341-cario.json) |
+| Cario 2 | 225956 | [225956-cario-2.json](./225956-cario-2.json) |
 | Cario 3 | 228762 | [228762-cario-3.json](./228762-cario-3.json) |
 | Carious Weltling | 354450 | [354450-carious-weltling.json](./354450-carious-weltling.json) |
 | Carious Weltling II | 111553 | [111553-carious-weltling-ii.json](./111553-carious-weltling-ii.json) |
@@ -7878,6 +7880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines II - San Francisco Set | 294380 | [294380-cities-skylines-ii-san-francisco-set.json](./294380-cities-skylines-ii-san-francisco-set.json) |
 | Cities: Skylines II - Ultimate Edition | 273942 | [273942-cities-skylines-ii-ultimate-edition.json](./273942-cities-skylines-ii-ultimate-edition.json) |
 | Cities: Skylines Remastered - Campus | 301332 | [301332-cities-skylines-remastered-campus.json](./301332-cities-skylines-remastered-campus.json) |
+| Cities: VR - Enhanced Edition | 225958 | [225958-cities-vr-enhanced-edition.json](./225958-cities-vr-enhanced-edition.json) |
 | CitiesCorp Concept - Build Everything on Your Own | 33484 | [33484-citiescorp-concept-build-everything-on-your-own.json](./33484-citiescorp-concept-build-everything-on-your-own.json) |
 | Citizen Burger Disorder | 60868 | [60868-citizen-burger-disorder.json](./60868-citizen-burger-disorder.json) |
 | Citizen Conflict | 248301 | [248301-citizen-conflict.json](./248301-citizen-conflict.json) |
@@ -15542,6 +15545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroads Inn: Anniversary Edition | 154549 | [154549-crossroads-inn-anniversary-edition.json](./154549-crossroads-inn-anniversary-edition.json) |
 | Crossroads of Fate | 185601 | [185601-crossroads-of-fate.json](./185601-crossroads-of-fate.json) |
 | Crossroads of Life | 213323 | [213323-crossroads-of-life.json](./213323-crossroads-of-life.json) |
+| Crossroads: Escaping the Dark - Collector's Edition | 225976 | [225976-crossroads-escaping-the-dark-collectors-edition.json](./225976-crossroads-escaping-the-dark-collectors-edition.json) |
 | Crossroads: Fatal Truths - Collector's Edition | 383745 | [383745-crossroads-fatal-truths-collectors-edition.json](./383745-crossroads-fatal-truths-collectors-edition.json) |
 | Crossroads: Lucky Edition | 113241 | [113241-crossroads-lucky-edition.json](./113241-crossroads-lucky-edition.json) |
 | Crossroads: On a Just Path - Collector's Edition | 187306 | [187306-crossroads-on-a-just-path-collectors-edition.json](./187306-crossroads-on-a-just-path-collectors-edition.json) |
