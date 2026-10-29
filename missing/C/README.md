@@ -1342,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cantarella: Dominion of Qualia | 386219 | [386219-cantarella-dominion-of-qualia.json](./386219-cantarella-dominion-of-qualia.json) |
 | Canteen's Islander | 386159 | [386159-canteens-islander.json](./386159-canteens-islander.json) |
 | Canter Crossing | 276691 | [276691-canter-crossing.json](./276691-canter-crossing.json) |
+| Canterz Paranormies | 202508 | [202508-canterz-paranormies.json](./202508-canterz-paranormies.json) |
 | Canterz Paranormies 2 | 226281 | [226281-canterz-paranormies-2.json](./226281-canterz-paranormies-2.json) |
 | Cantirium: God Slayer | 240726 | [240726-cantirium-god-slayer.json](./240726-cantirium-god-slayer.json) |
 | Cantrip | 186070 | [186070-cantrip.json](./186070-cantrip.json) |
@@ -3127,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Rain | 320025 | [320025-castle-rain.json](./320025-castle-rain.json) |
 | Castle Ramble | 256433 | [256433-castle-ramble.json](./256433-castle-ramble.json) |
 | Castle Rathbone | 234840 | [234840-castle-rathbone.json](./234840-castle-rathbone.json) |
+| Castle Reborn | 202524 | [202524-castle-reborn.json](./202524-castle-reborn.json) |
 | Castle Red | 123000 | [123000-castle-red.json](./123000-castle-red.json) |
 | Castle Rencounter | 111475 | [111475-castle-rencounter.json](./111475-castle-rencounter.json) |
 | Castle Renovator | 219174 | [219174-castle-renovator.json](./219174-castle-renovator.json) |
@@ -4369,6 +4371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Coin Pilot | 305412 | [305412-cazzarion-coin-pilot.json](./305412-cazzarion-coin-pilot.json) |
 | Cazzarion: Cute Town | 335188 | [335188-cazzarion-cute-town.json](./335188-cazzarion-cute-town.json) |
 | Cazzarion: Dart Wheel | 296087 | [296087-cazzarion-dart-wheel.json](./296087-cazzarion-dart-wheel.json) |
+| Cazzarion: Demon Hunting | 202498 | [202498-cazzarion-demon-hunting.json](./202498-cazzarion-demon-hunting.json) |
 | Cazzarion: Drone Attack | 320760 | [320760-cazzarion-drone-attack.json](./320760-cazzarion-drone-attack.json) |
 | Cazzarion: Drone Flight | 317566 | [317566-cazzarion-drone-flight.json](./317566-cazzarion-drone-flight.json) |
 | Cazzarion: Fallen Kingdom | 323682 | [323682-cazzarion-fallen-kingdom.json](./323682-cazzarion-fallen-kingdom.json) |
@@ -7667,6 +7670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinema Theater Tycoon | 358377 | [358377-cinema-theater-tycoon.json](./358377-cinema-theater-tycoon.json) |
 | Cinema Tycoon | 369679 | [369679-cinema-tycoon.json](./369679-cinema-tycoon.json) |
 | Cinema Tycoon 2: Movie Mania | 62486 | [62486-cinema-tycoon-2-movie-mania.json](./62486-cinema-tycoon-2-movie-mania.json) |
+| CinemApocalypse | 202502 | [202502-cinemapocalypse.json](./202502-cinemapocalypse.json) |
 | Cinemaster Cinema Simulator | 326452 | [326452-cinemaster-cinema-simulator.json](./326452-cinemaster-cinema-simulator.json) |
 | Cinematic Mod | 308290 | [308290-cinematic-mod.json](./308290-cinematic-mod.json) |
 | Cinematrix | 319218 | [319218-cinematrix.json](./319218-cinematrix.json) |
@@ -17579,6 +17583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Things Dying Violently | 12394 | [12394-cute-things-dying-violently.json](./12394-cute-things-dying-violently.json) |
 | Cute Train | 203148 | [203148-cute-train.json](./203148-cute-train.json) |
 | Cute Triplets | 148540 | [148540-cute-triplets.json](./148540-cute-triplets.json) |
+| Cute Waifu | 202504 | [202504-cute-waifu.json](./202504-cute-waifu.json) |
 | Cute War: Zero | 86740 | [86740-cute-war-zero.json](./86740-cute-war-zero.json) |
 | Cute Warrior Girl | 369352 | [369352-cute-warrior-girl.json](./369352-cute-warrior-girl.json) |
 | Cute Warrior Girl 2 | 369536 | [369536-cute-warrior-girl-2.json](./369536-cute-warrior-girl-2.json) |
