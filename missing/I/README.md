@@ -3050,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industry Transporters | 35102 | [35102-industry-transporters.json](./35102-industry-transporters.json) |
 | IndustryPlayer | 79239 | [79239-industryplayer.json](./79239-industryplayer.json) |
 | Indy 4 | 18583 | [18583-indy-4.json](./18583-indy-4.json) |
+| Indy 500 | 198635 | [198635-indy-500.json](./198635-indy-500.json) |
 | Indy 500 | 199427 | [199427-indy-500.json](./199427-indy-500.json) |
 | Indy 500 | 39460 | [39460-indy-500.json](./39460-indy-500.json) |
 | Indy 500 | 74170 | [74170-indy-500.json](./74170-indy-500.json) |
