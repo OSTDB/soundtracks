@@ -2888,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Slot Machines | 81794 | [81794-casino-slot-machines.json](./81794-casino-slot-machines.json) |
 | Casino Tycoon | 130666 | [130666-casino-tycoon.json](./130666-casino-tycoon.json) |
 | Casino Tycoon | 302043 | [302043-casino-tycoon.json](./302043-casino-tycoon.json) |
+| Casino Tycoon Simulator | 189849 | [189849-casino-tycoon-simulator.json](./189849-casino-tycoon-simulator.json) |
 | Casino Tycoon Simulator | 308491 | [308491-casino-tycoon-simulator.json](./308491-casino-tycoon-simulator.json) |
 | Casino Tycoon: Sin & Win | 373348 | [373348-casino-tycoon-sin-and-win.json](./373348-casino-tycoon-sin-and-win.json) |
 | Casino World | 303087 | [303087-casino-world.json](./303087-casino-world.json) |
@@ -5303,6 +5304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaotic Pursuit | 259857 | [259857-chaotic-pursuit.json](./259857-chaotic-pursuit.json) |
 | Chaotic World | 414343 | [414343-chaotic-world.json](./414343-chaotic-world.json) |
 | Chaotic: Shadow Warriors | 197894 | [197894-chaotic-shadow-warriors.json](./197894-chaotic-shadow-warriors.json) |
+| ChaoticNightmare | 189827 | [189827-chaoticnightmare.json](./189827-chaoticnightmare.json) |
 | Chaotix CD | 332455 | [332455-chaotix-cd.json](./332455-chaotix-cd.json) |
 | Chaotix Mania | 334064 | [334064-chaotix-mania.json](./334064-chaotix-mania.json) |
 | Chaotix Pinball | 321929 | [321929-chaotix-pinball.json](./321929-chaotix-pinball.json) |
@@ -9429,6 +9431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Pinball | 243691 | [243691-club-pinball.json](./243691-club-pinball.json) |
 | Club Soccer Director 2018 | 55160 | [55160-club-soccer-director-2018.json](./55160-club-soccer-director-2018.json) |
 | Club Soccer Director 2021 | 148859 | [148859-club-soccer-director-2021.json](./148859-club-soccer-director-2021.json) |
+| Club Soccer Director 2022 | 189843 | [189843-club-soccer-director-2022.json](./189843-club-soccer-director-2022.json) |
 | Club Soccer Director PRO 2020 | 120578 | [120578-club-soccer-director-pro-2020.json](./120578-club-soccer-director-pro-2020.json) |
 | Club Soko | 368429 | [368429-club-soko.json](./368429-club-soko.json) |
 | Club Sports Collection | 385134 | [385134-club-sports-collection.json](./385134-club-sports-collection.json) |
@@ -15290,6 +15293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Trigger | 30174 | [30174-crimson-trigger.json](./30174-crimson-trigger.json) |
 | Crimson Twilight: Undead Lover | 298977 | [298977-crimson-twilight-undead-lover.json](./298977-crimson-twilight-undead-lover.json) |
 | Crimson Wars | 413512 | [413512-crimson-wars.json](./413512-crimson-wars.json) |
+| Crimson Waves on the Emerald Sea | 189831 | [189831-crimson-waves-on-the-emerald-sea.json](./189831-crimson-waves-on-the-emerald-sea.json) |
 | Crimson Waves on the Emerald Sea: Amaranthine Moon | 309166 | [309166-crimson-waves-on-the-emerald-sea-amaranthine-moon.json](./309166-crimson-waves-on-the-emerald-sea-amaranthine-moon.json) |
 | Crimson Wheels | 196525 | [196525-crimson-wheels.json](./196525-crimson-wheels.json) |
 | Crimson wind | 284990 | [284990-crimson-wind.json](./284990-crimson-wind.json) |
