@@ -11240,6 +11240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Up | 390290 | [390290-mini-up.json](./390290-mini-up.json) |
 | Mini War: Three Kingdoms | 171456 | [171456-mini-war-three-kingdoms.json](./171456-mini-war-three-kingdoms.json) |
 | Mini Warrior Defense | 404217 | [404217-mini-warrior-defense.json](./404217-mini-warrior-defense.json) |
+| Mini Warriors | 227457 | [227457-mini-warriors.json](./227457-mini-warriors.json) |
 | Mini Warriors: Three Kingdoms | 196305 | [196305-mini-warriors-three-kingdoms.json](./196305-mini-warriors-three-kingdoms.json) |
 | Mini Wars Blackout | 87133 | [87133-mini-wars-blackout.json](./87133-mini-wars-blackout.json) |
 | Mini Wheels | 83591 | [83591-mini-wheels.json](./83591-mini-wheels.json) |
@@ -16654,6 +16655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MultiVersus: MVP Pack 2 | 316065 | [316065-multiversus-mvp-pack-2.json](./316065-multiversus-mvp-pack-2.json) |
 | MultiVersus: Season 1 | 213561 | [213561-multiversus-season-1.json](./213561-multiversus-season-1.json) |
 | Multiversus: Season 1 - Puns & Villainy | 305377 | [305377-multiversus-season-1-puns-and-villainy.json](./305377-multiversus-season-1-puns-and-villainy.json) |
+| MultiVersus: Season 2 | 227458 | [227458-multiversus-season-2.json](./227458-multiversus-season-2.json) |
 | MultiVersus: Season 3 - Sugar, Spice & Everything Nice! | 316734 | [316734-multiversus-season-3-sugar-spice-and-everything-nice.json](./316734-multiversus-season-3-sugar-spice-and-everything-nice.json) |
 | MultiVersus: Season 4 | 330139 | [330139-multiversus-season-4.json](./330139-multiversus-season-4.json) |
 | MultiVersus: Season 5 | 330143 | [330143-multiversus-season-5.json](./330143-multiversus-season-5.json) |
@@ -18483,6 +18485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town: ICEE Amusement Park | 99320 | [99320-my-town-icee-amusement-park.json](./99320-my-town-icee-amusement-park.json) |
 | My Town: Museum | 89126 | [89126-my-town-museum.json](./89126-my-town-museum.json) |
 | My Town: Shopping Mall | 88919 | [88919-my-town-shopping-mall.json](./88919-my-town-shopping-mall.json) |
+| My Town: World of Games | 227539 | [227539-my-town-world-of-games.json](./227539-my-town-world-of-games.json) |
 | My Traditional Princes | 299600 | [299600-my-traditional-princes.json](./299600-my-traditional-princes.json) |
 | My Trailer Park Life | 275018 | [275018-my-trailer-park-life.json](./275018-my-trailer-park-life.json) |
 | My Train Arrives | 121980 | [121980-my-train-arrives.json](./121980-my-train-arrives.json) |
