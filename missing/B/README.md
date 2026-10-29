@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babushka | 414754 | [414754-babushka.json](./414754-babushka.json) |
 | Babushka Baba Yaga | 298001 | [298001-babushka-baba-yaga.json](./298001-babushka-baba-yaga.json) |
 | Babushka: Old Lady’s Payback | 389642 | [389642-babushka-old-lady-s-payback.json](./389642-babushka-old-lady-s-payback.json) |
+| Babushka's Glitch Dungeon | 202482 | [202482-babushkas-glitch-dungeon.json](./202482-babushkas-glitch-dungeon.json) |
 | Baby Arms | 246432 | [246432-baby-arms.json](./246432-baby-arms.json) |
 | Baby Bear's Big Day Out | 155707 | [155707-baby-bears-big-day-out.json](./155707-baby-bears-big-day-out.json) |
 | Baby Bee | 114233 | [114233-baby-bee.json](./114233-baby-bee.json) |
@@ -845,7 +846,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2915,6 +2915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BathDoom | 254306 | [254306-bathdoom.json](./254306-bathdoom.json) |
 | Bathhouse Creatures | 331274 | [331274-bathhouse-creatures.json](./331274-bathhouse-creatures.json) |
 | Bathos | 92842 | [92842-bathos.json](./92842-bathos.json) |
+| Bathotel | 202495 | [202495-bathotel.json](./202495-bathotel.json) |
 | Bathroom Chef | 101627 | [101627-bathroom-chef.json](./101627-bathroom-chef.json) |
 | Bathtime Toys | 192206 | [192206-bathtime-toys.json](./192206-bathtime-toys.json) |
 | Bathysphere | 415144 | [415144-bathysphere.json](./415144-bathysphere.json) |
@@ -5915,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of British: Summer Sports | 246930 | [246930-best-of-british-summer-sports.json](./246930-best-of-british-summer-sports.json) |
 | Best of Casual Games | 84784 | [84784-best-of-casual-games.json](./84784-best-of-casual-games.json) |
 | Best of Chess: Volume I - American Triumph | 362419 | [362419-best-of-chess-volume-i-american-triumph.json](./362419-best-of-chess-volume-i-american-triumph.json) |
+| Best of Eleven | 202488 | [202488-best-of-eleven.json](./202488-best-of-eleven.json) |
 | Best of Klei 2025 | 52630 | [52630-best-of-klei-2025.json](./52630-best-of-klei-2025.json) |
 | Best of Mahjong | 85509 | [85509-best-of-mahjong.json](./85509-best-of-mahjong.json) |
 | Best of Merge Vol #1 | 207885 | [207885-best-of-merge-vol-1.json](./207885-best-of-merge-vol-1.json) |
@@ -7324,6 +7326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biotype | 403643 | [403643-biotype.json](./403643-biotype.json) |
 | Biovoid | 384042 | [384042-biovoid.json](./384042-biovoid.json) |
 | Bioweaver | 318281 | [318281-bioweaver.json](./318281-bioweaver.json) |
+| Bioxotica | 202487 | [202487-bioxotica.json](./202487-bioxotica.json) |
 | Biozone | 90472 | [90472-biozone.json](./90472-biozone.json) |
 | Bip + Bop | 207024 | [207024-bip-bop.json](./207024-bip-bop.json) |
 | BipBop | 218644 | [218644-bipbop.json](./218644-bipbop.json) |
