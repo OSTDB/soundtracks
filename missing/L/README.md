@@ -3978,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life on the Earth | 175677 | [175677-life-on-the-earth.json](./175677-life-on-the-earth.json) |
 | Life One | 114867 | [114867-life-one.json](./114867-life-one.json) |
 | Life or Reach | 293674 | [293674-life-or-reach.json](./293674-life-or-reach.json) |
+| Life Organizer | 214320 | [214320-life-organizer.json](./214320-life-organizer.json) |
 | Life Quest 2: Metropoville | 60938 | [60938-life-quest-2-metropoville.json](./60938-life-quest-2-metropoville.json) |
 | Life Redemption | 123904 | [123904-life-redemption.json](./123904-life-redemption.json) |
 | Life Save Service | 376677 | [376677-life-save-service.json](./376677-life-save-service.json) |
@@ -6319,6 +6320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Skies | 117811 | [117811-lonely-skies.json](./117811-lonely-skies.json) |
 | Lonely Space | 274363 | [274363-lonely-space.json](./274363-lonely-space.json) |
 | Lonely Sun | 25266 | [25266-lonely-sun.json](./25266-lonely-sun.json) |
+| Lonely Survivor | 214295 | [214295-lonely-survivor.json](./214295-lonely-survivor.json) |
 | Lonely Things | 181887 | [181887-lonely-things.json](./181887-lonely-things.json) |
 | Lonely Tiny Spaceship | 294115 | [294115-lonely-tiny-spaceship.json](./294115-lonely-tiny-spaceship.json) |
 | Lonely Tribes | 192372 | [192372-lonely-tribes.json](./192372-lonely-tribes.json) |
