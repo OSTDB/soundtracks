@@ -1042,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Small Favor | 58012 | [58012-a-small-favor.json](./58012-a-small-favor.json) |
 | A Small Journey | 228998 | [228998-a-small-journey.json](./228998-a-small-journey.json) |
 | A Small Talk at the Back of Beyond | 123478 | [123478-a-small-talk-at-the-back-of-beyond.json](./123478-a-small-talk-at-the-back-of-beyond.json) |
+| A Small World Cup | 177147 | [177147-a-small-world-cup.json](./177147-a-small-world-cup.json) |
 | A Smattering of Songs | 315627 | [315627-a-smattering-of-songs.json](./315627-a-smattering-of-songs.json) |
 | A Smithing Game | 405058 | [405058-a-smithing-game.json](./405058-a-smithing-game.json) |
 | A Smoker's Story | 312731 | [312731-a-smokers-story.json](./312731-a-smokers-story.json) |
@@ -6409,6 +6410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All I want for Christmas are Subgames: Collector's Edition | 416871 | [416871-all-i-want-for-christmas-are-subgames-collectors-edition.json](./416871-all-i-want-for-christmas-are-subgames-collectors-edition.json) |
 | All I Want for Christmas Collection | 218378 | [218378-all-i-want-for-christmas-collection.json](./218378-all-i-want-for-christmas-collection.json) |
 | All I Want to Do is Dance! | 214369 | [214369-all-i-want-to-do-is-dance.json](./214369-all-i-want-to-do-is-dance.json) |
+| All I Wanted Was a Bouncy Ball | 177197 | [177197-all-i-wanted-was-a-bouncy-ball.json](./177197-all-i-wanted-was-a-bouncy-ball.json) |
 | All Idleness and Ephemera | 248783 | [248783-all-idleness-and-ephemera.json](./248783-all-idleness-and-ephemera.json) |
 | All in a Day's Work | 58865 | [58865-all-in-a-days-work.json](./58865-all-in-a-days-work.json) |
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
