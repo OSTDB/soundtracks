@@ -5367,6 +5367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms: Mass Extinction | 203558 | [203558-the-backrooms-mass-extinction.json](./203558-the-backrooms-mass-extinction.json) |
 | The Backrooms: Maze Escape | 370281 | [370281-the-backrooms-maze-escape.json](./370281-the-backrooms-maze-escape.json) |
 | The Backrooms: Nightmare Dimension | 234116 | [234116-the-backrooms-nightmare-dimension.json](./234116-the-backrooms-nightmare-dimension.json) |
+| The Backrooms: Realism | 225974 | [225974-the-backrooms-realism.json](./225974-the-backrooms-realism.json) |
 | The Backrooms: Rescue Expedition | 374828 | [374828-the-backrooms-rescue-expedition.json](./374828-the-backrooms-rescue-expedition.json) |
 | The Backrooms: Reset | 365740 | [365740-the-backrooms-reset.json](./365740-the-backrooms-reset.json) |
 | The Backrooms: Survival | 192975 | [192975-the-backrooms-survival.json](./192975-the-backrooms-survival.json) |
@@ -13034,6 +13035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Picture of Cafe au Lait | 248442 | [248442-the-picture-of-cafe-au-lait.json](./248442-the-picture-of-cafe-au-lait.json) |
 | The Piece | 276812 | [276812-the-piece.json](./276812-the-piece.json) |
 | The Pig Cow: Horizons of the New Valley | 362189 | [362189-the-pig-cow-horizons-of-the-new-valley.json](./362189-the-pig-cow-horizons-of-the-new-valley.json) |
+| The Pig D: Deluxe Edition | 225960 | [225960-the-pig-d-deluxe-edition.json](./225960-the-pig-d-deluxe-edition.json) |
 | The Pig: Money Is Time | 186183 | [186183-the-pig-money-is-time.json](./186183-the-pig-money-is-time.json) |
 | The Pigeon P | 198254 | [198254-the-pigeon-p.json](./198254-the-pigeon-p.json) |
 | The Pigeon Quiz | 219048 | [219048-the-pigeon-quiz.json](./219048-the-pigeon-quiz.json) |
@@ -14370,6 +14372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silver Lining | 50807 | [50807-the-silver-lining.json](./50807-the-silver-lining.json) |
 | The Silver Spoon Caper | 185403 | [185403-the-silver-spoon-caper.json](./185403-the-silver-spoon-caper.json) |
 | The Simen Rumors | 397220 | [397220-the-simen-rumors.json](./397220-the-simen-rumors.json) |
+| The Simorgh | 225970 | [225970-the-simorgh.json](./225970-the-simorgh.json) |
 | The Simple Balance | 142079 | [142079-the-simple-balance.json](./142079-the-simple-balance.json) |
 | The Simple Climb Game | 309410 | [309410-the-simple-climb-game.json](./309410-the-simple-climb-game.json) |
 | The Simpler Times | 421354 | [421354-the-simpler-times.json](./421354-the-simpler-times.json) |
@@ -20447,6 +20450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Defense 2 - Mini Robot Wars | 105764 | [105764-tiny-defense-2-mini-robot-wars.json](./105764-tiny-defense-2-mini-robot-wars.json) |
 | Tiny Delivery | 349758 | [349758-tiny-delivery.json](./349758-tiny-delivery.json) |
 | Tiny Derby | 119538 | [119538-tiny-derby.json](./119538-tiny-derby.json) |
+| Tiny Detour | 225978 | [225978-tiny-detour.json](./225978-tiny-detour.json) |
 | Tiny Devil Adventure | 158648 | [158648-tiny-devil-adventure.json](./158648-tiny-devil-adventure.json) |
 | Tiny Devils | 325476 | [325476-tiny-devils.json](./325476-tiny-devils.json) |
 | Tiny Dice Dungeon | 62086 | [62086-tiny-dice-dungeon.json](./62086-tiny-dice-dungeon.json) |
@@ -22256,6 +22260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tools Up! Garden Party: Episode 2 - Tunnel Vision | 169281 | [169281-tools-up-garden-party-episode-2-tunnel-vision.json](./169281-tools-up-garden-party-episode-2-tunnel-vision.json) |
 | Tools Up! Garden Party: Episode 3 - Home Sweet Home | 169279 | [169279-tools-up-garden-party-episode-3-home-sweet-home.json](./169279-tools-up-garden-party-episode-3-home-sweet-home.json) |
 | Tools Up! Garden Party: Season Pass | 202935 | [202935-tools-up-garden-party-season-pass.json](./202935-tools-up-garden-party-season-pass.json) |
+| Tools Up!: The Renovation Spree Bundle | 225951 | [225951-tools-up-the-renovation-spree-bundle.json](./225951-tools-up-the-renovation-spree-bundle.json) |
 | Tools Up!: Ultimate Edition | 280131 | [280131-tools-up-ultimate-edition.json](./280131-tools-up-ultimate-edition.json) |
 | Toon Blast | 56586 | [56586-toon-blast.json](./56586-toon-blast.json) |
 | Toon Breakout 3D | 328444 | [328444-toon-breakout-3d.json](./328444-toon-breakout-3d.json) |
@@ -24526,6 +24531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 3: US Freight Bundle | 239257 | [239257-train-sim-world-3-us-freight-bundle.json](./239257-train-sim-world-3-us-freight-bundle.json) |
 | Train Sim World 3: US Passenger Bundle | 239255 | [239255-train-sim-world-3-us-passenger-bundle.json](./239255-train-sim-world-3-us-passenger-bundle.json) |
 | Train Sim World 3: US Super Bundle | 239256 | [239256-train-sim-world-3-us-super-bundle.json](./239256-train-sim-world-3-us-super-bundle.json) |
+| Train Sim World 3: West Somerset Railway | 225932 | [225932-train-sim-world-3-west-somerset-railway.json](./225932-train-sim-world-3-west-somerset-railway.json) |
 | Train Sim World 4 | 262582 | [262582-train-sim-world-4.json](./262582-train-sim-world-4.json) |
 | Train Sim World 4: Antelope Valley Line - Los Angeles - Lancaster Route | 269324 | [269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json](./269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json) |
 | Train Sim World 4: Austrian Regional Edition | 268833 | [268833-train-sim-world-4-austrian-regional-edition.json](./268833-train-sim-world-4-austrian-regional-edition.json) |
@@ -25012,6 +25018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Salzburg - Mühldorf Route | 191023 | [191023-train-simulator-salzburg-muhldorf-route.json](./191023-train-simulator-salzburg-muhldorf-route.json) |
 | Train Simulator: Seibu Tetsudou Shinjuku-sen Shin-2000 10000-kei | 323661 | [323661-train-simulator-seibu-tetsudou-shinjuku-sen-shin-2000-10000-kei.json](./323661-train-simulator-seibu-tetsudou-shinjuku-sen-shin-2000-10000-kei.json) |
 | Train Simulator: Semmeringbahn - Mürzzuschlag to Gloggnitz Route Add-On | 156461 | [156461-train-simulator-semmeringbahn-murzzuschlag-to-gloggnitz-route-add-on.json](./156461-train-simulator-semmeringbahn-murzzuschlag-to-gloggnitz-route-add-on.json) |
+| Train Simulator: Settle Carlisle Specials Add-On | 225930 | [225930-train-simulator-settle-carlisle-specials-add-on.json](./225930-train-simulator-settle-carlisle-specials-add-on.json) |
 | Train Simulator: Shanghai Maglev Route Add-On | 156422 | [156422-train-simulator-shanghai-maglev-route-add-on.json](./156422-train-simulator-shanghai-maglev-route-add-on.json) |
 | Train Simulator: Sheerness Branch Extension Route Add-On | 156434 | [156434-train-simulator-sheerness-branch-extension-route-add-on.json](./156434-train-simulator-sheerness-branch-extension-route-add-on.json) |
 | Train Simulator: Sherman Hill Route Add-On | 156480 | [156480-train-simulator-sherman-hill-route-add-on.json](./156480-train-simulator-sherman-hill-route-add-on.json) |
