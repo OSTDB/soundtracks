@@ -6861,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter | 264033 | [264033-alter.json](./264033-alter.json) |
 | Alter | 293935 | [293935-alter.json](./293935-alter.json) |
 | Alter A.I.L.A. Genesis | 308425 | [308425-alter-a-i-l-a-genesis.json](./308425-alter-a-i-l-a-genesis.json) |
+| Alter Aeon | 228745 | [228745-alter-aeon.json](./228745-alter-aeon.json) |
 | Alter Age | 310513 | [310513-alter-age.json](./310513-alter-age.json) |
 | Alter Cosmos | 103539 | [103539-alter-cosmos.json](./103539-alter-cosmos.json) |
 | Alter Echo | 1989 | [1989-alter-echo.json](./1989-alter-echo.json) |
@@ -11689,6 +11690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Allstars | 125172 | [125172-arena-allstars.json](./125172-arena-allstars.json) |
 | Arena an Age of Barbarians story | 30077 | [30077-arena-an-age-of-barbarians-story.json](./30077-arena-an-age-of-barbarians-story.json) |
 | Arena Battle | 230960 | [230960-arena-battle.json](./230960-arena-battle.json) |
+| Arena Battle Champions | 228754 | [228754-arena-battle-champions.json](./228754-arena-battle-champions.json) |
 | Arena Blues: Requiem for 35 | 416113 | [416113-arena-blues-requiem-for-35.json](./416113-arena-blues-requiem-for-35.json) |
 | Arena Brawls | 114721 | [114721-arena-brawls.json](./114721-arena-brawls.json) |
 | Arena Breakout | 174684 | [174684-arena-breakout.json](./174684-arena-breakout.json) |
@@ -15315,6 +15317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avadon: The Black Fortress | 7407 | [7407-avadon-the-black-fortress.json](./7407-avadon-the-black-fortress.json) |
 | Avakin Life | 86966 | [86966-avakin-life.json](./86966-avakin-life.json) |
 | Avalan | 416943 | [416943-avalan.json](./416943-avalan.json) |
+| Avalanche | 228674 | [228674-avalanche.json](./228674-avalanche.json) |
 | Avalanche | 46840 | [46840-avalanche.json](./46840-avalanche.json) |
 | Avalanche Escape | 313554 | [313554-avalanche-escape.json](./313554-avalanche-escape.json) |
 | Avalanche Snowboarding | 214763 | [214763-avalanche-snowboarding.json](./214763-avalanche-snowboarding.json) |
@@ -15363,6 +15366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avaritia | 232635 | [232635-avaritia.json](./232635-avaritia.json) |
 | Avast: Scourge of Sea | 315094 | [315094-avast-scourge-of-sea.json](./315094-avast-scourge-of-sea.json) |
 | Avataaah!!! | 94152 | [94152-avataaah.json](./94152-avataaah.json) |
+| Avatar | 228749 | [228749-avatar.json](./228749-avatar.json) |
 | Avatar | 80928 | [80928-avatar.json](./80928-avatar.json) |
 | Avatar 2 Way of Watter: Porn Game | 287101 | [287101-avatar-2-way-of-watter-porn-game.json](./287101-avatar-2-way-of-watter-porn-game.json) |
 | Avatar Adventurers Online | 66017 | [66017-avatar-adventurers-online.json](./66017-avatar-adventurers-online.json) |
