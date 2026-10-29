@@ -2343,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasokare Hotel: Tsubomi | 408273 | [408273-tasokare-hotel-tsubomi.json](./408273-tasokare-hotel-tsubomi.json) |
 | Tasomachi: Behind the Twilight | 121481 | [121481-tasomachi-behind-the-twilight.json](./121481-tasomachi-behind-the-twilight.json) |
 | Tass Times in Tonetown | 29031 | [29031-tass-times-in-tonetown.json](./29031-tass-times-in-tonetown.json) |
+| Tassilo's Quest | 198637 | [198637-tassilos-quest.json](./198637-tassilos-quest.json) |
 | Taste My Arsenal | 103981 | [103981-taste-my-arsenal.json](./103981-taste-my-arsenal.json) |
 | Taste of Blood | 361268 | [361268-taste-of-blood.json](./361268-taste-of-blood.json) |
 | Taste of Heaven | 200407 | [200407-taste-of-heaven.json](./200407-taste-of-heaven.json) |
@@ -4831,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Addams Family | 14207 | [14207-the-addams-family.json](./14207-the-addams-family.json) |
 | The Addams Family | 14208 | [14208-the-addams-family.json](./14208-the-addams-family.json) |
 | The Addams Family | 145932 | [145932-the-addams-family.json](./145932-the-addams-family.json) |
+| The Addams Family | 198668 | [198668-the-addams-family.json](./198668-the-addams-family.json) |
 | The Addams Family: Mansion Mayhem | 150006 | [150006-the-addams-family-mansion-mayhem.json](./150006-the-addams-family-mansion-mayhem.json) |
 | The Addams Family: Mystery Mansion | 122228 | [122228-the-addams-family-mystery-mansion.json](./122228-the-addams-family-mystery-mansion.json) |
 | The Addams Family: Pugsley's Scavenger Hunt | 264995 | [264995-the-addams-family-pugsleys-scavenger-hunt.json](./264995-the-addams-family-pugsleys-scavenger-hunt.json) |
