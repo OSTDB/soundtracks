@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum:Fantasy | 235590 | [235590-quantum-fantasy.json](./235590-quantum-fantasy.json) |
 | QuantumPulse 2A | 333349 | [333349-quantumpulse-2a.json](./333349-quantumpulse-2a.json) |
 | QuantumVR | 394625 | [394625-quantumvr.json](./394625-quantumvr.json) |
+| QuaQua | 188778 | [188778-quaqua.json](./188778-quaqua.json) |
 | Quar: Battle for Gate 18 | 33649 | [33649-quar-battle-for-gate-18.json](./33649-quar-battle-for-gate-18.json) |
 | Quar: Infernal Machines | 116239 | [116239-quar-infernal-machines.json](./116239-quar-infernal-machines.json) |
 | Quarantennis | 179977 | [179977-quarantennis.json](./179977-quarantennis.json) |
