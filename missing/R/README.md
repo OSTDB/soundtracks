@@ -5330,6 +5330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Jam 1 | 271217 | [271217-retro-jam-1.json](./271217-retro-jam-1.json) |
 | Retro Jam 4 | 322278 | [322278-retro-jam-4.json](./322278-retro-jam-4.json) |
 | Retro Kart | 234205 | [234205-retro-kart.json](./234205-retro-kart.json) |
+| Retro Kart Rush | 192544 | [192544-retro-kart-rush.json](./192544-retro-kart-rush.json) |
 | Retro Karting 22 | 199732 | [199732-retro-karting-22.json](./199732-retro-karting-22.json) |
 | Retro League Racing | 296530 | [296530-retro-league-racing.json](./296530-retro-league-racing.json) |
 | Retro Life | 239785 | [239785-retro-life.json](./239785-retro-life.json) |
