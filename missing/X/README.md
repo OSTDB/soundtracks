@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XFlight | 343307 | [343307-xflight.json](./343307-xflight.json) |
 | XG Blast! | 21254 | [21254-xg-blast.json](./21254-xg-blast.json) |
 | XGA | 316695 | [316695-xga.json](./316695-xga.json) |
+| XGamer: AI Revolution | 221509 | [221509-xgamer-ai-revolution.json](./221509-xgamer-ai-revolution.json) |
 | XGRA: Extreme G Racing Association | 4581 | [4581-xgra-extreme-g-racing-association.json](./4581-xgra-extreme-g-racing-association.json) |
 | XGun-Weapon Evolution | 31178 | [31178-xgun-weapon-evolution.json](./31178-xgun-weapon-evolution.json) |
 | Xheres | 239690 | [239690-xheres.json](./239690-xheres.json) |
