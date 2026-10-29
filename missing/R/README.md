@@ -2906,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reanimation Inc. | 126514 | [126514-reanimation-inc.json](./126514-reanimation-inc.json) |
 | Reanimation Scheme | 158647 | [158647-reanimation-scheme.json](./158647-reanimation-scheme.json) |
 | Reap | 120644 | [120644-reap.json](./120644-reap.json) |
+| Reap | 182687 | [182687-reap.json](./182687-reap.json) |
 | Reap & Repay | 382834 | [382834-reap-and-repay.json](./382834-reap-and-repay.json) |
 | Reap and Sow | 202362 | [202362-reap-and-sow.json](./202362-reap-and-sow.json) |
 | Reap and Sow | 382396 | [382396-reap-and-sow.json](./382396-reap-and-sow.json) |
@@ -4294,6 +4295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics of Deldroneye 2: Island of Debreen | 137454 | [137454-relics-of-deldroneye-2-island-of-debreen.json](./137454-relics-of-deldroneye-2-island-of-debreen.json) |
 | Relics of Fate: A Penny Macey Mystery | 355593 | [355593-relics-of-fate-a-penny-macey-mystery.json](./355593-relics-of-fate-a-penny-macey-mystery.json) |
 | Relics of Gods | 11352 | [11352-relics-of-gods.json](./11352-relics-of-gods.json) |
+| Relics of the Fallen | 182690 | [182690-relics-of-the-fallen.json](./182690-relics-of-the-fallen.json) |
 | Relics of the Oracle | 302630 | [302630-relics-of-the-oracle.json](./302630-relics-of-the-oracle.json) |
 | Relics of Wayne: Greymoor | 379588 | [379588-relics-of-wayne-greymoor.json](./379588-relics-of-wayne-greymoor.json) |
 | Relics: A Dark-fantasy Deck-Survivor | 361837 | [361837-relics-a-dark-fantasy-deck-survivor.json](./361837-relics-a-dark-fantasy-deck-survivor.json) |
@@ -4853,6 +4855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescuer | 163181 | [163181-rescuer.json](./163181-rescuer.json) |
 | Rescues | 202027 | [202027-rescues.json](./202027-rescues.json) |
 | Research and Destroy | 154274 | [154274-research-and-destroy.json](./154274-research-and-destroy.json) |
+| Research and Development | 182643 | [182643-research-and-development.json](./182643-research-and-development.json) |
 | Research Station | 273140 | [273140-research-station.json](./273140-research-station.json) |
 | Research Story | 168637 | [168637-research-story.json](./168637-research-story.json) |
 | Researcher | 143476 | [143476-researcher.json](./143476-researcher.json) |
@@ -6446,6 +6449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riders 2491 | 158706 | [158706-riders-2491.json](./158706-riders-2491.json) |
 | Riders of Asgard | 30618 | [30618-riders-of-asgard.json](./30618-riders-of-asgard.json) |
 | Riders of Asgard: Deluxe Edition | 53508 | [53508-riders-of-asgard-deluxe-edition.json](./53508-riders-of-asgard-deluxe-edition.json) |
+| Riders of Rhea | 182645 | [182645-riders-of-rhea.json](./182645-riders-of-rhea.json) |
 | Riders of the Wild | 275835 | [275835-riders-of-the-wild.json](./275835-riders-of-the-wild.json) |
 | Riders Republic: 360 Edition | 263514 | [263514-riders-republic-360-edition.json](./263514-riders-republic-360-edition.json) |
 | Riders Republic: Complete Edition | 263515 | [263515-riders-republic-complete-edition.json](./263515-riders-republic-complete-edition.json) |
