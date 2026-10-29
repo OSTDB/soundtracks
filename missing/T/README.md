@@ -12914,6 +12914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outsiders | 247952 | [247952-the-outsiders.json](./247952-the-outsiders.json) |
 | The Outskirts | 412394 | [412394-the-outskirts.json](./412394-the-outskirts.json) |
 | The Overlook Rehaunted | 276762 | [276762-the-overlook-rehaunted.json](./276762-the-overlook-rehaunted.json) |
+| The Overlord Isn't Another Isekai Protagonist, Is He?: Chapter 1 | 202528 | [202528-the-overlord-isnt-another-isekai-protagonist-is-he-chapter-1.json](./202528-the-overlord-isnt-another-isekai-protagonist-is-he-chapter-1.json) |
 | The Overnight Watch | 321438 | [321438-the-overnight-watch.json](./321438-the-overnight-watch.json) |
 | The Overseer | 306445 | [306445-the-overseer.json](./306445-the-overseer.json) |
 | The Oversight Bureau | 373507 | [373507-the-oversight-bureau.json](./373507-the-oversight-bureau.json) |
@@ -13835,6 +13836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Roast: Coffee Shop Simulator | 350012 | [350012-the-roast-coffee-shop-simulator.json](./350012-the-roast-coffee-shop-simulator.json) |
 | The Robolovers | 172707 | [172707-the-robolovers.json](./172707-the-robolovers.json) |
 | The Robot Club | 67096 | [67096-the-robot-club.json](./67096-the-robot-club.json) |
+| The Robot Girl Meets the Human! | 202486 | [202486-the-robot-girl-meets-the-human.json](./202486-the-robot-girl-meets-the-human.json) |
 | THE Robot Tsukurou Ze! | 69149 | [69149-the-robot-tsukurou-ze.json](./69149-the-robot-tsukurou-ze.json) |
 | The Roc | 220512 | [220512-the-roc.json](./220512-the-roc.json) |
 | The Roc | 422690 | [422690-the-roc.json](./422690-the-roc.json) |
@@ -23231,6 +23233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Chronicle of Youkai Prayers | 356567 | [356567-touhou-chronicle-of-youkai-prayers.json](./356567-touhou-chronicle-of-youkai-prayers.json) |
 | Touhou Chronicles: Tales of the Two Immortals | 372059 | [372059-touhou-chronicles-tales-of-the-two-immortals.json](./372059-touhou-chronicles-tales-of-the-two-immortals.json) |
 | Touhou Crawl | 356561 | [356561-touhou-crawl.json](./356561-touhou-crawl.json) |
+| Touhou Crisis | 202507 | [202507-touhou-crisis.json](./202507-touhou-crisis.json) |
 | Touhou Danmaku Kagura | 159010 | [159010-touhou-danmaku-kagura.json](./159010-touhou-danmaku-kagura.json) |
 | Touhou Danmaku Kagura: Phantasia Lost | 222995 | [222995-touhou-danmaku-kagura-phantasia-lost.json](./222995-touhou-danmaku-kagura-phantasia-lost.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 1 | 289028 | [289028-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-1.json](./289028-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-1.json) |
@@ -26716,6 +26719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treat Fighter | 109507 | [109507-treat-fighter.json](./109507-treat-fighter.json) |
 | Treat Maze | 278569 | [278569-treat-maze.json](./278569-treat-maze.json) |
 | Treat-Seeking Tricksters | 320432 | [320432-treat-seeking-tricksters.json](./320432-treat-seeking-tricksters.json) |
+| Treats Please! | 202522 | [202522-treats-please.json](./202522-treats-please.json) |
 | Treble Cat | 89690 | [89690-treble-cat.json](./89690-treble-cat.json) |
 | Treble Cat HD | 107558 | [107558-treble-cat-hd.json](./107558-treble-cat-hd.json) |
 | Treble-Basie | 390756 | [390756-treble-basie.json](./390756-treble-basie.json) |
