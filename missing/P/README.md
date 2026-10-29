@@ -2091,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkasaurus | 76422 | [76422-parkasaurus.json](./76422-parkasaurus.json) |
 | Parkasaurus: Prehistoric Wonders | 251775 | [251775-parkasaurus-prehistoric-wonders.json](./251775-parkasaurus-prehistoric-wonders.json) |
 | Parkasaurus: Sea Monsters | 195749 | [195749-parkasaurus-sea-monsters.json](./195749-parkasaurus-sea-monsters.json) |
+| Parkdens | 212059 | [212059-parkdens.json](./212059-parkdens.json) |
 | Parked in the Dark | 128281 | [128281-parked-in-the-dark.json](./128281-parked-in-the-dark.json) |
 | Parker & Lane | 87999 | [87999-parker-and-lane.json](./87999-parker-and-lane.json) |
 | Parker Brothers: Card Games | 100093 | [100093-parker-brothers-card-games.json](./100093-parker-brothers-card-games.json) |
@@ -13424,6 +13425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Probably Archery | 13362 | [13362-probably-archery.json](./13362-probably-archery.json) |
 | Probably Art | 328976 | [328976-probably-art.json](./328976-probably-art.json) |
 | Probably Nothing | 367054 | [367054-probably-nothing.json](./367054-probably-nothing.json) |
+| Probably Tuesday | 212086 | [212086-probably-tuesday.json](./212086-probably-tuesday.json) |
 | Probationary Girlfriend | 266319 | [266319-probationary-girlfriend.json](./266319-probationary-girlfriend.json) |
 | Probe | 133057 | [133057-probe.json](./133057-probe.json) |
 | Probe One: The Transmitter | 24899 | [24899-probe-one-the-transmitter.json](./24899-probe-one-the-transmitter.json) |
