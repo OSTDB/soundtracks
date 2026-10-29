@@ -1679,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardBall | 55358 | [55358-hardball.json](./55358-hardball.json) |
 | HardBall '95 | 45782 | [45782-hardball-95.json](./45782-hardball-95.json) |
 | Hardball + Hardball 2 | 336132 | [336132-hardball-hardball-2.json](./336132-hardball-hardball-2.json) |
+| Hardball 6: 2000 Edition | 205934 | [205934-hardball-6-2000-edition.json](./205934-hardball-6-2000-edition.json) |
 | HardBall II | 12433 | [12433-hardball-ii.json](./12433-hardball-ii.json) |
 | HardBall! | 12136 | [12136-hardball.json](./12136-hardball.json) |
 | HardBall! + HardBall II | 296603 | [296603-hardball-hardball-ii.json](./296603-hardball-hardball-ii.json) |
@@ -2023,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Mall | 361644 | [361644-harvest-mall.json](./361644-harvest-mall.json) |
 | Harvest Mana | 217116 | [217116-harvest-mana.json](./217116-harvest-mana.json) |
 | Harvest Mania | 209863 | [209863-harvest-mania.json](./209863-harvest-mania.json) |
+| Harvest Mania to Go | 205944 | [205944-harvest-mania-to-go.json](./205944-harvest-mania-to-go.json) |
 | Harvest Master | 320522 | [320522-harvest-master.json](./320522-harvest-master.json) |
 | Harvest Moon | 3376 | [3376-harvest-moon.json](./3376-harvest-moon.json) |
 | Harvest Moon 2 GBC | 3379 | [3379-harvest-moon-2-gbc.json](./3379-harvest-moon-2-gbc.json) |
@@ -10302,6 +10304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humbug 2 | 413690 | [413690-humbug-2.json](./413690-humbug-2.json) |
 | Humbug Tales: Keeper of the Swarm | 263974 | [263974-humbug-tales-keeper-of-the-swarm.json](./263974-humbug-tales-keeper-of-the-swarm.json) |
 | Humbugger | 413688 | [413688-humbugger.json](./413688-humbugger.json) |
+| Humdle | 205871 | [205871-humdle.json](./205871-humdle.json) |
 | Hume Index | 276218 | [276218-hume-index.json](./276218-hume-index.json) |
 | Humerous | 282795 | [282795-humerous.json](./282795-humerous.json) |
 | Humilau Resort: A Pokémon Escape Room | 341924 | [341924-humilau-resort-a-pokemon-escape-room.json](./341924-humilau-resort-a-pokemon-escape-room.json) |
