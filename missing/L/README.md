@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laid-Back Camp: Puzzle Camp | 392453 | [392453-laid-back-camp-puzzle-camp.json](./392453-laid-back-camp-puzzle-camp.json) |
 | Laid-Back Camp: Virtual - Fumoto Campsite | 147813 | [147813-laid-back-camp-virtual-fumoto-campsite.json](./147813-laid-back-camp-virtual-fumoto-campsite.json) |
 | Laid-Back Camp: Virtual - Lake Motosu | 143719 | [143719-laid-back-camp-virtual-lake-motosu.json](./143719-laid-back-camp-virtual-lake-motosu.json) |
+| Laigu Project | 194140 | [194140-laigu-project.json](./194140-laigu-project.json) |
 | Laika 2.0 | 57037 | [57037-laika-2-0.json](./57037-laika-2-0.json) |
 | Laika: A Space-Dog Oddyssey | 401033 | [401033-laika-a-space-dog-oddyssey.json](./401033-laika-a-space-dog-oddyssey.json) |
 | LainTSX | 248784 | [248784-laintsx.json](./248784-laintsx.json) |
@@ -617,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Chark | 141243 | [141243-land-of-chark.json](./141243-land-of-chark.json) |
 | Land Of Chasers | 278409 | [278409-land-of-chasers.json](./278409-land-of-chasers.json) |
 | Land of Crystals | 266600 | [266600-land-of-crystals.json](./266600-land-of-crystals.json) |
+| Land of Empires: Immortal | 194128 | [194128-land-of-empires-immortal.json](./194128-land-of-empires-immortal.json) |
 | Land of Eno | 193775 | [193775-land-of-eno.json](./193775-land-of-eno.json) |
 | Land of Foot | 192657 | [192657-land-of-foot.json](./192657-land-of-foot.json) |
 | Land of Futures | 294144 | [294144-land-of-futures.json](./294144-land-of-futures.json) |
@@ -2439,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Eleven: Epic Football | 102260 | [102260-legendary-eleven-epic-football.json](./102260-legendary-eleven-epic-football.json) |
 | Legendary Fighter: Battle of God | 208093 | [208093-legendary-fighter-battle-of-god.json](./208093-legendary-fighter-battle-of-god.json) |
 | Legendary Fishing | 110788 | [110788-legendary-fishing.json](./110788-legendary-fishing.json) |
+| Legendary Football | 194118 | [194118-legendary-football.json](./194118-legendary-football.json) |
 | Legendary Gary | 76560 | [76560-legendary-gary.json](./76560-legendary-gary.json) |
 | Legendary Heroes Survivors | 337419 | [337419-legendary-heroes-survivors.json](./337419-legendary-heroes-survivors.json) |
 | Legendary Heroes Unchained | 324106 | [324106-legendary-heroes-unchained.json](./324106-legendary-heroes-unchained.json) |
@@ -6886,6 +6889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lornsword Winter Chronicle | 117358 | [117358-lornsword-winter-chronicle.json](./117358-lornsword-winter-chronicle.json) |
 | Lort | 345444 | [345444-lort.json](./345444-lort.json) |
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
+| Los Angeles Crimes | 194101 | [194101-los-angeles-crimes.json](./194101-los-angeles-crimes.json) |
 | Los Angeles SWAT | 13012 | [13012-los-angeles-swat.json](./13012-los-angeles-swat.json) |
 | Los Disneys 2.0 | 414433 | [414433-los-disneys-2-0.json](./414433-los-disneys-2-0.json) |
 | Los Justicieros (Zorton Brothers) | 119398 | [119398-los-justicieros-zorton-brothers.json](./119398-los-justicieros-zorton-brothers.json) |
