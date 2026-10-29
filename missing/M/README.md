@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Craft: Scrap Survival | 361793 | [361793-machine-craft-scrap-survival.json](./361793-machine-craft-scrap-survival.json) |
 | Machine Crisis | 76711 | [76711-machine-crisis.json](./76711-machine-crisis.json) |
 | Machine Fable | 270037 | [270037-machine-fable.json](./270037-machine-fable.json) |
+| Machine Gun Gardener | 177156 | [177156-machine-gun-gardener.json](./177156-machine-gun-gardener.json) |
 | Machine Gun Knight | 387025 | [387025-machine-gun-knight.json](./387025-machine-gun-knight.json) |
 | Machine Gun Mages | 221751 | [221751-machine-gun-mages.json](./221751-machine-gun-mages.json) |
 | Machine Gun Train Run | 33880 | [33880-machine-gun-train-run.json](./33880-machine-gun-train-run.json) |
@@ -13616,6 +13617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monochromaniacs | 124147 | [124147-monochromaniacs.json](./124147-monochromaniacs.json) |
 | Monochromatic Aberration | 417673 | [417673-monochromatic-aberration.json](./417673-monochromatic-aberration.json) |
 | Monochrome | 166291 | [166291-monochrome.json](./166291-monochrome.json) |
+| Monochrome Ace | 177198 | [177198-monochrome-ace.json](./177198-monochrome-ace.json) |
 | Monochrome Blues | 123993 | [123993-monochrome-blues.json](./123993-monochrome-blues.json) |
 | Monochrome Boo & Baby Boo: Kururin Boo | 273419 | [273419-monochrome-boo-and-baby-boo-kururin-boo.json](./273419-monochrome-boo-and-baby-boo-kururin-boo.json) |
 | Monochrome Echoes: Black | 410318 | [410318-monochrome-echoes-black.json](./410318-monochrome-echoes-black.json) |
