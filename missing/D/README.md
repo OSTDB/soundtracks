@@ -6855,6 +6855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deteriation Game | 229744 | [229744-deteriation-game.json](./229744-deteriation-game.json) |
 | Determinance | 21416 | [21416-determinance.json](./21416-determinance.json) |
 | Determinant | 169826 | [169826-determinant.json](./169826-determinant.json) |
+| Deterrence | 224334 | [224334-deterrence.json](./224334-deterrence.json) |
 | Dethcube | 148487 | [148487-dethcube.json](./148487-dethcube.json) |
 | DethKarz | 51252 | [51252-dethkarz.json](./51252-dethkarz.json) |
 | Dethrone | 182977 | [182977-dethrone.json](./182977-dethrone.json) |
@@ -7517,6 +7518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicevaders | 386448 | [386448-dicevaders.json](./386448-dicevaders.json) |
 | Dicewars DS | 229135 | [229135-dicewars-ds.json](./229135-dicewars-ds.json) |
 | Dicewood | 340340 | [340340-dicewood.json](./340340-dicewood.json) |
+| Dicey Birdball | 224332 | [224332-dicey-birdball.json](./224332-dicey-birdball.json) |
 | Dicey Bizniz | 373578 | [373578-dicey-bizniz.json](./373578-dicey-bizniz.json) |
 | Dicey Bugs | 335636 | [335636-dicey-bugs.json](./335636-dicey-bugs.json) |
 | Dicey Chess | 320304 | [320304-dicey-chess.json](./320304-dicey-chess.json) |
@@ -7571,6 +7573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Did It Myself ABC123 | 85087 | [85087-did-it-myself-abc123.json](./85087-did-it-myself-abc123.json) |
 | Did You Scared | 195128 | [195128-did-you-scared.json](./195128-did-you-scared.json) |
 | Did You See That? | 416647 | [416647-did-you-see-that.json](./416647-did-you-see-that.json) |
+| Didactic Jesus Game | 224333 | [224333-didactic-jesus-game.json](./224333-didactic-jesus-game.json) |
 | Dìdào Zhàn | 397993 | [397993-didao-zhan.json](./397993-didao-zhan.json) |
 | Diddl in the Cheesecakeland Diddl en Diddland | 269742 | [269742-diddl-in-the-cheesecakeland-diddl-en-diddland.json](./269742-diddl-in-the-cheesecakeland-diddl-en-diddland.json) |
 | Diddl Puzzle: Echter Puzzlespass für Unterwegs | 252660 | [252660-diddl-puzzle-echter-puzzlespass-fur-unterwegs.json](./252660-diddl-puzzle-echter-puzzlespass-fur-unterwegs.json) |
@@ -10689,6 +10692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Blame You | 229809 | [229809-dont-blame-you.json](./229809-dont-blame-you.json) |
 | Don't Bleed | 76949 | [76949-dont-bleed.json](./76949-dont-bleed.json) |
 | Don't Blink | 155980 | [155980-dont-blink.json](./155980-dont-blink.json) |
+| Don't Bow | 224330 | [224330-dont-bow.json](./224330-dont-bow.json) |
 | Don't Break | 354772 | [354772-dont-break.json](./354772-dont-break.json) |
 | Don't Break My Heart | 273911 | [273911-dont-break-my-heart.json](./273911-dont-break-my-heart.json) |
 | Don't Break the Egg | 397660 | [397660-dont-break-the-egg.json](./397660-dont-break-the-egg.json) |
@@ -12821,6 +12825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse | 7408 | [7408-dragon-ball-xenoverse.json](./7408-dragon-ball-xenoverse.json) |
 | Dragon Ball: Xenoverse - Day One Edition | 363936 | [363936-dragon-ball-xenoverse-day-one-edition.json](./363936-dragon-ball-xenoverse-day-one-edition.json) |
 | Dragon Ball: Xenoverse - GT Pack 1 | 213584 | [213584-dragon-ball-xenoverse-gt-pack-1.json](./213584-dragon-ball-xenoverse-gt-pack-1.json) |
+| Dragon Ball: Xenoverse - GT Pack 2 + Mira and Towa | 224326 | [224326-dragon-ball-xenoverse-gt-pack-2-mira-and-towa.json](./224326-dragon-ball-xenoverse-gt-pack-2-mira-and-towa.json) |
 | Dragon Ball: Xenoverse - Resurrection F Pack | 268923 | [268923-dragon-ball-xenoverse-resurrection-f-pack.json](./268923-dragon-ball-xenoverse-resurrection-f-pack.json) |
 | Dragon Ball: Xenoverse - Season Pass | 269071 | [269071-dragon-ball-xenoverse-season-pass.json](./269071-dragon-ball-xenoverse-season-pass.json) |
 | Dragon Ball: Xenoverse - Time Travel Edition | 118894 | [118894-dragon-ball-xenoverse-time-travel-edition.json](./118894-dragon-ball-xenoverse-time-travel-edition.json) |
@@ -12838,8 +12843,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Hero of Justice Pack 1 | 226333 | [226333-dragon-ball-xenoverse-2-hero-of-justice-pack-1.json](./226333-dragon-ball-xenoverse-2-hero-of-justice-pack-1.json) |
 | Dragon Ball: Xenoverse 2 - Hero of Justice Pack Set | 225942 | [225942-dragon-ball-xenoverse-2-hero-of-justice-pack-set.json](./225942-dragon-ball-xenoverse-2-hero-of-justice-pack-set.json) |
 | Dragon Ball: Xenoverse 2 - Hero of Justice: Pack 2 | 225546 | [225546-dragon-ball-xenoverse-2-hero-of-justice-pack-2.json](./225546-dragon-ball-xenoverse-2-hero-of-justice-pack-2.json) |
+| Dragon Ball: Xenoverse 2 - Legend Patrol Pack | 224324 | [224324-dragon-ball-xenoverse-2-legend-patrol-pack.json](./224324-dragon-ball-xenoverse-2-legend-patrol-pack.json) |
 | Dragon Ball: Xenoverse 2 - Legendary Pack 1 | 168741 | [168741-dragon-ball-xenoverse-2-legendary-pack-1.json](./168741-dragon-ball-xenoverse-2-legendary-pack-1.json) |
 | Dragon Ball: Xenoverse 2 - Legendary Pack 2 | 193208 | [193208-dragon-ball-xenoverse-2-legendary-pack-2.json](./193208-dragon-ball-xenoverse-2-legendary-pack-2.json) |
+| Dragon Ball: Xenoverse 2 - Legendary Pack Set | 224323 | [224323-dragon-ball-xenoverse-2-legendary-pack-set.json](./224323-dragon-ball-xenoverse-2-legendary-pack-set.json) |
 | Dragon Ball: Xenoverse 2 - Super Deluxe Edition | 272414 | [272414-dragon-ball-xenoverse-2-super-deluxe-edition.json](./272414-dragon-ball-xenoverse-2-super-deluxe-edition.json) |
 | Dragon Ball: Xenoverse 2 - Super Edition | 200692 | [200692-dragon-ball-xenoverse-2-super-edition.json](./200692-dragon-ball-xenoverse-2-super-edition.json) |
 | Dragon Ball: Xenoverse 2 - Super Pack 1 | 168743 | [168743-dragon-ball-xenoverse-2-super-pack-1.json](./168743-dragon-ball-xenoverse-2-super-pack-1.json) |
@@ -13040,6 +13047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Power | 48697 | [48697-dragon-power.json](./48697-dragon-power.json) |
 | Dragon Prana | 200178 | [200178-dragon-prana.json](./200178-dragon-prana.json) |
 | Dragon Princess Anastasia | 195619 | [195619-dragon-princess-anastasia.json](./195619-dragon-princess-anastasia.json) |
+| Dragon Princess is Hungry | 224327 | [224327-dragon-princess-is-hungry.json](./224327-dragon-princess-is-hungry.json) |
 | Dragon Princess: Meikyuu no Madoushi | 67256 | [67256-dragon-princess-meikyuu-no-madoushi.json](./67256-dragon-princess-meikyuu-no-madoushi.json) |
 | Dragon Project | 76712 | [76712-dragon-project.json](./76712-dragon-project.json) |
 | Dragon Providence | 98520 | [98520-dragon-providence.json](./98520-dragon-providence.json) |
@@ -13398,6 +13406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons: Titan Uprising | 123626 | [123626-dragons-titan-uprising.json](./123626-dragons-titan-uprising.json) |
 | Dragonsbane | 38921 | [38921-dragonsbane.json](./38921-dragonsbane.json) |
 | Dragonscale Monastery | 260170 | [260170-dragonscale-monastery.json](./260170-dragonscale-monastery.json) |
+| DragonScales 1-7 Bundle | 224328 | [224328-dragonscales-1-7-bundle.json](./224328-dragonscales-1-7-bundle.json) |
 | DragonScales 2: Beneath a Bloodstained Moon | 55821 | [55821-dragonscales-2-beneath-a-bloodstained-moon.json](./55821-dragonscales-2-beneath-a-bloodstained-moon.json) |
 | DragonScales 3: Eternal Prophecy of Darkness | 70388 | [70388-dragonscales-3-eternal-prophecy-of-darkness.json](./70388-dragonscales-3-eternal-prophecy-of-darkness.json) |
 | DragonScales 6: Love and Redemption | 131446 | [131446-dragonscales-6-love-and-redemption.json](./131446-dragonscales-6-love-and-redemption.json) |
@@ -14020,6 +14029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamCell: Lost in Nightmares | 211601 | [211601-dreamcell-lost-in-nightmares.json](./211601-dreamcell-lost-in-nightmares.json) |
 | Dreamcore: Playrooms | 347846 | [347846-dreamcore-playrooms.json](./347846-dreamcore-playrooms.json) |
 | Dreamcore95 Idle | 322138 | [322138-dreamcore95-idle.json](./322138-dreamcore95-idle.json) |
+| Dreamcutter | 224329 | [224329-dreamcutter.json](./224329-dreamcutter.json) |
 | Dreamcutter: Steelbook Limited Edition | 300476 | [300476-dreamcutter-steelbook-limited-edition.json](./300476-dreamcutter-steelbook-limited-edition.json) |
 | Dreamdale: Fairy Adventure | 216070 | [216070-dreamdale-fairy-adventure.json](./216070-dreamdale-fairy-adventure.json) |
 | DreamDayKi | 202355 | [202355-dreamdayki.json](./202355-dreamdayki.json) |
@@ -14093,6 +14103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamjob: Programmer | 132801 | [132801-dreamjob-programmer.json](./132801-dreamjob-programmer.json) |
 | Dreamkiller | 11331 | [11331-dreamkiller.json](./11331-dreamkiller.json) |
 | Dreamland | 207308 | [207308-dreamland.json](./207308-dreamland.json) |
+| Dreamland | 224322 | [224322-dreamland.json](./224322-dreamland.json) |
 | Dreamland | 274535 | [274535-dreamland.json](./274535-dreamland.json) |
 | DreamLand | 32173 | [32173-dreamland.json](./32173-dreamland.json) |
 | Dreamland Arcade | 310572 | [310572-dreamland-arcade.json](./310572-dreamland-arcade.json) |
@@ -16246,6 +16257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Tiles | 224060 | [224060-dungeons-and-tiles.json](./224060-dungeons-and-tiles.json) |
 | Dungeons Are Random | 33845 | [33845-dungeons-are-random.json](./33845-dungeons-are-random.json) |
 | Dungeons Deep | 275747 | [275747-dungeons-deep.json](./275747-dungeons-deep.json) |
+| Dungeons Diced | 224321 | [224321-dungeons-diced.json](./224321-dungeons-diced.json) |
 | Dungeons Forever | 84034 | [84034-dungeons-forever.json](./84034-dungeons-forever.json) |
 | Dungeons of Aether | 195068 | [195068-dungeons-of-aether.json](./195068-dungeons-of-aether.json) |
 | Dungeons of Aledorn | 60494 | [60494-dungeons-of-aledorn.json](./60494-dungeons-of-aledorn.json) |
