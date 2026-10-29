@@ -4039,6 +4039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
 | Giselle | 249703 | [249703-giselle.json](./249703-giselle.json) |
 | Gish | 8384 | [8384-gish.json](./8384-gish.json) |
+| Gish: The Mobile Game | 227031 | [227031-gish-the-mobile-game.json](./227031-gish-the-mobile-game.json) |
 | Gisselle's Adventure | 335737 | [335737-gisselles-adventure.json](./335737-gisselles-adventure.json) |
 | Git Gud | 330269 | [330269-git-gud.json](./330269-git-gud.json) |
 | Git Up! | 335498 | [335498-git-up.json](./335498-git-up.json) |
