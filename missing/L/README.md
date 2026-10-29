@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lacuna | 138733 | [138733-lacuna.json](./138733-lacuna.json) |
 | Lacuna + Encodya Bundle | 283194 | [283194-lacuna-encodya-bundle.json](./283194-lacuna-encodya-bundle.json) |
 | Lacuna Draft | 220592 | [220592-lacuna-draft.json](./220592-lacuna-draft.json) |
+| Lacuna III | 177716 | [177716-lacuna-iii.json](./177716-lacuna-iii.json) |
 | Lacuna Passage | 28780 | [28780-lacuna-passage.json](./28780-lacuna-passage.json) |
 | Lacuna: Save the World Edition | 159699 | [159699-lacuna-save-the-world-edition.json](./159699-lacuna-save-the-world-edition.json) |
 | Lacura | 182809 | [182809-lacura.json](./182809-lacura.json) |
