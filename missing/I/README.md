@@ -3644,6 +3644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial Drift Online: Car Pack | 243067 | [243067-initial-drift-online-car-pack.json](./243067-initial-drift-online-car-pack.json) |
 | Initial Prospect | 178844 | [178844-initial-prospect.json](./178844-initial-prospect.json) |
 | Initial Unity | 342282 | [342282-initial-unity.json](./342282-initial-unity.json) |
+| Initializing Maintenance Run: We're Good to Go. | 187049 | [187049-initializing-maintenance-run-were-good-to-go.json](./187049-initializing-maintenance-run-were-good-to-go.json) |
 | Initiating Station Plus | 374225 | [374225-initiating-station-plus.json](./374225-initiating-station-plus.json) |
 | Initiation | 418189 | [418189-initiation.json](./418189-initiation.json) |
 | Initiation | 81027 | [81027-initiation.json](./81027-initiation.json) |
@@ -5824,6 +5825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Hard Being a Meatball | 132808 | [132808-its-hard-being-a-meatball.json](./132808-its-hard-being-a-meatball.json) |
 | It's Hasegawa-san!? | 370474 | [370474-its-hasegawa-san.json](./370474-its-hasegawa-san.json) |
 | It's Just TIC TAC TOE | 101704 | [101704-its-just-tic-tac-toe.json](./101704-its-just-tic-tac-toe.json) |
+| It's Kooky | 186408 | [186408-its-kooky.json](./186408-its-kooky.json) |
 | It's Kooky + Cyber Protocol | 231344 | [231344-its-kooky-cyber-protocol.json](./231344-its-kooky-cyber-protocol.json) |
 | It's Literally Just Mowing | 210675 | [210675-its-literally-just-mowing.json](./210675-its-literally-just-mowing.json) |
 | It's Locked | 407791 | [407791-its-locked.json](./407791-its-locked.json) |
@@ -5836,6 +5838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Not You, It's Your Trauma | 228989 | [228989-its-not-you-its-your-trauma.json](./228989-its-not-you-its-your-trauma.json) |
 | It's OK to Fail | 278407 | [278407-its-ok-to-fail.json](./278407-its-ok-to-fail.json) |
 | It’s on the Mouse | 328244 | [328244-it-s-on-the-mouse.json](./328244-it-s-on-the-mouse.json) |
+| It's on You | 187006 | [187006-its-on-you.json](./187006-its-on-you.json) |
 | It's Only Money | 215586 | [215586-its-only-money.json](./215586-its-only-money.json) |
 | It's Our Revolution | 304108 | [304108-its-our-revolution.json](./304108-its-our-revolution.json) |
 | It's Paper Guy! | 105035 | [105035-its-paper-guy.json](./105035-its-paper-guy.json) |
