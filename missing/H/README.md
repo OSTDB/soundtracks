@@ -2372,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House | 4909 | [4909-haunted-house.json](./4909-haunted-house.json) |
 | Haunted House 2 | 340419 | [340419-haunted-house-2.json](./340419-haunted-house-2.json) |
 | Haunted House Builder | 270514 | [270514-haunted-house-builder.json](./270514-haunted-house-builder.json) |
+| Haunted House Escape | 192543 | [192543-haunted-house-escape.json](./192543-haunted-house-escape.json) |
 | Haunted House Mysteries | 122103 | [122103-haunted-house-mysteries.json](./122103-haunted-house-mysteries.json) |
 | Haunted House of Rock | 338149 | [338149-haunted-house-of-rock.json](./338149-haunted-house-of-rock.json) |
 | Haunted House Renovator | 211941 | [211941-haunted-house-renovator.json](./211941-haunted-house-renovator.json) |
@@ -8843,6 +8844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Housewives | 276645 | [276645-horny-housewives.json](./276645-horny-housewives.json) |
 | Horny Housewives 2 | 340484 | [340484-horny-housewives-2.json](./340484-horny-housewives-2.json) |
 | Horny Massage Clinic | 411063 | [411063-horny-massage-clinic.json](./411063-horny-massage-clinic.json) |
+| Horny Pixels | 192541 | [192541-horny-pixels.json](./192541-horny-pixels.json) |
 | Horny Punishment | 212182 | [212182-horny-punishment.json](./212182-horny-punishment.json) |
 | Horny Recruiter | 368046 | [368046-horny-recruiter.json](./368046-horny-recruiter.json) |
 | Horny Sekai | 152494 | [152494-horny-sekai.json](./152494-horny-sekai.json) |
