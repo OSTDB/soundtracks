@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yep It's More Skiing | 304141 | [304141-yep-its-more-skiing.json](./304141-yep-its-more-skiing.json) |
 | Yerba Mate Tycoon | 153755 | [153755-yerba-mate-tycoon.json](./153755-yerba-mate-tycoon.json) |
 | Yerevan Drive | 214551 | [214551-yerevan-drive.json](./214551-yerevan-drive.json) |
+| Yerr Out | 201401 | [201401-yerr-out.json](./201401-yerr-out.json) |
 | Yes | 393957 | [393957-yes.json](./393957-yes.json) |
 | Yes Brother | 163813 | [163813-yes-brother.json](./163813-yes-brother.json) |
 | Yes Comrade | 329176 | [329176-yes-comrade.json](./329176-yes-comrade.json) |
@@ -982,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Cannot Go Back! | 201990 | [201990-you-cannot-go-back.json](./201990-you-cannot-go-back.json) |
 | You Complete Me | 123466 | [123466-you-complete-me.json](./123466-you-complete-me.json) |
 | You Deserve | 32036 | [32036-you-deserve.json](./32036-you-deserve.json) |
+| You Deserve a Seat at the Table | 199241 | [199241-you-deserve-a-seat-at-the-table.json](./199241-you-deserve-a-seat-at-the-table.json) |
 | You Die Today | 332378 | [332378-you-die-today.json](./332378-you-die-today.json) |
 | You Died but a Necromancer Revived You | 116041 | [116041-you-died-but-a-necromancer-revived-you.json](./116041-you-died-but-a-necromancer-revived-you.json) |
 | You Do Jump | 202012 | [202012-you-do-jump.json](./202012-you-do-jump.json) |
