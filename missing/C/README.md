@@ -7956,6 +7956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Ultimate Content Bundle | 215562 | [215562-cities-skylines-ultimate-content-bundle.json](./215562-cities-skylines-ultimate-content-bundle.json) |
 | Cities: Skylines - World Tour Bundle | 240904 | [240904-cities-skylines-world-tour-bundle.json](./240904-cities-skylines-world-tour-bundle.json) |
 | Cities: Skylines - World Tour Bundle 2 | 243292 | [243292-cities-skylines-world-tour-bundle-2.json](./243292-cities-skylines-world-tour-bundle-2.json) |
+| Cities: Skylines + Surviving Mars | 200826 | [200826-cities-skylines-surviving-mars.json](./200826-cities-skylines-surviving-mars.json) |
 | Cities: Skylines II | 240902 | [240902-cities-skylines-ii.json](./240902-cities-skylines-ii.json) |
 | Cities: Skylines II - Beach Properties | 292637 | [292637-cities-skylines-ii-beach-properties.json](./292637-cities-skylines-ii-beach-properties.json) |
 | Cities: Skylines II - Bridges & Ports | 294381 | [294381-cities-skylines-ii-bridges-and-ports.json](./294381-cities-skylines-ii-bridges-and-ports.json) |
@@ -13704,6 +13705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboys & Zombies VR | 226185 | [226185-cowboys-and-zombies-vr.json](./226185-cowboys-and-zombies-vr.json) |
 | Cowboys Galaxy Adventures | 193823 | [193823-cowboys-galaxy-adventures.json](./193823-cowboys-galaxy-adventures.json) |
 | Cowboys n' Stuff | 169386 | [169386-cowboys-n-stuff.json](./169386-cowboys-n-stuff.json) |
+| Cowboys Showdown | 200832 | [200832-cowboys-showdown.json](./200832-cowboys-showdown.json) |
 | Cowboys vs Hipsters | 130572 | [130572-cowboys-vs-hipsters.json](./130572-cowboys-vs-hipsters.json) |
 | Cowboys vs. Monsters | 302096 | [302096-cowboys-vs-monsters.json](./302096-cowboys-vs-monsters.json) |
 | Cowboys vs. Zombies | 328545 | [328545-cowboys-vs-zombies.json](./328545-cowboys-vs-zombies.json) |
@@ -16777,6 +16779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Juice | 158221 | [158221-cubic-juice.json](./158221-cubic-juice.json) |
 | Cubic Kill Array | 106648 | [106648-cubic-kill-array.json](./106648-cubic-kill-array.json) |
 | Cubic Light | 229164 | [229164-cubic-light.json](./229164-cubic-light.json) |
+| Cubic Lines | 200867 | [200867-cubic-lines.json](./200867-cubic-lines.json) |
 | Cubic Match | 67648 | [67648-cubic-match.json](./67648-cubic-match.json) |
 | Cubic Neon Nightclub | 286764 | [286764-cubic-neon-nightclub.json](./286764-cubic-neon-nightclub.json) |
 | Cubic Ninja | 6754 | [6754-cubic-ninja.json](./6754-cubic-ninja.json) |
