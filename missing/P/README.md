@@ -6120,6 +6120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Marvel Pinball - Avengers Chronicles | 163998 | [163998-pinball-fx3-marvel-pinball-avengers-chronicles.json](./163998-pinball-fx3-marvel-pinball-avengers-chronicles.json) |
 | Pinball FX3: Marvel Pinball - Cinematic Pack | 226360 | [226360-pinball-fx3-marvel-pinball-cinematic-pack.json](./226360-pinball-fx3-marvel-pinball-cinematic-pack.json) |
 | Pinball FX3: Marvel Pinball Original Pack | 164003 | [164003-pinball-fx3-marvel-pinball-original-pack.json](./164003-pinball-fx3-marvel-pinball-original-pack.json) |
+| Pinball FX3: Marvel Pinball Season 2 Bundle | 225946 | [225946-pinball-fx3-marvel-pinball-season-2-bundle.json](./225946-pinball-fx3-marvel-pinball-season-2-bundle.json) |
 | Pinball FX3: Marvel Pinball Vengeance and Virtue Pack | 163999 | [163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json](./163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json) |
 | Pinball FX3: Marvel's Women of Power | 164006 | [164006-pinball-fx3-marvels-women-of-power.json](./164006-pinball-fx3-marvels-women-of-power.json) |
 | Pinball FX3: Star Wars Pinball | 20004 | [20004-pinball-fx3-star-wars-pinball.json](./20004-pinball-fx3-star-wars-pinball.json) |
@@ -7968,9 +7969,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Coaster: Knight Rider K.I.T.T. Construction Kit | 168239 | [168239-planet-coaster-knight-rider-k-i-t-t-construction-kit.json](./168239-planet-coaster-knight-rider-k-i-t-t-construction-kit.json) |
 | Planet Coaster: Magnificent Rides Collection | 160289 | [160289-planet-coaster-magnificent-rides-collection.json](./160289-planet-coaster-magnificent-rides-collection.json) |
 | Planet Coaster: Quick Draw Interactive Shooting Ride | 168241 | [168241-planet-coaster-quick-draw-interactive-shooting-ride.json](./168241-planet-coaster-quick-draw-interactive-shooting-ride.json) |
+| Planet Coaster: Spooky & Adventure Bundle | 225955 | [225955-planet-coaster-spooky-and-adventure-bundle.json](./225955-planet-coaster-spooky-and-adventure-bundle.json) |
 | Planet Coaster: Spooky Pack | 100303 | [100303-planet-coaster-spooky-pack.json](./100303-planet-coaster-spooky-pack.json) |
 | Planet Coaster: Studios Pack | 100304 | [100304-planet-coaster-studios-pack.json](./100304-planet-coaster-studios-pack.json) |
 | Planet Coaster: The Munsters Munster Koach Construction Kit | 168242 | [168242-planet-coaster-the-munsters-munster-koach-construction-kit.json](./168242-planet-coaster-the-munsters-munster-koach-construction-kit.json) |
+| Planet Coaster: Vintage & World's Fair Bundle | 225954 | [225954-planet-coaster-vintage-and-worlds-fair-bundle.json](./225954-planet-coaster-vintage-and-worlds-fair-bundle.json) |
 | Planet Coaster: World's Fair Pack | 110841 | [110841-planet-coaster-worlds-fair-pack.json](./110841-planet-coaster-worlds-fair-pack.json) |
 | Planet Collectors: Episode Earth | 193423 | [193423-planet-collectors-episode-earth.json](./193423-planet-collectors-episode-earth.json) |
 | Planet Collision | 229178 | [229178-planet-collision.json](./229178-planet-collision.json) |
@@ -10410,6 +10413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Simulator | 415170 | [415170-police-simulator.json](./415170-police-simulator.json) |
 | Police Simulator | 54285 | [54285-police-simulator.json](./54285-police-simulator.json) |
 | Police Simulator 2 | 10711 | [10711-police-simulator-2.json](./10711-police-simulator-2.json) |
+| Police Simulator 2023 | 225963 | [225963-police-simulator-2023.json](./225963-police-simulator-2023.json) |
 | Police Simulator: Patrol Duty | 143318 | [143318-police-simulator-patrol-duty.json](./143318-police-simulator-patrol-duty.json) |
 | Police Simulator: Patrol Officers | 152297 | [152297-police-simulator-patrol-officers.json](./152297-police-simulator-patrol-officers.json) |
 | Police Simulator: Patrol Officers - Complete Edition | 399824 | [399824-police-simulator-patrol-officers-complete-edition.json](./399824-police-simulator-patrol-officers-complete-edition.json) |
@@ -14105,6 +14109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Suburbion | 183829 | [183829-project-suburbion.json](./183829-project-suburbion.json) |
 | Project Summit | 153376 | [153376-project-summit.json](./153376-project-summit.json) |
 | Project Superstar | 323047 | [323047-project-superstar.json](./323047-project-superstar.json) |
+| Project Survivor | 225977 | [225977-project-survivor.json](./225977-project-survivor.json) |
 | Project SXU | 330576 | [330576-project-sxu.json](./330576-project-sxu.json) |
 | Project T | 301327 | [301327-project-t.json](./301327-project-t.json) |
 | Project T | 67053 | [67053-project-t.json](./67053-project-t.json) |
