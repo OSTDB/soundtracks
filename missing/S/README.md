@@ -5106,6 +5106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serum | 273863 | [273863-serum.json](./273863-serum.json) |
 | Serum X | 95229 | [95229-serum-x.json](./95229-serum-x.json) |
 | Servant of the Lake | 350179 | [350179-servant-of-the-lake.json](./350179-servant-of-the-lake.json) |
+| Servants of Sumomon | 217134 | [217134-servants-of-sumomon.json](./217134-servants-of-sumomon.json) |
 | Serve & Protect Bundle | 311048 | [311048-serve-and-protect-bundle.json](./311048-serve-and-protect-bundle.json) |
 | Serve & Volley | 94267 | [94267-serve-and-volley.json](./94267-serve-and-volley.json) |
 | Serve Tarantuala | 388141 | [388141-serve-tarantuala.json](./388141-serve-tarantuala.json) |
@@ -10217,6 +10218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Rules | 124673 | [124673-six-rules.json](./124673-six-rules.json) |
 | Six Seals | 384533 | [384533-six-seals.json](./384533-six-seals.json) |
 | Six Seven Nights | 393049 | [393049-six-seven-nights.json](./393049-six-seven-nights.json) |
+| Six Shooters | 217107 | [217107-six-shooters.json](./217107-six-shooters.json) |
 | Six Shots | 176796 | [176796-six-shots.json](./176796-six-shots.json) |
 | Six Shots | 28758 | [28758-six-shots.json](./28758-six-shots.json) |
 | Six Sided Sanctuary | 128390 | [128390-six-sided-sanctuary.json](./128390-six-sided-sanctuary.json) |
