@@ -2363,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Isles | 340060 | [340060-farming-isles.json](./340060-farming-isles.json) |
 | Farming Life 40 | 371208 | [371208-farming-life-40.json](./371208-farming-life-40.json) |
 | Farming Life Simulator | 373655 | [373655-farming-life-simulator.json](./373655-farming-life-simulator.json) |
+| Farming Moomoo | 214299 | [214299-farming-moomoo.json](./214299-farming-moomoo.json) |
 | Farming Mushroom | 371483 | [371483-farming-mushroom.json](./371483-farming-mushroom.json) |
 | Farming PRO 2015 | 88257 | [88257-farming-pro-2015.json](./88257-farming-pro-2015.json) |
 | Farming Real Simulation Tractor, Combine Trucks Farmer Land Game | 231084 | [231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json](./231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json) |
@@ -4069,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighters Megamix | 1550 | [1550-fighters-megamix.json](./1550-fighters-megamix.json) |
 | Fighters Megamix | 45821 | [45821-fighters-megamix.json](./45821-fighters-megamix.json) |
 | Fighters of Capcom | 280849 | [280849-fighters-of-capcom.json](./280849-fighters-of-capcom.json) |
+| Fighters of Fate | 214289 | [214289-fighters-of-fate.json](./214289-fighters-of-fate.json) |
 | Fighters Swords | 40133 | [40133-fighters-swords.json](./40133-fighters-swords.json) |
 | Fighters Unleashed | 30166 | [30166-fighters-unleashed.json](./30166-fighters-unleashed.json) |
 | Fighters Wizards | 131595 | [131595-fighters-wizards.json](./131595-fighters-wizards.json) |
@@ -4629,6 +4631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
 | Final Guardian | 233406 | [233406-final-guardian.json](./233406-final-guardian.json) |
 | Final Guardian 2 | 197348 | [197348-final-guardian-2.json](./197348-final-guardian-2.json) |
+| Final Guild | 214306 | [214306-final-guild.json](./214306-final-guild.json) |
 | Final Gun | 241517 | [241517-final-gun.json](./241517-final-gun.json) |
 | Final Hope: The Plot | 160101 | [160101-final-hope-the-plot.json](./160101-final-hope-the-plot.json) |
 | Final Hour | 27772 | [27772-final-hour.json](./27772-final-hour.json) |
@@ -4836,6 +4839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Cats: Japan Journey | 364077 | [364077-find-the-cats-japan-journey.json](./364077-find-the-cats-japan-journey.json) |
 | Find the Cats: Memory | 195593 | [195593-find-the-cats-memory.json](./195593-find-the-cats-memory.json) |
 | Find the Demon | 367161 | [367161-find-the-demon.json](./367161-find-the-demon.json) |
+| Find the Difference | 214296 | [214296-find-the-difference.json](./214296-find-the-difference.json) |
 | Find the difference - Very difficult Images | 104725 | [104725-find-the-difference-very-difficult-images.json](./104725-find-the-difference-very-difficult-images.json) |
 | Find the Differences 3D | 348809 | [348809-find-the-differences-3d.json](./348809-find-the-differences-3d.json) |
 | Find the Differences Detective | 232174 | [232174-find-the-differences-detective.json](./232174-find-the-differences-detective.json) |
@@ -4882,6 +4886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Your IF | 305349 | [305349-find-your-if.json](./305349-find-your-if.json) |
 | Find Your Way | 98709 | [98709-find-your-way.json](./98709-find-your-way.json) |
 | Find Your Way: Episode 1 | 171925 | [171925-find-your-way-episode-1.json](./171925-find-your-way-episode-1.json) |
+| Find Your Wings | 214273 | [214273-find-your-wings.json](./214273-find-your-wings.json) |
 | Find Yourself | 143776 | [143776-find-yourself.json](./143776-find-yourself.json) |
 | Find-a-frog | 229011 | [229011-find-a-frog.json](./229011-find-a-frog.json) |
 | Find-Life EP1 | 113500 | [113500-find-life-ep1.json](./113500-find-life-ep1.json) |
@@ -11336,6 +11341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruits vs. Veggies | 392236 | [392236-fruits-vs-veggies.json](./392236-fruits-vs-veggies.json) |
 | Fruits-mura no Doubutsu-tachi | 49572 | [49572-fruits-mura-no-doubutsu-tachi.json](./49572-fruits-mura-no-doubutsu-tachi.json) |
 | Fruits' Harvest Sorter | 315809 | [315809-fruits-harvest-sorter.json](./315809-fruits-harvest-sorter.json) |
+| Fruitsies | 214307 | [214307-fruitsies.json](./214307-fruitsies.json) |
 | Fruitwolf | 183017 | [183017-fruitwolf.json](./183017-fruitwolf.json) |
 | Fruity Fauna | 374146 | [374146-fruity-fauna.json](./374146-fruity-fauna.json) |
 | Fruity Freddy | 347833 | [347833-fruity-freddy.json](./347833-fruity-freddy.json) |
