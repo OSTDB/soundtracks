@@ -1707,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Raise the Earth | 118725 | [118725-lazy-raise-the-earth.json](./118725-lazy-raise-the-earth.json) |
 | Lazy Sonic | 331975 | [331975-lazy-sonic.json](./331975-lazy-sonic.json) |
 | Lazy Sweet Tycoon | 156121 | [156121-lazy-sweet-tycoon.json](./156121-lazy-sweet-tycoon.json) |
+| Lazy Thief | 216068 | [216068-lazy-thief.json](./216068-lazy-thief.json) |
 | Lazy Train Game | 366361 | [366361-lazy-train-game.json](./366361-lazy-train-game.json) |
 | Lazy Witch's Factory | 385451 | [385451-lazy-witchs-factory.json](./385451-lazy-witchs-factory.json) |
 | Lazy Writer | 346665 | [346665-lazy-writer.json](./346665-lazy-writer.json) |
@@ -7443,6 +7444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lou's Lagoon | 214706 | [214706-lous-lagoon.json](./214706-lous-lagoon.json) |
 | Lou's Revenge | 164850 | [164850-lous-revenge.json](./164850-lous-revenge.json) |
 | Lou's Revenge + One Dog Story Bundle | 164837 | [164837-lous-revenge-one-dog-story-bundle.json](./164837-lous-revenge-one-dog-story-bundle.json) |
+| Loud Adventure House | 216011 | [216011-loud-adventure-house.json](./216011-loud-adventure-house.json) |
 | Loud on Planet X | 19849 | [19849-loud-on-planet-x.json](./19849-loud-on-planet-x.json) |
 | Loud or Quiet | 74341 | [74341-loud-or-quiet.json](./74341-loud-or-quiet.json) |
 | Loud Run | 307239 | [307239-loud-run.json](./307239-loud-run.json) |
