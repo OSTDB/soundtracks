@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalimat Karash | 314637 | [314637-kalimat-karash.json](./314637-kalimat-karash.json) |
 | Kalimba: The Dark Void - Solo | 170377 | [170377-kalimba-the-dark-void-solo.json](./170377-kalimba-the-dark-void-solo.json) |
 | Kalin no Tsurugi | 41286 | [41286-kalin-no-tsurugi.json](./41286-kalin-no-tsurugi.json) |
+| Kalinur | 212068 | [212068-kalinur.json](./212068-kalinur.json) |
 | Kalis Car Game | 277004 | [277004-kalis-car-game.json](./277004-kalis-car-game.json) |
 | Kalit | 347651 | [347651-kalit.json](./347651-kalit.json) |
 | Kalkuhue | 417977 | [417977-kalkuhue.json](./417977-kalkuhue.json) |
@@ -2446,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
