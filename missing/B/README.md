@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backroom Company | 309554 | [309554-backroom-company.json](./309554-backroom-company.json) |
 | Backroom Escape: Labyrinth Horror | 308653 | [308653-backroom-escape-labyrinth-horror.json](./308653-backroom-escape-labyrinth-horror.json) |
 | Backroom: Constructions | 250792 | [250792-backroom-constructions.json](./250792-backroom-constructions.json) |
+| Backrooms | 179336 | [179336-backrooms.json](./179336-backrooms.json) |
 | Backrooms | 306424 | [306424-backrooms.json](./306424-backrooms.json) |
 | Backrooms | 379993 | [379993-backrooms.json](./379993-backrooms.json) |
 | Backrooms | 379994 | [379994-backrooms.json](./379994-backrooms.json) |
@@ -1436,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallBoi | 121313 | [121313-ballboi.json](./121313-ballboi.json) |
 | BallBuster Collection | 52443 | [52443-ballbuster-collection.json](./52443-ballbuster-collection.json) |
 | BallCore | 283979 | [283979-ballcore.json](./283979-ballcore.json) |
+| Balldemic | 179304 | [179304-balldemic.json](./179304-balldemic.json) |
 | Balldventure | 226173 | [226173-balldventure.json](./226173-balldventure.json) |
 | Ballerburg | 129148 | [129148-ballerburg.json](./129148-ballerburg.json) |
 | Ballerburg: Castle Chaos | 43879 | [43879-ballerburg-castle-chaos.json](./43879-ballerburg-castle-chaos.json) |
@@ -4131,6 +4133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bckspce | 411576 | [411576-bckspce.json](./411576-bckspce.json) |
 | BCV: Battle Construction Vehicles | 43534 | [43534-bcv-battle-construction-vehicles.json](./43534-bcv-battle-construction-vehicles.json) |
 | BDef | 61130 | [61130-bdef.json](./61130-bdef.json) |
+| BDEF: Base Defenders | 179329 | [179329-bdef-base-defenders.json](./179329-bdef-base-defenders.json) |
 | BDSM Clicker | 355136 | [355136-bdsm-clicker.json](./355136-bdsm-clicker.json) |
 | BDSM Fuel Station: Interactive Physics Simulation | 326287 | [326287-bdsm-fuel-station-interactive-physics-simulation.json](./326287-bdsm-fuel-station-interactive-physics-simulation.json) |
 | BDSM Sex | 294129 | [294129-bdsm-sex.json](./294129-bdsm-sex.json) |
@@ -9208,6 +9211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block 2D: The Retro Block | 88739 | [88739-block-2d-the-retro-block.json](./88739-block-2d-the-retro-block.json) |
 | Block Amok | 62271 | [62271-block-amok.json](./62271-block-amok.json) |
 | Block and Save | 254166 | [254166-block-and-save.json](./254166-block-and-save.json) |
+| Block Annihilator | 179326 | [179326-block-annihilator.json](./179326-block-annihilator.json) |
 | Block Arena | 148928 | [148928-block-arena.json](./148928-block-arena.json) |
 | Block Arena | 384098 | [384098-block-arena.json](./384098-block-arena.json) |
 | Block Assembly Simulator | 131219 | [131219-block-assembly-simulator.json](./131219-block-assembly-simulator.json) |
@@ -11022,6 +11026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Club Deluxe | 189846 | [189846-bomb-club-deluxe.json](./189846-bomb-club-deluxe.json) |
 | Bomb Craft Tnt | 88319 | [88319-bomb-craft-tnt.json](./88319-bomb-craft-tnt.json) |
 | Bomb Defense | 38774 | [38774-bomb-defense.json](./38774-bomb-defense.json) |
+| Bomb Defusal 1010 | 179338 | [179338-bomb-defusal-1010.json](./179338-bomb-defusal-1010.json) |
 | Bomb Disposal Expert | 68644 | [68644-bomb-disposal-expert.json](./68644-bomb-disposal-expert.json) |
 | Bomb Disposer | 210638 | [210638-bomb-disposer.json](./210638-bomb-disposer.json) |
 | Bomb Disposer | 59805 | [59805-bomb-disposer.json](./59805-bomb-disposer.json) |
@@ -14969,6 +14974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggos 2 | 342787 | [342787-buggos-2.json](./342787-buggos-2.json) |
 | Buggotchi | 323604 | [323604-buggotchi.json](./323604-buggotchi.json) |
 | Buggy | 356042 | [356042-buggy.json](./356042-buggy.json) |
+| Buggy Battle | 179349 | [179349-buggy-battle.json](./179349-buggy-battle.json) |
 | Buggy Boogie | 66677 | [66677-buggy-boogie.json](./66677-buggy-boogie.json) |
 | Buggy Boy | 12728 | [12728-buggy-boy.json](./12728-buggy-boy.json) |
 | Buggy Challenge | 242374 | [242374-buggy-challenge.json](./242374-buggy-challenge.json) |
