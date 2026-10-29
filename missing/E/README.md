@@ -6203,6 +6203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyday Misanthrope | 176316 | [176316-everyday-misanthrope.json](./176316-everyday-misanthrope.json) |
 | Everyday Puzzles | 247087 | [247087-everyday-puzzles.json](./247087-everyday-puzzles.json) |
 | Everyday Shooter | 14911 | [14911-everyday-shooter.json](./14911-everyday-shooter.json) |
+| Everyday Simulator | 184699 | [184699-everyday-simulator.json](./184699-everyday-simulator.json) |
 | Everyday Soccer | 61342 | [61342-everyday-soccer.json](./61342-everyday-soccer.json) |
 | Everyday Sororicide | 380679 | [380679-everyday-sororicide.json](./380679-everyday-sororicide.json) |
 | Everyday Today's Menu for Emiya Family: Lancer Scenario Pack | 238000 | [238000-everyday-todays-menu-for-emiya-family-lancer-scenario-pack.json](./238000-everyday-todays-menu-for-emiya-family-lancer-scenario-pack.json) |
