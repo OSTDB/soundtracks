@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maintenance | 340827 | [340827-maintenance.json](./340827-maintenance.json) |
 | Maintenance Crew | 295331 | [295331-maintenance-crew.json](./295331-maintenance-crew.json) |
 | Maintenance on the Front | 362248 | [362248-maintenance-on-the-front.json](./362248-maintenance-on-the-front.json) |
+| Maintenance Safety: Pipes and Acids - VR Training | 224828 | [224828-maintenance-safety-pipes-and-acids-vr-training.json](./224828-maintenance-safety-pipes-and-acids-vr-training.json) |
 | Mainu | 344696 | [344696-mainu.json](./344696-mainu.json) |
 | Mais um Dia! | 278610 | [278610-mais-um-dia.json](./278610-mais-um-dia.json) |
 | Maison de Kyouko: Kanrinin no Himitsu | 83370 | [83370-maison-de-kyouko-kanrinin-no-himitsu.json](./83370-maison-de-kyouko-kanrinin-no-himitsu.json) |
@@ -13838,6 +13839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter: World - Iceborne: Complete Handler Costume Pack | 164577 | [164577-monster-hunter-world-iceborne-complete-handler-costume-pack.json](./164577-monster-hunter-world-iceborne-complete-handler-costume-pack.json) |
 | Monster Hunter: World - Iceborne: Master Edition Digital Deluxe | 164814 | [164814-monster-hunter-world-iceborne-master-edition-digital-deluxe.json](./164814-monster-hunter-world-iceborne-master-edition-digital-deluxe.json) |
 | Monster Hunter: World - Steelbook Edition | 81355 | [81355-monster-hunter-world-steelbook-edition.json](./81355-monster-hunter-world-steelbook-edition.json) |
+| Monster Hunters: Frost Giant | 224838 | [224838-monster-hunters-frost-giant.json](./224838-monster-hunters-frost-giant.json) |
 | Monster Hunting: Incremental Grind Forever | 341332 | [341332-monster-hunting-incremental-grind-forever.json](./341332-monster-hunting-incremental-grind-forever.json) |
 | Monster Hunting... For Love! | 115436 | [115436-monster-hunting-for-love.json](./115436-monster-hunting-for-love.json) |
 | Monster Impossible Truck No Limit Adventure Drive Simulator Sport 3D | 227516 | [227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json](./227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json) |
@@ -17682,6 +17684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My evil magician boss suddenly loves me?! | 385053 | [385053-my-evil-magician-boss-suddenly-loves-me.json](./385053-my-evil-magician-boss-suddenly-loves-me.json) |
 | My Ex is a Ghost | 132612 | [132612-my-ex-is-a-ghost.json](./132612-my-ex-is-a-ghost.json) |
 | My Ex-Boyfriend the Space Tyrant | 17624 | [17624-my-ex-boyfriend-the-space-tyrant.json](./17624-my-ex-boyfriend-the-space-tyrant.json) |
+| My Ex-future Family | 224813 | [224813-my-ex-future-family.json](./224813-my-ex-future-family.json) |
 | My Ex-future Family: Premium Edition | 266989 | [266989-my-ex-future-family-premium-edition.json](./266989-my-ex-future-family-premium-edition.json) |
 | My Exercise | 138033 | [138033-my-exercise.json](./138033-my-exercise.json) |
 | My Existential Crisis | 380169 | [380169-my-existential-crisis.json](./380169-my-existential-crisis.json) |
@@ -17820,6 +17823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Girl: Love Story | 119603 | [119603-my-girl-love-story.json](./119603-my-girl-love-story.json) |
 | My Girlfriend | 81184 | [81184-my-girlfriend.json](./81184-my-girlfriend.json) |
 | My Girlfriend is a Cat Girl?! | 205996 | [205996-my-girlfriend-is-a-cat-girl.json](./205996-my-girlfriend-is-a-cat-girl.json) |
+| My Girlfriend is a Futanari | 224819 | [224819-my-girlfriend-is-a-futanari.json](./224819-my-girlfriend-is-a-futanari.json) |
 | My Girlfriend is a Mermaid!? | 212712 | [212712-my-girlfriend-is-a-mermaid.json](./212712-my-girlfriend-is-a-mermaid.json) |
 | My Girlfriend is a Mermaid!? Refine | 188642 | [188642-my-girlfriend-is-a-mermaid-refine.json](./188642-my-girlfriend-is-a-mermaid-refine.json) |
 | My Girlfriend is a Mermaid!? Refine: Limited Edition | 188645 | [188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json](./188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json) |
@@ -18136,6 +18140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Low Poly City | 163892 | [163892-my-low-poly-city.json](./163892-my-low-poly-city.json) |
 | My Lust Wish | 160274 | [160274-my-lust-wish.json](./160274-my-lust-wish.json) |
 | My Mad Road | 100627 | [100627-my-mad-road.json](./100627-my-mad-road.json) |
+| My Mad Scientist Roommate Turned Me Into Her Personal Robotic Battle Maiden?!? | 224833 | [224833-my-mad-scientist-roommate-turned-me-into-her-personal-robotic-battle-maiden.json](./224833-my-mad-scientist-roommate-turned-me-into-her-personal-robotic-battle-maiden.json) |
 | My Mafia Girlfriend | 229111 | [229111-my-mafia-girlfriend.json](./229111-my-mafia-girlfriend.json) |
 | My Magic Florist | 146773 | [146773-my-magic-florist.json](./146773-my-magic-florist.json) |
 | My Magic Florist: Deluxe Edition | 199815 | [199815-my-magic-florist-deluxe-edition.json](./199815-my-magic-florist-deluxe-edition.json) |
