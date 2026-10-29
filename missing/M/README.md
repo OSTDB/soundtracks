@@ -6996,6 +6996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Minis: Volume 2 | 45997 | [45997-mega-minis-volume-2.json](./45997-mega-minis-volume-2.json) |
 | Mega Minis: Volume 3 | 45996 | [45996-mega-minis-volume-3.json](./45996-mega-minis-volume-3.json) |
 | Mega Miracle Force | 114784 | [114784-mega-miracle-force.json](./114784-mega-miracle-force.json) |
+| Mega Monster | 217678 | [217678-mega-monster.json](./217678-mega-monster.json) |
 | Mega Mosaic | 298374 | [298374-mega-mosaic.json](./298374-mega-mosaic.json) |
 | Mega Museum | 108294 | [108294-mega-museum.json](./108294-mega-museum.json) |
 | Mega Overload | 29060 | [29060-mega-overload.json](./29060-mega-overload.json) |
@@ -11314,6 +11315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniature Air Hockey | 175239 | [175239-miniature-air-hockey.json](./175239-miniature-air-hockey.json) |
 | Miniature Garden | 25710 | [25710-miniature-garden.json](./25710-miniature-garden.json) |
 | Miniature Golf | 18415 | [18415-miniature-golf.json](./18415-miniature-golf.json) |
+| Miniature Golf | 217679 | [217679-miniature-golf.json](./217679-miniature-golf.json) |
 | Miniature Golf | 239511 | [239511-miniature-golf.json](./239511-miniature-golf.json) |
 | Miniature Legends | 395238 | [395238-miniature-legends.json](./395238-miniature-legends.json) |
 | Miniature Mania | 395709 | [395709-miniature-mania.json](./395709-miniature-mania.json) |
@@ -15839,6 +15841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Knight: A hero's rising | 315628 | [315628-mouse-knight-a-heros-rising.json](./315628-mouse-knight-a-heros-rising.json) |
 | Mouse Mayhem Shooting & Racing | 127690 | [127690-mouse-mayhem-shooting-and-racing.json](./127690-mouse-mayhem-shooting-and-racing.json) |
 | Mouse Maze | 198291 | [198291-mouse-maze.json](./198291-mouse-maze.json) |
+| Mouse Maze | 217660 | [217660-mouse-maze.json](./217660-mouse-maze.json) |
 | Mouse Maze - Top Brain Puzzle | 89274 | [89274-mouse-maze-top-brain-puzzle.json](./89274-mouse-maze-top-brain-puzzle.json) |
 | Mouse Mind: Secrets of Pharaon | 73808 | [73808-mouse-mind-secrets-of-pharaon.json](./73808-mouse-mind-secrets-of-pharaon.json) |
 | Mouse n' Chase | 403073 | [403073-mouse-n-chase.json](./403073-mouse-n-chase.json) |
@@ -18484,6 +18487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sweet Home Dungeon | 299199 | [299199-my-sweet-home-dungeon.json](./299199-my-sweet-home-dungeon.json) |
 | My Sweet Puppy Love | 208280 | [208280-my-sweet-puppy-love.json](./208280-my-sweet-puppy-love.json) |
 | My Sweet Roomies | 378198 | [378198-my-sweet-roomies.json](./378198-my-sweet-roomies.json) |
+| My Sweet Sadistic Sister | 217695 | [217695-my-sweet-sadistic-sister.json](./217695-my-sweet-sadistic-sister.json) |
 | My Sweet Stalker | 205998 | [205998-my-sweet-stalker.json](./205998-my-sweet-stalker.json) |
 | My Sweet Stepsisters | 205896 | [205896-my-sweet-stepsisters.json](./205896-my-sweet-stepsisters.json) |
 | My Sweet Summer Oni | 213279 | [213279-my-sweet-summer-oni.json](./213279-my-sweet-summer-oni.json) |
@@ -18922,6 +18926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery House | 2479 | [2479-mystery-house.json](./2479-mystery-house.json) |
 | Mystery House | 342677 | [342677-mystery-house.json](./342677-mystery-house.json) |
 | Mystery House II | 67392 | [67392-mystery-house-ii.json](./67392-mystery-house-ii.json) |
+| Mystery House Possessed | 217686 | [217686-mystery-house-possessed.json](./217686-mystery-house-possessed.json) |
 | Mystery House: Secret Stealth | 88133 | [88133-mystery-house-secret-stealth.json](./88133-mystery-house-secret-stealth.json) |
 | Mystery in London: On the Trail of Jack the Ripper | 67184 | [67184-mystery-in-london-on-the-trail-of-jack-the-ripper.json](./67184-mystery-in-london-on-the-trail-of-jack-the-ripper.json) |
 | Mystery in the Office | 245840 | [245840-mystery-in-the-office.json](./245840-mystery-in-the-office.json) |
