@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Flower from Hermes | 185015 | [185015-a-flower-from-hermes.json](./185015-a-flower-from-hermes.json) |
 | A Flutter of Silicon Wings | 185380 | [185380-a-flutter-of-silicon-wings.json](./185380-a-flutter-of-silicon-wings.json) |
 | A Fly in the Array | 387613 | [387613-a-fly-in-the-array.json](./387613-a-fly-in-the-array.json) |
+| A Foggy Day | 183748 | [183748-a-foggy-day.json](./183748-a-foggy-day.json) |
 | A Fool's Art Gallery | 268144 | [268144-a-fools-art-gallery.json](./268144-a-fools-art-gallery.json) |
 | A Fool's Errand | 376508 | [376508-a-fools-errand.json](./376508-a-fools-errand.json) |
 | A Force More Powerful: The Game of Nonviolent Strategy | 71920 | [71920-a-force-more-powerful-the-game-of-nonviolent-strategy.json](./71920-a-force-more-powerful-the-game-of-nonviolent-strategy.json) |
@@ -798,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night in Omar's Burger | 249928 | [249928-a-night-in-omars-burger.json](./249928-a-night-in-omars-burger.json) |
 | A Night in Prison | 258896 | [258896-a-night-in-prison.json](./258896-a-night-in-prison.json) |
 | A Night in Vanet Manor | 147243 | [147243-a-night-in-vanet-manor.json](./147243-a-night-in-vanet-manor.json) |
+| A Night Like Tonight | 183728 | [183728-a-night-like-tonight.json](./183728-a-night-like-tonight.json) |
 | A Night On The Farm | 266431 | [266431-a-night-on-the-farm.json](./266431-a-night-on-the-farm.json) |
 | A Night Out | 183927 | [183927-a-night-out.json](./183927-a-night-out.json) |
 | A Night Out. | 334702 | [334702-a-night-out.json](./334702-a-night-out.json) |
@@ -10697,6 +10699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aran's Bike Trip | 154799 | [154799-arans-bike-trip.json](./154799-arans-bike-trip.json) |
 | Aranock Online | 62986 | [62986-aranock-online.json](./62986-aranock-online.json) |
 | Aranuri: Badachingudeulkkwa hamkke Mandeuneun Sesang | 269648 | [269648-aranuri-badachingudeulkkwa-hamkke-mandeuneun-sesang.json](./269648-aranuri-badachingudeulkkwa-hamkke-mandeuneun-sesang.json) |
+| Arapuca | 183727 | [183727-arapuca.json](./183727-arapuca.json) |
 | Arashi | 183332 | [183332-arashi.json](./183332-arashi.json) |
 | Arashi Gaiden | 307254 | [307254-arashi-gaiden.json](./307254-arashi-gaiden.json) |
 | Arashi no Yoru ni | 269645 | [269645-arashi-no-yoru-ni.json](./269645-arashi-no-yoru-ni.json) |
