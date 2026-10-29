@@ -3575,6 +3575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tengoku Yoitoko | 202692 | [202692-tengoku-yoitoko.json](./202692-tengoku-yoitoko.json) |
 | Tengu Halloween | 403038 | [403038-tengu-halloween.json](./403038-tengu-halloween.json) |
 | Tengu no Kassha: Shoot and Embodiment! | 342037 | [342037-tengu-no-kassha-shoot-and-embodiment.json](./342037-tengu-no-kassha-shoot-and-embodiment.json) |
+| Tengu Otogizoushi | 181506 | [181506-tengu-otogizoushi.json](./181506-tengu-otogizoushi.json) |
 | Tengutana | 74991 | [74991-tengutana.json](./74991-tengutana.json) |
 | Tenhou | 86199 | [86199-tenhou.json](./86199-tenhou.json) |
 | Tenioha! feat. Mami | 263741 | [263741-tenioha-feat-mami.json](./263741-tenioha-feat-mami.json) |
@@ -16227,6 +16228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Trivia CD | 72056 | [72056-the-ultimate-trivia-cd.json](./72056-the-ultimate-trivia-cd.json) |
 | The Ultimate Trivia Challenge | 74205 | [74205-the-ultimate-trivia-challenge.json](./74205-the-ultimate-trivia-challenge.json) |
 | The Ultimate Trivia Quiz | 98893 | [98893-the-ultimate-trivia-quiz.json](./98893-the-ultimate-trivia-quiz.json) |
+| The Ultimate VR Collection | 181490 | [181490-the-ultimate-vr-collection.json](./181490-the-ultimate-vr-collection.json) |
 | The Ultimatest Battle | 55692 | [55692-the-ultimatest-battle.json](./55692-the-ultimatest-battle.json) |
 | The Ultimatum: Choices | 326795 | [326795-the-ultimatum-choices.json](./326795-the-ultimatum-choices.json) |
 | The Ultra Code | 121294 | [121294-the-ultra-code.json](./121294-the-ultra-code.json) |
@@ -16254,6 +16256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Undercroft 12 | 177734 | [177734-the-undercroft-12.json](./177734-the-undercroft-12.json) |
 | The Underdog | 373013 | [373013-the-underdog.json](./373013-the-underdog.json) |
 | The Underdog Tycoon | 366121 | [366121-the-underdog-tycoon.json](./366121-the-underdog-tycoon.json) |
+| The Underground Explorer | 181495 | [181495-the-underground-explorer.json](./181495-the-underground-explorer.json) |
 | The Underground King | 118843 | [118843-the-underground-king.json](./118843-the-underground-king.json) |
 | The Underground Man | 23583 | [23583-the-underground-man.json](./23583-the-underground-man.json) |
 | The Underground Man 2 | 215732 | [215732-the-underground-man-2.json](./215732-the-underground-man-2.json) |
@@ -25421,6 +25424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train World | 225179 | [225179-train-world.json](./225179-train-world.json) |
 | Train World Driver | 332865 | [332865-train-world-driver.json](./332865-train-world-driver.json) |
 | Train Yard Builder | 167370 | [167370-train-yard-builder.json](./167370-train-yard-builder.json) |
+| Train Your Brain | 181527 | [181527-train-your-brain.json](./181527-train-your-brain.json) |
 | Train Your Brain | 234050 | [234050-train-your-brain.json](./234050-train-your-brain.json) |
 | Train Your Brain: Nintendo Switch Training for Adults | 124043 | [124043-train-your-brain-nintendo-switch-training-for-adults.json](./124043-train-your-brain-nintendo-switch-training-for-adults.json) |
 | Train Your Brain! Spot the Difference with Animal Kids Photos | 310443 | [310443-train-your-brain-spot-the-difference-with-animal-kids-photos.json](./310443-train-your-brain-spot-the-difference-with-animal-kids-photos.json) |
@@ -27434,6 +27438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trip To Nonogram: Bali Ubud | 245375 | [245375-trip-to-nonogram-bali-ubud.json](./245375-trip-to-nonogram-bali-ubud.json) |
 | Trip to the Core | 399023 | [399023-trip-to-the-core.json](./399023-trip-to-the-core.json) |
 | Trip to Vinelands | 30865 | [30865-trip-to-vinelands.json](./30865-trip-to-vinelands.json) |
+| Trip Troupe | 181547 | [181547-trip-troupe.json](./181547-trip-troupe.json) |
 | Trip World | 6549 | [6549-trip-world.json](./6549-trip-world.json) |
 | Trip World DX | 263533 | [263533-trip-world-dx.json](./263533-trip-world-dx.json) |
 | Trip: Steam Edition | 90608 | [90608-trip-steam-edition.json](./90608-trip-steam-edition.json) |
@@ -29590,6 +29595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type: Turbo | 391740 | [391740-type-turbo.json](./391740-type-turbo.json) |
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
 | TypeCaster | 374215 | [374215-typecaster.json](./374215-typecaster.json) |
+| Typeds | 181542 | [181542-typeds.json](./181542-typeds.json) |
 | Typefighters | 18956 | [18956-typefighters.json](./18956-typefighters.json) |
 | Typefighters: Steam Edition | 90589 | [90589-typefighters-steam-edition.json](./90589-typefighters-steam-edition.json) |
 | Typeoids | 387477 | [387477-typeoids.json](./387477-typeoids.json) |
