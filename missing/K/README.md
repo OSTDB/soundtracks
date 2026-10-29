@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaia's Ascent | 337995 | [337995-kaias-ascent.json](./337995-kaias-ascent.json) |
 | Kaibil | 390732 | [390732-kaibil.json](./390732-kaibil.json) |
 | Kaibutsu Para-Dice | 263672 | [263672-kaibutsu-para-dice.json](./263672-kaibutsu-para-dice.json) |
+| Kaichu: The Kaiju Dating Sim | 204169 | [204169-kaichu-the-kaiju-dating-sim.json](./204169-kaichu-the-kaiju-dating-sim.json) |
 | Kaichu: The Kaiju Dating Sim - Deluxe Edition | 227402 | [227402-kaichu-the-kaiju-dating-sim-deluxe-edition.json](./227402-kaichu-the-kaiju-dating-sim-deluxe-edition.json) |
 | Kaidan 00 | 146606 | [146606-kaidan-00.json](./146606-kaidan-00.json) |
 | Kaidann | 290470 | [290470-kaidann.json](./290470-kaidann.json) |
@@ -514,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami: The Great Guardian | 408034 | [408034-kami-the-great-guardian.json](./408034-kami-the-great-guardian.json) |
 | Kami's Garden: Bound To The Pages | 417936 | [417936-kamis-garden-bound-to-the-pages.json](./417936-kamis-garden-bound-to-the-pages.json) |
 | Kamibako: Mythology of Cube | 212986 | [212986-kamibako-mythology-of-cube.json](./212986-kamibako-mythology-of-cube.json) |
+| Kamifuda | 204170 | [204170-kamifuda.json](./204170-kamifuda.json) |
 | Kamigami no Asobi InFinite | 136474 | [136474-kamigami-no-asobi-infinite.json](./136474-kamigami-no-asobi-infinite.json) |
 | Kamigami no Asobi Ludere Deorum: Unite Edition | 165172 | [165172-kamigami-no-asobi-ludere-deorum-unite-edition.json](./165172-kamigami-no-asobi-ludere-deorum-unite-edition.json) |
 | Kamigami no Asobi: Ludere Deorum | 125461 | [125461-kamigami-no-asobi-ludere-deorum.json](./125461-kamigami-no-asobi-ludere-deorum.json) |
@@ -1439,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keisan Game: Sansuu 4-nen | 58871 | [58871-keisan-game-sansuu-4-nen.json](./58871-keisan-game-sansuu-4-nen.json) |
 | Keisan Game: Sansuu 5+6-nen | 58870 | [58870-keisan-game-sansuu-5-6-nen.json](./58870-keisan-game-sansuu-5-6-nen.json) |
 | Keisatsusho kara no Dasshutsu | 254929 | [254929-keisatsusho-kara-no-dasshutsu.json](./254929-keisatsusho-kara-no-dasshutsu.json) |
+| Keita's Adventures on the African Savannah | 204171 | [204171-keitas-adventures-on-the-african-savannah.json](./204171-keitas-adventures-on-the-african-savannah.json) |
 | Keitai Denjuu Telefang 2: Power | 27494 | [27494-keitai-denjuu-telefang-2-power.json](./27494-keitai-denjuu-telefang-2-power.json) |
 | Keitai Denjuu Telefang 2: Speed | 27495 | [27495-keitai-denjuu-telefang-2-speed.json](./27495-keitai-denjuu-telefang-2-speed.json) |
 | Keitai Denjuu Telefang: Power Version | 27493 | [27493-keitai-denjuu-telefang-power-version.json](./27493-keitai-denjuu-telefang-power-version.json) |
@@ -3607,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kittenrock Cats - A Hidden Object Game | 287657 | [287657-kittenrock-cats-a-hidden-object-game.json](./287657-kittenrock-cats-a-hidden-object-game.json) |
 | Kittens and Cacti | 71236 | [71236-kittens-and-cacti.json](./71236-kittens-and-cacti.json) |
 | Kittens and Yarn | 152655 | [152655-kittens-and-yarn.json](./152655-kittens-and-yarn.json) |
+| Kittens in Post-Apocalyptic Fantasy San Francisco: Battle School for Only the Most Awesome Monsters | 204172 | [204172-kittens-in-post-apocalyptic-fantasy-san-francisco-battle-school-for-only-the-most-awesome-monsters.json](./204172-kittens-in-post-apocalyptic-fantasy-san-francisco-battle-school-for-only-the-most-awesome-monsters.json) |
 | Kittens in Space | 224700 | [224700-kittens-in-space.json](./224700-kittens-in-space.json) |
 | Kittens of Fear | 155664 | [155664-kittens-of-fear.json](./155664-kittens-of-fear.json) |
 | Kittens with Cannons | 179122 | [179122-kittens-with-cannons.json](./179122-kittens-with-cannons.json) |
@@ -4354,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kofun ha Ikiteiru: Maholova Club no Shitai Sagashi | 206563 | [206563-kofun-ha-ikiteiru-maholova-club-no-shitai-sagashi.json](./206563-kofun-ha-ikiteiru-maholova-club-no-shitai-sagashi.json) |
 | Kogaion | 410646 | [410646-kogaion.json](./410646-kogaion.json) |
 | Koganei-sou to Konjiki no Agehachou | 394580 | [394580-koganei-sou-to-konjiki-no-agehachou.json](./394580-koganei-sou-to-konjiki-no-agehachou.json) |
+| Kogarashi | 204173 | [204173-kogarashi.json](./204173-kogarashi.json) |
 | Kogent Defender | 102916 | [102916-kogent-defender.json](./102916-kogent-defender.json) |
 | Kogepan: Pan mo Game wo Yaru-rashii | 267588 | [267588-kogepan-pan-mo-game-wo-yaru-rashii.json](./267588-kogepan-pan-mo-game-wo-yaru-rashii.json) |
 | Kogi | 209824 | [209824-kogi.json](./209824-kogi.json) |
@@ -4868,6 +4873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotaro Survivor | 351584 | [351584-kotaro-survivor.json](./351584-kotaro-survivor.json) |
 | Koten Tsumego Shuu: Shijin no Maki | 384658 | [384658-koten-tsumego-shuu-shijin-no-maki.json](./384658-koten-tsumego-shuu-shijin-no-maki.json) |
 | KóterGame | 111856 | [111856-kotergame.json](./111856-kotergame.json) |
+| Kotiro | 204152 | [204152-kotiro.json](./204152-kotiro.json) |
 | Kotoba Dash | 388182 | [388182-kotoba-dash.json](./388182-kotoba-dash.json) |
 | Kotoba no Kieta Hi ~Kokoro made Hadaka ni Suru Jun'ai Choukyou~ | 142904 | [142904-kotoba-no-kieta-hi-kokoro-made-hadaka-ni-suru-junai-choukyou.json](./142904-kotoba-no-kieta-hi-kokoro-made-hadaka-ni-suru-junai-choukyou.json) |
 | Kotoba no Puzzle Mojipittan Daijiten | 68082 | [68082-kotoba-no-puzzle-mojipittan-daijiten.json](./68082-kotoba-no-puzzle-mojipittan-daijiten.json) |
