@@ -12443,6 +12443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Misha | 399752 | [399752-cooking-misha.json](./399752-cooking-misha.json) |
 | Cooking Papa: Cookstar | 237641 | [237641-cooking-papa-cookstar.json](./237641-cooking-papa-cookstar.json) |
 | Cooking Pix | 257772 | [257772-cooking-pix.json](./257772-cooking-pix.json) |
+| Cooking Princess | 213766 | [213766-cooking-princess.json](./213766-cooking-princess.json) |
 | Cooking Simulator 2: Better Together | 259127 | [259127-cooking-simulator-2-better-together.json](./259127-cooking-simulator-2-better-together.json) |
 | Cooking Simulator Mobile | 174780 | [174780-cooking-simulator-mobile.json](./174780-cooking-simulator-mobile.json) |
 | Cooking Simulator VR | 148926 | [148926-cooking-simulator-vr.json](./148926-cooking-simulator-vr.json) |
@@ -15433,6 +15434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Impact | 250398 | [250398-cross-impact.json](./250398-cross-impact.json) |
 | Cross Impact: Cowboy | 290793 | [290793-cross-impact-cowboy.json](./290793-cross-impact-cowboy.json) |
 | Cross Impact: V1 | 290794 | [290794-cross-impact-v1.json](./290794-cross-impact-v1.json) |
+| Cross Logic | 213750 | [213750-cross-logic.json](./213750-cross-logic.json) |
 | Cross Love - Episode 1 | 110524 | [110524-cross-love-episode-1.json](./110524-cross-love-episode-1.json) |
 | Cross Match! | 238402 | [238402-cross-match.json](./238402-cross-match.json) |
 | Cross Numbers | 153888 | [153888-cross-numbers.json](./153888-cross-numbers.json) |
