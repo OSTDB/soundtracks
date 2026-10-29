@@ -7228,6 +7228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Life | 119631 | [119631-pixel-life.json](./119631-pixel-life.json) |
 | Pixel Machines | 197724 | [197724-pixel-machines.json](./197724-pixel-machines.json) |
 | Pixel Madness | 175111 | [175111-pixel-madness.json](./175111-pixel-madness.json) |
+| Pixel Mage Quest | 179344 | [179344-pixel-mage-quest.json](./179344-pixel-mage-quest.json) |
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
 | Pixel Mage Survival | 208153 | [208153-pixel-mage-survival.json](./208153-pixel-mage-survival.json) |
 | Pixel Manager: Football 2021 | 256230 | [256230-pixel-manager-football-2021.json](./256230-pixel-manager-football-2021.json) |
