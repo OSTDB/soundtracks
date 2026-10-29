@@ -5289,6 +5289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Chamber | 422463 | [422463-eternal-chamber.json](./422463-eternal-chamber.json) |
 | Eternal Champions | 4477 | [4477-eternal-champions.json](./4477-eternal-champions.json) |
 | Eternal Champions: Challenge from the Dark Side | 5383 | [5383-eternal-champions-challenge-from-the-dark-side.json](./5383-eternal-champions-challenge-from-the-dark-side.json) |
+| Eternal Champions: Special Moves Edition | 198631 | [198631-eternal-champions-special-moves-edition.json](./198631-eternal-champions-special-moves-edition.json) |
 | Eternal Chrysalis Dream | 395569 | [395569-eternal-chrysalis-dream.json](./395569-eternal-chrysalis-dream.json) |
 | Eternal City | 90889 | [90889-eternal-city.json](./90889-eternal-city.json) |
 | Eternal Concord | 122000 | [122000-eternal-concord.json](./122000-eternal-concord.json) |
