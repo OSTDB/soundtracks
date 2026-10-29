@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Jack: The Amulet of Time | 2822 | [2822-samurai-jack-the-amulet-of-time.json](./2822-samurai-jack-the-amulet-of-time.json) |
 | Samurai Jack: The Shadow of Aku | 2823 | [2823-samurai-jack-the-shadow-of-aku.json](./2823-samurai-jack-the-shadow-of-aku.json) |
 | Samurai Jack: Way of the Warrior | 338747 | [338747-samurai-jack-way-of-the-warrior.json](./338747-samurai-jack-way-of-the-warrior.json) |
+| Samurai Jet | 184164 | [184164-samurai-jet.json](./184164-samurai-jet.json) |
 | Samurai Journey | 165648 | [165648-samurai-journey.json](./165648-samurai-journey.json) |
 | Samurai Katana Rampage: Stickman Saga | 304272 | [304272-samurai-katana-rampage-stickman-saga.json](./304272-samurai-katana-rampage-stickman-saga.json) |
 | Samurai Kento | 257906 | [257906-samurai-kento.json](./257906-samurai-kento.json) |
@@ -10399,6 +10400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SJ-19 Learns to Love! | 144112 | [144112-sj-19-learns-to-love.json](./144112-sj-19-learns-to-love.json) |
 | SJS1: Streets Of Fear | 310645 | [310645-sjs1-streets-of-fear.json](./310645-sjs1-streets-of-fear.json) |
 | SJS2: Outpost | 310646 | [310646-sjs2-outpost.json](./310646-sjs2-outpost.json) |
+| SJW: Digital Zine Quest | 184200 | [184200-sjw-digital-zine-quest.json](./184200-sjw-digital-zine-quest.json) |
 | Sk8 | 75918 | [75918-sk8.json](./75918-sk8.json) |
 | Skábma: Snowfall | 114724 | [114724-skabma-snowfall.json](./114724-skabma-snowfall.json) |
 | Skade | 258975 | [258975-skade.json](./258975-skade.json) |
@@ -12760,6 +12762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmithStory II | 193879 | [193879-smithstory-ii.json](./193879-smithstory-ii.json) |
 | Smithworks | 204603 | [204603-smithworks.json](./204603-smithworks.json) |
 | Smithy | 32486 | [32486-smithy.json](./32486-smithy.json) |
+| Smithy of the Fishy | 184218 | [184218-smithy-of-the-fishy.json](./184218-smithy-of-the-fishy.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
 | SMOD Troopers | 312617 | [312617-smod-troopers.json](./312617-smod-troopers.json) |
 | SMOD: Outbreak | 312616 | [312616-smod-outbreak.json](./312616-smod-outbreak.json) |
@@ -13959,6 +13962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Player Simulator | 116473 | [116473-soccer-player-simulator.json](./116473-soccer-player-simulator.json) |
 | Soccer Puzzle | 391351 | [391351-soccer-puzzle.json](./391351-soccer-puzzle.json) |
 | Soccer Q | 141460 | [141460-soccer-q.json](./141460-soccer-q.json) |
+| Soccer Racing | 184175 | [184175-soccer-racing.json](./184175-soccer-racing.json) |
 | Soccer Rage | 35597 | [35597-soccer-rage.json](./35597-soccer-rage.json) |
 | Soccer Rally | 175287 | [175287-soccer-rally.json](./175287-soccer-rally.json) |
 | Soccer Rally | 210079 | [210079-soccer-rally.json](./210079-soccer-rally.json) |
@@ -17620,6 +17624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shooter | 393436 | [393436-space-shooter.json](./393436-space-shooter.json) |
 | Space Shooter 24 | 267821 | [267821-space-shooter-24.json](./267821-space-shooter-24.json) |
 | Space Shooter 3D | 96756 | [96756-space-shooter-3d.json](./96756-space-shooter-3d.json) |
+| Space Shooter FPS | 184191 | [184191-space-shooter-fps.json](./184191-space-shooter-fps.json) |
 | Space Shooter: Alpha Impact | 71482 | [71482-space-shooter-alpha-impact.json](./71482-space-shooter-alpha-impact.json) |
 | Space Shooter: Fun Arcade Game | 87535 | [87535-space-shooter-fun-arcade-game.json](./87535-space-shooter-fun-arcade-game.json) |
 | Space shooter: Galaxy Attack | 256526 | [256526-space-shooter-galaxy-attack.json](./256526-space-shooter-galaxy-attack.json) |
@@ -18885,6 +18890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spheria | 83875 | [83875-spheria.json](./83875-spheria.json) |
 | Spheric Bombs | 294095 | [294095-spheric-bombs.json](./294095-spheric-bombs.json) |
 | Spherical | 12771 | [12771-spherical.json](./12771-spherical.json) |
+| Spherical Soccer | 184173 | [184173-spherical-soccer.json](./184173-spherical-soccer.json) |
 | Spheritis | 17647 | [17647-spheritis.json](./17647-spheritis.json) |
 | Spheriums | 189883 | [189883-spheriums.json](./189883-spheriums.json) |
 | Spherix | 285514 | [285514-spherix.json](./285514-spherix.json) |
@@ -20114,6 +20120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Breeze | 68328 | [68328-spring-breeze.json](./68328-spring-breeze.json) |
 | Spring Bunny Islands | 294239 | [294239-spring-bunny-islands.json](./294239-spring-bunny-islands.json) |
 | Spring Catastrophe | 246652 | [246652-spring-catastrophe.json](./246652-spring-catastrophe.json) |
+| Spring Chicken | 184170 | [184170-spring-chicken.json](./184170-spring-chicken.json) |
 | Spring Cleaning | 179733 | [179733-spring-cleaning.json](./179733-spring-cleaning.json) |
 | Spring Crisis | 238913 | [238913-spring-crisis.json](./238913-spring-crisis.json) |
 | Spring Crisis 2 | 280922 | [280922-spring-crisis-2.json](./280922-spring-crisis-2.json) |
