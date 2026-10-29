@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NecroVisioN: Lost Company | 16146 | [16146-necrovision-lost-company.json](./16146-necrovision-lost-company.json) |
 | Necrow Co. | 187735 | [187735-necrow-co.json](./187735-necrow-co.json) |
 | Necrowarp | 129691 | [129691-necrowarp.json](./129691-necrowarp.json) |
+| Necrowave | 211013 | [211013-necrowave.json](./211013-necrowave.json) |
 | Necrowhisper | 388907 | [388907-necrowhisper.json](./388907-necrowhisper.json) |
 | NecroWorld | 332946 | [332946-necroworld.json](./332946-necroworld.json) |
 | NecroWorm | 131969 | [131969-necroworm.json](./131969-necroworm.json) |
@@ -5245,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Way Home | 117007 | [117007-no-way-home.json](./117007-no-way-home.json) |
 | No Way Home (Update) | 346731 | [346731-no-way-home-update.json](./346731-no-way-home-update.json) |
 | No Way Home: Blammo! | 346798 | [346798-no-way-home-blammo.json](./346798-no-way-home-blammo.json) |
+| No Way Out | 211014 | [211014-no-way-out.json](./211014-no-way-out.json) |
 | No Way Out | 239677 | [239677-no-way-out.json](./239677-no-way-out.json) |
 | No Way Out | 30104 | [30104-no-way-out.json](./30104-no-way-out.json) |
 | No Way Out | 310165 | [310165-no-way-out.json](./310165-no-way-out.json) |
