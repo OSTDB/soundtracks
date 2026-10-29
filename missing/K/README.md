@@ -1236,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazakh ' Jack | 144941 | [144941-kazakh-jack.json](./144941-kazakh-jack.json) |
 | Kaze Kiri: Ninja Action | 37612 | [37612-kaze-kiri-ninja-action.json](./37612-kaze-kiri-ninja-action.json) |
 | Kaze no Keishousha | 408763 | [408763-kaze-no-keishousha.json](./408763-kaze-no-keishousha.json) |
+| Kaze no Noriko: Sanae-san no Yokai Taiji | 193628 | [193628-kaze-no-noriko-sanae-san-no-yokai-taiji.json](./193628-kaze-no-noriko-sanae-san-no-yokai-taiji.json) |
 | Kaze no Notam | 71359 | [71359-kaze-no-notam.json](./71359-kaze-no-notam.json) |
 | Kaze no Oka Kouen nite | 139117 | [139117-kaze-no-oka-kouen-nite.json](./139117-kaze-no-oka-kouen-nite.json) |
 | Kaze no Satsui: It's a Long Way Round | 221031 | [221031-kaze-no-satsui-its-a-long-way-round.json](./221031-kaze-no-satsui-its-a-long-way-round.json) |
@@ -1779,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keytamine | 348720 | [348720-keytamine.json](./348720-keytamine.json) |
 | Keytron | 350480 | [350480-keytron.json](./350480-keytron.json) |
 | keyWars | 96848 | [96848-keywars.json](./96848-keywars.json) |
+| KeyWe: The 100th Grand Ol' Telepost Tournament | 193606 | [193606-keywe-the-100th-grand-ol-telepost-tournament.json](./193606-keywe-the-100th-grand-ol-telepost-tournament.json) |
 | Keyword 2: Nightfall | 276657 | [276657-keyword-2-nightfall.json](./276657-keyword-2-nightfall.json) |
 | Keyword: A Spider's Thread | 162077 | [162077-keyword-a-spiders-thread.json](./162077-keyword-a-spiders-thread.json) |
 | KeyWords | 72079 | [72079-keywords.json](./72079-keywords.json) |
@@ -2473,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5122,6 +5125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kromaia | 8815 | [8815-kromaia.json](./8815-kromaia.json) |
 | Kromaia Ω | 14296 | [14296-kromaia.json](./14296-kromaia.json) |
 | Kromaia: Annvrsary X | 306795 | [306795-kromaia-annvrsary-x.json](./306795-kromaia-annvrsary-x.json) |
+| Kromaticube | 192570 | [192570-kromaticube.json](./192570-kromaticube.json) |
 | Kromazone | 83379 | [83379-kromazone.json](./83379-kromazone.json) |
 | Kromer Kollector | 181875 | [181875-kromer-kollector.json](./181875-kromer-kollector.json) |
 | Kromex | 400850 | [400850-kromex.json](./400850-kromex.json) |
@@ -5455,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurohyou: Ryuu ga Gotoku Shinshou | 66611 | [66611-kurohyou-ryuu-ga-gotoku-shinshou.json](./66611-kurohyou-ryuu-ga-gotoku-shinshou.json) |
 | Kuroi Hitomi no Noir: Cielgris Fantasm | 213910 | [213910-kuroi-hitomi-no-noir-cielgris-fantasm.json](./213910-kuroi-hitomi-no-noir-cielgris-fantasm.json) |
 | Kuroi Mishin: Sekaikei Girl | 307069 | [307069-kuroi-mishin-sekaikei-girl.json](./307069-kuroi-mishin-sekaikei-girl.json) |
+| Kuroi Tsubasa: Deluxe Edition | 192557 | [192557-kuroi-tsubasa-deluxe-edition.json](./192557-kuroi-tsubasa-deluxe-edition.json) |
 | Kuroinu 2 Redux | 262080 | [262080-kuroinu-2-redux.json](./262080-kuroinu-2-redux.json) |
 | Kuroinu Redux | 244746 | [244746-kuroinu-redux.json](./244746-kuroinu-redux.json) |
 | Kuroki run! | 184927 | [184927-kuroki-run.json](./184927-kuroki-run.json) |
