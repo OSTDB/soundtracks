@@ -1193,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hang Out | 405718 | [405718-hang-out.json](./405718-hang-out.json) |
 | Hang Pilot | 307858 | [307858-hang-pilot.json](./307858-hang-pilot.json) |
 | Hang up Street | 333092 | [333092-hang-up-street.json](./333092-hang-up-street.json) |
+| Hang-On | 198633 | [198633-hang-on.json](./198633-hang-on.json) |
 | Hang-On | 364569 | [364569-hang-on.json](./364569-hang-on.json) |
 | Hang-On | 364571 | [364571-hang-on.json](./364571-hang-on.json) |
 | Hang-On | 6110 | [6110-hang-on.json](./6110-hang-on.json) |
@@ -7095,6 +7096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hip Hop & Street Dance School | 87868 | [87868-hip-hop-and-street-dance-school.json](./87868-hip-hop-and-street-dance-school.json) |
 | Hip Hop Battle: Girls vs. Boys - Dance Clash of the Sexes | 106902 | [106902-hip-hop-battle-girls-vs-boys-dance-clash-of-the-sexes.json](./106902-hip-hop-battle-girls-vs-boys-dance-clash-of-the-sexes.json) |
 | Hip Hop King: Rytmik Edition | 65460 | [65460-hip-hop-king-rytmik-edition.json](./65460-hip-hop-king-rytmik-edition.json) |
+| Hip Jog Jog | 198634 | [198634-hip-jog-jog.json](./198634-hip-jog-jog.json) |
 | Hipatya in I wanna world | 307896 | [307896-hipatya-in-i-wanna-world.json](./307896-hipatya-in-i-wanna-world.json) |
 | Hiper Tronic | 72146 | [72146-hiper-tronic.json](./72146-hiper-tronic.json) |
 | HiPet! | 390582 | [390582-hipet.json](./390582-hipet.json) |
