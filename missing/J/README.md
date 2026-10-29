@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Wars | 114732 | [114732-jelly-wars.json](./114732-jelly-wars.json) |
 | Jelly Zoo | 236979 | [236979-jelly-zoo.json](./236979-jelly-zoo.json) |
 | Jelly-Jelly | 301890 | [301890-jelly-jelly.json](./301890-jelly-jelly.json) |
+| Jelly: A love story | 191415 | [191415-jelly-a-love-story.json](./191415-jelly-a-love-story.json) |
 | Jelly's Adventure | 208328 | [208328-jellys-adventure.json](./208328-jellys-adventure.json) |
 | JellyBall | 321284 | [321284-jellyball.json](./321284-jellyball.json) |
 | Jellyboom | 73239 | [73239-jellyboom.json](./73239-jellyboom.json) |
@@ -1029,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jephs Furry Adventures 7 | 254873 | [254873-jephs-furry-adventures-7.json](./254873-jephs-furry-adventures-7.json) |
 | Jequi's Dream | 390007 | [390007-jequis-dream.json](./390007-jequis-dream.json) |
 | Jera | 121578 | [121578-jera.json](./121578-jera.json) |
+| Jeremia: Nightfall | 189804 | [189804-jeremia-nightfall.json](./189804-jeremia-nightfall.json) |
 | Jeremiah | 181691 | [181691-jeremiah.json](./181691-jeremiah.json) |
 | Jeremy Goes Jumping | 128469 | [128469-jeremy-goes-jumping.json](./128469-jeremy-goes-jumping.json) |
 | Jeremy McGrath Supercross 2000 | 249119 | [249119-jeremy-mcgrath-supercross-2000.json](./249119-jeremy-mcgrath-supercross-2000.json) |
@@ -3679,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Run! | 102141 | [102141-just-run.json](./102141-just-run.json) |
 | Just Shapes & Beats | 31194 | [31194-just-shapes-and-beats.json](./31194-just-shapes-and-beats.json) |
 | Just Shapes & Beats: Hardcore Edition | 118174 | [118174-just-shapes-and-beats-hardcore-edition.json](./118174-just-shapes-and-beats-hardcore-edition.json) |
+| Just Shoot | 191433 | [191433-just-shoot.json](./191433-just-shoot.json) |
 | Just Shoot: Slimes | 219651 | [219651-just-shoot-slimes.json](./219651-just-shoot-slimes.json) |
 | Just Shovel It! | 422666 | [422666-just-shovel-it.json](./422666-just-shovel-it.json) |
 | Just Sign! | 207297 | [207297-just-sign.json](./207297-just-sign.json) |
