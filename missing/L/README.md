@@ -1649,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layer Front | 108929 | [108929-layer-front.json](./108929-layer-front.json) |
 | Layer Hunt | 219689 | [219689-layer-hunt.json](./219689-layer-hunt.json) |
 | Layer Section & Galactic Attack: S-Tribute | 199159 | [199159-layer-section-and-galactic-attack-s-tribute.json](./199159-layer-section-and-galactic-attack-s-tribute.json) |
+| Layer Up | 200284 | [200284-layer-up.json](./200284-layer-up.json) |
 | Layer2 | 407912 | [407912-layer2.json](./407912-layer2.json) |
 | Layered | 312600 | [312600-layered.json](./312600-layered.json) |
 | Layered Ordeal | 356803 | [356803-layered-ordeal.json](./356803-layered-ordeal.json) |
@@ -2888,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Skywalker Saga - Galactic Edition | 216281 | [216281-lego-star-wars-the-skywalker-saga-galactic-edition.json](./216281-lego-star-wars-the-skywalker-saga-galactic-edition.json) |
 | LEGO Star Wars: The Skywalker Saga - Obi-Wan Kenobi Character Pack | 223774 | [223774-lego-star-wars-the-skywalker-saga-obi-wan-kenobi-character-pack.json](./223774-lego-star-wars-the-skywalker-saga-obi-wan-kenobi-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - Rebels Character Pack | 223775 | [223775-lego-star-wars-the-skywalker-saga-rebels-character-pack.json](./223775-lego-star-wars-the-skywalker-saga-rebels-character-pack.json) |
+| LEGO Star Wars: The Skywalker Saga - Rogue One: A Star Wars Story Character Pack | 199760 | [199760-lego-star-wars-the-skywalker-saga-rogue-one-a-star-wars-story-character-pack.json](./199760-lego-star-wars-the-skywalker-saga-rogue-one-a-star-wars-story-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - Solo: A Star Wars Story - Character Pack | 201138 | [201138-lego-star-wars-the-skywalker-saga-solo-a-star-wars-story-character-pack.json](./201138-lego-star-wars-the-skywalker-saga-solo-a-star-wars-story-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - Summer Vacation Character Pack | 223776 | [223776-lego-star-wars-the-skywalker-saga-summer-vacation-character-pack.json](./223776-lego-star-wars-the-skywalker-saga-summer-vacation-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - The Bad Batch Character Pack | 201129 | [201129-lego-star-wars-the-skywalker-saga-the-bad-batch-character-pack.json](./201129-lego-star-wars-the-skywalker-saga-the-bad-batch-character-pack.json) |
@@ -3207,6 +3209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Build a Zoo + Dinosaur Island Bundle | 208433 | [208433-lets-build-a-zoo-dinosaur-island-bundle.json](./208433-lets-build-a-zoo-dinosaur-island-bundle.json) |
 | Let’s Build a Zoo: Aquarium Odyssey | 245302 | [245302-let-s-build-a-zoo-aquarium-odyssey.json](./245302-let-s-build-a-zoo-aquarium-odyssey.json) |
 | Let's Build a Zoo: Aquarium Odyssey Bundle | 262056 | [262056-lets-build-a-zoo-aquarium-odyssey-bundle.json](./262056-lets-build-a-zoo-aquarium-odyssey-bundle.json) |
+| Let's Build a Zoo: Dinosaur Island | 201433 | [201433-lets-build-a-zoo-dinosaur-island.json](./201433-lets-build-a-zoo-dinosaur-island.json) |
 | Let's Build a Zoo: Ultimate Bundle | 262054 | [262054-lets-build-a-zoo-ultimate-bundle.json](./262054-lets-build-a-zoo-ultimate-bundle.json) |
 | Let's Build Wonders: Galaxy | 320779 | [320779-lets-build-wonders-galaxy.json](./320779-lets-build-wonders-galaxy.json) |
 | Let's Build Wonders: Galaxy — Star Trade Chamber Pass | 337532 | [337532-lets-build-wonders-galaxy-star-trade-chamber-pass.json](./337532-lets-build-wonders-galaxy-star-trade-chamber-pass.json) |
@@ -5042,6 +5045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Listhère | 137982 | [137982-listhere.json](./137982-listhere.json) |
 | Lit | 21264 | [21264-lit.json](./21264-lit.json) |
 | Lit | 97106 | [97106-lit.json](./97106-lit.json) |
+| Lit Up | 199724 | [199724-lit-up.json](./199724-lit-up.json) |
 | LIT: Bend the Light | 126621 | [126621-lit-bend-the-light.json](./126621-lit-bend-the-light.json) |
 | Lita's Dream | 252286 | [252286-litas-dream.json](./252286-litas-dream.json) |
 | Litchi Town | 244934 | [244934-litchi-town.json](./244934-litchi-town.json) |
