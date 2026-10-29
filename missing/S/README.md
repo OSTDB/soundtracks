@@ -13085,6 +13085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Monsters | 251540 | [251540-sneaky-monsters.json](./251540-sneaky-monsters.json) |
 | Sneaky Peeky | 264625 | [264625-sneaky-peeky.json](./264625-sneaky-peeky.json) |
 | Sneaky Purr | 422479 | [422479-sneaky-purr.json](./422479-sneaky-purr.json) |
+| Sneaky Rat | 219415 | [219415-sneaky-rat.json](./219415-sneaky-rat.json) |
 | Sneaky Seekers | 253609 | [253609-sneaky-seekers.json](./253609-sneaky-seekers.json) |
 | Sneaky Snacks | 290885 | [290885-sneaky-snacks.json](./290885-sneaky-snacks.json) |
 | Sneaky Snake | 124560 | [124560-sneaky-snake.json](./124560-sneaky-snake.json) |
@@ -23357,6 +23358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Strikes: Conquer Fantasy World | 317870 | [317870-stickman-strikes-conquer-fantasy-world.json](./317870-stickman-strikes-conquer-fantasy-world.json) |
 | Stickman Super Athletics | 85390 | [85390-stickman-super-athletics.json](./85390-stickman-super-athletics.json) |
 | Stickman Synthwave Escape | 202733 | [202733-stickman-synthwave-escape.json](./202733-stickman-synthwave-escape.json) |
+| Stickman Trenches | 219377 | [219377-stickman-trenches.json](./219377-stickman-trenches.json) |
 | Stickman turbo destruiction | 349465 | [349465-stickman-turbo-destruiction.json](./349465-stickman-turbo-destruiction.json) |
 | Stickman Turbo Dismounting 3D | 95841 | [95841-stickman-turbo-dismounting-3d.json](./95841-stickman-turbo-dismounting-3d.json) |
 | Stickman vs Circles | 175750 | [175750-stickman-vs-circles.json](./175750-stickman-vs-circles.json) |
@@ -28285,6 +28287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pac-Man | 21681 | [21681-super-pac-man.json](./21681-super-pac-man.json) |
 | Super Pac-Man | 239191 | [239191-super-pac-man.json](./239191-super-pac-man.json) |
 | Super Pac-Man | 345360 | [345360-super-pac-man.json](./345360-super-pac-man.json) |
+| Super Pac-Man Collection | 219418 | [219418-super-pac-man-collection.json](./219418-super-pac-man-collection.json) |
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
 | Super Pads: Become a DJ | 96776 | [96776-super-pads-become-a-dj.json](./96776-super-pads-become-a-dj.json) |
 | Super Panda Adventures | 10933 | [10933-super-panda-adventures.json](./10933-super-panda-adventures.json) |
