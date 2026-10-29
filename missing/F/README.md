@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face Wound | 64132 | [64132-face-wound.json](./64132-face-wound.json) |
 | Face Your Demons | 121296 | [121296-face-your-demons.json](./121296-face-your-demons.json) |
 | Face Your Faces | 72763 | [72763-face-your-faces.json](./72763-face-your-faces.json) |
+| Face Your Fears 2 | 180954 | [180954-face-your-fears-2.json](./180954-face-your-fears-2.json) |
 | Face-Off | 84180 | [84180-face-off.json](./84180-face-off.json) |
 | Faceball | 140879 | [140879-faceball.json](./140879-faceball.json) |
 | Faceball 2000 | 19701 | [19701-faceball-2000.json](./19701-faceball-2000.json) |
@@ -2491,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FarmRPG | 227832 | [227832-farmrpg.json](./227832-farmrpg.json) |
 | Farmscapes | 50452 | [50452-farmscapes.json](./50452-farmscapes.json) |
 | Farmside | 239457 | [239457-farmside.json](./239457-farmside.json) |
+| Farmstead Story | 180933 | [180933-farmstead-story.json](./180933-farmstead-story.json) |
 | Farmtastic | 352351 | [352351-farmtastic.json](./352351-farmtastic.json) |
 | FarmTD | 332376 | [332376-farmtd.json](./332376-farmtd.json) |
 | FarmTech | 257891 | [257891-farmtech.json](./257891-farmtech.json) |
@@ -6001,6 +6003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishtopia Tycoon 2 | 101916 | [101916-fishtopia-tycoon-2.json](./101916-fishtopia-tycoon-2.json) |
 | FishVerse: Ultimate Fishing | 279140 | [279140-fishverse-ultimate-fishing.json](./279140-fishverse-ultimate-fishing.json) |
 | FishVille | 92386 | [92386-fishville.json](./92386-fishville.json) |
+| FishWitch Halloween | 180971 | [180971-fishwitch-halloween.json](./180971-fishwitch-halloween.json) |
 | Fishy | 104572 | [104572-fishy.json](./104572-fishy.json) |
 | Fishy | 422039 | [422039-fishy.json](./422039-fishy.json) |
 | Fishy 3D | 139409 | [139409-fishy-3d.json](./139409-fishy-3d.json) |
@@ -8193,6 +8196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2021: Xbox Edition | 142214 | [142214-football-manager-2021-xbox-edition.json](./142214-football-manager-2021-xbox-edition.json) |
 | Football Manager 2022 | 168537 | [168537-football-manager-2022.json](./168537-football-manager-2022.json) |
 | Football Manager 2022 Mobile | 187830 | [187830-football-manager-2022-mobile.json](./187830-football-manager-2022-mobile.json) |
+| Football Manager 2022 Touch | 180977 | [180977-football-manager-2022-touch.json](./180977-football-manager-2022-touch.json) |
 | Football Manager 2023 Touch | 226336 | [226336-football-manager-2023-touch.json](./226336-football-manager-2023-touch.json) |
 | Football Manager 2024 | 266382 | [266382-football-manager-2024.json](./266382-football-manager-2024.json) |
 | Football Manager 2024 Mobile | 295327 | [295327-football-manager-2024-mobile.json](./295327-football-manager-2024-mobile.json) |
