@@ -10397,6 +10397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lancaster Leak: Crisis at Call Center | 260586 | [260586-the-lancaster-leak-crisis-at-call-center.json](./260586-the-lancaster-leak-crisis-at-call-center.json) |
 | The Lancaster Leak: O'Brien State Park | 244412 | [244412-the-lancaster-leak-obrien-state-park.json](./244412-the-lancaster-leak-obrien-state-park.json) |
 | The Land | 64929 | [64929-the-land.json](./64929-the-land.json) |
+| The Land Before Time | 209817 | [209817-the-land-before-time.json](./209817-the-land-before-time.json) |
 | The Land Before Time | 69555 | [69555-the-land-before-time.json](./69555-the-land-before-time.json) |
 | The Land Before Time Animated MovieBook | 329643 | [329643-the-land-before-time-animated-moviebook.json](./329643-the-land-before-time-animated-moviebook.json) |
 | The Land Before Time: Activity Center | 229378 | [229378-the-land-before-time-activity-center.json](./229378-the-land-before-time-activity-center.json) |
@@ -17562,6 +17563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thinking With Boxes | 339687 | [339687-thinking-with-boxes.json](./339687-thinking-with-boxes.json) |
 | Thinkrolls Kings & Queens | 101651 | [101651-thinkrolls-kings-and-queens.json](./101651-thinkrolls-kings-and-queens.json) |
 | Thinkrolls Space | 119571 | [119571-thinkrolls-space.json](./119571-thinkrolls-space.json) |
+| ThinkSmart Labyrinth | 209819 | [209819-thinksmart-labyrinth.json](./209819-thinksmart-labyrinth.json) |
 | ThinkSmart: Family! | 268428 | [268428-thinksmart-family.json](./268428-thinksmart-family.json) |
 | ThinkTanks | 84240 | [84240-thinktanks.json](./84240-thinktanks.json) |
 | Thinky Dailies | 380657 | [380657-thinky-dailies.json](./380657-thinky-dailies.json) |
@@ -23248,6 +23250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Genso Wanderer Reloaded: Cirno | 161749 | [161749-touhou-genso-wanderer-reloaded-cirno.json](./161749-touhou-genso-wanderer-reloaded-cirno.json) |
 | Touhou Genso Wanderer Reloaded: Complete Edition | 209953 | [209953-touhou-genso-wanderer-reloaded-complete-edition.json](./209953-touhou-genso-wanderer-reloaded-complete-edition.json) |
 | Touhou Genso Wanderer Reloaded: Daiyosei | 161742 | [161742-touhou-genso-wanderer-reloaded-daiyosei.json](./161742-touhou-genso-wanderer-reloaded-daiyosei.json) |
+| Touhou Genso Wanderer Reloaded: Elegance Edition | 209852 | [209852-touhou-genso-wanderer-reloaded-elegance-edition.json](./209852-touhou-genso-wanderer-reloaded-elegance-edition.json) |
 | Touhou Genso Wanderer Reloaded: Flandre Scarlet | 212651 | [212651-touhou-genso-wanderer-reloaded-flandre-scarlet.json](./212651-touhou-genso-wanderer-reloaded-flandre-scarlet.json) |
 | Touhou Genso Wanderer Reloaded: Kasen Ibaraki | 161744 | [161744-touhou-genso-wanderer-reloaded-kasen-ibaraki.json](./161744-touhou-genso-wanderer-reloaded-kasen-ibaraki.json) |
 | Touhou Genso Wanderer Reloaded: Kokoro Hata | 161740 | [161740-touhou-genso-wanderer-reloaded-kokoro-hata.json](./161740-touhou-genso-wanderer-reloaded-kokoro-hata.json) |
