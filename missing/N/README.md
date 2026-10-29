@@ -246,6 +246,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Super Wars | 37359 | [37359-namco-super-wars.json](./37359-namco-super-wars.json) |
 | Namco Tennis Smash Court | 74301 | [74301-namco-tennis-smash-court.json](./74301-namco-tennis-smash-court.json) |
 | Namco Vintage | 206782 | [206782-namco-vintage.json](./206782-namco-vintage.json) |
+| Namco: Featuring Ms. Pac-Man | 219417 | [219417-namco-featuring-ms-pac-man.json](./219417-namco-featuring-ms-pac-man.json) |
+| Namco: Featuring Pac-Man | 219416 | [219416-namco-featuring-pac-man.json](./219416-namco-featuring-pac-man.json) |
 | namCollection | 94721 | [94721-namcollection.json](./94721-namcollection.json) |
 | Namcot Collection | 133762 | [133762-namcot-collection.json](./133762-namcot-collection.json) |
 | Namcot Mahjong III: Mahjong Tengoku | 48813 | [48813-namcot-mahjong-iii-mahjong-tengoku.json](./48813-namcot-mahjong-iii-mahjong-tengoku.json) |
@@ -2504,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nether Dungeons | 323221 | [323221-nether-dungeons.json](./323221-nether-dungeons.json) |
 | Nether Earth | 38744 | [38744-nether-earth.json](./38744-nether-earth.json) |
 | Nether Gallery | 116111 | [116111-nether-gallery.json](./116111-nether-gallery.json) |
+| Nether Garden | 219397 | [219397-nether-garden.json](./219397-nether-garden.json) |
 | Nether Nightmare | 148843 | [148843-nether-nightmare.json](./148843-nether-nightmare.json) |
 | Nether Spirits: Beyond the Gate | 263769 | [263769-nether-spirits-beyond-the-gate.json](./263769-nether-spirits-beyond-the-gate.json) |
 | Nether: The Untold Chapter | 118029 | [118029-nether-the-untold-chapter.json](./118029-nether-the-untold-chapter.json) |
