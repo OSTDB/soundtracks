@@ -1955,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Button Games 5-in-1 Vol. 4 | 394464 | [394464-one-button-games-5-in-1-vol-4.json](./394464-one-button-games-5-in-1-vol-4.json) |
 | One Button Games 5-in-1 Vol. 6 | 400556 | [400556-one-button-games-5-in-1-vol-6.json](./400556-one-button-games-5-in-1-vol-6.json) |
 | One Button Games 5-in-1 Vol. 7 | 409803 | [409803-one-button-games-5-in-1-vol-7.json](./409803-one-button-games-5-in-1-vol-7.json) |
+| One Button Ninja Mayhem! | 184702 | [184702-one-button-ninja-mayhem.json](./184702-one-button-ninja-mayhem.json) |
 | One Button Nipple Golf | 176769 | [176769-one-button-nipple-golf.json](./176769-one-button-nipple-golf.json) |
 | One by One | 184631 | [184631-one-by-one.json](./184631-one-by-one.json) |
 | One by One | 379645 | [379645-one-by-one.json](./379645-one-by-one.json) |
@@ -3823,6 +3824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orphan Feast | 306962 | [306962-orphan-feast.json](./306962-orphan-feast.json) |
 | Orphan of the Petal | 113766 | [113766-orphan-of-the-petal.json](./113766-orphan-of-the-petal.json) |
 | Orphan's Treasure | 55733 | [55733-orphans-treasure.json](./55733-orphans-treasure.json) |
+| Orphanopoly | 184728 | [184728-orphanopoly.json](./184728-orphanopoly.json) |
 | Orphans | 239252 | [239252-orphans.json](./239252-orphans.json) |
 | Orphans | 280206 | [280206-orphans.json](./280206-orphans.json) |
 | Orphans Order | 174652 | [174652-orphans-order.json](./174652-orphans-order.json) |
