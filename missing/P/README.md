@@ -8142,6 +8142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Surf: The Last Wave | 158672 | [158672-planet-surf-the-last-wave.json](./158672-planet-surf-the-last-wave.json) |
 | Planet Surfer | 221145 | [221145-planet-surfer.json](./221145-planet-surfer.json) |
 | Planet TD | 195265 | [195265-planet-td.json](./195265-planet-td.json) |
+| Planet Theta | 211552 | [211552-planet-theta.json](./211552-planet-theta.json) |
 | Planet Tita | 164299 | [164299-planet-tita.json](./164299-planet-tita.json) |
 | Planet U | 220470 | [220470-planet-u.json](./220470-planet-u.json) |
 | Planet Unknown Runner | 102331 | [102331-planet-unknown-runner.json](./102331-planet-unknown-runner.json) |
@@ -14349,6 +14350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Jurit | 385581 | [385581-project-jurit.json](./385581-project-jurit.json) |
 | Project: Kate | 262436 | [262436-project-kate.json](./262436-project-kate.json) |
 | Project: Knight | 147763 | [147763-project-knight.json](./147763-project-knight.json) |
+| Project: Knight 2 Dusk of Souls | 211560 | [211560-project-knight-2-dusk-of-souls.json](./211560-project-knight-2-dusk-of-souls.json) |
 | Project: Longtail | 114707 | [114707-project-longtail.json](./114707-project-longtail.json) |
 | Project: Mania | 333562 | [333562-project-mania.json](./333562-project-mania.json) |
 | Project: Mirror | 233562 | [233562-project-mirror.json](./233562-project-mirror.json) |
