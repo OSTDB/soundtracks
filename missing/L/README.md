@@ -2312,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Rome: The Wrath of Mars | 199345 | [199345-legend-of-rome-the-wrath-of-mars.json](./199345-legend-of-rome-the-wrath-of-mars.json) |
 | Legend of Rune | 223858 | [223858-legend-of-rune.json](./223858-legend-of-rune.json) |
 | Legend of Saha | 347817 | [347817-legend-of-saha.json](./347817-legend-of-saha.json) |
+| Legend of Scheherazade: Golden Empire | 214886 | [214886-legend-of-scheherazade-golden-empire.json](./214886-legend-of-scheherazade-golden-empire.json) |
 | Legend of Serigel | 180648 | [180648-legend-of-serigel.json](./180648-legend-of-serigel.json) |
 | Legend of Shadow | 403147 | [403147-legend-of-shadow.json](./403147-legend-of-shadow.json) |
 | Legend of Silkroad | 23625 | [23625-legend-of-silkroad.json](./23625-legend-of-silkroad.json) |
