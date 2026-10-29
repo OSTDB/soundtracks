@@ -7031,6 +7031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explode on Contact | 148546 | [148546-explode-on-contact.json](./148546-explode-on-contact.json) |
 | Explodera | 388218 | [388218-explodera.json](./388218-explodera.json) |
 | Exploding Babies | 120165 | [120165-exploding-babies.json](./120165-exploding-babies.json) |
+| Exploding Fish | 183726 | [183726-exploding-fish.json](./183726-exploding-fish.json) |
 | Exploding Fist | 48584 | [48584-exploding-fist.json](./48584-exploding-fist.json) |
 | Exploding Fist + | 72382 | [72382-exploding-fist.json](./72382-exploding-fist.json) |
 | Exploding Judo Federation | 372240 | [372240-exploding-judo-federation.json](./372240-exploding-judo-federation.json) |
