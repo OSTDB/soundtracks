@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baba is You Xtreme | 209470 | [209470-baba-is-you-xtreme.json](./209470-baba-is-you-xtreme.json) |
 | Baba Is You: Baba Make Level | 334743 | [334743-baba-is-you-baba-make-level.json](./334743-baba-is-you-baba-make-level.json) |
 | Baba Is You: Jam Build | 383476 | [383476-baba-is-you-jam-build.json](./383476-baba-is-you-jam-build.json) |
+| Baba Yaga | 185857 | [185857-baba-yaga.json](./185857-baba-yaga.json) |
 | Baba Yaga | 297990 | [297990-baba-yaga.json](./297990-baba-yaga.json) |
 | Baba Yaga | 330347 | [330347-baba-yaga.json](./330347-baba-yaga.json) |
 | Baba Yaga | 367181 | [367181-baba-yaga.json](./367181-baba-yaga.json) |
@@ -226,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Kaizo World 2 | 328073 | [328073-baby-kaizo-world-2.json](./328073-baby-kaizo-world-2.json) |
 | Baby Killer | 117733 | [117733-baby-killer.json](./117733-baby-killer.json) |
 | Baby Kings | 373753 | [373753-baby-kings.json](./373753-baby-kings.json) |
+| Baby Labor | 185862 | [185862-baby-labor.json](./185862-baby-labor.json) |
 | Baby Lemonade | 387422 | [387422-baby-lemonade.json](./387422-baby-lemonade.json) |
 | Baby Life | 91752 | [91752-baby-life.json](./91752-baby-life.json) |
 | Baby Lite A Line | 100171 | [100171-baby-lite-a-line.json](./100171-baby-lite-a-line.json) |
@@ -850,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11756,6 +11759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bopimo! | 325696 | [325696-bopimo.json](./325696-bopimo.json) |
 | Bopp File | 309537 | [309537-bopp-file.json](./309537-bopp-file.json) |
 | Boppin' | 14333 | [14333-boppin.json](./14333-boppin.json) |
+| Bopping Drive | 185868 | [185868-bopping-drive.json](./185868-bopping-drive.json) |
 | Bopscotch | 60884 | [60884-bopscotch.json](./60884-bopscotch.json) |
 | BOPZ.io | 304751 | [304751-bopz-io.json](./304751-bopz-io.json) |
 | Bor Dungeon | 248005 | [248005-bor-dungeon.json](./248005-bor-dungeon.json) |
@@ -12249,6 +12253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Bob 2 | 125663 | [125663-bouncy-bob-2.json](./125663-bouncy-bob-2.json) |
 | Bouncy Brain | 388273 | [388273-bouncy-brain.json](./388273-bouncy-brain.json) |
 | Bouncy Bread | 338014 | [338014-bouncy-bread.json](./338014-bouncy-bread.json) |
+| Bouncy Bunnies | 185814 | [185814-bouncy-bunnies.json](./185814-bouncy-bunnies.json) |
 | Bouncy Butt Castle | 379345 | [379345-bouncy-butt-castle.json](./379345-bouncy-butt-castle.json) |
 | Bouncy Cars | 186178 | [186178-bouncy-cars.json](./186178-bouncy-cars.json) |
 | Bouncy Cat | 158169 | [158169-bouncy-cat.json](./158169-bouncy-cat.json) |
@@ -14326,6 +14331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Mario | 132862 | [132862-brutal-mario.json](./132862-brutal-mario.json) |
 | Brutal Minecraft Eternal | 198682 | [198682-brutal-minecraft-eternal.json](./198682-brutal-minecraft-eternal.json) |
 | Brutal MooD | 95589 | [95589-brutal-mood.json](./95589-brutal-mood.json) |
+| Brutal Orchestra | 185849 | [185849-brutal-orchestra.json](./185849-brutal-orchestra.json) |
 | Brutal Rage | 132657 | [132657-brutal-rage.json](./132657-brutal-rage.json) |
 | Brutal Runner | 81049 | [81049-brutal-runner.json](./81049-brutal-runner.json) |
 | Brutal Scales | 119704 | [119704-brutal-scales.json](./119704-brutal-scales.json) |
