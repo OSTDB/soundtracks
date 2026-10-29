@@ -3262,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirakira Stars Idol Project Ai | 129493 | [129493-kirakira-stars-idol-project-ai.json](./129493-kirakira-stars-idol-project-ai.json) |
 | Kirakira Stars Idol Project Ai | 151604 | [151604-kirakira-stars-idol-project-ai.json](./151604-kirakira-stars-idol-project-ai.json) |
 | Kirakira Stars Idol Project Reika | 153830 | [153830-kirakira-stars-idol-project-reika.json](./153830-kirakira-stars-idol-project-reika.json) |
+| Kirameki Paradise | 225372 | [225372-kirameki-paradise.json](./225372-kirameki-paradise.json) |
 | Kirari Nangoku Komugiiro: Shiofuki Paradise he Youkoso! | 194584 | [194584-kirari-nangoku-komugiiro-shiofuki-paradise-he-youkoso.json](./194584-kirari-nangoku-komugiiro-shiofuki-paradise-he-youkoso.json) |
 | Kirarin Dash | 206582 | [206582-kirarin-dash.json](./206582-kirarin-dash.json) |
 | Kirarin Revolution: Atsumete Change! Qurukira Coord | 70417 | [70417-kirarin-revolution-atsumete-change-qurukira-coord.json](./70417-kirarin-revolution-atsumete-change-qurukira-coord.json) |
@@ -5543,6 +5544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyub Crazy Colors | 265431 | [265431-kyub-crazy-colors.json](./265431-kyub-crazy-colors.json) |
 | Kyubu Kyubu Dice | 215336 | [215336-kyubu-kyubu-dice.json](./215336-kyubu-kyubu-dice.json) |
 | Kyuiin | 78524 | [78524-kyuiin.json](./78524-kyuiin.json) |
+| Kyukkyu-kun Game | 225347 | [225347-kyukkyu-kun-game.json](./225347-kyukkyu-kun-game.json) |
 | Kyukyoku TigerHeli: Toaplan Arcade Garage | 399782 | [399782-kyukyoku-tigerheli-toaplan-arcade-garage.json](./399782-kyukyoku-tigerheli-toaplan-arcade-garage.json) |
 | Kyumori Episode1 | 175985 | [175985-kyumori-episode1.json](./175985-kyumori-episode1.json) |
 | Kyun! | 184268 | [184268-kyun.json](./184268-kyun.json) |
