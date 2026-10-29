@@ -2542,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Air Wing | 38534 | [38534-carrier-air-wing.json](./38534-carrier-air-wing.json) |
 | Carrier Battles 4 Guadalcanal | 242201 | [242201-carrier-battles-4-guadalcanal.json](./242201-carrier-battles-4-guadalcanal.json) |
 | Carrier Battles 4 Guadalcanal: Advanced Fog of War in the Pacific | 170520 | [170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json](./170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json) |
+| Carrier Battles 4 Guadalcanal: Submarines & Torpedo Alley Scenario | 193592 | [193592-carrier-battles-4-guadalcanal-submarines-and-torpedo-alley-scenario.json](./193592-carrier-battles-4-guadalcanal-submarines-and-torpedo-alley-scenario.json) |
 | Carrier Battles WW2: Admiral of the Fleet | 171481 | [171481-carrier-battles-ww2-admiral-of-the-fleet.json](./171481-carrier-battles-ww2-admiral-of-the-fleet.json) |
 | Carrier Command | 11992 | [11992-carrier-command.json](./11992-carrier-command.json) |
 | Carrier Command 2 VR | 159147 | [159147-carrier-command-2-vr.json](./159147-carrier-command-2-vr.json) |
@@ -2927,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassiel | 276262 | [276262-cassiel.json](./276262-cassiel.json) |
 | Cassiodora | 193659 | [193659-cassiodora.json](./193659-cassiodora.json) |
 | Cassius | 172197 | [172197-cassius.json](./172197-cassius.json) |
+| Cast | 193630 | [193630-cast.json](./193630-cast.json) |
 | Cast 'n' Blast | 318564 | [318564-cast-n-blast.json](./318564-cast-n-blast.json) |
 | Cast Ashore | 152815 | [152815-cast-ashore.json](./152815-cast-ashore.json) |
 | Cast Away | 105242 | [105242-cast-away.json](./105242-cast-away.json) |
@@ -9115,6 +9117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockfall | 391888 | [391888-clockfall.json](./391888-clockfall.json) |
 | Clocking In to Fight a Lich in Another Realm | 347594 | [347594-clocking-in-to-fight-a-lich-in-another-realm.json](./347594-clocking-in-to-fight-a-lich-in-another-realm.json) |
 | Clocknockers | 190393 | [190393-clocknockers.json](./190393-clocknockers.json) |
+| Clocknockers 2 | 193088 | [193088-clocknockers-2.json](./193088-clocknockers-2.json) |
 | ClockOut | 296716 | [296716-clockout.json](./296716-clockout.json) |
 | Clocks | 41369 | [41369-clocks.json](./41369-clocks.json) |
 | Clockwatch | 315694 | [315694-clockwatch.json](./315694-clockwatch.json) |
@@ -13011,6 +13014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corruption: Political Simulator Strategy | 271476 | [271476-corruption-political-simulator-strategy.json](./271476-corruption-political-simulator-strategy.json) |
 | Corsair | 80501 | [80501-corsair.json](./80501-corsair.json) |
 | Corsair Cove | 398638 | [398638-corsair-cove.json](./398638-corsair-cove.json) |
+| Corsair's Madness | 193095 | [193095-corsairs-madness.json](./193095-corsairs-madness.json) |
 | Corsairs Gold | 50354 | [50354-corsairs-gold.json](./50354-corsairs-gold.json) |
 | Corsairs: Battle of the Caribbean | 252037 | [252037-corsairs-battle-of-the-caribbean.json](./252037-corsairs-battle-of-the-caribbean.json) |
 | Corsairs: Conquest at Sea | 10107 | [10107-corsairs-conquest-at-sea.json](./10107-corsairs-conquest-at-sea.json) |
@@ -13550,6 +13554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Varmint Hunter | 83236 | [83236-country-varmint-hunter.json](./83236-country-varmint-hunter.json) |
 | Country Vid Grid | 77565 | [77565-country-vid-grid.json](./77565-country-vid-grid.json) |
 | Countryball Football Online | 422142 | [422142-countryball-football-online.json](./422142-countryball-football-online.json) |
+| Countryball: Europe 1890 | 193590 | [193590-countryball-europe-1890.json](./193590-countryball-europe-1890.json) |
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
 | Countryballs Conquest | 363683 | [363683-countryballs-conquest.json](./363683-countryballs-conquest.json) |
 | Countryballs: Over the World | 83546 | [83546-countryballs-over-the-world.json](./83546-countryballs-over-the-world.json) |
@@ -16564,6 +16569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CuBB | 122142 | [122142-cubb.json](./122142-cubb.json) |
 | CubbetyCuby | 388735 | [388735-cubbetycuby.json](./388735-cubbetycuby.json) |
 | Cube | 154271 | [154271-cube.json](./154271-cube.json) |
+| Cube | 193595 | [193595-cube.json](./193595-cube.json) |
 | Cube | 208470 | [208470-cube.json](./208470-cube.json) |
 | Cube | 229157 | [229157-cube.json](./229157-cube.json) |
 | Cube | 249776 | [249776-cube.json](./249776-cube.json) |
