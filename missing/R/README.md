@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railbreak: Extra Cheese Collection | 284762 | [284762-railbreak-extra-cheese-collection.json](./284762-railbreak-extra-cheese-collection.json) |
 | Railbreak: Neon Carnage Collection | 331406 | [331406-railbreak-neon-carnage-collection.json](./331406-railbreak-neon-carnage-collection.json) |
 | Railbreak: The Big Break Collection | 284754 | [284754-railbreak-the-big-break-collection.json](./284754-railbreak-the-big-break-collection.json) |
+| RailCraft | 183731 | [183731-railcraft.json](./183731-railcraft.json) |
 | Raildale | 101002 | [101002-raildale.json](./101002-raildale.json) |
 | Railed | 112862 | [112862-railed.json](./112862-railed.json) |
 | Railed Up | 254780 | [254780-railed-up.json](./254780-railed-up.json) |
@@ -4206,6 +4207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reky | 122329 | [122329-reky.json](./122329-reky.json) |
 | Reky + Cyber Protocol | 231343 | [231343-reky-cyber-protocol.json](./231343-reky-cyber-protocol.json) |
 | Rela | 383454 | [383454-rela.json](./383454-rela.json) |
+| Relapse | 183746 | [183746-relapse.json](./183746-relapse.json) |
 | Relapse | 208585 | [208585-relapse.json](./208585-relapse.json) |
 | Relapse | 342849 | [342849-relapse.json](./342849-relapse.json) |
 | Relapse | 376100 | [376100-relapse.json](./376100-relapse.json) |
@@ -4596,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repair37 | 362223 | [362223-repair37.json](./362223-repair37.json) |
 | RepairBot | 114403 | [114403-repairbot.json](./114403-repairbot.json) |
 | Repairny | 204073 | [204073-repairny.json](./204073-repairny.json) |
+| Reparathor | 183722 | [183722-reparathor.json](./183722-reparathor.json) |
 | Reparative | 177376 | [177376-reparative.json](./177376-reparative.json) |
 | Repartiendo Máscaras por Carratraca | 388511 | [388511-repartiendo-mascaras-por-carratraca.json](./388511-repartiendo-mascaras-por-carratraca.json) |
 | Repeat After Death | 327162 | [327162-repeat-after-death.json](./327162-repeat-after-death.json) |
