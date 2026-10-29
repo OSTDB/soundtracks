@@ -1178,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Business Tycoon: Build Simulator | 197933 | [197933-idle-business-tycoon-build-simulator.json](./197933-idle-business-tycoon-build-simulator.json) |
 | Idle Business Tycoon: Build Simulator - Expansion Pack 1 | 201445 | [201445-idle-business-tycoon-build-simulator-expansion-pack-1.json](./201445-idle-business-tycoon-build-simulator-expansion-pack-1.json) |
 | Idle Business Tycoon: Build Simulator - Expansion Pack 2 | 201523 | [201523-idle-business-tycoon-build-simulator-expansion-pack-2.json](./201523-idle-business-tycoon-build-simulator-expansion-pack-2.json) |
+| Idle Business Tycoon: Build Simulator - Expansion Pack 3 | 201438 | [201438-idle-business-tycoon-build-simulator-expansion-pack-3.json](./201438-idle-business-tycoon-build-simulator-expansion-pack-3.json) |
 | Idle Calibur | 234870 | [234870-idle-calibur.json](./234870-idle-calibur.json) |
 | Idle Calibur: Zero | 385905 | [385905-idle-calibur-zero.json](./385905-idle-calibur-zero.json) |
 | Idle Campaign | 210851 | [210851-idle-campaign.json](./210851-idle-campaign.json) |
@@ -1624,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If I Still Had Tomorrow | 417422 | [417422-if-i-still-had-tomorrow.json](./417422-if-i-still-had-tomorrow.json) |
 | If I Were in a Sealed Room With a Girl, I'd Probably XXX | 93530 | [93530-if-i-were-in-a-sealed-room-with-a-girl-id-probably-xxx.json](./93530-if-i-were-in-a-sealed-room-with-a-girl-id-probably-xxx.json) |
 | If It Moves, Shoot It! | 71589 | [71589-if-it-moves-shoot-it.json](./71589-if-it-moves-shoot-it.json) |
+| If it's for My Client, I'd Even Schedule a Demon Lord | 201442 | [201442-if-its-for-my-client-id-even-schedule-a-demon-lord.json](./201442-if-its-for-my-client-id-even-schedule-a-demon-lord.json) |
 | If Letters Had Pants, Would They Wear Them Like This? What About Numbers? What If They Had Small Shovels and They Dug Stuff Up to Put in a Museum? | 342925 | [342925-if-letters-had-pants-would-they-wear-them-like-this-what-about-numbers-what-if-they-had-small-shovels-and-they-dug-stuff-up-to-put-in-a-museum.json](./342925-if-letters-had-pants-would-they-wear-them-like-this-what-about-numbers-what-if-they-had-small-shovels-and-they-dug-stuff-up-to-put-in-a-museum.json) |
 | If Monks Had Macs... | 366833 | [366833-if-monks-had-macs.json](./366833-if-monks-had-macs.json) |
 | If My Heart Had Wings | 196874 | [196874-if-my-heart-had-wings.json](./196874-if-my-heart-had-wings.json) |
@@ -3028,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industrial Legion | 398570 | [398570-industrial-legion.json](./398570-industrial-legion.json) |
 | Industrial Petting | 113736 | [113736-industrial-petting.json](./113736-industrial-petting.json) |
 | Industrial Spy: Operation Espionage | 45851 | [45851-industrial-spy-operation-espionage.json](./45851-industrial-spy-operation-espionage.json) |
+| Industrial Trouble | 199745 | [199745-industrial-trouble.json](./199745-industrial-trouble.json) |
 | Industrial War | 241515 | [241515-industrial-war.json](./241515-industrial-war.json) |
 | Industriality | 190159 | [190159-industriality.json](./190159-industriality.json) |
 | Industring | 303577 | [303577-industring.json](./303577-industring.json) |
