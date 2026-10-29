@@ -9287,6 +9287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo Addiction Solitaire HD | 354987 | [354987-pogo-addiction-solitaire-hd.json](./354987-pogo-addiction-solitaire-hd.json) |
 | Pogo Arc | 271695 | [271695-pogo-arc.json](./271695-pogo-arc.json) |
 | Pogo Bowl | 209351 | [209351-pogo-bowl.json](./209351-pogo-bowl.json) |
+| Pogo Bunny | 209287 | [209287-pogo-bunny.json](./209287-pogo-bunny.json) |
 | Pogo Chick | 240876 | [240876-pogo-chick.json](./240876-pogo-chick.json) |
 | Pogo Daily Sudoku | 354988 | [354988-pogo-daily-sudoku.json](./354988-pogo-daily-sudoku.json) |
 | Pogo Epoch: Impossible 99% | 329177 | [329177-pogo-epoch-impossible-99.json](./329177-pogo-epoch-impossible-99.json) |
@@ -11323,6 +11324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porg Wars | 102841 | [102841-porg-wars.json](./102841-porg-wars.json) |
 | Porgy | 318416 | [318416-porgy.json](./318416-porgy.json) |
 | Pork Barrel | 318164 | [318164-pork-barrel.json](./318164-pork-barrel.json) |
+| Porkchop's Adventure | 209281 | [209281-porkchops-adventure.json](./209281-porkchops-adventure.json) |
 | Porkchop's Horror Show | 237438 | [237438-porkchops-horror-show.json](./237438-porkchops-horror-show.json) |
 | Porkérion | 246584 | [246584-porkerion.json](./246584-porkerion.json) |
 | Porkérion 2 | 246586 | [246586-porkerion-2.json](./246586-porkerion-2.json) |
