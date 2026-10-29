@@ -6573,6 +6573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Person | 173213 | [173213-flappy-person.json](./173213-flappy-person.json) |
 | Flappy Pink Bird | 87075 | [87075-flappy-pink-bird.json](./87075-flappy-pink-bird.json) |
 | Flappy Pixel! | 249308 | [249308-flappy-pixel.json](./249308-flappy-pixel.json) |
+| Flappy Planes | 183743 | [183743-flappy-planes.json](./183743-flappy-planes.json) |
 | Flappy Puffy | 385965 | [385965-flappy-puffy.json](./385965-flappy-puffy.json) |
 | Flappy Putin: Hardbass Gopnik | 202094 | [202094-flappy-putin-hardbass-gopnik.json](./202094-flappy-putin-hardbass-gopnik.json) |
 | Flappy Royale | 130743 | [130743-flappy-royale.json](./130743-flappy-royale.json) |
