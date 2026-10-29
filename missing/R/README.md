@@ -4387,6 +4387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RememPair | 349304 | [349304-remempair.json](./349304-remempair.json) |
 | RememPair: Anime Avatars | 350863 | [350863-remempair-anime-avatars.json](./350863-remempair-anime-avatars.json) |
 | Remi | 388700 | [388700-remi.json](./388700-remi.json) |
+| Remie and Alana | 182027 | [182027-remie-and-alana.json](./182027-remie-and-alana.json) |
 | RemiFla Spirits | 204778 | [204778-remifla-spirits.json](./204778-remifla-spirits.json) |
 | RemiFla Spirits 2 | 213957 | [213957-remifla-spirits-2.json](./213957-remifla-spirits-2.json) |
 | Remilia's Challenge | 369571 | [369571-remilias-challenge.json](./369571-remilias-challenge.json) |
@@ -4854,6 +4855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescued | 337545 | [337545-rescued.json](./337545-rescued.json) |
 | Rescuer | 163181 | [163181-rescuer.json](./163181-rescuer.json) |
 | Rescues | 202027 | [202027-rescues.json](./202027-rescues.json) |
+| Rescuing Ralph | 182043 | [182043-rescuing-ralph.json](./182043-rescuing-ralph.json) |
 | Research and Destroy | 154274 | [154274-research-and-destroy.json](./154274-research-and-destroy.json) |
 | Research and Development | 182643 | [182643-research-and-development.json](./182643-research-and-development.json) |
 | Research Station | 273140 | [273140-research-station.json](./273140-research-station.json) |
@@ -9613,6 +9615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rookie Bowman | 165758 | [165758-rookie-bowman.json](./165758-rookie-bowman.json) |
 | Rookie Boxing | 319776 | [319776-rookie-boxing.json](./319776-rookie-boxing.json) |
 | Rookie Guard and the Queen | 280259 | [280259-rookie-guard-and-the-queen.json](./280259-rookie-guard-and-the-queen.json) |
+| Rookie Hero | 182045 | [182045-rookie-hero.json](./182045-rookie-hero.json) |
 | Rookie Math Pro | 102205 | [102205-rookie-math-pro.json](./102205-rookie-math-pro.json) |
 | Rookie Rook | 425439 | [425439-rookie-rook.json](./425439-rookie-rook.json) |
 | Rookie Table Tennis | 328445 | [328445-rookie-table-tennis.json](./328445-rookie-table-tennis.json) |
@@ -10729,6 +10732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Hockey | 137866 | [137866-rumble-hockey.json](./137866-rumble-hockey.json) |
 | Rumble League | 126042 | [126042-rumble-league.json](./126042-rumble-league.json) |
 | Rumble Racing | 43280 | [43280-rumble-racing.json](./43280-rumble-racing.json) |
+| Rumble Road | 182026 | [182026-rumble-road.json](./182026-rumble-road.json) |
 | Rumble Road | 58666 | [58666-rumble-road.json](./58666-rumble-road.json) |
 | Rumble Roses XX | 7167 | [7167-rumble-roses-xx.json](./7167-rumble-roses-xx.json) |
 | Rumble Runners | 152458 | [152458-rumble-runners.json](./152458-rumble-runners.json) |
