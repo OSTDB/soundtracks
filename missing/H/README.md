@@ -3243,6 +3243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Hogur | 54079 | [54079-heavy-hogur.json](./54079-heavy-hogur.json) |
 | Heavy Impact | 30485 | [30485-heavy-impact.json](./30485-heavy-impact.json) |
 | Heavy Industries | 176199 | [176199-heavy-industries.json](./176199-heavy-industries.json) |
+| Heavy Karate from Hell | 180402 | [180402-heavy-karate-from-hell.json](./180402-heavy-karate-from-hell.json) |
 | Heavy Lies the Crown | 223240 | [223240-heavy-lies-the-crown.json](./223240-heavy-lies-the-crown.json) |
 | Heavy Machinery vs. Shumai | 409528 | [409528-heavy-machinery-vs-shumai.json](./409528-heavy-machinery-vs-shumai.json) |
 | Heavy Machines & Construction | 266261 | [266261-heavy-machines-and-construction.json](./266261-heavy-machines-and-construction.json) |
@@ -4994,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herbtales | 207279 | [207279-herbtales.json](./207279-herbtales.json) |
 | Herc's Adventures | 318269 | [318269-hercs-adventures.json](./318269-hercs-adventures.json) |
 | Hercequary | 56922 | [56922-hercequary.json](./56922-hercequary.json) |
+| Hercules | 180416 | [180416-hercules.json](./180416-hercules.json) |
 | Hercules | 382856 | [382856-hercules.json](./382856-hercules.json) |
 | Hercules | 95425 | [95425-hercules.json](./95425-hercules.json) |
 | Hercules Prophet 2 MX | 24160 | [24160-hercules-prophet-2-mx.json](./24160-hercules-prophet-2-mx.json) |
@@ -5318,6 +5320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes against Demons | 139981 | [139981-heroes-against-demons.json](./139981-heroes-against-demons.json) |
 | Heroes Against Time | 342012 | [342012-heroes-against-time.json](./342012-heroes-against-time.json) |
 | Heroes and Forsaken: The Official Wheel of Time Digital Card Game | 362304 | [362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json](./362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json) |
+| Heroes and Monsters | 180403 | [180403-heroes-and-monsters.json](./180403-heroes-and-monsters.json) |
 | Heroes and Monsters II | 382848 | [382848-heroes-and-monsters-ii.json](./382848-heroes-and-monsters-ii.json) |
 | Heroes and Test of Succubus | 294165 | [294165-heroes-and-test-of-succubus.json](./294165-heroes-and-test-of-succubus.json) |
 | Heroes and Titans: Online | 286432 | [286432-heroes-and-titans-online.json](./286432-heroes-and-titans-online.json) |
