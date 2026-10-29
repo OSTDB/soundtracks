@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamborghini: American Challenge | 380116 | [380116-lamborghini-american-challenge.json](./380116-lamborghini-american-challenge.json) |
 | Lambs on the Road: The Beginning | 152352 | [152352-lambs-on-the-road-the-beginning.json](./152352-lambs-on-the-road-the-beginning.json) |
 | Lamecraft | 254333 | [254333-lamecraft.json](./254333-lamecraft.json) |
+| Lament of Kyoto: Origins | 223267 | [223267-lament-of-kyoto-origins.json](./223267-lament-of-kyoto-origins.json) |
 | Lament of the Yuppie | 226340 | [226340-lament-of-the-yuppie.json](./226340-lament-of-the-yuppie.json) |
 | Lamentations | 318699 | [318699-lamentations.json](./318699-lamentations.json) |
 | Laments of a Platinum Rose | 384199 | [384199-laments-of-a-platinum-rose.json](./384199-laments-of-a-platinum-rose.json) |
@@ -1673,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LazerBlazer: Type B - Engage | 271256 | [271256-lazerblazer-type-b-engage.json](./271256-lazerblazer-type-b-engage.json) |
 | LazerBlazer: Type C - Confront | 271257 | [271257-lazerblazer-type-c-confront.json](./271257-lazerblazer-type-c-confront.json) |
 | LazerGrrl | 112202 | [112202-lazergrrl.json](./112202-lazergrrl.json) |
+| Lazerhawk | 223266 | [223266-lazerhawk.json](./223266-lazerhawk.json) |
 | Lazers Hurt | 278260 | [278260-lazers-hurt.json](./278260-lazers-hurt.json) |
 | Lazersilk | 172465 | [172465-lazersilk.json](./172465-lazersilk.json) |
 | LazerType VR | 57440 | [57440-lazertype-vr.json](./57440-lazertype-vr.json) |
