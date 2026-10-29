@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Arena: Voicebound | 366214 | [366214-mage-arena-voicebound.json](./366214-mage-arena-voicebound.json) |
 | Mage Ball | 232942 | [232942-mage-ball.json](./232942-mage-ball.json) |
 | Mage Battle Arena | 370436 | [370436-mage-battle-arena.json](./370436-mage-battle-arena.json) |
+| Mage Bros. | 210408 | [210408-mage-bros.json](./210408-mage-bros.json) |
 | Mage Craft | 130897 | [130897-mage-craft.json](./130897-mage-craft.json) |
 | Mage Fight | 420484 | [420484-mage-fight.json](./420484-mage-fight.json) |
 | Mage Food Truck | 345801 | [345801-mage-food-truck.json](./345801-mage-food-truck.json) |
@@ -4723,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mat Hoffman's Pro BMX | 249166 | [249166-mat-hoffmans-pro-bmx.json](./249166-mat-hoffmans-pro-bmx.json) |
 | Mat Hoffman's Pro BMX | 249167 | [249167-mat-hoffmans-pro-bmx.json](./249167-mat-hoffmans-pro-bmx.json) |
 | Mat Hoffman's Pro BMX | 3994 | [3994-mat-hoffmans-pro-bmx.json](./3994-mat-hoffmans-pro-bmx.json) |
+| Mat Hoffman's Pro BMX 2 | 210429 | [210429-mat-hoffmans-pro-bmx-2.json](./210429-mat-hoffmans-pro-bmx-2.json) |
 | Mat Hoffman's Pro BMX 2 | 3993 | [3993-mat-hoffmans-pro-bmx-2.json](./3993-mat-hoffmans-pro-bmx-2.json) |
 | Mat Mania Challenge | 12333 | [12333-mat-mania-challenge.json](./12333-mat-mania-challenge.json) |
 | Mata Hari | 27853 | [27853-mata-hari.json](./27853-mata-hari.json) |
@@ -12389,6 +12391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miyuki the Shoubushi | 67375 | [67375-miyuki-the-shoubushi.json](./67375-miyuki-the-shoubushi.json) |
 | Mizari Loves Company | 385056 | [385056-mizari-loves-company.json](./385056-mizari-loves-company.json) |
 | Mizbak's Adventure | 37653 | [37653-mizbaks-adventure.json](./37653-mizbaks-adventure.json) |
+| Mizen Tantei: The Protea Cases | 210401 | [210401-mizen-tantei-the-protea-cases.json](./210401-mizen-tantei-the-protea-cases.json) |
 | Mizeria | 262823 | [262823-mizeria.json](./262823-mizeria.json) |
 | Mizi No!: Blank Slate | 327108 | [327108-mizi-no-blank-slate.json](./327108-mizi-no-blank-slate.json) |
 | Mizi No!: Everyday Objects | 327106 | [327106-mizi-no-everyday-objects.json](./327106-mizi-no-everyday-objects.json) |
@@ -14793,6 +14796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morbidity: 2 | 271758 | [271758-morbidity-2.json](./271758-morbidity-2.json) |
 | Morbius Heardle | 203829 | [203829-morbius-heardle.json](./203829-morbius-heardle.json) |
 | Morbius: The Utopia Conspiracy | 90226 | [90226-morbius-the-utopia-conspiracy.json](./90226-morbius-the-utopia-conspiracy.json) |
+| Morbsweeper | 210368 | [210368-morbsweeper.json](./210368-morbsweeper.json) |
 | Morbus | 382593 | [382593-morbus.json](./382593-morbus.json) |
 | Mordath | 236143 | [236143-mordath.json](./236143-mordath.json) |
 | Mordecai Saw Game | 385050 | [385050-mordecai-saw-game.json](./385050-mordecai-saw-game.json) |
@@ -16838,6 +16842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muramasa Rebirth: Blessing of Amitabha Collector's Edition | 89921 | [89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json](./89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json) |
 | Muramasa: Revenant Blades | 405445 | [405445-muramasa-revenant-blades.json](./405445-muramasa-revenant-blades.json) |
 | Muramasa: The Demon Blade | 2266 | [2266-muramasa-the-demon-blade.json](./2266-muramasa-the-demon-blade.json) |
+| Murasa no Block Puzzle | 210419 | [210419-murasa-no-block-puzzle.json](./210419-murasa-no-block-puzzle.json) |
 | Murasaki | 34678 | [34678-murasaki.json](./34678-murasaki.json) |
 | Murasaki Baby | 19926 | [19926-murasaki-baby.json](./19926-murasaki-baby.json) |
 | Murasaki Baby | 23228 | [23228-murasaki-baby.json](./23228-murasaki-baby.json) |
@@ -17637,6 +17642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Company and I Fell Into an RPG | 132217 | [132217-my-company-and-i-fell-into-an-rpg.json](./132217-my-company-and-i-fell-into-an-rpg.json) |
 | My Confounding Cat is Criminally Cute! | 284911 | [284911-my-confounding-cat-is-criminally-cute.json](./284911-my-confounding-cat-is-criminally-cute.json) |
 | My Cool Diner | 200150 | [200150-my-cool-diner.json](./200150-my-cool-diner.json) |
+| My Cosmic Sweetheart | 210370 | [210370-my-cosmic-sweetheart.json](./210370-my-cosmic-sweetheart.json) |
 | My Cousin the Rogue | 160062 | [160062-my-cousin-the-rogue.json](./160062-my-cousin-the-rogue.json) |
 | My Coworker is an Idiot | 223241 | [223241-my-coworker-is-an-idiot.json](./223241-my-coworker-is-an-idiot.json) |
 | My Coworkers Are Made Of Static | 401490 | [401490-my-coworkers-are-made-of-static.json](./401490-my-coworkers-are-made-of-static.json) |
@@ -17885,6 +17891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Garbage Cat Wakes Me Up At 3AM Every Day | 128556 | [128556-my-garbage-cat-wakes-me-up-at-3am-every-day.json](./128556-my-garbage-cat-wakes-me-up-at-3am-every-day.json) |
 | My Garden | 139119 | [139119-my-garden.json](./139119-my-garden.json) |
 | My GF Doesn't Know What I'm Into | 225805 | [225805-my-gf-doesnt-know-what-im-into.json](./225805-my-gf-doesnt-know-what-im-into.json) |
+| My Ghost Girlfriend | 210372 | [210372-my-ghost-girlfriend.json](./210372-my-ghost-girlfriend.json) |
 | My Ghost Pet Is Zhong Kui | 309362 | [309362-my-ghost-pet-is-zhong-kui.json](./309362-my-ghost-pet-is-zhong-kui.json) |
 | My Ghost Roommate | 397281 | [397281-my-ghost-roommate.json](./397281-my-ghost-roommate.json) |
 | My Giant Friend | 220677 | [220677-my-giant-friend.json](./220677-my-giant-friend.json) |
