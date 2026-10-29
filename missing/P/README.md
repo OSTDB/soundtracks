@@ -4771,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Whispers | 291257 | [291257-phantom-whispers.json](./291257-phantom-whispers.json) |
 | Phantom Xcape | 304702 | [304702-phantom-xcape.json](./304702-phantom-xcape.json) |
 | Phantom Zone Daimons | 236831 | [236831-phantom-zone-daimons.json](./236831-phantom-zone-daimons.json) |
+| Phantom Zone: Cryptophasia | 188813 | [188813-phantom-zone-cryptophasia.json](./188813-phantom-zone-cryptophasia.json) |
 | Phantom Zone: Talon Fictions | 210897 | [210897-phantom-zone-talon-fictions.json](./210897-phantom-zone-talon-fictions.json) |
 | Phantom-OS | 243534 | [243534-phantom-os.json](./243534-phantom-os.json) |
 | Phantom: Covert Ops | 118872 | [118872-phantom-covert-ops.json](./118872-phantom-covert-ops.json) |
@@ -14812,6 +14813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Provincies | 68728 | [68728-provincies.json](./68728-provincies.json) |
 | Proving Grounds | 235431 | [235431-proving-grounds.json](./235431-proving-grounds.json) |
 | Provisional Authority: An AI Governance Simulation | 401258 | [401258-provisional-authority-an-ai-governance-simulation.json](./401258-provisional-authority-an-ai-governance-simulation.json) |
+| Provisional Detective | 188796 | [188796-provisional-detective.json](./188796-provisional-detective.json) |
 | Provoron | 258977 | [258977-provoron.json](./258977-provoron.json) |
 | Prowler | 55085 | [55085-prowler.json](./55085-prowler.json) |
 | Proxball | 125852 | [125852-proxball.json](./125852-proxball.json) |
