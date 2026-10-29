@@ -8208,6 +8208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Empires | 139379 | [139379-merge-empires.json](./139379-merge-empires.json) |
 | Merge ETO | 274553 | [274553-merge-eto.json](./274553-merge-eto.json) |
 | Merge Fellas | 281409 | [281409-merge-fellas.json](./281409-merge-fellas.json) |
+| Merge Fighting: Hit Fight Game | 216039 | [216039-merge-fighting-hit-fight-game.json](./216039-merge-fighting-hit-fight-game.json) |
 | Merge Friends | 299405 | [299405-merge-friends.json](./299405-merge-friends.json) |
 | Merge Games Adventure Bundle | 275044 | [275044-merge-games-adventure-bundle.json](./275044-merge-games-adventure-bundle.json) |
 | Merge Games Adventure Bundle 2 | 274897 | [274897-merge-games-adventure-bundle-2.json](./274897-merge-games-adventure-bundle-2.json) |
@@ -8220,6 +8221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Gardens | 227368 | [227368-merge-gardens.json](./227368-merge-gardens.json) |
 | Merge Gems! | 97154 | [97154-merge-gems.json](./97154-merge-gems.json) |
 | Merge Girls | 212490 | [212490-merge-girls.json](./212490-merge-girls.json) |
+| Merge Grabber | 216040 | [216040-merge-grabber.json](./216040-merge-grabber.json) |
 | Merge Hamster | 326860 | [326860-merge-hamster.json](./326860-merge-hamster.json) |
 | Merge Hexa Puzzle | 348742 | [348742-merge-hexa-puzzle.json](./348742-merge-hexa-puzzle.json) |
 | Merge Hidden | 409720 | [409720-merge-hidden.json](./409720-merge-hidden.json) |
@@ -12779,6 +12781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Command | 227510 | [227510-modern-command.json](./227510-modern-command.json) |
 | Modern Conflict | 98835 | [98835-modern-conflict.json](./98835-modern-conflict.json) |
 | Modern Conflict 2 | 89713 | [89713-modern-conflict-2.json](./89713-modern-conflict-2.json) |
+| Modern Critical Warfare: Action Offline Games 2018 | 216041 | [216041-modern-critical-warfare-action-offline-games-2018.json](./216041-modern-critical-warfare-action-offline-games-2018.json) |
 | Modern Defense HD | 294682 | [294682-modern-defense-hd.json](./294682-modern-defense-hd.json) |
 | Modern Fairway 4: Spec Ops in the Rough | 130029 | [130029-modern-fairway-4-spec-ops-in-the-rough.json](./130029-modern-fairway-4-spec-ops-in-the-rough.json) |
 | Modern Fantasy: Urban Legends | 212157 | [212157-modern-fantasy-urban-legends.json](./212157-modern-fantasy-urban-legends.json) |
@@ -13122,6 +13125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momma Can I Mow the Lawn? | 72602 | [72602-momma-can-i-mow-the-lawn.json](./72602-momma-can-i-mow-the-lawn.json) |
 | Mommy | 128268 | [128268-mommy.json](./128268-mommy.json) |
 | Mommy Don't Hurt Me Mommy Don't Hurt Me Mommy Don't Hurt Me | 398327 | [398327-mommy-dont-hurt-me-mommy-dont-hurt-me-mommy-dont-hurt-me.json](./398327-mommy-dont-hurt-me-mommy-dont-hurt-me-mommy-dont-hurt-me.json) |
+| Mommy Maze | 216042 | [216042-mommy-maze.json](./216042-mommy-maze.json) |
 | Mommy-Goddess of Unconditional Love ~Wow, You Sure Gave It Your All Out There!~ | 353289 | [353289-mommy-goddess-of-unconditional-love-wow-you-sure-gave-it-your-all-out-there.json](./353289-mommy-goddess-of-unconditional-love-wow-you-sure-gave-it-your-all-out-there.json) |
 | Mommy's Warm Hot Spring: Poka-poka Mama Koi Onsen | 289203 | [289203-mommys-warm-hot-spring-poka-poka-mama-koi-onsen.json](./289203-mommys-warm-hot-spring-poka-poka-mama-koi-onsen.json) |
 | Momo and the Mine | 255512 | [255512-momo-and-the-mine.json](./255512-momo-and-the-mine.json) |
@@ -13912,6 +13916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Lab Simulator | 368377 | [368377-monster-lab-simulator.json](./368377-monster-lab-simulator.json) |
 | Monster Lair | 42019 | [42019-monster-lair.json](./42019-monster-lair.json) |
 | Monster Land | 84186 | [84186-monster-land.json](./84186-monster-land.json) |
+| Monster land: Builder | 216043 | [216043-monster-land-builder.json](./216043-monster-land-builder.json) |
 | Monster League | 110497 | [110497-monster-league.json](./110497-monster-league.json) |
 | Monster Legacy | 20066 | [20066-monster-legacy.json](./20066-monster-legacy.json) |
 | Monster Legacy: Cozy Puzzle Crossing | 356528 | [356528-monster-legacy-cozy-puzzle-crossing.json](./356528-monster-legacy-cozy-puzzle-crossing.json) |
@@ -17742,6 +17747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Eyes Deceive | 274399 | [274399-my-eyes-deceive.json](./274399-my-eyes-deceive.json) |
 | My Eyes Inside Out | 400280 | [400280-my-eyes-inside-out.json](./400280-my-eyes-inside-out.json) |
 | My Eyes on You | 57694 | [57694-my-eyes-on-you.json](./57694-my-eyes-on-you.json) |
+| My Factory: Boss Life | 216044 | [216044-my-factory-boss-life.json](./216044-my-factory-boss-life.json) |
 | My Fair Cat: Snow | 298649 | [298649-my-fair-cat-snow.json](./298649-my-fair-cat-snow.json) |
 | My Fair Link: Yousei Byakuya Monogatari | 416555 | [416555-my-fair-link-yousei-byakuya-monogatari.json](./416555-my-fair-link-yousei-byakuya-monogatari.json) |
 | My Fairy Girlfriend | 231424 | [231424-my-fairy-girlfriend.json](./231424-my-fairy-girlfriend.json) |
@@ -18299,6 +18305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Parkour | 405430 | [405430-my-parkour.json](./405430-my-parkour.json) |
 | My Party Needs an Alchemist | 315036 | [315036-my-party-needs-an-alchemist.json](./315036-my-party-needs-an-alchemist.json) |
 | My Peephole: Hotel Harborview | 372670 | [372670-my-peephole-hotel-harborview.json](./372670-my-peephole-hotel-harborview.json) |
+| My Perfect Hotel | 216047 | [216047-my-perfect-hotel.json](./216047-my-perfect-hotel.json) |
 | My Perfect Nails | 412237 | [412237-my-perfect-nails.json](./412237-my-perfect-nails.json) |
 | My Personal Angel | 41872 | [41872-my-personal-angel.json](./41872-my-personal-angel.json) |
 | My Personal Golf Trainer | 41869 | [41869-my-personal-golf-trainer.json](./41869-my-personal-golf-trainer.json) |
@@ -18712,6 +18719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mylo uronil | 110143 | [110143-mylo-uronil.json](./110143-mylo-uronil.json) |
 | MyMan | 93150 | [93150-myman.json](./93150-myman.json) |
 | MyMustache | 289279 | [289279-mymustache.json](./289279-mymustache.json) |
+| MyMyMoba | 216046 | [216046-mymymoba.json](./216046-mymymoba.json) |
 | Mymyry | 106890 | [106890-mymyry.json](./106890-mymyry.json) |
 | MyNBA2K16 | 79975 | [79975-mynba2k16.json](./79975-mynba2k16.json) |
 | myNotebook: Tan | 91868 | [91868-mynotebook-tan.json](./91868-mynotebook-tan.json) |
