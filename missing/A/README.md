@@ -8053,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Battle: Rome | 54802 | [54802-ancient-battle-rome.json](./54802-ancient-battle-rome.json) |
 | Ancient Battle: The Aztecs | 326753 | [326753-ancient-battle-the-aztecs.json](./326753-ancient-battle-the-aztecs.json) |
 | Ancient Beast | 132866 | [132866-ancient-beast.json](./132866-ancient-beast.json) |
+| Ancient Board Game Collection | 199201 | [199201-ancient-board-game-collection.json](./199201-ancient-board-game-collection.json) |
 | Ancient Charm | 130069 | [130069-ancient-charm.json](./130069-ancient-charm.json) |
 | Ancient Cities | 79134 | [79134-ancient-cities.json](./79134-ancient-cities.json) |
 | Ancient Code VR | 59867 | [59867-ancient-code-vr.json](./59867-ancient-code-vr.json) |
@@ -9874,6 +9875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Any World | 192794 | [192794-any-world.json](./192794-any-world.json) |
 | Any.One Online | 209772 | [209772-any-one-online.json](./209772-any-one-online.json) |
 | Anya's Dodgeball Challenge | 222652 | [222652-anyas-dodgeball-challenge.json](./222652-anyas-dodgeball-challenge.json) |
+| Anyaroth: The Queen's Tyranny | 199225 | [199225-anyaroth-the-queens-tyranny.json](./199225-anyaroth-the-queens-tyranny.json) |
 | AnyCircuit | 385289 | [385289-anycircuit.json](./385289-anycircuit.json) |
 | Anyek | 154313 | [154313-anyek.json](./154313-anyek.json) |
 | Anykey | 89671 | [89671-anykey.json](./89671-anykey.json) |
@@ -10187,6 +10189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalyptic Adventure: Episode 1 | 193148 | [193148-apocalyptic-adventure-episode-1.json](./193148-apocalyptic-adventure-episode-1.json) |
 | Apocalyptic Cars War | 334830 | [334830-apocalyptic-cars-war.json](./334830-apocalyptic-cars-war.json) |
 | Apocalyptic cat | 303893 | [303893-apocalyptic-cat.json](./303893-apocalyptic-cat.json) |
+| Apocalyptic Dream | 199221 | [199221-apocalyptic-dream.json](./199221-apocalyptic-dream.json) |
 | Apocalyptic Pussy | 367291 | [367291-apocalyptic-pussy.json](./367291-apocalyptic-pussy.json) |
 | Apocalyptic Shadows | 303334 | [303334-apocalyptic-shadows.json](./303334-apocalyptic-shadows.json) |
 | Apocalyptic Slant | 192754 | [192754-apocalyptic-slant.json](./192754-apocalyptic-slant.json) |
@@ -12237,6 +12240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed and Gorgeous HD | 22335 | [22335-armed-and-gorgeous-hd.json](./22335-armed-and-gorgeous-hd.json) |
 | Armed Animals RPG | 365060 | [365060-armed-animals-rpg.json](./365060-armed-animals-rpg.json) |
 | Armed Decobot | 317372 | [317372-armed-decobot.json](./317372-armed-decobot.json) |
+| Armed Dragon Fantasy Villgust | 199202 | [199202-armed-dragon-fantasy-villgust.json](./199202-armed-dragon-fantasy-villgust.json) |
 | Armed Fantasia: To the End of the Wilderness | 214992 | [214992-armed-fantasia-to-the-end-of-the-wilderness.json](./214992-armed-fantasia-to-the-end-of-the-wilderness.json) |
 | Armed Fighter | 43818 | [43818-armed-fighter.json](./43818-armed-fighter.json) |
 | Armed for Battle | 118849 | [118849-armed-for-battle.json](./118849-armed-for-battle.json) |
