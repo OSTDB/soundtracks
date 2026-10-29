@@ -2216,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeaSaga | 180392 | [180392-geasaga.json](./180392-geasaga.json) |
 | Geballer | 203635 | [203635-geballer.json](./203635-geballer.json) |
 | Gebinden | 387616 | [387616-gebinden.json](./387616-gebinden.json) |
+| Gebo | 178196 | [178196-gebo.json](./178196-gebo.json) |
 | Gebub's Adventure | 31869 | [31869-gebubs-adventure.json](./31869-gebubs-adventure.json) |
 | Gecko Blaster | 43256 | [43256-gecko-blaster.json](./43256-gecko-blaster.json) |
 | Gecko Shuffle | 402846 | [402846-gecko-shuffle.json](./402846-gecko-shuffle.json) |
@@ -2811,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensou no Avatar | 388225 | [388225-gensou-no-avatar.json](./388225-gensou-no-avatar.json) |
 | Gensou no Idea: Oratorio Phantasm Historia | 137081 | [137081-gensou-no-idea-oratorio-phantasm-historia.json](./137081-gensou-no-idea-oratorio-phantasm-historia.json) |
 | Gensou Rouman Kikou: Phantasmagoria Trues | 321482 | [321482-gensou-rouman-kikou-phantasmagoria-trues.json](./321482-gensou-rouman-kikou-phantasmagoria-trues.json) |
+| Gensou Shoujo Taisen | 178187 | [178187-gensou-shoujo-taisen.json](./178187-gensou-shoujo-taisen.json) |
 | Gensou Skydrift | 125591 | [125591-gensou-skydrift.json](./125591-gensou-skydrift.json) |
 | Gensou Tairiku Aurelia | 79293 | [79293-gensou-tairiku-aurelia.json](./79293-gensou-tairiku-aurelia.json) |
 | Gensou Tansaku Nitroid! | 204379 | [204379-gensou-tansaku-nitroid.json](./204379-gensou-tansaku-nitroid.json) |
@@ -3564,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostlight Melancholia | 201082 | [201082-ghostlight-melancholia.json](./201082-ghostlight-melancholia.json) |
 | Ghostlop | 40126 | [40126-ghostlop.json](./40126-ghostlop.json) |
 | Ghostlop (Limited release) | 75470 | [75470-ghostlop-limited-release.json](./75470-ghostlop-limited-release.json) |
+| Ghostlore | 178204 | [178204-ghostlore.json](./178204-ghostlore.json) |
 | Ghostly Acres | 373302 | [373302-ghostly-acres.json](./373302-ghostly-acres.json) |
 | Ghostly Desires | 73856 | [73856-ghostly-desires.json](./73856-ghostly-desires.json) |
 | Ghostly Garden | 146853 | [146853-ghostly-garden.json](./146853-ghostly-garden.json) |
@@ -6089,6 +6092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goo Game | 202016 | [202016-goo-game.json](./202016-goo-game.json) |
 | Goo Gladiators | 211914 | [211914-goo-gladiators.json](./211914-goo-gladiators.json) |
 | Goo Go | 304380 | [304380-goo-go.json](./304380-goo-go.json) |
+| Goo Goo | 177177 | [177177-goo-goo.json](./177177-goo-goo.json) |
 | Goo Goo Grapplers | 349717 | [349717-goo-goo-grapplers.json](./349717-goo-goo-grapplers.json) |
 | Goo Hunter | 333128 | [333128-goo-hunter.json](./333128-goo-hunter.json) |
 | Goo Keeper | 216617 | [216617-goo-keeper.json](./216617-goo-keeper.json) |
@@ -8389,6 +8393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gripless: Drift Valley | 386885 | [386885-gripless-drift-valley.json](./386885-gripless-drift-valley.json) |
 | Gripper | 130776 | [130776-gripper.json](./130776-gripper.json) |
 | Gripper's Adventure | 89272 | [89272-grippers-adventure.json](./89272-grippers-adventure.json) |
+| Grippy | 177179 | [177179-grippy.json](./177179-grippy.json) |
 | Grippy | 378389 | [378389-grippy.json](./378389-grippy.json) |
 | Gripshot | 340401 | [340401-gripshot.json](./340401-gripshot.json) |
 | Griptape Backbone | 29755 | [29755-griptape-backbone.json](./29755-griptape-backbone.json) |
