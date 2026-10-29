@@ -13886,6 +13886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Aegis | 297423 | [297423-astro-aegis.json](./297423-astro-aegis.json) |
 | Astro Aqua Kitty | 145655 | [145655-astro-aqua-kitty.json](./145655-astro-aqua-kitty.json) |
 | Astro Aqua Kitty: Limited Edition | 147771 | [147771-astro-aqua-kitty-limited-edition.json](./147771-astro-aqua-kitty-limited-edition.json) |
+| Astro Aqua Kitty: Pawsome Collection | 216589 | [216589-astro-aqua-kitty-pawsome-collection.json](./216589-astro-aqua-kitty-pawsome-collection.json) |
 | Astro Arena | 338169 | [338169-astro-arena.json](./338169-astro-arena.json) |
 | Astro Arena | 408493 | [408493-astro-arena.json](./408493-astro-arena.json) |
 | Astro Assembler | 71506 | [71506-astro-assembler.json](./71506-astro-assembler.json) |
@@ -14260,6 +14261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari 4 Player Football | 250338 | [250338-atari-4-player-football.json](./250338-atari-4-player-football.json) |
 | Atari 50: Expanded Edition DLC Bundle | 328986 | [328986-atari-50-expanded-edition-dlc-bundle.json](./328986-atari-50-expanded-edition-dlc-bundle.json) |
 | Atari 50: The Anniversary Celebration - Digital Expanded Edition | 317917 | [317917-atari-50-the-anniversary-celebration-digital-expanded-edition.json](./317917-atari-50-the-anniversary-celebration-digital-expanded-edition.json) |
+| Atari 50: The Anniversary Celebration - Steelbook Edition | 216582 | [216582-atari-50-the-anniversary-celebration-steelbook-edition.json](./216582-atari-50-the-anniversary-celebration-steelbook-edition.json) |
 | Atari 50: The First Console War | 317961 | [317961-atari-50-the-first-console-war.json](./317961-atari-50-the-first-console-war.json) |
 | Atari 50: The Namco Legendary Pack | 356570 | [356570-atari-50-the-namco-legendary-pack.json](./356570-atari-50-the-namco-legendary-pack.json) |
 | Atari 50: The Wider World of Atari | 317814 | [317814-atari-50-the-wider-world-of-atari.json](./317814-atari-50-the-wider-world-of-atari.json) |
