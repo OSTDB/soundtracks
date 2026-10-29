@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Up Above: Gold Label Edition | 311462 | [311462-paradise-up-above-gold-label-edition.json](./311462-paradise-up-above-gold-label-edition.json) |
 | Paradise XRPL | 321549 | [321549-paradise-xrpl.json](./321549-paradise-xrpl.json) |
 | Paradise: Musubi | 384712 | [384712-paradise-musubi.json](./384712-paradise-musubi.json) |
+| Paradise: Waifu Dream | 208155 | [208155-paradise-waifu-dream.json](./208155-paradise-waifu-dream.json) |
 | Paradiso Guardian | 145500 | [145500-paradiso-guardian.json](./145500-paradiso-guardian.json) |
 | Paradiso Series Bundle | 289204 | [289204-paradiso-series-bundle.json](./289204-paradiso-series-bundle.json) |
 | ParaDive++ | 401812 | [401812-paradive.json](./401812-paradive.json) |
@@ -5540,6 +5541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig Commander | 391028 | [391028-pig-commander.json](./391028-pig-commander.json) |
 | Pig Escape | 185003 | [185003-pig-escape.json](./185003-pig-escape.json) |
 | Pig Escape | 336453 | [336453-pig-escape.json](./336453-pig-escape.json) |
+| Pig Farm Mix | 208154 | [208154-pig-farm-mix.json](./208154-pig-farm-mix.json) |
 | Pig King | 407443 | [407443-pig-king.json](./407443-pig-king.json) |
 | Pig Knight | 332619 | [332619-pig-knight.json](./332619-pig-knight.json) |
 | Pig Newton | 40403 | [40403-pig-newton.json](./40403-pig-newton.json) |
@@ -7145,6 +7147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Machines | 197724 | [197724-pixel-machines.json](./197724-pixel-machines.json) |
 | Pixel Madness | 175111 | [175111-pixel-madness.json](./175111-pixel-madness.json) |
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
+| Pixel Mage Survival | 208153 | [208153-pixel-mage-survival.json](./208153-pixel-mage-survival.json) |
 | Pixel Manager: Football 2021 | 256230 | [256230-pixel-manager-football-2021.json](./256230-pixel-manager-football-2021.json) |
 | Pixel Maze | 109353 | [109353-pixel-maze.json](./109353-pixel-maze.json) |
 | Pixel Miner | 333639 | [333639-pixel-miner.json](./333639-pixel-miner.json) |
@@ -9038,6 +9041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Cooking | 282417 | [282417-pocket-cooking.json](./282417-pocket-cooking.json) |
 | Pocket Cowboy | 175437 | [175437-pocket-cowboy.json](./175437-pocket-cowboy.json) |
 | Pocket Cowboys | 235255 | [235255-pocket-cowboys.json](./235255-pocket-cowboys.json) |
+| Pocket Cowboys: Wild West Standoff | 208152 | [208152-pocket-cowboys-wild-west-standoff.json](./208152-pocket-cowboys-wild-west-standoff.json) |
 | Pocket Creature PVP | 399480 | [399480-pocket-creature-pvp.json](./399480-pocket-creature-pvp.json) |
 | Pocket Crystal League | 202258 | [202258-pocket-crystal-league.json](./202258-pocket-crystal-league.json) |
 | Pocket Cuisine | 277504 | [277504-pocket-cuisine.json](./277504-pocket-cuisine.json) |
@@ -11952,6 +11956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Dino Thunder | 243195 | [243195-power-rangers-dino-thunder.json](./243195-power-rangers-dino-thunder.json) |
 | Power Rangers: Force in Time | 220104 | [220104-power-rangers-force-in-time.json](./220104-power-rangers-force-in-time.json) |
 | Power Rangers: Lightspeed Rescue | 248766 | [248766-power-rangers-lightspeed-rescue.json](./248766-power-rangers-lightspeed-rescue.json) |
+| Power Rangers: Morphin Legends | 208151 | [208151-power-rangers-morphin-legends.json](./208151-power-rangers-morphin-legends.json) |
 | Power Rangers: Mystic Force | 330744 | [330744-power-rangers-mystic-force.json](./330744-power-rangers-mystic-force.json) |
 | Power Rangers: Ninja Storm | 284965 | [284965-power-rangers-ninja-storm.json](./284965-power-rangers-ninja-storm.json) |
 | Power Rangers: Ninja Storm | 3291 | [3291-power-rangers-ninja-storm.json](./3291-power-rangers-ninja-storm.json) |
@@ -11992,6 +11997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Supplied | 76496 | [76496-power-supplied.json](./76496-power-supplied.json) |
 | Power Surge | 40399 | [40399-power-surge.json](./40399-power-surge.json) |
 | Power Tennis | 43198 | [43198-power-tennis.json](./43198-power-tennis.json) |
+| Power the Ark | 208138 | [208138-power-the-ark.json](./208138-power-the-ark.json) |
 | Power the Future | 369353 | [369353-power-the-future.json](./369353-power-the-future.json) |
 | Power The Light | 254064 | [254064-power-the-light.json](./254064-power-the-light.json) |
 | Power to Play: The Game | 255082 | [255082-power-to-play-the-game.json](./255082-power-to-play-the-game.json) |
@@ -12642,6 +12648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primitive Race | 97228 | [97228-primitive-race.json](./97228-primitive-race.json) |
 | Primitive Road | 30659 | [30659-primitive-road.json](./30659-primitive-road.json) |
 | Primitive Shooter | 84075 | [84075-primitive-shooter.json](./84075-primitive-shooter.json) |
+| Primitive Simulator | 208139 | [208139-primitive-simulator.json](./208139-primitive-simulator.json) |
 | Primitive Society Simulator | 256642 | [256642-primitive-society-simulator.json](./256642-primitive-society-simulator.json) |
 | Primitive Survival | 105361 | [105361-primitive-survival.json](./105361-primitive-survival.json) |
 | Primitive Survival | 343602 | [343602-primitive-survival.json](./343602-primitive-survival.json) |
@@ -14387,6 +14394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: SnowBound | 341444 | [341444-project-snowbound.json](./341444-project-snowbound.json) |
 | Project: Space Station | 26242 | [26242-project-space-station.json](./26242-project-space-station.json) |
 | Project: Special Forces | 163864 | [163864-project-special-forces.json](./163864-project-special-forces.json) |
+| Project: Spread | 208140 | [208140-project-spread.json](./208140-project-spread.json) |
 | Project: Starfighter | 62147 | [62147-project-starfighter.json](./62147-project-starfighter.json) |
 | Project: Station | 380434 | [380434-project-station.json](./380434-project-station.json) |
 | Project: Stellar Girls | 337827 | [337827-project-stellar-girls.json](./337827-project-stellar-girls.json) |
@@ -15887,6 +15895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Battle | 214337 | [214337-puzzle-and-battle.json](./214337-puzzle-and-battle.json) |
 | Puzzle & Chess | 156558 | [156558-puzzle-and-chess.json](./156558-puzzle-and-chess.json) |
 | Puzzle & Dragons | 8590 | [8590-puzzle-and-dragons.json](./8590-puzzle-and-dragons.json) |
+| Puzzle & Dragons Battle | 208145 | [208145-puzzle-and-dragons-battle.json](./208145-puzzle-and-dragons-battle.json) |
 | Puzzle & Dragons Nintendo Switch Edition | 191724 | [191724-puzzle-and-dragons-nintendo-switch-edition.json](./191724-puzzle-and-dragons-nintendo-switch-edition.json) |
 | Puzzle & Dragons Story | 279762 | [279762-puzzle-and-dragons-story.json](./279762-puzzle-and-dragons-story.json) |
 | Puzzle & Dragons X: Dragon Chapter | 125345 | [125345-puzzle-and-dragons-x-dragon-chapter.json](./125345-puzzle-and-dragons-x-dragon-chapter.json) |
