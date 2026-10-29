@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcotics Police: Black and White | 90625 | [90625-narcotics-police-black-and-white.json](./90625-narcotics-police-black-and-white.json) |
 | Narcotics Police: Crime And Punish | 254648 | [254648-narcotics-police-crime-and-punish.json](./254648-narcotics-police-crime-and-punish.json) |
 | Nareko The Mineral Appraiser | 403920 | [403920-nareko-the-mineral-appraiser.json](./403920-nareko-the-mineral-appraiser.json) |
+| Nargul: Humans are among us | 192553 | [192553-nargul-humans-are-among-us.json](./192553-nargul-humans-are-among-us.json) |
 | Naribikimura | 311114 | [311114-naribikimura.json](./311114-naribikimura.json) |
 | Narinig Mo Ba? | 416098 | [416098-narinig-mo-ba.json](./416098-narinig-mo-ba.json) |
 | Narisokonai Eiyuuden: Taiyou to Tsuki no Monogatari | 67878 | [67878-narisokonai-eiyuuden-taiyou-to-tsuki-no-monogatari.json](./67878-narisokonai-eiyuuden-taiyou-to-tsuki-no-monogatari.json) |
