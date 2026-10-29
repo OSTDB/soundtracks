@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.A. Noire: The Naked City | 117306 | [117306-l-a-noire-the-naked-city.json](./117306-l-a-noire-the-naked-city.json) |
 | L.A. Rush | 5899 | [5899-l-a-rush.json](./5899-l-a-rush.json) |
 | L.A.2 | 135900 | [135900-l-a-2.json](./135900-l-a-2.json) |
+| L.A.P.D. 2195 | 197004 | [197004-l-a-p-d-2195.json](./197004-l-a-p-d-2195.json) |
 | L.A.W. | 91855 | [91855-l-a-w.json](./91855-l-a-w.json) |
 | L.C.D. Bowling | 346111 | [346111-l-c-d-bowling.json](./346111-l-c-d-bowling.json) |
 | L.E.M. | 269166 | [269166-l-e-m.json](./269166-l-e-m.json) |
@@ -731,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Ryuu | 211586 | [211586-lands-of-ryuu.json](./211586-lands-of-ryuu.json) |
 | Lands of Sorcery | 148819 | [148819-lands-of-sorcery.json](./148819-lands-of-sorcery.json) |
 | Lands of the Lost | 102962 | [102962-lands-of-the-lost.json](./102962-lands-of-the-lost.json) |
+| Lands of Vodria | 196987 | [196987-lands-of-vodria.json](./196987-lands-of-vodria.json) |
 | Lands of Xon | 220594 | [220594-lands-of-xon.json](./220594-lands-of-xon.json) |
 | Lands of Yocta | 181212 | [181212-lands-of-yocta.json](./181212-lands-of-yocta.json) |
 | LandScape | 396571 | [396571-landscape.json](./396571-landscape.json) |
@@ -6289,6 +6291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone McLonegan : A Western Adventure | 153926 | [153926-lone-mclonegan-a-western-adventure.json](./153926-lone-mclonegan-a-western-adventure.json) |
 | Lone Pine | 373641 | [373641-lone-pine.json](./373641-lone-pine.json) |
 | Lone Pirate VR | 38794 | [38794-lone-pirate-vr.json](./38794-lone-pirate-vr.json) |
+| Lone Planet | 196956 | [196956-lone-planet.json](./196956-lone-planet.json) |
 | Lone Ruin | 204013 | [204013-lone-ruin.json](./204013-lone-ruin.json) |
 | Lone Samurai. | 100666 | [100666-lone-samurai.json](./100666-lone-samurai.json) |
 | Lone Shadow | 370997 | [370997-lone-shadow.json](./370997-lone-shadow.json) |
@@ -6469,6 +6472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look Inside: Chapter 2 | 199438 | [199438-look-inside-chapter-2.json](./199438-look-inside-chapter-2.json) |
 | Look Mum No Computer | 335837 | [335837-look-mum-no-computer.json](./335837-look-mum-no-computer.json) |
 | Look Outside: Final Vision | 384618 | [384618-look-outside-final-vision.json](./384618-look-outside-final-vision.json) |
+| Look over the Edge | 198017 | [198017-look-over-the-edge.json](./198017-look-over-the-edge.json) |
 | Look to the Birds | 414434 | [414434-look-to-the-birds.json](./414434-look-to-the-birds.json) |
 | Look Twice | 417974 | [417974-look-twice.json](./417974-look-twice.json) |
 | Look_in_Dark | 304061 | [304061-look-in-dark.json](./304061-look-in-dark.json) |
