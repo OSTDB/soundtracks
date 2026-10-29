@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail: Digital Deluxe Edition | 221782 | [221782-fairy-tail-digital-deluxe-edition.json](./221782-fairy-tail-digital-deluxe-edition.json) |
 | Fairy Tail: Dragon Slayers | 58582 | [58582-fairy-tail-dragon-slayers.json](./58582-fairy-tail-dragon-slayers.json) |
 | Fairy Tail: Dungeons | 313123 | [313123-fairy-tail-dungeons.json](./313123-fairy-tail-dungeons.json) |
+| Fairy Tail: Endless Adventure | 194141 | [194141-fairy-tail-endless-adventure.json](./194141-fairy-tail-endless-adventure.json) |
 | Fairy Tail: Fierce Fight | 349254 | [349254-fairy-tail-fierce-fight.json](./349254-fairy-tail-fierce-fight.json) |
 | Fairy Tail: Forces Unite! | 193970 | [193970-fairy-tail-forces-unite.json](./193970-fairy-tail-forces-unite.json) |
 | Fairy Tail: Guild Masters | 193873 | [193873-fairy-tail-guild-masters.json](./193873-fairy-tail-guild-masters.json) |
@@ -1531,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fan Fun | 30553 | [30553-fan-fun.json](./30553-fan-fun.json) |
 | Fan Fun | 307647 | [307647-fan-fun.json](./307647-fan-fun.json) |
 | Fan Fun 3D | 99985 | [99985-fan-fun-3d.json](./99985-fan-fun-3d.json) |
+| Fan of Guns | 194122 | [194122-fan-of-guns.json](./194122-fan-of-guns.json) |
 | Fan Pop Rhythm Stage: Aim for the Heart | 279137 | [279137-fan-pop-rhythm-stage-aim-for-the-heart.json](./279137-fan-pop-rhythm-stage-aim-for-the-heart.json) |
 | Fan Tas Tic | 91441 | [91441-fan-tas-tic.json](./91441-fan-tas-tic.json) |
 | Fan Zhuan 21 Ke | 277316 | [277316-fan-zhuan-21-ke.json](./277316-fan-zhuan-21-ke.json) |
