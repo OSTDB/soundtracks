@@ -4160,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Eater | 215642 | [215642-light-eater.json](./215642-light-eater.json) |
 | Light Em Up!: Escape from Transylvania | 184690 | [184690-light-em-up-escape-from-transylvania.json](./184690-light-em-up-escape-from-transylvania.json) |
 | Light Engine | 333973 | [333973-light-engine.json](./333973-light-engine.json) |
+| Light Fairytale: Episode 1 | 182066 | [182066-light-fairytale-episode-1.json](./182066-light-fairytale-episode-1.json) |
 | Light Fairytale: Episode 2 | 127638 | [127638-light-fairytale-episode-2.json](./127638-light-fairytale-episode-2.json) |
 | Light Fairytale: Episode 3 | 224825 | [224825-light-fairytale-episode-3.json](./224825-light-fairytale-episode-3.json) |
 | Light Fall | 36620 | [36620-light-fall.json](./36620-light-fall.json) |
@@ -4411,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lihue | 163210 | [163210-lihue.json](./163210-lihue.json) |
 | Liight | 85249 | [85249-liight.json](./85249-liight.json) |
 | Liitmeis | 94036 | [94036-liitmeis.json](./94036-liitmeis.json) |
+| Lije | 182047 | [182047-lije.json](./182047-lije.json) |
 | Like a Boss | 19079 | [19079-like-a-boss.json](./19079-like-a-boss.json) |
 | Like A Dino! | 212495 | [212495-like-a-dino.json](./212495-like-a-dino.json) |
 | Like a Dragon Gaiden: The Man Who Erased His Name | 217624 | [217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json](./217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json) |
