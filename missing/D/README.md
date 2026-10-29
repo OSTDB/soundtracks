@@ -4965,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defendin' De Penguin | 51034 | [51034-defendin-de-penguin.json](./51034-defendin-de-penguin.json) |
 | Defending Earth | 235172 | [235172-defending-earth.json](./235172-defending-earth.json) |
 | Defending Frontiers | 127203 | [127203-defending-frontiers.json](./127203-defending-frontiers.json) |
+| Defending Lydia Collier | 224826 | [224826-defending-lydia-collier.json](./224826-defending-lydia-collier.json) |
 | Defending Territory | 119549 | [119549-defending-territory.json](./119549-defending-territory.json) |
 | Defendo | 305437 | [305437-defendo.json](./305437-defendo.json) |
 | Defendo | 305438 | [305438-defendo.json](./305438-defendo.json) |
@@ -10476,6 +10477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolls' Domain | 305888 | [305888-dolls-domain.json](./305888-dolls-domain.json) |
 | Dollshouse | 381939 | [381939-dollshouse.json](./381939-dollshouse.json) |
 | Dolly | 133894 | [133894-dolly.json](./133894-dolly.json) |
+| Dolly Wars: Auto Tactics | 224829 | [224829-dolly-wars-auto-tactics.json](./224829-dolly-wars-auto-tactics.json) |
 | Dolmen | 40102 | [40102-dolmen.json](./40102-dolmen.json) |
 | Dolmen | 75304 | [75304-dolmen.json](./75304-dolmen.json) |
 | Dolmen: Day One Edition | 191499 | [191499-dolmen-day-one-edition.json](./191499-dolmen-day-one-edition.json) |
