@@ -8905,6 +8905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clifford the Big Red Dog: Thinking Adventures | 70775 | [70775-clifford-the-big-red-dog-thinking-adventures.json](./70775-clifford-the-big-red-dog-thinking-adventures.json) |
 | Clifford: Ready-to-Read | 230359 | [230359-clifford-ready-to-read.json](./230359-clifford-ready-to-read.json) |
 | Cliffs of War: Fortress Defenders | 34606 | [34606-cliffs-of-war-fortress-defenders.json](./34606-cliffs-of-war-fortress-defenders.json) |
+| Cliffsides | 217128 | [217128-cliffsides.json](./217128-cliffsides.json) |
 | Cliffstone Manor | 68472 | [68472-cliffstone-manor.json](./68472-cliffstone-manor.json) |
 | Clifftop Games Bundle I Kathy Rain: Director's Cut + Whispers of a Machine | 226788 | [226788-clifftop-games-bundle-i-kathy-rain-directors-cut-whispers-of-a-machine.json](./226788-clifftop-games-bundle-i-kathy-rain-directors-cut-whispers-of-a-machine.json) |
 | Clik Flip | 194964 | [194964-clik-flip.json](./194964-clik-flip.json) |
@@ -10732,6 +10733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colors -Break Bricks- | 62009 | [62009-colors-break-bricks.json](./62009-colors-break-bricks.json) |
 | Colors 3D | 47652 | [47652-colors-3d.json](./47652-colors-3d.json) |
 | Colors and their Meanings | 274519 | [274519-colors-and-their-meanings.json](./274519-colors-and-their-meanings.json) |
+| Colors Assemble | 217137 | [217137-colors-assemble.json](./217137-colors-assemble.json) |
 | Colors of the Past | 338879 | [338879-colors-of-the-past.json](./338879-colors-of-the-past.json) |
 | Colors of War | 66583 | [66583-colors-of-war.json](./66583-colors-of-war.json) |
 | Colors of Your World | 182988 | [182988-colors-of-your-world.json](./182988-colors-of-your-world.json) |
@@ -15011,6 +15013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
 | CrimeCraft: GangWars | 15005 | [15005-crimecraft-gangwars.json](./15005-crimecraft-gangwars.json) |
 | CrimeCrew | 23977 | [23977-crimecrew.json](./23977-crimecrew.json) |
+| Crimerunner | 217146 | [217146-crimerunner.json](./217146-crimerunner.json) |
 | Crimes Against Slimes | 322649 | [322649-crimes-against-slimes.json](./322649-crimes-against-slimes.json) |
 | Crimes of Passion | 313795 | [313795-crimes-of-passion.json](./313795-crimes-of-passion.json) |
 | Crimes of Passion 3 | 323994 | [323994-crimes-of-passion-3.json](./323994-crimes-of-passion-3.json) |
@@ -17043,6 +17046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse in our heads | 103452 | [103452-curse-in-our-heads.json](./103452-curse-in-our-heads.json) |
 | Curse Lsland | 157925 | [157925-curse-lsland.json](./157925-curse-lsland.json) |
 | Curse of Anabelle | 122826 | [122826-curse-of-anabelle.json](./122826-curse-of-anabelle.json) |
+| Curse of Argion | 217115 | [217115-curse-of-argion.json](./217115-curse-of-argion.json) |
 | Curse of Atlantis: Thorgal's Quest | 23696 | [23696-curse-of-atlantis-thorgals-quest.json](./23696-curse-of-atlantis-thorgals-quest.json) |
 | Curse of Blood | 258377 | [258377-curse-of-blood.json](./258377-curse-of-blood.json) |
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
