@@ -845,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2656,7 +2657,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball: Breakthrough Gaming Arcade - 2 Player Cooperation Edition | 207058 | [207058-baseball-breakthrough-gaming-arcade-2-player-cooperation-edition.json](./207058-baseball-breakthrough-gaming-arcade-2-player-cooperation-edition.json) |
 | Baseball: Breakthrough Gaming Arcade - 2 Player Cooperation Edition: Challenge Mode | 207060 | [207060-baseball-breakthrough-gaming-arcade-2-player-cooperation-edition-challenge-mode.json](./207060-baseball-breakthrough-gaming-arcade-2-player-cooperation-edition-challenge-mode.json) |
 | Baseball: Breakthrough Gaming Arcade - 3 Player Cooperation Edition | 207056 | [207056-baseball-breakthrough-gaming-arcade-3-player-cooperation-edition.json](./207056-baseball-breakthrough-gaming-arcade-3-player-cooperation-edition.json) |
+| Baseball: Breakthrough Gaming Arcade - 3 Player Cooperation Edition: Challenge Mode | 207062 | [207062-baseball-breakthrough-gaming-arcade-3-player-cooperation-edition-challenge-mode.json](./207062-baseball-breakthrough-gaming-arcade-3-player-cooperation-edition-challenge-mode.json) |
 | Baseball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 207054 | [207054-baseball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./207054-baseball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
+| Baseball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition: Challenge Mode | 207064 | [207064-baseball-breakthrough-gaming-arcade-4-player-cooperation-edition-challenge-mode.json](./207064-baseball-breakthrough-gaming-arcade-4-player-cooperation-edition-challenge-mode.json) |
 | Baseball: Breakthrough Gaming Arcade - Challenge Mode Edition | 207047 | [207047-baseball-breakthrough-gaming-arcade-challenge-mode-edition.json](./207047-baseball-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Baseball: The Season II | 40267 | [40267-baseball-the-season-ii.json](./40267-baseball-the-season-ii.json) |
 | Baseball! | 92903 | [92903-baseball.json](./92903-baseball.json) |
@@ -8100,6 +8103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Somnia | 146643 | [146643-black-somnia.json](./146643-black-somnia.json) |
 | Black Souls | 349235 | [349235-black-souls.json](./349235-black-souls.json) |
 | Black Souls II | 361391 | [361391-black-souls-ii.json](./361391-black-souls-ii.json) |
+| Black Spire | 207102 | [207102-black-spire.json](./207102-black-spire.json) |
 | Black Spire | 380005 | [380005-black-spire.json](./380005-black-spire.json) |
 | Black Spot | 193880 | [193880-black-spot.json](./193880-black-spot.json) |
 | Black Square | 335204 | [335204-black-square.json](./335204-black-square.json) |
