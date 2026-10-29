@@ -7320,6 +7320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biotomata | 381685 | [381685-biotomata.json](./381685-biotomata.json) |
 | Biotopia | 258039 | [258039-biotopia.json](./258039-biotopia.json) |
 | Biotoxin | 271184 | [271184-biotoxin.json](./271184-biotoxin.json) |
+| Biotronic | 203015 | [203015-biotronic.json](./203015-biotronic.json) |
 | Biotype | 403643 | [403643-biotype.json](./403643-biotype.json) |
 | Biovoid | 384042 | [384042-biovoid.json](./384042-biovoid.json) |
 | Bioweaver | 318281 | [318281-bioweaver.json](./318281-bioweaver.json) |
