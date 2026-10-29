@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cāngyè | 108390 | [108390-cangye.json](./108390-cangye.json) |
 | Canidae | 336517 | [336517-canidae.json](./336517-canidae.json) |
 | Canine | 239130 | [239130-canine.json](./239130-canine.json) |
+| Canine Cravings | 185263 | [185263-canine-cravings.json](./185263-canine-cravings.json) |
 | Canine Derby Manager | 402491 | [402491-canine-derby-manager.json](./402491-canine-derby-manager.json) |
 | Canis Major | 208659 | [208659-canis-major.json](./208659-canis-major.json) |
 | Canis Major Alpha | 316660 | [316660-canis-major-alpha.json](./316660-canis-major-alpha.json) |
@@ -8764,6 +8765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClayTown Horror | 217403 | [217403-claytown-horror.json](./217403-claytown-horror.json) |
 | Clayverse | 274903 | [274903-clayverse.json](./274903-clayverse.json) |
 | Clea | 112617 | [112617-clea.json](./112617-clea.json) |
+| Clean Adventure | 185273 | [185273-clean-adventure.json](./185273-clean-adventure.json) |
 | Clean and Bridge | 233425 | [233425-clean-and-bridge.json](./233425-clean-and-bridge.json) |
 | Clean Asia! | 92811 | [92811-clean-asia.json](./92811-clean-asia.json) |
 | Clean Attack! | 135025 | [135025-clean-attack.json](./135025-clean-attack.json) |
@@ -9941,6 +9943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Break | 261180 | [261180-coffee-break.json](./261180-coffee-break.json) |
 | Coffee Break | 326214 | [326214-coffee-break.json](./326214-coffee-break.json) |
 | Coffee Break | 71743 | [71743-coffee-break.json](./71743-coffee-break.json) |
+| Coffee Break Mazes | 185259 | [185259-coffee-break-mazes.json](./185259-coffee-break-mazes.json) |
 | Coffee Break: A Sip Away from Doom | 213577 | [213577-coffee-break-a-sip-away-from-doom.json](./213577-coffee-break-a-sip-away-from-doom.json) |
 | Coffee Break: Head to Head | 207277 | [207277-coffee-break-head-to-head.json](./207277-coffee-break-head-to-head.json) |
 | Coffee Buns | 281377 | [281377-coffee-buns.json](./281377-coffee-buns.json) |
@@ -12313,6 +12316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contractors Showdown | 253177 | [253177-contractors-showdown.json](./253177-contractors-showdown.json) |
 | Contractors Showdown: ExfilZone | 354338 | [354338-contractors-showdown-exfilzone.json](./354338-contractors-showdown-exfilzone.json) |
 | Contractors VR | 111625 | [111625-contractors-vr.json](./111625-contractors-vr.json) |
+| Contractually Bound | 185250 | [185250-contractually-bound.json](./185250-contractually-bound.json) |
 | ContractVille | 285577 | [285577-contractville.json](./285577-contractville.json) |
 | ContractVille: Japanese Furniture Pack | 383464 | [383464-contractville-japanese-furniture-pack.json](./383464-contractville-japanese-furniture-pack.json) |
 | ContractVille: Medieval Furniture Pack | 383465 | [383465-contractville-medieval-furniture-pack.json](./383465-contractville-medieval-furniture-pack.json) |
@@ -16186,6 +16190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryohazard | 219151 | [219151-cryohazard.json](./219151-cryohazard.json) |
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
 | Cryoloop | 141809 | [141809-cryoloop.json](./141809-cryoloop.json) |
+| Cryomancer | 185266 | [185266-cryomancer.json](./185266-cryomancer.json) |
 | CryoNation | 278166 | [278166-cryonation.json](./278166-cryonation.json) |
 | Cryonauts | 185945 | [185945-cryonauts.json](./185945-cryonauts.json) |
 | Cryorise | 378609 | [378609-cryorise.json](./378609-cryorise.json) |
@@ -16879,6 +16884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubicBan | 218565 | [218565-cubicban.json](./218565-cubicban.json) |
 | Cubicle Farter | 296863 | [296863-cubicle-farter.json](./296863-cubicle-farter.json) |
 | Cubicle Quest | 35762 | [35762-cubicle-quest.json](./35762-cubicle-quest.json) |
+| Cubicle Simulator | 185296 | [185296-cubicle-simulator.json](./185296-cubicle-simulator.json) |
 | Cubico | 120787 | [120787-cubico.json](./120787-cubico.json) |
 | Cubicolor | 282717 | [282717-cubicolor.json](./282717-cubicolor.json) |
 | Cubicolor | 33430 | [33430-cubicolor.json](./33430-cubicolor.json) |
