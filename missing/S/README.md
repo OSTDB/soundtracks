@@ -13617,6 +13617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snug | 375366 | [375366-snug.json](./375366-snug.json) |
 | Snug Finder | 207879 | [207879-snug-finder.json](./207879-snug-finder.json) |
 | Snug Finder & Puzzles | 231059 | [231059-snug-finder-and-puzzles.json](./231059-snug-finder-and-puzzles.json) |
+| Snug Finder: Complete Edition | 220437 | [220437-snug-finder-complete-edition.json](./220437-snug-finder-complete-edition.json) |
 | Snug Finder: More Fun | 219472 | [219472-snug-finder-more-fun.json](./219472-snug-finder-more-fun.json) |
 | Snuggle Nightmare | 404430 | [404430-snuggle-nightmare.json](./404430-snuggle-nightmare.json) |
 | Snuggle Truck | 9025 | [9025-snuggle-truck.json](./9025-snuggle-truck.json) |
