@@ -4243,6 +4243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill & Cross: Pirate Riddles | 155013 | [155013-fill-and-cross-pirate-riddles.json](./155013-fill-and-cross-pirate-riddles.json) |
 | Fill & Cross: Pirate Riddles 2 | 101556 | [101556-fill-and-cross-pirate-riddles-2.json](./101556-fill-and-cross-pirate-riddles-2.json) |
 | Fill & Cross: Pirate Riddles 3 | 213014 | [213014-fill-and-cross-pirate-riddles-3.json](./213014-fill-and-cross-pirate-riddles-3.json) |
+| Fill & Cross: Royal Riddles | 195348 | [195348-fill-and-cross-royal-riddles.json](./195348-fill-and-cross-royal-riddles.json) |
 | Fill & Cross: World Contest | 88620 | [88620-fill-and-cross-world-contest.json](./88620-fill-and-cross-world-contest.json) |
 | Fill All | 380615 | [380615-fill-all.json](./380615-fill-all.json) |
 | Fill and Cross: Magic Journey | 159654 | [159654-fill-and-cross-magic-journey.json](./159654-fill-and-cross-magic-journey.json) |
@@ -6309,6 +6310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Shows at Wario's | 145343 | [145343-five-shows-at-warios.json](./145343-five-shows-at-warios.json) |
 | Five Sonic Rings Bundle | 210301 | [210301-five-sonic-rings-bundle.json](./210301-five-sonic-rings-bundle.json) |
 | Five Stages | 128429 | [128429-five-stages.json](./128429-five-stages.json) |
+| Five Stages of Pink | 195366 | [195366-five-stages-of-pink.json](./195366-five-stages-of-pink.json) |
 | Five Star Games | 100129 | [100129-five-star-games.json](./100129-five-star-games.json) |
 | Five Star Games 2 | 79601 | [79601-five-star-games-2.json](./79601-five-star-games-2.json) |
 | Five Starless Rivers | 285438 | [285438-five-starless-rivers.json](./285438-five-starless-rivers.json) |
@@ -12136,6 +12138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury | 240773 | [240773-fury.json](./240773-fury.json) |
 | Fury Battle Dragon | 188275 | [188275-fury-battle-dragon.json](./188275-fury-battle-dragon.json) |
 | Fury Cross Road | 235222 | [235222-fury-cross-road.json](./235222-fury-cross-road.json) |
+| Fury Fight | 195341 | [195341-fury-fight.json](./195341-fury-fight.json) |
 | Fury Fight: Gangsters of City | 231579 | [231579-fury-fight-gangsters-of-city.json](./231579-fury-fight-gangsters-of-city.json) |
 | Fury Fighter VR | 96520 | [96520-fury-fighter-vr.json](./96520-fury-fighter-vr.json) |
 | Fury Fighters | 212107 | [212107-fury-fighters.json](./212107-fury-fighters.json) |
