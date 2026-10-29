@@ -3942,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflector Sector | 386995 | [386995-reflector-sector.json](./386995-reflector-sector.json) |
 | Reflectron | 278392 | [278392-reflectron.json](./278392-reflectron.json) |
 | Reflectron | 42048 | [42048-reflectron.json](./42048-reflectron.json) |
+| Reflex | 189851 | [189851-reflex.json](./189851-reflex.json) |
 | Reflex | 86345 | [86345-reflex.json](./86345-reflex.json) |
 | Reflex Drop Time Race | 367849 | [367849-reflex-drop-time-race.json](./367849-reflex-drop-time-race.json) |
 | Reflex King of Elements | 227719 | [227719-reflex-king-of-elements.json](./227719-reflex-king-of-elements.json) |
