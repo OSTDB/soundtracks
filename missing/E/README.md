@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoed Memories | 181018 | [181018-echoed-memories.json](./181018-echoed-memories.json) |
 | Echoed Nights | 408194 | [408194-echoed-nights.json](./408194-echoed-nights.json) |
 | Echoed Realms | 295000 | [295000-echoed-realms.json](./295000-echoed-realms.json) |
+| Echoes | 193057 | [193057-echoes.json](./193057-echoes.json) |
 | Echoes | 264209 | [264209-echoes.json](./264209-echoes.json) |
 | Echoes | 300758 | [300758-echoes.json](./300758-echoes.json) |
 | Echoes | 303503 | [303503-echoes.json](./303503-echoes.json) |
@@ -1104,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EDF Computer Base | 272136 | [272136-edf-computer-base.json](./272136-edf-computer-base.json) |
 | EDF Overtaken | 273236 | [273236-edf-overtaken.json](./273236-edf-overtaken.json) |
 | EDF Secret Base | 270698 | [270698-edf-secret-base.json](./270698-edf-secret-base.json) |
+| Edgar | 193072 | [193072-edgar.json](./193072-edgar.json) |
 | Edgar A. Poe: The Oval Portrait | 205109 | [205109-edgar-a-poe-the-oval-portrait.json](./205109-edgar-a-poe-the-oval-portrait.json) |
 | Edgar Torronteras Extreme Biker | 24112 | [24112-edgar-torronteras-extreme-biker.json](./24112-edgar-torronteras-extreme-biker.json) |
 | Edgar Torronteras' Moto-X 2000 | 63629 | [63629-edgar-torronteras-moto-x-2000.json](./63629-edgar-torronteras-moto-x-2000.json) |
@@ -1190,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Editor in Chief: Beginning 1 | 108594 | [108594-editor-in-chief-beginning-1.json](./108594-editor-in-chief-beginning-1.json) |
 | Editor's Hell | 221176 | [221176-editors-hell.json](./221176-editors-hell.json) |
 | EDM Ballistics | 374021 | [374021-edm-ballistics.json](./374021-edm-ballistics.json) |
+| EDM Storm: Match 3 VR | 193589 | [193589-edm-storm-match-3-vr.json](./193589-edm-storm-match-3-vr.json) |
 | Edmonton Trolley Car | 55762 | [55762-edmonton-trolley-car.json](./55762-edmonton-trolley-car.json) |
 | Edmund and Eliza | 251994 | [251994-edmund-and-eliza.json](./251994-edmund-and-eliza.json) |
 | Edmund Puzzle and The Mystery of the Sacred Relics | 269268 | [269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json](./269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json) |
@@ -1241,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Een Wonderlijk Avontuur met Pardoes de Tovernar | 242643 | [242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json](./242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json) |
 | EeOneGuy Adventure | 32637 | [32637-eeoneguy-adventure.json](./32637-eeoneguy-adventure.json) |
 | EEP 14 | 100658 | [100658-eep-14.json](./100658-eep-14.json) |
+| EEP 17 | 193588 | [193588-eep-17.json](./193588-eep-17.json) |
 | EEP Train Simulator Mission | 33266 | [33266-eep-train-simulator-mission.json](./33266-eep-train-simulator-mission.json) |
 | Eerie Desolation | 272772 | [272772-eerie-desolation.json](./272772-eerie-desolation.json) |
 | Eerie Dossier: The Haunted Apartment | 391339 | [391339-eerie-dossier-the-haunted-apartment.json](./391339-eerie-dossier-the-haunted-apartment.json) |
@@ -1605,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Einhänder | 1360 | [1360-einhander.json](./1360-einhander.json) |
 | Einheriar | 243574 | [243574-einheriar.json](./243574-einheriar.json) |
 | Einherjar | 181122 | [181122-einherjar.json](./181122-einherjar.json) |
+| Einherjar | 193615 | [193615-einherjar.json](./193615-einherjar.json) |
 | Einlanzer | 30575 | [30575-einlanzer.json](./30575-einlanzer.json) |
 | Einn | 120832 | [120832-einn.json](./120832-einn.json) |
 | Eins Ring | 204319 | [204319-eins-ring.json](./204319-eins-ring.json) |
@@ -2252,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf World Adventure 3 | 339738 | [339738-elf-world-adventure-3.json](./339738-elf-world-adventure-3.json) |
 | Elf World Adventure 4 | 339739 | [339739-elf-world-adventure-4.json](./339739-elf-world-adventure-4.json) |
 | Elf World Adventure 5 | 339740 | [339740-elf-world-adventure-5.json](./339740-elf-world-adventure-5.json) |
+| Elf World Adventure: Part 1 | 193612 | [193612-elf-world-adventure-part-1.json](./193612-elf-world-adventure-part-1.json) |
 | Elf-Mail | 178524 | [178524-elf-mail.json](./178524-elf-mail.json) |
 | Elf-World: Three Kingdoms | 61888 | [61888-elf-world-three-kingdoms.json](./61888-elf-world-three-kingdoms.json) |
 | Elf: The Movie | 49301 | [49301-elf-the-movie.json](./49301-elf-the-movie.json) |
