@@ -2296,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarragona 7: Civilisations Crossroads | 315555 | [315555-tarragona-7-civilisations-crossroads.json](./315555-tarragona-7-civilisations-crossroads.json) |
 | Tarragona 8+9: Final Countdown | 315557 | [315557-tarragona-8-9-final-countdown.json](./315557-tarragona-8-9-final-countdown.json) |
 | Tartapolis | 120954 | [120954-tartapolis.json](./120954-tartapolis.json) |
+| Tartaria: The forgotten tale | 192554 | [192554-tartaria-the-forgotten-tale.json](./192554-tartaria-the-forgotten-tale.json) |
 | Tartaros | 320403 | [320403-tartaros.json](./320403-tartaros.json) |
 | Tartarus | 256845 | [256845-tartarus.json](./256845-tartarus.json) |
 | Tartarus | 29147 | [29147-tartarus.json](./29147-tartarus.json) |
@@ -9079,6 +9080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Coffee Caper | 338210 | [338210-the-great-coffee-caper.json](./338210-the-great-coffee-caper.json) |
 | The Great Conclovince of Mithrithnogg | 301314 | [301314-the-great-conclovince-of-mithrithnogg.json](./301314-the-great-conclovince-of-mithrithnogg.json) |
 | The Great Couturier | 290013 | [290013-the-great-couturier.json](./290013-the-great-couturier.json) |
+| The Great Deer | 192584 | [192584-the-great-deer.json](./192584-the-great-deer.json) |
 | The Great Dick Invasion | 213595 | [213595-the-great-dick-invasion.json](./213595-the-great-dick-invasion.json) |
 | The Great Divide | 238531 | [238531-the-great-divide.json](./238531-the-great-divide.json) |
 | The Great Easter Egg Hunt | 79951 | [79951-the-great-easter-egg-hunt.json](./79951-the-great-easter-egg-hunt.json) |
@@ -13945,6 +13947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Round-about Orchard | 386157 | [386157-the-round-about-orchard.json](./386157-the-round-about-orchard.json) |
 | The Rounds of Six | 419646 | [419646-the-rounds-of-six.json](./419646-the-rounds-of-six.json) |
 | The Route | 266320 | [266320-the-route.json](./266320-the-route.json) |
+| The Roy Game | 192589 | [192589-the-roy-game.json](./192589-the-roy-game.json) |
 | The Royal Finale | 313687 | [313687-the-royal-finale.json](./313687-the-royal-finale.json) |
 | The Royal Game of Ur | 73500 | [73500-the-royal-game-of-ur.json](./73500-the-royal-game-of-ur.json) |
 | The Royal Game of Ur 3D | 186692 | [186692-the-royal-game-of-ur-3d.json](./186692-the-royal-game-of-ur-3d.json) |
@@ -21493,6 +21496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toffee Trouble in Creamville | 232841 | [232841-toffee-trouble-in-creamville.json](./232841-toffee-trouble-in-creamville.json) |
 | Tofu Dream | 358734 | [358734-tofu-dream.json](./358734-tofu-dream.json) |
 | Tofu Drifter | 234600 | [234600-tofu-drifter.json](./234600-tofu-drifter.json) |
+| Tofu Escape | 192575 | [192575-tofu-escape.json](./192575-tofu-escape.json) |
 | Tofu Go! 2: The Onsen Adventure | 242206 | [242206-tofu-go-2-the-onsen-adventure.json](./242206-tofu-go-2-the-onsen-adventure.json) |
 | Tofu Pudding Simulator | 114871 | [114871-tofu-pudding-simulator.json](./114871-tofu-pudding-simulator.json) |
 | Tofu Run: Remastered | 350364 | [350364-tofu-run-remastered.json](./350364-tofu-run-remastered.json) |
@@ -23261,6 +23265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touge King: The Spirits 2 | 66100 | [66100-touge-king-the-spirits-2.json](./66100-touge-king-the-spirits-2.json) |
 | Touge Max 2 | 66099 | [66099-touge-max-2.json](./66099-touge-max-2.json) |
 | Touge R | 60621 | [60621-touge-r.json](./60621-touge-r.json) |
+| Touge Racers | 192552 | [192552-touge-racers.json](./192552-touge-racers.json) |
 | Touge Shakai | 223058 | [223058-touge-shakai.json](./223058-touge-shakai.json) |
 | Touge: JDM Dealership Simulator | 414158 | [414158-touge-jdm-dealership-simulator.json](./414158-touge-jdm-dealership-simulator.json) |
 | Tougen Anki: Crimson Inferno | 396591 | [396591-tougen-anki-crimson-inferno.json](./396591-tougen-anki-crimson-inferno.json) |
