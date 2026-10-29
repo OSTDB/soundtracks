@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam | 332595 | [332595-jam.json](./332595-jam.json) |
 | Jam Above Jam Below | 234114 | [234114-jam-above-jam-below.json](./234114-jam-above-jam-below.json) |
 | Jam City Rollergirls | 85200 | [85200-jam-city-rollergirls.json](./85200-jam-city-rollergirls.json) |
+| Jam Gods | 211538 | [211538-jam-gods.json](./211538-jam-gods.json) |
 | Jam It | 41178 | [41178-jam-it.json](./41178-jam-it.json) |
 | Jam Jam's Adventure | 105761 | [105761-jam-jams-adventure.json](./105761-jam-jams-adventure.json) |
 | Jam Jump | 304841 | [304841-jam-jump.json](./304841-jam-jump.json) |
