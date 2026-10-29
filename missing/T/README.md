@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tab + Notch | 401091 | [401091-tab-notch.json](./401091-tab-notch.json) |
 | Tab-Bot | 202005 | [202005-tab-bot.json](./202005-tab-bot.json) |
 | Tabaluga | 85895 | [85895-tabaluga.json](./85895-tabaluga.json) |
+| Tabbers | 185873 | [185873-tabbers.json](./185873-tabbers.json) |
 | Tabboz Simulator | 191239 | [191239-tabboz-simulator.json](./191239-tabboz-simulator.json) |
 | Tabbris Yor | 156936 | [156936-tabbris-yor.json](./156936-tabbris-yor.json) |
 | Tabby Cat's Great Catventure | 177423 | [177423-tabby-cats-great-catventure.json](./177423-tabby-cats-great-catventure.json) |
@@ -8596,6 +8597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Apartment | 344832 | [344832-the-forgotten-apartment.json](./344832-the-forgotten-apartment.json) |
 | The Forgotten Boundary | 201485 | [201485-the-forgotten-boundary.json](./201485-the-forgotten-boundary.json) |
 | The Forgotten Castle | 190868 | [190868-the-forgotten-castle.json](./190868-the-forgotten-castle.json) |
+| The Forgotten Caves of Foolish Linger | 185861 | [185861-the-forgotten-caves-of-foolish-linger.json](./185861-the-forgotten-caves-of-foolish-linger.json) |
 | The Forgotten City | 297448 | [297448-the-forgotten-city.json](./297448-the-forgotten-city.json) |
 | The Forgotten City: Cloud Version | 173145 | [173145-the-forgotten-city-cloud-version.json](./173145-the-forgotten-city-cloud-version.json) |
 | The Forgotten City: Digital Collector's Edition | 167179 | [167179-the-forgotten-city-digital-collectors-edition.json](./167179-the-forgotten-city-digital-collectors-edition.json) |
@@ -9085,6 +9087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Chain of Being | 174603 | [174603-the-great-chain-of-being.json](./174603-the-great-chain-of-being.json) |
 | The Great Chicken Thief | 163876 | [163876-the-great-chicken-thief.json](./163876-the-great-chicken-thief.json) |
 | The Great Chocolate Chase: A Chocolatier Twist | 19557 | [19557-the-great-chocolate-chase-a-chocolatier-twist.json](./19557-the-great-chocolate-chase-a-chocolatier-twist.json) |
+| The Great Circle | 185821 | [185821-the-great-circle.json](./185821-the-great-circle.json) |
 | The Great Circus Mystery Starring Mickey & Minnie | 4407 | [4407-the-great-circus-mystery-starring-mickey-and-minnie.json](./4407-the-great-circus-mystery-starring-mickey-and-minnie.json) |
 | The Great Coffee Caper | 338210 | [338210-the-great-coffee-caper.json](./338210-the-great-coffee-caper.json) |
 | The Great Conclovince of Mithrithnogg | 301314 | [301314-the-great-conclovince-of-mithrithnogg.json](./301314-the-great-conclovince-of-mithrithnogg.json) |
@@ -24240,6 +24243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Home: Second Gear Pack | 328393 | [328393-toy-home-second-gear-pack.json](./328393-toy-home-second-gear-pack.json) |
 | Toy Hunter | 138498 | [138498-toy-hunter.json](./138498-toy-hunter.json) |
 | Toy Kingdom | 246369 | [246369-toy-kingdom.json](./246369-toy-kingdom.json) |
+| Toy Kingdom 2 | 185837 | [185837-toy-kingdom-2.json](./185837-toy-kingdom-2.json) |
 | Toy Kingdom 3 | 189897 | [189897-toy-kingdom-3.json](./189897-toy-kingdom-3.json) |
 | Toy Land Adventure | 371406 | [371406-toy-land-adventure.json](./371406-toy-land-adventure.json) |
 | Toy Party - Dazzling Puzzle | 87098 | [87098-toy-party-dazzling-puzzle.json](./87098-toy-party-dazzling-puzzle.json) |
