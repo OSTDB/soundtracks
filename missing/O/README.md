@@ -2721,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OnlyFap Simulator 3 | 223066 | [223066-onlyfap-simulator-3.json](./223066-onlyfap-simulator-3.json) |
 | OnlyFap Simulator 4 | 224790 | [224790-onlyfap-simulator-4.json](./224790-onlyfap-simulator-4.json) |
 | OnlyFap Simulator 6 | 236178 | [236178-onlyfap-simulator-6.json](./236178-onlyfap-simulator-6.json) |
+| OnlyFap: Fitness Baby | 224817 | [224817-onlyfap-fitness-baby.json](./224817-onlyfap-fitness-baby.json) |
 | OnlyFuck 2: Scarlett | 173831 | [173831-onlyfuck-2-scarlett.json](./173831-onlyfuck-2-scarlett.json) |
 | OnlyGame: Athlete Girls | 172363 | [172363-onlygame-athlete-girls.json](./172363-onlygame-athlete-girls.json) |
 | OnlyGame: Gamer Girls | 158402 | [158402-onlygame-gamer-girls.json](./158402-onlygame-gamer-girls.json) |
