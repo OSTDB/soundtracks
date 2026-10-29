@@ -12015,6 +12015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furi: Onnamusha | 200436 | [200436-furi-onnamusha.json](./200436-furi-onnamusha.json) |
 | Furidashi: Drift Cyber Sport | 74669 | [74669-furidashi-drift-cyber-sport.json](./74669-furidashi-drift-cyber-sport.json) |
 | Furies & Magazines: Episode 1 | 243563 | [243563-furies-and-magazines-episode-1.json](./243563-furies-and-magazines-episode-1.json) |
+| Furies: Last Escape | 181491 | [181491-furies-last-escape.json](./181491-furies-last-escape.json) |
 | Furikake Spacey | 216461 | [216461-furikake-spacey.json](./216461-furikake-spacey.json) |
 | Furiosity | 225286 | [225286-furiosity.json](./225286-furiosity.json) |
 | Furious Angels | 27743 | [27743-furious-angels.json](./27743-furious-angels.json) |
@@ -12172,6 +12173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furtive | 173259 | [173259-furtive.json](./173259-furtive.json) |
 | Furtum Sacrum | 329767 | [329767-furtum-sacrum.json](./329767-furtum-sacrum.json) |
 | Furu Furu Park | 4875 | [4875-furu-furu-park.json](./4875-furu-furu-park.json) |
+| Furue, Yurayura to | 181516 | [181516-furue-yurayura-to.json](./181516-furue-yurayura-to.json) |
 | Furuiro Meikyuu Rondo | 63209 | [63209-furuiro-meikyuu-rondo.json](./63209-furuiro-meikyuu-rondo.json) |
 | Fururu Project : Ruby | 114366 | [114366-fururu-project-ruby.json](./114366-fururu-project-ruby.json) |
 | Furusato wo Sagasu Sanshimai | 119682 | [119682-furusato-wo-sagasu-sanshimai.json](./119682-furusato-wo-sagasu-sanshimai.json) |
