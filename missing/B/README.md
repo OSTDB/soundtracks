@@ -846,7 +846,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3869,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battles of Normandy | 59319 | [59319-battles-of-normandy.json](./59319-battles-of-normandy.json) |
 | Battles of Prince of Persia | 20485 | [20485-battles-of-prince-of-persia.json](./20485-battles-of-prince-of-persia.json) |
 | Battles of the Ancient World | 67597 | [67597-battles-of-the-ancient-world.json](./67597-battles-of-the-ancient-world.json) |
+| Battles of the Ancient World II | 200300 | [200300-battles-of-the-ancient-world-ii.json](./200300-battles-of-the-ancient-world-ii.json) |
 | Battles of the Ancient World III | 197344 | [197344-battles-of-the-ancient-world-iii.json](./197344-battles-of-the-ancient-world-iii.json) |
 | Battles of the Valiant Universe CCG | 30663 | [30663-battles-of-the-valiant-universe-ccg.json](./30663-battles-of-the-valiant-universe-ccg.json) |
 | Battles Pirates: HQ | 102666 | [102666-battles-pirates-hq.json](./102666-battles-pirates-hq.json) |
@@ -6732,6 +6732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Trouble in Little China | 13397 | [13397-big-trouble-in-little-china.json](./13397-big-trouble-in-little-china.json) |
 | Big Trouble in Little Garden | 183280 | [183280-big-trouble-in-little-garden.json](./183280-big-trouble-in-little-garden.json) |
 | Big Truck 4X4 Challenge | 385266 | [385266-big-truck-4x4-challenge.json](./385266-big-truck-4x4-challenge.json) |
+| Big Truck: Mine Express Racing | 200265 | [200265-big-truck-mine-express-racing.json](./200265-big-truck-mine-express-racing.json) |
 | Big TV Mary Bar | 48324 | [48324-big-tv-mary-bar.json](./48324-big-tv-mary-bar.json) |
 | Big Watermelon | 149358 | [149358-big-watermelon.json](./149358-big-watermelon.json) |
 | Big Watermelon Galaxy | 420677 | [420677-big-watermelon-galaxy.json](./420677-big-watermelon-galaxy.json) |
@@ -6816,6 +6817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Hop: Crazy BMX Bike Jump | 216073 | [216073-bike-hop-crazy-bmx-bike-jump.json](./216073-bike-hop-crazy-bmx-bike-jump.json) |
 | Bike Jump | 203701 | [203701-bike-jump.json](./203701-bike-jump.json) |
 | Bike Mayhem 2 | 21319 | [21319-bike-mayhem-2.json](./21319-bike-mayhem-2.json) |
+| Bike Mechanic Simulator 2023 | 199766 | [199766-bike-mechanic-simulator-2023.json](./199766-bike-mechanic-simulator-2023.json) |
 | Bike of the Wild | 75318 | [75318-bike-of-the-wild.json](./75318-bike-of-the-wild.json) |
 | Bike Offroad Simulator | 248033 | [248033-bike-offroad-simulator.json](./248033-bike-offroad-simulator.json) |
 | Bike Park Simulator: BMX, Dirt Jump & MTB | 326473 | [326473-bike-park-simulator-bmx-dirt-jump-and-mtb.json](./326473-bike-park-simulator-bmx-dirt-jump-and-mtb.json) |
@@ -12542,6 +12544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Life Simulator | 407483 | [407483-boxing-life-simulator.json](./407483-boxing-life-simulator.json) |
 | Boxing Live 2014 | 102051 | [102051-boxing-live-2014.json](./102051-boxing-live-2014.json) |
 | Boxing Manager | 13430 | [13430-boxing-manager.json](./13430-boxing-manager.json) |
+| Boxing Manager | 200310 | [200310-boxing-manager.json](./200310-boxing-manager.json) |
 | Boxing Match | 310986 | [310986-boxing-match.json](./310986-boxing-match.json) |
 | Boxing Pun | 183843 | [183843-boxing-pun.json](./183843-boxing-pun.json) |
 | Boxing Revolution: Boxing Games - Knock Out | 104434 | [104434-boxing-revolution-boxing-games-knock-out.json](./104434-boxing-revolution-boxing-games-knock-out.json) |
@@ -13248,6 +13251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Games | 304844 | [304844-break-games.json](./304844-break-games.json) |
 | Break In | 70097 | [70097-break-in.json](./70097-break-in.json) |
 | Break Into Zatwor | 27775 | [27775-break-into-zatwor.json](./27775-break-into-zatwor.json) |
+| Break It | 199730 | [199730-break-it.json](./199730-break-it.json) |
 | Break It Down | 149912 | [149912-break-it-down.json](./149912-break-it-down.json) |
 | Break It Out | 99194 | [99194-break-it-out.json](./99194-break-it-out.json) |
 | Break It Out 2 | 196622 | [196622-break-it-out-2.json](./196622-break-it-out-2.json) |
