@@ -3948,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of the Vikings: Mystery island | 199300 | [199300-secret-of-the-vikings-mystery-island.json](./199300-secret-of-the-vikings-mystery-island.json) |
 | Secret Of World | 315032 | [315032-secret-of-world.json](./315032-secret-of-world.json) |
 | Secret Oops! | 194337 | [194337-secret-oops.json](./194337-secret-oops.json) |
+| Secret Parcel | 226500 | [226500-secret-parcel.json](./226500-secret-parcel.json) |
 | Secret Paths in the Forest | 47017 | [47017-secret-paths-in-the-forest.json](./47017-secret-paths-in-the-forest.json) |
 | Secret Paths to the Sea | 70382 | [70382-secret-paths-to-the-sea.json](./70382-secret-paths-to-the-sea.json) |
 | Secret Paws: Cozy Apartments | 363887 | [363887-secret-paws-cozy-apartments.json](./363887-secret-paws-cozy-apartments.json) |
@@ -15749,6 +15750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonokuni | 208633 | [208633-sonokuni.json](./208633-sonokuni.json) |
 | Sonolus | 219761 | [219761-sonolus.json](./219761-sonolus.json) |
 | Sonority | 137045 | [137045-sonority.json](./137045-sonority.json) |
+| Sonorous: Deep Down Below | 226497 | [226497-sonorous-deep-down-below.json](./226497-sonorous-deep-down-below.json) |
 | SONpc | 330874 | [330874-sonpc.json](./330874-sonpc.json) |
 | Sons of Anarchy: The Prospect | 360487 | [360487-sons-of-anarchy-the-prospect.json](./360487-sons-of-anarchy-the-prospect.json) |
 | Sons of Eye Championship | 132006 | [132006-sons-of-eye-championship.json](./132006-sons-of-eye-championship.json) |
@@ -16178,6 +16180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Survivor | 147413 | [147413-soul-survivor.json](./147413-soul-survivor.json) |
 | Soul Survivor | 329001 | [329001-soul-survivor.json](./329001-soul-survivor.json) |
 | Soul Survivor | 61706 | [61706-soul-survivor.json](./61706-soul-survivor.json) |
+| Soul Survivor: Trials of the Goddess | 226520 | [226520-soul-survivor-trials-of-the-goddess.json](./226520-soul-survivor-trials-of-the-goddess.json) |
 | Soul Sword: Grow Sword Master | 193827 | [193827-soul-sword-grow-sword-master.json](./193827-soul-sword-grow-sword-master.json) |
 | Soul Symphony | 196878 | [196878-soul-symphony.json](./196878-soul-symphony.json) |
 | Soul Taker | 235618 | [235618-soul-taker.json](./235618-soul-taker.json) |
@@ -20803,6 +20806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Defenders | 195070 | [195070-star-defenders.json](./195070-star-defenders.json) |
 | Star Defense | 90910 | [90910-star-defense.json](./90910-star-defense.json) |
 | Star Destroyer | 113618 | [113618-star-destroyer.json](./113618-star-destroyer.json) |
+| Star Devil | 226485 | [226485-star-devil.json](./226485-star-devil.json) |
 | Star Diffusion | 106969 | [106969-star-diffusion.json](./106969-star-diffusion.json) |
 | Star Discord | 196621 | [196621-star-discord.json](./196621-star-discord.json) |
 | Star Drifter | 13761 | [13761-star-drifter.json](./13761-star-drifter.json) |
@@ -27282,8 +27286,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Iceland | 155614 | [155614-super-jigsaw-puzzle-generations-iceland.json](./155614-super-jigsaw-puzzle-generations-iceland.json) |
 | Super Jigsaw Puzzle: Generations - Illustrations | 238672 | [238672-super-jigsaw-puzzle-generations-illustrations.json](./238672-super-jigsaw-puzzle-generations-illustrations.json) |
 | Super Jigsaw Puzzle: Generations - Imagination | 193143 | [193143-super-jigsaw-puzzle-generations-imagination.json](./193143-super-jigsaw-puzzle-generations-imagination.json) |
+| Super Jigsaw Puzzle: Generations - India | 226512 | [226512-super-jigsaw-puzzle-generations-india.json](./226512-super-jigsaw-puzzle-generations-india.json) |
 | Super Jigsaw Puzzle: Generations - Italy Puzzles | 155594 | [155594-super-jigsaw-puzzle-generations-italy-puzzles.json](./155594-super-jigsaw-puzzle-generations-italy-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Japan Puzzles | 155641 | [155641-super-jigsaw-puzzle-generations-japan-puzzles.json](./155641-super-jigsaw-puzzle-generations-japan-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Jellyfishes | 226509 | [226509-super-jigsaw-puzzle-generations-jellyfishes.json](./226509-super-jigsaw-puzzle-generations-jellyfishes.json) |
 | Super Jigsaw Puzzle: Generations - Kenya | 204191 | [204191-super-jigsaw-puzzle-generations-kenya.json](./204191-super-jigsaw-puzzle-generations-kenya.json) |
 | Super Jigsaw Puzzle: Generations - Kittens 2 | 195278 | [195278-super-jigsaw-puzzle-generations-kittens-2.json](./195278-super-jigsaw-puzzle-generations-kittens-2.json) |
 | Super Jigsaw Puzzle: Generations - Kittens Puzzles | 155590 | [155590-super-jigsaw-puzzle-generations-kittens-puzzles.json](./155590-super-jigsaw-puzzle-generations-kittens-puzzles.json) |
@@ -27299,6 +27305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - New York Puzzles | 155602 | [155602-super-jigsaw-puzzle-generations-new-york-puzzles.json](./155602-super-jigsaw-puzzle-generations-new-york-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - New Zealand | 155578 | [155578-super-jigsaw-puzzle-generations-new-zealand.json](./155578-super-jigsaw-puzzle-generations-new-zealand.json) |
 | Super Jigsaw Puzzle: Generations - Original SJP | 155618 | [155618-super-jigsaw-puzzle-generations-original-sjp.json](./155618-super-jigsaw-puzzle-generations-original-sjp.json) |
+| Super Jigsaw Puzzle: Generations - Paintings 2 | 226510 | [226510-super-jigsaw-puzzle-generations-paintings-2.json](./226510-super-jigsaw-puzzle-generations-paintings-2.json) |
 | Super Jigsaw Puzzle: Generations - Paintings Puzzles | 155623 | [155623-super-jigsaw-puzzle-generations-paintings-puzzles.json](./155623-super-jigsaw-puzzle-generations-paintings-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Paris | 212239 | [212239-super-jigsaw-puzzle-generations-paris.json](./212239-super-jigsaw-puzzle-generations-paris.json) |
 | Super Jigsaw Puzzle: Generations - Peru | 276606 | [276606-super-jigsaw-puzzle-generations-peru.json](./276606-super-jigsaw-puzzle-generations-peru.json) |
@@ -27345,6 +27352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Waterfalls Puzzles | 155600 | [155600-super-jigsaw-puzzle-generations-waterfalls-puzzles.json](./155600-super-jigsaw-puzzle-generations-waterfalls-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Waves | 353479 | [353479-super-jigsaw-puzzle-generations-waves.json](./353479-super-jigsaw-puzzle-generations-waves.json) |
 | Super Jigsaw Puzzle: Generations - Winter 2021 | 353480 | [353480-super-jigsaw-puzzle-generations-winter-2021.json](./353480-super-jigsaw-puzzle-generations-winter-2021.json) |
+| Super Jigsaw Puzzle: Generations - Winter 2022 | 226511 | [226511-super-jigsaw-puzzle-generations-winter-2022.json](./226511-super-jigsaw-puzzle-generations-winter-2022.json) |
 | Super Jigsaw Puzzle: Generations - Winter 2023 | 273631 | [273631-super-jigsaw-puzzle-generations-winter-2023.json](./273631-super-jigsaw-puzzle-generations-winter-2023.json) |
 | Super Jigsaw Puzzle: Generations - Winter Puzzles | 155611 | [155611-super-jigsaw-puzzle-generations-winter-puzzles.json](./155611-super-jigsaw-puzzle-generations-winter-puzzles.json) |
 | Super Jigsaw Puzzle: Generations: Random 6 | 268950 | [268950-super-jigsaw-puzzle-generations-random-6.json](./268950-super-jigsaw-puzzle-generations-random-6.json) |
@@ -31269,6 +31277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syncope | 189041 | [189041-syncope.json](./189041-syncope.json) |
 | Syncrafice | 422704 | [422704-syncrafice.json](./422704-syncrafice.json) |
 | Syncromania | 276285 | [276285-syncromania.json](./276285-syncromania.json) |
+| Syndeo-Complex | 226476 | [226476-syndeo-complex.json](./226476-syndeo-complex.json) |
 | Syndicate | 213568 | [213568-syndicate.json](./213568-syndicate.json) |
 | Syndicate | 213570 | [213570-syndicate.json](./213570-syndicate.json) |
 | Syndicate | 213885 | [213885-syndicate.json](./213885-syndicate.json) |
