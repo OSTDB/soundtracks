@@ -1852,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paramedium: A Noise in the Attic | 82485 | [82485-paramedium-a-noise-in-the-attic.json](./82485-paramedium-a-noise-in-the-attic.json) |
 | Paramelancholia | 332654 | [332654-paramelancholia.json](./332654-paramelancholia.json) |
 | Parameters | 123277 | [123277-parameters.json](./123277-parameters.json) |
+| Parametric Creature: Lab | 189821 | [189821-parametric-creature-lab.json](./189821-parametric-creature-lab.json) |
 | Parametric Engine | 240698 | [240698-parametric-engine.json](./240698-parametric-engine.json) |
 | Paramnesia | 212123 | [212123-paramnesia.json](./212123-paramnesia.json) |
 | Paramnesia: Escape Together | 244489 | [244489-paramnesia-escape-together.json](./244489-paramnesia-escape-together.json) |
@@ -4919,6 +4920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobia III: Edge of Humanity | 18483 | [18483-phobia-iii-edge-of-humanity.json](./18483-phobia-iii-edge-of-humanity.json) |
 | Phobias: Memories of the Past | 199296 | [199296-phobias-memories-of-the-past.json](./199296-phobias-memories-of-the-past.json) |
 | Phobic Nightmares | 344502 | [344502-phobic-nightmares.json](./344502-phobic-nightmares.json) |
+| Phobies | 189811 | [189811-phobies.json](./189811-phobies.json) |
 | PhobLack | 312997 | [312997-phoblack.json](./312997-phoblack.json) |
 | PhoboChromaPhobia | 287310 | [287310-phobochromaphobia.json](./287310-phobochromaphobia.json) |
 | Phobolis | 255854 | [255854-phobolis.json](./255854-phobolis.json) |
@@ -12421,6 +12423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presences: Dark Awakening | 250404 | [250404-presences-dark-awakening.json](./250404-presences-dark-awakening.json) |
 | Presences: Dark Awakening | 250549 | [250549-presences-dark-awakening.json](./250549-presences-dark-awakening.json) |
 | Present | 77268 | [77268-present.json](./77268-present.json) |
+| Present Cannon Rebirth | 189835 | [189835-present-cannon-rebirth.json](./189835-present-cannon-rebirth.json) |
 | Present For You | 64374 | [64374-present-for-you.json](./64374-present-for-you.json) |
 | Present Memories: A Vox Akuma Fangame | 198338 | [198338-present-memories-a-vox-akuma-fangame.json](./198338-present-memories-a-vox-akuma-fangame.json) |
 | Present Panic | 320213 | [320213-present-panic.json](./320213-present-panic.json) |
@@ -14700,6 +14703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proto Garden | 304525 | [304525-proto-garden.json](./304525-proto-garden.json) |
 | Proto Mecha Game | 363906 | [363906-proto-mecha-game.json](./363906-proto-mecha-game.json) |
 | Proto Raider | 34889 | [34889-proto-raider.json](./34889-proto-raider.json) |
+| Proto Shooter Lychee | 189820 | [189820-proto-shooter-lychee.json](./189820-proto-shooter-lychee.json) |
 | Proto Sonic | 316601 | [316601-proto-sonic.json](./316601-proto-sonic.json) |
 | Proto Type | 92885 | [92885-proto-type.json](./92885-proto-type.json) |
 | Proto Zero | 406152 | [406152-proto-zero.json](./406152-proto-zero.json) |
