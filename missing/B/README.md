@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballad of the Asura | 161182 | [161182-ballad-of-the-asura.json](./161182-ballad-of-the-asura.json) |
 | Ballad of the Judgment Night | 180542 | [180542-ballad-of-the-judgment-night.json](./180542-ballad-of-the-judgment-night.json) |
 | Ballad of the Masked Bandits | 132255 | [132255-ballad-of-the-masked-bandits.json](./132255-ballad-of-the-masked-bandits.json) |
+| Ballad of the Sea | 184730 | [184730-ballad-of-the-sea.json](./184730-ballad-of-the-sea.json) |
 | Ballad of the Space Whale | 181841 | [181841-ballad-of-the-space-whale.json](./181841-ballad-of-the-space-whale.json) |
 | Ballad of Violence | 361001 | [361001-ballad-of-violence.json](./361001-ballad-of-violence.json) |
 | Ballad: As the Music Goes | 351790 | [351790-ballad-as-the-music-goes.json](./351790-ballad-as-the-music-goes.json) |
@@ -9896,6 +9897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodkill: Goreblast Overkill | 332642 | [332642-bloodkill-goreblast-overkill.json](./332642-bloodkill-goreblast-overkill.json) |
 | Bloodland | 169623 | [169623-bloodland.json](./169623-bloodland.json) |
 | Bloodland Battle Royale | 124564 | [124564-bloodland-battle-royale.json](./124564-bloodland-battle-royale.json) |
+| Bloodless | 184709 | [184709-bloodless.json](./184709-bloodless.json) |
 | Bloodless Heart | 366879 | [366879-bloodless-heart.json](./366879-bloodless-heart.json) |
 | Bloodletter | 177270 | [177270-bloodletter.json](./177270-bloodletter.json) |
 | Bloodletter | 337717 | [337717-bloodletter.json](./337717-bloodletter.json) |
