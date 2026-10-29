@@ -6345,6 +6345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chihuahua Controller | 373115 | [373115-chihuahua-controller.json](./373115-chihuahua-controller.json) |
 | Chiikawa Phone | 327681 | [327681-chiikawa-phone.json](./327681-chiikawa-phone.json) |
 | Chiikawa Pocket | 327682 | [327682-chiikawa-pocket.json](./327682-chiikawa-pocket.json) |
+| Chiiku Drill Pocket Monsters Diamond & Pearl: Moji Kazu Chie Asobi | 181503 | [181503-chiiku-drill-pocket-monsters-diamond-and-pearl-moji-kazu-chie-asobi.json](./181503-chiiku-drill-pocket-monsters-diamond-and-pearl-moji-kazu-chie-asobi.json) |
 | Chiisana Obake: Acchi Socchi Kocchi | 48537 | [48537-chiisana-obake-acchi-socchi-kocchi.json](./48537-chiisana-obake-acchi-socchi-kocchi.json) |
 | Chiisana Oukoku Eltoria | 387132 | [387132-chiisana-oukoku-eltoria.json](./387132-chiisana-oukoku-eltoria.json) |
 | Chika Militant Cockroach | 29516 | [29516-chika-militant-cockroach.json](./29516-chika-militant-cockroach.json) |
@@ -17999,6 +18000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberchase: Castleblanca Quest | 73197 | [73197-cyberchase-castleblanca-quest.json](./73197-cyberchase-castleblanca-quest.json) |
 | Cyberchase: Mission Motherboard | 143086 | [143086-cyberchase-mission-motherboard.json](./143086-cyberchase-mission-motherboard.json) |
 | Cyberchase: The Quest 1 - Mission Motherboard | 140627 | [140627-cyberchase-the-quest-1-mission-motherboard.json](./140627-cyberchase-the-quest-1-mission-motherboard.json) |
+| Cyberchess | 181541 | [181541-cyberchess.json](./181541-cyberchess.json) |
 | Cyberchess | 94930 | [94930-cyberchess.json](./94930-cyberchess.json) |
 | CyberCity | 228595 | [228595-cybercity.json](./228595-cybercity.json) |
 | Cybercity: Sex Saga | 367013 | [367013-cybercity-sex-saga.json](./367013-cybercity-sex-saga.json) |
