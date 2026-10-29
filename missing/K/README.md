@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Coloring Book | 104223 | [104223-kawaii-coloring-book.json](./104223-kawaii-coloring-book.json) |
 | Kawaii Dake ja Dame? | 238115 | [238115-kawaii-dake-ja-dame.json](./238115-kawaii-dake-ja-dame.json) |
 | Kawaii Deathu Desu | 120089 | [120089-kawaii-deathu-desu.json](./120089-kawaii-deathu-desu.json) |
+| Kawaii Elf Girls | 224809 | [224809-kawaii-elf-girls.json](./224809-kawaii-elf-girls.json) |
 | Kawaii Evolution Clicker | 301323 | [301323-kawaii-evolution-clicker.json](./301323-kawaii-evolution-clicker.json) |
 | Kawaii Force: Liberty Line | 397876 | [397876-kawaii-force-liberty-line.json](./397876-kawaii-force-liberty-line.json) |
 | Kawaii Girl | 202194 | [202194-kawaii-girl.json](./202194-kawaii-girl.json) |
@@ -2430,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4043,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Honor | 2040 | [2040-knights-of-honor.json](./2040-knights-of-honor.json) |
 | Knights of Honor II: Sovereign | 121919 | [121919-knights-of-honor-ii-sovereign.json](./121919-knights-of-honor-ii-sovereign.json) |
 | Knights of Legend | 47224 | [47224-knights-of-legend.json](./47224-knights-of-legend.json) |
+| Knights of Legends | 224839 | [224839-knights-of-legends.json](./224839-knights-of-legends.json) |
 | Knights of Light | 96489 | [96489-knights-of-light.json](./96489-knights-of-light.json) |
 | Knights of Messiah If: Castle in an Alternate Dimension | 370160 | [370160-knights-of-messiah-if-castle-in-an-alternate-dimension.json](./370160-knights-of-messiah-if-castle-in-an-alternate-dimension.json) |
 | Knights of MILFgaard | 393393 | [393393-knights-of-milfgaard.json](./393393-knights-of-milfgaard.json) |
