@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vae Victus 2 | 256862 | [256862-vae-victus-2.json](./256862-vae-victus-2.json) |
 | Vaer | 296149 | [296149-vaer.json](./296149-vaer.json) |
 | Vaewolf | 415294 | [415294-vaewolf.json](./415294-vaewolf.json) |
+| Vagabond | 192571 | [192571-vagabond.json](./192571-vagabond.json) |
 | Vagabond Inn | 284346 | [284346-vagabond-inn.json](./284346-vagabond-inn.json) |
 | Vagabond Starship | 150761 | [150761-vagabond-starship.json](./150761-vagabond-starship.json) |
 | Vagabond's Quest | 312379 | [312379-vagabonds-quest.json](./312379-vagabonds-quest.json) |
