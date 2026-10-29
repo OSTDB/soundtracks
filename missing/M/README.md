@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Project Nexus: Legacy of the S-3LF Eater | 269488 | [269488-madness-project-nexus-legacy-of-the-s-3lf-eater.json](./269488-madness-project-nexus-legacy-of-the-s-3lf-eater.json) |
 | Madness Retaliation | 123425 | [123425-madness-retaliation.json](./123425-madness-retaliation.json) |
 | Madness Starts Young | 386873 | [386873-madness-starts-young.json](./386873-madness-starts-young.json) |
+| Madness: Off-Color | 179844 | [179844-madness-off-color.json](./179844-madness-off-color.json) |
 | Madness: Project Nexus - Classic | 239826 | [239826-madness-project-nexus-classic.json](./239826-madness-project-nexus-classic.json) |
 | Madnessarum | 285318 | [285318-madnessarum.json](./285318-madnessarum.json) |
 | MadnessMadnessMadness | 283738 | [283738-madnessmadnessmadness.json](./283738-madnessmadnessmadness.json) |
