@@ -1875,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombots: Invasion | 306405 | [306405-zombots-invasion.json](./306405-zombots-invasion.json) |
 | Zombow | 106131 | [106131-zombow.json](./106131-zombow.json) |
 | Zombreak: The Last Escape | 250970 | [250970-zombreak-the-last-escape.json](./250970-zombreak-the-last-escape.json) |
+| Zombrero | 179879 | [179879-zombrero.json](./179879-zombrero.json) |
 | Zombrio | 156905 | [156905-zombrio.json](./156905-zombrio.json) |
 | Zombs.io | 76570 | [76570-zombs-io.json](./76570-zombs-io.json) |
 | Zombuds | 404357 | [404357-zombuds.json](./404357-zombuds.json) |
