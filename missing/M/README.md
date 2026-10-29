@@ -4601,8 +4601,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Pieces: Jigsaw Puzzle - Glass Dreams | 303649 | [303649-master-of-pieces-jigsaw-puzzle-glass-dreams.json](./303649-master-of-pieces-jigsaw-puzzle-glass-dreams.json) |
 | Master of Pieces: Jigsaw Puzzle - Paper Art | 293066 | [293066-master-of-pieces-jigsaw-puzzle-paper-art.json](./293066-master-of-pieces-jigsaw-puzzle-paper-art.json) |
 | Master of Pieces: Jigsaw Puzzle - Timeless Heritage | 303650 | [303650-master-of-pieces-jigsaw-puzzle-timeless-heritage.json](./303650-master-of-pieces-jigsaw-puzzle-timeless-heritage.json) |
+| Master of Pieces: Jigsaw Puzzles | 213771 | [213771-master-of-pieces-jigsaw-puzzles.json](./213771-master-of-pieces-jigsaw-puzzles.json) |
 | Master of Pieces: Jigsaw Puzzles - Cat Family Christmas | 284890 | [284890-master-of-pieces-jigsaw-puzzles-cat-family-christmas.json](./284890-master-of-pieces-jigsaw-puzzles-cat-family-christmas.json) |
 | Master of Pieces: Jigsaw Puzzles - Summer Time | 216163 | [216163-master-of-pieces-jigsaw-puzzles-summer-time.json](./216163-master-of-pieces-jigsaw-puzzles-summer-time.json) |
+| Master of Pieces: Jigsaw Puzzles - Vintage | 213773 | [213773-master-of-pieces-jigsaw-puzzles-vintage.json](./213773-master-of-pieces-jigsaw-puzzles-vintage.json) |
 | Master of Pottery: Suzhou Garden | 199600 | [199600-master-of-pottery-suzhou-garden.json](./199600-master-of-pottery-suzhou-garden.json) |
 | Master of Puppets | 235690 | [235690-master-of-puppets.json](./235690-master-of-puppets.json) |
 | Master of Refraction | 153163 | [153163-master-of-refraction.json](./153163-master-of-refraction.json) |
@@ -7513,6 +7515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melodramatica | 158665 | [158665-melodramatica.json](./158665-melodramatica.json) |
 | Melody | 127902 | [127902-melody.json](./127902-melody.json) |
 | Melody | 208848 | [208848-melody.json](./208848-melody.json) |
+| Melody | 213727 | [213727-melody.json](./213727-melody.json) |
 | Melody | 275841 | [275841-melody.json](./275841-melody.json) |
 | Melody | 414285 | [414285-melody.json](./414285-melody.json) |
 | Melody Ball | 344722 | [344722-melody-ball.json](./344722-melody-ball.json) |
@@ -8972,6 +8975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Deep Freeze | 173106 | [173106-metroid-deep-freeze.json](./173106-metroid-deep-freeze.json) |
 | Metroid: Desolation | 255381 | [255381-metroid-desolation.json](./255381-metroid-desolation.json) |
 | Metroid: Eternal | 266932 | [266932-metroid-eternal.json](./266932-metroid-eternal.json) |
+| Metroid: Falling | 213757 | [213757-metroid-falling.json](./213757-metroid-falling.json) |
 | Metroid: Father Hunt | 323032 | [323032-metroid-father-hunt.json](./323032-metroid-father-hunt.json) |
 | Metroid: Federation Trooper | 323874 | [323874-metroid-federation-trooper.json](./323874-metroid-federation-trooper.json) |
 | Metroid: Galactic Marine | 341143 | [341143-metroid-galactic-marine.json](./341143-metroid-galactic-marine.json) |
@@ -8988,6 +8992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Samus Returns | 37140 | [37140-metroid-samus-returns.json](./37140-metroid-samus-returns.json) |
 | Metroid: Samus Returns - Special Edition | 136292 | [136292-metroid-samus-returns-special-edition.json](./136292-metroid-samus-returns-special-edition.json) |
 | Metroid: Spooky Mission | 213825 | [213825-metroid-spooky-mission.json](./213825-metroid-spooky-mission.json) |
+| Metroid: SR387 | 213761 | [213761-metroid-sr387.json](./213761-metroid-sr387.json) |
 | Metroid: SR388 | 324000 | [324000-metroid-sr388.json](./324000-metroid-sr388.json) |
 | Metroid: Subzero | 220777 | [220777-metroid-subzero.json](./220777-metroid-subzero.json) |
 | Metroid: Super Zero Mission | 42205 | [42205-metroid-super-zero-mission.json](./42205-metroid-super-zero-mission.json) |
