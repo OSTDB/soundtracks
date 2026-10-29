@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | N Innocence | 175666 | [175666-n-innocence.json](./175666-n-innocence.json) |
 | N O Nb | 127980 | [127980-n-o-nb.json](./127980-n-o-nb.json) |
+| N Step Steve: Part 1 | 180428 | [180428-n-step-steve-part-1.json](./180428-n-step-steve-part-1.json) |
 | N Step Steve: Part 2 | 280780 | [280780-n-step-steve-part-2.json](./280780-n-step-steve-part-2.json) |
 | N v2.0 | 77297 | [77297-n-v2-0.json](./77297-n-v2-0.json) |
 | N-Ball | 67084 | [67084-n-ball.json](./67084-n-ball.json) |
@@ -6157,6 +6158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Pinball | 175734 | [175734-not-pinball.json](./175734-not-pinball.json) |
 | Not Quite A Fairy Tale | 311895 | [311895-not-quite-a-fairy-tale.json](./311895-not-quite-a-fairy-tale.json) |
 | Not Quite Dead | 414336 | [414336-not-quite-dead.json](./414336-not-quite-dead.json) |
+| Not Quite Right | 180400 | [180400-not-quite-right.json](./180400-not-quite-right.json) |
 | Not Raised by Wolves | 372980 | [372980-not-raised-by-wolves.json](./372980-not-raised-by-wolves.json) |
 | Not seafoam | 176937 | [176937-not-seafoam.json](./176937-not-seafoam.json) |
 | Not So Heart | 117801 | [117801-not-so-heart.json](./117801-not-so-heart.json) |
