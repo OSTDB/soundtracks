@@ -3800,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Mirror Flower | 344719 | [344719-dear-mirror-flower.json](./344719-dear-mirror-flower.json) |
 | Dear Mom | 158129 | [158129-dear-mom.json](./158129-dear-mom.json) |
 | Dear Mom: My Letter to You | 164965 | [164965-dear-mom-my-letter-to-you.json](./164965-dear-mom-my-letter-to-you.json) |
+| Dear Monster | 192563 | [192563-dear-monster.json](./192563-dear-monster.json) |
 | Dear My Abyss | 221492 | [221492-dear-my-abyss.json](./221492-dear-my-abyss.json) |
 | Dear My Bot | 405635 | [405635-dear-my-bot.json](./405635-dear-my-bot.json) |
 | Dear My Cat | 200453 | [200453-dear-my-cat.json](./200453-dear-my-cat.json) |
