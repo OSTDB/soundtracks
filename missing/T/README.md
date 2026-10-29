@@ -5205,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Antaresian Spacepond | 267994 | [267994-the-antaresian-spacepond.json](./267994-the-antaresian-spacepond.json) |
 | The Anthurium | 115767 | [115767-the-anthurium.json](./115767-the-anthurium.json) |
 | The Anti-Gravity Machine | 359420 | [359420-the-anti-gravity-machine.json](./359420-the-anti-gravity-machine.json) |
+| The Ants: Underground Kingdom | 196412 | [196412-the-ants-underground-kingdom.json](./196412-the-ants-underground-kingdom.json) |
 | The Anubis Treasure | 372433 | [372433-the-anubis-treasure.json](./372433-the-anubis-treasure.json) |
 | The Anything Gallery | 177029 | [177029-the-anything-gallery.json](./177029-the-anything-gallery.json) |
 | The Apartment | 281032 | [281032-the-apartment.json](./281032-the-apartment.json) |
@@ -5292,6 +5293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Art of Chess | 14269 | [14269-the-art-of-chess.json](./14269-the-art-of-chess.json) |
 | The Art of Creation | 400362 | [400362-the-art-of-creation.json](./400362-the-art-of-creation.json) |
 | The Art of Fight | 27415 | [27415-the-art-of-fight.json](./27415-the-art-of-fight.json) |
+| The Art of Flight | 195890 | [195890-the-art-of-flight.json](./195890-the-art-of-flight.json) |
 | The Art of Fly Fishing: Volume One - Rivers of the British Isles | 207121 | [207121-the-art-of-fly-fishing-volume-one-rivers-of-the-british-isles.json](./207121-the-art-of-fly-fishing-volume-one-rivers-of-the-british-isles.json) |
 | The Art of Fugue | 364628 | [364628-the-art-of-fugue.json](./364628-the-art-of-fugue.json) |
 | The Art of GO | 14270 | [14270-the-art-of-go.json](./14270-the-art-of-go.json) |
@@ -7139,6 +7141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkest Star | 197013 | [197013-the-darkest-star.json](./197013-the-darkest-star.json) |
 | The Darkest Tales | 138874 | [138874-the-darkest-tales.json](./138874-the-darkest-tales.json) |
 | The Darkest Tales: Extended Edition | 221630 | [221630-the-darkest-tales-extended-edition.json](./221630-the-darkest-tales-extended-edition.json) |
+| The Darkest Tales: Into the Nightmare | 195889 | [195889-the-darkest-tales-into-the-nightmare.json](./195889-the-darkest-tales-into-the-nightmare.json) |
 | The Darkest Woods | 103762 | [103762-the-darkest-woods.json](./103762-the-darkest-woods.json) |
 | The Darkest Woods 2 | 111711 | [111711-the-darkest-woods-2.json](./111711-the-darkest-woods-2.json) |
 | The Darklight Chronicles | 387286 | [387286-the-darklight-chronicles.json](./387286-the-darklight-chronicles.json) |
@@ -8888,6 +8891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girlfriend From My Novel | 211727 | [211727-the-girlfriend-from-my-novel.json](./211727-the-girlfriend-from-my-novel.json) |
 | The Given | 257265 | [257265-the-given.json](./257265-the-given.json) |
 | The Glacial Strain | 293696 | [293696-the-glacial-strain.json](./293696-the-glacial-strain.json) |
+| The Glade | 195886 | [195886-the-glade.json](./195886-the-glade.json) |
 | The Glade | 38806 | [38806-the-glade.json](./38806-the-glade.json) |
 | The Gladhollow Nasties | 128272 | [128272-the-gladhollow-nasties.json](./128272-the-gladhollow-nasties.json) |
 | The Gladiator: Road of the Sword | 39853 | [39853-the-gladiator-road-of-the-sword.json](./39853-the-gladiator-road-of-the-sword.json) |
@@ -9644,6 +9648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunter | 284260 | [284260-the-hunter.json](./284260-the-hunter.json) |
 | The Hunter Cursed by Night | 296467 | [296467-the-hunter-cursed-by-night.json](./296467-the-hunter-cursed-by-night.json) |
 | The Hunter's Journals: Blissful Ignorance | 123870 | [123870-the-hunters-journals-blissful-ignorance.json](./123870-the-hunters-journals-blissful-ignorance.json) |
+| The Hunter's Journals: Tattered Sails | 195895 | [195895-the-hunters-journals-tattered-sails.json](./195895-the-hunters-journals-tattered-sails.json) |
 | The Hunter's Journals: Wight Chapel Dreams | 213424 | [213424-the-hunters-journals-wight-chapel-dreams.json](./213424-the-hunters-journals-wight-chapel-dreams.json) |
 | The Hunter's Path | 327292 | [327292-the-hunters-path.json](./327292-the-hunters-path.json) |
 | The Hunters Journals; Pale Harbour | 119680 | [119680-the-hunters-journals-pale-harbour.json](./119680-the-hunters-journals-pale-harbour.json) |
@@ -15157,6 +15162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story Goes On Chapter 5 | 337693 | [337693-the-story-goes-on-chapter-5.json](./337693-the-story-goes-on-chapter-5.json) |
 | The Story Goes On Chapter 6 | 337694 | [337694-the-story-goes-on-chapter-6.json](./337694-the-story-goes-on-chapter-6.json) |
 | The Story of a World | 216154 | [216154-the-story-of-a-world.json](./216154-the-story-of-a-world.json) |
+| The Story of Archer | 195901 | [195901-the-story-of-archer.json](./195901-the-story-of-archer.json) |
 | The Story of Barker | 220815 | [220815-the-story-of-barker.json](./220815-the-story-of-barker.json) |
 | The Story of Bill Bear | 173030 | [173030-the-story-of-bill-bear.json](./173030-the-story-of-bill-bear.json) |
 | The Story of King Aress | 125464 | [125464-the-story-of-king-aress.json](./125464-the-story-of-king-aress.json) |
@@ -20108,6 +20114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Cruise | 66089 | [66089-time-cruise.json](./66089-time-cruise.json) |
 | Time Cruise II | 37654 | [37654-time-cruise-ii.json](./37654-time-cruise-ii.json) |
 | Time De Tour | 86757 | [86757-time-de-tour.json](./86757-time-de-tour.json) |
+| Time Defenders | 196409 | [196409-time-defenders.json](./196409-time-defenders.json) |
 | Time Diver: Eon Man | 48564 | [48564-time-diver-eon-man.json](./48564-time-diver-eon-man.json) |
 | Time Donkey | 219501 | [219501-time-donkey.json](./219501-time-donkey.json) |
 | Time Drive: Racing Destiny | 258029 | [258029-time-drive-racing-destiny.json](./258029-time-drive-racing-destiny.json) |
@@ -20551,6 +20558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tintin Reporter: Cigars of the Pharaoh - Limited Edition | 242368 | [242368-tintin-reporter-cigars-of-the-pharaoh-limited-edition.json](./242368-tintin-reporter-cigars-of-the-pharaoh-limited-edition.json) |
 | TinTin: Destination Adventure | 43902 | [43902-tintin-destination-adventure.json](./43902-tintin-destination-adventure.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
+| Tiny | 196410 | [196410-tiny.json](./196410-tiny.json) |
 | Tiny | 298261 | [298261-tiny.json](./298261-tiny.json) |
 | tiny & Tall: Gleipnir | 112031 | [112031-tiny-and-tall-gleipnir.json](./112031-tiny-and-tall-gleipnir.json) |
 | Tiny 2048 | 267568 | [267568-tiny-2048.json](./267568-tiny-2048.json) |
@@ -22874,6 +22882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Battleground | 101416 | [101416-total-battleground.json](./101416-total-battleground.json) |
 | Total blade | 278290 | [278290-total-blade.json](./278290-total-blade.json) |
 | Total Carnage | 12868 | [12868-total-carnage.json](./12868-total-carnage.json) |
+| Total Carnage | 196441 | [196441-total-carnage.json](./196441-total-carnage.json) |
 | Total Chaos | 125766 | [125766-total-chaos.json](./125766-total-chaos.json) |
 | Total Chaos | 301071 | [301071-total-chaos.json](./301071-total-chaos.json) |
 | Total Club Manager 2003 | 6211 | [6211-total-club-manager-2003.json](./6211-total-club-manager-2003.json) |
@@ -23648,6 +23657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tournament Chess | 206080 | [206080-tournament-chess.json](./206080-tournament-chess.json) |
 | Tournament Chess II | 206081 | [206081-tournament-chess-ii.json](./206081-tournament-chess-ii.json) |
 | Tournament of Armistice: Preliminaries | 163853 | [163853-tournament-of-armistice-preliminaries.json](./163853-tournament-of-armistice-preliminaries.json) |
+| Tournament of Beans | 196421 | [196421-tournament-of-beans.json](./196421-tournament-of-beans.json) |
 | Tournament of Legends | 5239 | [5239-tournament-of-legends.json](./5239-tournament-of-legends.json) |
 | Tournament of Tamers | 157168 | [157168-tournament-of-tamers.json](./157168-tournament-of-tamers.json) |
 | Tournament Paintball VR | 159766 | [159766-tournament-paintball-vr.json](./159766-tournament-paintball-vr.json) |
@@ -28843,6 +28853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuttle: Star Flower Harvest | 247934 | [247934-tuttle-star-flower-harvest.json](./247934-tuttle-star-flower-harvest.json) |
 | Tuttuki Bako | 289177 | [289177-tuttuki-bako.json](./289177-tuttuki-bako.json) |
 | Tutututu: Tea party | 120318 | [120318-tutututu-tea-party.json](./120318-tutututu-tea-party.json) |
+| Tuwas vs. Muda | 195853 | [195853-tuwas-vs-muda.json](./195853-tuwas-vs-muda.json) |
 | Tux 2 | 397053 | [397053-tux-2.json](./397053-tux-2.json) |
 | Tux and Fanny | 166675 | [166675-tux-and-fanny.json](./166675-tux-and-fanny.json) |
 | Tux Typing | 210605 | [210605-tux-typing.json](./210605-tux-typing.json) |
