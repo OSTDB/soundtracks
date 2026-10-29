@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nathan Jones and The Empty Century | 283277 | [283277-nathan-jones-and-the-empty-century.json](./283277-nathan-jones-and-the-empty-century.json) |
 | Nathan Jones and The Eternal Myth | 266060 | [266060-nathan-jones-and-the-eternal-myth.json](./266060-nathan-jones-and-the-eternal-myth.json) |
 | Nathan Morgan: Dilemma | 295085 | [295085-nathan-morgan-dilemma.json](./295085-nathan-morgan-dilemma.json) |
+| Nathan Powell's Wild Araz | 182035 | [182035-nathan-powells-wild-araz.json](./182035-nathan-powells-wild-araz.json) |
 | Nation Red | 21115 | [21115-nation-red.json](./21115-nation-red.json) |
 | Nation War 2: Chronicle | 169432 | [169432-nation-war-2-chronicle.json](./169432-nation-war-2-chronicle.json) |
 | Nation War: Chronicles | 48008 | [48008-nation-war-chronicles.json](./48008-nation-war-chronicles.json) |
