@@ -4217,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oumori Charisou DX | 98303 | [98303-oumori-charisou-dx.json](./98303-oumori-charisou-dx.json) |
 | OuO | 174781 | [174781-ouo.json](./174781-ouo.json) |
 | Our Adventure Time | 178549 | [178549-our-adventure-time.json](./178549-our-adventure-time.json) |
+| Our Adventurer Guild | 212060 | [212060-our-adventurer-guild.json](./212060-our-adventurer-guild.json) |
 | Our America | 149337 | [149337-our-america.json](./149337-our-america.json) |
 | Our Apartment | 168617 | [168617-our-apartment.json](./168617-our-apartment.json) |
 | Our Ascent | 341520 | [341520-our-ascent.json](./341520-our-ascent.json) |
@@ -4286,6 +4287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Mini Adventure | 235871 | [235871-our-mini-adventure.json](./235871-our-mini-adventure.json) |
 | Our Monsoon Balcony | 382387 | [382387-our-monsoon-balcony.json](./382387-our-monsoon-balcony.json) |
 | Our Mother's house | 189011 | [189011-our-mothers-house.json](./189011-our-mothers-house.json) |
+| Our Mountain | 212093 | [212093-our-mountain.json](./212093-our-mountain.json) |
 | Our Nation's Miner | 35485 | [35485-our-nations-miner.json](./35485-our-nations-miner.json) |
 | Our Ninja World | 199106 | [199106-our-ninja-world.json](./199106-our-ninja-world.json) |
 | Our Passing Thoughts | 219414 | [219414-our-passing-thoughts.json](./219414-our-passing-thoughts.json) |
