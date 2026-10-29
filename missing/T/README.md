@@ -4482,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrominer | 324725 | [324725-tetrominer.json](./324725-tetrominer.json) |
 | Tetromino Attack | 117808 | [117808-tetromino-attack.json](./117808-tetromino-attack.json) |
 | Tetromino Chill | 186197 | [186197-tetromino-chill.json](./186197-tetromino-chill.json) |
+| Tetromino Colormix | 185306 | [185306-tetromino-colormix.json](./185306-tetromino-colormix.json) |
 | Tetromino X | 190227 | [190227-tetromino-x.json](./190227-tetromino-x.json) |
 | TetroMosaic, Happy Halloweeen | 375411 | [375411-tetromosaic-happy-halloweeen.json](./375411-tetromosaic-happy-halloweeen.json) |
 | TetroMosaic, Racy: Automata | 362192 | [362192-tetromosaic-racy-automata.json](./362192-tetromosaic-racy-automata.json) |
@@ -5637,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bear Kick | 102114 | [102114-the-bear-kick.json](./102114-the-bear-kick.json) |
 | The Bear, the Cat and the Rabbit | 12936 | [12936-the-bear-the-cat-and-the-rabbit.json](./12936-the-bear-the-cat-and-the-rabbit.json) |
 | The Bear: A Story from the World of Gra | 333450 | [333450-the-bear-a-story-from-the-world-of-gra.json](./333450-the-bear-a-story-from-the-world-of-gra.json) |
+| The Bear's Black Heart | 185279 | [185279-the-bears-black-heart.json](./185279-the-bears-black-heart.json) |
 | The Beard in the Mirror | 34873 | [34873-the-beard-in-the-mirror.json](./34873-the-beard-in-the-mirror.json) |
 | The Beardless Wizard | 54437 | [54437-the-beardless-wizard.json](./54437-the-beardless-wizard.json) |
 | The Bearer & The Last Flame | 265469 | [265469-the-bearer-and-the-last-flame.json](./265469-the-bearer-and-the-last-flame.json) |
@@ -7877,6 +7879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End of the World and Her Room | 391676 | [391676-the-end-of-the-world-and-her-room.json](./391676-the-end-of-the-world-and-her-room.json) |
 | The End of the World Club | 397628 | [397628-the-end-of-the-world-club.json](./397628-the-end-of-the-world-club.json) |
 | The End of Us | 115033 | [115033-the-end-of-us.json](./115033-the-end-of-us.json) |
+| The End of Warren's House | 185274 | [185274-the-end-of-warrens-house.json](./185274-the-end-of-warrens-house.json) |
 | The End Protocol | 374748 | [374748-the-end-protocol.json](./374748-the-end-protocol.json) |
 | The End Was Nigh | 135777 | [135777-the-end-was-nigh.json](./135777-the-end-was-nigh.json) |
 | The End: Inari's Quest | 77737 | [77737-the-end-inaris-quest.json](./77737-the-end-inaris-quest.json) |
@@ -8606,6 +8609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Empire | 191164 | [191164-the-forgotten-empire.json](./191164-the-forgotten-empire.json) |
 | The Forgotten Fairy Tales: The Spectra World | 100153 | [100153-the-forgotten-fairy-tales-the-spectra-world.json](./100153-the-forgotten-fairy-tales-the-spectra-world.json) |
 | The Forgotten Forest | 34276 | [34276-the-forgotten-forest.json](./34276-the-forgotten-forest.json) |
+| The Forgotten Halls | 185297 | [185297-the-forgotten-halls.json](./185297-the-forgotten-halls.json) |
 | The Forgotten Island | 368267 | [368267-the-forgotten-island.json](./368267-the-forgotten-island.json) |
 | The Forgotten Journey Through Time | 133641 | [133641-the-forgotten-journey-through-time.json](./133641-the-forgotten-journey-through-time.json) |
 | The Forgotten Level | 271763 | [271763-the-forgotten-level.json](./271763-the-forgotten-level.json) |
@@ -9928,6 +9932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Interview | 231803 | [231803-the-interview.json](./231803-the-interview.json) |
 | The Interview | 35786 | [35786-the-interview.json](./35786-the-interview.json) |
 | The Intruder | 174706 | [174706-the-intruder.json](./174706-the-intruder.json) |
+| The Intruder | 185283 | [185283-the-intruder.json](./185283-the-intruder.json) |
 | The Intruder | 265600 | [265600-the-intruder.json](./265600-the-intruder.json) |
 | The Invading Dark | 330572 | [330572-the-invading-dark.json](./330572-the-invading-dark.json) |
 | The Invasion 2 | 268038 | [268038-the-invasion-2.json](./268038-the-invasion-2.json) |
@@ -13426,6 +13431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Promise Tree of Alden | 383447 | [383447-the-promise-tree-of-alden.json](./383447-the-promise-tree-of-alden.json) |
 | The Promised Land | 17318 | [17318-the-promised-land.json](./17318-the-promised-land.json) |
 | The Promised Land | 78648 | [78648-the-promised-land.json](./78648-the-promised-land.json) |
+| The Propahverse Trilogy: Episode I | 185289 | [185289-the-propahverse-trilogy-episode-i.json](./185289-the-propahverse-trilogy-episode-i.json) |
 | The Prophecy | 12822 | [12822-the-prophecy.json](./12822-the-prophecy.json) |
 | The Prophecy of Horn | 349999 | [349999-the-prophecy-of-horn.json](./349999-the-prophecy-of-horn.json) |
 | The Prophecy of Statues | 109754 | [109754-the-prophecy-of-statues.json](./109754-the-prophecy-of-statues.json) |
@@ -13834,6 +13840,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rhine Railway: Mannheim - Karlsruhe Collection | 53783 | [53783-the-rhine-railway-mannheim-karlsruhe-collection.json](./53783-the-rhine-railway-mannheim-karlsruhe-collection.json) |
 | The Rhymatory | 399736 | [399736-the-rhymatory.json](./399736-the-rhymatory.json) |
 | The Rhythm of Fighters: SNK Original Sound Collection | 80562 | [80562-the-rhythm-of-fighters-snk-original-sound-collection.json](./80562-the-rhythm-of-fighters-snk-original-sound-collection.json) |
+| The Ribbon Club ch1: Tea and Cake | 185267 | [185267-the-ribbon-club-ch1-tea-and-cake.json](./185267-the-ribbon-club-ch1-tea-and-cake.json) |
+| The Ribbon Club ch2: Spring Storm | 185281 | [185281-the-ribbon-club-ch2-spring-storm.json](./185281-the-ribbon-club-ch2-spring-storm.json) |
 | The Rice Story | 222767 | [222767-the-rice-story.json](./222767-the-rice-story.json) |
 | The Rich King | 351163 | [351163-the-rich-king.json](./351163-the-rich-king.json) |
 | The Riches of Agrabah with Disney | 243818 | [243818-the-riches-of-agrabah-with-disney.json](./243818-the-riches-of-agrabah-with-disney.json) |
@@ -24221,6 +24229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Bot Mini Missions | 80622 | [80622-toy-bot-mini-missions.json](./80622-toy-bot-mini-missions.json) |
 | Toy Box | 325235 | [325235-toy-box.json](./325235-toy-box.json) |
 | Toy Box | 423238 | [423238-toy-box.json](./423238-toy-box.json) |
+| Toy Box Metropolis | 185298 | [185298-toy-box-metropolis.json](./185298-toy-box-metropolis.json) |
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
 | Toy Car Race | 391353 | [391353-toy-car-race.json](./391353-toy-car-race.json) |
 | Toy Chase | 156912 | [156912-toy-chase.json](./156912-toy-chase.json) |
@@ -27016,6 +27025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial of the Demon Hunter | 81136 | [81136-trial-of-the-demon-hunter.json](./81136-trial-of-the-demon-hunter.json) |
 | Trial of the Gods: Ariadne's Journey | 416188 | [416188-trial-of-the-gods-ariadnes-journey.json](./416188-trial-of-the-gods-ariadnes-journey.json) |
 | Trial of the Gods: Siralim CCG | 133195 | [133195-trial-of-the-gods-siralim-ccg.json](./133195-trial-of-the-gods-siralim-ccg.json) |
+| Trial of the Tower God | 185290 | [185290-trial-of-the-tower-god.json](./185290-trial-of-the-tower-god.json) |
 | Trial of the Towers | 116763 | [116763-trial-of-the-towers.json](./116763-trial-of-the-towers.json) |
 | Trial of Two | 152452 | [152452-trial-of-two.json](./152452-trial-of-two.json) |
 | Trial Takedown | 349798 | [349798-trial-takedown.json](./349798-trial-takedown.json) |
