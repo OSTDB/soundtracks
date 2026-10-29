@@ -2443,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary DXP | 69357 | [69357-legendary-dxp.json](./69357-legendary-dxp.json) |
 | Legendary Eleven: Epic Football | 102260 | [102260-legendary-eleven-epic-football.json](./102260-legendary-eleven-epic-football.json) |
 | Legendary Fighter: Battle of God | 208093 | [208093-legendary-fighter-battle-of-god.json](./208093-legendary-fighter-battle-of-god.json) |
+| Legendary Fighters | 188232 | [188232-legendary-fighters.json](./188232-legendary-fighters.json) |
 | Legendary Fishing | 110788 | [110788-legendary-fishing.json](./110788-legendary-fishing.json) |
 | Legendary Football | 194118 | [194118-legendary-football.json](./194118-legendary-football.json) |
 | Legendary Gary | 76560 | [76560-legendary-gary.json](./76560-legendary-gary.json) |
