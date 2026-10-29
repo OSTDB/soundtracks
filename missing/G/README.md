@@ -2726,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genomon: Genetic Monsters | 142842 | [142842-genomon-genetic-monsters.json](./142842-genomon-genetic-monsters.json) |
 | Genopanic | 204193 | [204193-genopanic.json](./204193-genopanic.json) |
 | Genpei Kassen | 183870 | [183870-genpei-kassen.json](./183870-genpei-kassen.json) |
+| Genpei Ryouran Emaki: Gikei | 180958 | [180958-genpei-ryouran-emaki-gikei.json](./180958-genpei-ryouran-emaki-gikei.json) |
 | Genre Hopper | 182532 | [182532-genre-hopper.json](./182532-genre-hopper.json) |
 | Genroh | 59157 | [59157-genroh.json](./59157-genroh.json) |
 | Genrou | 181518 | [181518-genrou.json](./181518-genrou.json) |
@@ -3602,6 +3603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 'n Goblins | 6807 | [6807-ghosts-n-goblins.json](./6807-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins 64 | 297480 | [297480-ghosts-n-goblins-64.json](./297480-ghosts-n-goblins-64.json) |
 | Ghosts 'N Goblins: Gold Knights II | 63647 | [63647-ghosts-n-goblins-gold-knights-ii.json](./63647-ghosts-n-goblins-gold-knights-ii.json) |
+| Ghosts and Apples | 180963 | [180963-ghosts-and-apples.json](./180963-ghosts-and-apples.json) |
 | Ghosts and Bureaucracy | 133064 | [133064-ghosts-and-bureaucracy.json](./133064-ghosts-and-bureaucracy.json) |
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
 | Ghosts in the Garden | 307630 | [307630-ghosts-in-the-garden.json](./307630-ghosts-in-the-garden.json) |
