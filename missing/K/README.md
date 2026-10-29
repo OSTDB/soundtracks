@@ -2482,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3512,6 +3513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kissed by the Baddest Bidder: Secrets from the Past - Soryu | 238226 | [238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json](./238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json) |
 | Kissing Simulator | 118987 | [118987-kissing-simulator.json](./118987-kissing-simulator.json) |
 | Kissing the Buddha's Feet | 217780 | [217780-kissing-the-buddhas-feet.json](./217780-kissing-the-buddhas-feet.json) |
+| Kissing Your Homies Goodnight | 184734 | [184734-kissing-your-homies-goodnight.json](./184734-kissing-your-homies-goodnight.json) |
 | Kissoro | 282426 | [282426-kissoro.json](./282426-kissoro.json) |
 | Kissrim | 378917 | [378917-kissrim.json](./378917-kissrim.json) |
 | Kissrim: Full Production Limited Edition | 395335 | [395335-kissrim-full-production-limited-edition.json](./395335-kissrim-full-production-limited-edition.json) |
@@ -5172,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krut: The Mythic Wings | 196981 | [196981-krut-the-mythic-wings.json](./196981-krut-the-mythic-wings.json) |
 | KrvVR | 349752 | [349752-krvvr.json](./349752-krvvr.json) |
 | Kryftolike | 176994 | [176994-kryftolike.json](./176994-kryftolike.json) |
+| Kryp | 184711 | [184711-kryp.json](./184711-kryp.json) |
 | Krypt | 204948 | [204948-krypt.json](./204948-krypt.json) |
 | KryptCrawler | 51521 | [51521-kryptcrawler.json](./51521-kryptcrawler.json) |
 | Kryptic | 178845 | [178845-kryptic.json](./178845-kryptic.json) |
