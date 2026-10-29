@@ -12,7 +12,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R is for Rachel | 197134 | [197134-r-is-for-rachel.json](./197134-r-is-for-rachel.json) |
 | R Line After Dark | 179455 | [179455-r-line-after-dark.json](./179455-r-line-after-dark.json) |
 | R no Shosai | 93531 | [93531-r-no-shosai.json](./93531-r-no-shosai.json) |
+| R no Shosai: Dai-1-shuu | 179831 | [179831-r-no-shosai-dai-1-shuu.json](./179831-r-no-shosai-dai-1-shuu.json) |
+| R no Shosai: Dai-2-shuu | 179832 | [179832-r-no-shosai-dai-2-shuu.json](./179832-r-no-shosai-dai-2-shuu.json) |
 | R no Shosai: Dai-Ni Maku | 134499 | [134499-r-no-shosai-dai-ni-maku.json](./134499-r-no-shosai-dai-ni-maku.json) |
+| R no Shosai: Dai-Ni Maku - Dai-1-shuu | 179833 | [179833-r-no-shosai-dai-ni-maku-dai-1-shuu.json](./179833-r-no-shosai-dai-ni-maku-dai-1-shuu.json) |
+| R no Shosai: Dai-Ni Maku - Dai-2-shuu | 179834 | [179834-r-no-shosai-dai-ni-maku-dai-2-shuu.json](./179834-r-no-shosai-dai-ni-maku-dai-2-shuu.json) |
 | R Place Guesser | 198339 | [198339-r-place-guesser.json](./198339-r-place-guesser.json) |
 | R Wheel | 281042 | [281042-r-wheel.json](./281042-r-wheel.json) |
 | R_sin | 117787 | [117787-r-sin.json](./117787-r-sin.json) |
