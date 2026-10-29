@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhèn Xié | 375425 | [375425-zhen-xie.json](./375425-zhen-xie.json) |
 | Zhen: Shattered Legacy | 328614 | [328614-zhen-shattered-legacy.json](./328614-zhen-shattered-legacy.json) |
 | Zhēnběn Xīyóujì: The Adventures of Monkey | 138648 | [138648-zhenben-xiyouji-the-adventures-of-monkey.json](./138648-zhenben-xiyouji-the-adventures-of-monkey.json) |
+| Zhēng Shàngyóu | 228660 | [228660-zheng-shangyou.json](./228660-zheng-shangyou.json) |
 | Zhēngtiān Fēngwǔ Zhuán | 84225 | [84225-zhengtian-fengwu-zhuan.json](./84225-zhengtian-fengwu-zhuan.json) |
 | Zhèngzōng Taiwan Shíliù Zhāng Mahjong | 149591 | [149591-zhengzong-taiwan-shiliu-zhang-mahjong.json](./149591-zhengzong-taiwan-shiliu-zhang-mahjong.json) |
 | Zhēnjiǎ Hóuwáng | 321436 | [321436-zhenjia-houwang.json](./321436-zhenjia-houwang.json) |
@@ -1700,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie World | 284283 | [284283-zombie-world.json](./284283-zombie-world.json) |
 | Zombie World | 93791 | [93791-zombie-world.json](./93791-zombie-world.json) |
 | Zombie World Apocalypse VR | 127576 | [127576-zombie-world-apocalypse-vr.json](./127576-zombie-world-apocalypse-vr.json) |
+| Zombie World Pixel | 231584 | [231584-zombie-world-pixel.json](./231584-zombie-world-pixel.json) |
 | Zombie Wrap Simulator | 416341 | [416341-zombie-wrap-simulator.json](./416341-zombie-wrap-simulator.json) |
 | Zombie Zombie | 316091 | [316091-zombie-zombie.json](./316091-zombie-zombie.json) |
 | Zombie Zone | 72157 | [72157-zombie-zone.json](./72157-zombie-zone.json) |
