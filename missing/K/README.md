@@ -2278,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killa | 264603 | [264603-killa.json](./264603-killa.json) |
 | Killapede | 60247 | [60247-killapede.json](./60247-killapede.json) |
 | Killbeat | 293347 | [293347-killbeat.json](./293347-killbeat.json) |
+| Killbot General | 188816 | [188816-killbot-general.json](./188816-killbot-general.json) |
 | Killbot! | 396395 | [396395-killbot.json](./396395-killbot.json) |
 | Killbox | 304728 | [304728-killbox.json](./304728-killbox.json) |
 | Killbox | 55702 | [55702-killbox.json](./55702-killbox.json) |
@@ -2737,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Halloween | 123503 | [123503-king-of-halloween.json](./123503-king-of-halloween.json) |
 | King of Hearts | 264204 | [264204-king-of-hearts.json](./264204-king-of-hearts.json) |
 | King of Hell | 298671 | [298671-king-of-hell.json](./298671-king-of-hell.json) |
+| King of Heroes | 188773 | [188773-king-of-heroes.json](./188773-king-of-heroes.json) |
 | King of Kalimpong | 203312 | [203312-king-of-kalimpong.json](./203312-king-of-kalimpong.json) |
 | King of Karts | 88306 | [88306-king-of-karts.json](./88306-king-of-karts.json) |
 | King of Kingdoms | 224030 | [224030-king-of-kingdoms.json](./224030-king-of-kingdoms.json) |
@@ -3285,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kioku Shoujo | 151533 | [151533-kioku-shoujo.json](./151533-kioku-shoujo.json) |
 | Kiomet | 358225 | [358225-kiomet.json](./358225-kiomet.json) |
 | Kiopioke! | 286369 | [286369-kiopioke.json](./286369-kiopioke.json) |
+| Kiospoly | 188785 | [188785-kiospoly.json](./188785-kiospoly.json) |
 | Kiou | 405681 | [405681-kiou.json](./405681-kiou.json) |
 | Kip 2: Beyond Boundaries | 360693 | [360693-kip-2-beyond-boundaries.json](./360693-kip-2-beyond-boundaries.json) |
 | Kip and Odosan | 236938 | [236938-kip-and-odosan.json](./236938-kip-and-odosan.json) |
