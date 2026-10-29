@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galvatia | 169474 | [169474-galvatia.json](./169474-galvatia.json) |
 | Galves Adventure | 230310 | [230310-galves-adventure.json](./230310-galves-adventure.json) |
 | Galxagar | 207320 | [207320-galxagar.json](./207320-galxagar.json) |
+| Galzoo Island | 185286 | [185286-galzoo-island.json](./185286-galzoo-island.json) |
 | Gam3rAbduction | 276034 | [276034-gam3rabduction.json](./276034-gam3rabduction.json) |
 | Gamba Gun | 346248 | [346248-gamba-gun.json](./346248-gamba-gun.json) |
 | Gambari Minoriko: Onee-chan no Shiren | 241259 | [241259-gambari-minoriko-onee-chan-no-shiren.json](./241259-gambari-minoriko-onee-chan-no-shiren.json) |
@@ -4549,6 +4550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory Heyday | 175670 | [175670-glory-heyday.json](./175670-glory-heyday.json) |
 | Glory Hold | 151117 | [151117-glory-hold.json](./151117-glory-hold.json) |
 | Glory Hounds | 210700 | [210700-glory-hounds.json](./210700-glory-hounds.json) |
+| Glory Hunters | 185280 | [185280-glory-hunters.json](./185280-glory-hunters.json) |
 | Glory of Generals | 84508 | [84508-glory-of-generals.json](./84508-glory-of-generals.json) |
 | Glory of Generals: Pacific War | 89039 | [89039-glory-of-generals-pacific-war.json](./89039-glory-of-generals-pacific-war.json) |
 | Glory of Heracles | 21766 | [21766-glory-of-heracles.json](./21766-glory-of-heracles.json) |
