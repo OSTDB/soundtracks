@@ -2940,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Survivors | 260525 | [260525-void-survivors.json](./260525-void-survivors.json) |
 | Void Tech | 346535 | [346535-void-tech.json](./346535-void-tech.json) |
 | Void Terrarium | 122721 | [122721-void-terrarium.json](./122721-void-terrarium.json) |
+| Void Terrarium 2: Deluxe Edition | 216585 | [216585-void-terrarium-2-deluxe-edition.json](./216585-void-terrarium-2-deluxe-edition.json) |
 | Void Terrarium 2: Limited Edition | 284385 | [284385-void-terrarium-2-limited-edition.json](./284385-void-terrarium-2-limited-edition.json) |
 | Void Terrarium Plus: Toriko Care Set | 143997 | [143997-void-terrarium-plus-toriko-care-set.json](./143997-void-terrarium-plus-toriko-care-set.json) |
 | Void Terrarium: Limited Edition | 167108 | [167108-void-terrarium-limited-edition.json](./167108-void-terrarium-limited-edition.json) |
