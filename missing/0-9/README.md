@@ -2473,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Card Slingo | 414394 | [414394-5-card-slingo.json](./414394-5-card-slingo.json) |
 | 5 Days | 226096 | [226096-5-days.json](./226096-5-days.json) |
 | 5 Days, Minimum Wage. | 308953 | [308953-5-days-minimum-wage.json](./308953-5-days-minimum-wage.json) |
+| 5 dias com Tony Bumbum | 225337 | [225337-5-dias-com-tony-bumbum.json](./225337-5-dias-com-tony-bumbum.json) |
 | 5 Differences | 261070 | [261070-5-differences.json](./261070-5-differences.json) |
 | 5 Force Fighters | 153691 | [153691-5-force-fighters.json](./153691-5-force-fighters.json) |
 | 5 ft. 10 Pak: Award Winning Collection | 401082 | [401082-5-ft-10-pak-award-winning-collection.json](./401082-5-ft-10-pak-award-winning-collection.json) |
