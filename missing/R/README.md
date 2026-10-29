@@ -2905,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reason Unfound | 292477 | [292477-reason-unfound.json](./292477-reason-unfound.json) |
 | Reason: Casual Puzzle | 148000 | [148000-reason-casual-puzzle.json](./148000-reason-casual-puzzle.json) |
 | Reasonable Claustrophobia | 182922 | [182922-reasonable-claustrophobia.json](./182922-reasonable-claustrophobia.json) |
+| Reasoning of Courage | 219383 | [219383-reasoning-of-courage.json](./219383-reasoning-of-courage.json) |
 | Reasoning of Courage Nori 3 Balanced Diet | 251680 | [251680-reasoning-of-courage-nori-3-balanced-diet.json](./251680-reasoning-of-courage-nori-3-balanced-diet.json) |
 | Reasoning of Courage Nori 8 Definition of Kindness | 317274 | [317274-reasoning-of-courage-nori-8-definition-of-kindness.json](./317274-reasoning-of-courage-nori-8-definition-of-kindness.json) |
 | Reasons | 349789 | [349789-reasons.json](./349789-reasons.json) |
@@ -5213,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Arcade Shooter - Attack from Pluto | 147863 | [147863-retro-arcade-shooter-attack-from-pluto.json](./147863-retro-arcade-shooter-attack-from-pluto.json) |
 | Retro Arcade Shop Simulator | 384086 | [384086-retro-arcade-shop-simulator.json](./384086-retro-arcade-shop-simulator.json) |
 | Retro Arcade Toppers | 60317 | [60317-retro-arcade-toppers.json](./60317-retro-arcade-toppers.json) |
+| Retro Arcade: Pac-Man | 219421 | [219421-retro-arcade-pac-man.json](./219421-retro-arcade-pac-man.json) |
 | Retro Arcade: Space Invaders | 220106 | [220106-retro-arcade-space-invaders.json](./220106-retro-arcade-space-invaders.json) |
 | Retro Asylum | 409559 | [409559-retro-asylum.json](./409559-retro-asylum.json) |
 | Retro Ball | 309465 | [309465-retro-ball.json](./309465-retro-ball.json) |
