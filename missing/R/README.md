@@ -3700,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redline JDM Drift | 406301 | [406301-redline-jdm-drift.json](./406301-redline-jdm-drift.json) |
 | RedLine Racer | 39508 | [39508-redline-racer.json](./39508-redline-racer.json) |
 | Redline Racing | 263056 | [263056-redline-racing.json](./263056-redline-racing.json) |
+| Redline Racing GTS | 216058 | [216058-redline-racing-gts.json](./216058-redline-racing-gts.json) |
 | Redline Royale | 237633 | [237633-redline-royale.json](./237633-redline-royale.json) |
 | Redline Rumble | 388120 | [388120-redline-rumble.json](./388120-redline-rumble.json) |
 | Redline Rush | 242003 | [242003-redline-rush.json](./242003-redline-rush.json) |
@@ -5044,6 +5045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resourcer | 245945 | [245945-resourcer.json](./245945-resourcer.json) |
 | Respawn | 203851 | [203851-respawn.json](./203851-respawn.json) |
 | Respawn | 246796 | [246796-respawn.json](./246796-respawn.json) |
+| Respawn Kingdom: Team Shooter | 216057 | [216057-respawn-kingdom-team-shooter.json](./216057-respawn-kingdom-team-shooter.json) |
 | Respawn Man | 34527 | [34527-respawn-man.json](./34527-respawn-man.json) |
 | Respawnables Heroes | 149317 | [149317-respawnables-heroes.json](./149317-respawnables-heroes.json) |
 | Respawnables: Special Forces | 94784 | [94784-respawnables-special-forces.json](./94784-respawnables-special-forces.json) |
@@ -6816,6 +6818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Ages | 111564 | [111564-rise-of-ages.json](./111564-rise-of-ages.json) |
 | Rise of Agon | 57000 | [57000-rise-of-agon.json](./57000-rise-of-agon.json) |
 | Rise Of Anupet | 309644 | [309644-rise-of-anupet.json](./309644-rise-of-anupet.json) |
+| Rise of Awakened: Project E | 216056 | [216056-rise-of-awakened-project-e.json](./216056-rise-of-awakened-project-e.json) |
 | Rise of Balloons | 29100 | [29100-rise-of-balloons.json](./29100-rise-of-balloons.json) |
 | Rise of Block | 256112 | [256112-rise-of-block.json](./256112-rise-of-block.json) |
 | Rise of Castles | 305848 | [305848-rise-of-castles.json](./305848-rise-of-castles.json) |
