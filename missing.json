@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-29T09:49:21.646Z",
-  "total_missing": 278712,
+  "generated_at": "2026-10-29T10:04:24.370Z",
+  "total_missing": 278764,
   "games": [
     {
       "igdb_id": 191680,
@@ -17595,6 +17595,11 @@
       "igdb_id": 351703,
       "game_name": "A Game That Rhymes With Grug",
       "file": "missing/A/351703-a-game-that-rhymes-with-grug.json"
+    },
+    {
+      "igdb_id": 207065,
+      "game_name": "A Game That Saves the Muscles Caught in the Ceiling of the Gymnasium",
+      "file": "missing/A/207065-a-game-that-saves-the-muscles-caught-in-the-ceiling-of-the-gymnasium.json"
     },
     {
       "igdb_id": 74789,
@@ -70627,6 +70632,11 @@
       "file": "missing/A/147102-arcade-archives-the-tin-star.json"
     },
     {
+      "igdb_id": 207107,
+      "game_name": "Arcade Archives: Thunder Ceptor",
+      "file": "missing/A/207107-arcade-archives-thunder-ceptor.json"
+    },
+    {
       "igdb_id": 242052,
       "game_name": "Arcade Archives: Thunder Ceptor II",
       "file": "missing/A/242052-arcade-archives-thunder-ceptor-ii.json"
@@ -100207,6 +100217,11 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
+    },
+    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -109262,9 +109277,19 @@
       "file": "missing/B/207056-baseball-breakthrough-gaming-arcade-3-player-cooperation-edition.json"
     },
     {
+      "igdb_id": 207062,
+      "game_name": "Baseball: Breakthrough Gaming Arcade - 3 Player Cooperation Edition: Challenge Mode",
+      "file": "missing/B/207062-baseball-breakthrough-gaming-arcade-3-player-cooperation-edition-challenge-mode.json"
+    },
+    {
       "igdb_id": 207054,
       "game_name": "Baseball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition",
       "file": "missing/B/207054-baseball-breakthrough-gaming-arcade-4-player-cooperation-edition.json"
+    },
+    {
+      "igdb_id": 207064,
+      "game_name": "Baseball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition: Challenge Mode",
+      "file": "missing/B/207064-baseball-breakthrough-gaming-arcade-4-player-cooperation-edition-challenge-mode.json"
     },
     {
       "igdb_id": 207047,
@@ -136480,6 +136505,11 @@
       "igdb_id": 361391,
       "game_name": "Black Souls II",
       "file": "missing/B/361391-black-souls-ii.json"
+    },
+    {
+      "igdb_id": 207102,
+      "game_name": "Black Spire",
+      "file": "missing/B/207102-black-spire.json"
     },
     {
       "igdb_id": 380005,
@@ -193870,6 +193900,11 @@
       "igdb_id": 312759,
       "game_name": "Cat Fusion Quest",
       "file": "missing/C/312759-cat-fusion-quest.json"
+    },
+    {
+      "igdb_id": 207084,
+      "game_name": "Cat Game",
+      "file": "missing/C/207084-cat-game.json"
     },
     {
       "igdb_id": 243081,
@@ -282032,6 +282067,11 @@
       "file": "missing/D/233776-de-blob.json"
     },
     {
+      "igdb_id": 207100,
+      "game_name": "De Blob 2",
+      "file": "missing/D/207100-de-blob-2.json"
+    },
+    {
       "igdb_id": 4796,
       "game_name": "De Blob 2",
       "file": "missing/D/4796-de-blob-2.json"
@@ -312447,6 +312487,11 @@
       "file": "missing/D/191498-disgaea-6-complete-deluxe-edition.json"
     },
     {
+      "igdb_id": 207094,
+      "game_name": "Disgaea 6 Complete: Digital Dood Edition",
+      "file": "missing/D/207094-disgaea-6-complete-digital-dood-edition.json"
+    },
+    {
       "igdb_id": 238319,
       "game_name": "Disgaea 6: Defiance of Destiny - Desco",
       "file": "missing/D/238319-disgaea-6-defiance-of-destiny-desco.json"
@@ -317905,6 +317950,11 @@
       "igdb_id": 237903,
       "game_name": "Doctor Who: The Edge of Reality - Digital Deluxe Edition",
       "file": "missing/D/237903-doctor-who-the-edge-of-reality-digital-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 207092,
+      "game_name": "Doctor Who: The Edge of Reality + The Lonely Assassins",
+      "file": "missing/D/207092-doctor-who-the-edge-of-reality-the-lonely-assassins.json"
     },
     {
       "igdb_id": 118784,
@@ -363442,6 +363492,11 @@
       "file": "missing/E/212283-elemetals-deluxe-edition.json"
     },
     {
+      "igdb_id": 207105,
+      "game_name": "Elemgate",
+      "file": "missing/E/207105-elemgate.json"
+    },
+    {
       "igdb_id": 254998,
       "game_name": "Elemix!",
       "file": "missing/E/254998-elemix.json"
@@ -365670,6 +365725,11 @@
       "igdb_id": 326838,
       "game_name": "Emberfall",
       "file": "missing/E/326838-emberfall.json"
+    },
+    {
+      "igdb_id": 207069,
+      "game_name": "Emberfate: Tempest of Elements",
+      "file": "missing/E/207069-emberfate-tempest-of-elements.json"
     },
     {
       "igdb_id": 336013,
@@ -469567,6 +469627,11 @@
       "file": "missing/G/372247-ghostrunner-ii-season-pass.json"
     },
     {
+      "igdb_id": 207093,
+      "game_name": "Ghostrunner: Complete Edition",
+      "file": "missing/G/207093-ghostrunner-complete-edition.json"
+    },
+    {
       "igdb_id": 237920,
       "game_name": "Ghostrunner: Halloween Pack",
       "file": "missing/G/237920-ghostrunner-halloween-pack.json"
@@ -546987,6 +547052,11 @@
       "file": "missing/H/235160-horse-riding-tales.json"
     },
     {
+      "igdb_id": 207074,
+      "game_name": "Horse Riding: Breakthrough Gaming Arcade",
+      "file": "missing/H/207074-horse-riding-breakthrough-gaming-arcade.json"
+    },
+    {
       "igdb_id": 303569,
       "game_name": "Horse Runner DX",
       "file": "missing/H/303569-horse-runner-dx.json"
@@ -553905,6 +553975,11 @@
       "igdb_id": 259976,
       "game_name": "Hungry Froo",
       "file": "missing/H/259976-hungry-froo.json"
+    },
+    {
+      "igdb_id": 207079,
+      "game_name": "Hungry Galaxies",
+      "file": "missing/H/207079-hungry-galaxies.json"
     },
     {
       "igdb_id": 43433,
@@ -607542,6 +607617,11 @@
       "file": "missing/K/128905-k-point-ski-jumping.json"
     },
     {
+      "igdb_id": 207090,
+      "game_name": "K-Pop & Rock Band Manager",
+      "file": "missing/K/207090-k-pop-and-rock-band-manager.json"
+    },
+    {
       "igdb_id": 401102,
       "game_name": "K-Pop Fandom Korean Quiz",
       "file": "missing/K/401102-k-pop-fandom-korean-quiz.json"
@@ -619695,6 +619775,11 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
+    },
+    {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -749272,6 +749357,11 @@
       "file": "missing/M/49718-monster-gate-ooinaru-dungeon-fuuin-no-orb.json"
     },
     {
+      "igdb_id": 207103,
+      "game_name": "Monster Girl",
+      "file": "missing/M/207103-monster-girl.json"
+    },
+    {
       "igdb_id": 82764,
       "game_name": "Monster Girl * Fusion",
       "file": "missing/M/82764-monster-girl-fusion.json"
@@ -819777,6 +819867,11 @@
       "file": "missing/O/304917-omega-space.json"
     },
     {
+      "igdb_id": 207080,
+      "game_name": "Omega Squad",
+      "file": "missing/O/207080-omega-squad.json"
+    },
+    {
       "igdb_id": 39752,
       "game_name": "Omega Strike",
       "file": "missing/O/39752-omega-strike.json"
@@ -869797,6 +869892,11 @@
       "file": "missing/P/192327-pinball-breakthrough-gaming-arcade.json"
     },
     {
+      "igdb_id": 207070,
+      "game_name": "Pinball: Breakthrough Gaming Arcade - 2 Player Cooperation Edition",
+      "file": "missing/P/207070-pinball-breakthrough-gaming-arcade-2-player-cooperation-edition.json"
+    },
+    {
       "igdb_id": 228051,
       "game_name": "Pinball: Breakthrough Gaming Arcade - Challenge Mode Edition",
       "file": "missing/P/228051-pinball-breakthrough-gaming-arcade-challenge-mode-edition.json"
@@ -873215,6 +873315,11 @@
       "igdb_id": 135650,
       "game_name": "Pixboy",
       "file": "missing/P/135650-pixboy.json"
+    },
+    {
+      "igdb_id": 207078,
+      "game_name": "Pixel",
+      "file": "missing/P/207078-pixel.json"
     },
     {
       "igdb_id": 106350,
@@ -892567,6 +892672,11 @@
       "file": "missing/P/319389-pomo-post.json"
     },
     {
+      "igdb_id": 207089,
+      "game_name": "PomoFarm",
+      "file": "missing/P/207089-pomofarm.json"
+    },
+    {
       "igdb_id": 339081,
       "game_name": "PomoFish",
       "file": "missing/P/339081-pomofish.json"
@@ -895020,6 +895130,11 @@
       "igdb_id": 259723,
       "game_name": "Popstars: Deine Chance",
       "file": "missing/P/259723-popstars-deine-chance.json"
+    },
+    {
+      "igdb_id": 207083,
+      "game_name": "Poptank",
+      "file": "missing/P/207083-poptank.json"
     },
     {
       "igdb_id": 214620,
@@ -929662,6 +929777,11 @@
       "file": "missing/R/207059-racing-breakthrough-gaming-arcade-2-player-cooperation-edition.json"
     },
     {
+      "igdb_id": 207061,
+      "game_name": "Racing: Breakthrough Gaming Arcade - 2 Player Cooperation Edition: Challenge Mode",
+      "file": "missing/R/207061-racing-breakthrough-gaming-arcade-2-player-cooperation-edition-challenge-mode.json"
+    },
+    {
       "igdb_id": 207057,
       "game_name": "Racing: Breakthrough Gaming Arcade - 3 Player Cooperation Edition",
       "file": "missing/R/207057-racing-breakthrough-gaming-arcade-3-player-cooperation-edition.json"
@@ -933030,6 +933150,11 @@
       "igdb_id": 359417,
       "game_name": "Rainbow",
       "file": "missing/R/359417-rainbow.json"
+    },
+    {
+      "igdb_id": 207108,
+      "game_name": "Rainbow Advanced",
+      "file": "missing/R/207108-rainbow-advanced.json"
     },
     {
       "igdb_id": 206725,
@@ -968202,6 +968327,11 @@
       "file": "missing/R/199781-rock-paper-scissors-breakthrough-gaming-arcade.json"
     },
     {
+      "igdb_id": 207073,
+      "game_name": "Rock Paper Scissors: Breakthrough Gaming Arcade - Challenge Mode Edition",
+      "file": "missing/R/207073-rock-paper-scissors-breakthrough-gaming-arcade-challenge-mode-edition.json"
+    },
+    {
       "igdb_id": 387956,
       "game_name": "Rock Paper Scissors: Extreme Deathmatch",
       "file": "missing/R/387956-rock-paper-scissors-extreme-deathmatch.json"
@@ -991317,6 +991447,11 @@
       "file": "missing/S/206929-sanae-no-chou-tokkyuu-theexpresstrial.json"
     },
     {
+      "igdb_id": 207082,
+      "game_name": "Sanae no Gensoukyou",
+      "file": "missing/S/207082-sanae-no-gensoukyou.json"
+    },
+    {
       "igdb_id": 360893,
       "game_name": "Sanae no Youkai Taiji Shinan",
       "file": "missing/S/360893-sanae-no-youkai-taiji-shinan.json"
@@ -1005640,6 +1005775,11 @@
       "igdb_id": 292622,
       "game_name": "Seduction of Beauty",
       "file": "missing/S/292622-seduction-of-beauty.json"
+    },
+    {
+      "igdb_id": 207110,
+      "game_name": "Seduction: A Monk's Fate",
+      "file": "missing/S/207110-seduction-a-monks-fate.json"
     },
     {
       "igdb_id": 288916,
@@ -1036767,6 +1036907,11 @@
       "file": "missing/S/358842-skateboarding.json"
     },
     {
+      "igdb_id": 207076,
+      "game_name": "Skateboarding 2: Breakthrough Gaming Arcade",
+      "file": "missing/S/207076-skateboarding-2-breakthrough-gaming-arcade.json"
+    },
+    {
       "igdb_id": 143632,
       "game_name": "Skateboarding: Breakthrough Gaming Arcade",
       "file": "missing/S/143632-skateboarding-breakthrough-gaming-arcade.json"
@@ -1052187,6 +1052332,11 @@
       "file": "missing/S/401717-snow-wave-2.json"
     },
     {
+      "igdb_id": 206998,
+      "game_name": "Snow Wave: Avalanche",
+      "file": "missing/S/206998-snow-wave-avalanche.json"
+    },
+    {
       "igdb_id": 77396,
       "game_name": "Snow White and the Seven Dwarfs",
       "file": "missing/S/77396-snow-white-and-the-seven-dwarfs.json"
@@ -1053085,6 +1053235,11 @@
       "igdb_id": 216888,
       "game_name": "Snowtracked",
       "file": "missing/S/216888-snowtracked.json"
+    },
+    {
+      "igdb_id": 206997,
+      "game_name": "SnowTraxx",
+      "file": "missing/S/206997-snowtraxx.json"
     },
     {
       "igdb_id": 301300,
@@ -1054190,6 +1054345,11 @@
       "igdb_id": 241550,
       "game_name": "Soccer World Cap",
       "file": "missing/S/241550-soccer-world-cap.json"
+    },
+    {
+      "igdb_id": 207063,
+      "game_name": "Soccer: Breakthrough Gaming Arcade",
+      "file": "missing/S/207063-soccer-breakthrough-gaming-arcade.json"
     },
     {
       "igdb_id": 214904,
@@ -1068115,6 +1068275,26 @@
       "igdb_id": 145669,
       "game_name": "Space 2: Breakthrough Gaming Arcade",
       "file": "missing/S/145669-space-2-breakthrough-gaming-arcade.json"
+    },
+    {
+      "igdb_id": 207071,
+      "game_name": "Space 2: Breakthrough Gaming Arcade - 2 Player Cooperation Edition",
+      "file": "missing/S/207071-space-2-breakthrough-gaming-arcade-2-player-cooperation-edition.json"
+    },
+    {
+      "igdb_id": 207068,
+      "game_name": "Space 2: Breakthrough Gaming Arcade - 3 Player Cooperation Edition",
+      "file": "missing/S/207068-space-2-breakthrough-gaming-arcade-3-player-cooperation-edition.json"
+    },
+    {
+      "igdb_id": 207067,
+      "game_name": "Space 2: Breakthrough Gaming Arcade - 4 Player Cooperation Edition",
+      "file": "missing/S/207067-space-2-breakthrough-gaming-arcade-4-player-cooperation-edition.json"
+    },
+    {
+      "igdb_id": 207066,
+      "game_name": "Space 2: Breakthrough Gaming Arcade - Challenge Mode Edition",
+      "file": "missing/S/207066-space-2-breakthrough-gaming-arcade-challenge-mode-edition.json"
     },
     {
       "igdb_id": 159642,
@@ -1103307,6 +1103487,11 @@
       "file": "missing/S/235139-stone-wheel-2-bee-legend.json"
     },
     {
+      "igdb_id": 207112,
+      "game_name": "Stone-Jong",
+      "file": "missing/S/207112-stone-jong.json"
+    },
+    {
       "igdb_id": 180032,
       "game_name": "StoneBack",
       "file": "missing/S/180032-stoneback.json"
@@ -1105212,6 +1105397,11 @@
       "file": "missing/S/187952-strange-investigations-becoming.json"
     },
     {
+      "igdb_id": 207086,
+      "game_name": "Strange Investigations: Becoming - Collector's Edition",
+      "file": "missing/S/207086-strange-investigations-becoming-collectors-edition.json"
+    },
+    {
       "igdb_id": 256713,
       "game_name": "Strange Investigations: Secrets Can be Deadly - Collector's Edition",
       "file": "missing/S/256713-strange-investigations-secrets-can-be-deadly-collectors-edition.json"
@@ -1105220,6 +1105410,11 @@
       "igdb_id": 356764,
       "game_name": "Strange Investigations: Truth Will Out - Collector's Edition",
       "file": "missing/S/356764-strange-investigations-truth-will-out-collectors-edition.json"
+    },
+    {
+      "igdb_id": 207087,
+      "game_name": "Strange Investigations: Two for Solitaire - Collector's Edition",
+      "file": "missing/S/207087-strange-investigations-two-for-solitaire-collectors-edition.json"
     },
     {
       "igdb_id": 310096,
@@ -1132375,6 +1132570,11 @@
       "igdb_id": 314863,
       "game_name": "Supermarket Manager Simulator",
       "file": "missing/S/314863-supermarket-manager-simulator.json"
+    },
+    {
+      "igdb_id": 206995,
+      "game_name": "Supermarket Mania",
+      "file": "missing/S/206995-supermarket-mania.json"
     },
     {
       "igdb_id": 23664,
@@ -1167512,6 +1167712,11 @@
       "file": "missing/T/213221-the-accursed-crown.json"
     },
     {
+      "igdb_id": 207077,
+      "game_name": "The Accursed Crown of the Giant King",
+      "file": "missing/T/207077-the-accursed-crown-of-the-giant-king.json"
+    },
+    {
       "igdb_id": 207774,
       "game_name": "The Accursed Crown of the Giant King: Chapter 2 - The Duchy of Despair",
       "file": "missing/T/207774-the-accursed-crown-of-the-giant-king-chapter-2-the-duchy-of-despair.json"
@@ -1193972,6 +1194177,16 @@
       "file": "missing/T/230304-the-jumping-salad-turbo.json"
     },
     {
+      "igdb_id": 207106,
+      "game_name": "The Jumping Sandwich",
+      "file": "missing/T/207106-the-jumping-sandwich.json"
+    },
+    {
+      "igdb_id": 207111,
+      "game_name": "The Jumping Sandwich: Turbo",
+      "file": "missing/T/207111-the-jumping-sandwich-turbo.json"
+    },
+    {
       "igdb_id": 356514,
       "game_name": "The Jumping Shaped Fries",
       "file": "missing/T/356514-the-jumping-shaped-fries.json"
@@ -1195515,6 +1195730,11 @@
       "igdb_id": 45068,
       "game_name": "The Land Before Time: Big Water Adventure",
       "file": "missing/T/45068-the-land-before-time-big-water-adventure.json"
+    },
+    {
+      "igdb_id": 206996,
+      "game_name": "The Land Before Time: Dinosaur Arcade",
+      "file": "missing/T/206996-the-land-before-time-dinosaur-arcade.json"
     },
     {
       "igdb_id": 45069,
@@ -1200892,6 +1201112,11 @@
       "file": "missing/T/240794-the-little-witch-shop-new-in-town.json"
     },
     {
+      "igdb_id": 206999,
+      "game_name": "The Little Wizard",
+      "file": "missing/T/206999-the-little-wizard.json"
+    },
+    {
       "igdb_id": 333337,
       "game_name": "The Little World",
       "file": "missing/T/333337-the-little-world.json"
@@ -1201390,6 +1201615,11 @@
       "igdb_id": 275924,
       "game_name": "The Lord of the Rings Online: Minas Morgul",
       "file": "missing/T/275924-the-lord-of-the-rings-online-minas-morgul.json"
+    },
+    {
+      "igdb_id": 207000,
+      "game_name": "The Lord of the Rings Online: Mithril Edition",
+      "file": "missing/T/207000-the-lord-of-the-rings-online-mithril-edition.json"
     },
     {
       "igdb_id": 46778,
@@ -1211365,6 +1211595,11 @@
       "igdb_id": 218651,
       "game_name": "The Real World",
       "file": "missing/T/218651-the-real-world.json"
+    },
+    {
+      "igdb_id": 207001,
+      "game_name": "The Realm",
+      "file": "missing/T/207001-the-realm.json"
     },
     {
       "igdb_id": 292558,
@@ -1224075,6 +1224310,11 @@
       "igdb_id": 394454,
       "game_name": "The Undermall",
       "file": "missing/T/394454-the-undermall.json"
+    },
+    {
+      "igdb_id": 207085,
+      "game_name": "The Unders_core",
+      "file": "missing/T/207085-the-unders-core.json"
     },
     {
       "igdb_id": 273819,
@@ -1256245,6 +1256485,11 @@
       "igdb_id": 143067,
       "game_name": "Topgolf with Pro Putt",
       "file": "missing/T/143067-topgolf-with-pro-putt.json"
+    },
+    {
+      "igdb_id": 207104,
+      "game_name": "Tophat Quest",
+      "file": "missing/T/207104-tophat-quest.json"
     },
     {
       "igdb_id": 336508,
@@ -1328552,6 +1328797,11 @@
       "file": "missing/W/370164-wandering-hunter.json"
     },
     {
+      "igdb_id": 207072,
+      "game_name": "Wandering in Space",
+      "file": "missing/W/207072-wandering-in-space.json"
+    },
+    {
       "igdb_id": 244309,
       "game_name": "Wandering in Space Online VR",
       "file": "missing/W/244309-wandering-in-space-online-vr.json"
@@ -1337450,6 +1337700,11 @@
       "igdb_id": 383019,
       "game_name": "Way of the Hunter 2",
       "file": "missing/W/383019-way-of-the-hunter-2.json"
+    },
+    {
+      "igdb_id": 207091,
+      "game_name": "Way of the Hunter: Elite Edition",
+      "file": "missing/W/207091-way-of-the-hunter-elite-edition.json"
     },
     {
       "igdb_id": 403804,
@@ -1373170,6 +1373425,11 @@
       "igdb_id": 322399,
       "game_name": "Yakuza Shadows of New York",
       "file": "missing/Y/322399-yakuza-shadows-of-new-york.json"
+    },
+    {
+      "igdb_id": 207088,
+      "game_name": "Yakuza Undisputed",
+      "file": "missing/Y/207088-yakuza-undisputed.json"
     },
     {
       "igdb_id": 7489,
