@@ -4834,6 +4834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunting 2018 | 107058 | [107058-deer-hunting-2018.json](./107058-deer-hunting-2018.json) |
 | Deer Hunting King | 85076 | [85076-deer-hunting-king.json](./85076-deer-hunting-king.json) |
 | Deer in the Headlights | 302177 | [302177-deer-in-the-headlights.json](./302177-deer-in-the-headlights.json) |
+| Deer Journey | 207613 | [207613-deer-journey.json](./207613-deer-journey.json) |
 | Deer Legend | 398182 | [398182-deer-legend.json](./398182-deer-legend.json) |
 | Deer Man | 19045 | [19045-deer-man.json](./19045-deer-man.json) |
 | Deer Napped | 93223 | [93223-deer-napped.json](./93223-deer-napped.json) |
