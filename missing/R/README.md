@@ -2893,6 +2893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reapers | 267448 | [267448-reapers.json](./267448-reapers.json) |
 | Reapers Inc. | 258573 | [258573-reapers-inc.json](./258573-reapers-inc.json) |
 | Reapers Reception | 406923 | [406923-reapers-reception.json](./406923-reapers-reception.json) |
+| Reapertom | 217130 | [217130-reapertom.json](./217130-reapertom.json) |
 | Reaping Rewards | 41143 | [41143-reaping-rewards.json](./41143-reaping-rewards.json) |
 | Reaplaced | 270545 | [270545-reaplaced.json](./270545-reaplaced.json) |
 | Reappearance of a Stopped Clock | 398184 | [398184-reappearance-of-a-stopped-clock.json](./398184-reappearance-of-a-stopped-clock.json) |
@@ -6665,6 +6666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringling Bros. and Barnum & Bailey Circus | 67320 | [67320-ringling-bros-and-barnum-and-bailey-circus.json](./67320-ringling-bros-and-barnum-and-bailey-circus.json) |
 | Ringling Bros. and Barnum & Bailey: Circus Friends - Asian Elephants | 209163 | [209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json](./209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json) |
 | Ringling Brothers and Barnum & Bailey | 51136 | [51136-ringling-brothers-and-barnum-and-bailey.json](./51136-ringling-brothers-and-barnum-and-bailey.json) |
+| Ringlorn Saga | 217145 | [217145-ringlorn-saga.json](./217145-ringlorn-saga.json) |
 | Ringlorn Saga Gaiden | 240753 | [240753-ringlorn-saga-gaiden.json](./240753-ringlorn-saga-gaiden.json) |
 | Ringo Party | 296867 | [296867-ringo-party.json](./296867-ringo-party.json) |
 | Ringo Sour | 98032 | [98032-ringo-sour.json](./98032-ringo-sour.json) |
