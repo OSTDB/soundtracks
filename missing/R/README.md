@@ -3832,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reenchant | 365732 | [365732-reenchant.json](./365732-reenchant.json) |
 | Reese's Pac-Man | 172487 | [172487-reeses-pac-man.json](./172487-reeses-pac-man.json) |
 | Reese’s Puffs x Ambush Breakfastverse | 236682 | [236682-reese-s-puffs-x-ambush-breakfastverse.json](./236682-reese-s-puffs-x-ambush-breakfastverse.json) |
+| Reese's Snake | 213155 | [213155-reeses-snake.json](./213155-reeses-snake.json) |
 | ReEstate | 197409 | [197409-reestate.json](./197409-reestate.json) |
 | Reeve | 223463 | [223463-reeve.json](./223463-reeve.json) |
 | ReEvolve | 103178 | [103178-reevolve.json](./103178-reevolve.json) |
@@ -7603,6 +7604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robert Rodriguez's The Limit: An Immersive Cinema Experience | 112843 | [112843-robert-rodriguezs-the-limit-an-immersive-cinema-experience.json](./112843-robert-rodriguezs-the-limit-an-immersive-cinema-experience.json) |
 | Robert: Space Stories and Battles | 190064 | [190064-robert-space-stories-and-battles.json](./190064-robert-space-stories-and-battles.json) |
 | Robert's Spooktacular Ghost Train | 320775 | [320775-roberts-spooktacular-ghost-train.json](./320775-roberts-spooktacular-ghost-train.json) |
+| Roberta Williams' King's Quest I: Quest for the Crown | 213153 | [213153-roberta-williams-kings-quest-i-quest-for-the-crown.json](./213153-roberta-williams-kings-quest-i-quest-for-the-crown.json) |
 | Robertinho Adventures | 390179 | [390179-robertinho-adventures.json](./390179-robertinho-adventures.json) |
 | Roberto el Lagarto | 302618 | [302618-roberto-el-lagarto.json](./302618-roberto-el-lagarto.json) |
 | Roberto Selavino's Putting Championship | 60853 | [60853-roberto-selavinos-putting-championship.json](./60853-roberto-selavinos-putting-championship.json) |
