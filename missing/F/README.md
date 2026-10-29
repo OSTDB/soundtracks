@@ -1352,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Bible Quest | 335322 | [335322-family-bible-quest.json](./335322-family-bible-quest.json) |
 | Family Billiards | 161760 | [161760-family-billiards.json](./161760-family-billiards.json) |
 | Family Bowling | 135648 | [135648-family-bowling.json](./135648-family-bowling.json) |
+| Family Bundle | 223759 | [223759-family-bundle.json](./223759-family-bundle.json) |
 | Family Bundle | 370825 | [370825-family-bundle.json](./370825-family-bundle.json) |
 | Family Business | 235669 | [235669-family-business.json](./235669-family-business.json) |
 | Family Card Games Fun Pack | 82139 | [82139-family-card-games-fun-pack.json](./82139-family-card-games-fun-pack.json) |
