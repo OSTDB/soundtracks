@@ -17024,13 +17024,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Cuatro Colinas Game Reserve | 154340 | [154340-thehunter-call-of-the-wild-cuatro-colinas-game-reserve.json](./154340-thehunter-call-of-the-wild-cuatro-colinas-game-reserve.json) |
 | TheHunter: Call of the Wild - Duck and Cover Pack | 206814 | [206814-thehunter-call-of-the-wild-duck-and-cover-pack.json](./206814-thehunter-call-of-the-wild-duck-and-cover-pack.json) |
 | TheHunter: Call of the Wild - Emerald Coast Cosmetic Pack | 290768 | [290768-thehunter-call-of-the-wild-emerald-coast-cosmetic-pack.json](./290768-thehunter-call-of-the-wild-emerald-coast-cosmetic-pack.json) |
+| TheHunter: Call of the Wild - Essentials DLC Bundle | 227464 | [227464-thehunter-call-of-the-wild-essentials-dlc-bundle.json](./227464-thehunter-call-of-the-wild-essentials-dlc-bundle.json) |
 | TheHunter: Call of the Wild - Facing the Wild 1 | 206822 | [206822-thehunter-call-of-the-wild-facing-the-wild-1.json](./206822-thehunter-call-of-the-wild-facing-the-wild-1.json) |
 | TheHunter: Call of the Wild - Free Species: European Rabbit | 206796 | [206796-thehunter-call-of-the-wild-free-species-european-rabbit.json](./206796-thehunter-call-of-the-wild-free-species-european-rabbit.json) |
+| TheHunter: Call of the Wild - Greenhorn Bundle | 227454 | [227454-thehunter-call-of-the-wild-greenhorn-bundle.json](./227454-thehunter-call-of-the-wild-greenhorn-bundle.json) |
 | TheHunter: Call of the Wild - High Caliber Weapon Pack | 290767 | [290767-thehunter-call-of-the-wild-high-caliber-weapon-pack.json](./290767-thehunter-call-of-the-wild-high-caliber-weapon-pack.json) |
 | TheHunter: Call of the Wild - High-Tech Hunting Pack | 206799 | [206799-thehunter-call-of-the-wild-high-tech-hunting-pack.json](./206799-thehunter-call-of-the-wild-high-tech-hunting-pack.json) |
 | TheHunter: Call of the Wild - Hirschfelden Veteran Cosmetic Pack | 266392 | [266392-thehunter-call-of-the-wild-hirschfelden-veteran-cosmetic-pack.json](./266392-thehunter-call-of-the-wild-hirschfelden-veteran-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Hunter Power Pack | 266390 | [266390-thehunter-call-of-the-wild-hunter-power-pack.json](./266390-thehunter-call-of-the-wild-hunter-power-pack.json) |
 | TheHunter: Call of the Wild - Labrador Retriever | 276597 | [276597-thehunter-call-of-the-wild-labrador-retriever.json](./276597-thehunter-call-of-the-wild-labrador-retriever.json) |
+| TheHunter: Call of the Wild - Master Hunter Bundle | 227453 | [227453-thehunter-call-of-the-wild-master-hunter-bundle.json](./227453-thehunter-call-of-the-wild-master-hunter-bundle.json) |
 | TheHunter: Call of the Wild - Medved-Taiga | 154341 | [154341-thehunter-call-of-the-wild-medved-taiga.json](./154341-thehunter-call-of-the-wild-medved-taiga.json) |
 | TheHunter: Call of the Wild - Medved-Taiga Cosmetic Pack | 271134 | [271134-thehunter-call-of-the-wild-medved-taiga-cosmetic-pack.json](./271134-thehunter-call-of-the-wild-medved-taiga-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Mississippi Acres Cosmetic Pack | 280369 | [280369-thehunter-call-of-the-wild-mississippi-acres-cosmetic-pack.json](./280369-thehunter-call-of-the-wild-mississippi-acres-cosmetic-pack.json) |
@@ -17051,6 +17054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Revontuli Coast Cosmetic Pack | 280371 | [280371-thehunter-call-of-the-wild-revontuli-coast-cosmetic-pack.json](./280371-thehunter-call-of-the-wild-revontuli-coast-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Saseka Safari Trophy Lodge | 206798 | [206798-thehunter-call-of-the-wild-saseka-safari-trophy-lodge.json](./206798-thehunter-call-of-the-wild-saseka-safari-trophy-lodge.json) |
 | TheHunter: Call of the Wild - Scopes and Crosshairs Pack | 331918 | [331918-thehunter-call-of-the-wild-scopes-and-crosshairs-pack.json](./331918-thehunter-call-of-the-wild-scopes-and-crosshairs-pack.json) |
+| TheHunter: Call of the Wild - Seasoned Hunter Bundle | 227452 | [227452-thehunter-call-of-the-wild-seasoned-hunter-bundle.json](./227452-thehunter-call-of-the-wild-seasoned-hunter-bundle.json) |
 | TheHunter: Call of the Wild - Shooting Range | 206821 | [206821-thehunter-call-of-the-wild-shooting-range.json](./206821-thehunter-call-of-the-wild-shooting-range.json) |
 | TheHunter: Call of the Wild - Silver Ridge Peaks | 154339 | [154339-thehunter-call-of-the-wild-silver-ridge-peaks.json](./154339-thehunter-call-of-the-wild-silver-ridge-peaks.json) |
 | TheHunter: Call of the Wild - Silver Ridge Peaks Cosmetic Pack | 280372 | [280372-thehunter-call-of-the-wild-silver-ridge-peaks-cosmetic-pack.json](./280372-thehunter-call-of-the-wild-silver-ridge-peaks-cosmetic-pack.json) |
@@ -20883,6 +20887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tizi Airport | 299219 | [299219-tizi-airport.json](./299219-tizi-airport.json) |
 | Tizi Town: Airport Adventure | 227481 | [227481-tizi-town-airport-adventure.json](./227481-tizi-town-airport-adventure.json) |
 | Tizi Town: Doll Dress Up Games | 299214 | [299214-tizi-town-doll-dress-up-games.json](./299214-tizi-town-doll-dress-up-games.json) |
+| Tizi Town: Hospital | 227531 | [227531-tizi-town-hospital.json](./227531-tizi-town-hospital.json) |
 | Tizi Town: My Hotel Games | 299207 | [299207-tizi-town-my-hotel-games.json](./299207-tizi-town-my-hotel-games.json) |
 | Tizi Town: Room Design | 299216 | [299216-tizi-town-room-design.json](./299216-tizi-town-room-design.json) |
 | TJ's Reel Extreme CD Room | 206780 | [206780-tjs-reel-extreme-cd-room.json](./206780-tjs-reel-extreme-cd-room.json) |
@@ -23250,6 +23255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Mutsuigeki: Concealed the Conclusion | 51266 | [51266-touhou-mutsuigeki-concealed-the-conclusion.json](./51266-touhou-mutsuigeki-concealed-the-conclusion.json) |
 | Touhou Mystery Reel | 192886 | [192886-touhou-mystery-reel.json](./192886-touhou-mystery-reel.json) |
 | Touhou Mystia's Izakaya DLC 2 Pack: Former Hell & Chireiden | 209760 | [209760-touhou-mystias-izakaya-dlc-2-pack-former-hell-and-chireiden.json](./209760-touhou-mystias-izakaya-dlc-2-pack-former-hell-and-chireiden.json) |
+| Touhou Mystia's Izakaya DLC 2.5 Pack | 227461 | [227461-touhou-mystias-izakaya-dlc-2-5-pack.json](./227461-touhou-mystias-izakaya-dlc-2-5-pack.json) |
 | Touhou Mystia's Izakaya DLC 4 Pack: Garden of the Sun & Shining Needle Castle | 301315 | [301315-touhou-mystias-izakaya-dlc-4-pack-garden-of-the-sun-and-shining-needle-castle.json](./301315-touhou-mystias-izakaya-dlc-4-pack-garden-of-the-sun-and-shining-needle-castle.json) |
 | Touhou Mystia's Izakaya DLC1 Pack: Forest of Magic & Youkai Mountain | 209735 | [209735-touhou-mystias-izakaya-dlc1-pack-forest-of-magic-and-youkai-mountain.json](./209735-touhou-mystias-izakaya-dlc1-pack-forest-of-magic-and-youkai-mountain.json) |
 | Touhou Mystia's Izakaya DLC5 Pack: Makai & Lunar Capital | 301317 | [301317-touhou-mystias-izakaya-dlc5-pack-makai-and-lunar-capital.json](./301317-touhou-mystias-izakaya-dlc5-pack-makai-and-lunar-capital.json) |
@@ -27539,6 +27545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Raid | 252816 | [252816-truck-raid.json](./252816-truck-raid.json) |
 | Truck Rally | 342608 | [342608-truck-rally.json](./342608-truck-rally.json) |
 | Truck Rally Hyper Hardcore | 383158 | [383158-truck-rally-hyper-hardcore.json](./383158-truck-rally-hyper-hardcore.json) |
+| Truck Rider | 227465 | [227465-truck-rider.json](./227465-truck-rider.json) |
 | Truck Sim 2024 | 287159 | [287159-truck-sim-2024.json](./287159-truck-sim-2024.json) |
 | Truck Simulation 19 | 111747 | [111747-truck-simulation-19.json](./111747-truck-simulation-19.json) |
 | Truck Simulator & World of Machines: Game Bundle Collection | 263562 | [263562-truck-simulator-and-world-of-machines-game-bundle-collection.json](./263562-truck-simulator-and-world-of-machines-game-bundle-collection.json) |
