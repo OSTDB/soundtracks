@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Boyfriend | 298882 | [298882-fairy-boyfriend.json](./298882-fairy-boyfriend.json) |
 | Fairy Bubble | 172100 | [172100-fairy-bubble.json](./172100-fairy-bubble.json) |
 | Fairy Card Battlers | 320613 | [320613-fairy-card-battlers.json](./320613-fairy-card-battlers.json) |
+| Fairy Card Rogue | 226503 | [226503-fairy-card-rogue.json](./226503-fairy-card-rogue.json) |
 | Fairy Carrots | 276838 | [276838-fairy-carrots.json](./276838-fairy-carrots.json) |
 | Fairy Comedy: A Love Hard To Find | 275527 | [275527-fairy-comedy-a-love-hard-to-find.json](./275527-fairy-comedy-a-love-hard-to-find.json) |
 | Fairy Elements | 214643 | [214643-fairy-elements.json](./214643-fairy-elements.json) |
@@ -2899,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fated Mate | 381974 | [381974-fated-mate.json](./381974-fated-mate.json) |
 | Fated Souls | 35250 | [35250-fated-souls.json](./35250-fated-souls.json) |
 | Fated: The Silent Oath | 19013 | [19013-fated-the-silent-oath.json](./19013-fated-the-silent-oath.json) |
+| Fateel | 226504 | [226504-fateel.json](./226504-fateel.json) |
 | Fateful Dealings | 182868 | [182868-fateful-dealings.json](./182868-fateful-dealings.json) |
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
 | Fateful Mages | 242968 | [242968-fateful-mages.json](./242968-fateful-mages.json) |
@@ -8131,6 +8133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footballer of the Year 2 | 41004 | [41004-footballer-of-the-year-2.json](./41004-footballer-of-the-year-2.json) |
 | FootballTeam | 153801 | [153801-footballteam.json](./153801-footballteam.json) |
 | FootGoal! Tiki Taka | 147921 | [147921-footgoal-tiki-taka.json](./147921-footgoal-tiki-taka.json) |
+| Footgun: Underground | 226468 | [226468-footgun-underground.json](./226468-footgun-underground.json) |
 | Foothold VR | 283409 | [283409-foothold-vr.json](./283409-foothold-vr.json) |
 | Footie | 268485 | [268485-footie.json](./268485-footie.json) |
 | FootLOL: Crazy Soccer! | 102620 | [102620-footlol-crazy-soccer.json](./102620-footlol-crazy-soccer.json) |
