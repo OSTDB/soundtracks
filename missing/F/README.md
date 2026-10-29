@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FaceYourFear | 295822 | [295822-faceyourfear.json](./295822-faceyourfear.json) |
 | Facility | 190985 | [190985-facility.json](./190985-facility.json) |
 | Facility 079 | 291041 | [291041-facility-079.json](./291041-facility-079.json) |
+| Facility 386 | 192017 | [192017-facility-386.json](./192017-facility-386.json) |
 | Facility 47 | 90790 | [90790-facility-47.json](./90790-facility-47.json) |
 | Facination | 38862 | [38862-facination.json](./38862-facination.json) |
 | Facing | 384162 | [384162-facing.json](./384162-facing.json) |
