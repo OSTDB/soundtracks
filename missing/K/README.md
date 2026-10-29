@@ -2484,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3860,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knack! | 88474 | [88474-knack.json](./88474-knack.json) |
 | Knack' den Code | 78097 | [78097-knack-den-code.json](./78097-knack-den-code.json) |
 | Knack's Quest | 62659 | [62659-knacks-quest.json](./62659-knacks-quest.json) |
+| Knaddskogen | 179866 | [179866-knaddskogen.json](./179866-knaddskogen.json) |
 | Knee Deep | 19089 | [19089-knee-deep.json](./19089-knee-deep.json) |
 | Knee-deep in 2023 | 261822 | [261822-knee-deep-in-2023.json](./261822-knee-deep-in-2023.json) |
 | Knee-Deep in Kdizd | 260668 | [260668-knee-deep-in-kdizd.json](./260668-knee-deep-in-kdizd.json) |
