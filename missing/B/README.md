@@ -855,7 +855,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5113,6 +5112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Becut | 309665 | [309665-becut.json](./309665-becut.json) |
 | Bed Bounce | 313125 | [313125-bed-bounce.json](./313125-bed-bounce.json) |
 | Bed Bugs! | 15665 | [15665-bed-bugs.json](./15665-bed-bugs.json) |
+| Bed Hogg | 177698 | [177698-bed-hogg.json](./177698-bed-hogg.json) |
 | Bed Lying Simulator: Girlfriend Experience | 292680 | [292680-bed-lying-simulator-girlfriend-experience.json](./292680-bed-lying-simulator-girlfriend-experience.json) |
 | Bed Survival | 145648 | [145648-bed-survival.json](./145648-bed-survival.json) |
 | Bed Wars | 265850 | [265850-bed-wars.json](./265850-bed-wars.json) |
@@ -6582,6 +6582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Breakfast 2 | 416846 | [416846-big-breakfast-2.json](./416846-big-breakfast-2.json) |
 | Big Brother | 201165 | [201165-big-brother.json](./201165-big-brother.json) |
 | Big Brother Brasil | 140880 | [140880-big-brother-brasil.json](./140880-big-brother-brasil.json) |
+| Big Brother Brasil 3D Online | 178205 | [178205-big-brother-brasil-3d-online.json](./178205-big-brother-brasil-3d-online.json) |
 | Big Brother Series 2: The Game | 72753 | [72753-big-brother-series-2-the-game.json](./72753-big-brother-series-2-the-game.json) |
 | Big Brother: The Game | 139906 | [139906-big-brother-the-game.json](./139906-big-brother-the-game.json) |
 | Big Brother: The Game | 66035 | [66035-big-brother-the-game.json](./66035-big-brother-the-game.json) |
@@ -10419,6 +10420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Wednesday | 216668 | [216668-blue-wednesday.json](./216668-blue-wednesday.json) |
 | Blue Wednesday: Deluxe Edition | 280633 | [280633-blue-wednesday-deluxe-edition.json](./280633-blue-wednesday-deluxe-edition.json) |
 | Blue Whale | 75320 | [75320-blue-whale.json](./75320-blue-whale.json) |
+| Blue Wish Desire | 178236 | [178236-blue-wish-desire.json](./178236-blue-wish-desire.json) |
 | Blue Wish Resurrection Plus | 122850 | [122850-blue-wish-resurrection-plus.json](./122850-blue-wish-resurrection-plus.json) |
 | Blue Wyrm | 331956 | [331956-blue-wyrm.json](./331956-blue-wyrm.json) |
 | Blue-Sky-Blue(s): Sora o Mau Tsubasa | 271420 | [271420-blue-sky-blue-s-sora-o-mau-tsubasa.json](./271420-blue-sky-blue-s-sora-o-mau-tsubasa.json) |
@@ -10879,6 +10881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boing! The Game | 15703 | [15703-boing-the-game.json](./15703-boing-the-game.json) |
 | BoingBoingOuch | 196480 | [196480-boingboingouch.json](./196480-boingboingouch.json) |
 | Boinggg! | 13419 | [13419-boinggg.json](./13419-boinggg.json) |
+| Boingkid | 177682 | [177682-boingkid.json](./177682-boingkid.json) |
 | Boingus' Big Day | 411981 | [411981-boingus-big-day.json](./411981-boingus-big-day.json) |
 | Boingz | 51082 | [51082-boingz.json](./51082-boingz.json) |
 | Boinihi: The Ki Codex | 172188 | [172188-boinihi-the-ki-codex.json](./172188-boinihi-the-ki-codex.json) |
@@ -10942,6 +10945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku wa Koukuu Kanseikan: Airport Hero 3D - Kankuu All Stars | 222426 | [222426-boku-wa-koukuu-kanseikan-airport-hero-3d-kankuu-all-stars.json](./222426-boku-wa-koukuu-kanseikan-airport-hero-3d-kankuu-all-stars.json) |
 | Boku wa Koukuu Kanseikan: Airport Hero 3D Haneda with JAL | 78708 | [78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json](./78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json) |
 | Boku wo Sodatete! Nyanda Seijin | 349733 | [349733-boku-wo-sodatete-nyanda-seijin.json](./349733-boku-wo-sodatete-nyanda-seijin.json) |
+| Boku Yume No Tatsujin | 178221 | [178221-boku-yume-no-tatsujin.json](./178221-boku-yume-no-tatsujin.json) |
 | Boku, Doraemon | 66134 | [66134-boku-doraemon.json](./66134-boku-doraemon.json) |
 | Bokuaso | 98005 | [98005-bokuaso.json](./98005-bokuaso.json) |
 | Bokuaso2 | 97826 | [97826-bokuaso2.json](./97826-bokuaso2.json) |
@@ -11310,6 +11314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonbonribbon: Tokimeki Coord Kirakira Dance | 222419 | [222419-bonbonribbon-tokimeki-coord-kirakira-dance.json](./222419-bonbonribbon-tokimeki-coord-kirakira-dance.json) |
 | Bond | 302388 | [302388-bond.json](./302388-bond.json) |
 | Bond Blues | 293107 | [293107-bond-blues.json](./293107-bond-blues.json) |
+| Bond: Wish of the Forest | 178193 | [178193-bond-wish-of-the-forest.json](./178193-bond-wish-of-the-forest.json) |
 | Bondage Black Jack | 151621 | [151621-bondage-black-jack.json](./151621-bondage-black-jack.json) |
 | Bondage Girl | 156715 | [156715-bondage-girl.json](./156715-bondage-girl.json) |
 | Bondage Nightmare | 385897 | [385897-bondage-nightmare.json](./385897-bondage-nightmare.json) |
@@ -11494,6 +11499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boodunnit | 143556 | [143556-boodunnit.json](./143556-boodunnit.json) |
 | Booeys: Rip in the Rift | 292246 | [292246-booeys-rip-in-the-rift.json](./292246-booeys-rip-in-the-rift.json) |
 | Boofie's Birthday Adventure | 340246 | [340246-boofies-birthday-adventure.json](./340246-boofies-birthday-adventure.json) |
+| Boofie's Bunker | 177717 | [177717-boofies-bunker.json](./177717-boofies-bunker.json) |
 | Boofle's Home | 29068 | [29068-boofles-home.json](./29068-boofles-home.json) |
 | Boog Adventure | 155472 | [155472-boog-adventure.json](./155472-boog-adventure.json) |
 | Boogaloopers | 62752 | [62752-boogaloopers.json](./62752-boogaloopers.json) |
@@ -14079,6 +14085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Build Simulator | 217415 | [217415-broken-build-simulator.json](./217415-broken-build-simulator.json) |
 | Broken Cavalier | 214052 | [214052-broken-cavalier.json](./214052-broken-cavalier.json) |
 | Broken Colors | 250302 | [250302-broken-colors.json](./250302-broken-colors.json) |
+| Broken Computer's Dream | 178216 | [178216-broken-computers-dream.json](./178216-broken-computers-dream.json) |
 | Broken Core | 126328 | [126328-broken-core.json](./126328-broken-core.json) |
 | Broken Covenant | 282699 | [282699-broken-covenant.json](./282699-broken-covenant.json) |
 | Broken Crescent | 356248 | [356248-broken-crescent.json](./356248-broken-crescent.json) |
@@ -14379,6 +14386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal: Paws of Fury | 4449 | [4449-brutal-paws-of-fury.json](./4449-brutal-paws-of-fury.json) |
 | BrutalAliens | 107903 | [107903-brutalaliens.json](./107903-brutalaliens.json) |
 | Brutalism | 89979 | [89979-brutalism.json](./89979-brutalism.json) |
+| Brutalism: Prelude on Stone | 177713 | [177713-brutalism-prelude-on-stone.json](./177713-brutalism-prelude-on-stone.json) |
 | Brutalism22 | 244470 | [244470-brutalism22.json](./244470-brutalism22.json) |
 | Brutalismus: Chapter 1 | 294061 | [294061-brutalismus-chapter-1.json](./294061-brutalismus-chapter-1.json) |
 | Brutalismus: Dystopia | 355076 | [355076-brutalismus-dystopia.json](./355076-brutalismus-dystopia.json) |
