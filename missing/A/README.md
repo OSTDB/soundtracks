@@ -15923,6 +15923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayumi-chan Monogatari | 41410 | [41410-ayumi-chan-monogatari.json](./41410-ayumi-chan-monogatari.json) |
 | Ayumi-chan Monogatari: Jisshaban | 41411 | [41411-ayumi-chan-monogatari-jisshaban.json](./41411-ayumi-chan-monogatari-jisshaban.json) |
 | Ayumi: Enhanced Edition | 32192 | [32192-ayumi-enhanced-edition.json](./32192-ayumi-enhanced-edition.json) |
+| Ayumi's Little Adventure | 216010 | [216010-ayumis-little-adventure.json](./216010-ayumis-little-adventure.json) |
 | AyuPac | 222825 | [222825-ayupac.json](./222825-ayupac.json) |
 | Ayyylando | 219658 | [219658-ayyylando.json](./219658-ayyylando.json) |
 | AZ Rockets | 98891 | [98891-az-rockets.json](./98891-az-rockets.json) |
