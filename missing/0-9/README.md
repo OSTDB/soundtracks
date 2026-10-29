@@ -2553,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 Monsters | 259377 | [259377-50-monsters.json](./259377-50-monsters.json) |
 | 50 More Classic Games | 137413 | [137413-50-more-classic-games.json](./137413-50-more-classic-games.json) |
 | 50 Pinch Barrage!! | 21670 | [21670-50-pinch-barrage.json](./21670-50-pinch-barrage.json) |
+| 50 Rooms: Mystery World Escape | 219937 | [219937-50-rooms-mystery-world-escape.json](./219937-50-rooms-mystery-world-escape.json) |
 | 50 Shades of Graytall | 141084 | [141084-50-shades-of-graytall.json](./141084-50-shades-of-graytall.json) |
 | 50 Tiny Room Escape | 297545 | [297545-50-tiny-room-escape.json](./297545-50-tiny-room-escape.json) |
 | 50 Waves Hero | 164981 | [164981-50-waves-hero.json](./164981-50-waves-hero.json) |
