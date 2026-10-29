@@ -8802,6 +8802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Seas | 233582 | [233582-forgotten-seas.json](./233582-forgotten-seas.json) |
 | Forgotten Signal: Portal | 348389 | [348389-forgotten-signal-portal.json](./348389-forgotten-signal-portal.json) |
 | Forgotten Skies | 300465 | [300465-forgotten-skies.json](./300465-forgotten-skies.json) |
+| Forgotten Souls | 189824 | [189824-forgotten-souls.json](./189824-forgotten-souls.json) |
 | Forgotten Sound 1: Revelation | 83595 | [83595-forgotten-sound-1-revelation.json](./83595-forgotten-sound-1-revelation.json) |
 | Forgotten Sound 2: Destiny | 83545 | [83545-forgotten-sound-2-destiny.json](./83545-forgotten-sound-2-destiny.json) |
 | Forgotten Spirit | 327923 | [327923-forgotten-spirit.json](./327923-forgotten-spirit.json) |
@@ -9553,6 +9554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fountaintale | 313435 | [313435-fountaintale.json](./313435-fountaintale.json) |
 | Fountaintale: Chapter 1 | 313436 | [313436-fountaintale-chapter-1.json](./313436-fountaintale-chapter-1.json) |
 | Four | 37306 | [37306-four.json](./37306-four.json) |
+| Four Animals | 189819 | [189819-four-animals.json](./189819-four-animals.json) |
 | Four Before Midnight | 297560 | [297560-four-before-midnight.json](./297560-four-before-midnight.json) |
 | Four Bombs | 383756 | [383756-four-bombs.json](./383756-four-bombs.json) |
 | Four Bombs | 85158 | [85158-four-bombs.json](./85158-four-bombs.json) |
@@ -11309,6 +11311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Attack | 70621 | [70621-fruit-attack.json](./70621-fruit-attack.json) |
 | Fruit Attack!! | 314606 | [314606-fruit-attack.json](./314606-fruit-attack.json) |
 | Fruit Attacks VR | 81113 | [81113-fruit-attacks-vr.json](./81113-fruit-attacks-vr.json) |
+| Fruit Basket | 189829 | [189829-fruit-basket.json](./189829-fruit-basket.json) |
 | Fruit Basket TV | 196858 | [196858-fruit-basket-tv.json](./196858-fruit-basket-tv.json) |
 | Fruit Battle: Survival | 253276 | [253276-fruit-battle-survival.json](./253276-fruit-battle-survival.json) |
 | Fruit Blade | 268018 | [268018-fruit-blade.json](./268018-fruit-blade.json) |
@@ -11941,6 +11944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funset Studios | 269018 | [269018-funset-studios.json](./269018-funset-studios.json) |
 | Funshiki | 340032 | [340032-funshiki.json](./340032-funshiki.json) |
 | Funtagy of Doskebe | 82907 | [82907-funtagy-of-doskebe.json](./82907-funtagy-of-doskebe.json) |
+| Funtasia | 189847 | [189847-funtasia.json](./189847-funtasia.json) |
 | Funtime Furby | 217958 | [217958-funtime-furby.json](./217958-funtime-furby.json) |
 | Funtime with Buffy | 158057 | [158057-funtime-with-buffy.json](./158057-funtime-with-buffy.json) |
 | Funtography: A Gameboy Cameradventure | 265229 | [265229-funtography-a-gameboy-cameradventure.json](./265229-funtography-a-gameboy-cameradventure.json) |
