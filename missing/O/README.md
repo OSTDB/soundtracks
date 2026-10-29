@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocularis | 423883 | [423883-ocularis.json](./423883-ocularis.json) |
 | Oculto | 111231 | [111231-oculto.json](./111231-oculto.json) |
 | Oculus Arcade | 213949 | [213949-oculus-arcade.json](./213949-oculus-arcade.json) |
+| Oculus First Contact | 196407 | [196407-oculus-first-contact.json](./196407-oculus-first-contact.json) |
 | Oculus Malus | 269664 | [269664-oculus-malus.json](./269664-oculus-malus.json) |
 | Oculus Medium | 57171 | [57171-oculus-medium.json](./57171-oculus-medium.json) |
 | Oculux | 157126 | [157126-oculux.json](./157126-oculux.json) |
@@ -1292,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old School 8-in-1 bundle | 32557 | [32557-old-school-8-in-1-bundle.json](./32557-old-school-8-in-1-bundle.json) |
 | Old School FOTD | 74453 | [74453-old-school-fotd.json](./74453-old-school-fotd.json) |
 | Old School Horror Game : Bright Day | 125679 | [125679-old-school-horror-game-bright-day.json](./125679-old-school-horror-game-bright-day.json) |
+| Old School Musical: Pocket Edition | 196416 | [196416-old-school-musical-pocket-edition.json](./196416-old-school-musical-pocket-edition.json) |
 | Old School Racer | 91887 | [91887-old-school-racer.json](./91887-old-school-racer.json) |
 | Old School Racer 2 | 114053 | [114053-old-school-racer-2.json](./114053-old-school-racer-2.json) |
 | Old School Rally | 293490 | [293490-old-school-rally.json](./293490-old-school-rally.json) |
@@ -4341,6 +4343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Wonderland | 403157 | [403157-our-wonderland.json](./403157-our-wonderland.json) |
 | Our world has not decayed | 121302 | [121302-our-world-has-not-decayed.json](./121302-our-world-has-not-decayed.json) |
 | Our Worlds | 130877 | [130877-our-worlds.json](./130877-our-worlds.json) |
+| Our: Defense 2021 | 195900 | [195900-our-defense-2021.json](./195900-our-defense-2021.json) |
 | Ouran High School Host Club | 81475 | [81475-ouran-high-school-host-club.json](./81475-ouran-high-school-host-club.json) |
 | Ouranos! | 58567 | [58567-ouranos.json](./58567-ouranos.json) |
 | Ourath: A Place in Peace | 389191 | [389191-ourath-a-place-in-peace.json](./389191-ourath-a-place-in-peace.json) |
