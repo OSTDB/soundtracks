@@ -2443,7 +2443,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneBit Berzerk | 208430 | [208430-onebit-berzerk.json](./208430-onebit-berzerk.json) |
 | OneBit Demon Attack | 292055 | [292055-onebit-demon-attack.json](./292055-onebit-demon-attack.json) |
 | OneBit Frogger | 209651 | [209651-onebit-frogger.json](./209651-onebit-frogger.json) |
+| OneBit Invaders | 201979 | [201979-onebit-invaders.json](./201979-onebit-invaders.json) |
 | OneBit Jetpack | 292054 | [292054-onebit-jetpack.json](./292054-onebit-jetpack.json) |
+| OneBit PacMan | 201981 | [201981-onebit-pacman.json](./201981-onebit-pacman.json) |
 | Onechanbara Origin: Exclusive Aya Bonus Mission - Father Loses His Sanity | 167896 | [167896-onechanbara-origin-exclusive-aya-bonus-mission-father-loses-his-sanity.json](./167896-onechanbara-origin-exclusive-aya-bonus-mission-father-loses-his-sanity.json) |
 | Onechanbara Origin: Exclusive Aya Bonus Mission - Memories with Father | 167897 | [167897-onechanbara-origin-exclusive-aya-bonus-mission-memories-with-father.json](./167897-onechanbara-origin-exclusive-aya-bonus-mission-memories-with-father.json) |
 | Onechanbara Origin: Exclusive Lei Bonus Mission - Battle Experiment with 137 | 167895 | [167895-onechanbara-origin-exclusive-lei-bonus-mission-battle-experiment-with-137.json](./167895-onechanbara-origin-exclusive-lei-bonus-mission-battle-experiment-with-137.json) |
