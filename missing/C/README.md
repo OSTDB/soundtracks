@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calturin | 146624 | [146624-calturin.json](./146624-calturin.json) |
 | Calturin and Clone | 148883 | [148883-calturin-and-clone.json](./148883-calturin-and-clone.json) |
 | Calvar: The Darkest Gate | 318008 | [318008-calvar-the-darkest-gate.json](./318008-calvar-the-darkest-gate.json) |
+| Calvatole | 214301 | [214301-calvatole.json](./214301-calvatole.json) |
 | Calvin | 94951 | [94951-calvin.json](./94951-calvin.json) |
 | Calvin Tucker's Farm Animal Racing | 89420 | [89420-calvin-tuckers-farm-animal-racing.json](./89420-calvin-tuckers-farm-animal-racing.json) |
 | Calvin Tucker's Redneck: Farm Animals Racing Tournament | 51039 | [51039-calvin-tuckers-redneck-farm-animals-racing-tournament.json](./51039-calvin-tuckers-redneck-farm-animals-racing-tournament.json) |
@@ -3020,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Hearts | 358746 | [358746-castle-hearts.json](./358746-castle-hearts.json) |
 | Castle Helios | 212741 | [212741-castle-helios.json](./212741-castle-helios.json) |
 | Castle Hero | 327420 | [327420-castle-hero.json](./327420-castle-hero.json) |
+| Castle Hunter | 214317 | [214317-castle-hunter.json](./214317-castle-hunter.json) |
 | Castle Idler | 376112 | [376112-castle-idler.json](./376112-castle-idler.json) |
 | Castle in the Darkness II | 127028 | [127028-castle-in-the-darkness-ii.json](./127028-castle-in-the-darkness-ii.json) |
 | Castle in the Sands | 404818 | [404818-castle-in-the-sands.json](./404818-castle-in-the-sands.json) |
@@ -7374,6 +7376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronos | 13492 | [13492-chronos.json](./13492-chronos.json) |
 | Chronos | 18974 | [18974-chronos.json](./18974-chronos.json) |
 | Chronos Affinity | 250751 | [250751-chronos-affinity.json](./250751-chronos-affinity.json) |
+| Chronos Fantasy | 214287 | [214287-chronos-fantasy.json](./214287-chronos-fantasy.json) |
 | Chronos Gate | 56313 | [56313-chronos-gate.json](./56313-chronos-gate.json) |
 | Chronos Materia | 63261 | [63261-chronos-materia.json](./63261-chronos-materia.json) |
 | Chronos Shift | 350528 | [350528-chronos-shift.json](./350528-chronos-shift.json) |
@@ -16551,6 +16554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Man | 115367 | [115367-cube-man.json](./115367-cube-man.json) |
 | Cube Master | 116966 | [116966-cube-master.json](./116966-cube-master.json) |
 | Cube Master | 13708 | [13708-cube-master.json](./13708-cube-master.json) |
+| Cube Master | 214315 | [214315-cube-master.json](./214315-cube-master.json) |
 | Cube Master: Light Adventure | 408975 | [408975-cube-master-light-adventure.json](./408975-cube-master-light-adventure.json) |
 | Cube Matching King | 108495 | [108495-cube-matching-king.json](./108495-cube-matching-king.json) |
 | Cube Merge 2048 | 265838 | [265838-cube-merge-2048.json](./265838-cube-merge-2048.json) |
@@ -17536,6 +17540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuties | 259066 | [259066-cuties.json](./259066-cuties.json) |
 | Cuties | 32532 | [32532-cuties.json](./32532-cuties.json) |
 | Cuties Hacked: Dakota Photo Pack | 325851 | [325851-cuties-hacked-dakota-photo-pack.json](./325851-cuties-hacked-dakota-photo-pack.json) |
+| Cuties Hacked: Oh No Someone Stole My Photos! | 214279 | [214279-cuties-hacked-oh-no-someone-stole-my-photos.json](./214279-cuties-hacked-oh-no-someone-stole-my-photos.json) |
 | Cuties Monster Girl | 297081 | [297081-cuties-monster-girl.json](./297081-cuties-monster-girl.json) |
 | Cutlass | 43093 | [43093-cutlass.json](./43093-cutlass.json) |
 | Cutlass Call | 286031 | [286031-cutlass-call.json](./286031-cutlass-call.json) |
