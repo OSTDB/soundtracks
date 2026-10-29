@@ -3001,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Doombad 2: Muahaha! | 324787 | [324787-castle-doombad-2-muahaha.json](./324787-castle-doombad-2-muahaha.json) |
 | Castle Doombad Classic | 324781 | [324781-castle-doombad-classic.json](./324781-castle-doombad-classic.json) |
 | Castle Doombad: Free To Slay | 324780 | [324780-castle-doombad-free-to-slay.json](./324780-castle-doombad-free-to-slay.json) |
+| Castle Dornstein | 212084 | [212084-castle-dornstein.json](./212084-castle-dornstein.json) |
 | Castle Duels | 313070 | [313070-castle-duels.json](./313070-castle-duels.json) |
 | Castle Elsinore | 146106 | [146106-castle-elsinore.json](./146106-castle-elsinore.json) |
 | Castle Empire | 263969 | [263969-castle-empire.json](./263969-castle-empire.json) |
@@ -11964,6 +11965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Machine Simulator 2023: Hard Truck Work Job | 259233 | [259233-construction-machine-simulator-2023-hard-truck-work-job.json](./259233-construction-machine-simulator-2023-hard-truck-work-job.json) |
 | Construction Machines Sim | 201141 | [201141-construction-machines-sim.json](./201141-construction-machines-sim.json) |
 | Construction Machines SIM: Bridges, buildings and constructor trucks simulator | 201086 | [201086-construction-machines-sim-bridges-buildings-and-constructor-trucks-simulator.json](./201086-construction-machines-sim-bridges-buildings-and-constructor-trucks-simulator.json) |
+| Construction Manager | 212048 | [212048-construction-manager.json](./212048-construction-manager.json) |
 | Construction Playground | 164903 | [164903-construction-playground.json](./164903-construction-playground.json) |
 | Construction Ramp Jumping | 212358 | [212358-construction-ramp-jumping.json](./212358-construction-ramp-jumping.json) |
 | Construction Runner | 291533 | [291533-construction-runner.json](./291533-construction-runner.json) |
@@ -16308,6 +16310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Story: Dawn of Dusk | 190972 | [190972-crystal-story-dawn-of-dusk.json](./190972-crystal-story-dawn-of-dusk.json) |
 | Crystal Story: The Hero and the Evil Witch | 133357 | [133357-crystal-story-the-hero-and-the-evil-witch.json](./133357-crystal-story-the-hero-and-the-evil-witch.json) |
 | Crystal Survivor | 297882 | [297882-crystal-survivor.json](./297882-crystal-survivor.json) |
+| Crystal Tales Tactics: Echoes of the Libertas War | 212090 | [212090-crystal-tales-tactics-echoes-of-the-libertas-war.json](./212090-crystal-tales-tactics-echoes-of-the-libertas-war.json) |
 | Crystal the Witch | 133705 | [133705-crystal-the-witch.json](./133705-crystal-the-witch.json) |
 | Crystal Tower Defense | 251998 | [251998-crystal-tower-defense.json](./251998-crystal-tower-defense.json) |
 | Crystal Towers | 73164 | [73164-crystal-towers.json](./73164-crystal-towers.json) |
