@@ -5373,6 +5373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albedon Wars | 118222 | [118222-albedon-wars.json](./118222-albedon-wars.json) |
 | Albegas | 63214 | [63214-albegas.json](./63214-albegas.json) |
 | Albert | 185094 | [185094-albert.json](./185094-albert.json) |
+| Albert | 212611 | [212611-albert.json](./212611-albert.json) |
 | Albert and Camille's Little Lille Adventure | 192708 | [192708-albert-and-camilles-little-lille-adventure.json](./192708-albert-and-camilles-little-lille-adventure.json) |
 | Albert and Otto: The Adventure Begins | 13223 | [13223-albert-and-otto-the-adventure-begins.json](./13223-albert-and-otto-the-adventure-begins.json) |
 | Albert and Puzzle Mansion | 203788 | [203788-albert-and-puzzle-mansion.json](./203788-albert-and-puzzle-mansion.json) |
@@ -10331,6 +10332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Approach Trainer | 14261 | [14261-approach-trainer.json](./14261-approach-trainer.json) |
 | Approaches | 185093 | [185093-approaches.json](./185093-approaches.json) |
 | Approaching Cao Army | 254773 | [254773-approaching-cao-army.json](./254773-approaching-cao-army.json) |
+| Approval | 212597 | [212597-approval.json](./212597-approval.json) |
 | Approximately Up | 377061 | [377061-approximately-up.json](./377061-approximately-up.json) |
 | Appulse | 335232 | [335232-appulse.json](./335232-appulse.json) |
 | Aprenda Libras | 315615 | [315615-aprenda-libras.json](./315615-aprenda-libras.json) |
@@ -10779,6 +10781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Daioh | 274896 | [274896-arcade-archives-daioh.json](./274896-arcade-archives-daioh.json) |
 | Arcade Archives: Darius | 121426 | [121426-arcade-archives-darius.json](./121426-arcade-archives-darius.json) |
 | Arcade Archives: Dead Connection | 334087 | [334087-arcade-archives-dead-connection.json](./334087-arcade-archives-dead-connection.json) |
+| Arcade Archives: Dig Dug | 212615 | [212615-arcade-archives-dig-dug.json](./212615-arcade-archives-dig-dug.json) |
 | Arcade Archives: Dig Dug II | 245714 | [245714-arcade-archives-dig-dug-ii.json](./245714-arcade-archives-dig-dug-ii.json) |
 | Arcade Archives: Dinorex | 276863 | [276863-arcade-archives-dinorex.json](./276863-arcade-archives-dinorex.json) |
 | Arcade Archives: Donkey Kong 3 | 117018 | [117018-arcade-archives-donkey-kong-3.json](./117018-arcade-archives-donkey-kong-3.json) |
