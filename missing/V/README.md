@@ -2649,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitality | 213040 | [213040-vitality.json](./213040-vitality.json) |
 | Vitality Cranker | 230790 | [230790-vitality-cranker.json](./230790-vitality-cranker.json) |
 | Vitality Girl | 147409 | [147409-vitality-girl.json](./147409-vitality-girl.json) |
+| Vitality Girl III: Pixel | 195870 | [195870-vitality-girl-iii-pixel.json](./195870-vitality-girl-iii-pixel.json) |
 | Vitality Girl Ⅲ: Pixel - Night Action | 196157 | [196157-vitality-girl-iii-pixel-night-action.json](./196157-vitality-girl-iii-pixel-night-action.json) |
 | Vitam Finire | 251743 | [251743-vitam-finire.json](./251743-vitam-finire.json) |
 | Vitamin Girl | 68577 | [68577-vitamin-girl.json](./68577-vitamin-girl.json) |
