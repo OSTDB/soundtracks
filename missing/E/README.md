@@ -4205,6 +4205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eraser Advent | 247980 | [247980-eraser-advent.json](./247980-eraser-advent.json) |
 | Eraser Drop Battle Royal | 224056 | [224056-eraser-drop-battle-royal.json](./224056-eraser-drop-battle-royal.json) |
 | Eraser vs. Ruler | 323706 | [323706-eraser-vs-ruler.json](./323706-eraser-vs-ruler.json) |
+| Eraser-kun Race GP | 221496 | [221496-eraser-kun-race-gp.json](./221496-eraser-kun-race-gp.json) |
 | Eraser: Turnabout | 64237 | [64237-eraser-turnabout.json](./64237-eraser-turnabout.json) |
 | Erasure | 125282 | [125282-erasure.json](./125282-erasure.json) |
 | Erayu | 58903 | [58903-erayu.json](./58903-erayu.json) |
