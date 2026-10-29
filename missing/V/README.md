@@ -2611,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visual Quiz Kore Naanda? | 260698 | [260698-visual-quiz-kore-naanda.json](./260698-visual-quiz-kore-naanda.json) |
 | VisualHacker2D | 320015 | [320015-visualhacker2d.json](./320015-visualhacker2d.json) |
 | Visualizer | 80590 | [80590-visualizer.json](./80590-visualizer.json) |
+| Vita Fighters | 212051 | [212051-vita-fighters.json](./212051-vita-fighters.json) |
 | Vita Mahjong | 344507 | [344507-vita-mahjong.json](./344507-vita-mahjong.json) |
 | Vita: The Ember Oracle | 356112 | [356112-vita-the-ember-oracle.json](./356112-vita-the-ember-oracle.json) |
 | Vital | 123892 | [123892-vital.json](./123892-vital.json) |
