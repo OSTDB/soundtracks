@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kero Kero Keroppi no Issho ni Asobou | 40239 | [40239-kero-kero-keroppi-no-issho-ni-asobou.json](./40239-kero-kero-keroppi-no-issho-ni-asobou.json) |
 | Kero Kero Keroppi no Mahou no Kuni Densetsu | 230327 | [230327-kero-kero-keroppi-no-mahou-no-kuni-densetsu.json](./230327-kero-kero-keroppi-no-mahou-no-kuni-densetsu.json) |
 | Kero Kero Keroppi to Origami no Tabibito | 125960 | [125960-kero-kero-keroppi-to-origami-no-tabibito.json](./125960-kero-kero-keroppi-to-origami-no-tabibito.json) |
+| Kero Kero Keroppi: Herpit | 218245 | [218245-kero-kero-keroppi-herpit.json](./218245-kero-kero-keroppi-herpit.json) |
 | Kero Kero Keroppi: Uki Uki Party Land | 270162 | [270162-kero-kero-keroppi-uki-uki-party-land.json](./270162-kero-kero-keroppi-uki-uki-party-land.json) |
 | Kero Kero King | 54969 | [54969-kero-kero-king.json](./54969-kero-kero-king.json) |
 | Kero Quest 64 | 326620 | [326620-kero-quest-64.json](./326620-kero-quest-64.json) |
@@ -1968,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Keisatsu Patlabor: Dai-2-shoutai Shutsudou Seyo! | 41258 | [41258-kidou-keisatsu-patlabor-dai-2-shoutai-shutsudou-seyo.json](./41258-kidou-keisatsu-patlabor-dai-2-shoutai-shutsudou-seyo.json) |
 | Kidou Keisatsu Patlabor: Game Edition | 43814 | [43814-kidou-keisatsu-patlabor-game-edition.json](./43814-kidou-keisatsu-patlabor-game-edition.json) |
 | Kidou Senkan Nadesico: Ruriruri Mahjong | 281654 | [281654-kidou-senkan-nadesico-ruriruri-mahjong.json](./281654-kidou-senkan-nadesico-ruriruri-mahjong.json) |
+| Kidou Senshi Gundam | 218265 | [218265-kidou-senshi-gundam.json](./218265-kidou-senshi-gundam.json) |
 | Kidou Senshi Gundam 00 | 47870 | [47870-kidou-senshi-gundam-00.json](./47870-kidou-senshi-gundam-00.json) |
 | Kidou Senshi Gundam F91: Formula Senki 0122 | 67614 | [67614-kidou-senshi-gundam-f91-formula-senki-0122.json](./67614-kidou-senshi-gundam-f91-formula-senki-0122.json) |
 | Kidou Senshi Gundam Gaiden: Missing Link | 62277 | [62277-kidou-senshi-gundam-gaiden-missing-link.json](./62277-kidou-senshi-gundam-gaiden-missing-link.json) |
@@ -2434,7 +2436,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3509,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiteretsu Soudan Dial | 287250 | [287250-kiteretsu-soudan-dial.json](./287250-kiteretsu-soudan-dial.json) |
 | Kiteretsu Soudan Dial: Heard Mikaishuu Kaii nomi Shutsugen | 301623 | [301623-kiteretsu-soudan-dial-heard-mikaishuu-kaii-nomi-shutsugen.json](./301623-kiteretsu-soudan-dial-heard-mikaishuu-kaii-nomi-shutsugen.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
+| Kiteyo Perman | 218252 | [218252-kiteyo-perman.json](./218252-kiteyo-perman.json) |
 | Kithack Model Club | 244685 | [244685-kithack-model-club.json](./244685-kithack-model-club.json) |
 | Kithe #14 | 137506 | [137506-kithe-14.json](./137506-kithe-14.json) |
 | Kiting Cat | 323683 | [323683-kiting-cat.json](./323683-kiting-cat.json) |
