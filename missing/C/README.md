@@ -7487,6 +7487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronosurge: Echoes of the Void | 371855 | [371855-chronosurge-echoes-of-the-void.json](./371855-chronosurge-echoes-of-the-void.json) |
 | ChronoTecture: The Eprologue | 167350 | [167350-chronotecture-the-eprologue.json](./167350-chronotecture-the-eprologue.json) |
 | Chronotron | 212779 | [212779-chronotron.json](./212779-chronotron.json) |
+| Chronotura | 180393 | [180393-chronotura.json](./180393-chronotura.json) |
 | ChronoVenture | 321285 | [321285-chronoventure.json](./321285-chronoventure.json) |
 | Chronus Arc | 38512 | [38512-chronus-arc.json](./38512-chronus-arc.json) |
 | Chrs 143 | 162430 | [162430-chrs-143.json](./162430-chrs-143.json) |
@@ -9294,6 +9295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closure | 201622 | [201622-closure.json](./201622-closure.json) |
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
 | Clothes Forever - Styling Game | 90674 | [90674-clothes-forever-styling-game.json](./90674-clothes-forever-styling-game.json) |
+| Clotheslines | 180430 | [180430-clotheslines.json](./180430-clotheslines.json) |
 | Clothing | 314234 | [314234-clothing.json](./314234-clothing.json) |
 | Clothing & Alterations | 210426 | [210426-clothing-and-alterations.json](./210426-clothing-and-alterations.json) |
 | Clothing Boutique Simulator: Store Manager | 370802 | [370802-clothing-boutique-simulator-store-manager.json](./370802-clothing-boutique-simulator-store-manager.json) |
