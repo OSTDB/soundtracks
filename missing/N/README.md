@@ -2540,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nethernovel | 259992 | [259992-nethernovel.json](./259992-nethernovel.json) |
 | Netherside | 152364 | [152364-netherside.json](./152364-netherside.json) |
 | Netherspace | 190942 | [190942-netherspace.json](./190942-netherspace.json) |
+| Netherspace 2 | 186474 | [186474-netherspace-2.json](./186474-netherspace-2.json) |
 | Netherspire | 403686 | [403686-netherspire.json](./403686-netherspire.json) |
 | Netherworld | 113403 | [113403-netherworld.json](./113403-netherworld.json) |
 | Netherworld Covenant | 317973 | [317973-netherworld-covenant.json](./317973-netherworld-covenant.json) |
@@ -2812,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevsky Run | 110389 | [110389-nevsky-run.json](./110389-nevsky-run.json) |
 | Nevsky Titbit | 250597 | [250597-nevsky-titbit.json](./250597-nevsky-titbit.json) |
 | Nevultra | 253885 | [253885-nevultra.json](./253885-nevultra.json) |
+| New | 187047 | [187047-new.json](./187047-new.json) |
 | New 3D Golf Simulation: Eight Lakes G.C. | 97292 | [97292-new-3d-golf-simulation-eight-lakes-g-c.json](./97292-new-3d-golf-simulation-eight-lakes-g-c.json) |
 | New 3D Golf Simulation: Harukanaru Augusta | 45746 | [45746-new-3d-golf-simulation-harukanaru-augusta.json](./45746-new-3d-golf-simulation-harukanaru-augusta.json) |
 | New 3D Golf Simulation: T&E Selection | 97291 | [97291-new-3d-golf-simulation-t-and-e-selection.json](./97291-new-3d-golf-simulation-t-and-e-selection.json) |
@@ -4541,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja JaJaMaru-kun | 48455 | [48455-ninja-jajamaru-kun.json](./48455-ninja-jajamaru-kun.json) |
 | Ninja Jajamaru-kun Ranbu | 296027 | [296027-ninja-jajamaru-kun-ranbu.json](./296027-ninja-jajamaru-kun-ranbu.json) |
 | Ninja JaJaMaru-kun: Onigiri Ninpou-chou | 74780 | [74780-ninja-jajamaru-kun-onigiri-ninpou-chou.json](./74780-ninja-jajamaru-kun-onigiri-ninpou-chou.json) |
+| Ninja JaJaMaru-kun: Onigiri Ninpou-chou Gold | 187028 | [187028-ninja-jajamaru-kun-onigiri-ninpou-chou-gold.json](./187028-ninja-jajamaru-kun-onigiri-ninpou-chou-gold.json) |
 | Ninja JaJaMaru-kun: Sakura-hime to Karyu no Himitsu | 62207 | [62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json](./62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json) |
 | Ninja JaJaMaru: Ginga Daisakusen | 48454 | [48454-ninja-jajamaru-ginga-daisakusen.json](./48454-ninja-jajamaru-ginga-daisakusen.json) |
 | Ninja JaJaMaru: Retro Collection | 237557 | [237557-ninja-jajamaru-retro-collection.json](./237557-ninja-jajamaru-retro-collection.json) |
@@ -5526,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturne Maze: Shadows in the Hedge | 374079 | [374079-nocturne-maze-shadows-in-the-hedge.json](./374079-nocturne-maze-shadows-in-the-hedge.json) |
 | Nocturne of Steel | 107893 | [107893-nocturne-of-steel.json](./107893-nocturne-of-steel.json) |
 | NocturneRecomp | 408841 | [408841-nocturnerecomp.json](./408841-nocturnerecomp.json) |
+| Nod | 184700 | [184700-nod.json](./184700-nod.json) |
 | Nod If You Can Hear Me | 177824 | [177824-nod-if-you-can-hear-me.json](./177824-nod-if-you-can-hear-me.json) |
 | Nod: A Meditation on the Existential Pain of Becoming | 178941 | [178941-nod-a-meditation-on-the-existential-pain-of-becoming.json](./178941-nod-a-meditation-on-the-existential-pain-of-becoming.json) |
 | Nod3s | 23857 | [23857-nod3s.json](./23857-nod3s.json) |
