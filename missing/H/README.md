@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: The Master Chief Collection Season 7 - Elite | 205053 | [205053-halo-the-master-chief-collection-season-7-elite.json](./205053-halo-the-master-chief-collection-season-7-elite.json) |
 | Halo: The Master Chief Collection Season 8 - Mythic | 205054 | [205054-halo-the-master-chief-collection-season-8-mythic.json](./205054-halo-the-master-chief-collection-season-8-mythic.json) |
 | Halo's Mixtape | 280905 | [280905-halos-mixtape.json](./280905-halos-mixtape.json) |
+| Halod's adventure times | 223244 | [223244-halods-adventure-times.json](./223244-halods-adventure-times.json) |
 | Halodoom: Code of Silence | 140945 | [140945-halodoom-code-of-silence.json](./140945-halodoom-code-of-silence.json) |
 | HaloMD | 141820 | [141820-halomd.json](./141820-halomd.json) |
 | Haloo | 298686 | [298686-haloo.json](./298686-haloo.json) |
@@ -3196,6 +3197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Hogur | 54079 | [54079-heavy-hogur.json](./54079-heavy-hogur.json) |
 | Heavy Impact | 30485 | [30485-heavy-impact.json](./30485-heavy-impact.json) |
 | Heavy Industries | 176199 | [176199-heavy-industries.json](./176199-heavy-industries.json) |
+| Heavy Lies the Crown | 223240 | [223240-heavy-lies-the-crown.json](./223240-heavy-lies-the-crown.json) |
 | Heavy Machinery vs. Shumai | 409528 | [409528-heavy-machinery-vs-shumai.json](./409528-heavy-machinery-vs-shumai.json) |
 | Heavy Machines & Construction | 266261 | [266261-heavy-machines-and-construction.json](./266261-heavy-machines-and-construction.json) |
 | Heavy Metal | 12141 | [12141-heavy-metal.json](./12141-heavy-metal.json) |
@@ -4240,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Casual Swap | 239809 | [239809-hentai-casual-swap.json](./239809-hentai-casual-swap.json) |
 | Hentai Casual Swap 2 | 246015 | [246015-hentai-casual-swap-2.json](./246015-hentai-casual-swap-2.json) |
 | Hentai Casual Swap 3 | 371402 | [371402-hentai-casual-swap-3.json](./371402-hentai-casual-swap-3.json) |
+| Hentai CatMaid | 223247 | [223247-hentai-catmaid.json](./223247-hentai-catmaid.json) |
 | Hentai Celestia | 369376 | [369376-hentai-celestia.json](./369376-hentai-celestia.json) |
 | Hentai Cheerleader | 239749 | [239749-hentai-cheerleader.json](./239749-hentai-cheerleader.json) |
 | Hentai ChessKnight | 365417 | [365417-hentai-chessknight.json](./365417-hentai-chessknight.json) |
