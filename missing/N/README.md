@@ -1931,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemo | 303778 | [303778-nemo.json](./303778-nemo.json) |
 | Nemo is going to School | 264105 | [264105-nemo-is-going-to-school.json](./264105-nemo-is-going-to-school.json) |
 | Nemo: Puzzle Pack II | 303779 | [303779-nemo-puzzle-pack-ii.json](./303779-nemo-puzzle-pack-ii.json) |
+| Nemo's Aqua Pop | 216048 | [216048-nemos-aqua-pop.json](./216048-nemos-aqua-pop.json) |
 | Nemo's Reef | 62168 | [62168-nemos-reef.json](./62168-nemos-reef.json) |
 | Nemoral | 184501 | [184501-nemoral.json](./184501-nemoral.json) |
 | Nemorsys | 346602 | [346602-nemorsys.json](./346602-nemorsys.json) |
