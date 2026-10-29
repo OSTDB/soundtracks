@@ -4010,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Arts Tycoon: Brazil | 253906 | [253906-martial-arts-tycoon-brazil.json](./253906-martial-arts-tycoon-brazil.json) |
 | Martial Arts: God of War | 294271 | [294271-martial-arts-god-of-war.json](./294271-martial-arts-god-of-war.json) |
 | Martial Beat 2 | 292033 | [292033-martial-beat-2.json](./292033-martial-beat-2.json) |
+| Martial Cards | 185863 | [185863-martial-cards.json](./185863-martial-cards.json) |
 | Martial Champion | 39544 | [39544-martial-champion.json](./39544-martial-champion.json) |
 | Martial Fire | 232440 | [232440-martial-fire.json](./232440-martial-fire.json) |
 | Martial Heroes | 68119 | [68119-martial-heroes.json](./68119-martial-heroes.json) |
@@ -6968,6 +6969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Xtreme 2 | 1750 | [1750-mega-man-xtreme-2.json](./1750-mega-man-xtreme-2.json) |
 | Mega Man Y+1: Operation X.M.A.S. | 279729 | [279729-mega-man-y-1-operation-x-m-a-s.json](./279729-mega-man-y-1-operation-x-m-a-s.json) |
 | Mega Man Zero | 1775 | [1775-mega-man-zero.json](./1775-mega-man-zero.json) |
+| Mega Man Zero 1.5 | 185844 | [185844-mega-man-zero-1-5.json](./185844-mega-man-zero-1-5.json) |
 | Mega Man Zero 3 | 1777 | [1777-mega-man-zero-3.json](./1777-mega-man-zero-3.json) |
 | Mega Man Zero 3 | 351805 | [351805-mega-man-zero-3.json](./351805-mega-man-zero-3.json) |
 | Mega Man Zero 3: Modification Card - Alouette | 352533 | [352533-mega-man-zero-3-modification-card-alouette.json](./352533-mega-man-zero-3-modification-card-alouette.json) |
@@ -8013,6 +8015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mendalos | 191835 | [191835-mendalos.json](./191835-mendalos.json) |
 | Mendel Palace | 48052 | [48052-mendel-palace.json](./48052-mendel-palace.json) |
 | Mendel's Garden | 121691 | [121691-mendels-garden.json](./121691-mendels-garden.json) |
+| Mending Wall | 185832 | [185832-mending-wall.json](./185832-mending-wall.json) |
 | Mèng Běn Wúyōu | 109313 | [109313-meng-ben-wuyou.json](./109313-meng-ben-wuyou.json) |
 | Méng Chǒng Xīyóu | 367432 | [367432-meng-chong-xiyou.json](./367432-meng-chong-xiyou.json) |
 | Mèng Huí Sānguó | 154921 | [154921-meng-hui-sanguo.json](./154921-meng-hui-sanguo.json) |
@@ -14684,6 +14687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonland | 270707 | [270707-moonland.json](./270707-moonland.json) |
 | Moonland | 57499 | [57499-moonland.json](./57499-moonland.json) |
 | Moonlander | 9129 | [9129-moonlander.json](./9129-moonlander.json) |
+| Moonlaw | 185874 | [185874-moonlaw.json](./185874-moonlaw.json) |
 | Moonleap 2600 | 413685 | [413685-moonleap-2600.json](./413685-moonleap-2600.json) |
 | Moonleap Maker | 412890 | [412890-moonleap-maker.json](./412890-moonleap-maker.json) |
 | Moonless | 244863 | [244863-moonless.json](./244863-moonless.json) |
