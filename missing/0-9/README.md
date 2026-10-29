@@ -1748,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Bingos Away From Hell | 413590 | [413590-3-bingos-away-from-hell.json](./413590-3-bingos-away-from-hell.json) |
 | 3 Block Match | 359903 | [359903-3-block-match.json](./359903-3-block-match.json) |
 | 3 Bullets | 337553 | [337553-3-bullets.json](./337553-3-bullets.json) |
+| 3 Club Golf | 201412 | [201412-3-club-golf.json](./201412-3-club-golf.json) |
 | 3 Coins At School | 32980 | [32980-3-coins-at-school.json](./32980-3-coins-at-school.json) |
 | 3 Count Bout | 6734 | [6734-3-count-bout.json](./6734-3-count-bout.json) |
 | 3 Crystals | 219509 | [219509-3-crystals.json](./219509-3-crystals.json) |
@@ -1950,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 360 No Scope! | 107867 | [107867-360-no-scope.json](./107867-360-no-scope.json) |
 | 360: Three Sixty | 45318 | [45318-360-three-sixty.json](./45318-360-three-sixty.json) |
 | 36200 | 241994 | [241994-36200.json](./241994-36200.json) |
+| 365 Birthdays | 200854 | [200854-365-birthdays.json](./200854-365-birthdays.json) |
 | 365 Days | 29917 | [29917-365-days.json](./29917-365-days.json) |
 | 369 | 203800 | [203800-369.json](./203800-369.json) |
 | 372756 | 397771 | [397771-372756.json](./397771-372756.json) |
