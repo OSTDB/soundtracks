@@ -12174,6 +12174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkona | 398632 | [398632-arkona.json](./398632-arkona.json) |
 | Arkos II | 244397 | [244397-arkos-ii.json](./244397-arkos-ii.json) |
 | Arkshot | 20982 | [20982-arkshot.json](./20982-arkshot.json) |
+| Arksync | 190360 | [190360-arksync.json](./190360-arksync.json) |
 | Arktika.1 | 24833 | [24833-arktika-1.json](./24833-arktika-1.json) |
 | Arktis SCP-RP | 383554 | [383554-arktis-scp-rp.json](./383554-arktis-scp-rp.json) |
 | Arktonis 13 | 183392 | [183392-arktonis-13.json](./183392-arktonis-13.json) |
@@ -14753,6 +14754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Runner Chelnov | 46241 | [46241-atomic-runner-chelnov.json](./46241-atomic-runner-chelnov.json) |
 | Atomic Sky | 55226 | [55226-atomic-sky.json](./55226-atomic-sky.json) |
 | Atomic Society | 31679 | [31679-atomic-society.json](./31679-atomic-society.json) |
+| Atomic Souls | 190353 | [190353-atomic-souls.json](./190353-atomic-souls.json) |
 | Atomic Space Command | 33475 | [33475-atomic-space-command.json](./33475-atomic-space-command.json) |
 | Atomic Spider | 232315 | [232315-atomic-spider.json](./232315-atomic-spider.json) |
 | Atomic Super Lander | 114690 | [114690-atomic-super-lander.json](./114690-atomic-super-lander.json) |
