@@ -11077,6 +11077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Defense 2 | 234935 | [234935-frontline-defense-2.json](./234935-frontline-defense-2.json) |
 | Frontline Force | 259421 | [259421-frontline-force.json](./259421-frontline-force.json) |
 | Frontline Fury: Trenches, Mud & Blood | 332965 | [332965-frontline-fury-trenches-mud-and-blood.json](./332965-frontline-fury-trenches-mud-and-blood.json) |
+| Frontline Grunt | 211516 | [211516-frontline-grunt.json](./211516-frontline-grunt.json) |
 | Frontline Heroes VR | 41914 | [41914-frontline-heroes-vr.json](./41914-frontline-heroes-vr.json) |
 | Frontline Heroes VR: 2017 Edition | 170878 | [170878-frontline-heroes-vr-2017-edition.json](./170878-frontline-heroes-vr-2017-edition.json) |
 | Frontline Logistics: Isarian Warfare | 362762 | [362762-frontline-logistics-isarian-warfare.json](./362762-frontline-logistics-isarian-warfare.json) |
