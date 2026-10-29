@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbreakable Vr Runner | 32314 | [32314-unbreakable-vr-runner.json](./32314-unbreakable-vr-runner.json) |
 | Unbridled Horror | 181896 | [181896-unbridled-horror.json](./181896-unbridled-horror.json) |
 | Unbridled: An Untameable Story | 313801 | [313801-unbridled-an-untameable-story.json](./313801-unbridled-an-untameable-story.json) |
+| Unbridled: That Horse Game | 217136 | [217136-unbridled-that-horse-game.json](./217136-unbridled-that-horse-game.json) |
 | Unbroken | 298600 | [298600-unbroken.json](./298600-unbroken.json) |
 | Unbroken Valor | 413164 | [413164-unbroken-valor.json](./413164-unbroken-valor.json) |
 | Unbuild | 150063 | [150063-unbuild.json](./150063-unbuild.json) |
@@ -2228,7 +2229,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlisted | 422034 | [422034-unlisted.json](./422034-unlisted.json) |
 | Unlit | 126831 | [126831-unlit.json](./126831-unlit.json) |
 | Unlit: Side Scrolling Arcade | 122092 | [122092-unlit-side-scrolling-arcade.json](./122092-unlit-side-scrolling-arcade.json) |
+| Unlitten | 217114 | [217114-unlitten.json](./217114-unlitten.json) |
 | Unload | 412472 | [412472-unload.json](./412472-unload.json) |
+| Unlock | 217149 | [217149-unlock.json](./217149-unlock.json) |
 | Unlock Kimono Cuties | 196667 | [196667-unlock-kimono-cuties.json](./196667-unlock-kimono-cuties.json) |
 | Unlock Me | 114165 | [114165-unlock-me.json](./114165-unlock-me.json) |
 | Unlock Me | 338587 | [338587-unlock-me.json](./338587-unlock-me.json) |
