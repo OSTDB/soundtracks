@@ -5087,6 +5087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deformuseum | 405485 | [405485-deformuseum.json](./405485-deformuseum.json) |
 | Defrag | 136116 | [136116-defrag.json](./136116-defrag.json) |
 | Defrag Incremental | 404516 | [404516-defrag-incremental.json](./404516-defrag-incremental.json) |
+| Defrag Memories | 203643 | [203643-defrag-memories.json](./203643-defrag-memories.json) |
 | Defragmented | 33935 | [33935-defragmented.json](./33935-defragmented.json) |
 | Defragmenting | 390232 | [390232-defragmenting.json](./390232-defragmenting.json) |
 | Defrain | 103390 | [103390-defrain.json](./103390-defrain.json) |
@@ -12190,6 +12191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Douche Defender | 63362 | [63362-douche-defender.json](./63362-douche-defender.json) |
 | Douchebag Workout 2 | 331814 | [331814-douchebag-workout-2.json](./331814-douchebag-workout-2.json) |
 | Douchebag: Ultimate Bro Pack | 366107 | [366107-douchebag-ultimate-bro-pack.json](./366107-douchebag-ultimate-bro-pack.json) |
+| Doudas Danger | 203625 | [203625-doudas-danger.json](./203625-doudas-danger.json) |
 | DoudingMan | 264015 | [264015-doudingman.json](./264015-doudingman.json) |
 | DoudingMan: Expansion Packs | 288899 | [288899-doudingman-expansion-packs.json](./288899-doudingman-expansion-packs.json) |
 | Dòudìzhǔ VR | 89423 | [89423-doudizhu-vr.json](./89423-doudizhu-vr.json) |
