@@ -2716,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Crew 4: Call of the Ancestors | 360663 | [360663-emergency-crew-4-call-of-the-ancestors.json](./360663-emergency-crew-4-call-of-the-ancestors.json) |
 | Emergency Crew: Volcano Eruption | 165751 | [165751-emergency-crew-volcano-eruption.json](./165751-emergency-crew-volcano-eruption.json) |
 | Emergency Driver Sim: City Hero | 90540 | [90540-emergency-driver-sim-city-hero.json](./90540-emergency-driver-sim-city-hero.json) |
+| Emergency Driver Simulator | 178793 | [178793-emergency-driver-simulator.json](./178793-emergency-driver-simulator.json) |
 | Emergency Exit | 329160 | [329160-emergency-exit.json](./329160-emergency-exit.json) |
 | Emergency Fire Helicopter Simulator 3D | 108451 | [108451-emergency-fire-helicopter-simulator-3d.json](./108451-emergency-fire-helicopter-simulator-3d.json) |
 | Emergency Fire Response | 22633 | [22633-emergency-fire-response.json](./22633-emergency-fire-response.json) |
