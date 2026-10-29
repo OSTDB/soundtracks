@@ -2663,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Sudoku3D | 91308 | [91308-real-sudoku3d.json](./91308-real-sudoku3d.json) |
 | Real Talk | 185342 | [185342-real-talk.json](./185342-real-talk.json) |
 | Real Tennis | 100200 | [100200-real-tennis.json](./100200-real-tennis.json) |
+| Real Tennis | 193603 | [193603-real-tennis.json](./193603-real-tennis.json) |
 | Real Tennis 2009 | 91713 | [91713-real-tennis-2009.json](./91713-real-tennis-2009.json) |
 | Real Tennis 2018 | 99104 | [99104-real-tennis-2018.json](./99104-real-tennis-2018.json) |
 | Real Time Assist Replay Time | 251243 | [251243-real-time-assist-replay-time.json](./251243-real-time-assist-replay-time.json) |
@@ -2948,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebaixados Elite Brasil Clássicos | 282837 | [282837-rebaixados-elite-brasil-classicos.json](./282837-rebaixados-elite-brasil-classicos.json) |
 | Reball | 68931 | [68931-reball.json](./68931-reball.json) |
 | ReBall | 153227 | [153227-reball.json](./153227-reball.json) |
+| Rebel | 193593 | [193593-rebel.json](./193593-rebel.json) |
 | Rebel | 52756 | [52756-rebel.json](./52756-rebel.json) |
 | Rebel | 78086 | [78086-rebel.json](./78086-rebel.json) |
 | Rebel Charge at Chickamauga | 12742 | [12742-rebel-charge-at-chickamauga.json](./12742-rebel-charge-at-chickamauga.json) |
@@ -7849,6 +7851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robolife: Days with Aino | 158976 | [158976-robolife-days-with-aino.json](./158976-robolife-days-with-aino.json) |
 | Robolife2: Nova Duty | 211585 | [211585-robolife2-nova-duty.json](./211585-robolife2-nova-duty.json) |
 | Robolifter | 227850 | [227850-robolifter.json](./227850-robolifter.json) |
+| RoboLingo | 193059 | [193059-robolingo.json](./193059-robolingo.json) |
 | Roboloop | 295776 | [295776-roboloop.json](./295776-roboloop.json) |
 | Robolt | 249306 | [249306-robolt.json](./249306-robolt.json) |
 | Robolucion: The Sandwich Conspiracy | 390681 | [390681-robolucion-the-sandwich-conspiracy.json](./390681-robolucion-the-sandwich-conspiracy.json) |
@@ -10788,6 +10791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run from the Feds! | 316019 | [316019-run-from-the-feds.json](./316019-run-from-the-feds.json) |
 | Run from the Light | 296017 | [296017-run-from-the-light.json](./296017-run-from-the-light.json) |
 | Run Ghost Run | 125057 | [125057-run-ghost-run.json](./125057-run-ghost-run.json) |
+| Run Girls Run | 193622 | [193622-run-girls-run.json](./193622-run-girls-run.json) |
 | Run Gor | 270932 | [270932-run-gor.json](./270932-run-gor.json) |
 | Run Gor I | 392183 | [392183-run-gor-i.json](./392183-run-gor-i.json) |
 | Run Gun Die Ultimate | 118083 | [118083-run-gun-die-ultimate.json](./118083-run-gun-die-ultimate.json) |
