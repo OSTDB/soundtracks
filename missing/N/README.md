@@ -2890,7 +2890,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Lands | 193241 | [193241-new-lands.json](./193241-new-lands.json) |
 | New Lands 1 | 252390 | [252390-new-lands-1.json](./252390-new-lands-1.json) |
 | New Lands 2 | 254061 | [254061-new-lands-2.json](./254061-new-lands-2.json) |
+| New Lands 2: Collector's Edition | 195874 | [195874-new-lands-2-collectors-edition.json](./195874-new-lands-2-collectors-edition.json) |
 | New Lands 3: Paradise Island | 254384 | [254384-new-lands-3-paradise-island.json](./254384-new-lands-3-paradise-island.json) |
+| New Lands Paradise Island - Collector's Edition | 195852 | [195852-new-lands-paradise-island-collectors-edition.json](./195852-new-lands-paradise-island-collectors-edition.json) |
 | New Lands: Legends of Tenkai - Collector's Edition | 369014 | [369014-new-lands-legends-of-tenkai-collectors-edition.json](./369014-new-lands-legends-of-tenkai-collectors-edition.json) |
 | New Lands: The Shadow of Alvaria | 376428 | [376428-new-lands-the-shadow-of-alvaria.json](./376428-new-lands-the-shadow-of-alvaria.json) |
 | New Leaf Traveler and Youth's Memories | 272708 | [272708-new-leaf-traveler-and-youths-memories.json](./272708-new-leaf-traveler-and-youths-memories.json) |
@@ -4951,6 +4953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nmnmah | 392711 | [392711-nmnmah.json](./392711-nmnmah.json) |
 | Nnnnnight | 319059 | [319059-nnnnnight.json](./319059-nnnnnight.json) |
 | Nnnnnn | 134352 | [134352-nnnnnn.json](./134352-nnnnnn.json) |
+| No 1 Lives | 195878 | [195878-no-1-lives.json](./195878-no-1-lives.json) |
 | No Afraid Of Battle | 341481 | [341481-no-afraid-of-battle.json](./341481-no-afraid-of-battle.json) |
 | No Alien Dating Allowed! | 382481 | [382481-no-alien-dating-allowed.json](./382481-no-alien-dating-allowed.json) |
 | No Anglerfish | 195104 | [195104-no-anglerfish.json](./195104-no-anglerfish.json) |
@@ -5141,6 +5144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Pesticide | 389928 | [389928-no-more-pesticide.json](./389928-no-more-pesticide.json) |
 | No More Pop Music - Annihilation | 113145 | [113145-no-more-pop-music-annihilation.json](./113145-no-more-pop-music-annihilation.json) |
 | No More Rainbows | 168672 | [168672-no-more-rainbows.json](./168672-no-more-rainbows.json) |
+| No More Regrets | 195857 | [195857-no-more-regrets.json](./195857-no-more-regrets.json) |
 | No More Room in Hell 2 | 149340 | [149340-no-more-room-in-hell-2.json](./149340-no-more-room-in-hell-2.json) |
 | No More Shopping | 334867 | [334867-no-more-shopping.json](./334867-no-more-shopping.json) |
 | No More Slimes!! | 414600 | [414600-no-more-slimes.json](./414600-no-more-slimes.json) |
@@ -5483,6 +5487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noctropolis | 243766 | [243766-noctropolis.json](./243766-noctropolis.json) |
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
 | Noctuary: New Journey | 370210 | [370210-noctuary-new-journey.json](./370210-noctuary-new-journey.json) |
+| Nocturama | 196426 | [196426-nocturama.json](./196426-nocturama.json) |
 | Nocturia The Game | 247912 | [247912-nocturia-the-game.json](./247912-nocturia-the-game.json) |
 | Nocturnal | 350295 | [350295-nocturnal.json](./350295-nocturnal.json) |
 | Nocturnal Echoes | 414419 | [414419-nocturnal-echoes.json](./414419-nocturnal-echoes.json) |
