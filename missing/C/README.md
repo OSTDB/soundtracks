@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of FireWork | 274972 | [274972-call-of-firework.json](./274972-call-of-firework.json) |
 | Call of Fries | 116977 | [116977-call-of-fries.json](./116977-call-of-fries.json) |
 | Call of Glory: Critical Warfare & AirJet Fighter: Sky Assault Bundle Collection | 386563 | [386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json](./386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json) |
+| Call of Guns: FPS Multiplayer Online 3D Guns Game | 216017 | [216017-call-of-guns-fps-multiplayer-online-3d-guns-game.json](./216017-call-of-guns-fps-multiplayer-online-3d-guns-game.json) |
 | Call of Hentai Neko | 367511 | [367511-call-of-hentai-neko.json](./367511-call-of-hentai-neko.json) |
 | Call of Honor: Duty of Warfare | 288162 | [288162-call-of-honor-duty-of-warfare.json](./288162-call-of-honor-duty-of-warfare.json) |
 | Call of Honor: Duty of Warfare & Battlefront Trench Warriors: Ops of Warfare | 305623 | [305623-call-of-honor-duty-of-warfare-and-battlefront-trench-warriors-ops-of-warfare.json](./305623-call-of-honor-duty-of-warfare-and-battlefront-trench-warriors-ops-of-warfare.json) |
@@ -14988,6 +14989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Podcast: 1976 | 420520 | [420520-crime-podcast-1976.json](./420520-crime-podcast-1976.json) |
 | Crime Podcast: Welcome to the Neighborhood | 420528 | [420528-crime-podcast-welcome-to-the-neighborhood.json](./420528-crime-podcast-welcome-to-the-neighborhood.json) |
 | Crime Reaper | 147236 | [147236-crime-reaper.json](./147236-crime-reaper.json) |
+| Crime Revolt: Online Shooter | 216018 | [216018-crime-revolt-online-shooter.json](./216018-crime-revolt-online-shooter.json) |
 | Crime Scene | 21653 | [21653-crime-scene.json](./21653-crime-scene.json) |
 | Crime Scene | 232948 | [232948-crime-scene.json](./232948-crime-scene.json) |
 | Crime Scene Cleaner | 115830 | [115830-crime-scene-cleaner.json](./115830-crime-scene-cleaner.json) |
@@ -16439,6 +16441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Airport | 249186 | [249186-cube-airport.json](./249186-cube-airport.json) |
 | Cube Airport + Cube Farmer | 295697 | [295697-cube-airport-cube-farmer.json](./295697-cube-airport-cube-farmer.json) |
 | Cube Arena | 304900 | [304900-cube-arena.json](./304900-cube-arena.json) |
+| Cube Arena 2048: Merge Numbers | 216019 | [216019-cube-arena-2048-merge-numbers.json](./216019-cube-arena-2048-merge-numbers.json) |
 | Cube Bash | 183780 | [183780-cube-bash.json](./183780-cube-bash.json) |
 | Cube Battlefield: 2048 | 267071 | [267071-cube-battlefield-2048.json](./267071-cube-battlefield-2048.json) |
 | Cube Battler: Anna Miraiden | 70875 | [70875-cube-battler-anna-miraiden.json](./70875-cube-battler-anna-miraiden.json) |
