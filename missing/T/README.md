@@ -6707,6 +6707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crazy Hyper-Dungeon Chronicles | 266427 | [266427-the-crazy-hyper-dungeon-chronicles.json](./266427-the-crazy-hyper-dungeon-chronicles.json) |
 | The Crazy Journalist | 199056 | [199056-the-crazy-journalist.json](./199056-the-crazy-journalist.json) |
 | The Creation of a Self | 149033 | [149033-the-creation-of-a-self.json](./149033-the-creation-of-a-self.json) |
+| The Creation of Sylebrium | 212054 | [212054-the-creation-of-sylebrium.json](./212054-the-creation-of-sylebrium.json) |
 | The Creativest Love Doll | 82747 | [82747-the-creativest-love-doll.json](./82747-the-creativest-love-doll.json) |
 | The Creator | 347359 | [347359-the-creator.json](./347359-the-creator.json) |
 | The Creature | 120783 | [120783-the-creature.json](./120783-the-creature.json) |
@@ -9177,6 +9178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guild of Thieves | 12126 | [12126-the-guild-of-thieves.json](./12126-the-guild-of-thieves.json) |
 | The Guild: Gold Edition | 29208 | [29208-the-guild-gold-edition.json](./29208-the-guild-gold-edition.json) |
 | The Guilt and the Shadow | 36145 | [36145-the-guilt-and-the-shadow.json](./36145-the-guilt-and-the-shadow.json) |
+| The Gummiest Bear Challenge | 212073 | [212073-the-gummiest-bear-challenge.json](./212073-the-gummiest-bear-challenge.json) |
 | The Gun Game | 235247 | [235247-the-gun-game.json](./235247-the-gun-game.json) |
 | The Gun is Good | 254024 | [254024-the-gun-is-good.json](./254024-the-gun-is-good.json) |
 | The Gunstringer | 7588 | [7588-the-gunstringer.json](./7588-the-gunstringer.json) |
@@ -12916,6 +12918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
 | The Palaces of The Mind | 389548 | [389548-the-palaces-of-the-mind.json](./389548-the-palaces-of-the-mind.json) |
 | The Paladin & The Succubi Servant | 230896 | [230896-the-paladin-and-the-succubi-servant.json](./230896-the-paladin-and-the-succubi-servant.json) |
+| The Pale | 212082 | [212082-the-pale.json](./212082-the-pale.json) |
 | The Pale Beyond: Collectors Edition | 238307 | [238307-the-pale-beyond-collectors-edition.json](./238307-the-pale-beyond-collectors-edition.json) |
 | The Pale Beyond: Deluxe Edition | 238308 | [238308-the-pale-beyond-deluxe-edition.json](./238308-the-pale-beyond-deluxe-edition.json) |
 | The Pale Deep | 349740 | [349740-the-pale-deep.json](./349740-the-pale-deep.json) |
@@ -13684,6 +13687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Restricted Archive | 273870 | [273870-the-restricted-archive.json](./273870-the-restricted-archive.json) |
 | The Restricted Index | 398539 | [398539-the-restricted-index.json](./398539-the-restricted-index.json) |
 | The Resurrected | 366314 | [366314-the-resurrected.json](./366314-the-resurrected.json) |
+| The Retrieval | 212062 | [212062-the-retrieval.json](./212062-the-retrieval.json) |
 | The Retro Exorcist | 401710 | [401710-the-retro-exorcist.json](./401710-the-retro-exorcist.json) |
 | The Retrospection of Tomorrow | 354750 | [354750-the-retrospection-of-tomorrow.json](./354750-the-retrospection-of-tomorrow.json) |
 | The Return Home | 32131 | [32131-the-return-home.json](./32131-the-return-home.json) |
@@ -17377,6 +17381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Come in Fives | 370915 | [370915-they-come-in-fives.json](./370915-they-come-in-fives.json) |
 | They Come In Waves | 265273 | [265273-they-come-in-waves.json](./265273-they-come-in-waves.json) |
 | They Die Tomorrow | 188567 | [188567-they-die-tomorrow.json](./188567-they-die-tomorrow.json) |
+| They Don't Sleep | 212094 | [212094-they-dont-sleep.json](./212094-they-dont-sleep.json) |
 | They Dug Too Deep | 258974 | [258974-they-dug-too-deep.json](./258974-they-dug-too-deep.json) |
 | They Fear The Mist | 292536 | [292536-they-fear-the-mist.json](./292536-they-fear-the-mist.json) |
 | They Grew Lungs and Drowned | 301326 | [301326-they-grew-lungs-and-drowned.json](./301326-they-grew-lungs-and-drowned.json) |
@@ -27028,6 +27033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Fist | 87739 | [87739-trigger-fist.json](./87739-trigger-fist.json) |
 | Trigger Happy | 174806 | [174806-trigger-happy.json](./174806-trigger-happy.json) |
 | Trigger Heart Exelica Enhanced | 43476 | [43476-trigger-heart-exelica-enhanced.json](./43476-trigger-heart-exelica-enhanced.json) |
+| Trigger Henry | 212075 | [212075-trigger-henry.json](./212075-trigger-henry.json) |
 | Trigger Knight | 314452 | [314452-trigger-knight.json](./314452-trigger-knight.json) |
 | Trigger Land | 366111 | [366111-trigger-land.json](./366111-trigger-land.json) |
 | Trigger on the Road | 232335 | [232335-trigger-on-the-road.json](./232335-trigger-on-the-road.json) |
@@ -29160,6 +29166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Sides of Hell | 301701 | [301701-two-sides-of-hell.json](./301701-two-sides-of-hell.json) |
 | Two Sides of the Same Turnabout | 310420 | [310420-two-sides-of-the-same-turnabout.json](./310420-two-sides-of-the-same-turnabout.json) |
 | Two Sides: Voyage to the Mainland | 348134 | [348134-two-sides-voyage-to-the-mainland.json](./348134-two-sides-voyage-to-the-mainland.json) |
+| Two Sisters | 212076 | [212076-two-sisters.json](./212076-two-sisters.json) |
 | Two Skateboards Driving Simulator | 224566 | [224566-two-skateboards-driving-simulator.json](./224566-two-skateboards-driving-simulator.json) |
 | Two Slices of Love | 254986 | [254986-two-slices-of-love.json](./254986-two-slices-of-love.json) |
 | Two Smudges In Infrared | 178921 | [178921-two-smudges-in-infrared.json](./178921-two-smudges-in-infrared.json) |
