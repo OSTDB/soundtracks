@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yatzy Yacht Free | 232280 | [232280-yatzy-yacht-free.json](./232280-yatzy-yacht-free.json) |
 | YatzyDOS | 298946 | [298946-yatzydos.json](./298946-yatzydos.json) |
 | Yavalanche | 389739 | [389739-yavalanche.json](./389739-yavalanche.json) |
+| Yavi | 190342 | [190342-yavi.json](./190342-yavi.json) |
 | Yawara! | 58886 | [58886-yawara.json](./58886-yawara.json) |
 | Yawara! 2 | 58885 | [58885-yawara-2.json](./58885-yawara-2.json) |
 | Yawara!: Yawara no Seishun | 353407 | [353407-yawara-yawara-no-seishun.json](./353407-yawara-yawara-no-seishun.json) |
