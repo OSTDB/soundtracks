@@ -7624,6 +7624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold My Beer | 51581 | [51581-hold-my-beer.json](./51581-hold-my-beer.json) |
 | Hold My Hand (Or Let Go) | 412537 | [412537-hold-my-hand-or-let-go.json](./412537-hold-my-hand-or-let-go.json) |
 | Hold My Thing | 418627 | [418627-hold-my-thing.json](./418627-hold-my-thing.json) |
+| Hold On | 211023 | [211023-hold-on.json](./211023-hold-on.json) |
 | Hold On | 419843 | [419843-hold-on.json](./419843-hold-on.json) |
 | Hold or Die | 212110 | [212110-hold-or-die.json](./212110-hold-or-die.json) |
 | Hold Out | 113018 | [113018-hold-out.json](./113018-hold-out.json) |
@@ -7882,6 +7883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloCure: Save the Fans! | 206336 | [206336-holocure-save-the-fans.json](./206336-holocure-save-the-fans.json) |
 | Holocure: Update 0.6 | 261921 | [261921-holocure-update-0-6.json](./261921-holocure-update-0-6.json) |
 | Holodama: Content Clash | 386190 | [386190-holodama-content-clash.json](./386190-holodama-content-clash.json) |
+| Holodeck Arena | 211020 | [211020-holodeck-arena.json](./211020-holodeck-arena.json) |
 | Holodrive | 20365 | [20365-holodrive.json](./20365-holodrive.json) |
 | HoloDungeon: Koyori vs HollowLive in Honsha Tower | 410033 | [410033-holodungeon-koyori-vs-hollowlive-in-honsha-tower.json](./410033-holodungeon-koyori-vs-hollowlive-in-honsha-tower.json) |
 | Holoemblem: The Search for Seiso | 273550 | [273550-holoemblem-the-search-for-seiso.json](./273550-holoemblem-the-search-for-seiso.json) |
@@ -8626,6 +8628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopeful Day Inside Room | 325382 | [325382-hopeful-day-inside-room.json](./325382-hopeful-day-inside-room.json) |
 | Hopeguard | 340480 | [340480-hopeguard.json](./340480-hopeguard.json) |
 | HopeLand | 211205 | [211205-hopeland.json](./211205-hopeland.json) |
+| Hopeless | 210985 | [210985-hopeless.json](./210985-hopeless.json) |
 | Hopeless | 36863 | [36863-hopeless.json](./36863-hopeless.json) |
 | Hopeless 2: Cave Escape | 56271 | [56271-hopeless-2-cave-escape.json](./56271-hopeless-2-cave-escape.json) |
 | Hopeless 3: Dark Hollow Earth | 56274 | [56274-hopeless-3-dark-hollow-earth.json](./56274-hopeless-3-dark-hollow-earth.json) |
@@ -11146,6 +11149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspace | 303551 | [303551-hyperspace.json](./303551-hyperspace.json) |
 | Hyperspace Deck Command | 287766 | [287766-hyperspace-deck-command.json](./287766-hyperspace-deck-command.json) |
 | Hyperspace Dogfights | 97931 | [97931-hyperspace-dogfights.json](./97931-hyperspace-dogfights.json) |
+| Hyperspace Harvest | 211010 | [211010-hyperspace-harvest.json](./211010-hyperspace-harvest.json) |
 | Hyperspace Hub Manager | 357264 | [357264-hyperspace-hub-manager.json](./357264-hyperspace-hub-manager.json) |
 | Hyperspace Invaders II: Pixel Edition | 20923 | [20923-hyperspace-invaders-ii-pixel-edition.json](./20923-hyperspace-invaders-ii-pixel-edition.json) |
 | Hyperspace Services | 184085 | [184085-hyperspace-services.json](./184085-hyperspace-services.json) |
