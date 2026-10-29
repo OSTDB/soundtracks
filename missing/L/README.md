@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Safari | 69665 | [69665-lady-safari.json](./69665-lady-safari.json) |
 | Lady Sia | 6497 | [6497-lady-sia.json](./6497-lady-sia.json) |
 | Lady Stalker: Kako kara no Chousen | 71788 | [71788-lady-stalker-kako-kara-no-chousen.json](./71788-lady-stalker-kako-kara-no-chousen.json) |
+| Lady Stalker: Meikyuu no Warutsu | 210411 | [210411-lady-stalker-meikyuu-no-warutsu.json](./210411-lady-stalker-meikyuu-no-warutsu.json) |
 | Lady Sword: Ryakudatsusareta 10-nin no Otome | 42050 | [42050-lady-sword-ryakudatsusareta-10-nin-no-otome.json](./42050-lady-sword-ryakudatsusareta-10-nin-no-otome.json) |
 | Lady Thalia and the Masterpiece of Moldavia | 290396 | [290396-lady-thalia-and-the-masterpiece-of-moldavia.json](./290396-lady-thalia-and-the-masterpiece-of-moldavia.json) |
 | Lady Thalia and the Rose of Rocroi | 290395 | [290395-lady-thalia-and-the-rose-of-rocroi.json](./290395-lady-thalia-and-the-rose-of-rocroi.json) |
