@@ -3736,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Is My Cat? | 242947 | [242947-where-is-my-cat.json](./242947-where-is-my-cat.json) |
 | Where Is My Crown? | 242451 | [242451-where-is-my-crown.json](./242451-where-is-my-crown.json) |
 | Where Is My Family | 118792 | [118792-where-is-my-family.json](./118792-where-is-my-family.json) |
+| Where Is My Hammer: Destroy Everything! | 177189 | [177189-where-is-my-hammer-destroy-everything.json](./177189-where-is-my-hammer-destroy-everything.json) |
 | Where Is My Hat? | 345652 | [345652-where-is-my-hat.json](./345652-where-is-my-hat.json) |
 | Where is My Home? | 410996 | [410996-where-is-my-home.json](./410996-where-is-my-home.json) |
 | Where Is My Human? | 183792 | [183792-where-is-my-human.json](./183792-where-is-my-human.json) |
@@ -4367,6 +4368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whotfire | 346907 | [346907-whotfire.json](./346907-whotfire.json) |
 | Why | 257413 | [257413-why.json](./257413-why.json) |
 | Why Are My Prefects So Hot!!? | 419950 | [419950-why-are-my-prefects-so-hot.json](./419950-why-are-my-prefects-so-hot.json) |
+| Why Can't I Just Speak Normally to My High School Crush?! | 177190 | [177190-why-cant-i-just-speak-normally-to-my-high-school-crush.json](./177190-why-cant-i-just-speak-normally-to-my-high-school-crush.json) |
 | Why Chicken? Why? | 114973 | [114973-why-chicken-why.json](./114973-why-chicken-why.json) |
 | Why Did The Chicken Cross The Road? | 310753 | [310753-why-did-the-chicken-cross-the-road.json](./310753-why-did-the-chicken-cross-the-road.json) |
 | Why Did You Leave Me Like This? | 365771 | [365771-why-did-you-leave-me-like-this.json](./365771-why-did-you-leave-me-like-this.json) |
