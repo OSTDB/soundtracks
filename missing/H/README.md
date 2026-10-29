@@ -1435,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Jump | 112902 | [112902-happy-jump.json](./112902-happy-jump.json) |
 | Happy Lab | 252573 | [252573-happy-lab.json](./252573-happy-lab.json) |
 | Happy Landing Bundle: Evel Knievel + Finnigan Fox + Cornhole | 386789 | [386789-happy-landing-bundle-evel-knievel-finnigan-fox-cornhole.json](./386789-happy-landing-bundle-evel-knievel-finnigan-fox-cornhole.json) |
+| Happy Lane 403 | 217125 | [217125-happy-lane-403.json](./217125-happy-lane-403.json) |
 | Happy Lesson | 78643 | [78643-happy-lesson.json](./78643-happy-lesson.json) |
 | Happy Lesson: First Lesson | 64753 | [64753-happy-lesson-first-lesson.json](./64753-happy-lesson-first-lesson.json) |
 | Happy Little Farm | 405906 | [405906-happy-little-farm.json](./405906-happy-little-farm.json) |
@@ -2017,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Loop | 364996 | [364996-harvest-loop.json](./364996-harvest-loop.json) |
 | Harvest Looper | 419323 | [419323-harvest-looper.json](./419323-harvest-looper.json) |
 | Harvest Mall | 361644 | [361644-harvest-mall.json](./361644-harvest-mall.json) |
+| Harvest Mana | 217116 | [217116-harvest-mana.json](./217116-harvest-mana.json) |
 | Harvest Mania | 209863 | [209863-harvest-mania.json](./209863-harvest-mania.json) |
 | Harvest Master | 320522 | [320522-harvest-master.json](./320522-harvest-master.json) |
 | Harvest Moon | 3376 | [3376-harvest-moon.json](./3376-harvest-moon.json) |
