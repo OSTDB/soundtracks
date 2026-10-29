@@ -4638,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Project 67 | 409529 | [409529-hentai-project-67.json](./409529-hentai-project-67.json) |
 | Hentai Puppy Maid | 296953 | [296953-hentai-puppy-maid.json](./296953-hentai-puppy-maid.json) |
 | Hentai Pussy 2 | 286413 | [286413-hentai-pussy-2.json](./286413-hentai-pussy-2.json) |
+| Hentai Pussy 3 | 203597 | [203597-hentai-pussy-3.json](./203597-hentai-pussy-3.json) |
 | Hentai Pussy 4 | 214188 | [214188-hentai-pussy-4.json](./214188-hentai-pussy-4.json) |
 | Hentai Pussy 5 | 236183 | [236183-hentai-pussy-5.json](./236183-hentai-pussy-5.json) |
 | Hentai Pussy 6 | 238588 | [238588-hentai-pussy-6.json](./238588-hentai-pussy-6.json) |
@@ -5151,6 +5152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of the Kingdom: The Lost Tales 1 | 132174 | [132174-hero-of-the-kingdom-the-lost-tales-1.json](./132174-hero-of-the-kingdom-the-lost-tales-1.json) |
 | Hero of the Kingdom: The Lost Tales 3 | 327322 | [327322-hero-of-the-kingdom-the-lost-tales-3.json](./327322-hero-of-the-kingdom-the-lost-tales-3.json) |
 | Hero of the Obelisk | 23551 | [23551-hero-of-the-obelisk.json](./23551-hero-of-the-obelisk.json) |
+| Hero of War | 203614 | [203614-hero-of-war.json](./203614-hero-of-war.json) |
 | Hero Online | 253782 | [253782-hero-online.json](./253782-hero-online.json) |
 | Hero or Foe | 173232 | [173232-hero-or-foe.json](./173232-hero-or-foe.json) |
 | Hero or Villain: Battle Royale | 156927 | [156927-hero-or-villain-battle-royale.json](./156927-hero-or-villain-battle-royale.json) |
@@ -5436,6 +5438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Three Kingdoms | 77303 | [77303-heroes-of-three-kingdoms.json](./77303-heroes-of-three-kingdoms.json) |
 | Heroes of Throgg | 413793 | [413793-heroes-of-throgg.json](./413793-heroes-of-throgg.json) |
 | Heroes of Time | 200470 | [200470-heroes-of-time.json](./200470-heroes-of-time.json) |
+| Heroes of Time 2: Aizack's Return | 203613 | [203613-heroes-of-time-2-aizacks-return.json](./203613-heroes-of-time-2-aizacks-return.json) |
 | Heroes of Tomorrow: Hidden Potential | 392321 | [392321-heroes-of-tomorrow-hidden-potential.json](./392321-heroes-of-tomorrow-hidden-potential.json) |
 | Heroes of Umbra | 3226 | [3226-heroes-of-umbra.json](./3226-heroes-of-umbra.json) |
 | Heroes of Valhalla | 224104 | [224104-heroes-of-valhalla.json](./224104-heroes-of-valhalla.json) |
