@@ -1723,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Gold 2: Pirates Island | 150649 | [150649-mahjong-gold-2-pirates-island.json](./150649-mahjong-gold-2-pirates-island.json) |
 | Mahjong Hana no Momoko Gumi | 57595 | [57595-mahjong-hana-no-momoko-gumi.json](./57595-mahjong-hana-no-momoko-gumi.json) |
 | Mahjong Hanjouki | 37938 | [37938-mahjong-hanjouki.json](./37938-mahjong-hanjouki.json) |
+| Mahjong Haoh Dan-kyu Battle 3 | 194776 | [194776-mahjong-haoh-dan-kyu-battle-3.json](./194776-mahjong-haoh-dan-kyu-battle-3.json) |
 | Mahjong Haoh: Dankyuu Battle II | 204352 | [204352-mahjong-haoh-dankyuu-battle-ii.json](./204352-mahjong-haoh-dankyuu-battle-ii.json) |
 | Mahjong Haouden: Kaiser's Quest | 38098 | [38098-mahjong-haouden-kaisers-quest.json](./38098-mahjong-haouden-kaisers-quest.json) |
 | Mahjong Hishou-den: Shin Naki no Ryuu | 37937 | [37937-mahjong-hishou-den-shin-naki-no-ryuu.json](./37937-mahjong-hishou-den-shin-naki-no-ryuu.json) |
@@ -10687,6 +10688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindshow | 75145 | [75145-mindshow.json](./75145-mindshow.json) |
 | MindStorm | 47861 | [47861-mindstorm.json](./47861-mindstorm.json) |
 | MindStorm 2 | 123357 | [123357-mindstorm-2.json](./123357-mindstorm-2.json) |
+| MindSweeper | 194773 | [194773-mindsweeper.json](./194773-mindsweeper.json) |
 | Mindtrap | 91406 | [91406-mindtrap.json](./91406-mindtrap.json) |
 | Mindustry Classic | 178425 | [178425-mindustry-classic.json](./178425-mindustry-classic.json) |
 | Mindwheel | 25778 | [25778-mindwheel.json](./25778-mindwheel.json) |
@@ -17499,6 +17501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Legends - 2024 Monster Energy Supercross Championship | 295398 | [295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json](./295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json) |
 | MX vs. ATV: Legends - 2024 Monster Energy Supercross Edition | 288655 | [288655-mx-vs-atv-legends-2024-monster-energy-supercross-edition.json](./288655-mx-vs-atv-legends-2024-monster-energy-supercross-edition.json) |
 | MX vs. ATV: Legends - 2025 Monster Energy Supercross Championship | 350639 | [350639-mx-vs-atv-legends-2025-monster-energy-supercross-championship.json](./350639-mx-vs-atv-legends-2025-monster-energy-supercross-championship.json) |
+| MX vs. ATV: Legends - Collector's Edition | 194824 | [194824-mx-vs-atv-legends-collectors-edition.json](./194824-mx-vs-atv-legends-collectors-edition.json) |
 | MX vs. ATV: Legends - Customization Pack | 350651 | [350651-mx-vs-atv-legends-customization-pack.json](./350651-mx-vs-atv-legends-customization-pack.json) |
 | MX vs. ATV: Legends - GASGAS Pack 2023 | 274741 | [274741-mx-vs-atv-legends-gasgas-pack-2023.json](./274741-mx-vs-atv-legends-gasgas-pack-2023.json) |
 | MX vs. ATV: Legends - GASGAS Pack 2025 | 356699 | [356699-mx-vs-atv-legends-gasgas-pack-2025.json](./356699-mx-vs-atv-legends-gasgas-pack-2025.json) |
@@ -19198,6 +19201,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Reflections of the Past - Collector's Edition | 366024 | [366024-mystery-trackers-reflections-of-the-past-collectors-edition.json](./366024-mystery-trackers-reflections-of-the-past-collectors-edition.json) |
 | Mystery Trackers: Silent Hollow | 22110 | [22110-mystery-trackers-silent-hollow.json](./22110-mystery-trackers-silent-hollow.json) |
 | Mystery Trackers: The Fall of Iron Rock | 187935 | [187935-mystery-trackers-the-fall-of-iron-rock.json](./187935-mystery-trackers-the-fall-of-iron-rock.json) |
+| Mystery Trackers: The Four Aces | 194780 | [194780-mystery-trackers-the-four-aces.json](./194780-mystery-trackers-the-four-aces.json) |
+| Mystery Trackers: The Four Aces - Collector's Edition | 194781 | [194781-mystery-trackers-the-four-aces-collectors-edition.json](./194781-mystery-trackers-the-four-aces-collectors-edition.json) |
 | Mystery Trackers: The Four Aces & Mystery Trackers: Silent Hollow | 200955 | [200955-mystery-trackers-the-four-aces-and-mystery-trackers-silent-hollow.json](./200955-mystery-trackers-the-four-aces-and-mystery-trackers-silent-hollow.json) |
 | Mystery Trackers: The Secret of Watch Hill | 187957 | [187957-mystery-trackers-the-secret-of-watch-hill.json](./187957-mystery-trackers-the-secret-of-watch-hill.json) |
 | Mystery Trackers: The Shrouded Village | 416698 | [416698-mystery-trackers-the-shrouded-village.json](./416698-mystery-trackers-the-shrouded-village.json) |
