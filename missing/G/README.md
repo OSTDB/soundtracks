@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameCenter CX: Arino no Chousenjou 2 | 79923 | [79923-gamecenter-cx-arino-no-chousenjou-2.json](./79923-gamecenter-cx-arino-no-chousenjou-2.json) |
 | GameChanger: Episode 1 | 283020 | [283020-gamechanger-episode-1.json](./283020-gamechanger-episode-1.json) |
 | Gamecraft | 118424 | [118424-gamecraft.json](./118424-gamecraft.json) |
+| Gamecraft | 183202 | [183202-gamecraft.json](./183202-gamecraft.json) |
 | Gameday Live | 82066 | [82066-gameday-live.json](./82066-gameday-live.json) |
 | Gamedec | 121531 | [121531-gamedec.json](./121531-gamedec.json) |
 | Gamedec: Dafne Bennet | 196148 | [196148-gamedec-dafne-bennet.json](./196148-gamedec-dafne-bennet.json) |
@@ -9142,6 +9143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guillem de Berguedà | 373571 | [373571-guillem-de-bergueda.json](./373571-guillem-de-bergueda.json) |
 | Guillermo Tell | 146307 | [146307-guillermo-tell.json](./146307-guillermo-tell.json) |
 | Guillotine | 160117 | [160117-guillotine.json](./160117-guillotine.json) |
+| Guillotine Earrings | 183193 | [183193-guillotine-earrings.json](./183193-guillotine-earrings.json) |
 | Guilt | 341099 | [341099-guilt.json](./341099-guilt.json) |
 | Guilt | 345521 | [345521-guilt.json](./345521-guilt.json) |
 | Guilt Free | 150445 | [150445-guilt-free.json](./150445-guilt-free.json) |
