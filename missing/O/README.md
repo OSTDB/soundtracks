@@ -1515,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Royale | 224163 | [224163-omega-royale.json](./224163-omega-royale.json) |
 | Omega Run | 70366 | [70366-omega-run.json](./70366-omega-run.json) |
 | Omega Space | 304917 | [304917-omega-space.json](./304917-omega-space.json) |
+| Omega Squad | 207080 | [207080-omega-squad.json](./207080-omega-squad.json) |
 | Omega Strike | 39752 | [39752-omega-strike.json](./39752-omega-strike.json) |
 | Omega Strike: Deluxe Edition | 120798 | [120798-omega-strike-deluxe-edition.json](./120798-omega-strike-deluxe-edition.json) |
 | Omega Strikers: Season 2 - Summer Splash | 260971 | [260971-omega-strikers-season-2-summer-splash.json](./260971-omega-strikers-season-2-summer-splash.json) |
