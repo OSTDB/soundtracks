@@ -4293,6 +4293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wholesome Monster Girl Academia | 237791 | [237791-wholesome-monster-girl-academia.json](./237791-wholesome-monster-girl-academia.json) |
 | Wholesome Slaughter | 143014 | [143014-wholesome-slaughter.json](./143014-wholesome-slaughter.json) |
 | Wholesome: Heartdrawn | 253533 | [253533-wholesome-heartdrawn.json](./253533-wholesome-heartdrawn.json) |
+| Whom the Telling Changed | 217677 | [217677-whom-the-telling-changed.json](./217677-whom-the-telling-changed.json) |
 | Whomp 'Em | 48257 | [48257-whomp-em.json](./48257-whomp-em.json) |
 | Whomper Stomper | 54934 | [54934-whomper-stomper.json](./54934-whomper-stomper.json) |
 | Whone | 161571 | [161571-whone.json](./161571-whone.json) |
@@ -7065,6 +7066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Football Challenge '98 | 217772 | [217772-world-football-challenge-98.json](./217772-world-football-challenge-98.json) |
 | World Football Champion | 100810 | [100810-world-football-champion.json](./100810-world-football-champion.json) |
 | World for Two | 147270 | [147270-world-for-two.json](./147270-world-for-two.json) |
+| World Games | 217704 | [217704-world-games.json](./217704-world-games.json) |
 | World Games | 304984 | [304984-world-games.json](./304984-world-games.json) |
 | World Geography | 216177 | [216177-world-geography.json](./216177-world-geography.json) |
 | World Golf | 68674 | [68674-world-golf.json](./68674-world-golf.json) |
@@ -7992,6 +7994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WrestleQuest | 194466 | [194466-wrestlequest.json](./194466-wrestlequest.json) |
 | Wrestler Rush | 302419 | [302419-wrestler-rush.json](./302419-wrestler-rush.json) |
 | Wrestlers Without Boundaries | 102356 | [102356-wrestlers-without-boundaries.json](./102356-wrestlers-without-boundaries.json) |
+| Wrestling | 217707 | [217707-wrestling.json](./217707-wrestling.json) |
 | Wrestling Empire | 142449 | [142449-wrestling-empire.json](./142449-wrestling-empire.json) |
 | Wrestling Empire Forever | 270163 | [270163-wrestling-empire-forever.json](./270163-wrestling-empire-forever.json) |
 | Wrestling Manager 2023 | 226116 | [226116-wrestling-manager-2023.json](./226116-wrestling-manager-2023.json) |
