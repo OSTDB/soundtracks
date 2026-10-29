@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanban-mura | 310719 | [310719-kanban-mura.json](./310719-kanban-mura.json) |
 | Kanbutsu Himouto! Umaru-chan Daratto Puzzle | 222392 | [222392-kanbutsu-himouto-umaru-chan-daratto-puzzle.json](./222392-kanbutsu-himouto-umaru-chan-daratto-puzzle.json) |
 | Kanchayudha | 57106 | [57106-kanchayudha.json](./57106-kanchayudha.json) |
+| KanColle Arcade | 205935 | [205935-kancolle-arcade.json](./205935-kancolle-arcade.json) |
 | KanColle Kai | 11461 | [11461-kancolle-kai.json](./11461-kancolle-kai.json) |
 | Kanda Alice mo Suiri Suru. | 210404 | [210404-kanda-alice-mo-suiri-suru.json](./210404-kanda-alice-mo-suiri-suru.json) |
 | Kandagawa Jet Girls | 121202 | [121202-kandagawa-jet-girls.json](./121202-kandagawa-jet-girls.json) |
@@ -2461,7 +2462,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
