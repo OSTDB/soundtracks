@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Ghost | 36901 | [36901-laser-ghost.json](./36901-laser-ghost.json) |
 | Laser Grand Prix | 66531 | [66531-laser-grand-prix.json](./66531-laser-grand-prix.json) |
 | Laser Grid | 52252 | [52252-laser-grid.json](./52252-laser-grid.json) |
+| Laser Guy (Harold) | 182646 | [182646-laser-guy-harold.json](./182646-laser-guy-harold.json) |
 | Laser Harp VR | 357218 | [357218-laser-harp-vr.json](./357218-laser-harp-vr.json) |
 | Laser Heck | 132679 | [132679-laser-heck.json](./132679-laser-heck.json) |
 | Laser Hell | 384183 | [384183-laser-hell.json](./384183-laser-hell.json) |
@@ -6366,6 +6367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Christmas: Cute Santa | 341176 | [341176-lonely-christmas-cute-santa.json](./341176-lonely-christmas-cute-santa.json) |
 | Lonely Christmas: Cute Santa 2 | 384897 | [384897-lonely-christmas-cute-santa-2.json](./384897-lonely-christmas-cute-santa-2.json) |
 | Lonely Christmas: Succubus Santa | 341177 | [341177-lonely-christmas-succubus-santa.json](./341177-lonely-christmas-succubus-santa.json) |
+| Lonely dog lost in space | 182681 | [182681-lonely-dog-lost-in-space.json](./182681-lonely-dog-lost-in-space.json) |
 | Lonely Guardian | 374966 | [374966-lonely-guardian.json](./374966-lonely-guardian.json) |
 | Lonely Hero & Non-Fight Party | 191677 | [191677-lonely-hero-and-non-fight-party.json](./191677-lonely-hero-and-non-fight-party.json) |
 | Lonely House | 342286 | [342286-lonely-house.json](./342286-lonely-house.json) |
