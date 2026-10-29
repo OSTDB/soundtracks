@@ -6748,6 +6748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruction Simulator | 311455 | [311455-destruction-simulator.json](./311455-destruction-simulator.json) |
 | Destruction Time! | 153882 | [153882-destruction-time.json](./153882-destruction-time.json) |
 | Destructivator 2 | 127778 | [127778-destructivator-2.json](./127778-destructivator-2.json) |
+| Destructivator SE | 180984 | [180984-destructivator-se.json](./180984-destructivator-se.json) |
 | Destructive Contraptions | 156022 | [156022-destructive-contraptions.json](./156022-destructive-contraptions.json) |
 | Destructive physics | 127848 | [127848-destructive-physics.json](./127848-destructive-physics.json) |
 | Destructo | 171483 | [171483-destructo.json](./171483-destructo.json) |
@@ -15815,6 +15816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Abyss | 253275 | [253275-dungeon-abyss.json](./253275-dungeon-abyss.json) |
 | Dungeon Adventure | 100677 | [100677-dungeon-adventure.json](./100677-dungeon-adventure.json) |
 | Dungeon Adventure | 165934 | [165934-dungeon-adventure.json](./165934-dungeon-adventure.json) |
+| Dungeon Adventure | 180983 | [180983-dungeon-adventure.json](./180983-dungeon-adventure.json) |
 | Dungeon Adventure | 344358 | [344358-dungeon-adventure.json](./344358-dungeon-adventure.json) |
 | Dungeon Adventure Gang | 272371 | [272371-dungeon-adventure-gang.json](./272371-dungeon-adventure-gang.json) |
 | Dungeon Adventure Island | 282168 | [282168-dungeon-adventure-island.json](./282168-dungeon-adventure-island.json) |
