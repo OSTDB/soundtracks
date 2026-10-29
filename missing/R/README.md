@@ -4675,6 +4675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repossessed | 279738 | [279738-repossessed.json](./279738-repossessed.json) |
 | Repossession | 226180 | [226180-repossession.json](./226180-repossession.json) |
 | Repressed | 121352 | [121352-repressed.json](./121352-repressed.json) |
+| Repressed Gamer | 180436 | [180436-repressed-gamer.json](./180436-repressed-gamer.json) |
 | Reprisal | 94143 | [94143-reprisal.json](./94143-reprisal.json) |
 | Reprisal Universe | 8871 | [8871-reprisal-universe.json](./8871-reprisal-universe.json) |
 | Reprobate | 230173 | [230173-reprobate.json](./230173-reprobate.json) |
@@ -7072,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Dead | 265125 | [265125-rising-dead.json](./265125-rising-dead.json) |
 | Rising Evil VR | 112176 | [112176-rising-evil-vr.json](./112176-rising-evil-vr.json) |
 | Rising Fire | 112515 | [112515-rising-fire.json](./112515-rising-fire.json) |
+| Rising Hazard | 180405 | [180405-rising-hazard.json](./180405-rising-hazard.json) |
 | Rising Heat | 319372 | [319372-rising-heat.json](./319372-rising-heat.json) |
 | Rising Hell | 108409 | [108409-rising-hell.json](./108409-rising-hell.json) |
 | Rising Islands | 19242 | [19242-rising-islands.json](./19242-rising-islands.json) |
@@ -9469,6 +9471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romancing Flesh | 199074 | [199074-romancing-flesh.json](./199074-romancing-flesh.json) |
 | Romancing Mario | 268107 | [268107-romancing-mario.json](./268107-romancing-mario.json) |
 | Romancing Monarchy | 105137 | [105137-romancing-monarchy.json](./105137-romancing-monarchy.json) |
+| Romancing of Heroes: Boys' Side | 180406 | [180406-romancing-of-heroes-boys-side.json](./180406-romancing-of-heroes-boys-side.json) |
 | Romancing SaGa | 11311 | [11311-romancing-saga.json](./11311-romancing-saga.json) |
 | Romancing SaGa 3 | 109592 | [109592-romancing-saga-3.json](./109592-romancing-saga-3.json) |
 | Romancing SaGa Re;UniverSe | 109593 | [109593-romancing-saga-re-universe.json](./109593-romancing-saga-re-universe.json) |
