@@ -2459,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready Action | 196893 | [196893-ready-action.json](./196893-ready-action.json) |
 | Ready Aim Fire | 149295 | [149295-ready-aim-fire.json](./149295-ready-aim-fire.json) |
 | Ready Contest | 112233 | [112233-ready-contest.json](./112233-ready-contest.json) |
+| Ready for Riot | 210976 | [210976-ready-for-riot.json](./210976-ready-for-riot.json) |
 | Ready or Die | 389071 | [389071-ready-or-die.json](./389071-ready-or-die.json) |
 | Ready or Not: Boiling Point | 394376 | [394376-ready-or-not-boiling-point.json](./394376-ready-or-not-boiling-point.json) |
 | Ready or Not: Dark Waters | 324580 | [324580-ready-or-not-dark-waters.json](./324580-ready-or-not-dark-waters.json) |
@@ -2706,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality | 327025 | [327025-reality.json](./327025-reality.json) |
 | Reality | 353297 | [353297-reality.json](./353297-reality.json) |
 | Reality | 81178 | [81178-reality.json](./81178-reality.json) |
+| Reality Break | 210993 | [210993-reality-break.json](./210993-reality-break.json) |
 | Reality Check | 70374 | [70374-reality-check.json](./70374-reality-check.json) |
 | Reality Check 2 | 70373 | [70373-reality-check-2.json](./70373-reality-check-2.json) |
 | Reality Check 3 | 70372 | [70372-reality-check-3.json](./70372-reality-check-3.json) |
@@ -4055,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of the Succubus | 106618 | [106618-reign-of-the-succubus.json](./106618-reign-of-the-succubus.json) |
 | Reign of the Undead: Revolution | 299134 | [299134-reign-of-the-undead-revolution.json](./299134-reign-of-the-undead-revolution.json) |
 | Reign of Thunder | 65383 | [65383-reign-of-thunder.json](./65383-reign-of-thunder.json) |
+| Reign Over | 210981 | [210981-reign-over.json](./210981-reign-over.json) |
 | Reign: Conflict of Nations | 11430 | [11430-reign-conflict-of-nations.json](./11430-reign-conflict-of-nations.json) |
 | Reignbreaker | 314640 | [314640-reignbreaker.json](./314640-reignbreaker.json) |
 | Reigning | 153849 | [153849-reigning.json](./153849-reigning.json) |
