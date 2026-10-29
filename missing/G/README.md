@@ -1869,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station Simulator and Party Time DLC Bundle | 331539 | [331539-gas-station-simulator-and-party-time-dlc-bundle.json](./331539-gas-station-simulator-and-party-time-dlc-bundle.json) |
 | Gas Station Simulator, Airstrip DLC and Can Touch This DLC Bundle | 297455 | [297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
 | Gas Station Simulator, Airstrip DLC and Party Time DLC Bundle | 336439 | [336439-gas-station-simulator-airstrip-dlc-and-party-time-dlc-bundle.json](./336439-gas-station-simulator-airstrip-dlc-and-party-time-dlc-bundle.json) |
+| Gas Station Simulator: Can Touch This | 200839 | [200839-gas-station-simulator-can-touch-this.json](./200839-gas-station-simulator-can-touch-this.json) |
 | Gas Station Simulator: Can Touch This DLC | 298596 | [298596-gas-station-simulator-can-touch-this-dlc.json](./298596-gas-station-simulator-can-touch-this-dlc.json) |
 | Gas Station Simulator: Car Junkyard | 286557 | [286557-gas-station-simulator-car-junkyard.json](./286557-gas-station-simulator-car-junkyard.json) |
 | Gas Station Simulator: DLC Pack | 267415 | [267415-gas-station-simulator-dlc-pack.json](./267415-gas-station-simulator-dlc-pack.json) |
@@ -4096,6 +4097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give Me Your Coins | 112686 | [112686-give-me-your-coins.json](./112686-give-me-your-coins.json) |
 | Give My Regards to Broad Street | 66710 | [66710-give-my-regards-to-broad-street.json](./66710-give-my-regards-to-broad-street.json) |
 | Give the People What They Want | 197189 | [197189-give-the-people-what-they-want.json](./197189-give-the-people-what-they-want.json) |
+| Give Up | 200841 | [200841-give-up.json](./200841-give-up.json) |
 | Give Up 2 | 250183 | [250183-give-up-2.json](./250183-give-up-2.json) |
 | Give Up Robot 2 | 281591 | [281591-give-up-robot-2.json](./281591-give-up-robot-2.json) |
 | Give Up the Ghost: A Puzzle Checklist | 206471 | [206471-give-up-the-ghost-a-puzzle-checklist.json](./206471-give-up-the-ghost-a-puzzle-checklist.json) |
@@ -5044,6 +5046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Dish | 413454 | [413454-goblin-dish.json](./413454-goblin-dish.json) |
 | Goblin Down | 247973 | [247973-goblin-down.json](./247973-goblin-down.json) |
 | Goblin Dungeoneer | 151526 | [151526-goblin-dungeoneer.json](./151526-goblin-dungeoneer.json) |
+| Goblin Gladiators | 201414 | [201414-goblin-gladiators.json](./201414-goblin-gladiators.json) |
 | Goblin God | 413069 | [413069-goblin-god.json](./413069-goblin-god.json) |
 | Goblin Gold Hunt | 379121 | [379121-goblin-gold-hunt.json](./379121-goblin-gold-hunt.json) |
 | Goblin Golf | 181689 | [181689-goblin-golf.json](./181689-goblin-golf.json) |
@@ -6189,6 +6192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goofy Gorillas | 276667 | [276667-goofy-gorillas.json](./276667-goofy-gorillas.json) |
 | Goofy Insanity | 259240 | [259240-goofy-insanity.json](./259240-goofy-insanity.json) |
 | Goofy Lil Guys | 335250 | [335250-goofy-lil-guys.json](./335250-goofy-lil-guys.json) |
+| Goofy Man | 200822 | [200822-goofy-man.json](./200822-goofy-man.json) |
 | Goofy Monsters - Sokoban Land | 25927 | [25927-goofy-monsters-sokoban-land.json](./25927-goofy-monsters-sokoban-land.json) |
 | Goofy Neighborhood | 223262 | [223262-goofy-neighborhood.json](./223262-goofy-neighborhood.json) |
 | Goofy Soccer | 320874 | [320874-goofy-soccer.json](./320874-goofy-soccer.json) |
