@@ -10286,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appleblossom Academy 2 | 185422 | [185422-appleblossom-academy-2.json](./185422-appleblossom-academy-2.json) |
 | Appleocalypse | 223375 | [223375-appleocalypse.json](./223375-appleocalypse.json) |
 | ApplePop | 352541 | [352541-applepop.json](./352541-applepop.json) |
+| Apples and Asteroids | 215526 | [215526-apples-and-asteroids.json](./215526-apples-and-asteroids.json) |
 | Apples and Dolls | 40612 | [40612-apples-and-dolls.json](./40612-apples-and-dolls.json) |
 | Apples and Oranges | 308424 | [308424-apples-and-oranges.json](./308424-apples-and-oranges.json) |
 | Apples Busy Day | 302085 | [302085-apples-busy-day.json](./302085-apples-busy-day.json) |
@@ -11066,6 +11067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Crossy Road | 228367 | [228367-arcade-crossy-road.json](./228367-arcade-crossy-road.json) |
 | Arcade Daze | 251088 | [251088-arcade-daze.json](./251088-arcade-daze.json) |
 | Arcade Drift | 167347 | [167347-arcade-drift.json](./167347-arcade-drift.json) |
+| Arcade Dungeon | 215525 | [215525-arcade-dungeon.json](./215525-arcade-dungeon.json) |
 | Arcade Essentials | 51094 | [51094-arcade-essentials.json](./51094-arcade-essentials.json) |
 | Arcade Fishing | 248242 | [248242-arcade-fishing.json](./248242-arcade-fishing.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
@@ -11732,6 +11734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Champion | 224588 | [224588-arena-champion.json](./224588-arena-champion.json) |
 | Arena Chaos | 223442 | [223442-arena-chaos.json](./223442-arena-chaos.json) |
 | Arena Circus | 179619 | [179619-arena-circus.json](./179619-arena-circus.json) |
+| Arena Clash | 215524 | [215524-arena-clash.json](./215524-arena-clash.json) |
 | Arena Constellation | 295012 | [295012-arena-constellation.json](./295012-arena-constellation.json) |
 | Arena Drift Master | 192212 | [192212-arena-drift-master.json](./192212-arena-drift-master.json) |
 | Arena Football | 5731 | [5731-arena-football.json](./5731-arena-football.json) |
@@ -11925,6 +11928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aris | 344428 | [344428-aris.json](./344428-aris.json) |
 | Aris Arcanum | 324531 | [324531-aris-arcanum.json](./324531-aris-arcanum.json) |
 | Arise | 362992 | [362992-arise.json](./362992-arise.json) |
+| Arise from Shadows | 215523 | [215523-arise-from-shadows.json](./215523-arise-from-shadows.json) |
 | Arise: A Simple Story - Definitive Edition | 199171 | [199171-arise-a-simple-story-definitive-edition.json](./199171-arise-a-simple-story-definitive-edition.json) |
 | Arisen | 120603 | [120603-arisen.json](./120603-arisen.json) |
 | Arisen Force: HeroTest | 302980 | [302980-arisen-force-herotest.json](./302980-arisen-force-herotest.json) |
