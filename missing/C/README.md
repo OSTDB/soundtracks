@@ -7478,6 +7478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuggington: Babysitter Brewster | 230548 | [230548-chuggington-babysitter-brewster.json](./230548-chuggington-babysitter-brewster.json) |
 | Chuhou Joutai | 133460 | [133460-chuhou-joutai.json](./133460-chuhou-joutai.json) |
 | Chuhou Joutai 2: Paraided! | 154253 | [154253-chuhou-joutai-2-paraided.json](./154253-chuhou-joutai-2-paraided.json) |
+| Chuhou Joutai 3: Three Nights of Scarlet Abscess | 205863 | [205863-chuhou-joutai-3-three-nights-of-scarlet-abscess.json](./205863-chuhou-joutai-3-three-nights-of-scarlet-abscess.json) |
 | Chuka Taisen | 386350 | [386350-chuka-taisen.json](./386350-chuka-taisen.json) |
 | Chuka Taisen | 48535 | [48535-chuka-taisen.json](./48535-chuka-taisen.json) |
 | Chukcha v Bolshom Gorode | 403576 | [403576-chukcha-v-bolshom-gorode.json](./403576-chukcha-v-bolshom-gorode.json) |
@@ -8544,6 +8545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Mario World 3: The Finale | 260813 | [260813-classic-mario-world-3-the-finale.json](./260813-classic-mario-world-3-the-finale.json) |
 | Classic Mario World: The Magic Crystals | 191909 | [191909-classic-mario-world-the-magic-crystals.json](./191909-classic-mario-world-the-magic-crystals.json) |
 | Classic Max Lite | 359478 | [359478-classic-max-lite.json](./359478-classic-max-lite.json) |
+| Classic Memory Game | 205864 | [205864-classic-memory-game.json](./205864-classic-memory-game.json) |
 | Classic Muncher | 13496 | [13496-classic-muncher.json](./13496-classic-muncher.json) |
 | Classic NES Series Trivia | 328665 | [328665-classic-nes-series-trivia.json](./328665-classic-nes-series-trivia.json) |
 | Classic NES Series: Bomberman | 49163 | [49163-classic-nes-series-bomberman.json](./49163-classic-nes-series-bomberman.json) |
@@ -9311,6 +9313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown Ball | 368228 | [368228-clown-ball.json](./368228-clown-ball.json) |
 | Clown Camp | 346081 | [346081-clown-camp.json](./346081-clown-camp.json) |
 | Clown Car vs. The War | 401381 | [401381-clown-car-vs-the-war.json](./401381-clown-car-vs-the-war.json) |
+| Clown For Speed | 205852 | [205852-clown-for-speed.json](./205852-clown-for-speed.json) |
 | Clown House | 90599 | [90599-clown-house.json](./90599-clown-house.json) |
 | Clown House: Lunacy | 381610 | [381610-clown-house-lunacy.json](./381610-clown-house-lunacy.json) |
 | Clown In a House | 152685 | [152685-clown-in-a-house.json](./152685-clown-in-a-house.json) |
@@ -15190,6 +15193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Snow Deluxe | 310030 | [310030-crimson-snow-deluxe.json](./310030-crimson-snow-deluxe.json) |
 | Crimson Song | 239818 | [239818-crimson-song.json](./239818-crimson-song.json) |
 | Crimson Souls | 109696 | [109696-crimson-souls.json](./109696-crimson-souls.json) |
+| Crimson Standard | 205865 | [205865-crimson-standard.json](./205865-crimson-standard.json) |
 | Crimson Survival | 89635 | [89635-crimson-survival.json](./89635-crimson-survival.json) |
 | Crimson Sword Saga: The Peloran Wars | 32183 | [32183-crimson-sword-saga-the-peloran-wars.json](./32183-crimson-sword-saga-the-peloran-wars.json) |
 | Crimson System: VɅΔ Protocol | 361073 | [361073-crimson-system-v-protocol.json](./361073-crimson-system-v-protocol.json) |
@@ -17672,6 +17676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Dome | 62801 | [62801-cyber-dome.json](./62801-cyber-dome.json) |
 | Cyber Dose | 252243 | [252243-cyber-dose.json](./252243-cyber-dose.json) |
 | Cyber Dreamscape Battle-Deckers 2199 | 395830 | [395830-cyber-dreamscape-battle-deckers-2199.json](./395830-cyber-dreamscape-battle-deckers-2199.json) |
+| Cyber Drift | 205857 | [205857-cyber-drift.json](./205857-cyber-drift.json) |
 | Cyber Drive | 169645 | [169645-cyber-drive.json](./169645-cyber-drive.json) |
 | Cyber Driver | 117055 | [117055-cyber-driver.json](./117055-cyber-driver.json) |
 | Cyber Dungeon X Monster Girls | 351759 | [351759-cyber-dungeon-x-monster-girls.json](./351759-cyber-dungeon-x-monster-girls.json) |
