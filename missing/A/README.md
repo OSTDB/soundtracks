@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Good Hunch | 219116 | [219116-a-good-hunch.json](./219116-a-good-hunch.json) |
 | A Good Librarian Like a Good Shepherd | 106621 | [106621-a-good-librarian-like-a-good-shepherd.json](./106621-a-good-librarian-like-a-good-shepherd.json) |
 | A Good Place To Die | 247317 | [247317-a-good-place-to-die.json](./247317-a-good-place-to-die.json) |
+| A Good Truck Driver | 197001 | [197001-a-good-truck-driver.json](./197001-a-good-truck-driver.json) |
 | A Gorilla vs. 100 Men Simulator | 359567 | [359567-a-gorilla-vs-100-men-simulator.json](./359567-a-gorilla-vs-100-men-simulator.json) |
 | A Gracewind Tale: Do You Copy? | 97468 | [97468-a-gracewind-tale-do-you-copy.json](./97468-a-gracewind-tale-do-you-copy.json) |
 | A Gracewind Tale: Midnight Shift with Lenny Motts | 327729 | [327729-a-gracewind-tale-midnight-shift-with-lenny-motts.json](./327729-a-gracewind-tale-midnight-shift-with-lenny-motts.json) |
@@ -1885,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absylon 7 | 165403 | [165403-absylon-7.json](./165403-absylon-7.json) |
 | Abtos Covert | 167396 | [167396-abtos-covert.json](./167396-abtos-covert.json) |
 | Abu Batata | 411555 | [411555-abu-batata.json](./411555-abu-batata.json) |
+| Abu's Adventures | 198016 | [198016-abus-adventures.json](./198016-abus-adventures.json) |
 | Abulia | 372445 | [372445-abulia.json](./372445-abulia.json) |
 | Abunai Josei Shinrigaku Nyuumon | 269683 | [269683-abunai-josei-shinrigaku-nyuumon.json](./269683-abunai-josei-shinrigaku-nyuumon.json) |
 | Abunai Koi no Sousashitsu | 197859 | [197859-abunai-koi-no-sousashitsu.json](./197859-abunai-koi-no-sousashitsu.json) |
@@ -5356,6 +5358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alan Wake: The Signal | 20316 | [20316-alan-wake-the-signal.json](./20316-alan-wake-the-signal.json) |
 | Alan Wake: The Writer | 20317 | [20317-alan-wake-the-writer.json](./20317-alan-wake-the-writer.json) |
 | Alan Walker: The Aviation Game | 234642 | [234642-alan-walker-the-aviation-game.json](./234642-alan-walker-the-aviation-game.json) |
+| Alan-13 Reformation | 196991 | [196991-alan-13-reformation.json](./196991-alan-13-reformation.json) |
 | Alan's Automaton Workshop | 160262 | [160262-alans-automaton-workshop.json](./160262-alans-automaton-workshop.json) |
 | Alara Prime | 207827 | [207827-alara-prime.json](./207827-alara-prime.json) |
 | Alarameth TD | 35071 | [35071-alarameth-td.json](./35071-alarameth-td.json) |
@@ -6341,6 +6344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Grown Up!: Express Yourself | 2796 | [2796-all-grown-up-express-yourself.json](./2796-all-grown-up-express-yourself.json) |
 | All Guns Blazing | 344863 | [344863-all-guns-blazing.json](./344863-all-guns-blazing.json) |
 | All Guns on Deck | 17681 | [17681-all-guns-on-deck.json](./17681-all-guns-on-deck.json) |
+| All Hail Temos | 196974 | [196974-all-hail-temos.json](./196974-all-hail-temos.json) |
 | All Hail the Cook-o-tron | 139464 | [139464-all-hail-the-cook-o-tron.json](./139464-all-hail-the-cook-o-tron.json) |
 | All Hail the Heat Death! | 396357 | [396357-all-hail-the-heat-death.json](./396357-all-hail-the-heat-death.json) |
 | All Hallows | 405774 | [405774-all-hallows.json](./405774-all-hallows.json) |
