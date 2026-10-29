@@ -5816,6 +5816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evade 2 | 227469 | [227469-evade-2.json](./227469-evade-2.json) |
 | Evade Prison | 380812 | [380812-evade-prison.json](./380812-evade-prison.json) |
 | Evade the Light | 151157 | [151157-evade-the-light.json](./151157-evade-the-light.json) |
+| Evade the Taxman | 192562 | [192562-evade-the-taxman.json](./192562-evade-the-taxman.json) |
 | Evade Zero | 169745 | [169745-evade-zero.json](./169745-evade-zero.json) |
 | Evader | 290693 | [290693-evader.json](./290693-evader.json) |
 | Evades X | 396444 | [396444-evades-x.json](./396444-evades-x.json) |
