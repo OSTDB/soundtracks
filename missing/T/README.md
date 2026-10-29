@@ -1785,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankegeddon! | 383147 | [383147-tankegeddon.json](./383147-tankegeddon.json) |
 | Tanker Truck Simulator 2011 | 53718 | [53718-tanker-truck-simulator-2011.json](./53718-tanker-truck-simulator-2011.json) |
 | Tankette | 207282 | [207282-tankette.json](./207282-tankette.json) |
+| Tankettes | 223246 | [223246-tankettes.json](./223246-tankettes.json) |
 | Tankex | 117436 | [117436-tankex.json](./117436-tankex.json) |
 | TankFall Arena | 406845 | [406845-tankfall-arena.json](./406845-tankfall-arena.json) |
 | Tankfight | 159537 | [159537-tankfight.json](./159537-tankfight.json) |
@@ -5163,6 +5164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apocalypse of You | 178999 | [178999-the-apocalypse-of-you.json](./178999-the-apocalypse-of-you.json) |
 | The Apocryphal Gensoukyou | 212894 | [212894-the-apocryphal-gensoukyou.json](./212894-the-apocryphal-gensoukyou.json) |
 | The Apollo Project | 192682 | [192682-the-apollo-project.json](./192682-the-apollo-project.json) |
+| The Apothecary | 223242 | [223242-the-apothecary.json](./223242-the-apothecary.json) |
 | The Apothecary Diaries Palace Chronicles | 406943 | [406943-the-apothecary-diaries-palace-chronicles.json](./406943-the-apothecary-diaries-palace-chronicles.json) |
 | The Apothecary of Trubiz | 376645 | [376645-the-apothecary-of-trubiz.json](./376645-the-apothecary-of-trubiz.json) |
 | The Apothecary's Apprentice | 177571 | [177571-the-apothecarys-apprentice.json](./177571-the-apothecarys-apprentice.json) |
@@ -8189,6 +8191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fennels Figure Math | 93189 | [93189-the-fennels-figure-math.json](./93189-the-fennels-figure-math.json) |
 | The Feral Child | 112304 | [112304-the-feral-child.json](./112304-the-feral-child.json) |
 | The Fermi Paradox | 154094 | [154094-the-fermi-paradox.json](./154094-the-fermi-paradox.json) |
+| The Fernweh Saga: Book One | 223264 | [223264-the-fernweh-saga-book-one.json](./223264-the-fernweh-saga-book-one.json) |
 | The Ferry | 319378 | [319378-the-ferry.json](./319378-the-ferry.json) |
 | The Ferryman | 201760 | [201760-the-ferryman.json](./201760-the-ferryman.json) |
 | The Fever | 141745 | [141745-the-fever.json](./141745-the-fever.json) |
@@ -12955,6 +12958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Peephole's Chronicles: Weird John | 150030 | [150030-the-peepholes-chronicles-weird-john.json](./150030-the-peepholes-chronicles-weird-john.json) |
 | The Pegasus Expedition: Grand Admiral Edition | 254413 | [254413-the-pegasus-expedition-grand-admiral-edition.json](./254413-the-pegasus-expedition-grand-admiral-edition.json) |
 | The Pellar | 247603 | [247603-the-pellar.json](./247603-the-pellar.json) |
+| The Pencil is cast! | 223272 | [223272-the-pencil-is-cast.json](./223272-the-pencil-is-cast.json) |
 | The Penguin Factory | 118790 | [118790-the-penguin-factory.json](./118790-the-penguin-factory.json) |
 | The Penguin Game: Antarctic Savior | 242482 | [242482-the-penguin-game-antarctic-savior.json](./242482-the-penguin-game-antarctic-savior.json) |
 | The Penguin Horror: Legacy of The Pengcasso | 285475 | [285475-the-penguin-horror-legacy-of-the-pengcasso.json](./285475-the-penguin-horror-legacy-of-the-pengcasso.json) |
@@ -16021,6 +16025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultra Code | 121294 | [121294-the-ultra-code.json](./121294-the-ultra-code.json) |
 | The Ultra Mission | 199105 | [199105-the-ultra-mission.json](./199105-the-ultra-mission.json) |
 | The Umbrella Ninja | 260734 | [260734-the-umbrella-ninja.json](./260734-the-umbrella-ninja.json) |
+| The Umbridge Estate | 223231 | [223231-the-umbridge-estate.json](./223231-the-umbridge-estate.json) |
 | The Ump Show | 272403 | [272403-the-ump-show.json](./272403-the-ump-show.json) |
 | The Un-Beatable Game | 161588 | [161588-the-un-beatable-game.json](./161588-the-un-beatable-game.json) |
 | The Unachievable Game | 205232 | [205232-the-unachievable-game.json](./205232-the-unachievable-game.json) |
@@ -17467,6 +17472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think a Little | 289182 | [289182-think-a-little.json](./289182-think-a-little.json) |
 | Think About Aliens! | 150088 | [150088-think-about-aliens.json](./150088-think-about-aliens.json) |
 | Think and Choice | 373758 | [373758-think-and-choice.json](./373758-think-and-choice.json) |
+| Think and Co-op | 223233 | [223233-think-and-co-op.json](./223233-think-and-co-op.json) |
 | Think Fast - Time Based Memory Game | 87124 | [87124-think-fast-time-based-memory-game.json](./87124-think-fast-time-based-memory-game.json) |
 | Think in Two | 388758 | [388758-think-in-two.json](./388758-think-in-two.json) |
 | Think It Up | 235430 | [235430-think-it-up.json](./235430-think-it-up.json) |
