@@ -1668,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle: Baby Animals - Expansion Pack 2 | 243060 | [243060-jigsaw-puzzle-baby-animals-expansion-pack-2.json](./243060-jigsaw-puzzle-baby-animals-expansion-pack-2.json) |
 | Jigsaw Puzzle: BDSM Room | 203536 | [203536-jigsaw-puzzle-bdsm-room.json](./203536-jigsaw-puzzle-bdsm-room.json) |
 | Jigsaw Puzzle: Beach Season 2 | 213316 | [213316-jigsaw-puzzle-beach-season-2.json](./213316-jigsaw-puzzle-beach-season-2.json) |
+| Jigsaw Puzzle: Belgium Through the Lens | 214276 | [214276-jigsaw-puzzle-belgium-through-the-lens.json](./214276-jigsaw-puzzle-belgium-through-the-lens.json) |
 | Jigsaw Puzzle: Best Places | 238993 | [238993-jigsaw-puzzle-best-places.json](./238993-jigsaw-puzzle-best-places.json) |
 | Jigsaw Puzzle: Cozy Fantasy Worlds | 399908 | [399908-jigsaw-puzzle-cozy-fantasy-worlds.json](./399908-jigsaw-puzzle-cozy-fantasy-worlds.json) |
 | Jigsaw Puzzle: Delicious Foods | 282135 | [282135-jigsaw-puzzle-delicious-foods.json](./282135-jigsaw-puzzle-delicious-foods.json) |
