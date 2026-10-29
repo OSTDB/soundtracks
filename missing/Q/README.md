@@ -974,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quink | 15353 | [15353-quink.json](./15353-quink.json) |
 | Quinn & Flynn | 272728 | [272728-quinn-and-flynn.json](./272728-quinn-and-flynn.json) |
 | Quinn's Aquarium | 354994 | [354994-quinns-aquarium.json](./354994-quinns-aquarium.json) |
+| Quint's Revenge | 209269 | [209269-quints-revenge.json](./209269-quints-revenge.json) |
 | Quintaesencia | 156989 | [156989-quintaesencia.json](./156989-quintaesencia.json) |
 | Quinterra | 145023 | [145023-quinterra.json](./145023-quinterra.json) |
 | Quintillion Quest | 380809 | [380809-quintillion-quest.json](./380809-quintillion-quest.json) |
