@@ -4757,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildfire Worlds | 64255 | [64255-wildfire-worlds.json](./64255-wildfire-worlds.json) |
 | Wildfire: Ticket to Rock | 161719 | [161719-wildfire-ticket-to-rock.json](./161719-wildfire-ticket-to-rock.json) |
 | Wildflower: From the Embers | 178095 | [178095-wildflower-from-the-embers.json](./178095-wildflower-from-the-embers.json) |
+| Wildfox Surfing Paradise | 196983 | [196983-wildfox-surfing-paradise.json](./196983-wildfox-surfing-paradise.json) |
 | WildFront | 274474 | [274474-wildfront.json](./274474-wildfront.json) |
 | Wildheart Gourmet | 356753 | [356753-wildheart-gourmet.json](./356753-wildheart-gourmet.json) |
 | Wildhollow | 25496 | [25496-wildhollow.json](./25496-wildhollow.json) |
@@ -7211,6 +7212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Guns VR: Guns Full Access | 155377 | [155377-world-of-guns-vr-guns-full-access.json](./155377-world-of-guns-vr-guns-full-access.json) |
 | World of Guns: Gun Disassembly | 7555 | [7555-world-of-guns-gun-disassembly.json](./7555-world-of-guns-gun-disassembly.json) |
 | World of Guns: VR | 121625 | [121625-world-of-guns-vr.json](./121625-world-of-guns-vr.json) |
+| World of Haiku | 196994 | [196994-world-of-haiku.json](./196994-world-of-haiku.json) |
 | World of Illusion Starring Mickey Mouse and Donald Duck | 8124 | [8124-world-of-illusion-starring-mickey-mouse-and-donald-duck.json](./8124-world-of-illusion-starring-mickey-mouse-and-donald-duck.json) |
 | World of Jade Dynasty | 323920 | [323920-world-of-jade-dynasty.json](./323920-world-of-jade-dynasty.json) |
 | World of JumpStart | 254465 | [254465-world-of-jumpstart.json](./254465-world-of-jumpstart.json) |
