@@ -1829,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onamae Battle | 331886 | [331886-onamae-battle.json](./331886-onamae-battle.json) |
 | Onamae nan dakke? Otona mo Kodomo mo Kantan Tanoshii Namae Ate Quiz Game | 233941 | [233941-onamae-nan-dakke-otona-mo-kodomo-mo-kantan-tanoshii-namae-ate-quiz-game.json](./233941-onamae-nan-dakke-otona-mo-kodomo-mo-kantan-tanoshii-namae-ate-quiz-game.json) |
 | Onanigan | 181383 | [181383-onanigan.json](./181383-onanigan.json) |
+| Onar | 211525 | [211525-onar.json](./211525-onar.json) |
 | Onc' Picsou | 198841 | [198841-onc-picsou.json](./198841-onc-picsou.json) |
 | OnCall | 276185 | [276185-oncall.json](./276185-oncall.json) |
 | Once a Porn a Time | 216980 | [216980-once-a-porn-a-time.json](./216980-once-a-porn-a-time.json) |
