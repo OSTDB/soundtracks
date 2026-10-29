@@ -4944,6 +4944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of R.Sole: Nothing, Nowhere & Not at the Same Time | 390692 | [390692-the-adventures-of-r-sole-nothing-nowhere-and-not-at-the-same-time.json](./390692-the-adventures-of-r-sole-nothing-nowhere-and-not-at-the-same-time.json) |
 | The Adventures of Rad Gravity | 8777 | [8777-the-adventures-of-rad-gravity.json](./8777-the-adventures-of-rad-gravity.json) |
 | The Adventures of Reynaldo | 146193 | [146193-the-adventures-of-reynaldo.json](./146193-the-adventures-of-reynaldo.json) |
+| The Adventures of Rob-1E | 219394 | [219394-the-adventures-of-rob-1e.json](./219394-the-adventures-of-rob-1e.json) |
 | The Adventures of Robin Hood | 2301 | [2301-the-adventures-of-robin-hood.json](./2301-the-adventures-of-robin-hood.json) |
 | The Adventures of Robin Hood | 265054 | [265054-the-adventures-of-robin-hood.json](./265054-the-adventures-of-robin-hood.json) |
 | The Adventures of Rocky and Bullwinkle and Friends | 264997 | [264997-the-adventures-of-rocky-and-bullwinkle-and-friends.json](./264997-the-adventures-of-rocky-and-bullwinkle-and-friends.json) |
@@ -9536,6 +9537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Human Race | 26415 | [26415-the-human-race.json](./26415-the-human-race.json) |
 | The Human Show | 256645 | [256645-the-human-show.json](./256645-the-human-show.json) |
 | The Human Snake | 309413 | [309413-the-human-snake.json](./309413-the-human-snake.json) |
+| The Human Story | 219392 | [219392-the-human-story.json](./219392-the-human-story.json) |
 | The Human Test / Restart | 339196 | [339196-the-human-test-restart.json](./339196-the-human-test-restart.json) |
 | The Humanity Check | 415318 | [415318-the-humanity-check.json](./415318-the-humanity-check.json) |
 | The Humans | 37273 | [37273-the-humans.json](./37273-the-humans.json) |
@@ -17691,6 +17693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThisIsTheGame | 269194 | [269194-thisisthegame.json](./269194-thisisthegame.json) |
 | Thistledown: A Tragedy of Blood | 117370 | [117370-thistledown-a-tragedy-of-blood.json](./117370-thistledown-a-tragedy-of-blood.json) |
 | Thistledown: Marrowroot | 216502 | [216502-thistledown-marrowroot.json](./216502-thistledown-marrowroot.json) |
+| Thistlemine | 219411 | [219411-thistlemine.json](./219411-thistlemine.json) |
 | Thnt | 204331 | [204331-thnt.json](./204331-thnt.json) |
 | THO Simulator | 188086 | [188086-tho-simulator.json](./188086-tho-simulator.json) |
 | Thomas & Friends Minis | 95887 | [95887-thomas-and-friends-minis.json](./95887-thomas-and-friends-minis.json) |
