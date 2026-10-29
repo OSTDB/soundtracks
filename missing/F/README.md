@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Computer Golf: Japan Course | 41260 | [41260-family-computer-golf-japan-course.json](./41260-family-computer-golf-japan-course.json) |
 | Family Computer Golf: U.S. Course | 41247 | [41247-family-computer-golf-u-s-course.json](./41247-family-computer-golf-u-s-course.json) |
 | Family Crisis | 381386 | [381386-family-crisis.json](./381386-family-crisis.json) |
+| Family Curse | 223248 | [223248-family-curse.json](./223248-family-curse.json) |
 | Family Dinner | 178470 | [178470-family-dinner.json](./178470-family-dinner.json) |
 | Family Dinner | 377162 | [377162-family-dinner.json](./377162-family-dinner.json) |
 | Family Dog | 42570 | [42570-family-dog.json](./42570-family-dog.json) |
