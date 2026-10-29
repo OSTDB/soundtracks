@@ -4648,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Planet of the Robot Monsters | 12067 | [12067-escape-from-the-planet-of-the-robot-monsters.json](./12067-escape-from-the-planet-of-the-robot-monsters.json) |
 | Escape from the Plateau Puzzle | 88423 | [88423-escape-from-the-plateau-puzzle.json](./88423-escape-from-the-plateau-puzzle.json) |
 | Escape from the Princess | 108661 | [108661-escape-from-the-princess.json](./108661-escape-from-the-princess.json) |
+| Escape From the Red Planet | 224818 | [224818-escape-from-the-red-planet.json](./224818-escape-from-the-red-planet.json) |
 | Escape from the Shadows | 270604 | [270604-escape-from-the-shadows.json](./270604-escape-from-the-shadows.json) |
 | Escape from the Snow Lodge: Escape after Sex3 | 82959 | [82959-escape-from-the-snow-lodge-escape-after-sex3.json](./82959-escape-from-the-snow-lodge-escape-after-sex3.json) |
 | Escape from the Squirrel Park | 185161 | [185161-escape-from-the-squirrel-park.json](./185161-escape-from-the-squirrel-park.json) |
@@ -4683,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Zeta Aurigae | 291240 | [291240-escape-from-zeta-aurigae.json](./291240-escape-from-zeta-aurigae.json) |
 | Escape From Zombie City | 85118 | [85118-escape-from-zombie-city.json](./85118-escape-from-zombie-city.json) |
 | Escape From Zombie U: Reloaded | 199601 | [199601-escape-from-zombie-u-reloaded.json](./199601-escape-from-zombie-u-reloaded.json) |
+| Escape From Zombies | 224848 | [224848-escape-from-zombies.json](./224848-escape-from-zombies.json) |
 | Escape From Zombietown | 295221 | [295221-escape-from-zombietown.json](./295221-escape-from-zombietown.json) |
 | Escape Gaia | 311586 | [311586-escape-gaia.json](./311586-escape-gaia.json) |
 | Escape Gaia: Departure | 311797 | [311797-escape-gaia-departure.json](./311797-escape-gaia-departure.json) |
