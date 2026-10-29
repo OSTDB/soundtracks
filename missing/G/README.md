@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Campaign | 116878 | [116878-galactic-campaign.json](./116878-galactic-campaign.json) |
 | Galactic Caretaker | 319050 | [319050-galactic-caretaker.json](./319050-galactic-caretaker.json) |
 | Galactic Catch | 254514 | [254514-galactic-catch.json](./254514-galactic-catch.json) |
+| Galactic Center for Etymological Research | 203607 | [203607-galactic-center-for-etymological-research.json](./203607-galactic-center-for-etymological-research.json) |
 | Galactic Center VR | 131610 | [131610-galactic-center-vr.json](./131610-galactic-center-vr.json) |
 | Galactic Chase | 24826 | [24826-galactic-chase.json](./24826-galactic-chase.json) |
 | Galactic Civilizations | 10344 | [10344-galactic-civilizations.json](./10344-galactic-civilizations.json) |
@@ -2188,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gearz | 71763 | [71763-gearz.json](./71763-gearz.json) |
 | Gearzbound | 199974 | [199974-gearzbound.json](./199974-gearzbound.json) |
 | Geas | 228695 | [228695-geas.json](./228695-geas.json) |
+| Geballer | 203635 | [203635-geballer.json](./203635-geballer.json) |
 | Gebinden | 387616 | [387616-gebinden.json](./387616-gebinden.json) |
 | Gebub's Adventure | 31869 | [31869-gebubs-adventure.json](./31869-gebubs-adventure.json) |
 | Gecko Blaster | 43256 | [43256-gecko-blaster.json](./43256-gecko-blaster.json) |
@@ -8800,6 +8802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guard the Future | 117574 | [117574-guard-the-future.json](./117574-guard-the-future.json) |
 | Guard the Tower! | 301874 | [301874-guard-the-tower.json](./301874-guard-the-tower.json) |
 | Guarded | 313893 | [313893-guarded.json](./313893-guarded.json) |
+| Guardener | 203592 | [203592-guardener.json](./203592-guardener.json) |
 | GuardGrave | 275536 | [275536-guardgrave.json](./275536-guardgrave.json) |
 | Guardian | 15542 | [15542-guardian.json](./15542-guardian.json) |
 | Guardian | 360038 | [360038-guardian.json](./360038-guardian.json) |
