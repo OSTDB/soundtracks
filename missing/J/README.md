@@ -3716,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just War Trains | 313752 | [313752-just-war-trains.json](./313752-just-war-trains.json) |
 | Just Xiangqi | 235701 | [235701-just-xiangqi.json](./235701-just-xiangqi.json) |
 | Just You | 303602 | [303602-just-you.json](./303602-just-you.json) |
+| Just Yuri | 194762 | [194762-just-yuri.json](./194762-just-yuri.json) |
 | Just-A-Crush | 177911 | [177911-just-a-crush.json](./177911-just-a-crush.json) |
 | Just, Bearly | 86229 | [86229-just-bearly.json](./86229-just-bearly.json) |
 | Just. Press. The Button. | 396911 | [396911-just-press-the-button.json](./396911-just-press-the-button.json) |
