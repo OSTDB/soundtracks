@@ -2704,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Kong 2: Ikari no Megaton Punch | 48690 | [48690-king-kong-2-ikari-no-megaton-punch.json](./48690-king-kong-2-ikari-no-megaton-punch.json) |
 | King Kong City Destroyer | 291478 | [291478-king-kong-city-destroyer.json](./291478-king-kong-city-destroyer.json) |
 | King Krieg Survivors | 295683 | [295683-king-krieg-survivors.json](./295683-king-krieg-survivors.json) |
+| King Leo | 178782 | [178782-king-leo.json](./178782-king-leo.json) |
 | King Lucas | 26371 | [26371-king-lucas.json](./26371-king-lucas.json) |
 | King Machine | 31514 | [31514-king-machine.json](./31514-king-machine.json) |
 | King NooB | 180054 | [180054-king-noob.json](./180054-king-noob.json) |
