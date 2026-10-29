@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cop Chase | 240873 | [240873-a-cop-chase.json](./240873-a-cop-chase.json) |
 | A Corporate Machine | 420802 | [420802-a-corporate-machine.json](./420802-a-corporate-machine.json) |
 | A Cosmic Forest | 145672 | [145672-a-cosmic-forest.json](./145672-a-cosmic-forest.json) |
+| A Cottage Story | 178774 | [178774-a-cottage-story.json](./178774-a-cottage-story.json) |
 | A Couple Nights at the Chud House | 414402 | [414402-a-couple-nights-at-the-chud-house.json](./414402-a-couple-nights-at-the-chud-house.json) |
 | A Courtesan of Rome | 313819 | [313819-a-courtesan-of-rome.json](./313819-a-courtesan-of-rome.json) |
 | A Courting of Curses | 412246 | [412246-a-courting-of-curses.json](./412246-a-courting-of-curses.json) |
@@ -753,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Moment of a Self Portrait | 179000 | [179000-a-moment-of-a-self-portrait.json](./179000-a-moment-of-a-self-portrait.json) |
 | A Moment of Bliss | 393582 | [393582-a-moment-of-bliss.json](./393582-a-moment-of-bliss.json) |
 | A Monster's Expedition | 131845 | [131845-a-monsters-expedition.json](./131845-a-monsters-expedition.json) |
+| A Monster's Insight | 178813 | [178813-a-monsters-insight.json](./178813-a-monsters-insight.json) |
 | A Moon for the Sky | 9974 | [9974-a-moon-for-the-sky.json](./9974-a-moon-for-the-sky.json) |
 | A Morte | 268898 | [268898-a-morte.json](./268898-a-morte.json) |
 | A Mortician's Tale | 28073 | [28073-a-morticians-tale.json](./28073-a-morticians-tale.json) |
@@ -4803,6 +4805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Strike HD | 88501 | [88501-air-strike-hd.json](./88501-air-strike-hd.json) |
 | Air Strike USA | 47029 | [47029-air-strike-usa.json](./47029-air-strike-usa.json) |
 | Air Strike: WW2 Fighters Sky Combat | 180981 | [180981-air-strike-ww2-fighters-sky-combat.json](./180981-air-strike-ww2-fighters-sky-combat.json) |
+| Air Stunt Racing | 178790 | [178790-air-stunt-racing.json](./178790-air-stunt-racing.json) |
 | AIR Summer Solstice | 308416 | [308416-air-summer-solstice.json](./308416-air-summer-solstice.json) |
 | Air Supply | 14156 | [14156-air-supply.json](./14156-air-supply.json) |
 | Air Supply Infinite | 175583 | [175583-air-supply-infinite.json](./175583-air-supply-infinite.json) |
@@ -9033,6 +9036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Dance-Off: Las Vegas | 343728 | [343728-anime-dance-off-las-vegas.json](./343728-anime-dance-off-las-vegas.json) |
 | Anime Dance-Off: Party Total | 310456 | [310456-anime-dance-off-party-total.json](./310456-anime-dance-off-party-total.json) |
 | Anime Designer: Dragon Ball Z | 61024 | [61024-anime-designer-dragon-ball-z.json](./61024-anime-designer-dragon-ball-z.json) |
+| Anime Dream Girl | 178811 | [178811-anime-dream-girl.json](./178811-anime-dream-girl.json) |
 | Anime Dream Match: Boys | 343237 | [343237-anime-dream-match-boys.json](./343237-anime-dream-match-boys.json) |
 | Anime Dream Match: Butterflies | 360467 | [360467-anime-dream-match-butterflies.json](./360467-anime-dream-match-butterflies.json) |
 | Anime Dream Match: Dogs | 357863 | [357863-anime-dream-match-dogs.json](./357863-anime-dream-match-dogs.json) |
