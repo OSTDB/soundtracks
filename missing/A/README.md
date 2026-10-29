@@ -1790,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abracadabra | 145900 | [145900-abracadabra.json](./145900-abracadabra.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
 | Abracademia | 383053 | [383053-abracademia.json](./383053-abracademia.json) |
+| Abracademy | 182668 | [182668-abracademy.json](./182668-abracademy.json) |
 | Abraham Link Coln on Dessert Island | 398541 | [398541-abraham-link-coln-on-dessert-island.json](./398541-abraham-link-coln-on-dessert-island.json) |
 | Abrakadaboom | 113620 | [113620-abrakadaboom.json](./113620-abrakadaboom.json) |
 | Abrakajumpa | 305944 | [305944-abrakajumpa.json](./305944-abrakajumpa.json) |
