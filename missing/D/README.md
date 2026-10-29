@@ -6627,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy It | 156877 | [156877-destroy-it.json](./156877-destroy-it.json) |
 | Destroy Korcity | 264230 | [264230-destroy-korcity.json](./264230-destroy-korcity.json) |
 | Destroy Neighbor House | 102668 | [102668-destroy-neighbor-house.json](./102668-destroy-neighbor-house.json) |
+| Destroy School Simulator | 222051 | [222051-destroy-school-simulator.json](./222051-destroy-school-simulator.json) |
 | Destroy Simulator | 188517 | [188517-destroy-simulator.json](./188517-destroy-simulator.json) |
 | Destroy Simulator VR | 235068 | [235068-destroy-simulator-vr.json](./235068-destroy-simulator-vr.json) |
 | Destroy the Castle | 349843 | [349843-destroy-the-castle.json](./349843-destroy-the-castle.json) |
@@ -11748,6 +11749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Nobita to Yousei no Kuni | 38130 | [38130-doraemon-nobita-to-yousei-no-kuni.json](./38130-doraemon-nobita-to-yousei-no-kuni.json) |
 | Doraemon: Nobita's Resident Evil | 144660 | [144660-doraemon-nobitas-resident-evil.json](./144660-doraemon-nobitas-resident-evil.json) |
 | Doraemon: Nobita's Resident Evil 2 | 238417 | [238417-doraemon-nobitas-resident-evil-2.json](./238417-doraemon-nobitas-resident-evil-2.json) |
+| Doraemon: Nobita's Space War 2021 | 222056 | [222056-doraemon-nobitas-space-war-2021.json](./222056-doraemon-nobitas-space-war-2021.json) |
 | Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai | 60545 | [60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json](./60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json) |
 | Doraemon: Yume Dorobou to 7-nin no Gozans | 45730 | [45730-doraemon-yume-dorobou-to-7-nin-no-gozans.json](./45730-doraemon-yume-dorobou-to-7-nin-no-gozans.json) |
 | Doraemontchi | 229868 | [229868-doraemontchi.json](./229868-doraemontchi.json) |
@@ -14217,6 +14219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamshot Fantasia | 278914 | [278914-dreamshot-fantasia.json](./278914-dreamshot-fantasia.json) |
 | Dreamslayer | 285058 | [285058-dreamslayer.json](./285058-dreamslayer.json) |
 | DreamSleuth: hidden object adventure quest lite | 88311 | [88311-dreamsleuth-hidden-object-adventure-quest-lite.json](./88311-dreamsleuth-hidden-object-adventure-quest-lite.json) |
+| Dreamspace | 222092 | [222092-dreamspace.json](./222092-dreamspace.json) |
 | Dreamspace | 323342 | [323342-dreamspace.json](./323342-dreamspace.json) |
 | Dreamspaces | 181682 | [181682-dreamspaces.json](./181682-dreamspaces.json) |
 | Dreamspring | 333372 | [333372-dreamspring.json](./333372-dreamspring.json) |
