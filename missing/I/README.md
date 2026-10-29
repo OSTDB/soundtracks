@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Bug | 340501 | [340501-i-bug.json](./340501-i-bug.json) |
 | I Buried Steve | 415445 | [415445-i-buried-steve.json](./415445-i-buried-steve.json) |
 | I C Redd | 84543 | [84543-i-c-redd.json](./84543-i-c-redd.json) |
+| I Came Here to Win | 183197 | [183197-i-came-here-to-win.json](./183197-i-came-here-to-win.json) |
 | I Can Be a Dinosaur Finder | 85976 | [85976-i-can-be-a-dinosaur-finder.json](./85976-i-can-be-a-dinosaur-finder.json) |
 | I Can Destroy Everything!!! | 274739 | [274739-i-can-destroy-everything.json](./274739-i-can-destroy-everything.json) |
 | I Can Gun | 111502 | [111502-i-can-gun.json](./111502-i-can-gun.json) |
@@ -2762,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incinera: Pandemonium | 379865 | [379865-incinera-pandemonium.json](./379865-incinera-pandemonium.json) |
 | Incineration | 260141 | [260141-incineration.json](./260141-incineration.json) |
 | Incision | 166062 | [166062-incision.json](./166062-incision.json) |
+| Incite | 183187 | [183187-incite.json](./183187-incite.json) |
 | Incitement 3 | 34745 | [34745-incitement-3.json](./34745-incitement-3.json) |
 | Inclement | 113073 | [113073-inclement.json](./113073-inclement.json) |
 | Incline | 67935 | [67935-incline.json](./67935-incline.json) |
@@ -4832,6 +4834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invert | 383504 | [383504-invert.json](./383504-invert.json) |
 | Invert by SlushyRh | 265144 | [265144-invert-by-slushyrh.json](./265144-invert-by-slushyrh.json) |
 | Invert pixels | 219929 | [219929-invert-pixels.json](./219929-invert-pixels.json) |
+| Invert Y | 183190 | [183190-invert-y.json](./183190-invert-y.json) |
 | Invert: Tile Flipping Puzzles | 82953 | [82953-invert-tile-flipping-puzzles.json](./82953-invert-tile-flipping-puzzles.json) |
 | Inverted | 187236 | [187236-inverted.json](./187236-inverted.json) |
 | Inverted | 32209 | [32209-inverted.json](./32209-inverted.json) |
@@ -5330,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Adventurer Guild | 348401 | [348401-isekai-adventurer-guild.json](./348401-isekai-adventurer-guild.json) |
 | Isekai Awakening | 296942 | [296942-isekai-awakening.json](./296942-isekai-awakening.json) |
 | Isekai Brick Breaker | 225065 | [225065-isekai-brick-breaker.json](./225065-isekai-brick-breaker.json) |
+| Isekai Bus for the Hope of Another World | 183184 | [183184-isekai-bus-for-the-hope-of-another-world.json](./183184-isekai-bus-for-the-hope-of-another-world.json) |
 | Isekai Cowboy | 182192 | [182192-isekai-cowboy.json](./182192-isekai-cowboy.json) |
 | Isekai Demon Waifu | 219114 | [219114-isekai-demon-waifu.json](./219114-isekai-demon-waifu.json) |
 | Isekai Dispatcher | 304963 | [304963-isekai-dispatcher.json](./304963-isekai-dispatcher.json) |
