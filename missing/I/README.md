@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | I Accidentally Restarted the USSR | 167527 | [167527-i-accidentally-restarted-the-ussr.json](./167527-i-accidentally-restarted-the-ussr.json) |
+| I Accidently Insulted a Witch and Now All of My Clothes Are Sentient and They Hate Me! | 178810 | [178810-i-accidently-insulted-a-witch-and-now-all-of-my-clothes-are-sentient-and-they-hate-me.json](./178810-i-accidently-insulted-a-witch-and-now-all-of-my-clothes-are-sentient-and-they-hate-me.json) |
 | I Am 1 | 193415 | [193415-i-am-1.json](./193415-i-am-1.json) |
 | I Am 414C | 174216 | [174216-i-am-414c.json](./174216-i-am-414c.json) |
 | I am a box! | 165456 | [165456-i-am-a-box.json](./165456-i-am-a-box.json) |
@@ -1633,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If Found, Please Return | 120347 | [120347-if-found-please-return.json](./120347-if-found-please-return.json) |
 | If I Still Had Tomorrow | 417422 | [417422-if-i-still-had-tomorrow.json](./417422-if-i-still-had-tomorrow.json) |
 | If I Were in a Sealed Room With a Girl, I'd Probably XXX | 93530 | [93530-if-i-were-in-a-sealed-room-with-a-girl-id-probably-xxx.json](./93530-if-i-were-in-a-sealed-room-with-a-girl-id-probably-xxx.json) |
+| If I'm broken, you are too. | 178803 | [178803-if-im-broken-you-are-too.json](./178803-if-im-broken-you-are-too.json) |
 | If It Moves, Shoot It! | 71589 | [71589-if-it-moves-shoot-it.json](./71589-if-it-moves-shoot-it.json) |
 | If it's for My Client, I'd Even Schedule a Demon Lord | 201442 | [201442-if-its-for-my-client-id-even-schedule-a-demon-lord.json](./201442-if-its-for-my-client-id-even-schedule-a-demon-lord.json) |
 | If Letters Had Pants, Would They Wear Them Like This? What About Numbers? What If They Had Small Shovels and They Dug Stuff Up to Put in a Museum? | 342925 | [342925-if-letters-had-pants-would-they-wear-them-like-this-what-about-numbers-what-if-they-had-small-shovels-and-they-dug-stuff-up-to-put-in-a-museum.json](./342925-if-letters-had-pants-would-they-wear-them-like-this-what-about-numbers-what-if-they-had-small-shovels-and-they-dug-stuff-up-to-put-in-a-museum.json) |
@@ -5452,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Escape: Survivor Z Kill | 108190 | [108190-island-escape-survivor-z-kill.json](./108190-island-escape-survivor-z-kill.json) |
 | Island Experiment | 27938 | [27938-island-experiment.json](./27938-island-experiment.json) |
 | Island Explorer VR | 133068 | [133068-island-explorer-vr.json](./133068-island-explorer-vr.json) |
+| Island Farmer | 178806 | [178806-island-farmer.json](./178806-island-farmer.json) |
 | Island Flight Simulator | 24747 | [24747-island-flight-simulator.json](./24747-island-flight-simulator.json) |
 | Island Games | 208646 | [208646-island-games.json](./208646-island-games.json) |
 | Island Getaway | 29939 | [29939-island-getaway.json](./29939-island-getaway.json) |
