@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quickclaw | 257848 | [257848-quickclaw.json](./257848-quickclaw.json) |
 | Quickerflak | 186860 | [186860-quickerflak.json](./186860-quickerflak.json) |
 | Quickerflak 2 | 296857 | [296857-quickerflak-2.json](./296857-quickerflak-2.json) |
+| Quickerflak_Ruthlessmod | 203628 | [203628-quickerflak-ruthlessmod.json](./203628-quickerflak-ruthlessmod.json) |
 | Quickflash: A Fabula Story | 192431 | [192431-quickflash-a-fabula-story.json](./192431-quickflash-a-fabula-story.json) |
 | Quickie Takeout | 417993 | [417993-quickie-takeout.json](./417993-quickie-takeout.json) |
 | Quickie World | 201267 | [201267-quickie-world.json](./201267-quickie-world.json) |
