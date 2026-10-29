@@ -7722,6 +7722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelry | 50848 | [50848-pixelry.json](./50848-pixelry.json) |
 | Pixels | 237448 | [237448-pixels.json](./237448-pixels.json) |
 | Pixels | 265566 | [265566-pixels.json](./265566-pixels.json) |
+| Pixels at Solstice | 184199 | [184199-pixels-at-solstice.json](./184199-pixels-at-solstice.json) |
 | Pixels Defense | 60003 | [60003-pixels-defense.json](./60003-pixels-defense.json) |
 | Pixels Filling Squares 3.0 | 95944 | [95944-pixels-filling-squares-3-0.json](./95944-pixels-filling-squares-3-0.json) |
 | Pixels filling Squares DX | 101729 | [101729-pixels-filling-squares-dx.json](./101729-pixels-filling-squares-dx.json) |
@@ -10675,6 +10676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polterheist | 29421 | [29421-polterheist.json](./29421-polterheist.json) |
 | Polterparty | 374768 | [374768-polterparty.json](./374768-polterparty.json) |
 | Polterquest | 345027 | [345027-polterquest.json](./345027-polterquest.json) |
+| Polugram Circus | 184204 | [184204-polugram-circus.json](./184204-polugram-circus.json) |
 | Poly | 272952 | [272952-poly.json](./272952-poly.json) |
 | Poly and the Marble Maze | 109414 | [109414-poly-and-the-marble-maze.json](./109414-poly-and-the-marble-maze.json) |
 | Poly art coloring pages - Color by number low poly | 107095 | [107095-poly-art-coloring-pages-color-by-number-low-poly.json](./107095-poly-art-coloring-pages-color-by-number-low-poly.json) |
@@ -13966,6 +13968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Down | 292992 | [292992-project-down.json](./292992-project-down.json) |
 | Project Downfall | 113813 | [113813-project-downfall.json](./113813-project-downfall.json) |
 | Project Dream 64 | 315029 | [315029-project-dream-64.json](./315029-project-dream-64.json) |
+| Project Dreamcat | 184217 | [184217-project-dreamcat.json](./184217-project-dreamcat.json) |
 | Project Dreamscape | 367272 | [367272-project-dreamscape.json](./367272-project-dreamscape.json) |
 | Project Drift Japan Challenge | 308507 | [308507-project-drift-japan-challenge.json](./308507-project-drift-japan-challenge.json) |
 | Project Druid | 34797 | [34797-project-druid.json](./34797-project-druid.json) |
