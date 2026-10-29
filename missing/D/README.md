@@ -4314,6 +4314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deceive Inc.: Of Queens and Kings | 272493 | [272493-deceive-inc-of-queens-and-kings.json](./272493-deceive-inc-of-queens-and-kings.json) |
 | Deceiver | 74788 | [74788-deceiver.json](./74788-deceiver.json) |
 | December 1914 | 235637 | [235637-december-1914.json](./235637-december-1914.json) |
+| December 24th | 200859 | [200859-december-24th.json](./200859-december-24th.json) |
 | December 25, 2016 | 266143 | [266143-december-25-2016.json](./266143-december-25-2016.json) |
 | December 3rd | 392758 | [392758-december-3rd.json](./392758-december-3rd.json) |
 | Decending Horror | 325985 | [325985-decending-horror.json](./325985-decending-horror.json) |
@@ -4516,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep | 372091 | [372091-deep.json](./372091-deep.json) |
 | Deep | 380247 | [380247-deep.json](./380247-deep.json) |
 | Deep 3D: Submarine Odyssey | 338047 | [338047-deep-3d-submarine-odyssey.json](./338047-deep-3d-submarine-odyssey.json) |
+| Deep Abyss | 200862 | [200862-deep-abyss.json](./200862-deep-abyss.json) |
 | Deep Abyss | 217111 | [217111-deep-abyss.json](./217111-deep-abyss.json) |
 | Deep Abyss 3D | 260872 | [260872-deep-abyss-3d.json](./260872-deep-abyss-3d.json) |
 | Deep Alchemy Dungeon | 207500 | [207500-deep-alchemy-dungeon.json](./207500-deep-alchemy-dungeon.json) |
@@ -6239,6 +6241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Angels | 348359 | [348359-desert-angels.json](./348359-desert-angels.json) |
 | Desert Armor | 127217 | [127217-desert-armor.json](./127217-desert-armor.json) |
 | Desert attack | 163878 | [163878-desert-attack.json](./163878-desert-attack.json) |
+| Desert Blossom | 201405 | [201405-desert-blossom.json](./201405-desert-blossom.json) |
 | Desert Breaker | 39862 | [39862-desert-breaker.json](./39862-desert-breaker.json) |
 | Desert Bus | 251590 | [251590-desert-bus.json](./251590-desert-bus.json) |
 | Desert Bus | 25792 | [25792-desert-bus.json](./25792-desert-bus.json) |
@@ -7524,6 +7527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Tourney | 165750 | [165750-dice-tourney.json](./165750-dice-tourney.json) |
 | Dice Tower Defense | 55593 | [55593-dice-tower-defense.json](./55593-dice-tower-defense.json) |
 | Dice Town Mobile | 175217 | [175217-dice-town-mobile.json](./175217-dice-town-mobile.json) |
+| Dice Tribes: Ambitions | 200871 | [200871-dice-tribes-ambitions.json](./200871-dice-tribes-ambitions.json) |
 | Dice Up | 274754 | [274754-dice-up.json](./274754-dice-up.json) |
 | Dice Versa | 218406 | [218406-dice-versa.json](./218406-dice-versa.json) |
 | Dice vs Dice | 173269 | [173269-dice-vs-dice.json](./173269-dice-vs-dice.json) |
@@ -12765,6 +12769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball FighterZ: Dragon Ball Daima Pack | 399188 | [399188-dragon-ball-fighterz-dragon-ball-daima-pack.json](./399188-dragon-ball-fighterz-dragon-ball-daima-pack.json) |
 | Dragon Ball FighterZ: Exclusive SS Goku Lobby Avatar | 366822 | [366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json](./366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json) |
 | Dragon Ball FighterZ: FighterZ Pass | 144714 | [144714-dragon-ball-fighterz-fighterz-pass.json](./144714-dragon-ball-fighterz-fighterz-pass.json) |
+| Dragon Ball FighterZ: FighterZ Pass 3 | 200834 | [200834-dragon-ball-fighterz-fighterz-pass-3.json](./200834-dragon-ball-fighterz-fighterz-pass-3.json) |
 | Dragon Ball FighterZ: Goku | 144706 | [144706-dragon-ball-fighterz-goku.json](./144706-dragon-ball-fighterz-goku.json) |
 | Dragon Ball FighterZ: Legendary Edition | 288859 | [288859-dragon-ball-fighterz-legendary-edition.json](./288859-dragon-ball-fighterz-legendary-edition.json) |
 | Dragon Ball FighterZ: Stamps Girls Pack | 366819 | [366819-dragon-ball-fighterz-stamps-girls-pack.json](./366819-dragon-ball-fighterz-stamps-girls-pack.json) |
@@ -16126,6 +16131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Tails | 114735 | [114735-dungeon-tails.json](./114735-dungeon-tails.json) |
 | Dungeon Tale | 260006 | [260006-dungeon-tale.json](./260006-dungeon-tale.json) |
 | Dungeon Tales: RPG Card Game | 121732 | [121732-dungeon-tales-rpg-card-game.json](./121732-dungeon-tales-rpg-card-game.json) |
+| Dungeon Team | 201422 | [201422-dungeon-team.json](./201422-dungeon-team.json) |
 | Dungeon Throne | 135723 | [135723-dungeon-throne.json](./135723-dungeon-throne.json) |
 | Dungeon Thrones: Rise of Slimes | 336576 | [336576-dungeon-thrones-rise-of-slimes.json](./336576-dungeon-thrones-rise-of-slimes.json) |
 | Dungeon Tiles | 58235 | [58235-dungeon-tiles.json](./58235-dungeon-tiles.json) |
@@ -16483,6 +16489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duo Runner 3D | 262464 | [262464-duo-runner-3d.json](./262464-duo-runner-3d.json) |
 | DuoBellum de Marionnette | 374111 | [374111-duobellum-de-marionnette.json](./374111-duobellum-de-marionnette.json) |
 | DuoDuo | 234057 | [234057-duoduo.json](./234057-duoduo.json) |
+| DuolBots | 201427 | [201427-duolbots.json](./201427-duolbots.json) |
 | Duolingo | 321884 | [321884-duolingo.json](./321884-duolingo.json) |
 | Duolingo: Chess | 373509 | [373509-duolingo-chess.json](./373509-duolingo-chess.json) |
 | DuoQ | 343225 | [343225-duoq.json](./343225-duoq.json) |
