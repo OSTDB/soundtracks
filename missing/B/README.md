@@ -844,7 +844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6361,6 +6360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi Blocksberg: Neustadt im Hex-Chaos | 215849 | [215849-bibi-blocksberg-neustadt-im-hex-chaos.json](./215849-bibi-blocksberg-neustadt-im-hex-chaos.json) |
 | Bibi Bunny | 337459 | [337459-bibi-bunny.json](./337459-bibi-bunny.json) |
 | Bibi und Tina auf dem Martinshof | 136370 | [136370-bibi-und-tina-auf-dem-martinshof.json](./136370-bibi-und-tina-auf-dem-martinshof.json) |
+| Bibi und Tina: 5 Sterne für den Martinshof | 218266 | [218266-bibi-und-tina-5-sterne-fur-den-martinshof.json](./218266-bibi-und-tina-5-sterne-fur-den-martinshof.json) |
 | Bibi und Tina: Fohlen "Felix" in Gefahr | 86210 | [86210-bibi-und-tina-fohlen-felix-in-gefahr.json](./86210-bibi-und-tina-fohlen-felix-in-gefahr.json) |
 | BiBi World | 174710 | [174710-bibi-world.json](./174710-bibi-world.json) |
 | Bibidi Bibidi! | 352229 | [352229-bibidi-bibidi.json](./352229-bibidi-bibidi.json) |
