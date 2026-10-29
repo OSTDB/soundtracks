@@ -1355,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand Bullets | 169094 | [169094-sand-bullets.json](./169094-sand-bullets.json) |
 | Sand Castle | 192617 | [192617-sand-castle.json](./192617-sand-castle.json) |
 | Sand Castles | 161387 | [161387-sand-castles.json](./161387-sand-castles.json) |
+| Sand Flag | 177151 | [177151-sand-flag.json](./177151-sand-flag.json) |
 | Sand In a Box | 306434 | [306434-sand-in-a-box.json](./306434-sand-in-a-box.json) |
 | Sand is the Soul | 75610 | [75610-sand-is-the-soul.json](./75610-sand-is-the-soul.json) |
 | Sand Land: Collector Edition | 283584 | [283584-sand-land-collector-edition.json](./283584-sand-land-collector-edition.json) |
@@ -3296,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scroll Survival | 276611 | [276611-scroll-survival.json](./276611-scroll-survival.json) |
 | Scroll the Pain Away | 274340 | [274340-scroll-the-pain-away.json](./274340-scroll-the-pain-away.json) |
 | Scrollden | 298456 | [298456-scrollden.json](./298456-scrollden.json) |
+| Scrolling Survivor | 177163 | [177163-scrolling-survivor.json](./177163-scrolling-survivor.json) |
 | Scrolls of Gloom | 238976 | [238976-scrolls-of-gloom.json](./238976-scrolls-of-gloom.json) |
 | Scrolls of Sengoku Dynasty | 195606 | [195606-scrolls-of-sengoku-dynasty.json](./195606-scrolls-of-sengoku-dynasty.json) |
 | Scrolls of the Lord | 75947 | [75947-scrolls-of-the-lord.json](./75947-scrolls-of-the-lord.json) |
@@ -14961,6 +14963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son of Aral | 135711 | [135711-son-of-aral.json](./135711-son-of-aral.json) |
 | Son of Beach | 423247 | [423247-son-of-beach.json](./423247-son-of-beach.json) |
 | Son of Blagger | 47238 | [47238-son-of-blagger.json](./47238-son-of-blagger.json) |
+| Son of Cthulhu | 177170 | [177170-son-of-cthulhu.json](./177170-son-of-cthulhu.json) |
 | Son of Nor | 16848 | [16848-son-of-nor.json](./16848-son-of-nor.json) |
 | Son of Perun Kharkiv | 264626 | [264626-son-of-perun-kharkiv.json](./264626-son-of-perun-kharkiv.json) |
 | Son of Sparta | 258077 | [258077-son-of-sparta.json](./258077-son-of-sparta.json) |
@@ -15588,6 +15591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Return of Fire Breath | 316494 | [316494-sonic-return-of-fire-breath.json](./316494-sonic-return-of-fire-breath.json) |
 | Sonic Reversi | 210304 | [210304-sonic-reversi.json](./210304-sonic-reversi.json) |
 | Sonic Reversi Hyper | 210305 | [210305-sonic-reversi-hyper.json](./210305-sonic-reversi-hyper.json) |
+| Sonic Revert | 177158 | [177158-sonic-revert.json](./177158-sonic-revert.json) |
 | Sonic Revitalized 3D | 330588 | [330588-sonic-revitalized-3d.json](./330588-sonic-revitalized-3d.json) |
 | Sonic Revolution | 331869 | [331869-sonic-revolution.json](./331869-sonic-revolution.json) |
 | Sonic Riders | 210302 | [210302-sonic-riders.json](./210302-sonic-riders.json) |
@@ -23733,6 +23737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Business: Book of Shadows | 344159 | [344159-sticky-business-book-of-shadows.json](./344159-sticky-business-book-of-shadows.json) |
 | Sticky Business: Seaside Tales | 411002 | [411002-sticky-business-seaside-tales.json](./411002-sticky-business-seaside-tales.json) |
 | Sticky Castle | 232031 | [232031-sticky-castle.json](./232031-sticky-castle.json) |
+| Sticky Cats | 177174 | [177174-sticky-cats.json](./177174-sticky-cats.json) |
 | Sticky Clicker! | 296277 | [296277-sticky-clicker.json](./296277-sticky-clicker.json) |
 | Sticky Date | 373164 | [373164-sticky-date.json](./373164-sticky-date.json) |
 | Sticky Feet | 401182 | [401182-sticky-feet.json](./401182-sticky-feet.json) |
@@ -24323,6 +24328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Cases: The Faces of Vengeance | 397794 | [397794-strange-cases-the-faces-of-vengeance.json](./397794-strange-cases-the-faces-of-vengeance.json) |
 | Strange Day | 365881 | [365881-strange-day.json](./365881-strange-day.json) |
 | Strange Days | 70810 | [70810-strange-days.json](./70810-strange-days.json) |
+| Strange Gravity | 177188 | [177188-strange-gravity.json](./177188-strange-gravity.json) |
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
 | Strange Horizons | 384499 | [384499-strange-horizons.json](./384499-strange-horizons.json) |
 | Strange Horticulture | 186597 | [186597-strange-horticulture.json](./186597-strange-horticulture.json) |
@@ -28626,6 +28632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Neptunia RPG: Party Member - Compa | 238175 | [238175-super-neptunia-rpg-party-member-compa.json](./238175-super-neptunia-rpg-party-member-compa.json) |
 | Super Neptunia RPG: Party Member - If | 238176 | [238176-super-neptunia-rpg-party-member-if.json](./238176-super-neptunia-rpg-party-member-if.json) |
 | Super NES Classic Edition | 213363 | [213363-super-nes-classic-edition.json](./213363-super-nes-classic-edition.json) |
+| Super Ness | 177150 | [177150-super-ness.json](./177150-super-ness.json) |
 | Super Netwalk Deluxe | 183834 | [183834-super-netwalk-deluxe.json](./183834-super-netwalk-deluxe.json) |
 | Super Nichibutsu Mahjong | 37804 | [37804-super-nichibutsu-mahjong.json](./37804-super-nichibutsu-mahjong.json) |
 | Super Nichibutsu Mahjong 2: Zenkoku Seiha-hen | 37803 | [37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json](./37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json) |
@@ -30133,6 +30140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surprise Eggs | 96609 | [96609-surprise-eggs.json](./96609-surprise-eggs.json) |
 | Surprise Mechanic: The Gaming Trivia | 134896 | [134896-surprise-mechanic-the-gaming-trivia.json](./134896-surprise-mechanic-the-gaming-trivia.json) |
 | Surprise Party! | 164907 | [164907-surprise-party.json](./164907-surprise-party.json) |
+| Surprise Stack | 177181 | [177181-surprise-stack.json](./177181-surprise-stack.json) |
 | Surprising Laws Around the World True or False Quiz | 401096 | [401096-surprising-laws-around-the-world-true-or-false-quiz.json](./401096-surprising-laws-around-the-world-true-or-false-quiz.json) |
 | Surprising My Neighbors | 367363 | [367363-surprising-my-neighbors.json](./367363-surprising-my-neighbors.json) |
 | Surprising My Neighbors 2 | 149038 | [149038-surprising-my-neighbors-2.json](./149038-surprising-my-neighbors-2.json) |
