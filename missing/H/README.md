@@ -6017,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Collection - Fun Seek and Find Hidden Object Puzzles | 90370 | [90370-hidden-collection-fun-seek-and-find-hidden-object-puzzles.json](./90370-hidden-collection-fun-seek-and-find-hidden-object-puzzles.json) |
 | Hidden Corgi Mansion | 294186 | [294186-hidden-corgi-mansion.json](./294186-hidden-corgi-mansion.json) |
 | Hidden Cosmo Cats: Bonus Level | 291364 | [291364-hidden-cosmo-cats-bonus-level.json](./291364-hidden-cosmo-cats-bonus-level.json) |
+| Hidden Cube World Top-Down 3D | 213150 | [213150-hidden-cube-world-top-down-3d.json](./213150-hidden-cube-world-top-down-3d.json) |
 | Hidden Cubes | 74459 | [74459-hidden-cubes.json](./74459-hidden-cubes.json) |
 | Hidden Cursed Crypt | 323930 | [323930-hidden-cursed-crypt.json](./323930-hidden-cursed-crypt.json) |
 | Hidden Deep | 111561 | [111561-hidden-deep.json](./111561-hidden-deep.json) |
