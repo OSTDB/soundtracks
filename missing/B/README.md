@@ -2484,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrett Foster: Chapter One | 250403 | [250403-barrett-foster-chapter-one.json](./250403-barrett-foster-chapter-one.json) |
 | Barrhell | 276702 | [276702-barrhell.json](./276702-barrhell.json) |
 | Barricade | 18116 | [18116-barricade.json](./18116-barricade.json) |
+| Barricade | 207646 | [207646-barricade.json](./207646-barricade.json) |
 | Barricadez | 127854 | [127854-barricadez.json](./127854-barricadez.json) |
 | Barricadez ReVisited | 169897 | [169897-barricadez-revisited.json](./169897-barricadez-revisited.json) |
 | Barrier | 317304 | [317304-barrier.json](./317304-barrier.json) |
@@ -5487,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belpaese: Homecoming | 68491 | [68491-belpaese-homecoming.json](./68491-belpaese-homecoming.json) |
 | Belt Action Collection | 136308 | [136308-belt-action-collection.json](./136308-belt-action-collection.json) |
 | Belt Colony | 214951 | [214951-belt-colony.json](./214951-belt-colony.json) |
+| Beltex | 207637 | [207637-beltex.json](./207637-beltex.json) |
 | Beltlife: Prospector | 391084 | [391084-beltlife-prospector.json](./391084-beltlife-prospector.json) |
 | Beltmatic | 281960 | [281960-beltmatic.json](./281960-beltmatic.json) |
 | Belts of Iron | 374243 | [374243-belts-of-iron.json](./374243-belts-of-iron.json) |
@@ -5995,6 +5997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betrayed Alliance: Book 2 | 239894 | [239894-betrayed-alliance-book-2.json](./239894-betrayed-alliance-book-2.json) |
 | Betrayer | 7711 | [7711-betrayer.json](./7711-betrayer.json) |
 | Betrayer: Curse of the Spine | 168381 | [168381-betrayer-curse-of-the-spine.json](./168381-betrayer-curse-of-the-spine.json) |
+| Betrix | 207630 | [207630-betrix.json](./207630-betrix.json) |
 | Betroyal | 245839 | [245839-betroyal.json](./245839-betroyal.json) |
 | Bets on Pets | 278170 | [278170-bets-on-pets.json](./278170-bets-on-pets.json) |
 | Betsy's Hospital | 159067 | [159067-betsys-hospital.json](./159067-betsys-hospital.json) |
