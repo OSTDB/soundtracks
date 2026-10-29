@@ -1564,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnecube | 367757 | [367757-magnecube.json](./367757-magnecube.json) |
 | Magneko | 212980 | [212980-magneko.json](./212980-magneko.json) |
 | Magnery Reign | 156580 | [156580-magnery-reign.json](./156580-magnery-reign.json) |
+| Magnet | 185275 | [185275-magnet.json](./185275-magnet.json) |
 | Magnet Action: Zi | 147890 | [147890-magnet-action-zi.json](./147890-magnet-action-zi.json) |
 | Magnet Block | 223224 | [223224-magnet-block.json](./223224-magnet-block.json) |
 | Magnet Crusher | 190903 | [190903-magnet-crusher.json](./190903-magnet-crusher.json) |
@@ -10718,6 +10719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindread | 293992 | [293992-mindread.json](./293992-mindread.json) |
 | Minds Define Us | 414511 | [414511-minds-define-us.json](./414511-minds-define-us.json) |
 | Minds of Nations | 128985 | [128985-minds-of-nations.json](./128985-minds-of-nations.json) |
+| Mindscape | 185293 | [185293-mindscape.json](./185293-mindscape.json) |
 | MindScape: Verenna | 274760 | [274760-mindscape-verenna.json](./274760-mindscape-verenna.json) |
 | Mindscapes VR | 347298 | [347298-mindscapes-vr.json](./347298-mindscapes-vr.json) |
 | Mindscorn | 374753 | [374753-mindscorn.json](./374753-mindscorn.json) |
@@ -17718,6 +17720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bunny Girl | 211068 | [211068-my-bunny-girl.json](./211068-my-bunny-girl.json) |
 | My Business | 152154 | [152154-my-business.json](./152154-my-business.json) |
 | My Butler | 32274 | [32274-my-butler.json](./32274-my-butler.json) |
+| My Cabin | 185291 | [185291-my-cabin.json](./185291-my-cabin.json) |
 | My Café Manager Simulator | 326462 | [326462-my-cafe-manager-simulator.json](./326462-my-cafe-manager-simulator.json) |
 | My Cake Shop HD | 104607 | [104607-my-cake-shop-hd.json](./104607-my-cake-shop-hd.json) |
 | My Caligula | 323241 | [323241-my-caligula.json](./323241-my-caligula.json) |
@@ -18450,6 +18453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Next Life as a Bird | 274756 | [274756-my-next-life-as-a-bird.json](./274756-my-next-life-as-a-bird.json) |
 | My Next Life as a Villainess: All Routes Lead to Doom! - Pirates of the Disturbance | 191485 | [191485-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance.json](./191485-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance.json) |
 | My Next Life as a Villainess: All Routes Lead to Doom! - Pirates of the Disturbance: Day One Edition | 270177 | [270177-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance-day-one-edition.json](./270177-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance-day-one-edition.json) |
+| My Night Driving | 185308 | [185308-my-night-driving.json](./185308-my-night-driving.json) |
 | My Night Sun All Games | 276308 | [276308-my-night-sun-all-games.json](./276308-my-night-sun-all-games.json) |
 | My Nights at Singing Monsters | 367563 | [367563-my-nights-at-singing-monsters.json](./367563-my-nights-at-singing-monsters.json) |
 | My Ninja Destiny | 228359 | [228359-my-ninja-destiny.json](./228359-my-ninja-destiny.json) |
