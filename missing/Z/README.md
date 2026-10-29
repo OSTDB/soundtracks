@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZDSimulator: Shevchenko-Timkove Route | 392436 | [392436-zdsimulator-shevchenko-timkove-route.json](./392436-zdsimulator-shevchenko-timkove-route.json) |
 | ZDSS: Zombie Drone Survival Show | 289336 | [289336-zdss-zombie-drone-survival-show.json](./289336-zdss-zombie-drone-survival-show.json) |
 | Ze Bomber | 388155 | [388155-ze-bomber.json](./388155-ze-bomber.json) |
+| Ze Field | 183172 | [183172-ze-field.json](./183172-ze-field.json) |
 | Ze VR | 29958 | [29958-ze-vr.json](./29958-ze-vr.json) |
 | Zeal | 74746 | [74746-zeal.json](./74746-zeal.json) |
 | Zeal-X2 | 281289 | [281289-zeal-x2.json](./281289-zeal-x2.json) |
