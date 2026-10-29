@@ -3214,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opioid visions 88 | 319687 | [319687-opioid-visions-88.json](./319687-opioid-visions-88.json) |
 | Oplero | 330672 | [330672-oplero.json](./330672-oplero.json) |
 | Oplitak | 155982 | [155982-oplitak.json](./155982-oplitak.json) |
+| OplitisAV | 189813 | [189813-oplitisav.json](./189813-oplitisav.json) |
 | Opollo | 360718 | [360718-opollo.json](./360718-opollo.json) |
 | Opona | 380822 | [380822-opona.json](./380822-opona.json) |
 | Oppai Academy Big, Bouncy, Booby Babes! | 147454 | [147454-oppai-academy-big-bouncy-booby-babes.json](./147454-oppai-academy-big-bouncy-booby-babes.json) |
