@@ -6532,6 +6532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimpanzini Bananini | 351093 | [351093-chimpanzini-bananini.json](./351093-chimpanzini-bananini.json) |
 | Chimparty | 103404 | [103404-chimparty.json](./103404-chimparty.json) |
 | Chimpology | 37391 | [37391-chimpology.json](./37391-chimpology.json) |
+| Chimps on a Blimp | 183169 | [183169-chimps-on-a-blimp.json](./183169-chimps-on-a-blimp.json) |
 | Chimpuzzle Pro | 84574 | [84574-chimpuzzle-pro.json](./84574-chimpuzzle-pro.json) |
 | Chimpy Chippa's: The Game | 284568 | [284568-chimpy-chippas-the-game.json](./284568-chimpy-chippas-the-game.json) |
 | Chin chin | 202024 | [202024-chin-chin.json](./202024-chin-chin.json) |
@@ -8187,6 +8188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Secrets 2 | 60062 | [60062-city-of-secrets-2.json](./60062-city-of-secrets-2.json) |
 | City of Secrets 2: Episode 1 | 146872 | [146872-city-of-secrets-2-episode-1.json](./146872-city-of-secrets-2-episode-1.json) |
 | City of sky | 88013 | [88013-city-of-sky.json](./88013-city-of-sky.json) |
+| City of Small Magics | 183205 | [183205-city-of-small-magics.json](./183205-city-of-small-magics.json) |
 | City of Springs | 217219 | [217219-city-of-springs.json](./217219-city-of-springs.json) |
 | City of Stars | 390569 | [390569-city-of-stars.json](./390569-city-of-stars.json) |
 | City of Steam | 63546 | [63546-city-of-steam.json](./63546-city-of-steam.json) |
@@ -13687,6 +13689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coven: All Powerful | 351562 | [351562-coven-all-powerful.json](./351562-coven-all-powerful.json) |
 | Covenant | 324911 | [324911-covenant.json](./324911-covenant.json) |
 | Covenant 21 | 361572 | [361572-covenant-21.json](./361572-covenant-21.json) |
+| Covenant Blade | 183188 | [183188-covenant-blade.json](./183188-covenant-blade.json) |
 | Covenant Cards | 395976 | [395976-covenant-cards.json](./395976-covenant-cards.json) |
 | Covenant of Anubis | 348771 | [348771-covenant-of-anubis.json](./348771-covenant-of-anubis.json) |
 | Covenant of Solitude | 200936 | [200936-covenant-of-solitude.json](./200936-covenant-of-solitude.json) |
@@ -15343,6 +15346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crion World | 62591 | [62591-crion-world.json](./62591-crion-world.json) |
 | Criptotamagothic Lite | 250500 | [250500-criptotamagothic-lite.json](./250500-criptotamagothic-lite.json) |
 | Crisálida | 381284 | [381284-crisalida.json](./381284-crisalida.json) |
+| Crisis | 183191 | [183191-crisis.json](./183191-crisis.json) |
 | Crisis Action | 86093 | [86093-crisis-action.json](./86093-crisis-action.json) |
 | Crisis Action VR | 51500 | [51500-crisis-action-vr.json](./51500-crisis-action-vr.json) |
 | Crisis Beat | 4136 | [4136-crisis-beat.json](./4136-crisis-beat.json) |
@@ -17431,6 +17435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed sarcophagus | 284994 | [284994-cursed-sarcophagus.json](./284994-cursed-sarcophagus.json) |
 | Cursed Shorts | 363058 | [363058-cursed-shorts.json](./363058-cursed-shorts.json) |
 | Cursed Silence | 269273 | [269273-cursed-silence.json](./269273-cursed-silence.json) |
+| Cursed Soul | 183210 | [183210-cursed-soul.json](./183210-cursed-soul.json) |
 | Cursed Spire | 195250 | [195250-cursed-spire.json](./195250-cursed-spire.json) |
 | Cursed Station | 343025 | [343025-cursed-station.json](./343025-cursed-station.json) |
 | Cursed Swamp Escape | 315468 | [315468-cursed-swamp-escape.json](./315468-cursed-swamp-escape.json) |
