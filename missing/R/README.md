@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakshasa Street: Wargod | 193894 | [193894-rakshasa-street-wargod.json](./193894-rakshasa-street-wargod.json) |
 | Raku Jongg | 37356 | [37356-raku-jongg.json](./37356-raku-jongg.json) |
 | Rakudo yo Ori he | 322010 | [322010-rakudo-yo-ori-he.json](./322010-rakudo-yo-ori-he.json) |
+| Rakuen Danshi: Dare mo Shiranai Mou Hitotsu no Rakuen | 222635 | [222635-rakuen-danshi-dare-mo-shiranai-mou-hitotsu-no-rakuen.json](./222635-rakuen-danshi-dare-mo-shiranai-mou-hitotsu-no-rakuen.json) |
 | Rakuen Hakai | 280742 | [280742-rakuen-hakai.json](./280742-rakuen-hakai.json) |
 | Rakuen no Rukia | 399192 | [399192-rakuen-no-rukia.json](./399192-rakuen-no-rukia.json) |
 | Rakuen Yuki | 205645 | [205645-rakuen-yuki.json](./205645-rakuen-yuki.json) |
