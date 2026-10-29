@@ -1272,11 +1272,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Efi | 176508 | [176508-efi.json](./176508-efi.json) |
 | EFO: Escape From Outerworld | 165674 | [165674-efo-escape-from-outerworld.json](./165674-efo-escape-from-outerworld.json) |
 | eFootball 2022 | 172771 | [172771-efootball-2022.json](./172771-efootball-2022.json) |
+| eFootball 2022 | 220988 | [220988-efootball-2022.json](./220988-efootball-2022.json) |
 | eFootball 2023 | 214925 | [214925-efootball-2023.json](./214925-efootball-2023.json) |
 | eFootball 2024 | 266157 | [266157-efootball-2024.json](./266157-efootball-2024.json) |
 | eFootball 2024: Leo Messi Edition | 265241 | [265241-efootball-2024-leo-messi-edition.json](./265241-efootball-2024-leo-messi-edition.json) |
 | EFootball 2026 by Felix Pro | 395200 | [395200-efootball-2026-by-felix-pro.json](./395200-efootball-2026-by-felix-pro.json) |
 | eFootball Champion Squads | 242170 | [242170-efootball-champion-squads.json](./242170-efootball-champion-squads.json) |
+| eFootball PES 2020 | 220987 | [220987-efootball-pes-2020.json](./220987-efootball-pes-2020.json) |
 | eFootball PES 2020: Legend Edition | 119573 | [119573-efootball-pes-2020-legend-edition.json](./119573-efootball-pes-2020-legend-edition.json) |
 | eFootball PES 2021 Season Update | 135881 | [135881-efootball-pes-2021-season-update.json](./135881-efootball-pes-2021-season-update.json) |
 | eFootball: Lamine Yamal Edition 2026 | 361246 | [361246-efootball-lamine-yamal-edition-2026.json](./361246-efootball-lamine-yamal-edition-2026.json) |
