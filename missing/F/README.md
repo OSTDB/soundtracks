@@ -2422,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 22: Mack Trucks - Black Anthem | 206531 | [206531-farming-simulator-22-mack-trucks-black-anthem.json](./206531-farming-simulator-22-mack-trucks-black-anthem.json) |
 | Farming Simulator 22: OXBO Pack | 265460 | [265460-farming-simulator-22-oxbo-pack.json](./265460-farming-simulator-22-oxbo-pack.json) |
 | Farming Simulator 22: Platinum Edition | 209191 | [209191-farming-simulator-22-platinum-edition.json](./209191-farming-simulator-22-platinum-edition.json) |
+| Farming Simulator 22: Platinum Expansion | 209855 | [209855-farming-simulator-22-platinum-expansion.json](./209855-farming-simulator-22-platinum-expansion.json) |
 | Farming Simulator 22: Premium Edition | 255476 | [255476-farming-simulator-22-premium-edition.json](./255476-farming-simulator-22-premium-edition.json) |
 | Farming Simulator 22: Premium Expansion | 255023 | [255023-farming-simulator-22-premium-expansion.json](./255023-farming-simulator-22-premium-expansion.json) |
 | Farming Simulator 22: Pumps n' Hoses Pack | 210271 | [210271-farming-simulator-22-pumps-n-hoses-pack.json](./210271-farming-simulator-22-pumps-n-hoses-pack.json) |
@@ -3371,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fell from another world | 213478 | [213478-fell-from-another-world.json](./213478-fell-from-another-world.json) |
 | Fell Seal DLC Bundle | 154965 | [154965-fell-seal-dlc-bundle.json](./154965-fell-seal-dlc-bundle.json) |
 | Fell Seal: Arbiter's Mark | 55771 | [55771-fell-seal-arbiters-mark.json](./55771-fell-seal-arbiters-mark.json) |
+| Fell Seal: Arbiter's Mark - Deluxe Edition | 209849 | [209849-fell-seal-arbiters-mark-deluxe-edition.json](./209849-fell-seal-arbiters-mark-deluxe-edition.json) |
 | Fell Seal: Arbiter's Mark - Missions and Monsters | 154969 | [154969-fell-seal-arbiters-mark-missions-and-monsters.json](./154969-fell-seal-arbiters-mark-missions-and-monsters.json) |
 | Fellas | 408143 | [408143-fellas.json](./408143-fellas.json) |
 | FellaTrain | 294968 | [294968-fellatrain.json](./294968-fellatrain.json) |
@@ -3820,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 23 | 205780 | [205780-fifa-23.json](./205780-fifa-23.json) |
 | FIFA 23 | 240456 | [240456-fifa-23.json](./240456-fifa-23.json) |
 | FIFA 23: Legacy Edition | 210455 | [210455-fifa-23-legacy-edition.json](./210455-fifa-23-legacy-edition.json) |
+| FIFA 23: Ultimate Edition | 209811 | [209811-fifa-23-ultimate-edition.json](./209811-fifa-23-ultimate-edition.json) |
 | FIFA 99 | 699 | [699-fifa-99.json](./699-fifa-99.json) |
 | FIFA Heroes | 371210 | [371210-fifa-heroes.json](./371210-fifa-heroes.json) |
 | FIFA International Soccer | 128887 | [128887-fifa-international-soccer.json](./128887-fifa-international-soccer.json) |
