@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore: The Game | 181053 | [181053-hardcore-the-game.json](./181053-hardcore-the-game.json) |
 | HardCube | 32302 | [32302-hardcube.json](./32302-hardcube.json) |
 | HardCube 2 | 220033 | [220033-hardcube-2.json](./220033-hardcube-2.json) |
+| Harddrive | 197509 | [197509-harddrive.json](./197509-harddrive.json) |
 | HardDriverz | 365150 | [365150-harddriverz.json](./365150-harddriverz.json) |
 | Hardenville | 204146 | [204146-hardenville.json](./204146-hardenville.json) |
 | Harder | 334707 | [334707-harder.json](./334707-harder.json) |
@@ -9323,6 +9324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wave | 40780 | [40780-hot-wave.json](./40780-hot-wave.json) |
 | Hot Wax | 304749 | [304749-hot-wax.json](./304749-hot-wax.json) |
 | Hot Wax | 380688 | [380688-hot-wax.json](./380688-hot-wax.json) |
+| Hot Wet | 198023 | [198023-hot-wet.json](./198023-hot-wet.json) |
 | Hot Wheels | 230413 | [230413-hot-wheels.json](./230413-hot-wheels.json) |
 | Hot Wheels | 94908 | [94908-hot-wheels.json](./94908-hot-wheels.json) |
 | Hot Wheels Infinite Loop | 121938 | [121938-hot-wheels-infinite-loop.json](./121938-hot-wheels-infinite-loop.json) |
