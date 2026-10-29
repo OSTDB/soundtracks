@@ -2739,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeverMore | 143460 | [143460-nevermore.json](./143460-nevermore.json) |
 | Nevermore 3 | 328005 | [328005-nevermore-3.json](./328005-nevermore-3.json) |
 | Nevermore VIII-XIII | 119498 | [119498-nevermore-viii-xiii.json](./119498-nevermore-viii-xiii.json) |
+| Nevermore: Documentary Kinetic Novel | 206511 | [206511-nevermore-documentary-kinetic-novel.json](./206511-nevermore-documentary-kinetic-novel.json) |
 | NeveRossa: Mille e una notte | 316644 | [316644-neverossa-mille-e-una-notte.json](./316644-neverossa-mille-e-una-notte.json) |
 | Neverout | 29791 | [29791-neverout.json](./29791-neverout.json) |
 | Neverputt | 51246 | [51246-neverputt.json](./51246-neverputt.json) |
