@@ -1788,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandit Kings of Ancient China | 9496 | [9496-bandit-kings-of-ancient-china.json](./9496-bandit-kings-of-ancient-china.json) |
 | Bandit Knight | 258991 | [258991-bandit-knight.json](./258991-bandit-knight.json) |
 | Bandit Point | 114717 | [114717-bandit-point.json](./114717-bandit-point.json) |
+| Bandit Realms | 219409 | [219409-bandit-realms.json](./219409-bandit-realms.json) |
 | Bandit Simulator | 121474 | [121474-bandit-simulator.json](./121474-bandit-simulator.json) |
 | Bandit Simulator TD | 389945 | [389945-bandit-simulator-td.json](./389945-bandit-simulator-td.json) |
 | Bandit Six: Salvo | 338654 | [338654-bandit-six-salvo.json](./338654-bandit-six-salvo.json) |
@@ -6436,6 +6437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Adventure: Trip to Europe 10 | 417304 | [417304-big-adventure-trip-to-europe-10.json](./417304-big-adventure-trip-to-europe-10.json) |
 | Big Adventure: Trip to Europe 10 - Collector's Edition | 338699 | [338699-big-adventure-trip-to-europe-10-collectors-edition.json](./338699-big-adventure-trip-to-europe-10-collectors-edition.json) |
 | Big Adventure: Trip to Europe 11 | 417373 | [417373-big-adventure-trip-to-europe-11.json](./417373-big-adventure-trip-to-europe-11.json) |
+| Big Adventure: Trip to Europe 2 | 219376 | [219376-big-adventure-trip-to-europe-2.json](./219376-big-adventure-trip-to-europe-2.json) |
 | Big Adventure: Trip to Europe 2 - Collector's Edition | 219205 | [219205-big-adventure-trip-to-europe-2-collectors-edition.json](./219205-big-adventure-trip-to-europe-2-collectors-edition.json) |
 | Big Adventure: Trip to Europe 3 | 417375 | [417375-big-adventure-trip-to-europe-3.json](./417375-big-adventure-trip-to-europe-3.json) |
 | Big Adventure: Trip to Europe 4 | 417376 | [417376-big-adventure-trip-to-europe-4.json](./417376-big-adventure-trip-to-europe-4.json) |
