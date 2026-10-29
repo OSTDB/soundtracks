@@ -2837,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoBoxer | 293473 | [293473-geoboxer.json](./293473-geoboxer.json) |
 | Geocells Tricells | 107869 | [107869-geocells-tricells.json](./107869-geocells-tricells.json) |
 | GeoChampion | 233627 | [233627-geochampion.json](./233627-geochampion.json) |
+| GeoChatter | 191423 | [191423-geochatter.json](./191423-geochatter.json) |
 | GeoCoach | 424677 | [424677-geocoach.json](./424677-geocoach.json) |
 | Geocore | 35654 | [35654-geocore.json](./35654-geocore.json) |
 | Geocraft | 388241 | [388241-geocraft.json](./388241-geocraft.json) |
@@ -4169,6 +4170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator Trainer | 31289 | [31289-gladiator-trainer.json](./31289-gladiator-trainer.json) |
 | Gladiator Vs. | 137521 | [137521-gladiator-vs.json](./137521-gladiator-vs.json) |
 | Gladiator X | 130795 | [130795-gladiator-x.json](./130795-gladiator-x.json) |
+| Gladiator: About to Die | 190830 | [190830-gladiator-about-to-die.json](./190830-gladiator-about-to-die.json) |
 | Gladiator: Blades of Fury | 115586 | [115586-gladiator-blades-of-fury.json](./115586-gladiator-blades-of-fury.json) |
 | Gladiator: Road to the Colosseum | 120836 | [120836-gladiator-road-to-the-colosseum.json](./120836-gladiator-road-to-the-colosseum.json) |
 | Gladiator: Sword of Vengeance | 5846 | [5846-gladiator-sword-of-vengeance.json](./5846-gladiator-sword-of-vengeance.json) |
@@ -5582,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Grabbing Goblin | 271627 | [271627-gold-grabbing-goblin.json](./271627-gold-grabbing-goblin.json) |
 | Gold Is Mine | 148842 | [148842-gold-is-mine.json](./148842-gold-is-mine.json) |
 | Gold Knight | 277269 | [277269-gold-knight.json](./277269-gold-knight.json) |
+| Gold Lender Manager | 191375 | [191375-gold-lender-manager.json](./191375-gold-lender-manager.json) |
 | Gold Magic 800 | 109897 | [109897-gold-magic-800.json](./109897-gold-magic-800.json) |
 | Gold Mine | 92929 | [92929-gold-mine.json](./92929-gold-mine.json) |
 | Gold Miner | 173064 | [173064-gold-miner.json](./173064-gold-miner.json) |
@@ -8825,6 +8828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guacamelee! One-Two Punch Collection | 115023 | [115023-guacamelee-one-two-punch-collection.json](./115023-guacamelee-one-two-punch-collection.json) |
 | Guacamojo | 201693 | [201693-guacamojo.json](./201693-guacamojo.json) |
 | Guacomole | 234104 | [234104-guacomole.json](./234104-guacomole.json) |
+| Guacuco | 190873 | [190873-guacuco.json](./190873-guacuco.json) |
 | Guadalcanal | 53162 | [53162-guadalcanal.json](./53162-guadalcanal.json) |
 | Guadalcanal Campaign | 23992 | [23992-guadalcanal-campaign.json](./23992-guadalcanal-campaign.json) |
 | Guaishou | 177228 | [177228-guaishou.json](./177228-guaishou.json) |
@@ -9033,6 +9037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gui Long Chao | 317049 | [317049-gui-long-chao.json](./317049-gui-long-chao.json) |
 | Guǐchù Zhànjì: Jīnkēlā Chuánshuō | 120722 | [120722-guichu-zhanji-jinkela-chuanshuo.json](./120722-guichu-zhanji-jinkela-chuanshuo.json) |
 | Guidance | 222349 | [222349-guidance.json](./222349-guidance.json) |
+| Guide and Throw | 190835 | [190835-guide-and-throw.json](./190835-guide-and-throw.json) |
 | Guide of the Butterfly | 134939 | [134939-guide-of-the-butterfly.json](./134939-guide-of-the-butterfly.json) |
 | Guide To Apocalypse | 334492 | [334492-guide-to-apocalypse.json](./334492-guide-to-apocalypse.json) |
 | Guided Meditation VR | 34577 | [34577-guided-meditation-vr.json](./34577-guided-meditation-vr.json) |
