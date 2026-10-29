@@ -3179,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let It Happen | 129663 | [129663-let-it-happen.json](./129663-let-it-happen.json) |
 | Let It Ride! | 392938 | [392938-let-it-ride.json](./392938-let-it-ride.json) |
 | Let It Roll | 222244 | [222244-let-it-roll.json](./222244-let-it-roll.json) |
+| Let it Roll 2 | 192043 | [192043-let-it-roll-2.json](./192043-let-it-roll-2.json) |
 | Let Me Book | 323433 | [323433-let-me-book.json](./323433-let-me-book.json) |
 | Let Me Die | 419163 | [419163-let-me-die.json](./419163-let-me-die.json) |
 | Let Me Die inside | 166599 | [166599-let-me-die-inside.json](./166599-let-me-die-inside.json) |
@@ -6002,6 +6003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco Parentis | 117810 | [117810-loco-parentis.json](./117810-loco-parentis.json) |
 | Loco Railroad | 123361 | [123361-loco-railroad.json](./123361-loco-railroad.json) |
 | Loco Road | 137851 | [137851-loco-road.json](./137851-loco-road.json) |
+| Loco Shortline Operations | 192010 | [192010-loco-shortline-operations.json](./192010-loco-shortline-operations.json) |
 | Loco-Coconuts | 246495 | [246495-loco-coconuts.json](./246495-loco-coconuts.json) |
 | Loco-Motion | 42161 | [42161-loco-motion.json](./42161-loco-motion.json) |
 | Loco-Motion | 5681 | [5681-loco-motion.json](./5681-loco-motion.json) |
