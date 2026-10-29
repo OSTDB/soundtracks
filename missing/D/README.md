@@ -6133,6 +6133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Des Blood VR | 81472 | [81472-des-blood-vr.json](./81472-des-blood-vr.json) |
 | Des Chiffres et des Lettres | 69743 | [69743-des-chiffres-et-des-lettres.json](./69743-des-chiffres-et-des-lettres.json) |
 | Des Racines et des Graines | 261724 | [261724-des-racines-et-des-graines.json](./261724-des-racines-et-des-graines.json) |
+| Des Visages, Des Fissures | 228048 | [228048-des-visages-des-fissures.json](./228048-des-visages-des-fissures.json) |
 | Desafio Quiz | 357376 | [357376-desafio-quiz.json](./357376-desafio-quiz.json) |
 | Desastre Colectivo | 135077 | [135077-desastre-colectivo.json](./135077-desastre-colectivo.json) |
 | Desaturation Point | 195472 | [195472-desaturation-point.json](./195472-desaturation-point.json) |
