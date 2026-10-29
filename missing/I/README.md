@@ -3285,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ball Well | 384513 | [384513-infinite-ball-well.json](./384513-infinite-ball-well.json) |
 | Infinite Block Puzzle | 98792 | [98792-infinite-block-puzzle.json](./98792-infinite-block-puzzle.json) |
 | Infinite Bloom | 370275 | [370275-infinite-bloom.json](./370275-infinite-bloom.json) |
+| Infinite Blue | 199210 | [199210-infinite-blue.json](./199210-infinite-blue.json) |
 | Infinite Blue | 337650 | [337650-infinite-blue.json](./337650-infinite-blue.json) |
 | Infinite Borders | 264030 | [264030-infinite-borders.json](./264030-infinite-borders.json) |
 | Infinite Borders: Three Kingdoms | 348170 | [348170-infinite-borders-three-kingdoms.json](./348170-infinite-borders-three-kingdoms.json) |
