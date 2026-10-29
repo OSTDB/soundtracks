@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back Door Man | 57997 | [57997-back-door-man.json](./57997-back-door-man.json) |
 | Back Fire | 251136 | [251136-back-fire.json](./251136-back-fire.json) |
 | Back Fire | 301085 | [301085-back-fire.json](./301085-back-fire.json) |
+| Back Four Seconds | 183710 | [183710-back-four-seconds.json](./183710-back-four-seconds.json) |
 | Back From Earth | 379176 | [379176-back-from-earth.json](./379176-back-from-earth.json) |
 | Back From Hell | 24877 | [24877-back-from-hell.json](./24877-back-from-hell.json) |
 | Back from the other world, I missed love | 337707 | [337707-back-from-the-other-world-i-missed-love.json](./337707-back-from-the-other-world-i-missed-love.json) |
@@ -853,7 +854,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4302,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beak Island Visitor Center | 339964 | [339964-beak-island-visitor-center.json](./339964-beak-island-visitor-center.json) |
 | Beaked Buccaneer | 302070 | [302070-beaked-buccaneer.json](./302070-beaked-buccaneer.json) |
 | Beakiez | 94134 | [94134-beakiez.json](./94134-beakiez.json) |
+| Beaks of Rage | 183704 | [183704-beaks-of-rage.json](./183704-beaks-of-rage.json) |
 | Beam | 15700 | [15700-beam.json](./15700-beam.json) |
 | Beam | 233423 | [233423-beam.json](./233423-beam.json) |
 | Beam Ball | 101731 | [101731-beam-ball.json](./101731-beam-ball.json) |
@@ -11647,6 +11648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomby | 179147 | [179147-boomby.json](./179147-boomby.json) |
 | Boomby! | 334452 | [334452-boomby.json](./334452-boomby.json) |
 | Boomcestors | 367961 | [367961-boomcestors.json](./367961-boomcestors.json) |
+| Boomchick | 183703 | [183703-boomchick.json](./183703-boomchick.json) |
 | BoomCrash | 201406 | [201406-boomcrash.json](./201406-boomcrash.json) |
 | Boomer | 214541 | [214541-boomer.json](./214541-boomer.json) |
 | Boomer | 410649 | [410649-boomer.json](./410649-boomer.json) |
@@ -14072,6 +14074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Drive | 416958 | [416958-broken-drive.json](./416958-broken-drive.json) |
 | Broken Ecchi Gallery | 280748 | [280748-broken-ecchi-gallery.json](./280748-broken-ecchi-gallery.json) |
 | Broken Edge | 204335 | [204335-broken-edge.json](./204335-broken-edge.json) |
+| Broken Egg | 183712 | [183712-broken-egg.json](./183712-broken-egg.json) |
 | Broken Fields: Stay or Run? | 420676 | [420676-broken-fields-stay-or-run.json](./420676-broken-fields-stay-or-run.json) |
 | Broken Fifth | 279260 | [279260-broken-fifth.json](./279260-broken-fifth.json) |
 | Broken God Awakening | 216791 | [216791-broken-god-awakening.json](./216791-broken-god-awakening.json) |
@@ -14516,6 +14519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bath Babes | 48677 | [48677-bubble-bath-babes.json](./48677-bubble-bath-babes.json) |
 | Bubble Battle | 333378 | [333378-bubble-battle.json](./333378-bubble-battle.json) |
 | Bubble Battle Blast 3D | 333051 | [333051-bubble-battle-blast-3d.json](./333051-bubble-battle-blast-3d.json) |
+| Bubble Beacon | 183719 | [183719-bubble-beacon.json](./183719-bubble-beacon.json) |
 | Bubble Bird | 250395 | [250395-bubble-bird.json](./250395-bubble-bird.json) |
 | Bubble Blast | 304262 | [304262-bubble-blast.json](./304262-bubble-blast.json) |
 | Bubble Blast Rescue | 89036 | [89036-bubble-blast-rescue.json](./89036-bubble-blast-rescue.json) |
