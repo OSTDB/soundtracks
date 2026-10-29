@@ -3206,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead On Arrival | 249086 | [249086-dead-on-arrival.json](./249086-dead-on-arrival.json) |
 | Dead On Arrival | 303461 | [303461-dead-on-arrival.json](./303461-dead-on-arrival.json) |
 | Dead On Arrival | 380246 | [380246-dead-on-arrival.json](./380246-dead-on-arrival.json) |
+| Dead on Arrival: Remastered | 226516 | [226516-dead-on-arrival-remastered.json](./226516-dead-on-arrival-remastered.json) |
 | Dead on Time | 13574 | [13574-dead-on-time.json](./13574-dead-on-time.json) |
 | Dead on Your Lawn | 345394 | [345394-dead-on-your-lawn.json](./345394-dead-on-your-lawn.json) |
 | Dead or Alive | 1387 | [1387-dead-or-alive.json](./1387-dead-or-alive.json) |
@@ -3722,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dealer's Doom | 397278 | [397278-dealers-doom.json](./397278-dealers-doom.json) |
 | Dealer's Life | 114063 | [114063-dealers-life.json](./114063-dealers-life.json) |
 | Dealer's Life 2 | 139339 | [139339-dealers-life-2.json](./139339-dealers-life-2.json) |
+| Dealer's Life Legend | 226502 | [226502-dealers-life-legend.json](./226502-dealers-life-legend.json) |
 | Dealey Plaza Paintball | 59863 | [59863-dealey-plaza-paintball.json](./59863-dealey-plaza-paintball.json) |
 | Dealmaster | 391097 | [391097-dealmaster.json](./391097-dealmaster.json) |
 | Deals With Witch | 303465 | [303465-deals-with-witch.json](./303465-deals-with-witch.json) |
@@ -7987,6 +7989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Expo Center | 154899 | [154899-digital-expo-center.json](./154899-digital-expo-center.json) |
 | Digital Extreme Sport Games | 98800 | [98800-digital-extreme-sport-games.json](./98800-digital-extreme-sport-games.json) |
 | Digital ez LG | 238912 | [238912-digital-ez-lg.json](./238912-digital-ez-lg.json) |
+| Digital Frida | 226513 | [226513-digital-frida.json](./226513-digital-frida.json) |
 | Digital Girlfriend | 384841 | [384841-digital-girlfriend.json](./384841-digital-girlfriend.json) |
 | Digital Glider Airman | 143655 | [143655-digital-glider-airman.json](./143655-digital-glider-airman.json) |
 | Digital Hazard | 93162 | [93162-digital-hazard.json](./93162-digital-hazard.json) |
@@ -16563,6 +16566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarfare: All For The Forge | 369720 | [369720-dwarfare-all-for-the-forge.json](./369720-dwarfare-all-for-the-forge.json) |
 | Dwarfender | 250894 | [250894-dwarfender.json](./250894-dwarfender.json) |
 | Dwarfenstein | 200357 | [200357-dwarfenstein.json](./200357-dwarfenstein.json) |
+| Dwarfer | 226481 | [226481-dwarfer.json](./226481-dwarfer.json) |
 | Dwarffarian | 191081 | [191081-dwarffarian.json](./191081-dwarffarian.json) |
 | DwarfHeim | 117584 | [117584-dwarfheim.json](./117584-dwarfheim.json) |
 | DwarfHold: Tokens & Towers | 357836 | [357836-dwarfhold-tokens-and-towers.json](./357836-dwarfhold-tokens-and-towers.json) |
