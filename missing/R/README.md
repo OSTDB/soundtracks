@@ -1664,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rangers of Oblivion | 113636 | [113636-rangers-of-oblivion.json](./113636-rangers-of-oblivion.json) |
 | RangerSteve.io | 56400 | [56400-rangersteve-io.json](./56400-rangersteve-io.json) |
 | Rangi | 54836 | [54836-rangi.json](./54836-rangi.json) |
+| Rangingstrike | 224824 | [224824-rangingstrike.json](./224824-rangingstrike.json) |
 | Rango | 248575 | [248575-rango.json](./248575-rango.json) |
 | Rango | 248576 | [248576-rango.json](./248576-rango.json) |
 | Rango | 5114 | [5114-rango.json](./5114-rango.json) |
@@ -1753,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapper Life Simulation | 158710 | [158710-rapper-life-simulation.json](./158710-rapper-life-simulation.json) |
 | Rappy Bird | 61873 | [61873-rappy-bird.json](./61873-rappy-bird.json) |
 | Rapscallion | 71978 | [71978-rapscallion.json](./71978-rapscallion.json) |
+| Rapscallions on Deck | 224810 | [224810-rapscallions-on-deck.json](./224810-rapscallions-on-deck.json) |
 | Rapsodie | 302749 | [302749-rapsodie.json](./302749-rapsodie.json) |
 | RapStar Tycoon | 103963 | [103963-rapstar-tycoon.json](./103963-rapstar-tycoon.json) |
 | Rapta | 315114 | [315114-rapta.json](./315114-rapta.json) |
@@ -9992,6 +9994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rowan Needs Shinies! | 420586 | [420586-rowan-needs-shinies.json](./420586-rowan-needs-shinies.json) |
 | Rowan's Battle of Britain | 73818 | [73818-rowans-battle-of-britain.json](./73818-rowans-battle-of-britain.json) |
 | RowBot Rally | 256258 | [256258-rowbot-rally.json](./256258-rowbot-rally.json) |
+| Rowbots | 224804 | [224804-rowbots.json](./224804-rowbots.json) |
 | Rowdy Rascals | 266593 | [266593-rowdy-rascals.json](./266593-rowdy-rascals.json) |
 | Rowdy Rudy II: PowerTrip | 141700 | [141700-rowdy-rudy-ii-powertrip.json](./141700-rowdy-rudy-ii-powertrip.json) |
 | Rowdy Rudy's Revenge | 141699 | [141699-rowdy-rudys-revenge.json](./141699-rowdy-rudys-revenge.json) |
@@ -10010,6 +10013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxanne | 382316 | [382316-roxanne.json](./382316-roxanne.json) |
 | Roxanne The Forgotten Path | 365846 | [365846-roxanne-the-forgotten-path.json](./365846-roxanne-the-forgotten-path.json) |
 | Roxy Raccoon | 159290 | [159290-roxy-raccoon.json](./159290-roxy-raccoon.json) |
+| Roxy Raccoon 2: Topsy-Turvy | 224811 | [224811-roxy-raccoon-2-topsy-turvy.json](./224811-roxy-raccoon-2-topsy-turvy.json) |
 | Roxy Raccoon 3: Troubles in Time | 375845 | [375845-roxy-raccoon-3-troubles-in-time.json](./375845-roxy-raccoon-3-troubles-in-time.json) |
 | Roxy Raccoon's Bowling Bash | 199336 | [199336-roxy-raccoons-bowling-bash.json](./199336-roxy-raccoons-bowling-bash.json) |
 | Roxy Raccoon's Mancala Madness | 249065 | [249065-roxy-raccoons-mancala-madness.json](./249065-roxy-raccoons-mancala-madness.json) |
