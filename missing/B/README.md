@@ -6348,6 +6348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi Blocksberg: Big Broom Race 3 | 110685 | [110685-bibi-blocksberg-big-broom-race-3.json](./110685-bibi-blocksberg-big-broom-race-3.json) |
 | Bibi Blocksberg: Big Broom Race 4 | 375406 | [375406-bibi-blocksberg-big-broom-race-4.json](./375406-bibi-blocksberg-big-broom-race-4.json) |
 | Bibi Blocksberg: Das gestohlene Hexbuch | 215850 | [215850-bibi-blocksberg-das-gestohlene-hexbuch.json](./215850-bibi-blocksberg-das-gestohlene-hexbuch.json) |
+| Bibi Blocksberg: Das große Hexenbesen-Rennen 2 | 222645 | [222645-bibi-blocksberg-das-gro-e-hexenbesen-rennen-2.json](./222645-bibi-blocksberg-das-gro-e-hexenbesen-rennen-2.json) |
 | Bibi Blocksberg: Das große Hexenbesen-Rennen! | 145936 | [145936-bibi-blocksberg-das-gro-e-hexenbesen-rennen.json](./145936-bibi-blocksberg-das-gro-e-hexenbesen-rennen.json) |
 | Bibi Blocksberg: Der Magische Hexenkreis | 199069 | [199069-bibi-blocksberg-der-magische-hexenkreis.json](./199069-bibi-blocksberg-der-magische-hexenkreis.json) |
 | Bibi Blocksberg: Der verhexte Liebesbrief | 148304 | [148304-bibi-blocksberg-der-verhexte-liebesbrief.json](./148304-bibi-blocksberg-der-verhexte-liebesbrief.json) |
@@ -13391,6 +13392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breathedge: Cosmic Cluck | 286571 | [286571-breathedge-cosmic-cluck.json](./286571-breathedge-cosmic-cluck.json) |
 | BreathePeace.World | 111722 | [111722-breathepeace-world.json](./111722-breathepeace-world.json) |
 | Breathless | 14346 | [14346-breathless.json](./14346-breathless.json) |
+| Breathless | 222638 | [222638-breathless.json](./222638-breathless.json) |
 | Breathless Bliss | 88916 | [88916-breathless-bliss.json](./88916-breathless-bliss.json) |
 | Breathless: Will you Understand Me? | 292459 | [292459-breathless-will-you-understand-me.json](./292459-breathless-will-you-understand-me.json) |
 | Breathspace | 226271 | [226271-breathspace.json](./226271-breathspace.json) |
