@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O2Jam Pop | 337155 | [337155-o2jam-pop.json](./337155-o2jam-pop.json) |
 | O2Jam Remix | 337144 | [337144-o2jam-remix.json](./337144-o2jam-remix.json) |
 | O2Jam S | 337149 | [337149-o2jam-s.json](./337149-o2jam-s.json) |
+| O2Jam U | 186403 | [186403-o2jam-u.json](./186403-o2jam-u.json) |
 | O2Jam x DancingParty | 107799 | [107799-o2jam-x-dancingparty.json](./107799-o2jam-x-dancingparty.json) |
 | O2Jam: Cats | 337147 | [337147-o2jam-cats.json](./337147-o2jam-cats.json) |
 | O2Jam: Fruitland | 337146 | [337146-o2jam-fruitland.json](./337146-o2jam-fruitland.json) |
@@ -126,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obakeidoro!: Character DLC Bundle 2 | 223807 | [223807-obakeidoro-character-dlc-bundle-2.json](./223807-obakeidoro-character-dlc-bundle-2.json) |
 | Obakeidoro!: Character DLC Bundle 3 | 212616 | [212616-obakeidoro-character-dlc-bundle-3.json](./212616-obakeidoro-character-dlc-bundle-3.json) |
 | Obakenori | 329042 | [329042-obakenori.json](./329042-obakenori.json) |
+| Obama | 186490 | [186490-obama.json](./186490-obama.json) |
 | Obama Alien Defence | 282109 | [282109-obama-alien-defence.json](./282109-obama-alien-defence.json) |
 | Obama Alien Defense | 326739 | [326739-obama-alien-defense.json](./326739-obama-alien-defense.json) |
 | Obama in the Dark | 320263 | [320263-obama-in-the-dark.json](./320263-obama-in-the-dark.json) |
@@ -2663,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Online World Drifting Championships | 373672 | [373672-online-world-drifting-championships.json](./373672-online-world-drifting-championships.json) |
 | Online: 404 | 403155 | [403155-online-404.json](./403155-online-404.json) |
 | OnlineCTR | 313093 | [313093-onlinectr.json](./313093-onlinectr.json) |
+| Onlooker | 186460 | [186460-onlooker.json](./186460-onlooker.json) |
 | Only a Billion?! | 324343 | [324343-only-a-billion.json](./324343-only-a-billion.json) |
 | Only A Dream | 230884 | [230884-only-a-dream.json](./230884-only-a-dream.json) |
 | Only After | 117129 | [117129-only-after.json](./117129-only-after.json) |
@@ -2787,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onna Senshi Serasu wa Odoriko ni Tenshoku Shita!: Ha, Hazukashikute Shinde Shimaitai … Ecchi na Dance Nante Dare ga Suruka! | 58806 | [58806-onna-senshi-serasu-wa-odoriko-ni-tenshoku-shita-ha-hazukashikute-shinde-shimaitai-ecchi-na-dance-nante-dare-ga-suruka.json](./58806-onna-senshi-serasu-wa-odoriko-ni-tenshoku-shita-ha-hazukashikute-shinde-shimaitai-ecchi-na-dance-nante-dare-ga-suruka.json) |
 | Onnanoko Keeper | 171434 | [171434-onnanoko-keeper.json](./171434-onnanoko-keeper.json) |
 | Onnanoko Keeper 2 | 150494 | [150494-onnanoko-keeper-2.json](./150494-onnanoko-keeper-2.json) |
+| ONO: Brain Fog | 186397 | [186397-ono-brain-fog.json](./186397-ono-brain-fog.json) |
 | Ono: Fast Card Game Fun | 86715 | [86715-ono-fast-card-game-fun.json](./86715-ono-fast-card-game-fun.json) |
 | Onohi | 201634 | [201634-onohi.json](./201634-onohi.json) |
 | Onomastica | 387943 | [387943-onomastica.json](./387943-onomastica.json) |
@@ -5241,6 +5245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owlette's Playground Cleanup | 359435 | [359435-owlettes-playground-cleanup.json](./359435-owlettes-playground-cleanup.json) |
 | Owling. Crowling. Bowling! | 115613 | [115613-owling-crowling-bowling.json](./115613-owling-crowling-bowling.json) |
 | Owlman | 238637 | [238637-owlman.json](./238637-owlman.json) |
+| Owlone in the Woods | 186489 | [186489-owlone-in-the-woods.json](./186489-owlone-in-the-woods.json) |
 | Owls - A matching game for kids. | 106994 | [106994-owls-a-matching-game-for-kids.json](./106994-owls-a-matching-game-for-kids.json) |
 | Own Coffee Shop | 120342 | [120342-own-coffee-shop.json](./120342-own-coffee-shop.json) |
 | Own the Throne | 247919 | [247919-own-the-throne.json](./247919-own-the-throne.json) |
