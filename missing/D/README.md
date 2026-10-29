@@ -13553,6 +13553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw & Guess Multiplayer | 348948 | [348948-draw-and-guess-multiplayer.json](./348948-draw-and-guess-multiplayer.json) |
 | Draw 1 Line - a puzzle game | 95903 | [95903-draw-1-line-a-puzzle-game.json](./95903-draw-1-line-a-puzzle-game.json) |
 | Draw 2 Save: Stickman Puzzle | 208980 | [208980-draw-2-save-stickman-puzzle.json](./208980-draw-2-save-stickman-puzzle.json) |
+| Draw a Line Adventure | 220418 | [220418-draw-a-line-adventure.json](./220418-draw-a-line-adventure.json) |
 | Draw a Perfect Circle | 328844 | [328844-draw-a-perfect-circle.json](./328844-draw-a-perfect-circle.json) |
 | Draw a Stickman: Epic | 5032 | [5032-draw-a-stickman-epic.json](./5032-draw-a-stickman-epic.json) |
 | Draw a Stickman: Epic 2 | 34433 | [34433-draw-a-stickman-epic-2.json](./34433-draw-a-stickman-epic-2.json) |
