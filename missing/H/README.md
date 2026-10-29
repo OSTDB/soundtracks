@@ -2783,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headup Multiplayer Bundle | 308620 | [308620-headup-multiplayer-bundle.json](./308620-headup-multiplayer-bundle.json) |
 | Headwaters | 288768 | [288768-headwaters.json](./288768-headwaters.json) |
 | HeadWorms | 141555 | [141555-headworms.json](./141555-headworms.json) |
+| Headz Go Racing | 216601 | [216601-headz-go-racing.json](./216601-headz-go-racing.json) |
 | Heal & Hurt | 207710 | [207710-heal-and-hurt.json](./207710-heal-and-hurt.json) |
 | Heal Hitler | 169412 | [169412-heal-hitler.json](./169412-heal-hitler.json) |
 | Heal Plz | 121741 | [121741-heal-plz.json](./121741-heal-plz.json) |
@@ -3507,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Architect | 117590 | [117590-hell-architect.json](./117590-hell-architect.json) |
 | Hell Awaits | 229366 | [229366-hell-awaits.json](./229366-hell-awaits.json) |
 | Hell Blood: Inferno Retro Shooter | 378804 | [378804-hell-blood-inferno-retro-shooter.json](./378804-hell-blood-inferno-retro-shooter.json) |
+| Hell Boba Café | 216605 | [216605-hell-boba-cafe.json](./216605-hell-boba-cafe.json) |
 | Hell Bound Monsters | 188837 | [188837-hell-bound-monsters.json](./188837-hell-bound-monsters.json) |
 | Hell Bug | 371376 | [371376-hell-bug.json](./371376-hell-bug.json) |
 | Hell Builder | 352221 | [352221-hell-builder.json](./352221-hell-builder.json) |
