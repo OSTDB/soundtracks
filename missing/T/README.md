@@ -3085,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeter | 205067 | [205067-teeter.json](./205067-teeter.json) |
 | Teeter | 324975 | [324975-teeter.json](./324975-teeter.json) |
 | Teeter | 398279 | [398279-teeter.json](./398279-teeter.json) |
+| Teeter Hero | 177675 | [177675-teeter-hero.json](./177675-teeter-hero.json) |
 | Teeter Torture | 39513 | [39513-teeter-torture.json](./39513-teeter-torture.json) |
 | Teeth Brushing Simulator | 228730 | [228730-teeth-brushing-simulator.json](./228730-teeth-brushing-simulator.json) |
 | Teeth Cutter | 390617 | [390617-teeth-cutter.json](./390617-teeth-cutter.json) |
@@ -5357,6 +5358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Astronomy Game | 156144 | [156144-the-astronomy-game.json](./156144-the-astronomy-game.json) |
 | The Astronomy Quiz | 73479 | [73479-the-astronomy-quiz.json](./73479-the-astronomy-quiz.json) |
 | The Asylum Closed Ward | 331523 | [331523-the-asylum-closed-ward.json](./331523-the-asylum-closed-ward.json) |
+| The Asylum Incident | 178227 | [178227-the-asylum-incident.json](./178227-the-asylum-incident.json) |
 | The Asylum: Psychiatric Clinic for Abused Cuddly Toys | 66153 | [66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json](./66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json) |
 | The Atla Archives | 238109 | [238109-the-atla-archives.json](./238109-the-atla-archives.json) |
 | The Atlas Mystery: A VR Puzzle Game | 189349 | [189349-the-atlas-mystery-a-vr-puzzle-game.json](./189349-the-atlas-mystery-a-vr-puzzle-game.json) |
@@ -11988,6 +11990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magician's Handbook II: BlackLore | 53759 | [53759-the-magicians-handbook-ii-blacklore.json](./53759-the-magicians-handbook-ii-blacklore.json) |
 | The Magician's Handbook: Cursed Valley | 118180 | [118180-the-magicians-handbook-cursed-valley.json](./118180-the-magicians-handbook-cursed-valley.json) |
 | The Magician's Research | 123571 | [123571-the-magicians-research.json](./123571-the-magicians-research.json) |
+| The Magick | 178230 | [178230-the-magick.json](./178230-the-magick.json) |
 | The Magister | 137351 | [137351-the-magister.json](./137351-the-magister.json) |
 | The Magistrate | 247750 | [247750-the-magistrate.json](./247750-the-magistrate.json) |
 | The Magnet: First Night | 181299 | [181299-the-magnet-first-night.json](./181299-the-magnet-first-night.json) |
@@ -13223,6 +13226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Physiology of the Eye | 29705 | [29705-the-physiology-of-the-eye.json](./29705-the-physiology-of-the-eye.json) |
 | The Piano | 20180 | [20180-the-piano.json](./20180-the-piano.json) |
 | The Piano Past | 134270 | [134270-the-piano-past.json](./134270-the-piano-past.json) |
+| The Piano Player | 178198 | [178198-the-piano-player.json](./178198-the-piano-player.json) |
 | The Piano That Staying Time | 344421 | [344421-the-piano-that-staying-time.json](./344421-the-piano-that-staying-time.json) |
 | The Picture in the House | 142789 | [142789-the-picture-in-the-house.json](./142789-the-picture-in-the-house.json) |
 | The Picture of Cafe au Lait | 248442 | [248442-the-picture-of-cafe-au-lait.json](./248442-the-picture-of-cafe-au-lait.json) |
@@ -14729,6 +14733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Everyday Clutter Kit | 226792 | [226792-the-sims-4-everyday-clutter-kit.json](./226792-the-sims-4-everyday-clutter-kit.json) |
 | The Sims 4: Everyday Stuff Bundle | 159341 | [159341-the-sims-4-everyday-stuff-bundle.json](./159341-the-sims-4-everyday-stuff-bundle.json) |
 | The Sims 4: Extreme Violence | 259250 | [259250-the-sims-4-extreme-violence.json](./259250-the-sims-4-extreme-violence.json) |
+| The Sims 4: Fashion Street Kit | 178213 | [178213-the-sims-4-fashion-street-kit.json](./178213-the-sims-4-fashion-street-kit.json) |
 | The Sims 4: First Fits Kit | 215720 | [215720-the-sims-4-first-fits-kit.json](./215720-the-sims-4-first-fits-kit.json) |
 | The Sims 4: Fitness Stuff | 121027 | [121027-the-sims-4-fitness-stuff.json](./121027-the-sims-4-fitness-stuff.json) |
 | The Sims 4: For Rent | 275084 | [275084-the-sims-4-for-rent.json](./275084-the-sims-4-for-rent.json) |
@@ -14745,6 +14750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: High School Years | 207387 | [207387-the-sims-4-high-school-years.json](./207387-the-sims-4-high-school-years.json) |
 | The Sims 4: Home Chef Hustle Stuff Pack | 269160 | [269160-the-sims-4-home-chef-hustle-stuff-pack.json](./269160-the-sims-4-home-chef-hustle-stuff-pack.json) |
 | The Sims 4: Horse Ranch | 253116 | [253116-the-sims-4-horse-ranch.json](./253116-the-sims-4-horse-ranch.json) |
+| The Sims 4: Incheon Arrivals Kit | 178212 | [178212-the-sims-4-incheon-arrivals-kit.json](./178212-the-sims-4-incheon-arrivals-kit.json) |
 | The Sims 4: Industrial Loft Kit | 165538 | [165538-the-sims-4-industrial-loft-kit.json](./165538-the-sims-4-industrial-loft-kit.json) |
 | The Sims 4: Island Living | 119318 | [119318-the-sims-4-island-living.json](./119318-the-sims-4-island-living.json) |
 | The Sims 4: Kids Room Stuff | 121023 | [121023-the-sims-4-kids-room-stuff.json](./121023-the-sims-4-kids-room-stuff.json) |
@@ -15485,6 +15491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Galariel | 228304 | [228304-the-tale-of-galariel.json](./228304-the-tale-of-galariel.json) |
 | The Tale of Greenbrier | 117819 | [117819-the-tale-of-greenbrier.json](./117819-the-tale-of-greenbrier.json) |
 | The Tale of Knightess Milia | 82922 | [82922-the-tale-of-knightess-milia.json](./82922-the-tale-of-knightess-milia.json) |
+| The Tale of Lukas | 178188 | [178188-the-tale-of-lukas.json](./178188-the-tale-of-lukas.json) |
 | The Tale of Lumi | 263990 | [263990-the-tale-of-lumi.json](./263990-the-tale-of-lumi.json) |
 | The Tale of Mara & Moa | 294025 | [294025-the-tale-of-mara-and-moa.json](./294025-the-tale-of-mara-and-moa.json) |
 | The Tale of Marena's Deft | 298716 | [298716-the-tale-of-marenas-deft.json](./298716-the-tale-of-marenas-deft.json) |
@@ -17094,6 +17101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Worlds of Billy | 65042 | [65042-the-worlds-of-billy.json](./65042-the-worlds-of-billy.json) |
 | The Worm | 34419 | [34419-the-worm.json](./34419-the-worm.json) |
 | The Worm - A Lean Short | 128431 | [128431-the-worm-a-lean-short.json](./128431-the-worm-a-lean-short.json) |
+| The Worm Game | 177679 | [177679-the-worm-game.json](./177679-the-worm-game.json) |
 | The Worm in Paradise | 36845 | [36845-the-worm-in-paradise.json](./36845-the-worm-in-paradise.json) |
 | The Worm Room | 139263 | [139263-the-worm-room.json](./139263-the-worm-room.json) |
 | The Worm's Memoirs | 324255 | [324255-the-worms-memoirs.json](./324255-the-worms-memoirs.json) |
@@ -18157,6 +18165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threesome Puzzle | 241782 | [241782-threesome-puzzle.json](./241782-threesome-puzzle.json) |
 | Threesquare | 56943 | [56943-threesquare.json](./56943-threesquare.json) |
 | ThreeStep | 120962 | [120962-threestep.json](./120962-threestep.json) |
+| ThreeTwoPix: Fang Runner | 178215 | [178215-threetwopix-fang-runner.json](./178215-threetwopix-fang-runner.json) |
 | Threewave | 306178 | [306178-threewave.json](./306178-threewave.json) |
 | Threewave Capture | 306175 | [306175-threewave-capture.json](./306175-threewave-capture.json) |
 | Thregnar and the Crystals of Chaos | 313431 | [313431-thregnar-and-the-crystals-of-chaos.json](./313431-thregnar-and-the-crystals-of-chaos.json) |
@@ -23212,6 +23221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Normal Day | 304759 | [304759-totally-normal-day.json](./304759-totally-normal-day.json) |
 | Totally Normal Journey: The Interactive Musical | 157021 | [157021-totally-normal-journey-the-interactive-musical.json](./157021-totally-normal-journey-the-interactive-musical.json) |
 | Totally Not Sumo | 306043 | [306043-totally-not-sumo.json](./306043-totally-not-sumo.json) |
+| Totally planet | 178195 | [178195-totally-planet.json](./178195-totally-planet.json) |
 | Totally Rad Metal Detector League | 220714 | [220714-totally-rad-metal-detector-league.json](./220714-totally-rad-metal-detector-league.json) |
 | Totally Ratical Adventures | 211913 | [211913-totally-ratical-adventures.json](./211913-totally-ratical-adventures.json) |
 | Totally Realistic Unicorn Buffalo Simulator | 142463 | [142463-totally-realistic-unicorn-buffalo-simulator.json](./142463-totally-realistic-unicorn-buffalo-simulator.json) |
@@ -28357,6 +28367,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuki no Hikari | 322241 | [322241-tsuki-no-hikari.json](./322241-tsuki-no-hikari.json) |
 | Tsuki no Hikari: Shizumeru Kane no Satsujin | 62539 | [62539-tsuki-no-hikari-shizumeru-kane-no-satsujin.json](./62539-tsuki-no-hikari-shizumeru-kane-no-satsujin.json) |
 | Tsuki no Kanata de Aimashou | 150037 | [150037-tsuki-no-kanata-de-aimashou.json](./150037-tsuki-no-kanata-de-aimashou.json) |
+| Tsuki no Kanata de Aimashou | 178207 | [178207-tsuki-no-kanata-de-aimashou.json](./178207-tsuki-no-kanata-de-aimashou.json) |
+| Tsuki no Kanata de Aimashou: Complete Limited Edition | 178208 | [178208-tsuki-no-kanata-de-aimashou-complete-limited-edition.json](./178208-tsuki-no-kanata-de-aimashou-complete-limited-edition.json) |
 | Tsuki no Kanata de Aimashou: Sweet Summer Rainbow | 150038 | [150038-tsuki-no-kanata-de-aimashou-sweet-summer-rainbow.json](./150038-tsuki-no-kanata-de-aimashou-sweet-summer-rainbow.json) |
 | Tsuki no Namida | 277953 | [277953-tsuki-no-namida.json](./277953-tsuki-no-namida.json) |
 | Tsuki no Sabaki | 413801 | [413801-tsuki-no-sabaki.json](./413801-tsuki-no-sabaki.json) |
