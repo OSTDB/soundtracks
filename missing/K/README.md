@@ -2484,7 +2484,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3523,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kissrim: Motto Miryoku!? Extra Story | 395336 | [395336-kissrim-motto-miryoku-extra-story.json](./395336-kissrim-motto-miryoku-extra-story.json) |
 | Kisten Royale | 352228 | [352228-kisten-royale.json](./352228-kisten-royale.json) |
 | Kit Cat | 297806 | [297806-kit-cat.json](./297806-kit-cat.json) |
+| Kit Out Your House | 177723 | [177723-kit-out-your-house.json](./177723-kit-out-your-house.json) |
 | KIT-10 | 372211 | [372211-kit-10.json](./372211-kit-10.json) |
 | Kit's Quest | 228634 | [228634-kits-quest.json](./228634-kits-quest.json) |
 | Kita e. Photo Memories | 239082 | [239082-kita-e-photo-memories.json](./239082-kita-e-photo-memories.json) |
@@ -3801,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klifur | 207255 | [207255-klifur.json](./207255-klifur.json) |
 | Klik & Play | 209827 | [209827-klik-and-play.json](./209827-klik-and-play.json) |
 | Klikwerk | 225282 | [225282-klikwerk.json](./225282-klikwerk.json) |
+| Klim | 178184 | [178184-klim.json](./178184-klim.json) |
 | Klim:S21 | 374397 | [374397-klim-s21.json](./374397-klim-s21.json) |
 | Klinok Doblesti 2 | 71791 | [71791-klinok-doblesti-2.json](./71791-klinok-doblesti-2.json) |
 | Klitorax | 221173 | [221173-klitorax.json](./221173-klitorax.json) |
@@ -5470,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuro Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Sanpaku Yokka no Tabi | 396941 | [396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json](./396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json) |
 | Kuro Neko | 153407 | [153407-kuro-neko.json](./153407-kuro-neko.json) |
 | Kuro no Danshou: The Literary Fragment | 413081 | [413081-kuro-no-danshou-the-literary-fragment.json](./413081-kuro-no-danshou-the-literary-fragment.json) |
+| Kuro no Ken | 178243 | [178243-kuro-no-ken.json](./178243-kuro-no-ken.json) |
 | Kuro no Kyoushitsu | 77892 | [77892-kuro-no-kyoushitsu.json](./77892-kuro-no-kyoushitsu.json) |
 | Kuro Tactics | 154245 | [154245-kuro-tactics.json](./154245-kuro-tactics.json) |
 | KurOba | 275735 | [275735-kuroba.json](./275735-kuroba.json) |
