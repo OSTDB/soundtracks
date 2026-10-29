@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaccine | 147168 | [147168-vaccine.json](./147168-vaccine.json) |
 | Vaccine | 30698 | [30698-vaccine.json](./30698-vaccine.json) |
 | Vaccine Case | 237959 | [237959-vaccine-case.json](./237959-vaccine-case.json) |
+| Vaccine Delivery Adventure | 187079 | [187079-vaccine-delivery-adventure.json](./187079-vaccine-delivery-adventure.json) |
 | Vaccine Delivery Simulator | 164883 | [164883-vaccine-delivery-simulator.json](./164883-vaccine-delivery-simulator.json) |
 | Vaccine Hunter | 144355 | [144355-vaccine-hunter.json](./144355-vaccine-hunter.json) |
 | Vaccine Rebirth | 236842 | [236842-vaccine-rebirth.json](./236842-vaccine-rebirth.json) |
@@ -2526,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus | 289578 | [289578-virus.json](./289578-virus.json) |
 | Virus 91 | 279092 | [279092-virus-91.json](./279092-virus-91.json) |
 | Virus Alert 3D | 320478 | [320478-virus-alert-3d.json](./320478-virus-alert-3d.json) |
+| Virus at Home | 186482 | [186482-virus-at-home.json](./186482-virus-at-home.json) |
 | Virus Attack | 284168 | [284168-virus-attack.json](./284168-virus-attack.json) |
 | Virus Attack | 421409 | [421409-virus-attack.json](./421409-virus-attack.json) |
 | Virus Attack! | 231551 | [231551-virus-attack.json](./231551-virus-attack.json) |
@@ -2893,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Future: Hacking Protocol | 376207 | [376207-void-future-hacking-protocol.json](./376207-void-future-hacking-protocol.json) |
 | Void Game | 394338 | [394338-void-game.json](./394338-void-game.json) |
 | Void Gore | 143540 | [143540-void-gore.json](./143540-void-gore.json) |
+| Void Grimm | 186415 | [186415-void-grimm.json](./186415-void-grimm.json) |
 | Void Guard | 277276 | [277276-void-guard.json](./277276-void-guard.json) |
 | Void Guard Outpost | 384033 | [384033-void-guard-outpost.json](./384033-void-guard-outpost.json) |
 | Void Harvest | 384044 | [384044-void-harvest.json](./384044-void-harvest.json) |
