@@ -7683,6 +7683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Hina Gorgeous: Chiratto Happening!! | 72581 | [72581-love-hina-gorgeous-chiratto-happening.json](./72581-love-hina-gorgeous-chiratto-happening.json) |
 | Love Hina Party | 50063 | [50063-love-hina-party.json](./50063-love-hina-party.json) |
 | Love Hina Pocket | 50064 | [50064-love-hina-pocket.json](./50064-love-hina-pocket.json) |
+| Love Hina Sim Date RPG | 185840 | [185840-love-hina-sim-date-rpg.json](./185840-love-hina-sim-date-rpg.json) |
 | Love Hina: Ai wa Kotoba no Naka ni | 44728 | [44728-love-hina-ai-wa-kotoba-no-naka-ni.json](./44728-love-hina-ai-wa-kotoba-no-naka-ni.json) |
 | Love Hina: Smile Again | 72582 | [72582-love-hina-smile-again.json](./72582-love-hina-smile-again.json) |
 | Love Hina: Totsuzen no Engeji Happening | 46375 | [46375-love-hina-totsuzen-no-engeji-happening.json](./46375-love-hina-totsuzen-no-engeji-happening.json) |
