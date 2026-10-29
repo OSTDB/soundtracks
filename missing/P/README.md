@@ -1248,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Corps 2: Axis Operations - 1940 | 155050 | [155050-panzer-corps-2-axis-operations-1940.json](./155050-panzer-corps-2-axis-operations-1940.json) |
 | Panzer Corps 2: Axis Operations - 1941 | 155081 | [155081-panzer-corps-2-axis-operations-1941.json](./155081-panzer-corps-2-axis-operations-1941.json) |
 | Panzer Corps 2: Axis Operations - 1942 | 159689 | [159689-panzer-corps-2-axis-operations-1942.json](./159689-panzer-corps-2-axis-operations-1942.json) |
+| Panzer Corps 2: Axis Operations - 1943 | 202489 | [202489-panzer-corps-2-axis-operations-1943.json](./202489-panzer-corps-2-axis-operations-1943.json) |
 | Panzer Corps 2: Axis Operations - 1944 | 220620 | [220620-panzer-corps-2-axis-operations-1944.json](./220620-panzer-corps-2-axis-operations-1944.json) |
 | Panzer Corps 2: Axis Operations - 1945 | 248896 | [248896-panzer-corps-2-axis-operations-1945.json](./248896-panzer-corps-2-axis-operations-1945.json) |
 | Panzer Corps 2: Axis Operations - 1946 | 270062 | [270062-panzer-corps-2-axis-operations-1946.json](./270062-panzer-corps-2-axis-operations-1946.json) |
@@ -1945,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parapara Leloluv | 226473 | [226473-parapara-leloluv.json](./226473-parapara-leloluv.json) |
 | ParaParaParadise 2nd mix | 78946 | [78946-paraparaparadise-2nd-mix.json](./78946-paraparaparadise-2nd-mix.json) |
 | ParaParaParadise V1.1 | 314329 | [314329-paraparaparadise-v1-1.json](./314329-paraparaparadise-v1-1.json) |
+| ParaPerspective | 202519 | [202519-paraperspective.json](./202519-paraperspective.json) |
 | Paraplasm: Beyond the Veil | 295160 | [295160-paraplasm-beyond-the-veil.json](./295160-paraplasm-beyond-the-veil.json) |
 | PaRappa the Rapper | 269666 | [269666-parappa-the-rapper.json](./269666-parappa-the-rapper.json) |
 | PaRappa the Rapper | 6080 | [6080-parappa-the-rapper.json](./6080-parappa-the-rapper.json) |
@@ -3208,6 +3210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peacely Online | 308185 | [308185-peacely-online.json](./308185-peacely-online.json) |
 | Peacemaker | 21433 | [21433-peacemaker.json](./21433-peacemaker.json) |
 | Peacemaker: Bloody Emperor | 264665 | [264665-peacemaker-bloody-emperor.json](./264665-peacemaker-bloody-emperor.json) |
+| Peacemaker: Glorious Princess | 202485 | [202485-peacemaker-glorious-princess.json](./202485-peacemaker-glorious-princess.json) |
 | Peacemaker: Protect, Search & Destroy | 382364 | [382364-peacemaker-protect-search-and-destroy.json](./382364-peacemaker-protect-search-and-destroy.json) |
 | Peacemaker: The Die Is Cast | 419314 | [419314-peacemaker-the-die-is-cast.json](./419314-peacemaker-the-die-is-cast.json) |
 | Peacequarium | 312707 | [312707-peacequarium.json](./312707-peacequarium.json) |
@@ -5598,6 +5601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigglet in Mrs. Big Bad Werewolf | 211581 | [211581-pigglet-in-mrs-big-bad-werewolf.json](./211581-pigglet-in-mrs-big-bad-werewolf.json) |
 | Piggy Chase | 113536 | [113536-piggy-chase.json](./113536-piggy-chase.json) |
 | Piggy Go | 212489 | [212489-piggy-go.json](./212489-piggy-go.json) |
+| Piggy Jump | 202529 | [202529-piggy-jump.json](./202529-piggy-jump.json) |
 | Piggy Monte | 415154 | [415154-piggy-monte.json](./415154-piggy-monte.json) |
 | Piggy One Super Spark | 303002 | [303002-piggy-one-super-spark.json](./303002-piggy-one-super-spark.json) |
 | Piggy Only Up | 408835 | [408835-piggy-only-up.json](./408835-piggy-only-up.json) |
@@ -8830,6 +8834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plebs | 261766 | [261766-plebs.json](./261766-plebs.json) |
 | Pleiades: A Subversion Saga Game | 150754 | [150754-pleiades-a-subversion-saga-game.json](./150754-pleiades-a-subversion-saga-game.json) |
 | Pleiads | 40009 | [40009-pleiads.json](./40009-pleiads.json) |
+| Pleim | 202500 | [202500-pleim.json](./202500-pleim.json) |
 | Plekos | 255032 | [255032-plekos.json](./255032-plekos.json) |
 | Plentiful | 341567 | [341567-plentiful.json](./341567-plentiful.json) |
 | Plenty of Fish in the Sea | 337492 | [337492-plenty-of-fish-in-the-sea.json](./337492-plenty-of-fish-in-the-sea.json) |
@@ -15794,6 +15799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Put it here | 291498 | [291498-put-it-here.json](./291498-put-it-here.json) |
 | Put One In for Johnny Minn | 366710 | [366710-put-one-in-for-johnny-minn.json](./366710-put-one-in-for-johnny-minn.json) |
 | Put Out the Fire | 366882 | [366882-put-out-the-fire.json](./366882-put-out-the-fire.json) |
+| Put Pud Nudli's Adventure | 202512 | [202512-put-pud-nudlis-adventure.json](./202512-put-pud-nudlis-adventure.json) |
 | Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
 | Put the Sausage in the Bun | 322281 | [322281-put-the-sausage-in-the-bun.json](./322281-put-the-sausage-in-the-bun.json) |
 | Put Up Your Dukes! | 262562 | [262562-put-up-your-dukes.json](./262562-put-up-your-dukes.json) |
