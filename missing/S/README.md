@@ -12469,6 +12469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smaller | 122053 | [122053-smaller.json](./122053-smaller.json) |
 | Smalles | 163021 | [163021-smalles.json](./163021-smalles.json) |
 | Smalls Island Woes | 177341 | [177341-smalls-island-woes.json](./177341-smalls-island-woes.json) |
+| SmallWorlds | 189287 | [189287-smallworlds.json](./189287-smallworlds.json) |
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
 | Smart Baby ABC Games: Toddler Kids Learning Apps | 87032 | [87032-smart-baby-abc-games-toddler-kids-learning-apps.json](./87032-smart-baby-abc-games-toddler-kids-learning-apps.json) |
 | Smart Baby Shapes | 88908 | [88908-smart-baby-shapes.json](./88908-smart-baby-shapes.json) |
@@ -14376,6 +14377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solasta: Crown of the Magister - Primal Calling | 186870 | [186870-solasta-crown-of-the-magister-primal-calling.json](./186870-solasta-crown-of-the-magister-primal-calling.json) |
 | Solasta: Lightbringers Edition | 251208 | [251208-solasta-lightbringers-edition.json](./251208-solasta-lightbringers-edition.json) |
 | Solatorobo: Red the Hunter | 9597 | [9597-solatorobo-red-the-hunter.json](./9597-solatorobo-red-the-hunter.json) |
+| Solbane | 189297 | [189297-solbane.json](./189297-solbane.json) |
 | Solbot Energy Rush | 105401 | [105401-solbot-energy-rush.json](./105401-solbot-energy-rush.json) |
 | Solbreak Skirmish | 413881 | [413881-solbreak-skirmish.json](./413881-solbreak-skirmish.json) |
 | SolChicks | 210557 | [210557-solchicks.json](./210557-solchicks.json) |
@@ -17006,6 +17008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Demon | 145469 | [145469-space-demon.json](./145469-space-demon.json) |
 | Space Demon Combat Tactics III | 186334 | [186334-space-demon-combat-tactics-iii.json](./186334-space-demon-combat-tactics-iii.json) |
 | Space Depot | 358901 | [358901-space-depot.json](./358901-space-depot.json) |
+| Space Depression | 189320 | [189320-space-depression.json](./189320-space-depression.json) |
 | Space Detective: The Case of the Rebel Robot | 276971 | [276971-space-detective-the-case-of-the-rebel-robot.json](./276971-space-detective-the-case-of-the-rebel-robot.json) |
 | Space Dezinsector | 263046 | [263046-space-dezinsector.json](./263046-space-dezinsector.json) |
 | Space Digger | 263743 | [263743-space-digger.json](./263743-space-digger.json) |
@@ -18383,6 +18386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Chasing | 95812 | [95812-speed-chasing.json](./95812-speed-chasing.json) |
 | Speed Climb | 329014 | [329014-speed-climb.json](./329014-speed-climb.json) |
 | Speed Coin | 175626 | [175626-speed-coin.json](./175626-speed-coin.json) |
+| Speed Creators | 189308 | [189308-speed-creators.json](./189308-speed-creators.json) |
 | Speed Crew | 243216 | [243216-speed-crew.json](./243216-speed-crew.json) |
 | Speed Dates | 240701 | [240701-speed-dates.json](./240701-speed-dates.json) |
 | Speed Dates: Summer Edition | 348432 | [348432-speed-dates-summer-edition.json](./348432-speed-dates-summer-edition.json) |
