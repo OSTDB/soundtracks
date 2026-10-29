@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-29T04:18:46.754Z",
-  "total_missing": 277612,
+  "generated_at": "2026-10-29T04:33:36.810Z",
+  "total_missing": 277662,
   "games": [
     {
       "igdb_id": 191680,
@@ -70812,6 +70812,11 @@
       "file": "missing/A/77144-arcade-classics.json"
     },
     {
+      "igdb_id": 219386,
+      "game_name": "Arcade Classics: Ms. Pac-Man",
+      "file": "missing/A/219386-arcade-classics-ms-pac-man.json"
+    },
+    {
       "igdb_id": 130282,
       "game_name": "Arcade Classics: Seawolf II and Gun Fight",
       "file": "missing/A/130282-arcade-classics-seawolf-ii-and-gun-fight.json"
@@ -70945,6 +70950,11 @@
       "igdb_id": 43756,
       "game_name": "Arcade Gears: Image Fight & X Multiply",
       "file": "missing/A/43756-arcade-gears-image-fight-and-x-multiply.json"
+    },
+    {
+      "igdb_id": 219420,
+      "game_name": "Arcade Gold featuring Pac-Man",
+      "file": "missing/A/219420-arcade-gold-featuring-pac-man.json"
     },
     {
       "igdb_id": 358920,
@@ -87000,6 +87010,11 @@
       "igdb_id": 24962,
       "game_name": "Atari Flashback Classics Vol. 2",
       "file": "missing/A/24962-atari-flashback-classics-vol-2.json"
+    },
+    {
+      "igdb_id": 219380,
+      "game_name": "Atari Flashback Portable",
+      "file": "missing/A/219380-atari-flashback-portable.json"
     },
     {
       "igdb_id": 245573,
@@ -104680,6 +104695,11 @@
       "igdb_id": 114717,
       "game_name": "Bandit Point",
       "file": "missing/B/114717-bandit-point.json"
+    },
+    {
+      "igdb_id": 219409,
+      "game_name": "Bandit Realms",
+      "file": "missing/B/219409-bandit-realms.json"
     },
     {
       "igdb_id": 121474,
@@ -127920,6 +127940,11 @@
       "igdb_id": 417373,
       "game_name": "Big Adventure: Trip to Europe 11",
       "file": "missing/B/417373-big-adventure-trip-to-europe-11.json"
+    },
+    {
+      "igdb_id": 219376,
+      "game_name": "Big Adventure: Trip to Europe 2",
+      "file": "missing/B/219376-big-adventure-trip-to-europe-2.json"
     },
     {
       "igdb_id": 219205,
@@ -185392,6 +185417,11 @@
       "file": "missing/C/105701-car-maker-game-fun-simulator.json"
     },
     {
+      "igdb_id": 219384,
+      "game_name": "Car Mats",
+      "file": "missing/C/219384-car-mats.json"
+    },
+    {
       "igdb_id": 119511,
       "game_name": "Car Mayhem",
       "file": "missing/C/119511-car-mayhem.json"
@@ -205272,6 +205302,11 @@
       "file": "missing/C/227821-chess-challenger.json"
     },
     {
+      "igdb_id": 219379,
+      "game_name": "Chess Classic Board Game",
+      "file": "missing/C/219379-chess-classic-board-game.json"
+    },
+    {
       "igdb_id": 193694,
       "game_name": "Chess Club",
       "file": "missing/C/193694-chess-club.json"
@@ -223305,6 +223340,11 @@
       "igdb_id": 231277,
       "game_name": "Clumsy Rush: Ultimate Guys - Definitive Edition",
       "file": "missing/C/231277-clumsy-rush-ultimate-guys-definitive-edition.json"
+    },
+    {
+      "igdb_id": 219382,
+      "game_name": "Clumsy Rush: Ultimate Guys - Deluxe Edition",
+      "file": "missing/C/219382-clumsy-rush-ultimate-guys-deluxe-edition.json"
     },
     {
       "igdb_id": 238064,
@@ -349482,6 +349522,11 @@
       "file": "missing/D/385424-dustdrive-the-lightspeed-project.json"
     },
     {
+      "igdb_id": 219404,
+      "game_name": "Dusted Dusk",
+      "file": "missing/D/219404-dusted-dusk.json"
+    },
+    {
       "igdb_id": 415206,
       "game_name": "Dusteroids",
       "file": "missing/D/415206-dusteroids.json"
@@ -349860,6 +349905,11 @@
       "igdb_id": 24563,
       "game_name": "Dwarf Tower",
       "file": "missing/D/24563-dwarf-tower.json"
+    },
+    {
+      "igdb_id": 219405,
+      "game_name": "Dwarf's Adventure",
+      "file": "missing/D/219405-dwarfs-adventure.json"
     },
     {
       "igdb_id": 217475,
@@ -386762,6 +386812,11 @@
       "file": "missing/E/304705-extermination-1.json"
     },
     {
+      "igdb_id": 219402,
+      "game_name": "Extermination Cars Stadium",
+      "file": "missing/E/219402-extermination-cars-stadium.json"
+    },
+    {
       "igdb_id": 256703,
       "game_name": "Extermination Day",
       "file": "missing/E/256703-extermination-day.json"
@@ -387565,6 +387620,11 @@
       "igdb_id": 252321,
       "game_name": "Extreme Truck Parking Simulator Game",
       "file": "missing/E/252321-extreme-truck-parking-simulator-game.json"
+    },
+    {
+      "igdb_id": 219403,
+      "game_name": "Extreme Truck Stunts",
+      "file": "missing/E/219403-extreme-truck-stunts.json"
     },
     {
       "igdb_id": 129515,
@@ -395310,6 +395370,11 @@
       "igdb_id": 238123,
       "game_name": "Family Chess: Platinum Edition",
       "file": "missing/F/238123-family-chess-platinum-edition.json"
+    },
+    {
+      "igdb_id": 219381,
+      "game_name": "Family Chess: Special Edition",
+      "file": "missing/F/219381-family-chess-special-edition.json"
     },
     {
       "igdb_id": 212340,
@@ -420672,6 +420737,11 @@
       "file": "missing/F/156970-flappy-bat.json"
     },
     {
+      "igdb_id": 219406,
+      "game_name": "Flappy Bat 2",
+      "file": "missing/F/219406-flappy-bat-2.json"
+    },
+    {
       "igdb_id": 347231,
       "game_name": "Flappy Bat 3",
       "file": "missing/F/347231-flappy-bat-3.json"
@@ -420790,6 +420860,11 @@
       "igdb_id": 413158,
       "game_name": "Flappy Cato",
       "file": "missing/F/413158-flappy-cato.json"
+    },
+    {
+      "igdb_id": 219419,
+      "game_name": "Flappy Cheep Cheep",
+      "file": "missing/F/219419-flappy-cheep-cheep.json"
     },
     {
       "igdb_id": 376044,
@@ -482890,6 +482965,11 @@
       "igdb_id": 74673,
       "game_name": "Government Simulator",
       "file": "missing/G/74673-government-simulator.json"
+    },
+    {
+      "igdb_id": 219407,
+      "game_name": "Government Simulator 2",
+      "file": "missing/G/219407-government-simulator-2.json"
     },
     {
       "igdb_id": 244481,
@@ -578572,6 +578652,11 @@
       "file": "missing/I/302475-intimate-abode.json"
     },
     {
+      "igdb_id": 219375,
+      "game_name": "Intimate Codex",
+      "file": "missing/I/219375-intimate-codex.json"
+    },
+    {
       "igdb_id": 189998,
       "game_name": "Intimate Relationship",
       "file": "missing/I/189998-intimate-relationship.json"
@@ -660532,6 +660617,11 @@
       "file": "missing/L/372509-little-witchs-carnival.json"
     },
     {
+      "igdb_id": 219393,
+      "game_name": "Little Witchelsa: Pumpkin Peril",
+      "file": "missing/L/219393-little-witchelsa-pumpkin-peril.json"
+    },
+    {
       "igdb_id": 341174,
       "game_name": "Little Witches vs. Monsters",
       "file": "missing/L/341174-little-witches-vs-monsters.json"
@@ -674275,6 +674365,11 @@
       "igdb_id": 341535,
       "game_name": "Ludaro",
       "file": "missing/L/341535-ludaro.json"
+    },
+    {
+      "igdb_id": 219412,
+      "game_name": "Ludde",
+      "file": "missing/L/219412-ludde.json"
     },
     {
       "igdb_id": 349651,
@@ -712102,6 +712197,11 @@
       "file": "missing/M/403215-mega-man-w.json"
     },
     {
+      "igdb_id": 219423,
+      "game_name": "Mega Man Wily's Conquest 2: Hyper Edition Turbo!",
+      "file": "missing/M/219423-mega-man-wilys-conquest-2-hyper-edition-turbo.json"
+    },
+    {
       "igdb_id": 306589,
       "game_name": "Mega Man World 2 GBC Edition",
       "file": "missing/M/306589-mega-man-world-2-gbc-edition.json"
@@ -712670,6 +712770,11 @@
       "igdb_id": 45183,
       "game_name": "Mega Man: Super Fighting Robot",
       "file": "missing/M/45183-mega-man-super-fighting-robot.json"
+    },
+    {
+      "igdb_id": 219408,
+      "game_name": "Mega Man: The New Lands",
+      "file": "missing/M/219408-mega-man-the-new-lands.json"
     },
     {
       "igdb_id": 269873,
@@ -775982,6 +776087,16 @@
       "file": "missing/N/206782-namco-vintage.json"
     },
     {
+      "igdb_id": 219417,
+      "game_name": "Namco: Featuring Ms. Pac-Man",
+      "file": "missing/N/219417-namco-featuring-ms-pac-man.json"
+    },
+    {
+      "igdb_id": 219416,
+      "game_name": "Namco: Featuring Pac-Man",
+      "file": "missing/N/219416-namco-featuring-pac-man.json"
+    },
+    {
       "igdb_id": 94721,
       "game_name": "namCollection",
       "file": "missing/N/94721-namcollection.json"
@@ -787275,6 +787390,11 @@
       "igdb_id": 116111,
       "game_name": "Nether Gallery",
       "file": "missing/N/116111-nether-gallery.json"
+    },
+    {
+      "igdb_id": 219397,
+      "game_name": "Nether Garden",
+      "file": "missing/N/219397-nether-garden.json"
     },
     {
       "igdb_id": 148843,
@@ -830412,6 +830532,11 @@
       "file": "missing/O/199106-our-ninja-world.json"
     },
     {
+      "igdb_id": 219414,
+      "game_name": "Our Passing Thoughts",
+      "file": "missing/O/219414-our-passing-thoughts.json"
+    },
+    {
       "igdb_id": 163204,
       "game_name": "Our Personal Space",
       "file": "missing/O/163204-our-personal-space.json"
@@ -836072,6 +836197,11 @@
       "file": "missing/P/219438-pac-man-256.json"
     },
     {
+      "igdb_id": 219390,
+      "game_name": "Pac-Man 25th Anniversary",
+      "file": "missing/P/219390-pac-man-25th-anniversary.json"
+    },
+    {
       "igdb_id": 364837,
       "game_name": "Pac-Man 3D: White House Edition",
       "file": "missing/P/364837-pac-man-3d-white-house-edition.json"
@@ -836187,6 +836317,11 @@
       "file": "missing/P/80452-pac-man-collection.json"
     },
     {
+      "igdb_id": 219385,
+      "game_name": "Pac-Man Colour Handheld LCD Game",
+      "file": "missing/P/219385-pac-man-colour-handheld-lcd-game.json"
+    },
+    {
       "igdb_id": 234815,
       "game_name": "Pac-Man Community",
       "file": "missing/P/234815-pac-man-community.json"
@@ -836200,6 +836335,11 @@
       "igdb_id": 38692,
       "game_name": "Pac-Man Dash!",
       "file": "missing/P/38692-pac-man-dash.json"
+    },
+    {
+      "igdb_id": 219388,
+      "game_name": "Pac-Man Desktop Arcade",
+      "file": "missing/P/219388-pac-man-desktop-arcade.json"
     },
     {
       "igdb_id": 262564,
@@ -836227,6 +836367,11 @@
       "file": "missing/P/396714-pac-man-forever.json"
     },
     {
+      "igdb_id": 219387,
+      "game_name": "Pac-Man Game Keyring",
+      "file": "missing/P/219387-pac-man-game-keyring.json"
+    },
+    {
       "igdb_id": 220257,
       "game_name": "Pac-Man Games",
       "file": "missing/P/220257-pac-man-games.json"
@@ -836235,6 +836380,11 @@
       "igdb_id": 172697,
       "game_name": "Pac-Man Geo",
       "file": "missing/P/172697-pac-man-geo.json"
+    },
+    {
+      "igdb_id": 219374,
+      "game_name": "Pac-Man in a Tin",
+      "file": "missing/P/219374-pac-man-in-a-tin.json"
     },
     {
       "igdb_id": 28186,
@@ -836325,6 +836475,11 @@
       "igdb_id": 64682,
       "game_name": "Pac-Man Social",
       "file": "missing/P/64682-pac-man-social.json"
+    },
+    {
+      "igdb_id": 219389,
+      "game_name": "Pac-Man Tilt",
+      "file": "missing/P/219389-pac-man-tilt.json"
     },
     {
       "igdb_id": 65001,
@@ -836455,6 +836610,11 @@
       "igdb_id": 220255,
       "game_name": "Pac-Man's Arcade Party",
       "file": "missing/P/220255-pac-mans-arcade-party.json"
+    },
+    {
+      "igdb_id": 219391,
+      "game_name": "Pac-Man's Pixel Bash",
+      "file": "missing/P/219391-pac-mans-pixel-bash.json"
     },
     {
       "igdb_id": 131311,
@@ -846027,6 +846187,11 @@
       "file": "missing/P/258335-parkour-labs.json"
     },
     {
+      "igdb_id": 219401,
+      "game_name": "Parkour Legends",
+      "file": "missing/P/219401-parkour-legends.json"
+    },
+    {
       "igdb_id": 145024,
       "game_name": "Parkour Master",
       "file": "missing/P/145024-parkour-master.json"
@@ -848300,6 +848465,11 @@
       "igdb_id": 220461,
       "game_name": "Path to Purge",
       "file": "missing/P/220461-path-to-purge.json"
+    },
+    {
+      "igdb_id": 219400,
+      "game_name": "Path to Ruin",
+      "file": "missing/P/219400-path-to-ruin.json"
     },
     {
       "igdb_id": 350497,
@@ -887347,6 +887517,11 @@
       "file": "missing/P/59292-police-infinity.json"
     },
     {
+      "igdb_id": 219395,
+      "game_name": "Police Interceptors",
+      "file": "missing/P/219395-police-interceptors.json"
+    },
+    {
       "igdb_id": 147238,
       "game_name": "Police Monster Drift",
       "file": "missing/P/147238-police-monster-drift.json"
@@ -888715,6 +888890,11 @@
       "igdb_id": 130777,
       "game_name": "Polyko's Super Jelly Bean Quest in the Sketchbook of Illusion",
       "file": "missing/P/130777-polykos-super-jelly-bean-quest-in-the-sketchbook-of-illusion.json"
+    },
+    {
+      "igdb_id": 219396,
+      "game_name": "Polylithic",
+      "file": "missing/P/219396-polylithic.json"
     },
     {
       "igdb_id": 388510,
@@ -938122,6 +938302,11 @@
       "file": "missing/R/182922-reasonable-claustrophobia.json"
     },
     {
+      "igdb_id": 219383,
+      "game_name": "Reasoning of Courage",
+      "file": "missing/R/219383-reasoning-of-courage.json"
+    },
+    {
       "igdb_id": 251680,
       "game_name": "Reasoning of Courage Nori 3 Balanced Diet",
       "file": "missing/R/251680-reasoning-of-courage-nori-3-balanced-diet.json"
@@ -949660,6 +949845,11 @@
       "igdb_id": 60317,
       "game_name": "Retro Arcade Toppers",
       "file": "missing/R/60317-retro-arcade-toppers.json"
+    },
+    {
+      "igdb_id": 219421,
+      "game_name": "Retro Arcade: Pac-Man",
+      "file": "missing/R/219421-retro-arcade-pac-man.json"
     },
     {
       "igdb_id": 220106,
@@ -1046262,6 +1046452,11 @@
       "file": "missing/S/422479-sneaky-purr.json"
     },
     {
+      "igdb_id": 219415,
+      "game_name": "Sneaky Rat",
+      "file": "missing/S/219415-sneaky-rat.json"
+    },
+    {
       "igdb_id": 253609,
       "game_name": "Sneaky Seekers",
       "file": "missing/S/253609-sneaky-seekers.json"
@@ -1097632,6 +1097827,11 @@
       "file": "missing/S/202733-stickman-synthwave-escape.json"
     },
     {
+      "igdb_id": 219377,
+      "game_name": "Stickman Trenches",
+      "file": "missing/S/219377-stickman-trenches.json"
+    },
+    {
       "igdb_id": 349465,
       "game_name": "Stickman turbo destruiction",
       "file": "missing/S/349465-stickman-turbo-destruiction.json"
@@ -1122270,6 +1122470,11 @@
       "igdb_id": 345360,
       "game_name": "Super Pac-Man",
       "file": "missing/S/345360-super-pac-man.json"
+    },
+    {
+      "igdb_id": 219418,
+      "game_name": "Super Pac-Man Collection",
+      "file": "missing/S/219418-super-pac-man-collection.json"
     },
     {
       "igdb_id": 46663,
@@ -1163562,6 +1163767,11 @@
       "file": "missing/T/146193-the-adventures-of-reynaldo.json"
     },
     {
+      "igdb_id": 219394,
+      "game_name": "The Adventures of Rob-1E",
+      "file": "missing/T/219394-the-adventures-of-rob-1e.json"
+    },
+    {
       "igdb_id": 2301,
       "game_name": "The Adventures of Robin Hood",
       "file": "missing/T/2301-the-adventures-of-robin-hood.json"
@@ -1186520,6 +1186730,11 @@
       "igdb_id": 309413,
       "game_name": "The Human Snake",
       "file": "missing/T/309413-the-human-snake.json"
+    },
+    {
+      "igdb_id": 219392,
+      "game_name": "The Human Story",
+      "file": "missing/T/219392-the-human-story.json"
     },
     {
       "igdb_id": 339196,
@@ -1227300,6 +1227515,11 @@
       "igdb_id": 216502,
       "game_name": "Thistledown: Marrowroot",
       "file": "missing/T/216502-thistledown-marrowroot.json"
+    },
+    {
+      "igdb_id": 219411,
+      "game_name": "Thistlemine",
+      "file": "missing/T/219411-thistlemine.json"
     },
     {
       "igdb_id": 204331,
@@ -1294747,6 +1294967,11 @@
       "file": "missing/U/107049-unforgettable-paradise.json"
     },
     {
+      "igdb_id": 219398,
+      "game_name": "Unforgettable Voyage",
+      "file": "missing/U/219398-unforgettable-voyage.json"
+    },
+    {
       "igdb_id": 147231,
       "game_name": "Unforgettable You",
       "file": "missing/U/147231-unforgettable-you.json"
@@ -1305332,6 +1305557,11 @@
       "file": "missing/V/148992-vanillabeast-ace-in-the-hole.json"
     },
     {
+      "igdb_id": 219413,
+      "game_name": "VanillaBeast: Retro Knock-Out!",
+      "file": "missing/V/219413-vanillabeast-retro-knock-out.json"
+    },
+    {
       "igdb_id": 356695,
       "game_name": "VanillaSugar",
       "file": "missing/V/356695-vanillasugar.json"
@@ -1308180,6 +1308410,11 @@
       "igdb_id": 410369,
       "game_name": "Verho: Curse of Faces",
       "file": "missing/V/410369-verho-curse-of-faces.json"
+    },
+    {
+      "igdb_id": 219399,
+      "game_name": "Veridian Expanse",
+      "file": "missing/V/219399-veridian-expanse.json"
     },
     {
       "igdb_id": 416672,
@@ -1330982,6 +1331217,11 @@
       "file": "missing/W/236877-water-chaos.json"
     },
     {
+      "igdb_id": 219410,
+      "game_name": "Water City",
+      "file": "missing/W/219410-water-city.json"
+    },
+    {
       "igdb_id": 268472,
       "game_name": "Water City",
       "file": "missing/W/268472-water-city.json"
@@ -1347670,6 +1347910,11 @@
       "igdb_id": 246215,
       "game_name": "Wireless Hunting Video Game System",
       "file": "missing/W/246215-wireless-hunting-video-game-system.json"
+    },
+    {
+      "igdb_id": 219422,
+      "game_name": "Wireless Ms. Pac-Man",
+      "file": "missing/W/219422-wireless-ms-pac-man.json"
     },
     {
       "igdb_id": 357162,
@@ -1368560,6 +1368805,11 @@
       "igdb_id": 79348,
       "game_name": "Yarudora Series Vol. 4: Yukiwari no Hana",
       "file": "missing/Y/79348-yarudora-series-vol-4-yukiwari-no-hana.json"
+    },
+    {
+      "igdb_id": 219373,
+      "game_name": "YAS: Yet Another Shooter",
+      "file": "missing/Y/219373-yas-yet-another-shooter.json"
     },
     {
       "igdb_id": 107553,
