@@ -1472,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Sand | 117364 | [117364-under-the-sand.json](./117364-under-the-sand.json) |
 | Under the Sea: A Hidden World of Wonders | 330222 | [330222-under-the-sea-a-hidden-world-of-wonders.json](./330222-under-the-sea-a-hidden-world-of-wonders.json) |
 | Under the Sea: Swim | 233740 | [233740-under-the-sea-swim.json](./233740-under-the-sea-swim.json) |
+| Under the Shack | 223237 | [223237-under-the-shack.json](./223237-under-the-shack.json) |
 | Under the Skin | 12495 | [12495-under-the-skin.json](./12495-under-the-skin.json) |
 | Under the Sky World | 223327 | [223327-under-the-sky-world.json](./223327-under-the-sky-world.json) |
 | Under the Sky World: Another | 234220 | [234220-under-the-sky-world-another.json](./234220-under-the-sky-world-another.json) |
