@@ -2003,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Giant Girl From Monsters 4 | 291890 | [291890-save-giant-girl-from-monsters-4.json](./291890-save-giant-girl-from-monsters-4.json) |
 | Save Granny | 100343 | [100343-save-granny.json](./100343-save-granny.json) |
 | Save Halloween: City of Witches | 33915 | [33915-save-halloween-city-of-witches.json](./33915-save-halloween-city-of-witches.json) |
+| Save Her From the Zombies! | 213161 | [213161-save-her-from-the-zombies.json](./213161-save-her-from-the-zombies.json) |
 | Save her, from dreams | 99129 | [99129-save-her-from-dreams.json](./99129-save-her-from-dreams.json) |
 | Save Home | 31175 | [31175-save-home.json](./31175-save-home.json) |
 | Save HomeWorld | 110370 | [110370-save-homeworld.json](./110370-save-homeworld.json) |
@@ -5142,6 +5143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street Fighter | 339673 | [339673-sesame-street-fighter.json](./339673-sesame-street-fighter.json) |
 | Sesame Street Letters | 206014 | [206014-sesame-street-letters.json](./206014-sesame-street-letters.json) |
 | Sesame Street Mecha Builders | 342765 | [342765-sesame-street-mecha-builders.json](./342765-sesame-street-mecha-builders.json) |
+| Sesame Street Pals Around Town | 213177 | [213177-sesame-street-pals-around-town.json](./213177-sesame-street-pals-around-town.json) |
 | Sesame Street Sports | 49916 | [49916-sesame-street-sports.json](./49916-sesame-street-sports.json) |
 | Sesame Street: 1-2-3 | 78035 | [78035-sesame-street-1-2-3.json](./78035-sesame-street-1-2-3.json) |
 | Sesame Street: Cookie Monster’s Cookie Factory | 421421 | [421421-sesame-street-cookie-monster-s-cookie-factory.json](./421421-sesame-street-cookie-monster-s-cookie-factory.json) |
@@ -6153,6 +6155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowveil: Legend of The Five Rings | 321163 | [321163-shadowveil-legend-of-the-five-rings.json](./321163-shadowveil-legend-of-the-five-rings.json) |
 | Shadowverse | 25811 | [25811-shadowverse.json](./25811-shadowverse.json) |
 | Shadowverse: Champion's Battle | 134301 | [134301-shadowverse-champions-battle.json](./134301-shadowverse-champions-battle.json) |
+| Shadowverse: Champion's Battle - Legendary Edition | 213143 | [213143-shadowverse-champions-battle-legendary-edition.json](./213143-shadowverse-champions-battle-legendary-edition.json) |
 | Shadowverse: Wonderland Dreams | 37072 | [37072-shadowverse-wonderland-dreams.json](./37072-shadowverse-wonderland-dreams.json) |
 | Shadowverse: Worlds Beyond | 339985 | [339985-shadowverse-worlds-beyond.json](./339985-shadowverse-worlds-beyond.json) |
 | Shadowy Contracts | 116741 | [116741-shadowy-contracts.json](./116741-shadowy-contracts.json) |
@@ -28129,6 +28132,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Arrival | 213756 | [213756-super-metroid-arrival.json](./213756-super-metroid-arrival.json) |
 | Super Metroid: Ascent | 165374 | [165374-super-metroid-ascent.json](./165374-super-metroid-ascent.json) |
 | Super Metroid: Battle | 318017 | [318017-super-metroid-battle.json](./318017-super-metroid-battle.json) |
+| Super Metroid: Biohazard | 213136 | [213136-super-metroid-biohazard.json](./213136-super-metroid-biohazard.json) |
+| Super Metroid: Cryogenesis | 213138 | [213138-super-metroid-cryogenesis.json](./213138-super-metroid-cryogenesis.json) |
 | Super Metroid: Darkholme Hospital | 213039 | [213039-super-metroid-darkholme-hospital.json](./213039-super-metroid-darkholme-hospital.json) |
 | Super Metroid: Digital Cube | 255369 | [255369-super-metroid-digital-cube.json](./255369-super-metroid-digital-cube.json) |
 | Super Metroid: Eris | 42209 | [42209-super-metroid-eris.json](./42209-super-metroid-eris.json) |
@@ -28142,9 +28147,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Hydellius | 213759 | [213759-super-metroid-hydellius.json](./213759-super-metroid-hydellius.json) |
 | Super Metroid: Ice Metal Uninstall | 198335 | [198335-super-metroid-ice-metal-uninstall.json](./198335-super-metroid-ice-metal-uninstall.json) |
 | Super Metroid: Less Linear Edition | 219087 | [219087-super-metroid-less-linear-edition.json](./219087-super-metroid-less-linear-edition.json) |
+| Super Metroid: Lost World | 213139 | [213139-super-metroid-lost-world.json](./213139-super-metroid-lost-world.json) |
 | Super Metroid: Map Rando | 237534 | [237534-super-metroid-map-rando.json](./237534-super-metroid-map-rando.json) |
 | Super Metroid: Opposition | 255372 | [255372-super-metroid-opposition.json](./255372-super-metroid-opposition.json) |
 | Super Metroid: Phazon | 42524 | [42524-super-metroid-phazon.json](./42524-super-metroid-phazon.json) |
+| Super Metroid: Polarity | 213144 | [213144-super-metroid-polarity.json](./213144-super-metroid-polarity.json) |
 | Super Metroid: Project Base | 198334 | [198334-super-metroid-project-base.json](./198334-super-metroid-project-base.json) |
 | Super Metroid: Recovery | 398162 | [398162-super-metroid-recovery.json](./398162-super-metroid-recovery.json) |
 | Super Metroid: Redesign | 42521 | [42521-super-metroid-redesign.json](./42521-super-metroid-redesign.json) |
