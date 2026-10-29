@@ -3734,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marisa's Marvelous Magic Shop | 126940 | [126940-marisas-marvelous-magic-shop.json](./126940-marisas-marvelous-magic-shop.json) |
 | MarisaLand Legacy | 111204 | [111204-marisaland-legacy.json](./111204-marisaland-legacy.json) |
 | Marissa Is Now Idle | 215222 | [215222-marissa-is-now-idle.json](./215222-marissa-is-now-idle.json) |
+| Maristice | 222627 | [222627-maristice.json](./222627-maristice.json) |
 | Maritime Calling | 155978 | [155978-maritime-calling.json](./155978-maritime-calling.json) |
 | Maritime Hegemony | 220748 | [220748-maritime-hegemony.json](./220748-maritime-hegemony.json) |
 | Maritime Mecha Mystery | 291558 | [291558-maritime-mecha-mystery.json](./291558-maritime-mecha-mystery.json) |
@@ -5399,6 +5400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazaica | 304598 | [304598-mazaica.json](./304598-mazaica.json) |
 | Maze | 218529 | [218529-maze.json](./218529-maze.json) |
 | Maze | 220340 | [220340-maze.json](./220340-maze.json) |
+| Maze | 222605 | [222605-maze.json](./222605-maze.json) |
 | Maze | 351700 | [351700-maze.json](./351700-maze.json) |
 | Maze | 360565 | [360565-maze.json](./360565-maze.json) |
 | Maze | 379910 | [379910-maze.json](./379910-maze.json) |
@@ -8374,6 +8376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Messa Anomaly | 420762 | [420762-messa-anomaly.json](./420762-messa-anomaly.json) |
 | Message From Aliens | 415077 | [415077-message-from-aliens.json](./415077-message-from-aliens.json) |
 | Message from Andromeda | 13014 | [13014-message-from-andromeda.json](./13014-message-from-andromeda.json) |
+| Message Navi Vol. 2 | 222670 | [222670-message-navi-vol-2.json](./222670-message-navi-vol-2.json) |
 | Message Quest | 13665 | [13665-message-quest.json](./13665-message-quest.json) |
 | Messages From The Universe Graveyard | 304986 | [304986-messages-from-the-universe-graveyard.json](./304986-messages-from-the-universe-graveyard.json) |
 | Messenger | 370380 | [370380-messenger.json](./370380-messenger.json) |
@@ -10748,6 +10751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Buzzy Bees | 221926 | [221926-minecraft-buzzy-bees.json](./221926-minecraft-buzzy-bees.json) |
 | Minecraft: Buzzy Bees | 353183 | [353183-minecraft-buzzy-bees.json](./353183-minecraft-buzzy-bees.json) |
 | Minecraft: Cartoon Mobs HD Skin Pack | 324891 | [324891-minecraft-cartoon-mobs-hd-skin-pack.json](./324891-minecraft-cartoon-mobs-hd-skin-pack.json) |
+| Minecraft: Caves & Cliffs - Part II | 222606 | [222606-minecraft-caves-and-cliffs-part-ii.json](./222606-minecraft-caves-and-cliffs-part-ii.json) |
 | Minecraft: Caves & Cliffs - Part II | 223159 | [223159-minecraft-caves-and-cliffs-part-ii.json](./223159-minecraft-caves-and-cliffs-part-ii.json) |
 | Minecraft: Chaos Cubed | 406874 | [406874-minecraft-chaos-cubed.json](./406874-minecraft-chaos-cubed.json) |
 | Minecraft: China Edition | 129496 | [129496-minecraft-china-edition.json](./129496-minecraft-china-edition.json) |
@@ -10865,6 +10869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: The Nightmare Before Christmas Mash-up | 235332 | [235332-minecraft-the-nightmare-before-christmas-mash-up.json](./235332-minecraft-the-nightmare-before-christmas-mash-up.json) |
 | Minecraft: The Theme Park | 316747 | [316747-minecraft-the-theme-park.json](./316747-minecraft-the-theme-park.json) |
 | Minecraft: The Traveling Trader | 322955 | [322955-minecraft-the-traveling-trader.json](./322955-minecraft-the-traveling-trader.json) |
+| Minecraft: The Wild Update | 222612 | [222612-minecraft-the-wild-update.json](./222612-minecraft-the-wild-update.json) |
 | Minecraft: The Wild Update | 223161 | [223161-minecraft-the-wild-update.json](./223161-minecraft-the-wild-update.json) |
 | Minecraft: The World Warrior | 276090 | [276090-minecraft-the-world-warrior.json](./276090-minecraft-the-world-warrior.json) |
 | Minecraft: Time Capsule | 343905 | [343905-minecraft-time-capsule.json](./343905-minecraft-time-capsule.json) |
@@ -14527,6 +14532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Blade | 26716 | [26716-moonlight-blade.json](./26716-moonlight-blade.json) |
 | Moonlight Cow: Guardian of the Night | 386229 | [386229-moonlight-cow-guardian-of-the-night.json](./386229-moonlight-cow-guardian-of-the-night.json) |
 | Moonlight Cradle | 404334 | [404334-moonlight-cradle.json](./404334-moonlight-cradle.json) |
+| Moonlight Destiny | 222607 | [222607-moonlight-destiny.json](./222607-moonlight-destiny.json) |
 | Moonlight Express: Fortnight | 193726 | [193726-moonlight-express-fortnight.json](./193726-moonlight-express-fortnight.json) |
 | Moonlight Frog Inn | 320346 | [320346-moonlight-frog-inn.json](./320346-moonlight-frog-inn.json) |
 | Moonlight In Garland | 152459 | [152459-moonlight-in-garland.json](./152459-moonlight-in-garland.json) |
@@ -17172,6 +17178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musketeer | 365793 | [365793-musketeer.json](./365793-musketeer.json) |
 | Musketeer Growth | 208967 | [208967-musketeer-growth.json](./208967-musketeer-growth.json) |
 | Musketeer of the hell | 164281 | [164281-musketeer-of-the-hell.json](./164281-musketeer-of-the-hell.json) |
+| Musketeer: Le Sang des Chevaliers | 222632 | [222632-musketeer-le-sang-des-chevaliers.json](./222632-musketeer-le-sang-des-chevaliers.json) |
 | Musle vs Zombies | 179371 | [179371-musle-vs-zombies.json](./179371-musle-vs-zombies.json) |
 | Muso | 310985 | [310985-muso.json](./310985-muso.json) |
 | Musou Glory | 304240 | [304240-musou-glory.json](./304240-musou-glory.json) |
@@ -17647,6 +17654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dolphin Show | 86773 | [86773-my-dolphin-show.json](./86773-my-dolphin-show.json) |
 | My Donut Days | 87717 | [87717-my-donut-days.json](./87717-my-donut-days.json) |
 | My Downtown | 153981 | [153981-my-downtown.json](./153981-my-downtown.json) |
+| My Dragon Girlfriend | 222650 | [222650-my-dragon-girlfriend.json](./222650-my-dragon-girlfriend.json) |
 | My Dragon Party | 197258 | [197258-my-dragon-party.json](./197258-my-dragon-party.json) |
 | My Dragon: Virtual Pet Game | 331361 | [331361-my-dragon-virtual-pet-game.json](./331361-my-dragon-virtual-pet-game.json) |
 | My Drama | 299505 | [299505-my-drama.json](./299505-my-drama.json) |
@@ -18337,6 +18345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My SameGame | 64433 | [64433-my-samegame.json](./64433-my-samegame.json) |
 | My Secret Bistro: Cooking Game | 246661 | [246661-my-secret-bistro-cooking-game.json](./246661-my-secret-bistro-cooking-game.json) |
 | My Secret Diary | 47799 | [47799-my-secret-diary.json](./47799-my-secret-diary.json) |
+| My Secret Idol Girlfriend | 222649 | [222649-my-secret-idol-girlfriend.json](./222649-my-secret-idol-girlfriend.json) |
 | My Secret Ocean Boyfriend | 298979 | [298979-my-secret-ocean-boyfriend.json](./298979-my-secret-ocean-boyfriend.json) |
 | My Secret Pets! | 33396 | [33396-my-secret-pets.json](./33396-my-secret-pets.json) |
 | My Secret Spy Lovers | 228433 | [228433-my-secret-spy-lovers.json](./228433-my-secret-spy-lovers.json) |
