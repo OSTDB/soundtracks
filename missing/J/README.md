@@ -1095,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Bike Simulator | 55211 | [55211-jet-bike-simulator.json](./55211-jet-bike-simulator.json) |
 | Jet Blaster | 239905 | [239905-jet-blaster.json](./239905-jet-blaster.json) |
 | Jet Boat | 13731 | [13731-jet-boat.json](./13731-jet-boat.json) |
+| Jet Boat 2 | 201945 | [201945-jet-boat-2.json](./201945-jet-boat-2.json) |
 | Jet Buster | 68698 | [68698-jet-buster.json](./68698-jet-buster.json) |
 | Jet Coaster Dream 2 | 69383 | [69383-jet-coaster-dream-2.json](./69383-jet-coaster-dream-2.json) |
 | Jet Combat: Cats vs. Dogs Military Simulator | 322423 | [322423-jet-combat-cats-vs-dogs-military-simulator.json](./322423-jet-combat-cats-vs-dogs-military-simulator.json) |
