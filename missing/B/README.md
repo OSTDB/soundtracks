@@ -4102,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BBQ Quest | 360491 | [360491-bbq-quest.json](./360491-bbq-quest.json) |
 | BBQ Simulator: The Squad | 185674 | [185674-bbq-simulator-the-squad.json](./185674-bbq-simulator-the-squad.json) |
 | BBS (Bulletin Board System) Magica | 399740 | [399740-bbs-bulletin-board-system-magica.json](./399740-bbs-bulletin-board-system-magica.json) |
+| BBTAN | 191394 | [191394-bbtan.json](./191394-bbtan.json) |
 | BBTan2 | 250192 | [250192-bbtan2.json](./250192-bbtan2.json) |
 | Bburago Rally | 362414 | [362414-bburago-rally.json](./362414-bburago-rally.json) |
 | Bby don't hurt me | 383011 | [383011-bby-dont-hurt-me.json](./383011-bby-dont-hurt-me.json) |
@@ -11115,6 +11116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BomberGast | 179383 | [179383-bombergast.json](./179383-bombergast.json) |
 | Bombergeddon | 129745 | [129745-bombergeddon.json](./129745-bombergeddon.json) |
 | Bombergirl | 27285 | [27285-bombergirl.json](./27285-bombergirl.json) |
+| BomberGuys | 191449 | [191449-bomberguys.json](./191449-bomberguys.json) |
 | BomberHit | 303066 | [303066-bomberhit.json](./303066-bomberhit.json) |
 | Bomberic 2 | 91561 | [91561-bomberic-2.json](./91561-bomberic-2.json) |
 | Bomberland | 179150 | [179150-bomberland.json](./179150-bomberland.json) |
@@ -13549,6 +13551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breezy Paws | 274735 | [274735-breezy-paws.json](./274735-breezy-paws.json) |
 | Brelok: Nezumi-tachi no Dasshutsu | 330509 | [330509-brelok-nezumi-tachi-no-dasshutsu.json](./330509-brelok-nezumi-tachi-no-dasshutsu.json) |
 | Bremen Hot Strings | 236743 | [236743-bremen-hot-strings.json](./236743-bremen-hot-strings.json) |
+| Brendan Keogh's Putting Challenge | 191444 | [191444-brendan-keoghs-putting-challenge.json](./191444-brendan-keoghs-putting-challenge.json) |
 | Brendan Keogh's Putting Land | 329908 | [329908-brendan-keoghs-putting-land.json](./329908-brendan-keoghs-putting-land.json) |
 | Brendon's Water Polo | 306401 | [306401-brendons-water-polo.json](./306401-brendons-water-polo.json) |
 | Bret Airborne | 28587 | [28587-bret-airborne.json](./28587-bret-airborne.json) |
@@ -13903,6 +13906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring Death | 211217 | [211217-bring-death.json](./211217-bring-death.json) |
 | Bring Honey Home | 150635 | [150635-bring-honey-home.json](./150635-bring-honey-home.json) |
 | Bring It On! | 204901 | [204901-bring-it-on.json](./204901-bring-it-on.json) |
+| Bring Me a Head! | 191412 | [191412-bring-me-a-head.json](./191412-bring-me-a-head.json) |
 | Bring me a man, Santa | 159727 | [159727-bring-me-a-man-santa.json](./159727-bring-me-a-man-santa.json) |
 | Bring Me Down | 241350 | [241350-bring-me-down.json](./241350-bring-me-down.json) |
 | Bring Me Hope | 164221 | [164221-bring-me-hope.json](./164221-bring-me-hope.json) |
@@ -14134,6 +14138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brood | 116514 | [116514-brood.json](./116514-brood.json) |
 | Brood of Hatred | 261444 | [261444-brood-of-hatred.json](./261444-brood-of-hatred.json) |
 | BroodStar | 140204 | [140204-broodstar.json](./140204-broodstar.json) |
+| Brooke vs. World Doom | 190837 | [190837-brooke-vs-world-doom.json](./190837-brooke-vs-world-doom.json) |
 | Brookelle's FreeCell | 100274 | [100274-brookelles-freecell.json](./100274-brookelles-freecell.json) |
 | Brooklyn Sentai: Episode One | 132729 | [132729-brooklyn-sentai-episode-one.json](./132729-brooklyn-sentai-episode-one.json) |
 | Brooklyn Trash King | 172508 | [172508-brooklyn-trash-king.json](./172508-brooklyn-trash-king.json) |
@@ -14841,6 +14846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Explorers | 200478 | [200478-bug-explorers.json](./200478-bug-explorers.json) |
 | Bug Eyes | 15690 | [15690-bug-eyes.json](./15690-bug-eyes.json) |
 | Bug Fables: Aphid Festival | 145560 | [145560-bug-fables-aphid-festival.json](./145560-bug-fables-aphid-festival.json) |
+| Bug Fables: April Fools! | 191389 | [191389-bug-fables-april-fools.json](./191389-bug-fables-april-fools.json) |
 | Bug Fables: Vi Simulator | 327674 | [327674-bug-fables-vi-simulator.json](./327674-bug-fables-vi-simulator.json) |
 | Bug Heroes | 92316 | [92316-bug-heroes.json](./92316-bug-heroes.json) |
 | Bug Heroes 2 | 61230 | [61230-bug-heroes-2.json](./61230-bug-heroes-2.json) |
