@@ -2862,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Keeper | 342634 | [342634-heart-keeper.json](./342634-heart-keeper.json) |
 | Heart Knots | 138022 | [138022-heart-knots.json](./138022-heart-knots.json) |
 | Heart Lake | 204147 | [204147-heart-lake.json](./204147-heart-lake.json) |
+| Heart Love Power Temple | 194754 | [194754-heart-love-power-temple.json](./194754-heart-love-power-temple.json) |
 | Heart Maze | 40994 | [40994-heart-maze.json](./40994-heart-maze.json) |
 | Heart no Kuni no Alice: Wonderful Twin World | 218642 | [218642-heart-no-kuni-no-alice-wonderful-twin-world.json](./218642-heart-no-kuni-no-alice-wonderful-twin-world.json) |
 | Heart of a Knight | 322078 | [322078-heart-of-a-knight.json](./322078-heart-of-a-knight.json) |
