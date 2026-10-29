@@ -3146,6 +3146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Quest | 209867 | [209867-heaven-quest.json](./209867-heaven-quest.json) |
 | Heaven Seeker: The Savior of This Cruel World | 304554 | [304554-heaven-seeker-the-savior-of-this-cruel-world.json](./304554-heaven-seeker-the-savior-of-this-cruel-world.json) |
 | Heaven Slash | 139372 | [139372-heaven-slash.json](./139372-heaven-slash.json) |
+| Heaven Snakes | 202505 | [202505-heaven-snakes.json](./202505-heaven-snakes.json) |
 | Heaven Stroll | 262557 | [262557-heaven-stroll.json](./262557-heaven-stroll.json) |
 | Heaven Will Be Mine | 69482 | [69482-heaven-will-be-mine.json](./69482-heaven-will-be-mine.json) |
 | Heaven's Bazar: Online | 154997 | [154997-heavens-bazar-online.json](./154997-heavens-bazar-online.json) |
