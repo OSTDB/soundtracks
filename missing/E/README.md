@@ -1760,6 +1760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldegarde | 304346 | [304346-eldegarde.json](./304346-eldegarde.json) |
 | Elden Bling | 238532 | [238532-elden-bling.json](./238532-elden-bling.json) |
 | Elden Gunfire 2 | 293187 | [293187-elden-gunfire-2.json](./293187-elden-gunfire-2.json) |
+| Elden Ring GB | 206519 | [206519-elden-ring-gb.json](./206519-elden-ring-gb.json) |
 | Elden Ring Nightreign - The Forsaken Hollows | 377238 | [377238-elden-ring-nightreign-the-forsaken-hollows.json](./377238-elden-ring-nightreign-the-forsaken-hollows.json) |
 | Elden Ring Nightreign: Collector's Edition | 331167 | [331167-elden-ring-nightreign-collectors-edition.json](./331167-elden-ring-nightreign-collectors-edition.json) |
 | Elden Ring Nightreign: Deluxe Edition | 331166 | [331166-elden-ring-nightreign-deluxe-edition.json](./331166-elden-ring-nightreign-deluxe-edition.json) |
@@ -4290,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erl | 362859 | [362859-erl.json](./362859-erl.json) |
 | Erlking | 292383 | [292383-erlking.json](./292383-erlking.json) |
 | ErMa: Early Mammal | 279787 | [279787-erma-early-mammal.json](./279787-erma-early-mammal.json) |
+| Ermii Kart DS | 206512 | [206512-ermii-kart-ds.json](./206512-ermii-kart-ds.json) |
 | Ermo | 74912 | [74912-ermo.json](./74912-ermo.json) |
 | ERN | 320875 | [320875-ern.json](./320875-ern.json) |
 | Ernest Colt: Western Shooter | 25052 | [25052-ernest-colt-western-shooter.json](./25052-ernest-colt-western-shooter.json) |
