@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandaclip: The Black Thief | 296763 | [296763-pandaclip-the-black-thief.json](./296763-pandaclip-the-black-thief.json) |
 | Pandaman | 201461 | [201461-pandaman.json](./201461-pandaman.json) |
 | Pandamino | 294548 | [294548-pandamino.json](./294548-pandamino.json) |
+| Pandamonium | 223265 | [223265-pandamonium.json](./223265-pandamonium.json) |
 | Pandamonium | 345520 | [345520-pandamonium.json](./345520-pandamonium.json) |
 | Pandamonium Puzzle | 381571 | [381571-pandamonium-puzzle.json](./381571-pandamonium-puzzle.json) |
 | PandaMonium: Corporate Carnage | 186131 | [186131-pandamonium-corporate-carnage.json](./186131-pandamonium-corporate-carnage.json) |
@@ -6439,6 +6440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pip | 211075 | [211075-pip.json](./211075-pip.json) |
 | Pip 3 | 215334 | [215334-pip-3.json](./215334-pip-3.json) |
 | Pip 5 | 221132 | [221132-pip-5.json](./221132-pip-5.json) |
+| Pip 6 | 223269 | [223269-pip-6.json](./223269-pip-6.json) |
 | Pip D | 235895 | [235895-pip-d.json](./235895-pip-d.json) |
 | Pip L | 226685 | [226685-pip-l.json](./226685-pip-l.json) |
 | Pip My Dice | 314288 | [314288-pip-my-dice.json](./314288-pip-my-dice.json) |
