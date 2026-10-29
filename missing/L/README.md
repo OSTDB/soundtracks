@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Skirmish | 205059 | [205059-laser-skirmish.json](./205059-laser-skirmish.json) |
 | Laser Snaker | 85743 | [85743-laser-snaker.json](./85743-laser-snaker.json) |
 | Laser Sounds | 309384 | [309384-laser-sounds.json](./309384-laser-sounds.json) |
+| Laser Space | 219917 | [219917-laser-space.json](./219917-laser-space.json) |
 | Laser Spider Playground | 354212 | [354212-laser-spider-playground.json](./354212-laser-spider-playground.json) |
 | Laser Squad | 12170 | [12170-laser-squad.json](./12170-laser-squad.json) |
 | Laser Stallion Disco Junkie: One Hit | 115680 | [115680-laser-stallion-disco-junkie-one-hit.json](./115680-laser-stallion-disco-junkie-one-hit.json) |
@@ -3518,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LetterGrid | 417516 | [417516-lettergrid.json](./417516-lettergrid.json) |
 | Letterlike | 335822 | [335822-letterlike.json](./335822-letterlike.json) |
 | LetterMeister | 173802 | [173802-lettermeister.json](./173802-lettermeister.json) |
+| Lettermon | 219916 | [219916-lettermon.json](./219916-lettermon.json) |
 | Letterorites | 58460 | [58460-letterorites.json](./58460-letterorites.json) |
 | Letterpad | 60076 | [60076-letterpad.json](./60076-letterpad.json) |
 | Letterpillar | 230434 | [230434-letterpillar.json](./230434-letterpillar.json) |
@@ -6576,6 +6578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loose Dog | 415506 | [415506-loose-dog.json](./415506-loose-dog.json) |
 | Loose Life | 216711 | [216711-loose-life.json](./216711-loose-life.json) |
 | Loose Lips(Side:foggy) | 151709 | [151709-loose-lips-side-foggy.json](./151709-loose-lips-side-foggy.json) |
+| Loose Nozzles | 219915 | [219915-loose-nozzles.json](./219915-loose-nozzles.json) |
 | Loose or Escape | 279017 | [279017-loose-or-escape.json](./279017-loose-or-escape.json) |
 | Loose the Moose | 225290 | [225290-loose-the-moose.json](./225290-loose-the-moose.json) |
 | Loot & Ledger | 373055 | [373055-loot-and-ledger.json](./373055-loot-and-ledger.json) |
@@ -7008,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Forest | 256920 | [256920-lost-forest.json](./256920-lost-forest.json) |
 | Lost Found Secure | 380145 | [380145-lost-found-secure.json](./380145-lost-found-secure.json) |
 | Lost Fragment | 297445 | [297445-lost-fragment.json](./297445-lost-fragment.json) |
+| Lost Frequency | 219914 | [219914-lost-frequency.json](./219914-lost-frequency.json) |
 | Lost Friends | 393621 | [393621-lost-friends.json](./393621-lost-friends.json) |
 | Lost Friends 2: Reason for Tears | 393622 | [393622-lost-friends-2-reason-for-tears.json](./393622-lost-friends-2-reason-for-tears.json) |
 | Lost Friends 3: Never Return | 393623 | [393623-lost-friends-3-never-return.json](./393623-lost-friends-3-never-return.json) |
