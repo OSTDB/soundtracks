@@ -9821,6 +9821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Single City | 328461 | [328461-single-city.json](./328461-single-city.json) |
 | Single Espresso | 312743 | [312743-single-espresso.json](./312743-single-espresso.json) |
 | Single Feather | 220495 | [220495-single-feather.json](./220495-single-feather.json) |
+| Single Line | 225366 | [225366-single-line.json](./225366-single-line.json) |
 | Single Malt Apocalypse | 258336 | [258336-single-malt-apocalypse.json](./258336-single-malt-apocalypse.json) |
 | Single Player Tarkov | 314711 | [314711-single-player-tarkov.json](./314711-single-player-tarkov.json) |
 | Single Scoop | 357002 | [357002-single-scoop.json](./357002-single-scoop.json) |
@@ -15995,6 +15996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sougou Kakutougi: Astral Bout | 38295 | [38295-sougou-kakutougi-astral-bout.json](./38295-sougou-kakutougi-astral-bout.json) |
 | Sougou Kakutougi: Astral Bout 2 - The Total Fighters | 38296 | [38296-sougou-kakutougi-astral-bout-2-the-total-fighters.json](./38296-sougou-kakutougi-astral-bout-2-the-total-fighters.json) |
 | Souhide Series: Omatsuri-zukushi | 288631 | [288631-souhide-series-omatsuri-zukushi.json](./288631-souhide-series-omatsuri-zukushi.json) |
+| Soukai Tenki | 225386 | [225386-soukai-tenki.json](./225386-soukai-tenki.json) |
 | Soukaigi | 71799 | [71799-soukaigi.json](./71799-soukaigi.json) |
 | Soukaishin | 250276 | [250276-soukaishin.json](./250276-soukaishin.json) |
 | Soukh | 358304 | [358304-soukh.json](./358304-soukh.json) |
@@ -20970,6 +20972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ocean: Integrity and Faithlessness | 11213 | [11213-star-ocean-integrity-and-faithlessness.json](./11213-star-ocean-integrity-and-faithlessness.json) |
 | Star Ocean: Second Evolution | 80504 | [80504-star-ocean-second-evolution.json](./80504-star-ocean-second-evolution.json) |
 | Star Ocean: The Divine Force | 178298 | [178298-star-ocean-the-divine-force.json](./178298-star-ocean-the-divine-force.json) |
+| Star Ocean: The Divine Force - Digital Deluxe Edition | 225378 | [225378-star-ocean-the-divine-force-digital-deluxe-edition.json](./225378-star-ocean-the-divine-force-digital-deluxe-edition.json) |
 | Star Ocean: The Last Hope | 7192 | [7192-star-ocean-the-last-hope.json](./7192-star-ocean-the-last-hope.json) |
 | Star Ocean: The Last Hope - International | 21750 | [21750-star-ocean-the-last-hope-international.json](./21750-star-ocean-the-last-hope-international.json) |
 | Star Ocean: The Second Story | 11210 | [11210-star-ocean-the-second-story.json](./11210-star-ocean-the-second-story.json) |
@@ -30868,6 +30871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Hollow Realization Collector's Edition | 132182 | [132182-sword-art-online-hollow-realization-collectors-edition.json](./132182-sword-art-online-hollow-realization-collectors-edition.json) |
 | Sword Art Online: Infinity Moment | 11841 | [11841-sword-art-online-infinity-moment.json](./11841-sword-art-online-infinity-moment.json) |
 | Sword Art Online: Integral Factor | 68441 | [68441-sword-art-online-integral-factor.json](./68441-sword-art-online-integral-factor.json) |
+| Sword Art Online: Last Recollection | 225351 | [225351-sword-art-online-last-recollection.json](./225351-sword-art-online-last-recollection.json) |
 | Sword Art Online: Last Recollection - Black Swordsman Swords Skins Set | 275831 | [275831-sword-art-online-last-recollection-black-swordsman-swords-skins-set.json](./275831-sword-art-online-last-recollection-black-swordsman-swords-skins-set.json) |
 | Sword Art Online: Last Recollection - Deluxe Edition | 271125 | [271125-sword-art-online-last-recollection-deluxe-edition.json](./271125-sword-art-online-last-recollection-deluxe-edition.json) |
 | Sword Art Online: Last Recollection - Digital Premium Edition | 271473 | [271473-sword-art-online-last-recollection-digital-premium-edition.json](./271473-sword-art-online-last-recollection-digital-premium-edition.json) |
