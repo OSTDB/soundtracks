@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla Wars | 249370 | [249370-valhalla-wars.json](./249370-valhalla-wars.json) |
 | Valhalla: Awakening of Valkyrie | 214200 | [214200-valhalla-awakening-of-valkyrie.json](./214200-valhalla-awakening-of-valkyrie.json) |
 | Valhalla: Before the War | 12809 | [12809-valhalla-before-the-war.json](./12809-valhalla-before-the-war.json) |
+| Valheim: Hearth & Home | 222087 | [222087-valheim-hearth-and-home.json](./222087-valheim-hearth-and-home.json) |
 | Valheim: Mistlands | 227760 | [227760-valheim-mistlands.json](./227760-valheim-mistlands.json) |
 | Valheim: The Bog Witch | 319145 | [319145-valheim-the-bog-witch.json](./319145-valheim-the-bog-witch.json) |
 | Valhyre | 68416 | [68416-valhyre.json](./68416-valhyre.json) |
