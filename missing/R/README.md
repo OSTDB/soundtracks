@@ -8734,6 +8734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky Rhodes and the Cracked Case | 185406 | [185406-rocky-rhodes-and-the-cracked-case.json](./185406-rocky-rhodes-and-the-cracked-case.json) |
 | Rocky Ride | 169801 | [169801-rocky-ride.json](./169801-rocky-ride.json) |
 | Rocky Rodent | 42648 | [42648-rocky-rodent.json](./42648-rocky-rodent.json) |
+| Rocky Ruins | 179291 | [179291-rocky-ruins.json](./179291-rocky-ruins.json) |
 | Rocky Stairs | 230726 | [230726-rocky-stairs.json](./230726-rocky-stairs.json) |
 | Rocky Towers | 208147 | [208147-rocky-towers.json](./208147-rocky-towers.json) |
 | Rocky Towers: Puzzle Defense | 237378 | [237378-rocky-towers-puzzle-defense.json](./237378-rocky-towers-puzzle-defense.json) |
@@ -11034,6 +11035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Monster | 402883 | [402883-rune-monster.json](./402883-rune-monster.json) |
 | Rune Monsters | 236478 | [236478-rune-monsters.json](./236478-rune-monsters.json) |
 | Rune of Eternity | 194372 | [194372-rune-of-eternity.json](./194372-rune-of-eternity.json) |
+| Rune of Tauro | 179343 | [179343-rune-of-tauro.json](./179343-rune-of-tauro.json) |
 | Rune Raiders | 22327 | [22327-rune-raiders.json](./22327-rune-raiders.json) |
 | Rune Ranker | 197722 | [197722-rune-ranker.json](./197722-rune-ranker.json) |
 | Rune Rhetoric | 280902 | [280902-rune-rhetoric.json](./280902-rune-rhetoric.json) |
