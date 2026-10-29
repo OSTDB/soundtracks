@@ -2702,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Jump! | 260756 | [260756-only-jump.json](./260756-only-jump.json) |
 | Only Kitty Cat Up | 395669 | [395669-only-kitty-cat-up.json](./395669-only-kitty-cat-up.json) |
 | Only Lead Can Stop Them | 197115 | [197115-only-lead-can-stop-them.json](./197115-only-lead-can-stop-them.json) |
+| Only Mine | 192586 | [192586-only-mine.json](./192586-only-mine.json) |
 | Only Mining: Cozy Digging Game | 392859 | [392859-only-mining-cozy-digging-game.json](./392859-only-mining-cozy-digging-game.json) |
 | Only Multiplayer: Up! | 265536 | [265536-only-multiplayer-up.json](./265536-only-multiplayer-up.json) |
 | Only One | 259187 | [259187-only-one.json](./259187-only-one.json) |
@@ -3896,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscar the Balloonist: My Creative Workshop | 208887 | [208887-oscar-the-balloonist-my-creative-workshop.json](./208887-oscar-the-balloonist-my-creative-workshop.json) |
 | Oscar Wilde Card | 220615 | [220615-oscar-wilde-card.json](./220615-oscar-wilde-card.json) |
 | Oscar Wilde's The Selfish Giant | 145382 | [145382-oscar-wildes-the-selfish-giant.json](./145382-oscar-wildes-the-selfish-giant.json) |
+| Oscar's Paradise | 192577 | [192577-oscars-paradise.json](./192577-oscars-paradise.json) |
 | Oscar's Trash Race | 40714 | [40714-oscars-trash-race.json](./40714-oscars-trash-race.json) |
 | Oscar's World Tour | 65749 | [65749-oscars-world-tour.json](./65749-oscars-world-tour.json) |
 | Oscarzinho e o Bug do Esporte | 218411 | [218411-oscarzinho-e-o-bug-do-esporte.json](./218411-oscarzinho-e-o-bug-do-esporte.json) |
