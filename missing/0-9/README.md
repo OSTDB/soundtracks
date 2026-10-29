@@ -1911,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 32 Inch Nails | 262166 | [262166-32-inch-nails.json](./262166-32-inch-nails.json) |
 | 32 Piece Cliptucky Fried Chicken Special | 260786 | [260786-32-piece-cliptucky-fried-chicken-special.json](./260786-32-piece-cliptucky-fried-chicken-special.json) |
 | 32 Secs | 148335 | [148335-32-secs.json](./148335-32-secs.json) |
+| 32 Secs: Traffic Rider 2 | 227533 | [227533-32-secs-traffic-rider-2.json](./227533-32-secs-traffic-rider-2.json) |
 | 32-in-1 Games | 247015 | [247015-32-in-1-games.json](./247015-32-in-1-games.json) |
 | 32, Dandelion Drift | 348227 | [348227-32-dandelion-drift.json](./348227-32-dandelion-drift.json) |
 | 326 | 254711 | [254711-326.json](./254711-326.json) |
