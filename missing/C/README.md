@@ -3496,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat in the Box | 132754 | [132754-cat-in-the-box.json](./132754-cat-in-the-box.json) |
 | Cat in the Box | 410181 | [410181-cat-in-the-box.json](./410181-cat-in-the-box.json) |
 | Cat Inside | 108343 | [108343-cat-inside.json](./108343-cat-inside.json) |
+| Cat Island | 188271 | [188271-cat-island.json](./188271-cat-island.json) |
 | Cat Island Petrichor | 368803 | [368803-cat-island-petrichor.json](./368803-cat-island-petrichor.json) |
 | Cat Isle | 371378 | [371378-cat-isle.json](./371378-cat-isle.json) |
 | Cat Jigsaw Puzzle Games | 241325 | [241325-cat-jigsaw-puzzle-games.json](./241325-cat-jigsaw-puzzle-games.json) |
