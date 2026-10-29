@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Company Simulator: Back to 2000 | 372837 | [372837-game-company-simulator-back-to-2000.json](./372837-game-company-simulator-back-to-2000.json) |
 | Game Conveni 21 | 281452 | [281452-game-conveni-21.json](./281452-game-conveni-21.json) |
 | Game Corp DX | 25276 | [25276-game-corp-dx.json](./25276-game-corp-dx.json) |
+| Game Cycle | 207626 | [207626-game-cycle.json](./207626-game-cycle.json) |
 | Game de Check! Koutsuu Anzen | 268899 | [268899-game-de-check-koutsuu-anzen.json](./268899-game-de-check-koutsuu-anzen.json) |
 | Game de Demashita! Powerpuff Girls Z | 133826 | [133826-game-de-demashita-powerpuff-girls-z.json](./133826-game-de-demashita-powerpuff-girls-z.json) |
 | Game de Hajimeru TOEIC Test: Mazu ha Nyuumon-hen 1500 | 337539 | [337539-game-de-hajimeru-toeic-test-mazu-ha-nyuumon-hen-1500.json](./337539-game-de-hajimeru-toeic-test-mazu-ha-nyuumon-hen-1500.json) |
@@ -5390,6 +5391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godsvivors | 260518 | [260518-godsvivors.json](./260518-godsvivors.json) |
 | Godsworn | 213612 | [213612-godsworn.json](./213612-godsworn.json) |
 | Godtail | 207755 | [207755-godtail.json](./207755-godtail.json) |
+| Godumas | 207628 | [207628-godumas.json](./207628-godumas.json) |
 | Godus | 3115 | [3115-godus.json](./3115-godus.json) |
 | Godwalker | 260240 | [260240-godwalker.json](./260240-godwalker.json) |
 | Godway: Only Up Simulator | 391134 | [391134-godway-only-up-simulator.json](./391134-godway-only-up-simulator.json) |
