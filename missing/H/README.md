@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakobune Kibau | 409336 | [409336-hakobune-kibau.json](./409336-hakobune-kibau.json) |
 | Hakonde Pon! | 206045 | [206045-hakonde-pon.json](./206045-hakonde-pon.json) |
 | Hakonde! Utte! Quiz 4-taku Typing | 355220 | [355220-hakonde-utte-quiz-4-taku-typing.json](./355220-hakonde-utte-quiz-4-taku-typing.json) |
+| Hakoniwa Bokujou Hitsuji Mura | 222102 | [222102-hakoniwa-bokujou-hitsuji-mura.json](./222102-hakoniwa-bokujou-hitsuji-mura.json) |
 | Hakoniwa Company Works | 27992 | [27992-hakoniwa-company-works.json](./27992-hakoniwa-company-works.json) |
 | Hakoniwa Electric | 399739 | [399739-hakoniwa-electric.json](./399739-hakoniwa-electric.json) |
 | Hakoniwa Explorer Plus | 101606 | [101606-hakoniwa-explorer-plus.json](./101606-hakoniwa-explorer-plus.json) |
