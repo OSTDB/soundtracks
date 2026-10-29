@@ -6853,6 +6853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man VI SNES | 377751 | [377751-mega-man-vi-snes.json](./377751-mega-man-vi-snes.json) |
 | Mega Man Vs. Ghosts 'n Goblins | 210475 | [210475-mega-man-vs-ghosts-n-goblins.json](./210475-mega-man-vs-ghosts-n-goblins.json) |
 | Mega Man W | 403215 | [403215-mega-man-w.json](./403215-mega-man-w.json) |
+| Mega Man Wily's Conquest 2: Hyper Edition Turbo! | 219423 | [219423-mega-man-wilys-conquest-2-hyper-edition-turbo.json](./219423-mega-man-wilys-conquest-2-hyper-edition-turbo.json) |
 | Mega Man World 2 GBC Edition | 306589 | [306589-mega-man-world-2-gbc-edition.json](./306589-mega-man-world-2-gbc-edition.json) |
 | Mega Man World 3 DX | 315770 | [315770-mega-man-world-3-dx.json](./315770-mega-man-world-3-dx.json) |
 | Mega Man World 4 DX | 326554 | [326554-mega-man-world-4-dx.json](./326554-mega-man-world-4-dx.json) |
@@ -6967,6 +6968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: Speed Bomber | 269872 | [269872-mega-man-speed-bomber.json](./269872-mega-man-speed-bomber.json) |
 | Mega Man: Square Root of Negative One | 304266 | [304266-mega-man-square-root-of-negative-one.json](./304266-mega-man-square-root-of-negative-one.json) |
 | Mega Man: Super Fighting Robot | 45183 | [45183-mega-man-super-fighting-robot.json](./45183-mega-man-super-fighting-robot.json) |
+| Mega Man: The New Lands | 219408 | [219408-mega-man-the-new-lands.json](./219408-mega-man-the-new-lands.json) |
 | Mega Man: The New Lands Remastered | 269873 | [269873-mega-man-the-new-lands-remastered.json](./269873-mega-man-the-new-lands-remastered.json) |
 | Mega Man: The Power Battle | 1724 | [1724-mega-man-the-power-battle.json](./1724-mega-man-the-power-battle.json) |
 | Mega Man: The Sequel Wars | 215146 | [215146-mega-man-the-sequel-wars.json](./215146-mega-man-the-sequel-wars.json) |
