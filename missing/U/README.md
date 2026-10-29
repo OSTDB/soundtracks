@@ -1289,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unclogged | 302055 | [302055-unclogged.json](./302055-unclogged.json) |
 | Unclouded | 418537 | [418537-unclouded.json](./418537-unclouded.json) |
 | Uncolor for iPad | 108460 | [108460-uncolor-for-ipad.json](./108460-uncolor-for-ipad.json) |
+| Uncolored Bob II | 189319 | [189319-uncolored-bob-ii.json](./189319-uncolored-bob-ii.json) |
 | Uncolored Boy | 174575 | [174575-uncolored-boy.json](./174575-uncolored-boy.json) |
 | Uncommon Time | 177456 | [177456-uncommon-time.json](./177456-uncommon-time.json) |
 | Uncommon Valor: Campaign for the South Pacific | 69881 | [69881-uncommon-valor-campaign-for-the-south-pacific.json](./69881-uncommon-valor-campaign-for-the-south-pacific.json) |
