@@ -2386,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatari: Curse Road | 293382 | [293382-tatari-curse-road.json](./293382-tatari-curse-road.json) |
 | Tatari: The Arrival | 267101 | [267101-tatari-the-arrival.json](./267101-tatari-the-arrival.json) |
 | Tate's Journey | 253232 | [253232-tates-journey.json](./253232-tates-journey.json) |
+| Tater Spud | 207624 | [207624-tater-spud.json](./207624-tater-spud.json) |
 | Tatlone | 415066 | [415066-tatlone.json](./415066-tatlone.json) |
 | Tatoe Sore ga Unmei de Atte mo | 329978 | [329978-tatoe-sore-ga-unmei-de-atte-mo.json](./329978-tatoe-sore-ga-unmei-de-atte-mo.json) |
 | Tatooine Run | 359453 | [359453-tatooine-run.json](./359453-tatooine-run.json) |
@@ -3752,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentacles | 179543 | [179543-tentacles.json](./179543-tentacles.json) |
 | Tentacles Growing Everywhere | 128411 | [128411-tentacles-growing-everywhere.json](./128411-tentacles-growing-everywhere.json) |
 | Tentacles Invasion | 321820 | [321820-tentacles-invasion.json](./321820-tentacles-invasion.json) |
+| Tentacles Party With Nuns | 207627 | [207627-tentacles-party-with-nuns.json](./207627-tentacles-party-with-nuns.json) |
 | Tentacles Party With Nuns Chibi Stickers | 337653 | [337653-tentacles-party-with-nuns-chibi-stickers.json](./337653-tentacles-party-with-nuns-chibi-stickers.json) |
 | Tentacles: Enter the dolphin | 19504 | [19504-tentacles-enter-the-dolphin.json](./19504-tentacles-enter-the-dolphin.json) |
 | Tentacuddle | 294159 | [294159-tentacuddle.json](./294159-tentacuddle.json) |
@@ -6723,6 +6725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Creature Zone VR: Welcome To Dystopia | 286069 | [286069-the-creature-zone-vr-welcome-to-dystopia.json](./286069-the-creature-zone-vr-welcome-to-dystopia.json) |
 | The Creature: Escape Room | 207538 | [207538-the-creature-escape-room.json](./207538-the-creature-escape-room.json) |
 | The Creeps! | 232581 | [232581-the-creeps.json](./232581-the-creeps.json) |
+| The Creepy Syndrome | 207616 | [207616-the-creepy-syndrome.json](./207616-the-creepy-syndrome.json) |
 | The Cremation of Sam McGee | 141717 | [141717-the-cremation-of-sam-mcgee.json](./141717-the-cremation-of-sam-mcgee.json) |
 | The Crevice | 275826 | [275826-the-crevice.json](./275826-the-crevice.json) |
 | The Crew 2: American Summit Pack | 415032 | [415032-the-crew-2-american-summit-pack.json](./415032-the-crew-2-american-summit-pack.json) |
@@ -14279,6 +14282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sexy Brutale | 22783 | [22783-the-sexy-brutale.json](./22783-the-sexy-brutale.json) |
 | The Shackles Holder #735 | 406551 | [406551-the-shackles-holder-735.json](./406551-the-shackles-holder-735.json) |
 | The Shade Forest | 319028 | [319028-the-shade-forest.json](./319028-the-shade-forest.json) |
+| The Shadelight | 207612 | [207612-the-shadelight.json](./207612-the-shadelight.json) |
 | The Shadow | 198882 | [198882-the-shadow.json](./198882-the-shadow.json) |
 | The Shadow | 323990 | [323990-the-shadow.json](./323990-the-shadow.json) |
 | The Shadow | 42465 | [42465-the-shadow.json](./42465-the-shadow.json) |
@@ -20857,6 +20861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tireless: Prepare For the Adrenaline | 103279 | [103279-tireless-prepare-for-the-adrenaline.json](./103279-tireless-prepare-for-the-adrenaline.json) |
 | Tiresmoke | 103862 | [103862-tiresmoke.json](./103862-tiresmoke.json) |
 | Tirkiss ~Princess Shade~ | 60530 | [60530-tirkiss-princess-shade.json](./60530-tirkiss-princess-shade.json) |
+| Tirsy's Tale | 207611 | [207611-tirsys-tale.json](./207611-tirsys-tale.json) |
 | TIS-100 | 22726 | [22726-tis-100.json](./22726-tis-100.json) |
 | TIS-100P | 197651 | [197651-tis-100p.json](./197651-tis-100p.json) |
 | Tisis | 407788 | [407788-tisis.json](./407788-tisis.json) |
