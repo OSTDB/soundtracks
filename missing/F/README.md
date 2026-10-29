@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Fire: Defender of the Fairies | 132775 | [132775-fairy-fire-defender-of-the-fairies.json](./132775-fairy-fire-defender-of-the-fairies.json) |
 | Fairy Forge | 418282 | [418282-fairy-forge.json](./418282-fairy-forge.json) |
 | Fairy Games | 102678 | [102678-fairy-games.json](./102678-fairy-games.json) |
+| Fairy Girl | 224814 | [224814-fairy-girl.json](./224814-fairy-girl.json) |
 | Fairy Glade | 175980 | [175980-fairy-glade.json](./175980-fairy-glade.json) |
 | Fairy Godmother Stories: Cinderella | 139725 | [139725-fairy-godmother-stories-cinderella.json](./139725-fairy-godmother-stories-cinderella.json) |
 | Fairy Godmother Stories: Cinderella - Collector's Edition | 126866 | [126866-fairy-godmother-stories-cinderella-collectors-edition.json](./126866-fairy-godmother-stories-cinderella-collectors-edition.json) |
@@ -2911,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fates Call: A New Beginning | 169480 | [169480-fates-call-a-new-beginning.json](./169480-fates-call-a-new-beginning.json) |
 | Fates Forever | 19247 | [19247-fates-forever.json](./19247-fates-forever.json) |
 | Fates of Ort | 112857 | [112857-fates-of-ort.json](./112857-fates-of-ort.json) |
+| Fates: Determination | 224823 | [224823-fates-determination.json](./224823-fates-determination.json) |
 | Fateweaver: Smash or Pass | 238598 | [238598-fateweaver-smash-or-pass.json](./238598-fateweaver-smash-or-pass.json) |
 | Fateweaver: The Alchemist's Quandary | 236930 | [236930-fateweaver-the-alchemists-quandary.json](./236930-fateweaver-the-alchemists-quandary.json) |
 | Fathammer Classics Pack | 70439 | [70439-fathammer-classics-pack.json](./70439-fathammer-classics-pack.json) |
@@ -10020,6 +10022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy Fish | 94579 | [94579-freddy-fish.json](./94579-freddy-fish.json) |
 | Freddy Flintoff's Power Play Cricket | 63181 | [63181-freddy-flintoffs-power-play-cricket.json](./63181-freddy-flintoffs-power-play-cricket.json) |
 | Freddy Frog | 152716 | [152716-freddy-frog.json](./152716-freddy-frog.json) |
+| Freddy Frog 2 | 224816 | [224816-freddy-frog-2.json](./224816-freddy-frog-2.json) |
 | Freddy Hardest in Manhattan South | 45333 | [45333-freddy-hardest-in-manhattan-south.json](./45333-freddy-hardest-in-manhattan-south.json) |
 | Freddy in Space 2 | 159286 | [159286-freddy-in-space-2.json](./159286-freddy-in-space-2.json) |
 | Freddy in Space 3: Chica in Space | 272691 | [272691-freddy-in-space-3-chica-in-space.json](./272691-freddy-in-space-3-chica-in-space.json) |
