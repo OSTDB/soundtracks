@@ -2889,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Home | 146327 | [146327-welcome-home.json](./146327-welcome-home.json) |
 | Welcome Home | 183356 | [183356-welcome-home.json](./183356-welcome-home.json) |
 | Welcome Home | 191054 | [191054-welcome-home.json](./191054-welcome-home.json) |
+| Welcome Home | 195884 | [195884-welcome-home.json](./195884-welcome-home.json) |
 | Welcome Home | 305961 | [305961-welcome-home.json](./305961-welcome-home.json) |
 | Welcome Home | 327352 | [327352-welcome-home.json](./327352-welcome-home.json) |
 | Welcome Home 2 | 181062 | [181062-welcome-home-2.json](./181062-welcome-home-2.json) |
