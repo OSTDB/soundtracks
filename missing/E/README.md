@@ -3982,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Idle Quest | 96187 | [96187-epic-idle-quest.json](./96187-epic-idle-quest.json) |
 | Epic Journey: Dragon Land & Legend Thrones | 116025 | [116025-epic-journey-dragon-land-and-legend-thrones.json](./116025-epic-journey-dragon-land-and-legend-thrones.json) |
 | Epic Jump! | 204838 | [204838-epic-jump.json](./204838-epic-jump.json) |
+| Epic Knight | 187661 | [187661-epic-knight.json](./187661-epic-knight.json) |
 | Epic Knight 2 | 253420 | [253420-epic-knight-2.json](./253420-epic-knight-2.json) |
 | Epic Landscapes Jigsaw | 354404 | [354404-epic-landscapes-jigsaw.json](./354404-epic-landscapes-jigsaw.json) |
 | Epic Little War Game | 36715 | [36715-epic-little-war-game.json](./36715-epic-little-war-game.json) |
