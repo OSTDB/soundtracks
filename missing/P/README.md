@@ -1774,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paragon: The Overprime | 130500 | [130500-paragon-the-overprime.json](./130500-paragon-the-overprime.json) |
 | Paragonian 3: The Warrior of Light | 224837 | [224837-paragonian-3-the-warrior-of-light.json](./224837-paragonian-3-the-warrior-of-light.json) |
 | Paragraph 78 | 72749 | [72749-paragraph-78.json](./72749-paragraph-78.json) |
+| Paragrowth | 211006 | [211006-paragrowth.json](./211006-paragrowth.json) |
 | Parahcuy | 321493 | [321493-parahcuy.json](./321493-parahcuy.json) |
 | Paraido | 265781 | [265781-paraido.json](./265781-paraido.json) |
 | Paraiso | 299390 | [299390-paraiso.json](./299390-paraiso.json) |
@@ -10720,6 +10721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygunners | 187172 | [187172-polygunners.json](./187172-polygunners.json) |
 | Polygunr | 291038 | [291038-polygunr.json](./291038-polygunr.json) |
 | Polyhop: The Skybound Islands | 278743 | [278743-polyhop-the-skybound-islands.json](./278743-polyhop-the-skybound-islands.json) |
+| Polyion | 210999 | [210999-polyion.json](./210999-polyion.json) |
 | Polyjump | 366390 | [366390-polyjump.json](./366390-polyjump.json) |
 | PolyKat | 57028 | [57028-polykat.json](./57028-polykat.json) |
 | Polyko's Super Jelly Bean Quest in the Sketchbook of Illusion | 130777 | [130777-polykos-super-jelly-bean-quest-in-the-sketchbook-of-illusion.json](./130777-polykos-super-jelly-bean-quest-in-the-sketchbook-of-illusion.json) |
