@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-29T06:49:45.804Z",
-  "total_missing": 278114,
+  "generated_at": "2026-10-29T07:05:27.753Z",
+  "total_missing": 278162,
   "games": [
     {
       "igdb_id": 191680,
@@ -81062,6 +81062,11 @@
       "file": "missing/A/141487-ashes-dead-man-walking.json"
     },
     {
+      "igdb_id": 213762,
+      "game_name": "Ashes: Exponential RPG",
+      "file": "missing/A/213762-ashes-exponential-rpg.json"
+    },
+    {
       "igdb_id": 305124,
       "game_name": "Ashes: Hard Reset",
       "file": "missing/A/305124-ashes-hard-reset.json"
@@ -100065,11 +100070,6 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
-    },
-    {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -238812,6 +238812,11 @@
       "file": "missing/C/257772-cooking-pix.json"
     },
     {
+      "igdb_id": 213766,
+      "game_name": "Cooking Princess",
+      "file": "missing/C/213766-cooking-princess.json"
+    },
+    {
       "igdb_id": 259127,
       "game_name": "Cooking Simulator 2: Better Together",
       "file": "missing/C/259127-cooking-simulator-2-better-together.json"
@@ -253760,6 +253765,11 @@
       "igdb_id": 290794,
       "game_name": "Cross Impact: V1",
       "file": "missing/C/290794-cross-impact-v1.json"
+    },
+    {
+      "igdb_id": 213750,
+      "game_name": "Cross Logic",
+      "file": "missing/C/213750-cross-logic.json"
     },
     {
       "igdb_id": 110524,
@@ -281915,6 +281925,11 @@
       "igdb_id": 341592,
       "game_name": "Dead as Disco",
       "file": "missing/D/341592-dead-as-disco.json"
+    },
+    {
+      "igdb_id": 213770,
+      "game_name": "Dead Beacon",
+      "file": "missing/D/213770-dead-beacon.json"
     },
     {
       "igdb_id": 333504,
@@ -320115,6 +320130,11 @@
       "igdb_id": 272475,
       "game_name": "Dolphin Splash!",
       "file": "missing/D/272475-dolphin-splash.json"
+    },
+    {
+      "igdb_id": 213731,
+      "game_name": "Dolphin Squadron",
+      "file": "missing/D/213731-dolphin-squadron.json"
     },
     {
       "igdb_id": 116737,
@@ -461447,6 +461467,11 @@
       "file": "missing/G/101620-gaze-at-maze.json"
     },
     {
+      "igdb_id": 213724,
+      "game_name": "Gaze Into Fate",
+      "file": "missing/G/213724-gaze-into-fate.json"
+    },
+    {
       "igdb_id": 293006,
       "game_name": "Gaze of Dread",
       "file": "missing/G/293006-gaze-of-dread.json"
@@ -525392,6 +525417,16 @@
       "file": "missing/H/288317-hentai-xxx-plus-jigsaws-vol-1.json"
     },
     {
+      "igdb_id": 213723,
+      "game_name": "Hentai Zodiac Puzzle",
+      "file": "missing/H/213723-hentai-zodiac-puzzle.json"
+    },
+    {
+      "igdb_id": 213725,
+      "game_name": "Hentai Zodiac Puzzle 2",
+      "file": "missing/H/213725-hentai-zodiac-puzzle-2.json"
+    },
+    {
       "igdb_id": 148703,
       "game_name": "Hentai: Area 51",
       "file": "missing/H/148703-hentai-area-51.json"
@@ -543445,6 +543480,11 @@
       "igdb_id": 8704,
       "game_name": "Hook",
       "file": "missing/H/8704-hook.json"
+    },
+    {
+      "igdb_id": 213776,
+      "game_name": "Hook & Go",
+      "file": "missing/H/213776-hook-and-go.json"
     },
     {
       "igdb_id": 266729,
@@ -618597,11 +618637,6 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
-    },
-    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -673237,6 +673272,11 @@
       "file": "missing/L/129344-love-wish.json"
     },
     {
+      "igdb_id": 213726,
+      "game_name": "Love Wish 2",
+      "file": "missing/L/213726-love-wish-2.json"
+    },
+    {
       "igdb_id": 383525,
       "game_name": "Love with Kadyrov",
       "file": "missing/L/383525-love-with-kadyrov.json"
@@ -702142,6 +702182,11 @@
       "file": "missing/M/303650-master-of-pieces-jigsaw-puzzle-timeless-heritage.json"
     },
     {
+      "igdb_id": 213771,
+      "game_name": "Master of Pieces: Jigsaw Puzzles",
+      "file": "missing/M/213771-master-of-pieces-jigsaw-puzzles.json"
+    },
+    {
       "igdb_id": 284890,
       "game_name": "Master of Pieces: Jigsaw Puzzles - Cat Family Christmas",
       "file": "missing/M/284890-master-of-pieces-jigsaw-puzzles-cat-family-christmas.json"
@@ -702150,6 +702195,11 @@
       "igdb_id": 216163,
       "game_name": "Master of Pieces: Jigsaw Puzzles - Summer Time",
       "file": "missing/M/216163-master-of-pieces-jigsaw-puzzles-summer-time.json"
+    },
+    {
+      "igdb_id": 213773,
+      "game_name": "Master of Pieces: Jigsaw Puzzles - Vintage",
+      "file": "missing/M/213773-master-of-pieces-jigsaw-puzzles-vintage.json"
     },
     {
       "igdb_id": 199600,
@@ -716702,6 +716752,11 @@
       "file": "missing/M/208848-melody.json"
     },
     {
+      "igdb_id": 213727,
+      "game_name": "Melody",
+      "file": "missing/M/213727-melody.json"
+    },
+    {
       "igdb_id": 275841,
       "game_name": "Melody",
       "file": "missing/M/275841-melody.json"
@@ -723997,6 +724052,11 @@
       "file": "missing/M/266932-metroid-eternal.json"
     },
     {
+      "igdb_id": 213757,
+      "game_name": "Metroid: Falling",
+      "file": "missing/M/213757-metroid-falling.json"
+    },
+    {
       "igdb_id": 323032,
       "game_name": "Metroid: Father Hunt",
       "file": "missing/M/323032-metroid-father-hunt.json"
@@ -724075,6 +724135,11 @@
       "igdb_id": 213825,
       "game_name": "Metroid: Spooky Mission",
       "file": "missing/M/213825-metroid-spooky-mission.json"
+    },
+    {
+      "igdb_id": 213761,
+      "game_name": "Metroid: SR387",
+      "file": "missing/M/213761-metroid-sr387.json"
     },
     {
       "igdb_id": 324000,
@@ -818902,6 +818967,11 @@
       "file": "missing/O/193180-omsi-2-downloadpack-vol-11-ai-electric-cars.json"
     },
     {
+      "igdb_id": 213768,
+      "game_name": "OMSI 2: Downloadpack Vol.12 - AI-People: Asia Edition",
+      "file": "missing/O/213768-omsi-2-downloadpack-vol-12-ai-people-asia-edition.json"
+    },
+    {
       "igdb_id": 155126,
       "game_name": "OMSI 2: Downloadpack Vol.2 - KI-Fahrzeuge",
       "file": "missing/O/155126-omsi-2-downloadpack-vol-2-ki-fahrzeuge.json"
@@ -828645,6 +828715,11 @@
       "igdb_id": 373331,
       "game_name": "Oreflux",
       "file": "missing/O/373331-oreflux.json"
+    },
+    {
+      "igdb_id": 213729,
+      "game_name": "Oregon",
+      "file": "missing/O/213729-oregon.json"
     },
     {
       "igdb_id": 47099,
@@ -902502,6 +902577,86 @@
       "file": "missing/P/123256-private-grimoire-magic-school.json"
     },
     {
+      "igdb_id": 213732,
+      "game_name": "Private Idol Disc Vol. 1: Kinoshita Yuu",
+      "file": "missing/P/213732-private-idol-disc-vol-1-kinoshita-yuu.json"
+    },
+    {
+      "igdb_id": 213748,
+      "game_name": "Private Idol Disc Vol. 10: Masaki Mai",
+      "file": "missing/P/213748-private-idol-disc-vol-10-masaki-mai.json"
+    },
+    {
+      "igdb_id": 213749,
+      "game_name": "Private Idol Disc Vol. 11: Mayumi Hirose",
+      "file": "missing/P/213749-private-idol-disc-vol-11-mayumi-hirose.json"
+    },
+    {
+      "igdb_id": 213733,
+      "game_name": "Private Idol Disc Vol. 2: Uchiyama Miki",
+      "file": "missing/P/213733-private-idol-disc-vol-2-uchiyama-miki.json"
+    },
+    {
+      "igdb_id": 213734,
+      "game_name": "Private Idol Disc Vol. 3: Oshima Akemi",
+      "file": "missing/P/213734-private-idol-disc-vol-3-oshima-akemi.json"
+    },
+    {
+      "igdb_id": 213735,
+      "game_name": "Private Idol Disc Vol. 4: Kuroda Mirei",
+      "file": "missing/P/213735-private-idol-disc-vol-4-kuroda-mirei.json"
+    },
+    {
+      "igdb_id": 213736,
+      "game_name": "Private Idol Disc Vol. 5: Fujisaki Nanako",
+      "file": "missing/P/213736-private-idol-disc-vol-5-fujisaki-nanako.json"
+    },
+    {
+      "igdb_id": 213737,
+      "game_name": "Private Idol Disc Vol. 6: Yoshida Satomi",
+      "file": "missing/P/213737-private-idol-disc-vol-6-yoshida-satomi.json"
+    },
+    {
+      "igdb_id": 213738,
+      "game_name": "Private Idol Disc Vol. 7: Asou Kaori",
+      "file": "missing/P/213738-private-idol-disc-vol-7-asou-kaori.json"
+    },
+    {
+      "igdb_id": 213739,
+      "game_name": "Private Idol Disc Vol. 8: Furukawa Emiko",
+      "file": "missing/P/213739-private-idol-disc-vol-8-furukawa-emiko.json"
+    },
+    {
+      "igdb_id": 213740,
+      "game_name": "Private Idol Disc Vol. 9: Nagamatsu Keiko",
+      "file": "missing/P/213740-private-idol-disc-vol-9-nagamatsu-keiko.json"
+    },
+    {
+      "igdb_id": 213742,
+      "game_name": "Private Idol Disc: Data-hen Race Queen F",
+      "file": "missing/P/213742-private-idol-disc-data-hen-race-queen-f.json"
+    },
+    {
+      "igdb_id": 213746,
+      "game_name": "Private Idol Disc: Data-hen Race Queen G",
+      "file": "missing/P/213746-private-idol-disc-data-hen-race-queen-g.json"
+    },
+    {
+      "igdb_id": 213743,
+      "game_name": "Private Idol Disc: Tokobetsu-hen - Cosplayers",
+      "file": "missing/P/213743-private-idol-disc-tokobetsu-hen-cosplayers.json"
+    },
+    {
+      "igdb_id": 213744,
+      "game_name": "Private Idol Disc: Tokubetsu-hen Campaign Girl '97",
+      "file": "missing/P/213744-private-idol-disc-tokubetsu-hen-campaign-girl-97.json"
+    },
+    {
+      "igdb_id": 213745,
+      "game_name": "Private Idol Disc: Tokubetsu-hen Kogyaru Daihyakka 100",
+      "file": "missing/P/213745-private-idol-disc-tokubetsu-hen-kogyaru-daihyakka-100.json"
+    },
+    {
       "igdb_id": 62676,
       "game_name": "Private Infiltrator",
       "file": "missing/P/62676-private-infiltrator.json"
@@ -925605,6 +925760,11 @@
       "igdb_id": 193746,
       "game_name": "R-Type Final 2: DLC Set 6",
       "file": "missing/R/193746-r-type-final-2-dlc-set-6.json"
+    },
+    {
+      "igdb_id": 213769,
+      "game_name": "R-Type Final 2: DLC Set 7",
+      "file": "missing/R/213769-r-type-final-2-dlc-set-7.json"
     },
     {
       "igdb_id": 219777,
@@ -970182,6 +970342,11 @@
       "file": "missing/R/372621-roguevirus.json"
     },
     {
+      "igdb_id": 213772,
+      "game_name": "Roguevive",
+      "file": "missing/R/213772-roguevive.json"
+    },
+    {
       "igdb_id": 382303,
       "game_name": "Roguie",
       "file": "missing/R/382303-roguie.json"
@@ -971785,6 +971950,11 @@
       "igdb_id": 153739,
       "game_name": "Romance",
       "file": "missing/R/153739-romance.json"
+    },
+    {
+      "igdb_id": 213728,
+      "game_name": "Romance",
+      "file": "missing/R/213728-romance.json"
     },
     {
       "igdb_id": 86918,
@@ -990012,6 +990182,11 @@
       "file": "missing/S/289002-sangokushi-rumble.json"
     },
     {
+      "igdb_id": 213722,
+      "game_name": "Sangokushi Sousouden",
+      "file": "missing/S/213722-sangokushi-sousouden.json"
+    },
+    {
       "igdb_id": 341156,
       "game_name": "Sangokushi Tactics",
       "file": "missing/S/341156-sangokushi-tactics.json"
@@ -994127,6 +994302,11 @@
       "file": "missing/S/400285-scapular.json"
     },
     {
+      "igdb_id": 213774,
+      "game_name": "Scar in the Void",
+      "file": "missing/S/213774-scar-in-the-void.json"
+    },
+    {
       "igdb_id": 226338,
       "game_name": "Scar of the Doll: A Psycho-Horror Story about the Mystery of an Older Sister",
       "file": "missing/S/226338-scar-of-the-doll-a-psycho-horror-story-about-the-mystery-of-an-older-sister.json"
@@ -994260,6 +994440,11 @@
       "igdb_id": 322811,
       "game_name": "Scared Rider Xechs + Stardust Lovers",
       "file": "missing/S/322811-scared-rider-xechs-stardust-lovers.json"
+    },
+    {
+      "igdb_id": 213751,
+      "game_name": "Scared Tube",
+      "file": "missing/S/213751-scared-tube.json"
     },
     {
       "igdb_id": 296348,
@@ -1123317,6 +1123502,11 @@
       "file": "missing/S/182259-super-metroid-ancient-chozo.json"
     },
     {
+      "igdb_id": 213756,
+      "game_name": "Super Metroid: Arrival",
+      "file": "missing/S/213756-super-metroid-arrival.json"
+    },
+    {
       "igdb_id": 165374,
       "game_name": "Super Metroid: Ascent",
       "file": "missing/S/165374-super-metroid-ascent.json"
@@ -1123375,6 +1123565,11 @@
       "igdb_id": 222749,
       "game_name": "Super Metroid: Hotlands",
       "file": "missing/S/222749-super-metroid-hotlands.json"
+    },
+    {
+      "igdb_id": 213759,
+      "game_name": "Super Metroid: Hydellius",
+      "file": "missing/S/213759-super-metroid-hydellius.json"
     },
     {
       "igdb_id": 198335,
@@ -1123455,6 +1123650,11 @@
       "igdb_id": 304133,
       "game_name": "Super Metroid: Y-Faster",
       "file": "missing/S/304133-super-metroid-y-faster.json"
+    },
+    {
+      "igdb_id": 213755,
+      "game_name": "Super Metroid: Z-Factor",
+      "file": "missing/S/213755-super-metroid-z-factor.json"
     },
     {
       "igdb_id": 343816,
@@ -1139535,6 +1139735,11 @@
       "igdb_id": 213570,
       "game_name": "Syndicate",
       "file": "missing/S/213570-syndicate.json"
+    },
+    {
+      "igdb_id": 213754,
+      "game_name": "Syndicate",
+      "file": "missing/S/213754-syndicate.json"
     },
     {
       "igdb_id": 213885,
@@ -1182822,6 +1183027,11 @@
       "file": "missing/T/161398-the-first-titans.json"
     },
     {
+      "igdb_id": 213777,
+      "game_name": "The Fish",
+      "file": "missing/T/213777-the-fish.json"
+    },
+    {
       "igdb_id": 132826,
       "game_name": "The Fish and the Furious",
       "file": "missing/T/132826-the-fish-and-the-furious.json"
@@ -1204785,6 +1204995,11 @@
       "igdb_id": 193664,
       "game_name": "The Oregon Trail",
       "file": "missing/T/193664-the-oregon-trail.json"
+    },
+    {
+      "igdb_id": 213730,
+      "game_name": "The Oregon Trail",
+      "file": "missing/T/213730-the-oregon-trail.json"
     },
     {
       "igdb_id": 256938,
@@ -1289582,6 +1289797,11 @@
       "file": "missing/U/48920-ultima-runes-of-virtue.json"
     },
     {
+      "igdb_id": 213767,
+      "game_name": "Ultima: Runes of Virtue II",
+      "file": "missing/U/213767-ultima-runes-of-virtue-ii.json"
+    },
+    {
       "igdb_id": 42437,
       "game_name": "Ultima: The Black Gate",
       "file": "missing/U/42437-ultima-the-black-gate.json"
@@ -1325867,6 +1326087,11 @@
       "file": "missing/W/308371-wang-nukem.json"
     },
     {
+      "igdb_id": 213763,
+      "game_name": "Wangan Dead Heat",
+      "file": "missing/W/213763-wangan-dead-heat.json"
+    },
+    {
       "igdb_id": 213942,
       "game_name": "Wangan Dead Heat + Real Arrange",
       "file": "missing/W/213942-wangan-dead-heat-real-arrange.json"
@@ -1330745,6 +1330970,11 @@
       "igdb_id": 377154,
       "game_name": "Warmongers",
       "file": "missing/W/377154-warmongers.json"
+    },
+    {
+      "igdb_id": 213775,
+      "game_name": "Warmonium",
+      "file": "missing/W/213775-warmonium.json"
     },
     {
       "igdb_id": 116299,
@@ -1349777,6 +1350007,11 @@
       "file": "missing/W/224805-winterthunder.json"
     },
     {
+      "igdb_id": 213764,
+      "game_name": "Winthorp's Mansion",
+      "file": "missing/W/213764-winthorps-mansion.json"
+    },
+    {
       "igdb_id": 69859,
       "game_name": "WinTrek",
       "file": "missing/W/69859-wintrek.json"
@@ -1363625,6 +1363860,11 @@
       "igdb_id": 81064,
       "game_name": "Wuxing Master(CCG)",
       "file": "missing/W/81064-wuxing-master-ccg.json"
+    },
+    {
+      "igdb_id": 213753,
+      "game_name": "Wuz",
+      "file": "missing/W/213753-wuz.json"
     },
     {
       "igdb_id": 349775,
