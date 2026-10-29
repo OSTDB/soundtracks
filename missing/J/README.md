@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Jeanne: Limited Edition | 228742 | [228742-jack-jeanne-limited-edition.json](./228742-jack-jeanne-limited-edition.json) |
 | Jack Keane 2: The Fire Within | 10464 | [10464-jack-keane-2-the-fire-within.json](./10464-jack-keane-2-the-fire-within.json) |
 | Jack Mason: Ace Attorney | 303777 | [303777-jack-mason-ace-attorney.json](./303777-jack-mason-ace-attorney.json) |
+| Jack Move: I.C.E Breaker | 195865 | [195865-jack-move-i-c-e-breaker.json](./195865-jack-move-i-c-e-breaker.json) |
 | Jack N' Jill 3D | 25846 | [25846-jack-n-jill-3d.json](./25846-jack-n-jill-3d.json) |
 | Jack N' Jill DX | 107044 | [107044-jack-n-jill-dx.json](./107044-jack-n-jill-dx.json) |
 | Jack Nicklaus 4 | 94690 | [94690-jack-nicklaus-4.json](./94690-jack-nicklaus-4.json) |
