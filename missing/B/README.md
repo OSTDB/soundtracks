@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms The Company | 309864 | [309864-backrooms-the-company.json](./309864-backrooms-the-company.json) |
 | Backrooms Union | 407806 | [407806-backrooms-union.json](./407806-backrooms-union.json) |
 | Backrooms Untold | 409746 | [409746-backrooms-untold.json](./409746-backrooms-untold.json) |
+| Backrooms VHS | 214275 | [214275-backrooms-vhs.json](./214275-backrooms-vhs.json) |
 | Backrooms VS | 250942 | [250942-backrooms-vs.json](./250942-backrooms-vs.json) |
 | BackRooms X | 337438 | [337438-backrooms-x.json](./337438-backrooms-x.json) |
 | Backrooms: 2005 | 407824 | [407824-backrooms-2005.json](./407824-backrooms-2005.json) |
@@ -844,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5788,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berlitz* French Translator | 94168 | [94168-berlitz-french-translator.json](./94168-berlitz-french-translator.json) |
 | Bermuda | 380011 | [380011-bermuda.json](./380011-bermuda.json) |
 | Bermuda Adventures | 216414 | [216414-bermuda-adventures.json](./216414-bermuda-adventures.json) |
+| Bermuda Farm | 214304 | [214304-bermuda-farm.json](./214304-bermuda-farm.json) |
 | Bermuda Project | 11953 | [11953-bermuda-project.json](./11953-bermuda-project.json) |
 | Bermuda Triangle | 22557 | [22557-bermuda-triangle.json](./22557-bermuda-triangle.json) |
 | Bermuda Triangle: Saving the Coral | 67391 | [67391-bermuda-triangle-saving-the-coral.json](./67391-bermuda-triangle-saving-the-coral.json) |
@@ -8709,6 +8712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze and the Monster Machines | 101564 | [101564-blaze-and-the-monster-machines.json](./101564-blaze-and-the-monster-machines.json) |
 | Blaze and the Monster Machines | 230339 | [230339-blaze-and-the-monster-machines.json](./230339-blaze-and-the-monster-machines.json) |
 | Blaze and the Monster Machines: Axle City Racers | 148547 | [148547-blaze-and-the-monster-machines-axle-city-racers.json](./148547-blaze-and-the-monster-machines-axle-city-racers.json) |
+| Blaze in Space: Beat a-Maze | 214278 | [214278-blaze-in-space-beat-a-maze.json](./214278-blaze-in-space-beat-a-maze.json) |
 | Blaze of Empires | 392080 | [392080-blaze-of-empires.json](./392080-blaze-of-empires.json) |
 | Blaze of Storm | 331874 | [331874-blaze-of-storm.json](./331874-blaze-of-storm.json) |
 | Blaze Out | 94698 | [94698-blaze-out.json](./94698-blaze-out.json) |
@@ -12065,6 +12069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Lounge | 233232 | [233232-bounce-lounge.json](./233232-bounce-lounge.json) |
 | Bounce Man | 79803 | [79803-bounce-man.json](./79803-bounce-man.json) |
 | Bounce Mania | 146849 | [146849-bounce-mania.json](./146849-bounce-mania.json) |
+| Bounce Merge | 214300 | [214300-bounce-merge.json](./214300-bounce-merge.json) |
 | Bounce On 2: Drallo's Demise | 182297 | [182297-bounce-on-2-drallos-demise.json](./182297-bounce-on-2-drallos-demise.json) |
 | Bounce on Back | 262895 | [262895-bounce-on-back.json](./262895-bounce-on-back.json) |
 | Bounce Original | 344928 | [344928-bounce-original.json](./344928-bounce-original.json) |
@@ -12517,6 +12522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Simulator | 258914 | [258914-boxing-simulator.json](./258914-boxing-simulator.json) |
 | Boxing Simulator | 356026 | [356026-boxing-simulator.json](./356026-boxing-simulator.json) |
 | Boxing Star | 105868 | [105868-boxing-star.json](./105868-boxing-star.json) |
+| Boxing Star: KO Master | 214312 | [214312-boxing-star-ko-master.json](./214312-boxing-star-ko-master.json) |
 | Boxing Star: Match 3 | 325734 | [325734-boxing-star-match-3.json](./325734-boxing-star-match-3.json) |
 | Boxing Surgery Simulator 2000 | 183515 | [183515-boxing-surgery-simulator-2000.json](./183515-boxing-surgery-simulator-2000.json) |
 | Boxing Wrestle | 277704 | [277704-boxing-wrestle.json](./277704-boxing-wrestle.json) |
@@ -14471,6 +14477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter DX | 114186 | [114186-bubble-shooter-dx.json](./114186-bubble-shooter-dx.json) |
 | Bubble Shooter FX | 168680 | [168680-bubble-shooter-fx.json](./168680-bubble-shooter-fx.json) |
 | Bubble Shooter Mission | 102576 | [102576-bubble-shooter-mission.json](./102576-bubble-shooter-mission.json) |
+| Bubble Shooter Star | 214288 | [214288-bubble-shooter-star.json](./214288-bubble-shooter-star.json) |
 | Bubble Shooter: Fashion Bird | 108444 | [108444-bubble-shooter-fashion-bird.json](./108444-bubble-shooter-fashion-bird.json) |
 | Bubble Shooter: Original Bear | 97260 | [97260-bubble-shooter-original-bear.json](./97260-bubble-shooter-original-bear.json) |
 | Bubble Shooter! Extreme | 216079 | [216079-bubble-shooter-extreme.json](./216079-bubble-shooter-extreme.json) |
@@ -15203,6 +15210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bump Jump | 246319 | [246319-bump-jump.json](./246319-bump-jump.json) |
 | Bump N' Run | 221896 | [221896-bump-n-run.json](./221896-bump-n-run.json) |
 | Bump Over | 94655 | [94655-bump-over.json](./94655-bump-over.json) |
+| Bump Pop | 214293 | [214293-bump-pop.json](./214293-bump-pop.json) |
 | Bump Set Spike! | 13453 | [13453-bump-set-spike.json](./13453-bump-set-spike.json) |
 | Bump Set Spike!: Doubles Volleyball | 83355 | [83355-bump-set-spike-doubles-volleyball.json](./83355-bump-set-spike-doubles-volleyball.json) |
 | Bump Sheep | 253202 | [253202-bump-sheep.json](./253202-bump-sheep.json) |
