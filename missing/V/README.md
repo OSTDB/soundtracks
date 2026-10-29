@@ -2211,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ViroMove | 118443 | [118443-viromove.json](./118443-viromove.json) |
 | Vironics | 390121 | [390121-vironics.json](./390121-vironics.json) |
 | Virt-U-Mate | 156646 | [156646-virt-u-mate.json](./156646-virt-u-mate.json) |
+| Virtomae | 206526 | [206526-virtomae.json](./206526-virtomae.json) |
 | Virtu-Pilot | 282019 | [282019-virtu-pilot.json](./282019-virtu-pilot.json) |
 | Virtua Athlete 2000 | 24159 | [24159-virtua-athlete-2000.json](./24159-virtua-athlete-2000.json) |
 | Virtua Athletics | 412215 | [412215-virtua-athletics.json](./412215-virtua-athletics.json) |
