@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales from the Cache | 145420 | [145420-tales-from-the-cache.json](./145420-tales-from-the-cache.json) |
 | Tales from the Commonwealth | 356619 | [356619-tales-from-the-commonwealth.json](./356619-tales-from-the-commonwealth.json) |
 | Tales from the Crossing: The Captain's Chair | 195126 | [195126-tales-from-the-crossing-the-captains-chair.json](./195126-tales-from-the-crossing-the-captains-chair.json) |
+| Tales from the Dancing Moon | 200840 | [200840-tales-from-the-dancing-moon.json](./200840-tales-from-the-dancing-moon.json) |
 | Tales From the Dark Manor | 414324 | [414324-tales-from-the-dark-manor.json](./414324-tales-from-the-dark-manor.json) |
 | Tales from the Dragon Mountain 2: The Lair | 10951 | [10951-tales-from-the-dragon-mountain-2-the-lair.json](./10951-tales-from-the-dragon-mountain-2-the-lair.json) |
 | Tales from the Dragon Mountain: the Lair | 89102 | [89102-tales-from-the-dragon-mountain-the-lair.json](./89102-tales-from-the-dragon-mountain-the-lair.json) |
@@ -2580,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCM Racing 2 | 380730 | [380730-tcm-racing-2.json](./380730-tcm-racing-2.json) |
 | TCQ | 216272 | [216272-tcq.json](./216272-tcq.json) |
 | TCStrikers5 | 339414 | [339414-tcstrikers5.json](./339414-tcstrikers5.json) |
+| TD GoGoGo | 200825 | [200825-td-gogogo.json](./200825-td-gogogo.json) |
 | TD Overdrive: The Brotherhood of Speed | 6191 | [6191-td-overdrive-the-brotherhood-of-speed.json](./6191-td-overdrive-the-brotherhood-of-speed.json) |
 | TD Quest | 233092 | [233092-td-quest.json](./233092-td-quest.json) |
 | TD Royale | 253525 | [253525-td-royale.json](./253525-td-royale.json) |
@@ -5387,6 +5389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms | 221748 | [221748-the-backrooms.json](./221748-the-backrooms.json) |
 | The Backrooms | 374795 | [374795-the-backrooms.json](./374795-the-backrooms.json) |
 | The Backrooms | 401676 | [401676-the-backrooms.json](./401676-the-backrooms.json) |
+| The Backrooms 1998 | 200831 | [200831-the-backrooms-1998.json](./200831-the-backrooms-1998.json) |
 | The Backrooms 64 | 337430 | [337430-the-backrooms-64.json](./337430-the-backrooms-64.json) |
 | The Backrooms Anthology | 236894 | [236894-the-backrooms-anthology.json](./236894-the-backrooms-anthology.json) |
 | The Backrooms Company | 293614 | [293614-the-backrooms-company.json](./293614-the-backrooms-company.json) |
@@ -7301,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Detail | 9080 | [9080-the-detail.json](./9080-the-detail.json) |
 | The Detail: Episode 2 - From the Ashes | 171455 | [171455-the-detail-episode-2-from-the-ashes.json](./171455-the-detail-episode-2-from-the-ashes.json) |
 | The Detail: Episode 3 - Devil in the Detail | 171613 | [171613-the-detail-episode-3-devil-in-the-detail.json](./171613-the-detail-episode-3-devil-in-the-detail.json) |
+| The Detective | 201415 | [201415-the-detective.json](./201415-the-detective.json) |
 | The Detective | 275700 | [275700-the-detective.json](./275700-the-detective.json) |
 | The Detective of the Red Horns | 96710 | [96710-the-detective-of-the-red-horns.json](./96710-the-detective-of-the-red-horns.json) |
 | The Detective Reaper Invites | 265962 | [265962-the-detective-reaper-invites.json](./265962-the-detective-reaper-invites.json) |
@@ -9787,6 +9791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredibles | 3782 | [3782-the-incredibles.json](./3782-the-incredibles.json) |
 | The Incredibles: Jack-Jack's Escape | 264251 | [264251-the-incredibles-jack-jacks-escape.json](./264251-the-incredibles-jack-jacks-escape.json) |
 | The Incredibles: Mission Incredible | 213375 | [213375-the-incredibles-mission-incredible.json](./213375-the-incredibles-mission-incredible.json) |
+| The Incredibles: Rise of the Underminer | 200818 | [200818-the-incredibles-rise-of-the-underminer.json](./200818-the-incredibles-rise-of-the-underminer.json) |
 | The Incredibles: Rise of the Underminer | 248549 | [248549-the-incredibles-rise-of-the-underminer.json](./248549-the-incredibles-rise-of-the-underminer.json) |
 | The Incredibles: Rise of the Underminer | 3955 | [3955-the-incredibles-rise-of-the-underminer.json](./3955-the-incredibles-rise-of-the-underminer.json) |
 | The Incredibles: When Danger Calls | 18261 | [18261-the-incredibles-when-danger-calls.json](./18261-the-incredibles-when-danger-calls.json) |
@@ -11110,6 +11115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Chao | 331776 | [331776-the-legend-of-the-chao.json](./331776-the-legend-of-the-chao.json) |
 | The Legend of the Dragonflame High School | 54849 | [54849-the-legend-of-the-dragonflame-high-school.json](./54849-the-legend-of-the-dragonflame-high-school.json) |
 | The Legend of the Dragonflame High School 2 | 115380 | [115380-the-legend-of-the-dragonflame-high-school-2.json](./115380-the-legend-of-the-dragonflame-high-school-2.json) |
+| The Legend of the Dragonflame: Highschool Collection | 200828 | [200828-the-legend-of-the-dragonflame-highschool-collection.json](./200828-the-legend-of-the-dragonflame-highschool-collection.json) |
 | The Legend of The Duck Knite | 117507 | [117507-the-legend-of-the-duck-knite.json](./117507-the-legend-of-the-duck-knite.json) |
 | The Legend of the Heroes of the Water Margin | 330499 | [330499-the-legend-of-the-heroes-of-the-water-margin.json](./330499-the-legend-of-the-heroes-of-the-water-margin.json) |
 | The Legend of the Radient Mask | 135094 | [135094-the-legend-of-the-radient-mask.json](./135094-the-legend-of-the-radient-mask.json) |
@@ -11612,6 +11618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: Aragorn's Quest | 333444 | [333444-the-lord-of-the-rings-aragorns-quest.json](./333444-the-lord-of-the-rings-aragorns-quest.json) |
 | The Lord of the Rings: Aragorn's Quest | 339594 | [339594-the-lord-of-the-rings-aragorns-quest.json](./339594-the-lord-of-the-rings-aragorns-quest.json) |
 | The Lord of the Rings: Aragorn's Quest | 4978 | [4978-the-lord-of-the-rings-aragorns-quest.json](./4978-the-lord-of-the-rings-aragorns-quest.json) |
+| The Lord of the Rings: Conquest | 200817 | [200817-the-lord-of-the-rings-conquest.json](./200817-the-lord-of-the-rings-conquest.json) |
 | The Lord of the Rings: Conquest | 7056 | [7056-the-lord-of-the-rings-conquest.json](./7056-the-lord-of-the-rings-conquest.json) |
 | The Lord of the Rings: Gollum | 116584 | [116584-the-lord-of-the-rings-gollum.json](./116584-the-lord-of-the-rings-gollum.json) |
 | The Lord of the Rings: Gollum - Emotes Pack | 252603 | [252603-the-lord-of-the-rings-gollum-emotes-pack.json](./252603-the-lord-of-the-rings-gollum-emotes-pack.json) |
@@ -16045,6 +16052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The TV Show | 54891 | [54891-the-tv-show.json](./54891-the-tv-show.json) |
 | The Twelve Slot Saloon | 311782 | [311782-the-twelve-slot-saloon.json](./311782-the-twelve-slot-saloon.json) |
 | The Twenty One | 210894 | [210894-the-twenty-one.json](./210894-the-twenty-one.json) |
+| The Twilight of Infinity | 201443 | [201443-the-twilight-of-infinity.json](./201443-the-twilight-of-infinity.json) |
 | The Twilight of Infinity Episode 5: Flight into Yesterday - The Disappearance of Amelia Earhart | 220515 | [220515-the-twilight-of-infinity-episode-5-flight-into-yesterday-the-disappearance-of-amelia-earhart.json](./220515-the-twilight-of-infinity-episode-5-flight-into-yesterday-the-disappearance-of-amelia-earhart.json) |
 | The Twilight of Infinity: Episode 4 - Therefore I Am | 215724 | [215724-the-twilight-of-infinity-episode-4-therefore-i-am.json](./215724-the-twilight-of-infinity-episode-4-therefore-i-am.json) |
 | The Twilight Project | 361102 | [361102-the-twilight-project.json](./361102-the-twilight-project.json) |
@@ -16157,6 +16165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unexplained | 215731 | [215731-the-unexplained.json](./215731-the-unexplained.json) |
 | The Unfair Platformer | 250494 | [250494-the-unfair-platformer.json](./250494-the-unfair-platformer.json) |
 | The Unfallens: Awakening | 247345 | [247345-the-unfallens-awakening.json](./247345-the-unfallens-awakening.json) |
+| The Unfamiliar Story of Grandfather's Heritage | 200821 | [200821-the-unfamiliar-story-of-grandfathers-heritage.json](./200821-the-unfamiliar-story-of-grandfathers-heritage.json) |
 | The Unfettered | 223163 | [223163-the-unfettered.json](./223163-the-unfettered.json) |
 | The Unfinished Swan | 8352 | [8352-the-unfinished-swan.json](./8352-the-unfinished-swan.json) |
 | The Unfound Soul | 231403 | [231403-the-unfound-soul.json](./231403-the-unfound-soul.json) |
@@ -26700,6 +26709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasurenauts | 27447 | [27447-treasurenauts.json](./27447-treasurenauts.json) |
 | Treasurer | 415751 | [415751-treasurer.json](./415751-treasurer.json) |
 | Treasures Boom | 256158 | [256158-treasures-boom.json](./256158-treasures-boom.json) |
+| Treasures of Captain Sam | 200863 | [200863-treasures-of-captain-sam.json](./200863-treasures-of-captain-sam.json) |
 | Treasures of Montezuma Blitz | 65272 | [65272-treasures-of-montezuma-blitz.json](./65272-treasures-of-montezuma-blitz.json) |
 | Treasures of Montezuma: Arena | 61539 | [61539-treasures-of-montezuma-arena.json](./61539-treasures-of-montezuma-arena.json) |
 | Treasures of Oz | 318547 | [318547-treasures-of-oz.json](./318547-treasures-of-oz.json) |
@@ -27882,6 +27892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Fear: Forsaken Souls - Part 3 | 217625 | [217625-true-fear-forsaken-souls-part-3.json](./217625-true-fear-forsaken-souls-part-3.json) |
 | True Fear: Forsaken Souls Part 2 | 111276 | [111276-true-fear-forsaken-souls-part-2.json](./111276-true-fear-forsaken-souls-part-2.json) |
 | True Fishing 2 | 396750 | [396750-true-fishing-2.json](./396750-true-fishing-2.json) |
+| True Fortune | 200842 | [200842-true-fortune.json](./200842-true-fortune.json) |
 | True Galactic Mission | 381669 | [381669-true-galactic-mission.json](./381669-true-galactic-mission.json) |
 | True Game | 148308 | [148308-true-game.json](./148308-true-game.json) |
 | True Golf Classics: Pebble Beach Golf Links | 4533 | [4533-true-golf-classics-pebble-beach-golf-links.json](./4533-true-golf-classics-pebble-beach-golf-links.json) |
