@@ -3282,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play Cards Solitaire | 367603 | [367603-lets-play-cards-solitaire.json](./367603-lets-play-cards-solitaire.json) |
 | Let's Play Curling!! | 194975 | [194975-lets-play-curling.json](./194975-lets-play-curling.json) |
 | Let's Play Duema! | 222270 | [222270-lets-play-duema.json](./222270-lets-play-duema.json) |
+| Let's Play Duema! 2022 | 222054 | [222054-lets-play-duema-2022.json](./222054-lets-play-duema-2022.json) |
 | Let's Play Jigsaw Puzzles | 231184 | [231184-lets-play-jigsaw-puzzles.json](./231184-lets-play-jigsaw-puzzles.json) |
 | Let's Play Jigsaw Puzzles: A Journey Across Continents | 263210 | [263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json](./263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json) |
 | Let's Play Jigsaw Puzzles: At the Zoo | 239738 | [239738-lets-play-jigsaw-puzzles-at-the-zoo.json](./239738-lets-play-jigsaw-puzzles-at-the-zoo.json) |
@@ -4966,6 +4967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Downcast | 387510 | [387510-lisa-the-downcast.json](./387510-lisa-the-downcast.json) |
 | Lisa: The Gluttonous | 382794 | [382794-lisa-the-gluttonous.json](./382794-lisa-the-gluttonous.json) |
 | Lisa: The Heartless | 345354 | [345354-lisa-the-heartless.json](./345354-lisa-the-heartless.json) |
+| Lisa: The Joyful - Arkantos | 222093 | [222093-lisa-the-joyful-arkantos.json](./222093-lisa-the-joyful-arkantos.json) |
 | Lisa: The Joyful - Definitive Edition | 252189 | [252189-lisa-the-joyful-definitive-edition.json](./252189-lisa-the-joyful-definitive-edition.json) |
 | Lisa: The Oblivious | 215082 | [215082-lisa-the-oblivious.json](./215082-lisa-the-oblivious.json) |
 | Lisa: The Painful | 8492 | [8492-lisa-the-painful.json](./8492-lisa-the-painful.json) |
@@ -8137,6 +8139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Gem Casino | 323158 | [323158-lucky-gem-casino.json](./323158-lucky-gem-casino.json) |
 | Lucky Goal | 230347 | [230347-lucky-goal.json](./230347-lucky-goal.json) |
 | Lucky Hand: Roguelike Deck Builder | 347780 | [347780-lucky-hand-roguelike-deck-builder.json](./347780-lucky-hand-roguelike-deck-builder.json) |
+| Lucky Happening: Dokidoki Munekyun Choppiri Otona-na Love Comedy Illustration Quiz | 222101 | [222101-lucky-happening-dokidoki-munekyun-choppiri-otona-na-love-comedy-illustration-quiz.json](./222101-lucky-happening-dokidoki-munekyun-choppiri-otona-na-love-comedy-illustration-quiz.json) |
 | Lucky Hero | 253900 | [253900-lucky-hero.json](./253900-lucky-hero.json) |
 | Lucky Heroes | 217370 | [217370-lucky-heroes.json](./217370-lucky-heroes.json) |
 | Lucky Hunt | 246521 | [246521-lucky-hunt.json](./246521-lucky-hunt.json) |
