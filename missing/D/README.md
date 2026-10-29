@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance of Cubes | 170552 | [170552-dance-of-cubes.json](./170552-dance-of-cubes.json) |
 | Dance of Death | 33827 | [33827-dance-of-death.json](./33827-dance-of-death.json) |
 | Dance Of Death | 266887 | [266887-dance-of-death.json](./266887-dance-of-death.json) |
+| Dance of Decapods | 220965 | [220965-dance-of-decapods.json](./220965-dance-of-decapods.json) |
 | Dance of the Butterflies | 412278 | [412278-dance-of-the-butterflies.json](./412278-dance-of-the-butterflies.json) |
 | Dance of the Stereomancer | 364692 | [364692-dance-of-the-stereomancer.json](./364692-dance-of-the-stereomancer.json) |
 | Dance of the Vampires | 168323 | [168323-dance-of-the-vampires.json](./168323-dance-of-the-vampires.json) |
@@ -7591,6 +7592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diddy Kong Racing | 2723 | [2723-diddy-kong-racing.json](./2723-diddy-kong-racing.json) |
 | Diddy Kong Racing Adventure | 131896 | [131896-diddy-kong-racing-adventure.json](./131896-diddy-kong-racing-adventure.json) |
 | Diddy Kong Racing DS: Timber's Balloon Pop | 231630 | [231630-diddy-kong-racing-ds-timbers-balloon-pop.json](./231630-diddy-kong-racing-ds-timbers-balloon-pop.json) |
+| Diddy Kong Racing: GoldenEye | 220970 | [220970-diddy-kong-racing-goldeneye.json](./220970-diddy-kong-racing-goldeneye.json) |
 | Diddy Kong Racing: Ocarina of Time | 290359 | [290359-diddy-kong-racing-ocarina-of-time.json](./290359-diddy-kong-racing-ocarina-of-time.json) |
 | Diddy Kong Racing: Recompiled | 413189 | [413189-diddy-kong-racing-recompiled.json](./413189-diddy-kong-racing-recompiled.json) |
 | Didgery | 33867 | [33867-didgery.json](./33867-didgery.json) |
@@ -15206,6 +15208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Game | 11247 | [11247-duck-game.json](./11247-duck-game.json) |
 | Duck Game | 328300 | [328300-duck-game.json](./328300-duck-game.json) |
 | Duck Guardian One | 135883 | [135883-duck-guardian-one.json](./135883-duck-guardian-one.json) |
+| Duck Hunt | 220980 | [220980-duck-hunt.json](./220980-duck-hunt.json) |
 | Duck Hunt | 2741 | [2741-duck-hunt.json](./2741-duck-hunt.json) |
 | Duck Hunt | 377642 | [377642-duck-hunt.json](./377642-duck-hunt.json) |
 | Duck Hunt | 78487 | [78487-duck-hunt.json](./78487-duck-hunt.json) |
