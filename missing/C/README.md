@@ -1892,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Simulator 2 | 208203 | [208203-car-simulator-2.json](./208203-car-simulator-2.json) |
 | Car Simulator 2015 | 83216 | [83216-car-simulator-2015.json](./83216-car-simulator-2015.json) |
 | Car Simulator 2018 | 95814 | [95814-car-simulator-2018.json](./95814-car-simulator-2018.json) |
+| Car Simulator 2022 | 227536 | [227536-car-simulator-2022.json](./227536-car-simulator-2022.json) |
 | Car Simulator Bundle | 357026 | [357026-car-simulator-bundle.json](./357026-car-simulator-bundle.json) |
 | Car Simulator OG | 68532 | [68532-car-simulator-og.json](./68532-car-simulator-og.json) |
 | Car Simulator: Car Games 3D | 266260 | [266260-car-simulator-car-games-3d.json](./266260-car-simulator-car-games-3d.json) |
@@ -3085,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Siege | 370155 | [370155-castle-siege.json](./370155-castle-siege.json) |
 | Castle Slots | 58631 | [58631-castle-slots.json](./58631-castle-slots.json) |
 | Castle Solitaire | 370338 | [370338-castle-solitaire.json](./370338-castle-solitaire.json) |
+| Castle Story | 227524 | [227524-castle-story.json](./227524-castle-story.json) |
 | Castle Story | 3238 | [3238-castle-story.json](./3238-castle-story.json) |
 | Castle Story | 79809 | [79809-castle-story.json](./79809-castle-story.json) |
 | Castle Strike | 92914 | [92914-castle-strike.json](./92914-castle-strike.json) |
@@ -12362,6 +12364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Craze: Starter Pack | 295118 | [295118-cooking-craze-starter-pack.json](./295118-cooking-craze-starter-pack.json) |
 | Cooking Crew | 262954 | [262954-cooking-crew.json](./262954-cooking-crew.json) |
 | Cooking Diary: Welcome to Tasty Hills | 106991 | [106991-cooking-diary-welcome-to-tasty-hills.json](./106991-cooking-diary-welcome-to-tasty-hills.json) |
+| Cooking Dream | 227455 | [227455-cooking-dream.json](./227455-cooking-dream.json) |
 | Cooking Festival | 147632 | [147632-cooking-festival.json](./147632-cooking-festival.json) |
 | Cooking Fever | 87046 | [87046-cooking-fever.json](./87046-cooking-fever.json) |
 | Cooking Fist | 417414 | [417414-cooking-fist.json](./417414-cooking-fist.json) |
