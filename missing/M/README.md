@@ -3523,6 +3523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: Yoshi Tour | 361145 | [361145-mario-kart-tour-yoshi-tour.json](./361145-mario-kart-tour-yoshi-tour.json) |
 | Mario Kart Tour: Yoshi Tour | 361179 | [361179-mario-kart-tour-yoshi-tour.json](./361179-mario-kart-tour-yoshi-tour.json) |
 | Mario Kart Tour: Yoshi Tour | 361206 | [361206-mario-kart-tour-yoshi-tour.json](./361206-mario-kart-tour-yoshi-tour.json) |
+| Mario Kart Wii | 191437 | [191437-mario-kart-wii.json](./191437-mario-kart-wii.json) |
 | Mario Kart Wii Item-matching Game | 328673 | [328673-mario-kart-wii-item-matching-game.json](./328673-mario-kart-wii-item-matching-game.json) |
 | Mario Kart Wii Tournament Museum | 301127 | [301127-mario-kart-wii-tournament-museum.json](./301127-mario-kart-wii-tournament-museum.json) |
 | Mario Kart Wii: Awesome Edition | 313085 | [313085-mario-kart-wii-awesome-edition.json](./313085-mario-kart-wii-awesome-edition.json) |
@@ -5456,7 +5457,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Adventures | 94950 | [94950-maze-adventures.json](./94950-maze-adventures.json) |
 | Maze and Dagger | 103647 | [103647-maze-and-dagger.json](./103647-maze-and-dagger.json) |
 | Maze and Fairy tale | 291302 | [291302-maze-and-fairy-tale.json](./291302-maze-and-fairy-tale.json) |
+| Maze Art: Black | 190857 | [190857-maze-art-black.json](./190857-maze-art-black.json) |
+| Maze Art: Blue | 190856 | [190856-maze-art-blue.json](./190856-maze-art-blue.json) |
+| Maze Art: Brown | 190854 | [190854-maze-art-brown.json](./190854-maze-art-brown.json) |
+| Maze Art: Green | 190860 | [190860-maze-art-green.json](./190860-maze-art-green.json) |
+| Maze Art: Orange | 190853 | [190853-maze-art-orange.json](./190853-maze-art-orange.json) |
+| Maze Art: Pink | 190859 | [190859-maze-art-pink.json](./190859-maze-art-pink.json) |
+| Maze Art: Purple | 190852 | [190852-maze-art-purple.json](./190852-maze-art-purple.json) |
+| Maze Art: Rainbow | 190858 | [190858-maze-art-rainbow.json](./190858-maze-art-rainbow.json) |
 | Maze Art: Red | 387489 | [387489-maze-art-red.json](./387489-maze-art-red.json) |
+| Maze Art: Yellow | 190855 | [190855-maze-art-yellow.json](./190855-maze-art-yellow.json) |
 | Maze Ball Neon | 176367 | [176367-maze-ball-neon.json](./176367-maze-ball-neon.json) |
 | Maze Bandit | 43177 | [43177-maze-bandit.json](./43177-maze-bandit.json) |
 | Maze Banquet | 155950 | [155950-maze-banquet.json](./155950-maze-banquet.json) |
@@ -6229,6 +6239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Kingdom Wars: Royal Blood | 213487 | [213487-medieval-kingdom-wars-royal-blood.json](./213487-medieval-kingdom-wars-royal-blood.json) |
 | Medieval Kingdoms Total War: 1212 AD | 356223 | [356223-medieval-kingdoms-total-war-1212-ad.json](./356223-medieval-kingdoms-total-war-1212-ad.json) |
 | Medieval Knight | 202739 | [202739-medieval-knight.json](./202739-medieval-knight.json) |
+| Medieval Knightmare | 190838 | [190838-medieval-knightmare.json](./190838-medieval-knightmare.json) |
 | Medieval Lands | 412430 | [412430-medieval-lands.json](./412430-medieval-lands.json) |
 | Medieval Legacy | 333011 | [333011-medieval-legacy.json](./333011-medieval-legacy.json) |
 | Medieval Life | 280299 | [280299-medieval-life.json](./280299-medieval-life.json) |
@@ -16245,6 +16256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Love: Queen's Choice | 118949 | [118949-mr-love-queens-choice.json](./118949-mr-love-queens-choice.json) |
 | Mr Maker 3D Level Editor | 192072 | [192072-mr-maker-3d-level-editor.json](./192072-mr-maker-3d-level-editor.json) |
 | Mr Makeshifter | 34655 | [34655-mr-makeshifter.json](./34655-mr-makeshifter.json) |
+| Mr Meal | 190862 | [190862-mr-meal.json](./190862-mr-meal.json) |
 | Mr Mitty and the Itty Bitty Kitty Committee | 302200 | [302200-mr-mitty-and-the-itty-bitty-kitty-committee.json](./302200-mr-mitty-and-the-itty-bitty-kitty-committee.json) |
 | Mr Moneybag | 177864 | [177864-mr-moneybag.json](./177864-mr-moneybag.json) |
 | Mr Mosco Bizarre Climbing | 263770 | [263770-mr-mosco-bizarre-climbing.json](./263770-mr-mosco-bizarre-climbing.json) |
