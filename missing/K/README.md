@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Combat | 13732 | [13732-karate-combat.json](./13732-karate-combat.json) |
 | Karate Do | 239625 | [239625-karate-do.json](./239625-karate-do.json) |
 | Karate Fighter | 141516 | [141516-karate-fighter.json](./141516-karate-fighter.json) |
+| Karate Fighter | 200288 | [200288-karate-fighter.json](./200288-karate-fighter.json) |
 | Karate Hero | 234318 | [234318-karate-hero.json](./234318-karate-hero.json) |
 | Karate Joe | 50062 | [50062-karate-joe.json](./50062-karate-joe.json) |
 | Karate Kamil vs. Ninja Nejat | 165491 | [165491-karate-kamil-vs-ninja-nejat.json](./165491-karate-kamil-vs-ninja-nejat.json) |
@@ -909,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karnov's Revenge Revolution | 406507 | [406507-karnovs-revenge-revolution.json](./406507-karnovs-revenge-revolution.json) |
 | Karol Ball | 125840 | [125840-karol-ball.json](./125840-karol-ball.json) |
 | Karol World Breaker | 343299 | [343299-karol-world-breaker.json](./343299-karol-world-breaker.json) |
+| Karolina | 199746 | [199746-karolina.json](./199746-karolina.json) |
 | Karos Classic | 284877 | [284877-karos-classic.json](./284877-karos-classic.json) |
 | Karos Returns | 35215 | [35215-karos-returns.json](./35215-karos-returns.json) |
 | Karoshi | 44476 | [44476-karoshi.json](./44476-karoshi.json) |
@@ -2466,7 +2468,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5306,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu High Impact | 20156 | [20156-kung-fu-high-impact.json](./20156-kung-fu-high-impact.json) |
 | Kung Fu House | 51201 | [51201-kung-fu-house.json](./51201-kung-fu-house.json) |
 | Kung Fu Jesus and the Search for Celestial Gold | 122254 | [122254-kung-fu-jesus-and-the-search-for-celestial-gold.json](./122254-kung-fu-jesus-and-the-search-for-celestial-gold.json) |
+| Kung Fu Jumpu | 200303 | [200303-kung-fu-jumpu.json](./200303-kung-fu-jumpu.json) |
 | Kung Fu Kid | 36898 | [36898-kung-fu-kid.json](./36898-kung-fu-kid.json) |
 | Kung Fu Panda | 320387 | [320387-kung-fu-panda.json](./320387-kung-fu-panda.json) |
 | Kung Fu Panda | 4964 | [4964-kung-fu-panda.json](./4964-kung-fu-panda.json) |
