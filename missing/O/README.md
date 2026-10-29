@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O-o-o | 232404 | [232404-o-o-o.json](./232404-o-o-o.json) |
 | O-Sim 22 | 222281 | [222281-o-sim-22.json](./222281-o-sim-22.json) |
 | O-Void | 257470 | [257470-o-void.json](./257470-o-void.json) |
+| O-Well | 182067 | [182067-o-well.json](./182067-o-well.json) |
 | o: | 175181 | [175181-o.json](./175181-o.json) |
 | O:anquan | 230214 | [230214-o-anquan.json](./230214-o-anquan.json) |
 | O! Holy Knight | 285588 | [285588-o-holy-knight.json](./285588-o-holy-knight.json) |
@@ -1635,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omnipresence | 245938 | [245938-omnipresence.json](./245938-omnipresence.json) |
 | Omniswarm | 183056 | [183056-omniswarm.json](./183056-omniswarm.json) |
 | OmniSword | 82155 | [82155-omnisword.json](./82155-omnisword.json) |
+| Omnitopia | 182048 | [182048-omnitopia.json](./182048-omnitopia.json) |
 | Omnivael: Chronicles of the realm | 274763 | [274763-omnivael-chronicles-of-the-realm.json](./274763-omnivael-chronicles-of-the-realm.json) |
 | Omniwar | 109168 | [109168-omniwar.json](./109168-omniwar.json) |
 | Omnn | 338304 | [338304-omnn.json](./338304-omnn.json) |
@@ -4341,6 +4343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Red String | 150023 | [150023-our-red-string.json](./150023-our-red-string.json) |
 | Our Secret Below | 115570 | [115570-our-secret-below.json](./115570-our-secret-below.json) |
 | Our Shared Lie | 232840 | [232840-our-shared-lie.json](./232840-our-shared-lie.json) |
+| Our Stormy Present | 182065 | [182065-our-stormy-present.json](./182065-our-stormy-present.json) |
 | Our Story in Spring | 254471 | [254471-our-story-in-spring.json](./254471-our-story-in-spring.json) |
 | Our Summer Crush | 327990 | [327990-our-summer-crush.json](./327990-our-summer-crush.json) |
 | Our Summer Festival | 186696 | [186696-our-summer-festival.json](./186696-our-summer-festival.json) |
