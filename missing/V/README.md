@@ -3526,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Soccer | 20642 | [20642-vr-soccer.json](./20642-vr-soccer.json) |
 | VR Soccer Training | 86585 | [86585-vr-soccer-training.json](./86585-vr-soccer-training.json) |
 | VR Solar System Traveler | 190897 | [190897-vr-solar-system-traveler.json](./190897-vr-solar-system-traveler.json) |
+| VR Space Stalker | 188240 | [188240-vr-space-stalker.json](./188240-vr-space-stalker.json) |
 | VR Spaceship Battle | 155882 | [155882-vr-spaceship-battle.json](./155882-vr-spaceship-battle.json) |
 | VR Sport and Cycling | 116304 | [116304-vr-sport-and-cycling.json](./116304-vr-sport-and-cycling.json) |
 | VR Squash 2017 | 74398 | [74398-vr-squash-2017.json](./74398-vr-squash-2017.json) |
