@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed-It | 126251 | [126251-ed-it.json](./126251-ed-it.json) |
 | Ed-On | 70210 | [70210-ed-on.json](./70210-ed-on.json) |
 | Ed, Edd n Eddy: Clash of the Idiots | 159198 | [159198-ed-edd-n-eddy-clash-of-the-idiots.json](./159198-ed-edd-n-eddy-clash-of-the-idiots.json) |
+| Ed, Edd n Eddy: Cul de Sac Smash II - Wheels of Fury | 194809 | [194809-ed-edd-n-eddy-cul-de-sac-smash-ii-wheels-of-fury.json](./194809-ed-edd-n-eddy-cul-de-sac-smash-ii-wheels-of-fury.json) |
 | Ed, Edd n Eddy: Cul-de-Sac Smash | 374686 | [374686-ed-edd-n-eddy-cul-de-sac-smash.json](./374686-ed-edd-n-eddy-cul-de-sac-smash.json) |
 | Ed, Edd n Eddy: Ed Over Heels | 203093 | [203093-ed-edd-n-eddy-ed-over-heels.json](./203093-ed-edd-n-eddy-ed-over-heels.json) |
 | Ed, Edd n Eddy: Jawbreakers! | 2816 | [2816-ed-edd-n-eddy-jawbreakers.json](./2816-ed-edd-n-eddy-jawbreakers.json) |
@@ -1930,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electro Racer | 67056 | [67056-electro-racer.json](./67056-electro-racer.json) |
 | Electro Rush | 39201 | [39201-electro-rush.json](./39201-electro-rush.json) |
 | Electro-Dynamic Mayhem | 324679 | [324679-electro-dynamic-mayhem.json](./324679-electro-dynamic-mayhem.json) |
+| Electroarena | 194756 | [194756-electroarena.json](./194756-electroarena.json) |
 | Electrobasis | 290618 | [290618-electrobasis.json](./290618-electrobasis.json) |
 | Electrobillion | 337141 | [337141-electrobillion.json](./337141-electrobillion.json) |
 | Electrocardioground FX | 298951 | [298951-electrocardioground-fx.json](./298951-electrocardioground-fx.json) |
@@ -7271,6 +7273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Tactical Executioners | 121549 | [121549-extreme-tactical-executioners.json](./121549-extreme-tactical-executioners.json) |
 | Extreme Tactics | 71402 | [71402-extreme-tactics.json](./71402-extreme-tactics.json) |
 | Extreme Tag! | 240793 | [240793-extreme-tag.json](./240793-extreme-tag.json) |
+| Extreme Tax Masters | 194768 | [194768-extreme-tax-masters.json](./194768-extreme-tax-masters.json) |
 | Extreme Tennis | 23134 | [23134-extreme-tennis.json](./23134-extreme-tennis.json) |
 | Extreme Truck Parking Simulator Game | 252321 | [252321-extreme-truck-parking-simulator-game.json](./252321-extreme-truck-parking-simulator-game.json) |
 | Extreme Truck Stunts | 219403 | [219403-extreme-truck-stunts.json](./219403-extreme-truck-stunts.json) |
