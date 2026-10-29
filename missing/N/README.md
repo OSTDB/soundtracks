@@ -2262,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Rider Classic | 290879 | [290879-neon-rider-classic.json](./290879-neon-rider-classic.json) |
 | Neon River | 277814 | [277814-neon-river.json](./277814-neon-river.json) |
 | Neon Road | 221368 | [221368-neon-road.json](./221368-neon-road.json) |
+| Neon Ronin | 197507 | [197507-neon-ronin.json](./197507-neon-ronin.json) |
 | Neon Rumble | 292829 | [292829-neon-rumble.json](./292829-neon-rumble.json) |
 | Neon Run! | 249653 | [249653-neon-run.json](./249653-neon-run.json) |
 | Neon Runner | 259156 | [259156-neon-runner.json](./259156-neon-runner.json) |
@@ -4085,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare on the Pacific | 216238 | [216238-nightmare-on-the-pacific.json](./216238-nightmare-on-the-pacific.json) |
 | Nightmare Operator | 303003 | [303003-nightmare-operator.json](./303003-nightmare-operator.json) |
 | Nightmare Owl | 351425 | [351425-nightmare-owl.json](./351425-nightmare-owl.json) |
+| Nightmare Party | 197477 | [197477-nightmare-party.json](./197477-nightmare-party.json) |
 | Nightmare Pick | 374925 | [374925-nightmare-pick.json](./374925-nightmare-pick.json) |
 | Nightmare Pop | 89415 | [89415-nightmare-pop.json](./89415-nightmare-pop.json) |
 | Nightmare Punch-Out!! | 365051 | [365051-nightmare-punch-out.json](./365051-nightmare-punch-out.json) |
@@ -6704,6 +6706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numinous | 61044 | [61044-numinous.json](./61044-numinous.json) |
 | Numito | 329119 | [329119-numito.json](./329119-numito.json) |
 | Numjump | 384787 | [384787-numjump.json](./384787-numjump.json) |
+| Numlock | 198044 | [198044-numlock.json](./198044-numlock.json) |
 | Nummels | 149899 | [149899-nummels.json](./149899-nummels.json) |
 | Numolition | 239345 | [239345-numolition.json](./239345-numolition.json) |
 | Nump Jump | 213587 | [213587-nump-jump.json](./213587-nump-jump.json) |
