@@ -2205,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makaimura Online | 63297 | [63297-makaimura-online.json](./63297-makaimura-online.json) |
 | Makato: Your Fantasy Shop | 240629 | [240629-makato-your-fantasy-shop.json](./240629-makato-your-fantasy-shop.json) |
 | Makber | 165419 | [165419-makber.json](./165419-makber.json) |
+| Make 'Em Pay | 179303 | [179303-make-em-pay.json](./179303-make-em-pay.json) |
 | Make 10 | 89006 | [89006-make-10.json](./89006-make-10.json) |
 | Make a Cake | 266136 | [266136-make-a-cake.json](./266136-make-a-cake.json) |
 | Make a Doll | 178842 | [178842-make-a-doll.json](./178842-make-a-doll.json) |
@@ -3778,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maritime Mecha Mystery | 291558 | [291558-maritime-mecha-mystery.json](./291558-maritime-mecha-mystery.json) |
 | Marito Arcade | 228317 | [228317-marito-arcade.json](./228317-marito-arcade.json) |
 | Mariuccha Alchemy Queen | 149449 | [149449-mariuccha-alchemy-queen.json](./149449-mariuccha-alchemy-queen.json) |
+| Mariuccha, Alchemy Queen | 179332 | [179332-mariuccha-alchemy-queen.json](./179332-mariuccha-alchemy-queen.json) |
 | Marius | 180415 | [180415-marius.json](./180415-marius.json) |
 | Marius | 76368 | [76368-marius.json](./76368-marius.json) |
 | Mark & Lara: Partners in Justice | 146028 | [146028-mark-and-lara-partners-in-justice.json](./146028-mark-and-lara-partners-in-justice.json) |
@@ -18343,6 +18345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Ramenbar | 175815 | [175815-my-little-ramenbar.json](./175815-my-little-ramenbar.json) |
 | My Little Ranch | 421182 | [421182-my-little-ranch.json](./421182-my-little-ranch.json) |
 | My Little Riding Champion | 109006 | [109006-my-little-riding-champion.json](./109006-my-little-riding-champion.json) |
+| My Little Roguelike | 179305 | [179305-my-little-roguelike.json](./179305-my-little-roguelike.json) |
 | My Little RPG Shop | 298650 | [298650-my-little-rpg-shop.json](./298650-my-little-rpg-shop.json) |
 | My Little Sister Callie | 321767 | [321767-my-little-sister-callie.json](./321767-my-little-sister-callie.json) |
 | My Little Sister's Special Place | 253712 | [253712-my-little-sisters-special-place.json](./253712-my-little-sisters-special-place.json) |
