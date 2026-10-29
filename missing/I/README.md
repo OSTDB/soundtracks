@@ -5311,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isegyemeideu | 249951 | [249951-isegyemeideu.json](./249951-isegyemeideu.json) |
 | Iseijin Kara no Okurimono | 401835 | [401835-iseijin-kara-no-okurimono.json](./401835-iseijin-kara-no-okurimono.json) |
 | Iseikan Renai Guide: Interplanetary Love Guide | 325407 | [325407-iseikan-renai-guide-interplanetary-love-guide.json](./325407-iseikan-renai-guide-interplanetary-love-guide.json) |
+| Isekai Adventure | 193079 | [193079-isekai-adventure.json](./193079-isekai-adventure.json) |
 | Isekai Adventurer Guild | 348401 | [348401-isekai-adventurer-guild.json](./348401-isekai-adventurer-guild.json) |
 | Isekai Awakening | 296942 | [296942-isekai-awakening.json](./296942-isekai-awakening.json) |
 | Isekai Brick Breaker | 225065 | [225065-isekai-brick-breaker.json](./225065-isekai-brick-breaker.json) |
@@ -5502,6 +5503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Tribe! | 180118 | [180118-island-tribe.json](./180118-island-tribe.json) |
 | Island Trouble | 330466 | [330466-island-trouble.json](./330466-island-trouble.json) |
 | Island World | 163883 | [163883-island-world.json](./163883-island-world.json) |
+| Island World | 193069 | [193069-island-world.json](./193069-island-world.json) |
 | Island Xtreme Stunts | 15739 | [15739-island-xtreme-stunts.json](./15739-island-xtreme-stunts.json) |
 | Island Xtreme Stunts | 300709 | [300709-island-xtreme-stunts.json](./300709-island-xtreme-stunts.json) |
 | Island_Name_Here | 222274 | [222274-island-name-here.json](./222274-island-name-here.json) |
@@ -5740,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Reaches | 373840 | [373840-it-reaches.json](./373840-it-reaches.json) |
 | It Returned to the Desert | 223796 | [223796-it-returned-to-the-desert.json](./223796-it-returned-to-the-desert.json) |
 | It Runs Red | 117440 | [117440-it-runs-red.json](./117440-it-runs-red.json) |
+| IT Simulator | 193080 | [193080-it-simulator.json](./193080-it-simulator.json) |
 | It Sleeps Below the Haar | 217396 | [217396-it-sleeps-below-the-haar.json](./217396-it-sleeps-below-the-haar.json) |
 | IT Specialist Simulator | 346606 | [346606-it-specialist-simulator.json](./346606-it-specialist-simulator.json) |
 | It Started With Hairs | 301299 | [301299-it-started-with-hairs.json](./301299-it-started-with-hairs.json) |
