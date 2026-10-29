@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omh | 277227 | [277227-omh.json](./277227-omh.json) |
 | Omi Momi | 244633 | [244633-omi-momi.json](./244633-omi-momi.json) |
 | Omi Oh My AI | 215393 | [215393-omi-oh-my-ai.json](./215393-omi-oh-my-ai.json) |
+| Omiai Commando: Bakappuru ni Tsukkomi wo | 199195 | [199195-omiai-commando-bakappuru-ni-tsukkomi-wo.json](./199195-omiai-commando-bakappuru-ni-tsukkomi-wo.json) |
 | Omicroid | 107675 | [107675-omicroid.json](./107675-omicroid.json) |
 | Omicron: Coronavirus Battlegrounds | 393453 | [393453-omicron-coronavirus-battlegrounds.json](./393453-omicron-coronavirus-battlegrounds.json) |
 | Omicrox | 361803 | [361803-omicrox.json](./361803-omicrox.json) |
@@ -4722,6 +4723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost Simulator | 377117 | [377117-outpost-simulator.json](./377117-outpost-simulator.json) |
 | Outpost X | 273223 | [273223-outpost-x.json](./273223-outpost-x.json) |
 | Outpost Zero | 81207 | [81207-outpost-zero.json](./81207-outpost-zero.json) |
+| Outpost: Infinity Siege | 199218 | [199218-outpost-infinity-siege.json](./199218-outpost-infinity-siege.json) |
 | Outpost: Save Yourselves | 61697 | [61697-outpost-save-yourselves.json](./61697-outpost-save-yourselves.json) |
 | Outpost: Vikings | 158616 | [158616-outpost-vikings.json](./158616-outpost-vikings.json) |
 | Outpost4 | 389936 | [389936-outpost4.json](./389936-outpost4.json) |
