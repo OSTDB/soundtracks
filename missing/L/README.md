@@ -3181,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let It Ride! | 392938 | [392938-let-it-ride.json](./392938-let-it-ride.json) |
 | Let It Roll | 222244 | [222244-let-it-roll.json](./222244-let-it-roll.json) |
 | Let it Roll 2 | 192043 | [192043-let-it-roll-2.json](./192043-let-it-roll-2.json) |
+| Let It Slide | 188768 | [188768-let-it-slide.json](./188768-let-it-slide.json) |
 | Let Me Book | 323433 | [323433-let-me-book.json](./323433-let-me-book.json) |
 | Let Me Die | 419163 | [419163-let-me-die.json](./419163-let-me-die.json) |
 | Let Me Die inside | 166599 | [166599-let-me-die-inside.json](./166599-let-me-die-inside.json) |
@@ -4734,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Rider: Freestyle | 54163 | [54163-line-rider-freestyle.json](./54163-line-rider-freestyle.json) |
 | Line Runner 2 | 90401 | [90401-line-runner-2.json](./90401-line-runner-2.json) |
 | Line Space Wars | 69360 | [69360-line-space-wars.json](./69360-line-space-wars.json) |
+| Line Strike | 188791 | [188791-line-strike.json](./188791-line-strike.json) |
 | Line the Balls | 233173 | [233173-line-the-balls.json](./233173-line-the-balls.json) |
 | Line Time | 265336 | [265336-line-time.json](./265336-line-time.json) |
 | Line Up: Dots! | 243098 | [243098-line-up-dots.json](./243098-line-up-dots.json) |
@@ -8261,6 +8263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Luke: Wanted! | 49331 | [49331-lucky-luke-wanted.json](./49331-lucky-luke-wanted.json) |
 | Lucky Luke: Western Fever | 43886 | [43886-lucky-luke-western-fever.json](./43886-lucky-luke-western-fever.json) |
 | Lucky Luna | 204452 | [204452-lucky-luna.json](./204452-lucky-luna.json) |
+| Lucky Me | 188776 | [188776-lucky-me.json](./188776-lucky-me.json) |
 | Lucky Me Lucky You | 123996 | [123996-lucky-me-lucky-you.json](./123996-lucky-me-lucky-you.json) |
 | Lucky Morolian | 259827 | [259827-lucky-morolian.json](./259827-lucky-morolian.json) |
 | Lucky Night: Poker Games | 131357 | [131357-lucky-night-poker-games.json](./131357-lucky-night-poker-games.json) |
