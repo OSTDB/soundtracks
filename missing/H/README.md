@@ -5219,6 +5219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero: 108 Online | 209873 | [209873-hero-108-online.json](./209873-hero-108-online.json) |
 | Hero: Flood Rescue | 118428 | [118428-hero-flood-rescue.json](./118428-hero-flood-rescue.json) |
 | Hero.EXE | 133074 | [133074-hero-exe.json](./133074-hero-exe.json) |
+| Hero's 2nd Memory | 201940 | [201940-heros-2nd-memory.json](./201940-heros-2nd-memory.json) |
 | Hero's Advent | 361242 | [361242-heros-advent.json](./361242-heros-advent.json) |
 | Hero's Adventure: Road to Passion | 275459 | [275459-heros-adventure-road-to-passion.json](./275459-heros-adventure-road-to-passion.json) |
 | Hero's Adventure: The Great Conquest | 322620 | [322620-heros-adventure-the-great-conquest.json](./322620-heros-adventure-the-great-conquest.json) |
@@ -11147,6 +11148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperlight | 265701 | [265701-hyperlight.json](./265701-hyperlight.json) |
 | Hyperlight Survivor | 261553 | [261553-hyperlight-survivor.json](./261553-hyperlight-survivor.json) |
 | Hyperlight Ultimate | 117939 | [117939-hyperlight-ultimate.json](./117939-hyperlight-ultimate.json) |
+| Hyperliminal | 201960 | [201960-hyperliminal.json](./201960-hyperliminal.json) |
 | Hypermarket Simulator | 335855 | [335855-hypermarket-simulator.json](./335855-hypermarket-simulator.json) |
 | Hypermarket Simulator Empire 2024 | 315903 | [315903-hypermarket-simulator-empire-2024.json](./315903-hypermarket-simulator-empire-2024.json) |
 | Hypermarket Tycoon Manager | 243559 | [243559-hypermarket-tycoon-manager.json](./243559-hypermarket-tycoon-manager.json) |
