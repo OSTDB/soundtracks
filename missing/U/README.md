@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima: Exodus Remastered | 214995 | [214995-ultima-exodus-remastered.json](./214995-ultima-exodus-remastered.json) |
 | Ultima: Quest of the Avatar | 48097 | [48097-ultima-quest-of-the-avatar.json](./48097-ultima-quest-of-the-avatar.json) |
 | Ultima: Runes of Virtue | 48920 | [48920-ultima-runes-of-virtue.json](./48920-ultima-runes-of-virtue.json) |
+| Ultima: Runes of Virtue II | 213767 | [213767-ultima-runes-of-virtue-ii.json](./213767-ultima-runes-of-virtue-ii.json) |
 | Ultima: The Black Gate | 42437 | [42437-ultima-the-black-gate.json](./42437-ultima-the-black-gate.json) |
 | Ultima: The Savage Empire | 186734 | [186734-ultima-the-savage-empire.json](./186734-ultima-the-savage-empire.json) |
 | Ultima: Warriors of Destiny | 48096 | [48096-ultima-warriors-of-destiny.json](./48096-ultima-warriors-of-destiny.json) |
