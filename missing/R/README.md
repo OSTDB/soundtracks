@@ -2451,8 +2451,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reading Simulator | 81809 | [81809-reading-simulator.json](./81809-reading-simulator.json) |
 | Reading with Phonics: Mole's Huge Nose | 230447 | [230447-reading-with-phonics-moles-huge-nose.json](./230447-reading-with-phonics-moles-huge-nose.json) |
 | Reading World VR | 296082 | [296082-reading-world-vr.json](./296082-reading-world-vr.json) |
+| Ready 2 Rumble Boxing | 209278 | [209278-ready-2-rumble-boxing.json](./209278-ready-2-rumble-boxing.json) |
 | Ready 2 Rumble Boxing | 217944 | [217944-ready-2-rumble-boxing.json](./217944-ready-2-rumble-boxing.json) |
 | Ready 2 Rumble Boxing | 3586 | [3586-ready-2-rumble-boxing.json](./3586-ready-2-rumble-boxing.json) |
+| Ready 2 Rumble Boxing: Round 2 | 209280 | [209280-ready-2-rumble-boxing-round-2.json](./209280-ready-2-rumble-boxing-round-2.json) |
 | Ready 2 Rumble Boxing: Round 2 | 249128 | [249128-ready-2-rumble-boxing-round-2.json](./249128-ready-2-rumble-boxing-round-2.json) |
 | Ready 2 Rumble Boxing: Round 2 | 3587 | [3587-ready-2-rumble-boxing-round-2.json](./3587-ready-2-rumble-boxing-round-2.json) |
 | Ready 2 Rumble: Revolution | 5118 | [5118-ready-2-rumble-revolution.json](./5118-ready-2-rumble-revolution.json) |
@@ -2536,7 +2538,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Cricket Go | 233506 | [233506-real-cricket-go.json](./233506-real-cricket-go.json) |
 | Real Cricket™ 16: English Bash | 242682 | [242682-real-cricket-16-english-bash.json](./242682-real-cricket-16-english-bash.json) |
 | Real Crimes: Jack the Ripper | 137474 | [137474-real-crimes-jack-the-ripper.json](./137474-real-crimes-jack-the-ripper.json) |
+| Real Crimes: The Unicorn Killer | 209277 | [209277-real-crimes-the-unicorn-killer.json](./209277-real-crimes-the-unicorn-killer.json) |
 | Real Dodger 3D | 256355 | [256355-real-dodger-3d.json](./256355-real-dodger-3d.json) |
+| Real Dominoes | 209275 | [209275-real-dominoes.json](./209275-real-dominoes.json) |
 | Real Drags | 24992 | [24992-real-drags.json](./24992-real-drags.json) |
 | Real Drift | 89963 | [89963-real-drift.json](./89963-real-drift.json) |
 | Real Drift Car Racing | 60308 | [60308-real-drift-car-racing.json](./60308-real-drift-car-racing.json) |
@@ -2551,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Erogame Situation! Triple H | 194627 | [194627-real-erogame-situation-triple-h.json](./194627-real-erogame-situation-triple-h.json) |
 | Real Eroge Situation! | 194590 | [194590-real-eroge-situation.json](./194590-real-eroge-situation.json) |
 | Real Estate | 41148 | [41148-real-estate.json](./41148-real-estate.json) |
+| Real Estate Empire | 209274 | [209274-real-estate-empire.json](./209274-real-estate-empire.json) |
 | Real Estate Simulator | 288834 | [288834-real-estate-simulator.json](./288834-real-estate-simulator.json) |
 | Real Estate Simulator 2 | 352791 | [352791-real-estate-simulator-2.json](./352791-real-estate-simulator-2.json) |
 | Real Estate Tycoon | 207375 | [207375-real-estate-tycoon.json](./207375-real-estate-tycoon.json) |
@@ -2952,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Raiders: Operation Nighthawk | 5120 | [5120-rebel-raiders-operation-nighthawk.json](./5120-rebel-raiders-operation-nighthawk.json) |
 | Rebel Reenactment: Battle of the Wilderness | 164429 | [164429-rebel-reenactment-battle-of-the-wilderness.json](./164429-rebel-reenactment-battle-of-the-wilderness.json) |
 | Rebel Roar | 408736 | [408736-rebel-roar.json](./408736-rebel-roar.json) |
+| Rebel Runner: Operation - Digital Code | 209258 | [209258-rebel-runner-operation-digital-code.json](./209258-rebel-runner-operation-digital-code.json) |
 | Rebel Spirit! | 339156 | [339156-rebel-spirit.json](./339156-rebel-spirit.json) |
 | Rebel Supplies | 359451 | [359451-rebel-supplies.json](./359451-rebel-supplies.json) |
 | Rebel Tank Solo-Raid | 333131 | [333131-rebel-tank-solo-raid.json](./333131-rebel-tank-solo-raid.json) |
@@ -3299,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Baron Arcade | 21266 | [21266-red-baron-arcade.json](./21266-red-baron-arcade.json) |
 | Red Baron History | 9411 | [9411-red-baron-history.json](./9411-red-baron-history.json) |
 | Red Baron Pack | 30255 | [30255-red-baron-pack.json](./30255-red-baron-pack.json) |
+| Red Baron Squadron | 209253 | [209253-red-baron-squadron.json](./209253-red-baron-squadron.json) |
 | Red Baron: Mission Builder | 9224 | [9224-red-baron-mission-builder.json](./9224-red-baron-mission-builder.json) |
 | Red Barton and The Sky Pirates | 31052 | [31052-red-barton-and-the-sky-pirates.json](./31052-red-barton-and-the-sky-pirates.json) |
 | Red Bash | 187537 | [187537-red-bash.json](./187537-red-bash.json) |
@@ -3448,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Impact | 274302 | [274302-red-impact.json](./274302-red-impact.json) |
 | Red Imposter | 349926 | [349926-red-imposter.json](./349926-red-imposter.json) |
 | Red Island | 120393 | [120393-red-island.json](./120393-red-island.json) |
+| Red Jets | 209254 | [209254-red-jets.json](./209254-red-jets.json) |
 | Red Johnson's Chronicles: 1+2 - Steam Special Edition | 90489 | [90489-red-johnsons-chronicles-1-2-steam-special-edition.json](./90489-red-johnsons-chronicles-1-2-steam-special-edition.json) |
 | Red Johnson's Chronicles: One Against All | 25177 | [25177-red-johnsons-chronicles-one-against-all.json](./25177-red-johnsons-chronicles-one-against-all.json) |
 | Red Knight: Light RPG | 240677 | [240677-red-knight-light-rpg.json](./240677-red-knight-light-rpg.json) |
@@ -3758,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redrock | 270721 | [270721-redrock.json](./270721-redrock.json) |
 | Redroom | 367532 | [367532-redroom.json](./367532-redroom.json) |
 | ReDrop | 347773 | [347773-redrop.json](./347773-redrop.json) |
+| Redrum | 209255 | [209255-redrum.json](./209255-redrum.json) |
 | Redrum | 237269 | [237269-redrum.json](./237269-redrum.json) |
 | RedShift | 328963 | [328963-redshift.json](./328963-redshift.json) |
 | Redshift Blueshift | 35314 | [35314-redshift-blueshift.json](./35314-redshift-blueshift.json) |
@@ -8502,6 +8511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman X4 | 311025 | [311025-rockman-x4.json](./311025-rockman-x4.json) |
 | Rockman Xover | 64138 | [64138-rockman-xover.json](./64138-rockman-xover.json) |
 | Rockman Zero 3: Kaizou Card - Part 1 | 352613 | [352613-rockman-zero-3-kaizou-card-part-1.json](./352613-rockman-zero-3-kaizou-card-part-1.json) |
+| Rockman ZX Prequel | 209270 | [209270-rockman-zx-prequel.json](./209270-rockman-zx-prequel.json) |
 | Rockman.EXE Operate Shooting Star | 1774 | [1774-rockman-exe-operate-shooting-star.json](./1774-rockman-exe-operate-shooting-star.json) |
 | Rockmen R: Dr. Wily no Gyakushuu | 80225 | [80225-rockmen-r-dr-wily-no-gyakushuu.json](./80225-rockmen-r-dr-wily-no-gyakushuu.json) |
 | Rockmen R2: Dr. W*ly no Saiki!! | 137941 | [137941-rockmen-r2-dr-w-ly-no-saiki.json](./137941-rockmen-r2-dr-w-ly-no-saiki.json) |
