@@ -16100,6 +16100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azumi and the Vertical Slice | 257075 | [257075-azumi-and-the-vertical-slice.json](./257075-azumi-and-the-vertical-slice.json) |
 | Azur | 387953 | [387953-azur.json](./387953-azur.json) |
 | Azur & Asmar | 131863 | [131863-azur-and-asmar.json](./131863-azur-and-asmar.json) |
+| Azur Beam | 195354 | [195354-azur-beam.json](./195354-azur-beam.json) |
 | Azur Lane | 70708 | [70708-azur-lane.json](./70708-azur-lane.json) |
 | Azur Lane: Complete Deluxe Edition | 238327 | [238327-azur-lane-complete-deluxe-edition.json](./238327-azur-lane-complete-deluxe-edition.json) |
 | Azur Lane: Crosswave | 109475 | [109475-azur-lane-crosswave.json](./109475-azur-lane-crosswave.json) |
