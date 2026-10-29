@@ -2744,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Heroes | 167257 | [167257-realm-of-heroes.json](./167257-realm-of-heroes.json) |
 | Realm Of I | 291547 | [291547-realm-of-i.json](./291547-realm-of-i.json) |
 | Realm of Ink | 274368 | [274368-realm-of-ink.json](./274368-realm-of-ink.json) |
+| Realm of Khaos | 228040 | [228040-realm-of-khaos.json](./228040-realm-of-khaos.json) |
 | Realm of Mecha | 197324 | [197324-realm-of-mecha.json](./197324-realm-of-mecha.json) |
 | Realm of Mystery | 365288 | [365288-realm-of-mystery.json](./365288-realm-of-mystery.json) |
 | Realm of Night: The Forbidden Knowledge | 148307 | [148307-realm-of-night-the-forbidden-knowledge.json](./148307-realm-of-night-the-forbidden-knowledge.json) |
@@ -11078,6 +11079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush & Command | 137902 | [137902-rush-and-command.json](./137902-rush-and-command.json) |
 | Rush 2: Extreme Racing USA | 3593 | [3593-rush-2-extreme-racing-usa.json](./3593-rush-2-extreme-racing-usa.json) |
 | Rush and Blush | 333782 | [333782-rush-and-blush.json](./333782-rush-and-blush.json) |
+| Rush Arena | 228127 | [228127-rush-arena.json](./228127-rush-arena.json) |
 | Rush Back | 270680 | [270680-rush-back.json](./270680-rush-back.json) |
 | Rush Bros. | 10802 | [10802-rush-bros.json](./10802-rush-bros.json) |
 | Rush City | 270573 | [270573-rush-city.json](./270573-rush-city.json) |
