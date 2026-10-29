@@ -4094,6 +4094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epoch of Guardians | 339759 | [339759-epoch-of-guardians.json](./339759-epoch-of-guardians.json) |
 | Epoch of Love | 211778 | [211778-epoch-of-love.json](./211778-epoch-of-love.json) |
 | Epoch Reset | 380414 | [380414-epoch-reset.json](./380414-epoch-reset.json) |
+| Epoch Ultra | 216598 | [216598-epoch-ultra.json](./216598-epoch-ultra.json) |
 | Epoch Vault | 411293 | [411293-epoch-vault.json](./411293-epoch-vault.json) |
 | Epoch Wars | 64216 | [64216-epoch-wars.json](./64216-epoch-wars.json) |
 | Epoch-Man | 218322 | [218322-epoch-man.json](./218322-epoch-man.json) |
@@ -4891,6 +4892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Grid VR | 102350 | [102350-escape-the-grid-vr.json](./102350-escape-the-grid-vr.json) |
 | Escape the House | 413116 | [413116-escape-the-house.json](./413116-escape-the-house.json) |
 | Escape the Humans | 362409 | [362409-escape-the-humans.json](./362409-escape-the-humans.json) |
+| Escape the Huntsman | 216596 | [216596-escape-the-huntsman.json](./216596-escape-the-huntsman.json) |
 | Escape the Island | 128852 | [128852-escape-the-island.json](./128852-escape-the-island.json) |
 | Escape the Kreegan | 295226 | [295226-escape-the-kreegan.json](./295226-escape-the-kreegan.json) |
 | Escape the Lab | 126938 | [126938-escape-the-lab.json](./126938-escape-the-lab.json) |
