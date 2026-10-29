@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Party Games Collection | 378828 | [378828-12-party-games-collection.json](./378828-12-party-games-collection.json) |
 | 12 pm Break | 262992 | [262992-12-pm-break.json](./262992-12-pm-break.json) |
 | 12 Rounds Against Satan | 100913 | [100913-12-rounds-against-satan.json](./100913-12-rounds-against-satan.json) |
+| 12 Tails Online | 208758 | [208758-12-tails-online.json](./208758-12-tails-online.json) |
 | 12 Vengeful Ghosts | 305864 | [305864-12-vengeful-ghosts.json](./305864-12-vengeful-ghosts.json) |
 | 12 Word Searches | 381921 | [381921-12-word-searches.json](./381921-12-word-searches.json) |
 | 12-ji no Kane to Cinderella ~Halloween Wedding~ | 56552 | [56552-12-ji-no-kane-to-cinderella-halloween-wedding.json](./56552-12-ji-no-kane-to-cinderella-halloween-wedding.json) |
