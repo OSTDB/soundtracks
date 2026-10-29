@@ -698,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo | 388934 | [388934-echo.json](./388934-echo.json) |
 | Echo | 84104 | [84104-echo.json](./84104-echo.json) |
 | Echo 9 | 410936 | [410936-echo-9.json](./410936-echo-9.json) |
+| Echo Beach | 178233 | [178233-echo-beach.json](./178233-echo-beach.json) |
 | Echo Blade | 252308 | [252308-echo-blade.json](./252308-echo-blade.json) |
 | Echo Canyon Band | 417441 | [417441-echo-canyon-band.json](./417441-echo-canyon-band.json) |
 | Echo Chambers | 285508 | [285508-echo-chambers.json](./285508-echo-chambers.json) |
@@ -1308,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egao no Renkinjutsu | 238099 | [238099-egao-no-renkinjutsu.json](./238099-egao-no-renkinjutsu.json) |
 | Egawa Suguru no Super League CD | 46385 | [46385-egawa-suguru-no-super-league-cd.json](./46385-egawa-suguru-no-super-league-cd.json) |
 | Egbert | 85903 | [85903-egbert.json](./85903-egbert.json) |
+| Egdar's Blobs | 177673 | [177673-egdars-blobs.json](./177673-egdars-blobs.json) |
 | Eger | 200974 | [200974-eger.json](./200974-eger.json) |
 | Egg | 108799 | [108799-egg.json](./108799-egg.json) |
 | Egg | 231737 | [231737-egg.json](./231737-egg.json) |
