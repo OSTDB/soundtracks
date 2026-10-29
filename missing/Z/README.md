@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero to South | 418664 | [418664-zero-to-south.json](./418664-zero-to-south.json) |
 | Zero Tolerance | 315819 | [315819-zero-tolerance.json](./315819-zero-tolerance.json) |
 | Zero Tolerance | 46682 | [46682-zero-tolerance.json](./46682-zero-tolerance.json) |
+| Zero Tolerance Underground | 206495 | [206495-zero-tolerance-underground.json](./206495-zero-tolerance-underground.json) |
 | Zero Tours | 278098 | [278098-zero-tours.json](./278098-zero-tours.json) |
 | Zero Velocity | 176984 | [176984-zero-velocity.json](./176984-zero-velocity.json) |
 | Zero Visibility | 229506 | [229506-zero-visibility.json](./229506-zero-visibility.json) |
