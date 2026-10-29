@@ -5595,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Rally Racers | 201251 | [201251-hex-rally-racers.json](./201251-hex-rally-racers.json) |
 | Hex Shop | 398260 | [398260-hex-shop.json](./398260-hex-shop.json) |
 | Hex Slayer | 158115 | [158115-hex-slayer.json](./158115-hex-slayer.json) |
+| Hex Survivor | 210412 | [210412-hex-survivor.json](./210412-hex-survivor.json) |
 | Hex Tetris | 61331 | [61331-hex-tetris.json](./61331-hex-tetris.json) |
 | Hex Tower Boogie | 407836 | [407836-hex-tower-boogie.json](./407836-hex-tower-boogie.json) |
 | Hex Tunnel | 43070 | [43070-hex-tunnel.json](./43070-hex-tunnel.json) |
@@ -9127,6 +9128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot & Hentai: Gamer Etsuko | 324491 | [324491-hot-and-hentai-gamer-etsuko.json](./324491-hot-and-hentai-gamer-etsuko.json) |
 | Hot & Hentai: Garden Queen Shirayuki | 324492 | [324492-hot-and-hentai-garden-queen-shirayuki.json](./324492-hot-and-hentai-garden-queen-shirayuki.json) |
 | Hot & Lewd: Miami | 303568 | [303568-hot-and-lewd-miami.json](./303568-hot-and-lewd-miami.json) |
+| Hot & Steamy Knights | 210406 | [210406-hot-and-steamy-knights.json](./210406-hot-and-steamy-knights.json) |
 | Hot 21 | 238613 | [238613-hot-21.json](./238613-hot-21.json) |
 | Hot Action Pak | 56454 | [56454-hot-action-pak.json](./56454-hot-action-pak.json) |
 | Hot Air | 152908 | [152908-hot-air.json](./152908-hot-air.json) |
