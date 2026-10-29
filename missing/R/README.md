@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing: 4 Games on One Game Pak | 84175 | [84175-racing-4-games-on-one-game-pak.json](./84175-racing-4-games-on-one-game-pak.json) |
 | Racing: Breakthrough Gaming Arcade | 145668 | [145668-racing-breakthrough-gaming-arcade.json](./145668-racing-breakthrough-gaming-arcade.json) |
 | Racing: Breakthrough Gaming Arcade - 2 Player Cooperation Edition | 207059 | [207059-racing-breakthrough-gaming-arcade-2-player-cooperation-edition.json](./207059-racing-breakthrough-gaming-arcade-2-player-cooperation-edition.json) |
+| Racing: Breakthrough Gaming Arcade - 2 Player Cooperation Edition: Challenge Mode | 207061 | [207061-racing-breakthrough-gaming-arcade-2-player-cooperation-edition-challenge-mode.json](./207061-racing-breakthrough-gaming-arcade-2-player-cooperation-edition-challenge-mode.json) |
 | Racing: Breakthrough Gaming Arcade - 3 Player Cooperation Edition | 207057 | [207057-racing-breakthrough-gaming-arcade-3-player-cooperation-edition.json](./207057-racing-breakthrough-gaming-arcade-3-player-cooperation-edition.json) |
 | Racing: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 207055 | [207055-racing-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./207055-racing-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
 | Racing: Breakthrough Gaming Arcade - Challenge Mode Edition | 207052 | [207052-racing-breakthrough-gaming-arcade-challenge-mode-edition.json](./207052-racing-breakthrough-gaming-arcade-challenge-mode-edition.json) |
@@ -1139,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow | 196629 | [196629-rainbow.json](./196629-rainbow.json) |
 | Rainbow | 264558 | [264558-rainbow.json](./264558-rainbow.json) |
 | Rainbow | 359417 | [359417-rainbow.json](./359417-rainbow.json) |
+| Rainbow Advanced | 207108 | [207108-rainbow-advanced.json](./207108-rainbow-advanced.json) |
 | Rainbow Aliceland | 206725 | [206725-rainbow-aliceland.json](./206725-rainbow-aliceland.json) |
 | Rainbow Ascend: Anime Girls Go Up | 305619 | [305619-rainbow-ascend-anime-girls-go-up.json](./305619-rainbow-ascend-anime-girls-go-up.json) |
 | Rainbow Billy: The Book of Fears | 391844 | [391844-rainbow-billy-the-book-of-fears.json](./391844-rainbow-billy-the-book-of-fears.json) |
@@ -8173,6 +8175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Paper Scissors Champion | 33322 | [33322-rock-paper-scissors-champion.json](./33322-rock-paper-scissors-champion.json) |
 | Rock Paper Scissors Party | 391732 | [391732-rock-paper-scissors-party.json](./391732-rock-paper-scissors-party.json) |
 | Rock Paper Scissors: Breakthrough Gaming Arcade | 199781 | [199781-rock-paper-scissors-breakthrough-gaming-arcade.json](./199781-rock-paper-scissors-breakthrough-gaming-arcade.json) |
+| Rock Paper Scissors: Breakthrough Gaming Arcade - Challenge Mode Edition | 207073 | [207073-rock-paper-scissors-breakthrough-gaming-arcade-challenge-mode-edition.json](./207073-rock-paper-scissors-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Rock Paper Scissors: Extreme Deathmatch | 387956 | [387956-rock-paper-scissors-extreme-deathmatch.json](./387956-rock-paper-scissors-extreme-deathmatch.json) |
 | Rock Paper Scissors: The Final Match | 369705 | [369705-rock-paper-scissors-the-final-match.json](./369705-rock-paper-scissors-the-final-match.json) |
 | Rock Paper Scissors: The Roguelike Puzzle Game | 410207 | [410207-rock-paper-scissors-the-roguelike-puzzle-game.json](./410207-rock-paper-scissors-the-roguelike-puzzle-game.json) |
