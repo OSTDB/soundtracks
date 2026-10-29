@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Aces | 5426 | [5426-racing-aces.json](./5426-racing-aces.json) |
 | Racing angle | 123469 | [123469-racing-angle.json](./123469-racing-angle.json) |
 | Racing Apex | 58661 | [58661-racing-apex.json](./58661-racing-apex.json) |
+| Racing Battle: C1 Grand Prix | 216591 | [216591-racing-battle-c1-grand-prix.json](./216591-racing-battle-c1-grand-prix.json) |
 | Racing Beat | 40393 | [40393-racing-beat.json](./40393-racing-beat.json) |
 | Racing Bros | 135604 | [135604-racing-bros.json](./135604-racing-bros.json) |
 | Racing Bros: Mafias Revenge | 308326 | [308326-racing-bros-mafias-revenge.json](./308326-racing-bros-mafias-revenge.json) |
@@ -9550,6 +9551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Map | 254937 | [254937-room-map.json](./254937-room-map.json) |
 | Room No. 9 | 156575 | [156575-room-no-9.json](./156575-room-no-9.json) |
 | Room of 1000 Snakes | 62436 | [62436-room-of-1000-snakes.json](./62436-room-of-1000-snakes.json) |
+| Room of Depression | 216572 | [216572-room-of-depression.json](./216572-room-of-depression.json) |
 | Room of Doom | 18533 | [18533-room-of-doom.json](./18533-room-of-doom.json) |
 | Room of Halloween | 229153 | [229153-room-of-halloween.json](./229153-room-of-halloween.json) |
 | Room of Roilands | 177501 | [177501-room-of-roilands.json](./177501-room-of-roilands.json) |
@@ -9668,6 +9670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roots of Tomorrow: Additional Characters | 201097 | [201097-roots-of-tomorrow-additional-characters.json](./201097-roots-of-tomorrow-additional-characters.json) |
 | Roots of Tomorrow: Beekeeping | 201098 | [201098-roots-of-tomorrow-beekeeping.json](./201098-roots-of-tomorrow-beekeeping.json) |
 | Roots of Tomorrow: Urban Agriculture | 244361 | [244361-roots-of-tomorrow-urban-agriculture.json](./244361-roots-of-tomorrow-urban-agriculture.json) |
+| Roots of Yggdrasil | 216593 | [216593-roots-of-yggdrasil.json](./216593-roots-of-yggdrasil.json) |
 | Rop | 79183 | [79183-rop.json](./79183-rop.json) |
 | RoPan | 280082 | [280082-ropan.json](./280082-ropan.json) |
 | Rope | 138809 | [138809-rope.json](./138809-rope.json) |
