@@ -1017,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZIC: Survival | 119815 | [119815-zic-survival.json](./119815-zic-survival.json) |
 | ZIC: Zombies in City | 118208 | [118208-zic-zombies-in-city.json](./118208-zic-zombies-in-city.json) |
 | Zico Soccer | 42348 | [42348-zico-soccer.json](./42348-zico-soccer.json) |
+| Zid Journey | 212065 | [212065-zid-journey.json](./212065-zid-journey.json) |
 | Zidane: Football Generation | 144652 | [144652-zidane-football-generation.json](./144652-zidane-football-generation.json) |
 | Zidane: Football Generation 2002 | 49351 | [49351-zidane-football-generation-2002.json](./49351-zidane-football-generation-2002.json) |
 | ZiDouQianWen | 287677 | [287677-zidouqianwen.json](./287677-zidouqianwen.json) |
@@ -1728,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombieland: Double Tap - Road Trip | 121232 | [121232-zombieland-double-tap-road-trip.json](./121232-zombieland-double-tap-road-trip.json) |
 | Zombieland: Headshot Fever - Reloaded | 239423 | [239423-zombieland-headshot-fever-reloaded.json](./239423-zombieland-headshot-fever-reloaded.json) |
 | Zombieland: Survivors | 297758 | [297758-zombieland-survivors.json](./297758-zombieland-survivors.json) |
+| Zombielantis | 212070 | [212070-zombielantis.json](./212070-zombielantis.json) |
 | Zombiemachia | 345404 | [345404-zombiemachia.json](./345404-zombiemachia.json) |
 | Zombieman | 416955 | [416955-zombieman.json](./416955-zombieman.json) |
 | Zombieman 2 | 416956 | [416956-zombieman-2.json](./416956-zombieman-2.json) |
