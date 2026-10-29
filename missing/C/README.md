@@ -16785,6 +16785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubes and More Cubes | 180221 | [180221-cubes-and-more-cubes.json](./180221-cubes-and-more-cubes.json) |
 | Cubes Control | 256167 | [256167-cubes-control.json](./256167-cubes-control.json) |
 | Cubes Crush Legend | 174819 | [174819-cubes-crush-legend.json](./174819-cubes-crush-legend.json) |
+| Cubes of Death | 190326 | [190326-cubes-of-death.json](./190326-cubes-of-death.json) |
 | Cubes on the floor | 176161 | [176161-cubes-on-the-floor.json](./176161-cubes-on-the-floor.json) |
 | Cubes Problem | 347102 | [347102-cubes-problem.json](./347102-cubes-problem.json) |
 | Cubes: Procedural Wonders | 240339 | [240339-cubes-procedural-wonders.json](./240339-cubes-procedural-wonders.json) |
@@ -17382,6 +17383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Profit | 340600 | [340600-cursed-profit.json](./340600-cursed-profit.json) |
 | Cursed Puppetry | 114314 | [114314-cursed-puppetry.json](./114314-cursed-puppetry.json) |
 | Cursed Queen : Wicked Witch | 105371 | [105371-cursed-queen-wicked-witch.json](./105371-cursed-queen-wicked-witch.json) |
+| Cursed Quest | 190354 | [190354-cursed-quest.json](./190354-cursed-quest.json) |
 | Cursed Realm | 258722 | [258722-cursed-realm.json](./258722-cursed-realm.json) |
 | Cursed Realms: Path Over The Abyss | 262302 | [262302-cursed-realms-path-over-the-abyss.json](./262302-cursed-realms-path-over-the-abyss.json) |
 | Cursed Roots | 36507 | [36507-cursed-roots.json](./36507-cursed-roots.json) |
