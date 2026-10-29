@@ -2956,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Kawai | 97837 | [97837-welcome-to-the-kawai.json](./97837-welcome-to-the-kawai.json) |
 | Welcome to the Polyverse | 150518 | [150518-welcome-to-the-polyverse.json](./150518-welcome-to-the-polyverse.json) |
 | Welcome to the Ungdung Cafe | 337046 | [337046-welcome-to-the-ungdung-cafe.json](./337046-welcome-to-the-ungdung-cafe.json) |
+| Welcome to the World of Zippy the Circle: Visual Novel | 228764 | [228764-welcome-to-the-world-of-zippy-the-circle-visual-novel.json](./228764-welcome-to-the-world-of-zippy-the-circle-visual-novel.json) |
 | Welcome to the World of ZJ the Ball | 215121 | [215121-welcome-to-the-world-of-zj-the-ball.json](./215121-welcome-to-the-world-of-zj-the-ball.json) |
 | Welcome to the Yokai Inn | 298924 | [298924-welcome-to-the-yokai-inn.json](./298924-welcome-to-the-yokai-inn.json) |
 | Welcome to Victorville | 419641 | [419641-welcome-to-victorville.json](./419641-welcome-to-victorville.json) |
@@ -5044,6 +5045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wine Tycoon | 201074 | [201074-wine-tycoon.json](./201074-wine-tycoon.json) |
 | Winery Simulator | 216836 | [216836-winery-simulator.json](./216836-winery-simulator.json) |
 | WinFish 3 - Fly Fishing | 129767 | [129767-winfish-3-fly-fishing.json](./129767-winfish-3-fly-fishing.json) |
+| Winfray | 228750 | [228750-winfray.json](./228750-winfray.json) |
 | Wing | 202164 | [202164-wing.json](./202164-wing.json) |
 | Wing Arms | 19720 | [19720-wing-arms.json](./19720-wing-arms.json) |
 | Wing Breakers | 180305 | [180305-wing-breakers.json](./180305-wing-breakers.json) |
@@ -6308,6 +6310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderful mini golf | 175301 | [175301-wonderful-mini-golf.json](./175301-wonderful-mini-golf.json) |
 | Wonderful Monsters: The Flower Crossing | 332363 | [332363-wonderful-monsters-the-flower-crossing.json](./332363-wonderful-monsters-the-flower-crossing.json) |
 | Wonderful Neoran Valley | 393100 | [393100-wonderful-neoran-valley.json](./393100-wonderful-neoran-valley.json) |
+| Wonderful Pink | 228757 | [228757-wonderful-pink.json](./228757-wonderful-pink.json) |
 | Wonderful Purgatory | 369228 | [369228-wonderful-purgatory.json](./369228-wonderful-purgatory.json) |
 | Wonderful Waking World | 203873 | [203873-wonderful-waking-world.json](./203873-wonderful-waking-world.json) |
 | Wonderful Wizard Reverie | 415892 | [415892-wonderful-wizard-reverie.json](./415892-wonderful-wizard-reverie.json) |
