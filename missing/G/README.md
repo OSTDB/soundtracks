@@ -9624,6 +9624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunkour | 150085 | [150085-gunkour.json](./150085-gunkour.json) |
 | Gunless | 84262 | [84262-gunless.json](./84262-gunless.json) |
 | GunLives Shooting | 241808 | [241808-gunlives-shooting.json](./241808-gunlives-shooting.json) |
+| Gunlocked | 199248 | [199248-gunlocked.json](./199248-gunlocked.json) |
 | Gunlocked 2 | 334208 | [334208-gunlocked-2.json](./334208-gunlocked-2.json) |
 | Gunlocked: The 2nd Gunning | 238464 | [238464-gunlocked-the-2nd-gunning.json](./238464-gunlocked-the-2nd-gunning.json) |
 | Gunlok | 25008 | [25008-gunlok.json](./25008-gunlok.json) |
