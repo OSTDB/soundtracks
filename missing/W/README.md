@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WatanOS | 208572 | [208572-watanos.json](./208572-watanos.json) |
 | Wataoma Extra | 97668 | [97668-wataoma-extra.json](./97668-wataoma-extra.json) |
 | Wataru no Pinball | 284451 | [284451-wataru-no-pinball.json](./284451-wataru-no-pinball.json) |
+| Watashi Dake Ireba Mondainai Yo Ne | 222066 | [222066-watashi-dake-ireba-mondainai-yo-ne.json](./222066-watashi-dake-ireba-mondainai-yo-ne.json) |
 | Watashi ga Sekai wo Sukutta Hi | 408584 | [408584-watashi-ga-sekai-wo-sukutta-hi.json](./408584-watashi-ga-sekai-wo-sukutta-hi.json) |
 | Watashi ha Joyuu ni Naritai no | 202137 | [202137-watashi-ha-joyuu-ni-naritai-no.json](./202137-watashi-ha-joyuu-ni-naritai-no.json) |
 | Watashi Koso ga Gakuen no Joou-sama | 296192 | [296192-watashi-koso-ga-gakuen-no-joou-sama.json](./296192-watashi-koso-ga-gakuen-no-joou-sama.json) |
