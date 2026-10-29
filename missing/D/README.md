@@ -1660,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Solitaire: Search for a Cure | 386139 | [386139-dark-solitaire-search-for-a-cure.json](./386139-dark-solitaire-search-for-a-cure.json) |
 | Dark Soul.Ace 2 | 341843 | [341843-dark-soul-ace-2.json](./341843-dark-soul-ace-2.json) |
 | Dark Souls Ascended | 194889 | [194889-dark-souls-ascended.json](./194889-dark-souls-ascended.json) |
+| Dark Souls II: Black Armor Edition | 222664 | [222664-dark-souls-ii-black-armor-edition.json](./222664-dark-souls-ii-black-armor-edition.json) |
 | Dark Souls II: Crown of the Old Iron King | 22502 | [22502-dark-souls-ii-crown-of-the-old-iron-king.json](./22502-dark-souls-ii-crown-of-the-old-iron-king.json) |
 | Dark Souls II: Crown of the Sunken King | 19924 | [19924-dark-souls-ii-crown-of-the-sunken-king.json](./19924-dark-souls-ii-crown-of-the-sunken-king.json) |
 | Dark Souls II: Seeker of Fire | 238899 | [238899-dark-souls-ii-seeker-of-fire.json](./238899-dark-souls-ii-seeker-of-fire.json) |
@@ -3917,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Imminent | 379014 | [379014-death-imminent.json](./379014-death-imminent.json) |
 | Death in a Party | 381738 | [381738-death-in-a-party.json](./381738-death-in-a-party.json) |
 | Death In Abyss | 247609 | [247609-death-in-abyss.json](./247609-death-in-abyss.json) |
+| Death in Excess | 222623 | [222623-death-in-excess.json](./222623-death-in-excess.json) |
 | Death in the Bunker | 224555 | [224555-death-in-the-bunker.json](./224555-death-in-the-bunker.json) |
 | Death in the Caribbean | 23243 | [23243-death-in-the-caribbean.json](./23243-death-in-the-caribbean.json) |
 | Death in the Manor | 375227 | [375227-death-in-the-manor.json](./375227-death-in-the-manor.json) |
@@ -9300,6 +9302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disorient on The Murder Express | 200941 | [200941-disorient-on-the-murder-express.json](./200941-disorient-on-the-murder-express.json) |
 | Disoriented | 76212 | [76212-disoriented.json](./76212-disoriented.json) |
 | Disown95 | 393753 | [393753-disown95.json](./393753-disown95.json) |
+| Disparate Realities | 222621 | [222621-disparate-realities.json](./222621-disparate-realities.json) |
 | Disparity | 68495 | [68495-disparity.json](./68495-disparity.json) |
 | Dispatch | 339997 | [339997-dispatch.json](./339997-dispatch.json) |
 | Dispatch Madness | 289262 | [289262-dispatch-madness.json](./289262-dispatch-madness.json) |
