@@ -2118,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Duels | 414390 | [414390-dash-duels.json](./414390-dash-duels.json) |
 | Dash Fleet | 29626 | [29626-dash-fleet.json](./29626-dash-fleet.json) |
 | Dash For Your Life | 257911 | [257911-dash-for-your-life.json](./257911-dash-for-your-life.json) |
+| Dash FPS | 211515 | [211515-dash-fps.json](./211515-dash-fps.json) |
 | Dash Galactic | 58094 | [58094-dash-galactic.json](./58094-dash-galactic.json) |
 | Dash Galaxy in the Alien Asylum | 48140 | [48140-dash-galaxy-in-the-alien-asylum.json](./48140-dash-galaxy-in-the-alien-asylum.json) |
 | Dash Hale | 143377 | [143377-dash-hale.json](./143377-dash-hale.json) |
@@ -2545,6 +2546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the dead | 243675 | [243675-day-of-the-dead.json](./243675-day-of-the-dead.json) |
 | Day of the Dead: Solitaire Collection | 161362 | [161362-day-of-the-dead-solitaire-collection.json](./161362-day-of-the-dead-solitaire-collection.json) |
 | Day of the Dimetrodon | 168382 | [168382-day-of-the-dimetrodon.json](./168382-day-of-the-dimetrodon.json) |
+| Day of the Dino Survival | 211558 | [211558-day-of-the-dino-survival.json](./211558-day-of-the-dino-survival.json) |
 | Day of the Hamster | 304068 | [304068-day-of-the-hamster.json](./304068-day-of-the-hamster.json) |
 | Day of the Infected | 112510 | [112510-day-of-the-infected.json](./112510-day-of-the-infected.json) |
 | Day of the Lords | 271056 | [271056-day-of-the-lords.json](./271056-day-of-the-lords.json) |
@@ -4254,6 +4256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debug Nephemee | 397997 | [397997-debug-nephemee.json](./397997-debug-nephemee.json) |
 | Debugger 3.16: Recoded - Despair of the Developer Edition | 380127 | [380127-debugger-3-16-recoded-despair-of-the-developer-edition.json](./380127-debugger-3-16-recoded-despair-of-the-developer-edition.json) |
 | Debugger 4406 | 187218 | [187218-debugger-4406.json](./187218-debugger-4406.json) |
+| Debugger Recoded | 211564 | [211564-debugger-recoded.json](./211564-debugger-recoded.json) |
 | Debugging Hero | 351164 | [351164-debugging-hero.json](./351164-debugging-hero.json) |
 | Deca Sports 3 | 20699 | [20699-deca-sports-3.json](./20699-deca-sports-3.json) |
 | Deca Sports Extreme | 6755 | [6755-deca-sports-extreme.json](./6755-deca-sports-extreme.json) |
@@ -5512,6 +5515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolish & Build | 135607 | [135607-demolish-and-build.json](./135607-demolish-and-build.json) |
 | Demolish & Build 2017 | 24941 | [24941-demolish-and-build-2017.json](./24941-demolish-and-build-2017.json) |
 | Demolish & Build 2018 | 90102 | [90102-demolish-and-build-2018.json](./90102-demolish-and-build-2018.json) |
+| Demolish & Build 3: Excavator Playground | 211557 | [211557-demolish-and-build-3-excavator-playground.json](./211557-demolish-and-build-3-excavator-playground.json) |
 | Demolish & Build Classic | 231580 | [231580-demolish-and-build-classic.json](./231580-demolish-and-build-classic.json) |
 | Demolish Derby: Nitro-Battle | 219471 | [219471-demolish-derby-nitro-battle.json](./219471-demolish-derby-nitro-battle.json) |
 | Demolish Fist | 39445 | [39445-demolish-fist.json](./39445-demolish-fist.json) |
@@ -6973,6 +6977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devestor | 375808 | [375808-devestor.json](./375808-devestor.json) |
 | Devexus | 199343 | [199343-devexus.json](./199343-devexus.json) |
 | Devi & Pii | 215752 | [215752-devi-and-pii.json](./215752-devi-and-pii.json) |
+| Devi: A light in the Dark | 211523 | [211523-devi-a-light-in-the-dark.json](./211523-devi-a-light-in-the-dark.json) |
 | Deviant Anomalies | 240956 | [240956-deviant-anomalies.json](./240956-deviant-anomalies.json) |
 | Deviant Dungeon | 127931 | [127931-deviant-dungeon.json](./127931-deviant-dungeon.json) |
 | Deviation from Way | 190025 | [190025-deviation-from-way.json](./190025-deviation-from-way.json) |
@@ -7497,6 +7502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Puzzle | 40645 | [40645-dice-puzzle.json](./40645-dice-puzzle.json) |
 | Dice Quest | 226749 | [226749-dice-quest.json](./226749-dice-quest.json) |
 | Dice Rogues | 406120 | [406120-dice-rogues.json](./406120-dice-rogues.json) |
+| Dice Roller VR | 211556 | [211556-dice-roller-vr.json](./211556-dice-roller-vr.json) |
 | Dice Rollers | 142273 | [142273-dice-rollers.json](./142273-dice-rollers.json) |
 | Dice Saga | 364964 | [364964-dice-saga.json](./364964-dice-saga.json) |
 | Dice Strategy | 319742 | [319742-dice-strategy.json](./319742-dice-strategy.json) |
@@ -10133,6 +10139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Does not Commute | 59294 | [59294-does-not-commute.json](./59294-does-not-commute.json) |
 | Does The Moon Dream | 363054 | [363054-does-the-moon-dream.json](./363054-does-the-moon-dream.json) |
 | Dofbox | 397178 | [397178-dofbox.json](./397178-dofbox.json) |
+| Dofense | 211547 | [211547-dofense.json](./211547-dofense.json) |
 | Dofus | 18337 | [18337-dofus.json](./18337-dofus.json) |
 | Dofus Émeraude | 110307 | [110307-dofus-emeraude.json](./110307-dofus-emeraude.json) |
 | Dofus Pets | 56165 | [56165-dofus-pets.json](./56165-dofus-pets.json) |
@@ -14500,6 +14507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driftland: The Magic Revival | 69455 | [69455-driftland-the-magic-revival.json](./69455-driftland-the-magic-revival.json) |
 | Driftline Peaks | 360023 | [360023-driftline-peaks.json](./360023-driftline-peaks.json) |
 | Driftmania | 287360 | [287360-driftmania.json](./287360-driftmania.json) |
+| Driftmaster | 211537 | [211537-driftmaster.json](./211537-driftmaster.json) |
 | Driftmoon | 8205 | [8205-driftmoon.json](./8205-driftmoon.json) |
 | Drifto | 244103 | [244103-drifto.json](./244103-drifto.json) |
 | Drifto: Infinite Touge | 305914 | [305914-drifto-infinite-touge.json](./305914-drifto-infinite-touge.json) |
@@ -15659,6 +15667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dung Slinger | 410342 | [410342-dung-slinger.json](./410342-dung-slinger.json) |
 | Dungelot | 22161 | [22161-dungelot.json](./22161-dungelot.json) |
 | Dungemon | 339930 | [339930-dungemon.json](./339930-dungemon.json) |
+| Dungems | 211513 | [211513-dungems.json](./211513-dungems.json) |
 | Dungen | 169436 | [169436-dungen.json](./169436-dungen.json) |
 | Dungene | 217354 | [217354-dungene.json](./217354-dungene.json) |
 | Dungenious | 187782 | [187782-dungenious.json](./187782-dungenious.json) |
@@ -16652,6 +16661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Land | 284905 | [284905-dwarf-land.json](./284905-dwarf-land.json) |
 | Dwarf Legacy | 338297 | [338297-dwarf-legacy.json](./338297-dwarf-legacy.json) |
 | Dwarf Looter | 274030 | [274030-dwarf-looter.json](./274030-dwarf-looter.json) |
+| Dwarf Prison | 211546 | [211546-dwarf-prison.json](./211546-dwarf-prison.json) |
 | Dwarf Quest | 50835 | [50835-dwarf-quest.json](./50835-dwarf-quest.json) |
 | Dwarf Slayer | 149502 | [149502-dwarf-slayer.json](./149502-dwarf-slayer.json) |
 | Dwarf Swordsman | 110160 | [110160-dwarf-swordsman.json](./110160-dwarf-swordsman.json) |
