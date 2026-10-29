@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Rarely Go Outside | 178934 | [178934-i-rarely-go-outside.json](./178934-i-rarely-go-outside.json) |
 | I Read a Post Online about Monarch Butterflies | 247456 | [247456-i-read-a-post-online-about-monarch-butterflies.json](./247456-i-read-a-post-online-about-monarch-butterflies.json) |
 | I Remember | 240643 | [240643-i-remember.json](./240643-i-remember.json) |
+| I Remember It All | 185288 | [185288-i-remember-it-all.json](./185288-i-remember-it-all.json) |
 | I Remember the Light | 152864 | [152864-i-remember-the-light.json](./152864-i-remember-the-light.json) |
 | I Remember the Rain | 223669 | [223669-i-remember-the-rain.json](./223669-i-remember-the-rain.json) |
 | I Remember This Dream | 314905 | [314905-i-remember-this-dream.json](./314905-i-remember-this-dream.json) |
@@ -4524,6 +4525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into Black | 319608 | [319608-into-black.json](./319608-into-black.json) |
 | Into Evil | 217470 | [217470-into-evil.json](./217470-into-evil.json) |
 | Into Hell | 261179 | [261179-into-hell.json](./261179-into-hell.json) |
+| Into King Rabbit's Mansion | 185295 | [185295-into-king-rabbits-mansion.json](./185295-into-king-rabbits-mansion.json) |
 | Into Magicland | 45342 | [45342-into-magicland.json](./45342-into-magicland.json) |
 | Into Oblivion | 301586 | [301586-into-oblivion.json](./301586-into-oblivion.json) |
 | Into Oblivion | 46748 | [46748-into-oblivion.json](./46748-into-oblivion.json) |
