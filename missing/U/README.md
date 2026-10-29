@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead vs. Plants | 18120 | [18120-undead-vs-plants.json](./18120-undead-vs-plants.json) |
 | Undead West | 269587 | [269587-undead-west.json](./269587-undead-west.json) |
 | Undead Wilderness | 257257 | [257257-undead-wilderness.json](./257257-undead-wilderness.json) |
+| Undead World | 226488 | [226488-undead-world.json](./226488-undead-world.json) |
 | Undead World Order | 415844 | [415844-undead-world-order.json](./415844-undead-world-order.json) |
 | Undead zombies | 127765 | [127765-undead-zombies.json](./127765-undead-zombies.json) |
 | Undead Zone | 241828 | [241828-undead-zone.json](./241828-undead-zone.json) |
@@ -2707,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up | 360706 | [360706-up.json](./360706-up.json) |
 | Up | 5254 | [5254-up.json](./5254-up.json) |
 | Up ' N ' Up: Mountain Express | 400846 | [400846-up-n-up-mountain-express.json](./400846-up-n-up-mountain-express.json) |
+| Up & Away | 226490 | [226490-up-and-away.json](./226490-up-and-away.json) |
 | Up & Down | 312568 | [312568-up-and-down.json](./312568-up-and-down.json) |
 | Up 1 Way | 371344 | [371344-up-1-way.json](./371344-up-1-way.json) |
 | UP 9 - Hexa Puzzle! | 100653 | [100653-up-9-hexa-puzzle.json](./100653-up-9-hexa-puzzle.json) |
