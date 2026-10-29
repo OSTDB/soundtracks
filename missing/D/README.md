@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Reign: The Future of War - Rise of the Shadowhand | 658 | [658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json](./658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json) |
 | Dark Resolve | 358238 | [358238-dark-resolve.json](./358238-dark-resolve.json) |
 | Dark Return | 364016 | [364016-dark-return.json](./364016-dark-return.json) |
+| Dark Riddle | 227538 | [227538-dark-riddle.json](./227538-dark-riddle.json) |
 | Dark Ride Escape | 310577 | [310577-dark-ride-escape.json](./310577-dark-ride-escape.json) |
 | Dark Rift | 3468 | [3468-dark-rift.json](./3468-dark-rift.json) |
 | Dark Rising | 72482 | [72482-dark-rising.json](./72482-dark-rising.json) |
@@ -4159,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathrun | 276214 | [276214-deathrun.json](./276214-deathrun.json) |
 | Deathrun | 361030 | [361030-deathrun.json](./361030-deathrun.json) |
 | Deathrun Guys | 215176 | [215176-deathrun-guys.json](./215176-deathrun-guys.json) |
+| DeathRun Portable | 227530 | [227530-deathrun-portable.json](./227530-deathrun-portable.json) |
 | Deathrun TV | 152284 | [152284-deathrun-tv.json](./152284-deathrun-tv.json) |
 | Deaths Dawn | 380764 | [380764-deaths-dawn.json](./380764-deaths-dawn.json) |
 | Deaths of Peck | 398425 | [398425-deaths-of-peck.json](./398425-deaths-of-peck.json) |
