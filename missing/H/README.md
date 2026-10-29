@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakunetsu Pro Yakyuu Ganba League '93 | 38174 | [38174-hakunetsu-pro-yakyuu-ganba-league-93.json](./38174-hakunetsu-pro-yakyuu-ganba-league-93.json) |
 | Hakuoki Ibun: Berezinskii no Majo | 287896 | [287896-hakuoki-ibun-berezinskii-no-majo.json](./287896-hakuoki-ibun-berezinskii-no-majo.json) |
 | Hakuoki Kaikoroku | 163340 | [163340-hakuoki-kaikoroku.json](./163340-hakuoki-kaikoroku.json) |
+| Hakuoki Shinkai Reimeiroku | 192025 | [192025-hakuoki-shinkai-reimeiroku.json](./192025-hakuoki-shinkai-reimeiroku.json) |
 | Hakuoki Shinkai: Ginsei no Shou | 136838 | [136838-hakuoki-shinkai-ginsei-no-shou.json](./136838-hakuoki-shinkai-ginsei-no-shou.json) |
 | Hakuoki Shinkai: Ten'un no Shou | 221222 | [221222-hakuoki-shinkai-tenun-no-shou.json](./221222-hakuoki-shinkai-tenun-no-shou.json) |
 | Hakuoki Shinkai: Tsukikage no Shou | 148247 | [148247-hakuoki-shinkai-tsukikage-no-shou.json](./148247-hakuoki-shinkai-tsukikage-no-shou.json) |
@@ -2212,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku Amiguru Jump | 228454 | [228454-hatsune-miku-amiguru-jump.json](./228454-hatsune-miku-amiguru-jump.json) |
 | Hatsune Miku and Future Stars: Project Mirai | 6805 | [6805-hatsune-miku-and-future-stars-project-mirai.json](./6805-hatsune-miku-and-future-stars-project-mirai.json) |
 | Hatsune Miku Bomb Squad! | 312961 | [312961-hatsune-miku-bomb-squad.json](./312961-hatsune-miku-bomb-squad.json) |
+| Hatsune Miku Connecting Puzzle Tamagotori | 192035 | [192035-hatsune-miku-connecting-puzzle-tamagotori.json](./192035-hatsune-miku-connecting-puzzle-tamagotori.json) |
 | Hatsune Miku Connecting Puzzle Tamagotori: Kagamine Rin / Len Happy 14th Birthday | 213300 | [213300-hatsune-miku-connecting-puzzle-tamagotori-kagamine-rin-len-happy-14th-birthday.json](./213300-hatsune-miku-connecting-puzzle-tamagotori-kagamine-rin-len-happy-14th-birthday.json) |
 | Hatsune Miku Connecting Puzzle Tamagotori: Snow Miku 2022 | 213223 | [213223-hatsune-miku-connecting-puzzle-tamagotori-snow-miku-2022.json](./213223-hatsune-miku-connecting-puzzle-tamagotori-snow-miku-2022.json) |
 | Hatsune Miku Jigsaw Puzzle | 194617 | [194617-hatsune-miku-jigsaw-puzzle.json](./194617-hatsune-miku-jigsaw-puzzle.json) |
@@ -6435,6 +6437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Target | 54090 | [54090-hidden-target.json](./54090-hidden-target.json) |
 | Hidden Tavern Top-Down 3D | 193656 | [193656-hidden-tavern-top-down-3d.json](./193656-hidden-tavern-top-down-3d.json) |
 | Hidden Temple Adventure | 248650 | [248650-hidden-temple-adventure.json](./248650-hidden-temple-adventure.json) |
+| Hidden Theft | 192056 | [192056-hidden-theft.json](./192056-hidden-theft.json) |
 | Hidden Things Beach Elves | 397210 | [397210-hidden-things-beach-elves.json](./397210-hidden-things-beach-elves.json) |
 | Hidden Things Forest Elves | 348816 | [348816-hidden-things-forest-elves.json](./348816-hidden-things-forest-elves.json) |
 | Hidden Threats | 95323 | [95323-hidden-threats.json](./95323-hidden-threats.json) |
@@ -10409,6 +10412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Adventurer | 248013 | [248013-hungry-adventurer.json](./248013-hungry-adventurer.json) |
 | Hungry Animals | 196675 | [196675-hungry-animals.json](./196675-hungry-animals.json) |
 | Hungry Baby: Party Treats! | 118667 | [118667-hungry-baby-party-treats.json](./118667-hungry-baby-party-treats.json) |
+| Hungry Ball Physics | 192045 | [192045-hungry-ball-physics.json](./192045-hungry-ball-physics.json) |
 | Hungry Birds | 187889 | [187889-hungry-birds.json](./187889-hungry-birds.json) |
 | Hungry Black Hole | 28106 | [28106-hungry-black-hole.json](./28106-hungry-black-hole.json) |
 | Hungry Boy | 135725 | [135725-hungry-boy.json](./135725-hungry-boy.json) |
