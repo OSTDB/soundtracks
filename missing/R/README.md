@@ -4252,6 +4252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Hunters Legend | 72497 | [72497-relic-hunters-legend.json](./72497-relic-hunters-legend.json) |
 | Relic Hunters Zero | 12301 | [12301-relic-hunters-zero.json](./12301-relic-hunters-zero.json) |
 | Relic Hunters Zero: Remix | 129846 | [129846-relic-hunters-zero-remix.json](./129846-relic-hunters-zero-remix.json) |
+| Relic Hunters: Rebels | 200309 | [200309-relic-hunters-rebels.json](./200309-relic-hunters-rebels.json) |
 | Relic Keepers | 55618 | [55618-relic-keepers.json](./55618-relic-keepers.json) |
 | Relic Light | 353753 | [353753-relic-light.json](./353753-relic-light.json) |
 | Relic Odyssey: Ruins Of Xantao | 259176 | [259176-relic-odyssey-ruins-of-xantao.json](./259176-relic-odyssey-ruins-of-xantao.json) |
@@ -5320,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Jam 1 | 271217 | [271217-retro-jam-1.json](./271217-retro-jam-1.json) |
 | Retro Jam 4 | 322278 | [322278-retro-jam-4.json](./322278-retro-jam-4.json) |
 | Retro Kart | 234205 | [234205-retro-kart.json](./234205-retro-kart.json) |
+| Retro Karting 22 | 199732 | [199732-retro-karting-22.json](./199732-retro-karting-22.json) |
 | Retro League Racing | 296530 | [296530-retro-league-racing.json](./296530-retro-league-racing.json) |
 | Retro Life | 239785 | [239785-retro-life.json](./239785-retro-life.json) |
 | Retro Machina | 116020 | [116020-retro-machina.json](./116020-retro-machina.json) |
