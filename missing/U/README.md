@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Void | 402985 | [402985-ultra-void.json](./402985-ultra-void.json) |
 | Ultra Vortek | 40822 | [40822-ultra-vortek.json](./40822-ultra-vortek.json) |
 | Ultra Vortex | 78986 | [78986-ultra-vortex.json](./78986-ultra-vortex.json) |
+| Ultra Wheels Street Jam | 208761 | [208761-ultra-wheels-street-jam.json](./208761-ultra-wheels-street-jam.json) |
 | Ultra X-Treme Hunting Simulator 2001 | 338595 | [338595-ultra-x-treme-hunting-simulator-2001.json](./338595-ultra-x-treme-hunting-simulator-2001.json) |
 | Ultra Yon-nin Mahjong | 77128 | [77128-ultra-yon-nin-mahjong.json](./77128-ultra-yon-nin-mahjong.json) |
 | Ultra Zultra | 175199 | [175199-ultra-zultra.json](./175199-ultra-zultra.json) |
