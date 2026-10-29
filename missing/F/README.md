@@ -1963,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantoccini | 148281 | [148281-fantoccini.json](./148281-fantoccini.json) |
 | Fantom Feast | 112928 | [112928-fantom-feast.json](./112928-fantom-feast.json) |
 | Fantomas | 313250 | [313250-fantomas.json](./313250-fantomas.json) |
+| Fantome | 210983 | [210983-fantome.json](./210983-fantome.json) |
 | FantômeRapport: Intermezzo | 406101 | [406101-fantomerapport-intermezzo.json](./406101-fantomerapport-intermezzo.json) |
 | FanTris | 108072 | [108072-fantris.json](./108072-fantris.json) |
 | Fap & Cum | 235279 | [235279-fap-and-cum.json](./235279-fap-and-cum.json) |
@@ -2669,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastest 1 | 122854 | [122854-fastest-1.json](./122854-fastest-1.json) |
 | Fastest Cashier | 337057 | [337057-fastest-cashier.json](./337057-fastest-cashier.json) |
 | Fastest Dialler | 105027 | [105027-fastest-dialler.json](./105027-fastest-dialler.json) |
+| Fastest Fantasy Life Simulator | 211022 | [211022-fastest-fantasy-life-simulator.json](./211022-fastest-fantasy-life-simulator.json) |
 | Fastest Finger First! 3 Hint Quiz | 283287 | [283287-fastest-finger-first-3-hint-quiz.json](./283287-fastest-finger-first-3-hint-quiz.json) |
 | Fastest Hands in the Wasd | 167922 | [167922-fastest-hands-in-the-wasd.json](./167922-fastest-hands-in-the-wasd.json) |
 | Fastest on the Buzzer | 254630 | [254630-fastest-on-the-buzzer.json](./254630-fastest-on-the-buzzer.json) |
@@ -10267,6 +10269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeman | 253604 | [253604-freeman.json](./253604-freeman.json) |
 | Freeman and Bob | 252921 | [252921-freeman-and-bob.json](./252921-freeman-and-bob.json) |
 | Freeman: Guerrilla Warfare | 78538 | [78538-freeman-guerrilla-warfare.json](./78538-freeman-guerrilla-warfare.json) |
+| Freenergy | 211019 | [211019-freenergy.json](./211019-freenergy.json) |
 | Freeq | 62573 | [62573-freeq.json](./62573-freeq.json) |
 | Freerice | 140371 | [140371-freerice.json](./140371-freerice.json) |
 | Freeride | 204514 | [204514-freeride.json](./204514-freeride.json) |
@@ -11181,6 +11184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Forward | 383967 | [383967-frozen-forward.json](./383967-frozen-forward.json) |
 | Frozen Free Fall | 18131 | [18131-frozen-free-fall.json](./18131-frozen-free-fall.json) |
 | Frozen Free Fall: Icy Shot | 245757 | [245757-frozen-free-fall-icy-shot.json](./245757-frozen-free-fall-icy-shot.json) |
+| Frozen Friday Night: The Eve | 210977 | [210977-frozen-friday-night-the-eve.json](./210977-frozen-friday-night-the-eve.json) |
 | Frozen Friends | 146683 | [146683-frozen-friends.json](./146683-frozen-friends.json) |
 | Frozen Fruits | 307334 | [307334-frozen-fruits.json](./307334-frozen-fruits.json) |
 | Frozen Gauntlet | 331243 | [331243-frozen-gauntlet.json](./331243-frozen-gauntlet.json) |
