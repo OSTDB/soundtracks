@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate 1v1 | 125902 | [125902-ultimate-1v1.json](./125902-ultimate-1v1.json) |
 | Ultimate 20-Game Bundle | 392766 | [392766-ultimate-20-game-bundle.json](./392766-ultimate-20-game-bundle.json) |
 | Ultimate 4x4 Offroad Parking Trucks: Car Driving Racing Simulator 2023 | 242976 | [242976-ultimate-4x4-offroad-parking-trucks-car-driving-racing-simulator-2023.json](./242976-ultimate-4x4-offroad-parking-trucks-car-driving-racing-simulator-2023.json) |
+| Ultimate 4x4 Offroad Trucks: Car Racing Driving Simulator 2022 | 212619 | [212619-ultimate-4x4-offroad-trucks-car-racing-driving-simulator-2022.json](./212619-ultimate-4x4-offroad-trucks-car-racing-driving-simulator-2022.json) |
 | Ultimate 8 Ball Pool | 415309 | [415309-ultimate-8-ball-pool.json](./415309-ultimate-8-ball-pool.json) |
 | Ultimate Action 4 Pack | 85749 | [85749-ultimate-action-4-pack.json](./85749-ultimate-action-4-pack.json) |
 | Ultimate Action Hero | 124708 | [124708-ultimate-action-hero.json](./124708-ultimate-action-hero.json) |
@@ -3168,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utawarerumono Zan: Premium Edition | 136709 | [136709-utawarerumono-zan-premium-edition.json](./136709-utawarerumono-zan-premium-edition.json) |
 | Utawarerumono: Lost Flag | 120286 | [120286-utawarerumono-lost-flag.json](./120286-utawarerumono-lost-flag.json) |
 | Utawarerumono: Mask of Deception | 13548 | [13548-utawarerumono-mask-of-deception.json](./13548-utawarerumono-mask-of-deception.json) |
+| Utawarerumono: Mask of Truth - Launch Edition | 212576 | [212576-utawarerumono-mask-of-truth-launch-edition.json](./212576-utawarerumono-mask-of-truth-launch-edition.json) |
 | Utawarerumono: Past and Present Rediscovered | 387541 | [387541-utawarerumono-past-and-present-rediscovered.json](./387541-utawarerumono-past-and-present-rediscovered.json) |
 | Utawarerumono: Prelude to the Fallen | 77493 | [77493-utawarerumono-prelude-to-the-fallen.json](./77493-utawarerumono-prelude-to-the-fallen.json) |
 | Utawarerumono: Prelude to the Fallen - Origins Edition | 173117 | [173117-utawarerumono-prelude-to-the-fallen-origins-edition.json](./173117-utawarerumono-prelude-to-the-fallen-origins-edition.json) |
