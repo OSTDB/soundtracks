@@ -5299,6 +5299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alabama Smith in Escape from Pompeii | 52384 | [52384-alabama-smith-in-escape-from-pompeii.json](./52384-alabama-smith-in-escape-from-pompeii.json) |
 | Alabama Smith: Escape from Pompeii | 176893 | [176893-alabama-smith-escape-from-pompeii.json](./176893-alabama-smith-escape-from-pompeii.json) |
 | Alabaster | 60017 | [60017-alabaster.json](./60017-alabaster.json) |
+| Alabaster Dawn | 214927 | [214927-alabaster-dawn.json](./214927-alabaster-dawn.json) |
 | Alaca | 272778 | [272778-alaca.json](./272778-alaca.json) |
 | Alacrity | 368899 | [368899-alacrity.json](./368899-alacrity.json) |
 | Alacrity Golf | 246280 | [246280-alacrity-golf.json](./246280-alacrity-golf.json) |
