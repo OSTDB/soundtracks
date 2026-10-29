@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Quest 3 | 246295 | [246295-dark-quest-3.json](./246295-dark-quest-3.json) |
 | Dark Quest 4 | 345656 | [345656-dark-quest-4.json](./345656-dark-quest-4.json) |
 | Dark Quest: Remastered | 389079 | [389079-dark-quest-remastered.json](./389079-dark-quest-remastered.json) |
+| Dark Quiet Death | 185869 | [185869-dark-quiet-death.json](./185869-dark-quiet-death.json) |
 | Dark Raid | 17238 | [17238-dark-raid.json](./17238-dark-raid.json) |
 | Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
 | Dark Rail | 410670 | [410670-dark-rail.json](./410670-dark-rail.json) |
@@ -5457,6 +5458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deluge: Threnody of Crashing Waves | 173264 | [173264-deluge-threnody-of-crashing-waves.json](./173264-deluge-threnody-of-crashing-waves.json) |
 | Delunky: Endless Descent | 177861 | [177861-delunky-endless-descent.json](./177861-delunky-endless-descent.json) |
 | Delusion | 127698 | [127698-delusion.json](./127698-delusion.json) |
+| Delusion | 185828 | [185828-delusion.json](./185828-delusion.json) |
 | Delusion | 302735 | [302735-delusion.json](./302735-delusion.json) |
 | Delusion Gallery | 178607 | [178607-delusion-gallery.json](./178607-delusion-gallery.json) |
 | Delusion Out of Space | 247891 | [247891-delusion-out-of-space.json](./247891-delusion-out-of-space.json) |
@@ -7272,6 +7274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dexter's Laboratory: Mandark's Lab? | 2814 | [2814-dexters-laboratory-mandarks-lab.json](./2814-dexters-laboratory-mandarks-lab.json) |
 | Dexter's Laboratory: Robot Rampage | 2815 | [2815-dexters-laboratory-robot-rampage.json](./2815-dexters-laboratory-robot-rampage.json) |
 | Dexter's Laboratory: Science Ain't Fair | 8003 | [8003-dexters-laboratory-science-aint-fair.json](./8003-dexters-laboratory-science-aint-fair.json) |
+| Dexter's Laser Lab | 185830 | [185830-dexters-laser-lab.json](./185830-dexters-laser-lab.json) |
 | Dexter's Momatory | 280444 | [280444-dexters-momatory.json](./280444-dexters-momatory.json) |
 | Dexteritrip | 112818 | [112818-dexteritrip.json](./112818-dexteritrip.json) |
 | Dexterity | 91263 | [91263-dexterity.json](./91263-dexterity.json) |
@@ -10096,6 +10099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: The Lonely Assassins | 144782 | [144782-doctor-who-the-lonely-assassins.json](./144782-doctor-who-the-lonely-assassins.json) |
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
 | Doctor Who: Time Vortex 360 | 263342 | [263342-doctor-who-time-vortex-360.json](./263342-doctor-who-time-vortex-360.json) |
+| Doctor Who: Worlds Apart | 185810 | [185810-doctor-who-worlds-apart.json](./185810-doctor-who-worlds-apart.json) |
 | Doctor Who: Worlds in Time | 66095 | [66095-doctor-who-worlds-in-time.json](./66095-doctor-who-worlds-in-time.json) |
 | Doctor Who's 50th Anniversary | 235305 | [235305-doctor-whos-50th-anniversary.json](./235305-doctor-whos-50th-anniversary.json) |
 | Doctor's Orders | 299532 | [299532-doctors-orders.json](./299532-doctors-orders.json) |
@@ -16255,6 +16259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon's Hell | 163699 | [163699-dungeons-hell.json](./163699-dungeons-hell.json) |
 | Dungeon's Legion | 244122 | [244122-dungeons-legion.json](./244122-dungeons-legion.json) |
 | Dungeon&Girls | 131403 | [131403-dungeon-and-girls.json](./131403-dungeon-and-girls.json) |
+| Dungeonblade: Haunted Kingdom | 185836 | [185836-dungeonblade-haunted-kingdom.json](./185836-dungeonblade-haunted-kingdom.json) |
 | Dungeonborne | 125037 | [125037-dungeonborne.json](./125037-dungeonborne.json) |
 | Dungeonborne | 253880 | [253880-dungeonborne.json](./253880-dungeonborne.json) |
 | Dungeonborne Settlement | 366740 | [366740-dungeonborne-settlement.json](./366740-dungeonborne-settlement.json) |
