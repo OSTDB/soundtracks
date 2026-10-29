@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammerwatch: Anniversary Edition | 261850 | [261850-hammerwatch-anniversary-edition.json](./261850-hammerwatch-anniversary-edition.json) |
 | Hammet P.I. | 346915 | [346915-hammet-p-i.json](./346915-hammet-p-i.json) |
 | Hammurabi | 311346 | [311346-hammurabi.json](./311346-hammurabi.json) |
+| Hammy Home: Hamster Simulation | 177184 | [177184-hammy-home-hamster-simulation.json](./177184-hammy-home-hamster-simulation.json) |
 | Hamos the Green Chariot | 145601 | [145601-hamos-the-green-chariot.json](./145601-hamos-the-green-chariot.json) |
 | Hampstead | 12953 | [12953-hampstead.json](./12953-hampstead.json) |
 | Hampton Court | 123594 | [123594-hampton-court.json](./123594-hampton-court.json) |
@@ -7499,6 +7500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive Jump | 20874 | [20874-hive-jump.json](./20874-hive-jump.json) |
 | Hive Jump 2: Survivors | 264591 | [264591-hive-jump-2-survivors.json](./264591-hive-jump-2-survivors.json) |
 | Hive P v. S | 191378 | [191378-hive-p-v-s.json](./191378-hive-p-v-s.json) |
+| Hive Preserver | 177165 | [177165-hive-preserver.json](./177165-hive-preserver.json) |
 | Hive Quest | 104030 | [104030-hive-quest.json](./104030-hive-quest.json) |
 | Hive Rise | 66921 | [66921-hive-rise.json](./66921-hive-rise.json) |
 | Hive Slayer | 160235 | [160235-hive-slayer.json](./160235-hive-slayer.json) |
@@ -8788,6 +8790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horatio: Connector 13 (Chapters 1-12) | 303567 | [303567-horatio-connector-13-chapters-1-12.json](./303567-horatio-connector-13-chapters-1-12.json) |
 | Horcrux College | 340215 | [340215-horcrux-college.json](./340215-horcrux-college.json) |
 | HorD: High or Die | 83590 | [83590-hord-high-or-die.json](./83590-hord-high-or-die.json) |
+| Horde | 177191 | [177191-horde.json](./177191-horde.json) |
 | Horde | 179898 | [179898-horde.json](./179898-horde.json) |
 | Horde Arena | 334304 | [334304-horde-arena.json](./334304-horde-arena.json) |
 | Horde Attack | 55664 | [55664-horde-attack.json](./55664-horde-attack.json) |
@@ -9957,6 +9960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Be a Complete Bastard | 13882 | [13882-how-to-be-a-complete-bastard.json](./13882-how-to-be-a-complete-bastard.json) |
 | How to be a Hero | 38925 | [38925-how-to-be-a-hero.json](./38925-how-to-be-a-hero.json) |
 | How to Be a Real Dude | 117392 | [117392-how-to-be-a-real-dude.json](./117392-how-to-be-a-real-dude.json) |
+| How to Be a Tree | 177185 | [177185-how-to-be-a-tree.json](./177185-how-to-be-a-tree.json) |
 | How to Become a Ninja: Part 1 | 126353 | [126353-how-to-become-a-ninja-part-1.json](./126353-how-to-become-a-ninja-part-1.json) |
 | How to Blorrble-Blobble | 179007 | [179007-how-to-blorrble-blobble.json](./179007-how-to-blorrble-blobble.json) |
 | How to Build a Flying City | 321746 | [321746-how-to-build-a-flying-city.json](./321746-how-to-build-a-flying-city.json) |
