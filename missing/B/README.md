@@ -9541,6 +9541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Games | 344710 | [344710-blocky-games.json](./344710-blocky-games.json) |
 | Blocky Granny Mod chapter One | 248175 | [248175-blocky-granny-mod-chapter-one.json](./248175-blocky-granny-mod-chapter-one.json) |
 | Blocky Heli Rescue | 385123 | [385123-blocky-heli-rescue.json](./385123-blocky-heli-rescue.json) |
+| Blocky Highway | 181526 | [181526-blocky-highway.json](./181526-blocky-highway.json) |
 | Blocky McBlockFace | 114272 | [114272-blocky-mcblockface.json](./114272-blocky-mcblockface.json) |
 | Blocky Monsters Smash | 100195 | [100195-blocky-monsters-smash.json](./100195-blocky-monsters-smash.json) |
 | Blocky Raider | 58202 | [58202-blocky-raider.json](./58202-blocky-raider.json) |
@@ -11734,6 +11735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootleg Bandits | 13822 | [13822-bootleg-bandits.json](./13822-bootleg-bandits.json) |
 | Bootleg Fantasy | 171833 | [171833-bootleg-fantasy.json](./171833-bootleg-fantasy.json) |
 | Bootleg in Wonderland: Pastel Paradise | 342588 | [342588-bootleg-in-wonderland-pastel-paradise.json](./342588-bootleg-in-wonderland-pastel-paradise.json) |
+| Bootleg Krew | 181496 | [181496-bootleg-krew.json](./181496-bootleg-krew.json) |
 | Bootleg Soldier Azure: Astral Rave | 292028 | [292028-bootleg-soldier-azure-astral-rave.json](./292028-bootleg-soldier-azure-astral-rave.json) |
 | Bootleg Squadrog | 247555 | [247555-bootleg-squadrog.json](./247555-bootleg-squadrog.json) |
 | Bootleg Systems | 32744 | [32744-bootleg-systems.json](./32744-bootleg-systems.json) |
