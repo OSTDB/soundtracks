@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaos Kards | 374247 | [374247-kaos-kards.json](./374247-kaos-kards.json) |
 | Kǎpái Màoxiǎnzhě | 148369 | [148369-kapai-maoxianzhe.json](./148369-kapai-maoxianzhe.json) |
 | Kapamilya Deal or No Deal | 319657 | [319657-kapamilya-deal-or-no-deal.json](./319657-kapamilya-deal-or-no-deal.json) |
+| Kapellmeister | 197517 | [197517-kapellmeister.json](./197517-kapellmeister.json) |
 | Kaperfahrt | 414347 | [414347-kaperfahrt.json](./414347-kaperfahrt.json) |
 | Kapi Hospital | 260739 | [260739-kapi-hospital.json](./260739-kapi-hospital.json) |
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
@@ -860,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karen's Fault | 265101 | [265101-karens-fault.json](./265101-karens-fault.json) |
 | Kareshi no Mawari ni itara Iya na Onna Tomodachi wo Kobushi de Wakaraseru Game | 373699 | [373699-kareshi-no-mawari-ni-itara-iya-na-onna-tomodachi-wo-kobushi-de-wakaraseru-game.json](./373699-kareshi-no-mawari-ni-itara-iya-na-onna-tomodachi-wo-kobushi-de-wakaraseru-game.json) |
 | Karga | 296458 | [296458-karga.json](./296458-karga.json) |
+| Kargo | 197478 | [197478-kargo.json](./197478-kargo.json) |
 | Kargo: A neo-noir adventure | 217492 | [217492-kargo-a-neo-noir-adventure.json](./217492-kargo-a-neo-noir-adventure.json) |
 | Kari | 150497 | [150497-kari.json](./150497-kari.json) |
 | Kari Gurashi Ren'ai | 97347 | [97347-kari-gurashi-renai.json](./97347-kari-gurashi-renai.json) |
@@ -3392,6 +3394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirel | 36917 | [36917-kirel.json](./36917-kirel.json) |
 | Kiri Desu ne | 220291 | [220291-kiri-desu-ne.json](./220291-kiri-desu-ne.json) |
 | Kirigami | 183384 | [183384-kirigami.json](./183384-kirigami.json) |
+| Kirigirisou | 198027 | [198027-kirigirisou.json](./198027-kirigirisou.json) |
 | Kirikou | 220785 | [220785-kirikou.json](./220785-kirikou.json) |
 | Kirikou | 50028 | [50028-kirikou.json](./50028-kirikou.json) |
 | Kirikou and the Wild Beasts | 131862 | [131862-kirikou-and-the-wild-beasts.json](./131862-kirikou-and-the-wild-beasts.json) |
@@ -4293,6 +4296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KO Legends | 239475 | [239475-ko-legends.json](./239475-ko-legends.json) |
 | KO Punch | 62795 | [62795-ko-punch.json](./62795-ko-punch.json) |
 | KO Seiki Beast Sanjuushi | 108922 | [108922-ko-seiki-beast-sanjuushi.json](./108922-ko-seiki-beast-sanjuushi.json) |
+| Koa and the Five Pirates of Mara | 197486 | [197486-koa-and-the-five-pirates-of-mara.json](./197486-koa-and-the-five-pirates-of-mara.json) |
 | Koa: A Gluttonous Wizard | 215335 | [215335-koa-a-gluttonous-wizard.json](./215335-koa-a-gluttonous-wizard.json) |
 | Koakuma | 222787 | [222787-koakuma.json](./222787-koakuma.json) |
 | Koakuma Nurse no Itazura Karte: Kangoshi Kanojo to no Dousei Seikatsu | 402718 | [402718-koakuma-nurse-no-itazura-karte-kangoshi-kanojo-to-no-dousei-seikatsu.json](./402718-koakuma-nurse-no-itazura-karte-kangoshi-kanojo-to-no-dousei-seikatsu.json) |
