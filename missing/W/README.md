@@ -7173,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Contraptions | 138027 | [138027-world-of-contraptions.json](./138027-world-of-contraptions.json) |
 | World of Crypts | 298387 | [298387-world-of-crypts.json](./298387-world-of-crypts.json) |
 | World of Cube | 204104 | [204104-world-of-cube.json](./204104-world-of-cube.json) |
+| World of Cubes | 204798 | [204798-world-of-cubes.json](./204798-world-of-cubes.json) |
 | World of Cubes Survival Craft | 89187 | [89187-world-of-cubes-survival-craft.json](./89187-world-of-cubes-survival-craft.json) |
 | World of Dark | 283864 | [283864-world-of-dark.json](./283864-world-of-dark.json) |
 | World of Darkness | 77001 | [77001-world-of-darkness.json](./77001-world-of-darkness.json) |
