@@ -10084,6 +10084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Chameleon Brothers | 155469 | [155469-mighty-chameleon-brothers.json](./155469-mighty-chameleon-brothers.json) |
 | Mighty Cuphead Adventure | 404676 | [404676-mighty-cuphead-adventure.json](./404676-mighty-cuphead-adventure.json) |
 | Mighty Doom | 148394 | [148394-mighty-doom.json](./148394-mighty-doom.json) |
+| Mighty Dragons | 184172 | [184172-mighty-dragons.json](./184172-mighty-dragons.json) |
 | Mighty Ducks | 198818 | [198818-mighty-ducks.json](./198818-mighty-ducks.json) |
 | Mighty Fight Federation | 121256 | [121256-mighty-fight-federation.json](./121256-mighty-fight-federation.json) |
 | Mighty Fight Federation: Kunio & Riki Pack | 227033 | [227033-mighty-fight-federation-kunio-and-riki-pack.json](./227033-mighty-fight-federation-kunio-and-riki-pack.json) |
@@ -15934,6 +15935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mount & Blade: With Fire and Sword | 8792 | [8792-mount-and-blade-with-fire-and-sword.json](./8792-mount-and-blade-with-fire-and-sword.json) |
 | Mount Everest Story | 174331 | [174331-mount-everest-story.json](./174331-mount-everest-story.json) |
 | Mount Farewell | 221178 | [221178-mount-farewell.json](./221178-mount-farewell.json) |
+| Mount Hop | 184169 | [184169-mount-hop.json](./184169-mount-hop.json) |
 | Mount Hua | 378574 | [378574-mount-hua.json](./378574-mount-hua.json) |
 | Mount Lomyst | 369112 | [369112-mount-lomyst.json](./369112-mount-lomyst.json) |
 | Mount Wingsuit | 32082 | [32082-mount-wingsuit.json](./32082-mount-wingsuit.json) |
