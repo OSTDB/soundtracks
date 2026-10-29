@@ -2639,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapons Factory Arena | 273009 | [273009-weapons-factory-arena.json](./273009-weapons-factory-arena.json) |
 | Weapons Genius | 34843 | [34843-weapons-genius.json](./34843-weapons-genius.json) |
 | Weapons of Ra | 199990 | [199990-weapons-of-ra.json](./199990-weapons-of-ra.json) |
+| Weapons of the Gods | 218273 | [218273-weapons-of-the-gods.json](./218273-weapons-of-the-gods.json) |
 | Weapons of War | 324727 | [324727-weapons-of-war.json](./324727-weapons-of-war.json) |
 | Weapons Simulator | 390165 | [390165-weapons-simulator.json](./390165-weapons-simulator.json) |
 | Weapons Simulator: OutDoor Edition | 180131 | [180131-weapons-simulator-outdoor-edition.json](./180131-weapons-simulator-outdoor-edition.json) |
