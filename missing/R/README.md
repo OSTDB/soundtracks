@@ -1345,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rallo Gump | 73148 | [73148-rallo-gump.json](./73148-rallo-gump.json) |
 | Rally | 197381 | [197381-rally.json](./197381-rally.json) |
 | Rally 3D | 261078 | [261078-rally-3d.json](./261078-rally-3d.json) |
+| Rally 9000 | 212041 | [212041-rally-9000.json](./212041-rally-9000.json) |
 | Rally Ar | 266843 | [266843-rally-ar.json](./266843-rally-ar.json) |
 | Rally Arcade Classics | 319408 | [319408-rally-arcade-classics.json](./319408-rally-arcade-classics.json) |
 | Rally Bike | 282119 | [282119-rally-bike.json](./282119-rally-bike.json) |
@@ -1431,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rallyallyally | 211136 | [211136-rallyallyally.json](./211136-rallyallyally.json) |
 | Rallycross Simulator | 75504 | [75504-rallycross-simulator.json](./75504-rallycross-simulator.json) |
 | Rallycross Track Racing | 221383 | [221383-rallycross-track-racing.json](./221383-rallycross-track-racing.json) |
+| Rallygator | 212053 | [212053-rallygator.json](./212053-rallygator.json) |
 | Ralph Baer's Pinball! | 257666 | [257666-ralph-baers-pinball.json](./257666-ralph-baers-pinball.json) |
 | Ralph Breaks VR | 246638 | [246638-ralph-breaks-vr.json](./246638-ralph-breaks-vr.json) |
 | Ralsei's got a gun! | 175924 | [175924-ralseis-got-a-gun.json](./175924-ralseis-got-a-gun.json) |
@@ -1849,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Race | 60789 | [60789-rat-race.json](./60789-rat-race.json) |
 | Rat Racer | 127760 | [127760-rat-racer.json](./127760-rat-racer.json) |
 | Rat Raze / Road to Riches: Tilt Five | 341308 | [341308-rat-raze-road-to-riches-tilt-five.json](./341308-rat-raze-road-to-riches-tilt-five.json) |
+| Rat Royal | 212064 | [212064-rat-royal.json](./212064-rat-royal.json) |
 | Rat Run | 377627 | [377627-rat-run.json](./377627-rat-run.json) |
 | Rat Shoot | 223337 | [223337-rat-shoot.json](./223337-rat-shoot.json) |
 | Rat Simulator | 29405 | [29405-rat-simulator.json](./29405-rat-simulator.json) |
@@ -7969,6 +7972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotek | 87699 | [87699-robotek.json](./87699-robotek.json) |
 | Robotfindskitten | 142978 | [142978-robotfindskitten.json](./142978-robotfindskitten.json) |
 | Robotfindskitten | 205093 | [205093-robotfindskitten.json](./205093-robotfindskitten.json) |
+| Robotherapy | 212058 | [212058-robotherapy.json](./212058-robotherapy.json) |
 | Robotic Arm Simulator | 386697 | [386697-robotic-arm-simulator.json](./386697-robotic-arm-simulator.json) |
 | Robotic Emergence | 405963 | [405963-robotic-emergence.json](./405963-robotic-emergence.json) |
 | Robotic Space Zamboni | 372188 | [372188-robotic-space-zamboni.json](./372188-robotic-space-zamboni.json) |
@@ -8897,6 +8901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Waters | 314422 | [314422-rogue-waters.json](./314422-rogue-waters.json) |
 | Rogue Waves | 122072 | [122072-rogue-waves.json](./122072-rogue-waves.json) |
 | Rogue Waves | 414345 | [414345-rogue-waves.json](./414345-rogue-waves.json) |
+| Rogue Weapon | 212067 | [212067-rogue-weapon.json](./212067-rogue-weapon.json) |
 | Rogue with the Dead | 248144 | [248144-rogue-with-the-dead.json](./248144-rogue-with-the-dead.json) |
 | Rogue Words | 353409 | [353409-rogue-words.json](./353409-rogue-words.json) |
 | Rogue Zillion | 75766 | [75766-rogue-zillion.json](./75766-rogue-zillion.json) |
@@ -9802,6 +9807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roswell Fighter | 21774 | [21774-roswell-fighter.json](./21774-roswell-fighter.json) |
 | Roswell Pinball | 314913 | [314913-roswell-pinball.json](./314913-roswell-pinball.json) |
 | Roswell's 66th Anniversary | 225900 | [225900-roswells-66th-anniversary.json](./225900-roswells-66th-anniversary.json) |
+| Roswell's Journey | 212081 | [212081-roswells-journey.json](./212081-roswells-journey.json) |
 | Roswyn | 411030 | [411030-roswyn.json](./411030-roswyn.json) |
 | Rosy Manga | 167386 | [167386-rosy-manga.json](./167386-rosy-manga.json) |
 | Rosy Rubicunda | 299433 | [299433-rosy-rubicunda.json](./299433-rosy-rubicunda.json) |
