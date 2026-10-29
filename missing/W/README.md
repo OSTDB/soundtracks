@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Gem Jockeying | 121463 | [121463-wandering-gem-jockeying.json](./121463-wandering-gem-jockeying.json) |
 | Wandering Hamster | 124654 | [124654-wandering-hamster.json](./124654-wandering-hamster.json) |
 | Wandering Hunter | 370164 | [370164-wandering-hunter.json](./370164-wandering-hunter.json) |
+| Wandering in Space | 207072 | [207072-wandering-in-space.json](./207072-wandering-in-space.json) |
 | Wandering in Space Online VR | 244309 | [244309-wandering-in-space-online-vr.json](./244309-wandering-in-space-online-vr.json) |
 | Wandering Maung | 381682 | [381682-wandering-maung.json](./381682-wandering-maung.json) |
 | Wandering Meatbags | 191552 | [191552-wandering-meatbags.json](./191552-wandering-meatbags.json) |
@@ -2358,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Dogg | 20109 | [20109-way-of-the-dogg.json](./20109-way-of-the-dogg.json) |
 | Way of the Exploding Stick | 290866 | [290866-way-of-the-exploding-stick.json](./290866-way-of-the-exploding-stick.json) |
 | Way of the Hunter 2 | 383019 | [383019-way-of-the-hunter-2.json](./383019-way-of-the-hunter-2.json) |
+| Way of the Hunter: Elite Edition | 207091 | [207091-way-of-the-hunter-elite-edition.json](./207091-way-of-the-hunter-elite-edition.json) |
 | Way of the Hunter: Free UTV | 403804 | [403804-way-of-the-hunter-free-utv.json](./403804-way-of-the-hunter-free-utv.json) |
 | Way of the Hunter: Hunter's Pack | 325657 | [325657-way-of-the-hunter-hunters-pack.json](./325657-way-of-the-hunter-hunters-pack.json) |
 | Way of the Hunter: Hunting Season One | 283595 | [283595-way-of-the-hunter-hunting-season-one.json](./283595-way-of-the-hunter-hunting-season-one.json) |
