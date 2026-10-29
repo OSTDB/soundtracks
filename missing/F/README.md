@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Guys: PlayStation Plus Autumn Pack | 323402 | [323402-fall-guys-playstation-plus-autumn-pack.json](./323402-fall-guys-playstation-plus-autumn-pack.json) |
 | Fall Guys: Plush Fox Pack | 243775 | [243775-fall-guys-plush-fox-pack.json](./243775-fall-guys-plush-fox-pack.json) |
 | Fall Guys: Popping Whizzbanger Pack | 243661 | [243661-fall-guys-popping-whizzbanger-pack.json](./243661-fall-guys-popping-whizzbanger-pack.json) |
+| Fall Guys: Season 1 - Free for All | 201944 | [201944-fall-guys-season-1-free-for-all.json](./201944-fall-guys-season-1-free-for-all.json) |
 | Fall Guys: Season 2 - Satellite Scramble | 216558 | [216558-fall-guys-season-2-satellite-scramble.json](./216558-fall-guys-season-2-satellite-scramble.json) |
 | Fall Guys: Season 2 Starter Pack | 243659 | [243659-fall-guys-season-2-starter-pack.json](./243659-fall-guys-season-2-starter-pack.json) |
 | Fall Guys: Season 3 - Sunken Secrets | 227459 | [227459-fall-guys-season-3-sunken-secrets.json](./227459-fall-guys-season-3-sunken-secrets.json) |
@@ -1095,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Blocks | 237333 | [237333-falling-blocks.json](./237333-falling-blocks.json) |
 | Falling Bricks: Endless Smash | 390784 | [390784-falling-bricks-endless-smash.json](./390784-falling-bricks-endless-smash.json) |
 | Falling Bullets | 114550 | [114550-falling-bullets.json](./114550-falling-bullets.json) |
+| Falling Bush | 201947 | [201947-falling-bush.json](./201947-falling-bush.json) |
 | Falling Cube | 340054 | [340054-falling-cube.json](./340054-falling-cube.json) |
 | Falling Day | 270180 | [270180-falling-day.json](./270180-falling-day.json) |
 | Falling Down | 253496 | [253496-falling-down.json](./253496-falling-down.json) |
@@ -5264,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Galaxy | 73352 | [73352-fire-galaxy.json](./73352-fire-galaxy.json) |
 | Fire Guardian | 277780 | [277780-fire-guardian.json](./277780-fire-guardian.json) |
 | Fire Hawk | 40135 | [40135-fire-hawk.json](./40135-fire-hawk.json) |
+| Fire Heat | 201976 | [201976-fire-heat.json](./201976-fire-heat.json) |
 | Fire Hero: Pixel Rescue | 332967 | [332967-fire-hero-pixel-rescue.json](./332967-fire-hero-pixel-rescue.json) |
 | Fire Hoops | 94413 | [94413-fire-hoops.json](./94413-fire-hoops.json) |
 | Fire Hop | 348173 | [348173-fire-hop.json](./348173-fire-hop.json) |
@@ -7639,6 +7642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Frogs | 301991 | [301991-flying-frogs.json](./301991-flying-frogs.json) |
 | Flying Fu | 109912 | [109912-flying-fu.json](./109912-flying-fu.json) |
 | Flying Girls | 149869 | [149869-flying-girls.json](./149869-flying-girls.json) |
+| Flying Gorilla | 201968 | [201968-flying-gorilla.json](./201968-flying-gorilla.json) |
 | Flying Guys | 361741 | [361741-flying-guys.json](./361741-flying-guys.json) |
 | Flying Hamster HD | 52220 | [52220-flying-hamster-hd.json](./52220-flying-hamster-hd.json) |
 | Flying Hero | 64265 | [64265-flying-hero.json](./64265-flying-hero.json) |
@@ -10399,6 +10403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fresh Market Simulator | 423218 | [423218-fresh-market-simulator.json](./423218-fresh-market-simulator.json) |
 | Fresh Merchandise | 136366 | [136366-fresh-merchandise.json](./136366-fresh-merchandise.json) |
 | Fresh Milk For Mars | 295838 | [295838-fresh-milk-for-mars.json](./295838-fresh-milk-for-mars.json) |
+| Fresh Out the Oven | 201949 | [201949-fresh-out-the-oven.json](./201949-fresh-out-the-oven.json) |
 | Fresh Squeezed Lemonade | 393992 | [393992-fresh-squeezed-lemonade.json](./393992-fresh-squeezed-lemonade.json) |
 | Fresh Start | 212066 | [212066-fresh-start.json](./212066-fresh-start.json) |
 | Fresh Story | 272765 | [272765-fresh-story.json](./272765-fresh-story.json) |
@@ -11935,6 +11940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fureraba: Friend to Lover - Mini Fandisk | 77936 | [77936-fureraba-friend-to-lover-mini-fandisk.json](./77936-fureraba-friend-to-lover-mini-fandisk.json) |
 | Furfly | 33858 | [33858-furfly.json](./33858-furfly.json) |
 | Furi Demake: The Chain | 278637 | [278637-furi-demake-the-chain.json](./278637-furi-demake-the-chain.json) |
+| Furi: Modore Edition | 201943 | [201943-furi-modore-edition.json](./201943-furi-modore-edition.json) |
 | Furi: One More Fight | 53090 | [53090-furi-one-more-fight.json](./53090-furi-one-more-fight.json) |
 | Furi: Onnamusha | 200436 | [200436-furi-onnamusha.json](./200436-furi-onnamusha.json) |
 | Furidashi: Drift Cyber Sport | 74669 | [74669-furidashi-drift-cyber-sport.json](./74669-furidashi-drift-cyber-sport.json) |
