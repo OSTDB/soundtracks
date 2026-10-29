@@ -2554,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scheming Through the Zombie Apocalypse: Episode 2 - Caged | 110542 | [110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json](./110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json) |
 | Scherzo | 276039 | [276039-scherzo.json](./276039-scherzo.json) |
 | Schiffbruch | 76251 | [76251-schiffbruch.json](./76251-schiffbruch.json) |
+| Schildmaid MX | 187651 | [187651-schildmaid-mx.json](./187651-schildmaid-mx.json) |
 | Schism | 136135 | [136135-schism.json](./136135-schism.json) |
 | Schism | 260885 | [260885-schism.json](./260885-schism.json) |
 | Schism | 266227 | [266227-schism.json](./266227-schism.json) |
@@ -7085,6 +7086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiba Simulator Supreme | 269956 | [269956-shiba-simulator-supreme.json](./269956-shiba-simulator-supreme.json) |
 | Shiba Sweet | 347830 | [347830-shiba-sweet.json](./347830-shiba-sweet.json) |
 | Shiba Wars | 397913 | [397913-shiba-wars.json](./397913-shiba-wars.json) |
+| Shibadungeon | 187692 | [187692-shibadungeon.json](./187692-shibadungeon.json) |
 | Shibainu: VR Katana Simulator | 197408 | [197408-shibainu-vr-katana-simulator.json](./197408-shibainu-vr-katana-simulator.json) |
 | Shibogami | 412894 | [412894-shibogami.json](./412894-shibogami.json) |
 | Shibui Coliseum | 120985 | [120985-shibui-coliseum.json](./120985-shibui-coliseum.json) |
@@ -12310,6 +12312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slugterra: Slug it Out! | 60757 | [60757-slugterra-slug-it-out.json](./60757-slugterra-slug-it-out.json) |
 | Slugterra: Slug Life | 188286 | [188286-slugterra-slug-life.json](./188286-slugterra-slug-life.json) |
 | Slugtrip | 347796 | [347796-slugtrip.json](./347796-slugtrip.json) |
+| Slum Ball | 187680 | [187680-slum-ball.json](./187680-slum-ball.json) |
 | Slum Guide | 325405 | [325405-slum-guide.json](./325405-slum-guide.json) |
 | Slum Musketeer | 264985 | [264985-slum-musketeer.json](./264985-slum-musketeer.json) |
 | Slumber | 191202 | [191202-slumber.json](./191202-slumber.json) |
@@ -12825,6 +12828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmuggleCraft | 29489 | [29489-smugglecraft.json](./29489-smugglecraft.json) |
 | Smuggler City Simulator | 348143 | [348143-smuggler-city-simulator.json](./348143-smuggler-city-simulator.json) |
 | Smuggler Simulator | 154048 | [154048-smuggler-simulator.json](./154048-smuggler-simulator.json) |
+| Smuggler: 30XX | 187650 | [187650-smuggler-30xx.json](./187650-smuggler-30xx.json) |
 | Smuggler's Cove | 294730 | [294730-smugglers-cove.json](./294730-smugglers-cove.json) |
 | Smuggler's Guild | 8987 | [8987-smugglers-guild.json](./8987-smugglers-guild.json) |
 | Smuggler's Run | 248594 | [248594-smugglers-run.json](./248594-smugglers-run.json) |
@@ -17807,6 +17811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space-Net: Cosmo Red | 267499 | [267499-space-net-cosmo-red.json](./267499-space-net-cosmo-red.json) |
 | Space-Orbit | 63238 | [63238-space-orbit.json](./63238-space-orbit.json) |
 | Space-Rat Xplode! | 54385 | [54385-space-rat-xplode.json](./54385-space-rat-xplode.json) |
+| Space: Breakthrough Gaming Arcade | 187672 | [187672-space-breakthrough-gaming-arcade.json](./187672-space-breakthrough-gaming-arcade.json) |
 | Space/Mech/Pilot | 139924 | [139924-space-mech-pilot.json](./139924-space-mech-pilot.json) |
 | SpaceAttack | 68428 | [68428-spaceattack.json](./68428-spaceattack.json) |
 | Spaceball | 112177 | [112177-spaceball.json](./112177-spaceball.json) |
@@ -19458,6 +19463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpiritSurge | 221639 | [221639-spiritsurge.json](./221639-spiritsurge.json) |
 | SpiritSweeper | 307624 | [307624-spiritsweeper.json](./307624-spiritsweeper.json) |
 | Spirittea 2.0 | 374985 | [374985-spirittea-2-0.json](./374985-spirittea-2-0.json) |
+| Spirittracker | 187660 | [187660-spirittracker.json](./187660-spirittracker.json) |
 | Spiritual Blade | 409247 | [409247-spiritual-blade.json](./409247-spiritual-blade.json) |
 | Spiritual Bond: Breaking the Curse, Intertwining Fates | 316635 | [316635-spiritual-bond-breaking-the-curse-intertwining-fates.json](./316635-spiritual-bond-breaking-the-curse-intertwining-fates.json) |
 | Spiritual Girl | 212440 | [212440-spiritual-girl.json](./212440-spiritual-girl.json) |
@@ -23365,6 +23371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steppy Pants | 57944 | [57944-steppy-pants.json](./57944-steppy-pants.json) |
 | Steps From Above | 188889 | [188889-steps-from-above.json](./188889-steps-from-above.json) |
 | Steps of Debauchery | 370578 | [370578-steps-of-debauchery.json](./370578-steps-of-debauchery.json) |
+| Steps of Doom | 187681 | [187681-steps-of-doom.json](./187681-steps-of-doom.json) |
 | Stepsister Shock! | 206028 | [206028-stepsister-shock.json](./206028-stepsister-shock.json) |
 | Steptile | 287097 | [287097-steptile.json](./287097-steptile.json) |
 | Stepwell | 416614 | [416614-stepwell.json](./416614-stepwell.json) |
@@ -25111,6 +25118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strings of Fate XI: Magic Dream | 327008 | [327008-strings-of-fate-xi-magic-dream.json](./327008-strings-of-fate-xi-magic-dream.json) |
 | Strings of Light | 180601 | [180601-strings-of-light.json](./180601-strings-of-light.json) |
 | Strings Theory | 139218 | [139218-strings-theory.json](./139218-strings-theory.json) |
+| Strings/Threads/Burdens | 187688 | [187688-strings-threads-burdens.json](./187688-strings-threads-burdens.json) |
 | Stringtropy | 147159 | [147159-stringtropy.json](./147159-stringtropy.json) |
 | Strinova | 260136 | [260136-strinova.json](./260136-strinova.json) |
 | Strinova Mobile | 350533 | [350533-strinova-mobile.json](./350533-strinova-mobile.json) |
