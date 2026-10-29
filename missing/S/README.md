@@ -29324,14 +29324,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 Series: Fishing Club - Hama no Tsuri-hen | 382974 | [382974-superlite-1500-series-fishing-club-hama-no-tsuri-hen.json](./382974-superlite-1500-series-fishing-club-hama-no-tsuri-hen.json) |
 | SuperLite 1500 Series: Kaiteiban Mark Yazaki no Seiyou Senseijutsu | 382823 | [382823-superlite-1500-series-kaiteiban-mark-yazaki-no-seiyou-senseijutsu.json](./382823-superlite-1500-series-kaiteiban-mark-yazaki-no-seiyou-senseijutsu.json) |
 | SuperLite 1500 Series: Lode Runner 2 | 382928 | [382928-superlite-1500-series-lode-runner-2.json](./382928-superlite-1500-series-lode-runner-2.json) |
+| SuperLite 1500 Series: Oekaki Puzzle 1 | 216565 | [216565-superlite-1500-series-oekaki-puzzle-1.json](./216565-superlite-1500-series-oekaki-puzzle-1.json) |
+| SuperLite 1500 Series: Oekaki Puzzle 2 | 216566 | [216566-superlite-1500-series-oekaki-puzzle-2.json](./216566-superlite-1500-series-oekaki-puzzle-2.json) |
+| SuperLite 1500 Series: Oekaki Puzzle 3 | 216567 | [216567-superlite-1500-series-oekaki-puzzle-3.json](./216567-superlite-1500-series-oekaki-puzzle-3.json) |
+| SuperLite 1500 Series: Oekaki Puzzle 4 | 216568 | [216568-superlite-1500-series-oekaki-puzzle-4.json](./216568-superlite-1500-series-oekaki-puzzle-4.json) |
+| SuperLite 1500 Series: Oekaki Puzzle 5 | 216569 | [216569-superlite-1500-series-oekaki-puzzle-5.json](./216569-superlite-1500-series-oekaki-puzzle-5.json) |
 | SuperLite 1500 Series: Qix 2000 | 97320 | [97320-superlite-1500-series-qix-2000.json](./97320-superlite-1500-series-qix-2000.json) |
 | SuperLite 1500 Series: Seiyou Senseijutsu: Mark Yazaki Kanshuu | 382825 | [382825-superlite-1500-series-seiyou-senseijutsu-mark-yazaki-kanshuu.json](./382825-superlite-1500-series-seiyou-senseijutsu-mark-yazaki-kanshuu.json) |
 | SuperLite 1500 Series: Shinsei Toire no Kakosan | 382913 | [382913-superlite-1500-series-shinsei-toire-no-kakosan.json](./382913-superlite-1500-series-shinsei-toire-no-kakosan.json) |
 | SuperLite 1500 Series: Shougi II | 382843 | [382843-superlite-1500-series-shougi-ii.json](./382843-superlite-1500-series-shougi-ii.json) |
+| SuperLite 1500 Series: Slither Link | 216562 | [216562-superlite-1500-series-slither-link.json](./216562-superlite-1500-series-slither-link.json) |
 | SuperLite 1500 Series: Space Chaser 2000 | 98293 | [98293-superlite-1500-series-space-chaser-2000.json](./98293-superlite-1500-series-space-chaser-2000.json) |
 | SuperLite 1500 series: Sudoku | 63168 | [63168-superlite-1500-series-sudoku.json](./63168-superlite-1500-series-sudoku.json) |
 | SuperLite 1500 series: Sudoku 2 | 63169 | [63169-superlite-1500-series-sudoku-2.json](./63169-superlite-1500-series-sudoku-2.json) |
 | SuperLite 1500 series: Sudoku 3 | 63164 | [63164-superlite-1500-series-sudoku-3.json](./63164-superlite-1500-series-sudoku-3.json) |
+| SuperLite 1500 Series: Sudoku 4 | 216563 | [216563-superlite-1500-series-sudoku-4.json](./216563-superlite-1500-series-sudoku-4.json) |
+| SuperLite 1500 Series: Sudoku 5 | 216564 | [216564-superlite-1500-series-sudoku-5.json](./216564-superlite-1500-series-sudoku-5.json) |
 | SuperLite 1500 Series: The Curling | 98244 | [98244-superlite-1500-series-the-curling.json](./98244-superlite-1500-series-the-curling.json) |
 | SuperLite 1500 series: The Tetris | 98801 | [98801-superlite-1500-series-the-tetris.json](./98801-superlite-1500-series-the-tetris.json) |
 | SuperLite 1500: Crazy Balloon 2000 | 97323 | [97323-superlite-1500-crazy-balloon-2000.json](./97323-superlite-1500-crazy-balloon-2000.json) |
