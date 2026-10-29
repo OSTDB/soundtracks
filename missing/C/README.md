@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | California Gold Rush | 23271 | [23271-california-gold-rush.json](./23271-california-gold-rush.json) |
 | California Speed | 3335 | [3335-california-speed.json](./3335-california-speed.json) |
 | California Surfing | 278856 | [278856-california-surfing.json](./278856-california-surfing.json) |
+| California Sushi Time! | 222065 | [222065-california-sushi-time.json](./222065-california-sushi-time.json) |
 | California Swingers Club: Season 1 - Sea Swap | 289850 | [289850-california-swingers-club-season-1-sea-swap.json](./289850-california-swingers-club-season-1-sea-swap.json) |
 | California Watersports | 278857 | [278857-california-watersports.json](./278857-california-watersports.json) |
 | California Waves | 252565 | [252565-california-waves.json](./252565-california-waves.json) |
@@ -2562,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars Mater-National Championship | 281854 | [281854-cars-mater-national-championship.json](./281854-cars-mater-national-championship.json) |
 | Cars Mater-National Championship | 281855 | [281855-cars-mater-national-championship.json](./281855-cars-mater-national-championship.json) |
 | Cars Mater-National Championship | 4748 | [4748-cars-mater-national-championship.json](./4748-cars-mater-national-championship.json) |
+| Cars Puzzles Game | 222052 | [222052-cars-puzzles-game.json](./222052-cars-puzzles-game.json) |
 | Cars Supercharged | 76453 | [76453-cars-supercharged.json](./76453-cars-supercharged.json) |
 | Cars Toon | 36249 | [36249-cars-toon.json](./36249-cars-toon.json) |
 | Cars Toon: Tokyo Mater | 230550 | [230550-cars-toon-tokyo-mater.json](./230550-cars-toon-tokyo-mater.json) |
@@ -14795,6 +14797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Castle | 25567 | [25567-creepy-castle.json](./25567-creepy-castle.json) |
 | Creepy Claus | 322373 | [322373-creepy-claus.json](./322373-creepy-claus.json) |
 | Creepy Clown Revenge | 28054 | [28054-creepy-clown-revenge.json](./28054-creepy-clown-revenge.json) |
+| Creepy Cooking and Dungeon Dinner Mysterious Labyrinth | 222062 | [222062-creepy-cooking-and-dungeon-dinner-mysterious-labyrinth.json](./222062-creepy-cooking-and-dungeon-dinner-mysterious-labyrinth.json) |
 | Creepy Corridors | 23902 | [23902-creepy-corridors.json](./23902-creepy-corridors.json) |
 | Creepy Crawlers | 317452 | [317452-creepy-crawlers.json](./317452-creepy-crawlers.json) |
 | Creepy Crawling | 337742 | [337742-creepy-crawling.json](./337742-creepy-crawling.json) |
@@ -15357,6 +15360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Country Express - An Oddfellows Mini | 121335 | [121335-cross-country-express-an-oddfellows-mini.json](./121335-cross-country-express-an-oddfellows-mini.json) |
 | Cross Country Skiing VR | 99035 | [99035-cross-country-skiing-vr.json](./99035-cross-country-skiing-vr.json) |
 | Cross Court Tennis 2 | 332906 | [332906-cross-court-tennis-2.json](./332906-cross-court-tennis-2.json) |
+| Cross Crush | 222067 | [222067-cross-crush.json](./222067-cross-crush.json) |
 | Cross Dating Adventure: Kasanari | 97732 | [97732-cross-dating-adventure-kasanari.json](./97732-cross-dating-adventure-kasanari.json) |
 | Cross Days | 92409 | [92409-cross-days.json](./92409-cross-days.json) |
 | Cross Death VR | 32215 | [32215-cross-death-vr.json](./32215-cross-death-vr.json) |
