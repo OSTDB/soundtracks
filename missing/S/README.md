@@ -5964,6 +5964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Run | 116882 | [116882-shadow-run.json](./116882-shadow-run.json) |
 | Shadow Runner | 116287 | [116287-shadow-runner.json](./116287-shadow-runner.json) |
 | Shadow Runner | 385379 | [385379-shadow-runner.json](./385379-shadow-runner.json) |
+| Shadow Running | 188800 | [188800-shadow-running.json](./188800-shadow-running.json) |
 | Shadow Saboteur | 246790 | [246790-shadow-saboteur.json](./246790-shadow-saboteur.json) |
 | Shadow Sacrament: The Roots of Evil | 347848 | [347848-shadow-sacrament-the-roots-of-evil.json](./347848-shadow-sacrament-the-roots-of-evil.json) |
 | Shadow Samurai Revenge | 192038 | [192038-shadow-samurai-revenge.json](./192038-shadow-samurai-revenge.json) |
@@ -17141,6 +17142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Girls | 258820 | [258820-space-girls.json](./258820-space-girls.json) |
 | Space Girls | 68894 | [68894-space-girls.json](./68894-space-girls.json) |
 | Space Girls Band | 293215 | [293215-space-girls-band.json](./293215-space-girls-band.json) |
+| Space Gliders | 188819 | [188819-space-gliders.json](./188819-space-gliders.json) |
 | Space Gnomes | 407315 | [407315-space-gnomes.json](./407315-space-gnomes.json) |
 | Space God | 86614 | [86614-space-god.json](./86614-space-god.json) |
 | Space Gold Rush TD | 215717 | [215717-space-gold-rush-td.json](./215717-space-gold-rush-td.json) |
@@ -19769,6 +19771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob's Truth or Square | 5190 | [5190-spongebobs-truth-or-square.json](./5190-spongebobs-truth-or-square.json) |
 | SpongeBob’s Undersea Odyssey | 381368 | [381368-spongebob-s-undersea-odyssey.json](./381368-spongebob-s-undersea-odyssey.json) |
 | Spongedrake Unleashed 3D | 336458 | [336458-spongedrake-unleashed-3d.json](./336458-spongedrake-unleashed-3d.json) |
+| SpongeGlock SquarePants | 188815 | [188815-spongeglock-squarepants.json](./188815-spongeglock-squarepants.json) |
 | Spongiorno: Schwammfred Moving Company | 373082 | [373082-spongiorno-schwammfred-moving-company.json](./373082-spongiorno-schwammfred-moving-company.json) |
 | Sponsor-A-Planet | 155710 | [155710-sponsor-a-planet.json](./155710-sponsor-a-planet.json) |
 | Spooble: A Search Engine Story | 177484 | [177484-spooble-a-search-engine-story.json](./177484-spooble-a-search-engine-story.json) |
@@ -19827,6 +19830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Murder House | 369242 | [369242-spooky-murder-house.json](./369242-spooky-murder-house.json) |
 | Spooky Night 2 | 125104 | [125104-spooky-night-2.json](./125104-spooky-night-2.json) |
 | Spooky Night: Remastered | 170369 | [170369-spooky-night-remastered.json](./170369-spooky-night-remastered.json) |
+| Spooky Paths | 188793 | [188793-spooky-paths.json](./188793-spooky-paths.json) |
 | Spooky Pixel Hero | 307816 | [307816-spooky-pixel-hero.json](./307816-spooky-pixel-hero.json) |
 | Spooky Scary Spaces | 297440 | [297440-spooky-scary-spaces.json](./297440-spooky-scary-spaces.json) |
 | Spooky Season | 361696 | [361696-spooky-season.json](./361696-spooky-season.json) |
