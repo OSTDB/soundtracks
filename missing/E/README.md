@@ -6581,6 +6581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exciting Soccer | 46851 | [46851-exciting-soccer.json](./46851-exciting-soccer.json) |
 | Exciting Soccer II | 39834 | [39834-exciting-soccer-ii.json](./39834-exciting-soccer-ii.json) |
 | Exciting Soccer: Konami Cup | 41236 | [41236-exciting-soccer-konami-cup.json](./41236-exciting-soccer-konami-cup.json) |
+| ExcitingBatting | 204789 | [204789-excitingbatting.json](./204789-excitingbatting.json) |
 | Excive | 180098 | [180098-excive.json](./180098-excive.json) |
 | Exclusion | 247908 | [247908-exclusion.json](./247908-exclusion.json) |
 | Exclusion Zone: Hunting Ground | 134616 | [134616-exclusion-zone-hunting-ground.json](./134616-exclusion-zone-hunting-ground.json) |
