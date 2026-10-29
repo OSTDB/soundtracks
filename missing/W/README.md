@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Escape | 276151 | [276151-wacky-escape.json](./276151-wacky-escape.json) |
 | Wacky Farm | 205957 | [205957-wacky-farm.json](./205957-wacky-farm.json) |
 | Wacky Golf Land | 131835 | [131835-wacky-golf-land.json](./131835-wacky-golf-land.json) |
+| Wacky Jelly | 216063 | [216063-wacky-jelly.json](./216063-wacky-jelly.json) |
 | Wacky Jumpers | 288473 | [288473-wacky-jumpers.json](./288473-wacky-jumpers.json) |
 | Wacky Races | 12817 | [12817-wacky-races.json](./12817-wacky-races.json) |
 | Wacky Races | 205917 | [205917-wacky-races.json](./205917-wacky-races.json) |
@@ -918,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Solution | 119851 | [119851-war-solution.json](./119851-war-solution.json) |
 | War Stained | 152470 | [152470-war-stained.json](./152470-war-stained.json) |
 | War Stars | 327719 | [327719-war-stars.json](./327719-war-stars.json) |
+| War Strike | 216064 | [216064-war-strike.json](./216064-war-strike.json) |
 | War Survival | 371250 | [371250-war-survival.json](./371250-war-survival.json) |
 | War Tank Combat | 149382 | [149382-war-tank-combat.json](./149382-war-tank-combat.json) |
 | War Tanks | 203923 | [203923-war-tanks.json](./203923-war-tanks.json) |
@@ -4707,6 +4709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilderness | 377146 | [377146-wilderness.json](./377146-wilderness.json) |
 | Wilderness Campaign | 24802 | [24802-wilderness-campaign.json](./24802-wilderness-campaign.json) |
 | Wilderness Edge | 342880 | [342880-wilderness-edge.json](./342880-wilderness-edge.json) |
+| Wilderness Fantasy | 216065 | [216065-wilderness-fantasy.json](./216065-wilderness-fantasy.json) |
 | Wilderness Game Stalker VR: North America | 211052 | [211052-wilderness-game-stalker-vr-north-america.json](./211052-wilderness-game-stalker-vr-north-america.json) |
 | Wilderness Mosaic 2: Patagonia | 415984 | [415984-wilderness-mosaic-2-patagonia.json](./415984-wilderness-mosaic-2-patagonia.json) |
 | Wilderness Mosaic 3: Photo Safari | 415907 | [415907-wilderness-mosaic-3-photo-safari.json](./415907-wilderness-mosaic-3-photo-safari.json) |
@@ -5394,6 +5397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wintersands | 183851 | [183851-wintersands.json](./183851-wintersands.json) |
 | Wintersdawn in the Deep | 183591 | [183591-wintersdawn-in-the-deep.json](./183591-wintersdawn-in-the-deep.json) |
 | Wintersport | 68677 | [68677-wintersport.json](./68677-wintersport.json) |
+| Winterstrike | 216008 | [216008-winterstrike.json](./216008-winterstrike.json) |
 | Wintertale | 371564 | [371564-wintertale.json](./371564-wintertale.json) |
 | WinterThunder | 224805 | [224805-winterthunder.json](./224805-winterthunder.json) |
 | WinTrek | 69859 | [69859-wintrek.json](./69859-wintrek.json) |
