@@ -3158,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uta Quta | 404450 | [404450-uta-quta.json](./404450-uta-quta.json) |
 | Utacchi | 80482 | [80482-utacchi.json](./80482-utacchi.json) |
 | Utaho no Tatari | 194829 | [194829-utaho-no-tatari.json](./194829-utaho-no-tatari.json) |
+| Utaho no Tatari 2 | 209812 | [209812-utaho-no-tatari-2.json](./209812-utaho-no-tatari-2.json) |
 | Utakata no Alice: Dolls infeRno | 222740 | [222740-utakata-no-alice-dolls-inferno.json](./222740-utakata-no-alice-dolls-inferno.json) |
 | Utakata no Hana ga Chiru | 221047 | [221047-utakata-no-hana-ga-chiru.json](./221047-utakata-no-hana-ga-chiru.json) |
 | Utakata no R: Houkai | 221605 | [221605-utakata-no-r-houkai.json](./221605-utakata-no-r-houkai.json) |
