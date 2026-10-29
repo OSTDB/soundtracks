@@ -5246,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Way Out | 30104 | [30104-no-way-out.json](./30104-no-way-out.json) |
 | No Way Out | 310165 | [310165-no-way-out.json](./310165-no-way-out.json) |
 | No Way Out | 344273 | [344273-no-way-out.json](./344273-no-way-out.json) |
+| No Way to Die | 214308 | [214308-no-way-to-die.json](./214308-no-way-to-die.json) |
 | No Wings Required | 394322 | [394322-no-wings-required.json](./394322-no-wings-required.json) |
 | No Words to Speak With | 176782 | [176782-no-words-to-speak-with.json](./176782-no-words-to-speak-with.json) |
 | No World Dreamers: Sticky Zeitgeist | 354753 | [354753-no-world-dreamers-sticky-zeitgeist.json](./354753-no-world-dreamers-sticky-zeitgeist.json) |
