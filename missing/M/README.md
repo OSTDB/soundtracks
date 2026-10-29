@@ -12938,6 +12938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito the Cat: Easter Edition | 246644 | [246644-mojito-the-cat-easter-edition.json](./246644-mojito-the-cat-easter-edition.json) |
 | Mojito the Cat: Extended Edition | 232995 | [232995-mojito-the-cat-extended-edition.json](./232995-mojito-the-cat-extended-edition.json) |
 | Mojito the Cat: Halloween | 403425 | [403425-mojito-the-cat-halloween.json](./403425-mojito-the-cat-halloween.json) |
+| Mojito the Cat: Halloween Edition | 223768 | [223768-mojito-the-cat-halloween-edition.json](./223768-mojito-the-cat-halloween-edition.json) |
 | Mojito the Cat: Halloween Skins | 309643 | [309643-mojito-the-cat-halloween-skins.json](./309643-mojito-the-cat-halloween-skins.json) |
 | Mojito the Cat: Legendary Edition | 260686 | [260686-mojito-the-cat-legendary-edition.json](./260686-mojito-the-cat-legendary-edition.json) |
 | Mojito the Cat: Platina Edition | 262364 | [262364-mojito-the-cat-platina-edition.json](./262364-mojito-the-cat-platina-edition.json) |
