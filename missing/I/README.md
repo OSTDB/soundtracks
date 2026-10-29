@@ -5630,6 +5630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isomorph | 31614 | [31614-isomorph.json](./31614-isomorph.json) |
 | Isonzo: Avanti Savoia Units Pack | 373587 | [373587-isonzo-avanti-savoia-units-pack.json](./373587-isonzo-avanti-savoia-units-pack.json) |
 | Isonzo: Collector's Edition | 218548 | [218548-isonzo-collectors-edition.json](./218548-isonzo-collectors-edition.json) |
+| Isonzo: Deluxe Edition | 194823 | [194823-isonzo-deluxe-edition.json](./194823-isonzo-deluxe-edition.json) |
 | Isonzo: Expedition Units | 303277 | [303277-isonzo-expedition-units.json](./303277-isonzo-expedition-units.json) |
 | Isonzo: First Wave | 265715 | [265715-isonzo-first-wave.json](./265715-isonzo-first-wave.json) |
 | Isonzo: First Wave Edition | 373585 | [373585-isonzo-first-wave-edition.json](./373585-isonzo-first-wave-edition.json) |
