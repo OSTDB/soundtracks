@@ -5398,8 +5398,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sewercide | 385930 | [385930-sewercide.json](./385930-sewercide.json) |
 | Sewermania | 42179 | [42179-sewermania.json](./42179-sewermania.json) |
 | Sewing Machine Simulator | 312435 | [312435-sewing-machine-simulator.json](./312435-sewing-machine-simulator.json) |
+| Sex | 185852 | [185852-sex.json](./185852-sex.json) |
 | Sex & Drift | 237181 | [237181-sex-and-drift.json](./237181-sex-and-drift.json) |
 | Sex & Gun | 368092 | [368092-sex-and-gun.json](./368092-sex-and-gun.json) |
+| Sex 2 | 185853 | [185853-sex-2.json](./185853-sex-2.json) |
 | Sex Adventures: BDSM Dungeon | 219597 | [219597-sex-adventures-bdsm-dungeon.json](./219597-sex-adventures-bdsm-dungeon.json) |
 | Sex Adventures: Cuckold Gym | 226151 | [226151-sex-adventures-cuckold-gym.json](./226151-sex-adventures-cuckold-gym.json) |
 | Sex Adventures: Futanari Doctor | 286529 | [286529-sex-adventures-futanari-doctor.json](./286529-sex-adventures-futanari-doctor.json) |
@@ -21635,6 +21637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Droid Repair Bay | 76946 | [76946-star-wars-droid-repair-bay.json](./76946-star-wars-droid-repair-bay.json) |
 | Star Wars: Droids - The Adventures of R2-D2 and C-3PO | 61864 | [61864-star-wars-droids-the-adventures-of-r2-d2-and-c-3po.json](./61864-star-wars-droids-the-adventures-of-r2-d2-and-c-3po.json) |
 | Star Wars: DroidWorks | 95480 | [95480-star-wars-droidworks.json](./95480-star-wars-droidworks.json) |
+| Star Wars: Early Learning Activity Center | 185865 | [185865-star-wars-early-learning-activity-center.json](./185865-star-wars-early-learning-activity-center.json) |
 | Star Wars: Empire at War | 144 | [144-star-wars-empire-at-war.json](./144-star-wars-empire-at-war.json) |
 | Star Wars: Empire at War - Forces of Corruption | 174 | [174-star-wars-empire-at-war-forces-of-corruption.json](./174-star-wars-empire-at-war-forces-of-corruption.json) |
 | Star Wars: Empire at War - Gold Pack | 93832 | [93832-star-wars-empire-at-war-gold-pack.json](./93832-star-wars-empire-at-war-gold-pack.json) |
@@ -21683,6 +21686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Imperial Assault | 199015 | [199015-star-wars-imperial-assault.json](./199015-star-wars-imperial-assault.json) |
 | Star Wars: Imperial Assault - Legends of the Alliance | 76411 | [76411-star-wars-imperial-assault-legends-of-the-alliance.json](./76411-star-wars-imperial-assault-legends-of-the-alliance.json) |
 | Star Wars: Imperial Commando | 286374 | [286374-star-wars-imperial-commando.json](./286374-star-wars-imperial-commando.json) |
+| Star Wars: Jar Jar's Journey Adventure Book | 185866 | [185866-star-wars-jar-jars-journey-adventure-book.json](./185866-star-wars-jar-jars-journey-adventure-book.json) |
 | Star Wars: Jedi Adventure | 62669 | [62669-star-wars-jedi-adventure.json](./62669-star-wars-jedi-adventure.json) |
 | Star Wars: Jedi Challenges | 75089 | [75089-star-wars-jedi-challenges.json](./75089-star-wars-jedi-challenges.json) |
 | Star Wars: Jedi Knight - Dark Forces II | 150 | [150-star-wars-jedi-knight-dark-forces-ii.json](./150-star-wars-jedi-knight-dark-forces-ii.json) |
