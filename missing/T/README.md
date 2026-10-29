@@ -6120,6 +6120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The California Raisins: The Grape Escape | 48702 | [48702-the-california-raisins-the-grape-escape.json](./48702-the-california-raisins-the-grape-escape.json) |
 | The Caligula Effect 2 | 143623 | [143623-the-caligula-effect-2.json](./143623-the-caligula-effect-2.json) |
 | The Caligula Effect 2: Complete Edition | 227183 | [227183-the-caligula-effect-2-complete-edition.json](./227183-the-caligula-effect-2-complete-edition.json) |
+| The Caligula Effect 2: Digital Deluxe Edition | 221497 | [221497-the-caligula-effect-2-digital-deluxe-edition.json](./221497-the-caligula-effect-2-digital-deluxe-edition.json) |
 | The Caligula Effect 2: First Press Limited Edition | 146013 | [146013-the-caligula-effect-2-first-press-limited-edition.json](./146013-the-caligula-effect-2-first-press-limited-edition.json) |
 | The Caligula Effect: Deluxe Digital Bundle | 122355 | [122355-the-caligula-effect-deluxe-digital-bundle.json](./122355-the-caligula-effect-deluxe-digital-bundle.json) |
 | The Caligula Effect: Overdose | 75990 | [75990-the-caligula-effect-overdose.json](./75990-the-caligula-effect-overdose.json) |
@@ -8736,6 +8737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gate 2 | 221912 | [221912-the-gate-2.json](./221912-the-gate-2.json) |
 | The Gate Must Stand | 370107 | [370107-the-gate-must-stand.json](./370107-the-gate-must-stand.json) |
 | The Gatekeeper of Scarlet's Mansion | 348237 | [348237-the-gatekeeper-of-scarlets-mansion.json](./348237-the-gatekeeper-of-scarlets-mansion.json) |
+| The Gates of Ursa | 221491 | [221491-the-gates-of-ursa.json](./221491-the-gates-of-ursa.json) |
 | The Gateway Persona | 177890 | [177890-the-gateway-persona.json](./177890-the-gateway-persona.json) |
 | The Gateway to Hell | 271752 | [271752-the-gateway-to-hell.json](./271752-the-gateway-to-hell.json) |
 | The Gateway Trilogy | 51980 | [51980-the-gateway-trilogy.json](./51980-the-gateway-trilogy.json) |
@@ -9773,6 +9775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Infernalist | 371355 | [371355-the-infernalist.json](./371355-the-infernalist.json) |
 | The Inferno | 358963 | [358963-the-inferno.json](./358963-the-inferno.json) |
 | The Infinite Black | 32861 | [32861-the-infinite-black.json](./32861-the-infinite-black.json) |
+| The Infinite Black 2 | 221519 | [221519-the-infinite-black-2.json](./221519-the-infinite-black-2.json) |
 | The Infinite Grimoire | 401825 | [401825-the-infinite-grimoire.json](./401825-the-infinite-grimoire.json) |
 | The Infinity Road | 341160 | [341160-the-infinity-road.json](./341160-the-infinity-road.json) |
 | The Infinity String | 74043 | [74043-the-infinity-string.json](./74043-the-infinity-string.json) |
@@ -11729,6 +11732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Vikings | 214736 | [214736-the-lost-vikings.json](./214736-the-lost-vikings.json) |
 | The Lost Vikings | 214769 | [214769-the-lost-vikings.json](./214769-the-lost-vikings.json) |
 | The Lost Vikings | 454 | [454-the-lost-vikings.json](./454-the-lost-vikings.json) |
+| The Lost Vilage | 221483 | [221483-the-lost-vilage.json](./221483-the-lost-vilage.json) |
 | The Lost Village | 211916 | [211916-the-lost-village.json](./211916-the-lost-village.json) |
 | The Lost Village: Fantasy | 289987 | [289987-the-lost-village-fantasy.json](./289987-the-lost-village-fantasy.json) |
 | The Lost Village: JiangHu | 298625 | [298625-the-lost-village-jianghu.json](./298625-the-lost-village-jianghu.json) |
@@ -20643,6 +20647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny T | 171445 | [171445-tiny-t.json](./171445-tiny-t.json) |
 | Tiny Tactics | 210879 | [210879-tiny-tactics.json](./210879-tiny-tactics.json) |
 | Tiny Tactics Go! | 373854 | [373854-tiny-tactics-go.json](./373854-tiny-tactics-go.json) |
+| Tiny Talents | 221487 | [221487-tiny-talents.json](./221487-tiny-talents.json) |
 | Tiny Tales: Heart of the Forest | 36951 | [36951-tiny-tales-heart-of-the-forest.json](./36951-tiny-tales-heart-of-the-forest.json) |
 | Tiny Tales: Hidden Objects | 285523 | [285523-tiny-tales-hidden-objects.json](./285523-tiny-tales-hidden-objects.json) |
 | Tiny Tank | 189962 | [189962-tiny-tank.json](./189962-tiny-tank.json) |
@@ -21054,6 +21059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Kyrstem | 181326 | [181326-to-kyrstem.json](./181326-to-kyrstem.json) |
 | To Last | 258452 | [258452-to-last.json](./258452-to-last.json) |
 | To Leave | 61714 | [61714-to-leave.json](./61714-to-leave.json) |
+| To Leave: Deluxe Edition | 221493 | [221493-to-leave-deluxe-edition.json](./221493-to-leave-deluxe-edition.json) |
 | To Libertad | 212287 | [212287-to-libertad.json](./212287-to-libertad.json) |
 | To Light: Ex Umbra | 102370 | [102370-to-light-ex-umbra.json](./102370-to-light-ex-umbra.json) |
 | To Love Ru x 2 | 97376 | [97376-to-love-ru-x-2.json](./97376-to-love-ru-x-2.json) |
@@ -26763,6 +26769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of The Illuminati: Animated Christmas Time Jigsaws | 334758 | [334758-trials-of-the-illuminati-animated-christmas-time-jigsaws.json](./334758-trials-of-the-illuminati-animated-christmas-time-jigsaws.json) |
 | Trials of the Illuminati: Sea Creatures Jigsaws | 334759 | [334759-trials-of-the-illuminati-sea-creatures-jigsaws.json](./334759-trials-of-the-illuminati-sea-creatures-jigsaws.json) |
 | Trials of the Illuminati: Snack Time Jigsaw Puzzles | 109660 | [109660-trials-of-the-illuminati-snack-time-jigsaw-puzzles.json](./109660-trials-of-the-illuminati-snack-time-jigsaw-puzzles.json) |
+| Trials of the Illuminati: Women of Beauty Jigsaws | 221512 | [221512-trials-of-the-illuminati-women-of-beauty-jigsaws.json](./221512-trials-of-the-illuminati-women-of-beauty-jigsaws.json) |
 | Trials of Titan | 138602 | [138602-trials-of-titan.json](./138602-trials-of-titan.json) |
 | Trials of Topaq | 99582 | [99582-trials-of-topaq.json](./99582-trials-of-topaq.json) |
 | Trials of Wilderness | 109381 | [109381-trials-of-wilderness.json](./109381-trials-of-wilderness.json) |
