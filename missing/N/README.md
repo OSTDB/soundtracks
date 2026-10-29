@@ -2986,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros. Versus: Cubby's Character Mod | 243978 | [243978-new-super-mario-bros-versus-cubbys-character-mod.json](./243978-new-super-mario-bros-versus-cubbys-character-mod.json) |
 | New Super Mario Bros. Versus: Doodler's Mayhem | 306633 | [306633-new-super-mario-bros-versus-doodlers-mayhem.json](./306633-new-super-mario-bros-versus-doodlers-mayhem.json) |
 | New Super Mario Bros. Versus: Steve's Map Pack | 243976 | [243976-new-super-mario-bros-versus-steves-map-pack.json](./243976-new-super-mario-bros-versus-steves-map-pack.json) |
+| New Super Mario Bros. Wii | 191436 | [191436-new-super-mario-bros-wii.json](./191436-new-super-mario-bros-wii.json) |
 | New Super Mario Bros. Wii 2: The Next Levels | 230246 | [230246-new-super-mario-bros-wii-2-the-next-levels.json](./230246-new-super-mario-bros-wii-2-the-next-levels.json) |
 | New Super Mario Bros. Wii Coin World | 132003 | [132003-new-super-mario-bros-wii-coin-world.json](./132003-new-super-mario-bros-wii-coin-world.json) |
 | New Super Mario Bros. Wii DS | 230759 | [230759-new-super-mario-bros-wii-ds.json](./230759-new-super-mario-bros-wii-ds.json) |
@@ -4913,6 +4914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Thrash | 408082 | [408082-nitro-thrash.json](./408082-nitro-thrash.json) |
 | Nitro: Stream Racing | 231860 | [231860-nitro-stream-racing.json](./231860-nitro-stream-racing.json) |
 | Nitroglycerin | 272104 | [272104-nitroglycerin.json](./272104-nitroglycerin.json) |
+| Nitrojet | 190327 | [190327-nitrojet.json](./190327-nitrojet.json) |
 | Nitrokill | 390817 | [390817-nitrokill.json](./390817-nitrokill.json) |
 | Nitrome Must Die | 141775 | [141775-nitrome-must-die.json](./141775-nitrome-must-die.json) |
 | Nitronauts | 333144 | [333144-nitronauts.json](./333144-nitronauts.json) |
