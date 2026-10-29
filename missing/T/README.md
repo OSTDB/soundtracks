@@ -6736,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Court of Wanderers | 152793 | [152793-the-court-of-wanderers.json](./152793-the-court-of-wanderers.json) |
 | The Coven | 37114 | [37114-the-coven.json](./37114-the-coven.json) |
 | The Coven of Calahree | 199238 | [199238-the-coven-of-calahree.json](./199238-the-coven-of-calahree.json) |
+| The Coven of P.S. 13 | 183182 | [183182-the-coven-of-p-s-13.json](./183182-the-coven-of-p-s-13.json) |
 | The Covenant | 13526 | [13526-the-covenant.json](./13526-the-covenant.json) |
 | The Coveted Mirror | 25038 | [25038-the-coveted-mirror.json](./25038-the-coveted-mirror.json) |
 | The Cow Flew Over the Moon | 8368 | [8368-the-cow-flew-over-the-moon.json](./8368-the-cow-flew-over-the-moon.json) |
@@ -7427,6 +7428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Disciples of the Full Moon | 323565 | [323565-the-disciples-of-the-full-moon.json](./323565-the-disciples-of-the-full-moon.json) |
 | The Discrete Era | 263499 | [263499-the-discrete-era.json](./263499-the-discrete-era.json) |
 | The Diseases, and Casualties this year being 1632 | 279080 | [279080-the-diseases-and-casualties-this-year-being-1632.json](./279080-the-diseases-and-casualties-this-year-being-1632.json) |
+| The Disembodied Hand | 183203 | [183203-the-disembodied-hand.json](./183203-the-disembodied-hand.json) |
 | The Disgraced Prince | 171842 | [171842-the-disgraced-prince.json](./171842-the-disgraced-prince.json) |
 | The Disgusting Slaughterman | 126312 | [126312-the-disgusting-slaughterman.json](./126312-the-disgusting-slaughterman.json) |
 | The Dishwasher: Dead Samurai | 21178 | [21178-the-dishwasher-dead-samurai.json](./21178-the-dishwasher-dead-samurai.json) |
@@ -7944,6 +7946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Erased Student | 374201 | [374201-the-erased-student.json](./374201-the-erased-student.json) |
 | The Eraser | 183270 | [183270-the-eraser.json](./183270-the-eraser.json) |
 | The Escape | 112115 | [112115-the-escape.json](./112115-the-escape.json) |
+| The Escape | 183168 | [183168-the-escape.json](./183168-the-escape.json) |
 | The Escape | 219555 | [219555-the-escape.json](./219555-the-escape.json) |
 | The Escape | 365256 | [365256-the-escape.json](./365256-the-escape.json) |
 | The Escape From Atlantis | 48312 | [48312-the-escape-from-atlantis.json](./48312-the-escape-from-atlantis.json) |
@@ -10230,6 +10233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Keisatsu 24-ji | 365665 | [365665-the-keisatsu-24-ji.json](./365665-the-keisatsu-24-ji.json) |
 | The Kendama Challenge: 100 Players | 389736 | [389736-the-kendama-challenge-100-players.json](./389736-the-kendama-challenge-100-players.json) |
 | The Kepler Experiment | 376527 | [376527-the-kepler-experiment.json](./376527-the-kepler-experiment.json) |
+| The Key | 183213 | [183213-the-key.json](./183213-the-key.json) |
 | The Key | 330293 | [330293-the-key.json](./330293-the-key.json) |
 | The Key 1: Flight From Arcadia | 99112 | [99112-the-key-1-flight-from-arcadia.json](./99112-the-key-1-flight-from-arcadia.json) |
 | The Key of Avalon | 308055 | [308055-the-key-of-avalon.json](./308055-the-key-of-avalon.json) |
@@ -13503,6 +13507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Puzzle Story | 113491 | [113491-the-puzzle-story.json](./113491-the-puzzle-story.json) |
 | The Puzzle Trouble | 53769 | [53769-the-puzzle-trouble.json](./53769-the-puzzle-trouble.json) |
 | The Puzzler | 365866 | [365866-the-puzzler.json](./365866-the-puzzler.json) |
+| The Pyramid | 183204 | [183204-the-pyramid.json](./183204-the-pyramid.json) |
 | The Pyramid | 45362 | [45362-the-pyramid.json](./45362-the-pyramid.json) |
 | The Pyramid of Bones | 235053 | [235053-the-pyramid-of-bones.json](./235053-the-pyramid-of-bones.json) |
 | The Pyramid Of Peril | 112211 | [112211-the-pyramid-of-peril.json](./112211-the-pyramid-of-peril.json) |
@@ -15127,6 +15132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sports Daishuugou | 123043 | [123043-the-sports-daishuugou.json](./123043-the-sports-daishuugou.json) |
 | The Spotter: Dig or Die | 391190 | [391190-the-spotter-dig-or-die.json](./391190-the-spotter-dig-or-die.json) |
 | The Spreader | 312021 | [312021-the-spreader.json](./312021-the-spreader.json) |
+| The Spring | 183215 | [183215-the-spring.json](./183215-the-spring.json) |
 | The Spring | 366312 | [366312-the-spring.json](./366312-the-spring.json) |
 | The Springlock: Aftermath | 315504 | [315504-the-springlock-aftermath.json](./315504-the-springlock-aftermath.json) |
 | The SpudFather | 302329 | [302329-the-spudfather.json](./302329-the-spudfather.json) |
@@ -16177,6 +16183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Typing of the Dead: Overkill - Silver Screen DLC | 53868 | [53868-the-typing-of-the-dead-overkill-silver-screen-dlc.json](./53868-the-typing-of-the-dead-overkill-silver-screen-dlc.json) |
 | The Typing of The Dead: Overkill Collection | 53787 | [53787-the-typing-of-the-dead-overkill-collection.json](./53787-the-typing-of-the-dead-overkill-collection.json) |
 | The Tyrant's Bodyguard 2: Restoration | 226079 | [226079-the-tyrants-bodyguard-2-restoration.json](./226079-the-tyrants-bodyguard-2-restoration.json) |
+| The Tyrant's Dream | 183201 | [183201-the-tyrants-dream.json](./183201-the-tyrants-dream.json) |
 | The Ugly Christmas Sweater Game | 126995 | [126995-the-ugly-christmas-sweater-game.json](./126995-the-ugly-christmas-sweater-game.json) |
 | The Ugly Duckling | 206777 | [206777-the-ugly-duckling.json](./206777-the-ugly-duckling.json) |
 | The Ugly Ducling | 228078 | [228078-the-ugly-ducling.json](./228078-the-ugly-ducling.json) |
@@ -16218,6 +16225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimatum: Choices | 326795 | [326795-the-ultimatum-choices.json](./326795-the-ultimatum-choices.json) |
 | The Ultra Code | 121294 | [121294-the-ultra-code.json](./121294-the-ultra-code.json) |
 | The Ultra Mission | 199105 | [199105-the-ultra-mission.json](./199105-the-ultra-mission.json) |
+| The Umberdred Institute for Emerging Evildoers | 183196 | [183196-the-umberdred-institute-for-emerging-evildoers.json](./183196-the-umberdred-institute-for-emerging-evildoers.json) |
 | The Umbrella Ninja | 260734 | [260734-the-umbrella-ninja.json](./260734-the-umbrella-ninja.json) |
 | The Umbridge Estate | 223231 | [223231-the-umbridge-estate.json](./223231-the-umbridge-estate.json) |
 | The Ump Show | 272403 | [272403-the-ump-show.json](./272403-the-ump-show.json) |
@@ -17853,6 +17861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Place at the End: An Apocalyptic RPG | 392226 | [392226-this-place-at-the-end-an-apocalyptic-rpg.json](./392226-this-place-at-the-end-an-apocalyptic-rpg.json) |
 | This Planet Sucks! | 71339 | [71339-this-planet-sucks.json](./71339-this-planet-sucks.json) |
 | This Rain Will Never End | 169462 | [169462-this-rain-will-never-end.json](./169462-this-rain-will-never-end.json) |
+| This Room Will Kill You | 183171 | [183171-this-room-will-kill-you.json](./183171-this-room-will-kill-you.json) |
 | This Ship Goes Brrr | 366339 | [366339-this-ship-goes-brrr.json](./366339-this-ship-goes-brrr.json) |
 | This Short Indie Game Made Me Miss My Friends: Rainy Plays Lonely Game Livestream | 403029 | [403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json](./403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json) |
 | This Side | 116279 | [116279-this-side.json](./116279-this-side.json) |
@@ -18299,6 +18308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder | 249655 | [249655-thunder.json](./249655-thunder.json) |
 | Thunder Alley | 49340 | [49340-thunder-alley.json](./49340-thunder-alley.json) |
 | Thunder and Line-ing | 389707 | [389707-thunder-and-line-ing.json](./389707-thunder-and-line-ing.json) |
+| Thunder Bella the Cloud Chaser | 183186 | [183186-thunder-bella-the-cloud-chaser.json](./183186-thunder-bella-the-cloud-chaser.json) |
 | Thunder Blade | 12862 | [12862-thunder-blade.json](./12862-thunder-blade.json) |
 | Thunder Blast Man | 50057 | [50057-thunder-blast-man.json](./50057-thunder-blast-man.json) |
 | Thunder Blaster Man | 48463 | [48463-thunder-blaster-man.json](./48463-thunder-blaster-man.json) |
