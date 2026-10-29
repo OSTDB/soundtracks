@@ -4451,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deconstruction Simulator | 258588 | [258588-deconstruction-simulator.json](./258588-deconstruction-simulator.json) |
 | Deconstuctor | 102367 | [102367-deconstuctor.json](./102367-deconstuctor.json) |
 | Decontamination | 335879 | [335879-decontamination.json](./335879-decontamination.json) |
+| Decontrologic | 199200 | [199200-decontrologic.json](./199200-decontrologic.json) |
 | Decopins: Asset Fighters Series | 220012 | [220012-decopins-asset-fighters-series.json](./220012-decopins-asset-fighters-series.json) |
 | Decopins2 | 268320 | [268320-decopins2.json](./268320-decopins2.json) |
 | Decor Dream | 305845 | [305845-decor-dream.json](./305845-decor-dream.json) |
@@ -4756,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Water | 85965 | [85965-deep-water.json](./85965-deep-water.json) |
 | Deep West | 369016 | [369016-deep-west.json](./369016-deep-west.json) |
 | Deep Within the Mist | 359344 | [359344-deep-within-the-mist.json](./359344-deep-within-the-mist.json) |
+| Deep/Wing/Break | 199194 | [199194-deep-wing-break.json](./199194-deep-wing-break.json) |
 | Deepak Chopra's Leela | 20244 | [20244-deepak-chopras-leela.json](./20244-deepak-chopras-leela.json) |
 | DeepBubbles | 358890 | [358890-deepbubbles.json](./358890-deepbubbles.json) |
 | DeepCover | 317998 | [317998-deepcover.json](./317998-deepcover.json) |
@@ -12082,6 +12084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dunk | 18007 | [18007-double-dunk.json](./18007-double-dunk.json) |
 | Double Eagle | 98257 | [98257-double-eagle.json](./98257-double-eagle.json) |
 | Double Eagle: Tricky Hole | 98260 | [98260-double-eagle-tricky-hole.json](./98260-double-eagle-tricky-hole.json) |
+| Double Edged | 199250 | [199250-double-edged.json](./199250-double-edged.json) |
 | Double Elf Fantasy | 241663 | [241663-double-elf-fantasy.json](./241663-double-elf-fantasy.json) |
 | Double Essence | 98440 | [98440-double-essence.json](./98440-double-essence.json) |
 | Double Feature Solitaire | 93350 | [93350-double-feature-solitaire.json](./93350-double-feature-solitaire.json) |
@@ -16572,6 +16575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duskmarch | 348042 | [348042-duskmarch.json](./348042-duskmarch.json) |
 | Duskmire | 306315 | [306315-duskmire.json](./306315-duskmire.json) |
 | DuskVeil | 366626 | [366626-duskveil.json](./366626-duskveil.json) |
+| Duskwitch: Heroic Soul | 199244 | [199244-duskwitch-heroic-soul.json](./199244-duskwitch-heroic-soul.json) |
 | Duskwood | 139073 | [139073-duskwood.json](./139073-duskwood.json) |
 | Duskworld | 198144 | [198144-duskworld.json](./198144-duskworld.json) |
 | Dusky Cap | 343862 | [343862-dusky-cap.json](./343862-dusky-cap.json) |
