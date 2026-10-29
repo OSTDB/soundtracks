@@ -29065,6 +29065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tank Battle | 175369 | [175369-super-tank-battle.json](./175369-super-tank-battle.json) |
 | Super Tank Rumble | 185695 | [185695-super-tank-rumble.json](./185695-super-tank-rumble.json) |
 | Super Tanooki Goomba | 323180 | [323180-super-tanooki-goomba.json](./323180-super-tanooki-goomba.json) |
+| Super Teacher: The Crazy School | 209856 | [209856-super-teacher-the-crazy-school.json](./209856-super-teacher-the-crazy-school.json) |
 | Super Team Games | 48232 | [48232-super-team-games.json](./48232-super-team-games.json) |
 | Super Technos World: River City & Arcade Classics | 337064 | [337064-super-technos-world-river-city-and-arcade-classics.json](./337064-super-technos-world-river-city-and-arcade-classics.json) |
 | Super Tekkyu Fight! | 42222 | [42222-super-tekkyu-fight.json](./42222-super-tekkyu-fight.json) |
