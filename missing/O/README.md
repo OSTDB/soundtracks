@@ -121,6 +121,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obake no Q-Taro: Oba Q Channel | 293908 | [293908-obake-no-q-taro-oba-q-channel.json](./293908-obake-no-q-taro-oba-q-channel.json) |
 | Obake no Q-Taro: Wan-wan Panic | 215139 | [215139-obake-no-q-taro-wan-wan-panic.json](./215139-obake-no-q-taro-wan-wan-panic.json) |
 | Obakeidoro 2: Chase & Seek | 338107 | [338107-obakeidoro-2-chase-and-seek.json](./338107-obakeidoro-2-chase-and-seek.json) |
+| Obakeidoro!: Castlevania Collaboration Character DLC Bundle | 223806 | [223806-obakeidoro-castlevania-collaboration-character-dlc-bundle.json](./223806-obakeidoro-castlevania-collaboration-character-dlc-bundle.json) |
+| Obakeidoro!: Character DLC Bundle 2 | 223807 | [223807-obakeidoro-character-dlc-bundle-2.json](./223807-obakeidoro-character-dlc-bundle-2.json) |
 | Obakenori | 329042 | [329042-obakenori.json](./329042-obakenori.json) |
 | Obama Alien Defence | 282109 | [282109-obama-alien-defence.json](./282109-obama-alien-defence.json) |
 | Obama Alien Defense | 326739 | [326739-obama-alien-defense.json](./326739-obama-alien-defense.json) |
