@@ -3618,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Project | 386358 | [386358-deadly-project.json](./386358-deadly-project.json) |
 | Deadly Quiet | 342268 | [342268-deadly-quiet.json](./342268-deadly-quiet.json) |
 | Deadly Rails | 337436 | [337436-deadly-rails.json](./337436-deadly-rails.json) |
+| Deadly Rain | 197506 | [197506-deadly-rain.json](./197506-deadly-rain.json) |
 | Deadly Rehearsal | 326599 | [326599-deadly-rehearsal.json](./326599-deadly-rehearsal.json) |
 | Deadly Reunion | 341641 | [341641-deadly-reunion.json](./341641-deadly-reunion.json) |
 | Deadly Road | 247097 | [247097-deadly-road.json](./247097-deadly-road.json) |
@@ -3889,6 +3890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Drives a Bus | 138531 | [138531-death-drives-a-bus.json](./138531-death-drives-a-bus.json) |
 | Death Drome | 73755 | [73755-death-drome.json](./73755-death-drome.json) |
 | Death Duel | 46224 | [46224-death-duel.json](./46224-death-duel.json) |
+| Death Duel VR | 197474 | [197474-death-duel-vr.json](./197474-death-duel-vr.json) |
 | Death Dungeon | 193995 | [193995-death-dungeon.json](./193995-death-dungeon.json) |
 | Death Dungeon | 199793 | [199793-death-dungeon.json](./199793-death-dungeon.json) |
 | Death Education | 301263 | [301263-death-education.json](./301263-death-education.json) |
@@ -5075,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Define | 336573 | [336573-define.json](./336573-define.json) |
 | Definitely Not a Cult | 408807 | [408807-definitely-not-a-cult.json](./408807-definitely-not-a-cult.json) |
 | Definitely Not Fried Chicken | 143078 | [143078-definitely-not-fried-chicken.json](./143078-definitely-not-fried-chicken.json) |
+| Definitely Poker | 198049 | [198049-definitely-poker.json](./198049-definitely-poker.json) |
 | Definitely Real Football | 177014 | [177014-definitely-real-football.json](./177014-definitely-real-football.json) |
 | Definitely Sneaky But Not Sneaky | 113182 | [113182-definitely-sneaky-but-not-sneaky.json](./113182-definitely-sneaky-but-not-sneaky.json) |
 | Definya | 273508 | [273508-definya.json](./273508-definya.json) |
@@ -17034,4 +17037,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DZ & Riggy Vs. the Fantasy World | 320412 | [320412-dz-and-riggy-vs-the-fantasy-world.json](./320412-dz-and-riggy-vs-the-fantasy-world.json) |
 | DZ & Riggy vs. the Worlds II | 252079 | [252079-dz-and-riggy-vs-the-worlds-ii.json](./252079-dz-and-riggy-vs-the-worlds-ii.json) |
 | Dziedzic: A Book of Unanswered Questions | 299735 | [299735-dziedzic-a-book-of-unanswered-questions.json](./299735-dziedzic-a-book-of-unanswered-questions.json) |
+| DzombZ | 197494 | [197494-dzombz.json](./197494-dzombz.json) |
 | Dzyun Battle 2026 | 382255 | [382255-dzyun-battle-2026.json](./382255-dzyun-battle-2026.json) |
