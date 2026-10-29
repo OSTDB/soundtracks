@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1nvader | 227992 | [227992-1nvader.json](./227992-1nvader.json) |
 | 1on1 Basketball | 59651 | [59651-1on1-basketball.json](./59651-1on1-basketball.json) |
 | 1on1 Soccer | 59649 | [59649-1on1-soccer.json](./59649-1on1-soccer.json) |
+| 1Push | 183744 | [183744-1push.json](./183744-1push.json) |
 | 1Second | 363873 | [363873-1second.json](./363873-1second.json) |
 | 1sland | 142339 | [142339-1sland.json](./142339-1sland.json) |
 | 1st CD-Edition | 112186 | [112186-1st-cd-edition.json](./112186-1st-cd-edition.json) |
