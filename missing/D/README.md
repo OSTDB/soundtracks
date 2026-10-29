@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandara | 296666 | [296666-dandara.json](./296666-dandara.json) |
 | Dandara: Trials of Fear - Enhanced Edition | 155057 | [155057-dandara-trials-of-fear-enhanced-edition.json](./155057-dandara-trials-of-fear-enhanced-edition.json) |
 | Dandelion | 181343 | [181343-dandelion.json](./181343-dandelion.json) |
+| Dandelion | 199731 | [199731-dandelion.json](./199731-dandelion.json) |
 | Dandelion Planet | 277777 | [277777-dandelion-planet.json](./277777-dandelion-planet.json) |
 | Dandelion Void | 343376 | [343376-dandelion-void.json](./343376-dandelion-void.json) |
 | DanDeLion: Starchild Journey | 343049 | [343049-dandelion-starchild-journey.json](./343049-dandelion-starchild-journey.json) |
@@ -1492,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Mine | 233440 | [233440-dark-mine.json](./233440-dark-mine.json) |
 | Dark Mine | 343210 | [343210-dark-mine.json](./343210-dark-mine.json) |
 | Dark Mirror | 270084 | [270084-dark-mirror.json](./270084-dark-mirror.json) |
+| Dark Mist | 200289 | [200289-dark-mist.json](./200289-dark-mist.json) |
 | Dark Mist | 21818 | [21818-dark-mist.json](./21818-dark-mist.json) |
 | Dark Mist | 224945 | [224945-dark-mist.json](./224945-dark-mist.json) |
 | Dark Mist - The Wizard Vanishes | 141213 | [141213-dark-mist-the-wizard-vanishes.json](./141213-dark-mist-the-wizard-vanishes.json) |
@@ -5027,6 +5029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Keeper | 24020 | [24020-defense-keeper.json](./24020-defense-keeper.json) |
 | Defense Master | 284486 | [284486-defense-master.json](./284486-defense-master.json) |
 | Defense of Egypt: Cleopatra Mission | 31097 | [31097-defense-of-egypt-cleopatra-mission.json](./31097-defense-of-egypt-cleopatra-mission.json) |
+| Defense of Fortune 2 | 200295 | [200295-defense-of-fortune-2.json](./200295-defense-of-fortune-2.json) |
 | Defense of Kyrath | 406310 | [406310-defense-of-kyrath.json](./406310-defense-of-kyrath.json) |
 | Defense of Nations | 268505 | [268505-defense-of-nations.json](./268505-defense-of-nations.json) |
 | Defense of the Ass | 141837 | [141837-defense-of-the-ass.json](./141837-defense-of-the-ass.json) |
@@ -5204,6 +5207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delegati Genesis | 203956 | [203956-delegati-genesis.json](./203956-delegati-genesis.json) |
 | Delete | 380599 | [380599-delete.json](./380599-delete.json) |
 | Delete | 81918 | [81918-delete.json](./81918-delete.json) |
+| Delete After Reading | 199767 | [199767-delete-after-reading.json](./199767-delete-after-reading.json) |
 | Delete Virus; | 202629 | [202629-delete-virus.json](./202629-delete-virus.json) |
 | Deleted | 264654 | [264654-deleted.json](./264654-deleted.json) |
 | Deleters | 405586 | [405586-deleters.json](./405586-deleters.json) |
@@ -11028,6 +11032,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Touch the Red Bubble | 174330 | [174330-dont-touch-the-red-bubble.json](./174330-dont-touch-the-red-bubble.json) |
 | Don't Touch the Snail | 394829 | [394829-dont-touch-the-snail.json](./394829-dont-touch-the-snail.json) |
 | Don't Touch the Spikes | 225291 | [225291-dont-touch-the-spikes.json](./225291-dont-touch-the-spikes.json) |
+| Don't Touch the Vowels | 200280 | [200280-dont-touch-the-vowels.json](./200280-dont-touch-the-vowels.json) |
+| Don't Touch the Vowels 2 | 200279 | [200279-dont-touch-the-vowels-2.json](./200279-dont-touch-the-vowels-2.json) |
 | Don't Touch this Button! | 158161 | [158161-dont-touch-this-button.json](./158161-dont-touch-this-button.json) |
 | Don't Toy With Me | 204257 | [204257-dont-toy-with-me.json](./204257-dont-toy-with-me.json) |
 | Don't Trust | 311121 | [311121-dont-trust.json](./311121-dont-trust.json) |
@@ -14991,6 +14997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Druid | 29038 | [29038-druid.json](./29038-druid.json) |
 | Druid | 305921 | [305921-druid.json](./305921-druid.json) |
 | Druid and His Circle of Animals | 176157 | [176157-druid-and-his-circle-of-animals.json](./176157-druid-and-his-circle-of-animals.json) |
+| Druid Kingdom HD | 200299 | [200299-druid-kingdom-hd.json](./200299-druid-kingdom-hd.json) |
 | Druid Soccer | 94598 | [94598-druid-soccer.json](./94598-druid-soccer.json) |
 | Druid: Daemons of the Mind | 2506 | [2506-druid-daemons-of-the-mind.json](./2506-druid-daemons-of-the-mind.json) |
 | Druid: Test of faith | 192770 | [192770-druid-test-of-faith.json](./192770-druid-test-of-faith.json) |
@@ -16602,6 +16609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust to Dust | 385854 | [385854-dust-to-dust.json](./385854-dust-to-dust.json) |
 | Dust to the End | 146016 | [146016-dust-to-the-end.json](./146016-dust-to-the-end.json) |
 | Dust Town | 386227 | [386227-dust-town.json](./386227-dust-town.json) |
+| Dust: A Post Apocalyptic Role Playing Game | 199751 | [199751-dust-a-post-apocalyptic-role-playing-game.json](./199751-dust-a-post-apocalyptic-role-playing-game.json) |
 | Dust: A Tale of the Wired West | 21868 | [21868-dust-a-tale-of-the-wired-west.json](./21868-dust-a-tale-of-the-wired-west.json) |
 | Dust: An Elysian Tail | 2130 | [2130-dust-an-elysian-tail.json](./2130-dust-an-elysian-tail.json) |
 | Dust: Undefined | 302041 | [302041-dust-undefined.json](./302041-dust-undefined.json) |
