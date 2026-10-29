@@ -4579,6 +4579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thanksgiving | 184573 | [184573-thanksgiving.json](./184573-thanksgiving.json) |
 | Thanksgivingistry | 55656 | [55656-thanksgivingistry.json](./55656-thanksgivingistry.json) |
 | ThanksKilling Day | 223452 | [223452-thankskilling-day.json](./223452-thankskilling-day.json) |
+| ThanksTaking | 211534 | [211534-thankstaking.json](./211534-thankstaking.json) |
 | Thapster | 86224 | [86224-thapster.json](./86224-thapster.json) |
 | Thapster TV | 85831 | [85831-thapster-tv.json](./85831-thapster-tv.json) |
 | Thapster TV: 2nd Wave | 127741 | [127741-thapster-tv-2nd-wave.json](./127741-thapster-tv-2nd-wave.json) |
@@ -10807,6 +10808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Train: Baquedano | 343255 | [343255-the-last-train-baquedano.json](./343255-the-last-train-baquedano.json) |
 | The Last Train: Final Ride | 175364 | [175364-the-last-train-final-ride.json](./175364-the-last-train-final-ride.json) |
 | The Last Transmission | 356685 | [356685-the-last-transmission.json](./356685-the-last-transmission.json) |
+| The Last Tree | 211529 | [211529-the-last-tree.json](./211529-the-last-tree.json) |
 | The Last Tree | 38813 | [38813-the-last-tree.json](./38813-the-last-tree.json) |
 | The Last Trooper | 15245 | [15245-the-last-trooper.json](./15245-the-last-trooper.json) |
 | The Last Utopi | 323671 | [323671-the-last-utopi.json](./323671-the-last-utopi.json) |
@@ -23228,6 +23230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Gendanshou Y: Unlimited Heroes | 207231 | [207231-touhou-gendanshou-y-unlimited-heroes.json](./207231-touhou-gendanshou-y-unlimited-heroes.json) |
 | Touhou Gendanshou: Unlimited Heroes | 207228 | [207228-touhou-gendanshou-unlimited-heroes.json](./207228-touhou-gendanshou-unlimited-heroes.json) |
 | Touhou Genso Kikou: Lost Alchemy | 100555 | [100555-touhou-genso-kikou-lost-alchemy.json](./100555-touhou-genso-kikou-lost-alchemy.json) |
+| Touhou Genso Maroku | 211530 | [211530-touhou-genso-maroku.json](./211530-touhou-genso-maroku.json) |
 | Touhou Genso Maroku W: The Devil of Decline - Shikigami Additional Contents | 212243 | [212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json](./212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json) |
 | Touhou Genso Maroku: Utage | 212096 | [212096-touhou-genso-maroku-utage.json](./212096-touhou-genso-maroku-utage.json) |
 | Touhou Genso Rondo: Bullet Ballet | 23281 | [23281-touhou-genso-rondo-bullet-ballet.json](./23281-touhou-genso-rondo-bullet-ballet.json) |
@@ -27232,6 +27235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trism | 29043 | [29043-trism.json](./29043-trism.json) |
 | Trism 2 | 109506 | [109506-trism-2.json](./109506-trism-2.json) |
 | Tristan | 96532 | [96532-tristan.json](./96532-tristan.json) |
+| Tristan Cole's Pro Driver | 211540 | [211540-tristan-coles-pro-driver.json](./211540-tristan-coles-pro-driver.json) |
 | Tristan: Curse of The Frog | 404964 | [404964-tristan-curse-of-the-frog.json](./404964-tristan-curse-of-the-frog.json) |
 | Triste | 371138 | [371138-triste.json](./371138-triste.json) |
 | Tristia Doki-doki Operation | 408142 | [408142-tristia-doki-doki-operation.json](./408142-tristia-doki-doki-operation.json) |
