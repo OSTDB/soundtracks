@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrapool | 380523 | [380523-ultrapool.json](./380523-ultrapool.json) |
 | Ultraquarium | 405020 | [405020-ultraquarium.json](./405020-ultraquarium.json) |
 | Ultrarush | 201661 | [201661-ultrarush.json](./201661-ultrarush.json) |
+| Ultrasclash V | 211002 | [211002-ultrasclash-v.json](./211002-ultrasclash-v.json) |
 | Ultrasecreto/Prólogo | 382239 | [382239-ultrasecreto-prologo.json](./382239-ultrasecreto-prologo.json) |
 | Ultrasound | 365244 | [365244-ultrasound.json](./365244-ultrasound.json) |
 | UltraStar | 142979 | [142979-ultrastar.json](./142979-ultrastar.json) |
