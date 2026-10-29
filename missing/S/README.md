@@ -3471,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Chronicles | 249879 | [249879-sea-chronicles.json](./249879-sea-chronicles.json) |
 | Sea Creatures | 112373 | [112373-sea-creatures.json](./112373-sea-creatures.json) |
 | Sea Devil | 172395 | [172395-sea-devil.json](./172395-sea-devil.json) |
+| Sea Dogs | 193077 | [193077-sea-dogs.json](./193077-sea-dogs.json) |
 | Sea Dogs: Caribbean Tales | 51868 | [51868-sea-dogs-caribbean-tales.json](./51868-sea-dogs-caribbean-tales.json) |
 | Sea Dogs: To Each His Own | 28232 | [28232-sea-dogs-to-each-his-own.json](./28232-sea-dogs-to-each-his-own.json) |
 | Sea Dogs: To Each His Own - Flying the Jolly Roger | 172374 | [172374-sea-dogs-to-each-his-own-flying-the-jolly-roger.json](./172374-sea-dogs-to-each-his-own-flying-the-jolly-roger.json) |
@@ -6375,6 +6376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shank 2 | 9623 | [9623-shank-2.json](./9623-shank-2.json) |
 | Shank the Cop | 155988 | [155988-shank-the-cop.json](./155988-shank-the-cop.json) |
 | Shankala | 377045 | [377045-shankala.json](./377045-shankala.json) |
+| Shankaram: Code Reborn | 193061 | [193061-shankaram-code-reborn.json](./193061-shankaram-code-reborn.json) |
 | Shankstars | 223605 | [223605-shankstars.json](./223605-shankstars.json) |
 | Shanky: The Vegan's Nightmare | 114906 | [114906-shanky-the-vegans-nightmare.json](./114906-shanky-the-vegans-nightmare.json) |
 | Shannara | 2233 | [2233-shannara.json](./2233-shannara.json) |
@@ -12808,6 +12810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smugglers 5: Invasion | 36209 | [36209-smugglers-5-invasion.json](./36209-smugglers-5-invasion.json) |
 | Smugglers 5: Invasion - Warrior Within | 170285 | [170285-smugglers-5-invasion-warrior-within.json](./170285-smugglers-5-invasion-warrior-within.json) |
 | Smugglers IV: Doomsday | 54377 | [54377-smugglers-iv-doomsday.json](./54377-smugglers-iv-doomsday.json) |
+| Smugglers of Cygnus | 193583 | [193583-smugglers-of-cygnus.json](./193583-smugglers-of-cygnus.json) |
 | Smugglers V | 51903 | [51903-smugglers-v.json](./51903-smugglers-v.json) |
 | Smugglers V - Secession | 50422 | [50422-smugglers-v-secession.json](./50422-smugglers-v-secession.json) |
 | Smugglers V: Invasion | 8817 | [8817-smugglers-v-invasion.json](./8817-smugglers-v-invasion.json) |
@@ -14186,6 +14189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokudoku Master | 83468 | [83468-sokudoku-master.json](./83468-sokudoku-master.json) |
 | Sol | 258519 | [258519-sol.json](./258519-sol.json) |
 | Sol 0: Mars Colonization | 34823 | [34823-sol-0-mars-colonization.json](./34823-sol-0-mars-colonization.json) |
+| Sol 3000 | 193052 | [193052-sol-3000.json](./193052-sol-3000.json) |
 | Sol 705 | 160175 | [160175-sol-705.json](./160175-sol-705.json) |
 | Sol and the Endless Orbit | 375825 | [375825-sol-and-the-endless-orbit.json](./375825-sol-and-the-endless-orbit.json) |
 | Sol Apocalypse | 289833 | [289833-sol-apocalypse.json](./289833-sol-apocalypse.json) |
@@ -14672,6 +14676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo Noble | 175374 | [175374-solo-noble.json](./175374-solo-noble.json) |
 | Solo Raid: Mage | 394614 | [394614-solo-raid-mage.json](./394614-solo-raid-mage.json) |
 | Solo Records | 177936 | [177936-solo-records.json](./177936-solo-records.json) |
+| Solo ReflectioN! | 193055 | [193055-solo-reflection.json](./193055-solo-reflection.json) |
 | Solo Royale | 172950 | [172950-solo-royale.json](./172950-solo-royale.json) |
 | Solo Shift! | 400173 | [400173-solo-shift.json](./400173-solo-shift.json) |
 | Solo Tactics | 374790 | [374790-solo-tactics.json](./374790-solo-tactics.json) |
@@ -16584,6 +16589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoundSelf | 61869 | [61869-soundself.json](./61869-soundself.json) |
 | Soundsphere | 176885 | [176885-soundsphere.json](./176885-soundsphere.json) |
 | SoundStage | 27777 | [27777-soundstage.json](./27777-soundstage.json) |
+| Soundsxworld | 193063 | [193063-soundsxworld.json](./193063-soundsxworld.json) |
 | SoundTown | 276820 | [276820-soundtown.json](./276820-soundtown.json) |
 | Soundtrack Attack | 74791 | [74791-soundtrack-attack.json](./74791-soundtrack-attack.json) |
 | Soundwave | 398556 | [398556-soundwave.json](./398556-soundwave.json) |
@@ -20814,6 +20820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalker Together | 327831 | [327831-stalker-together.json](./327831-stalker-together.json) |
 | Stalker: Spatial Trap | 321516 | [321516-stalker-spatial-trap.json](./321516-stalker-spatial-trap.json) |
 | Stalker: The Way of Survival | 314373 | [314373-stalker-the-way-of-survival.json](./314373-stalker-the-way-of-survival.json) |
+| Stalks Stalks Stalks | 193067 | [193067-stalks-stalks-stalks.json](./193067-stalks-stalks-stalks.json) |
 | Stall | 372618 | [372618-stall.json](./372618-stall.json) |
 | Stallion Squad | 133779 | [133779-stallion-squad.json](./133779-stallion-squad.json) |
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
@@ -26134,6 +26141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sukeban Janshi Ryuuko | 372145 | [372145-sukeban-janshi-ryuuko.json](./372145-sukeban-janshi-ryuuko.json) |
 | Sukeban Shachou Rena | 5195 | [5195-sukeban-shachou-rena.json](./5195-sukeban-shachou-rena.json) |
 | Sukebe Beach | 240695 | [240695-sukebe-beach.json](./240695-sukebe-beach.json) |
+| Sukebe Blocks | 193585 | [193585-sukebe-blocks.json](./193585-sukebe-blocks.json) |
 | Sukebe Fantasy | 246026 | [246026-sukebe-fantasy.json](./246026-sukebe-fantasy.json) |
 | Sukebe Office | 244224 | [244224-sukebe-office.json](./244224-sukebe-office.json) |
 | Sukebe Orb | 409838 | [409838-sukebe-orb.json](./409838-sukebe-orb.json) |
@@ -26146,6 +26154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sukima | 361312 | [361312-sukima.json](./361312-sukima.json) |
 | SuKuBus-Mission | 301306 | [301306-sukubus-mission.json](./301306-sukubus-mission.json) |
 | Sukutte: Save Me... | 130358 | [130358-sukutte-save-me.json](./130358-sukutte-save-me.json) |
+| SUL: Schutze Unser Land 3D | 193075 | [193075-sul-schutze-unser-land-3d.json](./193075-sul-schutze-unser-land-3d.json) |
 | Sulfur | 233970 | [233970-sulfur.json](./233970-sulfur.json) |
 | Sulfur | 261285 | [261285-sulfur.json](./261285-sulfur.json) |
 | Sulfur Ignition | 352224 | [352224-sulfur-ignition.json](./352224-sulfur-ignition.json) |
@@ -28784,6 +28793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rugby League 2 | 23009 | [23009-super-rugby-league-2.json](./23009-super-rugby-league-2.json) |
 | Super Run World | 223017 | [223017-super-run-world.json](./223017-super-run-world.json) |
 | Super Runabout: San Francisco Edition | 45804 | [45804-super-runabout-san-francisco-edition.json](./45804-super-runabout-san-francisco-edition.json) |
+| Super Runner VR | 193631 | [193631-super-runner-vr.json](./193631-super-runner-vr.json) |
 | Super Russian Roulette | 307936 | [307936-super-russian-roulette.json](./307936-super-russian-roulette.json) |
 | Super Ryu World | 172687 | [172687-super-ryu-world.json](./172687-super-ryu-world.json) |
 | Super Sad Banana | 345821 | [345821-super-sad-banana.json](./345821-super-sad-banana.json) |
@@ -29908,6 +29918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: Return to Another World | 91346 | [91346-surface-return-to-another-world.json](./91346-surface-return-to-another-world.json) |
 | Surface: Return to Another World - Collector's Edition | 105166 | [105166-surface-return-to-another-world-collectors-edition.json](./105166-surface-return-to-another-world-collectors-edition.json) |
 | Surface: Strings of Fate | 89625 | [89625-surface-strings-of-fate.json](./89625-surface-strings-of-fate.json) |
+| Surface: Strings of Fate - Collector's Edition | 193620 | [193620-surface-strings-of-fate-collectors-edition.json](./193620-surface-strings-of-fate-collectors-edition.json) |
 | Surface: The Noise She Couldn't Make | 139919 | [139919-surface-the-noise-she-couldnt-make.json](./139919-surface-the-noise-she-couldnt-make.json) |
 | Surface: The Noise She Couldn't Make - Collector's Edition | 416358 | [416358-surface-the-noise-she-couldnt-make-collectors-edition.json](./416358-surface-the-noise-she-couldnt-make-collectors-edition.json) |
 | Surface: The Pantheon | 139748 | [139748-surface-the-pantheon.json](./139748-surface-the-pantheon.json) |
