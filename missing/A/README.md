@@ -2512,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Obelisk: Starter Set | 292920 | [292920-across-the-obelisk-starter-set.json](./292920-across-the-obelisk-starter-set.json) |
 | Across the Obelisk: The Wolf Wars | 240895 | [240895-across-the-obelisk-the-wolf-wars.json](./240895-across-the-obelisk-the-wolf-wars.json) |
 | Across the Obelisk: Tulah, the Spider Queen | 357780 | [357780-across-the-obelisk-tulah-the-spider-queen.json](./357780-across-the-obelisk-tulah-the-spider-queen.json) |
+| Across the ocean | 188780 | [188780-across-the-ocean.json](./188780-across-the-ocean.json) |
 | Across the River | 334487 | [334487-across-the-river.json](./334487-across-the-river.json) |
 | Across the Table Hockey | 175087 | [175087-across-the-table-hockey.json](./175087-across-the-table-hockey.json) |
 | Across the Valley | 230504 | [230504-across-the-valley.json](./230504-across-the-valley.json) |
@@ -3174,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of the Skullmancer | 261117 | [261117-adventure-of-the-skullmancer.json](./261117-adventure-of-the-skullmancer.json) |
 | Adventure of Thieves | 31817 | [31817-adventure-of-thieves.json](./31817-adventure-of-thieves.json) |
 | Adventure of Tokyo Disney Sea | 49494 | [49494-adventure-of-tokyo-disney-sea.json](./49494-adventure-of-tokyo-disney-sea.json) |
+| Adventure of Tuck | 188805 | [188805-adventure-of-tuck.json](./188805-adventure-of-tuck.json) |
 | Adventure on Lost Island: Hidden Object Game | 51100 | [51100-adventure-on-lost-island-hidden-object-game.json](./51100-adventure-on-lost-island-hidden-object-game.json) |
 | Adventure Pinball | 122227 | [122227-adventure-pinball.json](./122227-adventure-pinball.json) |
 | Adventure Pinball: Forgotten Island | 7549 | [7549-adventure-pinball-forgotten-island.json](./7549-adventure-pinball-forgotten-island.json) |
@@ -5538,6 +5540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alcyone | 199752 | [199752-alcyone.json](./199752-alcyone.json) |
 | Alcyone | 383604 | [383604-alcyone.json](./383604-alcyone.json) |
 | Alcyone: The Last City | 118072 | [118072-alcyone-the-last-city.json](./118072-alcyone-the-last-city.json) |
+| Aldebaran Legend | 188802 | [188802-aldebaran-legend.json](./188802-aldebaran-legend.json) |
 | Alder Choke | 217926 | [217926-alder-choke.json](./217926-alder-choke.json) |
 | Alder Forge 2 | 385983 | [385983-alder-forge-2.json](./385983-alder-forge-2.json) |
 | Alder's Blood | 90277 | [90277-alders-blood.json](./90277-alders-blood.json) |
