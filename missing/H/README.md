@@ -7169,6 +7169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hispania 1200 | 356167 | [356167-hispania-1200.json](./356167-hispania-1200.json) |
 | Hispania in the Middle Ages | 356238 | [356238-hispania-in-the-middle-ages.json](./356238-hispania-in-the-middle-ages.json) |
 | Hispanic Community Project | 314746 | [314746-hispanic-community-project.json](./314746-hispanic-community-project.json) |
+| Hiss | 209256 | [209256-hiss.json](./209256-hiss.json) |
 | Hiss & Hunt | 348434 | [348434-hiss-and-hunt.json](./348434-hiss-and-hunt.json) |
 | Hissatsu Buraiken | 40195 | [40195-hissatsu-buraiken.json](./40195-hissatsu-buraiken.json) |
 | Hissatsu Pachi-Slot Evolution: Ninja Hattori-kun V | 58322 | [58322-hissatsu-pachi-slot-evolution-ninja-hattori-kun-v.json](./58322-hissatsu-pachi-slot-evolution-ninja-hattori-kun-v.json) |
