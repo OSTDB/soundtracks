@@ -5813,6 +5813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nood Climbrs | 236985 | [236985-nood-climbrs.json](./236985-nood-climbrs.json) |
 | Noodle Arm Royale | 61736 | [61736-noodle-arm-royale.json](./61736-noodle-arm-royale.json) |
 | Noodle Cable | 409706 | [409706-noodle-cable.json](./409706-noodle-cable.json) |
+| Noodle Escape | 183181 | [183181-noodle-escape.json](./183181-noodle-escape.json) |
 | Noodle Fight | 269313 | [269313-noodle-fight.json](./269313-noodle-fight.json) |
 | Noodle Hustle | 389675 | [389675-noodle-hustle.json](./389675-noodle-hustle.json) |
 | Noodle Jump | 417502 | [417502-noodle-jump.json](./417502-noodle-jump.json) |
