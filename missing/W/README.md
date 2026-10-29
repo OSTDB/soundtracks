@@ -5384,6 +5384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wintersdawn in the Deep | 183591 | [183591-wintersdawn-in-the-deep.json](./183591-wintersdawn-in-the-deep.json) |
 | Wintersport | 68677 | [68677-wintersport.json](./68677-wintersport.json) |
 | Wintertale | 371564 | [371564-wintertale.json](./371564-wintertale.json) |
+| WinterThunder | 224805 | [224805-winterthunder.json](./224805-winterthunder.json) |
 | WinTrek | 69859 | [69859-wintrek.json](./69859-wintrek.json) |
 | WinWheel | 83439 | [83439-winwheel.json](./83439-winwheel.json) |
 | Winx Club | 200907 | [200907-winx-club.json](./200907-winx-club.json) |
