@@ -9205,6 +9205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Villains Cursed Café | 337027 | [337027-disney-villains-cursed-cafe.json](./337027-disney-villains-cursed-cafe.json) |
 | Disney XD Grand Prix | 361336 | [361336-disney-xd-grand-prix.json](./361336-disney-xd-grand-prix.json) |
 | Disney XD Villains Unite! | 108801 | [108801-disney-xd-villains-unite.json](./108801-disney-xd-villains-unite.json) |
+| Disney's 101 Dalmatians | 198666 | [198666-disneys-101-dalmatians.json](./198666-disneys-101-dalmatians.json) |
 | Disney's 101 Dalmatians II: Patch's London Adventure | 43737 | [43737-disneys-101-dalmatians-ii-patchs-london-adventure.json](./43737-disneys-101-dalmatians-ii-patchs-london-adventure.json) |
 | Disney's 102 Dalmatians: Puppies to the Rescue | 2361 | [2361-disneys-102-dalmatians-puppies-to-the-rescue.json](./2361-disneys-102-dalmatians-puppies-to-the-rescue.json) |
 | Disney's 102 Dalmatians: Puppies to the Rescue | 372836 | [372836-disneys-102-dalmatians-puppies-to-the-rescue.json](./372836-disneys-102-dalmatians-puppies-to-the-rescue.json) |
@@ -9215,6 +9216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Adventures in Typing with Timon & Pumbaa | 167278 | [167278-disneys-adventures-in-typing-with-timon-and-pumbaa.json](./167278-disneys-adventures-in-typing-with-timon-and-pumbaa.json) |
 | Disney's Aladdin | 106270 | [106270-disneys-aladdin.json](./106270-disneys-aladdin.json) |
 | Disney's Aladdin | 141653 | [141653-disneys-aladdin.json](./141653-disneys-aladdin.json) |
+| Disney's Aladdin | 198669 | [198669-disneys-aladdin.json](./198669-disneys-aladdin.json) |
 | Disney's Aladdin | 2473 | [2473-disneys-aladdin.json](./2473-disneys-aladdin.json) |
 | Disney's Aladdin | 8118 | [8118-disneys-aladdin.json](./8118-disneys-aladdin.json) |
 | Disney's Aladdin in Nasira's Revenge | 10791 | [10791-disneys-aladdin-in-nasiras-revenge.json](./10791-disneys-aladdin-in-nasiras-revenge.json) |
