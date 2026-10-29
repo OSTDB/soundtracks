@@ -4588,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thalassic | 238728 | [238728-thalassic.json](./238728-thalassic.json) |
 | Thalassic Dice | 347776 | [347776-thalassic-dice.json](./347776-thalassic-dice.json) |
 | Thalassomania | 338295 | [338295-thalassomania.json](./338295-thalassomania.json) |
+| Thalassophobia | 189294 | [189294-thalassophobia.json](./189294-thalassophobia.json) |
 | Thalassophobia | 303799 | [303799-thalassophobia.json](./303799-thalassophobia.json) |
 | Thalu: Dreamtime is Now | 113707 | [113707-thalu-dreamtime-is-now.json](./113707-thalu-dreamtime-is-now.json) |
 | Thamz in a Wheelchair | 268720 | [268720-thamz-in-a-wheelchair.json](./268720-thamz-in-a-wheelchair.json) |
@@ -9444,6 +9445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hidden Room: Pyramid | 244383 | [244383-the-hidden-room-pyramid.json](./244383-the-hidden-room-pyramid.json) |
 | The Hidden Scrolls | 368805 | [368805-the-hidden-scrolls.json](./368805-the-hidden-scrolls.json) |
 | The Hidden: Source | 70647 | [70647-the-hidden-source.json](./70647-the-hidden-source.json) |
+| The Hierophant | 189288 | [189288-the-hierophant.json](./189288-the-hierophant.json) |
 | The High Desert | 345134 | [345134-the-high-desert.json](./345134-the-high-desert.json) |
 | The High Life | 374657 | [374657-the-high-life.json](./374657-the-high-life.json) |
 | The High Tower | 373613 | [373613-the-high-tower.json](./373613-the-high-tower.json) |
@@ -10554,6 +10556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Comfort | 410653 | [410653-the-last-comfort.json](./410653-the-last-comfort.json) |
 | The Last Commander | 272218 | [272218-the-last-commander.json](./272218-the-last-commander.json) |
 | The Last Companion | 125718 | [125718-the-last-companion.json](./125718-the-last-companion.json) |
+| The Last Conquerors | 189322 | [189322-the-last-conquerors.json](./189322-the-last-conquerors.json) |
 | The Last Contact | 112776 | [112776-the-last-contact.json](./112776-the-last-contact.json) |
 | The Last Corpse Forge: Survivor | 342186 | [342186-the-last-corpse-forge-survivor.json](./342186-the-last-corpse-forge-survivor.json) |
 | The Last Cosmonaut | 413594 | [413594-the-last-cosmonaut.json](./413594-the-last-cosmonaut.json) |
@@ -16593,6 +16596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The War of the Worlds | 20971 | [20971-the-war-of-the-worlds.json](./20971-the-war-of-the-worlds.json) |
 | The War of the Worlds | 25730 | [25730-the-war-of-the-worlds.json](./25730-the-war-of-the-worlds.json) |
 | The War of the Worlds: Siberia | 323955 | [323955-the-war-of-the-worlds-siberia.json](./323955-the-war-of-the-worlds-siberia.json) |
+| The War Will Win | 189323 | [189323-the-war-will-win.json](./189323-the-war-will-win.json) |
 | The War Zone Crisis | 339122 | [339122-the-war-zone-crisis.json](./339122-the-war-zone-crisis.json) |
 | The War: Black Stone | 221388 | [221388-the-war-black-stone.json](./221388-the-war-black-stone.json) |
 | The Warbler's Nest | 64800 | [64800-the-warblers-nest.json](./64800-the-warblers-nest.json) |
@@ -17722,6 +17726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirty Monsters Challenge | 260506 | [260506-thirty-monsters-challenge.json](./260506-thirty-monsters-challenge.json) |
 | Thirty Monsters Challenge 2: Thirty Aliens | 313964 | [313964-thirty-monsters-challenge-2-thirty-aliens.json](./313964-thirty-monsters-challenge-2-thirty-aliens.json) |
 | Thirty One Rummy | 87545 | [87545-thirty-one-rummy.json](./87545-thirty-one-rummy.json) |
+| This & Cats | 189330 | [189330-this-and-cats.json](./189330-this-and-cats.json) |
 | This Ain't A Normal Game | 177206 | [177206-this-aint-a-normal-game.json](./177206-this-aint-a-normal-game.json) |
 | This Ain’t Even Poker, Ya Joker | 374650 | [374650-this-ain-t-even-poker-ya-joker.json](./374650-this-ain-t-even-poker-ya-joker.json) |
 | This Be Mutiny | 370738 | [370738-this-be-mutiny.json](./370738-this-be-mutiny.json) |
@@ -17747,6 +17752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Grand Life 2 | 253572 | [253572-this-grand-life-2.json](./253572-this-grand-life-2.json) |
 | This Hack Needs a Name | 260822 | [260822-this-hack-needs-a-name.json](./260822-this-hack-needs-a-name.json) |
 | This hole in my chest | 176242 | [176242-this-hole-in-my-chest.json](./176242-this-hole-in-my-chest.json) |
+| This House | 189313 | [189313-this-house.json](./189313-this-house.json) |
 | This House Eats People | 325394 | [325394-this-house-eats-people.json](./325394-this-house-eats-people.json) |
 | This House Looks Familiar | 176969 | [176969-this-house-looks-familiar.json](./176969-this-house-looks-familiar.json) |
 | This House Wants No One Else | 401259 | [401259-this-house-wants-no-one-else.json](./401259-this-house-wants-no-one-else.json) |
@@ -26178,6 +26184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trance-Pacific | 92860 | [92860-trance-pacific.json](./92860-trance-pacific.json) |
 | Trance, Trauma | 240633 | [240633-trance-trauma.json](./240633-trance-trauma.json) |
 | TranceWave Neo | 304467 | [304467-trancewave-neo.json](./304467-trancewave-neo.json) |
+| Tranquil Cove | 189317 | [189317-tranquil-cove.json](./189317-tranquil-cove.json) |
 | Tranquil Garden | 121367 | [121367-tranquil-garden.json](./121367-tranquil-garden.json) |
 | Tranquil Garden: Adventurer's Edition | 244156 | [244156-tranquil-garden-adventurers-edition.json](./244156-tranquil-garden-adventurers-edition.json) |
 | Tranquil Isle | 240790 | [240790-tranquil-isle.json](./240790-tranquil-isle.json) |
@@ -26958,6 +26965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tri-Peaks 2: Quest for the Ruby Ring | 206076 | [206076-tri-peaks-2-quest-for-the-ruby-ring.json](./206076-tri-peaks-2-quest-for-the-ruby-ring.json) |
 | Tri-Peaks Solitaire HD | 355005 | [355005-tri-peaks-solitaire-hd.json](./355005-tri-peaks-solitaire-hd.json) |
 | Tri-Peaks Twist Collection | 54179 | [54179-tri-peaks-twist-collection.json](./54179-tri-peaks-twist-collection.json) |
+| Tri-Star | 189311 | [189311-tri-star.json](./189311-tri-star.json) |
 | Tri-Strip | 85456 | [85456-tri-strip.json](./85456-tri-strip.json) |
 | Tri-Tri-Triobelisk | 257243 | [257243-tri-tri-triobelisk.json](./257243-tri-tri-triobelisk.json) |
 | Tri: Of Friendship and Madness | 2998 | [2998-tri-of-friendship-and-madness.json](./2998-tri-of-friendship-and-madness.json) |
