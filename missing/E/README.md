@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo | 136715 | [136715-echo.json](./136715-echo.json) |
 | Echo | 177546 | [177546-echo.json](./177546-echo.json) |
 | Echo | 19448 | [19448-echo.json](./19448-echo.json) |
+| Echo | 201975 | [201975-echo.json](./201975-echo.json) |
 | Echo | 245135 | [245135-echo.json](./245135-echo.json) |
 | Echo | 388923 | [388923-echo.json](./388923-echo.json) |
 | Echo | 388934 | [388934-echo.json](./388934-echo.json) |
@@ -4385,6 +4386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erstwhile | 216431 | [216431-erstwhile.json](./216431-erstwhile.json) |
 | Erstwhile Tower | 121254 | [121254-erstwhile-tower.json](./121254-erstwhile-tower.json) |
 | Erth | 134673 | [134673-erth.json](./134673-erth.json) |
+| Ertha | 201958 | [201958-ertha.json](./201958-ertha.json) |
 | Ertugrul | 274772 | [274772-ertugrul.json](./274772-ertugrul.json) |
 | Erulean Angel: Fantasy Commander | 351136 | [351136-erulean-angel-fantasy-commander.json](./351136-erulean-angel-fantasy-commander.json) |
 | Eruption | 54341 | [54341-eruption.json](./54341-eruption.json) |
