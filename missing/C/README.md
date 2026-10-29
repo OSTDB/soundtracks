@@ -1861,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking 2 | 323095 | [323095-car-parking-2.json](./323095-car-parking-2.json) |
 | Car Parking Adventure | 384283 | [384283-car-parking-adventure.json](./384283-car-parking-adventure.json) |
 | Car Parking Game 3D - Real City Driving School | 83585 | [83585-car-parking-game-3d-real-city-driving-school.json](./83585-car-parking-game-3d-real-city-driving-school.json) |
+| Car Parking Games: Parking Jam | 208731 | [208731-car-parking-games-parking-jam.json](./208731-car-parking-games-parking-jam.json) |
 | Car Parking Legends: Deluxe Edition | 413577 | [413577-car-parking-legends-deluxe-edition.json](./413577-car-parking-legends-deluxe-edition.json) |
 | Car Parking Legends: Drive & Park Adventure | 322661 | [322661-car-parking-legends-drive-and-park-adventure.json](./322661-car-parking-legends-drive-and-park-adventure.json) |
 | Car Parking Madness School Drive Mechanic Car Games Simulator 2023 | 226331 | [226331-car-parking-madness-school-drive-mechanic-car-games-simulator-2023.json](./226331-car-parking-madness-school-drive-mechanic-car-games-simulator-2023.json) |
@@ -9568,6 +9569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra Command | 290272 | [290272-cobra-command.json](./290272-cobra-command.json) |
 | Cobra Force | 13500 | [13500-cobra-force.json](./13500-cobra-force.json) |
 | Cobra II | 71390 | [71390-cobra-ii.json](./71390-cobra-ii.json) |
+| Cobra Kai 2: Dojos Rising | 208711 | [208711-cobra-kai-2-dojos-rising.json](./208711-cobra-kai-2-dojos-rising.json) |
 | Cobra Kai 2: Dojos Rising - Nemesis Edition | 223808 | [223808-cobra-kai-2-dojos-rising-nemesis-edition.json](./223808-cobra-kai-2-dojos-rising-nemesis-edition.json) |
 | Cobra Kai 2: Dojos Rising Nemesis Pack | 263194 | [263194-cobra-kai-2-dojos-rising-nemesis-pack.json](./263194-cobra-kai-2-dojos-rising-nemesis-pack.json) |
 | Cobra Kai Collection | 309015 | [309015-cobra-kai-collection.json](./309015-cobra-kai-collection.json) |
@@ -11995,6 +11997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator PRO | 88470 | [88470-construction-simulator-pro.json](./88470-construction-simulator-pro.json) |
 | Construction Simulator: Car & Bobblehead Pack | 308522 | [308522-construction-simulator-car-and-bobblehead-pack.json](./308522-construction-simulator-car-and-bobblehead-pack.json) |
 | Construction Simulator: Customization Kit | 308524 | [308524-construction-simulator-customization-kit.json](./308524-construction-simulator-customization-kit.json) |
+| Construction Simulator: Day One Edition | 208743 | [208743-construction-simulator-day-one-edition.json](./208743-construction-simulator-day-one-edition.json) |
 | Construction Simulator: Evolution | 398522 | [398522-construction-simulator-evolution.json](./398522-construction-simulator-evolution.json) |
 | Construction Simulator: Extended Edition | 218476 | [218476-construction-simulator-extended-edition.json](./218476-construction-simulator-extended-edition.json) |
 | Construction Simulator: Gold Edition | 287050 | [287050-construction-simulator-gold-edition.json](./287050-construction-simulator-gold-edition.json) |
