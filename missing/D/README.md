@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous World 2 | 321815 | [321815-dangerous-world-2.json](./321815-dangerous-world-2.json) |
 | Dangerous Zone | 169741 | [169741-dangerous-zone.json](./169741-dangerous-zone.json) |
 | Dangerous! Too Sweet!! | 148460 | [148460-dangerous-too-sweet.json](./148460-dangerous-too-sweet.json) |
+| DangerousIsland | 195386 | [195386-dangerousisland.json](./195386-dangerousisland.json) |
 | DangerousPath | 369640 | [369640-dangerouspath.json](./369640-dangerouspath.json) |
 | Dangers Afloat | 176459 | [176459-dangers-afloat.json](./176459-dangers-afloat.json) |
 | DangerZone VR | 166049 | [166049-dangerzone-vr.json](./166049-dangerzone-vr.json) |
@@ -2026,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darn Guy Adventures | 365183 | [365183-darn-guy-adventures.json](./365183-darn-guy-adventures.json) |
 | Darok | 309447 | [309447-darok.json](./309447-darok.json) |
 | Darold the Doomer: Back 2 Reality | 220004 | [220004-darold-the-doomer-back-2-reality.json](./220004-darold-the-doomer-back-2-reality.json) |
+| Darold the Doomer: Psychedelic Lucid Dreams | 195363 | [195363-darold-the-doomer-psychedelic-lucid-dreams.json](./195363-darold-the-doomer-psychedelic-lucid-dreams.json) |
 | Darq: The Crypt | 167767 | [167767-darq-the-crypt.json](./167767-darq-the-crypt.json) |
 | Darq: Ultimate Edition | 218883 | [218883-darq-ultimate-edition.json](./218883-darq-ultimate-edition.json) |
 | Darrell 3D | 416678 | [416678-darrell-3d.json](./416678-darrell-3d.json) |
@@ -8065,6 +8067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Devil Story: Megami Tensei II | 48656 | [48656-digital-devil-story-megami-tensei-ii.json](./48656-digital-devil-story-megami-tensei-ii.json) |
 | Digital Diamond Baseball | 292562 | [292562-digital-diamond-baseball.json](./292562-digital-diamond-baseball.json) |
 | Digital Diamond Baseball | 86538 | [86538-digital-diamond-baseball.json](./86538-digital-diamond-baseball.json) |
+| Digital Diamond Baseball V10 | 195371 | [195371-digital-diamond-baseball-v10.json](./195371-digital-diamond-baseball-v10.json) |
 | Digital Diamond Baseball V11 | 243052 | [243052-digital-diamond-baseball-v11.json](./243052-digital-diamond-baseball-v11.json) |
 | Digital Diamond Baseball V8 | 117166 | [117166-digital-diamond-baseball-v8.json](./117166-digital-diamond-baseball-v8.json) |
 | Digital Domain's Monkey King | 83721 | [83721-digital-domains-monkey-king.json](./83721-digital-domains-monkey-king.json) |
@@ -8744,6 +8747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Texts: Are You Sure? | 263221 | [263221-dirty-texts-are-you-sure.json](./263221-dirty-texts-are-you-sure.json) |
 | Dirty Vampires: An RPG Tower Defence Adventure | 241297 | [241297-dirty-vampires-an-rpg-tower-defence-adventure.json](./241297-dirty-vampires-an-rpg-tower-defence-adventure.json) |
 | Dirty Work | 412884 | [412884-dirty-work.json](./412884-dirty-work.json) |
+| Dirtyblock | 195374 | [195374-dirtyblock.json](./195374-dirtyblock.json) |
 | Dis Assemble | 183977 | [183977-dis-assemble.json](./183977-dis-assemble.json) |
 | Dis Pontibus 2 | 203950 | [203950-dis-pontibus-2.json](./203950-dis-pontibus-2.json) |
 | Disappearance of the Literature Club | 333611 | [333611-disappearance-of-the-literature-club.json](./333611-disappearance-of-the-literature-club.json) |
