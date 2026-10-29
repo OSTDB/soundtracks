@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last of Light | 177746 | [177746-last-of-light.json](./177746-last-of-light.json) |
 | Last of the Noticers | 291856 | [291856-last-of-the-noticers.json](./291856-last-of-the-noticers.json) |
 | Last One Standing | 176332 | [176332-last-one-standing.json](./176332-last-one-standing.json) |
+| Last One Standing: Royal Massacre | 180389 | [180389-last-one-standing-royal-massacre.json](./180389-last-one-standing-royal-massacre.json) |
 | Last Order | 235994 | [235994-last-order.json](./235994-last-order.json) |
 | Last Origin | 123283 | [123283-last-origin.json](./123283-last-origin.json) |
 | Last Origin R+ | 401129 | [401129-last-origin-r.json](./401129-last-origin-r.json) |
@@ -2057,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leave No One Behind: la Drang | 152994 | [152994-leave-no-one-behind-la-drang.json](./152994-leave-no-one-behind-la-drang.json) |
 | Leave No One Behind: la Drang VR | 203745 | [203745-leave-no-one-behind-la-drang-vr.json](./203745-leave-no-one-behind-la-drang-vr.json) |
 | Leave the Nest | 32662 | [32662-leave-the-nest.json](./32662-leave-the-nest.json) |
+| Leave the Room | 180408 | [180408-leave-the-room.json](./180408-leave-the-room.json) |
 | Leave! | 169795 | [169795-leave.json](./169795-leave.json) |
 | Leavers Rift | 351416 | [351416-leavers-rift.json](./351416-leavers-rift.json) |
 | Leaves 3 | 394892 | [394892-leaves-3.json](./394892-leaves-3.json) |
