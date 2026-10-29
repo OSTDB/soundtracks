@@ -11056,6 +11056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Classics | 245988 | [245988-arcade-classics.json](./245988-arcade-classics.json) |
 | Arcade Classics | 282489 | [282489-arcade-classics.json](./282489-arcade-classics.json) |
 | Arcade Classics | 77144 | [77144-arcade-classics.json](./77144-arcade-classics.json) |
+| Arcade Classics: Ms. Pac-Man | 219386 | [219386-arcade-classics-ms-pac-man.json](./219386-arcade-classics-ms-pac-man.json) |
 | Arcade Classics: Seawolf II and Gun Fight | 130282 | [130282-arcade-classics-seawolf-ii-and-gun-fight.json](./130282-arcade-classics-seawolf-ii-and-gun-fight.json) |
 | Arcade Classics: Super Breakout / Battlezone | 79702 | [79702-arcade-classics-super-breakout-battlezone.json](./79702-arcade-classics-super-breakout-battlezone.json) |
 | Arcade Combat | 337964 | [337964-arcade-combat.json](./337964-arcade-combat.json) |
@@ -11083,6 +11084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Gamer Classic | 202793 | [202793-arcade-gamer-classic.json](./202793-arcade-gamer-classic.json) |
 | Arcade Games Collection | 368265 | [368265-arcade-games-collection.json](./368265-arcade-games-collection.json) |
 | Arcade Gears: Image Fight & X Multiply | 43756 | [43756-arcade-gears-image-fight-and-x-multiply.json](./43756-arcade-gears-image-fight-and-x-multiply.json) |
+| Arcade Gold featuring Pac-Man | 219420 | [219420-arcade-gold-featuring-pac-man.json](./219420-arcade-gold-featuring-pac-man.json) |
 | Arcade Hero | 358920 | [358920-arcade-hero.json](./358920-arcade-hero.json) |
 | Arcade Hits Pack: Gunblade NY and L.A. Machineguns | 6520 | [6520-arcade-hits-pack-gunblade-ny-and-l-a-machineguns.json](./6520-arcade-hits-pack-gunblade-ny-and-l-a-machineguns.json) |
 | Arcade Hole | 208907 | [208907-arcade-hole.json](./208907-arcade-hole.json) |
@@ -14291,6 +14293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Flashback 8 Gold | 277051 | [277051-atari-flashback-8-gold.json](./277051-atari-flashback-8-gold.json) |
 | Atari Flashback Classics | 113382 | [113382-atari-flashback-classics.json](./113382-atari-flashback-classics.json) |
 | Atari Flashback Classics Vol. 2 | 24962 | [24962-atari-flashback-classics-vol-2.json](./24962-atari-flashback-classics-vol-2.json) |
+| Atari Flashback Portable | 219380 | [219380-atari-flashback-portable.json](./219380-atari-flashback-portable.json) |
 | Atari Flashback Portable | 245573 | [245573-atari-flashback-portable.json](./245573-atari-flashback-portable.json) |
 | Atari Flashback X | 276033 | [276033-atari-flashback-x.json](./276033-atari-flashback-x.json) |
 | Atari Gamestation Pro | 270591 | [270591-atari-gamestation-pro.json](./270591-atari-gamestation-pro.json) |
