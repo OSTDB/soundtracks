@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZhanDou | 84138 | [84138-zhandou.json](./84138-zhandou.json) |
 | Zhǎng Fěn Èrwéimǎ | 165762 | [165762-zhang-fen-erweima.json](./165762-zhang-fen-erweima.json) |
 | Zhànshén Qīpò | 130915 | [130915-zhanshen-qipo.json](./130915-zhanshen-qipo.json) |
+| Zhazari VR | 193091 | [193091-zhazari-vr.json](./193091-zhazari-vr.json) |
 | Zhed | 122801 | [122801-zhed.json](./122801-zhed.json) |
 | Zhèn Xié | 375425 | [375425-zhen-xie.json](./375425-zhen-xie.json) |
 | Zhen: Shattered Legacy | 328614 | [328614-zhen-shattered-legacy.json](./328614-zhen-shattered-legacy.json) |
