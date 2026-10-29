@@ -6030,6 +6030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between Horizons + Lacuna Bundle | 317553 | [317553-between-horizons-lacuna-bundle.json](./317553-between-horizons-lacuna-bundle.json) |
 | Between Me and the Night | 16985 | [16985-between-me-and-the-night.json](./16985-between-me-and-the-night.json) |
 | Between Planets | 121005 | [121005-between-planets.json](./121005-between-planets.json) |
+| Between Portals | 219940 | [219940-between-portals.json](./219940-between-portals.json) |
 | Between Sky and Earth | 348822 | [348822-between-sky-and-earth.json](./348822-between-sky-and-earth.json) |
 | Between Stations | 177332 | [177332-between-stations.json](./177332-between-stations.json) |
 | Between Stops | 401640 | [401640-between-stops.json](./401640-between-stops.json) |
@@ -6265,6 +6266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Unknown: A Matter of Time - Collector's Edition | 417302 | [417302-beyond-the-unknown-a-matter-of-time-collectors-edition.json](./417302-beyond-the-unknown-a-matter-of-time-collectors-edition.json) |
 | Beyond the Veil: A Kitty Cat Mystery Adventure | 249403 | [249403-beyond-the-veil-a-kitty-cat-mystery-adventure.json](./249403-beyond-the-veil-a-kitty-cat-mystery-adventure.json) |
 | Beyond the Void | 72375 | [72375-beyond-the-void.json](./72375-beyond-the-void.json) |
+| Beyond the Wall | 219941 | [219941-beyond-the-wall.json](./219941-beyond-the-wall.json) |
 | Beyond the Wall | 241424 | [241424-beyond-the-wall.json](./241424-beyond-the-wall.json) |
 | Beyond the Wall | 80968 | [80968-beyond-the-wall.json](./80968-beyond-the-wall.json) |
 | Beyond the Wall of Stars | 68684 | [68684-beyond-the-wall-of-stars.json](./68684-beyond-the-wall-of-stars.json) |
@@ -12687,6 +12689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Spa | 69207 | [69207-brain-spa.json](./69207-brain-spa.json) |
 | Brain Storm: Tower Bombarde | 47131 | [47131-brain-storm-tower-bombarde.json](./47131-brain-storm-tower-bombarde.json) |
 | Brain Switch | 230684 | [230684-brain-switch.json](./230684-brain-switch.json) |
+| Brain Switch Out | 219932 | [219932-brain-switch-out.json](./219932-brain-switch-out.json) |
 | Brain Syndrome VR | 208224 | [208224-brain-syndrome-vr.json](./208224-brain-syndrome-vr.json) |
 | Brain Teaser Bundle | 231073 | [231073-brain-teaser-bundle.json](./231073-brain-teaser-bundle.json) |
 | Brain Teaser: Memory Limit | 117762 | [117762-brain-teaser-memory-limit.json](./117762-brain-teaser-memory-limit.json) |
