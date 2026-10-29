@@ -5634,6 +5634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigs Can Fly | 265736 | [265736-pigs-can-fly.json](./265736-pigs-can-fly.json) |
 | Pigs in Space | 40575 | [40575-pigs-in-space.json](./40575-pigs-in-space.json) |
 | Pigs In War - Strategy Game | 100912 | [100912-pigs-in-war-strategy-game.json](./100912-pigs-in-war-strategy-game.json) |
+| Pigs on Head | 203043 | [203043-pigs-on-head.json](./203043-pigs-on-head.json) |
 | Pigsaw | 177269 | [177269-pigsaw.json](./177269-pigsaw.json) |
 | Pigsaw: Human Abattoir | 272381 | [272381-pigsaw-human-abattoir.json](./272381-pigsaw-human-abattoir.json) |
 | Pigskin | 39398 | [39398-pigskin.json](./39398-pigskin.json) |
@@ -8854,6 +8855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plinkomancy | 389199 | [389199-plinkomancy.json](./389199-plinkomancy.json) |
 | Plith | 10706 | [10706-plith.json](./10706-plith.json) |
 | Plobania 47/B | 400286 | [400286-plobania-47-b.json](./400286-plobania-47-b.json) |
+| Plock | 203022 | [203022-plock.json](./203022-plock.json) |
 | Ploid | 159682 | [159682-ploid.json](./159682-ploid.json) |
 | Ploid Saga | 132628 | [132628-ploid-saga.json](./132628-ploid-saga.json) |
 | Plokoth | 133315 | [133315-plokoth.json](./133315-plokoth.json) |
@@ -13989,6 +13991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hospital: Doctor Mode | 154601 | [154601-project-hospital-doctor-mode.json](./154601-project-hospital-doctor-mode.json) |
 | Project Hospital: Hospital Services | 154599 | [154599-project-hospital-hospital-services.json](./154599-project-hospital-hospital-services.json) |
 | Project Hospital: Traumatology Department | 154598 | [154598-project-hospital-traumatology-department.json](./154598-project-hospital-traumatology-department.json) |
+| Project Household | 203026 | [203026-project-household.json](./203026-project-household.json) |
 | Project Hover | 306319 | [306319-project-hover.json](./306319-project-hover.json) |
 | Project Hovercraft | 32181 | [32181-project-hovercraft.json](./32181-project-hovercraft.json) |
 | Project Hoyrá | 253403 | [253403-project-hoyra.json](./253403-project-hoyra.json) |
