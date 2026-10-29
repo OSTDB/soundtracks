@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacca | 122641 | [122641-wacca.json](./122641-wacca.json) |
 | Wacca Lily R | 154811 | [154811-wacca-lily-r.json](./154811-wacca-lily-r.json) |
 | Waccha PriMagi! Studio | 276064 | [276064-waccha-primagi-studio.json](./276064-waccha-primagi-studio.json) |
+| Wacha-wacha Puzzle: Neito to Norowareshi Shukufuku no Mori | 206408 | [206408-wacha-wacha-puzzle-neito-to-norowareshi-shukufuku-no-mori.json](./206408-wacha-wacha-puzzle-neito-to-norowareshi-shukufuku-no-mori.json) |
 | Wachenröder | 93007 | [93007-wachenroder.json](./93007-wachenroder.json) |
 | Wack Track Pack | 358318 | [358318-wack-track-pack.json](./358318-wack-track-pack.json) |
 | Wacki: Kosmiczna Rozgrywka | 81666 | [81666-wacki-kosmiczna-rozgrywka.json](./81666-wacki-kosmiczna-rozgrywka.json) |
@@ -6386,6 +6387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wondermega Collection | 45870 | [45870-wondermega-collection.json](./45870-wondermega-collection.json) |
 | Wonderputt | 64053 | [64053-wonderputt.json](./64053-wonderputt.json) |
 | Wonderputt Forever | 187829 | [187829-wonderputt-forever.json](./187829-wonderputt-forever.json) |
+| WonderRun | 206417 | [206417-wonderrun.json](./206417-wonderrun.json) |
 | Wonders of the Deep | 369214 | [369214-wonders-of-the-deep.json](./369214-wonders-of-the-deep.json) |
 | Wonders of Waldwea | 355557 | [355557-wonders-of-waldwea.json](./355557-wonders-of-waldwea.json) |
 | Wondershot | 33830 | [33830-wondershot.json](./33830-wondershot.json) |
@@ -6740,6 +6742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Turtle Island | 301082 | [301082-word-turtle-island.json](./301082-word-turtle-island.json) |
 | Word Twist! | 241197 | [241197-word-twist.json](./241197-word-twist.json) |
 | Word U | 104600 | [104600-word-u.json](./104600-word-u.json) |
+| Word Up | 206484 | [206484-word-up.json](./206484-word-up.json) |
 | Word Vs Picture | 232478 | [232478-word-vs-picture.json](./232478-word-vs-picture.json) |
 | Word Waddle | 97196 | [97196-word-waddle.json](./97196-word-waddle.json) |
 | Word Waffle - Word Swipe Game | 107048 | [107048-word-waffle-word-swipe-game.json](./107048-word-waffle-word-swipe-game.json) |
