@@ -990,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda's Village | 241886 | [241886-pandas-village.json](./241886-pandas-village.json) |
 | PandaBomber | 367559 | [367559-pandabomber.json](./367559-pandabomber.json) |
 | Pandaclip: The Black Thief | 296763 | [296763-pandaclip-the-black-thief.json](./296763-pandaclip-the-black-thief.json) |
+| Pandadog in Lost Island | 214302 | [214302-pandadog-in-lost-island.json](./214302-pandadog-in-lost-island.json) |
 | Pandaman | 201461 | [201461-pandaman.json](./201461-pandaman.json) |
 | Pandamino | 294548 | [294548-pandamino.json](./294548-pandamino.json) |
 | Pandamonium | 223265 | [223265-pandamonium.json](./223265-pandamonium.json) |
