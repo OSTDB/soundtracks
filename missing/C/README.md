@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canasta Junction | 87215 | [87215-canasta-junction.json](./87215-canasta-junction.json) |
 | Canasta Royale | 87318 | [87318-canasta-royale.json](./87318-canasta-royale.json) |
 | Canasta: Pro | 88530 | [88530-canasta-pro.json](./88530-canasta-pro.json) |
+| Canceled! Super Puzzles Dream | 192034 | [192034-canceled-super-puzzles-dream.json](./192034-canceled-super-puzzles-dream.json) |
 | Cancelled Christmas | 399267 | [399267-cancelled-christmas.json](./399267-cancelled-christmas.json) |
 | Candance Kane's Candy Factory | 137475 | [137475-candance-kanes-candy-factory.json](./137475-candance-kanes-candy-factory.json) |
 | Candela | 193258 | [193258-candela.json](./193258-candela.json) |
@@ -10844,6 +10845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colors | 85889 | [85889-colors.json](./85889-colors.json) |
 | Colors -Break Bricks- | 62009 | [62009-colors-break-bricks.json](./62009-colors-break-bricks.json) |
 | Colors 3D | 47652 | [47652-colors-3d.json](./47652-colors-3d.json) |
+| Colors and Numbers | 192033 | [192033-colors-and-numbers.json](./192033-colors-and-numbers.json) |
 | Colors and their Meanings | 274519 | [274519-colors-and-their-meanings.json](./274519-colors-and-their-meanings.json) |
 | Colors Assemble | 217137 | [217137-colors-assemble.json](./217137-colors-assemble.json) |
 | Colors of the Past | 338879 | [338879-colors-of-the-past.json](./338879-colors-of-the-past.json) |
@@ -12422,6 +12424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie | 380085 | [380085-cookie.json](./380085-cookie.json) |
 | Cookie & Bibi 3 | 39643 | [39643-cookie-and-bibi-3.json](./39643-cookie-and-bibi-3.json) |
 | Cookie Baker | 106361 | [106361-cookie-baker.json](./106361-cookie-baker.json) |
+| Cookie Bakery | 192049 | [192049-cookie-bakery.json](./192049-cookie-bakery.json) |
 | Cookie Cats | 103976 | [103976-cookie-cats.json](./103976-cookie-cats.json) |
 | Cookie Cats Blast | 103945 | [103945-cookie-cats-blast.json](./103945-cookie-cats-blast.json) |
 | Cookie Cats Pop | 95331 | [95331-cookie-cats-pop.json](./95331-cookie-cats-pop.json) |
@@ -16959,6 +16962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cue Club 2 - Pool & Snooker | 52849 | [52849-cue-club-2-pool-and-snooker.json](./52849-cue-club-2-pool-and-snooker.json) |
 | Cue D | 243847 | [243847-cue-d.json](./243847-cue-d.json) |
 | Cue Room | 388903 | [388903-cue-room.json](./388903-cue-room.json) |
+| Cue Sports | 192039 | [192039-cue-sports.json](./192039-cue-sports.json) |
 | Cue to Fall in Love with You | 404871 | [404871-cue-to-fall-in-love-with-you.json](./404871-cue-to-fall-in-love-with-you.json) |
 | Cueist 2 | 213145 | [213145-cueist-2.json](./213145-cueist-2.json) |
 | Cuentos Inconclusos | 320138 | [320138-cuentos-inconclusos.json](./320138-cuentos-inconclusos.json) |
@@ -18051,6 +18055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk Paradise Elysium: The Visual Novel | 303867 | [303867-cyberpunk-paradise-elysium-the-visual-novel.json](./303867-cyberpunk-paradise-elysium-the-visual-novel.json) |
 | Cyberpunk Parkour Uprising | 309003 | [309003-cyberpunk-parkour-uprising.json](./309003-cyberpunk-parkour-uprising.json) |
 | Cyberpunk Samurai | 309006 | [309006-cyberpunk-samurai.json](./309006-cyberpunk-samurai.json) |
+| Cyberpunk Samurai VR | 192003 | [192003-cyberpunk-samurai-vr.json](./192003-cyberpunk-samurai-vr.json) |
 | Cyberpunk Sex | 277366 | [277366-cyberpunk-sex.json](./277366-cyberpunk-sex.json) |
 | CyberPunk Sex Tower | 171604 | [171604-cyberpunk-sex-tower.json](./171604-cyberpunk-sex-tower.json) |
 | Cyberpunk Speed Assassin | 315905 | [315905-cyberpunk-speed-assassin.json](./315905-cyberpunk-speed-assassin.json) |
