@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bag Hero | 345985 | [345985-bag-hero.json](./345985-bag-hero.json) |
 | Bag of Holding | 182698 | [182698-bag-of-holding.json](./182698-bag-of-holding.json) |
 | Bag Toss | 359328 | [359328-bag-toss.json](./359328-bag-toss.json) |
+| Bagaco | 184198 | [184198-bagaco.json](./184198-bagaco.json) |
 | Bagarre | 386970 | [386970-bagarre.json](./386970-bagarre.json) |
 | Bagasaurus | 147213 | [147213-bagasaurus.json](./147213-bagasaurus.json) |
 | Bagdex | 237832 | [237832-bagdex.json](./237832-bagdex.json) |
@@ -10239,6 +10240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BluBoy: The Journey Begins | 115509 | [115509-bluboy-the-journey-begins.json](./115509-bluboy-the-journey-begins.json) |
 | BluCat | 395876 | [395876-blucat.json](./395876-blucat.json) |
 | Bludgeon | 119488 | [119488-bludgeon.json](./119488-bludgeon.json) |
+| Bludgeons & Krakens | 184174 | [184174-bludgeons-and-krakens.json](./184174-bludgeons-and-krakens.json) |
 | Blue | 133854 | [133854-blue.json](./133854-blue.json) |
 | Blue | 176777 | [176777-blue.json](./176777-blue.json) |
 | Blue | 246314 | [246314-blue.json](./246314-blue.json) |
