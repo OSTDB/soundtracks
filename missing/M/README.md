@@ -10267,6 +10267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milkshake! | 240740 | [240740-milkshake.json](./240740-milkshake.json) |
 | MilkSnake | 61717 | [61717-milksnake.json](./61717-milksnake.json) |
 | MilkSnake: Torus Edition | 99573 | [99573-milksnake-torus-edition.json](./99573-milksnake-torus-edition.json) |
+| Milksoup | 216603 | [216603-milksoup.json](./216603-milksoup.json) |
 | MilkTea Time | 373150 | [373150-milktea-time.json](./373150-milktea-time.json) |
 | Milkteeth | 369454 | [369454-milkteeth.json](./369454-milkteeth.json) |
 | MilkwaySubway | 285323 | [285323-milkwaysubway.json](./285323-milkwaysubway.json) |
@@ -11196,6 +11197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Map | 178016 | [178016-mini-map.json](./178016-mini-map.json) |
 | Mini Mario & Friends: Amiibo Challenge | 18195 | [18195-mini-mario-and-friends-amiibo-challenge.json](./18195-mini-mario-and-friends-amiibo-challenge.json) |
 | Mini Market Design | 329426 | [329426-mini-market-design.json](./329426-mini-market-design.json) |
+| Mini Mart | 216606 | [216606-mini-mart.json](./216606-mini-mart.json) |
 | Mini Mart Survivors | 413122 | [413122-mini-mart-survivors.json](./413122-mini-mart-survivors.json) |
 | Mini Matches | 121597 | [121597-mini-matches.json](./121597-mini-matches.json) |
 | Mini Maze: Online | 298712 | [298712-mini-maze-online.json](./298712-mini-maze-online.json) |
@@ -13952,6 +13954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Meltdown | 63284 | [63284-monster-meltdown.json](./63284-monster-meltdown.json) |
 | Monster Memory | 247498 | [247498-monster-memory.json](./247498-monster-memory.json) |
 | Monster Menu: The Scavenger's Cookbook | 216579 | [216579-monster-menu-the-scavengers-cookbook.json](./216579-monster-menu-the-scavengers-cookbook.json) |
+| Monster Menu: The Scavenger's Cookbook - Deluxe Edition | 216580 | [216580-monster-menu-the-scavengers-cookbook-deluxe-edition.json](./216580-monster-menu-the-scavengers-cookbook-deluxe-edition.json) |
 | Monster Merchant | 370669 | [370669-monster-merchant.json](./370669-monster-merchant.json) |
 | Monster Mercs | 402979 | [402979-monster-mercs.json](./402979-monster-mercs.json) |
 | Monster Merge | 90768 | [90768-monster-merge.json](./90768-monster-merge.json) |
@@ -14502,6 +14505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon's Creed | 244424 | [244424-moons-creed.json](./244424-moons-creed.json) |
 | Moon64 | 339946 | [339946-moon64.json](./339946-moon64.json) |
 | Moonatees | 29161 | [29161-moonatees.json](./29161-moonatees.json) |
+| Moonatics | 216604 | [216604-moonatics.json](./216604-moonatics.json) |
 | Moonbase | 94230 | [94230-moonbase.json](./94230-moonbase.json) |
 | Moonbase Accident | 272122 | [272122-moonbase-accident.json](./272122-moonbase-accident.json) |
 | Moonbase Alpha | 10264 | [10264-moonbase-alpha.json](./10264-moonbase-alpha.json) |
@@ -15271,6 +15275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mose Three Kingdoms | 120060 | [120060-mose-three-kingdoms.json](./120060-mose-three-kingdoms.json) |
 | Moses & Plato: Last Train to Clawville | 283084 | [283084-moses-and-plato-last-train-to-clawville.json](./283084-moses-and-plato-last-train-to-clawville.json) |
 | Moses Prince of Egypt | 43783 | [43783-moses-prince-of-egypt.json](./43783-moses-prince-of-egypt.json) |
+| Moses: From Egypt to the Promised Land | 216595 | [216595-moses-from-egypt-to-the-promised-land.json](./216595-moses-from-egypt-to-the-promised-land.json) |
 | Moses: Old Testament Adventure #1 | 100018 | [100018-moses-old-testament-adventure-1.json](./100018-moses-old-testament-adventure-1.json) |
 | Mosh Lift | 283798 | [283798-mosh-lift.json](./283798-mosh-lift.json) |
 | Mosh Pit | 121982 | [121982-mosh-pit.json](./121982-mosh-pit.json) |
@@ -19238,6 +19243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth | 35331 | [35331-myth.json](./35331-myth.json) |
 | Myth & Magery | 419977 | [419977-myth-and-magery.json](./419977-myth-and-magery.json) |
 | Myth & Mirage | 310727 | [310727-myth-and-mirage.json](./310727-myth-and-mirage.json) |
+| Myth Caller: The Nightmare Shaman | 216592 | [216592-myth-caller-the-nightmare-shaman.json](./216592-myth-caller-the-nightmare-shaman.json) |
 | Myth Finders | 364510 | [364510-myth-finders.json](./364510-myth-finders.json) |
 | Myth Guardians | 374820 | [374820-myth-guardians.json](./374820-myth-guardians.json) |
 | Myth II: Chimera | 72070 | [72070-myth-ii-chimera.json](./72070-myth-ii-chimera.json) |
