@@ -8163,6 +8163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries of the Kingdom | 245890 | [245890-mercenaries-of-the-kingdom.json](./245890-mercenaries-of-the-kingdom.json) |
 | Mercenaries of the Kingdom: First Blood | 269481 | [269481-mercenaries-of-the-kingdom-first-blood.json](./269481-mercenaries-of-the-kingdom-first-blood.json) |
 | Mercenaries of War | 323257 | [323257-mercenaries-of-war.json](./323257-mercenaries-of-war.json) |
+| Mercenaries Rebirth: Call of the Wild Lynx | 180978 | [180978-mercenaries-rebirth-call-of-the-wild-lynx.json](./180978-mercenaries-rebirth-call-of-the-wild-lynx.json) |
 | Mercenaries Saga | 82082 | [82082-mercenaries-saga.json](./82082-mercenaries-saga.json) |
 | Mercenaries Saga 2 | 77691 | [77691-mercenaries-saga-2.json](./77691-mercenaries-saga-2.json) |
 | Mercenaries Saga 2: Order of the Sliver Eagle | 259119 | [259119-mercenaries-saga-2-order-of-the-sliver-eagle.json](./259119-mercenaries-saga-2-order-of-the-sliver-eagle.json) |
