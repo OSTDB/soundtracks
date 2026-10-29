@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zawisza The Black | 393894 | [393894-zawisza-the-black.json](./393894-zawisza-the-black.json) |
 | Zax: The Alien Hunter | 22013 | [22013-zax-the-alien-hunter.json](./22013-zax-the-alien-hunter.json) |
 | Zaxterion: Space Frenzy! | 203877 | [203877-zaxterion-space-frenzy.json](./203877-zaxterion-space-frenzy.json) |
+| Zaxxon | 198659 | [198659-zaxxon.json](./198659-zaxxon.json) |
 | Zaxxon | 218290 | [218290-zaxxon.json](./218290-zaxxon.json) |
 | Zaxxon | 218317 | [218317-zaxxon.json](./218317-zaxxon.json) |
 | Zaxxon | 2753 | [2753-zaxxon.json](./2753-zaxxon.json) |
