@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet | 412220 | [412220-quiet.json](./412220-quiet.json) |
 | Quiet as a Mouse | 315230 | [315230-quiet-as-a-mouse.json](./315230-quiet-as-a-mouse.json) |
 | Quiet as a Stone | 104941 | [104941-quiet-as-a-stone.json](./104941-quiet-as-a-stone.json) |
+| Quiet Basement | 178783 | [178783-quiet-basement.json](./178783-quiet-basement.json) |
 | Quiet Bruise | 406665 | [406665-quiet-bruise.json](./406665-quiet-bruise.json) |
 | Quiet Christmas | 58236 | [58236-quiet-christmas.json](./58236-quiet-christmas.json) |
 | Quiet Dan | 379335 | [379335-quiet-dan.json](./379335-quiet-dan.json) |
