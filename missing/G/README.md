@@ -3614,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghoul | 67918 | [67918-ghoul.json](./67918-ghoul.json) |
 | Ghoul | 95860 | [95860-ghoul.json](./95860-ghoul.json) |
 | Ghoul Britannia: Land of Hope and Gorey | 116979 | [116979-ghoul-britannia-land-of-hope-and-gorey.json](./116979-ghoul-britannia-land-of-hope-and-gorey.json) |
+| Ghoul Castle 3D: Gold Edition | 195896 | [195896-ghoul-castle-3d-gold-edition.json](./195896-ghoul-castle-3d-gold-edition.json) |
 | Ghoul Dungeon | 190373 | [190373-ghoul-dungeon.json](./190373-ghoul-dungeon.json) |
 | Ghoul Fort | 294263 | [294263-ghoul-fort.json](./294263-ghoul-fort.json) |
 | Ghoul Fright | 302331 | [302331-ghoul-fright.json](./302331-ghoul-fright.json) |
@@ -8658,6 +8659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Tower | 175830 | [175830-grow-tower.json](./175830-grow-tower.json) |
 | Grow Turret | 248155 | [248155-grow-turret.json](./248155-grow-turret.json) |
 | Grow Up | 19552 | [19552-grow-up.json](./19552-grow-up.json) |
+| Grow Up! A Worm Game | 195875 | [195875-grow-up-a-worm-game.json](./195875-grow-up-a-worm-game.json) |
 | Grow Valley | 175833 | [175833-grow-valley.json](./175833-grow-valley.json) |
 | Grow Ver. 2 | 175834 | [175834-grow-ver-2.json](./175834-grow-ver-2.json) |
 | Grow Wild | 349646 | [349646-grow-wild.json](./349646-grow-wild.json) |
