@@ -7507,6 +7507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobit | 181784 | [181784-shinobit.json](./181784-shinobit.json) |
 | Shinobu | 220778 | [220778-shinobu.json](./220778-shinobu.json) |
 | Shinoda Shinjuku Tantei Jimusho Karajishi Botan | 221049 | [221049-shinoda-shinjuku-tantei-jimusho-karajishi-botan.json](./221049-shinoda-shinjuku-tantei-jimusho-karajishi-botan.json) |
+| Shinogi Chess Club | 196993 | [196993-shinogi-chess-club.json](./196993-shinogi-chess-club.json) |
 | Shinogi Chess Club 2: Resistance | 265136 | [265136-shinogi-chess-club-2-resistance.json](./265136-shinogi-chess-club-2-resistance.json) |
 | Shinonome | 222832 | [222832-shinonome.json](./222832-shinonome.json) |
 | Shinonome Abyss: The Maiden Exorcist | 310825 | [310825-shinonome-abyss-the-maiden-exorcist.json](./310825-shinonome-abyss-the-maiden-exorcist.json) |
@@ -11891,6 +11892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Color | 382853 | [382853-slime-color.json](./382853-slime-color.json) |
 | Slime Coming | 301812 | [301812-slime-coming.json](./301812-slime-coming.json) |
 | Slime Cores | 298056 | [298056-slime-cores.json](./298056-slime-cores.json) |
+| Slime Corp | 196977 | [196977-slime-corp.json](./196977-slime-corp.json) |
 | Slime Crunch | 114828 | [114828-slime-crunch.json](./114828-slime-crunch.json) |
 | Slime Dad: My dad is a slime | 106438 | [106438-slime-dad-my-dad-is-a-slime.json](./106438-slime-dad-my-dad-is-a-slime.json) |
 | Slime Dreamscape | 334345 | [334345-slime-dreamscape.json](./334345-slime-dreamscape.json) |
@@ -21801,6 +21803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcatcher | 86630 | [86630-starcatcher.json](./86630-starcatcher.json) |
 | Starch | 91942 | [91942-starch.json](./91942-starch.json) |
 | Starchaser: Priestess of the Night Sky | 35363 | [35363-starchaser-priestess-of-the-night-sky.json](./35363-starchaser-priestess-of-the-night-sky.json) |
+| Starchild Velta and loadtosky | 196972 | [196972-starchild-velta-and-loadtosky.json](./196972-starchild-velta-and-loadtosky.json) |
 | Starcom: Nexus | 107854 | [107854-starcom-nexus.json](./107854-starcom-nexus.json) |
 | Starcom: Unknown Space | 211207 | [211207-starcom-unknown-space.json](./211207-starcom-unknown-space.json) |
 | StarCore Legacy | 246759 | [246759-starcore-legacy.json](./246759-starcore-legacy.json) |
