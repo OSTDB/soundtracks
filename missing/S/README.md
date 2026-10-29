@@ -9155,6 +9155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Footsteps | 105072 | [105072-silent-footsteps.json](./105072-silent-footsteps.json) |
 | Silent Forest: Deadly Night Horror | 330404 | [330404-silent-forest-deadly-night-horror.json](./330404-silent-forest-deadly-night-horror.json) |
 | Silent Frontiers | 304606 | [304606-silent-frontiers.json](./304606-silent-frontiers.json) |
+| Silent grill | 179878 | [179878-silent-grill.json](./179878-silent-grill.json) |
 | Silent Harbor | 236748 | [236748-silent-harbor.json](./236748-silent-harbor.json) |
 | Silent Harmony | 394479 | [394479-silent-harmony.json](./394479-silent-harmony.json) |
 | Silent Hill | 349441 | [349441-silent-hill.json](./349441-silent-hill.json) |
@@ -18263,6 +18264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spec Ops II: Omega Squad | 9344 | [9344-spec-ops-ii-omega-squad.json](./9344-spec-ops-ii-omega-squad.json) |
 | Spec Ops II: Operation Bravo | 80887 | [80887-spec-ops-ii-operation-bravo.json](./80887-spec-ops-ii-operation-bravo.json) |
 | Spec Ops: Airborne Commando | 9347 | [9347-spec-ops-airborne-commando.json](./9347-spec-ops-airborne-commando.json) |
+| Spec Ops: Arrival | 179871 | [179871-spec-ops-arrival.json](./179871-spec-ops-arrival.json) |
 | Spec Ops: Covert Assault | 9346 | [9346-spec-ops-covert-assault.json](./9346-spec-ops-covert-assault.json) |
 | Spec Ops: Ranger Elite | 9345 | [9345-spec-ops-ranger-elite.json](./9345-spec-ops-ranger-elite.json) |
 | Spec Ops: Ranger Team Bravo | 9341 | [9341-spec-ops-ranger-team-bravo.json](./9341-spec-ops-ranger-team-bravo.json) |
@@ -23221,6 +23223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stella's Spikey Dream | 181027 | [181027-stellas-spikey-dream.json](./181027-stellas-spikey-dream.json) |
 | Stellabits | 223405 | [223405-stellabits.json](./223405-stellabits.json) |
 | StellaGale: The Trials Of Faith | 190457 | [190457-stellagale-the-trials-of-faith.json](./190457-stellagale-the-trials-of-faith.json) |
+| Stellamore | 179839 | [179839-stellamore.json](./179839-stellamore.json) |
 | Stellanova | 216264 | [216264-stellanova.json](./216264-stellanova.json) |
 | Stellar 2D | 34763 | [34763-stellar-2d.json](./34763-stellar-2d.json) |
 | Stellar 7 | 14513 | [14513-stellar-7.json](./14513-stellar-7.json) |
@@ -24977,6 +24980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streetkix Freestyle | 52865 | [52865-streetkix-freestyle.json](./52865-streetkix-freestyle.json) |
 | Streetoir | 272226 | [272226-streetoir.json](./272226-streetoir.json) |
 | Streets Ablaze | 97175 | [97175-streets-ablaze.json](./97175-streets-ablaze.json) |
+| Streets At Midnight | 179857 | [179857-streets-at-midnight.json](./179857-streets-at-midnight.json) |
 | Streets of Fear | 351754 | [351754-streets-of-fear.json](./351754-streets-of-fear.json) |
 | Streets of Fortuna | 305186 | [305186-streets-of-fortuna.json](./305186-streets-of-fortuna.json) |
 | Streets of Fury EX | 20151 | [20151-streets-of-fury-ex.json](./20151-streets-of-fury-ex.json) |
