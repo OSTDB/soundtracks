@@ -2817,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emory Cole & The Secret at Greymar Point | 415243 | [415243-emory-cole-and-the-secret-at-greymar-point.json](./415243-emory-cole-and-the-secret-at-greymar-point.json) |
 | Emote Farming Simulator | 173082 | [173082-emote-farming-simulator.json](./173082-emote-farming-simulator.json) |
 | Emote Guesser | 252732 | [252732-emote-guesser.json](./252732-emote-guesser.json) |
+| Emote Search | 217706 | [217706-emote-search.json](./217706-emote-search.json) |
 | EmoteGuesser | 232687 | [232687-emoteguesser.json](./232687-emoteguesser.json) |
 | Emoticon Defense | 409873 | [409873-emoticon-defense.json](./409873-emoticon-defense.json) |
 | Emoticon Swirl | 209205 | [209205-emoticon-swirl.json](./209205-emoticon-swirl.json) |
