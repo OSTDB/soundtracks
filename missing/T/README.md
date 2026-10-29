@@ -12501,6 +12501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night of Fire Stealing 2 | 163751 | [163751-the-night-of-fire-stealing-2.json](./163751-the-night-of-fire-stealing-2.json) |
 | The Night of the Exorcism | 332788 | [332788-the-night-of-the-exorcism.json](./332788-the-night-of-the-exorcism.json) |
 | The Night of the Inquisitor | 249924 | [249924-the-night-of-the-inquisitor.json](./249924-the-night-of-the-inquisitor.json) |
+| The Night of The Penanggalan | 224852 | [224852-the-night-of-the-penanggalan.json](./224852-the-night-of-the-penanggalan.json) |
 | The Night of the Rabbit: Premium Edition | 53768 | [53768-the-night-of-the-rabbit-premium-edition.json](./53768-the-night-of-the-rabbit-premium-edition.json) |
 | The Night of the Scissors | 199297 | [199297-the-night-of-the-scissors.json](./199297-the-night-of-the-scissors.json) |
 | The Night Owl Murder | 260086 | [260086-the-night-owl-murder.json](./260086-the-night-owl-murder.json) |
