@@ -2136,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementyle | 309513 | [309513-elementyle.json](./309513-elementyle.json) |
 | EleMetals: Death Metal Death Match! | 132515 | [132515-elemetals-death-metal-death-match.json](./132515-elemetals-death-metal-death-match.json) |
 | EleMetals: Deluxe Edition | 212283 | [212283-elemetals-deluxe-edition.json](./212283-elemetals-deluxe-edition.json) |
+| Elemgate | 207105 | [207105-elemgate.json](./207105-elemgate.json) |
 | Elemix! | 254998 | [254998-elemix.json](./254998-elemix.json) |
 | Elena's Journal: To Atlantis | 247960 | [247960-elenas-journal-to-atlantis.json](./247960-elenas-journal-to-atlantis.json) |
 | Elena's Journal: Unfinished Expedition | 207789 | [207789-elenas-journal-unfinished-expedition.json](./207789-elenas-journal-unfinished-expedition.json) |
@@ -2582,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberdoom VR | 106476 | [106476-emberdoom-vr.json](./106476-emberdoom-vr.json) |
 | Emberdrift | 290952 | [290952-emberdrift.json](./290952-emberdrift.json) |
 | Emberfall | 326838 | [326838-emberfall.json](./326838-emberfall.json) |
+| Emberfate: Tempest of Elements | 207069 | [207069-emberfate-tempest-of-elements.json](./207069-emberfate-tempest-of-elements.json) |
 | Emberfly | 336013 | [336013-emberfly.json](./336013-emberfly.json) |
 | Emberglade | 415895 | [415895-emberglade.json](./415895-emberglade.json) |
 | Emberglass | 154983 | [154983-emberglass.json](./154983-emberglass.json) |
