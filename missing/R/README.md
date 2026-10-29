@@ -6808,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riruri Tachibana: Reincarnated | 373575 | [373575-riruri-tachibana-reincarnated.json](./373575-riruri-tachibana-reincarnated.json) |
 | Risa no Yousei Densetsu | 41293 | [41293-risa-no-yousei-densetsu.json](./41293-risa-no-yousei-densetsu.json) |
 | Rise | 142344 | [142344-rise.json](./142344-rise.json) |
+| Rise | 208750 | [208750-rise.json](./208750-rise.json) |
 | Rise | 269418 | [269418-rise.json](./269418-rise.json) |
 | Rise | 297921 | [297921-rise.json](./297921-rise.json) |
 | Rise | 32198 | [32198-rise.json](./32198-rise.json) |
@@ -10954,6 +10955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuneKeeper | 396664 | [396664-runekeeper.json](./396664-runekeeper.json) |
 | RuneLight | 250858 | [250858-runelight.json](./250858-runelight.json) |
 | RuneLite | 142955 | [142955-runelite.json](./142955-runelite.json) |
+| Runelords | 208730 | [208730-runelords.json](./208730-runelords.json) |
 | Runemancer | 272245 | [272245-runemancer.json](./272245-runemancer.json) |
 | Runemaster Idle | 220201 | [220201-runemaster-idle.json](./220201-runemaster-idle.json) |
 | Runemon | 296685 | [296685-runemon.json](./296685-runemon.json) |
