@@ -3950,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Lost Pyramid | 103876 | [103876-secret-of-lost-pyramid.json](./103876-secret-of-lost-pyramid.json) |
 | Secret of Mana: Relocalized | 249276 | [249276-secret-of-mana-relocalized.json](./249276-secret-of-mana-relocalized.json) |
 | Secret of Qwerty | 124581 | [124581-secret-of-qwerty.json](./124581-secret-of-qwerty.json) |
+| Secret of Sardinia | 211543 | [211543-secret-of-sardinia.json](./211543-secret-of-sardinia.json) |
 | Secret of Super Seducer | 297753 | [297753-secret-of-super-seducer.json](./297753-secret-of-super-seducer.json) |
 | Secret of the Abbey | 326845 | [326845-secret-of-the-abbey.json](./326845-secret-of-the-abbey.json) |
 | Secret of the Corral | 252124 | [252124-secret-of-the-corral.json](./252124-secret-of-the-corral.json) |
@@ -4253,6 +4254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeker Shrine | 399735 | [399735-seeker-shrine.json](./399735-seeker-shrine.json) |
 | Seeker Tactics | 412935 | [412935-seeker-tactics.json](./412935-seeker-tactics.json) |
 | Seeker VR | 180460 | [180460-seeker-vr.json](./180460-seeker-vr.json) |
+| Seeker: My Shadow | 211541 | [211541-seeker-my-shadow.json](./211541-seeker-my-shadow.json) |
 | Seeker: Quest | 250760 | [250760-seeker-quest.json](./250760-seeker-quest.json) |
 | Seekers | 169342 | [169342-seekers.json](./169342-seekers.json) |
 | Seekers Aeterna | 217339 | [217339-seekers-aeterna.json](./217339-seekers-aeterna.json) |
@@ -4751,6 +4753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senninha | 281875 | [281875-senninha.json](./281875-senninha.json) |
 | Senninha GP Racing | 203290 | [203290-senninha-gp-racing.json](./203290-senninha-gp-racing.json) |
 | Senora | 136231 | [136231-senora.json](./136231-senora.json) |
+| Senpai and the Mysterious Dungeon | 211563 | [211563-senpai-and-the-mysterious-dungeon.json](./211563-senpai-and-the-mysterious-dungeon.json) |
 | Senpai and the Mysterious Island | 325686 | [325686-senpai-and-the-mysterious-island.json](./325686-senpai-and-the-mysterious-island.json) |
 | Senpai Arena | 254039 | [254039-senpai-arena.json](./254039-senpai-arena.json) |
 | Senpai ga Imouto no Saigo no Natsu | 406199 | [406199-senpai-ga-imouto-no-saigo-no-natsu.json](./406199-senpai-ga-imouto-no-saigo-no-natsu.json) |
@@ -9807,6 +9810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sina | 291308 | [291308-sina.json](./291308-sina.json) |
 | Sinag | 293317 | [293317-sinag.json](./293317-sinag.json) |
 | Sinbad | 131198 | [131198-sinbad.json](./131198-sinbad.json) |
+| Sinbad | 211527 | [211527-sinbad.json](./211527-sinbad.json) |
 | Sinbad - In Search of Magic Ginger | 54359 | [54359-sinbad-in-search-of-magic-ginger.json](./54359-sinbad-in-search-of-magic-ginger.json) |
 | Sinbad & the Golden Ship | 71509 | [71509-sinbad-and-the-golden-ship.json](./71509-sinbad-and-the-golden-ship.json) |
 | Sinbad and the Throne of the Falcon | 8668 | [8668-sinbad-and-the-throne-of-the-falcon.json](./8668-sinbad-and-the-throne-of-the-falcon.json) |
@@ -11269,6 +11273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam and Roll | 220702 | [220702-slam-and-roll.json](./220702-slam-and-roll.json) |
 | Slam City with Scottie Pippen | 298559 | [298559-slam-city-with-scottie-pippen.json](./298559-slam-city-with-scottie-pippen.json) |
 | Slam City with Scottie Pippen: Respect Edition | 375597 | [375597-slam-city-with-scottie-pippen-respect-edition.json](./375597-slam-city-with-scottie-pippen-respect-edition.json) |
+| Slam Dome | 211549 | [211549-slam-dome.json](./211549-slam-dome.json) |
 | Slam Dunk | 92986 | [92986-slam-dunk.json](./92986-slam-dunk.json) |
 | Slam Dunk - The best basketball game 2018 | 106631 | [106631-slam-dunk-the-best-basketball-game-2018.json](./106631-slam-dunk-the-best-basketball-game-2018.json) |
 | Slam Dunk 2: IH Yosen Kanzenban!! | 65428 | [65428-slam-dunk-2-ih-yosen-kanzenban.json](./65428-slam-dunk-2-ih-yosen-kanzenban.json) |
@@ -16038,6 +16043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sou Desu, Anata no Koibito Desu. | 285992 | [285992-sou-desu-anata-no-koibito-desu.json](./285992-sou-desu-anata-no-koibito-desu.json) |
 | Sou, Atashi-tachi wa Konna ni mo Rifujin na Sekai ni Ikiteiru no dara yo | 112508 | [112508-sou-atashi-tachi-wa-konna-ni-mo-rifujin-na-sekai-ni-ikiteiru-no-dara-yo.json](./112508-sou-atashi-tachi-wa-konna-ni-mo-rifujin-na-sekai-ni-ikiteiru-no-dara-yo.json) |
 | Sou, Atashi-tachi wa Konna ni mo Rifujin na Sekai ni Ikiteiru no dara yo 3 * Kono Sekai de 2 no Hatsubai Yotei wa Arimasen. | 112507 | [112507-sou-atashi-tachi-wa-konna-ni-mo-rifujin-na-sekai-ni-ikiteiru-no-dara-yo-3-kono-sekai-de-2-no-hatsubai-yotei-wa-arimasen.json](./112507-sou-atashi-tachi-wa-konna-ni-mo-rifujin-na-sekai-ni-ikiteiru-no-dara-yo-3-kono-sekai-de-2-no-hatsubai-yotei-wa-arimasen.json) |
+| Sou'wester Winds | 211539 | [211539-souwester-winds.json](./211539-souwester-winds.json) |
 | Soucha Yi Ke | 309969 | [309969-soucha-yi-ke.json](./309969-soucha-yi-ke.json) |
 | Soudentou no Mimei | 64211 | [64211-soudentou-no-mimei.json](./64211-soudentou-no-mimei.json) |
 | Souen no Iseki | 206174 | [206174-souen-no-iseki.json](./206174-souen-no-iseki.json) |
@@ -16663,6 +16669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Arcade Collection | 208870 | [208870-space-arcade-collection.json](./208870-space-arcade-collection.json) |
 | Space Architect | 149848 | [149848-space-architect.json](./149848-space-architect.json) |
 | Space Arena | 101030 | [101030-space-arena.json](./101030-space-arena.json) |
+| Space Ark | 211553 | [211553-space-ark.json](./211553-space-ark.json) |
 | Space Armor | 6137 | [6137-space-armor.json](./6137-space-armor.json) |
 | Space Armor 2 | 101300 | [101300-space-armor-2.json](./101300-space-armor-2.json) |
 | Space Ashes | 109899 | [109899-space-ashes.json](./109899-space-ashes.json) |
@@ -17476,6 +17483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station Alpha: The Encounter | 208770 | [208770-space-station-alpha-the-encounter.json](./208770-space-station-alpha-the-encounter.json) |
 | Space Station Cargo Simulator | 149241 | [149241-space-station-cargo-simulator.json](./149241-space-station-cargo-simulator.json) |
 | Space Station Defender | 293533 | [293533-space-station-defender.json](./293533-space-station-defender.json) |
+| Space Station Designer | 211518 | [211518-space-station-designer.json](./211518-space-station-designer.json) |
 | Space Station Escape | 282636 | [282636-space-station-escape.json](./282636-space-station-escape.json) |
 | Space Station Invader VR | 127711 | [127711-space-station-invader-vr.json](./127711-space-station-invader-vr.json) |
 | Space Station Loma: Operations | 29841 | [29841-space-station-loma-operations.json](./29841-space-station-loma-operations.json) |
