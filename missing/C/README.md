@@ -3228,6 +3228,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania Dominus Collection | 314944 | [314944-castlevania-dominus-collection.json](./314944-castlevania-dominus-collection.json) |
 | Castlevania II: Belmont's Revenge | 1123 | [1123-castlevania-ii-belmonts-revenge.json](./1123-castlevania-ii-belmonts-revenge.json) |
 | Castlevania II: Simon's Quest | 1116 | [1116-castlevania-ii-simons-quest.json](./1116-castlevania-ii-simons-quest.json) |
+| Castlevania II: Simon's Quest | 198661 | [198661-castlevania-ii-simons-quest.json](./198661-castlevania-ii-simons-quest.json) |
+| Castlevania II: Simon's Quest | 198663 | [198663-castlevania-ii-simons-quest.json](./198663-castlevania-ii-simons-quest.json) |
 | Castlevania II: Simon's Quest - Rebitten | 217540 | [217540-castlevania-ii-simons-quest-rebitten.json](./217540-castlevania-ii-simons-quest-rebitten.json) |
 | Castlevania II: Simon's Quest Revamped | 317859 | [317859-castlevania-ii-simons-quest-revamped.json](./317859-castlevania-ii-simons-quest-revamped.json) |
 | Castlevania III: Dracula's Curse | 1119 | [1119-castlevania-iii-draculas-curse.json](./1119-castlevania-iii-draculas-curse.json) |
@@ -3308,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Simon's Destiny | 141030 | [141030-castlevania-simons-destiny.json](./141030-castlevania-simons-destiny.json) |
 | Castlevania: Specter of Sorrow | 233598 | [233598-castlevania-specter-of-sorrow.json](./233598-castlevania-specter-of-sorrow.json) |
 | Castlevania: Symphony of Horrors | 376583 | [376583-castlevania-symphony-of-horrors.json](./376583-castlevania-symphony-of-horrors.json) |
+| Castlevania: Symphony of the Night | 198664 | [198664-castlevania-symphony-of-the-night.json](./198664-castlevania-symphony-of-the-night.json) |
 | Castlevania: Symphony of the Night | 213878 | [213878-castlevania-symphony-of-the-night.json](./213878-castlevania-symphony-of-the-night.json) |
 | Castlevania: Symphony of the Night | 222227 | [222227-castlevania-symphony-of-the-night.json](./222227-castlevania-symphony-of-the-night.json) |
 | Castlevania: Symphony of the Night | 223593 | [223593-castlevania-symphony-of-the-night.json](./223593-castlevania-symphony-of-the-night.json) |
