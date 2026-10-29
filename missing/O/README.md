@@ -1666,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Downloadpack Vol. 1 - KI-Fahrzeuge | 226122 | [226122-omsi-2-downloadpack-vol-1-ki-fahrzeuge.json](./226122-omsi-2-downloadpack-vol-1-ki-fahrzeuge.json) |
 | OMSI 2: Downloadpack Vol. 10 - KI-Busse | 226121 | [226121-omsi-2-downloadpack-vol-10-ki-busse.json](./226121-omsi-2-downloadpack-vol-10-ki-busse.json) |
 | OMSI 2: Downloadpack Vol.11 - AI-Electric Cars | 193180 | [193180-omsi-2-downloadpack-vol-11-ai-electric-cars.json](./193180-omsi-2-downloadpack-vol-11-ai-electric-cars.json) |
+| OMSI 2: Downloadpack Vol.12 - AI-People: Asia Edition | 213768 | [213768-omsi-2-downloadpack-vol-12-ai-people-asia-edition.json](./213768-omsi-2-downloadpack-vol-12-ai-people-asia-edition.json) |
 | OMSI 2: Downloadpack Vol.2 - KI-Fahrzeuge | 155126 | [155126-omsi-2-downloadpack-vol-2-ki-fahrzeuge.json](./155126-omsi-2-downloadpack-vol-2-ki-fahrzeuge.json) |
 | OMSI 2: Downloadpack Vol.3 - KI-Menschen | 155150 | [155150-omsi-2-downloadpack-vol-3-ki-menschen.json](./155150-omsi-2-downloadpack-vol-3-ki-menschen.json) |
 | OMSI 2: Downloadpack Vol.4 - KI-Fahrzeuge | 155128 | [155128-omsi-2-downloadpack-vol-4-ki-fahrzeuge.json](./155128-omsi-2-downloadpack-vol-4-ki-fahrzeuge.json) |
@@ -3615,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orebody: Sand Ripples | 304241 | [304241-orebody-sand-ripples.json](./304241-orebody-sand-ripples.json) |
 | Orebound | 316787 | [316787-orebound.json](./316787-orebound.json) |
 | Oreflux | 373331 | [373331-oreflux.json](./373331-oreflux.json) |
+| Oregon | 213729 | [213729-oregon.json](./213729-oregon.json) |
 | Oregon Trail II | 47099 | [47099-oregon-trail-ii.json](./47099-oregon-trail-ii.json) |
 | OreLight | 35293 | [35293-orelight.json](./35293-orelight.json) |
 | OreMania | 389097 | [389097-oremania.json](./389097-oremania.json) |
