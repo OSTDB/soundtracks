@@ -2471,7 +2471,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5154,6 +5153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krusty's Fun House | 307105 | [307105-krustys-fun-house.json](./307105-krustys-fun-house.json) |
 | Krusty's Fun House | 307106 | [307106-krustys-fun-house.json](./307106-krustys-fun-house.json) |
 | Krusty's Fun House | 307110 | [307110-krustys-fun-house.json](./307110-krustys-fun-house.json) |
+| Krut: The Mythic Wings | 196981 | [196981-krut-the-mythic-wings.json](./196981-krut-the-mythic-wings.json) |
 | KrvVR | 349752 | [349752-krvvr.json](./349752-krvvr.json) |
 | Kryftolike | 176994 | [176994-kryftolike.json](./176994-kryftolike.json) |
 | Krypt | 204948 | [204948-krypt.json](./204948-krypt.json) |
@@ -5426,6 +5426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuraburo Kai | 32094 | [32094-kuraburo-kai.json](./32094-kuraburo-kai.json) |
 | Kurage Life | 368103 | [368103-kurage-life.json](./368103-kurage-life.json) |
 | Kurai Nichiyoubi: Sombre Dimanche | 260982 | [260982-kurai-nichiyoubi-sombre-dimanche.json](./260982-kurai-nichiyoubi-sombre-dimanche.json) |
+| Kurama and the Cursed Isles | 196986 | [196986-kurama-and-the-cursed-isles.json](./196986-kurama-and-the-cursed-isles.json) |
 | Kurayami | 94763 | [94763-kurayami.json](./94763-kurayami.json) |
 | Kurayami Zaka no Ie | 261878 | [261878-kurayami-zaka-no-ie.json](./261878-kurayami-zaka-no-ie.json) |
 | Kurenai Maid Tycoon | 235864 | [235864-kurenai-maid-tycoon.json](./235864-kurenai-maid-tycoon.json) |
