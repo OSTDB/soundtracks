@@ -13651,6 +13651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Camp 2: Character Pack - Zoe | 343761 | [343761-monster-camp-2-character-pack-zoe.json](./343761-monster-camp-2-character-pack-zoe.json) |
 | Monster Camp Character Pack: Colorful Campers | 378384 | [378384-monster-camp-character-pack-colorful-campers.json](./378384-monster-camp-character-pack-colorful-campers.json) |
 | Monster Car Garage Fun | 103098 | [103098-monster-car-garage-fun.json](./103098-monster-car-garage-fun.json) |
+| Monster Cards | 212605 | [212605-monster-cards.json](./212605-monster-cards.json) |
 | Monster Cards: Skill Pack - Card of Horror | 376425 | [376425-monster-cards-skill-pack-card-of-horror.json](./376425-monster-cards-skill-pack-card-of-horror.json) |
 | Monster Cards: Skill Pack - Card of Inspiration | 376427 | [376427-monster-cards-skill-pack-card-of-inspiration.json](./376427-monster-cards-skill-pack-card-of-inspiration.json) |
 | Monster Cards: Skill Pack - Card of Named | 376426 | [376426-monster-cards-skill-pack-card-of-named.json](./376426-monster-cards-skill-pack-card-of-named.json) |
