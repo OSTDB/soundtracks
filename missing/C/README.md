@@ -5263,6 +5263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos of East | 101353 | [101353-chaos-of-east.json](./101353-chaos-of-east.json) |
 | Chaos of Fallen City | 159864 | [159864-chaos-of-fallen-city.json](./159864-chaos-of-fallen-city.json) |
 | Chaos of Hearts | 31636 | [31636-chaos-of-hearts.json](./31636-chaos-of-hearts.json) |
+| Chaos of the Periodic Table | 178189 | [178189-chaos-of-the-periodic-table.json](./178189-chaos-of-the-periodic-table.json) |
 | Chaos on Deponia | 5062 | [5062-chaos-on-deponia.json](./5062-chaos-on-deponia.json) |
 | Chaos on Wheels: Deluxe Edition | 370899 | [370899-chaos-on-wheels-deluxe-edition.json](./370899-chaos-on-wheels-deluxe-edition.json) |
 | Chaos Order | 315532 | [315532-chaos-order.json](./315532-chaos-order.json) |
@@ -6222,6 +6223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Grow | 363967 | [363967-chicken-grow.json](./363967-chicken-grow.json) |
 | Chicken Gun | 413002 | [413002-chicken-gun.json](./413002-chicken-gun.json) |
 | Chicken Hero in Wulin | 219998 | [219998-chicken-hero-in-wulin.json](./219998-chicken-hero-in-wulin.json) |
+| Chicken Hike | 177718 | [177718-chicken-hike.json](./177718-chicken-hike.json) |
 | Chicken Hill | 324310 | [324310-chicken-hill.json](./324310-chicken-hill.json) |
 | Chicken Holmes: The Mystery of Bartolomeu | 163827 | [163827-chicken-holmes-the-mystery-of-bartolomeu.json](./163827-chicken-holmes-the-mystery-of-bartolomeu.json) |
 | Chicken Hunter | 83235 | [83235-chicken-hunter.json](./83235-chicken-hunter.json) |
@@ -7820,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circles with Grandma | 100645 | [100645-circles-with-grandma.json](./100645-circles-with-grandma.json) |
 | Circles3 | 106293 | [106293-circles3.json](./106293-circles3.json) |
 | Circling | 304338 | [304338-circling.json](./304338-circling.json) |
+| Circloo | 177672 | [177672-circloo.json](./177672-circloo.json) |
 | Circlt | 57750 | [57750-circlt.json](./57750-circlt.json) |
 | Circo: Dark Story | 187167 | [187167-circo-dark-story.json](./187167-circo-dark-story.json) |
 | Circoid | 296679 | [296679-circoid.json](./296679-circoid.json) |
@@ -9497,6 +9500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clucking Dubbed to Feathers | 268872 | [268872-clucking-dubbed-to-feathers.json](./268872-clucking-dubbed-to-feathers.json) |
 | Cluckles' Adventure | 29221 | [29221-cluckles-adventure.json](./29221-cluckles-adventure.json) |
 | Cluckmech Oasis | 275812 | [275812-cluckmech-oasis.json](./275812-cluckmech-oasis.json) |
+| Clucky's Picnic Adventure | 177692 | [177692-cluckys-picnic-adventure.json](./177692-cluckys-picnic-adventure.json) |
 | Cludbugz Twisted Magic | 180059 | [180059-cludbugz-twisted-magic.json](./180059-cludbugz-twisted-magic.json) |
 | Cludbugz's Twisted Magic | 51969 | [51969-cludbugzs-twisted-magic.json](./51969-cludbugzs-twisted-magic.json) |
 | Clue | 206977 | [206977-clue.json](./206977-clue.json) |
@@ -16238,6 +16242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt Hunter | 55785 | [55785-crypt-hunter.json](./55785-crypt-hunter.json) |
 | Crypt Keeper | 340330 | [340330-crypt-keeper.json](./340330-crypt-keeper.json) |
 | Crypt Killer | 20737 | [20737-crypt-killer.json](./20737-crypt-killer.json) |
+| Crypt o' Casino | 177705 | [177705-crypt-o-casino.json](./177705-crypt-o-casino.json) |
 | Crypt of Baconthulhu | 60920 | [60920-crypt-of-baconthulhu.json](./60920-crypt-of-baconthulhu.json) |
 | Crypt of Darne | 349652 | [349652-crypt-of-darne.json](./349652-crypt-of-darne.json) |
 | Crypt of Dracula | 102808 | [102808-crypt-of-dracula.json](./102808-crypt-of-dracula.json) |
