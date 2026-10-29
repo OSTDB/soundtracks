@@ -1081,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dardeep | 232967 | [232967-dardeep.json](./232967-dardeep.json) |
 | Dare | 130352 | [130352-dare.json](./130352-dare.json) |
 | Dare Demo Shodan ni Nareru Igo Kyoushitsu | 283758 | [283758-dare-demo-shodan-ni-nareru-igo-kyoushitsu.json](./283758-dare-demo-shodan-ni-nareru-igo-kyoushitsu.json) |
+| Dare Devil | 182674 | [182674-dare-devil.json](./182674-dare-devil.json) |
 | Dare Devil Derby 3D | 43916 | [43916-dare-devil-derby-3d.json](./43916-dare-devil-derby-3d.json) |
 | Dare ga Humpty wo Koroshita no?: Lizzie, Futatabi Tantei ni Naru | 299694 | [299694-dare-ga-humpty-wo-koroshita-no-lizzie-futatabi-tantei-ni-naru.json](./299694-dare-ga-humpty-wo-koroshita-no-lizzie-futatabi-tantei-ni-naru.json) |
 | Dare mo ga Kanojo o Neratteru. | 82976 | [82976-dare-mo-ga-kanojo-o-neratteru.json](./82976-dare-mo-ga-kanojo-o-neratteru.json) |
@@ -3901,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Dealers | 137403 | [137403-death-dealers.json](./137403-death-dealers.json) |
 | Death Delivery | 336764 | [336764-death-delivery.json](./336764-death-delivery.json) |
 | Death Delivery | 371237 | [371237-death-delivery.json](./371237-death-delivery.json) |
+| Death Deserves Holidays | 182649 | [182649-death-deserves-holidays.json](./182649-death-deserves-holidays.json) |
 | Death Dojo | 30913 | [30913-death-dojo.json](./30913-death-dojo.json) |
 | Death Dream | 155361 | [155361-death-dream.json](./155361-death-dream.json) |
 | Death Drive | 197775 | [197775-death-drive.json](./197775-death-drive.json) |
@@ -15988,6 +15990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Gems | 348737 | [348737-dungeon-gems.json](./348737-dungeon-gems.json) |
 | Dungeon Girl | 271115 | [271115-dungeon-girl.json](./271115-dungeon-girl.json) |
 | Dungeon Girl Scouts | 210693 | [210693-dungeon-girl-scouts.json](./210693-dungeon-girl-scouts.json) |
+| Dungeon Glitchers VR | 182660 | [182660-dungeon-glitchers-vr.json](./182660-dungeon-glitchers-vr.json) |
 | Dungeon Golf | 244507 | [244507-dungeon-golf.json](./244507-dungeon-golf.json) |
 | Dungeon Gunner | 233391 | [233391-dungeon-gunner.json](./233391-dungeon-gunner.json) |
 | Dungeon Hack | 2529 | [2529-dungeon-hack.json](./2529-dungeon-hack.json) |
