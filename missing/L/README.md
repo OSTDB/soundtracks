@@ -2000,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn to Fly | 141082 | [141082-learn-to-fly.json](./141082-learn-to-fly.json) |
 | Learn to Fly 2 | 58593 | [58593-learn-to-fly-2.json](./58593-learn-to-fly-2.json) |
 | Learn to Fly 3 | 29507 | [29507-learn-to-fly-3.json](./29507-learn-to-fly-3.json) |
+| Learn to Fly Idle | 194763 | [194763-learn-to-fly-idle.json](./194763-learn-to-fly-idle.json) |
 | Learn to Play Chess with Fritz & Chesster | 323714 | [323714-learn-to-play-chess-with-fritz-and-chesster.json](./323714-learn-to-play-chess-with-fritz-and-chesster.json) |
 | Learn to Play Chess with Fritz and Chesster 2: Chess in the Black Castle | 77972 | [77972-learn-to-play-chess-with-fritz-and-chesster-2-chess-in-the-black-castle.json](./77972-learn-to-play-chess-with-fritz-and-chesster-2-chess-in-the-black-castle.json) |
 | Learn to Play Vol. 1: Fruit Collect | 293365 | [293365-learn-to-play-vol-1-fruit-collect.json](./293365-learn-to-play-vol-1-fruit-collect.json) |
@@ -4678,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linda Crenshaw: The Dream Apartment | 181687 | [181687-linda-crenshaw-the-dream-apartment.json](./181687-linda-crenshaw-the-dream-apartment.json) |
 | Linda Cube | 94898 | [94898-linda-cube.json](./94898-linda-cube.json) |
 | Linda Cube Again | 65761 | [65761-linda-cube-again.json](./65761-linda-cube-again.json) |
+| Linda Cube Kanzenban | 194757 | [194757-linda-cube-kanzenban.json](./194757-linda-cube-kanzenban.json) |
 | Lindsi Luna Blast | 62215 | [62215-lindsi-luna-blast.json](./62215-lindsi-luna-blast.json) |
 | Lindwyrm | 262827 | [262827-lindwyrm.json](./262827-lindwyrm.json) |
 | Line / Dash | 32187 | [32187-line-dash.json](./32187-line-dash.json) |
@@ -5753,6 +5755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Livingmare Cold Calls | 290559 | [290559-livingmare-cold-calls.json](./290559-livingmare-cold-calls.json) |
 | Livingstone Supongo | 37079 | [37079-livingstone-supongo.json](./37079-livingstone-supongo.json) |
 | Livli: A Sámi Story | 293894 | [293894-livli-a-sami-story.json](./293894-livli-a-sami-story.json) |
+| Livly Island | 194764 | [194764-livly-island.json](./194764-livly-island.json) |
 | Livora | 402966 | [402966-livora.json](./402966-livora.json) |
 | Liwertown: Rebirth | 267453 | [267453-liwertown-rebirth.json](./267453-liwertown-rebirth.json) |
 | Lix | 97896 | [97896-lix.json](./97896-lix.json) |
