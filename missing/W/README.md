@@ -4493,6 +4493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Card Football: Ultimate Edition | 260013 | [260013-wild-card-football-ultimate-edition.json](./260013-wild-card-football-ultimate-edition.json) |
 | Wild Card Football: Ultimate Outfit Pack | 271556 | [271556-wild-card-football-ultimate-outfit-pack.json](./271556-wild-card-football-ultimate-outfit-pack.json) |
 | Wild Castle | 223332 | [223332-wild-castle.json](./223332-wild-castle.json) |
+| Wild Castle | 227545 | [227545-wild-castle.json](./227545-wild-castle.json) |
 | Wild Cats | 365662 | [365662-wild-cats.json](./365662-wild-cats.json) |
 | Wild Cats of Wasteland | 117131 | [117131-wild-cats-of-wasteland.json](./117131-wild-cats-of-wasteland.json) |
 | Wild Cheetah Sim 3D | 330725 | [330725-wild-cheetah-sim-3d.json](./330725-wild-cheetah-sim-3d.json) |
