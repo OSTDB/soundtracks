@@ -7034,6 +7034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Colors: World of Secrets | 237599 | [237599-lost-colors-world-of-secrets.json](./237599-lost-colors-world-of-secrets.json) |
 | Lost Connection | 378392 | [378392-lost-connection.json](./378392-lost-connection.json) |
 | Lost Connections | 254371 | [254371-lost-connections.json](./254371-lost-connections.json) |
+| Lost Contact | 189334 | [189334-lost-contact.json](./189334-lost-contact.json) |
 | Lost Continent | 191553 | [191553-lost-continent.json](./191553-lost-continent.json) |
 | Lost Cosmonaut | 33402 | [33402-lost-cosmonaut.json](./33402-lost-cosmonaut.json) |
 | Lost Cosmonauts ARG | 109366 | [109366-lost-cosmonauts-arg.json](./109366-lost-cosmonauts-arg.json) |
