@@ -3000,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Secret Laboratory | 70385 | [70385-scp-secret-laboratory.json](./70385-scp-secret-laboratory.json) |
 | SCP: Short Story | 409333 | [409333-scp-short-story.json](./409333-scp-short-story.json) |
 | SCP: Site-19 | 242246 | [242246-scp-site-19.json](./242246-scp-site-19.json) |
+| SCP: Submerged | 223253 | [223253-scp-submerged.json](./223253-scp-submerged.json) |
 | SCP: The Beginning | 390659 | [390659-scp-the-beginning.json](./390659-scp-the-beginning.json) |
 | SCP: The Endurance | 228377 | [228377-scp-the-endurance.json](./228377-scp-the-endurance.json) |
 | SCP: The Paranormal | 212210 | [212210-scp-the-paranormal.json](./212210-scp-the-paranormal.json) |
@@ -7033,6 +7034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shieldbound | 349406 | [349406-shieldbound.json](./349406-shieldbound.json) |
 | Shieldmaiden | 129709 | [129709-shieldmaiden.json](./129709-shieldmaiden.json) |
 | Shieldmaiden: Remix Edition | 231239 | [231239-shieldmaiden-remix-edition.json](./231239-shieldmaiden-remix-edition.json) |
+| Shields of Asgard | 223252 | [223252-shields-of-asgard.json](./223252-shields-of-asgard.json) |
 | Shields of Loyalty | 156040 | [156040-shields-of-loyalty.json](./156040-shields-of-loyalty.json) |
 | Shields Up! VR | 102196 | [102196-shields-up-vr.json](./102196-shields-up-vr.json) |
 | Shieldwall Chronicles | 197769 | [197769-shieldwall-chronicles.json](./197769-shieldwall-chronicles.json) |
@@ -10578,6 +10580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi War: Toilets Attack | 263614 | [263614-skibidi-war-toilets-attack.json](./263614-skibidi-war-toilets-attack.json) |
 | SkibidiVerse | 266905 | [266905-skibidiverse.json](./266905-skibidiverse.json) |
 | Skibum | 58534 | [58534-skibum.json](./58534-skibum.json) |
+| Skid | 223261 | [223261-skid.json](./223261-skid.json) |
 | Skid Island: Asphalt Mayhem | 291745 | [291745-skid-island-asphalt-mayhem.json](./291745-skid-island-asphalt-mayhem.json) |
 | Skid the Scrambling Squirrel | 237779 | [237779-skid-the-scrambling-squirrel.json](./237779-skid-the-scrambling-squirrel.json) |
 | Skidaddle Skidoodle | 311641 | [311641-skidaddle-skidoodle.json](./311641-skidaddle-skidoodle.json) |
@@ -21070,6 +21073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Revenge Redone PC | 378291 | [378291-star-revenge-redone-pc.json](./378291-star-revenge-redone-pc.json) |
 | Star Revenge X: Discord Star Adventure | 285681 | [285681-star-revenge-x-discord-star-adventure.json](./285681-star-revenge-x-discord-star-adventure.json) |
 | Star Rider | 24012 | [24012-star-rider.json](./24012-star-rider.json) |
+| Star Rift Saga | 223251 | [223251-star-rift-saga.json](./223251-star-rift-saga.json) |
 | Star Ring | 295927 | [295927-star-ring.json](./295927-star-ring.json) |
 | Star Rising | 353391 | [353391-star-rising.json](./353391-star-rising.json) |
 | Star Road Love Songs | 188273 | [188273-star-road-love-songs.json](./188273-star-road-love-songs.json) |
@@ -21838,6 +21842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarLight | 267312 | [267312-starlight.json](./267312-starlight.json) |
 | Starlight and the Silver Key | 237211 | [237211-starlight-and-the-silver-key.json](./237211-starlight-and-the-silver-key.json) |
 | Starlight Attack | 198520 | [198520-starlight-attack.json](./198520-starlight-attack.json) |
+| Starlight City | 223239 | [223239-starlight-city.json](./223239-starlight-city.json) |
 | Starlight Cove | 415987 | [415987-starlight-cove.json](./415987-starlight-cove.json) |
 | Starlight Explorers | 179204 | [179204-starlight-explorers.json](./179204-starlight-explorers.json) |
 | Starlight Idol: Colorful Top Stage! | 194586 | [194586-starlight-idol-colorful-top-stage.json](./194586-starlight-idol-colorful-top-stage.json) |
