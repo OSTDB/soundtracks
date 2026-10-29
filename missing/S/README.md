@@ -2272,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scan Hunter: Sen-nen Kaigyo wo Oe! | 56528 | [56528-scan-hunter-sen-nen-kaigyo-wo-oe.json](./56528-scan-hunter-sen-nen-kaigyo-wo-oe.json) |
 | Scandal | 65027 | [65027-scandal.json](./65027-scandal.json) |
 | Scandal in the Spotlight | 147693 | [147693-scandal-in-the-spotlight.json](./147693-scandal-in-the-spotlight.json) |
+| Scandal Notes | 212069 | [212069-scandal-notes.json](./212069-scandal-notes.json) |
 | Scandinavian Cottage Survival Simulator | 360000 | [360000-scandinavian-cottage-survival-simulator.json](./360000-scandinavian-cottage-survival-simulator.json) |
 | Scanline | 180810 | [180810-scanline.json](./180810-scanline.json) |
 | Scanner Force | 402269 | [402269-scanner-force.json](./402269-scanner-force.json) |
@@ -5790,6 +5791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Hearts | 4170 | [4170-shadow-hearts.json](./4170-shadow-hearts.json) |
 | Shadow Hearts: Covenant | 4171 | [4171-shadow-hearts-covenant.json](./4171-shadow-hearts-covenant.json) |
 | Shadow Hearts: From the New World | 4172 | [4172-shadow-hearts-from-the-new-world.json](./4172-shadow-hearts-from-the-new-world.json) |
+| Shadow Heroes | 212072 | [212072-shadow-heroes.json](./212072-shadow-heroes.json) |
 | Shadow Hold | 236223 | [236223-shadow-hold.json](./236223-shadow-hold.json) |
 | Shadow Hunt | 374077 | [374077-shadow-hunt.json](./374077-shadow-hunt.json) |
 | Shadow Hunter | 35386 | [35386-shadow-hunter.json](./35386-shadow-hunter.json) |
@@ -10949,6 +10951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Love Girls: Flight Attendant Crush | 370797 | [370797-sky-love-girls-flight-attendant-crush.json](./370797-sky-love-girls-flight-attendant-crush.json) |
 | Sky Mad | 310184 | [310184-sky-mad.json](./310184-sky-mad.json) |
 | Sky Madness | 54367 | [54367-sky-madness.json](./54367-sky-madness.json) |
+| Sky Mammoths | 212063 | [212063-sky-mammoths.json](./212063-sky-mammoths.json) |
 | Sky Marksman | 300468 | [300468-sky-marksman.json](./300468-sky-marksman.json) |
 | Sky Mates | 386888 | [386888-sky-mates.json](./386888-sky-mates.json) |
 | Sky Maze 3D | 51203 | [51203-sky-maze-3d.json](./51203-sky-maze-3d.json) |
@@ -19006,6 +19009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Path 2 | 394554 | [394554-spin-path-2.json](./394554-spin-path-2.json) |
 | Spin Poker | 95325 | [95325-spin-poker.json](./95325-spin-poker.json) |
 | SPIN Protocol | 368585 | [368585-spin-protocol.json](./368585-spin-protocol.json) |
+| Spin Puzzle | 212042 | [212042-spin-puzzle.json](./212042-spin-puzzle.json) |
 | Spin Quest: A Slot Adventure | 220670 | [220670-spin-quest-a-slot-adventure.json](./220670-spin-quest-a-slot-adventure.json) |
 | Spin Rhythm | 107592 | [107592-spin-rhythm.json](./107592-spin-rhythm.json) |
 | Spin Rhythm XD | 122416 | [122416-spin-rhythm-xd.json](./122416-spin-rhythm-xd.json) |
@@ -30914,6 +30918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword & Poker | 77110 | [77110-sword-and-poker.json](./77110-sword-and-poker.json) |
 | Sword & Poker 2 | 98812 | [98812-sword-and-poker-2.json](./98812-sword-and-poker-2.json) |
 | Sword & Seek | 309847 | [309847-sword-and-seek.json](./309847-sword-and-seek.json) |
+| Sword & Shield Simulator | 212091 | [212091-sword-and-shield-simulator.json](./212091-sword-and-shield-simulator.json) |
 | Sword & Siege Crusades: Book II | 402956 | [402956-sword-and-siege-crusades-book-ii.json](./402956-sword-and-siege-crusades-book-ii.json) |
 | Sword & Siege: Crusades Book I | 335735 | [335735-sword-and-siege-crusades-book-i.json](./335735-sword-and-siege-crusades-book-i.json) |
 | Sword & Spatula | 257892 | [257892-sword-and-spatula.json](./257892-sword-and-spatula.json) |
