@@ -6867,6 +6867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Gate | 208601 | [208601-grand-gate.json](./208601-grand-gate.json) |
 | Grand Guilds | 109774 | [109774-grand-guilds.json](./109774-grand-guilds.json) |
 | Grand Heist | 120317 | [120317-grand-heist.json](./120317-grand-heist.json) |
+| Grand Hike | 190317 | [190317-grand-hike.json](./190317-grand-hike.json) |
 | Grand Horse Attraction | 151302 | [151302-grand-horse-attraction.json](./151302-grand-horse-attraction.json) |
 | Grand Hotel Mania | 235162 | [235162-grand-hotel-mania.json](./235162-grand-hotel-mania.json) |
 | Grand Intention Adjustment | 149341 | [149341-grand-intention-adjustment.json](./149341-grand-intention-adjustment.json) |
