@@ -1168,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance of the Planet | 50499 | [50499-balance-of-the-planet.json](./50499-balance-of-the-planet.json) |
 | Balance of World | 174568 | [174568-balance-of-world.json](./174568-balance-of-world.json) |
 | Balance Roll | 115495 | [115495-balance-roll.json](./115495-balance-roll.json) |
+| Balance Stuff | 186421 | [186421-balance-stuff.json](./186421-balance-stuff.json) |
 | Balance the Beam | 58218 | [58218-balance-the-beam.json](./58218-balance-the-beam.json) |
 | Balance the Bottle | 268830 | [268830-balance-the-bottle.json](./268830-balance-the-bottle.json) |
 | Balance The Hat | 252945 | [252945-balance-the-hat.json](./252945-balance-the-hat.json) |
@@ -3163,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Breakers | 27431 | [27431-battle-breakers.json](./27431-battle-breakers.json) |
 | Battle Brigade | 166167 | [166167-battle-brigade.json](./166167-battle-brigade.json) |
 | Battle Brothers: Blazing Deserts | 155069 | [155069-battle-brothers-blazing-deserts.json](./155069-battle-brothers-blazing-deserts.json) |
+| Battle Brothers: Complete Edition | 187045 | [187045-battle-brothers-complete-edition.json](./187045-battle-brothers-complete-edition.json) |
 | Battle Brothers: DLC Bundle Pack | 227671 | [227671-battle-brothers-dlc-bundle-pack.json](./227671-battle-brothers-dlc-bundle-pack.json) |
 | Battle Brothers: Lindwurm | 155347 | [155347-battle-brothers-lindwurm.json](./155347-battle-brothers-lindwurm.json) |
 | Battle Brothers: Of Flesh and Faith | 193130 | [193130-battle-brothers-of-flesh-and-faith.json](./193130-battle-brothers-of-flesh-and-faith.json) |
@@ -3823,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlelands Royale | 104311 | [104311-battlelands-royale.json](./104311-battlelands-royale.json) |
 | Battleline: Steel Warfare | 23630 | [23630-battleline-steel-warfare.json](./23630-battleline-steel-warfare.json) |
 | BattleLive: ZombieGhetto | 216085 | [216085-battlelive-zombieghetto.json](./216085-battlelive-zombieghetto.json) |
+| Battleloot Adventure | 186442 | [186442-battleloot-adventure.json](./186442-battleloot-adventure.json) |
 | Battlemage Ascension | 407467 | [407467-battlemage-ascension.json](./407467-battlemage-ascension.json) |
 | Battlemage VR | 113450 | [113450-battlemage-vr.json](./113450-battlemage-vr.json) |
 | Battlemage: Magic by Mail | 154355 | [154355-battlemage-magic-by-mail.json](./154355-battlemage-magic-by-mail.json) |
@@ -5754,6 +5757,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benighted | 226251 | [226251-benighted.json](./226251-benighted.json) |
 | Benign Land | 329137 | [329137-benign-land.json](./329137-benign-land.json) |
 | Benjamin Blümchen: Das Große Zoofest | 220789 | [220789-benjamin-blumchen-das-gro-e-zoofest.json](./220789-benjamin-blumchen-das-gro-e-zoofest.json) |
+| Benjamin Blumchen: Ein Tag im Zoo | 187076 | [187076-benjamin-blumchen-ein-tag-im-zoo.json](./187076-benjamin-blumchen-ein-tag-im-zoo.json) |
+| Benjamin Blumchen: Torooo im Zoo | 187077 | [187077-benjamin-blumchen-torooo-im-zoo.json](./187077-benjamin-blumchen-torooo-im-zoo.json) |
 | Benjamin Johnson | 90534 | [90534-benjamin-johnson.json](./90534-benjamin-johnson.json) |
 | Benjamin of Blackstone Edge | 134892 | [134892-benjamin-of-blackstone-edge.json](./134892-benjamin-of-blackstone-edge.json) |
 | Benjamin's Quest | 291161 | [291161-benjamins-quest.json](./291161-benjamins-quest.json) |
@@ -5856,6 +5861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserk Emblem | 401306 | [401306-berserk-emblem.json](./401306-berserk-emblem.json) |
 | Berserk Heroes Online | 377267 | [377267-berserk-heroes-online.json](./377267-berserk-heroes-online.json) |
 | Berserk High | 285503 | [285503-berserk-high.json](./285503-berserk-high.json) |
+| Berserk Mode | 186443 | [186443-berserk-mode.json](./186443-berserk-mode.json) |
 | Berserk or Die | 348333 | [348333-berserk-or-die.json](./348333-berserk-or-die.json) |
 | Berserk Reborn | 211261 | [211261-berserk-reborn.json](./211261-berserk-reborn.json) |
 | Berserk Soccer | 155385 | [155385-berserk-soccer.json](./155385-berserk-soccer.json) |
@@ -6807,6 +6813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigger Than Me | 183431 | [183431-bigger-than-me.json](./183431-bigger-than-me.json) |
 | Bigger Than You Think | 60208 | [60208-bigger-than-you-think.json](./60208-bigger-than-you-think.json) |
 | Bigger Trucks | 168620 | [168620-bigger-trucks.json](./168620-bigger-trucks.json) |
+| Biggerman.io | 187003 | [187003-biggerman-io.json](./187003-biggerman-io.json) |
 | BiggerNouis | 181802 | [181802-biggernouis.json](./181802-biggernouis.json) |
 | Biggest Impossible Ramp Ever | 100895 | [100895-biggest-impossible-ramp-ever.json](./100895-biggest-impossible-ramp-ever.json) |
 | Biggest Piano | 353385 | [353385-biggest-piano.json](./353385-biggest-piano.json) |
@@ -9254,6 +9261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Dizzy | 235099 | [235099-block-dizzy.json](./235099-block-dizzy.json) |
 | Block Dodge Challenge | 121584 | [121584-block-dodge-challenge.json](./121584-block-dodge-challenge.json) |
 | Block Drop | 396758 | [396758-block-drop.json](./396758-block-drop.json) |
+| Block Drop Duel | 186423 | [186423-block-drop-duel.json](./186423-block-drop-duel.json) |
 | Block Dropper | 192197 | [192197-block-dropper.json](./192197-block-dropper.json) |
 | Block Droppin | 362228 | [362228-block-droppin.json](./362228-block-droppin.json) |
 | Block Droppin Blitz | 362335 | [362335-block-droppin-blitz.json](./362335-block-droppin-blitz.json) |
@@ -10191,6 +10199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blox | 100054 | [100054-blox.json](./100054-blox.json) |
 | Blox | 18322 | [18322-blox.json](./18322-blox.json) |
 | Blox 3D | 100146 | [100146-blox-3d.json](./100146-blox-3d.json) |
+| Blox 3D City Creator | 186424 | [186424-blox-3d-city-creator.json](./186424-blox-3d-city-creator.json) |
 | Blox 3D World | 196053 | [196053-blox-3d-world.json](./196053-blox-3d-world.json) |
 | BloxAR | 357299 | [357299-bloxar.json](./357299-bloxar.json) |
 | Bloxcalibur | 322043 | [322043-bloxcalibur.json](./322043-bloxcalibur.json) |
@@ -13731,6 +13740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks of Rome | 254699 | [254699-bricks-of-rome.json](./254699-bricks-of-rome.json) |
 | Bricks4ever | 79569 | [79569-bricks4ever.json](./79569-bricks4ever.json) |
 | Bricksbumpbump | 325830 | [325830-bricksbumpbump.json](./325830-bricksbumpbump.json) |
+| Brickscape | 186450 | [186450-brickscape.json](./186450-brickscape.json) |
 | Brickscapes: Bricks Breaker | 237283 | [237283-brickscapes-bricks-breaker.json](./237283-brickscapes-bricks-breaker.json) |
 | BrickShooter | 93208 | [93208-brickshooter.json](./93208-brickshooter.json) |
 | BricksVR | 144928 | [144928-bricksvr.json](./144928-bricksvr.json) |
@@ -14845,6 +14855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Blitz | 41146 | [41146-bug-blitz.json](./41146-bug-blitz.json) |
 | Bug Bomb | 15689 | [15689-bug-bomb.json](./15689-bug-bomb.json) |
 | Bug Bomber | 14351 | [14351-bug-bomber.json](./14351-bug-bomber.json) |
+| Bug Bomber | 186425 | [186425-bug-bomber.json](./186425-bug-bomber.json) |
 | Bug Bots | 275749 | [275749-bug-bots.json](./275749-bug-bots.json) |
 | Bug Bounce | 401068 | [401068-bug-bounce.json](./401068-bug-bounce.json) |
 | Bug Bunny: Discontroll | 373729 | [373729-bug-bunny-discontroll.json](./373729-bug-bunny-discontroll.json) |
