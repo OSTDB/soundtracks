@@ -6192,6 +6192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady Brook - A Dark Mystery Text Adventure | 30903 | [30903-shady-brook-a-dark-mystery-text-adventure.json](./30903-shady-brook-a-dark-mystery-text-adventure.json) |
 | Shady Business | 195198 | [195198-shady-business.json](./195198-shady-business.json) |
 | Shady Business | 408028 | [408028-shady-business.json](./408028-shady-business.json) |
+| Shady Lewd Kart | 201954 | [201954-shady-lewd-kart.json](./201954-shady-lewd-kart.json) |
 | Shady Lewd Kart: Wild Woody Character Pack | 295113 | [295113-shady-lewd-kart-wild-woody-character-pack.json](./295113-shady-lewd-kart-wild-woody-character-pack.json) |
 | Shady Mission | 53602 | [53602-shady-mission.json](./53602-shady-mission.json) |
 | Shady O'Grady's Overnight Sensation | 391234 | [391234-shady-ogradys-overnight-sensation.json](./391234-shady-ogradys-overnight-sensation.json) |
@@ -27301,6 +27302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Goo Goo | 35563 | [35563-super-goo-goo.json](./35563-super-goo-goo.json) |
 | Super Gorilla Quest | 264235 | [264235-super-gorilla-quest.json](./264235-super-gorilla-quest.json) |
 | Super Gorilla Quest 2: A Space Chimpanzee | 347230 | [347230-super-gorilla-quest-2-a-space-chimpanzee.json](./347230-super-gorilla-quest-2-a-space-chimpanzee.json) |
+| Super Gosu Cars | 201948 | [201948-super-gosu-cars.json](./201948-super-gosu-cars.json) |
 | Super Gracie World | 328327 | [328327-super-gracie-world.json](./328327-super-gracie-world.json) |
 | Super Grand Prix | 15381 | [15381-super-grand-prix.json](./15381-super-grand-prix.json) |
 | Super Granny | 7502 | [7502-super-granny.json](./7502-super-granny.json) |
@@ -29811,6 +29813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf Park | 270883 | [270883-surf-park.json](./270883-surf-park.json) |
 | Surf Planet | 337567 | [337567-surf-planet.json](./337567-surf-planet.json) |
 | Surf Rocket Racers | 45842 | [45842-surf-rocket-racers.json](./45842-surf-rocket-racers.json) |
+| Surf Safari | 201980 | [201980-surf-safari.json](./201980-surf-safari.json) |
 | Surf's Up | 248517 | [248517-surfs-up.json](./248517-surfs-up.json) |
 | Surf's Up | 248518 | [248518-surfs-up.json](./248518-surfs-up.json) |
 | Surf's Up | 283113 | [283113-surfs-up.json](./283113-surfs-up.json) |
