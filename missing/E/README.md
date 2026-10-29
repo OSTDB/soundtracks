@@ -2433,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ELOA: Elite Lord of Alliance | 26535 | [26535-eloa-elite-lord-of-alliance.json](./26535-eloa-elite-lord-of-alliance.json) |
 | Elodya | 271087 | [271087-elodya.json](./271087-elodya.json) |
 | Elohim Eternal: Exodus | 339741 | [339741-elohim-eternal-exodus.json](./339741-elohim-eternal-exodus.json) |
+| Elohim Eternal: The Babel Code | 190358 | [190358-elohim-eternal-the-babel-code.json](./190358-elohim-eternal-the-babel-code.json) |
 | Elon and Friends: Easter Pack | 340737 | [340737-elon-and-friends-easter-pack.json](./340737-elon-and-friends-easter-pack.json) |
 | Elon and the Divine Proof | 326066 | [326066-elon-and-the-divine-proof.json](./326066-elon-and-the-divine-proof.json) |
 | Elon Musk Simulator 2 | 111886 | [111886-elon-musk-simulator-2.json](./111886-elon-musk-simulator-2.json) |
@@ -6288,6 +6289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Defenders | 25093 | [25093-evil-defenders.json](./25093-evil-defenders.json) |
 | Evil Diary | 265468 | [265468-evil-diary.json](./265468-evil-diary.json) |
 | Evil Doll | 304919 | [304919-evil-doll.json](./304919-evil-doll.json) |
+| Evil Dreams | 190329 | [190329-evil-dreams.json](./190329-evil-dreams.json) |
 | Evil Dungeon | 285579 | [285579-evil-dungeon.json](./285579-evil-dungeon.json) |
 | Evil Dungeon II | 285580 | [285580-evil-dungeon-ii.json](./285580-evil-dungeon-ii.json) |
 | Evil Dungeons 2 | 323160 | [323160-evil-dungeons-2.json](./323160-evil-dungeons-2.json) |
@@ -6848,6 +6850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus: Sunflower on the Horizon | 257977 | [257977-exodus-sunflower-on-the-horizon.json](./257977-exodus-sunflower-on-the-horizon.json) |
 | Exodus: The Last War | 69930 | [69930-exodus-the-last-war.json](./69930-exodus-the-last-war.json) |
 | Exodus: The Rise of Chaos | 309397 | [309397-exodus-the-rise-of-chaos.json](./309397-exodus-the-rise-of-chaos.json) |
+| Exodus: Trapped In Time | 190318 | [190318-exodus-trapped-in-time.json](./190318-exodus-trapped-in-time.json) |
 | Exofinity Clicker | 383579 | [383579-exofinity-clicker.json](./383579-exofinity-clicker.json) |
 | Exoforge | 332931 | [332931-exoforge.json](./332931-exoforge.json) |
 | ExoFrontier: Venus | 319724 | [319724-exofrontier-venus.json](./319724-exofrontier-venus.json) |
