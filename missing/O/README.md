@@ -4344,6 +4344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Way Down | 195365 | [195365-our-way-down.json](./195365-our-way-down.json) |
 | Our Ways | 219911 | [219911-our-ways.json](./219911-our-ways.json) |
 | Our Winding Road | 301408 | [301408-our-winding-road.json](./301408-our-winding-road.json) |
+| Our Winter Sports | 192044 | [192044-our-winter-sports.json](./192044-our-winter-sports.json) |
 | Our Wonderland | 204222 | [204222-our-wonderland.json](./204222-our-wonderland.json) |
 | Our Wonderland | 403157 | [403157-our-wonderland.json](./403157-our-wonderland.json) |
 | Our world has not decayed | 121302 | [121302-our-world-has-not-decayed.json](./121302-our-world-has-not-decayed.json) |
@@ -4596,6 +4597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outclaw | 354931 | [354931-outclaw.json](./354931-outclaw.json) |
 | Outcore: Desktop Adventure | 156612 | [156612-outcore-desktop-adventure.json](./156612-outcore-desktop-adventure.json) |
 | Outdo IO: Alphabet Letter | 237632 | [237632-outdo-io-alphabet-letter.json](./237632-outdo-io-alphabet-letter.json) |
+| Outdoor Adventures With Marisa Kirisame | 192020 | [192020-outdoor-adventures-with-marisa-kirisame.json](./192020-outdoor-adventures-with-marisa-kirisame.json) |
 | Outdoor Life: Sportman's Challenge | 202697 | [202697-outdoor-life-sportmans-challenge.json](./202697-outdoor-life-sportmans-challenge.json) |
 | Outdoor Life: Sportsman's Challenge | 208774 | [208774-outdoor-life-sportsmans-challenge.json](./208774-outdoor-life-sportsmans-challenge.json) |
 | Outdoor Trivia Challenge | 70355 | [70355-outdoor-trivia-challenge.json](./70355-outdoor-trivia-challenge.json) |
