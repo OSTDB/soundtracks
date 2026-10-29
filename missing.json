@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-29T00:33:30.675Z",
-  "total_missing": 276904,
+  "generated_at": "2026-10-29T00:47:57.470Z",
+  "total_missing": 276954,
   "games": [
     {
       "igdb_id": 191680,
@@ -165810,6 +165810,11 @@
       "igdb_id": 89517,
       "game_name": "Brotherhood of Violence II",
       "file": "missing/B/89517-brotherhood-of-violence-ii.json"
+    },
+    {
+      "igdb_id": 227020,
+      "game_name": "Brotherly Aid",
+      "file": "missing/B/227020-brotherly-aid.json"
     },
     {
       "igdb_id": 193446,
@@ -469397,6 +469402,11 @@
       "file": "missing/G/8384-gish.json"
     },
     {
+      "igdb_id": 227031,
+      "game_name": "Gish: The Mobile Game",
+      "file": "missing/G/227031-gish-the-mobile-game.json"
+    },
+    {
       "igdb_id": 335737,
       "game_name": "Gisselle's Adventure",
       "file": "missing/G/335737-gisselles-adventure.json"
@@ -711457,6 +711467,11 @@
       "file": "missing/M/238179-megadimension-neptunia-vii-party-character-umio-and-nepgya.json"
     },
     {
+      "igdb_id": 227036,
+      "game_name": "Megadimension Neptunia VII: Weapon Pack",
+      "file": "missing/M/227036-megadimension-neptunia-vii-weapon-pack.json"
+    },
+    {
       "igdb_id": 36610,
       "game_name": "Megadimension Neptunia VIIR",
       "file": "missing/M/36610-megadimension-neptunia-viir.json"
@@ -714425,6 +714440,11 @@
       "igdb_id": 360483,
       "game_name": "Memology: Italian Brainrot",
       "file": "missing/M/360483-memology-italian-brainrot.json"
+    },
+    {
+      "igdb_id": 227035,
+      "game_name": "MeMoMi",
+      "file": "missing/M/227035-memomi.json"
     },
     {
       "igdb_id": 106905,
@@ -724337,6 +724357,11 @@
       "file": "missing/M/115147-middle-ages-hero.json"
     },
     {
+      "igdb_id": 227034,
+      "game_name": "Middle Ages Jigsaw Puzzles: Expansion Pack",
+      "file": "missing/M/227034-middle-ages-jigsaw-puzzles-expansion-pack.json"
+    },
+    {
       "igdb_id": 304662,
       "game_name": "Middle Ages: Peasants & Knights",
       "file": "missing/M/304662-middle-ages-peasants-and-knights.json"
@@ -726030,6 +726055,11 @@
       "igdb_id": 121256,
       "game_name": "Mighty Fight Federation",
       "file": "missing/M/121256-mighty-fight-federation.json"
+    },
+    {
+      "igdb_id": 227033,
+      "game_name": "Mighty Fight Federation: Kunio & Riki Pack",
+      "file": "missing/M/227033-mighty-fight-federation-kunio-and-riki-pack.json"
     },
     {
       "igdb_id": 1658,
@@ -734662,6 +734692,11 @@
       "file": "missing/M/209560-miramagia.json"
     },
     {
+      "igdb_id": 227027,
+      "game_name": "Miramar",
+      "file": "missing/M/227027-miramar.json"
+    },
+    {
       "igdb_id": 271728,
       "game_name": "Mírame",
       "file": "missing/M/271728-mirame.json"
@@ -736237,6 +736272,11 @@
       "file": "missing/M/315702-missing-picture.json"
     },
     {
+      "igdb_id": 227028,
+      "game_name": "Missing Pictures: Catherine Hardwicke",
+      "file": "missing/M/227028-missing-pictures-catherine-hardwicke.json"
+    },
+    {
       "igdb_id": 221124,
       "game_name": "Missing Pieces",
       "file": "missing/M/221124-missing-pieces.json"
@@ -737100,6 +737140,11 @@
       "igdb_id": 349306,
       "game_name": "Mistwilds",
       "file": "missing/M/349306-mistwilds.json"
+    },
+    {
+      "igdb_id": 227026,
+      "game_name": "Mistwinter Bay",
+      "file": "missing/M/227026-mistwinter-bay.json"
     },
     {
       "igdb_id": 29936,
@@ -738827,6 +738872,11 @@
       "file": "missing/M/43777-mobile-armor.json"
     },
     {
+      "igdb_id": 227029,
+      "game_name": "Mobile Astro: EX Pack",
+      "file": "missing/M/227029-mobile-astro-ex-pack.json"
+    },
+    {
       "igdb_id": 109476,
       "game_name": "Mobile Ball",
       "file": "missing/M/109476-mobile-ball.json"
@@ -740190,6 +740240,11 @@
       "igdb_id": 162908,
       "game_name": "Moe Jigsaw: Blessing of the Campanella X Pack",
       "file": "missing/M/162908-moe-jigsaw-blessing-of-the-campanella-x-pack.json"
+    },
+    {
+      "igdb_id": 227030,
+      "game_name": "Moe Jigsaw: Happiness! Pack",
+      "file": "missing/M/227030-moe-jigsaw-happiness-pack.json"
     },
     {
       "igdb_id": 162926,
@@ -750082,6 +750137,11 @@
       "file": "missing/M/50758-morendar-goblin-slayer.json"
     },
     {
+      "igdb_id": 227024,
+      "game_name": "Morendo",
+      "file": "missing/M/227024-morendo.json"
+    },
+    {
       "igdb_id": 60986,
       "game_name": "Morf",
       "file": "missing/M/60986-morf.json"
@@ -753035,6 +753095,11 @@
       "igdb_id": 219632,
       "game_name": "Motherless: Season 2 - Chapter 15",
       "file": "missing/M/219632-motherless-season-2-chapter-15.json"
+    },
+    {
+      "igdb_id": 227025,
+      "game_name": "Motherless: Season 2 - Chapter 16",
+      "file": "missing/M/227025-motherless-season-2-chapter-16.json"
     },
     {
       "igdb_id": 19070,
@@ -765337,6 +765402,11 @@
       "file": "missing/M/117653-my-heart-grows-fonder.json"
     },
     {
+      "igdb_id": 227023,
+      "game_name": "My Heart Your Soul",
+      "file": "missing/M/227023-my-heart-your-soul.json"
+    },
+    {
       "igdb_id": 343267,
       "game_name": "My Heaven's Dale",
       "file": "missing/M/343267-my-heavens-dale.json"
@@ -776720,6 +776790,16 @@
       "igdb_id": 81005,
       "game_name": "National Rugby Manager",
       "file": "missing/N/81005-national-rugby-manager.json"
+    },
+    {
+      "igdb_id": 227022,
+      "game_name": "National Rugby Manager: European Rugby Pack",
+      "file": "missing/N/227022-national-rugby-manager-european-rugby-pack.json"
+    },
+    {
+      "igdb_id": 227021,
+      "game_name": "National Rugby Manager: Southern Hemisphere Rugby Pack",
+      "file": "missing/N/227021-national-rugby-manager-southern-hemisphere-rugby-pack.json"
     },
     {
       "igdb_id": 251545,
@@ -827092,6 +827172,11 @@
       "file": "missing/O/211895-otherworld-legends-jadetalon.json"
     },
     {
+      "igdb_id": 227015,
+      "game_name": "Otherworld Legends: Mirelha",
+      "file": "missing/O/227015-otherworld-legends-mirelha.json"
+    },
+    {
       "igdb_id": 274598,
       "game_name": "Otherworld Legends: Ourania",
       "file": "missing/O/274598-otherworld-legends-ourania.json"
@@ -831390,6 +831475,26 @@
       "igdb_id": 285431,
       "game_name": "OverDrift Festival: Police Cars Pack",
       "file": "missing/O/285431-overdrift-festival-police-cars-pack.json"
+    },
+    {
+      "igdb_id": 227018,
+      "game_name": "OverDrift Festival: Premium Cars Pack #2",
+      "file": "missing/O/227018-overdrift-festival-premium-cars-pack-2.json"
+    },
+    {
+      "igdb_id": 227019,
+      "game_name": "OverDrift Festival: Premium Cars Pack#1",
+      "file": "missing/O/227019-overdrift-festival-premium-cars-pack-1.json"
+    },
+    {
+      "igdb_id": 227017,
+      "game_name": "OverDrift Festival: Premium Cars Pack#3",
+      "file": "missing/O/227017-overdrift-festival-premium-cars-pack-3.json"
+    },
+    {
+      "igdb_id": 227016,
+      "game_name": "OverDrift Festival: Premium Cars Pack#4",
+      "file": "missing/O/227016-overdrift-festival-premium-cars-pack-4.json"
     },
     {
       "igdb_id": 12710,
@@ -844847,6 +844952,11 @@
       "file": "missing/P/261731-partysaur-dino-mayhem.json"
     },
     {
+      "igdb_id": 227010,
+      "game_name": "PartySparkers",
+      "file": "missing/P/227010-partysparkers.json"
+    },
+    {
       "igdb_id": 215555,
       "game_name": "PartyToons",
       "file": "missing/P/215555-partytoons.json"
@@ -845660,6 +845770,11 @@
       "igdb_id": 90117,
       "game_name": "Patent9",
       "file": "missing/P/90117-patent9.json"
+    },
+    {
+      "igdb_id": 227012,
+      "game_name": "Path",
+      "file": "missing/P/227012-path.json"
     },
     {
       "igdb_id": 341590,
@@ -851705,6 +851820,11 @@
       "igdb_id": 289441,
       "game_name": "Per Aspera Test",
       "file": "missing/P/289441-per-aspera-test.json"
+    },
+    {
+      "igdb_id": 227011,
+      "game_name": "Per Aspera: Buildings Paint Pack",
+      "file": "missing/P/227011-per-aspera-buildings-paint-pack.json"
     },
     {
       "igdb_id": 154545,
@@ -867402,6 +867522,11 @@
       "file": "missing/P/291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json"
     },
     {
+      "igdb_id": 227009,
+      "game_name": "PixArk: Skyward - Expansion Pack",
+      "file": "missing/P/227009-pixark-skyward-expansion-pack.json"
+    },
+    {
       "igdb_id": 164868,
       "game_name": "Pixasso",
       "file": "missing/P/164868-pixasso.json"
@@ -869027,6 +869152,46 @@
       "file": "missing/P/357954-pixel-puzzles-traditional-jigsaws-motorbikes.json"
     },
     {
+      "igdb_id": 227006,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Pack - Autumn",
+      "file": "missing/P/227006-pixel-puzzles-traditional-jigsaws-pack-autumn.json"
+    },
+    {
+      "igdb_id": 227005,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Pack - Butterflies",
+      "file": "missing/P/227005-pixel-puzzles-traditional-jigsaws-pack-butterflies.json"
+    },
+    {
+      "igdb_id": 227004,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Pack - Candy",
+      "file": "missing/P/227004-pixel-puzzles-traditional-jigsaws-pack-candy.json"
+    },
+    {
+      "igdb_id": 227003,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Pack - Christmas 2",
+      "file": "missing/P/227003-pixel-puzzles-traditional-jigsaws-pack-christmas-2.json"
+    },
+    {
+      "igdb_id": 227002,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Pack - Fantasy",
+      "file": "missing/P/227002-pixel-puzzles-traditional-jigsaws-pack-fantasy.json"
+    },
+    {
+      "igdb_id": 227001,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Pack - Halloween",
+      "file": "missing/P/227001-pixel-puzzles-traditional-jigsaws-pack-halloween.json"
+    },
+    {
+      "igdb_id": 227000,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Pack - Mexico",
+      "file": "missing/P/227000-pixel-puzzles-traditional-jigsaws-pack-mexico.json"
+    },
+    {
+      "igdb_id": 226999,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Pack - Poland",
+      "file": "missing/P/226999-pixel-puzzles-traditional-jigsaws-pack-poland.json"
+    },
+    {
       "igdb_id": 163003,
       "game_name": "Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 1",
       "file": "missing/P/163003-pixel-puzzles-traditional-jigsaws-pack-variety-pack-1.json"
@@ -869035,6 +869200,16 @@
       "igdb_id": 267407,
       "game_name": "Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 11",
       "file": "missing/P/267407-pixel-puzzles-traditional-jigsaws-pack-variety-pack-11.json"
+    },
+    {
+      "igdb_id": 226993,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 4",
+      "file": "missing/P/226993-pixel-puzzles-traditional-jigsaws-pack-variety-pack-4.json"
+    },
+    {
+      "igdb_id": 226992,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 5",
+      "file": "missing/P/226992-pixel-puzzles-traditional-jigsaws-pack-variety-pack-5.json"
     },
     {
       "igdb_id": 241508,
@@ -869897,6 +870072,11 @@
       "file": "missing/P/303703-pixel-puzzles-illustrations-and-anime-jigsaw-pack-deadswitch-3.json"
     },
     {
+      "igdb_id": 227008,
+      "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dinosaurs",
+      "file": "missing/P/227008-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dinosaurs.json"
+    },
+    {
       "igdb_id": 163410,
       "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Distant Worlds",
       "file": "missing/P/163410-pixel-puzzles-illustrations-and-anime-jigsaw-pack-distant-worlds.json"
@@ -869950,6 +870130,11 @@
       "igdb_id": 357948,
       "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Microorganisms",
       "file": "missing/P/357948-pixel-puzzles-illustrations-and-anime-jigsaw-pack-microorganisms.json"
+    },
+    {
+      "igdb_id": 227007,
+      "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Neko",
+      "file": "missing/P/227007-pixel-puzzles-illustrations-and-anime-jigsaw-pack-neko.json"
     },
     {
       "igdb_id": 163408,
@@ -873502,9 +873687,24 @@
       "file": "missing/P/402959-planet-zoo-2.json"
     },
     {
+      "igdb_id": 226998,
+      "game_name": "Planet Zoo: Africa Pack",
+      "file": "missing/P/226998-planet-zoo-africa-pack.json"
+    },
+    {
       "igdb_id": 226995,
       "game_name": "Planet Zoo: Aquatic Pack",
       "file": "missing/P/226995-planet-zoo-aquatic-pack.json"
+    },
+    {
+      "igdb_id": 226996,
+      "game_name": "Planet Zoo: Arctic Pack",
+      "file": "missing/P/226996-planet-zoo-arctic-pack.json"
+    },
+    {
+      "igdb_id": 226997,
+      "game_name": "Planet Zoo: Australia Pack",
+      "file": "missing/P/226997-planet-zoo-australia-pack.json"
     },
     {
       "igdb_id": 308275,
@@ -873540,6 +873740,11 @@
       "igdb_id": 266381,
       "game_name": "Planet Zoo: Oceania Pack",
       "file": "missing/P/266381-planet-zoo-oceania-pack.json"
+    },
+    {
+      "igdb_id": 226994,
+      "game_name": "Planet Zoo: South America Pack",
+      "file": "missing/P/226994-planet-zoo-south-america-pack.json"
     },
     {
       "igdb_id": 243535,
@@ -884475,6 +884680,11 @@
       "igdb_id": 263343,
       "game_name": "Polaris Chord",
       "file": "missing/P/263343-polaris-chord.json"
+    },
+    {
+      "igdb_id": 226991,
+      "game_name": "Polaris Outpost",
+      "file": "missing/P/226991-polaris-outpost.json"
     },
     {
       "igdb_id": 249122,
@@ -895727,6 +895937,11 @@
       "file": "missing/P/387651-primitive-fear.json"
     },
     {
+      "igdb_id": 226990,
+      "game_name": "Primitive Hearts",
+      "file": "missing/P/226990-primitive-hearts.json"
+    },
+    {
       "igdb_id": 127710,
       "game_name": "Primitive Hunter",
       "file": "missing/P/127710-primitive-hunter.json"
@@ -904550,6 +904765,11 @@
       "igdb_id": 138752,
       "game_name": "Projekt Z: Beyond Order",
       "file": "missing/P/138752-projekt-z-beyond-order.json"
+    },
+    {
+      "igdb_id": 226989,
+      "game_name": "Projekt: Passion - Season 1",
+      "file": "missing/P/226989-projekt-passion-season-1.json"
     },
     {
       "igdb_id": 297187,
@@ -920012,6 +920232,11 @@
       "file": "missing/Q/128593-quings-quest-vii-the-death-of-videogames.json"
     },
     {
+      "igdb_id": 226988,
+      "game_name": "Quinidiom",
+      "file": "missing/Q/226988-quinidiom.json"
+    },
+    {
       "igdb_id": 15353,
       "game_name": "Quink",
       "file": "missing/Q/15353-quink.json"
@@ -920055,6 +920280,11 @@
       "igdb_id": 11588,
       "game_name": "Quiplash",
       "file": "missing/Q/11588-quiplash.json"
+    },
+    {
+      "igdb_id": 226987,
+      "game_name": "Quiplash: Quip Pack 1",
+      "file": "missing/Q/226987-quiplash-quip-pack-1.json"
     },
     {
       "igdb_id": 139801,
@@ -922737,6 +922967,11 @@
       "file": "missing/R/168153-raceroom-racing-experience-adac-gt-masters-experience-2014.json"
     },
     {
+      "igdb_id": 226986,
+      "game_name": "RaceRoom Racing Experience: DTM 1992 Car Pack",
+      "file": "missing/R/226986-raceroom-racing-experience-dtm-1992-car-pack.json"
+    },
+    {
       "igdb_id": 168152,
       "game_name": "RaceRoom Racing Experience: DTM Experience 2014",
       "file": "missing/R/168152-raceroom-racing-experience-dtm-experience-2014.json"
@@ -922745,6 +922980,16 @@
       "igdb_id": 53167,
       "game_name": "RaceRoom Racing Experience: Nurburgring Legends",
       "file": "missing/R/53167-raceroom-racing-experience-nurburgring-legends.json"
+    },
+    {
+      "igdb_id": 226985,
+      "game_name": "RaceRoom Racing Experience: WTCC 2014 Car Pack",
+      "file": "missing/R/226985-raceroom-racing-experience-wtcc-2014-car-pack.json"
+    },
+    {
+      "igdb_id": 226984,
+      "game_name": "RaceRoom Racing Experience: WTCC 2015 Season Pack",
+      "file": "missing/R/226984-raceroom-racing-experience-wtcc-2015-season-pack.json"
     },
     {
       "igdb_id": 10749,
@@ -1358395,6 +1358640,11 @@
       "igdb_id": 154269,
       "game_name": "WWII Online: Chokepoint",
       "file": "missing/W/154269-wwii-online-chokepoint.json"
+    },
+    {
+      "igdb_id": 227013,
+      "game_name": "WWII Online: Paratrooper Pack",
+      "file": "missing/W/227013-wwii-online-paratrooper-pack.json"
     },
     {
       "igdb_id": 303093,
