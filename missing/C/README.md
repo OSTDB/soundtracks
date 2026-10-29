@@ -1042,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Eat by Yourself | 76660 | [76660-can-you-eat-by-yourself.json](./76660-can-you-eat-by-yourself.json) |
 | Can You Escape | 189033 | [189033-can-you-escape.json](./189033-can-you-escape.json) |
 | Can You Escape | 88475 | [88475-can-you-escape.json](./88475-can-you-escape.json) |
+| Can You Escape 2 | 182062 | [182062-can-you-escape-2.json](./182062-can-you-escape-2.json) |
 | Can You Escape Fate? A Zodiac Story | 377807 | [377807-can-you-escape-fate-a-zodiac-story.json](./377807-can-you-escape-fate-a-zodiac-story.json) |
 | Can You Escape Grand Canyon | 207207 | [207207-can-you-escape-grand-canyon.json](./207207-can-you-escape-grand-canyon.json) |
 | Can You Escape Heartbreak? A Zodiac Story | 377809 | [377809-can-you-escape-heartbreak-a-zodiac-story.json](./377809-can-you-escape-heartbreak-a-zodiac-story.json) |
@@ -1403,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cap'n Crunch's Crunchling Adventure | 135737 | [135737-capn-crunchs-crunchling-adventure.json](./135737-capn-crunchs-crunchling-adventure.json) |
 | Cap'n Magneto | 344336 | [344336-capn-magneto.json](./344336-capn-magneto.json) |
 | Cap'n Marcela's Winter Wonderland | 310543 | [310543-capn-marcelas-winter-wonderland.json](./310543-capn-marcelas-winter-wonderland.json) |
+| Capacity | 182041 | [182041-capacity.json](./182041-capacity.json) |
 | Capacity | 380051 | [380051-capacity.json](./380051-capacity.json) |
 | Capacocha | 179139 | [179139-capacocha.json](./179139-capacocha.json) |
 | Caparace | 383966 | [383966-caparace.json](./383966-caparace.json) |
@@ -3566,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Palette: Merging Colorful Kittens | 277755 | [277755-cat-palette-merging-colorful-kittens.json](./277755-cat-palette-merging-colorful-kittens.json) |
 | Cat Parents | 395178 | [395178-cat-parents.json](./395178-cat-parents.json) |
 | Cat Park | 257503 | [257503-cat-park.json](./257503-cat-park.json) |
+| Cat Park Tycoon | 182032 | [182032-cat-park-tycoon.json](./182032-cat-park-tycoon.json) |
 | Cat Piano | 300778 | [300778-cat-piano.json](./300778-cat-piano.json) |
 | Cat Ping Pong | 251642 | [251642-cat-ping-pong.json](./251642-cat-ping-pong.json) |
 | Cat Pipes | 244275 | [244275-cat-pipes.json](./244275-cat-pipes.json) |
@@ -7201,6 +7204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Wonderland 16 | 417595 | [417595-christmas-wonderland-16.json](./417595-christmas-wonderland-16.json) |
 | Christmas Wonderland 16: Collector's Edition | 416785 | [416785-christmas-wonderland-16-collectors-edition.json](./416785-christmas-wonderland-16-collectors-edition.json) |
 | Christmas Wonderland 5 | 224845 | [224845-christmas-wonderland-5.json](./224845-christmas-wonderland-5.json) |
+| Christmas Wonderland 6 | 182024 | [182024-christmas-wonderland-6.json](./182024-christmas-wonderland-6.json) |
 | Christmas Wonderland 7 | 226426 | [226426-christmas-wonderland-7.json](./226426-christmas-wonderland-7.json) |
 | Christmas Wonderland 8 | 417622 | [417622-christmas-wonderland-8.json](./417622-christmas-wonderland-8.json) |
 | Christmas Wonderland 9 | 417623 | [417623-christmas-wonderland-9.json](./417623-christmas-wonderland-9.json) |
@@ -11324,6 +11328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commandeer Armament | 98309 | [98309-commandeer-armament.json](./98309-commandeer-armament.json) |
 | Commander - World 1 | 130829 | [130829-commander-world-1.json](./130829-commander-world-1.json) |
 | Commander '85 | 119100 | [119100-commander-85.json](./119100-commander-85.json) |
+| Commander at War | 182054 | [182054-commander-at-war.json](./182054-commander-at-war.json) |
 | Commander Babes | 127930 | [127930-commander-babes.json](./127930-commander-babes.json) |
 | Commander Blood | 50473 | [50473-commander-blood.json](./50473-commander-blood.json) |
 | Commander Bug Wars | 290860 | [290860-commander-bug-wars.json](./290860-commander-bug-wars.json) |
@@ -11720,6 +11725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conductor | 28508 | [28508-conductor.json](./28508-conductor.json) |
 | Conductor & Abode | 52831 | [52831-conductor-and-abode.json](./52831-conductor-and-abode.json) |
 | Conductor Cat | 335364 | [335364-conductor-cat.json](./335364-conductor-cat.json) |
+| Conductor Destructor | 182038 | [182038-conductor-destructor.json](./182038-conductor-destructor.json) |
 | Conductor: Eternal Service | 373582 | [373582-conductor-eternal-service.json](./373582-conductor-eternal-service.json) |
 | Conductus | 402437 | [402437-conductus.json](./402437-conductus.json) |
 | Conduits | 338883 | [338883-conduits.json](./338883-conduits.json) |
@@ -16481,6 +16487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Winter | 236742 | [236742-crystal-winter.json](./236742-crystal-winter.json) |
 | Crystal Wish: Bits Collection | 306502 | [306502-crystal-wish-bits-collection.json](./306502-crystal-wish-bits-collection.json) |
 | Crystal Wish: Candy Chase | 264888 | [264888-crystal-wish-candy-chase.json](./264888-crystal-wish-candy-chase.json) |
+| Crystal Wish: Classroom Dungeon | 182036 | [182036-crystal-wish-classroom-dungeon.json](./182036-crystal-wish-classroom-dungeon.json) |
 | Crystal: Automaton | 333181 | [333181-crystal-automaton.json](./333181-crystal-automaton.json) |
 | Crystal's Castle | 303445 | [303445-crystals-castle.json](./303445-crystals-castle.json) |
 | Crystalase | 402571 | [402571-crystalase.json](./402571-crystalase.json) |
@@ -17721,6 +17728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutie Squad: Crime War | 404263 | [404263-cutie-squad-crime-war.json](./404263-cutie-squad-crime-war.json) |
 | Cutie Suzuki no Ringside Angel | 45732 | [45732-cutie-suzuki-no-ringside-angel.json](./45732-cutie-suzuki-no-ringside-angel.json) |
 | Cutie Tutti Frutti | 207534 | [207534-cutie-tutti-frutti.json](./207534-cutie-tutti-frutti.json) |
+| Cutieheart | 182064 | [182064-cutieheart.json](./182064-cutieheart.json) |
 | Cuties | 259066 | [259066-cuties.json](./259066-cuties.json) |
 | Cuties | 32532 | [32532-cuties.json](./32532-cuties.json) |
 | Cuties Hacked: Dakota Photo Pack | 325851 | [325851-cuties-hacked-dakota-photo-pack.json](./325851-cuties-hacked-dakota-photo-pack.json) |
