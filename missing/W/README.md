@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War In Box | 59324 | [59324-war-in-box.json](./59324-war-in-box.json) |
 | War in Europe: 1940 | 201517 | [201517-war-in-europe-1940.json](./201517-war-in-europe-1940.json) |
 | War In Heaven | 216487 | [216487-war-in-heaven.json](./216487-war-in-heaven.json) |
+| War In Other Space | 188803 | [188803-war-in-other-space.json](./188803-war-in-other-space.json) |
 | War in Russia | 24916 | [24916-war-in-russia.json](./24916-war-in-russia.json) |
 | War in Space | 111010 | [111010-war-in-space.json](./111010-war-in-space.json) |
 | War in Spain 1936-39 | 388197 | [388197-war-in-spain-1936-39.json](./388197-war-in-spain-1936-39.json) |
@@ -4877,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will: The Beginning | 368050 | [368050-will-the-beginning.json](./368050-will-the-beginning.json) |
 | Will: The Death Trap II | 62606 | [62606-will-the-death-trap-ii.json](./62606-will-the-death-trap-ii.json) |
 | Will.exe | 260564 | [260564-will-exe.json](./260564-will-exe.json) |
+| Willage | 189314 | [189314-willage.json](./189314-willage.json) |
 | Willblade: King's Labyrinth | 413491 | [413491-willblade-kings-labyrinth.json](./413491-willblade-kings-labyrinth.json) |
 | Willful | 44190 | [44190-willful.json](./44190-willful.json) |
 | Willi's Haunted Hayride | 30654 | [30654-willis-haunted-hayride.json](./30654-willis-haunted-hayride.json) |
@@ -5445,6 +5447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winterstrike | 216008 | [216008-winterstrike.json](./216008-winterstrike.json) |
 | Wintertale | 371564 | [371564-wintertale.json](./371564-wintertale.json) |
 | WinterThunder | 224805 | [224805-winterthunder.json](./224805-winterthunder.json) |
+| Wintertwined | 189299 | [189299-wintertwined.json](./189299-wintertwined.json) |
 | Winthorp's Mansion | 213764 | [213764-winthorps-mansion.json](./213764-winthorps-mansion.json) |
 | WinTrek | 69859 | [69859-wintrek.json](./69859-wintrek.json) |
 | WinWheel | 83439 | [83439-winwheel.json](./83439-winwheel.json) |
