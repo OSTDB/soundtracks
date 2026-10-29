@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CardShark | 239741 | [239741-cardshark.json](./239741-cardshark.json) |
 | CardShark Hearts | 83479 | [83479-cardshark-hearts.json](./83479-cardshark-hearts.json) |
 | Cardsharp | 417445 | [417445-cardsharp.json](./417445-cardsharp.json) |
+| Cardstock | 188806 | [188806-cardstock.json](./188806-cardstock.json) |
 | Cardstronaut | 345058 | [345058-cardstronaut.json](./345058-cardstronaut.json) |
 | CardSurvival: Tropical Island | 233158 | [233158-cardsurvival-tropical-island.json](./233158-cardsurvival-tropical-island.json) |
 | Cardsweeper | 129459 | [129459-cardsweeper.json](./129459-cardsweeper.json) |
@@ -5736,6 +5737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chefs Arena | 392186 | [392186-chefs-arena.json](./392186-chefs-arena.json) |
 | Chefs Together | 284817 | [284817-chefs-together.json](./284817-chefs-together.json) |
 | ChefSquad | 176703 | [176703-chefsquad.json](./176703-chefsquad.json) |
+| Cheftastic: Buffet Blast | 188775 | [188775-cheftastic-buffet-blast.json](./188775-cheftastic-buffet-blast.json) |
 | ChefU | 55427 | [55427-chefu.json](./55427-chefu.json) |
 | Chefware | 376535 | [376535-chefware.json](./376535-chefware.json) |
 | Chefy-Chef | 192671 | [192671-chefy-chef.json](./192671-chefy-chef.json) |
@@ -5760,6 +5762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chemist Tycoon | 66959 | [66959-chemist-tycoon.json](./66959-chemist-tycoon.json) |
 | Chemist Wanted | 311211 | [311211-chemist-wanted.json](./311211-chemist-wanted.json) |
 | Chemistower | 342864 | [342864-chemistower.json](./342864-chemistower.json) |
+| Chemistris | 188797 | [188797-chemistris.json](./188797-chemistris.json) |
 | Chemistry World | 207333 | [207333-chemistry-world.json](./207333-chemistry-world.json) |
 | Chemists: Area of infection | 190896 | [190896-chemists-area-of-infection.json](./190896-chemists-area-of-infection.json) |
 | Cheney Wood the Ultimate Revenge | 111499 | [111499-cheney-wood-the-ultimate-revenge.json](./111499-cheney-wood-the-ultimate-revenge.json) |
@@ -13484,6 +13487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Bottle Shooter: Pro Aim Master Target Bottle Shoot 3D Game Strike Pistol | 231278 | [231278-counter-bottle-shooter-pro-aim-master-target-bottle-shoot-3d-game-strike-pistol.json](./231278-counter-bottle-shooter-pro-aim-master-target-bottle-shoot-3d-game-strike-pistol.json) |
 | Counter Bunny Hop | 212620 | [212620-counter-bunny-hop.json](./212620-counter-bunny-hop.json) |
 | Counter Call: Half Escape Shooter | 403737 | [403737-counter-call-half-escape-shooter.json](./403737-counter-call-half-escape-shooter.json) |
+| Counter Chaos | 188811 | [188811-counter-chaos.json](./188811-counter-chaos.json) |
 | Counter Clash | 290852 | [290852-counter-clash.json](./290852-counter-clash.json) |
 | Counter Crossline: Crime War | 219304 | [219304-counter-crossline-crime-war.json](./219304-counter-crossline-crime-war.json) |
 | Counter Delta 2: Eastern Crisis | 259574 | [259574-counter-delta-2-eastern-crisis.json](./259574-counter-delta-2-eastern-crisis.json) |
