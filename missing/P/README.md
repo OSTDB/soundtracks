@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack 5 Flying Games | 131181 | [131181-pack-5-flying-games.json](./131181-pack-5-flying-games.json) |
 | Pack 5 Puzzle Games | 100021 | [100021-pack-5-puzzle-games.json](./100021-pack-5-puzzle-games.json) |
 | Pack 5 Racing Games | 85944 | [85944-pack-5-racing-games.json](./85944-pack-5-racing-games.json) |
+| Pack a Block | 182642 | [182642-pack-a-block.json](./182642-pack-a-block.json) |
 | Pack A Plush! | 422163 | [422163-pack-a-plush.json](./422163-pack-a-plush.json) |
 | Pack A Truck | 54729 | [54729-pack-a-truck.json](./54729-pack-a-truck.json) |
 | Pack and Ship: Warehouse Simulator | 389963 | [389963-pack-and-ship-warehouse-simulator.json](./389963-pack-and-ship-warehouse-simulator.json) |
@@ -6448,6 +6449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Island | 150929 | [150929-pink-island.json](./150929-pink-island.json) |
 | Pink Light | 412897 | [412897-pink-light.json](./412897-pink-light.json) |
 | Pink Marmalade | 184627 | [184627-pink-marmalade.json](./184627-pink-marmalade.json) |
+| Pink Marmalade 2 | 182652 | [182652-pink-marmalade-2.json](./182652-pink-marmalade-2.json) |
 | Pink Noise | 297975 | [297975-pink-noise.json](./297975-pink-noise.json) |
 | Pink Panther | 219014 | [219014-pink-panther.json](./219014-pink-panther.json) |
 | Pink Panther: Pinkadelic Pursuit | 140700 | [140700-pink-panther-pinkadelic-pursuit.json](./140700-pink-panther-pinkadelic-pursuit.json) |
