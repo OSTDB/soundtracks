@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2: VR Mod | 28827 | [28827-half-life-2-vr-mod.json](./28827-half-life-2-vr-mod.json) |
 | Half-Life 2: VR Mod - Episode One | 243118 | [243118-half-life-2-vr-mod-episode-one.json](./243118-half-life-2-vr-mod-episode-one.json) |
 | Half-Life 2: VR Mod - Episode Two | 243119 | [243119-half-life-2-vr-mod-episode-two.json](./243119-half-life-2-vr-mod-episode-two.json) |
+| Half-Life 2d: Block Mesa | 177694 | [177694-half-life-2d-block-mesa.json](./177694-half-life-2d-block-mesa.json) |
 | Half-Life 3 | 28029 | [28029-half-life-3.json](./28029-half-life-3.json) |
 | Half-Life Alyx NoVR | 255791 | [255791-half-life-alyx-novr.json](./255791-half-life-alyx-novr.json) |
 | Half-Life Deathmatch: Source | 19348 | [19348-half-life-deathmatch-source.json](./19348-half-life-deathmatch-source.json) |
@@ -4376,6 +4377,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Elf | 296686 | [296686-hentai-elf.json](./296686-hentai-elf.json) |
 | Hentai Elizabeth | 340432 | [340432-hentai-elizabeth.json](./340432-hentai-elizabeth.json) |
 | Hentai Emiko | 340433 | [340433-hentai-emiko.json](./340433-hentai-emiko.json) |
+| Hentai Energy | 177680 | [177680-hentai-energy.json](./177680-hentai-energy.json) |
+| Hentai Energy II | 177681 | [177681-hentai-energy-ii.json](./177681-hentai-energy-ii.json) |
 | Hentai Energy: Halloween | 335819 | [335819-hentai-energy-halloween.json](./335819-hentai-energy-halloween.json) |
 | Hentai EroCum | 235891 | [235891-hentai-erocum.json](./235891-hentai-erocum.json) |
 | Hentai EroElf | 233091 | [233091-hentai-eroelf.json](./233091-hentai-eroelf.json) |
@@ -4389,6 +4392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Fantasy World | 365426 | [365426-hentai-fantasy-world.json](./365426-hentai-fantasy-world.json) |
 | Hentai Femdom Sim: Femdom University | 159772 | [159772-hentai-femdom-sim-femdom-university.json](./159772-hentai-femdom-sim-femdom-university.json) |
 | Hentai Festival | 240616 | [240616-hentai-festival.json](./240616-hentai-festival.json) |
+| Hentai Fetish Tycoon | 177707 | [177707-hentai-fetish-tycoon.json](./177707-hentai-fetish-tycoon.json) |
 | Hentai Fetishes: Yuri | 379548 | [379548-hentai-fetishes-yuri.json](./379548-hentai-fetishes-yuri.json) |
 | Hentai Fight Club | 163011 | [163011-hentai-fight-club.json](./163011-hentai-fight-club.json) |
 | Hentai Foot Fetish | 404940 | [404940-hentai-foot-fetish.json](./404940-hentai-foot-fetish.json) |
@@ -7115,6 +7119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hinatazaka46 to Fushigi na Toshoshitsu | 223967 | [223967-hinatazaka46-to-fushigi-na-toshoshitsu.json](./223967-hinatazaka46-to-fushigi-na-toshoshitsu.json) |
 | Hind Strike | 42215 | [42215-hind-strike.json](./42215-hind-strike.json) |
 | HIND: The Russian Combat Helicopter Simulation | 747 | [747-hind-the-russian-combat-helicopter-simulation.json](./747-hind-the-russian-combat-helicopter-simulation.json) |
+| Hindrance | 177720 | [177720-hindrance.json](./177720-hindrance.json) |
 | Hindsight 20/20 | 117940 | [117940-hindsight-20-20.json](./117940-hindsight-20-20.json) |
 | Hinedere Beat | 107368 | [107368-hinedere-beat.json](./107368-hinedere-beat.json) |
 | Hinekuremono no Gakuen Seishun Monogatari: Ore to Kanojo no Reversible | 194557 | [194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json](./194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json) |
@@ -8006,6 +8011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holotyping | 210245 | [210245-holotyping.json](./210245-holotyping.json) |
 | Holotz's Castle | 62145 | [62145-holotzs-castle.json](./62145-holotzs-castle.json) |
 | HoloVista | 139237 | [139237-holovista.json](./139237-holovista.json) |
+| Holoware | 177687 | [177687-holoware.json](./177687-holoware.json) |
 | Holstin | 229035 | [229035-holstin.json](./229035-holstin.json) |
 | Holt | 158596 | [158596-holt.json](./158596-holt.json) |
 | Holua's Arcades | 261680 | [261680-holuas-arcades.json](./261680-holuas-arcades.json) |
@@ -10797,6 +10803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurry Up! | 167518 | [167518-hurry-up.json](./167518-hurry-up.json) |
 | Hurt | 144157 | [144157-hurt.json](./144157-hurt.json) |
 | Hurt Me Plenty | 20248 | [20248-hurt-me-plenty.json](./20248-hurt-me-plenty.json) |
+| Hurtful Tower | 178223 | [178223-hurtful-tower.json](./178223-hurtful-tower.json) |
 | Huru Beach Party | 24769 | [24769-huru-beach-party.json](./24769-huru-beach-party.json) |
 | Hush | 34988 | [34988-hush.json](./34988-hush.json) |
 | Hush | 95475 | [95475-hush.json](./95475-hush.json) |
