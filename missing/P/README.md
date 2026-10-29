@@ -2642,6 +2642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path Out | 74116 | [74116-path-out.json](./74116-path-out.json) |
 | Path to Christmas | 221279 | [221279-path-to-christmas.json](./221279-path-to-christmas.json) |
 | Path to Etinway | 161405 | [161405-path-to-etinway.json](./161405-path-to-etinway.json) |
+| Path to Gaea | 189324 | [189324-path-to-gaea.json](./189324-path-to-gaea.json) |
 | Path to Light | 150280 | [150280-path-to-light.json](./150280-path-to-light.json) |
 | Path to Magehood | 286941 | [286941-path-to-magehood.json](./286941-path-to-magehood.json) |
 | Path to Mnemosyne | 68450 | [68450-path-to-mnemosyne.json](./68450-path-to-mnemosyne.json) |
@@ -11984,6 +11985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Punch | 385368 | [385368-power-punch.json](./385368-power-punch.json) |
 | Power Punch | 50704 | [50704-power-punch.json](./50704-power-punch.json) |
 | Power Punch II | 48222 | [48222-power-punch-ii.json](./48222-power-punch-ii.json) |
+| Power Pushout | 189336 | [189336-power-pushout.json](./189336-power-pushout.json) |
 | Power Pyramids | 68459 | [68459-power-pyramids.json](./68459-power-pyramids.json) |
 | Power Quest Survivors | 295558 | [295558-power-quest-survivors.json](./295558-power-quest-survivors.json) |
 | Power Racing Bundle | 147786 | [147786-power-racing-bundle.json](./147786-power-racing-bundle.json) |
@@ -15627,6 +15629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Hold'em | 17840 | [17840-pure-holdem.json](./17840-pure-holdem.json) |
 | Pure Hold'em: Full House Poker Bundle | 90984 | [90984-pure-holdem-full-house-poker-bundle.json](./90984-pure-holdem-full-house-poker-bundle.json) |
 | Pure Idle | 398297 | [398297-pure-idle.json](./398297-pure-idle.json) |
+| Pure Logic | 189303 | [189303-pure-logic.json](./189303-pure-logic.json) |
 | Pure Love | 368048 | [368048-pure-love.json](./368048-pure-love.json) |
 | Pure Mahjong | 119518 | [119518-pure-mahjong.json](./119518-pure-mahjong.json) |
 | Pure Metal: Feature 1 | 169288 | [169288-pure-metal-feature-1.json](./169288-pure-metal-feature-1.json) |
