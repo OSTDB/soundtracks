@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 11: Senbazuru | 222175 | [222175-g-mode-archives-11-senbazuru.json](./222175-g-mode-archives-11-senbazuru.json) |
 | G-Mode Archives 12: Night Hike | 222174 | [222174-g-mode-archives-12-night-hike.json](./222174-g-mode-archives-12-night-hike.json) |
 | G-Mode Archives 13: Rinji Shuuden | 288717 | [288717-g-mode-archives-13-rinji-shuuden.json](./288717-g-mode-archives-13-rinji-shuuden.json) |
+| G-Mode Archives 14: Mystia | 222086 | [222086-g-mode-archives-14-mystia.json](./222086-g-mode-archives-14-mystia.json) |
 | G-Mode Archives 15: Chura-jima Kurashi | 163238 | [163238-g-mode-archives-15-chura-jima-kurashi.json](./163238-g-mode-archives-15-chura-jima-kurashi.json) |
 | G-Mode Archives 16: Beach Volleyball Girl Shizuku 2: Hishou-hen | 222173 | [222173-g-mode-archives-16-beach-volleyball-girl-shizuku-2-hishou-hen.json](./222173-g-mode-archives-16-beach-volleyball-girl-shizuku-2-hishou-hen.json) |
 | G-Mode Archives 17: Flyhight Cloudia III | 170501 | [170501-g-mode-archives-17-flyhight-cloudia-iii.json](./170501-g-mode-archives-17-flyhight-cloudia-iii.json) |
@@ -53,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 21: Unou Paradise | 222170 | [222170-g-mode-archives-21-unou-paradise.json](./222170-g-mode-archives-21-unou-paradise.json) |
 | G-Mode Archives 22: Heracles no Eikou III - Kamigami no Chinmoku | 222169 | [222169-g-mode-archives-22-heracles-no-eikou-iii-kamigami-no-chinmoku.json](./222169-g-mode-archives-22-heracles-no-eikou-iii-kamigami-no-chinmoku.json) |
 | G-Mode Archives 23: Keitai Shoujo | 222168 | [222168-g-mode-archives-23-keitai-shoujo.json](./222168-g-mode-archives-23-keitai-shoujo.json) |
+| G-Mode Archives 24: Sangokushi Nendaiki DX | 222084 | [222084-g-mode-archives-24-sangokushi-nendaiki-dx.json](./222084-g-mode-archives-24-sangokushi-nendaiki-dx.json) |
 | G-Mode Archives 26: Ore no Sentai Oranger | 222167 | [222167-g-mode-archives-26-ore-no-sentai-oranger.json](./222167-g-mode-archives-26-ore-no-sentai-oranger.json) |
 | G-Mode Archives 27: Ninja no Gakko | 222166 | [222166-g-mode-archives-27-ninja-no-gakko.json](./222166-g-mode-archives-27-ninja-no-gakko.json) |
 | G-Mode Archives 28: Sepas Channel | 222165 | [222165-g-mode-archives-28-sepas-channel.json](./222165-g-mode-archives-28-sepas-channel.json) |
@@ -1146,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Dice | 58898 | [58898-game-of-dice.json](./58898-game-of-dice.json) |
 | Game of Dragons | 218973 | [218973-game-of-dragons.json](./218973-game-of-dragons.json) |
 | Game of Dragons | 43179 | [43179-game-of-dragons.json](./43179-game-of-dragons.json) |
+| Game of Dragons: Deluxe Edition | 222100 | [222100-game-of-dragons-deluxe-edition.json](./222100-game-of-dragons-deluxe-edition.json) |
 | Game of Earth: Build Your City | 243073 | [243073-game-of-earth-build-your-city.json](./243073-game-of-earth-build-your-city.json) |
 | Game of Emperors | 47166 | [47166-game-of-emperors.json](./47166-game-of-emperors.json) |
 | Game of Empires: Warring Realms | 230294 | [230294-game-of-empires-warring-realms.json](./230294-game-of-empires-warring-realms.json) |
@@ -9326,6 +9329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Gladiator | 287749 | [287749-gun-gladiator.json](./287749-gun-gladiator.json) |
 | Gun Godz | 31439 | [31439-gun-godz.json](./31439-gun-godz.json) |
 | Gun Gun Pixies | 27281 | [27281-gun-gun-pixies.json](./27281-gun-gun-pixies.json) |
+| Gun Gun Pixies H H | 222105 | [222105-gun-gun-pixies-h-h.json](./222105-gun-gun-pixies-h-h.json) |
 | Gun Head Shot | 231935 | [231935-gun-head-shot.json](./231935-gun-head-shot.json) |
 | Gun in 60 Seconds Remix | 339319 | [339319-gun-in-60-seconds-remix.json](./339319-gun-in-60-seconds-remix.json) |
 | Gun King | 230936 | [230936-gun-king.json](./230936-gun-king.json) |
