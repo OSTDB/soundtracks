@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Down, Stalin | 32011 | [32011-calm-down-stalin.json](./32011-calm-down-stalin.json) |
 | Calm Down, Stalin VR | 286535 | [286535-calm-down-stalin-vr.json](./286535-calm-down-stalin-vr.json) |
 | Calm Down, Stalin: The First Person | 161351 | [161351-calm-down-stalin-the-first-person.json](./161351-calm-down-stalin-the-first-person.json) |
+| Calm Down, Will | 186471 | [186471-calm-down-will.json](./186471-calm-down-will.json) |
 | Calm Falls 2 | 241233 | [241233-calm-falls-2.json](./241233-calm-falls-2.json) |
 | Calm Forest | 185135 | [185135-calm-forest.json](./185135-calm-forest.json) |
 | Calm Girls | 158581 | [158581-calm-girls.json](./158581-calm-girls.json) |
@@ -2952,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castanea | 387733 | [387733-castanea.json](./387733-castanea.json) |
 | Castaside | 348270 | [348270-castaside.json](./348270-castaside.json) |
 | Castaway | 176756 | [176756-castaway.json](./176756-castaway.json) |
+| Castaway | 187063 | [187063-castaway.json](./187063-castaway.json) |
 | Castaway | 295314 | [295314-castaway.json](./295314-castaway.json) |
 | Castaway | 410092 | [410092-castaway.json](./410092-castaway.json) |
 | Castaway Coconuts | 307916 | [307916-castaway-coconuts.json](./307916-castaway-coconuts.json) |
@@ -7753,6 +7755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circadian Dice | 148873 | [148873-circadian-dice.json](./148873-circadian-dice.json) |
 | CircL | 185080 | [185080-circl.json](./185080-circl.json) |
 | Circle | 129066 | [129066-circle.json](./129066-circle.json) |
+| Circle | 186428 | [186428-circle.json](./186428-circle.json) |
 | Circle | 289387 | [289387-circle.json](./289387-circle.json) |
 | Circle | 320435 | [320435-circle.json](./320435-circle.json) |
 | Circle = Circle | 293853 | [293853-circle-circle.json](./293853-circle-circle.json) |
@@ -7840,6 +7843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circulets | 39184 | [39184-circulets.json](./39184-circulets.json) |
 | Circulets: the game for families, friends and parties | 41503 | [41503-circulets-the-game-for-families-friends-and-parties.json](./41503-circulets-the-game-for-families-friends-and-parties.json) |
 | Circumference Encompass | 306955 | [306955-circumference-encompass.json](./306955-circumference-encompass.json) |
+| Circuroid | 186448 | [186448-circuroid.json](./186448-circuroid.json) |
 | Circus | 12944 | [12944-circus.json](./12944-circus.json) |
 | Circus | 206349 | [206349-circus.json](./206349-circus.json) |
 | Circus | 24690 | [24690-circus.json](./24690-circus.json) |
@@ -8688,6 +8692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classmates | 249614 | [249614-classmates.json](./249614-classmates.json) |
 | Classroom 0 | 377960 | [377960-classroom-0.json](./377960-classroom-0.json) |
 | Classroom 3B | 423252 | [423252-classroom-3b.json](./423252-classroom-3b.json) |
+| Classroom Battle! | 186431 | [186431-classroom-battle.json](./186431-classroom-battle.json) |
 | Classroom Mystery Secrets Behind the Lessons | 420681 | [420681-classroom-mystery-secrets-behind-the-lessons.json](./420681-classroom-mystery-secrets-behind-the-lessons.json) |
 | Classroom of the Elite: Merge Puzzle Special Exam | 350524 | [350524-classroom-of-the-elite-merge-puzzle-special-exam.json](./350524-classroom-of-the-elite-merge-puzzle-special-exam.json) |
 | Classy Train | 213021 | [213021-classy-train.json](./213021-classy-train.json) |
@@ -10529,6 +10534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Security | 151453 | [151453-color-security.json](./151453-color-security.json) |
 | Color Sense Challenge | 268593 | [268593-color-sense-challenge.json](./268593-color-sense-challenge.json) |
 | Color Shape | 109528 | [109528-color-shape.json](./109528-color-shape.json) |
+| Color Shapes Match | 186432 | [186432-color-shapes-match.json](./186432-color-shapes-match.json) |
 | Color Sheep | 63683 | [63683-color-sheep.json](./63683-color-sheep.json) |
 | Color Shooter | 290094 | [290094-color-shooter.json](./290094-color-shooter.json) |
 | Color Slayer | 121012 | [121012-color-slayer.json](./121012-color-slayer.json) |
@@ -11929,6 +11935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror's Blade: Season VIII - Dynasty | 158110 | [158110-conquerors-blade-season-viii-dynasty.json](./158110-conquerors-blade-season-viii-dynasty.json) |
 | Conqueror's Blade: Season X - Highlanders | 185949 | [185949-conquerors-blade-season-x-highlanders.json](./185949-conquerors-blade-season-x-highlanders.json) |
 | Conqueror's Blade: Three Kingdoms | 411543 | [411543-conquerors-blade-three-kingdoms.json](./411543-conquerors-blade-three-kingdoms.json) |
+| Conquest | 186436 | [186436-conquest.json](./186436-conquest.json) |
 | Conquest | 339778 | [339778-conquest.json](./339778-conquest.json) |
 | Conquest | 379715 | [379715-conquest.json](./379715-conquest.json) |
 | Conquest | 395858 | [395858-conquest.json](./395858-conquest.json) |
@@ -13169,6 +13176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Fear | 340029 | [340029-cosmic-fear.json](./340029-cosmic-fear.json) |
 | Cosmic Fire Birds | 60038 | [60038-cosmic-fire-birds.json](./60038-cosmic-fire-birds.json) |
 | Cosmic Flow: A Relaxing VR Experience | 133162 | [133162-cosmic-flow-a-relaxing-vr-experience.json](./133162-cosmic-flow-a-relaxing-vr-experience.json) |
+| Cosmic Frontline AR | 186433 | [186433-cosmic-frontline-ar.json](./186433-cosmic-frontline-ar.json) |
 | Cosmic Galaxy Wars | 396754 | [396754-cosmic-galaxy-wars.json](./396754-cosmic-galaxy-wars.json) |
 | Cosmic Gravity | 106755 | [106755-cosmic-gravity.json](./106755-cosmic-gravity.json) |
 | Cosmic Guardians | 330489 | [330489-cosmic-guardians.json](./330489-cosmic-guardians.json) |
@@ -17433,6 +17441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curses | 346510 | [346510-curses.json](./346510-curses.json) |
 | Curses | 92940 | [92940-curses.json](./92940-curses.json) |
 | Curses 'N Chaos | 16470 | [16470-curses-n-chaos.json](./16470-curses-n-chaos.json) |
+| Curses of Tarot | 186422 | [186422-curses-of-tarot.json](./186422-curses-of-tarot.json) |
 | Cursewarden | 348233 | [348233-cursewarden.json](./348233-cursewarden.json) |
 | Cursflip | 380630 | [380630-cursflip.json](./380630-cursflip.json) |
 | Cursifix | 376638 | [376638-cursifix.json](./376638-cursifix.json) |
