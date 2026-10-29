@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zball II | 149519 | [149519-zball-ii.json](./149519-zball-ii.json) |
 | Zball IV | 153316 | [153316-zball-iv.json](./153316-zball-iv.json) |
 | Zball VI | 158574 | [158574-zball-vi.json](./158574-zball-vi.json) |
+| ZBloody Hell | 195858 | [195858-zbloody-hell.json](./195858-zbloody-hell.json) |
 | Zbuki Zoo Strategic Comedy | 265259 | [265259-zbuki-zoo-strategic-comedy.json](./265259-zbuki-zoo-strategic-comedy.json) |
 | ZCrew | 141739 | [141739-zcrew.json](./141739-zcrew.json) |
 | Zcrew: The Void Realm | 246757 | [246757-zcrew-the-void-realm.json](./246757-zcrew-the-void-realm.json) |
@@ -910,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZeroZap | 108892 | [108892-zerozap.json](./108892-zerozap.json) |
 | ZeroZeta | 361761 | [361761-zerozeta.json](./361761-zerozeta.json) |
 | Zerra's Adventure | 297757 | [297757-zerras-adventure.json](./297757-zerras-adventure.json) |
+| Zerstorer | 195864 | [195864-zerstorer.json](./195864-zerstorer.json) |
 | Zerstört Zerstört | 128582 | [128582-zerstort-zerstort.json](./128582-zerstort-zerstort.json) |
 | ZEscape | 103502 | [103502-zescape.json](./103502-zescape.json) |
 | Zest & Goop | 183512 | [183512-zest-and-goop.json](./183512-zest-and-goop.json) |
@@ -2125,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zotrix Starglider | 147263 | [147263-zotrix-starglider.json](./147263-zotrix-starglider.json) |
 | Zotto suru Kowai Toshi Densetsu | 252406 | [252406-zotto-suru-kowai-toshi-densetsu.json](./252406-zotto-suru-kowai-toshi-densetsu.json) |
 | Zoul Dungeon | 316677 | [316677-zoul-dungeon.json](./316677-zoul-dungeon.json) |
+| Zovid-19 Remake | 195905 | [195905-zovid-19-remake.json](./195905-zovid-19-remake.json) |
 | ZOZ: Final Hour | 204210 | [204210-zoz-final-hour.json](./204210-zoz-final-hour.json) |
 | Zozo and the Lost Dreams | 369087 | [369087-zozo-and-the-lost-dreams.json](./369087-zozo-and-the-lost-dreams.json) |
 | Zozo's Show | 337749 | [337749-zozos-show.json](./337749-zozos-show.json) |
