@@ -1166,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Gods | 336588 | [336588-game-of-gods.json](./336588-game-of-gods.json) |
 | Game of Hearts | 348766 | [348766-game-of-hearts.json](./348766-game-of-hearts.json) |
 | Game of Hearts | 352258 | [352258-game-of-hearts.json](./352258-game-of-hearts.json) |
+| Game of Khans | 188243 | [188243-game-of-khans.json](./188243-game-of-khans.json) |
 | Game of Legends: Rise of Champions | 194023 | [194023-game-of-legends-rise-of-champions.json](./194023-game-of-legends-rise-of-champions.json) |
 | Game of Life | 76506 | [76506-game-of-life.json](./76506-game-of-life.json) |
 | Game of Life Kuzushi | 366434 | [366434-game-of-life-kuzushi.json](./366434-game-of-life-kuzushi.json) |
@@ -5906,6 +5907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Royale | 147140 | [147140-golf-royale.json](./147140-golf-royale.json) |
 | Golf Shiyou yo 2: Aratanaru Chousen | 317349 | [317349-golf-shiyou-yo-2-aratanaru-chousen.json](./317349-golf-shiyou-yo-2-aratanaru-chousen.json) |
 | Golf Shiyouyo | 113530 | [113530-golf-shiyouyo.json](./113530-golf-shiyouyo.json) |
+| Golf Skies | 188258 | [188258-golf-skies.json](./188258-golf-skies.json) |
 | Golf Solitaire | 366432 | [366432-golf-solitaire.json](./366432-golf-solitaire.json) |
 | Golf Solitaire Pro | 88299 | [88299-golf-solitaire-pro.json](./88299-golf-solitaire-pro.json) |
 | Golf Solitaire Simple | 186246 | [186246-golf-solitaire-simple.json](./186246-golf-solitaire-simple.json) |
