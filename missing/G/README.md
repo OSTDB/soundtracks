@@ -3139,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get to the Gate | 235692 | [235692-get-to-the-gate.json](./235692-get-to-the-gate.json) |
 | Get to the Top 2: Breakthrough Gaming Arcade | 200726 | [200726-get-to-the-top-2-breakthrough-gaming-arcade.json](./200726-get-to-the-top-2-breakthrough-gaming-arcade.json) |
 | Get to the Top Although There Is No Top!! | 286572 | [286572-get-to-the-top-although-there-is-no-top.json](./286572-get-to-the-top-although-there-is-no-top.json) |
+| Get to the Top: Breakthrough Gaming Arcade | 187679 | [187679-get-to-the-top-breakthrough-gaming-arcade.json](./187679-get-to-the-top-breakthrough-gaming-arcade.json) |
 | Get to Work, Succubus-Chan! | 169356 | [169356-get-to-work-succubus-chan.json](./169356-get-to-work-succubus-chan.json) |
 | Get Together | 144126 | [144126-get-together.json](./144126-get-together.json) |
 | Get Up and Dance | 23396 | [23396-get-up-and-dance.json](./23396-get-up-and-dance.json) |
