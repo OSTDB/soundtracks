@@ -4104,6 +4104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Mahjong | 52376 | [52376-age-of-mahjong.json](./52376-age-of-mahjong.json) |
 | Age of Mechs | 365778 | [365778-age-of-mechs.json](./365778-age-of-mechs.json) |
 | Age of Memology | 392819 | [392819-age-of-memology.json](./392819-age-of-memology.json) |
+| Age of Might | 194136 | [194136-age-of-might.json](./194136-age-of-might.json) |
 | Age of Mythology: Extended Edition | 9902 | [9902-age-of-mythology-extended-edition.json](./9902-age-of-mythology-extended-edition.json) |
 | Age of Mythology: Gold Edition | 129851 | [129851-age-of-mythology-gold-edition.json](./129851-age-of-mythology-gold-edition.json) |
 | Age of Mythology: Retold - Heavenly Spear | 348197 | [348197-age-of-mythology-retold-heavenly-spear.json](./348197-age-of-mythology-retold-heavenly-spear.json) |
@@ -4188,6 +4189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ageless Machine: Cup of Tea | 180716 | [180716-ageless-machine-cup-of-tea.json](./180716-ageless-machine-cup-of-tea.json) |
 | Agence | 135115 | [135115-agence.json](./135115-agence.json) |
 | Agency 13 | 357800 | [357800-agency-13.json](./357800-agency-13.json) |
+| Agency of Heroes | 194133 | [194133-agency-of-heroes.json](./194133-agency-of-heroes.json) |
 | Agency: The Deckbuilding Card Game | 182775 | [182775-agency-the-deckbuilding-card-game.json](./182775-agency-the-deckbuilding-card-game.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agenda 21 | 219973 | [219973-agenda-21.json](./219973-agenda-21.json) |
@@ -11861,6 +11863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ares Fighter 3 | 265809 | [265809-ares-fighter-3.json](./265809-ares-fighter-3.json) |
 | Ares Omega | 34382 | [34382-ares-omega.json](./34382-ares-omega.json) |
 | ARES: Automated Relay System | 400051 | [400051-ares-automated-relay-system.json](./400051-ares-automated-relay-system.json) |
+| Ares: Rise of Guardians | 194108 | [194108-ares-rise-of-guardians.json](./194108-ares-rise-of-guardians.json) |
 | Ares: The Iron Vanguard | 418196 | [418196-ares-the-iron-vanguard.json](./418196-ares-the-iron-vanguard.json) |
 | Aresda | 385422 | [385422-aresda.json](./385422-aresda.json) |
 | Aretha | 222820 | [222820-aretha.json](./222820-aretha.json) |
