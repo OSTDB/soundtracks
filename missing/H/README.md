@@ -1553,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Här Kommer Pippi Långstrump | 337184 | [337184-har-kommer-pippi-langstrump.json](./337184-har-kommer-pippi-langstrump.json) |
 | Harakatsu 2 | 367026 | [367026-harakatsu-2.json](./367026-harakatsu-2.json) |
 | Harakiri | 232633 | [232633-harakiri.json](./232633-harakiri.json) |
+| Harakiri! Geisha Girls | 195377 | [195377-harakiri-geisha-girls.json](./195377-harakiri-geisha-girls.json) |
 | Harakuju Tantei Gakuen: Steel Wood | 58054 | [58054-harakuju-tantei-gakuen-steel-wood.json](./58054-harakuju-tantei-gakuen-steel-wood.json) |
 | Harald | 72347 | [72347-harald.json](./72347-harald.json) |
 | Haram | 228947 | [228947-haram.json](./228947-haram.json) |
