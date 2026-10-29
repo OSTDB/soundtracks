@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neeron: The Blade of Nature | 173005 | [173005-neeron-the-blade-of-nature.json](./173005-neeron-the-blade-of-nature.json) |
 | Neet | 207687 | [207687-neet.json](./207687-neet.json) |
 | Neet & Fairy | 97664 | [97664-neet-and-fairy.json](./97664-neet-and-fairy.json) |
+| NEET Girl Date Night | 222609 | [222609-neet-girl-date-night.json](./222609-neet-girl-date-night.json) |
 | Neet Girl Rehabilitation Plan: Guutara-ko Saisei Kikaku | 285354 | [285354-neet-girl-rehabilitation-plan-guutara-ko-saisei-kikaku.json](./285354-neet-girl-rehabilitation-plan-guutara-ko-saisei-kikaku.json) |
 | NEET Nectar's Abysmally Small Assortment | 341363 | [341363-neet-nectars-abysmally-small-assortment.json](./341363-neet-nectars-abysmally-small-assortment.json) |
 | NEET Simulator | 113768 | [113768-neet-simulator.json](./113768-neet-simulator.json) |
@@ -2344,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NEP League DS | 61403 | [61403-nep-league-ds.json](./61403-nep-league-ds.json) |
 | Nepenthe | 100600 | [100600-nepenthe.json](./100600-nepenthe.json) |
 | Nephelem: A Path of Vice and Virtue | 342653 | [342653-nephelem-a-path-of-vice-and-virtue.json](./342653-nephelem-a-path-of-vice-and-virtue.json) |
+| Nepheshel | 222604 | [222604-nepheshel.json](./222604-nepheshel.json) |
 | Nephi's Quest | 71937 | [71937-nephis-quest.json](./71937-nephis-quest.json) |
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
 | Nephilim | 341365 | [341365-nephilim.json](./341365-nephilim.json) |
@@ -5799,7 +5801,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nords and Fjords | 181123 | [181123-nords-and-fjords.json](./181123-nords-and-fjords.json) |
 | Nords: Heroes of the North | 23655 | [23655-nords-heroes-of-the-north.json](./23655-nords-heroes-of-the-north.json) |
 | Nordstrums Treasure | 240682 | [240682-nordstrums-treasure.json](./240682-nordstrums-treasure.json) |
+| NoReason's Speedmaps | 222622 | [222622-noreasons-speedmaps.json](./222622-noreasons-speedmaps.json) |
 | NoReason's Speedmaps 2 | 221850 | [221850-noreasons-speedmaps-2.json](./221850-noreasons-speedmaps-2.json) |
+| NoReason's Speedmaps 3 | 222620 | [222620-noreasons-speedmaps-3.json](./222620-noreasons-speedmaps-3.json) |
 | Noren | 158583 | [158583-noren.json](./158583-noren.json) |
 | Noreya: The Gold Project | 211738 | [211738-noreya-the-gold-project.json](./211738-noreya-the-gold-project.json) |
 | Norfolk Warriors | 116127 | [116127-norfolk-warriors.json](./116127-norfolk-warriors.json) |
