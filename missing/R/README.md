@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R20 Moe Bomberman | 198066 | [198066-r20-moe-bomberman.json](./198066-r20-moe-bomberman.json) |
 | R2Beat | 108993 | [108993-r2beat.json](./108993-r2beat.json) |
 | R2D Tank | 40394 | [40394-r2d-tank.json](./40394-r2d-tank.json) |
+| R2dz | 184213 | [184213-r2dz.json](./184213-r2dz.json) |
 | R2R: Rewire to Revolt | 338333 | [338333-r2r-rewire-to-revolt.json](./338333-r2r-rewire-to-revolt.json) |
 | R3: The Art of Rocketry | 231834 | [231834-r3-the-art-of-rocketry.json](./231834-r3-the-art-of-rocketry.json) |
 | R3wind | 183395 | [183395-r3wind.json](./183395-r3wind.json) |
@@ -1711,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranocta | 292239 | [292239-ranocta.json](./292239-ranocta.json) |
 | Ranphon | 258623 | [258623-ranphon.json](./258623-ranphon.json) |
 | Ransack Raccoon | 165766 | [165766-ransack-raccoon.json](./165766-ransack-raccoon.json) |
+| Ransacked | 184215 | [184215-ransacked.json](./184215-ransacked.json) |
 | Ransomware Dating Sim | 124221 | [124221-ransomware-dating-sim.json](./124221-ransomware-dating-sim.json) |
 | Rantou Proresu | 83211 | [83211-rantou-proresu.json](./83211-rantou-proresu.json) |
 | Ranveer vs. Wild With Bear Grylls | 256869 | [256869-ranveer-vs-wild-with-bear-grylls.json](./256869-ranveer-vs-wild-with-bear-grylls.json) |
@@ -11050,6 +11052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runes of Aereal | 257944 | [257944-runes-of-aereal.json](./257944-runes-of-aereal.json) |
 | Runes of Avalon | 25538 | [25538-runes-of-avalon.json](./25538-runes-of-avalon.json) |
 | Runes of Brennos | 17977 | [17977-runes-of-brennos.json](./17977-runes-of-brennos.json) |
+| Runes of Chaos | 184177 | [184177-runes-of-chaos.json](./184177-runes-of-chaos.json) |
 | Runes of Dragon | 193957 | [193957-runes-of-dragon.json](./193957-runes-of-dragon.json) |
 | Runes of Legend | 326617 | [326617-runes-of-legend.json](./326617-runes-of-legend.json) |
 | Runes of Magic: Dragon Adventure Pack | 169974 | [169974-runes-of-magic-dragon-adventure-pack.json](./169974-runes-of-magic-dragon-adventure-pack.json) |
