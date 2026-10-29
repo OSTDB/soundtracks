@@ -16213,6 +16213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Solver | 133338 | [133338-dungeon-solver.json](./133338-dungeon-solver.json) |
 | Dungeon Squad | 225764 | [225764-dungeon-squad.json](./225764-dungeon-squad.json) |
 | Dungeon Square | 197739 | [197739-dungeon-square.json](./197739-dungeon-square.json) |
+| Dungeon Squeaker | 180426 | [180426-dungeon-squeaker.json](./180426-dungeon-squeaker.json) |
 | Dungeon Squire | 357188 | [357188-dungeon-squire.json](./357188-dungeon-squire.json) |
 | Dungeon Stalkers | 255912 | [255912-dungeon-stalkers.json](./255912-dungeon-stalkers.json) |
 | Dungeon Story | 62489 | [62489-dungeon-story.json](./62489-dungeon-story.json) |
