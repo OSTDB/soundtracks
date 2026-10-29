@@ -2325,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Rush | 105445 | [105445-gem-rush.json](./105445-gem-rush.json) |
 | Gem Setter | 176340 | [176340-gem-setter.json](./176340-gem-setter.json) |
 | Gem Shoot | 175344 | [175344-gem-shoot.json](./175344-gem-shoot.json) |
+| Gem Stack | 216036 | [216036-gem-stack.json](./216036-gem-stack.json) |
 | Gem Tower Defense 2 | 196510 | [196510-gem-tower-defense-2.json](./196510-gem-tower-defense-2.json) |
 | Gem Twyx | 88153 | [88153-gem-twyx.json](./88153-gem-twyx.json) |
 | Gem Venture | 217326 | [217326-gem-venture.json](./217326-gem-venture.json) |
@@ -3281,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Guns | 122175 | [122175-ghost-guns.json](./122175-ghost-guns.json) |
 | Ghost Hand | 264672 | [264672-ghost-hand.json](./264672-ghost-hand.json) |
 | Ghost Haunting | 360552 | [360552-ghost-haunting.json](./360552-ghost-haunting.json) |
+| Ghost Hide and Seek | 216037 | [216037-ghost-hide-and-seek.json](./216037-ghost-hide-and-seek.json) |
 | Ghost Hospital | 111741 | [111741-ghost-hospital.json](./111741-ghost-hospital.json) |
 | Ghost Hospital: In Thousand Horror Hill | 293143 | [293143-ghost-hospital-in-thousand-horror-hill.json](./293143-ghost-hospital-in-thousand-horror-hill.json) |
 | Ghost House | 179731 | [179731-ghost-house.json](./179731-ghost-house.json) |
@@ -6779,6 +6781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Ages: Rome | 8395 | [8395-grand-ages-rome.json](./8395-grand-ages-rome.json) |
 | Grand Ages: Rome - Gold Edition | 53071 | [53071-grand-ages-rome-gold-edition.json](./53071-grand-ages-rome-gold-edition.json) |
 | Grand Attrition | 173044 | [173044-grand-attrition.json](./173044-grand-attrition.json) |
+| Grand Auto Survival City Crime Gangster | 216016 | [216016-grand-auto-survival-city-crime-gangster.json](./216016-grand-auto-survival-city-crime-gangster.json) |
 | Grand Banda | 392727 | [392727-grand-banda.json](./392727-grand-banda.json) |
 | Grand Battle | 116043 | [116043-grand-battle.json](./116043-grand-battle.json) |
 | Grand Battle--MMO Strategy:War | 61712 | [61712-grand-battle-mmo-strategy-war.json](./61712-grand-battle-mmo-strategy-war.json) |
