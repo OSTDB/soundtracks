@@ -11242,6 +11242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Mart Survivors | 413122 | [413122-mini-mart-survivors.json](./413122-mini-mart-survivors.json) |
 | Mini Matches | 121597 | [121597-mini-matches.json](./121597-mini-matches.json) |
 | Mini Maze: Online | 298712 | [298712-mini-maze-online.json](./298712-mini-maze-online.json) |
+| Mini Mecum | 199228 | [199228-mini-mecum.json](./199228-mini-mecum.json) |
 | Mini Merchant | 333455 | [333455-mini-merchant.json](./333455-mini-merchant.json) |
 | Mini Micro Racing | 298386 | [298386-mini-micro-racing.json](./298386-mini-micro-racing.json) |
 | Mini Miners | 227683 | [227683-mini-miners.json](./227683-mini-miners.json) |
