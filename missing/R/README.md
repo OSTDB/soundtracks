@@ -3091,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebound Hockey | 232325 | [232325-rebound-hockey.json](./232325-rebound-hockey.json) |
 | Rebound Raver | 147363 | [147363-rebound-raver.json](./147363-rebound-raver.json) |
 | Rebound Rivals | 311120 | [311120-rebound-rivals.json](./311120-rebound-rivals.json) |
+| Rebound RPG | 177690 | [177690-rebound-rpg.json](./177690-rebound-rpg.json) |
 | Rebound Rush | 360617 | [360617-rebound-rush.json](./360617-rebound-rush.json) |
 | RebreatheR | 373203 | [373203-rebreather.json](./373203-rebreather.json) |
 | Rebuild | 100493 | [100493-rebuild.json](./100493-rebuild.json) |
@@ -4507,6 +4508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renai Karichaimashita: Koikari - Love For Hire - After Hours | 376587 | [376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json](./376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json) |
 | Renai Karichaimashita: Koikari - Love For Hire: Limited Edition | 335969 | [335969-renai-karichaimashita-koikari-love-for-hire-limited-edition.json](./335969-renai-karichaimashita-koikari-love-for-hire-limited-edition.json) |
 | Renai Kouhosei Starlight Scramble | 165537 | [165537-renai-kouhosei-starlight-scramble.json](./165537-renai-kouhosei-starlight-scramble.json) |
+| Renai Kouza Real Age | 178240 | [178240-renai-kouza-real-age.json](./178240-renai-kouza-real-age.json) |
 | Renai Revenge | 136762 | [136762-renai-revenge.json](./136762-renai-revenge.json) |
 | Renai X Royale: Love's a Battle | 216956 | [216956-renai-x-royale-loves-a-battle.json](./216956-renai-x-royale-loves-a-battle.json) |
 | Renai, Karichaimashita | 144892 | [144892-renai-karichaimashita.json](./144892-renai-karichaimashita.json) |
@@ -6305,6 +6307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle of the Sphinx: Moonlight Exploration | 169930 | [169930-riddle-of-the-sphinx-moonlight-exploration.json](./169930-riddle-of-the-sphinx-moonlight-exploration.json) |
 | Riddle School | 56438 | [56438-riddle-school.json](./56438-riddle-school.json) |
 | Riddle School 2: Legacy Edition | 180004 | [180004-riddle-school-2-legacy-edition.json](./180004-riddle-school-2-legacy-edition.json) |
+| Riddle School 3 | 178234 | [178234-riddle-school-3.json](./178234-riddle-school-3.json) |
 | Riddle School 3: Legacy Edition | 180006 | [180006-riddle-school-3-legacy-edition.json](./180006-riddle-school-3-legacy-edition.json) |
 | Riddle School 4: Legacy Edition | 180007 | [180007-riddle-school-4-legacy-edition.json](./180007-riddle-school-4-legacy-edition.json) |
 | Riddle School 5 | 180138 | [180138-riddle-school-5.json](./180138-riddle-school-5.json) |
@@ -11009,6 +11012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory 4 Special: Archival Edition | 136190 | [136190-rune-factory-4-special-archival-edition.json](./136190-rune-factory-4-special-archival-edition.json) |
 | Rune Factory 5 | 115279 | [115279-rune-factory-5.json](./115279-rune-factory-5.json) |
 | Rune Factory 5: Digital Deluxe Edition | 199842 | [199842-rune-factory-5-digital-deluxe-edition.json](./199842-rune-factory-5-digital-deluxe-edition.json) |
+| Rune Factory 5: Earthmate Edition | 178210 | [178210-rune-factory-5-earthmate-edition.json](./178210-rune-factory-5-earthmate-edition.json) |
 | Rune Factory 5: Premium Box Limited Edition | 148156 | [148156-rune-factory-5-premium-box-limited-edition.json](./148156-rune-factory-5-premium-box-limited-edition.json) |
 | Rune Factory 6 | 250924 | [250924-rune-factory-6.json](./250924-rune-factory-6.json) |
 | Rune Factory Frontier | 5132 | [5132-rune-factory-frontier.json](./5132-rune-factory-frontier.json) |
