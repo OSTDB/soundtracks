@@ -7211,6 +7211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Hentai Mosaic | 103789 | [103789-pixel-hentai-mosaic.json](./103789-pixel-hentai-mosaic.json) |
 | Pixel Heroes Adventure | 338660 | [338660-pixel-heroes-adventure.json](./338660-pixel-heroes-adventure.json) |
 | Pixel Heroes: Byte & Magic | 10699 | [10699-pixel-heroes-byte-and-magic.json](./10699-pixel-heroes-byte-and-magic.json) |
+| Pixel Heroes: Mega Byte & Magic | 178807 | [178807-pixel-heroes-mega-byte-and-magic.json](./178807-pixel-heroes-mega-byte-and-magic.json) |
 | Pixel Heroes: Tales of Emond | 294690 | [294690-pixel-heroes-tales-of-emond.json](./294690-pixel-heroes-tales-of-emond.json) |
 | Pixel Heros - Idle RPG | 58633 | [58633-pixel-heros-idle-rpg.json](./58633-pixel-heros-idle-rpg.json) |
 | Pixel Horizons | 341572 | [341572-pixel-horizons.json](./341572-pixel-horizons.json) |
@@ -7995,6 +7996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Placid Plastic Deck: A Quiet Quest | 320718 | [320718-placid-plastic-deck-a-quiet-quest.json](./320718-placid-plastic-deck-a-quiet-quest.json) |
 | Placid Plastic Duck Simulator: Quacking the Ice | 236904 | [236904-placid-plastic-duck-simulator-quacking-the-ice.json](./236904-placid-plastic-duck-simulator-quacking-the-ice.json) |
 | Placid Plastic Duck VR | 338550 | [338550-placid-plastic-duck-vr.json](./338550-placid-plastic-duck-vr.json) |
+| Placing Heroes: The Legend of Doomsday | 178816 | [178816-placing-heroes-the-legend-of-doomsday.json](./178816-placing-heroes-the-legend-of-doomsday.json) |
 | Plague | 185680 | [185680-plague.json](./185680-plague.json) |
 | Plague Alchemist | 368291 | [368291-plague-alchemist.json](./368291-plague-alchemist.json) |
 | Plague Attack the World | 258916 | [258916-plague-attack-the-world.json](./258916-plague-attack-the-world.json) |
@@ -11315,6 +11317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopCultured | 207225 | [207225-popcultured.json](./207225-popcultured.json) |
 | Pope Simulator | 133205 | [133205-pope-simulator.json](./133205-pope-simulator.json) |
 | Pope-ye | 321214 | [321214-pope-ye.json](./321214-pope-ye.json) |
+| Popeye | 178809 | [178809-popeye.json](./178809-popeye.json) |
 | Popeye | 229982 | [229982-popeye.json](./229982-popeye.json) |
 | Popeye | 232703 | [232703-popeye.json](./232703-popeye.json) |
 | Popeye | 266839 | [266839-popeye.json](./266839-popeye.json) |
