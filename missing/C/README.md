@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of FireWork | 274972 | [274972-call-of-firework.json](./274972-call-of-firework.json) |
 | Call of Fries | 116977 | [116977-call-of-fries.json](./116977-call-of-fries.json) |
 | Call of Glory: Critical Warfare & AirJet Fighter: Sky Assault Bundle Collection | 386563 | [386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json](./386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json) |
+| Call of Gruty WWII | 179861 | [179861-call-of-gruty-wwii.json](./179861-call-of-gruty-wwii.json) |
 | Call of Guns: FPS Multiplayer Online 3D Guns Game | 216017 | [216017-call-of-guns-fps-multiplayer-online-3d-guns-game.json](./216017-call-of-guns-fps-multiplayer-online-3d-guns-game.json) |
 | Call of Hentai Neko | 367511 | [367511-call-of-hentai-neko.json](./367511-call-of-hentai-neko.json) |
 | Call of Heroes | 194115 | [194115-call-of-heroes.json](./194115-call-of-heroes.json) |
@@ -9376,6 +9377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudside Lane | 391534 | [391534-cloudside-lane.json](./391534-cloudside-lane.json) |
 | Cloudsong | 377684 | [377684-cloudsong.json](./377684-cloudsong.json) |
 | Cloudspan | 364879 | [364879-cloudspan.json](./364879-cloudspan.json) |
+| Cloudspotting | 179851 | [179851-cloudspotting.json](./179851-cloudspotting.json) |
 | CloudStudy | 296358 | [296358-cloudstudy.json](./296358-cloudstudy.json) |
 | Cloudtop Chaos | 348858 | [348858-cloudtop-chaos.json](./348858-cloudtop-chaos.json) |
 | Cloudtrail Islands | 181601 | [181601-cloudtrail-islands.json](./181601-cloudtrail-islands.json) |
@@ -12688,6 +12690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool World | 307071 | [307071-cool-world.json](./307071-cool-world.json) |
 | Cool World | 307072 | [307072-cool-world.json](./307072-cool-world.json) |
 | Coolbit | 181004 | [181004-coolbit.json](./181004-coolbit.json) |
+| Cooldog Teaches Typing | 179850 | [179850-cooldog-teaches-typing.json](./179850-cooldog-teaches-typing.json) |
 | Cooldown | 293052 | [293052-cooldown.json](./293052-cooldown.json) |
 | Cooler Super Mario Bros. Land | 394347 | [394347-cooler-super-mario-bros-land.json](./394347-cooler-super-mario-bros-land.json) |
 | Coolmath Games: The Game | 234707 | [234707-coolmath-games-the-game.json](./234707-coolmath-games-the-game.json) |
@@ -13005,6 +13008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpsefall | 167547 | [167547-corpsefall.json](./167547-corpsefall.json) |
 | Corpsênia | 190745 | [190745-corpsenia.json](./190745-corpsenia.json) |
 | Corpses 'N Souls | 11066 | [11066-corpses-n-souls.json](./11066-corpses-n-souls.json) |
+| Corpses & Custards Character Creator | 179841 | [179841-corpses-and-custards-character-creator.json](./179841-corpses-and-custards-character-creator.json) |
 | Corpus et Spiritus | 389092 | [389092-corpus-et-spiritus.json](./389092-corpus-et-spiritus.json) |
 | Corpus Machina | 375975 | [375975-corpus-machina.json](./375975-corpus-machina.json) |
 | Corpus Pugna | 318545 | [318545-corpus-pugna.json](./318545-corpus-pugna.json) |
