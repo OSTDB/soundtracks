@@ -7344,6 +7344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Trigger: Schala Edition | 246580 | [246580-chrono-trigger-schala-edition.json](./246580-chrono-trigger-schala-edition.json) |
 | Chrono Trigger+ | 219077 | [219077-chrono-trigger.json](./219077-chrono-trigger.json) |
 | Chrono Wars | 60604 | [60604-chrono-wars.json](./60604-chrono-wars.json) |
+| Chrono Weaver | 211526 | [211526-chrono-weaver.json](./211526-chrono-weaver.json) |
 | Chrono's Arena | 126628 | [126628-chronos-arena.json](./126628-chronos-arena.json) |
 | ChronoBabes | 338527 | [338527-chronobabes.json](./338527-chronobabes.json) |
 | ChronoBelt SchwarzOath: Ayakashibito & Bullet Butlers Crossover Disk | 259485 | [259485-chronobelt-schwarzoath-ayakashibito-and-bullet-butlers-crossover-disk.json](./259485-chronobelt-schwarzoath-ayakashibito-and-bullet-butlers-crossover-disk.json) |
@@ -9240,6 +9241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudburst | 250844 | [250844-cloudburst.json](./250844-cloudburst.json) |
 | Cloudburst | 285057 | [285057-cloudburst.json](./285057-cloudburst.json) |
 | CloudCity VR | 50518 | [50518-cloudcity-vr.json](./50518-cloudcity-vr.json) |
+| Clouded VR | 211522 | [211522-clouded-vr.json](./211522-clouded-vr.json) |
 | Cloudface | 62601 | [62601-cloudface.json](./62601-cloudface.json) |
 | Cloudgazer: A Game About Watching Clouds | 416005 | [416005-cloudgazer-a-game-about-watching-clouds.json](./416005-cloudgazer-a-game-about-watching-clouds.json) |
 | Cloudheim | 330328 | [330328-cloudheim.json](./330328-cloudheim.json) |
