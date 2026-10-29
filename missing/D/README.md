@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darok | 309447 | [309447-darok.json](./309447-darok.json) |
 | Darold the Doomer: Back 2 Reality | 220004 | [220004-darold-the-doomer-back-2-reality.json](./220004-darold-the-doomer-back-2-reality.json) |
 | Darq: The Crypt | 167767 | [167767-darq-the-crypt.json](./167767-darq-the-crypt.json) |
+| Darq: Ultimate Edition | 218883 | [218883-darq-ultimate-edition.json](./218883-darq-ultimate-edition.json) |
 | Darrell 3D | 416678 | [416678-darrell-3d.json](./416678-darrell-3d.json) |
 | Darso Roads | 325815 | [325815-darso-roads.json](./325815-darso-roads.json) |
 | Dart | 246439 | [246439-dart.json](./246439-dart.json) |
@@ -7789,7 +7790,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dirt | 278462 | [278462-dig-dirt.json](./278462-dig-dirt.json) |
 | Dig Dogs: Streetbusters | 50160 | [50160-dig-dogs-streetbusters.json](./50160-dig-dogs-streetbusters.json) |
 | Dig Down | 368689 | [368689-dig-down.json](./368689-dig-down.json) |
+| Dig Dug | 218860 | [218860-dig-dug.json](./218860-dig-dug.json) |
 | Dig Dug | 218861 | [218861-dig-dug.json](./218861-dig-dug.json) |
+| Dig Dug | 218862 | [218862-dig-dug.json](./218862-dig-dug.json) |
+| Dig Dug | 218863 | [218863-dig-dug.json](./218863-dig-dug.json) |
+| Dig Dug | 218864 | [218864-dig-dug.json](./218864-dig-dug.json) |
+| Dig Dug | 218865 | [218865-dig-dug.json](./218865-dig-dug.json) |
+| Dig Dug | 218866 | [218866-dig-dug.json](./218866-dig-dug.json) |
+| Dig Dug | 218868 | [218868-dig-dug.json](./218868-dig-dug.json) |
+| Dig Dug | 218869 | [218869-dig-dug.json](./218869-dig-dug.json) |
+| Dig Dug | 218870 | [218870-dig-dug.json](./218870-dig-dug.json) |
+| Dig Dug | 218871 | [218871-dig-dug.json](./218871-dig-dug.json) |
+| Dig Dug | 218872 | [218872-dig-dug.json](./218872-dig-dug.json) |
+| Dig Dug | 218874 | [218874-dig-dug.json](./218874-dig-dug.json) |
+| Dig Dug | 218875 | [218875-dig-dug.json](./218875-dig-dug.json) |
+| Dig Dug | 218876 | [218876-dig-dug.json](./218876-dig-dug.json) |
+| Dig Dug | 218877 | [218877-dig-dug.json](./218877-dig-dug.json) |
+| Dig Dug | 218878 | [218878-dig-dug.json](./218878-dig-dug.json) |
+| Dig Dug | 218879 | [218879-dig-dug.json](./218879-dig-dug.json) |
+| Dig Dug | 218880 | [218880-dig-dug.json](./218880-dig-dug.json) |
+| Dig Dug | 218881 | [218881-dig-dug.json](./218881-dig-dug.json) |
 | Dig Dug Arrangement | 132160 | [132160-dig-dug-arrangement.json](./132160-dig-dug-arrangement.json) |
 | Dig Dug Arrangement | 178410 | [178410-dig-dug-arrangement.json](./178410-dig-dug-arrangement.json) |
 | Dig Dug Deeper | 2737 | [2737-dig-dug-deeper.json](./2737-dig-dug-deeper.json) |
