@@ -10323,6 +10323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | April's Diary | 249014 | [249014-aprils-diary.json](./249014-aprils-diary.json) |
 | APT | 35534 | [35534-apt.json](./35534-apt.json) |
 | Apt. 407 | 345437 | [345437-apt-407.json](./345437-apt-407.json) |
+| Apt. Map | 227438 | [227438-apt-map.json](./227438-apt-map.json) |
 | Aptly Rolling | 165661 | [165661-aptly-rolling.json](./165661-aptly-rolling.json) |
 | Apu's Journey | 276854 | [276854-apus-journey.json](./276854-apus-journey.json) |
 | Apventure to Atlantis | 23291 | [23291-apventure-to-atlantis.json](./23291-apventure-to-atlantis.json) |
