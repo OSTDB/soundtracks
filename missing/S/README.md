@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanic the Hawtdawg: Da Movie - Da Game 2.1: Electric Boogaloo 2.2 Version 4 - The Squeakquel: VHS Edition - Directors Cut: Special Edition - The Musical & Knackles | 137494 | [137494-sanic-the-hawtdawg-da-movie-da-game-2-1-electric-boogaloo-2-2-version-4-the-squeakquel-vhs-edition-directors-cut-special-edition-the-musical-and-knackles.json](./137494-sanic-the-hawtdawg-da-movie-da-game-2-1-electric-boogaloo-2-2-version-4-the-squeakquel-vhs-edition-directors-cut-special-edition-the-musical-and-knackles.json) |
 | Sanitarium Enhanced | 414849 | [414849-sanitarium-enhanced.json](./414849-sanitarium-enhanced.json) |
 | Sanitarium Massacre | 62684 | [62684-sanitarium-massacre.json](./62684-sanitarium-massacre.json) |
+| Sanity Break | 188245 | [188245-sanity-break.json](./188245-sanity-break.json) |
 | Sanity Break | 369013 | [369013-sanity-break.json](./369013-sanity-break.json) |
 | Sanity City | 192559 | [192559-sanity-city.json](./192559-sanity-city.json) |
 | Sanity of Morris | 137638 | [137638-sanity-of-morris.json](./137638-sanity-of-morris.json) |
@@ -12106,6 +12107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot Ride | 421373 | [421373-slingshot-ride.json](./421373-slingshot-ride.json) |
 | Slingshot Rush | 253008 | [253008-slingshot-rush.json](./253008-slingshot-rush.json) |
 | Slingshot Stunt Driver & Sports | 188102 | [188102-slingshot-stunt-driver-and-sports.json](./188102-slingshot-stunt-driver-and-sports.json) |
+| Slingshot Train | 188234 | [188234-slingshot-train.json](./188234-slingshot-train.json) |
 | Slingshot Trip | 245935 | [245935-slingshot-trip.json](./245935-slingshot-trip.json) |
 | Slingshot: The Bump Challenge | 108470 | [108470-slingshot-the-bump-challenge.json](./108470-slingshot-the-bump-challenge.json) |
 | Slingshottr | 297358 | [297358-slingshottr.json](./297358-slingshottr.json) |
@@ -22104,6 +22106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight X-2: Galactic Puzzles | 163421 | [163421-starlight-x-2-galactic-puzzles.json](./163421-starlight-x-2-galactic-puzzles.json) |
 | Starlight: Eye of the Storm | 155670 | [155670-starlight-eye-of-the-storm.json](./155670-starlight-eye-of-the-storm.json) |
 | StarLightRiders: HyperJump | 115331 | [115331-starlightriders-hyperjump.json](./115331-starlightriders-hyperjump.json) |
+| Starlike | 188236 | [188236-starlike.json](./188236-starlike.json) |
 | Starlines | 305956 | [305956-starlines.json](./305956-starlines.json) |
 | Starlink Battle For Atlas: Lance Starship Pack | 305232 | [305232-starlink-battle-for-atlas-lance-starship-pack.json](./305232-starlink-battle-for-atlas-lance-starship-pack.json) |
 | Starlink: Battle for Atlas | 317065 | [317065-starlink-battle-for-atlas.json](./317065-starlink-battle-for-atlas.json) |
@@ -24380,6 +24383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategy Games | 84213 | [84213-strategy-games.json](./84213-strategy-games.json) |
 | Strategy II: Hunt For The Bismark | 262520 | [262520-strategy-ii-hunt-for-the-bismark.json](./262520-strategy-ii-hunt-for-the-bismark.json) |
 | Strategy Master | 320832 | [320832-strategy-master.json](./320832-strategy-master.json) |
+| Strategy Rome in Flames | 188230 | [188230-strategy-rome-in-flames.json](./188230-strategy-rome-in-flames.json) |
 | Strategy Six-Pack | 86034 | [86034-strategy-six-pack.json](./86034-strategy-six-pack.json) |
 | Stratený v Európe | 81661 | [81661-strateny-v-europe.json](./81661-strateny-v-europe.json) |
 | Stratform | 181246 | [181246-stratform.json](./181246-stratform.json) |
