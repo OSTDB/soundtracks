@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Story | 221190 | [221190-galactic-story.json](./221190-galactic-story.json) |
 | Galactic Striker | 329174 | [329174-galactic-striker.json](./329174-galactic-striker.json) |
 | Galactic Taz Ball | 23643 | [23643-galactic-taz-ball.json](./23643-galactic-taz-ball.json) |
+| Galactic Thunderdome | 211536 | [211536-galactic-thunderdome.json](./211536-galactic-thunderdome.json) |
 | Galactic Tower Defense | 114096 | [114096-galactic-tower-defense.json](./114096-galactic-tower-defense.json) |
 | Galactic Traffic Control | 325839 | [325839-galactic-traffic-control.json](./325839-galactic-traffic-control.json) |
 | Galactic Tree Frog | 109906 | [109906-galactic-tree-frog.json](./109906-galactic-tree-frog.json) |
@@ -8253,6 +8254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimshire | 284411 | [284411-grimshire.json](./284411-grimshire.json) |
 | Grimslair | 391587 | [391587-grimslair.json](./391587-grimslair.json) |
 | Grimsonland | 112765 | [112765-grimsonland.json](./112765-grimsonland.json) |
+| Grimstar: Welcome to the savage planet | 211528 | [211528-grimstar-welcome-to-the-savage-planet.json](./211528-grimstar-welcome-to-the-savage-planet.json) |
 | Grimstone Valley | 340326 | [340326-grimstone-valley.json](./340326-grimstone-valley.json) |
 | Grimstorm | 191881 | [191881-grimstorm.json](./191881-grimstorm.json) |
 | Grimtale Island | 55278 | [55278-grimtale-island.json](./55278-grimtale-island.json) |
@@ -9314,6 +9316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumtrix | 60761 | [60761-gumtrix.json](./60761-gumtrix.json) |
 | Gun | 248547 | [248547-gun.json](./248547-gun.json) |
 | Gun | 3939 | [3939-gun.json](./3939-gun.json) |
+| Gun & Buckler | 211542 | [211542-gun-and-buckler.json](./211542-gun-and-buckler.json) |
 | Gun & Girls.io | 200754 | [200754-gun-and-girls-io.json](./200754-gun-and-girls-io.json) |
 | Gun and Buckler | 217237 | [217237-gun-and-buckler.json](./217237-gun-and-buckler.json) |
 | Gun Beat | 113458 | [113458-gun-beat.json](./113458-gun-beat.json) |
