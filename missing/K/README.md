@@ -1486,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kelsi Davies: Haunt Escape | 275675 | [275675-kelsi-davies-haunt-escape.json](./275675-kelsi-davies-haunt-escape.json) |
 | Keltika | 259606 | [259606-keltika.json](./259606-keltika.json) |
 | Keltis HD | 223603 | [223603-keltis-hd.json](./223603-keltis-hd.json) |
+| Kelvin | 199223 | [199223-kelvin.json](./199223-kelvin.json) |
 | Kelvin and The Chateau | 162432 | [162432-kelvin-and-the-chateau.json](./162432-kelvin-and-the-chateau.json) |
 | Kelvin and the Infamous Machine | 21631 | [21631-kelvin-and-the-infamous-machine.json](./21631-kelvin-and-the-infamous-machine.json) |
 | Kem Alpha 1 | 267830 | [267830-kem-alpha-1.json](./267830-kem-alpha-1.json) |
@@ -2468,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5127,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kronolog: The Nazi Paradox | 50481 | [50481-kronolog-the-nazi-paradox.json](./50481-kronolog-the-nazi-paradox.json) |
 | Kronorite | 127651 | [127651-kronorite.json](./127651-kronorite.json) |
 | Kronos | 340892 | [340892-kronos.json](./340892-kronos.json) |
+| Kronos: Time Titan | 199240 | [199240-kronos-time-titan.json](./199240-kronos-time-titan.json) |
 | Kronos: Wisdom Trials | 170870 | [170870-kronos-wisdom-trials.json](./170870-kronos-wisdom-trials.json) |
 | Kronville: Stolen Dreams | 53262 | [53262-kronville-stolen-dreams.json](./53262-kronville-stolen-dreams.json) |
 | Kropki 8 | 147739 | [147739-kropki-8.json](./147739-kropki-8.json) |
