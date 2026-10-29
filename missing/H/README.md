@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajimemashite Boku no Kanojo | 375340 | [375340-hajimemashite-boku-no-kanojo.json](./375340-hajimemashite-boku-no-kanojo.json) |
 | Hajimeru Sekai no Risouron: Goodbye World Index | 337092 | [337092-hajimeru-sekai-no-risouron-goodbye-world-index.json](./337092-hajimeru-sekai-no-risouron-goodbye-world-index.json) |
 | Hajimete no Eigo: Typing & Puzzle Keyboard Hairetsu mo Manaberu Youji-muke Gakushuu Benkyou Game | 274650 | [274650-hajimete-no-eigo-typing-and-puzzle-keyboard-hairetsu-mo-manaberu-youji-muke-gakushuu-benkyou-game.json](./274650-hajimete-no-eigo-typing-and-puzzle-keyboard-hairetsu-mo-manaberu-youji-muke-gakushuu-benkyou-game.json) |
+| Hajis | 201404 | [201404-hajis.json](./201404-hajis.json) |
 | Hajwala | 105506 | [105506-hajwala.json](./105506-hajwala.json) |
 | Hajwala 2 | 325884 | [325884-hajwala-2.json](./325884-hajwala-2.json) |
 | Hajwala Desert | 332819 | [332819-hajwala-desert.json](./332819-hajwala-desert.json) |
@@ -3061,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts Online | 317011 | [317011-hearts-online.json](./317011-hearts-online.json) |
 | Hearts Premium HD | 86867 | [86867-hearts-premium-hd.json](./86867-hearts-premium-hd.json) |
 | Hearts Tournament | 89770 | [89770-hearts-tournament.json](./89770-hearts-tournament.json) |
+| Hearts United | 201396 | [201396-hearts-united.json](./201396-hearts-united.json) |
 | Hearts War | 261952 | [261952-hearts-war.json](./261952-hearts-war.json) |
 | Hearts: Card Game | 143066 | [143066-hearts-card-game.json](./143066-hearts-card-game.json) |
 | Hearts: Classic Fun Card Game | 87549 | [87549-hearts-classic-fun-card-game.json](./87549-hearts-classic-fun-card-game.json) |
@@ -4611,6 +4613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Oni | 241289 | [241289-hentai-oni.json](./241289-hentai-oni.json) |
 | Hentai Oppai | 301664 | [301664-hentai-oppai.json](./301664-hentai-oppai.json) |
 | Hentai Ouji to Warawanai Neko. | 62719 | [62719-hentai-ouji-to-warawanai-neko.json](./62719-hentai-ouji-to-warawanai-neko.json) |
+| Hentai Packer | 201409 | [201409-hentai-packer.json](./201409-hentai-packer.json) |
 | Hentai Paradise Vol. 2 | 313153 | [313153-hentai-paradise-vol-2.json](./313153-hentai-paradise-vol-2.json) |
 | Hentai Paradise Vol. 3 | 316263 | [316263-hentai-paradise-vol-3.json](./316263-hentai-paradise-vol-3.json) |
 | Hentai Paradise Vol. 4 | 316262 | [316262-hentai-paradise-vol-4.json](./316262-hentai-paradise-vol-4.json) |
@@ -9369,6 +9372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: Looney Tunes | 209393 | [209393-hot-wheels-unleashed-looney-tunes.json](./209393-hot-wheels-unleashed-looney-tunes.json) |
 | Hot Wheels Unleashed: McLaren Senna | 195768 | [195768-hot-wheels-unleashed-mclaren-senna.json](./195768-hot-wheels-unleashed-mclaren-senna.json) |
 | Hot Wheels Unleashed: Night Burner | 195767 | [195767-hot-wheels-unleashed-night-burner.json](./195767-hot-wheels-unleashed-night-burner.json) |
+| Hot Wheels Unleashed: Pass Vol. 2 | 200835 | [200835-hot-wheels-unleashed-pass-vol-2.json](./200835-hot-wheels-unleashed-pass-vol-2.json) |
 | Hot Wheels Unleashed: Street Fighter Vega | 195770 | [195770-hot-wheels-unleashed-street-fighter-vega.json](./195770-hot-wheels-unleashed-street-fighter-vega.json) |
 | Hot Wheels Unleashed: Ultimate Stunt Edition | 169205 | [169205-hot-wheels-unleashed-ultimate-stunt-edition.json](./169205-hot-wheels-unleashed-ultimate-stunt-edition.json) |
 | Hot Wheels Velocity X | 243199 | [243199-hot-wheels-velocity-x.json](./243199-hot-wheels-velocity-x.json) |
@@ -9729,6 +9733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Velez: Part 2 | 171505 | [171505-house-of-velez-part-2.json](./171505-house-of-velez-part-2.json) |
 | House of Weirdos | 197214 | [197214-house-of-weirdos.json](./197214-house-of-weirdos.json) |
 | House of Witches | 211057 | [211057-house-of-witches.json](./211057-house-of-witches.json) |
+| House of Wolves | 200847 | [200847-house-of-wolves.json](./200847-house-of-wolves.json) |
 | House of Wonders: Kitty Kat Wedding | 53195 | [53195-house-of-wonders-kitty-kat-wedding.json](./53195-house-of-wonders-kitty-kat-wedding.json) |
 | House on [Redacted] Street | 352197 | [352197-house-on-redacted-street.json](./352197-house-on-redacted-street.json) |
 | House Painting: Simulator | 328513 | [328513-house-painting-simulator.json](./328513-house-painting-simulator.json) |
@@ -10875,6 +10880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypastorm | 254692 | [254692-hypastorm.json](./254692-hypastorm.json) |
 | Hypatia | 38705 | [38705-hypatia.json](./38705-hypatia.json) |
 | Hypatia | 407344 | [407344-hypatia.json](./407344-hypatia.json) |
+| Hype Hustle | 201399 | [201399-hype-hustle.json](./201399-hype-hustle.json) |
 | Hype Prototype | 225520 | [225520-hype-prototype.json](./225520-hype-prototype.json) |
 | Hype: The Time Quest | 259642 | [259642-hype-the-time-quest.json](./259642-hype-the-time-quest.json) |
 | HypeHype | 369889 | [369889-hypehype.json](./369889-hypehype.json) |
