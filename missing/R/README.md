@@ -9681,6 +9681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room231 | 297206 | [297206-room231.json](./297206-room231.json) |
 | Room2Room | 310814 | [310814-room2room.json](./310814-room2room.json) |
 | Room301 No.6 | 217749 | [217749-room301-no-6.json](./217749-room301-no-6.json) |
+| Room44 | 181481 | [181481-room44.json](./181481-room44.json) |
 | Roomates | 82053 | [82053-roomates.json](./82053-roomates.json) |
 | Roomba May Cry | 185116 | [185116-roomba-may-cry.json](./185116-roomba-may-cry.json) |
 | Roomba Out! | 302143 | [302143-roomba-out.json](./302143-roomba-out.json) |
@@ -10752,6 +10753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rummel & Rabalder: Dr. Franks Mask | 154830 | [154830-rummel-and-rabalder-dr-franks-mask.json](./154830-rummel-and-rabalder-dr-franks-mask.json) |
 | Rummel & Rabalder: I Snarkofagens Skugga | 154832 | [154832-rummel-and-rabalder-i-snarkofagens-skugga.json](./154832-rummel-and-rabalder-i-snarkofagens-skugga.json) |
 | Rummel & Rabalder: Jakten på Kapten Hanssons Guld | 154827 | [154827-rummel-and-rabalder-jakten-pa-kapten-hanssons-guld.json](./154827-rummel-and-rabalder-jakten-pa-kapten-hanssons-guld.json) |
+| Rummi | 181530 | [181530-rummi.json](./181530-rummi.json) |
 | Rummikub | 243274 | [243274-rummikub.json](./243274-rummikub.json) |
 | Rummix | 387075 | [387075-rummix.json](./387075-rummix.json) |
 | Rummy - classic card game | 88416 | [88416-rummy-classic-card-game.json](./88416-rummy-classic-card-game.json) |
