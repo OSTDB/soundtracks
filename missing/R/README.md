@@ -1944,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rattus | 130115 | [130115-rattus.json](./130115-rattus.json) |
 | Rattus Velocitas | 351195 | [351195-rattus-velocitas.json](./351195-rattus-velocitas.json) |
 | Rattyivty Lab | 234559 | [234559-rattyivty-lab.json](./234559-rattyivty-lab.json) |
+| Rattyvity Lab | 194753 | [194753-rattyvity-lab.json](./194753-rattyvity-lab.json) |
 | Ratyboy Adventures | 242657 | [242657-ratyboy-adventures.json](./242657-ratyboy-adventures.json) |
 | Ratyrinth | 258922 | [258922-ratyrinth.json](./258922-ratyrinth.json) |
 | Ratz Instagib | 9193 | [9193-ratz-instagib.json](./9193-ratz-instagib.json) |
@@ -4999,6 +5000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Super Bundle | 99513 | [99513-resident-evil-super-bundle.json](./99513-resident-evil-super-bundle.json) |
 | Resident Evil: Survival Unit | 352832 | [352832-resident-evil-survival-unit.json](./352832-resident-evil-survival-unit.json) |
 | Resident Evil: Survivor Redux | 313129 | [313129-resident-evil-survivor-redux.json](./313129-resident-evil-survivor-redux.json) |
+| Resident Evil: The Arklay Chronicle | 194785 | [194785-resident-evil-the-arklay-chronicle.json](./194785-resident-evil-the-arklay-chronicle.json) |
 | Resident Evil: The Darkside Chronicles | 497 | [497-resident-evil-the-darkside-chronicles.json](./497-resident-evil-the-darkside-chronicles.json) |
 | Resident Evil: The Mercenaries 3D | 976 | [976-resident-evil-the-mercenaries-3d.json](./976-resident-evil-the-mercenaries-3d.json) |
 | Resident Evil: Triple Pack | 99534 | [99534-resident-evil-triple-pack.json](./99534-resident-evil-triple-pack.json) |
@@ -5552,6 +5554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return Zero VR | 22095 | [22095-return-zero-vr.json](./22095-return-zero-vr.json) |
 | Return: Unknown | 281324 | [281324-return-unknown.json](./281324-return-unknown.json) |
 | Return. | 106161 | [106161-return.json](./106161-return.json) |
+| Returnal: Ascension | 194788 | [194788-returnal-ascension.json](./194788-returnal-ascension.json) |
 | Returnal: Digital Deluxe Edition | 221656 | [221656-returnal-digital-deluxe-edition.json](./221656-returnal-digital-deluxe-edition.json) |
 | Returner Alien | 108500 | [108500-returner-alien.json](./108500-returner-alien.json) |
 | Returner Zhero | 107202 | [107202-returner-zhero.json](./107202-returner-zhero.json) |
@@ -11199,6 +11202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Delivery | 304850 | [304850-rush-delivery.json](./304850-rush-delivery.json) |
 | Rush For Glory | 10803 | [10803-rush-for-glory.json](./10803-rush-for-glory.json) |
 | Rush for Gold: California | 33345 | [33345-rush-for-gold-california.json](./33345-rush-for-gold-california.json) |
+| Rush for the Ages | 194770 | [194770-rush-for-the-ages.json](./194770-rush-for-the-ages.json) |
 | Rush for the Bomb | 54352 | [54352-rush-for-the-bomb.json](./54352-rush-for-the-bomb.json) |
 | Rush Galaxy | 233151 | [233151-rush-galaxy.json](./233151-rush-galaxy.json) |
 | Rush Grotto | 378895 | [378895-rush-grotto.json](./378895-rush-grotto.json) |
