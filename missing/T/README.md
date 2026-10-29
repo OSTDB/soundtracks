@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Another Galaxy | 25421 | [25421-tales-of-another-galaxy.json](./25421-tales-of-another-galaxy.json) |
 | Tales of Anturia: Hejstos | 270513 | [270513-tales-of-anturia-hejstos.json](./270513-tales-of-anturia-hejstos.json) |
 | Tales of Aradia: Idle RPG | 358457 | [358457-tales-of-aradia-idle-rpg.json](./358457-tales-of-aradia-idle-rpg.json) |
+| Tales of Aravorn: An Elven Marriage | 204139 | [204139-tales-of-aravorn-an-elven-marriage.json](./204139-tales-of-aravorn-an-elven-marriage.json) |
 | Tales Of Aravorn: Reign Of War | 293832 | [293832-tales-of-aravorn-reign-of-war.json](./293832-tales-of-aravorn-reign-of-war.json) |
 | Tales of Aravorn: Seasons Of The Wolf - Bad Blood | 171632 | [171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json](./171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json) |
 | Tales of Arcrath | 379424 | [379424-tales-of-arcrath.json](./379424-tales-of-arcrath.json) |
@@ -11112,6 +11113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Heroes of the Water Margin | 330499 | [330499-the-legend-of-the-heroes-of-the-water-margin.json](./330499-the-legend-of-the-heroes-of-the-water-margin.json) |
 | The Legend of the Radient Mask | 135094 | [135094-the-legend-of-the-radient-mask.json](./135094-the-legend-of-the-radient-mask.json) |
 | The Legend of The Sacred Stone EX | 371336 | [371336-the-legend-of-the-sacred-stone-ex.json](./371336-the-legend-of-the-sacred-stone-ex.json) |
+| The Legend of the Soulforce: Heroes of the Abyss | 204183 | [204183-the-legend-of-the-soulforce-heroes-of-the-abyss.json](./204183-the-legend-of-the-soulforce-heroes-of-the-abyss.json) |
 | The Legend of the Spirit Bird | 172520 | [172520-the-legend-of-the-spirit-bird.json](./172520-the-legend-of-the-spirit-bird.json) |
 | The Legend of the Tolteks Gold | 66560 | [66560-the-legend-of-the-tolteks-gold.json](./66560-the-legend-of-the-tolteks-gold.json) |
 | The Legend of the War Axe | 190129 | [190129-the-legend-of-the-war-axe.json](./190129-the-legend-of-the-war-axe.json) |
@@ -13477,6 +13479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest: Macha's Curse | 90810 | [90810-the-quest-machas-curse.json](./90810-the-quest-machas-curse.json) |
 | The Quest: Mithril Horde II | 245179 | [245179-the-quest-mithril-horde-ii.json](./245179-the-quest-mithril-horde-ii.json) |
 | The Quest: Thor's Hammer | 36959 | [36959-the-quest-thors-hammer.json](./36959-the-quest-thors-hammer.json) |
+| The Questing | 204182 | [204182-the-questing.json](./204182-the-questing.json) |
 | The Question | 170529 | [170529-the-question.json](./170529-the-question.json) |
 | The Question's Quest of Sin | 322370 | [322370-the-questions-quest-of-sin.json](./322370-the-questions-quest-of-sin.json) |
 | The Quiet Apocalypse | 181087 | [181087-the-quiet-apocalypse.json](./181087-the-quiet-apocalypse.json) |
@@ -16737,6 +16740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch and the Hundred Knight Mobile | 394549 | [394549-the-witch-and-the-hundred-knight-mobile.json](./394549-the-witch-and-the-hundred-knight-mobile.json) |
 | The Witch and the Hundred Knight: Revival Edition | 19796 | [19796-the-witch-and-the-hundred-knight-revival-edition.json](./19796-the-witch-and-the-hundred-knight-revival-edition.json) |
 | The Witch and the Lost Babies | 389585 | [389585-the-witch-and-the-lost-babies.json](./389585-the-witch-and-the-lost-babies.json) |
+| The Witch Blade | 204140 | [204140-the-witch-blade.json](./204140-the-witch-blade.json) |
 | The Witch Eye | 169770 | [169770-the-witch-eye.json](./169770-the-witch-eye.json) |
 | The Witch House | 176813 | [176813-the-witch-house.json](./176813-the-witch-house.json) |
 | The Witch in the Forest | 156016 | [156016-the-witch-in-the-forest.json](./156016-the-witch-in-the-forest.json) |
@@ -19831,6 +19835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tigger's Family Tree 3D Adventure | 209036 | [209036-tiggers-family-tree-3d-adventure.json](./209036-tiggers-family-tree-3d-adventure.json) |
 | Tight Man | 393457 | [393457-tight-man.json](./393457-tight-man.json) |
 | Tightrope | 388706 | [388706-tightrope.json](./388706-tightrope.json) |
+| Tightrope Theatre | 204141 | [204141-tightrope-theatre.json](./204141-tightrope-theatre.json) |
 | Tightrope Walking | 178076 | [178076-tightrope-walking.json](./178076-tightrope-walking.json) |
 | Tiime | 153386 | [153386-tiime.json](./153386-tiime.json) |
 | Tik Tak Caro | 239328 | [239328-tik-tak-caro.json](./239328-tik-tak-caro.json) |
@@ -20691,6 +20696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Realms | 61720 | [61720-tiny-realms.json](./61720-tiny-realms.json) |
 | Tiny Ring | 257364 | [257364-tiny-ring.json](./257364-tiny-ring.json) |
 | Tiny Road Interchanges | 188834 | [188834-tiny-road-interchanges.json](./188834-tiny-road-interchanges.json) |
+| Tiny Robo Puzzles | 204133 | [204133-tiny-robo-puzzles.json](./204133-tiny-robo-puzzles.json) |
 | Tiny Robots Recharged | 167830 | [167830-tiny-robots-recharged.json](./167830-tiny-robots-recharged.json) |
 | Tiny Robots: Portal Escape | 297201 | [297201-tiny-robots-portal-escape.json](./297201-tiny-robots-portal-escape.json) |
 | Tiny Rogues | 215217 | [215217-tiny-rogues.json](./215217-tiny-rogues.json) |
