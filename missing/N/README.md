@@ -4922,6 +4922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitroplus Blasterz: Heroines Infinite Duel - Limited Edition | 167134 | [167134-nitroplus-blasterz-heroines-infinite-duel-limited-edition.json](./167134-nitroplus-blasterz-heroines-infinite-duel-limited-edition.json) |
 | Nitrous Firetruck | 236458 | [236458-nitrous-firetruck.json](./236458-nitrous-firetruck.json) |
 | Nitrous Fury | 385085 | [385085-nitrous-fury.json](./385085-nitrous-fury.json) |
+| Nitroverse | 189806 | [189806-nitroverse.json](./189806-nitroverse.json) |
 | NitroVerse | 414108 | [414108-nitroverse.json](./414108-nitroverse.json) |
 | NitroZ | 262589 | [262589-nitroz.json](./262589-nitroz.json) |
 | Nitto 1320 Legends | 79962 | [79962-nitto-1320-legends.json](./79962-nitto-1320-legends.json) |
@@ -5167,6 +5168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No One Lives in Heaven: Digital Deluxe Edition | 167182 | [167182-no-one-lives-in-heaven-digital-deluxe-edition.json](./167182-no-one-lives-in-heaven-digital-deluxe-edition.json) |
 | No One Survived: Military clothing | 337766 | [337766-no-one-survived-military-clothing.json](./337766-no-one-survived-military-clothing.json) |
 | No One Will Miss Me | 419932 | [419932-no-one-will-miss-me.json](./419932-no-one-will-miss-me.json) |
+| No One's Earth | 189850 | [189850-no-ones-earth.json](./189850-no-ones-earth.json) |
 | No One's Island | 368553 | [368553-no-ones-island.json](./368553-no-ones-island.json) |
 | No Ordinary Elevator | 76666 | [76666-no-ordinary-elevator.json](./76666-no-ordinary-elevator.json) |
 | No Outlet | 201633 | [201633-no-outlet.json](./201633-no-outlet.json) |
