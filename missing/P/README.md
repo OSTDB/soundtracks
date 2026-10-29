@@ -15771,6 +15771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt.day | 413151 | [413151-putt-day.json](./413151-putt-day.json) |
 | Puttball | 58220 | [58220-puttball.json](./58220-puttball.json) |
 | Puttin' Around | 114171 | [114171-puttin-around.json](./114171-puttin-around.json) |
+| Puttium | 216012 | [216012-puttium.json](./216012-puttium.json) |
 | Putty | 39022 | [39022-putty.json](./39022-putty.json) |
 | Putty Pals | 32866 | [32866-putty-pals.json](./32866-putty-pals.json) |
 | Putty Putter | 188896 | [188896-putty-putter.json](./188896-putty-putter.json) |
