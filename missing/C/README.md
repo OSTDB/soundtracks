@@ -5683,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chemistry World | 207333 | [207333-chemistry-world.json](./207333-chemistry-world.json) |
 | Chemists: Area of infection | 190896 | [190896-chemists-area-of-infection.json](./190896-chemists-area-of-infection.json) |
 | Cheney Wood the Ultimate Revenge | 111499 | [111499-cheney-wood-the-ultimate-revenge.json](./111499-cheney-wood-the-ultimate-revenge.json) |
+| ChengDu Mahjong | 219933 | [219933-chengdu-mahjong.json](./219933-chengdu-mahjong.json) |
 | Chénmò Chuánqí | 368436 | [368436-chenmo-chuanqi.json](./368436-chenmo-chuanqi.json) |
 | Chenmo de Xishuai | 250445 | [250445-chenmo-de-xishuai.json](./250445-chenmo-de-xishuai.json) |
 | Chenso Club | 144895 | [144895-chenso-club.json](./144895-chenso-club.json) |
@@ -15011,6 +15012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimes of War | 21369 | [21369-crimes-of-war.json](./21369-crimes-of-war.json) |
 | Crimes: Open Cases | 299858 | [299858-crimes-open-cases.json](./299858-crimes-open-cases.json) |
 | CrimeSceneCleaners | 276258 | [276258-crimescenecleaners.json](./276258-crimescenecleaners.json) |
+| CrimeStory: In the restaurant | 219934 | [219934-crimestory-in-the-restaurant.json](./219934-crimestory-in-the-restaurant.json) |
 | CrimeTrip | 240866 | [240866-crimetrip.json](./240866-crimetrip.json) |
 | Criminal Archives: Alphabetic Murders | 417708 | [417708-criminal-archives-alphabetic-murders.json](./417708-criminal-archives-alphabetic-murders.json) |
 | Criminal Archives: Alphabetic Murders - Collector's Edition | 247497 | [247497-criminal-archives-alphabetic-murders-collectors-edition.json](./247497-criminal-archives-alphabetic-murders-collectors-edition.json) |
@@ -15608,6 +15610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosswords With Friends | 90063 | [90063-crosswords-with-friends.json](./90063-crosswords-with-friends.json) |
 | Crosswords: World Tour | 332329 | [332329-crosswords-world-tour.json](./332329-crosswords-world-tour.json) |
 | CrossWorlds: Escape | 31810 | [31810-crossworlds-escape.json](./31810-crossworlds-escape.json) |
+| Crossy Animals Road | 219935 | [219935-crossy-animals-road.json](./219935-crossy-animals-road.json) |
 | Crossy Crash | 98779 | [98779-crossy-crash.json](./98779-crossy-crash.json) |
 | Crossy Creeper | 203206 | [203206-crossy-creeper.json](./203206-crossy-creeper.json) |
 | Crossy Road | 10635 | [10635-crossy-road.json](./10635-crossy-road.json) |
@@ -16668,6 +16671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubicolor | 33430 | [33430-cubicolor.json](./33430-cubicolor.json) |
 | Cubicorner | 84096 | [84096-cubicorner.json](./84096-cubicorner.json) |
 | CubicPanic | 98980 | [98980-cubicpanic.json](./98980-cubicpanic.json) |
+| CubicTourPlus. | 219936 | [219936-cubictourplus.json](./219936-cubictourplus.json) |
 | Cubicus | 174046 | [174046-cubicus.json](./174046-cubicus.json) |
 | Cubidle | 311473 | [311473-cubidle.json](./311473-cubidle.json) |
 | Cubie Adventure | 97967 | [97967-cubie-adventure.json](./97967-cubie-adventure.json) |
