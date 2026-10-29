@@ -5254,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oyatsu Quiz: Mogu-mogu Q - The Quiz Game | 228632 | [228632-oyatsu-quiz-mogu-mogu-q-the-quiz-game.json](./228632-oyatsu-quiz-mogu-mogu-q-the-quiz-game.json) |
 | Oyatu | 227737 | [227737-oyatu.json](./227737-oyatu.json) |
 | Oylinder | 223393 | [223393-oylinder.json](./223393-oylinder.json) |
+| Oyster VR | 200870 | [200870-oyster-vr.json](./200870-oyster-vr.json) |
 | Oystron | 40734 | [40734-oystron.json](./40734-oystron.json) |
 | Oz | 376127 | [376127-oz.json](./376127-oz.json) |
 | Oz Dàluàndòu: Mèngxiǎng de Chuánshuō | 394121 | [394121-oz-daluandou-mengxiang-de-chuanshuo.json](./394121-oz-daluandou-mengxiang-de-chuanshuo.json) |
