@@ -10821,6 +10821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Secret | 199656 | [199656-the-last-secret.json](./199656-the-last-secret.json) |
 | The Last Shape | 199798 | [199798-the-last-shape.json](./199798-the-last-shape.json) |
 | The Last Shelter | 349844 | [349844-the-last-shelter.json](./349844-the-last-shelter.json) |
+| The Last Shift | 186461 | [186461-the-last-shift.json](./186461-the-last-shift.json) |
 | The Last Shot: Arcades | 351723 | [351723-the-last-shot-arcades.json](./351723-the-last-shot-arcades.json) |
 | The Last Show | 399035 | [399035-the-last-show.json](./399035-the-last-show.json) |
 | The Last Show | 404387 | [404387-the-last-show.json](./404387-the-last-show.json) |
@@ -13031,6 +13032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paper Arcade | 247909 | [247909-the-paper-arcade.json](./247909-the-paper-arcade.json) |
 | The Paper Arcade: Pong | 360677 | [360677-the-paper-arcade-pong.json](./360677-the-paper-arcade-pong.json) |
 | The Paper Loop | 344369 | [344369-the-paper-loop.json](./344369-the-paper-loop.json) |
+| The Paper Mario Christmas Special | 186399 | [186399-the-paper-mario-christmas-special.json](./186399-the-paper-mario-christmas-special.json) |
 | The Paper Parable | 262398 | [262398-the-paper-parable.json](./262398-the-paper-parable.json) |
 | The Paper Time Travelers | 347302 | [347302-the-paper-time-travelers.json](./347302-the-paper-time-travelers.json) |
 | The Paper Trials | 264585 | [264585-the-paper-trials.json](./264585-the-paper-trials.json) |
@@ -14440,6 +14442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shattering: Secret Room | 155062 | [155062-the-shattering-secret-room.json](./155062-the-shattering-secret-room.json) |
 | The Shed | 372205 | [372205-the-shed.json](./372205-the-shed.json) |
 | The Shedding | 114372 | [114372-the-shedding.json](./114372-the-shedding.json) |
+| The Sheep P | 187042 | [187042-the-sheep-p.json](./187042-the-sheep-p.json) |
 | The Sheep Quiz | 210602 | [210602-the-sheep-quiz.json](./210602-the-sheep-quiz.json) |
 | The Shell of Permafrost | 112681 | [112681-the-shell-of-permafrost.json](./112681-the-shell-of-permafrost.json) |
 | The Shell Part I: Inferno | 142230 | [142230-the-shell-part-i-inferno.json](./142230-the-shell-part-i-inferno.json) |
@@ -15011,6 +15014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Soul of Too Birds Game | 270033 | [270033-the-soul-of-too-birds-game.json](./270033-the-soul-of-too-birds-game.json) |
 | The Soul Ring of Soro: Divine Realm | 301603 | [301603-the-soul-ring-of-soro-divine-realm.json](./301603-the-soul-ring-of-soro-divine-realm.json) |
 | The Soul Stone Escape | 315793 | [315793-the-soul-stone-escape.json](./315793-the-soul-stone-escape.json) |
+| The Soul Stone War 2 | 186404 | [186404-the-soul-stone-war-2.json](./186404-the-soul-stone-war-2.json) |
 | The Soul Stone War 3 | 344280 | [344280-the-soul-stone-war-3.json](./344280-the-soul-stone-war-3.json) |
 | The SoulKeeper VR | 27193 | [27193-the-soulkeeper-vr.json](./27193-the-soulkeeper-vr.json) |
 | The Soulstream Expansive: Prelude | 418837 | [418837-the-soulstream-expansive-prelude.json](./418837-the-soulstream-expansive-prelude.json) |
@@ -27404,6 +27408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Command | 42158 | [42158-triple-command.json](./42158-triple-command.json) |
 | Triple Crown Championship Snowboarding | 50732 | [50732-triple-crown-championship-snowboarding.json](./50732-triple-crown-championship-snowboarding.json) |
 | Triple Dungeon | 157476 | [157476-triple-dungeon.json](./157476-triple-dungeon.json) |
+| Triple Fantasy | 186402 | [186402-triple-fantasy.json](./186402-triple-fantasy.json) |
 | Triple Header Sports | 220127 | [220127-triple-header-sports.json](./220127-triple-header-sports.json) |
 | Triple Jump | 183352 | [183352-triple-jump.json](./183352-triple-jump.json) |
 | Triple Jump | 247050 | [247050-triple-jump.json](./247050-triple-jump.json) |
