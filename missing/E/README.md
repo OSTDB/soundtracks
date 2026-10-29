@@ -2512,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elya Richi vs Blackstone: Nuclear War | 384570 | [384570-elya-richi-vs-blackstone-nuclear-war.json](./384570-elya-richi-vs-blackstone-nuclear-war.json) |
 | Elyndor | 402563 | [402563-elyndor.json](./402563-elyndor.json) |
 | Elypse | 182076 | [182076-elypse.json](./182076-elypse.json) |
+| Elysia | 212057 | [212057-elysia.json](./212057-elysia.json) |
 | Elysian | 306799 | [306799-elysian.json](./306799-elysian.json) |
 | Elysian Echoes | 265093 | [265093-elysian-echoes.json](./265093-elysian-echoes.json) |
 | Elysian Eclipse | 236282 | [236282-elysian-eclipse.json](./236282-elysian-eclipse.json) |
@@ -7110,6 +7111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extra Terrestrial Perception | 44615 | [44615-extra-terrestrial-perception.json](./44615-extra-terrestrial-perception.json) |
 | Extra Terrestrials | 40778 | [40778-extra-terrestrials.json](./40778-extra-terrestrials.json) |
 | Extract Game | 380154 | [380154-extract-game.json](./380154-extract-game.json) |
+| Extract Me | 212071 | [212071-extract-me.json](./212071-extract-me.json) |
 | ExtracTD | 337675 | [337675-extractd.json](./337675-extractd.json) |
 | Extraction Force | 220021 | [220021-extraction-force.json](./220021-extraction-force.json) |
 | Extraction Point: Alien Shootout | 69140 | [69140-extraction-point-alien-shootout.json](./69140-extraction-point-alien-shootout.json) |
