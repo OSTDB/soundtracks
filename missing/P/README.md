@@ -1493,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Toss VR | 29186 | [29186-paper-toss-vr.json](./29186-paper-toss-vr.json) |
 | Paper Toss: World Tour | 64299 | [64299-paper-toss-world-tour.json](./64299-paper-toss-world-tour.json) |
 | Paper Trail | 142561 | [142561-paper-trail.json](./142561-paper-trail.json) |
+| Paper Trails | 196964 | [196964-paper-trails.json](./196964-paper-trails.json) |
 | Paper Train | 63251 | [63251-paper-train.json](./63251-paper-train.json) |
 | Paper Train: Rush | 422655 | [422655-paper-train-rush.json](./422655-paper-train-rush.json) |
 | Paper Train: Traffic | 18172 | [18172-paper-train-traffic.json](./18172-paper-train-traffic.json) |
@@ -9421,6 +9422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pòjìng Kǒngjù | 160187 | [160187-pojing-kongju.json](./160187-pojing-kongju.json) |
 | Pok The Little Artiste | 279557 | [279557-pok-the-little-artiste.json](./279557-pok-the-little-artiste.json) |
 | Poka-poka Mama Koi Onsen: Mommy's Warm Hot Sprint | 288432 | [288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json](./288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json) |
+| Pokaban | 197006 | [197006-pokaban.json](./197006-pokaban.json) |
 | Pokaboo | 197851 | [197851-pokaboo.json](./197851-pokaboo.json) |
 | Poke a Nose | 405173 | [405173-poke-a-nose.json](./405173-poke-a-nose.json) |
 | Poke Abby | 210464 | [210464-poke-abby.json](./210464-poke-abby.json) |
