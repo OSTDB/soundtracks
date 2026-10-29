@@ -4643,6 +4643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Potato Game | 247951 | [247951-that-potato-game.json](./247951-that-potato-game.json) |
 | That Puzzle Game Everyone Knows | 135023 | [135023-that-puzzle-game-everyone-knows.json](./135023-that-puzzle-game-everyone-knows.json) |
 | That Racecar Game | 241651 | [241651-that-racecar-game.json](./241651-that-racecar-game.json) |
+| That Really Boils My Piss | 187654 | [187654-that-really-boils-my-piss.json](./187654-that-really-boils-my-piss.json) |
 | That Rhyme Game | 241544 | [241544-that-rhyme-game.json](./241544-that-rhyme-game.json) |
 | That Rocket Game | 244356 | [244356-that-rocket-game.json](./244356-that-rocket-game.json) |
 | That Role Playing | 190459 | [190459-that-role-playing.json](./190459-that-role-playing.json) |
@@ -9148,6 +9149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Waldo Search | 275020 | [275020-the-great-waldo-search.json](./275020-the-great-waldo-search.json) |
 | The Great Waldo Search | 48158 | [48158-the-great-waldo-search.json](./48158-the-great-waldo-search.json) |
 | The Great War 3032 | 247368 | [247368-the-great-war-3032.json](./247368-the-great-war-3032.json) |
+| The Great War of Jorth | 187643 | [187643-the-great-war-of-jorth.json](./187643-the-great-war-of-jorth.json) |
 | The Great War of Prefectures | 254348 | [254348-the-great-war-of-prefectures.json](./254348-the-great-war-of-prefectures.json) |
 | The Great War: 1914 | 75115 | [75115-the-great-war-1914.json](./75115-the-great-war-1914.json) |
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
@@ -9898,6 +9900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inquisitor: Book 2 - The Village | 10972 | [10972-the-inquisitor-book-2-the-village.json](./10972-the-inquisitor-book-2-the-village.json) |
 | The Inquisitor: Deluxe Edition | 279150 | [279150-the-inquisitor-deluxe-edition.json](./279150-the-inquisitor-deluxe-edition.json) |
 | The Insect Massacre | 59680 | [59680-the-insect-massacre.json](./59680-the-insect-massacre.json) |
+| The Insector | 187652 | [187652-the-insector.json](./187652-the-insector.json) |
 | The Inseparables | 410209 | [410209-the-inseparables.json](./410209-the-inseparables.json) |
 | The inside of a drawer | 129070 | [129070-the-inside-of-a-drawer.json](./129070-the-inside-of-a-drawer.json) |
 | The Insomnia Town | 182853 | [182853-the-insomnia-town.json](./182853-the-insomnia-town.json) |
@@ -13845,6 +13848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Riftbreaker: Heart of the Swamp | 263033 | [263033-the-riftbreaker-heart-of-the-swamp.json](./263033-the-riftbreaker-heart-of-the-swamp.json) |
 | The Riftbreaker: World Expansion II | 220511 | [220511-the-riftbreaker-world-expansion-ii.json](./220511-the-riftbreaker-world-expansion-ii.json) |
 | The Rifted Skies | 407986 | [407986-the-rifted-skies.json](./407986-the-rifted-skies.json) |
+| The Right Shot | 187656 | [187656-the-right-shot.json](./187656-the-right-shot.json) |
 | The Right Side of Town | 185408 | [185408-the-right-side-of-town.json](./185408-the-right-side-of-town.json) |
 | The Right Todd | 177365 | [177365-the-right-todd.json](./177365-the-right-todd.json) |
 | The Right Turn | 183060 | [183060-the-right-turn.json](./183060-the-right-turn.json) |
@@ -20059,6 +20063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilted: A Tale of Refraction | 51947 | [51947-tilted-a-tale-of-refraction.json](./51947-tilted-a-tale-of-refraction.json) |
 | Tiltfire | 199604 | [199604-tiltfire.json](./199604-tiltfire.json) |
 | Tilting | 416794 | [416794-tilting.json](./416794-tilting.json) |
+| Tilting Tiles | 187683 | [187683-tilting-tiles.json](./187683-tilting-tiles.json) |
 | Tilting Tiles: Fires of Industry | 319945 | [319945-tilting-tiles-fires-of-industry.json](./319945-tilting-tiles-fires-of-industry.json) |
 | Tilting Tiles: Micro Challenge | 250553 | [250553-tilting-tiles-micro-challenge.json](./250553-tilting-tiles-micro-challenge.json) |
 | Tilting Tiles: Ultimate Tilt Remix | 228766 | [228766-tilting-tiles-ultimate-tilt-remix.json](./228766-tilting-tiles-ultimate-tilt-remix.json) |
