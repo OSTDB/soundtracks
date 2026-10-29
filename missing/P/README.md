@@ -3687,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pentaction: Medieval | 174247 | [174247-pentaction-medieval.json](./174247-pentaction-medieval.json) |
 | Pentago! | 311350 | [311350-pentago.json](./311350-pentago.json) |
 | Pentagonal Saloon | 120468 | [120468-pentagonal-saloon.json](./120468-pentagonal-saloon.json) |
+| Pentagons Go Weee | 195370 | [195370-pentagons-go-weee.json](./195370-pentagons-go-weee.json) |
 | Pentagorat | 178839 | [178839-pentagorat.json](./178839-pentagorat.json) |
 | Pentagram | 26394 | [26394-pentagram.json](./26394-pentagram.json) |
 | Pentaloop | 346671 | [346671-pentaloop.json](./346671-pentaloop.json) |
@@ -6708,6 +6709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Shooter Fantasy Survival | 111075 | [111075-pirate-shooter-fantasy-survival.json](./111075-pirate-shooter-fantasy-survival.json) |
 | Pirate Simulator | 149924 | [149924-pirate-simulator.json](./149924-pirate-simulator.json) |
 | Pirate Solitaire | 58844 | [58844-pirate-solitaire.json](./58844-pirate-solitaire.json) |
+| Pirate Solitaire 2 | 195347 | [195347-pirate-solitaire-2.json](./195347-pirate-solitaire-2.json) |
 | Pirate Storm | 23531 | [23531-pirate-storm.json](./23531-pirate-storm.json) |
 | Pirate Story | 163838 | [163838-pirate-story.json](./163838-pirate-story.json) |
 | Pirate Survivors | 341573 | [341573-pirate-survivors.json](./341573-pirate-survivors.json) |
