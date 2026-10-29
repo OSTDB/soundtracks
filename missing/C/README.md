@@ -2235,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards, Universe & Everything | 248154 | [248154-cards-universe-and-everything.json](./248154-cards-universe-and-everything.json) |
 | Cards! MonkeyBox 2 | 174300 | [174300-cards-monkeybox-2.json](./174300-cards-monkeybox-2.json) |
 | CardScrawl | 311591 | [311591-cardscrawl.json](./311591-cardscrawl.json) |
+| Cardseer | 218852 | [218852-cardseer.json](./218852-cardseer.json) |
 | CardShark | 239741 | [239741-cardshark.json](./239741-cardshark.json) |
 | CardShark Hearts | 83479 | [83479-cardshark-hearts.json](./83479-cardshark-hearts.json) |
 | Cardsharp | 417445 | [417445-cardsharp.json](./417445-cardsharp.json) |
@@ -15994,6 +15995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryostasis | 2967 | [2967-cryostasis.json](./2967-cryostasis.json) |
 | Cryowakers | 266428 | [266428-cryowakers.json](./266428-cryowakers.json) |
 | Cryphora | 342288 | [342288-cryphora.json](./342288-cryphora.json) |
+| Crypt | 218837 | [218837-crypt.json](./218837-crypt.json) |
 | Crypt | 320128 | [320128-crypt.json](./320128-crypt.json) |
 | Crypt | 376824 | [376824-crypt.json](./376824-crypt.json) |
 | Crypt Architect | 236269 | [236269-crypt-architect.json](./236269-crypt-architect.json) |
