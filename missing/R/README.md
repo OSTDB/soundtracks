@@ -5041,6 +5041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resortopia | 287627 | [287627-resortopia.json](./287627-resortopia.json) |
 | ReSoul: Jack | 374443 | [374443-resoul-jack.json](./374443-resoul-jack.json) |
 | Resource Recon | 295352 | [295352-resource-recon.json](./295352-resource-recon.json) |
+| Resource War | 214314 | [214314-resource-war.json](./214314-resource-war.json) |
 | Resource War: Soul Squad Alpha | 299420 | [299420-resource-war-soul-squad-alpha.json](./299420-resource-war-soul-squad-alpha.json) |
 | Resourceful.World | 265544 | [265544-resourceful-world.json](./265544-resourceful-world.json) |
 | Resourcer | 245945 | [245945-resourcer.json](./245945-resourcer.json) |
