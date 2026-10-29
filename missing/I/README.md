@@ -2166,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Legacy: The Jade Cipher | 116010 | [116010-immortal-legacy-the-jade-cipher.json](./116010-immortal-legacy-the-jade-cipher.json) |
 | Immortal Legacy: The Jade Cipher - Console Edition | 132851 | [132851-immortal-legacy-the-jade-cipher-console-edition.json](./132851-immortal-legacy-the-jade-cipher-console-edition.json) |
 | Immortal Life | 151738 | [151738-immortal-life.json](./151738-immortal-life.json) |
+| Immortal life of Confucius | 196975 | [196975-immortal-life-of-confucius.json](./196975-immortal-life-of-confucius.json) |
 | Immortal Love: Bitter Awakening | 187951 | [187951-immortal-love-bitter-awakening.json](./187951-immortal-love-bitter-awakening.json) |
 | Immortal Love: Bitter Awakening - Collector's Edition | 358090 | [358090-immortal-love-bitter-awakening-collectors-edition.json](./358090-immortal-love-bitter-awakening-collectors-edition.json) |
 | Immortal Love: Black Lotus | 397121 | [397121-immortal-love-black-lotus.json](./397121-immortal-love-black-lotus.json) |
