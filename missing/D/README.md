@@ -2359,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dauntless | 245139 | [245139-dauntless.json](./245139-dauntless.json) |
 | Dave | 111682 | [111682-dave.json](./111682-dave.json) |
 | Dave a Nice Guy | 365263 | [365263-dave-a-nice-guy.json](./365263-dave-a-nice-guy.json) |
+| Dave Dave Dave | 187081 | [187081-dave-dave-dave.json](./187081-dave-dave-dave.json) |
 | Dave Gnukem | 357381 | [357381-dave-gnukem.json](./357381-dave-gnukem.json) |
 | Dave Goes Nutz! | 11389 | [11389-dave-goes-nutz.json](./11389-dave-goes-nutz.json) |
 | Dave in Danger | 94884 | [94884-dave-in-danger.json](./94884-dave-in-danger.json) |
@@ -7906,6 +7907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Raiders: Anomaly Extraction | 406661 | [406661-dig-raiders-anomaly-extraction.json](./406661-dig-raiders-anomaly-extraction.json) |
 | Dig That Gold | 41523 | [41523-dig-that-gold.json](./41523-dig-that-gold.json) |
 | Dig the Ground | 164226 | [164226-dig-the-ground.json](./164226-dig-the-ground.json) |
+| Dig This! | 186434 | [186434-dig-this.json](./186434-dig-this.json) |
 | Dig to China Simulator | 381564 | [381564-dig-to-china-simulator.json](./381564-dig-to-china-simulator.json) |
 | Dig to Escape | 422101 | [422101-dig-to-escape.json](./422101-dig-to-escape.json) |
 | Dig to Escape: Obby | 393059 | [393059-dig-to-escape-obby.json](./393059-dig-to-escape-obby.json) |
@@ -8850,6 +8852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Station Special Vol. 10 | 190996 | [190996-disc-station-special-vol-10.json](./190996-disc-station-special-vol-10.json) |
 | Disc Station Vol. 17 | 266652 | [266652-disc-station-vol-17.json](./266652-disc-station-vol-17.json) |
 | Discard All Hope | 350614 | [350614-discard-all-hope.json](./350614-discard-all-hope.json) |
+| Discard: A Memory Game | 186440 | [186440-discard-a-memory-game.json](./186440-discard-a-memory-game.json) |
 | Discarded Empire | 244128 | [244128-discarded-empire.json](./244128-discarded-empire.json) |
 | Discarded Memories: Mysteries of the Past | 261838 | [261838-discarded-memories-mysteries-of-the-past.json](./261838-discarded-memories-mysteries-of-the-past.json) |
 | Discarded Stronghold | 272101 | [272101-discarded-stronghold.json](./272101-discarded-stronghold.json) |
@@ -12006,6 +12009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotori | 143600 | [143600-dotori.json](./143600-dotori.json) |
 | Dots | 76631 | [76631-dots.json](./76631-dots.json) |
 | Dots & Boxes | 256165 | [256165-dots-and-boxes.json](./256165-dots-and-boxes.json) |
+| Dots & Co | 186459 | [186459-dots-and-co.json](./186459-dots-and-co.json) |
 | Dots & Co: A Puzzle Adventure | 57149 | [57149-dots-and-co-a-puzzle-adventure.json](./57149-dots-and-co-a-puzzle-adventure.json) |
 | Dots and Boxes - Dino Fury Edition | 107117 | [107117-dots-and-boxes-dino-fury-edition.json](./107117-dots-and-boxes-dino-fury-edition.json) |
 | Dots and Dashes | 188674 | [188674-dots-and-dashes.json](./188674-dots-and-dashes.json) |
@@ -13996,6 +14000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Flash | 118251 | [118251-dream-flash.json](./118251-dream-flash.json) |
 | Dream Football Club | 220843 | [220843-dream-football-club.json](./220843-dream-football-club.json) |
 | Dream Frontier | 301902 | [301902-dream-frontier.json](./301902-dream-frontier.json) |
+| Dream Fruit Farm | 186412 | [186412-dream-fruit-farm.json](./186412-dream-fruit-farm.json) |
 | Dream Game | 411416 | [411416-dream-game.json](./411416-dream-game.json) |
 | Dream Garden | 339968 | [339968-dream-garden.json](./339968-dream-garden.json) |
 | Dream Gate | 45234 | [45234-dream-gate.json](./45234-dream-gate.json) |
