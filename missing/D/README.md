@@ -3143,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island 2: Gold Edition | 214472 | [214472-dead-island-2-gold-edition.json](./214472-dead-island-2-gold-edition.json) |
 | Dead Island 2: Golden Weapons Pack | 304459 | [304459-dead-island-2-golden-weapons-pack.json](./304459-dead-island-2-golden-weapons-pack.json) |
 | Dead Island 2: Haus | 272291 | [272291-dead-island-2-haus.json](./272291-dead-island-2-haus.json) |
+| Dead Island 2: Hell-a Edition | 214874 | [214874-dead-island-2-hell-a-edition.json](./214874-dead-island-2-hell-a-edition.json) |
 | Dead Island 2: Memories of Banoi Pack | 304460 | [304460-dead-island-2-memories-of-banoi-pack.json](./304460-dead-island-2-memories-of-banoi-pack.json) |
 | Dead Island 2: Neighborhood Watch | 316503 | [316503-dead-island-2-neighborhood-watch.json](./316503-dead-island-2-neighborhood-watch.json) |
 | Dead Island 2: Pulp Weapons Pack | 304458 | [304458-dead-island-2-pulp-weapons-pack.json](./304458-dead-island-2-pulp-weapons-pack.json) |
