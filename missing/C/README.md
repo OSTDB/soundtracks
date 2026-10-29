@@ -8377,6 +8377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clarice Clairvoyage | 210995 | [210995-clarice-clairvoyage.json](./210995-clarice-clairvoyage.json) |
 | Clarice: The Storyteller | 216597 | [216597-clarice-the-storyteller.json](./216597-clarice-the-storyteller.json) |
 | Clarisse | 56425 | [56425-clarisse.json](./56425-clarisse.json) |
+| Clarity in Qualia | 210424 | [210424-clarity-in-qualia.json](./210424-clarity-in-qualia.json) |
 | Clarity of the Soul | 181001 | [181001-clarity-of-the-soul.json](./181001-clarity-of-the-soul.json) |
 | Clarity: The Seven Demons of Vanguardia | 262791 | [262791-clarity-the-seven-demons-of-vanguardia.json](./262791-clarity-the-seven-demons-of-vanguardia.json) |
 | Clark: Hoova VR | 82067 | [82067-clark-hoova-vr.json](./82067-clark-hoova-vr.json) |
@@ -9192,6 +9193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
 | Clothes Forever - Styling Game | 90674 | [90674-clothes-forever-styling-game.json](./90674-clothes-forever-styling-game.json) |
 | Clothing | 314234 | [314234-clothing.json](./314234-clothing.json) |
+| Clothing & Alterations | 210426 | [210426-clothing-and-alterations.json](./210426-clothing-and-alterations.json) |
 | Clothing Boutique Simulator: Store Manager | 370802 | [370802-clothing-boutique-simulator-store-manager.json](./370802-clothing-boutique-simulator-store-manager.json) |
 | Clothing Store Simulator | 300492 | [300492-clothing-store-simulator.json](./300492-clothing-store-simulator.json) |
 | Clothing Store Simulator | 381799 | [381799-clothing-store-simulator.json](./381799-clothing-store-simulator.json) |
