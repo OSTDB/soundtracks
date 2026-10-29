@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Wars: Limited Edition | 116796 | [116796-sakura-wars-limited-edition.json](./116796-sakura-wars-limited-edition.json) |
 | Sakura Wars: So Long, My Love | 5136 | [5136-sakura-wars-so-long-my-love.json](./5136-sakura-wars-so-long-my-love.json) |
 | Sakura X Clash: Last Millennial Spring | 213603 | [213603-sakura-x-clash-last-millennial-spring.json](./213603-sakura-x-clash-last-millennial-spring.json) |
+| Sakura-iro Dreamer | 214870 | [214870-sakura-iro-dreamer.json](./214870-sakura-iro-dreamer.json) |
 | Sakura-iro Tetra Prism | 325451 | [325451-sakura-iro-tetra-prism.json](./325451-sakura-iro-tetra-prism.json) |
 | Sakura-sou no Pet na Kanojo | 139742 | [139742-sakura-sou-no-pet-na-kanojo.json](./139742-sakura-sou-no-pet-na-kanojo.json) |
 | Sakura, Moyu.: As the Night's, Reincarnation | 137106 | [137106-sakura-moyu-as-the-nights-reincarnation.json](./137106-sakura-moyu-as-the-nights-reincarnation.json) |
@@ -13395,6 +13396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Kids | 135888 | [135888-snow-kids.json](./135888-snow-kids.json) |
 | Snow Kingdom | 246544 | [246544-snow-kingdom.json](./246544-snow-kingdom.json) |
 | Snow Light | 17961 | [17961-snow-light.json](./17961-snow-light.json) |
+| Snow Line | 214887 | [214887-snow-line.json](./214887-snow-line.json) |
 | Snow Madness | 224201 | [224201-snow-madness.json](./224201-snow-madness.json) |
 | Snow Magic Piano Tiles | 96222 | [96222-snow-magic-piano-tiles.json](./96222-snow-magic-piano-tiles.json) |
 | Snow Memoria: Wasureenu Omoi | 77675 | [77675-snow-memoria-wasureenu-omoi.json](./77675-snow-memoria-wasureenu-omoi.json) |
@@ -13829,6 +13831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Wind Shot | 233736 | [233736-soccer-wind-shot.json](./233736-soccer-wind-shot.json) |
 | Soccer World | 321228 | [321228-soccer-world.json](./321228-soccer-world.json) |
 | Soccer World Cap | 241550 | [241550-soccer-world-cap.json](./241550-soccer-world-cap.json) |
+| Soccer: Breakthrough Gaming Arcade - Challenge Mode Edition | 214904 | [214904-soccer-breakthrough-gaming-arcade-challenge-mode-edition.json](./214904-soccer-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Soccer: Goal Keeper cup | 232314 | [232314-soccer-goal-keeper-cup.json](./232314-soccer-goal-keeper-cup.json) |
 | Soccer: Kick the Goal | 245404 | [245404-soccer-kick-the-goal.json](./245404-soccer-kick-the-goal.json) |
 | Soccerboy vs. Aliens | 406229 | [406229-soccerboy-vs-aliens.json](./406229-soccerboy-vs-aliens.json) |
@@ -24914,6 +24917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroke the Cat | 217915 | [217915-stroke-the-cat.json](./217915-stroke-the-cat.json) |
 | Stroke the Cow | 228017 | [228017-stroke-the-cow.json](./228017-stroke-the-cow.json) |
 | Stroke The Dik-Dik | 251640 | [251640-stroke-the-dik-dik.json](./251640-stroke-the-dik-dik.json) |
+| Stroke the Dog | 214902 | [214902-stroke-the-dog.json](./214902-stroke-the-dog.json) |
 | Stroke the Fish | 220342 | [220342-stroke-the-fish.json](./220342-stroke-the-fish.json) |
 | Stroke the Hamster | 218563 | [218563-stroke-the-hamster.json](./218563-stroke-the-hamster.json) |
 | Stroke the Hedgehog | 218564 | [218564-stroke-the-hedgehog.json](./218564-stroke-the-hedgehog.json) |
