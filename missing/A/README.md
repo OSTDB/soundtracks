@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Way Down | 101328 | [101328-a-long-way-down.json](./101328-a-long-way-down.json) |
 | A Long Way Home | 180805 | [180805-a-long-way-home.json](./180805-a-long-way-home.json) |
 | A Long Way Home | 33077 | [33077-a-long-way-home.json](./33077-a-long-way-home.json) |
+| A Long Way Home: Director's Cut | 201938 | [201938-a-long-way-home-directors-cut.json](./201938-a-long-way-home-directors-cut.json) |
 | A Long Way Through a Pastel Universe | 178920 | [178920-a-long-way-through-a-pastel-universe.json](./178920-a-long-way-through-a-pastel-universe.json) |
 | A Long Way to the Nearest Star | 237440 | [237440-a-long-way-to-the-nearest-star.json](./237440-a-long-way-to-the-nearest-star.json) |
 | A look into... | 235040 | [235040-a-look-into.json](./235040-a-look-into.json) |
@@ -2690,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam and Eve: Crossy River | 233509 | [233509-adam-and-eve-crossy-river.json](./233509-adam-and-eve-crossy-river.json) |
 | Adam and Eve: The Game - Chapter 1 | 33513 | [33513-adam-and-eve-the-game-chapter-1.json](./33513-adam-and-eve-the-game-chapter-1.json) |
 | Adam Blaster: Atomic Enforcer | 73362 | [73362-adam-blaster-atomic-enforcer.json](./73362-adam-blaster-atomic-enforcer.json) |
+| Adam Jump Combo | 201941 | [201941-adam-jump-combo.json](./201941-adam-jump-combo.json) |
 | Adam N Eve 4 | 393320 | [393320-adam-n-eve-4.json](./393320-adam-n-eve-4.json) |
 | Adam Savage's Tested VR | 174554 | [174554-adam-savages-tested-vr.json](./174554-adam-savages-tested-vr.json) |
 | Adam the Storyteller | 157454 | [157454-adam-the-storyteller.json](./157454-adam-the-storyteller.json) |
@@ -6525,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allergy Assassin | 180717 | [180717-allergy-assassin.json](./180717-allergy-assassin.json) |
 | Alleviate | 326274 | [326274-alleviate.json](./326274-alleviate.json) |
 | Alley 19 Bowling | 401302 | [401302-alley-19-bowling.json](./401302-alley-19-bowling.json) |
+| Alley Cat: Remeow Edition | 201957 | [201957-alley-cat-remeow-edition.json](./201957-alley-cat-remeow-edition.json) |
 | Alley Cats | 206108 | [206108-alley-cats.json](./206108-alley-cats.json) |
 | Alley Master | 40243 | [40243-alley-master.json](./40243-alley-master.json) |
 | Alley Nine | 293550 | [293550-alley-nine.json](./293550-alley-nine.json) |
