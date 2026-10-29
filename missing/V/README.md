@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veggies vs. Undead | 290659 | [290659-veggies-vs-undead.json](./290659-veggies-vs-undead.json) |
 | Veggies War | 224672 | [224672-veggies-war.json](./224672-veggies-war.json) |
 | VeggieTales: Bushels of Fun! | 206062 | [206062-veggietales-bushels-of-fun.json](./206062-veggietales-bushels-of-fun.json) |
+| VeggieTales: Dance, Dance, Dance | 205946 | [205946-veggietales-dance-dance-dance.json](./205946-veggietales-dance-dance-dance.json) |
 | VeggieTales: LarryBoy and the Bad Apple | 248629 | [248629-veggietales-larryboy-and-the-bad-apple.json](./248629-veggietales-larryboy-and-the-bad-apple.json) |
 | VeggieTales: LarryBoy and the Bad Apple | 49374 | [49374-veggietales-larryboy-and-the-bad-apple.json](./49374-veggietales-larryboy-and-the-bad-apple.json) |
 | Veggy World | 51156 | [51156-veggy-world.json](./51156-veggy-world.json) |
@@ -3029,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidwalkers: Soul Hunters | 170931 | [170931-voidwalkers-soul-hunters.json](./170931-voidwalkers-soul-hunters.json) |
 | Voidwalkers: The Gates of Hell - Death to the Heretics! | 208338 | [208338-voidwalkers-the-gates-of-hell-death-to-the-heretics.json](./208338-voidwalkers-the-gates-of-hell-death-to-the-heretics.json) |
 | Voidwalkers: The Gates of Hell - Hell's Dungeon | 205036 | [205036-voidwalkers-the-gates-of-hell-hells-dungeon.json](./205036-voidwalkers-the-gates-of-hell-hells-dungeon.json) |
+| Voidwalkers: The Gates of Hell - The Devil's Towers | 205856 | [205856-voidwalkers-the-gates-of-hell-the-devils-towers.json](./205856-voidwalkers-the-gates-of-hell-the-devils-towers.json) |
 | Voidwell | 384040 | [384040-voidwell.json](./384040-voidwell.json) |
 | Voidwood | 413180 | [413180-voidwood.json](./413180-voidwood.json) |
 | Voidwrought | 288487 | [288487-voidwrought.json](./288487-voidwrought.json) |
