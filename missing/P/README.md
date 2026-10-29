@@ -3962,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfectly Perilous Provisions | 135630 | [135630-perfectly-perilous-provisions.json](./135630-perfectly-perilous-provisions.json) |
 | Performan | 40405 | [40405-performan.json](./40405-performan.json) |
 | Performous | 63242 | [63242-performous.json](./63242-performous.json) |
+| Perfumare | 179864 | [179864-perfumare.json](./179864-perfumare.json) |
 | Perfume Atelier | 366944 | [366944-perfume-atelier.json](./366944-perfume-atelier.json) |
 | Perhaps When We Dream | 114945 | [114945-perhaps-when-we-dream.json](./114945-perhaps-when-we-dream.json) |
 | Peria Chronicles | 61692 | [61692-peria-chronicles.json](./61692-peria-chronicles.json) |
@@ -5618,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigbook | 278936 | [278936-pigbook.json](./278936-pigbook.json) |
 | Pigebomb | 307228 | [307228-pigebomb.json](./307228-pigebomb.json) |
 | Pigeon | 311457 | [311457-pigeon.json](./311457-pigeon.json) |
+| Pigeon Ascent | 179842 | [179842-pigeon-ascent.json](./179842-pigeon-ascent.json) |
 | Pigeon Coo-lette | 362394 | [362394-pigeon-coo-lette.json](./362394-pigeon-coo-lette.json) |
 | Pigeon Dev Games Collection | 140914 | [140914-pigeon-dev-games-collection.json](./140914-pigeon-dev-games-collection.json) |
 | Pigeon Game | 180442 | [180442-pigeon-game.json](./180442-pigeon-game.json) |
