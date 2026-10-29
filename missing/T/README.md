@@ -1283,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales to Enjoy! The Ugly Duckling | 85426 | [85426-tales-to-enjoy-the-ugly-duckling.json](./85426-tales-to-enjoy-the-ugly-duckling.json) |
 | Tales to Enjoy! Three Little Pigs | 85425 | [85425-tales-to-enjoy-three-little-pigs.json](./85425-tales-to-enjoy-three-little-pigs.json) |
 | Tales We Tell Ourselves | 144122 | [144122-tales-we-tell-ourselves.json](./144122-tales-we-tell-ourselves.json) |
+| Tales Weaver: Second Run | 210417 | [210417-tales-weaver-second-run.json](./210417-tales-weaver-second-run.json) |
 | Talescape | 379423 | [379423-talescape.json](./379423-talescape.json) |
 | Talespinner | 190106 | [190106-talespinner.json](./190106-talespinner.json) |
 | TaleSpire: Guest Edition | 316393 | [316393-talespire-guest-edition.json](./316393-talespire-guest-edition.json) |
@@ -22248,6 +22249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater 3 | 234861 | [234861-tony-hawks-pro-skater-3.json](./234861-tony-hawks-pro-skater-3.json) |
 | Tony Hawk's Pro Skater 3 | 334248 | [334248-tony-hawks-pro-skater-3.json](./334248-tony-hawks-pro-skater-3.json) |
 | Tony Hawk's Pro Skater 3+4 | 334243 | [334243-tony-hawks-pro-skater-3-4.json](./334243-tony-hawks-pro-skater-3-4.json) |
+| Tony Hawk's Pro Skater 4 | 210434 | [210434-tony-hawks-pro-skater-4.json](./210434-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Pro Skater 4 | 334249 | [334249-tony-hawks-pro-skater-4.json](./334249-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Pro Skater 4 | 915 | [915-tony-hawks-pro-skater-4.json](./915-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Pro Skater 4 Street | 23754 | [23754-tony-hawks-pro-skater-4-street.json](./23754-tony-hawks-pro-skater-4-street.json) |
@@ -22261,6 +22263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Shred Session | 79819 | [79819-tony-hawks-shred-session.json](./79819-tony-hawks-shred-session.json) |
 | Tony Hawk's Skate Jam | 112920 | [112920-tony-hawks-skate-jam.json](./112920-tony-hawks-skate-jam.json) |
 | Tony Hawk's Sonic McOrigins Plus Christmas | 279726 | [279726-tony-hawks-sonic-mcorigins-plus-christmas.json](./279726-tony-hawks-sonic-mcorigins-plus-christmas.json) |
+| Tony Hawk's Underground | 210430 | [210430-tony-hawks-underground.json](./210430-tony-hawks-underground.json) |
 | Tony Hawk's Underground | 2698 | [2698-tony-hawks-underground.json](./2698-tony-hawks-underground.json) |
 | Tony Hawk's Underground 2 | 2699 | [2699-tony-hawks-underground-2.json](./2699-tony-hawks-underground-2.json) |
 | Tony Hawk's Underground 2: Ricco Harbor | 314451 | [314451-tony-hawks-underground-2-ricco-harbor.json](./314451-tony-hawks-underground-2-ricco-harbor.json) |
@@ -23227,6 +23230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Fumo Racing | 193872 | [193872-touhou-fumo-racing.json](./193872-touhou-fumo-racing.json) |
 | Touhou Fuumaroku: The Story of Eastern Wind | 375562 | [375562-touhou-fuumaroku-the-story-of-eastern-wind.json](./375562-touhou-fuumaroku-the-story-of-eastern-wind.json) |
 | Touhou Fuumaroku: The Story of Eastern Wonderland | 45966 | [45966-touhou-fuumaroku-the-story-of-eastern-wonderland.json](./45966-touhou-fuumaroku-the-story-of-eastern-wonderland.json) |
+| Touhou Fuuseigyou: Sealing Treasure and Fairies | 210396 | [210396-touhou-fuuseigyou-sealing-treasure-and-fairies.json](./210396-touhou-fuuseigyou-sealing-treasure-and-fairies.json) |
 | Touhou Gaiden | 404961 | [404961-touhou-gaiden.json](./404961-touhou-gaiden.json) |
 | Touhou Gakuen Ki: Shippuu no Shou | 201176 | [201176-touhou-gakuen-ki-shippuu-no-shou.json](./201176-touhou-gakuen-ki-shippuu-no-shou.json) |
 | Touhou Gekkatan | 214352 | [214352-touhou-gekkatan.json](./214352-touhou-gekkatan.json) |
