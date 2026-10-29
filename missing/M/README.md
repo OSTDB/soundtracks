@@ -2311,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makeup Artist | 400056 | [400056-makeup-artist.json](./400056-makeup-artist.json) |
 | Makeup ASMR: Makeover Story | 355866 | [355866-makeup-asmr-makeover-story.json](./355866-makeup-asmr-makeover-story.json) |
 | Makeup Girls - Wedding Dress Up & Make Up Game for girls, by Pazu | 107072 | [107072-makeup-girls-wedding-dress-up-and-make-up-game-for-girls-by-pazu.json](./107072-makeup-girls-wedding-dress-up-and-make-up-game-for-girls-by-pazu.json) |
+| Makeup Master: Beauty Salon | 188250 | [188250-makeup-master-beauty-salon.json](./188250-makeup-master-beauty-salon.json) |
 | Makeup Stylist: DIY Makeup Game | 208971 | [208971-makeup-stylist-diy-makeup-game.json](./208971-makeup-stylist-diy-makeup-game.json) |
 | Maki Coco | 183316 | [183316-maki-coco.json](./183316-maki-coco.json) |
 | Maki Fes! | 186615 | [186615-maki-fes.json](./186615-maki-fes.json) |
@@ -9142,6 +9143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MGA's Pocket LCD Games: Basketball | 245442 | [245442-mgas-pocket-lcd-games-basketball.json](./245442-mgas-pocket-lcd-games-basketball.json) |
 | MGCM Combat Edition | 264805 | [264805-mgcm-combat-edition.json](./264805-mgcm-combat-edition.json) |
 | MGCM Combat Edition: DLC Char: Kamisaman (Isana Hakari) | 293455 | [293455-mgcm-combat-edition-dlc-char-kamisaman-isana-hakari.json](./293455-mgcm-combat-edition-dlc-char-kamisaman-isana-hakari.json) |
+| MGCM Magical Girls | 188247 | [188247-mgcm-magical-girls.json](./188247-mgcm-magical-girls.json) |
 | MGM Slots Live | 370750 | [370750-mgm-slots-live.json](./370750-mgm-slots-live.json) |
 | MGP Manager | 260382 | [260382-mgp-manager.json](./260382-mgp-manager.json) |
 | MH-Zombie | 194866 | [194866-mh-zombie.json](./194866-mh-zombie.json) |
@@ -10230,6 +10232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko-san Fighter! Ryouko-chan | 395756 | [395756-miko-san-fighter-ryouko-chan.json](./395756-miko-san-fighter-ryouko-chan.json) |
 | Miko-san no Miracle Board | 374956 | [374956-miko-san-no-miracle-board.json](./374956-miko-san-no-miracle-board.json) |
 | Mikone Douchuu | 206037 | [206037-mikone-douchuu.json](./206037-mikone-douchuu.json) |
+| Mikonote | 188268 | [188268-mikonote.json](./188268-mikonote.json) |
 | Mikoshi | 191200 | [191200-mikoshi.json](./191200-mikoshi.json) |
 | Mikoto Memory | 314832 | [314832-mikoto-memory.json](./314832-mikoto-memory.json) |
 | MikoVerse | 288148 | [288148-mikoverse.json](./288148-mikoverse.json) |
@@ -11794,6 +11797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage | 76903 | [76903-mirage.json](./76903-mirage.json) |
 | Mirage 7 | 316728 | [316728-mirage-7.json](./316728-mirage-7.json) |
 | Mirage In Darkness | 211810 | [211810-mirage-in-darkness.json](./211810-mirage-in-darkness.json) |
+| Mirage Memorial | 188241 | [188241-mirage-memorial.json](./188241-mirage-memorial.json) |
 | Mirage Motel | 183061 | [183061-mirage-motel.json](./183061-mirage-motel.json) |
 | Mirage Noir | 309655 | [309655-mirage-noir.json](./309655-mirage-noir.json) |
 | Mirage of Dragon | 84021 | [84021-mirage-of-dragon.json](./84021-mirage-of-dragon.json) |
@@ -13785,6 +13789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Dice | 175649 | [175649-monster-dice.json](./175649-monster-dice.json) |
 | Monster DNA | 307413 | [307413-monster-dna.json](./307413-monster-dna.json) |
 | Monster Dot | 76154 | [76154-monster-dot.json](./76154-monster-dot.json) |
+| Monster Dream Company | 188239 | [188239-monster-dream-company.json](./188239-monster-dream-company.json) |
 | Monster Dungeon | 192666 | [192666-monster-dungeon.json](./192666-monster-dungeon.json) |
 | Monster Dunk | 130333 | [130333-monster-dunk.json](./130333-monster-dunk.json) |
 | Monster Dynamite | 115752 | [115752-monster-dynamite.json](./115752-monster-dynamite.json) |
