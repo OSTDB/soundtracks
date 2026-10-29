@@ -5129,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physio Fun Balance Training | 84828 | [84828-physio-fun-balance-training.json](./84828-physio-fun-balance-training.json) |
 | Physiofun: Pelvic Floor Training | 84827 | [84827-physiofun-pelvic-floor-training.json](./84827-physiofun-pelvic-floor-training.json) |
 | Physix Break | 105734 | [105734-physix-break.json](./105734-physix-break.json) |
+| PhyTetris: Physics Tetris | 195903 | [195903-phytetris-physics-tetris.json](./195903-phytetris-physics-tetris.json) |
 | Phyto | 285943 | [285943-phyto.json](./285943-phyto.json) |
 | Phytomancer | 175886 | [175886-phytomancer.json](./175886-phytomancer.json) |
 | PhyxBox | 127873 | [127873-phyxbox.json](./127873-phyxbox.json) |
@@ -7133,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Ninja Otedama R | 247487 | [247487-pixel-game-maker-series-ninja-otedama-r.json](./247487-pixel-game-maker-series-ninja-otedama-r.json) |
 | Pixel Game Maker Series: Ninja Runner | 270811 | [270811-pixel-game-maker-series-ninja-runner.json](./270811-pixel-game-maker-series-ninja-runner.json) |
 | Pixel Game Maker Series: Ninja Sneaking R | 215114 | [215114-pixel-game-maker-series-ninja-sneaking-r.json](./215114-pixel-game-maker-series-ninja-sneaking-r.json) |
+| Pixel Game Maker Series: Oma2ri Adventure | 195867 | [195867-pixel-game-maker-series-oma2ri-adventure.json](./195867-pixel-game-maker-series-oma2ri-adventure.json) |
 | Pixel Game Maker Series: Pearl vs Grey | 227845 | [227845-pixel-game-maker-series-pearl-vs-grey.json](./227845-pixel-game-maker-series-pearl-vs-grey.json) |
 | Pixel Game Maker Series: Rocket Frog | 335354 | [335354-pixel-game-maker-series-rocket-frog.json](./335354-pixel-game-maker-series-rocket-frog.json) |
 | Pixel Game Maker Series: Storm Swordsman | 277520 | [277520-pixel-game-maker-series-storm-swordsman.json](./277520-pixel-game-maker-series-storm-swordsman.json) |
