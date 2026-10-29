@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Shade Darker Than Gray | 338167 | [338167-a-shade-darker-than-gray.json](./338167-a-shade-darker-than-gray.json) |
 | A Shadow in Space | 383719 | [383719-a-shadow-in-space.json](./383719-a-shadow-in-space.json) |
 | A Shadow of Time | 247966 | [247966-a-shadow-of-time.json](./247966-a-shadow-of-time.json) |
+| A Shadow Over Freddy's | 209259 | [209259-a-shadow-over-freddys.json](./209259-a-shadow-over-freddys.json) |
 | A Shaman's Ballard | 237229 | [237229-a-shamans-ballard.json](./237229-a-shamans-ballard.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
 | A Shelter Full of Cats | 314113 | [314113-a-shelter-full-of-cats.json](./314113-a-shelter-full-of-cats.json) |
@@ -9450,6 +9451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Eye | 151613 | [151613-another-eye.json](./151613-another-eye.json) |
 | Another Farm Roguelike | 214201 | [214201-another-farm-roguelike.json](./214201-another-farm-roguelike.json) |
 | Another Farm Roguelike: Rebirth | 283914 | [283914-another-farm-roguelike-rebirth.json](./283914-another-farm-roguelike-rebirth.json) |
+| Another FNaF Fangame: Open Source | 209285 | [209285-another-fnaf-fangame-open-source.json](./209285-another-fnaf-fangame-open-source.json) |
 | Another FPS Game | 150774 | [150774-another-fps-game.json](./150774-another-fps-game.json) |
 | Another Game About Clicking | 348859 | [348859-another-game-about-clicking.json](./348859-another-game-about-clicking.json) |
 | Another Generic Space Shooter | 202594 | [202594-another-generic-space-shooter.json](./202594-another-generic-space-shooter.json) |
