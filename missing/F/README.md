@@ -5950,6 +5950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Simulator | 109306 | [109306-fishing-simulator.json](./109306-fishing-simulator.json) |
 | Fishing Simulator | 202042 | [202042-fishing-simulator.json](./202042-fishing-simulator.json) |
 | Fishing Simulator 2025 | 345120 | [345120-fishing-simulator-2025.json](./345120-fishing-simulator-2025.json) |
+| Fishing Simulator 2D | 185278 | [185278-fishing-simulator-2d.json](./185278-fishing-simulator-2d.json) |
 | Fishing Star | 85837 | [85837-fishing-star.json](./85837-fishing-star.json) |
 | Fishing Star | 86356 | [86356-fishing-star.json](./86356-fishing-star.json) |
 | Fishing Stories | 244219 | [244219-fishing-stories.json](./244219-fishing-stories.json) |
@@ -6489,6 +6490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flanker 2.0 | 708 | [708-flanker-2-0.json](./708-flanker-2-0.json) |
 | Flanker 2.5 | 709 | [709-flanker-2-5.json](./709-flanker-2-5.json) |
 | Flanker: Call of the Ghost | 353792 | [353792-flanker-call-of-the-ghost.json](./353792-flanker-call-of-the-ghost.json) |
+| Flannel Amethyst | 185276 | [185276-flannel-amethyst.json](./185276-flannel-amethyst.json) |
 | Flannville | 288645 | [288645-flannville.json](./288645-flannville.json) |
 | Flannville 2 | 288646 | [288646-flannville-2.json](./288646-flannville-2.json) |
 | Flap Demon | 158646 | [158646-flap-demon.json](./158646-flap-demon.json) |
@@ -8684,6 +8686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forge of Gods | 33021 | [33021-forge-of-gods.json](./33021-forge-of-gods.json) |
 | Forge of Neon 3D | 90350 | [90350-forge-of-neon-3d.json](./90350-forge-of-neon-3d.json) |
 | Forge of Titans | 120223 | [120223-forge-of-titans.json](./120223-forge-of-titans.json) |
+| Forge Party | 185270 | [185270-forge-party.json](./185270-forge-party.json) |
 | Forge Quest | 16652 | [16652-forge-quest.json](./16652-forge-quest.json) |
 | Forge Simulator | 302811 | [302811-forge-simulator.json](./302811-forge-simulator.json) |
 | Forge the Fates | 361765 | [361765-forge-the-fates.json](./361765-forge-the-fates.json) |
@@ -10213,6 +10216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Heroes of Might and Magic II: Resurrection | 186606 | [186606-free-heroes-of-might-and-magic-ii-resurrection.json](./186606-free-heroes-of-might-and-magic-ii-resurrection.json) |
 | Free Hugs Inc. | 178566 | [178566-free-hugs-inc.json](./178566-free-hugs-inc.json) |
 | Free Icecream | 328404 | [328404-free-icecream.json](./328404-free-icecream.json) |
+| Free Jazz Party Animals | 185271 | [185271-free-jazz-party-animals.json](./185271-free-jazz-party-animals.json) |
 | Free Lives Collection | 300781 | [300781-free-lives-collection.json](./300781-free-lives-collection.json) |
 | Free Ninja | 317635 | [317635-free-ninja.json](./317635-free-ninja.json) |
 | Free Puzzle | 407946 | [407946-free-puzzle.json](./407946-free-puzzle.json) |
@@ -11830,6 +11834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fungus Reaper | 248882 | [248882-fungus-reaper.json](./248882-fungus-reaper.json) |
 | Fungus World | 344020 | [344020-fungus-world.json](./344020-fungus-world.json) |
 | Funguys Swarm | 332851 | [332851-funguys-swarm.json](./332851-funguys-swarm.json) |
+| Fungy | 185268 | [185268-fungy.json](./185268-fungy.json) |
 | Funi Raccoon Game | 333975 | [333975-funi-raccoon-game.json](./333975-funi-raccoon-game.json) |
 | Funimal: Fusion Animal | 378848 | [378848-funimal-fusion-animal.json](./378848-funimal-fusion-animal.json) |
 | Funk of Titans | 20309 | [20309-funk-of-titans.json](./20309-funk-of-titans.json) |
