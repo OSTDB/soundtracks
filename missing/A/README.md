@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Plague Tale: Innocence - Cloud Version | 152484 | [152484-a-plague-tale-innocence-cloud-version.json](./152484-a-plague-tale-innocence-cloud-version.json) |
 | A Plague Tale: Innocence - Coats of Arms | 118201 | [118201-a-plague-tale-innocence-coats-of-arms.json](./118201-a-plague-tale-innocence-coats-of-arms.json) |
 | A Plague Tale: Requiem - Cloud Version | 206817 | [206817-a-plague-tale-requiem-cloud-version.json](./206817-a-plague-tale-requiem-cloud-version.json) |
+| A Plague Tale: Requiem - Collector's Edition | 192024 | [192024-a-plague-tale-requiem-collectors-edition.json](./192024-a-plague-tale-requiem-collectors-edition.json) |
 | A Plague Tale: Requiem - Protector Pack | 223447 | [223447-a-plague-tale-requiem-protector-pack.json](./223447-a-plague-tale-requiem-protector-pack.json) |
 | A Planet Full of Cats | 347109 | [347109-a-planet-full-of-cats.json](./347109-a-planet-full-of-cats.json) |
 | A Planet of Mine Mastermine Edition | 372521 | [372521-a-planet-of-mine-mastermine-edition.json](./372521-a-planet-of-mine-mastermine-edition.json) |
@@ -1154,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Thousand Mouths to Scream | 338179 | [338179-a-thousand-mouths-to-scream.json](./338179-a-thousand-mouths-to-scream.json) |
 | A thousand words that I could tell you | 257539 | [257539-a-thousand-words-that-i-could-tell-you.json](./257539-a-thousand-words-that-i-could-tell-you.json) |
 | A Thousand Words to Tell I Love You | 183791 | [183791-a-thousand-words-to-tell-i-love-you.json](./183791-a-thousand-words-to-tell-i-love-you.json) |
+| A Thousand Years | 192004 | [192004-a-thousand-years.json](./192004-a-thousand-years.json) |
 | A Thread Between | 391006 | [391006-a-thread-between.json](./391006-a-thread-between.json) |
 | A Thug's Ascension | 250817 | [250817-a-thugs-ascension.json](./250817-a-thugs-ascension.json) |
 | A Ticket to Ride | 100037 | [100037-a-ticket-to-ride.json](./100037-a-ticket-to-ride.json) |
@@ -1626,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Book 3D: Learn English | 377423 | [377423-abc-book-3d-learn-english.json](./377423-abc-book-3d-learn-english.json) |
 | ABC Coloring Town | 32556 | [32556-abc-coloring-town.json](./32556-abc-coloring-town.json) |
 | ABC Flappy | 188838 | [188838-abc-flappy.json](./188838-abc-flappy.json) |
+| ABC Follow Me: Animals | 192054 | [192054-abc-follow-me-animals.json](./192054-abc-follow-me-animals.json) |
 | ABC Follow Me: Food Festival | 231039 | [231039-abc-follow-me-food-festival.json](./231039-abc-follow-me-food-festival.json) |
 | ABC Hide and Seek | 351424 | [351424-abc-hide-and-seek.json](./351424-abc-hide-and-seek.json) |
 | ABC Hunt | 74977 | [74977-abc-hunt.json](./74977-abc-hunt.json) |
@@ -2609,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Study Runner | 379472 | [379472-action-study-runner.json](./379472-action-study-runner.json) |
 | Action Supercross | 50393 | [50393-action-supercross.json](./50393-action-supercross.json) |
 | Action-Strategy Baseball | 72966 | [72966-action-strategy-baseball.json](./72966-action-strategy-baseball.json) |
+| Action: Source | 192032 | [192032-action-source.json](./192032-action-source.json) |
 | Action: Vengeance | 212641 | [212641-action-vengeance.json](./212641-action-vengeance.json) |
 | Actionauts | 40658 | [40658-actionauts.json](./40658-actionauts.json) |
 | ActionCam: Supernatural Case | 333529 | [333529-actioncam-supernatural-case.json](./333529-actioncam-supernatural-case.json) |
@@ -7666,6 +7670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ammo and Oxygen | 264568 | [264568-ammo-and-oxygen.json](./264568-ammo-and-oxygen.json) |
 | Ammo Garden | 336574 | [336574-ammo-garden.json](./336574-ammo-garden.json) |
 | Ammo Pigs: Armed and Delicious | 107889 | [107889-ammo-pigs-armed-and-delicious.json](./107889-ammo-pigs-armed-and-delicious.json) |
+| Ammo Pigs: Cocked and Loaded | 192012 | [192012-ammo-pigs-cocked-and-loaded.json](./192012-ammo-pigs-cocked-and-loaded.json) |
 | Ammo Station Simulator | 390274 | [390274-ammo-station-simulator.json](./390274-ammo-station-simulator.json) |
 | Ammossum | 275884 | [275884-ammossum.json](./275884-ammossum.json) |
 | Ammotrack | 93993 | [93993-ammotrack.json](./93993-ammotrack.json) |
@@ -10841,6 +10846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Cyber Cycles | 414882 | [414882-arcade-archives-cyber-cycles.json](./414882-arcade-archives-cyber-cycles.json) |
 | Arcade Archives: Dacholer | 370269 | [370269-arcade-archives-dacholer.json](./370269-arcade-archives-dacholer.json) |
 | Arcade Archives: Daioh | 274896 | [274896-arcade-archives-daioh.json](./274896-arcade-archives-daioh.json) |
+| Arcade Archives: Dangerous Seed | 192029 | [192029-arcade-archives-dangerous-seed.json](./192029-arcade-archives-dangerous-seed.json) |
 | Arcade Archives: Darius | 121426 | [121426-arcade-archives-darius.json](./121426-arcade-archives-darius.json) |
 | Arcade Archives: Dead Connection | 334087 | [334087-arcade-archives-dead-connection.json](./334087-arcade-archives-dead-connection.json) |
 | Arcade Archives: Dig Dug | 212615 | [212615-arcade-archives-dig-dug.json](./212615-arcade-archives-dig-dug.json) |
@@ -10950,6 +10956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Naughty Boy | 147113 | [147113-arcade-archives-naughty-boy.json](./147113-arcade-archives-naughty-boy.json) |
 | Arcade Archives: Navarone | 243167 | [243167-arcade-archives-navarone.json](./243167-arcade-archives-navarone.json) |
 | Arcade Archives: Nebulasray | 343727 | [343727-arcade-archives-nebulasray.json](./343727-arcade-archives-nebulasray.json) |
+| Arcade Archives: New Rally-X | 192059 | [192059-arcade-archives-new-rally-x.json](./192059-arcade-archives-new-rally-x.json) |
 | Arcade Archives: Ninja Emaki | 307631 | [307631-arcade-archives-ninja-emaki.json](./307631-arcade-archives-ninja-emaki.json) |
 | Arcade Archives: Ninja Gaiden | 118286 | [118286-arcade-archives-ninja-gaiden.json](./118286-arcade-archives-ninja-gaiden.json) |
 | Arcade Archives: Ninja Kazan | 147114 | [147114-arcade-archives-ninja-kazan.json](./147114-arcade-archives-ninja-kazan.json) |
@@ -11065,6 +11072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Thunder Ceptor II | 242052 | [242052-arcade-archives-thunder-ceptor-ii.json](./242052-arcade-archives-thunder-ceptor-ii.json) |
 | Arcade Archives: Thunder Cross | 147101 | [147101-arcade-archives-thunder-cross.json](./147101-arcade-archives-thunder-cross.json) |
 | Arcade Archives: Thunder Dragon | 147104 | [147104-arcade-archives-thunder-dragon.json](./147104-arcade-archives-thunder-dragon.json) |
+| Arcade Archives: Thunder Dragon 2 | 192053 | [192053-arcade-archives-thunder-dragon-2.json](./192053-arcade-archives-thunder-dragon-2.json) |
 | Arcade Archives: Thunder Fox | 330002 | [330002-arcade-archives-thunder-fox.json](./330002-arcade-archives-thunder-fox.json) |
 | Arcade Archives: Time Pilot '84 | 149990 | [149990-arcade-archives-time-pilot-84.json](./149990-arcade-archives-time-pilot-84.json) |
 | Arcade Archives: Time Tunnel | 122746 | [122746-arcade-archives-time-tunnel.json](./122746-arcade-archives-time-tunnel.json) |
@@ -12988,6 +12996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascended | 158608 | [158608-ascended.json](./158608-ascended.json) |
 | Ascended Gods: Realm of Origins | 270104 | [270104-ascended-gods-realm-of-origins.json](./270104-ascended-gods-realm-of-origins.json) |
 | Ascended Realms | 137683 | [137683-ascended-realms.json](./137683-ascended-realms.json) |
+| Ascended Survivor | 192019 | [192019-ascended-survivor.json](./192019-ascended-survivor.json) |
 | Ascender | 20346 | [20346-ascender.json](./20346-ascender.json) |
 | Ascender | 219939 | [219939-ascender.json](./219939-ascender.json) |
 | Ascenders | 194853 | [194853-ascenders.json](./194853-ascenders.json) |
