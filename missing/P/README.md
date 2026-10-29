@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Poet | 396049 | [396049-panda-poet.json](./396049-panda-poet.json) |
 | Panda Pop: Bubble Shooter | 87039 | [87039-panda-pop-bubble-shooter.json](./87039-panda-pop-bubble-shooter.json) |
 | Panda Prince | 48891 | [48891-panda-prince.json](./48891-panda-prince.json) |
+| Panda Punch | 190828 | [190828-panda-punch.json](./190828-panda-punch.json) |
 | Panda Push | 162868 | [162868-panda-push.json](./162868-panda-push.json) |
 | Panda Roll | 218665 | [218665-panda-roll.json](./218665-panda-roll.json) |
 | Panda Run | 55267 | [55267-panda-run.json](./55267-panda-run.json) |
@@ -1671,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parachute | 231725 | [231725-parachute.json](./231725-parachute.json) |
 | Parachute | 40678 | [40678-parachute.json](./40678-parachute.json) |
 | Parachute 22 | 205098 | [205098-parachute-22.json](./205098-parachute-22.json) |
+| Parachute Drop | 191447 | [191447-parachute-drop.json](./191447-parachute-drop.json) |
 | Parachute Frog | 95900 | [95900-parachute-frog.json](./95900-parachute-frog.json) |
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
 | Paracom | 384535 | [384535-paracom.json](./384535-paracom.json) |
@@ -3236,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peach Up | 338831 | [338831-peach-up.json](./338831-peach-up.json) |
 | Peach Up 2-Gou | 122931 | [122931-peach-up-2-gou.json](./122931-peach-up-2-gou.json) |
 | Peach's Christmas Invitation | 135215 | [135215-peachs-christmas-invitation.json](./135215-peachs-christmas-invitation.json) |
+| Peach's Fury | 191373 | [191373-peachs-fury.json](./191373-peachs-fury.json) |
 | Peach's Journey | 331229 | [331229-peachs-journey.json](./331229-peachs-journey.json) |
 | Peachboy Legend | 78941 | [78941-peachboy-legend.json](./78941-peachboy-legend.json) |
 | Peachboy Legend II | 37655 | [37655-peachboy-legend-ii.json](./37655-peachboy-legend-ii.json) |
@@ -5821,6 +5824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilgrimage | 178481 | [178481-pilgrimage.json](./178481-pilgrimage.json) |
 | Pilgrimage | 59694 | [59694-pilgrimage.json](./59694-pilgrimage.json) |
 | PilgrimAge | 276763 | [276763-pilgrimage.json](./276763-pilgrimage.json) |
+| Pilie Pals | 190827 | [190827-pilie-pals.json](./190827-pilie-pals.json) |
 | Pilki Filki 2 | 99987 | [99987-pilki-filki-2.json](./99987-pilki-filki-2.json) |
 | Pilko | 149701 | [149701-pilko.json](./149701-pilko.json) |
 | Pill After Pill | 400540 | [400540-pill-after-pill.json](./400540-pill-after-pill.json) |
@@ -6478,6 +6482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pintar | 330529 | [330529-pintar.json](./330529-pintar.json) |
 | Pintaris | 310129 | [310129-pintaris.json](./310129-pintaris.json) |
 | Pintern | 353377 | [353377-pintern.json](./353377-pintern.json) |
+| Pintman: Escape the Lockdown | 190872 | [190872-pintman-escape-the-lockdown.json](./190872-pintman-escape-the-lockdown.json) |
 | Pinto | 326968 | [326968-pinto.json](./326968-pinto.json) |
 | Pintorino | 386399 | [386399-pintorino.json](./386399-pintorino.json) |
 | Pintura | 290081 | [290081-pintura.json](./290081-pintura.json) |
@@ -8540,6 +8545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platinum Sudoku | 47779 | [47779-platinum-sudoku.json](./47779-platinum-sudoku.json) |
 | Platinum Train: Nihon Juudan Tetsudou no Tabi | 98840 | [98840-platinum-train-nihon-juudan-tetsudou-no-tabi.json](./98840-platinum-train-nihon-juudan-tetsudou-no-tabi.json) |
 | Platinum White | 307137 | [307137-platinum-white.json](./307137-platinum-white.json) |
+| PlatinumQuest | 191424 | [191424-platinumquest.json](./191424-platinumquest.json) |
 | Plato | 86967 | [86967-plato.json](./86967-plato.json) |
 | Plato Interpreter | 42182 | [42182-plato-interpreter.json](./42182-plato-interpreter.json) |
 | Plato's Universe | 184231 | [184231-platos-universe.json](./184231-platos-universe.json) |
@@ -10823,6 +10829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyRoyale | 364034 | [364034-polyroyale.json](./364034-polyroyale.json) |
 | Polyrun | 120960 | [120960-polyrun.json](./120960-polyrun.json) |
 | Polysemy‌ | 326187 | [326187-polysemy.json](./326187-polysemy.json) |
+| PolyShot | 190831 | [190831-polyshot.json](./190831-polyshot.json) |
 | Polyslime | 173230 | [173230-polyslime.json](./173230-polyslime.json) |
 | PolySouls | 348017 | [348017-polysouls.json](./348017-polysouls.json) |
 | Polyspell | 211030 | [211030-polyspell.json](./211030-polyspell.json) |
@@ -11212,6 +11219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Music éclale | 124691 | [124691-popn-music-eclale.json](./124691-popn-music-eclale.json) |
 | Pop'n Music Fantasia | 76169 | [76169-popn-music-fantasia.json](./76169-popn-music-fantasia.json) |
 | Pop'n Music Fever! | 78291 | [78291-popn-music-fever.json](./78291-popn-music-fever.json) |
+| Pop'n Music GB | 191417 | [191417-popn-music-gb.json](./191417-popn-music-gb.json) |
 | Pop'n Music GB: Animation Melody | 209619 | [209619-popn-music-gb-animation-melody.json](./209619-popn-music-gb-animation-melody.json) |
 | Pop'n Music Iroha | 79935 | [79935-popn-music-iroha.json](./79935-popn-music-iroha.json) |
 | Pop'n Music Jam&Fizz | 364468 | [364468-popn-music-jam-and-fizz.json](./364468-popn-music-jam-and-fizz.json) |
@@ -15402,6 +15410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch The Undead | 291519 | [291519-punch-the-undead.json](./291519-punch-the-undead.json) |
 | Punch Upon a Time | 399204 | [399204-punch-upon-a-time.json](./399204-punch-upon-a-time.json) |
 | Punch Your Way Out | 424703 | [424703-punch-your-way-out.json](./424703-punch-your-way-out.json) |
+| Punch-Out!! | 191439 | [191439-punch-out.json](./191439-punch-out.json) |
 | Punch-Out!! | 2194 | [2194-punch-out.json](./2194-punch-out.json) |
 | Punch-Out!! | 84799 | [84799-punch-out.json](./84799-punch-out.json) |
 | Punch-Out!! | 9150 | [9150-punch-out.json](./9150-punch-out.json) |
