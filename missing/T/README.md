@@ -22064,6 +22064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
 | Tomodachi 8in1 | 376653 | [376653-tomodachi-8in1.json](./376653-tomodachi-8in1.json) |
 | Tomodachi Ijou, Joubutsu Miman | 394078 | [394078-tomodachi-ijou-joubutsu-miman.json](./394078-tomodachi-ijou-joubutsu-miman.json) |
+| Tomodachi Kara Koibito he | 220419 | [220419-tomodachi-kara-koibito-he.json](./220419-tomodachi-kara-koibito-he.json) |
 | Tomodachi Life | 6403 | [6403-tomodachi-life.json](./6403-tomodachi-life.json) |
 | Tomodachi Life: Living the Dream | 337036 | [337036-tomodachi-life-living-the-dream.json](./337036-tomodachi-life-living-the-dream.json) |
 | Tomodachi Life: The Gay Mod | 350609 | [350609-tomodachi-life-the-gay-mod.json](./350609-tomodachi-life-the-gay-mod.json) |
