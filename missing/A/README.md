@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Clumsy Adventure | 8627 | [8627-a-clumsy-adventure.json](./8627-a-clumsy-adventure.json) |
 | A Clumsy Flight | 208673 | [208673-a-clumsy-flight.json](./208673-a-clumsy-flight.json) |
 | A Cold Day In Shell | 328068 | [328068-a-cold-day-in-shell.json](./328068-a-cold-day-in-shell.json) |
+| A Cold Night | 180947 | [180947-a-cold-night.json](./180947-a-cold-night.json) |
 | A Collection of Bad Moments | 68618 | [68618-a-collection-of-bad-moments.json](./68618-a-collection-of-bad-moments.json) |
 | A Collection of Intellivision Classic Games | 65901 | [65901-a-collection-of-intellivision-classic-games.json](./65901-a-collection-of-intellivision-classic-games.json) |
 | A Collection of Mini-Games | 263641 | [263641-a-collection-of-mini-games.json](./263641-a-collection-of-mini-games.json) |
@@ -4776,6 +4777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Race Speed | 26663 | [26663-air-race-speed.json](./26663-air-race-speed.json) |
 | Air Racer | 382187 | [382187-air-racer.json](./382187-air-racer.json) |
 | Air Racer: Sky Traffic | 232156 | [232156-air-racer-sky-traffic.json](./232156-air-racer-sky-traffic.json) |
+| Air Racers | 180972 | [180972-air-racers.json](./180972-air-racers.json) |
 | Air Racing VR | 192445 | [192445-air-racing-vr.json](./192445-air-racing-vr.json) |
 | Air Raid | 11113 | [11113-air-raid.json](./11113-air-raid.json) |
 | Air Raid | 392396 | [392396-air-raid.json](./392396-air-raid.json) |
@@ -4793,6 +4795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Star | 239759 | [239759-air-star.json](./239759-air-star.json) |
 | Air Strike HD | 88501 | [88501-air-strike-hd.json](./88501-air-strike-hd.json) |
 | Air Strike USA | 47029 | [47029-air-strike-usa.json](./47029-air-strike-usa.json) |
+| Air Strike: WW2 Fighters Sky Combat | 180981 | [180981-air-strike-ww2-fighters-sky-combat.json](./180981-air-strike-ww2-fighters-sky-combat.json) |
 | AIR Summer Solstice | 308416 | [308416-air-summer-solstice.json](./308416-air-summer-solstice.json) |
 | Air Supply | 14156 | [14156-air-supply.json](./14156-air-supply.json) |
 | Air Supply Infinite | 175583 | [175583-air-supply-infinite.json](./175583-air-supply-infinite.json) |
@@ -6651,6 +6654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almighty: God Idle Clicker | 132013 | [132013-almighty-god-idle-clicker.json](./132013-almighty-god-idle-clicker.json) |
 | Almistice | 274010 | [274010-almistice.json](./274010-almistice.json) |
 | Almond Ridge | 270753 | [270753-almond-ridge.json](./270753-almond-ridge.json) |
+| Almora Darkosen | 180955 | [180955-almora-darkosen.json](./180955-almora-darkosen.json) |
 | Almos a Dream Painter's Tale | 415125 | [415125-almos-a-dream-painters-tale.json](./415125-almos-a-dream-painters-tale.json) |
 | Almost | 244670 | [244670-almost.json](./244670-almost.json) |
 | Almost a Hero | 101454 | [101454-almost-a-hero.json](./101454-almost-a-hero.json) |
@@ -10841,6 +10845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ben Bero Beh | 144801 | [144801-arcade-archives-ben-bero-beh.json](./144801-arcade-archives-ben-bero-beh.json) |
 | Arcade Archives: Bermuda Triangle | 380694 | [380694-arcade-archives-bermuda-triangle.json](./380694-arcade-archives-bermuda-triangle.json) |
 | Arcade Archives: Bio-Ship Paladin | 163173 | [163173-arcade-archives-bio-ship-paladin.json](./163173-arcade-archives-bio-ship-paladin.json) |
+| Arcade Archives: Black Heart | 180966 | [180966-arcade-archives-black-heart.json](./180966-arcade-archives-black-heart.json) |
 | Arcade Archives: Blandia | 272855 | [272855-arcade-archives-blandia.json](./272855-arcade-archives-blandia.json) |
 | Arcade Archives: Blast Off | 317898 | [317898-arcade-archives-blast-off.json](./317898-arcade-archives-blast-off.json) |
 | Arcade Archives: Block Hole | 142854 | [142854-arcade-archives-block-hole.json](./142854-arcade-archives-block-hole.json) |
@@ -10958,6 +10963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Lead Angle | 315929 | [315929-arcade-archives-lead-angle.json](./315929-arcade-archives-lead-angle.json) |
 | Arcade Archives: Legend of Makai | 147085 | [147085-arcade-archives-legend-of-makai.json](./147085-arcade-archives-legend-of-makai.json) |
 | Arcade Archives: Legion | 302238 | [302238-arcade-archives-legion.json](./302238-arcade-archives-legion.json) |
+| Arcade Archives: Libble Rabble | 180979 | [180979-arcade-archives-libble-rabble.json](./180979-arcade-archives-libble-rabble.json) |
 | Arcade Archives: Life Force | 96365 | [96365-arcade-archives-life-force.json](./96365-arcade-archives-life-force.json) |
 | Arcade Archives: Lightning Fighters | 147112 | [147112-arcade-archives-lightning-fighters.json](./147112-arcade-archives-lightning-fighters.json) |
 | Arcade Archives: Liquid Kids | 186561 | [186561-arcade-archives-liquid-kids.json](./186561-arcade-archives-liquid-kids.json) |
@@ -11559,6 +11565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Black | 356646 | [356646-archery-black.json](./356646-archery-black.json) |
 | Archery by Thornbury Software | 84757 | [84757-archery-by-thornbury-software.json](./84757-archery-by-thornbury-software.json) |
 | Archery Champion Bowman | 87928 | [87928-archery-champion-bowman.json](./87928-archery-champion-bowman.json) |
+| Archery Club | 180961 | [180961-archery-club.json](./180961-archery-club.json) |
 | Archery Escape | 207880 | [207880-archery-escape.json](./207880-archery-escape.json) |
 | Archery King | 401135 | [401135-archery-king.json](./401135-archery-king.json) |
 | Archery King | 88765 | [88765-archery-king.json](./88765-archery-king.json) |
