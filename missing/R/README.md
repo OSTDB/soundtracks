@@ -3184,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recollect: Coloring Book | 106002 | [106002-recollect-coloring-book.json](./106002-recollect-coloring-book.json) |
 | Recollection | 203747 | [203747-recollection.json](./203747-recollection.json) |
 | Recollection | 343806 | [343806-recollection.json](./343806-recollection.json) |
+| Recollection Gloaming | 183217 | [183217-recollection-gloaming.json](./183217-recollection-gloaming.json) |
 | Recolorize | 357104 | [357104-recolorize.json](./357104-recolorize.json) |
 | Recommendation Dog!! | 151983 | [151983-recommendation-dog.json](./151983-recommendation-dog.json) |
 | Recon Bracks | 397284 | [397284-recon-bracks.json](./397284-recon-bracks.json) |
@@ -6167,6 +6168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbon of Green | 124672 | [124672-ribbon-of-green.json](./124672-ribbon-of-green.json) |
 | Ribbon Racer Next | 115178 | [115178-ribbon-racer-next.json](./115178-ribbon-racer-next.json) |
 | Ribby Rocket | 149599 | [149599-ribby-rocket.json](./149599-ribby-rocket.json) |
+| Ribeye Charlie's | 183170 | [183170-ribeye-charlies.json](./183170-ribeye-charlies.json) |
 | Ribon: Sabukseong Gyeoljeon | 215838 | [215838-ribon-sabukseong-gyeoljeon.json](./215838-ribon-sabukseong-gyeoljeon.json) |
 | Riboud and Fairies | 234518 | [234518-riboud-and-fairies.json](./234518-riboud-and-fairies.json) |
 | Rica Mode | 401121 | [401121-rica-mode.json](./401121-rica-mode.json) |
@@ -9619,6 +9621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room 0 | 410478 | [410478-room-0.json](./410478-room-0.json) |
 | Room 12 | 207734 | [207734-room-12.json](./207734-room-12.json) |
 | Room 14 | 301855 | [301855-room-14.json](./301855-room-14.json) |
+| Room 303 | 183174 | [183174-room-303.json](./183174-room-303.json) |
 | Room 40 | 120364 | [120364-room-40.json](./120364-room-40.json) |
 | Room 404 | 374404 | [374404-room-404.json](./374404-room-404.json) |
 | Room 404 | 55191 | [55191-room-404.json](./55191-room-404.json) |
@@ -10626,6 +10629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruined Nurse | 324183 | [324183-ruined-nurse.json](./324183-ruined-nurse.json) |
 | Ruined Vacation | 313960 | [313960-ruined-vacation.json](./313960-ruined-vacation.json) |
 | Ruiner 2 | 393936 | [393936-ruiner-2.json](./393936-ruiner-2.json) |
+| Ruins | 183198 | [183198-ruins.json](./183198-ruins.json) |
 | Ruins | 94178 | [94178-ruins.json](./94178-ruins.json) |
 | Ruins & Switch | 192357 | [192357-ruins-and-switch.json](./192357-ruins-and-switch.json) |
 | Ruins Escape | 293481 | [293481-ruins-escape.json](./293481-ruins-escape.json) |
