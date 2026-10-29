@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Baker Boss | 211163 | [211163-idle-baker-boss.json](./211163-idle-baker-boss.json) |
 | Idle Balls | 87047 | [87047-idle-balls.json](./87047-idle-balls.json) |
 | Idle Bank | 193987 | [193987-idle-bank.json](./193987-idle-bank.json) |
+| Idle Bank Tycoon | 228143 | [228143-idle-bank-tycoon.json](./228143-idle-bank-tycoon.json) |
 | Idle Banshee Alliance | 230947 | [230947-idle-banshee-alliance.json](./230947-idle-banshee-alliance.json) |
 | Idle Battle Royale | 124760 | [124760-idle-battle-royale.json](./124760-idle-battle-royale.json) |
 | Idle Battle RPG | 295767 | [295767-idle-battle-rpg.json](./295767-idle-battle-rpg.json) |
@@ -5014,6 +5015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Decree | 326205 | [326205-iron-decree.json](./326205-iron-decree.json) |
 | Iron Diamond | 236300 | [236300-iron-diamond.json](./236300-iron-diamond.json) |
 | Iron Dice | 352145 | [352145-iron-dice.json](./352145-iron-dice.json) |
+| Iron Dome | 228141 | [228141-iron-dome.json](./228141-iron-dome.json) |
 | Iron Door | 306310 | [306310-iron-door.json](./306310-iron-door.json) |
 | Iron Dusk Path of Honor | 366135 | [366135-iron-dusk-path-of-honor.json](./366135-iron-dusk-path-of-honor.json) |
 | Iron Emblem | 215765 | [215765-iron-emblem.json](./215765-iron-emblem.json) |
