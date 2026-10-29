@@ -4018,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Home Renovation Simulator | 370074 | [370074-regular-home-renovation-simulator.json](./370074-regular-home-renovation-simulator.json) |
 | Regular Home Renovation Simulator Prototype | 231866 | [231866-regular-home-renovation-simulator-prototype.json](./231866-regular-home-renovation-simulator-prototype.json) |
 | Regular Human Workshop | 207721 | [207721-regular-human-workshop.json](./207721-regular-human-workshop.json) |
+| Regular Luckiest Guy: Love & Blocks | 207650 | [207650-regular-luckiest-guy-love-and-blocks.json](./207650-regular-luckiest-guy-love-and-blocks.json) |
 | Regular Ordinary Boy | 51166 | [51166-regular-ordinary-boy.json](./51166-regular-ordinary-boy.json) |
 | Regular Show: Battle of the Behemoths | 185661 | [185661-regular-show-battle-of-the-behemoths.json](./185661-regular-show-battle-of-the-behemoths.json) |
 | Regular Show: Fist Punch | 185663 | [185663-regular-show-fist-punch.json](./185663-regular-show-fist-punch.json) |
@@ -4057,6 +4058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of Amira: The Lost Kingdom | 38996 | [38996-reign-of-amira-the-lost-kingdom.json](./38996-reign-of-amira-the-lost-kingdom.json) |
 | Reign of Bullets | 35604 | [35604-reign-of-bullets.json](./35604-reign-of-bullets.json) |
 | Reign of Darkness | 126974 | [126974-reign-of-darkness.json](./126974-reign-of-darkness.json) |
+| Reign of Dwarf | 207622 | [207622-reign-of-dwarf.json](./207622-reign-of-dwarf.json) |
 | Reign of Fire | 248461 | [248461-reign-of-fire.json](./248461-reign-of-fire.json) |
 | Reign of Guilds | 112329 | [112329-reign-of-guilds.json](./112329-reign-of-guilds.json) |
 | Reign of Guilds: Banneret | 289841 | [289841-reign-of-guilds-banneret.json](./289841-reign-of-guilds-banneret.json) |
