@@ -5149,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Hero | 373821 | [373821-chaos-hero.json](./373821-chaos-hero.json) |
 | Chaos Heroes | 25521 | [25521-chaos-heroes.json](./25521-chaos-heroes.json) |
 | Chaos Heroes Online | 286427 | [286427-chaos-heroes-online.json](./286427-chaos-heroes-online.json) |
+| Chaos in Aisle Seven | 223263 | [223263-chaos-in-aisle-seven.json](./223263-chaos-in-aisle-seven.json) |
 | Chaos In Andromeda | 15873 | [15873-chaos-in-andromeda.json](./15873-chaos-in-andromeda.json) |
 | Chaos Islands | 296395 | [296395-chaos-islands.json](./296395-chaos-islands.json) |
 | Chaos Journey | 295021 | [295021-chaos-journey.json](./295021-chaos-journey.json) |
