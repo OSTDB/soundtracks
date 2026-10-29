@@ -2905,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Age 2 | 127098 | [127098-dead-age-2.json](./127098-dead-age-2.json) |
 | Dead Age: Survivors | 238452 | [238452-dead-age-survivors.json](./238452-dead-age-survivors.json) |
 | Dead Age: Zombie Adventure & Shooting Game | 223800 | [223800-dead-age-zombie-adventure-and-shooting-game.json](./223800-dead-age-zombie-adventure-and-shooting-game.json) |
+| Dead Ahead | 196414 | [196414-dead-ahead.json](./196414-dead-ahead.json) |
 | Dead Ahead | 356286 | [356286-dead-ahead.json](./356286-dead-ahead.json) |
 | Dead Ahead: Enforcers | 421372 | [421372-dead-ahead-enforcers.json](./421372-dead-ahead-enforcers.json) |
 | Dead Ahead: Roadside | 400539 | [400539-dead-ahead-roadside.json](./400539-dead-ahead-roadside.json) |
@@ -5536,6 +5537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolish & Build 2018 | 90102 | [90102-demolish-and-build-2018.json](./90102-demolish-and-build-2018.json) |
 | Demolish & Build 3: Excavator Playground | 211557 | [211557-demolish-and-build-3-excavator-playground.json](./211557-demolish-and-build-3-excavator-playground.json) |
 | Demolish & Build Classic | 231580 | [231580-demolish-and-build-classic.json](./231580-demolish-and-build-classic.json) |
+| Demolish & Build VR | 195904 | [195904-demolish-and-build-vr.json](./195904-demolish-and-build-vr.json) |
 | Demolish Derby: Nitro-Battle | 219471 | [219471-demolish-derby-nitro-battle.json](./219471-demolish-derby-nitro-battle.json) |
 | Demolish Fist | 39445 | [39445-demolish-fist.json](./39445-demolish-fist.json) |
 | Demolish or Die | 219239 | [219239-demolish-or-die.json](./219239-demolish-or-die.json) |
@@ -7049,6 +7051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Island | 247392 | [247392-devil-island.json](./247392-devil-island.json) |
 | Devil Jam | 291855 | [291855-devil-jam.json](./291855-devil-jam.json) |
 | Devil Kings | 22568 | [22568-devil-kings.json](./22568-devil-kings.json) |
+| Devil Kiss | 196443 | [196443-devil-kiss.json](./196443-devil-kiss.json) |
 | Devil Legion: Battle war | 193889 | [193889-devil-legion-battle-war.json](./193889-devil-legion-battle-war.json) |
 | Devil Mail | 318758 | [318758-devil-mail.json](./318758-devil-mail.json) |
 | Devil Maker: Tokyo | 39183 | [39183-devil-maker-tokyo.json](./39183-devil-maker-tokyo.json) |
@@ -7345,6 +7348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diadra Empty | 17133 | [17133-diadra-empty.json](./17133-diadra-empty.json) |
 | Diadrum | 92123 | [92123-diadrum.json](./92123-diadrum.json) |
 | Diagnosis -Inma no Note- | 97381 | [97381-diagnosis-inma-no-note.json](./97381-diagnosis-inma-no-note.json) |
+| Diagnosis: Multitude | 196434 | [196434-diagnosis-multitude.json](./196434-diagnosis-multitude.json) |
 | Dial M for Machina | 403023 | [403023-dial-m-for-machina.json](./403023-dial-m-for-machina.json) |
 | Dial-In | 195718 | [195718-dial-in.json](./195718-dial-in.json) |
 | Dialed In | 82854 | [82854-dialed-in.json](./82854-dialed-in.json) |
@@ -8659,6 +8663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Bike Motocross Stunts | 387009 | [387009-dirt-bike-motocross-stunts.json](./387009-dirt-bike-motocross-stunts.json) |
 | Dirt Bike Racer Simulator | 262848 | [262848-dirt-bike-racer-simulator.json](./262848-dirt-bike-racer-simulator.json) |
 | Dirt Bike Retro | 147637 | [147637-dirt-bike-retro.json](./147637-dirt-bike-retro.json) |
+| Dirt Bike Unchained | 196432 | [196432-dirt-bike-unchained.json](./196432-dirt-bike-unchained.json) |
 | Dirt Bike: Unlimited Bike Experience | 296895 | [296895-dirt-bike-unlimited-bike-experience.json](./296895-dirt-bike-unlimited-bike-experience.json) |
 | Dirt Dash | 39827 | [39827-dirt-dash.json](./39827-dirt-dash.json) |
 | Dirt Devils | 39448 | [39448-dirt-devils.json](./39448-dirt-devils.json) |
