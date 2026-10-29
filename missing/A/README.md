@@ -4745,6 +4745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Royale | 314232 | [314232-air-royale.json](./314232-air-royale.json) |
 | Air Sea Modern Conflict | 305985 | [305985-air-sea-modern-conflict.json](./305985-air-sea-modern-conflict.json) |
 | Air Soccer Impossible | 234072 | [234072-air-soccer-impossible.json](./234072-air-soccer-impossible.json) |
+| Air Splitter | 218839 | [218839-air-splitter.json](./218839-air-splitter.json) |
 | Air Stacky | 291589 | [291589-air-stacky.json](./291589-air-stacky.json) |
 | Air Star | 239759 | [239759-air-star.json](./239759-air-star.json) |
 | Air Strike HD | 88501 | [88501-air-strike-hd.json](./88501-air-strike-hd.json) |
@@ -5395,6 +5396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alcatraz | 223928 | [223928-alcatraz.json](./223928-alcatraz.json) |
 | Alcatraz | 288748 | [288748-alcatraz.json](./288748-alcatraz.json) |
 | Alcatraz | 47048 | [47048-alcatraz.json](./47048-alcatraz.json) |
+| Alcatraz: A Fuga Impossível | 218835 | [218835-alcatraz-a-fuga-impossivel.json](./218835-alcatraz-a-fuga-impossivel.json) |
 | Alcatraz: Prison Escape | 27452 | [27452-alcatraz-prison-escape.json](./27452-alcatraz-prison-escape.json) |
 | Alcatraz: VR Escape Room | 29938 | [29938-alcatraz-vr-escape-room.json](./29938-alcatraz-vr-escape-room.json) |
 | Alcazar | 86184 | [86184-alcazar.json](./86184-alcazar.json) |
