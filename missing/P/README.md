@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Crew VR | 132273 | [132273-panzer-crew-vr.json](./132273-panzer-crew-vr.json) |
 | Panzer Deck | 371340 | [371340-panzer-deck.json](./371340-panzer-deck.json) |
 | Panzer Doctrine | 69391 | [69391-panzer-doctrine.json](./69391-panzer-doctrine.json) |
+| Panzer Dragoon | 198643 | [198643-panzer-dragoon.json](./198643-panzer-dragoon.json) |
 | Panzer Dragoon | 199012 | [199012-panzer-dragoon.json](./199012-panzer-dragoon.json) |
 | Panzer Dragoon Mini | 1670 | [1670-panzer-dragoon-mini.json](./1670-panzer-dragoon-mini.json) |
 | Panzer Dragoon Voyage Record | 330321 | [330321-panzer-dragoon-voyage-record.json](./330321-panzer-dragoon-voyage-record.json) |
@@ -3531,6 +3532,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penga's Peril | 68539 | [68539-pengas-peril.json](./68539-pengas-peril.json) |
 | Pengicitis The Game | 353324 | [353324-pengicitis-the-game.json](./353324-pengicitis-the-game.json) |
 | Pengin-gin | 385334 | [385334-pengin-gin.json](./385334-pengin-gin.json) |
+| Pengo | 198644 | [198644-pengo.json](./198644-pengo.json) |
+| Pengo | 198645 | [198645-pengo.json](./198645-pengo.json) |
 | Pengo | 218267 | [218267-pengo.json](./218267-pengo.json) |
 | Pengo | 270415 | [270415-pengo.json](./270415-pengo.json) |
 | Pengo | 282071 | [282071-pengo.json](./282071-pengo.json) |
@@ -9220,6 +9223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket RPG | 61075 | [61075-pocket-rpg.json](./61075-pocket-rpg.json) |
 | Pocket Rumble | 27534 | [27534-pocket-rumble.json](./27534-pocket-rumble.json) |
 | Pocket Runners | 97264 | [97264-pocket-runners.json](./97264-pocket-runners.json) |
+| Pocket Sakura | 198648 | [198648-pocket-sakura.json](./198648-pocket-sakura.json) |
 | Pocket Sheep | 181588 | [181588-pocket-sheep.json](./181588-pocket-sheep.json) |
 | Pocket Shooter Hardcore | 57691 | [57691-pocket-shooter-hardcore.json](./57691-pocket-shooter-hardcore.json) |
 | Pocket Size Epoch-Man | 284221 | [284221-pocket-size-epoch-man.json](./284221-pocket-size-epoch-man.json) |
@@ -15885,6 +15889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Pop Fever | 248504 | [248504-puyo-pop-fever.json](./248504-puyo-pop-fever.json) |
 | Puyo Pop Fever DX | 251499 | [251499-puyo-pop-fever-dx.json](./251499-puyo-pop-fever-dx.json) |
 | Puyo Puyo | 146876 | [146876-puyo-puyo.json](./146876-puyo-puyo.json) |
+| Puyo Puyo | 198647 | [198647-puyo-puyo.json](./198647-puyo-puyo.json) |
 | Puyo Puyo | 249773 | [249773-puyo-puyo.json](./249773-puyo-puyo.json) |
 | Puyo Puyo 2 | 84798 | [84798-puyo-puyo-2.json](./84798-puyo-puyo-2.json) |
 | Puyo Puyo 7 | 50727 | [50727-puyo-puyo-7.json](./50727-puyo-puyo-7.json) |
