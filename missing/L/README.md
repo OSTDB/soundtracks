@@ -2032,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaving | 154622 | [154622-leaving.json](./154622-leaving.json) |
 | Leaving | 195532 | [195532-leaving.json](./195532-leaving.json) |
 | Leaving L.A. | 273138 | [273138-leaving-l-a.json](./273138-leaving-l-a.json) |
+| Leaving the formation | 211559 | [211559-leaving-the-formation.json](./211559-leaving-the-formation.json) |
 | Leaving The Hospital | 296240 | [296240-leaving-the-hospital.json](./296240-leaving-the-hospital.json) |
 | Leaving Whisper at Night | 326283 | [326283-leaving-whisper-at-night.json](./326283-leaving-whisper-at-night.json) |
 | Leaving Your Room | 256387 | [256387-leaving-your-room.json](./256387-leaving-your-room.json) |
@@ -7382,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Zion | 395555 | [395555-lost-zion.json](./395555-lost-zion.json) |
 | Lost: Find | 196118 | [196118-lost-find.json](./196118-lost-find.json) |
 | Lost:Smile Memories | 120778 | [120778-lost-smile-memories.json](./120778-lost-smile-memories.json) |
+| Lost2 | 211565 | [211565-lost2.json](./211565-lost2.json) |
 | Lostade | 377694 | [377694-lostade.json](./377694-lostade.json) |
 | Lostboy.exe | 255566 | [255566-lostboy-exe.json](./255566-lostboy-exe.json) |
 | Losted | 190962 | [190962-losted.json](./190962-losted.json) |
