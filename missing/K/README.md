@@ -1352,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keeper of the Grove 2 | 102015 | [102015-keeper-of-the-grove-2.json](./102015-keeper-of-the-grove-2.json) |
 | Keeper of the Grove 3 | 219764 | [219764-keeper-of-the-grove-3.json](./219764-keeper-of-the-grove-3.json) |
 | Keeper Of The Hell Gate | 271748 | [271748-keeper-of-the-hell-gate.json](./271748-keeper-of-the-hell-gate.json) |
+| Keeper of the Keys | 223245 | [223245-keeper-of-the-keys.json](./223245-keeper-of-the-keys.json) |
 | Keeper of the Labyrinth | 153865 | [153865-keeper-of-the-labyrinth.json](./153865-keeper-of-the-labyrinth.json) |
 | Keeper of the Sun and Moon | 120840 | [120840-keeper-of-the-sun-and-moon.json](./120840-keeper-of-the-sun-and-moon.json) |
 | Keeper Practise | 291623 | [291623-keeper-practise.json](./291623-keeper-practise.json) |
@@ -2163,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Me If You Can | 292293 | [292293-kill-me-if-you-can.json](./292293-kill-me-if-you-can.json) |
 | Kill Me If You Can: Multiplayer Edition | 378317 | [378317-kill-me-if-you-can-multiplayer-edition.json](./378317-kill-me-if-you-can-multiplayer-edition.json) |
 | Kill Me Yesterday | 415999 | [415999-kill-me-yesterday.json](./415999-kill-me-yesterday.json) |
+| Kill or Dead | 223268 | [223268-kill-or-dead.json](./223268-kill-or-dead.json) |
 | Kill or Love | 123995 | [123995-kill-or-love.json](./123995-kill-or-love.json) |
 | Kill PC | 121728 | [121728-kill-pc.json](./121728-kill-pc.json) |
 | Kill Pig Death Squads | 396067 | [396067-kill-pig-death-squads.json](./396067-kill-pig-death-squads.json) |
@@ -5039,6 +5041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kritika Global | 211930 | [211930-kritika-global.json](./211930-kritika-global.json) |
 | Kritika: The White Knights | 39231 | [39231-kritika-the-white-knights.json](./39231-kritika-the-white-knights.json) |
 | Kritika: Zero | 284746 | [284746-kritika-zero.json](./284746-kritika-zero.json) |
+| Kritter: Defend Together | 223226 | [223226-kritter-defend-together.json](./223226-kritter-defend-together.json) |
 | Kritzel Krieg | 414873 | [414873-kritzel-krieg.json](./414873-kritzel-krieg.json) |
 | Krizl | 106297 | [106297-krizl.json](./106297-krizl.json) |
 | Kroc & Roll | 25427 | [25427-kroc-and-roll.json](./25427-kroc-and-roll.json) |
