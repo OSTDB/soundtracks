@@ -9212,6 +9212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Weapons for Quiet Wars | 285959 | [285959-silent-weapons-for-quiet-wars.json](./285959-silent-weapons-for-quiet-wars.json) |
 | Silent Whisper | 337125 | [337125-silent-whisper.json](./337125-silent-whisper.json) |
 | Silent Woods: the Cleansed | 150626 | [150626-silent-woods-the-cleansed.json](./150626-silent-woods-the-cleansed.json) |
+| Silent World | 202481 | [202481-silent-world.json](./202481-silent-world.json) |
 | Silent Wounds - The Doll | 414540 | [414540-silent-wounds-the-doll.json](./414540-silent-wounds-the-doll.json) |
 | Silent: Abandoned | 309437 | [309437-silent-abandoned.json](./309437-silent-abandoned.json) |
 | Silentium 2D | 106578 | [106578-silentium-2d.json](./106578-silentium-2d.json) |
@@ -14756,6 +14757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something Nefarious Below | 231451 | [231451-something-nefarious-below.json](./231451-something-nefarious-below.json) |
 | Something Something Spaceship | 285847 | [285847-something-something-spaceship.json](./285847-something-something-spaceship.json) |
 | Something Special: Zoe's American Adventure | 208871 | [208871-something-special-zoes-american-adventure.json](./208871-something-special-zoes-american-adventure.json) |
+| Something Strange | 202493 | [202493-something-strange.json](./202493-something-strange.json) |
 | Something Strange has Come Over God's Country Tonight | 335515 | [335515-something-strange-has-come-over-gods-country-tonight.json](./335515-something-strange-has-come-over-gods-country-tonight.json) |
 | Something Strange in the Woods | 149531 | [149531-something-strange-in-the-woods.json](./149531-something-strange-in-the-woods.json) |
 | Something That Shouldn't Be There Is Visible. | 410371 | [410371-something-that-shouldnt-be-there-is-visible.json](./410371-something-that-shouldnt-be-there-is-visible.json) |
@@ -31143,6 +31145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Hearts | 183437 | [183437-sword-of-hearts.json](./183437-sword-of-hearts.json) |
 | Sword of Honour | 12790 | [12790-sword-of-honour.json](./12790-sword-of-honour.json) |
 | Sword of Hypotenuse | 171874 | [171874-sword-of-hypotenuse.json](./171874-sword-of-hypotenuse.json) |
+| Sword of Jade: Parallel Dreams | 202526 | [202526-sword-of-jade-parallel-dreams.json](./202526-sword-of-jade-parallel-dreams.json) |
 | Sword of Jade: Parallel Dreams | 285149 | [285149-sword-of-jade-parallel-dreams.json](./285149-sword-of-jade-parallel-dreams.json) |
 | Sword of Justice | 283391 | [283391-sword-of-justice.json](./283391-sword-of-justice.json) |
 | Sword of Legacy | 176671 | [176671-sword-of-legacy.json](./176671-sword-of-legacy.json) |
