@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo! Noid | 19612 | [19612-yo-noid.json](./19612-yo-noid.json) |
 | Yo! Noid 2: Game of a Year Edition | 133918 | [133918-yo-noid-2-game-of-a-year-edition.json](./133918-yo-noid-2-game-of-a-year-edition.json) |
 | Yo! Noid 4: Episode 3 | 316597 | [316597-yo-noid-4-episode-3.json](./316597-yo-noid-4-episode-3.json) |
+| Yo! Noid Was Ahead of its Time | 177171 | [177171-yo-noid-was-ahead-of-its-time.json](./177171-yo-noid-was-ahead-of-its-time.json) |
 | Yo! Walk the Line | 96324 | [96324-yo-walk-the-line.json](./96324-yo-walk-the-line.json) |
 | Yo' Bro | 42023 | [42023-yo-bro.json](./42023-yo-bro.json) |
 | Yoake Mae yori Ruri Iro na | 60801 | [60801-yoake-mae-yori-ruri-iro-na.json](./60801-yoake-mae-yori-ruri-iro-na.json) |
@@ -989,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Complete Me | 123466 | [123466-you-complete-me.json](./123466-you-complete-me.json) |
 | You Deserve | 32036 | [32036-you-deserve.json](./32036-you-deserve.json) |
 | You Deserve a Seat at the Table | 199241 | [199241-you-deserve-a-seat-at-the-table.json](./199241-you-deserve-a-seat-at-the-table.json) |
+| You Did It Faster Before | 177186 | [177186-you-did-it-faster-before.json](./177186-you-did-it-faster-before.json) |
 | You Die Today | 332378 | [332378-you-die-today.json](./332378-you-die-today.json) |
 | You Died but a Necromancer Revived You | 116041 | [116041-you-died-but-a-necromancer-revived-you.json](./116041-you-died-but-a-necromancer-revived-you.json) |
 | You Do Jump | 202012 | [202012-you-do-jump.json](./202012-you-do-jump.json) |
