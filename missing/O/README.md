@@ -1963,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Coin Museum | 398295 | [398295-one-coin-museum.json](./398295-one-coin-museum.json) |
 | One Creek: The House | 258853 | [258853-one-creek-the-house.json](./258853-one-creek-the-house.json) |
 | One Dark Night | 33065 | [33065-one-dark-night.json](./33065-one-dark-night.json) |
+| One Day | 189325 | [189325-one-day.json](./189325-one-day.json) |
 | One Day After School | 270712 | [270712-one-day-after-school.json](./270712-one-day-after-school.json) |
 | One Day After the Snow and Wind | 384569 | [384569-one-day-after-the-snow-and-wind.json](./384569-one-day-after-the-snow-and-wind.json) |
 | One Day for Ched | 10647 | [10647-one-day-for-ched.json](./10647-one-day-for-ched.json) |
@@ -3229,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oppaidius Desert Island! | 149435 | [149435-oppaidius-desert-island.json](./149435-oppaidius-desert-island.json) |
 | Oppaidius Summer Trouble! | 75040 | [75040-oppaidius-summer-trouble.json](./75040-oppaidius-summer-trouble.json) |
 | Oppaidius Tropical Cruise! | 126641 | [126641-oppaidius-tropical-cruise.json](./126641-oppaidius-tropical-cruise.json) |
+| Oppcium | 189327 | [189327-oppcium.json](./189327-oppcium.json) |
 | Oppidum | 256927 | [256927-oppidum.json](./256927-oppidum.json) |
 | Opportunity: A Sugar Baby Story | 157069 | [157069-opportunity-a-sugar-baby-story.json](./157069-opportunity-a-sugar-baby-story.json) |
 | Opposite Attack | 328309 | [328309-opposite-attack.json](./328309-opposite-attack.json) |
