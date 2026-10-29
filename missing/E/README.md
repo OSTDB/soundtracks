@@ -3412,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Void | 148894 | [148894-endless-void.json](./148894-endless-void.json) |
 | Endless Voyage | 150090 | [150090-endless-voyage.json](./150090-endless-voyage.json) |
 | Endless wandering | 182770 | [182770-endless-wandering.json](./182770-endless-wandering.json) |
+| Endless War | 190829 | [190829-endless-war.json](./190829-endless-war.json) |
 | Endless War | 234911 | [234911-endless-war.json](./234911-endless-war.json) |
 | Endless War 2 | 234916 | [234916-endless-war-2.json](./234916-endless-war-2.json) |
 | Endless War 3 | 234920 | [234920-endless-war-3.json](./234920-endless-war-3.json) |
@@ -4257,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erazer: Devise & Destroy | 164058 | [164058-erazer-devise-and-destroy.json](./164058-erazer-devise-and-destroy.json) |
 | Erdetspill | 411414 | [411414-erdetspill.json](./411414-erdetspill.json) |
 | Erdluitl: Legends of Below | 288708 | [288708-erdluitl-legends-of-below.json](./288708-erdluitl-legends-of-below.json) |
+| EreaDrone | 191421 | [191421-ereadrone.json](./191421-ereadrone.json) |
 | EreaDrone Simulator | 104189 | [104189-ereadrone-simulator.json](./104189-ereadrone-simulator.json) |
 | EreaDrone: FPV Simulator | 112216 | [112216-ereadrone-fpv-simulator.json](./112216-ereadrone-fpv-simulator.json) |
 | Ereban: Shadow Legacy | 204624 | [204624-ereban-shadow-legacy.json](./204624-ereban-shadow-legacy.json) |
@@ -6084,6 +6086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest Online Adventures | 23742 | [23742-everquest-online-adventures.json](./23742-everquest-online-adventures.json) |
 | EverQuest Worlds | 63060 | [63060-everquest-worlds.json](./63060-everquest-worlds.json) |
 | EverQuest: Call of the Forsaken | 63069 | [63069-everquest-call-of-the-forsaken.json](./63069-everquest-call-of-the-forsaken.json) |
+| EverQuest: Claws of Veeshan | 191367 | [191367-everquest-claws-of-veeshan.json](./191367-everquest-claws-of-veeshan.json) |
 | EverQuest: Depths of Darkhollow | 74025 | [74025-everquest-depths-of-darkhollow.json](./74025-everquest-depths-of-darkhollow.json) |
 | EverQuest: Empires of Kunark | 57453 | [57453-everquest-empires-of-kunark.json](./57453-everquest-empires-of-kunark.json) |
 | EverQuest: Evolution | 23746 | [23746-everquest-evolution.json](./23746-everquest-evolution.json) |
@@ -6095,6 +6098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: Ring of Scale | 75211 | [75211-everquest-ring-of-scale.json](./75211-everquest-ring-of-scale.json) |
 | EverQuest: Secrets of Faydwer | 72904 | [72904-everquest-secrets-of-faydwer.json](./72904-everquest-secrets-of-faydwer.json) |
 | EverQuest: Seeds of Destruction | 69284 | [69284-everquest-seeds-of-destruction.json](./69284-everquest-seeds-of-destruction.json) |
+| EverQuest: Terror of Luclin | 191366 | [191366-everquest-terror-of-luclin.json](./191366-everquest-terror-of-luclin.json) |
 | EverQuest: The Broken Mirror | 13184 | [13184-everquest-the-broken-mirror.json](./13184-everquest-the-broken-mirror.json) |
 | EverQuest: The Darkened Sea | 61170 | [61170-everquest-the-darkened-sea.json](./61170-everquest-the-darkened-sea.json) |
 | EverQuest: The Legacy of Ykesha | 79688 | [79688-everquest-the-legacy-of-ykesha.json](./79688-everquest-the-legacy-of-ykesha.json) |
