@@ -2796,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumbline 2 | 86729 | [86729-jumbline-2.json](./86729-jumbline-2.json) |
 | Jumbline 2+ for iPad | 95657 | [95657-jumbline-2-for-ipad.json](./95657-jumbline-2-for-ipad.json) |
 | Jumbly | 14138 | [14138-jumbly.json](./14138-jumbly.json) |
+| Jumbo Airport Story | 219930 | [219930-jumbo-airport-story.json](./219930-jumbo-airport-story.json) |
 | Jumbo Pumbo | 341471 | [341471-jumbo-pumbo.json](./341471-jumbo-pumbo.json) |
 | Jumbo: Jewel of Realms | 197165 | [197165-jumbo-jewel-of-realms.json](./197165-jumbo-jewel-of-realms.json) |
 | Jumfrog | 318762 | [318762-jumfrog.json](./318762-jumfrog.json) |
