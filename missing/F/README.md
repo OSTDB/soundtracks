@@ -9966,6 +9966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Framed | 229778 | [229778-framed.json](./229778-framed.json) |
 | Framed by the Yakuza | 210313 | [210313-framed-by-the-yakuza.json](./210313-framed-by-the-yakuza.json) |
 | Framed Fear | 340953 | [340953-framed-fear.json](./340953-framed-fear.json) |
+| Frameland: A Binary Tale | 182034 | [182034-frameland-a-binary-tale.json](./182034-frameland-a-binary-tale.json) |
 | FramePerfect | 394532 | [394532-frameperfect.json](./394532-frameperfect.json) |
 | Framework Zero: Terminal Panic | 405750 | [405750-framework-zero-terminal-panic.json](./405750-framework-zero-terminal-panic.json) |
 | Framing Dawes | 126916 | [126916-framing-dawes.json](./126916-framing-dawes.json) |
