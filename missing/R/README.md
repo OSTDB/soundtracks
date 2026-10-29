@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radagon Boss FIght | 290362 | [290362-radagon-boss-fight.json](./290362-radagon-boss-fight.json) |
 | Radar | 282669 | [282669-radar.json](./282669-radar.json) |
 | Radar Chaos | 25551 | [25551-radar-chaos.json](./25551-radar-chaos.json) |
+| Radar Commander | 219905 | [219905-radar-commander.json](./219905-radar-commander.json) |
 | Radar Defense | 81053 | [81053-radar-defense.json](./81053-radar-defense.json) |
 | Radar Line | 414160 | [414160-radar-line.json](./414160-radar-line.json) |
 | Radar Lock | 17240 | [17240-radar-lock.json](./17240-radar-lock.json) |
@@ -7383,6 +7384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Rash: Jailbreak | 44897 | [44897-road-rash-jailbreak.json](./44897-road-rash-jailbreak.json) |
 | Road Rash: Jailbreak | 49178 | [49178-road-rash-jailbreak.json](./49178-road-rash-jailbreak.json) |
 | Road Redemption | 11602 | [11602-road-redemption.json](./11602-road-redemption.json) |
+| Road Redemption Mobile | 219906 | [219906-road-redemption-mobile.json](./219906-road-redemption-mobile.json) |
 | Road Riot 4WD | 39946 | [39946-road-riot-4wd.json](./39946-road-riot-4wd.json) |
 | Road Riot Combat Racing | 344930 | [344930-road-riot-combat-racing.json](./344930-road-riot-combat-racing.json) |
 | Road Runner | 277205 | [277205-road-runner.json](./277205-road-runner.json) |
@@ -10992,6 +10994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runner Heroes: The Curse of Night and Day | 127001 | [127001-runner-heroes-the-curse-of-night-and-day.json](./127001-runner-heroes-the-curse-of-night-and-day.json) |
 | Runner Party | 193306 | [193306-runner-party.json](./193306-runner-party.json) |
 | Runner Roy | 250396 | [250396-runner-roy.json](./250396-runner-roy.json) |
+| Runner: Preamble | 219907 | [219907-runner-preamble.json](./219907-runner-preamble.json) |
 | Runner's High | 266281 | [266281-runners-high.json](./266281-runners-high.json) |
 | Runner2: Good Friends Character Pack | 226929 | [226929-runner2-good-friends-character-pack.json](./226929-runner2-good-friends-character-pack.json) |
 | RunnerDot | 153986 | [153986-runnerdot.json](./153986-runnerdot.json) |
