@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafeland: World Kitchen | 120253 | [120253-cafeland-world-kitchen.json](./120253-cafeland-world-kitchen.json) |
 | Cafeteria Nipponica | 22323 | [22323-cafeteria-nipponica.json](./22323-cafeteria-nipponica.json) |
 | Cafeworld | 177027 | [177027-cafeworld.json](./177027-cafeworld.json) |
+| Caff Roulette | 201978 | [201978-caff-roulette.json](./201978-caff-roulette.json) |
 | Caffeine | 17854 | [17854-caffeine.json](./17854-caffeine.json) |
 | Cafon Street | 235126 | [235126-cafon-street.json](./235126-cafon-street.json) |
 | Cage | 30653 | [30653-cage.json](./30653-cage.json) |
@@ -527,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Clans | 328923 | [328923-call-of-clans.json](./328923-call-of-clans.json) |
 | Call of Clans: Optional Elite Card Pack | 355221 | [355221-call-of-clans-optional-elite-card-pack.json](./355221-call-of-clans-optional-elite-card-pack.json) |
 | Call of Clans: Random Legend Card Pack | 355222 | [355222-call-of-clans-random-legend-card-pack.json](./355222-call-of-clans-random-legend-card-pack.json) |
+| Call of Commander: Zombie Island | 201942 | [201942-call-of-commander-zombie-island.json](./201942-call-of-commander-zombie-island.json) |
 | Call of Coronga | 148851 | [148851-call-of-coronga.json](./148851-call-of-coronga.json) |
 | Call of Cthulhu | 9176 | [9176-call-of-cthulhu.json](./9176-call-of-cthulhu.json) |
 | Call of Cthulhu: Shadow of the Comet | 34783 | [34783-call-of-cthulhu-shadow-of-the-comet.json](./34783-call-of-cthulhu-shadow-of-the-comet.json) |
@@ -11708,6 +11710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflux | 235930 | [235930-conflux.json](./235930-conflux.json) |
 | Conflux | 245976 | [245976-conflux.json](./245976-conflux.json) |
 | Conflux | 320520 | [320520-conflux.json](./320520-conflux.json) |
+| Conformity | 201934 | [201934-conformity.json](./201934-conformity.json) |
 | Confound Game | 358222 | [358222-confound-game.json](./358222-confound-game.json) |
 | Confront | 373839 | [373839-confront.json](./373839-confront.json) |
 | Confrontation | 282719 | [282719-confrontation.json](./282719-confrontation.json) |
@@ -14318,6 +14321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crates n' Mohawks | 186339 | [186339-crates-n-mohawks.json](./186339-crates-n-mohawks.json) |
 | CrateTastrophe | 164271 | [164271-cratetastrophe.json](./164271-cratetastrophe.json) |
 | Crave | 170250 | [170250-crave.json](./170250-crave.json) |
+| Crave | 201974 | [201974-crave.json](./201974-crave.json) |
 | Craving | 297447 | [297447-craving.json](./297447-craving.json) |
 | Craving Wisps | 403210 | [403210-craving-wisps.json](./403210-craving-wisps.json) |
 | Crawl | 295634 | [295634-crawl.json](./295634-crawl.json) |
@@ -17455,6 +17459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Robo GX | 3464 | [3464-custom-robo-gx.json](./3464-custom-robo-gx.json) |
 | Custom Robo V2 | 3463 | [3463-custom-robo-v2.json](./3463-custom-robo-v2.json) |
 | Custom Romance City 3D3 | 403817 | [403817-custom-romance-city-3d3.json](./403817-custom-romance-city-3d3.json) |
+| Custom Street World Tour | 201967 | [201967-custom-street-world-tour.json](./201967-custom-street-world-tour.json) |
 | Custom Town | 31597 | [31597-custom-town.json](./31597-custom-town.json) |
 | CustomBullet | 219747 | [219747-custombullet.json](./219747-custombullet.json) |
 | Customer Cums First! | 286398 | [286398-customer-cums-first.json](./286398-customer-cums-first.json) |
