@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-29T01:49:34.658Z",
-  "total_missing": 277156,
+  "generated_at": "2026-10-29T02:19:03.401Z",
+  "total_missing": 277256,
   "games": [
     {
       "igdb_id": 191680,
@@ -4430,6 +4430,11 @@
       "igdb_id": 47396,
       "game_name": "11 Eyes: CrossOver",
       "file": "missing/0-9/47396-11-eyes-crossover.json"
+    },
+    {
+      "igdb_id": 223805,
+      "game_name": "11 Hào Xiǎozhèn Zōnghézhèng",
+      "file": "missing/0-9/223805-11-hao-xiaozhen-zonghezheng.json"
     },
     {
       "igdb_id": 379454,
@@ -75315,6 +75320,11 @@
       "igdb_id": 316101,
       "game_name": "Ark: Aberration Ascended",
       "file": "missing/A/316101-ark-aberration-ascended.json"
+    },
+    {
+      "igdb_id": 223802,
+      "game_name": "ARK: Dinosaur Discovery",
+      "file": "missing/A/223802-ark-dinosaur-discovery.json"
     },
     {
       "igdb_id": 103515,
@@ -185822,6 +185832,11 @@
       "file": "missing/C/176218-cars-empire.json"
     },
     {
+      "igdb_id": 223757,
+      "game_name": "Car+ Toon Race: Rally Valley Champion",
+      "file": "missing/C/223757-car-toon-race-rally-valley-champion.json"
+    },
+    {
       "igdb_id": 46618,
       "game_name": "Cara Night",
       "file": "missing/C/46618-cara-night.json"
@@ -223815,6 +223830,11 @@
       "igdb_id": 71390,
       "game_name": "Cobra II",
       "file": "missing/C/71390-cobra-ii.json"
+    },
+    {
+      "igdb_id": 223808,
+      "game_name": "Cobra Kai 2: Dojos Rising - Nemesis Edition",
+      "file": "missing/C/223808-cobra-kai-2-dojos-rising-nemesis-edition.json"
     },
     {
       "igdb_id": 263194,
@@ -281072,6 +281092,11 @@
       "file": "missing/D/238452-dead-age-survivors.json"
     },
     {
+      "igdb_id": 223800,
+      "game_name": "Dead Age: Zombie Adventure & Shooting Game",
+      "file": "missing/D/223800-dead-age-zombie-adventure-and-shooting-game.json"
+    },
+    {
       "igdb_id": 356286,
       "game_name": "Dead Ahead",
       "file": "missing/D/356286-dead-ahead.json"
@@ -294857,6 +294882,11 @@
       "file": "missing/D/376262-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-akaza-infinity-castle-character-pack.json"
     },
     {
+      "igdb_id": 223797,
+      "game_name": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Daki Character Pack",
+      "file": "missing/D/223797-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-daki-character-pack.json"
+    },
+    {
       "igdb_id": 176791,
       "game_name": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Digital Deluxe Edition",
       "file": "missing/D/176791-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-digital-deluxe-edition.json"
@@ -300927,6 +300957,11 @@
       "file": "missing/D/169826-determinant.json"
     },
     {
+      "igdb_id": 224334,
+      "game_name": "Deterrence",
+      "file": "missing/D/224334-deterrence.json"
+    },
+    {
       "igdb_id": 148487,
       "game_name": "Dethcube",
       "file": "missing/D/148487-dethcube.json"
@@ -304237,6 +304272,11 @@
       "file": "missing/D/340340-dicewood.json"
     },
     {
+      "igdb_id": 224332,
+      "game_name": "Dicey Birdball",
+      "file": "missing/D/224332-dicey-birdball.json"
+    },
+    {
       "igdb_id": 373578,
       "game_name": "Dicey Bizniz",
       "file": "missing/D/373578-dicey-bizniz.json"
@@ -304505,6 +304545,11 @@
       "igdb_id": 416647,
       "game_name": "Did You See That?",
       "file": "missing/D/416647-did-you-see-that.json"
+    },
+    {
+      "igdb_id": 224333,
+      "game_name": "Didactic Jesus Game",
+      "file": "missing/D/224333-didactic-jesus-game.json"
     },
     {
       "igdb_id": 397993,
@@ -320097,6 +320142,11 @@
       "file": "missing/D/155980-dont-blink.json"
     },
     {
+      "igdb_id": 224330,
+      "game_name": "Don't Bow",
+      "file": "missing/D/224330-dont-bow.json"
+    },
+    {
       "igdb_id": 354772,
       "game_name": "Don't Break",
       "file": "missing/D/354772-dont-break.json"
@@ -325140,6 +325190,16 @@
       "igdb_id": 206815,
       "game_name": "Doraemon Story of Seasons: Friends of the Great Kingdom",
       "file": "missing/D/206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json"
+    },
+    {
+      "igdb_id": 223793,
+      "game_name": "Doraemon Story of Seasons: Friends of the Great Kingdom - FGK DLC 1",
+      "file": "missing/D/223793-doraemon-story-of-seasons-friends-of-the-great-kingdom-fgk-dlc-1.json"
+    },
+    {
+      "igdb_id": 223792,
+      "game_name": "Doraemon Story of Seasons: Friends of the Great Kingdom - Special Edition",
+      "file": "missing/D/223792-doraemon-story-of-seasons-friends-of-the-great-kingdom-special-edition.json"
     },
     {
       "igdb_id": 231280,
@@ -330757,6 +330817,11 @@
       "file": "missing/D/213584-dragon-ball-xenoverse-gt-pack-1.json"
     },
     {
+      "igdb_id": 224326,
+      "game_name": "Dragon Ball: Xenoverse - GT Pack 2 + Mira and Towa",
+      "file": "missing/D/224326-dragon-ball-xenoverse-gt-pack-2-mira-and-towa.json"
+    },
+    {
       "igdb_id": 268923,
       "game_name": "Dragon Ball: Xenoverse - Resurrection F Pack",
       "file": "missing/D/268923-dragon-ball-xenoverse-resurrection-f-pack.json"
@@ -330842,6 +330907,11 @@
       "file": "missing/D/225546-dragon-ball-xenoverse-2-hero-of-justice-pack-2.json"
     },
     {
+      "igdb_id": 224324,
+      "game_name": "Dragon Ball: Xenoverse 2 - Legend Patrol Pack",
+      "file": "missing/D/224324-dragon-ball-xenoverse-2-legend-patrol-pack.json"
+    },
+    {
       "igdb_id": 168741,
       "game_name": "Dragon Ball: Xenoverse 2 - Legendary Pack 1",
       "file": "missing/D/168741-dragon-ball-xenoverse-2-legendary-pack-1.json"
@@ -330850,6 +330920,11 @@
       "igdb_id": 193208,
       "game_name": "Dragon Ball: Xenoverse 2 - Legendary Pack 2",
       "file": "missing/D/193208-dragon-ball-xenoverse-2-legendary-pack-2.json"
+    },
+    {
+      "igdb_id": 224323,
+      "game_name": "Dragon Ball: Xenoverse 2 - Legendary Pack Set",
+      "file": "missing/D/224323-dragon-ball-xenoverse-2-legendary-pack-set.json"
     },
     {
       "igdb_id": 272414,
@@ -331850,6 +331925,11 @@
       "igdb_id": 195619,
       "game_name": "Dragon Princess Anastasia",
       "file": "missing/D/195619-dragon-princess-anastasia.json"
+    },
+    {
+      "igdb_id": 224327,
+      "game_name": "Dragon Princess is Hungry",
+      "file": "missing/D/224327-dragon-princess-is-hungry.json"
     },
     {
       "igdb_id": 67256,
@@ -333640,6 +333720,11 @@
       "igdb_id": 260170,
       "game_name": "Dragonscale Monastery",
       "file": "missing/D/260170-dragonscale-monastery.json"
+    },
+    {
+      "igdb_id": 224328,
+      "game_name": "DragonScales 1-7 Bundle",
+      "file": "missing/D/224328-dragonscales-1-7-bundle.json"
     },
     {
       "igdb_id": 55821,
@@ -336752,6 +336837,11 @@
       "file": "missing/D/322138-dreamcore95-idle.json"
     },
     {
+      "igdb_id": 224329,
+      "game_name": "Dreamcutter",
+      "file": "missing/D/224329-dreamcutter.json"
+    },
+    {
       "igdb_id": 300476,
       "game_name": "Dreamcutter: Steelbook Limited Edition",
       "file": "missing/D/300476-dreamcutter-steelbook-limited-edition.json"
@@ -337115,6 +337205,11 @@
       "igdb_id": 207308,
       "game_name": "Dreamland",
       "file": "missing/D/207308-dreamland.json"
+    },
+    {
+      "igdb_id": 224322,
+      "game_name": "Dreamland",
+      "file": "missing/D/224322-dreamland.json"
     },
     {
       "igdb_id": 274535,
@@ -347882,6 +347977,11 @@
       "file": "missing/D/275747-dungeons-deep.json"
     },
     {
+      "igdb_id": 224321,
+      "game_name": "Dungeons Diced",
+      "file": "missing/D/224321-dungeons-diced.json"
+    },
+    {
       "igdb_id": 84034,
       "game_name": "Dungeons Forever",
       "file": "missing/D/84034-dungeons-forever.json"
@@ -351757,6 +351857,11 @@
       "file": "missing/E/41808-eagle-fighter.json"
     },
     {
+      "igdb_id": 224315,
+      "game_name": "Eagle Hunting Journey",
+      "file": "missing/E/224315-eagle-hunting-journey.json"
+    },
+    {
       "igdb_id": 28774,
       "game_name": "Eagle Island",
       "file": "missing/E/28774-eagle-island.json"
@@ -351960,6 +352065,11 @@
       "igdb_id": 174042,
       "game_name": "Early Quest 2",
       "file": "missing/E/174042-early-quest-2.json"
+    },
+    {
+      "igdb_id": 224314,
+      "game_name": "Early Worm",
+      "file": "missing/E/224314-early-worm.json"
     },
     {
       "igdb_id": 282169,
@@ -354602,6 +354712,11 @@
       "file": "missing/E/103345-echo-combat.json"
     },
     {
+      "igdb_id": 224313,
+      "game_name": "Echo Divide",
+      "file": "missing/E/224313-echo-divide.json"
+    },
+    {
       "igdb_id": 383482,
       "game_name": "Echo Drop!",
       "file": "missing/E/383482-echo-drop.json"
@@ -356625,6 +356740,11 @@
       "igdb_id": 31546,
       "game_name": "Edge Guardian",
       "file": "missing/E/31546-edge-guardian.json"
+    },
+    {
+      "igdb_id": 224312,
+      "game_name": "Edge Islands",
+      "file": "missing/E/224312-edge-islands.json"
     },
     {
       "igdb_id": 177234,
@@ -363912,6 +364032,11 @@
       "file": "missing/E/257232-ember-reignition.json"
     },
     {
+      "igdb_id": 224310,
+      "game_name": "Ember's Love",
+      "file": "missing/E/224310-embers-love.json"
+    },
+    {
       "igdb_id": 324303,
       "game_name": "Ember's Verge",
       "file": "missing/E/324303-embers-verge.json"
@@ -365985,6 +366110,11 @@
       "igdb_id": 324588,
       "game_name": "Empyreal",
       "file": "missing/E/324588-empyreal.json"
+    },
+    {
+      "igdb_id": 224311,
+      "game_name": "Empyreal Dawn",
+      "file": "missing/E/224311-empyreal-dawn.json"
     },
     {
       "igdb_id": 30464,
@@ -377172,6 +377302,11 @@
       "file": "missing/E/195258-et-superman-wrath-of-tyrannosaurus-rex.json"
     },
     {
+      "igdb_id": 223758,
+      "game_name": "ET Varginha",
+      "file": "missing/E/223758-et-varginha.json"
+    },
+    {
       "igdb_id": 142954,
       "game_name": "ET: Legacy",
       "file": "missing/E/142954-et-legacy.json"
@@ -378987,6 +379122,11 @@
       "file": "missing/E/6653-euro-truck-simulator.json"
     },
     {
+      "igdb_id": 224308,
+      "game_name": "Euro Truck Simulator 2: Actros Tuning Pack",
+      "file": "missing/E/224308-euro-truck-simulator-2-actros-tuning-pack.json"
+    },
+    {
       "igdb_id": 125011,
       "game_name": "Euro Truck Simulator 2: Beyond the Baltic Sea",
       "file": "missing/E/125011-euro-truck-simulator-2-beyond-the-baltic-sea.json"
@@ -379017,6 +379157,11 @@
       "file": "missing/E/228062-euro-truck-simulator-2-feldbinder-trailer-pack.json"
     },
     {
+      "igdb_id": 224307,
+      "game_name": "Euro Truck Simulator 2: FH Tuning Pack",
+      "file": "missing/E/224307-euro-truck-simulator-2-fh-tuning-pack.json"
+    },
+    {
       "igdb_id": 378923,
       "game_name": "Euro Truck Simulator 2: Forest Machinery",
       "file": "missing/E/378923-euro-truck-simulator-2-forest-machinery.json"
@@ -379032,6 +379177,11 @@
       "file": "missing/E/52975-euro-truck-simulator-2-gold-edition.json"
     },
     {
+      "igdb_id": 224309,
+      "game_name": "Euro Truck Simulator 2: Goodyear Tyres Pack",
+      "file": "missing/E/224309-euro-truck-simulator-2-goodyear-tyres-pack.json"
+    },
+    {
       "igdb_id": 274881,
       "game_name": "Euro Truck Simulator 2: Greece",
       "file": "missing/E/274881-euro-truck-simulator-2-greece.json"
@@ -379045,6 +379195,11 @@
       "igdb_id": 136172,
       "game_name": "Euro Truck Simulator 2: Heavy Cargo",
       "file": "missing/E/136172-euro-truck-simulator-2-heavy-cargo.json"
+    },
+    {
+      "igdb_id": 224306,
+      "game_name": "Euro Truck Simulator 2: HS-Schoch Tuning Pack",
+      "file": "missing/E/224306-euro-truck-simulator-2-hs-schoch-tuning-pack.json"
     },
     {
       "igdb_id": 145585,
@@ -379137,9 +379292,19 @@
       "file": "missing/E/204244-euro-truck-simulator-2-west-balkans.json"
     },
     {
+      "igdb_id": 224304,
+      "game_name": "Euro Truck Simulator 2: Wheel Tuning Pack",
+      "file": "missing/E/224304-euro-truck-simulator-2-wheel-tuning-pack.json"
+    },
+    {
       "igdb_id": 256992,
       "game_name": "Euro Truck Simulator 2: Wielton Trailer Pack",
       "file": "missing/E/256992-euro-truck-simulator-2-wielton-trailer-pack.json"
+    },
+    {
+      "igdb_id": 224305,
+      "game_name": "Euro Truck Simulator 2: XF Tuning Pack",
+      "file": "missing/E/224305-euro-truck-simulator-2-xf-tuning-pack.json"
     },
     {
       "igdb_id": 71554,
@@ -385267,6 +385432,11 @@
       "file": "missing/E/57048-exosphere.json"
     },
     {
+      "igdb_id": 224303,
+      "game_name": "Exostation",
+      "file": "missing/E/224303-exostation.json"
+    },
+    {
       "igdb_id": 35725,
       "game_name": "Exostorm",
       "file": "missing/E/35725-exostorm.json"
@@ -390847,6 +391017,11 @@
       "file": "missing/F/182456-fairy-bakery-workshop.json"
     },
     {
+      "igdb_id": 224302,
+      "game_name": "Fairy Biography 2: Confidante",
+      "file": "missing/F/224302-fairy-biography-2-confidante.json"
+    },
+    {
       "igdb_id": 285609,
       "game_name": "Fairy Biography 5: Demon",
       "file": "missing/F/285609-fairy-biography-5-demon.json"
@@ -391662,6 +391837,11 @@
       "file": "missing/F/29922-fake-happy-end.json"
     },
     {
+      "igdb_id": 224298,
+      "game_name": "Fake Heart",
+      "file": "missing/F/224298-fake-heart.json"
+    },
+    {
       "igdb_id": 166628,
       "game_name": "Fake Hostel",
       "file": "missing/F/166628-fake-hostel.json"
@@ -392212,6 +392392,11 @@
       "file": "missing/F/268450-fall-ninja.json"
     },
     {
+      "igdb_id": 224296,
+      "game_name": "Fall of Bali",
+      "file": "missing/F/224296-fall-of-bali.json"
+    },
+    {
       "igdb_id": 240763,
       "game_name": "Fall of Gods",
       "file": "missing/F/240763-fall-of-gods.json"
@@ -392517,6 +392702,11 @@
       "file": "missing/F/168370-fallen-enchantress-legendary-heroes-leader-pack-dlc.json"
     },
     {
+      "igdb_id": 224300,
+      "game_name": "Fallen Enchantress: Legendary Heroes - Map Pack",
+      "file": "missing/F/224300-fallen-enchantress-legendary-heroes-map-pack.json"
+    },
+    {
       "igdb_id": 168379,
       "game_name": "Fallen Enchantress: Legendary Heroes - Quest Pack DLC",
       "file": "missing/F/168379-fallen-enchantress-legendary-heroes-quest-pack-dlc.json"
@@ -392525,6 +392715,11 @@
       "igdb_id": 168380,
       "game_name": "Fallen Enchantress: Legendary Heroes - The Dead World DLC",
       "file": "missing/F/168380-fallen-enchantress-legendary-heroes-the-dead-world-dlc.json"
+    },
+    {
+      "igdb_id": 224299,
+      "game_name": "Fallen Enchantress: Map Pack",
+      "file": "missing/F/224299-fallen-enchantress-map-pack.json"
     },
     {
       "igdb_id": 334792,
@@ -392630,6 +392825,11 @@
       "igdb_id": 305622,
       "game_name": "Fallen Knight: Rebellion & Rise Of The Fallen",
       "file": "missing/F/305622-fallen-knight-rebellion-and-rise-of-the-fallen.json"
+    },
+    {
+      "igdb_id": 224297,
+      "game_name": "Fallen Knight: Rebellion of the Fallen",
+      "file": "missing/F/224297-fallen-knight-rebellion-of-the-fallen.json"
     },
     {
       "igdb_id": 367514,
@@ -394720,6 +394920,11 @@
       "igdb_id": 135648,
       "game_name": "Family Bowling",
       "file": "missing/F/135648-family-bowling.json"
+    },
+    {
+      "igdb_id": 223759,
+      "game_name": "Family Bundle",
+      "file": "missing/F/223759-family-bundle.json"
     },
     {
       "igdb_id": 370825,
@@ -396920,6 +397125,51 @@
       "igdb_id": 105802,
       "game_name": "Fantasy Maze",
       "file": "missing/F/105802-fantasy-maze.json"
+    },
+    {
+      "igdb_id": 224288,
+      "game_name": "Fantasy Memory Card Game: Expansion Pack 1",
+      "file": "missing/F/224288-fantasy-memory-card-game-expansion-pack-1.json"
+    },
+    {
+      "igdb_id": 224287,
+      "game_name": "Fantasy Memory Card Game: Expansion Pack 10",
+      "file": "missing/F/224287-fantasy-memory-card-game-expansion-pack-10.json"
+    },
+    {
+      "igdb_id": 224286,
+      "game_name": "Fantasy Memory Card Game: Expansion Pack 11",
+      "file": "missing/F/224286-fantasy-memory-card-game-expansion-pack-11.json"
+    },
+    {
+      "igdb_id": 224285,
+      "game_name": "Fantasy Memory Card Game: Expansion Pack 12",
+      "file": "missing/F/224285-fantasy-memory-card-game-expansion-pack-12.json"
+    },
+    {
+      "igdb_id": 224284,
+      "game_name": "Fantasy Memory Card Game: Expansion Pack 13",
+      "file": "missing/F/224284-fantasy-memory-card-game-expansion-pack-13.json"
+    },
+    {
+      "igdb_id": 224289,
+      "game_name": "Fantasy Memory Card Game: Expansion Pack 6",
+      "file": "missing/F/224289-fantasy-memory-card-game-expansion-pack-6.json"
+    },
+    {
+      "igdb_id": 224290,
+      "game_name": "Fantasy Memory Card Game: Expansion Pack 7",
+      "file": "missing/F/224290-fantasy-memory-card-game-expansion-pack-7.json"
+    },
+    {
+      "igdb_id": 224291,
+      "game_name": "Fantasy Memory Card Game: Expansion Pack 8",
+      "file": "missing/F/224291-fantasy-memory-card-game-expansion-pack-8.json"
+    },
+    {
+      "igdb_id": 224292,
+      "game_name": "Fantasy Memory Card Game: Expansion Pack 9",
+      "file": "missing/F/224292-fantasy-memory-card-game-expansion-pack-9.json"
     },
     {
       "igdb_id": 340057,
@@ -400685,6 +400935,21 @@
       "igdb_id": 127356,
       "game_name": "Fast & Furious: Crossroads",
       "file": "missing/F/127356-fast-and-furious-crossroads.json"
+    },
+    {
+      "igdb_id": 224293,
+      "game_name": "Fast & Furious: Crossroads - Pack 1",
+      "file": "missing/F/224293-fast-and-furious-crossroads-pack-1.json"
+    },
+    {
+      "igdb_id": 224294,
+      "game_name": "Fast & Furious: Crossroads - Pack 2",
+      "file": "missing/F/224294-fast-and-furious-crossroads-pack-2.json"
+    },
+    {
+      "igdb_id": 224295,
+      "game_name": "Fast & Furious: Crossroads - Pack 3",
+      "file": "missing/F/224295-fast-and-furious-crossroads-pack-3.json"
     },
     {
       "igdb_id": 293726,
@@ -476997,6 +477262,16 @@
       "file": "missing/G/243236-golazo-2-pixel-stars.json"
     },
     {
+      "igdb_id": 223772,
+      "game_name": "Golazo! 2: Qatar International Stars",
+      "file": "missing/G/223772-golazo-2-qatar-international-stars.json"
+    },
+    {
+      "igdb_id": 223790,
+      "game_name": "Golazo! 2: Soccer Cup 2022",
+      "file": "missing/G/223790-golazo-2-soccer-cup-2022.json"
+    },
+    {
       "igdb_id": 315301,
       "game_name": "Gold",
       "file": "missing/G/315301-gold.json"
@@ -478800,6 +479075,11 @@
       "igdb_id": 298594,
       "game_name": "Golf With Your Friends: Critical Hit Pack",
       "file": "missing/G/298594-golf-with-your-friends-critical-hit-pack.json"
+    },
+    {
+      "igdb_id": 223789,
+      "game_name": "Golf With Your Friends: Deluxe Edition",
+      "file": "missing/G/223789-golf-with-your-friends-deluxe-edition.json"
     },
     {
       "igdb_id": 268540,
@@ -519877,6 +520157,11 @@
       "file": "missing/H/369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json"
     },
     {
+      "igdb_id": 223761,
+      "game_name": "Help! No Brake",
+      "file": "missing/H/223761-help-no-brake.json"
+    },
+    {
       "igdb_id": 271410,
       "game_name": "Helper to Hero",
       "file": "missing/H/271410-helper-to-hero.json"
@@ -545852,6 +546137,11 @@
       "file": "missing/H/264491-hot-wheels-unleashed-chevy-1956.json"
     },
     {
+      "igdb_id": 223787,
+      "game_name": "Hot Wheels Unleashed: Christmas Pack",
+      "file": "missing/H/223787-hot-wheels-unleashed-christmas-pack.json"
+    },
+    {
       "igdb_id": 169204,
       "game_name": "Hot Wheels Unleashed: Collector's Edition",
       "file": "missing/H/169204-hot-wheels-unleashed-collectors-edition.json"
@@ -545870,6 +546160,11 @@
       "igdb_id": 195766,
       "game_name": "Hot Wheels Unleashed: DC Super Heroes Racing Season",
       "file": "missing/H/195766-hot-wheels-unleashed-dc-super-heroes-racing-season.json"
+    },
+    {
+      "igdb_id": 223786,
+      "game_name": "Hot Wheels Unleashed: Fun Pack",
+      "file": "missing/H/223786-hot-wheels-unleashed-fun-pack.json"
     },
     {
       "igdb_id": 218968,
@@ -558842,6 +559137,11 @@
       "file": "missing/I/309866-im-not-crazy.json"
     },
     {
+      "igdb_id": 223803,
+      "game_name": "I'm Not Happy",
+      "file": "missing/I/223803-im-not-happy.json"
+    },
+    {
       "igdb_id": 186263,
       "game_name": "I'm Not Jelly",
       "file": "missing/I/186263-im-not-jelly.json"
@@ -567247,6 +567547,11 @@
       "file": "missing/I/107696-impossible-vr-ninja.json"
     },
     {
+      "igdb_id": 223804,
+      "game_name": "ImpossiBot",
+      "file": "missing/I/223804-impossibot.json"
+    },
+    {
       "igdb_id": 264150,
       "game_name": "ImpossiBowl",
       "file": "missing/I/264150-impossibowl.json"
@@ -568365,6 +568670,11 @@
       "igdb_id": 260420,
       "game_name": "In The Ruined Courtyard",
       "file": "missing/I/260420-in-the-ruined-courtyard.json"
+    },
+    {
+      "igdb_id": 223798,
+      "game_name": "In the Rural Village of Nagoro",
+      "file": "missing/I/223798-in-the-rural-village-of-nagoro.json"
     },
     {
       "igdb_id": 133055,
@@ -578157,6 +578467,11 @@
       "file": "missing/I/126554-into-the-soup.json"
     },
     {
+      "igdb_id": 223799,
+      "game_name": "Into the Spiritwell",
+      "file": "missing/I/223799-into-the-spiritwell.json"
+    },
+    {
       "igdb_id": 21564,
       "game_name": "Into the Stars",
       "file": "missing/I/21564-into-the-stars.json"
@@ -579250,6 +579565,11 @@
       "igdb_id": 176990,
       "game_name": "Inverted Space",
       "file": "missing/I/176990-inverted-space.json"
+    },
+    {
+      "igdb_id": 223801,
+      "game_name": "InVertia",
+      "file": "missing/I/223801-invertia.json"
     },
     {
       "igdb_id": 350525,
@@ -581732,6 +582052,11 @@
       "file": "missing/I/334180-isekai-harem-quest-love-blades-and-power.json"
     },
     {
+      "igdb_id": 223760,
+      "game_name": "Isekai Harem Saver",
+      "file": "missing/I/223760-isekai-harem-saver.json"
+    },
+    {
       "igdb_id": 388726,
       "game_name": "Isekai HKV",
       "file": "missing/I/388726-isekai-hkv.json"
@@ -583780,6 +584105,11 @@
       "igdb_id": 373840,
       "game_name": "It Reaches",
       "file": "missing/I/373840-it-reaches.json"
+    },
+    {
+      "igdb_id": 223796,
+      "game_name": "It Returned to the Desert",
+      "file": "missing/I/223796-it-returned-to-the-desert.json"
     },
     {
       "igdb_id": 117440,
@@ -596827,6 +597157,11 @@
       "file": "missing/J/263539-jojos-bizarre-adventure-all-star-battle-r-leone-abbacchio.json"
     },
     {
+      "igdb_id": 223783,
+      "game_name": "JoJo's Bizarre Adventure: All-Star Battle R - Risotto Nero DLC",
+      "file": "missing/J/223783-jojos-bizarre-adventure-all-star-battle-r-risotto-nero-dlc.json"
+    },
+    {
       "igdb_id": 234633,
       "game_name": "JoJo's Bizarre Adventure: All-Star Battle R - Rudol von Stroheim",
       "file": "missing/J/234633-jojos-bizarre-adventure-all-star-battle-r-rudol-von-stroheim.json"
@@ -607400,6 +607735,11 @@
       "igdb_id": 206556,
       "game_name": "Kanji Parkour",
       "file": "missing/K/206556-kanji-parkour.json"
+    },
+    {
+      "igdb_id": 223794,
+      "game_name": "Kanji RPG",
+      "file": "missing/K/223794-kanji-rpg.json"
     },
     {
       "igdb_id": 151710,
@@ -646292,9 +646632,29 @@
       "file": "missing/L/119305-lego-star-wars-the-skywalker-saga.json"
     },
     {
+      "igdb_id": 223782,
+      "game_name": "LEGO Star Wars: The Skywalker Saga - Andor Character Pack",
+      "file": "missing/L/223782-lego-star-wars-the-skywalker-saga-andor-character-pack.json"
+    },
+    {
+      "igdb_id": 223781,
+      "game_name": "LEGO Star Wars: The Skywalker Saga - Book of Boba Fett Character Pack",
+      "file": "missing/L/223781-lego-star-wars-the-skywalker-saga-book-of-boba-fett-character-pack.json"
+    },
+    {
       "igdb_id": 196046,
       "game_name": "LEGO Star Wars: The Skywalker Saga - Character Collection 1",
       "file": "missing/L/196046-lego-star-wars-the-skywalker-saga-character-collection-1.json"
+    },
+    {
+      "igdb_id": 223780,
+      "game_name": "LEGO Star Wars: The Skywalker Saga - Character Collection 1 & 2",
+      "file": "missing/L/223780-lego-star-wars-the-skywalker-saga-character-collection-1-and-2.json"
+    },
+    {
+      "igdb_id": 223773,
+      "game_name": "LEGO Star Wars: The Skywalker Saga - Character Collection 2",
+      "file": "missing/L/223773-lego-star-wars-the-skywalker-saga-character-collection-2.json"
     },
     {
       "igdb_id": 139937,
@@ -646322,14 +646682,34 @@
       "file": "missing/L/216281-lego-star-wars-the-skywalker-saga-galactic-edition.json"
     },
     {
+      "igdb_id": 223774,
+      "game_name": "LEGO Star Wars: The Skywalker Saga - Obi-Wan Kenobi Character Pack",
+      "file": "missing/L/223774-lego-star-wars-the-skywalker-saga-obi-wan-kenobi-character-pack.json"
+    },
+    {
+      "igdb_id": 223775,
+      "game_name": "LEGO Star Wars: The Skywalker Saga - Rebels Character Pack",
+      "file": "missing/L/223775-lego-star-wars-the-skywalker-saga-rebels-character-pack.json"
+    },
+    {
       "igdb_id": 201138,
       "game_name": "LEGO Star Wars: The Skywalker Saga - Solo: A Star Wars Story - Character Pack",
       "file": "missing/L/201138-lego-star-wars-the-skywalker-saga-solo-a-star-wars-story-character-pack.json"
     },
     {
+      "igdb_id": 223776,
+      "game_name": "LEGO Star Wars: The Skywalker Saga - Summer Vacation Character Pack",
+      "file": "missing/L/223776-lego-star-wars-the-skywalker-saga-summer-vacation-character-pack.json"
+    },
+    {
       "igdb_id": 201129,
       "game_name": "LEGO Star Wars: The Skywalker Saga - The Bad Batch Character Pack",
       "file": "missing/L/201129-lego-star-wars-the-skywalker-saga-the-bad-batch-character-pack.json"
+    },
+    {
+      "igdb_id": 223777,
+      "game_name": "LEGO Star Wars: The Skywalker Saga - The Clone Wars Character Pack",
+      "file": "missing/L/223777-lego-star-wars-the-skywalker-saga-the-clone-wars-character-pack.json"
     },
     {
       "igdb_id": 201137,
@@ -658477,9 +658857,29 @@
       "file": "missing/L/251510-little-mouses-encyclopedia-definitive-edition.json"
     },
     {
+      "igdb_id": 223779,
+      "game_name": "Little Mouse's Encyclopedia: Deluxe Edition",
+      "file": "missing/L/223779-little-mouses-encyclopedia-deluxe-edition.json"
+    },
+    {
       "igdb_id": 231266,
       "game_name": "Little Mouse's Encyclopedia: Extended Edition",
       "file": "missing/L/231266-little-mouses-encyclopedia-extended-edition.json"
+    },
+    {
+      "igdb_id": 223788,
+      "game_name": "Little Mouse's Encyclopedia: Forest Puzzle",
+      "file": "missing/L/223788-little-mouses-encyclopedia-forest-puzzle.json"
+    },
+    {
+      "igdb_id": 223791,
+      "game_name": "Little Mouse's Encyclopedia: Garden Puzzle",
+      "file": "missing/L/223791-little-mouses-encyclopedia-garden-puzzle.json"
+    },
+    {
+      "igdb_id": 223770,
+      "game_name": "Little Mouse's Encyclopedia: Pond Puzzle",
+      "file": "missing/L/223770-little-mouses-encyclopedia-pond-puzzle.json"
     },
     {
       "igdb_id": 233358,
@@ -666640,6 +667040,11 @@
       "igdb_id": 244229,
       "game_name": "Lost Chapter",
       "file": "missing/L/244229-lost-chapter.json"
+    },
+    {
+      "igdb_id": 223778,
+      "game_name": "Lost Chiko",
+      "file": "missing/L/223778-lost-chiko.json"
     },
     {
       "igdb_id": 305490,
@@ -741372,6 +741777,11 @@
       "file": "missing/M/403425-mojito-the-cat-halloween.json"
     },
     {
+      "igdb_id": 223768,
+      "game_name": "Mojito the Cat: Halloween Edition",
+      "file": "missing/M/223768-mojito-the-cat-halloween-edition.json"
+    },
+    {
       "igdb_id": 309643,
       "game_name": "Mojito the Cat: Halloween Skins",
       "file": "missing/M/309643-mojito-the-cat-halloween-skins.json"
@@ -787987,6 +788397,11 @@
       "file": "missing/N/192170-new-scuffed-bhop-simulation-2026-goty-edition.json"
     },
     {
+      "igdb_id": 223784,
+      "game_name": "New Scuffed Epic Visual Novel",
+      "file": "missing/N/223784-new-scuffed-epic-visual-novel.json"
+    },
+    {
       "igdb_id": 40380,
       "game_name": "New Sinbad 7",
       "file": "missing/N/40380-new-sinbad-7.json"
@@ -808185,6 +808600,16 @@
       "igdb_id": 338107,
       "game_name": "Obakeidoro 2: Chase & Seek",
       "file": "missing/O/338107-obakeidoro-2-chase-and-seek.json"
+    },
+    {
+      "igdb_id": 223806,
+      "game_name": "Obakeidoro!: Castlevania Collaboration Character DLC Bundle",
+      "file": "missing/O/223806-obakeidoro-castlevania-collaboration-character-dlc-bundle.json"
+    },
+    {
+      "igdb_id": 223807,
+      "game_name": "Obakeidoro!: Character DLC Bundle 2",
+      "file": "missing/O/223807-obakeidoro-character-dlc-bundle-2.json"
     },
     {
       "igdb_id": 329042,
@@ -912942,6 +913367,11 @@
       "file": "missing/P/237980-puzzle-book-adventure-pack.json"
     },
     {
+      "igdb_id": 223771,
+      "game_name": "Puzzle Book: All DLCs Pack",
+      "file": "missing/P/223771-puzzle-book-all-dlcs-pack.json"
+    },
+    {
       "igdb_id": 378959,
       "game_name": "Puzzle Book: Animals Edition",
       "file": "missing/P/378959-puzzle-book-animals-edition.json"
@@ -984782,6 +985212,11 @@
       "file": "missing/S/212269-samurai-maiden.json"
     },
     {
+      "igdb_id": 223764,
+      "game_name": "Samurai Maiden: Deluxe Edition",
+      "file": "missing/S/223764-samurai-maiden-deluxe-edition.json"
+    },
+    {
       "igdb_id": 242707,
       "game_name": "Samurai Mech",
       "file": "missing/S/242707-samurai-mech.json"
@@ -995640,6 +996075,11 @@
       "igdb_id": 218498,
       "game_name": "SD Gundam Battle Alliance: Ultimate Edition",
       "file": "missing/S/218498-sd-gundam-battle-alliance-ultimate-edition.json"
+    },
+    {
+      "igdb_id": 223767,
+      "game_name": "SD Gundam Battle Alliance: Unit and Scenario Pack 1",
+      "file": "missing/S/223767-sd-gundam-battle-alliance-unit-and-scenario-pack-1.json"
     },
     {
       "igdb_id": 237976,
@@ -1046900,6 +1047340,11 @@
       "igdb_id": 148147,
       "game_name": "SnowRunner: Western Star 49X",
       "file": "missing/S/148147-snowrunner-western-star-49x.json"
+    },
+    {
+      "igdb_id": 223766,
+      "game_name": "SnowRunner: Western Star Wolf Pack",
+      "file": "missing/S/223766-snowrunner-western-star-wolf-pack.json"
     },
     {
       "igdb_id": 284962,
@@ -1113617,6 +1114062,11 @@
       "file": "missing/S/220880-super-dino.json"
     },
     {
+      "igdb_id": 223795,
+      "game_name": "Super Dino: Dino-x Pack",
+      "file": "missing/S/223795-super-dino-dino-x-pack.json"
+    },
+    {
       "igdb_id": 233907,
       "game_name": "Super Dino: Extended Edition",
       "file": "missing/S/233907-super-dino-extended-edition.json"
@@ -1135372,6 +1135822,11 @@
       "file": "missing/S/310445-synaxarion-christian-stories-holy-martyr-savvas-the-goth.json"
     },
     {
+      "igdb_id": 223765,
+      "game_name": "Synaxarion: Acts Part 1",
+      "file": "missing/S/223765-synaxarion-acts-part-1.json"
+    },
+    {
       "igdb_id": 306536,
       "game_name": "Synaxarion: Great Martyr Theodore the Tyro",
       "file": "missing/S/306536-synaxarion-great-martyr-theodore-the-tyro.json"
@@ -1142225,6 +1142680,11 @@
       "igdb_id": 405458,
       "game_name": "Tales of Eternia: Remastered",
       "file": "missing/T/405458-tales-of-eternia-remastered.json"
+    },
+    {
+      "igdb_id": 224301,
+      "game_name": "Tales of Fablecraft",
+      "file": "missing/T/224301-tales-of-fablecraft.json"
     },
     {
       "igdb_id": 365207,
@@ -1162520,6 +1162980,36 @@
       "igdb_id": 268391,
       "game_name": "The Anime Super Remix: Kyojin no Hoshi",
       "file": "missing/T/268391-the-anime-super-remix-kyojin-no-hoshi.json"
+    },
+    {
+      "igdb_id": 224320,
+      "game_name": "The Annoying Thing: 3-in-1",
+      "file": "missing/T/224320-the-annoying-thing-3-in-1.json"
+    },
+    {
+      "igdb_id": 224319,
+      "game_name": "The Annoying Thing: Chaser Racer",
+      "file": "missing/T/224319-the-annoying-thing-chaser-racer.json"
+    },
+    {
+      "igdb_id": 224316,
+      "game_name": "The Annoying Thing: Disco Mania",
+      "file": "missing/T/224316-the-annoying-thing-disco-mania.json"
+    },
+    {
+      "igdb_id": 224317,
+      "game_name": "The Annoying Thing: Gold Rush",
+      "file": "missing/T/224317-the-annoying-thing-gold-rush.json"
+    },
+    {
+      "igdb_id": 224331,
+      "game_name": "The Annoying Thing: Pen Game",
+      "file": "missing/T/224331-the-annoying-thing-pen-game.json"
+    },
+    {
+      "igdb_id": 224318,
+      "game_name": "The Annoying Thing: Robot Raider",
+      "file": "missing/T/224318-the-annoying-thing-robot-raider.json"
     },
     {
       "igdb_id": 141145,
@@ -1343967,6 +1344457,11 @@
       "file": "missing/W/275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json"
     },
     {
+      "igdb_id": 223762,
+      "game_name": "Wingspan + European Expansion + Seasonal Decorative Pack",
+      "file": "missing/W/223762-wingspan-european-expansion-seasonal-decorative-pack.json"
+    },
+    {
       "igdb_id": 331509,
       "game_name": "Wingspan Oceania Deluxe Bundle",
       "file": "missing/W/331509-wingspan-oceania-deluxe-bundle.json"
@@ -1354350,6 +1354845,11 @@
       "igdb_id": 171012,
       "game_name": "World of Tanks: Blitz - Space Pack",
       "file": "missing/W/171012-world-of-tanks-blitz-space-pack.json"
+    },
+    {
+      "igdb_id": 223763,
+      "game_name": "World of Tanks: Blitz - Type 64 Comic Bundle",
+      "file": "missing/W/223763-world-of-tanks-blitz-type-64-comic-bundle.json"
     },
     {
       "igdb_id": 361890,
