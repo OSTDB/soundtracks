@@ -1761,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yummy Cubes | 100342 | [100342-yummy-cubes.json](./100342-yummy-cubes.json) |
 | Yummy Drink Factory | 295930 | [295930-yummy-drink-factory.json](./295930-yummy-drink-factory.json) |
 | Yummy Girl 2 | 195243 | [195243-yummy-girl-2.json](./195243-yummy-girl-2.json) |
+| Yummy Girls | 203631 | [203631-yummy-girls.json](./203631-yummy-girls.json) |
 | Yummy Girls 2 | 236762 | [236762-yummy-girls-2.json](./236762-yummy-girls-2.json) |
 | Yummy Girls 3 | 368079 | [368079-yummy-girls-3.json](./368079-yummy-girls-3.json) |
 | Yummy Jewels | 264900 | [264900-yummy-jewels.json](./264900-yummy-jewels.json) |
@@ -1798,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yunoia | 249649 | [249649-yunoia.json](./249649-yunoia.json) |
 | Yuntai | 405776 | [405776-yuntai.json](./405776-yuntai.json) |
 | Yunyun Syndrome!?: Rhythm Psychosis | 302655 | [302655-yunyun-syndrome-rhythm-psychosis.json](./302655-yunyun-syndrome-rhythm-psychosis.json) |
+| Yuonger Adventure | 203624 | [203624-yuonger-adventure.json](./203624-yuonger-adventure.json) |
 | Yuoni | 146806 | [146806-yuoni.json](./146806-yuoni.json) |
 | Yuoni | 206573 | [206573-yuoni.json](./206573-yuoni.json) |
 | Yuoni: Sunset Edition | 171858 | [171858-yuoni-sunset-edition.json](./171858-yuoni-sunset-edition.json) |
