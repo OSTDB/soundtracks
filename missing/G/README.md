@@ -2069,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaza SP | 279081 | [279081-gaza-sp.json](./279081-gaza-sp.json) |
 | Gazar | 373167 | [373167-gazar.json](./373167-gazar.json) |
 | Gaze At Maze | 101620 | [101620-gaze-at-maze.json](./101620-gaze-at-maze.json) |
+| Gaze Into Fate | 213724 | [213724-gaze-into-fate.json](./213724-gaze-into-fate.json) |
 | Gaze of Dread | 293006 | [293006-gaze-of-dread.json](./293006-gaze-of-dread.json) |
 | Gaze of the Eyeless | 191089 | [191089-gaze-of-the-eyeless.json](./191089-gaze-of-the-eyeless.json) |
 | Gazed | 393476 | [393476-gazed.json](./393476-gazed.json) |
