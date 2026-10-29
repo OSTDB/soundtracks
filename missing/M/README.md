@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magissy | 169843 | [169843-magissy.json](./169843-magissy.json) |
 | Magistrangers | 392793 | [392793-magistrangers.json](./392793-magistrangers.json) |
 | Magitech Requiem | 336011 | [336011-magitech-requiem.json](./336011-magitech-requiem.json) |
+| Magiterra | 202521 | [202521-magiterra.json](./202521-magiterra.json) |
 | Magium | 207821 | [207821-magium.json](./207821-magium.json) |
 | Magiworks | 377107 | [377107-magiworks.json](./377107-magiworks.json) |
 | Magix Music Maker | 43495 | [43495-magix-music-maker.json](./43495-magix-music-maker.json) |
@@ -1910,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Girls | 386197 | [386197-maid-girls.json](./386197-maid-girls.json) |
 | Maid Harem With Futa | 384720 | [384720-maid-harem-with-futa.json](./384720-maid-harem-with-futa.json) |
 | Maid Hunter | 235462 | [235462-maid-hunter.json](./235462-maid-hunter.json) |
+| Maid Idle | 202497 | [202497-maid-idle.json](./202497-maid-idle.json) |
 | Maid in Heaven: Ai to Iu Na no Yokubou | 260823 | [260823-maid-in-heaven-ai-to-iu-na-no-yokubou.json](./260823-maid-in-heaven-ai-to-iu-na-no-yokubou.json) |
 | Maid in Witch Life!: Yakata de Hajimaru H na Miryou Seikatsu | 194633 | [194633-maid-in-witch-life-yakata-de-hajimaru-h-na-miryou-seikatsu.json](./194633-maid-in-witch-life-yakata-de-hajimaru-h-na-miryou-seikatsu.json) |
 | Maid Knight Alicia | 199089 | [199089-maid-knight-alicia.json](./199089-maid-knight-alicia.json) |
@@ -13155,6 +13157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momentum | 174092 | [174092-momentum.json](./174092-momentum.json) |
 | Momentum | 183386 | [183386-momentum.json](./183386-momentum.json) |
 | Momentum | 199918 | [199918-momentum.json](./199918-momentum.json) |
+| Momentum | 202517 | [202517-momentum.json](./202517-momentum.json) |
 | Momentum | 23568 | [23568-momentum.json](./23568-momentum.json) |
 | Momentum | 346491 | [346491-momentum.json](./346491-momentum.json) |
 | Momentum Mayhem | 309560 | [309560-momentum-mayhem.json](./309560-momentum-mayhem.json) |
@@ -13349,6 +13352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoneySeize | 97519 | [97519-moneyseize.json](./97519-moneyseize.json) |
 | Mong Jung Mong | 166568 | [166568-mong-jung-mong.json](./166568-mong-jung-mong.json) |
 | Mongil: Star Dive | 347667 | [347667-mongil-star-dive.json](./347667-mongil-star-dive.json) |
+| MonGirl Expedition | 202525 | [202525-mongirl-expedition.json](./202525-mongirl-expedition.json) |
 | Mongol | 227967 | [227967-mongol.json](./227967-mongol.json) |
 | Mongol 2 | 370339 | [370339-mongol-2.json](./370339-mongol-2.json) |
 | Mongrel | 57197 | [57197-mongrel.json](./57197-mongrel.json) |
@@ -18012,6 +18016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero One's Justice 2: DLC Pack 5 - Gentle & La Brava | 168257 | [168257-my-hero-ones-justice-2-dlc-pack-5-gentle-and-la-brava.json](./168257-my-hero-ones-justice-2-dlc-pack-5-gentle-and-la-brava.json) |
 | My Hero One's Justice 2: DLC Pack 6 - Hitoshi Shinso | 174545 | [174545-my-hero-ones-justice-2-dlc-pack-6-hitoshi-shinso.json](./174545-my-hero-ones-justice-2-dlc-pack-6-hitoshi-shinso.json) |
 | My Hero One's Justice 2: Outlaw Suit Set | 237917 | [237917-my-hero-ones-justice-2-outlaw-suit-set.json](./237917-my-hero-ones-justice-2-outlaw-suit-set.json) |
+| My Hero One's Justice 2: Pack 10 Yuga Aoyama | 202510 | [202510-my-hero-ones-justice-2-pack-10-yuga-aoyama.json](./202510-my-hero-ones-justice-2-pack-10-yuga-aoyama.json) |
 | My Hero One's Justice 2: Pack 7 Present Mic | 193195 | [193195-my-hero-ones-justice-2-pack-7-present-mic.json](./193195-my-hero-ones-justice-2-pack-7-present-mic.json) |
 | My Hero One's Justice 2: Pack 8 Kurogiri | 193194 | [193194-my-hero-ones-justice-2-pack-8-kurogiri.json](./193194-my-hero-ones-justice-2-pack-8-kurogiri.json) |
 | My Hero One's Justice 2: Plus Ultra Edition | 136147 | [136147-my-hero-ones-justice-2-plus-ultra-edition.json](./136147-my-hero-ones-justice-2-plus-ultra-edition.json) |
