@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occhio | 31740 | [31740-occhio.json](./31740-occhio.json) |
 | Occidental Heroes | 388012 | [388012-occidental-heroes.json](./388012-occidental-heroes.json) |
 | Occlude | 340862 | [340862-occlude.json](./340862-occlude.json) |
+| Occula | 222626 | [222626-occula.json](./222626-occula.json) |
 | Occult | 153954 | [153954-occult.json](./153954-occult.json) |
 | Occult Case Files: Case One | 273254 | [273254-occult-case-files-case-one.json](./273254-occult-case-files-case-one.json) |
 | Occult Chambers | 235186 | [235186-occult-chambers.json](./235186-occult-chambers.json) |
@@ -957,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OG Puzzlers: Synthwave Monsters | 291359 | [291359-og-puzzlers-synthwave-monsters.json](./291359-og-puzzlers-synthwave-monsters.json) |
 | OG Puzzlers: Synthwave Vampires | 341502 | [341502-og-puzzlers-synthwave-vampires.json](./341502-og-puzzlers-synthwave-vampires.json) |
 | OG Puzzlers: Winter 2K23 | 287188 | [287188-og-puzzlers-winter-2k23.json](./287188-og-puzzlers-winter-2k23.json) |
+| OGA Oni-Gokko Royale Hunter ha Field de Koi wo Suru | 222634 | [222634-oga-oni-gokko-royale-hunter-ha-field-de-koi-wo-suru.json](./222634-oga-oni-gokko-royale-hunter-ha-field-de-koi-wo-suru.json) |
 | OGame | 17257 | [17257-ogame.json](./17257-ogame.json) |
 | Ogami Ichiro Funtouki: Sakura Taisen Kayou Show - Benitokage Yori | 62127 | [62127-ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori.json](./62127-ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori.json) |
 | Ogantto | 349332 | [349332-ogantto.json](./349332-ogantto.json) |
