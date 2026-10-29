@@ -2016,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenshade Asylum | 411825 | [411825-ravenshade-asylum.json](./411825-ravenshade-asylum.json) |
 | Ravensthorn | 316730 | [316730-ravensthorn.json](./316730-ravensthorn.json) |
 | Ravenswatch: Legendary Edition | 331840 | [331840-ravenswatch-legendary-edition.json](./331840-ravenswatch-legendary-edition.json) |
+| Ravensword Legacy | 196431 | [196431-ravensword-legacy.json](./196431-ravensword-legacy.json) |
 | Ravensword: Shadowlands | 7196 | [7196-ravensword-shadowlands.json](./7196-ravensword-shadowlands.json) |
 | Ravensword: The Fallen King | 61031 | [61031-ravensword-the-fallen-king.json](./61031-ravensword-the-fallen-king.json) |
 | Ravensword: Undaunted | 155056 | [155056-ravensword-undaunted.json](./155056-ravensword-undaunted.json) |
@@ -6980,6 +6981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Village Hero | 296484 | [296484-rise-of-the-village-hero.json](./296484-rise-of-the-village-hero.json) |
 | Rise of the White Flower | 387043 | [387043-rise-of-the-white-flower.json](./387043-rise-of-the-white-flower.json) |
 | Rise of the White Sun: The Yellow Way | 312030 | [312030-rise-of-the-white-sun-the-yellow-way.json](./312030-rise-of-the-white-sun-the-yellow-way.json) |
+| Rise of the Wool Ball | 195859 | [195859-rise-of-the-wool-ball.json](./195859-rise-of-the-wool-ball.json) |
 | Rise of Three Kingdoms | 172068 | [172068-rise-of-three-kingdoms.json](./172068-rise-of-three-kingdoms.json) |
 | Rise of Titans | 58158 | [58158-rise-of-titans.json](./58158-rise-of-titans.json) |
 | Rise of Tochos | 306330 | [306330-rise-of-tochos.json](./306330-rise-of-tochos.json) |
@@ -9010,6 +9012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguescape | 131936 | [131936-roguescape.json](./131936-roguescape.json) |
 | RogueScape | 404080 | [404080-roguescape.json](./404080-roguescape.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
+| RogueStone | 196418 | [196418-roguestone.json](./196418-roguestone.json) |
 | RogueStone 2: Open World | 249947 | [249947-roguestone-2-open-world.json](./249947-roguestone-2-open-world.json) |
 | Roguestorm Beats | 416651 | [416651-roguestorm-beats.json](./416651-roguestorm-beats.json) |
 | Roguesweeper | 389126 | [389126-roguesweeper.json](./389126-roguesweeper.json) |
@@ -10463,6 +10466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rue Valley | 217012 | [217012-rue-valley.json](./217012-rue-valley.json) |
 | Rue Valley: Digital Deluxe Edition | 402699 | [402699-rue-valley-digital-deluxe-edition.json](./402699-rue-valley-digital-deluxe-edition.json) |
 | Ruff 'N' Tumble | 12755 | [12755-ruff-n-tumble.json](./12755-ruff-n-tumble.json) |
+| Ruff 'N' Tumble: Mayhem | 195873 | [195873-ruff-n-tumble-mayhem.json](./195873-ruff-n-tumble-mayhem.json) |
 | Ruff and Reddy in the Space Adventure | 57566 | [57566-ruff-and-reddy-in-the-space-adventure.json](./57566-ruff-and-reddy-in-the-space-adventure.json) |
 | Ruff City | 278937 | [278937-ruff-city.json](./278937-ruff-city.json) |
 | Ruff Day at the Office | 334554 | [334554-ruff-day-at-the-office.json](./334554-ruff-day-at-the-office.json) |
