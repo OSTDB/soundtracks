@@ -8641,6 +8641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever In The Backrooms | 246831 | [246831-forever-in-the-backrooms.json](./246831-forever-in-the-backrooms.json) |
 | Forever Indy | 256924 | [256924-forever-indy.json](./256924-forever-indy.json) |
 | Forever Kingdom | 10907 | [10907-forever-kingdom.json](./10907-forever-kingdom.json) |
+| Forever Loot | 184216 | [184216-forever-loot.json](./184216-forever-loot.json) |
 | Forever Lost | 207739 | [207739-forever-lost.json](./207739-forever-lost.json) |
 | Forever Lost in the Never Ending Museum of Still Life | 129603 | [129603-forever-lost-in-the-never-ending-museum-of-still-life.json](./129603-forever-lost-in-the-never-ending-museum-of-still-life.json) |
 | Forever Lost: Episode 1 | 91170 | [91170-forever-lost-episode-1.json](./91170-forever-lost-episode-1.json) |
@@ -11231,6 +11232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrostFire: Battle Frenzy | 269023 | [269023-frostfire-battle-frenzy.json](./269023-frostfire-battle-frenzy.json) |
 | Frosthaven | 336152 | [336152-frosthaven.json](./336152-frosthaven.json) |
 | Frostland | 401270 | [401270-frostland.json](./401270-frostland.json) |
+| Frostlands | 184168 | [184168-frostlands.json](./184168-frostlands.json) |
 | Frostliner | 358967 | [358967-frostliner.json](./358967-frostliner.json) |
 | Frostory | 159086 | [159086-frostory.json](./159086-frostory.json) |
 | Frostpoint Toll | 380662 | [380662-frostpoint-toll.json](./380662-frostpoint-toll.json) |
