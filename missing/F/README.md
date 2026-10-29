@@ -7460,6 +7460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floyd's Sticker Squad | 274061 | [274061-floyds-sticker-squad.json](./274061-floyds-sticker-squad.json) |
 | FLS | 127755 | [127755-fls.json](./127755-fls.json) |
 | Flub Fighter | 31218 | [31218-flub-fighter.json](./31218-flub-fighter.json) |
+| Flubby Farm | 182663 | [182663-flubby-farm.json](./182663-flubby-farm.json) |
 | Flucht Scorched | 112691 | [112691-flucht-scorched.json](./112691-flucht-scorched.json) |
 | Fluctuoid | 187102 | [187102-fluctuoid.json](./187102-fluctuoid.json) |
 | Fluendora: The Realm of Scribes | 411127 | [411127-fluendora-the-realm-of-scribes.json](./411127-fluendora-the-realm-of-scribes.json) |
