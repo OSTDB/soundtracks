@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Castle Guardians | 278912 | [278912-last-castle-guardians.json](./278912-last-castle-guardians.json) |
 | Last Caveman | 278972 | [278972-last-caveman.json](./278972-last-caveman.json) |
 | Last Chance for Turnabout | 309994 | [309994-last-chance-for-turnabout.json](./309994-last-chance-for-turnabout.json) |
+| Last Chance in Xollywood | 210986 | [210986-last-chance-in-xollywood.json](./210986-last-chance-in-xollywood.json) |
 | Last Chance in Xollywood: Special Edition | 265609 | [265609-last-chance-in-xollywood-special-edition.json](./265609-last-chance-in-xollywood-special-edition.json) |
 | Last Chance Market | 220602 | [220602-last-chance-market.json](./220602-last-chance-market.json) |
 | Last Chance Supermarket | 80808 | [80808-last-chance-supermarket.json](./80808-last-chance-supermarket.json) |
@@ -4329,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightspeed | 71049 | [71049-lightspeed.json](./71049-lightspeed.json) |
 | Lightspeed | 77325 | [77325-lightspeed.json](./77325-lightspeed.json) |
 | Lightspeed Bit Bit | 259069 | [259069-lightspeed-bit-bit.json](./259069-lightspeed-bit-bit.json) |
+| Lightspeed Dating | 211009 | [211009-lightspeed-dating.json](./211009-lightspeed-dating.json) |
 | Lightspeed Dating: Deluxe | 227873 | [227873-lightspeed-dating-deluxe.json](./227873-lightspeed-dating-deluxe.json) |
 | Lightspeed Frontier | 30708 | [30708-lightspeed-frontier.json](./30708-lightspeed-frontier.json) |
 | LightSpeed is Overrated | 220803 | [220803-lightspeed-is-overrated.json](./220803-lightspeed-is-overrated.json) |
@@ -7950,6 +7952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovers Anonymous: Rehab for Romantics | 217482 | [217482-lovers-anonymous-rehab-for-romantics.json](./217482-lovers-anonymous-rehab-for-romantics.json) |
 | Lovers Die | 414810 | [414810-lovers-die.json](./414810-lovers-die.json) |
 | Lovers in Playa Rosa | 241374 | [241374-lovers-in-playa-rosa.json](./241374-lovers-in-playa-rosa.json) |
+| Lovers in the Lunar Labyrinth | 211000 | [211000-lovers-in-the-lunar-labyrinth.json](./211000-lovers-in-the-lunar-labyrinth.json) |
 | Lovers of Aether | 117041 | [117041-lovers-of-aether.json](./117041-lovers-of-aether.json) |
 | Lovers: Koi ni Ochitara... | 382247 | [382247-lovers-koi-ni-ochitara.json](./382247-lovers-koi-ni-ochitara.json) |
 | Lovers’ Fun! | 402457 | [402457-lovers-fun.json](./402457-lovers-fun.json) |
