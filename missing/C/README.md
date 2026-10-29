@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cairn: Deluxe Edition | 401736 | [401736-cairn-deluxe-edition.json](./401736-cairn-deluxe-edition.json) |
 | Cairn: Mathair's Curse | 163941 | [163941-cairn-mathairs-curse.json](./163941-cairn-mathairs-curse.json) |
 | Cairn: On the Trail | 397806 | [397806-cairn-on-the-trail.json](./397806-cairn-on-the-trail.json) |
+| Cairn: Stone Balancing | 215492 | [215492-cairn-stone-balancing.json](./215492-cairn-stone-balancing.json) |
 | Cairn: Stone Towers | 374385 | [374385-cairn-stone-towers.json](./374385-cairn-stone-towers.json) |
 | Cairns | 374398 | [374398-cairns.json](./374398-cairns.json) |
 | Cairo ShootOut! | 229800 | [229800-cairo-shootout.json](./229800-cairo-shootout.json) |
@@ -913,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Hollow | 410493 | [410493-camp-hollow.json](./410493-camp-hollow.json) |
 | Camp Keepalive | 22140 | [22140-camp-keepalive.json](./22140-camp-keepalive.json) |
 | Camp Keepalive: Endless Summer | 348426 | [348426-camp-keepalive-endless-summer.json](./348426-camp-keepalive-endless-summer.json) |
+| Camp Laughter | 215493 | [215493-camp-laughter.json](./215493-camp-laughter.json) |
 | Camp Lazlo: Jumping Jelly Beans | 314031 | [314031-camp-lazlo-jumping-jelly-beans.json](./314031-camp-lazlo-jumping-jelly-beans.json) |
 | Camp Lazlo: Leaky Lake Games | 2808 | [2808-camp-lazlo-leaky-lake-games.json](./2808-camp-lazlo-leaky-lake-games.json) |
 | Camp Lazlo: Squirreled Away | 416333 | [416333-camp-lazlo-squirreled-away.json](./416333-camp-lazlo-squirreled-away.json) |
@@ -1303,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Foundry Simulator | 219218 | [219218-cannon-foundry-simulator.json](./219218-cannon-foundry-simulator.json) |
 | Cannon Guys | 334859 | [334859-cannon-guys.json](./334859-cannon-guys.json) |
 | Cannon Island | 330482 | [330482-cannon-island.json](./330482-cannon-island.json) |
+| Cannon Jump | 215494 | [215494-cannon-jump.json](./215494-cannon-jump.json) |
 | Cannon Keep | 381198 | [381198-cannon-keep.json](./381198-cannon-keep.json) |
 | Cannon Lab 13 | 157443 | [157443-cannon-lab-13.json](./157443-cannon-lab-13.json) |
 | Cannon Master: Military Sport | 280154 | [280154-cannon-master-military-sport.json](./280154-cannon-master-military-sport.json) |
@@ -1579,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Explosion | 179152 | [179152-captain-explosion.json](./179152-captain-explosion.json) |
 | Captain Firat | 360737 | [360737-captain-firat.json](./360737-captain-firat.json) |
 | Captain Firebeard and the Bay of Crows | 72496 | [72496-captain-firebeard-and-the-bay-of-crows.json](./72496-captain-firebeard-and-the-bay-of-crows.json) |
+| Captain Firehawk and the Laser Love Situation | 215495 | [215495-captain-firehawk-and-the-laser-love-situation.json](./215495-captain-firehawk-and-the-laser-love-situation.json) |
 | Captain Fizz Meets the Blaster-Trons | 14376 | [14376-captain-fizz-meets-the-blaster-trons.json](./14376-captain-fizz-meets-the-blaster-trons.json) |
 | Captain Fly and Sexy Students | 384874 | [384874-captain-fly-and-sexy-students.json](./384874-captain-fly-and-sexy-students.json) |
 | Captain Flying Robot | 90666 | [90666-captain-flying-robot.json](./90666-captain-flying-robot.json) |
@@ -1709,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capture | 72369 | [72369-capture.json](./72369-capture.json) |
 | Capture Corps: Archipelago | 217867 | [217867-capture-corps-archipelago.json](./217867-capture-corps-archipelago.json) |
 | Capture Creatures | 195252 | [195252-capture-creatures.json](./195252-capture-creatures.json) |
+| Capture the Flag | 215496 | [215496-capture-the-flag.json](./215496-capture-the-flag.json) |
 | Capture the Flag | 23901 | [23901-capture-the-flag.json](./23901-capture-the-flag.json) |
 | Capture the Flag | 73612 | [73612-capture-the-flag.json](./73612-capture-the-flag.json) |
 | Capture the Flag 1 | 173192 | [173192-capture-the-flag-1.json](./173192-capture-the-flag-1.json) |
@@ -1816,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Jack Streets | 44498 | [44498-car-jack-streets.json](./44498-car-jack-streets.json) |
 | Car Jamboree | 40232 | [40232-car-jamboree.json](./40232-car-jamboree.json) |
 | Car Jump | 164912 | [164912-car-jump.json](./164912-car-jump.json) |
+| Car Jump Challenge | 215498 | [215498-car-jump-challenge.json](./215498-car-jump-challenge.json) |
 | Car Looper | 150533 | [150533-car-looper.json](./150533-car-looper.json) |
 | Car Maker Game: Fun Simulator | 105701 | [105701-car-maker-game-fun-simulator.json](./105701-car-maker-game-fun-simulator.json) |
 | Car Mats | 219384 | [219384-car-mats.json](./219384-car-mats.json) |
@@ -1829,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator 2015: Gold Edition | 24753 | [24753-car-mechanic-simulator-2015-gold-edition.json](./24753-car-mechanic-simulator-2015-gold-edition.json) |
 | Car Mechanic Simulator 2018 | 40470 | [40470-car-mechanic-simulator-2018.json](./40470-car-mechanic-simulator-2018.json) |
 | Car Mechanic Simulator 2021 | 152604 | [152604-car-mechanic-simulator-2021.json](./152604-car-mechanic-simulator-2021.json) |
+| Car Mechanic Simulator 2021: Aston Martin | 215499 | [215499-car-mechanic-simulator-2021-aston-martin.json](./215499-car-mechanic-simulator-2021-aston-martin.json) |
 | Car Mechanic Simulator 2021: BMW DLC | 276213 | [276213-car-mechanic-simulator-2021-bmw-dlc.json](./276213-car-mechanic-simulator-2021-bmw-dlc.json) |
 | Car Mechanic Simulator 2021: Dodge, Plymouth, Chrysler Remastered | 254278 | [254278-car-mechanic-simulator-2021-dodge-plymouth-chrysler-remastered.json](./254278-car-mechanic-simulator-2021-dodge-plymouth-chrysler-remastered.json) |
 | Car Mechanic Simulator 2021: Drag Racing | 225229 | [225229-car-mechanic-simulator-2021-drag-racing.json](./225229-car-mechanic-simulator-2021-drag-racing.json) |
@@ -2285,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Breach | 72511 | [72511-cargo-breach.json](./72511-cargo-breach.json) |
 | Cargo Bridge | 233767 | [233767-cargo-bridge.json](./233767-cargo-bridge.json) |
 | Cargo Bridge 2 | 197233 | [197233-cargo-bridge-2.json](./197233-cargo-bridge-2.json) |
+| Cargo Chaos | 215497 | [215497-cargo-chaos.json](./215497-cargo-chaos.json) |
 | Cargo Company | 148504 | [148504-cargo-company.json](./148504-cargo-company.json) |
 | Cargo Crew Driver | 147691 | [147691-cargo-crew-driver.json](./147691-cargo-crew-driver.json) |
 | Cargo Crush Zero | 405141 | [405141-cargo-crush-zero.json](./405141-cargo-crush-zero.json) |
@@ -2597,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart To The End | 306598 | [306598-cart-to-the-end.json](./306598-cart-to-the-end.json) |
 | Cart World Series | 43834 | [43834-cart-world-series.json](./43834-cart-world-series.json) |
 | Carta Bellum | 416346 | [416346-carta-bellum.json](./416346-carta-bellum.json) |
+| Carta Marina | 215500 | [215500-carta-marina.json](./215500-carta-marina.json) |
 | Cartacombs | 114858 | [114858-cartacombs.json](./114858-cartacombs.json) |
 | Cartagra: First Press Limited Edition | 388046 | [388046-cartagra-first-press-limited-edition.json](./388046-cartagra-first-press-limited-edition.json) |
 | Cartagra: Tamashii no Kunou | 166451 | [166451-cartagra-tamashii-no-kunou.json](./166451-cartagra-tamashii-no-kunou.json) |
@@ -3649,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catafalque | 191615 | [191615-catafalque.json](./191615-catafalque.json) |
 | Catagaia | 236871 | [236871-catagaia.json](./236871-catagaia.json) |
 | Catagrams | 333575 | [333575-catagrams.json](./333575-catagrams.json) |
+| Cataire: Gambling with cats | 215501 | [215501-cataire-gambling-with-cats.json](./215501-cataire-gambling-with-cats.json) |
 | Catal Carta | 416639 | [416639-catal-carta.json](./416639-catal-carta.json) |
 | Catale | 337289 | [337289-catale.json](./337289-catale.json) |
 | Cataline | 209710 | [209710-cataline.json](./209710-cataline.json) |
@@ -3847,6 +3857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catgirl Chainsaw Massacre | 280736 | [280736-catgirl-chainsaw-massacre.json](./280736-catgirl-chainsaw-massacre.json) |
 | Catgirl Lover | 127927 | [127927-catgirl-lover.json](./127927-catgirl-lover.json) |
 | Catgirl Magic: Fury Duel | 105653 | [105653-catgirl-magic-fury-duel.json](./105653-catgirl-magic-fury-duel.json) |
+| Catgirls From My Sweet Dream | 215502 | [215502-catgirls-from-my-sweet-dream.json](./215502-catgirls-from-my-sweet-dream.json) |
 | Catgirls From My Sweet Dream: Neko Girls 18+ | 343613 | [343613-catgirls-from-my-sweet-dream-neko-girls-18.json](./343613-catgirls-from-my-sweet-dream-neko-girls-18.json) |
 | Catharage | 355098 | [355098-catharage.json](./355098-catharage.json) |
 | Catharsis | 130144 | [130144-catharsis.json](./130144-catharsis.json) |
@@ -3863,6 +3874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catherine Classic | 113905 | [113905-catherine-classic.json](./113905-catherine-classic.json) |
 | Catherine Ragnor and the Cursed Island | 341619 | [341619-catherine-ragnor-and-the-cursed-island.json](./341619-catherine-ragnor-and-the-cursed-island.json) |
 | Catherine Ragnor and the Legend of the Flying Dutchman | 189113 | [189113-catherine-ragnor-and-the-legend-of-the-flying-dutchman.json](./189113-catherine-ragnor-and-the-legend-of-the-flying-dutchman.json) |
+| Catherine Ragnor: Blackbeards Fury | 215503 | [215503-catherine-ragnor-blackbeards-fury.json](./215503-catherine-ragnor-blackbeards-fury.json) |
 | Catherine: Full Body - Dynamite Full Body Box | 136282 | [136282-catherine-full-body-dynamite-full-body-box.json](./136282-catherine-full-body-dynamite-full-body-box.json) |
 | Catherine: Full Body - Heart's Desire Premium Edition | 72067 | [72067-catherine-full-body-hearts-desire-premium-edition.json](./72067-catherine-full-body-hearts-desire-premium-edition.json) |
 | Catherine: Full Body - Launch Edition | 136327 | [136327-catherine-full-body-launch-edition.json](./136327-catherine-full-body-launch-edition.json) |
@@ -4130,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavalier | 219225 | [219225-cavalier.json](./219225-cavalier.json) |
 | Cavalry Battle 3000 | 353896 | [353896-cavalry-battle-3000.json](./353896-cavalry-battle-3000.json) |
 | Cavalry Charge | 326296 | [326296-cavalry-charge.json](./326296-cavalry-charge.json) |
+| Cavatus | 215504 | [215504-cavatus.json](./215504-cavatus.json) |
 | Cave | 141816 | [141816-cave.json](./141816-cave.json) |
 | Cave Bad | 144105 | [144105-cave-bad.json](./144105-cave-bad.json) |
 | Cave Blast | 59633 | [59633-cave-blast.json](./59633-cave-blast.json) |
@@ -4815,6 +4828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainsaw Maniac | 289402 | [289402-chainsaw-maniac.json](./289402-chainsaw-maniac.json) |
 | Chainsaw Snuff Shots | 349477 | [349477-chainsaw-snuff-shots.json](./349477-chainsaw-snuff-shots.json) |
 | Chainsaw Warrior: Lords of the Night | 17543 | [17543-chainsaw-warrior-lords-of-the-night.json](./17543-chainsaw-warrior-lords-of-the-night.json) |
+| ChainSki | 215505 | [215505-chainski.json](./215505-chainski.json) |
 | ChainStaff | 304750 | [304750-chainstaff.json](./304750-chainstaff.json) |
 | Chainworm Kommando | 257350 | [257350-chainworm-kommando.json](./257350-chainworm-kommando.json) |
 | Chair F*cking Simulator | 178260 | [178260-chair-f-cking-simulator.json](./178260-chair-f-cking-simulator.json) |
@@ -5346,6 +5360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charma: Land of Enchantment | 52498 | [52498-charma-land-of-enchantment.json](./52498-charma-land-of-enchantment.json) |
 | Charmareians | 203932 | [203932-charmareians.json](./203932-charmareians.json) |
 | Charmcraft Idle | 385957 | [385957-charmcraft-idle.json](./385957-charmcraft-idle.json) |
+| Charming Blood | 215506 | [215506-charming-blood.json](./215506-charming-blood.json) |
 | Charming Hearts | 302345 | [302345-charming-hearts.json](./302345-charming-hearts.json) |
 | Charming Hill | 399262 | [399262-charming-hill.json](./399262-charming-hill.json) |
 | Charming Tails | 298987 | [298987-charming-tails.json](./298987-charming-tails.json) |
@@ -5804,6 +5819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Defense Saga | 234200 | [234200-chess-defense-saga.json](./234200-chess-defense-saga.json) |
 | Chess Deluxe | 86703 | [86703-chess-deluxe.json](./86703-chess-deluxe.json) |
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
+| Chess Dungeons: Shubousha | 215508 | [215508-chess-dungeons-shubousha.json](./215508-chess-dungeons-shubousha.json) |
 | Chess Empire | 361316 | [361316-chess-empire.json](./361316-chess-empire.json) |
 | Chess Evolved Online | 58624 | [58624-chess-evolved-online.json](./58624-chess-evolved-online.json) |
 | Chess Exerciser | 273804 | [273804-chess-exerciser.json](./273804-chess-exerciser.json) |
@@ -6111,6 +6127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Fall | 202648 | [202648-chicken-fall.json](./202648-chicken-fall.json) |
 | Chicken Farm | 131417 | [131417-chicken-farm.json](./131417-chicken-farm.json) |
 | Chicken Farm 2K17 | 75924 | [75924-chicken-farm-2k17.json](./75924-chicken-farm-2k17.json) |
+| Chicken Feet | 215507 | [215507-chicken-feet.json](./215507-chicken-feet.json) |
 | Chicken Fight | 238625 | [238625-chicken-fight.json](./238625-chicken-fight.json) |
 | Chicken Flight | 354426 | [354426-chicken-flight.json](./354426-chicken-flight.json) |
 | Chicken Fraction | 94687 | [94687-chicken-fraction.json](./94687-chicken-fraction.json) |
@@ -6934,8 +6951,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chri-Bocchi Cat | 308985 | [308985-chri-bocchi-cat.json](./308985-chri-bocchi-cat.json) |
 | Chris and the Badgers | 61592 | [61592-chris-and-the-badgers.json](./61592-chris-and-the-badgers.json) |
 | Chris Brackett's Kamikaze Karp | 101490 | [101490-chris-bracketts-kamikaze-karp.json](./101490-chris-bracketts-kamikaze-karp.json) |
+| Chris Isn't Alone | 215509 | [215509-chris-isnt-alone.json](./215509-chris-isnt-alone.json) |
 | Chris Kamara's Street Soccer | 43747 | [43747-chris-kamaras-street-soccer.json](./43747-chris-kamaras-street-soccer.json) |
 | Chris Moneymaker's World Poker Championship | 68636 | [68636-chris-moneymakers-world-poker-championship.json](./68636-chris-moneymakers-world-poker-championship.json) |
+| Chris' Story | 215510 | [215510-chris-story.json](./215510-chris-story.json) |
 | Chris's Classroom | 400904 | [400904-chriss-classroom.json](./400904-chriss-classroom.json) |
 | Chriss Cross | 150400 | [150400-chriss-cross.json](./150400-chriss-cross.json) |
 | Christ's Revenge: Ascension | 255598 | [255598-christs-revenge-ascension.json](./255598-christs-revenge-ascension.json) |
@@ -7950,6 +7969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Builder | 51045 | [51045-city-builder.json](./51045-city-builder.json) |
 | City Builder Pro | 391239 | [391239-city-builder-pro.json](./391239-city-builder-pro.json) |
 | City Bus | 64846 | [64846-city-bus.json](./64846-city-bus.json) |
+| City Bus Driver Simulator | 215511 | [215511-city-bus-driver-simulator.json](./215511-city-bus-driver-simulator.json) |
 | City Bus Driver Simulator | 279864 | [279864-city-bus-driver-simulator.json](./279864-city-bus-driver-simulator.json) |
 | City Bus Driver Simulator 2 | 311632 | [311632-city-bus-driver-simulator-2.json](./311632-city-bus-driver-simulator-2.json) |
 | City Bus Driving Sim | 98857 | [98857-city-bus-driving-sim.json](./98857-city-bus-driving-sim.json) |
@@ -8216,6 +8236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciudad del Mar | 186045 | [186045-ciudad-del-mar.json](./186045-ciudad-del-mar.json) |
 | Ciudad Empresarial | 274750 | [274750-ciudad-empresarial.json](./274750-ciudad-empresarial.json) |
 | Ciuffy | 93169 | [93169-ciuffy.json](./93169-ciuffy.json) |
+| CIV | 215512 | [215512-civ.json](./215512-civ.json) |
 | CivCity: Rome | 3083 | [3083-civcity-rome.json](./3083-civcity-rome.json) |
 | CivClicker | 207384 | [207384-civclicker.json](./207384-civclicker.json) |
 | CivCraft - Legends of Ellaria | 47273 | [47273-civcraft-legends-of-ellaria.json](./47273-civcraft-legends-of-ellaria.json) |
@@ -8726,6 +8747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clearence Sale | 278315 | [278315-clearence-sale.json](./278315-clearence-sale.json) |
 | Clearing Blade | 326248 | [326248-clearing-blade.json](./326248-clearing-blade.json) |
 | ClearIt | 95660 | [95660-clearit.json](./95660-clearit.json) |
+| ClearIt 13 | 215513 | [215513-clearit-13.json](./215513-clearit-13.json) |
 | ClearIt2 | 96320 | [96320-clearit2.json](./96320-clearit2.json) |
 | Clearwater | 270718 | [270718-clearwater.json](./270718-clearwater.json) |
 | Clearworld | 148252 | [148252-clearworld.json](./148252-clearworld.json) |
@@ -9687,6 +9709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Zero | 123997 | [123997-code-zero.json](./123997-code-zero.json) |
 | Code Zero | 161896 | [161896-code-zero.json](./161896-code-zero.json) |
 | Code Zero | 174081 | [174081-code-zero.json](./174081-code-zero.json) |
+| Code Zin: Esper Arena | 215515 | [215515-code-zin-esper-arena.json](./215515-code-zin-esper-arena.json) |
 | Code Zodiac | 251853 | [251853-code-zodiac.json](./251853-code-zodiac.json) |
 | Code_18 | 18072 | [18072-code-18.json](./18072-code-18.json) |
 | Code-Black | 389913 | [389913-code-black.json](./389913-code-black.json) |
@@ -9714,6 +9737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: To Jin Yong | 208466 | [208466-code-to-jin-yong.json](./208466-code-to-jin-yong.json) |
 | Code: X | 174798 | [174798-code-x.json](./174798-code-x.json) |
 | Code::Lux | 372092 | [372092-code-lux.json](./372092-code-lux.json) |
+| Code:29 | 215514 | [215514-code-29.json](./215514-code-29.json) |
 | Code:Machina | 212165 | [212165-code-machina.json](./212165-code-machina.json) |
 | Code.Zer0 | 261220 | [261220-code-zer0.json](./261220-code-zer0.json) |
 | Code/The Werewolf Party | 120927 | [120927-code-the-werewolf-party.json](./120927-code-the-werewolf-party.json) |
@@ -12307,6 +12331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Cats Pop | 95331 | [95331-cookie-cats-pop.json](./95331-cookie-cats-pop.json) |
 | Cookie Champion | 175187 | [175187-cookie-champion.json](./175187-cookie-champion.json) |
 | Cookie Clicker | 215855 | [215855-cookie-clicker.json](./215855-cookie-clicker.json) |
+| Cookie Clicker but You Type | 215522 | [215522-cookie-clicker-but-you-type.json](./215522-cookie-clicker-but-you-type.json) |
 | Cookie Clicker classic | 317780 | [317780-cookie-clicker-classic.json](./317780-cookie-clicker-classic.json) |
 | Cookie Clicker Collector | 373222 | [373222-cookie-clicker-collector.json](./373222-cookie-clicker-collector.json) |
 | Cookie Clicker PSP | 397263 | [397263-cookie-clicker-psp.json](./397263-cookie-clicker-psp.json) |
@@ -12635,6 +12660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corbid! A Colorful Adventure | 223157 | [223157-corbid-a-colorful-adventure.json](./223157-corbid-a-colorful-adventure.json) |
 | Corbyn Slots: General Election 2017 | 235133 | [235133-corbyn-slots-general-election-2017.json](./235133-corbyn-slots-general-election-2017.json) |
 | Corcovado's Night Guard | 342786 | [342786-corcovados-night-guard.json](./342786-corcovados-night-guard.json) |
+| Cordbot | 215521 | [215521-cordbot.json](./215521-cordbot.json) |
 | Cordel Lands | 393823 | [393823-cordel-lands.json](./393823-cordel-lands.json) |
 | Cordelia | 248044 | [248044-cordelia.json](./248044-cordelia.json) |
 | Cordial Minuet | 97298 | [97298-cordial-minuet.json](./97298-cordial-minuet.json) |
@@ -12727,6 +12753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corn Mission | 183578 | [183578-corn-mission.json](./183578-corn-mission.json) |
 | Cornbread PNG | 317068 | [317068-cornbread-png.json](./317068-cornbread-png.json) |
 | Corncob Deluxe | 94704 | [94704-corncob-deluxe.json](./94704-corncob-deluxe.json) |
+| Corndog | 215520 | [215520-corndog.json](./215520-corndog.json) |
 | Cornelius Cat in: How the Cat Saved Christmas | 421423 | [421423-cornelius-cat-in-how-the-cat-saved-christmas.json](./421423-cornelius-cat-in-how-the-cat-saved-christmas.json) |
 | Corner Clash | 390520 | [390520-corner-clash.json](./390520-corner-clash.json) |
 | Corner Driver | 225888 | [225888-corner-driver.json](./225888-corner-driver.json) |
@@ -13219,6 +13246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmoscope | 158200 | [158200-cosmoscope.json](./158200-cosmoscope.json) |
 | Cosmosiege | 264182 | [264182-cosmosiege.json](./264182-cosmosiege.json) |
 | Cosmoswat | 386514 | [386514-cosmoswat.json](./386514-cosmoswat.json) |
+| Cosmotica | 215519 | [215519-cosmotica.json](./215519-cosmotica.json) |
 | Cosmotots | 303739 | [303739-cosmotots.json](./303739-cosmotots.json) |
 | Cosmotroid | 263041 | [263041-cosmotroid.json](./263041-cosmotroid.json) |
 | Cosmotrons | 130675 | [130675-cosmotrons.json](./130675-cosmotrons.json) |
@@ -14114,6 +14142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash of the Titans | 197928 | [197928-crash-of-the-titans.json](./197928-crash-of-the-titans.json) |
 | Crash of the Titans | 197929 | [197929-crash-of-the-titans.json](./197929-crash-of-the-titans.json) |
 | Crash of the Titans | 210235 | [210235-crash-of-the-titans.json](./210235-crash-of-the-titans.json) |
+| Crash Override | 215518 | [215518-crash-override.json](./215518-crash-override.json) |
 | Crash Pollito | 268521 | [268521-crash-pollito.json](./268521-crash-pollito.json) |
 | Crash Powertape September 1991 | 71383 | [71383-crash-powertape-september-1991.json](./71383-crash-powertape-september-1991.json) |
 | Crash Presents September 1990 | 73356 | [73356-crash-presents-september-1990.json](./73356-crash-presents-september-1990.json) |
@@ -14855,6 +14884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescendo Of Dreams + Surmounting Terror | 271490 | [271490-crescendo-of-dreams-surmounting-terror.json](./271490-crescendo-of-dreams-surmounting-terror.json) |
 | Crescent Bay | 87811 | [87811-crescent-bay.json](./87811-crescent-bay.json) |
 | Crescent Bloom | 215095 | [215095-crescent-bloom.json](./215095-crescent-bloom.json) |
+| Crescent Cauldron Cafe | 215517 | [215517-crescent-cauldron-cafe.json](./215517-crescent-cauldron-cafe.json) |
 | Crescent County | 305181 | [305181-crescent-county.json](./305181-crescent-county.json) |
 | Crescent Creek: Survival Horror | 416812 | [416812-crescent-creek-survival-horror.json](./416812-crescent-creek-survival-horror.json) |
 | Crescent Hollow | 104143 | [104143-crescent-hollow.json](./104143-crescent-hollow.json) |
@@ -15567,6 +15597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroad | 82343 | [82343-crossroad.json](./82343-crossroad.json) |
 | Crossroad Crisis | 43739 | [43739-crossroad-crisis.json](./43739-crossroad-crisis.json) |
 | Crossroad of Sid | 109525 | [109525-crossroad-of-sid.json](./109525-crossroad-of-sid.json) |
+| Crossroad of Worlds: 100 Doors - Collector's Edition | 215516 | [215516-crossroad-of-worlds-100-doors-collectors-edition.json](./215516-crossroad-of-worlds-100-doors-collectors-edition.json) |
 | Crossroad of Worlds: Cursed Letters - Collector's Edition | 257434 | [257434-crossroad-of-worlds-cursed-letters-collectors-edition.json](./257434-crossroad-of-worlds-cursed-letters-collectors-edition.json) |
 | Crossroad of Worlds: Magic Stars | 417711 | [417711-crossroad-of-worlds-magic-stars.json](./417711-crossroad-of-worlds-magic-stars.json) |
 | Crossroad of Worlds: Magic Stars - Collector's Edition | 255708 | [255708-crossroad-of-worlds-magic-stars-collectors-edition.json](./255708-crossroad-of-worlds-magic-stars-collectors-edition.json) |
