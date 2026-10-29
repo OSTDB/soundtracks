@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Arise: SAO Collaboration Pack | 259813 | [259813-tales-of-arise-sao-collaboration-pack.json](./259813-tales-of-arise-sao-collaboration-pack.json) |
 | Tales of Arise: Ultimate Edition | 169244 | [169244-tales-of-arise-ultimate-edition.json](./169244-tales-of-arise-ultimate-edition.json) |
 | Tales of Asteria | 61863 | [61863-tales-of-asteria.json](./61863-tales-of-asteria.json) |
+| Tales of Autumn | 199753 | [199753-tales-of-autumn.json](./199753-tales-of-autumn.json) |
 | Tales of Beasteria | 127249 | [127249-tales-of-beasteria.json](./127249-tales-of-beasteria.json) |
 | Tales of Berseria | 18812 | [18812-tales-of-berseria.json](./18812-tales-of-berseria.json) |
 | Tales of Berseria Remastered | 378125 | [378125-tales-of-berseria-remastered.json](./378125-tales-of-berseria-remastered.json) |
@@ -1660,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle: East Front | 29059 | [29059-tank-battle-east-front.json](./29059-tank-battle-east-front.json) |
 | Tank Battle: East Front 1941 | 197886 | [197886-tank-battle-east-front-1941.json](./197886-tank-battle-east-front-1941.json) |
 | Tank Battle: East Front 1943 | 175335 | [175335-tank-battle-east-front-1943.json](./175335-tank-battle-east-front-1943.json) |
+| Tank Battle: Mini War | 200278 | [200278-tank-battle-mini-war.json](./200278-tank-battle-mini-war.json) |
 | Tank Battle: Normandy | 46849 | [46849-tank-battle-normandy.json](./46849-tank-battle-normandy.json) |
 | Tank Battle: North Africa | 32775 | [32775-tank-battle-north-africa.json](./32775-tank-battle-north-africa.json) |
 | Tank Battle: Pacific | 44090 | [44090-tank-battle-pacific.json](./44090-tank-battle-pacific.json) |
@@ -5490,6 +5492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bar | 119049 | [119049-the-bar.json](./119049-the-bar.json) |
 | The Bar | 256847 | [256847-the-bar.json](./256847-the-bar.json) |
 | The Bar Souls | 370448 | [370448-the-bar-souls.json](./370448-the-bar-souls.json) |
+| The Barbarian | 200304 | [200304-the-barbarian.json](./200304-the-barbarian.json) |
 | The Barbarian and the Subterranean Caves | 32846 | [32846-the-barbarian-and-the-subterranean-caves.json](./32846-the-barbarian-and-the-subterranean-caves.json) |
 | The Barbie Diaries: High School Mystery | 261391 | [261391-the-barbie-diaries-high-school-mystery.json](./261391-the-barbie-diaries-high-school-mystery.json) |
 | The Barbie Diaries: High School Mystery | 7638 | [7638-the-barbie-diaries-high-school-mystery.json](./7638-the-barbie-diaries-high-school-mystery.json) |
@@ -7304,6 +7307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Detail | 9080 | [9080-the-detail.json](./9080-the-detail.json) |
 | The Detail: Episode 2 - From the Ashes | 171455 | [171455-the-detail-episode-2-from-the-ashes.json](./171455-the-detail-episode-2-from-the-ashes.json) |
 | The Detail: Episode 3 - Devil in the Detail | 171613 | [171613-the-detail-episode-3-devil-in-the-detail.json](./171613-the-detail-episode-3-devil-in-the-detail.json) |
+| The Detail's in the Devils | 199739 | [199739-the-details-in-the-devils.json](./199739-the-details-in-the-devils.json) |
 | The Detective | 201415 | [201415-the-detective.json](./201415-the-detective.json) |
 | The Detective | 275700 | [275700-the-detective.json](./275700-the-detective.json) |
 | The Detective of the Red Horns | 96710 | [96710-the-detective-of-the-red-horns.json](./96710-the-detective-of-the-red-horns.json) |
@@ -13072,6 +13076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Garden | 211923 | [211923-the-perfect-garden.json](./211923-the-perfect-garden.json) |
 | The Perfect General | 4328 | [4328-the-perfect-general.json](./4328-the-perfect-general.json) |
 | The Perfect Match | 68420 | [68420-the-perfect-match.json](./68420-the-perfect-match.json) |
+| The Perfect Pencil | 199737 | [199737-the-perfect-pencil.json](./199737-the-perfect-pencil.json) |
 | The Perfect Portrait | 390015 | [390015-the-perfect-portrait.json](./390015-the-perfect-portrait.json) |
 | The Perfect Shape | 158713 | [158713-the-perfect-shape.json](./158713-the-perfect-shape.json) |
 | The Perfect Sniper | 81012 | [81012-the-perfect-sniper.json](./81012-the-perfect-sniper.json) |
@@ -13680,6 +13685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Remains and The Residue | 387618 | [387618-the-remains-and-the-residue.json](./387618-the-remains-and-the-residue.json) |
 | The Remains of El Dorado | 184570 | [184570-the-remains-of-el-dorado.json](./184570-the-remains-of-el-dorado.json) |
 | The Remains of Richard Fleming | 280701 | [280701-the-remains-of-richard-fleming.json](./280701-the-remains-of-richard-fleming.json) |
+| The Remains: Chapter 1 | 199759 | [199759-the-remains-chapter-1.json](./199759-the-remains-chapter-1.json) |
 | The Remission of Sins | 149042 | [149042-the-remission-of-sins.json](./149042-the-remission-of-sins.json) |
 | The Remnants | 336657 | [336657-the-remnants.json](./336657-the-remnants.json) |
 | The Remote Outpost | 268726 | [268726-the-remote-outpost.json](./268726-the-remote-outpost.json) |
@@ -16909,6 +16915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World Ends With You: Noise Busters | 306596 | [306596-the-world-ends-with-you-noise-busters.json](./306596-the-world-ends-with-you-noise-busters.json) |
 | The World Has Gone | 282040 | [282040-the-world-has-gone.json](./282040-the-world-has-gone.json) |
 | The World Hockey Championships | 242684 | [242684-the-world-hockey-championships.json](./242684-the-world-hockey-championships.json) |
+| The World II | 200305 | [200305-the-world-ii.json](./200305-the-world-ii.json) |
 | The World II: Hunting Boss | 17843 | [17843-the-world-ii-hunting-boss.json](./17843-the-world-ii-hunting-boss.json) |
 | The World is Binary: Why Love is the Answer | 195562 | [195562-the-world-is-binary-why-love-is-the-answer.json](./195562-the-world-is-binary-why-love-is-the-answer.json) |
 | The World is Drowning | 264158 | [264158-the-world-is-drowning.json](./264158-the-world-is-drowning.json) |
@@ -23725,7 +23732,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Knight | 298628 | [298628-tower-knight.json](./298628-tower-knight.json) |
 | Tower Lord: Sword Loop Saga | 176267 | [176267-tower-lord-sword-loop-saga.json](./176267-tower-lord-sword-loop-saga.json) |
 | Tower Lords | 367004 | [367004-tower-lords.json](./367004-tower-lords.json) |
+| Tower Madness | 200275 | [200275-tower-madness.json](./200275-tower-madness.json) |
 | Tower Madness 2 | 88457 | [88457-tower-madness-2.json](./88457-tower-madness-2.json) |
+| Tower Math | 200307 | [200307-tower-math.json](./200307-tower-math.json) |
 | Tower Miners | 55790 | [55790-tower-miners.json](./55790-tower-miners.json) |
 | Tower Monster Rush | 309504 | [309504-tower-monster-rush.json](./309504-tower-monster-rush.json) |
 | Tower Networking Inc. | 310040 | [310040-tower-networking-inc.json](./310040-tower-networking-inc.json) |
@@ -25053,6 +25062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Arlbergbahn: Innsbruck - Bludenz Route Add-On | 156471 | [156471-train-simulator-arlbergbahn-innsbruck-bludenz-route-add-on.json](./156471-train-simulator-arlbergbahn-innsbruck-bludenz-route-add-on.json) |
 | Train Simulator: Arosa Line Route Add-On | 156467 | [156467-train-simulator-arosa-line-route-add-on.json](./156467-train-simulator-arosa-line-route-add-on.json) |
 | Train Simulator: B&O Kingwood Branch: Tunnelton - Kingwood Route Add-On | 156384 | [156384-train-simulator-b-and-o-kingwood-branch-tunnelton-kingwood-route-add-on.json](./156384-train-simulator-b-and-o-kingwood-branch-tunnelton-kingwood-route-add-on.json) |
+| Train Simulator: Bahnstrecke Leipzig - Riesa Route | 199758 | [199758-train-simulator-bahnstrecke-leipzig-riesa-route.json](./199758-train-simulator-bahnstrecke-leipzig-riesa-route.json) |
 | Train Simulator: Bahnstrecke Riesa - Dresden Route Add-On | 156404 | [156404-train-simulator-bahnstrecke-riesa-dresden-route-add-on.json](./156404-train-simulator-bahnstrecke-riesa-dresden-route-add-on.json) |
 | Train Simulator: Bahnstrecke Strasbourg - Karlsruhe Route | 191015 | [191015-train-simulator-bahnstrecke-strasbourg-karlsruhe-route.json](./191015-train-simulator-bahnstrecke-strasbourg-karlsruhe-route.json) |
 | Train Simulator: Berlin - Leipzig Route Add-On | 156459 | [156459-train-simulator-berlin-leipzig-route-add-on.json](./156459-train-simulator-berlin-leipzig-route-add-on.json) |
@@ -25103,6 +25113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Frankfurt U-Bahn Route Add-On | 156361 | [156361-train-simulator-frankfurt-u-bahn-route-add-on.json](./156361-train-simulator-frankfurt-u-bahn-route-add-on.json) |
 | Train Simulator: Giselabahn: Saalfelden - Wörgl Route Add-On | 156478 | [156478-train-simulator-giselabahn-saalfelden-worgl-route-add-on.json](./156478-train-simulator-giselabahn-saalfelden-worgl-route-add-on.json) |
 | Train Simulator: Glasgow Airport Rail Link Route Add-On | 156437 | [156437-train-simulator-glasgow-airport-rail-link-route-add-on.json](./156437-train-simulator-glasgow-airport-rail-link-route-add-on.json) |
+| Train Simulator: Glasgow Subway Route | 199756 | [199756-train-simulator-glasgow-subway-route.json](./199756-train-simulator-glasgow-subway-route.json) |
 | Train Simulator: Glasgow to Dunblane and Alloa Route | 264546 | [264546-train-simulator-glasgow-to-dunblane-and-alloa-route.json](./264546-train-simulator-glasgow-to-dunblane-and-alloa-route.json) |
 | Train Simulator: Great Eastern Main Line London-Ipswich Route Add-On | 156386 | [156386-train-simulator-great-eastern-main-line-london-ipswich-route-add-on.json](./156386-train-simulator-great-eastern-main-line-london-ipswich-route-add-on.json) |
 | Train Simulator: Great Western Main Line Route Add-On | 156366 | [156366-train-simulator-great-western-main-line-route-add-on.json](./156366-train-simulator-great-western-main-line-route-add-on.json) |
@@ -25623,6 +25634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: CO17-4174 Russian Loco and Tender | 153108 | [153108-trainz-railroad-simulator-2019-co17-4174-russian-loco-and-tender.json](./153108-trainz-railroad-simulator-2019-co17-4174-russian-loco-and-tender.json) |
 | Trainz Railroad Simulator 2019: CO17-4373 Russian Loco and Tender | 153284 | [153284-trainz-railroad-simulator-2019-co17-4373-russian-loco-and-tender.json](./153284-trainz-railroad-simulator-2019-co17-4373-russian-loco-and-tender.json) |
 | Trainz Railroad Simulator 2019: Coal Country | 153246 | [153246-trainz-railroad-simulator-2019-coal-country.json](./153246-trainz-railroad-simulator-2019-coal-country.json) |
+| Trainz Railroad Simulator 2019: Coalmint Mountains Railroad | 199757 | [199757-trainz-railroad-simulator-2019-coalmint-mountains-railroad.json](./199757-trainz-railroad-simulator-2019-coalmint-mountains-railroad.json) |
 | Trainz Railroad Simulator 2019: Cornish Mainline - TANE Edition | 153197 | [153197-trainz-railroad-simulator-2019-cornish-mainline-tane-edition.json](./153197-trainz-railroad-simulator-2019-cornish-mainline-tane-edition.json) |
 | Trainz Railroad Simulator 2019: Cornish Mainline and Branches TRS19 | 153234 | [153234-trainz-railroad-simulator-2019-cornish-mainline-and-branches-trs19.json](./153234-trainz-railroad-simulator-2019-cornish-mainline-and-branches-trs19.json) |
 | Trainz Railroad Simulator 2019: CP SD40-2 #5865-5879 Dual Flags | 153170 | [153170-trainz-railroad-simulator-2019-cp-sd40-2-5865-5879-dual-flags.json](./153170-trainz-railroad-simulator-2019-cp-sd40-2-5865-5879-dual-flags.json) |
@@ -28385,6 +28397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumbles | 350056 | [350056-tumbles.json](./350056-tumbles.json) |
 | TumbleSeed | 27051 | [27051-tumbleseed.json](./27051-tumbleseed.json) |
 | Tumblestone | 16926 | [16926-tumblestone.json](./16926-tumblestone.json) |
+| TumbleWeed | 199743 | [199743-tumbleweed.json](./199743-tumbleweed.json) |
 | Tumbleweed Destiny | 195073 | [195073-tumbleweed-destiny.json](./195073-tumbleweed-destiny.json) |
 | Tumbobots | 382224 | [382224-tumbobots.json](./382224-tumbobots.json) |
 | Tumiki Fighters | 50414 | [50414-tumiki-fighters.json](./50414-tumiki-fighters.json) |
