@@ -2284,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Casino | 68900 | [68900-haunted-casino.json](./68900-haunted-casino.json) |
 | Haunted Castle | 1117 | [1117-haunted-castle.json](./1117-haunted-castle.json) |
 | Haunted Castle | 315360 | [315360-haunted-castle.json](./315360-haunted-castle.json) |
+| Haunted Castle II | 218849 | [218849-haunted-castle-ii.json](./218849-haunted-castle-ii.json) |
 | Haunted Childhood | 73487 | [73487-haunted-childhood.json](./73487-haunted-childhood.json) |
 | Haunted Cities Volume 4 | 140618 | [140618-haunted-cities-volume-4.json](./140618-haunted-cities-volume-4.json) |
 | Haunted Cleaner | 403937 | [403937-haunted-cleaner.json](./403937-haunted-cleaner.json) |
@@ -7474,6 +7475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobby Farm Free | 87072 | [87072-hobby-farm-free.json](./87072-hobby-farm-free.json) |
 | Hobby Horse: First Ride | 357852 | [357852-hobby-horse-first-ride.json](./357852-hobby-horse-first-ride.json) |
 | Hobby Module | 74413 | [74413-hobby-module.json](./74413-hobby-module.json) |
+| Hobby Simulator Bundle | 218859 | [218859-hobby-simulator-bundle.json](./218859-hobby-simulator-bundle.json) |
 | Hobgoblins Against Dwarfs | 296915 | [296915-hobgoblins-against-dwarfs.json](./296915-hobgoblins-against-dwarfs.json) |
 | Hobnobbers | 322693 | [322693-hobnobbers.json](./322693-hobnobbers.json) |
 | Hobo | 230465 | [230465-hobo.json](./230465-hobo.json) |
