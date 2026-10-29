@@ -2481,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of the Garden Rose | 346185 | [346185-journey-of-the-garden-rose.json](./346185-journey-of-the-garden-rose.json) |
 | Journey of the King | 17930 | [17930-journey-of-the-king.json](./17930-journey-of-the-king.json) |
 | Journey Of The Light | 370850 | [370850-journey-of-the-light.json](./370850-journey-of-the-light.json) |
+| Journey of the Scroll | 180397 | [180397-journey-of-the-scroll.json](./180397-journey-of-the-scroll.json) |
 | Journey of the Sword | 72348 | [72348-journey-of-the-sword.json](./72348-journey-of-the-sword.json) |
 | Journey of the World | 119676 | [119676-journey-of-the-world.json](./119676-journey-of-the-world.json) |
 | Journey of Wrestling | 144618 | [144618-journey-of-wrestling.json](./144618-journey-of-wrestling.json) |
@@ -3293,6 +3294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junko | 286124 | [286124-junko.json](./286124-junko.json) |
 | Junkoid | 215859 | [215859-junkoid.json](./215859-junkoid.json) |
 | Junkpot | 414947 | [414947-junkpot.json](./414947-junkpot.json) |
+| JunkPunk | 180420 | [180420-junkpunk.json](./180420-junkpunk.json) |
 | Junkpunk: Arena | 153856 | [153856-junkpunk-arena.json](./153856-junkpunk-arena.json) |
 | Junkraft | 177211 | [177211-junkraft.json](./177211-junkraft.json) |
 | JunkRats | 353805 | [353805-junkrats.json](./353805-junkrats.json) |
