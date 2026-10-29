@@ -8539,6 +8539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shura No Mon | 179996 | [179996-shura-no-mon.json](./179996-shura-no-mon.json) |
 | Shurado | 74775 | [74775-shurado.json](./74775-shurado.json) |
 | Shurigatto | 422012 | [422012-shurigatto.json](./422012-shurigatto.json) |
+| Shuriken | 197495 | [197495-shuriken.json](./197495-shuriken.json) |
 | Shuriken & Aliens | 124144 | [124144-shuriken-and-aliens.json](./124144-shuriken-and-aliens.json) |
 | Shuriken Block | 61058 | [61058-shuriken-block.json](./61058-shuriken-block.json) |
 | Shuriken Master! | 108493 | [108493-shuriken-master.json](./108493-shuriken-master.json) |
@@ -10274,6 +10275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six | 60012 | [60012-six.json](./60012-six.json) |
 | Six & Six | 392759 | [392759-six-and-six.json](./392759-six-and-six.json) |
 | Six Ages 2: Lights Going Out | 245860 | [245860-six-ages-2-lights-going-out.json](./245860-six-ages-2-lights-going-out.json) |
+| Six Aspects | 197484 | [197484-six-aspects.json](./197484-six-aspects.json) |
 | Six Blow: Hatching Eggs | 287060 | [287060-six-blow-hatching-eggs.json](./287060-six-blow-hatching-eggs.json) |
 | Six Braves | 201588 | [201588-six-braves.json](./201588-six-braves.json) |
 | Six Cabins in Serpent Ridge National Forest | 287221 | [287221-six-cabins-in-serpent-ridge-national-forest.json](./287221-six-cabins-in-serpent-ridge-national-forest.json) |
@@ -19264,6 +19266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Hunter: Death Mark II | 133814 | [133814-spirit-hunter-death-mark-ii.json](./133814-spirit-hunter-death-mark-ii.json) |
 | Spirit Hunters Inc. | 23587 | [23587-spirit-hunters-inc.json](./23587-spirit-hunters-inc.json) |
 | Spirit Hunters Inc. Shadow/Light | 84895 | [84895-spirit-hunters-inc-shadow-light.json](./84895-spirit-hunters-inc-shadow-light.json) |
+| Spirit Hunters: Infinite Horde | 197480 | [197480-spirit-hunters-infinite-horde.json](./197480-spirit-hunters-infinite-horde.json) |
 | Spirit Island: Horizons of Spirit Island | 254660 | [254660-spirit-island-horizons-of-spirit-island.json](./254660-spirit-island-horizons-of-spirit-island.json) |
 | Spirit Island: Jagged Earth | 285886 | [285886-spirit-island-jagged-earth.json](./285886-spirit-island-jagged-earth.json) |
 | Spirit Knight | 358815 | [358815-spirit-knight.json](./358815-spirit-knight.json) |
@@ -21327,6 +21330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Tactics Redux: Expeditions | 169952 | [169952-star-tactics-redux-expeditions.json](./169952-star-tactics-redux-expeditions.json) |
 | Star Tank | 169457 | [169457-star-tank.json](./169457-star-tank.json) |
 | Star Tap | 54540 | [54540-star-tap.json](./54540-star-tap.json) |
+| Star Tetrinomino | 198048 | [198048-star-tetrinomino.json](./198048-star-tetrinomino.json) |
 | Star Thief | 110928 | [110928-star-thief.json](./110928-star-thief.json) |
 | Star Thunder | 114703 | [114703-star-thunder.json](./114703-star-thunder.json) |
 | Star Tower | 101267 | [101267-star-tower.json](./101267-star-tower.json) |
@@ -25197,6 +25201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Students of Psionic Power | 211260 | [211260-students-of-psionic-power.json](./211260-students-of-psionic-power.json) |
 | Students' Horrible Stories: FIN | 147417 | [147417-students-horrible-stories-fin.json](./147417-students-horrible-stories-fin.json) |
 | Studio 100 Speeleiland | 130913 | [130913-studio-100-speeleiland.json](./130913-studio-100-speeleiland.json) |
+| Studio Apart(ment) | 197481 | [197481-studio-apart-ment.json](./197481-studio-apart-ment.json) |
 | Studio P | 386518 | [386518-studio-p.json](./386518-studio-p.json) |
 | Studio Scream: Verse One | 379915 | [379915-studio-scream-verse-one.json](./379915-studio-scream-verse-one.json) |
 | Studio Sim: The Painting Game | 410942 | [410942-studio-sim-the-painting-game.json](./410942-studio-sim-the-painting-game.json) |
@@ -26087,6 +26092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suite PreCure: Happy Oshare Harmony | 327601 | [327601-suite-precure-happy-oshare-harmony.json](./327601-suite-precure-happy-oshare-harmony.json) |
 | Suite PreCure: Melody Collection | 124063 | [124063-suite-precure-melody-collection.json](./124063-suite-precure-melody-collection.json) |
 | Suite Room no Nemurihime Celebteki Zeitaku Ren'ai | 229029 | [229029-suite-room-no-nemurihime-celebteki-zeitaku-renai.json](./229029-suite-room-no-nemurihime-celebteki-zeitaku-renai.json) |
+| Suite Snake | 198045 | [198045-suite-snake.json](./198045-suite-snake.json) |
 | Suits: A Business RPG | 16135 | [16135-suits-a-business-rpg.json](./16135-suits-a-business-rpg.json) |
 | SuitU | 341166 | [341166-suitu.json](./341166-suitu.json) |
 | Suīyáng: Shī Yǔ Huǒ | 374626 | [374626-suiyang-shi-yu-huo.json](./374626-suiyang-shi-yu-huo.json) |
@@ -26856,6 +26862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Boat Rescue | 25767 | [25767-super-boat-rescue.json](./25767-super-boat-rescue.json) |
 | Super Boba: Pachinko Cafe | 296505 | [296505-super-boba-pachinko-cafe.json](./296505-super-boba-pachinko-cafe.json) |
 | Super Bogus World | 64874 | [64874-super-bogus-world.json](./64874-super-bogus-world.json) |
+| Super Bomberman | 198028 | [198028-super-bomberman.json](./198028-super-bomberman.json) |
 | Super Bomberman | 3450 | [3450-super-bomberman.json](./3450-super-bomberman.json) |
 | Super Bomberman 2 | 14530 | [14530-super-bomberman-2.json](./14530-super-bomberman-2.json) |
 | Super Bomberman 3 | 18618 | [18618-super-bomberman-3.json](./18618-super-bomberman-3.json) |
@@ -27297,6 +27304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Furi Puzzles | 334833 | [334833-super-furi-puzzles.json](./334833-super-furi-puzzles.json) |
 | Super FX Zelda | 257514 | [257514-super-fx-zelda.json](./257514-super-fx-zelda.json) |
 | Super G-Man | 73110 | [73110-super-g-man.json](./73110-super-g-man.json) |
+| Super Gachapin Bomberman | 198037 | [198037-super-gachapin-bomberman.json](./198037-super-gachapin-bomberman.json) |
 | Super Gachapon World: SD Gundam X | 42401 | [42401-super-gachapon-world-sd-gundam-x.json](./42401-super-gachapon-world-sd-gundam-x.json) |
 | Super Gahaku | 417571 | [417571-super-gahaku.json](./417571-super-gahaku.json) |
 | Super Galaxy Ball | 219579 | [219579-super-galaxy-ball.json](./219579-super-galaxy-ball.json) |
@@ -30869,6 +30877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetest Monster | 300720 | [300720-sweetest-monster.json](./300720-sweetest-monster.json) |
 | Sweetest Thing | 85412 | [85412-sweetest-thing.json](./85412-sweetest-thing.json) |
 | Sweetheart | 415166 | [415166-sweetheart.json](./415166-sweetheart.json) |
+| SweetHex: Celestial Encounters | 197516 | [197516-sweethex-celestial-encounters.json](./197516-sweethex-celestial-encounters.json) |
 | Sweetie Candy Maze: Blackberry | 412383 | [412383-sweetie-candy-maze-blackberry.json](./412383-sweetie-candy-maze-blackberry.json) |
 | Sweetie Candy Maze: Blueberry | 387747 | [387747-sweetie-candy-maze-blueberry.json](./387747-sweetie-candy-maze-blueberry.json) |
 | Sweetie Candy Maze: Brown Chocolate | 398322 | [398322-sweetie-candy-maze-brown-chocolate.json](./398322-sweetie-candy-maze-brown-chocolate.json) |
