@@ -18525,6 +18525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellchain | 181672 | [181672-spellchain.json](./181672-spellchain.json) |
 | Spellchanted 2D Hidden Object Puzzle Adveture Tile-Matching | 321548 | [321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json](./321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json) |
 | Spellcheck | 298392 | [298392-spellcheck.json](./298392-spellcheck.json) |
+| Spellcraft | 209279 | [209279-spellcraft.json](./209279-spellcraft.json) |
 | Spellcrafter | 17690 | [17690-spellcrafter.json](./17690-spellcrafter.json) |
 | Spellcross: The Last Battle | 93405 | [93405-spellcross-the-last-battle.json](./93405-spellcross-the-last-battle.json) |
 | Spelldash | 197149 | [197149-spelldash.json](./197149-spelldash.json) |
@@ -21514,6 +21515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Racer Arcade | 67944 | [67944-star-wars-racer-arcade.json](./67944-star-wars-racer-arcade.json) |
 | Star Wars: Racer Revenge | 19419 | [19419-star-wars-racer-revenge.json](./19419-star-wars-racer-revenge.json) |
 | Star Wars: Rebel Assault | 161 | [161-star-wars-rebel-assault.json](./161-star-wars-rebel-assault.json) |
+| Star Wars: Rebel Assault - Special Edition | 209257 | [209257-star-wars-rebel-assault-special-edition.json](./209257-star-wars-rebel-assault-special-edition.json) |
 | Star Wars: Rebel Assault I + II | 33161 | [33161-star-wars-rebel-assault-i-ii.json](./33161-star-wars-rebel-assault-i-ii.json) |
 | Star Wars: Rebel Assault II - The Hidden Empire | 300715 | [300715-star-wars-rebel-assault-ii-the-hidden-empire.json](./300715-star-wars-rebel-assault-ii-the-hidden-empire.json) |
 | Star Wars: Rebel Forces | 199016 | [199016-star-wars-rebel-forces.json](./199016-star-wars-rebel-forces.json) |
@@ -23220,6 +23222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steven Universe: Save the Light & OK K.O.! Let's Play Heroes Combo Pack | 107150 | [107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json](./107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json) |
 | Steven Universe: Tap Together | 106958 | [106958-steven-universe-tap-together.json](./106958-steven-universe-tap-together.json) |
 | Steven: The Jumpmaker | 57318 | [57318-steven-the-jumpmaker.json](./57318-steven-the-jumpmaker.json) |
+| Steven's Game | 209284 | [209284-stevens-game.json](./209284-stevens-game.json) |
 | Steventon Street | 180543 | [180543-steventon-street.json](./180543-steventon-street.json) |
 | Steventon Street: Deluxe Edition | 359069 | [359069-steventon-street-deluxe-edition.json](./359069-steventon-street-deluxe-edition.json) |
 | Stevo Life | 341016 | [341016-stevo-life.json](./341016-stevo-life.json) |
@@ -29274,6 +29277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercrab Extravaganza | 226612 | [226612-supercrab-extravaganza.json](./226612-supercrab-extravaganza.json) |
 | Supercross Freestyle | 50069 | [50069-supercross-freestyle.json](./50069-supercross-freestyle.json) |
 | SuperCTF | 151123 | [151123-superctf.json](./151123-superctf.json) |
+| SuperDanny Powered Up | 209272 | [209272-superdanny-powered-up.json](./209272-superdanny-powered-up.json) |
 | Superdeflex | 256309 | [256309-superdeflex.json](./256309-superdeflex.json) |
 | Superdeluxe | 297000 | [297000-superdeluxe.json](./297000-superdeluxe.json) |
 | Superdetektiverne | 131918 | [131918-superdetektiverne.json](./131918-superdetektiverne.json) |
@@ -30479,6 +30483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweep It! | 263337 | [263337-sweep-it.json](./263337-sweep-it.json) |
 | Sweep Maidens | 320306 | [320306-sweep-maidens.json](./320306-sweep-maidens.json) |
 | Sweep Protocol | 423857 | [423857-sweep-protocol.json](./423857-sweep-protocol.json) |
+| Sweep Serf | 209286 | [209286-sweep-serf.json](./209286-sweep-serf.json) |
 | Sweep Squad | 384179 | [384179-sweep-squad.json](./384179-sweep-squad.json) |
 | Sweep Strike | 376540 | [376540-sweep-strike.json](./376540-sweep-strike.json) |
 | Sweep'n'Sweep | 91329 | [91329-sweepnsweep.json](./91329-sweepnsweep.json) |
