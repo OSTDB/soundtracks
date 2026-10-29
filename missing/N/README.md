@@ -2281,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Space | 19325 | [19325-neon-space.json](./19325-neon-space.json) |
 | Neon Space Ultra | 32934 | [32934-neon-space-ultra.json](./32934-neon-space-ultra.json) |
 | Neon Spaceboard | 99597 | [99597-neon-spaceboard.json](./99597-neon-spaceboard.json) |
+| Neon Speed | 199738 | [199738-neon-speed.json](./199738-neon-speed.json) |
 | Neon Spellstorm | 329750 | [329750-neon-spellstorm.json](./329750-neon-spellstorm.json) |
 | Neon Spin | 359382 | [359382-neon-spin.json](./359382-neon-spin.json) |
 | Neon Striker | 348305 | [348305-neon-striker.json](./348305-neon-striker.json) |
@@ -4534,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja JaJaMaru-kun: Sakura-hime to Karyu no Himitsu | 62207 | [62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json](./62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json) |
 | Ninja JaJaMaru: Ginga Daisakusen | 48454 | [48454-ninja-jajamaru-ginga-daisakusen.json](./48454-ninja-jajamaru-ginga-daisakusen.json) |
 | Ninja JaJaMaru: Retro Collection | 237557 | [237557-ninja-jajamaru-retro-collection.json](./237557-ninja-jajamaru-retro-collection.json) |
+| Ninja JaJaMaru: The Great Yokai Battle + Hell | 199764 | [199764-ninja-jajamaru-the-great-yokai-battle-hell.json](./199764-ninja-jajamaru-the-great-yokai-battle-hell.json) |
 | Ninja JaJaMaru: The Great Yokai Battle + Hell - Deluxe Edition | 225783 | [225783-ninja-jajamaru-the-great-yokai-battle-hell-deluxe-edition.json](./225783-ninja-jajamaru-the-great-yokai-battle-hell-deluxe-edition.json) |
 | Ninja JaJaMaru: The Lost RPGs | 234622 | [234622-ninja-jajamaru-the-lost-rpgs.json](./234622-ninja-jajamaru-the-lost-rpgs.json) |
 | Ninja Jump | 88042 | [88042-ninja-jump.json](./88042-ninja-jump.json) |
@@ -4881,6 +4883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Ball | 40983 | [40983-nitro-ball.json](./40983-nitro-ball.json) |
 | Nitro Battle Racing | 350900 | [350900-nitro-battle-racing.json](./350900-nitro-battle-racing.json) |
 | Nitro Boost Challenge | 72624 | [72624-nitro-boost-challenge.json](./72624-nitro-boost-challenge.json) |
+| Nitro Car Racing | 200283 | [200283-nitro-car-racing.json](./200283-nitro-car-racing.json) |
 | Nitro Champagne Tower | 309950 | [309950-nitro-champagne-tower.json](./309950-nitro-champagne-tower.json) |
 | Nitro City Racing | 397875 | [397875-nitro-city-racing.json](./397875-nitro-city-racing.json) |
 | Nitro Derby | 280786 | [280786-nitro-derby.json](./280786-nitro-derby.json) |
