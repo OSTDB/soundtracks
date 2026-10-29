@@ -8837,6 +8837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plotonium Explosive Smasher DX: Machine Slayer - Oh Yes! Edition | 362226 | [362226-plotonium-explosive-smasher-dx-machine-slayer-oh-yes-edition.json](./362226-plotonium-explosive-smasher-dx-machine-slayer-oh-yes-edition.json) |
 | Plotting | 12196 | [12196-plotting.json](./12196-plotting.json) |
 | Plotwords | 394116 | [394116-plotwords.json](./394116-plotwords.json) |
+| Plow the Snow! | 217105 | [217105-plow-the-snow.json](./217105-plow-the-snow.json) |
 | Plowing | 276190 | [276190-plowing.json](./276190-plowing.json) |
 | Plowing Through | 271806 | [271806-plowing-through.json](./271806-plowing-through.json) |
 | Pluck It | 105910 | [105910-pluck-it.json](./105910-pluck-it.json) |
@@ -10792,6 +10793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pond Scum | 157091 | [157091-pond-scum.json](./157091-pond-scum.json) |
 | Pond Scum | 268928 | [268928-pond-scum.json](./268928-pond-scum.json) |
 | Pondemonium | 372057 | [372057-pondemonium.json](./372057-pondemonium.json) |
+| Ponder | 217142 | [217142-ponder.json](./217142-ponder.json) |
 | Ponder | 301096 | [301096-ponder.json](./301096-ponder.json) |
 | Ponder Club | 394542 | [394542-ponder-club.json](./394542-ponder-club.json) |
 | Pondlife | 384543 | [384543-pondlife.json](./384543-pondlife.json) |
