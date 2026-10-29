@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallacy Quiz | 291432 | [291432-fallacy-quiz.json](./291432-fallacy-quiz.json) |
 | Fallalypse: Death or Cress | 84053 | [84053-fallalypse-death-or-cress.json](./84053-fallalypse-death-or-cress.json) |
 | Fallback! | 270135 | [270135-fallback.json](./270135-fallback.json) |
+| Fallcone | 219924 | [219924-fallcone.json](./219924-fallcone.json) |
 | FallDawn | 376671 | [376671-falldawn.json](./376671-falldawn.json) |
 | Falldown 3D | 254497 | [254497-falldown-3d.json](./254497-falldown-3d.json) |
 | Fallen | 171594 | [171594-fallen.json](./171594-fallen.json) |
@@ -5385,6 +5386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefly Online | 63131 | [63131-firefly-online.json](./63131-firefly-online.json) |
 | Firefly Online Cortex | 35908 | [35908-firefly-online-cortex.json](./35908-firefly-online-cortex.json) |
 | Firefly Shelter | 404865 | [404865-firefly-shelter.json](./404865-firefly-shelter.json) |
+| Firefly Sky | 219925 | [219925-firefly-sky.json](./219925-firefly-sky.json) |
 | FireFly Studios' Stronghold Warchest | 78021 | [78021-firefly-studios-stronghold-warchest.json](./78021-firefly-studios-stronghold-warchest.json) |
 | Firefly Witch | 275345 | [275345-firefly-witch.json](./275345-firefly-witch.json) |
 | Firefly: A Myth Nerds Journey | 243845 | [243845-firefly-a-myth-nerds-journey.json](./243845-firefly-a-myth-nerds-journey.json) |
@@ -6922,6 +6924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Out Rush | 337724 | [337724-flip-out-rush.json](./337724-flip-out-rush.json) |
 | Flip Out! | 40799 | [40799-flip-out.json](./40799-flip-out.json) |
 | Flip Panic! | 353827 | [353827-flip-panic.json](./353827-flip-panic.json) |
+| Flip Pigs | 219926 | [219926-flip-pigs.json](./219926-flip-pigs.json) |
 | Flip Range 2 | 220156 | [220156-flip-range-2.json](./220156-flip-range-2.json) |
 | Flip Run: Second Wave | 87128 | [87128-flip-run-second-wave.json](./87128-flip-run-second-wave.json) |
 | Flip Shot | 75463 | [75463-flip-shot.json](./75463-flip-shot.json) |
@@ -10143,6 +10146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free the Animation | 101318 | [101318-free-the-animation.json](./101318-free-the-animation.json) |
 | Free the Bird | 319165 | [319165-free-the-bird.json](./319165-free-the-bird.json) |
 | Free the Blobs | 18428 | [18428-free-the-blobs.json](./18428-free-the-blobs.json) |
+| Free the Fobbles! For Two | 219927 | [219927-free-the-fobbles-for-two.json](./219927-free-the-fobbles-for-two.json) |
 | Free the Lazy Dogs | 258516 | [258516-free-the-lazy-dogs.json](./258516-free-the-lazy-dogs.json) |
 | Free Throw Basketball | 147868 | [147868-free-throw-basketball.json](./147868-free-throw-basketball.json) |
 | Free Time Puzzle | 422516 | [422516-free-time-puzzle.json](./422516-free-time-puzzle.json) |
