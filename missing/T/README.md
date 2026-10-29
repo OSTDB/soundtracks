@@ -1817,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankron | 215883 | [215883-tankron.json](./215883-tankron.json) |
 | Tankroyale.io | 162620 | [162620-tankroyale-io.json](./162620-tankroyale-io.json) |
 | Tanks | 102253 | [102253-tanks.json](./102253-tanks.json) |
+| Tanks | 201962 | [201962-tanks.json](./201962-tanks.json) |
 | Tanks | 259625 | [259625-tanks.json](./259625-tanks.json) |
 | Tanks & Planes Battle | 347003 | [347003-tanks-and-planes-battle.json](./347003-tanks-and-planes-battle.json) |
 | Tanks 2020 | 128217 | [128217-tanks-2020.json](./128217-tanks-2020.json) |
@@ -21183,6 +21184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Crown | 182530 | [182530-to-the-crown.json](./182530-to-the-crown.json) |
 | To The Dark Tower | 119006 | [119006-to-the-dark-tower.json](./119006-to-the-dark-tower.json) |
 | To The Death | 286025 | [286025-to-the-death.json](./286025-to-the-death.json) |
+| To the Dragon Cave | 201937 | [201937-to-the-dragon-cave.json](./201937-to-the-dragon-cave.json) |
 | To the Dungeon! | 255075 | [255075-to-the-dungeon.json](./255075-to-the-dungeon.json) |
 | To the Eden | 362398 | [362398-to-the-eden.json](./362398-to-the-eden.json) |
 | To the Eds-treme | 315086 | [315086-to-the-eds-treme.json](./315086-to-the-eds-treme.json) |
@@ -23084,6 +23086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totemic | 138037 | [138037-totemic.json](./138037-totemic.json) |
 | Totemlands | 213941 | [213941-totemlands.json](./213941-totemlands.json) |
 | Totemori | 27207 | [27207-totemori.json](./27207-totemori.json) |
+| Totems | 201973 | [201973-totems.json](./201973-totems.json) |
 | Totems: Game of Conquest | 200188 | [200188-totems-game-of-conquest.json](./200188-totems-game-of-conquest.json) |
 | Toten | 233486 | [233486-toten.json](./233486-toten.json) |
 | Totenkampf: Anime Waifus vs WW2 Zombies | 398414 | [398414-totenkampf-anime-waifus-vs-ww2-zombies.json](./398414-totenkampf-anime-waifus-vs-ww2-zombies.json) |
@@ -26370,6 +26373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Panda: The Adventures of Ricky and Boxman | 226433 | [226433-trash-panda-the-adventures-of-ricky-and-boxman.json](./226433-trash-panda-the-adventures-of-ricky-and-boxman.json) |
 | Trash Pandamonium | 302931 | [302931-trash-pandamonium.json](./302931-trash-pandamonium.json) |
 | Trash Panic | 20692 | [20692-trash-panic.json](./20692-trash-panic.json) |
+| Trash Patrol | 201933 | [201933-trash-patrol.json](./201933-trash-patrol.json) |
 | Trash Patrol: Academic Version | 200434 | [200434-trash-patrol-academic-version.json](./200434-trash-patrol-academic-version.json) |
 | Trash Pit | 197143 | [197143-trash-pit.json](./197143-trash-pit.json) |
 | Trash Poker | 176445 | [176445-trash-poker.json](./176445-trash-poker.json) |
