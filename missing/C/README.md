@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Mania: Lights, Camera, Action! | 15047 | [15047-cake-mania-lights-camera-action.json](./15047-cake-mania-lights-camera-action.json) |
 | Cake Mania: To the Max! | 15048 | [15048-cake-mania-to-the-max.json](./15048-cake-mania-to-the-max.json) |
 | Cake Master | 313251 | [313251-cake-master.json](./313251-cake-master.json) |
+| Cake Match Charm: Pop and jam | 200273 | [200273-cake-match-charm-pop-and-jam.json](./200273-cake-match-charm-pop-and-jam.json) |
 | Cake or Bomb? | 360922 | [360922-cake-or-bomb.json](./360922-cake-or-bomb.json) |
 | Cake Platformer | 329089 | [329089-cake-platformer.json](./329089-cake-platformer.json) |
 | Cake Shop | 109015 | [109015-cake-shop.json](./109015-cake-shop.json) |
@@ -1662,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Rixot: Lost on Enceladus | 183840 | [183840-captain-rixot-lost-on-enceladus.json](./183840-captain-rixot-lost-on-enceladus.json) |
 | Captain Rocket | 344959 | [344959-captain-rocket.json](./344959-captain-rocket.json) |
 | Captain Sabertooth and the Treasure of Lama Rama | 101432 | [101432-captain-sabertooth-and-the-treasure-of-lama-rama.json](./101432-captain-sabertooth-and-the-treasure-of-lama-rama.json) |
+| Captain Sabertooth: New Adventures | 200297 | [200297-captain-sabertooth-new-adventures.json](./200297-captain-sabertooth-new-adventures.json) |
 | Captain Scarlet | 83233 | [83233-captain-scarlet.json](./83233-captain-scarlet.json) |
 | Captain Sharkbait: Voyage for Treasure | 380493 | [380493-captain-sharkbait-voyage-for-treasure.json](./380493-captain-sharkbait-voyage-for-treasure.json) |
 | Captain Skyhawk | 48071 | [48071-captain-skyhawk.json](./48071-captain-skyhawk.json) |
@@ -3819,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Vandal | 298278 | [298278-catch-the-vandal.json](./298278-catch-the-vandal.json) |
 | Catch the Wally - Hide & Seek | 108247 | [108247-catch-the-wally-hide-and-seek.json](./108247-catch-the-wally-hide-and-seek.json) |
 | Catch the Witch | 417503 | [417503-catch-the-witch.json](./417503-catch-the-witch.json) |
+| Catch the Yeti! | 199727 | [199727-catch-the-yeti.json](./199727-catch-the-yeti.json) |
 | Catch Them All! | 407882 | [407882-catch-them-all.json](./407882-catch-them-all.json) |
 | Catch Them If You Can | 215368 | [215368-catch-them-if-you-can.json](./215368-catch-them-if-you-can.json) |
 | Catch Them Sweetie | 271075 | [271075-catch-them-sweetie.json](./271075-catch-them-sweetie.json) |
@@ -16696,6 +16699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubefall | 134934 | [134934-cubefall.json](./134934-cubefall.json) |
 | CubeGate | 266178 | [266178-cubegate.json](./266178-cubegate.json) |
 | CubeGod | 291371 | [291371-cubegod.json](./291371-cubegod.json) |
+| Cubegrid | 199722 | [199722-cubegrid.json](./199722-cubegrid.json) |
 | CubeGun | 17372 | [17372-cubegun.json](./17372-cubegun.json) |
 | CubeHook VR | 186499 | [186499-cubehook-vr.json](./186499-cubehook-vr.json) |
 | Cubeism 2: Baroque Edition | 218149 | [218149-cubeism-2-baroque-edition.json](./218149-cubeism-2-baroque-edition.json) |
@@ -16894,6 +16898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuckold Simulator | 146562 | [146562-cuckold-simulator.json](./146562-cuckold-simulator.json) |
 | Cuckoldry Festival: Former Pro Wrestler Mother Trifled by the Huge Dick of her Son's Friend | 98497 | [98497-cuckoldry-festival-former-pro-wrestler-mother-trifled-by-the-huge-dick-of-her-sons-friend.json](./98497-cuckoldry-festival-former-pro-wrestler-mother-trifled-by-the-huge-dick-of-her-sons-friend.json) |
 | Cuckoo Castle | 135241 | [135241-cuckoo-castle.json](./135241-cuckoo-castle.json) |
+| Cuckoo Curling | 200311 | [200311-cuckoo-curling.json](./200311-cuckoo-curling.json) |
 | Cuckoo Mask | 253983 | [253983-cuckoo-mask.json](./253983-cuckoo-mask.json) |
 | CuckTales | 309448 | [309448-cucktales.json](./309448-cucktales.json) |
 | Cuckwork: Mama pays for her useless son's failures with her body | 82898 | [82898-cuckwork-mama-pays-for-her-useless-sons-failures-with-her-body.json](./82898-cuckwork-mama-pays-for-her-useless-sons-failures-with-her-body.json) |
