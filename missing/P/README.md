@@ -2357,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PartyIcons | 336943 | [336943-partyicons.json](./336943-partyicons.json) |
 | Partymasters | 90769 | [90769-partymasters.json](./90769-partymasters.json) |
 | PartySaur: Dino Mayhem | 261731 | [261731-partysaur-dino-mayhem.json](./261731-partysaur-dino-mayhem.json) |
+| PartySparkers | 227010 | [227010-partysparkers.json](./227010-partysparkers.json) |
 | PartyToons | 215555 | [215555-partytoons.json](./215555-partytoons.json) |
 | Parvaneh: Legacy of the Light's Guardians | 35657 | [35657-parvaneh-legacy-of-the-lights-guardians.json](./35657-parvaneh-legacy-of-the-lights-guardians.json) |
 | Pas's restaurant | 346618 | [346618-pass-restaurant.json](./346618-pass-restaurant.json) |
@@ -2520,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patchy Patients | 177285 | [177285-patchy-patients.json](./177285-patchy-patients.json) |
 | Patent Blaster | 60079 | [60079-patent-blaster.json](./60079-patent-blaster.json) |
 | Patent9 | 90117 | [90117-patent9.json](./90117-patent9.json) |
+| Path | 227012 | [227012-path.json](./227012-path.json) |
 | Path Ball | 341590 | [341590-path-ball.json](./341590-path-ball.json) |
 | Path Builder | 318244 | [318244-path-builder.json](./318244-path-builder.json) |
 | Path of Achra | 222738 | [222738-path-of-achra.json](./222738-path-of-achra.json) |
@@ -3729,6 +3731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pequeno Eu | 290082 | [290082-pequeno-eu.json](./290082-pequeno-eu.json) |
 | Pequod | 126449 | [126449-pequod.json](./126449-pequod.json) |
 | Per Aspera Test | 289441 | [289441-per-aspera-test.json](./289441-per-aspera-test.json) |
+| Per Aspera: Buildings Paint Pack | 227011 | [227011-per-aspera-buildings-paint-pack.json](./227011-per-aspera-buildings-paint-pack.json) |
 | Per Aspera: Deluxe Edition | 154545 | [154545-per-aspera-deluxe-edition.json](./154545-per-aspera-deluxe-edition.json) |
 | Per Aspera: Green Mars | 196114 | [196114-per-aspera-green-mars.json](./196114-per-aspera-green-mars.json) |
 | Per Aspera: Home | 232963 | [232963-per-aspera-home.json](./232963-per-aspera-home.json) |
@@ -6868,6 +6871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixar Pals Plus! | 230329 | [230329-pixar-pals-plus.json](./230329-pixar-pals-plus.json) |
 | PixArk: A Sweet Pack for the Sweetest | 247366 | [247366-pixark-a-sweet-pack-for-the-sweetest.json](./247366-pixark-a-sweet-pack-for-the-sweetest.json) |
 | PixArk: Jade Elegance - A Theatrical Odyssey in the East | 291059 | [291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json](./291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json) |
+| PixArk: Skyward - Expansion Pack | 227009 | [227009-pixark-skyward-expansion-pack.json](./227009-pixark-skyward-expansion-pack.json) |
 | Pixasso | 164868 | [164868-pixasso.json](./164868-pixasso.json) |
 | Pixasso 2 | 165703 | [165703-pixasso-2.json](./165703-pixasso-2.json) |
 | Pixasso 3 | 166624 | [166624-pixasso-3.json](./166624-pixasso-3.json) |
@@ -7193,8 +7197,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Traditional Jigsaws: Geodes | 357956 | [357956-pixel-puzzles-traditional-jigsaws-geodes.json](./357956-pixel-puzzles-traditional-jigsaws-geodes.json) |
 | Pixel Puzzles Traditional Jigsaws: Locomotive | 357955 | [357955-pixel-puzzles-traditional-jigsaws-locomotive.json](./357955-pixel-puzzles-traditional-jigsaws-locomotive.json) |
 | Pixel Puzzles Traditional Jigsaws: Motorbikes | 357954 | [357954-pixel-puzzles-traditional-jigsaws-motorbikes.json](./357954-pixel-puzzles-traditional-jigsaws-motorbikes.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Autumn | 227006 | [227006-pixel-puzzles-traditional-jigsaws-pack-autumn.json](./227006-pixel-puzzles-traditional-jigsaws-pack-autumn.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Butterflies | 227005 | [227005-pixel-puzzles-traditional-jigsaws-pack-butterflies.json](./227005-pixel-puzzles-traditional-jigsaws-pack-butterflies.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Candy | 227004 | [227004-pixel-puzzles-traditional-jigsaws-pack-candy.json](./227004-pixel-puzzles-traditional-jigsaws-pack-candy.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Christmas 2 | 227003 | [227003-pixel-puzzles-traditional-jigsaws-pack-christmas-2.json](./227003-pixel-puzzles-traditional-jigsaws-pack-christmas-2.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Fantasy | 227002 | [227002-pixel-puzzles-traditional-jigsaws-pack-fantasy.json](./227002-pixel-puzzles-traditional-jigsaws-pack-fantasy.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Halloween | 227001 | [227001-pixel-puzzles-traditional-jigsaws-pack-halloween.json](./227001-pixel-puzzles-traditional-jigsaws-pack-halloween.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Mexico | 227000 | [227000-pixel-puzzles-traditional-jigsaws-pack-mexico.json](./227000-pixel-puzzles-traditional-jigsaws-pack-mexico.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Poland | 226999 | [226999-pixel-puzzles-traditional-jigsaws-pack-poland.json](./226999-pixel-puzzles-traditional-jigsaws-pack-poland.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 1 | 163003 | [163003-pixel-puzzles-traditional-jigsaws-pack-variety-pack-1.json](./163003-pixel-puzzles-traditional-jigsaws-pack-variety-pack-1.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 11 | 267407 | [267407-pixel-puzzles-traditional-jigsaws-pack-variety-pack-11.json](./267407-pixel-puzzles-traditional-jigsaws-pack-variety-pack-11.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 4 | 226993 | [226993-pixel-puzzles-traditional-jigsaws-pack-variety-pack-4.json](./226993-pixel-puzzles-traditional-jigsaws-pack-variety-pack-4.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 5 | 226992 | [226992-pixel-puzzles-traditional-jigsaws-pack-variety-pack-5.json](./226992-pixel-puzzles-traditional-jigsaws-pack-variety-pack-5.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 6 | 241508 | [241508-pixel-puzzles-traditional-jigsaws-pack-variety-pack-6.json](./241508-pixel-puzzles-traditional-jigsaws-pack-variety-pack-6.json) |
 | Pixel Puzzles Traditional Jigsaws: Variety Pack XXS | 357953 | [357953-pixel-puzzles-traditional-jigsaws-variety-pack-xxs.json](./357953-pixel-puzzles-traditional-jigsaws-variety-pack-xxs.json) |
 | Pixel Puzzles Trivia | 288823 | [288823-pixel-puzzles-trivia.json](./288823-pixel-puzzles-trivia.json) |
@@ -7367,6 +7381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Chibi | 241507 | [241507-pixel-puzzles-illustrations-and-anime-jigsaw-pack-chibi.json](./241507-pixel-puzzles-illustrations-and-anime-jigsaw-pack-chibi.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dark Sided | 162940 | [162940-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dark-sided.json](./162940-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dark-sided.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Deadswitch 3 | 303703 | [303703-pixel-puzzles-illustrations-and-anime-jigsaw-pack-deadswitch-3.json](./303703-pixel-puzzles-illustrations-and-anime-jigsaw-pack-deadswitch-3.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dinosaurs | 227008 | [227008-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dinosaurs.json](./227008-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dinosaurs.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Distant Worlds | 163410 | [163410-pixel-puzzles-illustrations-and-anime-jigsaw-pack-distant-worlds.json](./163410-pixel-puzzles-illustrations-and-anime-jigsaw-pack-distant-worlds.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dragons | 162935 | [162935-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dragons.json](./162935-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dragons.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dragons 2 | 192166 | [192166-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dragons-2.json](./192166-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dragons-2.json) |
@@ -7378,6 +7393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Little Dogs | 162936 | [162936-pixel-puzzles-illustrations-and-anime-jigsaw-pack-little-dogs.json](./162936-pixel-puzzles-illustrations-and-anime-jigsaw-pack-little-dogs.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Mechs | 163409 | [163409-pixel-puzzles-illustrations-and-anime-jigsaw-pack-mechs.json](./163409-pixel-puzzles-illustrations-and-anime-jigsaw-pack-mechs.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Microorganisms | 357948 | [357948-pixel-puzzles-illustrations-and-anime-jigsaw-pack-microorganisms.json](./357948-pixel-puzzles-illustrations-and-anime-jigsaw-pack-microorganisms.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Neko | 227007 | [227007-pixel-puzzles-illustrations-and-anime-jigsaw-pack-neko.json](./227007-pixel-puzzles-illustrations-and-anime-jigsaw-pack-neko.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Ninja Girls | 163408 | [163408-pixel-puzzles-illustrations-and-anime-jigsaw-pack-ninja-girls.json](./163408-pixel-puzzles-illustrations-and-anime-jigsaw-pack-ninja-girls.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Occult | 303702 | [303702-pixel-puzzles-illustrations-and-anime-jigsaw-pack-occult.json](./303702-pixel-puzzles-illustrations-and-anime-jigsaw-pack-occult.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Samurai | 162939 | [162939-pixel-puzzles-illustrations-and-anime-jigsaw-pack-samurai.json](./162939-pixel-puzzles-illustrations-and-anime-jigsaw-pack-samurai.json) |
@@ -8088,7 +8104,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zoldath | 318409 | [318409-planet-zoldath.json](./318409-planet-zoldath.json) |
 | Planet Zoo | 117717 | [117717-planet-zoo.json](./117717-planet-zoo.json) |
 | Planet Zoo 2 | 402959 | [402959-planet-zoo-2.json](./402959-planet-zoo-2.json) |
+| Planet Zoo: Africa Pack | 226998 | [226998-planet-zoo-africa-pack.json](./226998-planet-zoo-africa-pack.json) |
 | Planet Zoo: Aquatic Pack | 226995 | [226995-planet-zoo-aquatic-pack.json](./226995-planet-zoo-aquatic-pack.json) |
+| Planet Zoo: Arctic Pack | 226996 | [226996-planet-zoo-arctic-pack.json](./226996-planet-zoo-arctic-pack.json) |
+| Planet Zoo: Australia Pack | 226997 | [226997-planet-zoo-australia-pack.json](./226997-planet-zoo-australia-pack.json) |
 | Planet Zoo: Barnyard Animal Pack | 308275 | [308275-planet-zoo-barnyard-animal-pack.json](./308275-planet-zoo-barnyard-animal-pack.json) |
 | Planet Zoo: Conservation Pack | 207746 | [207746-planet-zoo-conservation-pack.json](./207746-planet-zoo-conservation-pack.json) |
 | Planet Zoo: Console Edition | 284574 | [284574-planet-zoo-console-edition.json](./284574-planet-zoo-console-edition.json) |
@@ -8096,6 +8115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zoo: Grasslands Animal Pack | 263097 | [263097-planet-zoo-grasslands-animal-pack.json](./263097-planet-zoo-grasslands-animal-pack.json) |
 | Planet Zoo: North America Animal Pack | 174129 | [174129-planet-zoo-north-america-animal-pack.json](./174129-planet-zoo-north-america-animal-pack.json) |
 | Planet Zoo: Oceania Pack | 266381 | [266381-planet-zoo-oceania-pack.json](./266381-planet-zoo-oceania-pack.json) |
+| Planet Zoo: South America Pack | 226994 | [226994-planet-zoo-south-america-pack.json](./226994-planet-zoo-south-america-pack.json) |
 | Planet Zoo: Tropical Pack | 243535 | [243535-planet-zoo-tropical-pack.json](./243535-planet-zoo-tropical-pack.json) |
 | Planet Zoo: Twilight Pack | 263073 | [263073-planet-zoo-twilight-pack.json](./263073-planet-zoo-twilight-pack.json) |
 | Planet Zoo: Wetlands Animal Pack | 197558 | [197558-planet-zoo-wetlands-animal-pack.json](./197558-planet-zoo-wetlands-animal-pack.json) |
@@ -10283,6 +10303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polariball | 356205 | [356205-polariball.json](./356205-polariball.json) |
 | Polaris | 380125 | [380125-polaris.json](./380125-polaris.json) |
 | Polaris Chord | 263343 | [263343-polaris-chord.json](./263343-polaris-chord.json) |
+| Polaris Outpost | 226991 | [226991-polaris-outpost.json](./226991-polaris-outpost.json) |
 | Polaris SnoCross | 249122 | [249122-polaris-snocross.json](./249122-polaris-snocross.json) |
 | Polarities | 133177 | [133177-polarities.json](./133177-polarities.json) |
 | Polarity Remastered | 336401 | [336401-polarity-remastered.json](./336401-polarity-remastered.json) |
@@ -12533,6 +12554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primitier | 140519 | [140519-primitier.json](./140519-primitier.json) |
 | Primitive | 236171 | [236171-primitive.json](./236171-primitive.json) |
 | Primitive Fear | 387651 | [387651-primitive-fear.json](./387651-primitive-fear.json) |
+| Primitive Hearts | 226990 | [226990-primitive-hearts.json](./226990-primitive-hearts.json) |
 | Primitive Hunter | 127710 | [127710-primitive-hunter.json](./127710-primitive-hunter.json) |
 | Primitive Life Simulator | 336400 | [336400-primitive-life-simulator.json](./336400-primitive-life-simulator.json) |
 | Primitive Race | 97228 | [97228-primitive-race.json](./97228-primitive-race.json) |
@@ -14298,6 +14320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projekt Godhand | 329766 | [329766-projekt-godhand.json](./329766-projekt-godhand.json) |
 | Projekt Melody: A Nut Between Worlds! | 186659 | [186659-projekt-melody-a-nut-between-worlds.json](./186659-projekt-melody-a-nut-between-worlds.json) |
 | Projekt Z: Beyond Order | 138752 | [138752-projekt-z-beyond-order.json](./138752-projekt-z-beyond-order.json) |
+| Projekt: Passion - Season 1 | 226989 | [226989-projekt-passion-season-1.json](./226989-projekt-passion-season-1.json) |
 | Projekt: Passion - Season 2 | 297187 | [297187-projekt-passion-season-2.json](./297187-projekt-passion-season-2.json) |
 | Projeto Real | 272401 | [272401-projeto-real.json](./272401-projeto-real.json) |
 | Projeto Real: Rabbit the Pet | 286981 | [286981-projeto-real-rabbit-the-pet.json](./286981-projeto-real-rabbit-the-pet.json) |
