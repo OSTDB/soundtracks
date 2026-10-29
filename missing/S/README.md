@@ -1114,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samui kara Nabe Kuitai ne Joon-chan to!! | 330062 | [330062-samui-kara-nabe-kuitai-ne-joon-chan-to.json](./330062-samui-kara-nabe-kuitai-ne-joon-chan-to.json) |
 | Samurado | 244254 | [244254-samurado.json](./244254-samurado.json) |
 | Samurai | 140531 | [140531-samurai.json](./140531-samurai.json) |
+| Samurai | 199761 | [199761-samurai.json](./199761-samurai.json) |
 | Samurai Academy: Paws of Fury | 366773 | [366773-samurai-academy-paws-of-fury.json](./366773-samurai-academy-paws-of-fury.json) |
 | Samurai Aces | 39844 | [39844-samurai-aces.json](./39844-samurai-aces.json) |
 | Samurai Aces III: Sengoku Cannon | 135721 | [135721-samurai-aces-iii-sengoku-cannon.json](./135721-samurai-aces-iii-sengoku-cannon.json) |
@@ -1681,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santherya Uprising | 376005 | [376005-santherya-uprising.json](./376005-santherya-uprising.json) |
 | Santo Island Incident | 199661 | [199661-santo-island-incident.json](./199661-santo-island-incident.json) |
 | Santorini Board Game | 290291 | [290291-santorini-board-game.json](./290291-santorini-board-game.json) |
+| Santorini: Pocket Game | 200268 | [200268-santorini-pocket-game.json](./200268-santorini-pocket-game.json) |
 | Santy is Home | 326778 | [326778-santy-is-home.json](./326778-santy-is-home.json) |
 | Sanxion | 23045 | [23045-sanxion.json](./23045-sanxion.json) |
 | Sanyo Pachinko Paradise | 55926 | [55926-sanyo-pachinko-paradise.json](./55926-sanyo-pachinko-paradise.json) |
@@ -6397,6 +6399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaolin Master | 123063 | [123063-shaolin-master.json](./123063-shaolin-master.json) |
 | Shaolin Master Plus | 123062 | [123062-shaolin-master-plus.json](./123062-shaolin-master-plus.json) |
 | Shaolin Sudoku | 180218 | [180218-shaolin-sudoku.json](./180218-shaolin-sudoku.json) |
+| Shaolin vs Wutang | 200308 | [200308-shaolin-vs-wutang.json](./200308-shaolin-vs-wutang.json) |
 | Shaolin vs Wutang | 32736 | [32736-shaolin-vs-wutang.json](./32736-shaolin-vs-wutang.json) |
 | Shaolin vs. Wutang 2 | 128276 | [128276-shaolin-vs-wutang-2.json](./128276-shaolin-vs-wutang-2.json) |
 | Shaolin vs. Wutang Legends | 365774 | [365774-shaolin-vs-wutang-legends.json](./365774-shaolin-vs-wutang-legends.json) |
@@ -6709,6 +6712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaun Palmer's Pro Snowboarder | 3995 | [3995-shaun-palmers-pro-snowboarder.json](./3995-shaun-palmers-pro-snowboarder.json) |
 | Shaun the Sheep | 68942 | [68942-shaun-the-sheep.json](./68942-shaun-the-sheep.json) |
 | Shaun the Sheep: Shear Speed | 207861 | [207861-shaun-the-sheep-shear-speed.json](./207861-shaun-the-sheep-shear-speed.json) |
+| Shaun the Sheep: Sheep Stack | 200301 | [200301-shaun-the-sheep-sheep-stack.json](./200301-shaun-the-sheep-sheep-stack.json) |
 | Shaun White Skateboarding | 208712 | [208712-shaun-white-skateboarding.json](./208712-shaun-white-skateboarding.json) |
 | Shaun White Skateboarding | 5151 | [5151-shaun-white-skateboarding.json](./5151-shaun-white-skateboarding.json) |
 | Shaun White Snowboarding: Road Trip | 21878 | [21878-shaun-white-snowboarding-road-trip.json](./21878-shaun-white-snowboarding-road-trip.json) |
@@ -9019,6 +9023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signet City | 405150 | [405150-signet-city.json](./405150-signet-city.json) |
 | Signets of Power | 61982 | [61982-signets-of-power.json](./61982-signets-of-power.json) |
 | Significant | 384208 | [384208-significant.json](./384208-significant.json) |
+| Signs of Birth | 199754 | [199754-signs-of-birth.json](./199754-signs-of-birth.json) |
 | Signs of Darkness | 76531 | [76531-signs-of-darkness.json](./76531-signs-of-darkness.json) |
 | Signs Of Life | 366579 | [366579-signs-of-life.json](./366579-signs-of-life.json) |
 | Signs of the Sojourner | 118603 | [118603-signs-of-the-sojourner.json](./118603-signs-of-the-sojourner.json) |
@@ -10557,6 +10562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sker Ritual: Stranger Danger | 241317 | [241317-sker-ritual-stranger-danger.json](./241317-sker-ritual-stranger-danger.json) |
 | Sker Ritual: The Quiet Ones | 235843 | [235843-sker-ritual-the-quiet-ones.json](./235843-sker-ritual-the-quiet-ones.json) |
 | Skera VR | 237026 | [237026-skera-vr.json](./237026-skera-vr.json) |
+| Sketch | 199762 | [199762-sketch.json](./199762-sketch.json) |
 | Sketch | 245121 | [245121-sketch.json](./245121-sketch.json) |
 | Sketch Crawler | 189353 | [189353-sketch-crawler.json](./189353-sketch-crawler.json) |
 | Sketch Doom | 247518 | [247518-sketch-doom.json](./247518-sketch-doom.json) |
@@ -13943,6 +13949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
 | Social Hook | 333000 | [333000-social-hook.json](./333000-social-hook.json) |
 | Social Interaction Trainer | 31531 | [31531-social-interaction-trainer.json](./31531-social-interaction-trainer.json) |
+| Social Moth | 199723 | [199723-social-moth.json](./199723-social-moth.json) |
 | Social Pressure | 184845 | [184845-social-pressure.json](./184845-social-pressure.json) |
 | Social Services of the Doomed | 188879 | [188879-social-services-of-the-doomed.json](./188879-social-services-of-the-doomed.json) |
 | Social Space | 398537 | [398537-social-space.json](./398537-social-space.json) |
@@ -14775,6 +14782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something To Write About: Unbroken - Book One | 336066 | [336066-something-to-write-about-unbroken-book-one.json](./336066-something-to-write-about-unbroken-book-one.json) |
 | Something Took Her | 335247 | [335247-something-took-her.json](./335247-something-took-her.json) |
 | Something Unlimited | 283106 | [283106-something-unlimited.json](./283106-something-unlimited.json) |
+| Something Weird in Space | 199768 | [199768-something-weird-in-space.json](./199768-something-weird-in-space.json) |
 | Something Wicked Lies Beneath | 250873 | [250873-something-wicked-lies-beneath.json](./250873-something-wicked-lies-beneath.json) |
 | Something Wicked This Way Comes | 196637 | [196637-something-wicked-this-way-comes.json](./196637-something-wicked-this-way-comes.json) |
 | Something's in the Air Redux | 255102 | [255102-somethings-in-the-air-redux.json](./255102-somethings-in-the-air-redux.json) |
@@ -18612,6 +18620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellcheck | 298392 | [298392-spellcheck.json](./298392-spellcheck.json) |
 | Spellcraft | 209279 | [209279-spellcraft.json](./209279-spellcraft.json) |
 | Spellcrafter | 17690 | [17690-spellcrafter.json](./17690-spellcrafter.json) |
+| Spellcrafter: The Path of Magic | 200298 | [200298-spellcrafter-the-path-of-magic.json](./200298-spellcrafter-the-path-of-magic.json) |
 | Spellcross: The Last Battle | 93405 | [93405-spellcross-the-last-battle.json](./93405-spellcross-the-last-battle.json) |
 | Spelldash | 197149 | [197149-spelldash.json](./197149-spelldash.json) |
 | Spellfall | 60072 | [60072-spellfall.json](./60072-spellfall.json) |
@@ -19511,6 +19520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splinters of Regret | 193410 | [193410-splinters-of-regret.json](./193410-splinters-of-regret.json) |
 | Split | 111484 | [111484-split.json](./111484-split.json) |
 | Split | 185444 | [185444-split.json](./185444-split.json) |
+| Split | 199726 | [199726-split.json](./199726-split.json) |
 | Split | 20364 | [20364-split.json](./20364-split.json) |
 | Split Apart | 324313 | [324313-split-apart.json](./324313-split-apart.json) |
 | Split Brain Samsara | 401487 | [401487-split-brain-samsara.json](./401487-split-brain-samsara.json) |
@@ -26293,6 +26303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summit Drive | 365028 | [365028-summit-drive.json](./365028-summit-drive.json) |
 | Summit in Space | 164905 | [164905-summit-in-space.json](./164905-summit-in-space.json) |
 | Summit of the Wolf | 119033 | [119033-summit-of-the-wolf.json](./119033-summit-of-the-wolf.json) |
+| SummitX 2 | 200267 | [200267-summitx-2.json](./200267-summitx-2.json) |
 | Summon | 263754 | [263754-summon.json](./263754-summon.json) |
 | Summon Elemental | 223402 | [223402-summon-elemental.json](./223402-summon-elemental.json) |
 | Summon Island: The Robot Pirate Invasion Was Today?! | 422041 | [422041-summon-island-the-robot-pirate-invasion-was-today.json](./422041-summon-island-the-robot-pirate-invasion-was-today.json) |
@@ -26750,6 +26761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Auto Racing | 245581 | [245581-super-auto-racing.json](./245581-super-auto-racing.json) |
 | Super Auto Salon: Custom Car Contest | 133782 | [133782-super-auto-salon-custom-car-contest.json](./133782-super-auto-salon-custom-car-contest.json) |
 | Super Awesome Quest | 59075 | [59075-super-awesome-quest.json](./59075-super-awesome-quest.json) |
+| Super Awesome RPG | 200306 | [200306-super-awesome-rpg.json](./200306-super-awesome-rpg.json) |
 | Super B-Daman: Fighting Phoenix | 60594 | [60594-super-b-daman-fighting-phoenix.json](./60594-super-b-daman-fighting-phoenix.json) |
 | Super B-Dino's adventures | 101386 | [101386-super-b-dinos-adventures.json](./101386-super-b-dinos-adventures.json) |
 | Super Baby | 97678 | [97678-super-baby.json](./97678-super-baby.json) |
@@ -27456,6 +27468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Beaches 2 | 155581 | [155581-super-jigsaw-puzzle-generations-beaches-2.json](./155581-super-jigsaw-puzzle-generations-beaches-2.json) |
 | Super Jigsaw Puzzle: Generations - Beaches Puzzles | 155599 | [155599-super-jigsaw-puzzle-generations-beaches-puzzles.json](./155599-super-jigsaw-puzzle-generations-beaches-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Bears Puzzles | 155637 | [155637-super-jigsaw-puzzle-generations-bears-puzzles.json](./155637-super-jigsaw-puzzle-generations-bears-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Big Cats 2 | 199744 | [199744-super-jigsaw-puzzle-generations-big-cats-2.json](./199744-super-jigsaw-puzzle-generations-big-cats-2.json) |
 | Super Jigsaw Puzzle: Generations - Big Cats Puzzles | 155620 | [155620-super-jigsaw-puzzle-generations-big-cats-puzzles.json](./155620-super-jigsaw-puzzle-generations-big-cats-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Bikes Puzzles | 155631 | [155631-super-jigsaw-puzzle-generations-bikes-puzzles.json](./155631-super-jigsaw-puzzle-generations-bikes-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Birds Puzzles | 155628 | [155628-super-jigsaw-puzzle-generations-birds-puzzles.json](./155628-super-jigsaw-puzzle-generations-birds-puzzles.json) |
@@ -30166,6 +30179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Mars: Future Contemporary Cosmetic Pack | 227330 | [227330-surviving-mars-future-contemporary-cosmetic-pack.json](./227330-surviving-mars-future-contemporary-cosmetic-pack.json) |
 | Surviving Mars: In-Dome Buildings Pack | 215400 | [215400-surviving-mars-in-dome-buildings-pack.json](./215400-surviving-mars-in-dome-buildings-pack.json) |
 | Surviving Mars: Marsvision Song Contest | 154933 | [154933-surviving-mars-marsvision-song-contest.json](./154933-surviving-mars-marsvision-song-contest.json) |
+| Surviving Mars: Martian Express | 199765 | [199765-surviving-mars-martian-express.json](./199765-surviving-mars-martian-express.json) |
 | Surviving Mars: Mysteries Resupply Pack | 154446 | [154446-surviving-mars-mysteries-resupply-pack.json](./154446-surviving-mars-mysteries-resupply-pack.json) |
 | Surviving Mars: Pioneer | 335133 | [335133-surviving-mars-pioneer.json](./335133-surviving-mars-pioneer.json) |
 | Surviving Mars: Relaunched - Feeding the Future | 414770 | [414770-surviving-mars-relaunched-feeding-the-future.json](./414770-surviving-mars-relaunched-feeding-the-future.json) |
