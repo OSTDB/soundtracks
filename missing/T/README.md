@@ -2138,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tape Worm | 46891 | [46891-tape-worm.json](./46891-tape-worm.json) |
 | Tape Zero | 26921 | [26921-tape-zero.json](./26921-tape-zero.json) |
 | Tape: Unveil the Memories | 194903 | [194903-tape-unveil-the-memories.json](./194903-tape-unveil-the-memories.json) |
+| Tape: Unveil the Memories - Director's Edition | 216590 | [216590-tape-unveil-the-memories-directors-edition.json](./216590-tape-unveil-the-memories-directors-edition.json) |
 | Tapeçaria | 334711 | [334711-tapecaria.json](./334711-tapecaria.json) |
 | Tapeheads | 309551 | [309551-tapeheads.json](./309551-tapeheads.json) |
 | Tapes of Entities | 370204 | [370204-tapes-of-entities.json](./370204-tapes-of-entities.json) |
@@ -11325,6 +11326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Library on the Lake | 416029 | [416029-the-library-on-the-lake.json](./416029-the-library-on-the-lake.json) |
 | The Lie: Cottage of Secrets | 103933 | [103933-the-lie-cottage-of-secrets.json](./103933-the-lie-cottage-of-secrets.json) |
 | The Lies We Tell Ourselves | 221135 | [221135-the-lies-we-tell-ourselves.json](./221135-the-lies-we-tell-ourselves.json) |
+| The Life and Deaths of Doctor M | 216578 | [216578-the-life-and-deaths-of-doctor-m.json](./216578-the-life-and-deaths-of-doctor-m.json) |
 | The Life and Suffering of Prince Jerian | 312141 | [312141-the-life-and-suffering-of-prince-jerian.json](./312141-the-life-and-suffering-of-prince-jerian.json) |
 | The Life and Suffering of Sir Brante | 138871 | [138871-the-life-and-suffering-of-sir-brante.json](./138871-the-life-and-suffering-of-sir-brante.json) |
 | The Life and Times of Daniel Vastberaden | 368571 | [368571-the-life-and-times-of-daniel-vastberaden.json](./368571-the-life-and-times-of-daniel-vastberaden.json) |
@@ -12211,6 +12213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monkey King: The Legend Begins | 50608 | [50608-the-monkey-king-the-legend-begins.json](./50608-the-monkey-king-the-legend-begins.json) |
 | The Monkey P | 223148 | [223148-the-monkey-p.json](./223148-the-monkey-p.json) |
 | The Monkey's Paw | 415911 | [415911-the-monkeys-paw.json](./415911-the-monkeys-paw.json) |
+| The Mono-Yellow Madness | 216587 | [216587-the-mono-yellow-madness.json](./216587-the-mono-yellow-madness.json) |
 | The monotony of carrots | 179936 | [179936-the-monotony-of-carrots.json](./179936-the-monotony-of-carrots.json) |
 | The Monster | 111019 | [111019-the-monster.json](./111019-the-monster.json) |
 | The Monster Breeder | 126558 | [126558-the-monster-breeder.json](./126558-the-monster-breeder.json) |
@@ -13150,6 +13153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Plant | 105135 | [105135-the-plant.json](./105135-the-plant.json) |
 | The Plant Shop | 381089 | [381089-the-plant-shop.json](./381089-the-plant-shop.json) |
 | The Platypus' Search | 103116 | [103116-the-platypus-search.json](./103116-the-platypus-search.json) |
+| The Play | 216574 | [216574-the-play.json](./216574-the-play.json) |
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
 | The Player RPG | 102121 | [102121-the-player-rpg.json](./102121-the-player-rpg.json) |
 | The Player Who Can't Level Up | 312830 | [312830-the-player-who-cant-level-up.json](./312830-the-player-who-cant-level-up.json) |
