@@ -5600,6 +5600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rev'd Up Racing | 312195 | [312195-revd-up-racing.json](./312195-revd-up-racing.json) |
 | ReVamp | 394666 | [394666-revamp.json](./394666-revamp.json) |
 | Revamped | 260216 | [260216-revamped.json](./260216-revamped.json) |
+| Revasion | 190870 | [190870-revasion.json](./190870-revasion.json) |
 | Reveal Fantasia | 112136 | [112136-reveal-fantasia.json](./112136-reveal-fantasia.json) |
 | Reveal that Word! | 241340 | [241340-reveal-that-word.json](./241340-reveal-that-word.json) |
 | Reveal Your Monster | 392895 | [392895-reveal-your-monster.json](./392895-reveal-your-monster.json) |
@@ -5972,6 +5973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RFS: Real Flight Simulator | 144649 | [144649-rfs-real-flight-simulator.json](./144649-rfs-real-flight-simulator.json) |
 | RFVR | 189989 | [189989-rfvr.json](./189989-rfvr.json) |
 | Rg-ft | 176997 | [176997-rg-ft.json](./176997-rg-ft.json) |
+| RGB | 191381 | [191381-rgb.json](./191381-rgb.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
 | RGB ON Experience | 174629 | [174629-rgb-on-experience.json](./174629-rgb-on-experience.json) |
 | RGB Run | 112480 | [112480-rgb-run.json](./112480-rgb-run.json) |
@@ -7818,6 +7820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop: Rogue City - Unfinished Business - Prime Directives Pack | 383132 | [383132-robocop-rogue-city-unfinished-business-prime-directives-pack.json](./383132-robocop-rogue-city-unfinished-business-prime-directives-pack.json) |
 | RoboCop: Rogue City - Vanguard Pack | 275074 | [275074-robocop-rogue-city-vanguard-pack.json](./275074-robocop-rogue-city-vanguard-pack.json) |
 | RoboCorps | 58794 | [58794-robocorps.json](./58794-robocorps.json) |
+| Robocracy | 190841 | [190841-robocracy.json](./190841-robocracy.json) |
 | Robocraft | 7871 | [7871-robocraft.json](./7871-robocraft.json) |
 | Robocraft 2 | 217298 | [217298-robocraft-2.json](./217298-robocraft-2.json) |
 | Robocraft Royale | 89976 | [89976-robocraft-royale.json](./89976-robocraft-royale.json) |
@@ -10165,6 +10168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Challenge Solitaire | 54329 | [54329-royal-challenge-solitaire.json](./54329-royal-challenge-solitaire.json) |
 | Royal Chaos | 105798 | [105798-royal-chaos.json](./105798-royal-chaos.json) |
 | Royal Chaos: Enter a Dreamlike Kingdom of Romance | 105883 | [105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json](./105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json) |
+| Royal Commando | 190866 | [190866-royal-commando.json](./190866-royal-commando.json) |
 | Royal Crown | 113371 | [113371-royal-crown.json](./113371-royal-crown.json) |
 | Royal Decree! | 295098 | [295098-royal-decree.json](./295098-royal-decree.json) |
 | Royal Defense | 10784 | [10784-royal-defense.json](./10784-royal-defense.json) |
