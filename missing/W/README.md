@@ -2048,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wastelander | 178100 | [178100-wastelander.json](./178100-wastelander.json) |
 | Wastelanders | 362823 | [362823-wastelanders.json](./362823-wastelanders.json) |
 | Wastelands | 79221 | [79221-wastelands.json](./79221-wastelands.json) |
+| Wastepaperbin VR | 182658 | [182658-wastepaperbin-vr.json](./182658-wastepaperbin-vr.json) |
 | WastePunk | 258430 | [258430-wastepunk.json](./258430-wastepunk.json) |
 | Wasting Away | 190842 | [190842-wasting-away.json](./190842-wasting-away.json) |
 | Wasure Yuki | 283804 | [283804-wasure-yuki.json](./283804-wasure-yuki.json) |
@@ -3860,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wherever You Get Your Podcasts | 397652 | [397652-wherever-you-get-your-podcasts.json](./397652-wherever-you-get-your-podcasts.json) |
 | Wherever You Hike | 307369 | [307369-wherever-you-hike.json](./307369-wherever-you-hike.json) |
 | Which | 63171 | [63171-which.json](./63171-which.json) |
+| Which Breaks the Silence | 182664 | [182664-which-breaks-the-silence.json](./182664-which-breaks-the-silence.json) |
 | Which Came First? | 180663 | [180663-which-came-first.json](./180663-which-came-first.json) |
 | Which Comes First? | 60628 | [60628-which-comes-first.json](./60628-which-comes-first.json) |
 | Which Country Is Larger? | 294819 | [294819-which-country-is-larger.json](./294819-which-country-is-larger.json) |
@@ -6047,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards and Warp Drives | 63538 | [63538-wizards-and-warp-drives.json](./63538-wizards-and-warp-drives.json) |
 | Wizards Home | 37381 | [37381-wizards-home.json](./37381-wizards-home.json) |
 | Wizards Legacy: Nightmare Park Manager Simulator | 261345 | [261345-wizards-legacy-nightmare-park-manager-simulator.json](./261345-wizards-legacy-nightmare-park-manager-simulator.json) |
+| Wizards of Alamar | 182670 | [182670-wizards-of-alamar.json](./182670-wizards-of-alamar.json) |
 | Wizards of Chaos | 216823 | [216823-wizards-of-chaos.json](./216823-wizards-of-chaos.json) |
 | Wizards of Nature | 329674 | [329674-wizards-of-nature.json](./329674-wizards-of-nature.json) |
 | Wizards of Waverly Place | 44065 | [44065-wizards-of-waverly-place.json](./44065-wizards-of-waverly-place.json) |
@@ -7196,6 +7199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Barn | 190833 | [190833-world-of-barn.json](./190833-world-of-barn.json) |
 | World of Battles: Morningstar | 23540 | [23540-world-of-battles-morningstar.json](./23540-world-of-battles-morningstar.json) |
 | World of Bingo | 97427 | [97427-world-of-bingo.json](./97427-world-of-bingo.json) |
+| World of Bitsy | 182686 | [182686-world-of-bitsy.json](./182686-world-of-bitsy.json) |
 | World of Blade: Zombie Slasher | 245324 | [245324-world-of-blade-zombie-slasher.json](./245324-world-of-blade-zombie-slasher.json) |
 | World of Blind | 359214 | [359214-world-of-blind.json](./359214-world-of-blind.json) |
 | World of Blocks | 273388 | [273388-world-of-blocks.json](./273388-world-of-blocks.json) |
