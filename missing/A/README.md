@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Housewife's Healing Touch | 198561 | [198561-a-housewifes-healing-touch.json](./198561-a-housewifes-healing-touch.json) |
 | A Hoy Pirates Adventure | 86656 | [86656-a-hoy-pirates-adventure.json](./86656-a-hoy-pirates-adventure.json) |
 | A Human Haunting! | 306724 | [306724-a-human-haunting.json](./306724-a-human-haunting.json) |
+| A Hundred Kinds of Your Smile | 224846 | [224846-a-hundred-kinds-of-your-smile.json](./224846-a-hundred-kinds-of-your-smile.json) |
 | A Hunter's Day | 181198 | [181198-a-hunters-day.json](./181198-a-hunters-day.json) |
 | A Ilha Perdida da Babitonga | 352367 | [352367-a-ilha-perdida-da-babitonga.json](./352367-a-ilha-perdida-da-babitonga.json) |
 | A is for Aardvark | 334281 | [334281-a-is-for-aardvark.json](./334281-a-is-for-aardvark.json) |
@@ -2431,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acolyte Fight! | 112251 | [112251-acolyte-fight.json](./112251-acolyte-fight.json) |
 | Acolyte of the Altar | 244924 | [244924-acolyte-of-the-altar.json](./244924-acolyte-of-the-altar.json) |
 | Aconcagua | 94123 | [94123-aconcagua.json](./94123-aconcagua.json) |
+| Aconite | 224832 | [224832-aconite.json](./224832-aconite.json) |
 | Aconite | 261712 | [261712-aconite.json](./261712-aconite.json) |
 | Aconitum | 379468 | [379468-aconitum.json](./379468-aconitum.json) |
 | Acorn Assault: Classic | 56954 | [56954-acorn-assault-classic.json](./56954-acorn-assault-classic.json) |
