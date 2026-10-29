@@ -5595,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check vs. Mate: Dark Desert DLC | 142983 | [142983-check-vs-mate-dark-desert-dlc.json](./142983-check-vs-mate-dark-desert-dlc.json) |
 | Check vs. Mate: Floating Island DLC | 142984 | [142984-check-vs-mate-floating-island-dlc.json](./142984-check-vs-mate-floating-island-dlc.json) |
 | Check-In | 169134 | [169134-check-in.json](./169134-check-in.json) |
+| Check-In | 180935 | [180935-check-in.json](./180935-check-in.json) |
 | Check-In Chaos | 410448 | [410448-check-in-chaos.json](./410448-check-in-chaos.json) |
 | Check, please!: Restaurant Simulator | 174028 | [174028-check-please-restaurant-simulator.json](./174028-check-please-restaurant-simulator.json) |
 | Checked Out | 366136 | [366136-checked-out.json](./366136-checked-out.json) |
@@ -7319,6 +7320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicle: RuneScape Legends | 19433 | [19433-chronicle-runescape-legends.json](./19433-chronicle-runescape-legends.json) |
 | Chronicle: Unit Eight | 128989 | [128989-chronicle-unit-eight.json](./128989-chronicle-unit-eight.json) |
 | Chronicles and Fables: Arena | 178442 | [178442-chronicles-and-fables-arena.json](./178442-chronicles-and-fables-arena.json) |
+| Chronicles and Fables: Labyrinth | 180936 | [180936-chronicles-and-fables-labyrinth.json](./180936-chronicles-and-fables-labyrinth.json) |
 | Chronicles IV: Ebonheim | 358852 | [358852-chronicles-iv-ebonheim.json](./358852-chronicles-iv-ebonheim.json) |
 | Chronicles Meteorfall | 390062 | [390062-chronicles-meteorfall.json](./390062-chronicles-meteorfall.json) |
 | Chronicles of 2 Heroes: Amaterasu's Wrath | 191850 | [191850-chronicles-of-2-heroes-amaterasus-wrath.json](./191850-chronicles-of-2-heroes-amaterasus-wrath.json) |
