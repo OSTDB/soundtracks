@@ -3528,6 +3528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon All-Star Brawl: Rocko Brawler Pack | 230985 | [230985-nickelodeon-all-star-brawl-rocko-brawler-pack.json](./230985-nickelodeon-all-star-brawl-rocko-brawler-pack.json) |
 | Nickelodeon All-Star Brawl: StageHazardRemoverMod | 330977 | [330977-nickelodeon-all-star-brawl-stagehazardremovermod.json](./330977-nickelodeon-all-star-brawl-stagehazardremovermod.json) |
 | Nickelodeon All-Star Brawl: Turbo Mode | 330975 | [330975-nickelodeon-all-star-brawl-turbo-mode.json](./330975-nickelodeon-all-star-brawl-turbo-mode.json) |
+| Nickelodeon All-Star Brawl: Ultimate Edition | 225326 | [225326-nickelodeon-all-star-brawl-ultimate-edition.json](./225326-nickelodeon-all-star-brawl-ultimate-edition.json) |
 | Nickelodeon Brain Bender Puzzles & Activities | 206474 | [206474-nickelodeon-brain-bender-puzzles-and-activities.json](./206474-nickelodeon-brain-bender-puzzles-and-activities.json) |
 | Nickelodeon Dance | 20240 | [20240-nickelodeon-dance.json](./20240-nickelodeon-dance.json) |
 | Nickelodeon Director's Lab | 243145 | [243145-nickelodeon-directors-lab.json](./243145-nickelodeon-directors-lab.json) |
