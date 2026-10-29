@@ -6090,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Fears | 86916 | [86916-hidden-fears.json](./86916-hidden-fears.json) |
 | Hidden Fears: Moonlight Edition | 121101 | [121101-hidden-fears-moonlight-edition.json](./121101-hidden-fears-moonlight-edition.json) |
 | Hidden Files : Echoes of JFK | 122096 | [122096-hidden-files-echoes-of-jfk.json](./122096-hidden-files-echoes-of-jfk.json) |
+| Hidden Floating City Top-Down 3D | 193605 | [193605-hidden-floating-city-top-down-3d.json](./193605-hidden-floating-city-top-down-3d.json) |
 | Hidden Flowers | 172977 | [172977-hidden-flowers.json](./172977-hidden-flowers.json) |
 | Hidden Folks | 26809 | [26809-hidden-folks.json](./26809-hidden-folks.json) |
 | Hidden Folks 2 | 404849 | [404849-hidden-folks-2.json](./404849-hidden-folks-2.json) |
@@ -6360,6 +6361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: The Big Circus Mystery - My Watch Shop: Wanted Dead or Alive | 107677 | [107677-hidden-objects-the-big-circus-mystery-my-watch-shop-wanted-dead-or-alive.json](./107677-hidden-objects-the-big-circus-mystery-my-watch-shop-wanted-dead-or-alive.json) |
 | Hidden Objects: The Room - My Wallet: The Big House | 91238 | [91238-hidden-objects-the-room-my-wallet-the-big-house.json](./91238-hidden-objects-the-room-my-wallet-the-big-house.json) |
 | Hidden Objects: The Witches of Pumpkin Avenue | 91200 | [91200-hidden-objects-the-witches-of-pumpkin-avenue.json](./91200-hidden-objects-the-witches-of-pumpkin-avenue.json) |
+| Hidden Objects: Tranquil Valley | 193618 | [193618-hidden-objects-tranquil-valley.json](./193618-hidden-objects-tranquil-valley.json) |
 | Hidden Objects: Travel London - Farm: Detective | 88669 | [88669-hidden-objects-travel-london-farm-detective.json](./88669-hidden-objects-travel-london-farm-detective.json) |
 | Hidden Objects: Victoria in Egypt - Cheops Pyramid | 200197 | [200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json](./200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json) |
 | Hidden Objects: Wallace & Gromit | 334916 | [334916-hidden-objects-wallace-and-gromit.json](./334916-hidden-objects-wallace-and-gromit.json) |
@@ -7678,6 +7680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holder of Place | 344142 | [344142-holder-of-place.json](./344142-holder-of-place.json) |
 | Holdfast: Age of Sail | 362286 | [362286-holdfast-age-of-sail.json](./362286-holdfast-age-of-sail.json) |
 | Holdfast: American Revolution | 400489 | [400489-holdfast-american-revolution.json](./400489-holdfast-american-revolution.json) |
+| Holdfast: Frontlines WW1 | 193625 | [193625-holdfast-frontlines-ww1.json](./193625-holdfast-frontlines-ww1.json) |
 | Holdfast: Nations At War - Napoleon's Rise | 286538 | [286538-holdfast-nations-at-war-napoleons-rise.json](./286538-holdfast-nations-at-war-napoleons-rise.json) |
 | Holding It | 378537 | [378537-holding-it.json](./378537-holding-it.json) |
 | Holding Keys | 255839 | [255839-holding-keys.json](./255839-holding-keys.json) |
@@ -7860,6 +7863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HollowPath | 221429 | [221429-hollowpath.json](./221429-hollowpath.json) |
 | Hollowpoint | 7607 | [7607-hollowpoint.json](./7607-hollowpoint.json) |
 | Hollowroot | 344356 | [344356-hollowroot.json](./344356-hollowroot.json) |
+| Hollowsk 1999 3D | 193601 | [193601-hollowsk-1999-3d.json](./193601-hollowsk-1999-3d.json) |
 | Holly 2: Magic Land | 24768 | [24768-holly-2-magic-land.json](./24768-holly-2-magic-land.json) |
 | Holly-Day Ice-Spionage | 285501 | [285501-holly-day-ice-spionage.json](./285501-holly-day-ice-spionage.json) |
 | Holly: A Christmas Tale | 177046 | [177046-holly-a-christmas-tale.json](./177046-holly-a-christmas-tale.json) |
@@ -10222,6 +10226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hum | 192683 | [192683-hum.json](./192683-hum.json) |
 | Hum Drum Experiences | 109300 | [109300-hum-drum-experiences.json](./109300-hum-drum-experiences.json) |
 | Human | 133865 | [133865-human.json](./133865-human.json) |
+| Human Apocalypse | 193086 | [193086-human-apocalypse.json](./193086-human-apocalypse.json) |
 | Human Baseball | 38342 | [38342-human-baseball.json](./38342-human-baseball.json) |
 | Human Beings' Extinction Day: 2074 | 316673 | [316673-human-beings-extinction-day-2074.json](./316673-human-beings-extinction-day-2074.json) |
 | Human Bowling | 283270 | [283270-human-bowling.json](./283270-human-bowling.json) |
