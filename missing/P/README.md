@@ -4549,6 +4549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online | 21968 | [21968-phantasy-star-online.json](./21968-phantasy-star-online.json) |
 | Phantasy Star Online 2 -Ragol Edition- | 132155 | [132155-phantasy-star-online-2-ragol-edition.json](./132155-phantasy-star-online-2-ragol-edition.json) |
 | Phantasy Star Online 2 New Genesis | 136042 | [136042-phantasy-star-online-2-new-genesis.json](./136042-phantasy-star-online-2-new-genesis.json) |
+| Phantasy Star Online 2 New Genesis: Cloud Version | 222058 | [222058-phantasy-star-online-2-new-genesis-cloud-version.json](./222058-phantasy-star-online-2-new-genesis-cloud-version.json) |
 | Phantasy Star Online 2 New Genesis: Limited Edition | 146336 | [146336-phantasy-star-online-2-new-genesis-limited-edition.json](./146336-phantasy-star-online-2-new-genesis-limited-edition.json) |
 | Phantasy Star Online 2 New Genesis: Sonic Collab - Suits/C-Space Pack | 252612 | [252612-phantasy-star-online-2-new-genesis-sonic-collab-suits-c-space-pack.json](./252612-phantasy-star-online-2-new-genesis-sonic-collab-suits-c-space-pack.json) |
 | Phantasy Star Online 2 New Genesis: Start Dash Rappy Edition | 164821 | [164821-phantasy-star-online-2-new-genesis-start-dash-rappy-edition.json](./164821-phantasy-star-online-2-new-genesis-start-dash-rappy-edition.json) |
@@ -6662,6 +6663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates | 197378 | [197378-pirates.json](./197378-pirates.json) |
 | Pirates | 298796 | [298796-pirates.json](./298796-pirates.json) |
 | Pirates & Pirater | 293537 | [293537-pirates-and-pirater.json](./293537-pirates-and-pirater.json) |
+| Pirates 7 | 222063 | [222063-pirates-7.json](./222063-pirates-7.json) |
 | Pirates Adventure Solitaire | 341574 | [341574-pirates-adventure-solitaire.json](./341574-pirates-adventure-solitaire.json) |
 | Pirates Adventure Solitaire 2 | 336990 | [336990-pirates-adventure-solitaire-2.json](./336990-pirates-adventure-solitaire-2.json) |
 | Pirates Ahoy! | 182379 | [182379-pirates-ahoy.json](./182379-pirates-ahoy.json) |
