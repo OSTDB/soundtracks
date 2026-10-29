@@ -5388,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobody's Quest | 157953 | [157953-nobodys-quest.json](./157953-nobodys-quest.json) |
 | Nobophobia | 110673 | [110673-nobophobia.json](./110673-nobophobia.json) |
 | Noboranka | 37330 | [37330-noboranka.json](./37330-noboranka.json) |
+| Noboru | 177164 | [177164-noboru.json](./177164-noboru.json) |
 | Nobu Jump | 383934 | [383934-nobu-jump.json](./383934-nobu-jump.json) |
 | Nobunaga Ibun | 49746 | [49746-nobunaga-ibun.json](./49746-nobunaga-ibun.json) |
 | Nobunaga Mahjong | 133794 | [133794-nobunaga-mahjong.json](./133794-nobunaga-mahjong.json) |
