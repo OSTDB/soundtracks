@@ -16531,6 +16531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DustCrow | 413470 | [413470-dustcrow.json](./413470-dustcrow.json) |
 | Dustdrifter | 409187 | [409187-dustdrifter.json](./409187-dustdrifter.json) |
 | Dustdrive: The Lightspeed Project | 385424 | [385424-dustdrive-the-lightspeed-project.json](./385424-dustdrive-the-lightspeed-project.json) |
+| Dusted Dusk | 219404 | [219404-dusted-dusk.json](./219404-dusted-dusk.json) |
 | Dusteroids | 415206 | [415206-dusteroids.json](./415206-dusteroids.json) |
 | Dustforce | 94073 | [94073-dustforce.json](./94073-dustforce.json) |
 | Dustforce DX | 1340 | [1340-dustforce-dx.json](./1340-dustforce-dx.json) |
@@ -16607,6 +16608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Slayer | 149502 | [149502-dwarf-slayer.json](./149502-dwarf-slayer.json) |
 | Dwarf Swordsman | 110160 | [110160-dwarf-swordsman.json](./110160-dwarf-swordsman.json) |
 | Dwarf Tower | 24563 | [24563-dwarf-tower.json](./24563-dwarf-tower.json) |
+| Dwarf's Adventure | 219405 | [219405-dwarfs-adventure.json](./219405-dwarfs-adventure.json) |
 | Dwarf's Trainfort | 217475 | [217475-dwarfs-trainfort.json](./217475-dwarfs-trainfort.json) |
 | Dwarfare: All For The Forge | 369720 | [369720-dwarfare-all-for-the-forge.json](./369720-dwarfare-all-for-the-forge.json) |
 | Dwarfender | 250894 | [250894-dwarfender.json](./250894-dwarfender.json) |
