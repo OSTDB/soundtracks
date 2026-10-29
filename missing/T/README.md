@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taishou Kitan: Kotonoha Sakura | 218956 | [218956-taishou-kitan-kotonoha-sakura.json](./218956-taishou-kitan-kotonoha-sakura.json) |
 | Taishou Mebiusline Hitotsumi | 141897 | [141897-taishou-mebiusline-hitotsumi.json](./141897-taishou-mebiusline-hitotsumi.json) |
 | Taishou Mebiusline Portable | 256317 | [256317-taishou-mebiusline-portable.json](./256317-taishou-mebiusline-portable.json) |
+| Taishou Mebiusline Taizen | 222103 | [222103-taishou-mebiusline-taizen.json](./222103-taishou-mebiusline-taizen.json) |
 | Taishou Mebiusline Teito Bibouroku | 256318 | [256318-taishou-mebiusline-teito-bibouroku.json](./256318-taishou-mebiusline-teito-bibouroku.json) |
 | Taishou Mebiusline Teito Bibouroku Hare | 141895 | [141895-taishou-mebiusline-teito-bibouroku-hare.json](./141895-taishou-mebiusline-teito-bibouroku-hare.json) |
 | Taishou Mebiusline Vitable | 141896 | [141896-taishou-mebiusline-vitable.json](./141896-taishou-mebiusline-vitable.json) |
@@ -1920,7 +1921,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo: Naki Ko no Shouzou | 347611 | [347611-tantei-jinguji-saburo-naki-ko-no-shouzou.json](./347611-tantei-jinguji-saburo-naki-ko-no-shouzou.json) |
 | Tantei Jinguji Saburo: Naki Ko no Shouzou | 347642 | [347642-tantei-jinguji-saburo-naki-ko-no-shouzou.json](./347642-tantei-jinguji-saburo-naki-ko-no-shouzou.json) |
 | Tantei Jinguji Saburo: Naki Ko no Shouzou & Nazono-Jikenbo | 347295 | [347295-tantei-jinguji-saburo-naki-ko-no-shouzou-and-nazono-jikenbo.json](./347295-tantei-jinguji-saburo-naki-ko-no-shouzou-and-nazono-jikenbo.json) |
+| Tantei Jinguji Saburo: Prism of Eyes - Aoi Me no Ryuu | 222077 | [222077-tantei-jinguji-saburo-prism-of-eyes-aoi-me-no-ryuu.json](./222077-tantei-jinguji-saburo-prism-of-eyes-aoi-me-no-ryuu.json) |
+| Tantei Jinguji Saburo: Prism of Eyes - Bouen wo Sagase! | 222076 | [222076-tantei-jinguji-saburo-prism-of-eyes-bouen-wo-sagase.json](./222076-tantei-jinguji-saburo-prism-of-eyes-bouen-wo-sagase.json) |
+| Tantei Jinguji Saburo: Prism of Eyes - Futa-iro no Shoujo | 222079 | [222079-tantei-jinguji-saburo-prism-of-eyes-futa-iro-no-shoujo.json](./222079-tantei-jinguji-saburo-prism-of-eyes-futa-iro-no-shoujo.json) |
+| Tantei Jinguji Saburo: Prism of Eyes - Inu to Yobareta Otoko | 222078 | [222078-tantei-jinguji-saburo-prism-of-eyes-inu-to-yobareta-otoko.json](./222078-tantei-jinguji-saburo-prism-of-eyes-inu-to-yobareta-otoko.json) |
+| Tantei Jinguji Saburo: Prism of Eyes - Kadan no Itte | 222082 | [222082-tantei-jinguji-saburo-prism-of-eyes-kadan-no-itte.json](./222082-tantei-jinguji-saburo-prism-of-eyes-kadan-no-itte.json) |
+| Tantei Jinguji Saburo: Prism of Eyes - Kyoshoku no Yoru | 222083 | [222083-tantei-jinguji-saburo-prism-of-eyes-kyoshoku-no-yoru.json](./222083-tantei-jinguji-saburo-prism-of-eyes-kyoshoku-no-yoru.json) |
+| Tantei Jinguji Saburo: Prism of Eyes - Makyou no Shinjitsu | 222071 | [222071-tantei-jinguji-saburo-prism-of-eyes-makyou-no-shinjitsu.json](./222071-tantei-jinguji-saburo-prism-of-eyes-makyou-no-shinjitsu.json) |
+| Tantei Jinguji Saburo: Prism of Eyes - Rensa Suru Noroi | 222073 | [222073-tantei-jinguji-saburo-prism-of-eyes-rensa-suru-noroi.json](./222073-tantei-jinguji-saburo-prism-of-eyes-rensa-suru-noroi.json) |
+| Tantei Jinguji Saburo: Prism of Eyes - Roku-mai no Hankou | 222075 | [222075-tantei-jinguji-saburo-prism-of-eyes-roku-mai-no-hankou.json](./222075-tantei-jinguji-saburo-prism-of-eyes-roku-mai-no-hankou.json) |
+| Tantei Jinguji Saburo: Prism of Eyes - Saburo to Nazo no Hihou | 222074 | [222074-tantei-jinguji-saburo-prism-of-eyes-saburo-to-nazo-no-hihou.json](./222074-tantei-jinguji-saburo-prism-of-eyes-saburo-to-nazo-no-hihou.json) |
+| Tantei Jinguji Saburo: Prism of Eyes - Shisha ni Sasageru Ishi | 222072 | [222072-tantei-jinguji-saburo-prism-of-eyes-shisha-ni-sasageru-ishi.json](./222072-tantei-jinguji-saburo-prism-of-eyes-shisha-ni-sasageru-ishi.json) |
+| Tantei Jinguji Saburo: Prism of Eyes - Takusareta Yubiwa | 222080 | [222080-tantei-jinguji-saburo-prism-of-eyes-takusareta-yubiwa.json](./222080-tantei-jinguji-saburo-prism-of-eyes-takusareta-yubiwa.json) |
 | Tantei Jinguji Saburo: Prism of Eyes - Toki no Sugiyuku Mama ni | 347484 | [347484-tantei-jinguji-saburo-prism-of-eyes-toki-no-sugiyuku-mama-ni.json](./347484-tantei-jinguji-saburo-prism-of-eyes-toki-no-sugiyuku-mama-ni.json) |
+| Tantei Jinguji Saburo: Prism of Eyes - Tsubaki no Yukue | 222081 | [222081-tantei-jinguji-saburo-prism-of-eyes-tsubaki-no-yukue.json](./222081-tantei-jinguji-saburo-prism-of-eyes-tsubaki-no-yukue.json) |
 | Tantei Jinguji Saburo: Quito no Yoru | 347626 | [347626-tantei-jinguji-saburo-quito-no-yoru.json](./347626-tantei-jinguji-saburo-quito-no-yoru.json) |
 | Tantei Jinguji Saburo: Quito no Yoru | 347634 | [347634-tantei-jinguji-saburo-quito-no-yoru.json](./347634-tantei-jinguji-saburo-quito-no-yoru.json) |
 | Tantei Jinguji Saburo: Rensa Suru Noroi | 347610 | [347610-tantei-jinguji-saburo-rensa-suru-noroi.json](./347610-tantei-jinguji-saburo-rensa-suru-noroi.json) |
@@ -21326,6 +21340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tofu Tower | 164296 | [164296-tofu-tower.json](./164296-tofu-tower.json) |
 | Tofu'Drift | 242629 | [242629-tofudrift.json](./242629-tofudrift.json) |
 | Toga | 256987 | [256987-toga.json](./256987-toga.json) |
+| Togabito no Senritsu | 222107 | [222107-togabito-no-senritsu.json](./222107-togabito-no-senritsu.json) |
 | Togainu no Chi | 17267 | [17267-togainu-no-chi.json](./17267-togainu-no-chi.json) |
 | Togainu no Chi: Lost Blood | 128480 | [128480-togainu-no-chi-lost-blood.json](./128480-togainu-no-chi-lost-blood.json) |
 | Togainu no Chi: True Blood | 145289 | [145289-togainu-no-chi-true-blood.json](./145289-togainu-no-chi-true-blood.json) |
