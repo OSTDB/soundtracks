@@ -4746,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 8th Son? A.R. | 243087 | [243087-the-8th-son-a-r.json](./243087-the-8th-son-a-r.json) |
 | The 95% Threshold | 131884 | [131884-the-95-threshold.json](./131884-the-95-threshold.json) |
 | The 9th Annual Vanilla Level Design Contest: Collaboration Hack | 187275 | [187275-the-9th-annual-vanilla-level-design-contest-collaboration-hack.json](./187275-the-9th-annual-vanilla-level-design-contest-collaboration-hack.json) |
+| The 9th Charnel | 217129 | [217129-the-9th-charnel.json](./217129-the-9th-charnel.json) |
 | The 9th Day | 32824 | [32824-the-9th-day.json](./32824-the-9th-day.json) |
 | The 9th Dragon | 394675 | [394675-the-9th-dragon.json](./394675-the-9th-dragon.json) |
 | The 9th Gate | 110712 | [110712-the-9th-gate.json](./110712-the-9th-gate.json) |
@@ -11915,6 +11916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mansion of Hidden Souls | 45522 | [45522-the-mansion-of-hidden-souls.json](./45522-the-mansion-of-hidden-souls.json) |
 | The Mansion of The Macabre | 328470 | [328470-the-mansion-of-the-macabre.json](./328470-the-mansion-of-the-macabre.json) |
 | The Mantis | 376490 | [376490-the-mantis.json](./376490-the-mantis.json) |
+| The Many Deaths of Lily Kosen | 217109 | [217109-the-many-deaths-of-lily-kosen.json](./217109-the-many-deaths-of-lily-kosen.json) |
 | The Many Faces of Go | 73868 | [73868-the-many-faces-of-go.json](./73868-the-many-faces-of-go.json) |
 | The Many Misfortunes of Kyran Pierre Cadenza the First | 211764 | [211764-the-many-misfortunes-of-kyran-pierre-cadenza-the-first.json](./211764-the-many-misfortunes-of-kyran-pierre-cadenza-the-first.json) |
 | The Many Pieces of Mr. Coo | 142959 | [142959-the-many-pieces-of-mr-coo.json](./142959-the-many-pieces-of-mr-coo.json) |
@@ -14073,6 +14075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Installation | 271315 | [271315-the-secret-installation.json](./271315-the-secret-installation.json) |
 | The Secret Island of Dr. Quandary | 46654 | [46654-the-secret-island-of-dr-quandary.json](./46654-the-secret-island-of-dr-quandary.json) |
 | The Secret Legacy: A Kate Brooks Adventure | 54294 | [54294-the-secret-legacy-a-kate-brooks-adventure.json](./54294-the-secret-legacy-a-kate-brooks-adventure.json) |
+| The Secret Life of Dorian Pink | 217108 | [217108-the-secret-life-of-dorian-pink.json](./217108-the-secret-life-of-dorian-pink.json) |
 | The Secret Life of Pets: Unleashed | 58324 | [58324-the-secret-life-of-pets-unleashed.json](./58324-the-secret-life-of-pets-unleashed.json) |
 | The Secret Life of Probes Prologue | 249639 | [249639-the-secret-life-of-probes-prologue.json](./249639-the-secret-life-of-probes-prologue.json) |
 | The Secret of Bastow Manor | 74846 | [74846-the-secret-of-bastow-manor.json](./74846-the-secret-of-bastow-manor.json) |
@@ -14821,6 +14824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snowman | 275641 | [275641-the-snowman.json](./275641-the-snowman.json) |
 | The Snowman | 299435 | [299435-the-snowman.json](./299435-the-snowman.json) |
 | The Snowman and the Snowdog | 22200 | [22200-the-snowman-and-the-snowdog.json](./22200-the-snowman-and-the-snowdog.json) |
+| The Sob Island | 217119 | [217119-the-sob-island.json](./217119-the-sob-island.json) |
 | The Soccer Player Manager | 180478 | [180478-the-soccer-player-manager.json](./180478-the-soccer-player-manager.json) |
 | The Social Distance Game | 228387 | [228387-the-social-distance-game.json](./228387-the-social-distance-game.json) |
 | The Social Engineer | 286221 | [286221-the-social-engineer.json](./286221-the-social-engineer.json) |
