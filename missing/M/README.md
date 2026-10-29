@@ -2500,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mammoth Mini Golf AR | 87202 | [87202-mammoth-mini-golf-ar.json](./87202-mammoth-mini-golf-ar.json) |
 | Mammy Talk DS | 130391 | [130391-mammy-talk-ds.json](./130391-mammy-talk-ds.json) |
 | MamoBall | 208365 | [208365-mamoball.json](./208365-mamoball.json) |
+| Mamodan | 208133 | [208133-mamodan.json](./208133-mamodan.json) |
 | Mamono Hunter Youko: Dai 7 no Keishou | 45722 | [45722-mamono-hunter-youko-dai-7-no-keishou.json](./45722-mamono-hunter-youko-dai-7-no-keishou.json) |
 | Mamono Hunter Youko: Makai Kara no Tenkousei | 292862 | [292862-mamono-hunter-youko-makai-kara-no-tenkousei.json](./292862-mamono-hunter-youko-makai-kara-no-tenkousei.json) |
 | Mamono Hunter Youko: Tooki Yobigoe | 292863 | [292863-mamono-hunter-youko-tooki-yobigoe.json](./292863-mamono-hunter-youko-tooki-yobigoe.json) |
@@ -8244,6 +8245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Hexa Puzzle | 348742 | [348742-merge-hexa-puzzle.json](./348742-merge-hexa-puzzle.json) |
 | Merge Hidden | 409720 | [409720-merge-hidden.json](./409720-merge-hidden.json) |
 | Merge Jelly | 208935 | [208935-merge-jelly.json](./208935-merge-jelly.json) |
+| Merge Kuya Island | 208157 | [208157-merge-kuya-island.json](./208157-merge-kuya-island.json) |
 | Merge Magic! | 139297 | [139297-merge-magic.json](./139297-merge-magic.json) |
 | Merge Mansion | 196866 | [196866-merge-mansion.json](./196866-merge-mansion.json) |
 | Merge Marbles | 309337 | [309337-merge-marbles.json](./309337-merge-marbles.json) |
@@ -11113,6 +11115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Arenas | 215596 | [215596-mini-arenas.json](./215596-mini-arenas.json) |
 | Mini Army | 399402 | [399402-mini-army.json](./399402-mini-army.json) |
 | Mini Attack Submarine | 57763 | [57763-mini-attack-submarine.json](./57763-mini-attack-submarine.json) |
+| Mini Avoid | 208158 | [208158-mini-avoid.json](./208158-mini-avoid.json) |
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
 | Mini Battle Ground | 191033 | [191033-mini-battle-ground.json](./191033-mini-battle-ground.json) |
 | Mini Blaster | 175611 | [175611-mini-blaster.json](./175611-mini-blaster.json) |
@@ -12156,6 +12159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Veterinaire | 149283 | [149283-mission-veterinaire.json](./149283-mission-veterinaire.json) |
 | Mission Whilkas | 415754 | [415754-mission-whilkas.json](./415754-mission-whilkas.json) |
 | Mission Z | 157035 | [157035-mission-z.json](./157035-mission-z.json) |
+| Mission Zero | 208159 | [208159-mission-zero.json](./208159-mission-zero.json) |
 | Mission: Caduceus | 128406 | [128406-mission-caduceus.json](./128406-mission-caduceus.json) |
 | Mission: Chao | 330713 | [330713-mission-chao.json](./330713-mission-chao.json) |
 | Mission: Demolition | 74371 | [74371-mission-demolition.json](./74371-mission-demolition.json) |
@@ -18153,6 +18157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Helper: Spring Cleaning | 146117 | [146117-my-little-helper-spring-cleaning.json](./146117-my-little-helper-spring-cleaning.json) |
 | My Little Icecream Booth | 146747 | [146747-my-little-icecream-booth.json](./146747-my-little-icecream-booth.json) |
 | My Little Idol | 218850 | [218850-my-little-idol.json](./218850-my-little-idol.json) |
+| My Little Jellymon | 208161 | [208161-my-little-jellymon.json](./208161-my-little-jellymon.json) |
 | My Little Karaoke: Singing is Magic | 266924 | [266924-my-little-karaoke-singing-is-magic.json](./266924-my-little-karaoke-singing-is-magic.json) |
 | My Little Kitties | 20759 | [20759-my-little-kitties.json](./20759-my-little-kitties.json) |
 | My Little Kitty Cat | 99001 | [99001-my-little-kitty-cat.json](./99001-my-little-kitty-cat.json) |
@@ -18497,6 +18502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Style Studio: Hair Salon | 84711 | [84711-my-style-studio-hair-salon.json](./84711-my-style-studio-hair-salon.json) |
 | My Style Studio: Hair Salon | 84712 | [84712-my-style-studio-hair-salon.json](./84712-my-style-studio-hair-salon.json) |
 | My Style Studio: Notebook | 84710 | [84710-my-style-studio-notebook.json](./84710-my-style-studio-notebook.json) |
+| My Success Story | 208162 | [208162-my-success-story.json](./208162-my-success-story.json) |
 | My Sudoku | 321960 | [321960-my-sudoku.json](./321960-my-sudoku.json) |
 | My Sudoku: Classic 4x4 Easy 10 | 321961 | [321961-my-sudoku-classic-4x4-easy-10.json](./321961-my-sudoku-classic-4x4-easy-10.json) |
 | My Sudoku: Classic 4x4 Easy 2 | 321962 | [321962-my-sudoku-classic-4x4-easy-2.json](./321962-my-sudoku-classic-4x4-easy-2.json) |
