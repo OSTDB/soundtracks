@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Hakken-den | 7905 | [7905-idol-hakken-den.json](./7905-idol-hakken-den.json) |
 | Idol Hanafuda Fan Club | 37664 | [37664-idol-hanafuda-fan-club.json](./37664-idol-hanafuda-fan-club.json) |
 | Idol Hands | 195711 | [195711-idol-hands.json](./195711-idol-hands.json) |
+| Idol Hell | 212052 | [212052-idol-hell.json](./212052-idol-hell.json) |
 | Idol Hunter: Hentai | 211719 | [211719-idol-hunter-hentai.json](./211719-idol-hunter-hentai.json) |
 | Idol Incidents | 56317 | [56317-idol-incidents.json](./56317-idol-incidents.json) |
 | Idol Janshi R: Janguru Project | 248627 | [248627-idol-janshi-r-janguru-project.json](./248627-idol-janshi-r-janguru-project.json) |
@@ -4658,6 +4659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inu no Osanpo | 169323 | [169323-inu-no-osanpo.json](./169323-inu-no-osanpo.json) |
 | Inu Oh | 245221 | [245221-inu-oh.json](./245221-inu-oh.json) |
 | Inu to Neko, Tokidoki Panda | 410088 | [410088-inu-to-neko-tokidoki-panda.json](./410088-inu-to-neko-tokidoki-panda.json) |
+| Inu's Adventure | 212092 | [212092-inus-adventure.json](./212092-inus-adventure.json) |
 | Inua: A Story in Ice and Time | 159773 | [159773-inua-a-story-in-ice-and-time.json](./159773-inua-a-story-in-ice-and-time.json) |
 | Inugami: Doggy Dojo! | 284241 | [284241-inugami-doggy-dojo.json](./284241-inugami-doggy-dojo.json) |
 | Inugamike no Ichizoku | 130701 | [130701-inugamike-no-ichizoku.json](./130701-inugamike-no-ichizoku.json) |
