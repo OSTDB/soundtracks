@@ -2823,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pau E Pedra | 362927 | [362927-pau-e-pedra.json](./362927-pau-e-pedra.json) |
 | Paug | 153874 | [153874-paug.json](./153874-paug.json) |
 | Paul | 387499 | [387499-paul.json](./387499-paul.json) |
+| Paul & Tita | 183733 | [183733-paul-and-tita.json](./183733-paul-and-tita.json) |
 | Paul Blart: Mall Cop - Mall Maze | 280707 | [280707-paul-blart-mall-cop-mall-maze.json](./280707-paul-blart-mall-cop-mall-maze.json) |
 | Paul Moose in Space World | 242700 | [242700-paul-moose-in-space-world.json](./242700-paul-moose-in-space-world.json) |
 | Paul Quest Gold Edition | 325699 | [325699-paul-quest-gold-edition.json](./325699-paul-quest-gold-edition.json) |
@@ -3988,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Periodicity: Hats and Scars | 341583 | [341583-periodicity-hats-and-scars.json](./341583-periodicity-hats-and-scars.json) |
 | Periodonica | 33938 | [33938-periodonica.json](./33938-periodonica.json) |
 | Peripeteia | 142186 | [142186-peripeteia.json](./142186-peripeteia.json) |
+| Peripeteia: Land of Folklore | 183738 | [183738-peripeteia-land-of-folklore.json](./183738-peripeteia-land-of-folklore.json) |
 | Peripheral | 375499 | [375499-peripheral.json](./375499-peripheral.json) |
 | Periphery | 377180 | [377180-periphery.json](./377180-periphery.json) |
 | Periphery Online | 207598 | [207598-periphery-online.json](./207598-periphery-online.json) |
@@ -12271,6 +12273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prayer of the Faithless | 197012 | [197012-prayer-of-the-faithless.json](./197012-prayer-of-the-faithless.json) |
 | Prayers a Thousand-fold | 309976 | [309976-prayers-a-thousand-fold.json](./309976-prayers-a-thousand-fold.json) |
 | Prayr | 130044 | [130044-prayr.json](./130044-prayr.json) |
+| Pre Call | 183732 | [183732-pre-call.json](./183732-pre-call.json) |
 | Pre Dusk | 172987 | [172987-pre-dusk.json](./172987-pre-dusk.json) |
 | Pre Master | 261406 | [261406-pre-master.json](./261406-pre-master.json) |
 | Pre Post-Modernistic Post-Ironic Dadaism: Dating Simulator | 306969 | [306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json](./306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json) |
