@@ -10218,6 +10218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milanoir: Special Edition | 28358 | [28358-milanoir-special-edition.json](./28358-milanoir-special-edition.json) |
 | Milcham: From the Ashes of Hearts | 319077 | [319077-milcham-from-the-ashes-of-hearts.json](./319077-milcham-from-the-ashes-of-hearts.json) |
 | Mildred's Tarot Battle | 291400 | [291400-mildreds-tarot-battle.json](./291400-mildreds-tarot-battle.json) |
+| MildTini | 196405 | [196405-mildtini.json](./196405-mildtini.json) |
 | Mile 27 | 413767 | [413767-mile-27.json](./413767-mile-27.json) |
 | Mile Bones | 83480 | [83480-mile-bones.json](./83480-mile-bones.json) |
 | Mile High Pinball | 6266 | [6266-mile-high-pinball.json](./6266-mile-high-pinball.json) |
@@ -11271,6 +11272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Pond Farm: Frogs & Lilypads | 406154 | [406154-mini-pond-farm-frogs-and-lilypads.json](./406154-mini-pond-farm-frogs-and-lilypads.json) |
 | Mini Prince | 145286 | [145286-mini-prince.json](./145286-mini-prince.json) |
 | Mini Push | 412302 | [412302-mini-push.json](./412302-mini-push.json) |
+| Mini Putt Camelot | 196420 | [196420-mini-putt-camelot.json](./196420-mini-putt-camelot.json) |
 | Mini Puzzle Balls | 147784 | [147784-mini-puzzle-balls.json](./147784-mini-puzzle-balls.json) |
 | mini PVP | 118088 | [118088-mini-pvp.json](./118088-mini-pvp.json) |
 | Mini Quests | 207852 | [207852-mini-quests.json](./207852-mini-quests.json) |
@@ -11671,6 +11673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minty Fresh Adventure | 342826 | [342826-minty-fresh-adventure.json](./342826-minty-fresh-adventure.json) |
 | Minty Monkey | 307098 | [307098-minty-monkey.json](./307098-minty-monkey.json) |
 | Minubeat | 199083 | [199083-minubeat.json](./199083-minubeat.json) |
+| Minus 8 | 195856 | [195856-minus-8.json](./195856-minus-8.json) |
 | Minus Nine | 396014 | [396014-minus-nine.json](./396014-minus-nine.json) |
 | Minus Zero | 33835 | [33835-minus-zero.json](./33835-minus-zero.json) |
 | Minuse | 368361 | [368361-minuse.json](./368361-minuse.json) |
@@ -11769,6 +11772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirages of Winter | 123275 | [123275-mirages-of-winter.json](./123275-mirages-of-winter.json) |
 | Miragine War | 176890 | [176890-miragine-war.json](./176890-miragine-war.json) |
 | Mirai | 200755 | [200755-mirai.json](./200755-mirai.json) |
+| Mirai #167 | 195899 | [195899-mirai-167.json](./195899-mirai-167.json) |
 | Mirai Dagakki FutureTomTom | 140962 | [140962-mirai-dagakki-futuretomtom.json](./140962-mirai-dagakki-futuretomtom.json) |
 | Mirai Dagakki FutureTomTom Ver. 2 | 140964 | [140964-mirai-dagakki-futuretomtom-ver-2.json](./140964-mirai-dagakki-futuretomtom-ver-2.json) |
 | Mirai Nikki: The 13th Diary Holder | 66417 | [66417-mirai-nikki-the-13th-diary-holder.json](./66417-mirai-nikki-the-13th-diary-holder.json) |
@@ -13661,12 +13665,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster 4x4: Masters of Metal | 4017 | [4017-monster-4x4-masters-of-metal.json](./4017-monster-4x4-masters-of-metal.json) |
 | Monster Academy | 167307 | [167307-monster-academy.json](./167307-monster-academy.json) |
 | Monster Academy: An Interactive Story | 415063 | [415063-monster-academy-an-interactive-story.json](./415063-monster-academy-an-interactive-story.json) |
+| Monster Adventure | 195891 | [195891-monster-adventure.json](./195891-monster-adventure.json) |
 | Monster Adventures | 61088 | [61088-monster-adventures.json](./61088-monster-adventures.json) |
 | Monster Adventures Crazy | 239230 | [239230-monster-adventures-crazy.json](./239230-monster-adventures-crazy.json) |
 | Monster Alchemy | 403768 | [403768-monster-alchemy.json](./403768-monster-alchemy.json) |
 | Monster Among Us | 189908 | [189908-monster-among-us.json](./189908-monster-among-us.json) |
 | Monster and Snakes 1.1 | 349497 | [349497-monster-and-snakes-1-1.json](./349497-monster-and-snakes-1-1.json) |
 | Monster Arena | 101572 | [101572-monster-arena.json](./101572-monster-arena.json) |
+| Monster Arena | 195892 | [195892-monster-arena.json](./195892-monster-arena.json) |
 | Monster Attack | 5580 | [5580-monster-attack.json](./5580-monster-attack.json) |
 | Monster Ball | 25501 | [25501-monster-ball.json](./25501-monster-ball.json) |
 | Monster Ball PC | 54231 | [54231-monster-ball-pc.json](./54231-monster-ball-pc.json) |
@@ -18439,6 +18445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pretend Summer Waterpark | 299213 | [299213-my-pretend-summer-waterpark.json](./299213-my-pretend-summer-waterpark.json) |
 | My Princess Girlfriend | 228416 | [228416-my-princess-girlfriend.json](./228416-my-princess-girlfriend.json) |
 | My Protogen Engineer | 291474 | [291474-my-protogen-engineer.json](./291474-my-protogen-engineer.json) |
+| My Puppy Fiancé | 196452 | [196452-my-puppy-fiance.json](./196452-my-puppy-fiance.json) |
 | My Puppy Love | 99100 | [99100-my-puppy-love.json](./99100-my-puppy-love.json) |
 | My Puppy Shop | 154786 | [154786-my-puppy-shop.json](./154786-my-puppy-shop.json) |
 | My Pure Boyfriend | 299510 | [299510-my-pure-boyfriend.json](./299510-my-pure-boyfriend.json) |
@@ -19135,6 +19142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: Dreamcatcher 3 | 237255 | [237255-mystery-solitaire-dreamcatcher-3.json](./237255-mystery-solitaire-dreamcatcher-3.json) |
 | Mystery Solitaire: Grimm's Tales 2 | 122367 | [122367-mystery-solitaire-grimms-tales-2.json](./122367-mystery-solitaire-grimms-tales-2.json) |
 | Mystery Solitaire: Grimm's Tales 4 | 193649 | [193649-mystery-solitaire-grimms-tales-4.json](./193649-mystery-solitaire-grimms-tales-4.json) |
+| Mystery Solitaire: Grimm's Tales 5 | 195869 | [195869-mystery-solitaire-grimms-tales-5.json](./195869-mystery-solitaire-grimms-tales-5.json) |
 | Mystery Solitaire: Grimm's Tales 6 | 208822 | [208822-mystery-solitaire-grimms-tales-6.json](./208822-mystery-solitaire-grimms-tales-6.json) |
 | Mystery Solitaire: Grimm's Tales 7 | 231817 | [231817-mystery-solitaire-grimms-tales-7.json](./231817-mystery-solitaire-grimms-tales-7.json) |
 | Mystery Solitaire: Grimm's Tales 9 | 262586 | [262586-mystery-solitaire-grimms-tales-9.json](./262586-mystery-solitaire-grimms-tales-9.json) |
