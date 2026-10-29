@@ -750,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Halloween | 135891 | [135891-sakura-halloween.json](./135891-sakura-halloween.json) |
 | Sakura High School Love Story | 299884 | [299884-sakura-high-school-love-story.json](./299884-sakura-high-school-love-story.json) |
 | Sakura Hime 2 | 193261 | [193261-sakura-hime-2.json](./193261-sakura-hime-2.json) |
+| Sakura Hime 3 | 224843 | [224843-sakura-hime-3.json](./224843-sakura-hime-3.json) |
 | Sakura Hime 4 | 286539 | [286539-sakura-hime-4.json](./286539-sakura-hime-4.json) |
 | Sakura In Gameland | 147073 | [147073-sakura-in-gameland.json](./147073-sakura-in-gameland.json) |
 | Sakura Isekai Adventure 2 | 301886 | [301886-sakura-isekai-adventure-2.json](./301886-sakura-isekai-adventure-2.json) |
@@ -5412,6 +5413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Goddess Punishment | 295371 | [295371-sex-goddess-punishment.json](./295371-sex-goddess-punishment.json) |
 | Sex Gym 3D | 237453 | [237453-sex-gym-3d.json](./237453-sex-gym-3d.json) |
 | Sex Halloween | 296601 | [296601-sex-halloween.json](./296601-sex-halloween.json) |
+| Sex Hell | 224831 | [224831-sex-hell.json](./224831-sex-hell.json) |
 | SEX HELP | 295647 | [295647-sex-help.json](./295647-sex-help.json) |
 | Sex Hotel Simulator | 253312 | [253312-sex-hotel-simulator.json](./253312-sex-hotel-simulator.json) |
 | Sex Hotel Simulator 18+ | 296600 | [296600-sex-hotel-simulator-18.json](./296600-sex-hotel-simulator-18.json) |
@@ -13355,6 +13357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Cones: Episode 2 | 177331 | [177331-snow-cones-episode-2.json](./177331-snow-cones-episode-2.json) |
 | Snow Day | 281269 | [281269-snow-day.json](./281269-snow-day.json) |
 | Snow Day: The GapKids Quest | 73548 | [73548-snow-day-the-gapkids-quest.json](./73548-snow-day-the-gapkids-quest.json) |
+| Snow Daze: Redaze | 224822 | [224822-snow-daze-redaze.json](./224822-snow-daze-redaze.json) |
 | Snow Drop | 71444 | [71444-snow-drop.json](./71444-snow-drop.json) |
 | Snow Eagle Lord | 120834 | [120834-snow-eagle-lord.json](./120834-snow-eagle-lord.json) |
 | Snow Fall | 362355 | [362355-snow-fall.json](./362355-snow-fall.json) |
@@ -16722,6 +16725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Chase: Odyssey | 333599 | [333599-space-chase-odyssey.json](./333599-space-chase-odyssey.json) |
 | Space Chaser | 39803 | [39803-space-chaser.json](./39803-space-chaser.json) |
 | Space Cheese Defenders | 278511 | [278511-space-cheese-defenders.json](./278511-space-cheese-defenders.json) |
+| Space Cheetah Hyper Runner | 224820 | [224820-space-cheetah-hyper-runner.json](./224820-space-cheetah-hyper-runner.json) |
 | Space Chef | 132526 | [132526-space-chef.json](./132526-space-chef.json) |
 | Space Chicks | 60792 | [60792-space-chicks.json](./60792-space-chicks.json) |
 | Space Child | 53621 | [53621-space-child.json](./53621-space-child.json) |
