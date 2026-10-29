@@ -6621,6 +6621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Dig Energy | 343135 | [343135-big-dig-energy.json](./343135-big-dig-energy.json) |
 | Big Dipper | 112798 | [112798-big-dipper.json](./112798-big-dipper.json) |
 | Big Donut | 177218 | [177218-big-donut.json](./177218-big-donut.json) |
+| Big Drug | 192587 | [192587-big-drug.json](./192587-big-drug.json) |
 | Big Drunk Satanic Massacre | 75067 | [75067-big-drunk-satanic-massacre.json](./75067-big-drunk-satanic-massacre.json) |
 | Big Ear Detective | 291897 | [291897-big-ear-detective.json](./291897-big-ear-detective.json) |
 | Big Entrepreneur | 227373 | [227373-big-entrepreneur.json](./227373-big-entrepreneur.json) |
@@ -10945,6 +10946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolt | 4723 | [4723-bolt.json](./4723-bolt.json) |
 | Bolt & Wahlington | 345840 | [345840-bolt-and-wahlington.json](./345840-bolt-and-wahlington.json) |
 | Bolt & Whalington | 401177 | [401177-bolt-and-whalington.json](./401177-bolt-and-whalington.json) |
+| Bolt Action | 192573 | [192573-bolt-action.json](./192573-bolt-action.json) |
 | Bolt Action | 380996 | [380996-bolt-action.json](./380996-bolt-action.json) |
 | Bolt Action Stealth | 277506 | [277506-bolt-action-stealth.json](./277506-bolt-action-stealth.json) |
 | Bolt Bot Screwy Viruses | 209777 | [209777-bolt-bot-screwy-viruses.json](./209777-bolt-bot-screwy-viruses.json) |
