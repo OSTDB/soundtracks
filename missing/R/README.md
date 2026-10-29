@@ -5847,6 +5847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revv Racing | 172500 | [172500-revv-racing.json](./172500-revv-racing.json) |
 | Revvolvver | 250460 | [250460-revvolvver.json](./250460-revvolvver.json) |
 | Revvver | 285450 | [285450-revvver.json](./285450-revvver.json) |
+| Rewarding Community Bundle | 212579 | [212579-rewarding-community-bundle.json](./212579-rewarding-community-bundle.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
 | Rewind | 33621 | [33621-rewind.json](./33621-rewind.json) |
 | Rewind | 409829 | [409829-rewind.json](./409829-rewind.json) |
