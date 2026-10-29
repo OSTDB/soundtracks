@@ -4743,6 +4743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outright | 149086 | [149086-outright.json](./149086-outright.json) |
 | OutRoad Fury | 304663 | [304663-outroad-fury.json](./304663-outroad-fury.json) |
 | Outrun | 325048 | [325048-outrun.json](./325048-outrun.json) |
+| OutRun | 198641 | [198641-outrun.json](./198641-outrun.json) |
 | OutRun | 200424 | [200424-outrun.json](./200424-outrun.json) |
 | OutRun | 307917 | [307917-outrun.json](./307917-outrun.json) |
 | OutRun | 307918 | [307918-outrun.json](./307918-outrun.json) |
@@ -4762,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutRun 3-D | 46136 | [46136-outrun-3-d.json](./46136-outrun-3-d.json) |
 | OutRun Europa | 2055 | [2055-outrun-europa.json](./2055-outrun-europa.json) |
 | OutRun Europa | 38874 | [38874-outrun-europa.json](./38874-outrun-europa.json) |
+| OutRun F-1 | 198642 | [198642-outrun-f-1.json](./198642-outrun-f-1.json) |
 | OutRun GB | 367342 | [367342-outrun-gb.json](./367342-outrun-gb.json) |
 | Outrun Online Arcade | 21204 | [21204-outrun-online-arcade.json](./21204-outrun-online-arcade.json) |
 | Outrun Them | 296481 | [296481-outrun-them.json](./296481-outrun-them.json) |
