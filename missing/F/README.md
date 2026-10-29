@@ -6153,6 +6153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Mr. Krabs | 318377 | [318377-five-nights-at-mr-krabs.json](./318377-five-nights-at-mr-krabs.json) |
 | Five Nights at Pikachu's | 360770 | [360770-five-nights-at-pikachus.json](./360770-five-nights-at-pikachus.json) |
 | Five Nights At Pingas | 403829 | [403829-five-nights-at-pingas.json](./403829-five-nights-at-pingas.json) |
+| Five Nights at Pinkie's | 228654 | [228654-five-nights-at-pinkies.json](./228654-five-nights-at-pinkies.json) |
 | Five Nights At PT's II | 412393 | [412393-five-nights-at-pts-ii.json](./412393-five-nights-at-pts-ii.json) |
 | Five Nights at Raiden's | 327792 | [327792-five-nights-at-raidens.json](./327792-five-nights-at-raidens.json) |
 | Five Nights at Roblox 2 RePartyin | 262219 | [262219-five-nights-at-roblox-2-repartyin.json](./262219-five-nights-at-roblox-2-repartyin.json) |
@@ -8173,6 +8174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | for Give | 134334 | [134334-for-give.json](./134334-for-give.json) |
 | For God's Sake | 110793 | [110793-for-gods-sake.json](./110793-for-gods-sake.json) |
 | For God's Sake, Help Him! | 373647 | [373647-for-gods-sake-help-him.json](./373647-for-gods-sake-help-him.json) |
+| For Goodness Sake | 228748 | [228748-for-goodness-sake.json](./228748-for-goodness-sake.json) |
 | For Hell's Sake | 310027 | [310027-for-hells-sake.json](./310027-for-hells-sake.json) |
 | For Her | 338327 | [338327-for-her.json](./338327-for-her.json) |
 | For Home | 288687 | [288687-for-home.json](./288687-for-home.json) |
@@ -11198,6 +11200,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Ninja | 290243 | [290243-fruit-ninja.json](./290243-fruit-ninja.json) |
 | Fruit Ninja Academy: Math Master | 193723 | [193723-fruit-ninja-academy-math-master.json](./193723-fruit-ninja-academy-math-master.json) |
 | Fruit Ninja Frenzy | 64750 | [64750-fruit-ninja-frenzy.json](./64750-fruit-ninja-frenzy.json) |
+| Fruit Ninja FX | 228665 | [228665-fruit-ninja-fx.json](./228665-fruit-ninja-fx.json) |
+| Fruit Ninja FX2 | 228671 | [228671-fruit-ninja-fx2.json](./228671-fruit-ninja-fx2.json) |
 | Fruit Ninja Kinect | 65910 | [65910-fruit-ninja-kinect.json](./65910-fruit-ninja-kinect.json) |
 | Fruit Ninja Kinect 2 | 20947 | [20947-fruit-ninja-kinect-2.json](./20947-fruit-ninja-kinect-2.json) |
 | Fruit Ninja VR 2 | 160150 | [160150-fruit-ninja-vr-2.json](./160150-fruit-ninja-vr-2.json) |
