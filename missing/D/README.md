@@ -3773,6 +3773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Mirror Flower | 344719 | [344719-dear-mirror-flower.json](./344719-dear-mirror-flower.json) |
 | Dear Mom | 158129 | [158129-dear-mom.json](./158129-dear-mom.json) |
 | Dear Mom: My Letter to You | 164965 | [164965-dear-mom-my-letter-to-you.json](./164965-dear-mom-my-letter-to-you.json) |
+| Dear My Abyss | 221492 | [221492-dear-my-abyss.json](./221492-dear-my-abyss.json) |
 | Dear My Bot | 405635 | [405635-dear-my-bot.json](./405635-dear-my-bot.json) |
 | Dear My Cat | 200453 | [200453-dear-my-cat.json](./200453-dear-my-cat.json) |
 | Dear My Friend | 119466 | [119466-dear-my-friend.json](./119466-dear-my-friend.json) |
@@ -9777,6 +9778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DNA: Season 2 - Episode 4 | 311104 | [311104-dna-season-2-episode-4.json](./311104-dna-season-2-episode-4.json) |
 | DnB Starfighter | 356735 | [356735-dnb-starfighter.json](./356735-dnb-starfighter.json) |
 | DND | 2888 | [2888-dnd.json](./2888-dnd.json) |
+| DnD Adventure: Rogue's Choice | 221505 | [221505-dnd-adventure-rogues-choice.json](./221505-dnd-adventure-rogues-choice.json) |
 | DnD Adventure: Wizard's Choice | 154281 | [154281-dnd-adventure-wizards-choice.json](./154281-dnd-adventure-wizards-choice.json) |
 | DnD Dice | 105951 | [105951-dnd-dice.json](./105951-dnd-dice.json) |
 | DNetHack | 351129 | [351129-dnethack.json](./351129-dnethack.json) |
