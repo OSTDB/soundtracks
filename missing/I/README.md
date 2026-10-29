@@ -3241,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinifrag | 384018 | [384018-infinifrag.json](./384018-infinifrag.json) |
 | Infinifrag 2 | 384038 | [384038-infinifrag-2.json](./384038-infinifrag-2.json) |
 | Infinilands | 244291 | [244291-infinilands.json](./244291-infinilands.json) |
+| Infinimine | 218882 | [218882-infinimine.json](./218882-infinimine.json) |
 | Infinimoes | 333654 | [333654-infinimoes.json](./333654-infinimoes.json) |
 | InfiniPicross | 54690 | [54690-infinipicross.json](./54690-infinipicross.json) |
 | InfiniPicross 2.0 | 104392 | [104392-infinipicross-2-0.json](./104392-infinipicross-2-0.json) |
