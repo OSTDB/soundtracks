@@ -2780,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onmitsu Kiritan | 204729 | [204729-onmitsu-kiritan.json](./204729-onmitsu-kiritan.json) |
 | Onmyoji Arena | 105192 | [105192-onmyoji-arena.json](./105192-onmyoji-arena.json) |
 | Onmyoji Chess | 194010 | [194010-onmyoji-chess.json](./194010-onmyoji-chess.json) |
+| Onmyoji Heian Memoirs | 181504 | [181504-onmyoji-heian-memoirs.json](./181504-onmyoji-heian-memoirs.json) |
 | Onmyoji in the Otherworld: Sayaka's Story | 172005 | [172005-onmyoji-in-the-otherworld-sayakas-story.json](./172005-onmyoji-in-the-otherworld-sayakas-story.json) |
 | Onmyoji: Beyond Time | 298981 | [298981-onmyoji-beyond-time.json](./298981-onmyoji-beyond-time.json) |
 | Onmyou Taisenki: Byakko Enbu | 78491 | [78491-onmyou-taisenki-byakko-enbu.json](./78491-onmyou-taisenki-byakko-enbu.json) |
