@@ -5162,6 +5162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: The Lonely Mirror | 273926 | [273926-fire-emblem-the-lonely-mirror.json](./273926-fire-emblem-the-lonely-mirror.json) |
 | Fire Emblem: The Morrow’s Golden Country | 318447 | [318447-fire-emblem-the-morrow-s-golden-country.json](./318447-fire-emblem-the-morrow-s-golden-country.json) |
 | Fire Emblem: The Road to Ruin | 144674 | [144674-fire-emblem-the-road-to-ruin.json](./144674-fire-emblem-the-road-to-ruin.json) |
+| Fire Emblem: The Sacred Echoes | 225384 | [225384-fire-emblem-the-sacred-echoes.json](./225384-fire-emblem-the-sacred-echoes.json) |
 | Fire Emblem: The Shadow of Dawn | 384011 | [384011-fire-emblem-the-shadow-of-dawn.json](./384011-fire-emblem-the-shadow-of-dawn.json) |
 | Fire Emblem: The Sun God's Wrath | 140873 | [140873-fire-emblem-the-sun-gods-wrath.json](./140873-fire-emblem-the-sun-gods-wrath.json) |
 | Fire Emblem: Thracia 776 | 1437 | [1437-fire-emblem-thracia-776.json](./1437-fire-emblem-thracia-776.json) |
@@ -9081,9 +9082,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 7 - Season 4: Override | 414179 | [414179-fortnite-chapter-7-season-4-override.json](./414179-fortnite-chapter-7-season-4-override.json) |
 | Fortnite: Checkered Past Pack | 305610 | [305610-fortnite-checkered-past-pack.json](./305610-fortnite-checkered-past-pack.json) |
 | Fortnite: Chill Vibez Pack | 290016 | [290016-fortnite-chill-vibez-pack.json](./290016-fortnite-chill-vibez-pack.json) |
+| Fortnite: Corrupted Legends Pack | 225375 | [225375-fortnite-corrupted-legends-pack.json](./225375-fortnite-corrupted-legends-pack.json) |
 | Fortnite: Crimson Warden Pack | 303531 | [303531-fortnite-crimson-warden-pack.json](./303531-fortnite-crimson-warden-pack.json) |
 | Fortnite: Cross Comms Pack | 243231 | [243231-fortnite-cross-comms-pack.json](./243231-fortnite-cross-comms-pack.json) |
 | Fortnite: Cuddle Buns Pack | 333587 | [333587-fortnite-cuddle-buns-pack.json](./333587-fortnite-cuddle-buns-pack.json) |
+| Fortnite: Dark Reflections Pack | 225374 | [225374-fortnite-dark-reflections-pack.json](./225374-fortnite-dark-reflections-pack.json) |
 | Fortnite: Darkest Grumblings Pack | 331962 | [331962-fortnite-darkest-grumblings-pack.json](./331962-fortnite-darkest-grumblings-pack.json) |
 | Fortnite: Deep Freeze Bundle | 110839 | [110839-fortnite-deep-freeze-bundle.json](./110839-fortnite-deep-freeze-bundle.json) |
 | Fortnite: Deluxe Founder's Pack | 90660 | [90660-fortnite-deluxe-founders-pack.json](./90660-fortnite-deluxe-founders-pack.json) |
@@ -9093,6 +9096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Fallen Love Ranger Quest Pack | 239033 | [239033-fortnite-fallen-love-ranger-quest-pack.json](./239033-fortnite-fallen-love-ranger-quest-pack.json) |
 | Fortnite: Frozen Legends Pack | 227403 | [227403-fortnite-frozen-legends-pack.json](./227403-fortnite-frozen-legends-pack.json) |
 | Fortnite: Full Clip STW Pack | 255510 | [255510-fortnite-full-clip-stw-pack.json](./255510-fortnite-full-clip-stw-pack.json) |
+| Fortnite: Graveyard Drift Quest Pack | 225373 | [225373-fortnite-graveyard-drift-quest-pack.json](./225373-fortnite-graveyard-drift-quest-pack.json) |
 | Fortnite: Guardians Of the Galaxy Pack | 305855 | [305855-fortnite-guardians-of-the-galaxy-pack.json](./305855-fortnite-guardians-of-the-galaxy-pack.json) |
 | Fortnite: Heartbreak Royale Pack | 275355 | [275355-fortnite-heartbreak-royale-pack.json](./275355-fortnite-heartbreak-royale-pack.json) |
 | Fortnite: Heartbreaker Ranger Pack | 279242 | [279242-fortnite-heartbreaker-ranger-pack.json](./279242-fortnite-heartbreaker-ranger-pack.json) |
