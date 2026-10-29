@@ -5620,6 +5620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Savage Planet: Cosmic Hoarder Edition | 336145 | [336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json](./336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json) |
 | Revenge of the Savage Planet: Day One Edition | 324773 | [324773-revenge-of-the-savage-planet-day-one-edition.json](./324773-revenge-of-the-savage-planet-day-one-edition.json) |
 | Revenge of the Shadow Ninja | 244709 | [244709-revenge-of-the-shadow-ninja.json](./244709-revenge-of-the-shadow-ninja.json) |
+| Revenge of the Slimes | 221520 | [221520-revenge-of-the-slimes.json](./221520-revenge-of-the-slimes.json) |
 | Revenge of the Speeddemons! | 305812 | [305812-revenge-of-the-speeddemons.json](./305812-revenge-of-the-speeddemons.json) |
 | Revenge of the Spirit: Rite of Resurrection | 32854 | [32854-revenge-of-the-spirit-rite-of-resurrection.json](./32854-revenge-of-the-spirit-rite-of-resurrection.json) |
 | Revenge of the Sunfish | 18084 | [18084-revenge-of-the-sunfish.json](./18084-revenge-of-the-sunfish.json) |
