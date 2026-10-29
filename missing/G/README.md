@@ -2729,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: Two Worlds Aflame, the Crimson Night Fades | 296820 | [296820-genshin-impact-two-worlds-aflame-the-crimson-night-fades.json](./296820-genshin-impact-two-worlds-aflame-the-crimson-night-fades.json) |
 | Genshin Impact: Windblume's Breath | 257478 | [257478-genshin-impact-windblumes-breath.json](./257478-genshin-impact-windblumes-breath.json) |
 | Genshindle | 243769 | [243769-genshindle.json](./243769-genshindle.json) |
+| Gensmak! | 228047 | [228047-gensmak.json](./228047-gensmak.json) |
 | Genso Chronicles | 286881 | [286881-genso-chronicles.json](./286881-genso-chronicles.json) |
 | Genso Flood Front | 214768 | [214768-genso-flood-front.json](./214768-genso-flood-front.json) |
 | Genso Manège | 306084 | [306084-genso-manege.json](./306084-genso-manege.json) |
@@ -4114,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator Bastards | 114698 | [114698-gladiator-bastards.json](./114698-gladiator-bastards.json) |
 | Gladiator Command | 391532 | [391532-gladiator-command.json](./391532-gladiator-command.json) |
 | Gladiator Fights | 343401 | [343401-gladiator-fights.json](./343401-gladiator-fights.json) |
+| Gladiator Heroes: Roman Empire | 228147 | [228147-gladiator-heroes-roman-empire.json](./228147-gladiator-heroes-roman-empire.json) |
 | Gladiator Immortal | 258807 | [258807-gladiator-immortal.json](./258807-gladiator-immortal.json) |
 | Gladiator Manager | 278095 | [278095-gladiator-manager.json](./278095-gladiator-manager.json) |
 | Gladiator of sparta | 173275 | [173275-gladiator-of-sparta.json](./173275-gladiator-of-sparta.json) |
@@ -6994,6 +6996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandmother's Tale | 153872 | [153872-grandmothers-tale.json](./153872-grandmothers-tale.json) |
 | GrandNestling | 130232 | [130232-grandnestling.json](./130232-grandnestling.json) |
 | Grandpa | 329782 | [329782-grandpa.json](./329782-grandpa.json) |
+| Grandpa and Granny 3: Hospital | 228146 | [228146-grandpa-and-granny-3-hospital.json](./228146-grandpa-and-granny-3-hospital.json) |
 | Grandpa And Granny Home Escape | 248177 | [248177-grandpa-and-granny-home-escape.json](./248177-grandpa-and-granny-home-escape.json) |
 | Grandpa and Me vs the Numbers | 414303 | [414303-grandpa-and-me-vs-the-numbers.json](./414303-grandpa-and-me-vs-the-numbers.json) |
 | Grandpa and the Zombies | 75624 | [75624-grandpa-and-the-zombies.json](./75624-grandpa-and-the-zombies.json) |
@@ -8794,6 +8797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian War | 4314 | [4314-guardian-war.json](./4314-guardian-war.json) |
 | Guardian war VR | 31604 | [31604-guardian-war-vr.json](./31604-guardian-war-vr.json) |
 | Guardian Zero | 391636 | [391636-guardian-zero.json](./391636-guardian-zero.json) |
+| Guardian: Covenant of Fate | 228145 | [228145-guardian-covenant-of-fate.json](./228145-guardian-covenant-of-fate.json) |
 | Guardian's Crusade | 22835 | [22835-guardians-crusade.json](./22835-guardians-crusade.json) |
 | Guardian's Guide | 291181 | [291181-guardians-guide.json](./291181-guardians-guide.json) |
 | Guardian's Oath | 31202 | [31202-guardians-oath.json](./31202-guardians-oath.json) |
