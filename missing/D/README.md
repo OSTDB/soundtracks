@@ -7175,6 +7175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devour | 181916 | [181916-devour.json](./181916-devour.json) |
 | Devour the Elixir | 390151 | [390151-devour-the-elixir.json](./390151-devour-the-elixir.json) |
 | Devour Them All | 72510 | [72510-devour-them-all.json](./72510-devour-them-all.json) |
+| Devoured by Darkness | 216015 | [216015-devoured-by-darkness.json](./216015-devoured-by-darkness.json) |
 | Devoured Time | 35583 | [35583-devoured-time.json](./35583-devoured-time.json) |
 | Devouring Stars | 35663 | [35663-devouring-stars.json](./35663-devouring-stars.json) |
 | Devtheism | 134512 | [134512-devtheism.json](./134512-devtheism.json) |
