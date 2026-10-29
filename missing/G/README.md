@@ -6491,6 +6491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goudou Manif | 333077 | [333077-goudou-manif.json](./333077-goudou-manif.json) |
 | Gouketsuji Ichizoku 2: Chottodake Saikyou Densetsu | 39573 | [39573-gouketsuji-ichizoku-2-chottodake-saikyou-densetsu.json](./39573-gouketsuji-ichizoku-2-chottodake-saikyou-densetsu.json) |
 | Gouketsuji Ichizoku Matsuri Senzo Kuyou | 65593 | [65593-gouketsuji-ichizoku-matsuri-senzo-kuyou.json](./65593-gouketsuji-ichizoku-matsuri-senzo-kuyou.json) |
+| Gourdlets | 226469 | [226469-gourdlets.json](./226469-gourdlets.json) |
 | Gourdlets Together | 347821 | [347821-gourdlets-together.json](./347821-gourdlets-together.json) |
 | Gourds Up | 311628 | [311628-gourds-up.json](./311628-gourds-up.json) |
 | GourdsTown | 236423 | [236423-gourdstown.json](./236423-gourdstown.json) |
