@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LandCombat: Ren | 193243 | [193243-landcombat-ren.json](./193243-landcombat-ren.json) |
 | Landelver | 285970 | [285970-landelver.json](./285970-landelver.json) |
 | Lander 8009 VR | 37039 | [37039-lander-8009-vr.json](./37039-lander-8009-vr.json) |
+| Lander Odyssey | 199229 | [199229-lander-odyssey.json](./199229-lander-odyssey.json) |
 | Landfall | 56511 | [56511-landfall.json](./56511-landfall.json) |
 | Landfall Archives | 243542 | [243542-landfall-archives.json](./243542-landfall-archives.json) |
 | Landgrabbers | 95683 | [95683-landgrabbers.json](./95683-landgrabbers.json) |
@@ -7872,6 +7873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveBug Quest | 331652 | [331652-lovebug-quest.json](./331652-lovebug-quest.json) |
 | Lovebugz: An Anthro Insect Dating Sim | 298385 | [298385-lovebugz-an-anthro-insect-dating-sim.json](./298385-lovebugz-an-anthro-insect-dating-sim.json) |
 | LoveCraft | 286544 | [286544-lovecraft.json](./286544-lovecraft.json) |
+| Lovecraft Game | 199196 | [199196-lovecraft-game.json](./199196-lovecraft-game.json) |
 | Lovecraft Quest: A Comix Game | 110643 | [110643-lovecraft-quest-a-comix-game.json](./110643-lovecraft-quest-a-comix-game.json) |
 | Lovecraft Tales | 103394 | [103394-lovecraft-tales.json](./103394-lovecraft-tales.json) |
 | Lovecraft's Cat | 365231 | [365231-lovecrafts-cat.json](./365231-lovecrafts-cat.json) |
