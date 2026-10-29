@@ -1768,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarkwo | 197229 | [197229-sarkwo.json](./197229-sarkwo.json) |
 | Saros: Digital Deluxe Edition | 399922 | [399922-saros-digital-deluxe-edition.json](./399922-saros-digital-deluxe-edition.json) |
 | Saros: Zenith | 416115 | [416115-saros-zenith.json](./416115-saros-zenith.json) |
+| Saru Ga Daisuki | 199197 | [199197-saru-ga-daisuki.json](./199197-saru-ga-daisuki.json) |
 | Saru Get You: Pipo Saru Racer | 66511 | [66511-saru-get-you-pipo-saru-racer.json](./66511-saru-get-you-pipo-saru-racer.json) |
 | Saru Getchu Saru Saru Daisakusen | 79069 | [79069-saru-getchu-saru-saru-daisakusen.json](./79069-saru-getchu-saru-saru-daisakusen.json) |
 | Saru! Get You! 2: Ukki Ukki Disc | 386769 | [386769-saru-get-you-2-ukki-ukki-disc.json](./386769-saru-get-you-2-ukki-ukki-disc.json) |
@@ -12338,6 +12339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64CoOpDX | 307768 | [307768-sm64coopdx.json](./307768-sm64coopdx.json) |
 | SM64CoopDX: Kirby Deluxe! | 394592 | [394592-sm64coopdx-kirby-deluxe.json](./394592-sm64coopdx-kirby-deluxe.json) |
 | SM64DS: The Adventurous Journey | 315012 | [315012-sm64ds-the-adventurous-journey.json](./315012-sm64ds-the-adventurous-journey.json) |
+| SM64EX | 199212 | [199212-sm64ex.json](./199212-sm64ex.json) |
 | SM64EX Coop | 198369 | [198369-sm64ex-coop.json](./198369-sm64ex-coop.json) |
 | SM64EX Coop: Lug's Delightful Dioramas | 378300 | [378300-sm64ex-coop-lugs-delightful-dioramas.json](./378300-sm64ex-coop-lugs-delightful-dioramas.json) |
 | SM64EX Coop: Mega Man X | 297999 | [297999-sm64ex-coop-mega-man-x.json](./297999-sm64ex-coop-mega-man-x.json) |
@@ -17057,6 +17059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Frontier | 279529 | [279529-space-frontier.json](./279529-space-frontier.json) |
 | Space Frontier | 386380 | [386380-space-frontier.json](./386380-space-frontier.json) |
 | Space Frontier 2 | 101163 | [101163-space-frontier-2.json](./101163-space-frontier-2.json) |
+| Space Fuck! | 199193 | [199193-space-fuck.json](./199193-space-fuck.json) |
 | Space Fun | 222966 | [222966-space-fun.json](./222966-space-fun.json) |
 | Space Funeral 2 | 254706 | [254706-space-funeral-2.json](./254706-space-funeral-2.json) |
 | Space Funeral 2: of Rubies and Gold II - From Shadows We Rise | 360744 | [360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json](./360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json) |
@@ -18652,6 +18655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellForce: Universe | 78728 | [78728-spellforce-universe.json](./78728-spellforce-universe.json) |
 | Spellforge | 32864 | [32864-spellforge.json](./32864-spellforge.json) |
 | Spellforged | 295357 | [295357-spellforged.json](./295357-spellforged.json) |
+| Spellgrimage | 199226 | [199226-spellgrimage.json](./199226-spellgrimage.json) |
 | Spellgroove | 220600 | [220600-spellgroove.json](./220600-spellgroove.json) |
 | Spellhack!! | 295097 | [295097-spellhack.json](./295097-spellhack.json) |
 | Spellhook | 402548 | [402548-spellhook.json](./402548-spellhook.json) |
