@@ -17159,6 +17159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zibbo Show | 404798 | [404798-the-zibbo-show.json](./404798-the-zibbo-show.json) |
 | The Zium Exposition | 321851 | [321851-the-zium-exposition.json](./321851-the-zium-exposition.json) |
 | The Zium Gallery | 193674 | [193674-the-zium-gallery.json](./193674-the-zium-gallery.json) |
+| The Zium Garden | 179838 | [179838-the-zium-garden.json](./179838-the-zium-garden.json) |
 | The Zium Railway | 417676 | [417676-the-zium-railway.json](./417676-the-zium-railway.json) |
 | The Zodiac Mystery | 392122 | [392122-the-zodiac-mystery.json](./392122-the-zodiac-mystery.json) |
 | The Zombie Fortress | 327861 | [327861-the-zombie-fortress.json](./327861-the-zombie-fortress.json) |
@@ -27047,6 +27048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tri6: Infinite | 132538 | [132538-tri6-infinite.json](./132538-tri6-infinite.json) |
 | Tri6: Infinite 2 | 381199 | [381199-tri6-infinite-2.json](./381199-tri6-infinite-2.json) |
 | Triachnid | 63255 | [63255-triachnid.json](./63255-triachnid.json) |
+| Triad | 179845 | [179845-triad.json](./179845-triad.json) |
 | Triad | 297437 | [297437-triad.json](./297437-triad.json) |
 | Triad | 304367 | [304367-triad.json](./304367-triad.json) |
 | Triad | 54692 | [54692-triad.json](./54692-triad.json) |
