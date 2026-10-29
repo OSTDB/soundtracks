@@ -6372,6 +6372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Hail the Heat Death! | 396357 | [396357-all-hail-the-heat-death.json](./396357-all-hail-the-heat-death.json) |
 | All Hallows | 405774 | [405774-all-hallows.json](./405774-all-hallows.json) |
 | All Hallows Evie | 215530 | [215530-all-hallows-evie.json](./215530-all-hallows-evie.json) |
+| All Hams on Deck! | 185835 | [185835-all-hams-on-deck.json](./185835-all-hams-on-deck.json) |
 | All Hands on Deck | 216465 | [216465-all-hands-on-deck.json](./216465-all-hands-on-deck.json) |
 | All Hell Unleashed | 340581 | [340581-all-hell-unleashed.json](./340581-all-hell-unleashed.json) |
 | All Hit All Her: Western City | 193230 | [193230-all-hit-all-her-western-city.json](./193230-all-hit-all-her-western-city.json) |
@@ -9496,6 +9497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Day | 254143 | [254143-another-day.json](./254143-another-day.json) |
 | Another Day As President | 394440 | [394440-another-day-as-president.json](./394440-another-day-as-president.json) |
 | Another Day in Hell | 341663 | [341663-another-day-in-hell.json](./341663-another-day-in-hell.json) |
+| Another Day in Paradise | 185858 | [185858-another-day-in-paradise.json](./185858-another-day-in-paradise.json) |
 | Another Day in Paradise | 386956 | [386956-another-day-in-paradise.json](./386956-another-day-in-paradise.json) |
 | Another Day of Chikan! Vol7 Cool Beauty Schoolgirl in a Band | 82931 | [82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json](./82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json) |
 | Another Day of Chikan! Vol8 Side-tail Glasses JK | 83334 | [83334-another-day-of-chikan-vol8-side-tail-glasses-jk.json](./83334-another-day-of-chikan-vol8-side-tail-glasses-jk.json) |
@@ -13855,6 +13857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astlan | 184270 | [184270-astlan.json](./184270-astlan.json) |
 | Astlibra Gaiden: The Cave of Phantom Mist | 395862 | [395862-astlibra-gaiden-the-cave-of-phantom-mist.json](./395862-astlibra-gaiden-the-cave-of-phantom-mist.json) |
 | Astlibra Mini Side Story: Cave of Genghiri | 185876 | [185876-astlibra-mini-side-story-cave-of-genghiri.json](./185876-astlibra-mini-side-story-cave-of-genghiri.json) |
+| Astlibra: Living Proof | 185875 | [185875-astlibra-living-proof.json](./185875-astlibra-living-proof.json) |
 | Astoaria | 226227 | [226227-astoaria.json](./226227-astoaria.json) |
 | Aston | 296344 | [296344-aston.json](./296344-aston.json) |
 | Aston May Die | 206576 | [206576-aston-may-die.json](./206576-aston-may-die.json) |
@@ -14979,6 +14982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attorney Online | 290388 | [290388-attorney-online.json](./290388-attorney-online.json) |
 | Attouteki Yuugi: Mugen Souls Z | 44589 | [44589-attouteki-yuugi-mugen-souls-z.json](./44589-attouteki-yuugi-mugen-souls-z.json) |
 | Attract Fragments 5 | 119747 | [119747-attract-fragments-5.json](./119747-attract-fragments-5.json) |
+| Attraction | 185843 | [185843-attraction.json](./185843-attraction.json) |
 | Attraction Force | 198320 | [198320-attraction-force.json](./198320-attraction-force.json) |
 | Attractorache | 109904 | [109904-attractorache.json](./109904-attractorache.json) |
 | Attrax | 349381 | [349381-attrax.json](./349381-attrax.json) |
