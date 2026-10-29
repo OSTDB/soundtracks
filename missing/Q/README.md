@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qop 4 | 113218 | [113218-qop-4.json](./113218-qop-4.json) |
 | qop: DLC | 171435 | [171435-qop-dlc.json](./171435-qop-dlc.json) |
 | Qora | 17492 | [17492-qora.json](./17492-qora.json) |
+| Qorbit | 213181 | [213181-qorbit.json](./213181-qorbit.json) |
 | Qorena | 211931 | [211931-qorena.json](./211931-qorena.json) |
 | QotU | 308538 | [308538-qotu.json](./308538-qotu.json) |
 | QP Kiss | 188576 | [188576-qp-kiss.json](./188576-qp-kiss.json) |
@@ -314,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Coffee Quake | 196490 | [196490-quake-coffee-quake.json](./196490-quake-coffee-quake.json) |
 | Quake: Contract Revoked | 280187 | [280187-quake-contract-revoked.json](./280187-quake-contract-revoked.json) |
 | Quake: Coppertone Summer Jam | 196500 | [196500-quake-coppertone-summer-jam.json](./196500-quake-coppertone-summer-jam.json) |
+| Quake: Coppertone Summer Jam 2 | 213157 | [213157-quake-coppertone-summer-jam-2.json](./213157-quake-coppertone-summer-jam-2.json) |
 | Quake: Dawn of the Machine | 412530 | [412530-quake-dawn-of-the-machine.json](./412530-quake-dawn-of-the-machine.json) |
 | Quake: Death's Dominion | 202932 | [202932-quake-deaths-dominion.json](./202932-quake-deaths-dominion.json) |
 | Quake: DM4 Jam | 203156 | [203156-quake-dm4-jam.json](./203156-quake-dm4-jam.json) |
