@@ -12786,6 +12786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Date Diaries: A Fairy Tale Love | 397870 | [397870-princess-date-diaries-a-fairy-tale-love.json](./397870-princess-date-diaries-a-fairy-tale-love.json) |
 | Princess Dating Sim | 225216 | [225216-princess-dating-sim.json](./225216-princess-dating-sim.json) |
 | Princess Debut | 21225 | [21225-princess-debut.json](./21225-princess-debut.json) |
+| Princess Drawing! | 206504 | [206504-princess-drawing.json](./206504-princess-drawing.json) |
 | Princess Dress Up Collection Fives Games in One | 400180 | [400180-princess-dress-up-collection-fives-games-in-one.json](./400180-princess-dress-up-collection-fives-games-in-one.json) |
 | Princess Edge: Dragonstone | 26525 | [26525-princess-edge-dragonstone.json](./26525-princess-edge-dragonstone.json) |
 | Princess Erch | 165741 | [165741-princess-erch.json](./165741-princess-erch.json) |
