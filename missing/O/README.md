@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octogram | 265686 | [265686-octogram.json](./265686-octogram.json) |
 | Octonauts | 230394 | [230394-octonauts.json](./230394-octonauts.json) |
 | Octonauts and the Giant Squid | 387410 | [387410-octonauts-and-the-giant-squid.json](./387410-octonauts-and-the-giant-squid.json) |
+| Octonauts and the Whale Shark | 227525 | [227525-octonauts-and-the-whale-shark.json](./227525-octonauts-and-the-whale-shark.json) |
 | Octonauts Deep Sea Adventure | 387408 | [387408-octonauts-deep-sea-adventure.json](./387408-octonauts-deep-sea-adventure.json) |
 | Octopath Traveler + Octopath Traveler II Bundle | 304800 | [304800-octopath-traveler-octopath-traveler-ii-bundle.json](./304800-octopath-traveler-octopath-traveler-ii-bundle.json) |
 | Octopath Traveler 0: Digital Deluxe Edition | 366786 | [366786-octopath-traveler-0-digital-deluxe-edition.json](./366786-octopath-traveler-0-digital-deluxe-edition.json) |
@@ -885,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Driving Simulator 4x4: Trucks & SUV Trophy | 147933 | [147933-offroad-driving-simulator-4x4-trucks-and-suv-trophy.json](./147933-offroad-driving-simulator-4x4-trucks-and-suv-trophy.json) |
 | Offroad Extreme! | 66935 | [66935-offroad-extreme.json](./66935-offroad-extreme.json) |
 | Offroad Extreme!: Special Edition | 50987 | [50987-offroad-extreme-special-edition.json](./50987-offroad-extreme-special-edition.json) |
+| Offroad Games: Tractor Game | 227535 | [227535-offroad-games-tractor-game.json](./227535-offroad-games-tractor-game.json) |
 | Offroad Heat | 112052 | [112052-offroad-heat.json](./112052-offroad-heat.json) |
 | Offroad Jeep 4x4: Car Driving Simulator | 238135 | [238135-offroad-jeep-4x4-car-driving-simulator.json](./238135-offroad-jeep-4x4-car-driving-simulator.json) |
 | Offroad Jeep Driving | 304329 | [304329-offroad-jeep-driving.json](./304329-offroad-jeep-driving.json) |
