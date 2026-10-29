@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mado Monogatari: Fia and the Wondrous Academy - Deluxe Edition | 351236 | [351236-mado-monogatari-fia-and-the-wondrous-academy-deluxe-edition.json](./351236-mado-monogatari-fia-and-the-wondrous-academy-deluxe-edition.json) |
 | Mado no Naka no Saki ni Aru Mono | 152115 | [152115-mado-no-naka-no-saki-ni-aru-mono.json](./152115-mado-no-naka-no-saki-ni-aru-mono.json) |
 | Mado Paf! | 229263 | [229263-mado-paf.json](./229263-mado-paf.json) |
+| Madohi Shiroki no Kamikakushi | 188784 | [188784-madohi-shiroki-no-kamikakushi.json](./188784-madohi-shiroki-no-kamikakushi.json) |
 | Madojeongi: Secret of Elysium | 252163 | [252163-madojeongi-secret-of-elysium.json](./252163-madojeongi-secret-of-elysium.json) |
 | Madoka Magica Grief Syndrome | 27361 | [27361-madoka-magica-grief-syndrome.json](./27361-madoka-magica-grief-syndrome.json) |
 | Madoka Magica Magia Exedra | 307774 | [307774-madoka-magica-magia-exedra.json](./307774-madoka-magica-magia-exedra.json) |
@@ -3836,6 +3837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marlow Briggs and the Mask of Death | 8006 | [8006-marlow-briggs-and-the-mask-of-death.json](./8006-marlow-briggs-and-the-mask-of-death.json) |
 | Marlow in Apocalyptic Acid World | 180053 | [180053-marlow-in-apocalyptic-acid-world.json](./180053-marlow-in-apocalyptic-acid-world.json) |
 | Marlowe's Path | 179060 | [179060-marlowes-path.json](./179060-marlowes-path.json) |
+| Marmalade box | 188817 | [188817-marmalade-box.json](./188817-marmalade-box.json) |
 | Marmalade Boy | 202585 | [202585-marmalade-boy.json](./202585-marmalade-boy.json) |
 | Marmalade Boy | 38339 | [38339-marmalade-boy.json](./38339-marmalade-boy.json) |
 | Marmalade Boy Herpit | 395103 | [395103-marmalade-boy-herpit.json](./395103-marmalade-boy-herpit.json) |
@@ -13173,6 +13175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molo's Revenge | 323255 | [323255-molos-revenge.json](./323255-molos-revenge.json) |
 | Moloch Kombinat | 410886 | [410886-moloch-kombinat.json](./410886-moloch-kombinat.json) |
 | Moloch's Priest | 144244 | [144244-molochs-priest.json](./144244-molochs-priest.json) |
+| Mologa | 188821 | [188821-mologa.json](./188821-mologa.json) |
 | Moloko | 157006 | [157006-moloko.json](./157006-moloko.json) |
 | Molt | 260571 | [260571-molt.json](./260571-molt.json) |
 | Molten Horn | 243293 | [243293-molten-horn.json](./243293-molten-horn.json) |
@@ -14966,6 +14969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morgman | 298382 | [298382-morgman.json](./298382-morgman.json) |
 | Morgue Rot: The Coroner's Quest | 217384 | [217384-morgue-rot-the-coroners-quest.json](./217384-morgue-rot-the-coroners-quest.json) |
 | Mori | 179430 | [179430-mori.json](./179430-mori.json) |
+| Mori | 188799 | [188799-mori.json](./188799-mori.json) |
 | Mori | 407867 | [407867-mori.json](./407867-mori.json) |
 | Mori Adventures | 407351 | [407351-mori-adventures.json](./407351-mori-adventures.json) |
 | Mori and the Whisper | 118753 | [118753-mori-and-the-whisper.json](./118753-mori-and-the-whisper.json) |
