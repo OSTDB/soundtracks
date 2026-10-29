@@ -11980,6 +11980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
 | Miss Moonlight | 305354 | [305354-miss-moonlight.json](./305354-miss-moonlight.json) |
 | Miss Neko | 127915 | [127915-miss-neko.json](./127915-miss-neko.json) |
+| Miss Neko 3 | 207620 | [207620-miss-neko-3.json](./207620-miss-neko-3.json) |
 | Miss Neko: Pirates | 277783 | [277783-miss-neko-pirates.json](./277783-miss-neko-pirates.json) |
 | Miss Paint | 285565 | [285565-miss-paint.json](./285565-miss-paint.json) |
 | Miss Paint: Part 1 | 275142 | [275142-miss-paint-part-1.json](./275142-miss-paint-part-1.json) |
