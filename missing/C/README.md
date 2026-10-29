@@ -1922,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car-Toon Chaos | 298170 | [298170-car-toon-chaos.json](./298170-car-toon-chaos.json) |
 | Car! | 314670 | [314670-car.json](./314670-car.json) |
 | Car's Empire | 176218 | [176218-cars-empire.json](./176218-cars-empire.json) |
+| Car+ Toon Race: Rally Valley Champion | 223757 | [223757-car-toon-race-rally-valley-champion.json](./223757-car-toon-race-rally-valley-champion.json) |
 | Cara Night | 46618 | [46618-cara-night.json](./46618-cara-night.json) |
 | Cara's Bouncy Castle | 365019 | [365019-caras-bouncy-castle.json](./365019-caras-bouncy-castle.json) |
 | Cara's Donkey Derby | 365020 | [365020-caras-donkey-derby.json](./365020-caras-donkey-derby.json) |
@@ -9520,6 +9521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra Command | 290272 | [290272-cobra-command.json](./290272-cobra-command.json) |
 | Cobra Force | 13500 | [13500-cobra-force.json](./13500-cobra-force.json) |
 | Cobra II | 71390 | [71390-cobra-ii.json](./71390-cobra-ii.json) |
+| Cobra Kai 2: Dojos Rising - Nemesis Edition | 223808 | [223808-cobra-kai-2-dojos-rising-nemesis-edition.json](./223808-cobra-kai-2-dojos-rising-nemesis-edition.json) |
 | Cobra Kai 2: Dojos Rising Nemesis Pack | 263194 | [263194-cobra-kai-2-dojos-rising-nemesis-pack.json](./263194-cobra-kai-2-dojos-rising-nemesis-pack.json) |
 | Cobra Kai Collection | 309015 | [309015-cobra-kai-collection.json](./309015-cobra-kai-collection.json) |
 | Cobra Kai: Card Fighter | 143371 | [143371-cobra-kai-card-fighter.json](./143371-cobra-kai-card-fighter.json) |
