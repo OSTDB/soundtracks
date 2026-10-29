@@ -823,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Guys: Plush Fox Pack | 243775 | [243775-fall-guys-plush-fox-pack.json](./243775-fall-guys-plush-fox-pack.json) |
 | Fall Guys: Popping Whizzbanger Pack | 243661 | [243661-fall-guys-popping-whizzbanger-pack.json](./243661-fall-guys-popping-whizzbanger-pack.json) |
 | Fall Guys: Season 2 Starter Pack | 243659 | [243659-fall-guys-season-2-starter-pack.json](./243659-fall-guys-season-2-starter-pack.json) |
+| Fall Guys: Season 3 - Sunken Secrets | 227459 | [227459-fall-guys-season-3-sunken-secrets.json](./227459-fall-guys-season-3-sunken-secrets.json) |
 | Fall Guys: Season 4 - Creative Construction | 243406 | [243406-fall-guys-season-4-creative-construction.json](./243406-fall-guys-season-4-creative-construction.json) |
 | Fall Guys: Starter Pack | 243660 | [243660-fall-guys-starter-pack.json](./243660-fall-guys-starter-pack.json) |
 | Fall Guys: Stunning Sealife Pack | 243664 | [243664-fall-guys-stunning-sealife-pack.json](./243664-fall-guys-stunning-sealife-pack.json) |
@@ -1262,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falseflash | 401497 | [401497-falseflash.json](./401497-falseflash.json) |
 | FalseGod's Gambit | 373007 | [373007-falsegods-gambit.json](./373007-falsegods-gambit.json) |
 | Falsemen | 86616 | [86616-falsemen.json](./86616-falsemen.json) |
+| Falsepine | 227448 | [227448-falsepine.json](./227448-falsepine.json) |
 | Falsion | 64648 | [64648-falsion.json](./64648-falsion.json) |
 | Falskaar | 313266 | [313266-falskaar.json](./313266-falskaar.json) |
 | Falta | 169764 | [169764-falta.json](./169764-falta.json) |
@@ -7408,6 +7410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flutter! | 304135 | [304135-flutter.json](./304135-flutter.json) |
 | Flutterdash | 391199 | [391199-flutterdash.json](./391199-flutterdash.json) |
 | Fluttershy Piano Tiles | 202388 | [202388-fluttershy-piano-tiles.json](./202388-fluttershy-piano-tiles.json) |
+| Fluvsies: A Fluff to Luv | 227527 | [227527-fluvsies-a-fluff-to-luv.json](./227527-fluvsies-a-fluff-to-luv.json) |
 | Flux | 140475 | [140475-flux.json](./140475-flux.json) |
 | Flux | 183373 | [183373-flux.json](./183373-flux.json) |
 | Flux | 202357 | [202357-flux.json](./202357-flux.json) |
@@ -11909,6 +11912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Girl Puzzle | 281345 | [281345-furry-girl-puzzle.json](./281345-furry-girl-puzzle.json) |
 | Furry Girlfriend Simulator | 367038 | [367038-furry-girlfriend-simulator.json](./367038-furry-girlfriend-simulator.json) |
 | Furry Girls Paradise: Love & Fun | 386793 | [386793-furry-girls-paradise-love-and-fun.json](./386793-furry-girls-paradise-love-and-fun.json) |
+| Furry Glory | 227441 | [227441-furry-glory.json](./227441-furry-glory.json) |
 | Furry Hentai Isekai | 201587 | [201587-furry-hentai-isekai.json](./201587-furry-hentai-isekai.json) |
 | Furry Hentai Quest | 192460 | [192460-furry-hentai-quest.json](./192460-furry-hentai-quest.json) |
 | Furry Heroes | 150431 | [150431-furry-heroes.json](./150431-furry-heroes.json) |
