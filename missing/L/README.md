@@ -5513,6 +5513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Smart Planet | 81728 | [81728-little-smart-planet.json](./81728-little-smart-planet.json) |
 | Little Snatcher | 365455 | [365455-little-snatcher.json](./365455-little-snatcher.json) |
 | Little Soldier | 164436 | [164436-little-soldier.json](./164436-little-soldier.json) |
+| Little Soul | 177159 | [177159-little-soul.json](./177159-little-soul.json) |
 | Little Sound Boxing Champion | 316347 | [316347-little-sound-boxing-champion.json](./316347-little-sound-boxing-champion.json) |
 | Little Sound Dj | 91410 | [91410-little-sound-dj.json](./91410-little-sound-dj.json) |
 | Little Space Rangers | 181221 | [181221-little-space-rangers.json](./181221-little-space-rangers.json) |
