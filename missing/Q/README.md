@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q Steps | 327103 | [327103-q-steps.json](./327103-q-steps.json) |
 | Q Transformers: Kaettekita Convoy no Nazo | 60993 | [60993-q-transformers-kaettekita-convoy-no-nazo.json](./60993-q-transformers-kaettekita-convoy-no-nazo.json) |
 | Q-Ball: Billiards Master | 43272 | [43272-q-ball-billiards-master.json](./43272-q-ball-billiards-master.json) |
+| Q-Cubed | 203047 | [203047-q-cubed.json](./203047-q-cubed.json) |
 | Q-j-civilization-s | 302787 | [302787-q-j-civilization-s.json](./302787-q-j-civilization-s.json) |
 | Q-Linq | 290623 | [290623-q-linq.json](./290623-q-linq.json) |
 | Q-Red | 273237 | [273237-q-red.json](./273237-q-red.json) |
