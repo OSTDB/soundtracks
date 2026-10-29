@@ -5379,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireboy & Watergirl: Fairy Tales | 195980 | [195980-fireboy-and-watergirl-fairy-tales.json](./195980-fireboy-and-watergirl-fairy-tales.json) |
 | Fireboy and Watergirl: Online | 88769 | [88769-fireboy-and-watergirl-online.json](./88769-fireboy-and-watergirl-online.json) |
 | Firebug | 13714 | [13714-firebug.json](./13714-firebug.json) |
+| Firebug | 194777 | [194777-firebug.json](./194777-firebug.json) |
 | Firebug | 24888 | [24888-firebug.json](./24888-firebug.json) |
 | Firebugs | 43859 | [43859-firebugs.json](./43859-firebugs.json) |
 | FireChess | 275108 | [275108-firechess.json](./275108-firechess.json) |
@@ -9497,6 +9498,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foster's Home for Imaginary Friends | 6410 | [6410-fosters-home-for-imaginary-friends.json](./6410-fosters-home-for-imaginary-friends.json) |
 | Foster's Home For Imaginary Friends: A Friend In Need | 277157 | [277157-fosters-home-for-imaginary-friends-a-friend-in-need.json](./277157-fosters-home-for-imaginary-friends-a-friend-in-need.json) |
 | Foster's Home for Imaginary Friends: Imagination Invaders | 8004 | [8004-fosters-home-for-imaginary-friends-imagination-invaders.json](./8004-fosters-home-for-imaginary-friends-imagination-invaders.json) |
+| Foster's Home for Imaginary Friends: Simply Smashing | 194807 | [194807-fosters-home-for-imaginary-friends-simply-smashing.json](./194807-fosters-home-for-imaginary-friends-simply-smashing.json) |
+| Foster's Home for Imaginary Friends: Wilt's Wash N' Swoosh | 194806 | [194806-fosters-home-for-imaginary-friends-wilts-wash-n-swoosh.json](./194806-fosters-home-for-imaginary-friends-wilts-wash-n-swoosh.json) |
 | Fostering Apocalypse | 153991 | [153991-fostering-apocalypse.json](./153991-fostering-apocalypse.json) |
 | Fostiator | 316793 | [316793-fostiator.json](./316793-fostiator.json) |
 | Fostr | 395807 | [395807-fostr.json](./395807-fostr.json) |
