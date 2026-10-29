@@ -1662,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Skies: The Nemansk Incident | 126971 | [126971-dark-skies-the-nemansk-incident.json](./126971-dark-skies-the-nemansk-incident.json) |
 | Dark Sky | 290393 | [290393-dark-sky.json](./290393-dark-sky.json) |
 | Dark Slayer | 297015 | [297015-dark-slayer.json](./297015-dark-slayer.json) |
+| Dark Slime | 202506 | [202506-dark-slime.json](./202506-dark-slime.json) |
 | Dark Soil | 101441 | [101441-dark-soil.json](./101441-dark-soil.json) |
 | Dark Solid | 141736 | [141736-dark-solid.json](./141736-dark-solid.json) |
 | Dark Solitaire: Search for a Cure | 386139 | [386139-dark-solitaire-search-for-a-cure.json](./386139-dark-solitaire-search-for-a-cure.json) |
