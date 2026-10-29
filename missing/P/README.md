@@ -5016,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenotopia: Awakening | 136805 | [136805-phoenotopia-awakening.json](./136805-phoenotopia-awakening.json) |
 | Pholee | 294000 | [294000-pholee.json](./294000-pholee.json) |
 | Phone | 218998 | [218998-phone.json](./218998-phone.json) |
+| Phone Evolution | 194113 | [194113-phone-evolution.json](./194113-phone-evolution.json) |
 | Phone Flipper Simulator | 390787 | [390787-phone-flipper-simulator.json](./390787-phone-flipper-simulator.json) |
 | Phone Story | 62455 | [62455-phone-story.json](./62455-phone-story.json) |
 | Phonequest | 134694 | [134694-phonequest.json](./134694-phonequest.json) |
@@ -7708,6 +7709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelSlime | 223613 | [223613-pixelslime.json](./223613-pixelslime.json) |
 | PixelTerra | 257247 | [257247-pixelterra.json](./257247-pixelterra.json) |
 | PixelTown | 183283 | [183283-pixeltown.json](./183283-pixeltown.json) |
+| PixelTown | 194144 | [194144-pixeltown.json](./194144-pixeltown.json) |
 | Pixeltroid | 321673 | [321673-pixeltroid.json](./321673-pixeltroid.json) |
 | Pixelus | 209383 | [209383-pixelus.json](./209383-pixelus.json) |
 | Pixelus Deluxe | 94582 | [94582-pixelus-deluxe.json](./94582-pixelus-deluxe.json) |
@@ -9264,6 +9266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Warriors | 152162 | [152162-pocket-warriors.json](./152162-pocket-warriors.json) |
 | Pocket Wars: Protect or Destroy | 109541 | [109541-pocket-wars-protect-or-destroy.json](./109541-pocket-wars-protect-or-destroy.json) |
 | Pocket Witch | 223045 | [223045-pocket-witch.json](./223045-pocket-witch.json) |
+| Pocket World 3D | 194120 | [194120-pocket-world-3d.json](./194120-pocket-world-3d.json) |
 | Pocket World: Island of Adventure | 208088 | [208088-pocket-world-island-of-adventure.json](./208088-pocket-world-island-of-adventure.json) |
 | Pocket Zaurus: Party Island no Nakama-tachi 1 | 293906 | [293906-pocket-zaurus-party-island-no-nakama-tachi-1.json](./293906-pocket-zaurus-party-island-no-nakama-tachi-1.json) |
 | Pocket Zaurus: Party Island no Nakama-tachi 2 | 293907 | [293907-pocket-zaurus-party-island-no-nakama-tachi-2.json](./293907-pocket-zaurus-party-island-no-nakama-tachi-2.json) |
@@ -14268,6 +14271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Smile | 363673 | [363673-project-smile.json](./363673-project-smile.json) |
 | Project Snaqe | 189378 | [189378-project-snaqe.json](./189378-project-snaqe.json) |
 | Project Solaris | 325449 | [325449-project-solaris.json](./325449-project-solaris.json) |
+| Project Soul | 194119 | [194119-project-soul.json](./194119-project-soul.json) |
 | Project Spaghetti | 60002 | [60002-project-spaghetti.json](./60002-project-spaghetti.json) |
 | Project Spark | 2742 | [2742-project-spark.json](./2742-project-spark.json) |
 | Project Spectrum | 361889 | [361889-project-spectrum.json](./361889-project-spectrum.json) |
@@ -14281,6 +14285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Starblade | 391151 | [391151-project-starblade.json](./391151-project-starblade.json) |
 | Project Starcrash | 311136 | [311136-project-starcrash.json](./311136-project-starcrash.json) |
 | Project Stardust | 177232 | [177232-project-stardust.json](./177232-project-stardust.json) |
+| Project Stars | 194150 | [194150-project-stars.json](./194150-project-stars.json) |
 | Project Starship | 33222 | [33222-project-starship.json](./33222-project-starship.json) |
 | Project Starship X | 126587 | [126587-project-starship-x.json](./126587-project-starship-x.json) |
 | Project Starship X: Limited Edition | 167083 | [167083-project-starship-x-limited-edition.json](./167083-project-starship-x-limited-edition.json) |
@@ -15987,6 +15992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle 3D | 88180 | [88180-puzzle-3d.json](./88180-puzzle-3d.json) |
 | Puzzle Adventure | 347877 | [347877-puzzle-adventure.json](./347877-puzzle-adventure.json) |
 | Puzzle Adventure Blockle | 54529 | [54529-puzzle-adventure-blockle.json](./54529-puzzle-adventure-blockle.json) |
+| Puzzle Adventure: Mystery Clue | 194125 | [194125-puzzle-adventure-mystery-clue.json](./194125-puzzle-adventure-mystery-clue.json) |
 | Puzzle Adventures | 251813 | [251813-puzzle-adventures.json](./251813-puzzle-adventures.json) |
 | Puzzle Adventures Bundle 4 in 1 | 368085 | [368085-puzzle-adventures-bundle-4-in-1.json](./368085-puzzle-adventures-bundle-4-in-1.json) |
 | Puzzle Adventures: Farm Animals | 332335 | [332335-puzzle-adventures-farm-animals.json](./332335-puzzle-adventures-farm-animals.json) |
