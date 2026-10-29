@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacko | 23502 | [23502-wacko.json](./23502-wacko.json) |
 | Wacko Willy | 394128 | [394128-wacko-willy.json](./394128-wacko-willy.json) |
 | Wacktory | 121609 | [121609-wacktory.json](./121609-wacktory.json) |
+| Wacky Bird Hunter | 205942 | [205942-wacky-bird-hunter.json](./205942-wacky-bird-hunter.json) |
 | Wacky Burgers | 291347 | [291347-wacky-burgers.json](./291347-wacky-burgers.json) |
 | Wacky Cartoon Racers | 138562 | [138562-wacky-cartoon-racers.json](./138562-wacky-cartoon-racers.json) |
 | Wacky Chariots | 196887 | [196887-wacky-chariots.json](./196887-wacky-chariots.json) |
@@ -398,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall Clip | 183028 | [183028-wall-clip.json](./183028-wall-clip.json) |
 | Wall Force | 123509 | [123509-wall-force.json](./123509-wall-force.json) |
 | Wall Gai | 312917 | [312917-wall-gai.json](./312917-wall-gai.json) |
+| Wall Hanger | 205936 | [205936-wall-hanger.json](./205936-wall-hanger.json) |
 | Wall Jump Ninja | 195603 | [195603-wall-jump-ninja.json](./195603-wall-jump-ninja.json) |
 | Wall Jump Stuff | 143953 | [143953-wall-jump-stuff.json](./143953-wall-jump-stuff.json) |
 | Wall Kickers | 107245 | [107245-wall-kickers.json](./107245-wall-kickers.json) |
@@ -1820,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across The World: Dacia 101 | 276416 | [276416-wars-across-the-world-dacia-101.json](./276416-wars-across-the-world-dacia-101.json) |
 | Wars Across the World: Dublin 1916 | 193189 | [193189-wars-across-the-world-dublin-1916.json](./193189-wars-across-the-world-dublin-1916.json) |
 | Wars Across the World: Estonia 1918 | 159624 | [159624-wars-across-the-world-estonia-1918.json](./159624-wars-across-the-world-estonia-1918.json) |
+| Wars Across the World: Eunus 133 | 205855 | [205855-wars-across-the-world-eunus-133.json](./205855-wars-across-the-world-eunus-133.json) |
 | Wars Across the World: Expanded Collection | 53922 | [53922-wars-across-the-world-expanded-collection.json](./53922-wars-across-the-world-expanded-collection.json) |
 | Wars Across the World: Finland 1918 | 159600 | [159600-wars-across-the-world-finland-1918.json](./159600-wars-across-the-world-finland-1918.json) |
 | Wars Across the World: Franche-Comté 1636 | 155180 | [155180-wars-across-the-world-franche-comte-1636.json](./155180-wars-across-the-world-franche-comte-1636.json) |
@@ -6987,6 +6990,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Championship Boxing Manager | 76142 | [76142-world-championship-boxing-manager.json](./76142-world-championship-boxing-manager.json) |
 | World Championship Boxing Manager 2 | 200931 | [200931-world-championship-boxing-manager-2.json](./200931-world-championship-boxing-manager-2.json) |
 | World Championship Cards | 43428 | [43428-world-championship-cards.json](./43428-world-championship-cards.json) |
+| World Championship Games: A Track & Field Event | 205878 | [205878-world-championship-games-a-track-and-field-event.json](./205878-world-championship-games-a-track-and-field-event.json) |
+| World Championship Paintball | 205879 | [205879-world-championship-paintball.json](./205879-world-championship-paintball.json) |
 | World Championship Poker | 210721 | [210721-world-championship-poker.json](./210721-world-championship-poker.json) |
 | World Championship Poker | 6237 | [6237-world-championship-poker.json](./6237-world-championship-poker.json) |
 | World Championship Poker 2 | 53110 | [53110-world-championship-poker-2.json](./53110-world-championship-poker-2.json) |
@@ -6999,6 +7004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Championship Snooker 2003 | 14547 | [14547-world-championship-snooker-2003.json](./14547-world-championship-snooker-2003.json) |
 | World Championship Soccer | 18664 | [18664-world-championship-soccer.json](./18664-world-championship-soccer.json) |
 | World Championship Soccer II | 46686 | [46686-world-championship-soccer-ii.json](./46686-world-championship-soccer-ii.json) |
+| World Championship Spelling | 205880 | [205880-world-championship-spelling.json](./205880-world-championship-spelling.json) |
 | World Chef | 101407 | [101407-world-chef.json](./101407-world-chef.json) |
 | World Circuit | 274725 | [274725-world-circuit.json](./274725-world-circuit.json) |
 | World Circuit Boxing | 80919 | [80919-world-circuit-boxing.json](./80919-world-circuit-boxing.json) |
@@ -7043,6 +7049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Cup '98 France: Road to Win | 271931 | [271931-world-cup-98-france-road-to-win.json](./271931-world-cup-98-france-road-to-win.json) |
 | World Cup Carnival | 69817 | [69817-world-cup-carnival.json](./69817-world-cup-carnival.json) |
 | World Cup Football | 130764 | [130764-world-cup-football.json](./130764-world-cup-football.json) |
+| World Cup Golf | 205847 | [205847-world-cup-golf.json](./205847-world-cup-golf.json) |
 | World Cup Golf: Hyatt Dorado Beach | 38825 | [38825-world-cup-golf-hyatt-dorado-beach.json](./38825-world-cup-golf-hyatt-dorado-beach.json) |
 | World Cup Golf: Professional Edition | 4340 | [4340-world-cup-golf-professional-edition.json](./4340-world-cup-golf-professional-edition.json) |
 | World Cup Italia '90 | 263350 | [263350-world-cup-italia-90.json](./263350-world-cup-italia-90.json) |
@@ -7123,6 +7130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World In The Abyss | 379107 | [379107-world-in-the-abyss.json](./379107-world-in-the-abyss.json) |
 | World is Lava | 376713 | [376713-world-is-lava.json](./376713-world-is-lava.json) |
 | World Jockey | 37650 | [37650-world-jockey.json](./37650-world-jockey.json) |
+| World Jongg | 205875 | [205875-world-jongg.json](./205875-world-jongg.json) |
 | World Karate Championship | 79620 | [79620-world-karate-championship.json](./79620-world-karate-championship.json) |
 | World Keepers: Last Resort | 30380 | [30380-world-keepers-last-resort.json](./30380-world-keepers-last-resort.json) |
 | World Kitchen Fever Cooking | 88635 | [88635-world-kitchen-fever-cooking.json](./88635-world-kitchen-fever-cooking.json) |
@@ -7176,6 +7184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Ender | 102749 | [102749-world-of-ender.json](./102749-world-of-ender.json) |
 | World of Epicia | 195627 | [195627-world-of-epicia.json](./195627-world-of-epicia.json) |
 | World of Fantasy: Zero | 155366 | [155366-world-of-fantasy-zero.json](./155366-world-of-fantasy-zero.json) |
+| World of Farming | 205849 | [205849-world-of-farming.json](./205849-world-of-farming.json) |
 | World of Feudal | 102160 | [102160-world-of-feudal.json](./102160-world-of-feudal.json) |
 | World of Final Fantasy: Limited Edition | 41841 | [41841-world-of-final-fantasy-limited-edition.json](./41841-world-of-final-fantasy-limited-edition.json) |
 | World of Final Fantasy: Maxima | 109461 | [109461-world-of-final-fantasy-maxima.json](./109461-world-of-final-fantasy-maxima.json) |
@@ -7198,6 +7207,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Legends | 115461 | [115461-world-of-legends.json](./115461-world-of-legends.json) |
 | World of Magic: Rise of Magic | 304918 | [304918-world-of-magic-rise-of-magic.json](./304918-world-of-magic-rise-of-magic.json) |
 | World of Magicka Bundle | 327246 | [327246-world-of-magicka-bundle.json](./327246-world-of-magicka-bundle.json) |
+| World of Mahjongg | 205873 | [205873-world-of-mahjongg.json](./205873-world-of-mahjongg.json) |
+| World of Mahjongg Deluxe | 205874 | [205874-world-of-mahjongg-deluxe.json](./205874-world-of-mahjongg-deluxe.json) |
 | World of Mana | 239710 | [239710-world-of-mana.json](./239710-world-of-mana.json) |
 | World of Mechs | 200940 | [200940-world-of-mechs.json](./200940-world-of-mechs.json) |
 | World of Mines: Creators Edition | 235206 | [235206-world-of-mines-creators-edition.json](./235206-world-of-mines-creators-edition.json) |
@@ -8219,6 +8230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K17: Nxt Edition | 205827 | [205827-wwe-2k17-nxt-edition.json](./205827-wwe-2k17-nxt-edition.json) |
 | WWE 2K17: NXT Enhancement Pack | 168351 | [168351-wwe-2k17-nxt-enhancement-pack.json](./168351-wwe-2k17-nxt-enhancement-pack.json) |
 | WWE 2K18 | 31558 | [31558-wwe-2k18.json](./31558-wwe-2k18.json) |
+| WWE 2K18: Cena Nuff Edition | 205845 | [205845-wwe-2k18-cena-nuff-edition.json](./205845-wwe-2k18-cena-nuff-edition.json) |
 | WWE 2K18: Deluxe Edition | 99116 | [99116-wwe-2k18-deluxe-edition.json](./99116-wwe-2k18-deluxe-edition.json) |
 | WWE 2K19 | 102805 | [102805-wwe-2k19.json](./102805-wwe-2k19.json) |
 | WWE 2K19: Deluxe Edition | 136359 | [136359-wwe-2k19-deluxe-edition.json](./136359-wwe-2k19-deluxe-edition.json) |
