@@ -7980,6 +7980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shootout | 245146 | [245146-shootout.json](./245146-shootout.json) |
 | Shootout | 287555 | [287555-shootout.json](./287555-shootout.json) |
 | ShootOut | 411615 | [411615-shootout.json](./411615-shootout.json) |
+| Shootout At Old Tucson | 220971 | [220971-shootout-at-old-tucson.json](./220971-shootout-at-old-tucson.json) |
 | Shootout at the OK Galaxy | 24810 | [24810-shootout-at-the-ok-galaxy.json](./24810-shootout-at-the-ok-galaxy.json) |
 | Shootout on Cash Island | 28998 | [28998-shootout-on-cash-island.json](./28998-shootout-on-cash-island.json) |
 | Shootout Pool | 317528 | [317528-shootout-pool.json](./317528-shootout-pool.json) |
