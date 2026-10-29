@@ -5840,6 +5840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Happening Again. | 241482 | [241482-its-happening-again.json](./241482-its-happening-again.json) |
 | It's Hard Being a Meatball | 132808 | [132808-its-hard-being-a-meatball.json](./132808-its-hard-being-a-meatball.json) |
 | It's Hasegawa-san!? | 370474 | [370474-its-hasegawa-san.json](./370474-its-hasegawa-san.json) |
+| It's Just the End of the World, Love | 179860 | [179860-its-just-the-end-of-the-world-love.json](./179860-its-just-the-end-of-the-world-love.json) |
 | It's Just TIC TAC TOE | 101704 | [101704-its-just-tic-tac-toe.json](./101704-its-just-tic-tac-toe.json) |
 | It's Kooky | 186408 | [186408-its-kooky.json](./186408-its-kooky.json) |
 | It's Kooky + Cyber Protocol | 231344 | [231344-its-kooky-cyber-protocol.json](./231344-its-kooky-cyber-protocol.json) |
