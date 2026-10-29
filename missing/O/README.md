@@ -1130,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Coin | 279495 | [279495-oil-coin.json](./279495-oil-coin.json) |
 | Oil Drill | 22364 | [22364-oil-drill.json](./22364-oil-drill.json) |
 | Oil Empire | 395732 | [395732-oil-empire.json](./395732-oil-empire.json) |
+| Oil Era | 214286 | [214286-oil-era.json](./214286-oil-era.json) |
 | Oil Filling | 264103 | [264103-oil-filling.json](./264103-oil-filling.json) |
 | Oil Manager | 215627 | [215627-oil-manager.json](./215627-oil-manager.json) |
 | Oil Panic | 228397 | [228397-oil-panic.json](./228397-oil-panic.json) |
@@ -5193,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OwnRulesRPG | 259845 | [259845-ownrulesrpg.json](./259845-ownrulesrpg.json) |
 | OwnTrio: Adventure | 292439 | [292439-owntrio-adventure.json](./292439-owntrio-adventure.json) |
 | Owold | 320618 | [320618-owold.json](./320618-owold.json) |
+| OWRC: Open World Racing | 214316 | [214316-owrc-open-world-racing.json](./214316-owrc-open-world-racing.json) |
 | Owyn's Adventure | 116482 | [116482-owyns-adventure.json](./116482-owyns-adventure.json) |
 | Owys | 34642 | [34642-owys.json](./34642-owys.json) |
 | Oxenfree: Collector's Edition | 51536 | [51536-oxenfree-collectors-edition.json](./51536-oxenfree-collectors-edition.json) |
