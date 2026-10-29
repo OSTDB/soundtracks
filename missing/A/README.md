@@ -3293,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Lolo | 191467 | [191467-adventures-of-lolo.json](./191467-adventures-of-lolo.json) |
 | Adventures of Lolo 2 | 6472 | [6472-adventures-of-lolo-2.json](./6472-adventures-of-lolo-2.json) |
 | Adventures of Lolo 3 | 7547 | [7547-adventures-of-lolo-3.json](./7547-adventures-of-lolo-3.json) |
+| Adventures of Lolo II | 206514 | [206514-adventures-of-lolo-ii.json](./206514-adventures-of-lolo-ii.json) |
 | Adventures of Maddog Williams in the Dungeons of Duridian | 50500 | [50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json](./50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json) |
 | Adventures of Max Fax | 308192 | [308192-adventures-of-max-fax.json](./308192-adventures-of-max-fax.json) |
 | Adventures of Megara: Antigone and the Living Toys | 173190 | [173190-adventures-of-megara-antigone-and-the-living-toys.json](./173190-adventures-of-megara-antigone-and-the-living-toys.json) |
