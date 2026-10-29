@@ -4572,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Mars | 183949 | [183949-escape-from-mars.json](./183949-escape-from-mars.json) |
 | Escape From Meat City | 215877 | [215877-escape-from-meat-city.json](./215877-escape-from-meat-city.json) |
 | Escape from Mental Hospital | 377217 | [377217-escape-from-mental-hospital.json](./377217-escape-from-mental-hospital.json) |
+| Escape from MLC | 211531 | [211531-escape-from-mlc.json](./211531-escape-from-mlc.json) |
 | Escape from Monkey Island | 63 | [63-escape-from-monkey-island.json](./63-escape-from-monkey-island.json) |
 | Escape From Monster | 163294 | [163294-escape-from-monster.json](./163294-escape-from-monster.json) |
 | Escape from Monster Manor | 4337 | [4337-escape-from-monster-manor.json](./4337-escape-from-monster-manor.json) |
@@ -6654,6 +6655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eximius: Seize the Frontline - Exclusive Callsign Pack: The Hardened | 230994 | [230994-eximius-seize-the-frontline-exclusive-callsign-pack-the-hardened.json](./230994-eximius-seize-the-frontline-exclusive-callsign-pack-the-hardened.json) |
 | Eximius: Seize the Frontline - Exclusive Callsign Pack: The Unseen | 230993 | [230993-eximius-seize-the-frontline-exclusive-callsign-pack-the-unseen.json](./230993-eximius-seize-the-frontline-exclusive-callsign-pack-the-unseen.json) |
 | Eximius: Seize the Frontline - Exclusive Callsign Pack: Weapons of War | 231011 | [231011-eximius-seize-the-frontline-exclusive-callsign-pack-weapons-of-war.json](./231011-eximius-seize-the-frontline-exclusive-callsign-pack-weapons-of-war.json) |
+| Exiori | 211567 | [211567-exiori.json](./211567-exiori.json) |
 | Exipath | 400900 | [400900-exipath.json](./400900-exipath.json) |
 | Exipelago | 215868 | [215868-exipelago.json](./215868-exipelago.json) |
 | Exisled | 80376 | [80376-exisled.json](./80376-exisled.json) |
