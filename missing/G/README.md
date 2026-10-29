@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galmedes | 40147 | [40147-galmedes.json](./40147-galmedes.json) |
 | Galo's Strife | 374360 | [374360-galos-strife.json](./374360-galos-strife.json) |
 | Galosphere | 341045 | [341045-galosphere.json](./341045-galosphere.json) |
+| Galpa the no limbs guy | 195367 | [195367-galpa-the-no-limbs-guy.json](./195367-galpa-the-no-limbs-guy.json) |
 | Galppo Club | 92132 | [92132-galppo-club.json](./92132-galppo-club.json) |
 | GalRock Girls | 258440 | [258440-galrock-girls.json](./258440-galrock-girls.json) |
 | Gals Fighters | 75468 | [75468-gals-fighters.json](./75468-gals-fighters.json) |
@@ -4947,6 +4948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal! | 268132 | [268132-goal.json](./268132-goal.json) |
 | Goal! | 348225 | [348225-goal.json](./348225-goal.json) |
 | Goal! Goal! Goal! | 39549 | [39549-goal-goal-goal.json](./39549-goal-goal-goal.json) |
+| Goal!: The Club Manager | 195379 | [195379-goal-the-club-manager.json](./195379-goal-the-club-manager.json) |
 | Goal!! | 196270 | [196270-goal.json](./196270-goal.json) |
 | Goal3 | 334303 | [334303-goal3.json](./334303-goal3.json) |
 | Goal92 | 40125 | [40125-goal92.json](./40125-goal92.json) |
@@ -5016,6 +5018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobbo Goes | 74737 | [74737-gobbo-goes.json](./74737-gobbo-goes.json) |
 | Gobbo Goes Adventures | 251834 | [251834-gobbo-goes-adventures.json](./251834-gobbo-goes-adventures.json) |
 | Gobbo's Gambit | 253952 | [253952-gobbos-gambit.json](./253952-gobbos-gambit.json) |
+| Gobby Island | 195383 | [195383-gobby-island.json](./195383-gobby-island.json) |
 | Gobby McGobblenutz Presents: The Art of the Dad Joke - Chapter 1 | 193179 | [193179-gobby-mcgobblenutz-presents-the-art-of-the-dad-joke-chapter-1.json](./193179-gobby-mcgobblenutz-presents-the-art-of-the-dad-joke-chapter-1.json) |
 | GobelinsRPG | 177284 | [177284-gobelinsrpg.json](./177284-gobelinsrpg.json) |
 | Gobelinus: The Cursed Deck | 391718 | [391718-gobelinus-the-cursed-deck.json](./391718-gobelinus-the-cursed-deck.json) |
