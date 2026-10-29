@@ -2920,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Ahead: Enforcers | 421372 | [421372-dead-ahead-enforcers.json](./421372-dead-ahead-enforcers.json) |
 | Dead Ahead: Roadside | 400539 | [400539-dead-ahead-roadside.json](./400539-dead-ahead-roadside.json) |
 | Dead Ahead: Zombie Warfare | 56166 | [56166-dead-ahead-zombie-warfare.json](./56166-dead-ahead-zombie-warfare.json) |
+| Dead Air | 185307 | [185307-dead-air.json](./185307-dead-air.json) |
 | Dead Air | 330949 | [330949-dead-air.json](./330949-dead-air.json) |
 | Dead Air | 380241 | [380241-dead-air.json](./380241-dead-air.json) |
 | Dead Air | 380242 | [380242-dead-air.json](./380242-dead-air.json) |
@@ -3594,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Delivery: Goldmoon Update | 400668 | [400668-deadly-delivery-goldmoon-update.json](./400668-deadly-delivery-goldmoon-update.json) |
 | Deadly Desert | 220009 | [220009-deadly-desert.json](./220009-deadly-desert.json) |
 | Deadly Desire | 232915 | [232915-deadly-desire.json](./232915-deadly-desire.json) |
+| Deadly Dog-Dating Dungeon | 185261 | [185261-deadly-dog-dating-dungeon.json](./185261-deadly-dog-dating-dungeon.json) |
 | Deadly Dozen | 27479 | [27479-deadly-dozen.json](./27479-deadly-dozen.json) |
 | Deadly Dozen Reloaded | 193753 | [193753-deadly-dozen-reloaded.json](./193753-deadly-dozen-reloaded.json) |
 | Deadly Dozen: Pacific Theater | 27480 | [27480-deadly-dozen-pacific-theater.json](./27480-deadly-dozen-pacific-theater.json) |
@@ -9075,6 +9077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disjunction | 313830 | [313830-disjunction.json](./313830-disjunction.json) |
 | Disk Dashers | 244739 | [244739-disk-dashers.json](./244739-disk-dashers.json) |
 | Disk Jockey Boy | 46220 | [46220-disk-jockey-boy.json](./46220-disk-jockey-boy.json) |
+| Disk Mayhem | 185262 | [185262-disk-mayhem.json](./185262-disk-mayhem.json) |
 | Disk NG 1 | 220140 | [220140-disk-ng-1.json](./220140-disk-ng-1.json) |
 | Disk NG 2 | 220148 | [220148-disk-ng-2.json](./220148-disk-ng-2.json) |
 | Disk Station #0 | 78958 | [78958-disk-station-0.json](./78958-disk-station-0.json) |
@@ -14366,6 +14369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamshot Fantasia | 278914 | [278914-dreamshot-fantasia.json](./278914-dreamshot-fantasia.json) |
 | Dreamslayer | 285058 | [285058-dreamslayer.json](./285058-dreamslayer.json) |
 | DreamSleuth: hidden object adventure quest lite | 88311 | [88311-dreamsleuth-hidden-object-adventure-quest-lite.json](./88311-dreamsleuth-hidden-object-adventure-quest-lite.json) |
+| Dreamsong | 185299 | [185299-dreamsong.json](./185299-dreamsong.json) |
 | Dreamspace | 222092 | [222092-dreamspace.json](./222092-dreamspace.json) |
 | Dreamspace | 323342 | [323342-dreamspace.json](./323342-dreamspace.json) |
 | Dreamspaces | 181682 | [181682-dreamspaces.json](./181682-dreamspaces.json) |
