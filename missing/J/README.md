@@ -2555,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joustaposition | 181371 | [181371-joustaposition.json](./181371-joustaposition.json) |
 | Joustic | 185496 | [185496-joustic.json](./185496-joustic.json) |
 | Jousting in January | 290491 | [290491-jousting-in-january.json](./290491-jousting-in-january.json) |
+| Jousting VR | 204168 | [204168-jousting-vr.json](./204168-jousting-vr.json) |
 | Joustish | 251193 | [251193-joustish.json](./251193-joustish.json) |
 | JoustMania | 119743 | [119743-joustmania.json](./119743-joustmania.json) |
 | JoustPong | 95353 | [95353-joustpong.json](./95353-joustpong.json) |
