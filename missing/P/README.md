@@ -7485,6 +7485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Ship Shooter | 112833 | [112833-pixel-ship-shooter.json](./112833-pixel-ship-shooter.json) |
 | Pixel Shooter | 44111 | [44111-pixel-shooter.json](./44111-pixel-shooter.json) |
 | Pixel Shooter Infinity | 193712 | [193712-pixel-shooter-infinity.json](./193712-pixel-shooter-infinity.json) |
+| Pixel Shrine: Jinja | 219913 | [219913-pixel-shrine-jinja.json](./219913-pixel-shrine-jinja.json) |
 | Pixel Skater | 190205 | [190205-pixel-skater.json](./190205-pixel-skater.json) |
 | Pixel Sniper | 402343 | [402343-pixel-sniper.json](./402343-pixel-sniper.json) |
 | Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
@@ -12579,6 +12580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime World: Defenders 2 | 112944 | [112944-prime-world-defenders-2.json](./112944-prime-world-defenders-2.json) |
 | Prime's Quest | 63555 | [63555-primes-quest.json](./63555-primes-quest.json) |
 | Primedice | 76563 | [76563-primedice.json](./76563-primedice.json) |
+| PrimeMate | 219912 | [219912-primemate.json](./219912-primemate.json) |
 | PriMemory | 79135 | [79135-primemory.json](./79135-primemory.json) |
 | PrimeOrbial | 120073 | [120073-primeorbial.json](./120073-primeorbial.json) |
 | Primer | 247086 | [247086-primer.json](./247086-primer.json) |
@@ -12903,6 +12905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism: Master Tape | 369236 | [369236-prism-master-tape.json](./369236-prism-master-tape.json) |
 | Prisma & the Masquerade Menace | 30907 | [30907-prisma-and-the-masquerade-menace.json](./30907-prisma-and-the-masquerade-menace.json) |
 | Prisma Light | 236849 | [236849-prisma-light.json](./236849-prisma-light.json) |
+| PrismaDrop | 219903 | [219903-prismadrop.json](./219903-prismadrop.json) |
 | Prismarch | 388553 | [388553-prismarch.json](./388553-prismarch.json) |
 | Prismata | 8215 | [8215-prismata.json](./8215-prismata.json) |
 | Prismata: Founder's Edition DLC | 167920 | [167920-prismata-founders-edition-dlc.json](./167920-prismata-founders-edition-dlc.json) |
@@ -16243,6 +16246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuzzleKid | 133164 | [133164-puzzlekid.json](./133164-puzzlekid.json) |
 | PuzzleLand | 261997 | [261997-puzzleland.json](./261997-puzzleland.json) |
 | Puzzlelicious | 88260 | [88260-puzzlelicious.json](./88260-puzzlelicious.json) |
+| PuzzleManiak | 219904 | [219904-puzzlemaniak.json](./219904-puzzlemaniak.json) |
 | Puzzlemazed | 303663 | [303663-puzzlemazed.json](./303663-puzzlemazed.json) |
 | Puzzlement | 81935 | [81935-puzzlement.json](./81935-puzzlement.json) |
 | PuzzlePet: Feed Your Cat | 163561 | [163561-puzzlepet-feed-your-cat.json](./163561-puzzlepet-feed-your-cat.json) |
