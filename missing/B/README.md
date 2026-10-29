@@ -854,7 +854,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10007,6 +10006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Alice Defense | 61997 | [61997-bloody-alice-defense.json](./61997-bloody-alice-defense.json) |
 | Bloody Aria | 322000 | [322000-bloody-aria.json](./322000-bloody-aria.json) |
 | Bloody Bar Simulator | 326475 | [326475-bloody-bar-simulator.json](./326475-bloody-bar-simulator.json) |
+| Bloody Barrage | 180419 | [180419-bloody-barrage.json](./180419-bloody-barrage.json) |
 | Bloody Bastards | 188266 | [188266-bloody-bastards.json](./188266-bloody-bastards.json) |
 | Bloody Boobs | 367620 | [367620-bloody-boobs.json](./367620-bloody-boobs.json) |
 | Bloody Bunny: First Blood | 175386 | [175386-bloody-bunny-first-blood.json](./175386-bloody-bunny-first-blood.json) |
@@ -13725,6 +13725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrickArena | 100345 | [100345-brickarena.json](./100345-brickarena.json) |
 | BrickAttack | 76151 | [76151-brickattack.json](./76151-brickattack.json) |
 | BrickBounce | 273381 | [273381-brickbounce.json](./273381-brickbounce.json) |
+| BrickBreak | 180421 | [180421-brickbreak.json](./180421-brickbreak.json) |
 | Brickbuilder VR | 154302 | [154302-brickbuilder-vr.json](./154302-brickbuilder-vr.json) |
 | Brickbuster | 77190 | [77190-brickbuster.json](./77190-brickbuster.json) |
 | Brickdown | 184741 | [184741-brickdown.json](./184741-brickdown.json) |
