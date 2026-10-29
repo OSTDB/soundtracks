@@ -6868,6 +6868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight? Youth! | 395670 | [395670-flight-youth.json](./395670-flight-youth.json) |
 | FlightChess | 181061 | [181061-flightchess.json](./181061-flightchess.json) |
 | FlightGear | 51200 | [51200-flightgear.json](./51200-flightgear.json) |
+| Flightless | 218283 | [218283-flightless.json](./218283-flightless.json) |
 | Flightless | 74678 | [74678-flightless.json](./74678-flightless.json) |
 | Flightless Bug | 410184 | [410184-flightless-bug.json](./410184-flightless-bug.json) |
 | Flightless Fighters | 391710 | [391710-flightless-fighters.json](./391710-flightless-fighters.json) |
