@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartographer | 199611 | [199611-cartographer.json](./199611-cartographer.json) |
 | Cartographers | 175748 | [175748-cartographers.json](./175748-cartographers.json) |
 | Cartomancy | 382554 | [382554-cartomancy.json](./382554-cartomancy.json) |
+| Cartomancy Anthology | 197482 | [197482-cartomancy-anthology.json](./197482-cartomancy-anthology.json) |
 | Cartomante | 138572 | [138572-cartomante.json](./138572-cartomante.json) |
 | Cartomantic | 338717 | [338717-cartomantic.json](./338717-cartomantic.json) |
 | Carton | 31211 | [31211-carton.json](./31211-carton.json) |
@@ -11620,6 +11621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concrete | 312181 | [312181-concrete.json](./312181-concrete.json) |
 | Concrete and Steel | 33460 | [33460-concrete-and-steel.json](./33460-concrete-and-steel.json) |
 | Concrete Burial | 414555 | [414555-concrete-burial.json](./414555-concrete-burial.json) |
+| Concrete Crown | 198039 | [198039-concrete-crown.json](./198039-concrete-crown.json) |
 | Concrete Genie: Digital Deluxe Edition | 132227 | [132227-concrete-genie-digital-deluxe-edition.json](./132227-concrete-genie-digital-deluxe-edition.json) |
 | Concrete Jungle | 14148 | [14148-concrete-jungle.json](./14148-concrete-jungle.json) |
 | Concrete Polishing Simulator | 418890 | [418890-concrete-polishing-simulator.json](./418890-concrete-polishing-simulator.json) |
@@ -11693,6 +11695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confined | 304138 | [304138-confined.json](./304138-confined.json) |
 | Confined Indorms | 185320 | [185320-confined-indorms.json](./185320-confined-indorms.json) |
 | Confined Space | 415101 | [415101-confined-space.json](./415101-confined-space.json) |
+| Confined with Goddesses | 198020 | [198020-confined-with-goddesses.json](./198020-confined-with-goddesses.json) |
 | Confined: Leaving OKB-134 | 291489 | [291489-confined-leaving-okb-134.json](./291489-confined-leaving-okb-134.json) |
 | Confinement Community Project | 312891 | [312891-confinement-community-project.json](./312891-confinement-community-project.json) |
 | Confinium | 184336 | [184336-confinium.json](./184336-confinium.json) |
@@ -12381,6 +12384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook OL | 288908 | [288908-cook-ol.json](./288908-cook-ol.json) |
 | Cook or Be Cooked | 361825 | [361825-cook-or-be-cooked.json](./361825-cook-or-be-cooked.json) |
 | Cook Out! | 250045 | [250045-cook-out.json](./250045-cook-out.json) |
+| Cook Serve Forever | 198021 | [198021-cook-serve-forever.json](./198021-cook-serve-forever.json) |
 | Cook with Card | 406724 | [406724-cook-with-card.json](./406724-cook-with-card.json) |
 | Cook-A-Geddon | 265433 | [265433-cook-a-geddon.json](./265433-cook-a-geddon.json) |
 | Cook-Off Party | 50688 | [50688-cook-off-party.json](./50688-cook-off-party.json) |
@@ -14679,6 +14683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Plant Shop | 17214 | [17214-crazy-plant-shop.json](./17214-crazy-plant-shop.json) |
 | Crazy Plus | 264781 | [264781-crazy-plus.json](./264781-crazy-plus.json) |
 | Crazy Pocket | 413613 | [413613-crazy-pocket.json](./413613-crazy-pocket.json) |
+| Crazy Pong | 198015 | [198015-crazy-pong.json](./198015-crazy-pong.json) |
 | Crazy Power Disc Perfect | 62661 | [62661-crazy-power-disc-perfect.json](./62661-crazy-power-disc-perfect.json) |
 | Crazy Prisoner | 243579 | [243579-crazy-prisoner.json](./243579-crazy-prisoner.json) |
 | Crazy Projectile | 143966 | [143966-crazy-projectile.json](./143966-crazy-projectile.json) |
