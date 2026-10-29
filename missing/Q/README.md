@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of Zarkov | 173288 | [173288-queen-of-zarkov.json](./173288-queen-of-zarkov.json) |
 | Queen Pirate: Love Adrift | 298992 | [298992-queen-pirate-love-adrift.json](./298992-queen-pirate-love-adrift.json) |
 | Queen Rules | 144057 | [144057-queen-rules.json](./144057-queen-rules.json) |
+| Queen Sized | 185870 | [185870-queen-sized.json](./185870-queen-sized.json) |
 | Queen Slayer | 311590 | [311590-queen-slayer.json](./311590-queen-slayer.json) |
 | Queen Wanda | 293352 | [293352-queen-wanda.json](./293352-queen-wanda.json) |
 | Queen,Don't be afraid | 294365 | [294365-queen-dont-be-afraid.json](./294365-queen-dont-be-afraid.json) |
