@@ -1126,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1775: Rebellion | 34000 | [34000-1775-rebellion.json](./34000-1775-rebellion.json) |
 | 1775: Rebellion - Southern Theatre Scenario | 168108 | [168108-1775-rebellion-southern-theatre-scenario.json](./168108-1775-rebellion-southern-theatre-scenario.json) |
 | 18 Cadence | 63378 | [63378-18-cadence.json](./63378-18-cadence.json) |
+| 18 Dreamers | 214285 | [214285-18-dreamers.json](./214285-18-dreamers.json) |
 | 18 Holes Pro Golf | 313989 | [313989-18-holes-pro-golf.json](./313989-18-holes-pro-golf.json) |
 | 18 Rooms to Home | 58700 | [58700-18-rooms-to-home.json](./58700-18-rooms-to-home.json) |
 | 18 Wheeler: American Pro Trucker | 3706 | [3706-18-wheeler-american-pro-trucker.json](./3706-18-wheeler-american-pro-trucker.json) |
