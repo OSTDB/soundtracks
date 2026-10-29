@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R00m | 199862 | [199862-r00m.json](./199862-r00m.json) |
 | R0x | 182917 | [182917-r0x.json](./182917-r0x.json) |
 | R2 Online: Reign of Revolution | 91269 | [91269-r2-online-reign-of-revolution.json](./91269-r2-online-reign-of-revolution.json) |
+| R20 Moe Bomberman | 198066 | [198066-r20-moe-bomberman.json](./198066-r20-moe-bomberman.json) |
 | R2Beat | 108993 | [108993-r2beat.json](./108993-r2beat.json) |
 | R2D Tank | 40394 | [40394-r2d-tank.json](./40394-r2d-tank.json) |
 | R2R: Rewire to Revolt | 338333 | [338333-r2r-rewire-to-revolt.json](./338333-r2r-rewire-to-revolt.json) |
@@ -879,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid Manager | 197655 | [197655-raid-manager.json](./197655-raid-manager.json) |
 | Raid of Battlefield | 212113 | [212113-raid-of-battlefield.json](./212113-raid-of-battlefield.json) |
 | Raid of Titan | 402422 | [402422-raid-of-titan.json](./402422-raid-of-titan.json) |
+| Raid Off! | 197476 | [197476-raid-off.json](./197476-raid-off.json) |
 | Raid on Bungeling Bay | 24664 | [24664-raid-on-bungeling-bay.json](./24664-raid-on-bungeling-bay.json) |
 | Raid on Bungeling Bay | 287592 | [287592-raid-on-bungeling-bay.json](./287592-raid-on-bungeling-bay.json) |
 | Raid on Coasts | 51574 | [51574-raid-on-coasts.json](./51574-raid-on-coasts.json) |
@@ -9804,6 +9806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose Guns Days: Season 2 | 408960 | [408960-rose-guns-days-season-2.json](./408960-rose-guns-days-season-2.json) |
 | Rose Hips | 395037 | [395037-rose-hips.json](./395037-rose-hips.json) |
 | Rose in the Embers | 238910 | [238910-rose-in-the-embers.json](./238910-rose-in-the-embers.json) |
+| Rose O'Neill Kewpie Bomberman | 198036 | [198036-rose-oneill-kewpie-bomberman.json](./198036-rose-oneill-kewpie-bomberman.json) |
 | Rose of Longevity | 326822 | [326822-rose-of-longevity.json](./326822-rose-of-longevity.json) |
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
 | Rose of Wind | 365613 | [365613-rose-of-wind.json](./365613-rose-of-wind.json) |
