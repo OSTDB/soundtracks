@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Have No Change | 348311 | [348311-i-have-no-change.json](./348311-i-have-no-change.json) |
 | I Have No Mouth, and I Must Scream | 7578 | [7578-i-have-no-mouth-and-i-must-scream.json](./7578-i-have-no-mouth-and-i-must-scream.json) |
 | I Have No Nose and I Must Climb | 244345 | [244345-i-have-no-nose-and-i-must-climb.json](./244345-i-have-no-nose-and-i-must-climb.json) |
+| I Have No Weapons | 189822 | [189822-i-have-no-weapons.json](./189822-i-have-no-weapons.json) |
 | I Have One Day | 320247 | [320247-i-have-one-day.json](./320247-i-have-one-day.json) |
 | I Have Powers! | 149325 | [149325-i-have-powers.json](./149325-i-have-powers.json) |
 | I Hear the Forest | 414146 | [414146-i-hear-the-forest.json](./414146-i-hear-the-forest.json) |
