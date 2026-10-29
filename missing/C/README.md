@@ -8344,6 +8344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clarent Saga: Chronicles | 189023 | [189023-clarent-saga-chronicles.json](./189023-clarent-saga-chronicles.json) |
 | Clarent Saga: Mana Chapter 0 | 264767 | [264767-clarent-saga-mana-chapter-0.json](./264767-clarent-saga-mana-chapter-0.json) |
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
+| Clarice: The Storyteller | 216597 | [216597-clarice-the-storyteller.json](./216597-clarice-the-storyteller.json) |
 | Clarisse | 56425 | [56425-clarisse.json](./56425-clarisse.json) |
 | Clarity of the Soul | 181001 | [181001-clarity-of-the-soul.json](./181001-clarity-of-the-soul.json) |
 | Clarity: The Seven Demons of Vanguardia | 262791 | [262791-clarity-the-seven-demons-of-vanguardia.json](./262791-clarity-the-seven-demons-of-vanguardia.json) |
@@ -9801,6 +9802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee & Boobs: Raiders of the Witch’s Elixir | 372184 | [372184-coffee-and-boobs-raiders-of-the-witch-s-elixir.json](./372184-coffee-and-boobs-raiders-of-the-witch-s-elixir.json) |
 | Coffee Addict | 62808 | [62808-coffee-addict.json](./62808-coffee-addict.json) |
 | Coffee At Night | 339351 | [339351-coffee-at-night.json](./339351-coffee-at-night.json) |
+| Coffee Bar Renovator | 216608 | [216608-coffee-bar-renovator.json](./216608-coffee-bar-renovator.json) |
 | Coffee Bar Simulator | 373269 | [373269-coffee-bar-simulator.json](./373269-coffee-bar-simulator.json) |
 | Coffee Brakes | 276207 | [276207-coffee-brakes.json](./276207-coffee-brakes.json) |
 | Coffee Break | 261180 | [261180-coffee-break.json](./261180-coffee-break.json) |
