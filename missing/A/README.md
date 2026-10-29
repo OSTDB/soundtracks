@@ -3086,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Field 5 | 235367 | [235367-adventure-field-5.json](./235367-adventure-field-5.json) |
 | Adventure Flashback Blast! | 304290 | [304290-adventure-flashback-blast.json](./304290-adventure-flashback-blast.json) |
 | Adventure Forest: Rabbit Story | 309475 | [309475-adventure-forest-rabbit-story.json](./309475-adventure-forest-rabbit-story.json) |
+| Adventure Forever | 207615 | [207615-adventure-forever.json](./207615-adventure-forever.json) |
 | Adventure Galaxy | 126585 | [126585-adventure-galaxy.json](./126585-adventure-galaxy.json) |
 | Adventure Hero | 105310 | [105310-adventure-hero.json](./105310-adventure-hero.json) |
 | Adventure II | 284228 | [284228-adventure-ii.json](./284228-adventure-ii.json) |
@@ -5303,6 +5304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ala Mobile GP | 175736 | [175736-ala-mobile-gp.json](./175736-ala-mobile-gp.json) |
 | Alaa: Mogus Must Die | 283885 | [283885-alaa-mogus-must-die.json](./283885-alaa-mogus-must-die.json) |
 | Alabama Bones | 119420 | [119420-alabama-bones.json](./119420-alabama-bones.json) |
+| Alabama Bones Adventures | 207623 | [207623-alabama-bones-adventures.json](./207623-alabama-bones-adventures.json) |
 | Alabama Meets Will Vi | 387136 | [387136-alabama-meets-will-vi.json](./387136-alabama-meets-will-vi.json) |
 | Alabama Smith in Escape from Pompeii | 52384 | [52384-alabama-smith-in-escape-from-pompeii.json](./52384-alabama-smith-in-escape-from-pompeii.json) |
 | Alabama Smith: Escape from Pompeii | 176893 | [176893-alabama-smith-escape-from-pompeii.json](./176893-alabama-smith-escape-from-pompeii.json) |
@@ -5383,6 +5385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albert and Camille's Little Lille Adventure | 192708 | [192708-albert-and-camilles-little-lille-adventure.json](./192708-albert-and-camilles-little-lille-adventure.json) |
 | Albert and Otto: The Adventure Begins | 13223 | [13223-albert-and-otto-the-adventure-begins.json](./13223-albert-and-otto-the-adventure-begins.json) |
 | Albert and Puzzle Mansion | 203788 | [203788-albert-and-puzzle-mansion.json](./203788-albert-and-puzzle-mansion.json) |
+| Albert Innovation | 207652 | [207652-albert-innovation.json](./207652-albert-innovation.json) |
 | Albert Mort: Desert Heat | 51510 | [51510-albert-mort-desert-heat.json](./51510-albert-mort-desert-heat.json) |
 | Albert Odyssey | 15889 | [15889-albert-odyssey.json](./15889-albert-odyssey.json) |
 | Albert Odyssey 2: Jashin no Taidou | 38346 | [38346-albert-odyssey-2-jashin-no-taidou.json](./38346-albert-odyssey-2-jashin-no-taidou.json) |
