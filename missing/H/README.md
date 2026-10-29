@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hal Wrestling | 48993 | [48993-hal-wrestling.json](./48993-hal-wrestling.json) |
 | HAL_Ver99 | 285373 | [285373-hal-ver99.json](./285373-hal-ver99.json) |
 | HAL's Hole in One Golf | 3653 | [3653-hals-hole-in-one-golf.json](./3653-hals-hole-in-one-golf.json) |
+| Halberd Black | 211548 | [211548-halberd-black.json](./211548-halberd-black.json) |
 | Halchemist | 264571 | [264571-halchemist.json](./264571-halchemist.json) |
 | Halcyon | 134357 | [134357-halcyon.json](./134357-halcyon.json) |
 | Halcyon | 201627 | [201627-halcyon.json](./201627-halcyon.json) |
@@ -3813,6 +3814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellish Fright & Burgers | 380785 | [380785-hellish-fright-and-burgers.json](./380785-hellish-fright-and-burgers.json) |
 | Hellish Inc. | 77425 | [77425-hellish-inc.json](./77425-hellish-inc.json) |
 | Hellish Quart | 139472 | [139472-hellish-quart.json](./139472-hellish-quart.json) |
+| Hellist | 211550 | [211550-hellist.json](./211550-hellist.json) |
 | Hellivery | 364676 | [364676-hellivery.json](./364676-hellivery.json) |
 | Hellkick | 418557 | [418557-hellkick.json](./418557-hellkick.json) |
 | Hellkid: Hook & Jump | 184071 | [184071-hellkid-hook-and-jump.json](./184071-hellkid-hook-and-jump.json) |
@@ -5224,6 +5226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Journey | 216013 | [216013-heros-journey.json](./216013-heros-journey.json) |
 | Hero's Journey | 368005 | [368005-heros-journey.json](./368005-heros-journey.json) |
 | Hero's Odyssey | 330675 | [330675-heros-odyssey.json](./330675-heros-odyssey.json) |
+| Hero's Party R | 211566 | [211566-heros-party-r.json](./211566-heros-party-r.json) |
 | Hero's Puzzle Path | 57572 | [57572-heros-puzzle-path.json](./57572-heros-puzzle-path.json) |
 | Hero's Quest: Automatic Roguelite RPG | 199663 | [199663-heros-quest-automatic-roguelite-rpg.json](./199663-heros-quest-automatic-roguelite-rpg.json) |
 | Hero's Quest: Lost Memories | 251836 | [251836-heros-quest-lost-memories.json](./251836-heros-quest-lost-memories.json) |
