@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EdoPro | 234123 | [234123-edopro.json](./234123-edopro.json) |
 | Edouard Roivas: The Eye of Law | 310413 | [310413-edouard-roivas-the-eye-of-law.json](./310413-edouard-roivas-the-eye-of-law.json) |
 | EDP 445 Simulator | 370078 | [370078-edp-445-simulator.json](./370078-edp-445-simulator.json) |
+| Edrick's Conquest | 198041 | [198041-edricks-conquest.json](./198041-edricks-conquest.json) |
 | Edtris 2600 | 78031 | [78031-edtris-2600.json](./78031-edtris-2600.json) |
 | Edu Simulator | 408043 | [408043-edu-simulator.json](./408043-edu-simulator.json) |
 | Eduardo the Samurai Toaster | 21193 | [21193-eduardo-the-samurai-toaster.json](./21193-eduardo-the-samurai-toaster.json) |
@@ -1805,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldermyth | 419968 | [419968-eldermyth.json](./419968-eldermyth.json) |
 | Elders K.O. | 398379 | [398379-elders-k-o.json](./398379-elders-k-o.json) |
 | Eldertal | 422699 | [422699-eldertal.json](./422699-eldertal.json) |
+| Eldertrail | 197489 | [197489-eldertrail.json](./197489-eldertrail.json) |
 | Eldervale | 118089 | [118089-eldervale.json](./118089-eldervale.json) |
 | Eldervire | 414218 | [414218-eldervire.json](./414218-eldervire.json) |
 | Elderwood Online | 291879 | [291879-elderwood-online.json](./291879-elderwood-online.json) |
@@ -2995,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty Town | 102293 | [102293-empty-town.json](./102293-empty-town.json) |
 | Empty Universe | 129464 | [129464-empty-universe.json](./129464-empty-universe.json) |
 | Empty Void | 183785 | [183785-empty-void.json](./183785-empty-void.json) |
+| Empty War | 197485 | [197485-empty-war.json](./197485-empty-war.json) |
 | Empty World | 365768 | [365768-empty-world.json](./365768-empty-world.json) |
 | Empty. | 134449 | [134449-empty.json](./134449-empty.json) |
 | Empulse | 402471 | [402471-empulse.json](./402471-empulse.json) |
@@ -3558,6 +3561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engels met Rayman + Frans met Rayman | 193349 | [193349-engels-met-rayman-frans-met-rayman.json](./193349-engels-met-rayman-frans-met-rayman.json) |
 | Engie Benjy: Time for Teamwork! | 325255 | [325255-engie-benjy-time-for-teamwork.json](./325255-engie-benjy-time-for-teamwork.json) |
 | Engine Eternal | 347297 | [347297-engine-eternal.json](./347297-engine-eternal.json) |
+| Engine Evolution 2022 | 197496 | [197496-engine-evolution-2022.json](./197496-engine-evolution-2022.json) |
 | Engine Evolution 2023 | 226808 | [226808-engine-evolution-2023.json](./226808-engine-evolution-2023.json) |
 | Engine of Chaos | 405866 | [405866-engine-of-chaos.json](./405866-engine-of-chaos.json) |
 | Engine Roar | 238475 | [238475-engine-roar.json](./238475-engine-roar.json) |
@@ -4824,6 +4828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Road 2 | 327733 | [327733-escape-road-2.json](./327733-escape-road-2.json) |
 | Escape Room | 76510 | [76510-escape-room.json](./76510-escape-room.json) |
 | Escape Room | 90637 | [90637-escape-room.json](./90637-escape-room.json) |
+| Escape Room Academy | 197502 | [197502-escape-room-academy.json](./197502-escape-room-academy.json) |
 | Escape Room Autumn | 224057 | [224057-escape-room-autumn.json](./224057-escape-room-autumn.json) |
 | Escape Room Bundle Triple Pack | 266639 | [266639-escape-room-bundle-triple-pack.json](./266639-escape-room-bundle-triple-pack.json) |
 | Escape Room Clock Tower | 193838 | [193838-escape-room-clock-tower.json](./193838-escape-room-clock-tower.json) |
@@ -5397,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Return: Beachside Splash Character Bundle | 226790 | [226790-eternal-return-beachside-splash-character-bundle.json](./226790-eternal-return-beachside-splash-character-bundle.json) |
 | Eternal Return: Character Bundle 1 | 225947 | [225947-eternal-return-character-bundle-1.json](./225947-eternal-return-character-bundle-1.json) |
 | Eternal Return: Character Bundle 2 | 225948 | [225948-eternal-return-character-bundle-2.json](./225948-eternal-return-character-bundle-2.json) |
+| Eternal Return: Character Pack | 197473 | [197473-eternal-return-character-pack.json](./197473-eternal-return-character-pack.json) |
 | Eternal Ring | 10905 | [10905-eternal-ring.json](./10905-eternal-ring.json) |
 | Eternal Rising | 244175 | [244175-eternal-rising.json](./244175-eternal-rising.json) |
 | Eternal Roadster | 244097 | [244097-eternal-roadster.json](./244097-eternal-roadster.json) |
@@ -5495,6 +5501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethereal Enigma | 120480 | [120480-ethereal-enigma.json](./120480-ethereal-enigma.json) |
 | Ethereal Fracture | 295747 | [295747-ethereal-fracture.json](./295747-ethereal-fracture.json) |
 | Ethereal Legends | 33892 | [33892-ethereal-legends.json](./33892-ethereal-legends.json) |
+| Ethereal Rift | 197520 | [197520-ethereal-rift.json](./197520-ethereal-rift.json) |
 | Ethereal Storm | 405045 | [405045-ethereal-storm.json](./405045-ethereal-storm.json) |
 | Ethereal: Clash of Souls | 127325 | [127325-ethereal-clash-of-souls.json](./127325-ethereal-clash-of-souls.json) |
 | Ethereal: New Moon | 244779 | [244779-ethereal-new-moon.json](./244779-ethereal-new-moon.json) |
@@ -6951,6 +6958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expeditions: A MudRunner Game - Year 1 Edition | 287135 | [287135-expeditions-a-mudrunner-game-year-1-edition.json](./287135-expeditions-a-mudrunner-game-year-1-edition.json) |
 | Expeditions: A MudRunner Game - Year 1 Pass | 287136 | [287136-expeditions-a-mudrunner-game-year-1-pass.json](./287136-expeditions-a-mudrunner-game-year-1-pass.json) |
 | Expeditions: Rome | 146650 | [146650-expeditions-rome.json](./146650-expeditions-rome.json) |
+| Expeditions: Rome - Death or Glory | 197490 | [197490-expeditions-rome-death-or-glory.json](./197490-expeditions-rome-death-or-glory.json) |
 | Expeditions: Samurai | 404904 | [404904-expeditions-samurai.json](./404904-expeditions-samurai.json) |
 | Expel | 156947 | [156947-expel.json](./156947-expel.json) |
 | Expel | 246827 | [246827-expel.json](./246827-expel.json) |
