@@ -6077,6 +6077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Luck Have Fun | 202723 | [202723-good-luck-have-fun.json](./202723-good-luck-have-fun.json) |
 | Good Luck Seducing an Ace Witch | 310520 | [310520-good-luck-seducing-an-ace-witch.json](./310520-good-luck-seducing-an-ace-witch.json) |
 | Good Luck, Little Truck! | 422106 | [422106-good-luck-little-truck.json](./422106-good-luck-little-truck.json) |
+| Good Luck, Stay Safe | 217118 | [217118-good-luck-stay-safe.json](./217118-good-luck-stay-safe.json) |
 | Good Mahjong | 88276 | [88276-good-mahjong.json](./88276-good-mahjong.json) |
 | Good Morgan Eve | 332443 | [332443-good-morgan-eve.json](./332443-good-morgan-eve.json) |
 | Good Morning | 381133 | [381133-good-morning.json](./381133-good-morning.json) |
@@ -6573,6 +6574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grab Lab | 104534 | [104534-grab-lab.json](./104534-grab-lab.json) |
 | Grab Man | 305457 | [305457-grab-man.json](./305457-grab-man.json) |
 | Grab Man | 47264 | [47264-grab-man.json](./47264-grab-man.json) |
+| Grab n' Throw | 217151 | [217151-grab-n-throw.json](./217151-grab-n-throw.json) |
 | Grab the Apple | 266130 | [266130-grab-the-apple.json](./266130-grab-the-apple.json) |
 | Grab the Goblins! | 250650 | [250650-grab-the-goblins.json](./250650-grab-the-goblins.json) |
 | Grab the Mask | 121546 | [121546-grab-the-mask.json](./121546-grab-the-mask.json) |
@@ -8855,6 +8857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Greyrock: Card Pack - Sunfall Vale | 335309 | [335309-guardians-of-greyrock-card-pack-sunfall-vale.json](./335309-guardians-of-greyrock-card-pack-sunfall-vale.json) |
 | Guardians of Greyrock: Card Pack - The Dying Forest | 335310 | [335310-guardians-of-greyrock-card-pack-the-dying-forest.json](./335310-guardians-of-greyrock-card-pack-the-dying-forest.json) |
 | Guardians of Greyrock: Card Pack - Traps And Treasure | 335314 | [335314-guardians-of-greyrock-card-pack-traps-and-treasure.json](./335314-guardians-of-greyrock-card-pack-traps-and-treasure.json) |
+| Guardians of Gridvale | 217113 | [217113-guardians-of-gridvale.json](./217113-guardians-of-gridvale.json) |
 | Guardians of Lodino Forest | 138672 | [138672-guardians-of-lodino-forest.json](./138672-guardians-of-lodino-forest.json) |
 | Guardians of Magic: Amanda's Awakening | 19315 | [19315-guardians-of-magic-amandas-awakening.json](./19315-guardians-of-magic-amandas-awakening.json) |
 | Guardians of Middle Earth: Mithril Edition | 53068 | [53068-guardians-of-middle-earth-mithril-edition.json](./53068-guardians-of-middle-earth-mithril-edition.json) |
