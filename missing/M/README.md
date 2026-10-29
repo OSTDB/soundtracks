@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MacMan And The Caber Eater | 314495 | [314495-macman-and-the-caber-eater.json](./314495-macman-and-the-caber-eater.json) |
 | MacMan And The Great Escape | 314496 | [314496-macman-and-the-great-escape.json](./314496-macman-and-the-great-escape.json) |
 | MacNinja | 63661 | [63661-macninja.json](./63661-macninja.json) |
+| MacPlaymate | 209294 | [209294-macplaymate.json](./209294-macplaymate.json) |
 | Macro Data Refinement Simulator | 388978 | [388978-macro-data-refinement-simulator.json](./388978-macro-data-refinement-simulator.json) |
 | Macro Data Refinement Simulator: Shapes | 333778 | [333778-macro-data-refinement-simulator-shapes.json](./333778-macro-data-refinement-simulator-shapes.json) |
 | Macro golf | 169772 | [169772-macro-golf.json](./169772-macro-golf.json) |
@@ -6812,6 +6813,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network Legacy Collection Vol. 1 | 206844 | [206844-mega-man-battle-network-legacy-collection-vol-1.json](./206844-mega-man-battle-network-legacy-collection-vol-1.json) |
 | Mega Man Battle Network Mashup | 417326 | [417326-mega-man-battle-network-mashup.json](./417326-mega-man-battle-network-mashup.json) |
 | Mega Man CD: Rock Version | 323330 | [323330-mega-man-cd-rock-version.json](./323330-mega-man-cd-rock-version.json) |
+| Mega Man Christmas Carol 2 | 209265 | [209265-mega-man-christmas-carol-2.json](./209265-mega-man-christmas-carol-2.json) |
+| Mega Man Christmas Carol 3 | 209266 | [209266-mega-man-christmas-carol-3.json](./209266-mega-man-christmas-carol-3.json) |
+| Mega Man Christmas Carol Remix | 209264 | [209264-mega-man-christmas-carol-remix.json](./209264-mega-man-christmas-carol-remix.json) |
 | Mega Man CX | 45187 | [45187-mega-man-cx.json](./45187-mega-man-cx.json) |
 | Mega Man Cyber Wave Pack | 409541 | [409541-mega-man-cyber-wave-pack.json](./409541-mega-man-cyber-wave-pack.json) |
 | Mega Man Dongs | 282810 | [282810-mega-man-dongs.json](./282810-mega-man-dongs.json) |
@@ -6839,6 +6843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Perfect Harmony | 210481 | [210481-mega-man-perfect-harmony.json](./210481-mega-man-perfect-harmony.json) |
 | Mega Man Polarity Reconstruction | 210483 | [210483-mega-man-polarity-reconstruction.json](./210483-mega-man-polarity-reconstruction.json) |
 | Mega Man Powered Up | 12937 | [12937-mega-man-powered-up.json](./12937-mega-man-powered-up.json) |
+| Mega Man Ram | 209252 | [209252-mega-man-ram.json](./209252-mega-man-ram.json) |
 | Mega Man Redux | 45189 | [45189-mega-man-redux.json](./45189-mega-man-redux.json) |
 | Mega Man Revamped | 391132 | [391132-mega-man-revamped.json](./391132-mega-man-revamped.json) |
 | Mega Man Revolution | 102071 | [102071-mega-man-revolution.json](./102071-mega-man-revolution.json) |
@@ -6965,6 +6970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man ZX Prequel | 311210 | [311210-mega-man-zx-prequel.json](./311210-mega-man-zx-prequel.json) |
 | Mega Man ZX Zeta | 334149 | [334149-mega-man-zx-zeta.json](./334149-mega-man-zx-zeta.json) |
 | Mega Man: Day in the Limelight | 261435 | [261435-mega-man-day-in-the-limelight.json](./261435-mega-man-day-in-the-limelight.json) |
+| Mega Man: Day in the Limelight 2 | 209262 | [209262-mega-man-day-in-the-limelight-2.json](./209262-mega-man-day-in-the-limelight-2.json) |
 | Mega Man: Day in the Limelight 3 | 323040 | [323040-mega-man-day-in-the-limelight-3.json](./323040-mega-man-day-in-the-limelight-3.json) |
 | Mega Man: Dr Wily Visits Indonesia | 356694 | [356694-mega-man-dr-wily-visits-indonesia.json](./356694-mega-man-dr-wily-visits-indonesia.json) |
 | Mega Man: Dual Override | 381249 | [381249-mega-man-dual-override.json](./381249-mega-man-dual-override.json) |
@@ -16657,6 +16663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mulheres na taverna | 381307 | [381307-mulheres-na-taverna.json](./381307-mulheres-na-taverna.json) |
 | Mulite Spellsword | 188395 | [188395-mulite-spellsword.json](./188395-mulite-spellsword.json) |
 | Mulite Sword Man | 126849 | [126849-mulite-sword-man.json](./126849-mulite-sword-man.json) |
+| Mulk & Swank: Great Adventure in Magic World | 209289 | [209289-mulk-and-swank-great-adventure-in-magic-world.json](./209289-mulk-and-swank-great-adventure-in-magic-world.json) |
 | Mullet Hell | 233596 | [233596-mullet-hell.json](./233596-mullet-hell.json) |
 | Mullet Madjack: Deluxe Edition | 318218 | [318218-mullet-madjack-deluxe-edition.json](./318218-mullet-madjack-deluxe-edition.json) |
 | Multi Cheetah Speed hero Vs Wild Animals | 95795 | [95795-multi-cheetah-speed-hero-vs-wild-animals.json](./95795-multi-cheetah-speed-hero-vs-wild-animals.json) |
