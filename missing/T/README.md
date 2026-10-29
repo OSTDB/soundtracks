@@ -1694,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Commander | 79073 | [79073-tank-commander.json](./79073-tank-commander.json) |
 | Tank Commander: Battlefield | 384164 | [384164-tank-commander-battlefield.json](./384164-tank-commander-battlefield.json) |
 | Tank Commando 3D | 184947 | [184947-tank-commando-3d.json](./184947-tank-commando-3d.json) |
+| Tank De La Muerta | 178796 | [178796-tank-de-la-muerta.json](./178796-tank-de-la-muerta.json) |
 | Tank Defender | 187895 | [187895-tank-defender.json](./187895-tank-defender.json) |
 | Tank Defense Division | 31760 | [31760-tank-defense-division.json](./31760-tank-defense-division.json) |
 | Tank Domination | 343877 | [343877-tank-domination.json](./343877-tank-domination.json) |
@@ -10427,6 +10428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kitten Game | 409370 | [409370-the-kitten-game.json](./409370-the-kitten-game.json) |
 | The Kitty in the Trapping Garden | 273316 | [273316-the-kitty-in-the-trapping-garden.json](./273316-the-kitty-in-the-trapping-garden.json) |
 | The Klaxo Radio Hour | 122846 | [122846-the-klaxo-radio-hour.json](./122846-the-klaxo-radio-hour.json) |
+| The Knife of the Traitor | 178802 | [178802-the-knife-of-the-traitor.json](./178802-the-knife-of-the-traitor.json) |
 | The Knight | 234449 | [234449-the-knight.json](./234449-the-knight.json) |
 | The Knight Dance | 301377 | [301377-the-knight-dance.json](./301377-the-knight-dance.json) |
 | The Knight in Pajamas | 352314 | [352314-the-knight-in-pajamas.json](./352314-the-knight-in-pajamas.json) |
@@ -13404,6 +13406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prince Edward | 256314 | [256314-the-prince-edward.json](./256314-the-prince-edward.json) |
 | The Prince is a 10, But... | 395850 | [395850-the-prince-is-a-10-but.json](./395850-the-prince-is-a-10-but.json) |
 | The Prince is Dead | 239877 | [239877-the-prince-is-dead.json](./239877-the-prince-is-dead.json) |
+| The Prince of Landis | 178791 | [178791-the-prince-of-landis.json](./178791-the-prince-of-landis.json) |
 | The Prince of Tennis: Doki Doki Survival - Eternal Passion! Tie Break Game | 395102 | [395102-the-prince-of-tennis-doki-doki-survival-eternal-passion-tie-break-game.json](./395102-the-prince-of-tennis-doki-doki-survival-eternal-passion-tie-break-game.json) |
 | The Prince of Tennis: Sweet School Festival 0-40 and more… | 395097 | [395097-the-prince-of-tennis-sweet-school-festival-0-40-and-more.json](./395097-the-prince-of-tennis-sweet-school-festival-0-40-and-more.json) |
 | The Prince's Keeper | 412310 | [412310-the-princes-keeper.json](./412310-the-princes-keeper.json) |
@@ -13934,6 +13937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road Not Taken | 349968 | [349968-the-road-not-taken.json](./349968-the-road-not-taken.json) |
 | The Road of Dust and Sorrow | 361053 | [361053-the-road-of-dust-and-sorrow.json](./361053-the-road-of-dust-and-sorrow.json) |
 | The Road of Heroes | 282034 | [282034-the-road-of-heroes.json](./282034-the-road-of-heroes.json) |
+| The Road of Light | 178814 | [178814-the-road-of-light.json](./178814-the-road-of-light.json) |
 | The Road to 56 | 256449 | [256449-the-road-to-56.json](./256449-the-road-to-56.json) |
 | The Road to Baghdad | 24108 | [24108-the-road-to-baghdad.json](./24108-the-road-to-baghdad.json) |
 | The Road to Canterbury | 96661 | [96661-the-road-to-canterbury.json](./96661-the-road-to-canterbury.json) |
@@ -15001,6 +15005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Social Distance Game | 228387 | [228387-the-social-distance-game.json](./228387-the-social-distance-game.json) |
 | The Social Engineer | 286221 | [286221-the-social-engineer.json](./286221-the-social-engineer.json) |
 | The Social Grip: Llama Drama | 406766 | [406766-the-social-grip-llama-drama.json](./406766-the-social-grip-llama-drama.json) |
+| The Sock Epic | 178805 | [178805-the-sock-epic.json](./178805-the-sock-epic.json) |
 | The Soft Rumor of Spreading Weeds | 394439 | [394439-the-soft-rumor-of-spreading-weeds.json](./394439-the-soft-rumor-of-spreading-weeds.json) |
 | The Sokoban | 175811 | [175811-the-sokoban.json](./175811-the-sokoban.json) |
 | The Sokpop Collection | 131559 | [131559-the-sokpop-collection.json](./131559-the-sokpop-collection.json) |
@@ -17568,6 +17573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Dug Too Deep | 258974 | [258974-they-dug-too-deep.json](./258974-they-dug-too-deep.json) |
 | They Fear The Mist | 292536 | [292536-they-fear-the-mist.json](./292536-they-fear-the-mist.json) |
 | They Grew Lungs and Drowned | 301326 | [301326-they-grew-lungs-and-drowned.json](./301326-they-grew-lungs-and-drowned.json) |
+| They Grow | 178820 | [178820-they-grow.json](./178820-they-grow.json) |
 | They Have Horns | 87555 | [87555-they-have-horns.json](./87555-they-have-horns.json) |
 | They Hunger 2: Rest in Pieces | 268005 | [268005-they-hunger-2-rest-in-pieces.json](./268005-they-hunger-2-rest-in-pieces.json) |
 | They Hunger 3: Rude Awakening | 268006 | [268006-they-hunger-3-rude-awakening.json](./268006-they-hunger-3-rude-awakening.json) |
