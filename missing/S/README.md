@@ -1464,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi Nendaiki DX | 290123 | [290123-sangokushi-nendaiki-dx.json](./290123-sangokushi-nendaiki-dx.json) |
 | Sangokushi Returns | 97459 | [97459-sangokushi-returns.json](./97459-sangokushi-returns.json) |
 | Sangokushi Rumble | 289002 | [289002-sangokushi-rumble.json](./289002-sangokushi-rumble.json) |
+| Sangokushi Sousouden | 213722 | [213722-sangokushi-sousouden.json](./213722-sangokushi-sousouden.json) |
 | Sangokushi Tactics | 341156 | [341156-sangokushi-tactics.json](./341156-sangokushi-tactics.json) |
 | Sangokushi Taisen | 27624 | [27624-sangokushi-taisen.json](./27624-sangokushi-taisen.json) |
 | Sangokushi Taisen 3 War Begins | 64974 | [64974-sangokushi-taisen-3-war-begins.json](./64974-sangokushi-taisen-3-war-begins.json) |
@@ -2287,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scapevale | 130669 | [130669-scapevale.json](./130669-scapevale.json) |
 | Scapewatch | 401089 | [401089-scapewatch.json](./401089-scapewatch.json) |
 | Scapular | 400285 | [400285-scapular.json](./400285-scapular.json) |
+| Scar in the Void | 213774 | [213774-scar-in-the-void.json](./213774-scar-in-the-void.json) |
 | Scar of the Doll: A Psycho-Horror Story about the Mystery of an Older Sister | 226338 | [226338-scar-of-the-doll-a-psycho-horror-story-about-the-mystery-of-an-older-sister.json](./226338-scar-of-the-doll-a-psycho-horror-story-about-the-mystery-of-an-older-sister.json) |
 | Scar-Lead Salvation | 329724 | [329724-scar-lead-salvation.json](./329724-scar-lead-salvation.json) |
 | Scarab | 84223 | [84223-scarab.json](./84223-scarab.json) |
@@ -2314,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scared of Zombies | 371860 | [371860-scared-of-zombies.json](./371860-scared-of-zombies.json) |
 | Scared Puppies | 423909 | [423909-scared-puppies.json](./423909-scared-puppies.json) |
 | Scared Rider Xechs + Stardust Lovers | 322811 | [322811-scared-rider-xechs-stardust-lovers.json](./322811-scared-rider-xechs-stardust-lovers.json) |
+| Scared Tube | 213751 | [213751-scared-tube.json](./213751-scared-tube.json) |
 | Scaredy Cat | 296348 | [296348-scaredy-cat.json](./296348-scaredy-cat.json) |
 | Scaredy Cat | 364862 | [364862-scaredy-cat.json](./364862-scaredy-cat.json) |
 | Scares on Halloween | 123601 | [123601-scares-on-halloween.json](./123601-scares-on-halloween.json) |
@@ -28123,6 +28126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid-Revamp | 377257 | [377257-super-metroid-revamp.json](./377257-super-metroid-revamp.json) |
 | Super Metroid: Airy | 255322 | [255322-super-metroid-airy.json](./255322-super-metroid-airy.json) |
 | Super Metroid: Ancient Chozo | 182259 | [182259-super-metroid-ancient-chozo.json](./182259-super-metroid-ancient-chozo.json) |
+| Super Metroid: Arrival | 213756 | [213756-super-metroid-arrival.json](./213756-super-metroid-arrival.json) |
 | Super Metroid: Ascent | 165374 | [165374-super-metroid-ascent.json](./165374-super-metroid-ascent.json) |
 | Super Metroid: Battle | 318017 | [318017-super-metroid-battle.json](./318017-super-metroid-battle.json) |
 | Super Metroid: Darkholme Hospital | 213039 | [213039-super-metroid-darkholme-hospital.json](./213039-super-metroid-darkholme-hospital.json) |
@@ -28135,6 +28139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Green Peace | 268411 | [268411-super-metroid-green-peace.json](./268411-super-metroid-green-peace.json) |
 | Super Metroid: Harvest | 268412 | [268412-super-metroid-harvest.json](./268412-super-metroid-harvest.json) |
 | Super Metroid: Hotlands | 222749 | [222749-super-metroid-hotlands.json](./222749-super-metroid-hotlands.json) |
+| Super Metroid: Hydellius | 213759 | [213759-super-metroid-hydellius.json](./213759-super-metroid-hydellius.json) |
 | Super Metroid: Ice Metal Uninstall | 198335 | [198335-super-metroid-ice-metal-uninstall.json](./198335-super-metroid-ice-metal-uninstall.json) |
 | Super Metroid: Less Linear Edition | 219087 | [219087-super-metroid-less-linear-edition.json](./219087-super-metroid-less-linear-edition.json) |
 | Super Metroid: Map Rando | 237534 | [237534-super-metroid-map-rando.json](./237534-super-metroid-map-rando.json) |
@@ -28151,6 +28156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Unhundred % | 223019 | [223019-super-metroid-unhundred.json](./223019-super-metroid-unhundred.json) |
 | Super Metroid: X-Fusion | 359002 | [359002-super-metroid-x-fusion.json](./359002-super-metroid-x-fusion.json) |
 | Super Metroid: Y-Faster | 304133 | [304133-super-metroid-y-faster.json](./304133-super-metroid-y-faster.json) |
+| Super Metroid: Z-Factor | 213755 | [213755-super-metroid-z-factor.json](./213755-super-metroid-z-factor.json) |
 | Super Miaoyin | 343816 | [343816-super-miaoyin.json](./343816-super-miaoyin.json) |
 | Super Mike: Classic Adventure Game | 199810 | [199810-super-mike-classic-adventure-game.json](./199810-super-mike-classic-adventure-game.json) |
 | Super Miller Land | 355998 | [355998-super-miller-land.json](./355998-super-miller-land.json) |
@@ -31366,6 +31372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syndeo-Complex | 226476 | [226476-syndeo-complex.json](./226476-syndeo-complex.json) |
 | Syndicate | 213568 | [213568-syndicate.json](./213568-syndicate.json) |
 | Syndicate | 213570 | [213570-syndicate.json](./213570-syndicate.json) |
+| Syndicate | 213754 | [213754-syndicate.json](./213754-syndicate.json) |
 | Syndicate | 213885 | [213885-syndicate.json](./213885-syndicate.json) |
 | Syndicate | 213886 | [213886-syndicate.json](./213886-syndicate.json) |
 | Syndicate | 49 | [49-syndicate.json](./49-syndicate.json) |
