@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachaminer | 180227 | [180227-gachaminer.json](./180227-gachaminer.json) |
 | Gachamon | 358267 | [358267-gachamon.json](./358267-gachamon.json) |
 | Gachapin & Mukku no Daiundoukai | 198194 | [198194-gachapin-and-mukku-no-daiundoukai.json](./198194-gachapin-and-mukku-no-daiundoukai.json) |
+| Gachapin Bomberman | 198038 | [198038-gachapin-bomberman.json](./198038-gachapin-bomberman.json) |
 | Gachapin Challenge DS | 124013 | [124013-gachapin-challenge-ds.json](./124013-gachapin-challenge-ds.json) |
 | Gachapin Nikki DS | 124012 | [124012-gachapin-nikki-ds.json](./124012-gachapin-nikki-ds.json) |
 | Gacharoku | 198090 | [198090-gacharoku.json](./198090-gacharoku.json) |
@@ -900,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galerians: Ash | 19629 | [19629-galerians-ash.json](./19629-galerians-ash.json) |
 | Galerians: Limited Edition | 146856 | [146856-galerians-limited-edition.json](./146856-galerians-limited-edition.json) |
 | Galerider | 110047 | [110047-galerider.json](./110047-galerider.json) |
+| Gales of Nayeli | 197512 | [197512-gales-of-nayeli.json](./197512-gales-of-nayeli.json) |
 | Galexia Educational Games | 106483 | [106483-galexia-educational-games.json](./106483-galexia-educational-games.json) |
 | Galf | 131401 | [131401-galf.json](./131401-galf.json) |
 | Galf Streem | 386936 | [386936-galf-streem.json](./386936-galf-streem.json) |
@@ -8024,6 +8026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridfall | 373119 | [373119-gridfall.json](./373119-gridfall.json) |
 | Gridfire | 84226 | [84226-gridfire.json](./84226-gridfire.json) |
 | Gridhack | 325507 | [325507-gridhack.json](./325507-gridhack.json) |
+| Gridheart | 198047 | [198047-gridheart.json](./198047-gridheart.json) |
 | Gridiron | 85968 | [85968-gridiron.json](./85968-gridiron.json) |
 | Gridiron Champions | 130407 | [130407-gridiron-champions.json](./130407-gridiron-champions.json) |
 | Gridiron Football League | 416118 | [416118-gridiron-football-league.json](./416118-gridiron-football-league.json) |
