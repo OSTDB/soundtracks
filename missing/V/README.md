@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vac Attack | 308488 | [308488-vac-attack.json](./308488-vac-attack.json) |
 | Vacancy Unlimited | 153956 | [153956-vacancy-unlimited.json](./153956-vacancy-unlimited.json) |
 | Vacant Ark | 266188 | [266188-vacant-ark.json](./266188-vacant-ark.json) |
+| Vacant Kingdom | 189845 | [189845-vacant-kingdom.json](./189845-vacant-kingdom.json) |
 | Vacant Planet | 195475 | [195475-vacant-planet.json](./195475-vacant-planet.json) |
 | Vacant Sky Vol. I: Contention | 83916 | [83916-vacant-sky-vol-i-contention.json](./83916-vacant-sky-vol-i-contention.json) |
 | Vacant's Mine | 289918 | [289918-vacants-mine.json](./289918-vacants-mine.json) |
@@ -2163,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vira | 244118 | [244118-vira.json](./244118-vira.json) |
 | Vira!!! | 389461 | [389461-vira.json](./389461-vira.json) |
 | Viractal: Will You Trust Your Party? | 341985 | [341985-viractal-will-you-trust-your-party.json](./341985-viractal-will-you-trust-your-party.json) |
+| Virago | 189823 | [189823-virago.json](./189823-virago.json) |
 | Virago World | 374738 | [374738-virago-world.json](./374738-virago-world.json) |
 | Virago: Herstory | 226184 | [226184-virago-herstory.json](./226184-virago-herstory.json) |
 | Virago: Herstory 2 | 374735 | [374735-virago-herstory-2.json](./374735-virago-herstory-2.json) |
@@ -2492,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VirtualBus | 383790 | [383790-virtualbus.json](./383790-virtualbus.json) |
 | VirtualBuster | 289915 | [289915-virtualbuster.json](./289915-virtualbuster.json) |
 | VirtualCast | 180212 | [180212-virtualcast.json](./180212-virtualcast.json) |
+| VirtualCop | 189818 | [189818-virtualcop.json](./189818-virtualcop.json) |
 | Virtuále: Heist Simulations | 338567 | [338567-virtuale-heist-simulations.json](./338567-virtuale-heist-simulations.json) |
 | Virtualis Galeria | 383505 | [383505-virtualis-galeria.json](./383505-virtualis-galeria.json) |
 | Virtuality | 182776 | [182776-virtuality.json](./182776-virtuality.json) |
