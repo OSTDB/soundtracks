@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haiku, the Baby Robot | 231993 | [231993-haiku-the-baby-robot.json](./231993-haiku-the-baby-robot.json) |
 | Haikyu!! Fly High | 358744 | [358744-haikyu-fly-high.json](./358744-haikyu-fly-high.json) |
 | Haikyu!! Tsunage! Itadaki no Keshiki!! | 136931 | [136931-haikyu-tsunage-itadaki-no-keshiki.json](./136931-haikyu-tsunage-itadaki-no-keshiki.json) |
+| Haikyuu Escape Room | 183185 | [183185-haikyuu-escape-room.json](./183185-haikyuu-escape-room.json) |
 | Haikyuu!! Cross Team Match! | 136910 | [136910-haikyuu-cross-team-match.json](./136910-haikyuu-cross-team-match.json) |
 | Haikyuu!! Donpisha Match!! | 196599 | [196599-haikyuu-donpisha-match.json](./196599-haikyuu-donpisha-match.json) |
 | Hail Britannia | 340408 | [340408-hail-britannia.json](./340408-hail-britannia.json) |
