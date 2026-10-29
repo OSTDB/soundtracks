@@ -5754,6 +5754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Problem | 326142 | [326142-reverse-problem.json](./326142-reverse-problem.json) |
 | Reverse Side | 17733 | [17733-reverse-side.json](./17733-reverse-side.json) |
 | Reverse Snake Extreme | 305823 | [305823-reverse-snake-extreme.json](./305823-reverse-snake-extreme.json) |
+| Reverse Twinkle | 206505 | [206505-reverse-twinkle.json](./206505-reverse-twinkle.json) |
 | Reverse Will | 277499 | [277499-reverse-will.json](./277499-reverse-will.json) |
 | Reverse Woman of Human Ball | 234270 | [234270-reverse-woman-of-human-ball.json](./234270-reverse-woman-of-human-ball.json) |
 | Reverse: 1999 | 188383 | [188383-reverse-1999.json](./188383-reverse-1999.json) |
@@ -5803,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revival Xanadu | 260750 | [260750-revival-xanadu.json](./260750-revival-xanadu.json) |
 | Revival Xanadu 2: Remix | 260751 | [260751-revival-xanadu-2-remix.json](./260751-revival-xanadu-2-remix.json) |
 | Revival: Recolonization | 201640 | [201640-revival-recolonization.json](./201640-revival-recolonization.json) |
+| Revival! Eggerland | 206515 | [206515-revival-eggerland.json](./206515-revival-eggerland.json) |
 | Revive | 186634 | [186634-revive.json](./186634-revive.json) |
 | Revive | 334183 | [334183-revive.json](./334183-revive.json) |
 | Revive & Repeat | 391731 | [391731-revive-and-repeat.json](./391731-revive-and-repeat.json) |
