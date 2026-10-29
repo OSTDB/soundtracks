@@ -2465,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3920,6 +3921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight of Legends | 199986 | [199986-knight-of-legends.json](./199986-knight-of-legends.json) |
 | Knight of Nevermore | 295899 | [295899-knight-of-nevermore.json](./295899-knight-of-nevermore.json) |
 | Knight of Noshland | 392091 | [392091-knight-of-noshland.json](./392091-knight-of-noshland.json) |
+| Knight of the Dead | 203640 | [203640-knight-of-the-dead.json](./203640-knight-of-the-dead.json) |
 | Knight of the Dungeon | 347566 | [347566-knight-of-the-dungeon.json](./347566-knight-of-the-dungeon.json) |
 | Knight Of The Earthends | 319835 | [319835-knight-of-the-earthends.json](./319835-knight-of-the-earthends.json) |
 | Knight of the Hamsters | 17939 | [17939-knight-of-the-hamsters.json](./17939-knight-of-the-hamsters.json) |
