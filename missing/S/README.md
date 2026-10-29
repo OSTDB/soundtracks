@@ -3434,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD The Great Battle: Aratanaru Chousen | 38321 | [38321-sd-the-great-battle-aratanaru-chousen.json](./38321-sd-the-great-battle-aratanaru-chousen.json) |
 | SD Ultraman's Challenge! Maze Island | 289756 | [289756-sd-ultramans-challenge-maze-island.json](./289756-sd-ultramans-challenge-maze-island.json) |
 | SDI | 12848 | [12848-sdi.json](./12848-sdi.json) |
+| SDI | 198646 | [198646-sdi.json](./198646-sdi.json) |
 | SDK Paint | 84860 | [84860-sdk-paint.json](./84860-sdk-paint.json) |
 | SDK Spriter | 84859 | [84859-sdk-spriter.json](./84859-sdk-spriter.json) |
 | SDS Star Divers | 242710 | [242710-sds-star-divers.json](./242710-sds-star-divers.json) |
@@ -4418,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Network Taisen Mahjong MJ4 | 165395 | [165395-sega-network-taisen-mahjong-mj4.json](./165395-sega-network-taisen-mahjong-mj4.json) |
 | Sega Puzzle Pack | 56839 | [56839-sega-puzzle-pack.json](./56839-sega-puzzle-pack.json) |
 | Sega Race TV | 19523 | [19523-sega-race-tv.json](./19523-sega-race-tv.json) |
+| Sega Raceway | 198636 | [198636-sega-raceway.json](./198636-sega-raceway.json) |
 | Sega Racing Classic | 67347 | [67347-sega-racing-classic.json](./67347-sega-racing-classic.json) |
 | Sega Rally 2 | 1572 | [1572-sega-rally-2.json](./1572-sega-rally-2.json) |
 | Sega Rally 2006 | 1573 | [1573-sega-rally-2006.json](./1573-sega-rally-2006.json) |
@@ -14012,6 +14014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soda-Powered Penguin | 216734 | [216734-soda-powered-penguin.json](./216734-soda-powered-penguin.json) |
 | Sodablood | 312174 | [312174-sodablood.json](./312174-sodablood.json) |
 | SodaCity | 33958 | [33958-sodacity.json](./33958-sodacity.json) |
+| Sodatete! Mushiking | 198649 | [198649-sodatete-mushiking.json](./198649-sodatete-mushiking.json) |
 | Sodden | 301236 | [301236-sodden.json](./301236-sodden.json) |
 | Sodium One | 45282 | [45282-sodium-one.json](./45282-sodium-one.json) |
 | SOE 64 | 401866 | [401866-soe-64.json](./401866-soe-64.json) |
@@ -21309,6 +21312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Striker | 384151 | [384151-star-striker.json](./384151-star-striker.json) |
 | Star Strikers: Galactic Soccer | 217191 | [217191-star-strikers-galactic-soccer.json](./217191-star-strikers-galactic-soccer.json) |
 | Star Struck | 78375 | [78375-star-struck.json](./78375-star-struck.json) |
+| Star Stuff | 198629 | [198629-star-stuff.json](./198629-star-stuff.json) |
 | Star Surfer | 236752 | [236752-star-surfer.json](./236752-star-surfer.json) |
 | Star Surveyor | 32760 | [32760-star-surveyor.json](./32760-star-surveyor.json) |
 | Star Survivor | 227443 | [227443-star-survivor.json](./227443-star-survivor.json) |
@@ -25468,6 +25472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine Terror | 269205 | [269205-submarine-terror.json](./269205-submarine-terror.json) |
 | Submarine Titans | 93354 | [93354-submarine-titans.json](./93354-submarine-titans.json) |
 | Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
+| Submarine Wars | 198651 | [198651-submarine-wars.json](./198651-submarine-wars.json) |
 | SubmarineCraft | 113183 | [113183-submarinecraft.json](./113183-submarinecraft.json) |
 | Submarines | 277915 | [277915-submarines.json](./277915-submarines.json) |
 | Submarines 2D | 301992 | [301992-submarines-2d.json](./301992-submarines-2d.json) |
@@ -28338,6 +28343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Momotaro Dentetsu II | 37810 | [37810-super-momotaro-dentetsu-ii.json](./37810-super-momotaro-dentetsu-ii.json) |
 | Super Momotaro Dentetsu III | 38343 | [38343-super-momotaro-dentetsu-iii.json](./38343-super-momotaro-dentetsu-iii.json) |
 | Super Momotarou Dentetsu III | 282486 | [282486-super-momotarou-dentetsu-iii.json](./282486-super-momotarou-dentetsu-iii.json) |
+| Super Monaco GP | 198652 | [198652-super-monaco-gp.json](./198652-super-monaco-gp.json) |
 | Super Monaco GP | 4528 | [4528-super-monaco-gp.json](./4528-super-monaco-gp.json) |
 | Super Monday Night Combat | 16255 | [16255-super-monday-night-combat.json](./16255-super-monday-night-combat.json) |
 | Super Monk War Z | 151038 | [151038-super-monk-war-z.json](./151038-super-monk-war-z.json) |
