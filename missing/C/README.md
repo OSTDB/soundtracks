@@ -10096,6 +10096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collar X Malice: Unlimited - Limited Edition | 136207 | [136207-collar-x-malice-unlimited-limited-edition.json](./136207-collar-x-malice-unlimited-limited-edition.json) |
 | Collared | 133984 | [133984-collared.json](./133984-collared.json) |
 | Collateral | 380080 | [380080-collateral.json](./380080-collateral.json) |
+| Collateral Damage | 228041 | [228041-collateral-damage.json](./228041-collateral-damage.json) |
 | Collateral Damages | 345925 | [345925-collateral-damages.json](./345925-collateral-damages.json) |
 | Collateral Damages 2 | 345927 | [345927-collateral-damages-2.json](./345927-collateral-damages-2.json) |
 | Collateral Dungeon | 290958 | [290958-collateral-dungeon.json](./290958-collateral-dungeon.json) |
