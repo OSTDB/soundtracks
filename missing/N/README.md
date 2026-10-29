@@ -779,6 +779,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | National Park Legend: Bigfoot | 101109 | [101109-national-park-legend-bigfoot.json](./101109-national-park-legend-bigfoot.json) |
 | National Quiz of Common Sense | 378823 | [378823-national-quiz-of-common-sense.json](./378823-national-quiz-of-common-sense.json) |
 | National Rugby Manager | 81005 | [81005-national-rugby-manager.json](./81005-national-rugby-manager.json) |
+| National Rugby Manager: European Rugby Pack | 227022 | [227022-national-rugby-manager-european-rugby-pack.json](./227022-national-rugby-manager-european-rugby-pack.json) |
+| National Rugby Manager: Southern Hemisphere Rugby Pack | 227021 | [227021-national-rugby-manager-southern-hemisphere-rugby-pack.json](./227021-national-rugby-manager-southern-hemisphere-rugby-pack.json) |
 | National Videogame Museum | 251545 | [251545-national-videogame-museum.json](./251545-national-videogame-museum.json) |
 | National Zombie Park | 36148 | [36148-national-zombie-park.json](./36148-national-zombie-park.json) |
 | Nationality Guesser | 340229 | [340229-nationality-guesser.json](./340229-nationality-guesser.json) |
