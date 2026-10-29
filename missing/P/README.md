@@ -9210,6 +9210,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Mobsters | 63146 | [63146-pocket-mobsters.json](./63146-pocket-mobsters.json) |
 | Pocket Monster | 196530 | [196530-pocket-monster.json](./196530-pocket-monster.json) |
 | Pocket Monsters Advanced Generation: Minna de Pico Pokémon Waiwai Battle! | 63048 | [63048-pocket-monsters-advanced-generation-minna-de-pico-pokemon-waiwai-battle.json](./63048-pocket-monsters-advanced-generation-minna-de-pico-pokemon-waiwai-battle.json) |
+| Pocket Monsters Advanced Generation: Pokémon Suuji Battle!! | 181505 | [181505-pocket-monsters-advanced-generation-pokemon-suuji-battle.json](./181505-pocket-monsters-advanced-generation-pokemon-suuji-battle.json) |
+| Pocket Monsters Best Wishes!: Chinou Ikusei - Pokémon Daiundoukai | 181507 | [181507-pocket-monsters-best-wishes-chinou-ikusei-pokemon-daiundoukai.json](./181507-pocket-monsters-best-wishes-chinou-ikusei-pokemon-daiundoukai.json) |
 | Pocket Monsters Diamond & Pearl: Pokémon wo Sagase! Meiro de Daibouken! | 125325 | [125325-pocket-monsters-diamond-and-pearl-pokemon-wo-sagase-meiro-de-daibouken.json](./125325-pocket-monsters-diamond-and-pearl-pokemon-wo-sagase-meiro-de-daibouken.json) |
 | Pocket Monsters RPG | 130335 | [130335-pocket-monsters-rpg.json](./130335-pocket-monsters-rpg.json) |
 | Pocket Monsters Stadium | 47734 | [47734-pocket-monsters-stadium.json](./47734-pocket-monsters-stadium.json) |
@@ -10030,6 +10032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Parallel Emerald | 397762 | [397762-pokemon-parallel-emerald.json](./397762-pokemon-parallel-emerald.json) |
 | Pokémon Party Mini | 66031 | [66031-pokemon-party-mini.json](./66031-pokemon-party-mini.json) |
 | Pokémon Pathways | 154415 | [154415-pokemon-pathways.json](./154415-pokemon-pathways.json) |
+| Pokémon PC Master | 181508 | [181508-pokemon-pc-master.json](./181508-pokemon-pc-master.json) |
 | Pokémon Peach Version | 359916 | [359916-pokemon-peach-version.json](./359916-pokemon-peach-version.json) |
 | Pokémon Pearl Version | 1518 | [1518-pokemon-pearl-version.json](./1518-pokemon-pearl-version.json) |
 | Pokemon Penumbra Moon | 288205 | [288205-pokemon-penumbra-moon.json](./288205-pokemon-penumbra-moon.json) |
@@ -10065,6 +10068,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Pro | 314722 | [314722-pokemon-pro.json](./314722-pokemon-pro.json) |
 | Pokémon Procyon and Deneb | 276343 | [276343-pokemon-procyon-and-deneb.json](./276343-pokemon-procyon-and-deneb.json) |
 | Pokémon Project Studio Red/Blue Version | 131390 | [131390-pokemon-project-studio-red-blue-version.json](./131390-pokemon-project-studio-red-blue-version.json) |
+| Pokémon Project Studio: Blue Version | 181515 | [181515-pokemon-project-studio-blue-version.json](./181515-pokemon-project-studio-blue-version.json) |
+| Pokémon Project Studio: Red Version | 181509 | [181509-pokemon-project-studio-red-version.json](./181509-pokemon-project-studio-red-version.json) |
 | Pokémon Psychic Seeds | 157527 | [157527-pokemon-psychic-seeds.json](./157527-pokemon-psychic-seeds.json) |
 | Pokémon Puffy Pink | 327204 | [327204-pokemon-puffy-pink.json](./327204-pokemon-puffy-pink.json) |
 | Pokémon PureBlue | 233600 | [233600-pokemon-pureblue.json](./233600-pokemon-pureblue.json) |
