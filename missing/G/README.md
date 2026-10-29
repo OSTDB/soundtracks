@@ -8166,6 +8166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimgrad | 199612 | [199612-grimgrad.json](./199612-grimgrad.json) |
 | GrimGraves | 346206 | [346206-grimgraves.json](./346206-grimgraves.json) |
 | GrimGrimoire OnceMore | 197949 | [197949-grimgrimoire-oncemore.json](./197949-grimgrimoire-oncemore.json) |
+| GrimGrimoire OnceMore: Deluxe Edition | 216577 | [216577-grimgrimoire-oncemore-deluxe-edition.json](./216577-grimgrimoire-oncemore-deluxe-edition.json) |
 | GrimGrimoire OnceMore: Limited Edition | 283698 | [283698-grimgrimoire-oncemore-limited-edition.json](./283698-grimgrimoire-oncemore-limited-edition.json) |
 | Grimguard Tactics | 304952 | [304952-grimguard-tactics.json](./304952-grimguard-tactics.json) |
 | Grimhook | 277334 | [277334-grimhook.json](./277334-grimhook.json) |
