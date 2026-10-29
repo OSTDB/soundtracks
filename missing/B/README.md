@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode World Senyou Card: Vinyl no Katana | 329747 | [329747-barcode-world-senyou-card-vinyl-no-katana.json](./329747-barcode-world-senyou-card-vinyl-no-katana.json) |
 | Barcode World Senyou Card: Yumetaro & Ohagi (Gimmick) | 329741 | [329741-barcode-world-senyou-card-yumetaro-and-ohagi-gimmick.json](./329741-barcode-world-senyou-card-yumetaro-and-ohagi-gimmick.json) |
 | Bard Harder! | 144164 | [144164-bard-harder.json](./144164-bard-harder.json) |
+| Bard Idle | 189834 | [189834-bard-idle.json](./189834-bard-idle.json) |
 | Bard to the Future | 36094 | [36094-bard-to-the-future.json](./36094-bard-to-the-future.json) |
 | Bard: Keep the Story Alive | 178974 | [178974-bard-keep-the-story-alive.json](./178974-bard-keep-the-story-alive.json) |
 | Bard's Gold: Complete Edition | 214520 | [214520-bards-gold-complete-edition.json](./214520-bards-gold-complete-edition.json) |
@@ -9489,6 +9490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockTanks | 324917 | [324917-blocktanks.json](./324917-blocktanks.json) |
 | BlockTanks.io | 137629 | [137629-blocktanks-io.json](./137629-blocktanks-io.json) |
 | Blocktiful | 237016 | [237016-blocktiful.json](./237016-blocktiful.json) |
+| Blocktopia | 189833 | [189833-blocktopia.json](./189833-blocktopia.json) |
 | Blocktopia | 326241 | [326241-blocktopia.json](./326241-blocktopia.json) |
 | Blockudoku | 227479 | [227479-blockudoku.json](./227479-blockudoku.json) |
 | BlockUrbs | 338251 | [338251-blockurbs.json](./338251-blockurbs.json) |
@@ -10982,6 +10984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Cat | 300776 | [300776-bomb-cat.json](./300776-bomb-cat.json) |
 | Bomb Cat: Wild Cat Mode | 303872 | [303872-bomb-cat-wild-cat-mode.json](./303872-bomb-cat-wild-cat-mode.json) |
 | Bomb Club | 175194 | [175194-bomb-club.json](./175194-bomb-club.json) |
+| Bomb Club Deluxe | 189846 | [189846-bomb-club-deluxe.json](./189846-bomb-club-deluxe.json) |
 | Bomb Craft Tnt | 88319 | [88319-bomb-craft-tnt.json](./88319-bomb-craft-tnt.json) |
 | Bomb Defense | 38774 | [38774-bomb-defense.json](./38774-bomb-defense.json) |
 | Bomb Disposal Expert | 68644 | [68644-bomb-disposal-expert.json](./68644-bomb-disposal-expert.json) |
