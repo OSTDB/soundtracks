@@ -3228,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infiltrator | 26455 | [26455-infiltrator.json](./26455-infiltrator.json) |
 | Infiltria | 113499 | [113499-infiltria.json](./113499-infiltria.json) |
 | Infinadeck Medieval Maze | 192818 | [192818-infinadeck-medieval-maze.json](./192818-infinadeck-medieval-maze.json) |
+| Infineural | 219946 | [219946-infineural.json](./219946-infineural.json) |
 | Infini | 122650 | [122650-infini.json](./122650-infini.json) |
 | Infini Orbis | 376860 | [376860-infini-orbis.json](./376860-infini-orbis.json) |
 | Infini: #InfiniPrison | 170440 | [170440-infini-infiniprison.json](./170440-infini-infiniprison.json) |
@@ -4779,6 +4780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inversus Deluxe | 54590 | [54590-inversus-deluxe.json](./54590-inversus-deluxe.json) |
 | Invert | 383504 | [383504-invert.json](./383504-invert.json) |
 | Invert by SlushyRh | 265144 | [265144-invert-by-slushyrh.json](./265144-invert-by-slushyrh.json) |
+| Invert pixels | 219929 | [219929-invert-pixels.json](./219929-invert-pixels.json) |
 | Invert: Tile Flipping Puzzles | 82953 | [82953-invert-tile-flipping-puzzles.json](./82953-invert-tile-flipping-puzzles.json) |
 | Inverted | 187236 | [187236-inverted.json](./187236-inverted.json) |
 | Inverted | 32209 | [32209-inverted.json](./32209-inverted.json) |
