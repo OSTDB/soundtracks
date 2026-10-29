@@ -10071,6 +10071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miho Adventures | 212669 | [212669-miho-adventures.json](./212669-miho-adventures.json) |
 | Mihomi Dream | 314796 | [314796-mihomi-dream.json](./314796-mihomi-dream.json) |
 | Míhún Chē | 247447 | [247447-mihun-che.json](./247447-mihun-che.json) |
+| Miika | 219908 | [219908-miika.json](./219908-miika.json) |
 | Miimi to Taata no Waiwai Oekaki Doubutsuen | 293148 | [293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json](./293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json) |
 | Miiridian Prime | 378765 | [378765-miiridian-prime.json](./378765-miiridian-prime.json) |
 | Miitomo | 18615 | [18615-miitomo.json](./18615-miitomo.json) |
@@ -18197,6 +18198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Mom's Bestfriend! | 346194 | [346194-my-moms-bestfriend.json](./346194-my-moms-bestfriend.json) |
 | My Money Grows On Trees | 347598 | [347598-my-money-grows-on-trees.json](./347598-my-money-grows-on-trees.json) |
 | My Monster | 318391 | [318391-my-monster.json](./318391-my-monster.json) |
+| My Monster Eats Furniture | 219909 | [219909-my-monster-eats-furniture.json](./219909-my-monster-eats-furniture.json) |
 | My Monster Rancher | 61129 | [61129-my-monster-rancher.json](./61129-my-monster-rancher.json) |
 | My Monsters | 307426 | [307426-my-monsters.json](./307426-my-monsters.json) |
 | My Moon Mart | 212467 | [212467-my-moon-mart.json](./212467-my-moon-mart.json) |
@@ -18922,6 +18924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Legends: Phantom of the Opera - Collector’s Edition | 239602 | [239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json](./239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json) |
 | Mystery Legends: Sleepy Hollow | 77123 | [77123-mystery-legends-sleepy-hollow.json](./77123-mystery-legends-sleepy-hollow.json) |
 | Mystery Lighthouse | 97215 | [97215-mystery-lighthouse.json](./97215-mystery-lighthouse.json) |
+| Mystery Lighthouse 2 HD | 219910 | [219910-mystery-lighthouse-2-hd.json](./219910-mystery-lighthouse-2-hd.json) |
 | Mystery Loss | 57029 | [57029-mystery-loss.json](./57029-mystery-loss.json) |
 | Mystery Lover 2: Forgotten Truth | 275490 | [275490-mystery-lover-2-forgotten-truth.json](./275490-mystery-lover-2-forgotten-truth.json) |
 | Mystery Lover: Nonexistent Memories | 365053 | [365053-mystery-lover-nonexistent-memories.json](./365053-mystery-lover-nonexistent-memories.json) |
