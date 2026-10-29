@@ -3877,6 +3877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Os Invasores do Futuro 2 | 300448 | [300448-os-invasores-do-futuro-2.json](./300448-os-invasores-do-futuro-2.json) |
 | Os Trapalhões apresentam Didi na Mina Encantada! | 262416 | [262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json](./262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json) |
 | Os Três Porquinhos | 281880 | [281880-os-tres-porquinhos.json](./281880-os-tres-porquinhos.json) |
+| OS: Memories | 188787 | [188787-os-memories.json](./188787-os-memories.json) |
 | OS:Memories | 203179 | [203179-os-memories.json](./203179-os-memories.json) |
 | OS:Path | 97084 | [97084-os-path.json](./97084-os-path.json) |
 | OS95 Plus! | 389500 | [389500-os95-plus.json](./389500-os95-plus.json) |
