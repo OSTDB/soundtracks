@@ -2159,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Game | 235339 | [235339-immortal-game.json](./235339-immortal-game.json) |
 | Immortal Girl | 128005 | [128005-immortal-girl.json](./128005-immortal-girl.json) |
 | Immortal Hero | 158209 | [158209-immortal-hero.json](./158209-immortal-hero.json) |
+| Immortal Hero | 194131 | [194131-immortal-hero.json](./194131-immortal-hero.json) |
 | Immortal Heroes | 75712 | [75712-immortal-heroes.json](./75712-immortal-heroes.json) |
 | Immortal Hunters | 250757 | [250757-immortal-hunters.json](./250757-immortal-hunters.json) |
 | Immortal Immanuel | 360196 | [360196-immortal-immanuel.json](./360196-immortal-immanuel.json) |
