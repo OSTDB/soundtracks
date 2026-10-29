@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Archer: Monster Islands | 234475 | [234475-magic-archer-monster-islands.json](./234475-magic-archer-monster-islands.json) |
 | Magic Archers | 148862 | [148862-magic-archers.json](./148862-magic-archers.json) |
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
+| Magic Axolotl | 220441 | [220441-magic-axolotl.json](./220441-magic-axolotl.json) |
 | Magic Ball Deluxe | 70237 | [70237-magic-ball-deluxe.json](./70237-magic-ball-deluxe.json) |
 | Magic Balls | 163868 | [163868-magic-balls.json](./163868-magic-balls.json) |
 | Magic Balls | 263474 | [263474-magic-balls.json](./263474-magic-balls.json) |
@@ -1306,15 +1307,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop VI | 221060 | [221060-magical-drop-vi.json](./221060-magical-drop-vi.json) |
 | Magical Error wo Sagase | 268846 | [268846-magical-error-wo-sagase.json](./268846-magical-error-wo-sagase.json) |
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
+| Magical Fairy Force: Champion Edition | 220436 | [220436-magical-fairy-force-champion-edition.json](./220436-magical-fairy-force-champion-edition.json) |
 | Magical Fantasista | 289588 | [289588-magical-fantasista.json](./289588-magical-fantasista.json) |
 | Magical Fantasista II | 292071 | [292071-magical-fantasista-ii.json](./292071-magical-fantasista-ii.json) |
 | Magical Girl | 158086 | [158086-magical-girl.json](./158086-magical-girl.json) |
 | Magical Girl | 258429 | [258429-magical-girl.json](./258429-magical-girl.json) |
 | Magical Girl Attack | 117473 | [117473-magical-girl-attack.json](./117473-magical-girl-attack.json) |
 | Magical Girl Celesphonia | 199384 | [199384-magical-girl-celesphonia.json](./199384-magical-girl-celesphonia.json) |
+| Magical Girl Clicker | 220438 | [220438-magical-girl-clicker.json](./220438-magical-girl-clicker.json) |
 | Magical Girl Creator | 163788 | [163788-magical-girl-creator.json](./163788-magical-girl-creator.json) |
 | Magical Girl Critical | 130605 | [130605-magical-girl-critical.json](./130605-magical-girl-critical.json) |
 | Magical Girl Critical Deluxe | 339978 | [339978-magical-girl-critical-deluxe.json](./339978-magical-girl-critical-deluxe.json) |
+| Magical Girl D: Futanari RPG | 220440 | [220440-magical-girl-d-futanari-rpg.json](./220440-magical-girl-d-futanari-rpg.json) |
 | Magical Girl Dash 2: Triple Prisma Attack | 350912 | [350912-magical-girl-dash-2-triple-prisma-attack.json](./350912-magical-girl-dash-2-triple-prisma-attack.json) |
 | Magical Girl ER | 410041 | [410041-magical-girl-er.json](./410041-magical-girl-er.json) |
 | Magical Girl Fist Fight | 353812 | [353812-magical-girl-fist-fight.json](./353812-magical-girl-fist-fight.json) |
@@ -1929,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maiden | 344870 | [344870-maiden.json](./344870-maiden.json) |
 | Maiden City: The Last Collateral Damage | 90408 | [90408-maiden-city-the-last-collateral-damage.json](./90408-maiden-city-the-last-collateral-damage.json) |
 | Maiden Cops | 209681 | [209681-maiden-cops.json](./209681-maiden-cops.json) |
+| Maiden Kingdom | 220443 | [220443-maiden-kingdom.json](./220443-maiden-kingdom.json) |
 | Maiden Maze | 147376 | [147376-maiden-maze.json](./147376-maiden-maze.json) |
 | Maiden Voyage | 299770 | [299770-maiden-voyage.json](./299770-maiden-voyage.json) |
 | Maiden's Exhibition: Shoujo-tachi no Danmaku Tenrankai | 278867 | [278867-maidens-exhibition-shoujo-tachi-no-danmaku-tenrankai.json](./278867-maidens-exhibition-shoujo-tachi-no-danmaku-tenrankai.json) |
@@ -10112,6 +10117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
 | Mikene's Aspects | 267440 | [267440-mikenes-aspects.json](./267440-mikenes-aspects.json) |
 | Mikeneko Holmes: Ghost Panic | 37360 | [37360-mikeneko-holmes-ghost-panic.json](./37360-mikeneko-holmes-ghost-panic.json) |
+| Mikey & Grover's Unexpected Adventures | 220417 | [220417-mikey-and-grovers-unexpected-adventures.json](./220417-mikey-and-grovers-unexpected-adventures.json) |
 | Mikey Boots | 140610 | [140610-mikey-boots.json](./140610-mikey-boots.json) |
 | Mikeyeldey: The Album | 206476 | [206476-mikeyeldey-the-album.json](./206476-mikeyeldey-the-album.json) |
 | Mikeyeldey95 | 206475 | [206475-mikeyeldey95.json](./206475-mikeyeldey95.json) |
@@ -10485,6 +10491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Games | 33393 | [33393-mind-games.json](./33393-mind-games.json) |
 | Mind Games | 81416 | [81416-mind-games.json](./81416-mind-games.json) |
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
+| Mind Hunt | 220444 | [220444-mind-hunt.json](./220444-mind-hunt.json) |
 | Mind if I drop in? | 176288 | [176288-mind-if-i-drop-in.json](./176288-mind-if-i-drop-in.json) |
 | Mind In Despair | 231917 | [231917-mind-in-despair.json](./231917-mind-in-despair.json) |
 | Mind Jab | 227846 | [227846-mind-jab.json](./227846-mind-jab.json) |
@@ -11228,6 +11235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Scientist | 229511 | [229511-mini-scientist.json](./229511-mini-scientist.json) |
 | Mini Ship Wars | 155468 | [155468-mini-ship-wars.json](./155468-mini-ship-wars.json) |
 | Mini Shopkeeper | 377619 | [377619-mini-shopkeeper.json](./377619-mini-shopkeeper.json) |
+| Mini Skull | 220445 | [220445-mini-skull.json](./220445-mini-skull.json) |
 | Mini Soccer Manager | 411494 | [411494-mini-soccer-manager.json](./411494-mini-soccer-manager.json) |
 | Mini Soccer Star | 414515 | [414515-mini-soccer-star.json](./414515-mini-soccer-star.json) |
 | Mini Speedy Racers | 240212 | [240212-mini-speedy-racers.json](./240212-mini-speedy-racers.json) |
