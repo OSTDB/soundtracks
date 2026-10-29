@@ -4086,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Eater | 215642 | [215642-light-eater.json](./215642-light-eater.json) |
 | Light Engine | 333973 | [333973-light-engine.json](./333973-light-engine.json) |
 | Light Fairytale: Episode 2 | 127638 | [127638-light-fairytale-episode-2.json](./127638-light-fairytale-episode-2.json) |
+| Light Fairytale: Episode 3 | 224825 | [224825-light-fairytale-episode-3.json](./224825-light-fairytale-episode-3.json) |
 | Light Fall | 36620 | [36620-light-fall.json](./36620-light-fall.json) |
 | Light Fantastik | 87765 | [87765-light-fantastik.json](./87765-light-fantastik.json) |
 | Light Fantasy | 37944 | [37944-light-fantasy.json](./37944-light-fantasy.json) |
@@ -5105,6 +5106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Dentist | 351702 | [351702-little-dentist.json](./351702-little-dentist.json) |
 | Little Desktop Runner | 385833 | [385833-little-desktop-runner.json](./385833-little-desktop-runner.json) |
 | Little Deviants | 20736 | [20736-little-deviants.json](./20736-little-deviants.json) |
+| Little Devil | 224850 | [224850-little-devil.json](./224850-little-devil.json) |
 | Little Devil | 402144 | [402144-little-devil.json](./402144-little-devil.json) |
 | Little Devil Inside | 9687 | [9687-little-devil-inside.json](./9687-little-devil-inside.json) |
 | Little Devil: Foster Mayhem | 261970 | [261970-little-devil-foster-mayhem.json](./261970-little-devil-foster-mayhem.json) |
@@ -6892,6 +6894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Balloons: Airy mates | 260878 | [260878-lost-balloons-airy-mates.json](./260878-lost-balloons-airy-mates.json) |
 | Lost Bazaar | 157465 | [157465-lost-bazaar.json](./157465-lost-bazaar.json) |
 | Lost Between | 232914 | [232914-lost-between.json](./232914-lost-between.json) |
+| Lost Between the Lines | 224849 | [224849-lost-between-the-lines.json](./224849-lost-between-the-lines.json) |
 | Lost Beyond | 213542 | [213542-lost-beyond.json](./213542-lost-beyond.json) |
 | Lost Bits | 256702 | [256702-lost-bits.json](./256702-lost-bits.json) |
 | Lost Blade | 208171 | [208171-lost-blade.json](./208171-lost-blade.json) |
