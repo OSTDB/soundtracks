@@ -241,9 +241,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Panda World | 231968 | [231968-baby-panda-world.json](./231968-baby-panda-world.json) |
 | Baby Panda's Airport | 105968 | [105968-baby-pandas-airport.json](./105968-baby-pandas-airport.json) |
 | Baby Panda's Birthday Party | 233381 | [233381-baby-pandas-birthday-party.json](./233381-baby-pandas-birthday-party.json) |
+| Baby Panda's Fire Safety | 188251 | [188251-baby-pandas-fire-safety.json](./188251-baby-pandas-fire-safety.json) |
 | Baby Panda's Forest Feast: Party Fun | 105846 | [105846-baby-pandas-forest-feast-party-fun.json](./105846-baby-pandas-forest-feast-party-fun.json) |
 | Baby Panda's Holidays | 107546 | [107546-baby-pandas-holidays.json](./107546-baby-pandas-holidays.json) |
 | Baby Panda's Juice Shop | 100917 | [100917-baby-pandas-juice-shop.json](./100917-baby-pandas-juice-shop.json) |
+| Baby Panda's Photo Studio | 188263 | [188263-baby-pandas-photo-studio.json](./188263-baby-pandas-photo-studio.json) |
 | Baby Panda's Vacation | 106599 | [106599-baby-pandas-vacation.json](./106599-baby-pandas-vacation.json) |
 | Baby Princess Phone | 101656 | [101656-baby-princess-phone.json](./101656-baby-princess-phone.json) |
 | Baby Puzzle: First Learning Shapes for Toddlers | 147985 | [147985-baby-puzzle-first-learning-shapes-for-toddlers.json](./147985-baby-puzzle-first-learning-shapes-for-toddlers.json) |
@@ -8377,6 +8379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade & Sorcery | 111474 | [111474-blade-and-sorcery.json](./111474-blade-and-sorcery.json) |
 | Blade & Soul | 16741 | [16741-blade-and-soul.json](./16741-blade-and-soul.json) |
 | Blade & Soul Heroes | 347649 | [347649-blade-and-soul-heroes.json](./347649-blade-and-soul-heroes.json) |
+| Blade & Soul M | 188235 | [188235-blade-and-soul-m.json](./188235-blade-and-soul-m.json) |
 | Blade & Soul Neo | 333270 | [333270-blade-and-soul-neo.json](./333270-blade-and-soul-neo.json) |
 | Blade & Soul: Revolution | 143626 | [143626-blade-and-soul-revolution.json](./143626-blade-and-soul-revolution.json) |
 | Blade & Sword | 193611 | [193611-blade-and-sword.json](./193611-blade-and-sword.json) |
@@ -8707,6 +8710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasto | 86213 | [86213-blasto.json](./86213-blasto.json) |
 | Blastocitos | 192205 | [192205-blastocitos.json](./192205-blastocitos.json) |
 | Blastoids | 394380 | [394380-blastoids.json](./394380-blastoids.json) |
+| Blastomancer: The Puzzle Game | 188267 | [188267-blastomancer-the-puzzle-game.json](./188267-blastomancer-the-puzzle-game.json) |
 | Blaston | 135122 | [135122-blaston.json](./135122-blaston.json) |
 | Blaston Spectator | 199641 | [199641-blaston-spectator.json](./199641-blaston-spectator.json) |
 | Blastonier | 211111 | [211111-blastonier.json](./211111-blastonier.json) |
@@ -9980,6 +9984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Alice Defense | 61997 | [61997-bloody-alice-defense.json](./61997-bloody-alice-defense.json) |
 | Bloody Aria | 322000 | [322000-bloody-aria.json](./322000-bloody-aria.json) |
 | Bloody Bar Simulator | 326475 | [326475-bloody-bar-simulator.json](./326475-bloody-bar-simulator.json) |
+| Bloody Bastards | 188266 | [188266-bloody-bastards.json](./188266-bloody-bastards.json) |
 | Bloody Boobs | 367620 | [367620-bloody-boobs.json](./367620-bloody-boobs.json) |
 | Bloody Bunny: First Blood | 175386 | [175386-bloody-bunny-first-blood.json](./175386-bloody-bunny-first-blood.json) |
 | Bloody Bunny: The Game | 144358 | [144358-bloody-bunny-the-game.json](./144358-bloody-bunny-the-game.json) |
