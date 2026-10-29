@@ -10005,6 +10005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fray | 305518 | [305518-fray.json](./305518-fray.json) |
 | Fray | 381038 | [381038-fray.json](./381038-fray.json) |
 | Fray | 94118 | [94118-fray.json](./94118-fray.json) |
+| Fray Fight | 202523 | [202523-fray-fight.json](./202523-fray-fight.json) |
 | Fray in Magical Adventure CD: Xak Gaiden | 65273 | [65273-fray-in-magical-adventure-cd-xak-gaiden.json](./65273-fray-in-magical-adventure-cd-xak-gaiden.json) |
 | Fray: Reloaded Edition | 16364 | [16364-fray-reloaded-edition.json](./16364-fray-reloaded-edition.json) |
 | Fray: Shugyou-hen | 130763 | [130763-fray-shugyou-hen.json](./130763-fray-shugyou-hen.json) |
@@ -10736,6 +10737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog King | 181219 | [181219-frog-king.json](./181219-frog-king.json) |
 | Frog King | 289452 | [289452-frog-king.json](./289452-frog-king.json) |
 | Frog Knight | 381175 | [381175-frog-knight.json](./381175-frog-knight.json) |
+| Frog lands | 202501 | [202501-frog-lands.json](./202501-frog-lands.json) |
 | Frog Legs | 337730 | [337730-frog-legs.json](./337730-frog-legs.json) |
 | Frog Minutes | 66061 | [66061-frog-minutes.json](./66061-frog-minutes.json) |
 | Frog Odyssey | 369622 | [369622-frog-odyssey.json](./369622-frog-odyssey.json) |
