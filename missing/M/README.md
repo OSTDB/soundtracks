@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macross Ace Frontier | 44486 | [44486-macross-ace-frontier.json](./44486-macross-ace-frontier.json) |
 | Macross Delta Scramble | 136752 | [136752-macross-delta-scramble.json](./136752-macross-delta-scramble.json) |
 | Macross Digital Mission VF-X | 44776 | [44776-macross-digital-mission-vf-x.json](./44776-macross-digital-mission-vf-x.json) |
+| Macross II | 218259 | [218259-macross-ii.json](./218259-macross-ii.json) |
 | Macross M3 | 45809 | [45809-macross-m3.json](./45809-macross-m3.json) |
 | Macross Plus | 46867 | [46867-macross-plus.json](./46867-macross-plus.json) |
 | Macross Plus Game Edition | 80835 | [80835-macross-plus-game-edition.json](./80835-macross-plus-game-edition.json) |
@@ -1400,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Taluluto-kun | 180301 | [180301-magical-taluluto-kun.json](./180301-magical-taluluto-kun.json) |
 | Magical Taluluto-kun 2: Magical Adventure | 48432 | [48432-magical-taluluto-kun-2-magical-adventure.json](./48432-magical-taluluto-kun-2-magical-adventure.json) |
 | Magical Taluluto-kun 2: Raiba Zone Panic!! | 125846 | [125846-magical-taluluto-kun-2-raiba-zone-panic.json](./125846-magical-taluluto-kun-2-raiba-zone-panic.json) |
+| Magical Taluluto-kun: Bakuhatsu! Magical Power | 218261 | [218261-magical-taluluto-kun-bakuhatsu-magical-power.json](./218261-magical-taluluto-kun-bakuhatsu-magical-power.json) |
 | Magical Taluluto-kun: Fantastic World!! | 48433 | [48433-magical-taluluto-kun-fantastic-world.json](./48433-magical-taluluto-kun-fantastic-world.json) |
 | Magical Taluluto-kun: Magic Adventure | 42419 | [42419-magical-taluluto-kun-magic-adventure.json](./42419-magical-taluluto-kun-magic-adventure.json) |
 | Magical Tetris Challenge | 205583 | [205583-magical-tetris-challenge.json](./205583-magical-tetris-challenge.json) |
@@ -7892,6 +7894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men at Work! 2: Hunter Academy he Youkoso | 112298 | [112298-men-at-work-2-hunter-academy-he-youkoso.json](./112298-men-at-work-2-hunter-academy-he-youkoso.json) |
 | Men Busters | 129469 | [129469-men-busters.json](./129469-men-busters.json) |
 | Men in Black | 270678 | [270678-men-in-black.json](./270678-men-in-black.json) |
+| Men In Black | 218260 | [218260-men-in-black.json](./218260-men-in-black.json) |
 | Men In Black | 342604 | [342604-men-in-black.json](./342604-men-in-black.json) |
 | Men in Black 2: The Series | 49912 | [49912-men-in-black-2-the-series.json](./49912-men-in-black-2-the-series.json) |
 | Men in Black 3 | 65003 | [65003-men-in-black-3.json](./65003-men-in-black-3.json) |
@@ -12585,6 +12588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Baba | 280934 | [280934-mobile-suit-baba.json](./280934-mobile-suit-baba.json) |
 | Mobile Suit Gundam | 125966 | [125966-mobile-suit-gundam.json](./125966-mobile-suit-gundam.json) |
 | Mobile Suit Gundam | 132794 | [132794-mobile-suit-gundam.json](./132794-mobile-suit-gundam.json) |
+| Mobile Suit Gundam | 218264 | [218264-mobile-suit-gundam.json](./218264-mobile-suit-gundam.json) |
 | Mobile Suit Gundam - Blood of Zeon | 45808 | [45808-mobile-suit-gundam-blood-of-zeon.json](./45808-mobile-suit-gundam-blood-of-zeon.json) |
 | Mobile Suit Gundam 00: Gundam Meisters | 72982 | [72982-mobile-suit-gundam-00-gundam-meisters.json](./72982-mobile-suit-gundam-00-gundam-meisters.json) |
 | Mobile Suit Gundam AGE: Cosmic Drive | 75722 | [75722-mobile-suit-gundam-age-cosmic-drive.json](./75722-mobile-suit-gundam-age-cosmic-drive.json) |
@@ -12596,6 +12600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam Gihren's Greed: The Fear of Axis V | 75728 | [75728-mobile-suit-gundam-gihrens-greed-the-fear-of-axis-v.json](./75728-mobile-suit-gundam-gihrens-greed-the-fear-of-axis-v.json) |
 | Mobile Suit Gundam Gihren's Greed: Zeon Revolutionary War | 75727 | [75727-mobile-suit-gundam-gihrens-greed-zeon-revolutionary-war.json](./75727-mobile-suit-gundam-gihrens-greed-zeon-revolutionary-war.json) |
 | Mobile Suit Gundam MSVS | 37531 | [37531-mobile-suit-gundam-msvs.json](./37531-mobile-suit-gundam-msvs.json) |
+| Mobile Suit Gundam RX-78 | 218262 | [218262-mobile-suit-gundam-rx-78.json](./218262-mobile-suit-gundam-rx-78.json) |
 | Mobile Suit Gundam SEED | 66591 | [66591-mobile-suit-gundam-seed.json](./66591-mobile-suit-gundam-seed.json) |
 | Mobile Suit Gundam SEED Destiny | 66594 | [66594-mobile-suit-gundam-seed-destiny.json](./66594-mobile-suit-gundam-seed-destiny.json) |
 | Mobile Suit Gundam SEED: Battle Assault | 49325 | [49325-mobile-suit-gundam-seed-battle-assault.json](./49325-mobile-suit-gundam-seed-battle-assault.json) |
