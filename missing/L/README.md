@@ -7434,6 +7434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus Esprit Turbo Challenge | 308147 | [308147-lotus-esprit-turbo-challenge.json](./308147-lotus-esprit-turbo-challenge.json) |
 | Lotus F3 | 373025 | [373025-lotus-f3.json](./373025-lotus-f3.json) |
 | Lotus III: The Ultimate Challenge | 12672 | [12672-lotus-iii-the-ultimate-challenge.json](./12672-lotus-iii-the-ultimate-challenge.json) |
+| Lotus Knight | 212046 | [212046-lotus-knight.json](./212046-lotus-knight.json) |
 | Lotus Lantern: Rescue Mother | 286380 | [286380-lotus-lantern-rescue-mother.json](./286380-lotus-lantern-rescue-mother.json) |
 | Lotus Minigames: Berlin Traffic | 120420 | [120420-lotus-minigames-berlin-traffic.json](./120420-lotus-minigames-berlin-traffic.json) |
 | Lotus Minigames: United Nations | 114355 | [114355-lotus-minigames-united-nations.json](./114355-lotus-minigames-united-nations.json) |
