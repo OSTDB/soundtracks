@@ -3065,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fay: That Math Woman! | 41200 | [41200-fay-that-math-woman.json](./41200-fay-that-math-woman.json) |
 | Fay's Factory | 199440 | [199440-fays-factory.json](./199440-fays-factory.json) |
 | Faybound: Veils of Magic | 405562 | [405562-faybound-veils-of-magic.json](./405562-faybound-veils-of-magic.json) |
+| Fayburrow | 188772 | [188772-fayburrow.json](./188772-fayburrow.json) |
 | Faye Falling | 189136 | [189136-faye-falling.json](./189136-faye-falling.json) |
 | Faye Freelance: Rebel Reporter | 270536 | [270536-faye-freelance-rebel-reporter.json](./270536-faye-freelance-rebel-reporter.json) |
 | Faye King: Jungle Jeopardy | 399894 | [399894-faye-king-jungle-jeopardy.json](./399894-faye-king-jungle-jeopardy.json) |
@@ -4746,6 +4747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Stand Waves | 394672 | [394672-final-stand-waves.json](./394672-final-stand-waves.json) |
 | Final Star | 113440 | [113440-final-star.json](./113440-final-star.json) |
 | Final Star Force | 40986 | [40986-final-star-force.json](./40986-final-star-force.json) |
+| Final Stardust | 188814 | [188814-final-stardust.json](./188814-final-stardust.json) |
 | Final Stardust: Cosmic Nexus | 197262 | [197262-final-stardust-cosmic-nexus.json](./197262-final-stardust-cosmic-nexus.json) |
 | Final Stepasy | 395463 | [395463-final-stepasy.json](./395463-final-stepasy.json) |
 | Final Strategy | 390997 | [390997-final-strategy.json](./390997-final-strategy.json) |
@@ -10757,6 +10759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Familiar | 195734 | [195734-frog-familiar.json](./195734-frog-familiar.json) |
 | Frog Feast | 270407 | [270407-frog-feast.json](./270407-frog-feast.json) |
 | Frog Feast | 4474 | [4474-frog-feast.json](./4474-frog-feast.json) |
+| Frog Fight | 188783 | [188783-frog-fight.json](./188783-frog-fight.json) |
 | Frog Fighters | 154826 | [154826-frog-fighters.json](./154826-frog-fighters.json) |
 | Frog Finder | 181798 | [181798-frog-finder.json](./181798-frog-finder.json) |
 | Frog Folding Simulator | 350436 | [350436-frog-folding-simulator.json](./350436-frog-folding-simulator.json) |
