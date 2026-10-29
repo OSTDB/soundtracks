@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Caps | 103844 | [103844-mad-caps.json](./103844-mad-caps.json) |
 | Mad Carnage | 86241 | [86241-mad-carnage.json](./86241-mad-carnage.json) |
 | Mad Cars | 94261 | [94261-mad-cars.json](./94261-mad-cars.json) |
+| Mad Cart | 189826 | [189826-mad-cart.json](./189826-mad-cart.json) |
 | Mad Cat's World | 120910 | [120910-mad-cats-world.json](./120910-mad-cats-world.json) |
 | Mad CEO | 95973 | [95973-mad-ceo.json](./95973-mad-ceo.json) |
 | Mad Chess | 155921 | [155921-mad-chess.json](./155921-mad-chess.json) |
@@ -3829,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marlene | 25634 | [25634-marlene.json](./25634-marlene.json) |
 | Marlene Betwixt | 56537 | [56537-marlene-betwixt.json](./56537-marlene-betwixt.json) |
 | Marley & Marley | 250502 | [250502-marley-and-marley.json](./250502-marley-and-marley.json) |
+| Marlon’s Mystery: The Darkside of Crime | 189840 | [189840-marlon-s-mystery-the-darkside-of-crime.json](./189840-marlon-s-mystery-the-darkside-of-crime.json) |
 | Marlow Briggs and the Mask of Death | 8006 | [8006-marlow-briggs-and-the-mask-of-death.json](./8006-marlow-briggs-and-the-mask-of-death.json) |
 | Marlow in Apocalyptic Acid World | 180053 | [180053-marlow-in-apocalyptic-acid-world.json](./180053-marlow-in-apocalyptic-acid-world.json) |
 | Marlowe's Path | 179060 | [179060-marlowes-path.json](./179060-marlowes-path.json) |
@@ -12873,6 +12875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Defense HD | 294682 | [294682-modern-defense-hd.json](./294682-modern-defense-hd.json) |
 | Modern Fairway 4: Spec Ops in the Rough | 130029 | [130029-modern-fairway-4-spec-ops-in-the-rough.json](./130029-modern-fairway-4-spec-ops-in-the-rough.json) |
 | Modern Fantasy: Urban Legends | 212157 | [212157-modern-fantasy-urban-legends.json](./212157-modern-fantasy-urban-legends.json) |
+| Modern Game Tycoon | 189801 | [189801-modern-game-tycoon.json](./189801-modern-game-tycoon.json) |
 | Modern Girl's Refined Choices | 208937 | [208937-modern-girls-refined-choices.json](./208937-modern-girls-refined-choices.json) |
 | Modern Jet-Fighter : Air War | 107116 | [107116-modern-jet-fighter-air-war.json](./107116-modern-jet-fighter-air-war.json) |
 | Modern Life | 196594 | [196594-modern-life.json](./196594-modern-life.json) |
