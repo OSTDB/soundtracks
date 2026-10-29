@@ -4188,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HenPri | 322740 | [322740-henpri.json](./322740-henpri.json) |
 | HenPri: Hentai Prison | 192094 | [192094-henpri-hentai-prison.json](./192094-henpri-hentai-prison.json) |
 | Henri | 222521 | [222521-henri.json](./222521-henri.json) |
+| Henri's Secret 2 | 187052 | [187052-henris-secret-2.json](./187052-henris-secret-2.json) |
 | Henry | 80642 | [80642-henry.json](./80642-henry.json) |
 | Henry Danger Crime Warp | 106933 | [106933-henry-danger-crime-warp.json](./106933-henry-danger-crime-warp.json) |
 | Henry Danger: Day of Danger | 242381 | [242381-henry-danger-day-of-danger.json](./242381-henry-danger-day-of-danger.json) |
@@ -8005,6 +8006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Justice: Galaxy Outcast | 372442 | [372442-holy-justice-galaxy-outcast.json](./372442-holy-justice-galaxy-outcast.json) |
 | Holy Knight Bitch | 82902 | [82902-holy-knight-bitch.json](./82902-holy-knight-bitch.json) |
 | Holy Light | 305966 | [305966-holy-light.json](./305966-holy-light.json) |
+| Holy Moly | 185816 | [185816-holy-moly.json](./185816-holy-moly.json) |
 | Holy Moonlight | 401454 | [401454-holy-moonlight.json](./401454-holy-moonlight.json) |
 | Holy Ocean | 239744 | [239744-holy-ocean.json](./239744-holy-ocean.json) |
 | Holy Paladin Cynthia | 235390 | [235390-holy-paladin-cynthia.json](./235390-holy-paladin-cynthia.json) |
@@ -8480,6 +8482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honor of Heirs | 193876 | [193876-honor-of-heirs.json](./193876-honor-of-heirs.json) |
 | Honor of Kings: World | 180147 | [180147-honor-of-kings-world.json](./180147-honor-of-kings-world.json) |
 | Honor of Knight King | 174109 | [174109-honor-of-knight-king.json](./174109-honor-of-knight-king.json) |
+| Honored | 187082 | [187082-honored.json](./187082-honored.json) |
 | Honorless! | 346488 | [346488-honorless.json](./346488-honorless.json) |
 | Honour & Freedom II | 283085 | [283085-honour-and-freedom-ii.json](./283085-honour-and-freedom-ii.json) |
 | Honour & Freedom II Power Enhanced Edition | 283088 | [283088-honour-and-freedom-ii-power-enhanced-edition.json](./283088-honour-and-freedom-ii-power-enhanced-edition.json) |
@@ -9280,6 +9283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Mom | 384877 | [384877-hot-mom.json](./384877-hot-mom.json) |
 | Hot Noon | 270065 | [270065-hot-noon.json](./270065-hot-noon.json) |
 | Hot Office: Sex Story | 296910 | [296910-hot-office-sex-story.json](./296910-hot-office-sex-story.json) |
+| Hot Pickle! | 187035 | [187035-hot-pickle.json](./187035-hot-pickle.json) |
 | Hot Pieces | 384883 | [384883-hot-pieces.json](./384883-hot-pieces.json) |
 | Hot Pinball | 398447 | [398447-hot-pinball.json](./398447-hot-pinball.json) |
 | Hot Pink | 100468 | [100468-hot-pink.json](./100468-hot-pink.json) |
