@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V.R. Virtua Racing | 70773 | [70773-v-r-virtua-racing.json](./70773-v-r-virtua-racing.json) |
 | V.R.G. | 181127 | [181127-v-r-g.json](./181127-v-r-g.json) |
 | V.T. | 103838 | [103838-v-t.json](./103838-v-t.json) |
+| V's Rage | 226496 | [226496-vs-rage.json](./226496-vs-rage.json) |
 | V’s Rage | 374895 | [374895-v-s-rage.json](./374895-v-s-rage.json) |
 | V1ruz | 127846 | [127846-v1ruz.json](./127846-v1ruz.json) |
 | V2 Cucumber Scam | 374419 | [374419-v2-cucumber-scam.json](./374419-v2-cucumber-scam.json) |
@@ -125,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Paradise: Alaska - Collector's Edition | 336988 | [336988-vacation-paradise-alaska-collectors-edition.json](./336988-vacation-paradise-alaska-collectors-edition.json) |
 | Vacation Paradise: Florida - Collector's Edition | 254785 | [254785-vacation-paradise-florida-collectors-edition.json](./254785-vacation-paradise-florida-collectors-edition.json) |
 | Vacation Paradise: France | 416158 | [416158-vacation-paradise-france.json](./416158-vacation-paradise-france.json) |
+| Vacation Paradise: France - Collector's Edition | 226489 | [226489-vacation-paradise-france-collectors-edition.json](./226489-vacation-paradise-france-collectors-edition.json) |
 | Vacation Parking Collection | 328462 | [328462-vacation-parking-collection.json](./328462-vacation-parking-collection.json) |
 | Vacation Quest Australia | 50862 | [50862-vacation-quest-australia.json](./50862-vacation-quest-australia.json) |
 | Vacation Quest: The Hawaiian Islands | 61674 | [61674-vacation-quest-the-hawaiian-islands.json](./61674-vacation-quest-the-hawaiian-islands.json) |
