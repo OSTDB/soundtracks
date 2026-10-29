@@ -8018,6 +8018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Driving Simulator | 135634 | [135634-city-driving-simulator.json](./135634-city-driving-simulator.json) |
 | City Driving Simulator 2 | 164764 | [164764-city-driving-simulator-2.json](./164764-city-driving-simulator-2.json) |
 | City Dunk 2 | 220298 | [220298-city-dunk-2.json](./220298-city-dunk-2.json) |
+| City Eater | 206421 | [206421-city-eater.json](./206421-city-eater.json) |
 | City Explorer: Seattle | 88166 | [88166-city-explorer-seattle.json](./88166-city-explorer-seattle.json) |
 | City Extreme Driving Collection | 328538 | [328538-city-extreme-driving-collection.json](./328538-city-extreme-driving-collection.json) |
 | City Fascination | 405739 | [405739-city-fascination.json](./405739-city-fascination.json) |
@@ -14485,6 +14486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Digger 2 | 407509 | [407509-crazy-digger-2.json](./407509-crazy-digger-2.json) |
 | Crazy Digger 2 Level Pack | 407510 | [407510-crazy-digger-2-level-pack.json](./407510-crazy-digger-2-level-pack.json) |
 | Crazy Dino Park | 143448 | [143448-crazy-dino-park.json](./143448-crazy-dino-park.json) |
+| Crazy Donuts | 206413 | [206413-crazy-donuts.json](./206413-crazy-donuts.json) |
 | Crazy Dreamz: Best Of | 90076 | [90076-crazy-dreamz-best-of.json](./90076-crazy-dreamz-best-of.json) |
 | Crazy Dreamz: MagiCats Edition | 55255 | [55255-crazy-dreamz-magicats-edition.json](./55255-crazy-dreamz-magicats-edition.json) |
 | Crazy Driller | 175259 | [175259-crazy-driller.json](./175259-crazy-driller.json) |
@@ -14609,6 +14611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
 | Crazy Otto | 208322 | [208322-crazy-otto.json](./208322-crazy-otto.json) |
 | Crazy Otto | 32506 | [32506-crazy-otto.json](./32506-crazy-otto.json) |
+| Crazy Pancake | 206412 | [206412-crazy-pancake.json](./206412-crazy-pancake.json) |
 | Crazy Penguin Catapult 2 | 67968 | [67968-crazy-penguin-catapult-2.json](./67968-crazy-penguin-catapult-2.json) |
 | Crazy Penguin Diner Run | 101974 | [101974-crazy-penguin-diner-run.json](./101974-crazy-penguin-diner-run.json) |
 | Crazy Penguin Wars | 302614 | [302614-crazy-penguin-wars.json](./302614-crazy-penguin-wars.json) |
