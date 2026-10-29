@@ -3391,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Run 3D | 154571 | [154571-ghost-run-3d.json](./154571-ghost-run-3d.json) |
 | Ghost Rush! | 97107 | [97107-ghost-rush.json](./97107-ghost-rush.json) |
 | Ghost School | 133726 | [133726-ghost-school.json](./133726-ghost-school.json) |
+| Ghost Scramble | 209842 | [209842-ghost-scramble.json](./209842-ghost-scramble.json) |
 | Ghost Scramble | 212500 | [212500-ghost-scramble.json](./212500-ghost-scramble.json) |
 | Ghost Sector | 335826 | [335826-ghost-sector.json](./335826-ghost-sector.json) |
 | Ghost Seeker Hunter Simulation | 270495 | [270495-ghost-seeker-hunter-simulation.json](./270495-ghost-seeker-hunter-simulation.json) |
