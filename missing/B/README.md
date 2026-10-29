@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2476,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrel-Blastapalooza | 231643 | [231643-barrel-blastapalooza.json](./231643-barrel-blastapalooza.json) |
 | BarrelBots | 391525 | [391525-barrelbots.json](./391525-barrelbots.json) |
 | Barrels Up | 75181 | [75181-barrels-up.json](./75181-barrels-up.json) |
+| Barren Depths | 224841 | [224841-barren-depths.json](./224841-barren-depths.json) |
 | Barren Realms Elite | 97310 | [97310-barren-realms-elite.json](./97310-barren-realms-elite.json) |
 | Barren Roads | 35954 | [35954-barren-roads.json](./35954-barren-roads.json) |
 | Barrett Foster: Chapter One | 250403 | [250403-barrett-foster-chapter-one.json](./250403-barrett-foster-chapter-one.json) |
