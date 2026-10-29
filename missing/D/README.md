@@ -6548,6 +6548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destined Notes: The Written Fate | 415435 | [415435-destined-notes-the-written-fate.json](./415435-destined-notes-the-written-fate.json) |
 | Destined to Die | 155419 | [155419-destined-to-die.json](./155419-destined-to-die.json) |
 | Destined to Love: Ikemen Samurai Romances | 163230 | [163230-destined-to-love-ikemen-samurai-romances.json](./163230-destined-to-love-ikemen-samurai-romances.json) |
+| Destinesia | 196984 | [196984-destinesia.json](./196984-destinesia.json) |
 | Destinia | 349093 | [349093-destinia.json](./349093-destinia.json) |
 | Destinies | 152884 | [152884-destinies.json](./152884-destinies.json) |
 | Destino Indomable | 322350 | [322350-destino-indomable.json](./322350-destino-indomable.json) |
@@ -14858,6 +14859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drones and Ruins | 87978 | [87978-drones-and-ruins.json](./87978-drones-and-ruins.json) |
 | Drones Attack | 410863 | [410863-drones-attack.json](./410863-drones-attack.json) |
 | Drones of Destruction | 350336 | [350336-drones-of-destruction.json](./350336-drones-of-destruction.json) |
+| Drones: Defenders Astartes | 196996 | [196996-drones-defenders-astartes.json](./196996-drones-defenders-astartes.json) |
 | Drones: The Human Condition | 30508 | [30508-drones-the-human-condition.json](./30508-drones-the-human-condition.json) |
 | Drongo's Festive Adventures | 261685 | [261685-drongos-festive-adventures.json](./261685-drongos-festive-adventures.json) |
 | Dronihilation VR | 67928 | [67928-dronihilation-vr.json](./67928-dronihilation-vr.json) |
