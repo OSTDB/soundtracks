@@ -7398,6 +7398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Document of Metal Gear Solid 2 | 139343 | [139343-the-document-of-metal-gear-solid-2.json](./139343-the-document-of-metal-gear-solid-2.json) |
 | The Dog | 327153 | [327153-the-dog.json](./327153-the-dog.json) |
 | The Dog Island | 4815 | [4815-the-dog-island.json](./4815-the-dog-island.json) |
+| The Dog Master | 209293 | [209293-the-dog-master.json](./209293-the-dog-master.json) |
 | The Dog Quiz | 223149 | [223149-the-dog-quiz.json](./223149-the-dog-quiz.json) |
 | The Dog Run | 114410 | [114410-the-dog-run.json](./114410-the-dog-run.json) |
 | The Dog: Happy Life | 269421 | [269421-the-dog-happy-life.json](./269421-the-dog-happy-life.json) |
@@ -13558,6 +13559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reaction | 89680 | [89680-the-reaction.json](./89680-the-reaction.json) |
 | The Real Academic Challenge High School Level | 401094 | [401094-the-real-academic-challenge-high-school-level.json](./401094-the-real-academic-challenge-high-school-level.json) |
 | The Real Deal 2 | 130849 | [130849-the-real-deal-2.json](./130849-the-real-deal-2.json) |
+| The Real Deal: 10 Classic Card Games | 209276 | [209276-the-real-deal-10-classic-card-games.json](./209276-the-real-deal-10-classic-card-games.json) |
 | The Real Face of a VTuber | 315325 | [315325-the-real-face-of-a-vtuber.json](./315325-the-real-face-of-a-vtuber.json) |
 | The Real Ghostbusters | 12841 | [12841-the-real-ghostbusters.json](./12841-the-real-ghostbusters.json) |
 | The Real Ghostbusters | 218436 | [218436-the-real-ghostbusters.json](./218436-the-real-ghostbusters.json) |
@@ -17807,6 +17809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Funny Funguloids! | 70049 | [70049-those-funny-funguloids.json](./70049-those-funny-funguloids.json) |
 | Those Infernal Girls! | 225744 | [225744-those-infernal-girls.json](./225744-those-infernal-girls.json) |
 | Those Left Behind | 212854 | [212854-those-left-behind.json](./212854-those-left-behind.json) |
+| Those Nights at Fredbear's | 209295 | [209295-those-nights-at-fredbears.json](./209295-those-nights-at-fredbears.json) |
 | Those Nights at Fredbear's: Reboot | 209310 | [209310-those-nights-at-fredbears-reboot.json](./209310-those-nights-at-fredbears-reboot.json) |
 | Those Nights at Rachel's 2 | 209298 | [209298-those-nights-at-rachels-2.json](./209298-those-nights-at-rachels-2.json) |
 | Those Nights at Rachel's 2: Reloaded | 209308 | [209308-those-nights-at-rachels-2-reloaded.json](./209308-those-nights-at-rachels-2-reloaded.json) |
@@ -21889,6 +21892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division: Heartland | 146881 | [146881-tom-clancys-the-division-heartland.json](./146881-tom-clancys-the-division-heartland.json) |
 | Tom Clancy's The Division: Marine Forces Outfits Pack | 255214 | [255214-tom-clancys-the-division-marine-forces-outfits-pack.json](./255214-tom-clancys-the-division-marine-forces-outfits-pack.json) |
 | Tom Clancy's The Division: Parade Pack | 242572 | [242572-tom-clancys-the-division-parade-pack.json](./242572-tom-clancys-the-division-parade-pack.json) |
+| Tom Clancy's The Division: Resurgence | 209288 | [209288-tom-clancys-the-division-resurgence.json](./209288-tom-clancys-the-division-resurgence.json) |
 | Tom Clancy's The Division: Sleeper Agent Edition | 103382 | [103382-tom-clancys-the-division-sleeper-agent-edition.json](./103382-tom-clancys-the-division-sleeper-agent-edition.json) |
 | Tom Clancy's The Division: Survival | 19551 | [19551-tom-clancys-the-division-survival.json](./19551-tom-clancys-the-division-survival.json) |
 | Tom Cruise's Kissing History | 317036 | [317036-tom-cruises-kissing-history.json](./317036-tom-cruises-kissing-history.json) |
