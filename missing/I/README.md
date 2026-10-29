@@ -2285,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperator: Rome - Magna Graecia Content Pack | 154497 | [154497-imperator-rome-magna-graecia-content-pack.json](./154497-imperator-rome-magna-graecia-content-pack.json) |
 | Imperator: Rome - Premium Edition | 139915 | [139915-imperator-rome-premium-edition.json](./139915-imperator-rome-premium-edition.json) |
 | Imperator: Rome - The Punic Wars Content Pack | 154496 | [154496-imperator-rome-the-punic-wars-content-pack.json](./154496-imperator-rome-the-punic-wars-content-pack.json) |
+| Imperfect | 213171 | [213171-imperfect.json](./213171-imperfect.json) |
 | Imperfect Garden | 358297 | [358297-imperfect-garden.json](./358297-imperfect-garden.json) |
 | Imperfect Hatred | 262567 | [262567-imperfect-hatred.json](./262567-imperfect-hatred.json) |
 | Imperfections | 414502 | [414502-imperfections.json](./414502-imperfections.json) |
