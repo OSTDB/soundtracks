@@ -2546,6 +2546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generic Jumper | 107719 | [107719-generic-jumper.json](./107719-generic-jumper.json) |
 | Generic Kart Racing | 216424 | [216424-generic-kart-racing.json](./216424-generic-kart-racing.json) |
 | Generic nonbinary game | 176926 | [176926-generic-nonbinary-game.json](./176926-generic-nonbinary-game.json) |
+| Generic RPG Idle | 189316 | [189316-generic-rpg-idle.json](./189316-generic-rpg-idle.json) |
 | Genesia Legacy: Ultimate Domain | 29493 | [29493-genesia-legacy-ultimate-domain.json](./29493-genesia-legacy-ultimate-domain.json) |
 | Genesis | 112652 | [112652-genesis.json](./112652-genesis.json) |
 | Genesis | 127265 | [127265-genesis.json](./127265-genesis.json) |
@@ -4495,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomy Eyes | 320289 | [320289-gloomy-eyes.json](./320289-gloomy-eyes.json) |
 | Gloomy Eyes + Arise: A Simple Story | 377274 | [377274-gloomy-eyes-arise-a-simple-story.json](./377274-gloomy-eyes-arise-a-simple-story.json) |
 | Gloomy Island | 278133 | [278133-gloomy-island.json](./278133-gloomy-island.json) |
+| Gloomy Juncture | 189296 | [189296-gloomy-juncture.json](./189296-gloomy-juncture.json) |
 | Gloomy Tales: Horrific Show - Collector's Edition | 225010 | [225010-gloomy-tales-horrific-show-collectors-edition.json](./225010-gloomy-tales-horrific-show-collectors-edition.json) |
 | Gloomy Tales: Hotel Frightsylvania - Collector's Edition | 340306 | [340306-gloomy-tales-hotel-frightsylvania-collectors-edition.json](./340306-gloomy-tales-hotel-frightsylvania-collectors-edition.json) |
 | Gloomy Tales: One-Way Ticket - Collector's Edition | 271643 | [271643-gloomy-tales-one-way-ticket-collectors-edition.json](./271643-gloomy-tales-one-way-ticket-collectors-edition.json) |
@@ -8663,6 +8665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Big (or Go Home) | 141221 | [141221-grow-big-or-go-home.json](./141221-grow-big-or-go-home.json) |
 | Grow Cannon | 269055 | [269055-grow-cannon.json](./269055-grow-cannon.json) |
 | Grow Empire: Rome | 371942 | [371942-grow-empire-rome.json](./371942-grow-empire-rome.json) |
+| Grow Flow | 189295 | [189295-grow-flow.json](./189295-grow-flow.json) |
 | Grow Golf | 394884 | [394884-grow-golf.json](./394884-grow-golf.json) |
 | Grow Heroes Vip | 107108 | [107108-grow-heroes-vip.json](./107108-grow-heroes-vip.json) |
 | Grow Home | 8774 | [8774-grow-home.json](./8774-grow-home.json) |
@@ -10029,6 +10032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyaruko-chan-tachi to Shippori Onsen Ryokou: Ichaicha Shimakuri Ippaku Futsuka no Tabi | 396940 | [396940-gyaruko-chan-tachi-to-shippori-onsen-ryokou-ichaicha-shimakuri-ippaku-futsuka-no-tabi.json](./396940-gyaruko-chan-tachi-to-shippori-onsen-ryokou-ichaicha-shimakuri-ippaku-futsuka-no-tabi.json) |
 | Gyaruzuma Sex: Hoka no Otoko ni Inwai Houshi Suru Ai Suru Tsuma | 159165 | [159165-gyaruzuma-sex-hoka-no-otoko-ni-inwai-houshi-suru-ai-suru-tsuma.json](./159165-gyaruzuma-sex-hoka-no-otoko-ni-inwai-houshi-suru-ai-suru-tsuma.json) |
 | Gyee | 198074 | [198074-gyee.json](./198074-gyee.json) |
+| Gyelfars | 188818 | [188818-gyelfars.json](./188818-gyelfars.json) |
 | Gylt: Collector's Edition | 256177 | [256177-gylt-collectors-edition.json](./256177-gylt-collectors-edition.json) |
 | Gym Bullies | 302935 | [302935-gym-bullies.json](./302935-gym-bullies.json) |
 | Gym Business: Fitness Empire Simulator | 319306 | [319306-gym-business-fitness-empire-simulator.json](./319306-gym-business-fitness-empire-simulator.json) |
