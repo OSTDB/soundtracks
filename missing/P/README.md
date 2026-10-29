@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperly: Paper Plane Adventure | 194040 | [194040-paperly-paper-plane-adventure.json](./194040-paperly-paper-plane-adventure.json) |
 | Paperman | 385577 | [385577-paperman.json](./385577-paperman.json) |
 | Paperman: Adventure Delivered | 201528 | [201528-paperman-adventure-delivered.json](./201528-paperman-adventure-delivered.json) |
+| PaperPlane | 203634 | [203634-paperplane.json](./203634-paperplane.json) |
 | Paperplanes | 218678 | [218678-paperplanes.json](./218678-paperplanes.json) |
 | PaperPlanets | 106612 | [106612-paperplanets.json](./106612-paperplanets.json) |
 | Paperquarium | 249458 | [249458-paperquarium.json](./249458-paperquarium.json) |
@@ -14958,6 +14959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psyke | 224830 | [224830-psyke.json](./224830-psyke.json) |
 | Psyko | 285332 | [285332-psyko.json](./285332-psyko.json) |
 | Psyko | 295909 | [295909-psyko.json](./295909-psyko.json) |
+| Psyolence | 203620 | [203620-psyolence.json](./203620-psyolence.json) |
 | PsyOps Solutions | 114252 | [114252-psyops-solutions.json](./114252-psyops-solutions.json) |
 | PsyPro | 391130 | [391130-psypro.json](./391130-psypro.json) |
 | PsyQik | 253882 | [253882-psyqik.json](./253882-psyqik.json) |
