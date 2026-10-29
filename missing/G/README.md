@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Handsome | 230342 | [230342-gakuen-handsome.json](./230342-gakuen-handsome.json) |
 | Gakuen Handsome Fighters | 243866 | [243866-gakuen-handsome-fighters.json](./243866-gakuen-handsome-fighters.json) |
 | Gakuen Handsome: Ikusei Game - Mitsurugi Sakuya no Soccer Sekai ni Hirometai | 187048 | [187048-gakuen-handsome-ikusei-game-mitsurugi-sakuya-no-soccer-sekai-ni-hirometai.json](./187048-gakuen-handsome-ikusei-game-mitsurugi-sakuya-no-soccer-sekai-ni-hirometai.json) |
+| Gakuen Handsome: Ito o Kashi | 181517 | [181517-gakuen-handsome-ito-o-kashi.json](./181517-gakuen-handsome-ito-o-kashi.json) |
 | Gakuen Hetalia DS | 130581 | [130581-gakuen-hetalia-ds.json](./130581-gakuen-hetalia-ds.json) |
 | Gakuen Hetalia Portable | 59419 | [59419-gakuen-hetalia-portable.json](./59419-gakuen-hetalia-portable.json) |
 | Gakuen Hyoryuu Senki | 191872 | [191872-gakuen-hyoryuu-senki.json](./191872-gakuen-hyoryuu-senki.json) |
@@ -2727,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genpei Kassen | 183870 | [183870-genpei-kassen.json](./183870-genpei-kassen.json) |
 | Genre Hopper | 182532 | [182532-genre-hopper.json](./182532-genre-hopper.json) |
 | Genroh | 59157 | [59157-genroh.json](./59157-genroh.json) |
+| Genrou | 181518 | [181518-genrou.json](./181518-genrou.json) |
 | Genry's parables: Scientist Story | 164419 | [164419-genrys-parables-scientist-story.json](./164419-genrys-parables-scientist-story.json) |
 | Gensei Fukyo Den | 263673 | [263673-gensei-fukyo-den.json](./263673-gensei-fukyo-den.json) |
 | Gensei Haiyuuki | 263682 | [263682-gensei-haiyuuki.json](./263682-gensei-haiyuuki.json) |
@@ -3408,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Pilots | 39734 | [39734-ghost-pilots.json](./39734-ghost-pilots.json) |
 | Ghost Platform | 404371 | [404371-ghost-platform.json](./404371-ghost-platform.json) |
 | Ghost Platoon | 84060 | [84060-ghost-platoon.json](./84060-ghost-platoon.json) |
+| Ghost Protocol | 181532 | [181532-ghost-protocol.json](./181532-ghost-protocol.json) |
 | Ghost Puncher | 211171 | [211171-ghost-puncher.json](./211171-ghost-puncher.json) |
 | Ghost Punishment | 121590 | [121590-ghost-punishment.json](./121590-ghost-punishment.json) |
 | Ghost Pursuit VR | 31977 | [31977-ghost-pursuit-vr.json](./31977-ghost-pursuit-vr.json) |
@@ -8172,6 +8175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Jobs: Dredger | 377119 | [377119-grim-jobs-dredger.json](./377119-grim-jobs-dredger.json) |
 | Grim Joggers | 336014 | [336014-grim-joggers.json](./336014-grim-joggers.json) |
 | Grim Knight | 235672 | [235672-grim-knight.json](./235672-grim-knight.json) |
+| Grim Leaper | 181534 | [181534-grim-leaper.json](./181534-grim-leaper.json) |
 | Grim Legends 3: The Dark City | 33110 | [33110-grim-legends-3-the-dark-city.json](./33110-grim-legends-3-the-dark-city.json) |
 | Grim Legends Collection | 118847 | [118847-grim-legends-collection.json](./118847-grim-legends-collection.json) |
 | Grim Legions | 23842 | [23842-grim-legions.json](./23842-grim-legions.json) |
@@ -10031,6 +10035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gwonchong Sonyeo Kiugi | 234637 | [234637-gwonchong-sonyeo-kiugi.json](./234637-gwonchong-sonyeo-kiugi.json) |
 | GX Monsters | 257005 | [257005-gx-monsters.json](./257005-gx-monsters.json) |
 | GX Sudoku | 272200 | [272200-gx-sudoku.json](./272200-gx-sudoku.json) |
+| Gyaku Genji Monogatari | 181510 | [181510-gyaku-genji-monogatari.json](./181510-gyaku-genji-monogatari.json) |
 | Gyaku Katei Kyoushi: Kanojo wa Boku no Sensei ni Shite Dorei | 411593 | [411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json](./411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json) |
 | Gyaku Shaun Sai Hanri | 228262 | [228262-gyaku-shaun-sai-hanri.json](./228262-gyaku-shaun-sai-hanri.json) |
 | Gyakujoku Hiai: Mistress | 77856 | [77856-gyakujoku-hiai-mistress.json](./77856-gyakujoku-hiai-mistress.json) |
