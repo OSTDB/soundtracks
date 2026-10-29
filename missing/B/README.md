@@ -4323,6 +4323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beans or Bones | 253775 | [253775-beans-or-bones.json](./253775-beans-or-bones.json) |
 | Beans: The Coffee Shop Simulator | 28866 | [28866-beans-the-coffee-shop-simulator.json](./28866-beans-the-coffee-shop-simulator.json) |
 | BeanShooter | 256359 | [256359-beanshooter.json](./256359-beanshooter.json) |
+| Beanstalk | 201424 | [201424-beanstalk.json](./201424-beanstalk.json) |
 | Beanstalker | 94648 | [94648-beanstalker.json](./94648-beanstalker.json) |
 | Beany Bopper | 11138 | [11138-beany-bopper.json](./11138-beany-bopper.json) |
 | Bear Adventure | 370762 | [370762-bear-adventure.json](./370762-bear-adventure.json) |
@@ -11561,6 +11562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomby | 179147 | [179147-boomby.json](./179147-boomby.json) |
 | Boomby! | 334452 | [334452-boomby.json](./334452-boomby.json) |
 | Boomcestors | 367961 | [367961-boomcestors.json](./367961-boomcestors.json) |
+| BoomCrash | 201406 | [201406-boomcrash.json](./201406-boomcrash.json) |
 | Boomer | 214541 | [214541-boomer.json](./214541-boomer.json) |
 | Boomer | 410649 | [410649-boomer.json](./410649-boomer.json) |
 | Boomer Brawler | 355616 | [355616-boomer-brawler.json](./355616-boomer-brawler.json) |
@@ -13341,6 +13343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakforcist | 27678 | [27678-breakforcist.json](./27678-breakforcist.json) |
 | Breakfree | 130847 | [130847-breakfree.json](./130847-breakfree.json) |
 | BreakFree Escape From the Mine | 101968 | [101968-breakfree-escape-from-the-mine.json](./101968-breakfree-escape-from-the-mine.json) |
+| Breaking & Entering | 200857 | [200857-breaking-and-entering.json](./200857-breaking-and-entering.json) |
 | Breaking Bad DS | 277201 | [277201-breaking-bad-ds.json](./277201-breaking-bad-ds.json) |
 | Breaking Bad: VR Experience | 36757 | [36757-breaking-bad-vr-experience.json](./36757-breaking-bad-vr-experience.json) |
 | Breaking Bound | 289799 | [289799-breaking-bound.json](./289799-breaking-bound.json) |
