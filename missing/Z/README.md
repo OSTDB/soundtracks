@@ -1502,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Invasion | 337751 | [337751-zombie-invasion.json](./337751-zombie-invasion.json) |
 | Zombie Invasion | 65368 | [65368-zombie-invasion.json](./65368-zombie-invasion.json) |
 | Zombie Invasion: FPS Defense | 269097 | [269097-zombie-invasion-fps-defense.json](./269097-zombie-invasion-fps-defense.json) |
+| Zombie Is Planting | 180976 | [180976-zombie-is-planting.json](./180976-zombie-is-planting.json) |
 | Zombie Island | 127084 | [127084-zombie-island.json](./127084-zombie-island.json) |
 | Zombie Island | 372065 | [372065-zombie-island.json](./372065-zombie-island.json) |
 | Zombie Island Paradise | 298971 | [298971-zombie-island-paradise.json](./298971-zombie-island-paradise.json) |
