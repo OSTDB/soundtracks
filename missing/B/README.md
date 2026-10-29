@@ -844,7 +844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2599,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Blast! | 51048 | [51048-baseball-blast.json](./51048-baseball-blast.json) |
 | Baseball Bout: Otterrific Arcade | 214517 | [214517-baseball-bout-otterrific-arcade.json](./214517-baseball-bout-otterrific-arcade.json) |
 | Baseball Boy! | 87059 | [87059-baseball-boy.json](./87059-baseball-boy.json) |
+| Baseball Brat Badventure | 225971 | [225971-baseball-brat-badventure.json](./225971-baseball-brat-badventure.json) |
 | Baseball Bros | 336068 | [336068-baseball-bros.json](./336068-baseball-bros.json) |
 | Baseball Card Shop Simulator | 349428 | [349428-baseball-card-shop-simulator.json](./349428-baseball-card-shop-simulator.json) |
 | Baseball Champion League 2019 | 220204 | [220204-baseball-champion-league-2019.json](./220204-baseball-champion-league-2019.json) |
@@ -10659,6 +10659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
 | Body Slam | 40095 | [40095-body-slam.json](./40095-body-slam.json) |
 | Body Sushi | 393471 | [393471-body-sushi.json](./393471-body-sushi.json) |
+| Body. Electric. | 225979 | [225979-body-electric.json](./225979-body-electric.json) |
 | BodyCam 2025 | 368253 | [368253-bodycam-2025.json](./368253-bodycam-2025.json) |
 | BodyCam Assault Shooter | 322509 | [322509-bodycam-assault-shooter.json](./322509-bodycam-assault-shooter.json) |
 | BodyCam GangZone | 335092 | [335092-bodycam-gangzone.json](./335092-bodycam-gangzone.json) |
@@ -13725,6 +13726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Side: Quiz - Complete Edition | 331250 | [331250-bright-side-quiz-complete-edition.json](./331250-bright-side-quiz-complete-edition.json) |
 | Bright Side: Riddles & Puzzles | 265393 | [265393-bright-side-riddles-and-puzzles.json](./265393-bright-side-riddles-and-puzzles.json) |
 | Bright Sky: The Watch of the Future | 413006 | [413006-bright-sky-the-watch-of-the-future.json](./413006-bright-sky-the-watch-of-the-future.json) |
+| Bright Sudoku | 225980 | [225980-bright-sudoku.json](./225980-bright-sudoku.json) |
 | Brightblood | 159846 | [159846-brightblood.json](./159846-brightblood.json) |
 | Brighter Day | 34811 | [34811-brighter-day.json](./34811-brighter-day.json) |
 | Brighter Days | 391187 | [391187-brighter-days.json](./391187-brighter-days.json) |
@@ -15476,6 +15478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BurgerTime Deluxe | 48958 | [48958-burgertime-deluxe.json](./48958-burgertime-deluxe.json) |
 | BurgerTime Micro Player | 229893 | [229893-burgertime-micro-player.json](./229893-burgertime-micro-player.json) |
 | BurgerTime Party! | 117745 | [117745-burgertime-party.json](./117745-burgertime-party.json) |
+| BurgerWave | 225964 | [225964-burgerwave.json](./225964-burgerwave.json) |
 | Burgerwise the Clown | 101618 | [101618-burgerwise-the-clown.json](./101618-burgerwise-the-clown.json) |
 | Burggeist | 302962 | [302962-burggeist.json](./302962-burggeist.json) |
 | Burgie's Cozy Kitchen | 322086 | [322086-burgies-cozy-kitchen.json](./322086-burgies-cozy-kitchen.json) |
