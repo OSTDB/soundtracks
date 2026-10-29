@@ -2357,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Song, One Life | 395278 | [395278-one-song-one-life.json](./395278-one-song-one-life.json) |
 | One Soul | 243526 | [243526-one-soul.json](./243526-one-soul.json) |
 | One Star | 28700 | [28700-one-star.json](./28700-one-star.json) |
+| One Step After Fall | 193617 | [193617-one-step-after-fall.json](./193617-one-step-after-fall.json) |
 | One Step Away | 207588 | [207588-one-step-away.json](./207588-one-step-away.json) |
 | One Step Further | 348820 | [348820-one-step-further.json](./348820-one-step-further.json) |
 | One Step to Paradise | 244621 | [244621-one-step-to-paradise.json](./244621-one-step-to-paradise.json) |
@@ -2773,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onmyoudou: Arcade Edition | 170223 | [170223-onmyoudou-arcade-edition.json](./170223-onmyoudou-arcade-edition.json) |
 | Onmyouji Emaki | 335701 | [335701-onmyouji-emaki.json](./335701-onmyouji-emaki.json) |
 | Onna Katei Kyoushi Jitka-sensei to Misshitsu ni Itara Maru-maru Shichau Kamoshirenai | 221510 | [221510-onna-katei-kyoushi-jitka-sensei-to-misshitsu-ni-itara-maru-maru-shichau-kamoshirenai.json](./221510-onna-katei-kyoushi-jitka-sensei-to-misshitsu-ni-itara-maru-maru-shichau-kamoshirenai.json) |
+| Onna no Ko Keeper 3 | 193060 | [193060-onna-no-ko-keeper-3.json](./193060-onna-no-ko-keeper-3.json) |
 | Onna no Ko to Misshitsu ni Itara **shichau Kamoshirenai | 143385 | [143385-onna-no-ko-to-misshitsu-ni-itara-shichau-kamoshirenai.json](./143385-onna-no-ko-to-misshitsu-ni-itara-shichau-kamoshirenai.json) |
 | Onna Sansirou: Typhoon Gal | 40378 | [40378-onna-sansirou-typhoon-gal.json](./40378-onna-sansirou-typhoon-gal.json) |
 | Onna Sennyuu Sousakan no Hentai Chiiku: Shoufu no You ni Midareru Yakumo | 380790 | [380790-onna-sennyuu-sousakan-no-hentai-chiiku-shoufu-no-you-ni-midareru-yakumo.json](./380790-onna-sennyuu-sousakan-no-hentai-chiiku-shoufu-no-you-ni-midareru-yakumo.json) |
