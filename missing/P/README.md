@@ -922,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panasonic Prime Smash! | 340350 | [340350-panasonic-prime-smash.json](./340350-panasonic-prime-smash.json) |
 | Pancake | 305467 | [305467-pancake.json](./305467-pancake.json) |
 | Pancake Bar Tycoon | 147152 | [147152-pancake-bar-tycoon.json](./147152-pancake-bar-tycoon.json) |
+| Pancake Bar Tycoon: Deluxe Edition | 221502 | [221502-pancake-bar-tycoon-deluxe-edition.json](./221502-pancake-bar-tycoon-deluxe-edition.json) |
 | Pancake Bar Tycoon: Expansion Pack 1 | 237915 | [237915-pancake-bar-tycoon-expansion-pack-1.json](./237915-pancake-bar-tycoon-expansion-pack-1.json) |
 | Pancake Bar Tycoon: Expansion Pack 2 | 237916 | [237916-pancake-bar-tycoon-expansion-pack-2.json](./237916-pancake-bar-tycoon-expansion-pack-2.json) |
 | Pancake Bar Tycoon: Extended Edition | 207902 | [207902-pancake-bar-tycoon-extended-edition.json](./207902-pancake-bar-tycoon-extended-edition.json) |
@@ -1977,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paratopic + Food Truck Tycoon | 252703 | [252703-paratopic-food-truck-tycoon.json](./252703-paratopic-food-truck-tycoon.json) |
 | Paratopic + Urban Flow | 246894 | [246894-paratopic-urban-flow.json](./246894-paratopic-urban-flow.json) |
 | Paratopic: Definitive Cut | 107740 | [107740-paratopic-definitive-cut.json](./107740-paratopic-definitive-cut.json) |
+| Paratopic: Deluxe Edition | 221503 | [221503-paratopic-deluxe-edition.json](./221503-paratopic-deluxe-edition.json) |
 | Paratopic: Overdub | 349384 | [349384-paratopic-overdub.json](./349384-paratopic-overdub.json) |
 | Paratrooper | 245156 | [245156-paratrooper.json](./245156-paratrooper.json) |
 | Paratrooper | 25155 | [25155-paratrooper.json](./25155-paratrooper.json) |
@@ -15006,6 +15008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pugnite | 385992 | [385992-pugnite.json](./385992-pugnite.json) |
 | Pugovki | 177051 | [177051-pugovki.json](./177051-pugovki.json) |
 | Pui Pui Molcar Let's! Molcar Party! | 175849 | [175849-pui-pui-molcar-lets-molcar-party.json](./175849-pui-pui-molcar-lets-molcar-party.json) |
+| Pui Pui Molcar Let's! Molcar Party!: Digital Deluxe Edition | 221499 | [221499-pui-pui-molcar-lets-molcar-party-digital-deluxe-edition.json](./221499-pui-pui-molcar-lets-molcar-party-digital-deluxe-edition.json) |
 | Pui Pui Molcartchi Driving School ver. | 230159 | [230159-pui-pui-molcartchi-driving-school-ver.json](./230159-pui-pui-molcartchi-driving-school-ver.json) |
 | PUIQ: Demons | 298053 | [298053-puiq-demons.json](./298053-puiq-demons.json) |
 | Puk | 195985 | [195985-puk.json](./195985-puk.json) |
