@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Gods Athena | 273640 | [273640-war-of-gods-athena.json](./273640-war-of-gods-athena.json) |
 | War of Gold | 165482 | [165482-war-of-gold.json](./165482-war-of-gold.json) |
 | War of Gold 2 Mission 99 | 226694 | [226694-war-of-gold-2-mission-99.json](./226694-war-of-gold-2-mission-99.json) |
+| War of Kingdoms | 208116 | [208116-war-of-kingdoms.json](./208116-war-of-kingdoms.json) |
 | War of Kings | 236207 | [236207-war-of-kings.json](./236207-war-of-kings.json) |
 | War of Legends | 306644 | [306644-war-of-legends.json](./306644-war-of-legends.json) |
 | War of Legions | 302995 | [302995-war-of-legions.json](./302995-war-of-legions.json) |
