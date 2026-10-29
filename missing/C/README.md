@@ -4600,6 +4600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell of Empireo: Isoi Sanemitsu no Records | 243655 | [243655-cell-of-empireo-isoi-sanemitsu-no-records.json](./243655-cell-of-empireo-isoi-sanemitsu-no-records.json) |
 | Cell of Empireo: RTC - Interlude | 301419 | [301419-cell-of-empireo-rtc-interlude.json](./301419-cell-of-empireo-rtc-interlude.json) |
 | Cell Phone Love Letter | 256330 | [256330-cell-phone-love-letter.json](./256330-cell-phone-love-letter.json) |
+| Cell Raiser | 177172 | [177172-cell-raiser.json](./177172-cell-raiser.json) |
 | Cell Scientist: Beyond | 217345 | [217345-cell-scientist-beyond.json](./217345-cell-scientist-beyond.json) |
 | Cell Survivor | 388283 | [388283-cell-survivor.json](./388283-cell-survivor.json) |
 | Cell Sword | 344304 | [344304-cell-sword.json](./344304-cell-sword.json) |
@@ -4911,6 +4912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chair Is Videogame | 144083 | [144083-chair-is-videogame.json](./144083-chair-is-videogame.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
 | Chair Spinning Simulator | 192629 | [192629-chair-spinning-simulator.json](./192629-chair-spinning-simulator.json) |
+| Chair Up! | 177196 | [177196-chair-up.json](./177196-chair-up.json) |
 | Chairades | 179995 | [179995-chairades.json](./179995-chairades.json) |
 | Chairs | 281987 | [281987-chairs.json](./281987-chairs.json) |
 | Chakan | 282492 | [282492-chakan.json](./282492-chakan.json) |
