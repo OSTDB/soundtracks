@@ -10869,6 +10869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Let Me Down | 204417 | [204417-dont-let-me-down.json](./204417-dont-let-me-down.json) |
 | Don't Let Me Fade | 352220 | [352220-dont-let-me-fade.json](./352220-dont-let-me-fade.json) |
 | Don't Let Me Rot | 365209 | [365209-dont-let-me-rot.json](./365209-dont-let-me-rot.json) |
+| Don't Let the Teacher Know | 214281 | [214281-dont-let-the-teacher-know.json](./214281-dont-let-the-teacher-know.json) |
 | Don't Look | 156708 | [156708-dont-look.json](./156708-dont-look.json) |
 | Don't Look | 177547 | [177547-dont-look.json](./177547-dont-look.json) |
 | Don't Look at Grandma | 375820 | [375820-dont-look-at-grandma.json](./375820-dont-look-at-grandma.json) |
@@ -12057,6 +12058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Line | 141854 | [141854-double-line.json](./141854-double-line.json) |
 | Double Match | 83458 | [83458-double-match.json](./83458-double-match.json) |
 | Double Memory | 68326 | [68326-double-memory.json](./68326-double-memory.json) |
+| Double Money | 214284 | [214284-double-money.json](./214284-double-money.json) |
 | Double Moon Densetsu | 48522 | [48522-double-moon-densetsu.json](./48522-double-moon-densetsu.json) |
 | Double Mystery: Escape Room Bundle | 394569 | [394569-double-mystery-escape-room-bundle.json](./394569-double-mystery-escape-room-bundle.json) |
 | Double Panda | 408994 | [408994-double-panda.json](./408994-double-panda.json) |
@@ -14048,6 +14050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Warrior | 307899 | [307899-dream-warrior.json](./307899-dream-warrior.json) |
 | Dream Watcher | 142947 | [142947-dream-watcher.json](./142947-dream-watcher.json) |
 | Dream Wave'84 | 379870 | [379870-dream-wave84.json](./379870-dream-wave84.json) |
+| Dream Wedding | 214280 | [214280-dream-wedding.json](./214280-dream-wedding.json) |
 | Dream Wedding Boutique | 99169 | [99169-dream-wedding-boutique.json](./99169-dream-wedding-boutique.json) |
 | Dream Well | 205104 | [205104-dream-well.json](./205104-dream-well.json) |
 | Dream Wires | 180240 | [180240-dream-wires.json](./180240-dream-wires.json) |
