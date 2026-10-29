@@ -2881,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manus Dei | 269226 | [269226-manus-dei.json](./269226-manus-dei.json) |
 | Manx TT Super Bike | 36572 | [36572-manx-tt-super-bike.json](./36572-manx-tt-super-bike.json) |
 | Many Bricks Breaker | 150947 | [150947-many-bricks-breaker.json](./150947-many-bricks-breaker.json) |
+| Many Buttons to Press | 186484 | [186484-many-buttons-to-press.json](./186484-many-buttons-to-press.json) |
 | Many Crimes of Serenity Falls | 301917 | [301917-many-crimes-of-serenity-falls.json](./301917-many-crimes-of-serenity-falls.json) |
 | Many Eyed | 270051 | [270051-many-eyed.json](./270051-many-eyed.json) |
 | Many Faces | 127823 | [127823-many-faces.json](./127823-many-faces.json) |
@@ -7055,6 +7056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Monster | 217678 | [217678-mega-monster.json](./217678-mega-monster.json) |
 | Mega Mosaic | 298374 | [298374-mega-mosaic.json](./298374-mega-mosaic.json) |
 | Mega Museum | 108294 | [108294-mega-museum.json](./108294-mega-museum.json) |
+| Mega Mutant Escape: Hulk Edition | 187070 | [187070-mega-mutant-escape-hulk-edition.json](./187070-mega-mutant-escape-hulk-edition.json) |
 | Mega Overload | 29060 | [29060-mega-overload.json](./29060-mega-overload.json) |
 | Mega Party a Tootuff Adventure | 126339 | [126339-mega-party-a-tootuff-adventure.json](./126339-mega-party-a-tootuff-adventure.json) |
 | Mega Pede | 78990 | [78990-mega-pede.json](./78990-mega-pede.json) |
@@ -8206,6 +8208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merciless Podium | 86897 | [86897-merciless-podium.json](./86897-merciless-podium.json) |
 | Mercs | 105329 | [105329-mercs.json](./105329-mercs.json) |
 | Mercs | 4487 | [4487-mercs.json](./4487-mercs.json) |
+| Mercs Fully Loaded | 186472 | [186472-mercs-fully-loaded.json](./186472-mercs-fully-loaded.json) |
 | Mercs Inc | 289805 | [289805-mercs-inc.json](./289805-mercs-inc.json) |
 | Mercs Inc. | 80407 | [80407-mercs-inc.json](./80407-mercs-inc.json) |
 | Mercuria: Mizu no Miyako ni Koi no Hanataba wo | 411400 | [411400-mercuria-mizu-no-miyako-ni-koi-no-hanataba-wo.json](./411400-mercuria-mizu-no-miyako-ni-koi-no-hanataba-wo.json) |
@@ -8878,6 +8881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Storm | 319587 | [319587-meteor-storm.json](./319587-meteor-storm.json) |
 | Meteor Storm | 379900 | [379900-meteor-storm.json](./379900-meteor-storm.json) |
 | Meteor Tensei | 141029 | [141029-meteor-tensei.json](./141029-meteor-tensei.json) |
+| Meteor Volleyball! | 186485 | [186485-meteor-volleyball.json](./186485-meteor-volleyball.json) |
 | Meteor World Actor: Badge & Dagger | 194451 | [194451-meteor-world-actor-badge-and-dagger.json](./194451-meteor-world-actor-badge-and-dagger.json) |
 | Meteor World Actor: Badge & Dagger | 252088 | [252088-meteor-world-actor-badge-and-dagger.json](./252088-meteor-world-actor-badge-and-dagger.json) |
 | Meteora | 149823 | [149823-meteora.json](./149823-meteora.json) |
@@ -10554,6 +10558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minami Taiheiyou Adventure | 400335 | [400335-minami-taiheiyou-adventure.json](./400335-minami-taiheiyou-adventure.json) |
 | Minamochi Factory | 253912 | [253912-minamochi-factory.json](./253912-minamochi-factory.json) |
 | Minar | 174291 | [174291-minar.json](./174291-minar.json) |
+| Minarai Mahoutsukai Fuwaru no Bouken | 187024 | [187024-minarai-mahoutsukai-fuwaru-no-bouken.json](./187024-minarai-mahoutsukai-fuwaru-no-bouken.json) |
 | Minarai Majo to Mokomoko Friends | 222497 | [222497-minarai-majo-to-mokomoko-friends.json](./222497-minarai-majo-to-mokomoko-friends.json) |
 | Minarchy: Active Shooter | 196690 | [196690-minarchy-active-shooter.json](./196690-minarchy-active-shooter.json) |
 | Mination | 348419 | [348419-mination.json](./348419-mination.json) |
@@ -10737,6 +10742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine & Ship Bundle: Gold Mining & Ship Graveyard Simulator 2 | 340950 | [340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json](./340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json) |
 | Mine Battles | 236971 | [236971-mine-battles.json](./236971-mine-battles.json) |
 | Mine Blast | 96758 | [96758-mine-blast.json](./96758-mine-blast.json) |
+| Mine Blocks | 187023 | [187023-mine-blocks.json](./187023-mine-blocks.json) |
 | Mine Bombers | 14449 | [14449-mine-bombers.json](./14449-mine-bombers.json) |
 | Mine Boss Simulator | 212892 | [212892-mine-boss-simulator.json](./212892-mine-boss-simulator.json) |
 | Mine Breaker Simulator 2026 | 386372 | [386372-mine-breaker-simulator-2026.json](./386372-mine-breaker-simulator-2026.json) |
@@ -11278,6 +11284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Kart Racing | 154356 | [154356-mini-kart-racing.json](./154356-mini-kart-racing.json) |
 | Mini Kingdom War | 330650 | [330650-mini-kingdom-war.json](./330650-mini-kingdom-war.json) |
 | Mini Knight | 83488 | [83488-mini-knight.json](./83488-mini-knight.json) |
+| Mini Kyodai Robo Goemon Compact | 186457 | [186457-mini-kyodai-robo-goemon-compact.json](./186457-mini-kyodai-robo-goemon-compact.json) |
 | Mini Leap | 209707 | [209707-mini-leap.json](./209707-mini-leap.json) |
 | Mini Lucy | 403705 | [403705-mini-lucy.json](./403705-mini-lucy.json) |
 | Mini Lunar Ball | 304236 | [304236-mini-lunar-ball.json](./304236-mini-lunar-ball.json) |
@@ -14349,6 +14356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters Ate My Birthday Cake | 17344 | [17344-monsters-ate-my-birthday-cake.json](./17344-monsters-ate-my-birthday-cake.json) |
 | Monsters Ate My Metropolis | 122010 | [122010-monsters-ate-my-metropolis.json](./122010-monsters-ate-my-metropolis.json) |
 | Monsters Come Out | 177765 | [177765-monsters-come-out.json](./177765-monsters-come-out.json) |
+| Monsters Domain | 187056 | [187056-monsters-domain.json](./187056-monsters-domain.json) |
 | Monsters Everywhere | 256358 | [256358-monsters-everywhere.json](./256358-monsters-everywhere.json) |
 | Monsters Idle RPG | 238721 | [238721-monsters-idle-rpg.json](./238721-monsters-idle-rpg.json) |
 | Monsters in Cards | 380844 | [380844-monsters-in-cards.json](./380844-monsters-in-cards.json) |
@@ -14563,6 +14571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Crystal | 48620 | [48620-moon-crystal.json](./48620-moon-crystal.json) |
 | Moon Crystal | 80825 | [80825-moon-crystal.json](./80825-moon-crystal.json) |
 | Moon Crystals | 172710 | [172710-moon-crystals.json](./172710-moon-crystals.json) |
+| Moon Dancer | 187080 | [187080-moon-dancer.json](./187080-moon-dancer.json) |
 | Moon Defence | 153901 | [153901-moon-defence.json](./153901-moon-defence.json) |
 | Moon Diver | 20543 | [20543-moon-diver.json](./20543-moon-diver.json) |
 | Moon Dragon | 191457 | [191457-moon-dragon.json](./191457-moon-dragon.json) |
@@ -14985,6 +14994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mori no Fukurou | 72270 | [72270-mori-no-fukurou.json](./72270-mori-no-fukurou.json) |
 | Mori no Naka de Mayoi Ie kara no Dasshutsu | 358494 | [358494-mori-no-naka-de-mayoi-ie-kara-no-dasshutsu.json](./358494-mori-no-naka-de-mayoi-ie-kara-no-dasshutsu.json) |
 | Mori no Naku Shunkan he: The End of a Saga | 299185 | [299185-mori-no-naku-shunkan-he-the-end-of-a-saga.json](./299185-mori-no-naku-shunkan-he-the-end-of-a-saga.json) |
+| Mori no Oukoku | 186439 | [186439-mori-no-oukoku.json](./186439-mori-no-oukoku.json) |
 | Mòrì Zhàn Jī | 367585 | [367585-mori-zhan-ji.json](./367585-mori-zhan-ji.json) |
 | Mori's Nightmare: Hide and seek | 159842 | [159842-moris-nightmare-hide-and-seek.json](./159842-moris-nightmare-hide-and-seek.json) |
 | Moria | 77304 | [77304-moria.json](./77304-moria.json) |
@@ -15385,6 +15395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic Quiz | 378814 | [378814-mosaic-quiz.json](./378814-mosaic-quiz.json) |
 | Mosaic Quiz Fastest Finger Battle | 403745 | [403745-mosaic-quiz-fastest-finger-battle.json](./403745-mosaic-quiz-fastest-finger-battle.json) |
 | Mosaic Your Crush! | 161394 | [161394-mosaic-your-crush.json](./161394-mosaic-your-crush.json) |
+| Mosaic: BlipBlop | 186453 | [186453-mosaic-blipblop.json](./186453-mosaic-blipblop.json) |
 | Mosaic: Game of Gods | 30814 | [30814-mosaic-game-of-gods.json](./30814-mosaic-game-of-gods.json) |
 | Mosaic: Game of Gods II | 99446 | [99446-mosaic-game-of-gods-ii.json](./99446-mosaic-game-of-gods-ii.json) |
 | Mosaic: Tomb of Mystery | 210122 | [210122-mosaic-tomb-of-mystery.json](./210122-mosaic-tomb-of-mystery.json) |
@@ -17616,6 +17627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My 9 Swallows: Topstars League | 241525 | [241525-my-9-swallows-topstars-league.json](./241525-my-9-swallows-topstars-league.json) |
 | My Adaptation In(to) Human | 301348 | [301348-my-adaptation-in-to-human.json](./301348-my-adaptation-in-to-human.json) |
 | My Adventure Book | 288722 | [288722-my-adventure-book.json](./288722-my-adventure-book.json) |
+| My Adventures Checking Out "Animals of the World: The Adventures of Civette the Space-Faring Civet" | 186455 | [186455-my-adventures-checking-out-animals-of-the-world-the-adventures-of-civette-the-space-faring-civet.json](./186455-my-adventures-checking-out-animals-of-the-world-the-adventures-of-civette-the-space-faring-civet.json) |
 | My Agent is a Futanari | 220676 | [220676-my-agent-is-a-futanari.json](./220676-my-agent-is-a-futanari.json) |
 | My Amazing Human Body | 129506 | [129506-my-amazing-human-body.json](./129506-my-amazing-human-body.json) |
 | My Ambitious Girlfriend | 299522 | [299522-my-ambitious-girlfriend.json](./299522-my-ambitious-girlfriend.json) |
