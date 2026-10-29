@@ -1379,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandbox Skyline | 244129 | [244129-sandbox-skyline.json](./244129-sandbox-skyline.json) |
 | Sandbox Survivors | 415842 | [415842-sandbox-survivors.json](./415842-sandbox-survivors.json) |
 | Sandbox World | 265552 | [265552-sandbox-world.json](./265552-sandbox-world.json) |
+| Sandbox Zombies | 196406 | [196406-sandbox-zombies.json](./196406-sandbox-zombies.json) |
 | Sandboxels | 187147 | [187147-sandboxels.json](./187147-sandboxels.json) |
 | Sandcastle | 268655 | [268655-sandcastle.json](./268655-sandcastle.json) |
 | Sandcastle Builder | 62457 | [62457-sandcastle-builder.json](./62457-sandcastle-builder.json) |
@@ -5918,6 +5919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Tomb Raider: The Serpent's Heart | 116003 | [116003-shadow-of-the-tomb-raider-the-serpents-heart.json](./116003-shadow-of-the-tomb-raider-the-serpents-heart.json) |
 | Shadow of the Tomb Raider: Ultimate Edition | 99123 | [99123-shadow-of-the-tomb-raider-ultimate-edition.json](./99123-shadow-of-the-tomb-raider-ultimate-edition.json) |
 | Shadow of the Unicorn | 26417 | [26417-shadow-of-the-unicorn.json](./26417-shadow-of-the-unicorn.json) |
+| Shadow of the Wool Ball | 195860 | [195860-shadow-of-the-wool-ball.json](./195860-shadow-of-the-wool-ball.json) |
 | Shadow of the Wyrm | 77656 | [77656-shadow-of-the-wyrm.json](./77656-shadow-of-the-wyrm.json) |
 | Shadow of Winter | 374067 | [374067-shadow-of-winter.json](./374067-shadow-of-winter.json) |
 | Shadow of Witch Marionette | 210516 | [210516-shadow-of-witch-marionette.json](./210516-shadow-of-witch-marionette.json) |
@@ -8895,6 +8897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siegius Arena | 399469 | [399469-siegius-arena.json](./399469-siegius-arena.json) |
 | Siemb Chronicles: Arkos The Traitor | 259384 | [259384-siemb-chronicles-arkos-the-traitor.json](./259384-siemb-chronicles-arkos-the-traitor.json) |
 | Sienna | 51221 | [51221-sienna.json](./51221-sienna.json) |
+| Sierra 7 | 196428 | [196428-sierra-7.json](./196428-sierra-7.json) |
 | Sierra 7 | 300641 | [300641-sierra-7.json](./300641-sierra-7.json) |
 | Sierra Championship Boxing | 73238 | [73238-sierra-championship-boxing.json](./73238-sierra-championship-boxing.json) |
 | Sierra Madre | 111879 | [111879-sierra-madre.json](./111879-sierra-madre.json) |
@@ -11703,6 +11706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender: The Arrival | 265723 | [265723-slender-the-arrival.json](./265723-slender-the-arrival.json) |
 | Slender: The Arrival VR | 302594 | [302594-slender-the-arrival-vr.json](./302594-slender-the-arrival-vr.json) |
 | Slender: The Eight Pages | 12938 | [12938-slender-the-eight-pages.json](./12938-slender-the-eight-pages.json) |
+| Slender: The Eight Pages - Remake | 195871 | [195871-slender-the-eight-pages-remake.json](./195871-slender-the-eight-pages-remake.json) |
 | Slender: The Eight Pages - Tiger Electronic Version | 383760 | [383760-slender-the-eight-pages-tiger-electronic-version.json](./383760-slender-the-eight-pages-tiger-electronic-version.json) |
 | Slender: The Gaze Of Horror | 321324 | [321324-slender-the-gaze-of-horror.json](./321324-slender-the-gaze-of-horror.json) |
 | Slender: The Haunted Metro | 321326 | [321326-slender-the-haunted-metro.json](./321326-slender-the-haunted-metro.json) |
@@ -11943,6 +11947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Pizza | 90360 | [90360-slime-pizza.json](./90360-slime-pizza.json) |
 | Slime Puzzle Story | 235656 | [235656-slime-puzzle-story.json](./235656-slime-puzzle-story.json) |
 | Slime Quest | 110173 | [110173-slime-quest.json](./110173-slime-quest.json) |
+| Slime Quest | 196437 | [196437-slime-quest.json](./196437-slime-quest.json) |
 | Slime Quest | 248145 | [248145-slime-quest.json](./248145-slime-quest.json) |
 | Slime Rancher 2 | 152243 | [152243-slime-rancher-2.json](./152243-slime-rancher-2.json) |
 | Slime Rancher Rainbow Bundle | 293761 | [293761-slime-rancher-rainbow-bundle.json](./293761-slime-rancher-rainbow-bundle.json) |
@@ -13298,6 +13303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite: Resistance | 314238 | [314238-sniper-elite-resistance.json](./314238-sniper-elite-resistance.json) |
 | Sniper Fodder | 103815 | [103815-sniper-fodder.json](./103815-sniper-fodder.json) |
 | Sniper Fury | 20356 | [20356-sniper-fury.json](./20356-sniper-fury.json) |
+| Sniper Game | 195893 | [195893-sniper-game.json](./195893-sniper-game.json) |
 | Sniper Game | 411050 | [411050-sniper-game.json](./411050-sniper-game.json) |
 | Sniper Ghost Warrior 3: Season Pass Edition | 82416 | [82416-sniper-ghost-warrior-3-season-pass-edition.json](./82416-sniper-ghost-warrior-3-season-pass-edition.json) |
 | Sniper Ghost Warrior Contracts | 107155 | [107155-sniper-ghost-warrior-contracts.json](./107155-sniper-ghost-warrior-contracts.json) |
@@ -13859,6 +13865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Golf! | 343714 | [343714-soccer-golf.json](./343714-soccer-golf.json) |
 | Soccer Hero 2019 | 223913 | [223913-soccer-hero-2019.json](./223913-soccer-hero-2019.json) |
 | Soccer Hero! | 103526 | [103526-soccer-hero.json](./103526-soccer-hero.json) |
+| Soccer Hit | 196436 | [196436-soccer-hit.json](./196436-soccer-hit.json) |
 | Soccer in a Box | 320351 | [320351-soccer-in-a-box.json](./320351-soccer-in-a-box.json) |
 | Soccer Is Football | 395970 | [395970-soccer-is-football.json](./395970-soccer-is-football.json) |
 | Soccer Kick | 104501 | [104501-soccer-kick.json](./104501-soccer-kick.json) |
@@ -15896,6 +15903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sono Hanabira ni Kuchizuke wo: Tenshi no Hanabira Zome | 12219 | [12219-sono-hanabira-ni-kuchizuke-wo-tenshi-no-hanabira-zome.json](./12219-sono-hanabira-ni-kuchizuke-wo-tenshi-no-hanabira-zome.json) |
 | Sono Hanabira ni Kuchizuke wo: Tenshi-tachi no Harukoi | 12272 | [12272-sono-hanabira-ni-kuchizuke-wo-tenshi-tachi-no-harukoi.json](./12272-sono-hanabira-ni-kuchizuke-wo-tenshi-tachi-no-harukoi.json) |
 | Sono Hanabira: YuriCycle | 251697 | [251697-sono-hanabira-yuricycle.json](./251697-sono-hanabira-yuricycle.json) |
+| Sono Higurashi vs. Touhou Universe | 195851 | [195851-sono-higurashi-vs-touhou-universe.json](./195851-sono-higurashi-vs-touhou-universe.json) |
 | Sono Higurashi vs. Touhou Universe 2 | 213210 | [213210-sono-higurashi-vs-touhou-universe-2.json](./213210-sono-higurashi-vs-touhou-universe-2.json) |
 | Sono Kaori de Mitasaretai: #7b5544 no Koi wo Shita Watashi no Hajimete wo Master ni Agetai | 412315 | [412315-sono-kaori-de-mitasaretai-7b5544-no-koi-wo-shita-watashi-no-hajimete-wo-master-ni-agetai.json](./412315-sono-kaori-de-mitasaretai-7b5544-no-koi-wo-shita-watashi-no-hajimete-wo-master-ni-agetai.json) |
 | Sonoklo | 408212 | [408212-sonoklo.json](./408212-sonoklo.json) |
@@ -18653,6 +18661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellForce 3: Soul Harvest - Oktoberfest | 157561 | [157561-spellforce-3-soul-harvest-oktoberfest.json](./157561-spellforce-3-soul-harvest-oktoberfest.json) |
 | SpellForce 3: Versus | 144290 | [144290-spellforce-3-versus.json](./144290-spellforce-3-versus.json) |
 | SpellForce 3: Versus Edition | 227191 | [227191-spellforce-3-versus-edition.json](./227191-spellforce-3-versus-edition.json) |
+| SpellForce III: Reforced - Complete Edition | 196442 | [196442-spellforce-iii-reforced-complete-edition.json](./196442-spellforce-iii-reforced-complete-edition.json) |
 | SpellForce: Complete Collection | 53651 | [53651-spellforce-complete-collection.json](./53651-spellforce-complete-collection.json) |
 | Spellforce: Conquest of Eo - Children of Nor | 343445 | [343445-spellforce-conquest-of-eo-children-of-nor.json](./343445-spellforce-conquest-of-eo-children-of-nor.json) |
 | SpellForce: Conquest of Eo - Weaver's Realms | 318472 | [318472-spellforce-conquest-of-eo-weavers-realms.json](./318472-spellforce-conquest-of-eo-weavers-realms.json) |
@@ -19496,6 +19505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatoon: Version 2.0.0 | 230106 | [230106-splatoon-version-2-0-0.json](./230106-splatoon-version-2-0-0.json) |
 | Splatt Curling | 261224 | [261224-splatt-curling.json](./261224-splatt-curling.json) |
 | Splatter | 173134 | [173134-splatter.json](./173134-splatter.json) |
+| Splatter | 195877 | [195877-splatter.json](./195877-splatter.json) |
 | Splatter World | 304076 | [304076-splatter-world.json](./304076-splatter-world.json) |
 | Splatter: Zombiecalypse Now + The Hong Kong Massacre | 226337 | [226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json](./226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json) |
 | Splatterbot | 297007 | [297007-splatterbot.json](./297007-splatterbot.json) |
@@ -22554,6 +22564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of War | 94231 | [94231-state-of-war.json](./94231-state-of-war.json) |
 | State of War 2: Arcon | 64986 | [64986-state-of-war-2-arcon.json](./64986-state-of-war-2-arcon.json) |
 | State of War: Warmonger | 71217 | [71217-state-of-war-warmonger.json](./71217-state-of-war-warmonger.json) |
+| State of Zombie | 196411 | [196411-state-of-zombie.json](./196411-state-of-zombie.json) |
 | State Railroad | 214327 | [214327-state-railroad.json](./214327-state-railroad.json) |
 | State Your Business | 336620 | [336620-state-your-business.json](./336620-state-your-business.json) |
 | State Z | 406836 | [406836-state-z.json](./406836-state-z.json) |
@@ -30107,6 +30118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival: Wicked Forest | 102626 | [102626-survival-wicked-forest.json](./102626-survival-wicked-forest.json) |
 | Survival.io - Battle Royale | 101560 | [101560-survival-io-battle-royale.json](./101560-survival-io-battle-royale.json) |
 | Survivalcraft | 87025 | [87025-survivalcraft.json](./87025-survivalcraft.json) |
+| SurvivalIsLand | 195902 | [195902-survivalisland.json](./195902-survivalisland.json) |
 | Survivalist | 35994 | [35994-survivalist.json](./35994-survivalist.json) |
 | Survivalist: Invisible Strain | 117233 | [117233-survivalist-invisible-strain.json](./117233-survivalist-invisible-strain.json) |
 | Survivalizm - The Animal Simulator | 28082 | [28082-survivalizm-the-animal-simulator.json](./28082-survivalizm-the-animal-simulator.json) |
@@ -30157,6 +30169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Grid | 365162 | [365162-survive-the-grid.json](./365162-survive-the-grid.json) |
 | Survive the Hill | 187524 | [187524-survive-the-hill.json](./187524-survive-the-hill.json) |
 | Survive the Hunt | 334209 | [334209-survive-the-hunt.json](./334209-survive-the-hunt.json) |
+| Survive the Island | 195897 | [195897-survive-the-island.json](./195897-survive-the-island.json) |
 | Survive the KSI Song | 321021 | [321021-survive-the-ksi-song.json](./321021-survive-the-ksi-song.json) |
 | Survive the Labyrinth | 343833 | [343833-survive-the-labyrinth.json](./343833-survive-the-labyrinth.json) |
 | Survive the Mafia | 184378 | [184378-survive-the-mafia.json](./184378-survive-the-mafia.json) |
