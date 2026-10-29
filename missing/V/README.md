@@ -3067,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volley & Tennis Bundle Blast | 196812 | [196812-volley-and-tennis-bundle-blast.json](./196812-volley-and-tennis-bundle-blast.json) |
 | Volley Balley | 90895 | [90895-volley-balley.json](./90895-volley-balley.json) |
 | Volley Bomb | 239092 | [239092-volley-bomb.json](./239092-volley-bomb.json) |
+| Volley Pals | 223228 | [223228-volley-pals.json](./223228-volley-pals.json) |
 | Volley Sumos | 193727 | [193727-volley-sumos.json](./193727-volley-sumos.json) |
 | Volleyball | 109446 | [109446-volleyball.json](./109446-volleyball.json) |
 | Volleyball | 287574 | [287574-volleyball.json](./287574-volleyball.json) |
@@ -3679,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vtuber Baseball | 187774 | [187774-vtuber-baseball.json](./187774-vtuber-baseball.json) |
 | VTuber Battle: It’s Not About Subscribers! It’s All About Power! | 331888 | [331888-vtuber-battle-it-s-not-about-subscribers-it-s-all-about-power.json](./331888-vtuber-battle-it-s-not-about-subscribers-it-s-all-about-power.json) |
 | VTuber Beats | 163862 | [163862-vtuber-beats.json](./163862-vtuber-beats.json) |
+| VTuber Connect | 223234 | [223234-vtuber-connect.json](./223234-vtuber-connect.json) |
 | VTuber Manager | 282253 | [282253-vtuber-manager.json](./282253-vtuber-manager.json) |
 | Vtuber ni Kusokome wo Okuru Typing Game | 362397 | [362397-vtuber-ni-kusokome-wo-okuru-typing-game.json](./362397-vtuber-ni-kusokome-wo-okuru-typing-game.json) |
 | Vtuber Sex Manager | 385622 | [385622-vtuber-sex-manager.json](./385622-vtuber-sex-manager.json) |
