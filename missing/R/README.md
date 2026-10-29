@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Aliceland | 206725 | [206725-rainbow-aliceland.json](./206725-rainbow-aliceland.json) |
 | Rainbow Ascend: Anime Girls Go Up | 305619 | [305619-rainbow-ascend-anime-girls-go-up.json](./305619-rainbow-ascend-anime-girls-go-up.json) |
 | Rainbow Billy: The Book of Fears | 391844 | [391844-rainbow-billy-the-book-of-fears.json](./391844-rainbow-billy-the-book-of-fears.json) |
+| Rainbow Birthday Planet | 184725 | [184725-rainbow-birthday-planet.json](./184725-rainbow-birthday-planet.json) |
 | Rainbow Blocks | 88488 | [88488-rainbow-blocks.json](./88488-rainbow-blocks.json) |
 | Rainbow Breakout | 234166 | [234166-rainbow-breakout.json](./234166-rainbow-breakout.json) |
 | Rainbow Brite: Journey to Rainbow Land | 283799 | [283799-rainbow-brite-journey-to-rainbow-land.json](./283799-rainbow-brite-journey-to-rainbow-land.json) |
@@ -1600,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randnet Disk | 94725 | [94725-randnet-disk.json](./94725-randnet-disk.json) |
 | Rando'Knights | 275491 | [275491-randoknights.json](./275491-randoknights.json) |
 | RandoJumper | 308148 | [308148-randojumper.json](./308148-randojumper.json) |
+| Random Access Rememberer | 184697 | [184697-random-access-rememberer.json](./184697-random-access-rememberer.json) |
 | Random Acts of Madness | 270173 | [270173-random-acts-of-madness.json](./270173-random-acts-of-madness.json) |
 | Random Card Defense | 143392 | [143392-random-card-defense.json](./143392-random-card-defense.json) |
 | Random Chat | 229913 | [229913-random-chat.json](./229913-random-chat.json) |
@@ -11214,6 +11216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Enjou, Kyoto Rinne! | 73695 | [73695-rurouni-kenshin-meiji-kenkaku-romantan-enjou-kyoto-rinne.json](./73695-rurouni-kenshin-meiji-kenkaku-romantan-enjou-kyoto-rinne.json) |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kansen | 44492 | [44492-rurouni-kenshin-meiji-kenkaku-romantan-kansen.json](./44492-rurouni-kenshin-meiji-kenkaku-romantan-kansen.json) |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Saisen | 42838 | [42838-rurouni-kenshin-meiji-kenkaku-romantan-saisen.json](./42838-rurouni-kenshin-meiji-kenkaku-romantan-saisen.json) |
+| Ruru's Christmas Run | 184738 | [184738-rurus-christmas-run.json](./184738-rurus-christmas-run.json) |
 | Ruruli Ra Rura | 45950 | [45950-ruruli-ra-rura.json](./45950-ruruli-ra-rura.json) |
 | Rusa Odyssey | 159783 | [159783-rusa-odyssey.json](./159783-rusa-odyssey.json) |
 | Rush | 131541 | [131541-rush.json](./131541-rush.json) |
