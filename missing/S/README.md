@@ -6515,6 +6515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShapeShift Rush | 380176 | [380176-shapeshift-rush.json](./380176-shapeshift-rush.json) |
 | ShapeShifter | 32217 | [32217-shapeshifter.json](./32217-shapeshifter.json) |
 | ShapeShifter | 344569 | [344569-shapeshifter.json](./344569-shapeshifter.json) |
+| Shapeshifter Biker | 183711 | [183711-shapeshifter-biker.json](./183711-shapeshifter-biker.json) |
 | Shapeshifter: Endless Run | 392787 | [392787-shapeshifter-endless-run.json](./392787-shapeshifter-endless-run.json) |
 | Shapeshooter | 126942 | [126942-shapeshooter.json](./126942-shapeshooter.json) |
 | ShapeSim | 106492 | [106492-shapesim.json](./106492-shapesim.json) |
@@ -11634,6 +11635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Swimmer | 298645 | [298645-sleep-swimmer.json](./298645-sleep-swimmer.json) |
 | Sleep Terror | 292309 | [292309-sleep-terror.json](./292309-sleep-terror.json) |
 | Sleep Tight | 144258 | [144258-sleep-tight.json](./144258-sleep-tight.json) |
+| Sleep Tight | 183729 | [183729-sleep-tight.json](./183729-sleep-tight.json) |
 | Sleep Tight | 75866 | [75866-sleep-tight.json](./75866-sleep-tight.json) |
 | Sleep Tight PC | 154310 | [154310-sleep-tight-pc.json](./154310-sleep-tight-pc.json) |
 | Sleep Walk | 331170 | [331170-sleep-walk.json](./331170-sleep-walk.json) |
@@ -11666,6 +11668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleeping Flowers: Thread Curse | 233490 | [233490-sleeping-flowers-thread-curse.json](./233490-sleeping-flowers-thread-curse.json) |
 | Sleeping Forest | 292513 | [292513-sleeping-forest.json](./292513-sleeping-forest.json) |
 | Sleeping Gods Lie | 71585 | [71585-sleeping-gods-lie.json](./71585-sleeping-gods-lie.json) |
+| Sleeping Menace | 183707 | [183707-sleeping-menace.json](./183707-sleeping-menace.json) |
 | Sleeping Prince | 77966 | [77966-sleeping-prince.json](./77966-sleeping-prince.json) |
 | Sleeping Tanuki | 202008 | [202008-sleeping-tanuki.json](./202008-sleeping-tanuki.json) |
 | Sleeping Valley | 24960 | [24960-sleeping-valley.json](./24960-sleeping-valley.json) |
@@ -12574,6 +12577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Court 3 | 61669 | [61669-smash-court-3.json](./61669-smash-court-3.json) |
 | Smash Court Tennis 3 | 7188 | [7188-smash-court-tennis-3.json](./7188-smash-court-tennis-3.json) |
 | Smash Court Tennis Pro Tournament 2 | 20184 | [20184-smash-court-tennis-pro-tournament-2.json](./20184-smash-court-tennis-pro-tournament-2.json) |
+| Smash Court: Warm Up | 183737 | [183737-smash-court-warm-up.json](./183737-smash-court-warm-up.json) |
 | Smash Crabs | 151744 | [151744-smash-crabs.json](./151744-smash-crabs.json) |
 | Smash Dash: Demolition Run | 406575 | [406575-smash-dash-demolition-run.json](./406575-smash-dash-demolition-run.json) |
 | Smash Derby | 36776 | [36776-smash-derby.json](./36776-smash-derby.json) |
@@ -20148,6 +20152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring's Finale: Tales of Love | 347352 | [347352-springs-finale-tales-of-love.json](./347352-springs-finale-tales-of-love.json) |
 | SpringBack | 124647 | [124647-springback.json](./124647-springback.json) |
 | Springblades | 227857 | [227857-springblades.json](./227857-springblades.json) |
+| Springbot: Mars Attack! | 183721 | [183721-springbot-mars-attack.json](./183721-springbot-mars-attack.json) |
 | Springbot: The Last Spark | 403726 | [403726-springbot-the-last-spark.json](./403726-springbot-the-last-spark.json) |
 | Springcar | 391155 | [391155-springcar.json](./391155-springcar.json) |
 | Springdale: Riding Adventures | 200000 | [200000-springdale-riding-adventures.json](./200000-springdale-riding-adventures.json) |
@@ -23351,6 +23356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Utopia | 27053 | [27053-stellaris-utopia.json](./27053-stellaris-utopia.json) |
 | Stellarons Superstars: Detectives of the Scarlet Horizons | 300838 | [300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json](./300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json) |
 | StellarPlans | 295334 | [295334-stellarplans.json](./295334-stellarplans.json) |
+| StellarRoads | 183713 | [183713-stellarroads.json](./183713-stellarroads.json) |
 | Stellarune | 272221 | [272221-stellarune.json](./272221-stellarune.json) |
 | StellaSpella | 151447 | [151447-stellaspella.json](./151447-stellaspella.json) |
 | Stellata Waterway | 249402 | [249402-stellata-waterway.json](./249402-stellata-waterway.json) |
@@ -27159,6 +27165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Commander XL | 110516 | [110516-super-commander-xl.json](./110516-super-commander-xl.json) |
 | Super Company | 219580 | [219580-super-company.json](./219580-super-company.json) |
 | Super Concentration | 262370 | [262370-super-concentration.json](./262370-super-concentration.json) |
+| Super Conductor | 183741 | [183741-super-conductor.json](./183741-super-conductor.json) |
 | Super Conductor | 319125 | [319125-super-conductor.json](./319125-super-conductor.json) |
 | Super Console Kid | 296506 | [296506-super-console-kid.json](./296506-super-console-kid.json) |
 | Super Contra | 217546 | [217546-super-contra.json](./217546-super-contra.json) |
