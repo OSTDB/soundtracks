@@ -8284,6 +8284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII Eiyuu Retsuden: Doro no Naka no Tora - Otto Carius | 84092 | [84092-wwii-eiyuu-retsuden-doro-no-naka-no-tora-otto-carius.json](./84092-wwii-eiyuu-retsuden-doro-no-naka-no-tora-otto-carius.json) |
 | WWII Eiyuu Retsuden: Saikyou no Tora - Kurt Knispel | 91407 | [91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json](./91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json) |
 | WWII Online: Chokepoint | 154269 | [154269-wwii-online-chokepoint.json](./154269-wwii-online-chokepoint.json) |
+| WWII Online: Paratrooper Pack | 227013 | [227013-wwii-online-paratrooper-pack.json](./227013-wwii-online-paratrooper-pack.json) |
 | WWII Simulator 3D | 303093 | [303093-wwii-simulator-3d.json](./303093-wwii-simulator-3d.json) |
 | WWII Squad Level Land Battles ssp | 295540 | [295540-wwii-squad-level-land-battles-ssp.json](./295540-wwii-squad-level-land-battles-ssp.json) |
 | WWII Tanks Battle: World War 2 Heroes Troopers Machines Sim | 274520 | [274520-wwii-tanks-battle-world-war-2-heroes-troopers-machines-sim.json](./274520-wwii-tanks-battle-world-war-2-heroes-troopers-machines-sim.json) |
