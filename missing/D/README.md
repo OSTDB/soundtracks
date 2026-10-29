@@ -2908,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Ant | 245149 | [245149-dead-ant.json](./245149-dead-ant.json) |
 | Dead Army - Radio Frequency | 32727 | [32727-dead-army-radio-frequency.json](./32727-dead-army-radio-frequency.json) |
 | Dead as Disco | 341592 | [341592-dead-as-disco.json](./341592-dead-as-disco.json) |
+| Dead Beacon | 213770 | [213770-dead-beacon.json](./213770-dead-beacon.json) |
 | Dead Beats Survivors | 333504 | [333504-dead-beats-survivors.json](./333504-dead-beats-survivors.json) |
 | Dead Before Work: The Commute | 399087 | [399087-dead-before-work-the-commute.json](./399087-dead-before-work-the-commute.json) |
 | Dead Beyond | 372736 | [372736-dead-beyond.json](./372736-dead-beyond.json) |
@@ -10547,6 +10548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphin Simulator | 107007 | [107007-dolphin-simulator.json](./107007-dolphin-simulator.json) |
 | Dolphin Spirit: Ocean Mission | 246622 | [246622-dolphin-spirit-ocean-mission.json](./246622-dolphin-spirit-ocean-mission.json) |
 | Dolphin Splash! | 272475 | [272475-dolphin-splash.json](./272475-dolphin-splash.json) |
+| Dolphin Squadron | 213731 | [213731-dolphin-squadron.json](./213731-dolphin-squadron.json) |
 | Dolphin Swim | 116737 | [116737-dolphin-swim.json](./116737-dolphin-swim.json) |
 | Dolphin Trainer | 269739 | [269739-dolphin-trainer.json](./269739-dolphin-trainer.json) |
 | Dolphin Trainer VR | 156946 | [156946-dolphin-trainer-vr.json](./156946-dolphin-trainer-vr.json) |
