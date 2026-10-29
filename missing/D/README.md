@@ -8021,6 +8021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Linkz | 58622 | [58622-digimon-linkz.json](./58622-digimon-linkz.json) |
 | Digimon Masters Online | 25791 | [25791-digimon-masters-online.json](./25791-digimon-masters-online.json) |
 | Digimon New Century | 174707 | [174707-digimon-new-century.json](./174707-digimon-new-century.json) |
+| Digimon Nova Red | 181494 | [181494-digimon-nova-red.json](./181494-digimon-nova-red.json) |
 | Digimon Pendulum Ver.20th | 276079 | [276079-digimon-pendulum-ver-20th.json](./276079-digimon-pendulum-ver-20th.json) |
 | Digimon Pocket | 247403 | [247403-digimon-pocket.json](./247403-digimon-pocket.json) |
 | Digimon Racing | 6376 | [6376-digimon-racing.json](./6376-digimon-racing.json) |
@@ -9958,6 +9959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Something | 192752 | [192752-do-something.json](./192752-do-something.json) |
 | Do the Cat | 326267 | [326267-do-the-cat.json](./326267-do-the-cat.json) |
 | Do They Know | 399256 | [399256-do-they-know.json](./399256-do-they-know.json) |
+| Do U Copy? | 181488 | [181488-do-u-copy.json](./181488-do-u-copy.json) |
 | Do Unto Others | 177252 | [177252-do-unto-others.json](./177252-do-unto-others.json) |
 | Do Up | 365832 | [365832-do-up.json](./365832-do-up.json) |
 | Do Us Part | 276106 | [276106-do-us-part.json](./276106-do-us-part.json) |
