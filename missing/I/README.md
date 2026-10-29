@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icey: Ucey's Awakening | 171943 | [171943-icey-uceys-awakening.json](./171943-icey-uceys-awakening.json) |
 | Icharko | 277255 | [277255-icharko.json](./277255-icharko.json) |
 | Ichido ha Yonde Okitai: Nihon Bungaku 100-sen | 269639 | [269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json](./269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json) |
+| Ichigeki Nyuukon! Panda Ball | 206506 | [206506-ichigeki-nyuukon-panda-ball.json](./206506-ichigeki-nyuukon-panda-ball.json) |
 | Ichigeki Sacchu!! HoiHoi-san | 67054 | [67054-ichigeki-sacchu-hoihoi-san.json](./67054-ichigeki-sacchu-hoihoi-san.json) |
 | Ichigeki: Hagane No Hito | 174632 | [174632-ichigeki-hagane-no-hito.json](./174632-ichigeki-hagane-no-hito.json) |
 | Ichigo 100%: Strawberry Diary | 77404 | [77404-ichigo-100-strawberry-diary.json](./77404-ichigo-100-strawberry-diary.json) |
@@ -1540,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idling Idol | 186505 | [186505-idling-idol.json](./186505-idling-idol.json) |
 | Idling to Rule the Gods | 32737 | [32737-idling-to-rule-the-gods.json](./32737-idling-to-rule-the-gods.json) |
 | Idly God | 209637 | [209637-idly-god.json](./209637-idly-god.json) |
+| Ido | 206411 | [206411-ido.json](./206411-ido.json) |
 | Ido no Akai | 151851 | [151851-ido-no-akai.json](./151851-ido-no-akai.json) |
 | Idol | 259376 | [259376-idol.json](./259376-idol.json) |
 | Idol Connect -AsteriskLive- | 56164 | [56164-idol-connect-asterisklive.json](./56164-idol-connect-asterisklive.json) |
