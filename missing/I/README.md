@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Hate This Place: Deluxe Edition | 401858 | [401858-i-hate-this-place-deluxe-edition.json](./401858-i-hate-this-place-deluxe-edition.json) |
 | I hate trains | 367184 | [367184-i-hate-trains.json](./367184-i-hate-trains.json) |
 | I Hate You | 215771 | [215771-i-hate-you.json](./215771-i-hate-you.json) |
+| I Hate You, Please Suffer | 182051 | [182051-i-hate-you-please-suffer.json](./182051-i-hate-you-please-suffer.json) |
 | I Hate Zombies | 232890 | [232890-i-hate-zombies.json](./232890-i-hate-zombies.json) |
 | I Have a Dream | 255703 | [255703-i-have-a-dream.json](./255703-i-have-a-dream.json) |
 | I Have a Sect in the Mountains | 374903 | [374903-i-have-a-sect-in-the-mountains.json](./374903-i-have-a-sect-in-the-mountains.json) |
@@ -1705,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignis Avis Venatio | 89417 | [89417-ignis-avis-venatio.json](./89417-ignis-avis-venatio.json) |
 | Ignis Corruption | 196241 | [196241-ignis-corruption.json](./196241-ignis-corruption.json) |
 | Ignis Universia: Awakening of the Erudite Empress | 171380 | [171380-ignis-universia-awakening-of-the-erudite-empress.json](./171380-ignis-universia-awakening-of-the-erudite-empress.json) |
+| Ignis Universia: Eternal Sisters Saga | 182020 | [182020-ignis-universia-eternal-sisters-saga.json](./182020-ignis-universia-eternal-sisters-saga.json) |
 | Ignis Universia: Eternal Sisters Saga DX | 144213 | [144213-ignis-universia-eternal-sisters-saga-dx.json](./144213-ignis-universia-eternal-sisters-saga-dx.json) |
 | Ignisia | 328239 | [328239-ignisia.json](./328239-ignisia.json) |
 | Ignistone | 248000 | [248000-ignistone.json](./248000-ignistone.json) |
@@ -3184,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferiae | 399001 | [399001-inferiae.json](./399001-inferiae.json) |
 | Inferis: Dead Below | 359923 | [359923-inferis-dead-below.json](./359923-inferis-dead-below.json) |
 | Inferius | 272351 | [272351-inferius.json](./272351-inferius.json) |
+| Inferna | 182055 | [182055-inferna.json](./182055-inferna.json) |
 | Infernae | 267082 | [267082-infernae.json](./267082-infernae.json) |
 | Infernal Ascent | 271851 | [271851-infernal-ascent.json](./271851-infernal-ascent.json) |
 | Infernal Battles | 402938 | [402938-infernal-battles.json](./402938-infernal-battles.json) |
