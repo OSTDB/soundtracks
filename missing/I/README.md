@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Project | 283713 | [283713-idol-project.json](./283713-idol-project.json) |
 | Idol Project 2 | 283714 | [283714-idol-project-2.json](./283714-idol-project-2.json) |
 | Idol Project: NTR | 169253 | [169253-idol-project-ntr.json](./169253-idol-project-ntr.json) |
+| Idol Promotion: Yumie Suzuki | 209283 | [209283-idol-promotion-yumie-suzuki.json](./209283-idol-promotion-yumie-suzuki.json) |
 | Idol Queens Production | 168674 | [168674-idol-queens-production.json](./168674-idol-queens-production.json) |
 | Idol Quest VR | 81947 | [81947-idol-quest-vr.json](./81947-idol-quest-vr.json) |
 | Idol Shell | 415207 | [415207-idol-shell.json](./415207-idol-shell.json) |
