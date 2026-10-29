@@ -6494,6 +6494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic Scythe | 377924 | [377924-gothic-scythe.json](./377924-gothic-scythe.json) |
 | Gothic Survival | 201260 | [201260-gothic-survival.json](./201260-gothic-survival.json) |
 | Gothic Virtual Tabletop | 285676 | [285676-gothic-virtual-tabletop.json](./285676-gothic-virtual-tabletop.json) |
+| Gothic: Complete Collection | 203046 | [203046-gothic-complete-collection.json](./203046-gothic-complete-collection.json) |
 | Gothic: Playable Teaser | 333956 | [333956-gothic-playable-teaser.json](./333956-gothic-playable-teaser.json) |
 | Gothic: Universe Edition | 53073 | [53073-gothic-universe-edition.json](./53073-gothic-universe-edition.json) |
 | Gothica: The Devil's Shadow | 217257 | [217257-gothica-the-devils-shadow.json](./217257-gothica-the-devils-shadow.json) |
