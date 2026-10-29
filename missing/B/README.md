@@ -2919,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman | 14288 | [14288-batman.json](./14288-batman.json) |
 | Batman | 164313 | [164313-batman.json](./164313-batman.json) |
 | Batman | 200135 | [200135-batman.json](./200135-batman.json) |
+| Batman | 214896 | [214896-batman.json](./214896-batman.json) |
 | Batman | 26457 | [26457-batman.json](./26457-batman.json) |
 | Batman | 304097 | [304097-batman.json](./304097-batman.json) |
 | Batman & Flash | 326624 | [326624-batman-and-flash.json](./326624-batman-and-flash.json) |
@@ -11337,6 +11338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boo Bunny Plague | 17634 | [17634-boo-bunny-plague.json](./17634-boo-bunny-plague.json) |
 | Boo Men | 201498 | [201498-boo-men.json](./201498-boo-men.json) |
 | Boo: The World's Cutest Dog Game | 57909 | [57909-boo-the-worlds-cutest-dog-game.json](./57909-boo-the-worlds-cutest-dog-game.json) |
+| Boo! | 214883 | [214883-boo.json](./214883-boo.json) |
 | Boo! Are you scared? | 329128 | [329128-boo-are-you-scared.json](./329128-boo-are-you-scared.json) |
 | Boo! Are you scared? The Chests Game | 328964 | [328964-boo-are-you-scared-the-chests-game.json](./328964-boo-are-you-scared-the-chests-game.json) |
 | Boo's Balloons | 133106 | [133106-boos-balloons.json](./133106-boos-balloons.json) |
