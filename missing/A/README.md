@@ -1123,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Caos: Prelude | 58086 | [58086-a-tale-of-caos-prelude.json](./58086-a-tale-of-caos-prelude.json) |
 | A Tale of Colours | 413679 | [413679-a-tale-of-colours.json](./413679-a-tale-of-colours.json) |
 | A Tale of Dirty Whiskers | 353795 | [353795-a-tale-of-dirty-whiskers.json](./353795-a-tale-of-dirty-whiskers.json) |
+| A Tale of Little Berry Forest | 186419 | [186419-a-tale-of-little-berry-forest.json](./186419-a-tale-of-little-berry-forest.json) |
 | A Tale of Misery | 348913 | [348913-a-tale-of-misery.json](./348913-a-tale-of-misery.json) |
 | A Tale of Paper | 102803 | [102803-a-tale-of-paper.json](./102803-a-tale-of-paper.json) |
 | A Tale of Paper: Refolded | 213997 | [213997-a-tale-of-paper-refolded.json](./213997-a-tale-of-paper-refolded.json) |
@@ -5543,6 +5544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alcyone: The Last City | 118072 | [118072-alcyone-the-last-city.json](./118072-alcyone-the-last-city.json) |
 | Aldebaran Legend | 188802 | [188802-aldebaran-legend.json](./188802-aldebaran-legend.json) |
 | Alder Choke | 217926 | [217926-alder-choke.json](./217926-alder-choke.json) |
+| Alder Forge | 186480 | [186480-alder-forge.json](./186480-alder-forge.json) |
 | Alder Forge 2 | 385983 | [385983-alder-forge-2.json](./385983-alder-forge-2.json) |
 | Alder's Blood | 90277 | [90277-alders-blood.json](./90277-alders-blood.json) |
 | Alder's Blood: Definitive Edition | 173167 | [173167-alders-blood-definitive-edition.json](./173167-alders-blood-definitive-edition.json) |
@@ -7467,6 +7469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Car Parking Simulator 2025 | 380705 | [380705-american-car-parking-simulator-2025.json](./380705-american-car-parking-simulator-2025.json) |
 | American Cars 'n Guns | 346222 | [346222-american-cars-n-guns.json](./346222-american-cars-n-guns.json) |
 | American Catur | 187971 | [187971-american-catur.json](./187971-american-catur.json) |
+| American Christmas | 186405 | [186405-american-christmas.json](./186405-american-christmas.json) |
 | American Christmas 2 | 258650 | [258650-american-christmas-2.json](./258650-american-christmas-2.json) |
 | American Civil War | 52582 | [52582-american-civil-war.json](./52582-american-civil-war.json) |
 | American Civil War Battles | 101433 | [101433-american-civil-war-battles.json](./101433-american-civil-war-battles.json) |
@@ -10005,6 +10008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apart | 415185 | [415185-apart.json](./415185-apart.json) |
 | Apart of Me | 233971 | [233971-apart-of-me.json](./233971-apart-of-me.json) |
 | Apartament 1406 | 249766 | [249766-apartament-1406.json](./249766-apartament-1406.json) |
+| Apartment | 186398 | [186398-apartment.json](./186398-apartment.json) |
 | Apartment 12 | 415477 | [415477-apartment-12.json](./415477-apartment-12.json) |
 | Apartment 213 | 97709 | [97709-apartment-213.json](./97709-apartment-213.json) |
 | Apartment 22 | 355540 | [355540-apartment-22.json](./355540-apartment-22.json) |
@@ -11925,6 +11929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonauts Agency: Captive of Circe - Collectors Edition | 357334 | [357334-argonauts-agency-captive-of-circe-collectors-edition.json](./357334-argonauts-agency-captive-of-circe-collectors-edition.json) |
 | Argonauts Agency: Chair of Hephaestus | 188084 | [188084-argonauts-agency-chair-of-hephaestus.json](./188084-argonauts-agency-chair-of-hephaestus.json) |
 | Argonauts Agency: Chair of Hephaestus - Collector's Edition | 357335 | [357335-argonauts-agency-chair-of-hephaestus-collectors-edition.json](./357335-argonauts-agency-chair-of-hephaestus-collectors-edition.json) |
+| Argonauts Agency: Glove of Midas | 186411 | [186411-argonauts-agency-glove-of-midas.json](./186411-argonauts-agency-glove-of-midas.json) |
 | Argonauts Agency: Glove of Midas - Collector's Edition | 357336 | [357336-argonauts-agency-glove-of-midas-collectors-edition.json](./357336-argonauts-agency-glove-of-midas-collectors-edition.json) |
 | Argonauts Agency: God of the Storm - Collector's Edition | 356771 | [356771-argonauts-agency-god-of-the-storm-collectors-edition.json](./356771-argonauts-agency-god-of-the-storm-collectors-edition.json) |
 | Argonauts Agency: Golden Fleece | 115133 | [115133-argonauts-agency-golden-fleece.json](./115133-argonauts-agency-golden-fleece.json) |
@@ -13362,6 +13367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ass Sniffing Simulator | 398496 | [398496-ass-sniffing-simulator.json](./398496-ass-sniffing-simulator.json) |
 | Ass: Press F! | 379705 | [379705-ass-press-f.json](./379705-ass-press-f.json) |
 | Assassin 2015 | 69944 | [69944-assassin-2015.json](./69944-assassin-2015.json) |
+| Assassin at Crimson Keep | 186473 | [186473-assassin-at-crimson-keep.json](./186473-assassin-at-crimson-keep.json) |
 | Assassin Blue | 124628 | [124628-assassin-blue.json](./124628-assassin-blue.json) |
 | Assassin Girls | 286746 | [286746-assassin-girls.json](./286746-assassin-girls.json) |
 | Assassin In the City | 181767 | [181767-assassin-in-the-city.json](./181767-assassin-in-the-city.json) |
@@ -15683,6 +15689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avia Corporation | 240756 | [240756-avia-corporation.json](./240756-avia-corporation.json) |
 | Avia: Tropic Edition | 393432 | [393432-avia-tropic-edition.json](./393432-avia-tropic-edition.json) |
 | Avian | 177440 | [177440-avian.json](./177440-avian.json) |
+| Avian | 186476 | [186476-avian.json](./186476-avian.json) |
 | Avian Enigma | 309902 | [309902-avian-enigma.json](./309902-avian-enigma.json) |
 | Aviano | 151626 | [151626-aviano.json](./151626-aviano.json) |
 | Avians Against Aviation | 298264 | [298264-avians-against-aviation.json](./298264-avians-against-aviation.json) |
