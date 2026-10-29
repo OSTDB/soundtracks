@@ -13382,6 +13382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break the Ice Sushi Pack | 77610 | [77610-break-the-ice-sushi-pack.json](./77610-break-the-ice-sushi-pack.json) |
 | Break The Line | 296500 | [296500-break-the-line.json](./296500-break-the-line.json) |
 | Break The Night | 417529 | [417529-break-the-night.json](./417529-break-the-night.json) |
+| Break the Sky | 182688 | [182688-break-the-sky.json](./182688-break-the-sky.json) |
 | Break the Targets | 75226 | [75226-break-the-targets.json](./75226-break-the-targets.json) |
 | Break the Tower | 394878 | [394878-break-the-tower.json](./394878-break-the-tower.json) |
 | Break the Web | 130196 | [130196-break-the-web.json](./130196-break-the-web.json) |
@@ -14941,6 +14942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BugDive | 320191 | [320191-bugdive.json](./320191-bugdive.json) |
 | BugDive Deluxe Demo Edition | 320192 | [320192-bugdive-deluxe-demo-edition.json](./320192-bugdive-deluxe-demo-edition.json) |
 | Bugdom | 50343 | [50343-bugdom.json](./50343-bugdom.json) |
+| Bugged | 182679 | [182679-bugged.json](./182679-bugged.json) |
 | Bugged | 195115 | [195115-bugged.json](./195115-bugged.json) |
 | Bugged Out | 266619 | [266619-bugged-out.json](./266619-bugged-out.json) |
 | Bugged Out | 391880 | [391880-bugged-out.json](./391880-bugged-out.json) |
