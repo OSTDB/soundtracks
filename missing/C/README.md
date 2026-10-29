@@ -10670,6 +10670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful Logic 2 | 221274 | [221274-colorful-logic-2.json](./221274-colorful-logic-2.json) |
 | Colorful Logic 3 | 221275 | [221275-colorful-logic-3.json](./221275-colorful-logic-3.json) |
 | Colorful Mines =Slide= | 352775 | [352775-colorful-mines-slide.json](./352775-colorful-mines-slide.json) |
+| Colorful Mirai | 178801 | [178801-colorful-mirai.json](./178801-colorful-mirai.json) |
 | Colorful Mirai: Spooky Edition | 308962 | [308962-colorful-mirai-spooky-edition.json](./308962-colorful-mirai-spooky-edition.json) |
 | Colorful Party Wars | 201248 | [201248-colorful-party-wars.json](./201248-colorful-party-wars.json) |
 | Colorful Recolor | 208315 | [208315-colorful-recolor.json](./208315-colorful-recolor.json) |
@@ -15063,6 +15064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescent Bay | 87811 | [87811-crescent-bay.json](./87811-crescent-bay.json) |
 | Crescent Bloom | 215095 | [215095-crescent-bloom.json](./215095-crescent-bloom.json) |
 | Crescent Cauldron Cafe | 215517 | [215517-crescent-cauldron-cafe.json](./215517-crescent-cauldron-cafe.json) |
+| Crescent Coffee | 178788 | [178788-crescent-coffee.json](./178788-crescent-coffee.json) |
 | Crescent County | 305181 | [305181-crescent-county.json](./305181-crescent-county.json) |
 | Crescent Creek: Survival Horror | 416812 | [416812-crescent-creek-survival-horror.json](./416812-crescent-creek-survival-horror.json) |
 | Crescent Hollow | 104143 | [104143-crescent-hollow.json](./104143-crescent-hollow.json) |
@@ -15781,6 +15783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossPlanet | 165433 | [165433-crossplanet.json](./165433-crossplanet.json) |
 | Crossquare | 175241 | [175241-crossquare.json](./175241-crossquare.json) |
 | Crossroad | 82343 | [82343-crossroad.json](./82343-crossroad.json) |
+| Crossroad Crash | 178777 | [178777-crossroad-crash.json](./178777-crossroad-crash.json) |
 | Crossroad Crisis | 43739 | [43739-crossroad-crisis.json](./43739-crossroad-crisis.json) |
 | Crossroad of Sid | 109525 | [109525-crossroad-of-sid.json](./109525-crossroad-of-sid.json) |
 | Crossroad of Worlds: 100 Doors - Collector's Edition | 215516 | [215516-crossroad-of-worlds-100-doors-collectors-edition.json](./215516-crossroad-of-worlds-100-doors-collectors-edition.json) |
