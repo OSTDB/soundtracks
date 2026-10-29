@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vege Bubble Shoot | 278490 | [278490-vege-bubble-shoot.json](./278490-vege-bubble-shoot.json) |
 | Vegemancer | 374576 | [374576-vegemancer.json](./374576-vegemancer.json) |
 | VegeMine | 272192 | [272192-vegemine.json](./272192-vegemine.json) |
+| Vegetable Crash | 224854 | [224854-vegetable-crash.json](./224854-vegetable-crash.json) |
 | Vegetable Game | 191569 | [191569-vegetable-game.json](./191569-vegetable-game.json) |
 | Vegetable Valley Nightmare | 216303 | [216303-vegetable-valley-nightmare.json](./216303-vegetable-valley-nightmare.json) |
 | Vegetables Deluxe C64 | 135016 | [135016-vegetables-deluxe-c64.json](./135016-vegetables-deluxe-c64.json) |
@@ -2702,6 +2703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivid/Stasis | 206513 | [206513-vivid-stasis.json](./206513-vivid-stasis.json) |
 | Vividerie | 189068 | [189068-vividerie.json](./189068-vividerie.json) |
 | ViviDex | 182983 | [182983-vividex.json](./182983-vividex.json) |
+| Vividlope | 224808 | [224808-vividlope.json](./224808-vividlope.json) |
 | ViviEon | 120830 | [120830-vivieon.json](./120830-vivieon.json) |
 | Viviette | 107724 | [107724-viviette.json](./107724-viviette.json) |
 | Viviparous Dumpling | 354449 | [354449-viviparous-dumpling.json](./354449-viviparous-dumpling.json) |
