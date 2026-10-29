@@ -6820,6 +6820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words of Wonders: Search | 355896 | [355896-words-of-wonders-search.json](./355896-words-of-wonders-search.json) |
 | Words of Yendor | 246019 | [246019-words-of-yendor.json](./246019-words-of-yendor.json) |
 | Words on Stream | 137688 | [137688-words-on-stream.json](./137688-words-on-stream.json) |
+| Words Plus | 221514 | [221514-words-plus.json](./221514-words-plus.json) |
 | Words Scramble | 233055 | [233055-words-scramble.json](./233055-words-scramble.json) |
 | Words Scramble: Cities | 245329 | [245329-words-scramble-cities.json](./245329-words-scramble-cities.json) |
 | Words Unleashed | 114715 | [114715-words-unleashed.json](./114715-words-unleashed.json) |
