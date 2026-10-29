@@ -6157,6 +6157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rick's Konbini | 387647 | [387647-ricks-konbini.json](./387647-ricks-konbini.json) |
 | Rickdle | 396406 | [396406-rickdle.json](./396406-rickdle.json) |
 | Ricko's Island | 84044 | [84044-rickos-island.json](./84044-rickos-island.json) |
+| Rickstones | 223225 | [223225-rickstones.json](./223225-rickstones.json) |
 | Ricky Did Nothing Wrong | 155965 | [155965-ricky-did-nothing-wrong.json](./155965-ricky-did-nothing-wrong.json) |
 | Ricky Raccoon | 34666 | [34666-ricky-raccoon.json](./34666-ricky-raccoon.json) |
 | Ricky Recharge | 121593 | [121593-ricky-recharge.json](./121593-ricky-recharge.json) |
@@ -10294,6 +10295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubberduck Wave Racer | 245716 | [245716-rubberduck-wave-racer.json](./245716-rubberduck-wave-racer.json) |
 | Rubbish Island | 378890 | [378890-rubbish-island.json](./378890-rubbish-island.json) |
 | Rubblar | 238661 | [238661-rubblar.json](./238661-rubblar.json) |
+| Rubble | 223250 | [223250-rubble.json](./223250-rubble.json) |
 | Rubble Rampage | 413127 | [413127-rubble-rampage.json](./413127-rubble-rampage.json) |
 | Rubble Rush | 118069 | [118069-rubble-rush.json](./118069-rubble-rush.json) |
 | Rubble the Engineer | 359414 | [359414-rubble-the-engineer.json](./359414-rubble-the-engineer.json) |
