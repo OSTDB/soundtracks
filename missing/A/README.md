@@ -5559,6 +5559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aleph | 259184 | [259184-aleph.json](./259184-aleph.json) |
 | Aleph | 274755 | [274755-aleph.json](./274755-aleph.json) |
 | Aleph Null | 31809 | [31809-aleph-null.json](./31809-aleph-null.json) |
+| Aleph: A Life | 203644 | [203644-aleph-a-life.json](./203644-aleph-a-life.json) |
 | Alephant | 190400 | [190400-alephant.json](./190400-alephant.json) |
 | Alert | 14236 | [14236-alert.json](./14236-alert.json) |
 | Alert X: Ostatnia Nadzieja Ziemi | 14237 | [14237-alert-x-ostatnia-nadzieja-ziemi.json](./14237-alert-x-ostatnia-nadzieja-ziemi.json) |
@@ -13175,6 +13176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashwalkers: A Survival Journey | 138669 | [138669-ashwalkers-a-survival-journey.json](./138669-ashwalkers-a-survival-journey.json) |
 | Ashwood Conspiracy | 336696 | [336696-ashwood-conspiracy.json](./336696-ashwood-conspiracy.json) |
 | Ashworld | 43120 | [43120-ashworld.json](./43120-ashworld.json) |
+| Ashzel & The Power Dagger | 203602 | [203602-ashzel-and-the-power-dagger.json](./203602-ashzel-and-the-power-dagger.json) |
 | AsiaKingdom | 302343 | [302343-asiakingdom.json](./302343-asiakingdom.json) |
 | Asian Actors Wanted | 183243 | [183243-asian-actors-wanted.json](./183243-asian-actors-wanted.json) |
 | Asian Cargo Sim | 224115 | [224115-asian-cargo-sim.json](./224115-asian-cargo-sim.json) |
@@ -15680,6 +15682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awaiting Salvation | 119737 | [119737-awaiting-salvation.json](./119737-awaiting-salvation.json) |
 | Awaits: 10H | 201620 | [201620-awaits-10h.json](./201620-awaits-10h.json) |
 | Awake | 148290 | [148290-awake.json](./148290-awake.json) |
+| Awake | 203605 | [203605-awake.json](./203605-awake.json) |
 | Awake | 34025 | [34025-awake.json](./34025-awake.json) |
 | Awake | 343247 | [343247-awake.json](./343247-awake.json) |
 | Awake Episode One | 110717 | [110717-awake-episode-one.json](./110717-awake-episode-one.json) |
