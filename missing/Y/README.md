@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Fall You Lose | 116255 | [116255-you-fall-you-lose.json](./116255-you-fall-you-lose.json) |
 | You Feel Normal. | 293655 | [293655-you-feel-normal.json](./293655-you-feel-normal.json) |
 | You Find Yourself in a Room | 242778 | [242778-you-find-yourself-in-a-room.json](./242778-you-find-yourself-in-a-room.json) |
+| You First | 210367 | [210367-you-first.json](./210367-you-first.json) |
 | You Found a Hole in the Ground | 348750 | [348750-you-found-a-hole-in-the-ground.json](./348750-you-found-a-hole-in-the-ground.json) |
 | You Game+ | 330611 | [330611-you-game.json](./330611-you-game.json) |
 | You Gay? | 84099 | [84099-you-gay.json](./84099-you-gay.json) |
