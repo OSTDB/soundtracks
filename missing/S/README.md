@@ -3355,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 4 | 225078 | [225078-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-4.json](./225078-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-4.json) |
 | SD Gundam G Generation Cross Rays: Expansion Pack | 225079 | [225079-sd-gundam-g-generation-cross-rays-expansion-pack.json](./225079-sd-gundam-g-generation-cross-rays-expansion-pack.json) |
 | SD Gundam G Generation Cross Rays: Platinum Edition | 142371 | [142371-sd-gundam-g-generation-cross-rays-platinum-edition.json](./142371-sd-gundam-g-generation-cross-rays-platinum-edition.json) |
+| SD Gundam G Generation Eternal | 208134 | [208134-sd-gundam-g-generation-eternal.json](./208134-sd-gundam-g-generation-eternal.json) |
 | SD Gundam G Generation Genesis | 75731 | [75731-sd-gundam-g-generation-genesis.json](./75731-sd-gundam-g-generation-genesis.json) |
 | SD Gundam G Generation Neo | 65981 | [65981-sd-gundam-g-generation-neo.json](./65981-sd-gundam-g-generation-neo.json) |
 | SD Gundam G Generation Seed | 65982 | [65982-sd-gundam-g-generation-seed.json](./65982-sd-gundam-g-generation-seed.json) |
@@ -4931,6 +4932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sepan and the Seven Flasks | 374353 | [374353-sepan-and-the-seven-flasks.json](./374353-sepan-and-the-seven-flasks.json) |
 | Sepapu | 408702 | [408702-sepapu.json](./408702-sepapu.json) |
 | Separate Blue | 388135 | [388135-separate-blue.json](./388135-separate-blue.json) |
+| Separate Identities Force | 208127 | [208127-separate-identities-force.json](./208127-separate-identities-force.json) |
 | Separated | 304622 | [304622-separated.json](./304622-separated.json) |
 | Separated Worlds | 279525 | [279525-separated-worlds.json](./279525-separated-worlds.json) |
 | Separation | 144160 | [144160-separation.json](./144160-separation.json) |
@@ -5745,6 +5747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow BoXR | 241368 | [241368-shadow-boxr.json](./241368-shadow-boxr.json) |
 | Shadow Brawlers | 107404 | [107404-shadow-brawlers.json](./107404-shadow-brawlers.json) |
 | Shadow Breakers | 333139 | [333139-shadow-breakers.json](./333139-shadow-breakers.json) |
+| Shadow Brides | 208128 | [208128-shadow-brides.json](./208128-shadow-brides.json) |
 | Shadow Bridge | 414182 | [414182-shadow-bridge.json](./414182-shadow-bridge.json) |
 | Shadow Bug | 44246 | [44246-shadow-bug.json](./44246-shadow-bug.json) |
 | Shadow Bundle: Shadow Quest and Nightshade Ninja Warrior | 266342 | [266342-shadow-bundle-shadow-quest-and-nightshade-ninja-warrior.json](./266342-shadow-bundle-shadow-quest-and-nightshade-ninja-warrior.json) |
@@ -14199,6 +14202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Savage | 347891 | [347891-solar-savage.json](./347891-solar-savage.json) |
 | Solar Siege | 56260 | [56260-solar-siege.json](./56260-solar-siege.json) |
 | Solar Smash | 175674 | [175674-solar-smash.json](./175674-solar-smash.json) |
+| Solar Smash 2D | 208135 | [208135-solar-smash-2d.json](./208135-solar-smash-2d.json) |
 | Solar Striker | 48940 | [48940-solar-striker.json](./48940-solar-striker.json) |
 | Solar Struggle | 17984 | [17984-solar-struggle.json](./17984-solar-struggle.json) |
 | Solar Survivors | 238766 | [238766-solar-survivors.json](./238766-solar-survivors.json) |
@@ -17076,6 +17080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
 | Space Hunter | 271175 | [271175-space-hunter.json](./271175-space-hunter.json) |
+| Space Hunter 3 | 208129 | [208129-space-hunter-3.json](./208129-space-hunter-3.json) |
 | Space Hurricane | 385796 | [385796-space-hurricane.json](./385796-space-hurricane.json) |
 | Space Hurricane Storm | 102388 | [102388-space-hurricane-storm.json](./102388-space-hurricane-storm.json) |
 | Space Hurricane Storm: 2 Edition | 105659 | [105659-space-hurricane-storm-2-edition.json](./105659-space-hurricane-storm-2-edition.json) |
@@ -17193,6 +17198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Launch Engineer | 88244 | [88244-space-launch-engineer.json](./88244-space-launch-engineer.json) |
 | Space Launcher | 60875 | [60875-space-launcher.json](./60875-space-launcher.json) |
 | Space Lazors: Puzzle Saga | 257246 | [257246-space-lazors-puzzle-saga.json](./257246-space-lazors-puzzle-saga.json) |
+| Space Leaper: Cocoon | 208130 | [208130-space-leaper-cocoon.json](./208130-space-leaper-cocoon.json) |
 | Space Legends | 73342 | [73342-space-legends.json](./73342-space-legends.json) |
 | Space Legends: At the Edge of the Universe | 17948 | [17948-space-legends-at-the-edge-of-the-universe.json](./17948-space-legends-at-the-edge-of-the-universe.json) |
 | Space Leprechaun | 75029 | [75029-space-leprechaun.json](./75029-space-leprechaun.json) |
@@ -23399,6 +23405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman League | 127194 | [127194-stickman-league.json](./127194-stickman-league.json) |
 | Stickman Legends | 323197 | [323197-stickman-legends.json](./323197-stickman-legends.json) |
 | Stickman Legends: Shadow Wars | 96810 | [96810-stickman-legends-shadow-wars.json](./96810-stickman-legends-shadow-wars.json) |
+| Stickman Lore | 208132 | [208132-stickman-lore.json](./208132-stickman-lore.json) |
 | Stickman Maverick : Bad Boys Killer | 111363 | [111363-stickman-maverick-bad-boys-killer.json](./111363-stickman-maverick-bad-boys-killer.json) |
 | Stickman Monster Battle 3D | 401561 | [401561-stickman-monster-battle-3d.json](./401561-stickman-monster-battle-3d.json) |
 | Stickman Ninja Warriors | 108603 | [108603-stickman-ninja-warriors.json](./108603-stickman-ninja-warriors.json) |
@@ -23661,6 +23668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone House Orphanage | 153127 | [153127-stone-house-orphanage.json](./153127-stone-house-orphanage.json) |
 | Stone In Galaxy | 112796 | [112796-stone-in-galaxy.json](./112796-stone-in-galaxy.json) |
 | Stone it! | 157422 | [157422-stone-it.json](./157422-stone-it.json) |
+| Stone Miner | 208131 | [208131-stone-miner.json](./208131-stone-miner.json) |
 | Stone Mirth on Earth | 197159 | [197159-stone-mirth-on-earth.json](./197159-stone-mirth-on-earth.json) |
 | Stone of Adventure | 421827 | [421827-stone-of-adventure.json](./421827-stone-of-adventure.json) |
 | Stone of Destiny | 242796 | [242796-stone-of-destiny.json](./242796-stone-of-destiny.json) |
@@ -26241,6 +26249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoner Tale | 379626 | [379626-summoner-tale.json](./379626-summoner-tale.json) |
 | Summoner Wars | 22159 | [22159-summoner-wars.json](./22159-summoner-wars.json) |
 | Summoner's Automata | 360691 | [360691-summoners-automata.json](./360691-summoners-automata.json) |
+| Summoner's Battle 2048 | 208121 | [208121-summoners-battle-2048.json](./208121-summoners-battle-2048.json) |
 | Summoner's Gambit | 353894 | [353894-summoners-gambit.json](./353894-summoners-gambit.json) |
 | Summoner's Greed | 158957 | [158957-summoners-greed.json](./158957-summoners-greed.json) |
 | Summoner's Handbook | 181696 | [181696-summoners-handbook.json](./181696-summoners-handbook.json) |
@@ -29017,6 +29026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stickman Golf | 47270 | [47270-super-stickman-golf.json](./47270-super-stickman-golf.json) |
 | Super Stickman Golf 2 | 22170 | [22170-super-stickman-golf-2.json](./22170-super-stickman-golf-2.json) |
 | Super Stickman Golf 3 | 58223 | [58223-super-stickman-golf-3.json](./58223-super-stickman-golf-3.json) |
+| Super Storm | 208136 | [208136-super-storm.json](./208136-super-storm.json) |
 | Super Storm | 42144 | [42144-super-storm.json](./42144-super-storm.json) |
 | Super Strawberry Clock | 361284 | [361284-super-strawberry-clock.json](./361284-super-strawberry-clock.json) |
 | Super Strawberry Man | 108354 | [108354-super-strawberry-man.json](./108354-super-strawberry-man.json) |
@@ -29556,6 +29566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperPosition | 318946 | [318946-superposition.json](./318946-superposition.json) |
 | SuperPower | 23466 | [23466-superpower.json](./23466-superpower.json) |
 | SuperPower 2: Steam Edition | 90586 | [90586-superpower-2-steam-edition.json](./90586-superpower-2-steam-edition.json) |
+| Superpower Squad | 208126 | [208126-superpower-squad.json](./208126-superpower-squad.json) |
 | SuperPower: World at War | 250177 | [250177-superpower-world-at-war.json](./250177-superpower-world-at-war.json) |
 | SuperPro Snowboarding | 233525 | [233525-superpro-snowboarding.json](./233525-superpro-snowboarding.json) |
 | SuperQuest | 342636 | [342636-superquest.json](./342636-superquest.json) |
