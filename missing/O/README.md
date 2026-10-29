@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O Conto de Ada | 307229 | [307229-o-conto-de-ada.json](./307229-o-conto-de-ada.json) |
 | O Empire! Ward off Thy Rot | 399039 | [399039-o-empire-ward-off-thy-rot.json](./399039-o-empire-ward-off-thy-rot.json) |
 | O Enigma da Esfinge | 299113 | [299113-o-enigma-da-esfinge.json](./299113-o-enigma-da-esfinge.json) |
+| O Formigueiro | 180434 | [180434-o-formigueiro.json](./180434-o-formigueiro.json) |
 | O Horror Amarelo | 338939 | [338939-o-horror-amarelo.json](./338939-o-horror-amarelo.json) |
 | O Jardim Magico 3 | 251380 | [251380-o-jardim-magico-3.json](./251380-o-jardim-magico-3.json) |
 | O Livro Mágico | 290084 | [290084-o-livro-magico.json](./290084-o-livro-magico.json) |
@@ -3837,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orphée: Voyage aux Enfers | 84184 | [84184-orphee-voyage-aux-enfers.json](./84184-orphee-voyage-aux-enfers.json) |
 | Orphen: Scion of Sorcery | 24165 | [24165-orphen-scion-of-sorcery.json](./24165-orphen-scion-of-sorcery.json) |
 | Orpheus | 111020 | [111020-orpheus.json](./111020-orpheus.json) |
+| Orpheus | 180414 | [180414-orpheus.json](./180414-orpheus.json) |
 | Orpheus | 237084 | [237084-orpheus.json](./237084-orpheus.json) |
 | Orpheus | 262090 | [262090-orpheus.json](./262090-orpheus.json) |
 | Orpheus: Echo of Hades | 401774 | [401774-orpheus-echo-of-hades.json](./401774-orpheus-echo-of-hades.json) |
