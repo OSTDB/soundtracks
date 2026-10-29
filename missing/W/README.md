@@ -2938,10 +2938,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Free Will: Episode 3 | 237060 | [237060-welcome-to-free-will-episode-3.json](./237060-welcome-to-free-will-episode-3.json) |
 | Welcome to GameCube World!! | 175969 | [175969-welcome-to-gamecube-world.json](./175969-welcome-to-gamecube-world.json) |
 | Welcome to Genius High! | 208317 | [208317-welcome-to-genius-high.json](./208317-welcome-to-genius-high.json) |
+| Welcome to Goodland | 178238 | [178238-welcome-to-goodland.json](./178238-welcome-to-goodland.json) |
 | Welcome to Graymount | 133336 | [133336-welcome-to-graymount.json](./133336-welcome-to-graymount.json) |
 | Welcome to Greedcorp | 355721 | [355721-welcome-to-greedcorp.json](./355721-welcome-to-greedcorp.json) |
 | Welcome to Hanwell | 29076 | [29076-welcome-to-hanwell.json](./29076-welcome-to-hanwell.json) |
 | Welcome to Heaven | 41976 | [41976-welcome-to-heaven.json](./41976-welcome-to-heaven.json) |
+| Welcome to Hell | 178231 | [178231-welcome-to-hell.json](./178231-welcome-to-hell.json) |
 | Welcome to Hell Resort! | 423876 | [423876-welcome-to-hell-resort.json](./423876-welcome-to-hell-resort.json) |
 | Welcome to IKSPQ | 271310 | [271310-welcome-to-ikspq.json](./271310-welcome-to-ikspq.json) |
 | Welcome to James' Story in the World of Our Church and Halloween: Visual Novel | 222808 | [222808-welcome-to-james-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./222808-welcome-to-james-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
@@ -5361,6 +5363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Gifts | 412164 | [412164-winter-gifts.json](./412164-winter-gifts.json) |
 | Winter Girl | 312539 | [312539-winter-girl.json](./312539-winter-girl.json) |
 | Winter Girls 2048 | 111366 | [111366-winter-girls-2048.json](./111366-winter-girls-2048.json) |
+| Winter Golf | 177678 | [177678-winter-golf.json](./177678-winter-golf.json) |
 | Winter Grae | 188827 | [188827-winter-grae.json](./188827-winter-grae.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
 | Winter Hunting | 373603 | [373603-winter-hunting.json](./373603-winter-hunting.json) |
