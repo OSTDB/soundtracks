@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T2048 | 304335 | [304335-t2048.json](./304335-t2048.json) |
 | T2SD | 131461 | [131461-t2sd.json](./131461-t2sd.json) |
 | T3 - Take the Turn | 109728 | [109728-t3-take-the-turn.json](./109728-t3-take-the-turn.json) |
+| T3 Arena | 194145 | [194145-t3-arena.json](./194145-t3-arena.json) |
 | T3D: Genesis | 213357 | [213357-t3d-genesis.json](./213357-t3d-genesis.json) |
 | T7's Basics in Birthday | 414807 | [414807-t7s-basics-in-birthday.json](./414807-t7s-basics-in-birthday.json) |
 | T7's Basics Plus | 415469 | [415469-t7s-basics-plus.json](./415469-t7s-basics-plus.json) |
@@ -23820,6 +23821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Fortune 4 | 175610 | [175610-tower-of-fortune-4.json](./175610-tower-of-fortune-4.json) |
 | Tower of God M: The Great Journey | 188404 | [188404-tower-of-god-m-the-great-journey.json](./188404-tower-of-god-m-the-great-journey.json) |
 | Tower of God: Great Journey | 231889 | [231889-tower-of-god-great-journey.json](./231889-tower-of-god-great-journey.json) |
+| Tower of God: New World | 194110 | [194110-tower-of-god-new-world.json](./194110-tower-of-god-new-world.json) |
 | Tower of Greed | 216326 | [216326-tower-of-greed.json](./216326-tower-of-greed.json) |
 | Tower of Grimoiria | 285829 | [285829-tower-of-grimoiria.json](./285829-tower-of-grimoiria.json) |
 | Tower of Guardian | 153946 | [153946-tower-of-guardian.json](./153946-tower-of-guardian.json) |
