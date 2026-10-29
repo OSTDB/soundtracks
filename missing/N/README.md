@@ -3828,6 +3828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of Wolves | 257968 | [257968-night-of-wolves.json](./257968-night-of-wolves.json) |
 | Night on Doom Mountain | 273263 | [273263-night-on-doom-mountain.json](./273263-night-on-doom-mountain.json) |
 | Night Out | 183939 | [183939-night-out.json](./183939-night-out.json) |
+| Night Out | 202480 | [202480-night-out.json](./202480-night-out.json) |
 | Night Owls | 336513 | [336513-night-owls.json](./336513-night-owls.json) |
 | Night Pact: Azuru | 271612 | [271612-night-pact-azuru.json](./271612-night-pact-azuru.json) |
 | Night Patrol Rules | 368271 | [368271-night-patrol-rules.json](./368271-night-patrol-rules.json) |
