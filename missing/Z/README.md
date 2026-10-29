@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZJ the Ball Challenge: Level 3C | 214502 | [214502-zj-the-ball-challenge-level-3c.json](./214502-zj-the-ball-challenge-level-3c.json) |
 | ZJ the Ball Challenge: Level 4C | 214501 | [214501-zj-the-ball-challenge-level-4c.json](./214501-zj-the-ball-challenge-level-4c.json) |
 | ZJ the Ball Challenge: Level 5C | 187214 | [187214-zj-the-ball-challenge-level-5c.json](./187214-zj-the-ball-challenge-level-5c.json) |
+| ZJ the Ball: Level 1 | 213185 | [213185-zj-the-ball-level-1.json](./213185-zj-the-ball-level-1.json) |
 | ZJ the Ball: Level 2 | 214569 | [214569-zj-the-ball-level-2.json](./214569-zj-the-ball-level-2.json) |
 | ZJ the Ball: Level 3 | 214570 | [214570-zj-the-ball-level-3.json](./214570-zj-the-ball-level-3.json) |
 | ZJ the Ball: Level 4 | 214571 | [214571-zj-the-ball-level-4.json](./214571-zj-the-ball-level-4.json) |
