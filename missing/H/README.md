@@ -3952,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty: Bubblegum Girlfriends | 209878 | [209878-hello-kitty-bubblegum-girlfriends.json](./209878-hello-kitty-bubblegum-girlfriends.json) |
 | Hello Kitty: Carrot Story | 206192 | [206192-hello-kitty-carrot-story.json](./206192-hello-kitty-carrot-story.json) |
 | Hello Kitty: Dream Carnival | 209879 | [209879-hello-kitty-dream-carnival.json](./209879-hello-kitty-dream-carnival.json) |
+| Hello Kitty: Fantasy Theater | 188262 | [188262-hello-kitty-fantasy-theater.json](./188262-hello-kitty-fantasy-theater.json) |
 | Hello Kitty: Happy Happy Family | 83209 | [83209-hello-kitty-happy-happy-family.json](./83209-hello-kitty-happy-happy-family.json) |
 | Hello Kitty: Happy Party Pals | 3689 | [3689-hello-kitty-happy-party-pals.json](./3689-hello-kitty-happy-party-pals.json) |
 | Hello Kitty: Hello Kitty's Surprise | 213277 | [213277-hello-kitty-hello-kittys-surprise.json](./213277-hello-kitty-hello-kittys-surprise.json) |
@@ -6116,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Gems of Bermuda 2 | 273034 | [273034-hidden-gems-of-bermuda-2.json](./273034-hidden-gems-of-bermuda-2.json) |
 | Hidden Gems, Hidden Secrets | 240499 | [240499-hidden-gems-hidden-secrets.json](./240499-hidden-gems-hidden-secrets.json) |
 | Hidden Ghost Town | 189902 | [189902-hidden-ghost-town.json](./189902-hidden-ghost-town.json) |
+| Hidden Ghost Town 2 | 189292 | [189292-hidden-ghost-town-2.json](./189292-hidden-ghost-town-2.json) |
 | Hidden Girls: Bikini Dreams | 420673 | [420673-hidden-girls-bikini-dreams.json](./420673-hidden-girls-bikini-dreams.json) |
 | Hidden Girls: Quiet Beauty | 415059 | [415059-hidden-girls-quiet-beauty.json](./415059-hidden-girls-quiet-beauty.json) |
 | Hidden Girls: Tropical Vibes | 420672 | [420672-hidden-girls-tropical-vibes.json](./420672-hidden-girls-tropical-vibes.json) |
