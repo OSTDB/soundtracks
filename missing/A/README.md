@@ -15261,6 +15261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automata | 226109 | [226109-automata.json](./226109-automata.json) |
 | Automata 10 Pack Volume 2 | 258188 | [258188-automata-10-pack-volume-2.json](./258188-automata-10-pack-volume-2.json) |
 | Automata Break | 139455 | [139455-automata-break.json](./139455-automata-break.json) |
+| Automata Ecosystem: Cellular Automata Simulation | 202527 | [202527-automata-ecosystem-cellular-automata-simulation.json](./202527-automata-ecosystem-cellular-automata-simulation.json) |
 | Automata Streetcar | 303903 | [303903-automata-streetcar.json](./303903-automata-streetcar.json) |
 | Automate Defend Repeat | 258069 | [258069-automate-defend-repeat.json](./258069-automate-defend-repeat.json) |
 | Automate It | 295288 | [295288-automate-it.json](./295288-automate-it.json) |
