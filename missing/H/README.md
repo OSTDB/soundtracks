@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack | 2875 | [2875-hack.json](./2875-hack.json) |
 | Hack '95 | 405079 | [405079-hack-95.json](./405079-hack-95.json) |
 | Hack 'n' Stack | 258624 | [258624-hack-n-stack.json](./258624-hack-n-stack.json) |
+| Hack & Schlitz | 220426 | [220426-hack-and-schlitz.json](./220426-hack-and-schlitz.json) |
 | Hack & Turn | 180114 | [180114-hack-and-turn.json](./180114-hack-and-turn.json) |
 | Hack 0 | 272813 | [272813-hack-0.json](./272813-hack-0.json) |
 | Hack 0 2 | 320292 | [320292-hack-0-2.json](./320292-hack-0-2.json) |
@@ -6362,6 +6363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Shapes: Black Skull + Old West | 213794 | [213794-hidden-shapes-black-skull-old-west.json](./213794-hidden-shapes-black-skull-old-west.json) |
 | Hidden Shapes: Cat Realm | 220037 | [220037-hidden-shapes-cat-realm.json](./220037-hidden-shapes-cat-realm.json) |
 | Hidden Shapes: Lovely Cats | 148466 | [148466-hidden-shapes-lovely-cats.json](./148466-hidden-shapes-lovely-cats.json) |
+| Hidden Shapes: Trick or Cats | 220427 | [220427-hidden-shapes-trick-or-cats.json](./220427-hidden-shapes-trick-or-cats.json) |
 | Hidden Sheep Puzzle | 395839 | [395839-hidden-sheep-puzzle.json](./395839-hidden-sheep-puzzle.json) |
 | Hidden Shelter | 139342 | [139342-hidden-shelter.json](./139342-hidden-shelter.json) |
 | Hidden Shy Cats & Dogs Bundle | 325011 | [325011-hidden-shy-cats-and-dogs-bundle.json](./325011-hidden-shy-cats-and-dogs-bundle.json) |
@@ -6590,6 +6592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Daze: Afterschool Stories | 264349 | [264349-high-school-daze-afterschool-stories.json](./264349-high-school-daze-afterschool-stories.json) |
 | High School Daze: Junior Year | 264348 | [264348-high-school-daze-junior-year.json](./264348-high-school-daze-junior-year.json) |
 | High School Detective: Romance Visual Novel | 300780 | [300780-high-school-detective-romance-visual-novel.json](./300780-high-school-detective-romance-visual-novel.json) |
+| High School Dirty Secrets | 220428 | [220428-high-school-dirty-secrets.json](./220428-high-school-dirty-secrets.json) |
 | High School Dreams: Best Friends Forever | 60942 | [60942-high-school-dreams-best-friends-forever.json](./60942-high-school-dreams-best-friends-forever.json) |
 | High School Escape 2 | 96702 | [96702-high-school-escape-2.json](./96702-high-school-escape-2.json) |
 | High School Fighters | 231430 | [231430-high-school-fighters.json](./231430-high-school-fighters.json) |
@@ -6726,6 +6729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Blossoms: Next Exit | 139123 | [139123-highway-blossoms-next-exit.json](./139123-highway-blossoms-next-exit.json) |
 | Highway Bus Rush | 352316 | [352316-highway-bus-rush.json](./352316-highway-bus-rush.json) |
 | Highway Cleaner | 234607 | [234607-highway-cleaner.json](./234607-highway-cleaner.json) |
+| Highway Cross | 220429 | [220429-highway-cross.json](./220429-highway-cross.json) |
 | Highway Crossing Madruga | 252898 | [252898-highway-crossing-madruga.json](./252898-highway-crossing-madruga.json) |
 | Highway Drifter: Hajwala Simulator | 284927 | [284927-highway-drifter-hajwala-simulator.json](./284927-highway-drifter-hajwala-simulator.json) |
 | Highway Driving Simulator | 108449 | [108449-highway-driving-simulator.json](./108449-highway-driving-simulator.json) |
@@ -7553,6 +7557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hogwarts Legacy: Onyx Hippogriff Mount | 304809 | [304809-hogwarts-legacy-onyx-hippogriff-mount.json](./304809-hogwarts-legacy-onyx-hippogriff-mount.json) |
 | Hogwash | 125386 | [125386-hogwash.json](./125386-hogwash.json) |
 | Hogworld: Gnart's Adventure | 7203 | [7203-hogworld-gnarts-adventure.json](./7203-hogworld-gnarts-adventure.json) |
+| Hohenheim: Skywards | 220430 | [220430-hohenheim-skywards.json](./220430-hohenheim-skywards.json) |
 | Hoi | 79765 | [79765-hoi.json](./79765-hoi.json) |
 | Hoi An Heritage | 214705 | [214705-hoi-an-heritage.json](./214705-hoi-an-heritage.json) |
 | Hoisan's Random Game | 122857 | [122857-hoisans-random-game.json](./122857-hoisans-random-game.json) |
