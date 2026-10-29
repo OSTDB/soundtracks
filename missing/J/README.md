@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Is Missing | 108374 | [108374-jack-is-missing.json](./108374-jack-is-missing.json) |
 | Jack Jeanne | 117675 | [117675-jack-jeanne.json](./117675-jack-jeanne.json) |
 | Jack Jeanne 2 | 353636 | [353636-jack-jeanne-2.json](./353636-jack-jeanne-2.json) |
+| Jack Jeanne: Limited Edition | 228742 | [228742-jack-jeanne-limited-edition.json](./228742-jack-jeanne-limited-edition.json) |
 | Jack Keane 2: The Fire Within | 10464 | [10464-jack-keane-2-the-fire-within.json](./10464-jack-keane-2-the-fire-within.json) |
 | Jack Mason: Ace Attorney | 303777 | [303777-jack-mason-ace-attorney.json](./303777-jack-mason-ace-attorney.json) |
 | Jack N' Jill 3D | 25846 | [25846-jack-n-jill-3d.json](./25846-jack-n-jill-3d.json) |
