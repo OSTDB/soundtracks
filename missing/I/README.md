@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iceberg Command | 256311 | [256311-iceberg-command.json](./256311-iceberg-command.json) |
 | Iceberg the Game | 232484 | [232484-iceberg-the-game.json](./232484-iceberg-the-game.json) |
 | Icebergs | 180076 | [180076-icebergs.json](./180076-icebergs.json) |
+| IceBlink Engine | 222669 | [222669-iceblink-engine.json](./222669-iceblink-engine.json) |
 | Iceblox | 94254 | [94254-iceblox.json](./94254-iceblox.json) |
 | Icebound | 298181 | [298181-icebound.json](./298181-icebound.json) |
 | Icebound | 36123 | [36123-icebound.json](./36123-icebound.json) |
@@ -2070,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iMake IcePops | 101554 | [101554-imake-icepops.json](./101554-imake-icepops.json) |
 | iMake Lollipops-Candy Making Kitchen Games | 98861 | [98861-imake-lollipops-candy-making-kitchen-games.json](./98861-imake-lollipops-candy-making-kitchen-games.json) |
 | Imakuni? no Ball | 59038 | [59038-imakuni-no-ball.json](./59038-imakuni-no-ball.json) |
+| Imas Champ | 222611 | [222611-imas-champ.json](./222611-imas-champ.json) |
 | Imasugu Tsukaeru Mamechishiki Quiz Zatsugaku Ou DS | 133799 | [133799-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou-ds.json](./133799-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou-ds.json) |
 | Imasugu Tsukaeru Mamechishiki: Quiz Zatsugaku-Ou | 67060 | [67060-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou.json](./67060-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou.json) |
 | Imaze.exe | 112443 | [112443-imaze-exe.json](./112443-imaze-exe.json) |
