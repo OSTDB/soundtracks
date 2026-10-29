@@ -19129,6 +19129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpinShuffle | 413752 | [413752-spinshuffle.json](./413752-spinshuffle.json) |
 | SpinSling | 74405 | [74405-spinsling.json](./74405-spinsling.json) |
 | SpinSweep | 301277 | [301277-spinsweep.json](./301277-spinsweep.json) |
+| Spintales | 204136 | [204136-spintales.json](./204136-spintales.json) |
 | Spintires | 7347 | [7347-spintires.json](./7347-spintires.json) |
 | Spintires: MudRunner - American Wilds | 111316 | [111316-spintires-mudrunner-american-wilds.json](./111316-spintires-mudrunner-american-wilds.json) |
 | Spintires: MudRunner - American Wilds Edition | 110802 | [110802-spintires-mudrunner-american-wilds-edition.json](./110802-spintires-mudrunner-american-wilds-edition.json) |
@@ -20575,6 +20576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Ball Run! | 262331 | [262331-stack-ball-run.json](./262331-stack-ball-run.json) |
 | Stack Bounce | 302747 | [302747-stack-bounce.json](./302747-stack-bounce.json) |
 | Stack Buddies | 259970 | [259970-stack-buddies.json](./259970-stack-buddies.json) |
+| Stack by Stack | 204137 | [204137-stack-by-stack.json](./204137-stack-by-stack.json) |
 | Stack Columns | 63129 | [63129-stack-columns.json](./63129-stack-columns.json) |
 | Stack Dango | 108734 | [108734-stack-dango.json](./108734-stack-dango.json) |
 | Stack Defense | 156906 | [156906-stack-defense.json](./156906-stack-defense.json) |
@@ -30342,6 +30344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzy Cube | 103247 | [103247-suzy-cube.json](./103247-suzy-cube.json) |
 | Suzy's Restaurant: Food Empire | 345270 | [345270-suzys-restaurant-food-empire.json](./345270-suzys-restaurant-food-empire.json) |
 | Svajp | 119407 | [119407-svajp.json](./119407-svajp.json) |
+| Svarog's Dream | 204138 | [204138-svarogs-dream.json](./204138-svarogs-dream.json) |
 | Svarog's Dream: Return of the Old Gods | 311099 | [311099-svarogs-dream-return-of-the-old-gods.json](./311099-svarogs-dream-return-of-the-old-gods.json) |
 | Svea Rike | 92933 | [92933-svea-rike.json](./92933-svea-rike.json) |
 | Svea Rike 2 | 84179 | [84179-svea-rike-2.json](./84179-svea-rike-2.json) |
