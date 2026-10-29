@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabanaz | 403571 | [403571-rabanaz.json](./403571-rabanaz.json) |
 | Rabauken: Spirit Resort | 400394 | [400394-rabauken-spirit-resort.json](./400394-rabauken-spirit-resort.json) |
 | Rabbi-T | 240780 | [240780-rabbi-t.json](./240780-rabbi-t.json) |
+| Rabbids & Ladders | 228663 | [228663-rabbids-and-ladders.json](./228663-rabbids-and-ladders.json) |
 | Rabbids Arby's Rush | 324867 | [324867-rabbids-arbys-rush.json](./324867-rabbids-arbys-rush.json) |
 | Rabbids Big Bang | 61635 | [61635-rabbids-big-bang.json](./61635-rabbids-big-bang.json) |
 | Rabbids Coding! | 125162 | [125162-rabbids-coding.json](./125162-rabbids-coding.json) |
@@ -1958,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raven: The Rise | 224406 | [224406-raven-the-rise.json](./224406-raven-the-rise.json) |
 | Raven's Cry | 7686 | [7686-ravens-cry.json](./7686-ravens-cry.json) |
 | Raven's Daring Adventure | 311736 | [311736-ravens-daring-adventure.json](./311736-ravens-daring-adventure.json) |
+| Raven's Gate | 228673 | [228673-ravens-gate.json](./228673-ravens-gate.json) |
 | Raven's Hike | 164982 | [164982-ravens-hike.json](./164982-ravens-hike.json) |
 | Raven's Point | 156569 | [156569-ravens-point.json](./156569-ravens-point.json) |
 | Ravenbound | 214852 | [214852-ravenbound.json](./214852-ravenbound.json) |
@@ -3215,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recyclamation | 380201 | [380201-recyclamation.json](./380201-recyclamation.json) |
 | Recycle | 17300 | [17300-recycle.json](./17300-recycle.json) |
 | Recycle Bin Battle | 259103 | [259103-recycle-bin-battle.json](./259103-recycle-bin-battle.json) |
+| Recycle City | 228659 | [228659-recycle-city.json](./228659-recycle-city.json) |
 | Recycle Design | 195055 | [195055-recycle-design.json](./195055-recycle-design.json) |
 | Recycle it! | 296273 | [296273-recycle-it.json](./296273-recycle-it.json) |
 | Recycle Master | 300851 | [300851-recycle-master.json](./300851-recycle-master.json) |
@@ -3653,6 +3656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption of Liuyin | 333635 | [333635-redemption-of-liuyin.json](./333635-redemption-of-liuyin.json) |
 | Redemption of the Cat Demon Girl | 275545 | [275545-redemption-of-the-cat-demon-girl.json](./275545-redemption-of-the-cat-demon-girl.json) |
 | Redemption of the Damned | 147345 | [147345-redemption-of-the-damned.json](./147345-redemption-of-the-damned.json) |
+| Redemption Reapers | 228744 | [228744-redemption-reapers.json](./228744-redemption-reapers.json) |
 | Redemption: Eternal Quest | 34754 | [34754-redemption-eternal-quest.json](./34754-redemption-eternal-quest.json) |
 | Redemption: Liar | 65221 | [65221-redemption-liar.json](./65221-redemption-liar.json) |
 | Redemption: Wrath of Sin | 265568 | [265568-redemption-wrath-of-sin.json](./265568-redemption-wrath-of-sin.json) |
@@ -7754,6 +7758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robokill: Titan Prime | 95901 | [95901-robokill-titan-prime.json](./95901-robokill-titan-prime.json) |
 | RoboKong | 137571 | [137571-robokong.json](./137571-robokong.json) |
 | RoboLeague | 377560 | [377560-roboleague.json](./377560-roboleague.json) |
+| Roboleon | 228650 | [228650-roboleon.json](./228650-roboleon.json) |
 | Robolife: Days with Aino | 158976 | [158976-robolife-days-with-aino.json](./158976-robolife-days-with-aino.json) |
 | Robolife2: Nova Duty | 211585 | [211585-robolife2-nova-duty.json](./211585-robolife2-nova-duty.json) |
 | Robolifter | 227850 | [227850-robolifter.json](./227850-robolifter.json) |
