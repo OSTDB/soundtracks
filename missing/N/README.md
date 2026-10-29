@@ -2907,6 +2907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Rule: The Game is... | 234581 | [234581-new-rule-the-game-is.json](./234581-new-rule-the-game-is.json) |
 | New Science | 419837 | [419837-new-science.json](./419837-new-science.json) |
 | New Scuffed Bhop Simulation 2026: Goty Edition | 192170 | [192170-new-scuffed-bhop-simulation-2026-goty-edition.json](./192170-new-scuffed-bhop-simulation-2026-goty-edition.json) |
+| New Scuffed Epic Visual Novel | 223784 | [223784-new-scuffed-epic-visual-novel.json](./223784-new-scuffed-epic-visual-novel.json) |
 | New Sinbad 7 | 40380 | [40380-new-sinbad-7.json](./40380-new-sinbad-7.json) |
 | New Slippery Samurai | 169715 | [169715-new-slippery-samurai.json](./169715-new-slippery-samurai.json) |
 | New Solitaire | 88871 | [88871-new-solitaire.json](./88871-new-solitaire.json) |
