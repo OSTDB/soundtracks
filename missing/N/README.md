@@ -2366,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephilim | 341365 | [341365-nephilim.json](./341365-nephilim.json) |
 | Nephilim | 341366 | [341366-nephilim.json](./341366-nephilim.json) |
 | Nephilim Resurrection | 323233 | [323233-nephilim-resurrection.json](./323233-nephilim-resurrection.json) |
+| Nephilim Saga | 204793 | [204793-nephilim-saga.json](./204793-nephilim-saga.json) |
 | Nephise | 29171 | [29171-nephise.json](./29171-nephise.json) |
 | Nephise Begins | 36469 | [36469-nephise-begins.json](./36469-nephise-begins.json) |
 | Nephise: Ascension | 88057 | [88057-nephise-ascension.json](./88057-nephise-ascension.json) |
