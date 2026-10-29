@@ -8387,6 +8387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mess Adventures 2 | 187819 | [187819-mess-adventures-2.json](./187819-mess-adventures-2.json) |
 | Mess Cleanup | 166765 | [166765-mess-cleanup.json](./166765-mess-cleanup.json) |
 | Mess in the Toy Shop | 419827 | [419827-mess-in-the-toy-shop.json](./419827-mess-in-the-toy-shop.json) |
+| Mess Quest | 217139 | [217139-mess-quest.json](./217139-mess-quest.json) |
 | Messa Anomaly | 420762 | [420762-messa-anomaly.json](./420762-messa-anomaly.json) |
 | Message From Aliens | 415077 | [415077-message-from-aliens.json](./415077-message-from-aliens.json) |
 | Message from Andromeda | 13014 | [13014-message-from-andromeda.json](./13014-message-from-andromeda.json) |
@@ -9915,6 +9916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midway: The Battle that Doomed Japan | 73745 | [73745-midway-the-battle-that-doomed-japan.json](./73745-midway-the-battle-that-doomed-japan.json) |
 | Midway's Greatest Arcade Hits | 209512 | [209512-midways-greatest-arcade-hits.json](./209512-midways-greatest-arcade-hits.json) |
 | Midway's Greatest Arcade Hits: Volume 1 | 286966 | [286966-midways-greatest-arcade-hits-volume-1.json](./286966-midways-greatest-arcade-hits-volume-1.json) |
+| Midwest 90: Rapid City | 217135 | [217135-midwest-90-rapid-city.json](./217135-midwest-90-rapid-city.json) |
 | Midwest Drag Racing | 395190 | [395190-midwest-drag-racing.json](./395190-midwest-drag-racing.json) |
 | Midwest Goodbye | 414183 | [414183-midwest-goodbye.json](./414183-midwest-goodbye.json) |
 | Midwinter | 12681 | [12681-midwinter.json](./12681-midwinter.json) |
@@ -16230,6 +16232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Heli | 10446 | [10446-mr-heli.json](./10446-mr-heli.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
 | Mr. Hibbl: The Lost Levels | 262237 | [262237-mr-hibbl-the-lost-levels.json](./262237-mr-hibbl-the-lost-levels.json) |
+| Mr. Honeybunch | 217110 | [217110-mr-honeybunch.json](./217110-mr-honeybunch.json) |
 | Mr. Hoob! | 372695 | [372695-mr-hoob.json](./372695-mr-hoob.json) |
 | Mr. Hopp's Hunting Hour | 344305 | [344305-mr-hopps-hunting-hour.json](./344305-mr-hopps-hunting-hour.json) |
 | Mr. Hopp's Manor Escape | 196119 | [196119-mr-hopps-manor-escape.json](./196119-mr-hopps-manor-escape.json) |
