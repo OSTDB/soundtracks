@@ -3641,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Bundle | 193741 | [193741-giant-bundle.json](./193741-giant-bundle.json) |
 | Giant Celebration | 112707 | [112707-giant-celebration.json](./112707-giant-celebration.json) |
 | Giant Chase | 272446 | [272446-giant-chase.json](./272446-giant-chase.json) |
+| Giant Crusher | 214310 | [214310-giant-crusher.json](./214310-giant-crusher.json) |
 | Giant Cutter | 124571 | [124571-giant-cutter.json](./124571-giant-cutter.json) |
 | Giant Dancing Plushies | 175140 | [175140-giant-dancing-plushies.json](./175140-giant-dancing-plushies.json) |
 | Giant Defense | 249912 | [249912-giant-defense.json](./249912-giant-defense.json) |
@@ -5831,6 +5832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf knight | 232131 | [232131-golf-knight.json](./232131-golf-knight.json) |
 | Golf Loop | 329570 | [329570-golf-loop.json](./329570-golf-loop.json) |
 | Golf Master | 137673 | [137673-golf-master.json](./137673-golf-master.json) |
+| Golf Master 3D | 214297 | [214297-golf-master-3d.json](./214297-golf-master-3d.json) |
 | Golf Monday | 287234 | [287234-golf-monday.json](./287234-golf-monday.json) |
 | Golf Monster | 156670 | [156670-golf-monster.json](./156670-golf-monster.json) |
 | Golf My Way | 45893 | [45893-golf-my-way.json](./45893-golf-my-way.json) |
