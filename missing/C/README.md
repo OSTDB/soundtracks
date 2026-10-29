@@ -1817,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Jump | 164912 | [164912-car-jump.json](./164912-car-jump.json) |
 | Car Looper | 150533 | [150533-car-looper.json](./150533-car-looper.json) |
 | Car Maker Game: Fun Simulator | 105701 | [105701-car-maker-game-fun-simulator.json](./105701-car-maker-game-fun-simulator.json) |
+| Car Mats | 219384 | [219384-car-mats.json](./219384-car-mats.json) |
 | Car Mayhem | 119511 | [119511-car-mayhem.json](./119511-car-mayhem.json) |
 | Car Mechanic Flipper | 113661 | [113661-car-mechanic-flipper.json](./113661-car-mechanic-flipper.json) |
 | Car Mechanic Manager | 34569 | [34569-car-mechanic-manager.json](./34569-car-mechanic-manager.json) |
@@ -5793,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Cats | 248068 | [248068-chess-cats.json](./248068-chess-cats.json) |
 | Chess Challenge! | 51126 | [51126-chess-challenge.json](./51126-chess-challenge.json) |
 | Chess Challenger | 227821 | [227821-chess-challenger.json](./227821-chess-challenger.json) |
+| Chess Classic Board Game | 219379 | [219379-chess-classic-board-game.json](./219379-chess-classic-board-game.json) |
 | Chess Club | 193694 | [193694-chess-club.json](./193694-chess-club.json) |
 | Chess Club Valley | 303527 | [303527-chess-club-valley.json](./303527-chess-club-valley.json) |
 | Chess Corp | 216701 | [216701-chess-corp.json](./216701-chess-corp.json) |
@@ -9399,6 +9401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Rush: Ultimate Guys - Complete Edition + | 272409 | [272409-clumsy-rush-ultimate-guys-complete-edition.json](./272409-clumsy-rush-ultimate-guys-complete-edition.json) |
 | Clumsy Rush: Ultimate Guys - Decorations Pack 12 | 251665 | [251665-clumsy-rush-ultimate-guys-decorations-pack-12.json](./251665-clumsy-rush-ultimate-guys-decorations-pack-12.json) |
 | Clumsy Rush: Ultimate Guys - Definitive Edition | 231277 | [231277-clumsy-rush-ultimate-guys-definitive-edition.json](./231277-clumsy-rush-ultimate-guys-definitive-edition.json) |
+| Clumsy Rush: Ultimate Guys - Deluxe Edition | 219382 | [219382-clumsy-rush-ultimate-guys-deluxe-edition.json](./219382-clumsy-rush-ultimate-guys-deluxe-edition.json) |
 | Clumsy Rush: Ultimate Guys - Extended Edition | 238064 | [238064-clumsy-rush-ultimate-guys-extended-edition.json](./238064-clumsy-rush-ultimate-guys-extended-edition.json) |
 | Clumsy Rush: Ultimate Guys - GOTY Edition | 246878 | [246878-clumsy-rush-ultimate-guys-goty-edition.json](./246878-clumsy-rush-ultimate-guys-goty-edition.json) |
 | Clumsy Rush: Ultimate Guys - Legendary Edition | 251494 | [251494-clumsy-rush-ultimate-guys-legendary-edition.json](./251494-clumsy-rush-ultimate-guys-legendary-edition.json) |
