@@ -1925,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | illuminati Simulator VR | 156142 | [156142-illuminati-simulator-vr.json](./156142-illuminati-simulator-vr.json) |
 | Illuminati Tycoon | 184859 | [184859-illuminati-tycoon.json](./184859-illuminati-tycoon.json) |
 | Illuminati Wars MLG Edition | 397735 | [397735-illuminati-wars-mlg-edition.json](./397735-illuminati-wars-mlg-edition.json) |
+| Illumination | 201977 | [201977-illumination.json](./201977-illumination.json) |
 | Illumination | 292940 | [292940-illumination.json](./292940-illumination.json) |
 | Illumination Laser | 280690 | [280690-illumination-laser.json](./280690-illumination-laser.json) |
 | Illumination of Mansion | 374571 | [374571-illumination-of-mansion.json](./374571-illumination-of-mansion.json) |
@@ -4546,6 +4547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Depths Below | 279127 | [279127-into-the-depths-below.json](./279127-into-the-depths-below.json) |
 | Into the Depths of Despair | 270563 | [270563-into-the-depths-of-despair.json](./270563-into-the-depths-of-despair.json) |
 | Into The Dread | 336867 | [336867-into-the-dread.json](./336867-into-the-dread.json) |
+| Into the Dungeon | 201939 | [201939-into-the-dungeon.json](./201939-into-the-dungeon.json) |
 | Into the Dungeon | 238983 | [238983-into-the-dungeon.json](./238983-into-the-dungeon.json) |
 | Into the Dungeon | 258171 | [258171-into-the-dungeon.json](./258171-into-the-dungeon.json) |
 | Into the Dust | 399145 | [399145-into-the-dust.json](./399145-into-the-dust.json) |
