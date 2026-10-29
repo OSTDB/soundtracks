@@ -7783,6 +7783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Walls | 196674 | [196674-among-walls.json](./196674-among-walls.json) |
 | Among Water: Meditation Idle | 256757 | [256757-among-water-meditation-idle.json](./256757-among-water-meditation-idle.json) |
 | Amongst the Neon Lights | 215533 | [215533-amongst-the-neon-lights.json](./215533-amongst-the-neon-lights.json) |
+| Amor Fati | 184731 | [184731-amor-fati.json](./184731-amor-fati.json) |
 | Amora | 102876 | [102876-amora.json](./102876-amora.json) |
 | Amora Crystal | 120790 | [120790-amora-crystal.json](./120790-amora-crystal.json) |
 | Amoreon NightClub | 59241 | [59241-amoreon-nightclub.json](./59241-amoreon-nightclub.json) |
@@ -8213,6 +8214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AncientsReborn | 233439 | [233439-ancientsreborn.json](./233439-ancientsreborn.json) |
 | Ancings: The First Tournament | 283902 | [283902-ancings-the-first-tournament.json](./283902-ancings-the-first-tournament.json) |
 | Ancipital | 13801 | [13801-ancipital.json](./13801-ancipital.json) |
+| And All Is Well | 184727 | [184727-and-all-is-well.json](./184727-and-all-is-well.json) |
 | And All That Could Have Been | 271055 | [271055-and-all-that-could-have-been.json](./271055-and-all-that-could-have-been.json) |
 | And All Would Cry Beware! | 117627 | [117627-and-all-would-cry-beware.json](./117627-and-all-would-cry-beware.json) |
 | And Around Goes the Clock | 364514 | [364514-and-around-goes-the-clock.json](./364514-and-around-goes-the-clock.json) |
@@ -13153,6 +13155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen Vow | 373852 | [373852-ashen-vow.json](./373852-ashen-vow.json) |
 | Ashen Will | 211044 | [211044-ashen-will.json](./211044-ashen-will.json) |
 | Ashen World | 379451 | [379451-ashen-world.json](./379451-ashen-world.json) |
+| Asher | 184726 | [184726-asher.json](./184726-asher.json) |
 | Asher | 33483 | [33483-asher.json](./33483-asher.json) |
 | Asher Descent | 405612 | [405612-asher-descent.json](./405612-asher-descent.json) |
 | Asheron's Call | 603 | [603-asherons-call.json](./603-asherons-call.json) |
