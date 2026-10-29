@@ -11586,6 +11586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Cases of Sherlock Holmes | 10978 | [10978-the-lost-cases-of-sherlock-holmes.json](./10978-the-lost-cases-of-sherlock-holmes.json) |
 | The Lost Cases of Sherlock Holmes 2 | 10979 | [10979-the-lost-cases-of-sherlock-holmes-2.json](./10979-the-lost-cases-of-sherlock-holmes-2.json) |
 | The Lost Castle In Darkmist | 40369 | [40369-the-lost-castle-in-darkmist.json](./40369-the-lost-castle-in-darkmist.json) |
+| The Lost Castle: Escape Room | 226499 | [226499-the-lost-castle-escape-room.json](./226499-the-lost-castle-escape-room.json) |
 | The Lost Cave of the Ozarks | 125120 | [125120-the-lost-cave-of-the-ozarks.json](./125120-the-lost-cave-of-the-ozarks.json) |
 | The Lost Caves | 179169 | [179169-the-lost-caves.json](./179169-the-lost-caves.json) |
 | The Lost Cemetery | 268995 | [268995-the-lost-cemetery.json](./268995-the-lost-cemetery.json) |
@@ -14270,6 +14271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shell Part I: Inferno | 252084 | [252084-the-shell-part-i-inferno.json](./252084-the-shell-part-i-inferno.json) |
 | The Shell Part III: Paradiso | 141751 | [141751-the-shell-part-iii-paradiso.json](./141751-the-shell-part-iii-paradiso.json) |
 | The Shell Part III: Paradiso | 324151 | [324151-the-shell-part-iii-paradiso.json](./324151-the-shell-part-iii-paradiso.json) |
+| The Shelter of Patient | 226507 | [226507-the-shelter-of-patient.json](./226507-the-shelter-of-patient.json) |
 | The Sheltered | 36492 | [36492-the-sheltered.json](./36492-the-sheltered.json) |
 | The Shenanigans of Cherry and Trix | 127374 | [127374-the-shenanigans-of-cherry-and-trix.json](./127374-the-shenanigans-of-cherry-and-trix.json) |
 | The Sheng's Written: Journey of Hoo | 301056 | [301056-the-shengs-written-journey-of-hoo.json](./301056-the-shengs-written-journey-of-hoo.json) |
@@ -20348,6 +20350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinker Bell: 2 Disney Games | 113889 | [113889-tinker-bell-2-disney-games.json](./113889-tinker-bell-2-disney-games.json) |
 | Tinker Island 2 | 257223 | [257223-tinker-island-2.json](./257223-tinker-island-2.json) |
 | Tinker Islands | 410820 | [410820-tinker-islands.json](./410820-tinker-islands.json) |
+| Tinker Pilot | 226478 | [226478-tinker-pilot.json](./226478-tinker-pilot.json) |
 | Tinker Racers | 129739 | [129739-tinker-racers.json](./129739-tinker-racers.json) |
 | Tinker Tactics | 382545 | [382545-tinker-tactics.json](./382545-tinker-tactics.json) |
 | Tinker Tanks | 247666 | [247666-tinker-tanks.json](./247666-tinker-tanks.json) |
@@ -25708,6 +25711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: Tnfrhs Refrigerator Wagon | 205358 | [205358-trainz-railroad-simulator-2022-tnfrhs-refrigerator-wagon.json](./205358-trainz-railroad-simulator-2022-tnfrhs-refrigerator-wagon.json) |
 | Trainz Railroad Simulator 2022: Union Pacific GE C40-8 | 205433 | [205433-trainz-railroad-simulator-2022-union-pacific-ge-c40-8.json](./205433-trainz-railroad-simulator-2022-union-pacific-ge-c40-8.json) |
 | Trainz Railroad Simulator 2022: US ATC Class S 160 Steam | 205335 | [205335-trainz-railroad-simulator-2022-us-atc-class-s-160-steam.json](./205335-trainz-railroad-simulator-2022-us-atc-class-s-160-steam.json) |
+| Trainz Railroad Simulator 2022: USA Route - Far Northern Mountains | 226495 | [226495-trainz-railroad-simulator-2022-usa-route-far-northern-mountains.json](./226495-trainz-railroad-simulator-2022-usa-route-far-northern-mountains.json) |
 | Trainz Railroad Simulator 2022: USA Route - Forest Industry | 227131 | [227131-trainz-railroad-simulator-2022-usa-route-forest-industry.json](./227131-trainz-railroad-simulator-2022-usa-route-forest-industry.json) |
 | Trainz Railroad Simulator 2022: Victorian Railways Type 4 DD Class Pack - Canadian Red | 205402 | [205402-trainz-railroad-simulator-2022-victorian-railways-type-4-dd-class-pack-canadian-red.json](./205402-trainz-railroad-simulator-2022-victorian-railways-type-4-dd-class-pack-canadian-red.json) |
 | Trainz Railroad Simulator 2022: Victorian Railways V class FL Black | 205408 | [205408-trainz-railroad-simulator-2022-victorian-railways-v-class-fl-black.json](./205408-trainz-railroad-simulator-2022-victorian-railways-v-class-fl-black.json) |
