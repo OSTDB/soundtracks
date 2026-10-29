@@ -4099,6 +4099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help! I've Been Cursed With A Bubble Butt | 337469 | [337469-help-ive-been-cursed-with-a-bubble-butt.json](./337469-help-ive-been-cursed-with-a-bubble-butt.json) |
 | Help! My Giant Goth Girlfriend Is Insane | 418858 | [418858-help-my-giant-goth-girlfriend-is-insane.json](./418858-help-my-giant-goth-girlfriend-is-insane.json) |
 | Help! My New Roommate Is a Hung Goth Futanari Ghost! | 369164 | [369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json](./369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json) |
+| Help! No Brake | 223761 | [223761-help-no-brake.json](./223761-help-no-brake.json) |
 | Helper to Hero | 271410 | [271410-helper-to-hero.json](./271410-helper-to-hero.json) |
 | Helping Ani | 249833 | [249833-helping-ani.json](./249833-helping-ani.json) |
 | Helping Frankenstein | 96581 | [96581-helping-frankenstein.json](./96581-helping-frankenstein.json) |
@@ -9294,10 +9295,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: AcceleRacers Hollowback | 265087 | [265087-hot-wheels-unleashed-acceleracers-hollowback.json](./265087-hot-wheels-unleashed-acceleracers-hollowback.json) |
 | Hot Wheels Unleashed: Challenge Accepted Edition | 146181 | [146181-hot-wheels-unleashed-challenge-accepted-edition.json](./146181-hot-wheels-unleashed-challenge-accepted-edition.json) |
 | Hot Wheels Unleashed: Chevy 1956 | 264491 | [264491-hot-wheels-unleashed-chevy-1956.json](./264491-hot-wheels-unleashed-chevy-1956.json) |
+| Hot Wheels Unleashed: Christmas Pack | 223787 | [223787-hot-wheels-unleashed-christmas-pack.json](./223787-hot-wheels-unleashed-christmas-pack.json) |
 | Hot Wheels Unleashed: Collector's Edition | 169204 | [169204-hot-wheels-unleashed-collectors-edition.json](./169204-hot-wheels-unleashed-collectors-edition.json) |
 | Hot Wheels Unleashed: Corvette Stingray Convertible 2014 | 195769 | [195769-hot-wheels-unleashed-corvette-stingray-convertible-2014.json](./195769-hot-wheels-unleashed-corvette-stingray-convertible-2014.json) |
 | Hot Wheels Unleashed: Day One Edition | 146134 | [146134-hot-wheels-unleashed-day-one-edition.json](./146134-hot-wheels-unleashed-day-one-edition.json) |
 | Hot Wheels Unleashed: DC Super Heroes Racing Season | 195766 | [195766-hot-wheels-unleashed-dc-super-heroes-racing-season.json](./195766-hot-wheels-unleashed-dc-super-heroes-racing-season.json) |
+| Hot Wheels Unleashed: Fun Pack | 223786 | [223786-hot-wheels-unleashed-fun-pack.json](./223786-hot-wheels-unleashed-fun-pack.json) |
 | Hot Wheels Unleashed: Game of the Year Edition | 218968 | [218968-hot-wheels-unleashed-game-of-the-year-edition.json](./218968-hot-wheels-unleashed-game-of-the-year-edition.json) |
 | Hot Wheels Unleashed: Looney Tunes | 209393 | [209393-hot-wheels-unleashed-looney-tunes.json](./209393-hot-wheels-unleashed-looney-tunes.json) |
 | Hot Wheels Unleashed: McLaren Senna | 195768 | [195768-hot-wheels-unleashed-mclaren-senna.json](./195768-hot-wheels-unleashed-mclaren-senna.json) |
