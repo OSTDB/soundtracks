@@ -4505,23 +4505,36 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV Online: Complete Edition | 307773 | [307773-final-fantasy-xiv-online-complete-edition.json](./307773-final-fantasy-xiv-online-complete-edition.json) |
 | Final Fantasy XIV Online: Starter Edition | 136224 | [136224-final-fantasy-xiv-online-starter-edition.json](./136224-final-fantasy-xiv-online-starter-edition.json) |
 | Final Fantasy XIV Online: Starter Edition | 293777 | [293777-final-fantasy-xiv-online-starter-edition.json](./293777-final-fantasy-xiv-online-starter-edition.json) |
+| Final Fantasy XIV: A Realm Awoken | 221522 | [221522-final-fantasy-xiv-a-realm-awoken.json](./221522-final-fantasy-xiv-a-realm-awoken.json) |
 | Final Fantasy XIV: A Realm Reborn - Collector's Edition | 41839 | [41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json](./41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json) |
+| Final Fantasy XIV: As Goes Light, So Goes Darkness | 221529 | [221529-final-fantasy-xiv-as-goes-light-so-goes-darkness.json](./221529-final-fantasy-xiv-as-goes-light-so-goes-darkness.json) |
+| Final Fantasy XIV: Before the Fall | 221528 | [221528-final-fantasy-xiv-before-the-fall.json](./221528-final-fantasy-xiv-before-the-fall.json) |
 | Final Fantasy XIV: Collector's Edition | 41854 | [41854-final-fantasy-xiv-collectors-edition.json](./41854-final-fantasy-xiv-collectors-edition.json) |
 | Final Fantasy XIV: Crossroads | 318270 | [318270-final-fantasy-xiv-crossroads.json](./318270-final-fantasy-xiv-crossroads.json) |
 | Final Fantasy XIV: Dawntrail - Collector's Edition | 307775 | [307775-final-fantasy-xiv-dawntrail-collectors-edition.json](./307775-final-fantasy-xiv-dawntrail-collectors-edition.json) |
+| Final Fantasy XIV: Defenders of Eorzea | 221525 | [221525-final-fantasy-xiv-defenders-of-eorzea.json](./221525-final-fantasy-xiv-defenders-of-eorzea.json) |
+| Final Fantasy XIV: Dreams of Ice | 221526 | [221526-final-fantasy-xiv-dreams-of-ice.json](./221526-final-fantasy-xiv-dreams-of-ice.json) |
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
 | Final Fantasy XIV: Gods Revel, Lands Tremble | 228886 | [228886-final-fantasy-xiv-gods-revel-lands-tremble.json](./228886-final-fantasy-xiv-gods-revel-lands-tremble.json) |
 | Final Fantasy XIV: Growing Light | 259399 | [259399-final-fantasy-xiv-growing-light.json](./259399-final-fantasy-xiv-growing-light.json) |
 | Final Fantasy XIV: Heavensward - Collector's Edition | 51532 | [51532-final-fantasy-xiv-heavensward-collectors-edition.json](./51532-final-fantasy-xiv-heavensward-collectors-edition.json) |
 | Final Fantasy XIV: Into the Mist | 376015 | [376015-final-fantasy-xiv-into-the-mist.json](./376015-final-fantasy-xiv-into-the-mist.json) |
+| Final Fantasy XIV: Revenge of the Horde | 221533 | [221533-final-fantasy-xiv-revenge-of-the-horde.json](./221533-final-fantasy-xiv-revenge-of-the-horde.json) |
+| Final Fantasy XIV: Rise of a New Sun | 221539 | [221539-final-fantasy-xiv-rise-of-a-new-sun.json](./221539-final-fantasy-xiv-rise-of-a-new-sun.json) |
 | Final Fantasy XIV: Seekers of Eternity | 333873 | [333873-final-fantasy-xiv-seekers-of-eternity.json](./333873-final-fantasy-xiv-seekers-of-eternity.json) |
 | Final Fantasy XIV: Shadowbringers | 112412 | [112412-final-fantasy-xiv-shadowbringers.json](./112412-final-fantasy-xiv-shadowbringers.json) |
 | Final Fantasy XIV: Shadowbringers - Collector's Edition | 167106 | [167106-final-fantasy-xiv-shadowbringers-collectors-edition.json](./167106-final-fantasy-xiv-shadowbringers-collectors-edition.json) |
+| Final Fantasy XIV: Soul Surrender | 221536 | [221536-final-fantasy-xiv-soul-surrender.json](./221536-final-fantasy-xiv-soul-surrender.json) |
 | Final Fantasy XIV: Stormblood | 26625 | [26625-final-fantasy-xiv-stormblood.json](./26625-final-fantasy-xiv-stormblood.json) |
 | Final Fantasy XIV: Stormblood - Collector's Edition | 167116 | [167116-final-fantasy-xiv-stormblood-collectors-edition.json](./167116-final-fantasy-xiv-stormblood-collectors-edition.json) |
 | Final Fantasy XIV: The Dark Throne | 246956 | [246956-final-fantasy-xiv-the-dark-throne.json](./246956-final-fantasy-xiv-the-dark-throne.json) |
+| Final Fantasy XIV: The Far Edge of Fate | 221537 | [221537-final-fantasy-xiv-the-far-edge-of-fate.json](./221537-final-fantasy-xiv-the-far-edge-of-fate.json) |
+| Final Fantasy XIV: The Gears of Change | 221530 | [221530-final-fantasy-xiv-the-gears-of-change.json](./221530-final-fantasy-xiv-the-gears-of-change.json) |
+| Final Fantasy XIV: The Legend Returns | 221538 | [221538-final-fantasy-xiv-the-legend-returns.json](./221538-final-fantasy-xiv-the-legend-returns.json) |
 | Final Fantasy XIV: The Promise of Tomorrow | 350547 | [350547-final-fantasy-xiv-the-promise-of-tomorrow.json](./350547-final-fantasy-xiv-the-promise-of-tomorrow.json) |
+| Final Fantasy XIV: Through the Maelstrom | 221523 | [221523-final-fantasy-xiv-through-the-maelstrom.json](./221523-final-fantasy-xiv-through-the-maelstrom.json) |
+| Final Fantasy XIV: Under the Moonlight | 221540 | [221540-final-fantasy-xiv-under-the-moonlight.json](./221540-final-fantasy-xiv-under-the-moonlight.json) |
 | Final Fantasy XV Mobile | 129157 | [129157-final-fantasy-xv-mobile.json](./129157-final-fantasy-xv-mobile.json) |
 | Final Fantasy XV Multiplayer: Comrades | 76163 | [76163-final-fantasy-xv-multiplayer-comrades.json](./76163-final-fantasy-xv-multiplayer-comrades.json) |
 | Final Fantasy XV: A New Empire | 41052 | [41052-final-fantasy-xv-a-new-empire.json](./41052-final-fantasy-xv-a-new-empire.json) |
@@ -7911,6 +7924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Tycoon: Asian Cuisine Expansion Pack 2 | 199855 | [199855-food-truck-tycoon-asian-cuisine-expansion-pack-2.json](./199855-food-truck-tycoon-asian-cuisine-expansion-pack-2.json) |
 | Food Truck Tycoon: Co-op Edition | 247590 | [247590-food-truck-tycoon-co-op-edition.json](./247590-food-truck-tycoon-co-op-edition.json) |
 | Food Truck Tycoon: Complete Edition | 199845 | [199845-food-truck-tycoon-complete-edition.json](./199845-food-truck-tycoon-complete-edition.json) |
+| Food Truck Tycoon: Deluxe Edition | 221506 | [221506-food-truck-tycoon-deluxe-edition.json](./221506-food-truck-tycoon-deluxe-edition.json) |
 | Food Truck Tycoon: Expansion Pack 2 | 199838 | [199838-food-truck-tycoon-expansion-pack-2.json](./199838-food-truck-tycoon-expansion-pack-2.json) |
 | Food Truck Tycoon: GOTY Edition | 268556 | [268556-food-truck-tycoon-goty-edition.json](./268556-food-truck-tycoon-goty-edition.json) |
 | Food Truck Tycoon: Multiplayer Edition | 240407 | [240407-food-truck-tycoon-multiplayer-edition.json](./240407-food-truck-tycoon-multiplayer-edition.json) |
