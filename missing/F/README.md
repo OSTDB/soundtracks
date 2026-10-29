@@ -3147,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
 | Fear of Sleep | 391107 | [391107-fear-of-sleep.json](./391107-fear-of-sleep.json) |
 | Fear of the dark | 185499 | [185499-fear-of-the-dark.json](./185499-fear-of-the-dark.json) |
+| Fear of the Dark | 186487 | [186487-fear-of-the-dark.json](./186487-fear-of-the-dark.json) |
 | Fear Of The Dark | 308244 | [308244-fear-of-the-dark.json](./308244-fear-of-the-dark.json) |
 | Fear of The Unknown | 169810 | [169810-fear-of-the-unknown.json](./169810-fear-of-the-unknown.json) |
 | Fear of Traffic | 103564 | [103564-fear-of-traffic.json](./103564-fear-of-traffic.json) |
@@ -4744,6 +4745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Soldier | 37712 | [37712-final-soldier.json](./37712-final-soldier.json) |
 | Final Soldier: Special Version | 42026 | [42026-final-soldier-special-version.json](./42026-final-soldier-special-version.json) |
 | Final Soul | 57634 | [57634-final-soul.json](./57634-final-soul.json) |
+| Final Space: The Rescue | 187062 | [187062-final-space-the-rescue.json](./187062-final-space-the-rescue.json) |
 | Final Splash | 386851 | [386851-final-splash.json](./386851-final-splash.json) |
 | Final Stand Waves | 394672 | [394672-final-stand-waves.json](./394672-final-stand-waves.json) |
 | Final Star | 113440 | [113440-final-star.json](./113440-final-star.json) |
@@ -5621,6 +5623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First South Beer Pong | 59653 | [59653-first-south-beer-pong.json](./59653-first-south-beer-pong.json) |
 | First Star Online 3 | 145946 | [145946-first-star-online-3.json](./145946-first-star-online-3.json) |
 | First Step: Fighting Souls | 196328 | [196328-first-step-fighting-souls.json](./196328-first-step-fighting-souls.json) |
+| First Steps | 186418 | [186418-first-steps.json](./186418-first-steps.json) |
 | First Steps | 263217 | [263217-first-steps.json](./263217-first-steps.json) |
 | First Steps in Learning About Pregnancy | 367040 | [367040-first-steps-in-learning-about-pregnancy.json](./367040-first-steps-in-learning-about-pregnancy.json) |
 | First Steps with the Mr. Men | 97797 | [97797-first-steps-with-the-mr-men.json](./97797-first-steps-with-the-mr-men.json) |
@@ -8108,6 +8111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Challenges | 233459 | [233459-football-challenges.json](./233459-football-challenges.json) |
 | Football Champ | 39481 | [39481-football-champ.json](./39481-football-champ.json) |
 | Football City | 260624 | [260624-football-city.json](./260624-football-city.json) |
+| Football Club | 187058 | [187058-football-club.json](./187058-football-club.json) |
 | Football Club 2019-2023 | 282705 | [282705-football-club-2019-2023.json](./282705-football-club-2019-2023.json) |
 | Football Club Builder | 409577 | [409577-football-club-builder.json](./409577-football-club-builder.json) |
 | Football Club Inside | 390711 | [390711-football-club-inside.json](./390711-football-club-inside.json) |
@@ -11469,6 +11473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FUBG: Fight Unknown Battleground | 302804 | [302804-fubg-fight-unknown-battleground.json](./302804-fubg-fight-unknown-battleground.json) |
 | Fubuki: Zero in on Holoearth | 331530 | [331530-fubuki-zero-in-on-holoearth.json](./331530-fubuki-zero-in-on-holoearth.json) |
 | Fǔchéng Shàonǚ: Yǐ Nǐ Wéi Míng de Fǔchéng Qíngshū | 163891 | [163891-fucheng-shaonu-yi-ni-wei-ming-de-fucheng-qingshu.json](./163891-fucheng-shaonu-yi-ni-wei-ming-de-fucheng-qingshu.json) |
+| Fuchian Chronicles | 186492 | [186492-fuchian-chronicles.json](./186492-fuchian-chronicles.json) |
 | Fùchóuzhě Liánméng: Zhōngjí Yīngxióng | 82052 | [82052-fuchouzhe-lianmeng-zhongji-yingxiong.json](./82052-fuchouzhe-lianmeng-zhongji-yingxiong.json) |
 | Fuchsia: a Point-and-Click Adventure | 139869 | [139869-fuchsia-a-point-and-click-adventure.json](./139869-fuchsia-a-point-and-click-adventure.json) |
 | Fuck AI | 390722 | [390722-fuck-ai.json](./390722-fuck-ai.json) |
@@ -11920,6 +11925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Panda | 189116 | [189116-funny-panda.json](./189116-funny-panda.json) |
 | Funny Park | 257452 | [257452-funny-park.json](./257452-funny-park.json) |
 | Funny Park Reawakening | 418253 | [418253-funny-park-reawakening.json](./418253-funny-park-reawakening.json) |
+| Funny Pets | 187030 | [187030-funny-pets.json](./187030-funny-pets.json) |
 | Funny Pizza Land | 123615 | [123615-funny-pizza-land.json](./123615-funny-pizza-land.json) |
 | Funny Pizza Land 2 | 217485 | [217485-funny-pizza-land-2.json](./217485-funny-pizza-land-2.json) |
 | Funny puzzle | 173214 | [173214-funny-puzzle.json](./173214-funny-puzzle.json) |
