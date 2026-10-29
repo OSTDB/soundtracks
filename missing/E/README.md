@@ -3815,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entrance 8 Iriguchi | 391864 | [391864-entrance-8-iriguchi.json](./391864-entrance-8-iriguchi.json) |
 | Entre Laços e Amassos | 215790 | [215790-entre-lacos-e-amassos.json](./215790-entre-lacos-e-amassos.json) |
 | Entre-Deux | 99445 | [99445-entre-deux.json](./99445-entre-deux.json) |
+| Entre.pontos | 180413 | [180413-entre-pontos.json](./180413-entre-pontos.json) |
 | Entrenched | 257229 | [257229-entrenched.json](./257229-entrenched.json) |
 | Entrepreneurial tycoon | 236884 | [236884-entrepreneurial-tycoon.json](./236884-entrepreneurial-tycoon.json) |
 | Entropic Decay | 192622 | [192622-entropic-decay.json](./192622-entropic-decay.json) |
@@ -4727,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From The Tutorial | 301599 | [301599-escape-from-the-tutorial.json](./301599-escape-from-the-tutorial.json) |
 | Escape from the Underworld | 124599 | [124599-escape-from-the-underworld.json](./124599-escape-from-the-underworld.json) |
 | Escape from the Universe | 123307 | [123307-escape-from-the-universe.json](./123307-escape-from-the-universe.json) |
+| Escape from the Vampire's Tomb | 180431 | [180431-escape-from-the-vampires-tomb.json](./180431-escape-from-the-vampires-tomb.json) |
 | Escape from the Village | 180017 | [180017-escape-from-the-village.json](./180017-escape-from-the-village.json) |
 | Escape from the XX | 378147 | [378147-escape-from-the-xx.json](./378147-escape-from-the-xx.json) |
 | Escape from the Yellow Room 3 | 220216 | [220216-escape-from-the-yellow-room-3.json](./220216-escape-from-the-yellow-room-3.json) |
@@ -5507,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternium: Mage and Minions | 193967 | [193967-eternium-mage-and-minions.json](./193967-eternium-mage-and-minions.json) |
 | Eternum | 209628 | [209628-eternum.json](./209628-eternum.json) |
 | Eterspire | 143526 | [143526-eterspire.json](./143526-eterspire.json) |
+| Ethan Lit 2 | 180404 | [180404-ethan-lit-2.json](./180404-ethan-lit-2.json) |
 | Ethan: Meteor Hunter | 10279 | [10279-ethan-meteor-hunter.json](./10279-ethan-meteor-hunter.json) |
 | Ethan's Watch | 390613 | [390613-ethans-watch.json](./390613-ethans-watch.json) |
 | Ethanol in dungeon | 118253 | [118253-ethanol-in-dungeon.json](./118253-ethanol-in-dungeon.json) |
