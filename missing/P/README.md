@@ -4399,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pettson's Inventions 4 | 352523 | [352523-pettsons-inventions-4.json](./352523-pettsons-inventions-4.json) |
 | Pettsons julspel | 286111 | [286111-pettsons-julspel.json](./286111-pettsons-julspel.json) |
 | Petty Ungodliness | 411757 | [411757-petty-ungodliness.json](./411757-petty-ungodliness.json) |
+| Petty's Adventure: Desert | 218838 | [218838-pettys-adventure-desert.json](./218838-pettys-adventure-desert.json) |
 | Petualangan DivineKids | 275160 | [275160-petualangan-divinekids.json](./275160-petualangan-divinekids.json) |
 | Petunia the Yellow Mouse | 62278 | [62278-petunia-the-yellow-mouse.json](./62278-petunia-the-yellow-mouse.json) |
 | Petunia's Purgatory | 380836 | [380836-petunias-purgatory.json](./380836-petunias-purgatory.json) |
