@@ -3717,6 +3717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redfall: Steelbook Launch Edition | 350534 | [350534-redfall-steelbook-launch-edition.json](./350534-redfall-steelbook-launch-edition.json) |
 | Redfir Hills | 304116 | [304116-redfir-hills.json](./304116-redfir-hills.json) |
 | Redfoot Bluefoot Dancing | 41965 | [41965-redfoot-bluefoot-dancing.json](./41965-redfoot-bluefoot-dancing.json) |
+| Redhill Manor | 185303 | [185303-redhill-manor.json](./185303-redhill-manor.json) |
 | Redhook's Revenge | 68885 | [68885-redhooks-revenge.json](./68885-redhooks-revenge.json) |
 | Redhowl | 382862 | [382862-redhowl.json](./382862-redhowl.json) |
 | Redial:Conundrum | 273444 | [273444-redial-conundrum.json](./273444-redial-conundrum.json) |
@@ -9374,6 +9375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance - Hidden Object Games | 86918 | [86918-romance-hidden-object-games.json](./86918-romance-hidden-object-games.json) |
 | Romance after dark | 385873 | [385873-romance-after-dark.json](./385873-romance-after-dark.json) |
 | Romance Choice | 301949 | [301949-romance-choice.json](./301949-romance-choice.json) |
+| Romance Club | 185260 | [185260-romance-club.json](./185260-romance-club.json) |
 | Romance Club: Stories I Play | 270927 | [270927-romance-club-stories-i-play.json](./270927-romance-club-stories-i-play.json) |
 | Romance Coaching 101: Couple's Edition | 171517 | [171517-romance-coaching-101-couples-edition.json](./171517-romance-coaching-101-couples-edition.json) |
 | Romance Detective | 108884 | [108884-romance-detective.json](./108884-romance-detective.json) |
@@ -9670,6 +9672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomba Rail Rider | 302144 | [302144-roomba-rail-rider.json](./302144-roomba-rail-rider.json) |
 | Roomba Rampage | 182141 | [182141-roomba-rampage.json](./182141-roomba-rampage.json) |
 | Roomba Ruckus | 301789 | [301789-roomba-ruckus.json](./301789-roomba-ruckus.json) |
+| Roombattle | 185264 | [185264-roombattle.json](./185264-roombattle.json) |
 | Roombo: First Blood | 114015 | [114015-roombo-first-blood.json](./114015-roombo-first-blood.json) |
 | Roomgaze | 347644 | [347644-roomgaze.json](./347644-roomgaze.json) |
 | Roomie Romance | 82094 | [82094-roomie-romance.json](./82094-roomie-romance.json) |
