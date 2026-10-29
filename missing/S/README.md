@@ -8819,6 +8819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Effect | 190488 | [190488-side-effect.json](./190488-side-effect.json) |
 | Side Effects | 343472 | [343472-side-effects.json](./343472-side-effects.json) |
 | Side Effects | 364621 | [364621-side-effects.json](./364621-side-effects.json) |
+| Side Gear | 194127 | [194127-side-gear.json](./194127-side-gear.json) |
 | Side Hustle | 376488 | [376488-side-hustle.json](./376488-side-hustle.json) |
 | Side Hustle City | 364066 | [364066-side-hustle-city.json](./364066-side-hustle-city.json) |
 | Side Kicks! | 69322 | [69322-side-kicks.json](./69322-side-kicks.json) |
@@ -23113,6 +23114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar 7: Draxon's Revenge | 4313 | [4313-stellar-7-draxons-revenge.json](./4313-stellar-7-draxons-revenge.json) |
 | Stellar Age | 102563 | [102563-stellar-age.json](./102563-stellar-age.json) |
 | Stellar Archipelago | 372612 | [372612-stellar-archipelago.json](./372612-stellar-archipelago.json) |
+| Stellar Arena | 194139 | [194139-stellar-arena.json](./194139-stellar-arena.json) |
 | Stellar Assault SS | 112045 | [112045-stellar-assault-ss.json](./112045-stellar-assault-ss.json) |
 | Stellar Attack | 52870 | [52870-stellar-attack.json](./52870-stellar-attack.json) |
 | Stellar Bewitching | 314057 | [314057-stellar-bewitching.json](./314057-stellar-bewitching.json) |
@@ -29869,6 +29871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sure Footing | 90431 | [90431-sure-footing.json](./90431-sure-footing.json) |
 | Sure Instinct | 251713 | [251713-sure-instinct.json](./251713-sure-instinct.json) |
 | Sure Shot | 355543 | [355543-sure-shot.json](./355543-sure-shot.json) |
+| Surely You Quest: Magiswords | 194138 | [194138-surely-you-quest-magiswords.json](./194138-surely-you-quest-magiswords.json) |
 | Surf 'm Up! | 77331 | [77331-surf-m-up.json](./77331-surf-m-up.json) |
 | Surf 'n Safari | 93574 | [93574-surf-n-safari.json](./93574-surf-n-safari.json) |
 | Surf & Turf Bundle | 308581 | [308581-surf-and-turf-bundle.json](./308581-surf-and-turf-bundle.json) |
