@@ -4497,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Komiiworld Adventure | 336440 | [336440-komiiworld-adventure.json](./336440-komiiworld-adventure.json) |
 | Kommersant | 180295 | [180295-kommersant.json](./180295-kommersant.json) |
 | Kommersant | 81640 | [81640-kommersant.json](./81640-kommersant.json) |
+| Kommissar Kugelblitz: Das Geheimnis von Spooky Hill | 220963 | [220963-kommissar-kugelblitz-das-geheimnis-von-spooky-hill.json](./220963-kommissar-kugelblitz-das-geheimnis-von-spooky-hill.json) |
 | Kommissar Kugelblitz: Der Fall Wüstenkönig | 221256 | [221256-kommissar-kugelblitz-der-fall-wustenkonig.json](./221256-kommissar-kugelblitz-der-fall-wustenkonig.json) |
 | Kommissar Kugelblitz: Vermisst am Mississippi | 282691 | [282691-kommissar-kugelblitz-vermisst-am-mississippi.json](./282691-kommissar-kugelblitz-vermisst-am-mississippi.json) |
 | Kommissar Rex | 217734 | [217734-kommissar-rex.json](./217734-kommissar-rex.json) |
