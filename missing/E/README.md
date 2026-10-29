@@ -7100,6 +7100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Express No. 6 | 381091 | [381091-express-no-6.json](./381091-express-no-6.json) |
 | Express Raider | 13654 | [13654-express-raider.json](./13654-express-raider.json) |
 | Express Simulator | 152463 | [152463-express-simulator.json](./152463-express-simulator.json) |
+| Expresso Espresso | 189848 | [189848-expresso-espresso.json](./189848-expresso-espresso.json) |
 | Expresso Run | 209183 | [209183-expresso-run.json](./209183-expresso-run.json) |
 | Expunge! | 72469 | [72469-expunge.json](./72469-expunge.json) |
 | Exquisite Amethyst | 261170 | [261170-exquisite-amethyst.json](./261170-exquisite-amethyst.json) |
