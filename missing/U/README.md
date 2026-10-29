@@ -850,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraball | 79104 | [79104-ultraball.json](./79104-ultraball.json) |
 | Ultraball | 82318 | [82318-ultraball.json](./82318-ultraball.json) |
 | Ultrabots | 68909 | [68909-ultrabots.json](./68909-ultrabots.json) |
+| Ultrabots: Sanction Earth | 214891 | [214891-ultrabots-sanction-earth.json](./214891-ultrabots-sanction-earth.json) |
 | Ultrabouters | 177242 | [177242-ultrabouters.json](./177242-ultrabouters.json) |
 | Ultrabox | 267943 | [267943-ultrabox.json](./267943-ultrabox.json) |
 | Ultrabox No. 2 | 267942 | [267942-ultrabox-no-2.json](./267942-ultrabox-no-2.json) |
@@ -1730,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld Adventures | 256715 | [256715-underworld-adventures.json](./256715-underworld-adventures.json) |
 | Underworld Ascendant | 19466 | [19466-underworld-ascendant.json](./19466-underworld-ascendant.json) |
 | Underworld Capital Incident | 146232 | [146232-underworld-capital-incident.json](./146232-underworld-capital-incident.json) |
+| Underworld Debt Roulette | 214909 | [214909-underworld-debt-roulette.json](./214909-underworld-debt-roulette.json) |
 | Underworld Defense | 259515 | [259515-underworld-defense.json](./259515-underworld-defense.json) |
 | Underworld Dreams | 127209 | [127209-underworld-dreams.json](./127209-underworld-dreams.json) |
 | Underworld Dreams: The False King | 192360 | [192360-underworld-dreams-the-false-king.json](./192360-underworld-dreams-the-false-king.json) |
