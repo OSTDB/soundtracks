@@ -2202,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Haze | 152042 | [152042-neon-haze.json](./152042-neon-haze.json) |
 | Neon Hearts City | 331383 | [331383-neon-hearts-city.json](./331383-neon-hearts-city.json) |
 | Neon Heights | 278144 | [278144-neon-heights.json](./278144-neon-heights.json) |
+| Neon Hell | 180962 | [180962-neon-hell.json](./180962-neon-hell.json) |
 | Neon Highways | 349203 | [349203-neon-highways.json](./349203-neon-highways.json) |
 | Neon Hockey | 63176 | [63176-neon-hockey.json](./63176-neon-hockey.json) |
 | Neon Hyperdrive | 356008 | [356008-neon-hyperdrive.json](./356008-neon-hyperdrive.json) |
