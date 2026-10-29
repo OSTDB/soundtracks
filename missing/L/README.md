@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawn Mowing Simulator: Ancient Britain | 196062 | [196062-lawn-mowing-simulator-ancient-britain.json](./196062-lawn-mowing-simulator-ancient-britain.json) |
 | Lawn Mowing Simulator: Dino Safari | 196154 | [196154-lawn-mowing-simulator-dino-safari.json](./196154-lawn-mowing-simulator-dino-safari.json) |
 | Lawn Mowing Simulator: Landmark Edition | 201779 | [201779-lawn-mowing-simulator-landmark-edition.json](./201779-lawn-mowing-simulator-landmark-edition.json) |
+| Lawn of Time: Unicorn Snow | 228676 | [228676-lawn-of-time-unicorn-snow.json](./228676-lawn-of-time-unicorn-snow.json) |
 | Lawn Order | 413028 | [413028-lawn-order.json](./413028-lawn-order.json) |
 | Lawn Purge | 247019 | [247019-lawn-purge.json](./247019-lawn-purge.json) |
 | Lawn Tennis Games | 285340 | [285340-lawn-tennis-games.json](./285340-lawn-tennis-games.json) |
@@ -3105,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lester the Unlikely | 42504 | [42504-lester-the-unlikely.json](./42504-lester-the-unlikely.json) |
 | Let Bions be Bygones | 202860 | [202860-let-bions-be-bygones.json](./202860-let-bions-be-bygones.json) |
 | Let Catch Me | 343686 | [343686-let-catch-me.json](./343686-let-catch-me.json) |
+| Let Chat Guess | 228756 | [228756-let-chat-guess.json](./228756-let-chat-guess.json) |
 | Let Deco Desktop | 389751 | [389751-let-deco-desktop.json](./389751-let-deco-desktop.json) |
 | Let Hawaii Happen VR | 31151 | [31151-let-hawaii-happen-vr.json](./31151-let-hawaii-happen-vr.json) |
 | Let Her Go | 353758 | [353758-let-her-go.json](./353758-let-her-go.json) |
@@ -5951,6 +5953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lode Runner | 311347 | [311347-lode-runner.json](./311347-lode-runner.json) |
 | Lode Runner | 69179 | [69179-lode-runner.json](./69179-lode-runner.json) |
 | Lode Runner - Teikoku Karano Dasshutsu | 40081 | [40081-lode-runner-teikoku-karano-dasshutsu.json](./40081-lode-runner-teikoku-karano-dasshutsu.json) |
+| Lode Runner 1 | 228753 | [228753-lode-runner-1.json](./228753-lode-runner-1.json) |
 | Lode Runner 2 | 73760 | [73760-lode-runner-2.json](./73760-lode-runner-2.json) |
 | Lode Runner 3-D | 3372 | [3372-lode-runner-3-d.json](./3372-lode-runner-3-d.json) |
 | Lode Runner Classic | 64881 | [64881-lode-runner-classic.json](./64881-lode-runner-classic.json) |
@@ -8500,6 +8503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna Child no Saishuu Bouei Line 3 | 202971 | [202971-luna-child-no-saishuu-bouei-line-3.json](./202971-luna-child-no-saishuu-bouei-line-3.json) |
 | Luna Crabs | 71054 | [71054-luna-crabs.json](./71054-luna-crabs.json) |
 | Luna de Selene | 383349 | [383349-luna-de-selene.json](./383349-luna-de-selene.json) |
+| Luna Game | 228656 | [228656-luna-game.json](./228656-luna-game.json) |
 | Luna Hop | 342300 | [342300-luna-hop.json](./342300-luna-hop.json) |
 | Luna in Silver Shards | 271233 | [271233-luna-in-silver-shards.json](./271233-luna-in-silver-shards.json) |
 | Luna League Soccer | 267324 | [267324-luna-league-soccer.json](./267324-luna-league-soccer.json) |
