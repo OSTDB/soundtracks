@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shippuden: Ultimate Ninja Storm 4 - Evolution | 344589 | [344589-naruto-shippuden-ultimate-ninja-storm-4-evolution.json](./344589-naruto-shippuden-ultimate-ninja-storm-4-evolution.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - Gaara's Tale Extra Scenario | 168159 | [168159-naruto-shippuden-ultimate-ninja-storm-4-gaaras-tale-extra-scenario.json](./168159-naruto-shippuden-ultimate-ninja-storm-4-gaaras-tale-extra-scenario.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto | 46665 | [46665-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto.json](./46665-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto.json) |
+| Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto + Naruto to Boruto: Shinobi Striker | 214878 | [214878-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-naruto-to-boruto-shinobi-striker.json](./214878-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-naruto-to-boruto-shinobi-striker.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto Next Generations | 168161 | [168161-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-next-generations.json](./168161-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-next-generations.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - Shikamaru's Tale Extra Scenario | 168160 | [168160-naruto-shippuden-ultimate-ninja-storm-4-shikamarus-tale-extra-scenario.json](./168160-naruto-shippuden-ultimate-ninja-storm-4-shikamarus-tale-extra-scenario.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - The Sound Four Characters | 168158 | [168158-naruto-shippuden-ultimate-ninja-storm-4-the-sound-four-characters.json](./168158-naruto-shippuden-ultimate-ninja-storm-4-the-sound-four-characters.json) |
@@ -4230,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nijowari: Where Angels Fall | 126262 | [126262-nijowari-where-angels-fall.json](./126262-nijowari-where-angels-fall.json) |
 | Nijuu Yuumu | 167127 | [167127-nijuu-yuumu.json](./167127-nijuu-yuumu.json) |
 | Nijuuei | 204499 | [204499-nijuuei.json](./204499-nijuuei.json) |
+| Nik and Kit Arcade: Breakthrough Gaming Arcade | 214901 | [214901-nik-and-kit-arcade-breakthrough-gaming-arcade.json](./214901-nik-and-kit-arcade-breakthrough-gaming-arcade.json) |
 | Nik and Kit Racing | 213351 | [213351-nik-and-kit-racing.json](./213351-nik-and-kit-racing.json) |
 | Nik and Kit: Kit's Adventure | 214013 | [214013-nik-and-kit-kits-adventure.json](./214013-nik-and-kit-kits-adventure.json) |
 | Nik and Kit: Nik's Adventure | 212793 | [212793-nik-and-kit-niks-adventure.json](./212793-nik-and-kit-niks-adventure.json) |
