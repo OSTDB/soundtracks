@@ -14564,6 +14564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Bugs | 57652 | [57652-moon-bugs.json](./57652-moon-bugs.json) |
 | Moon Carrier | 357135 | [357135-moon-carrier.json](./357135-moon-carrier.json) |
 | Moon Castle | 89404 | [89404-moon-castle.json](./89404-moon-castle.json) |
+| Moon Cheeser | 184695 | [184695-moon-cheeser.json](./184695-moon-cheeser.json) |
 | Moon Child | 108279 | [108279-moon-child.json](./108279-moon-child.json) |
 | Moon Chronicles | 8606 | [8606-moon-chronicles.json](./8606-moon-chronicles.json) |
 | Moon Colonization Project | 32237 | [32237-moon-colonization-project.json](./32237-moon-colonization-project.json) |
@@ -15089,6 +15090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morriton Manor Stories: Nordic Whispers | 311715 | [311715-morriton-manor-stories-nordic-whispers.json](./311715-morriton-manor-stories-nordic-whispers.json) |
 | Morrok | 250974 | [250974-morrok.json](./250974-morrok.json) |
 | Morrow | 220844 | [220844-morrow.json](./220844-morrow.json) |
+| Morse | 184717 | [184717-morse.json](./184717-morse.json) |
 | Morse | 198337 | [198337-morse.json](./198337-morse.json) |
 | Morse | 41542 | [41542-morse.json](./41542-morse.json) |
 | Morse Academy | 334926 | [334926-morse-academy.json](./334926-morse-academy.json) |
@@ -18798,6 +18800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Unusual Feline Friend | 259014 | [259014-my-unusual-feline-friend.json](./259014-my-unusual-feline-friend.json) |
 | My Valiant Purpose | 278384 | [278384-my-valiant-purpose.json](./278384-my-valiant-purpose.json) |
 | My Vampire Boyfriend Smokes Lucky Strikes | 401079 | [401079-my-vampire-boyfriend-smokes-lucky-strikes.json](./401079-my-vampire-boyfriend-smokes-lucky-strikes.json) |
+| My Vampire Girlfriend. | 184739 | [184739-my-vampire-girlfriend.json](./184739-my-vampire-girlfriend.json) |
 | My Very Hungry Caterpillar | 321784 | [321784-my-very-hungry-caterpillar.json](./321784-my-very-hungry-caterpillar.json) |
 | My Very Hungry Caterpillar AR | 109544 | [109544-my-very-hungry-caterpillar-ar.json](./109544-my-very-hungry-caterpillar-ar.json) |
 | My Very Own Lair | 158563 | [158563-my-very-own-lair.json](./158563-my-very-own-lair.json) |
