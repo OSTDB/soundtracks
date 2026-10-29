@@ -1571,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Monopole Mayhem | 181137 | [181137-magnetic-monopole-mayhem.json](./181137-magnetic-monopole-mayhem.json) |
 | Magnetic Projectiles | 211668 | [211668-magnetic-projectiles.json](./211668-magnetic-projectiles.json) |
 | Magnetic Pull | 118324 | [118324-magnetic-pull.json](./118324-magnetic-pull.json) |
+| Magnetic Structures | 221484 | [221484-magnetic-structures.json](./221484-magnetic-structures.json) |
 | Magnetic Wars | 91791 | [91791-magnetic-wars.json](./91791-magnetic-wars.json) |
 | Magnetic: Cage Closed | 20888 | [20888-magnetic-cage-closed.json](./20888-magnetic-cage-closed.json) |
 | Magnetica | 20526 | [20526-magnetica.json](./20526-magnetica.json) |
@@ -15471,6 +15472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Comprehensive Edition | 399823 | [399823-moto-rush-gt-comprehensive-edition.json](./399823-moto-rush-gt-comprehensive-edition.json) |
 | Moto Rush GT: Core Edition | 396922 | [396922-moto-rush-gt-core-edition.json](./396922-moto-rush-gt-core-edition.json) |
 | Moto Rush GT: Definitive Edition | 283139 | [283139-moto-rush-gt-definitive-edition.json](./283139-moto-rush-gt-definitive-edition.json) |
+| Moto Rush GT: Deluxe Edition | 221507 | [221507-moto-rush-gt-deluxe-edition.json](./221507-moto-rush-gt-deluxe-edition.json) |
 | Moto Rush GT: Diamond Edition | 280613 | [280613-moto-rush-gt-diamond-edition.json](./280613-moto-rush-gt-diamond-edition.json) |
 | Moto Rush GT: Essentials Edition | 387679 | [387679-moto-rush-gt-essentials-edition.json](./387679-moto-rush-gt-essentials-edition.json) |
 | Moto Rush GT: Extended Edition | 261346 | [261346-moto-rush-gt-extended-edition.json](./261346-moto-rush-gt-extended-edition.json) |
@@ -17812,6 +17814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Furry Protogen: 18+ Adult Only Patch | 213447 | [213447-my-furry-protogen-18-adult-only-patch.json](./213447-my-furry-protogen-18-adult-only-patch.json) |
 | My Furry Stepmom | 393374 | [393374-my-furry-stepmom.json](./393374-my-furry-stepmom.json) |
 | My Furry Succubus | 253899 | [253899-my-furry-succubus.json](./253899-my-furry-succubus.json) |
+| My Furry Teacher | 221515 | [221515-my-furry-teacher.json](./221515-my-furry-teacher.json) |
 | My Furry Trainer | 215892 | [215892-my-furry-trainer.json](./215892-my-furry-trainer.json) |
 | My Futa Girlfriend | 297151 | [297151-my-futa-girlfriend.json](./297151-my-futa-girlfriend.json) |
 | My Gambian Boyfriend | 332636 | [332636-my-gambian-boyfriend.json](./332636-my-gambian-boyfriend.json) |
