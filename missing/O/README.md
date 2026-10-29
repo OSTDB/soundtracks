@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Ash and Dust | 313253 | [313253-of-ash-and-dust.json](./313253-of-ash-and-dust.json) |
 | Of Ash and Steel | 322389 | [322389-of-ash-and-steel.json](./322389-of-ash-and-steel.json) |
 | Of Bird and Cage | 117848 | [117848-of-bird-and-cage.json](./117848-of-bird-and-cage.json) |
+| Of Blades & Tails | 187655 | [187655-of-blades-and-tails.json](./187655-of-blades-and-tails.json) |
 | Of Blood and Descent | 317601 | [317601-of-blood-and-descent.json](./317601-of-blood-and-descent.json) |
 | Of Carrots and Blood | 33604 | [33604-of-carrots-and-blood.json](./33604-of-carrots-and-blood.json) |
 | Of Dice and Minions | 420800 | [420800-of-dice-and-minions.json](./420800-of-dice-and-minions.json) |
@@ -1233,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oko | 128559 | [128559-oko.json](./128559-oko.json) |
 | Okthryssia and Saturnia's Bureaucratic Adventures | 323245 | [323245-okthryssia-and-saturnias-bureaucratic-adventures.json](./323245-okthryssia-and-saturnias-bureaucratic-adventures.json) |
 | Oktoberfest | 318471 | [318471-oktoberfest.json](./318471-oktoberfest.json) |
+| Oktoberfest Break | 187684 | [187684-oktoberfest-break.json](./187684-oktoberfest-break.json) |
 | Oktoberfest Break: Head to Head | 214518 | [214518-oktoberfest-break-head-to-head.json](./214518-oktoberfest-break-head-to-head.json) |
 | Oktoberfest Wiesn-Gaudi | 125168 | [125168-oktoberfest-wiesn-gaudi.json](./125168-oktoberfest-wiesn-gaudi.json) |
 | Oktoberfest: The Official Game | 67682 | [67682-oktoberfest-the-official-game.json](./67682-oktoberfest-the-official-game.json) |
