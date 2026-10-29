@@ -2533,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nethercard Kingdom | 182870 | [182870-nethercard-kingdom.json](./182870-nethercard-kingdom.json) |
 | Nethergate | 94652 | [94652-nethergate.json](./94652-nethergate.json) |
 | Nethergate: Resurrection | 16405 | [16405-nethergate-resurrection.json](./16405-nethergate-resurrection.json) |
+| Netherguild | 194769 | [194769-netherguild.json](./194769-netherguild.json) |
 | Nethermage | 349227 | [349227-nethermage.json](./349227-nethermage.json) |
 | Nethernovel | 259992 | [259992-nethernovel.json](./259992-nethernovel.json) |
 | Netherside | 152364 | [152364-netherside.json](./152364-netherside.json) |
