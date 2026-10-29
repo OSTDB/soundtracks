@@ -4197,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hengband | 141020 | [141020-hengband.json](./141020-hengband.json) |
 | Héngsǎo Tiānxià | 128322 | [128322-hengsao-tianxia.json](./128322-hengsao-tianxia.json) |
 | Henhouse | 44392 | [44392-henhouse.json](./44392-henhouse.json) |
+| Henite | 179302 | [179302-henite.json](./179302-henite.json) |
 | Henk Stroem in: Lost in Cellar | 322824 | [322824-henk-stroem-in-lost-in-cellar.json](./322824-henk-stroem-in-lost-in-cellar.json) |
 | Henka Twist Caper | 52237 | [52237-henka-twist-caper.json](./52237-henka-twist-caper.json) |
 | HenPri | 322740 | [322740-henpri.json](./322740-henpri.json) |
