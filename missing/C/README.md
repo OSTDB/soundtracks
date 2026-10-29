@@ -1394,7 +1394,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caparace | 383966 | [383966-caparace.json](./383966-caparace.json) |
 | Capcom | 220079 | [220079-capcom.json](./220079-capcom.json) |
 | Capcom Arcade 2nd Stadium | 204386 | [204386-capcom-arcade-2nd-stadium.json](./204386-capcom-arcade-2nd-stadium.json) |
+| Capcom Arcade 2nd Stadium: 1943 Kai - Midway Kaisen | 204752 | [204752-capcom-arcade-2nd-stadium-1943-kai-midway-kaisen.json](./204752-capcom-arcade-2nd-stadium-1943-kai-midway-kaisen.json) |
+| Capcom Arcade 2nd Stadium: A.K.A Block Block | 204770 | [204770-capcom-arcade-2nd-stadium-a-k-a-block-block.json](./204770-capcom-arcade-2nd-stadium-a-k-a-block-block.json) |
+| Capcom Arcade 2nd Stadium: A.K.A Knights of the Round | 204771 | [204771-capcom-arcade-2nd-stadium-a-k-a-knights-of-the-round.json](./204771-capcom-arcade-2nd-stadium-a-k-a-knights-of-the-round.json) |
+| Capcom Arcade 2nd Stadium: A.K.A Magic Sword | 204755 | [204755-capcom-arcade-2nd-stadium-a-k-a-magic-sword.json](./204755-capcom-arcade-2nd-stadium-a-k-a-magic-sword.json) |
+| Capcom Arcade 2nd Stadium: A.K.A The King of Dragons | 204769 | [204769-capcom-arcade-2nd-stadium-a-k-a-the-king-of-dragons.json](./204769-capcom-arcade-2nd-stadium-a-k-a-the-king-of-dragons.json) |
+| Capcom Arcade 2nd Stadium: A.K.A Vampire Savior - The Lord of Vampire | 204763 | [204763-capcom-arcade-2nd-stadium-a-k-a-vampire-savior-the-lord-of-vampire.json](./204763-capcom-arcade-2nd-stadium-a-k-a-vampire-savior-the-lord-of-vampire.json) |
+| Capcom Arcade 2nd Stadium: Bundle 1 | 204757 | [204757-capcom-arcade-2nd-stadium-bundle-1.json](./204757-capcom-arcade-2nd-stadium-bundle-1.json) |
+| Capcom Arcade 2nd Stadium: Capcom Sports Club | 204762 | [204762-capcom-arcade-2nd-stadium-capcom-sports-club.json](./204762-capcom-arcade-2nd-stadium-capcom-sports-club.json) |
+| Capcom Arcade 2nd Stadium: Darkstalkers - The Night Warriors | 204775 | [204775-capcom-arcade-2nd-stadium-darkstalkers-the-night-warriors.json](./204775-capcom-arcade-2nd-stadium-darkstalkers-the-night-warriors.json) |
+| Capcom Arcade 2nd Stadium: Eco Fighters | 204773 | [204773-capcom-arcade-2nd-stadium-eco-fighters.json](./204773-capcom-arcade-2nd-stadium-eco-fighters.json) |
+| Capcom Arcade 2nd Stadium: Gan Sumoku | 204758 | [204758-capcom-arcade-2nd-stadium-gan-sumoku.json](./204758-capcom-arcade-2nd-stadium-gan-sumoku.json) |
+| Capcom Arcade 2nd Stadium: Hyper Street Fighter II - The Anniversary Edition | 204759 | [204759-capcom-arcade-2nd-stadium-hyper-street-fighter-ii-the-anniversary-edition.json](./204759-capcom-arcade-2nd-stadium-hyper-street-fighter-ii-the-anniversary-edition.json) |
+| Capcom Arcade 2nd Stadium: Last Duel | 204753 | [204753-capcom-arcade-2nd-stadium-last-duel.json](./204753-capcom-arcade-2nd-stadium-last-duel.json) |
+| Capcom Arcade 2nd Stadium: Mega Man - The Power Battle | 204767 | [204767-capcom-arcade-2nd-stadium-mega-man-the-power-battle.json](./204767-capcom-arcade-2nd-stadium-mega-man-the-power-battle.json) |
+| Capcom Arcade 2nd Stadium: Mega Man 2 - The Power Fighters | 204764 | [204764-capcom-arcade-2nd-stadium-mega-man-2-the-power-fighters.json](./204764-capcom-arcade-2nd-stadium-mega-man-2-the-power-fighters.json) |
 | Capcom Arcade 2nd Stadium: Muscle Bomber - The Body Explosion | 238104 | [238104-capcom-arcade-2nd-stadium-muscle-bomber-the-body-explosion.json](./238104-capcom-arcade-2nd-stadium-muscle-bomber-the-body-explosion.json) |
+| Capcom Arcade 2nd Stadium: Night Warriors - Darkstalkers' Revenge | 204776 | [204776-capcom-arcade-2nd-stadium-night-warriors-darkstalkers-revenge.json](./204776-capcom-arcade-2nd-stadium-night-warriors-darkstalkers-revenge.json) |
+| Capcom Arcade 2nd Stadium: Pnickies | 204774 | [204774-capcom-arcade-2nd-stadium-pnickies.json](./204774-capcom-arcade-2nd-stadium-pnickies.json) |
+| Capcom Arcade 2nd Stadium: Rally 2011 Led Storm | 204754 | [204754-capcom-arcade-2nd-stadium-rally-2011-led-storm.json](./204754-capcom-arcade-2nd-stadium-rally-2011-led-storm.json) |
+| Capcom Arcade 2nd Stadium: Saturday Night Slam Masters | 204772 | [204772-capcom-arcade-2nd-stadium-saturday-night-slam-masters.json](./204772-capcom-arcade-2nd-stadium-saturday-night-slam-masters.json) |
+| Capcom Arcade 2nd Stadium: Street Fighter Alpha - Warriors' Dreams | 204777 | [204777-capcom-arcade-2nd-stadium-street-fighter-alpha-warriors-dreams.json](./204777-capcom-arcade-2nd-stadium-street-fighter-alpha-warriors-dreams.json) |
+| Capcom Arcade 2nd Stadium: Street Fighter Alpha 2 | 204766 | [204766-capcom-arcade-2nd-stadium-street-fighter-alpha-2.json](./204766-capcom-arcade-2nd-stadium-street-fighter-alpha-2.json) |
+| Capcom Arcade 2nd Stadium: Street Fighter Alpha 3 | 204760 | [204760-capcom-arcade-2nd-stadium-street-fighter-alpha-3.json](./204760-capcom-arcade-2nd-stadium-street-fighter-alpha-3.json) |
+| Capcom Arcade 2nd Stadium: Super Gem Fighter Mini Mix | 204761 | [204761-capcom-arcade-2nd-stadium-super-gem-fighter-mini-mix.json](./204761-capcom-arcade-2nd-stadium-super-gem-fighter-mini-mix.json) |
+| Capcom Arcade 2nd Stadium: Super Puzzle Fighter II Turbo | 204765 | [204765-capcom-arcade-2nd-stadium-super-puzzle-fighter-ii-turbo.json](./204765-capcom-arcade-2nd-stadium-super-puzzle-fighter-ii-turbo.json) |
+| Capcom Arcade 2nd Stadium: Three Wonders | 204768 | [204768-capcom-arcade-2nd-stadium-three-wonders.json](./204768-capcom-arcade-2nd-stadium-three-wonders.json) |
 | Capcom Arcade Cabinet | 18821 | [18821-capcom-arcade-cabinet.json](./18821-capcom-arcade-cabinet.json) |
 | Capcom Arcade Cabinet: 1984 Collection | 21890 | [21890-capcom-arcade-cabinet-1984-collection.json](./21890-capcom-arcade-cabinet-1984-collection.json) |
 | Capcom Arcade Hits Volume 1 | 64489 | [64489-capcom-arcade-hits-volume-1.json](./64489-capcom-arcade-hits-volume-1.json) |
@@ -6947,6 +6972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chousentou Kyuugi: The Ultimate Ballgame Van Borg | 135674 | [135674-chousentou-kyuugi-the-ultimate-ballgame-van-borg.json](./135674-chousentou-kyuugi-the-ultimate-ballgame-van-borg.json) |
 | Chousoku Henkei Gyrozetter: Albatross no Tsubasa | 59970 | [59970-chousoku-henkei-gyrozetter-albatross-no-tsubasa.json](./59970-chousoku-henkei-gyrozetter-albatross-no-tsubasa.json) |
 | Chousoku Shoujo: Hypersonic Speed Girl | 97906 | [97906-chousoku-shoujo-hypersonic-speed-girl.json](./97906-chousoku-shoujo-hypersonic-speed-girl.json) |
+| Chousoku Shoujo: Hypersonic Speed Girl - Over the Speedz | 204785 | [204785-chousoku-shoujo-hypersonic-speed-girl-over-the-speedz.json](./204785-chousoku-shoujo-hypersonic-speed-girl-over-the-speedz.json) |
 | Chousoku Spinner | 66073 | [66073-chousoku-spinner.json](./66073-chousoku-spinner.json) |
 | Chowder: Bookin' Cook | 318111 | [318111-chowder-bookin-cook.json](./318111-chowder-bookin-cook.json) |
 | Chowder: Rump-A-Thump | 194844 | [194844-chowder-rump-a-thump.json](./194844-chowder-rump-a-thump.json) |
