@@ -10314,6 +10314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Solar: Chaos War | 32057 | [32057-blue-solar-chaos-war.json](./32057-blue-solar-chaos-war.json) |
 | Blue Sphere Madness | 332598 | [332598-blue-sphere-madness.json](./332598-blue-sphere-madness.json) |
 | Blue Sphere Plus | 216302 | [216302-blue-sphere-plus.json](./216302-blue-sphere-plus.json) |
+| Blue Star Mobile Team | 205861 | [205861-blue-star-mobile-team.json](./205861-blue-star-mobile-team.json) |
 | Blue Steel | 401174 | [401174-blue-steel.json](./401174-blue-steel.json) |
 | Blue Stinger | 6715 | [6715-blue-stinger.json](./6715-blue-stinger.json) |
 | Blue Submarine No. 6: Antarctica | 78956 | [78956-blue-submarine-no-6-antarctica.json](./78956-blue-submarine-no-6-antarctica.json) |
@@ -12036,6 +12037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
 | Boulder Dash: 40th Anniversary | 316942 | [316942-boulder-dash-40th-anniversary.json](./316942-boulder-dash-40th-anniversary.json) |
 | Boulder Escape | 236168 | [236168-boulder-escape.json](./236168-boulder-escape.json) |
+| Boulder Island | 205862 | [205862-boulder-island.json](./205862-boulder-island.json) |
 | Boulder Logic | 289579 | [289579-boulder-logic.json](./289579-boulder-logic.json) |
 | Boulder Match | 66567 | [66567-boulder-match.json](./66567-boulder-match.json) |
 | Boulder Match 3 | 66568 | [66568-boulder-match-3.json](./66568-boulder-match-3.json) |
