@@ -2949,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fateful Mages | 242968 | [242968-fateful-mages.json](./242968-fateful-mages.json) |
 | Fateholders of Tetsoidea | 43158 | [43158-fateholders-of-tetsoidea.json](./43158-fateholders-of-tetsoidea.json) |
 | Fatekeeper | 358769 | [358769-fatekeeper.json](./358769-fatekeeper.json) |
+| Fateless Night | 207621 | [207621-fateless-night.json](./207621-fateless-night.json) |
 | Fateline | 121003 | [121003-fateline.json](./121003-fateline.json) |
 | Fatermyth | 291159 | [291159-fatermyth.json](./291159-fatermyth.json) |
 | Fates Call: A New Beginning | 169480 | [169480-fates-call-a-new-beginning.json](./169480-fates-call-a-new-beginning.json) |
@@ -3982,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Club | 297296 | [297296-fight-club.json](./297296-fight-club.json) |
 | Fight Club | 5834 | [5834-fight-club.json](./5834-fight-club.json) |
 | Fight Club World | 336882 | [336882-fight-club-world.json](./336882-fight-club-world.json) |
+| Fight Club: All Stars | 207642 | [207642-fight-club-all-stars.json](./207642-fight-club-all-stars.json) |
 | Fight Club: Join us if you can | 231058 | [231058-fight-club-join-us-if-you-can.json](./231058-fight-club-join-us-if-you-can.json) |
 | Fight Crab | 90231 | [90231-fight-crab.json](./90231-fight-crab.json) |
 | Fight Crab 2 | 265211 | [265211-fight-crab-2.json](./265211-fight-crab-2.json) |
@@ -8727,6 +8729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Land | 53096 | [53096-forgotten-land.json](./53096-forgotten-land.json) |
 | Forgotten Lands: First Colony | 64724 | [64724-forgotten-lands-first-colony.json](./64724-forgotten-lands-first-colony.json) |
 | Forgotten Lands: Online | 340236 | [340236-forgotten-lands-online.json](./340236-forgotten-lands-online.json) |
+| Forgotten Legends | 207631 | [207631-forgotten-legends.json](./207631-forgotten-legends.json) |
 | Forgotten Lore | 34723 | [34723-forgotten-lore.json](./34723-forgotten-lore.json) |
 | Forgotten Magic Tower | 293381 | [293381-forgotten-magic-tower.json](./293381-forgotten-magic-tower.json) |
 | Forgotten Mechs | 295830 | [295830-forgotten-mechs.json](./295830-forgotten-mechs.json) |
