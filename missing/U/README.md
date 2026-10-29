@@ -2145,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | University Life Visual Novel | 371921 | [371921-university-life-visual-novel.json](./371921-university-life-visual-novel.json) |
 | University Love Affair | 235883 | [235883-university-love-affair.json](./235883-university-love-affair.json) |
 | University of Problems | 356442 | [356442-university-of-problems.json](./356442-university-of-problems.json) |
+| University Stories | 207657 | [207657-university-stories.json](./207657-university-stories.json) |
 | University Tycoon: The College Management Simulator | 312418 | [312418-university-tycoon-the-college-management-simulator.json](./312418-university-tycoon-the-college-management-simulator.json) |
 | Univocity | 339916 | [339916-univocity.json](./339916-univocity.json) |
 | UniWar | 91536 | [91536-uniwar.json](./91536-uniwar.json) |
@@ -3015,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UrbexCam | 372734 | [372734-urbexcam.json](./372734-urbexcam.json) |
 | URBO | 271173 | [271173-urbo.json](./271173-urbo.json) |
 | Urbo: Dream One | 261661 | [261661-urbo-dream-one.json](./261661-urbo-dream-one.json) |
+| Urchins and Ink | 207609 | [207609-urchins-and-ink.json](./207609-urchins-and-ink.json) |
 | Urcicus | 391836 | [391836-urcicus.json](./391836-urcicus.json) |
 | Urd Monster | 179535 | [179535-urd-monster.json](./179535-urd-monster.json) |
 | Urge | 133065 | [133065-urge.json](./133065-urge.json) |
