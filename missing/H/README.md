@@ -2756,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headlander | 15857 | [15857-headlander.json](./15857-headlander.json) |
 | Headless Chicken | 260503 | [260503-headless-chicken.json](./260503-headless-chicken.json) |
 | Headless D | 223629 | [223629-headless-d.json](./223629-headless-d.json) |
+| Headless Jeff-3 | 195872 | [195872-headless-jeff-3.json](./195872-headless-jeff-3.json) |
 | Headless Zombie 2 | 102020 | [102020-headless-zombie-2.json](./102020-headless-zombie-2.json) |
 | Headlice | 292585 | [292585-headlice.json](./292585-headlice.json) |
 | HeadLight | 274052 | [274052-headlight.json](./274052-headlight.json) |
@@ -5098,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Defence | 25095 | [25095-hero-defence.json](./25095-hero-defence.json) |
 | Hero Defender | 114114 | [114114-hero-defender.json](./114114-hero-defender.json) |
 | Hero Defense: Haunted Island | 80217 | [80217-hero-defense-haunted-island.json](./80217-hero-defense-haunted-island.json) |
+| Hero Dice | 196403 | [196403-hero-dice.json](./196403-hero-dice.json) |
 | Hero Dream of School | 114289 | [114289-hero-dream-of-school.json](./114289-hero-dream-of-school.json) |
 | Hero Emblem 2 | 82712 | [82712-hero-emblem-2.json](./82712-hero-emblem-2.json) |
 | Hero Emblems II | 114777 | [114777-hero-emblems-ii.json](./114777-hero-emblems-ii.json) |
@@ -9113,6 +9115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hospital 9: Puzzles | 163417 | [163417-hospital-9-puzzles.json](./163417-hospital-9-puzzles.json) |
 | Hospital Black River | 184961 | [184961-hospital-black-river.json](./184961-hospital-black-river.json) |
 | Hospital Doctor: Fix me up for Kids (Boys & Girls) | 257881 | [257881-hospital-doctor-fix-me-up-for-kids-boys-and-girls.json](./257881-hospital-doctor-fix-me-up-for-kids-boys-and-girls.json) |
+| Hospital Empire Tycoon | 196435 | [196435-hospital-empire-tycoon.json](./196435-hospital-empire-tycoon.json) |
 | Hospital Giant | 209887 | [209887-hospital-giant.json](./209887-hospital-giant.json) |
 | Hospital Haste | 54084 | [54084-hospital-haste.json](./54084-hospital-haste.json) |
 | Hospital Havoc | 85179 | [85179-hospital-havoc.json](./85179-hospital-havoc.json) |
@@ -9559,6 +9562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hottarake no Shima: Kanata to Niji-iro no Kagami | 123035 | [123035-hottarake-no-shima-kanata-to-niji-iro-no-kagami.json](./123035-hottarake-no-shima-kanata-to-niji-iro-no-kagami.json) |
 | HotWire VR | 249937 | [249937-hotwire-vr.json](./249937-hotwire-vr.json) |
 | Houchi City | 249180 | [249180-houchi-city.json](./249180-houchi-city.json) |
+| Houchi Shoujo | 195855 | [195855-houchi-shoujo.json](./195855-houchi-shoujo.json) |
 | Houdini Master of the Extraordinary 1: The Temple of the Serpent | 218136 | [218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json](./218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json) |
 | Houdini Redux | 118805 | [118805-houdini-redux.json](./118805-houdini-redux.json) |
 | Houdini's Castle | 112790 | [112790-houdinis-castle.json](./112790-houdinis-castle.json) |
@@ -10579,6 +10583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Killer | 94008 | [94008-hunter-killer.json](./94008-hunter-killer.json) |
 | Hunter Legend: Rise of Clans | 174660 | [174660-hunter-legend-rise-of-clans.json](./174660-hunter-legend-rise-of-clans.json) |
 | Hunter Legends | 304567 | [304567-hunter-legends.json](./304567-hunter-legends.json) |
+| Hunter Legends of Dungeon | 196413 | [196413-hunter-legends-of-dungeon.json](./196413-hunter-legends-of-dungeon.json) |
 | Hunter of antiques | 75640 | [75640-hunter-of-antiques.json](./75640-hunter-of-antiques.json) |
 | Hunter of the Disowned | 156088 | [156088-hunter-of-the-disowned.json](./156088-hunter-of-the-disowned.json) |
 | Hunter Patrol | 13883 | [13883-hunter-patrol.json](./13883-hunter-patrol.json) |
