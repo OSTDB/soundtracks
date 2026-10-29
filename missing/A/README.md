@@ -2601,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Replay Max | 43302 | [43302-action-replay-max.json](./43302-action-replay-max.json) |
 | Action RO2: Spear of Odin | 214322 | [214322-action-ro2-spear-of-odin.json](./214322-action-ro2-spear-of-odin.json) |
 | Action Rush | 76518 | [76518-action-rush.json](./76518-action-rush.json) |
+| Action Sandbox | 192580 | [192580-action-sandbox.json](./192580-action-sandbox.json) |
 | Action Service | 12289 | [12289-action-service.json](./12289-action-service.json) |
 | Action Sport | 72179 | [72179-action-sport.json](./72179-action-sport.json) |
 | Action Stations! | 12387 | [12387-action-stations.json](./12387-action-stations.json) |
@@ -14255,6 +14256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asura's Wrath: Lost Episode 2 | 182448 | [182448-asuras-wrath-lost-episode-2.json](./182448-asuras-wrath-lost-episode-2.json) |
 | Asuria Awakens | 175390 | [175390-asuria-awakens.json](./175390-asuria-awakens.json) |
 | Asurya's Embers | 287065 | [287065-asuryas-embers.json](./287065-asuryas-embers.json) |
+| ASV Trident | 192542 | [192542-asv-trident.json](./192542-asv-trident.json) |
 | Asva the Monkey HD | 175558 | [175558-asva-the-monkey-hd.json](./175558-asva-the-monkey-hd.json) |
 | Asvara | 375517 | [375517-asvara.json](./375517-asvara.json) |
 | Aswang Detective: The Case of New York | 236326 | [236326-aswang-detective-the-case-of-new-york.json](./236326-aswang-detective-the-case-of-new-york.json) |
