@@ -844,7 +844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5884,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best in Show Solitaire | 31652 | [31652-best-in-show-solitaire.json](./31652-best-in-show-solitaire.json) |
 | Best in the West | 127023 | [127023-best-in-the-west.json](./127023-best-in-the-west.json) |
 | Best Life Simulator | 110562 | [110562-best-life-simulator.json](./110562-best-life-simulator.json) |
+| Best Mall Simulator | 217147 | [217147-best-mall-simulator.json](./217147-best-mall-simulator.json) |
 | Best Mayor | 329070 | [329070-best-mayor.json](./329070-best-mayor.json) |
 | Best Miner | 151507 | [151507-best-miner.json](./151507-best-miner.json) |
 | Best Mobile Games 5-in-1 | 400060 | [400060-best-mobile-games-5-in-1.json](./400060-best-mobile-games-5-in-1.json) |
@@ -11636,6 +11636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bopscotch | 60884 | [60884-bopscotch.json](./60884-bopscotch.json) |
 | BOPZ.io | 304751 | [304751-bopz-io.json](./304751-bopz-io.json) |
 | Bor Dungeon | 248005 | [248005-bor-dungeon.json](./248005-bor-dungeon.json) |
+| Boralaa | 217122 | [217122-boralaa.json](./217122-boralaa.json) |
 | Borb the Birb | 135057 | [135057-borb-the-birb.json](./135057-borb-the-birb.json) |
 | Borbo's Quest | 178582 | [178582-borbos-quest.json](./178582-borbos-quest.json) |
 | Borbs | 411526 | [411526-borbs.json](./411526-borbs.json) |
