@@ -537,6 +537,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Cutie | 411724 | [411724-call-of-cutie.json](./411724-call-of-cutie.json) |
 | Call of Death Zombie Invasion | 231976 | [231976-call-of-death-zombie-invasion.json](./231976-call-of-death-zombie-invasion.json) |
 | Call of Dookie | 274544 | [274544-call-of-dookie.json](./274544-call-of-dookie.json) |
+| Call of DOOM: Black Warfare - Brutal Edition | 199224 | [199224-call-of-doom-black-warfare-brutal-edition.json](./199224-call-of-doom-black-warfare-brutal-edition.json) |
+| Call of DOOM: Black Warfare - Vanilla Edition | 199231 | [199231-call-of-doom-black-warfare-vanilla-edition.json](./199231-call-of-doom-black-warfare-vanilla-edition.json) |
 | Call of Duty | 322845 | [322845-call-of-duty.json](./322845-call-of-duty.json) |
 | Call of Duty 2 | 119160 | [119160-call-of-duty-2.json](./119160-call-of-duty-2.json) |
 | Call of Duty 2 | 294571 | [294571-call-of-duty-2.json](./294571-call-of-duty-2.json) |
@@ -10375,6 +10377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color 2018 Switch | 105828 | [105828-color-2018-switch.json](./105828-color-2018-switch.json) |
 | Color 360 | 26936 | [26936-color-360.json](./26936-color-360.json) |
 | Color a Dinosaur SNES Port | 377225 | [377225-color-a-dinosaur-snes-port.json](./377225-color-a-dinosaur-snes-port.json) |
+| Color a Ninja | 199209 | [199209-color-a-ninja.json](./199209-color-a-ninja.json) |
 | Color Assembler | 35241 | [35241-color-assembler.json](./35241-color-assembler.json) |
 | Color Attack! | 410095 | [410095-color-attack.json](./410095-color-attack.json) |
 | Color Ball | 191131 | [191131-color-ball.json](./191131-color-ball.json) |
