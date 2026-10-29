@@ -2085,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darwin's Legacy | 184596 | [184596-darwins-legacy.json](./184596-darwins-legacy.json) |
 | Darwinia | 661 | [661-darwinia.json](./661-darwinia.json) |
 | Darwins Trash | 370149 | [370149-darwins-trash.json](./370149-darwins-trash.json) |
+| Darxanadon | 188781 | [188781-darxanadon.json](./188781-darxanadon.json) |
 | DarXide | 45877 | [45877-darxide.json](./45877-darxide.json) |
 | Darza's Dominion | 56308 | [56308-darzas-dominion.json](./56308-darzas-dominion.json) |
 | Das Auge des Horus | 77248 | [77248-das-auge-des-horus.json](./77248-das-auge-des-horus.json) |
@@ -3117,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Ground Arcade | 128292 | [128292-dead-ground-arcade.json](./128292-dead-ground-arcade.json) |
 | Dead Ground Arcade: Ellis Island | 264768 | [264768-dead-ground-arcade-ellis-island.json](./264768-dead-ground-arcade-ellis-island.json) |
 | Dead GroundZ | 99038 | [99038-dead-groundz.json](./99038-dead-groundz.json) |
+| Dead Gun | 188790 | [188790-dead-gun.json](./188790-dead-gun.json) |
 | Dead Hand | 120740 | [120740-dead-hand.json](./120740-dead-hand.json) |
 | Dead Hand | 380244 | [380244-dead-hand.json](./380244-dead-hand.json) |
 | Dead Hand | 422676 | [422676-dead-hand.json](./422676-dead-hand.json) |
@@ -3626,6 +3628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Premonition: The Director's Cut Ultimate Edition | 26925 | [26925-deadly-premonition-the-directors-cut-ultimate-edition.json](./26925-deadly-premonition-the-directors-cut-ultimate-edition.json) |
 | Deadly Project | 386358 | [386358-deadly-project.json](./386358-deadly-project.json) |
 | Deadly Quiet | 342268 | [342268-deadly-quiet.json](./342268-deadly-quiet.json) |
+| Deadly Racing Duel | 188801 | [188801-deadly-racing-duel.json](./188801-deadly-racing-duel.json) |
 | Deadly Rails | 337436 | [337436-deadly-rails.json](./337436-deadly-rails.json) |
 | Deadly Rain | 197506 | [197506-deadly-rain.json](./197506-deadly-rain.json) |
 | Deadly Rehearsal | 326599 | [326599-deadly-rehearsal.json](./326599-deadly-rehearsal.json) |
@@ -5067,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defensive | 287499 | [287499-defensive.json](./287499-defensive.json) |
 | Defensive Attacks | 150548 | [150548-defensive-attacks.json](./150548-defensive-attacks.json) |
 | Defensive Measures | 199403 | [199403-defensive-measures.json](./199403-defensive-measures.json) |
+| Defensive War: Sealed Golem | 188798 | [188798-defensive-war-sealed-golem.json](./188798-defensive-war-sealed-golem.json) |
 | Defensurvivor | 324715 | [324715-defensurvivor.json](./324715-defensurvivor.json) |
 | Defentron | 146748 | [146748-defentron.json](./146748-defentron.json) |
 | Deff | 133973 | [133973-deff.json](./133973-deff.json) |
@@ -8383,6 +8387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Hunt | 150081 | [150081-dino-hunt.json](./150081-dino-hunt.json) |
 | Dino Hunt | 265089 | [265089-dino-hunt.json](./265089-dino-hunt.json) |
 | Dino Hunt 2 | 265090 | [265090-dino-hunt-2.json](./265090-dino-hunt-2.json) |
+| Dino Island Adventure | 188795 | [188795-dino-island-adventure.json](./188795-dino-island-adventure.json) |
 | Dino Island: The Four Crystals | 194859 | [194859-dino-island-the-four-crystals.json](./194859-dino-island-the-four-crystals.json) |
 | Dino Jnr. in Canyon Capers | 57167 | [57167-dino-jnr-in-canyon-capers.json](./57167-dino-jnr-in-canyon-capers.json) |
 | Dino King Battle: Taiko Kara no Hyouryuusha | 269741 | [269741-dino-king-battle-taiko-kara-no-hyouryuusha.json](./269741-dino-king-battle-taiko-kara-no-hyouryuusha.json) |
@@ -11644,6 +11649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday on Demand | 104037 | [104037-doomsday-on-demand.json](./104037-doomsday-on-demand.json) |
 | Doomsday on Demand 2 | 104036 | [104036-doomsday-on-demand-2.json](./104036-doomsday-on-demand-2.json) |
 | Doomsday Overture | 280237 | [280237-doomsday-overture.json](./280237-doomsday-overture.json) |
+| Doomsday Paradise | 189318 | [189318-doomsday-paradise.json](./189318-doomsday-paradise.json) |
 | Doomsday Picnic RPG | 288652 | [288652-doomsday-picnic-rpg.json](./288652-doomsday-picnic-rpg.json) |
 | Doomsday Preppers | 344291 | [344291-doomsday-preppers.json](./344291-doomsday-preppers.json) |
 | Doomsday Robot Girl | 189974 | [189974-doomsday-robot-girl.json](./189974-doomsday-robot-girl.json) |
@@ -13059,6 +13065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Egg! | 37722 | [37722-dragon-egg.json](./37722-dragon-egg.json) |
 | Dragon Essence: Color My World | 36964 | [36964-dragon-essence-color-my-world.json](./36964-dragon-essence-color-my-world.json) |
 | Dragon Eternity | 59981 | [59981-dragon-eternity.json](./59981-dragon-eternity.json) |
+| Dragon Evo | 188810 | [188810-dragon-evo.json](./188810-dragon-evo.json) |
 | Dragon Expedition | 332993 | [332993-dragon-expedition.json](./332993-dragon-expedition.json) |
 | Dragon Extinction VR | 149002 | [149002-dragon-extinction-vr.json](./149002-dragon-extinction-vr.json) |
 | Dragon Eye Online | 113566 | [113566-dragon-eye-online.json](./113566-dragon-eye-online.json) |
@@ -15426,6 +15433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducktopia | 169388 | [169388-ducktopia.json](./169388-ducktopia.json) |
 | DuckWorld Revive | 327960 | [327960-duckworld-revive.json](./327960-duckworld-revive.json) |
 | DuckWorld Smart Adventures | 327959 | [327959-duckworld-smart-adventures.json](./327959-duckworld-smart-adventures.json) |
+| Ducky | 188804 | [188804-ducky.json](./188804-ducky.json) |
 | Ducky Bouncy | 259967 | [259967-ducky-bouncy.json](./259967-ducky-bouncy.json) |
 | Ducky Clicker | 330080 | [330080-ducky-clicker.json](./330080-ducky-clicker.json) |
 | Ducky Dan | 94212 | [94212-ducky-dan.json](./94212-ducky-dan.json) |
