@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandsmith | 396464 | [396464-wandsmith.json](./396464-wandsmith.json) |
 | Wanech's Z.O.O. | 369907 | [369907-wanechs-z-o-o.json](./369907-wanechs-z-o-o.json) |
 | Wang Nukem | 308371 | [308371-wang-nukem.json](./308371-wang-nukem.json) |
+| Wangan Dead Heat | 213763 | [213763-wangan-dead-heat.json](./213763-wangan-dead-heat.json) |
 | Wangan Dead Heat + Real Arrange | 213942 | [213942-wangan-dead-heat-real-arrange.json](./213942-wangan-dead-heat-real-arrange.json) |
 | Wangan Dorifto | 199917 | [199917-wangan-dorifto.json](./199917-wangan-dorifto.json) |
 | Wangan Midnight | 268764 | [268764-wangan-midnight.json](./268764-wangan-midnight.json) |
@@ -1597,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warmonger:45 | 338399 | [338399-warmonger-45.json](./338399-warmonger-45.json) |
 | Warmongers | 273392 | [273392-warmongers.json](./273392-warmongers.json) |
 | Warmongers | 377154 | [377154-warmongers.json](./377154-warmongers.json) |
+| Warmonium | 213775 | [213775-warmonium.json](./213775-warmonium.json) |
 | Warmord | 116299 | [116299-warmord.json](./116299-warmord.json) |
 | Warmth | 130145 | [130145-warmth.json](./130145-warmth.json) |
 | Warmth Of A Dying Sun | 271295 | [271295-warmth-of-a-dying-sun.json](./271295-warmth-of-a-dying-sun.json) |
@@ -5403,6 +5405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winterstrike | 216008 | [216008-winterstrike.json](./216008-winterstrike.json) |
 | Wintertale | 371564 | [371564-wintertale.json](./371564-wintertale.json) |
 | WinterThunder | 224805 | [224805-winterthunder.json](./224805-winterthunder.json) |
+| Winthorp's Mansion | 213764 | [213764-winthorps-mansion.json](./213764-winthorps-mansion.json) |
 | WinTrek | 69859 | [69859-wintrek.json](./69859-wintrek.json) |
 | WinWheel | 83439 | [83439-winwheel.json](./83439-winwheel.json) |
 | Winx Club | 200907 | [200907-winx-club.json](./200907-winx-club.json) |
@@ -8173,6 +8176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuxia: Founding Schools | 292165 | [292165-wuxia-founding-schools.json](./292165-wuxia-founding-schools.json) |
 | Wuxian | 236406 | [236406-wuxian.json](./236406-wuxian.json) |
 | Wuxing Master(CCG) | 81064 | [81064-wuxing-master-ccg.json](./81064-wuxing-master-ccg.json) |
+| Wuz | 213753 | [213753-wuz.json](./213753-wuz.json) |
 | Wuzzy The Buzzy | 349775 | [349775-wuzzy-the-buzzy.json](./349775-wuzzy-the-buzzy.json) |
 | WW Fantasy | 98773 | [98773-ww-fantasy.json](./98773-ww-fantasy.json) |
 | WW Furnishing | 353815 | [353815-ww-furnishing.json](./353815-ww-furnishing.json) |
