@@ -6262,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaman's Mask of the Rune Magic | 296234 | [296234-shamans-mask-of-the-rune-magic.json](./296234-shamans-mask-of-the-rune-magic.json) |
 | Shamania | 310495 | [310495-shamania.json](./310495-shamania.json) |
 | Shambled Spiral | 168112 | [168112-shambled-spiral.json](./168112-shambled-spiral.json) |
+| Shamblers Castle | 217697 | [217697-shamblers-castle.json](./217697-shamblers-castle.json) |
 | Shambles | 139259 | [139259-shambles.json](./139259-shambles.json) |
 | Shame Legacy | 241959 | [241959-shame-legacy.json](./241959-shame-legacy.json) |
 | Shame Legacy: The Cult Edition | 246297 | [246297-shame-legacy-the-cult-edition.json](./246297-shame-legacy-the-cult-edition.json) |
@@ -10388,6 +10389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skedaddling In Egypt | 244244 | [244244-skedaddling-in-egypt.json](./244244-skedaddling-in-egypt.json) |
 | Skee Ball Flick - Hole King | 103916 | [103916-skee-ball-flick-hole-king.json](./103916-skee-ball-flick-hole-king.json) |
 | Skee-Ball | 94020 | [94020-skee-ball.json](./94020-skee-ball.json) |
+| Skeet Shoot | 217687 | [217687-skeet-shoot.json](./217687-skeet-shoot.json) |
 | Skeet Shoot | 40615 | [40615-skeet-shoot.json](./40615-skeet-shoot.json) |
 | Skeet: VR Target Shooting | 33453 | [33453-skeet-vr-target-shooting.json](./33453-skeet-vr-target-shooting.json) |
 | Skeeter | 254978 | [254978-skeeter.json](./254978-skeeter.json) |
@@ -10438,6 +10440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton War | 290857 | [290857-skeleton-war.json](./290857-skeleton-war.json) |
 | Skeleton Warrior | 130198 | [130198-skeleton-warrior.json](./130198-skeleton-warrior.json) |
 | Skeleton Warriors | 8084 | [8084-skeleton-warriors.json](./8084-skeleton-warriors.json) |
+| Skeleton Warriors: The Dark Crusade | 217688 | [217688-skeleton-warriors-the-dark-crusade.json](./217688-skeleton-warriors-the-dark-crusade.json) |
 | Skeleton Wave | 156894 | [156894-skeleton-wave.json](./156894-skeleton-wave.json) |
 | Skeletons Uprising | 265153 | [265153-skeletons-uprising.json](./265153-skeletons-uprising.json) |
 | Skeletons vs Nadia | 203756 | [203756-skeletons-vs-nadia.json](./203756-skeletons-vs-nadia.json) |
@@ -18176,6 +18179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Ball | 40121 | [40121-speed-ball.json](./40121-speed-ball.json) |
 | Speed Bike Racing | 250657 | [250657-speed-bike-racing.json](./250657-speed-bike-racing.json) |
 | Speed Blazers | 38989 | [38989-speed-blazers.json](./38989-speed-blazers.json) |
+| Speed Boat | 217689 | [217689-speed-boat.json](./217689-speed-boat.json) |
 | Speed Boat | 245148 | [245148-speed-boat.json](./245148-speed-boat.json) |
 | Speed Box | 105132 | [105132-speed-box.json](./105132-speed-box.json) |
 | Speed Builder | 117672 | [117672-speed-builder.json](./117672-speed-builder.json) |
@@ -19746,6 +19750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Feel Golf | 218014 | [218014-sports-feel-golf.json](./218014-sports-feel-golf.json) |
 | Sports Feel Miniature Golf | 218013 | [218013-sports-feel-miniature-golf.json](./218013-sports-feel-miniature-golf.json) |
 | Sports Feel Pool | 218012 | [218012-sports-feel-pool.json](./218012-sports-feel-pool.json) |
+| Sports Feel Virtual Fishing | 217703 | [217703-sports-feel-virtual-fishing.json](./217703-sports-feel-virtual-fishing.json) |
 | Sports Game for PC | 98221 | [98221-sports-game-for-pc.json](./98221-sports-game-for-pc.json) |
 | Sports Game Pack (Manager Edition) | 84231 | [84231-sports-game-pack-manager-edition.json](./84231-sports-game-pack-manager-edition.json) |
 | Sports Games | 399790 | [399790-sports-games.json](./399790-sports-games.json) |
@@ -23580,6 +23585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Age | 282733 | [282733-stone-age.json](./282733-stone-age.json) |
 | Stone Age | 346714 | [346714-stone-age.json](./346714-stone-age.json) |
 | Stone Age Assassin | 407826 | [407826-stone-age-assassin.json](./407826-stone-age-assassin.json) |
+| Stone Age Dinosaurs | 217690 | [217690-stone-age-dinosaurs.json](./217690-stone-age-dinosaurs.json) |
 | Stone Age Meteor Rush | 337981 | [337981-stone-age-meteor-rush.json](./337981-stone-age-meteor-rush.json) |
 | Stone Age Taxi | 146897 | [146897-stone-age-taxi.json](./146897-stone-age-taxi.json) |
 | Stone Age: Digital Edition | 237210 | [237210-stone-age-digital-edition.json](./237210-stone-age-digital-edition.json) |
@@ -24357,6 +24363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fight Club Simulator | 373837 | [373837-street-fight-club-simulator.json](./373837-street-fight-club-simulator.json) |
 | Street Fighter | 6930 | [6930-street-fighter.json](./6930-street-fighter.json) |
 | Street Fighter 2 | 330661 | [330661-street-fighter-2.json](./330661-street-fighter-2.json) |
+| Street Fighter 2010: The Final Fight | 217692 | [217692-street-fighter-2010-the-final-fight.json](./217692-street-fighter-2010-the-final-fight.json) |
 | Street Fighter 2010: The Final Fight | 45196 | [45196-street-fighter-2010-the-final-fight.json](./45196-street-fighter-2010-the-final-fight.json) |
 | Street Fighter 30th Anniversary Collection: International | 298020 | [298020-street-fighter-30th-anniversary-collection-international.json](./298020-street-fighter-30th-anniversary-collection-international.json) |
 | Street Fighter 5: Guile | 324177 | [324177-street-fighter-5-guile.json](./324177-street-fighter-5-guile.json) |
