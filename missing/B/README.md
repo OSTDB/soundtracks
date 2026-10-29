@@ -847,7 +847,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7723,6 +7722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bite the Bullet | 108770 | [108770-bite-the-bullet.json](./108770-bite-the-bullet.json) |
 | Bite the Crown | 345666 | [345666-bite-the-crown.json](./345666-bite-the-crown.json) |
 | Bite-Sized Scares | 337583 | [337583-bite-sized-scares.json](./337583-bite-sized-scares.json) |
+| Bitefight | 194813 | [194813-bitefight.json](./194813-bitefight.json) |
 | Bitejacker | 218853 | [218853-bitejacker.json](./218853-bitejacker.json) |
 | Biters | 231492 | [231492-biters.json](./231492-biters.json) |
 | Biters & Bullets | 203908 | [203908-biters-and-bullets.json](./203908-biters-and-bullets.json) |
@@ -10218,6 +10218,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Aurora: The G.A.I.A. Project | 125881 | [125881-blue-aurora-the-g-a-i-a-project.json](./125881-blue-aurora-the-g-a-i-a-project.json) |
 | Blue Balls | 376832 | [376832-blue-balls.json](./376832-blue-balls.json) |
 | Blue Barbarian Man | 181067 | [181067-blue-barbarian-man.json](./181067-blue-barbarian-man.json) |
+| Blue Beard | 194786 | [194786-blue-beard.json](./194786-blue-beard.json) |
+| Blue Beard 2 | 194787 | [194787-blue-beard-2.json](./194787-blue-beard-2.json) |
 | Blue Bird Land Ep 2. | 222953 | [222953-blue-bird-land-ep-2.json](./222953-blue-bird-land-ep-2.json) |
 | Blue Bird's Song | 275346 | [275346-blue-birds-song.json](./275346-blue-birds-song.json) |
 | Blue Bite | 417307 | [417307-blue-bite.json](./417307-blue-bite.json) |
