@@ -8807,6 +8807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clear Vision Elite | 272793 | [272793-clear-vision-elite.json](./272793-clear-vision-elite.json) |
 | Clear: Atarashii Kaze no Fuku Oka de | 133909 | [133909-clear-atarashii-kaze-no-fuku-oka-de.json](./133909-clear-atarashii-kaze-no-fuku-oka-de.json) |
 | Clearance Sale | 248794 | [248794-clearance-sale.json](./248794-clearance-sale.json) |
+| Clearcutting | 195361 | [195361-clearcutting.json](./195361-clearcutting.json) |
 | Clearence Sale | 278315 | [278315-clearence-sale.json](./278315-clearence-sale.json) |
 | Clearing Blade | 326248 | [326248-clearing-blade.json](./326248-clearing-blade.json) |
 | ClearIt | 95660 | [95660-clearit.json](./95660-clearit.json) |
@@ -9137,6 +9138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork Revolution | 252840 | [252840-clockwork-revolution.json](./252840-clockwork-revolution.json) |
 | Clockwork Survivors | 223512 | [223512-clockwork-survivors.json](./223512-clockwork-survivors.json) |
 | Clockwork Tales: Of Glass and Ink | 17141 | [17141-clockwork-tales-of-glass-and-ink.json](./17141-clockwork-tales-of-glass-and-ink.json) |
+| Clockworld: Aroll's Legacy | 195358 | [195358-clockworld-arolls-legacy.json](./195358-clockworld-arolls-legacy.json) |
 | Clodhoppers | 117586 | [117586-clodhoppers.json](./117586-clodhoppers.json) |
 | Clogwork | 416944 | [416944-clogwork.json](./416944-clogwork.json) |
 | Cloisterfuck | 271296 | [271296-cloisterfuck.json](./271296-cloisterfuck.json) |
