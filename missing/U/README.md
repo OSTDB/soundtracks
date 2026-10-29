@@ -104,6 +104,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UBV Volley 2011 | 87225 | [87225-ubv-volley-2011.json](./87225-ubv-volley-2011.json) |
 | UC Love | 238218 | [238218-uc-love.json](./238218-uc-love.json) |
 | Uchi No Heya! | 403050 | [403050-uchi-no-heya.json](./403050-uchi-no-heya.json) |
+| Uchi no Tama: Wakarimasen ka? | 218269 | [218269-uchi-no-tama-wakarimasen-ka.json](./218269-uchi-no-tama-wakarimasen-ka.json) |
+| Uchi no Tama: Wakarimasen ka? - Kocchi Muite Tama! | 218295 | [218295-uchi-no-tama-wakarimasen-ka-kocchi-muite-tama.json](./218295-uchi-no-tama-wakarimasen-ka-kocchi-muite-tama.json) |
+| Uchi no Tama: Wakarimasen ka? - Pochi to Tama Gohan | 218296 | [218296-uchi-no-tama-wakarimasen-ka-pochi-to-tama-gohan.json](./218296-uchi-no-tama-wakarimasen-ka-pochi-to-tama-gohan.json) |
 | Uchi no Tenjouura ga Sawagashisugite Shouganai Slowly Neko-hen | 206559 | [206559-uchi-no-tenjouura-ga-sawagashisugite-shouganai-slowly-neko-hen.json](./206559-uchi-no-tenjouura-ga-sawagashisugite-shouganai-slowly-neko-hen.json) |
 | Uchi Tore: Saitan 4-fun Kin Tore & Yuusansou Undou | 276469 | [276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json](./276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json) |
 | Uchida Yasuo DS Mystery Detective Asami Mitsuhiko Series: Fukutoshin Serial Murder Incidents | 92650 | [92650-uchida-yasuo-ds-mystery-detective-asami-mitsuhiko-series-fukutoshin-serial-murder-incidents.json](./92650-uchida-yasuo-ds-mystery-detective-asami-mitsuhiko-series-fukutoshin-serial-murder-incidents.json) |
@@ -769,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Kingdoms | 410865 | [410865-ultra-kingdoms.json](./410865-ultra-kingdoms.json) |
 | Ultra League: Moero! Soccer Daikessen!! | 42354 | [42354-ultra-league-moero-soccer-daikessen.json](./42354-ultra-league-moero-soccer-daikessen.json) |
 | Ultra LMAD | 231320 | [231320-ultra-lmad.json](./231320-ultra-lmad.json) |
+| Ultra Man | 218291 | [218291-ultra-man.json](./218291-ultra-man.json) |
 | Ultra Mega Cats | 217344 | [217344-ultra-mega-cats.json](./217344-ultra-mega-cats.json) |
 | Ultra Mega Dungeon 64 | 397662 | [397662-ultra-mega-dungeon-64.json](./397662-ultra-mega-dungeon-64.json) |
 | Ultra Mega Planet Battles | 244743 | [244743-ultra-mega-planet-battles.json](./244743-ultra-mega-planet-battles.json) |
@@ -987,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbral Coterie | 405147 | [405147-umbral-coterie.json](./405147-umbral-coterie.json) |
 | Umbral Omen | 212837 | [212837-umbral-omen.json](./212837-umbral-omen.json) |
 | Umbral Platinum | 257182 | [257182-umbral-platinum.json](./257182-umbral-platinum.json) |
+| Umbral Soul | 218281 | [218281-umbral-soul.json](./218281-umbral-soul.json) |
 | UmbraNet | 388359 | [388359-umbranet.json](./388359-umbranet.json) |
 | Umbranomicon | 386166 | [386166-umbranomicon.json](./386166-umbranomicon.json) |
 | Umbraseal | 120928 | [120928-umbraseal.json](./120928-umbraseal.json) |
@@ -1802,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unemployment Quest | 50803 | [50803-unemployment-quest.json](./50803-unemployment-quest.json) |
 | Unending | 260416 | [260416-unending.json](./260416-unending.json) |
 | Unending Aqua | 405732 | [405732-unending-aqua.json](./405732-unending-aqua.json) |
+| UnEnding Bloody Call | 218276 | [218276-unending-bloody-call.json](./218276-unending-bloody-call.json) |
 | Unending Dawn | 298846 | [298846-unending-dawn.json](./298846-unending-dawn.json) |
 | Unending Dusk | 104005 | [104005-unending-dusk.json](./104005-unending-dusk.json) |
 | Unending Galaxy | 33590 | [33590-unending-galaxy.json](./33590-unending-galaxy.json) |
@@ -2603,6 +2609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Hand Game: Titled Edition | 344969 | [344969-untitled-hand-game-titled-edition.json](./344969-untitled-hand-game-titled-edition.json) |
 | Untitled Hello Neighbor Game | 418235 | [418235-untitled-hello-neighbor-game.json](./418235-untitled-hello-neighbor-game.json) |
 | Untitled Instagram Easter Egg | 308220 | [308220-untitled-instagram-easter-egg.json](./308220-untitled-instagram-easter-egg.json) |
+| Untitled Iron Man Game | 218272 | [218272-untitled-iron-man-game.json](./218272-untitled-iron-man-game.json) |
 | Untitled John Wick Game | 389438 | [389438-untitled-john-wick-game.json](./389438-untitled-john-wick-game.json) |
 | Untitled Kirby Game | 245009 | [245009-untitled-kirby-game.json](./245009-untitled-kirby-game.json) |
 | Untitled Kirby Game | 245010 | [245010-untitled-kirby-game.json](./245010-untitled-kirby-game.json) |
