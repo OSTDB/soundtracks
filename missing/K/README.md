@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ka-Ge-Ki: Fists of Steel | 4529 | [4529-ka-ge-ki-fists-of-steel.json](./4529-ka-ge-ki-fists-of-steel.json) |
 | Ka: Keepers & Assassins | 211975 | [211975-ka-keepers-and-assassins.json](./211975-ka-keepers-and-assassins.json) |
 | Ka'Roo | 79382 | [79382-karoo.json](./79382-karoo.json) |
+| Kaaarot | 214924 | [214924-kaaarot.json](./214924-kaaarot.json) |
 | Kaal Yoddha | 332445 | [332445-kaal-yoddha.json](./332445-kaal-yoddha.json) |
 | Kaamos | 322683 | [322683-kaamos.json](./322683-kaamos.json) |
 | Kaapelipeli: The Cable Game | 138260 | [138260-kaapelipeli-the-cable-game.json](./138260-kaapelipeli-the-cable-game.json) |
@@ -87,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaboom! | 172030 | [172030-kaboom.json](./172030-kaboom.json) |
 | Kaboom! | 198790 | [198790-kaboom.json](./198790-kaboom.json) |
 | Kaboom! | 234092 | [234092-kaboom.json](./234092-kaboom.json) |
+| Kaboom!: The Mad Doctor's Revenge | 214889 | [214889-kaboom-the-mad-doctors-revenge.json](./214889-kaboom-the-mad-doctors-revenge.json) |
 | Kabu Trader Shun | 123337 | [123337-kabu-trader-shun.json](./123337-kabu-trader-shun.json) |
 | Kabufuda | 276871 | [276871-kabufuda.json](./276871-kabufuda.json) |
 | Kabuki Fire | 352322 | [352322-kabuki-fire.json](./352322-kabuki-fire.json) |
@@ -2112,7 +2114,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kikokugai | 232662 | [232662-kikokugai.json](./232662-kikokugai.json) |
 | Kikori no Yosaku | 78926 | [78926-kikori-no-yosaku.json](./78926-kikori-no-yosaku.json) |
 | Kikou Busou G-Breaker: Legend of Cloudia | 248211 | [248211-kikou-busou-g-breaker-legend-of-cloudia.json](./248211-kikou-busou-g-breaker-legend-of-cloudia.json) |
+| Kikou Heidan J-Phoenix | 214913 | [214913-kikou-heidan-j-phoenix.json](./214913-kikou-heidan-j-phoenix.json) |
 | Kikou Heidan J-Phoenix + | 58879 | [58879-kikou-heidan-j-phoenix.json](./58879-kikou-heidan-j-phoenix.json) |
+| Kikou Heidan J-Phoenix 2 | 214918 | [214918-kikou-heidan-j-phoenix-2.json](./214918-kikou-heidan-j-phoenix-2.json) |
+| Kikou Heidan J-Phoenix: Burst Tactics | 214914 | [214914-kikou-heidan-j-phoenix-burst-tactics.json](./214914-kikou-heidan-j-phoenix-burst-tactics.json) |
+| Kikou Heidan J-Phoenix: Cobalt Shoutai-hen | 214917 | [214917-kikou-heidan-j-phoenix-cobalt-shoutai-hen.json](./214917-kikou-heidan-j-phoenix-cobalt-shoutai-hen.json) |
 | Kikou Keisatsu Metal Jack | 38212 | [38212-kikou-keisatsu-metal-jack.json](./38212-kikou-keisatsu-metal-jack.json) |
 | Kikou Seiki Unitron | 43969 | [43969-kikou-seiki-unitron.json](./43969-kikou-seiki-unitron.json) |
 | Kikou Souhei Armodyne | 59076 | [59076-kikou-souhei-armodyne.json](./59076-kikou-souhei-armodyne.json) |
@@ -5174,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuentame | 383377 | [383377-kuentame.json](./383377-kuentame.json) |
 | Kuento: Wasureenu Hibi ni | 97384 | [97384-kuento-wasureenu-hibi-ni.json](./97384-kuento-wasureenu-hibi-ni.json) |
 | Kugeln.io | 56376 | [56376-kugeln-io.json](./56376-kugeln-io.json) |
+| Kuggs | 214903 | [214903-kuggs.json](./214903-kuggs.json) |
 | Kugle | 276290 | [276290-kugle.json](./276290-kugle.json) |
 | Kuguru | 159653 | [159653-kuguru.json](./159653-kuguru.json) |
 | Kuiper Belt Plaza | 183992 | [183992-kuiper-belt-plaza.json](./183992-kuiper-belt-plaza.json) |
