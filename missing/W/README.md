@@ -1917,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warspirits | 297483 | [297483-warspirits.json](./297483-warspirits.json) |
 | Warstride Challenges | 148964 | [148964-warstride-challenges.json](./148964-warstride-challenges.json) |
 | Warsword Conquest | 356193 | [356193-warsword-conquest.json](./356193-warsword-conquest.json) |
+| Wart | 195350 | [195350-wart.json](./195350-wart.json) |
 | Wart's Turn-Based Revenge | 256794 | [256794-warts-turn-based-revenge.json](./256794-warts-turn-based-revenge.json) |
 | Wartale | 55864 | [55864-wartale.json](./55864-wartale.json) |
 | Wartales: Contract - Fires in the Capital | 395803 | [395803-wartales-contract-fires-in-the-capital.json](./395803-wartales-contract-fires-in-the-capital.json) |
@@ -2158,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Fire | 277688 | [277688-water-fire.json](./277688-water-fire.json) |
 | Water Flow | 284576 | [284576-water-flow.json](./284576-water-flow.json) |
 | Water Girls | 169256 | [169256-water-girls.json](./169256-water-girls.json) |
+| Water ha Ore no Musume | 195334 | [195334-water-ha-ore-no-musume.json](./195334-water-ha-ore-no-musume.json) |
 | Water Horse | 363987 | [363987-water-horse.json](./363987-water-horse.json) |
 | Water Is All I Can See | 214663 | [214663-water-is-all-i-can-see.json](./214663-water-is-all-i-can-see.json) |
 | Water Level / B.l.u.e. Exploration | 320938 | [320938-water-level-b-l-u-e-exploration.json](./320938-water-level-b-l-u-e-exploration.json) |
