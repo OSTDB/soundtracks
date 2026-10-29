@@ -1732,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Maiden Lecia and the Lost Fortress | 373646 | [373646-warrior-maiden-lecia-and-the-lost-fortress.json](./373646-warrior-maiden-lecia-and-the-lost-fortress.json) |
 | Warrior of Chaos | 367830 | [367830-warrior-of-chaos.json](./367830-warrior-of-chaos.json) |
 | Warrior of Ras: Volume I - Dunzhin | 94578 | [94578-warrior-of-ras-volume-i-dunzhin.json](./94578-warrior-of-ras-volume-i-dunzhin.json) |
+| Warrior of Rome III | 214892 | [214892-warrior-of-rome-iii.json](./214892-warrior-of-rome-iii.json) |
 | Warrior Paint: 2005 GOTY Edition | 231309 | [231309-warrior-paint-2005-goty-edition.json](./231309-warrior-paint-2005-goty-edition.json) |
 | Warrior Plus | 286481 | [286481-warrior-plus.json](./286481-warrior-plus.json) |
 | Warrior Quest | 412378 | [412378-warrior-quest.json](./412378-warrior-quest.json) |
@@ -4281,6 +4282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who’s the Fairest of Them All | 177779 | [177779-who-s-the-fairest-of-them-all.json](./177779-who-s-the-fairest-of-them-all.json) |
 | Who's the Traitor | 273655 | [273655-whos-the-traitor.json](./273655-whos-the-traitor.json) |
 | Who's Who 2.0 | 336393 | [336393-whos-who-2-0.json](./336393-whos-who-2-0.json) |
+| Who's Who? | 214921 | [214921-whos-who.json](./214921-whos-who.json) |
 | Who's your Santa !? | 55588 | [55588-whos-your-santa.json](./55588-whos-your-santa.json) |
 | Who's Your Weapon | 181664 | [181664-whos-your-weapon.json](./181664-whos-your-weapon.json) |
 | WhoBob WhatPants??? | 343185 | [343185-whobob-whatpants.json](./343185-whobob-whatpants.json) |
