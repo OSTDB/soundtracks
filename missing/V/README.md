@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard: Fight For Rudiarius | 110996 | [110996-vanguard-fight-for-rudiarius.json](./110996-vanguard-fight-for-rudiarius.json) |
 | Vanguard: Normandy 1944 | 110298 | [110298-vanguard-normandy-1944.json](./110298-vanguard-normandy-1944.json) |
 | Vanguards | 30836 | [30836-vanguards.json](./30836-vanguards.json) |
+| Vanildo's Journey | 189305 | [189305-vanildos-journey.json](./189305-vanildos-journey.json) |
 | Vanilla | 399755 | [399755-vanilla.json](./399755-vanilla.json) |
 | Vanilla & Chocolate | 416155 | [416155-vanilla-and-chocolate.json](./416155-vanilla-and-chocolate.json) |
 | Vanilla Bagel: The Roguelike | 32827 | [32827-vanilla-bagel-the-roguelike.json](./32827-vanilla-bagel-the-roguelike.json) |
@@ -3257,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Doom II | 260124 | [260124-voxel-doom-ii.json](./260124-voxel-doom-ii.json) |
 | Voxel Drive | 385947 | [385947-voxel-drive.json](./385947-voxel-drive.json) |
 | Voxel Eras | 360712 | [360712-voxel-eras.json](./360712-voxel-eras.json) |
+| Voxel Farm Island | 189332 | [189332-voxel-farm-island.json](./189332-voxel-farm-island.json) |
 | Voxel Fly | 120135 | [120135-voxel-fly.json](./120135-voxel-fly.json) |
 | Voxel Galaxy | 126482 | [126482-voxel-galaxy.json](./126482-voxel-galaxy.json) |
 | Voxel Girl | 188042 | [188042-voxel-girl.json](./188042-voxel-girl.json) |
