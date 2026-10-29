@@ -809,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take No Prisoners | 8696 | [8696-take-no-prisoners.json](./8696-take-no-prisoners.json) |
 | Take Notes | 319435 | [319435-take-notes.json](./319435-take-notes.json) |
 | Take Off Mask | 320043 | [320043-take-off-mask.json](./320043-take-off-mask.json) |
+| Take Off: The Flight Simulator | 192028 | [192028-take-off-the-flight-simulator.json](./192028-take-off-the-flight-simulator.json) |
 | Take Off: The Flight Simulator | 89683 | [89683-take-off-the-flight-simulator.json](./89683-take-off-the-flight-simulator.json) |
 | Take on Helicopters | 15069 | [15069-take-on-helicopters.json](./15069-take-on-helicopters.json) |
 | Take on Helicopters: Hinds | 166219 | [166219-take-on-helicopters-hinds.json](./166219-take-on-helicopters-hinds.json) |
@@ -10420,6 +10421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kristal | 12168 | [12168-the-kristal.json](./12168-the-kristal.json) |
 | The Krypton Factor | 12955 | [12955-the-krypton-factor.json](./12955-the-krypton-factor.json) |
 | The Kulka | 388915 | [388915-the-kulka.json](./388915-the-kulka.json) |
+| The Kungfu Scrolls | 192018 | [192018-the-kungfu-scrolls.json](./192018-the-kungfu-scrolls.json) |
 | The Kuon Island Nursery Rhyme Murders: Case Notes | 405922 | [405922-the-kuon-island-nursery-rhyme-murders-case-notes.json](./405922-the-kuon-island-nursery-rhyme-murders-case-notes.json) |
 | The Kutar's Tabipero | 340039 | [340039-the-kutars-tabipero.json](./340039-the-kutars-tabipero.json) |
 | The Kwanstone Project | 214751 | [214751-the-kwanstone-project.json](./214751-the-kwanstone-project.json) |
@@ -28468,6 +28470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuna Roll | 325826 | [325826-tuna-roll.json](./325826-tuna-roll.json) |
 | Tuna The Cat | 249184 | [249184-tuna-the-cat.json](./249184-tuna-the-cat.json) |
 | Tunche | 96092 | [96092-tunche.json](./96092-tunche.json) |
+| Tundralia: The Frigid Frontier | 192008 | [192008-tundralia-the-frigid-frontier.json](./192008-tundralia-the-frigid-frontier.json) |
 | Tundralia: The Frigid Frontier | 324714 | [324714-tundralia-the-frigid-frontier.json](./324714-tundralia-the-frigid-frontier.json) |
 | Tune Cruiser | 194194 | [194194-tune-cruiser.json](./194194-tune-cruiser.json) |
 | Tune Her Out | 303211 | [303211-tune-her-out.json](./303211-tune-her-out.json) |
