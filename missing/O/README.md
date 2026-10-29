@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oi, Innkeep! | 96121 | [96121-oi-innkeep.json](./96121-oi-innkeep.json) |
 | Oi, Innkeep! - Chronicles! | 115567 | [115567-oi-innkeep-chronicles.json](./115567-oi-innkeep-chronicles.json) |
 | Oib.io | 86079 | [86079-oib-io.json](./86079-oib-io.json) |
+| OIC: Obviously Inappropriate Content | 177695 | [177695-oic-obviously-inappropriate-content.json](./177695-oic-obviously-inappropriate-content.json) |
 | Oiche Mhaith | 142248 | [142248-oiche-mhaith.json](./142248-oiche-mhaith.json) |
 | Oide Rascal | 125422 | [125422-oide-rascal.json](./125422-oide-rascal.json) |
 | Oids | 15328 | [15328-oids.json](./15328-oids.json) |
@@ -1229,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okiku | 285394 | [285394-okiku.json](./285394-okiku.json) |
 | Okinawa Journal | 372458 | [372458-okinawa-journal.json](./372458-okinawa-journal.json) |
 | Okinawa Rush | 69375 | [69375-okinawa-rush.json](./69375-okinawa-rush.json) |
+| Okinawa Rush: Black Mantis Edition | 178209 | [178209-okinawa-rush-black-mantis-edition.json](./178209-okinawa-rush-black-mantis-edition.json) |
 | Okinawa Rush: Limited Edition | 171283 | [171283-okinawa-rush-limited-edition.json](./171283-okinawa-rush-limited-edition.json) |
 | OkioGo! | 61061 | [61061-okiogo.json](./61061-okiogo.json) |
 | Okira GO - Endless 3D Platformer Runner | 118672 | [118672-okira-go-endless-3d-platformer-runner.json](./118672-okira-go-endless-3d-platformer-runner.json) |
@@ -3255,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oppaidius Tropical Cruise! | 126641 | [126641-oppaidius-tropical-cruise.json](./126641-oppaidius-tropical-cruise.json) |
 | Oppcium | 189327 | [189327-oppcium.json](./189327-oppcium.json) |
 | Oppidum | 256927 | [256927-oppidum.json](./256927-oppidum.json) |
+| Opportunity | 178183 | [178183-opportunity.json](./178183-opportunity.json) |
 | Opportunity: A Sugar Baby Story | 157069 | [157069-opportunity-a-sugar-baby-story.json](./157069-opportunity-a-sugar-baby-story.json) |
 | Opposite Attack | 328309 | [328309-opposite-attack.json](./328309-opposite-attack.json) |
 | Opposite Day | 313243 | [313243-opposite-day.json](./313243-opposite-day.json) |
@@ -4258,6 +4261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ougon no Kizuna | 72603 | [72603-ougon-no-kizuna.json](./72603-ougon-no-kizuna.json) |
 | Ouija | 155997 | [155997-ouija.json](./155997-ouija.json) |
 | Ouija Rumours | 190989 | [190989-ouija-rumours.json](./190989-ouija-rumours.json) |
+| Ouija Sleepover | 177715 | [177715-ouija-sleepover.json](./177715-ouija-sleepover.json) |
 | Ouji-sama Lv1 | 204398 | [204398-ouji-sama-lv1.json](./204398-ouji-sama-lv1.json) |
 | Ouji-sama Lv1.5 | 204477 | [204477-ouji-sama-lv1-5.json](./204477-ouji-sama-lv1-5.json) |
 | Ouji-sama Lv2 | 204399 | [204399-ouji-sama-lv2.json](./204399-ouji-sama-lv2.json) |
@@ -5329,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ozonia 2 | 327203 | [327203-ozonia-2.json](./327203-ozonia-2.json) |
 | OzTales Pikeman | 164899 | [164899-oztales-pikeman.json](./164899-oztales-pikeman.json) |
 | Oztrich: An Adventure | 235829 | [235829-oztrich-an-adventure.json](./235829-oztrich-an-adventure.json) |
+| Ozymandias | 178218 | [178218-ozymandias.json](./178218-ozymandias.json) |
 | Ozymandias: Aegean Sea | 235986 | [235986-ozymandias-aegean-sea.json](./235986-ozymandias-aegean-sea.json) |
 | Ozymandias: Complete Edition | 378858 | [378858-ozymandias-complete-edition.json](./378858-ozymandias-complete-edition.json) |
 | Ozymandias: Deluxe Edition | 259524 | [259524-ozymandias-deluxe-edition.json](./259524-ozymandias-deluxe-edition.json) |
