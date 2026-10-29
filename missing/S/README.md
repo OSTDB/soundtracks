@@ -11223,6 +11223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyward Extraction | 302051 | [302051-skyward-extraction.json](./302051-skyward-extraction.json) |
 | Skyward Heroes | 184855 | [184855-skyward-heroes.json](./184855-skyward-heroes.json) |
 | Skyward Journey | 320367 | [320367-skyward-journey.json](./320367-skyward-journey.json) |
+| Skyward War | 216055 | [216055-skyward-war.json](./216055-skyward-war.json) |
 | Skywatching | 177303 | [177303-skywatching.json](./177303-skywatching.json) |
 | Skyweaver | 123039 | [123039-skyweaver.json](./123039-skyweaver.json) |
 | Skywire | 116128 | [116128-skywire.json](./116128-skywire.json) |
@@ -13773,6 +13774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Manager 2018 | 81102 | [81102-soccer-manager-2018.json](./81102-soccer-manager-2018.json) |
 | Soccer Manager 2019 | 113394 | [113394-soccer-manager-2019.json](./113394-soccer-manager-2019.json) |
 | Soccer Manager 2020 | 123351 | [123351-soccer-manager-2020.json](./123351-soccer-manager-2020.json) |
+| Soccer Manager 2020 | 216054 | [216054-soccer-manager-2020.json](./216054-soccer-manager-2020.json) |
 | Soccer Manager 2021 | 152486 | [152486-soccer-manager-2021.json](./152486-soccer-manager-2021.json) |
 | Soccer Manager 2022 | 192599 | [192599-soccer-manager-2022.json](./192599-soccer-manager-2022.json) |
 | Soccer Manager 2027 | 340357 | [340357-soccer-manager-2027.json](./340357-soccer-manager-2027.json) |
@@ -13992,6 +13994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban 2 | 407226 | [407226-sokoban-2.json](./407226-sokoban-2.json) |
 | Sokoban 3D | 255281 | [255281-sokoban-3d.json](./255281-sokoban-3d.json) |
 | Sokoban Block Puzzle | 215315 | [215315-sokoban-block-puzzle.json](./215315-sokoban-block-puzzle.json) |
+| Sokoban Cats | 216053 | [216053-sokoban-cats.json](./216053-sokoban-cats.json) |
 | Sokoban DS | 307081 | [307081-sokoban-ds.json](./307081-sokoban-ds.json) |
 | Sokoban Gianta | 155973 | [155973-sokoban-gianta.json](./155973-sokoban-gianta.json) |
 | Sokoban Land DX | 44206 | [44206-sokoban-land-dx.json](./44206-sokoban-land-dx.json) |
@@ -14401,6 +14404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Deluxe Bundle: 3 in 1 | 147801 | [147801-solitaire-deluxe-bundle-3-in-1.json](./147801-solitaire-deluxe-bundle-3-in-1.json) |
 | Solitaire Detective 2: Accidental Witness | 336982 | [336982-solitaire-detective-2-accidental-witness.json](./336982-solitaire-detective-2-accidental-witness.json) |
 | Solitaire Dozen Gold | 146916 | [146916-solitaire-dozen-gold.json](./146916-solitaire-dozen-gold.json) |
+| Solitaire Dragons | 216051 | [216051-solitaire-dragons.json](./216051-solitaire-dragons.json) |
 | Solitaire Dreamscapes | 349825 | [349825-solitaire-dreamscapes.json](./349825-solitaire-dreamscapes.json) |
 | Solitaire Dungeon Escape | 85380 | [85380-solitaire-dungeon-escape.json](./85380-solitaire-dungeon-escape.json) |
 | Solitaire Egypt | 25063 | [25063-solitaire-egypt.json](./25063-solitaire-egypt.json) |
@@ -14474,6 +14478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Ultra | 55520 | [55520-solitaire-ultra.json](./55520-solitaire-ultra.json) |
 | Solitaire Unlimited Platinum | 208880 | [208880-solitaire-unlimited-platinum.json](./208880-solitaire-unlimited-platinum.json) |
 | Solitaire Valentine's Day 2 | 89237 | [89237-solitaire-valentines-day-2.json](./89237-solitaire-valentines-day-2.json) |
+| Solitaire Verse | 216052 | [216052-solitaire-verse.json](./216052-solitaire-verse.json) |
 | Solitaire Victor | 107066 | [107066-solitaire-victor.json](./107066-solitaire-victor.json) |
 | Solitaire VR | 30081 | [30081-solitaire-vr.json](./30081-solitaire-vr.json) |
 | Solitaire Whizz | 106016 | [106016-solitaire-whizz.json](./106016-solitaire-whizz.json) |
