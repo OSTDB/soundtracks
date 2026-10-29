@@ -6606,6 +6606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopz | 77213 | [77213-loopz.json](./77213-loopz.json) |
 | Loose Dog | 415506 | [415506-loose-dog.json](./415506-loose-dog.json) |
 | Loose Life | 216711 | [216711-loose-life.json](./216711-loose-life.json) |
+| Loose Lips Side: Sunnyday | 206418 | [206418-loose-lips-side-sunnyday.json](./206418-loose-lips-side-sunnyday.json) |
 | Loose Lips(Side:foggy) | 151709 | [151709-loose-lips-side-foggy.json](./151709-loose-lips-side-foggy.json) |
 | Loose Nozzles | 219915 | [219915-loose-nozzles.json](./219915-loose-nozzles.json) |
 | Loose or Escape | 279017 | [279017-loose-or-escape.json](./279017-loose-or-escape.json) |
