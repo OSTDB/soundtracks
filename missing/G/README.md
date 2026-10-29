@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Club | 31975 | [31975-gakuen-club.json](./31975-gakuen-club.json) |
 | Gakuen Handsome | 230342 | [230342-gakuen-handsome.json](./230342-gakuen-handsome.json) |
 | Gakuen Handsome Fighters | 243866 | [243866-gakuen-handsome-fighters.json](./243866-gakuen-handsome-fighters.json) |
+| Gakuen Handsome: Ikusei Game - Mitsurugi Sakuya no Soccer Sekai ni Hirometai | 187048 | [187048-gakuen-handsome-ikusei-game-mitsurugi-sakuya-no-soccer-sekai-ni-hirometai.json](./187048-gakuen-handsome-ikusei-game-mitsurugi-sakuya-no-soccer-sekai-ni-hirometai.json) |
 | Gakuen Hetalia DS | 130581 | [130581-gakuen-hetalia-ds.json](./130581-gakuen-hetalia-ds.json) |
 | Gakuen Hetalia Portable | 59419 | [59419-gakuen-hetalia-portable.json](./59419-gakuen-hetalia-portable.json) |
 | Gakuen Hyoryuu Senki | 191872 | [191872-gakuen-hyoryuu-senki.json](./191872-gakuen-hyoryuu-senki.json) |
@@ -489,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Diner | 199257 | [199257-galactic-diner.json](./199257-galactic-diner.json) |
 | Galactic Dominion | 107858 | [107858-galactic-dominion.json](./107858-galactic-dominion.json) |
 | Galactic Dream: Rage of War | 1031 | [1031-galactic-dream-rage-of-war.json](./1031-galactic-dream-rage-of-war.json) |
+| Galactic Dreams | 186406 | [186406-galactic-dreams.json](./186406-galactic-dreams.json) |
 | Galactic Driver | 88209 | [88209-galactic-driver.json](./88209-galactic-driver.json) |
 | Galactic Economy | 314445 | [314445-galactic-economy.json](./314445-galactic-economy.json) |
 | Galactic Empire | 13065 | [13065-galactic-empire.json](./13065-galactic-empire.json) |
@@ -1432,12 +1434,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Goemon 3: Shishijuurokubee no Karakuri Manjigatame | 42412 | [42412-ganbare-goemon-3-shishijuurokubee-no-karakuri-manjigatame.json](./42412-ganbare-goemon-3-shishijuurokubee-no-karakuri-manjigatame.json) |
 | Ganbare Goemon Gaiden 2: Tenka no Zaihou | 48612 | [48612-ganbare-goemon-gaiden-2-tenka-no-zaihou.json](./48612-ganbare-goemon-gaiden-2-tenka-no-zaihou.json) |
 | Ganbare Goemon Gaiden: Kieta Ougon Kiseru | 48613 | [48613-ganbare-goemon-gaiden-kieta-ougon-kiseru.json](./48613-ganbare-goemon-gaiden-kieta-ougon-kiseru.json) |
+| Ganbare Goemon: Dosukoi! Harite Ichiban | 186462 | [186462-ganbare-goemon-dosukoi-harite-ichiban.json](./186462-ganbare-goemon-dosukoi-harite-ichiban.json) |
+| Ganbare Goemon: Ebisumaru Kiki Ippatsu | 186458 | [186458-ganbare-goemon-ebisumaru-kiki-ippatsu.json](./186458-ganbare-goemon-ebisumaru-kiki-ippatsu.json) |
+| Ganbare Goemon: Hijutsu! Sansuu Juku | 186463 | [186463-ganbare-goemon-hijutsu-sansuu-juku.json](./186463-ganbare-goemon-hijutsu-sansuu-juku.json) |
+| Ganbare Goemon: Jetto GO! GO! GO! | 186464 | [186464-ganbare-goemon-jetto-go-go-go.json](./186464-ganbare-goemon-jetto-go-go-go.json) |
+| Ganbare Goemon: Karakuri Kiteretsu Race | 186465 | [186465-ganbare-goemon-karakuri-kiteretsu-race.json](./186465-ganbare-goemon-karakuri-kiteretsu-race.json) |
 | Ganbare Goemon: Kira-kira Douchuu - Boku ga Dancer ni Natta Wake | 77854 | [77854-ganbare-goemon-kira-kira-douchuu-boku-ga-dancer-ni-natta-wake.json](./77854-ganbare-goemon-kira-kira-douchuu-boku-ga-dancer-ni-natta-wake.json) |
 | Ganbare Goemon: Kuru Nara Koi! - Ayashi Geikka no Kuroi Kage | 68750 | [68750-ganbare-goemon-kuru-nara-koi-ayashi-geikka-no-kuroi-kage.json](./68750-ganbare-goemon-kuru-nara-koi-ayashi-geikka-no-kuroi-kage.json) |
 | Ganbare Goemon: Mononoke Douchuu Tobidase Nabe-Bugyou! | 129173 | [129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json](./129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json) |
 | Ganbare Goemon: Sarawareta Ebisumaru! | 62493 | [62493-ganbare-goemon-sarawareta-ebisumaru.json](./62493-ganbare-goemon-sarawareta-ebisumaru.json) |
 | Ganbare Goemon: Seikuushi Dynamites Arawaru!! | 50053 | [50053-ganbare-goemon-seikuushi-dynamites-arawaru.json](./50053-ganbare-goemon-seikuushi-dynamites-arawaru.json) |
 | Ganbare Goemon: Tengu-tou no Gyakushuu! | 129172 | [129172-ganbare-goemon-tengu-tou-no-gyakushuu.json](./129172-ganbare-goemon-tengu-tou-no-gyakushuu.json) |
+| Ganbare Goemon: Tentekomai-mai Meikyuu-kan | 186467 | [186467-ganbare-goemon-tentekomai-mai-meikyuu-kan.json](./186467-ganbare-goemon-tentekomai-mai-meikyuu-kan.json) |
 | Ganbare Goemon: Toukai Douchuu Ooedo Tengurigaeshi no Maki | 73299 | [73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json](./73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json) |
 | Ganbare Golf Boys | 44330 | [44330-ganbare-golf-boys.json](./44330-ganbare-golf-boys.json) |
 | Ganbare Jajamaru Saisho ha Goo | 234221 | [234221-ganbare-jajamaru-saisho-ha-goo.json](./234221-ganbare-jajamaru-saisho-ha-goo.json) |
@@ -3291,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Eater | 278997 | [278997-ghost-eater.json](./278997-ghost-eater.json) |
 | Ghost Encounters | 59453 | [59453-ghost-encounters.json](./59453-ghost-encounters.json) |
 | Ghost Encounters: Deadwood | 140254 | [140254-ghost-encounters-deadwood.json](./140254-ghost-encounters-deadwood.json) |
+| Ghost Exile | 186477 | [186477-ghost-exile.json](./186477-ghost-exile.json) |
 | Ghost Fake | 246830 | [246830-ghost-fake.json](./246830-ghost-fake.json) |
 | Ghost Feed | 369608 | [369608-ghost-feed.json](./369608-ghost-feed.json) |
 | Ghost Files 2: Memory of a Crime | 125177 | [125177-ghost-files-2-memory-of-a-crime.json](./125177-ghost-files-2-memory-of-a-crime.json) |
@@ -6097,6 +6106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Catch! | 391682 | [391682-good-catch.json](./391682-good-catch.json) |
 | Good Children Say Grace | 404251 | [404251-good-children-say-grace.json](./404251-good-children-say-grace.json) |
 | Good Company | 107754 | [107754-good-company.json](./107754-good-company.json) |
+| Good Day | 186401 | [186401-good-day.json](./186401-good-day.json) |
 | Good Dog | 176711 | [176711-good-dog.json](./176711-good-dog.json) |
 | Good Doggo | 99627 | [99627-good-doggo.json](./99627-good-doggo.json) |
 | Good Dreams | 381132 | [381132-good-dreams.json](./381132-good-dreams.json) |
@@ -9730,6 +9740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunroar | 91936 | [91936-gunroar.json](./91936-gunroar.json) |
 | Gunrox | 270772 | [270772-gunrox.json](./270772-gunrox.json) |
 | GunRun | 266604 | [266604-gunrun.json](./266604-gunrun.json) |
+| GunRunner | 186481 | [186481-gunrunner.json](./186481-gunrunner.json) |
 | Guns 'n Goblins | 399259 | [399259-guns-n-goblins.json](./399259-guns-n-goblins.json) |
 | Guns 'n Guts | 110973 | [110973-guns-n-guts.json](./110973-guns-n-guts.json) |
 | Guns 'n' Ghosts | 41157 | [41157-guns-n-ghosts.json](./41157-guns-n-ghosts.json) |
