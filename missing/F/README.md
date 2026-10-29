@@ -1947,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy World: A Land Torn Asunder | 90069 | [90069-fantasy-world-a-land-torn-asunder.json](./90069-fantasy-world-a-land-torn-asunder.json) |
 | Fantasy Worlds Bundle | 125134 | [125134-fantasy-worlds-bundle.json](./125134-fantasy-worlds-bundle.json) |
 | Fantasy Zone | 18292 | [18292-fantasy-zone.json](./18292-fantasy-zone.json) |
+| Fantasy Zone | 198630 | [198630-fantasy-zone.json](./198630-fantasy-zone.json) |
 | Fantasy Zone | 202914 | [202914-fantasy-zone.json](./202914-fantasy-zone.json) |
 | Fantasy Zone | 206230 | [206230-fantasy-zone.json](./206230-fantasy-zone.json) |
 | Fantasy Zone | 206231 | [206231-fantasy-zone.json](./206231-fantasy-zone.json) |
@@ -8050,6 +8051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footage of the Battle | 283852 | [283852-footage-of-the-battle.json](./283852-footage-of-the-battle.json) |
 | Football | 131533 | [131533-football.json](./131533-football.json) |
 | Football | 171272 | [171272-football.json](./171272-football.json) |
+| Football | 198632 | [198632-football.json](./198632-football.json) |
 | Football | 199023 | [199023-football.json](./199023-football.json) |
 | Football | 217830 | [217830-football.json](./217830-football.json) |
 | Football | 225529 | [225529-football.json](./225529-football.json) |
