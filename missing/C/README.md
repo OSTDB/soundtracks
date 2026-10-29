@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Infinite Warfare - Absolution | 44149 | [44149-call-of-duty-infinite-warfare-absolution.json](./44149-call-of-duty-infinite-warfare-absolution.json) |
 | Call of Duty: Infinite Warfare - Continuum | 28063 | [28063-call-of-duty-infinite-warfare-continuum.json](./28063-call-of-duty-infinite-warfare-continuum.json) |
 | Call of Duty: Infinite Warfare - Digital Deluxe Edition | 118910 | [118910-call-of-duty-infinite-warfare-digital-deluxe-edition.json](./118910-call-of-duty-infinite-warfare-digital-deluxe-edition.json) |
+| Call of Duty: Infinite Warfare - Digital Legacy Edition | 225379 | [225379-call-of-duty-infinite-warfare-digital-legacy-edition.json](./225379-call-of-duty-infinite-warfare-digital-legacy-edition.json) |
 | Call of Duty: Infinite Warfare - Jackal Assault | 80632 | [80632-call-of-duty-infinite-warfare-jackal-assault.json](./80632-call-of-duty-infinite-warfare-jackal-assault.json) |
 | Call of Duty: Infinite Warfare - Launch Edition | 82447 | [82447-call-of-duty-infinite-warfare-launch-edition.json](./82447-call-of-duty-infinite-warfare-launch-edition.json) |
 | Call of Duty: Infinite Warfare - Legacy Edition | 42896 | [42896-call-of-duty-infinite-warfare-legacy-edition.json](./42896-call-of-duty-infinite-warfare-legacy-edition.json) |
@@ -1117,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candlelight | 33296 | [33296-candlelight.json](./33296-candlelight.json) |
 | Candlelight | 366581 | [366581-candlelight.json](./366581-candlelight.json) |
 | Candlelight: Lament | 247937 | [247937-candlelight-lament.json](./247937-candlelight-lament.json) |
+| Candleman: Definitive Edition | 225380 | [225380-candleman-definitive-edition.json](./225380-candleman-definitive-edition.json) |
 | Candleman: The Complete Journey | 81247 | [81247-candleman-the-complete-journey.json](./81247-candleman-the-complete-journey.json) |
 | Candleman:find yourself | 130755 | [130755-candleman-find-yourself.json](./130755-candleman-find-yourself.json) |
 | Candlemass | 257297 | [257297-candlemass.json](./257297-candlemass.json) |
@@ -1309,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Strike | 94171 | [94171-cannon-strike.json](./94171-cannon-strike.json) |
 | Cannon Super Mario Bros. Wii | 387504 | [387504-cannon-super-mario-bros-wii.json](./387504-cannon-super-mario-bros-wii.json) |
 | Cannon Target | 253413 | [253413-cannon-target.json](./253413-cannon-target.json) |
+| Cannon World: Target | 225376 | [225376-cannon-world-target.json](./225376-cannon-world-target.json) |
 | CannonBall | 195227 | [195227-cannonball.json](./195227-cannonball.json) |
 | Cannonball Blitz | 21920 | [21920-cannonball-blitz.json](./21920-cannonball-blitz.json) |
 | Cannonball Commander | 90519 | [90519-cannonball-commander.json](./90519-cannonball-commander.json) |
@@ -3808,6 +3811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caterpiggle | 108885 | [108885-caterpiggle.json](./108885-caterpiggle.json) |
 | Caterpilla | 83266 | [83266-caterpilla.json](./83266-caterpilla.json) |
 | Caterpillar | 201514 | [201514-caterpillar.json](./201514-caterpillar.json) |
+| Caterpillar | 225381 | [225381-caterpillar.json](./225381-caterpillar.json) |
 | Caterpillar | 38482 | [38482-caterpillar.json](./38482-caterpillar.json) |
 | Caterpillar | 74708 | [74708-caterpillar.json](./74708-caterpillar.json) |
 | Caterpillar Construction Zone | 37283 | [37283-caterpillar-construction-zone.json](./37283-caterpillar-construction-zone.json) |
@@ -11686,6 +11690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect/Words | 87696 | [87696-connect-words.json](./87696-connect-words.json) |
 | Connect01 | 105657 | [105657-connect01.json](./105657-connect01.json) |
 | ConnecTank | 152381 | [152381-connectank.json](./152381-connectank.json) |
+| Connected Dreams | 225369 | [225369-connected-dreams.json](./225369-connected-dreams.json) |
 | Connected Fates | 310982 | [310982-connected-fates.json](./310982-connected-fates.json) |
 | Connected Hearts | 54525 | [54525-connected-hearts.json](./54525-connected-hearts.json) |
 | Connected Hearts: Cost of Beauty - Collector's Edition | 284875 | [284875-connected-hearts-cost-of-beauty-collectors-edition.json](./284875-connected-hearts-cost-of-beauty-collectors-edition.json) |
