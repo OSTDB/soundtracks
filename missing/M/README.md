@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madela | 127859 | [127859-madela.json](./127859-madela.json) |
 | Madeline: European Adventures | 210114 | [210114-madeline-european-adventures.json](./210114-madeline-european-adventures.json) |
 | Mademoiselle Kshatriya | 367622 | [367622-mademoiselle-kshatriya.json](./367622-mademoiselle-kshatriya.json) |
+| MaDevil | 201402 | [201402-madevil.json](./201402-madevil.json) |
 | Madfut 23 | 232128 | [232128-madfut-23.json](./232128-madfut-23.json) |
 | MadFut 25 | 327873 | [327873-madfut-25.json](./327873-madfut-25.json) |
 | Madgun | 241277 | [241277-madgun.json](./241277-madgun.json) |
@@ -1314,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Fairy Force: Champion Edition | 220436 | [220436-magical-fairy-force-champion-edition.json](./220436-magical-fairy-force-champion-edition.json) |
 | Magical Fantasista | 289588 | [289588-magical-fantasista.json](./289588-magical-fantasista.json) |
 | Magical Fantasista II | 292071 | [292071-magical-fantasista-ii.json](./292071-magical-fantasista-ii.json) |
+| Magical Girdle | 200819 | [200819-magical-girdle.json](./200819-magical-girdle.json) |
 | Magical Girl | 158086 | [158086-magical-girl.json](./158086-magical-girl.json) |
 | Magical Girl | 258429 | [258429-magical-girl.json](./258429-magical-girl.json) |
 | Magical Girl Attack | 117473 | [117473-magical-girl-attack.json](./117473-magical-girl-attack.json) |
@@ -4226,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Avengers: Spider-Man - With Great Power | 143538 | [143538-marvels-avengers-spider-man-with-great-power.json](./143538-marvels-avengers-spider-man-with-great-power.json) |
 | Marvel's Blade | 279646 | [279646-marvels-blade.json](./279646-marvels-blade.json) |
 | Marvel's Guardians of the Galaxy & Marvel's Avenger's: Deluxe Bundle | 218480 | [218480-marvels-guardians-of-the-galaxy-and-marvels-avengers-deluxe-bundle.json](./218480-marvels-guardians-of-the-galaxy-and-marvels-avengers-deluxe-bundle.json) |
+| Marvel's Guardians of the Galaxy + Marvel's Avengers | 200836 | [200836-marvels-guardians-of-the-galaxy-marvels-avengers.json](./200836-marvels-guardians-of-the-galaxy-marvels-avengers.json) |
 | Marvel's Guardians of the Galaxy: Cloud Version | 152370 | [152370-marvels-guardians-of-the-galaxy-cloud-version.json](./152370-marvels-guardians-of-the-galaxy-cloud-version.json) |
 | Marvel's Guardians of the Galaxy: Cosmic Deluxe Edition | 153019 | [153019-marvels-guardians-of-the-galaxy-cosmic-deluxe-edition.json](./153019-marvels-guardians-of-the-galaxy-cosmic-deluxe-edition.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 1: Tangled Up in Blue | 127039 | [127039-marvels-guardians-of-the-galaxy-the-telltale-series-episode-1-tangled-up-in-blue.json](./127039-marvels-guardians-of-the-galaxy-the-telltale-series-episode-1-tangled-up-in-blue.json) |
@@ -11507,6 +11510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minion Raid: Epic Monsters | 207125 | [207125-minion-raid-epic-monsters.json](./207125-minion-raid-epic-monsters.json) |
 | Minion Rumble | 338349 | [338349-minion-rumble.json](./338349-minion-rumble.json) |
 | Minion Shooter | 250565 | [250565-minion-shooter.json](./250565-minion-shooter.json) |
+| Minion Slayer | 200860 | [200860-minion-slayer.json](./200860-minion-slayer.json) |
 | MiniOne Racing | 34989 | [34989-minione-racing.json](./34989-minione-racing.json) |
 | Minions | 59896 | [59896-minions.json](./59896-minions.json) |
 | Minions Battle | 116742 | [116742-minions-battle.json](./116742-minions-battle.json) |
@@ -16049,6 +16053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movit | 89651 | [89651-movit.json](./89651-movit.json) |
 | MovoD II | 229826 | [229826-movod-ii.json](./229826-movod-ii.json) |
 | Mow | 200107 | [200107-mow.json](./200107-mow.json) |
+| MoW 2-player | 200866 | [200866-mow-2-player.json](./200866-mow-2-player.json) |
 | Mow Meow | 333990 | [333990-mow-meow.json](./333990-mow-meow.json) |
 | Mow VR: Challenge Your Limits | 264775 | [264775-mow-vr-challenge-your-limits.json](./264775-mow-vr-challenge-your-limits.json) |
 | Mow-Town Riding | 90513 | [90513-mow-town-riding.json](./90513-mow-town-riding.json) |
@@ -17017,6 +17022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murders & Mistresses | 418705 | [418705-murders-and-mistresses.json](./418705-murders-and-mistresses.json) |
 | Murders at Tealwoods Manor | 215103 | [215103-murders-at-tealwoods-manor.json](./215103-murders-at-tealwoods-manor.json) |
 | Murders on Budapest | 174285 | [174285-murders-on-budapest.json](./174285-murders-on-budapest.json) |
+| Murders on the Yangtze River | 201417 | [201417-murders-on-the-yangtze-river.json](./201417-murders-on-the-yangtze-river.json) |
 | Murdershifters | 183768 | [183768-murdershifters.json](./183768-murdershifters.json) |
 | Murderwave: Digital Slaughter | 121011 | [121011-murderwave-digital-slaughter.json](./121011-murderwave-digital-slaughter.json) |
 | Murdle | 194471 | [194471-murdle.json](./194471-murdle.json) |
@@ -18929,6 +18935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Stars: The Samurai | 61458 | [61458-mysterious-stars-the-samurai.json](./61458-mysterious-stars-the-samurai.json) |
 | Mysterious Stars: The Singer | 61459 | [61459-mysterious-stars-the-singer.json](./61459-mysterious-stars-the-singer.json) |
 | Mysterious Thief Emerald | 252652 | [252652-mysterious-thief-emerald.json](./252652-mysterious-thief-emerald.json) |
+| Mysterious Things | 201408 | [201408-mysterious-things.json](./201408-mysterious-things.json) |
 | Mysterious Unnamed Space Game | 184092 | [184092-mysterious-unnamed-space-game.json](./184092-mysterious-unnamed-space-game.json) |
 | Mysterious Voyage: Set sail | 303069 | [303069-mysterious-voyage-set-sail.json](./303069-mysterious-voyage-set-sail.json) |
 | Mysterious warrior | 165679 | [165679-mysterious-warrior.json](./165679-mysterious-warrior.json) |
