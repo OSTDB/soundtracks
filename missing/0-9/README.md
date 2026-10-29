@@ -1466,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2010 FIFA World Cup South Africa | 4655 | [4655-2010-fifa-world-cup-south-africa.json](./4655-2010-fifa-world-cup-south-africa.json) |
 | 2010: The Graphic Action Game | 12290 | [12290-2010-the-graphic-action-game.json](./12290-2010-the-graphic-action-game.json) |
 | 2010: The Text Adventure Game | 75229 | [75229-2010-the-text-adventure-game.json](./75229-2010-the-text-adventure-game.json) |
+| 2012 | 210420 | [210420-2012.json](./210420-2012.json) |
 | 2012 Apocalypse | 141518 | [141518-2012-apocalypse.json](./141518-2012-apocalypse.json) |
 | 2014.Aftermath | 115375 | [115375-2014-aftermath.json](./115375-2014-aftermath.json) |
 | 2016 Doodle Fruit Games | 238871 | [238871-2016-doodle-fruit-games.json](./238871-2016-doodle-fruit-games.json) |
@@ -1961,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3C Wonderland Coaster | 111071 | [111071-3c-wonderland-coaster.json](./111071-3c-wonderland-coaster.json) |
 | 3Chess | 400449 | [400449-3chess.json](./400449-3chess.json) |
 | 3D Air Hockey | 154912 | [154912-3d-air-hockey.json](./154912-3d-air-hockey.json) |
+| 3D Alien Invasion | 210361 | [210361-3d-alien-invasion.json](./210361-3d-alien-invasion.json) |
 | 3D Alien Syndrome | 202925 | [202925-3d-alien-syndrome.json](./202925-3d-alien-syndrome.json) |
 | 3D Atlas | 92624 | [92624-3d-atlas.json](./92624-3d-atlas.json) |
 | 3D Attack | 281225 | [281225-3d-attack.json](./281225-3d-attack.json) |
