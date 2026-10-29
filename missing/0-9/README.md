@@ -3149,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Āsh | 408828 | [408828-ash.json](./408828-ash.json) |
 | Çimen Adventures: Story Teller | 338528 | [338528-cimen-adventures-story-teller.json](./338528-cimen-adventures-story-teller.json) |
 | Čtyřka | 416576 | [416576-ctyrka.json](./416576-ctyrka.json) |
+| ​Cubeetle: Game of Creation | 179877 | [179877-cubeetle-game-of-creation.json](./179877-cubeetle-game-of-creation.json) |
 | ​Dechika: Island of Love and Bonds | 374119 | [374119-dechika-island-of-love-and-bonds.json](./374119-dechika-island-of-love-and-bonds.json) |
 | Édgimon | 287729 | [287729-edgimon.json](./287729-edgimon.json) |
 | Élan | 203825 | [203825-elan.json](./203825-elan.json) |
