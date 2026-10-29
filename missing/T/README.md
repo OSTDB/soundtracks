@@ -27254,6 +27254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Quest | 256860 | [256860-trivia-quest.json](./256860-trivia-quest.json) |
 | Trivia Quiz: All about everything! | 106156 | [106156-trivia-quiz-all-about-everything.json](./106156-trivia-quiz-all-about-everything.json) |
 | Trivia Replacement Questions | 87219 | [87219-trivia-replacement-questions.json](./87219-trivia-replacement-questions.json) |
+| Trivia Star Quiz | 216060 | [216060-trivia-star-quiz.json](./216060-trivia-star-quiz.json) |
 | Trivia Throwdown | 119992 | [119992-trivia-throwdown.json](./119992-trivia-throwdown.json) |
 | Trivia Town: Quiz Duel | 232064 | [232064-trivia-town-quiz-duel.json](./232064-trivia-town-quiz-duel.json) |
 | Trivia Trials | 296339 | [296339-trivia-trials.json](./296339-trivia-trials.json) |
@@ -27631,6 +27632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Rider | 227465 | [227465-truck-rider.json](./227465-truck-rider.json) |
 | Truck Sim 2024 | 287159 | [287159-truck-sim-2024.json](./287159-truck-sim-2024.json) |
 | Truck Simulation 19 | 111747 | [111747-truck-simulation-19.json](./111747-truck-simulation-19.json) |
+| Truck Simulator | 216061 | [216061-truck-simulator.json](./216061-truck-simulator.json) |
 | Truck Simulator & World of Machines: Game Bundle Collection | 263562 | [263562-truck-simulator-and-world-of-machines-game-bundle-collection.json](./263562-truck-simulator-and-world-of-machines-game-bundle-collection.json) |
 | Truck Simulator 2 | 159016 | [159016-truck-simulator-2.json](./159016-truck-simulator-2.json) |
 | Truck Simulator 2014 | 90774 | [90774-truck-simulator-2014.json](./90774-truck-simulator-2014.json) |
