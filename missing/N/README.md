@@ -5957,6 +5957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noskovrazdor | 402543 | [402543-noskovrazdor.json](./402543-noskovrazdor.json) |
 | NoSlack Pets: Lo-Fi Paws | 365249 | [365249-noslack-pets-lo-fi-paws.json](./365249-noslack-pets-lo-fi-paws.json) |
 | NoSleep: Nightmare Chronicles | 297160 | [297160-nosleep-nightmare-chronicles.json](./297160-nosleep-nightmare-chronicles.json) |
+| Noslrac | 223229 | [223229-noslrac.json](./223229-noslrac.json) |
 | Nosos | 175885 | [175885-nosos.json](./175885-nosos.json) |
 | NoSpellHero | 341486 | [341486-nospellhero.json](./341486-nospellhero.json) |
 | NostalDoom | 269559 | [269559-nostaldoom.json](./269559-nostaldoom.json) |
