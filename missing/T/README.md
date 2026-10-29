@@ -3814,6 +3814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tequila Zombies 2 | 93551 | [93551-tequila-zombies-2.json](./93551-tequila-zombies-2.json) |
 | Tequila Zombies 3: Things to Die For | 59063 | [59063-tequila-zombies-3-things-to-die-for.json](./59063-tequila-zombies-3-things-to-die-for.json) |
 | Tera | 7533 | [7533-tera.json](./7533-tera.json) |
+| Tera-Turbine | 184735 | [184735-tera-turbine.json](./184735-tera-turbine.json) |
 | Tera: La Cité des Crânes | 356857 | [356857-tera-la-cite-des-cranes.json](./356857-tera-la-cite-des-cranes.json) |
 | Terabey: The Room Builder | 183291 | [183291-terabey-the-room-builder.json](./183291-terabey-the-room-builder.json) |
 | TeraBlaster | 34925 | [34925-terablaster.json](./34925-terablaster.json) |
@@ -9264,6 +9265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hacker | 13724 | [13724-the-hacker.json](./13724-the-hacker.json) |
 | The Hacker | 228885 | [228885-the-hacker.json](./228885-the-hacker.json) |
 | The Hacker 2.0 | 234051 | [234051-the-hacker-2-0.json](./234051-the-hacker-2-0.json) |
+| The Hacker's Cave | 184698 | [184698-the-hackers-cave.json](./184698-the-hackers-cave.json) |
 | The Hacking Intern | 53743 | [53743-the-hacking-intern.json](./53743-the-hacking-intern.json) |
 | The Haioku Byoutou | 124076 | [124076-the-haioku-byoutou.json](./124076-the-haioku-byoutou.json) |
 | The Half-Life 2 Exhibit | 252091 | [252091-the-half-life-2-exhibit.json](./252091-the-half-life-2-exhibit.json) |
@@ -14399,6 +14401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow Cosmos | 373142 | [373142-the-shadow-cosmos.json](./373142-the-shadow-cosmos.json) |
 | The Shadow in the Cathedral | 10939 | [10939-the-shadow-in-the-cathedral.json](./10939-the-shadow-in-the-cathedral.json) |
 | The Shadow of Ayutthaya | 374649 | [374649-the-shadow-of-ayutthaya.json](./374649-the-shadow-of-ayutthaya.json) |
+| The Shadow of Oberbaum Bridge | 184718 | [184718-the-shadow-of-oberbaum-bridge.json](./184718-the-shadow-of-oberbaum-bridge.json) |
 | The Shadow of Shadows | 377047 | [377047-the-shadow-of-shadows.json](./377047-the-shadow-of-shadows.json) |
 | The Shadow of Swallow | 333045 | [333045-the-shadow-of-swallow.json](./333045-the-shadow-of-swallow.json) |
 | The Shadow of the Evil Tower | 270875 | [270875-the-shadow-of-the-evil-tower.json](./270875-the-shadow-of-the-evil-tower.json) |
@@ -14945,6 +14948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs' Village and the Magical Meadow | 109158 | [109158-the-smurfs-village-and-the-magical-meadow.json](./109158-the-smurfs-village-and-the-magical-meadow.json) |
 | The Snack World: TreJarers | 26501 | [26501-the-snack-world-trejarers.json](./26501-the-snack-world-trejarers.json) |
 | The Snake Kingdom of Gennibar-Six | 337649 | [337649-the-snake-kingdom-of-gennibar-six.json](./337649-the-snake-kingdom-of-gennibar-six.json) |
+| The Snake that Wanted to Climb a Tree | 184704 | [184704-the-snake-that-wanted-to-climb-a-tree.json](./184704-the-snake-that-wanted-to-climb-a-tree.json) |
 | The Snaplock | 409740 | [409740-the-snaplock.json](./409740-the-snaplock.json) |
 | The Snapper | 285672 | [285672-the-snapper.json](./285672-the-snapper.json) |
 | The Snare | 279904 | [279904-the-snare.json](./279904-the-snare.json) |
@@ -20334,6 +20338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Belong | 271854 | [271854-time-to-belong.json](./271854-time-to-belong.json) |
 | Time to Die: Adventures | 53810 | [53810-time-to-die-adventures.json](./53810-time-to-die-adventures.json) |
 | Time to Escape | 288605 | [288605-time-to-escape.json](./288605-time-to-escape.json) |
+| Time to Feed | 184691 | [184691-time-to-feed.json](./184691-time-to-feed.json) |
 | Time to Fight | 114319 | [114319-time-to-fight.json](./114319-time-to-fight.json) |
 | Time to Golf | 143711 | [143711-time-to-golf.json](./143711-time-to-golf.json) |
 | Time to Hunt | 188320 | [188320-time-to-hunt.json](./188320-time-to-hunt.json) |
@@ -26734,6 +26739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunt Girl | 270114 | [270114-treasure-hunt-girl.json](./270114-treasure-hunt-girl.json) |
 | Treasure Hunt on a World Trip | 310442 | [310442-treasure-hunt-on-a-world-trip.json](./310442-treasure-hunt-on-a-world-trip.json) |
 | Treasure Hunt VR | 51741 | [51741-treasure-hunt-vr.json](./51741-treasure-hunt-vr.json) |
+| Treasure Hunter | 184732 | [184732-treasure-hunter.json](./184732-treasure-hunter.json) |
 | Treasure Hunter | 195062 | [195062-treasure-hunter.json](./195062-treasure-hunter.json) |
 | Treasure Hunter | 242235 | [242235-treasure-hunter.json](./242235-treasure-hunter.json) |
 | Treasure Hunter | 250307 | [250307-treasure-hunter.json](./250307-treasure-hunter.json) |
