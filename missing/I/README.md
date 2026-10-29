@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ibreak! | 103895 | [103895-ibreak.json](./103895-ibreak.json) |
 | iBridgeCards | 88586 | [88586-ibridgecards.json](./88586-ibridgecards.json) |
 | iBridgeFun | 105670 | [105670-ibridgefun.json](./105670-ibridgefun.json) |
+| Ibuki | 177693 | [177693-ibuki.json](./177693-ibuki.json) |
 | Ibuki Suika Game | 407592 | [407592-ibuki-suika-game.json](./407592-ibuki-suika-game.json) |
 | IC Carddass DragonBall | 59995 | [59995-ic-carddass-dragonball.json](./59995-ic-carddass-dragonball.json) |
 | ic2005 | 256861 | [256861-ic2005.json](./256861-ic2005.json) |
@@ -5442,6 +5443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Crossing | 234446 | [234446-island-crossing.json](./234446-island-crossing.json) |
 | Island Crusaders | 190011 | [190011-island-crusaders.json](./190011-island-crusaders.json) |
 | Island Dash | 55449 | [55449-island-dash.json](./55449-island-dash.json) |
+| Island Days | 178203 | [178203-island-days.json](./178203-island-days.json) |
 | Island Deck | 374252 | [374252-island-deck.json](./374252-island-deck.json) |
 | Island Defender Jets | 223249 | [223249-island-defender-jets.json](./223249-island-defender-jets.json) |
 | Island Defense | 35096 | [35096-island-defense.json](./35096-island-defense.json) |
