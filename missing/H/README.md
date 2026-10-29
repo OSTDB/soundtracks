@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halves | 235720 | [235720-halves.json](./235720-halves.json) |
 | Halzae: Heroes of Divinity | 112500 | [112500-halzae-heroes-of-divinity.json](./112500-halzae-heroes-of-divinity.json) |
 | Ham Hole | 403358 | [403358-ham-hole.json](./403358-ham-hole.json) |
+| Ham Supi | 199769 | [199769-ham-supi.json](./199769-ham-supi.json) |
 | Ham Tank! | 420576 | [420576-ham-tank.json](./420576-ham-tank.json) |
 | Ham-Master | 125081 | [125081-ham-master.json](./125081-ham-master.json) |
 | Ham-Spin | 385634 | [385634-ham-spin.json](./385634-ham-spin.json) |
@@ -2998,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartland Frontier | 176182 | [176182-heartland-frontier.json](./176182-heartland-frontier.json) |
 | Heartland Ranch | 60844 | [60844-heartland-ranch.json](./60844-heartland-ranch.json) |
 | Heartless | 183969 | [183969-heartless.json](./183969-heartless.json) |
+| Heartless | 199733 | [199733-heartless.json](./199733-heartless.json) |
 | Heartless | 219824 | [219824-heartless.json](./219824-heartless.json) |
 | Heartless | 339834 | [339834-heartless.json](./339834-heartless.json) |
 | Heartless & Dreadful: Return by 72 hours | 192844 | [192844-heartless-and-dreadful-return-by-72-hours.json](./192844-heartless-and-dreadful-return-by-72-hours.json) |
@@ -6806,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Rampage | 213486 | [213486-highway-rampage.json](./213486-highway-rampage.json) |
 | Highway Rider | 86999 | [86999-highway-rider.json](./86999-highway-rider.json) |
 | Highway Roads Racer | 390499 | [390499-highway-roads-racer.json](./390499-highway-roads-racer.json) |
+| Highway Runners | 200269 | [200269-highway-runners.json](./200269-highway-runners.json) |
 | Highway Sniper Shooter | 107545 | [107545-highway-sniper-shooter.json](./107545-highway-sniper-shooter.json) |
 | Highway Terror | 322600 | [322600-highway-terror.json](./322600-highway-terror.json) |
 | Highway to Heal | 344445 | [344445-highway-to-heal.json](./344445-highway-to-heal.json) |
@@ -11240,6 +11243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnosis Microphone: Alternative Rap Battle | 132016 | [132016-hypnosis-microphone-alternative-rap-battle.json](./132016-hypnosis-microphone-alternative-rap-battle.json) |
 | Hypnosis Microphone: Dream Rap Battle | 323566 | [323566-hypnosis-microphone-dream-rap-battle.json](./323566-hypnosis-microphone-dream-rap-battle.json) |
 | Hypnosis of Corruption | 331124 | [331124-hypnosis-of-corruption.json](./331124-hypnosis-of-corruption.json) |
+| Hypnosis Reveries | 199720 | [199720-hypnosis-reveries.json](./199720-hypnosis-reveries.json) |
 | Hypnosis: Quiet Nights | 352744 | [352744-hypnosis-quiet-nights.json](./352744-hypnosis-quiet-nights.json) |
 | Hypnospace Enforcer | 216271 | [216271-hypnospace-enforcer.json](./216271-hypnospace-enforcer.json) |
 | Hypnospace Outlaw | 99071 | [99071-hypnospace-outlaw.json](./99071-hypnospace-outlaw.json) |
