@@ -9420,6 +9420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Thread | 202227 | [202227-silver-thread.json](./202227-silver-thread.json) |
 | Silver Thread: Deux | 298809 | [298809-silver-thread-deux.json](./298809-silver-thread-deux.json) |
 | Silver Thread: Episode Three | 370727 | [370727-silver-thread-episode-three.json](./370727-silver-thread-episode-three.json) |
+| Silver Trigger 64 | 184693 | [184693-silver-trigger-64.json](./184693-silver-trigger-64.json) |
 | Silver Valley | 267976 | [267976-silver-valley.json](./267976-silver-valley.json) |
 | Silver Vault | 164066 | [164066-silver-vault.json](./164066-silver-vault.json) |
 | Silver Wire | 205033 | [205033-silver-wire.json](./205033-silver-wire.json) |
@@ -12808,6 +12809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoop Can't Sleep! | 175847 | [175847-smoop-cant-sleep.json](./175847-smoop-cant-sleep.json) |
 | Smooth Criminal | 91913 | [91913-smooth-criminal.json](./91913-smooth-criminal.json) |
 | Smooth Criminals | 51526 | [51526-smooth-criminals.json](./51526-smooth-criminals.json) |
+| Smooth Elevator | 184737 | [184737-smooth-elevator.json](./184737-smooth-elevator.json) |
 | Smooth Mover | 120956 | [120956-smooth-mover.json](./120956-smooth-mover.json) |
 | Smooth Operators 2 | 197209 | [197209-smooth-operators-2.json](./197209-smooth-operators-2.json) |
 | Smoothcade | 130668 | [130668-smoothcade.json](./130668-smoothcade.json) |
@@ -13610,6 +13612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowball Go Go Go | 247208 | [247208-snowball-go-go-go.json](./247208-snowball-go-go-go.json) |
 | Snowball Run | 93156 | [93156-snowball-run.json](./93156-snowball-run.json) |
 | Snowball Rush | 116889 | [116889-snowball-rush.json](./116889-snowball-rush.json) |
+| Snowball Showdown | 184703 | [184703-snowball-showdown.json](./184703-snowball-showdown.json) |
 | Snowball Warfare | 359284 | [359284-snowball-warfare.json](./359284-snowball-warfare.json) |
 | Snowball.io | 231898 | [231898-snowball-io.json](./231898-snowball-io.json) |
 | Snowballer | 133186 | [133186-snowballer.json](./133186-snowballer.json) |
@@ -18896,6 +18899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphinx and the Cursed Mummy | 210438 | [210438-sphinx-and-the-cursed-mummy.json](./210438-sphinx-and-the-cursed-mummy.json) |
 | Sphinx and the Cursed Mummy | 242998 | [242998-sphinx-and-the-cursed-mummy.json](./242998-sphinx-and-the-cursed-mummy.json) |
 | Sphinx Lowering | 229819 | [229819-sphinx-lowering.json](./229819-sphinx-lowering.json) |
+| Sphinx of Black Quartz Judge My Vow | 184736 | [184736-sphinx-of-black-quartz-judge-my-vow.json](./184736-sphinx-of-black-quartz-judge-my-vow.json) |
 | Sphinx: Riddles of the Nile | 289377 | [289377-sphinx-riddles-of-the-nile.json](./289377-sphinx-riddles-of-the-nile.json) |
 | Sphirit | 351266 | [351266-sphirit.json](./351266-sphirit.json) |
 | Sphizofrenia: Concept of Horror | 251129 | [251129-sphizofrenia-concept-of-horror.json](./251129-sphizofrenia-concept-of-horror.json) |
@@ -19248,6 +19252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spingun | 30803 | [30803-spingun.json](./30803-spingun.json) |
 | Spinheads | 112844 | [112844-spinheads.json](./112844-spinheads.json) |
 | Spinmaster | 15469 | [15469-spinmaster.json](./15469-spinmaster.json) |
+| Spinner | 184716 | [184716-spinner.json](./184716-spinner.json) |
 | Spinner Breaker | 158388 | [158388-spinner-breaker.json](./158388-spinner-breaker.json) |
 | Spinner Galactic | 56375 | [56375-spinner-galactic.json](./56375-spinner-galactic.json) |
 | Spinner Invaders | 172967 | [172967-spinner-invaders.json](./172967-spinner-invaders.json) |
@@ -29417,6 +29422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Vadimka VII: The Nightmares of The Current Continue | 228302 | [228302-super-vadimka-vii-the-nightmares-of-the-current-continue.json](./228302-super-vadimka-vii-the-nightmares-of-the-current-continue.json) |
 | Super Vadimka X | 241221 | [241221-super-vadimka-x.json](./241221-super-vadimka-x.json) |
 | Super Valis IV | 38411 | [38411-super-valis-iv.json](./38411-super-valis-iv.json) |
+| Super Vampire Hunter | 184708 | [184708-super-vampire-hunter.json](./184708-super-vampire-hunter.json) |
 | Super Vampire Ninja Zero | 159013 | [159013-super-vampire-ninja-zero.json](./159013-super-vampire-ninja-zero.json) |
 | Super Vanilla World | 223029 | [223029-super-vanilla-world.json](./223029-super-vanilla-world.json) |
 | Super Versus | 114291 | [114291-super-versus.json](./114291-super-versus.json) |
@@ -31193,6 +31199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switchy Road DeluX | 147608 | [147608-switchy-road-delux.json](./147608-switchy-road-delux.json) |
 | Switzerland Omelette Deluxe | 351398 | [351398-switzerland-omelette-deluxe.json](./351398-switzerland-omelette-deluxe.json) |
 | SWIV | 12789 | [12789-swiv.json](./12789-swiv.json) |
+| Swivel on It! | 184701 | [184701-swivel-on-it.json](./184701-swivel-on-it.json) |
 | Swivel Shooter | 176150 | [176150-swivel-shooter.json](./176150-swivel-shooter.json) |
 | SWmud | 228912 | [228912-swmud.json](./228912-swmud.json) |
 | Swole | 398664 | [398664-swole.json](./398664-swole.json) |
