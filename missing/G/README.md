@@ -8845,6 +8845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Sphere | 176334 | [176334-guardian-sphere.json](./176334-guardian-sphere.json) |
 | Guardian Stone: Second War | 58650 | [58650-guardian-stone-second-war.json](./58650-guardian-stone-second-war.json) |
 | Guardian Storm | 40156 | [40156-guardian-storm.json](./40156-guardian-storm.json) |
+| Guardian Survival | 208165 | [208165-guardian-survival.json](./208165-guardian-survival.json) |
 | Guardian Sword | 26627 | [26627-guardian-sword.json](./26627-guardian-sword.json) |
 | Guardian Tactics: Deck of the Chosen | 292543 | [292543-guardian-tactics-deck-of-the-chosen.json](./292543-guardian-tactics-deck-of-the-chosen.json) |
 | Guardian Tales | 133433 | [133433-guardian-tales.json](./133433-guardian-tales.json) |
