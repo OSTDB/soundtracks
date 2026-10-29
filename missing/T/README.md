@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics & Strategy Master 3: Gemini Strategy | 284350 | [284350-tactics-and-strategy-master-3-gemini-strategy.json](./284350-tactics-and-strategy-master-3-gemini-strategy.json) |
 | Tactics & Strategy Master: Joan of Arc | 96670 | [96670-tactics-and-strategy-master-joan-of-arc.json](./96670-tactics-and-strategy-master-joan-of-arc.json) |
 | Tactics 2: War | 61610 | [61610-tactics-2-war.json](./61610-tactics-2-war.json) |
+| Tactics Adrift | 196971 | [196971-tactics-adrift.json](./196971-tactics-adrift.json) |
 | Tactics Arena Online | 69301 | [69301-tactics-arena-online.json](./69301-tactics-arena-online.json) |
 | Tactics Below | 267817 | [267817-tactics-below.json](./267817-tactics-below.json) |
 | Tactics Core | 281896 | [281896-tactics-core.json](./281896-tactics-core.json) |
@@ -2393,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatami Crime Scenes What’s Wrong? | 420650 | [420650-tatami-crime-scenes-what-s-wrong.json](./420650-tatami-crime-scenes-what-s-wrong.json) |
 | Tatar Altan vs. Shaitan | 384282 | [384282-tatar-altan-vs-shaitan.json](./384282-tatar-altan-vs-shaitan.json) |
 | Tatara Kogasa's Surprise Operation | 273948 | [273948-tatara-kogasas-surprise-operation.json](./273948-tatara-kogasas-surprise-operation.json) |
+| Tatari | 196967 | [196967-tatari.json](./196967-tatari.json) |
 | Tatari: Curse Road | 293382 | [293382-tatari-curse-road.json](./293382-tatari-curse-road.json) |
 | Tatari: The Arrival | 267101 | [267101-tatari-the-arrival.json](./267101-tatari-the-arrival.json) |
 | Tate's Journey | 253232 | [253232-tates-journey.json](./253232-tates-journey.json) |
@@ -2833,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technicity | 186619 | [186619-technicity.json](./186619-technicity.json) |
 | Technictix | 69252 | [69252-technictix.json](./69252-technictix.json) |
 | Technikiller | 219567 | [219567-technikiller.json](./219567-technikiller.json) |
+| Technitive | 196997 | [196997-technitive.json](./196997-technitive.json) |
 | Techno BB | 59397 | [59397-techno-bb.json](./59397-techno-bb.json) |
 | Techno Boy | 86529 | [86529-techno-boy.json](./86529-techno-boy.json) |
 | Techno Chopper | 416386 | [416386-techno-chopper.json](./416386-techno-chopper.json) |
@@ -4143,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Type: A.L.C.H.E.M.Y. | 338318 | [338318-terror-type-a-l-c-h-e-m-y.json](./338318-terror-type-a-l-c-h-e-m-y.json) |
 | Terror World | 101265 | [101265-terror-world.json](./101265-terror-world.json) |
 | Terror-Daktil 4D | 147211 | [147211-terror-daktil-4d.json](./147211-terror-daktil-4d.json) |
+| Terror: Endless Night | 196955 | [196955-terror-endless-night.json](./196955-terror-endless-night.json) |
 | Terrorarium | 115014 | [115014-terrorarium.json](./115014-terrorarium.json) |
 | Terrorbytes | 319843 | [319843-terrorbytes.json](./319843-terrorbytes.json) |
 | Terrordrome: Rise of the Boogeymen | 47036 | [47036-terrordrome-rise-of-the-boogeymen.json](./47036-terrordrome-rise-of-the-boogeymen.json) |
@@ -11976,6 +11980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mansion | 159683 | [159683-the-mansion.json](./159683-the-mansion.json) |
 | The Mansion of Hidden Souls | 45522 | [45522-the-mansion-of-hidden-souls.json](./45522-the-mansion-of-hidden-souls.json) |
 | The Mansion of The Macabre | 328470 | [328470-the-mansion-of-the-macabre.json](./328470-the-mansion-of-the-macabre.json) |
+| The Mansions of Shadows | 196978 | [196978-the-mansions-of-shadows.json](./196978-the-mansions-of-shadows.json) |
 | The Mantis | 376490 | [376490-the-mantis.json](./376490-the-mantis.json) |
 | The Many Deaths of Lily Kosen | 217109 | [217109-the-many-deaths-of-lily-kosen.json](./217109-the-many-deaths-of-lily-kosen.json) |
 | The Many Faces of Go | 73868 | [73868-the-many-faces-of-go.json](./73868-the-many-faces-of-go.json) |
@@ -12618,6 +12623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Shift | 258416 | [258416-the-night-shift.json](./258416-the-night-shift.json) |
 | The night spoke our names | 208310 | [208310-the-night-spoke-our-names.json](./208310-the-night-spoke-our-names.json) |
 | The Night the Carsons Disappeared | 30764 | [30764-the-night-the-carsons-disappeared.json](./30764-the-night-the-carsons-disappeared.json) |
+| The Night Walkers | 196992 | [196992-the-night-walkers.json](./196992-the-night-walkers.json) |
 | The Night Wanderer | 290366 | [290366-the-night-wanderer.json](./290366-the-night-wanderer.json) |
 | The Night Watch | 272399 | [272399-the-night-watch.json](./272399-the-night-watch.json) |
 | The Night Way Home | 165954 | [165954-the-night-way-home.json](./165954-the-night-way-home.json) |
@@ -14002,6 +14008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sacrificial Girl of the Fantasy 3: Kingdoms 2 | 261669 | [261669-the-sacrificial-girl-of-the-fantasy-3-kingdoms-2.json](./261669-the-sacrificial-girl-of-the-fantasy-3-kingdoms-2.json) |
 | The Saddle Club | 268211 | [268211-the-saddle-club.json](./268211-the-saddle-club.json) |
 | The Saddle Club: Willowbrook Stables | 163160 | [163160-the-saddle-club-willowbrook-stables.json](./163160-the-saddle-club-willowbrook-stables.json) |
+| The Safe Place | 196999 | [196999-the-safe-place.json](./196999-the-safe-place.json) |
 | The Safeguard Garrison | 29672 | [29672-the-safeguard-garrison.json](./29672-the-safeguard-garrison.json) |
 | The Safeguard Garrison 2 | 28899 | [28899-the-safeguard-garrison-2.json](./28899-the-safeguard-garrison-2.json) |
 | The Safeguard Garrison: Space Colonies | 43159 | [43159-the-safeguard-garrison-space-colonies.json](./43159-the-safeguard-garrison-space-colonies.json) |
@@ -14484,6 +14491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silent One | 347763 | [347763-the-silent-one.json](./347763-the-silent-one.json) |
 | The Silent Sky: Part I | 212155 | [212155-the-silent-sky-part-i.json](./212155-the-silent-sky-part-i.json) |
 | The Silent Suite | 330923 | [330923-the-silent-suite.json](./330923-the-silent-suite.json) |
+| The Silent Swan | 196998 | [196998-the-silent-swan.json](./196998-the-silent-swan.json) |
 | The Silent Swan: Rising in the Mist Edition | 271400 | [271400-the-silent-swan-rising-in-the-mist-edition.json](./271400-the-silent-swan-rising-in-the-mist-edition.json) |
 | The Silent Witness | 350806 | [350806-the-silent-witness.json](./350806-the-silent-witness.json) |
 | The Silicon Shadow | 252260 | [252260-the-silicon-shadow.json](./252260-the-silicon-shadow.json) |
@@ -17749,6 +17757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Is the Police 2 | 84486 | [84486-this-is-the-police-2.json](./84486-this-is-the-police-2.json) |
 | This Is the Zodiac Speaking | 119502 | [119502-this-is-the-zodiac-speaking.json](./119502-this-is-the-zodiac-speaking.json) |
 | This is Timmy | 189171 | [189171-this-is-timmy.json](./189171-this-is-timmy.json) |
+| This is Torture Together | 196963 | [196963-this-is-torture-together.json](./196963-this-is-torture-together.json) |
 | This is Vegas | 14521 | [14521-this-is-vegas.json](./14521-this-is-vegas.json) |
 | This Is Where I Want To Die | 378205 | [378205-this-is-where-i-want-to-die.json](./378205-this-is-where-i-want-to-die.json) |
 | This Is Why We Don't Play Golf | 371932 | [371932-this-is-why-we-dont-play-golf.json](./371932-this-is-why-we-dont-play-golf.json) |
@@ -28985,6 +28994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Wars | 338602 | [338602-twilight-wars.json](./338602-twilight-wars.json) |
 | Twilight Wars: Declassified | 166205 | [166205-twilight-wars-declassified.json](./166205-twilight-wars-declassified.json) |
 | Twilight: The Video Game | 67831 | [67831-twilight-the-video-game.json](./67831-twilight-the-video-game.json) |
+| Twilight's Final Judgement | 196966 | [196966-twilights-final-judgement.json](./196966-twilights-final-judgement.json) |
 | Twilight's Flavors & Delight | 381787 | [381787-twilights-flavors-and-delight.json](./381787-twilights-flavors-and-delight.json) |
 | Twilight's Folclore | 374180 | [374180-twilights-folclore.json](./374180-twilights-folclore.json) |
 | Twilight's Ransom | 12805 | [12805-twilights-ransom.json](./12805-twilights-ransom.json) |
@@ -29011,6 +29021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Eagle | 247300 | [247300-twin-eagle.json](./247300-twin-eagle.json) |
 | Twin Eagle | 68355 | [68355-twin-eagle.json](./68355-twin-eagle.json) |
 | Twin Eagle II | 70389 | [70389-twin-eagle-ii.json](./70389-twin-eagle-ii.json) |
+| Twin Edge | 196961 | [196961-twin-edge.json](./196961-twin-edge.json) |
 | Twin Fighters X | 358652 | [358652-twin-fighters-x.json](./358652-twin-fighters-x.json) |
 | Twin Fish | 287568 | [287568-twin-fish.json](./287568-twin-fish.json) |
 | Twin Goddesses | 43810 | [43810-twin-goddesses.json](./43810-twin-goddesses.json) |
