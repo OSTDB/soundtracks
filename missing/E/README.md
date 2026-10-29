@@ -2075,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Ou | 79066 | [79066-elemental-ou.json](./79066-elemental-ou.json) |
 | Elemental Pinball | 310964 | [310964-elemental-pinball.json](./310964-elemental-pinball.json) |
 | Elemental Raiders | 231614 | [231614-elemental-raiders.json](./231614-elemental-raiders.json) |
+| Elemental Roll | 195355 | [195355-elemental-roll.json](./195355-elemental-roll.json) |
 | Elemental Rush | 360689 | [360689-elemental-rush.json](./360689-elemental-rush.json) |
 | Elemental Saga | 361301 | [361301-elemental-saga.json](./361301-elemental-saga.json) |
 | Elemental Seasons | 323147 | [323147-elemental-seasons.json](./323147-elemental-seasons.json) |
@@ -4217,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eradicator | 8340 | [8340-eradicator.json](./8340-eradicator.json) |
 | Eradicator Genesis | 384187 | [384187-eradicator-genesis.json](./384187-eradicator-genesis.json) |
 | Eragon | 5821 | [5821-eragon.json](./5821-eragon.json) |
+| Eragon's Tale | 195359 | [195359-eragons-tale.json](./195359-eragons-tale.json) |
 | Eramthgin | 144155 | [144155-eramthgin.json](./144155-eramthgin.json) |
 | Eramthgin 2 | 144156 | [144156-eramthgin-2.json](./144156-eramthgin-2.json) |
 | Erannorth Chronicles | 164287 | [164287-erannorth-chronicles.json](./164287-erannorth-chronicles.json) |
@@ -5566,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euclid Valley | 348375 | [348375-euclid-valley.json](./348375-euclid-valley.json) |
 | Euclid's Inferno | 304994 | [304994-euclids-inferno.json](./304994-euclids-inferno.json) |
 | Euclidean | 13141 | [13141-euclidean.json](./13141-euclidean.json) |
+| Euclidean Escape | 195343 | [195343-euclidean-escape.json](./195343-euclidean-escape.json) |
 | Euclyca | 158031 | [158031-euclyca.json](./158031-euclyca.json) |
 | EUcraft | 398401 | [398401-eucraft.json](./398401-eucraft.json) |
 | Eudemons Online | 76594 | [76594-eudemons-online.json](./76594-eudemons-online.json) |
@@ -6564,6 +6567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excaliburian!! | 186153 | [186153-excaliburian.json](./186153-excaliburian.json) |
 | Excavate Diamond | 228111 | [228111-excavate-diamond.json](./228111-excavate-diamond.json) |
 | Excavator Master 3D | 224053 | [224053-excavator-master-3d.json](./224053-excavator-master-3d.json) |
+| Excavator Simulator | 195369 | [195369-excavator-simulator.json](./195369-excavator-simulator.json) |
 | Excavator Simulator 2018 | 100865 | [100865-excavator-simulator-2018.json](./100865-excavator-simulator-2018.json) |
 | Excavatorrr | 242574 | [242574-excavatorrr.json](./242574-excavatorrr.json) |
 | Excave | 82595 | [82595-excave.json](./82595-excave.json) |
