@@ -3345,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFT Museum | 231446 | [231446-nft-museum.json](./231446-nft-museum.json) |
 | NFUT Cards | 178283 | [178283-nfut-cards.json](./178283-nfut-cards.json) |
 | Nghtmn | 28640 | [28640-nghtmn.json](./28640-nghtmn.json) |
+| NGL Biathlon 2026 | 178185 | [178185-ngl-biathlon-2026.json](./178185-ngl-biathlon-2026.json) |
 | Ngolf | 283259 | [283259-ngolf.json](./283259-ngolf.json) |
 | Ngolf: Colorful Golf Balls 1 | 303875 | [303875-ngolf-colorful-golf-balls-1.json](./303875-ngolf-colorful-golf-balls-1.json) |
 | Ngolf: Colorful Golf Balls 2 | 300953 | [300953-ngolf-colorful-golf-balls-2.json](./300953-ngolf-colorful-golf-balls-2.json) |
@@ -6153,6 +6154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Not 2: A Brain Challenge - Platinum Edition | 378856 | [378856-not-not-2-a-brain-challenge-platinum-edition.json](./378856-not-not-2-a-brain-challenge-platinum-edition.json) |
 | Not Not: A Brain Buster | 117957 | [117957-not-not-a-brain-buster.json](./117957-not-not-a-brain-buster.json) |
 | Not Not: Zunou Taikyuu Game | 222266 | [222266-not-not-zunou-taikyuu-game.json](./222266-not-not-zunou-taikyuu-game.json) |
+| Not of This World | 177722 | [177722-not-of-this-world.json](./177722-not-of-this-world.json) |
 | Not Only Nine | 243672 | [243672-not-only-nine.json](./243672-not-only-nine.json) |
 | Not Our Home 2 | 156649 | [156649-not-our-home-2.json](./156649-not-our-home-2.json) |
 | Not Pacman | 135091 | [135091-not-pacman.json](./135091-not-pacman.json) |
