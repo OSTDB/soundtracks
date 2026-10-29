@@ -2952,6 +2952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scp: Breakout | 173187 | [173187-scp-breakout.json](./173187-scp-breakout.json) |
 | SCP: CB Multiplayer Reborn | 350939 | [350939-scp-cb-multiplayer-reborn.json](./350939-scp-cb-multiplayer-reborn.json) |
 | SCP: Chamberz | 270580 | [270580-scp-chamberz.json](./270580-scp-chamberz.json) |
+| SCP: Classified Site | 228128 | [228128-scp-classified-site.json](./228128-scp-classified-site.json) |
 | SCP: Containment Breach | 20193 | [20193-scp-containment-breach.json](./20193-scp-containment-breach.json) |
 | SCP: Containment Breach Mobile | 174756 | [174756-scp-containment-breach-mobile.json](./174756-scp-containment-breach-mobile.json) |
 | SCP: Containment Breach Remastered | 210866 | [210866-scp-containment-breach-remastered.json](./210866-scp-containment-breach-remastered.json) |
@@ -6398,6 +6399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapeo | 327437 | [327437-shapeo.json](./327437-shapeo.json) |
 | ShapeOminoes | 197721 | [197721-shapeominoes.json](./197721-shapeominoes.json) |
 | ShapePlacer | 179352 | [179352-shapeplacer.json](./179352-shapeplacer.json) |
+| Shaper | 228037 | [228037-shaper.json](./228037-shaper.json) |
 | Shaper | 240810 | [240810-shaper.json](./240810-shaper.json) |
 | ShapeR | 204936 | [204936-shaper.json](./204936-shaper.json) |
 | Shaper Runners | 231903 | [231903-shaper-runners.json](./231903-shaper-runners.json) |
@@ -12411,6 +12413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Hyper Drive | 220667 | [220667-smash-hyper-drive.json](./220667-smash-hyper-drive.json) |
 | Smash Island | 105785 | [105785-smash-island.json](./105785-smash-island.json) |
 | Smash Karts | 130348 | [130348-smash-karts.json](./130348-smash-karts.json) |
+| Smash Kingdom | 228129 | [228129-smash-kingdom.json](./228129-smash-kingdom.json) |
 | Smash Land | 145571 | [145571-smash-land.json](./145571-smash-land.json) |
 | Smash Legends | 138592 | [138592-smash-legends.json](./138592-smash-legends.json) |
 | Smash MAGA! Trump Zombie Apocalypse | 168336 | [168336-smash-maga-trump-zombie-apocalypse.json](./168336-smash-maga-trump-zombie-apocalypse.json) |
@@ -13568,6 +13571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowscape | 364868 | [364868-snowscape.json](./364868-snowscape.json) |
 | Snowscapes | 244145 | [244145-snowscapes.json](./244145-snowscapes.json) |
 | Snowsquall Grip | 302375 | [302375-snowsquall-grip.json](./302375-snowsquall-grip.json) |
+| Snowsted Royale | 228130 | [228130-snowsted-royale.json](./228130-snowsted-royale.json) |
 | Snowstorm | 405717 | [405717-snowstorm.json](./405717-snowstorm.json) |
 | Snowstorm of despair | 192596 | [192596-snowstorm-of-despair.json](./192596-snowstorm-of-despair.json) |
 | Snowtopia: Ski Resort Builder | 113363 | [113363-snowtopia-ski-resort-builder.json](./113363-snowtopia-ski-resort-builder.json) |
@@ -13743,6 +13747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Manager Arena | 28632 | [28632-soccer-manager-arena.json](./28632-soccer-manager-arena.json) |
 | Soccer Manager Crypto | 109908 | [109908-soccer-manager-crypto.json](./109908-soccer-manager-crypto.json) |
 | Soccer Manager Pro | 64784 | [64784-soccer-manager-pro.json](./64784-soccer-manager-pro.json) |
+| Soccer Master | 228131 | [228131-soccer-master.json](./228131-soccer-master.json) |
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
 | Soccer Nations Battle | 100368 | [100368-soccer-nations-battle.json](./100368-soccer-nations-battle.json) |
 | Soccer Nations: Brazil | 137399 | [137399-soccer-nations-brazil.json](./137399-soccer-nations-brazil.json) |
@@ -14167,6 +14172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solarix | 17146 | [17146-solarix.json](./17146-solarix.json) |
 | Solarland | 212459 | [212459-solarland.json](./212459-solarland.json) |
 | Solarmax | 388044 | [388044-solarmax.json](./388044-solarmax.json) |
+| Solarmax III | 228132 | [228132-solarmax-iii.json](./228132-solarmax-iii.json) |
 | Solaroids: Prologue | 29314 | [29314-solaroids-prologue.json](./29314-solaroids-prologue.json) |
 | Solarpower | 118766 | [118766-solarpower.json](./118766-solarpower.json) |
 | Solarpunk | 194950 | [194950-solarpunk.json](./194950-solarpunk.json) |
@@ -18653,6 +18659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Alley | 25079 | [25079-spider-alley.json](./25079-spider-alley.json) |
 | Spider Amazing Battle Fighting | 193828 | [193828-spider-amazing-battle-fighting.json](./193828-spider-amazing-battle-fighting.json) |
 | Spider and Web | 91916 | [91916-spider-and-web.json](./91916-spider-and-web.json) |
+| Spider Ball | 228133 | [228133-spider-ball.json](./228133-spider-ball.json) |
 | Spider Bike | 359463 | [359463-spider-bike.json](./359463-spider-bike.json) |
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
 | Spider Canyon | 332990 | [332990-spider-canyon.json](./332990-spider-canyon.json) |
@@ -22267,6 +22274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Startrail Destiny | 105039 | [105039-startrail-destiny.json](./105039-startrail-destiny.json) |
 | StarTrash | 68347 | [68347-startrash.json](./68347-startrash.json) |
 | Startron | 333022 | [333022-startron.json](./333022-startron.json) |
+| StarTron | 228038 | [228038-startron.json](./228038-startron.json) |
 | StarTropics | 15901 | [15901-startropics.json](./15901-startropics.json) |
 | Startup Company: Console Edition | 228020 | [228020-startup-company-console-edition.json](./228020-startup-company-console-edition.json) |
 | Startup Freak | 74369 | [74369-startup-freak.json](./74369-startup-freak.json) |
@@ -23186,6 +23194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Part | 18926 | [18926-stick-part.json](./18926-stick-part.json) |
 | Stick Ragdoll Battle Simulator | 348149 | [348149-stick-ragdoll-battle-simulator.json](./348149-stick-ragdoll-battle-simulator.json) |
 | Stick Ranger | 57898 | [57898-stick-ranger.json](./57898-stick-ranger.json) |
+| Stick Revenge | 228134 | [228134-stick-revenge.json](./228134-stick-revenge.json) |
 | Stick Robot Puzzle | 303665 | [303665-stick-robot-puzzle.json](./303665-stick-robot-puzzle.json) |
 | Stick Royale | 117373 | [117373-stick-royale.json](./117373-stick-royale.json) |
 | Stick RPG | 97975 | [97975-stick-rpg.json](./97975-stick-rpg.json) |
@@ -25452,6 +25461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Attack Zero Point | 366242 | [366242-sudden-attack-zero-point.json](./366242-sudden-attack-zero-point.json) |
 | Sudden Death | 299079 | [299079-sudden-death.json](./299079-sudden-death.json) |
 | Sudden Death Air Hockey | 197633 | [197633-sudden-death-air-hockey.json](./197633-sudden-death-air-hockey.json) |
+| Sudden Market | 228055 | [228055-sudden-market.json](./228055-sudden-market.json) |
 | Sudden Market: Free Cosmetic DLC | 286982 | [286982-sudden-market-free-cosmetic-dlc.json](./286982-sudden-market-free-cosmetic-dlc.json) |
 | Sudden Soul | 325335 | [325335-sudden-soul.json](./325335-sudden-soul.json) |
 | Sudden Strike | 11794 | [11794-sudden-strike.json](./11794-sudden-strike.json) |
@@ -26509,6 +26519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 | 29484 | [29484-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2.json](./29484-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - XPack II: Call of Koithulhu | 172367 | [172367-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-xpack-ii-call-of-koithulhu.json](./172367-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-xpack-ii-call-of-koithulhu.json) |
+| Super Arrow Online | 228135 | [228135-super-arrow-online.json](./228135-super-arrow-online.json) |
 | Super Arter | 287022 | [287022-super-arter.json](./287022-super-arter.json) |
 | Super Artificial Intelligence Psike | 216871 | [216871-super-artificial-intelligence-psike.json](./216871-super-artificial-intelligence-psike.json) |
 | Super Asqr | 199370 | [199370-super-asqr.json](./199370-super-asqr.json) |
