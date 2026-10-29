@@ -2212,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gearz | 71763 | [71763-gearz.json](./71763-gearz.json) |
 | Gearzbound | 199974 | [199974-gearzbound.json](./199974-gearzbound.json) |
 | Geas | 228695 | [228695-geas.json](./228695-geas.json) |
+| GeaSaga | 180392 | [180392-geasaga.json](./180392-geasaga.json) |
 | Geballer | 203635 | [203635-geballer.json](./203635-geballer.json) |
 | Gebinden | 387616 | [387616-gebinden.json](./387616-gebinden.json) |
 | Gebub's Adventure | 31869 | [31869-gebubs-adventure.json](./31869-gebubs-adventure.json) |
