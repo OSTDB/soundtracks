@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Fencer F: Advent Dark Force - Deluxe Edition | 186883 | [186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json](./186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json) |
 | Fairy Fencer F: Advent Dark Force DLC Bundle | 227385 | [227385-fairy-fencer-f-advent-dark-force-dlc-bundle.json](./227385-fairy-fencer-f-advent-dark-force-dlc-bundle.json) |
 | Fairy Fencer F: Refrain Chord | 203092 | [203092-fairy-fencer-f-refrain-chord.json](./203092-fairy-fencer-f-refrain-chord.json) |
+| Fairy Fencer F: Refrain Chord - Digital Deluxe Edition | 220420 | [220420-fairy-fencer-f-refrain-chord-digital-deluxe-edition.json](./220420-fairy-fencer-f-refrain-chord-digital-deluxe-edition.json) |
 | Fairy Fencer F: Refrain Chord - Limited Edition | 205257 | [205257-fairy-fencer-f-refrain-chord-limited-edition.json](./205257-fairy-fencer-f-refrain-chord-limited-edition.json) |
 | Fairy Fire: Defender of the Fairies | 132775 | [132775-fairy-fire-defender-of-the-fairies.json](./132775-fairy-fire-defender-of-the-fairies.json) |
 | Fairy Forge | 418282 | [418282-fairy-forge.json](./418282-fairy-forge.json) |
@@ -12059,6 +12060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury Race Survivor | 273491 | [273491-fury-race-survivor.json](./273491-fury-race-survivor.json) |
 | Fury Roads Survivor | 243322 | [243322-fury-roads-survivor.json](./243322-fury-roads-survivor.json) |
 | Fury Strike | 107918 | [107918-fury-strike.json](./107918-fury-strike.json) |
+| Fury Turn | 220421 | [220421-fury-turn.json](./220421-fury-turn.json) |
 | Fury! | 372209 | [372209-fury.json](./372209-fury.json) |
 | Fury's Path: To The Stars | 384299 | [384299-furys-path-to-the-stars.json](./384299-furys-path-to-the-stars.json) |
 | Fury's Sky | 121334 | [121334-furys-sky.json](./121334-furys-sky.json) |
