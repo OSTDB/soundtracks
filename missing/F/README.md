@@ -2422,10 +2422,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 2014 | 3181 | [3181-farming-simulator-2014.json](./3181-farming-simulator-2014.json) |
 | Farming Simulator 22 | 146112 | [146112-farming-simulator-22.json](./146112-farming-simulator-22.json) |
 | Farming Simulator 22 - Year 2 Season Pass | 231004 | [231004-farming-simulator-22-year-2-season-pass.json](./231004-farming-simulator-22-year-2-season-pass.json) |
+| Farming Simulator 22: Antonio Carraro Pack | 206529 | [206529-farming-simulator-22-antonio-carraro-pack.json](./206529-farming-simulator-22-antonio-carraro-pack.json) |
 | Farming Simulator 22: Case IH Farmall Anniversary Pack | 276271 | [276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json](./276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json) |
 | Farming Simulator 22: Claas Xerion Saddle Trac Pack | 206532 | [206532-farming-simulator-22-claas-xerion-saddle-trac-pack.json](./206532-farming-simulator-22-claas-xerion-saddle-trac-pack.json) |
 | Farming Simulator 22: ERO Grapeliner Series 7000 | 214366 | [214366-farming-simulator-22-ero-grapeliner-series-7000.json](./214366-farming-simulator-22-ero-grapeliner-series-7000.json) |
 | Farming Simulator 22: Farm Production Pack | 296643 | [296643-farming-simulator-22-farm-production-pack.json](./296643-farming-simulator-22-farm-production-pack.json) |
+| Farming Simulator 22: Fendt 900 Black Beauty | 206530 | [206530-farming-simulator-22-fendt-900-black-beauty.json](./206530-farming-simulator-22-fendt-900-black-beauty.json) |
 | Farming Simulator 22: Göweil Pack | 239013 | [239013-farming-simulator-22-goweil-pack.json](./239013-farming-simulator-22-goweil-pack.json) |
 | Farming Simulator 22: Mack Trucks - Black Anthem | 206531 | [206531-farming-simulator-22-mack-trucks-black-anthem.json](./206531-farming-simulator-22-mack-trucks-black-anthem.json) |
 | Farming Simulator 22: OXBO Pack | 265460 | [265460-farming-simulator-22-oxbo-pack.json](./265460-farming-simulator-22-oxbo-pack.json) |
@@ -2436,6 +2438,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 22: Pumps n' Hoses Pack | 210271 | [210271-farming-simulator-22-pumps-n-hoses-pack.json](./210271-farming-simulator-22-pumps-n-hoses-pack.json) |
 | Farming Simulator 22: Vermeer Pack | 210269 | [210269-farming-simulator-22-vermeer-pack.json](./210269-farming-simulator-22-vermeer-pack.json) |
 | Farming Simulator 22: Volvo LM 845 | 228402 | [228402-farming-simulator-22-volvo-lm-845.json](./228402-farming-simulator-22-volvo-lm-845.json) |
+| Farming Simulator 22: Year 1 Season Pass | 206528 | [206528-farming-simulator-22-year-1-season-pass.json](./206528-farming-simulator-22-year-1-season-pass.json) |
+| Farming Simulator 22: Zetor 25 K | 206527 | [206527-farming-simulator-22-zetor-25-k.json](./206527-farming-simulator-22-zetor-25-k.json) |
 | Farming Simulator 23 Mobile | 250936 | [250936-farming-simulator-23-mobile.json](./250936-farming-simulator-23-mobile.json) |
 | Farming Simulator 25 | 306822 | [306822-farming-simulator-25.json](./306822-farming-simulator-25.json) |
 | Farming Simulator 25: Highlands Fishing Edition | 352917 | [352917-farming-simulator-25-highlands-fishing-edition.json](./352917-farming-simulator-25-highlands-fishing-edition.json) |
@@ -6538,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Souls | 249191 | [249191-flappy-souls.json](./249191-flappy-souls.json) |
 | Flappy Spaceship | 185420 | [185420-flappy-spaceship.json](./185420-flappy-spaceship.json) |
 | Flappy Special | 64124 | [64124-flappy-special.json](./64124-flappy-special.json) |
+| Flappy Tobari | 206507 | [206507-flappy-tobari.json](./206507-flappy-tobari.json) |
 | Flappy Toss | 266151 | [266151-flappy-toss.json](./266151-flappy-toss.json) |
 | Flappy Trumpadore | 28206 | [28206-flappy-trumpadore.json](./28206-flappy-trumpadore.json) |
 | Flappy Ugandan Knuckles | 308965 | [308965-flappy-ugandan-knuckles.json](./308965-flappy-ugandan-knuckles.json) |
