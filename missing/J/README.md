@@ -2898,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Stop | 81927 | [81927-jump-stop.json](./81927-jump-stop.json) |
 | Jump Tanks | 36330 | [36330-jump-tanks.json](./36330-jump-tanks.json) |
 | Jump the Crank | 365143 | [365143-jump-the-crank.json](./365143-jump-the-crank.json) |
+| Jump the Gun | 227450 | [227450-jump-the-gun.json](./227450-jump-the-gun.json) |
 | Jump the Track | 341994 | [341994-jump-the-track.json](./341994-jump-the-track.json) |
 | Jump to Die!! | 29758 | [29758-jump-to-die.json](./29758-jump-to-die.json) |
 | Jump To Stratos | 376567 | [376567-jump-to-stratos.json](./376567-jump-to-stratos.json) |
