@@ -847,7 +847,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11038,6 +11037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombagun | 188112 | [188112-bombagun.json](./188112-bombagun.json) |
 | Bombanana! | 404342 | [404342-bombanana.json](./404342-bombanana.json) |
 | Bombard | 258437 | [258437-bombard.json](./258437-bombard.json) |
+| Bombardier | 196965 | [196965-bombardier.json](./196965-bombardier.json) |
 | Bombardiro Crocodilo Mission | 370195 | [370195-bombardiro-crocodilo-mission.json](./370195-bombardiro-crocodilo-mission.json) |
 | Bombardiro Crocodilo Simulator | 349300 | [349300-bombardiro-crocodilo-simulator.json](./349300-bombardiro-crocodilo-simulator.json) |
 | Bombardiro Crocodilo: Italian Brainrot Simulator | 344481 | [344481-bombardiro-crocodilo-italian-brainrot-simulator.json](./344481-bombardiro-crocodilo-italian-brainrot-simulator.json) |
@@ -12889,6 +12889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bramble Royale: A Meteorfall Story | 317991 | [317991-bramble-royale-a-meteorfall-story.json](./317991-bramble-royale-a-meteorfall-story.json) |
 | Bramble Sling | 421453 | [421453-bramble-sling.json](./421453-bramble-sling.json) |
 | Brambles in the Mist | 168338 | [168338-brambles-in-the-mist.json](./168338-brambles-in-the-mist.json) |
+| Bramblewood | 196968 | [196968-bramblewood.json](./196968-bramblewood.json) |
 | Braminar | 80614 | [80614-braminar.json](./80614-braminar.json) |
 | Branchbound: Launch of the Logs | 377064 | [377064-branchbound-launch-of-the-logs.json](./377064-branchbound-launch-of-the-logs.json) |
 | Branches | 165725 | [165725-branches.json](./165725-branches.json) |
@@ -15627,6 +15628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burgle Supply Company | 372804 | [372804-burgle-supply-company.json](./372804-burgle-supply-company.json) |
 | Burial Ground | 268602 | [268602-burial-ground.json](./268602-burial-ground.json) |
 | Burial Ground | 375554 | [375554-burial-ground.json](./375554-burial-ground.json) |
+| Burial Stone | 196988 | [196988-burial-stone.json](./196988-burial-stone.json) |
 | BuriBoard | 173256 | [173256-buriboard.json](./173256-buriboard.json) |
 | Buried | 272235 | [272235-buried.json](./272235-buried.json) |
 | Buried | 380046 | [380046-buried.json](./380046-buried.json) |
