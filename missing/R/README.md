@@ -4135,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rekoil: Liberator | 20867 | [20867-rekoil-liberator.json](./20867-rekoil-liberator.json) |
 | Reksio i Czarodzieje | 82038 | [82038-reksio-i-czarodzieje.json](./82038-reksio-i-czarodzieje.json) |
 | Reksio i Kapitan Nemo | 156177 | [156177-reksio-i-kapitan-nemo.json](./156177-reksio-i-kapitan-nemo.json) |
+| Reksio i Kretes w Akcji! | 218257 | [218257-reksio-i-kretes-w-akcji.json](./218257-reksio-i-kretes-w-akcji.json) |
 | Reksio i Kretes: Odkop | 227680 | [227680-reksio-i-kretes-odkop.json](./227680-reksio-i-kretes-odkop.json) |
 | Reksio i Kretes: Sermageddon | 327397 | [327397-reksio-i-kretes-sermageddon.json](./327397-reksio-i-kretes-sermageddon.json) |
 | Reksio i Kretes: Tajemnica Trzeciego Wymiaru | 218499 | [218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json](./218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json) |
@@ -6828,6 +6829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Empire: King's Landing | 100853 | [100853-rise-of-empire-kings-landing.json](./100853-rise-of-empire-kings-landing.json) |
 | Rise of Empires: Ice and Fire | 178335 | [178335-rise-of-empires-ice-and-fire.json](./178335-rise-of-empires-ice-and-fire.json) |
 | Rise of Enigmas | 286780 | [286780-rise-of-enigmas.json](./286780-rise-of-enigmas.json) |
+| Rise of Eros | 218247 | [218247-rise-of-eros.json](./218247-rise-of-eros.json) |
 | Rise of Flight United | 16573 | [16573-rise-of-flight-united.json](./16573-rise-of-flight-united.json) |
 | Rise of Flight United: Battle of Saint-Mihiel | 162751 | [162751-rise-of-flight-united-battle-of-saint-mihiel.json](./162751-rise-of-flight-united-battle-of-saint-mihiel.json) |
 | Rise of Flight United: Birth of Warbirds | 162750 | [162750-rise-of-flight-united-birth-of-warbirds.json](./162750-rise-of-flight-united-birth-of-warbirds.json) |
