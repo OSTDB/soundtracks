@@ -3178,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bruise | 28320 | [28320-battle-bruise.json](./28320-battle-bruise.json) |
 | Battle Bugs | 12402 | [12402-battle-bugs.json](./12402-battle-bugs.json) |
 | Battle Bugs | 333490 | [333490-battle-bugs.json](./333490-battle-bugs.json) |
+| Battle Bundle I Stickman: Far East Battle and Battle of Archers | 180969 | [180969-battle-bundle-i-stickman-far-east-battle-and-battle-of-archers.json](./180969-battle-bundle-i-stickman-far-east-battle-and-battle-of-archers.json) |
 | Battle Buzz: The Great Honey War | 114718 | [114718-battle-buzz-the-great-honey-war.json](./114718-battle-buzz-the-great-honey-war.json) |
 | Battle Calculator | 165562 | [165562-battle-calculator.json](./165562-battle-calculator.json) |
 | Battle Camp | 38887 | [38887-battle-camp.json](./38887-battle-camp.json) |
@@ -4957,6 +4958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatstar: Ultimate Studio, Tim Spicer, Yahor Milkota - "Hotshot (Hot Lap League Theme)" | 358784 | [358784-beatstar-ultimate-studio-tim-spicer-yahor-milkota-hotshot-hot-lap-league-theme.json](./358784-beatstar-ultimate-studio-tim-spicer-yahor-milkota-hotshot-hot-lap-league-theme.json) |
 | Beatstar: Yeah Yeah Yeahs - "Heads Will Roll" | 358783 | [358783-beatstar-yeah-yeah-yeahs-heads-will-roll.json](./358783-beatstar-yeah-yeah-yeahs-heads-will-roll.json) |
 | BeatStream AnimTribe | 395961 | [395961-beatstream-animtribe.json](./395961-beatstream-animtribe.json) |
+| BeatTalk | 180973 | [180973-beattalk.json](./180973-beattalk.json) |
 | Beatus Creation Solitaire | 201004 | [201004-beatus-creation-solitaire.json](./201004-beatus-creation-solitaire.json) |
 | Beatworks Inc. | 386444 | [386444-beatworks-inc.json](./386444-beatworks-inc.json) |
 | Beau & Bow | 236462 | [236462-beau-and-bow.json](./236462-beau-and-bow.json) |
@@ -9625,6 +9627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood and Bones: A Skeleton Scorned | 262312 | [262312-blood-and-bones-a-skeleton-scorned.json](./262312-blood-and-bones-a-skeleton-scorned.json) |
 | Blood and Brass | 395386 | [395386-blood-and-brass.json](./395386-blood-and-brass.json) |
 | Blood And Fear: Part 1 | 293104 | [293104-blood-and-fear-part-1.json](./293104-blood-and-fear-part-1.json) |
+| Blood and goods | 180949 | [180949-blood-and-goods.json](./180949-blood-and-goods.json) |
 | Blood and Guts Bundle | 147758 | [147758-blood-and-guts-bundle.json](./147758-blood-and-guts-bundle.json) |
 | Blood and Jade | 62706 | [62706-blood-and-jade.json](./62706-blood-and-jade.json) |
 | Blood and Ruby | 135251 | [135251-blood-and-ruby.json](./135251-blood-and-ruby.json) |
@@ -12558,6 +12561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Smash | 308298 | [308298-box-smash.json](./308298-box-smash.json) |
 | Box Stocks | 348756 | [348756-box-stocks.json](./348756-box-stocks.json) |
 | Box Survivors World | 172984 | [172984-box-survivors-world.json](./172984-box-survivors-world.json) |
+| Box That Ball | 180975 | [180975-box-that-ball.json](./180975-box-that-ball.json) |
 | Box the Beat VR | 160213 | [160213-box-the-beat-vr.json](./160213-box-the-beat-vr.json) |
 | Box to Box | 208454 | [208454-box-to-box.json](./208454-box-to-box.json) |
 | Box to the Beat VR | 207448 | [207448-box-to-the-beat-vr.json](./207448-box-to-the-beat-vr.json) |
