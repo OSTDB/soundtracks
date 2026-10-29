@@ -3815,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Hina | 185590 | [185590-catch-hina.json](./185590-catch-hina.json) |
 | Catch Idle: Dimension Warp Story | 208038 | [208038-catch-idle-dimension-warp-story.json](./208038-catch-idle-dimension-warp-story.json) |
 | Catch It | 380611 | [380611-catch-it.json](./380611-catch-it.json) |
+| Catch it! | 179310 | [179310-catch-it.json](./179310-catch-it.json) |
 | Catch Me | 286968 | [286968-catch-me.json](./286968-catch-me.json) |
 | Catch Me If You Can | 143716 | [143716-catch-me-if-you-can.json](./143716-catch-me-if-you-can.json) |
 | Catch Me If You Can | 289386 | [289386-catch-me-if-you-can.json](./289386-catch-me-if-you-can.json) |
@@ -4857,6 +4858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChainBeet | 292615 | [292615-chainbeet.json](./292615-chainbeet.json) |
 | Chainbound | 384797 | [384797-chainbound.json](./384797-chainbound.json) |
 | Chaincards | 179370 | [179370-chaincards.json](./179370-chaincards.json) |
+| Chaincards: A Poppo Story | 179347 | [179347-chaincards-a-poppo-story.json](./179347-chaincards-a-poppo-story.json) |
 | ChainDive | 66743 | [66743-chaindive.json](./66743-chaindive.json) |
 | Chained | 309352 | [309352-chained.json](./309352-chained.json) |
 | Chained 2 Violence | 346691 | [346691-chained-2-violence.json](./346691-chained-2-violence.json) |
@@ -9828,6 +9830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Vein: Hellfire Knight | 129134 | [129134-code-vein-hellfire-knight.json](./129134-code-vein-hellfire-knight.json) |
 | Code Vein: Lord of Thunder | 131954 | [131954-code-vein-lord-of-thunder.json](./131954-code-vein-lord-of-thunder.json) |
 | Code Vein: Season Pass | 131955 | [131955-code-vein-season-pass.json](./131955-code-vein-season-pass.json) |
+| Code War | 179316 | [179316-code-war.json](./179316-code-war.json) |
 | Code Zero | 123997 | [123997-code-zero.json](./123997-code-zero.json) |
 | Code Zero | 161896 | [161896-code-zero.json](./161896-code-zero.json) |
 | Code Zero | 174081 | [174081-code-zero.json](./174081-code-zero.json) |
@@ -12412,6 +12415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convenient Encounters | 236501 | [236501-convenient-encounters.json](./236501-convenient-encounters.json) |
 | Convent Chronicles: Revelation | 371397 | [371397-convent-chronicles-revelation.json](./371397-convent-chronicles-revelation.json) |
 | Convent Of Magical Chambers | 404962 | [404962-convent-of-magical-chambers.json](./404962-convent-of-magical-chambers.json) |
+| Conventional Tennis! | 179342 | [179342-conventional-tennis.json](./179342-conventional-tennis.json) |
 | Conventional Vampires | 301407 | [301407-conventional-vampires.json](./301407-conventional-vampires.json) |
 | Convento | 290769 | [290769-convento.json](./290769-convento.json) |
 | Convergence | 225517 | [225517-convergence.json](./225517-convergence.json) |
@@ -17638,6 +17642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute & Cozy Relax 5‑in‑1 | 410841 | [410841-cute-and-cozy-relax-5-in-1.json](./410841-cute-and-cozy-relax-5-in-1.json) |
 | Cute & Dead | 408863 | [408863-cute-and-dead.json](./408863-cute-and-dead.json) |
 | Cute & Tiny Holidays - Summer Family Travel | 108242 | [108242-cute-and-tiny-holidays-summer-family-travel.json](./108242-cute-and-tiny-holidays-summer-family-travel.json) |
+| Cute Adblocker | 179334 | [179334-cute-adblocker.json](./179334-cute-adblocker.json) |
 | Cute Adventure | 114323 | [114323-cute-adventure.json](./114323-cute-adventure.json) |
 | Cute and Creepy | 241412 | [241412-cute-and-creepy.json](./241412-cute-and-creepy.json) |
 | Cute animal jigsaw puzzle | 159856 | [159856-cute-animal-jigsaw-puzzle.json](./159856-cute-animal-jigsaw-puzzle.json) |
