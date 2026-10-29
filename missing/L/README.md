@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinthus: Episode 1 | 168697 | [168697-labyrinthus-episode-1.json](./168697-labyrinthus-episode-1.json) |
 | Labyris | 363149 | [363149-labyris.json](./363149-labyris.json) |
 | Labyrneath | 111055 | [111055-labyrneath.json](./111055-labyrneath.json) |
+| Labyrneath II | 225360 | [225360-labyrneath-ii.json](./225360-labyrneath-ii.json) |
 | Labyronia 2 | 137691 | [137691-labyronia-2.json](./137691-labyronia-2.json) |
 | Labyronia RPG | 34725 | [34725-labyronia-rpg.json](./34725-labyronia-rpg.json) |
 | Labyronia RPG 2 | 34593 | [34593-labyronia-rpg-2.json](./34593-labyronia-rpg-2.json) |
