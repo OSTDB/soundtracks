@@ -2589,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scholar Adventure: Lost Night | 418529 | [418529-scholar-adventure-lost-night.json](./418529-scholar-adventure-lost-night.json) |
 | Scholar Adventure: Mystery of Silence | 361808 | [361808-scholar-adventure-mystery-of-silence.json](./361808-scholar-adventure-mystery-of-silence.json) |
 | Scholar of the Arcane Arts | 188615 | [188615-scholar-of-the-arcane-arts.json](./188615-scholar-of-the-arcane-arts.json) |
+| Scholar of the First Sin Ascended Mod | 194759 | [194759-scholar-of-the-first-sin-ascended-mod.json](./194759-scholar-of-the-first-sin-ascended-mod.json) |
 | Scholar Quest | 175612 | [175612-scholar-quest.json](./175612-scholar-quest.json) |
 | Scholastic Animal Genius | 91744 | [91744-scholastic-animal-genius.json](./91744-scholastic-animal-genius.json) |
 | Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
@@ -10982,6 +10983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Gamblers - Infinite Jets | 86688 | [86688-sky-gamblers-infinite-jets.json](./86688-sky-gamblers-infinite-jets.json) |
 | Sky Gamblers Races | 106362 | [106362-sky-gamblers-races.json](./106362-sky-gamblers-races.json) |
 | Sky Gamblers: Afterburner | 115109 | [115109-sky-gamblers-afterburner.json](./115109-sky-gamblers-afterburner.json) |
+| Sky Gamblers: Air Supremacy 2 | 194752 | [194752-sky-gamblers-air-supremacy-2.json](./194752-sky-gamblers-air-supremacy-2.json) |
 | Sky Gamblers: Rise of Glory | 214341 | [214341-sky-gamblers-rise-of-glory.json](./214341-sky-gamblers-rise-of-glory.json) |
 | Sky Gamblers: Storm Raiders | 17497 | [17497-sky-gamblers-storm-raiders.json](./17497-sky-gamblers-storm-raiders.json) |
 | Sky Gamblers: Storm Raiders 2 | 112078 | [112078-sky-gamblers-storm-raiders-2.json](./112078-sky-gamblers-storm-raiders-2.json) |
@@ -16530,6 +16532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Horizons | 304882 | [304882-sound-horizons.json](./304882-sound-horizons.json) |
 | Sound Lock | 261785 | [261785-sound-lock.json](./261785-sound-lock.json) |
 | Sound Mind | 275662 | [275662-sound-mind.json](./275662-sound-mind.json) |
+| Sound Novel Evolution 1: Otogirisou Sosei-Hen | 194817 | [194817-sound-novel-evolution-1-otogirisou-sosei-hen.json](./194817-sound-novel-evolution-1-otogirisou-sosei-hen.json) |
 | Sound Novel Evolution 2: Kamaitachi no Yoru Tokubetsu-hen | 178334 | [178334-sound-novel-evolution-2-kamaitachi-no-yoru-tokubetsu-hen.json](./178334-sound-novel-evolution-2-kamaitachi-no-yoru-tokubetsu-hen.json) |
 | Sound Novel Tsukuuru Taiou: Okiraku Kouza | 234882 | [234882-sound-novel-tsukuuru-taiou-okiraku-kouza.json](./234882-sound-novel-tsukuuru-taiou-okiraku-kouza.json) |
 | Sound Novel Tsukuuru Taiou: Zapping Gekijou | 234883 | [234883-sound-novel-tsukuuru-taiou-zapping-gekijou.json](./234883-sound-novel-tsukuuru-taiou-zapping-gekijou.json) |
@@ -18076,6 +18079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparrows | 197795 | [197795-sparrows.json](./197795-sparrows.json) |
 | SparSpecial | 292547 | [292547-sparspecial.json](./292547-sparspecial.json) |
 | Sparta Anthology | 324565 | [324565-sparta-anthology.json](./324565-sparta-anthology.json) |
+| Sparta: War of Empires | 194783 | [194783-sparta-war-of-empires.json](./194783-sparta-war-of-empires.json) |
 | Spartacus Blood Arena | 370447 | [370447-spartacus-blood-arena.json](./370447-spartacus-blood-arena.json) |
 | Spartacus Legends | 2326 | [2326-spartacus-legends.json](./2326-spartacus-legends.json) |
 | Spartacus: Blood and Sand | 66648 | [66648-spartacus-blood-and-sand.json](./66648-spartacus-blood-and-sand.json) |
@@ -23997,6 +24001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StormEdge | 240652 | [240652-stormedge.json](./240652-stormedge.json) |
 | StormEdge: Wind of Change | 244691 | [244691-stormedge-wind-of-change.json](./244691-stormedge-wind-of-change.json) |
 | Stormfall: Age of War | 21677 | [21677-stormfall-age-of-war.json](./21677-stormfall-age-of-war.json) |
+| Stormfall: Rise of Balur | 194784 | [194784-stormfall-rise-of-balur.json](./194784-stormfall-rise-of-balur.json) |
 | Stormfall: Saga of Survival | 105787 | [105787-stormfall-saga-of-survival.json](./105787-stormfall-saga-of-survival.json) |
 | Stormforge | 305188 | [305188-stormforge.json](./305188-stormforge.json) |
 | Stormgate | 204358 | [204358-stormgate.json](./204358-stormgate.json) |
