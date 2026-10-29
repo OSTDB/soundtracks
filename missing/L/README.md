@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left-Hand Path | 32901 | [32901-left-hand-path.json](./32901-left-hand-path.json) |
 | Left-Right: The Mansion | 114202 | [114202-left-right-the-mansion.json](./114202-left-right-the-mansion.json) |
 | Left. | 265979 | [265979-left.json](./265979-left.json) |
+| Left/Right | 191413 | [191413-left-right.json](./191413-left-right.json) |
 | Left&Right | 86357 | [86357-left-and-right.json](./86357-left-and-right.json) |
 | Lefties' Righteous Arcade Emporium | 289305 | [289305-lefties-righteous-arcade-emporium.json](./289305-lefties-righteous-arcade-emporium.json) |
 | Leftovers | 221977 | [221977-leftovers.json](./221977-leftovers.json) |
@@ -5009,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquor Store Simulator | 326399 | [326399-liquor-store-simulator.json](./326399-liquor-store-simulator.json) |
 | Lirai: Heir Of Darkness | 383597 | [383597-lirai-heir-of-darkness.json](./383597-lirai-heir-of-darkness.json) |
 | LIRE | 145018 | [145018-lire.json](./145018-lire.json) |
+| Lirica | 190347 | [190347-lirica.json](./190347-lirica.json) |
 | Lirili Larila | 353955 | [353955-lirili-larila.json](./353955-lirili-larila.json) |
 | Lis: Achados & Perdidos dos Confins do Universo | 239179 | [239179-lis-achados-and-perdidos-dos-confins-do-universo.json](./239179-lis-achados-and-perdidos-dos-confins-do-universo.json) |
 | Lisa and the Grimoire | 169413 | [169413-lisa-and-the-grimoire.json](./169413-lisa-and-the-grimoire.json) |
@@ -5078,6 +5080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lithoi: Trials of Memory | 172002 | [172002-lithoi-trials-of-memory.json](./172002-lithoi-trials-of-memory.json) |
 | Litter ShiFu | 296623 | [296623-litter-shifu.json](./296623-litter-shifu.json) |
 | Litterbox League | 404654 | [404654-litterbox-league.json](./404654-litterbox-league.json) |
+| Little | 191414 | [191414-little.json](./191414-little.json) |
 | Little Acorns | 64956 | [64956-little-acorns.json](./64956-little-acorns.json) |
 | Little Adventure | 159545 | [159545-little-adventure.json](./159545-little-adventure.json) |
 | Little adventure 2 | 161167 | [161167-little-adventure-2.json](./161167-little-adventure-2.json) |
@@ -6594,6 +6597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop: the distress call | 131949 | [131949-loop-the-distress-call.json](./131949-loop-the-distress-call.json) |
 | Loop2Loop | 183776 | [183776-loop2loop.json](./183776-loop2loop.json) |
 | Loop8: Celestial Edition | 221330 | [221330-loop8-celestial-edition.json](./221330-loop8-celestial-edition.json) |
+| Loop8: Summer of Gods | 191416 | [191416-loop8-summer-of-gods.json](./191416-loop8-summer-of-gods.json) |
 | Loopback | 197014 | [197014-loopback.json](./197014-loopback.json) |
 | Loopbreaker | 395586 | [395586-loopbreaker.json](./395586-loopbreaker.json) |
 | LoopBreaker | 335241 | [335241-loopbreaker.json](./335241-loopbreaker.json) |
@@ -7780,6 +7784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Nikki: Dress Up Queen | 56001 | [56001-love-nikki-dress-up-queen.json](./56001-love-nikki-dress-up-queen.json) |
 | Love Note | 97992 | [97992-love-note.json](./97992-love-note.json) |
 | Love Note 2 | 108924 | [108924-love-note-2.json](./108924-love-note-2.json) |
+| Love Notes | 190336 | [190336-love-notes.json](./190336-love-notes.json) |
 | Love of Dragons | 155846 | [155846-love-of-dragons.json](./155846-love-of-dragons.json) |
 | Love of Magic | 237485 | [237485-love-of-magic.json](./237485-love-of-magic.json) |
 | Love of Magic Book 2: The War | 202759 | [202759-love-of-magic-book-2-the-war.json](./202759-love-of-magic-book-2-the-war.json) |
@@ -8799,6 +8804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luobu | 271067 | [271067-luobu.json](./271067-luobu.json) |
 | Luòchén zhī Yù | 114382 | [114382-luochen-zhi-yu.json](./114382-luochen-zhi-yu.json) |
 | Luonnonvoimat | 390771 | [390771-luonnonvoimat.json](./390771-luonnonvoimat.json) |
+| Lupa | 190319 | [190319-lupa.json](./190319-lupa.json) |
 | Lupin III | 290867 | [290867-lupin-iii.json](./290867-lupin-iii.json) |
 | Lupin III | 46760 | [46760-lupin-iii.json](./46760-lupin-iii.json) |
 | Lupin III Sansei: Cagliostro no Shiro Saikai | 302706 | [302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json](./302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json) |
