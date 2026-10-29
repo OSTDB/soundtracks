@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habitat | 192111 | [192111-habitat.json](./192111-habitat.json) |
 | Habitat | 28717 | [28717-habitat.json](./28717-habitat.json) |
 | Habitat Complex | 312896 | [312896-habitat-complex.json](./312896-habitat-complex.json) |
+| Habitat Rescue: Lion's Pride | 227447 | [227447-habitat-rescue-lions-pride.json](./227447-habitat-rescue-lions-pride.json) |
 | Habitat Shapes | 379161 | [379161-habitat-shapes.json](./379161-habitat-shapes.json) |
 | Habitat Shapes: The Tropical Journey | 401127 | [401127-habitat-shapes-the-tropical-journey.json](./401127-habitat-shapes-the-tropical-journey.json) |
 | Habitatrix | 292242 | [292242-habitatrix.json](./292242-habitatrix.json) |
@@ -5269,6 +5270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Lore: Wind of Soltia | 323649 | [323649-heroes-lore-wind-of-soltia.json](./323649-heroes-lore-wind-of-soltia.json) |
 | Heroes Must Die | 32947 | [32947-heroes-must-die.json](./32947-heroes-must-die.json) |
 | Heroes Must Diee | 155877 | [155877-heroes-must-diee.json](./155877-heroes-must-diee.json) |
+| Heroes Never Die! | 227523 | [227523-heroes-never-die.json](./227523-heroes-never-die.json) |
 | Heroes Never Lose: Professor Puzzler's Perplexing Ploy | 11330 | [11330-heroes-never-lose-professor-puzzlers-perplexing-ploy.json](./11330-heroes-never-lose-professor-puzzlers-perplexing-ploy.json) |
 | Heroes of a Broken Land | 17663 | [17663-heroes-of-a-broken-land.json](./17663-heroes-of-a-broken-land.json) |
 | Heroes of a Broken Land 2 | 114089 | [114089-heroes-of-a-broken-land-2.json](./114089-heroes-of-a-broken-land-2.json) |
