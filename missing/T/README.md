@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Zone | 261641 | [261641-tactical-zone.json](./261641-tactical-zone.json) |
 | TacticalDuty.io | 234036 | [234036-tacticalduty-io.json](./234036-tacticalduty-io.json) |
 | Tacticalunderground Arcade | 154366 | [154366-tacticalunderground-arcade.json](./154366-tacticalunderground-arcade.json) |
+| TactiCats | 197511 | [197511-tacticats.json](./197511-tacticats.json) |
 | Tactichord: Glam Strategy | 375435 | [375435-tactichord-glam-strategy.json](./375435-tactichord-glam-strategy.json) |
 | Tacticool | 112918 | [112918-tacticool.json](./112918-tacticool.json) |
 | Tacticool Champs | 134373 | [134373-tacticool-champs.json](./134373-tacticool-champs.json) |
@@ -682,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisen IQ + | 198204 | [198204-taisen-iq.json](./198204-taisen-iq.json) |
 | Taisen Mahjong | 198202 | [198202-taisen-mahjong.json](./198202-taisen-mahjong.json) |
 | Taisen Net Gimmick: Capcom & Psikyo All Stars | 79738 | [79738-taisen-net-gimmick-capcom-and-psikyo-all-stars.json](./79738-taisen-net-gimmick-capcom-and-psikyo-all-stars.json) |
+| Taisen Panic Bomber | 198031 | [198031-taisen-panic-bomber.json](./198031-taisen-panic-bomber.json) |
 | Taisen Panic Bomber + | 198205 | [198205-taisen-panic-bomber.json](./198205-taisen-panic-bomber.json) |
 | Taisen Reversi | 198209 | [198209-taisen-reversi.json](./198209-taisen-reversi.json) |
 | Taisen Reversi Cross | 198210 | [198210-taisen-reversi-cross.json](./198210-taisen-reversi-cross.json) |
@@ -1543,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamer Saga | 56489 | [56489-tamer-saga.json](./56489-tamer-saga.json) |
 | Tamer Vale | 253840 | [253840-tamer-vale.json](./253840-tamer-vale.json) |
 | Tamerlane | 233633 | [233633-tamerlane.json](./233633-tamerlane.json) |
+| Tameshi | 197497 | [197497-tameshi.json](./197497-tameshi.json) |
 | Tametsi | 72423 | [72423-tametsi.json](./72423-tametsi.json) |
 | Tamiigi and the War O' Bunnies | 337106 | [337106-tamiigi-and-the-war-o-bunnies.json](./337106-tamiigi-and-the-war-o-bunnies.json) |
 | Tamiku | 140952 | [140952-tamiku.json](./140952-tamiku.json) |
@@ -3473,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten Seconds Hero 1 | 309358 | [309358-ten-seconds-hero-1.json](./309358-ten-seconds-hero-1.json) |
 | Ten Seconds Trillion | 241392 | [241392-ten-seconds-trillion.json](./241392-ten-seconds-trillion.json) |
 | Ten Shot | 310268 | [310268-ten-shot.json](./310268-ten-shot.json) |
+| Ten Tales from the Record of the Adamant Gambit | 198024 | [198024-ten-tales-from-the-record-of-the-adamant-gambit.json](./198024-ten-tales-from-the-record-of-the-adamant-gambit.json) |
 | Ten Ten | 318463 | [318463-ten-ten.json](./318463-ten-ten.json) |
 | Ten Thousand Immortals | 284287 | [284287-ten-thousand-immortals.json](./284287-ten-thousand-immortals.json) |
 | Ten trials of Archer | 175200 | [175200-ten-trials-of-archer.json](./175200-ten-trials-of-archer.json) |
@@ -3854,6 +3858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Hacker | 30854 | [30854-terminal-hacker.json](./30854-terminal-hacker.json) |
 | Terminal Hacker - Into the Deep | 35935 | [35935-terminal-hacker-into-the-deep.json](./35935-terminal-hacker-into-the-deep.json) |
 | Terminal House | 301296 | [301296-terminal-house.json](./301296-terminal-house.json) |
+| Terminal Insanity: RackJacker | 197523 | [197523-terminal-insanity-rackjacker.json](./197523-terminal-insanity-rackjacker.json) |
 | Terminal Interface for Models RCM301-303 | 364625 | [364625-terminal-interface-for-models-rcm301-303.json](./364625-terminal-interface-for-models-rcm301-303.json) |
 | Terminal Land | 138515 | [138515-terminal-land.json](./138515-terminal-land.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
@@ -5143,6 +5148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ancient Art of Staying Alive | 134268 | [134268-the-ancient-art-of-staying-alive.json](./134268-the-ancient-art-of-staying-alive.json) |
 | The Ancient Art of War | 14600 | [14600-the-ancient-art-of-war.json](./14600-the-ancient-art-of-war.json) |
 | The Ancient Art of War in the Skies | 11901 | [11901-the-ancient-art-of-war-in-the-skies.json](./11901-the-ancient-art-of-war-in-the-skies.json) |
+| The Ancient Cat Temple | 197521 | [197521-the-ancient-cat-temple.json](./197521-the-ancient-cat-temple.json) |
 | The Ancient Key | 179562 | [179562-the-ancient-key.json](./179562-the-ancient-key.json) |
 | The Ancient Land of Ys | 2411 | [2411-the-ancient-land-of-ys.json](./2411-the-ancient-land-of-ys.json) |
 | The Ancient Magus' Bride: Midsummer Pilgrimage | 336511 | [336511-the-ancient-magus-bride-midsummer-pilgrimage.json](./336511-the-ancient-magus-bride-midsummer-pilgrimage.json) |
@@ -6030,6 +6036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Breach: A VR Escape Game | 120119 | [120119-the-breach-a-vr-escape-game.json](./120119-the-breach-a-vr-escape-game.json) |
 | The Bread Must Rise | 245926 | [245926-the-bread-must-rise.json](./245926-the-bread-must-rise.json) |
 | The Bread Pub Brawlers | 86118 | [86118-the-bread-pub-brawlers.json](./86118-the-bread-pub-brawlers.json) |
+| The Breadmaker | 197524 | [197524-the-breadmaker.json](./197524-the-breadmaker.json) |
 | The Break-In | 199298 | [199298-the-break-in.json](./199298-the-break-in.json) |
 | The BreakFive | 339214 | [339214-the-breakfive.json](./339214-the-breakfive.json) |
 | the Breath. | 59242 | [59242-the-breath.json](./59242-the-breath.json) |
@@ -26811,6 +26818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trekking and Camping | 167262 | [167262-trekking-and-camping.json](./167262-trekking-and-camping.json) |
 | TrekkingAndCamping | 279148 | [279148-trekkingandcamping.json](./279148-trekkingandcamping.json) |
 | Trelet: The Land of Words | 183810 | [183810-trelet-the-land-of-words.json](./183810-trelet-the-land-of-words.json) |
+| Tremblay Island | 197515 | [197515-tremblay-island.json](./197515-tremblay-island.json) |
 | Trembling Dots | 128620 | [128620-trembling-dots.json](./128620-trembling-dots.json) |
 | Tremen | 166218 | [166218-tremen.json](./166218-tremen.json) |
 | Tremor | 410866 | [410866-tremor.json](./410866-tremor.json) |
