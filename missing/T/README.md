@@ -6062,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Button Be | 213629 | [213629-the-button-be.json](./213629-the-button-be.json) |
 | The Button Be: Daylight | 225589 | [225589-the-button-be-daylight.json](./225589-the-button-be-daylight.json) |
 | The Button Be: Fields | 217542 | [217542-the-button-be-fields.json](./217542-the-button-be-fields.json) |
+| The Button Be: Mizzle | 228050 | [228050-the-button-be-mizzle.json](./228050-the-button-be-mizzle.json) |
 | The Button Be: Unexpected | 217543 | [217543-the-button-be-unexpected.json](./217543-the-button-be-unexpected.json) |
 | The Button by Elendow | 238612 | [238612-the-button-by-elendow.json](./238612-the-button-by-elendow.json) |
 | The Button Effect | 342839 | [342839-the-button-effect.json](./342839-the-button-effect.json) |
@@ -9666,6 +9667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Impossible Game | 6777 | [6777-the-impossible-game.json](./6777-the-impossible-game.json) |
 | The Impossible Game 2 | 193311 | [193311-the-impossible-game-2.json](./193311-the-impossible-game-2.json) |
 | The Impossible Knight Runner | 215740 | [215740-the-impossible-knight-runner.json](./215740-the-impossible-knight-runner.json) |
+| The Impossible Letter Game | 228125 | [228125-the-impossible-letter-game.json](./228125-the-impossible-letter-game.json) |
 | The Impossible Quiz | 62166 | [62166-the-impossible-quiz.json](./62166-the-impossible-quiz.json) |
 | The Impossible Quiz 2 | 61548 | [61548-the-impossible-quiz-2.json](./61548-the-impossible-quiz-2.json) |
 | The Impossible Quiz Book | 61549 | [61549-the-impossible-quiz-book.json](./61549-the-impossible-quiz-book.json) |
@@ -15137,6 +15139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Super Sucker II | 108812 | [108812-the-super-sucker-ii.json](./108812-the-super-sucker-ii.json) |
 | The Superfluous | 31953 | [31953-the-superfluous.json](./31953-the-superfluous.json) |
 | The Superfluous Sand | 133398 | [133398-the-superfluous-sand.json](./133398-the-superfluous-sand.json) |
+| The Superhero League | 228124 | [228124-the-superhero-league.json](./228124-the-superhero-league.json) |
 | The Superlatives: Aetherfall | 74668 | [74668-the-superlatives-aetherfall.json](./74668-the-superlatives-aetherfall.json) |
 | The Supermarket Hunter | 199338 | [199338-the-supermarket-hunter.json](./199338-the-supermarket-hunter.json) |
 | The Supernatural Power Troll | 322844 | [322844-the-supernatural-power-troll.json](./322844-the-supernatural-power-troll.json) |
@@ -29013,6 +29016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Campus: Enrollment Edition | 188643 | [188643-two-point-campus-enrollment-edition.json](./188643-two-point-campus-enrollment-edition.json) |
 | Two Point Campus: Medical School | 260716 | [260716-two-point-campus-medical-school.json](./260716-two-point-campus-medical-school.json) |
 | Two Point Campus: School Spirits | 241307 | [241307-two-point-campus-school-spirits.json](./241307-two-point-campus-school-spirits.json) |
+| Two Point Campus: Space Academy | 228044 | [228044-two-point-campus-space-academy.json](./228044-two-point-campus-space-academy.json) |
 | Two Point Hospital | 82117 | [82117-two-point-hospital.json](./82117-two-point-hospital.json) |
 | Two Point Hospital and Two Point Campus Double Pack | 223155 | [223155-two-point-hospital-and-two-point-campus-double-pack.json](./223155-two-point-hospital-and-two-point-campus-double-pack.json) |
 | Two Point Hospital: A Stitch in Time | 144911 | [144911-two-point-hospital-a-stitch-in-time.json](./144911-two-point-hospital-a-stitch-in-time.json) |
@@ -29162,6 +29166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typefighters | 18956 | [18956-typefighters.json](./18956-typefighters.json) |
 | Typefighters: Steam Edition | 90589 | [90589-typefighters-steam-edition.json](./90589-typefighters-steam-edition.json) |
 | Typeoids | 387477 | [387477-typeoids.json](./387477-typeoids.json) |
+| TypeOut | 228061 | [228061-typeout.json](./228061-typeout.json) |
 | Typer | 88354 | [88354-typer.json](./88354-typer.json) |
 | Typer Hero | 173013 | [173013-typer-hero.json](./173013-typer-hero.json) |
 | Typer Shark | 205982 | [205982-typer-shark.json](./205982-typer-shark.json) |
