@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.C.'s Quest for Tires | 12294 | [12294-b-c-s-quest-for-tires.json](./12294-b-c-s-quest-for-tires.json) |
 | B.C.E. | 38748 | [38748-b-c-e.json](./38748-b-c-e.json) |
 | B.D.K | 170986 | [170986-b-d-k.json](./170986-b-d-k.json) |
+| B.E.A.S.T.S. | 185302 | [185302-b-e-a-s-t-s.json](./185302-b-e-a-s-t-s.json) |
 | B.E.S.T Deluxe Edition | 397023 | [397023-b-e-s-t-deluxe-edition.json](./397023-b-e-s-t-deluxe-edition.json) |
 | B.F.G:Crew | 413118 | [413118-b-f-g-crew.json](./413118-b-f-g-crew.json) |
 | B.I.D. | 390619 | [390619-b-i-d.json](./390619-b-i-d.json) |
@@ -3612,6 +3613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Through Time | 13864 | [13864-battle-through-time.json](./13864-battle-through-time.json) |
 | Battle Thunder Front | 220354 | [220354-battle-thunder-front.json](./220354-battle-thunder-front.json) |
 | Battle Tiers Invasion | 62646 | [62646-battle-tiers-invasion.json](./62646-battle-tiers-invasion.json) |
+| Battle Tiny | 185305 | [185305-battle-tiny.json](./185305-battle-tiny.json) |
 | Battle Titan Rainbow | 234686 | [234686-battle-titan-rainbow.json](./234686-battle-titan-rainbow.json) |
 | Battle Titans | 199942 | [199942-battle-titans.json](./199942-battle-titans.json) |
 | Battle Tops | 192738 | [192738-battle-tops.json](./192738-battle-tops.json) |
@@ -14833,6 +14835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buff Knight Advanced | 34864 | [34864-buff-knight-advanced.json](./34864-buff-knight-advanced.json) |
 | Buffalo Bill's Wild West Show | 12284 | [12284-buffalo-bills-wild-west-show.json](./12284-buffalo-bills-wild-west-show.json) |
 | Buffers Evolution | 37530 | [37530-buffers-evolution.json](./37530-buffers-evolution.json) |
+| Buffet Blast | 185269 | [185269-buffet-blast.json](./185269-buffet-blast.json) |
 | Buffet Boss | 231975 | [231975-buffet-boss.json](./231975-buffet-boss.json) |
 | Buffet Boss: Complete Edition | 317914 | [317914-buffet-boss-complete-edition.json](./317914-buffet-boss-complete-edition.json) |
 | Buffet Boss: Rolling Sushi | 316219 | [316219-buffet-boss-rolling-sushi.json](./316219-buffet-boss-rolling-sushi.json) |
@@ -15023,6 +15026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build A Train 2 | 100728 | [100728-build-a-train-2.json](./100728-build-a-train-2.json) |
 | Build and Discover: America | 217322 | [217322-build-and-discover-america.json](./217322-build-and-discover-america.json) |
 | Build and Drive Racing | 241305 | [241305-build-and-drive-racing.json](./241305-build-and-drive-racing.json) |
+| Build and Grow | 185301 | [185301-build-and-grow.json](./185301-build-and-grow.json) |
 | Build and Play | 91232 | [91232-build-and-play.json](./91232-build-and-play.json) |
 | Build and Play 3D: Rockets, Helicopters, Submarines and More | 109214 | [109214-build-and-play-3d-rockets-helicopters-submarines-and-more.json](./109214-build-and-play-3d-rockets-helicopters-submarines-and-more.json) |
 | Build and Play: Planes | 108912 | [108912-build-and-play-planes.json](./108912-build-and-play-planes.json) |
