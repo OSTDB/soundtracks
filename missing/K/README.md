@@ -2483,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4333,6 +4334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kobito Game Taizen | 416095 | [416095-kobito-game-taizen.json](./416095-kobito-game-taizen.json) |
 | Kobito-zukan: Kobito Kansatsu Set | 299548 | [299548-kobito-zukan-kobito-kansatsu-set.json](./299548-kobito-zukan-kobito-kansatsu-set.json) |
 | Kobito-zukan: Kobito no Fushigi Jikken Set | 329947 | [329947-kobito-zukan-kobito-no-fushigi-jikken-set.json](./329947-kobito-zukan-kobito-no-fushigi-jikken-set.json) |
+| Kobo Redux | 182651 | [182651-kobo-redux.json](./182651-kobo-redux.json) |
 | Kobold Adventure | 135553 | [135553-kobold-adventure.json](./135553-kobold-adventure.json) |
 | Kobold Delvers | 403190 | [403190-kobold-delvers.json](./403190-kobold-delvers.json) |
 | Kobold Garden | 177335 | [177335-kobold-garden.json](./177335-kobold-garden.json) |
@@ -5210,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuafu Chases the Sun | 367611 | [367611-kuafu-chases-the-sun.json](./367611-kuafu-chases-the-sun.json) |
 | Kuài Dǎ Chuánshuō | 74173 | [74173-kuai-da-chuanshuo.json](./74173-kuai-da-chuanshuo.json) |
 | Kuàilè Xiǎojī | 130953 | [130953-kuaile-xiaoji.json](./130953-kuaile-xiaoji.json) |
+| Kuara | 182684 | [182684-kuara.json](./182684-kuara.json) |
 | Kub | 146694 | [146694-kub.json](./146694-kub.json) |
 | Kuba | 209821 | [209821-kuba.json](./209821-kuba.json) |
 | Kubberz | 190415 | [190415-kubberz.json](./190415-kubberz.json) |
