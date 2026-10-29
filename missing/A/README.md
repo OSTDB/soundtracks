@@ -5730,6 +5730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alge-Blaster 3 | 10673 | [10673-alge-blaster-3.json](./10673-alge-blaster-3.json) |
 | Algebra Fish | 102760 | [102760-algebra-fish.json](./102760-algebra-fish.json) |
 | Algebra Ridge | 150695 | [150695-algebra-ridge.json](./150695-algebra-ridge.json) |
+| Algernon | 179290 | [179290-algernon.json](./179290-algernon.json) |
 | Algo Bot | 81443 | [81443-algo-bot.json](./81443-algo-bot.json) |
 | Algodoo | 140601 | [140601-algodoo.json](./140601-algodoo.json) |
 | Algolemeth | 283903 | [283903-algolemeth.json](./283903-algolemeth.json) |
@@ -6203,6 +6204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens and Asteroids | 296515 | [296515-aliens-and-asteroids.json](./296515-aliens-and-asteroids.json) |
 | Aliens Are Rude! | 95200 | [95200-aliens-are-rude.json](./95200-aliens-are-rude.json) |
 | Aliens Ate My Boyfriend | 212687 | [212687-aliens-ate-my-boyfriend.json](./212687-aliens-ate-my-boyfriend.json) |
+| Aliens Attack | 179300 | [179300-aliens-attack.json](./179300-aliens-attack.json) |
 | Aliens Don't Exist | 113526 | [113526-aliens-dont-exist.json](./113526-aliens-dont-exist.json) |
 | Aliens Doom 3: Aliens vs Predator | 381150 | [381150-aliens-doom-3-aliens-vs-predator.json](./381150-aliens-doom-3-aliens-vs-predator.json) |
 | Aliens Go Home Run! | 26835 | [26835-aliens-go-home-run.json](./26835-aliens-go-home-run.json) |
@@ -7929,6 +7931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An English Haunting | 258723 | [258723-an-english-haunting.json](./258723-an-english-haunting.json) |
 | AN Escape Series #1: The Car | 213253 | [213253-an-escape-series-1-the-car.json](./213253-an-escape-series-1-the-car.json) |
 | An Essay on Insipidity | 179369 | [179369-an-essay-on-insipidity.json](./179369-an-essay-on-insipidity.json) |
+| An Essay on Insipidity II | 179314 | [179314-an-essay-on-insipidity-ii.json](./179314-an-essay-on-insipidity-ii.json) |
 | An Eternity Gone By | 294276 | [294276-an-eternity-gone-by.json](./294276-an-eternity-gone-by.json) |
 | An Eternity, Reflecting | 382243 | [382243-an-eternity-reflecting.json](./382243-an-eternity-reflecting.json) |
 | An Evening of Wonders | 258941 | [258941-an-evening-of-wonders.json](./258941-an-evening-of-wonders.json) |
@@ -10148,6 +10151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: Gibraltar Edition | 146158 | [146158-apex-legends-gibraltar-edition.json](./146158-apex-legends-gibraltar-edition.json) |
 | Apex Legends: Hunted | 210618 | [210618-apex-legends-hunted.json](./210618-apex-legends-hunted.json) |
 | Apex Legends: Legacy | 146328 | [146328-apex-legends-legacy.json](./146328-apex-legends-legacy.json) |
+| Apex Legends: Loba Edition | 179296 | [179296-apex-legends-loba-edition.json](./179296-apex-legends-loba-edition.json) |
 | Apex Legends: Marked | 412314 | [412314-apex-legends-marked.json](./412314-apex-legends-marked.json) |
 | Apex Legends: Octane Edition | 136188 | [136188-apex-legends-octane-edition.json](./136188-apex-legends-octane-edition.json) |
 | Apex Legends: Pathfinder Edition | 136187 | [136187-apex-legends-pathfinder-edition.json](./136187-apex-legends-pathfinder-edition.json) |
@@ -15655,6 +15659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatour | 337559 | [337559-avatour.json](./337559-avatour.json) |
 | Avatour: Miami - Hide & Seek | 410706 | [410706-avatour-miami-hide-and-seek.json](./410706-avatour-miami-hide-and-seek.json) |
 | Avatour: Vegas | 337562 | [337562-avatour-vegas.json](./337562-avatour-vegas.json) |
+| Avature | 179299 | [179299-avature.json](./179299-avature.json) |
 | Avava | 207287 | [207287-avava.json](./207287-avava.json) |
 | AVCStec Challenge | 94587 | [94587-avcstec-challenge.json](./94587-avcstec-challenge.json) |
 | Ave Classic | 355185 | [355185-ave-classic.json](./355185-ave-classic.json) |
@@ -16040,6 +16045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axolotl | 195486 | [195486-axolotl.json](./195486-axolotl.json) |
 | Axolotl | 267997 | [267997-axolotl.json](./267997-axolotl.json) |
 | Axolotl Kingdom | 245940 | [245940-axolotl-kingdom.json](./245940-axolotl-kingdom.json) |
+| Axolotl Museum | 179320 | [179320-axolotl-museum.json](./179320-axolotl-museum.json) |
 | Axolotl Stars | 197683 | [197683-axolotl-stars.json](./197683-axolotl-stars.json) |
 | Axolotl Swim | 389113 | [389113-axolotl-swim.json](./389113-axolotl-swim.json) |
 | Axom: Conquest | 333357 | [333357-axom-conquest.json](./333357-axom-conquest.json) |
