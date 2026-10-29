@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9985,6 +9986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Moon | 271072 | [271072-bloody-moon.json](./271072-bloody-moon.json) |
 | Bloody Night Cult | 336446 | [336446-bloody-night-cult.json](./336446-bloody-night-cult.json) |
 | Bloody Nightshift | 176743 | [176743-bloody-nightshift.json](./176743-bloody-nightshift.json) |
+| Bloody Pigs 1996 | 199236 | [199236-bloody-pigs-1996.json](./199236-bloody-pigs-1996.json) |
 | Bloody Pulp Fiction | 142685 | [142685-bloody-pulp-fiction.json](./142685-bloody-pulp-fiction.json) |
 | Bloody Ragdoll : Fort Escape | 87857 | [87857-bloody-ragdoll-fort-escape.json](./87857-bloody-ragdoll-fort-escape.json) |
 | Bloody Raid | 148878 | [148878-bloody-raid.json](./148878-bloody-raid.json) |
@@ -11998,6 +12000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottomless Pitfall | 348879 | [348879-bottomless-pitfall.json](./348879-bottomless-pitfall.json) |
 | Bottoms Up | 176941 | [176941-bottoms-up.json](./176941-bottoms-up.json) |
 | Bottop | 329196 | [329196-bottop.json](./329196-bottop.json) |
+| Botty: Paper tales | 199242 | [199242-botty-paper-tales.json](./199242-botty-paper-tales.json) |
 | Botworld Adventure | 166452 | [166452-botworld-adventure.json](./166452-botworld-adventure.json) |
 | Botworld Odyssey | 315339 | [315339-botworld-odyssey.json](./315339-botworld-odyssey.json) |
 | Botzin!!! | 185925 | [185925-botzin.json](./185925-botzin.json) |
@@ -14532,6 +14535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Soccer | 117505 | [117505-bubble-soccer.json](./117505-bubble-soccer.json) |
 | Bubble Spinner | 144252 | [144252-bubble-spinner.json](./144252-bubble-spinner.json) |
 | Bubble Squad | 104136 | [104136-bubble-squad.json](./104136-bubble-squad.json) |
+| Bubble Struggle | 199207 | [199207-bubble-struggle.json](./199207-bubble-struggle.json) |
 | Bubble Struggle II: Rebubbled | 116257 | [116257-bubble-struggle-ii-rebubbled.json](./116257-bubble-struggle-ii-rebubbled.json) |
 | Bubble Surge | 343858 | [343858-bubble-surge.json](./343858-bubble-surge.json) |
 | Bubble Symphony | 39422 | [39422-bubble-symphony.json](./39422-bubble-symphony.json) |
