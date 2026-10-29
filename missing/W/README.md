@@ -4609,6 +4609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Leopard Safari | 255167 | [255167-wild-leopard-safari.json](./255167-wild-leopard-safari.json) |
 | Wild Life | 127894 | [127894-wild-life.json](./127894-wild-life.json) |
 | Wild Life | 260862 | [260862-wild-life.json](./260862-wild-life.json) |
+| Wild Life: Rescue | 182058 | [182058-wild-life-rescue.json](./182058-wild-life-rescue.json) |
 | Wild Lotus | 216835 | [216835-wild-lotus.json](./216835-wild-lotus.json) |
 | Wild Lynx Jigsaw | 357967 | [357967-wild-lynx-jigsaw.json](./357967-wild-lynx-jigsaw.json) |
 | Wild Lynx Jigsaw: Expansion Pack 1 | 357968 | [357968-wild-lynx-jigsaw-expansion-pack-1.json](./357968-wild-lynx-jigsaw-expansion-pack-1.json) |
@@ -5204,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Virtus | 112772 | [112772-wings-of-virtus.json](./112772-wings-of-virtus.json) |
 | Wings of War | 6235 | [6235-wings-of-war.json](./6235-wings-of-war.json) |
 | Wings of War: Famous Aces | 53045 | [53045-wings-of-war-famous-aces.json](./53045-wings-of-war-famous-aces.json) |
+| Wings of War: Modern Warplanes | 182060 | [182060-wings-of-war-modern-warplanes.json](./182060-wings-of-war-modern-warplanes.json) |
 | Wings of Wor | 105255 | [105255-wings-of-wor.json](./105255-wings-of-wor.json) |
 | Wings of WW2 | 174112 | [174112-wings-of-ww2.json](./174112-wings-of-ww2.json) |
 | Wings Over China: Air Battles of the Flying Tigers | 69563 | [69563-wings-over-china-air-battles-of-the-flying-tigers.json](./69563-wings-over-china-air-battles-of-the-flying-tigers.json) |
