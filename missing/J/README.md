@@ -2844,6 +2844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Bug | 25696 | [25696-jump-bug.json](./25696-jump-bug.json) |
 | Jump Bunny | 390457 | [390457-jump-bunny.json](./390457-jump-bunny.json) |
 | Jump Burger | 292003 | [292003-jump-burger.json](./292003-jump-burger.json) |
+| Jump Challenge! | 185284 | [185284-jump-challenge.json](./185284-jump-challenge.json) |
 | Jump City | 142087 | [142087-jump-city.json](./142087-jump-city.json) |
 | Jump Coaster | 40051 | [40051-jump-coaster.json](./40051-jump-coaster.json) |
 | Jump Dash | 131838 | [131838-jump-dash.json](./131838-jump-dash.json) |
