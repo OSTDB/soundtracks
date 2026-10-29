@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandoria | 241890 | [241890-sandoria.json](./241890-sandoria.json) |
 | Sandpit | 259422 | [259422-sandpit.json](./259422-sandpit.json) |
 | Sandra and Woo in the Cursed Adventure | 28809 | [28809-sandra-and-woo-in-the-cursed-adventure.json](./28809-sandra-and-woo-in-the-cursed-adventure.json) |
+| Sandra Fleming Chronicles: Crystal Skulls | 178232 | [178232-sandra-fleming-chronicles-crystal-skulls.json](./178232-sandra-fleming-chronicles-crystal-skulls.json) |
 | Sandrail Race | 345056 | [345056-sandrail-race.json](./345056-sandrail-race.json) |
 | Sandream | 195706 | [195706-sandream.json](./195706-sandream.json) |
 | SandRipper | 270930 | [270930-sandripper.json](./270930-sandripper.json) |
@@ -4188,6 +4189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sedap! A Culinary Adventure | 273429 | [273429-sedap-a-culinary-adventure.json](./273429-sedap-a-culinary-adventure.json) |
 | Sedecktion | 297213 | [297213-sedecktion.json](./297213-sedecktion.json) |
 | Sedecordle | 194881 | [194881-sedecordle.json](./194881-sedecordle.json) |
+| Seditionis: Crutarch Royale | 178201 | [178201-seditionis-crutarch-royale.json](./178201-seditionis-crutarch-royale.json) |
 | Sedomairi | 159706 | [159706-sedomairi.json](./159706-sedomairi.json) |
 | Seduce a SuicideGirl | 245176 | [245176-seduce-a-suicidegirl.json](./245176-seduce-a-suicidegirl.json) |
 | Seduce Her Harem | 257865 | [257865-seduce-her-harem.json](./257865-seduce-her-harem.json) |
@@ -7778,6 +7780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shissou, Yankee Damashii | 70592 | [70592-shissou-yankee-damashii.json](./70592-shissou-yankee-damashii.json) |
 | Shisya | 270779 | [270779-shisya.json](./270779-shisya.json) |
 | Shisya 2: Ghost Video | 308889 | [308889-shisya-2-ghost-video.json](./308889-shisya-2-ghost-video.json) |
+| Shit 3 | 177699 | [177699-shit-3.json](./177699-shit-3.json) |
 | Shit Clicker | 236484 | [236484-shit-clicker.json](./236484-shit-clicker.json) |
 | Shit Slam II | 372111 | [372111-shit-slam-ii.json](./372111-shit-slam-ii.json) |
 | Shit Storm | 81100 | [81100-shit-storm.json](./81100-shit-storm.json) |
@@ -9058,6 +9061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Decay | 58715 | [58715-signal-decay.json](./58715-signal-decay.json) |
 | Signal Garden | 400311 | [400311-signal-garden.json](./400311-signal-garden.json) |
 | Signal Hill | 390655 | [390655-signal-hill.json](./390655-signal-hill.json) |
+| Signal Lost | 178224 | [178224-signal-lost.json](./178224-signal-lost.json) |
 | Signal Lost | 236689 | [236689-signal-lost.json](./236689-signal-lost.json) |
 | Signal Lost | 327358 | [327358-signal-lost.json](./327358-signal-lost.json) |
 | Signal Lost | 377331 | [377331-signal-lost.json](./377331-signal-lost.json) |
@@ -11157,6 +11161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Surfing | 233427 | [233427-sky-surfing.json](./233427-sky-surfing.json) |
 | Sky Survivors | 240664 | [240664-sky-survivors.json](./240664-sky-survivors.json) |
 | Sky Symphony | 242583 | [242583-sky-symphony.json](./242583-sky-symphony.json) |
+| Sky Tale | 178206 | [178206-sky-tale.json](./178206-sky-tale.json) |
 | Sky Target | 25173 | [25173-sky-target.json](./25173-sky-target.json) |
 | Sky Taxi | 53615 | [53615-sky-taxi.json](./53615-sky-taxi.json) |
 | Sky Taxi 2: Storm 2012 | 54368 | [54368-sky-taxi-2-storm-2012.json](./54368-sky-taxi-2-storm-2012.json) |
@@ -13864,6 +13869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So-Gnar | 176465 | [176465-so-gnar.json](./176465-so-gnar.json) |
 | So, uh... a spaceship crashed in my yard. | 105694 | [105694-so-uh-a-spaceship-crashed-in-my-yard.json](./105694-so-uh-a-spaceship-crashed-in-my-yard.json) |
 | So, You're Possessed! | 187802 | [187802-so-youre-possessed.json](./187802-so-youre-possessed.json) |
+| So... chunks, huh? | 177691 | [177691-so-chunks-huh.json](./177691-so-chunks-huh.json) |
 | Soak 'Em Out | 248215 | [248215-soak-em-out.json](./248215-soak-em-out.json) |
 | Soak & Splash | 250948 | [250948-soak-and-splash.json](./250948-soak-and-splash.json) |
 | Soaked! | 52854 | [52854-soaked.json](./52854-soaked.json) |
@@ -14197,6 +14203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban Cats | 216053 | [216053-sokoban-cats.json](./216053-sokoban-cats.json) |
 | Sokoban DS | 307081 | [307081-sokoban-ds.json](./307081-sokoban-ds.json) |
 | Sokoban Gianta | 155973 | [155973-sokoban-gianta.json](./155973-sokoban-gianta.json) |
+| Sokoban In Sokoland | 177719 | [177719-sokoban-in-sokoland.json](./177719-sokoban-in-sokoland.json) |
 | Sokoban Land DX | 44206 | [44206-sokoban-land-dx.json](./44206-sokoban-land-dx.json) |
 | Sokoban Next | 99478 | [99478-sokoban-next.json](./99478-sokoban-next.json) |
 | Sokoban World | 308565 | [308565-sokoban-world.json](./308565-sokoban-world.json) |
@@ -15131,6 +15138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 3D Blast | 202967 | [202967-sonic-3d-blast.json](./202967-sonic-3d-blast.json) |
 | Sonic 3D Blast: Director's Cut | 129174 | [129174-sonic-3d-blast-directors-cut.json](./129174-sonic-3d-blast-directors-cut.json) |
 | Sonic 3D Blitz | 334067 | [334067-sonic-3d-blitz.json](./334067-sonic-3d-blitz.json) |
+| Sonic 3D in 2D | 177697 | [177697-sonic-3d-in-2d.json](./177697-sonic-3d-in-2d.json) |
 | Sonic 3D Snowboarding | 302958 | [302958-sonic-3d-snowboarding.json](./302958-sonic-3d-snowboarding.json) |
 | Sonic 3D: No Flickies | 198547 | [198547-sonic-3d-no-flickies.json](./198547-sonic-3d-no-flickies.json) |
 | Sonic 3D40 vs. Counterfeit | 330873 | [330873-sonic-3d40-vs-counterfeit.json](./330873-sonic-3d40-vs-counterfeit.json) |
@@ -17947,6 +17955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceHook | 185265 | [185265-spacehook.json](./185265-spacehook.json) |
 | SpaceInvasion | 196275 | [196275-spaceinvasion.json](./196275-spaceinvasion.json) |
 | Spacejacked | 24046 | [24046-spacejacked.json](./24046-spacejacked.json) |
+| Spacejam | 177685 | [177685-spacejam.json](./177685-spacejam.json) |
 | Spacejump | 250598 | [250598-spacejump.json](./250598-spacejump.json) |
 | Spaceketball | 96225 | [96225-spaceketball.json](./96225-spaceketball.json) |
 | SpaceKraft! | 207671 | [207671-spacekraft.json](./207671-spacekraft.json) |
@@ -26819,6 +26828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Survival: Miami | 405329 | [405329-sunset-survival-miami.json](./405329-sunset-survival-miami.json) |
 | Sunset Town | 333093 | [333093-sunset-town.json](./333093-sunset-town.json) |
 | Sunset World Online | 188585 | [188585-sunset-world-online.json](./188585-sunset-world-online.json) |
+| Sunset-shaped | 177683 | [177683-sunset-shaped.json](./177683-sunset-shaped.json) |
 | Sunshine | 110784 | [110784-sunshine.json](./110784-sunshine.json) |
 | Sunshine & Overcast | 119595 | [119595-sunshine-and-overcast.json](./119595-sunshine-and-overcast.json) |
 | Sunshine Acres | 25002 | [25002-sunshine-acres.json](./25002-sunshine-acres.json) |
