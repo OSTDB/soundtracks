@@ -4703,6 +4703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inuyasha: A Feudal Fairy Tale | 45004 | [45004-inuyasha-a-feudal-fairy-tale.json](./45004-inuyasha-a-feudal-fairy-tale.json) |
 | Inuyasha: Battle of Hell | 121442 | [121442-inuyasha-battle-of-hell.json](./121442-inuyasha-battle-of-hell.json) |
 | Inuyasha: Battle of Naraku | 193963 | [193963-inuyasha-battle-of-naraku.json](./193963-inuyasha-battle-of-naraku.json) |
+| InuYasha: Demon Tournament | 185829 | [185829-inuyasha-demon-tournament.json](./185829-inuyasha-demon-tournament.json) |
 | Inuyasha: Fuuun Emaki | 37374 | [37374-inuyasha-fuuun-emaki.json](./37374-inuyasha-fuuun-emaki.json) |
 | Inuyasha: Kagome no Sengoku Nikki | 37373 | [37373-inuyasha-kagome-no-sengoku-nikki.json](./37373-inuyasha-kagome-no-sengoku-nikki.json) |
 | Inuyasha: Kagome no Yume Nikki | 37372 | [37372-inuyasha-kagome-no-yume-nikki.json](./37372-inuyasha-kagome-no-yume-nikki.json) |
