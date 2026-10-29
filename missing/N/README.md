@@ -2207,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Man | 234611 | [234611-neon-man.json](./234611-neon-man.json) |
 | Neon Marble Rust | 267019 | [267019-neon-marble-rust.json](./267019-neon-marble-rust.json) |
 | Neon Merger | 339309 | [339309-neon-merger.json](./339309-neon-merger.json) |
+| Neon Mine | 218841 | [218841-neon-mine.json](./218841-neon-mine.json) |
 | Neon Net | 291569 | [291569-neon-net.json](./291569-neon-net.json) |
 | Neon Nexus | 244933 | [244933-neon-nexus.json](./244933-neon-nexus.json) |
 | Neon Nexus | 301973 | [301973-neon-nexus.json](./301973-neon-nexus.json) |
@@ -2406,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerf Arena Blast | 68701 | [68701-nerf-arena-blast.json](./68701-nerf-arena-blast.json) |
 | Nerf Jr. Foam Balster: Attack of The Kleptons | 210037 | [210037-nerf-jr-foam-balster-attack-of-the-kleptons.json](./210037-nerf-jr-foam-balster-attack-of-the-kleptons.json) |
 | Nerf Legends | 163875 | [163875-nerf-legends.json](./163875-nerf-legends.json) |
+| Nerf Legends: Digital Deluxe Edition | 218844 | [218844-nerf-legends-digital-deluxe-edition.json](./218844-nerf-legends-digital-deluxe-edition.json) |
 | NERF Legends: Elite Blaster Combo Pack | 262314 | [262314-nerf-legends-elite-blaster-combo-pack.json](./262314-nerf-legends-elite-blaster-combo-pack.json) |
 | Nerf N-Strike | 2665 | [2665-nerf-n-strike.json](./2665-nerf-n-strike.json) |
 | Nerf N-Strike: Double Blast Bundle | 268392 | [268392-nerf-n-strike-double-blast-bundle.json](./268392-nerf-n-strike-double-blast-bundle.json) |
