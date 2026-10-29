@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naturalist Stories | 156146 | [156146-naturalist-stories.json](./156146-naturalist-stories.json) |
 | Naturals | 258734 | [258734-naturals.json](./258734-naturals.json) |
 | Nature | 236548 | [236548-nature.json](./236548-nature.json) |
+| Nature & Wildlife: Jigsaw Puzzle | 212608 | [212608-nature-and-wildlife-jigsaw-puzzle.json](./212608-nature-and-wildlife-jigsaw-puzzle.json) |
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 1 | 215634 | [215634-nature-and-wildlife-jigsaw-puzzle-expansion-pack-1.json](./215634-nature-and-wildlife-jigsaw-puzzle-expansion-pack-1.json) |
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 2 | 215633 | [215633-nature-and-wildlife-jigsaw-puzzle-expansion-pack-2.json](./215633-nature-and-wildlife-jigsaw-puzzle-expansion-pack-2.json) |
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 3 | 215632 | [215632-nature-and-wildlife-jigsaw-puzzle-expansion-pack-3.json](./215632-nature-and-wildlife-jigsaw-puzzle-expansion-pack-3.json) |
@@ -5732,6 +5733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonononogram | 343313 | [343313-nonononogram.json](./343313-nonononogram.json) |
 | Nonorelia | 257208 | [257208-nonorelia.json](./257208-nonorelia.json) |
 | Nonotown | 238467 | [238467-nonotown.json](./238467-nonotown.json) |
+| Nonozle | 212604 | [212604-nonozle.json](./212604-nonozle.json) |
 | Nonozle: Food and Drink + Miscellaneous Puzzle Packs | 332610 | [332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json](./332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json) |
 | Nonplace | 347593 | [347593-nonplace.json](./347593-nonplace.json) |
 | NonPlatonic Forms | 416362 | [416362-nonplatonic-forms.json](./416362-nonplatonic-forms.json) |
