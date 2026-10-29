@@ -1986,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electroquest: Resistance is Futile | 101310 | [101310-electroquest-resistance-is-futile.json](./101310-electroquest-resistance-is-futile.json) |
 | Elefunk | 21808 | [21808-elefunk.json](./21808-elefunk.json) |
 | Elegant Sleuth: Mystic Family | 349311 | [349311-elegant-sleuth-mystic-family.json](./349311-elegant-sleuth-mystic-family.json) |
+| Elegies: Aya | 202483 | [202483-elegies-aya.json](./202483-elegies-aya.json) |
 | Elegon | 384613 | [384613-elegon.json](./384613-elegon.json) |
 | Elegorithm | 415738 | [415738-elegorithm.json](./415738-elegorithm.json) |
 | Elegos | 197069 | [197069-elegos.json](./197069-elegos.json) |
