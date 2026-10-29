@@ -5901,6 +5901,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball | 131483 | [131483-pinball.json](./131483-pinball.json) |
 | Pinball | 131514 | [131514-pinball.json](./131514-pinball.json) |
 | Pinball | 131522 | [131522-pinball.json](./131522-pinball.json) |
+| Pinball | 217664 | [217664-pinball.json](./217664-pinball.json) |
+| Pinball | 217699 | [217699-pinball.json](./217699-pinball.json) |
 | Pinball | 287542 | [287542-pinball.json](./287542-pinball.json) |
 | Pinball | 312266 | [312266-pinball.json](./312266-pinball.json) |
 | Pinball | 319529 | [319529-pinball.json](./319529-pinball.json) |
@@ -8503,6 +8505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play & Learn My First Katakana | 420696 | [420696-play-and-learn-my-first-katakana.json](./420696-play-and-learn-my-first-katakana.json) |
 | Play & Learn Spanish | 84722 | [84722-play-and-learn-spanish.json](./84722-play-and-learn-spanish.json) |
 | Play Abalone | 374615 | [374615-play-abalone.json](./374615-play-abalone.json) |
+| Play Action Football | 217682 | [217682-play-action-football.json](./217682-play-action-football.json) |
 | Play Action Football | 49052 | [49052-play-action-football.json](./49052-play-action-football.json) |
 | Play and Learn with Josephine | 205021 | [205021-play-and-learn-with-josephine.json](./205021-play-and-learn-with-josephine.json) |
 | Play And Pray | 312039 | [312039-play-and-pray.json](./312039-play-and-pray.json) |
@@ -9769,6 +9772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon FR Advanced Challenge | 136412 | [136412-pokemon-fr-advanced-challenge.json](./136412-pokemon-fr-advanced-challenge.json) |
 | Pokémon Frienda | 303820 | [303820-pokemon-frienda.json](./303820-pokemon-frienda.json) |
 | Pokémon Friends | 356551 | [356551-pokemon-friends.json](./356551-pokemon-friends.json) |
+| Pokémon Fuligin Version | 217710 | [217710-pokemon-fuligin-version.json](./217710-pokemon-fuligin-version.json) |
 | Pokemon Fused Dimensions | 327270 | [327270-pokemon-fused-dimensions.json](./327270-pokemon-fused-dimensions.json) |
 | Pokémon Fushigi no Dungeon: Ikuzo! Arashi no Boukendan | 103512 | [103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json](./103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json) |
 | Pokémon Fushigi no Dungeon: Mezase! Hikari no Boukendan | 103513 | [103513-pokemon-fushigi-no-dungeon-mezase-hikari-no-boukendan.json](./103513-pokemon-fushigi-no-dungeon-mezase-hikari-no-boukendan.json) |
@@ -14416,6 +14420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promesst | 351396 | [351396-promesst.json](./351396-promesst.json) |
 | Promethean Hive Wave Defense | 383097 | [383097-promethean-hive-wave-defense.json](./383097-promethean-hive-wave-defense.json) |
 | Promethean Thirst | 405695 | [405695-promethean-thirst.json](./405695-promethean-thirst.json) |
+| Prometheus | 217708 | [217708-prometheus.json](./217708-prometheus.json) |
 | Prometheus Unbound | 182896 | [182896-prometheus-unbound.json](./182896-prometheus-unbound.json) |
 | Prometheus Unbound | 290019 | [290019-prometheus-unbound.json](./290019-prometheus-unbound.json) |
 | Prometheus Wept | 133459 | [133459-prometheus-wept.json](./133459-prometheus-wept.json) |
