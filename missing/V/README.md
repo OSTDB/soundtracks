@@ -996,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vega Conflict: Paragon Battleship Pack | 168308 | [168308-vega-conflict-paragon-battleship-pack.json](./168308-vega-conflict-paragon-battleship-pack.json) |
 | Vega Conflict: Punisher Cruiser Pack | 168314 | [168314-vega-conflict-punisher-cruiser-pack.json](./168314-vega-conflict-punisher-cruiser-pack.json) |
 | Vega Motions: Project Unleashed | 126887 | [126887-vega-motions-project-unleashed.json](./126887-vega-motions-project-unleashed.json) |
+| Vegaman | 177162 | [177162-vegaman.json](./177162-vegaman.json) |
 | Vegangsters | 253304 | [253304-vegangsters.json](./253304-vegangsters.json) |
 | Vegas Bandit | 77909 | [77909-vegas-bandit.json](./77909-vegas-bandit.json) |
 | Vegas Bowling | 88840 | [88840-vegas-bowling.json](./88840-vegas-bowling.json) |
@@ -1978,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village | 266295 | [266295-village.json](./266295-village.json) |
 | Village & Monsters | 254655 | [254655-village-and-monsters.json](./254655-village-and-monsters.json) |
 | Village and Farm | 239617 | [239617-village-and-farm.json](./239617-village-and-farm.json) |
+| Village Arsonist | 177178 | [177178-village-arsonist.json](./177178-village-arsonist.json) |
 | Village Bus Driver Simulator | 125726 | [125726-village-bus-driver-simulator.json](./125726-village-bus-driver-simulator.json) |
 | Village businessman | 159820 | [159820-village-businessman.json](./159820-village-businessman.json) |
 | Village City Island Sim Build | 104606 | [104606-village-city-island-sim-build.json](./104606-village-city-island-sim-build.json) |
@@ -2012,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village the Siberia | 192645 | [192645-village-the-siberia.json](./192645-village-the-siberia.json) |
 | Village Tycoon: Farm City Simulator | 275035 | [275035-village-tycoon-farm-city-simulator.json](./275035-village-tycoon-farm-city-simulator.json) |
 | Village Valley | 177792 | [177792-village-valley.json](./177792-village-valley.json) |
+| Village Vampire Feast | 178190 | [178190-village-vampire-feast.json](./178190-village-vampire-feast.json) |
 | VillageBlade | 192875 | [192875-villageblade.json](./192875-villageblade.json) |
 | Villagedom | 152023 | [152023-villagedom.json](./152023-villagedom.json) |
 | Villager | 178521 | [178521-villager.json](./178521-villager.json) |
