@@ -2277,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo's Bizarre Adventure: All Star Battle - Golden Experience Box | 298016 | [298016-jojos-bizarre-adventure-all-star-battle-golden-experience-box.json](./298016-jojos-bizarre-adventure-all-star-battle-golden-experience-box.json) |
 | JoJo's Bizarre Adventure: All Star Battle R - Digital Deluxe Edition | 218458 | [218458-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json](./218458-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json) |
 | JoJo’s Bizarre Adventure: All-Star Battle R | 194208 | [194208-jojo-s-bizarre-adventure-all-star-battle-r.json](./194208-jojo-s-bizarre-adventure-all-star-battle-r.json) |
+| JoJo's Bizarre Adventure: All-Star Battle R - Digital Deluxe Edition | 204756 | [204756-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json](./204756-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json) |
 | JoJo’s Bizarre Adventure: All-Star Battle R - Digital Ultimate Edition | 253229 | [253229-jojo-s-bizarre-adventure-all-star-battle-r-digital-ultimate-edition.json](./253229-jojo-s-bizarre-adventure-all-star-battle-r-digital-ultimate-edition.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Keicho Nijimura | 242545 | [242545-jojos-bizarre-adventure-all-star-battle-r-keicho-nijimura.json](./242545-jojos-bizarre-adventure-all-star-battle-r-keicho-nijimura.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Leone Abbacchio | 263539 | [263539-jojos-bizarre-adventure-all-star-battle-r-leone-abbacchio.json](./263539-jojos-bizarre-adventure-all-star-battle-r-leone-abbacchio.json) |
@@ -2397,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Josef the Hedgehog | 330289 | [330289-josef-the-hedgehog.json](./330289-josef-the-hedgehog.json) |
 | Josei no Hinkaku Juku DS | 268066 | [268066-josei-no-hinkaku-juku-ds.json](./268066-josei-no-hinkaku-juku-ds.json) |
 | Josephine and Friends | 204726 | [204726-josephine-and-friends.json](./204726-josephine-and-friends.json) |
+| Josephine at School | 204784 | [204784-josephine-at-school.json](./204784-josephine-at-school.json) |
 | Josephine: Portrait of an Assassin | 73512 | [73512-josephine-portrait-of-an-assassin.json](./73512-josephine-portrait-of-an-assassin.json) |
 | Josh Journey: Darkness Totems | 139665 | [139665-josh-journey-darkness-totems.json](./139665-josh-journey-darkness-totems.json) |
 | Josh Powlison's Button: Mildly Remastered Edition | 303596 | [303596-josh-powlisons-button-mildly-remastered-edition.json](./303596-josh-powlisons-button-mildly-remastered-edition.json) |
