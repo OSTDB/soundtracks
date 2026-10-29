@@ -3213,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead of the Brain 1 & 2 | 80189 | [80189-dead-of-the-brain-1-and-2.json](./80189-dead-of-the-brain-1-and-2.json) |
 | Dead of the Brain 2 | 66361 | [66361-dead-of-the-brain-2.json](./66361-dead-of-the-brain-2.json) |
 | Dead of the Sea | 235708 | [235708-dead-of-the-sea.json](./235708-dead-of-the-sea.json) |
+| Dead of Winter | 216612 | [216612-dead-of-winter.json](./216612-dead-of-winter.json) |
 | Dead of Winter: The Long Night | 25654 | [25654-dead-of-winter-the-long-night.json](./25654-dead-of-winter-the-long-night.json) |
 | Dead Oil | 346549 | [346549-dead-oil.json](./346549-dead-oil.json) |
 | Dead On Arrival | 249086 | [249086-dead-on-arrival.json](./249086-dead-on-arrival.json) |
@@ -14086,6 +14087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamdisc | 177796 | [177796-dreamdisc.json](./177796-dreamdisc.json) |
 | DreamEcho | 374358 | [374358-dreamecho.json](./374358-dreamecho.json) |
 | Dreamed | 217342 | [217342-dreamed.json](./217342-dreamed.json) |
+| Dreamed Away | 216600 | [216600-dreamed-away.json](./216600-dreamed-away.json) |
 | Dreamed Away | 220745 | [220745-dreamed-away.json](./220745-dreamed-away.json) |
 | Dreamer | 101641 | [101641-dreamer.json](./101641-dreamer.json) |
 | Dreamer Adventure | 245216 | [245216-dreamer-adventure.json](./245216-dreamer-adventure.json) |
