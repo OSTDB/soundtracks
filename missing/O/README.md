@@ -3756,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ornamental | 230739 | [230739-ornamental.json](./230739-ornamental.json) |
 | Ornélia | 403776 | [403776-ornelia.json](./403776-ornelia.json) |
 | Oroboro | 311203 | [311203-oroboro.json](./311203-oroboro.json) |
+| Oroboros | 223259 | [223259-oroboros.json](./223259-oroboros.json) |
 | Oroborus: Planes of the Dead | 152709 | [152709-oroborus-planes-of-the-dead.json](./152709-oroborus-planes-of-the-dead.json) |
 | Ororo | 404983 | [404983-ororo.json](./404983-ororo.json) |
 | Orphan | 11580 | [11580-orphan.json](./11580-orphan.json) |
@@ -4573,6 +4574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outergalactic Aliens Pinball | 173237 | [173237-outergalactic-aliens-pinball.json](./173237-outergalactic-aliens-pinball.json) |
 | Outerlands Guilds | 236140 | [236140-outerlands-guilds.json](./236140-outerlands-guilds.json) |
 | Outerplane | 188368 | [188368-outerplane.json](./188368-outerplane.json) |
+| Outerra World Sandbox | 223254 | [223254-outerra-world-sandbox.json](./223254-outerra-world-sandbox.json) |
 | OuterRealm | 285888 | [285888-outerrealm.json](./285888-outerrealm.json) |
 | Outerstellar | 258630 | [258630-outerstellar.json](./258630-outerstellar.json) |
 | Outertale: Project Spacetime | 313236 | [313236-outertale-project-spacetime.json](./313236-outertale-project-spacetime.json) |
