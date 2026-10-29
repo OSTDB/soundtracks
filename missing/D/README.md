@@ -3528,6 +3528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadline | 376825 | [376825-deadline.json](./376825-deadline.json) |
 | Deadline | 71392 | [71392-deadline.json](./71392-deadline.json) |
 | Deadline | 7564 | [7564-deadline.json](./7564-deadline.json) |
+| Deadline Enchanter | 217669 | [217669-deadline-enchanter.json](./217669-deadline-enchanter.json) |
 | Deadline Escape | 356726 | [356726-deadline-escape.json](./356726-deadline-escape.json) |
 | Deadline of the Dead | 185074 | [185074-deadline-of-the-dead.json](./185074-deadline-of-the-dead.json) |
 | Deadline Savior | 347016 | [347016-deadline-savior.json](./347016-deadline-savior.json) |
@@ -8501,6 +8502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaurs Prehistoric Survivors | 99291 | [99291-dinosaurs-prehistoric-survivors.json](./99291-dinosaurs-prehistoric-survivors.json) |
 | Dinosaurs: A Prehistoric Adventure 2 | 195579 | [195579-dinosaurs-a-prehistoric-adventure-2.json](./195579-dinosaurs-a-prehistoric-adventure-2.json) |
 | Dinosaurs: Mission Dino Camp | 252172 | [252172-dinosaurs-mission-dino-camp.json](./252172-dinosaurs-mission-dino-camp.json) |
+| Dinosaurs! | 217691 | [217691-dinosaurs.json](./217691-dinosaurs.json) |
 | Dinosaurus Life VR | 112711 | [112711-dinosaurus-life-vr.json](./112711-dinosaurus-life-vr.json) |
 | DinoSawUs | 420777 | [420777-dinosawus.json](./420777-dinosawus.json) |
 | DinoScape | 143335 | [143335-dinoscape.json](./143335-dinoscape.json) |
@@ -8631,6 +8633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DiRT Rally: VR Edition | 136176 | [136176-dirt-rally-vr-edition.json](./136176-dirt-rally-vr-edition.json) |
 | Dirt Reborn | 200054 | [200054-dirt-reborn.json](./200054-dirt-reborn.json) |
 | Dirt Showdown | 7966 | [7966-dirt-showdown.json](./7966-dirt-showdown.json) |
+| Dirt Track Go Karting! | 217661 | [217661-dirt-track-go-karting.json](./217661-dirt-track-go-karting.json) |
 | Dirt Track Racing | 73269 | [73269-dirt-track-racing.json](./73269-dirt-track-racing.json) |
 | Dirt Track Racing 2 | 73758 | [73758-dirt-track-racing-2.json](./73758-dirt-track-racing-2.json) |
 | Dirt Track Racing Pinball | 257310 | [257310-dirt-track-racing-pinball.json](./257310-dirt-track-racing-pinball.json) |
@@ -9447,6 +9450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distraint: Deluxe Edition | 100761 | [100761-distraint-deluxe-edition.json](./100761-distraint-deluxe-edition.json) |
 | Distraint: Pocket Pixel Horror | 134442 | [134442-distraint-pocket-pixel-horror.json](./134442-distraint-pocket-pixel-horror.json) |
 | Distress | 202245 | [202245-distress.json](./202245-distress.json) |
+| Distress | 217673 | [217673-distress.json](./217673-distress.json) |
 | Distress Signal | 178640 | [178640-distress-signal.json](./178640-distress-signal.json) |
 | Distress: A Choice-Driven Sci-Fi Adventure | 110970 | [110970-distress-a-choice-driven-sci-fi-adventure.json](./110970-distress-a-choice-driven-sci-fi-adventure.json) |
 | Distressed | 320932 | [320932-distressed.json](./320932-distressed.json) |
