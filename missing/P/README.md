@@ -13129,6 +13129,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Eye: The Young Heir | 348374 | [348374-private-eye-the-young-heir.json](./348374-private-eye-the-young-heir.json) |
 | Private Garden | 331099 | [331099-private-garden.json](./331099-private-garden.json) |
 | Private Grimoire Magic School | 123256 | [123256-private-grimoire-magic-school.json](./123256-private-grimoire-magic-school.json) |
+| Private Idol Disc Vol. 1: Kinoshita Yuu | 213732 | [213732-private-idol-disc-vol-1-kinoshita-yuu.json](./213732-private-idol-disc-vol-1-kinoshita-yuu.json) |
+| Private Idol Disc Vol. 10: Masaki Mai | 213748 | [213748-private-idol-disc-vol-10-masaki-mai.json](./213748-private-idol-disc-vol-10-masaki-mai.json) |
+| Private Idol Disc Vol. 11: Mayumi Hirose | 213749 | [213749-private-idol-disc-vol-11-mayumi-hirose.json](./213749-private-idol-disc-vol-11-mayumi-hirose.json) |
+| Private Idol Disc Vol. 2: Uchiyama Miki | 213733 | [213733-private-idol-disc-vol-2-uchiyama-miki.json](./213733-private-idol-disc-vol-2-uchiyama-miki.json) |
+| Private Idol Disc Vol. 3: Oshima Akemi | 213734 | [213734-private-idol-disc-vol-3-oshima-akemi.json](./213734-private-idol-disc-vol-3-oshima-akemi.json) |
+| Private Idol Disc Vol. 4: Kuroda Mirei | 213735 | [213735-private-idol-disc-vol-4-kuroda-mirei.json](./213735-private-idol-disc-vol-4-kuroda-mirei.json) |
+| Private Idol Disc Vol. 5: Fujisaki Nanako | 213736 | [213736-private-idol-disc-vol-5-fujisaki-nanako.json](./213736-private-idol-disc-vol-5-fujisaki-nanako.json) |
+| Private Idol Disc Vol. 6: Yoshida Satomi | 213737 | [213737-private-idol-disc-vol-6-yoshida-satomi.json](./213737-private-idol-disc-vol-6-yoshida-satomi.json) |
+| Private Idol Disc Vol. 7: Asou Kaori | 213738 | [213738-private-idol-disc-vol-7-asou-kaori.json](./213738-private-idol-disc-vol-7-asou-kaori.json) |
+| Private Idol Disc Vol. 8: Furukawa Emiko | 213739 | [213739-private-idol-disc-vol-8-furukawa-emiko.json](./213739-private-idol-disc-vol-8-furukawa-emiko.json) |
+| Private Idol Disc Vol. 9: Nagamatsu Keiko | 213740 | [213740-private-idol-disc-vol-9-nagamatsu-keiko.json](./213740-private-idol-disc-vol-9-nagamatsu-keiko.json) |
+| Private Idol Disc: Data-hen Race Queen F | 213742 | [213742-private-idol-disc-data-hen-race-queen-f.json](./213742-private-idol-disc-data-hen-race-queen-f.json) |
+| Private Idol Disc: Data-hen Race Queen G | 213746 | [213746-private-idol-disc-data-hen-race-queen-g.json](./213746-private-idol-disc-data-hen-race-queen-g.json) |
+| Private Idol Disc: Tokobetsu-hen - Cosplayers | 213743 | [213743-private-idol-disc-tokobetsu-hen-cosplayers.json](./213743-private-idol-disc-tokobetsu-hen-cosplayers.json) |
+| Private Idol Disc: Tokubetsu-hen Campaign Girl '97 | 213744 | [213744-private-idol-disc-tokubetsu-hen-campaign-girl-97.json](./213744-private-idol-disc-tokubetsu-hen-campaign-girl-97.json) |
+| Private Idol Disc: Tokubetsu-hen Kogyaru Daihyakka 100 | 213745 | [213745-private-idol-disc-tokubetsu-hen-kogyaru-daihyakka-100.json](./213745-private-idol-disc-tokubetsu-hen-kogyaru-daihyakka-100.json) |
 | Private Infiltrator | 62676 | [62676-private-infiltrator.json](./62676-private-infiltrator.json) |
 | Private Lesson with My Lover Teacher | 255111 | [255111-private-lesson-with-my-lover-teacher.json](./255111-private-lesson-with-my-lover-teacher.json) |
 | Private Lesson with My Lover Teacher 2 | 382782 | [382782-private-lesson-with-my-lover-teacher-2.json](./382782-private-lesson-with-my-lover-teacher-2.json) |
