@@ -6522,6 +6522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pippa Funnell: Ranch Rescue | 284231 | [284231-pippa-funnell-ranch-rescue.json](./284231-pippa-funnell-ranch-rescue.json) |
 | Pippa Funnell: The Stud Farm Inheritance | 64115 | [64115-pippa-funnell-the-stud-farm-inheritance.json](./64115-pippa-funnell-the-stud-farm-inheritance.json) |
 | Pippa of Caerbannog | 412408 | [412408-pippa-of-caerbannog.json](./412408-pippa-of-caerbannog.json) |
+| Pippi | 225371 | [225371-pippi.json](./225371-pippi.json) |
 | Pippi | 282509 | [282509-pippi.json](./282509-pippi.json) |
 | Pippin | 92542 | [92542-pippin.json](./92542-pippin.json) |
 | Pippin Atmark Demonstration Disk | 289751 | [289751-pippin-atmark-demonstration-disk.json](./289751-pippin-atmark-demonstration-disk.json) |
@@ -7036,6 +7037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series Pollux: Hero in the box | 395668 | [395668-pixel-game-maker-series-pollux-hero-in-the-box.json](./395668-pixel-game-maker-series-pollux-hero-in-the-box.json) |
 | Pixel Game Maker Series Project Nosferatu | 276125 | [276125-pixel-game-maker-series-project-nosferatu.json](./276125-pixel-game-maker-series-project-nosferatu.json) |
 | Pixel Game Maker Series: Angel's Blood | 224205 | [224205-pixel-game-maker-series-angels-blood.json](./224205-pixel-game-maker-series-angels-blood.json) |
+| Pixel Game Maker Series: Angel's Blood | 225331 | [225331-pixel-game-maker-series-angels-blood.json](./225331-pixel-game-maker-series-angels-blood.json) |
 | Pixel Game Maker Series: Cat and Castle | 288314 | [288314-pixel-game-maker-series-cat-and-castle.json](./288314-pixel-game-maker-series-cat-and-castle.json) |
 | Pixel Game Maker Series: Chrotopia | 320460 | [320460-pixel-game-maker-series-chrotopia.json](./320460-pixel-game-maker-series-chrotopia.json) |
 | Pixel Game Maker Series: Clam Knight | 214686 | [214686-pixel-game-maker-series-clam-knight.json](./214686-pixel-game-maker-series-clam-knight.json) |
@@ -8479,6 +8481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Dead! | 355470 | [355470-play-dead.json](./355470-play-dead.json) |
 | Play Dead! #2 | 183073 | [183073-play-dead-2.json](./183073-play-dead-2.json) |
 | Play Dice | 277867 | [277867-play-dice.json](./277867-play-dice.json) |
+| Play Disney Parks | 225352 | [225352-play-disney-parks.json](./225352-play-disney-parks.json) |
 | Play Faster | 401781 | [401781-play-faster.json](./401781-play-faster.json) |
 | Play Fire: Battle Royale | 221381 | [221381-play-fire-battle-royale.json](./221381-play-fire-battle-royale.json) |
 | Play for Granny Grandpa Part 4 | 248173 | [248173-play-for-granny-grandpa-part-4.json](./248173-play-for-granny-grandpa-part-4.json) |
