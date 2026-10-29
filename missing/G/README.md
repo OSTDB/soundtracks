@@ -5411,6 +5411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godsend | 112757 | [112757-godsend.json](./112757-godsend.json) |
 | GodSend | 381055 | [381055-godsend.json](./381055-godsend.json) |
 | Godsend Arena | 235853 | [235853-godsend-arena.json](./235853-godsend-arena.json) |
+| Godshard Chronicles | 189844 | [189844-godshard-chronicles.json](./189844-godshard-chronicles.json) |
 | Godslayer Arena | 295851 | [295851-godslayer-arena.json](./295851-godslayer-arena.json) |
 | Godspeed | 271131 | [271131-godspeed.json](./271131-godspeed.json) |
 | Godspeed: A Flame for Winter | 321741 | [321741-godspeed-a-flame-for-winter.json](./321741-godspeed-a-flame-for-winter.json) |
@@ -8726,6 +8727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grr Grr Gnomes | 420527 | [420527-grr-grr-gnomes.json](./420527-grr-grr-gnomes.json) |
 | Grr! Bearly Sane | 169891 | [169891-grr-bearly-sane.json](./169891-grr-bearly-sane.json) |
 | Gru Dash Play | 384538 | [384538-gru-dash-play.json](./384538-gru-dash-play.json) |
+| Grub Gauntlet | 189809 | [189809-grub-gauntlet.json](./189809-grub-gauntlet.json) |
 | Grub Guardian | 395883 | [395883-grub-guardian.json](./395883-grub-guardian.json) |
 | Grub Truck | 295859 | [295859-grub-truck.json](./295859-grub-truck.json) |
 | Grubby Fingers | 343305 | [343305-grubby-fingers.json](./343305-grubby-fingers.json) |
