@@ -1709,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garena Blockman Go | 220215 | [220215-garena-blockman-go.json](./220215-garena-blockman-go.json) |
 | Garena Contra Returns | 223941 | [223941-garena-contra-returns.json](./223941-garena-contra-returns.json) |
 | Garena Speed Drifters | 125872 | [125872-garena-speed-drifters.json](./125872-garena-speed-drifters.json) |
+| Garenburg Penitence: The Riflebird | 197002 | [197002-garenburg-penitence-the-riflebird.json](./197002-garenburg-penitence-the-riflebird.json) |
 | Garenburg Woods | 75915 | [75915-garenburg-woods.json](./75915-garenburg-woods.json) |
 | Garestia | 253345 | [253345-garestia.json](./253345-garestia.json) |
 | Garetto | 163917 | [163917-garetto.json](./163917-garetto.json) |
@@ -2972,6 +2973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gerbil Physics | 93524 | [93524-gerbil-physics.json](./93524-gerbil-physics.json) |
 | Gerçeğin Ötesinde: Beyond Reality | 19152 | [19152-gercegin-otesinde-beyond-reality.json](./19152-gercegin-otesinde-beyond-reality.json) |
 | Gerda: A Flame in Winter - Modstand Bundle | 251114 | [251114-gerda-a-flame-in-winter-modstand-bundle.json](./251114-gerda-a-flame-in-winter-modstand-bundle.json) |
+| Gerel: Against the Corvus Empire | 196985 | [196985-gerel-against-the-corvus-empire.json](./196985-gerel-against-the-corvus-empire.json) |
 | Geri's Chess | 50864 | [50864-geris-chess.json](./50864-geris-chess.json) |
 | Gericonia 2 | 127733 | [127733-gericonia-2.json](./127733-gericonia-2.json) |
 | Germ Blasters | 353910 | [353910-germ-blasters.json](./353910-germ-blasters.json) |
@@ -4379,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloamroot | 399850 | [399850-gloamroot.json](./399850-gloamroot.json) |
 | Gloamryn | 346577 | [346577-gloamryn.json](./346577-gloamryn.json) |
 | Gloamvault | 339957 | [339957-gloamvault.json](./339957-gloamvault.json) |
+| Glob | 197007 | [197007-glob.json](./197007-glob.json) |
 | Glob Dash | 166481 | [166481-glob-dash.json](./166481-glob-dash.json) |
 | Globaglorp Simulator | 341147 | [341147-globaglorp-simulator.json](./341147-globaglorp-simulator.json) |
 | Global Adventures | 43119 | [43119-global-adventures.json](./43119-global-adventures.json) |
@@ -6063,6 +6066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good | 365035 | [365035-good.json](./365035-good.json) |
 | Good & Bad Driver | 302106 | [302106-good-and-bad-driver.json](./302106-good-and-bad-driver.json) |
 | Good Bear | 219803 | [219803-good-bear.json](./219803-good-bear.json) |
+| Good Bones | 196973 | [196973-good-bones.json](./196973-good-bones.json) |
 | Good Boy | 229329 | [229329-good-boy.json](./229329-good-boy.json) |
 | Good Boy 2 | 229330 | [229330-good-boy-2.json](./229330-good-boy-2.json) |
 | Good Boy Simulator | 323424 | [323424-good-boy-simulator.json](./323424-good-boy-simulator.json) |
@@ -6996,6 +7000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Vice City - The Nextgen Edition | 329345 | [329345-grand-theft-auto-vice-city-the-nextgen-edition.json](./329345-grand-theft-auto-vice-city-the-nextgen-edition.json) |
 | Grand Theft Auto: Vice City Stories | 3262 | [3262-grand-theft-auto-vice-city-stories.json](./3262-grand-theft-auto-vice-city-stories.json) |
 | Grand Theft Bubble | 329720 | [329720-grand-theft-bubble.json](./329720-grand-theft-bubble.json) |
+| Grand Theft Gato: Vice Kitty | 196969 | [196969-grand-theft-gato-vice-kitty.json](./196969-grand-theft-gato-vice-kitty.json) |
 | Grand Theft Houso | 288703 | [288703-grand-theft-houso.json](./288703-grand-theft-houso.json) |
 | Grand Theft Rome | 193441 | [193441-grand-theft-rome.json](./193441-grand-theft-rome.json) |
 | Grand Theft Timeline | 410456 | [410456-grand-theft-timeline.json](./410456-grand-theft-timeline.json) |
@@ -7548,6 +7553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravityBall | 409647 | [409647-gravityball.json](./409647-gravityball.json) |
 | Gravityscape DX | 287590 | [287590-gravityscape-dx.json](./287590-gravityscape-dx.json) |
 | GravityTunnelVR | 52773 | [52773-gravitytunnelvr.json](./52773-gravitytunnelvr.json) |
+| Gravix | 196980 | [196980-gravix.json](./196980-gravix.json) |
 | Gravlist | 234279 | [234279-gravlist.json](./234279-gravlist.json) |
 | GravMetal | 335736 | [335736-gravmetal.json](./335736-gravmetal.json) |
 | GravNewton | 52249 | [52249-gravnewton.json](./52249-gravnewton.json) |
