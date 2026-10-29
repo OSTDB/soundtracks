@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramageddon | 146757 | [146757-ramageddon.json](./146757-ramageddon.json) |
 | Ramas' Call: Twisted Timing | 261734 | [261734-ramas-call-twisted-timing.json](./261734-ramas-call-twisted-timing.json) |
 | Ramayana | 35184 | [35184-ramayana.json](./35184-ramayana.json) |
+| Rambell | 226477 | [226477-rambell.json](./226477-rambell.json) |
 | Ramble | 102587 | [102587-ramble.json](./102587-ramble.json) |
 | Ramble Planet | 152374 | [152374-ramble-planet.json](./152374-ramble-planet.json) |
 | Rambling with my friend | 183367 | [183367-rambling-with-my-friend.json](./183367-rambling-with-my-friend.json) |
@@ -4556,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RePirates | 181332 | [181332-repirates.json](./181332-repirates.json) |
 | Repit 2 | 220685 | [220685-repit-2.json](./220685-repit-2.json) |
 | Repkiss | 143444 | [143444-repkiss.json](./143444-repkiss.json) |
+| Replaceable | 226471 | [226471-replaceable.json](./226471-replaceable.json) |
 | Replacement | 182763 | [182763-replacement.json](./182763-replacement.json) |
 | ReplaceR | 251372 | [251372-replacer.json](./251372-replacer.json) |
 | Replanet | 177736 | [177736-replanet.json](./177736-replanet.json) |
@@ -9568,6 +9570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooms | 265556 | [265556-rooms.json](./265556-rooms.json) |
 | Rooms | 388930 | [388930-rooms.json](./388930-rooms.json) |
 | Rooms of Dread | 232027 | [232027-rooms-of-dread.json](./232027-rooms-of-dread.json) |
+| Rooms Within | 226487 | [226487-rooms-within.json](./226487-rooms-within.json) |
 | Rooms: The Adventure of Anne & George | 110803 | [110803-rooms-the-adventure-of-anne-and-george.json](./110803-rooms-the-adventure-of-anne-and-george.json) |
 | Rooms: The Main Building | 5130 | [5130-rooms-the-main-building.json](./5130-rooms-the-main-building.json) |
 | Rooms: The Toymaker's Mansion | 193678 | [193678-rooms-the-toymakers-mansion.json](./193678-rooms-the-toymakers-mansion.json) |
@@ -10608,6 +10611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumour | 350560 | [350560-rumour.json](./350560-rumour.json) |
 | Rumours From Elsewhere | 112214 | [112214-rumours-from-elsewhere.json](./112214-rumours-from-elsewhere.json) |
 | Rump! | 35772 | [35772-rump.json](./35772-rump.json) |
+| Rumple Town | 226501 | [226501-rumple-town.json](./226501-rumple-town.json) |
 | Rumpus | 150522 | [150522-rumpus.json](./150522-rumpus.json) |
 | Rumpus | 30940 | [30940-rumpus.json](./30940-rumpus.json) |
 | Rumu | 74584 | [74584-rumu.json](./74584-rumu.json) |
