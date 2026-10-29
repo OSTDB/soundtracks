@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PandaSG | 157122 | [157122-pandasg.json](./157122-pandasg.json) |
 | Pandash | 248913 | [248913-pandash.json](./248913-pandash.json) |
 | Pandaty | 215552 | [215552-pandaty.json](./215552-pandaty.json) |
+| Pandea Stones | 212609 | [212609-pandea-stones.json](./212609-pandea-stones.json) |
 | Pandecrown | 215908 | [215908-pandecrown.json](./215908-pandecrown.json) |
 | Pandemia | 149517 | [149517-pandemia.json](./149517-pandemia.json) |
 | Pandemic | 147934 | [147934-pandemic.json](./147934-pandemic.json) |
@@ -5248,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picking Wheat | 208650 | [208650-picking-wheat.json](./208650-picking-wheat.json) |
 | Pickle | 314264 | [314264-pickle.json](./314264-pickle.json) |
 | Pickle | 314284 | [314284-pickle.json](./314284-pickle.json) |
+| Pickle Clicker | 212592 | [212592-pickle-clicker.json](./212592-pickle-clicker.json) |
 | Pickle Frickle | 211717 | [211717-pickle-frickle.json](./211717-pickle-frickle.json) |
 | Pickle Fun | 219110 | [219110-pickle-fun.json](./219110-pickle-fun.json) |
 | Pickle Panic | 371460 | [371460-pickle-panic.json](./371460-pickle-panic.json) |
@@ -14396,6 +14398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Summer Ice - Bowling: Story Two - Pammy Version | 214941 | [214941-project-summer-ice-bowling-story-two-pammy-version.json](./214941-project-summer-ice-bowling-story-two-pammy-version.json) |
 | Project: Summer Ice - Pinball: Jane | 233034 | [233034-project-summer-ice-pinball-jane.json](./233034-project-summer-ice-pinball-jane.json) |
 | Project: Summer Ice - Pinball: Pammy | 229079 | [229079-project-summer-ice-pinball-pammy.json](./229079-project-summer-ice-pinball-pammy.json) |
+| Project: Swap | 212610 | [212610-project-swap.json](./212610-project-swap.json) |
 | Project: SX | 331712 | [331712-project-sx.json](./331712-project-sx.json) |
 | Project: Taco | 420547 | [420547-project-taco.json](./420547-project-taco.json) |
 | Project: Tempo | 231909 | [231909-project-tempo.json](./231909-project-tempo.json) |
