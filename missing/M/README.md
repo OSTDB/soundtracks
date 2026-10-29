@@ -8982,6 +8982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Genesis | 323757 | [323757-metroid-genesis.json](./323757-metroid-genesis.json) |
 | Metroid: HD | 310611 | [310611-metroid-hd.json](./310611-metroid-hd.json) |
 | Metroid: Juicy Mission | 283383 | [283383-metroid-juicy-mission.json](./283383-metroid-juicy-mission.json) |
+| Metroid: Lost Chozo | 213152 | [213152-metroid-lost-chozo.json](./213152-metroid-lost-chozo.json) |
 | Metroid: Origins | 224478 | [224478-metroid-origins.json](./224478-metroid-origins.json) |
 | Metroid: Other M | 1113 | [1113-metroid-other-m.json](./1113-metroid-other-m.json) |
 | Metroid: Rechoose | 318019 | [318019-metroid-rechoose.json](./318019-metroid-rechoose.json) |
@@ -8991,6 +8992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Rogue Dawn | 65036 | [65036-metroid-rogue-dawn.json](./65036-metroid-rogue-dawn.json) |
 | Metroid: Samus Returns | 37140 | [37140-metroid-samus-returns.json](./37140-metroid-samus-returns.json) |
 | Metroid: Samus Returns - Special Edition | 136292 | [136292-metroid-samus-returns-special-edition.json](./136292-metroid-samus-returns-special-edition.json) |
+| Metroid: Scrolls 6 | 213151 | [213151-metroid-scrolls-6.json](./213151-metroid-scrolls-6.json) |
 | Metroid: Spooky Mission | 213825 | [213825-metroid-spooky-mission.json](./213825-metroid-spooky-mission.json) |
 | Metroid: SR387 | 213761 | [213761-metroid-sr387.json](./213761-metroid-sr387.json) |
 | Metroid: SR388 | 324000 | [324000-metroid-sr388.json](./324000-metroid-sr388.json) |
@@ -11580,6 +11582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minnie | 228443 | [228443-minnie.json](./228443-minnie.json) |
 | Minnie & Friends: Yume no Kuni wo Sagashite | 282232 | [282232-minnie-and-friends-yume-no-kuni-wo-sagashite.json](./282232-minnie-and-friends-yume-no-kuni-wo-sagashite.json) |
 | Minnie Mouse | 245438 | [245438-minnie-mouse.json](./245438-minnie-mouse.json) |
+| Minnie Mouse Bow-tique: Super Surprise Party! | 213163 | [213163-minnie-mouse-bow-tique-super-surprise-party.json](./213163-minnie-mouse-bow-tique-super-surprise-party.json) |
 | Minnie's Eggs-Aspirating Hen House | 246513 | [246513-minnies-eggs-aspirating-hen-house.json](./246513-minnies-eggs-aspirating-hen-house.json) |
 | Minnie's Fruit Fiasco | 246514 | [246514-minnies-fruit-fiasco.json](./246514-minnies-fruit-fiasco.json) |
 | Minnie's Pearls | 246515 | [246515-minnies-pearls.json](./246515-minnies-pearls.json) |
@@ -17764,11 +17767,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Fairy Pony | 87180 | [87180-my-fairy-pony.json](./87180-my-fairy-pony.json) |
 | My Fairy Pony - Dress Up Game For Girls | 88045 | [88045-my-fairy-pony-dress-up-game-for-girls.json](./88045-my-fairy-pony-dress-up-game-for-girls.json) |
 | My Fairy Princess | 415014 | [415014-my-fairy-princess.json](./415014-my-fairy-princess.json) |
+| My Fairytale Girlfriend | 213159 | [213159-my-fairytale-girlfriend.json](./213159-my-fairytale-girlfriend.json) |
 | My Faithful and Loyal Wife Would Never Cheat on Me | 278413 | [278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json](./278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json) |
 | My Fake Boyfriend | 299457 | [299457-my-fake-boyfriend.json](./299457-my-fake-boyfriend.json) |
 | My Fake Goblin Wife | 239803 | [239803-my-fake-goblin-wife.json](./239803-my-fake-goblin-wife.json) |
 | My Fake Marriage | 299500 | [299500-my-fake-marriage.json](./299500-my-fake-marriage.json) |
 | My Family Tree | 379169 | [379169-my-family-tree.json](./379169-my-family-tree.json) |
+| My Fantastic Ranch | 213165 | [213165-my-fantastic-ranch.json](./213165-my-fantastic-ranch.json) |
 | My Fantasy Hostess Club | 310243 | [310243-my-fantasy-hostess-club.json](./310243-my-fantasy-hostess-club.json) |
 | My Fantasy Wedding | 73354 | [73354-my-fantasy-wedding.json](./73354-my-fantasy-wedding.json) |
 | My Farm | 107900 | [107900-my-farm.json](./107900-my-farm.json) |
