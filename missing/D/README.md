@@ -3397,6 +3397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Second | 216300 | [216300-dead-second.json](./216300-dead-second.json) |
 | Dead Secret | 14403 | [14403-dead-secret.json](./14403-dead-secret.json) |
 | Dead Secret Circle | 99822 | [99822-dead-secret-circle.json](./99822-dead-secret-circle.json) |
+| Dead Sector | 179298 | [179298-dead-sector.json](./179298-dead-sector.json) |
 | Dead Sector | 222316 | [222316-dead-sector.json](./222316-dead-sector.json) |
 | Dead Sector: Outbreak | 399733 | [399733-dead-sector-outbreak.json](./399733-dead-sector-outbreak.json) |
 | Dead Shapes | 251815 | [251815-dead-shapes.json](./251815-dead-shapes.json) |
@@ -7032,6 +7033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devastators | 39632 | [39632-devastators.json](./39632-devastators.json) |
 | Devastro | 80336 | [80336-devastro.json](./80336-devastro.json) |
 | Developer Daily | 381390 | [381390-developer-daily.json](./381390-developer-daily.json) |
+| Developer Showdown | 179321 | [179321-developer-showdown.json](./179321-developer-showdown.json) |
 | Devestor | 375808 | [375808-devestor.json](./375808-devestor.json) |
 | Devexus | 199343 | [199343-devexus.json](./199343-devexus.json) |
 | Devi & Pii | 215752 | [215752-devi-and-pii.json](./215752-devi-and-pii.json) |
@@ -14882,6 +14884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Battle: Cats | 188237 | [188237-drone-battle-cats.json](./188237-drone-battle-cats.json) |
 | Drone Break | 292765 | [292765-drone-break.json](./292765-drone-break.json) |
 | Drone Combat | 127013 | [127013-drone-combat.json](./127013-drone-combat.json) |
+| Drone Control | 179312 | [179312-drone-control.json](./179312-drone-control.json) |
 | Drone Crash Course | 190171 | [190171-drone-crash-course.json](./190171-drone-crash-course.json) |
 | Drone Dash | 343746 | [343746-drone-dash.json](./343746-drone-dash.json) |
 | Drone Delivery | 238138 | [238138-drone-delivery.json](./238138-drone-delivery.json) |
