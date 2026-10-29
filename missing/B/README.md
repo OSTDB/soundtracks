@@ -10095,6 +10095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloomwalker | 362042 | [362042-bloomwalker.json](./362042-bloomwalker.json) |
 | Bloomyth | 254921 | [254921-bloomyth.json](./254921-bloomyth.json) |
 | Bloomyth & Strong Moon Bundle | 262055 | [262055-bloomyth-and-strong-moon-bundle.json](./262055-bloomyth-and-strong-moon-bundle.json) |
+| Bloon Rush | 188766 | [188766-bloon-rush.json](./188766-bloon-rush.json) |
 | Bloons | 261913 | [261913-bloons.json](./261913-bloons.json) |
 | Bloons | 93561 | [93561-bloons.json](./93561-bloons.json) |
 | Bloons 2 | 63569 | [63569-bloons-2.json](./63569-bloons-2.json) |
@@ -11921,6 +11922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Barrage | 110986 | [110986-boss-barrage.json](./110986-boss-barrage.json) |
 | Boss Bashing Button Brawlers | 176764 | [176764-boss-bashing-button-brawlers.json](./176764-boss-bashing-button-brawlers.json) |
 | Boss Battle Arena | 371065 | [371065-boss-battle-arena.json](./371065-boss-battle-arena.json) |
+| Boss Beek-Beekeeping Simulator | 188782 | [188782-boss-beek-beekeeping-simulator.json](./188782-boss-beek-beekeeping-simulator.json) |
 | Boss Breaker | 291348 | [291348-boss-breaker.json](./291348-boss-breaker.json) |
 | Boss Fighters | 235372 | [235372-boss-fighters.json](./235372-boss-fighters.json) |
 | Boss Hunter | 233485 | [233485-boss-hunter.json](./233485-boss-hunter.json) |
@@ -16254,6 +16256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bygone Worlds: Jerusalem | 74446 | [74446-bygone-worlds-jerusalem.json](./74446-bygone-worlds-jerusalem.json) |
 | Bylina | 319454 | [319454-bylina.json](./319454-bylina.json) |
 | Bylina: Lure of the Sorceress | 298720 | [298720-bylina-lure-of-the-sorceress.json](./298720-bylina-lure-of-the-sorceress.json) |
+| Bylista: Vasna | 188774 | [188774-bylista-vasna.json](./188774-bylista-vasna.json) |
 | ByLo | 234721 | [234721-bylo.json](./234721-bylo.json) |
 | Byouin Sodom | 59070 | [59070-byouin-sodom.json](./59070-byouin-sodom.json) |
 | Byouki na Generation: Crane Catcher no Bourei | 383043 | [383043-byouki-na-generation-crane-catcher-no-bourei.json](./383043-byouki-na-generation-crane-catcher-no-bourei.json) |
