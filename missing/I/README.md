@@ -4132,6 +4132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instant Sports Tennis | 144207 | [144207-instant-sports-tennis.json](./144207-instant-sports-tennis.json) |
 | Instant Sports Winter Games | 163828 | [163828-instant-sports-winter-games.json](./163828-instant-sports-winter-games.json) |
 | Instant Sports: All-Stars | 195094 | [195094-instant-sports-all-stars.json](./195094-instant-sports-all-stars.json) |
+| Instant Summer | 180941 | [180941-instant-summer.json](./180941-instant-summer.json) |
 | Instant Tennis | 108255 | [108255-instant-tennis.json](./108255-instant-tennis.json) |
 | Instant War | 116425 | [116425-instant-war.json](./116425-instant-war.json) |
 | Instantale | 391769 | [391769-instantale.json](./391769-instantale.json) |
