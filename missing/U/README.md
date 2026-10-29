@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ugly Button Adventure | 273853 | [273853-ugly-button-adventure.json](./273853-ugly-button-adventure.json) |
 | Ugly Meter | 91842 | [91842-ugly-meter.json](./91842-ugly-meter.json) |
 | Ugmania | 368675 | [368675-ugmania.json](./368675-ugmania.json) |
+| Ugokasou! Chibi Kyara Koubou | 222060 | [222060-ugokasou-chibi-kyara-koubou.json](./222060-ugokasou-chibi-kyara-koubou.json) |
 | Ugoku E Ver. 2.0: Aryol | 44427 | [44427-ugoku-e-ver-2-0-aryol.json](./44427-ugoku-e-ver-2-0-aryol.json) |
 | Ugoku Sushi Bar | 395584 | [395584-ugoku-sushi-bar.json](./395584-ugoku-sushi-bar.json) |
 | Uh Oh Airlines | 340986 | [340986-uh-oh-airlines.json](./340986-uh-oh-airlines.json) |
@@ -2924,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Full Edition | 332506 | [332506-urban-flow-full-edition.json](./332506-urban-flow-full-edition.json) |
 | Urban Flow: GOTY Edition | 278653 | [278653-urban-flow-goty-edition.json](./278653-urban-flow-goty-edition.json) |
 | Urban Flow: Grand Edition | 313215 | [313215-urban-flow-grand-edition.json](./313215-urban-flow-grand-edition.json) |
+| Urban Flow: London Extended Edition | 222049 | [222049-urban-flow-london-extended-edition.json](./222049-urban-flow-london-extended-edition.json) |
 | Urban Flow: London Rules | 237925 | [237925-urban-flow-london-rules.json](./237925-urban-flow-london-rules.json) |
 | Urban Flow: Mega Edition | 328807 | [328807-urban-flow-mega-edition.json](./328807-urban-flow-mega-edition.json) |
 | Urban Flow: Platinum Edition | 238741 | [238741-urban-flow-platinum-edition.json](./238741-urban-flow-platinum-edition.json) |
