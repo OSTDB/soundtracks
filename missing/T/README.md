@@ -2289,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarthenia | 171788 | [171788-tarthenia.json](./171788-tarthenia.json) |
 | Tarutobi | 371917 | [371917-tarutobi.json](./371917-tarutobi.json) |
 | Tarvos Desolation | 345044 | [345044-tarvos-desolation.json](./345044-tarvos-desolation.json) |
+| Tarzan | 214885 | [214885-tarzan.json](./214885-tarzan.json) |
 | Tarzan | 25728 | [25728-tarzan.json](./25728-tarzan.json) |
 | Tarzan | 284219 | [284219-tarzan.json](./284219-tarzan.json) |
 | Tarzan | 28468 | [28468-tarzan.json](./28468-tarzan.json) |
@@ -8669,6 +8670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game Creation Recipe | 178449 | [178449-the-game-creation-recipe.json](./178449-the-game-creation-recipe.json) |
 | The Game for Free | 374420 | [374420-the-game-for-free.json](./374420-the-game-for-free.json) |
 | The Game For Skippers | 368077 | [368077-the-game-for-skippers.json](./368077-the-game-for-skippers.json) |
+| The Game Formerly Known as Hidden Nazi Mode | 214898 | [214898-the-game-formerly-known-as-hidden-nazi-mode.json](./214898-the-game-formerly-known-as-hidden-nazi-mode.json) |
 | The Game Has Started | 387007 | [387007-the-game-has-started.json](./387007-the-game-has-started.json) |
 | The Game is ON | 142694 | [142694-the-game-is-on.json](./142694-the-game-is-on.json) |
 | The Game is ON | 153026 | [153026-the-game-is-on.json](./153026-the-game-is-on.json) |
@@ -12078,6 +12080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Midnight Barber | 368293 | [368293-the-midnight-barber.json](./368293-the-midnight-barber.json) |
 | The Midnight Bus | 314736 | [314736-the-midnight-bus.json](./314736-the-midnight-bus.json) |
 | The Midnight Crimes | 258646 | [258646-the-midnight-crimes.json](./258646-the-midnight-crimes.json) |
+| The Midnight Dance | 214899 | [214899-the-midnight-dance.json](./214899-the-midnight-dance.json) |
 | The Midnight Exorcist | 349230 | [349230-the-midnight-exorcist.json](./349230-the-midnight-exorcist.json) |
 | The Midnight Game | 379914 | [379914-the-midnight-game.json](./379914-the-midnight-game.json) |
 | The Midnight Lapse: Reborn | 26984 | [26984-the-midnight-lapse-reborn.json](./26984-the-midnight-lapse-reborn.json) |
@@ -18145,6 +18148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Hawk | 354645 | [354645-thunder-hawk.json](./354645-thunder-hawk.json) |
 | Thunder Helix | 211162 | [211162-thunder-helix.json](./211162-thunder-helix.json) |
 | Thunder Hoop | 40213 | [40213-thunder-hoop.json](./40213-thunder-hoop.json) |
+| Thunder in Paradise | 214890 | [214890-thunder-in-paradise.json](./214890-thunder-in-paradise.json) |
 | Thunder Jack's Log Runner | 252716 | [252716-thunder-jacks-log-runner.json](./252716-thunder-jacks-log-runner.json) |
 | Thunder Jaws | 12863 | [12863-thunder-jaws.json](./12863-thunder-jaws.json) |
 | Thunder Jaws | 309189 | [309189-thunder-jaws.json](./309189-thunder-jaws.json) |
@@ -23996,6 +24000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic Bunny | 145523 | [145523-toxic-bunny.json](./145523-toxic-bunny.json) |
 | Toxic Crusaders | 175121 | [175121-toxic-crusaders.json](./175121-toxic-crusaders.json) |
 | Toxic Crusaders | 175122 | [175122-toxic-crusaders.json](./175122-toxic-crusaders.json) |
+| Toxic Crusaders | 214895 | [214895-toxic-crusaders.json](./214895-toxic-crusaders.json) |
 | Toxic Crusaders | 8022 | [8022-toxic-crusaders.json](./8022-toxic-crusaders.json) |
 | Toxic Grind | 6215 | [6215-toxic-grind.json](./6215-toxic-grind.json) |
 | Toxic Harvest | 393286 | [393286-toxic-harvest.json](./393286-toxic-harvest.json) |
@@ -27512,6 +27517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrotMania: Aeternum Obscurum | 313470 | [313470-trotmania-aeternum-obscurum.json](./313470-trotmania-aeternum-obscurum.json) |
 | TrotMania: Chrystalize | 261385 | [261385-trotmania-chrystalize.json](./261385-trotmania-chrystalize.json) |
 | TrotMania: Rhythm is Magic | 261384 | [261384-trotmania-rhythm-is-magic.json](./261384-trotmania-rhythm-is-magic.json) |
+| Trouble Comes Twice | 214884 | [214884-trouble-comes-twice.json](./214884-trouble-comes-twice.json) |
 | Trouble Comes Twice: Bonus Stories | 295266 | [295266-trouble-comes-twice-bonus-stories.json](./295266-trouble-comes-twice-bonus-stories.json) |
 | Trouble Fortune Company Happy Cure | 221830 | [221830-trouble-fortune-company-happy-cure.json](./221830-trouble-fortune-company-happy-cure.json) |
 | Trouble in Cookie Town | 346378 | [346378-trouble-in-cookie-town.json](./346378-trouble-in-cookie-town.json) |
