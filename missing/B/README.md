@@ -4492,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beastly Muscles | 202669 | [202669-beastly-muscles.json](./202669-beastly-muscles.json) |
 | Beastly Tactics | 318400 | [318400-beastly-tactics.json](./318400-beastly-tactics.json) |
 | Beastmancer | 30346 | [30346-beastmancer.json](./30346-beastmancer.json) |
+| Beastmaster | 195378 | [195378-beastmaster.json](./195378-beastmaster.json) |
 | Beastmaster and Princes | 121737 | [121737-beastmaster-and-princes.json](./121737-beastmaster-and-princes.json) |
 | Beastro | 362043 | [362043-beastro.json](./362043-beastro.json) |
 | Beastrun | 151205 | [151205-beastrun.json](./151205-beastrun.json) |
@@ -10904,6 +10905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokura no School Battle + Sport Set | 144667 | [144667-bokura-no-school-battle-sport-set.json](./144667-bokura-no-school-battle-sport-set.json) |
 | Bokura no Terebi Game Kentei | 69296 | [69296-bokura-no-terebi-game-kentei.json](./69296-bokura-no-terebi-game-kentei.json) |
 | Bokura: Planet | 318275 | [318275-bokura-planet.json](./318275-bokura-planet.json) |
+| BokuRobo: Boxed Cell Robot Armies | 195368 | [195368-bokurobo-boxed-cell-robot-armies.json](./195368-bokurobo-boxed-cell-robot-armies.json) |
 | Bola | 92445 | [92445-bola.json](./92445-bola.json) |
 | Bold | 243680 | [243680-bold.json](./243680-bold.json) |
 | Bold Blade | 81010 | [81010-bold-blade.json](./81010-bold-blade.json) |
@@ -14627,6 +14629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BubbleGum: Push | 368249 | [368249-bubblegum-push.json](./368249-bubblegum-push.json) |
 | Bubbler | 13448 | [13448-bubbler.json](./13448-bubbler.json) |
 | Bubbles | 38537 | [38537-bubbles.json](./38537-bubbles.json) |
+| Bubbles & Pearls | 195362 | [195362-bubbles-and-pearls.json](./195362-bubbles-and-pearls.json) |
 | Bubbles for Kids | 87289 | [87289-bubbles-for-kids.json](./87289-bubbles-for-kids.json) |
 | Bubbles in the Air | 347093 | [347093-bubbles-in-the-air.json](./347093-bubbles-in-the-air.json) |
 | Bubbles Master | 230848 | [230848-bubbles-master.json](./230848-bubbles-master.json) |
