@@ -8703,6 +8703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playing House | 335262 | [335262-playing-house.json](./335262-playing-house.json) |
 | Playing Kafka | 297978 | [297978-playing-kafka.json](./297978-playing-kafka.json) |
 | Playing Prague | 414139 | [414139-playing-prague.json](./414139-playing-prague.json) |
+| Playing with Fire | 194758 | [194758-playing-with-fire.json](./194758-playing-with-fire.json) |
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
 | Playing With Language: Games in English | 63775 | [63775-playing-with-language-games-in-english.json](./63775-playing-with-language-games-in-english.json) |
 | Playing with Our Lives | 291003 | [291003-playing-with-our-lives.json](./291003-playing-with-our-lives.json) |
@@ -10094,6 +10095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Shiny Gold Sigma | 306768 | [306768-pokemon-shiny-gold-sigma.json](./306768-pokemon-shiny-gold-sigma.json) |
 | Pokémon Showdown | 87797 | [87797-pokemon-showdown.json](./87797-pokemon-showdown.json) |
 | Pokémon Shuffle | 8592 | [8592-pokemon-shuffle.json](./8592-pokemon-shuffle.json) |
+| Pokémon Sienna | 194774 | [194774-pokemon-sienna.json](./194774-pokemon-sienna.json) |
 | Pokémon Sigma Platinum | 197927 | [197927-pokemon-sigma-platinum.json](./197927-pokemon-sigma-platinum.json) |
 | Pokémon Sinking Sapphire | 163228 | [163228-pokemon-sinking-sapphire.json](./163228-pokemon-sinking-sapphire.json) |
 | Pokémon Sky Stacker | 288369 | [288369-pokemon-sky-stacker.json](./288369-pokemon-sky-stacker.json) |
