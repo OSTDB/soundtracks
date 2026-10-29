@@ -2415,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gems Defenders | 220423 | [220423-gems-defenders.json](./220423-gems-defenders.json) |
 | Gems Frontier | 98550 | [98550-gems-frontier.json](./98550-gems-frontier.json) |
 | Gems Kingdom | 111604 | [111604-gems-kingdom.json](./111604-gems-kingdom.json) |
+| Gems n' Ropes | 184724 | [184724-gems-n-ropes.json](./184724-gems-n-ropes.json) |
 | Gems of Destiny: Magic Rescue | 416696 | [416696-gems-of-destiny-magic-rescue.json](./416696-gems-of-destiny-magic-rescue.json) |
 | Gems of Egypt | 395773 | [395773-gems-of-egypt.json](./395773-gems-of-egypt.json) |
 | Gems Of Evolution | 278917 | [278917-gems-of-evolution.json](./278917-gems-of-evolution.json) |
@@ -2462,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gender Euphoria VN | 183906 | [183906-gender-euphoria-vn.json](./183906-gender-euphoria-vn.json) |
 | Gender Lab Escape Simulator 2030 | 178469 | [178469-gender-lab-escape-simulator-2030.json](./178469-gender-lab-escape-simulator-2030.json) |
 | Gender Neutral Chess | 301702 | [301702-gender-neutral-chess.json](./301702-gender-neutral-chess.json) |
+| Gender Prison | 184721 | [184721-gender-prison.json](./184721-gender-prison.json) |
 | Gender Wars | 50141 | [50141-gender-wars.json](./50141-gender-wars.json) |
 | Genderfelt | 218526 | [218526-genderfelt.json](./218526-genderfelt.json) |
 | Genderless Haruka's Confinement & Discipline RPG | 82987 | [82987-genderless-harukas-confinement-and-discipline-rpg.json](./82987-genderless-harukas-confinement-and-discipline-rpg.json) |
@@ -2696,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genjin Show: Tobidase! VB Genjin | 234086 | [234086-genjin-show-tobidase-vb-genjin.json](./234086-genjin-show-tobidase-vb-genjin.json) |
 | Genjintch Tamagotchi | 229846 | [229846-genjintch-tamagotchi.json](./229846-genjintch-tamagotchi.json) |
 | Genjiro: Samurai Defense | 285973 | [285973-genjiro-samurai-defense.json](./285973-genjiro-samurai-defense.json) |
+| Genjitsukai | 184706 | [184706-genjitsukai.json](./184706-genjitsukai.json) |
 | Genkai Shikisai Kankaku Test Hard | 266168 | [266168-genkai-shikisai-kankaku-test-hard.json](./266168-genkai-shikisai-kankaku-test-hard.json) |
 | Genkai Tokki Moero Crystal | 60222 | [60222-genkai-tokki-moero-crystal.json](./60222-genkai-tokki-moero-crystal.json) |
 | Genkai Tokki: Castle Panzers | 27761 | [27761-genkai-tokki-castle-panzers.json](./27761-genkai-tokki-castle-panzers.json) |
@@ -3072,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Good by Vypur | 132536 | [132536-get-good-by-vypur.json](./132536-get-good-by-vypur.json) |
 | Get Home Safe | 229327 | [229327-get-home-safe.json](./229327-get-home-safe.json) |
 | Get In Get Out | 376434 | [376434-get-in-get-out.json](./376434-get-in-get-out.json) |
+| Get In Shape | 184733 | [184733-get-in-shape.json](./184733-get-in-shape.json) |
 | Get in the Car, Loser! | 107601 | [107601-get-in-the-car-loser.json](./107601-get-in-the-car-loser.json) |
 | Get in the Car, Loser!: The Fate of Another World | 226411 | [226411-get-in-the-car-loser-the-fate-of-another-world.json](./226411-get-in-the-car-loser-the-fate-of-another-world.json) |
 | get in the hole | 381049 | [381049-get-in-the-hole.json](./381049-get-in-the-hole.json) |
@@ -3154,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Up and Dance | 23396 | [23396-get-up-and-dance.json](./23396-get-up-and-dance.json) |
 | Get Up In The Night | 304510 | [304510-get-up-in-the-night.json](./304510-get-up-in-the-night.json) |
 | Get Up North | 106998 | [106998-get-up-north.json](./106998-get-up-north.json) |
+| Get Witchy | 184696 | [184696-get-witchy.json](./184696-get-witchy.json) |
 | Get X, Avoid Y | 128604 | [128604-get-x-avoid-y.json](./128604-get-x-avoid-y.json) |
 | Get Your Sheep Together | 195160 | [195160-get-your-sheep-together.json](./195160-get-your-sheep-together.json) |
 | Get Your Tentacles Off My Waifu | 244765 | [244765-get-your-tentacles-off-my-waifu.json](./244765-get-your-tentacles-off-my-waifu.json) |
