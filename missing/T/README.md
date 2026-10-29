@@ -21472,6 +21472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokkyuu Shirei Solbrain | 215134 | [215134-tokkyuu-shirei-solbrain.json](./215134-tokkyuu-shirei-solbrain.json) |
 | Toko & Kraft: Artificers | 287491 | [287491-toko-and-kraft-artificers.json](./287491-toko-and-kraft-artificers.json) |
 | Toko Toko Trouble | 242632 | [242632-toko-toko-trouble.json](./242632-toko-toko-trouble.json) |
+| Toko-toko Neko Puzzle Schrodinger no Hakoniwa | 225341 | [225341-toko-toko-neko-puzzle-schrodinger-no-hakoniwa.json](./225341-toko-toko-neko-puzzle-schrodinger-no-hakoniwa.json) |
 | Tokobot | 19692 | [19692-tokobot.json](./19692-tokobot.json) |
 | Tokobot Plus: Mysteries of the Karakuri | 20663 | [20663-tokobot-plus-mysteries-of-the-karakuri.json](./20663-tokobot-plus-mysteries-of-the-karakuri.json) |
 | Tokoro no Ma-Mahjong 2: Tokoro's Cup | 125973 | [125973-tokoro-no-ma-mahjong-2-tokoros-cup.json](./125973-tokoro-no-ma-mahjong-2-tokoros-cup.json) |
