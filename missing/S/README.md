@@ -3383,6 +3383,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam World: Gachapon Senshi 3 - Eiyuu Senki | 48857 | [48857-sd-gundam-world-gachapon-senshi-3-eiyuu-senki.json](./48857-sd-gundam-world-gachapon-senshi-3-eiyuu-senki.json) |
 | SD Gundam World: Gachapon Senshi 4 - New Type Story | 48856 | [48856-sd-gundam-world-gachapon-senshi-4-new-type-story.json](./48856-sd-gundam-world-gachapon-senshi-4-new-type-story.json) |
 | SD Gundam World: Gachapon Senshi 5 - Battle of Universal Century | 48855 | [48855-sd-gundam-world-gachapon-senshi-5-battle-of-universal-century.json](./48855-sd-gundam-world-gachapon-senshi-5-battle-of-universal-century.json) |
+| SD Gundam: Battle V Gundam | 218241 | [218241-sd-gundam-battle-v-gundam.json](./218241-sd-gundam-battle-v-gundam.json) |
+| SD Gundam: Final Battle | 218242 | [218242-sd-gundam-final-battle.json](./218242-sd-gundam-final-battle.json) |
 | SD Gundam: Gundam Wars | 48518 | [48518-sd-gundam-gundam-wars.json](./48518-sd-gundam-gundam-wars.json) |
 | SD Gundam: Operation U.C. | 66590 | [66590-sd-gundam-operation-u-c.json](./66590-sd-gundam-operation-u-c.json) |
 | SD Gundam: Psycho Salamander no Kyoui | 40410 | [40410-sd-gundam-psycho-salamander-no-kyoui.json](./40410-sd-gundam-psycho-salamander-no-kyoui.json) |
@@ -17051,6 +17053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders | 200392 | [200392-space-invaders.json](./200392-space-invaders.json) |
 | Space Invaders | 200393 | [200393-space-invaders.json](./200393-space-invaders.json) |
 | Space Invaders | 208860 | [208860-space-invaders.json](./208860-space-invaders.json) |
+| Space Invaders | 218289 | [218289-space-invaders.json](./218289-space-invaders.json) |
 | Space Invaders | 218361 | [218361-space-invaders.json](./218361-space-invaders.json) |
 | Space Invaders | 218440 | [218440-space-invaders.json](./218440-space-invaders.json) |
 | Space Invaders | 218445 | [218445-space-invaders.json](./218445-space-invaders.json) |
@@ -25784,6 +25787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SugarWinds | 139659 | [139659-sugarwinds.json](./139659-sugarwinds.json) |
 | Sugary Delight | 234619 | [234619-sugary-delight.json](./234619-sugary-delight.json) |
 | Sugary Shifter | 314055 | [314055-sugary-shifter.json](./314055-sugary-shifter.json) |
+| Sugary Spire | 218248 | [218248-sugary-spire.json](./218248-sugary-spire.json) |
 | Sugary Spire: Exhibition Night | 349966 | [349966-sugary-spire-exhibition-night.json](./349966-sugary-spire-exhibition-night.json) |
 | Sugee Yasashii Yandere no Ichiniji no Ruutin | 398546 | [398546-sugee-yasashii-yandere-no-ichiniji-no-ruutin.json](./398546-sugee-yasashii-yandere-no-ichiniji-no-ruutin.json) |
 | Suggestion Box | 184969 | [184969-suggestion-box.json](./184969-suggestion-box.json) |
