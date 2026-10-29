@@ -850,7 +850,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5195,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beep Boop | 249744 | [249744-beep-boop.json](./249744-beep-boop.json) |
 | Beep Boop | 319000 | [319000-beep-boop.json](./319000-beep-boop.json) |
 | Beep-Beeb | 15670 | [15670-beep-beeb.json](./15670-beep-beeb.json) |
+| Beep! Beep! Deliveries | 187673 | [187673-beep-beep-deliveries.json](./187673-beep-beep-deliveries.json) |
 | Beepers: All Pro Basketball | 217726 | [217726-beepers-all-pro-basketball.json](./217726-beepers-all-pro-basketball.json) |
 | Beepers: Fearsome Fighters | 217665 | [217665-beepers-fearsome-fighters.json](./217665-beepers-fearsome-fighters.json) |
 | Beepers: MVP Baseball | 217738 | [217738-beepers-mvp-baseball.json](./217738-beepers-mvp-baseball.json) |
