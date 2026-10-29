@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faces of the Forest | 323596 | [323596-faces-of-the-forest.json](./323596-faces-of-the-forest.json) |
 | Faces...tris III | 79320 | [79320-faces-tris-iii.json](./79320-faces-tris-iii.json) |
 | Faceted Flight | 35655 | [35655-faceted-flight.json](./35655-faceted-flight.json) |
+| Facets | 183189 | [183189-facets.json](./183189-facets.json) |
 | Facettes | 155855 | [155855-facettes.json](./155855-facettes.json) |
 | FaceValue | 237233 | [237233-facevalue.json](./237233-facevalue.json) |
 | Facewound | 243111 | [243111-facewound.json](./243111-facewound.json) |
