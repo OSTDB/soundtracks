@@ -4844,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go West! A Lucky Luke Adventure | 110321 | [110321-go-west-a-lucky-luke-adventure.json](./110321-go-west-a-lucky-luke-adventure.json) |
 | Go West! A Lucky Luke Adventure | 345551 | [345551-go-west-a-lucky-luke-adventure.json](./345551-go-west-a-lucky-luke-adventure.json) |
 | Go with the Flow | 192165 | [192165-go-with-the-flow.json](./192165-go-with-the-flow.json) |
+| Go Zero | 219928 | [219928-go-zero.json](./219928-go-zero.json) |
 | GO-4-Soldier-1 | 126400 | [126400-go-4-soldier-1.json](./126400-go-4-soldier-1.json) |
 | Go-Go Gourmet | 64717 | [64717-go-go-gourmet.json](./64717-go-go-gourmet.json) |
 | Go-Go Gourmet: Chef of the Year | 64714 | [64714-go-go-gourmet-chef-of-the-year.json](./64714-go-go-gourmet-chef-of-the-year.json) |
