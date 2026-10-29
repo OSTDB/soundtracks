@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taipei Metro Quest | 178664 | [178664-taipei-metro-quest.json](./178664-taipei-metro-quest.json) |
 | Taipei Midsummer Night's Dream | 339104 | [339104-taipei-midsummer-nights-dream.json](./339104-taipei-midsummer-nights-dream.json) |
 | Taiping Heavenly Kingdom | 409640 | [409640-taiping-heavenly-kingdom.json](./409640-taiping-heavenly-kingdom.json) |
+| Taisei Project | 194779 | [194779-taisei-project.json](./194779-taisei-project.json) |
 | Taisen Bomberman | 198182 | [198182-taisen-bomberman.json](./198182-taisen-bomberman.json) |
 | Taisen Bomberman + | 198185 | [198185-taisen-bomberman.json](./198185-taisen-bomberman.json) |
 | Taisen Bomberman 24 | 198184 | [198184-taisen-bomberman-24.json](./198184-taisen-bomberman-24.json) |
@@ -16509,6 +16510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: The Telltale Definitive Series - Signature Pack | 117679 | [117679-the-walking-dead-the-telltale-definitive-series-signature-pack.json](./117679-the-walking-dead-the-telltale-definitive-series-signature-pack.json) |
 | The Walking Dead: The Telltale Series Collection | 77489 | [77489-the-walking-dead-the-telltale-series-collection.json](./77489-the-walking-dead-the-telltale-series-collection.json) |
 | The Walking Fish | 232911 | [232911-the-walking-fish.json](./232911-the-walking-fish.json) |
+| The Walking Hero | 194816 | [194816-the-walking-hero.json](./194816-the-walking-hero.json) |
 | The Walking Trade | 345095 | [345095-the-walking-trade.json](./345095-the-walking-trade.json) |
 | The Walking Vegetables | 61617 | [61617-the-walking-vegetables.json](./61617-the-walking-vegetables.json) |
 | The Walking Zombie | 75798 | [75798-the-walking-zombie.json](./75798-the-walking-zombie.json) |
@@ -22457,6 +22459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Car: The Great Race | 206758 | [206758-toon-car-the-great-race.json](./206758-toon-car-the-great-race.json) |
 | Toon Cup 2016 | 317547 | [317547-toon-cup-2016.json](./317547-toon-cup-2016.json) |
 | Toon Cup 2018 - Football Game | 112135 | [112135-toon-cup-2018-football-game.json](./112135-toon-cup-2018-football-game.json) |
+| Toon Hoops | 194805 | [194805-toon-hoops.json](./194805-toon-hoops.json) |
 | Toon Off | 112245 | [112245-toon-off.json](./112245-toon-off.json) |
 | Toon Panic | 136860 | [136860-toon-panic.json](./136860-toon-panic.json) |
 | Toon Puzzle Island | 233083 | [233083-toon-puzzle-island.json](./233083-toon-puzzle-island.json) |
@@ -22893,6 +22896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Control | 256813 | [256813-total-control.json](./256813-total-control.json) |
 | Total Destruction 2Dee | 417712 | [417712-total-destruction-2dee.json](./417712-total-destruction-2dee.json) |
 | Total Distortion | 13787 | [13787-total-distortion.json](./13787-total-distortion.json) |
+| Total Domination | 194782 | [194782-total-domination.json](./194782-total-domination.json) |
 | Total Driftin': Touge Dreams | 351713 | [351713-total-driftin-touge-dreams.json](./351713-total-driftin-touge-dreams.json) |
 | Total Drive | 175244 | [175244-total-drive.json](./175244-total-drive.json) |
 | Total Drivin | 44871 | [44871-total-drivin.json](./44871-total-drivin.json) |
@@ -28641,6 +28645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turf | 61590 | [61590-turf.json](./61590-turf.json) |
 | Turf Hero | 37776 | [37776-turf-hero.json](./37776-turf-hero.json) |
 | Turf Memories | 37808 | [37808-turf-memories.json](./37808-turf-memories.json) |
+| Turf War | 194808 | [194808-turf-war.json](./194808-turf-war.json) |
 | Turf Wars: A Snail Escape | 207723 | [207723-turf-wars-a-snail-escape.json](./207723-turf-wars-a-snail-escape.json) |
 | Turgor Pressure | 177318 | [177318-turgor-pressure.json](./177318-turgor-pressure.json) |
 | Turi: Kaapora | 255483 | [255483-turi-kaapora.json](./255483-turi-kaapora.json) |
