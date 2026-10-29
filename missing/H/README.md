@@ -5227,6 +5227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Heart | 50485 | [50485-heros-heart.json](./50485-heros-heart.json) |
 | Hero's Hour 2 | 381190 | [381190-heros-hour-2.json](./381190-heros-hour-2.json) |
 | Hero's Hour: Deluxe Edition | 251551 | [251551-heros-hour-deluxe-edition.json](./251551-heros-hour-deluxe-edition.json) |
+| Hero's Hour: Rogue Realms | 204782 | [204782-heros-hour-rogue-realms.json](./204782-heros-hour-rogue-realms.json) |
 | Hero's Ignition | 373743 | [373743-heros-ignition.json](./373743-heros-ignition.json) |
 | Hero's Journey | 216013 | [216013-heros-journey.json](./216013-heros-journey.json) |
 | Hero's Journey | 368005 | [368005-heros-journey.json](./368005-heros-journey.json) |
@@ -9228,6 +9229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Milf 2 | 189976 | [189976-hot-milf-2.json](./189976-hot-milf-2.json) |
 | Hot Milf 4 | 192441 | [192441-hot-milf-4.json](./192441-hot-milf-4.json) |
 | Hot Milf 5 | 286748 | [286748-hot-milf-5.json](./286748-hot-milf-5.json) |
+| Hot Milf 6 | 204794 | [204794-hot-milf-6.json](./204794-hot-milf-6.json) |
 | Hot Milf 7 | 204822 | [204822-hot-milf-7.json](./204822-hot-milf-7.json) |
 | Hot Milf 9 | 224222 | [224222-hot-milf-9.json](./224222-hot-milf-9.json) |
 | Hot MILF VR | 344432 | [344432-hot-milf-vr.json](./344432-hot-milf-vr.json) |
