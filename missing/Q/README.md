@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quirky Museum | 362238 | [362238-quirky-museum.json](./362238-quirky-museum.json) |
 | Quisisana | 344493 | [344493-quisisana.json](./344493-quisisana.json) |
 | Quit the Game to Win | 179167 | [179167-quit-the-game-to-win.json](./179167-quit-the-game-to-win.json) |
+| Quit Today | 192015 | [192015-quit-today.json](./192015-quit-today.json) |
 | Quit Your Job | 413605 | [413605-quit-your-job.json](./413605-quit-your-job.json) |
 | Quit Your Job! Become A VTuber Fanartist! | 372478 | [372478-quit-your-job-become-a-vtuber-fanartist.json](./372478-quit-your-job-become-a-vtuber-fanartist.json) |
 | Quite a Ride | 336891 | [336891-quite-a-ride.json](./336891-quite-a-ride.json) |
