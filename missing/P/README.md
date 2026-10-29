@@ -2504,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patafour | 269430 | [269430-patafour.json](./269430-patafour.json) |
 | Patagon | 223412 | [223412-patagon.json](./223412-patagon.json) |
 | Patagonian Pilgrimage | 360755 | [360755-patagonian-pilgrimage.json](./360755-patagonian-pilgrimage.json) |
+| Patalliro! | 218288 | [218288-patalliro.json](./218288-patalliro.json) |
 | PataNoir | 33327 | [33327-patanoir.json](./33327-patanoir.json) |
 | Patapon | 7812 | [7812-patapon.json](./7812-patapon.json) |
 | Patapon 1+2 Replay | 337025 | [337025-patapon-1-2-replay.json](./337025-patapon-1-2-replay.json) |
@@ -2764,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrolling the Highway | 359409 | [359409-patrolling-the-highway.json](./359409-patrolling-the-highway.json) |
 | Patron | 152393 | [152393-patron.json](./152393-patron.json) |
 | Patrons | 275421 | [275421-patrons.json](./275421-patrons.json) |
+| Patsy Duck: Odekake Patsy | 218258 | [218258-patsy-duck-odekake-patsy.json](./218258-patsy-duck-odekake-patsy.json) |
 | Pattaya | 233365 | [233365-pattaya.json](./233365-pattaya.json) |
 | Pattaya Bar Simulator | 402118 | [402118-pattaya-bar-simulator.json](./402118-pattaya-bar-simulator.json) |
 | Patter | 310696 | [310696-patter.json](./310696-patter.json) |
@@ -3503,6 +3505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penga's Peril | 68539 | [68539-pengas-peril.json](./68539-pengas-peril.json) |
 | Pengicitis The Game | 353324 | [353324-pengicitis-the-game.json](./353324-pengicitis-the-game.json) |
 | Pengin-gin | 385334 | [385334-pengin-gin.json](./385334-pengin-gin.json) |
+| Pengo | 218267 | [218267-pengo.json](./218267-pengo.json) |
 | Pengo | 270415 | [270415-pengo.json](./270415-pengo.json) |
 | Pengo | 282071 | [282071-pengo.json](./282071-pengo.json) |
 | Pengo! | 91857 | [91857-pengo.json](./91857-pengo.json) |
@@ -15793,6 +15796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Tetris 2 | 137132 | [137132-puyo-puyo-tetris-2.json](./137132-puyo-puyo-tetris-2.json) |
 | Puyo Puyo Tetris 2: Launch Edition | 139944 | [139944-puyo-puyo-tetris-2-launch-edition.json](./139944-puyo-puyo-tetris-2-launch-edition.json) |
 | Puyo Puyo Tetris 2S | 338091 | [338091-puyo-puyo-tetris-2s.json](./338091-puyo-puyo-tetris-2s.json) |
+| Puyo Puyo Tetris S | 218279 | [218279-puyo-puyo-tetris-s.json](./218279-puyo-puyo-tetris-s.json) |
 | Puyo Puyo Touch | 251500 | [251500-puyo-puyo-touch.json](./251500-puyo-puyo-touch.json) |
 | Puyo Puyo Trainer | 421232 | [421232-puyo-puyo-trainer.json](./421232-puyo-puyo-trainer.json) |
 | Puyo Puyo Tsuu | 222469 | [222469-puyo-puyo-tsuu.json](./222469-puyo-puyo-tsuu.json) |
