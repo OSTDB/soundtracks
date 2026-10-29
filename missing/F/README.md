@@ -11683,6 +11683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fullmetal Alchemist: Brotherhood | 25172 | [25172-fullmetal-alchemist-brotherhood.json](./25172-fullmetal-alchemist-brotherhood.json) |
 | Fullmetal Alchemist: Daughter of the Dusk | 77766 | [77766-fullmetal-alchemist-daughter-of-the-dusk.json](./77766-fullmetal-alchemist-daughter-of-the-dusk.json) |
 | Fullmetal Alchemist: Dual Sympathy | 19073 | [19073-fullmetal-alchemist-dual-sympathy.json](./19073-fullmetal-alchemist-dual-sympathy.json) |
+| Fullmetal Alchemist: Iron & Flame | 185826 | [185826-fullmetal-alchemist-iron-and-flame.json](./185826-fullmetal-alchemist-iron-and-flame.json) |
 | Fullmetal Alchemist: Omoide no Sonata | 49594 | [49594-fullmetal-alchemist-omoide-no-sonata.json](./49594-fullmetal-alchemist-omoide-no-sonata.json) |
 | Fullmetal Alchemist: Prince of the Dawn | 69180 | [69180-fullmetal-alchemist-prince-of-the-dawn.json](./69180-fullmetal-alchemist-prince-of-the-dawn.json) |
 | Fullmetal Alchemist: Stray Rondo | 57444 | [57444-fullmetal-alchemist-stray-rondo.json](./57444-fullmetal-alchemist-stray-rondo.json) |
