@@ -2595,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5050 | 260709 | [260709-5050.json](./260709-5050.json) |
 | 50CK3T | 283869 | [283869-50ck3t.json](./283869-50ck3t.json) |
 | 50K Racewalker | 135864 | [135864-50k-racewalker.json](./135864-50k-racewalker.json) |
+| 51 Baffes | 184186 | [184186-51-baffes.json](./184186-51-baffes.json) |
 | 512 | 31204 | [31204-512.json](./31204-512.json) |
 | 512 Linedefs of /vr/ | 314985 | [314985-512-linedefs-of-vr.json](./314985-512-linedefs-of-vr.json) |
 | 5125m | 370206 | [370206-5125m.json](./370206-5125m.json) |
