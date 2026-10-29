@@ -1830,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmonian Tales | 146535 | [146535-harmonian-tales.json](./146535-harmonian-tales.json) |
 | Harmonic Convergence | 353762 | [353762-harmonic-convergence.json](./353762-harmonic-convergence.json) |
 | Harmonic Depths | 266096 | [266096-harmonic-depths.json](./266096-harmonic-depths.json) |
+| Harmonic Odyssey: The Five Gods | 182050 | [182050-harmonic-odyssey-the-five-gods.json](./182050-harmonic-odyssey-the-five-gods.json) |
 | Harmonies | 314626 | [314626-harmonies.json](./314626-harmonies.json) |
 | Harmonis: The Hand-Made Kingdoms | 287073 | [287073-harmonis-the-hand-made-kingdoms.json](./287073-harmonis-the-hand-made-kingdoms.json) |
 | Harmonium: The Musical | 279616 | [279616-harmonium-the-musical.json](./279616-harmonium-the-musical.json) |
@@ -2519,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haven: Call of the King | 19090 | [19090-haven-call-of-the-king.json](./19090-haven-call-of-the-king.json) |
 | Haven: Deluxe Edition | 356806 | [356806-haven-deluxe-edition.json](./356806-haven-deluxe-edition.json) |
 | Haven: Episode 1 | 307952 | [307952-haven-episode-1.json](./307952-haven-episode-1.json) |
+| Haven: Secret of Caledria | 182063 | [182063-haven-secret-of-caledria.json](./182063-haven-secret-of-caledria.json) |
 | Haven: The Leader | 298292 | [298292-haven-the-leader.json](./298292-haven-the-leader.json) |
 | Haven's Compass | 259161 | [259161-havens-compass.json](./259161-havens-compass.json) |
 | Haven's Embers | 190970 | [190970-havens-embers.json](./190970-havens-embers.json) |
