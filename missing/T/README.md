@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Esferia: Araxis | 151521 | [151521-tales-of-esferia-araxis.json](./151521-tales-of-esferia-araxis.json) |
 | Tales of Eternia Online | 79163 | [79163-tales-of-eternia-online.json](./79163-tales-of-eternia-online.json) |
 | Tales of Eternia: Remastered | 405458 | [405458-tales-of-eternia-remastered.json](./405458-tales-of-eternia-remastered.json) |
+| Tales of Fablecraft | 224301 | [224301-tales-of-fablecraft.json](./224301-tales-of-fablecraft.json) |
 | Tales of Fablecraft: Brawler Collection | 365207 | [365207-tales-of-fablecraft-brawler-collection.json](./365207-tales-of-fablecraft-brawler-collection.json) |
 | Tales of Fablecraft: Storyteller Collection | 365208 | [365208-tales-of-fablecraft-storyteller-collection.json](./365208-tales-of-fablecraft-storyteller-collection.json) |
 | Tales of Fandom Vol. 1: Cress Version | 100158 | [100158-tales-of-fandom-vol-1-cress-version.json](./100158-tales-of-fandom-vol-1-cress-version.json) |
@@ -5123,6 +5124,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Animal Half | 97986 | [97986-the-animal-half.json](./97986-the-animal-half.json) |
 | The Animals of Farthing Wood | 364539 | [364539-the-animals-of-farthing-wood.json](./364539-the-animals-of-farthing-wood.json) |
 | The Anime Super Remix: Kyojin no Hoshi | 268391 | [268391-the-anime-super-remix-kyojin-no-hoshi.json](./268391-the-anime-super-remix-kyojin-no-hoshi.json) |
+| The Annoying Thing: 3-in-1 | 224320 | [224320-the-annoying-thing-3-in-1.json](./224320-the-annoying-thing-3-in-1.json) |
+| The Annoying Thing: Chaser Racer | 224319 | [224319-the-annoying-thing-chaser-racer.json](./224319-the-annoying-thing-chaser-racer.json) |
+| The Annoying Thing: Disco Mania | 224316 | [224316-the-annoying-thing-disco-mania.json](./224316-the-annoying-thing-disco-mania.json) |
+| The Annoying Thing: Gold Rush | 224317 | [224317-the-annoying-thing-gold-rush.json](./224317-the-annoying-thing-gold-rush.json) |
+| The Annoying Thing: Pen Game | 224331 | [224331-the-annoying-thing-pen-game.json](./224331-the-annoying-thing-pen-game.json) |
+| The Annoying Thing: Robot Raider | 224318 | [224318-the-annoying-thing-robot-raider.json](./224318-the-annoying-thing-robot-raider.json) |
 | The Annual Ghost Town Pumpkin Festival | 141145 | [141145-the-annual-ghost-town-pumpkin-festival.json](./141145-the-annual-ghost-town-pumpkin-festival.json) |
 | The Anointed: David Saves Keilah | 215030 | [215030-the-anointed-david-saves-keilah.json](./215030-the-anointed-david-saves-keilah.json) |
 | The Anomalous Hour | 295758 | [295758-the-anomalous-hour.json](./295758-the-anomalous-hour.json) |
