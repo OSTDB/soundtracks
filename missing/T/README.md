@@ -1435,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talon Towers | 420755 | [420755-talon-towers.json](./420755-talon-towers.json) |
 | Talon's Blade | 221138 | [221138-talons-blade.json](./221138-talons-blade.json) |
 | Talon's End | 300033 | [300033-talons-end.json](./300033-talons-end.json) |
+| TalonSoft's World at War | 205877 | [205877-talonsofts-world-at-war.json](./205877-talonsofts-world-at-war.json) |
 | Talos Descent | 182801 | [182801-talos-descent.json](./182801-talos-descent.json) |
 | Talos VR | 102170 | [102170-talos-vr.json](./102170-talos-vr.json) |
 | TalosFray | 130054 | [130054-talosfray.json](./130054-talosfray.json) |
@@ -13839,6 +13840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rock the Paper and the Scissors | 177445 | [177445-the-rock-the-paper-and-the-scissors.json](./177445-the-rock-the-paper-and-the-scissors.json) |
 | The Rocket Jumper | 232965 | [232965-the-rocket-jumper.json](./232965-the-rocket-jumper.json) |
 | The Rocketeer | 136871 | [136871-the-rocketeer.json](./136871-the-rocketeer.json) |
+| The Rocketeer | 205945 | [205945-the-rocketeer.json](./205945-the-rocketeer.json) |
 | The Rocketeer | 48205 | [48205-the-rocketeer.json](./48205-the-rocketeer.json) |
 | The Rockin' Dead | 9371 | [9371-the-rockin-dead.json](./9371-the-rockin-dead.json) |
 | The Rocky Horror Show Computer Game | 17274 | [17274-the-rocky-horror-show-computer-game.json](./17274-the-rocky-horror-show-computer-game.json) |
@@ -17153,6 +17155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Rapid Hunt Rifle Pack | 355063 | [355063-thehunter-call-of-the-wild-rapid-hunt-rifle-pack.json](./355063-thehunter-call-of-the-wild-rapid-hunt-rifle-pack.json) |
 | TheHunter: Call of the Wild - Remi Warren | 154342 | [154342-thehunter-call-of-the-wild-remi-warren.json](./154342-thehunter-call-of-the-wild-remi-warren.json) |
 | TheHunter: Call of the Wild - Reserve Cosmetics Bundle 1 | 271466 | [271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json](./271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json) |
+| TheHunter: Call of the Wild - Revontuli Coast | 205854 | [205854-thehunter-call-of-the-wild-revontuli-coast.json](./205854-thehunter-call-of-the-wild-revontuli-coast.json) |
 | TheHunter: Call of the Wild - Revontuli Coast Cosmetic Pack | 280371 | [280371-thehunter-call-of-the-wild-revontuli-coast-cosmetic-pack.json](./280371-thehunter-call-of-the-wild-revontuli-coast-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Saseka Safari Trophy Lodge | 206798 | [206798-thehunter-call-of-the-wild-saseka-safari-trophy-lodge.json](./206798-thehunter-call-of-the-wild-saseka-safari-trophy-lodge.json) |
 | TheHunter: Call of the Wild - Scopes and Crosshairs Pack | 331918 | [331918-thehunter-call-of-the-wild-scopes-and-crosshairs-pack.json](./331918-thehunter-call-of-the-wild-scopes-and-crosshairs-pack.json) |
