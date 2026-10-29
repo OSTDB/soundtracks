@@ -2279,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Dungeon | 276138 | [276138-wave-dungeon.json](./276138-wave-dungeon.json) |
 | Wave Function Collapse | 182700 | [182700-wave-function-collapse.json](./182700-wave-function-collapse.json) |
 | Wave Gods: Ammo Night | 395781 | [395781-wave-gods-ammo-night.json](./395781-wave-gods-ammo-night.json) |
+| Wave Jumper | 189839 | [189839-wave-jumper.json](./189839-wave-jumper.json) |
 | Wave Machine | 179602 | [179602-wave-machine.json](./179602-wave-machine.json) |
 | Wave Magic VR | 31723 | [31723-wave-magic-vr.json](./31723-wave-magic-vr.json) |
 | Wave Mechanics | 34871 | [34871-wave-mechanics.json](./34871-wave-mechanics.json) |
