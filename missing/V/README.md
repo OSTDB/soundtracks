@@ -2953,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Scavengers | 381001 | [381001-void-scavengers.json](./381001-void-scavengers.json) |
 | Void Scout | 320727 | [320727-void-scout.json](./320727-void-scout.json) |
 | Void Scrappers | 211688 | [211688-void-scrappers.json](./211688-void-scrappers.json) |
+| Void Slayer | 187644 | [187644-void-slayer.json](./187644-void-slayer.json) |
 | Void Sols | 223109 | [223109-void-sols.json](./223109-void-sols.json) |
 | Void Soul | 295132 | [295132-void-soul.json](./295132-void-soul.json) |
 | Void Stealer: Bodycam Horror | 317975 | [317975-void-stealer-bodycam-horror.json](./317975-void-stealer-bodycam-horror.json) |
