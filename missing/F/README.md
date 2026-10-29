@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FairyWoods Patisserie | 258613 | [258613-fairywoods-patisserie.json](./258613-fairywoods-patisserie.json) |
 | Fäiser | 186063 | [186063-faiser.json](./186063-faiser.json) |
 | Fait: The Machine | 122188 | [122188-fait-the-machine.json](./122188-fait-the-machine.json) |
+| Faith | 195876 | [195876-faith.json](./195876-faith.json) |
 | Faith | 84197 | [84197-faith.json](./84197-faith.json) |
 | Faith & Shield: 4044 Tower Defense | 201519 | [201519-faith-and-shield-4044-tower-defense.json](./201519-faith-and-shield-4044-tower-defense.json) |
 | Faith & Shield: Tower Defense - Space Wars Game 2022 | 209694 | [209694-faith-and-shield-tower-defense-space-wars-game-2022.json](./209694-faith-and-shield-tower-defense-space-wars-game-2022.json) |
@@ -6980,6 +6981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Out! | 40799 | [40799-flip-out.json](./40799-flip-out.json) |
 | Flip Panic! | 353827 | [353827-flip-panic.json](./353827-flip-panic.json) |
 | Flip Pigs | 219926 | [219926-flip-pigs.json](./219926-flip-pigs.json) |
+| Flip Range | 196404 | [196404-flip-range.json](./196404-flip-range.json) |
 | Flip Range 2 | 220156 | [220156-flip-range-2.json](./220156-flip-range-2.json) |
 | Flip Run: Second Wave | 87128 | [87128-flip-run-second-wave.json](./87128-flip-run-second-wave.json) |
 | Flip Shot | 75463 | [75463-flip-shot.json](./75463-flip-shot.json) |
@@ -8370,6 +8372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Whom the Alchemist Exists | 57896 | [57896-for-whom-the-alchemist-exists.json](./57896-for-whom-the-alchemist-exists.json) |
 | For Whom The Bell Tolls | 260792 | [260792-for-whom-the-bell-tolls.json](./260792-for-whom-the-bell-tolls.json) |
 | For Whom the Stars Shine | 305918 | [305918-for-whom-the-stars-shine.json](./305918-for-whom-the-stars-shine.json) |
+| For Your Information | 196419 | [196419-for-your-information.json](./196419-for-your-information.json) |
 | For Your Tranquility | 228503 | [228503-for-your-tranquility.json](./228503-for-your-tranquility.json) |
 | For Zekyll | 368814 | [368814-for-zekyll.json](./368814-for-zekyll.json) |
 | Forays into Norrendrin | 148391 | [148391-forays-into-norrendrin.json](./148391-forays-into-norrendrin.json) |
