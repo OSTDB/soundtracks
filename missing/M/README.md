@@ -7246,6 +7246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaman X in Sonic Blasting Adventure | 265221 | [265221-megaman-x-in-sonic-blasting-adventure.json](./265221-megaman-x-in-sonic-blasting-adventure.json) |
 | Megaman X Omega Blaster - Ultimate Edition | 369208 | [369208-megaman-x-omega-blaster-ultimate-edition.json](./369208-megaman-x-omega-blaster-ultimate-edition.json) |
 | Megaman X Retribution | 323023 | [323023-megaman-x-retribution.json](./323023-megaman-x-retribution.json) |
+| Megaman X Unleashed | 206501 | [206501-megaman-x-unleashed.json](./206501-megaman-x-unleashed.json) |
 | Megaman X Virus | 323027 | [323027-megaman-x-virus.json](./323027-megaman-x-virus.json) |
 | Megaman X: Omega Blaster | 316023 | [316023-megaman-x-omega-blaster.json](./316023-megaman-x-omega-blaster.json) |
 | Megaman X: Omega Blaster - Definitive Edition | 369207 | [369207-megaman-x-omega-blaster-definitive-edition.json](./369207-megaman-x-omega-blaster-definitive-edition.json) |
@@ -10316,6 +10317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milky Way Wishes | 271407 | [271407-milky-way-wishes.json](./271407-milky-way-wishes.json) |
 | Milky Way: TD Survivors Autobattler RTS | 289782 | [289782-milky-way-td-survivors-autobattler-rts.json](./289782-milky-way-td-survivors-autobattler-rts.json) |
 | Milkyway Funland | 156953 | [156953-milkyway-funland.json](./156953-milkyway-funland.json) |
+| MilkyWay: Galaxy Adventure | 206416 | [206416-milkyway-galaxy-adventure.json](./206416-milkyway-galaxy-adventure.json) |
 | Mill | 92299 | [92299-mill.json](./92299-mill.json) |
 | Mille Bornes | 94925 | [94925-mille-bornes.json](./94925-mille-bornes.json) |
 | Millefiori | 150155 | [150155-millefiori.json](./150155-millefiori.json) |
@@ -11276,6 +11278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Running Ant | 380796 | [380796-mini-running-ant.json](./380796-mini-running-ant.json) |
 | Mini Scientist | 229511 | [229511-mini-scientist.json](./229511-mini-scientist.json) |
 | Mini Ship Wars | 155468 | [155468-mini-ship-wars.json](./155468-mini-ship-wars.json) |
+| Mini Shisen | 206516 | [206516-mini-shisen.json](./206516-mini-shisen.json) |
 | Mini Shopkeeper | 377619 | [377619-mini-shopkeeper.json](./377619-mini-shopkeeper.json) |
 | Mini Skull | 220445 | [220445-mini-skull.json](./220445-mini-skull.json) |
 | Mini Soccer Manager | 411494 | [411494-mini-soccer-manager.json](./411494-mini-soccer-manager.json) |
@@ -12404,6 +12407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miyo TD | 226494 | [226494-miyo-td.json](./226494-miyo-td.json) |
 | Miyu's Cursed Store | 265547 | [265547-miyus-cursed-store.json](./265547-miyus-cursed-store.json) |
 | Miyuki the Shoubushi | 67375 | [67375-miyuki-the-shoubushi.json](./67375-miyuki-the-shoubushi.json) |
+| Miz: Myth of Imaginary Zone | 206419 | [206419-miz-myth-of-imaginary-zone.json](./206419-miz-myth-of-imaginary-zone.json) |
 | Mizari Loves Company | 385056 | [385056-mizari-loves-company.json](./385056-mizari-loves-company.json) |
 | Mizbak's Adventure | 37653 | [37653-mizbaks-adventure.json](./37653-mizbaks-adventure.json) |
 | Mizen Tantei: The Protea Cases | 210401 | [210401-mizen-tantei-the-protea-cases.json](./210401-mizen-tantei-the-protea-cases.json) |
