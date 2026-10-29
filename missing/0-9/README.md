@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw World Tour South Korea | 273353 | [273353-1001-jigsaw-world-tour-south-korea.json](./273353-1001-jigsaw-world-tour-south-korea.json) |
 | 1001 Jigsaw World Tour: Europe | 96827 | [96827-1001-jigsaw-world-tour-europe.json](./96827-1001-jigsaw-world-tour-europe.json) |
 | 1001 Jigsaw: 6 Magic Elements | 268037 | [268037-1001-jigsaw-6-magic-elements.json](./268037-1001-jigsaw-6-magic-elements.json) |
+| 1001 Jigsaw: Castles and Palaces 3 | 199740 | [199740-1001-jigsaw-castles-and-palaces-3.json](./199740-1001-jigsaw-castles-and-palaces-3.json) |
 | 1001 Jigsaw: Castles and Palaces 4 | 249588 | [249588-1001-jigsaw-castles-and-palaces-4.json](./249588-1001-jigsaw-castles-and-palaces-4.json) |
 | 1001 Jigsaw: Castles and Palaces 5 | 257464 | [257464-1001-jigsaw-castles-and-palaces-5.json](./257464-1001-jigsaw-castles-and-palaces-5.json) |
 | 1001 Jigsaw: Cute Cats | 195444 | [195444-1001-jigsaw-cute-cats.json](./195444-1001-jigsaw-cute-cats.json) |
