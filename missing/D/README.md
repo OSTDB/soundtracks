@@ -5604,6 +5604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Core | 110239 | [110239-demon-core.json](./110239-demon-core.json) |
 | Demon Core | 330485 | [330485-demon-core.json](./330485-demon-core.json) |
 | Demon Corporation: Onboarding | 333944 | [333944-demon-corporation-onboarding.json](./333944-demon-corporation-onboarding.json) |
+| Demon Crasher | 188249 | [188249-demon-crasher.json](./188249-demon-crasher.json) |
 | Demon Crisis | 415900 | [415900-demon-crisis.json](./415900-demon-crisis.json) |
 | Demon Crush | 303469 | [303469-demon-crush.json](./303469-demon-crush.json) |
 | Demon Dash | 239530 | [239530-demon-dash.json](./239530-demon-dash.json) |
@@ -5771,6 +5772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon&Fairy | 75521 | [75521-demon-and-fairy.json](./75521-demon-and-fairy.json) |
 | Demonastery | 261174 | [261174-demonastery.json](./261174-demonastery.json) |
 | Demonborg Mining Co | 367391 | [367391-demonborg-mining-co.json](./367391-demonborg-mining-co.json) |
+| Demonborne | 188260 | [188260-demonborne.json](./188260-demonborne.json) |
 | DemonCountdown | 272250 | [272250-demoncountdown.json](./272250-demoncountdown.json) |
 | DemonCrawl: Arena Plus | 172150 | [172150-demoncrawl-arena-plus.json](./172150-demoncrawl-arena-plus.json) |
 | Demondemon Demon Tamer | 370456 | [370456-demondemon-demon-tamer.json](./370456-demondemon-demon-tamer.json) |
@@ -13038,6 +13040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Chase | 113659 | [113659-dragon-chase.json](./113659-dragon-chase.json) |
 | Dragon Chase | 385406 | [385406-dragon-chase.json](./385406-dragon-chase.json) |
 | Dragon Chronicles: Black Tears | 290993 | [290993-dragon-chronicles-black-tears.json](./290993-dragon-chronicles-black-tears.json) |
+| Dragon City 2 | 188270 | [188270-dragon-city-2.json](./188270-dragon-city-2.json) |
 | Dragon City X Shitei | 282748 | [282748-dragon-city-x-shitei.json](./282748-dragon-city-x-shitei.json) |
 | Dragon Clicker | 312170 | [312170-dragon-clicker.json](./312170-dragon-clicker.json) |
 | Dragon Coins | 63337 | [63337-dragon-coins.json](./63337-dragon-coins.json) |
@@ -14404,6 +14407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamworld's Open: Mini Golf | 69712 | [69712-dreamworlds-open-mini-golf.json](./69712-dreamworlds-open-mini-golf.json) |
 | Dreamwrought | 387022 | [387022-dreamwrought.json](./387022-dreamwrought.json) |
 | Dreamy Beauties: Heart-Pounding Illustration Puzzle | 416066 | [416066-dreamy-beauties-heart-pounding-illustration-puzzle.json](./416066-dreamy-beauties-heart-pounding-illustration-puzzle.json) |
+| Dreamy Clover Town | 188254 | [188254-dreamy-clover-town.json](./188254-dreamy-clover-town.json) |
 | Dreamy Days in West Tokyo | 238424 | [238424-dreamy-days-in-west-tokyo.json](./238424-dreamy-days-in-west-tokyo.json) |
 | Dreamy Goat | 174618 | [174618-dreamy-goat.json](./174618-dreamy-goat.json) |
 | Dreamy Hill | 345694 | [345694-dreamy-hill.json](./345694-dreamy-hill.json) |
@@ -14841,6 +14845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Arsenal | 391736 | [391736-drone-arsenal.json](./391736-drone-arsenal.json) |
 | Drone Attack Spy Drone Games | 303263 | [303263-drone-attack-spy-drone-games.json](./303263-drone-attack-spy-drone-games.json) |
 | Drone Attack! | 124707 | [124707-drone-attack.json](./124707-drone-attack.json) |
+| Drone Battle: Cats | 188237 | [188237-drone-battle-cats.json](./188237-drone-battle-cats.json) |
 | Drone Break | 292765 | [292765-drone-break.json](./292765-drone-break.json) |
 | Drone Combat | 127013 | [127013-drone-combat.json](./127013-drone-combat.json) |
 | Drone Crash Course | 190171 | [190171-drone-crash-course.json](./190171-drone-crash-course.json) |
@@ -15501,6 +15506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel of Summoners | 67602 | [67602-duel-of-summoners.json](./67602-duel-of-summoners.json) |
 | Duel of Sword | 188290 | [188290-duel-of-sword.json](./188290-duel-of-sword.json) |
 | Duel of Sword | 196548 | [196548-duel-of-sword.json](./196548-duel-of-sword.json) |
+| Duel Otters | 188264 | [188264-duel-otters.json](./188264-duel-otters.json) |
 | Duel Princess | 186912 | [186912-duel-princess.json](./186912-duel-princess.json) |
 | Duel Puzzle Wars | 114688 | [114688-duel-puzzle-wars.json](./114688-duel-puzzle-wars.json) |
 | Duel Revolution | 228746 | [228746-duel-revolution.json](./228746-duel-revolution.json) |
@@ -16012,6 +16018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Mage | 244654 | [244654-dungeon-mage.json](./244654-dungeon-mage.json) |
 | Dungeon Magic | 39359 | [39359-dungeon-magic.json](./39359-dungeon-magic.json) |
 | Dungeon Maker II: The Hidden War | 42765 | [42765-dungeon-maker-ii-the-hidden-war.json](./42765-dungeon-maker-ii-the-hidden-war.json) |
+| Dungeon Man | 188253 | [188253-dungeon-man.json](./188253-dungeon-man.json) |
 | Dungeon Man | 277272 | [277272-dungeon-man.json](./277272-dungeon-man.json) |
 | Dungeon Manager ZV 2 | 29739 | [29739-dungeon-manager-zv-2.json](./29739-dungeon-manager-zv-2.json) |
 | Dungeon Manager ZV: Resurrection | 55446 | [55446-dungeon-manager-zv-resurrection.json](./55446-dungeon-manager-zv-resurrection.json) |
