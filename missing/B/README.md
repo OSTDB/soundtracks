@@ -845,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1942,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banners of Ruin: DLC Pack | 324413 | [324413-banners-of-ruin-dlc-pack.json](./324413-banners-of-ruin-dlc-pack.json) |
 | Banners of Ruin: Iris | 260316 | [260316-banners-of-ruin-iris.json](./260316-banners-of-ruin-iris.json) |
 | Banners of Ruin: Moonstone | 230817 | [230817-banners-of-ruin-moonstone.json](./230817-banners-of-ruin-moonstone.json) |
+| Banners of Ruin: The Powdermaster | 204781 | [204781-banners-of-ruin-the-powdermaster.json](./204781-banners-of-ruin-the-powdermaster.json) |
 | Banny Sammy | 238294 | [238294-banny-sammy.json](./238294-banny-sammy.json) |
 | Banpo's Bridge Wondrous Worlds | 348887 | [348887-banpos-bridge-wondrous-worlds.json](./348887-banpos-bridge-wondrous-worlds.json) |
 | Banquet for Fools | 318079 | [318079-banquet-for-fools.json](./318079-banquet-for-fools.json) |
