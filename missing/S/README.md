@@ -3678,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search All: Animals | 191009 | [191009-search-all-animals.json](./191009-search-all-animals.json) |
 | Search All: Balls | 291475 | [291475-search-all-balls.json](./291475-search-all-balls.json) |
 | Search All: Berries | 192377 | [192377-search-all-berries.json](./192377-search-all-berries.json) |
+| Search All: Birds | 203623 | [203623-search-all-birds.json](./203623-search-all-birds.json) |
 | Search All: Bones | 387338 | [387338-search-all-bones.json](./387338-search-all-bones.json) |
 | Search All: Buds | 219613 | [219613-search-all-buds.json](./219613-search-all-buds.json) |
 | Search All: Cactuses | 192374 | [192374-search-all-cactuses.json](./192374-search-all-cactuses.json) |
@@ -6652,6 +6653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Light | 73869 | [73869-shattered-light.json](./73869-shattered-light.json) |
 | Shattered Lights | 118800 | [118800-shattered-lights.json](./118800-shattered-lights.json) |
 | Shattered Melodies | 311221 | [311221-shattered-melodies.json](./311221-shattered-melodies.json) |
+| Shattered Memories | 203641 | [203641-shattered-memories.json](./203641-shattered-memories.json) |
 | Shattered Minds: Encore | 158948 | [158948-shattered-minds-encore.json](./158948-shattered-minds-encore.json) |
 | Shattered Minds: Masquerade | 369714 | [369714-shattered-minds-masquerade.json](./369714-shattered-minds-masquerade.json) |
 | Shattered Mythos | 365029 | [365029-shattered-mythos.json](./365029-shattered-mythos.json) |
@@ -22428,6 +22430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starving Merchant | 390760 | [390760-starving-merchant.json](./390760-starving-merchant.json) |
 | Starvoid | 2019 | [2019-starvoid.json](./2019-starvoid.json) |
 | Starvoly | 157106 | [157106-starvoly.json](./157106-starvoly.json) |
+| Starwalker: Into the Cylinder | 203615 | [203615-starwalker-into-the-cylinder.json](./203615-starwalker-into-the-cylinder.json) |
 | Starward | 301139 | [301139-starward.json](./301139-starward.json) |
 | Starward Rogue + Moonshine Inc.: Galactic Spirit Bundle | 286971 | [286971-starward-rogue-moonshine-inc-galactic-spirit-bundle.json](./286971-starward-rogue-moonshine-inc-galactic-spirit-bundle.json) |
 | Starward Rogue + Moonshine Inc.: Galactic Spirit Deluxe Bundle | 286970 | [286970-starward-rogue-moonshine-inc-galactic-spirit-deluxe-bundle.json](./286970-starward-rogue-moonshine-inc-galactic-spirit-deluxe-bundle.json) |
@@ -23095,6 +23098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Shipyard | 388717 | [388717-stellar-shipyard.json](./388717-stellar-shipyard.json) |
 | Stellar Smooch | 60758 | [60758-stellar-smooch.json](./60758-stellar-smooch.json) |
 | Stellar Sovereigns | 176178 | [176178-stellar-sovereigns.json](./176178-stellar-sovereigns.json) |
+| Stellar Space | 203630 | [203630-stellar-space.json](./203630-stellar-space.json) |
 | Stellar Sphere | 115356 | [115356-stellar-sphere.json](./115356-stellar-sphere.json) |
 | Stellar Squad | 101738 | [101738-stellar-squad.json](./101738-stellar-squad.json) |
 | Stellar Strider | 329505 | [329505-stellar-strider.json](./329505-stellar-strider.json) |
@@ -25548,6 +25552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus 2069 | 278897 | [278897-succubus-2069.json](./278897-succubus-2069.json) |
 | Succubus Challenge | 339651 | [339651-succubus-challenge.json](./339651-succubus-challenge.json) |
 | Succubus Connect! | 147388 | [147388-succubus-connect.json](./147388-succubus-connect.json) |
+| Succubus Dating | 203598 | [203598-succubus-dating.json](./203598-succubus-dating.json) |
 | Succubus Farm | 151166 | [151166-succubus-farm.json](./151166-succubus-farm.json) |
 | Succubus Girl Story | 192443 | [192443-succubus-girl-story.json](./192443-succubus-girl-story.json) |
 | Succubus Hearts: Demon Love Redemption | 386560 | [386560-succubus-hearts-demon-love-redemption.json](./386560-succubus-hearts-demon-love-redemption.json) |
@@ -28195,6 +28200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Space Blaster Special Turbo | 125387 | [125387-super-mega-space-blaster-special-turbo.json](./125387-super-mega-space-blaster-special-turbo.json) |
 | Super Mega Zero | 194981 | [194981-super-mega-zero.json](./194981-super-mega-zero.json) |
 | Super Melee Adventure 64 | 194874 | [194874-super-melee-adventure-64.json](./194874-super-melee-adventure-64.json) |
+| Super Meteor | 203604 | [203604-super-meteor.json](./203604-super-meteor.json) |
 | Super Methane Bros | 12785 | [12785-super-methane-bros.json](./12785-super-methane-bros.json) |
 | Super Metroid and A Link to the Past Crossover Randomizer | 210231 | [210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json](./210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json) |
 | Super Metroid Arcade | 330214 | [330214-super-metroid-arcade.json](./330214-super-metroid-arcade.json) |
@@ -31660,6 +31666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthwave Burnout | 169733 | [169733-synthwave-burnout.json](./169733-synthwave-burnout.json) |
 | Synthwave Driver | 344387 | [344387-synthwave-driver.json](./344387-synthwave-driver.json) |
 | Synthwave Escape | 319296 | [319296-synthwave-escape.json](./319296-synthwave-escape.json) |
+| Synthwave Fury | 203600 | [203600-synthwave-fury.json](./203600-synthwave-fury.json) |
 | Synthwave Glider | 224604 | [224604-synthwave-glider.json](./224604-synthwave-glider.json) |
 | Synthwave Hop | 172198 | [172198-synthwave-hop.json](./172198-synthwave-hop.json) |
 | Synthwave Racers | 197218 | [197218-synthwave-racers.json](./197218-synthwave-racers.json) |
