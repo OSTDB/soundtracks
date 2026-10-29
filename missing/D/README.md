@@ -3949,6 +3949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death in a Party | 381738 | [381738-death-in-a-party.json](./381738-death-in-a-party.json) |
 | Death In Abyss | 247609 | [247609-death-in-abyss.json](./247609-death-in-abyss.json) |
 | Death in Excess | 222623 | [222623-death-in-excess.json](./222623-death-in-excess.json) |
+| Death in sands | 190850 | [190850-death-in-sands.json](./190850-death-in-sands.json) |
 | Death in the Bunker | 224555 | [224555-death-in-the-bunker.json](./224555-death-in-the-bunker.json) |
 | Death in the Caribbean | 23243 | [23243-death-in-the-caribbean.json](./23243-death-in-the-caribbean.json) |
 | Death in the Manor | 375227 | [375227-death-in-the-manor.json](./375227-death-in-the-manor.json) |
@@ -6719,6 +6720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruction Derby 2 | 1170 | [1170-destruction-derby-2.json](./1170-destruction-derby-2.json) |
 | Destruction Derby 64 | 10686 | [10686-destruction-derby-64.json](./10686-destruction-derby-64.json) |
 | Destruction Derby: Arenas | 1171 | [1171-destruction-derby-arenas.json](./1171-destruction-derby-arenas.json) |
+| Destruction Dummies | 190861 | [190861-destruction-dummies.json](./190861-destruction-dummies.json) |
 | Destruction Joukan | 386343 | [386343-destruction-joukan.json](./386343-destruction-joukan.json) |
 | Destruction of Planets | 193498 | [193498-destruction-of-planets.json](./193498-destruction-of-planets.json) |
 | Destruction Paper | 110090 | [110090-destruction-paper.json](./110090-destruction-paper.json) |
@@ -8108,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Meow | 303672 | [303672-digital-meow.json](./303672-digital-meow.json) |
 | Digital Messiah | 229805 | [229805-digital-messiah.json](./229805-digital-messiah.json) |
 | Digital Monster Card Game Ver. WonderSwan Color | 37549 | [37549-digital-monster-card-game-ver-wonderswan-color.json](./37549-digital-monster-card-game-ver-wonderswan-color.json) |
+| Digital Monster Ver GBs | 191384 | [191384-digital-monster-ver-gbs.json](./191384-digital-monster-ver-gbs.json) |
 | Digital Monster Ver. S: Digimon Tamers | 8613 | [8613-digital-monster-ver-s-digimon-tamers.json](./8613-digital-monster-ver-s-digimon-tamers.json) |
 | Digital Monster X | 274145 | [274145-digital-monster-x.json](./274145-digital-monster-x.json) |
 | Digital Monster X Ver.2 | 274146 | [274146-digital-monster-x-ver-2.json](./274146-digital-monster-x-ver-2.json) |
@@ -8388,6 +8391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Master | 69143 | [69143-dino-master.json](./69143-dino-master.json) |
 | Dino Match | 361340 | [361340-dino-match.json](./361340-dino-match.json) |
 | Dino Mayhem | 277121 | [277121-dino-mayhem.json](./277121-dino-mayhem.json) |
+| Dino Mercs | 190847 | [190847-dino-mercs.json](./190847-dino-mercs.json) |
 | Dino Merge Wars | 237631 | [237631-dino-merge-wars.json](./237631-dino-merge-wars.json) |
 | Dino Nest | 147331 | [147331-dino-nest.json](./147331-dino-nest.json) |
 | Dino Numbers | 128485 | [128485-dino-numbers.json](./128485-dino-numbers.json) |
@@ -10325,6 +10329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggy Waiter 2 | 319678 | [319678-doggy-waiter-2.json](./319678-doggy-waiter-2.json) |
 | DogHotel | 101582 | [101582-doghotel.json](./101582-doghotel.json) |
 | DogHotel | 259977 | [259977-doghotel.json](./259977-doghotel.json) |
+| Doghouse | 191441 | [191441-doghouse.json](./191441-doghouse.json) |
 | Doghouse 2 | 216167 | [216167-doghouse-2.json](./216167-doghouse-2.json) |
 | Doghouse 3 | 374756 | [374756-doghouse-3.json](./374756-doghouse-3.json) |
 | Dogimegi Inryoku-chan: Love & Peace | 336177 | [336177-dogimegi-inryoku-chan-love-and-peace.json](./336177-dogimegi-inryoku-chan-love-and-peace.json) |
@@ -11242,6 +11247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Pac-Man Crossover | 290237 | [290237-donkey-kong-pac-man-crossover.json](./290237-donkey-kong-pac-man-crossover.json) |
 | Donkey Kong Plus | 185889 | [185889-donkey-kong-plus.json](./185889-donkey-kong-plus.json) |
 | Donkey Kong Redux | 331437 | [331437-donkey-kong-redux.json](./331437-donkey-kong-redux.json) |
+| Donkey Kong Returns | 191438 | [191438-donkey-kong-returns.json](./191438-donkey-kong-returns.json) |
 | Donkey Kong vs. K. Rool Challenge | 307722 | [307722-donkey-kong-vs-k-rool-challenge.json](./307722-donkey-kong-vs-k-rool-challenge.json) |
 | Donkey Kong-e | 170011 | [170011-donkey-kong-e.json](./170011-donkey-kong-e.json) |
 | Donkey Kong: Coconut Crackers | 131903 | [131903-donkey-kong-coconut-crackers.json](./131903-donkey-kong-coconut-crackers.json) |
@@ -12321,6 +12327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down With Hell: Crystal | 385863 | [385863-down-with-hell-crystal.json](./385863-down-with-hell-crystal.json) |
 | Down with the Ship | 365205 | [365205-down-with-the-ship.json](./365205-down-with-the-ship.json) |
 | Down Word | 292506 | [292506-down-word.json](./292506-down-word.json) |
+| Down, the Serpent and the Sun | 191390 | [191390-down-the-serpent-and-the-sun.json](./191390-down-the-serpent-and-the-sun.json) |
 | Down. | 134994 | [134994-down.json](./134994-down.json) |
 | Downbreak | 95578 | [95578-downbreak.json](./95578-downbreak.json) |
 | Downer Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Yonpaku Itsuka no Tabi | 396931 | [396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json](./396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json) |
@@ -13600,6 +13607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drake's Tower | 89229 | [89229-drakes-tower.json](./89229-drakes-tower.json) |
 | Drakefall | 345052 | [345052-drakefall.json](./345052-drakefall.json) |
 | Drakeling Labs | 90130 | [90130-drakeling-labs.json](./90130-drakeling-labs.json) |
+| Draken | 190839 | [190839-draken.json](./190839-draken.json) |
 | Draken's Shrine | 257918 | [257918-drakens-shrine.json](./257918-drakens-shrine.json) |
 | Drakengard | 11635 | [11635-drakengard.json](./11635-drakengard.json) |
 | Drakengard | 322841 | [322841-drakengard.json](./322841-drakengard.json) |
