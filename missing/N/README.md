@@ -2410,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerf Ultimate Championship | 152224 | [152224-nerf-ultimate-championship.json](./152224-nerf-ultimate-championship.json) |
 | Nerf: Battle Arena | 197329 | [197329-nerf-battle-arena.json](./197329-nerf-battle-arena.json) |
 | Nerf: Superblast | 288644 | [288644-nerf-superblast.json](./288644-nerf-superblast.json) |
+| Nerg Loves Them | 220446 | [220446-nerg-loves-them.json](./220446-nerg-loves-them.json) |
 | Nerl's Crazy C"rough"t! | 311598 | [311598-nerls-crazy-c-rough-t.json](./311598-nerls-crazy-c-rough-t.json) |
 | Nerm the Worm | 149331 | [149331-nerm-the-worm.json](./149331-nerm-the-worm.json) |
 | Nero | 156570 | [156570-nero.json](./156570-nero.json) |
@@ -2576,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuro | 98896 | [98896-neuro.json](./98896-neuro.json) |
 | Neuro Hacker | 278733 | [278733-neuro-hacker.json](./278733-neuro-hacker.json) |
 | Neuro Hacker: Truth | 285307 | [285307-neuro-hacker-truth.json](./285307-neuro-hacker-truth.json) |
+| Neuro Horror | 220447 | [220447-neuro-horror.json](./220447-neuro-horror.json) |
 | Neuro Hunter | 71491 | [71491-neuro-hunter.json](./71491-neuro-hunter.json) |
 | Neuro Nightmare | 340949 | [340949-neuro-nightmare.json](./340949-neuro-nightmare.json) |
 | Neuroarena: Black Duel Master | 363569 | [363569-neuroarena-black-duel-master.json](./363569-neuroarena-black-duel-master.json) |
@@ -3740,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Keep | 311622 | [311622-night-keep.json](./311622-night-keep.json) |
 | Night Life | 13562 | [13562-night-life.json](./13562-night-life.json) |
 | Night Light | 206626 | [206626-night-light.json](./206626-night-light.json) |
+| Night Light | 220448 | [220448-night-light.json](./220448-night-light.json) |
 | Night Light | 33459 | [33459-night-light.json](./33459-night-light.json) |
 | Night Light: Nightmare | 156187 | [156187-night-light-nightmare.json](./156187-night-light-nightmare.json) |
 | Night Lights | 26698 | [26698-night-lights.json](./26698-night-lights.json) |
@@ -4048,6 +4051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare of Nady | 236906 | [236906-nightmare-of-nady.json](./236906-nightmare-of-nady.json) |
 | Nightmare of Santa Claus | 54912 | [54912-nightmare-of-santa-claus.json](./54912-nightmare-of-santa-claus.json) |
 | Nightmare Of SilkenCore: Train Hell | 333570 | [333570-nightmare-of-silkencore-train-hell.json](./333570-nightmare-of-silkencore-train-hell.json) |
+| Nightmare of the Purge | 220449 | [220449-nightmare-of-the-purge.json](./220449-nightmare-of-the-purge.json) |
 | Nightmare of the Snow | 150559 | [150559-nightmare-of-the-snow.json](./150559-nightmare-of-the-snow.json) |
 | Nightmare of the Webslinger | 338785 | [338785-nightmare-of-the-webslinger.json](./338785-nightmare-of-the-webslinger.json) |
 | Nightmare of Weakest Creature | 225560 | [225560-nightmare-of-weakest-creature.json](./225560-nightmare-of-weakest-creature.json) |
@@ -4306,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nina & Yuri | 316365 | [316365-nina-and-yuri.json](./316365-nina-and-yuri.json) |
 | Nina Aquila: Legal Eagle | 134657 | [134657-nina-aquila-legal-eagle.json](./134657-nina-aquila-legal-eagle.json) |
 | Nina Aquila: Legal Eagle, Chapter II - Broken Wings | 134658 | [134658-nina-aquila-legal-eagle-chapter-ii-broken-wings.json](./134658-nina-aquila-legal-eagle-chapter-ii-broken-wings.json) |
+| Nina Aquila: Legal Eagle, Chapter IV - Sacred Feathers | 220450 | [220450-nina-aquila-legal-eagle-chapter-iv-sacred-feathers.json](./220450-nina-aquila-legal-eagle-chapter-iv-sacred-feathers.json) |
 | Nina Aquila: Legal Eagle, Season One | 152936 | [152936-nina-aquila-legal-eagle-season-one.json](./152936-nina-aquila-legal-eagle-season-one.json) |
 | Nina in Depravity | 333615 | [333615-nina-in-depravity.json](./333615-nina-in-depravity.json) |
 | Nina: Agent Chronicles | 24090 | [24090-nina-agent-chronicles.json](./24090-nina-agent-chronicles.json) |
@@ -4389,6 +4394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Boy 2 | 48966 | [48966-ninja-boy-2.json](./48966-ninja-boy-2.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
 | Ninja Break: Head to Head | 204992 | [204992-ninja-break-head-to-head.json](./204992-ninja-break-head-to-head.json) |
+| Ninja Bricks | 220451 | [220451-ninja-bricks.json](./220451-ninja-bricks.json) |
 | Ninja Brigade feat. Jonah Weingarten | 146101 | [146101-ninja-brigade-feat-jonah-weingarten.json](./146101-ninja-brigade-feat-jonah-weingarten.json) |
 | Ninja Bros. | 92063 | [92063-ninja-bros.json](./92063-ninja-bros.json) |
 | Ninja Bullets | 25755 | [25755-ninja-bullets.json](./25755-ninja-bullets.json) |
@@ -4863,6 +4869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Nation Stories | 39222 | [39222-nitro-nation-stories.json](./39222-nitro-nation-stories.json) |
 | Nitro Nation World Tour | 261519 | [261519-nitro-nation-world-tour.json](./261519-nitro-nation-world-tour.json) |
 | Nitro Nation: Drag Racing | 233762 | [233762-nitro-nation-drag-racing.json](./233762-nitro-nation-drag-racing.json) |
+| Nitro Racers | 220452 | [220452-nitro-racers.json](./220452-nitro-racers.json) |
 | Nitro Rally | 175114 | [175114-nitro-rally.json](./175114-nitro-rally.json) |
 | Nitro Rally Evolution | 234008 | [234008-nitro-rally-evolution.json](./234008-nitro-rally-evolution.json) |
 | Nitro Royale -Heroines Duel- | 70685 | [70685-nitro-royale-heroines-duel.json](./70685-nitro-royale-heroines-duel.json) |
@@ -5507,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noel 3: Mission on the Line | 107624 | [107624-noel-3-mission-on-the-line.json](./107624-noel-3-mission-on-the-line.json) |
 | Noel the Mortal Fate S1-7 | 102484 | [102484-noel-the-mortal-fate-s1-7.json](./102484-noel-the-mortal-fate-s1-7.json) |
 | Noel the Mortal Fate: Complete Edition | 354817 | [354817-noel-the-mortal-fate-complete-edition.json](./354817-noel-the-mortal-fate-complete-edition.json) |
+| Noel the Mortal Fate: Season 10 | 220453 | [220453-noel-the-mortal-fate-season-10.json](./220453-noel-the-mortal-fate-season-10.json) |
 | Noel the Mortal Fate: Season 11 | 237539 | [237539-noel-the-mortal-fate-season-11.json](./237539-noel-the-mortal-fate-season-11.json) |
 | Noel the Mortal Fate: Season 12 | 243374 | [243374-noel-the-mortal-fate-season-12.json](./243374-noel-the-mortal-fate-season-12.json) |
 | Noel the Mortal Fate: Season 3.5 - Revenger's Vacation | 258205 | [258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json](./258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json) |
@@ -5683,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram Mon | 312367 | [312367-nonogram-mon.json](./312367-nonogram-mon.json) |
 | Nonogram Nights | 273451 | [273451-nonogram-nights.json](./273451-nonogram-nights.json) |
 | Nonogram Survival | 227823 | [227823-nonogram-survival.json](./227823-nonogram-survival.json) |
+| Nonogram: Girl's Sweets | 220454 | [220454-nonogram-girls-sweets.json](./220454-nonogram-girls-sweets.json) |
 | Nonogram: Girl's Sweets II | 228090 | [228090-nonogram-girls-sweets-ii.json](./228090-nonogram-girls-sweets-ii.json) |
 | Nonogram: Kawaii Cuties | 212966 | [212966-nonogram-kawaii-cuties.json](./212966-nonogram-kawaii-cuties.json) |
 | Nonogram: Master's Legacy | 111030 | [111030-nonogram-masters-legacy.json](./111030-nonogram-masters-legacy.json) |
@@ -5747,6 +5756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noodle Hustle | 389675 | [389675-noodle-hustle.json](./389675-noodle-hustle.json) |
 | Noodle Jump | 417502 | [417502-noodle-jump.json](./417502-noodle-jump.json) |
 | Noodle Party | 209680 | [209680-noodle-party.json](./209680-noodle-party.json) |
+| Noodle Samurai | 220455 | [220455-noodle-samurai.json](./220455-noodle-samurai.json) |
 | Noodleman.io party games | 332563 | [332563-noodleman-io-party-games.json](./332563-noodleman-io-party-games.json) |
 | Noodles! | 90541 | [90541-noodles.json](./90541-noodles.json) |
 | Noods | 402976 | [402976-noods.json](./402976-noods.json) |
@@ -6225,6 +6235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Strider | 404376 | [404376-nova-strider.json](./404376-nova-strider.json) |
 | Nova Strike | 259027 | [259027-nova-strike.json](./259027-nova-strike.json) |
 | Nova Survivors | 372542 | [372542-nova-survivors.json](./372542-nova-survivors.json) |
+| Nova Tales | 220456 | [220456-nova-tales.json](./220456-nova-tales.json) |
 | Nova the Squirrel | 108807 | [108807-nova-the-squirrel.json](./108807-nova-the-squirrel.json) |
 | Nova Urbana | 222859 | [222859-nova-urbana.json](./222859-nova-urbana.json) |
 | Nova Usagi no Game de Ryuugaku!? DS | 72929 | [72929-nova-usagi-no-game-de-ryuugaku-ds.json](./72929-nova-usagi-no-game-de-ryuugaku-ds.json) |
@@ -6325,6 +6336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nox Dash | 331480 | [331480-nox-dash.json](./331480-nox-dash.json) |
 | Nox Mortalis | 323006 | [323006-nox-mortalis.json](./323006-nox-mortalis.json) |
 | Nox Quest | 92834 | [92834-nox-quest.json](./92834-nox-quest.json) |
+| Nox Timore Remake | 220457 | [220457-nox-timore-remake.json](./220457-nox-timore-remake.json) |
 | NOX: Chapter 1 | 229626 | [229626-nox-chapter-1.json](./229626-nox-chapter-1.json) |
 | Nox: Escape Adventure | 241049 | [241049-nox-escape-adventure.json](./241049-nox-escape-adventure.json) |
 | Noxcode | 404413 | [404413-noxcode.json](./404413-noxcode.json) |
@@ -6367,6 +6379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NSFW Solitaire | 231572 | [231572-nsfw-solitaire.json](./231572-nsfw-solitaire.json) |
 | NSFW: Not a Simulator for Working | 25606 | [25606-nsfw-not-a-simulator-for-working.json](./25606-nsfw-not-a-simulator-for-working.json) |
 | NSFWare | 125879 | [125879-nsfware.json](./125879-nsfware.json) |
+| NSG | 220458 | [220458-nsg.json](./220458-nsg.json) |
 | NSG: Missing Tales | 262871 | [262871-nsg-missing-tales.json](./262871-nsg-missing-tales.json) |
 | NSMB Mario Vs Luigi: KKT's Gooffy little Mod | 328407 | [328407-nsmb-mario-vs-luigi-kkts-gooffy-little-mod.json](./328407-nsmb-mario-vs-luigi-kkts-gooffy-little-mod.json) |
 | NSMB: Mario vs. Luigi Online | 212845 | [212845-nsmb-mario-vs-luigi-online.json](./212845-nsmb-mario-vs-luigi-online.json) |
