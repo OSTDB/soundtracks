@@ -2703,6 +2703,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head to Head Basketball | 245467 | [245467-head-to-head-basketball.json](./245467-head-to-head-basketball.json) |
 | Head to Head Football | 217833 | [217833-head-to-head-football.json](./217833-head-to-head-football.json) |
 | Head to Head Hockey | 245466 | [245466-head-to-head-hockey.json](./245466-head-to-head-hockey.json) |
+| Head to Head Talking Baseball | 217667 | [217667-head-to-head-talking-baseball.json](./217667-head-to-head-talking-baseball.json) |
+| Head to Head Talking Football | 217668 | [217668-head-to-head-talking-football.json](./217668-head-to-head-talking-football.json) |
+| Head to Head Talking Tennis | 217670 | [217670-head-to-head-talking-tennis.json](./217670-head-to-head-talking-tennis.json) |
 | Head to Hell | 311875 | [311875-head-to-hell.json](./311875-head-to-hell.json) |
 | Head Trauma | 278083 | [278083-head-trauma.json](./278083-head-trauma.json) |
 | Head Worms | 149896 | [149896-head-worms.json](./149896-head-worms.json) |
@@ -5873,6 +5876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi no Tori Houou-hen: Gaou no Bouken | 48474 | [48474-hi-no-tori-houou-hen-gaou-no-bouken.json](./48474-hi-no-tori-houou-hen-gaou-no-bouken.json) |
 | Hi On Rhythm | 267459 | [267459-hi-on-rhythm.json](./267459-hi-on-rhythm.json) |
 | Hi Pai Paradise | 309599 | [309599-hi-pai-paradise.json](./309599-hi-pai-paradise.json) |
+| Hi Rev Racer | 217671 | [217671-hi-rev-racer.json](./217671-hi-rev-racer.json) |
 | Hi Rise | 39153 | [39153-hi-rise.json](./39153-hi-rise.json) |
 | Hi There | 293996 | [293996-hi-there.json](./293996-hi-there.json) |
 | Hi-5 DVD Game | 274991 | [274991-hi-5-dvd-game.json](./274991-hi-5-dvd-game.json) |
@@ -7979,6 +7983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home A Drone | 122421 | [122421-home-a-drone.json](./122421-home-a-drone.json) |
 | Home Again | 333225 | [333225-home-again.json](./333225-home-again.json) |
 | Home Again Home Again | 141627 | [141627-home-again-home-again.json](./141627-home-again-home-again.json) |
+| Home Alone | 217672 | [217672-home-alone.json](./217672-home-alone.json) |
 | Home Alone | 243889 | [243889-home-alone.json](./243889-home-alone.json) |
 | Home Alone | 4523 | [4523-home-alone.json](./4523-home-alone.json) |
 | Home Alone | 78598 | [78598-home-alone.json](./78598-home-alone.json) |
