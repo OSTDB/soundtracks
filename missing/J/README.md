@@ -2382,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jönssonligan: Jakten på Mjölner | 320949 | [320949-jonssonligan-jakten-pa-mjolner.json](./320949-jonssonligan-jakten-pa-mjolner.json) |
 | JonTron: Bird vs. Camel | 12201 | [12201-jontron-bird-vs-camel.json](./12201-jontron-bird-vs-camel.json) |
 | Joohsama no Namanikubenjo | 97502 | [97502-joohsama-no-namanikubenjo.json](./97502-joohsama-no-namanikubenjo.json) |
+| Joojee's Journey | 180974 | [180974-joojees-journey.json](./180974-joojees-journey.json) |
 | Joon Shining | 145512 | [145512-joon-shining.json](./145512-joon-shining.json) |
 | Joongboongi's Adventure | 340775 | [340775-joongboongis-adventure.json](./340775-joongboongis-adventure.json) |
 | JoonGo Playground | 112259 | [112259-joongo-playground.json](./112259-joongo-playground.json) |
