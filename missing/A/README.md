@@ -2585,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Quest | 24858 | [24858-action-quest.json](./24858-action-quest.json) |
 | Action Reactor | 119558 | [119558-action-reactor.json](./119558-action-reactor.json) |
 | Action Replay Max | 43302 | [43302-action-replay-max.json](./43302-action-replay-max.json) |
+| Action RO2: Spear of Odin | 214322 | [214322-action-ro2-spear-of-odin.json](./214322-action-ro2-spear-of-odin.json) |
 | Action Rush | 76518 | [76518-action-rush.json](./76518-action-rush.json) |
 | Action Service | 12289 | [12289-action-service.json](./12289-action-service.json) |
 | Action Sport | 72179 | [72179-action-sport.json](./72179-action-sport.json) |
@@ -4754,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Supply | 14156 | [14156-air-supply.json](./14156-air-supply.json) |
 | Air Supply Infinite | 175583 | [175583-air-supply-infinite.json](./175583-air-supply-infinite.json) |
 | Air Support | 14157 | [14157-air-support.json](./14157-air-support.json) |
+| Air Support! | 214311 | [214311-air-support.json](./214311-air-support.json) |
 | Air Supremacy | 12281 | [12281-air-supremacy.json](./12281-air-supremacy.json) |
 | Air Tactical | 55224 | [55224-air-tactical.json](./55224-air-tactical.json) |
 | Air Taxi | 94633 | [94633-air-taxi.json](./94633-air-taxi.json) |
