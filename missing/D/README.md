@@ -12831,6 +12831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Future Saga: Chapter 3 | 396449 | [396449-dragon-ball-xenoverse-2-future-saga-chapter-3.json](./396449-dragon-ball-xenoverse-2-future-saga-chapter-3.json) |
 | Dragon Ball: Xenoverse 2 - Future Saga: Chapter 4 | 376250 | [376250-dragon-ball-xenoverse-2-future-saga-chapter-4.json](./376250-dragon-ball-xenoverse-2-future-saga-chapter-4.json) |
 | Dragon Ball: Xenoverse 2 - Hero of Justice Pack 1 | 226333 | [226333-dragon-ball-xenoverse-2-hero-of-justice-pack-1.json](./226333-dragon-ball-xenoverse-2-hero-of-justice-pack-1.json) |
+| Dragon Ball: Xenoverse 2 - Hero of Justice Pack Set | 225942 | [225942-dragon-ball-xenoverse-2-hero-of-justice-pack-set.json](./225942-dragon-ball-xenoverse-2-hero-of-justice-pack-set.json) |
 | Dragon Ball: Xenoverse 2 - Hero of Justice: Pack 2 | 225546 | [225546-dragon-ball-xenoverse-2-hero-of-justice-pack-2.json](./225546-dragon-ball-xenoverse-2-hero-of-justice-pack-2.json) |
 | Dragon Ball: Xenoverse 2 - Legendary Pack 1 | 168741 | [168741-dragon-ball-xenoverse-2-legendary-pack-1.json](./168741-dragon-ball-xenoverse-2-legendary-pack-1.json) |
 | Dragon Ball: Xenoverse 2 - Legendary Pack 2 | 193208 | [193208-dragon-ball-xenoverse-2-legendary-pack-2.json](./193208-dragon-ball-xenoverse-2-legendary-pack-2.json) |
@@ -16813,6 +16814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 9: Empires - Deluxe Edition | 194262 | [194262-dynasty-warriors-9-empires-deluxe-edition.json](./194262-dynasty-warriors-9-empires-deluxe-edition.json) |
 | Dynasty Warriors 9: Empires - Idol Stage | 191040 | [191040-dynasty-warriors-9-empires-idol-stage.json](./191040-dynasty-warriors-9-empires-idol-stage.json) |
 | Dynasty Warriors 9: Guo Jia Additional Hypothetical Scenarios Set | 225913 | [225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json](./225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json) |
+| Dynasty Warriors 9: Xu Shu Additional Hypothetical Scenarios Set | 225939 | [225939-dynasty-warriors-9-xu-shu-additional-hypothetical-scenarios-set.json](./225939-dynasty-warriors-9-xu-shu-additional-hypothetical-scenarios-set.json) |
 | Dynasty Warriors 9: Zhou Yu Additional Hypothetical Scenarios Set | 225909 | [225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json](./225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json) |
 | Dynasty Warriors DS: Fighter's Battle | 21534 | [21534-dynasty-warriors-ds-fighters-battle.json](./21534-dynasty-warriors-ds-fighters-battle.json) |
 | Dynasty Warriors M | 285381 | [285381-dynasty-warriors-m.json](./285381-dynasty-warriors-m.json) |
