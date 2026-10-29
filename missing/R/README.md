@@ -364,8 +364,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaceRoom - Audi Sport TT Cup 2015 | 53170 | [53170-raceroom-audi-sport-tt-cup-2015.json](./53170-raceroom-audi-sport-tt-cup-2015.json) |
 | RaceRoom - DTM Experience 2015 | 53168 | [53168-raceroom-dtm-experience-2015.json](./53168-raceroom-dtm-experience-2015.json) |
 | RaceRoom Racing Experience: ADAC GT Masters Experience 2014 | 168153 | [168153-raceroom-racing-experience-adac-gt-masters-experience-2014.json](./168153-raceroom-racing-experience-adac-gt-masters-experience-2014.json) |
+| RaceRoom Racing Experience: DTM 1992 Car Pack | 226986 | [226986-raceroom-racing-experience-dtm-1992-car-pack.json](./226986-raceroom-racing-experience-dtm-1992-car-pack.json) |
 | RaceRoom Racing Experience: DTM Experience 2014 | 168152 | [168152-raceroom-racing-experience-dtm-experience-2014.json](./168152-raceroom-racing-experience-dtm-experience-2014.json) |
 | RaceRoom Racing Experience: Nurburgring Legends | 53167 | [53167-raceroom-racing-experience-nurburgring-legends.json](./53167-raceroom-racing-experience-nurburgring-legends.json) |
+| RaceRoom Racing Experience: WTCC 2014 Car Pack | 226985 | [226985-raceroom-racing-experience-wtcc-2014-car-pack.json](./226985-raceroom-racing-experience-wtcc-2014-car-pack.json) |
+| RaceRoom Racing Experience: WTCC 2015 Season Pack | 226984 | [226984-raceroom-racing-experience-wtcc-2015-season-pack.json](./226984-raceroom-racing-experience-wtcc-2015-season-pack.json) |
 | Raceroom: DTM Experience 2013 | 10749 | [10749-raceroom-dtm-experience-2013.json](./10749-raceroom-dtm-experience-2013.json) |
 | Racers | 67067 | [67067-racers.json](./67067-racers.json) |
 | Racers Islands | 233229 | [233229-racers-islands.json](./233229-racers-islands.json) |
