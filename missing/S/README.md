@@ -2081,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Frog Keita | 295268 | [295268-save-the-frog-keita.json](./295268-save-the-frog-keita.json) |
 | Save the Furries | 10813 | [10813-save-the-furries.json](./10813-save-the-furries.json) |
 | Save the Girl | 108382 | [108382-save-the-girl.json](./108382-save-the-girl.json) |
+| Save the Girl | 190825 | [190825-save-the-girl.json](./190825-save-the-girl.json) |
 | Save the Girl | 367387 | [367387-save-the-girl.json](./367387-save-the-girl.json) |
 | Save the girls Action | 150469 | [150469-save-the-girls-action.json](./150469-save-the-girls-action.json) |
 | Save the Halloween | 75198 | [75198-save-the-halloween.json](./75198-save-the-halloween.json) |
@@ -2163,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saving Simon | 115162 | [115162-saving-simon.json](./115162-saving-simon.json) |
 | Saving Sparksville | 338146 | [338146-saving-sparksville.json](./338146-saving-sparksville.json) |
 | Saving Stages | 132595 | [132595-saving-stages.json](./132595-saving-stages.json) |
+| Saving Sunrise | 190844 | [190844-saving-sunrise.json](./190844-saving-sunrise.json) |
 | Saving Synthwave City | 179389 | [179389-saving-synthwave-city.json](./179389-saving-synthwave-city.json) |
 | Saving the Axolotl | 299084 | [299084-saving-the-axolotl.json](./299084-saving-the-axolotl.json) |
 | Saving You From Yourself | 133467 | [133467-saving-you-from-yourself.json](./133467-saving-you-from-yourself.json) |
@@ -3150,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scraps of the Machine | 377683 | [377683-scraps-of-the-machine.json](./377683-scraps-of-the-machine.json) |
 | Scraps: Hellmouth Creek | 391580 | [391580-scraps-hellmouth-creek.json](./391580-scraps-hellmouth-creek.json) |
 | Scraps: Modular Vehicle Combat | 12816 | [12816-scraps-modular-vehicle-combat.json](./12816-scraps-modular-vehicle-combat.json) |
+| Scrapshoot | 190840 | [190840-scrapshoot.json](./190840-scrapshoot.json) |
 | Scraptail: Down the Drain | 278514 | [278514-scraptail-down-the-drain.json](./278514-scraptail-down-the-drain.json) |
 | Scrapvival | 190150 | [190150-scrapvival.json](./190150-scrapvival.json) |
 | Scrapworks Simulator | 332951 | [332951-scrapworks-simulator.json](./332951-scrapworks-simulator.json) |
@@ -7982,6 +7985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooter Bundle: Ghost Assassin, Hotline, Water Blast, Shadowblade, Yori's Journey | 356823 | [356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json](./356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json) |
 | Shooter Dual Pack I Necromunda: Hired Gun + Space Hulk: Deathwing - Enhanced Edition | 194260 | [194260-shooter-dual-pack-i-necromunda-hired-gun-space-hulk-deathwing-enhanced-edition.json](./194260-shooter-dual-pack-i-necromunda-hired-gun-space-hulk-deathwing-enhanced-edition.json) |
 | Shooter Game | 107871 | [107871-shooter-game.json](./107871-shooter-game.json) |
+| Shooter League | 191443 | [191443-shooter-league.json](./191443-shooter-league.json) |
 | Shooter League: Robot Goal | 198312 | [198312-shooter-league-robot-goal.json](./198312-shooter-league-robot-goal.json) |
 | Shooter of the Arcana | 319948 | [319948-shooter-of-the-arcana.json](./319948-shooter-of-the-arcana.json) |
 | Shooter of War | 53594 | [53594-shooter-of-war.json](./53594-shooter-of-war.json) |
@@ -8891,6 +8895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege of Inaolia | 17603 | [17603-siege-of-inaolia.json](./17603-siege-of-inaolia.json) |
 | Siege of Osaka | 239181 | [239181-siege-of-osaka.json](./239181-siege-of-osaka.json) |
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
+| Siege of Treboulain | 190848 | [190848-siege-of-treboulain.json](./190848-siege-of-treboulain.json) |
 | Siege of Turtle Enclave: Arcane Units Pack | 224147 | [224147-siege-of-turtle-enclave-arcane-units-pack.json](./224147-siege-of-turtle-enclave-arcane-units-pack.json) |
 | Siege Saga | 77633 | [77633-siege-saga.json](./77633-siege-saga.json) |
 | Siege Showdown | 270072 | [270072-siege-showdown.json](./270072-siege-showdown.json) |
@@ -10877,6 +10882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Skull Skull | 333215 | [333215-skull-skull-skull.json](./333215-skull-skull-skull.json) |
 | Skull Survivor | 224603 | [224603-skull-survivor.json](./224603-skull-survivor.json) |
 | Skull-Rung | 355334 | [355334-skull-rung.json](./355334-skull-rung.json) |
+| Skull-Scraper | 191410 | [191410-skull-scraper.json](./191410-skull-scraper.json) |
 | Skull's Impossible Quest | 143376 | [143376-skulls-impossible-quest.json](./143376-skulls-impossible-quest.json) |
 | Skull8 | 362873 | [362873-skull8.json](./362873-skull8.json) |
 | SkullBall | 412892 | [412892-skullball.json](./412892-skullball.json) |
@@ -12256,6 +12262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slow Down, Bull | 21671 | [21671-slow-down-bull.json](./21671-slow-down-bull.json) |
 | Slow Fourier Transform | 364637 | [364637-slow-fourier-transform.json](./364637-slow-fourier-transform.json) |
 | Slow Living With Princess | 172447 | [172447-slow-living-with-princess.json](./172447-slow-living-with-princess.json) |
+| Slow Mole | 191431 | [191431-slow-mole.json](./191431-slow-mole.json) |
 | Slow Rise | 267066 | [267066-slow-rise.json](./267066-slow-rise.json) |
 | Slow Roads | 222796 | [222796-slow-roads.json](./222796-slow-roads.json) |
 | Slow.Bullet VR | 392797 | [392797-slow-bullet-vr.json](./392797-slow-bullet-vr.json) |
@@ -12922,6 +12929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Trek: Chapter 3 - Lettuce Be | 81675 | [81675-snail-trek-chapter-3-lettuce-be.json](./81675-snail-trek-chapter-3-lettuce-be.json) |
 | Snail Trek: Chapter 4 - The Final Fondue | 89664 | [89664-snail-trek-chapter-4-the-final-fondue.json](./89664-snail-trek-chapter-4-the-final-fondue.json) |
 | Snail wisdom simulator 2017 | 183922 | [183922-snail-wisdom-simulator-2017.json](./183922-snail-wisdom-simulator-2017.json) |
+| Snail World | 191370 | [191370-snail-world.json](./191370-snail-world.json) |
 | Snail You Later | 365729 | [365729-snail-you-later.json](./365729-snail-you-later.json) |
 | Snail's Knock Out! | 301021 | [301021-snails-knock-out.json](./301021-snails-knock-out.json) |
 | Snailboy: Rise of Hermitron | 120353 | [120353-snailboy-rise-of-hermitron.json](./120353-snailboy-rise-of-hermitron.json) |
@@ -17842,6 +17850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceFire Fury | 329079 | [329079-spacefire-fury.json](./329079-spacefire-fury.json) |
 | Spacefleet: Heat Death | 391522 | [391522-spacefleet-heat-death.json](./391522-spacefleet-heat-death.json) |
 | Spaceflight Simulator | 188384 | [188384-spaceflight-simulator.json](./188384-spaceflight-simulator.json) |
+| Spaceflight Simulator | 190824 | [190824-spaceflight-simulator.json](./190824-spaceflight-simulator.json) |
 | Spaceflux | 137421 | [137421-spaceflux.json](./137421-spaceflux.json) |
 | Spacefolk City | 178285 | [178285-spacefolk-city.json](./178285-spacefolk-city.json) |
 | Spaceforce Constellations | 16846 | [16846-spaceforce-constellations.json](./16846-spaceforce-constellations.json) |
@@ -19493,6 +19502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splashy Cube | 147937 | [147937-splashy-cube.json](./147937-splashy-cube.json) |
 | Splashy Dots | 54679 | [54679-splashy-dots.json](./54679-splashy-dots.json) |
 | Splashy Duck | 84893 | [84893-splashy-duck.json](./84893-splashy-duck.json) |
+| Splashy Fish | 191377 | [191377-splashy-fish.json](./191377-splashy-fish.json) |
 | Splashy Sharky | 97147 | [97147-splashy-sharky.json](./97147-splashy-sharky.json) |
 | Splashy Tiles: Bouncing to the Beat | 101659 | [101659-splashy-tiles-bouncing-to-the-beat.json](./101659-splashy-tiles-bouncing-to-the-beat.json) |
 | Splat | 107064 | [107064-splat.json](./107064-splat.json) |
@@ -28044,6 +28054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Funny RPG | 307713 | [307713-super-mario-funny-rpg.json](./307713-super-mario-funny-rpg.json) |
 | Super Mario Fusion: Revival | 322786 | [322786-super-mario-fusion-revival.json](./322786-super-mario-fusion-revival.json) |
 | Super Mario FX | 257524 | [257524-super-mario-fx.json](./257524-super-mario-fx.json) |
+| Super Mario Galaxy | 191434 | [191434-super-mario-galaxy.json](./191434-super-mario-galaxy.json) |
 | Super Mario Galaxy | 229246 | [229246-super-mario-galaxy.json](./229246-super-mario-galaxy.json) |
 | Super Mario Galaxy | 366899 | [366899-super-mario-galaxy.json](./366899-super-mario-galaxy.json) |
 | Super Mario Galaxy + Super Mario Galaxy 2 | 366878 | [366878-super-mario-galaxy-super-mario-galaxy-2.json](./366878-super-mario-galaxy-super-mario-galaxy-2.json) |
@@ -29450,6 +29461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperBoys: The Big Fight | 58851 | [58851-superboys-the-big-fight.json](./58851-superboys-the-big-fight.json) |
 | Superbrothers: Sword & Sworcery EP | 2991 | [2991-superbrothers-sword-and-sworcery-ep.json](./2991-superbrothers-sword-and-sworcery-ep.json) |
 | Superbug | 381582 | [381582-superbug.json](./381582-superbug.json) |
+| Superbugs: Awaken | 191380 | [191380-superbugs-awaken.json](./191380-superbugs-awaken.json) |
 | Supercan | 228668 | [228668-supercan.json](./228668-supercan.json) |
 | Supercan 2 | 299095 | [299095-supercan-2.json](./299095-supercan-2.json) |
 | Supercar Collection Simulator | 329962 | [329962-supercar-collection-simulator.json](./329962-supercar-collection-simulator.json) |
