@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvation of the soul | 224686 | [224686-salvation-of-the-soul.json](./224686-salvation-of-the-soul.json) |
 | Salvation Plan: Spirit Evil | 284336 | [284336-salvation-plan-spirit-evil.json](./284336-salvation-plan-spirit-evil.json) |
 | Salvation: Echoes of War | 407766 | [407766-salvation-echoes-of-war.json](./407766-salvation-echoes-of-war.json) |
+| Salvationland | 189805 | [189805-salvationland.json](./189805-salvationland.json) |
 | Salvator | 86530 | [86530-salvator.json](./86530-salvator.json) |
 | Salvatorem | 298714 | [298714-salvatorem.json](./298714-salvatorem.json) |
 | Salve a Fantasia | 387619 | [387619-salve-a-fantasia.json](./387619-salve-a-fantasia.json) |
@@ -10184,6 +10185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Whoopass: Immortal Death | 142703 | [142703-sir-whoopass-immortal-death.json](./142703-sir-whoopass-immortal-death.json) |
 | Sir, We Have an Orc Problem | 400094 | [400094-sir-we-have-an-orc-problem.json](./400094-sir-we-have-an-orc-problem.json) |
 | Sir, You Are Being Hunted | 8478 | [8478-sir-you-are-being-hunted.json](./8478-sir-you-are-being-hunted.json) |
+| Sir, You Are Being Hunted: Reinvented Edition | 189832 | [189832-sir-you-are-being-hunted-reinvented-edition.json](./189832-sir-you-are-being-hunted-reinvented-edition.json) |
 | Sir! I'd Like to Report a Bug! | 34702 | [34702-sir-id-like-to-report-a-bug.json](./34702-sir-id-like-to-report-a-bug.json) |
 | Sir'Haxxx | 385709 | [385709-sirhaxxx.json](./385709-sirhaxxx.json) |
 | Sira | 61626 | [61626-sira.json](./61626-sira.json) |
@@ -11429,6 +11431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap Village: Reality Slap | 27399 | [27399-slap-village-reality-slap.json](./27399-slap-village-reality-slap.json) |
 | Slap-It Together! | 197057 | [197057-slap-it-together.json](./197057-slap-it-together.json) |
 | Slap-Shot! Hockey | 95424 | [95424-slap-shot-hockey.json](./95424-slap-shot-hockey.json) |
+| SlapBR | 189836 | [189836-slapbr.json](./189836-slapbr.json) |
 | Slapdash | 240368 | [240368-slapdash.json](./240368-slapdash.json) |
 | SlapGains | 413671 | [413671-slapgains.json](./413671-slapgains.json) |
 | Slappingrot | 383120 | [383120-slappingrot.json](./383120-slappingrot.json) |
@@ -16477,6 +16480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulkin | 305211 | [305211-soulkin.json](./305211-soulkin.json) |
 | Soulknight Survivor | 253363 | [253363-soulknight-survivor.json](./253363-soulknight-survivor.json) |
 | Soulless | 195790 | [195790-soulless.json](./195790-soulless.json) |
+| Soulless Legions | 189800 | [189800-soulless-legions.json](./189800-soulless-legions.json) |
 | Soulless Steel | 268958 | [268958-soulless-steel.json](./268958-soulless-steel.json) |
 | Soulless: Ray of Hope | 27754 | [27754-soulless-ray-of-hope.json](./27754-soulless-ray-of-hope.json) |
 | Soulmask | 272600 | [272600-soulmask.json](./272600-soulmask.json) |
@@ -20637,6 +20641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SRG Mixtape Volume #3 | 222800 | [222800-srg-mixtape-volume-3.json](./222800-srg-mixtape-volume-3.json) |
 | SRG Mixtape Volume #4 | 261215 | [261215-srg-mixtape-volume-4.json](./261215-srg-mixtape-volume-4.json) |
 | Srogue | 311140 | [311140-srogue.json](./311140-srogue.json) |
+| Srok Godnosti | 189812 | [189812-srok-godnosti.json](./189812-srok-godnosti.json) |
 | SRS: Street Racing Syndicate | 49382 | [49382-srs-street-racing-syndicate.json](./49382-srs-street-racing-syndicate.json) |
 | Srush | 373324 | [373324-srush.json](./373324-srush.json) |
 | SRX | 133368 | [133368-srx.json](./133368-srx.json) |
@@ -31880,6 +31885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Crash: Underworld | 171424 | [171424-system-crash-underworld.json](./171424-system-crash-underworld.json) |
 | System Critical II | 240735 | [240735-system-critical-ii.json](./240735-system-critical-ii.json) |
 | System Critical III | 354340 | [354340-system-critical-iii.json](./354340-system-critical-iii.json) |
+| System Critical: The Race Against Time | 189803 | [189803-system-critical-the-race-against-time.json](./189803-system-critical-the-race-against-time.json) |
 | System Death | 319794 | [319794-system-death.json](./319794-system-death.json) |
 | System Escape | 237067 | [237067-system-escape.json](./237067-system-escape.json) |
 | System Flaw | 67695 | [67695-system-flaw.json](./67695-system-flaw.json) |
