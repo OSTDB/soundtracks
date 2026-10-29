@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magemania | 247364 | [247364-magemania.json](./247364-magemania.json) |
 | Magenta | 333771 | [333771-magenta.json](./333771-magenta.json) |
 | Magenta Arcade II | 373639 | [373639-magenta-arcade-ii.json](./373639-magenta-arcade-ii.json) |
+| Magenta Horizon: Neverending Harvest | 177708 | [177708-magenta-horizon-neverending-harvest.json](./177708-magenta-horizon-neverending-harvest.json) |
 | Magerealm: Rise of Chaos | 12874 | [12874-magerealm-rise-of-chaos.json](./12874-magerealm-rise-of-chaos.json) |
 | Mageroom | 176872 | [176872-mageroom.json](./176872-mageroom.json) |
 | MageRun | 192361 | [192361-magerun.json](./192361-magerun.json) |
@@ -1243,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Weapon | 377301 | [377301-magic-weapon.json](./377301-magic-weapon.json) |
 | Magic Witches | 280860 | [280860-magic-witches.json](./280860-magic-witches.json) |
 | Magic Wizard | 130862 | [130862-magic-wizard.json](./130862-magic-wizard.json) |
+| Magic Wolfgirl | 177703 | [177703-magic-wolfgirl.json](./177703-magic-wolfgirl.json) |
 | Magic Words: Craft Words | 243720 | [243720-magic-words-craft-words.json](./243720-magic-words-craft-words.json) |
 | Magic World | 372634 | [372634-magic-world.json](./372634-magic-world.json) |
 | Magic World Mahjong | 95320 | [95320-magic-world-mahjong.json](./95320-magic-world-mahjong.json) |
@@ -2472,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malvinas: La Ultima Carta | 303645 | [303645-malvinas-la-ultima-carta.json](./303645-malvinas-la-ultima-carta.json) |
 | MalViolence: Definitive Edition | 249239 | [249239-malviolence-definitive-edition.json](./249239-malviolence-definitive-edition.json) |
 | Malvirta Station | 271459 | [271459-malvirta-station.json](./271459-malvirta-station.json) |
+| Malware | 177688 | [177688-malware.json](./177688-malware.json) |
 | Malware | 303987 | [303987-malware.json](./303987-malware.json) |
 | Malware Derby | 244896 | [244896-malware-derby.json](./244896-malware-derby.json) |
 | Malware Rewritten | 217353 | [217353-malware-rewritten.json](./217353-malware-rewritten.json) |
@@ -3167,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Margin of the Strange | 301867 | [301867-margin-of-the-strange.json](./301867-margin-of-the-strange.json) |
 | Marginal act | 93778 | [93778-marginal-act.json](./93778-marginal-act.json) |
 | Marginal Break | 236260 | [236260-marginal-break.json](./236260-marginal-break.json) |
+| Marginalia Hero | 177701 | [177701-marginalia-hero.json](./177701-marginalia-hero.json) |
 | Margo | 214911 | [214911-margo.json](./214911-margo.json) |
 | Margo: On The Brink | 223373 | [223373-margo-on-the-brink.json](./223373-margo-on-the-brink.json) |
 | Margo: The Bean Adventure | 174305 | [174305-margo-the-bean-adventure.json](./174305-margo-the-bean-adventure.json) |
@@ -11322,6 +11326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Miners | 227683 | [227683-mini-miners.json](./227683-mini-miners.json) |
 | Mini Mini Farm | 209934 | [209934-mini-mini-farm.json](./209934-mini-mini-farm.json) |
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
+| Mini Minny and the Missing Magic | 177712 | [177712-mini-minny-and-the-missing-magic.json](./177712-mini-minny-and-the-missing-magic.json) |
 | Mini Monsters | 343907 | [343907-mini-monsters.json](./343907-mini-monsters.json) |
 | Mini Motion: Sk8 HousE | 209208 | [209208-mini-motion-sk8-house.json](./209208-mini-motion-sk8-house.json) |
 | Mini Motor Racing | 89093 | [89093-mini-motor-racing.json](./89093-mini-motor-racing.json) |
@@ -11513,6 +11518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimal Crypt | 163947 | [163947-minimal-crypt.json](./163947-minimal-crypt.json) |
 | Minimal Escape | 290694 | [290694-minimal-escape.json](./290694-minimal-escape.json) |
 | Minimal Fear | 184600 | [184600-minimal-fear.json](./184600-minimal-fear.json) |
+| Minimal Freeman | 177684 | [177684-minimal-freeman.json](./177684-minimal-freeman.json) |
 | Minimal Maze | 197772 | [197772-minimal-maze.json](./197772-minimal-maze.json) |
 | Minimal Move | 115677 | [115677-minimal-move.json](./115677-minimal-move.json) |
 | Minimalism | 29648 | [29648-minimalism.json](./29648-minimalism.json) |
@@ -12527,6 +12533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizz Survival | 243767 | [243767-mizz-survival.json](./243767-mizz-survival.json) |
 | Mizzurna Falls | 43839 | [43839-mizzurna-falls.json](./43839-mizzurna-falls.json) |
 | MJ | 130945 | [130945-mj.json](./130945-mj.json) |
+| Mk Creature.zip | 177702 | [177702-mk-creature-zip.json](./177702-mk-creature-zip.json) |
 | MK-Ultra Tower Defense | 312766 | [312766-mk-ultra-tower-defense.json](./312766-mk-ultra-tower-defense.json) |
 | MK5 Mortal Kombat: Sub-Zero | 155515 | [155515-mk5-mortal-kombat-sub-zero.json](./155515-mk5-mortal-kombat-sub-zero.json) |
 | Mk50TWL Vehicle Battler Custom Slider | 407420 | [407420-mk50twl-vehicle-battler-custom-slider.json](./407420-mk50twl-vehicle-battler-custom-slider.json) |
@@ -15558,6 +15565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother Nature: Balance Broken | 207583 | [207583-mother-nature-balance-broken.json](./207583-mother-nature-balance-broken.json) |
 | Mother of All Battles | 102823 | [102823-mother-of-all-battles.json](./102823-mother-of-all-battles.json) |
 | Mother of All Battles! | 338001 | [338001-mother-of-all-battles.json](./338001-mother-of-all-battles.json) |
+| Mother of All Secrets | 178217 | [178217-mother-of-all-secrets.json](./178217-mother-of-all-secrets.json) |
 | Mother of Many | 194403 | [194403-mother-of-many.json](./194403-mother-of-many.json) |
 | Mother of Monsters | 234565 | [234565-mother-of-monsters.json](./234565-mother-of-monsters.json) |
 | Mother of Myth | 19643 | [19643-mother-of-myth.json](./19643-mother-of-myth.json) |
@@ -17849,6 +17857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dear Neighbor, edition 404 | 178429 | [178429-my-dear-neighbor-edition-404.json](./178429-my-dear-neighbor-edition-404.json) |
 | My Dear Sister | 213449 | [213449-my-dear-sister.json](./213449-my-dear-sister.json) |
 | My Dearest Direst Disaster | 397803 | [397803-my-dearest-direst-disaster.json](./397803-my-dearest-direst-disaster.json) |
+| My Defi Pet | 178220 | [178220-my-defi-pet.json](./178220-my-defi-pet.json) |
 | My Demon Wife | 243299 | [243299-my-demon-wife.json](./243299-my-demon-wife.json) |
 | My Demonic Romance | 243960 | [243960-my-demonic-romance.json](./243960-my-demonic-romance.json) |
 | My Desktop Dwarf: Taskbar Forge | 419913 | [419913-my-desktop-dwarf-taskbar-forge.json](./419913-my-desktop-dwarf-taskbar-forge.json) |
