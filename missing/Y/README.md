@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow or Red? | 174308 | [174308-yellow-or-red.json](./174308-yellow-or-red.json) |
 | Yellow Peril | 69929 | [69929-yellow-peril.json](./69929-yellow-peril.json) |
 | Yellow Rose | 288151 | [288151-yellow-rose.json](./288151-yellow-rose.json) |
+| Yellow Sails | 182046 | [182046-yellow-sails.json](./182046-yellow-sails.json) |
 | Yellow Taxi Goes Vroom | 216805 | [216805-yellow-taxi-goes-vroom.json](./216805-yellow-taxi-goes-vroom.json) |
 | Yellow Trouble | 324941 | [324941-yellow-trouble.json](./324941-yellow-trouble.json) |
 | Yellow: The Yellow Artifact | 32437 | [32437-yellow-the-yellow-artifact.json](./32437-yellow-the-yellow-artifact.json) |
