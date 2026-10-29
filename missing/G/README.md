@@ -1210,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Vampires: Twilight Sun | 300265 | [300265-game-of-vampires-twilight-sun.json](./300265-game-of-vampires-twilight-sun.json) |
 | Game of War: Fire Age | 8685 | [8685-game-of-war-fire-age.json](./8685-game-of-war-fire-age.json) |
 | Game Over | 13854 | [13854-game-over.json](./13854-game-over.json) |
+| Game Over | 193065 | [193065-game-over.json](./193065-game-over.json) |
 | Game Over Gopher | 336924 | [336924-game-over-gopher.json](./336924-game-over-gopher.json) |
 | Game Over II | 46658 | [46658-game-over-ii.json](./46658-game-over-ii.json) |
 | Game Over Please | 340291 | [340291-game-over-please.json](./340291-game-over-please.json) |
@@ -1414,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamma Labs | 263413 | [263413-gamma-labs.json](./263413-gamma-labs.json) |
 | Gamma Nocturne 1 | 211698 | [211698-gamma-nocturne-1.json](./211698-gamma-nocturne-1.json) |
 | Gamma Protocol | 285592 | [285592-gamma-protocol.json](./285592-gamma-protocol.json) |
+| Gamma Space | 193082 | [193082-gamma-space.json](./193082-gamma-space.json) |
 | Gamma Strain | 322623 | [322623-gamma-strain.json](./322623-gamma-strain.json) |
 | Gamma Zero | 332923 | [332923-gamma-zero.json](./332923-gamma-zero.json) |
 | Gamma-Attack | 40667 | [40667-gamma-attack.json](./40667-gamma-attack.json) |
@@ -4761,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Ape Ship! | 376467 | [376467-go-ape-ship.json](./376467-go-ape-ship.json) |
 | Go Away, There's Kumis Over There! | 30893 | [30893-go-away-theres-kumis-over-there.json](./30893-go-away-theres-kumis-over-there.json) |
 | Go Babies | 368661 | [368661-go-babies.json](./368661-go-babies.json) |
+| Go Back to Hell | 193056 | [193056-go-back-to-hell.json](./193056-go-back-to-hell.json) |
 | Go Ballistic | 152306 | [152306-go-ballistic.json](./152306-go-ballistic.json) |
 | Go Bananas | 269016 | [269016-go-bananas.json](./269016-go-bananas.json) |
 | Go Bananas! | 365801 | [365801-go-bananas.json](./365801-go-bananas.json) |
@@ -7449,6 +7452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Block 2 | 326189 | [326189-gravity-block-2.json](./326189-gravity-block-2.json) |
 | Gravity Blocks: The Last Rotation | 57742 | [57742-gravity-blocks-the-last-rotation.json](./57742-gravity-blocks-the-last-rotation.json) |
 | Gravity Bone | 7962 | [7962-gravity-bone.json](./7962-gravity-bone.json) |
+| Gravity Bot | 193099 | [193099-gravity-bot.json](./193099-gravity-bot.json) |
 | Gravity Box | 207853 | [207853-gravity-box.json](./207853-gravity-box.json) |
 | Gravity Boy! | 407519 | [407519-gravity-boy.json](./407519-gravity-boy.json) |
 | Gravity Brawl | 159056 | [159056-gravity-brawl.json](./159056-gravity-brawl.json) |
