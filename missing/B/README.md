@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babataire EX | 328332 | [328332-babataire-ex.json](./328332-babataire-ex.json) |
 | Babava's Playspace | 278974 | [278974-babavas-playspace.json](./278974-babavas-playspace.json) |
 | Babayka | 298005 | [298005-babayka.json](./298005-babayka.json) |
+| Babba Yagga: Woodboy | 189326 | [189326-babba-yagga-woodboy.json](./189326-babba-yagga-woodboy.json) |
 | Babbdi | 229631 | [229631-babbdi.json](./229631-babbdi.json) |
 | Babbling Brook | 351277 | [351277-babbling-brook.json](./351277-babbling-brook.json) |
 | Babe | 56546 | [56546-babe.json](./56546-babe.json) |
@@ -3771,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefleet Gothic: Armada 2 - Complete Edition | 154949 | [154949-battlefleet-gothic-armada-2-complete-edition.json](./154949-battlefleet-gothic-armada-2-complete-edition.json) |
 | Battlefleet Gothic: Armada 2 - Deluxe Edition | 186340 | [186340-battlefleet-gothic-armada-2-deluxe-edition.json](./186340-battlefleet-gothic-armada-2-deluxe-edition.json) |
 | Battlefleet Gothic: Leviathan | 34371 | [34371-battlefleet-gothic-leviathan.json](./34371-battlefleet-gothic-leviathan.json) |
+| Battlefleet Gust Wind | 189307 | [189307-battlefleet-gust-wind.json](./189307-battlefleet-gust-wind.json) |
 | BattleForge | 18487 | [18487-battleforge.json](./18487-battleforge.json) |
 | BattleForte | 25937 | [25937-battleforte.json](./25937-battleforte.json) |
 | Battlefront | 28708 | [28708-battlefront.json](./28708-battlefront.json) |
@@ -7153,6 +7155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Attack | 40031 | [40031-bio-attack.json](./40031-bio-attack.json) |
 | Bio Blaster | 354889 | [354889-bio-blaster.json](./354889-bio-blaster.json) |
 | Bio Block | 274518 | [274518-bio-block.json](./274518-bio-block.json) |
+| Bio Bots | 189315 | [189315-bio-bots.json](./189315-bio-bots.json) |
 | Bio Bytes | 220274 | [220274-bio-bytes.json](./220274-bio-bytes.json) |
 | Bio Challenge | 12917 | [12917-bio-challenge.json](./12917-bio-challenge.json) |
 | Bio Crisis: Evil Hazard | 152996 | [152996-bio-crisis-evil-hazard.json](./152996-bio-crisis-evil-hazard.json) |
@@ -11926,6 +11929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Key | 420585 | [420585-boss-key.json](./420585-boss-key.json) |
 | Boss Life 3D | 224090 | [224090-boss-life-3d.json](./224090-boss-life-3d.json) |
 | Boss of FCs | 348418 | [348418-boss-of-fcs.json](./348418-boss-of-fcs.json) |
+| Boss of the Mafia | 189290 | [189290-boss-of-the-mafia.json](./189290-boss-of-the-mafia.json) |
 | Boss Pit | 394823 | [394823-boss-pit.json](./394823-boss-pit.json) |
 | Boss Rally | 8431 | [8431-boss-rally.json](./8431-boss-rally.json) |
 | Boss Rush Bundle | 259136 | [259136-boss-rush-bundle.json](./259136-boss-rush-bundle.json) |
@@ -13904,6 +13908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brimstone | 26957 | [26957-brimstone.json](./26957-brimstone.json) |
 | Brimstone | 347874 | [347874-brimstone.json](./347874-brimstone.json) |
 | Brimstone Brawlers | 105267 | [105267-brimstone-brawlers.json](./105267-brimstone-brawlers.json) |
+| Brimstone Manor | 189304 | [189304-brimstone-manor.json](./189304-brimstone-manor.json) |
 | Brimvahl Crown | 403342 | [403342-brimvahl-crown.json](./403342-brimvahl-crown.json) |
 | Brincando com Ariê | 341885 | [341885-brincando-com-arie.json](./341885-brincando-com-arie.json) |
 | Brine Flow | 222869 | [222869-brine-flow.json](./222869-brine-flow.json) |
