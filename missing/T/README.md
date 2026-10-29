@@ -7551,6 +7551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreamer Must Die | 259449 | [259449-the-dreamer-must-die.json](./259449-the-dreamer-must-die.json) |
 | The Dreamers Foresight | 313479 | [313479-the-dreamers-foresight.json](./313479-the-dreamers-foresight.json) |
 | The Dreaming City Chronicles: Quest for the Vanished World | 406302 | [406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json](./406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json) |
+| The Dreaming Fox | 195372 | [195372-the-dreaming-fox.json](./195372-the-dreaming-fox.json) |
 | The Dreamland | 226602 | [226602-the-dreamland.json](./226602-the-dreamland.json) |
 | The Dreamland | 343779 | [343779-the-dreamland.json](./343779-the-dreamland.json) |
 | The Dreamland Chronicles | 61734 | [61734-the-dreamland-chronicles.json](./61734-the-dreamland-chronicles.json) |
@@ -12085,6 +12086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mean Green | 263415 | [263415-the-mean-green.json](./263415-the-mean-green.json) |
 | The Mean Green 2 | 263416 | [263416-the-mean-green-2.json](./263416-the-mean-green-2.json) |
 | The Mean Greens: Plastic Warfare - Vampiro | 208812 | [208812-the-mean-greens-plastic-warfare-vampiro.json](./208812-the-mean-greens-plastic-warfare-vampiro.json) |
+| The Mean Greens: Plastic Warfare - Wrestling Superstar "Kurt Angle" | 195380 | [195380-the-mean-greens-plastic-warfare-wrestling-superstar-kurt-angle.json](./195380-the-mean-greens-plastic-warfare-wrestling-superstar-kurt-angle.json) |
 | The Meaning | 203303 | [203303-the-meaning.json](./203303-the-meaning.json) |
 | The Meaning of Auri | 349310 | [349310-the-meaning-of-auri.json](./349310-the-meaning-of-auri.json) |
 | The Meaning of Life | 379154 | [379154-the-meaning-of-life.json](./379154-the-meaning-of-life.json) |
@@ -15368,6 +15370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Symbiant II | 349336 | [349336-the-symbiant-ii.json](./349336-the-symbiant-ii.json) |
 | The Symbiant Re:Union | 259004 | [259004-the-symbiant-re-union.json](./259004-the-symbiant-re-union.json) |
 | The Symphony of Dragon and Girls | 208237 | [208237-the-symphony-of-dragon-and-girls.json](./208237-the-symphony-of-dragon-and-girls.json) |
+| The Synergist | 195339 | [195339-the-synergist.json](./195339-the-synergist.json) |
 | The System: Opposing Facility | 273240 | [273240-the-system-opposing-facility.json](./273240-the-system-opposing-facility.json) |
 | The T.O.T.E.: Tales of the Elements | 258214 | [258214-the-t-o-t-e-tales-of-the-elements.json](./258214-the-t-o-t-e-tales-of-the-elements.json) |
 | The table at war VR | 30544 | [30544-the-table-at-war-vr.json](./30544-the-table-at-war-vr.json) |
@@ -26805,6 +26808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree of Savior: Neverland | 327392 | [327392-tree-of-savior-neverland.json](./327392-tree-of-savior-neverland.json) |
 | Tree Simulator 2021 | 230253 | [230253-tree-simulator-2021.json](./230253-tree-simulator-2021.json) |
 | Tree Simulator 2022 | 152372 | [152372-tree-simulator-2022.json](./152372-tree-simulator-2022.json) |
+| Tree Simulator 2023 | 195389 | [195389-tree-simulator-2023.json](./195389-tree-simulator-2023.json) |
 | Tree Simulator 2024 | 312419 | [312419-tree-simulator-2024.json](./312419-tree-simulator-2024.json) |
 | Tree Spade Truck | 90670 | [90670-tree-spade-truck.json](./90670-tree-spade-truck.json) |
 | Tree Strike | 151612 | [151612-tree-strike.json](./151612-tree-strike.json) |
