@@ -5445,6 +5445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoGeez | 410296 | [410296-gogeez.json](./410296-gogeez.json) |
 | Gogetsuji Legends | 37341 | [37341-gogetsuji-legends.json](./37341-gogetsuji-legends.json) |
 | Gogh: Focus with Your Avatar | 333115 | [333115-gogh-focus-with-your-avatar.json](./333115-gogh-focus-with-your-avatar.json) |
+| GogMagog | 212077 | [212077-gogmagog.json](./212077-gogmagog.json) |
 | Gogo I-Land | 344573 | [344573-gogo-i-land.json](./344573-gogo-i-land.json) |
 | GoGo Sentai Boukenger Kazu to Katachi wo Oboeyou! | 327590 | [327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json](./327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json) |
 | GoGo Tap! Fighter | 243077 | [243077-gogo-tap-fighter.json](./243077-gogo-tap-fighter.json) |
