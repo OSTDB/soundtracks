@@ -1992,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fap & Cum: Simulator | 368131 | [368131-fap-and-cum-simulator.json](./368131-fap-and-cum-simulator.json) |
 | Fap Goddess | 226802 | [226802-fap-goddess.json](./226802-fap-goddess.json) |
 | Fap Queen | 110145 | [110145-fap-queen.json](./110145-fap-queen.json) |
+| Fap Queen II | 177700 | [177700-fap-queen-ii.json](./177700-fap-queen-ii.json) |
 | Fap Titans | 98475 | [98475-fap-titans.json](./98475-fap-titans.json) |
 | Fap&Click | 331100 | [331100-fap-and-click.json](./331100-fap-and-click.json) |
 | Fapic | 53091 | [53091-fapic.json](./53091-fapic.json) |
@@ -2001,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Away | 130105 | [130105-far-away.json](./130105-far-away.json) |
 | Far Away From Home | 190432 | [190432-far-away-from-home.json](./190432-far-away-from-home.json) |
 | Far Away Train | 150527 | [150527-far-away-train.json](./150527-far-away-train.json) |
+| Far Away, Pixel Horror | 177696 | [177696-far-away-pixel-horror.json](./177696-far-away-pixel-horror.json) |
 | Far Beyond the World | 158979 | [158979-far-beyond-the-world.json](./158979-far-beyond-the-world.json) |
 | Far Beyond: A space odyssey VR | 31230 | [31230-far-beyond-a-space-odyssey-vr.json](./31230-far-beyond-a-space-odyssey-vr.json) |
 | Far Cnight | 99729 | [99729-far-cnight.json](./99729-far-cnight.json) |
@@ -3461,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femdom Overtime | 400901 | [400901-femdom-overtime.json](./400901-femdom-overtime.json) |
 | Femdom Stories: Findom Simulator Sex Game | 368129 | [368129-femdom-stories-findom-simulator-sex-game.json](./368129-femdom-stories-findom-simulator-sex-game.json) |
 | Femdom University 0 | 371036 | [371036-femdom-university-0.json](./371036-femdom-university-0.json) |
+| Femdom Waifu | 177706 | [177706-femdom-waifu.json](./177706-femdom-waifu.json) |
 | Femdom Waifu VR | 368641 | [368641-femdom-waifu-vr.json](./368641-femdom-waifu-vr.json) |
 | Femdom Wife Game: Zoe | 367045 | [367045-femdom-wife-game-zoe.json](./367045-femdom-wife-game-zoe.json) |
 | FemDomination 2 | 286504 | [286504-femdomination-2.json](./286504-femdomination-2.json) |
@@ -7949,6 +7952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foo Foo | 138148 | [138148-foo-foo.json](./138148-foo-foo.json) |
 | Fooaaahh! | 182451 | [182451-fooaaahh.json](./182451-fooaaahh.json) |
 | Foobar 0 | 176722 | [176722-foobar-0.json](./176722-foobar-0.json) |
+| Foobar Versus the DEA | 178186 | [178186-foobar-versus-the-dea.json](./178186-foobar-versus-the-dea.json) |
 | Fooblitzky | 26265 | [26265-fooblitzky.json](./26265-fooblitzky.json) |
 | Foobse | 403541 | [403541-foobse.json](./403541-foobse.json) |
 | Food Adventures | 395173 | [395173-food-adventures.json](./395173-food-adventures.json) |
@@ -11723,6 +11727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FUMBBL Fantasy Football | 143348 | [143348-fumbbl-fantasy-football.json](./143348-fumbbl-fantasy-football.json) |
 | Fumble Fiesta | 292557 | [292557-fumble-fiesta.json](./292557-fumble-fiesta.json) |
 | Fumble Freaks | 337295 | [337295-fumble-freaks.json](./337295-fumble-freaks.json) |
+| Fumes | 177689 | [177689-fumes.json](./177689-fumes.json) |
 | Fumiko! | 27194 | [27194-fumiko.json](./27194-fumiko.json) |
 | Fumo | 236212 | [236212-fumo.json](./236212-fumo.json) |
 | Fumo | 289231 | [289231-fumo.json](./289231-fumo.json) |
@@ -12482,6 +12487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzzy's Quest | 127658 | [127658-fuzzys-quest.json](./127658-fuzzys-quest.json) |
 | Fuzzy's World of Miniature Space Golf | 50437 | [50437-fuzzys-world-of-miniature-space-golf.json](./50437-fuzzys-world-of-miniature-space-golf.json) |
 | Fuzzys Quest 2 | 261408 | [261408-fuzzys-quest-2.json](./261408-fuzzys-quest-2.json) |
+| Fwd | 177686 | [177686-fwd.json](./177686-fwd.json) |
 | Fwog | 270189 | [270189-fwog.json](./270189-fwog.json) |
 | Fwosty Poetwy | 179010 | [179010-fwosty-poetwy.json](./179010-fwosty-poetwy.json) |
 | FX Chess | 94266 | [94266-fx-chess.json](./94266-fx-chess.json) |
