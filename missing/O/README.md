@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Friends Dog Game | 159311 | [159311-old-friends-dog-game.json](./159311-old-friends-dog-game.json) |
 | Old Future: Post-Apocalyptic Times | 196882 | [196882-old-future-post-apocalyptic-times.json](./196882-old-future-post-apocalyptic-times.json) |
 | Old Gay Cats Look at Old Photos | 264353 | [264353-old-gay-cats-look-at-old-photos.json](./264353-old-gay-cats-look-at-old-photos.json) |
+| Old Gods | 202494 | [202494-old-gods.json](./202494-old-gods.json) |
 | Old Gods Rising | 118635 | [118635-old-gods-rising.json](./118635-old-gods-rising.json) |
 | Old Hound of Baker Street | 280181 | [280181-old-hound-of-baker-street.json](./280181-old-hound-of-baker-street.json) |
 | Old Hunter | 165664 | [165664-old-hunter.json](./165664-old-hunter.json) |
@@ -1920,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ondal | 345022 | [345022-ondal.json](./345022-ondal.json) |
 | Ondeki | 148410 | [148410-ondeki.json](./148410-ondeki.json) |
 | Onder | 159781 | [159781-onder.json](./159781-onder.json) |
+| One | 202503 | [202503-one.json](./202503-one.json) |
 | One | 247411 | [247411-one.json](./247411-one.json) |
 | One | 6267 | [6267-one.json](./6267-one.json) |
 | One | 78060 | [78060-one.json](./78060-one.json) |
