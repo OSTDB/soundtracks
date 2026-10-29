@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dame Tu Cosita | 334917 | [334917-dame-tu-cosita.json](./334917-dame-tu-cosita.json) |
 | Dami & Flo | 179461 | [179461-dami-and-flo.json](./179461-dami-and-flo.json) |
 | Dami and Secret Library | 375507 | [375507-dami-and-secret-library.json](./375507-dami-and-secret-library.json) |
+| Damien Crawford's Golf Experience 2022 | 212590 | [212590-damien-crawfords-golf-experience-2022.json](./212590-damien-crawfords-golf-experience-2022.json) |
 | Damien: The Game | 239538 | [239538-damien-the-game.json](./239538-damien-the-game.json) |
 | Damion Shard: Ace Attorney | 302643 | [302643-damion-shard-ace-attorney.json](./302643-damion-shard-ace-attorney.json) |
 | Dämmerlicht | 29547 | [29547-dammerlicht.json](./29547-dammerlicht.json) |
@@ -1474,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Mage | 40687 | [40687-dark-mage.json](./40687-dark-mage.json) |
 | Dark Magic 2 | 192387 | [192387-dark-magic-2.json](./192387-dark-magic-2.json) |
 | Dark Magician | 192380 | [192380-dark-magician.json](./192380-dark-magician.json) |
+| Dark Maidens | 212594 | [212594-dark-maidens.json](./212594-dark-maidens.json) |
 | Dark Mass | 336164 | [336164-dark-mass.json](./336164-dark-mass.json) |
 | Dark Matter | 97240 | [97240-dark-matter.json](./97240-dark-matter.json) |
 | Dark Maze | 148912 | [148912-dark-maze.json](./148912-dark-maze.json) |
@@ -7004,6 +7006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Gate | 403692 | [403692-devil-gate.json](./403692-devil-gate.json) |
 | Devil Girl | 153728 | [153728-devil-girl.json](./153728-devil-girl.json) |
 | Devil Girl | 300747 | [300747-devil-girl.json](./300747-devil-girl.json) |
+| Devil Girl Ivlin | 212578 | [212578-devil-girl-ivlin.json](./212578-devil-girl-ivlin.json) |
 | Devil Girl Needs Massages | 111183 | [111183-devil-girl-needs-massages.json](./111183-devil-girl-needs-massages.json) |
 | Devil House | 214331 | [214331-devil-house.json](./214331-devil-house.json) |
 | Devil Hunter Idle | 234486 | [234486-devil-hunter-idle.json](./234486-devil-hunter-idle.json) |
@@ -13574,6 +13577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dramatic RPG Kamitsuri | 25679 | [25679-dramatic-rpg-kamitsuri.json](./25679-dramatic-rpg-kamitsuri.json) |
 | Dramatical Murder Re:code | 22494 | [22494-dramatical-murder-re-code.json](./22494-dramatical-murder-re-code.json) |
 | Dramatical Murder Re:connect | 22493 | [22493-dramatical-murder-re-connect.json](./22493-dramatical-murder-re-connect.json) |
+| Dransik | 212606 | [212606-dransik.json](./212606-dransik.json) |
 | Drapers: Merchants of Middle Ages | 420479 | [420479-drapers-merchants-of-middle-ages.json](./420479-drapers-merchants-of-middle-ages.json) |
 | Drapline | 333105 | [333105-drapline.json](./333105-drapline.json) |
 | Dráscula: The Vampire Strikes Back | 117600 | [117600-drascula-the-vampire-strikes-back.json](./117600-drascula-the-vampire-strikes-back.json) |
