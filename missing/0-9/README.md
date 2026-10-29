@@ -2262,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3x3 the Adventure Game | 169343 | [169343-3x3-the-adventure-game.json](./169343-3x3-the-adventure-game.json) |
 | 3x3: Take Two | 312889 | [312889-3x3-take-two.json](./312889-3x3-take-two.json) |
 | 3x3x3: A Mermaid's Tale | 128611 | [128611-3x3x3-a-mermaids-tale.json](./128611-3x3x3-a-mermaids-tale.json) |
+| 3x64 | 187649 | [187649-3x64.json](./187649-3x64.json) |
 | 3x9 Kingdom: Road of Adventures | 296229 | [296229-3x9-kingdom-road-of-adventures.json](./296229-3x9-kingdom-road-of-adventures.json) |
 | 3Xtinction | 274943 | [274943-3xtinction.json](./274943-3xtinction.json) |
 | 3xtinction: 2urvive Mercenaries Pack | 377375 | [377375-3xtinction-2urvive-mercenaries-pack.json](./377375-3xtinction-2urvive-mercenaries-pack.json) |
