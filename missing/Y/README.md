@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Basic Block | 77779 | [77779-your-basic-block.json](./77779-your-basic-block.json) |
 | Your Best Nightmare | 176909 | [176909-your-best-nightmare.json](./176909-your-best-nightmare.json) |
 | Your Big, Cute Monster Farm | 368810 | [368810-your-big-cute-monster-farm.json](./368810-your-big-cute-monster-farm.json) |
+| Your Blight | 224851 | [224851-your-blight.json](./224851-your-blight.json) |
 | Your Blue Room | 185616 | [185616-your-blue-room.json](./185616-your-blue-room.json) |
 | Your Boss is Calling... | 214391 | [214391-your-boss-is-calling.json](./214391-your-boss-is-calling.json) |
 | Your Boyfriend | 165460 | [165460-your-boyfriend.json](./165460-your-boyfriend.json) |
