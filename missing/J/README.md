@@ -3362,6 +3362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Island Rescue and Escape | 294433 | [294433-jurassic-island-rescue-and-escape.json](./294433-jurassic-island-rescue-and-escape.json) |
 | Jurassic Island VR | 105702 | [105702-jurassic-island-vr.json](./105702-jurassic-island-vr.json) |
 | Jurassic Island: Little Dinosaur Park | 332358 | [332358-jurassic-island-little-dinosaur-park.json](./332358-jurassic-island-little-dinosaur-park.json) |
+| Jurassic Island: Lost Ark Survival | 194149 | [194149-jurassic-island-lost-ark-survival.json](./194149-jurassic-island-lost-ark-survival.json) |
 | Jurassic Island: The Dinosaur Zoo | 14745 | [14745-jurassic-island-the-dinosaur-zoo.json](./14745-jurassic-island-the-dinosaur-zoo.json) |
 | Jurassic Knights: Tactics | 311898 | [311898-jurassic-knights-tactics.json](./311898-jurassic-knights-tactics.json) |
 | Jurassic Lab: Dinosarium DNA | 211780 | [211780-jurassic-lab-dinosarium-dna.json](./211780-jurassic-lab-dinosarium-dna.json) |
