@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh, My Orbs... | 356132 | [356132-oh-my-orbs.json](./356132-oh-my-orbs.json) |
 | Oh, My Word! | 58231 | [58231-oh-my-word.json](./58231-oh-my-word.json) |
 | Oh, My Word! 2 | 58229 | [58229-oh-my-word-2.json](./58229-oh-my-word-2.json) |
+| Oh, Terry! | 178818 | [178818-oh-terry.json](./178818-oh-terry.json) |
 | Oh, to Bee in Love | 178659 | [178659-oh-to-bee-in-love.json](./178659-oh-to-bee-in-love.json) |
 | Oh, You Touch My Balls | 377910 | [377910-oh-you-touch-my-balls.json](./377910-oh-you-touch-my-balls.json) |
 | Oh! Edo Towns | 65526 | [65526-oh-edo-towns.json](./65526-oh-edo-towns.json) |
@@ -1457,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Om Nom: Coloring, Toons & Puzzle - Sweet Coloring Pages | 199827 | [199827-om-nom-coloring-toons-and-puzzle-sweet-coloring-pages.json](./199827-om-nom-coloring-toons-and-puzzle-sweet-coloring-pages.json) |
 | Om Nom: Coloring, Toons & Puzzle - Tasty Toons | 199826 | [199826-om-nom-coloring-toons-and-puzzle-tasty-toons.json](./199826-om-nom-coloring-toons-and-puzzle-tasty-toons.json) |
 | Om Nom: Merge | 134290 | [134290-om-nom-merge.json](./134290-om-nom-merge.json) |
+| Om Nom: Run | 178794 | [178794-om-nom-run.json](./178794-om-nom-run.json) |
 | Om Nom: Run - Costumes and Themes | 251666 | [251666-om-nom-run-costumes-and-themes.json](./251666-om-nom-run-costumes-and-themes.json) |
 | Om Nom: Run - Ultimate Edition | 251667 | [251667-om-nom-run-ultimate-edition.json](./251667-om-nom-run-ultimate-edition.json) |
 | Om Nom: Run & Om Nom: Run 2 | 363971 | [363971-om-nom-run-and-om-nom-run-2.json](./363971-om-nom-run-and-om-nom-run-2.json) |
@@ -1846,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On-Court Tennis | 26244 | [26244-on-court-tennis.json](./26244-on-court-tennis.json) |
 | On-looker | 129203 | [129203-on-looker.json](./129203-on-looker.json) |
 | On-Together | 347835 | [347835-on-together.json](./347835-on-together.json) |
+| On.Off | 178822 | [178822-on-off.json](./178822-on-off.json) |
 | On/off | 217798 | [217798-on-off.json](./217798-on-off.json) |
 | Onaar | 59695 | [59695-onaar.json](./59695-onaar.json) |
 | Onager! | 59235 | [59235-onager.json](./59235-onager.json) |
@@ -2076,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Hand | 395982 | [395982-one-last-hand.json](./395982-one-last-hand.json) |
 | One Last Job | 330258 | [330258-one-last-job.json](./330258-one-last-job.json) |
 | One Last Journey | 350452 | [350452-one-last-journey.json](./350452-one-last-journey.json) |
+| One Last Memory | 178778 | [178778-one-last-memory.json](./178778-one-last-memory.json) |
 | One Last Memory: Reimagined | 196844 | [196844-one-last-memory-reimagined.json](./196844-one-last-memory-reimagined.json) |
 | One Last Planet | 177199 | [177199-one-last-planet.json](./177199-one-last-planet.json) |
 | One Last Raid | 307109 | [307109-one-last-raid.json](./307109-one-last-raid.json) |
