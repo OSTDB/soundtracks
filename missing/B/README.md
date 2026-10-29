@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7678,6 +7679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bite the Bullet | 108770 | [108770-bite-the-bullet.json](./108770-bite-the-bullet.json) |
 | Bite the Crown | 345666 | [345666-bite-the-crown.json](./345666-bite-the-crown.json) |
 | Bite-Sized Scares | 337583 | [337583-bite-sized-scares.json](./337583-bite-sized-scares.json) |
+| Bitejacker | 218853 | [218853-bitejacker.json](./218853-bitejacker.json) |
 | Biters | 231492 | [231492-biters.json](./231492-biters.json) |
 | Biters & Bullets | 203908 | [203908-biters-and-bullets.json](./203908-biters-and-bullets.json) |
 | Bitesize Heroes: Forest Defender | 294303 | [294303-bitesize-heroes-forest-defender.json](./294303-bitesize-heroes-forest-defender.json) |
