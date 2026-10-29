@@ -1823,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikusa Megami Verita | 208286 | [208286-ikusa-megami-verita.json](./208286-ikusa-megami-verita.json) |
 | Ikusa Miko: Vestal Virgin | 311342 | [311342-ikusa-miko-vestal-virgin.json](./311342-ikusa-miko-vestal-virgin.json) |
 | Ikusaaaaaaan! | 151697 | [151697-ikusaaaaaaan.json](./151697-ikusaaaaaaan.json) |
+| Ikuze! Onsen Takkyuu!! | 218271 | [218271-ikuze-onsen-takkyuu.json](./218271-ikuze-onsen-takkyuu.json) |
 | Ikuzo | 253923 | [253923-ikuzo.json](./253923-ikuzo.json) |
 | Il | 159732 | [159732-il.json](./159732-il.json) |
 | Il Destino R | 257278 | [257278-il-destino-r.json](./257278-il-destino-r.json) |
@@ -4020,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insomnis: Enhanced Edition | 198395 | [198395-insomnis-enhanced-edition.json](./198395-insomnis-enhanced-edition.json) |
 | InSomnus | 229265 | [229265-insomnus.json](./229265-insomnus.json) |
 | Inspace 2980 | 109645 | [109645-inspace-2980.json](./109645-inspace-2980.json) |
+| Inspecteur Gadget | 218244 | [218244-inspecteur-gadget.json](./218244-inspecteur-gadget.json) |
 | Inspection | 294188 | [294188-inspection.json](./294188-inspection.json) |
 | Inspection Report | 309923 | [309923-inspection-report.json](./309923-inspection-report.json) |
 | Inspector | 123958 | [123958-inspector.json](./123958-inspector.json) |
