@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palm Sugar: A Village Story | 287713 | [287713-palm-sugar-a-village-story.json](./287713-palm-sugar-a-village-story.json) |
 | Palm Tetris | 250599 | [250599-palm-tetris.json](./250599-palm-tetris.json) |
 | Palm Town | 273257 | [273257-palm-town.json](./273257-palm-town.json) |
+| Palmi: Retold Tale | 190344 | [190344-palmi-retold-tale.json](./190344-palmi-retold-tale.json) |
 | Palmon: Survival | 369018 | [369018-palmon-survival.json](./369018-palmon-survival.json) |
 | Palmora | 348679 | [348679-palmora.json](./348679-palmora.json) |
 | PalmRide: After Flight | 288754 | [288754-palmride-after-flight.json](./288754-palmride-after-flight.json) |
@@ -1092,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pang! 3 | 39510 | [39510-pang-3.json](./39510-pang-3.json) |
 | Pang.date | 205097 | [205097-pang-date.json](./205097-pang-date.json) |
 | Panga's Kaizo Kindergarten (For Dummies) | 145479 | [145479-pangas-kaizo-kindergarten-for-dummies.json](./145479-pangas-kaizo-kindergarten-for-dummies.json) |
+| Pangaroids | 190345 | [190345-pangaroids.json](./190345-pangaroids.json) |
 | Pangea 1/2 | 325660 | [325660-pangea-1-2.json](./325660-pangea-1-2.json) |
 | Pangea Arcade | 96286 | [96286-pangea-arcade.json](./96286-pangea-arcade.json) |
 | Pangemic | 30818 | [30818-pangemic.json](./30818-pangemic.json) |
@@ -13682,6 +13684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progear: Airplane Shooter | 231908 | [231908-progear-airplane-shooter.json](./231908-progear-airplane-shooter.json) |
 | Progenitor | 378978 | [378978-progenitor.json](./378978-progenitor.json) |
 | Progeny VR | 81101 | [81101-progeny-vr.json](./81101-progeny-vr.json) |
+| Progeria: Vae Victis | 190323 | [190323-progeria-vae-victis.json](./190323-progeria-vae-victis.json) |
 | Prognostic | 178287 | [178287-prognostic.json](./178287-prognostic.json) |
 | Program Pack 4 | 319591 | [319591-program-pack-4.json](./319591-program-pack-4.json) |
 | Program Penguin | 349405 | [349405-program-penguin.json](./349405-program-penguin.json) |
@@ -14249,6 +14252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project RPG | 33192 | [33192-project-rpg.json](./33192-project-rpg.json) |
 | Project RTD : Random Tower Defense | 128267 | [128267-project-rtd-random-tower-defense.json](./128267-project-rtd-random-tower-defense.json) |
 | Project RTD: Random Tower Defense VR | 132488 | [132488-project-rtd-random-tower-defense-vr.json](./132488-project-rtd-random-tower-defense-vr.json) |
+| Project Runner | 190316 | [190316-project-runner.json](./190316-project-runner.json) |
 | Project Runway | 25171 | [25171-project-runway.json](./25171-project-runway.json) |
 | Project RyMe | 271936 | [271936-project-ryme.json](./271936-project-ryme.json) |
 | Project S | 358891 | [358891-project-s.json](./358891-project-s.json) |
