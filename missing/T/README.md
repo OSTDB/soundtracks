@@ -8381,6 +8381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The first thrust of God | 81917 | [81917-the-first-thrust-of-god.json](./81917-the-first-thrust-of-god.json) |
 | The First Time I Died | 43071 | [43071-the-first-time-i-died.json](./43071-the-first-time-i-died.json) |
 | The first titans | 161398 | [161398-the-first-titans.json](./161398-the-first-titans.json) |
+| The Fish | 213777 | [213777-the-fish.json](./213777-the-fish.json) |
 | The Fish and the Furious | 132826 | [132826-the-fish-and-the-furious.json](./132826-the-fish-and-the-furious.json) |
 | The Fish Files | 50037 | [50037-the-fish-files.json](./50037-the-fish-files.json) |
 | The Fish Fillets 2 | 9841 | [9841-the-fish-fillets-2.json](./9841-the-fish-fillets-2.json) |
@@ -12773,6 +12774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oregon Trail | 11325 | [11325-the-oregon-trail.json](./11325-the-oregon-trail.json) |
 | The Oregon Trail | 191526 | [191526-the-oregon-trail.json](./191526-the-oregon-trail.json) |
 | The Oregon Trail | 193664 | [193664-the-oregon-trail.json](./193664-the-oregon-trail.json) |
+| The Oregon Trail | 213730 | [213730-the-oregon-trail.json](./213730-the-oregon-trail.json) |
 | The Oregon Trail | 256938 | [256938-the-oregon-trail.json](./256938-the-oregon-trail.json) |
 | The Oregon Trail Deluxe | 83359 | [83359-the-oregon-trail-deluxe.json](./83359-the-oregon-trail-deluxe.json) |
 | The Oregon Trail: 3rd Edition | 73240 | [73240-the-oregon-trail-3rd-edition.json](./73240-the-oregon-trail-3rd-edition.json) |
