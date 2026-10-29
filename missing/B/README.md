@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5159,7 +5160,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beep Boop | 319000 | [319000-beep-boop.json](./319000-beep-boop.json) |
 | Beep-Beeb | 15670 | [15670-beep-beeb.json](./15670-beep-beeb.json) |
 | Beepers: All Pro Basketball | 217726 | [217726-beepers-all-pro-basketball.json](./217726-beepers-all-pro-basketball.json) |
+| Beepers: Fearsome Fighters | 217665 | [217665-beepers-fearsome-fighters.json](./217665-beepers-fearsome-fighters.json) |
 | Beepers: MVP Baseball | 217738 | [217738-beepers-mvp-baseball.json](./217738-beepers-mvp-baseball.json) |
+| Beepers: Screaming Speedway | 217685 | [217685-beepers-screaming-speedway.json](./217685-beepers-screaming-speedway.json) |
 | Beepertron | 84239 | [84239-beepertron.json](./84239-beepertron.json) |
 | Beeps | 255511 | [255511-beeps.json](./255511-beeps.json) |
 | Beer & Plunder | 320868 | [320868-beer-and-plunder.json](./320868-beer-and-plunder.json) |
@@ -8398,6 +8401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Warrior | 14313 | [14313-blade-warrior.json](./14313-blade-warrior.json) |
 | Blade Warrior | 311029 | [311029-blade-warrior.json](./311029-blade-warrior.json) |
 | Blade X: End of Darkness | 381878 | [381878-blade-x-end-of-darkness.json](./381878-blade-x-end-of-darkness.json) |
+| Blade Yautja | 217709 | [217709-blade-yautja.json](./217709-blade-yautja.json) |
 | Blade-Shift Rage | 219209 | [219209-blade-shift-rage.json](./219209-blade-shift-rage.json) |
 | Blade: Trinity | 322358 | [322358-blade-trinity.json](./322358-blade-trinity.json) |
 | Blade.exe | 377036 | [377036-blade-exe.json](./377036-blade-exe.json) |
@@ -12266,6 +12270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling | 131535 | [131535-bowling.json](./131535-bowling.json) |
 | Bowling | 172404 | [172404-bowling.json](./172404-bowling.json) |
 | Bowling | 18005 | [18005-bowling.json](./18005-bowling.json) |
+| Bowling | 217663 | [217663-bowling.json](./217663-bowling.json) |
 | Bowling | 246283 | [246283-bowling.json](./246283-bowling.json) |
 | Bowling | 246995 | [246995-bowling.json](./246995-bowling.json) |
 | Bowling | 247004 | [247004-bowling.json](./247004-bowling.json) |
