@@ -13730,6 +13730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Lantern | 116413 | [116413-the-red-lantern.json](./116413-the-red-lantern.json) |
 | The Red Line | 269104 | [269104-the-red-line.json](./269104-the-red-line.json) |
 | The Red Moon | 105320 | [105320-the-red-moon.json](./105320-the-red-moon.json) |
+| The Red Mummy | 182071 | [182071-the-red-mummy.json](./182071-the-red-mummy.json) |
 | The Red Odyssey | 73864 | [73864-the-red-odyssey.json](./73864-the-red-odyssey.json) |
 | The Red One: Occultation | 408734 | [408734-the-red-one-occultation.json](./408734-the-red-one-occultation.json) |
 | The Red Pearls of Borneo | 387749 | [387749-the-red-pearls-of-borneo.json](./387749-the-red-pearls-of-borneo.json) |
