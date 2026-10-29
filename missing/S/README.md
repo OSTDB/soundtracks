@@ -20005,6 +20005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SportKill | 336970 | [336970-sportkill.json](./336970-sportkill.json) |
 | Sports | 180493 | [180493-sports.json](./180493-sports.json) |
 | Sports & Adventure Pinball | 173132 | [173132-sports-and-adventure-pinball.json](./173132-sports-and-adventure-pinball.json) |
+| Sports & Wild Pinball | 178797 | [178797-sports-and-wild-pinball.json](./178797-sports-and-wild-pinball.json) |
 | Sports 5 | 254951 | [254951-sports-5.json](./254951-sports-5.json) |
 | Sports Action Pak | 56456 | [56456-sports-action-pak.json](./56456-sports-action-pak.json) |
 | Sports Babes | 382284 | [382284-sports-babes.json](./382284-sports-babes.json) |
@@ -30748,6 +30749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarm Horror | 235416 | [235416-swarm-horror.json](./235416-swarm-horror.json) |
 | Swarm Hunter | 345557 | [345557-swarm-hunter.json](./345557-swarm-hunter.json) |
 | Swarm Me | 374722 | [374722-swarm-me.json](./374722-swarm-me.json) |
+| Swarm of the Plague Babies | 178789 | [178789-swarm-of-the-plague-babies.json](./178789-swarm-of-the-plague-babies.json) |
 | Swarm Queen | 68837 | [68837-swarm-queen.json](./68837-swarm-queen.json) |
 | Swarm Racer 3000 | 330077 | [330077-swarm-racer-3000.json](./330077-swarm-racer-3000.json) |
 | Swarm Simulator: Evolution | 96588 | [96588-swarm-simulator-evolution.json](./96588-swarm-simulator-evolution.json) |
