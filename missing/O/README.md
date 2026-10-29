@@ -5079,6 +5079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverPowered | 146257 | [146257-overpowered.json](./146257-overpowered.json) |
 | Overpowered 1: Mars Infestation | 353973 | [353973-overpowered-1-mars-infestation.json](./353973-overpowered-1-mars-infestation.json) |
 | Overpowered 2: Crux of Fate | 393627 | [393627-overpowered-2-crux-of-fate.json](./393627-overpowered-2-crux-of-fate.json) |
+| OverQuartz | 188246 | [188246-overquartz.json](./188246-overquartz.json) |
 | OverRapid | 75133 | [75133-overrapid.json](./75133-overrapid.json) |
 | Override | 210538 | [210538-override.json](./210538-override.json) |
 | Override 2: Super Mech League | 137296 | [137296-override-2-super-mech-league.json](./137296-override-2-super-mech-league.json) |
