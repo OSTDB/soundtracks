@@ -2648,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Active Neurons | 123871 | [123871-active-neurons.json](./123871-active-neurons.json) |
 | Active Neurons 2 | 133167 | [133167-active-neurons-2.json](./133167-active-neurons-2.json) |
 | Active Neurons 3: Wonders of the World | 143595 | [143595-active-neurons-3-wonders-of-the-world.json](./143595-active-neurons-3-wonders-of-the-world.json) |
+| Active Ragdoll | 177676 | [177676-active-ragdoll.json](./177676-active-ragdoll.json) |
 | Active Soccer 2 | 197234 | [197234-active-soccer-2.json](./197234-active-soccer-2.json) |
 | Active Soccer 2019 | 117537 | [117537-active-soccer-2019.json](./117537-active-soccer-2019.json) |
 | Active Worlds | 66993 | [66993-active-worlds.json](./66993-active-worlds.json) |
@@ -2911,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrift in Turbulent Waters | 201650 | [201650-adrift-in-turbulent-waters.json](./201650-adrift-in-turbulent-waters.json) |
 | Adrift Program | 269048 | [269048-adrift-program.json](./269048-adrift-program.json) |
 | ADRPAN | 143414 | [143414-adrpan.json](./143414-adrpan.json) |
+| Adrullan Online Adventures | 177709 | [177709-adrullan-online-adventures.json](./177709-adrullan-online-adventures.json) |
 | ADS: Advanced Destroyer Simulator | 11887 | [11887-ads-advanced-destroyer-simulator.json](./11887-ads-advanced-destroyer-simulator.json) |
 | Adspectabilis | 332797 | [332797-adspectabilis.json](./332797-adspectabilis.json) |
 | ADsteroids | 108984 | [108984-adsteroids.json](./108984-adsteroids.json) |
@@ -3794,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After School Grounds | 379498 | [379498-after-school-grounds.json](./379498-after-school-grounds.json) |
 | After School Murder Club!! | 150251 | [150251-after-school-murder-club.json](./150251-after-school-murder-club.json) |
 | After School Romance | 299497 | [299497-after-school-romance.json](./299497-after-school-romance.json) |
+| After School: A Vocaloid RPG | 178202 | [178202-after-school-a-vocaloid-rpg.json](./178202-after-school-a-vocaloid-rpg.json) |
 | After School: Full Horror Game | 233469 | [233469-after-school-full-horror-game.json](./233469-after-school-full-horror-game.json) |
 | After Solitary | 223864 | [223864-after-solitary.json](./223864-after-solitary.json) |
 | After Story: Witch Dragon | 309552 | [309552-after-story-witch-dragon.json](./309552-after-story-witch-dragon.json) |
@@ -5078,6 +5081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aisai Nikki | 82968 | [82968-aisai-nikki.json](./82968-aisai-nikki.json) |
 | Aisera's Ladder | 328197 | [328197-aiseras-ladder.json](./328197-aiseras-ladder.json) |
 | Aishi & Reimu | 369468 | [369468-aishi-and-reimu.json](./369468-aishi-and-reimu.json) |
+| Aishiau Koto Shika Dekinai | 178239 | [178239-aishiau-koto-shika-dekinai.json](./178239-aishiau-koto-shika-dekinai.json) |
 | Aisle | 130832 | [130832-aisle.json](./130832-aisle.json) |
 | Aisle Lord | 46395 | [46395-aisle-lord.json](./46395-aisle-lord.json) |
 | Aisle Survive | 410432 | [410432-aisle-survive.json](./410432-aisle-survive.json) |
@@ -6490,6 +6494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Tennis 2000 | 249157 | [249157-all-star-tennis-2000.json](./249157-all-star-tennis-2000.json) |
 | All Star Tennis 2000 | 49880 | [49880-all-star-tennis-2000.json](./49880-all-star-tennis-2000.json) |
 | All Stars Racing Jumper | 252934 | [252934-all-stars-racing-jumper.json](./252934-all-stars-racing-jumper.json) |
+| All strings attached | 177677 | [177677-all-strings-attached.json](./177677-all-strings-attached.json) |
 | All Systems Operational | 121541 | [121541-all-systems-operational.json](./121541-all-systems-operational.json) |
 | All that Glitters | 336600 | [336600-all-that-glitters.json](./336600-all-that-glitters.json) |
 | All That is Left | 384108 | [384108-all-that-is-left.json](./384108-all-that-is-left.json) |
@@ -7069,6 +7074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always 1-1 | 290688 | [290688-always-1-1.json](./290688-always-1-1.json) |
 | Always a New Journey | 161185 | [161185-always-a-new-journey.json](./161185-always-a-new-journey.json) |
 | Always Forward | 297062 | [297062-always-forward.json](./297062-always-forward.json) |
+| Always Green | 177721 | [177721-always-green.json](./177721-always-green.json) |
 | Always Higher | 32196 | [32196-always-higher.json](./32196-always-higher.json) |
 | Always in Mind | 275550 | [275550-always-in-mind.json](./275550-always-in-mind.json) |
 | Always Remember Me | 36356 | [36356-always-remember-me.json](./36356-always-remember-me.json) |
@@ -8241,6 +8247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AncientsReborn | 233439 | [233439-ancientsreborn.json](./233439-ancientsreborn.json) |
 | Ancings: The First Tournament | 283902 | [283902-ancings-the-first-tournament.json](./283902-ancings-the-first-tournament.json) |
 | Ancipital | 13801 | [13801-ancipital.json](./13801-ancipital.json) |
+| Ancra | 178235 | [178235-ancra.json](./178235-ancra.json) |
 | And All Is Well | 184727 | [184727-and-all-is-well.json](./184727-and-all-is-well.json) |
 | And All That Could Have Been | 271055 | [271055-and-all-that-could-have-been.json](./271055-and-all-that-could-have-been.json) |
 | And All Would Cry Beware! | 117627 | [117627-and-all-would-cry-beware.json](./117627-and-all-would-cry-beware.json) |
@@ -13739,6 +13746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterism | 245712 | [245712-asterism.json](./245712-asterism.json) |
 | Asterism Basketball | 147071 | [147071-asterism-basketball.json](./147071-asterism-basketball.json) |
 | Asterism: Apex of War | 190088 | [190088-asterism-apex-of-war.json](./190088-asterism-apex-of-war.json) |
+| Asterism: Time & Space | 177714 | [177714-asterism-time-and-space.json](./177714-asterism-time-and-space.json) |
 | Asterius | 181723 | [181723-asterius.json](./181723-asterius.json) |
 | Asterix | 12242 | [12242-asterix.json](./12242-asterix.json) |
 | Asterix | 128475 | [128475-asterix.json](./128475-asterix.json) |
