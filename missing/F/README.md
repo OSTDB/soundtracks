@@ -2354,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer Survivors | 270516 | [270516-farmer-survivors.json](./270516-farmer-survivors.json) |
 | Farmer Time: A Magical Farming Adventure | 164939 | [164939-farmer-time-a-magical-farming-adventure.json](./164939-farmer-time-a-magical-farming-adventure.json) |
 | Farmer Toon | 197005 | [197005-farmer-toon.json](./197005-farmer-toon.json) |
+| Farmer's Defence | 193081 | [193081-farmers-defence.json](./193081-farmers-defence.json) |
 | Farmer's Delight | 232679 | [232679-farmers-delight.json](./232679-farmers-delight.json) |
 | Farmer's Diary | 285575 | [285575-farmers-diary.json](./285575-farmers-diary.json) |
 | Farmer's Dynasty | 75102 | [75102-farmers-dynasty.json](./75102-farmers-dynasty.json) |
@@ -3669,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fi, Chris and the Apocalypse | 199821 | [199821-fi-chris-and-the-apocalypse.json](./199821-fi-chris-and-the-apocalypse.json) |
 | FIA European Truck Racing Championship | 117855 | [117855-fia-european-truck-racing-championship.json](./117855-fia-european-truck-racing-championship.json) |
 | Fianna | 410425 | [410425-fianna.json](./410425-fianna.json) |
+| Fiasco Restoration and Repair | 193096 | [193096-fiasco-restoration-and-repair.json](./193096-fiasco-restoration-and-repair.json) |
 | Fibbage XL | 33374 | [33374-fibbage-xl.json](./33374-fibbage-xl.json) |
 | Fibber Kit | 122833 | [122833-fibber-kit.json](./122833-fibber-kit.json) |
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
@@ -4889,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Key | 224532 | [224532-find-the-key.json](./224532-find-the-key.json) |
 | Find the light | 216473 | [216473-find-the-light.json](./216473-find-the-light.json) |
 | Find the Lost Lights | 310155 | [310155-find-the-lost-lights.json](./310155-find-the-lost-lights.json) |
+| Find the Murderer | 193058 | [193058-find-the-murderer.json](./193058-find-the-murderer.json) |
 | Find the Murderer 2 | 192454 | [192454-find-the-murderer-2.json](./192454-find-the-murderer-2.json) |
 | Find the Murderer 3 | 236364 | [236364-find-the-murderer-3.json](./236364-find-the-murderer-3.json) |
 | Find The Needle | 415859 | [415859-find-the-needle.json](./415859-find-the-needle.json) |
@@ -5080,6 +5083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finkles World | 66947 | [66947-finkles-world.json](./66947-finkles-world.json) |
 | Finland Corruption Simulator | 245771 | [245771-finland-corruption-simulator.json](./245771-finland-corruption-simulator.json) |
 | Finland Corruption Simulator: World Corruption | 294073 | [294073-finland-corruption-simulator-world-corruption.json](./294073-finland-corruption-simulator-world-corruption.json) |
+| Finley's: The Colour of Radiation | 193100 | [193100-finleys-the-colour-of-radiation.json](./193100-finleys-the-colour-of-radiation.json) |
 | Finn and Jake's Epic Quest | 356231 | [356231-finn-and-jakes-epic-quest.json](./356231-finn-and-jakes-epic-quest.json) |
 | Finn Dorset's Institute For Livestock Replication | 321144 | [321144-finn-dorsets-institute-for-livestock-replication.json](./321144-finn-dorsets-institute-for-livestock-replication.json) |
 | Finn JRPG | 304842 | [304842-finn-jrpg.json](./304842-finn-jrpg.json) |
@@ -5477,6 +5481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireplace Simulator | 337615 | [337615-fireplace-simulator.json](./337615-fireplace-simulator.json) |
 | Firepower 2000 | 19778 | [19778-firepower-2000.json](./19778-firepower-2000.json) |
 | Firepower Forge | 275546 | [275546-firepower-forge.json](./275546-firepower-forge.json) |
+| FirePuzzle | 193066 | [193066-firepuzzle.json](./193066-firepuzzle.json) |
 | FireRun | 255250 | [255250-firerun.json](./255250-firerun.json) |
 | Fires At Midnight | 133350 | [133350-fires-at-midnight.json](./133350-fires-at-midnight.json) |
 | Firescape | 342731 | [342731-firescape.json](./342731-firescape.json) |
@@ -11709,6 +11714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun House | 200396 | [200396-fun-house.json](./200396-fun-house.json) |
 | Fun Infused Arcade | 260178 | [260178-fun-infused-arcade.json](./260178-fun-infused-arcade.json) |
 | Fun Kid Racing Magic Forest | 175720 | [175720-fun-kid-racing-magic-forest.json](./175720-fun-kid-racing-magic-forest.json) |
+| Fun Machine | 193094 | [193094-fun-machine.json](./193094-fun-machine.json) |
 | Fun Match | 328658 | [328658-fun-match.json](./328658-fun-match.json) |
 | Fun on the Farm with Barney | 71608 | [71608-fun-on-the-farm-with-barney.json](./71608-fun-on-the-farm-with-barney.json) |
 | Fun Pack | 319790 | [319790-fun-pack.json](./319790-fun-pack.json) |
