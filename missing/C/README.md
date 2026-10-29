@@ -11367,6 +11367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 3: Fire & Steel | 333222 | [333222-company-of-heroes-3-fire-and-steel.json](./333222-company-of-heroes-3-fire-and-steel.json) |
 | Company of Heroes 3: Hammer & Shield | 277019 | [277019-company-of-heroes-3-hammer-and-shield.json](./277019-company-of-heroes-3-hammer-and-shield.json) |
 | Company of Heroes 3: Hammer & Shield Battlegroup Pack | 400401 | [400401-company-of-heroes-3-hammer-and-shield-battlegroup-pack.json](./400401-company-of-heroes-3-hammer-and-shield-battlegroup-pack.json) |
+| Company of Heroes 3: Launch Edition | 209837 | [209837-company-of-heroes-3-launch-edition.json](./209837-company-of-heroes-3-launch-edition.json) |
 | Company of Heroes 3: Premium Edition | 210916 | [210916-company-of-heroes-3-premium-edition.json](./210916-company-of-heroes-3-premium-edition.json) |
 | Company of Heroes Collection | 202052 | [202052-company-of-heroes-collection.json](./202052-company-of-heroes-collection.json) |
 | Company of Heroes Online | 77294 | [77294-company-of-heroes-online.json](./77294-company-of-heroes-online.json) |
