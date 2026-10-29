@@ -4251,6 +4251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petal Crash | 139293 | [139293-petal-crash.json](./139293-petal-crash.json) |
 | Petal Crash 2 | 329600 | [329600-petal-crash-2.json](./329600-petal-crash-2.json) |
 | Petal Crash Online | 149973 | [149973-petal-crash-online.json](./149973-petal-crash-online.json) |
+| Petals | 222614 | [222614-petals.json](./222614-petals.json) |
 | Petals of Doom | 133682 | [133682-petals-of-doom.json](./133682-petals-of-doom.json) |
 | Petals of the Star Curtain | 153331 | [153331-petals-of-the-star-curtain.json](./153331-petals-of-the-star-curtain.json) |
 | Petals to Petals | 364384 | [364384-petals-to-petals.json](./364384-petals-to-petals.json) |
@@ -5363,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross.io | 126640 | [126640-picross-io.json](./126640-picross-io.json) |
 | Pics Towers of Defense | 110275 | [110275-pics-towers-of-defense.json](./110275-pics-towers-of-defense.json) |
 | Picscape | 339347 | [339347-picscape.json](./339347-picscape.json) |
+| Picta Mori | 222660 | [222660-picta-mori.json](./222660-picta-mori.json) |
 | Pictables | 232114 | [232114-pictables.json](./232114-pictables.json) |
 | Pictassembler | 127178 | [127178-pictassembler.json](./127178-pictassembler.json) |
 | Pictective | 373272 | [373272-pictective.json](./373272-pictective.json) |
@@ -9618,6 +9620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Channel-e: Line Art Card - The Kyogre Constellation | 354534 | [354534-pokemon-channel-e-line-art-card-the-kyogre-constellation.json](./354534-pokemon-channel-e-line-art-card-the-kyogre-constellation.json) |
 | Pokémon Channel-e: Line Art Card - The Pikachu Star | 354532 | [354532-pokemon-channel-e-line-art-card-the-pikachu-star.json](./354532-pokemon-channel-e-line-art-card-the-pikachu-star.json) |
 | Pokémon Channel-e: Paint Pattern Card - Poké A La Card | 351674 | [351674-pokemon-channel-e-paint-pattern-card-poke-a-la-card.json](./351674-pokemon-channel-e-paint-pattern-card-poke-a-la-card.json) |
+| Pokémon Chaos Black | 222610 | [222610-pokemon-chaos-black.json](./222610-pokemon-chaos-black.json) |
 | Pokémon Chasm Crosser | 55011 | [55011-pokemon-chasm-crosser.json](./55011-pokemon-chasm-crosser.json) |
 | Pokémon Chess | 249112 | [249112-pokemon-chess.json](./249112-pokemon-chess.json) |
 | Pokemon Classic | 409748 | [409748-pokemon-classic.json](./409748-pokemon-classic.json) |
