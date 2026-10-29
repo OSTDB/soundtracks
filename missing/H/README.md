@@ -6741,6 +6741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Pursuit | 231318 | [231318-highway-pursuit.json](./231318-highway-pursuit.json) |
 | Highway Racer | 300727 | [300727-highway-racer.json](./300727-highway-racer.json) |
 | Highway Racer 2 | 393547 | [393547-highway-racer-2.json](./393547-highway-racer-2.json) |
+| Highway Racer Car Racing Games | 228144 | [228144-highway-racer-car-racing-games.json](./228144-highway-racer-car-racing-games.json) |
 | Highway Racer HD | 237382 | [237382-highway-racer-hd.json](./237382-highway-racer-hd.json) |
 | Highway Racer: Out of Control | 241212 | [241212-highway-racer-out-of-control.json](./241212-highway-racer-out-of-control.json) |
 | Highway Racing | 247040 | [247040-highway-racing.json](./247040-highway-racing.json) |
