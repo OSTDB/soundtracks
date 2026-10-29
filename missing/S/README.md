@@ -20479,6 +20479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacked with Daniel Negreanu | 6157 | [6157-stacked-with-daniel-negreanu.json](./6157-stacked-with-daniel-negreanu.json) |
 | Stacked! | 374938 | [374938-stacked.json](./374938-stacked.json) |
 | Stackems | 112501 | [112501-stackems.json](./112501-stackems.json) |
+| Stacker | 228667 | [228667-stacker.json](./228667-stacker.json) |
 | Stacker | 75715 | [75715-stacker.json](./75715-stacker.json) |
 | Stackflow | 361687 | [361687-stackflow.json](./361687-stackflow.json) |
 | StackFortress | 88012 | [88012-stackfortress.json](./88012-stackfortress.json) |
@@ -27391,6 +27392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lemonade Factory 1989 | 61010 | [61010-super-lemonade-factory-1989.json](./61010-super-lemonade-factory-1989.json) |
 | Super Lemonade Factory Part Two | 61011 | [61011-super-lemonade-factory-part-two.json](./61011-super-lemonade-factory-part-two.json) |
 | Super Lesbian Animal RPG | 138659 | [138659-super-lesbian-animal-rpg.json](./138659-super-lesbian-animal-rpg.json) |
+| Super Lesbian Horse RPG | 228658 | [228658-super-lesbian-horse-rpg.json](./228658-super-lesbian-horse-rpg.json) |
 | Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
 | Super Liftpia | 279531 | [279531-super-liftpia.json](./279531-super-liftpia.json) |
 | Super Lion King | 203656 | [203656-super-lion-king.json](./203656-super-lion-king.json) |
@@ -27436,6 +27438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Magbot | 132921 | [132921-super-magbot.json](./132921-super-magbot.json) |
 | Super Magbot: Digital Deluxe Edition | 242608 | [242608-super-magbot-digital-deluxe-edition.json](./242608-super-magbot-digital-deluxe-edition.json) |
 | Super Magic Chess | 331134 | [331134-super-magic-chess.json](./331134-super-magic-chess.json) |
+| Super Magic Elemage | 228675 | [228675-super-magic-elemage.json](./228675-super-magic-elemage.json) |
 | Super Magnetic Neo | 45863 | [45863-super-magnetic-neo.json](./45863-super-magnetic-neo.json) |
 | Super Magro World | 152315 | [152315-super-magro-world.json](./152315-super-magro-world.json) |
 | Super Magus Parvomagnus | 368611 | [368611-super-magus-parvomagnus.json](./368611-super-magus-parvomagnus.json) |
@@ -29112,6 +29115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperBoys: The Big Fight | 58851 | [58851-superboys-the-big-fight.json](./58851-superboys-the-big-fight.json) |
 | Superbrothers: Sword & Sworcery EP | 2991 | [2991-superbrothers-sword-and-sworcery-ep.json](./2991-superbrothers-sword-and-sworcery-ep.json) |
 | Superbug | 381582 | [381582-superbug.json](./381582-superbug.json) |
+| Supercan | 228668 | [228668-supercan.json](./228668-supercan.json) |
 | Supercan 2 | 299095 | [299095-supercan-2.json](./299095-supercan-2.json) |
 | Supercar Collection Simulator | 329962 | [329962-supercar-collection-simulator.json](./329962-supercar-collection-simulator.json) |
 | Supercar Collection Together | 420753 | [420753-supercar-collection-together.json](./420753-supercar-collection-together.json) |
