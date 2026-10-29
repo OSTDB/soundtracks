@@ -7979,6 +7979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Story: Time Stranger - Episode Pack 1: Alternate Dimension | 377240 | [377240-digimon-story-time-stranger-episode-pack-1-alternate-dimension.json](./377240-digimon-story-time-stranger-episode-pack-1-alternate-dimension.json) |
 | Digimon Story: Time Stranger - Season Pass | 377242 | [377242-digimon-story-time-stranger-season-pass.json](./377242-digimon-story-time-stranger-season-pass.json) |
 | Digimon Super Rumble | 202964 | [202964-digimon-super-rumble.json](./202964-digimon-super-rumble.json) |
+| Digimon Survive: Month 1 Edition | 209838 | [209838-digimon-survive-month-1-edition.json](./209838-digimon-survive-month-1-edition.json) |
 | Digimon T.K. and Patamon | 203237 | [203237-digimon-t-k-and-patamon.json](./203237-digimon-t-k-and-patamon.json) |
 | Digimon Tamer Frontier | 56444 | [56444-digimon-tamer-frontier.json](./56444-digimon-tamer-frontier.json) |
 | Digimon Tamers: Battle Spirit | 37697 | [37697-digimon-tamers-battle-spirit.json](./37697-digimon-tamers-battle-spirit.json) |
