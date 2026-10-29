@@ -3644,6 +3644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmatis: The Ghosts of Maple Creek | 17137 | [17137-enigmatis-the-ghosts-of-maple-creek.json](./17137-enigmatis-the-ghosts-of-maple-creek.json) |
 | Enigmes & Objets Cachés : Le destin de Marie-Antoinette | 46459 | [46459-enigmes-and-objets-caches-le-destin-de-marie-antoinette.json](./46459-enigmes-and-objets-caches-le-destin-de-marie-antoinette.json) |
 | Enigmi.net | 327205 | [327205-enigmi-net.json](./327205-enigmi-net.json) |
+| Enigmite's Prophecy | 194126 | [194126-enigmites-prophecy.json](./194126-enigmites-prophecy.json) |
 | Enigmo 2 | 66614 | [66614-enigmo-2.json](./66614-enigmo-2.json) |
 | EnigmOn | 174328 | [174328-enigmon.json](./174328-enigmon.json) |
 | Enigmoon | 261257 | [261257-enigmoon.json](./261257-enigmoon.json) |
