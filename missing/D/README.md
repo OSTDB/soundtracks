@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Arena | 294945 | [294945-dangerous-arena.json](./294945-dangerous-arena.json) |
 | Dangerous Blaster | 126617 | [126617-dangerous-blaster.json](./126617-dangerous-blaster.json) |
 | Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
+| Dangerous Community | 217154 | [217154-dangerous-community.json](./217154-dangerous-community.json) |
 | Dangerous Connections | 303452 | [303452-dangerous-connections.json](./303452-dangerous-connections.json) |
 | Dangerous Curves | 330573 | [330573-dangerous-curves.json](./330573-dangerous-curves.json) |
 | Dangerous Dave Champion's Edition | 242917 | [242917-dangerous-dave-champions-edition.json](./242917-dangerous-dave-champions-edition.json) |
@@ -4502,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep | 372091 | [372091-deep.json](./372091-deep.json) |
 | Deep | 380247 | [380247-deep.json](./380247-deep.json) |
 | Deep 3D: Submarine Odyssey | 338047 | [338047-deep-3d-submarine-odyssey.json](./338047-deep-3d-submarine-odyssey.json) |
+| Deep Abyss | 217111 | [217111-deep-abyss.json](./217111-deep-abyss.json) |
 | Deep Abyss 3D | 260872 | [260872-deep-abyss-3d.json](./260872-deep-abyss-3d.json) |
 | Deep Alchemy Dungeon | 207500 | [207500-deep-alchemy-dungeon.json](./207500-deep-alchemy-dungeon.json) |
 | Deep Among the Swarm | 285013 | [285013-deep-among-the-swarm.json](./285013-deep-among-the-swarm.json) |
@@ -8999,6 +9001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dislyte | 172684 | [172684-dislyte.json](./172684-dislyte.json) |
 | Dismal Anhedonia Land | 179654 | [179654-dismal-anhedonia-land.json](./179654-dismal-anhedonia-land.json) |
 | Dismal Passages | 229221 | [229221-dismal-passages.json](./229221-dismal-passages.json) |
+| Dismal Reverie | 217124 | [217124-dismal-reverie.json](./217124-dismal-reverie.json) |
 | Dismal Signal | 271320 | [271320-dismal-signal.json](./271320-dismal-signal.json) |
 | Dismantle: Construct Carnage | 114882 | [114882-dismantle-construct-carnage.json](./114882-dismantle-construct-carnage.json) |
 | Dismantled 2 | 218685 | [218685-dismantled-2.json](./218685-dismantled-2.json) |
@@ -14892,6 +14895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drown in Yesterday's Sea | 411780 | [411780-drown-in-yesterdays-sea.json](./411780-drown-in-yesterdays-sea.json) |
 | Drown Rabbit | 397937 | [397937-drown-rabbit.json](./397937-drown-rabbit.json) |
 | Drown the Bride | 318691 | [318691-drown-the-bride.json](./318691-drown-the-bride.json) |
+| Drowned | 217138 | [217138-drowned.json](./217138-drowned.json) |
 | Drowned Caves | 402501 | [402501-drowned-caves.json](./402501-drowned-caves.json) |
 | Drowned Gems | 148282 | [148282-drowned-gems.json](./148282-drowned-gems.json) |
 | Drowned God: Conspiracy of the Ages | 12421 | [12421-drowned-god-conspiracy-of-the-ages.json](./12421-drowned-god-conspiracy-of-the-ages.json) |
