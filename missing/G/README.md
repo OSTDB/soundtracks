@@ -6536,6 +6536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoVenture Typing | 117708 | [117708-goventure-typing.json](./117708-goventure-typing.json) |
 | Government Contractors: Arms of Influence | 327249 | [327249-government-contractors-arms-of-influence.json](./327249-government-contractors-arms-of-influence.json) |
 | Government Simulator | 74673 | [74673-government-simulator.json](./74673-government-simulator.json) |
+| Government Simulator 2 | 219407 | [219407-government-simulator-2.json](./219407-government-simulator-2.json) |
 | Government X | 244481 | [244481-government-x.json](./244481-government-x.json) |
 | Governor of Poker 3 | 33663 | [33663-governor-of-poker-3.json](./33663-governor-of-poker-3.json) |
 | Governor of the West | 292632 | [292632-governor-of-the-west.json](./292632-governor-of-the-west.json) |
