@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Web 2 | 54309 | [54309-rainbow-web-2.json](./54309-rainbow-web-2.json) |
 | Rainbow Web 3 | 108642 | [108642-rainbow-web-3.json](./108642-rainbow-web-3.json) |
 | Rainbow Witch | 250263 | [250263-rainbow-witch.json](./250263-rainbow-witch.json) |
+| Rainbow Yggdrasil | 188255 | [188255-rainbow-yggdrasil.json](./188255-rainbow-yggdrasil.json) |
 | Rainbows, Toilets & Unicorns | 131975 | [131975-rainbows-toilets-and-unicorns.json](./131975-rainbows-toilets-and-unicorns.json) |
 | Rainbows, Toilets & Unicorns: Entertainment Corp. | 171607 | [171607-rainbows-toilets-and-unicorns-entertainment-corp.json](./171607-rainbows-toilets-and-unicorns-entertainment-corp.json) |
 | Rainbows, Toilets & Unicorns: Influencerama | 171407 | [171407-rainbows-toilets-and-unicorns-influencerama.json](./171407-rainbows-toilets-and-unicorns-influencerama.json) |
@@ -7014,6 +7015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise Up - Dark Night Mode | 100700 | [100700-rise-up-dark-night-mode.json](./100700-rise-up-dark-night-mode.json) |
 | Rise up - Keeper challenge | 96743 | [96743-rise-up-keeper-challenge.json](./96743-rise-up-keeper-challenge.json) |
 | Rise: Race the Future | 27378 | [27378-rise-race-the-future.json](./27378-rise-race-the-future.json) |
+| Rise: Shooter Arena | 188248 | [188248-rise-shooter-arena.json](./188248-rise-shooter-arena.json) |
 | Rise: The Vieneo Province | 113354 | [113354-rise-the-vieneo-province.json](./113354-rise-the-vieneo-province.json) |
 | RiseExplosion | 302433 | [302433-riseexplosion.json](./302433-riseexplosion.json) |
 | Risen | 226682 | [226682-risen.json](./226682-risen.json) |
