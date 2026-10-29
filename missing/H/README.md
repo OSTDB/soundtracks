@@ -1758,6 +1758,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardwood Hearts | 20507 | [20507-hardwood-hearts.json](./20507-hardwood-hearts.json) |
 | Hardwood Rivals | 246260 | [246260-hardwood-rivals.json](./246260-hardwood-rivals.json) |
 | Hardwork Simulator | 238879 | [238879-hardwork-simulator.json](./238879-hardwork-simulator.json) |
+| HardWorker Simulator | 187663 | [187663-hardworker-simulator.json](./187663-hardworker-simulator.json) |
+| Hardworking Hero | 187698 | [187698-hardworking-hero.json](./187698-hardworking-hero.json) |
 | Hardy Boyz Stunt Challenge | 261205 | [261205-hardy-boyz-stunt-challenge.json](./261205-hardy-boyz-stunt-challenge.json) |
 | Hare | 83584 | [83584-hare.json](./83584-hare.json) |
 | Hare 136 | 340414 | [340414-hare-136.json](./340414-hare-136.json) |
@@ -9852,6 +9854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hovershift | 336916 | [336916-hovershift.json](./336916-hovershift.json) |
 | Hoversteppers | 262106 | [262106-hoversteppers.json](./262106-hoversteppers.json) |
 | Hoversteppers: Zone 1 | 287246 | [287246-hoversteppers-zone-1.json](./287246-hoversteppers-zone-1.json) |
+| Hoversurf in the Mess | 187696 | [187696-hoversurf-in-the-mess.json](./187696-hoversurf-in-the-mess.json) |
 | Hovertank | 95479 | [95479-hovertank.json](./95479-hovertank.json) |
 | Hovertank 3D | 18994 | [18994-hovertank-3d.json](./18994-hovertank-3d.json) |
 | Hovertron | 387349 | [387349-hovertron.json](./387349-hovertron.json) |
