@@ -2448,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hauntify Mixed Reality | 406176 | [406176-hauntify-mixed-reality.json](./406176-hauntify-mixed-reality.json) |
 | Hauntii | 217008 | [217008-hauntii.json](./217008-hauntii.json) |
 | Haunting At Cliffhouse | 158552 | [158552-haunting-at-cliffhouse.json](./158552-haunting-at-cliffhouse.json) |
+| Haunting Films: Kaiki Film | 206409 | [206409-haunting-films-kaiki-film.json](./206409-haunting-films-kaiki-film.json) |
 | Haunting Hijinx | 340420 | [340420-haunting-hijinx.json](./340420-haunting-hijinx.json) |
 | Haunting Hollow | 269758 | [269758-haunting-hollow.json](./269758-haunting-hollow.json) |
 | Haunting Hour | 113509 | [113509-haunting-hour.json](./113509-haunting-hour.json) |
@@ -2659,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | He Beat Her. | 74772 | [74772-he-beat-her.json](./74772-he-beat-her.json) |
 | He Escaped | 270105 | [270105-he-escaped.json](./270105-he-escaped.json) |
 | He Followed Me | 399004 | [399004-he-followed-me.json](./399004-he-followed-me.json) |
+| He Fucked the Girl Out of Me | 206498 | [206498-he-fucked-the-girl-out-of-me.json](./206498-he-fucked-the-girl-out-of-me.json) |
 | He is Coming | 312870 | [312870-he-is-coming.json](./312870-he-is-coming.json) |
 | He Plays the Piano | 135034 | [135034-he-plays-the-piano.json](./135034-he-plays-the-piano.json) |
 | He Sneaks | 301433 | [301433-he-sneaks.json](./301433-he-sneaks.json) |
@@ -9261,6 +9263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shot Challenge - Online | 103627 | [103627-hot-shot-challenge-online.json](./103627-hot-shot-challenge-online.json) |
 | Hot Shot Monkey | 349931 | [349931-hot-shot-monkey.json](./349931-hot-shot-monkey.json) |
 | Hot Shots | 339320 | [339320-hot-shots.json](./339320-hot-shots.json) |
+| Hot Shots Golf | 206487 | [206487-hot-shots-golf.json](./206487-hot-shots-golf.json) |
 | Hot Shots Golf | 36665 | [36665-hot-shots-golf.json](./36665-hot-shots-golf.json) |
 | Hot Shots Golf 2 | 232407 | [232407-hot-shots-golf-2.json](./232407-hot-shots-golf-2.json) |
 | Hot Shots Golf 2 | 36558 | [36558-hot-shots-golf-2.json](./36558-hot-shots-golf-2.json) |
