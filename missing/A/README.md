@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game of Thrones: The Board Game - Digital Edition | 139376 | [139376-a-game-of-thrones-the-board-game-digital-edition.json](./139376-a-game-of-thrones-the-board-game-digital-edition.json) |
 | A Game of Turnabouts | 308544 | [308544-a-game-of-turnabouts.json](./308544-a-game-of-turnabouts.json) |
 | A Game That Rhymes With Grug | 351703 | [351703-a-game-that-rhymes-with-grug.json](./351703-a-game-that-rhymes-with-grug.json) |
+| A Game That Saves the Muscles Caught in the Ceiling of the Gymnasium | 207065 | [207065-a-game-that-saves-the-muscles-caught-in-the-ceiling-of-the-gymnasium.json](./207065-a-game-that-saves-the-muscles-caught-in-the-ceiling-of-the-gymnasium.json) |
 | A Game With a Kitty | 74789 | [74789-a-game-with-a-kitty.json](./74789-a-game-with-a-kitty.json) |
 | A Game with a Kitty 1 & Darkside Adventures | 210371 | [210371-a-game-with-a-kitty-1-and-darkside-adventures.json](./210371-a-game-with-a-kitty-1-and-darkside-adventures.json) |
 | A Game with a Kitty 3 | 313567 | [313567-a-game-with-a-kitty-3.json](./313567-a-game-with-a-kitty-3.json) |
@@ -11012,6 +11013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: The Ninja Warriors | 99486 | [99486-arcade-archives-the-ninja-warriors.json](./99486-arcade-archives-the-ninja-warriors.json) |
 | Arcade Archives: The Return of Ishtar | 218552 | [218552-arcade-archives-the-return-of-ishtar.json](./218552-arcade-archives-the-return-of-ishtar.json) |
 | Arcade Archives: The Tin Star | 147102 | [147102-arcade-archives-the-tin-star.json](./147102-arcade-archives-the-tin-star.json) |
+| Arcade Archives: Thunder Ceptor | 207107 | [207107-arcade-archives-thunder-ceptor.json](./207107-arcade-archives-thunder-ceptor.json) |
 | Arcade Archives: Thunder Ceptor II | 242052 | [242052-arcade-archives-thunder-ceptor-ii.json](./242052-arcade-archives-thunder-ceptor-ii.json) |
 | Arcade Archives: Thunder Cross | 147101 | [147101-arcade-archives-thunder-cross.json](./147101-arcade-archives-thunder-cross.json) |
 | Arcade Archives: Thunder Dragon | 147104 | [147104-arcade-archives-thunder-dragon.json](./147104-arcade-archives-thunder-dragon.json) |
