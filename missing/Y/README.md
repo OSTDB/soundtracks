@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yatsumitsu Fists of Wrath | 54850 | [54850-yatsumitsu-fists-of-wrath.json](./54850-yatsumitsu-fists-of-wrath.json) |
 | Yatterman DS 2: Bikkuri Dokkiri Animal Daibouken | 124150 | [124150-yatterman-ds-2-bikkuri-dokkiri-animal-daibouken.json](./124150-yatterman-ds-2-bikkuri-dokkiri-animal-daibouken.json) |
 | Yatterman DS: Bikkuri Dokkiri Daisakusen da Koron | 354955 | [354955-yatterman-ds-bikkuri-dokkiri-daisakusen-da-koron.json](./354955-yatterman-ds-bikkuri-dokkiri-daisakusen-da-koron.json) |
+| Yatterman X Bomberman | 198053 | [198053-yatterman-x-bomberman.json](./198053-yatterman-x-bomberman.json) |
 | Yattsu no Hiseki 2X | 386156 | [386156-yattsu-no-hiseki-2x.json](./386156-yattsu-no-hiseki-2x.json) |
 | Yatzi | 271268 | [271268-yatzi.json](./271268-yatzi.json) |
 | Yatzi 2 | 364082 | [364082-yatzi-2.json](./364082-yatzi-2.json) |
@@ -1290,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Own Reality | 141702 | [141702-your-own-reality.json](./141702-your-own-reality.json) |
 | Your Painting, Sir | 383657 | [383657-your-painting-sir.json](./383657-your-painting-sir.json) |
 | Your Party Died Again | 404990 | [404990-your-party-died-again.json](./404990-your-party-died-again.json) |
+| Your Path of Destruction | 195863 | [195863-your-path-of-destruction.json](./195863-your-path-of-destruction.json) |
 | Your Personal Chill Apartment | 199365 | [199365-your-personal-chill-apartment.json](./199365-your-personal-chill-apartment.json) |
 | Your Personality Test | 371549 | [371549-your-personality-test.json](./371549-your-personality-test.json) |
 | Your planet in 60 seconds | 157965 | [157965-your-planet-in-60-seconds.json](./157965-your-planet-in-60-seconds.json) |
