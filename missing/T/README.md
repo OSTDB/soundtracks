@@ -14228,6 +14228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers 7: Paths to a Kingdom - Gold Edition | 27863 | [27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json](./27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json) |
 | The Settlers 7: Paths to a Kingdom - The Two Kings | 225911 | [225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json](./225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json) |
 | The Settlers 7: Paths to a Kingdom - Uncharted Land Map Pack | 167245 | [167245-the-settlers-7-paths-to-a-kingdom-uncharted-land-map-pack.json](./167245-the-settlers-7-paths-to-a-kingdom-uncharted-land-map-pack.json) |
+| The Settlers Complete I-VI | 203045 | [203045-the-settlers-complete-i-vi.json](./203045-the-settlers-complete-i-vi.json) |
 | The Settlers II: 10th Anniversary - Vikings | 71922 | [71922-the-settlers-ii-10th-anniversary-vikings.json](./71922-the-settlers-ii-10th-anniversary-vikings.json) |
 | The Settlers II: Gold Edition | 2617 | [2617-the-settlers-ii-gold-edition.json](./2617-the-settlers-ii-gold-edition.json) |
 | The Settlers II: Veni, Vidi, Vici | 2596 | [2596-the-settlers-ii-veni-vidi-vici.json](./2596-the-settlers-ii-veni-vidi-vici.json) |
@@ -23578,6 +23579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour of Duty | 259426 | [259426-tour-of-duty.json](./259426-tour-of-duty.json) |
 | Tour of Duty | 59307 | [59307-tour-of-duty.json](./59307-tour-of-duty.json) |
 | Tour of Neverland | 146886 | [146886-tour-of-neverland.json](./146886-tour-of-neverland.json) |
+| Tour Party: Sotsugyou Ryokou ni Ikou | 203050 | [203050-tour-party-sotsugyou-ryokou-ni-ikou.json](./203050-tour-party-sotsugyou-ryokou-ni-ikou.json) |
 | Touring | 252895 | [252895-touring.json](./252895-touring.json) |
 | Touring Car Racer | 94513 | [94513-touring-car-racer.json](./94513-touring-car-racer.json) |
 | Touring Karts | 120478 | [120478-touring-karts.json](./120478-touring-karts.json) |
