@@ -2219,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeGeGe no Kitaro: Maboroshi Fuyu Kaikitan | 64110 | [64110-gegege-no-kitaro-maboroshi-fuyu-kaikitan.json](./64110-gegege-no-kitaro-maboroshi-fuyu-kaikitan.json) |
 | GeGeGe no Kitaro: Yokai Daigekisen | 64111 | [64111-gegege-no-kitaro-yokai-daigekisen.json](./64111-gegege-no-kitaro-yokai-daigekisen.json) |
 | GeGeGe no Kitaro: Yokai Daimakyou | 48317 | [48317-gegege-no-kitaro-yokai-daimakyou.json](./48317-gegege-no-kitaro-yokai-daimakyou.json) |
+| GeGeGe no Kitaro: Yokai Daisensou | 218250 | [218250-gegege-no-kitaro-yokai-daisensou.json](./218250-gegege-no-kitaro-yokai-daisensou.json) |
 | GeGeGe no Kitaro: Yokai Daiundoukai | 64105 | [64105-gegege-no-kitaro-yokai-daiundoukai.json](./64105-gegege-no-kitaro-yokai-daiundoukai.json) |
 | GeGeGe no Kitaro: Yokai Donjara | 64107 | [64107-gegege-no-kitaro-yokai-donjara.json](./64107-gegege-no-kitaro-yokai-donjara.json) |
 | GeGeGe no Kitaro: Yokai Souzoushu Arawaru! | 64109 | [64109-gegege-no-kitaro-yokai-souzoushu-arawaru.json](./64109-gegege-no-kitaro-yokai-souzoushu-arawaru.json) |
@@ -4759,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Go Ackman | 15926 | [15926-go-go-ackman.json](./15926-go-go-ackman.json) |
 | Go Go Ackman | 83923 | [83923-go-go-ackman.json](./83923-go-go-ackman.json) |
 | Go Go Burunyanman Ecstasy!!! | 383005 | [383005-go-go-burunyanman-ecstasy.json](./383005-go-go-burunyanman-ecstasy.json) |
+| Go Go Dynaman | 218240 | [218240-go-go-dynaman.json](./218240-go-go-dynaman.json) |
 | Go Go Electric Samurai | 32565 | [32565-go-go-electric-samurai.json](./32565-go-go-electric-samurai.json) |
 | Go Go Fast | 252570 | [252570-go-go-fast.json](./252570-go-go-fast.json) |
 | Go Go Fight | 340317 | [340317-go-go-fight.json](./340317-go-go-fight.json) |
@@ -9477,6 +9479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Conquest V | 139752 | [139752-gundam-conquest-v.json](./139752-gundam-conquest-v.json) |
 | Gundam Evolution | 194205 | [194205-gundam-evolution.json](./194205-gundam-evolution.json) |
 | Gundam Fights for Human Rights | 183567 | [183567-gundam-fights-for-human-rights.json](./183567-gundam-fights-for-human-rights.json) |
+| Gundam Formation | 218299 | [218299-gundam-formation.json](./218299-gundam-formation.json) |
 | Gundam Heroes | 98560 | [98560-gundam-heroes.json](./98560-gundam-heroes.json) |
 | Gundam Masters | 220294 | [220294-gundam-masters.json](./220294-gundam-masters.json) |
 | Gundam Memories: Tatakai no Kioku | 80467 | [80467-gundam-memories-tatakai-no-kioku.json](./80467-gundam-memories-tatakai-no-kioku.json) |
