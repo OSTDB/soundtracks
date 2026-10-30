@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Punk | 210545 | [210545-rage-punk.json](./210545-rage-punk.json) |
 | Rage Quest | 75052 | [75052-rage-quest.json](./75052-rage-quest.json) |
 | Rage Quest: The Worst Game | 81254 | [81254-rage-quest-the-worst-game.json](./81254-rage-quest-the-worst-game.json) |
+| Rage Quit | 163089 | [163089-rage-quit.json](./163089-rage-quit.json) |
 | Rage Quit | 239165 | [239165-rage-quit.json](./239165-rage-quit.json) |
 | Rage Quit | 367824 | [367824-rage-quit.json](./367824-rage-quit.json) |
 | Rage Quit Bundle | 289373 | [289373-rage-quit-bundle.json](./289373-rage-quit-bundle.json) |
@@ -1509,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramenbashi | 92513 | [92513-ramenbashi.json](./92513-ramenbashi.json) |
 | Ramhart | 341311 | [341311-ramhart.json](./341311-ramhart.json) |
 | Rami-chan no Ooedo Sugoroku: Keio Yuugeki-tai Gaiden | 66215 | [66215-rami-chan-no-ooedo-sugoroku-keio-yuugeki-tai-gaiden.json](./66215-rami-chan-no-ooedo-sugoroku-keio-yuugeki-tai-gaiden.json) |
+| Ramiel | 163093 | [163093-ramiel.json](./163093-ramiel.json) |
 | Ramify | 31153 | [31153-ramify.json](./31153-ramify.json) |
 | Ramming Turtleship: 1592 - The Imjin War | 390000 | [390000-ramming-turtleship-1592-the-imjin-war.json](./390000-ramming-turtleship-1592-the-imjin-war.json) |
 | Rammy No Daibouken | 174553 | [174553-rammy-no-daibouken.json](./174553-rammy-no-daibouken.json) |
@@ -4757,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repulsor: Pod-Racing Game | 176390 | [176390-repulsor-pod-racing-game.json](./176390-repulsor-pod-racing-game.json) |
 | Repulze | 193703 | [193703-repulze.json](./193703-repulze.json) |
 | Repunk | 255675 | [255675-repunk.json](./255675-repunk.json) |
+| Repurpose | 163138 | [163138-repurpose.json](./163138-repurpose.json) |
 | ReqeustP | 376504 | [376504-reqeustp.json](./376504-reqeustp.json) |
 | Requeue | 183972 | [183972-requeue.json](./183972-requeue.json) |
 | Requia Online | 175329 | [175329-requia-online.json](./175329-requia-online.json) |
@@ -5562,6 +5565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of the Slimepires | 288848 | [288848-return-of-the-slimepires.json](./288848-return-of-the-slimepires.json) |
 | Return of the Space Warrior | 37293 | [37293-return-of-the-space-warrior.json](./37293-return-of-the-space-warrior.json) |
 | Return of the Things | 66627 | [66627-return-of-the-things.json](./66627-return-of-the-things.json) |
+| Return of the Triad | 163083 | [163083-return-of-the-triad.json](./163083-return-of-the-triad.json) |
 | Return of the Twin Peaks | 419357 | [419357-return-of-the-twin-peaks.json](./419357-return-of-the-twin-peaks.json) |
 | Return of the USSR | 291854 | [291854-return-of-the-ussr.json](./291854-return-of-the-ussr.json) |
 | Return of Warrior | 259491 | [259491-return-of-warrior.json](./259491-return-of-warrior.json) |
@@ -6086,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhymo's Falling Star | 306032 | [306032-rhymos-falling-star.json](./306032-rhymos-falling-star.json) |
 | Rhyolite | 335351 | [335351-rhyolite.json](./335351-rhyolite.json) |
 | Rhyth-Metria | 227167 | [227167-rhyth-metria.json](./227167-rhyth-metria.json) |
+| Rhyther | 163084 | [163084-rhyther.json](./163084-rhyther.json) |
 | Rhythia | 234769 | [234769-rhythia.json](./234769-rhythia.json) |
 | Rhythium | 165298 | [165298-rhythium.json](./165298-rhythium.json) |
 | Rhythm | 124498 | [124498-rhythm.json](./124498-rhythm.json) |
