@@ -1028,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camundongo Miguel na Ilha dos Novo Pogos | 298411 | [298411-camundongo-miguel-na-ilha-dos-novo-pogos.json](./298411-camundongo-miguel-na-ilha-dos-novo-pogos.json) |
 | Can A Cute Ghost Story Be Spooky? | 176645 | [176645-can-a-cute-ghost-story-be-spooky.json](./176645-can-a-cute-ghost-story-be-spooky.json) |
 | Can Androids Pray: Blue | 125388 | [125388-can-androids-pray-blue.json](./125388-can-androids-pray-blue.json) |
+| Can Androids Pray: Red | 133024 | [133024-can-androids-pray-red.json](./133024-can-androids-pray-red.json) |
 | Can Androids Survive | 167709 | [167709-can-androids-survive.json](./167709-can-androids-survive.json) |
 | Can Bullet | 296646 | [296646-can-bullet.json](./296646-can-bullet.json) |
 | Can Can Bunny Extra DX | 78570 | [78570-can-can-bunny-extra-dx.json](./78570-can-can-bunny-extra-dx.json) |
@@ -1860,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Crash Online | 105162 | [105162-car-crash-online.json](./105162-car-crash-online.json) |
 | Car Crash Racing: Stunt Master | 231977 | [231977-car-crash-racing-stunt-master.json](./231977-car-crash-racing-stunt-master.json) |
 | Car Crush Racing Simulator | 132508 | [132508-car-crush-racing-simulator.json](./132508-car-crush-racing-simulator.json) |
+| Car Dealer | 133041 | [133041-car-dealer.json](./133041-car-dealer.json) |
 | Car Dealer Driver | 207881 | [207881-car-dealer-driver.json](./207881-car-dealer-driver.json) |
 | Car Dealer Garage Simulator 2026 | 393297 | [393297-car-dealer-garage-simulator-2026.json](./393297-car-dealer-garage-simulator-2026.json) |
 | Car Dealership Business Simulator | 336414 | [336414-car-dealership-business-simulator.json](./336414-car-dealership-business-simulator.json) |
@@ -13975,6 +13977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid-19 Epidemic Prevention | 157108 | [157108-covid-19-epidemic-prevention.json](./157108-covid-19-epidemic-prevention.json) |
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
 | Covid: Survive the PlanDemic | 168085 | [168085-covid-survive-the-plandemic.json](./168085-covid-survive-the-plandemic.json) |
+| Covid: The Outbreak | 133007 | [133007-covid-the-outbreak.json](./133007-covid-the-outbreak.json) |
 | Covid19: Toilet Paper Run | 285531 | [285531-covid19-toilet-paper-run.json](./285531-covid19-toilet-paper-run.json) |
 | Cow Abduction Frenzy | 405958 | [405958-cow-abduction-frenzy.json](./405958-cow-abduction-frenzy.json) |
 | Cow Catcher | 124594 | [124594-cow-catcher.json](./124594-cow-catcher.json) |
