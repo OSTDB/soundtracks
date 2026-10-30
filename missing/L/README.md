@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Island | 134628 | [134628-last-island.json](./134628-last-island.json) |
 | Last Island of Survival | 175118 | [175118-last-island-of-survival.json](./175118-last-island-of-survival.json) |
 | Last Joy | 126591 | [126591-last-joy.json](./126591-last-joy.json) |
+| Last Judgment: VR | 173965 | [173965-last-judgment-vr.json](./173965-last-judgment-vr.json) |
 | Last Kid on the Bus | 409712 | [409712-last-kid-on-the-bus.json](./409712-last-kid-on-the-bus.json) |
 | Last Kids on Earth: Hit the Deck! | 223330 | [223330-last-kids-on-earth-hit-the-deck.json](./223330-last-kids-on-earth-hit-the-deck.json) |
 | Last King of Africa | 47883 | [47883-last-king-of-africa.json](./47883-last-king-of-africa.json) |
