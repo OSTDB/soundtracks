@@ -2402,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Lake | 253872 | [253872-scarlet-lake.json](./253872-scarlet-lake.json) |
 | Scarlet Manor: The Heir | 272937 | [272937-scarlet-manor-the-heir.json](./272937-scarlet-manor-the-heir.json) |
 | Scarlet Meister | 375572 | [375572-scarlet-meister.json](./375572-scarlet-meister.json) |
+| Scarlet Midnight | 134856 | [134856-scarlet-midnight.json](./134856-scarlet-midnight.json) |
 | Scarlet Nexus: Bond Enhancement Pack 2 | 224474 | [224474-scarlet-nexus-bond-enhancement-pack-2.json](./224474-scarlet-nexus-bond-enhancement-pack-2.json) |
 | Scarlet Nexus: Brain Eater Pack 3 | 224473 | [224473-scarlet-nexus-brain-eater-pack-3.json](./224473-scarlet-nexus-brain-eater-pack-3.json) |
 | Scarlet Nexus: Deluxe Edition | 164589 | [164589-scarlet-nexus-deluxe-edition.json](./164589-scarlet-nexus-deluxe-edition.json) |
@@ -5149,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial Cleaner | 19450 | [19450-serial-cleaner.json](./19450-serial-cleaner.json) |
 | Serial Cleaner + Official Soundtrack Bundle | 118866 | [118866-serial-cleaner-official-soundtrack-bundle.json](./118866-serial-cleaner-official-soundtrack-bundle.json) |
 | Serial Cleaner: Blood & Confetti | 336529 | [336529-serial-cleaner-blood-and-confetti.json](./336529-serial-cleaner-blood-and-confetti.json) |
+| Serial Cleaners | 134823 | [134823-serial-cleaners.json](./134823-serial-cleaners.json) |
 | Serial Cleaners: Dino Park | 249301 | [249301-serial-cleaners-dino-park.json](./249301-serial-cleaners-dino-park.json) |
 | Serial Dreams Escape | 344835 | [344835-serial-dreams-escape.json](./344835-serial-dreams-escape.json) |
 | Serial Experiments L-If-e | 350398 | [350398-serial-experiments-l-if-e.json](./350398-serial-experiments-l-if-e.json) |
@@ -8382,6 +8384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotengai 10 | 287716 | [287716-shotengai-10.json](./287716-shotengai-10.json) |
 | Shotest Shogi | 21803 | [21803-shotest-shogi.json](./21803-shotest-shogi.json) |
 | Shotguana | 337307 | [337307-shotguana.json](./337307-shotguana.json) |
+| Shotgun | 134866 | [134866-shotgun.json](./134866-shotgun.json) |
 | Shotgun | 58595 | [58595-shotgun.json](./58595-shotgun.json) |
 | Shotgun Angelic | 183428 | [183428-shotgun-angelic.json](./183428-shotgun-angelic.json) |
 | Shotgun Chicken | 288803 | [288803-shotgun-chicken.json](./288803-shotgun-chicken.json) |
@@ -16911,6 +16914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoundSelf | 61869 | [61869-soundself.json](./61869-soundself.json) |
 | Soundsphere | 176885 | [176885-soundsphere.json](./176885-soundsphere.json) |
 | SoundStage | 27777 | [27777-soundstage.json](./27777-soundstage.json) |
+| soundStrider | 134872 | [134872-soundstrider.json](./134872-soundstrider.json) |
 | Soundsxworld | 193063 | [193063-soundsxworld.json](./193063-soundsxworld.json) |
 | SoundTown | 276820 | [276820-soundtown.json](./276820-soundtown.json) |
 | Soundtrack Attack | 74791 | [74791-soundtrack-attack.json](./74791-soundtrack-attack.json) |
@@ -17284,6 +17288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Crafting | 200973 | [200973-space-crafting.json](./200973-space-crafting.json) |
 | Space Crawl | 55465 | [55465-space-crawl.json](./55465-space-crawl.json) |
 | Space Crew & Bomber Crew Bundle | 310447 | [310447-space-crew-and-bomber-crew-bundle.json](./310447-space-crew-and-bomber-crew-bundle.json) |
+| Space Crew: Legendary Edition | 134819 | [134819-space-crew-legendary-edition.json](./134819-space-crew-legendary-edition.json) |
 | Space Crisis | 167782 | [167782-space-crisis.json](./167782-space-crisis.json) |
 | Space Cruise | 114170 | [114170-space-cruise.json](./114170-space-cruise.json) |
 | Space Crusade | 7648 | [7648-space-crusade.json](./7648-space-crusade.json) |
@@ -21186,6 +21191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staged: Open House | 397249 | [397249-staged-open-house.json](./397249-staged-open-house.json) |
 | Stagehand Survival Simulator | 239733 | [239733-stagehand-survival-simulator.json](./239733-stagehand-survival-simulator.json) |
 | Stagehand: A Reverse Platformer | 97306 | [97306-stagehand-a-reverse-platformer.json](./97306-stagehand-a-reverse-platformer.json) |
+| Stagehands! | 134820 | [134820-stagehands.json](./134820-stagehands.json) |
 | Stagelands: Eternal Defense | 272232 | [272232-stagelands-eternal-defense.json](./272232-stagelands-eternal-defense.json) |
 | StageMechanic | 110848 | [110848-stagemechanic.json](./110848-stagemechanic.json) |
 | Stages of Grief | 148234 | [148234-stages-of-grief.json](./148234-stages-of-grief.json) |
@@ -27641,6 +27647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Crypto Kart | 138748 | [138748-super-crypto-kart.json](./138748-super-crypto-kart.json) |
 | Super Crystal Hunter | 127722 | [127722-super-crystal-hunter.json](./127722-super-crystal-hunter.json) |
 | Super Cube 3D | 278959 | [278959-super-cube-3d.json](./278959-super-cube-3d.json) |
+| Super Cube Attack | 134874 | [134874-super-cube-attack.json](./134874-super-cube-attack.json) |
 | Super Cube Smash | 32741 | [32741-super-cube-smash.json](./32741-super-cube-smash.json) |
 | Super Cuber | 29716 | [29716-super-cuber.json](./29716-super-cuber.json) |
 | Super Cubiform | 292492 | [292492-super-cubiform.json](./292492-super-cubiform.json) |
