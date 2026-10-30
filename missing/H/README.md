@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Paradise 4 | 281547 | [281547-hamster-paradise-4.json](./281547-hamster-paradise-4.json) |
 | Hamster Paradise: Advanchu | 49587 | [49587-hamster-paradise-advanchu.json](./49587-hamster-paradise-advanchu.json) |
 | Hamster Paradise: Pure Heart | 49588 | [49588-hamster-paradise-pure-heart.json](./49588-hamster-paradise-pure-heart.json) |
+| Hamster Playground | 172925 | [172925-hamster-playground.json](./172925-hamster-playground.json) |
 | Hamster Playground: Adventure & Style DLC Pack | 332018 | [332018-hamster-playground-adventure-and-style-dlc-pack.json](./332018-hamster-playground-adventure-and-style-dlc-pack.json) |
 | Hamster Playground: Cute Pets | 357373 | [357373-hamster-playground-cute-pets.json](./357373-hamster-playground-cute-pets.json) |
 | Hamster Playground: Fun & Challenge Games Pack | 332019 | [332019-hamster-playground-fun-and-challenge-games-pack.json](./332019-hamster-playground-fun-and-challenge-games-pack.json) |
@@ -6237,6 +6238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Fairy Tales | 101345 | [101345-hidden-object-fairy-tales.json](./101345-hidden-object-fairy-tales.json) |
 | Hidden Object Game | 102562 | [102562-hidden-object-game.json](./102562-hidden-object-game.json) |
 | Hidden Object Hunt | 277446 | [277446-hidden-object-hunt.json](./277446-hidden-object-hunt.json) |
+| Hidden Object Hunt Classic | 172900 | [172900-hidden-object-hunt-classic.json](./172900-hidden-object-hunt-classic.json) |
 | Hidden Object Mysteries 3 | 198089 | [198089-hidden-object-mysteries-3.json](./198089-hidden-object-mysteries-3.json) |
 | Hidden Object Mystery: Ghostly Manor | 105961 | [105961-hidden-object-mystery-ghostly-manor.json](./105961-hidden-object-mystery-ghostly-manor.json) |
 | Hidden Object Secrets: Family Revenge - Collector's Edition | 276663 | [276663-hidden-object-secrets-family-revenge-collectors-edition.json](./276663-hidden-object-secrets-family-revenge-collectors-edition.json) |
