@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ableford | 190898 | [190898-ableford.json](./190898-ableford.json) |
 | Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
 | Ablight | 278267 | [278267-ablight.json](./278267-ablight.json) |
+| Ablockalypse | 164190 | [164190-ablockalypse.json](./164190-ablockalypse.json) |
 | Abmis the Lion | 70305 | [70305-abmis-the-lion.json](./70305-abmis-the-lion.json) |
 | Abnimality | 283872 | [283872-abnimality.json](./283872-abnimality.json) |
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
@@ -3587,6 +3588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aesop Rock's Black Hole Superette Experience | 346605 | [346605-aesop-rocks-black-hole-superette-experience.json](./346605-aesop-rocks-black-hole-superette-experience.json) |
 | Aesop's Fables | 14227 | [14227-aesops-fables.json](./14227-aesops-fables.json) |
 | Aesos | 379565 | [379565-aesos.json](./379565-aesos.json) |
+| Aesoteric Collection | 164209 | [164209-aesoteric-collection.json](./164209-aesoteric-collection.json) |
 | Aestheta | 349742 | [349742-aestheta.json](./349742-aestheta.json) |
 | Aesthetic | 325102 | [325102-aesthetic.json](./325102-aesthetic.json) |
 | Aesthetic Clicker | 309906 | [309906-aesthetic-clicker.json](./309906-aesthetic-clicker.json) |
@@ -4626,6 +4628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Trainer: Shooting Range | 277744 | [277744-aim-trainer-shooting-range.json](./277744-aim-trainer-shooting-range.json) |
 | Aim Trainer: With Cats | 375579 | [375579-aim-trainer-with-cats.json](./375579-aim-trainer-with-cats.json) |
 | Aim Zen | 283887 | [283887-aim-zen.json](./283887-aim-zen.json) |
+| Aim: Warmup | 164161 | [164161-aim-warmup.json](./164161-aim-warmup.json) |
 | Aim/Flash Trainer | 404837 | [404837-aim-flash-trainer.json](./404837-aim-flash-trainer.json) |
 | Aima | 60507 | [60507-aima.json](./60507-aima.json) |
 | Aima Online | 62101 | [62101-aima-online.json](./62101-aima-online.json) |
@@ -9163,6 +9166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Hero Zero 2 | 292013 | [292013-anime-hero-zero-2.json](./292013-anime-hero-zero-2.json) |
 | Anime Hero Zero 3 | 292014 | [292014-anime-hero-zero-3.json](./292014-anime-hero-zero-3.json) |
 | Anime High School Simulator | 296741 | [296741-anime-high-school-simulator.json](./296741-anime-high-school-simulator.json) |
+| Anime Holidays | 164192 | [164192-anime-holidays.json](./164192-anime-holidays.json) |
 | Anime In 10 Words | 243751 | [243751-anime-in-10-words.json](./243751-anime-in-10-words.json) |
 | Anime Jigsaw | 357872 | [357872-anime-jigsaw.json](./357872-anime-jigsaw.json) |
 | Anime Jigsaw Girls: Christmas | 286515 | [286515-anime-jigsaw-girls-christmas.json](./286515-anime-jigsaw-girls-christmas.json) |
@@ -12214,6 +12218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkaia: The Enigmatic Isle | 68606 | [68606-arkaia-the-enigmatic-isle.json](./68606-arkaia-the-enigmatic-isle.json) |
 | Arkaik: Tales of Sarina | 230380 | [230380-arkaik-tales-of-sarina.json](./230380-arkaik-tales-of-sarina.json) |
 | Arkan Solas: The Haunting of Ashfell Manor | 402728 | [402728-arkan-solas-the-haunting-of-ashfell-manor.json](./402728-arkan-solas-the-haunting-of-ashfell-manor.json) |
+| Arkan Tower | 164167 | [164167-arkan-tower.json](./164167-arkan-tower.json) |
 | Arkan: The Dog Adventurer | 122806 | [122806-arkan-the-dog-adventurer.json](./122806-arkan-the-dog-adventurer.json) |
 | Arkana Senki Ludo | 166163 | [166163-arkana-senki-ludo.json](./166163-arkana-senki-ludo.json) |
 | Arkandian Legends 1: Crusade | 385964 | [385964-arkandian-legends-1-crusade.json](./385964-arkandian-legends-1-crusade.json) |
@@ -12472,6 +12477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Brigade Nation Pack: France - Belgium | 155059 | [155059-armored-brigade-nation-pack-france-belgium.json](./155059-armored-brigade-nation-pack-france-belgium.json) |
 | Armored Brigade Nation Pack: Italy - Yugoslavia | 155058 | [155058-armored-brigade-nation-pack-italy-yugoslavia.json](./155058-armored-brigade-nation-pack-italy-yugoslavia.json) |
 | Armored Car | 40015 | [40015-armored-car.json](./40015-armored-car.json) |
+| Armored Cavalry: Metalline | 164175 | [164175-armored-cavalry-metalline.json](./164175-armored-cavalry-metalline.json) |
 | Armored Combat Tank Warfare Online | 205083 | [205083-armored-combat-tank-warfare-online.json](./205083-armored-combat-tank-warfare-online.json) |
 | Armored Core 2 | 31719 | [31719-armored-core-2.json](./31719-armored-core-2.json) |
 | Armored Core 2: Another Age | 46029 | [46029-armored-core-2-another-age.json](./46029-armored-core-2-another-age.json) |
