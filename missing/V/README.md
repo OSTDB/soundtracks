@@ -3079,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voids Vigil | 282024 | [282024-voids-vigil.json](./282024-voids-vigil.json) |
 | Voidseekers | 253814 | [253814-voidseekers.json](./253814-voidseekers.json) |
 | Voidship: Redux | 244312 | [244312-voidship-redux.json](./244312-voidship-redux.json) |
+| Voidspace | 128155 | [128155-voidspace.json](./128155-voidspace.json) |
 | Voidspeed Outlaw | 157026 | [157026-voidspeed-outlaw.json](./157026-voidspeed-outlaw.json) |
 | Voidstalker | 381926 | [381926-voidstalker.json](./381926-voidstalker.json) |
 | Voidstepper | 384035 | [384035-voidstepper.json](./384035-voidstepper.json) |
