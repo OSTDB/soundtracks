@@ -4206,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whizzle | 79090 | [79090-whizzle.json](./79090-whizzle.json) |
 | WHMIS 2015 VR | 196122 | [196122-whmis-2015-vr.json](./196122-whmis-2015-vr.json) |
 | Who Am I Next?: Animals | 410096 | [410096-who-am-i-next-animals.json](./410096-who-am-i-next-animals.json) |
+| Who Am I: Hidden Object Adventure Full | 175555 | [175555-who-am-i-hidden-object-adventure-full.json](./175555-who-am-i-hidden-object-adventure-full.json) |
 | Who am I: Remedy | 280363 | [280363-who-am-i-remedy.json](./280363-who-am-i-remedy.json) |
 | Who Am I: The Tale of Dorothy | 96654 | [96654-who-am-i-the-tale-of-dorothy.json](./96654-who-am-i-the-tale-of-dorothy.json) |
 | Who am I? | 328408 | [328408-who-am-i.json](./328408-who-am-i.json) |
