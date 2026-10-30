@@ -19431,6 +19431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery House: Secret Stealth | 88133 | [88133-mystery-house-secret-stealth.json](./88133-mystery-house-secret-stealth.json) |
 | Mystery in London: On the Trail of Jack the Ripper | 67184 | [67184-mystery-in-london-on-the-trail-of-jack-the-ripper.json](./67184-mystery-in-london-on-the-trail-of-jack-the-ripper.json) |
 | Mystery in the Office | 245840 | [245840-mystery-in-the-office.json](./245840-mystery-in-the-office.json) |
+| Mystery Investigations 1 I Noir Chronicles: City of Crime + Path of Sin: Greed | 136068 | [136068-mystery-investigations-1-i-noir-chronicles-city-of-crime-path-of-sin-greed.json](./136068-mystery-investigations-1-i-noir-chronicles-city-of-crime-path-of-sin-greed.json) |
 | Mystery Island | 171238 | [171238-mystery-island.json](./171238-mystery-island.json) |
 | Mystery Island II | 147865 | [147865-mystery-island-ii.json](./147865-mystery-island-ii.json) |
 | Mystery Island: Enigmatic Painting | 373684 | [373684-mystery-island-enigmatic-painting.json](./373684-mystery-island-enigmatic-painting.json) |
