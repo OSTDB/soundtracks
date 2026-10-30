@@ -18980,6 +18980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sweet Ants! | 156820 | [156820-my-sweet-ants.json](./156820-my-sweet-ants.json) |
 | My Sweet Artificial Lover | 242652 | [242652-my-sweet-artificial-lover.json](./242652-my-sweet-artificial-lover.json) |
 | My Sweet Bully | 206027 | [206027-my-sweet-bully.json](./206027-my-sweet-bully.json) |
+| My Sweet Confession | 133047 | [133047-my-sweet-confession.json](./133047-my-sweet-confession.json) |
 | My Sweet Devil 3: Ring | 97695 | [97695-my-sweet-devil-3-ring.json](./97695-my-sweet-devil-3-ring.json) |
 | My Sweet Herbivore High | 231421 | [231421-my-sweet-herbivore-high.json](./231421-my-sweet-herbivore-high.json) |
 | My Sweet High School Memories | 214915 | [214915-my-sweet-high-school-memories.json](./214915-my-sweet-high-school-memories.json) |
