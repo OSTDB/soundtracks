@@ -1515,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Face | 317195 | [317195-balloon-face.json](./317195-balloon-face.json) |
 | Balloon Fast Run | 330185 | [330185-balloon-fast-run.json](./330185-balloon-fast-run.json) |
 | Balloon Fiesta 3D | 114935 | [114935-balloon-fiesta-3d.json](./114935-balloon-fiesta-3d.json) |
+| Balloon Fight | 145180 | [145180-balloon-fight.json](./145180-balloon-fight.json) |
 | Balloon Fight | 195030 | [195030-balloon-fight.json](./195030-balloon-fight.json) |
 | Balloon Fight | 269842 | [269842-balloon-fight.json](./269842-balloon-fight.json) |
 | Balloon Fight | 273083 | [273083-balloon-fight.json](./273083-balloon-fight.json) |
@@ -2696,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball with Heads | 246974 | [246974-baseball-with-heads.json](./246974-baseball-with-heads.json) |
 | Baseball-e | 170006 | [170006-baseball-e.json](./170006-baseball-e.json) |
 | Baseball, But Fun | 177858 | [177858-baseball-but-fun.json](./177858-baseball-but-fun.json) |
+| Baseball: Breakthrough Gaming Arcade | 145188 | [145188-baseball-breakthrough-gaming-arcade.json](./145188-baseball-breakthrough-gaming-arcade.json) |
 | Baseball: Breakthrough Gaming Arcade - 2 Player Cooperation Edition | 207058 | [207058-baseball-breakthrough-gaming-arcade-2-player-cooperation-edition.json](./207058-baseball-breakthrough-gaming-arcade-2-player-cooperation-edition.json) |
 | Baseball: Breakthrough Gaming Arcade - 2 Player Cooperation Edition: Challenge Mode | 207060 | [207060-baseball-breakthrough-gaming-arcade-2-player-cooperation-edition-challenge-mode.json](./207060-baseball-breakthrough-gaming-arcade-2-player-cooperation-edition-challenge-mode.json) |
 | Baseball: Breakthrough Gaming Arcade - 3 Player Cooperation Edition | 207056 | [207056-baseball-breakthrough-gaming-arcade-3-player-cooperation-edition.json](./207056-baseball-breakthrough-gaming-arcade-3-player-cooperation-edition.json) |
@@ -7285,6 +7287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bioguard | 283999 | [283999-bioguard.json](./283999-bioguard.json) |
 | Biohazard | 178438 | [178438-biohazard.json](./178438-biohazard.json) |
 | Biohazard 0 | 307948 | [307948-biohazard-0.json](./307948-biohazard-0.json) |
+| Biohazard 5: Limited Edition | 145195 | [145195-biohazard-5-limited-edition.json](./145195-biohazard-5-limited-edition.json) |
 | Biohazard Anniversary Package | 287316 | [287316-biohazard-anniversary-package.json](./287316-biohazard-anniversary-package.json) |
 | Biohazard Code: Veronica - Limited Edition | 407337 | [407337-biohazard-code-veronica-limited-edition.json](./407337-biohazard-code-veronica-limited-edition.json) |
 | Biohazard i Survivor | 251363 | [251363-biohazard-i-survivor.json](./251363-biohazard-i-survivor.json) |
@@ -7924,6 +7927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bl00d.exe | 259168 | [259168-bl00d-exe.json](./259168-bl00d-exe.json) |
 | Blablaland | 286667 | [286667-blablaland.json](./286667-blablaland.json) |
 | Blablublas Battle Royale Shooter | 370787 | [370787-blablublas-battle-royale-shooter.json](./370787-blablublas-battle-royale-shooter.json) |
+| Blabyrinth | 145227 | [145227-blabyrinth.json](./145227-blabyrinth.json) |
 | Black | 159265 | [159265-black.json](./159265-black.json) |
 | Black & Bruised | 3819 | [3819-black-and-bruised.json](./3819-black-and-bruised.json) |
 | Black & White | 308 | [308-black-and-white.json](./308-black-and-white.json) |
@@ -8092,6 +8096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Inc.: Go to Work | 320809 | [320809-black-inc-go-to-work.json](./320809-black-inc-go-to-work.json) |
 | Black Infinity | 158126 | [158126-black-infinity.json](./158126-black-infinity.json) |
 | Black Ink | 199495 | [199495-black-ink.json](./199495-black-ink.json) |
+| Black Jack | 145220 | [145220-black-jack.json](./145220-black-jack.json) |
 | Black Jack | 246377 | [246377-black-jack.json](./246377-black-jack.json) |
 | Black Jack | 366927 | [366927-black-jack.json](./366927-black-jack.json) |
 | Black Jack | 391650 | [391650-black-jack.json](./391650-black-jack.json) |
@@ -11169,6 +11174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Scare | 13422 | [13422-bomb-scare.json](./13422-bomb-scare.json) |
 | Bomb Squad | 5662 | [5662-bomb-squad.json](./5662-bomb-squad.json) |
 | Bomb Squad Academy | 28012 | [28012-bomb-squad-academy.json](./28012-bomb-squad-academy.json) |
+| Bomb Sweeper | 145222 | [145222-bomb-sweeper.json](./145222-bomb-sweeper.json) |
 | Bomb Sweeper VR | 187179 | [187179-bomb-sweeper-vr.json](./187179-bomb-sweeper-vr.json) |
 | Bomb Sweeper: Mine Finder | 195936 | [195936-bomb-sweeper-mine-finder.json](./195936-bomb-sweeper-mine-finder.json) |
 | Bomb Sworders | 105678 | [105678-bomb-sworders.json](./105678-bomb-sworders.json) |
