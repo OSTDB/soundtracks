@@ -858,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calming Lia | 261161 | [261161-calming-lia.json](./261161-calming-lia.json) |
 | CalmLine | 238448 | [238448-calmline.json](./238448-calmline.json) |
 | Calon Arang Nightmare of Revenge | 387557 | [387557-calon-arang-nightmare-of-revenge.json](./387557-calon-arang-nightmare-of-revenge.json) |
+| Calorie Defenders | 140825 | [140825-calorie-defenders.json](./140825-calorie-defenders.json) |
 | Calorie-kun vs. Moguranian | 301953 | [301953-calorie-kun-vs-moguranian.json](./301953-calorie-kun-vs-moguranian.json) |
 | CalorieMate Liquid for Game Creators | 316719 | [316719-caloriemate-liquid-for-game-creators.json](./316719-caloriemate-liquid-for-game-creators.json) |
 | Calpria | 416686 | [416686-calpria.json](./416686-calpria.json) |
@@ -4223,6 +4224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catty & Batty: The Spirit Guide | 143470 | [143470-catty-and-batty-the-spirit-guide.json](./143470-catty-and-batty-the-spirit-guide.json) |
 | Catty Battle | 129816 | [129816-catty-battle.json](./129816-catty-battle.json) |
 | Catty Cathy | 281982 | [281982-catty-cathy.json](./281982-catty-cathy.json) |
+| Catventure | 139580 | [139580-catventure.json](./139580-catventure.json) |
 | Catventure: The Curse of the Dark Tower | 391981 | [391981-catventure-the-curse-of-the-dark-tower.json](./391981-catventure-the-curse-of-the-dark-tower.json) |
 | Catwalk Battle | 208912 | [208912-catwalk-battle.json](./208912-catwalk-battle.json) |
 | Catwave95 | 303728 | [303728-catwave95.json](./303728-catwave95.json) |
@@ -6562,6 +6564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Fishing | 337457 | [337457-chill-fishing.json](./337457-chill-fishing.json) |
 | Chill Fishing | 379644 | [379644-chill-fishing.json](./379644-chill-fishing.json) |
 | Chill Fox | 368820 | [368820-chill-fox.json](./368820-chill-fox.json) |
+| Chill Hop Quest | 140779 | [140779-chill-hop-quest.json](./140779-chill-hop-quest.json) |
 | Chill II | 116072 | [116072-chill-ii.json](./116072-chill-ii.json) |
 | Chill Manor | 64704 | [64704-chill-manor.json](./64704-chill-manor.json) |
 | Chill of Death's: Breath | 269280 | [269280-chill-of-deaths-breath.json](./269280-chill-of-deaths-breath.json) |
@@ -8185,6 +8188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CitrusBall | 355162 | [355162-citrusball.json](./355162-citrusball.json) |
 | CiTV Racing | 325555 | [325555-citv-racing.json](./325555-citv-racing.json) |
 | City | 175689 | [175689-city.json](./175689-city.json) |
+| City 13 | 139589 | [139589-city-13.json](./139589-city-13.json) |
 | City 20 | 287607 | [287607-city-20.json](./287607-city-20.json) |
 | City 2048 | 57448 | [57448-city-2048.json](./57448-city-2048.json) |
 | City 7: Toronto Conflict | 281410 | [281410-city-7-toronto-conflict.json](./281410-city-7-toronto-conflict.json) |
@@ -8557,6 +8561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clairvoyance | 357748 | [357748-clairvoyance.json](./357748-clairvoyance.json) |
 | Clairvoyant: The Magician Mystery | 417685 | [417685-clairvoyant-the-magician-mystery.json](./417685-clairvoyant-the-magician-mystery.json) |
 | Clam Man | 114921 | [114921-clam-man.json](./114921-clam-man.json) |
+| Clam Man 2: Headliner | 140816 | [140816-clam-man-2-headliner.json](./140816-clam-man-2-headliner.json) |
 | Clam Man 2: Open Mic | 150779 | [150779-clam-man-2-open-mic.json](./150779-clam-man-2-open-mic.json) |
 | Clamb | 278553 | [278553-clamb.json](./278553-clamb.json) |
 | Clamber | 414398 | [414398-clamber.json](./414398-clamber.json) |
@@ -9465,6 +9470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Heart | 211822 | [211822-cloud-heart.json](./211822-cloud-heart.json) |
 | Cloud House | 236497 | [236497-cloud-house.json](./236497-cloud-house.json) |
 | Cloud JourneyVR | 424669 | [424669-cloud-journeyvr.json](./424669-cloud-journeyvr.json) |
+| Cloud Jumper | 140817 | [140817-cloud-jumper.json](./140817-cloud-jumper.json) |
 | Cloud Keeper: Shrine of Dal | 356039 | [356039-cloud-keeper-shrine-of-dal.json](./356039-cloud-keeper-shrine-of-dal.json) |
 | Cloud Master | 386335 | [386335-cloud-master.json](./386335-cloud-master.json) |
 | Cloud Meadow | 137958 | [137958-cloud-meadow.json](./137958-cloud-meadow.json) |
@@ -12558,6 +12564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control Yourself | 338138 | [338138-control-yourself.json](./338138-control-yourself.json) |
 | Control: AWE | 122313 | [122313-control-awe.json](./122313-control-awe.json) |
 | Control: Expeditions | 298854 | [298854-control-expeditions.json](./298854-control-expeditions.json) |
+| Control: Override | 139615 | [139615-control-override.json](./139615-control-override.json) |
 | Control: The Foundation | 122312 | [122312-control-the-foundation.json](./122312-control-the-foundation.json) |
 | Control: Ultimate Asia Limited Edition | 167088 | [167088-control-ultimate-asia-limited-edition.json](./167088-control-ultimate-asia-limited-edition.json) |
 | Control: Ultimate Edition | 136604 | [136604-control-ultimate-edition.json](./136604-control-ultimate-edition.json) |
@@ -14331,6 +14338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cramgene | 92857 | [92857-cramgene.json](./92857-cramgene.json) |
 | Cramit's Keep | 186846 | [186846-cramits-keep.json](./186846-cramits-keep.json) |
 | Cramped Map Collection | 294754 | [294754-cramped-map-collection.json](./294754-cramped-map-collection.json) |
+| Cramped Room of Death | 139616 | [139616-cramped-room-of-death.json](./139616-cramped-room-of-death.json) |
 | Cramunhão: A Sigil Tribute | 316941 | [316941-cramunhao-a-sigil-tribute.json](./316941-cramunhao-a-sigil-tribute.json) |
 | Crane Game Simulator | 224747 | [224747-crane-game-simulator.json](./224747-crane-game-simulator.json) |
 | Crane Logistics Simulator | 211699 | [211699-crane-logistics-simulator.json](./211699-crane-logistics-simulator.json) |
@@ -15926,6 +15934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossing to the Cold Valley | 178327 | [178327-crossing-to-the-cold-valley.json](./178327-crossing-to-the-cold-valley.json) |
 | Crossing Void - Global | 130700 | [130700-crossing-void-global.json](./130700-crossing-void-global.json) |
 | Crossings | 344157 | [344157-crossings.json](./344157-crossings.json) |
+| CrossKrush | 140788 | [140788-crosskrush.json](./140788-crosskrush.json) |
 | Crosslogic Ultimate | 66716 | [66716-crosslogic-ultimate.json](./66716-crosslogic-ultimate.json) |
 | CrossLust | 235491 | [235491-crosslust.json](./235491-crosslust.json) |
 | Crossly | 241206 | [241206-crossly.json](./241206-crossly.json) |
