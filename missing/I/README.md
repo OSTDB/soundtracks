@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icewords | 186006 | [186006-icewords.json](./186006-icewords.json) |
 | Icey: Ucey's Awakening | 171943 | [171943-icey-uceys-awakening.json](./171943-icey-uceys-awakening.json) |
 | Icharko | 277255 | [277255-icharko.json](./277255-icharko.json) |
+| iChess Park | 175054 | [175054-ichess-park.json](./175054-ichess-park.json) |
 | Ichido ha Yonde Okitai: Nihon Bungaku 100-sen | 269639 | [269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json](./269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json) |
 | Ichigeki Nyuukon! Panda Ball | 206506 | [206506-ichigeki-nyuukon-panda-ball.json](./206506-ichigeki-nyuukon-panda-ball.json) |
 | Ichigeki Sacchu!! HoiHoi-san | 67054 | [67054-ichigeki-sacchu-hoihoi-san.json](./67054-ichigeki-sacchu-hoihoi-san.json) |
