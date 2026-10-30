@@ -6072,6 +6072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Unwritten Tales Collection | 53712 | [53712-the-book-of-unwritten-tales-collection.json](./53712-the-book-of-unwritten-tales-collection.json) |
 | The Book of Unwritten Tales: The Critter Chronicles | 7661 | [7661-the-book-of-unwritten-tales-the-critter-chronicles.json](./7661-the-book-of-unwritten-tales-the-critter-chronicles.json) |
 | The Book of Warriors | 250259 | [250259-the-book-of-warriors.json](./250259-the-book-of-warriors.json) |
+| The Book of Watermarks | 127557 | [127557-the-book-of-watermarks.json](./127557-the-book-of-watermarks.json) |
 | The Book of Weapons | 197360 | [197360-the-book-of-weapons.json](./197360-the-book-of-weapons.json) |
 | The Book of Yorle: Save the Countryside | 174154 | [174154-the-book-of-yorle-save-the-countryside.json](./174154-the-book-of-yorle-save-the-countryside.json) |
 | The Book of Yorle: Save the Kingdom | 172065 | [172065-the-book-of-yorle-save-the-kingdom.json](./172065-the-book-of-yorle-save-the-kingdom.json) |
@@ -25437,7 +25438,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: West Cornwall Local: Penzance - St Austell & St Ives Route | 359494 | [359494-train-sim-world-5-west-cornwall-local-penzance-st-austell-and-st-ives-route.json](./359494-train-sim-world-5-west-cornwall-local-penzance-st-austell-and-st-ives-route.json) |
 | Train Sim World 5: West Cornwall Steam Railtour Add-On | 359504 | [359504-train-sim-world-5-west-cornwall-steam-railtour-add-on.json](./359504-train-sim-world-5-west-cornwall-steam-railtour-add-on.json) |
 | Train Sim World 5: West Somerset Railway Route Add-On | 359490 | [359490-train-sim-world-5-west-somerset-railway-route-add-on.json](./359490-train-sim-world-5-west-somerset-railway-route-add-on.json) |
-| Train Sim World 6 | 363370 | [363370-train-sim-world-6.json](./363370-train-sim-world-6.json) |
 | Train Sim World 6: BR Class 90 Electric Freight Loco | 396521 | [396521-train-sim-world-6-br-class-90-electric-freight-loco.json](./396521-train-sim-world-6-br-class-90-electric-freight-loco.json) |
 | Train Sim World 6: Cargo Line Vol. 6 - Gas | 412420 | [412420-train-sim-world-6-cargo-line-vol-6-gas.json](./412420-train-sim-world-6-cargo-line-vol-6-gas.json) |
 | Train Sim World 6: Schnellfahrstrecke Nürnberg - Ingolstadt Route Add-On | 412417 | [412417-train-sim-world-6-schnellfahrstrecke-nurnberg-ingolstadt-route-add-on.json](./412417-train-sim-world-6-schnellfahrstrecke-nurnberg-ingolstadt-route-add-on.json) |
