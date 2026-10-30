@@ -2039,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 5: Digital Deluxe Edition | 118709 | [118709-far-cry-5-digital-deluxe-edition.json](./118709-far-cry-5-digital-deluxe-edition.json) |
 | Far Cry 5: Digital Gold Edition | 118710 | [118710-far-cry-5-digital-gold-edition.json](./118710-far-cry-5-digital-gold-edition.json) |
 | Far Cry 5: Gold Edition | 53011 | [53011-far-cry-5-gold-edition.json](./53011-far-cry-5-gold-edition.json) |
+| Far Cry 5: Gold Edition + Far Cry: New Dawn - Deluxe Edition Bundle | 164718 | [164718-far-cry-5-gold-edition-far-cry-new-dawn-deluxe-edition-bundle.json](./164718-far-cry-5-gold-edition-far-cry-new-dawn-deluxe-edition-bundle.json) |
 | Far Cry 5: Resistance Edition | 83887 | [83887-far-cry-5-resistance-edition.json](./83887-far-cry-5-resistance-edition.json) |
 | Far Cry 5: The Father Edition | 83886 | [83886-far-cry-5-the-father-edition.json](./83886-far-cry-5-the-father-edition.json) |
 | Far Cry 6: Collapse | 182123 | [182123-far-cry-6-collapse.json](./182123-far-cry-6-collapse.json) |
@@ -5562,6 +5563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firework Simulator | 234281 | [234281-firework-simulator.json](./234281-firework-simulator.json) |
 | Firework Survivor | 283843 | [283843-firework-survivor.json](./283843-firework-survivor.json) |
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
+| Firework: A Modern Tale | 164744 | [164744-firework-a-modern-tale.json](./164744-firework-a-modern-tale.json) |
 | Fireworks | 216066 | [216066-fireworks.json](./216066-fireworks.json) |
 | Fireworks | 78085 | [78085-fireworks.json](./78085-fireworks.json) |
 | Fireworks Extravaganza | 57611 | [57611-fireworks-extravaganza.json](./57611-fireworks-extravaganza.json) |
@@ -5977,6 +5979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Sim World: Pro Tour - Talon Fishery | 170475 | [170475-fishing-sim-world-pro-tour-talon-fishery.json](./170475-fishing-sim-world-pro-tour-talon-fishery.json) |
 | Fishing Sim World: Pro Tour - Tournament Bass Pack | 156156 | [156156-fishing-sim-world-pro-tour-tournament-bass-pack.json](./156156-fishing-sim-world-pro-tour-tournament-bass-pack.json) |
 | Fishing Sim World: Pro Tour - Trophy Hunter's Equipment Pack | 170483 | [170483-fishing-sim-world-pro-tour-trophy-hunters-equipment-pack.json](./170483-fishing-sim-world-pro-tour-trophy-hunters-equipment-pack.json) |
+| Fishing Sim World: Pro Tour + The Catch: Carp & Coarse | 164731 | [164731-fishing-sim-world-pro-tour-the-catch-carp-and-coarse.json](./164731-fishing-sim-world-pro-tour-the-catch-carp-and-coarse.json) |
 | Fishing Simulator | 109306 | [109306-fishing-simulator.json](./109306-fishing-simulator.json) |
 | Fishing Simulator | 202042 | [202042-fishing-simulator.json](./202042-fishing-simulator.json) |
 | Fishing Simulator 2025 | 345120 | [345120-fishing-simulator-2025.json](./345120-fishing-simulator-2025.json) |
