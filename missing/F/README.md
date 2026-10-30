@@ -10535,6 +10535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fremdganger: The Cheating Demon | 240297 | [240297-fremdganger-the-cheating-demon.json](./240297-fremdganger-the-cheating-demon.json) |
 | French Crime | 132048 | [132048-french-crime.json](./132048-french-crime.json) |
 | French Fries Pusher Friends | 285937 | [285937-french-fries-pusher-friends.json](./285937-french-fries-pusher-friends.json) |
+| French Meat | 143290 | [143290-french-meat.json](./143290-french-meat.json) |
 | French with Rayman | 193346 | [193346-french-with-rayman.json](./193346-french-with-rayman.json) |
 | Frenesis | 47146 | [47146-frenesis.json](./47146-frenesis.json) |
 | Frenetika | 372083 | [372083-frenetika.json](./372083-frenetika.json) |
