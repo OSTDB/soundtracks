@@ -5342,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Burden | 291892 | [291892-eternal-burden.json](./291892-eternal-burden.json) |
 | Eternal Card Game | 31198 | [31198-eternal-card-game.json](./31198-eternal-card-game.json) |
 | Eternal Carnival | 390284 | [390284-eternal-carnival.json](./390284-eternal-carnival.json) |
+| Eternal Cave Escape | 163122 | [163122-eternal-cave-escape.json](./163122-eternal-cave-escape.json) |
 | Eternal Chamber | 422463 | [422463-eternal-chamber.json](./422463-eternal-chamber.json) |
 | Eternal Champions | 4477 | [4477-eternal-champions.json](./4477-eternal-champions.json) |
 | Eternal Champions: Challenge from the Dark Side | 5383 | [5383-eternal-champions-challenge-from-the-dark-side.json](./5383-eternal-champions-challenge-from-the-dark-side.json) |
