@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cozy Classics: Color Lines | 379467 | [379467-a-cozy-classics-color-lines.json](./379467-a-cozy-classics-color-lines.json) |
 | A Crazy Guy | 251010 | [251010-a-crazy-guy.json](./251010-a-crazy-guy.json) |
 | A Creature's Journey | 260560 | [260560-a-creatures-journey.json](./260560-a-creatures-journey.json) |
+| A credit card | 176659 | [176659-a-credit-card.json](./176659-a-credit-card.json) |
 | A Crooked Heart | 142335 | [142335-a-crooked-heart.json](./142335-a-crooked-heart.json) |
 | A Crow in Hell | 393519 | [393519-a-crow-in-hell.json](./393519-a-crow-in-hell.json) |
 | A Crow in Hell 2 | 393520 | [393520-a-crow-in-hell-2.json](./393520-a-crow-in-hell-2.json) |
@@ -14283,6 +14284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrophobia | 421183 | [421183-astrophobia.json](./421183-astrophobia.json) |
 | Astroplanet | 348178 | [348178-astroplanet.json](./348178-astroplanet.json) |
 | Astroplatformer | 121260 | [121260-astroplatformer.json](./121260-astroplatformer.json) |
+| Astropocalypse | 176621 | [176621-astropocalypse.json](./176621-astropocalypse.json) |
 | Astropocalypse | 289033 | [289033-astropocalypse.json](./289033-astropocalypse.json) |
 | Astropods: Starside Glaze | 316076 | [316076-astropods-starside-glaze.json](./316076-astropods-starside-glaze.json) |
 | AstroPop | 3755 | [3755-astropop.json](./3755-astropop.json) |
