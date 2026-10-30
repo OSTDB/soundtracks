@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Spinning | 179441 | [179441-keep-spinning.json](./179441-keep-spinning.json) |
 | Keep Talk Until You Dead | 151488 | [151488-keep-talk-until-you-dead.json](./151488-keep-talk-until-you-dead.json) |
 | Keep Talking and Nobody Explodes | 13226 | [13226-keep-talking-and-nobody-explodes.json](./13226-keep-talking-and-nobody-explodes.json) |
+| Keep the Balance | 161550 | [161550-keep-the-balance.json](./161550-keep-the-balance.json) |
 | Keep the Balance | 50038 | [50038-keep-the-balance.json](./50038-keep-the-balance.json) |
 | Keep the Beat | 359325 | [359325-keep-the-beat.json](./359325-keep-the-beat.json) |
 | Keep The Beat | 381598 | [381598-keep-the-beat.json](./381598-keep-the-beat.json) |
