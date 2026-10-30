@@ -3608,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Festival of the Spirit | 183541 | [183541-festival-of-the-spirit.json](./183541-festival-of-the-spirit.json) |
 | Festival Tycoon | 138468 | [138468-festival-tycoon.json](./138468-festival-tycoon.json) |
 | Festival Tycoon: Water for All! | 226701 | [226701-festival-tycoon-water-for-all.json](./226701-festival-tycoon-water-for-all.json) |
+| Festivals: Headliners | 173949 | [173949-festivals-headliners.json](./173949-festivals-headliners.json) |
 | Festive Themed Santa Killer Simulator | 408120 | [408120-festive-themed-santa-killer-simulator.json](./408120-festive-themed-santa-killer-simulator.json) |
 | Fetch | 206052 | [206052-fetch.json](./206052-fetch.json) |
 | Fetch | 30730 | [30730-fetch.json](./30730-fetch.json) |
@@ -8859,6 +8860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Waters | 258536 | [258536-forgotten-waters.json](./258536-forgotten-waters.json) |
 | Forgotten Worlds | 6794 | [6794-forgotten-worlds.json](./6794-forgotten-worlds.json) |
 | Forgotten, Not Lost - A Kinetic Novel | 33132 | [33132-forgotten-not-lost-a-kinetic-novel.json](./33132-forgotten-not-lost-a-kinetic-novel.json) |
+| Forgotten: The Game | 173967 | [173967-forgotten-the-game.json](./173967-forgotten-the-game.json) |
 | Forgotten: Whispers From Ashes | 373194 | [373194-forgotten-whispers-from-ashes.json](./373194-forgotten-whispers-from-ashes.json) |
 | Fork Frog | 350438 | [350438-fork-frog.json](./350438-fork-frog.json) |
 | Fork in the Road | 294155 | [294155-fork-in-the-road.json](./294155-fork-in-the-road.json) |
