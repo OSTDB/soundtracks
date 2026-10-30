@@ -3711,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlebots | 198698 | [198698-battlebots.json](./198698-battlebots.json) |
 | Battlebots | 200686 | [200686-battlebots.json](./200686-battlebots.json) |
 | Battlecade | 276256 | [276256-battlecade.json](./276256-battlecade.json) |
+| BattleCakes | 133006 | [133006-battlecakes.json](./133006-battlecakes.json) |
 | BattleCap | 302105 | [302105-battlecap.json](./302105-battlecap.json) |
 | BattleCards Saga | 319716 | [319716-battlecards-saga.json](./319716-battlecards-saga.json) |
 | Battlecaster | 188670 | [188670-battlecaster.json](./188670-battlecaster.json) |
@@ -6412,6 +6413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Titanic | 73704 | [73704-beyond-the-titanic.json](./73704-beyond-the-titanic.json) |
 | Beyond the Underworld | 133371 | [133371-beyond-the-underworld.json](./133371-beyond-the-underworld.json) |
 | Beyond the Unknown: A Matter of Time - Collector's Edition | 417302 | [417302-beyond-the-unknown-a-matter-of-time-collectors-edition.json](./417302-beyond-the-unknown-a-matter-of-time-collectors-edition.json) |
+| Beyond the Veil | 132988 | [132988-beyond-the-veil.json](./132988-beyond-the-veil.json) |
 | Beyond the Veil: A Kitty Cat Mystery Adventure | 249403 | [249403-beyond-the-veil-a-kitty-cat-mystery-adventure.json](./249403-beyond-the-veil-a-kitty-cat-mystery-adventure.json) |
 | Beyond the Void | 72375 | [72375-beyond-the-void.json](./72375-beyond-the-void.json) |
 | Beyond the Wall | 219941 | [219941-beyond-the-wall.json](./219941-beyond-the-wall.json) |
@@ -6761,6 +6763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Huggin' | 63113 | [63113-big-huggin.json](./63113-big-huggin.json) |
 | Big Hunt | 329021 | [329021-big-hunt.json](./329021-big-hunt.json) |
 | Big Hunt: Paint Town Black Red | 107009 | [107009-big-hunt-paint-town-black-red.json](./107009-big-hunt-paint-town-black-red.json) |
+| Big Hunter | 133028 | [133028-big-hunter.json](./133028-big-hunter.json) |
 | Big Ice Tower Tiny Square | 212887 | [212887-big-ice-tower-tiny-square.json](./212887-big-ice-tower-tiny-square.json) |
 | Big Ichigeki! Pachi-Slot Daikouryaku | 38158 | [38158-big-ichigeki-pachi-slot-daikouryaku.json](./38158-big-ichigeki-pachi-slot-daikouryaku.json) |
 | Big Ichigeki! Pachi-Slot Daikouryaku 2: Universal Collection | 38157 | [38157-big-ichigeki-pachi-slot-daikouryaku-2-universal-collection.json](./38157-big-ichigeki-pachi-slot-daikouryaku-2-universal-collection.json) |
@@ -7625,6 +7628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds'n'Blocks | 88843 | [88843-birdsnblocks.json](./88843-birdsnblocks.json) |
 | Birds'n'Blocks 2 | 87694 | [87694-birdsnblocks-2.json](./87694-birdsnblocks-2.json) |
 | BirdsBorough: Town of Alchemy | 214368 | [214368-birdsborough-town-of-alchemy.json](./214368-birdsborough-town-of-alchemy.json) |
+| Birdsong | 133016 | [133016-birdsong.json](./133016-birdsong.json) |
 | Birdtale | 284002 | [284002-birdtale.json](./284002-birdtale.json) |
 | Birdteeth | 362240 | [362240-birdteeth.json](./362240-birdteeth.json) |
 | Birdtual Reality | 31771 | [31771-birdtual-reality.json](./31771-birdtual-reality.json) |
@@ -8257,6 +8261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Sign | 145592 | [145592-black-sign.json](./145592-black-sign.json) |
 | Black silk girl | 278271 | [278271-black-silk-girl.json](./278271-black-silk-girl.json) |
 | Black Silk Girl | 259125 | [259125-black-silk-girl.json](./259125-black-silk-girl.json) |
+| Black Skylands: Origins | 133038 | [133038-black-skylands-origins.json](./133038-black-skylands-origins.json) |
 | Black Smith | 290334 | [290334-black-smith.json](./290334-black-smith.json) |
 | Black Smith 3 | 150641 | [150641-black-smith-3.json](./150641-black-smith-3.json) |
 | Black Smith 4 | 265774 | [265774-black-smith-4.json](./265774-black-smith-4.json) |
@@ -10931,6 +10936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodycamera FPS | 400174 | [400174-bodycamera-fps.json](./400174-bodycamera-fps.json) |
 | Bodycheck | 10666 | [10666-bodycheck.json](./10666-bodycheck.json) |
 | BodyConQuest I: Abakareshi Musume-tachi | 41238 | [41238-bodyconquest-i-abakareshi-musume-tachi.json](./41238-bodyconquest-i-abakareshi-musume-tachi.json) |
+| BodyConQuest II: Kyuuseishu | 133019 | [133019-bodyconquest-ii-kyuuseishu.json](./133019-bodyconquest-ii-kyuuseishu.json) |
 | Bodyconscious Digital Rave! Part 1: Shinjuku & Takashi | 245249 | [245249-bodyconscious-digital-rave-part-1-shinjuku-and-takashi.json](./245249-bodyconscious-digital-rave-part-1-shinjuku-and-takashi.json) |
 | Bodycount | 6924 | [6924-bodycount.json](./6924-bodycount.json) |
 | Bodyguard Task Force | 291252 | [291252-bodyguard-task-force.json](./291252-bodyguard-task-force.json) |
@@ -12956,6 +12962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Damage | 239192 | [239192-brain-damage.json](./239192-brain-damage.json) |
 | Brain Damage | 243591 | [243591-brain-damage.json](./243591-brain-damage.json) |
 | Brain Deluxe | 68641 | [68641-brain-deluxe.json](./68641-brain-deluxe.json) |
+| Brain Dots | 133030 | [133030-brain-dots.json](./133030-brain-dots.json) |
 | Brain Dots: Draw and Solve | 104701 | [104701-brain-dots-draw-and-solve.json](./104701-brain-dots-draw-and-solve.json) |
 | Brain Drain | 210267 | [210267-brain-drain.json](./210267-brain-drain.json) |
 | Brain Drain | 210268 | [210268-brain-drain.json](./210268-brain-drain.json) |
@@ -16384,6 +16391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly 2 | 117550 | [117550-butterfly-2.json](./117550-butterfly-2.json) |
 | Butterfly 3: Funny Twins | 153340 | [153340-butterfly-3-funny-twins.json](./153340-butterfly-3-funny-twins.json) |
 | Butterfly Æffect: Papillons à Quatre Mains | 381148 | [381148-butterfly-ffect-papillons-a-quatre-mains.json](./381148-butterfly-ffect-papillons-a-quatre-mains.json) |
+| Butterfly Affection | 133002 | [133002-butterfly-affection.json](./133002-butterfly-affection.json) |
 | Butterfly again | 266087 | [266087-butterfly-again.json](./266087-butterfly-again.json) |
 | Butterfly Bundle | 218489 | [218489-butterfly-bundle.json](./218489-butterfly-bundle.json) |
 | Butterfly Collector | 183536 | [183536-butterfly-collector.json](./183536-butterfly-collector.json) |
