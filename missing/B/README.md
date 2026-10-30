@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bachelorette Party | 40640 | [40640-bachelorette-party.json](./40640-bachelorette-party.json) |
 | Bachi-bachi Pawer | 376882 | [376882-bachi-bachi-pawer.json](./376882-bachi-bachi-pawer.json) |
 | Back | 309502 | [309502-back.json](./309502-back.json) |
+| Back & Forth | 136656 | [136656-back-and-forth.json](./136656-back-and-forth.json) |
 | Back & Forth 2 | 263586 | [263586-back-and-forth-2.json](./263586-back-and-forth-2.json) |
 | Back 2 School | 192417 | [192417-back-2-school.json](./192417-back-2-school.json) |
 | Back 3: Spooky | 359535 | [359535-back-3-spooky.json](./359535-back-3-spooky.json) |
@@ -860,7 +861,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11052,6 +11052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku no Tennis Jinsei | 69362 | [69362-boku-no-tennis-jinsei.json](./69362-boku-no-tennis-jinsei.json) |
 | Boku no Tsuri Monogatari | 196563 | [196563-boku-no-tsuri-monogatari.json](./196563-boku-no-tsuri-monogatari.json) |
 | Boku to Iu Mono | 325731 | [325731-boku-to-iu-mono.json](./325731-boku-to-iu-mono.json) |
+| Boku to Joi no Shinsatsu Nisshi | 136653 | [136653-boku-to-joi-no-shinsatsu-nisshi.json](./136653-boku-to-joi-no-shinsatsu-nisshi.json) |
 | Boku to Joi no Shinsatsu Nisshi [Nurse Enjoy Pack] | 146110 | [146110-boku-to-joi-no-shinsatsu-nisshi-nurse-enjoy-pack.json](./146110-boku-to-joi-no-shinsatsu-nisshi-nurse-enjoy-pack.json) |
 | Boku to Joi no Shinsatsu Nisshi: Premium Edition | 146113 | [146113-boku-to-joi-no-shinsatsu-nisshi-premium-edition.json](./146113-boku-to-joi-no-shinsatsu-nisshi-premium-edition.json) |
 | Boku to Kanojo no Gohoushi Dousei | 402723 | [402723-boku-to-kanojo-no-gohoushi-dousei.json](./402723-boku-to-kanojo-no-gohoushi-dousei.json) |
