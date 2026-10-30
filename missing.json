@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T11:04:48.747Z",
-  "total_missing": 283748,
+  "generated_at": "2026-10-30T11:19:09.962Z",
+  "total_missing": 283798,
   "games": [
     {
       "igdb_id": 191680,
@@ -10255,6 +10255,11 @@
       "igdb_id": 83365,
       "game_name": "3D Golf",
       "file": "missing/0-9/83365-3d-golf.json"
+    },
+    {
+      "igdb_id": 152608,
+      "game_name": "3D Grand Prix",
+      "file": "missing/0-9/152608-3d-grand-prix.json"
     },
     {
       "igdb_id": 102974,
@@ -114597,6 +114602,11 @@
       "file": "missing/B/358285-battle-line-the-rise-of-war.json"
     },
     {
+      "igdb_id": 152615,
+      "game_name": "Battle Lust",
+      "file": "missing/B/152615-battle-lust.json"
+    },
+    {
       "igdb_id": 236729,
       "game_name": "Battle Mage",
       "file": "missing/B/236729-battle-mage.json"
@@ -115405,6 +115415,11 @@
       "igdb_id": 308027,
       "game_name": "Battle Robots: Confrontation",
       "file": "missing/B/308027-battle-robots-confrontation.json"
+    },
+    {
+      "igdb_id": 152567,
+      "game_name": "Battle Rollers",
+      "file": "missing/B/152567-battle-rollers.json"
     },
     {
       "igdb_id": 127016,
@@ -126600,6 +126615,11 @@
       "igdb_id": 173299,
       "game_name": "Beneath the Mountain",
       "file": "missing/B/173299-beneath-the-mountain.json"
+    },
+    {
+      "igdb_id": 152610,
+      "game_name": "Beneath the Nexus",
+      "file": "missing/B/152610-beneath-the-nexus.json"
     },
     {
       "igdb_id": 280883,
@@ -151845,6 +151865,11 @@
       "igdb_id": 357437,
       "game_name": "Bodies Left Behind",
       "file": "missing/B/357437-bodies-left-behind.json"
+    },
+    {
+      "igdb_id": 152596,
+      "game_name": "Bodies of Water VR",
+      "file": "missing/B/152596-bodies-of-water-vr.json"
     },
     {
       "igdb_id": 25189,
@@ -189407,14 +189432,74 @@
       "file": "missing/C/7571-car-mechanic-simulator-2014.json"
     },
     {
+      "igdb_id": 152590,
+      "game_name": "Car Mechanic Simulator 2015: Bentley",
+      "file": "missing/C/152590-car-mechanic-simulator-2015-bentley.json"
+    },
+    {
+      "igdb_id": 152591,
+      "game_name": "Car Mechanic Simulator 2015: Car Stripping",
+      "file": "missing/C/152591-car-mechanic-simulator-2015-car-stripping.json"
+    },
+    {
+      "igdb_id": 152589,
+      "game_name": "Car Mechanic Simulator 2015: DeLorean",
+      "file": "missing/C/152589-car-mechanic-simulator-2015-delorean.json"
+    },
+    {
       "igdb_id": 24753,
       "game_name": "Car Mechanic Simulator 2015: Gold Edition",
       "file": "missing/C/24753-car-mechanic-simulator-2015-gold-edition.json"
     },
     {
+      "igdb_id": 152587,
+      "game_name": "Car Mechanic Simulator 2015: Maserati",
+      "file": "missing/C/152587-car-mechanic-simulator-2015-maserati.json"
+    },
+    {
+      "igdb_id": 152586,
+      "game_name": "Car Mechanic Simulator 2015: Performance",
+      "file": "missing/C/152586-car-mechanic-simulator-2015-performance.json"
+    },
+    {
+      "igdb_id": 152593,
+      "game_name": "Car Mechanic Simulator 2015: PickUp & SUV",
+      "file": "missing/C/152593-car-mechanic-simulator-2015-pickup-and-suv.json"
+    },
+    {
+      "igdb_id": 152588,
+      "game_name": "Car Mechanic Simulator 2015: Total Modifications",
+      "file": "missing/C/152588-car-mechanic-simulator-2015-total-modifications.json"
+    },
+    {
+      "igdb_id": 152584,
+      "game_name": "Car Mechanic Simulator 2015: Trader Pack",
+      "file": "missing/C/152584-car-mechanic-simulator-2015-trader-pack.json"
+    },
+    {
+      "igdb_id": 152592,
+      "game_name": "Car Mechanic Simulator 2015: Visual Tuning",
+      "file": "missing/C/152592-car-mechanic-simulator-2015-visual-tuning.json"
+    },
+    {
+      "igdb_id": 152585,
+      "game_name": "Car Mechanic Simulator 2015: Youngtimer",
+      "file": "missing/C/152585-car-mechanic-simulator-2015-youngtimer.json"
+    },
+    {
       "igdb_id": 40470,
       "game_name": "Car Mechanic Simulator 2018",
       "file": "missing/C/40470-car-mechanic-simulator-2018.json"
+    },
+    {
+      "igdb_id": 152582,
+      "game_name": "Car Mechanic Simulator 2018: Pagani",
+      "file": "missing/C/152582-car-mechanic-simulator-2018-pagani.json"
+    },
+    {
+      "igdb_id": 152583,
+      "game_name": "Car Mechanic Simulator 2018: Rims",
+      "file": "missing/C/152583-car-mechanic-simulator-2018-rims.json"
     },
     {
       "igdb_id": 152604,
@@ -200177,6 +200262,11 @@
       "file": "missing/C/319342-cats-and-dice.json"
     },
     {
+      "igdb_id": 152609,
+      "game_name": "Cats & Dogs: The Revenge of Kitty Galore",
+      "file": "missing/C/152609-cats-and-dogs-the-revenge-of-kitty-galore.json"
+    },
+    {
       "igdb_id": 174818,
       "game_name": "Cats & Soup",
       "file": "missing/C/174818-cats-and-soup.json"
@@ -210087,6 +210177,11 @@
       "file": "missing/C/159534-chess-valley.json"
     },
     {
+      "igdb_id": 152577,
+      "game_name": "Chess Valley 2",
+      "file": "missing/C/152577-chess-valley-2.json"
+    },
+    {
       "igdb_id": 203930,
       "game_name": "Chess vs. Chat",
       "file": "missing/C/203930-chess-vs-chat.json"
@@ -218320,6 +218415,11 @@
       "igdb_id": 163224,
       "game_name": "Church of Stratum",
       "file": "missing/C/163224-church-of-stratum.json"
+    },
+    {
+      "igdb_id": 152599,
+      "game_name": "Church of the Midnight Sailor",
+      "file": "missing/C/152599-church-of-the-midnight-sailor.json"
     },
     {
       "igdb_id": 312878,
@@ -263937,6 +264037,11 @@
       "file": "missing/C/70874-cube-battler-debugger-shou-hen.json"
     },
     {
+      "igdb_id": 152613,
+      "game_name": "Cube Blast: Match",
+      "file": "missing/C/152613-cube-blast-match.json"
+    },
+    {
       "igdb_id": 418208,
       "game_name": "Cube Boy",
       "file": "missing/C/418208-cube-boy.json"
@@ -273875,6 +273980,11 @@
       "igdb_id": 8132,
       "game_name": "Daffy Duck: The Marvin Missions",
       "file": "missing/D/8132-daffy-duck-the-marvin-missions.json"
+    },
+    {
+      "igdb_id": 152570,
+      "game_name": "Daffy Fish",
+      "file": "missing/D/152570-daffy-fish.json"
     },
     {
       "igdb_id": 180220,
@@ -300977,6 +301087,11 @@
       "file": "missing/D/303469-demon-crush.json"
     },
     {
+      "igdb_id": 152578,
+      "game_name": "Demon Cycle",
+      "file": "missing/D/152578-demon-cycle.json"
+    },
+    {
       "igdb_id": 239530,
       "game_name": "Demon Dash",
       "file": "missing/D/239530-demon-dash.json"
@@ -301980,6 +302095,11 @@
       "igdb_id": 17813,
       "game_name": "Demonlisher",
       "file": "missing/D/17813-demonlisher.json"
+    },
+    {
+      "igdb_id": 152568,
+      "game_name": "Demonlore",
+      "file": "missing/D/152568-demonlore.json"
     },
     {
       "igdb_id": 319659,
@@ -308875,6 +308995,11 @@
       "igdb_id": 343817,
       "game_name": "DevilDark: The Fallen Kingdom",
       "file": "missing/D/343817-devildark-the-fallen-kingdom.json"
+    },
+    {
+      "igdb_id": 152576,
+      "game_name": "Devileader",
+      "file": "missing/D/152576-devileader.json"
     },
     {
       "igdb_id": 262290,
@@ -384232,6 +384357,11 @@
       "file": "missing/E/96928-escape-with-monet.json"
     },
     {
+      "igdb_id": 152581,
+      "game_name": "Escape Within",
+      "file": "missing/E/152581-escape-within.json"
+    },
+    {
       "igdb_id": 208665,
       "game_name": "Escape Yourself",
       "file": "missing/E/208665-escape-yourself.json"
@@ -400160,6 +400290,11 @@
       "igdb_id": 88490,
       "game_name": "Fairy: Paint by Numbers",
       "file": "missing/F/88490-fairy-paint-by-numbers.json"
+    },
+    {
+      "igdb_id": 152598,
+      "game_name": "Fairyfail",
+      "file": "missing/F/152598-fairyfail.json"
     },
     {
       "igdb_id": 413711,
@@ -476112,6 +476247,11 @@
       "file": "missing/G/320446-ghost-assassin-stealth-strike.json"
     },
     {
+      "igdb_id": 152572,
+      "game_name": "Ghost Battalion",
+      "file": "missing/G/152572-ghost-battalion.json"
+    },
+    {
       "igdb_id": 414842,
       "game_name": "Ghost Battalion",
       "file": "missing/G/414842-ghost-battalion.json"
@@ -492272,6 +492412,11 @@
       "file": "missing/G/384780-goryuujin-electro.json"
     },
     {
+      "igdb_id": 152601,
+      "game_name": "Gos Castle Runner",
+      "file": "missing/G/152601-gos-castle-runner.json"
+    },
+    {
       "igdb_id": 295854,
       "game_name": "GOS: Gain Of Squad",
       "file": "missing/G/295854-gos-gain-of-squad.json"
@@ -498845,6 +498990,11 @@
       "igdb_id": 178858,
       "game_name": "Greedy",
       "file": "missing/G/178858-greedy.json"
+    },
+    {
+      "igdb_id": 152580,
+      "game_name": "Greedy Bubble",
+      "file": "missing/G/152580-greedy-bubble.json"
     },
     {
       "igdb_id": 264171,
@@ -616022,6 +616172,11 @@
       "file": "missing/J/406704-jurassic-world-evolution-3-deluxe-edition.json"
     },
     {
+      "igdb_id": 152605,
+      "game_name": "Jurassic World Evolution: Carnivore Dinosaur Pack",
+      "file": "missing/J/152605-jurassic-world-evolution-carnivore-dinosaur-pack.json"
+    },
+    {
       "igdb_id": 113368,
       "game_name": "Jurassic World Evolution: Cretaceous Dinosaur Pack",
       "file": "missing/J/113368-jurassic-world-evolution-cretaceous-dinosaur-pack.json"
@@ -616040,6 +616195,16 @@
       "igdb_id": 164587,
       "game_name": "Jurassic World Evolution: Expansion Collection",
       "file": "missing/J/164587-jurassic-world-evolution-expansion-collection.json"
+    },
+    {
+      "igdb_id": 152607,
+      "game_name": "Jurassic World Evolution: Herbivore Dinosaur Pack",
+      "file": "missing/J/152607-jurassic-world-evolution-herbivore-dinosaur-pack.json"
+    },
+    {
+      "igdb_id": 152606,
+      "game_name": "Jurassic World Evolution: Raptor Squad Skin Collection",
+      "file": "missing/J/152606-jurassic-world-evolution-raptor-squad-skin-collection.json"
     },
     {
       "igdb_id": 140515,
@@ -634690,6 +634855,11 @@
       "igdb_id": 151604,
       "game_name": "Kirakira Stars Idol Project Ai",
       "file": "missing/K/151604-kirakira-stars-idol-project-ai.json"
+    },
+    {
+      "igdb_id": 152614,
+      "game_name": "Kirakira Stars Idol Project Nagisa",
+      "file": "missing/K/152614-kirakira-stars-idol-project-nagisa.json"
     },
     {
       "igdb_id": 153830,
@@ -687805,6 +687975,11 @@
       "igdb_id": 202933,
       "game_name": "Lucid Dream",
       "file": "missing/L/202933-lucid-dream.json"
+    },
+    {
+      "igdb_id": 152573,
+      "game_name": "Lucid Dream Simulator",
+      "file": "missing/L/152573-lucid-dream-simulator.json"
     },
     {
       "igdb_id": 403918,
@@ -757017,6 +757192,11 @@
       "file": "missing/M/146518-mochi-in-frosting.json"
     },
     {
+      "igdb_id": 152602,
+      "game_name": "Mochi Jump",
+      "file": "missing/M/152602-mochi-jump.json"
+    },
+    {
       "igdb_id": 280647,
       "game_name": "Mochi Jump",
       "file": "missing/M/280647-mochi-jump.json"
@@ -772977,6 +773157,11 @@
       "file": "missing/M/66984-mouse-house.json"
     },
     {
+      "igdb_id": 152565,
+      "game_name": "Mouse Hunter",
+      "file": "missing/M/152565-mouse-hunter.json"
+    },
+    {
       "igdb_id": 54227,
       "game_name": "Mouse in a Stew",
       "file": "missing/M/54227-mouse-in-a-stew.json"
@@ -773205,6 +773390,11 @@
       "igdb_id": 231625,
       "game_name": "Mousey",
       "file": "missing/M/231625-mousey.json"
+    },
+    {
+      "igdb_id": 152575,
+      "game_name": "Mousey Mick",
+      "file": "missing/M/152575-mousey-mick.json"
     },
     {
       "igdb_id": 92433,
@@ -809775,6 +809965,11 @@
       "igdb_id": 225672,
       "game_name": "Niflheim Academy",
       "file": "missing/N/225672-niflheim-academy.json"
+    },
+    {
+      "igdb_id": 152594,
+      "game_name": "Niflhel Survival",
+      "file": "missing/N/152594-niflhel-survival.json"
     },
     {
       "igdb_id": 199315,
@@ -954947,6 +955142,11 @@
       "file": "missing/R/223953-rc-robot-adventure-game.json"
     },
     {
+      "igdb_id": 152566,
+      "game_name": "RC Rush",
+      "file": "missing/R/152566-rc-rush.json"
+    },
+    {
       "igdb_id": 369554,
       "game_name": "RC SIM 2022",
       "file": "missing/R/369554-rc-sim-2022.json"
@@ -955540,6 +955740,11 @@
       "igdb_id": 138021,
       "game_name": "Re:Turn - One Way Trip",
       "file": "missing/R/138021-re-turn-one-way-trip.json"
+    },
+    {
+      "igdb_id": 152611,
+      "game_name": "Re:Turn 2 - Runaway",
+      "file": "missing/R/152611-re-turn-2-runaway.json"
     },
     {
       "igdb_id": 327755,
@@ -977210,6 +977415,11 @@
       "igdb_id": 37051,
       "game_name": "Riley Short: Analog Boy - Episode 1",
       "file": "missing/R/37051-riley-short-analog-boy-episode-1.json"
+    },
+    {
+      "igdb_id": 152597,
+      "game_name": "Riley Short: Sibling Circuitry",
+      "file": "missing/R/152597-riley-short-sibling-circuitry.json"
     },
     {
       "igdb_id": 311701,
@@ -1014062,6 +1014272,11 @@
       "file": "missing/S/419908-scarlets-last-call.json"
     },
     {
+      "igdb_id": 152603,
+      "game_name": "Scarleth",
+      "file": "missing/S/152603-scarleth.json"
+    },
+    {
       "igdb_id": 258869,
       "game_name": "Scarlett",
       "file": "missing/S/258869-scarlett.json"
@@ -1025280,6 +1025495,11 @@
       "igdb_id": 265194,
       "game_name": "Selection I & II",
       "file": "missing/S/265194-selection-i-and-ii.json"
+    },
+    {
+      "igdb_id": 152595,
+      "game_name": "Selection Process",
+      "file": "missing/S/152595-selection-process.json"
     },
     {
       "igdb_id": 417511,
@@ -1246332,6 +1246552,11 @@
       "file": "missing/T/89639-the-villa-allisons-diary.json"
     },
     {
+      "igdb_id": 152571,
+      "game_name": "The Village",
+      "file": "missing/T/152571-the-village.json"
+    },
+    {
       "igdb_id": 168634,
       "game_name": "The Village",
       "file": "missing/T/168634-the-village.json"
@@ -1321147,6 +1321372,11 @@
       "file": "missing/U/278503-undead-rise-of-betrayed-king.json"
     },
     {
+      "igdb_id": 152564,
+      "game_name": "Undeadly",
+      "file": "missing/U/152564-undeadly.json"
+    },
+    {
       "igdb_id": 281913,
       "game_name": "Undeads",
       "file": "missing/U/281913-undeads.json"
@@ -1324935,6 +1325165,11 @@
       "igdb_id": 336994,
       "game_name": "Universe Dawn",
       "file": "missing/U/336994-universe-dawn.json"
+    },
+    {
+      "igdb_id": 152600,
+      "game_name": "Universe Generator: The Golden Sword",
+      "file": "missing/U/152600-universe-generator-the-golden-sword.json"
     },
     {
       "igdb_id": 286093,
@@ -1348335,6 +1348570,11 @@
       "igdb_id": 156676,
       "game_name": "VR Plane Crash",
       "file": "missing/V/156676-vr-plane-crash.json"
+    },
+    {
+      "igdb_id": 152579,
+      "game_name": "VR Plant Journey",
+      "file": "missing/V/152579-vr-plant-journey.json"
     },
     {
       "igdb_id": 196035,
@@ -1373900,6 +1374140,11 @@
       "igdb_id": 250437,
       "game_name": "Wildlife Hunter: Survival",
       "file": "missing/W/250437-wildlife-hunter-survival.json"
+    },
+    {
+      "igdb_id": 152612,
+      "game_name": "Wildlife Match",
+      "file": "missing/W/152612-wildlife-match.json"
     },
     {
       "igdb_id": 280438,
@@ -1408435,6 +1408680,11 @@
       "igdb_id": 255959,
       "game_name": "Zankoi's Chronicles",
       "file": "missing/Z/255959-zankois-chronicles.json"
+    },
+    {
+      "igdb_id": 152569,
+      "game_name": "Zannon",
+      "file": "missing/Z/152569-zannon.json"
     },
     {
       "igdb_id": 245748,
