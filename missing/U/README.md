@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbelievaboom! | 232815 | [232815-unbelievaboom.json](./232815-unbelievaboom.json) |
 | Unbeliever | 151431 | [151431-unbeliever.json](./151431-unbeliever.json) |
 | Unbeliever | 261438 | [261438-unbeliever.json](./261438-unbeliever.json) |
+| Unbinary | 129958 | [129958-unbinary.json](./129958-unbinary.json) |
 | Unbind | 112481 | [112481-unbind.json](./112481-unbind.json) |
 | Unbirth | 305418 | [305418-unbirth.json](./305418-unbirth.json) |
 | Unblade | 124586 | [124586-unblade.json](./124586-unblade.json) |
