@@ -14408,6 +14408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Advance IV | 269950 | [269950-crash-advance-iv.json](./269950-crash-advance-iv.json) |
 | Crash and Run | 238481 | [238481-crash-and-run.json](./238481-crash-and-run.json) |
 | Crash Bandicoot | 135449 | [135449-crash-bandicoot.json](./135449-crash-bandicoot.json) |
+| Crash Bandicoot | 148195 | [148195-crash-bandicoot.json](./148195-crash-bandicoot.json) |
 | Crash Bandicoot | 210243 | [210243-crash-bandicoot.json](./210243-crash-bandicoot.json) |
 | Crash Bandicoot 2: Cortex Strikes Back | 135450 | [135450-crash-bandicoot-2-cortex-strikes-back.json](./135450-crash-bandicoot-2-cortex-strikes-back.json) |
 | Crash Bandicoot 2: N-Tranced | 1198 | [1198-crash-bandicoot-2-n-tranced.json](./1198-crash-bandicoot-2-n-tranced.json) |
@@ -14426,6 +14427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot: Back In Time | 245695 | [245695-crash-bandicoot-back-in-time.json](./245695-crash-bandicoot-back-in-time.json) |
 | Crash Bandicoot: Crashiversary Bundle | 163177 | [163177-crash-bandicoot-crashiversary-bundle.json](./163177-crash-bandicoot-crashiversary-bundle.json) |
 | Crash Bandicoot: Kart Racing | 314655 | [314655-crash-bandicoot-kart-racing.json](./314655-crash-bandicoot-kart-racing.json) |
+| Crash Bandicoot: Mutant Island | 148198 | [148198-crash-bandicoot-mutant-island.json](./148198-crash-bandicoot-mutant-island.json) |
 | Crash Bandicoot: On the Run! | 132793 | [132793-crash-bandicoot-on-the-run.json](./132793-crash-bandicoot-on-the-run.json) |
 | Crash Bandicoot: Quadrilogy Bundle | 163176 | [163176-crash-bandicoot-quadrilogy-bundle.json](./163176-crash-bandicoot-quadrilogy-bundle.json) |
 | Crash Bandicoot: The Secret Place | 339944 | [339944-crash-bandicoot-the-secret-place.json](./339944-crash-bandicoot-the-secret-place.json) |
