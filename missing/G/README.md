@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Ball | 9238 | [9238-g-ball.json](./9238-g-ball.json) |
 | G-Darius | 39691 | [39691-g-darius.json](./39691-g-darius.json) |
 | G-Darius HD | 159018 | [159018-g-darius-hd.json](./159018-g-darius-hd.json) |
+| G-Darius Ver.2 | 145879 | [145879-g-darius-ver-2.json](./145879-g-darius-ver-2.json) |
 | G-Diffuser | 413108 | [413108-g-diffuser.json](./413108-g-diffuser.json) |
 | G-Dino's Jungle Adventure | 101630 | [101630-g-dinos-jungle-adventure.json](./101630-g-dinos-jungle-adventure.json) |
 | G-Force | 248561 | [248561-g-force.json](./248561-g-force.json) |
@@ -4341,6 +4342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gleylancer & Gynoug Combo Pack | 286566 | [286566-gleylancer-and-gynoug-combo-pack.json](./286566-gleylancer-and-gynoug-combo-pack.json) |
 | Gli Animotosi e la Macchina Motante | 213625 | [213625-gli-animotosi-e-la-macchina-motante.json](./213625-gli-animotosi-e-la-macchina-motante.json) |
 | Glib | 40672 | [40672-glib.json](./40672-glib.json) |
+| Glide | 145856 | [145856-glide.json](./145856-glide.json) |
 | Glide Collide | 96927 | [96927-glide-collide.json](./96927-glide-collide.json) |
 | Glide Hockey | 80149 | [80149-glide-hockey.json](./80149-glide-hockey.json) |
 | Glide Scramble Mechanic Star Shooting | 98045 | [98045-glide-scramble-mechanic-star-shooting.json](./98045-glide-scramble-mechanic-star-shooting.json) |
@@ -5506,6 +5508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla Balls | 360118 | [360118-godzilla-balls.json](./360118-godzilla-balls.json) |
 | Godzilla Creepypasta | 143491 | [143491-godzilla-creepypasta.json](./143491-godzilla-creepypasta.json) |
 | Godzilla Defense Force | 119058 | [119058-godzilla-defense-force.json](./119058-godzilla-defense-force.json) |
+| Godzilla Destruction | 145864 | [145864-godzilla-destruction.json](./145864-godzilla-destruction.json) |
 | Godzilla Generations | 45824 | [45824-godzilla-generations.json](./45824-godzilla-generations.json) |
 | Godzilla Generations Maximum Impact | 45823 | [45823-godzilla-generations-maximum-impact.json](./45823-godzilla-generations-maximum-impact.json) |
 | Godzilla Kaiju Wars Deluxe | 386235 | [386235-godzilla-kaiju-wars-deluxe.json](./386235-godzilla-kaiju-wars-deluxe.json) |
@@ -5514,6 +5517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla Unleashed: Double Smash | 21512 | [21512-godzilla-unleashed-double-smash.json](./21512-godzilla-unleashed-double-smash.json) |
 | Godzilla Voxel Wars | 264341 | [264341-godzilla-voxel-wars.json](./264341-godzilla-voxel-wars.json) |
 | Godzilla: Archipelago Shock | 75891 | [75891-godzilla-archipelago-shock.json](./75891-godzilla-archipelago-shock.json) |
+| Godzilla: Battle Line | 145860 | [145860-godzilla-battle-line.json](./145860-godzilla-battle-line.json) |
 | Godzilla: Destroy All Monsters Melee | 3935 | [3935-godzilla-destroy-all-monsters-melee.json](./3935-godzilla-destroy-all-monsters-melee.json) |
 | Godzilla: Destroy All Monsters Melee Remastered | 404939 | [404939-godzilla-destroy-all-monsters-melee-remastered.json](./404939-godzilla-destroy-all-monsters-melee-remastered.json) |
 | Godzilla: Doki-doki Kaijuu-tou!! | 75890 | [75890-godzilla-doki-doki-kaijuu-tou.json](./75890-godzilla-doki-doki-kaijuu-tou.json) |
