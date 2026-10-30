@@ -11541,6 +11541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slamjet Stadium | 194187 | [194187-slamjet-stadium.json](./194187-slamjet-stadium.json) |
 | Slammer Caps Xtreme | 358854 | [358854-slammer-caps-xtreme.json](./358854-slammer-caps-xtreme.json) |
 | Slampunks | 360759 | [360759-slampunks.json](./360759-slampunks.json) |
+| Slams City. Hitler's Escape. | 151414 | [151414-slams-city-hitlers-escape.json](./151414-slams-city-hitlers-escape.json) |
 | Slamscape | 9742 | [9742-slamscape.json](./9742-slamscape.json) |
 | Slamslide | 183594 | [183594-slamslide.json](./183594-slamslide.json) |
 | Slamwall | 392410 | [392410-slamwall.json](./392410-slamwall.json) |
@@ -14404,6 +14405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Cresta: Legendary Fighters DLC Set | 231242 | [231242-sol-cresta-legendary-fighters-dlc-set.json](./231242-sol-cresta-legendary-fighters-dlc-set.json) |
 | Sol Cresta: Wing Galiber | 231237 | [231237-sol-cresta-wing-galiber.json](./231237-sol-cresta-wing-galiber.json) |
 | Sol Cresta: Wing Galiber II | 231236 | [231236-sol-cresta-wing-galiber-ii.json](./231236-sol-cresta-wing-galiber-ii.json) |
+| SOL Cycling | 151407 | [151407-sol-cycling.json](./151407-sol-cycling.json) |
 | Sol Divide | 35026 | [35026-sol-divide.json](./35026-sol-divide.json) |
 | SOL Exodus | 10886 | [10886-sol-exodus.json](./10886-sol-exodus.json) |
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
@@ -18583,6 +18585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectrum Descent | 304082 | [304082-spectrum-descent.json](./304082-spectrum-descent.json) |
 | Spectrum Forces | 178252 | [178252-spectrum-forces.json](./178252-spectrum-forces.json) |
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
+| Spectrum VR | 151381 | [151381-spectrum-vr.json](./151381-spectrum-vr.json) |
 | Spectrum: First Light | 35827 | [35827-spectrum-first-light.json](./35827-spectrum-first-light.json) |
 | SpectrumTap | 41501 | [41501-spectrumtap.json](./41501-spectrumtap.json) |
 | Speculum Mortis | 69531 | [69531-speculum-mortis.json](./69531-speculum-mortis.json) |
@@ -19481,6 +19484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinning Around | 75790 | [75790-spinning-around.json](./75790-spinning-around.json) |
 | Spinning Battles | 306323 | [306323-spinning-battles.json](./306323-spinning-battles.json) |
 | Spinning Image | 408487 | [408487-spinning-image.json](./408487-spinning-image.json) |
+| Spinning Kid | 151393 | [151393-spinning-kid.json](./151393-spinning-kid.json) |
 | Spinning Kid 2 | 169572 | [169572-spinning-kid-2.json](./169572-spinning-kid-2.json) |
 | Spinning Maze | 31581 | [31581-spinning-maze.json](./31581-spinning-maze.json) |
 | Spinning My Wheel | 348866 | [348866-spinning-my-wheel.json](./348866-spinning-my-wheel.json) |
@@ -25786,6 +25790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subconsciousism | 396225 | [396225-subconsciousism.json](./396225-subconsciousism.json) |
 | Subcrew | 247965 | [247965-subcrew.json](./247965-subcrew.json) |
 | Subcube | 126555 | [126555-subcube.json](./126555-subcube.json) |
+| SubDivide | 151410 | [151410-subdivide.json](./151410-subdivide.json) |
 | Subdivided | 132770 | [132770-subdivided.json](./132770-subdivided.json) |
 | Subdivision | 387706 | [387706-subdivision.json](./387706-subdivision.json) |
 | Subdivision Infinity DX | 110798 | [110798-subdivision-infinity-dx.json](./110798-subdivision-infinity-dx.json) |
