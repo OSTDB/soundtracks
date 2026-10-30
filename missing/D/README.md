@@ -5373,6 +5373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious: The First Course | 384555 | [384555-delicious-the-first-course.json](./384555-delicious-the-first-course.json) |
 | Delicious! Pretty Girls Mahjong Solitaire | 31053 | [31053-delicious-pretty-girls-mahjong-solitaire.json](./31053-delicious-pretty-girls-mahjong-solitaire.json) |
 | DeLight | 208101 | [208101-delight.json](./208101-delight.json) |
+| DeLight: The Journey Home | 141449 | [141449-delight-the-journey-home.json](./141449-delight-the-journey-home.json) |
 | DeLight: The Journey Home - Chapter 2 | 168037 | [168037-delight-the-journey-home-chapter-2.json](./168037-delight-the-journey-home-chapter-2.json) |
 | DeLight: The Journey Home - Chapter 3 | 168038 | [168038-delight-the-journey-home-chapter-3.json](./168038-delight-the-journey-home-chapter-3.json) |
 | DeLight: The Journey Home - Chapter 4 | 314898 | [314898-delight-the-journey-home-chapter-4.json](./314898-delight-the-journey-home-chapter-4.json) |
@@ -7326,6 +7327,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devilition | 318597 | [318597-devilition.json](./318597-devilition.json) |
 | Devilman | 43896 | [43896-devilman.json](./43896-devilman.json) |
 | Devilman | 80868 | [80868-devilman.json](./80868-devilman.json) |
+| Devilman ~Devil mahjong~ | 141452 | [141452-devilman-devil-mahjong.json](./141452-devilman-devil-mahjong.json) |
+| Devilman Typing soft ~Devil Strike~ | 141450 | [141450-devilman-typing-soft-devil-strike.json](./141450-devilman-typing-soft-devil-strike.json) |
 | DeviloutionX | 374214 | [374214-deviloutionx.json](./374214-deviloutionx.json) |
 | Devilry | 34936 | [34936-devilry.json](./34936-devilry.json) |
 | Devils 'n Dragons Arcade | 208208 | [208208-devils-n-dragons-arcade.json](./208208-devils-n-dragons-arcade.json) |
@@ -10756,6 +10759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll Dress Up: Cute DLC | 317939 | [317939-doll-dress-up-cute-dlc.json](./317939-doll-dress-up-cute-dlc.json) |
 | Doll Explorer | 224691 | [224691-doll-explorer.json](./224691-doll-explorer.json) |
 | Doll Explorer Prologue | 151658 | [151658-doll-explorer-prologue.json](./151658-doll-explorer-prologue.json) |
+| Doll Eye: Chapter 1 | 141455 | [141455-doll-eye-chapter-1.json](./141455-doll-eye-chapter-1.json) |
 | Doll Fashion Atelier | 58694 | [58694-doll-fashion-atelier.json](./58694-doll-fashion-atelier.json) |
 | Doll Grabber | 304907 | [304907-doll-grabber.json](./304907-doll-grabber.json) |
 | Doll Impostor | 290900 | [290900-doll-impostor.json](./290900-doll-impostor.json) |
@@ -11717,6 +11721,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom II: 'D'-Radys Companion Mod | 202834 | [202834-doom-ii-d-radys-companion-mod.json](./202834-doom-ii-d-radys-companion-mod.json) |
 | Doom II: Ascension | 202842 | [202842-doom-ii-ascension.json](./202842-doom-ii-ascension.json) |
 | Doom II: Bimmy's Companions - Cordie and Vivian | 202831 | [202831-doom-ii-bimmys-companions-cordie-and-vivian.json](./202831-doom-ii-bimmys-companions-cordie-and-vivian.json) |
+| Doom II: Community Chest | 141403 | [141403-doom-ii-community-chest.json](./141403-doom-ii-community-chest.json) |
+| Doom II: Community Chest 2 | 141405 | [141405-doom-ii-community-chest-2.json](./141405-doom-ii-community-chest-2.json) |
+| Doom II: Community Chest 3 | 141406 | [141406-doom-ii-community-chest-3.json](./141406-doom-ii-community-chest-3.json) |
+| Doom II: Community Chest 4 | 141407 | [141407-doom-ii-community-chest-4.json](./141407-doom-ii-community-chest-4.json) |
 | Doom II: Companions Pack by NB001 | 202832 | [202832-doom-ii-companions-pack-by-nb001.json](./202832-doom-ii-companions-pack-by-nb001.json) |
 | Doom II: Compendium | 202837 | [202837-doom-ii-compendium.json](./202837-doom-ii-compendium.json) |
 | Doom II: Deltarune Companions - Susie and Ralsei | 202833 | [202833-doom-ii-deltarune-companions-susie-and-ralsei.json](./202833-doom-ii-deltarune-companions-susie-and-ralsei.json) |
