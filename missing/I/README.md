@@ -5135,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iro Hero | 76090 | [76090-iro-hero.json](./76090-iro-hero.json) |
 | Iroase no Hate ni | 284601 | [284601-iroase-no-hate-ni.json](./284601-iroase-no-hate-ni.json) |
 | Irochi Mikke! | 276464 | [276464-irochi-mikke.json](./276464-irochi-mikke.json) |
+| Irodoku | 125598 | [125598-irodoku.json](./125598-irodoku.json) |
 | Iroha Nihoheto | 347554 | [347554-iroha-nihoheto.json](./347554-iroha-nihoheto.json) |
 | Iromaze Ink Shop | 250244 | [250244-iromaze-ink-shop.json](./250244-iromaze-ink-shop.json) |
 | Iron | 394633 | [394633-iron.json](./394633-iron.json) |
