@@ -1857,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks Endeavor | 117073 | [117073-tanks-endeavor.json](./117073-tanks-endeavor.json) |
 | Tanks Etc. | 285934 | [285934-tanks-etc.json](./285934-tanks-etc.json) |
 | Tanks for the Memories | 65264 | [65264-tanks-for-the-memories.json](./65264-tanks-for-the-memories.json) |
+| Tanks in Labyrinth | 166942 | [166942-tanks-in-labyrinth.json](./166942-tanks-in-labyrinth.json) |
 | Tanks Logic Puzzle | 339418 | [339418-tanks-logic-puzzle.json](./339418-tanks-logic-puzzle.json) |
 | Tanks Meet Zombies | 81672 | [81672-tanks-meet-zombies.json](./81672-tanks-meet-zombies.json) |
 | Tanks of Battle: World War 2 | 233420 | [233420-tanks-of-battle-world-war-2.json](./233420-tanks-of-battle-world-war-2.json) |
@@ -8982,6 +8983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gladiators: Galactic Circus Games | 71740 | [71740-the-gladiators-galactic-circus-games.json](./71740-the-gladiators-galactic-circus-games.json) |
 | The Glass Sea | 369883 | [369883-the-glass-sea.json](./369883-the-glass-sea.json) |
 | The Glass Staircase | 116968 | [116968-the-glass-staircase.json](./116968-the-glass-staircase.json) |
+| The Glassfire Amulet | 166941 | [166941-the-glassfire-amulet.json](./166941-the-glassfire-amulet.json) |
 | The Glassworks | 322353 | [322353-the-glassworks.json](./322353-the-glassworks.json) |
 | The Gleam: VR Escape the Room | 31310 | [31310-the-gleam-vr-escape-the-room.json](./31310-the-gleam-vr-escape-the-room.json) |
 | The Gleaming Grill | 330052 | [330052-the-gleaming-grill.json](./330052-the-gleaming-grill.json) |
@@ -10683,6 +10685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Dungeon | 226600 | [226600-the-last-dungeon.json](./226600-the-last-dungeon.json) |
 | The Last Duskreaper | 236927 | [236927-the-last-duskreaper.json](./236927-the-last-duskreaper.json) |
 | The Last Earth Fighter | 371239 | [371239-the-last-earth-fighter.json](./371239-the-last-earth-fighter.json) |
+| The Last Earth Man | 166951 | [166951-the-last-earth-man.json](./166951-the-last-earth-man.json) |
 | The Last Element | 385288 | [385288-the-last-element.json](./385288-the-last-element.json) |
 | The Last Elf | 414786 | [414786-the-last-elf.json](./414786-the-last-elf.json) |
 | The Last Errant | 396934 | [396934-the-last-errant.json](./396934-the-last-errant.json) |
@@ -21948,6 +21951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Pachi-Slot Adventure | 48877 | [48877-tokyo-pachi-slot-adventure.json](./48877-tokyo-pachi-slot-adventure.json) |
 | Tokyo Pinball | 250264 | [250264-tokyo-pinball.json](./250264-tokyo-pinball.json) |
 | Tokyo Ramen Drifter | 414096 | [414096-tokyo-ramen-drifter.json](./414096-tokyo-ramen-drifter.json) |
+| Tokyo Re:Connect | 166956 | [166956-tokyo-re-connect.json](./166956-tokyo-re-connect.json) |
 | Tokyo Revengers Pazuribe! | 254572 | [254572-tokyo-revengers-pazuribe.json](./254572-tokyo-revengers-pazuribe.json) |
 | Tokyo Revengers: Last Mission | 321649 | [321649-tokyo-revengers-last-mission.json](./321649-tokyo-revengers-last-mission.json) |
 | Tokyo Road Race | 43303 | [43303-tokyo-road-race.json](./43303-tokyo-road-race.json) |
