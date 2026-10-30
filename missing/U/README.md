@@ -3278,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uuno Turhapuro muuttaa maalle | 9074 | [9074-uuno-turhapuro-muuttaa-maalle.json](./9074-uuno-turhapuro-muuttaa-maalle.json) |
 | Uurnog | 27402 | [27402-uurnog.json](./27402-uurnog.json) |
 | Uuu so Smislom | 116096 | [116096-uuu-so-smislom.json](./116096-uuu-so-smislom.json) |
+| Uuultra C | 153662 | [153662-uuultra-c.json](./153662-uuultra-c.json) |
 | UVAO Forever | 349903 | [349903-uvao-forever.json](./349903-uvao-forever.json) |
 | Uventa | 107185 | [107185-uventa.json](./107185-uventa.json) |
 | Uvirith's Legacy | 388322 | [388322-uviriths-legacy.json](./388322-uviriths-legacy.json) |
