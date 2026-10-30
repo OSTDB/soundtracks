@@ -3501,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Dogs: To Each His Own - Flying the Jolly Roger | 172374 | [172374-sea-dogs-to-each-his-own-flying-the-jolly-roger.json](./172374-sea-dogs-to-each-his-own-flying-the-jolly-roger.json) |
 | Sea Dogs: To Each His Own - Happily Ever After | 155408 | [155408-sea-dogs-to-each-his-own-happily-ever-after.json](./155408-sea-dogs-to-each-his-own-happily-ever-after.json) |
 | Sea Dogs: To Each His Own - Hero of the Nation | 171618 | [171618-sea-dogs-to-each-his-own-hero-of-the-nation.json](./171618-sea-dogs-to-each-his-own-hero-of-the-nation.json) |
+| Sea Dogs: To Each His Own - The Final Lesson | 172348 | [172348-sea-dogs-to-each-his-own-the-final-lesson.json](./172348-sea-dogs-to-each-his-own-the-final-lesson.json) |
 | Sea Dove | 246792 | [246792-sea-dove.json](./246792-sea-dove.json) |
 | Sea Dragon | 22767 | [22767-sea-dragon.json](./22767-sea-dragon.json) |
 | Sea Duel | 90922 | [90922-sea-duel.json](./90922-sea-duel.json) |
@@ -4014,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of the Lost Cavern | 107393 | [107393-secret-of-the-lost-cavern.json](./107393-secret-of-the-lost-cavern.json) |
 | Secret of The Lost Keys: Episode I - The Attack on Disred | 173996 | [173996-secret-of-the-lost-keys-episode-i-the-attack-on-disred.json](./173996-secret-of-the-lost-keys-episode-i-the-attack-on-disred.json) |
 | Secret of the Magic Crystals | 10427 | [10427-secret-of-the-magic-crystals.json](./10427-secret-of-the-magic-crystals.json) |
+| Secret of the Magic Crystals: The Race | 172326 | [172326-secret-of-the-magic-crystals-the-race.json](./172326-secret-of-the-magic-crystals-the-race.json) |
 | Secret of the Pendulum: Premium Edition | 98900 | [98900-secret-of-the-pendulum-premium-edition.json](./98900-secret-of-the-pendulum-premium-edition.json) |
 | Secret of the Pharaohs | 41556 | [41556-secret-of-the-pharaohs.json](./41556-secret-of-the-pharaohs.json) |
 | Secret of the Rendrasha Blade | 112668 | [112668-secret-of-the-rendrasha-blade.json](./112668-secret-of-the-rendrasha-blade.json) |
@@ -5893,6 +5895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Monarchs Rise | 374071 | [374071-shadow-monarchs-rise.json](./374071-shadow-monarchs-rise.json) |
 | Shadow Mystery | 331722 | [331722-shadow-mystery.json](./331722-shadow-mystery.json) |
 | Shadow Ninja: Apocalypse | 34777 | [34777-shadow-ninja-apocalypse.json](./34777-shadow-ninja-apocalypse.json) |
+| Shadow Ninja: Apocalypse - Endless Runner | 172328 | [172328-shadow-ninja-apocalypse-endless-runner.json](./172328-shadow-ninja-apocalypse-endless-runner.json) |
 | Shadow of a Soul | 65465 | [65465-shadow-of-a-soul.json](./65465-shadow-of-a-soul.json) |
 | Shadow of Ancients | 392093 | [392093-shadow-of-ancients.json](./392093-shadow-of-ancients.json) |
 | Shadow of Asha | 203542 | [203542-shadow-of-asha.json](./203542-shadow-of-asha.json) |
@@ -13726,6 +13729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowFall | 81929 | [81929-snowfall.json](./81929-snowfall.json) |
 | Snowfall Symphony: A Tale of Crustallus | 311619 | [311619-snowfall-symphony-a-tale-of-crustallus.json](./311619-snowfall-symphony-a-tale-of-crustallus.json) |
 | SnowFight Go | 128011 | [128011-snowfight-go.json](./128011-snowfight-go.json) |
+| SnowFighters | 172339 | [172339-snowfighters.json](./172339-snowfighters.json) |
 | Snowflake Master | 369335 | [369335-snowflake-master.json](./369335-snowflake-master.json) |
 | Snowflake Tattoo | 35608 | [35608-snowflake-tattoo.json](./35608-snowflake-tattoo.json) |
 | Snowflake's Chance | 29699 | [29699-snowflakes-chance.json](./29699-snowflakes-chance.json) |
@@ -14492,6 +14496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier Sortie: VR Agent 006 | 30613 | [30613-soldier-sortie-vr-agent-006.json](./30613-soldier-sortie-vr-agent-006.json) |
 | Soldier Summit Collection | 53630 | [53630-soldier-summit-collection.json](./53630-soldier-summit-collection.json) |
 | Soldier vs Aliens | 54389 | [54389-soldier-vs-aliens.json](./54389-soldier-vs-aliens.json) |
+| Soldier Warfare | 172325 | [172325-soldier-warfare.json](./172325-soldier-warfare.json) |
 | Soldier Yōki | 277451 | [277451-soldier-yoki.json](./277451-soldier-yoki.json) |
 | Soldiers at War | 69791 | [69791-soldiers-at-war.json](./69791-soldiers-at-war.json) |
 | Soldiers DesireWing | 378437 | [378437-soldiers-desirewing.json](./378437-soldiers-desirewing.json) |
@@ -18939,6 +18944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere Game Legendary | 207820 | [207820-sphere-game-legendary.json](./207820-sphere-game-legendary.json) |
 | Sphere Guider | 250423 | [250423-sphere-guider.json](./250423-sphere-guider.json) |
 | Sphere III: Enchanted World | 34619 | [34619-sphere-iii-enchanted-world.json](./34619-sphere-iii-enchanted-world.json) |
+| Sphere Invasion | 172340 | [172340-sphere-invasion.json](./172340-sphere-invasion.json) |
 | Sphere of Destiny | 13759 | [13759-sphere-of-destiny.json](./13759-sphere-of-destiny.json) |
 | Sphere TD | 400231 | [400231-sphere-td.json](./400231-sphere-td.json) |
 | Sphere This! | 114109 | [114109-sphere-this.json](./114109-sphere-this.json) |
@@ -19449,6 +19455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of Adventure | 188433 | [188433-spirit-of-adventure.json](./188433-spirit-of-adventure.json) |
 | Spirit of Arx | 158946 | [158946-spirit-of-arx.json](./158946-spirit-of-arx.json) |
 | Spirit of Death | 294252 | [294252-spirit-of-death.json](./294252-spirit-of-death.json) |
+| Spirit of Europe: Origins | 172333 | [172333-spirit-of-europe-origins.json](./172333-spirit-of-europe-origins.json) |
 | Spirit of Excalibur | 70028 | [70028-spirit-of-excalibur.json](./70028-spirit-of-excalibur.json) |
 | Spirit of Maya | 29903 | [29903-spirit-of-maya.json](./29903-spirit-of-maya.json) |
 | Spirit of Midnight | 122013 | [122013-spirit-of-midnight.json](./122013-spirit-of-midnight.json) |
@@ -22253,6 +22260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starmatter | 178926 | [178926-starmatter.json](./178926-starmatter.json) |
 | StarMech | 207581 | [207581-starmech.json](./207581-starmech.json) |
 | Starmetal Crusaders | 293598 | [293598-starmetal-crusaders.json](./293598-starmetal-crusaders.json) |
+| Starmind | 172321 | [172321-starmind.json](./172321-starmind.json) |
 | Starminer | 280353 | [280353-starminer.json](./280353-starminer.json) |
 | Starmount | 327323 | [327323-starmount.json](./327323-starmount.json) |
 | Starmourn | 122849 | [122849-starmourn.json](./122849-starmourn.json) |
@@ -30912,6 +30920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Beauties | 271904 | [271904-sweet-beauties.json](./271904-sweet-beauties.json) |
 | Sweet Bell Day: The Game | 123414 | [123414-sweet-bell-day-the-game.json](./123414-sweet-bell-day-the-game.json) |
 | Sweet Berry Crush | 55444 | [55444-sweet-berry-crush.json](./55444-sweet-berry-crush.json) |
+| Sweet Bitcoin | 172353 | [172353-sweet-bitcoin.json](./172353-sweet-bitcoin.json) |
 | Sweet Bitter | 296598 | [296598-sweet-bitter.json](./296598-sweet-bitter.json) |
 | Sweet Blast | 174788 | [174788-sweet-blast.json](./174788-sweet-blast.json) |
 | Sweet Blend | 298510 | [298510-sweet-blend.json](./298510-sweet-blend.json) |
