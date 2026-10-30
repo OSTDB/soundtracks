@@ -1821,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikenai Kanojo no Yarisugi na Uwaki Karada ga Motomeru Abunai Otona no Giri-giri na Rennai Game | 233949 | [233949-ikenai-kanojo-no-yarisugi-na-uwaki-karada-ga-motomeru-abunai-otona-no-giri-giri-na-rennai-game.json](./233949-ikenai-kanojo-no-yarisugi-na-uwaki-karada-ga-motomeru-abunai-otona-no-giri-giri-na-rennai-game.json) |
 | Ikenfell | 23873 | [23873-ikenfell.json](./23873-ikenfell.json) |
 | Ikenie | 31798 | [31798-ikenie.json](./31798-ikenie.json) |
+| Iketsuki | 176130 | [176130-iketsuki.json](./176130-iketsuki.json) |
 | Ikibago | 85185 | [85185-ikibago.json](./85185-ikibago.json) |
 | Ikimono High: The Visual Novel | 180510 | [180510-ikimono-high-the-visual-novel.json](./180510-ikimono-high-the-visual-novel.json) |
 | Ikinari Musician | 48462 | [48462-ikinari-musician.json](./48462-ikinari-musician.json) |
@@ -4855,6 +4856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invertinator | 350525 | [350525-invertinator.json](./350525-invertinator.json) |
 | Invertio | 186196 | [186196-invertio.json](./186196-invertio.json) |
 | Invest | 94215 | [94215-invest.json](./94215-invest.json) |
+| Invest Simulator: Work Stage | 176106 | [176106-invest-simulator-work-stage.json](./176106-invest-simulator-work-stage.json) |
 | Investation | 92527 | [92527-investation.json](./92527-investation.json) |
 | Investi-Gator: The Case of the Big Crime | 116092 | [116092-investi-gator-the-case-of-the-big-crime.json](./116092-investi-gator-the-case-of-the-big-crime.json) |
 | Investigate | 229017 | [229017-investigate.json](./229017-investigate.json) |
