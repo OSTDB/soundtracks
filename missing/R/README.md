@@ -3508,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Green Donkey | 278286 | [278286-red-green-donkey.json](./278286-red-green-donkey.json) |
 | Red Grimly Tale | 397131 | [397131-red-grimly-tale.json](./397131-red-grimly-tale.json) |
 | Red Gun | 196609 | [196609-red-gun.json](./196609-red-gun.json) |
+| Red Handed | 144544 | [144544-red-handed.json](./144544-red-handed.json) |
 | Red Hands: 2-Player Game | 174002 | [174002-red-hands-2-player-game.json](./174002-red-hands-2-player-game.json) |
 | Red Haven | 218714 | [218714-red-haven.json](./218714-red-haven.json) |
 | Red Hawk | 411129 | [411129-red-hawk.json](./411129-red-hawk.json) |
@@ -3922,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Talk: A Thoughtful Fishcussion | 408172 | [408172-reel-talk-a-thoughtful-fishcussion.json](./408172-reel-talk-a-thoughtful-fishcussion.json) |
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
 | Reelism | 141643 | [141643-reelism.json](./141643-reelism.json) |
+| Reelism 2 | 144641 | [144641-reelism-2.json](./144641-reelism-2.json) |
 | Reels of Fortune | 270416 | [270416-reels-of-fortune.json](./270416-reels-of-fortune.json) |
 | Reels of the Damned | 411589 | [411589-reels-of-the-damned.json](./411589-reels-of-the-damned.json) |
 | Reenchant | 365732 | [365732-reenchant.json](./365732-reenchant.json) |
@@ -7468,6 +7470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riviera: The Promised Land | 6559 | [6559-riviera-the-promised-land.json](./6559-riviera-the-promised-land.json) |
 | Riviera: Yakusoku no Chi Riviera | 37281 | [37281-riviera-yakusoku-no-chi-riviera.json](./37281-riviera-yakusoku-no-chi-riviera.json) |
 | RiVR | 26844 | [26844-rivr.json](./26844-rivr.json) |
+| RivWorld | 144530 | [144530-rivworld.json](./144530-rivworld.json) |
 | Rixe | 392111 | [392111-rixe.json](./392111-rixe.json) |
 | Rixer | 260242 | [260242-rixer.json](./260242-rixer.json) |
 | Riyou | 369076 | [369076-riyou.json](./369076-riyou.json) |
@@ -9808,6 +9811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Service | 343231 | [343231-room-service.json](./343231-room-service.json) |
 | Room Service | 54819 | [54819-room-service.json](./54819-room-service.json) |
 | Room Ten | 31181 | [31181-room-ten.json](./31181-room-ten.json) |
+| Room to Grow | 143916 | [143916-room-to-grow.json](./143916-room-to-grow.json) |
 | Room with Lina | 370861 | [370861-room-with-lina.json](./370861-room-with-lina.json) |
 | Room XIII | 360042 | [360042-room-xiii.json](./360042-room-xiii.json) |
 | Room.txt | 408703 | [408703-room-txt.json](./408703-room-txt.json) |
