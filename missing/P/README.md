@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pale Echoes | 35068 | [35068-pale-echoes.json](./35068-pale-echoes.json) |
 | Pale Lands VR | 86636 | [86636-pale-lands-vr.json](./86636-pale-lands-vr.json) |
 | Pale Luna | 393080 | [393080-pale-luna.json](./393080-pale-luna.json) |
+| Pale Machine | 128809 | [128809-pale-machine.json](./128809-pale-machine.json) |
 | Pale Man! | 113894 | [113894-pale-man.json](./113894-pale-man.json) |
 | Pale Moon Crisis | 29977 | [29977-pale-moon-crisis.json](./29977-pale-moon-crisis.json) |
 | Pale Night | 142811 | [142811-pale-night.json](./142811-pale-night.json) |
@@ -1236,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantufa the Cat: Extended Edition | 318631 | [318631-pantufa-the-cat-extended-edition.json](./318631-pantufa-the-cat-extended-edition.json) |
 | Panty Load | 204163 | [204163-panty-load.json](./204163-panty-load.json) |
 | Panty Match Girls | 386375 | [386375-panty-match-girls.json](./386375-panty-match-girls.json) |
+| Panty Raider - From Here to Immaturity | 128801 | [128801-panty-raider-from-here-to-immaturity.json](./128801-panty-raider-from-here-to-immaturity.json) |
 | Panty Raider: From Here to Immaturity | 81476 | [81476-panty-raider-from-here-to-immaturity.json](./81476-panty-raider-from-here-to-immaturity.json) |
 | Panty Slide | 113153 | [113153-panty-slide.json](./113153-panty-slide.json) |
 | Panty&Demons | 184479 | [184479-panty-and-demons.json](./184479-panty-and-demons.json) |
@@ -5681,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig Escape | 185003 | [185003-pig-escape.json](./185003-pig-escape.json) |
 | Pig Escape | 336453 | [336453-pig-escape.json](./336453-pig-escape.json) |
 | Pig Farm Mix | 208154 | [208154-pig-farm-mix.json](./208154-pig-farm-mix.json) |
+| Pig Friends | 128807 | [128807-pig-friends.json](./128807-pig-friends.json) |
 | Pig Jump | 140173 | [140173-pig-jump.json](./140173-pig-jump.json) |
 | Pig King | 407443 | [407443-pig-king.json](./407443-pig-king.json) |
 | Pig Knight | 332619 | [332619-pig-knight.json](./332619-pig-knight.json) |
@@ -8823,6 +8826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayDice | 212686 | [212686-playdice.json](./212686-playdice.json) |
 | Playdle | 272477 | [272477-playdle.json](./272477-playdle.json) |
 | PlayEnglish | 269501 | [269501-playenglish.json](./269501-playenglish.json) |
+| Player 2 | 128774 | [128774-player-2.json](./128774-player-2.json) |
 | Player 22 by Rezzil | 174557 | [174557-player-22-by-rezzil.json](./174557-player-22-by-rezzil.json) |
 | Player 9 | 132095 | [132095-player-9.json](./132095-player-9.json) |
 | Player City | 150459 | [150459-player-city.json](./150459-player-city.json) |
@@ -14705,6 +14709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Knight 2 Dusk of Souls | 211560 | [211560-project-knight-2-dusk-of-souls.json](./211560-project-knight-2-dusk-of-souls.json) |
 | Project: Longtail | 114707 | [114707-project-longtail.json](./114707-project-longtail.json) |
 | Project: Mania | 333562 | [333562-project-mania.json](./333562-project-mania.json) |
+| Project: Mara | 128797 | [128797-project-mara.json](./128797-project-mara.json) |
 | Project: Mirror | 233562 | [233562-project-mirror.json](./233562-project-mirror.json) |
 | Project: Mirror 2 | 418838 | [418838-project-mirror-2.json](./418838-project-mirror-2.json) |
 | Project: Mist | 272348 | [272348-project-mist.json](./272348-project-mist.json) |
@@ -16183,6 +16188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt-Putt Enters the Race | 3738 | [3738-putt-putt-enters-the-race.json](./3738-putt-putt-enters-the-race.json) |
 | Putt-Putt Goes to the Moon | 3734 | [3734-putt-putt-goes-to-the-moon.json](./3734-putt-putt-goes-to-the-moon.json) |
 | Putt-Putt Joins the Circus | 3739 | [3739-putt-putt-joins-the-circus.json](./3739-putt-putt-joins-the-circus.json) |
+| Putt-Putt Saves the Stew | 128779 | [128779-putt-putt-saves-the-stew.json](./128779-putt-putt-saves-the-stew.json) |
 | Putt-Putt Saves the Zoo | 3736 | [3736-putt-putt-saves-the-zoo.json](./3736-putt-putt-saves-the-zoo.json) |
 | Putt-Putt Travels Through Time | 3737 | [3737-putt-putt-travels-through-time.json](./3737-putt-putt-travels-through-time.json) |
 | Putt-Putt: Pep's Birthday Surprise | 3740 | [3740-putt-putt-peps-birthday-surprise.json](./3740-putt-putt-peps-birthday-surprise.json) |
