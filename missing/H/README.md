@@ -7711,6 +7711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey League Simulator | 15503 | [15503-hockey-league-simulator.json](./15503-hockey-league-simulator.json) |
 | Hockey League Simulator II | 15504 | [15504-hockey-league-simulator-ii.json](./15504-hockey-league-simulator-ii.json) |
 | Hockey Legacy Manager 25 | 340475 | [340475-hockey-legacy-manager-25.json](./340475-hockey-legacy-manager-25.json) |
+| Hockey Manager 20\|20 | 129979 | [129979-hockey-manager-20-20.json](./129979-hockey-manager-20-20.json) |
 | Hockey Nations 2010 | 62038 | [62038-hockey-nations-2010.json](./62038-hockey-nations-2010.json) |
 | Hockey Player VR | 117837 | [117837-hockey-player-vr.json](./117837-hockey-player-vr.json) |
 | Hockey Pong | 93444 | [93444-hockey-pong.json](./93444-hockey-pong.json) |
