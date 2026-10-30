@@ -8104,6 +8104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lover Survivors | 303638 | [303638-lover-survivors.json](./303638-lover-survivors.json) |
 | Loverboy | 24906 | [24906-loverboy.json](./24906-loverboy.json) |
 | Loveressive | 194598 | [194598-loveressive.json](./194598-loveressive.json) |
+| Loverowind | 148211 | [148211-loverowind.json](./148211-loverowind.json) |
 | LoverPretend | 141586 | [141586-loverpretend.json](./141586-loverpretend.json) |
 | Lovers ' Smiles | 111184 | [111184-lovers-smiles.json](./111184-lovers-smiles.json) |
 | Lovers ' Smiles 2 | 115637 | [115637-lovers-smiles-2.json](./115637-lovers-smiles-2.json) |
