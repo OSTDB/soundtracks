@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karma Jump | 367481 | [367481-karma-jump.json](./367481-karma-jump.json) |
 | Karma Keepers | 365293 | [365293-karma-keepers.json](./365293-karma-keepers.json) |
 | Karma Kingdom | 413829 | [413829-karma-kingdom.json](./413829-karma-kingdom.json) |
+| Karma Knight | 131746 | [131746-karma-knight.json](./131746-karma-knight.json) |
 | Karma: Immortal Wrath | 145619 | [145619-karma-immortal-wrath.json](./145619-karma-immortal-wrath.json) |
 | Karma: Operation Barbossa | 67232 | [67232-karma-operation-barbossa.json](./67232-karma-operation-barbossa.json) |
 | Karma: The Dark World - Deluxe Edition | 403590 | [403590-karma-the-dark-world-deluxe-edition.json](./403590-karma-the-dark-world-deluxe-edition.json) |
