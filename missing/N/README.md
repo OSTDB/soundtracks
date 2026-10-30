@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanobots | 143456 | [143456-nanobots.json](./143456-nanobots.json) |
 | Nanobots | 281389 | [281389-nanobots.json](./281389-nanobots.json) |
 | Nanobots | 33325 | [33325-nanobots.json](./33325-nanobots.json) |
+| Nanocells: Mission - Back Home | 143277 | [143277-nanocells-mission-back-home.json](./143277-nanocells-mission-back-home.json) |
 | Nanociv | 176620 | [176620-nanociv.json](./176620-nanociv.json) |
 | NaNoCollabMo: Autumn Harvest | 281315 | [281315-nanocollabmo-autumn-harvest.json](./281315-nanocollabmo-autumn-harvest.json) |
 | Nanocorp | 173281 | [173281-nanocorp.json](./173281-nanocorp.json) |
@@ -918,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Park | 274729 | [274729-nature-park.json](./274729-nature-park.json) |
 | Nature Picross | 337002 | [337002-nature-picross.json](./337002-nature-picross.json) |
 | Nature Prhysm | 206374 | [206374-nature-prhysm.json](./206374-nature-prhysm.json) |
+| Nature Strikes Back | 143273 | [143273-nature-strikes-back.json](./143273-nature-strikes-back.json) |
 | Nature Treks VR | 29552 | [29552-nature-treks-vr.json](./29552-nature-treks-vr.json) |
 | Nature Treks: Healing With Color | 65589 | [65589-nature-treks-healing-with-color.json](./65589-nature-treks-healing-with-color.json) |
 | Nature Treks: Together | 152817 | [152817-nature-treks-together.json](./152817-nature-treks-together.json) |
@@ -4158,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Without Return | 216792 | [216792-nightmare-without-return.json](./216792-nightmare-without-return.json) |
 | Nightmare Yokai Village | 222238 | [222238-nightmare-yokai-village.json](./222238-nightmare-yokai-village.json) |
 | Nightmare Zapping | 252277 | [252277-nightmare-zapping.json](./252277-nightmare-zapping.json) |
+| Nightmare Zone | 143250 | [143250-nightmare-zone.json](./143250-nightmare-zone.json) |
 | Nightmare: Reimagined Beginning | 381396 | [381396-nightmare-reimagined-beginning.json](./381396-nightmare-reimagined-beginning.json) |
 | Nightmare: The Lunatic | 186025 | [186025-nightmare-the-lunatic.json](./186025-nightmare-the-lunatic.json) |
 | Nightmare: The Origins | 173218 | [173218-nightmare-the-origins.json](./173218-nightmare-the-origins.json) |
