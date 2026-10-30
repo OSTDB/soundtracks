@@ -4102,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EpicShop | 176676 | [176676-epicshop.json](./176676-epicshop.json) |
 | Epicure | 133363 | [133363-epicure.json](./133363-epicure.json) |
 | Epicurean | 397261 | [397261-epicurean.json](./397261-epicurean.json) |
+| Epidemic | 170689 | [170689-epidemic.json](./170689-epidemic.json) |
 | Epidemic | 174009 | [174009-epidemic.json](./174009-epidemic.json) |
 | Epidemic | 20299 | [20299-epidemic.json](./20299-epidemic.json) |
 | Epidemic Escape: A Race for the Cure | 250989 | [250989-epidemic-escape-a-race-for-the-cure.json](./250989-epidemic-escape-a-race-for-the-cure.json) |
