@@ -5035,6 +5035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Zombies At Night | 150498 | [150498-escape-zombies-at-night.json](./150498-escape-zombies-at-night.json) |
 | Escape: Backrooms Horror | 313226 | [313226-escape-backrooms-horror.json](./313226-escape-backrooms-horror.json) |
 | Escape: Backrooms Horror VR | 391175 | [391175-escape-backrooms-horror-vr.json](./391175-escape-backrooms-horror-vr.json) |
+| Escape: Escape Spaceman | 175539 | [175539-escape-escape-spaceman.json](./175539-escape-escape-spaceman.json) |
 | Escape: Forced Overtime | 153010 | [153010-escape-forced-overtime.json](./153010-escape-forced-overtime.json) |
 | Escape: Immersion | 391205 | [391205-escape-immersion.json](./391205-escape-immersion.json) |
 | Escape: Left to die | 236416 | [236416-escape-left-to-die.json](./236416-escape-left-to-die.json) |
@@ -6966,6 +6967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exp10sion | 277946 | [277946-exp10sion.json](./277946-exp10sion.json) |
 | Expand | 18474 | [18474-expand.json](./18474-expand.json) |
 | Expand & Exterminate: Terrytorial Disputes - Endless Base Defense | 367935 | [367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json](./367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json) |
+| Expand It! HD | 175554 | [175554-expand-it-hd.json](./175554-expand-it-hd.json) |
 | Expandaball | 394809 | [394809-expandaball.json](./394809-expandaball.json) |
 | Expander | 34256 | [34256-expander.json](./34256-expander.json) |
 | Expanse | 343772 | [343772-expanse.json](./343772-expanse.json) |
