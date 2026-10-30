@@ -1410,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Offworld Foundry | 410399 | [410399-idle-offworld-foundry.json](./410399-idle-offworld-foundry.json) |
 | Idle Outpost | 302674 | [302674-idle-outpost.json](./302674-idle-outpost.json) |
 | Idle Paladin | 192181 | [192181-idle-paladin.json](./192181-idle-paladin.json) |
+| Idle Panzer | 165288 | [165288-idle-panzer.json](./165288-idle-panzer.json) |
 | idle Party Leader | 235653 | [235653-idle-party-leader.json](./235653-idle-party-leader.json) |
 | Idle Percent | 277345 | [277345-idle-percent.json](./277345-idle-percent.json) |
 | Idle Physio: Clinic Tycoon | 417461 | [417461-idle-physio-clinic-tycoon.json](./417461-idle-physio-clinic-tycoon.json) |
