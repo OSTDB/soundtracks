@@ -9964,6 +9964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulatte: Coffee Shop Simulator | 186501 | [186501-simulatte-coffee-shop-simulator.json](./186501-simulatte-coffee-shop-simulator.json) |
 | Simulayu | 299112 | [299112-simulayu.json](./299112-simulayu.json) |
 | Simulcra | 15367 | [15367-simulcra.json](./15367-simulcra.json) |
+| Simuliator Kupaniia V Fontanie | 160022 | [160022-simuliator-kupaniia-v-fontanie.json](./160022-simuliator-kupaniia-v-fontanie.json) |
 | Simuliator Pryghaniia Po Garazham | 154280 | [154280-simuliator-pryghaniia-po-garazham.json](./154280-simuliator-pryghaniia-po-garazham.json) |
 | Simuliator Sidieniia Na Kryshie | 163858 | [163858-simuliator-sidieniia-na-kryshie.json](./163858-simuliator-sidieniia-na-kryshie.json) |
 | Simulo | 374766 | [374766-simulo.json](./374766-simulo.json) |
@@ -12675,6 +12676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Court Tennis Pro Tournament 2 | 20184 | [20184-smash-court-tennis-pro-tournament-2.json](./20184-smash-court-tennis-pro-tournament-2.json) |
 | Smash Court: Warm Up | 183737 | [183737-smash-court-warm-up.json](./183737-smash-court-warm-up.json) |
 | Smash Crabs | 151744 | [151744-smash-crabs.json](./151744-smash-crabs.json) |
+| Smash Crates | 160025 | [160025-smash-crates.json](./160025-smash-crates.json) |
 | Smash Dash: Demolition Run | 406575 | [406575-smash-dash-demolition-run.json](./406575-smash-dash-demolition-run.json) |
 | Smash Derby | 36776 | [36776-smash-derby.json](./36776-smash-derby.json) |
 | Smash Drums | 152212 | [152212-smash-drums.json](./152212-smash-drums.json) |
@@ -25853,6 +25855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subspace Reticulum | 367537 | [367537-subspace-reticulum.json](./367537-subspace-reticulum.json) |
 | Subspace Voyage | 365850 | [365850-subspace-voyage.json](./365850-subspace-voyage.json) |
 | Substance Wars 64 | 384878 | [384878-substance-wars-64.json](./384878-substance-wars-64.json) |
+| Substantia Cana | 160027 | [160027-substantia-cana.json](./160027-substantia-cana.json) |
 | Substitute Priest | 271559 | [271559-substitute-priest.json](./271559-substitute-priest.json) |
 | Substrate: Emergence | 398531 | [398531-substrate-emergence.json](./398531-substrate-emergence.json) |
 | Substratum | 128432 | [128432-substratum.json](./128432-substratum.json) |
