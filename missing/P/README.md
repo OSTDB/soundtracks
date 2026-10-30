@@ -800,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palace of Magic | 186072 | [186072-palace-of-magic.json](./186072-palace-of-magic.json) |
 | Palace of Nemrac | 261283 | [261283-palace-of-nemrac.json](./261283-palace-of-nemrac.json) |
 | Palace of Poetry | 386862 | [386862-palace-of-poetry.json](./386862-palace-of-poetry.json) |
+| Palace of Sand | 171240 | [171240-palace-of-sand.json](./171240-palace-of-sand.json) |
 | Palace of sky | 128296 | [128296-palace-of-sky.json](./128296-palace-of-sky.json) |
 | Palace of Woe | 134683 | [134683-palace-of-woe.json](./134683-palace-of-woe.json) |
 | Paladin | 131415 | [131415-paladin.json](./131415-paladin.json) |
@@ -3542,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pencil Whipped | 72546 | [72546-pencil-whipped.json](./72546-pencil-whipped.json) |
 | Pencil! | 306927 | [306927-pencil.json](./306927-pencil.json) |
 | Pencilvania | 292755 | [292755-pencilvania.json](./292755-pencilvania.json) |
+| Pendek | 171256 | [171256-pendek.json](./171256-pendek.json) |
 | Pendelum | 138540 | [138540-pendelum.json](./138540-pendelum.json) |
 | Pendle Hill | 151513 | [151513-pendle-hill.json](./151513-pendle-hill.json) |
 | Pendragon | 132903 | [132903-pendragon.json](./132903-pendragon.json) |
@@ -3991,6 +3993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perilous Wilde | 229911 | [229911-perilous-wilde.json](./229911-perilous-wilde.json) |
 | Perils of Baking | 103846 | [103846-perils-of-baking.json](./103846-perils-of-baking.json) |
 | Perils of Man | 17998 | [17998-perils-of-man.json](./17998-perils-of-man.json) |
+| Perils of Poom | 171257 | [171257-perils-of-poom.json](./171257-perils-of-poom.json) |
 | Perimbó | 349431 | [349431-perimbo.json](./349431-perimbo.json) |
 | Perimeter | 397689 | [397689-perimeter.json](./397689-perimeter.json) |
 | Perimeter 2: New Earth | 14859 | [14859-perimeter-2-new-earth.json](./14859-perimeter-2-new-earth.json) |
