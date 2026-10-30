@@ -5373,6 +5373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is Land of Mysterious | 211973 | [211973-is-land-of-mysterious.json](./211973-is-land-of-mysterious.json) |
 | Is Lupin Still Flirting? | 151959 | [151959-is-lupin-still-flirting.json](./151959-is-lupin-still-flirting.json) |
 | Is That a Human Organ? | 414414 | [414414-is-that-a-human-organ.json](./414414-is-that-a-human-organ.json) |
+| Is the President a Traitor? | 128173 | [128173-is-the-president-a-traitor.json](./128173-is-the-president-a-traitor.json) |
 | Is the Vat Utopia or Dystopia? | 355551 | [355551-is-the-vat-utopia-or-dystopia.json](./355551-is-the-vat-utopia-or-dystopia.json) |
 | Is There a Way? | 336623 | [336623-is-there-a-way.json](./336623-is-there-a-way.json) |
 | Is this a Game yet? | 353312 | [353312-is-this-a-game-yet.json](./353312-is-this-a-game-yet.json) |
