@@ -5687,6 +5687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Blood | 107831 | [107831-witch-blood.json](./107831-witch-blood.json) |
 | Witch Challenge | 294394 | [294394-witch-challenge.json](./294394-witch-challenge.json) |
 | Witch College | 120949 | [120949-witch-college.json](./120949-witch-college.json) |
+| Witch College 2 | 129994 | [129994-witch-college-2.json](./129994-witch-college-2.json) |
 | Witch College Bundle | 214374 | [214374-witch-college-bundle.json](./214374-witch-college-bundle.json) |
 | Witch Cram Sorceries | 262901 | [262901-witch-cram-sorceries.json](./262901-witch-cram-sorceries.json) |
 | Witch Cry 2 | 301129 | [301129-witch-cry-2.json](./301129-witch-cry-2.json) |
