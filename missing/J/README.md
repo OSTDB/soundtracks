@@ -2889,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Force: Character Pack 7 - Madara Uchiha | 167779 | [167779-jump-force-character-pack-7-madara-uchiha.json](./167779-jump-force-character-pack-7-madara-uchiha.json) |
 | Jump Force: Character Pack 8 - Grimmjow Jaegerjaquez | 167778 | [167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json](./167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json) |
 | Jump Force: Character Pack 9 - Trafalgar Law | 167776 | [167776-jump-force-character-pack-9-trafalgar-law.json](./167776-jump-force-character-pack-9-trafalgar-law.json) |
+| Jump Force: Collector's Edition | 136049 | [136049-jump-force-collectors-edition.json](./136049-jump-force-collectors-edition.json) |
 | Jump Force: Deluxe Edition | 118748 | [118748-jump-force-deluxe-edition.json](./118748-jump-force-deluxe-edition.json) |
 | Jump Force: Ultimate Edition | 118721 | [118721-jump-force-ultimate-edition.json](./118721-jump-force-ultimate-edition.json) |
 | Jump Frog | 246343 | [246343-jump-frog.json](./246343-jump-frog.json) |
