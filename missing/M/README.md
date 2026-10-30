@@ -9617,6 +9617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Combat Flight Simulator: WWII Europe Series | 36536 | [36536-microsoft-combat-flight-simulator-wwii-europe-series.json](./36536-microsoft-combat-flight-simulator-wwii-europe-series.json) |
 | Microsoft Combat Flight Simulator: WWII Europe Series - Behind Enemy Lines | 36537 | [36537-microsoft-combat-flight-simulator-wwii-europe-series-behind-enemy-lines.json](./36537-microsoft-combat-flight-simulator-wwii-europe-series-behind-enemy-lines.json) |
 | Microsoft Entertainment Pack 2 | 79178 | [79178-microsoft-entertainment-pack-2.json](./79178-microsoft-entertainment-pack-2.json) |
+| Microsoft Entertainment Pack 3 | 124410 | [124410-microsoft-entertainment-pack-3.json](./124410-microsoft-entertainment-pack-3.json) |
 | Microsoft Entertainment Pack 4 | 79964 | [79964-microsoft-entertainment-pack-4.json](./79964-microsoft-entertainment-pack-4.json) |
 | Microsoft Entertainment Pack for Windows | 78025 | [78025-microsoft-entertainment-pack-for-windows.json](./78025-microsoft-entertainment-pack-for-windows.json) |
 | Microsoft Flight Simulator | 119295 | [119295-microsoft-flight-simulator.json](./119295-microsoft-flight-simulator.json) |
@@ -17455,6 +17456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle Ranking GB2: Mezase! Muscle Champion | 228583 | [228583-muscle-ranking-gb2-mezase-muscle-champion.json](./228583-muscle-ranking-gb2-mezase-muscle-champion.json) |
 | Muscle Ranking Vol. 3: Saikyou no Challenger Tanjou! | 209614 | [209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json](./209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json) |
 | Muscle World | 152096 | [152096-muscle-world.json](./152096-muscle-world.json) |
+| Muscles and Bullets | 124413 | [124413-muscles-and-bullets.json](./124413-muscles-and-bullets.json) |
 | Muse | 333096 | [333096-muse.json](./333096-muse.json) |
 | Muse & Barbarian | 219667 | [219667-muse-and-barbarian.json](./219667-muse-and-barbarian.json) |
 | Muse Dash | 86316 | [86316-muse-dash.json](./86316-muse-dash.json) |
@@ -19588,6 +19590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: Dreamcatcher | 153531 | [153531-mystery-solitaire-dreamcatcher.json](./153531-mystery-solitaire-dreamcatcher.json) |
 | Mystery Solitaire: Dreamcatcher 2 | 213317 | [213317-mystery-solitaire-dreamcatcher-2.json](./213317-mystery-solitaire-dreamcatcher-2.json) |
 | Mystery Solitaire: Dreamcatcher 3 | 237255 | [237255-mystery-solitaire-dreamcatcher-3.json](./237255-mystery-solitaire-dreamcatcher-3.json) |
+| Mystery Solitaire: Grimm's Tales | 124386 | [124386-mystery-solitaire-grimms-tales.json](./124386-mystery-solitaire-grimms-tales.json) |
 | Mystery Solitaire: Grimm's Tales 2 | 122367 | [122367-mystery-solitaire-grimms-tales-2.json](./122367-mystery-solitaire-grimms-tales-2.json) |
 | Mystery Solitaire: Grimm's Tales 4 | 193649 | [193649-mystery-solitaire-grimms-tales-4.json](./193649-mystery-solitaire-grimms-tales-4.json) |
 | Mystery Solitaire: Grimm's Tales 5 | 195869 | [195869-mystery-solitaire-grimms-tales-5.json](./195869-mystery-solitaire-grimms-tales-5.json) |
