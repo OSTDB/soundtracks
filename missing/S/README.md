@@ -4766,6 +4766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sen no Hatou, Tsukisome no Kouki | 54909 | [54909-sen-no-hatou-tsukisome-no-kouki.json](./54909-sen-no-hatou-tsukisome-no-kouki.json) |
 | Sen no Hatou, Tsukisome no Kouki: Hana Akari | 374662 | [374662-sen-no-hatou-tsukisome-no-kouki-hana-akari.json](./374662-sen-no-hatou-tsukisome-no-kouki-hana-akari.json) |
 | Sen no Inori no Paradox | 295928 | [295928-sen-no-inori-no-paradox.json](./295928-sen-no-inori-no-paradox.json) |
+| SEN: Seven Eight Nine | 129943 | [129943-sen-seven-eight-nine.json](./129943-sen-seven-eight-nine.json) |
 | Sen.Tur. | 166043 | [166043-sen-tur.json](./166043-sen-tur.json) |
 | Senalux: Level Pack 3 | 168755 | [168755-senalux-level-pack-3.json](./168755-senalux-level-pack-3.json) |
 | Senalux: Level Pack 4 | 168756 | [168756-senalux-level-pack-4.json](./168756-senalux-level-pack-4.json) |
@@ -8130,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot-Out | 71588 | [71588-shoot-out.json](./71588-shoot-out.json) |
 | Shoot-Out! | 294646 | [294646-shoot-out.json](./294646-shoot-out.json) |
 | Shoot, I Got Abducted! | 327227 | [327227-shoot-i-got-abducted.json](./327227-shoot-i-got-abducted.json) |
+| Shoot, push, portals | 129973 | [129973-shoot-push-portals.json](./129973-shoot-push-portals.json) |
 | Shoot! | 188437 | [188437-shoot.json](./188437-shoot.json) |
 | Shoot! | 263409 | [263409-shoot.json](./263409-shoot.json) |
 | Shoot! & Ahhhhh | 385816 | [385816-shoot-and-ahhhhh.json](./385816-shoot-and-ahhhhh.json) |
@@ -14450,6 +14452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoboxes Duo | 242394 | [242394-sokoboxes-duo.json](./242394-sokoboxes-duo.json) |
 | Sokobum | 403153 | [403153-sokobum.json](./403153-sokobum.json) |
 | Sokobundle | 331518 | [331518-sokobundle.json](./331518-sokobundle.json) |
+| SokoBunny | 129978 | [129978-sokobunny.json](./129978-sokobunny.json) |
 | Sokocat - Islands | 147449 | [147449-sokocat-islands.json](./147449-sokocat-islands.json) |
 | Sokocat: Castaway | 399689 | [399689-sokocat-castaway.json](./399689-sokocat-castaway.json) |
 | Sokocat: Combo | 203267 | [203267-sokocat-combo.json](./203267-sokocat-combo.json) |
@@ -16543,6 +16546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul at Stake: Terror Cruise | 170291 | [170291-soul-at-stake-terror-cruise.json](./170291-soul-at-stake-terror-cruise.json) |
 | Soul Awakening Adventure | 273093 | [273093-soul-awakening-adventure.json](./273093-soul-awakening-adventure.json) |
 | Soul Axiom | 17096 | [17096-soul-axiom.json](./17096-soul-axiom.json) |
+| Soul Axiom Rebooted | 129977 | [129977-soul-axiom-rebooted.json](./129977-soul-axiom-rebooted.json) |
 | Soul Azylum | 131379 | [131379-soul-azylum.json](./131379-soul-azylum.json) |
 | Soul Balance | 391610 | [391610-soul-balance.json](./391610-soul-balance.json) |
 | Soul Battles | 299993 | [299993-soul-battles.json](./299993-soul-battles.json) |
@@ -16973,6 +16977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Source of Survival | 164195 | [164195-source-of-survival.json](./164195-source-of-survival.json) |
 | Source of the Nile: Digital Edition | 293587 | [293587-source-of-the-nile-digital-edition.json](./293587-source-of-the-nile-digital-edition.json) |
 | Sourcebound | 423224 | [423224-sourcebound.json](./423224-sourcebound.json) |
+| SourceForts | 129949 | [129949-sourceforts.json](./129949-sourceforts.json) |
 | Sourcelight RPG | 174282 | [174282-sourcelight-rpg.json](./174282-sourcelight-rpg.json) |
 | Sourcevoid Online | 407768 | [407768-sourcevoid-online.json](./407768-sourcevoid-online.json) |
 | Sous Raccoon | 366299 | [366299-sous-raccoon.json](./366299-sous-raccoon.json) |
@@ -17558,6 +17563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18926,6 +18932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedway League | 54382 | [54382-speedway-league.json](./54382-speedway-league.json) |
 | Speedway Legends: Overdrive Racing | 332338 | [332338-speedway-legends-overdrive-racing.json](./332338-speedway-legends-overdrive-racing.json) |
 | Speedway Liga | 67675 | [67675-speedway-liga.json](./67675-speedway-liga.json) |
+| Speedway Racing | 129951 | [129951-speedway-racing.json](./129951-speedway-racing.json) |
 | Speedway Ringer | 238627 | [238627-speedway-ringer.json](./238627-speedway-ringer.json) |
 | Speedway Survival | 296616 | [296616-speedway-survival.json](./296616-speedway-survival.json) |
 | Speedway Turbo: Car Racing Challenge | 304787 | [304787-speedway-turbo-car-racing-challenge.json](./304787-speedway-turbo-car-racing-challenge.json) |
@@ -28025,6 +28032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super High School Danger Course | 271128 | [271128-super-high-school-danger-course.json](./271128-super-high-school-danger-course.json) |
 | Super High School Sports Day Crankathlon | 230724 | [230724-super-high-school-sports-day-crankathlon.json](./230724-super-high-school-sports-day-crankathlon.json) |
 | Super High-Way | 172649 | [172649-super-high-way.json](./172649-super-high-way.json) |
+| Super Hiking Simulator 2020 | 129990 | [129990-super-hiking-simulator-2020.json](./129990-super-hiking-simulator-2020.json) |
 | Super Hiking Simulator 2020: After | 172117 | [172117-super-hiking-simulator-2020-after.json](./172117-super-hiking-simulator-2020-after.json) |
 | Super Hiking Simulator 2020: Escort Rin | 161715 | [161715-super-hiking-simulator-2020-escort-rin.json](./161715-super-hiking-simulator-2020-escort-rin.json) |
 | Super Hiking Simulator 2020: Puzzles | 163422 | [163422-super-hiking-simulator-2020-puzzles.json](./163422-super-hiking-simulator-2020-puzzles.json) |
@@ -28295,6 +28303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lone Survivor | 140603 | [140603-super-lone-survivor.json](./140603-super-lone-survivor.json) |
 | Super Long Boy | 251022 | [251022-super-long-boy.json](./251022-super-long-boy.json) |
 | Super Long Cat | 368768 | [368768-super-long-cat.json](./368768-super-long-cat.json) |
+| Super Loop Drive | 129954 | [129954-super-loop-drive.json](./129954-super-loop-drive.json) |
 | Super Loopz | 42357 | [42357-super-loopz.json](./42357-super-loopz.json) |
 | Super Lotsa Added Stuff Hack | 19777 | [19777-super-lotsa-added-stuff-hack.json](./19777-super-lotsa-added-stuff-hack.json) |
 | Super Lovely Planet | 27321 | [27321-super-lovely-planet.json](./27321-super-lovely-planet.json) |
@@ -30466,6 +30475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Ruler Ultimate | 36269 | [36269-supreme-ruler-ultimate.json](./36269-supreme-ruler-ultimate.json) |
 | Supreme Ruler Ultimate: Trump Rising | 171958 | [171958-supreme-ruler-ultimate-trump-rising.json](./171958-supreme-ruler-ultimate-trump-rising.json) |
 | Supreme Snowboarding | 9277 | [9277-supreme-snowboarding.json](./9277-supreme-snowboarding.json) |
+| Supreme Sprinter | 129957 | [129957-supreme-sprinter.json](./129957-supreme-sprinter.json) |
 | Supreme Stick Warriors | 220246 | [220246-supreme-stick-warriors.json](./220246-supreme-stick-warriors.json) |
 | Supreme Summoner | 257101 | [257101-supreme-summoner.json](./257101-supreme-summoner.json) |
 | Supreme Warrior | 298560 | [298560-supreme-warrior.json](./298560-supreme-warrior.json) |
