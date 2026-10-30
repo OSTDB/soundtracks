@@ -1451,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.C.I.T. Soup | 406706 | [406706-a-c-i-t-soup.json](./406706-a-c-i-t-soup.json) |
 | A.D. 2044 | 93168 | [93168-a-d-2044.json](./93168-a-d-2044.json) |
 | A.D. 2083 | 46766 | [46766-a-d-2083.json](./46766-a-d-2083.json) |
+| A.D. Cop | 127551 | [127551-a-d-cop.json](./127551-a-d-cop.json) |
 | A.D.A.M. | 19398 | [19398-a-d-a-m.json](./19398-a-d-a-m.json) |
 | A.D.D. (Anomaly Detection Department) | 412470 | [412470-a-d-d-anomaly-detection-department.json](./412470-a-d-d-anomaly-detection-department.json) |
 | A.D.D.: Addictive Dumb Distractions | 79763 | [79763-a-d-d-addictive-dumb-distractions.json](./79763-a-d-d-addictive-dumb-distractions.json) |
@@ -6776,6 +6777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alnam no Kiba: Juuzoku Juuni Shinto Densetsu | 108919 | [108919-alnam-no-kiba-juuzoku-juuni-shinto-densetsu.json](./108919-alnam-no-kiba-juuzoku-juuni-shinto-densetsu.json) |
 | Alnico Smithery | 247931 | [247931-alnico-smithery.json](./247931-alnico-smithery.json) |
 | Alnory | 60195 | [60195-alnory.json](./60195-alnory.json) |
+| Aloe and Cal | 127536 | [127536-aloe-and-cal.json](./127536-aloe-and-cal.json) |
 | Aloft | 204375 | [204375-aloft.json](./204375-aloft.json) |
 | Aloha Play | 91408 | [91408-aloha-play.json](./91408-aloha-play.json) |
 | Aloisius | 183469 | [183469-aloisius.json](./183469-aloisius.json) |
@@ -12911,7 +12913,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Master 2 | 227374 | [227374-art-master-2.json](./227374-art-master-2.json) |
 | Art na Esagashi Adventure | 251529 | [251529-art-na-esagashi-adventure.json](./251529-art-na-esagashi-adventure.json) |
 | Art of Air War | 120755 | [120755-art-of-air-war.json](./120755-art-of-air-war.json) |
-| Art of Balance | 6555 | [6555-art-of-balance.json](./6555-art-of-balance.json) |
 | Art of Balance Touch! | 47654 | [47654-art-of-balance-touch.json](./47654-art-of-balance-touch.json) |
 | Art of Battle | 411747 | [411747-art-of-battle.json](./411747-art-of-battle.json) |
 | Art of Beauties | 385791 | [385791-art-of-beauties.json](./385791-art-of-beauties.json) |
