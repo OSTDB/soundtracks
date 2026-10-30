@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaden's Nether Expansion | 344016 | [344016-jadens-nether-expansion.json](./344016-jadens-nether-expansion.json) |
 | Jaderaze Inferno | 412465 | [412465-jaderaze-inferno.json](./412465-jaderaze-inferno.json) |
 | Jadoraki | 238574 | [238574-jadoraki.json](./238574-jadoraki.json) |
+| Jaeger | 157826 | [157826-jaeger.json](./157826-jaeger.json) |
 | Jagainu-kun | 281588 | [281588-jagainu-kun.json](./281588-jagainu-kun.json) |
 | Jagan: Evil Eye | 97991 | [97991-jagan-evil-eye.json](./97991-jagan-evil-eye.json) |
 | Jagd Lanzer | 125109 | [125109-jagd-lanzer.json](./125109-jagd-lanzer.json) |
