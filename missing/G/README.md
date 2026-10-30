@@ -6018,6 +6018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Shiyouyo | 113530 | [113530-golf-shiyouyo.json](./113530-golf-shiyouyo.json) |
 | Golf Skies | 188258 | [188258-golf-skies.json](./188258-golf-skies.json) |
 | Golf Solitaire | 366432 | [366432-golf-solitaire.json](./366432-golf-solitaire.json) |
+| Golf Solitaire Cube | 125586 | [125586-golf-solitaire-cube.json](./125586-golf-solitaire-cube.json) |
 | Golf Solitaire Pro | 88299 | [88299-golf-solitaire-pro.json](./88299-golf-solitaire-pro.json) |
 | Golf Solitaire Simple | 186246 | [186246-golf-solitaire-simple.json](./186246-golf-solitaire-simple.json) |
 | Golf Star | 259554 | [259554-golf-star.json](./259554-golf-star.json) |
@@ -7335,6 +7336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grappling Gunners: Arena FPS | 273772 | [273772-grappling-gunners-arena-fps.json](./273772-grappling-gunners-arena-fps.json) |
 | Grappling Hook | 21106 | [21106-grappling-hook.json](./21106-grappling-hook.json) |
 | Grappling Hook Ball Tournament | 190404 | [190404-grappling-hook-ball-tournament.json](./190404-grappling-hook-ball-tournament.json) |
+| GrapplingHook | 125650 | [125650-grapplinghook.json](./125650-grapplinghook.json) |
 | Grapploteer | 253213 | [253213-grapploteer.json](./253213-grapploteer.json) |
 | Grapply | 31612 | [31612-grapply.json](./31612-grapply.json) |
 | Grashers | 124247 | [124247-grashers.json](./124247-grashers.json) |
@@ -8476,6 +8478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire | 86187 | [86187-grimoire.json](./86187-grimoire.json) |
 | Grimoire Arena | 125328 | [125328-grimoire-arena.json](./125328-grimoire-arena.json) |
 | Grimoire Limbo | 416334 | [416334-grimoire-limbo.json](./416334-grimoire-limbo.json) |
+| Grimoire Melody | 125599 | [125599-grimoire-melody.json](./125599-grimoire-melody.json) |
 | Grimoire of Blanks | 418214 | [418214-grimoire-of-blanks.json](./418214-grimoire-of-blanks.json) |
 | Grimoire of Gaia | 237528 | [237528-grimoire-of-gaia.json](./237528-grimoire-of-gaia.json) |
 | Grimoire of Syvnta | 264745 | [264745-grimoire-of-syvnta.json](./264745-grimoire-of-syvnta.json) |
