@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type DX | 49829 | [49829-r-type-dx.json](./49829-r-type-dx.json) |
 | R-Type DX: Music Encore | 399802 | [399802-r-type-dx-music-encore.json](./399802-r-type-dx-music-encore.json) |
 | R-Type Final | 24109 | [24109-r-type-final.json](./24109-r-type-final.json) |
+| R-Type Final 2: Digital Deluxe Edition | 164704 | [164704-r-type-final-2-digital-deluxe-edition.json](./164704-r-type-final-2-digital-deluxe-edition.json) |
 | R-Type Final 2: DLC Set 1 | 155065 | [155065-r-type-final-2-dlc-set-1.json](./155065-r-type-final-2-dlc-set-1.json) |
 | R-Type Final 2: DLC Set 2 | 155064 | [155064-r-type-final-2-dlc-set-2.json](./155064-r-type-final-2-dlc-set-2.json) |
 | R-Type Final 2: DLC Set 3 | 155063 | [155063-r-type-final-2-dlc-set-3.json](./155063-r-type-final-2-dlc-set-3.json) |
@@ -7161,6 +7162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk II | 9711 | [9711-risk-ii.json](./9711-risk-ii.json) |
 | Risk of Pain | 278372 | [278372-risk-of-pain.json](./278372-risk-of-pain.json) |
 | Risk of Rain | 3173 | [3173-risk-of-rain.json](./3173-risk-of-rain.json) |
+| Risk of Rain 1 + 2 Bundle | 164715 | [164715-risk-of-rain-1-2-bundle.json](./164715-risk-of-rain-1-2-bundle.json) |
 | Risk of Rain 2 + Survivors of the Void | 201040 | [201040-risk-of-rain-2-survivors-of-the-void.json](./201040-risk-of-rain-2-survivors-of-the-void.json) |
 | Risk of Rain 2 + Survivors of the Void + Seekers of the Storm Bundle | 317682 | [317682-risk-of-rain-2-survivors-of-the-void-seekers-of-the-storm-bundle.json](./317682-risk-of-rain-2-survivors-of-the-void-seekers-of-the-storm-bundle.json) |
 | Risk of Rain 2: Aetherium | 310531 | [310531-risk-of-rain-2-aetherium.json](./310531-risk-of-rain-2-aetherium.json) |
@@ -11498,6 +11500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust: Console Deluxe Edition | 148452 | [148452-rust-console-deluxe-edition.json](./148452-rust-console-deluxe-edition.json) |
 | Rust: Console Edition | 145149 | [145149-rust-console-edition.json](./145149-rust-console-edition.json) |
 | Rust: Console Edition - Day One | 146116 | [146116-rust-console-edition-day-one.json](./146116-rust-console-edition-day-one.json) |
+| Rust: Console Edition - Deluxe | 164705 | [164705-rust-console-edition-deluxe.json](./164705-rust-console-edition-deluxe.json) |
 | Rust: Console Edition - New Cobalt Employee Welcome Pack | 259752 | [259752-rust-console-edition-new-cobalt-employee-welcome-pack.json](./259752-rust-console-edition-new-cobalt-employee-welcome-pack.json) |
 | Rust: Console Edition - Warhammer 40,000 Pack | 402506 | [402506-rust-console-edition-warhammer-40-000-pack.json](./402506-rust-console-edition-warhammer-40-000-pack.json) |
 | Rust: Instruments Pack | 351516 | [351516-rust-instruments-pack.json](./351516-rust-instruments-pack.json) |
