@@ -2742,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inazuma Eleven GO Strikers 2013 | 22686 | [22686-inazuma-eleven-go-strikers-2013.json](./22686-inazuma-eleven-go-strikers-2013.json) |
 | Inazuma Eleven GO: Chrono Stones - Thunderflash | 23220 | [23220-inazuma-eleven-go-chrono-stones-thunderflash.json](./23220-inazuma-eleven-go-chrono-stones-thunderflash.json) |
 | Inazuma Eleven GO: Chrono Stones - Wildfire | 9693 | [9693-inazuma-eleven-go-chrono-stones-wildfire.json](./9693-inazuma-eleven-go-chrono-stones-wildfire.json) |
+| Inazuma Eleven Go: Galaxy Super Nova | 136053 | [136053-inazuma-eleven-go-galaxy-super-nova.json](./136053-inazuma-eleven-go-galaxy-super-nova.json) |
 | Inazuma Eleven Go: Light | 47673 | [47673-inazuma-eleven-go-light.json](./47673-inazuma-eleven-go-light.json) |
 | Inazuma Eleven GO: Shadow | 9685 | [9685-inazuma-eleven-go-shadow.json](./9685-inazuma-eleven-go-shadow.json) |
 | Inazuma Eleven Origins | 289434 | [289434-inazuma-eleven-origins.json](./289434-inazuma-eleven-origins.json) |
