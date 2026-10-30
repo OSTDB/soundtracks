@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic of Spring | 195561 | [195561-magic-of-spring.json](./195561-magic-of-spring.json) |
 | Magic Orbs | 125332 | [125332-magic-orbs.json](./125332-magic-orbs.json) |
 | Magic Paint | 88224 | [88224-magic-paint.json](./88224-magic-paint.json) |
+| Magic Panda: Toy Match | 175025 | [175025-magic-panda-toy-match.json](./175025-magic-panda-toy-match.json) |
 | Magic Paper | 250648 | [250648-magic-paper.json](./250648-magic-paper.json) |
 | Magic Paths HD | 263584 | [263584-magic-paths-hd.json](./263584-magic-paths-hd.json) |
 | Magic Patrol Envoy | 311135 | [311135-magic-patrol-envoy.json](./311135-magic-patrol-envoy.json) |
@@ -8735,6 +8736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug 6 | 1411 | [1411-metal-slug-6.json](./1411-metal-slug-6.json) |
 | Metal Slug Advance | 1406 | [1406-metal-slug-advance.json](./1406-metal-slug-advance.json) |
 | Metal Slug Anthology | 5004 | [5004-metal-slug-anthology.json](./5004-metal-slug-anthology.json) |
+| Metal Slug Awakening | 175038 | [175038-metal-slug-awakening.json](./175038-metal-slug-awakening.json) |
 | Metal Slug Bundle | 271120 | [271120-metal-slug-bundle.json](./271120-metal-slug-bundle.json) |
 | Metal Slug Collection | 51223 | [51223-metal-slug-collection.json](./51223-metal-slug-collection.json) |
 | Metal Slug Defense | 35593 | [35593-metal-slug-defense.json](./35593-metal-slug-defense.json) |
@@ -12853,6 +12855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mocap Boxing | 61667 | [61667-mocap-boxing.json](./61667-mocap-boxing.json) |
 | Mocaverse | 244773 | [244773-mocaverse.json](./244773-mocaverse.json) |
 | Moccasin | 29462 | [29462-moccasin.json](./29462-moccasin.json) |
+| Mocchiri Toraneko | 175008 | [175008-mocchiri-toraneko.json](./175008-mocchiri-toraneko.json) |
 | Moccoletti | 302381 | [302381-moccoletti.json](./302381-moccoletti.json) |
 | Mochi Conquest | 376004 | [376004-mochi-conquest.json](./376004-mochi-conquest.json) |
 | Mochi in Frosting | 146518 | [146518-mochi-in-frosting.json](./146518-mochi-in-frosting.json) |
@@ -15981,6 +15984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Boy | 302910 | [302910-mountain-boy.json](./302910-mountain-boy.json) |
 | Mountain Car Climb | 402347 | [402347-mountain-car-climb.json](./402347-mountain-car-climb.json) |
 | Mountain Climb Driver | 253225 | [253225-mountain-climb-driver.json](./253225-mountain-climb-driver.json) |
+| Mountain Climb: Stunt | 175024 | [175024-mountain-climb-stunt.json](./175024-mountain-climb-stunt.json) |
 | Mountain King | 12315 | [12315-mountain-king.json](./12315-mountain-king.json) |
 | Mountain King Return | 288662 | [288662-mountain-king-return.json](./288662-mountain-king-return.json) |
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
