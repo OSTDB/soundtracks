@@ -3699,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell On Earth Shareware | 275212 | [275212-hell-on-earth-shareware.json](./275212-hell-on-earth-shareware.json) |
 | Hell on Ice | 180686 | [180686-hell-on-ice.json](./180686-hell-on-ice.json) |
 | Hell Pages | 161610 | [161610-hell-pages.json](./161610-hell-pages.json) |
+| Hell Pub | 150339 | [150339-hell-pub.json](./150339-hell-pub.json) |
 | Hell Punk Awakening | 196990 | [196990-hell-punk-awakening.json](./196990-hell-punk-awakening.json) |
 | Hell Revealations | 275570 | [275570-hell-revealations.json](./275570-hell-revealations.json) |
 | Hell Revealed | 138759 | [138759-hell-revealed.json](./138759-hell-revealed.json) |
@@ -11142,6 +11143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Pop | 234131 | [234131-hyper-pop.json](./234131-hyper-pop.json) |
 | Hyper Primate | 258575 | [258575-hyper-primate.json](./258575-hyper-primate.json) |
 | Hyper Princess Pitch | 79745 | [79745-hyper-princess-pitch.json](./79745-hyper-princess-pitch.json) |
+| Hyper Psychic Gauntlets | 150340 | [150340-hyper-psychic-gauntlets.json](./150340-hyper-psychic-gauntlets.json) |
 | Hyper Rally | 29034 | [29034-hyper-rally.json](./29034-hyper-rally.json) |
 | Hyper Reverthion | 97327 | [97327-hyper-reverthion.json](./97327-hyper-reverthion.json) |
 | Hyper Rider | 319972 | [319972-hyper-rider.json](./319972-hyper-rider.json) |
