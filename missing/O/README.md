@@ -440,6 +440,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ochakai he no Shoutaijou | 246092 | [246092-ochakai-he-no-shoutaijou.json](./246092-ochakai-he-no-shoutaijou.json) |
 | Ochaken Kururin: Honwaka Puzzle de Ho~ttoshiyou? | 49744 | [49744-ochaken-kururin-honwaka-puzzle-de-ho-ttoshiyou.json](./49744-ochaken-kururin-honwaka-puzzle-de-ho-ttoshiyou.json) |
 | Ochaken no Bouken-jima: Honwaka Yume no Island | 49743 | [49743-ochaken-no-bouken-jima-honwaka-yume-no-island.json](./49743-ochaken-no-bouken-jima-honwaka-yume-no-island.json) |
+| Ochaken no Daibouken 2: Yume Ippai no Omocha Hako | 124425 | [124425-ochaken-no-daibouken-2-yume-ippai-no-omocha-hako.json](./124425-ochaken-no-daibouken-2-yume-ippai-no-omocha-hako.json) |
+| Ochaken no Daibouken: Honwaku Yumemiru Sekai Ryoukou | 124426 | [124426-ochaken-no-daibouken-honwaku-yumemiru-sekai-ryoukou.json](./124426-ochaken-no-daibouken-honwaku-yumemiru-sekai-ryoukou.json) |
 | Ochaken no Heya | 49742 | [49742-ochaken-no-heya.json](./49742-ochaken-no-heya.json) |
 | Ochaken no Heya DS | 123367 | [123367-ochaken-no-heya-ds.json](./123367-ochaken-no-heya-ds.json) |
 | Ochaken no Heya DS 2 | 123368 | [123368-ochaken-no-heya-ds-2.json](./123368-ochaken-no-heya-ds-2.json) |
@@ -710,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oekaki Logic 2 | 44387 | [44387-oekaki-logic-2.json](./44387-oekaki-logic-2.json) |
 | Oekaki Nokoshite Print Shichaou! Set | 327629 | [327629-oekaki-nokoshite-print-shichaou-set.json](./327629-oekaki-nokoshite-print-shichaou-set.json) |
 | Oekaki Programmer | 346041 | [346041-oekaki-programmer.json](./346041-oekaki-programmer.json) |
+| Oekaki Puzzle Battle Vol. 1: Yuusha-Oh GaoGaiGar Version | 124427 | [124427-oekaki-puzzle-battle-vol-1-yuusha-oh-gaogaigar-version.json](./124427-oekaki-puzzle-battle-vol-1-yuusha-oh-gaogaigar-version.json) |
 | Oel | 62611 | [62611-oel.json](./62611-oel.json) |
 | Oeuf | 375317 | [375317-oeuf.json](./375317-oeuf.json) |
 | Of a Feather | 178515 | [178515-of-a-feather.json](./178515-of-a-feather.json) |
@@ -1117,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh...Sir! The Hollywood Roast | 29994 | [29994-oh-sir-the-hollywood-roast.json](./29994-oh-sir-the-hollywood-roast.json) |
 | Oh...Sir!! The Insult Simulator | 25577 | [25577-oh-sir-the-insult-simulator.json](./25577-oh-sir-the-insult-simulator.json) |
 | Oh's Talk English | 269517 | [269517-ohs-talk-english.json](./269517-ohs-talk-english.json) |
+| Oha Star 645: Musshees no Fushigi na Nouen - Yoshimoto Geinin to Tomodachi Net | 124428 | [124428-oha-star-645-musshees-no-fushigi-na-nouen-yoshimoto-geinin-to-tomodachi-net.json](./124428-oha-star-645-musshees-no-fushigi-na-nouen-yoshimoto-geinin-to-tomodachi-net.json) |
 | Oha Star Produce! Gentei Collabo Game Disc!! | 268377 | [268377-oha-star-produce-gentei-collabo-game-disc.json](./268377-oha-star-produce-gentei-collabo-game-disc.json) |
 | Oha Suta Dance Dance Revolution | 245658 | [245658-oha-suta-dance-dance-revolution.json](./245658-oha-suta-dance-dance-revolution.json) |
 | Oha Suta Dance Dance Revolution GB | 246126 | [246126-oha-suta-dance-dance-revolution-gb.json](./246126-oha-suta-dance-dance-revolution-gb.json) |
@@ -1137,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ohno Odyssey | 23519 | [23519-ohno-odyssey.json](./23519-ohno-odyssey.json) |
 | Ohota Krepkoe | 43102 | [43102-ohota-krepkoe.json](./43102-ohota-krepkoe.json) |
 | Ohr Oni | 186620 | [186620-ohr-oni.json](./186620-ohr-oni.json) |
+| OhShape | 124406 | [124406-ohshape.json](./124406-ohshape.json) |
 | OhShape Ultimate | 299488 | [299488-ohshape-ultimate.json](./299488-ohshape-ultimate.json) |
 | OHV | 216978 | [216978-ohv.json](./216978-ohv.json) |
 | Oi, Innkeep! | 96121 | [96121-oi-innkeep.json](./96121-oi-innkeep.json) |
@@ -3157,6 +3162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Food to Gold | 278385 | [278385-operation-food-to-gold.json](./278385-operation-food-to-gold.json) |
 | Operation Frog | 60411 | [60411-operation-frog.json](./60411-operation-frog.json) |
 | Operation Fungus | 124576 | [124576-operation-fungus.json](./124576-operation-fungus.json) |
+| Operation G.H.O.S.T. | 124431 | [124431-operation-g-h-o-s-t.json](./124431-operation-g-h-o-s-t.json) |
 | Operation Gekkou | 210688 | [210688-operation-gekkou.json](./210688-operation-gekkou.json) |
 | Operation Get Bike Back 2: Pedal Recall | 330766 | [330766-operation-get-bike-back-2-pedal-recall.json](./330766-operation-get-bike-back-2-pedal-recall.json) |
 | Operation Gunship | 72585 | [72585-operation-gunship.json](./72585-operation-gunship.json) |
