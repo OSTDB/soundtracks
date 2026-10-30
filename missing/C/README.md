@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calcolo!: Ochimo no Shooting | 146763 | [146763-calcolo-ochimo-no-shooting.json](./146763-calcolo-ochimo-no-shooting.json) |
 | Calcu-Late | 33331 | [33331-calcu-late.json](./33331-calcu-late.json) |
 | Calculate It | 317375 | [317375-calculate-it.json](./317375-calculate-it.json) |
+| Calculate It! | 149767 | [149767-calculate-it.json](./149767-calculate-it.json) |
 | Calculation | 14370 | [14370-calculation.json](./14370-calculation.json) |
 | Calculation Castle: Greco's Ghostly Challenge "Addition" | 105924 | [105924-calculation-castle-grecos-ghostly-challenge-addition.json](./105924-calculation-castle-grecos-ghostly-challenge-addition.json) |
 | Calculation Castle: Greco's Ghostly Challenge "Division" | 105923 | [105923-calculation-castle-grecos-ghostly-challenge-division.json](./105923-calculation-castle-grecos-ghostly-challenge-division.json) |
@@ -1374,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canvas City | 379938 | [379938-canvas-city.json](./379938-canvas-city.json) |
 | Canvas Colors: In the Moving City | 161156 | [161156-canvas-colors-in-the-moving-city.json](./161156-canvas-colors-in-the-moving-city.json) |
 | Canvas Croquis | 40074 | [40074-canvas-croquis.json](./40074-canvas-croquis.json) |
+| Canvas Hockey | 149773 | [149773-canvas-hockey.json](./149773-canvas-hockey.json) |
 | Canvas Infernum | 333881 | [333881-canvas-infernum.json](./333881-canvas-infernum.json) |
 | Canvas Intruder | 316142 | [316142-canvas-intruder.json](./316142-canvas-intruder.json) |
 | Canvas Legacy | 219219 | [219219-canvas-legacy.json](./219219-canvas-legacy.json) |
@@ -3837,6 +3839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch & Cook | 244231 | [244231-catch-and-cook.json](./244231-catch-and-cook.json) |
 | Catch & Defense | 373190 | [373190-catch-and-defense.json](./373190-catch-and-defense.json) |
 | Catch & Release | 103032 | [103032-catch-and-release.json](./103032-catch-and-release.json) |
+| Catch a Cat for 60 Seconds | 149793 | [149793-catch-a-cat-for-60-seconds.json](./149793-catch-a-cat-for-60-seconds.json) |
 | Catch a Falling Star | 33285 | [33285-catch-a-falling-star.json](./33285-catch-a-falling-star.json) |
 | Catch a Lover | 29543 | [29543-catch-a-lover.json](./29543-catch-a-lover.json) |
 | Catch Beshi!! Scooping Game | 322666 | [322666-catch-beshi-scooping-game.json](./322666-catch-beshi-scooping-game.json) |
@@ -4754,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Central Standard | 321130 | [321130-central-standard.json](./321130-central-standard.json) |
 | Central Station | 242244 | [242244-central-station.json](./242244-central-station.json) |
 | Centre Court Tennis | 3456 | [3456-centre-court-tennis.json](./3456-centre-court-tennis.json) |
+| Centrifugal | 149814 | [149814-centrifugal.json](./149814-centrifugal.json) |
 | Centrist | 276694 | [276694-centrist.json](./276694-centrist.json) |
 | Centroid | 133971 | [133971-centroid.json](./133971-centroid.json) |
 | Centropods | 45355 | [45355-centropods.json](./45355-centropods.json) |
@@ -13366,6 +13370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Lander | 185374 | [185374-cosmic-lander.json](./185374-cosmic-lander.json) |
 | Cosmic League | 57108 | [57108-cosmic-league.json](./57108-cosmic-league.json) |
 | Cosmic League | 57134 | [57134-cosmic-league.json](./57134-cosmic-league.json) |
+| Cosmic Magus | 149811 | [149811-cosmic-magus.json](./149811-cosmic-magus.json) |
 | Cosmic Maid Café | 381305 | [381305-cosmic-maid-cafe.json](./381305-cosmic-maid-cafe.json) |
 | Cosmic Mart | 409021 | [409021-cosmic-mart.json](./409021-cosmic-mart.json) |
 | Cosmic Math | 91745 | [91745-cosmic-math.json](./91745-cosmic-math.json) |
@@ -14335,6 +14340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CranKuro | 413584 | [413584-crankuro.json](./413584-crankuro.json) |
 | Crankventure Capitalist | 314494 | [314494-crankventure-capitalist.json](./314494-crankventure-capitalist.json) |
 | Cranky Bird | 207285 | [207285-cranky-bird.json](./207285-cranky-bird.json) |
+| Cranky Cannon | 149812 | [149812-cranky-cannon.json](./149812-cranky-cannon.json) |
 | Cranky Cat | 16514 | [16514-cranky-cat.json](./16514-cranky-cat.json) |
 | Cranky Chibi Cthulhu | 274311 | [274311-cranky-chibi-cthulhu.json](./274311-cranky-chibi-cthulhu.json) |
 | Cranky Counter (Don't Play This Game!) | 281342 | [281342-cranky-counter-dont-play-this-game.json](./281342-cranky-counter-dont-play-this-game.json) |
