@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Fairytale | 97159 | [97159-your-fairytale.json](./97159-your-fairytale.json) |
 | Your Fear | 151000 | [151000-your-fear.json](./151000-your-fear.json) |
 | Your Financial Story | 193675 | [193675-your-financial-story.json](./193675-your-financial-story.json) |
+| Your First Girlfriend | 153043 | [153043-your-first-girlfriend.json](./153043-your-first-girlfriend.json) |
 | Your Friend Hana | 29108 | [29108-your-friend-hana.json](./29108-your-friend-hana.json) |
 | Your Friendly Neighborhood Vampire Detective | 184772 | [184772-your-friendly-neighborhood-vampire-detective.json](./184772-your-friendly-neighborhood-vampire-detective.json) |
 | Your Future 2 Future Prediction | 276455 | [276455-your-future-2-future-prediction.json](./276455-your-future-2-future-prediction.json) |
