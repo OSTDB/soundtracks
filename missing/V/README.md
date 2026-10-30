@@ -3512,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Ninja Dojo | 316410 | [316410-vr-ninja-dojo.json](./316410-vr-ninja-dojo.json) |
 | VR Noir | 188351 | [188351-vr-noir.json](./188351-vr-noir.json) |
 | VR Paper Airplane Hunting | 163805 | [163805-vr-paper-airplane-hunting.json](./163805-vr-paper-airplane-hunting.json) |
+| VR Parallel World | 148772 | [148772-vr-parallel-world.json](./148772-vr-parallel-world.json) |
 | VR Party Pack | 249673 | [249673-vr-party-pack.json](./249673-vr-party-pack.json) |
 | VR Party Pack | 249675 | [249675-vr-party-pack.json](./249675-vr-party-pack.json) |
 | VR Pianist | 152878 | [152878-vr-pianist.json](./152878-vr-pianist.json) |
