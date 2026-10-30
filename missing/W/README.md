@@ -8260,6 +8260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wǔlín Zhìzūn Zhuàn | 367434 | [367434-wulin-zhizun-zhuan.json](./367434-wulin-zhizun-zhuan.json) |
 | Wumball | 344405 | [344405-wumball.json](./344405-wumball.json) |
 | Wumbo's Adventure | 102750 | [102750-wumbos-adventure.json](./102750-wumbos-adventure.json) |
+| Wúmián Yèqǔ | 149799 | [149799-wumian-yequ.json](./149799-wumian-yequ.json) |
 | Wummsen Village | 361118 | [361118-wummsen-village.json](./361118-wummsen-village.json) |
 | Wumpus | 61029 | [61029-wumpus.json](./61029-wumpus.json) |
 | Wunderdoktor | 74537 | [74537-wunderdoktor.json](./74537-wunderdoktor.json) |
