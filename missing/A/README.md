@@ -1590,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aazor: The Life of a Demon - Part I: The Beginning | 58081 | [58081-aazor-the-life-of-a-demon-part-i-the-beginning.json](./58081-aazor-the-life-of-a-demon-part-i-the-beginning.json) |
 | Ab Aeterno | 193291 | [193291-ab-aeterno.json](./193291-ab-aeterno.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
+| Abacus | 154764 | [154764-abacus.json](./154764-abacus.json) |
 | Abacus Finch | 143967 | [143967-abacus-finch.json](./143967-abacus-finch.json) |
 | Abaddon | 305287 | [305287-abaddon.json](./305287-abaddon.json) |
 | Abaddon | 376840 | [376840-abaddon.json](./376840-abaddon.json) |
@@ -2275,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - Cutting-Edge Aircraft Series | 282600 | [282600-ace-combat-7-skies-unknown-cutting-edge-aircraft-series.json](./282600-ace-combat-7-skies-unknown-cutting-edge-aircraft-series.json) |
 | Ace Combat 7: Skies Unknown - Cutting-Edge Aircraft Series Set | 324420 | [324420-ace-combat-7-skies-unknown-cutting-edge-aircraft-series-set.json](./324420-ace-combat-7-skies-unknown-cutting-edge-aircraft-series-set.json) |
 | Ace Combat 7: Skies Unknown - Deluxe Edition 2022 | 282545 | [282545-ace-combat-7-skies-unknown-deluxe-edition-2022.json](./282545-ace-combat-7-skies-unknown-deluxe-edition-2022.json) |
+| Ace Combat 7: Skies Unknown - Experimental Aircraft Series | 154753 | [154753-ace-combat-7-skies-unknown-experimental-aircraft-series.json](./154753-ace-combat-7-skies-unknown-experimental-aircraft-series.json) |
 | Ace Combat 7: Skies Unknown - Experimental Aircraft Series Set | 324421 | [324421-ace-combat-7-skies-unknown-experimental-aircraft-series-set.json](./324421-ace-combat-7-skies-unknown-experimental-aircraft-series-set.json) |
 | Ace Combat 7: Skies Unknown - F-104C: Avril | 282540 | [282540-ace-combat-7-skies-unknown-f-104c-avril.json](./282540-ace-combat-7-skies-unknown-f-104c-avril.json) |
 | Ace Combat 7: Skies Unknown - F-15 S/MTD Set | 282589 | [282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json](./282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json) |
@@ -3950,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterslave | 210857 | [210857-afterslave.json](./210857-afterslave.json) |
 | Aftertaste | 419845 | [419845-aftertaste.json](./419845-aftertaste.json) |
 | AfterTheDawn | 81753 | [81753-afterthedawn.json](./81753-afterthedawn.json) |
+| Afterthought | 154755 | [154755-afterthought.json](./154755-afterthought.json) |
 | Aftertime | 211420 | [211420-aftertime.json](./211420-aftertime.json) |
 | AfterWar | 264765 | [264765-afterwar.json](./264765-afterwar.json) |
 | Afterward | 184986 | [184986-afterward.json](./184986-afterward.json) |
