@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Puzzle Rooms | 134374 | [134374-13-puzzle-rooms.json](./134374-13-puzzle-rooms.json) |
 | 13 Rosas | 270620 | [270620-13-rosas.json](./270620-13-rosas.json) |
 | 13 Seconds | 283868 | [283868-13-seconds.json](./283868-13-seconds.json) |
+| 13 Sentinels: Aegis Rim - Premium Box | 134243 | [134243-13-sentinels-aegis-rim-premium-box.json](./134243-13-sentinels-aegis-rim-premium-box.json) |
 | 13 Steps | 211388 | [211388-13-steps.json](./211388-13-steps.json) |
 | 13 Thieves | 234074 | [234074-13-thieves.json](./234074-13-thieves.json) |
 | 13 Wood St | 152479 | [152479-13-wood-st.json](./152479-13-wood-st.json) |
