@@ -2588,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carpe Noctem | 309372 | [309372-carpe-noctem.json](./309372-carpe-noctem.json) |
 | Carpenter Genzo: Robot Empire | 55937 | [55937-carpenter-genzo-robot-empire.json](./55937-carpenter-genzo-robot-empire.json) |
 | Carperation | 163973 | [163973-carperation.json](./163973-carperation.json) |
+| Carpet Bombing | 128148 | [128148-carpet-bombing.json](./128148-carpet-bombing.json) |
 | Carpet Cleaning Simulator | 407474 | [407474-carpet-cleaning-simulator.json](./407474-carpet-cleaning-simulator.json) |
 | Carpet Gallery | 320314 | [320314-carpet-gallery.json](./320314-carpet-gallery.json) |
 | Carpet Kitty | 238295 | [238295-carpet-kitty.json](./238295-carpet-kitty.json) |
@@ -4378,6 +4379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveblazers | 33269 | [33269-caveblazers.json](./33269-caveblazers.json) |
 | Caveblazers: Together | 170909 | [170909-caveblazers-together.json](./170909-caveblazers-together.json) |
 | Cavebound | 155897 | [155897-cavebound.json](./155897-cavebound.json) |
+| CaveBugBoy | 128145 | [128145-cavebugboy.json](./128145-cavebugboy.json) |
 | Caved-in | 249797 | [249797-caved-in.json](./249797-caved-in.json) |
 | CaveDare | 110907 | [110907-cavedare.json](./110907-cavedare.json) |
 | Cavedude | 397940 | [397940-cavedude.json](./397940-cavedude.json) |
@@ -4410,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CaveMan Rock | 43504 | [43504-caveman-rock.json](./43504-caveman-rock.json) |
 | Caveman Stories | 95184 | [95184-caveman-stories.json](./95184-caveman-stories.json) |
 | Caveman Tales | 147600 | [147600-caveman-tales.json](./147600-caveman-tales.json) |
+| Caveman the Game | 128154 | [128154-caveman-the-game.json](./128154-caveman-the-game.json) |
 | Caveman Warriors | 29250 | [29250-caveman-warriors.json](./29250-caveman-warriors.json) |
 | Caveman Zac | 388324 | [388324-caveman-zac.json](./388324-caveman-zac.json) |
 | Cavemaze 3D | 359720 | [359720-cavemaze-3d.json](./359720-cavemaze-3d.json) |
@@ -7778,6 +7781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuukana Janshi Tenhou Painyan | 380412 | [380412-chuukana-janshi-tenhou-painyan.json](./380412-chuukana-janshi-tenhou-painyan.json) |
 | Chuukara Shisen | 206579 | [206579-chuukara-shisen.json](./206579-chuukara-shisen.json) |
 | Chuushaki: Hirasawa Nurse School | 321404 | [321404-chuushaki-hirasawa-nurse-school.json](./321404-chuushaki-hirasawa-nurse-school.json) |
+| Chuusotsu! 1.5th Graduation: The Moving Castle | 128188 | [128188-chuusotsu-1-5th-graduation-the-moving-castle.json](./128188-chuusotsu-1-5th-graduation-the-moving-castle.json) |
 | Chuusotsu! 1st Graduation: Time After Time | 36485 | [36485-chuusotsu-1st-graduation-time-after-time.json](./36485-chuusotsu-1st-graduation-time-after-time.json) |
 | Chuxen | 268910 | [268910-chuxen.json](./268910-chuxen.json) |
 | Chuxie | 308857 | [308857-chuxie.json](./308857-chuxie.json) |
@@ -10396,6 +10400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold War Conflicts: Days in the Field 1950-1973 | 23785 | [23785-cold-war-conflicts-days-in-the-field-1950-1973.json](./23785-cold-war-conflicts-days-in-the-field-1950-1973.json) |
 | Cold War Era | 356265 | [356265-cold-war-era.json](./356265-cold-war-era.json) |
 | Cold War Game | 122043 | [122043-cold-war-game.json](./122043-cold-war-game.json) |
+| Cold War Minister | 128152 | [128152-cold-war-minister.json](./128152-cold-war-minister.json) |
 | Cold War Warfare | 73805 | [73805-cold-war-warfare.json](./73805-cold-war-warfare.json) |
 | Cold War: Frontline | 339101 | [339101-cold-war-frontline.json](./339101-cold-war-frontline.json) |
 | Cold War: The Iron Curtain | 256451 | [256451-cold-war-the-iron-curtain.json](./256451-cold-war-the-iron-curtain.json) |
