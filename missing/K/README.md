@@ -2258,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Old Gods | 56431 | [56431-kill-the-old-gods.json](./56431-kill-the-old-gods.json) |
 | Kill the Plumber World | 100732 | [100732-kill-the-plumber-world.json](./100732-kill-the-plumber-world.json) |
 | Kill the Prince?! | 178882 | [178882-kill-the-prince.json](./178882-kill-the-prince.json) |
+| Kill the Ragdoll Stickman 2 | 175549 | [175549-kill-the-ragdoll-stickman-2.json](./175549-kill-the-ragdoll-stickman-2.json) |
 | Kill the Reaper | 276844 | [276844-kill-the-reaper.json](./276844-kill-the-reaper.json) |
 | Kill the Santa | 128350 | [128350-kill-the-santa.json](./128350-kill-the-santa.json) |
 | Kill The Shadow | 276201 | [276201-kill-the-shadow.json](./276201-kill-the-shadow.json) |
@@ -3025,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Idle Heart | 272872 | [272872-kingdom-idle-heart.json](./272872-kingdom-idle-heart.json) |
 | Kingdom II: Shadoan | 45920 | [45920-kingdom-ii-shadoan.json](./45920-kingdom-ii-shadoan.json) |
 | Kingdom III: Rising Realms | 415172 | [415172-kingdom-iii-rising-realms.json](./415172-kingdom-iii-rising-realms.json) |
+| Kingdom Island HD: Online Virtual World | 175531 | [175531-kingdom-island-hd-online-virtual-world.json](./175531-kingdom-island-hd-online-virtual-world.json) |
 | Kingdom Islands | 236396 | [236396-kingdom-islands.json](./236396-kingdom-islands.json) |
 | Kingdom Isles | 423281 | [423281-kingdom-isles.json](./423281-kingdom-isles.json) |
 | Kingdom Ka | 134601 | [134601-kingdom-ka.json](./134601-kingdom-ka.json) |
