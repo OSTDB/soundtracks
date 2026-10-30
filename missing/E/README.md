@@ -2236,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Action: Returns - S-Tribute | 226807 | [226807-elevator-action-returns-s-tribute.json](./226807-elevator-action-returns-s-tribute.json) |
 | Elevator Down | 313553 | [313553-elevator-down.json](./313553-elevator-down.json) |
 | Elevator Fight | 83200 | [83200-elevator-fight.json](./83200-elevator-fight.json) |
+| Elevator Game | 141433 | [141433-elevator-game.json](./141433-elevator-game.json) |
 | Elevator Goes Up? | 376701 | [376701-elevator-goes-up.json](./376701-elevator-goes-up.json) |
 | Elevator Hitch | 219056 | [219056-elevator-hitch.json](./219056-elevator-hitch.json) |
 | Elevator Music | 329588 | [329588-elevator-music.json](./329588-elevator-music.json) |
@@ -6088,6 +6089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everdream Valley | 138613 | [138613-everdream-valley.json](./138613-everdream-valley.json) |
 | Everdream Valley: GOG Exclusive DLC | 250652 | [250652-everdream-valley-gog-exclusive-dlc.json](./250652-everdream-valley-gog-exclusive-dlc.json) |
 | Everdream Valley: Summer Fun DLC | 255154 | [255154-everdream-valley-summer-fun-dlc.json](./255154-everdream-valley-summer-fun-dlc.json) |
+| Everescape | 141428 | [141428-everescape.json](./141428-everescape.json) |
 | Everest | 95437 | [95437-everest.json](./95437-everest.json) |
 | Everest Ascent | 14058 | [14058-everest-ascent.json](./14058-everest-ascent.json) |
 | Everest Explorer | 248217 | [248217-everest-explorer.json](./248217-everest-explorer.json) |
