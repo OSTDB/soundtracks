@@ -3427,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Salvation | 333168 | [333168-endless-salvation.json](./333168-endless-salvation.json) |
 | Endless Samurai | 235740 | [235740-endless-samurai.json](./235740-endless-samurai.json) |
 | Endless Savagery | 143921 | [143921-endless-savagery.json](./143921-endless-savagery.json) |
+| Endless Scroll | 131786 | [131786-endless-scroll.json](./131786-endless-scroll.json) |
 | Endless Season | 166583 | [166583-endless-season.json](./166583-endless-season.json) |
 | Endless Shift | 374831 | [374831-endless-shift.json](./374831-endless-shift.json) |
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
