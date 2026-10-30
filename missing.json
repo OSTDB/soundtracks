@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T03:48:45.941Z",
-  "total_missing": 282296,
+  "generated_at": "2026-10-30T04:03:57.886Z",
+  "total_missing": 282346,
   "games": [
     {
       "igdb_id": 191680,
@@ -45370,6 +45370,41 @@
       "igdb_id": 51937,
       "game_name": "Alien Arena: Warriors of Mars",
       "file": "missing/A/51937-alien-arena-warriors-of-mars.json"
+    },
+    {
+      "igdb_id": 168014,
+      "game_name": "Alien Arena: Warriors Of Mars - Map Pack 1",
+      "file": "missing/A/168014-alien-arena-warriors-of-mars-map-pack-1.json"
+    },
+    {
+      "igdb_id": 168015,
+      "game_name": "Alien Arena: Warriors Of Mars - Map Pack 2",
+      "file": "missing/A/168015-alien-arena-warriors-of-mars-map-pack-2.json"
+    },
+    {
+      "igdb_id": 168030,
+      "game_name": "Alien Arena: Warriors Of Mars - Map Pack 3",
+      "file": "missing/A/168030-alien-arena-warriors-of-mars-map-pack-3.json"
+    },
+    {
+      "igdb_id": 168012,
+      "game_name": "Alien Arena: Warriors Of Mars - Map Pack 4",
+      "file": "missing/A/168012-alien-arena-warriors-of-mars-map-pack-4.json"
+    },
+    {
+      "igdb_id": 168016,
+      "game_name": "Alien Arena: Warriors Of Mars - Map Pack 5",
+      "file": "missing/A/168016-alien-arena-warriors-of-mars-map-pack-5.json"
+    },
+    {
+      "igdb_id": 168018,
+      "game_name": "Alien Arena: Warriors Of Mars - Map Pack 7",
+      "file": "missing/A/168018-alien-arena-warriors-of-mars-map-pack-7.json"
+    },
+    {
+      "igdb_id": 168013,
+      "game_name": "Alien Arena: Warriors Of Mars - Map Pack 8",
+      "file": "missing/A/168013-alien-arena-warriors-of-mars-map-pack-8.json"
     },
     {
       "igdb_id": 66623,
@@ -93267,6 +93302,11 @@
       "file": "missing/A/207729-autonauts-vs-piratebots.json"
     },
     {
+      "igdb_id": 168034,
+      "game_name": "Autonima",
+      "file": "missing/A/168034-autonima.json"
+    },
+    {
       "igdb_id": 63767,
       "game_name": "Autonomous",
       "file": "missing/A/63767-autonomous.json"
@@ -109865,6 +109905,26 @@
       "igdb_id": 156139,
       "game_name": "Barro Racing",
       "file": "missing/B/156139-barro-racing.json"
+    },
+    {
+      "igdb_id": 168027,
+      "game_name": "Barro Racing: Bugs",
+      "file": "missing/B/168027-barro-racing-bugs.json"
+    },
+    {
+      "igdb_id": 168028,
+      "game_name": "Barro Racing: Formula",
+      "file": "missing/B/168028-barro-racing-formula.json"
+    },
+    {
+      "igdb_id": 168026,
+      "game_name": "Barro Racing: GT",
+      "file": "missing/B/168026-barro-racing-gt.json"
+    },
+    {
+      "igdb_id": 168029,
+      "game_name": "Barro Racing: Rally",
+      "file": "missing/B/168029-barro-racing-rally.json"
     },
     {
       "igdb_id": 246957,
@@ -288987,6 +289047,11 @@
       "file": "missing/D/286039-deads-dawn.json"
     },
     {
+      "igdb_id": 168036,
+      "game_name": "Dead+",
+      "file": "missing/D/168036-dead.json"
+    },
+    {
       "igdb_id": 33612,
       "game_name": "Dead6hot",
       "file": "missing/D/33612-dead6hot.json"
@@ -296752,6 +296817,11 @@
       "file": "missing/D/74600-defense-clicker.json"
     },
     {
+      "igdb_id": 168042,
+      "game_name": "Defense Clicker: Ressource Collector",
+      "file": "missing/D/168042-defense-clicker-ressource-collector.json"
+    },
+    {
       "igdb_id": 113168,
       "game_name": "Defense Corp: Earth",
       "file": "missing/D/113168-defense-corp-earth.json"
@@ -297957,9 +298027,24 @@
       "file": "missing/D/208101-delight.json"
     },
     {
+      "igdb_id": 168037,
+      "game_name": "DeLight: The Journey Home - Chapter 2",
+      "file": "missing/D/168037-delight-the-journey-home-chapter-2.json"
+    },
+    {
+      "igdb_id": 168038,
+      "game_name": "DeLight: The Journey Home - Chapter 3",
+      "file": "missing/D/168038-delight-the-journey-home-chapter-3.json"
+    },
+    {
       "igdb_id": 314898,
       "game_name": "DeLight: The Journey Home - Chapter 4",
       "file": "missing/D/314898-delight-the-journey-home-chapter-4.json"
+    },
+    {
+      "igdb_id": 168045,
+      "game_name": "DeLight: The Journey Home - Chapter 5",
+      "file": "missing/D/168045-delight-the-journey-home-chapter-5.json"
     },
     {
       "igdb_id": 420768,
@@ -510762,6 +510847,11 @@
       "file": "missing/H/314459-half-life-2-game-of-the-year-edition.json"
     },
     {
+      "igdb_id": 168040,
+      "game_name": "Half-Life 2: Genry's Great Escape From City 13",
+      "file": "missing/H/168040-half-life-2-genrys-great-escape-from-city-13.json"
+    },
+    {
       "igdb_id": 10395,
       "game_name": "Half-Life 2: Lost Coast",
       "file": "missing/H/10395-half-life-2-lost-coast.json"
@@ -527315,6 +527405,11 @@
       "igdb_id": 25042,
       "game_name": "Hellcat Ace",
       "file": "missing/H/25042-hellcat-ace.json"
+    },
+    {
+      "igdb_id": 168044,
+      "game_name": "HellCat: Redux",
+      "file": "missing/H/168044-hellcat-redux.json"
     },
     {
       "igdb_id": 71323,
@@ -623747,6 +623842,11 @@
       "file": "missing/K/393589-key.json"
     },
     {
+      "igdb_id": 168031,
+      "game_name": "Key 10th Memorial BOX",
+      "file": "missing/K/168031-key-10th-memorial-box.json"
+    },
+    {
       "igdb_id": 369579,
       "game_name": "Key 2",
       "file": "missing/K/369579-key-2.json"
@@ -648845,6 +648945,11 @@
       "igdb_id": 361885,
       "game_name": "Last Antagonist",
       "file": "missing/L/361885-last-antagonist.json"
+    },
+    {
+      "igdb_id": 168010,
+      "game_name": "Last Archmage Journey of Light",
+      "file": "missing/L/168010-last-archmage-journey-of-light.json"
     },
     {
       "igdb_id": 48436,
@@ -696542,6 +696647,11 @@
       "file": "missing/M/321759-magicka-2-upgrade-pack.json"
     },
     {
+      "igdb_id": 168043,
+      "game_name": "Magicka 2: Gates of Midgård - Challenge Pack",
+      "file": "missing/M/168043-magicka-2-gates-of-midgard-challenge-pack.json"
+    },
+    {
       "igdb_id": 118926,
       "game_name": "Magicka 2: Special Edition",
       "file": "missing/M/118926-magicka-2-special-edition.json"
@@ -736402,9 +736512,29 @@
       "file": "missing/M/34896-microcosmum-survival-of-cells.json"
     },
     {
+      "igdb_id": 168053,
+      "game_name": "Microcosmum: Survival of Cells - Campaign \"Aliens\"",
+      "file": "missing/M/168053-microcosmum-survival-of-cells-campaign-aliens.json"
+    },
+    {
+      "igdb_id": 168054,
+      "game_name": "Microcosmum: Survival of Cells - Campaign \"Mutations\"",
+      "file": "missing/M/168054-microcosmum-survival-of-cells-campaign-mutations.json"
+    },
+    {
+      "igdb_id": 168055,
+      "game_name": "Microcosmum: Survival of Cells - Campaign \"New life\"",
+      "file": "missing/M/168055-microcosmum-survival-of-cells-campaign-new-life.json"
+    },
+    {
       "igdb_id": 174130,
       "game_name": "Microcosmum: Survival of Cells - Campaign Static",
       "file": "missing/M/174130-microcosmum-survival-of-cells-campaign-static.json"
+    },
+    {
+      "igdb_id": 168056,
+      "game_name": "Microcosmum: Survival of Cells - Random levels",
+      "file": "missing/M/168056-microcosmum-survival-of-cells-random-levels.json"
     },
     {
       "igdb_id": 238489,
@@ -837307,6 +837437,11 @@
       "file": "missing/O/35246-opaline.json"
     },
     {
+      "igdb_id": 168041,
+      "game_name": "Opec Idle",
+      "file": "missing/O/168041-opec-idle.json"
+    },
+    {
       "igdb_id": 161712,
       "game_name": "Open Bar",
       "file": "missing/O/161712-open-bar.json"
@@ -868197,6 +868332,11 @@
       "file": "missing/P/284903-peoples-world.json"
     },
     {
+      "igdb_id": 168057,
+      "game_name": "Peopledown",
+      "file": "missing/P/168057-peopledown.json"
+    },
+    {
       "igdb_id": 140920,
       "game_name": "Peoplemon",
       "file": "missing/P/140920-peoplemon.json"
@@ -875160,6 +875300,11 @@
       "igdb_id": 372071,
       "game_name": "Physics Playground",
       "file": "missing/P/372071-physics-playground.json"
+    },
+    {
+      "igdb_id": 168047,
+      "game_name": "Physics Sandbox VR",
+      "file": "missing/P/168047-physics-sandbox-vr.json"
     },
     {
       "igdb_id": 158144,
@@ -910480,6 +910625,11 @@
       "igdb_id": 29540,
       "game_name": "PowersVR",
       "file": "missing/P/29540-powersvr.json"
+    },
+    {
+      "igdb_id": 167998,
+      "game_name": "Powertrip",
+      "file": "missing/P/167998-powertrip.json"
     },
     {
       "igdb_id": 147136,
@@ -960702,6 +960852,11 @@
       "file": "missing/R/258339-relic-guardian.json"
     },
     {
+      "igdb_id": 168050,
+      "game_name": "Relic Guardians: Complete",
+      "file": "missing/R/168050-relic-guardians-complete.json"
+    },
+    {
       "igdb_id": 219812,
       "game_name": "Relic Heroes",
       "file": "missing/R/219812-relic-heroes.json"
@@ -970035,6 +970190,26 @@
       "igdb_id": 319447,
       "game_name": "Rhythm Witch: Beat Death",
       "file": "missing/R/319447-rhythm-witch-beat-death.json"
+    },
+    {
+      "igdb_id": 168007,
+      "game_name": "Rhythm World: Master Project - Electronica",
+      "file": "missing/R/168007-rhythm-world-master-project-electronica.json"
+    },
+    {
+      "igdb_id": 168008,
+      "game_name": "Rhythm World: Master Project - Japanese Burnt",
+      "file": "missing/R/168008-rhythm-world-master-project-japanese-burnt.json"
+    },
+    {
+      "igdb_id": 168009,
+      "game_name": "Rhythm World: Master Project - Japanese Soft",
+      "file": "missing/R/168009-rhythm-world-master-project-japanese-soft.json"
+    },
+    {
+      "igdb_id": 168006,
+      "game_name": "Rhythm World: Master Project - Mix! Mix!",
+      "file": "missing/R/168006-rhythm-world-master-project-mix-mix.json"
     },
     {
       "igdb_id": 51283,
@@ -991362,6 +991537,11 @@
       "file": "missing/R/168059-rrrr3.json"
     },
     {
+      "igdb_id": 168051,
+      "game_name": "Rrrr3: Piranha",
+      "file": "missing/R/168051-rrrr3-piranha.json"
+    },
+    {
       "igdb_id": 339983,
       "game_name": "RrrrrAbbits",
       "file": "missing/R/339983-rrrrrabbits.json"
@@ -1010855,6 +1011035,11 @@
       "igdb_id": 132045,
       "game_name": "School Years",
       "file": "missing/S/132045-school-years.json"
+    },
+    {
+      "igdb_id": 168052,
+      "game_name": "School Years: Episode 2",
+      "file": "missing/S/168052-school-years-episode-2.json"
     },
     {
       "igdb_id": 263765,
@@ -1041002,6 +1041187,11 @@
       "file": "missing/S/335360-shuyun-huazhang.json"
     },
     {
+      "igdb_id": 168046,
+      "game_name": "Shuzzler",
+      "file": "missing/S/168046-shuzzler.json"
+    },
+    {
       "igdb_id": 71778,
       "game_name": "Shwip",
       "file": "missing/S/71778-shwip.json"
@@ -1044550,6 +1044740,11 @@
       "igdb_id": 348224,
       "game_name": "Silo",
       "file": "missing/S/348224-silo.json"
+    },
+    {
+      "igdb_id": 167997,
+      "game_name": "Silo27: Crashlanded",
+      "file": "missing/S/167997-silo27-crashlanded.json"
     },
     {
       "igdb_id": 104578,
@@ -1078022,6 +1078217,11 @@
       "file": "missing/S/73234-sophies-world.json"
     },
     {
+      "igdb_id": 168048,
+      "game_name": "Sophistry: Live2D",
+      "file": "missing/S/168048-sophistry-live2d.json"
+    },
+    {
       "igdb_id": 211278,
       "game_name": "Sophonce",
       "file": "missing/S/211278-sophonce.json"
@@ -1087637,6 +1087837,11 @@
       "file": "missing/S/170162-spacelords-raiders-of-the-broken-planet-alien-myths-campaign.json"
     },
     {
+      "igdb_id": 168005,
+      "game_name": "Spacelords: Raiders of the Broken Planet - Hades Betrayal Campaign",
+      "file": "missing/S/168005-spacelords-raiders-of-the-broken-planet-hades-betrayal-campaign.json"
+    },
+    {
       "igdb_id": 170171,
       "game_name": "Spacelords: Raiders of the Broken Planet - Wardog Fury Campaign",
       "file": "missing/S/170171-spacelords-raiders-of-the-broken-planet-wardog-fury-campaign.json"
@@ -1089997,6 +1090202,11 @@
       "file": "missing/S/166736-speechless.json"
     },
     {
+      "igdb_id": 168049,
+      "game_name": "Speed",
+      "file": "missing/S/168049-speed.json"
+    },
+    {
       "igdb_id": 261245,
       "game_name": "Speed",
       "file": "missing/S/261245-speed.json"
@@ -1090690,6 +1090900,21 @@
       "igdb_id": 151147,
       "game_name": "Speedpunk",
       "file": "missing/S/151147-speedpunk.json"
+    },
+    {
+      "igdb_id": 168002,
+      "game_name": "Speedpunk: Greeble city",
+      "file": "missing/S/168002-speedpunk-greeble-city.json"
+    },
+    {
+      "igdb_id": 168001,
+      "game_name": "Speedpunk: Last neo",
+      "file": "missing/S/168001-speedpunk-last-neo.json"
+    },
+    {
+      "igdb_id": 168003,
+      "game_name": "Speedpunk: Scorching heat",
+      "file": "missing/S/168003-speedpunk-scorching-heat.json"
     },
     {
       "igdb_id": 340188,
@@ -1195505,6 +1195730,11 @@
       "igdb_id": 210135,
       "game_name": "The Disappearing of Gensokyo: Youmu, Yuyuko",
       "file": "missing/T/210135-the-disappearing-of-gensokyo-youmu-yuyuko.json"
+    },
+    {
+      "igdb_id": 168032,
+      "game_name": "The Disaster",
+      "file": "missing/T/168032-the-disaster.json"
     },
     {
       "igdb_id": 323565,
@@ -1322027,6 +1322257,11 @@
       "file": "missing/U/161632-uranus.json"
     },
     {
+      "igdb_id": 168035,
+      "game_name": "Uranus",
+      "file": "missing/U/168035-uranus.json"
+    },
+    {
       "igdb_id": 313454,
       "game_name": "Uranus",
       "file": "missing/U/313454-uranus.json"
@@ -1322170,6 +1322405,11 @@
       "igdb_id": 154900,
       "game_name": "Urban Fight",
       "file": "missing/U/154900-urban-fight.json"
+    },
+    {
+      "igdb_id": 168033,
+      "game_name": "Urban Fight: DLC",
+      "file": "missing/U/168033-urban-fight-dlc.json"
     },
     {
       "igdb_id": 241804,
@@ -1323170,6 +1323410,11 @@
       "igdb_id": 132090,
       "game_name": "Usotsuki Shangurira",
       "file": "missing/U/132090-usotsuki-shangurira.json"
+    },
+    {
+      "igdb_id": 168000,
+      "game_name": "Uspavanka",
+      "file": "missing/U/168000-uspavanka.json"
     },
     {
       "igdb_id": 190894,
@@ -1380440,6 +1380685,11 @@
       "igdb_id": 220962,
       "game_name": "World Soccer Winning Eleven 2014: Aoki Samurai no Chousen",
       "file": "missing/W/220962-world-soccer-winning-eleven-2014-aoki-samurai-no-chousen.json"
+    },
+    {
+      "igdb_id": 167999,
+      "game_name": "World Soccer Winning Eleven 5: Final Evolution",
+      "file": "missing/W/167999-world-soccer-winning-eleven-5-final-evolution.json"
     },
     {
       "igdb_id": 220947,
