@@ -1794,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harem of Lust | 359765 | [359765-harem-of-lust.json](./359765-harem-of-lust.json) |
 | Harem of Nurses | 218137 | [218137-harem-of-nurses.json](./218137-harem-of-nurses.json) |
 | Harem Survivor | 294147 | [294147-harem-survivor.json](./294147-harem-survivor.json) |
+| HaremKingdom | 176095 | [176095-haremkingdom.json](./176095-haremkingdom.json) |
 | HaremMate | 22482 | [22482-haremmate.json](./22482-haremmate.json) |
 | HaremRoid VR | 279668 | [279668-haremroid-vr.json](./279668-haremroid-vr.json) |
 | Hareraiser II | 238889 | [238889-hareraiser-ii.json](./238889-hareraiser-ii.json) |
@@ -3028,6 +3029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartless & Dreadful: Return by 72 hours | 192844 | [192844-heartless-and-dreadful-return-by-72-hours.json](./192844-heartless-and-dreadful-return-by-72-hours.json) |
 | Heartless Angel | 181935 | [181935-heartless-angel.json](./181935-heartless-angel.json) |
 | Heartless Corporation | 271625 | [271625-heartless-corporation.json](./271625-heartless-corporation.json) |
+| Heartless Dark | 176100 | [176100-heartless-dark.json](./176100-heartless-dark.json) |
 | Heartlight | 57585 | [57585-heartlight.json](./57585-heartlight.json) |
 | Heartlight PC | 408254 | [408254-heartlight-pc.json](./408254-heartlight-pc.json) |
 | Heartlines | 390264 | [390264-heartlines.json](./390264-heartlines.json) |
@@ -4184,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HemiRoids | 229020 | [229020-hemiroids.json](./229020-hemiroids.json) |
 | Hemlock | 295862 | [295862-hemlock.json](./295862-hemlock.json) |
 | Hemlon the Grey | 408721 | [408721-hemlon-the-grey.json](./408721-hemlon-the-grey.json) |
+| Hemo Racers | 176123 | [176123-hemo-racers.json](./176123-hemo-racers.json) |
 | Hemobloom | 373263 | [373263-hemobloom.json](./373263-hemobloom.json) |
 | Hemoglobin Project | 177978 | [177978-hemoglobin-project.json](./177978-hemoglobin-project.json) |
 | Hemomancer | 357413 | [357413-hemomancer.json](./357413-hemomancer.json) |
@@ -7250,6 +7253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hissatsu Pachi-Slot Station | 58319 | [58319-hissatsu-pachi-slot-station.json](./58319-hissatsu-pachi-slot-station.json) |
 | Hissatsu Pachi-Slot Station 5: Invaders 2000 | 274861 | [274861-hissatsu-pachi-slot-station-5-invaders-2000.json](./274861-hissatsu-pachi-slot-station-5-invaders-2000.json) |
 | Hissatsu Pachinko Boy CR Monster House | 281567 | [281567-hissatsu-pachinko-boy-cr-monster-house.json](./281567-hissatsu-pachinko-boy-cr-monster-house.json) |
+| Hissatsu Pachinko Collection | 176119 | [176119-hissatsu-pachinko-collection.json](./176119-hissatsu-pachinko-collection.json) |
 | Hissatsu Pachinko Evolution 2: Osomatsu-kun | 58323 | [58323-hissatsu-pachinko-evolution-2-osomatsu-kun.json](./58323-hissatsu-pachinko-evolution-2-osomatsu-kun.json) |
 | Hissatsu Pachinko Station | 58321 | [58321-hissatsu-pachinko-station.json](./58321-hissatsu-pachinko-station.json) |
 | Hissatsu Pachinko Station 2 | 58320 | [58320-hissatsu-pachinko-station-2.json](./58320-hissatsu-pachinko-station-2.json) |
@@ -9988,6 +9992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Grow Your Sausage | 404405 | [404405-how-to-grow-your-sausage.json](./404405-how-to-grow-your-sausage.json) |
 | How to Live a Healthy Hentai Lifestyle! | 200645 | [200645-how-to-live-a-healthy-hentai-lifestyle.json](./200645-how-to-live-a-healthy-hentai-lifestyle.json) |
 | How to Lose One's Virginity | 265791 | [265791-how-to-lose-ones-virginity.json](./265791-how-to-lose-ones-virginity.json) |
+| How to Make a Cup of Tea | 176118 | [176118-how-to-make-a-cup-of-tea.json](./176118-how-to-make-a-cup-of-tea.json) |
 | How to Make a Floating City | 116114 | [116114-how-to-make-a-floating-city.json](./116114-how-to-make-a-floating-city.json) |
 | How to Make a Game | 407830 | [407830-how-to-make-a-game.json](./407830-how-to-make-a-game.json) |
 | How to Make a Sequel | 407831 | [407831-how-to-make-a-sequel.json](./407831-how-to-make-a-sequel.json) |
