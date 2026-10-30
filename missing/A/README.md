@@ -7357,6 +7357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Birds Hunter | 244085 | [244085-amazing-birds-hunter.json](./244085-amazing-birds-hunter.json) |
 | Amazing Breaker | 65493 | [65493-amazing-breaker.json](./65493-amazing-breaker.json) |
 | Amazing Brick | 143297 | [143297-amazing-brick.json](./143297-amazing-brick.json) |
+| Amazing Brick Breaker | 126196 | [126196-amazing-brick-breaker.json](./126196-amazing-brick-breaker.json) |
 | Amazing Bumpman | 12292 | [12292-amazing-bumpman.json](./12292-amazing-bumpman.json) |
 | Amazing Cat Saves the World From Space Blobs | 185460 | [185460-amazing-cat-saves-the-world-from-space-blobs.json](./185460-amazing-cat-saves-the-world-from-space-blobs.json) |
 | Amazing Chicken Adventures | 173262 | [173262-amazing-chicken-adventures.json](./173262-amazing-chicken-adventures.json) |
