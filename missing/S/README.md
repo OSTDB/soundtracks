@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvaged | 32142 | [32142-salvaged.json](./32142-salvaged.json) |
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
 | Salvagers | 365885 | [365885-salvagers.json](./365885-salvagers.json) |
+| Salvagette | 174475 | [174475-salvagette.json](./174475-salvagette.json) |
 | Salvation | 79851 | [79851-salvation.json](./79851-salvation.json) |
 | Salvation Denied | 395837 | [395837-salvation-denied.json](./395837-salvation-denied.json) |
 | Salvation Hours | 306490 | [306490-salvation-hours.json](./306490-salvation-hours.json) |
@@ -10120,6 +10121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sink/Swim | 179006 | [179006-sink-swim.json](./179006-sink-swim.json) |
 | Sinker Sound | 346522 | [346522-sinker-sound.json](./346522-sinker-sound.json) |
 | Sinking | 422016 | [422016-sinking.json](./422016-sinking.json) |
+| Sinking Feeling | 174478 | [174478-sinking-feeling.json](./174478-sinking-feeling.json) |
 | Sinking Inn | 151111 | [151111-sinking-inn.json](./151111-sinking-inn.json) |
 | Sinking Iron | 251176 | [251176-sinking-iron.json](./251176-sinking-iron.json) |
 | Sinking Island | 36163 | [36163-sinking-island.json](./36163-sinking-island.json) |
@@ -18185,6 +18187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparks: Episode One | 170803 | [170803-sparks-episode-one.json](./170803-sparks-episode-one.json) |
 | Sparkster PC | 265220 | [265220-sparkster-pc.json](./265220-sparkster-pc.json) |
 | Sparkster: Rocket Knight Adventures 2 | 1264 | [1264-sparkster-rocket-knight-adventures-2.json](./1264-sparkster-rocket-knight-adventures-2.json) |
+| Sparkwave | 174487 | [174487-sparkwave.json](./174487-sparkwave.json) |
 | Sparky | 258970 | [258970-sparky.json](./258970-sparky.json) |
 | Sparky Marky | 244115 | [244115-sparky-marky.json](./244115-sparky-marky.json) |
 | Sparky Marky: Episode 2 | 252263 | [252263-sparky-marky-episode-2.json](./252263-sparky-marky-episode-2.json) |
@@ -24864,6 +24867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter X Mega Man | 45184 | [45184-street-fighter-x-mega-man.json](./45184-street-fighter-x-mega-man.json) |
 | Street Fighter X Tekken | 1065 | [1065-street-fighter-x-tekken.json](./1065-street-fighter-x-tekken.json) |
 | Street Fighter X Tekken: Abel (Swap Costume) | 388831 | [388831-street-fighter-x-tekken-abel-swap-costume.json](./388831-street-fighter-x-tekken-abel-swap-costume.json) |
+| Street Fighter X Tekken: Additional 12 Characters Pack | 174508 | [174508-street-fighter-x-tekken-additional-12-characters-pack.json](./174508-street-fighter-x-tekken-additional-12-characters-pack.json) |
 | Street Fighter X Tekken: Akuma (Swap Costume) | 388844 | [388844-street-fighter-x-tekken-akuma-swap-costume.json](./388844-street-fighter-x-tekken-akuma-swap-costume.json) |
 | Street Fighter X Tekken: Asuka (Swap Costume) | 388825 | [388825-street-fighter-x-tekken-asuka-swap-costume.json](./388825-street-fighter-x-tekken-asuka-swap-costume.json) |
 | Street Fighter X Tekken: Balrog (Swap Costume) | 388827 | [388827-street-fighter-x-tekken-balrog-swap-costume.json](./388827-street-fighter-x-tekken-balrog-swap-costume.json) |
