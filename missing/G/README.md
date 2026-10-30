@@ -4181,6 +4181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give Up | 200841 | [200841-give-up.json](./200841-give-up.json) |
 | Give Up 2 | 250183 | [250183-give-up-2.json](./250183-give-up-2.json) |
 | Give Up Robot 2 | 281591 | [281591-give-up-robot-2.json](./281591-give-up-robot-2.json) |
+| Give up the Dupe | 127538 | [127538-give-up-the-dupe.json](./127538-give-up-the-dupe.json) |
 | Give Up the Ghost: A Puzzle Checklist | 206471 | [206471-give-up-the-ghost-a-puzzle-checklist.json](./206471-give-up-the-ghost-a-puzzle-checklist.json) |
 | Give Up, Robot | 147049 | [147049-give-up-robot.json](./147049-give-up-robot.json) |
 | Giving Yourself Away | 340826 | [340826-giving-yourself-away.json](./340826-giving-yourself-away.json) |
@@ -4424,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch World | 311251 | [311251-glitch-world.json](./311251-glitch-world.json) |
 | Glitch: Dead Loop Horror | 349809 | [349809-glitch-dead-loop-horror.json](./349809-glitch-dead-loop-horror.json) |
 | Glitch's Trip | 75083 | [75083-glitchs-trip.json](./75083-glitchs-trip.json) |
+| Glitchangels | 127543 | [127543-glitchangels.json](./127543-glitchangels.json) |
 | Glitchball | 99450 | [99450-glitchball.json](./99450-glitchball.json) |
 | Glitchbuster | 44221 | [44221-glitchbuster.json](./44221-glitchbuster.json) |
 | Glitched | 57361 | [57361-glitched.json](./57361-glitched.json) |
@@ -6207,6 +6209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Day | 186401 | [186401-good-day.json](./186401-good-day.json) |
 | Good Dog | 176711 | [176711-good-dog.json](./176711-good-dog.json) |
 | Good Doggo | 99627 | [99627-good-doggo.json](./99627-good-doggo.json) |
+| Good doktor | 127532 | [127532-good-doktor.json](./127532-good-doktor.json) |
 | Good Dreams | 381132 | [381132-good-dreams.json](./381132-good-dreams.json) |
 | Good Eggzample | 68749 | [68749-good-eggzample.json](./68749-good-eggzample.json) |
 | Good Folk Cafe | 394821 | [394821-good-folk-cafe.json](./394821-good-folk-cafe.json) |
