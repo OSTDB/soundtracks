@@ -935,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naturix | 159182 | [159182-naturix.json](./159182-naturix.json) |
 | Naturpark Lillebælt VR | 264721 | [264721-naturpark-lilleb-lt-vr.json](./264721-naturpark-lilleb-lt-vr.json) |
 | Naufrage | 182888 | [182888-naufrage.json](./182888-naufrage.json) |
+| Naufrago | 133610 | [133610-naufrago.json](./133610-naufrago.json) |
 | Naught | 117751 | [117751-naught.json](./117751-naught.json) |
 | Naught | 150502 | [150502-naught.json](./150502-naught.json) |
 | Naught Reawakening | 35798 | [35798-naught-reawakening.json](./35798-naught-reawakening.json) |
