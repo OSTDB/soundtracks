@@ -9493,6 +9493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poipoil's Adventure | 82724 | [82724-poipoils-adventure.json](./82724-poipoils-adventure.json) |
 | Poison Control: Contaminated Edition | 139913 | [139913-poison-control-contaminated-edition.json](./139913-poison-control-contaminated-edition.json) |
 | Poison Heart | 308242 | [308242-poison-heart.json](./308242-poison-heart.json) |
+| Poison Noir: Desire, Time & Gangsters | 172341 | [172341-poison-noir-desire-time-and-gangsters.json](./172341-poison-noir-desire-time-and-gangsters.json) |
 | Poison Selection | 394551 | [394551-poison-selection.json](./394551-poison-selection.json) |
 | Poisoner | 110532 | [110532-poisoner.json](./110532-poisoner.json) |
 | Poisonous Abyss | 324271 | [324271-poisonous-abyss.json](./324271-poisonous-abyss.json) |
@@ -11916,6 +11917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pow: Horyo | 131376 | [131376-pow-horyo.json](./131376-pow-horyo.json) |
 | Pow! 2 | 192252 | [192252-pow-2.json](./192252-pow-2.json) |
 | Powa! | 141622 | [141622-powa.json](./141622-powa.json) |
+| Powamo | 172343 | [172343-powamo.json](./172343-powamo.json) |
 | Powargrid | 33257 | [33257-powargrid.json](./33257-powargrid.json) |
 | PowBall Deluxe | 412564 | [412564-powball-deluxe.json](./412564-powball-deluxe.json) |
 | PowBall Renaissance | 54508 | [54508-powball-renaissance.json](./54508-powball-renaissance.json) |
