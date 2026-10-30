@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canine Derby Manager | 402491 | [402491-canine-derby-manager.json](./402491-canine-derby-manager.json) |
 | Canis Major | 208659 | [208659-canis-major.json](./208659-canis-major.json) |
 | Canis Major Alpha | 316660 | [316660-canis-major-alpha.json](./316660-canis-major-alpha.json) |
+| Cannabis Farmer Strain Master | 159481 | [159481-cannabis-farmer-strain-master.json](./159481-cannabis-farmer-strain-master.json) |
 | Cannabis Store Simulator | 359338 | [359338-cannabis-store-simulator.json](./359338-cannabis-store-simulator.json) |
 | Cannabiz: Weed Shop Owner | 391640 | [391640-cannabiz-weed-shop-owner.json](./391640-cannabiz-weed-shop-owner.json) |
 | Cannery Vale | 216339 | [216339-cannery-vale.json](./216339-cannery-vale.json) |
@@ -5838,6 +5839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobyl 1986 | 120929 | [120929-chernobyl-1986.json](./120929-chernobyl-1986.json) |
 | Chernobyl Again | 265457 | [265457-chernobyl-again.json](./265457-chernobyl-again.json) |
 | Chernobyl Commando | 9796 | [9796-chernobyl-commando.json](./9796-chernobyl-commando.json) |
+| Chernobyl Inferno | 159515 | [159515-chernobyl-inferno.json](./159515-chernobyl-inferno.json) |
 | Chernobyl Trap | 193660 | [193660-chernobyl-trap.json](./193660-chernobyl-trap.json) |
 | Chernobyl VR Project | 20092 | [20092-chernobyl-vr-project.json](./20092-chernobyl-vr-project.json) |
 | Chernobyl: Escape from Pripyat | 335952 | [335952-chernobyl-escape-from-pripyat.json](./335952-chernobyl-escape-from-pripyat.json) |
@@ -7545,6 +7547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chthonian TD | 406144 | [406144-chthonian-td.json](./406144-chthonian-td.json) |
 | Chu | 206554 | [206554-chu.json](./206554-chu.json) |
 | Chu Da D | 247391 | [247391-chu-da-d.json](./247391-chu-da-d.json) |
+| Chǔ Hàn Nǚzǐ | 159474 | [159474-chu-han-nuzi.json](./159474-chu-han-nuzi.json) |
 | Chu x Chu Idol | 321408 | [321408-chu-x-chu-idol.json](./321408-chu-x-chu-idol.json) |
 | Chu-Teng | 123287 | [123287-chu-teng.json](./123287-chu-teng.json) |
 | Chu!! Karate Uranai Voxel | 407442 | [407442-chu-karate-uranai-voxel.json](./407442-chu-karate-uranai-voxel.json) |
@@ -15697,6 +15700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Impact: V1 | 290794 | [290794-cross-impact-v1.json](./290794-cross-impact-v1.json) |
 | Cross Logic | 213750 | [213750-cross-logic.json](./213750-cross-logic.json) |
 | Cross Love - Episode 1 | 110524 | [110524-cross-love-episode-1.json](./110524-cross-love-episode-1.json) |
+| Cross Maid | 159486 | [159486-cross-maid.json](./159486-cross-maid.json) |
 | Cross Match! | 238402 | [238402-cross-match.json](./238402-cross-match.json) |
 | Cross Numbers | 153888 | [153888-cross-numbers.json](./153888-cross-numbers.json) |
 | Cross or Crash | 241993 | [241993-cross-or-crash.json](./241993-cross-or-crash.json) |
@@ -18011,6 +18015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Rage: Retribution | 116827 | [116827-cyber-rage-retribution.json](./116827-cyber-rage-retribution.json) |
 | Cyber Rail | 267468 | [267468-cyber-rail.json](./267468-cyber-rail.json) |
 | Cyber Rats | 336523 | [336523-cyber-rats.json](./336523-cyber-rats.json) |
+| Cyber Rebellion | 159510 | [159510-cyber-rebellion.json](./159510-cyber-rebellion.json) |
 | Cyber Rebellion | 224065 | [224065-cyber-rebellion.json](./224065-cyber-rebellion.json) |
 | Cyber Rescue: Virus Eruption | 180573 | [180573-cyber-rescue-virus-eruption.json](./180573-cyber-rescue-virus-eruption.json) |
 | Cyber Revolution | 339357 | [339357-cyber-revolution.json](./339357-cyber-revolution.json) |
