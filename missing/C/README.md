@@ -11060,6 +11060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Complex | 217287 | [217287-combat-complex.json](./217287-combat-complex.json) |
 | Combat Core | 26545 | [26545-combat-core.json](./26545-combat-core.json) |
 | Combat Crazy | 94179 | [94179-combat-crazy.json](./94179-combat-crazy.json) |
+| Combat Cycle | 167463 | [167463-combat-cycle.json](./167463-combat-cycle.json) |
 | Combat Directive: Napoleonic Wars | 318048 | [318048-combat-directive-napoleonic-wars.json](./318048-combat-directive-napoleonic-wars.json) |
 | Combat Dungeon | 266936 | [266936-combat-dungeon.json](./266936-combat-dungeon.json) |
 | Combat Dungeon | 294163 | [294163-combat-dungeon.json](./294163-combat-dungeon.json) |
@@ -15046,6 +15047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creeper World: Anniversary Edition | 34005 | [34005-creeper-world-anniversary-edition.json](./34005-creeper-world-anniversary-edition.json) |
 | Creepers | 15478 | [15478-creepers.json](./15478-creepers.json) |
 | Creeping Clark | 336169 | [336169-creeping-clark.json](./336169-creeping-clark.json) |
+| Creeping Darkness | 167487 | [167487-creeping-darkness.json](./167487-creeping-darkness.json) |
 | Creeping Deck: Pharaoh's Curse | 225228 | [225228-creeping-deck-pharaohs-curse.json](./225228-creeping-deck-pharaohs-curse.json) |
 | Creeping Dusk | 311539 | [311539-creeping-dusk.json](./311539-creeping-dusk.json) |
 | Creeping It Reel | 141049 | [141049-creeping-it-reel.json](./141049-creeping-it-reel.json) |
@@ -16996,6 +16998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubis Gold 2 | 208807 | [208807-cubis-gold-2.json](./208807-cubis-gold-2.json) |
 | Cubis Kingdoms | 74403 | [74403-cubis-kingdoms.json](./74403-cubis-kingdoms.json) |
 | Cubiscape | 207824 | [207824-cubiscape.json](./207824-cubiscape.json) |
+| Cubiscape 2 | 167495 | [167495-cubiscape-2.json](./167495-cubiscape-2.json) |
 | Cubiscape 2: First Expansion Pack | 169308 | [169308-cubiscape-2-first-expansion-pack.json](./169308-cubiscape-2-first-expansion-pack.json) |
 | Cubism | 95591 | [95591-cubism.json](./95591-cubism.json) |
 | Cubistry | 70882 | [70882-cubistry.json](./70882-cubistry.json) |
