@@ -1953,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Files: The Trap of Truth - Collector's Edition | 370900 | [370900-paranormal-files-the-trap-of-truth-collectors-edition.json](./370900-paranormal-files-the-trap-of-truth-collectors-edition.json) |
 | Paranormal Files: Trials of Worth - Collector's Edition | 272950 | [272950-paranormal-files-trials-of-worth-collectors-edition.json](./272950-paranormal-files-trials-of-worth-collectors-edition.json) |
 | Paranormal Girlfriend | 236968 | [236968-paranormal-girlfriend.json](./236968-paranormal-girlfriend.json) |
+| Paranormal HK | 130530 | [130530-paranormal-hk.json](./130530-paranormal-hk.json) |
 | Paranormal Home Invaders | 289287 | [289287-paranormal-home-invaders.json](./289287-paranormal-home-invaders.json) |
 | Paranormal Hunter | 216642 | [216642-paranormal-hunter.json](./216642-paranormal-hunter.json) |
 | Paranormal Meatball Simulator | 408008 | [408008-paranormal-meatball-simulator.json](./408008-paranormal-meatball-simulator.json) |
@@ -8097,6 +8098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Placid Plastic Duck Simulator: Quacking the Ice | 236904 | [236904-placid-plastic-duck-simulator-quacking-the-ice.json](./236904-placid-plastic-duck-simulator-quacking-the-ice.json) |
 | Placid Plastic Duck VR | 338550 | [338550-placid-plastic-duck-vr.json](./338550-placid-plastic-duck-vr.json) |
 | Placing Heroes: The Legend of Doomsday | 178816 | [178816-placing-heroes-the-legend-of-doomsday.json](./178816-placing-heroes-the-legend-of-doomsday.json) |
+| Pladzma | 130506 | [130506-pladzma.json](./130506-pladzma.json) |
 | Plague | 185680 | [185680-plague.json](./185680-plague.json) |
 | Plague Alchemist | 368291 | [368291-plague-alchemist.json](./368291-plague-alchemist.json) |
 | Plague Attack the World | 258916 | [258916-plague-attack-the-world.json](./258916-plague-attack-the-world.json) |
