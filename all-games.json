@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-28T14:13:26.355Z",
-  "total_soundtracks": 2689,
+  "generated_at": "2026-10-30T22:12:12.892Z",
+  "total_soundtracks": 2708,
   "games": [
     {
       "igdb_id": 7522,
@@ -1703,6 +1703,20 @@
         {
           "album_name": "Army of Two: The Devil's Cartel (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5o1yVIt9uwAlb4mUkrNHO5",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 6555,
+      "game_name": "Art of Balance",
+      "game_url": "https://ostdb.net/games/art-of-balance",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d3dba8f278c9ac2879797179",
+      "albums": [
+        {
+          "album_name": "Art of Balance Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/48u3XFXoBaCk0sSjmVkdKj",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -4729,6 +4743,20 @@
       ]
     },
     {
+      "igdb_id": 3238,
+      "game_name": "Castle Story",
+      "game_url": "https://ostdb.net/games/castle-story",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27363380f70c98ea7723a6be8c2",
+      "albums": [
+        {
+          "album_name": "Castle Story Official Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5TFzShznPNCAWAuscKxR9q",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 19136,
       "game_name": "CastleStorm",
       "game_url": "https://ostdb.net/games/castlestorm",
@@ -4861,6 +4889,20 @@
         {
           "album_name": "Chained Echoes (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1ZfNvXO4HsYcklqiRWpD1p",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 22851,
+      "game_name": "Champions of Anteria",
+      "game_url": "https://ostdb.net/games/champions-of-anteria",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f6e9a510c18025ff50262f05",
+      "albums": [
+        {
+          "album_name": "Champions of Anteria (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1PYBXcA09t9TsT3JRi089I",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -6791,6 +6833,20 @@
         {
           "album_name": "Deadlink (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/19VqCzTfVTWxJiyOH6du1c",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 4799,
+      "game_name": "Deadly Creatures",
+      "game_url": "https://ostdb.net/games/deadly-creatures",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737709d8f68ff875bb0f68df0d",
+      "albums": [
+        {
+          "album_name": "Deadly Creatures (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/329ZgAqFMD3WdVphBysuj4",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -8943,6 +8999,20 @@
       ]
     },
     {
+      "igdb_id": 18379,
+      "game_name": "Empires of the Undergrowth",
+      "game_url": "https://ostdb.net/games/empires-of-the-undergrowth",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734f2e8f30873c9a0c98c07263",
+      "albums": [
+        {
+          "album_name": "Empires of the Undergrowth (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2LtjYKTtt1rAWSYEd2i0Gn",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 104970,
       "game_name": "En Garde!",
       "game_url": "https://ostdb.net/games/en-garde",
@@ -10441,6 +10511,20 @@
       ]
     },
     {
+      "igdb_id": 11742,
+      "game_name": "Fingered",
+      "game_url": "https://ostdb.net/games/fingered",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27304be089418891919729b6a12",
+      "albums": [
+        {
+          "album_name": "Fingered! (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7GZPiPsSDFwU9AXmpOhioI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 9730,
       "game_name": "Firewatch",
       "game_url": "https://ostdb.net/games/firewatch",
@@ -11133,6 +11217,20 @@
         {
           "album_name": "Garten of Banban (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/31BRVeLCSPec0eRIfpOwBg",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 320854,
+      "game_name": "Garten of Banban 0",
+      "game_url": "https://ostdb.net/games/garten-of-banban-0",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fc87c83b866897e5ee5414bb",
+      "albums": [
+        {
+          "album_name": "Garten of Banban 0 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3WvmB58yPrqnJR8VHa9UJg",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -14403,6 +14501,20 @@
         {
           "album_name": "Intrusion 2 OST",
           "spotify_url": "https://open.spotify.com/album/16ECN1T8vv26GTGpgqWQ6a",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 19608,
+      "game_name": "Inversus",
+      "game_url": "https://ostdb.net/games/inversus",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273caa884abc1203de2d316e506",
+      "albums": [
+        {
+          "album_name": "Inversus (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5accvcueI660vxU3wmxVnC",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -19931,6 +20043,20 @@
       ]
     },
     {
+      "igdb_id": 328028,
+      "game_name": "Öoo",
+      "game_url": "https://ostdb.net/games/ooo",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739cca02192c562302e0db62a3",
+      "albums": [
+        {
+          "album_name": "Öoo Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6V3tVe8ypUIf0qh1f2JIv3",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 134822,
       "game_name": "Operation: Tango",
       "game_url": "https://ostdb.net/games/operation-tango",
@@ -21357,6 +21483,20 @@
       ]
     },
     {
+      "igdb_id": 12719,
+      "game_name": "Power Drift",
+      "game_url": "https://ostdb.net/games/power-drift",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ca53e8721823d4599ccd2d45",
+      "albums": [
+        {
+          "album_name": "Power Drift Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1okjqkzdjANnmbrFqPbslM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 134612,
       "game_name": "Pragmata",
       "game_url": "https://ostdb.net/games/pragmata",
@@ -21525,6 +21665,20 @@
       ]
     },
     {
+      "igdb_id": 18134,
+      "game_name": "Prune",
+      "game_url": "https://ostdb.net/games/prune",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739201790d1aa52ebfcb184b7e",
+      "albums": [
+        {
+          "album_name": "Prune (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6QMo5eP0NEEKSP9JKTeyB6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1339,
       "game_name": "Psychonauts",
       "game_url": "https://ostdb.net/games/psychonauts",
@@ -21643,6 +21797,20 @@
         {
           "album_name": "Quern: Undying Thoughts (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4yeGh5ifGpYLCV251PTLZy",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 4076,
+      "game_name": "R: Racing Evolution",
+      "game_url": "https://ostdb.net/games/r-racing-evolution",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27368ab57b0a7f0cf6d83f11db0",
+      "albums": [
+        {
+          "album_name": "R:RACING EVOLUTION Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0rzsxy1QdcIHNEBL7DWvkc",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -22449,13 +22617,13 @@
         {
           "album_name": "Resident Evil Requiem - Extra Tracks",
           "spotify_url": "https://open.spotify.com/album/77ddUeXchUsWbzwK6ZvD1p",
-          "apple_music_url": null,
+          "apple_music_url": "https://music.apple.com/us/album/resident-evil-requiem-extra-tracks-single/1882337202",
           "album_link_url": ""
         },
         {
           "album_name": "Resident Evil Requiem Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/427eHPGnKBypTVQ5x1K1GA",
-          "apple_music_url": null,
+          "apple_music_url": "https://music.apple.com/us/album/resident-evil-requiem-original-soundtrack/1880055951?l=cs",
           "album_link_url": ""
         }
       ]
@@ -22673,6 +22841,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/riders-republic-original-game-soundtrack/1590373590?uo=4",
           "album_link_url": "https://album.link/i/1590373590"
+        }
+      ]
+    },
+    {
+      "igdb_id": 23127,
+      "game_name": "Ridge Racer 2",
+      "game_url": "https://ostdb.net/games/ridge-racer-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a0991196194dcd3c0a2deaf4",
+      "albums": [
+        {
+          "album_name": "RIDGE RACER 2 Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2zpltUnXSgMdpI3sACeM0W",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -23309,6 +23491,34 @@
         {
           "album_name": "RV There Yet? (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1ceZp3sb8alQ7kWFgSzYOm",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 342566,
+      "game_name": "S.p.l.i.t",
+      "game_url": "https://ostdb.net/games/s-p-l-i-t",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733e002ba4897955484b894d88",
+      "albums": [
+        {
+          "album_name": "s.p.l.i.t (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/67yn5qsYv6DtiA9CPRYE8L",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 396025,
+      "game_name": "S.T.A.L.K.E.R. 2: Cost of Hope",
+      "game_url": "https://ostdb.net/games/s-t-a-l-k-e-r-2-cost-of-hope",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27369757576afa66b9a1d23551b",
+      "albums": [
+        {
+          "album_name": "S.T.A.L.K.E.R. 2: Cost of Hope (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2A52YuE3mWvaBMzciDLAe6",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -24043,6 +24253,20 @@
         {
           "album_name": "Sheepy: A Short Adventure (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2YuUHRiH13qY2ZcFdbYkbp",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 356430,
+      "game_name": "Shelldiver",
+      "game_url": "https://ostdb.net/games/shelldiver",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273030be3d4b3ff32d41eb16fa2",
+      "albums": [
+        {
+          "album_name": "Shelldiver (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0LXQDmZkFCsTBe7okk5g10",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -30567,6 +30791,20 @@
       ]
     },
     {
+      "igdb_id": 363370,
+      "game_name": "Train Sim World 6",
+      "game_url": "https://ostdb.net/games/train-sim-world-6",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734ec8d866c069e8a8c4d98513",
+      "albums": [
+        {
+          "album_name": "Train Sim World 6 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4ActcOHuVZQ5iOR4e1ufIA",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 5243,
       "game_name": "Transformers: Dark of the Moon",
       "game_url": "https://ostdb.net/games/transformers-dark-of-the-moon",
@@ -31257,6 +31495,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/%E3%83%A6%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1729313125?uo=4",
           "album_link_url": "https://album.link/i/1729313125"
+        }
+      ]
+    },
+    {
+      "igdb_id": 19251,
+      "game_name": "Unit 13",
+      "game_url": "https://ostdb.net/games/unit-13",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273870731487dc817ae2d35f98a",
+      "albums": [
+        {
+          "album_name": "Unit 13 (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2KqWf43wfVkMZcOGCWgDhu",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -32369,6 +32621,20 @@
         {
           "album_name": "Watch Dogs: Legion - Bloodline (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4DPKq0deFUNjGT9ESuY9HB",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 348648,
+      "game_name": "Waterpark Simulator",
+      "game_url": "https://ostdb.net/games/waterpark-simulator",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736985f366725415ca1b650641",
+      "albums": [
+        {
+          "album_name": "Waterpark Simulator Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6Ds0JPRGsgaaUtK456wDT2",
           "apple_music_url": "",
           "album_link_url": ""
         }
