@@ -857,7 +857,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8526,6 +8525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Runner 2033: Labyrinth | 255093 | [255093-blade-runner-2033-labyrinth.json](./255093-blade-runner-2033-labyrinth.json) |
 | Blade Runner 2049: Replicant Pursuit | 51529 | [51529-blade-runner-2049-replicant-pursuit.json](./51529-blade-runner-2049-replicant-pursuit.json) |
 | Blade Runner 9732 | 80854 | [80854-blade-runner-9732.json](./80854-blade-runner-9732.json) |
+| Blade Runner Rogue | 154853 | [154853-blade-runner-rogue.json](./154853-blade-runner-rogue.json) |
 | Blade Runner: Enhanced Edition | 131847 | [131847-blade-runner-enhanced-edition.json](./131847-blade-runner-enhanced-edition.json) |
 | Blade Runner: Revelations | 100901 | [100901-blade-runner-revelations.json](./100901-blade-runner-revelations.json) |
 | Blade Sight | 281227 | [281227-blade-sight.json](./281227-blade-sight.json) |
@@ -16230,6 +16230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busty Detective! The Case Files of Aine Tamagushi | 380462 | [380462-busty-detective-the-case-files-of-aine-tamagushi.json](./380462-busty-detective-the-case-files-of-aine-tamagushi.json) |
 | Busty Hentai Mosaic | 291068 | [291068-busty-hentai-mosaic.json](./291068-busty-hentai-mosaic.json) |
 | Busty Maid: Creampie Heaven | 127964 | [127964-busty-maid-creampie-heaven.json](./127964-busty-maid-creampie-heaven.json) |
+| BustyBiz | 154847 | [154847-bustybiz.json](./154847-bustybiz.json) |
 | BustyBiz: Anna Pack | 265252 | [265252-bustybiz-anna-pack.json](./265252-bustybiz-anna-pack.json) |
 | Busway Islands | 240609 | [240609-busway-islands.json](./240609-busway-islands.json) |
 | Busway Islands: Puzzle | 308646 | [308646-busway-islands-puzzle.json](./308646-busway-islands-puzzle.json) |
