@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaijuu Senki | 166658 | [166658-kaijuu-senki.json](./166658-kaijuu-senki.json) |
 | Kaikan | 264553 | [264553-kaikan.json](./264553-kaikan.json) |
 | Kaikan Phrase: Datenshi Kourin | 269753 | [269753-kaikan-phrase-datenshi-kourin.json](./269753-kaikan-phrase-datenshi-kourin.json) |
+| Kaikatana | 158367 | [158367-kaikatana.json](./158367-kaikatana.json) |
 | Kaiketsu Yanchamaru | 40216 | [40216-kaiketsu-yanchamaru.json](./40216-kaiketsu-yanchamaru.json) |
 | Kaiketsu Yanchamaru 2: Karakuri Land | 48445 | [48445-kaiketsu-yanchamaru-2-karakuri-land.json](./48445-kaiketsu-yanchamaru-2-karakuri-land.json) |
 | Kaiketsu Yanchamaru 3: Taiketsu! Zouringen | 66050 | [66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json](./66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json) |
@@ -2190,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kilager | 249824 | [249824-kilager.json](./249824-kilager.json) |
 | Kilari: Become a Star | 70673 | [70673-kilari-become-a-star.json](./70673-kilari-become-a-star.json) |
 | Kileak: The DNA Imperative | 20255 | [20255-kileak-the-dna-imperative.json](./20255-kileak-the-dna-imperative.json) |
+| Kilemol | 158370 | [158370-kilemol.json](./158370-kilemol.json) |
 | Kilgazar | 62105 | [62105-kilgazar.json](./62105-kilgazar.json) |
 | Kilira's Descent | 401526 | [401526-kiliras-descent.json](./401526-kiliras-descent.json) |
 | Kilka Card Gods | 61386 | [61386-kilka-card-gods.json](./61386-kilka-card-gods.json) |
@@ -4765,6 +4767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konpeki no Kantai 2 Perfect | 91761 | [91761-konpeki-no-kantai-2-perfect.json](./91761-konpeki-no-kantai-2-perfect.json) |
 | Konrad's Kittens | 31830 | [31830-konrads-kittens.json](./31830-konrads-kittens.json) |
 | Konran;Zanki | 353452 | [353452-konran-zanki.json](./353452-konran-zanki.json) |
+| Konsairi | 158337 | [158337-konsairi.json](./158337-konsairi.json) |
 | Konsui Fighter | 105555 | [105555-konsui-fighter.json](./105555-konsui-fighter.json) |
 | Kontra | 238396 | [238396-kontra.json](./238396-kontra.json) |
 | Kontrast | 100833 | [100833-kontrast.json](./100833-kontrast.json) |
@@ -4772,6 +4775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konung 1 + 2 | 153008 | [153008-konung-1-2.json](./153008-konung-1-2.json) |
 | Konung III: Ties of the Dynasty | 13162 | [13162-konung-iii-ties-of-the-dynasty.json](./13162-konung-iii-ties-of-the-dynasty.json) |
 | Konung: Legend of the North | 10492 | [10492-konung-legend-of-the-north.json](./10492-konung-legend-of-the-north.json) |
+| Kony 2020 | 158343 | [158343-kony-2020.json](./158343-kony-2020.json) |
 | Konyok-Gorbunok | 180455 | [180455-konyok-gorbunok.json](./180455-konyok-gorbunok.json) |
 | Koo & Yuu | 127580 | [127580-koo-and-yuu.json](./127580-koo-and-yuu.json) |
 | Koob Dog | 289777 | [289777-koob-dog.json](./289777-koob-dog.json) |
@@ -5197,6 +5201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kronos | 340892 | [340892-kronos.json](./340892-kronos.json) |
 | Kronos: Time Titan | 199240 | [199240-kronos-time-titan.json](./199240-kronos-time-titan.json) |
 | Kronos: Wisdom Trials | 170870 | [170870-kronos-wisdom-trials.json](./170870-kronos-wisdom-trials.json) |
+| Kronostasis | 158348 | [158348-kronostasis.json](./158348-kronostasis.json) |
 | Kronville: Stolen Dreams | 53262 | [53262-kronville-stolen-dreams.json](./53262-kronville-stolen-dreams.json) |
 | Kropki 8 | 147739 | [147739-kropki-8.json](./147739-kropki-8.json) |
 | Krosfighter | 275844 | [275844-krosfighter.json](./275844-krosfighter.json) |
