@@ -7491,6 +7491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shingeki no Kyojin Banda Attack on Typing | 55820 | [55820-shingeki-no-kyojin-banda-attack-on-typing.json](./55820-shingeki-no-kyojin-banda-attack-on-typing.json) |
 | Shingeki no Kyojin: Jiyuu he no Houkou | 84196 | [84196-shingeki-no-kyojin-jiyuu-he-no-houkou.json](./84196-shingeki-no-kyojin-jiyuu-he-no-houkou.json) |
 | Shingeki No Unity Chan | 297634 | [297634-shingeki-no-unity-chan.json](./297634-shingeki-no-unity-chan.json) |
+| Shingen Samurai-Fighter | 154757 | [154757-shingen-samurai-fighter.json](./154757-shingen-samurai-fighter.json) |
 | Shingen the Ruler | 48085 | [48085-shingen-the-ruler.json](./48085-shingen-the-ruler.json) |
 | Shinies: Call of Light | 200167 | [200167-shinies-call-of-light.json](./200167-shinies-call-of-light.json) |
 | Shinigami Kagyou: Kaidan Romance | 219137 | [219137-shinigami-kagyou-kaidan-romance.json](./219137-shinigami-kagyou-kaidan-romance.json) |
@@ -14503,6 +14504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solaria Moon | 37395 | [37395-solaria-moon.json](./37395-solaria-moon.json) |
 | Solarian II | 229811 | [229811-solarian-ii.json](./229811-solarian-ii.json) |
 | Solaright | 28934 | [28934-solaright.json](./28934-solaright.json) |
+| Solaris | 154738 | [154738-solaris.json](./154738-solaris.json) |
 | Solaris | 370332 | [370332-solaris.json](./370332-solaris.json) |
 | Solaris | 40577 | [40577-solaris.json](./40577-solaris.json) |
 | Solaris | 407505 | [407505-solaris.json](./407505-solaris.json) |
@@ -23693,6 +23695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Combat | 57175 | [57175-stick-combat.json](./57175-stick-combat.json) |
 | Stick Cricket | 138002 | [138002-stick-cricket.json](./138002-stick-cricket.json) |
 | Stick Cricket Super League | 229878 | [229878-stick-cricket-super-league.json](./229878-stick-cricket-super-league.json) |
+| Stick Em Up | 154857 | [154857-stick-em-up.json](./154857-stick-em-up.json) |
 | Stick Empires | 83399 | [83399-stick-empires.json](./83399-stick-empires.json) |
 | Stick Engine | 55524 | [55524-stick-engine.json](./55524-stick-engine.json) |
 | Stick Fight: Endless Battle | 245338 | [245338-stick-fight-endless-battle.json](./245338-stick-fight-endless-battle.json) |
@@ -24235,6 +24238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stories of a Coup d'État: The Three Siblings | 417945 | [417945-stories-of-a-coup-detat-the-three-siblings.json](./417945-stories-of-a-coup-detat-the-three-siblings.json) |
 | Stories of Blossom | 172911 | [172911-stories-of-blossom.json](./172911-stories-of-blossom.json) |
 | Stories of Liane | 144603 | [144603-stories-of-liane.json](./144603-stories-of-liane.json) |
+| Stories of Mara | 154754 | [154754-stories-of-mara.json](./154754-stories-of-mara.json) |
 | Stories of Somnia | 353378 | [353378-stories-of-somnia.json](./353378-stories-of-somnia.json) |
 | Stories of Submission: Enter the Cuck | 163943 | [163943-stories-of-submission-enter-the-cuck.json](./163943-stories-of-submission-enter-the-cuck.json) |
 | Stories of Submission: Learn Your Place | 169677 | [169677-stories-of-submission-learn-your-place.json](./169677-stories-of-submission-learn-your-place.json) |
