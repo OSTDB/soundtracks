@@ -1137,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain in Rio | 94076 | [94076-rain-in-rio.json](./94076-rain-in-rio.json) |
 | Rain in the Abyss | 194611 | [194611-rain-in-the-abyss.json](./194611-rain-in-the-abyss.json) |
 | Rain Invasion | 129024 | [129024-rain-invasion.json](./129024-rain-invasion.json) |
+| Rain Island | 131762 | [131762-rain-island.json](./131762-rain-island.json) |
 | Rain Kills | 334559 | [334559-rain-kills.json](./334559-rain-kills.json) |
 | Rain of Arrows | 145594 | [145594-rain-of-arrows.json](./145594-rain-of-arrows.json) |
 | Rain of Fire | 125721 | [125721-rain-of-fire.json](./125721-rain-of-fire.json) |
@@ -3349,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Alert | 40391 | [40391-red-alert.json](./40391-red-alert.json) |
 | Red Alert | 408112 | [408112-red-alert.json](./408112-red-alert.json) |
 | Red Alert 2: Apocalypse Rising | 376096 | [376096-red-alert-2-apocalypse-rising.json](./376096-red-alert-2-apocalypse-rising.json) |
+| Red Alert Online | 131802 | [131802-red-alert-online.json](./131802-red-alert-online.json) |
 | Red Algorithm | 152654 | [152654-red-algorithm.json](./152654-red-algorithm.json) |
 | Red Algorithm: Fernando | 172095 | [172095-red-algorithm-fernando.json](./172095-red-algorithm-fernando.json) |
 | Red Algorithm: Osiris | 155447 | [155447-red-algorithm-osiris.json](./155447-red-algorithm-osiris.json) |
