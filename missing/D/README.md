@@ -3772,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadman Diaries | 197848 | [197848-deadman-diaries.json](./197848-deadman-diaries.json) |
 | Deadnaut | 51755 | [51755-deadnaut.json](./51755-deadnaut.json) |
 | Deadnaut: Signal Lost | 207677 | [207677-deadnaut-signal-lost.json](./207677-deadnaut-signal-lost.json) |
+| Deadness | 128167 | [128167-deadness.json](./128167-deadness.json) |
 | DeadNeverStop | 289450 | [289450-deadneverstop.json](./289450-deadneverstop.json) |
 | Deadolls | 75673 | [75673-deadolls.json](./75673-deadolls.json) |
 | DeadOS | 158207 | [158207-deados.json](./158207-deados.json) |
@@ -5155,6 +5156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
 | Defendun | 240681 | [240681-defendun.json](./240681-defendun.json) |
 | Defense & Protect Epic Towers | 231963 | [231963-defense-and-protect-epic-towers.json](./231963-defense-and-protect-epic-towers.json) |
+| Defense and Revenge | 128150 | [128150-defense-and-revenge.json](./128150-defense-and-revenge.json) |
 | Defense Breakers | 318957 | [318957-defense-breakers.json](./318957-defense-breakers.json) |
 | Defense Cards | 267298 | [267298-defense-cards.json](./267298-defense-cards.json) |
 | Defense Clicker | 74600 | [74600-defense-clicker.json](./74600-defense-clicker.json) |
@@ -6701,6 +6703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desserted | 373127 | [373127-desserted.json](./373127-desserted.json) |
 | Desstroke | 207505 | [207505-desstroke.json](./207505-desstroke.json) |
 | Destabilized | 417361 | [417361-destabilized.json](./417361-destabilized.json) |
+| Destinata | 128186 | [128186-destinata.json](./128186-destinata.json) |
 | Destination | 322576 | [322576-destination.json](./322576-destination.json) |
 | Destination Ares | 25813 | [25813-destination-ares.json](./25813-destination-ares.json) |
 | Destination Bangkok | 214756 | [214756-destination-bangkok.json](./214756-destination-bangkok.json) |
@@ -13818,6 +13821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonology | 21095 | [21095-dragonology.json](./21095-dragonology.json) |
 | Dragonpath | 33931 | [33931-dragonpath.json](./33931-dragonpath.json) |
 | DragonRealms | 66380 | [66380-dragonrealms.json](./66380-dragonrealms.json) |
+| DragonRide VR | 128176 | [128176-dragonride-vr.json](./128176-dragonride-vr.json) |
 | DragonRoad | 371839 | [371839-dragonroad.json](./371839-dragonroad.json) |
 | Dragons and Elves | 355191 | [355191-dragons-and-elves.json](./355191-dragons-and-elves.json) |
 | Dragons and Titans | 10195 | [10195-dragons-and-titans.json](./10195-dragons-and-titans.json) |
