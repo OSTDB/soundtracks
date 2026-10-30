@@ -2559,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawnsbury Days | 278910 | [278910-dawnsbury-days.json](./278910-dawnsbury-days.json) |
 | Dawnspire: Prelude | 70476 | [70476-dawnspire-prelude.json](./70476-dawnspire-prelude.json) |
 | Dawnssley | 92883 | [92883-dawnssley.json](./92883-dawnssley.json) |
+| Dawnthorn | 129367 | [129367-dawnthorn.json](./129367-dawnthorn.json) |
 | Dawntide | 204977 | [204977-dawntide.json](./204977-dawntide.json) |
 | Dawntide | 74281 | [74281-dawntide.json](./74281-dawntide.json) |
 | Dawntown | 301341 | [301341-dawntown.json](./301341-dawntown.json) |
@@ -3045,16 +3046,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Charity Case | 227409 | [227409-dead-by-daylight-charity-case.json](./227409-dead-by-daylight-charity-case.json) |
 | Dead by Daylight: Chucky Chapter | 278424 | [278424-dead-by-daylight-chucky-chapter.json](./278424-dead-by-daylight-chucky-chapter.json) |
 | Dead by Daylight: Cursed Legacy Chapter | 129474 | [129474-dead-by-daylight-cursed-legacy-chapter.json](./129474-dead-by-daylight-cursed-legacy-chapter.json) |
+| Dead by Daylight: Curtain Call Chapter | 129406 | [129406-dead-by-daylight-curtain-call-chapter.json](./129406-dead-by-daylight-curtain-call-chapter.json) |
 | Dead by Daylight: Darkness Among Us Chapter | 129472 | [129472-dead-by-daylight-darkness-among-us-chapter.json](./129472-dead-by-daylight-darkness-among-us-chapter.json) |
 | Dead by Daylight: Definitive Edition | 136185 | [136185-dead-by-daylight-definitive-edition.json](./136185-dead-by-daylight-definitive-edition.json) |
+| Dead by Daylight: Demise of the Faithful Chapter | 129407 | [129407-dead-by-daylight-demise-of-the-faithful-chapter.json](./129407-dead-by-daylight-demise-of-the-faithful-chapter.json) |
 | Dead by Daylight: Descend Beyond Chapter | 154345 | [154345-dead-by-daylight-descend-beyond-chapter.json](./154345-dead-by-daylight-descend-beyond-chapter.json) |
 | Dead by Daylight: Dungeons & Dragons | 300798 | [300798-dead-by-daylight-dungeons-and-dragons.json](./300798-dead-by-daylight-dungeons-and-dragons.json) |
 | Dead by Daylight: Dungeons & Dragons Edition | 305485 | [305485-dead-by-daylight-dungeons-and-dragons-edition.json](./305485-dead-by-daylight-dungeons-and-dragons-edition.json) |
 | Dead by Daylight: Five Nights at Freddy's | 350030 | [350030-dead-by-daylight-five-nights-at-freddys.json](./350030-dead-by-daylight-five-nights-at-freddys.json) |
 | Dead by Daylight: Gold Edition | 282124 | [282124-dead-by-daylight-gold-edition.json](./282124-dead-by-daylight-gold-edition.json) |
+| Dead by Daylight: Headcase | 129400 | [129400-dead-by-daylight-headcase.json](./129400-dead-by-daylight-headcase.json) |
 | Dead by Daylight: Hellraiser Chapter | 167819 | [167819-dead-by-daylight-hellraiser-chapter.json](./167819-dead-by-daylight-hellraiser-chapter.json) |
 | Dead by Daylight: Hour of the Witch Chapter | 193756 | [193756-dead-by-daylight-hour-of-the-witch-chapter.json](./193756-dead-by-daylight-hour-of-the-witch-chapter.json) |
 | Dead by Daylight: Leatherface | 76225 | [76225-dead-by-daylight-leatherface.json](./76225-dead-by-daylight-leatherface.json) |
+| Dead by Daylight: Left Behind | 129398 | [129398-dead-by-daylight-left-behind.json](./129398-dead-by-daylight-left-behind.json) |
 | Dead by Daylight: Macabre Tales Pack | 283186 | [283186-dead-by-daylight-macabre-tales-pack.json](./283186-dead-by-daylight-macabre-tales-pack.json) |
 | Dead by Daylight: Maddening Darkness Pack | 285698 | [285698-dead-by-daylight-maddening-darkness-pack.json](./285698-dead-by-daylight-maddening-darkness-pack.json) |
 | Dead by Daylight: Of Flesh and Mud Chapter | 76222 | [76222-dead-by-daylight-of-flesh-and-mud-chapter.json](./76222-dead-by-daylight-of-flesh-and-mud-chapter.json) |
@@ -15622,6 +15627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducati World Championship | 19353 | [19353-ducati-world-championship.json](./19353-ducati-world-championship.json) |
 | Ducati World: Racing Challenge | 45856 | [45856-ducati-world-racing-challenge.json](./45856-ducati-world-racing-challenge.json) |
 | Ducati: 90th Anniversary - The Official Videogame | 19804 | [19804-ducati-90th-anniversary-the-official-videogame.json](./19804-ducati-90th-anniversary-the-official-videogame.json) |
+| Duccoz - Town Sim | 129399 | [129399-duccoz-town-sim.json](./129399-duccoz-town-sim.json) |
 | Ducenti-Quinquaginta-Sexordle | 249707 | [249707-ducenti-quinquaginta-sexordle.json](./249707-ducenti-quinquaginta-sexordle.json) |
 | Duck 'n' Cover | 75869 | [75869-duck-n-cover.json](./75869-duck-n-cover.json) |
 | Duck Adventure | 210646 | [210646-duck-adventure.json](./210646-duck-adventure.json) |
@@ -15932,6 +15938,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem Xmas 2014 | 291979 | [291979-duke-nukem-xmas-2014.json](./291979-duke-nukem-xmas-2014.json) |
 | Duke Nukem: Alien Armageddon | 125287 | [125287-duke-nukem-alien-armageddon.json](./125287-duke-nukem-alien-armageddon.json) |
 | Duke Nukem: D-Day | 348367 | [348367-duke-nukem-d-day.json](./348367-duke-nukem-d-day.json) |
+| Duke Nukem: Episode 2 - Mission: Moonbase | 129403 | [129403-duke-nukem-episode-2-mission-moonbase.json](./129403-duke-nukem-episode-2-mission-moonbase.json) |
+| Duke Nukem: Episode 3 - Trapped in the Future | 129404 | [129404-duke-nukem-episode-3-trapped-in-the-future.json](./129404-duke-nukem-episode-3-trapped-in-the-future.json) |
 | Duke Nukem: Land of the Babes | 8504 | [8504-duke-nukem-land-of-the-babes.json](./8504-duke-nukem-land-of-the-babes.json) |
 | Duke Nukem: Manhattan Project | 8505 | [8505-duke-nukem-manhattan-project.json](./8505-duke-nukem-manhattan-project.json) |
 | Duke Nukem: Total Meltdown | 44885 | [44885-duke-nukem-total-meltdown.json](./44885-duke-nukem-total-meltdown.json) |
@@ -15990,6 +15998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumball Rush | 278950 | [278950-dumball-rush.json](./278950-dumball-rush.json) |
 | Dumbass Drivers! | 29407 | [29407-dumbass-drivers.json](./29407-dumbass-drivers.json) |
 | Dumbass Survivors | 344338 | [344338-dumbass-survivors.json](./344338-dumbass-survivors.json) |
+| DumbBots | 129361 | [129361-dumbbots.json](./129361-dumbbots.json) |
 | DumbBots: Hello World | 167540 | [167540-dumbbots-hello-world.json](./167540-dumbbots-hello-world.json) |
 | Dumber dwarves | 182724 | [182724-dumber-dwarves.json](./182724-dumber-dwarves.json) |
 | Dumber League | 175063 | [175063-dumber-league.json](./175063-dumber-league.json) |
@@ -16488,6 +16497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Siege III: Treasures of the Sun | 10254 | [10254-dungeon-siege-iii-treasures-of-the-sun.json](./10254-dungeon-siege-iii-treasures-of-the-sun.json) |
 | Dungeon Siege: Legends of Aranna | 9271 | [9271-dungeon-siege-legends-of-aranna.json](./9271-dungeon-siege-legends-of-aranna.json) |
 | Dungeon Slave | 240814 | [240814-dungeon-slave.json](./240814-dungeon-slave.json) |
+| Dungeon Slayer | 129380 | [129380-dungeon-slayer.json](./129380-dungeon-slayer.json) |
 | Dungeon Slayer | 194008 | [194008-dungeon-slayer.json](./194008-dungeon-slayer.json) |
 | Dungeon Slime 2: Puzzle in the Dark Forest | 156941 | [156941-dungeon-slime-2-puzzle-in-the-dark-forest.json](./156941-dungeon-slime-2-puzzle-in-the-dark-forest.json) |
 | Dungeon Slime Collection | 208837 | [208837-dungeon-slime-collection.json](./208837-dungeon-slime-collection.json) |
