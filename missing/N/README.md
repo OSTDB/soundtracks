@@ -4189,6 +4189,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights Into Dreams: Score Attack | 309017 | [309017-nights-into-dreams-score-attack.json](./309017-nights-into-dreams-score-attack.json) |
 | Nights into Dreams... | 198640 | [198640-nights-into-dreams.json](./198640-nights-into-dreams.json) |
 | Nights of Azure 2: Bonus Costume - Blue High School Uniform | 396394 | [396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json](./396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json) |
+| Nights of Azure 2: Bride of the New Moon - Side Story: The Foreigner in a Wonderland of Sweets | 171213 | [171213-nights-of-azure-2-bride-of-the-new-moon-side-story-the-foreigner-in-a-wonderland-of-sweets.json](./171213-nights-of-azure-2-bride-of-the-new-moon-side-story-the-foreigner-in-a-wonderland-of-sweets.json) |
+| Nights of Azure 2: Bride of the New Moon - Side Story: Time Drifts Through the Moonlit Night | 171212 | [171212-nights-of-azure-2-bride-of-the-new-moon-side-story-time-drifts-through-the-moonlit-night.json](./171212-nights-of-azure-2-bride-of-the-new-moon-side-story-time-drifts-through-the-moonlit-night.json) |
 | Nights of Azure: GS Saikyou Combo Set - Super Limited Edition | 212324 | [212324-nights-of-azure-gs-saikyou-combo-set-super-limited-edition.json](./212324-nights-of-azure-gs-saikyou-combo-set-super-limited-edition.json) |
 | Nights of Azure: Limited Edition | 51533 | [51533-nights-of-azure-limited-edition.json](./51533-nights-of-azure-limited-edition.json) |
 | Nights of Nil | 390581 | [390581-nights-of-nil.json](./390581-nights-of-nil.json) |
