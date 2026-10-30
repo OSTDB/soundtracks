@@ -6340,6 +6340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaman King: Chou Senjiryakketsu 2 | 49784 | [49784-shaman-king-chou-senjiryakketsu-2.json](./49784-shaman-king-chou-senjiryakketsu-2.json) |
 | Shaman King: Chou Senjiryakketsu 3 | 49783 | [49783-shaman-king-chou-senjiryakketsu-3.json](./49783-shaman-king-chou-senjiryakketsu-3.json) |
 | Shaman King: Chou Senjiryakketsu 3 | 68232 | [68232-shaman-king-chou-senjiryakketsu-3.json](./68232-shaman-king-chou-senjiryakketsu-3.json) |
+| Shaman King: Funbari Chronicle | 175042 | [175042-shaman-king-funbari-chronicle.json](./175042-shaman-king-funbari-chronicle.json) |
 | Shaman King: Funbari Spirits | 68246 | [68246-shaman-king-funbari-spirits.json](./68246-shaman-king-funbari-spirits.json) |
 | Shaman King: Master of Spirits | 6590 | [6590-shaman-king-master-of-spirits.json](./6590-shaman-king-master-of-spirits.json) |
 | Shaman King: Soul Fight | 4147 | [4147-shaman-king-soul-fight.json](./4147-shaman-king-soul-fight.json) |
@@ -6958,6 +6959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelter of Exiles | 276821 | [276821-shelter-of-exiles.json](./276821-shelter-of-exiles.json) |
 | Shelter of Sursur | 350367 | [350367-shelter-of-sursur.json](./350367-shelter-of-sursur.json) |
 | Shelter of Sursur 2 | 350606 | [350606-shelter-of-sursur-2.json](./350606-shelter-of-sursur-2.json) |
+| Shelter SCG | 175056 | [175056-shelter-scg.json](./175056-shelter-scg.json) |
 | Shelter War | 141458 | [141458-shelter-war.json](./141458-shelter-war.json) |
 | Shelter: Complete Edition | 53600 | [53600-shelter-complete-edition.json](./53600-shelter-complete-edition.json) |
 | Shelter: The Heart Edition | 53599 | [53599-shelter-the-heart-edition.json](./53599-shelter-the-heart-edition.json) |
@@ -16958,6 +16960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Boat | 175653 | [175653-space-boat.json](./175653-space-boat.json) |
 | Space Bomb | 120417 | [120417-space-bomb.json](./120417-space-bomb.json) |
 | Space Bomber | 39418 | [39418-space-bomber.json](./39418-space-bomber.json) |
+| Space Borders: Alien Encounter | 175051 | [175051-space-borders-alien-encounter.json](./175051-space-borders-alien-encounter.json) |
 | Space Bounce | 178984 | [178984-space-bounce.json](./178984-space-bounce.json) |
 | Space Box Battle Arena | 164968 | [164968-space-box-battle-arena.json](./164968-space-box-battle-arena.json) |
 | Space Break | 106331 | [106331-space-break.json](./106331-space-break.json) |
@@ -20471,6 +20474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Conflicts | 174906 | [174906-squad-conflicts.json](./174906-squad-conflicts.json) |
 | Squad Game | 242956 | [242956-squad-game.json](./242956-squad-game.json) |
 | Squad Legends: Battle Royale | 417281 | [417281-squad-legends-battle-royale.json](./417281-squad-legends-battle-royale.json) |
+| Squad Strike 4 | 175013 | [175013-squad-strike-4.json](./175013-squad-strike-4.json) |
 | Squad Tactics | 244415 | [244415-squad-tactics.json](./244415-squad-tactics.json) |
 | Squad Z | 105071 | [105071-squad-z.json](./105071-squad-z.json) |
 | Squad: Canadian Armed Forces | 170368 | [170368-squad-canadian-armed-forces.json](./170368-squad-canadian-armed-forces.json) |
@@ -23793,6 +23797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Breathing | 418545 | [418545-still-breathing.json](./418545-still-breathing.json) |
 | Still Dark at Dawn | 111028 | [111028-still-dark-at-dawn.json](./111028-still-dark-at-dawn.json) |
 | Still Here | 97223 | [97223-still-here.json](./97223-still-here.json) |
+| Still Here: A Pip Adventure | 175035 | [175035-still-here-a-pip-adventure.json](./175035-still-here-a-pip-adventure.json) |
 | Still Here... A cute Adventure | 100773 | [100773-still-here-a-cute-adventure.json](./100773-still-here-a-cute-adventure.json) |
 | Still Here... Flight Adventure | 99178 | [99178-still-here-flight-adventure.json](./99178-still-here-flight-adventure.json) |
 | Still Heroes | 197963 | [197963-still-heroes.json](./197963-still-heroes.json) |
@@ -25603,6 +25608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subespaço | 247356 | [247356-subespaco.json](./247356-subespaco.json) |
 | Subete wa Oshi no Tame ni!! Josou Shitara Chouzetsu Oshi ni Niteta Ken | 77866 | [77866-subete-wa-oshi-no-tame-ni-josou-shitara-chouzetsu-oshi-ni-niteta-ken.json](./77866-subete-wa-oshi-no-tame-ni-josou-shitara-chouzetsu-oshi-ni-niteta-ken.json) |
 | Subfault | 404509 | [404509-subfault.json](./404509-subfault.json) |
+| SUBG: Surgical Battlegrounds Multiplayer | 175039 | [175039-subg-surgical-battlegrounds-multiplayer.json](./175039-subg-surgical-battlegrounds-multiplayer.json) |
 | SubGlobal | 59725 | [59725-subglobal.json](./59725-subglobal.json) |
 | Subject | 131341 | [131341-subject.json](./131341-subject.json) |
 | Subject 26 | 178497 | [178497-subject-26.json](./178497-subject-26.json) |
