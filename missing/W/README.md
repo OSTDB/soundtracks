@@ -2458,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WaywaY | 76925 | [76925-wayway.json](./76925-wayway.json) |
 | Waznk Zahb | 320275 | [320275-waznk-zahb.json](./320275-waznk-zahb.json) |
 | WBTR: Welcome Back to Reality | 130376 | [130376-wbtr-welcome-back-to-reality.json](./130376-wbtr-welcome-back-to-reality.json) |
+| WC | 172335 | [172335-wc.json](./172335-wc.json) |
 | WC Dream | 296385 | [296385-wc-dream.json](./296385-wc-dream.json) |
 | WCCW 64 | 256793 | [256793-wccw-64.json](./256793-wccw-64.json) |
 | WCP Word Girlfriend | 259058 | [259058-wcp-word-girlfriend.json](./259058-wcp-word-girlfriend.json) |
@@ -2941,6 +2942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Genius High! | 208317 | [208317-welcome-to-genius-high.json](./208317-welcome-to-genius-high.json) |
 | Welcome to Goodland | 178238 | [178238-welcome-to-goodland.json](./178238-welcome-to-goodland.json) |
 | Welcome to Graymount | 133336 | [133336-welcome-to-graymount.json](./133336-welcome-to-graymount.json) |
+| Welcome to Graystone | 172349 | [172349-welcome-to-graystone.json](./172349-welcome-to-graystone.json) |
 | Welcome to Greedcorp | 355721 | [355721-welcome-to-greedcorp.json](./355721-welcome-to-greedcorp.json) |
 | Welcome to Hanwell | 29076 | [29076-welcome-to-hanwell.json](./29076-welcome-to-hanwell.json) |
 | Welcome to Heaven | 41976 | [41976-welcome-to-heaven.json](./41976-welcome-to-heaven.json) |
@@ -3697,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where in the U.S.A. is Carmen Sandiego? | 12823 | [12823-where-in-the-u-s-a-is-carmen-sandiego.json](./12823-where-in-the-u-s-a-is-carmen-sandiego.json) |
 | Where in the U.S.A. Is Carmen Sandiego? | 313289 | [313289-where-in-the-u-s-a-is-carmen-sandiego.json](./313289-where-in-the-u-s-a-is-carmen-sandiego.json) |
 | Where in the USA is Carmen Sandiego? (Enhanced) | 66348 | [66348-where-in-the-usa-is-carmen-sandiego-enhanced.json](./66348-where-in-the-usa-is-carmen-sandiego-enhanced.json) |
+| Where in the World is Carmen Sandiego? | 172318 | [172318-where-in-the-world-is-carmen-sandiego.json](./172318-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 251 | [251-where-in-the-world-is-carmen-sandiego.json](./251-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 367753 | [367753-where-in-the-world-is-carmen-sandiego.json](./367753-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 367754 | [367754-where-in-the-world-is-carmen-sandiego.json](./367754-where-in-the-world-is-carmen-sandiego.json) |
@@ -5546,6 +5549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wireless Hunting Video Game System | 246215 | [246215-wireless-hunting-video-game-system.json](./246215-wireless-hunting-video-game-system.json) |
 | Wireless Ms. Pac-Man | 219422 | [219422-wireless-ms-pac-man.json](./219422-wireless-ms-pac-man.json) |
 | Wires and Whiskers | 357162 | [357162-wires-and-whiskers.json](./357162-wires-and-whiskers.json) |
+| Wirewalk | 172351 | [172351-wirewalk.json](./172351-wirewalk.json) |
 | Wirewalker | 260610 | [260610-wirewalker.json](./260610-wirewalker.json) |
 | WireWalking | 284836 | [284836-wirewalking.json](./284836-wirewalking.json) |
 | Wireworks | 383442 | [383442-wireworks.json](./383442-wireworks.json) |
