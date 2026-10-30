@@ -1748,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Sbang | 271179 | [271179-banana-sbang.json](./271179-banana-sbang.json) |
 | Banana Shop | 143534 | [143534-banana-shop.json](./143534-banana-shop.json) |
 | Banana Simulator | 312450 | [312450-banana-simulator.json](./312450-banana-simulator.json) |
+| Banana Slug Beach | 137255 | [137255-banana-slug-beach.json](./137255-banana-slug-beach.json) |
 | Banana Step | 289835 | [289835-banana-step.json](./289835-banana-step.json) |
 | Banana Tap | 314875 | [314875-banana-tap.json](./314875-banana-tap.json) |
 | Banana Town | 72509 | [72509-banana-town.json](./72509-banana-town.json) |
@@ -4936,6 +4937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 6th style | 72915 | [72915-beatmania-iidx-6th-style.json](./72915-beatmania-iidx-6th-style.json) |
 | Beatmania IIDX 7th style | 72914 | [72914-beatmania-iidx-7th-style.json](./72914-beatmania-iidx-7th-style.json) |
 | Beatmania IIDX Club Version | 141046 | [141046-beatmania-iidx-club-version.json](./141046-beatmania-iidx-club-version.json) |
+| Beatmania IIDX Ultimate Mobile | 137264 | [137264-beatmania-iidx-ultimate-mobile.json](./137264-beatmania-iidx-ultimate-mobile.json) |
 | beatmania III -The latest evolution machine- | 61017 | [61017-beatmania-iii-the-latest-evolution-machine.json](./61017-beatmania-iii-the-latest-evolution-machine.json) |
 | Beatmania III The Final | 61022 | [61022-beatmania-iii-the-final.json](./61022-beatmania-iii-the-final.json) |
 | Beatmania III: Append 6thMix | 61019 | [61019-beatmania-iii-append-6thmix.json](./61019-beatmania-iii-append-6thmix.json) |
@@ -6283,6 +6285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Galaxyland | 296381 | [296381-beyond-galaxyland.json](./296381-beyond-galaxyland.json) |
 | Beyond Good & Evil HD | 20437 | [20437-beyond-good-and-evil-hd.json](./20437-beyond-good-and-evil-hd.json) |
 | Beyond Hanwell | 265409 | [265409-beyond-hanwell.json](./265409-beyond-hanwell.json) |
+| Beyond Hope | 137253 | [137253-beyond-hope.json](./137253-beyond-hope.json) |
 | Beyond Horizon | 159482 | [159482-beyond-horizon.json](./159482-beyond-horizon.json) |
 | Beyond Horizon: The Astral Expedition | 311112 | [311112-beyond-horizon-the-astral-expedition.json](./311112-beyond-horizon-the-astral-expedition.json) |
 | Beyond Horror: Episode One - A Father's Journey | 170925 | [170925-beyond-horror-episode-one-a-fathers-journey.json](./170925-beyond-horror-episode-one-a-fathers-journey.json) |
@@ -13204,6 +13207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Battle Saga the Space Fighter | 45542 | [45542-brave-battle-saga-the-space-fighter.json](./45542-brave-battle-saga-the-space-fighter.json) |
 | Brave Blade | 39494 | [39494-brave-blade.json](./39494-brave-blade.json) |
 | Brave Blades | 224075 | [224075-brave-blades.json](./224075-brave-blades.json) |
+| Brave Blob | 137239 | [137239-brave-blob.json](./137239-brave-blob.json) |
 | Brave Bow Archer: Princess Rescue Simulator! | 261108 | [261108-brave-bow-archer-princess-rescue-simulator.json](./261108-brave-bow-archer-princess-rescue-simulator.json) |
 | Brave Boy | 277697 | [277697-brave-boy.json](./277697-brave-boy.json) |
 | Brave Brigade | 39176 | [39176-brave-brigade.json](./39176-brave-brigade.json) |
