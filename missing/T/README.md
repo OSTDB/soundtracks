@@ -2803,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tears of Avia | 13196 | [13196-tears-of-avia.json](./13196-tears-of-avia.json) |
 | Tears of Christ | 398661 | [398661-tears-of-christ.json](./398661-tears-of-christ.json) |
 | Tears of Fish | 292234 | [292234-tears-of-fish.json](./292234-tears-of-fish.json) |
+| Tears of Luna | 169593 | [169593-tears-of-luna.json](./169593-tears-of-luna.json) |
 | Tears of Magic | 224574 | [224574-tears-of-magic.json](./224574-tears-of-magic.json) |
 | Tears of the Maker | 349443 | [349443-tears-of-the-maker.json](./349443-tears-of-the-maker.json) |
 | Tears of Themis | 146245 | [146245-tears-of-themis.json](./146245-tears-of-themis.json) |
@@ -5672,6 +5673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beast | 100210 | [100210-the-beast.json](./100210-the-beast.json) |
 | The Beast | 176856 | [176856-the-beast.json](./176856-the-beast.json) |
 | The Beast | 374223 | [374223-the-beast.json](./374223-the-beast.json) |
+| The Beast Awoke to Eat Your Darlings | 169585 | [169585-the-beast-awoke-to-eat-your-darlings.json](./169585-the-beast-awoke-to-eat-your-darlings.json) |
 | The Beast in the Maze | 178824 | [178824-the-beast-in-the-maze.json](./178824-the-beast-in-the-maze.json) |
 | The Beast Inside | 88116 | [88116-the-beast-inside.json](./88116-the-beast-inside.json) |
 | The Beast Is yet to Come | 373685 | [373685-the-beast-is-yet-to-come.json](./373685-the-beast-is-yet-to-come.json) |
@@ -7185,6 +7187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkest Dusk | 359207 | [359207-the-darkest-dusk.json](./359207-the-darkest-dusk.json) |
 | The Darkest Emptiness | 219552 | [219552-the-darkest-emptiness.json](./219552-the-darkest-emptiness.json) |
 | The Darkest Files | 214233 | [214233-the-darkest-files.json](./214233-the-darkest-files.json) |
+| The Darkest Island | 169607 | [169607-the-darkest-island.json](./169607-the-darkest-island.json) |
 | The Darkest Night | 171841 | [171841-the-darkest-night.json](./171841-the-darkest-night.json) |
 | The Darkest Paths: Missing Files | 235985 | [235985-the-darkest-paths-missing-files.json](./235985-the-darkest-paths-missing-files.json) |
 | The Darkest Star | 197013 | [197013-the-darkest-star.json](./197013-the-darkest-star.json) |
