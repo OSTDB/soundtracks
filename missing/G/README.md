@@ -3256,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GF Becomes SexCare Manager of Baseball Club: Cucked In Sportsmen's Sex | 98451 | [98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json](./98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json) |
 | GFL Championshop Football II | 97473 | [97473-gfl-championshop-football-ii.json](./97473-gfl-championshop-football-ii.json) |
 | GFS Sorceress | 23324 | [23324-gfs-sorceress.json](./23324-gfs-sorceress.json) |
+| GG Aleste 3 | 144631 | [144631-gg-aleste-3.json](./144631-gg-aleste-3.json) |
 | GG Bundle 2015 | 25986 | [25986-gg-bundle-2015.json](./25986-gg-bundle-2015.json) |
 | GG Date Me | 178567 | [178567-gg-date-me.json](./178567-gg-date-me.json) |
 | GG Land | 210847 | [210847-gg-land.json](./210847-gg-land.json) |
@@ -5798,6 +5799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Sand Dream Curse | 359537 | [359537-golden-sand-dream-curse.json](./359537-golden-sand-dream-curse.json) |
 | Golden Self | 385887 | [385887-golden-self.json](./385887-golden-self.json) |
 | Golden Spatula | 326661 | [326661-golden-spatula.json](./326661-golden-spatula.json) |
+| Golden Spider Solitaire | 144528 | [144528-golden-spider-solitaire.json](./144528-golden-spider-solitaire.json) |
 | Golden Sun | 1172 | [1172-golden-sun.json](./1172-golden-sun.json) |
 | Golden Sun | 356272 | [356272-golden-sun.json](./356272-golden-sun.json) |
 | Golden Sun QOL | 269063 | [269063-golden-sun-qol.json](./269063-golden-sun-qol.json) |
@@ -6509,6 +6511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorilla Banana | 375451 | [375451-gorilla-banana.json](./375451-gorilla-banana.json) |
 | Gorilla Big Adventure | 147687 | [147687-gorilla-big-adventure.json](./147687-gorilla-big-adventure.json) |
 | Gorilla Cop | 392725 | [392725-gorilla-cop.json](./392725-gorilla-cop.json) |
+| Gorilla Guerrillas | 143919 | [143919-gorilla-guerrillas.json](./143919-gorilla-guerrillas.json) |
 | Gorilla Online! | 188402 | [188402-gorilla-online.json](./188402-gorilla-online.json) |
 | Gorilla Showdown | 396646 | [396646-gorilla-showdown.json](./396646-gorilla-showdown.json) |
 | Gorilla Simulator | 396017 | [396017-gorilla-simulator.json](./396017-gorilla-simulator.json) |
