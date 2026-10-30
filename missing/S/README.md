@@ -2026,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save and Conquer | 214442 | [214442-save-and-conquer.json](./214442-save-and-conquer.json) |
 | Save and Survive | 291688 | [291688-save-and-survive.json](./291688-save-and-survive.json) |
 | Save Billy | 186683 | [186683-save-billy.json](./186683-save-billy.json) |
+| Save Christmas | 150878 | [150878-save-christmas.json](./150878-save-christmas.json) |
 | Save Christmas With Santa | 325010 | [325010-save-christmas-with-santa.json](./325010-save-christmas-with-santa.json) |
 | Save City R | 260399 | [260399-save-city-r.json](./260399-save-city-r.json) |
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
@@ -17639,6 +17640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Odyssey | 24829 | [24829-space-odyssey.json](./24829-space-odyssey.json) |
 | Space of Darkness | 43099 | [43099-space-of-darkness.json](./43099-space-of-darkness.json) |
 | Space of One Drama | 101304 | [101304-space-of-one-drama.json](./101304-space-of-one-drama.json) |
+| Space of Retaliation | 150870 | [150870-space-of-retaliation.json](./150870-space-of-retaliation.json) |
 | Space on the Case | 310961 | [310961-space-on-the-case.json](./310961-space-on-the-case.json) |
 | Space One: Ascendant | 167226 | [167226-space-one-ascendant.json](./167226-space-one-ascendant.json) |
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
@@ -31337,6 +31339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweets Drop | 283721 | [283721-sweets-drop.json](./283721-sweets-drop.json) |
 | Sweets Inc | 290531 | [290531-sweets-inc.json](./290531-sweets-inc.json) |
 | Sweets Mania: Candy Sugar Rush Match 3 Games | 256435 | [256435-sweets-mania-candy-sugar-rush-match-3-games.json](./256435-sweets-mania-candy-sugar-rush-match-3-games.json) |
+| Sweets Memory | 150852 | [150852-sweets-memory.json](./150852-sweets-memory.json) |
 | Sweets Pusher Friends | 234525 | [234525-sweets-pusher-friends.json](./234525-sweets-pusher-friends.json) |
 | Sweets Swap | 147097 | [147097-sweets-swap.json](./147097-sweets-swap.json) |
 | Sweets Swap Classic | 175821 | [175821-sweets-swap-classic.json](./175821-sweets-swap-classic.json) |
