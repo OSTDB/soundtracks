@@ -1638,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24 Hours | 32489 | [32489-24-hours.json](./32489-24-hours.json) |
 | 24 Hours 'til Rescue | 33491 | [33491-24-hours-til-rescue.json](./33491-24-hours-til-rescue.json) |
 | 24 Jingles to Bell | 394832 | [394832-24-jingles-to-bell.json](./394832-24-jingles-to-bell.json) |
+| 24 Killers | 141454 | [141454-24-killers.json](./141454-24-killers.json) |
 | 24 Locks | 58470 | [58470-24-locks.json](./58470-24-locks.json) |
 | 24 Lustful Hours | 382296 | [382296-24-lustful-hours.json](./382296-24-lustful-hours.json) |
 | 24 o 'clock | 283048 | [283048-24-o-clock.json](./283048-24-o-clock.json) |
@@ -2669,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 Love Dominoes | 88421 | [88421-6-love-dominoes.json](./88421-6-love-dominoes.json) |
 | 6 Pack of Craft Games | 194386 | [194386-6-pack-of-craft-games.json](./194386-6-pack-of-craft-games.json) |
 | 6 Rooms | 377405 | [377405-6-rooms.json](./377405-6-rooms.json) |
+| 6 Seasons and a Game | 141399 | [141399-6-seasons-and-a-game.json](./141399-6-seasons-and-a-game.json) |
 | 6 Takes! | 167498 | [167498-6-takes.json](./167498-6-takes.json) |
 | 6 Ways To 7 | 377404 | [377404-6-ways-to-7.json](./377404-6-ways-to-7.json) |
 | 6 x 1 = Unlimited | 222452 | [222452-6-x-1-unlimited.json](./222452-6-x-1-unlimited.json) |
