@@ -3213,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead in the Tropics | 171762 | [171762-dead-in-the-tropics.json](./171762-dead-in-the-tropics.json) |
 | Dead in Time | 103453 | [103453-dead-in-time.json](./103453-dead-in-time.json) |
 | Dead In Vinland | 54820 | [54820-dead-in-vinland.json](./54820-dead-in-vinland.json) |
+| Dead in Vinland: Endless Mode - Battle of the Heodenings | 155312 | [155312-dead-in-vinland-endless-mode-battle-of-the-heodenings.json](./155312-dead-in-vinland-endless-mode-battle-of-the-heodenings.json) |
 | Dead In Vinland: The Battle of the Heodenings | 114430 | [114430-dead-in-vinland-the-battle-of-the-heodenings.json](./114430-dead-in-vinland-the-battle-of-the-heodenings.json) |
 | Dead In Vinland: The Vallhund | 114431 | [114431-dead-in-vinland-the-vallhund.json](./114431-dead-in-vinland-the-vallhund.json) |
 | Dead in Vinland: True Viking Edition | 122905 | [122905-dead-in-vinland-true-viking-edition.json](./122905-dead-in-vinland-true-viking-edition.json) |
@@ -8322,6 +8323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension Ranger | 349330 | [349330-dimension-ranger.json](./349330-dimension-ranger.json) |
 | Dimension Reign | 129484 | [129484-dimension-reign.json](./129484-dimension-reign.json) |
 | Dimension Rift Zero | 149271 | [149271-dimension-rift-zero.json](./149271-dimension-rift-zero.json) |
+| Dimension Shift | 155307 | [155307-dimension-shift.json](./155307-dimension-shift.json) |
 | Dimension Shift | 272106 | [272106-dimension-shift.json](./272106-dimension-shift.json) |
 | Dimension Shift | 323884 | [323884-dimension-shift.json](./323884-dimension-shift.json) |
 | Dimension Summoner: Hero Arena 3D Fantasy RPG | 95873 | [95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json](./95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json) |
@@ -17192,6 +17194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 8: Empires - Free Alliances Version | 221032 | [221032-dynasty-warriors-8-empires-free-alliances-version.json](./221032-dynasty-warriors-8-empires-free-alliances-version.json) |
 | Dynasty Warriors 8: Wang Yuanji 'Rorona' Costume | 306771 | [306771-dynasty-warriors-8-wang-yuanji-rorona-costume.json](./306771-dynasty-warriors-8-wang-yuanji-rorona-costume.json) |
 | Dynasty Warriors 8: Xtreme Legends Complete Edition | 21712 | [21712-dynasty-warriors-8-xtreme-legends-complete-edition.json](./21712-dynasty-warriors-8-xtreme-legends-complete-edition.json) |
+| Dynasty Warriors 8: Xtreme Legends Complete Edition - Powerful Weapon Pack | 155332 | [155332-dynasty-warriors-8-xtreme-legends-complete-edition-powerful-weapon-pack.json](./155332-dynasty-warriors-8-xtreme-legends-complete-edition-powerful-weapon-pack.json) |
 | Dynasty Warriors 8: Xtreme Legends Definitive Edition | 111063 | [111063-dynasty-warriors-8-xtreme-legends-definitive-edition.json](./111063-dynasty-warriors-8-xtreme-legends-definitive-edition.json) |
 | Dynasty Warriors 8: Zhao Yun 'Ibuki' Costume | 306779 | [306779-dynasty-warriors-8-zhao-yun-ibuki-costume.json](./306779-dynasty-warriors-8-zhao-yun-ibuki-costume.json) |
 | Dynasty Warriors 9 Mobile | 116235 | [116235-dynasty-warriors-9-mobile.json](./116235-dynasty-warriors-9-mobile.json) |
