@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hǎidǐ Xúnbǎo | 110136 | [110136-haidi-xunbao.json](./110136-haidi-xunbao.json) |
 | Haifa | 338098 | [338098-haifa.json](./338098-haifa.json) |
 | Haiiro no Umi nite Kimi wo Matsu | 285899 | [285899-haiiro-no-umi-nite-kimi-wo-matsu.json](./285899-haiiro-no-umi-nite-kimi-wo-matsu.json) |
+| Haikei, Kanshu Hajimemashita | 135446 | [135446-haikei-kanshu-hajimemashita.json](./135446-haikei-kanshu-hajimemashita.json) |
 | Haiki | 141134 | [141134-haiki.json](./141134-haiki.json) |
 | Haiki Gas Circle | 151820 | [151820-haiki-gas-circle.json](./151820-haiki-gas-circle.json) |
 | Haiku, and the Mother Virus | 336070 | [336070-haiku-and-the-mother-virus.json](./336070-haiku-and-the-mother-virus.json) |
