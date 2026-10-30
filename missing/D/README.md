@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Corp | 142824 | [142824-d-corp.json](./142824-d-corp.json) |
 | D-Cube Planet | 66980 | [66980-d-cube-planet.json](./66980-d-cube-planet.json) |
 | D-Day | 14768 | [14768-d-day.json](./14768-d-day.json) |
+| D-Day | 176108 | [176108-d-day.json](./176108-d-day.json) |
 | D-Day | 27252 | [27252-d-day.json](./27252-d-day.json) |
 | D-Day | 410295 | [410295-d-day.json](./410295-d-day.json) |
 | D-Day Invasions | 293836 | [293836-d-day-invasions.json](./293836-d-day-invasions.json) |
@@ -948,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Curves | 330573 | [330573-dangerous-curves.json](./330573-dangerous-curves.json) |
 | Dangerous Dave Champion's Edition | 242917 | [242917-dangerous-dave-champions-edition.json](./242917-dangerous-dave-champions-edition.json) |
 | Dangerous Dave GS | 11385 | [11385-dangerous-dave-gs.json](./11385-dangerous-dave-gs.json) |
+| Dangerous Dave in Copyright Infringement | 176080 | [176080-dangerous-dave-in-copyright-infringement.json](./176080-dangerous-dave-in-copyright-infringement.json) |
 | Dangerous Dave in the Deserted Pirate's Hideout | 11384 | [11384-dangerous-dave-in-the-deserted-pirates-hideout.json](./11384-dangerous-dave-in-the-deserted-pirates-hideout.json) |
 | Dangerous Dave Returns | 11387 | [11387-dangerous-dave-returns.json](./11387-dangerous-dave-returns.json) |
 | Dangerous Dave's Risky Rescue | 11388 | [11388-dangerous-daves-risky-rescue.json](./11388-dangerous-daves-risky-rescue.json) |
@@ -5949,6 +5951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dense forest | 282009 | [282009-dense-forest.json](./282009-dense-forest.json) |
 | Densetsu no Ogre Battle Gaiden: Zenobia no Ouji | 43975 | [43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json](./43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json) |
 | Densetsu no Quiz-ou Ketteisen | 3973 | [3973-densetsu-no-quiz-ou-ketteisen.json](./3973-densetsu-no-quiz-ou-ketteisen.json) |
+| Densetsu no Starfy | 176085 | [176085-densetsu-no-starfy.json](./176085-densetsu-no-starfy.json) |
 | Densetsu no Starfy | 6370 | [6370-densetsu-no-starfy.json](./6370-densetsu-no-starfy.json) |
 | Densha | 109162 | [109162-densha.json](./109162-densha.json) |
 | Densha Daishuugou: Driving Train | 289740 | [289740-densha-daishuugou-driving-train.json](./289740-densha-daishuugou-driving-train.json) |
