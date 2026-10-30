@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T09:19:12.935Z",
-  "total_missing": 283398,
+  "generated_at": "2026-10-30T09:33:05.598Z",
+  "total_missing": 283446,
   "games": [
     {
       "igdb_id": 191680,
@@ -101860,11 +101860,6 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
-    },
-    {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -208477,6 +208472,11 @@
       "file": "missing/C/363353-cheesecattoe.json"
     },
     {
+      "igdb_id": 156317,
+      "game_name": "CheeseCube",
+      "file": "missing/C/156317-cheesecube.json"
+    },
+    {
       "igdb_id": 384176,
       "game_name": "Cheeseland Mistery",
       "file": "missing/C/384176-cheeseland-mistery.json"
@@ -286312,9 +286312,19 @@
       "file": "missing/D/195416-dcs-world-a-10c-ii-iron-flag-part-1-campaign.json"
     },
     {
+      "igdb_id": 156307,
+      "game_name": "DCS World: A-10C II Tank Killer",
+      "file": "missing/D/156307-dcs-world-a-10c-ii-tank-killer.json"
+    },
+    {
       "igdb_id": 325720,
       "game_name": "DCS World: A-10C Operation Agile Spear Campaign by Combat King Simulations",
       "file": "missing/D/325720-dcs-world-a-10c-operation-agile-spear-campaign-by-combat-king-simulations.json"
+    },
+    {
+      "igdb_id": 156298,
+      "game_name": "DCS World: A-10C Warthog - The Enemy Within 3.0 Campaign",
+      "file": "missing/D/156298-dcs-world-a-10c-warthog-the-enemy-within-3-0-campaign.json"
     },
     {
       "igdb_id": 332795,
@@ -286347,6 +286357,16 @@
       "file": "missing/D/325249-dcs-world-av-8b-kerman-campaign-by-ground-pounder-sims.json"
     },
     {
+      "igdb_id": 156301,
+      "game_name": "DCS World: AV-8B Sky Warrior Campaign",
+      "file": "missing/D/156301-dcs-world-av-8b-sky-warrior-campaign.json"
+    },
+    {
+      "igdb_id": 156304,
+      "game_name": "DCS World: Bf 109 K-4 Kurfürst",
+      "file": "missing/D/156304-dcs-world-bf-109-k-4-kurfurst.json"
+    },
+    {
       "igdb_id": 170164,
       "game_name": "DCS World: Black Shark 2 - Republic Campaign",
       "file": "missing/D/170164-dcs-world-black-shark-2-republic-campaign.json"
@@ -286372,6 +286392,11 @@
       "file": "missing/D/408114-dcs-world-cold-war-germany-by-ugra-media.json"
     },
     {
+      "igdb_id": 156308,
+      "game_name": "DCS World: Combined Arms",
+      "file": "missing/D/156308-dcs-world-combined-arms.json"
+    },
+    {
       "igdb_id": 408113,
       "game_name": "DCS World: F-100D Super Sabre by Grinnelli Designs",
       "file": "missing/D/408113-dcs-world-f-100d-super-sabre-by-grinnelli-designs.json"
@@ -286385,6 +286410,11 @@
       "igdb_id": 162863,
       "game_name": "DCS World: F-14A Fear the Bones Campaign",
       "file": "missing/D/162863-dcs-world-f-14a-fear-the-bones-campaign.json"
+    },
+    {
+      "igdb_id": 156310,
+      "game_name": "DCS World: F-14A/B Tomcat",
+      "file": "missing/D/156310-dcs-world-f-14a-b-tomcat.json"
     },
     {
       "igdb_id": 325649,
@@ -286437,6 +286467,11 @@
       "file": "missing/D/324733-dcs-world-f-16c-last-out-weasels-over-syria-ii-campaign.json"
     },
     {
+      "igdb_id": 156305,
+      "game_name": "DCS World: F-16C Viper",
+      "file": "missing/D/156305-dcs-world-f-16c-viper.json"
+    },
+    {
       "igdb_id": 274977,
       "game_name": "DCS World: F-4E Phantom II by Heatblur Simulations",
       "file": "missing/D/274977-dcs-world-f-4e-phantom-ii-by-heatblur-simulations.json"
@@ -286460,6 +286495,11 @@
       "igdb_id": 324873,
       "game_name": "DCS World: F-5E Remastered",
       "file": "missing/D/324873-dcs-world-f-5e-remastered.json"
+    },
+    {
+      "igdb_id": 156303,
+      "game_name": "DCS World: F-5E Tiger II",
+      "file": "missing/D/156303-dcs-world-f-5e-tiger-ii.json"
     },
     {
       "igdb_id": 169958,
@@ -286530,6 +286570,11 @@
       "igdb_id": 408111,
       "game_name": "DCS World: La-7 by OctopusG",
       "file": "missing/D/408111-dcs-world-la-7-by-octopusg.json"
+    },
+    {
+      "igdb_id": 156311,
+      "game_name": "DCS World: M-2000C",
+      "file": "missing/D/156311-dcs-world-m-2000c.json"
     },
     {
       "igdb_id": 325533,
@@ -286647,6 +286692,21 @@
       "file": "missing/D/170151-dcs-world-p-51d-high-stakes-campaign.json"
     },
     {
+      "igdb_id": 156312,
+      "game_name": "DCS World: P-51D Mustang",
+      "file": "missing/D/156312-dcs-world-p-51d-mustang.json"
+    },
+    {
+      "igdb_id": 156297,
+      "game_name": "DCS World: P-51D Mustang - Operation Charnwood Campaign",
+      "file": "missing/D/156297-dcs-world-p-51d-mustang-operation-charnwood-campaign.json"
+    },
+    {
+      "igdb_id": 156309,
+      "game_name": "DCS World: Persian Gulf",
+      "file": "missing/D/156309-dcs-world-persian-gulf.json"
+    },
+    {
       "igdb_id": 205076,
       "game_name": "DCS World: South Atlantic",
       "file": "missing/D/205076-dcs-world-south-atlantic.json"
@@ -286660,6 +286720,16 @@
       "igdb_id": 325541,
       "game_name": "DCS World: Spitfire Beware! Beware! Campaign by Reflected Simulations",
       "file": "missing/D/325541-dcs-world-spitfire-beware-beware-campaign-by-reflected-simulations.json"
+    },
+    {
+      "igdb_id": 156313,
+      "game_name": "DCS World: Spitfire LF Mk IX",
+      "file": "missing/D/156313-dcs-world-spitfire-lf-mk-ix.json"
+    },
+    {
+      "igdb_id": 156299,
+      "game_name": "DCS World: Spitfire LF Mk.IX - The Big Show Campaign",
+      "file": "missing/D/156299-dcs-world-spitfire-lf-mk-ix-the-big-show-campaign.json"
     },
     {
       "igdb_id": 162865,
@@ -286682,6 +286752,11 @@
       "file": "missing/D/162866-dcs-world-su-33.json"
     },
     {
+      "igdb_id": 156300,
+      "game_name": "DCS World: Syria",
+      "file": "missing/D/156300-dcs-world-syria.json"
+    },
+    {
       "igdb_id": 162856,
       "game_name": "DCS World: The Museum Relic Campaign",
       "file": "missing/D/162856-dcs-world-the-museum-relic-campaign.json"
@@ -286690,6 +286765,16 @@
       "igdb_id": 170149,
       "game_name": "DCS World: UH-1H - Argo Campaign",
       "file": "missing/D/170149-dcs-world-uh-1h-argo-campaign.json"
+    },
+    {
+      "igdb_id": 156315,
+      "game_name": "DCS World: UH-1H Huey",
+      "file": "missing/D/156315-dcs-world-uh-1h-huey.json"
+    },
+    {
+      "igdb_id": 156314,
+      "game_name": "DCS World: UH-1H Huey - Worlds Apart Spring 2025 Campaign",
+      "file": "missing/D/156314-dcs-world-uh-1h-huey-worlds-apart-spring-2025-campaign.json"
     },
     {
       "igdb_id": 195403,
@@ -286712,6 +286797,16 @@
       "file": "missing/D/325096-dcs-world-uh-1h-worlds-apart-stormfront-campaign-by-low-level-heaven-mission-development.json"
     },
     {
+      "igdb_id": 156302,
+      "game_name": "DCS World: World War II Assets Pack",
+      "file": "missing/D/156302-dcs-world-world-war-ii-assets-pack.json"
+    },
+    {
+      "igdb_id": 156316,
+      "game_name": "DCS World: Yak-52",
+      "file": "missing/D/156316-dcs-world-yak-52.json"
+    },
+    {
       "igdb_id": 21208,
       "game_name": "DCS: Black Shark",
       "file": "missing/D/21208-dcs-black-shark.json"
@@ -286725,6 +286820,11 @@
       "igdb_id": 296887,
       "game_name": "DCS: Mi-24P OutPost Campaign by Stone Sky",
       "file": "missing/D/296887-dcs-mi-24p-outpost-campaign-by-stone-sky.json"
+    },
+    {
+      "igdb_id": 156306,
+      "game_name": "DCS: Mi-8MTV2 and Ka-50 Memory of a Hero Campaign",
+      "file": "missing/D/156306-dcs-mi-8mtv2-and-ka-50-memory-of-a-hero-campaign.json"
     },
     {
       "igdb_id": 27782,
@@ -413567,6 +413667,11 @@
       "file": "missing/F/170495-femboy-bangers-pub-and-grill.json"
     },
     {
+      "igdb_id": 156318,
+      "game_name": "Femboy Besties",
+      "file": "missing/F/156318-femboy-besties.json"
+    },
+    {
       "igdb_id": 370477,
       "game_name": "Femboy Called It “Massage”",
       "file": "missing/F/370477-femboy-called-it-massage.json"
@@ -493572,6 +493677,46 @@
       "file": "missing/G/305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json"
     },
     {
+      "igdb_id": 156324,
+      "game_name": "Granblue Fantasy: Versus - Anre",
+      "file": "missing/G/156324-granblue-fantasy-versus-anre.json"
+    },
+    {
+      "igdb_id": 156322,
+      "game_name": "Granblue Fantasy: Versus - Beelzebub",
+      "file": "missing/G/156322-granblue-fantasy-versus-beelzebub.json"
+    },
+    {
+      "igdb_id": 156321,
+      "game_name": "Granblue Fantasy: Versus - Belial",
+      "file": "missing/G/156321-granblue-fantasy-versus-belial.json"
+    },
+    {
+      "igdb_id": 156328,
+      "game_name": "Granblue Fantasy: Versus - Cagliostro",
+      "file": "missing/G/156328-granblue-fantasy-versus-cagliostro.json"
+    },
+    {
+      "igdb_id": 156323,
+      "game_name": "Granblue Fantasy: Versus - Djeeta",
+      "file": "missing/G/156323-granblue-fantasy-versus-djeeta.json"
+    },
+    {
+      "igdb_id": 156325,
+      "game_name": "Granblue Fantasy: Versus - Dydroit Belt",
+      "file": "missing/G/156325-granblue-fantasy-versus-dydroit-belt.json"
+    },
+    {
+      "igdb_id": 156319,
+      "game_name": "Granblue Fantasy: Versus - Eustace",
+      "file": "missing/G/156319-granblue-fantasy-versus-eustace.json"
+    },
+    {
+      "igdb_id": 156331,
+      "game_name": "Granblue Fantasy: Versus - Jewel Resort",
+      "file": "missing/G/156331-granblue-fantasy-versus-jewel-resort.json"
+    },
+    {
       "igdb_id": 185989,
       "game_name": "Granblue Fantasy: Versus - Legendary Edition",
       "file": "missing/G/185989-granblue-fantasy-versus-legendary-edition.json"
@@ -493582,9 +493727,34 @@
       "file": "missing/G/332665-granblue-fantasy-versus-lobby-avatar-gold-ship.json"
     },
     {
+      "igdb_id": 156320,
+      "game_name": "Granblue Fantasy: Versus - Lumacie",
+      "file": "missing/G/156320-granblue-fantasy-versus-lumacie.json"
+    },
+    {
+      "igdb_id": 156326,
+      "game_name": "Granblue Fantasy: Versus - Narmaya",
+      "file": "missing/G/156326-granblue-fantasy-versus-narmaya.json"
+    },
+    {
       "igdb_id": 233643,
       "game_name": "Granblue Fantasy: Versus - Seox",
       "file": "missing/G/233643-granblue-fantasy-versus-seox.json"
+    },
+    {
+      "igdb_id": 156327,
+      "game_name": "Granblue Fantasy: Versus - Soriz",
+      "file": "missing/G/156327-granblue-fantasy-versus-soriz.json"
+    },
+    {
+      "igdb_id": 156329,
+      "game_name": "Granblue Fantasy: Versus - Yuel",
+      "file": "missing/G/156329-granblue-fantasy-versus-yuel.json"
+    },
+    {
+      "igdb_id": 156330,
+      "game_name": "Granblue Fantasy: Versus - Zooey",
+      "file": "missing/G/156330-granblue-fantasy-versus-zooey.json"
     },
     {
       "igdb_id": 67914,
@@ -629625,11 +629795,6 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
-    },
-    {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -1288922,6 +1289087,11 @@
       "file": "missing/T/156381-train-simulator-2021-inselbahn-stralsund-sassnitz-route.json"
     },
     {
+      "igdb_id": 156414,
+      "game_name": "Train Simulator 2021: Karawankenbahn - Ljubljana, Villach & Tarvisio Route",
+      "file": "missing/T/156414-train-simulator-2021-karawankenbahn-ljubljana-villach-and-tarvisio-route.json"
+    },
+    {
       "igdb_id": 162342,
       "game_name": "Train Simulator 2021: Koeln Airport Link Route Extension",
       "file": "missing/T/162342-train-simulator-2021-koeln-airport-link-route-extension.json"
@@ -1289005,6 +1289175,11 @@
       "igdb_id": 162344,
       "game_name": "Train Simulator 2021: MRCE ES 64 U2 'Taurus' Loco",
       "file": "missing/T/162344-train-simulator-2021-mrce-es-64-u2-taurus-loco.json"
+    },
+    {
+      "igdb_id": 156335,
+      "game_name": "Train Simulator 2021: Netherfield - Nottingham Network Route",
+      "file": "missing/T/156335-train-simulator-2021-netherfield-nottingham-network-route.json"
     },
     {
       "igdb_id": 162314,
@@ -1289597,6 +1289772,11 @@
       "file": "missing/T/156439-train-simulator-bernina-line-poschiavo-tirano-route-add-on.json"
     },
     {
+      "igdb_id": 156420,
+      "game_name": "Train Simulator: Bessemer & Lake Erie Route Add-On",
+      "file": "missing/T/156420-train-simulator-bessemer-and-lake-erie-route-add-on.json"
+    },
+    {
       "igdb_id": 156405,
       "game_name": "Train Simulator: Birmingham Cross City Line: Lichfield - Bromsgrove & Redditch Route Add-On",
       "file": "missing/T/156405-train-simulator-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json"
@@ -1289605,6 +1289785,11 @@
       "igdb_id": 162039,
       "game_name": "Train Simulator: Boston & Maine GE 44 Loco Add-On",
       "file": "missing/T/162039-train-simulator-boston-and-maine-ge-44-loco-add-on.json"
+    },
+    {
+      "igdb_id": 156332,
+      "game_name": "Train Simulator: BR 6MT Clan Class Loco Add-On",
+      "file": "missing/T/156332-train-simulator-br-6mt-clan-class-loco-add-on.json"
     },
     {
       "igdb_id": 156337,
@@ -1289815,6 +1290000,11 @@
       "igdb_id": 156407,
       "game_name": "Train Simulator: Doncaster Works Route Add-On",
       "file": "missing/T/156407-train-simulator-doncaster-works-route-add-on.json"
+    },
+    {
+      "igdb_id": 156333,
+      "game_name": "Train Simulator: DR BR 86 Loco Add-On",
+      "file": "missing/T/156333-train-simulator-dr-br-86-loco-add-on.json"
     },
     {
       "igdb_id": 306071,
@@ -1290147,6 +1290337,11 @@
       "file": "missing/T/162046-train-simulator-metronom-me-146-loco-add-on.json"
     },
     {
+      "igdb_id": 156412,
+      "game_name": "Train Simulator: Metropolitan Line: Aldgate - Uxbridge & Amersham Route Add-On",
+      "file": "missing/T/156412-train-simulator-metropolitan-line-aldgate-uxbridge-and-amersham-route-add-on.json"
+    },
+    {
       "igdb_id": 156484,
       "game_name": "Train Simulator: Miami - West Palm Beach Route Add-On",
       "file": "missing/T/156484-train-simulator-miami-west-palm-beach-route-add-on.json"
@@ -1290170,6 +1290365,11 @@
       "igdb_id": 207742,
       "game_name": "Train Simulator: Midland Main Line: Nottingham - Lincoln Route",
       "file": "missing/T/207742-train-simulator-midland-main-line-nottingham-lincoln-route.json"
+    },
+    {
+      "igdb_id": 156411,
+      "game_name": "Train Simulator: Midland Main Line: Sheffield - Derby Route Add-On",
+      "file": "missing/T/156411-train-simulator-midland-main-line-sheffield-derby-route-add-on.json"
     },
     {
       "igdb_id": 156452,
@@ -1290265,6 +1290465,16 @@
       "igdb_id": 156390,
       "game_name": "Train Simulator: Norddeutsche-Bahn: Kiel - Lübeck Route Add-On",
       "file": "missing/T/156390-train-simulator-norddeutsche-bahn-kiel-lubeck-route-add-on.json"
+    },
+    {
+      "igdb_id": 156413,
+      "game_name": "Train Simulator: Norfolk Southern Coal District Route Add-On",
+      "file": "missing/T/156413-train-simulator-norfolk-southern-coal-district-route-add-on.json"
+    },
+    {
+      "igdb_id": 156421,
+      "game_name": "Train Simulator: Norfolk Southern N-Line Route Add-On",
+      "file": "missing/T/156421-train-simulator-norfolk-southern-n-line-route-add-on.json"
     },
     {
       "igdb_id": 265716,
@@ -1290422,6 +1290632,11 @@
       "file": "missing/T/156450-train-simulator-ruhr-sieg-route-add-on.json"
     },
     {
+      "igdb_id": 156416,
+      "game_name": "Train Simulator: S25 Heart of Berlin: Hennigsdorf - Teltow Route Add-On",
+      "file": "missing/T/156416-train-simulator-s25-heart-of-berlin-hennigsdorf-teltow-route-add-on.json"
+    },
+    {
       "igdb_id": 191023,
       "game_name": "Train Simulator: Salzburg - Mühldorf Route",
       "file": "missing/T/191023-train-simulator-salzburg-muhldorf-route.json"
@@ -1290567,6 +1290782,11 @@
       "file": "missing/T/191018-train-simulator-thameslink-br-class-700-emu.json"
     },
     {
+      "igdb_id": 156334,
+      "game_name": "Train Simulator: The Alaska Railroad: Anchorage - Seward Route Add-On",
+      "file": "missing/T/156334-train-simulator-the-alaska-railroad-anchorage-seward-route-add-on.json"
+    },
+    {
       "igdb_id": 53745,
       "game_name": "Train Simulator: The Holiday Express",
       "file": "missing/T/53745-train-simulator-the-holiday-express.json"
@@ -1290682,6 +1290902,11 @@
       "file": "missing/T/156358-train-simulator-valley-corridor-route-add-on.json"
     },
     {
+      "igdb_id": 156417,
+      "game_name": "Train Simulator: Wakayama & Sakurai Lines Route Add-On",
+      "file": "missing/T/156417-train-simulator-wakayama-and-sakurai-lines-route-add-on.json"
+    },
+    {
       "igdb_id": 156474,
       "game_name": "Train Simulator: WCML South: London Euston - Birmingham Route Add-On",
       "file": "missing/T/156474-train-simulator-wcml-south-london-euston-birmingham-route-add-on.json"
@@ -1290697,6 +1290922,11 @@
       "file": "missing/T/156336-train-simulator-weardale-and-teesdale-network-route-add-on.json"
     },
     {
+      "igdb_id": 156419,
+      "game_name": "Train Simulator: Welsh Marches: Newport - Shrewsbury Route Add-On",
+      "file": "missing/T/156419-train-simulator-welsh-marches-newport-shrewsbury-route-add-on.json"
+    },
+    {
       "igdb_id": 156389,
       "game_name": "Train Simulator: West Coast Main Line North Route Add-On",
       "file": "missing/T/156389-train-simulator-west-coast-main-line-north-route-add-on.json"
@@ -1290705,6 +1290935,11 @@
       "igdb_id": 156424,
       "game_name": "Train Simulator: West Coast Main Line Over Shap Route Add-On",
       "file": "missing/T/156424-train-simulator-west-coast-main-line-over-shap-route-add-on.json"
+    },
+    {
+      "igdb_id": 156418,
+      "game_name": "Train Simulator: West Highland Line (South) Route Add-On",
+      "file": "missing/T/156418-train-simulator-west-highland-line-south-route-add-on.json"
     },
     {
       "igdb_id": 156359,
@@ -1290740,6 +1290975,11 @@
       "igdb_id": 156435,
       "game_name": "Train Simulator: Wherry Lines: Norwich - Great Yarmouth & Lowestoft Route Add-On",
       "file": "missing/T/156435-train-simulator-wherry-lines-norwich-great-yarmouth-and-lowestoft-route-add-on.json"
+    },
+    {
+      "igdb_id": 156415,
+      "game_name": "Train Simulator: Woodhead Electric Railway in Blue Route Add-On",
+      "file": "missing/T/156415-train-simulator-woodhead-electric-railway-in-blue-route-add-on.json"
     },
     {
       "igdb_id": 156433,
