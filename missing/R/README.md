@@ -1296,7 +1296,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainmaker: Ultimate Trading Game | 233215 | [233215-rainmaker-ultimate-trading-game.json](./233215-rainmaker-ultimate-trading-game.json) |
 | Rainman | 264582 | [264582-rainman.json](./264582-rainman.json) |
 | Rainshade | 204491 | [204491-rainshade.json](./204491-rainshade.json) |
-| Rainswept | 81086 | [81086-rainswept.json](./81086-rainswept.json) |
 | Rainy | 164172 | [164172-rainy.json](./164172-rainy.json) |
 | Rainy attic room | 143090 | [143090-rainy-attic-room.json](./143090-rainy-attic-room.json) |
 | Rainy Blue: 6 Gatsu no Ame | 371955 | [371955-rainy-blue-6-gatsu-no-ame.json](./371955-rainy-blue-6-gatsu-no-ame.json) |
@@ -1459,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Racing 2 | 222733 | [222733-rally-racing-2.json](./222733-rally-racing-2.json) |
 | Rally Racing Drift 2024 | 315900 | [315900-rally-racing-drift-2024.json](./315900-rally-racing-drift-2024.json) |
 | Rally Racing: Cars & Drift Mania | 265711 | [265711-rally-racing-cars-and-drift-mania.json](./265711-rally-racing-cars-and-drift-mania.json) |
+| Rally Road | 126201 | [126201-rally-road.json](./126201-rally-road.json) |
 | Rally Rock 'N Racing | 119517 | [119517-rally-rock-n-racing.json](./119517-rally-rock-n-racing.json) |
 | Rally Rumble | 280787 | [280787-rally-rumble.json](./280787-rally-rumble.json) |
 | Rally Run | 237371 | [237371-rally-run.json](./237371-rally-run.json) |
@@ -1994,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratyboy Adventures | 242657 | [242657-ratyboy-adventures.json](./242657-ratyboy-adventures.json) |
 | Ratyrinth | 258922 | [258922-ratyrinth.json](./258922-ratyrinth.json) |
 | Ratz Instagib | 9193 | [9193-ratz-instagib.json](./9193-ratz-instagib.json) |
+| Rauniot | 126224 | [126224-rauniot.json](./126224-rauniot.json) |
 | Rauol | 277725 | [277725-rauol.json](./277725-rauol.json) |
 | Räv Kafé | 395158 | [395158-rav-kafe.json](./395158-rav-kafe.json) |
 | Ravage | 306435 | [306435-ravage.json](./306435-ravage.json) |
@@ -2804,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality Rifts | 320517 | [320517-reality-rifts.json](./320517-reality-rifts.json) |
 | Reality Rivals: The First Season | 374637 | [374637-reality-rivals-the-first-season.json](./374637-reality-rivals-the-first-season.json) |
 | Reality Runner | 68451 | [68451-reality-runner.json](./68451-reality-runner.json) |
+| Reality Show: Fatal Shot - Collector's Edition | 126176 | [126176-reality-show-fatal-shot-collectors-edition.json](./126176-reality-show-fatal-shot-collectors-edition.json) |
 | Reality Stability Office | 401086 | [401086-reality-stability-office.json](./401086-reality-stability-office.json) |
 | Reality-On-The-Norm: The Affair of the Weirdo | 58048 | [58048-reality-on-the-norm-the-affair-of-the-weirdo.json](./58048-reality-on-the-norm-the-affair-of-the-weirdo.json) |
 | Reality's Reverse Side | 156523 | [156523-realitys-reverse-side.json](./156523-realitys-reverse-side.json) |
@@ -5737,6 +5739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reus 2: Grasslands | 401682 | [401682-reus-2-grasslands.json](./401682-reus-2-grasslands.json) |
 | Reus 2: Ice Age | 363682 | [363682-reus-2-ice-age.json](./363682-reus-2-ice-age.json) |
 | Reus 2: Supporter Pack | 312031 | [312031-reus-2-supporter-pack.json](./312031-reus-2-supporter-pack.json) |
+| Réussir: Code de la Route | 126199 | [126199-reussir-code-de-la-route.json](./126199-reussir-code-de-la-route.json) |
 | Réussir: Code de la Route - Bonus ASSR 1 - ASSR 2: Permis AM - French Highway Code | 298157 | [298157-reussir-code-de-la-route-bonus-assr-1-assr-2-permis-am-french-highway-code.json](./298157-reussir-code-de-la-route-bonus-assr-1-assr-2-permis-am-french-highway-code.json) |
 | Réussir: Code de la Route - Nouvelle édition | 144206 | [144206-reussir-code-de-la-route-nouvelle-edition.json](./144206-reussir-code-de-la-route-nouvelle-edition.json) |
 | Réussir: Code de la Route - Nouvelle Edition: French Highway Code | 227127 | [227127-reussir-code-de-la-route-nouvelle-edition-french-highway-code.json](./227127-reussir-code-de-la-route-nouvelle-edition-french-highway-code.json) |
