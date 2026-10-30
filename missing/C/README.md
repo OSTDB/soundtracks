@@ -603,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops II - Care Package | 18352 | [18352-call-of-duty-black-ops-ii-care-package.json](./18352-call-of-duty-black-ops-ii-care-package.json) |
 | Call of Duty: Black Ops II - Digital Deluxe Edition | 11202 | [11202-call-of-duty-black-ops-ii-digital-deluxe-edition.json](./11202-call-of-duty-black-ops-ii-digital-deluxe-edition.json) |
 | Call of Duty: Black Ops II - Nuketown 2025 | 295256 | [295256-call-of-duty-black-ops-ii-nuketown-2025.json](./295256-call-of-duty-black-ops-ii-nuketown-2025.json) |
+| Call of Duty: Black Ops II - Nuketown 2025 Edition | 136074 | [136074-call-of-duty-black-ops-ii-nuketown-2025-edition.json](./136074-call-of-duty-black-ops-ii-nuketown-2025-edition.json) |
 | Call of Duty: Black Ops II - Nuketown Zombies | 295255 | [295255-call-of-duty-black-ops-ii-nuketown-zombies.json](./295255-call-of-duty-black-ops-ii-nuketown-zombies.json) |
 | Call of Duty: Black Ops II - Revolution | 20153 | [20153-call-of-duty-black-ops-ii-revolution.json](./20153-call-of-duty-black-ops-ii-revolution.json) |
 | Call of Duty: Black Ops II - Uprising | 20154 | [20154-call-of-duty-black-ops-ii-uprising.json](./20154-call-of-duty-black-ops-ii-uprising.json) |
@@ -1748,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: New Kick Off | 47865 | [47865-captain-tsubasa-new-kick-off.json](./47865-captain-tsubasa-new-kick-off.json) |
 | Captain Tsubasa: No. 1 Striker | 385802 | [385802-captain-tsubasa-no-1-striker.json](./385802-captain-tsubasa-no-1-striker.json) |
 | Captain Tsubasa: Rise of New Champions | 128769 | [128769-captain-tsubasa-rise-of-new-champions.json](./128769-captain-tsubasa-rise-of-new-champions.json) |
+| Captain Tsubasa: Rise of New Champions - Deluxe Edition | 136032 | [136032-captain-tsubasa-rise-of-new-champions-deluxe-edition.json](./136032-captain-tsubasa-rise-of-new-champions-deluxe-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Deluxe Month 1 Edition | 139942 | [139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json](./139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Digital Ultimate Edition | 267226 | [267226-captain-tsubasa-rise-of-new-champions-digital-ultimate-edition.json](./267226-captain-tsubasa-rise-of-new-champions-digital-ultimate-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Juan Diaz Mission | 214543 | [214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json](./214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json) |
@@ -4014,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catherine: Full Body - Dynamite Full Body Box | 136282 | [136282-catherine-full-body-dynamite-full-body-box.json](./136282-catherine-full-body-dynamite-full-body-box.json) |
 | Catherine: Full Body - Heart's Desire Premium Edition | 72067 | [72067-catherine-full-body-hearts-desire-premium-edition.json](./72067-catherine-full-body-hearts-desire-premium-edition.json) |
 | Catherine: Full Body - Launch Edition | 136327 | [136327-catherine-full-body-launch-edition.json](./136327-catherine-full-body-launch-edition.json) |
+| Catherine: Full Body - Limited Edition | 136037 | [136037-catherine-full-body-limited-edition.json](./136037-catherine-full-body-limited-edition.json) |
 | Catherine: Japanese Edition | 74899 | [74899-catherine-japanese-edition.json](./74899-catherine-japanese-edition.json) |
 | Catherine: Love is Over Edition | 74897 | [74897-catherine-love-is-over-edition.json](./74897-catherine-love-is-over-edition.json) |
 | Catherine: Stray Sheep Deluxe Edition | 74898 | [74898-catherine-stray-sheep-deluxe-edition.json](./74898-catherine-stray-sheep-deluxe-edition.json) |
@@ -8138,6 +8141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Paradise Radio | 220001 | [220001-cities-skylines-paradise-radio.json](./220001-cities-skylines-paradise-radio.json) |
 | Cities: Skylines - Parklife Edition | 205268 | [205268-cities-skylines-parklife-edition.json](./205268-cities-skylines-parklife-edition.json) |
 | Cities: Skylines - Piano Tunes Radio | 257084 | [257084-cities-skylines-piano-tunes-radio.json](./257084-cities-skylines-piano-tunes-radio.json) |
+| Cities: Skylines - Platinum Edition | 136082 | [136082-cities-skylines-platinum-edition.json](./136082-cities-skylines-platinum-edition.json) |
 | Cities: Skylines - PlayStation 4 Edition | 94074 | [94074-cities-skylines-playstation-4-edition.json](./94074-cities-skylines-playstation-4-edition.json) |
 | Cities: Skylines - Premium Edition 2 | 119080 | [119080-cities-skylines-premium-edition-2.json](./119080-cities-skylines-premium-edition-2.json) |
 | Cities: Skylines - Race Day | 393462 | [393462-cities-skylines-race-day.json](./393462-cities-skylines-race-day.json) |
