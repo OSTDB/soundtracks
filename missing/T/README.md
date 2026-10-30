@@ -3439,6 +3439,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of the Green Moon | 271564 | [271564-temple-of-the-green-moon.json](./271564-temple-of-the-green-moon.json) |
 | Temple of the Lizardmen | 142486 | [142486-temple-of-the-lizardmen.json](./142486-temple-of-the-lizardmen.json) |
 | Temple of the Lizardmen 2 | 142487 | [142487-temple-of-the-lizardmen-2.json](./142487-temple-of-the-lizardmen-2.json) |
+| Temple of the Lizardmen 3 | 142600 | [142600-temple-of-the-lizardmen-3.json](./142600-temple-of-the-lizardmen-3.json) |
+| Temple of the Lizardmen 4 | 142601 | [142601-temple-of-the-lizardmen-4.json](./142601-temple-of-the-lizardmen-4.json) |
+| Temple of the Lizardmen 5 | 142602 | [142602-temple-of-the-lizardmen-5.json](./142602-temple-of-the-lizardmen-5.json) |
 | Temple of the Lost | 107410 | [107410-temple-of-the-lost.json](./107410-temple-of-the-lost.json) |
 | Temple of the Thousand-Faced Moon | 271312 | [271312-temple-of-the-thousand-faced-moon.json](./271312-temple-of-the-thousand-faced-moon.json) |
 | Temple of the Wumpus | 148767 | [148767-temple-of-the-wumpus.json](./148767-temple-of-the-wumpus.json) |
@@ -3871,6 +3874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teratini VR | 30610 | [30610-teratini-vr.json](./30610-teratini-vr.json) |
 | Terato Tamer | 228713 | [228713-terato-tamer.json](./228713-terato-tamer.json) |
 | Teratoma: The Last Rebellion | 79867 | [79867-teratoma-the-last-rebellion.json](./79867-teratoma-the-last-rebellion.json) |
+| Teratopia | 142641 | [142641-teratopia.json](./142641-teratopia.json) |
 | Teravit | 167863 | [167863-teravit.json](./167863-teravit.json) |
 | Terbis | 324799 | [324799-terbis.json](./324799-terbis.json) |
 | Tercios: Honor and Glory | 258325 | [258325-tercios-honor-and-glory.json](./258325-tercios-honor-and-glory.json) |
@@ -4054,6 +4058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraFirmaCraft+ | 297577 | [297577-terrafirmacraft.json](./297577-terrafirmacraft.json) |
 | TerraFirmaGreg | 407783 | [407783-terrafirmagreg.json](./407783-terrafirmagreg.json) |
 | TerraForge | 258527 | [258527-terraforge.json](./258527-terraforge.json) |
+| Terraform | 142048 | [142048-terraform.json](./142048-terraform.json) |
 | Terraform Co: Factory and City | 423270 | [423270-terraform-co-factory-and-city.json](./423270-terraform-co-factory-and-city.json) |
 | Terraform Inc | 169030 | [169030-terraform-inc.json](./169030-terraform-inc.json) |
 | Terraforma | 238605 | [238605-terraforma.json](./238605-terraforma.json) |
@@ -7027,6 +7032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Feldar Vale | 161558 | [161558-the-curse-of-feldar-vale.json](./161558-the-curse-of-feldar-vale.json) |
 | The Curse of Grimsey Island | 204372 | [204372-the-curse-of-grimsey-island.json](./204372-the-curse-of-grimsey-island.json) |
 | The Curse of Illmoore Bay | 169874 | [169874-the-curse-of-illmoore-bay.json](./169874-the-curse-of-illmoore-bay.json) |
+| The Curse of Illmore Bay | 142071 | [142071-the-curse-of-illmore-bay.json](./142071-the-curse-of-illmore-bay.json) |
 | The Curse of Issyos | 47094 | [47094-the-curse-of-issyos.json](./47094-the-curse-of-issyos.json) |
 | The Curse of Karlanrik | 338275 | [338275-the-curse-of-karlanrik.json](./338275-the-curse-of-karlanrik.json) |
 | The Curse of Kubel | 161516 | [161516-the-curse-of-kubel.json](./161516-the-curse-of-kubel.json) |
@@ -8345,6 +8351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Far Node | 392286 | [392286-the-far-node.json](./392286-the-far-node.json) |
 | The Faraway King | 413456 | [413456-the-faraway-king.json](./413456-the-faraway-king.json) |
 | The Faraway Land | 152786 | [152786-the-faraway-land.json](./152786-the-faraway-land.json) |
+| The Farm | 142624 | [142624-the-farm.json](./142624-the-farm.json) |
 | The Farm | 231524 | [231524-the-farm.json](./231524-the-farm.json) |
 | The Farm | 379150 | [379150-the-farm.json](./379150-the-farm.json) |
 | The Farm Racing | 404521 | [404521-the-farm-racing.json](./404521-the-farm-racing.json) |
@@ -12323,6 +12330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Messenger | 71628 | [71628-the-messenger.json](./71628-the-messenger.json) |
 | The Messenger from Athens at Marathon | 422053 | [422053-the-messenger-from-athens-at-marathon.json](./422053-the-messenger-from-athens-at-marathon.json) |
 | The Messenger: Picnic Panic Bundle | 237906 | [237906-the-messenger-picnic-panic-bundle.json](./237906-the-messenger-picnic-panic-bundle.json) |
+| The Metamorphosis | 142613 | [142613-the-metamorphosis.json](./142613-the-metamorphosis.json) |
 | The Meteorite | 191806 | [191806-the-meteorite.json](./191806-the-meteorite.json) |
 | The Meter is Running | 400816 | [400816-the-meter-is-running.json](./400816-the-meter-is-running.json) |
 | The Metronomicon: Deluxe Edition | 53761 | [53761-the-metronomicon-deluxe-edition.json](./53761-the-metronomicon-deluxe-edition.json) |
@@ -15233,6 +15241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Space Between | 378418 | [378418-the-space-between.json](./378418-the-space-between.json) |
 | The Space Between Stars | 364379 | [364379-the-space-between-stars.json](./364379-the-space-between-stars.json) |
 | The Space Brigade: Space Raiders - Refueled | 261065 | [261065-the-space-brigade-space-raiders-refueled.json](./261065-the-space-brigade-space-raiders-refueled.json) |
+| The Space in Between | 142631 | [142631-the-space-in-between.json](./142631-the-space-in-between.json) |
 | The Space Mission | 272103 | [272103-the-space-mission.json](./272103-the-space-mission.json) |
 | The Space Opera "Dragon Eyes" | 125954 | [125954-the-space-opera-dragon-eyes.json](./125954-the-space-opera-dragon-eyes.json) |
 | The Space Sheriff Spirits | 64780 | [64780-the-space-sheriff-spirits.json](./64780-the-space-sheriff-spirits.json) |
@@ -23394,6 +23403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Vice | 112278 | [112278-total-vice.json](./112278-total-vice.json) |
 | Total War Battles: Kingdom | 12300 | [12300-total-war-battles-kingdom.json](./12300-total-war-battles-kingdom.json) |
 | Total War Battles: Shogun | 15318 | [15318-total-war-battles-shogun.json](./15318-total-war-battles-shogun.json) |
+| Total War Battles: Warhammer | 142610 | [142610-total-war-battles-warhammer.json](./142610-total-war-battles-warhammer.json) |
 | Total War Grand Master Collection | 53814 | [53814-total-war-grand-master-collection.json](./53814-total-war-grand-master-collection.json) |
 | Total War Master Collection | 53813 | [53813-total-war-master-collection.json](./53813-total-war-master-collection.json) |
 | Total War Saga: Thrones of Britannia | 44102 | [44102-total-war-saga-thrones-of-britannia.json](./44102-total-war-saga-thrones-of-britannia.json) |
@@ -23956,6 +23966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Soccer Moushuuden | 128381 | [128381-touhou-soccer-moushuuden.json](./128381-touhou-soccer-moushuuden.json) |
 | Touhou Sorayumebako Gaiden: Konohana no Sorayume | 402841 | [402841-touhou-sorayumebako-gaiden-konohana-no-sorayume.json](./402841-touhou-sorayumebako-gaiden-konohana-no-sorayume.json) |
 | Touhou Sorayumebako: Gift from the Gods. | 402760 | [402760-touhou-sorayumebako-gift-from-the-gods.json](./402760-touhou-sorayumebako-gift-from-the-gods.json) |
+| Touhou Soujiki | 142060 | [142060-touhou-soujiki.json](./142060-touhou-soujiki.json) |
 | Touhou Soujinengi V & Touhou Genso Maroku W Double Pack | 110845 | [110845-touhou-soujinengi-v-and-touhou-genso-maroku-w-double-pack.json](./110845-touhou-soujinengi-v-and-touhou-genso-maroku-w-double-pack.json) |
 | Touhou Soujinengi V: The Genius of Sappheiros | 105121 | [105121-touhou-soujinengi-v-the-genius-of-sappheiros.json](./105121-touhou-soujinengi-v-the-genius-of-sappheiros.json) |
 | Touhou Soujinengi: The Genius of Sappheiros | 65194 | [65194-touhou-soujinengi-the-genius-of-sappheiros.json](./65194-touhou-soujinengi-the-genius-of-sappheiros.json) |
@@ -24056,6 +24067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toukiden: Kiwami - Mission Collection 8-11 | 171918 | [171918-toukiden-kiwami-mission-collection-8-11.json](./171918-toukiden-kiwami-mission-collection-8-11.json) |
 | Toukiden: The Age of Demons | 8658 | [8658-toukiden-the-age-of-demons.json](./8658-toukiden-the-age-of-demons.json) |
 | Touko in Underland | 312764 | [312764-touko-in-underland.json](./312764-touko-in-underland.json) |
+| Toukon Club | 142054 | [142054-toukon-club.json](./142054-toukon-club.json) |
 | Toukon Heat | 274405 | [274405-toukon-heat.json](./274405-toukon-heat.json) |
 | Toukon Juohmaru | 218292 | [218292-toukon-juohmaru.json](./218292-toukon-juohmaru.json) |
 | Toumayhem | 202857 | [202857-toumayhem.json](./202857-toumayhem.json) |
@@ -27818,6 +27830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigonometry Dash | 283128 | [283128-trigonometry-dash.json](./283128-trigonometry-dash.json) |
 | Trigonomis | 338608 | [338608-trigonomis.json](./338608-trigonomis.json) |
 | Trihard | 183008 | [183008-trihard.json](./183008-trihard.json) |
+| Trikaya | 142630 | [142630-trikaya.json](./142630-trikaya.json) |
 | Triku | 316628 | [316628-triku.json](./316628-triku.json) |
 | Trikumax | 115519 | [115519-trikumax.json](./115519-trikumax.json) |
 | Trikumax Arena | 335754 | [335754-trikumax-arena.json](./335754-trikumax-arena.json) |
