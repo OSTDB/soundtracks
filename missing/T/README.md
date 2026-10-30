@@ -16580,6 +16580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vikings | 37188 | [37188-the-vikings.json](./37188-the-vikings.json) |
 | The Villa of Pain | 272925 | [272925-the-villa-of-pain.json](./272925-the-villa-of-pain.json) |
 | The Villa: Allison's Diary | 89639 | [89639-the-villa-allisons-diary.json](./89639-the-villa-allisons-diary.json) |
+| The Village | 152571 | [152571-the-village.json](./152571-the-village.json) |
 | The Village | 168634 | [168634-the-village.json](./168634-the-village.json) |
 | The Village | 74391 | [74391-the-village.json](./74391-the-village.json) |
 | The Village Mage: Spellbinder | 54291 | [54291-the-village-mage-spellbinder.json](./54291-the-village-mage-spellbinder.json) |
