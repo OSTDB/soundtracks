@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wander in Wonder | 272494 | [272494-wander-in-wonder.json](./272494-wander-in-wonder.json) |
 | Wander Scoop | 384335 | [384335-wander-scoop.json](./384335-wander-scoop.json) |
 | Wander Stars | 211607 | [211607-wander-stars.json](./211607-wander-stars.json) |
+| Wander the Cosmos | 151955 | [151955-wander-the-cosmos.json](./151955-wander-the-cosmos.json) |
 | Wander Vehicles: Doggybone Daisakusen | 208853 | [208853-wander-vehicles-doggybone-daisakusen.json](./208853-wander-vehicles-doggybone-daisakusen.json) |
 | Wander Vyrosa | 220527 | [220527-wander-vyrosa.json](./220527-wander-vyrosa.json) |
 | Wander Wonder | 237514 | [237514-wander-wonder.json](./237514-wander-wonder.json) |
@@ -5949,6 +5950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizabeasts | 235792 | [235792-wizabeasts.json](./235792-wizabeasts.json) |
 | Wizadore | 13769 | [13769-wizadore.json](./13769-wizadore.json) |
 | Wizard | 104479 | [104479-wizard.json](./104479-wizard.json) |
+| Wizard | 151933 | [151933-wizard.json](./151933-wizard.json) |
 | Wizard | 25797 | [25797-wizard.json](./25797-wizard.json) |
 | Wizard Another World | 294280 | [294280-wizard-another-world.json](./294280-wizard-another-world.json) |
 | Wizard Battle | 121638 | [121638-wizard-battle.json](./121638-wizard-battle.json) |
