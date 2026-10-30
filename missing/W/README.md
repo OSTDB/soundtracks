@@ -1459,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Vermintide 2 - Winds of Magic | 115671 | [115671-warhammer-vermintide-2-winds-of-magic.json](./115671-warhammer-vermintide-2-winds-of-magic.json) |
 | Warhammer: Vermintide VR - Hero Trials | 34254 | [34254-warhammer-vermintide-vr-hero-trials.json](./34254-warhammer-vermintide-vr-hero-trials.json) |
 | Warhaos | 161406 | [161406-warhaos.json](./161406-warhaos.json) |
+| Warhaven | 163087 | [163087-warhaven.json](./163087-warhaven.json) |
 | Warhawk | 36532 | [36532-warhawk.json](./36532-warhawk.json) |
 | Warhawk | 371272 | [371272-warhawk.json](./371272-warhawk.json) |
 | Warhawk | 79687 | [79687-warhawk.json](./79687-warhawk.json) |
@@ -6239,6 +6240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein 3D | 307024 | [307024-wolfenstein-3d.json](./307024-wolfenstein-3d.json) |
 | Wolfenstein 3D | 307025 | [307025-wolfenstein-3d.json](./307025-wolfenstein-3d.json) |
 | Wolfenstein 3D Classic | 307004 | [307004-wolfenstein-3d-classic.json](./307004-wolfenstein-3d-classic.json) |
+| Wolfenstein 3D TC | 163103 | [163103-wolfenstein-3d-tc.json](./163103-wolfenstein-3d-tc.json) |
 | Wolfenstein 3D VR | 182821 | [182821-wolfenstein-3d-vr.json](./182821-wolfenstein-3d-vr.json) |
 | Wolfenstein 3D: Coffee Break | 308974 | [308974-wolfenstein-3d-coffee-break.json](./308974-wolfenstein-3d-coffee-break.json) |
 | Wolfenstein 3D: Nocturnal Missions | 262517 | [262517-wolfenstein-3d-nocturnal-missions.json](./262517-wolfenstein-3d-nocturnal-missions.json) |
