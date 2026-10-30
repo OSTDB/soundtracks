@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lake Of Roaches | 311324 | [311324-lake-of-roaches.json](./311324-lake-of-roaches.json) |
 | Lake of Shadows | 165548 | [165548-lake-of-shadows.json](./165548-lake-of-shadows.json) |
 | Lake of Voices | 84020 | [84020-lake-of-voices.json](./84020-lake-of-voices.json) |
+| Lake Resort Flipper | 176110 | [176110-lake-resort-flipper.json](./176110-lake-resort-flipper.json) |
 | Lake Ridden | 27943 | [27943-lake-ridden.json](./27943-lake-ridden.json) |
 | Lake Road | 173242 | [173242-lake-road.json](./173242-lake-road.json) |
 | Lake Stillwater | 404442 | [404442-lake-stillwater.json](./404442-lake-stillwater.json) |
@@ -6738,6 +6739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot: Games & Themes Ultimate Holiday Bundle | 99760 | [99760-loot-games-and-themes-ultimate-holiday-bundle.json](./99760-loot-games-and-themes-ultimate-holiday-bundle.json) |
 | Loot: Strategy-Packed Bundle | 99759 | [99759-loot-strategy-packed-bundle.json](./99759-loot-strategy-packed-bundle.json) |
 | Loot: Ultimate Games & Themes Bundle | 99749 | [99749-loot-ultimate-games-and-themes-bundle.json](./99749-loot-ultimate-games-and-themes-bundle.json) |
+| Loot.io | 176113 | [176113-loot-io.json](./176113-loot-io.json) |
 | Lootale Slash | 398330 | [398330-lootale-slash.json](./398330-lootale-slash.json) |
 | Lootbag Tactics | 409527 | [409527-lootbag-tactics.json](./409527-lootbag-tactics.json) |
 | Lootbane | 370125 | [370125-lootbane.json](./370125-lootbane.json) |
