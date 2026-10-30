@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Beat | 40393 | [40393-racing-beat.json](./40393-racing-beat.json) |
 | Racing Bros | 135604 | [135604-racing-bros.json](./135604-racing-bros.json) |
 | Racing Bros: Mafias Revenge | 308326 | [308326-racing-bros-mafias-revenge.json](./308326-racing-bros-mafias-revenge.json) |
+| Racing Bros: Online | 150374 | [150374-racing-bros-online.json](./150374-racing-bros-online.json) |
 | Racing Burnout | 90419 | [90419-racing-burnout.json](./90419-racing-burnout.json) |
 | Racing Car | 346068 | [346068-racing-car.json](./346068-racing-car.json) |
 | Racing Car | 40586 | [40586-racing-car.json](./40586-racing-car.json) |
