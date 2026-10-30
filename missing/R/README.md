@@ -10935,6 +10935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumbo and the Quest for Scar City | 185382 | [185382-rumbo-and-the-quest-for-scar-city.json](./185382-rumbo-and-the-quest-for-scar-city.json) |
 | Rumbral | 344465 | [344465-rumbral.json](./344465-rumbral.json) |
 | Rumia in the darkness | 121013 | [121013-rumia-in-the-darkness.json](./121013-rumia-in-the-darkness.json) |
+| Rumia Roller | 134855 | [134855-rumia-roller.json](./134855-rumia-roller.json) |
 | Rumia Throws! | 264255 | [264255-rumia-throws.json](./264255-rumia-throws.json) |
 | Rumic Harrier | 266330 | [266330-rumic-harrier.json](./266330-rumic-harrier.json) |
 | Ruminant 4444 | 399911 | [399911-ruminant-4444.json](./399911-ruminant-4444.json) |
