@@ -1531,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Launch Party | 55619 | [55619-launch-party.json](./55619-launch-party.json) |
 | Launch The Baby | 246413 | [246413-launch-the-baby.json](./246413-launch-the-baby.json) |
 | Launch Window | 412486 | [412486-launch-window.json](./412486-launch-window.json) |
+| Launched! | 132408 | [132408-launched.json](./132408-launched.json) |
 | Launcher | 358923 | [358923-launcher.json](./358923-launcher.json) |
 | Launcher Heroes | 236817 | [236817-launcher-heroes.json](./236817-launcher-heroes.json) |
 | Launching Over It | 342796 | [342796-launching-over-it.json](./342796-launching-over-it.json) |
@@ -4307,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Up the Town | 348596 | [348596-light-up-the-town.json](./348596-light-up-the-town.json) |
 | Light Weaver | 183381 | [183381-light-weaver.json](./183381-light-weaver.json) |
 | Light x Shadow | 75671 | [75671-light-x-shadow.json](./75671-light-x-shadow.json) |
+| Light Years Apart | 132420 | [132420-light-years-apart.json](./132420-light-years-apart.json) |
 | Light-Bot | 63577 | [63577-light-bot.json](./63577-light-bot.json) |
 | Light-Bot 2.0 | 407765 | [407765-light-bot-2-0.json](./407765-light-bot-2-0.json) |
 | Light-Bringer | 360644 | [360644-light-bringer.json](./360644-light-bringer.json) |
