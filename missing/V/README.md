@@ -1913,6 +1913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Brothers VI: Collector's Edition | 416149 | [416149-viking-brothers-vi-collectors-edition.json](./416149-viking-brothers-vi-collectors-edition.json) |
 | Viking Chef: Feast Frenzy | 263076 | [263076-viking-chef-feast-frenzy.json](./263076-viking-chef-feast-frenzy.json) |
 | Viking Chess: Hnefatafl | 121878 | [121878-viking-chess-hnefatafl.json](./121878-viking-chess-hnefatafl.json) |
+| Viking City Builder | 138984 | [138984-viking-city-builder.json](./138984-viking-city-builder.json) |
 | Viking City Tycoon | 317441 | [317441-viking-city-tycoon.json](./317441-viking-city-tycoon.json) |
 | Viking Colony Builder Valhalla | 322979 | [322979-viking-colony-builder-valhalla.json](./322979-viking-colony-builder-valhalla.json) |
 | Viking Days Remaster | 327649 | [327649-viking-days-remaster.json](./327649-viking-days-remaster.json) |
@@ -2208,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viral Days | 251639 | [251639-viral-days.json](./251639-viral-days.json) |
 | Viral Descent | 408705 | [408705-viral-descent.json](./408705-viral-descent.json) |
 | Viral EX | 43114 | [43114-viral-ex.json](./43114-viral-ex.json) |
+| Viral Execution | 138422 | [138422-viral-execution.json](./138422-viral-execution.json) |
 | Viral Fear | 258400 | [258400-viral-fear.json](./258400-viral-fear.json) |
 | Viral Firar | 166698 | [166698-viral-firar.json](./166698-viral-firar.json) |
 | Viral Hunters | 390204 | [390204-viral-hunters.json](./390204-viral-hunters.json) |
