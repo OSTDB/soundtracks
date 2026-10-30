@@ -4496,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrisphere | 3612 | [3612-tetrisphere.json](./3612-tetrisphere.json) |
 | Tetrisweeper | 295637 | [295637-tetrisweeper.json](./295637-tetrisweeper.json) |
 | Tetrius | 147325 | [147325-tetrius.json](./147325-tetrius.json) |
+| Tetrix 3D | 165926 | [165926-tetrix-3d.json](./165926-tetrix-3d.json) |
 | Tetro Runner | 386245 | [386245-tetro-runner.json](./386245-tetro-runner.json) |
 | Tetrocombat | 260598 | [260598-tetrocombat.json](./260598-tetrocombat.json) |
 | Tetrogue | 413659 | [413659-tetrogue.json](./413659-tetrogue.json) |
@@ -24870,11 +24871,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2: Clinchfield Railroad: Elkhorn - Dante Route Add-On | 156511 | [156511-train-sim-world-2-clinchfield-railroad-elkhorn-dante-route-add-on.json](./156511-train-sim-world-2-clinchfield-railroad-elkhorn-dante-route-add-on.json) |
 | Train Sim World 2: Collector's Edition | 139931 | [139931-train-sim-world-2-collectors-edition.json](./139931-train-sim-world-2-collectors-edition.json) |
 | Train Sim World 2: CSX C40-8W Loco | 168735 | [168735-train-sim-world-2-csx-c40-8w-loco.json](./168735-train-sim-world-2-csx-c40-8w-loco.json) |
+| Train Sim World 2: DB BR 101 | 165874 | [165874-train-sim-world-2-db-br-101.json](./165874-train-sim-world-2-db-br-101.json) |
 | Train Sim World 2: DB BR 101 Loco | 168731 | [168731-train-sim-world-2-db-br-101-loco.json](./168731-train-sim-world-2-db-br-101-loco.json) |
 | Train Sim World 2: DB BR 155 Loco | 162252 | [162252-train-sim-world-2-db-br-155-loco.json](./162252-train-sim-world-2-db-br-155-loco.json) |
 | Train Sim World 2: DB BR 182 Loco Add-On | 167301 | [167301-train-sim-world-2-db-br-182-loco-add-on.json](./167301-train-sim-world-2-db-br-182-loco-add-on.json) |
 | Train Sim World 2: DB BR 187 Loco | 193154 | [193154-train-sim-world-2-db-br-187-loco.json](./193154-train-sim-world-2-db-br-187-loco.json) |
 | Train Sim World 2: DB BR 204 Loco | 168734 | [168734-train-sim-world-2-db-br-204-loco.json](./168734-train-sim-world-2-db-br-204-loco.json) |
+| Train Sim World 2: DB BR 363 | 165877 | [165877-train-sim-world-2-db-br-363.json](./165877-train-sim-world-2-db-br-363.json) |
 | Train Sim World 2: DB BR 363 Loco | 168733 | [168733-train-sim-world-2-db-br-363-loco.json](./168733-train-sim-world-2-db-br-363-loco.json) |
 | Train Sim World 2: DB G6 Diesel Shunter | 193155 | [193155-train-sim-world-2-db-g6-diesel-shunter.json](./193155-train-sim-world-2-db-g6-diesel-shunter.json) |
 | Train Sim World 2: Diesel Legends of the Great Western Add-On | 156512 | [156512-train-sim-world-2-diesel-legends-of-the-great-western-add-on.json](./156512-train-sim-world-2-diesel-legends-of-the-great-western-add-on.json) |
