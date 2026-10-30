@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Became an Evil Witch that Cursed the Male Lead | 409843 | [409843-i-became-an-evil-witch-that-cursed-the-male-lead.json](./409843-i-became-an-evil-witch-that-cursed-the-male-lead.json) |
 | I Became Gay from Translating My New Roommate's Short Story | 182306 | [182306-i-became-gay-from-translating-my-new-roommates-short-story.json](./182306-i-became-gay-from-translating-my-new-roommates-short-story.json) |
 | I Believe in Capybara Supremacy! | 250992 | [250992-i-believe-in-capybara-supremacy.json](./250992-i-believe-in-capybara-supremacy.json) |
+| I Borrow | 150364 | [150364-i-borrow.json](./150364-i-borrow.json) |
 | I Bring The Chaos | 277934 | [277934-i-bring-the-chaos.json](./277934-i-bring-the-chaos.json) |
 | I Broke My Legs and Got Left Behind in a Burning Hospital | 381398 | [381398-i-broke-my-legs-and-got-left-behind-in-a-burning-hospital.json](./381398-i-broke-my-legs-and-got-left-behind-in-a-burning-hospital.json) |
 | I Brought the Noble Girl Home | 293850 | [293850-i-brought-the-noble-girl-home.json](./293850-i-brought-the-noble-girl-home.json) |
@@ -606,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Would Love to Wish You Good Morning | 372970 | [372970-i-would-love-to-wish-you-good-morning.json](./372970-i-would-love-to-wish-you-good-morning.json) |
 | I Write Games Not Tragedies | 342299 | [342299-i-write-games-not-tragedies.json](./342299-i-write-games-not-tragedies.json) |
 | I x She Tell: Limited Edition | 167022 | [167022-i-x-she-tell-limited-edition.json](./167022-i-x-she-tell-limited-edition.json) |
+| I_Darkness | 150356 | [150356-i-darkness.json](./150356-i-darkness.json) |
 | I-0: Jailbait on Interstate Zero | 69879 | [69879-i-0-jailbait-on-interstate-zero.json](./69879-i-0-jailbait-on-interstate-zero.json) |
 | I-Chu | 220879 | [220879-i-chu.json](./220879-i-chu.json) |
 | I-Dolls | 360764 | [360764-i-dolls.json](./360764-i-dolls.json) |
@@ -3350,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Cube Defense | 171317 | [171317-infinite-cube-defense.json](./171317-infinite-cube-defense.json) |
 | Infinite Dash | 173800 | [173800-infinite-dash.json](./173800-infinite-dash.json) |
 | Infinite Differences | 227547 | [227547-infinite-differences.json](./227547-infinite-differences.json) |
+| Infinite Dimensions | 150368 | [150368-infinite-dimensions.json](./150368-infinite-dimensions.json) |
 | Infinite Dronin | 131824 | [131824-infinite-dronin.json](./131824-infinite-dronin.json) |
 | Infinite Dunamis | 39013 | [39013-infinite-dunamis.json](./39013-infinite-dunamis.json) |
 | Infinite Dungeon | 386473 | [386473-infinite-dungeon.json](./386473-infinite-dungeon.json) |
