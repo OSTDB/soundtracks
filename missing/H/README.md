@@ -7556,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitstun | 242446 | [242446-hitstun.json](./242446-hitstun.json) |
 | Hitsuji no Hakobune | 408308 | [408308-hitsuji-no-hakobune.json](./408308-hitsuji-no-hakobune.json) |
 | Hitsuji Shitsuji | 207041 | [207041-hitsuji-shitsuji.json](./207041-hitsuji-shitsuji.json) |
+| Hitsuji Yaai! | 141398 | [141398-hitsuji-yaai.json](./141398-hitsuji-yaai.json) |
 | Hittin Switchez | 77801 | [77801-hittin-switchez.json](./77801-hittin-switchez.json) |
 | Hitting | 287525 | [287525-hitting.json](./287525-hitting.json) |
 | Hitting Balls | 295755 | [295755-hitting-balls.json](./295755-hitting-balls.json) |
