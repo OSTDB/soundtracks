@@ -4175,6 +4175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lift: The Last Days of The Westwind | 291904 | [291904-lift-the-last-days-of-the-westwind.json](./291904-lift-the-last-days-of-the-westwind.json) |
 | Lift/Shift | 340918 | [340918-lift-shift.json](./340918-lift-shift.json) |
 | Lifted | 309518 | [309518-lifted.json](./309518-lifted.json) |
+| Lifted Dreams | 124412 | [124412-lifted-dreams.json](./124412-lifted-dreams.json) |
 | Lifting Journey | 115431 | [115431-lifting-journey.json](./115431-lifting-journey.json) |
 | Lifting Unlimited | 302109 | [302109-lifting-unlimited.json](./302109-lifting-unlimited.json) |
 | Liftlands | 284567 | [284567-liftlands.json](./284567-liftlands.json) |
@@ -7393,6 +7394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Labyrinth | 65402 | [65402-lost-labyrinth.json](./65402-lost-labyrinth.json) |
 | Lost Lagoon 2: Cursed and Forgotten | 206651 | [206651-lost-lagoon-2-cursed-and-forgotten.json](./206651-lost-lagoon-2-cursed-and-forgotten.json) |
 | Lost Lagoon: The Trail of Destiny | 214018 | [214018-lost-lagoon-the-trail-of-destiny.json](./214018-lost-lagoon-the-trail-of-destiny.json) |
+| Lost Land Adventure | 124422 | [124422-lost-land-adventure.json](./124422-lost-land-adventure.json) |
 | Lost Lands | 246264 | [246264-lost-lands.json](./246264-lost-lands.json) |
 | Lost Lands X | 334170 | [334170-lost-lands-x.json](./334170-lost-lands-x.json) |
 | Lost Lands: Dark Overlord | 35078 | [35078-lost-lands-dark-overlord.json](./35078-lost-lands-dark-overlord.json) |
