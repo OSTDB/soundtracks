@@ -2993,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP-3008: Infinite Store | 395022 | [395022-scp-3008-infinite-store.json](./395022-scp-3008-infinite-store.json) |
 | SCP-479: Shadows of the Mind | 264638 | [264638-scp-479-shadows-of-the-mind.json](./264638-scp-479-shadows-of-the-mind.json) |
 | SCP-847 | 415490 | [415490-scp-847.json](./415490-scp-847.json) |
+| SCP-970: The Recursive Room | 173955 | [173955-scp-970-the-recursive-room.json](./173955-scp-970-the-recursive-room.json) |
 | SCP-9735-Alpha: Arch1tect | 291883 | [291883-scp-9735-alpha-arch1tect.json](./291883-scp-9735-alpha-arch1tect.json) |
 | SCP-9779-JP | 391645 | [391645-scp-9779-jp.json](./391645-scp-9779-jp.json) |
 | SCP-D38813 | 291024 | [291024-scp-d38813.json](./291024-scp-d38813.json) |
@@ -4009,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of the Deep | 295752 | [295752-secret-of-the-deep.json](./295752-secret-of-the-deep.json) |
 | Secret of the Island: Escape | 315796 | [315796-secret-of-the-island-escape.json](./315796-secret-of-the-island-escape.json) |
 | Secret of the Lost Cavern | 107393 | [107393-secret-of-the-lost-cavern.json](./107393-secret-of-the-lost-cavern.json) |
+| Secret of The Lost Keys: Episode I - The Attack on Disred | 173996 | [173996-secret-of-the-lost-keys-episode-i-the-attack-on-disred.json](./173996-secret-of-the-lost-keys-episode-i-the-attack-on-disred.json) |
 | Secret of the Magic Crystals | 10427 | [10427-secret-of-the-magic-crystals.json](./10427-secret-of-the-magic-crystals.json) |
 | Secret of the Pendulum: Premium Edition | 98900 | [98900-secret-of-the-pendulum-premium-edition.json](./98900-secret-of-the-pendulum-premium-edition.json) |
 | Secret of the Pharaohs | 41556 | [41556-secret-of-the-pharaohs.json](./41556-secret-of-the-pharaohs.json) |
@@ -13116,6 +13118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake-O-Tron | 288239 | [288239-snake-o-tron.json](./288239-snake-o-tron.json) |
 | Snake, snake, snake! | 100586 | [100586-snake-snake-snake.json](./100586-snake-snake-snake.json) |
 | Snake: Gridbreaker | 419187 | [419187-snake-gridbreaker.json](./419187-snake-gridbreaker.json) |
+| Snake: Reloaded | 173995 | [173995-snake-reloaded.json](./173995-snake-reloaded.json) |
 | Snake: Road to apple | 74909 | [74909-snake-road-to-apple.json](./74909-snake-road-to-apple.json) |
 | Snake: Secret Treasure | 370311 | [370311-snake-secret-treasure.json](./370311-snake-secret-treasure.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
@@ -17473,6 +17476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Menace 2 | 325315 | [325315-space-menace-2.json](./325315-space-menace-2.json) |
 | Space Mercenary Defense Force | 228910 | [228910-space-mercenary-defense-force.json](./228910-space-mercenary-defense-force.json) |
 | Space Mercenary Shooter : Episode 1 | 119998 | [119998-space-mercenary-shooter-episode-1.json](./119998-space-mercenary-shooter-episode-1.json) |
+| Space Mercenary Shooter: Episode 2 | 173980 | [173980-space-mercenary-shooter-episode-2.json](./173980-space-mercenary-shooter-episode-2.json) |
 | Space Merchant | 125813 | [125813-space-merchant.json](./125813-space-merchant.json) |
 | Space Merchants: Arena | 30799 | [30799-space-merchants-arena.json](./30799-space-merchants-arena.json) |
 | Space Mergers | 289348 | [289348-space-mergers.json](./289348-space-mergers.json) |
@@ -17827,6 +17831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Virus Escape | 363044 | [363044-space-virus-escape.json](./363044-space-virus-escape.json) |
 | Space Vomit | 361058 | [361058-space-vomit.json](./361058-space-vomit.json) |
 | Space Vortex | 297723 | [297723-space-vortex.json](./297723-space-vortex.json) |
+| Space Voyage: Episode 1 - A Big Soviet Adventure | 173954 | [173954-space-voyage-episode-1-a-big-soviet-adventure.json](./173954-space-voyage-episode-1-a-big-soviet-adventure.json) |
 | Space Voyage: The Puzzle Game | 220668 | [220668-space-voyage-the-puzzle-game.json](./220668-space-voyage-the-puzzle-game.json) |
 | Space Voyager | 197591 | [197591-space-voyager.json](./197591-space-voyager.json) |
 | Space Voyager | 54515 | [54515-space-voyager.json](./54515-space-voyager.json) |
@@ -18411,6 +18416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpectralClimb | 271281 | [271281-spectralclimb.json](./271281-spectralclimb.json) |
 | Spectralia | 312735 | [312735-spectralia.json](./312735-spectralia.json) |
 | Spectre | 159226 | [159226-spectre.json](./159226-spectre.json) |
+| Spectre | 173990 | [173990-spectre.json](./173990-spectre.json) |
 | Spectre | 17674 | [17674-spectre.json](./17674-spectre.json) |
 | Spectre | 59846 | [59846-spectre.json](./59846-spectre.json) |
 | Spectre | 79676 | [79676-spectre.json](./79676-spectre.json) |
@@ -22895,6 +22901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Camping Simulator | 302074 | [302074-stealth-camping-simulator.json](./302074-stealth-camping-simulator.json) |
 | Stealth Combat | 79366 | [79366-stealth-combat.json](./79366-stealth-combat.json) |
 | Stealth Crossword | 342198 | [342198-stealth-crossword.json](./342198-stealth-crossword.json) |
+| Stealth Fighter Dec | 174001 | [174001-stealth-fighter-dec.json](./174001-stealth-fighter-dec.json) |
 | Stealth Fishing | 108793 | [108793-stealth-fishing.json](./108793-stealth-fishing.json) |
 | Stealth Force 2 | 10925 | [10925-stealth-force-2.json](./10925-stealth-force-2.json) |
 | Stealth Force: The War on Terror | 43291 | [43291-stealth-force-the-war-on-terror.json](./43291-stealth-force-the-war-on-terror.json) |
