@@ -3493,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just A Dice Game | 415791 | [415791-just-a-dice-game.json](./415791-just-a-dice-game.json) |
 | Just A Dream | 304894 | [304894-just-a-dream.json](./304894-just-a-dream.json) |
 | Just A Dream | 65788 | [65788-just-a-dream.json](./65788-just-a-dream.json) |
+| Just a Flu | 149796 | [149796-just-a-flu.json](./149796-just-a-flu.json) |
 | Just a Game | 111431 | [111431-just-a-game.json](./111431-just-a-game.json) |
 | Just A Game | 167864 | [167864-just-a-game.json](./167864-just-a-game.json) |
 | Just a Game to Test Your lQ | 168625 | [168625-just-a-game-to-test-your-lq.json](./168625-just-a-game-to-test-your-lq.json) |
