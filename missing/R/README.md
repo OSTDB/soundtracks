@@ -1282,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainman | 264582 | [264582-rainman.json](./264582-rainman.json) |
 | Rainshade | 204491 | [204491-rainshade.json](./204491-rainshade.json) |
 | Rainswept | 81086 | [81086-rainswept.json](./81086-rainswept.json) |
+| Rainy | 164172 | [164172-rainy.json](./164172-rainy.json) |
 | Rainy attic room | 143090 | [143090-rainy-attic-room.json](./143090-rainy-attic-room.json) |
 | Rainy Blue: 6 Gatsu no Ame | 371955 | [371955-rainy-blue-6-gatsu-no-ame.json](./371955-rainy-blue-6-gatsu-no-ame.json) |
 | Rainy Boba Cafe | 233981 | [233981-rainy-boba-cafe.json](./233981-rainy-boba-cafe.json) |
@@ -3015,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebellion Against Rebellion | 296402 | [296402-rebellion-against-rebellion.json](./296402-rebellion-against-rebellion.json) |
 | Rebellion Anthology | 53492 | [53492-rebellion-anthology.json](./53492-rebellion-anthology.json) |
 | Rebellion Corporation | 230970 | [230970-rebellion-corporation.json](./230970-rebellion-corporation.json) |
+| Rebellion Gaia | 164165 | [164165-rebellion-gaia.json](./164165-rebellion-gaia.json) |
 | Rebellion Princess | 391330 | [391330-rebellion-princess.json](./391330-rebellion-princess.json) |
 | Rebellion Saga | 334282 | [334282-rebellion-saga.json](./334282-rebellion-saga.json) |
 | Rebellion Stryker | 316471 | [316471-rebellion-stryker.json](./316471-rebellion-stryker.json) |
@@ -4016,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reframe | 346523 | [346523-reframe.json](./346523-reframe.json) |
 | Reframed | 93794 | [93794-reframed.json](./93794-reframed.json) |
 | Refreshing Sideways Puzzle Ghost Hammer | 147716 | [147716-refreshing-sideways-puzzle-ghost-hammer.json](./147716-refreshing-sideways-puzzle-ghost-hammer.json) |
+| Refrigerant Recovery Simulation | 164186 | [164186-refrigerant-recovery-simulation.json](./164186-refrigerant-recovery-simulation.json) |
 | Refuge | 110251 | [110251-refuge.json](./110251-refuge.json) |
 | Refuge | 226969 | [226969-refuge.json](./226969-refuge.json) |
 | Refuge For Troubles: Episode 1 - Dear Stranger | 171566 | [171566-refuge-for-troubles-episode-1-dear-stranger.json](./171566-refuge-for-troubles-episode-1-dear-stranger.json) |
@@ -4283,6 +4286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relentless | 129699 | [129699-relentless.json](./129699-relentless.json) |
 | Relentless | 46736 | [46736-relentless.json](./46736-relentless.json) |
 | Relentless Expanse | 322762 | [322762-relentless-expanse.json](./322762-relentless-expanse.json) |
+| Relentless Frontier | 164196 | [164196-relentless-frontier.json](./164196-relentless-frontier.json) |
 | Relentless Rex | 110277 | [110277-relentless-rex.json](./110277-relentless-rex.json) |
 | Relentless: Ranger | 150397 | [150397-relentless-ranger.json](./150397-relentless-ranger.json) |
 | Releveler | 151830 | [151830-releveler.json](./151830-releveler.json) |
@@ -10171,6 +10175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rover Mechanic Simulator | 128193 | [128193-rover-mechanic-simulator.json](./128193-rover-mechanic-simulator.json) |
 | Rover Mechanic Simulator: Perseverance Rover | 170991 | [170991-rover-mechanic-simulator-perseverance-rover.json](./170991-rover-mechanic-simulator-perseverance-rover.json) |
 | Rover Rescue | 10787 | [10787-rover-rescue.json](./10787-rover-rescue.json) |
+| Rover Simulator | 164210 | [164210-rover-simulator.json](./164210-rover-simulator.json) |
 | Rover The Dragonslayer | 32498 | [32498-rover-the-dragonslayer.json](./32498-rover-the-dragonslayer.json) |
 | Rover Wars | 177039 | [177039-rover-wars.json](./177039-rover-wars.json) |
 | Rover Wars: Battle For Mars | 132380 | [132380-rover-wars-battle-for-mars.json](./132380-rover-wars-battle-for-mars.json) |
@@ -10637,6 +10642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby: The World Cup | 12926 | [12926-rugby-the-world-cup.json](./12926-rugby-the-world-cup.json) |
 | Ruger Rumble | 133643 | [133643-ruger-rumble.json](./133643-ruger-rumble.json) |
 | Rugged Rovers | 380548 | [380548-rugged-rovers.json](./380548-rugged-rovers.json) |
+| Ruggnar | 164177 | [164177-ruggnar.json](./164177-ruggnar.json) |
 | Rugida | 169384 | [169384-rugida.json](./169384-rugida.json) |
 | Rugon | 108991 | [108991-rugon.json](./108991-rugon.json) |
 | Rugosi | 106417 | [106417-rugosi.json](./106417-rugosi.json) |
