@@ -1736,8 +1736,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Nikki: Solitude | 202349 | [202349-yume-nikki-solitude.json](./202349-yume-nikki-solitude.json) |
 | Yume Nisshi | 145033 | [145033-yume-nisshi.json](./145033-yume-nisshi.json) |
 | Yume no Kirby | 223861 | [223861-yume-no-kirby.json](./223861-yume-no-kirby.json) |
+| Yume no Mata Yume | 166438 | [166438-yume-no-mata-yume.json](./166438-yume-no-mata-yume.json) |
 | Yume no Office | 255546 | [255546-yume-no-office.json](./255546-yume-no-office.json) |
 | Yume no Tamakura | 370778 | [370778-yume-no-tamakura.json](./370778-yume-no-tamakura.json) |
+| Yume Noroi | 166426 | [166426-yume-noroi.json](./166426-yume-noroi.json) |
 | Yume Nyaki | 201639 | [201639-yume-nyaki.json](./201639-yume-nyaki.json) |
 | Yume Otoshi | 205964 | [205964-yume-otoshi.json](./205964-yume-otoshi.json) |
 | Yume Oukoku to Nemureru 100-nin no Ouji-sama | 109062 | [109062-yume-oukoku-to-nemureru-100-nin-no-ouji-sama.json](./109062-yume-oukoku-to-nemureru-100-nin-no-ouji-sama.json) |
@@ -1751,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Tagai | 166580 | [166580-yume-tagai.json](./166580-yume-tagai.json) |
 | Yume Tenshi | 364030 | [364030-yume-tenshi.json](./364030-yume-tenshi.json) |
 | Yume Tsushin | 281230 | [281230-yume-tsushin.json](./281230-yume-tsushin.json) |
+| Yume Utsutsu | 166424 | [166424-yume-utsutsu.json](./166424-yume-utsutsu.json) |
 | Yume Utsutsu Dreamy | 247507 | [247507-yume-utsutsu-dreamy.json](./247507-yume-utsutsu-dreamy.json) |
 | Yume wa Maeyono | 166469 | [166469-yume-wa-maeyono.json](./166469-yume-wa-maeyono.json) |
 | Yume Wheeky | 229687 | [229687-yume-wheeky.json](./229687-yume-wheeky.json) |
