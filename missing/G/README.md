@@ -8022,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Phobia | 32925 | [32925-grey-phobia.json](./32925-grey-phobia.json) |
 | Grey Scout | 139213 | [139213-grey-scout.json](./139213-grey-scout.json) |
 | Grey Skies: A War of the Worlds Story | 140628 | [140628-grey-skies-a-war-of-the-worlds-story.json](./140628-grey-skies-a-war-of-the-worlds-story.json) |
+| Grey Tower | 171230 | [171230-grey-tower.json](./171230-grey-tower.json) |
 | Grey Wake | 349511 | [349511-grey-wake.json](./349511-grey-wake.json) |
 | Grey Wolf | 56499 | [56499-grey-wolf.json](./56499-grey-wolf.json) |
 | Grey Zone | 68620 | [68620-grey-zone.json](./68620-grey-zone.json) |
