@@ -4854,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finalloop | 348779 | [348779-finalloop.json](./348779-finalloop.json) |
 | Finally Free | 290625 | [290625-finally-free.json](./290625-finally-free.json) |
 | Finally, in Love Again | 238891 | [238891-finally-in-love-again.json](./238891-finally-in-love-again.json) |
+| Finance | 131124 | [131124-finance.json](./131124-finance.json) |
 | Financial Football | 91919 | [91919-financial-football.json](./91919-financial-football.json) |
 | Financial Freedom | 397824 | [397824-financial-freedom.json](./397824-financial-freedom.json) |
 | Finc Home Fit | 144726 | [144726-finc-home-fit.json](./144726-finc-home-fit.json) |
@@ -10428,6 +10429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeCell - Card Game | 87152 | [87152-freecell-card-game.json](./87152-freecell-card-game.json) |
 | FreeCell 2018 | 86693 | [86693-freecell-2018.json](./86693-freecell-2018.json) |
 | Freecell Battle King | 114907 | [114907-freecell-battle-king.json](./114907-freecell-battle-king.json) |
+| FreeCell Pro | 131132 | [131132-freecell-pro.json](./131132-freecell-pro.json) |
 | Freecell Solitaire | 89168 | [89168-freecell-solitaire.json](./89168-freecell-solitaire.json) |
 | FreeCell Solitaire - Classic Deck Card Games | 88365 | [88365-freecell-solitaire-classic-deck-card-games.json](./88365-freecell-solitaire-classic-deck-card-games.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
