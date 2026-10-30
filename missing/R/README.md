@@ -5271,6 +5271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resttw | 235366 | [235366-resttw.json](./235366-resttw.json) |
 | Resuffer: Down the Rabbit Hole | 112504 | [112504-resuffer-down-the-rabbit-hole.json](./112504-resuffer-down-the-rabbit-hole.json) |
 | Resultare | 388784 | [388784-resultare.json](./388784-resultare.json) |
+| Resultarias | 145848 | [145848-resultarias.json](./145848-resultarias.json) |
 | Resurface | 406681 | [406681-resurface.json](./406681-resurface.json) |
 | Resurface.exe | 372834 | [372834-resurface-exe.json](./372834-resurface-exe.json) |
 | Resurgence | 56594 | [56594-resurgence.json](./56594-resurgence.json) |
@@ -5507,6 +5508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroCube | 175404 | [175404-retrocube.json](./175404-retrocube.json) |
 | Retrofit: Overload | 66676 | [66676-retrofit-overload.json](./66676-retrofit-overload.json) |
 | RetroFuel | 184108 | [184108-retrofuel.json](./184108-retrofuel.json) |
+| Retrograde | 145866 | [145866-retrograde.json](./145866-retrograde.json) |
 | Retrograde | 253749 | [253749-retrograde.json](./253749-retrograde.json) |
 | Retrograde | 40932 | [40932-retrograde.json](./40932-retrograde.json) |
 | Retrograde Arena | 117470 | [117470-retrograde-arena.json](./117470-retrograde-arena.json) |
@@ -7533,6 +7535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Engineer | 292948 | [292948-road-engineer.json](./292948-road-engineer.json) |
 | Road Fighter | 4607 | [4607-road-fighter.json](./4607-road-fighter.json) |
 | Road Flash | 160008 | [160008-road-flash.json](./160008-road-flash.json) |
+| Road Fury | 145958 | [145958-road-fury.json](./145958-road-fury.json) |
 | Road Gangs Simulator | 172989 | [172989-road-gangs-simulator.json](./172989-road-gangs-simulator.json) |
 | Road Hell | 317564 | [317564-road-hell.json](./317564-road-hell.json) |
 | Road Hero | 287547 | [287547-road-hero.json](./287547-road-hero.json) |
@@ -10558,6 +10561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Dinghy | 101733 | [101733-rubber-dinghy.json](./101733-rubber-dinghy.json) |
 | Rubber Duck Race Simulator | 356535 | [356535-rubber-duck-race-simulator.json](./356535-rubber-duck-race-simulator.json) |
 | Rubber Duck Survival | 411556 | [411556-rubber-duck-survival.json](./411556-rubber-duck-survival.json) |
+| Rubber Ducky Massacre | 145876 | [145876-rubber-ducky-massacre.json](./145876-rubber-ducky-massacre.json) |
 | Rubber Man | 185131 | [185131-rubber-man.json](./185131-rubber-man.json) |
 | Rubber Ninjas | 75143 | [75143-rubber-ninjas.json](./75143-rubber-ninjas.json) |
 | Rubber Royale | 244269 | [244269-rubber-royale.json](./244269-rubber-royale.json) |
@@ -10977,6 +10981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run from the Light | 296017 | [296017-run-from-the-light.json](./296017-run-from-the-light.json) |
 | Run Ghost Run | 125057 | [125057-run-ghost-run.json](./125057-run-ghost-run.json) |
 | Run Girls Run | 193622 | [193622-run-girls-run.json](./193622-run-girls-run.json) |
+| Run Godzilla | 145862 | [145862-run-godzilla.json](./145862-run-godzilla.json) |
 | Run Gor | 270932 | [270932-run-gor.json](./270932-run-gor.json) |
 | Run Gor I | 392183 | [392183-run-gor-i.json](./392183-run-gor-i.json) |
 | Run Gun Die Ultimate | 118083 | [118083-run-gun-die-ultimate.json](./118083-run-gun-die-ultimate.json) |
