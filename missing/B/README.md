@@ -7662,6 +7662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bismarck: The North Sea Chase | 14308 | [14308-bismarck-the-north-sea-chase.json](./14308-bismarck-the-north-sea-chase.json) |
 | Bison Battle Machine | 297906 | [297906-bison-battle-machine.json](./297906-bison-battle-machine.json) |
 | Bisounours Party: Adventure | 380385 | [380385-bisounours-party-adventure.json](./380385-bisounours-party-adventure.json) |
+| Bisque Doll | 168533 | [168533-bisque-doll.json](./168533-bisque-doll.json) |
 | Bist du zu schwach oder Stark | 156568 | [156568-bist-du-zu-schwach-oder-stark.json](./156568-bist-du-zu-schwach-oder-stark.json) |
 | Bist Squad | 372740 | [372740-bist-squad.json](./372740-bist-squad.json) |
 | Bistro Blitz | 278709 | [278709-bistro-blitz.json](./278709-bistro-blitz.json) |
@@ -9053,6 +9054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Wars | 69795 | [69795-blind-wars.json](./69795-blind-wars.json) |
 | Blind Wizard's Assistant | 195124 | [195124-blind-wizards-assistant.json](./195124-blind-wizards-assistant.json) |
 | Blind zum Bus | 383973 | [383973-blind-zum-bus.json](./383973-blind-zum-bus.json) |
+| Blind_ | 168532 | [168532-blind.json](./168532-blind.json) |
 | Blind: Summer Sunset | 324425 | [324425-blind-summer-sunset.json](./324425-blind-summer-sunset.json) |
 | BlindBlade II | 133374 | [133374-blindblade-ii.json](./133374-blindblade-ii.json) |
 | BlinDead | 289298 | [289298-blindead.json](./289298-blindead.json) |
@@ -15694,6 +15696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burgal's Bounty | 205604 | [205604-burgals-bounty.json](./205604-burgals-bounty.json) |
 | BurgardTime | 252649 | [252649-burgardtime.json](./252649-burgardtime.json) |
 | Burger | 302367 | [302367-burger.json](./302367-burger.json) |
+| Burger & Frights | 168545 | [168545-burger-and-frights.json](./168545-burger-and-frights.json) |
 | Burger Bistro Story | 152069 | [152069-burger-bistro-story.json](./152069-burger-bistro-story.json) |
 | Burger Bois | 347908 | [347908-burger-bois.json](./347908-burger-bois.json) |
 | Burger Bot | 51014 | [51014-burger-bot.json](./51014-burger-bot.json) |
