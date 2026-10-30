@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Russian Zombie Rush | 29611 | [29611-ultimate-russian-zombie-rush.json](./29611-ultimate-russian-zombie-rush.json) |
 | Ultimate S | 262476 | [262476-ultimate-s.json](./262476-ultimate-s.json) |
 | Ultimate Sackboy | 232419 | [232419-ultimate-sackboy.json](./232419-ultimate-sackboy.json) |
+| Ultimate Sadou: Tea or Coffee? | 163662 | [163662-ultimate-sadou-tea-or-coffee.json](./163662-ultimate-sadou-tea-or-coffee.json) |
 | Ultimate salmon simulator 2019 | 183312 | [183312-ultimate-salmon-simulator-2019.json](./183312-ultimate-salmon-simulator-2019.json) |
 | Ultimate Savanna Simulator | 86690 | [86690-ultimate-savanna-simulator.json](./86690-ultimate-savanna-simulator.json) |
 | Ultimate Sci-Fi Series | 71994 | [71994-ultimate-sci-fi-series.json](./71994-ultimate-sci-fi-series.json) |
@@ -1843,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unending Dawn | 298846 | [298846-unending-dawn.json](./298846-unending-dawn.json) |
 | Unending Dusk | 104005 | [104005-unending-dusk.json](./104005-unending-dusk.json) |
 | Unending Galaxy | 33590 | [33590-unending-galaxy.json](./33590-unending-galaxy.json) |
+| Unending War: Grand-Strategy Chess | 163681 | [163681-unending-war-grand-strategy-chess.json](./163681-unending-war-grand-strategy-chess.json) |
 | Unepic | 3018 | [3018-unepic.json](./3018-unepic.json) |
 | UnEpic: Collector's Edition | 166178 | [166178-unepic-collectors-edition.json](./166178-unepic-collectors-edition.json) |
 | UnExist: Yume Kanawanu Douketachi | 393298 | [393298-unexist-yume-kanawanu-douketachi.json](./393298-unexist-yume-kanawanu-douketachi.json) |
