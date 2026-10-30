@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landinar: Into the Void | 99162 | [99162-landinar-into-the-void.json](./99162-landinar-into-the-void.json) |
 | Landing | 157863 | [157863-landing.json](./157863-landing.json) |
 | Landing | 330670 | [330670-landing.json](./330670-landing.json) |
+| Landing Confirmed | 151404 | [151404-landing-confirmed.json](./151404-landing-confirmed.json) |
 | Landing Gear | 209260 | [209260-landing-gear.json](./209260-landing-gear.json) |
 | Landing Hero: Haneda x 787 | 199108 | [199108-landing-hero-haneda-x-787.json](./199108-landing-hero-haneda-x-787.json) |
 | Landing High Japan | 129142 | [129142-landing-high-japan.json](./129142-landing-high-japan.json) |
@@ -901,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laruaville Match 3 Puzzle | 246812 | [246812-laruaville-match-3-puzzle.json](./246812-laruaville-match-3-puzzle.json) |
 | Larut | 318824 | [318824-larut.json](./318824-larut.json) |
 | Larva Mortus | 15780 | [15780-larva-mortus.json](./15780-larva-mortus.json) |
+| Las Aventuras de Chocu: El Videojuego | 151387 | [151387-las-aventuras-de-chocu-el-videojuego.json](./151387-las-aventuras-de-chocu-el-videojuego.json) |
 | Las Aventuras de Frank el Enano | 317098 | [317098-las-aventuras-de-frank-el-enano.json](./317098-las-aventuras-de-frank-el-enano.json) |
 | Las Aventuras de Manolo Kabezabolo | 323573 | [323573-las-aventuras-de-manolo-kabezabolo.json](./323573-las-aventuras-de-manolo-kabezabolo.json) |
 | Las Diablas Blackjack | 84187 | [84187-las-diablas-blackjack.json](./84187-las-diablas-blackjack.json) |
@@ -3759,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leygref's Castle | 2883 | [2883-leygrefs-castle.json](./2883-leygrefs-castle.json) |
 | Leyla In Veil | 413762 | [413762-leyla-in-veil.json](./413762-leyla-in-veil.json) |
 | Leyline Chronicles | 340866 | [340866-leyline-chronicles.json](./340866-leyline-chronicles.json) |
+| Leyline Knights | 151401 | [151401-leyline-knights.json](./151401-leyline-knights.json) |
 | Leylines | 29640 | [29640-leylines.json](./29640-leylines.json) |
 | Lez | 144955 | [144955-lez.json](./144955-lez.json) |
 | Lezdom CEO Fantasy | 331308 | [331308-lezdom-ceo-fantasy.json](./331308-lezdom-ceo-fantasy.json) |
@@ -8259,6 +8262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Soul | 153488 | [153488-lucid-soul.json](./153488-lucid-soul.json) |
 | Lucid Steam | 158599 | [158599-lucid-steam.json](./158599-lucid-steam.json) |
 | Lucid Trips | 26803 | [26803-lucid-trips.json](./26803-lucid-trips.json) |
+| Lucid: Parables of the Ubermensch | 151384 | [151384-lucid-parables-of-the-ubermensch.json](./151384-lucid-parables-of-the-ubermensch.json) |
 | Lucid9: Inciting Incident | 80553 | [80553-lucid9-inciting-incident.json](./80553-lucid9-inciting-incident.json) |
 | Lucido Cancels Everything | 295309 | [295309-lucido-cancels-everything.json](./295309-lucido-cancels-everything.json) |
 | Lucidscape | 141067 | [141067-lucidscape.json](./141067-lucidscape.json) |
