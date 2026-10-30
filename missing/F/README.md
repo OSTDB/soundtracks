@@ -2670,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Rage | 386700 | [386700-fast-food-rage.json](./386700-fast-food-rage.json) |
 | Fast Food Rampage | 96680 | [96680-fast-food-rampage.json](./96680-fast-food-rampage.json) |
 | Fast Food Shop Online | 212225 | [212225-fast-food-shop-online.json](./212225-fast-food-shop-online.json) |
+| Fast Food Simulator | 158860 | [158860-fast-food-simulator.json](./158860-fast-food-simulator.json) |
 | Fast Food Tycoon | 8912 | [8912-fast-food-tycoon.json](./8912-fast-food-tycoon.json) |
 | Fast Food Tycoon 2 | 80335 | [80335-fast-food-tycoon-2.json](./80335-fast-food-tycoon-2.json) |
 | Fast Food Tycoon Simulator | 353959 | [353959-fast-food-tycoon-simulator.json](./353959-fast-food-tycoon-simulator.json) |
@@ -9708,6 +9709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fourthy | 129199 | [129199-fourthy.json](./129199-fourthy.json) |
 | Fourville | 281503 | [281503-fourville.json](./281503-fourville.json) |
 | Fourvive | 395243 | [395243-fourvive.json](./395243-fourvive.json) |
+| Fourzy | 158870 | [158870-fourzy.json](./158870-fourzy.json) |
 | Foviki Empieria | 258636 | [258636-foviki-empieria.json](./258636-foviki-empieria.json) |
 | Fovos VR | 29907 | [29907-fovos-vr.json](./29907-fovos-vr.json) |
 | Fowl Magic | 121543 | [121543-fowl-magic.json](./121543-fowl-magic.json) |
