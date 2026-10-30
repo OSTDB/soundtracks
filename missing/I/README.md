@@ -1616,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idols Galore! | 92700 | [92700-idols-galore.json](./92700-idols-galore.json) |
 | Idols of Ash | 397084 | [397084-idols-of-ash.json](./397084-idols-of-ash.json) |
 | Idols Of Starlight | 357436 | [357436-idols-of-starlight.json](./357436-idols-of-starlight.json) |
+| Idolyaki: From Delinquents to Pop Stars | 173957 | [173957-idolyaki-from-delinquents-to-pop-stars.json](./173957-idolyaki-from-delinquents-to-pop-stars.json) |
 | Idolz | 348248 | [348248-idolz.json](./348248-idolz.json) |
 | Idra and the Little Fish | 229637 | [229637-idra-and-the-little-fish.json](./229637-idra-and-the-little-fish.json) |
 | Idtipsa | 201838 | [201838-idtipsa.json](./201838-idtipsa.json) |
@@ -4565,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Crypt | 212129 | [212129-into-the-crypt.json](./212129-into-the-crypt.json) |
 | Into the Crypt | 395983 | [395983-into-the-crypt.json](./395983-into-the-crypt.json) |
 | Into the Cthulhu Mythology | 187848 | [187848-into-the-cthulhu-mythology.json](./187848-into-the-cthulhu-mythology.json) |
+| Into the Dangerous World I Leapt | 173951 | [173951-into-the-dangerous-world-i-leapt.json](./173951-into-the-dangerous-world-i-leapt.json) |
 | Into the Dark | 199644 | [199644-into-the-dark.json](./199644-into-the-dark.json) |
 | Into the Dark | 229514 | [229514-into-the-dark.json](./229514-into-the-dark.json) |
 | Into the Dark | 271339 | [271339-into-the-dark.json](./271339-into-the-dark.json) |
@@ -4830,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inventory | 181180 | [181180-inventory.json](./181180-inventory.json) |
 | Inventory Full | 338833 | [338833-inventory-full.json](./338833-inventory-full.json) |
 | Inventory Hero | 198160 | [198160-inventory-hero.json](./198160-inventory-hero.json) |
+| Inventory Manager | 173974 | [173974-inventory-manager.json](./173974-inventory-manager.json) |
 | Inventris TD | 319009 | [319009-inventris-td.json](./319009-inventris-td.json) |
 | Invercity | 199467 | [199467-invercity.json](./199467-invercity.json) |
 | Inverness Nights | 134676 | [134676-inverness-nights.json](./134676-inverness-nights.json) |
@@ -5219,6 +5222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Wasteland | 406572 | [406572-iron-wasteland.json](./406572-iron-wasteland.json) |
 | Iron Wings | 25953 | [25953-iron-wings.json](./25953-iron-wings.json) |
 | Iron Works | 383350 | [383350-iron-works.json](./383350-iron-works.json) |
+| Iron World | 173986 | [173986-iron-world.json](./173986-iron-world.json) |
 | Ironblood | 402498 | [402498-ironblood.json](./402498-ironblood.json) |
 | IronBorn | 109585 | [109585-ironborn.json](./109585-ironborn.json) |
 | Ironborne | 391038 | [391038-ironborne.json](./391038-ironborne.json) |
