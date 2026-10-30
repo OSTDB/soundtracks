@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Erin | 112244 | [112244-tales-of-erin.json](./112244-tales-of-erin.json) |
 | Tales of Escape | 29560 | [29560-tales-of-escape.json](./29560-tales-of-escape.json) |
 | Tales of Escape: Cold As Ice | 172119 | [172119-tales-of-escape-cold-as-ice.json](./172119-tales-of-escape-cold-as-ice.json) |
+| Tales of Escape: Illusion (VR) | 172311 | [172311-tales-of-escape-illusion-vr.json](./172311-tales-of-escape-illusion-vr.json) |
 | Tales of Escape: Sleepy Hollow VR | 148500 | [148500-tales-of-escape-sleepy-hollow-vr.json](./148500-tales-of-escape-sleepy-hollow-vr.json) |
 | Tales of Esferia: Araxis | 151521 | [151521-tales-of-esferia-araxis.json](./151521-tales-of-esferia-araxis.json) |
 | Tales of Eternia Online | 79163 | [79163-tales-of-eternia-online.json](./79163-tales-of-eternia-online.json) |
@@ -16935,6 +16936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch and the Hundred Knight: Revival Edition | 19796 | [19796-the-witch-and-the-hundred-knight-revival-edition.json](./19796-the-witch-and-the-hundred-knight-revival-edition.json) |
 | The Witch and the Lost Babies | 389585 | [389585-the-witch-and-the-lost-babies.json](./389585-the-witch-and-the-lost-babies.json) |
 | The Witch Blade | 204140 | [204140-the-witch-blade.json](./204140-the-witch-blade.json) |
+| The Witch Doctor | 172316 | [172316-the-witch-doctor.json](./172316-the-witch-doctor.json) |
 | The Witch Eye | 169770 | [169770-the-witch-eye.json](./169770-the-witch-eye.json) |
 | The Witch House | 176813 | [176813-the-witch-house.json](./176813-the-witch-house.json) |
 | The Witch in the Forest | 156016 | [156016-the-witch-in-the-forest.json](./156016-the-witch-in-the-forest.json) |
@@ -17432,6 +17434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theo's World | 150276 | [150276-theos-world.json](./150276-theos-world.json) |
 | Theocracy | 226158 | [226158-theocracy.json](./226158-theocracy.json) |
 | Theocracy | 414858 | [414858-theocracy.json](./414858-theocracy.json) |
+| Theogony: Crystal Water Blue | 172314 | [172314-theogony-crystal-water-blue.json](./172314-theogony-crystal-water-blue.json) |
 | Theology | 128956 | [128956-theology.json](./128956-theology.json) |
 | Theomachiae | 172159 | [172159-theomachiae.json](./172159-theomachiae.json) |
 | Theorists | 261185 | [261185-theorists.json](./261185-theorists.json) |
@@ -20467,6 +20470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Travel | 204489 | [204489-time-travel.json](./204489-time-travel.json) |
 | Time Travel Bundle | 308828 | [308828-time-travel-bundle.json](./308828-time-travel-bundle.json) |
 | Time Travel Cafe | 295777 | [295777-time-travel-cafe.json](./295777-time-travel-cafe.json) |
+| Time Travel Shanty | 172330 | [172330-time-travel-shanty.json](./172330-time-travel-shanty.json) |
 | Time Travel Train | 381194 | [381194-time-travel-train.json](./381194-time-travel-train.json) |
 | Time Traveler | 201849 | [201849-time-traveler.json](./201849-time-traveler.json) |
 | Time Traveler | 24804 | [24804-time-traveler.json](./24804-time-traveler.json) |
