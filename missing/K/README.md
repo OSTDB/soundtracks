@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanon: Memorial Edition | 290967 | [290967-kanon-memorial-edition.json](./290967-kanon-memorial-edition.json) |
 | Kanon: Standard Edition | 290871 | [290871-kanon-standard-edition.json](./290871-kanon-standard-edition.json) |
 | Kanoso | 301523 | [301523-kanoso.json](./301523-kanoso.json) |
+| Kanpani Girls | 175045 | [175045-kanpani-girls.json](./175045-kanpani-girls.json) |
 | Kanraku Ojyosama: Pregnant Race | 108936 | [108936-kanraku-ojyosama-pregnant-race.json](./108936-kanraku-ojyosama-pregnant-race.json) |
 | Kansensei Nightmare | 151532 | [151532-kansensei-nightmare.json](./151532-kansensei-nightmare.json) |
 | Kanshakudama Nage Kantarou no Tokaido Gojuusan-tsugi | 48443 | [48443-kanshakudama-nage-kantarou-no-tokaido-gojuusan-tsugi.json](./48443-kanshakudama-nage-kantarou-no-tokaido-gojuusan-tsugi.json) |
@@ -2734,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Defense 2: Epic TD | 227512 | [227512-king-of-defense-2-epic-td.json](./227512-king-of-defense-2-epic-td.json) |
 | King of Defense: Merge TD | 239046 | [239046-king-of-defense-merge-td.json](./239046-king-of-defense-merge-td.json) |
 | King of Dirt | 29574 | [29574-king-of-dirt.json](./29574-king-of-dirt.json) |
+| King of Dirt: BMX | 175007 | [175007-king-of-dirt-bmx.json](./175007-king-of-dirt-bmx.json) |
 | King of Dragon Balls | 120735 | [120735-king-of-dragon-balls.json](./120735-king-of-dragon-balls.json) |
 | King of Dragon Pass | 7636 | [7636-king-of-dragon-pass.json](./7636-king-of-dragon-pass.json) |
 | King of Drop | 245052 | [245052-king-of-drop.json](./245052-king-of-drop.json) |
