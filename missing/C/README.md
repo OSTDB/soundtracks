@@ -8470,6 +8470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claire de Lune | 118217 | [118217-claire-de-lune.json](./118217-claire-de-lune.json) |
 | Claire Hart Classic | 354967 | [354967-claire-hart-classic.json](./354967-claire-hart-classic.json) |
 | Claire Hart: Secret in the Shadows | 354968 | [354968-claire-hart-secret-in-the-shadows.json](./354968-claire-hart-secret-in-the-shadows.json) |
+| Claire's Cruisin' Cafe | 155398 | [155398-claires-cruisin-cafe.json](./155398-claires-cruisin-cafe.json) |
 | Claire's Cruisin' Cafe: Fest Frenzy | 266310 | [266310-claires-cruisin-cafe-fest-frenzy.json](./266310-claires-cruisin-cafe-fest-frenzy.json) |
 | Claire's Cruisin' Cafe: High Seas Cuisine | 193445 | [193445-claires-cruisin-cafe-high-seas-cuisine.json](./193445-claires-cruisin-cafe-high-seas-cuisine.json) |
 | Clairvoyage: The Lighthouse | 409397 | [409397-clairvoyage-the-lighthouse.json](./409397-clairvoyage-the-lighthouse.json) |
