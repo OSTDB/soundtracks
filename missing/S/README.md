@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saeko: Giantess Dating Sim | 258823 | [258823-saeko-giantess-dating-sim.json](./258823-saeko-giantess-dating-sim.json) |
 | Saeko: Giantess Dating Sim - Digital Deluxe Edition | 407105 | [407105-saeko-giantess-dating-sim-digital-deluxe-edition.json](./407105-saeko-giantess-dating-sim-digital-deluxe-edition.json) |
 | Saelig | 36643 | [36643-saelig.json](./36643-saelig.json) |
+| Safari | 171771 | [171771-safari.json](./171771-safari.json) |
 | Safari | 305470 | [305470-safari.json](./305470-safari.json) |
 | Safari Adventures | 205836 | [205836-safari-adventures.json](./205836-safari-adventures.json) |
 | Safari Adventures: Africa | 51135 | [51135-safari-adventures-africa.json](./51135-safari-adventures-africa.json) |
@@ -5962,6 +5963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Unicorn | 26417 | [26417-shadow-of-the-unicorn.json](./26417-shadow-of-the-unicorn.json) |
 | Shadow of the Wool Ball | 195860 | [195860-shadow-of-the-wool-ball.json](./195860-shadow-of-the-wool-ball.json) |
 | Shadow of the Wyrm | 77656 | [77656-shadow-of-the-wyrm.json](./77656-shadow-of-the-wyrm.json) |
+| Shadow of Valhalla | 171735 | [171735-shadow-of-valhalla.json](./171735-shadow-of-valhalla.json) |
 | Shadow of Winter | 374067 | [374067-shadow-of-winter.json](./374067-shadow-of-winter.json) |
 | Shadow of Witch Marionette | 210516 | [210516-shadow-of-witch-marionette.json](./210516-shadow-of-witch-marionette.json) |
 | Shadow Ops: Red Mercury | 6043 | [6043-shadow-ops-red-mercury.json](./6043-shadow-ops-red-mercury.json) |
@@ -6869,6 +6871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Love | 157007 | [157007-sheep-love.json](./157007-sheep-love.json) |
 | Sheep Monologue | 383506 | [383506-sheep-monologue.json](./383506-sheep-monologue.json) |
 | Sheep N Sheep: Match 3 Tiles | 223916 | [223916-sheep-n-sheep-match-3-tiles.json](./223916-sheep-n-sheep-match-3-tiles.json) |
+| Sheep Quest | 171775 | [171775-sheep-quest.json](./171775-sheep-quest.json) |
 | Sheep Quest | 340379 | [340379-sheep-quest.json](./340379-sheep-quest.json) |
 | Sheep Running | 347039 | [347039-sheep-running.json](./347039-sheep-running.json) |
 | Sheep Seeker | 327652 | [327652-sheep-seeker.json](./327652-sheep-seeker.json) |
@@ -7186,8 +7189,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shifted VR | 137439 | [137439-shifted-vr.json](./137439-shifted-vr.json) |
 | Shifter | 165946 | [165946-shifter.json](./165946-shifter.json) |
+| Shifter | 171776 | [171776-shifter.json](./171776-shifter.json) |
 | Shifter | 313640 | [313640-shifter.json](./313640-shifter.json) |
 | Shifter | 333452 | [333452-shifter.json](./333452-shifter.json) |
+| Shifter's Box: Outside In | 171777 | [171777-shifters-box-outside-in.json](./171777-shifters-box-outside-in.json) |
 | Shifters | 43557 | [43557-shifters.json](./43557-shifters.json) |
 | Shifting Dreamscape | 177891 | [177891-shifting-dreamscape.json](./177891-shifting-dreamscape.json) |
 | Shifting Dungeon | 181028 | [181028-shifting-dungeon.json](./181028-shifting-dungeon.json) |
@@ -8481,6 +8486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shriddle | 143006 | [143006-shriddle.json](./143006-shriddle.json) |
 | Shrike | 371394 | [371394-shrike.json](./371394-shrike.json) |
 | Shrike Avenger | 25883 | [25883-shrike-avenger.json](./25883-shrike-avenger.json) |
+| Shrimp | 171749 | [171749-shrimp.json](./171749-shrimp.json) |
 | Shrimp | 314251 | [314251-shrimp.json](./314251-shrimp.json) |
 | Shrimp Game: Overkrill | 292946 | [292946-shrimp-game-overkrill.json](./292946-shrimp-game-overkrill.json) |
 | Shrimp Keeping Simulator | 340371 | [340371-shrimp-keeping-simulator.json](./340371-shrimp-keeping-simulator.json) |
@@ -13337,6 +13343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper | 287559 | [287559-sniper.json](./287559-sniper.json) |
 | Sniper 3D | 311780 | [311780-sniper-3d.json](./311780-sniper-3d.json) |
 | Sniper 3D: Fun FPS Shooting | 87378 | [87378-sniper-3d-fun-fps-shooting.json](./87378-sniper-3d-fun-fps-shooting.json) |
+| Sniper and Spotter Being Patriotic | 171778 | [171778-sniper-and-spotter-being-patriotic.json](./171778-sniper-and-spotter-being-patriotic.json) |
 | Sniper and Spotter Climbing a Tower | 125950 | [125950-sniper-and-spotter-climbing-a-tower.json](./125950-sniper-and-spotter-climbing-a-tower.json) |
 | Sniper and Spotter Serving the Motherland | 171779 | [171779-sniper-and-spotter-serving-the-motherland.json](./171779-sniper-and-spotter-serving-the-motherland.json) |
 | Sniper Arena: Online PvP Game | 88766 | [88766-sniper-arena-online-pvp-game.json](./88766-sniper-arena-online-pvp-game.json) |
@@ -19582,6 +19589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritus Vindicta | 293602 | [293602-spiritus-vindicta.json](./293602-spiritus-vindicta.json) |
 | SpiritVale | 356138 | [356138-spiritvale.json](./356138-spiritvale.json) |
 | Spiritwell | 222348 | [222348-spiritwell.json](./222348-spiritwell.json) |
+| Spiritwish | 171760 | [171760-spiritwish.json](./171760-spiritwish.json) |
 | Spirou | 19757 | [19757-spirou.json](./19757-spirou.json) |
 | Spirou | 368890 | [368890-spirou.json](./368890-spirou.json) |
 | Spirou | 368891 | [368891-spirou.json](./368891-spirou.json) |
@@ -21276,6 +21284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Iliad | 329676 | [329676-star-iliad.json](./329676-star-iliad.json) |
 | Star Impact | 117035 | [117035-star-impact.json](./117035-star-impact.json) |
 | Star in the Hollow | 217302 | [217302-star-in-the-hollow.json](./217302-star-in-the-hollow.json) |
+| Star Island | 171761 | [171761-star-island.json](./171761-star-island.json) |
 | Star Ixiom | 94357 | [94357-star-ixiom.json](./94357-star-ixiom.json) |
 | Star Jacker | 347569 | [347569-star-jacker.json](./347569-star-jacker.json) |
 | Star Jacker | 6140 | [6140-star-jacker.json](./6140-star-jacker.json) |
