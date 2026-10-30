@@ -6561,6 +6561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicles of Riddick: Assault on Dark Athena | 433 | [433-the-chronicles-of-riddick-assault-on-dark-athena.json](./433-the-chronicles-of-riddick-assault-on-dark-athena.json) |
 | The Chronicles of Riddick: Escape from Butcher Bay | 250 | [250-the-chronicles-of-riddick-escape-from-butcher-bay.json](./250-the-chronicles-of-riddick-escape-from-butcher-bay.json) |
 | The Chronicles of Riddick: Escape from Butcher Bay - The Developer's Cut | 24169 | [24169-the-chronicles-of-riddick-escape-from-butcher-bay-the-developers-cut.json](./24169-the-chronicles-of-riddick-escape-from-butcher-bay-the-developers-cut.json) |
+| The Chronicles of Robin Hood - The King of Thieves | 132450 | [132450-the-chronicles-of-robin-hood-the-king-of-thieves.json](./132450-the-chronicles-of-robin-hood-the-king-of-thieves.json) |
 | The Chronicles of Rovania: Darkest Bridge | 244266 | [244266-the-chronicles-of-rovania-darkest-bridge.json](./244266-the-chronicles-of-rovania-darkest-bridge.json) |
 | The Chronicles of Shakespeare: A Midsummer Night's Dream | 62649 | [62649-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json](./62649-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json) |
 | The Chronicles of Shakespeare: A Midsummer Night's Dream | 9401 | [9401-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json](./9401-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json) |
@@ -13140,6 +13141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ouroboros King | 215098 | [215098-the-ouroboros-king.json](./215098-the-ouroboros-king.json) |
 | The Ouroborous Incident | 330695 | [330695-the-ouroborous-incident.json](./330695-the-ouroborous-incident.json) |
 | The Out Door | 312723 | [312723-the-out-door.json](./312723-the-out-door.json) |
+| The Outbound Ghost | 132449 | [132449-the-outbound-ghost.json](./132449-the-outbound-ghost.json) |
 | The Outbreak | 140970 | [140970-the-outbreak.json](./140970-the-outbreak.json) |
 | The Outbreak Guardian | 168185 | [168185-the-outbreak-guardian.json](./168185-the-outbreak-guardian.json) |
 | The Outbreak Story | 149852 | [149852-the-outbreak-story.json](./149852-the-outbreak-story.json) |
@@ -18111,6 +18113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Little Piggy | 185521 | [185521-this-little-piggy.json](./185521-this-little-piggy.json) |
 | This Magical Girl is a B*tch | 270370 | [270370-this-magical-girl-is-a-b-tch.json](./270370-this-magical-girl-is-a-b-tch.json) |
 | This Means War! | 69931 | [69931-this-means-war.json](./69931-this-means-war.json) |
+| This Means Warp | 132443 | [132443-this-means-warp.json](./132443-this-means-warp.json) |
 | This Morning I Decided to Die | 258695 | [258695-this-morning-i-decided-to-die.json](./258695-this-morning-i-decided-to-die.json) |
 | This Next Time | 197272 | [197272-this-next-time.json](./197272-this-next-time.json) |
 | This Onion | 271243 | [271243-this-onion.json](./271243-this-onion.json) |
@@ -25010,6 +25013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Safety | 199813 | [199813-traffic-safety.json](./199813-traffic-safety.json) |
 | Traffic Safety: Air Scrambled Hard | 204271 | [204271-traffic-safety-air-scrambled-hard.json](./204271-traffic-safety-air-scrambled-hard.json) |
 | Traffic Stop Anomaly | 405870 | [405870-traffic-stop-anomaly.json](./405870-traffic-stop-anomaly.json) |
+| Traffic Storm | 132426 | [132426-traffic-storm.json](./132426-traffic-storm.json) |
 | Traffic Tour | 87282 | [87282-traffic-tour.json](./87282-traffic-tour.json) |
 | Traffic Tour Classic | 249690 | [249690-traffic-tour-classic.json](./249690-traffic-tour-classic.json) |
 | Traffic V | 149931 | [149931-traffic-v.json](./149931-traffic-v.json) |
@@ -25887,6 +25891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Station 2 | 233385 | [233385-train-station-2.json](./233385-train-station-2.json) |
 | Train Station Project | 334234 | [334234-train-station-project.json](./334234-train-station-project.json) |
 | Train Station Renovation | 108347 | [108347-train-station-renovation.json](./108347-train-station-renovation.json) |
+| Train Station Renovation: First Job | 132415 | [132415-train-station-renovation-first-job.json](./132415-train-station-renovation-first-job.json) |
 | Train Station Renovation: Germany | 195217 | [195217-train-station-renovation-germany.json](./195217-train-station-renovation-germany.json) |
 | Train Station Simulator: Together in Japan | 374747 | [374747-train-station-simulator-together-in-japan.json](./374747-train-station-simulator-together-in-japan.json) |
 | Train Station: Rail Transport | 243085 | [243085-train-station-rail-transport.json](./243085-train-station-rail-transport.json) |
