@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2: Game of the Year Edition | 314459 | [314459-half-life-2-game-of-the-year-edition.json](./314459-half-life-2-game-of-the-year-edition.json) |
 | Half-Life 2: Genry's Great Escape From City 13 | 168040 | [168040-half-life-2-genrys-great-escape-from-city-13.json](./168040-half-life-2-genrys-great-escape-from-city-13.json) |
 | Half-Life 2: Lost Coast | 10395 | [10395-half-life-2-lost-coast.json](./10395-half-life-2-lost-coast.json) |
+| Half-Life 2: MMod | 132989 | [132989-half-life-2-mmod.json](./132989-half-life-2-mmod.json) |
 | Half-Life 2: MMod - Half-Life 2: Episode One | 271414 | [271414-half-life-2-mmod-half-life-2-episode-one.json](./271414-half-life-2-mmod-half-life-2-episode-one.json) |
 | Half-Life 2: MMod - Half-Life 2: Episode Two | 271415 | [271415-half-life-2-mmod-half-life-2-episode-two.json](./271415-half-life-2-mmod-half-life-2-episode-two.json) |
 | Half-Life 2: MMod - Half-Life 2: Update | 267639 | [267639-half-life-2-mmod-half-life-2-update.json](./267639-half-life-2-mmod-half-life-2-update.json) |
@@ -10691,6 +10692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt Royale | 159347 | [159347-hunt-royale.json](./159347-hunt-royale.json) |
 | Hunt Souleater | 189024 | [189024-hunt-souleater.json](./189024-hunt-souleater.json) |
 | Hunt the Lights | 157076 | [157076-hunt-the-lights.json](./157076-hunt-the-lights.json) |
+| Hunt the Muglump | 133008 | [133008-hunt-the-muglump.json](./133008-hunt-the-muglump.json) |
 | Hunt the Night | 152169 | [152169-hunt-the-night.json](./152169-hunt-the-night.json) |
 | Hunt the Pale Gods | 303559 | [303559-hunt-the-pale-gods.json](./303559-hunt-the-pale-gods.json) |
 | Hunt the Thailand Hidden | 119696 | [119696-hunt-the-thailand-hidden.json](./119696-hunt-the-thailand-hidden.json) |
