@@ -1469,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Lessons | 285002 | [285002-dark-lessons.json](./285002-dark-lessons.json) |
 | Dark Life Excalibur | 258115 | [258115-dark-life-excalibur.json](./258115-dark-life-excalibur.json) |
 | Dark Light | 126237 | [126237-dark-light.json](./126237-dark-light.json) |
+| Dark Light | 173435 | [173435-dark-light.json](./173435-dark-light.json) |
 | Dark Light | 318711 | [318711-dark-light.json](./318711-dark-light.json) |
 | Dark Light Swap | 180639 | [180639-dark-light-swap.json](./180639-dark-light-swap.json) |
 | Dark Light: Survivor | 317334 | [317334-dark-light-survivor.json](./317334-dark-light-survivor.json) |
@@ -4675,6 +4676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Night Detective: Chapter One | 167263 | [167263-deep-night-detective-chapter-one.json](./167263-deep-night-detective-chapter-one.json) |
 | Deep Nightmare: Phobias | 416999 | [416999-deep-nightmare-phobias.json](./416999-deep-nightmare-phobias.json) |
 | Deep Ocean Rush | 125083 | [125083-deep-ocean-rush.json](./125083-deep-ocean-rush.json) |
+| Deep of the Ocean | 173411 | [173411-deep-of-the-ocean.json](./173411-deep-of-the-ocean.json) |
 | Deep Ones | 55258 | [55258-deep-ones.json](./55258-deep-ones.json) |
 | Deep Panic | 402271 | [402271-deep-panic.json](./402271-deep-panic.json) |
 | Deep Pixel Melancholy | 347185 | [347185-deep-pixel-melancholy.json](./347185-deep-pixel-melancholy.json) |
@@ -13577,6 +13579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonia | 124242 | [124242-dragonia.json](./124242-dragonia.json) |
 | Dragonia | 38788 | [38788-dragonia.json](./38788-dragonia.json) |
 | Dragonica Mama | 335716 | [335716-dragonica-mama.json](./335716-dragonica-mama.json) |
+| Dragonicle | 173410 | [173410-dragonicle.json](./173410-dragonicle.json) |
 | Dragonium Adventure | 226673 | [226673-dragonium-adventure.json](./226673-dragonium-adventure.json) |
 | DragonKill3D | 95911 | [95911-dragonkill3d.json](./95911-dragonkill3d.json) |
 | Dragonlance: Veil of the Last Sanctum | 415785 | [415785-dragonlance-veil-of-the-last-sanctum.json](./415785-dragonlance-veil-of-the-last-sanctum.json) |
