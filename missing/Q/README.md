@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questron | 24650 | [24650-questron.json](./24650-questron.json) |
 | Questscape | 294145 | [294145-questscape.json](./294145-questscape.json) |
 | Questscape: Survival | 310128 | [310128-questscape-survival.json](./310128-questscape-survival.json) |
+| Questy Chess | 151976 | [151976-questy-chess.json](./151976-questy-chess.json) |
 | Quetzal | 299302 | [299302-quetzal.json](./299302-quetzal.json) |
 | Quetzal | 373891 | [373891-quetzal.json](./373891-quetzal.json) |
 | Quetzal's Call | 196651 | [196651-quetzals-call.json](./196651-quetzals-call.json) |
