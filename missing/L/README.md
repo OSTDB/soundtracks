@@ -8083,6 +8083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loving Zurine | 83222 | [83222-loving-zurine.json](./83222-loving-zurine.json) |
 | Lovingly Evil | 137879 | [137879-lovingly-evil.json](./137879-lovingly-evil.json) |
 | Lovish | 319894 | [319894-lovish.json](./319894-lovish.json) |
+| Lovixsama Sokoban Bundle | 168548 | [168548-lovixsama-sokoban-bundle.json](./168548-lovixsama-sokoban-bundle.json) |
 | Low and Furious | 270569 | [270569-low-and-furious.json](./270569-low-and-furious.json) |
 | Low Batt | 315222 | [315222-low-batt.json](./315222-low-batt.json) |
 | Low Battery | 354408 | [354408-low-battery.json](./354408-low-battery.json) |
