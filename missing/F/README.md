@@ -6463,6 +6463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix and Foxi: Episode 1 - Lupo | 208380 | [208380-fix-and-foxi-episode-1-lupo.json](./208380-fix-and-foxi-episode-1-lupo.json) |
 | Fix EV3 Rover | 104002 | [104002-fix-ev3-rover.json](./104002-fix-ev3-rover.json) |
 | Fix Fixer | 253504 | [253504-fix-fixer.json](./253504-fix-fixer.json) |
+| Fix It: Home Improvement | 124987 | [124987-fix-it-home-improvement.json](./124987-fix-it-home-improvement.json) |
 | Fix Me Fix You | 29301 | [29301-fix-me-fix-you.json](./29301-fix-me-fix-you.json) |
 | Fix My Car: Classic Muscle | 96833 | [96833-fix-my-car-classic-muscle.json](./96833-fix-my-car-classic-muscle.json) |
 | Fix My Car: Custom Mods | 102630 | [102630-fix-my-car-custom-mods.json](./102630-fix-my-car-custom-mods.json) |
@@ -11427,6 +11428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostpunk: On the Edge | 134402 | [134402-frostpunk-on-the-edge.json](./134402-frostpunk-on-the-edge.json) |
 | Frostpunk: The Fall of Winterhome | 109637 | [109637-frostpunk-the-fall-of-winterhome.json](./109637-frostpunk-the-fall-of-winterhome.json) |
 | Frostpunk: The Last Autumn | 135952 | [135952-frostpunk-the-last-autumn.json](./135952-frostpunk-the-last-autumn.json) |
+| Frostpunk: The Rifts | 124965 | [124965-frostpunk-the-rifts.json](./124965-frostpunk-the-rifts.json) |
 | Frostrail | 339609 | [339609-frostrail.json](./339609-frostrail.json) |
 | Frostrain | 283575 | [283575-frostrain.json](./283575-frostrain.json) |
 | FrostRunner | 113391 | [113391-frostrunner.json](./113391-frostrunner.json) |
