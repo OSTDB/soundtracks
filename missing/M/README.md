@@ -7806,6 +7806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoir | 97173 | [97173-memoir.json](./97173-memoir.json) |
 | Memoir '44 Online | 28724 | [28724-memoir-44-online.json](./28724-memoir-44-online.json) |
 | Memoir En Code | 18990 | [18990-memoir-en-code.json](./18990-memoir-en-code.json) |
+| Memoir of Phantom's Fortitude | 134852 | [134852-memoir-of-phantoms-fortitude.json](./134852-memoir-of-phantoms-fortitude.json) |
 | Mémoire 0079 | 257276 | [257276-memoire-0079.json](./257276-memoire-0079.json) |
 | Memoirium | 365108 | [365108-memoirium.json](./365108-memoirium.json) |
 | Memoirs of an Angel | 308283 | [308283-memoirs-of-an-angel.json](./308283-memoirs-of-an-angel.json) |
@@ -10294,6 +10295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Mulan | 66940 | [66940-mighty-mulan.json](./66940-mighty-mulan.json) |
 | Mighty No. 9 | 5327 | [5327-mighty-no-9.json](./5327-mighty-no-9.json) |
 | Mighty No. 9: Ganbare! Beck | 78361 | [78361-mighty-no-9-ganbare-beck.json](./78361-mighty-no-9-ganbare-beck.json) |
+| Mighty No.(9) | 134853 | [134853-mighty-no-9.json](./134853-mighty-no-9.json) |
 | Mighty Party | 29865 | [29865-mighty-party.json](./29865-mighty-party.json) |
 | Mighty Quest: Rogue Palace | 248635 | [248635-mighty-quest-rogue-palace.json](./248635-mighty-quest-rogue-palace.json) |
 | Mighty Rescuer | 359737 | [359737-mighty-rescuer.json](./359737-mighty-rescuer.json) |
@@ -10665,6 +10667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimi the Cat: Mimi's Scratcher | 269052 | [269052-mimi-the-cat-mimis-scratcher.json](./269052-mimi-the-cat-mimis-scratcher.json) |
 | Mimi the Cat: New Friends | 253911 | [253911-mimi-the-cat-new-friends.json](./253911-mimi-the-cat-new-friends.json) |
 | Mimi Wuhui | 410959 | [410959-mimi-wuhui.json](./410959-mimi-wuhui.json) |
+| Mimi-Chan's Ballistic Adventure | 134851 | [134851-mimi-chans-ballistic-adventure.json](./134851-mimi-chans-ballistic-adventure.json) |
 | Mimi's Party Fun | 209222 | [209222-mimis-party-fun.json](./209222-mimis-party-fun.json) |
 | Mimi's Restaurant helper | 387678 | [387678-mimis-restaurant-helper.json](./387678-mimis-restaurant-helper.json) |
 | Mimic | 268062 | [268062-mimic.json](./268062-mimic.json) |
@@ -13026,6 +13029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mochi in Frosting | 146518 | [146518-mochi-in-frosting.json](./146518-mochi-in-frosting.json) |
 | Mochi Jump | 152602 | [152602-mochi-jump.json](./152602-mochi-jump.json) |
 | Mochi Jump | 280647 | [280647-mochi-jump.json](./280647-mochi-jump.json) |
+| Mochi Making Mischief | 134854 | [134854-mochi-making-mischief.json](./134854-mochi-making-mischief.json) |
 | Mochi Mochi Boy | 112709 | [112709-mochi-mochi-boy.json](./112709-mochi-mochi-boy.json) |
 | Mochi Word Puzzles | 100881 | [100881-mochi-word-puzzles.json](./100881-mochi-word-puzzles.json) |
 | Mochi-O | 339988 | [339988-mochi-o.json](./339988-mochi-o.json) |
