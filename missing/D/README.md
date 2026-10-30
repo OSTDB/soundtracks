@@ -5882,6 +5882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demoniac TV | 291524 | [291524-demoniac-tv.json](./291524-demoniac-tv.json) |
 | Demoniaca: Everlasting Night | 121311 | [121311-demoniaca-everlasting-night.json](./121311-demoniaca-everlasting-night.json) |
 | Demoniak | 12044 | [12044-demoniak.json](./12044-demoniak.json) |
+| Demonic Blade | 151397 | [151397-demonic-blade.json](./151397-demonic-blade.json) |
 | Demonic Bundle | 192305 | [192305-demonic-bundle.json](./192305-demonic-bundle.json) |
 | Demonic Crusade | 298896 | [298896-demonic-crusade.json](./298896-demonic-crusade.json) |
 | Demonic Deckmaster | 291505 | [291505-demonic-deckmaster.json](./291505-demonic-deckmaster.json) |
@@ -6414,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert of Doitjma | 128437 | [128437-desert-of-doitjma.json](./128437-desert-of-doitjma.json) |
 | Desert Of The Undead New Frontiers | 296364 | [296364-desert-of-the-undead-new-frontiers.json](./296364-desert-of-the-undead-new-frontiers.json) |
 | Desert of Vice | 95169 | [95169-desert-of-vice.json](./95169-desert-of-vice.json) |
+| Desert Parkour | 151394 | [151394-desert-parkour.json](./151394-desert-parkour.json) |
 | Desert Patrol | 275232 | [275232-desert-patrol.json](./275232-desert-patrol.json) |
 | Desert Pirates | 156911 | [156911-desert-pirates.json](./156911-desert-pirates.json) |
 | Desert Quest | 420516 | [420516-desert-quest.json](./420516-desert-quest.json) |
@@ -9816,6 +9818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divineko | 291617 | [291617-divineko.json](./291617-divineko.json) |
 | Diviner | 394850 | [394850-diviner.json](./394850-diviner.json) |
 | DivineRPG | 241498 | [241498-divinerpg.json](./241498-divinerpg.json) |
+| Divinest Light | 151409 | [151409-divinest-light.json](./151409-divinest-light.json) |
 | Diving Bell | 184722 | [184722-diving-bell.json](./184722-diving-bell.json) |
 | Diving City | 142184 | [142184-diving-city.json](./142184-diving-city.json) |
 | Diving Corsola | 71567 | [71567-diving-corsola.json](./71567-diving-corsola.json) |
@@ -16675,6 +16678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Tal'Doria | 79362 | [79362-dungeons-of-taldoria.json](./79362-dungeons-of-taldoria.json) |
 | Dungeons of the Amber Griffin | 211587 | [211587-dungeons-of-the-amber-griffin.json](./211587-dungeons-of-the-amber-griffin.json) |
 | Dungeons of the dead | 96639 | [96639-dungeons-of-the-dead.json](./96639-dungeons-of-the-dead.json) |
+| Dungeons of the Deep | 151396 | [151396-dungeons-of-the-deep.json](./151396-dungeons-of-the-deep.json) |
 | Dungeons of the Fallen | 105025 | [105025-dungeons-of-the-fallen.json](./105025-dungeons-of-the-fallen.json) |
 | Dungeons of the Unforgiven | 73616 | [73616-dungeons-of-the-unforgiven.json](./73616-dungeons-of-the-unforgiven.json) |
 | Dungeons of Voidria | 153941 | [153941-dungeons-of-voidria.json](./153941-dungeons-of-voidria.json) |
