@@ -1057,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad X: Car-set Porsche and Mercedes | 170430 | [170430-railroad-x-car-set-porsche-and-mercedes.json](./170430-railroad-x-car-set-porsche-and-mercedes.json) |
 | Railroad X: Trans Europ Express VT 11.5 | 171026 | [171026-railroad-x-trans-europ-express-vt-11-5.json](./171026-railroad-x-trans-europ-express-vt-11-5.json) |
 | Railroader | 197113 | [197113-railroader.json](./197113-railroader.json) |
+| Railroads & Catacombs | 161551 | [161551-railroads-and-catacombs.json](./161551-railroads-and-catacombs.json) |
 | Railroads of America | 197733 | [197733-railroads-of-america.json](./197733-railroads-of-america.json) |
 | Railroads Online | 173428 | [173428-railroads-online.json](./173428-railroads-online.json) |
 | Railroads Online: Explorer DLC | 332801 | [332801-railroads-online-explorer-dlc.json](./332801-railroads-online-explorer-dlc.json) |
@@ -1328,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raising the Bar: Salvation | 281376 | [281376-raising-the-bar-salvation.json](./281376-raising-the-bar-salvation.json) |
 | Raising Torolith | 152885 | [152885-raising-torolith.json](./152885-raising-torolith.json) |
 | Raisond'etre | 324849 | [324849-raisondetre.json](./324849-raisondetre.json) |
+| Raivo | 161514 | [161514-raivo.json](./161514-raivo.json) |
 | Raji: An Ancient Epic | 70828 | [70828-raji-an-ancient-epic.json](./70828-raji-an-ancient-epic.json) |
 | Raji: An Ancient Epic - Enhanced Edition | 152175 | [152175-raji-an-ancient-epic-enhanced-edition.json](./152175-raji-an-ancient-epic-enhanced-edition.json) |
 | Raji: Kaliyuga | 378233 | [378233-raji-kaliyuga.json](./378233-raji-kaliyuga.json) |
