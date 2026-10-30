@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Playground | 231912 | [231912-ragdoll-playground.json](./231912-ragdoll-playground.json) |
 | Ragdoll Playground | 369746 | [369746-ragdoll-playground.json](./369746-ragdoll-playground.json) |
 | Ragdoll Playground Sandbox | 392261 | [392261-ragdoll-playground-sandbox.json](./392261-ragdoll-playground-sandbox.json) |
+| Ragdoll Racers | 166944 | [166944-ragdoll-racers.json](./166944-ragdoll-racers.json) |
 | Ragdoll Rumble | 318990 | [318990-ragdoll-rumble.json](./318990-ragdoll-rumble.json) |
 | Ragdoll Slayer | 219646 | [219646-ragdoll-slayer.json](./219646-ragdoll-slayer.json) |
 | Ragdoll Toss | 179124 | [179124-ragdoll-toss.json](./179124-ragdoll-toss.json) |
@@ -4529,6 +4530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renai Revenge | 136762 | [136762-renai-revenge.json](./136762-renai-revenge.json) |
 | Renai X Royale: Love's a Battle | 216956 | [216956-renai-x-royale-loves-a-battle.json](./216956-renai-x-royale-loves-a-battle.json) |
 | Renai, Karichaimashita | 144892 | [144892-renai-karichaimashita.json](./144892-renai-karichaimashita.json) |
+| Renai, Karichaimashita: Limited Edition | 166974 | [166974-renai-karichaimashita-limited-edition.json](./166974-renai-karichaimashita-limited-edition.json) |
 | Renaine | 74723 | [74723-renaine.json](./74723-renaine.json) |
 | Renaissance Fighters | 220187 | [220187-renaissance-fighters.json](./220187-renaissance-fighters.json) |
 | Renaissance Kingdom Wars | 278968 | [278968-renaissance-kingdom-wars.json](./278968-renaissance-kingdom-wars.json) |
