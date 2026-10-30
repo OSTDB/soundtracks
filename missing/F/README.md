@@ -6455,6 +6455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix-It Felix Jr. | 250928 | [250928-fix-it-felix-jr.json](./250928-fix-it-felix-jr.json) |
 | Fix-It Felix Jr. | 39486 | [39486-fix-it-felix-jr.json](./39486-fix-it-felix-jr.json) |
 | Fix-It Felix Sr. | 304541 | [304541-fix-it-felix-sr.json](./304541-fix-it-felix-sr.json) |
+| Fix-It-Up 80's: Meet Kate's Parents | 141434 | [141434-fix-it-up-80s-meet-kates-parents.json](./141434-fix-it-up-80s-meet-kates-parents.json) |
 | Fix-it-up: Kate's Adventure | 146476 | [146476-fix-it-up-kates-adventure.json](./146476-fix-it-up-kates-adventure.json) |
 | Fixat! | 129774 | [129774-fixat.json](./129774-fixat.json) |
 | Fixation | 316811 | [316811-fixation.json](./316811-fixation.json) |
@@ -8971,6 +8972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift Extreme: Ultra Edition | 252404 | [252404-forklift-extreme-ultra-edition.json](./252404-forklift-extreme-ultra-edition.json) |
 | Forklift Extreme: Vertigo Farm | 221692 | [221692-forklift-extreme-vertigo-farm.json](./221692-forklift-extreme-vertigo-farm.json) |
 | Forklift Flowerpot: Botanical Investigator | 217236 | [217236-forklift-flowerpot-botanical-investigator.json](./217236-forklift-flowerpot-botanical-investigator.json) |
+| Forklift Load | 141394 | [141394-forklift-load.json](./141394-forklift-load.json) |
 | Forklift Man | 209933 | [209933-forklift-man.json](./209933-forklift-man.json) |
 | Forklift Racer | 253948 | [253948-forklift-racer.json](./253948-forklift-racer.json) |
 | Forklift Simulator | 293134 | [293134-forklift-simulator.json](./293134-forklift-simulator.json) |
