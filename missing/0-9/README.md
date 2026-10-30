@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Date Danger | 255815 | [255815-1-date-danger.json](./255815-1-date-danger.json) |
 | 1 Day a Mosquito | 308198 | [308198-1-day-a-mosquito.json](./308198-1-day-a-mosquito.json) |
 | 1 Fast Fight | 315347 | [315347-1-fast-fight.json](./315347-1-fast-fight.json) |
+| 1 For Yes, 0 For No | 164184 | [164184-1-for-yes-0-for-no.json](./164184-1-for-yes-0-for-no.json) |
 | 1 Hit Kill | 105211 | [105211-1-hit-kill.json](./105211-1-hit-kill.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
 | 1 Hungry Peasant | 252117 | [252117-1-hungry-peasant.json](./252117-1-hungry-peasant.json) |
@@ -529,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Goldmine Cats | 382336 | [382336-100-goldmine-cats.json](./382336-100-goldmine-cats.json) |
 | 100 Greece Cats | 334122 | [334122-100-greece-cats.json](./334122-100-greece-cats.json) |
 | 100 Halloweens | 265726 | [265726-100-halloweens.json](./265726-100-halloweens.json) |
+| 100 Hidden Aliens | 164164 | [164164-100-hidden-aliens.json](./164164-100-hidden-aliens.json) |
 | 100 Hidden ASCII Cats | 401847 | [401847-100-hidden-ascii-cats.json](./401847-100-hidden-ascii-cats.json) |
 | 100 Hidden Birds | 161611 | [161611-100-hidden-birds.json](./161611-100-hidden-birds.json) |
 | 100 Hidden Capybaras | 321544 | [321544-100-hidden-capybaras.json](./321544-100-hidden-capybaras.json) |
