@@ -16366,6 +16366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movie Crosswords | 248406 | [248406-movie-crosswords.json](./248406-movie-crosswords.json) |
 | Movie Games | 51062 | [51062-movie-games.json](./51062-movie-games.json) |
 | Movie Grid | 319222 | [319222-movie-grid.json](./319222-movie-grid.json) |
+| Movie Maven: A Tycoon Game | 127524 | [127524-movie-maven-a-tycoon-game.json](./127524-movie-maven-a-tycoon-game.json) |
 | Movie Night | 310560 | [310560-movie-night.json](./310560-movie-night.json) |
 | Movie Quest | 206339 | [206339-movie-quest.json](./206339-movie-quest.json) |
 | Movie Studio Boss: The Sequel | 36185 | [36185-movie-studio-boss-the-sequel.json](./36185-movie-studio-boss-the-sequel.json) |
