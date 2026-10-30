@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T18:50:19.839Z",
-  "total_missing": 285298,
+  "generated_at": "2026-10-30T19:19:37.871Z",
+  "total_missing": 285348,
   "games": [
     {
       "igdb_id": 191680,
@@ -5120,6 +5120,11 @@
       "igdb_id": 283868,
       "game_name": "13 Seconds",
       "file": "missing/0-9/283868-13-seconds.json"
+    },
+    {
+      "igdb_id": 134243,
+      "game_name": "13 Sentinels: Aegis Rim - Premium Box",
+      "file": "missing/0-9/134243-13-sentinels-aegis-rim-premium-box.json"
     },
     {
       "igdb_id": 211388,
@@ -26050,6 +26055,11 @@
       "igdb_id": 14203,
       "game_name": "ABZoo",
       "file": "missing/A/14203-abzoo.json"
+    },
+    {
+      "igdb_id": 134247,
+      "game_name": "Abzorb",
+      "file": "missing/A/134247-abzorb.json"
     },
     {
       "igdb_id": 52553,
@@ -63202,6 +63212,11 @@
       "file": "missing/A/197349-anno-1800-seeds-of-change.json"
     },
     {
+      "igdb_id": 134219,
+      "game_name": "Anno 1800: Special Edition",
+      "file": "missing/A/134219-anno-1800-special-edition.json"
+    },
+    {
       "igdb_id": 299695,
       "game_name": "Anno 1800: Steampunk Pack",
       "file": "missing/A/299695-anno-1800-steampunk-pack.json"
@@ -84152,6 +84167,11 @@
       "file": "missing/A/325330-assassins-creed-odyssey-those-who-are-treasured.json"
     },
     {
+      "igdb_id": 134215,
+      "game_name": "Assassin's Creed Origins + Odyssey Double Pack",
+      "file": "missing/A/134215-assassins-creed-origins-odyssey-double-pack.json"
+    },
+    {
       "igdb_id": 327770,
       "game_name": "Assassin's Creed Origins: Secrets of the First Pyramids",
       "file": "missing/A/327770-assassins-creed-origins-secrets-of-the-first-pyramids.json"
@@ -85520,6 +85540,11 @@
       "igdb_id": 166231,
       "game_name": "Asterix & Obelix XXL 3: The Crystal Menhir - Collector's Edition",
       "file": "missing/A/166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json"
+    },
+    {
+      "igdb_id": 134234,
+      "game_name": "Asterix & Obelix XXL 3: The Crystal Menhir - Limited Edition",
+      "file": "missing/A/134234-asterix-and-obelix-xxl-3-the-crystal-menhir-limited-edition.json"
     },
     {
       "igdb_id": 140168,
@@ -134745,6 +134770,11 @@
       "igdb_id": 218546,
       "game_name": "Biohazard RE: 2 - Z Version: Deluxe Edition",
       "file": "missing/B/218546-biohazard-re-2-z-version-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 134239,
+      "game_name": "Biohazard RE: 3 - Z Version",
+      "file": "missing/B/134239-biohazard-re-3-z-version.json"
     },
     {
       "igdb_id": 251752,
@@ -184217,6 +184247,11 @@
       "file": "missing/C/113383-call-of-duty-legends-of-war.json"
     },
     {
+      "igdb_id": 134229,
+      "game_name": "Call of Duty: Modern Warfare - Dark Edition",
+      "file": "missing/C/134229-call-of-duty-modern-warfare-dark-edition.json"
+    },
+    {
       "igdb_id": 21198,
       "game_name": "Call of Duty: Modern Warfare - Mobilized",
       "file": "missing/C/21198-call-of-duty-modern-warfare-mobilized.json"
@@ -212142,6 +212177,11 @@
       "file": "missing/C/119824-chibi-volleyball.json"
     },
     {
+      "igdb_id": 134255,
+      "game_name": "Chibi-Robo!",
+      "file": "missing/C/134255-chibi-robo.json"
+    },
+    {
       "igdb_id": 3856,
       "game_name": "Chibi-Robo!",
       "file": "missing/C/3856-chibi-robo.json"
@@ -230875,6 +230915,11 @@
       "igdb_id": 406864,
       "game_name": "Code UltraViolet",
       "file": "missing/C/406864-code-ultraviolet.json"
+    },
+    {
+      "igdb_id": 134244,
+      "game_name": "Code Vein: Blood Thirst Edition",
+      "file": "missing/C/134244-code-vein-blood-thirst-edition.json"
     },
     {
       "igdb_id": 103212,
@@ -295012,6 +295057,11 @@
       "file": "missing/D/176220-death-stare.json"
     },
     {
+      "igdb_id": 134230,
+      "game_name": "Death Stranding: Collector's Edition",
+      "file": "missing/D/134230-death-stranding-collectors-edition.json"
+    },
+    {
       "igdb_id": 136160,
       "game_name": "Death Stranding: Digital Deluxe Edition",
       "file": "missing/D/136160-death-stranding-digital-deluxe-edition.json"
@@ -295030,6 +295080,11 @@
       "igdb_id": 386264,
       "game_name": "Death Stranding: Higgs Variant",
       "file": "missing/D/386264-death-stranding-higgs-variant.json"
+    },
+    {
+      "igdb_id": 134232,
+      "game_name": "Death Stranding: Special Edition",
+      "file": "missing/D/134232-death-stranding-special-edition.json"
     },
     {
       "igdb_id": 335121,
@@ -317667,6 +317722,11 @@
       "file": "missing/D/99136-dinosaur-park-building-simulator-3d.json"
     },
     {
+      "igdb_id": 134251,
+      "game_name": "Dinosaur Planet",
+      "file": "missing/D/134251-dinosaur-planet.json"
+    },
+    {
       "igdb_id": 343047,
       "game_name": "Dinosaur Planet: Recompiled",
       "file": "missing/D/343047-dinosaur-planet-recompiled.json"
@@ -321212,6 +321272,16 @@
       "file": "missing/D/202089-disneys-active-play-the-lion-king-ii-simbas-pride.json"
     },
     {
+      "igdb_id": 134223,
+      "game_name": "Disney's Activity Center: Aladdin",
+      "file": "missing/D/134223-disneys-activity-center-aladdin.json"
+    },
+    {
+      "igdb_id": 134216,
+      "game_name": "Disney's Activity Center: The Lion King",
+      "file": "missing/D/134216-disneys-activity-center-the-lion-king.json"
+    },
+    {
       "igdb_id": 209035,
       "game_name": "Disney's Activity Center: Winnie the Pooh",
       "file": "missing/D/209035-disneys-activity-center-winnie-the-pooh.json"
@@ -321265,6 +321335,11 @@
       "igdb_id": 204394,
       "game_name": "Disney's Animated Storybook: 101 Dalmatians",
       "file": "missing/D/204394-disneys-animated-storybook-101-dalmatians.json"
+    },
+    {
+      "igdb_id": 134224,
+      "game_name": "Disney's Animated Storybook: Pocahontas",
+      "file": "missing/D/134224-disneys-animated-storybook-pocahontas.json"
     },
     {
       "igdb_id": 202148,
@@ -339777,6 +339852,11 @@
       "file": "missing/D/227674-dragon-ball-z-kakarot-bardock-alone-against-fate.json"
     },
     {
+      "igdb_id": 134228,
+      "game_name": "Dragon Ball Z: Kakarot - Collector's Edition",
+      "file": "missing/D/134228-dragon-ball-z-kakarot-collectors-edition.json"
+    },
+    {
       "igdb_id": 386957,
       "game_name": "Dragon Ball Z: Kakarot - Daima Edition",
       "file": "missing/D/386957-dragon-ball-z-kakarot-daima-edition.json"
@@ -341760,6 +341840,11 @@
       "igdb_id": 110069,
       "game_name": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
       "file": "missing/D/110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json"
+    },
+    {
+      "igdb_id": 134248,
+      "game_name": "Dragon Quest XI S: Echoes of an Elusive Age - Gorgeous Edition",
+      "file": "missing/D/134248-dragon-quest-xi-s-echoes-of-an-elusive-age-gorgeous-edition.json"
     },
     {
       "igdb_id": 11667,
@@ -350255,6 +350340,11 @@
       "igdb_id": 178935,
       "game_name": "Drop Up",
       "file": "missing/D/178935-drop-up.json"
+    },
+    {
+      "igdb_id": 134238,
+      "game_name": "Drop Wizard",
+      "file": "missing/D/134238-drop-wizard.json"
     },
     {
       "igdb_id": 254959,
@@ -399937,6 +400027,11 @@
       "file": "missing/F/116667-f1-2019.json"
     },
     {
+      "igdb_id": 134217,
+      "game_name": "F1 2019: Anniversary Edition",
+      "file": "missing/F/134217-f1-2019-anniversary-edition.json"
+    },
+    {
       "igdb_id": 125192,
       "game_name": "F1 2019: Legends Edition",
       "file": "missing/F/125192-f1-2019-legends-edition.json"
@@ -421947,6 +422042,11 @@
       "file": "missing/F/136353-final-fantasy-vii-remake-1st-class-edition.json"
     },
     {
+      "igdb_id": 134226,
+      "game_name": "Final Fantasy VII Remake: Deluxe Edition",
+      "file": "missing/F/134226-final-fantasy-vii-remake-deluxe-edition.json"
+    },
+    {
       "igdb_id": 119576,
       "game_name": "Final Fantasy VII Remake: Digital Deluxe Edition",
       "file": "missing/F/119576-final-fantasy-vii-remake-digital-deluxe-edition.json"
@@ -425825,6 +425925,11 @@
       "igdb_id": 132224,
       "game_name": "Fire Emblem: Three Houses - Cindered Shadows",
       "file": "missing/F/132224-fire-emblem-three-houses-cindered-shadows.json"
+    },
+    {
+      "igdb_id": 134235,
+      "game_name": "Fire Emblem: Three Houses - Collector's Edition",
+      "file": "missing/F/134235-fire-emblem-three-houses-collectors-edition.json"
     },
     {
       "igdb_id": 293729,
@@ -497140,6 +497245,11 @@
       "igdb_id": 156326,
       "game_name": "Granblue Fantasy: Versus - Narmaya",
       "file": "missing/G/156326-granblue-fantasy-versus-narmaya.json"
+    },
+    {
+      "igdb_id": 134242,
+      "game_name": "Granblue Fantasy: Versus - Premium Edition",
+      "file": "missing/G/134242-granblue-fantasy-versus-premium-edition.json"
     },
     {
       "igdb_id": 233643,
@@ -648102,6 +648212,11 @@
       "file": "missing/K/200021-kubrain.json"
     },
     {
+      "igdb_id": 134249,
+      "game_name": "Kubrix",
+      "file": "missing/K/134249-kubrix.json"
+    },
+    {
       "igdb_id": 80580,
       "game_name": "Kubus",
       "file": "missing/K/80580-kubus.json"
@@ -667487,6 +667602,11 @@
       "file": "missing/L/118833-lets-sing-11-platinum-edition.json"
     },
     {
+      "igdb_id": 134246,
+      "game_name": "Let's Sing 12: Spanish Version",
+      "file": "missing/L/134246-lets-sing-12-spanish-version.json"
+    },
+    {
       "igdb_id": 139930,
       "game_name": "Let's Sing 13",
       "file": "missing/L/139930-lets-sing-13.json"
@@ -667575,6 +667695,11 @@
       "igdb_id": 123345,
       "game_name": "Let's Sing 2020",
       "file": "missing/L/123345-lets-sing-2020.json"
+    },
+    {
+      "igdb_id": 134233,
+      "game_name": "Let's Sing 2020 with German Hits",
+      "file": "missing/L/134233-lets-sing-2020-with-german-hits.json"
     },
     {
       "igdb_id": 329519,
@@ -741862,9 +741987,19 @@
       "file": "missing/M/166150-metroid-planets.json"
     },
     {
+      "igdb_id": 134257,
+      "game_name": "Metroid Prime",
+      "file": "missing/M/134257-metroid-prime.json"
+    },
+    {
       "igdb_id": 1108,
       "game_name": "Metroid Prime 2: Echoes",
       "file": "missing/M/1108-metroid-prime-2-echoes.json"
+    },
+    {
+      "igdb_id": 134258,
+      "game_name": "Metroid Prime 2: Echoes",
+      "file": "missing/M/134258-metroid-prime-2-echoes.json"
     },
     {
       "igdb_id": 388563,
@@ -773290,6 +773425,11 @@
       "igdb_id": 133277,
       "game_name": "Mortal Kombat 11: Spawn",
       "file": "missing/M/133277-mortal-kombat-11-spawn.json"
+    },
+    {
+      "igdb_id": 134218,
+      "game_name": "Mortal Kombat 11: Special Edition",
+      "file": "missing/M/134218-mortal-kombat-11-special-edition.json"
     },
     {
       "igdb_id": 133275,
@@ -878927,9 +879067,19 @@
       "file": "missing/P/405346-persona-5-royal-persona-q2-costume-and-bgm-special-set.json"
     },
     {
+      "igdb_id": 134220,
+      "game_name": "Persona 5 Royal: Phantom Thieves Edition",
+      "file": "missing/P/134220-persona-5-royal-phantom-thieves-edition.json"
+    },
+    {
       "igdb_id": 405355,
       "game_name": "Persona 5 Royal: SMT Strange Journey Redux Costume & BGM Set",
       "file": "missing/P/405355-persona-5-royal-smt-strange-journey-redux-costume-and-bgm-set.json"
+    },
+    {
+      "igdb_id": 134241,
+      "game_name": "Persona 5 Royal: Straight Flush Edition",
+      "file": "missing/P/134241-persona-5-royal-straight-flush-edition.json"
     },
     {
       "igdb_id": 405353,
@@ -878945,6 +879095,11 @@
       "igdb_id": 142606,
       "game_name": "Persona 5 Scramble: The Phantom Strikers - Limited Edition",
       "file": "missing/P/142606-persona-5-scramble-the-phantom-strikers-limited-edition.json"
+    },
+    {
+      "igdb_id": 134245,
+      "game_name": "Persona 5 Scramble: The Phantom Strikers - Otakara BOX",
+      "file": "missing/P/134245-persona-5-scramble-the-phantom-strikers-otakara-box.json"
     },
     {
       "igdb_id": 237861,
@@ -915957,6 +916112,11 @@
       "file": "missing/P/89209-porkerpillar.json"
     },
     {
+      "igdb_id": 134206,
+      "game_name": "Porklike: Wurst Comes to Worst",
+      "file": "missing/P/134206-porklike-wurst-comes-to-worst.json"
+    },
+    {
       "igdb_id": 311700,
       "game_name": "Porklike: Wurst Comes to Worst Gameboy",
       "file": "missing/P/311700-porklike-wurst-comes-to-worst-gameboy.json"
@@ -944777,6 +944937,11 @@
       "file": "missing/Q/227489-qual-a-capa.json"
     },
     {
+      "igdb_id": 134225,
+      "game_name": "Qual é a Música",
+      "file": "missing/Q/134225-qual-e-a-musica.json"
+    },
+    {
       "igdb_id": 380535,
       "game_name": "Qualatro",
       "file": "missing/Q/380535-qualatro.json"
@@ -951637,6 +951802,11 @@
       "file": "missing/R/171241-radical-castle.json"
     },
     {
+      "igdb_id": 134207,
+      "game_name": "Radical Chess",
+      "file": "missing/R/134207-radical-chess.json"
+    },
+    {
       "igdb_id": 1803,
       "game_name": "Radical Dreamers: Le Trésor Interdit",
       "file": "missing/R/1803-radical-dreamers-le-tresor-interdit.json"
@@ -951720,6 +951890,11 @@
       "igdb_id": 239732,
       "game_name": "Radical Road",
       "file": "missing/R/239732-radical-road.json"
+    },
+    {
+      "igdb_id": 134208,
+      "game_name": "Radical Solitaire",
+      "file": "missing/R/134208-radical-solitaire.json"
     },
     {
       "igdb_id": 330319,
@@ -969172,6 +969347,11 @@
       "file": "missing/R/238365-regional-power-iii.json"
     },
     {
+      "igdb_id": 134210,
+      "game_name": "Regions",
+      "file": "missing/R/134210-regions.json"
+    },
+    {
       "igdb_id": 61884,
       "game_name": "Regions of Ruin",
       "file": "missing/R/61884-regions-of-ruin.json"
@@ -972917,6 +973097,11 @@
       "file": "missing/R/51717-res-judicata-vale-of-myth.json"
     },
     {
+      "igdb_id": 134211,
+      "game_name": "Res Militaria Rome",
+      "file": "missing/R/134211-res-militaria-rome.json"
+    },
+    {
       "igdb_id": 182938,
       "game_name": "ReSail",
       "file": "missing/R/182938-resail.json"
@@ -975565,6 +975750,11 @@
       "igdb_id": 344232,
       "game_name": "Retro Adventurer",
       "file": "missing/R/344232-retro-adventurer.json"
+    },
+    {
+      "igdb_id": 134212,
+      "game_name": "Retro Arcade Adventure Remade",
+      "file": "missing/R/134212-retro-arcade-adventure-remade.json"
     },
     {
       "igdb_id": 209194,
@@ -989800,6 +989990,11 @@
       "igdb_id": 172906,
       "game_name": "Robotry!",
       "file": "missing/R/172906-robotry.json"
+    },
+    {
+      "igdb_id": 134213,
+      "game_name": "Robots",
+      "file": "missing/R/134213-robots.json"
     },
     {
       "igdb_id": 176770,
@@ -1020487,6 +1020682,11 @@
       "file": "missing/S/335769-scenes-from-the-heart.json"
     },
     {
+      "igdb_id": 134250,
+      "game_name": "Scenic Forest Valley",
+      "file": "missing/S/134250-scenic-forest-valley.json"
+    },
+    {
       "igdb_id": 244084,
       "game_name": "Scenic Route's Generations",
       "file": "missing/S/244084-scenic-routes-generations.json"
@@ -1045347,6 +1045547,11 @@
       "file": "missing/S/184589-shines-over.json"
     },
     {
+      "igdb_id": 134252,
+      "game_name": "Shines Over II",
+      "file": "missing/S/134252-shines-over-ii.json"
+    },
+    {
       "igdb_id": 287034,
       "game_name": "Shines Over: The Damned",
       "file": "missing/S/287034-shines-over-the-damned.json"
@@ -1051147,6 +1051352,11 @@
       "file": "missing/S/39388-shuffleshot.json"
     },
     {
+      "igdb_id": 134253,
+      "game_name": "Shuffs",
+      "file": "missing/S/134253-shuffs.json"
+    },
+    {
       "igdb_id": 70669,
       "game_name": "Shugo Chara! 3-tsu no Tamago to Koisuru Joker",
       "file": "missing/S/70669-shugo-chara-3-tsu-no-tamago-to-koisuru-joker.json"
@@ -1054320,6 +1054530,11 @@
       "igdb_id": 134265,
       "game_name": "Silent Hill: Mobile 3",
       "file": "missing/S/134265-silent-hill-mobile-3.json"
+    },
+    {
+      "igdb_id": 134261,
+      "game_name": "Silent Hill: Mobile DX",
+      "file": "missing/S/134261-silent-hill-mobile-dx.json"
     },
     {
       "igdb_id": 59007,
@@ -1079897,6 +1080112,11 @@
       "file": "missing/S/403321-sokogeek.json"
     },
     {
+      "igdb_id": 134254,
+      "game_name": "Sokogeon",
+      "file": "missing/S/134254-sokogeon.json"
+    },
+    {
       "igdb_id": 390021,
       "game_name": "SokoGhost: Unfinished Business",
       "file": "missing/S/390021-sokoghost-unfinished-business.json"
@@ -1083285,6 +1083505,11 @@
       "igdb_id": 204858,
       "game_name": "Sometimes They Come Back",
       "file": "missing/S/204858-sometimes-they-come-back.json"
+    },
+    {
+      "igdb_id": 134256,
+      "game_name": "Sometimes to Deal With the Difficulty of Being Alive I Need to Believe There Is a Possibility That Life Is Not Real",
+      "file": "missing/S/134256-sometimes-to-deal-with-the-difficulty-of-being-alive-i-need-to-believe-there-is-a-possibility-that-life-is-not-real.json"
     },
     {
       "igdb_id": 35712,
@@ -1090780,6 +1091005,11 @@
       "igdb_id": 142720,
       "game_name": "Soul of Giga",
       "file": "missing/S/142720-soul-of-giga.json"
+    },
+    {
+      "igdb_id": 134259,
+      "game_name": "Soul of Hero",
+      "file": "missing/S/134259-soul-of-hero.json"
     },
     {
       "igdb_id": 247175,
@@ -1101090,6 +1101320,11 @@
       "igdb_id": 45359,
       "game_name": "Spectres",
       "file": "missing/S/45359-spectres.json"
+    },
+    {
+      "igdb_id": 134260,
+      "game_name": "Spectres of the Cold",
+      "file": "missing/S/134260-spectres-of-the-cold.json"
     },
     {
       "igdb_id": 154987,
@@ -1118340,6 +1118575,11 @@
       "igdb_id": 12732,
       "game_name": "Star Wars: The Empire Strikes Back",
       "file": "missing/S/12732-star-wars-the-empire-strikes-back.json"
+    },
+    {
+      "igdb_id": 134209,
+      "game_name": "Star Wars: The Empire Strikes Back",
+      "file": "missing/S/134209-star-wars-the-empire-strikes-back.json"
     },
     {
       "igdb_id": 219021,
@@ -1227272,6 +1227512,11 @@
       "file": "missing/T/136334-the-legend-of-zelda-links-awakening-dreamer-edition.json"
     },
     {
+      "igdb_id": 134231,
+      "game_name": "The Legend of Zelda: Link's Awakening - Limited Edition",
+      "file": "missing/T/134231-the-legend-of-zelda-links-awakening-limited-edition.json"
+    },
+    {
       "igdb_id": 324008,
       "game_name": "The Legend of Zelda: Link's Awakening Coop",
       "file": "missing/T/324008-the-legend-of-zelda-links-awakening-coop.json"
@@ -1282215,6 +1282460,11 @@
       "igdb_id": 408897,
       "game_name": "Tom Clancy’s The Division 2: Into the Dark Bundle",
       "file": "missing/T/408897-tom-clancy-s-the-division-2-into-the-dark-bundle.json"
+    },
+    {
+      "igdb_id": 134236,
+      "game_name": "Tom Clancy's The Division 2: Limited Edition",
+      "file": "missing/T/134236-tom-clancys-the-division-2-limited-edition.json"
     },
     {
       "igdb_id": 377722,
