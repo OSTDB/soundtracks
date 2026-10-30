@@ -5632,6 +5632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alef's Blademaker: Arms Shop | 304244 | [304244-alefs-blademaker-arms-shop.json](./304244-alefs-blademaker-arms-shop.json) |
 | Alegraz | 391895 | [391895-alegraz.json](./391895-alegraz.json) |
 | Alehouse Tavern Simulator | 334489 | [334489-alehouse-tavern-simulator.json](./334489-alehouse-tavern-simulator.json) |
+| Alek: The Lost Kingdom | 161539 | [161539-alek-the-lost-kingdom.json](./161539-alek-the-lost-kingdom.json) |
 | Alekhine's Gun | 15691 | [15691-alekhines-gun.json](./15691-alekhines-gun.json) |
 | Alekon | 151066 | [151066-alekon.json](./151066-alekon.json) |
 | Alembix TCG | 424671 | [424671-alembix-tcg.json](./424671-alembix-tcg.json) |
