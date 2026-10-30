@@ -855,7 +855,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2739,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basic Nyuumon | 47549 | [47549-basic-nyuumon.json](./47549-basic-nyuumon.json) |
 | Basic Platformer | 305908 | [305908-basic-platformer.json](./305908-basic-platformer.json) |
 | Basic Programming | 54794 | [54794-basic-programming.json](./54794-basic-programming.json) |
+| Basic Rogue | 169029 | [169029-basic-rogue.json](./169029-basic-rogue.json) |
 | Basic Warfare | 127728 | [127728-basic-warfare.json](./127728-basic-warfare.json) |
 | Basics in Airport: Education & Learning | 107127 | [107127-basics-in-airport-education-and-learning.json](./107127-basics-in-airport-education-and-learning.json) |
 | Basics In Intermediate Filmmaking | 258898 | [258898-basics-in-intermediate-filmmaking.json](./258898-basics-in-intermediate-filmmaking.json) |
@@ -3747,9 +3747,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 3: Aftershock | 23916 | [23916-battlefield-3-aftershock.json](./23916-battlefield-3-aftershock.json) |
 | Battlefield 3: Limited Edition | 41891 | [41891-battlefield-3-limited-edition.json](./41891-battlefield-3-limited-edition.json) |
 | Battlefield 4: China Rising | 3091 | [3091-battlefield-4-china-rising.json](./3091-battlefield-4-china-rising.json) |
+| Battlefield 4: Community Operations | 169034 | [169034-battlefield-4-community-operations.json](./169034-battlefield-4-community-operations.json) |
 | Battlefield 4: Dragon's Teeth | 3095 | [3095-battlefield-4-dragons-teeth.json](./3095-battlefield-4-dragons-teeth.json) |
 | Battlefield 4: Final Stand | 3096 | [3096-battlefield-4-final-stand.json](./3096-battlefield-4-final-stand.json) |
+| Battlefield 4: Legacy Operations | 169033 | [169033-battlefield-4-legacy-operations.json](./169033-battlefield-4-legacy-operations.json) |
 | Battlefield 4: Limited Edition | 51530 | [51530-battlefield-4-limited-edition.json](./51530-battlefield-4-limited-edition.json) |
+| Battlefield 4: Night Operations | 169032 | [169032-battlefield-4-night-operations.json](./169032-battlefield-4-night-operations.json) |
 | Battlefield 4: Premium | 26098 | [26098-battlefield-4-premium.json](./26098-battlefield-4-premium.json) |
 | Battlefield 6 Season 1 | 375280 | [375280-battlefield-6-season-1.json](./375280-battlefield-6-season-1.json) |
 | Battlefield 6 Season 3 | 401295 | [401295-battlefield-6-season-3.json](./401295-battlefield-6-season-3.json) |
@@ -8716,6 +8719,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Master Zero | 27438 | [27438-blaster-master-zero.json](./27438-blaster-master-zero.json) |
 | Blaster Master Zero 2: Kanna Raising Simulator | 168165 | [168165-blaster-master-zero-2-kanna-raising-simulator.json](./168165-blaster-master-zero-2-kanna-raising-simulator.json) |
 | Blaster Master Zero II | 116416 | [116416-blaster-master-zero-ii.json](./116416-blaster-master-zero-ii.json) |
+| Blaster Master Zero II: Copen from "Luminous Avenger iX" | 169043 | [169043-blaster-master-zero-ii-copen-from-luminous-avenger-ix.json](./169043-blaster-master-zero-ii-copen-from-luminous-avenger-ix.json) |
+| Blaster Master Zero II: Empress from "Dragon Marked For Death" | 169044 | [169044-blaster-master-zero-ii-empress-from-dragon-marked-for-death.json](./169044-blaster-master-zero-ii-empress-from-dragon-marked-for-death.json) |
 | Blaster Master Zero III | 145058 | [145058-blaster-master-zero-iii.json](./145058-blaster-master-zero-iii.json) |
 | Blaster Master Zero Trilogy: MetaFight Chronicle - Limited Edition | 166977 | [166977-blaster-master-zero-trilogy-metafight-chronicle-limited-edition.json](./166977-blaster-master-zero-trilogy-metafight-chronicle-limited-edition.json) |
 | Blaster Master Zero: EX Character - Shantae | 171205 | [171205-blaster-master-zero-ex-character-shantae.json](./171205-blaster-master-zero-ex-character-shantae.json) |
