@@ -7827,6 +7827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed: The Mad Scientist | 113068 | [113068-greed-the-mad-scientist.json](./113068-greed-the-mad-scientist.json) |
 | Greed's Grub | 349365 | [349365-greeds-grub.json](./349365-greeds-grub.json) |
 | Greeded | 266606 | [266606-greeded.json](./266606-greeded.json) |
+| GreedFall: The De Vespe Conspiracy | 154771 | [154771-greedfall-the-de-vespe-conspiracy.json](./154771-greedfall-the-de-vespe-conspiracy.json) |
 | Greediest Landlord | 419164 | [419164-greediest-landlord.json](./419164-greediest-landlord.json) |
 | Greedland | 237194 | [237194-greedland.json](./237194-greedland.json) |
 | Greedling: 2D Boss Rush | 409409 | [409409-greedling-2d-boss-rush.json](./409409-greedling-2d-boss-rush.json) |
