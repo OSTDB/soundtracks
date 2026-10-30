@@ -2998,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emporea | 34091 | [34091-emporea.json](./34091-emporea.json) |
 | Emporium | 28593 | [28593-emporium.json](./28593-emporium.json) |
 | Empous | 373262 | [373262-empous.json](./373262-empous.json) |
+| Empower | 159478 | [159478-empower.json](./159478-empower.json) |
 | Empower Your Intent | 347188 | [347188-empower-your-intent.json](./347188-empower-your-intent.json) |
 | Empress of The Deep 2: Song of The Blue Whale | 17369 | [17369-empress-of-the-deep-2-song-of-the-blue-whale.json](./17369-empress-of-the-deep-2-song-of-the-blue-whale.json) |
 | Empress of the Deep 3: Legacy of the Phoenix | 294209 | [294209-empress-of-the-deep-3-legacy-of-the-phoenix.json](./294209-empress-of-the-deep-3-legacy-of-the-phoenix.json) |
@@ -3061,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | En Tactico | 96631 | [96631-en-tactico.json](./96631-en-tactico.json) |
 | En-Fem-E No. 9: Reborn | 195780 | [195780-en-fem-e-no-9-reborn.json](./195780-en-fem-e-no-9-reborn.json) |
 | En-Fem-E No. 9: The Factory | 288226 | [288226-en-fem-e-no-9-the-factory.json](./288226-en-fem-e-no-9-the-factory.json) |
+| En-Train | 159507 | [159507-en-train.json](./159507-en-train.json) |
 | Enadakina | 114251 | [114251-enadakina.json](./114251-enadakina.json) |
 | Enamel | 64137 | [64137-enamel.json](./64137-enamel.json) |
 | EnantiO | 206233 | [206233-enantio.json](./206233-enantio.json) |
@@ -3594,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engels met Rayman + Frans met Rayman | 193349 | [193349-engels-met-rayman-frans-met-rayman.json](./193349-engels-met-rayman-frans-met-rayman.json) |
 | Engie Benjy: Time for Teamwork! | 325255 | [325255-engie-benjy-time-for-teamwork.json](./325255-engie-benjy-time-for-teamwork.json) |
 | Engine Eternal | 347297 | [347297-engine-eternal.json](./347297-engine-eternal.json) |
+| Engine Evolution 2021 | 159523 | [159523-engine-evolution-2021.json](./159523-engine-evolution-2021.json) |
 | Engine Evolution 2022 | 197496 | [197496-engine-evolution-2022.json](./197496-engine-evolution-2022.json) |
 | Engine Evolution 2023 | 226808 | [226808-engine-evolution-2023.json](./226808-engine-evolution-2023.json) |
 | Engine of Chaos | 405866 | [405866-engine-of-chaos.json](./405866-engine-of-chaos.json) |
@@ -5250,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPNU College Town | 93571 | [93571-espnu-college-town.json](./93571-espnu-college-town.json) |
 | Esport Club Tycoon | 197370 | [197370-esport-club-tycoon.json](./197370-esport-club-tycoon.json) |
 | ESport Manager | 81150 | [81150-esport-manager.json](./81150-esport-manager.json) |
+| Esports Godfather | 159504 | [159504-esports-godfather.json](./159504-esports-godfather.json) |
 | Esports Godfather Origin | 282161 | [282161-esports-godfather-origin.json](./282161-esports-godfather-origin.json) |
 | ESports Hero | 335458 | [335458-esports-hero.json](./335458-esports-hero.json) |
 | Esports Heroes | 259639 | [259639-esports-heroes.json](./259639-esports-heroes.json) |
