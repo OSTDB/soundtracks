@@ -1995,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasard | 264512 | [264512-wasard.json](./264512-wasard.json) |
 | WASD Quartet | 216840 | [216840-wasd-quartet.json](./216840-wasd-quartet.json) |
 | WASD: The Adventure of Tori | 358333 | [358333-wasd-the-adventure-of-tori.json](./358333-wasd-the-adventure-of-tori.json) |
+| WASDead: Complete Edition | 126766 | [126766-wasdead-complete-edition.json](./126766-wasdead-complete-edition.json) |
 | WASDJK | 311198 | [311198-wasdjk.json](./311198-wasdjk.json) |
 | Wash & Warm | 390728 | [390728-wash-and-warm.json](./390728-wash-and-warm.json) |
 | Wash Card | 223705 | [223705-wash-card.json](./223705-wash-card.json) |
@@ -6356,6 +6357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfstride | 134952 | [134952-wolfstride.json](./134952-wolfstride.json) |
 | WolfTeam: Classic | 395375 | [395375-wolfteam-classic.json](./395375-wolfteam-classic.json) |
 | Wolfteam: Reboot | 236760 | [236760-wolfteam-reboot.json](./236760-wolfteam-reboot.json) |
+| Wolfthorn | 126801 | [126801-wolfthorn.json](./126801-wolfthorn.json) |
 | WolfWars | 10498 | [10498-wolfwars.json](./10498-wolfwars.json) |
 | Wolfy | 131354 | [131354-wolfy.json](./131354-wolfy.json) |
 | Wolley's Dungeon Adventure | 361872 | [361872-wolleys-dungeon-adventure.json](./361872-wolleys-dungeon-adventure.json) |
