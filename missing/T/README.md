@@ -14536,6 +14536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Severed Gods | 370921 | [370921-the-severed-gods.json](./370921-the-severed-gods.json) |
 | The Sewer Goblet: The Wu-Tang Clan and the Wu-Tang Baby | 93504 | [93504-the-sewer-goblet-the-wu-tang-clan-and-the-wu-tang-baby.json](./93504-the-sewer-goblet-the-wu-tang-clan-and-the-wu-tang-baby.json) |
 | The Sewer Job | 240669 | [240669-the-sewer-job.json](./240669-the-sewer-job.json) |
+| The Sewers | 149797 | [149797-the-sewers.json](./149797-the-sewers.json) |
 | The Sewers of D'Sparil | 268467 | [268467-the-sewers-of-dsparil.json](./268467-the-sewers-of-dsparil.json) |
 | The Sex Adventures of a Gladiator | 367766 | [367766-the-sex-adventures-of-a-gladiator.json](./367766-the-sex-adventures-of-a-gladiator.json) |
 | The Sexorcist | 211723 | [211723-the-sexorcist.json](./211723-the-sexorcist.json) |
@@ -24676,6 +24677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy'sMarch2 | 314337 | [314337-toysmarch2.json](./314337-toysmarch2.json) |
 | Toya | 404934 | [404934-toya.json](./404934-toya.json) |
 | Toybit Quest | 104039 | [104039-toybit-quest.json](./104039-toybit-quest.json) |
+| Toybox | 149792 | [149792-toybox.json](./149792-toybox.json) |
 | Toybox | 184645 | [184645-toybox.json](./184645-toybox.json) |
 | Toybox | 209423 | [209423-toybox.json](./209423-toybox.json) |
 | Toybox | 271305 | [271305-toybox.json](./271305-toybox.json) |
