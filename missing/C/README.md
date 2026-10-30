@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: League - Vegas Legion Team Pack 2024 | 281942 | [281942-call-of-duty-league-vegas-legion-team-pack-2024.json](./281942-call-of-duty-league-vegas-legion-team-pack-2024.json) |
 | Call of Duty: Legacy | 294560 | [294560-call-of-duty-legacy.json](./294560-call-of-duty-legacy.json) |
 | Call of Duty: Legends of War | 113383 | [113383-call-of-duty-legends-of-war.json](./113383-call-of-duty-legends-of-war.json) |
+| Call of Duty: Modern Warfare - Dark Edition | 134229 | [134229-call-of-duty-modern-warfare-dark-edition.json](./134229-call-of-duty-modern-warfare-dark-edition.json) |
 | Call of Duty: Modern Warfare - Mobilized | 21198 | [21198-call-of-duty-modern-warfare-mobilized.json](./21198-call-of-duty-modern-warfare-mobilized.json) |
 | Call of Duty: Modern Warfare - Precision Edition | 136342 | [136342-call-of-duty-modern-warfare-precision-edition.json](./136342-call-of-duty-modern-warfare-precision-edition.json) |
 | Call of Duty: Modern Warfare - Reflex Edition | 21199 | [21199-call-of-duty-modern-warfare-reflex-edition.json](./21199-call-of-duty-modern-warfare-reflex-edition.json) |
@@ -6243,6 +6244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Survivor Weather Lord - Survival | 89189 | [89189-chibi-survivor-weather-lord-survival.json](./89189-chibi-survivor-weather-lord-survival.json) |
 | Chibi Town | 395539 | [395539-chibi-town.json](./395539-chibi-town.json) |
 | Chibi Volleyball | 119824 | [119824-chibi-volleyball.json](./119824-chibi-volleyball.json) |
+| Chibi-Robo! | 134255 | [134255-chibi-robo.json](./134255-chibi-robo.json) |
 | Chibi-Robo! | 3856 | [3856-chibi-robo.json](./3856-chibi-robo.json) |
 | Chibi-Robo!: Photo Finder | 23516 | [23516-chibi-robo-photo-finder.json](./23516-chibi-robo-photo-finder.json) |
 | Chibikko Club | 289737 | [289737-chibikko-club.json](./289737-chibikko-club.json) |
@@ -9989,6 +9991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Trainer | 338871 | [338871-code-trainer.json](./338871-code-trainer.json) |
 | Code Tycoon | 397058 | [397058-code-tycoon.json](./397058-code-tycoon.json) |
 | Code UltraViolet | 406864 | [406864-code-ultraviolet.json](./406864-code-ultraviolet.json) |
+| Code Vein: Blood Thirst Edition | 134244 | [134244-code-vein-blood-thirst-edition.json](./134244-code-vein-blood-thirst-edition.json) |
 | Code Vein: Collector's Edition | 103212 | [103212-code-vein-collectors-edition.json](./103212-code-vein-collectors-edition.json) |
 | Code Vein: Hellfire Knight | 129134 | [129134-code-vein-hellfire-knight.json](./129134-code-vein-hellfire-knight.json) |
 | Code Vein: Lord of Thunder | 131954 | [131954-code-vein-lord-of-thunder.json](./131954-code-vein-lord-of-thunder.json) |
