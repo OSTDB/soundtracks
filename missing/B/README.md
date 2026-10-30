@@ -10193,6 +10193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons Player Pack 4 | 335454 | [335454-bloons-player-pack-4.json](./335454-bloons-player-pack-4.json) |
 | Bloons Player Pack 5 | 335450 | [335450-bloons-player-pack-5.json](./335450-bloons-player-pack-5.json) |
 | Bloons Pop 3 | 375393 | [375393-bloons-pop-3.json](./375393-bloons-pop-3.json) |
+| Bloons Pop! | 163140 | [163140-bloons-pop.json](./163140-bloons-pop.json) |
 | Bloons Super Monkey | 63400 | [63400-bloons-super-monkey.json](./63400-bloons-super-monkey.json) |
 | Bloons Super Monkey 2 | 63399 | [63399-bloons-super-monkey-2.json](./63399-bloons-super-monkey-2.json) |
 | Bloons Supermonkey 2 | 247123 | [247123-bloons-supermonkey-2.json](./247123-bloons-supermonkey-2.json) |
