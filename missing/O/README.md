@@ -1332,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Time Hockey | 85318 | [85318-old-time-hockey.json](./85318-old-time-hockey.json) |
 | Old Timer Transport | 332371 | [332371-old-timer-transport.json](./332371-old-timer-transport.json) |
 | Old Times | 294169 | [294169-old-times.json](./294169-old-times.json) |
+| Old Tower | 163111 | [163111-old-tower.json](./163111-old-tower.json) |
 | Old Towers | 126017 | [126017-old-towers.json](./126017-old-towers.json) |
 | Old Town Bus Simulator | 250959 | [250959-old-town-bus-simulator.json](./250959-old-town-bus-simulator.json) |
 | Old Town Stories | 127008 | [127008-old-town-stories.json](./127008-old-town-stories.json) |
