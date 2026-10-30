@@ -3186,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Usurper Ghoul | 316688 | [316688-usurper-ghoul.json](./316688-usurper-ghoul.json) |
 | Usurper of Fire | 408035 | [408035-usurper-of-fire.json](./408035-usurper-of-fire.json) |
 | Usurper Reborn | 400414 | [400414-usurper-reborn.json](./400414-usurper-reborn.json) |
+| Usurper: Soulbound | 156815 | [156815-usurper-soulbound.json](./156815-usurper-soulbound.json) |
 | UT Adventure | 294861 | [294861-ut-adventure.json](./294861-ut-adventure.json) |
 | UT Realms Reborn | 122992 | [122992-ut-realms-reborn.json](./122992-ut-realms-reborn.json) |
 | Ut: Kissy Cutie | 179615 | [179615-ut-kissy-cutie.json](./179615-ut-kissy-cutie.json) |
