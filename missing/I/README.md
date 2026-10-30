@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love You, Colonel Sanders! A Finger Lickin' Good Dating Simulator | 122318 | [122318-i-love-you-colonel-sanders-a-finger-lickin-good-dating-simulator.json](./122318-i-love-you-colonel-sanders-a-finger-lickin-good-dating-simulator.json) |
 | I Ludicrus | 14987 | [14987-i-ludicrus.json](./14987-i-ludicrus.json) |
 | I Luv House Pets | 210081 | [210081-i-luv-house-pets.json](./210081-i-luv-house-pets.json) |
+| I made a ... | 158368 | [158368-i-made-a.json](./158368-i-made-a.json) |
 | I Made A Contract with 3 Cute Devils?! | 206949 | [206949-i-made-a-contract-with-3-cute-devils.json](./206949-i-made-a-contract-with-3-cute-devils.json) |
 | I Made a Game with Zombies in It! | 94033 | [94033-i-made-a-game-with-zombies-in-it.json](./94033-i-made-a-game-with-zombies-in-it.json) |
 | I Made Her Up | 374673 | [374673-i-made-her-up.json](./374673-i-made-her-up.json) |
@@ -1583,6 +1584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Janshi Suchie-Pai: Milky no Yabou | 299296 | [299296-idol-janshi-suchie-pai-milky-no-yabou.json](./299296-idol-janshi-suchie-pai-milky-no-yabou.json) |
 | Idol Janshi Suchie-Pai: Saturn Tribute - Limited Edition | 233951 | [233951-idol-janshi-suchie-pai-saturn-tribute-limited-edition.json](./233951-idol-janshi-suchie-pai-saturn-tribute-limited-edition.json) |
 | Idol Janshi wo Tsukucchaou | 92138 | [92138-idol-janshi-wo-tsukucchaou.json](./92138-idol-janshi-wo-tsukucchaou.json) |
+| Idol Keeper | 158339 | [158339-idol-keeper.json](./158339-idol-keeper.json) |
 | Idol Kingdom | 405517 | [405517-idol-kingdom.json](./405517-idol-kingdom.json) |
 | Idol Land PriPara | 266402 | [266402-idol-land-pripara.json](./266402-idol-land-pripara.json) |
 | Idol Magical Girl Chiru Chiru Michiru Part 1 | 35042 | [35042-idol-magical-girl-chiru-chiru-michiru-part-1.json](./35042-idol-magical-girl-chiru-chiru-michiru-part-1.json) |
