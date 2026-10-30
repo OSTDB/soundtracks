@@ -3674,7 +3674,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeve:Zero Gravity | 83540 | [83540-aeve-zero-gravity.json](./83540-aeve-zero-gravity.json) |
 | Aevitas | 262227 | [262227-aevitas.json](./262227-aevitas.json) |
 | Aevumblade Chronicles | 219686 | [219686-aevumblade-chronicles.json](./219686-aevumblade-chronicles.json) |
+| AEW Casino: Double or Nothing | 145214 | [145214-aew-casino-double-or-nothing.json](./145214-aew-casino-double-or-nothing.json) |
 | AEW Elite General Manager | 150024 | [150024-aew-elite-general-manager.json](./150024-aew-elite-general-manager.json) |
+| AEW Elite GM | 145215 | [145215-aew-elite-gm.json](./145215-aew-elite-gm.json) |
 | AEW: Fight Forever | 145216 | [145216-aew-fight-forever.json](./145216-aew-fight-forever.json) |
 | AEW: Fight Forever - All Season Pass Bundle | 312091 | [312091-aew-fight-forever-all-season-pass-bundle.json](./312091-aew-fight-forever-all-season-pass-bundle.json) |
 | AEW: Fight Forever - Bring the Boom Edition | 279885 | [279885-aew-fight-forever-bring-the-boom-edition.json](./279885-aew-fight-forever-bring-the-boom-edition.json) |
