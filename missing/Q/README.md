@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarantine Lockdown Simulator: Zombie Border | 366217 | [366217-quarantine-lockdown-simulator-zombie-border.json](./366217-quarantine-lockdown-simulator-zombie-border.json) |
 | Quarantine Market Simulator | 399218 | [399218-quarantine-market-simulator.json](./399218-quarantine-market-simulator.json) |
 | Quarantine Run | 155999 | [155999-quarantine-run.json](./155999-quarantine-run.json) |
+| Quarantine Simulator | 171736 | [171736-quarantine-simulator.json](./171736-quarantine-simulator.json) |
 | Quarantine Wing: Horror | 412571 | [412571-quarantine-wing-horror.json](./412571-quarantine-wing-horror.json) |
 | Quarantine Zombies | 373349 | [373349-quarantine-zombies.json](./373349-quarantine-zombies.json) |
 | Quarantine Zone: The Last Check | 342760 | [342760-quarantine-zone-the-last-check.json](./342760-quarantine-zone-the-last-check.json) |
