@@ -1245,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Message | 316160 | [316160-last-message.json](./316160-last-message.json) |
 | Last Message Plus | 316173 | [316173-last-message-plus.json](./316173-last-message-plus.json) |
 | Last Mind Standing | 318445 | [318445-last-mind-standing.json](./318445-last-mind-standing.json) |
+| Last Minute | 172931 | [172931-last-minute.json](./172931-last-minute.json) |
 | Last Minute | 267018 | [267018-last-minute.json](./267018-last-minute.json) |
 | Last Minute Love | 177908 | [177908-last-minute-love.json](./177908-last-minute-love.json) |
 | Last Minute Shopping | 278544 | [278544-last-minute-shopping.json](./278544-last-minute-shopping.json) |
@@ -1632,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Game Jigsaw | 340905 | [340905-lawnmower-game-jigsaw.json](./340905-lawnmower-game-jigsaw.json) |
 | Lawnmower Game Racing 2: Drunken | 340906 | [340906-lawnmower-game-racing-2-drunken.json](./340906-lawnmower-game-racing-2-drunken.json) |
 | Lawnmower Game: 2024 | 340904 | [340904-lawnmower-game-2024.json](./340904-lawnmower-game-2024.json) |
+| Lawnmower Game: Battle | 172930 | [172930-lawnmower-game-battle.json](./172930-lawnmower-game-battle.json) |
 | Lawnmower Game: Mission X | 368655 | [368655-lawnmower-game-mission-x.json](./368655-lawnmower-game-mission-x.json) |
 | Lawnmower Game: Mortal Race | 202657 | [202657-lawnmower-game-mortal-race.json](./202657-lawnmower-game-mortal-race.json) |
 | Lawnmower Game: Next Generation | 147735 | [147735-lawnmower-game-next-generation.json](./147735-lawnmower-game-next-generation.json) |
@@ -2489,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Tales V: Price of Power - Collector's Edition | 416783 | [416783-legendary-tales-v-price-of-power-collectors-edition.json](./416783-legendary-tales-v-price-of-power-collectors-edition.json) |
 | Legendary Tales: Cataclysm | 186322 | [186322-legendary-tales-cataclysm.json](./186322-legendary-tales-cataclysm.json) |
 | Legendary Tales: Dawn of History | 413598 | [413598-legendary-tales-dawn-of-history.json](./413598-legendary-tales-dawn-of-history.json) |
+| Legendary Tales: Stolen Life | 172944 | [172944-legendary-tales-stolen-life.json](./172944-legendary-tales-stolen-life.json) |
 | Legendary Tales: Stories | 287165 | [287165-legendary-tales-stories.json](./287165-legendary-tales-stories.json) |
 | Legendary Tomb Digger | 357036 | [357036-legendary-tomb-digger.json](./357036-legendary-tomb-digger.json) |
 | Legendary Wars | 63233 | [63233-legendary-wars.json](./63233-legendary-wars.json) |
@@ -3165,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lesbian Voyeur Simulator | 367204 | [367204-lesbian-voyeur-simulator.json](./367204-lesbian-voyeur-simulator.json) |
 | Lesbian Voyeur Simulator 2 | 196128 | [196128-lesbian-voyeur-simulator-2.json](./196128-lesbian-voyeur-simulator-2.json) |
 | LesbiAnts | 291593 | [291593-lesbiants.json](./291593-lesbiants.json) |
+| Leshy | 172933 | [172933-leshy.json](./172933-leshy.json) |
 | Leshy Prelude | 321117 | [321117-leshy-prelude.json](./321117-leshy-prelude.json) |
 | Leslie | 411993 | [411993-leslie.json](./411993-leslie.json) |
 | Leslie & Brianne's Galactic Rampage | 353374 | [353374-leslie-and-briannes-galactic-rampage.json](./353374-leslie-and-briannes-galactic-rampage.json) |
