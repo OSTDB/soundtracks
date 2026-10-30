@@ -4183,10 +4183,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Star Interceptor | 45334 | [45334-death-star-interceptor.json](./45334-death-star-interceptor.json) |
 | Death Star Prison Break | 178618 | [178618-death-star-prison-break.json](./178618-death-star-prison-break.json) |
 | Death Stare | 176220 | [176220-death-stare.json](./176220-death-stare.json) |
+| Death Stranding: Collector's Edition | 134230 | [134230-death-stranding-collectors-edition.json](./134230-death-stranding-collectors-edition.json) |
 | Death Stranding: Digital Deluxe Edition | 136160 | [136160-death-stranding-digital-deluxe-edition.json](./136160-death-stranding-digital-deluxe-edition.json) |
 | Death Stranding: Director's Cut | 152063 | [152063-death-stranding-directors-cut.json](./152063-death-stranding-directors-cut.json) |
 | Death Stranding: Director's Cut - Digital Deluxe Edition | 407589 | [407589-death-stranding-directors-cut-digital-deluxe-edition.json](./407589-death-stranding-directors-cut-digital-deluxe-edition.json) |
 | Death Stranding: Higgs Variant | 386264 | [386264-death-stranding-higgs-variant.json](./386264-death-stranding-higgs-variant.json) |
+| Death Stranding: Special Edition | 134232 | [134232-death-stranding-special-edition.json](./134232-death-stranding-special-edition.json) |
 | Death Stream | 335121 | [335121-death-stream.json](./335121-death-stream.json) |
 | Death Strike | 182918 | [182918-death-strike.json](./182918-death-strike.json) |
 | Death Swap: End As One | 231350 | [231350-death-swap-end-as-one.json](./231350-death-swap-end-as-one.json) |
@@ -8713,6 +8715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Museum | 378176 | [378176-dinosaur-museum.json](./378176-dinosaur-museum.json) |
 | Dinosaur Park | 56458 | [56458-dinosaur-park.json](./56458-dinosaur-park.json) |
 | Dinosaur Park Building Simulator 3D | 99136 | [99136-dinosaur-park-building-simulator-3d.json](./99136-dinosaur-park-building-simulator-3d.json) |
+| Dinosaur Planet | 134251 | [134251-dinosaur-planet.json](./134251-dinosaur-planet.json) |
 | Dinosaur Planet: Recompiled | 343047 | [343047-dinosaur-planet-recompiled.json](./343047-dinosaur-planet-recompiled.json) |
 | Dinosaur Predators | 73584 | [73584-dinosaur-predators.json](./73584-dinosaur-predators.json) |
 | Dinosaur Puzzle | 222269 | [222269-dinosaur-puzzle.json](./222269-dinosaur-puzzle.json) |
@@ -9422,6 +9425,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's A Bug's Life: Active Play | 215088 | [215088-disneys-a-bugs-life-active-play.json](./215088-disneys-a-bugs-life-active-play.json) |
 | Disney's A Christmas Carol | 21086 | [21086-disneys-a-christmas-carol.json](./21086-disneys-a-christmas-carol.json) |
 | Disney's Active Play: The Lion King II - Simba's Pride | 202089 | [202089-disneys-active-play-the-lion-king-ii-simbas-pride.json](./202089-disneys-active-play-the-lion-king-ii-simbas-pride.json) |
+| Disney's Activity Center: Aladdin | 134223 | [134223-disneys-activity-center-aladdin.json](./134223-disneys-activity-center-aladdin.json) |
+| Disney's Activity Center: The Lion King | 134216 | [134216-disneys-activity-center-the-lion-king.json](./134216-disneys-activity-center-the-lion-king.json) |
 | Disney's Activity Center: Winnie the Pooh | 209035 | [209035-disneys-activity-center-winnie-the-pooh.json](./209035-disneys-activity-center-winnie-the-pooh.json) |
 | Disney's Adventures in Typing with Timon & Pumbaa | 167278 | [167278-disneys-adventures-in-typing-with-timon-and-pumbaa.json](./167278-disneys-adventures-in-typing-with-timon-and-pumbaa.json) |
 | Disney's Aladdin | 106270 | [106270-disneys-aladdin.json](./106270-disneys-aladdin.json) |
@@ -9433,6 +9438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's American Dragon Jake Long: Rise of the Huntsclan! | 49410 | [49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json](./49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json) |
 | Disney's American Dragon: Jake Long - Attack of the Dark Dragon | 8464 | [8464-disneys-american-dragon-jake-long-attack-of-the-dark-dragon.json](./8464-disneys-american-dragon-jake-long-attack-of-the-dark-dragon.json) |
 | Disney's Animated Storybook: 101 Dalmatians | 204394 | [204394-disneys-animated-storybook-101-dalmatians.json](./204394-disneys-animated-storybook-101-dalmatians.json) |
+| Disney's Animated Storybook: Pocahontas | 134224 | [134224-disneys-animated-storybook-pocahontas.json](./134224-disneys-animated-storybook-pocahontas.json) |
 | Disney's Animated Storybook: The Hunchback of Notre Dame | 202148 | [202148-disneys-animated-storybook-the-hunchback-of-notre-dame.json](./202148-disneys-animated-storybook-the-hunchback-of-notre-dame.json) |
 | Disney's Animated Storybook: The Lion King | 214616 | [214616-disneys-animated-storybook-the-lion-king.json](./214616-disneys-animated-storybook-the-lion-king.json) |
 | Disney's Animated Storybook: Toy Story | 239203 | [239203-disneys-animated-storybook-toy-story.json](./239203-disneys-animated-storybook-toy-story.json) |
@@ -13135,6 +13141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot - A New Power Awakens: Part 1 | 132643 | [132643-dragon-ball-z-kakarot-a-new-power-awakens-part-1.json](./132643-dragon-ball-z-kakarot-a-new-power-awakens-part-1.json) |
 | Dragon Ball Z: Kakarot - A New Power Awakens: Part 2 | 141042 | [141042-dragon-ball-z-kakarot-a-new-power-awakens-part-2.json](./141042-dragon-ball-z-kakarot-a-new-power-awakens-part-2.json) |
 | Dragon Ball Z: Kakarot - Bardock: Alone Against Fate | 227674 | [227674-dragon-ball-z-kakarot-bardock-alone-against-fate.json](./227674-dragon-ball-z-kakarot-bardock-alone-against-fate.json) |
+| Dragon Ball Z: Kakarot - Collector's Edition | 134228 | [134228-dragon-ball-z-kakarot-collectors-edition.json](./134228-dragon-ball-z-kakarot-collectors-edition.json) |
 | Dragon Ball Z: Kakarot - Daima Edition | 386957 | [386957-dragon-ball-z-kakarot-daima-edition.json](./386957-dragon-ball-z-kakarot-daima-edition.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Bonus Pack | 333619 | [333619-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-bonus-pack.json](./333619-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-bonus-pack.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Pack | 333616 | [333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json](./333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json) |
@@ -13532,6 +13539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest X: Nemureru Yuusha to Michibiki no Meiyuu Online | 203731 | [203731-dragon-quest-x-nemureru-yuusha-to-michibiki-no-meiyuu-online.json](./203731-dragon-quest-x-nemureru-yuusha-to-michibiki-no-meiyuu-online.json) |
 | Dragon Quest X: Tensei no Eiyuu-tachi Online | 159205 | [159205-dragon-quest-x-tensei-no-eiyuu-tachi-online.json](./159205-dragon-quest-x-tensei-no-eiyuu-tachi-online.json) |
 | Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition | 110069 | [110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json](./110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json) |
+| Dragon Quest XI S: Echoes of an Elusive Age - Gorgeous Edition | 134248 | [134248-dragon-quest-xi-s-echoes-of-an-elusive-age-gorgeous-edition.json](./134248-dragon-quest-xi-s-echoes-of-an-elusive-age-gorgeous-edition.json) |
 | Dragon Quest XI: Echoes of an Elusive Age | 11667 | [11667-dragon-quest-xi-echoes-of-an-elusive-age.json](./11667-dragon-quest-xi-echoes-of-an-elusive-age.json) |
 | Dragon Quest XI: Echoes of an Elusive Age S - Ultimate Edition | 313423 | [313423-dragon-quest-xi-echoes-of-an-elusive-age-s-ultimate-edition.json](./313423-dragon-quest-xi-echoes-of-an-elusive-age-s-ultimate-edition.json) |
 | Dragon Quest XII: Beyond Dreams | 149978 | [149978-dragon-quest-xii-beyond-dreams.json](./149978-dragon-quest-xii-beyond-dreams.json) |
@@ -15231,6 +15239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop the Number | 216214 | [216214-drop-the-number.json](./216214-drop-the-number.json) |
 | Drop Up | 106497 | [106497-drop-up.json](./106497-drop-up.json) |
 | Drop Up | 178935 | [178935-drop-up.json](./178935-drop-up.json) |
+| Drop Wizard | 134238 | [134238-drop-wizard.json](./134238-drop-wizard.json) |
 | Drop Wizard Tower | 254959 | [254959-drop-wizard-tower.json](./254959-drop-wizard-tower.json) |
 | Drop Zone | 46600 | [46600-drop-zone.json](./46600-drop-zone.json) |
 | Drop Zone 4 | 109590 | [109590-drop-zone-4.json](./109590-drop-zone-4.json) |
