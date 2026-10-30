@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landfall Archives | 243542 | [243542-landfall-archives.json](./243542-landfall-archives.json) |
 | Landgrabbers | 95683 | [95683-landgrabbers.json](./95683-landgrabbers.json) |
 | Landinar: Into the Void | 99162 | [99162-landinar-into-the-void.json](./99162-landinar-into-the-void.json) |
+| Landing | 157863 | [157863-landing.json](./157863-landing.json) |
 | Landing | 330670 | [330670-landing.json](./330670-landing.json) |
 | Landing Gear | 209260 | [209260-landing-gear.json](./209260-landing-gear.json) |
 | Landing Hero: Haneda x 787 | 199108 | [199108-landing-hero-haneda-x-787.json](./199108-landing-hero-haneda-x-787.json) |
@@ -5263,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Fighter 2 | 8700 | [8700-little-fighter-2.json](./8700-little-fighter-2.json) |
 | Little Fighter Online | 79905 | [79905-little-fighter-online.json](./79905-little-fighter-online.json) |
 | Little Fighters on Stream | 146528 | [146528-little-fighters-on-stream.json](./146528-little-fighters-on-stream.json) |
+| Little Fire Girl | 157825 | [157825-little-fire-girl.json](./157825-little-fire-girl.json) |
 | Little Fire Girl Fights Final Boss | 298673 | [298673-little-fire-girl-fights-final-boss.json](./298673-little-fire-girl-fights-final-boss.json) |
 | Little Fish Seek to Live On | 370189 | [370189-little-fish-seek-to-live-on.json](./370189-little-fish-seek-to-live-on.json) |
 | Little Fish Swims On | 311213 | [311213-little-fish-swims-on.json](./311213-little-fish-swims-on.json) |
