@@ -3465,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Scrap | 303466 | [303466-dead-scrap.json](./303466-dead-scrap.json) |
 | Dead Sea | 25514 | [25514-dead-sea.json](./25514-dead-sea.json) |
 | Dead Season | 295207 | [295207-dead-season.json](./295207-dead-season.json) |
+| Dead Seater | 145174 | [145174-dead-seater.json](./145174-dead-seater.json) |
 | Dead Second | 216300 | [216300-dead-second.json](./216300-dead-second.json) |
 | Dead Secret | 14403 | [14403-dead-secret.json](./14403-dead-secret.json) |
 | Dead Secret Circle | 99822 | [99822-dead-secret-circle.json](./99822-dead-secret-circle.json) |
@@ -9486,6 +9487,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Stitch: Experiment 626 | 25911 | [25911-disneys-stitch-experiment-626.json](./25911-disneys-stitch-experiment-626.json) |
 | Disney's Story Studio: Disney's Mulan | 44839 | [44839-disneys-story-studio-disneys-mulan.json](./44839-disneys-story-studio-disneys-mulan.json) |
 | Disney's TaleSpin | 138106 | [138106-disneys-talespin.json](./138106-disneys-talespin.json) |
+| Disney's TaleSpin | 145181 | [145181-disneys-talespin.json](./145181-disneys-talespin.json) |
+| Disney's TaleSpin | 145182 | [145182-disneys-talespin.json](./145182-disneys-talespin.json) |
 | Disney's TaleSpin | 198936 | [198936-disneys-talespin.json](./198936-disneys-talespin.json) |
 | Disney's TaleSpin | 8067 | [8067-disneys-talespin.json](./8067-disneys-talespin.json) |
 | Disney's Tarzan | 116135 | [116135-disneys-tarzan.json](./116135-disneys-tarzan.json) |
