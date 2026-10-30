@@ -1846,6 +1846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmony | 260660 | [260660-harmony.json](./260660-harmony.json) |
 | Harmony | 266397 | [266397-harmony.json](./266397-harmony.json) |
 | Harmony | 371452 | [371452-harmony.json](./371452-harmony.json) |
+| Harmony 2 | 175050 | [175050-harmony-2.json](./175050-harmony-2.json) |
 | Harmony in the Wild | 346717 | [346717-harmony-in-the-wild.json](./346717-harmony-in-the-wild.json) |
 | Harmony of Fear | 337207 | [337207-harmony-of-fear.json](./337207-harmony-of-fear.json) |
 | Harmony Overture | 199997 | [199997-harmony-overture.json](./199997-harmony-overture.json) |
@@ -10556,6 +10557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt & Score | 40585 | [40585-hunt-and-score.json](./40585-hunt-and-score.json) |
 | Hunt & Seek | 224042 | [224042-hunt-and-seek.json](./224042-hunt-and-seek.json) |
 | Hunt and Fight | 291223 | [291223-hunt-and-fight.json](./291223-hunt-and-fight.json) |
+| Hunt and Hide | 175017 | [175017-hunt-and-hide.json](./175017-hunt-and-hide.json) |
 | Hunt and Snare | 111269 | [111269-hunt-and-snare.json](./111269-hunt-and-snare.json) |
 | Hunt Arena: Fire Battle Royale | 260710 | [260710-hunt-arena-fire-battle-royale.json](./260710-hunt-arena-fire-battle-royale.json) |
 | Hunt Asylum Together | 406702 | [406702-hunt-asylum-together.json](./406702-hunt-asylum-together.json) |
