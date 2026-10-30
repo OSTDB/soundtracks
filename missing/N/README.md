@@ -4395,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
 | Nine Men's Morris Multiplayer | 351063 | [351063-nine-mens-morris-multiplayer.json](./351063-nine-mens-morris-multiplayer.json) |
 | Nine Nights: Martial Ci Lang Story | 300857 | [300857-nine-nights-martial-ci-lang-story.json](./300857-nine-nights-martial-ci-lang-story.json) |
+| Nine of Wands | 163106 | [163106-nine-of-wands.json](./163106-nine-of-wands.json) |
 | Nine Paradise: The Origin | 253349 | [253349-nine-paradise-the-origin.json](./253349-nine-paradise-the-origin.json) |
 | Nine Princes in Amber | 15271 | [15271-nine-princes-in-amber.json](./15271-nine-princes-in-amber.json) |
 | Nine Prophets: The Abyss | 379092 | [379092-nine-prophets-the-abyss.json](./379092-nine-prophets-the-abyss.json) |
