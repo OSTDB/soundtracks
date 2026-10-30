@@ -3041,6 +3041,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fault Milestone One | 10528 | [10528-fault-milestone-one.json](./10528-fault-milestone-one.json) |
 | Fault Milestone Two Side: Above | 35883 | [35883-fault-milestone-two-side-above.json](./35883-fault-milestone-two-side-above.json) |
 | Fault: Broken Promises | 336619 | [336619-fault-broken-promises.json](./336619-fault-broken-promises.json) |
+| Faulty Apprentice: Bunny Rabbit Rescue | 170697 | [170697-faulty-apprentice-bunny-rabbit-rescue.json](./170697-faulty-apprentice-bunny-rabbit-rescue.json) |
+| Faulty Apprentice: Escape from Borg Mountain | 170695 | [170695-faulty-apprentice-escape-from-borg-mountain.json](./170695-faulty-apprentice-escape-from-borg-mountain.json) |
+| Faulty Apprentice: Palm Tree Paradise | 170696 | [170696-faulty-apprentice-palm-tree-paradise.json](./170696-faulty-apprentice-palm-tree-paradise.json) |
+| Faulty Apprentice: Rose Tournament | 170694 | [170694-faulty-apprentice-rose-tournament.json](./170694-faulty-apprentice-rose-tournament.json) |
 | Faulty Soul | 180429 | [180429-faulty-soul.json](./180429-faulty-soul.json) |
 | Faun Air | 151279 | [151279-faun-air.json](./151279-faun-air.json) |
 | Fauna | 376503 | [376503-fauna.json](./376503-fauna.json) |
@@ -7409,6 +7413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Garden | 346057 | [346057-flower-garden.json](./346057-flower-garden.json) |
 | Flower Garden Tycoon | 146732 | [146732-flower-garden-tycoon.json](./146732-flower-garden-tycoon.json) |
 | Flower Garden: Connect Mania | 232485 | [232485-flower-garden-connect-mania.json](./232485-flower-garden-connect-mania.json) |
+| Flower girl | 170679 | [170679-flower-girl.json](./170679-flower-girl.json) |
 | Flower Girl 2 | 209340 | [209340-flower-girl-2.json](./209340-flower-girl-2.json) |
 | Flower Girl Adventure | 322547 | [322547-flower-girl-adventure.json](./322547-flower-girl-adventure.json) |
 | Flower in the Snow: Resurrection | 164998 | [164998-flower-in-the-snow-resurrection.json](./164998-flower-in-the-snow-resurrection.json) |
@@ -8288,6 +8293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football VR | 32092 | [32092-football-vr.json](./32092-football-vr.json) |
 | Football, Tactics & Glory | 35091 | [35091-football-tactics-and-glory.json](./35091-football-tactics-and-glory.json) |
 | Football, Tactics & Glory 2 | 258555 | [258555-football-tactics-and-glory-2.json](./258555-football-tactics-and-glory-2.json) |
+| Football, Tactics & Glory: Football Stars | 170718 | [170718-football-tactics-and-glory-football-stars.json](./170718-football-tactics-and-glory-football-stars.json) |
 | Football, Tactics & Glory: Manager's Journey | 192149 | [192149-football-tactics-and-glory-managers-journey.json](./192149-football-tactics-and-glory-managers-journey.json) |
 | Football: Breakthrough Gaming Arcade | 145489 | [145489-football-breakthrough-gaming-arcade.json](./145489-football-breakthrough-gaming-arcade.json) |
 | Football: The Beautiful Game | 257008 | [257008-football-the-beautiful-game.json](./257008-football-the-beautiful-game.json) |
@@ -9874,6 +9880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Sanity | 199303 | [199303-fractured-sanity.json](./199303-fractured-sanity.json) |
 | Fractured Skyline | 116426 | [116426-fractured-skyline.json](./116426-fractured-skyline.json) |
 | Fractured Space | 9815 | [9815-fractured-space.json](./9815-fractured-space.json) |
+| Fractured Space: Fleet Pack - All Current and Future Ships | 170693 | [170693-fractured-space-fleet-pack-all-current-and-future-ships.json](./170693-fractured-space-fleet-pack-all-current-and-future-ships.json) |
 | Fractured Universe | 405341 | [405341-fractured-universe.json](./405341-fractured-universe.json) |
 | Fractured Veil | 83357 | [83357-fractured-veil.json](./83357-fractured-veil.json) |
 | Fractured Voyage | 150787 | [150787-fractured-voyage.json](./150787-fractured-voyage.json) |
