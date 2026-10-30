@@ -1543,7 +1543,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! GX Tag Force 2 | 21945 | [21945-yu-gi-oh-gx-tag-force-2.json](./21945-yu-gi-oh-gx-tag-force-2.json) |
 | Yu-Gi-Oh! GX Tag Force 3 | 44494 | [44494-yu-gi-oh-gx-tag-force-3.json](./44494-yu-gi-oh-gx-tag-force-3.json) |
 | Yu-Gi-Oh! Legacy of the Duelist | 20043 | [20043-yu-gi-oh-legacy-of-the-duelist.json](./20043-yu-gi-oh-legacy-of-the-duelist.json) |
+| Yu-Gi-Oh! Legacy of the Duelist: 5D's For the Future | 169560 | [169560-yu-gi-oh-legacy-of-the-duelist-5ds-for-the-future.json](./169560-yu-gi-oh-legacy-of-the-duelist-5ds-for-the-future.json) |
+| Yu-Gi-Oh! Legacy of the Duelist: Arc-V - Declan vs Celina | 169567 | [169567-yu-gi-oh-legacy-of-the-duelist-arc-v-declan-vs-celina.json](./169567-yu-gi-oh-legacy-of-the-duelist-arc-v-declan-vs-celina.json) |
+| Yu-Gi-Oh! Legacy of the Duelist: Arc-V - Jack Atlas vs Yuya | 169566 | [169566-yu-gi-oh-legacy-of-the-duelist-arc-v-jack-atlas-vs-yuya.json](./169566-yu-gi-oh-legacy-of-the-duelist-arc-v-jack-atlas-vs-yuya.json) |
+| Yu-Gi-Oh! Legacy of the Duelist: Arc-V - Shay vs Dennis | 169561 | [169561-yu-gi-oh-legacy-of-the-duelist-arc-v-shay-vs-dennis.json](./169561-yu-gi-oh-legacy-of-the-duelist-arc-v-shay-vs-dennis.json) |
+| Yu-Gi-Oh! Legacy of the Duelist: Arc-V - Yugo’s Synchro Dimension | 169564 | [169564-yu-gi-oh-legacy-of-the-duelist-arc-v-yugo-s-synchro-dimension.json](./169564-yu-gi-oh-legacy-of-the-duelist-arc-v-yugo-s-synchro-dimension.json) |
+| Yu-Gi-Oh! Legacy of the Duelist: Arc-V Gong v. Kit | 169568 | [169568-yu-gi-oh-legacy-of-the-duelist-arc-v-gong-v-kit.json](./169568-yu-gi-oh-legacy-of-the-duelist-arc-v-gong-v-kit.json) |
+| Yu-Gi-Oh! Legacy of the Duelist: Arc-V Yuto v. Sylvio | 169563 | [169563-yu-gi-oh-legacy-of-the-duelist-arc-v-yuto-v-sylvio.json](./169563-yu-gi-oh-legacy-of-the-duelist-arc-v-yuto-v-sylvio.json) |
+| Yu-Gi-Oh! Legacy of the Duelist: Arc-V Zuzu v. Julia | 169570 | [169570-yu-gi-oh-legacy-of-the-duelist-arc-v-zuzu-v-julia.json](./169570-yu-gi-oh-legacy-of-the-duelist-arc-v-zuzu-v-julia.json) |
+| Yu-Gi-Oh! Legacy of the Duelist: GX - Leaders | 169569 | [169569-yu-gi-oh-legacy-of-the-duelist-gx-leaders.json](./169569-yu-gi-oh-legacy-of-the-duelist-gx-leaders.json) |
+| Yu-Gi-Oh! Legacy of the Duelist: GX Lost Duels | 169565 | [169565-yu-gi-oh-legacy-of-the-duelist-gx-lost-duels.json](./169565-yu-gi-oh-legacy-of-the-duelist-gx-lost-duels.json) |
 | Yu-Gi-Oh! Legacy of the Duelist: Link Evolution | 114905 | [114905-yu-gi-oh-legacy-of-the-duelist-link-evolution.json](./114905-yu-gi-oh-legacy-of-the-duelist-link-evolution.json) |
+| Yu-Gi-Oh! Legacy of the Duelist: Waking the Dragons - Joey’s Journey | 169562 | [169562-yu-gi-oh-legacy-of-the-duelist-waking-the-dragons-joey-s-journey.json](./169562-yu-gi-oh-legacy-of-the-duelist-waking-the-dragons-joey-s-journey.json) |
 | Yu-Gi-Oh! Master Duel | 159298 | [159298-yu-gi-oh-master-duel.json](./159298-yu-gi-oh-master-duel.json) |
 | Yu-Gi-Oh! Millennium Duels | 53058 | [53058-yu-gi-oh-millennium-duels.json](./53058-yu-gi-oh-millennium-duels.json) |
 | Yu-Gi-Oh! Monster Capsule GB | 56977 | [56977-yu-gi-oh-monster-capsule-gb.json](./56977-yu-gi-oh-monster-capsule-gb.json) |
