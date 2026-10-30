@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Simple Square | 236226 | [236226-a-simple-square.json](./236226-a-simple-square.json) |
 | A Simple Survey | 176752 | [176752-a-simple-survey.json](./176752-a-simple-survey.json) |
 | A Simpler World | 407758 | [407758-a-simpler-world.json](./407758-a-simpler-world.json) |
+| A Sinful Camp | 173387 | [173387-a-sinful-camp.json](./173387-a-sinful-camp.json) |
 | A Sing-Along Surprise Party | 293982 | [293982-a-sing-along-surprise-party.json](./293982-a-sing-along-surprise-party.json) |
 | A Single Fallen Feather | 325299 | [325299-a-single-fallen-feather.json](./325299-a-single-fallen-feather.json) |
 | A Sinister Glitch | 389944 | [389944-a-sinister-glitch.json](./389944-a-sinister-glitch.json) |
@@ -6869,6 +6870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabear Hustle | 396230 | [396230-alphabear-hustle.json](./396230-alphabear-hustle.json) |
 | Alphabear: Hardcover Edition | 52053 | [52053-alphabear-hardcover-edition.json](./52053-alphabear-hardcover-edition.json) |
 | Alphabeats: Master Edition | 34054 | [34054-alphabeats-master-edition.json](./34054-alphabeats-master-edition.json) |
+| Alphabet | 173422 | [173422-alphabet.json](./173422-alphabet.json) |
 | Alphabet | 314293 | [314293-alphabet.json](./314293-alphabet.json) |
 | Alphabet | 370480 | [370480-alphabet.json](./370480-alphabet.json) |
 | Alphabet Blocks | 66549 | [66549-alphabet-blocks.json](./66549-alphabet-blocks.json) |
@@ -8764,6 +8766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Breeder | 78715 | [78715-animal-breeder.json](./78715-animal-breeder.json) |
 | Animal Breeder 2 | 64295 | [64295-animal-breeder-2.json](./64295-animal-breeder-2.json) |
 | Animal Buddies: Party Beasts | 290438 | [290438-animal-buddies-party-beasts.json](./290438-animal-buddies-party-beasts.json) |
+| Animal Cafe | 173393 | [173393-animal-cafe.json](./173393-animal-cafe.json) |
 | Animal Cafe | 356711 | [356711-animal-cafe.json](./356711-animal-cafe.json) |
 | Animal Camp: Healing Resort | 299393 | [299393-animal-camp-healing-resort.json](./299393-animal-camp-healing-resort.json) |
 | Animal Care Shop | 212499 | [212499-animal-care-shop.json](./212499-animal-care-shop.json) |
@@ -9300,6 +9303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
 | Annihilated | 291331 | [291331-annihilated.json](./291331-annihilated.json) |
 | Annihilation | 289380 | [289380-annihilation.json](./289380-annihilation.json) |
+| Annihilation Mobile | 173408 | [173408-annihilation-mobile.json](./173408-annihilation-mobile.json) |
 | Annihilation Plan | 308866 | [308866-annihilation-plan.json](./308866-annihilation-plan.json) |
 | Annihilation: Space Tycoon | 255794 | [255794-annihilation-space-tycoon.json](./255794-annihilation-space-tycoon.json) |
 | Annihilator | 277486 | [277486-annihilator.json](./277486-annihilator.json) |
