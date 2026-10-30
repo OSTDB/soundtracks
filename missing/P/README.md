@@ -4857,6 +4857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharaoh Revenger | 221898 | [221898-pharaoh-revenger.json](./221898-pharaoh-revenger.json) |
 | Pharaoh: A New Era | 138205 | [138205-pharaoh-a-new-era.json](./138205-pharaoh-a-new-era.json) |
 | Pharaoh's Ascent | 73633 | [73633-pharaohs-ascent.json](./73633-pharaohs-ascent.json) |
+| Pharaoh's Challenge | 146572 | [146572-pharaohs-challenge.json](./146572-pharaohs-challenge.json) |
 | Pharaoh's Curse | 40659 | [40659-pharaohs-curse.json](./40659-pharaohs-curse.json) |
 | Pharaoh's Purse | 314514 | [314514-pharaohs-purse.json](./314514-pharaohs-purse.json) |
 | Pharaoh's Revenge | 55206 | [55206-pharaohs-revenge.json](./55206-pharaohs-revenge.json) |
@@ -9827,6 +9828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Battle Ultimate | 313970 | [313970-pokemon-battle-ultimate.json](./313970-pokemon-battle-ultimate.json) |
 | Pokémon Battle Woods | 229043 | [229043-pokemon-battle-woods.json](./229043-pokemon-battle-woods.json) |
 | Pokémon Battrio | 77182 | [77182-pokemon-battrio.json](./77182-pokemon-battrio.json) |
+| Pokémon Beekeeper | 147005 | [147005-pokemon-beekeeper.json](./147005-pokemon-beekeeper.json) |
 | Pokémon Berilo | 314720 | [314720-pokemon-berilo.json](./314720-pokemon-berilo.json) |
 | Pokémon Berserk Version | 323275 | [323275-pokemon-berserk-version.json](./323275-pokemon-berserk-version.json) |
 | Pokémon Beyond DX | 360180 | [360180-pokemon-beyond-dx.json](./360180-pokemon-beyond-dx.json) |
@@ -10360,6 +10362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Zany Cards | 43174 | [43174-pokemon-zany-cards.json](./43174-pokemon-zany-cards.json) |
 | Pokémon: A Farfetch'd Story | 289581 | [289581-pokemon-a-farfetchd-story.json](./289581-pokemon-a-farfetchd-story.json) |
 | Pokémon: A Grand Day Out | 215854 | [215854-pokemon-a-grand-day-out.json](./215854-pokemon-a-grand-day-out.json) |
+| Pokémon: A Slice of Life | 147050 | [147050-pokemon-a-slice-of-life.json](./147050-pokemon-a-slice-of-life.json) |
 | Pokémon: A Star in the Desert | 360191 | [360191-pokemon-a-star-in-the-desert.json](./360191-pokemon-a-star-in-the-desert.json) |
 | Pokémon: Abstract Version | 281477 | [281477-pokemon-abstract-version.json](./281477-pokemon-abstract-version.json) |
 | Pokémon: Battle Factory | 339247 | [339247-pokemon-battle-factory.json](./339247-pokemon-battle-factory.json) |
@@ -10502,6 +10505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokerTH | 250379 | [250379-pokerth.json](./250379-pokerth.json) |
 | Pokertown: Cheater's Paradise | 348164 | [348164-pokertown-cheaters-paradise.json](./348164-pokertown-cheaters-paradise.json) |
 | PokéScape | 342832 | [342832-pokescape.json](./342832-pokescape.json) |
+| PokéScape 3D | 147004 | [147004-pokescape-3d.json](./147004-pokescape-3d.json) |
 | Pokescape: A Pokémon Escape Room | 340210 | [340210-pokescape-a-pokemon-escape-room.json](./340210-pokescape-a-pokemon-escape-room.json) |
 | PokéSmash | 191883 | [191883-pokesmash.json](./191883-pokesmash.json) |
 | PokéSnake | 171293 | [171293-pokesnake.json](./171293-pokesnake.json) |
@@ -13840,6 +13844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profitania | 85755 | [85755-profitania.json](./85755-profitania.json) |
 | Profiteer | 311858 | [311858-profiteer.json](./311858-profiteer.json) |
 | PROFITS 2167: Planetary Resource Optimization & Freight Infrastructure Technician Simulator | 397201 | [397201-profits-2167-planetary-resource-optimization-and-freight-infrastructure-technician-simulator.json](./397201-profits-2167-planetary-resource-optimization-and-freight-infrastructure-technician-simulator.json) |
+| Profitville | 146497 | [146497-profitville.json](./146497-profitville.json) |
 | ProFlight | 79060 | [79060-proflight.json](./79060-proflight.json) |
 | Profound | 277594 | [277594-profound.json](./277594-profound.json) |
 | Profound Red | 198100 | [198100-profound-red.json](./198100-profound-red.json) |
@@ -16489,6 +16494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Player | 322038 | [322038-puzzle-player.json](./322038-puzzle-player.json) |
 | Puzzle Playground | 308502 | [308502-puzzle-playground.json](./308502-puzzle-playground.json) |
 | Puzzle Pleasant | 384070 | [384070-puzzle-pleasant.json](./384070-puzzle-pleasant.json) |
+| Puzzle Plowing A Field | 147681 | [147681-puzzle-plowing-a-field.json](./147681-puzzle-plowing-a-field.json) |
 | Puzzle Plunder | 110505 | [110505-puzzle-plunder.json](./110505-puzzle-plunder.json) |
 | Puzzle Plunder: Vampire Night | 163538 | [163538-puzzle-plunder-vampire-night.json](./163538-puzzle-plunder-vampire-night.json) |
 | Puzzle Poker | 23550 | [23550-puzzle-poker.json](./23550-puzzle-poker.json) |
@@ -16838,6 +16844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Solitaire - Card Game | 86777 | [86777-pyramid-solitaire-card-game.json](./86777-pyramid-solitaire-card-game.json) |
 | Pyramid Solitaire Cards | 87315 | [87315-pyramid-solitaire-cards.json](./87315-pyramid-solitaire-cards.json) |
 | Pyramid Solitaire Cube | 56916 | [56916-pyramid-solitaire-cube.json](./56916-pyramid-solitaire-cube.json) |
+| Pyramid Solitaire Gold | 146573 | [146573-pyramid-solitaire-gold.json](./146573-pyramid-solitaire-gold.json) |
 | Pyramid Solitaire Mummy Curse | 61046 | [61046-pyramid-solitaire-mummy-curse.json](./61046-pyramid-solitaire-mummy-curse.json) |
 | Pyramid Solitaire Saga | 89248 | [89248-pyramid-solitaire-saga.json](./89248-pyramid-solitaire-saga.json) |
 | Pyramid Solitaire: Card Game | 90061 | [90061-pyramid-solitaire-card-game.json](./90061-pyramid-solitaire-card-game.json) |
