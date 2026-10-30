@@ -3434,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Shift | 374831 | [374831-endless-shift.json](./374831-endless-shift.json) |
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
 | Endless Silent Night | 404330 | [404330-endless-silent-night.json](./404330-endless-silent-night.json) |
+| Endless Ski | 127504 | [127504-endless-ski.json](./127504-endless-ski.json) |
 | Endless Sky | 128413 | [128413-endless-sky.json](./128413-endless-sky.json) |
 | Endless Sky | 34409 | [34409-endless-sky.json](./34409-endless-sky.json) |
 | Endless Snake | 401789 | [401789-endless-snake.json](./401789-endless-snake.json) |
