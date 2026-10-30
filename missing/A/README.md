@@ -14001,6 +14001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Itinera | 175262 | [175262-astra-itinera.json](./175262-astra-itinera.json) |
 | Astra Moment: Dimension | 365240 | [365240-astra-moment-dimension.json](./365240-astra-moment-dimension.json) |
 | Astra Noctis | 250808 | [250808-astra-noctis.json](./250808-astra-noctis.json) |
+| Astra Protocol 2 | 165305 | [165305-astra-protocol-2.json](./165305-astra-protocol-2.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
 | Astra Quest | 347718 | [347718-astra-quest.json](./347718-astra-quest.json) |
 | Astra Sentinel | 392126 | [392126-astra-sentinel.json](./392126-astra-sentinel.json) |
