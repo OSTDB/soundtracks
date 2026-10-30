@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
 | Bad Janitor | 346250 | [346250-bad-janitor.json](./346250-bad-janitor.json) |
 | Bad Karma | 337007 | [337007-bad-karma.json](./337007-bad-karma.json) |
+| Bad Kids | 158385 | [158385-bad-kids.json](./158385-bad-kids.json) |
 | Bad Lady | 385689 | [385689-bad-lady.json](./385689-bad-lady.json) |
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
 | Bad Luck | 317193 | [317193-bad-luck.json](./317193-bad-luck.json) |
@@ -4396,6 +4397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Care | 177916 | [177916-bear-care.json](./177916-bear-care.json) |
 | Bear Football | 93598 | [93598-bear-football.json](./93598-bear-football.json) |
 | Bear Haven Nights | 33743 | [33743-bear-haven-nights.json](./33743-bear-haven-nights.json) |
+| Bear Haven Nights 2 | 158372 | [158372-bear-haven-nights-2.json](./158372-bear-haven-nights-2.json) |
 | Bear Heart Defense | 299395 | [299395-bear-heart-defense.json](./299395-bear-heart-defense.json) |
 | Bear Horror | 408726 | [408726-bear-horror.json](./408726-bear-horror.json) |
 | Bear Hunting 4: Summer | 100058 | [100058-bear-hunting-4-summer.json](./100058-bear-hunting-4-summer.json) |
