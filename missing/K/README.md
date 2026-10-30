@@ -4050,6 +4050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Empire | 285945 | [285945-knights-empire.json](./285945-knights-empire.json) |
 | Knight's Errand | 371470 | [371470-knights-errand.json](./371470-knights-errand.json) |
 | Knight's Fly | 394446 | [394446-knights-fly.json](./394446-knights-fly.json) |
+| Knight's Maze | 149801 | [149801-knights-maze.json](./149801-knights-maze.json) |
 | Knight's move | 112357 | [112357-knights-move.json](./112357-knights-move.json) |
 | Knight's Night! | 327829 | [327829-knights-night.json](./327829-knights-night.json) |
 | Knight's Path | 384342 | [384342-knights-path.json](./384342-knights-path.json) |
