@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S Cry ed Da!! | 98060 | [98060-s-cry-ed-da.json](./98060-s-cry-ed-da.json) |
 | S Force | 184411 | [184411-s-force.json](./184411-s-force.json) |
 | S Lanes | 254063 | [254063-s-lanes.json](./254063-s-lanes.json) |
+| S Mahjong 1 | 131139 | [131139-s-mahjong-1.json](./131139-s-mahjong-1.json) |
 | S Mahjong 2 | 97722 | [97722-s-mahjong-2.json](./97722-s-mahjong-2.json) |
 | S na Kanojo | 97425 | [97425-s-na-kanojo.json](./97425-s-na-kanojo.json) |
 | S-Copter | 76653 | [76653-s-copter.json](./76653-s-copter.json) |
@@ -5777,6 +5778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seybul Tech | 264634 | [264634-seybul-tech.json](./264634-seybul-tech.json) |
 | Seymour - Take One! | 142435 | [142435-seymour-take-one.json](./142435-seymour-take-one.json) |
 | Seymour Goes to Hollywood | 18572 | [18572-seymour-goes-to-hollywood.json](./18572-seymour-goes-to-hollywood.json) |
+| SF-HiSplitter | 131143 | [131143-sf-hisplitter.json](./131143-sf-hisplitter.json) |
 | SF: Onee-san Teacher | 83371 | [83371-sf-onee-san-teacher.json](./83371-sf-onee-san-teacher.json) |
 | SF2K: Class Dismissed | 173384 | [173384-sf2k-class-dismissed.json](./173384-sf2k-class-dismissed.json) |
 | Sf3ra | 362193 | [362193-sf3ra.json](./362193-sf3ra.json) |
@@ -8358,6 +8360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Snow | 309867 | [309867-short-snow.json](./309867-short-snow.json) |
 | Short Staffed | 240691 | [240691-short-staffed.json](./240691-short-staffed.json) |
 | Short Stax | 385853 | [385853-short-stax.json](./385853-short-stax.json) |
+| Short Stop | 131105 | [131105-short-stop.json](./131105-short-stop.json) |
 | Short Trip | 324905 | [324905-short-trip.json](./324905-short-trip.json) |
 | Short Warp: Deep Space Bounty | 261832 | [261832-short-warp-deep-space-bounty.json](./261832-short-warp-deep-space-bounty.json) |
 | Shortcircuit | 424685 | [424685-shortcircuit.json](./424685-shortcircuit.json) |
@@ -8475,6 +8478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shovelware | 346231 | [346231-shovelware.json](./346231-shovelware.json) |
 | Shovelware Adventure! | 262303 | [262303-shovelware-adventure.json](./262303-shovelware-adventure.json) |
 | Show Ball: Tiger Life | 226142 | [226142-show-ball-tiger-life.json](./226142-show-ball-tiger-life.json) |
+| Show Boat | 131107 | [131107-show-boat.json](./131107-show-boat.json) |
 | Show by Rock!! | 60352 | [60352-show-by-rock.json](./60352-show-by-rock.json) |
 | Show da Copa com Estádio 97 | 255668 | [255668-show-da-copa-com-estadio-97.json](./255668-show-da-copa-com-estadio-97.json) |
 | Show do Milhão | 122331 | [122331-show-do-milhao.json](./122331-show-do-milhao.json) |
@@ -10482,6 +10486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sitri: Shadow Walk | 225092 | [225092-sitri-shadow-walk.json](./225092-sitri-shadow-walk.json) |
 | Sitten Kitten | 141110 | [141110-sitten-kitten.json](./141110-sitten-kitten.json) |
 | Sitter | 348023 | [348023-sitter.json](./348023-sitter.json) |
+| Sittin' Pretty | 131108 | [131108-sittin-pretty.json](./131108-sittin-pretty.json) |
 | Sitting around the world on a hot air balloon | 121576 | [121576-sitting-around-the-world-on-a-hot-air-balloon.json](./121576-sitting-around-the-world-on-a-hot-air-balloon.json) |
 | Sitting Ducks | 210727 | [210727-sitting-ducks.json](./210727-sitting-ducks.json) |
 | Sitting Ducks | 402482 | [402482-sitting-ducks.json](./402482-sitting-ducks.json) |
@@ -11030,6 +11035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skollorn | 402502 | [402502-skollorn.json](./402502-skollorn.json) |
 | Skolly's Adventure | 272722 | [272722-skollys-adventure.json](./272722-skollys-adventure.json) |
 | Skoof Fishing | 356663 | [356663-skoof-fishing.json](./356663-skoof-fishing.json) |
+| Skooky | 131111 | [131111-skooky.json](./131111-skooky.json) |
 | Skool Days | 390734 | [390734-skool-days.json](./390734-skool-days.json) |
 | Skools Out | 338809 | [338809-skools-out.json](./338809-skools-out.json) |
 | Skoory Rush | 250463 | [250463-skoory-rush.json](./250463-skoory-rush.json) |
@@ -11242,6 +11248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
 | Sky Jinks | 18529 | [18529-sky-jinks.json](./18529-sky-jinks.json) |
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
+| Sky Jump | 131106 | [131106-sky-jump.json](./131106-sky-jump.json) |
 | Sky Jump | 193633 | [193633-sky-jump.json](./193633-sky-jump.json) |
 | Sky Jumping | 336626 | [336626-sky-jumping.json](./336626-sky-jumping.json) |
 | Sky Kid | 17282 | [17282-sky-kid.json](./17282-sky-kid.json) |
@@ -11258,6 +11265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Lancer | 23933 | [23933-sky-lancer.json](./23933-sky-lancer.json) |
 | Sky Lanes | 333445 | [333445-sky-lanes.json](./333445-sky-lanes.json) |
 | Sky Legends: An Aeropostal Epic | 361845 | [361845-sky-legends-an-aeropostal-epic.json](./361845-sky-legends-an-aeropostal-epic.json) |
+| Sky Line | 131115 | [131115-sky-line.json](./131115-sky-line.json) |
 | Sky Link | 118349 | [118349-sky-link.json](./118349-sky-link.json) |
 | Sky Love Boys: Flight Attendant Crush | 370824 | [370824-sky-love-boys-flight-attendant-crush.json](./370824-sky-love-boys-flight-attendant-crush.json) |
 | Sky Love Girls: Flight Attendant Crush | 370797 | [370797-sky-love-girls-flight-attendant-crush.json](./370797-sky-love-girls-flight-attendant-crush.json) |
@@ -13776,6 +13784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Daze: Redaze | 224822 | [224822-snow-daze-redaze.json](./224822-snow-daze-redaze.json) |
 | Snow Drop | 71444 | [71444-snow-drop.json](./71444-snow-drop.json) |
 | Snow Eagle Lord | 120834 | [120834-snow-eagle-lord.json](./120834-snow-eagle-lord.json) |
+| Snow Fall | 131148 | [131148-snow-fall.json](./131148-snow-fall.json) |
 | Snow Fall | 362355 | [362355-snow-fall.json](./362355-snow-fall.json) |
 | Snow Fight | 246543 | [246543-snow-fight.json](./246543-snow-fight.json) |
 | Snow Fight | 316096 | [316096-snow-fight.json](./316096-snow-fight.json) |
@@ -14770,6 +14779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solis | 354927 | [354927-solis.json](./354927-solis.json) |
 | Solis | 375497 | [375497-solis.json](./375497-solis.json) |
 | Solisquare | 294187 | [294187-solisquare.json](./294187-solisquare.json) |
+| Solitaire | 131096 | [131096-solitaire.json](./131096-solitaire.json) |
 | Solitaire | 131465 | [131465-solitaire.json](./131465-solitaire.json) |
 | Solitaire | 234167 | [234167-solitaire.json](./234167-solitaire.json) |
 | Solitaire | 243634 | [243634-solitaire.json](./243634-solitaire.json) |
@@ -14942,6 +14952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitairica | 24464 | [24464-solitairica.json](./24464-solitairica.json) |
 | Solitairithmetic | 85729 | [85729-solitairithmetic.json](./85729-solitairithmetic.json) |
 | Solitar: Retro Picks | 305516 | [305516-solitar-retro-picks.json](./305516-solitar-retro-picks.json) |
+| Solitare | 131099 | [131099-solitare.json](./131099-solitare.json) |
 | Solitarius | 189035 | [189035-solitarius.json](./189035-solitarius.json) |
 | Solitary Cat | 273423 | [273423-solitary-cat.json](./273423-solitary-cat.json) |
 | Solitary Echoes | 322821 | [322821-solitary-echoes.json](./322821-solitary-echoes.json) |
@@ -25962,6 +25973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subaeria | 12814 | [12814-subaeria.json](./12814-subaeria.json) |
 | SubaraCity | 56281 | [56281-subaracity.json](./56281-subaracity.json) |
 | Subaru no Kishi | 301303 | [301303-subaru-no-kishi.json](./301303-subaru-no-kishi.json) |
+| Subaru Poker | 131142 | [131142-subaru-poker.json](./131142-subaru-poker.json) |
 | subAtomic | 171783 | [171783-subatomic.json](./171783-subatomic.json) |
 | Subátor | 254484 | [254484-subator.json](./254484-subator.json) |
 | Subbuteo | 21457 | [21457-subbuteo.json](./21457-subbuteo.json) |
