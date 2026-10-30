@@ -2490,6 +2490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Read the Unfinished Donkey Kong Country Story...and then Finish the Adventure! | 328601 | [328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json](./328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json) |
 | Read Watch Listen Plan | 404658 | [404658-read-watch-listen-plan.json](./404658-read-watch-listen-plan.json) |
 | Read, Write, & Type | 314139 | [314139-read-write-and-type.json](./314139-read-write-and-type.json) |
+| Reader Rabbit | 131100 | [131100-reader-rabbit.json](./131100-reader-rabbit.json) |
 | Reader Rabbit | 133587 | [133587-reader-rabbit.json](./133587-reader-rabbit.json) |
 | Reader Rabbit 1 | 80516 | [80516-reader-rabbit-1.json](./80516-reader-rabbit-1.json) |
 | Reader Rabbit 1st Grade | 88280 | [88280-reader-rabbit-1st-grade.json](./88280-reader-rabbit-1st-grade.json) |
@@ -3916,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Deal Casino: Valley of the Kings | 209210 | [209210-reel-deal-casino-valley-of-the-kings.json](./209210-reel-deal-casino-valley-of-the-kings.json) |
 | Reel Deal Poker Challenge | 66727 | [66727-reel-deal-poker-challenge.json](./66727-reel-deal-poker-challenge.json) |
 | Reel Deal Slots Adventure | 131294 | [131294-reel-deal-slots-adventure.json](./131294-reel-deal-slots-adventure.json) |
+| Reel Deal Slots: Blackbeard's Revenge | 131128 | [131128-reel-deal-slots-blackbeards-revenge.json](./131128-reel-deal-slots-blackbeards-revenge.json) |
 | Reel Deal Vegas Casino Experience | 77612 | [77612-reel-deal-vegas-casino-experience.json](./77612-reel-deal-vegas-casino-experience.json) |
 | Reel Fishing | 45088 | [45088-reel-fishing.json](./45088-reel-fishing.json) |
 | Reel Fishing 3D Paradise | 84832 | [84832-reel-fishing-3d-paradise.json](./84832-reel-fishing-3d-paradise.json) |
@@ -7879,6 +7881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robina Hood's Monster Hunt | 360567 | [360567-robina-hoods-monster-hunt.json](./360567-robina-hoods-monster-hunt.json) |
 | RobinBobin | 138220 | [138220-robinbobin.json](./138220-robinbobin.json) |
 | Robinson Alchemy | 258901 | [258901-robinson-alchemy.json](./258901-robinson-alchemy.json) |
+| Robinson Crusoe | 131102 | [131102-robinson-crusoe.json](./131102-robinson-crusoe.json) |
 | Robinson Crusoe | 321845 | [321845-robinson-crusoe.json](./321845-robinson-crusoe.json) |
 | Robinson Crusoe and the Cursed Pirates | 36129 | [36129-robinson-crusoe-and-the-cursed-pirates.json](./36129-robinson-crusoe-and-the-cursed-pirates.json) |
 | Robinson's Requiem | 2511 | [2511-robinsons-requiem.json](./2511-robinsons-requiem.json) |
