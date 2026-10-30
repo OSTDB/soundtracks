@@ -7883,6 +7883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Off: Historia - Vol. 1 | 140386 | [140386-memories-off-historia-vol-1.json](./140386-memories-off-historia-vol-1.json) |
 | Memories Off: Historia - Volume 2 | 140387 | [140387-memories-off-historia-volume-2.json](./140387-memories-off-historia-volume-2.json) |
 | Memories Off: Innocent Fille | 71590 | [71590-memories-off-innocent-fille.json](./71590-memories-off-innocent-fille.json) |
+| Memories Off: Innocent Fille - Noelle Fullbloom | 145196 | [145196-memories-off-innocent-fille-noelle-fullbloom.json](./145196-memories-off-innocent-fille-noelle-fullbloom.json) |
 | Memories Off: Sorekara | 288771 | [288771-memories-off-sorekara.json](./288771-memories-off-sorekara.json) |
 | Memories Off: Sorekara | 64806 | [64806-memories-off-sorekara.json](./64806-memories-off-sorekara.json) |
 | Memories Off: Sorekara Again | 64802 | [64802-memories-off-sorekara-again.json](./64802-memories-off-sorekara-again.json) |
@@ -9353,6 +9354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michikusa Wanderer | 402853 | [402853-michikusa-wanderer.json](./402853-michikusa-wanderer.json) |
 | Michinoku Hisen Koimonogatari | 64666 | [64666-michinoku-hisen-koimonogatari.json](./64666-michinoku-hisen-koimonogatari.json) |
 | Michinoku Hitou Koimonogatari Kai | 64660 | [64660-michinoku-hitou-koimonogatari-kai.json](./64660-michinoku-hitou-koimonogatari-kai.json) |
+| Mickey & Donald | 145210 | [145210-mickey-and-donald.json](./145210-mickey-and-donald.json) |
 | Mickey & Friends | 198815 | [198815-mickey-and-friends.json](./198815-mickey-and-friends.json) |
 | Mickey & Friends | 198816 | [198816-mickey-and-friends.json](./198816-mickey-and-friends.json) |
 | Mickey & Minnie | 281882 | [281882-mickey-and-minnie.json](./281882-mickey-and-minnie.json) |
@@ -19106,6 +19108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mya Master Mind | 245675 | [245675-mya-master-mind.json](./245675-mya-master-mind.json) |
 | MyaoSoft Garake Collection | 212644 | [212644-myaosoft-garake-collection.json](./212644-myaosoft-garake-collection.json) |
 | Myara Story 1: Hurricane of the Ancient One | 227895 | [227895-myara-story-1-hurricane-of-the-ancient-one.json](./227895-myara-story-1-hurricane-of-the-ancient-one.json) |
+| Myastere -Ruins of Deazniff- | 145211 | [145211-myastere-ruins-of-deazniff.json](./145211-myastere-ruins-of-deazniff.json) |
 | MyBiz: Pomodoro Desk Tycoon | 405557 | [405557-mybiz-pomodoro-desk-tycoon.json](./405557-mybiz-pomodoro-desk-tycoon.json) |
 | MyBot | 128218 | [128218-mybot.json](./128218-mybot.json) |
 | Mycelium | 295350 | [295350-mycelium.json](./295350-mycelium.json) |
