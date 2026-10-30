@@ -6252,6 +6252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Invaders 3: Easter Edition | 155576 | [155576-chicken-invaders-3-easter-edition.json](./155576-chicken-invaders-3-easter-edition.json) |
 | Chicken Invaders 3: Revenge of the Yolk | 35031 | [35031-chicken-invaders-3-revenge-of-the-yolk.json](./35031-chicken-invaders-3-revenge-of-the-yolk.json) |
 | Chicken Invaders 4 | 36308 | [36308-chicken-invaders-4.json](./36308-chicken-invaders-4.json) |
+| Chicken Invaders 4: Easter Edition | 170138 | [170138-chicken-invaders-4-easter-edition.json](./170138-chicken-invaders-4-easter-edition.json) |
 | Chicken Invaders 4: Ultimate Omelette | 11716 | [11716-chicken-invaders-4-ultimate-omelette.json](./11716-chicken-invaders-4-ultimate-omelette.json) |
 | Chicken Invaders 5 Deluxe | 52743 | [52743-chicken-invaders-5-deluxe.json](./52743-chicken-invaders-5-deluxe.json) |
 | Chicken Invaders 5: Christmas Edition | 108464 | [108464-chicken-invaders-5-christmas-edition.json](./108464-chicken-invaders-5-christmas-edition.json) |
@@ -8966,6 +8967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Quest 3D 2: Plus | 379551 | [379551-click-quest-3d-2-plus.json](./379551-click-quest-3d-2-plus.json) |
 | Click Space Miner | 31714 | [31714-click-space-miner.json](./31714-click-space-miner.json) |
 | Click Space Miner 2 | 120121 | [120121-click-space-miner-2.json](./120121-click-space-miner-2.json) |
+| Click Space Miner 2: Deluxe Edition | 170121 | [170121-click-space-miner-2-deluxe-edition.json](./170121-click-space-miner-2-deluxe-edition.json) |
 | Click the Ball! | 365716 | [365716-click-the-ball.json](./365716-click-the-ball.json) |
 | Click the Business | 111007 | [111007-click-the-business.json](./111007-click-the-business.json) |
 | Click the Button | 407167 | [407167-click-the-button.json](./407167-click-the-button.json) |
@@ -15157,6 +15159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbish | 333197 | [333197-cribbish.json](./333197-cribbish.json) |
 | Cricket | 79717 | [79717-cricket.json](./79717-cricket.json) |
 | Cricket 07 | 10619 | [10619-cricket-07.json](./10619-cricket-07.json) |
+| Cricket 19: Ultimate Edition | 170123 | [170123-cricket-19-ultimate-edition.json](./170123-cricket-19-ultimate-edition.json) |
 | Cricket 2000 | 79891 | [79891-cricket-2000.json](./79891-cricket-2000.json) |
 | Cricket 2002 | 92314 | [92314-cricket-2002.json](./92314-cricket-2002.json) |
 | Cricket 2004 | 94521 | [94521-cricket-2004.json](./94521-cricket-2004.json) |
