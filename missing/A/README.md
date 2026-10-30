@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Long Night | 335687 | [335687-a-long-long-night.json](./335687-a-long-long-night.json) |
 | A Long Night For Crazy King | 120969 | [120969-a-long-night-for-crazy-king.json](./120969-a-long-night-for-crazy-king.json) |
 | A Long Road Home | 29890 | [29890-a-long-road-home.json](./29890-a-long-road-home.json) |
+| A long Time | 158358 | [158358-a-long-time.json](./158358-a-long-time.json) |
 | A Long Time | 384292 | [384292-a-long-time.json](./384292-a-long-time.json) |
 | A Long Walk Home | 278325 | [278325-a-long-walk-home.json](./278325-a-long-walk-home.json) |
 | A Long Walk Home | 340859 | [340859-a-long-walk-home.json](./340859-a-long-walk-home.json) |
@@ -779,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mystic Journey With: Terra | 392951 | [392951-a-mystic-journey-with-terra.json](./392951-a-mystic-journey-with-terra.json) |
 | A Naive Villager Girl Nako's Exploration Story | 82691 | [82691-a-naive-villager-girl-nakos-exploration-story.json](./82691-a-naive-villager-girl-nakos-exploration-story.json) |
 | A Nanobot | 233124 | [233124-a-nanobot.json](./233124-a-nanobot.json) |
+| A Nasty Farm | 158350 | [158350-a-nasty-farm.json](./158350-a-nasty-farm.json) |
 | A Near Dawn | 74241 | [74241-a-near-dawn.json](./74241-a-near-dawn.json) |
 | A Nest for Us | 259499 | [259499-a-nest-for-us.json](./259499-a-nest-for-us.json) |
 | A Neverending Night | 183772 | [183772-a-neverending-night.json](./183772-a-neverending-night.json) |
@@ -3223,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Reporter Arctic | 254623 | [254623-adventure-reporter-arctic.json](./254623-adventure-reporter-arctic.json) |
 | Adventure Reporter Jungle | 254622 | [254622-adventure-reporter-jungle.json](./254622-adventure-reporter-jungle.json) |
 | Adventure Reporter Ocean | 254621 | [254621-adventure-reporter-ocean.json](./254621-adventure-reporter-ocean.json) |
+| Adventure Road | 158383 | [158383-adventure-road.json](./158383-adventure-road.json) |
 | Adventure Road | 55719 | [55719-adventure-road.json](./55719-adventure-road.json) |
 | Adventure Roll | 186101 | [186101-adventure-roll.json](./186101-adventure-roll.json) |
 | Adventure Rush | 192674 | [192674-adventure-rush.json](./192674-adventure-rush.json) |
@@ -10382,6 +10385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo's Palace | 186601 | [186601-apollos-palace.json](./186601-apollos-palace.json) |
 | Apollo4x | 26978 | [26978-apollo4x.json](./26978-apollo4x.json) |
 | Apollyon | 423211 | [423211-apollyon.json](./423211-apollyon.json) |
+| Apollyon: River of Life | 158365 | [158365-apollyon-river-of-life.json](./158365-apollyon-river-of-life.json) |
 | Apology Video | 406316 | [406316-apology-video.json](./406316-apology-video.json) |
 | Apolune 2 | 149511 | [149511-apolune-2.json](./149511-apolune-2.json) |
 | Apomo District | 301062 | [301062-apomo-district.json](./301062-apomo-district.json) |
@@ -11952,6 +11956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Clash | 215524 | [215524-arena-clash.json](./215524-arena-clash.json) |
 | Arena Constellation | 295012 | [295012-arena-constellation.json](./295012-arena-constellation.json) |
 | Arena Drift Master | 192212 | [192212-arena-drift-master.json](./192212-arena-drift-master.json) |
+| Arena Experiment | 158354 | [158354-arena-experiment.json](./158354-arena-experiment.json) |
 | Arena Football | 5731 | [5731-arena-football.json](./5731-arena-football.json) |
 | Arena Football: Road to Glory | 17276 | [17276-arena-football-road-to-glory.json](./17276-arena-football-road-to-glory.json) |
 | Arena Gods | 34267 | [34267-arena-gods.json](./34267-arena-gods.json) |
@@ -14063,6 +14068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Coconut | 235834 | [235834-astral-coconut.json](./235834-astral-coconut.json) |
 | Astral Codec | 336546 | [336546-astral-codec.json](./336546-astral-codec.json) |
 | Astral Court DX | 368081 | [368081-astral-court-dx.json](./368081-astral-court-dx.json) |
+| Astral Cube | 158344 | [158344-astral-cube.json](./158344-astral-cube.json) |
 | Astral Defense | 131943 | [131943-astral-defense.json](./131943-astral-defense.json) |
 | Astral Dive | 404088 | [404088-astral-dive.json](./404088-astral-dive.json) |
 | Astral Divide | 277816 | [277816-astral-divide.json](./277816-astral-divide.json) |
