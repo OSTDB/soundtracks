@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T06:33:08.958Z",
-  "total_missing": 282846,
+  "generated_at": "2026-10-30T06:50:26.221Z",
+  "total_missing": 282898,
   "games": [
     {
       "igdb_id": 191680,
@@ -101727,6 +101727,11 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
+    },
+    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -184182,6 +184187,11 @@
       "file": "missing/C/202386-camgirls-inc.json"
     },
     {
+      "igdb_id": 162056,
+      "game_name": "CamGirls: Sophie X Rias",
+      "file": "missing/C/162056-camgirls-sophie-x-rias.json"
+    },
+    {
       "igdb_id": 93123,
       "game_name": "Camgoo Sixplay",
       "file": "missing/C/93123-camgoo-sixplay.json"
@@ -248150,6 +248160,11 @@
       "igdb_id": 80405,
       "game_name": "County Fair",
       "file": "missing/C/80405-county-fair.json"
+    },
+    {
+      "igdb_id": 162049,
+      "game_name": "County Hospital",
+      "file": "missing/C/162049-county-hospital.json"
     },
     {
       "igdb_id": 211697,
@@ -340787,6 +340802,11 @@
       "file": "missing/D/351589-drakulas-ascension.json"
     },
     {
+      "igdb_id": 162066,
+      "game_name": "Drama",
+      "file": "missing/D/162066-drama.json"
+    },
+    {
       "igdb_id": 158230,
       "game_name": "Dramaqueen",
       "file": "missing/D/158230-dramaqueen.json"
@@ -394140,6 +394160,11 @@
       "igdb_id": 85473,
       "game_name": "Extinction: Deluxe Edition",
       "file": "missing/E/85473-extinction-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 162055,
+      "game_name": "Extinction: Skybound Sentinel",
+      "file": "missing/E/162055-extinction-skybound-sentinel.json"
     },
     {
       "igdb_id": 291532,
@@ -524777,6 +524802,11 @@
       "file": "missing/H/53177-hearts-of-iron-iii-collection.json"
     },
     {
+      "igdb_id": 162051,
+      "game_name": "Hearts of Iron III: Axis Minors Vehicle Pack",
+      "file": "missing/H/162051-hearts-of-iron-iii-axis-minors-vehicle-pack.json"
+    },
+    {
       "igdb_id": 154613,
       "game_name": "Hearts of Iron III: DLC Collection",
       "file": "missing/H/154613-hearts-of-iron-iii-dlc-collection.json"
@@ -524785,6 +524815,11 @@
       "igdb_id": 10400,
       "game_name": "Hearts of Iron III: For the Motherland",
       "file": "missing/H/10400-hearts-of-iron-iii-for-the-motherland.json"
+    },
+    {
+      "igdb_id": 162050,
+      "game_name": "Hearts of Iron III: Italian Vehicle Pack",
+      "file": "missing/H/162050-hearts-of-iron-iii-italian-vehicle-pack.json"
     },
     {
       "igdb_id": 10399,
@@ -524797,9 +524832,19 @@
       "file": "missing/H/151256-hearts-of-iron-iii-semper-fi-dies-irae-gotterdammerung.json"
     },
     {
+      "igdb_id": 162052,
+      "game_name": "Hearts of Iron III: Soviet Pack",
+      "file": "missing/H/162052-hearts-of-iron-iii-soviet-pack.json"
+    },
+    {
       "igdb_id": 10401,
       "game_name": "Hearts of Iron III: Their Finest Hour",
       "file": "missing/H/10401-hearts-of-iron-iii-their-finest-hour.json"
+    },
+    {
+      "igdb_id": 162065,
+      "game_name": "Hearts of Iron III: US Pack",
+      "file": "missing/H/162065-hearts-of-iron-iii-us-pack.json"
     },
     {
       "igdb_id": 165012,
@@ -628740,6 +628785,11 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
+    },
+    {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -954552,6 +954602,11 @@
       "file": "missing/R/251846-real-time-general.json"
     },
     {
+      "igdb_id": 162054,
+      "game_name": "Real-time Tactical 2D",
+      "file": "missing/R/162054-real-time-tactical-2d.json"
+    },
+    {
       "igdb_id": 29481,
       "game_name": "RealBX VR",
       "file": "missing/R/29481-realbx-vr.json"
@@ -988452,9 +988507,34 @@
       "file": "missing/R/136703-romance-of-the-three-kingdoms-xiii-with-power-up-kit.json"
     },
     {
+      "igdb_id": 162059,
+      "game_name": "Romance of the Three Kingdoms XIII: Additional Scenario - Campaign Against Lu Bu",
+      "file": "missing/R/162059-romance-of-the-three-kingdoms-xiii-additional-scenario-campaign-against-lu-bu.json"
+    },
+    {
+      "igdb_id": 162061,
+      "game_name": "Romance of the Three Kingdoms XIII: Additional Scenario - The God of War, Surrounded",
+      "file": "missing/R/162061-romance-of-the-three-kingdoms-xiii-additional-scenario-the-god-of-war-surrounded.json"
+    },
+    {
+      "igdb_id": 162058,
+      "game_name": "Romance of the Three Kingdoms XIII: Additional Scenario - Thirteen Heroes",
+      "file": "missing/R/162058-romance-of-the-three-kingdoms-xiii-additional-scenario-thirteen-heroes.json"
+    },
+    {
       "igdb_id": 164503,
       "game_name": "Romance of the Three Kingdoms XIII: Ancient Officers Officer Data Set",
       "file": "missing/R/164503-romance-of-the-three-kingdoms-xiii-ancient-officers-officer-data-set.json"
+    },
+    {
+      "igdb_id": 162060,
+      "game_name": "Romance of the Three Kingdoms XIII: Best Scenario for RTK Japan - The Tyrant Returns",
+      "file": "missing/R/162060-romance-of-the-three-kingdoms-xiii-best-scenario-for-rtk-japan-the-tyrant-returns.json"
+    },
+    {
+      "igdb_id": 162062,
+      "game_name": "Romance of the Three Kingdoms XIII: Fame and Strategy Expansion Pack",
+      "file": "missing/R/162062-romance-of-the-three-kingdoms-xiii-fame-and-strategy-expansion-pack.json"
     },
     {
       "igdb_id": 82420,
@@ -1058515,6 +1058595,11 @@
       "igdb_id": 321301,
       "game_name": "Slenderclown: Be Afraid of It!",
       "file": "missing/S/321301-slenderclown-be-afraid-of-it.json"
+    },
+    {
+      "igdb_id": 162063,
+      "game_name": "Slendergus",
+      "file": "missing/S/162063-slendergus.json"
     },
     {
       "igdb_id": 152491,
@@ -1244157,6 +1244242,11 @@
       "file": "missing/T/147832-the-warlock-of-firetop-mountain-goblin-scourge-edition.json"
     },
     {
+      "igdb_id": 162057,
+      "game_name": "The Warlock of Firetop Mountain: Goblin Scourge!",
+      "file": "missing/T/162057-the-warlock-of-firetop-mountain-goblin-scourge.json"
+    },
+    {
       "igdb_id": 261181,
       "game_name": "The Warlock's Hearth",
       "file": "missing/T/261181-the-warlocks-hearth.json"
@@ -1287167,6 +1287257,11 @@
       "file": "missing/T/156405-train-simulator-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json"
     },
     {
+      "igdb_id": 162039,
+      "game_name": "Train Simulator: Boston & Maine GE 44 Loco Add-On",
+      "file": "missing/T/162039-train-simulator-boston-and-maine-ge-44-loco-add-on.json"
+    },
+    {
       "igdb_id": 156337,
       "game_name": "Train Simulator: BR Class 105 DMU Add-On",
       "file": "missing/T/156337-train-simulator-br-class-105-dmu-add-on.json"
@@ -1287177,9 +1287272,24 @@
       "file": "missing/T/162561-train-simulator-br-class-40-40145-loco-add-on.json"
     },
     {
+      "igdb_id": 162043,
+      "game_name": "Train Simulator: BR Class 402 '2-HAL' EMU Add-On",
+      "file": "missing/T/162043-train-simulator-br-class-402-2-hal-emu-add-on.json"
+    },
+    {
+      "igdb_id": 162045,
+      "game_name": "Train Simulator: BR Class 50 Loco Add-On",
+      "file": "missing/T/162045-train-simulator-br-class-50-loco-add-on.json"
+    },
+    {
       "igdb_id": 162562,
       "game_name": "Train Simulator: BR Standard Class 2MT Loco Add-On",
       "file": "missing/T/162562-train-simulator-br-standard-class-2mt-loco-add-on.json"
+    },
+    {
+      "igdb_id": 162048,
+      "game_name": "Train Simulator: BR Standard Class 6 'Clan Class' Steam Loco Add-On",
+      "file": "missing/T/162048-train-simulator-br-standard-class-6-clan-class-steam-loco-add-on.json"
     },
     {
       "igdb_id": 156460,
@@ -1287247,6 +1287357,11 @@
       "file": "missing/T/91804-train-simulator-chuo-sen-201-kei.json"
     },
     {
+      "igdb_id": 162024,
+      "game_name": "Train Simulator: Class 2F Dock Tank Loco Add-On",
+      "file": "missing/T/162024-train-simulator-class-2f-dock-tank-loco-add-on.json"
+    },
+    {
       "igdb_id": 162557,
       "game_name": "Train Simulator: Class J94 ‘Memories of Maerdy’ Loco Add-On",
       "file": "missing/T/162557-train-simulator-class-j94-memories-of-maerdy-loco-add-on.json"
@@ -1287282,6 +1287397,11 @@
       "file": "missing/T/162556-train-simulator-crh380d-emu-add-on.json"
     },
     {
+      "igdb_id": 162038,
+      "game_name": "Train Simulator: CSX AC6000CW Loco Add-On",
+      "file": "missing/T/162038-train-simulator-csx-ac6000cw-loco-add-on.json"
+    },
+    {
       "igdb_id": 156449,
       "game_name": "Train Simulator: CSX Hanover Subdivision: Hanover - Hagerstown Route Add-On",
       "file": "missing/T/156449-train-simulator-csx-hanover-subdivision-hanover-hagerstown-route-add-on.json"
@@ -1287292,9 +1287412,19 @@
       "file": "missing/T/191017-train-simulator-csx-sd45-2-loco.json"
     },
     {
+      "igdb_id": 162036,
+      "game_name": "Train Simulator: CSX SD80MAC Loco Add-On",
+      "file": "missing/T/162036-train-simulator-csx-sd80mac-loco-add-on.json"
+    },
+    {
       "igdb_id": 162543,
       "game_name": "Train Simulator: DB BR 112.1 Loco Add-On",
       "file": "missing/T/162543-train-simulator-db-br-112-1-loco-add-on.json"
+    },
+    {
+      "igdb_id": 162033,
+      "game_name": "Train Simulator: DB BR 145 Loco Add-On",
+      "file": "missing/T/162033-train-simulator-db-br-145-loco-add-on.json"
     },
     {
       "igdb_id": 162553,
@@ -1287315,6 +1287445,21 @@
       "igdb_id": 162549,
       "game_name": "Train Simulator: DB BR 440 ‘Coradia Continental’ Loco Add-On",
       "file": "missing/T/162549-train-simulator-db-br-440-coradia-continental-loco-add-on.json"
+    },
+    {
+      "igdb_id": 162037,
+      "game_name": "Train Simulator: DB BR 648 Loco Add-On",
+      "file": "missing/T/162037-train-simulator-db-br-648-loco-add-on.json"
+    },
+    {
+      "igdb_id": 162030,
+      "game_name": "Train Simulator: DB ICE 3 EMU Add-On",
+      "file": "missing/T/162030-train-simulator-db-ice-3-emu-add-on.json"
+    },
+    {
+      "igdb_id": 162025,
+      "game_name": "Train Simulator: Dispolok BR 189 Loco Add-On",
+      "file": "missing/T/162025-train-simulator-dispolok-br-189-loco-add-on.json"
     },
     {
       "igdb_id": 91802,
@@ -1287370,6 +1287515,11 @@
       "igdb_id": 156351,
       "game_name": "Train Simulator: Ennstalbahn: Bishofshofen - Selzthal Route Add-On",
       "file": "missing/T/156351-train-simulator-ennstalbahn-bishofshofen-selzthal-route-add-on.json"
+    },
+    {
+      "igdb_id": 162035,
+      "game_name": "Train Simulator: Epic Journeys",
+      "file": "missing/T/162035-train-simulator-epic-journeys.json"
     },
     {
       "igdb_id": 162548,
@@ -1287467,9 +1287617,19 @@
       "file": "missing/T/156446-train-simulator-guiguang-high-speed-railway-guilin-hezhou-route-add-on.json"
     },
     {
+      "igdb_id": 162029,
+      "game_name": "Train Simulator: GWR 4200/5205/7200 2-8-0T Pack",
+      "file": "missing/T/162029-train-simulator-gwr-4200-5205-7200-2-8-0t-pack.json"
+    },
+    {
       "igdb_id": 162552,
       "game_name": "Train Simulator: GWR Class 14XX Loco Add-On",
       "file": "missing/T/162552-train-simulator-gwr-class-14xx-loco-add-on.json"
+    },
+    {
+      "igdb_id": 162044,
+      "game_name": "Train Simulator: GWR Star Loco Add-On",
+      "file": "missing/T/162044-train-simulator-gwr-star-loco-add-on.json"
     },
     {
       "igdb_id": 156391,
@@ -1287562,6 +1287722,11 @@
       "file": "missing/T/156370-train-simulator-livonia-division-monroe-subdivision-route-add-on.json"
     },
     {
+      "igdb_id": 162022,
+      "game_name": "Train Simulator: LMS Rebuilt Royal Scot Steam Loco Add-On",
+      "file": "missing/T/162022-train-simulator-lms-rebuilt-royal-scot-steam-loco-add-on.json"
+    },
+    {
       "igdb_id": 159597,
       "game_name": "Train Simulator: LMS Stanier Mogul Steam Loco Add-On",
       "file": "missing/T/159597-train-simulator-lms-stanier-mogul-steam-loco-add-on.json"
@@ -1287585,6 +1287750,11 @@
       "igdb_id": 156369,
       "game_name": "Train Simulator: London to Brighton Route Add-On",
       "file": "missing/T/156369-train-simulator-london-to-brighton-route-add-on.json"
+    },
+    {
+      "igdb_id": 162034,
+      "game_name": "Train Simulator: London Transport Heritage Collection",
+      "file": "missing/T/162034-train-simulator-london-transport-heritage-collection.json"
     },
     {
       "igdb_id": 156431,
@@ -1287625,6 +1287795,11 @@
       "igdb_id": 162567,
       "game_name": "Train Simulator: Metro-North P32 AC-DM 'Genesis' Loco Add-On",
       "file": "missing/T/162567-train-simulator-metro-north-p32-ac-dm-genesis-loco-add-on.json"
+    },
+    {
+      "igdb_id": 162046,
+      "game_name": "Train Simulator: Metronom ME 146 Loco Add-On",
+      "file": "missing/T/162046-train-simulator-metronom-me-146-loco-add-on.json"
     },
     {
       "igdb_id": 156484,
@@ -1287715,6 +1287890,11 @@
       "igdb_id": 323658,
       "game_name": "Train Simulator: Nanbu Juukan Tetsudou",
       "file": "missing/T/323658-train-simulator-nanbu-juukan-tetsudou.json"
+    },
+    {
+      "igdb_id": 162028,
+      "game_name": "Train Simulator: Network SouthEast Class 159 DMU Add-On",
+      "file": "missing/T/162028-train-simulator-network-southeast-class-159-dmu-add-on.json"
     },
     {
       "igdb_id": 162538,
@@ -1287842,6 +1288022,11 @@
       "file": "missing/T/156473-train-simulator-promontory-summit-route-add-on.json"
     },
     {
+      "igdb_id": 162031,
+      "game_name": "Train Simulator: PRR FA-1 & FA-2 Loco Add-On",
+      "file": "missing/T/162031-train-simulator-prr-fa-1-and-fa-2-loco-add-on.json"
+    },
+    {
       "igdb_id": 162551,
       "game_name": "Train Simulator: PRR GE 44 Loco Add-On",
       "file": "missing/T/162551-train-simulator-prr-ge-44-loco-add-on.json"
@@ -1287902,6 +1288087,11 @@
       "file": "missing/T/162554-train-simulator-scotrail-class-68-loco-add-on.json"
     },
     {
+      "igdb_id": 162032,
+      "game_name": "Train Simulator: SD40-2 Independence Loco Add-On",
+      "file": "missing/T/162032-train-simulator-sd40-2-independence-loco-add-on.json"
+    },
+    {
       "igdb_id": 323661,
       "game_name": "Train Simulator: Seibu Tetsudou Shinjuku-sen Shin-2000 10000-kei",
       "file": "missing/T/323661-train-simulator-seibu-tetsudou-shinjuku-sen-shin-2000-10000-kei.json"
@@ -1287942,6 +1288132,11 @@
       "file": "missing/T/154256-train-simulator-south-devon-main-line-highbridge-and-burnham-plymouth-route-add-on.json"
     },
     {
+      "igdb_id": 162026,
+      "game_name": "Train Simulator: South Wales Coastal: Bristol - Swansea Route Add-on",
+      "file": "missing/T/162026-train-simulator-south-wales-coastal-bristol-swansea-route-add-on.json"
+    },
+    {
       "igdb_id": 156364,
       "game_name": "Train Simulator: South West China High Speed Route Add-On",
       "file": "missing/T/156364-train-simulator-south-west-china-high-speed-route-add-on.json"
@@ -1287962,6 +1288157,11 @@
       "file": "missing/T/162547-train-simulator-southern-pacific-ge-44-loco-add-on.json"
     },
     {
+      "igdb_id": 162042,
+      "game_name": "Train Simulator: Southern Pacific GP20 Loco Add-On",
+      "file": "missing/T/162042-train-simulator-southern-pacific-gp20-loco-add-on.json"
+    },
+    {
       "igdb_id": 162560,
       "game_name": "Train Simulator: Southern Pacific SD45T-2 Loco Add-On",
       "file": "missing/T/162560-train-simulator-southern-pacific-sd45t-2-loco-add-on.json"
@@ -1287970,6 +1288170,11 @@
       "igdb_id": 154254,
       "game_name": "Train Simulator: Southern Pacific U33C Loco Add-On",
       "file": "missing/T/154254-train-simulator-southern-pacific-u33c-loco-add-on.json"
+    },
+    {
+      "igdb_id": 162040,
+      "game_name": "Train Simulator: Southern Railway S15 Class Steam Loco Add-On",
+      "file": "missing/T/162040-train-simulator-southern-railway-s15-class-steam-loco-add-on.json"
     },
     {
       "igdb_id": 156379,
@@ -1288057,9 +1288262,19 @@
       "file": "missing/T/156345-train-simulator-totham-passengers-power-and-freight-route-add-on.json"
     },
     {
+      "igdb_id": 162023,
+      "game_name": "Train Simulator: Trainload BR Class 60 Loco Add-On",
+      "file": "missing/T/162023-train-simulator-trainload-br-class-60-loco-add-on.json"
+    },
+    {
       "igdb_id": 162338,
       "game_name": "Train Simulator: UK Military Wagon Pack",
       "file": "missing/T/162338-train-simulator-uk-military-wagon-pack.json"
+    },
+    {
+      "igdb_id": 162041,
+      "game_name": "Train Simulator: Union Pacific Challenger Loco Add-On",
+      "file": "missing/T/162041-train-simulator-union-pacific-challenger-loco-add-on.json"
     },
     {
       "igdb_id": 162563,
@@ -1288075,6 +1288290,11 @@
       "igdb_id": 195436,
       "game_name": "Train Simulator: Union Pacific F3 Loco",
       "file": "missing/T/195436-train-simulator-union-pacific-f3-loco.json"
+    },
+    {
+      "igdb_id": 162027,
+      "game_name": "Train Simulator: Union Pacific FEF-3 Loco Add-On",
+      "file": "missing/T/162027-train-simulator-union-pacific-fef-3-loco-add-on.json"
     },
     {
       "igdb_id": 156344,
@@ -1288095,6 +1288315,11 @@
       "igdb_id": 162541,
       "game_name": "Train Simulator: Union Pacific SD45 Loco Add-On",
       "file": "missing/T/162541-train-simulator-union-pacific-sd45-loco-add-on.json"
+    },
+    {
+      "igdb_id": 162047,
+      "game_name": "Train Simulator: Union Pacific SD9043MAC Loco Add-On",
+      "file": "missing/T/162047-train-simulator-union-pacific-sd9043mac-loco-add-on.json"
     },
     {
       "igdb_id": 162565,
@@ -1300372,6 +1300597,11 @@
       "file": "missing/T/53842-tropico-5-espionage.json"
     },
     {
+      "igdb_id": 162071,
+      "game_name": "Tropico 5: Generalissimo",
+      "file": "missing/T/162071-tropico-5-generalissimo.json"
+    },
+    {
       "igdb_id": 155379,
       "game_name": "Tropico 5: Gone Green",
       "file": "missing/T/155379-tropico-5-gone-green.json"
@@ -1300380,6 +1300610,16 @@
       "igdb_id": 162074,
       "game_name": "Tropico 5: Inquisition",
       "file": "missing/T/162074-tropico-5-inquisition.json"
+    },
+    {
+      "igdb_id": 162073,
+      "game_name": "Tropico 5: Joint Venture",
+      "file": "missing/T/162073-tropico-5-joint-venture.json"
+    },
+    {
+      "igdb_id": 162068,
+      "game_name": "Tropico 5: Mad World",
+      "file": "missing/T/162068-tropico-5-mad-world.json"
     },
     {
       "igdb_id": 162075,
@@ -1300392,9 +1300632,29 @@
       "file": "missing/T/75686-tropico-5-paradise-lost.json"
     },
     {
+      "igdb_id": 162070,
+      "game_name": "Tropico 5: Supervillain",
+      "file": "missing/T/162070-tropico-5-supervillain.json"
+    },
+    {
+      "igdb_id": 162069,
+      "game_name": "Tropico 5: Surfs Up!",
+      "file": "missing/T/162069-tropico-5-surfs-up.json"
+    },
+    {
+      "igdb_id": 162067,
+      "game_name": "Tropico 5: T-Day",
+      "file": "missing/T/162067-tropico-5-t-day.json"
+    },
+    {
       "igdb_id": 53841,
       "game_name": "Tropico 5: The Big Cheese",
       "file": "missing/T/53841-tropico-5-the-big-cheese.json"
+    },
+    {
+      "igdb_id": 162072,
+      "game_name": "Tropico 5: The Supercomputer",
+      "file": "missing/T/162072-tropico-5-the-supercomputer.json"
     },
     {
       "igdb_id": 53840,
