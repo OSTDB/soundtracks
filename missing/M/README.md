@@ -1160,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Research | 241876 | [241876-magic-research.json](./241876-magic-research.json) |
 | Magic Research 2 | 296750 | [296750-magic-research-2.json](./296750-magic-research-2.json) |
 | Magic Revenge: Casual Idle RPG | 180234 | [180234-magic-revenge-casual-idle-rpg.json](./180234-magic-revenge-casual-idle-rpg.json) |
+| Magic Ring | 168538 | [168538-magic-ring.json](./168538-magic-ring.json) |
 | Magic River | 348716 | [348716-magic-river.json](./348716-magic-river.json) |
 | Magic Rufus | 93437 | [93437-magic-rufus.json](./93437-magic-rufus.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
@@ -5821,6 +5822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mearth | 197875 | [197875-mearth.json](./197875-mearth.json) |
 | Mearth II | 226722 | [226722-mearth-ii.json](./226722-mearth-ii.json) |
 | Measurement Problem | 166740 | [166740-measurement-problem.json](./166740-measurement-problem.json) |
+| Measuring Up | 168558 | [168558-measuring-up.json](./168558-measuring-up.json) |
 | Meat | 183755 | [183755-meat.json](./183755-meat.json) |
 | Meat | 225816 | [225816-meat.json](./225816-meat.json) |
 | Meat | 377302 | [377302-meat.json](./377302-meat.json) |
@@ -8127,6 +8129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Nights | 183540 | [183540-meow-nights.json](./183540-meow-nights.json) |
 | Meow Path | 305962 | [305962-meow-path.json](./305962-meow-path.json) |
 | Meow Path 2 | 360741 | [360741-meow-path-2.json](./360741-meow-path-2.json) |
+| Meow Playground | 168543 | [168543-meow-playground.json](./168543-meow-playground.json) |
 | Meow Star Archives | 415223 | [415223-meow-star-archives.json](./415223-meow-star-archives.json) |
 | Meow Survivors | 389579 | [389579-meow-survivors.json](./389579-meow-survivors.json) |
 | Meow Sushi Night | 183310 | [183310-meow-sushi-night.json](./183310-meow-sushi-night.json) |
