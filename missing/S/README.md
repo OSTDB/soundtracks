@@ -11841,6 +11841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender: The Nine Pages | 321329 | [321329-slender-the-nine-pages.json](./321329-slender-the-nine-pages.json) |
 | Slender: Visit into the Woods | 236922 | [236922-slender-visit-into-the-woods.json](./236922-slender-visit-into-the-woods.json) |
 | Slenderclown: Be Afraid of It! | 321301 | [321301-slenderclown-be-afraid-of-it.json](./321301-slenderclown-be-afraid-of-it.json) |
+| Slendergus | 162063 | [162063-slendergus.json](./162063-slendergus.json) |
 | Slenderman | 152491 | [152491-slenderman.json](./152491-slenderman.json) |
 | Slenderman History: WWII Faceless Horror | 321165 | [321165-slenderman-history-wwii-faceless-horror.json](./321165-slenderman-history-wwii-faceless-horror.json) |
 | Slenderman Must Die: Chapter 1 | 321025 | [321025-slenderman-must-die-chapter-1.json](./321025-slenderman-must-die-chapter-1.json) |
