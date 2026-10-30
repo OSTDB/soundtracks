@@ -5060,6 +5060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape with AI | 261984 | [261984-escape-with-ai.json](./261984-escape-with-ai.json) |
 | Escape With Bombs | 179134 | [179134-escape-with-bombs.json](./179134-escape-with-bombs.json) |
 | Escape with Monet | 96928 | [96928-escape-with-monet.json](./96928-escape-with-monet.json) |
+| Escape Within | 152581 | [152581-escape-within.json](./152581-escape-within.json) |
 | Escape Yourself | 208665 | [208665-escape-yourself.json](./208665-escape-yourself.json) |
 | Escape Z Town | 219923 | [219923-escape-z-town.json](./219923-escape-z-town.json) |
 | Escape Zolstar | 121633 | [121633-escape-zolstar.json](./121633-escape-zolstar.json) |
