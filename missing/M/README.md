@@ -11381,6 +11381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf 3D | 117753 | [117753-mini-golf-3d.json](./117753-mini-golf-3d.json) |
 | Mini Golf Battle | 234504 | [234504-mini-golf-battle.json](./234504-mini-golf-battle.json) |
 | Mini Golf Buddies | 110182 | [110182-mini-golf-buddies.json](./110182-mini-golf-buddies.json) |
+| Mini Golf Castles | 145889 | [145889-mini-golf-castles.json](./145889-mini-golf-castles.json) |
 | Mini Golf Championship | 204705 | [204705-mini-golf-championship.json](./204705-mini-golf-championship.json) |
 | Mini Golf Club | 130078 | [130078-mini-golf-club.json](./130078-mini-golf-club.json) |
 | Mini Golf Halloween | 233754 | [233754-mini-golf-halloween.json](./233754-mini-golf-halloween.json) |
@@ -19582,6 +19583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Emporium | 56906 | [56906-mystic-emporium.json](./56906-mystic-emporium.json) |
 | Mystic Escape: Diary of a Prisoner | 130171 | [130171-mystic-escape-diary-of-a-prisoner.json](./130171-mystic-escape-diary-of-a-prisoner.json) |
 | Mystic Explorer | 316642 | [316642-mystic-explorer.json](./316642-mystic-explorer.json) |
+| Mystic Fate | 145961 | [145961-mystic-fate.json](./145961-mystic-fate.json) |
 | Mystic Fishing: A Fantasy Fishing RPG | 356077 | [356077-mystic-fishing-a-fantasy-fishing-rpg.json](./356077-mystic-fishing-a-fantasy-fishing-rpg.json) |
 | Mystic Fog Maze | 421455 | [421455-mystic-fog-maze.json](./421455-mystic-fog-maze.json) |
 | Mystic Forest | 226424 | [226424-mystic-forest.json](./226424-mystic-forest.json) |
