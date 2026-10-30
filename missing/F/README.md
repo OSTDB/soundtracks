@@ -2084,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry: Silver Pack | 223558 | [223558-far-cry-silver-pack.json](./223558-far-cry-silver-pack.json) |
 | Far Cry: Wild Expedition | 100668 | [100668-far-cry-wild-expedition.json](./100668-far-cry-wild-expedition.json) |
 | Far East of Eden II: Manji-maru | 71489 | [71489-far-east-of-eden-ii-manji-maru.json](./71489-far-east-of-eden-ii-manji-maru.json) |
+| Far East of Eden II: Manjimaru | 145890 | [145890-far-east-of-eden-ii-manjimaru.json](./145890-far-east-of-eden-ii-manjimaru.json) |
 | Far East of Eden III: Namida | 80576 | [80576-far-east-of-eden-iii-namida.json](./80576-far-east-of-eden-iii-namida.json) |
 | Far East of Eden Ziria: Harukanaru Jipang | 7214 | [7214-far-east-of-eden-ziria-harukanaru-jipang.json](./7214-far-east-of-eden-ziria-harukanaru-jipang.json) |
 | Far East of Eden: Jipang Seven | 62119 | [62119-far-east-of-eden-jipang-seven.json](./62119-far-east-of-eden-jipang-seven.json) |
