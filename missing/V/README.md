@@ -3285,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox Siege | 216665 | [216665-vox-siege.json](./216665-vox-siege.json) |
 | Voxatron | 51288 | [51288-voxatron.json](./51288-voxatron.json) |
 | Voxel - 3D Color by Number | 95094 | [95094-voxel-3d-color-by-number.json](./95094-voxel-3d-color-by-number.json) |
+| Voxel Battle Simulator | 145843 | [145843-voxel-battle-simulator.json](./145843-voxel-battle-simulator.json) |
 | Voxel Blast | 34652 | [34652-voxel-blast.json](./34652-voxel-blast.json) |
 | Voxel Bot | 119473 | [119473-voxel-bot.json](./119473-voxel-bot.json) |
 | Voxel Clicker | 107606 | [107606-voxel-clicker.json](./107606-voxel-clicker.json) |
