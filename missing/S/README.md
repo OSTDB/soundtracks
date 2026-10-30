@@ -7167,6 +7167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shield of Breaker | 380118 | [380118-shield-of-breaker.json](./380118-shield-of-breaker.json) |
 | Shield of Shalwend | 133126 | [133126-shield-of-shalwend.json](./133126-shield-of-shalwend.json) |
 | Shield Shock | 123873 | [123873-shield-shock.json](./123873-shield-shock.json) |
+| Shield Shock: Winter Wonderland Pack | 166431 | [166431-shield-shock-winter-wonderland-pack.json](./166431-shield-shock-winter-wonderland-pack.json) |
 | Shield Strike | 301126 | [301126-shield-strike.json](./301126-shield-strike.json) |
 | Shieldbound | 349406 | [349406-shieldbound.json](./349406-shieldbound.json) |
 | Shieldmaiden | 129709 | [129709-shieldmaiden.json](./129709-shieldmaiden.json) |
@@ -9720,6 +9721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 105: The Maid Fuku to Kikanjuu | 43478 | [43478-simple-2000-series-vol-105-the-maid-fuku-to-kikanjuu.json](./43478-simple-2000-series-vol-105-the-maid-fuku-to-kikanjuu.json) |
 | Simple 2000 Series Vol. 109: The Taxi 2 | 203335 | [203335-simple-2000-series-vol-109-the-taxi-2.json](./203335-simple-2000-series-vol-109-the-taxi-2.json) |
 | Simple 2000 Series Vol. 110: The Toubou Prisoner - Ross City Shinjitsu he no 10-Jikan | 60891 | [60891-simple-2000-series-vol-110-the-toubou-prisoner-ross-city-shinjitsu-he-no-10-jikan.json](./60891-simple-2000-series-vol-110-the-toubou-prisoner-ross-city-shinjitsu-he-no-10-jikan.json) |
+| Simple 2000 Series Vol. 113: The Tairyou Jigoku | 166445 | [166445-simple-2000-series-vol-113-the-tairyou-jigoku.json](./166445-simple-2000-series-vol-113-the-tairyou-jigoku.json) |
 | Simple 2000 Series Vol. 114: The Onna Okappichi Torimonochou - Oharuchan Go Go Go! | 56965 | [56965-simple-2000-series-vol-114-the-onna-okappichi-torimonochou-oharuchan-go-go-go.json](./56965-simple-2000-series-vol-114-the-onna-okappichi-torimonochou-oharuchan-go-go-go.json) |
 | Simple 2000 Series Vol. 115: The Roomshare to Iu Seikatsu | 203336 | [203336-simple-2000-series-vol-115-the-roomshare-to-iu-seikatsu.json](./203336-simple-2000-series-vol-115-the-roomshare-to-iu-seikatsu.json) |
 | Simple 2000 Series Vol. 117: The Zerosen | 203338 | [203338-simple-2000-series-vol-117-the-zerosen.json](./203338-simple-2000-series-vol-117-the-zerosen.json) |
@@ -16300,7 +16302,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sotidrokhima | 226396 | [226396-sotidrokhima.json](./226396-sotidrokhima.json) |
 | Soto Nemuri | 229671 | [229671-soto-nemuri.json](./229671-soto-nemuri.json) |
 | Sotsugyou Crossworld | 108838 | [108838-sotsugyou-crossworld.json](./108838-sotsugyou-crossworld.json) |
+| Sotsugyou M: Male Graduation - Seitokai Naga no Kareinaru Inbou | 166395 | [166395-sotsugyou-m-male-graduation-seitokai-naga-no-kareinaru-inbou.json](./166395-sotsugyou-m-male-graduation-seitokai-naga-no-kareinaru-inbou.json) |
+| Sotsugyou R: Graduation Real | 166396 | [166396-sotsugyou-r-graduation-real.json](./166396-sotsugyou-r-graduation-real.json) |
 | Sotsugyou Ryokou | 263955 | [263955-sotsugyou-ryokou.json](./263955-sotsugyou-ryokou.json) |
+| Sotsugyou Vacation | 166398 | [166398-sotsugyou-vacation.json](./166398-sotsugyou-vacation.json) |
 | Sotsugyou Vacation | 381647 | [381647-sotsugyou-vacation.json](./381647-sotsugyou-vacation.json) |
 | Sotsugyou: Graduation | 242774 | [242774-sotsugyou-graduation.json](./242774-sotsugyou-graduation.json) |
 | Sotsugyou: Graduation - Final | 268543 | [268543-sotsugyou-graduation-final.json](./268543-sotsugyou-graduation-final.json) |
@@ -23152,10 +23157,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Division 2 | 106112 | [106112-steel-division-2.json](./106112-steel-division-2.json) |
 | Steel Division 2: Men of Steel | 260599 | [260599-steel-division-2-men-of-steel.json](./260599-steel-division-2-men-of-steel.json) |
 | Steel Division 2: Nemesis - Battle of Rimini | 143080 | [143080-steel-division-2-nemesis-battle-of-rimini.json](./143080-steel-division-2-nemesis-battle-of-rimini.json) |
+| Steel Division 2: Nemesis #1 - Sandomierz | 166413 | [166413-steel-division-2-nemesis-1-sandomierz.json](./166413-steel-division-2-nemesis-1-sandomierz.json) |
+| Steel Division 2: Nemesis #2 - Lvov Offensive | 166415 | [166415-steel-division-2-nemesis-2-lvov-offensive.json](./166415-steel-division-2-nemesis-2-lvov-offensive.json) |
 | Steel Division 2: Nemesis #4 - Storming Toulon | 157535 | [157535-steel-division-2-nemesis-4-storming-toulon.json](./157535-steel-division-2-nemesis-4-storming-toulon.json) |
 | Steel Division 2: Nemesis #5 - Raid on Drvar | 204890 | [204890-steel-division-2-nemesis-5-raid-on-drvar.json](./204890-steel-division-2-nemesis-5-raid-on-drvar.json) |
 | Steel Division 2: Reinforcement Pack #11 | 157542 | [157542-steel-division-2-reinforcement-pack-11.json](./157542-steel-division-2-reinforcement-pack-11.json) |
 | Steel Division 2: Reinforcement Pack #14 - Aces | 318438 | [318438-steel-division-2-reinforcement-pack-14-aces.json](./318438-steel-division-2-reinforcement-pack-14-aces.json) |
+| Steel Division 2: Reinforcement Pack #9 - Army General Versus | 166414 | [166414-steel-division-2-reinforcement-pack-9-army-general-versus.json](./166414-steel-division-2-reinforcement-pack-9-army-general-versus.json) |
 | Steel Division 2: Tribute to Normandy '44 | 293542 | [293542-steel-division-2-tribute-to-normandy-44.json](./293542-steel-division-2-tribute-to-normandy-44.json) |
 | Steel Division 2: Tribute to the Liberation of Italy | 191036 | [191036-steel-division-2-tribute-to-the-liberation-of-italy.json](./191036-steel-division-2-tribute-to-the-liberation-of-italy.json) |
 | Steel Division: Normandy 44 | 27475 | [27475-steel-division-normandy-44.json](./27475-steel-division-normandy-44.json) |
