@@ -1765,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On a Cloudy Day | 266052 | [266052-on-a-cloudy-day.json](./266052-on-a-cloudy-day.json) |
 | On a Journey RPG | 309925 | [309925-on-a-journey-rpg.json](./309925-on-a-journey-rpg.json) |
 | On a Rainy Day | 68731 | [68731-on-a-rainy-day.json](./68731-on-a-rainy-day.json) |
+| On a Roll | 174491 | [174491-on-a-roll.json](./174491-on-a-roll.json) |
 | On a Roll | 71017 | [71017-on-a-roll.json](./71017-on-a-roll.json) |
 | On A Roll | 9247 | [9247-on-a-roll.json](./9247-on-a-roll.json) |
 | On a Roll 3D: Levels 7 - 9 | 197382 | [197382-on-a-roll-3d-levels-7-9.json](./197382-on-a-roll-3d-levels-7-9.json) |
