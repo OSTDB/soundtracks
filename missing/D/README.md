@@ -3681,7 +3681,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Broadcast | 153878 | [153878-deadly-broadcast.json](./153878-deadly-broadcast.json) |
 | Deadly Burrito | 111506 | [111506-deadly-burrito.json](./111506-deadly-burrito.json) |
 | Deadly Contagion | 275130 | [275130-deadly-contagion.json](./275130-deadly-contagion.json) |
-| Deadly Creatures | 4799 | [4799-deadly-creatures.json](./4799-deadly-creatures.json) |
 | Deadly Cryptids | 87966 | [87966-deadly-cryptids.json](./87966-deadly-cryptids.json) |
 | Deadly Curse | 107683 | [107683-deadly-curse.json](./107683-deadly-curse.json) |
 | Deadly Dainosaur: Hunting Safari | 147289 | [147289-deadly-dainosaur-hunting-safari.json](./147289-deadly-dainosaur-hunting-safari.json) |
@@ -15673,6 +15672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Game | 11247 | [11247-duck-game.json](./11247-duck-game.json) |
 | Duck Game | 328300 | [328300-duck-game.json](./328300-duck-game.json) |
 | Duck Guardian One | 135883 | [135883-duck-guardian-one.json](./135883-duck-guardian-one.json) |
+| Duck Hunt | 127559 | [127559-duck-hunt.json](./127559-duck-hunt.json) |
 | Duck Hunt | 220980 | [220980-duck-hunt.json](./220980-duck-hunt.json) |
 | Duck Hunt | 2741 | [2741-duck-hunt.json](./2741-duck-hunt.json) |
 | Duck Hunt | 377642 | [377642-duck-hunt.json](./377642-duck-hunt.json) |
