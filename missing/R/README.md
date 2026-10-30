@@ -72,7 +72,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Tactics I & II Cosmos: Deluxe Edition | 249962 | [249962-r-type-tactics-i-and-ii-cosmos-deluxe-edition.json](./249962-r-type-tactics-i-and-ii-cosmos-deluxe-edition.json) |
 | R-Type Tactics I & II Cosmos: Limited Edition | 276768 | [276768-r-type-tactics-i-and-ii-cosmos-limited-edition.json](./276768-r-type-tactics-i-and-ii-cosmos-limited-edition.json) |
 | R-Type Tactics II: Operation Bitter Chocolate | 44505 | [44505-r-type-tactics-ii-operation-bitter-chocolate.json](./44505-r-type-tactics-ii-operation-bitter-chocolate.json) |
-| R: Racing Evolution | 4076 | [4076-r-racing-evolution.json](./4076-r-racing-evolution.json) |
 | R?MJ: The Mystery Hospital | 54928 | [54928-r-mj-the-mystery-hospital.json](./54928-r-mj-the-mystery-hospital.json) |
 | R.A.I.D | 400673 | [400673-r-a-i-d.json](./400673-r-a-i-d.json) |
 | R.A.I.L. Together | 409644 | [409644-r-a-i-l-together.json](./409644-r-a-i-l-together.json) |
