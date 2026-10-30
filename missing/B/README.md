@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6147,6 +6148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better Than Us | 380834 | [380834-better-than-us.json](./380834-better-than-us.json) |
 | Better Than Wolves | 297008 | [297008-better-than-wolves.json](./297008-better-than-wolves.json) |
 | Better to Upload | 183429 | [183429-better-to-upload.json](./183429-better-to-upload.json) |
+| Better to Upload Two Souls | 134863 | [134863-better-to-upload-two-souls.json](./134863-better-to-upload-two-souls.json) |
 | Better Tomorrows | 180829 | [180829-better-tomorrows.json](./180829-better-tomorrows.json) |
 | Better With A Friend | 301255 | [301255-better-with-a-friend.json](./301255-better-with-a-friend.json) |
 | BetterEd Element Master | 106754 | [106754-bettered-element-master.json](./106754-bettered-element-master.json) |
@@ -13766,6 +13768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breezy Paws | 274735 | [274735-breezy-paws.json](./274735-breezy-paws.json) |
 | Brelok: Nezumi-tachi no Dasshutsu | 330509 | [330509-brelok-nezumi-tachi-no-dasshutsu.json](./330509-brelok-nezumi-tachi-no-dasshutsu.json) |
 | Bremen Hot Strings | 236743 | [236743-bremen-hot-strings.json](./236743-bremen-hot-strings.json) |
+| Brendan Keogh's Putting Challenge | 134869 | [134869-brendan-keoghs-putting-challenge.json](./134869-brendan-keoghs-putting-challenge.json) |
 | Brendan Keogh's Putting Challenge | 191444 | [191444-brendan-keoghs-putting-challenge.json](./191444-brendan-keoghs-putting-challenge.json) |
 | Brendan Keogh's Putting Land | 329908 | [329908-brendan-keoghs-putting-land.json](./329908-brendan-keoghs-putting-land.json) |
 | Brendon's Water Polo | 306401 | [306401-brendons-water-polo.json](./306401-brendons-water-polo.json) |
@@ -16499,6 +16502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | By the King's Will | 398694 | [398694-by-the-kings-will.json](./398694-by-the-kings-will.json) |
 | By the Numbers | 413892 | [413892-by-the-numbers.json](./413892-by-the-numbers.json) |
 | By the Pier | 207290 | [207290-by-the-pier.json](./207290-by-the-pier.json) |
+| By Your Side | 134864 | [134864-by-your-side.json](./134864-by-your-side.json) |
 | Byakko: Shijin Butai Enrenki | 342755 | [342755-byakko-shijin-butai-enrenki.json](./342755-byakko-shijin-butai-enrenki.json) |
 | Byakuya Monogatari: Winchester-ke no Matsuei | 287633 | [287633-byakuya-monogatari-winchester-ke-no-matsuei.json](./287633-byakuya-monogatari-winchester-ke-no-matsuei.json) |
 | Byakuya Museum | 249723 | [249723-byakuya-museum.json](./249723-byakuya-museum.json) |
