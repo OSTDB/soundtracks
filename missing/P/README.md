@@ -3574,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pendulo Adventure Pack | 223537 | [223537-pendulo-adventure-pack.json](./223537-pendulo-adventure-pack.json) |
 | Pendulo Studios Collection | 284750 | [284750-pendulo-studios-collection.json](./284750-pendulo-studios-collection.json) |
 | Pendulous | 64841 | [64841-pendulous.json](./64841-pendulous.json) |
+| Penelope | 149775 | [149775-penelope.json](./149775-penelope.json) |
 | Penelope Pendrick and the Art of Deceit | 316422 | [316422-penelope-pendrick-and-the-art-of-deceit.json](./316422-penelope-pendrick-and-the-art-of-deceit.json) |
 | Penelope Syndrome | 341585 | [341585-penelope-syndrome.json](./341585-penelope-syndrome.json) |
 | Penelope's Gift | 397379 | [397379-penelopes-gift.json](./397379-penelopes-gift.json) |
@@ -4433,6 +4434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petmancer | 351400 | [351400-petmancer.json](./351400-petmancer.json) |
 | Petoons Party | 117453 | [117453-petoons-party.json](./117453-petoons-party.json) |
 | Petpet Park | 268054 | [268054-petpet-park.json](./268054-petpet-park.json) |
+| Petra and the Thylacine | 149815 | [149815-petra-and-the-thylacine.json](./149815-petra-and-the-thylacine.json) |
 | Petracal | 364824 | [364824-petracal.json](./364824-petracal.json) |
 | Petradise | 175246 | [175246-petradise.json](./175246-petradise.json) |
 | Petri Dish | 356624 | [356624-petri-dish.json](./356624-petri-dish.json) |
@@ -6994,6 +6996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitch Silent | 230154 | [230154-pitch-silent.json](./230154-pitch-silent.json) |
 | Pitch-Hit | 57710 | [57710-pitch-hit.json](./57710-pitch-hit.json) |
 | Pitch-Hit: Baseball | 31347 | [31347-pitch-hit-baseball.json](./31347-pitch-hit-baseball.json) |
+| Pitched Battle | 149785 | [149785-pitched-battle.json](./149785-pitched-battle.json) |
 | Pitcher and the Whale | 153355 | [153355-pitcher-and-the-whale.json](./153355-pitcher-and-the-whale.json) |
 | Pitchfork | 364456 | [364456-pitchfork.json](./364456-pitchfork.json) |
 | Pitchfork Battles | 244858 | [244858-pitchfork-battles.json](./244858-pitchfork-battles.json) |
@@ -12615,6 +12618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
 | Press Axe | 252000 | [252000-press-axe.json](./252000-press-axe.json) |
+| Press Ctrl | 149770 | [149770-press-ctrl.json](./149770-press-ctrl.json) |
 | Press Inc. | 108275 | [108275-press-inc.json](./108275-press-inc.json) |
 | Press Lex to Metaverx | 212097 | [212097-press-lex-to-metaverx.json](./212097-press-lex-to-metaverx.json) |
 | Press Play | 229568 | [229568-press-play.json](./229568-press-play.json) |
