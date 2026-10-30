@@ -2041,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidney Stone Clicker | 369630 | [369630-kidney-stone-clicker.json](./369630-kidney-stone-clicker.json) |
 | Kido Keisatstsu Patlabor: Griffon-hen | 75897 | [75897-kido-keisatstsu-patlabor-griffon-hen.json](./75897-kido-keisatstsu-patlabor-griffon-hen.json) |
 | Kido: Ride on Time | 148179 | [148179-kido-ride-on-time.json](./148179-kido-ride-on-time.json) |
+| Kidosenshi Jyundam Seed Destiny | 131130 | [131130-kidosenshi-jyundam-seed-destiny.json](./131130-kidosenshi-jyundam-seed-destiny.json) |
 | Kidou Butou-den G Gundam | 42371 | [42371-kidou-butou-den-g-gundam.json](./42371-kidou-butou-den-g-gundam.json) |
 | Kidou Club G: Braver Burst | 206549 | [206549-kidou-club-g-braver-burst.json](./206549-kidou-club-g-braver-burst.json) |
 | Kidou Gekidan Haro Ichiza: Gundam Mahjong + Z: Sara ni Deki Ruyouni Nattana! | 79185 | [79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json](./79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json) |
