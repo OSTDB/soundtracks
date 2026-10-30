@@ -3482,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerion: The Last Alchemist | 247700 | [247700-aerion-the-last-alchemist.json](./247700-aerion-the-last-alchemist.json) |
 | Aeris | 288745 | [288745-aeris.json](./288745-aeris.json) |
 | Aeris & Zack | 157134 | [157134-aeris-and-zack.json](./157134-aeris-and-zack.json) |
+| Aero Battle | 158892 | [158892-aero-battle.json](./158892-aero-battle.json) |
 | Aero Cosmos | 335094 | [335094-aero-cosmos.json](./335094-aero-cosmos.json) |
 | Aero Dancing F: Todoroki Tsubasa no Hatsu Hikou | 267381 | [267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json](./267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json) |
 | Aero Dancing I | 267380 | [267380-aero-dancing-i.json](./267380-aero-dancing-i.json) |
@@ -6580,6 +6581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-in-One Solitaire | 88608 | [88608-all-in-one-solitaire.json](./88608-all-in-one-solitaire.json) |
 | All-In-One Sports VR | 150755 | [150755-all-in-one-sports-vr.json](./150755-all-in-one-sports-vr.json) |
 | All-In-One Summer Sports VR | 257268 | [257268-all-in-one-summer-sports-vr.json](./257268-all-in-one-summer-sports-vr.json) |
+| All-Inn | 158900 | [158900-all-inn.json](./158900-all-inn.json) |
 | All-Mountain Hucker | 283908 | [283908-all-mountain-hucker.json](./283908-all-mountain-hucker.json) |
 | All-Pro Basketball | 8909 | [8909-all-pro-basketball.json](./8909-all-pro-basketball.json) |
 | All-Pro Football 2K8 | 5481 | [5481-all-pro-football-2k8.json](./5481-all-pro-football-2k8.json) |
@@ -14363,6 +14365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroPop | 3755 | [3755-astropop.json](./3755-astropop.json) |
 | AstroPuffs | 253505 | [253505-astropuffs.json](./253505-astropuffs.json) |
 | Astropulse: Reincarnation | 327646 | [327646-astropulse-reincarnation.json](./327646-astropulse-reincarnation.json) |
+| Astroroxx | 158896 | [158896-astroroxx.json](./158896-astroroxx.json) |
 | Astrorun | 330601 | [330601-astrorun.json](./330601-astrorun.json) |
 | AstroRunner | 272858 | [272858-astrorunner.json](./272858-astrorunner.json) |
 | Astrosaurox | 419603 | [419603-astrosaurox.json](./419603-astrosaurox.json) |
