@@ -750,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zephyr | 327268 | [327268-zephyr.json](./327268-zephyr.json) |
 | Zephyr: The Cloud Odyssey | 182707 | [182707-zephyr-the-cloud-odyssey.json](./182707-zephyr-the-cloud-odyssey.json) |
 | Zephyr's Pass | 320282 | [320282-zephyrs-pass.json](./320282-zephyrs-pass.json) |
+| Zephyrus | 163126 | [163126-zephyrus.json](./163126-zephyrus.json) |
 | Zeppelin | 23871 | [23871-zeppelin.json](./23871-zeppelin.json) |
 | Zeppelin Rescue | 297034 | [297034-zeppelin-rescue.json](./297034-zeppelin-rescue.json) |
 | Zeppelin Rush | 348925 | [348925-zeppelin-rush.json](./348925-zeppelin-rush.json) |
@@ -1780,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Ate My Friends | 38884 | [38884-zombies-ate-my-friends.json](./38884-zombies-ate-my-friends.json) |
 | Zombies Ate My Neighbors | 2162 | [2162-zombies-ate-my-neighbors.json](./2162-zombies-ate-my-neighbors.json) |
 | Zombies Ate My Neighbors and Ghoul Patrol | 147249 | [147249-zombies-ate-my-neighbors-and-ghoul-patrol.json](./147249-zombies-ate-my-neighbors-and-ghoul-patrol.json) |
+| Zombies Ate My Neighbors TC | 163104 | [163104-zombies-ate-my-neighbors-tc.json](./163104-zombies-ate-my-neighbors-tc.json) |
 | Zombies Ate My Neighbors: The Terrifying Time Trials of Dr. Tongue | 338847 | [338847-zombies-ate-my-neighbors-the-terrifying-time-trials-of-dr-tongue.json](./338847-zombies-ate-my-neighbors-the-terrifying-time-trials-of-dr-tongue.json) |
 | Zombies Ate My Pizza | 23612 | [23612-zombies-ate-my-pizza.json](./23612-zombies-ate-my-pizza.json) |
 | Zombies Attack | 207805 | [207805-zombies-attack.json](./207805-zombies-attack.json) |
