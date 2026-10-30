@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenonzard | 135498 | [135498-zenonzard.json](./135498-zenonzard.json) |
 | Zenpu-kun | 324968 | [324968-zenpu-kun.json](./324968-zenpu-kun.json) |
 | Zenquarium | 78552 | [78552-zenquarium.json](./78552-zenquarium.json) |
+| Zenra Toukou Training | 153674 | [153674-zenra-toukou-training.json](./153674-zenra-toukou-training.json) |
 | Zenses: Ocean | 21138 | [21138-zenses-ocean.json](./21138-zenses-ocean.json) |
 | Zenses: Rainforest | 21295 | [21295-zenses-rainforest.json](./21295-zenses-rainforest.json) |
 | Zenses: Zen Garden | 75122 | [75122-zenses-zen-garden.json](./75122-zenses-zen-garden.json) |
@@ -819,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Hour: Kill Zone | 317269 | [317269-zero-hour-kill-zone.json](./317269-zero-hour-kill-zone.json) |
 | Zero Hour: Savanna Aesthetics Pack | 353354 | [353354-zero-hour-savanna-aesthetics-pack.json](./353354-zero-hour-savanna-aesthetics-pack.json) |
 | Zero Idle | 143604 | [143604-zero-idle.json](./143604-zero-idle.json) |
+| Zero Infinity: Devil of Maxwell | 153668 | [153668-zero-infinity-devil-of-maxwell.json](./153668-zero-infinity-devil-of-maxwell.json) |
 | Zero Jikan he... | 329793 | [329793-zero-jikan-he.json](./329793-zero-jikan-he.json) |
 | Zero Killed | 83346 | [83346-zero-killed.json](./83346-zero-killed.json) |
 | Zero King | 293912 | [293912-zero-king.json](./293912-zero-king.json) |
