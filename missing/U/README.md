@@ -2755,6 +2755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unveiling the Unknown | 310396 | [310396-unveiling-the-unknown.json](./310396-unveiling-the-unknown.json) |
 | Unveloped | 81965 | [81965-unveloped.json](./81965-unveloped.json) |
 | Unveloped Pocket Tales | 98250 | [98250-unveloped-pocket-tales.json](./98250-unveloped-pocket-tales.json) |
+| Unwalkable | 143908 | [143908-unwalkable.json](./143908-unwalkable.json) |
 | Unwanted Experiment | 199944 | [199944-unwanted-experiment.json](./199944-unwanted-experiment.json) |
 | Unwanted gray | 141513 | [141513-unwanted-gray.json](./141513-unwanted-gray.json) |
 | Unwanted visitors | 154090 | [154090-unwanted-visitors.json](./154090-unwanted-visitors.json) |
