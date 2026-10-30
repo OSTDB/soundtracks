@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Daedalus | 218160 | [218160-mad-daedalus.json](./218160-mad-daedalus.json) |
 | Mad Dagger 2 | 100597 | [100597-mad-dagger-2.json](./100597-mad-dagger-2.json) |
 | Mad Defense | 213583 | [213583-mad-defense.json](./213583-mad-defense.json) |
+| Mad Devils | 142621 | [142621-mad-devils.json](./142621-mad-devils.json) |
 | Mad Devils: Damned-finitive Edition | 313337 | [313337-mad-devils-damned-finitive-edition.json](./313337-mad-devils-damned-finitive-edition.json) |
 | Mad Dex | 188356 | [188356-mad-dex.json](./188356-mad-dex.json) |
 | Mad Dex 2 | 227917 | [227917-mad-dex-2.json](./227917-mad-dex-2.json) |
@@ -567,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden Season 2 | 90917 | [90917-madden-season-2.json](./90917-madden-season-2.json) |
 | Maddening Overload | 60326 | [60326-maddening-overload.json](./60326-maddening-overload.json) |
 | Maddmadd | 381607 | [381607-maddmadd.json](./381607-maddmadd.json) |
+| Made | 142620 | [142620-made.json](./142620-made.json) |
 | Made For | 343241 | [343241-made-for.json](./343241-made-for.json) |
 | Made in Abyss: Binary Star Falling into Darkness | 146711 | [146711-made-in-abyss-binary-star-falling-into-darkness.json](./146711-made-in-abyss-binary-star-falling-into-darkness.json) |
 | Made in Abyss: Binary Star Falling into Darkness - Collector's Edition | 150144 | [150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json](./150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json) |
@@ -6575,6 +6577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Hasan | 128343 | [128343-mega-hasan.json](./128343-mega-hasan.json) |
 | Mega Kaiju Boom Ball | 390022 | [390022-mega-kaiju-boom-ball.json](./390022-mega-kaiju-boom-ball.json) |
 | Mega Knight | 288367 | [288367-mega-knight.json](./288367-mega-knight.json) |
+| Mega Knockdown | 141397 | [141397-mega-knockdown.json](./141397-mega-knockdown.json) |
 | Mega Knockdown: Supporter Colors | 340560 | [340560-mega-knockdown-supporter-colors.json](./340560-mega-knockdown-supporter-colors.json) |
 | Mega Load On | 390573 | [390573-mega-load-on.json](./390573-mega-load-on.json) |
 | Mega Mall Story 2 | 146725 | [146725-mega-mall-story-2.json](./146725-mega-mall-story-2.json) |
@@ -11954,6 +11957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miraculous: Rise of the Sphinx - Ultimate Edition | 223565 | [223565-miraculous-rise-of-the-sphinx-ultimate-edition.json](./223565-miraculous-rise-of-the-sphinx-ultimate-edition.json) |
 | Miraculum: The Last Revelation | 63927 | [63927-miraculum-the-last-revelation.json](./63927-miraculum-the-last-revelation.json) |
 | Mirador | 116939 | [116939-mirador.json](./116939-mirador.json) |
+| Mirage | 141409 | [141409-mirage.json](./141409-mirage.json) |
 | Mirage | 247761 | [247761-mirage.json](./247761-mirage.json) |
 | Mirage | 371353 | [371353-mirage.json](./371353-mirage.json) |
 | Mirage | 410391 | [410391-mirage.json](./410391-mirage.json) |
@@ -16180,6 +16184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mourningwood Lodge 2: Hidden Voice | 375487 | [375487-mourningwood-lodge-2-hidden-voice.json](./375487-mourningwood-lodge-2-hidden-voice.json) |
 | Mouse (Sneaking) | 81968 | [81968-mouse-sneaking.json](./81968-mouse-sneaking.json) |
 | Mouse & Crane | 302243 | [302243-mouse-and-crane.json](./302243-mouse-and-crane.json) |
+| Mouse and Cheese Tactics | 142636 | [142636-mouse-and-cheese-tactics.json](./142636-mouse-and-cheese-tactics.json) |
 | Mouse Attack | 42143 | [42143-mouse-attack.json](./42143-mouse-attack.json) |
 | Mouse Boy | 54228 | [54228-mouse-boy.json](./54228-mouse-boy.json) |
 | Mouse Corp. | 139692 | [139692-mouse-corp.json](./139692-mouse-corp.json) |
