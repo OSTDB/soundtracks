@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.O.X.: Flame of Xenocide | 196546 | [196546-f-o-x-flame-of-xenocide.json](./196546-f-o-x-flame-of-xenocide.json) |
 | F.R.A.G.G. | 306809 | [306809-f-r-a-g-g.json](./306809-f-r-a-g-g.json) |
 | F.R.A.X: Blackout | 403127 | [403127-f-r-a-x-blackout.json](./403127-f-r-a-x-blackout.json) |
+| F.U.B.A.R | 149243 | [149243-f-u-b-a-r.json](./149243-f-u-b-a-r.json) |
 | F*ck Stalin | 286056 | [286056-f-ck-stalin.json](./286056-f-ck-stalin.json) |
 | F*ck the HELL out | 337150 | [337150-f-ck-the-hell-out.json](./337150-f-ck-the-hell-out.json) |
 | F*ck This Game | 191129 | [191129-f-ck-this-game.json](./191129-f-ck-this-game.json) |
@@ -1737,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Defenders Bundle: Defend the Rook & Legend of Keepers | 262224 | [262224-fantasy-defenders-bundle-defend-the-rook-and-legend-of-keepers.json](./262224-fantasy-defenders-bundle-defend-the-rook-and-legend-of-keepers.json) |
 | Fantasy Desire: Anime Girls Saga | 378756 | [378756-fantasy-desire-anime-girls-saga.json](./378756-fantasy-desire-anime-girls-saga.json) |
 | Fantasy Dimension - Imagination & Tactics | 59718 | [59718-fantasy-dimension-imagination-and-tactics.json](./59718-fantasy-dimension-imagination-and-tactics.json) |
+| Fantasy Dungeon | 149246 | [149246-fantasy-dungeon.json](./149246-fantasy-dungeon.json) |
 | Fantasy Dungeon | 285946 | [285946-fantasy-dungeon.json](./285946-fantasy-dungeon.json) |
 | Fantasy Dungeon VR | 157367 | [157367-fantasy-dungeon-vr.json](./157367-fantasy-dungeon-vr.json) |
 | Fantasy Dynasty: Le Château Deretic | 99639 | [99639-fantasy-dynasty-le-chateau-deretic.json](./99639-fantasy-dynasty-le-chateau-deretic.json) |
@@ -11248,6 +11250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontiers | 357731 | [357731-frontiers.json](./357731-frontiers.json) |
 | Frontiers | 63353 | [63353-frontiers.json](./63353-frontiers.json) |
 | Frontiers of the Mind | 315519 | [315519-frontiers-of-the-mind.json](./315519-frontiers-of-the-mind.json) |
+| Frontiers Reach | 149162 | [149162-frontiers-reach.json](./149162-frontiers-reach.json) |
 | Frontiers Reach: Battlespace | 342708 | [342708-frontiers-reach-battlespace.json](./342708-frontiers-reach-battlespace.json) |
 | Frontiers Reborn | 329056 | [329056-frontiers-reborn.json](./329056-frontiers-reborn.json) |
 | Frontiers.io | 81075 | [81075-frontiers-io.json](./81075-frontiers-io.json) |
