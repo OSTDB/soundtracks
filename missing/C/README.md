@@ -1920,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking Multiplayer 2 | 245213 | [245213-car-parking-multiplayer-2.json](./245213-car-parking-multiplayer-2.json) |
 | Car Parking Real Driving Sim | 274976 | [274976-car-parking-real-driving-sim.json](./274976-car-parking-real-driving-sim.json) |
 | Car Parking Simulator 3D Game | 105929 | [105929-car-parking-simulator-3d-game.json](./105929-car-parking-simulator-3d-game.json) |
+| Car Parking Simulator VR | 155910 | [155910-car-parking-simulator-vr.json](./155910-car-parking-simulator-vr.json) |
 | Car Parking: Garage Simulator | 340835 | [340835-car-parking-garage-simulator.json](./340835-car-parking-garage-simulator.json) |
 | Car Parking: New Cars | 226296 | [226296-car-parking-new-cars.json](./226296-car-parking-new-cars.json) |
 | Car Parkour | 246867 | [246867-car-parkour.json](./246867-car-parkour.json) |
@@ -4312,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave! Cave! Deus Videt. | 388940 | [388940-cave-cave-deus-videt.json](./388940-cave-cave-deus-videt.json) |
 | Caveblazers | 33269 | [33269-caveblazers.json](./33269-caveblazers.json) |
 | Caveblazers: Together | 170909 | [170909-caveblazers-together.json](./170909-caveblazers-together.json) |
+| Cavebound | 155897 | [155897-cavebound.json](./155897-cavebound.json) |
 | Caved-in | 249797 | [249797-caved-in.json](./249797-caved-in.json) |
 | CaveDare | 110907 | [110907-cavedare.json](./110907-cavedare.json) |
 | Cavedude | 397940 | [397940-cavedude.json](./397940-cavedude.json) |
@@ -12059,6 +12061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of Chesterwoode | 73222 | [73222-conquest-of-chesterwoode.json](./73222-conquest-of-chesterwoode.json) |
 | Conquest of Elysium 2 | 326798 | [326798-conquest-of-elysium-2.json](./326798-conquest-of-elysium-2.json) |
 | Conquest of Elysium 4 | 24605 | [24605-conquest-of-elysium-4.json](./24605-conquest-of-elysium-4.json) |
+| Conquest of Elysium 5 | 155913 | [155913-conquest-of-elysium-5.json](./155913-conquest-of-elysium-5.json) |
 | Conquest of Empires | 192578 | [192578-conquest-of-empires.json](./192578-conquest-of-empires.json) |
 | Conquest of Empires 2 | 272191 | [272191-conquest-of-empires-2.json](./272191-conquest-of-empires-2.json) |
 | Conquest of Helios | 204202 | [204202-conquest-of-helios.json](./204202-conquest-of-helios.json) |
