@@ -2150,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear Slots | 389972 | [389972-gear-slots.json](./389972-gear-slots.json) |
 | Gear Stadium Heisei-ban | 46605 | [46605-gear-stadium-heisei-ban.json](./46605-gear-stadium-heisei-ban.json) |
 | Gear Stalker | 150996 | [150996-gear-stalker.json](./150996-gear-stalker.json) |
+| Gear Tunnel | 166410 | [166410-gear-tunnel.json](./166410-gear-tunnel.json) |
 | Gear Up Einstein! | 342137 | [342137-gear-up-einstein.json](./342137-gear-up-einstein.json) |
 | Gear Up: Premium | 90552 | [90552-gear-up-premium.json](./90552-gear-up-premium.json) |
 | Gear Works | 48999 | [48999-gear-works.json](./48999-gear-works.json) |
@@ -8070,7 +8071,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid | 390054 | [390054-grid.json](./390054-grid.json) |
 | Grid & Guilt | 423217 | [423217-grid-and-guilt.json](./423217-grid-and-guilt.json) |
 | Grid 2 | 2138 | [2138-grid-2.json](./2138-grid-2.json) |
+| Grid 2: Bathurst Track Pack | 166433 | [166433-grid-2-bathurst-track-pack.json](./166433-grid-2-bathurst-track-pack.json) |
 | Grid 2: Reloaded Edition | 26185 | [26185-grid-2-reloaded-edition.json](./26185-grid-2-reloaded-edition.json) |
+| Grid 2: Spa-Francorchamps Track Pack | 166434 | [166434-grid-2-spa-francorchamps-track-pack.json](./166434-grid-2-spa-francorchamps-track-pack.json) |
 | Grid 32 | 274128 | [274128-grid-32.json](./274128-grid-32.json) |
 | Grid Battles | 370427 | [370427-grid-battles.json](./370427-grid-battles.json) |
 | Grid Clash | 392830 | [392830-grid-clash.json](./392830-grid-clash.json) |
@@ -8099,6 +8102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Tycoon | 392970 | [392970-grid-tycoon.json](./392970-grid-tycoon.json) |
 | Grid Wars II | 51233 | [51233-grid-wars-ii.json](./51233-grid-wars-ii.json) |
 | Grid Words | 202492 | [202492-grid-words.json](./202492-grid-words.json) |
+| Grid_Hacker | 166435 | [166435-grid-hacker.json](./166435-grid-hacker.json) |
 | Grid-M | 257921 | [257921-grid-m.json](./257921-grid-m.json) |
 | Grid-Tsugi | 386538 | [386538-grid-tsugi.json](./386538-grid-tsugi.json) |
 | Grid: Autosport - Drag Pack | 365684 | [365684-grid-autosport-drag-pack.json](./365684-grid-autosport-drag-pack.json) |
@@ -8332,11 +8336,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm: Episode 13 - The Golden Goose | 164563 | [164563-grimm-episode-13-the-golden-goose.json](./164563-grimm-episode-13-the-golden-goose.json) |
 | Grimm: Episode 17 - The Frog King | 164568 | [164568-grimm-episode-17-the-frog-king.json](./164568-grimm-episode-17-the-frog-king.json) |
 | Grimm: Episode 18 - Jack and the Beanstalk | 164564 | [164564-grimm-episode-18-jack-and-the-beanstalk.json](./164564-grimm-episode-18-jack-and-the-beanstalk.json) |
+| Grimm: Episode 21 - Sleeping Beauty | 166407 | [166407-grimm-episode-21-sleeping-beauty.json](./166407-grimm-episode-21-sleeping-beauty.json) |
 | Grimm: Episode 22 - The Adventures of Thumbling | 164567 | [164567-grimm-episode-22-the-adventures-of-thumbling.json](./164567-grimm-episode-22-the-adventures-of-thumbling.json) |
 | Grimm: Episode 23 - Snow White | 164559 | [164559-grimm-episode-23-snow-white.json](./164559-grimm-episode-23-snow-white.json) |
+| Grimm: Episode 3 - The Fisherman and His Wife | 166404 | [166404-grimm-episode-3-the-fisherman-and-his-wife.json](./166404-grimm-episode-3-the-fisherman-and-his-wife.json) |
 | Grimm: Episode 4 - Puss in Boots | 164566 | [164566-grimm-episode-4-puss-in-boots.json](./164566-grimm-episode-4-puss-in-boots.json) |
 | Grimm: Episode 5 - The Girl Without Hands | 164562 | [164562-grimm-episode-5-the-girl-without-hands.json](./164562-grimm-episode-5-the-girl-without-hands.json) |
 | Grimm: Episode 6 - Godfather Death | 164561 | [164561-grimm-episode-6-godfather-death.json](./164561-grimm-episode-6-godfather-death.json) |
+| Grimm: Episode 7 - The Devil and His Three Golden Hairs | 166405 | [166405-grimm-episode-7-the-devil-and-his-three-golden-hairs.json](./166405-grimm-episode-7-the-devil-and-his-three-golden-hairs.json) |
+| Grimm: Episode 8 - Beauty and the Beast | 166406 | [166406-grimm-episode-8-beauty-and-the-beast.json](./166406-grimm-episode-8-beauty-and-the-beast.json) |
 | Grimm: Quest for the Gatherer's Key | 363039 | [363039-grimm-quest-for-the-gatherers-key.json](./363039-grimm-quest-for-the-gatherers-key.json) |
 | Grimm's Folly | 291508 | [291508-grimms-folly.json](./291508-grimms-folly.json) |
 | Grimm's Hatchery | 73510 | [73510-grimms-hatchery.json](./73510-grimms-hatchery.json) |
