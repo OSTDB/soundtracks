@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo 2: Project Cartographer | 241485 | [241485-halo-2-project-cartographer.json](./241485-halo-2-project-cartographer.json) |
 | Halo 2600 | 18286 | [18286-halo-2600.json](./18286-halo-2600.json) |
 | Halo 3 & Fable II Double Pack | 141865 | [141865-halo-3-and-fable-ii-double-pack.json](./141865-halo-3-and-fable-ii-double-pack.json) |
+| Halo 3 + Halo Wars | 163108 | [163108-halo-3-halo-wars.json](./163108-halo-3-halo-wars.json) |
 | Halo 3: Heroic Map Pack | 334016 | [334016-halo-3-heroic-map-pack.json](./334016-halo-3-heroic-map-pack.json) |
 | Halo 3: Legendary Edition | 43955 | [43955-halo-3-legendary-edition.json](./43955-halo-3-legendary-edition.json) |
 | Halo 3: Limited Edition | 45147 | [45147-halo-3-limited-edition.json](./45147-halo-3-limited-edition.json) |
