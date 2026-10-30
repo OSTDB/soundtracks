@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajwala Desert | 332819 | [332819-hajwala-desert.json](./332819-hajwala-desert.json) |
 | Hajwala Drift X | 374677 | [374677-hajwala-drift-x.json](./374677-hajwala-drift-x.json) |
 | Hajwala Dubai | 378759 | [378759-hajwala-dubai.json](./378759-hajwala-dubai.json) |
+| Hajwala Line | 168559 | [168559-hajwala-line.json](./168559-hajwala-line.json) |
 | Hajwala Of Riyadh | 366215 | [366215-hajwala-of-riyadh.json](./366215-hajwala-of-riyadh.json) |
 | Hajwala Qatar | 370432 | [370432-hajwala-qatar.json](./370432-hajwala-qatar.json) |
 | Hakai | 286482 | [286482-hakai.json](./286482-hakai.json) |
@@ -8857,6 +8858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Forbidden West: Launch Edition | 171276 | [171276-horizon-forbidden-west-launch-edition.json](./171276-horizon-forbidden-west-launch-edition.json) |
 | Horizon Forbidden West: Major Update 1.14 | 227890 | [227890-horizon-forbidden-west-major-update-1-14.json](./227890-horizon-forbidden-west-major-update-1-14.json) |
 | Horizon Forbidden West: Regalla Edition | 173110 | [173110-horizon-forbidden-west-regalla-edition.json](./173110-horizon-forbidden-west-regalla-edition.json) |
+| Horizon Forbidden West: Special Edition | 168557 | [168557-horizon-forbidden-west-special-edition.json](./168557-horizon-forbidden-west-special-edition.json) |
 | Horizon Heat | 241223 | [241223-horizon-heat.json](./241223-horizon-heat.json) |
 | Horizon Journey | 320472 | [320472-horizon-journey.json](./320472-horizon-journey.json) |
 | Horizon Midnight Sky Combat Aircraft: War Arena Flight Simulator 2022 | 203707 | [203707-horizon-midnight-sky-combat-aircraft-war-arena-flight-simulator-2022.json](./203707-horizon-midnight-sky-combat-aircraft-war-arena-flight-simulator-2022.json) |
@@ -8876,6 +8878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon X | 57645 | [57645-horizon-x.json](./57645-horizon-x.json) |
 | Horizon Zero Dawn: Complete Edition | 72870 | [72870-horizon-zero-dawn-complete-edition.json](./72870-horizon-zero-dawn-complete-edition.json) |
 | Horizon Zero Dawn: Limited Edition | 136150 | [136150-horizon-zero-dawn-limited-edition.json](./136150-horizon-zero-dawn-limited-edition.json) |
+| Horizon: Zero Dawn - Thunderjaw Collector's Edition | 168554 | [168554-horizon-zero-dawn-thunderjaw-collectors-edition.json](./168554-horizon-zero-dawn-thunderjaw-collectors-edition.json) |
 | Horizon's Edge | 291381 | [291381-horizons-edge.json](./291381-horizons-edge.json) |
 | Horizon's Gate | 131620 | [131620-horizons-gate.json](./131620-horizons-gate.json) |
 | Horizon's Mirage | 264741 | [264741-horizons-mirage.json](./264741-horizons-mirage.json) |
@@ -10473,6 +10476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundun | 157389 | [157389-hundun.json](./157389-hundun.json) |
 | Hùndùn Qíshì | 235275 | [235275-hundun-qishi.json](./235275-hundun-qishi.json) |
 | Hùndùn Zhàn Yù | 367428 | [367428-hundun-zhan-yu.json](./367428-hundun-zhan-yu.json) |
+| Hunger | 168530 | [168530-hunger.json](./168530-hunger.json) |
 | Hunger | 323785 | [323785-hunger.json](./323785-hunger.json) |
 | Hunger | 41954 | [41954-hunger.json](./41954-hunger.json) |
 | Hunger Apartment | 113677 | [113677-hunger-apartment.json](./113677-hunger-apartment.json) |
