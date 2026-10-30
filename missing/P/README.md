@@ -5158,6 +5158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phylomortis: Avant-Garde | 356636 | [356636-phylomortis-avant-garde.json](./356636-phylomortis-avant-garde.json) |
 | Phyrexia | 208055 | [208055-phyrexia.json](./208055-phyrexia.json) |
 | Phyrok | 60941 | [60941-phyrok.json](./60941-phyrok.json) |
+| Physarum: Slime Mold Simulator | 165336 | [165336-physarum-slime-mold-simulator.json](./165336-physarum-slime-mold-simulator.json) |
 | Physica-E | 55737 | [55737-physica-e.json](./55737-physica-e.json) |
 | Physical Contact: 2048 | 70884 | [70884-physical-contact-2048.json](./70884-physical-contact-2048.json) |
 | Physical Contact: Picture Place | 74348 | [74348-physical-contact-picture-place.json](./74348-physical-contact-picture-place.json) |
