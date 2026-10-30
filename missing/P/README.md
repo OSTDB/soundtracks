@@ -4092,6 +4092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peropero Seduction | 98527 | [98527-peropero-seduction.json](./98527-peropero-seduction.json) |
 | Perpession | 334506 | [334506-perpession.json](./334506-perpession.json) |
 | Perpetual Blast | 59670 | [59670-perpetual-blast.json](./59670-perpetual-blast.json) |
+| Perpetual Dream | 131781 | [131781-perpetual-dream.json](./131781-perpetual-dream.json) |
 | Perpetual Torment | 363293 | [363293-perpetual-torment.json](./363293-perpetual-torment.json) |
 | Perpetuo | 378496 | [378496-perpetuo.json](./378496-perpetuo.json) |
 | Perpetuum | 16433 | [16433-perpetuum.json](./16433-perpetuum.json) |
@@ -9012,6 +9013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasuredrome | 325246 | [325246-pleasuredrome.json](./325246-pleasuredrome.json) |
 | Pleasuredromes Of Kubla Khan | 268738 | [268738-pleasuredromes-of-kubla-khan.json](./268738-pleasuredromes-of-kubla-khan.json) |
 | Pleasurepunk: Drug Dealer | 202193 | [202193-pleasurepunk-drug-dealer.json](./202193-pleasurepunk-drug-dealer.json) |
+| Plebby Quest: The Crusades | 131756 | [131756-plebby-quest-the-crusades.json](./131756-plebby-quest-the-crusades.json) |
 | Plebby Quest: The Promised Land | 174132 | [174132-plebby-quest-the-promised-land.json](./174132-plebby-quest-the-promised-land.json) |
 | Plebs | 261766 | [261766-plebs.json](./261766-plebs.json) |
 | Plecos Keep | 155911 | [155911-plecos-keep.json](./155911-plecos-keep.json) |
