@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Raetrethra: Legends of the Past - Chapter 1 | 186515 | [186515-tales-of-raetrethra-legends-of-the-past-chapter-1.json](./186515-tales-of-raetrethra-legends-of-the-past-chapter-1.json) |
 | Tales of Rebirth | 1205 | [1205-tales-of-rebirth.json](./1205-tales-of-rebirth.json) |
 | Tales of Rein Ravine | 319551 | [319551-tales-of-rein-ravine.json](./319551-tales-of-rein-ravine.json) |
+| Tales of Rome: Solitaire | 124389 | [124389-tales-of-rome-solitaire.json](./124389-tales-of-rome-solitaire.json) |
 | Tales of Sabotage | 226608 | [226608-tales-of-sabotage.json](./226608-tales-of-sabotage.json) |
 | Tales of SclObonia | 368806 | [368806-tales-of-sclobonia.json](./368806-tales-of-sclobonia.json) |
 | Tales of Sector 1 | 245354 | [245354-tales-of-sector-1.json](./245354-tales-of-sector-1.json) |
@@ -15108,6 +15109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sky Climber | 312631 | [312631-the-sky-climber.json](./312631-the-sky-climber.json) |
 | The Sky Crawlers: Innocent Aces | 5160 | [5160-the-sky-crawlers-innocent-aces.json](./5160-the-sky-crawlers-innocent-aces.json) |
 | The Sky House | 305341 | [305341-the-sky-house.json](./305341-the-sky-house.json) |
+| The Sky is Falling! | 124421 | [124421-the-sky-is-falling.json](./124421-the-sky-is-falling.json) |
 | The Sky May Be | 252213 | [252213-the-sky-may-be.json](./252213-the-sky-may-be.json) |
 | The Sky Project: Land of Noris | 418547 | [418547-the-sky-project-land-of-noris.json](./418547-the-sky-project-land-of-noris.json) |
 | The Skylia Prophecy | 141585 | [141585-the-skylia-prophecy.json](./141585-the-skylia-prophecy.json) |
@@ -17828,6 +17830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Came From the Sky | 118328 | [118328-they-came-from-the-sky.json](./118328-they-came-from-the-sky.json) |
 | They Came From Venus | 282038 | [282038-they-came-from-venus.json](./282038-they-came-from-venus.json) |
 | They Can Fart | 295301 | [295301-they-can-fart.json](./295301-they-can-fart.json) |
+| They Can't Stop all of Us | 124393 | [124393-they-cant-stop-all-of-us.json](./124393-they-cant-stop-all-of-us.json) |
 | They Cannot Hear Me | 343164 | [343164-they-cannot-hear-me.json](./343164-they-cannot-hear-me.json) |
 | They Come at Poop Time | 185355 | [185355-they-come-at-poop-time.json](./185355-they-come-at-poop-time.json) |
 | They Come in Fives | 370915 | [370915-they-come-in-fives.json](./370915-they-come-in-fives.json) |
@@ -24253,6 +24256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tow Truck: Max | 102137 | [102137-tow-truck-max.json](./102137-tow-truck-max.json) |
 | Towa no Sakura | 203199 | [203199-towa-no-sakura.json](./203199-towa-no-sakura.json) |
 | Towa Tsugai | 222776 | [222776-towa-tsugai.json](./222776-towa-tsugai.json) |
+| Towaga: Among Shadows | 124407 | [124407-towaga-among-shadows.json](./124407-towaga-among-shadows.json) |
 | Toward The Ice | 335505 | [335505-toward-the-ice.json](./335505-toward-the-ice.json) |
 | Towards a perilous journey | 102333 | [102333-towards-a-perilous-journey.json](./102333-towards-a-perilous-journey.json) |
 | Towards the Light | 407512 | [407512-towards-the-light.json](./407512-towards-the-light.json) |
@@ -27414,6 +27418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Rush Cave Climb | 382520 | [382520-treasure-rush-cave-climb.json](./382520-treasure-rush-cave-climb.json) |
 | Treasure Rush: Phantom Infiltration | 386293 | [386293-treasure-rush-phantom-infiltration.json](./386293-treasure-rush-phantom-infiltration.json) |
 | Treasure Seas Incorporated | 271390 | [271390-treasure-seas-incorporated.json](./271390-treasure-seas-incorporated.json) |
+| Treasure Seekers 2: The Enchanted Canvases | 124404 | [124404-treasure-seekers-2-the-enchanted-canvases.json](./124404-treasure-seekers-2-the-enchanted-canvases.json) |
 | Treasure Seekers 3: Follow the Ghosts | 47031 | [47031-treasure-seekers-3-follow-the-ghosts.json](./47031-treasure-seekers-3-follow-the-ghosts.json) |
 | Treasure Seekers: The Time Has Come | 226208 | [226208-treasure-seekers-the-time-has-come.json](./226208-treasure-seekers-the-time-has-come.json) |
 | Treasure Seekers: Visions of Gold | 64728 | [64728-treasure-seekers-visions-of-gold.json](./64728-treasure-seekers-visions-of-gold.json) |
@@ -28200,6 +28205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Pursuit Tap | 108957 | [108957-trivial-pursuit-tap.json](./108957-trivial-pursuit-tap.json) |
 | Trivial Pursuit: Bet You Know It | 51114 | [51114-trivial-pursuit-bet-you-know-it.json](./51114-trivial-pursuit-bet-you-know-it.json) |
 | Trivial Pursuit: Bring on the 90's Edition | 206661 | [206661-trivial-pursuit-bring-on-the-90s-edition.json](./206661-trivial-pursuit-bring-on-the-90s-edition.json) |
+| Trivial Pursuit: CD-ROM Edition | 124437 | [124437-trivial-pursuit-cd-rom-edition.json](./124437-trivial-pursuit-cd-rom-edition.json) |
 | Trivial Pursuit: Genus Edition | 46106 | [46106-trivial-pursuit-genus-edition.json](./46106-trivial-pursuit-genus-edition.json) |
 | Trivial Pursuit: Millennium Edition | 76472 | [76472-trivial-pursuit-millennium-edition.json](./76472-trivial-pursuit-millennium-edition.json) |
 | Trivial Pursuit: NASCAR | 100170 | [100170-trivial-pursuit-nascar.json](./100170-trivial-pursuit-nascar.json) |
@@ -29744,6 +29750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight's Flavors & Delight | 381787 | [381787-twilights-flavors-and-delight.json](./381787-twilights-flavors-and-delight.json) |
 | Twilight's Folclore | 374180 | [374180-twilights-folclore.json](./374180-twilights-folclore.json) |
 | Twilight's Ransom | 12805 | [12805-twilights-ransom.json](./12805-twilights-ransom.json) |
+| TwilioQuest | 124416 | [124416-twilioquest.json](./124416-twilioquest.json) |
 | Twin | 310512 | [310512-twin.json](./310512-twin.json) |
 | Twin Balls | 160247 | [160247-twin-balls.json](./160247-twin-balls.json) |
 | Twin Balls Journey | 390227 | [390227-twin-balls-journey.json](./390227-twin-balls-journey.json) |
