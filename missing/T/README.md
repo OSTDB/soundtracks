@@ -7885,6 +7885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elevator Game | 176256 | [176256-the-elevator-game.json](./176256-the-elevator-game.json) |
 | The Elevator Game with Catgirls | 188990 | [188990-the-elevator-game-with-catgirls.json](./188990-the-elevator-game-with-catgirls.json) |
 | The Elf Maiden | 201489 | [201489-the-elf-maiden.json](./201489-the-elf-maiden.json) |
+| The Elf's Lewd Training | 150857 | [150857-the-elfs-lewd-training.json](./150857-the-elfs-lewd-training.json) |
 | The Eliminator | 24704 | [24704-the-eliminator.json](./24704-the-eliminator.json) |
 | The Elision Effect | 273415 | [273415-the-elision-effect.json](./273415-the-elision-effect.json) |
 | The Elm Game | 171868 | [171868-the-elm-game.json](./171868-the-elm-game.json) |
@@ -24874,6 +24875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic | 319601 | [319601-traffic.json](./319601-traffic.json) |
 | Traffic Chase | 173303 | [173303-traffic-chase.json](./173303-traffic-chase.json) |
 | Traffic City | 169476 | [169476-traffic-city.json](./169476-traffic-city.json) |
+| Traffic Command | 150900 | [150900-traffic-command.json](./150900-traffic-command.json) |
 | Traffic Command: Reborn | 169137 | [169137-traffic-command-reborn.json](./169137-traffic-command-reborn.json) |
 | Traffic Confusion | 178353 | [178353-traffic-confusion.json](./178353-traffic-confusion.json) |
 | Traffic Confusion II | 178354 | [178354-traffic-confusion-ii.json](./178354-traffic-confusion-ii.json) |
