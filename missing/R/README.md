@@ -4782,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | République: Episode 4 - God's Acre | 127129 | [127129-republique-episode-4-gods-acre.json](./127129-republique-episode-4-gods-acre.json) |
 | République: Episode 5 - Terminus | 127130 | [127130-republique-episode-5-terminus.json](./127130-republique-episode-5-terminus.json) |
 | Repugnant Bounty | 229493 | [229493-repugnant-bounty.json](./229493-repugnant-bounty.json) |
+| Repuls | 141420 | [141420-repuls.json](./141420-repuls.json) |
 | Repulsanoid | 30668 | [30668-repulsanoid.json](./30668-repulsanoid.json) |
 | Repulsar | 80187 | [80187-repulsar.json](./80187-repulsar.json) |
 | Repulse | 273238 | [273238-repulse.json](./273238-repulse.json) |
