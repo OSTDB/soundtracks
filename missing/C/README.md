@@ -743,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Juarez: Bound In Blood | 430 | [430-call-of-juarez-bound-in-blood.json](./430-call-of-juarez-bound-in-blood.json) |
 | Call of Juarez: The Cartel | 543 | [543-call-of-juarez-the-cartel.json](./543-call-of-juarez-the-cartel.json) |
 | Call of Knights | 159541 | [159541-call-of-knights.json](./159541-call-of-knights.json) |
+| Call of LDPR | 142640 | [142640-call-of-ldpr.json](./142640-call-of-ldpr.json) |
 | Call of Mini: Beyond Infinity | 104533 | [104533-call-of-mini-beyond-infinity.json](./104533-call-of-mini-beyond-infinity.json) |
 | Call of Mini: Sniper | 254352 | [254352-call-of-mini-sniper.json](./254352-call-of-mini-sniper.json) |
 | Call of Mini: Zombies | 77994 | [77994-call-of-mini-zombies.json](./77994-call-of-mini-zombies.json) |
@@ -2822,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cascade | 380053 | [380053-cascade.json](./380053-cascade.json) |
 | Cascade | 60904 | [60904-cascade.json](./60904-cascade.json) |
 | Cascade Falls | 374944 | [374944-cascade-falls.json](./374944-cascade-falls.json) |
+| Cascade Tactics | 142077 | [142077-cascade-tactics.json](./142077-cascade-tactics.json) |
 | Cascade Theater | 303269 | [303269-cascade-theater.json](./303269-cascade-theater.json) |
 | Cascadence | 306313 | [306313-cascadence.json](./306313-cascadence.json) |
 | Cascadia | 311522 | [311522-cascadia.json](./311522-cascadia.json) |
@@ -5805,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Bacon | 420571 | [420571-chef-bacon.json](./420571-chef-bacon.json) |
 | Chef Boyardee Can Simulator | 242507 | [242507-chef-boyardee-can-simulator.json](./242507-chef-boyardee-can-simulator.json) |
 | Chef Capybara | 253996 | [253996-chef-capybara.json](./253996-chef-capybara.json) |
+| Chef Chen | 142648 | [142648-chef-chen.json](./142648-chef-chen.json) |
 | Chef Curry | 113849 | [113849-chef-curry.json](./113849-chef-curry.json) |
 | Chef de Bubble | 323096 | [323096-chef-de-bubble.json](./323096-chef-de-bubble.json) |
 | Chef Leo's Creative Kitchen | 343378 | [343378-chef-leos-creative-kitchen.json](./343378-chef-leos-creative-kitchen.json) |
@@ -13583,6 +13586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmotica | 215519 | [215519-cosmotica.json](./215519-cosmotica.json) |
 | Cosmotots | 303739 | [303739-cosmotots.json](./303739-cosmotots.json) |
 | Cosmotroid | 263041 | [263041-cosmotroid.json](./263041-cosmotroid.json) |
+| Cosmotronik | 142033 | [142033-cosmotronik.json](./142033-cosmotronik.json) |
 | Cosmotrons | 130675 | [130675-cosmotrons.json](./130675-cosmotrons.json) |
 | CosmoWarrior Zero | 43875 | [43875-cosmowarrior-zero.json](./43875-cosmowarrior-zero.json) |
 | Cosmula | 306348 | [306348-cosmula.json](./306348-cosmula.json) |
