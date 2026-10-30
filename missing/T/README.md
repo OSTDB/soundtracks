@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Arise: Beyond the Dawn Edition | 267775 | [267775-tales-of-arise-beyond-the-dawn-edition.json](./267775-tales-of-arise-beyond-the-dawn-edition.json) |
 | Tales of Arise: Classic Characters Costume & Arranged BGM Pack | 275691 | [275691-tales-of-arise-classic-characters-costume-and-arranged-bgm-pack.json](./275691-tales-of-arise-classic-characters-costume-and-arranged-bgm-pack.json) |
 | Tales of Arise: Collaboration Costume Pack | 225480 | [225480-tales-of-arise-collaboration-costume-pack.json](./225480-tales-of-arise-collaboration-costume-pack.json) |
+| Tales of Arise: Collector's Edition | 147015 | [147015-tales-of-arise-collectors-edition.json](./147015-tales-of-arise-collectors-edition.json) |
 | Tales of Arise: Deluxe Edition | 169243 | [169243-tales-of-arise-deluxe-edition.json](./169243-tales-of-arise-deluxe-edition.json) |
 | Tales of Arise: Deluxe Sound Edition | 267321 | [267321-tales-of-arise-deluxe-sound-edition.json](./267321-tales-of-arise-deluxe-sound-edition.json) |
 | Tales of Arise: Elegant Costume Pack | 279541 | [279541-tales-of-arise-elegant-costume-pack.json](./279541-tales-of-arise-elegant-costume-pack.json) |
@@ -2355,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task Force 88: Hostile Contact | 179209 | [179209-task-force-88-hostile-contact.json](./179209-task-force-88-hostile-contact.json) |
 | Task Force 9 | 261788 | [261788-task-force-9.json](./261788-task-force-9.json) |
 | Task Force Admiral: Vol.1 - American Carrier Battles | 219570 | [219570-task-force-admiral-vol-1-american-carrier-battles.json](./219570-task-force-admiral-vol-1-american-carrier-battles.json) |
+| Task Force Delta: Afghanistan | 147605 | [147605-task-force-delta-afghanistan.json](./147605-task-force-delta-afghanistan.json) |
 | Task Force Harrier | 40248 | [40248-task-force-harrier.json](./40248-task-force-harrier.json) |
 | Task Force Harrier EX | 46599 | [46599-task-force-harrier-ex.json](./46599-task-force-harrier-ex.json) |
 | Task Force Kampas | 117141 | [117141-task-force-kampas.json](./117141-task-force-kampas.json) |
@@ -3599,6 +3601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tengai Makyou: Fuun Kabuki-den | 71530 | [71530-tengai-makyou-fuun-kabuki-den.json](./71530-tengai-makyou-fuun-kabuki-den.json) |
 | Tengai Makyou: Kabuki Ittou Ryoudan | 37604 | [37604-tengai-makyou-kabuki-ittou-ryoudan.json](./37604-tengai-makyou-kabuki-ittou-ryoudan.json) |
 | Tengai ni Mau, Iki na Hana | 75225 | [75225-tengai-ni-mau-iki-na-hana.json](./75225-tengai-ni-mau-iki-na-hana.json) |
+| Tengam | 147599 | [147599-tengam.json](./147599-tengam.json) |
 | Tengin Music Engine | 166625 | [166625-tengin-music-engine.json](./166625-tengin-music-engine.json) |
 | Tengo 20 Bolos y Permiso hasta las 7 | 356778 | [356778-tengo-20-bolos-y-permiso-hasta-las-7.json](./356778-tengo-20-bolos-y-permiso-hasta-las-7.json) |
 | Tengoku no Vinea: Saiyaku no Majo to Nanatsu no Tsumi | 416879 | [416879-tengoku-no-vinea-saiyaku-no-majo-to-nanatsu-no-tsumi.json](./416879-tengoku-no-vinea-saiyaku-no-majo-to-nanatsu-no-tsumi.json) |
@@ -3709,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis no Ouji-sama: Sweat & Tears 2 | 205641 | [205641-tennis-no-ouji-sama-sweat-and-tears-2.json](./205641-tennis-no-ouji-sama-sweat-and-tears-2.json) |
 | Tennis On-Court | 253174 | [253174-tennis-on-court.json](./253174-tennis-on-court.json) |
 | Tennis Online Duel | 234241 | [234241-tennis-online-duel.json](./234241-tennis-online-duel.json) |
+| Tennis Open 2020 | 147604 | [147604-tennis-open-2020.json](./147604-tennis-open-2020.json) |
 | Tennis Pro Tour | 372190 | [372190-tennis-pro-tour.json](./372190-tennis-pro-tour.json) |
 | Tennis Pro Tournaments | 274737 | [274737-tennis-pro-tournaments.json](./274737-tennis-pro-tournaments.json) |
 | Tennis Slam: Global Duel Arena | 244807 | [244807-tennis-slam-global-duel-arena.json](./244807-tennis-slam-global-duel-arena.json) |
@@ -4976,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Dr. Franken | 48617 | [48617-the-adventures-of-dr-franken.json](./48617-the-adventures-of-dr-franken.json) |
 | The Adventures of Eggbert | 146814 | [146814-the-adventures-of-eggbert.json](./146814-the-adventures-of-eggbert.json) |
 | The Adventures of El Ballo | 146189 | [146189-the-adventures-of-el-ballo.json](./146189-the-adventures-of-el-ballo.json) |
+| The Adventures of Elena Temple: Definitive Edition | 147597 | [147597-the-adventures-of-elena-temple-definitive-edition.json](./147597-the-adventures-of-elena-temple-definitive-edition.json) |
 | The Adventures of Elliot: The Millennium Tales - Digital Deluxe Edition | 395685 | [395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json](./395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json) |
 | The Adventures of Elmo in Grouchland | 69682 | [69682-the-adventures-of-elmo-in-grouchland.json](./69682-the-adventures-of-elmo-in-grouchland.json) |
 | The Adventures of Emilie in Paris | 380639 | [380639-the-adventures-of-emilie-in-paris.json](./380639-the-adventures-of-emilie-in-paris.json) |
@@ -5126,6 +5131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alien Device | 357098 | [357098-the-alien-device.json](./357098-the-alien-device.json) |
 | The Alien Island: 3D-Version | 174636 | [174636-the-alien-island-3d-version.json](./174636-the-alien-island-3d-version.json) |
 | The Alien Trials | 149578 | [149578-the-alien-trials.json](./149578-the-alien-trials.json) |
+| The Alien Way | 147037 | [147037-the-alien-way.json](./147037-the-alien-way.json) |
 | The All New Family Feud | 73657 | [73657-the-all-new-family-feud.json](./73657-the-all-new-family-feud.json) |
 | The Alliance Alive | 25068 | [25068-the-alliance-alive.json](./25068-the-alliance-alive.json) |
 | The Alliance Alive HD Remastered | 115989 | [115989-the-alliance-alive-hd-remastered.json](./115989-the-alliance-alive-hd-remastered.json) |
@@ -8005,6 +8011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Epic and Amazing Adventure of GleepglorrpgilliandoohiggintilliousMMDCCXXXIX the Adventure Where GleepglorrpgilliandoohiggintilliousMMDCCXXXIX Lives and Becomes King GleepglorrpgilliandoohiggintilliousMMDCCXXXIX | 410947 | [410947-the-epic-and-amazing-adventure-of-gleepglorrpgilliandoohiggintilliousmmdccxxxix-the-adventure-where-gleepglorrpgilliandoohiggintilliousmmdccxxxix-lives-and-becomes-king-gleepglorrpgilliandoohiggintilliousmmdccxxxix.json](./410947-the-epic-and-amazing-adventure-of-gleepglorrpgilliandoohiggintilliousmmdccxxxix-the-adventure-where-gleepglorrpgilliandoohiggintilliousmmdccxxxix-lives-and-becomes-king-gleepglorrpgilliandoohiggintilliousmmdccxxxix.json) |
 | The Epic Bang Theory | 100542 | [100542-the-epic-bang-theory.json](./100542-the-epic-bang-theory.json) |
 | The Epic Might | 23632 | [23632-the-epic-might.json](./23632-the-epic-might.json) |
+| The Epic of Inanna | 147039 | [147039-the-epic-of-inanna.json](./147039-the-epic-of-inanna.json) |
 | The Epic of Jusen | 145598 | [145598-the-epic-of-jusen.json](./145598-the-epic-of-jusen.json) |
 | The Epic Quest of Birdo The Pink Dinosaur | 250662 | [250662-the-epic-quest-of-birdo-the-pink-dinosaur.json](./250662-the-epic-quest-of-birdo-the-pink-dinosaur.json) |
 | The Episodic | 155828 | [155828-the-episodic.json](./155828-the-episodic.json) |
@@ -13307,6 +13314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pet Squad | 332810 | [332810-the-pet-squad.json](./332810-the-pet-squad.json) |
 | The Petrified King | 232548 | [232548-the-petrified-king.json](./232548-the-petrified-king.json) |
 | The Petshop Incident | 71011 | [71011-the-petshop-incident.json](./71011-the-petshop-incident.json) |
+| The Pew Pew Bundle Vol. 1 | 147602 | [147602-the-pew-pew-bundle-vol-1.json](./147602-the-pew-pew-bundle-vol-1.json) |
 | The Phantom | 344314 | [344314-the-phantom.json](./344314-the-phantom.json) |
 | The Phantom Agent | 313873 | [313873-the-phantom-agent.json](./313873-the-phantom-agent.json) |
 | The Phantom Fable: Steven Universe | 126875 | [126875-the-phantom-fable-steven-universe.json](./126875-the-phantom-fable-steven-universe.json) |
@@ -17838,6 +17846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thieves Guild Master | 413662 | [413662-thieves-guild-master.json](./413662-thieves-guild-master.json) |
 | Thieves Guild Tycoon | 58731 | [58731-thieves-guild-tycoon.json](./58731-thieves-guild-tycoon.json) |
 | Thieves of Dingirra | 304694 | [304694-thieves-of-dingirra.json](./304694-thieves-of-dingirra.json) |
+| Thieves of Egypt | 146487 | [146487-thieves-of-egypt.json](./146487-thieves-of-egypt.json) |
 | Thieves World | 297467 | [297467-thieves-world.json](./297467-thieves-world.json) |
 | Thieves' Paradise | 200934 | [200934-thieves-paradise.json](./200934-thieves-paradise.json) |
 | Thigh Climbers | 126342 | [126342-thigh-climbers.json](./126342-thigh-climbers.json) |
@@ -20398,6 +20407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilt It! Golf | 405331 | [405331-tilt-it-golf.json](./405331-tilt-it-golf.json) |
 | Tilt of Fury | 56763 | [56763-tilt-of-fury.json](./56763-tilt-of-fury.json) |
 | Tilt or Die! | 106481 | [106481-tilt-or-die.json](./106481-tilt-or-die.json) |
+| Tilt Pack | 147591 | [147591-tilt-pack.json](./147591-tilt-pack.json) |
 | Tilt to Live 2: Redonkulous | 194413 | [194413-tilt-to-live-2-redonkulous.json](./194413-tilt-to-live-2-redonkulous.json) |
 | Tilt'N'Turn | 187290 | [187290-tiltnturn.json](./187290-tiltnturn.json) |
 | TiltBill | 224995 | [224995-tiltbill.json](./224995-tiltbill.json) |
@@ -27620,6 +27630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribes Action Pack | 100118 | [100118-tribes-action-pack.json](./100118-tribes-action-pack.json) |
 | Tribes Extreme | 206074 | [206074-tribes-extreme.json](./206074-tribes-extreme.json) |
 | Tribes of Midgard: Deluxe Edition | 153053 | [153053-tribes-of-midgard-deluxe-edition.json](./153053-tribes-of-midgard-deluxe-edition.json) |
+| Tribes of Tis'te | 147044 | [147044-tribes-of-tiste.json](./147044-tribes-of-tiste.json) |
 | Tribes Universe | 91893 | [91893-tribes-universe.json](./91893-tribes-universe.json) |
 | Tribes Warfare | 188051 | [188051-tribes-warfare.json](./188051-tribes-warfare.json) |
 | Tribes: Vengeance | 923 | [923-tribes-vengeance.json](./923-tribes-vengeance.json) |
