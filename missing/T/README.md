@@ -7463,6 +7463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Disappearing of Gensokyo: Patchouli | 210118 | [210118-the-disappearing-of-gensokyo-patchouli.json](./210118-the-disappearing-of-gensokyo-patchouli.json) |
 | The Disappearing of Gensokyo: Sakuya, Koishi, Suika | 210121 | [210121-the-disappearing-of-gensokyo-sakuya-koishi-suika.json](./210121-the-disappearing-of-gensokyo-sakuya-koishi-suika.json) |
 | The Disappearing of Gensokyo: Youmu, Yuyuko | 210135 | [210135-the-disappearing-of-gensokyo-youmu-yuyuko.json](./210135-the-disappearing-of-gensokyo-youmu-yuyuko.json) |
+| The Disaster | 168032 | [168032-the-disaster.json](./168032-the-disaster.json) |
 | The Disciples of the Full Moon | 323565 | [323565-the-disciples-of-the-full-moon.json](./323565-the-disciples-of-the-full-moon.json) |
 | The Discrete Era | 263499 | [263499-the-discrete-era.json](./263499-the-discrete-era.json) |
 | The Diseases, and Casualties this year being 1632 | 279080 | [279080-the-diseases-and-casualties-this-year-being-1632.json](./279080-the-diseases-and-casualties-this-year-being-1632.json) |
