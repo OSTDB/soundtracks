@@ -16074,6 +16074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awful Fantasy III | 339242 | [339242-awful-fantasy-iii.json](./339242-awful-fantasy-iii.json) |
 | Awful Kidnapper | 300410 | [300410-awful-kidnapper.json](./300410-awful-kidnapper.json) |
 | Awful Mario World | 314897 | [314897-awful-mario-world.json](./314897-awful-mario-world.json) |
+| Awfully Good Pizza | 148196 | [148196-awfully-good-pizza.json](./148196-awfully-good-pizza.json) |
 | Awita: Journey of Hope | 247968 | [247968-awita-journey-of-hope.json](./247968-awita-journey-of-hope.json) |
 | AWK: Adventures of Walker King | 201413 | [201413-awk-adventures-of-walker-king.json](./201413-awk-adventures-of-walker-king.json) |
 | Awkward 2 | 232874 | [232874-awkward-2.json](./232874-awkward-2.json) |
