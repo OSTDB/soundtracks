@@ -3237,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernal Hunt | 303580 | [303580-infernal-hunt.json](./303580-infernal-hunt.json) |
 | Infernal Legions | 326000 | [326000-infernal-legions.json](./326000-infernal-legions.json) |
 | Infernal Racket | 72355 | [72355-infernal-racket.json](./72355-infernal-racket.json) |
+| Infernal Radiation | 136634 | [136634-infernal-radiation.json](./136634-infernal-radiation.json) |
 | Infernal Road | 224036 | [224036-infernal-road.json](./224036-infernal-road.json) |
 | Infernal Wave | 259645 | [259645-infernal-wave.json](./259645-infernal-wave.json) |
 | Infernal West | 415107 | [415107-infernal-west.json](./415107-infernal-west.json) |
