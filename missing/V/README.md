@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkkryes: Ashes of War | 221230 | [221230-valkkryes-ashes-of-war.json](./221230-valkkryes-ashes-of-war.json) |
 | Valknut | 74367 | [74367-valknut.json](./74367-valknut.json) |
 | Valkyr | 47152 | [47152-valkyr.json](./47152-valkyr.json) |
+| Valkyria | 133608 | [133608-valkyria.json](./133608-valkyria.json) |
 | Valkyria Chronicles | 7477 | [7477-valkyria-chronicles.json](./7477-valkyria-chronicles.json) |
 | Valkyria Chronicles 2: Additional Stickers DLC | 140351 | [140351-valkyria-chronicles-2-additional-stickers-dlc.json](./140351-valkyria-chronicles-2-additional-stickers-dlc.json) |
 | Valkyria Chronicles 2: Banquet of Ghosts | 140338 | [140338-valkyria-chronicles-2-banquet-of-ghosts.json](./140338-valkyria-chronicles-2-banquet-of-ghosts.json) |
@@ -1346,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verlore Slange: Bundle | 331495 | [331495-verlore-slange-bundle.json](./331495-verlore-slange-bundle.json) |
 | Verlore Tyd en Drome Bundle | 213332 | [213332-verlore-tyd-en-drome-bundle.json](./213332-verlore-tyd-en-drome-bundle.json) |
 | Vermeer | 46659 | [46659-vermeer.json](./46659-vermeer.json) |
+| Vermeer: Die Kunst zu erben | 133592 | [133592-vermeer-die-kunst-zu-erben.json](./133592-vermeer-die-kunst-zu-erben.json) |
 | Vermeer's Twilight | 343167 | [343167-vermeers-twilight.json](./343167-vermeers-twilight.json) |
 | Vermilion Arcade: Horror Collection | 285694 | [285694-vermilion-arcade-horror-collection.json](./285694-vermilion-arcade-horror-collection.json) |
 | Vermilion Desert | 69316 | [69316-vermilion-desert.json](./69316-vermilion-desert.json) |
@@ -3691,6 +3693,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vroomies | 296734 | [296734-vroomies.json](./296734-vroomies.json) |
 | Vroomist | 32915 | [32915-vroomist.json](./32915-vroomist.json) |
 | VRosty | 258363 | [258363-vrosty.json](./258363-vrosty.json) |
+| vRotors Be There | 133601 | [133601-vrotors-be-there.json](./133601-vrotors-be-there.json) |
+| vRotors Racing | 133599 | [133599-vrotors-racing.json](./133599-vrotors-racing.json) |
+| vRotors Tour | 133600 | [133600-vrotors-tour.json](./133600-vrotors-tour.json) |
 | VROVPilot: Titanic | 379918 | [379918-vrovpilot-titanic.json](./379918-vrovpilot-titanic.json) |
 | VRpatients | 368237 | [368237-vrpatients.json](./368237-vrpatients.json) |
 | VRporize - VR FPS | 32385 | [32385-vrporize-vr-fps.json](./32385-vrporize-vr-fps.json) |
