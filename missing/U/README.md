@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Cartridge Collection Deluxe | 207709 | [207709-ultimate-cartridge-collection-deluxe.json](./207709-ultimate-cartridge-collection-deluxe.json) |
 | Ultimate Casino | 203349 | [203349-ultimate-casino.json](./203349-ultimate-casino.json) |
 | Ultimate Casino 3 Pack | 69246 | [69246-ultimate-casino-3-pack.json](./69246-ultimate-casino-3-pack.json) |
+| Ultimate Chess | 133638 | [133638-ultimate-chess.json](./133638-ultimate-chess.json) |
 | Ultimate Chess 3D | 91895 | [91895-ultimate-chess-3d.json](./91895-ultimate-chess-3d.json) |
 | Ultimate Chicken Horse: A-Neigh-Versary Edition | 159206 | [159206-ultimate-chicken-horse-a-neigh-versary-edition.json](./159206-ultimate-chicken-horse-a-neigh-versary-edition.json) |
 | Ultimate Children Fun Pack Games Collection 6 in 1 | 303880 | [303880-ultimate-children-fun-pack-games-collection-6-in-1.json](./303880-ultimate-children-fun-pack-games-collection-6-in-1.json) |
