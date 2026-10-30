@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Jail | 381063 | [381063-lands-of-jail.json](./381063-lands-of-jail.json) |
 | Lands of Koastalia | 295208 | [295208-lands-of-koastalia.json](./295208-lands-of-koastalia.json) |
 | Lands of Languages | 299151 | [299151-lands-of-languages.json](./299151-lands-of-languages.json) |
+| Lands of Lore 1+2 | 154174 | [154174-lands-of-lore-1-2.json](./154174-lands-of-lore-1-2.json) |
 | Lands of Lore: Guardians of Destiny | 2494 | [2494-lands-of-lore-guardians-of-destiny.json](./2494-lands-of-lore-guardians-of-destiny.json) |
 | Lands of Lore: The Throne of Chaos | 2528 | [2528-lands-of-lore-the-throne-of-chaos.json](./2528-lands-of-lore-the-throne-of-chaos.json) |
 | Lands of Mine | 364867 | [364867-lands-of-mine.json](./364867-lands-of-mine.json) |
@@ -2999,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leisure Suit Larry: Pocket Party | 65289 | [65289-leisure-suit-larry-pocket-party.json](./65289-leisure-suit-larry-pocket-party.json) |
 | Leisure Suit Larry: Wet Dreams Don't Dry | 102087 | [102087-leisure-suit-larry-wet-dreams-dont-dry.json](./102087-leisure-suit-larry-wet-dreams-dont-dry.json) |
 | Leisure Suit Larry: Wet Dreams Dry Twice | 138756 | [138756-leisure-suit-larry-wet-dreams-dry-twice.json](./138756-leisure-suit-larry-wet-dreams-dry-twice.json) |
+| Leisure Suit Larry: Wet Dreams Dry Twice - Save the World Edition | 154215 | [154215-leisure-suit-larry-wet-dreams-dry-twice-save-the-world-edition.json](./154215-leisure-suit-larry-wet-dreams-dry-twice-save-the-world-edition.json) |
 | Leisure Suit Larry: Wet Dreams Saga Bundle | 173791 | [173791-leisure-suit-larry-wet-dreams-saga-bundle.json](./173791-leisure-suit-larry-wet-dreams-saga-bundle.json) |
 | Leisure Town | 108424 | [108424-leisure-town.json](./108424-leisure-town.json) |
 | Leisure Yacht | 238580 | [238580-leisure-yacht.json](./238580-leisure-yacht.json) |
@@ -3161,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Heures Bleues: Sang sur pierre à Pétrichor | 394172 | [394172-les-heures-bleues-sang-sur-pierre-a-petrichor.json](./394172-les-heures-bleues-sang-sur-pierre-a-petrichor.json) |
 | Les Heures Bleues: Wedding at Astérie | 393577 | [393577-les-heures-bleues-wedding-at-asterie.json](./393577-les-heures-bleues-wedding-at-asterie.json) |
 | Les Incollables CE1-CE2 | 269834 | [269834-les-incollables-ce1-ce2.json](./269834-les-incollables-ce1-ce2.json) |
+| Les Manley Bundle | 154176 | [154176-les-manley-bundle.json](./154176-les-manley-bundle.json) |
 | Les Manley in: Lost in L.A. | 72090 | [72090-les-manley-in-lost-in-l-a.json](./72090-les-manley-in-lost-in-l-a.json) |
 | Les Manley in: Search for the King | 73837 | [73837-les-manley-in-search-for-the-king.json](./73837-les-manley-in-search-for-the-king.json) |
 | Les Migeons | 183718 | [183718-les-migeons.json](./183718-les-migeons.json) |
@@ -5399,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Memories | 109741 | [109741-little-memories.json](./109741-little-memories.json) |
 | Little Memory | 93025 | [93025-little-memory.json](./93025-little-memory.json) |
 | Little Mermaid Interactive Fairy Tale | 335063 | [335063-little-mermaid-interactive-fairy-tale.json](./335063-little-mermaid-interactive-fairy-tale.json) |
+| Little Misfortune: Fancy Edition | 154213 | [154213-little-misfortune-fancy-edition.json](./154213-little-misfortune-fancy-edition.json) |
 | Little Miss Lonely | 43885 | [43885-little-miss-lonely.json](./43885-little-miss-lonely.json) |
 | Little Moneybags | 157079 | [157079-little-moneybags.json](./157079-little-moneybags.json) |
 | Little Monk | 73534 | [73534-little-monk.json](./73534-little-monk.json) |
