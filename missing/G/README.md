@@ -5992,6 +5992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf With Your Friends: Sports Pack | 230825 | [230825-golf-with-your-friends-sports-pack.json](./230825-golf-with-your-friends-sports-pack.json) |
 | Golf With Your Friends: Starter Edition | 277884 | [277884-golf-with-your-friends-starter-edition.json](./277884-golf-with-your-friends-starter-edition.json) |
 | Golf With Your Friends: Ultimate Edition | 277883 | [277883-golf-with-your-friends-ultimate-edition.json](./277883-golf-with-your-friends-ultimate-edition.json) |
+| Golf With Your Grandmother | 158352 | [158352-golf-with-your-grandmother.json](./158352-golf-with-your-grandmother.json) |
 | Golf Zero | 91121 | [91121-golf-zero.json](./91121-golf-zero.json) |
 | Golf-e | 170015 | [170015-golf-e.json](./170015-golf-e.json) |
 | Golf-ko Open | 56536 | [56536-golf-ko-open.json](./56536-golf-ko-open.json) |
