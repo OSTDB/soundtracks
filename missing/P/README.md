@@ -6033,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade Season 2 | 141861 | [141861-pinball-arcade-season-2.json](./141861-pinball-arcade-season-2.json) |
 | Pinball Arcade: AC/DC | 349341 | [349341-pinball-arcade-ac-dc.json](./349341-pinball-arcade-ac-dc.json) |
 | Pinball Arcade: Al’s Garage Band Goes on a World Tour | 353229 | [353229-pinball-arcade-al-s-garage-band-goes-on-a-world-tour.json](./353229-pinball-arcade-al-s-garage-band-goes-on-a-world-tour.json) |
+| Pinball Arcade: Alvin G. and Co. Pack | 163671 | [163671-pinball-arcade-alvin-g-and-co-pack.json](./163671-pinball-arcade-alvin-g-and-co-pack.json) |
 | Pinball Arcade: Banzai Run | 349342 | [349342-pinball-arcade-banzai-run.json](./349342-pinball-arcade-banzai-run.json) |
 | Pinball Arcade: Big Buck Hunter Pro | 353223 | [353223-pinball-arcade-big-buck-hunter-pro.json](./353223-pinball-arcade-big-buck-hunter-pro.json) |
 | Pinball Arcade: Black Hole | 353149 | [353149-pinball-arcade-black-hole.json](./353149-pinball-arcade-black-hole.json) |
@@ -6047,6 +6048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Creature from the Black Lagoon | 353212 | [353212-pinball-arcade-creature-from-the-black-lagoon.json](./353212-pinball-arcade-creature-from-the-black-lagoon.json) |
 | Pinball Arcade: Diner | 353266 | [353266-pinball-arcade-diner.json](./353266-pinball-arcade-diner.json) |
 | Pinball Arcade: Doctor Who | 349345 | [349345-pinball-arcade-doctor-who.json](./349345-pinball-arcade-doctor-who.json) |
+| Pinball Arcade: Doctor Who - Master of Time | 163672 | [163672-pinball-arcade-doctor-who-master-of-time.json](./163672-pinball-arcade-doctor-who-master-of-time.json) |
 | Pinball Arcade: Earthshaker! | 349353 | [349353-pinball-arcade-earthshaker.json](./349353-pinball-arcade-earthshaker.json) |
 | Pinball Arcade: Eight Ball Deluxe | 353240 | [353240-pinball-arcade-eight-ball-deluxe.json](./353240-pinball-arcade-eight-ball-deluxe.json) |
 | Pinball Arcade: F-14 Tomcat | 349350 | [349350-pinball-arcade-f-14-tomcat.json](./349350-pinball-arcade-f-14-tomcat.json) |
@@ -6059,6 +6061,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Gladiators | 353220 | [353220-pinball-arcade-gladiators.json](./353220-pinball-arcade-gladiators.json) |
 | Pinball Arcade: Goin' Nuts | 353261 | [353261-pinball-arcade-goin-nuts.json](./353261-pinball-arcade-goin-nuts.json) |
 | Pinball Arcade: Gorgar | 353264 | [353264-pinball-arcade-gorgar.json](./353264-pinball-arcade-gorgar.json) |
+| Pinball Arcade: Gottlieb EM Pack | 163676 | [163676-pinball-arcade-gottlieb-em-pack.json](./163676-pinball-arcade-gottlieb-em-pack.json) |
+| Pinball Arcade: Gottlieb Pack 1 | 163673 | [163673-pinball-arcade-gottlieb-pack-1.json](./163673-pinball-arcade-gottlieb-pack-1.json) |
+| Pinball Arcade: Gottlieb Pack 2 | 163675 | [163675-pinball-arcade-gottlieb-pack-2.json](./163675-pinball-arcade-gottlieb-pack-2.json) |
+| Pinball Arcade: Gottlieb Pack 3 | 163674 | [163674-pinball-arcade-gottlieb-pack-3.json](./163674-pinball-arcade-gottlieb-pack-3.json) |
 | Pinball Arcade: Harley-Davidson / 3rd Edition | 353213 | [353213-pinball-arcade-harley-davidson-3rd-edition.json](./353213-pinball-arcade-harley-davidson-3rd-edition.json) |
 | Pinball Arcade: High Roller Casino | 353226 | [353226-pinball-arcade-high-roller-casino.json](./353226-pinball-arcade-high-roller-casino.json) |
 | Pinball Arcade: High Speed | 349357 | [349357-pinball-arcade-high-speed.json](./349357-pinball-arcade-high-speed.json) |
@@ -6098,6 +6104,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Spanish Eyes | 349963 | [349963-pinball-arcade-spanish-eyes.json](./349963-pinball-arcade-spanish-eyes.json) |
 | Pinball Arcade: Star Trek - The Next Generation | 349340 | [349340-pinball-arcade-star-trek-the-next-generation.json](./349340-pinball-arcade-star-trek-the-next-generation.json) |
 | Pinball Arcade: Star Trek Vengeance Premium | 353249 | [353249-pinball-arcade-star-trek-vengeance-premium.json](./353249-pinball-arcade-star-trek-vengeance-premium.json) |
+| Pinball Arcade: Stern Pack 1 | 163668 | [163668-pinball-arcade-stern-pack-1.json](./163668-pinball-arcade-stern-pack-1.json) |
+| Pinball Arcade: Stern Pack 2 | 163669 | [163669-pinball-arcade-stern-pack-2.json](./163669-pinball-arcade-stern-pack-2.json) |
+| Pinball Arcade: Stern Pack 3 | 163670 | [163670-pinball-arcade-stern-pack-3.json](./163670-pinball-arcade-stern-pack-3.json) |
 | Pinball Arcade: Swords of Fury | 353270 | [353270-pinball-arcade-swords-of-fury.json](./353270-pinball-arcade-swords-of-fury.json) |
 | Pinball Arcade: Tales of the Arabian Nights | 353150 | [353150-pinball-arcade-tales-of-the-arabian-nights.json](./353150-pinball-arcade-tales-of-the-arabian-nights.json) |
 | Pinball Arcade: Taxi | 353268 | [353268-pinball-arcade-taxi.json](./353268-pinball-arcade-taxi.json) |
