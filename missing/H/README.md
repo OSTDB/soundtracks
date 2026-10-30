@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Reach - Defiant Map Pack | 176905 | [176905-halo-reach-defiant-map-pack.json](./176905-halo-reach-defiant-map-pack.json) |
 | Halo: Reach - Legendary Edition | 43954 | [43954-halo-reach-legendary-edition.json](./43954-halo-reach-legendary-edition.json) |
 | Halo: Reach - Noble Map Pack | 176906 | [176906-halo-reach-noble-map-pack.json](./176906-halo-reach-noble-map-pack.json) |
+| Halo: Reach Evolved | 137288 | [137288-halo-reach-evolved.json](./137288-halo-reach-evolved.json) |
 | Halo: Reach Limited Edition | 45146 | [45146-halo-reach-limited-edition.json](./45146-halo-reach-limited-edition.json) |
 | Halo: Recruit | 72766 | [72766-halo-recruit.json](./72766-halo-recruit.json) |
 | Halo: The Master Chief Collection - Limited Edition | 41608 | [41608-halo-the-master-chief-collection-limited-edition.json](./41608-halo-the-master-chief-collection-limited-edition.json) |
@@ -4066,6 +4067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello New World | 283851 | [283851-hello-new-world.json](./283851-hello-new-world.json) |
 | Hello Next Scary Neighbor Home | 103929 | [103929-hello-next-scary-neighbor-home.json](./103929-hello-next-scary-neighbor-home.json) |
 | Hello Penguin 2 | 352530 | [352530-hello-penguin-2.json](./352530-hello-penguin-2.json) |
+| Hello Penguin 2 HD | 137246 | [137246-hello-penguin-2-hd.json](./137246-hello-penguin-2-hd.json) |
 | Hello Penguin 3D | 352549 | [352549-hello-penguin-3d.json](./352549-hello-penguin-3d.json) |
 | Hello Pocoyo! | 64972 | [64972-hello-pocoyo.json](./64972-hello-pocoyo.json) |
 | Hello Pollution! | 102145 | [102145-hello-pollution.json](./102145-hello-pollution.json) |
