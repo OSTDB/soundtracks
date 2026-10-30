@@ -8457,6 +8457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel at Dusk | 149805 | [149805-angel-at-dusk.json](./149805-angel-at-dusk.json) |
 | Angel Beats! 1st Beat | 11414 | [11414-angel-beats-1st-beat.json](./11414-angel-beats-1st-beat.json) |
 | Angel Blade: Neo Tokyo Guardians | 123291 | [123291-angel-blade-neo-tokyo-guardians.json](./123291-angel-blade-neo-tokyo-guardians.json) |
+| Angel Cat Sugar | 141423 | [141423-angel-cat-sugar.json](./141423-angel-cat-sugar.json) |
 | Angel Clicker | 381320 | [381320-angel-clicker.json](./381320-angel-clicker.json) |
 | Angel Club | 385849 | [385849-angel-club.json](./385849-angel-club.json) |
 | Angel Code | 52405 | [52405-angel-code.json](./52405-angel-code.json) |
@@ -15061,6 +15062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATSF Wagon Pack 01 | 224440 | [224440-atsf-wagon-pack-01.json](./224440-atsf-wagon-pack-01.json) |
 | ATSS Retribution II | 224100 | [224100-atss-retribution-ii.json](./224100-atss-retribution-ii.json) |
 | Atsumare! Guru Guru Onsen BB | 283323 | [283323-atsumare-guru-guru-onsen-bb.json](./283323-atsumare-guru-guru-onsen-bb.json) |
+| Atsumare! Oekaki no Mori | 141427 | [141427-atsumare-oekaki-no-mori.json](./141427-atsumare-oekaki-no-mori.json) |
 | Atsumare! Pawapuro-kun no DS Koushien | 98515 | [98515-atsumare-pawapuro-kun-no-ds-koushien.json](./98515-atsumare-pawapuro-kun-no-ds-koushien.json) |
 | Atsumete Asobu Kuma no Pooh-san: Mori no Takaramono | 50018 | [50018-atsumete-asobu-kuma-no-pooh-san-mori-no-takaramono.json](./50018-atsumete-asobu-kuma-no-pooh-san-mori-no-takaramono.json) |
 | Atsumete Godzilla | 227742 | [227742-atsumete-godzilla.json](./227742-atsumete-godzilla.json) |
