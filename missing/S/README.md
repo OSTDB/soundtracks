@@ -14059,6 +14059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Many Me: Extended Edition | 147149 | [147149-so-many-me-extended-edition.json](./147149-so-many-me-extended-edition.json) |
 | So Many Spiders | 182136 | [182136-so-many-spiders.json](./182136-so-many-spiders.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
+| So May It Be: A Witch Dating Simulator | 132433 | [132433-so-may-it-be-a-witch-dating-simulator.json](./132433-so-may-it-be-a-witch-dating-simulator.json) |
 | So Much Stuff 2 | 245814 | [245814-so-much-stuff-2.json](./245814-so-much-stuff-2.json) |
 | So Much Stuff 2: Collector's Edition | 290425 | [290425-so-much-stuff-2-collectors-edition.json](./290425-so-much-stuff-2-collectors-edition.json) |
 | So Much Stuff 3: Odds & Ends | 257896 | [257896-so-much-stuff-3-odds-and-ends.json](./257896-so-much-stuff-3-odds-and-ends.json) |
@@ -17675,6 +17676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Lines | 246085 | [246085-space-lines.json](./246085-space-lines.json) |
 | Space Lines: A Puzzle Arcade Game | 200359 | [200359-space-lines-a-puzzle-arcade-game.json](./200359-space-lines-a-puzzle-arcade-game.json) |
 | Space Lines: Ultimate Edition | 245975 | [245975-space-lines-ultimate-edition.json](./245975-space-lines-ultimate-edition.json) |
+| Space Lint | 132423 | [132423-space-lint.json](./132423-space-lint.json) |
 | Space Lords | 182390 | [182390-space-lords.json](./182390-space-lords.json) |
 | Space Love Delta | 134638 | [134638-space-love-delta.json](./134638-space-love-delta.json) |
 | Space M+A+X | 37157 | [37157-space-m-a-x.json](./37157-space-m-a-x.json) |
@@ -18202,6 +18204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacefarer Mahjong | 276953 | [276953-spacefarer-mahjong.json](./276953-spacefarer-mahjong.json) |
 | Spacefarer Solitaire | 276954 | [276954-spacefarer-solitaire.json](./276954-spacefarer-solitaire.json) |
 | Spacefarers! | 103675 | [103675-spacefarers.json](./103675-spacefarers.json) |
+| Spacefighter Rukia | 132430 | [132430-spacefighter-rukia.json](./132430-spacefighter-rukia.json) |
 | Spacefighter Rukia 2 | 349175 | [349175-spacefighter-rukia-2.json](./349175-spacefighter-rukia-2.json) |
 | SpaceFire Fury | 329079 | [329079-spacefire-fury.json](./329079-spacefire-fury.json) |
 | Spacefleet: Heat Death | 391522 | [391522-spacefleet-heat-death.json](./391522-spacefleet-heat-death.json) |
@@ -19843,6 +19846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirittracker | 187660 | [187660-spirittracker.json](./187660-spirittracker.json) |
 | Spiritual Blade | 409247 | [409247-spiritual-blade.json](./409247-spiritual-blade.json) |
 | Spiritual Bond: Breaking the Curse, Intertwining Fates | 316635 | [316635-spiritual-bond-breaking-the-curse-intertwining-fates.json](./316635-spiritual-bond-breaking-the-curse-intertwining-fates.json) |
+| Spiritual Calling VR | 132397 | [132397-spiritual-calling-vr.json](./132397-spiritual-calling-vr.json) |
 | Spiritual Girl | 212440 | [212440-spiritual-girl.json](./212440-spiritual-girl.json) |
 | Spiritual Soul | 275632 | [275632-spiritual-soul.json](./275632-spiritual-soul.json) |
 | Spiritual Soul 2 | 275633 | [275633-spiritual-soul-2.json](./275633-spiritual-soul-2.json) |
@@ -29831,6 +29835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tetris 2 + BomBliss: Gentei-ban | 236679 | [236679-super-tetris-2-bombliss-gentei-ban.json](./236679-super-tetris-2-bombliss-gentei-ban.json) |
 | Super Tetris 3 | 42531 | [42531-super-tetris-3.json](./42531-super-tetris-3.json) |
 | Super Thor Quest | 134332 | [134332-super-thor-quest.json](./134332-super-thor-quest.json) |
+| Super Thrustforce: Orbital Meat Police | 132412 | [132412-super-thrustforce-orbital-meat-police.json](./132412-super-thrustforce-orbital-meat-police.json) |
 | Super Thunder Blade | 4471 | [4471-super-thunder-blade.json](./4471-super-thunder-blade.json) |
 | Super Tilt Bro. | 118213 | [118213-super-tilt-bro.json](./118213-super-tilt-bro.json) |
 | Super Time Force | 5336 | [5336-super-time-force.json](./5336-super-time-force.json) |
