@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Top Racing: World Tour | 18978 | [18978-table-top-racing-world-tour.json](./18978-table-top-racing-world-tour.json) |
 | Table Top Racing: World Tour - Nitro Edition | 117288 | [117288-table-top-racing-world-tour-nitro-edition.json](./117288-table-top-racing-world-tour-nitro-edition.json) |
 | Table Top Racing: World Tour - Tropical Ice Pack | 155339 | [155339-table-top-racing-world-tour-tropical-ice-pack.json](./155339-table-top-racing-world-tour-tropical-ice-pack.json) |
+| Table Top Turrets | 157323 | [157323-table-top-turrets.json](./157323-table-top-turrets.json) |
 | Table Trenches | 175142 | [175142-table-trenches.json](./175142-table-trenches.json) |
 | Table Troopers | 366370 | [366370-table-troopers.json](./366370-table-troopers.json) |
 | TableSoccer | 339092 | [339092-tablesoccer.json](./339092-tablesoccer.json) |
@@ -13801,6 +13802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reaper Survivors | 224760 | [224760-the-reaper-survivors.json](./224760-the-reaper-survivors.json) |
 | The Reason for Your Smile | 287911 | [287911-the-reason-for-your-smile.json](./287911-the-reason-for-your-smile.json) |
 | The Reason Why Cavemen Painted on Walls | 179571 | [179571-the-reason-why-cavemen-painted-on-walls.json](./179571-the-reason-why-cavemen-painted-on-walls.json) |
+| The Reason Why Raeliana Ended up at the Duke's Mansion | 157357 | [157357-the-reason-why-raeliana-ended-up-at-the-dukes-mansion.json](./157357-the-reason-why-raeliana-ended-up-at-the-dukes-mansion.json) |
 | The Reason Why Raeliana Ended up at the Duke's Mansion: Heika's Colorful Day Out | 170832 | [170832-the-reason-why-raeliana-ended-up-at-the-dukes-mansion-heikas-colorful-day-out.json](./170832-the-reason-why-raeliana-ended-up-at-the-dukes-mansion-heikas-colorful-day-out.json) |
 | The Reasons for It. | 397080 | [397080-the-reasons-for-it.json](./397080-the-reasons-for-it.json) |
 | The Rebel | 33275 | [33275-the-rebel.json](./33275-the-rebel.json) |
@@ -16236,6 +16238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trip Adventure | 66636 | [66636-the-trip-adventure.json](./66636-the-trip-adventure.json) |
 | The Tripods | 72927 | [72927-the-tripods.json](./72927-the-tripods.json) |
 | The Tritan Initiative | 43077 | [43077-the-tritan-initiative.json](./43077-the-tritan-initiative.json) |
+| The Triumphant Return of Diabolos | 157333 | [157333-the-triumphant-return-of-diabolos.json](./157333-the-triumphant-return-of-diabolos.json) |
 | The Trivial Dead | 145649 | [145649-the-trivial-dead.json](./145649-the-trivial-dead.json) |
 | The Troll | 265623 | [265623-the-troll.json](./265623-the-troll.json) |
 | The Troll & The Witch's House | 350437 | [350437-the-troll-and-the-witchs-house.json](./350437-the-troll-and-the-witchs-house.json) |
@@ -25815,6 +25818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trains.io | 192296 | [192296-trains-io.json](./192296-trains-io.json) |
 | Trainsanity | 361333 | [361333-trainsanity.json](./361333-trainsanity.json) |
 | Trainscape | 43175 | [43175-trainscape.json](./43175-trainscape.json) |
+| Trainslation | 157331 | [157331-trainslation.json](./157331-trainslation.json) |
 | Trainspotting Simulator | 117555 | [117555-trainspotting-simulator.json](./117555-trainspotting-simulator.json) |
 | TrainStation: Game on Rails | 74852 | [74852-trainstation-game-on-rails.json](./74852-trainstation-game-on-rails.json) |
 | TrainTastic | 272900 | [272900-traintastic.json](./272900-traintastic.json) |
@@ -29345,6 +29349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtwig's Target Smash! | 234096 | [234096-turtwigs-target-smash.json](./234096-turtwigs-target-smash.json) |
 | TUS | 160201 | [160201-tus.json](./160201-tus.json) |
 | Tuscany Hotel | 106759 | [106759-tuscany-hotel.json](./106759-tuscany-hotel.json) |
+| Tusk of Spirit | 157358 | [157358-tusk-of-spirit.json](./157358-tusk-of-spirit.json) |
 | Tusmox | 381412 | [381412-tusmox.json](./381412-tusmox.json) |
 | Tussle Works | 422050 | [422050-tussle-works.json](./422050-tussle-works.json) |
 | Tut's Tomb | 282107 | [282107-tuts-tomb.json](./282107-tuts-tomb.json) |
