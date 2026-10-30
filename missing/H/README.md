@@ -5578,6 +5578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Rise: The Prodigy | 17375 | [17375-heroes-rise-the-prodigy.json](./17375-heroes-rise-the-prodigy.json) |
 | Heroes Rush: Tactics | 54093 | [54093-heroes-rush-tactics.json](./54093-heroes-rush-tactics.json) |
 | Heroes Saga | 410192 | [410192-heroes-saga.json](./410192-heroes-saga.json) |
+| Heroes Showdown | 133603 | [133603-heroes-showdown.json](./133603-heroes-showdown.json) |
 | Heroes Sky Legends | 336371 | [336371-heroes-sky-legends.json](./336371-heroes-sky-legends.json) |
 | Heroes Stand Tall: M.E.T.A | 302116 | [302116-heroes-stand-tall-m-e-t-a.json](./302116-heroes-stand-tall-m-e-t-a.json) |
 | Heroes Strategy・Heroes Strategy・Kards | 284271 | [284271-heroes-strategy-heroes-strategy-kards.json](./284271-heroes-strategy-heroes-strategy-kards.json) |
