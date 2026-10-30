@@ -9116,6 +9116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Fantasy Jigsaw Puzzle 3D | 384067 | [384067-anime-fantasy-jigsaw-puzzle-3d.json](./384067-anime-fantasy-jigsaw-puzzle-3d.json) |
 | Anime Fart Simulator | 397648 | [397648-anime-fart-simulator.json](./397648-anime-fart-simulator.json) |
 | Anime fashion show | 99500 | [99500-anime-fashion-show.json](./99500-anime-fashion-show.json) |
+| Anime Feet | 157857 | [157857-anime-feet.json](./157857-anime-feet.json) |
 | Anime Feet Aim Trainer | 371231 | [371231-anime-feet-aim-trainer.json](./371231-anime-feet-aim-trainer.json) |
 | Anime Feet Boys: The Charm Finder Quest | 386558 | [386558-anime-feet-boys-the-charm-finder-quest.json](./386558-anime-feet-boys-the-charm-finder-quest.json) |
 | Anime Feet Girls: The Charm Finder Quest | 386557 | [386557-anime-feet-girls-the-charm-finder-quest.json](./386557-anime-feet-girls-the-charm-finder-quest.json) |
