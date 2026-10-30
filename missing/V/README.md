@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V is for Vortex | 254474 | [254474-v-is-for-vortex.json](./254474-v-is-for-vortex.json) |
 | V Life | 395536 | [395536-v-life.json](./395536-v-life.json) |
 | V Lights | 216498 | [216498-v-lights.json](./216498-v-lights.json) |
+| V Mahjong | 131144 | [131144-v-mahjong.json](./131144-v-mahjong.json) |
 | V pod''ezde | 116844 | [116844-v-podezde.json](./116844-v-podezde.json) |
 | V poiskakh Atlantidy | 111215 | [111215-v-poiskakh-atlantidy.json](./111215-v-poiskakh-atlantidy.json) |
 | V Rising: Dracula's Relics Pack | 226891 | [226891-v-rising-draculas-relics-pack.json](./226891-v-rising-draculas-relics-pack.json) |
