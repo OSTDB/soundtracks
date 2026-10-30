@@ -7977,7 +7977,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gremlins 2: The New Batch | 264994 | [264994-gremlins-2-the-new-batch.json](./264994-gremlins-2-the-new-batch.json) |
 | Gremlins Gizmo | 50623 | [50623-gremlins-gizmo.json](./50623-gremlins-gizmo.json) |
 | Gremlins Unleashed | 50035 | [50035-gremlins-unleashed.json](./50035-gremlins-unleashed.json) |
+| Gremlins, Inc.: Agents of Chaos | 170140 | [170140-gremlins-inc-agents-of-chaos.json](./170140-gremlins-inc-agents-of-chaos.json) |
+| Gremlins, Inc.: Astral Gamblers | 170141 | [170141-gremlins-inc-astral-gamblers.json](./170141-gremlins-inc-astral-gamblers.json) |
+| Gremlins, Inc.: Card Game | 170144 | [170144-gremlins-inc-card-game.json](./170144-gremlins-inc-card-game.json) |
+| Gremlins, Inc.: Card Game, Print & Play Set | 170143 | [170143-gremlins-inc-card-game-print-and-play-set.json](./170143-gremlins-inc-card-game-print-and-play-set.json) |
+| Gremlins, Inc.: Famous Figures | 170142 | [170142-gremlins-inc-famous-figures.json](./170142-gremlins-inc-famous-figures.json) |
 | Gremlins, Inc.: The Governor Edition | 53069 | [53069-gremlins-inc-the-governor-edition.json](./53069-gremlins-inc-the-governor-edition.json) |
+| Gremlins, Inc.: Uninvited Guests | 170139 | [170139-gremlins-inc-uninvited-guests.json](./170139-gremlins-inc-uninvited-guests.json) |
 | Gremlins: Stripe vs. Gizmo | 49232 | [49232-gremlins-stripe-vs-gizmo.json](./49232-gremlins-stripe-vs-gizmo.json) |
 | Gremlore | 275065 | [275065-gremlore.json](./275065-gremlore.json) |
 | Grems | 386710 | [386710-grems.json](./386710-grems.json) |
