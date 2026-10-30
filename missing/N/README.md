@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natuk | 79675 | [79675-natuk.json](./79675-natuk.json) |
 | Natural | 189065 | [189065-natural.json](./189065-natural.json) |
 | Natural 2: Duo | 49750 | [49750-natural-2-duo.json](./49750-natural-2-duo.json) |
+| Natural Balance: Chronicles | 131787 | [131787-natural-balance-chronicles.json](./131787-natural-balance-chronicles.json) |
 | Natural Born Soldier | 82123 | [82123-natural-born-soldier.json](./82123-natural-born-soldier.json) |
 | Natural Corde | 351267 | [351267-natural-corde.json](./351267-natural-corde.json) |
 | Natural Craft | 277570 | [277570-natural-craft.json](./277570-natural-craft.json) |
