@@ -1560,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemuri | 279625 | [279625-kemuri.json](./279625-kemuri.json) |
 | Ken Follett's The Pillars of the Earth | 19297 | [19297-ken-folletts-the-pillars-of-the-earth.json](./19297-ken-folletts-the-pillars-of-the-earth.json) |
 | Ken ga Kimi for S | 144572 | [144572-ken-ga-kimi-for-s.json](./144572-ken-ga-kimi-for-s.json) |
+| Ken ga Kimi for V | 129996 | [129996-ken-ga-kimi-for-v.json](./129996-ken-ga-kimi-for-v.json) |
 | Ken ga Kimi: Momoyo Tsuzuri | 129997 | [129997-ken-ga-kimi-momoyo-tsuzuri.json](./129997-ken-ga-kimi-momoyo-tsuzuri.json) |
 | Ken ga Toki | 171773 | [171773-ken-ga-toki.json](./171773-ken-ga-toki.json) |
 | Ken Griffey Jr. Presents Major League Baseball | 299308 | [299308-ken-griffey-jr-presents-major-league-baseball.json](./299308-ken-griffey-jr-presents-major-league-baseball.json) |
@@ -2534,7 +2535,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3752,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Letter | 145044 | [145044-kitty-letter.json](./145044-kitty-letter.json) |
 | Kitty Loves Birds | 346601 | [346601-kitty-loves-birds.json](./346601-kitty-loves-birds.json) |
 | Kitty Luv | 209828 | [209828-kitty-luv.json](./209828-kitty-luv.json) |
+| Kitty Maestro | 129948 | [129948-kitty-maestro.json](./129948-kitty-maestro.json) |
 | Kitty May Cry | 217106 | [217106-kitty-may-cry.json](./217106-kitty-may-cry.json) |
 | Kitty Meow Meow City Heroes - Cats to the Rescue! | 95880 | [95880-kitty-meow-meow-city-heroes-cats-to-the-rescue.json](./95880-kitty-meow-meow-city-heroes-cats-to-the-rescue.json) |
 | Kitty Patrol: Paw Showtime | 296236 | [296236-kitty-patrol-paw-showtime.json](./296236-kitty-patrol-paw-showtime.json) |
