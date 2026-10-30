@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kewtia: Crystallite Hunt | 75859 | [75859-kewtia-crystallite-hunt.json](./75859-kewtia-crystallite-hunt.json) |
 | Key | 217484 | [217484-key.json](./217484-key.json) |
 | Key | 393589 | [393589-key.json](./393589-key.json) |
+| Key 10th Memorial BOX | 168031 | [168031-key-10th-memorial-box.json](./168031-key-10th-memorial-box.json) |
 | Key 2 | 369579 | [369579-key-2.json](./369579-key-2.json) |
 | Key and Lokk | 408505 | [408505-key-and-lokk.json](./408505-key-and-lokk.json) |
 | Key Defence | 122339 | [122339-key-defence.json](./122339-key-defence.json) |
@@ -2494,7 +2495,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
