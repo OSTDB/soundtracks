@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Panda's Vacation | 106599 | [106599-baby-pandas-vacation.json](./106599-baby-pandas-vacation.json) |
 | Baby Princess Phone | 101656 | [101656-baby-princess-phone.json](./101656-baby-princess-phone.json) |
 | Baby Puzzle: First Learning Shapes for Toddlers | 147985 | [147985-baby-puzzle-first-learning-shapes-for-toddlers.json](./147985-baby-puzzle-first-learning-shapes-for-toddlers.json) |
+| Baby Racer | 147029 | [147029-baby-racer.json](./147029-baby-racer.json) |
 | Baby Rattle with Child Lock | 96562 | [96562-baby-rattle-with-child-lock.json](./96562-baby-rattle-with-child-lock.json) |
 | Baby Redemption | 115554 | [115554-baby-redemption.json](./115554-baby-redemption.json) |
 | Baby Shaker | 256812 | [256812-baby-shaker.json](./256812-baby-shaker.json) |
@@ -858,7 +859,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1748,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Step | 289835 | [289835-banana-step.json](./289835-banana-step.json) |
 | Banana Tap | 314875 | [314875-banana-tap.json](./314875-banana-tap.json) |
 | Banana Town | 72509 | [72509-banana-town.json](./72509-banana-town.json) |
+| Banana Treasures Island | 147670 | [147670-banana-treasures-island.json](./147670-banana-treasures-island.json) |
 | Banana Yetti | 249054 | [249054-banana-yetti.json](./249054-banana-yetti.json) |
 | Banana-Clicker | 322657 | [322657-banana-clicker.json](./322657-banana-clicker.json) |
 | Banana-Shaped | 309490 | [309490-banana-shaped.json](./309490-banana-shaped.json) |
@@ -10891,6 +10892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodycount | 6924 | [6924-bodycount.json](./6924-bodycount.json) |
 | Bodyguard Task Force | 291252 | [291252-bodyguard-task-force.json](./291252-bodyguard-task-force.json) |
 | Bodyguard: Cellwars | 365160 | [365160-bodyguard-cellwars.json](./365160-bodyguard-cellwars.json) |
+| BodyQuest | 146997 | [146997-bodyquest.json](./146997-bodyquest.json) |
 | Bodyrain | 293857 | [293857-bodyrain.json](./293857-bodyrain.json) |
 | BodyRecords | 340943 | [340943-bodyrecords.json](./340943-bodyrecords.json) |
 | BodySlam! | 180705 | [180705-bodyslam.json](./180705-bodyslam.json) |
@@ -13037,6 +13039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brains & Hearts | 330163 | [330163-brains-and-hearts.json](./330163-brains-and-hearts.json) |
 | Brains Diamonds | 246435 | [246435-brains-diamonds.json](./246435-brains-diamonds.json) |
 | Brains: Denshinou Kougeki Shirei | 66054 | [66054-brains-denshinou-kougeki-shirei.json](./66054-brains-denshinou-kougeki-shirei.json) |
+| BrainSplode! | 146479 | [146479-brainsplode.json](./146479-brainsplode.json) |
 | Brainsss | 197397 | [197397-brainsss.json](./197397-brainsss.json) |
 | Brainstorm | 13433 | [13433-brainstorm.json](./13433-brainstorm.json) |
 | Brainstorm | 14338 | [14338-brainstorm.json](./14338-brainstorm.json) |
@@ -13050,6 +13053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainwave Trials | 304426 | [304426-brainwave-trials.json](./304426-brainwave-trials.json) |
 | Brainy Joy | 75937 | [75937-brainy-joy.json](./75937-brainy-joy.json) |
 | Brainy Mouse | 90844 | [90844-brainy-mouse.json](./90844-brainy-mouse.json) |
+| BrainZ | 147686 | [147686-brainz.json](./147686-brainz.json) |
 | BrainZ Defender | 304879 | [304879-brainz-defender.json](./304879-brainz-defender.json) |
 | Brainzzz | 342247 | [342247-brainzzz.json](./342247-brainzzz.json) |
 | Braise | 332996 | [332996-braise.json](./332996-braise.json) |
@@ -13908,6 +13912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge 5.0 | 362441 | [362441-bridge-5-0.json](./362441-bridge-5-0.json) |
 | Bridge Between Two Islands | 308475 | [308475-bridge-between-two-islands.json](./308475-bridge-between-two-islands.json) |
 | Bridge Builder | 50121 | [50121-bridge-builder.json](./50121-bridge-builder.json) |
+| Bridge Builder Adventure | 147603 | [147603-bridge-builder-adventure.json](./147603-bridge-builder-adventure.json) |
 | Bridge Builder Racer | 120042 | [120042-bridge-builder-racer.json](./120042-bridge-builder-racer.json) |
 | Bridge Builder Simulator | 291966 | [291966-bridge-builder-simulator.json](./291966-bridge-builder-simulator.json) |
 | Bridge Challenge | 15687 | [15687-bridge-challenge.json](./15687-bridge-challenge.json) |
@@ -14184,6 +14189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Blades | 152787 | [152787-broken-blades.json](./152787-broken-blades.json) |
 | Broken Bots | 19681 | [19681-broken-bots.json](./19681-broken-bots.json) |
 | Broken Boughs | 218993 | [218993-broken-boughs.json](./218993-broken-boughs.json) |
+| Broken Brothers | 146475 | [146475-broken-brothers.json](./146475-broken-brothers.json) |
 | Broken Build Simulator | 217415 | [217415-broken-build-simulator.json](./217415-broken-build-simulator.json) |
 | Broken Cavalier | 214052 | [214052-broken-cavalier.json](./214052-broken-cavalier.json) |
 | Broken Colors | 250302 | [250302-broken-colors.json](./250302-broken-colors.json) |
@@ -15191,11 +15197,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build Em' Faster | 156928 | [156928-build-em-faster.json](./156928-build-em-faster.json) |
 | Build For Sale Simulator | 273377 | [273377-build-for-sale-simulator.json](./273377-build-for-sale-simulator.json) |
 | Build If You Can | 23978 | [23978-build-if-you-can.json](./23978-build-if-you-can.json) |
+| Build in Time | 146489 | [146489-build-in-time.json](./146489-build-in-time.json) |
 | Build It | 108620 | [108620-build-it.json](./108620-build-it.json) |
 | Build It: Miami Beach Resort | 341017 | [341017-build-it-miami-beach-resort.json](./341017-build-it-miami-beach-resort.json) |
 | Build It!: Das Bauhaus | 14352 | [14352-build-it-das-bauhaus.json](./14352-build-it-das-bauhaus.json) |
 | Build Lands | 201239 | [201239-build-lands.json](./201239-build-lands.json) |
 | Build Master: MarsVille | 267864 | [267864-build-master-marsville.json](./267864-build-master-marsville.json) |
+| Build Molecules For Vick | 147028 | [147028-build-molecules-for-vick.json](./147028-build-molecules-for-vick.json) |
 | Build My Arcade | 412949 | [412949-build-my-arcade.json](./412949-build-my-arcade.json) |
 | Build Royale | 112275 | [112275-build-royale.json](./112275-build-royale.json) |
 | Build Scrap | 340548 | [340548-build-scrap.json](./340548-build-scrap.json) |
@@ -15674,6 +15682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Guys! | 258361 | [258361-bunny-guys.json](./258361-bunny-guys.json) |
 | Bunny Haven | 383737 | [383737-bunny-haven.json](./383737-bunny-haven.json) |
 | Bunny Hill | 139879 | [139879-bunny-hill.json](./139879-bunny-hill.json) |
+| Bunny Hill Horror: Bunny Boiler | 147014 | [147014-bunny-hill-horror-bunny-boiler.json](./147014-bunny-hill-horror-bunny-boiler.json) |
 | Bunny Hop | 174124 | [174124-bunny-hop.json](./174124-bunny-hop.json) |
 | Bunny Hop | 90197 | [90197-bunny-hop.json](./90197-bunny-hop.json) |
 | Bunny Hop Hop | 345078 | [345078-bunny-hop-hop.json](./345078-bunny-hop-hop.json) |
@@ -16030,6 +16039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burst Into | 95278 | [95278-burst-into.json](./95278-burst-into.json) |
 | Burst Noir: Fireworks Simulator | 414823 | [414823-burst-noir-fireworks-simulator.json](./414823-burst-noir-fireworks-simulator.json) |
 | Burst Planet | 161393 | [161393-burst-planet.json](./161393-burst-planet.json) |
+| Burst Shooter | 147589 | [147589-burst-shooter.json](./147589-burst-shooter.json) |
 | Burst Space | 279086 | [279086-burst-space.json](./279086-burst-space.json) |
 | Burst Squad | 169729 | [169729-burst-squad.json](./169729-burst-squad.json) |
 | Burst the Game | 28929 | [28929-burst-the-game.json](./28929-burst-the-game.json) |
@@ -16097,6 +16107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 2023 | 227959 | [227959-bus-simulator-2023.json](./227959-bus-simulator-2023.json) |
 | Bus Simulator 2024: City Driver - Premium Edition | 310435 | [310435-bus-simulator-2024-city-driver-premium-edition.json](./310435-bus-simulator-2024-city-driver-premium-edition.json) |
 | Bus Simulator 21: Angel Shores Insider Skin Pack | 213848 | [213848-bus-simulator-21-angel-shores-insider-skin-pack.json](./213848-bus-simulator-21-angel-shores-insider-skin-pack.json) |
+| Bus Simulator 21: Day One Edition | 147006 | [147006-bus-simulator-21-day-one-edition.json](./147006-bus-simulator-21-day-one-edition.json) |
 | Bus Simulator 21: Extended Edition | 169245 | [169245-bus-simulator-21-extended-edition.json](./169245-bus-simulator-21-extended-edition.json) |
 | Bus Simulator 21: Iveco Bus Pack | 197557 | [197557-bus-simulator-21-iveco-bus-pack.json](./197557-bus-simulator-21-iveco-bus-pack.json) |
 | Bus Simulator 21: MAN Bus Pack | 213951 | [213951-bus-simulator-21-man-bus-pack.json](./213951-bus-simulator-21-man-bus-pack.json) |
