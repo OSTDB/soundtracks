@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Star: Chapter 2 | 168842 | [168842-ice-star-chapter-2.json](./168842-ice-star-chapter-2.json) |
 | Ice Sugar | 189119 | [189119-ice-sugar.json](./189119-ice-sugar.json) |
 | Ice Survival | 270783 | [270783-ice-survival.json](./270783-ice-survival.json) |
+| Ice Tales HD | 175518 | [175518-ice-tales-hd.json](./175518-ice-tales-hd.json) |
 | Ice Trek | 18590 | [18590-ice-trek.json](./18590-ice-trek.json) |
 | Ice Truckers | 315616 | [315616-ice-truckers.json](./315616-ice-truckers.json) |
 | Ice World | 320856 | [320856-ice-world.json](./320856-ice-world.json) |
@@ -1792,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikari Warriors II: Victory Road | 48055 | [48055-ikari-warriors-ii-victory-road.json](./48055-ikari-warriors-ii-victory-road.json) |
 | Ikariam | 46497 | [46497-ikariam.json](./46497-ikariam.json) |
 | Ikaro Racing | 105509 | [105509-ikaro-racing.json](./105509-ikaro-racing.json) |
+| Ikaro Racing HD: Air Master | 175534 | [175534-ikaro-racing-hd-air-master.json](./175534-ikaro-racing-hd-air-master.json) |
 | Ikaro: Will Not Die | 273865 | [273865-ikaro-will-not-die.json](./273865-ikaro-will-not-die.json) |
 | Ikaros | 51955 | [51955-ikaros.json](./51955-ikaros.json) |
 | Ikaruga | 200996 | [200996-ikaruga.json](./200996-ikaruga.json) |
