@@ -6889,6 +6889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cruel King and the Great Hero: Storybook Edition | 146031 | [146031-the-cruel-king-and-the-great-hero-storybook-edition.json](./146031-the-cruel-king-and-the-great-hero-storybook-edition.json) |
 | The Cruel kings | 166629 | [166629-the-cruel-kings.json](./166629-the-cruel-kings.json) |
 | The Crush House | 295636 | [295636-the-crush-house.json](./295636-the-crush-house.json) |
+| The Crust | 176109 | [176109-the-crust.json](./176109-the-crust.json) |
 | The Crust: Supporter Pack | 400874 | [400874-the-crust-supporter-pack.json](./400874-the-crust-supporter-pack.json) |
 | The Crying Game | 136114 | [136114-the-crying-game.json](./136114-the-crying-game.json) |
 | The Crypt of Treasure | 219551 | [219551-the-crypt-of-treasure.json](./219551-the-crypt-of-treasure.json) |
@@ -8661,6 +8662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forsaken Ruins | 157911 | [157911-the-forsaken-ruins.json](./157911-the-forsaken-ruins.json) |
 | The Forsaken Tomb | 384820 | [384820-the-forsaken-tomb.json](./384820-the-forsaken-tomb.json) |
 | The Fortress | 346730 | [346730-the-fortress.json](./346730-the-fortress.json) |
+| The Fortress of Varnolis | 176114 | [176114-the-fortress-of-varnolis.json](./176114-the-fortress-of-varnolis.json) |
 | The Fortune Teller Game | 342178 | [342178-the-fortune-teller-game.json](./342178-the-fortune-teller-game.json) |
 | The Found Magic | 386426 | [386426-the-found-magic.json](./386426-the-found-magic.json) |
 | The Founders of Daytona Beach Also Founded Dayton, Ohio | 360606 | [360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json](./360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json) |
@@ -9248,6 +9250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grounding | 140506 | [140506-the-grounding.json](./140506-the-grounding.json) |
 | The Groundskeeper | 255836 | [255836-the-groundskeeper.json](./255836-the-groundskeeper.json) |
 | The Groundskeeper | 366885 | [366885-the-groundskeeper.json](./366885-the-groundskeeper.json) |
+| The Groundz | 176086 | [176086-the-groundz.json](./176086-the-groundz.json) |
 | The Grove | 402113 | [402113-the-grove.json](./402113-the-grove.json) |
 | The Grown-Up Detective Agency | 220560 | [220560-the-grown-up-detective-agency.json](./220560-the-grown-up-detective-agency.json) |
 | The Growth Journey | 34094 | [34094-the-growth-journey.json](./34094-the-growth-journey.json) |
@@ -9694,6 +9697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt | 37053 | [37053-the-hunt.json](./37053-the-hunt.json) |
 | The Hunt : Rebuilt | 25110 | [25110-the-hunt-rebuilt.json](./25110-the-hunt-rebuilt.json) |
 | The Hunt Begins | 323720 | [323720-the-hunt-begins.json](./323720-the-hunt-begins.json) |
+| The Hunt for My GirlFriend | 176125 | [176125-the-hunt-for-my-girlfriend.json](./176125-the-hunt-for-my-girlfriend.json) |
 | The Hunt for Red October | 31187 | [31187-the-hunt-for-red-october.json](./31187-the-hunt-for-red-october.json) |
 | The Hunt for Red October | 45118 | [45118-the-hunt-for-red-october.json](./45118-the-hunt-for-red-october.json) |
 | The Hunt for Red October | 76577 | [76577-the-hunt-for-red-october.json](./76577-the-hunt-for-red-october.json) |
@@ -11329,6 +11333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Ocarina of Time - Gold Quest | 222777 | [222777-the-legend-of-zelda-ocarina-of-time-gold-quest.json](./222777-the-legend-of-zelda-ocarina-of-time-gold-quest.json) |
 | The Legend of Zelda: Ocarina of Time - Master Quest | 45142 | [45142-the-legend-of-zelda-ocarina-of-time-master-quest.json](./45142-the-legend-of-zelda-ocarina-of-time-master-quest.json) |
 | The Legend of Zelda: Ocarina of Time - Stamina Bar | 263457 | [263457-the-legend-of-zelda-ocarina-of-time-stamina-bar.json](./263457-the-legend-of-zelda-ocarina-of-time-stamina-bar.json) |
+| The Legend of Zelda: Ocarina of Time + The Legend of Zelda: Ocarina of Time - Master Quest: Two-game Bonus Disc! | 176087 | [176087-the-legend-of-zelda-ocarina-of-time-the-legend-of-zelda-ocarina-of-time-master-quest-two-game-bonus-disc.json](./176087-the-legend-of-zelda-ocarina-of-time-the-legend-of-zelda-ocarina-of-time-master-quest-two-game-bonus-disc.json) |
 | The Legend of Zelda: Ocarina of Time 3D Randomizer | 335717 | [335717-the-legend-of-zelda-ocarina-of-time-3d-randomizer.json](./335717-the-legend-of-zelda-ocarina-of-time-3d-randomizer.json) |
 | The Legend of Zelda: Ocarina of Time Online | 198341 | [198341-the-legend-of-zelda-ocarina-of-time-online.json](./198341-the-legend-of-zelda-ocarina-of-time-online.json) |
 | The Legend of Zelda: Ocarina of Time Randomizer | 203116 | [203116-the-legend-of-zelda-ocarina-of-time-randomizer.json](./203116-the-legend-of-zelda-ocarina-of-time-randomizer.json) |
@@ -17037,6 +17042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Woods: VR Escape the Room | 114975 | [114975-the-woods-vr-escape-the-room.json](./114975-the-woods-vr-escape-the-room.json) |
 | The Woodsman | 225558 | [225558-the-woodsman.json](./225558-the-woodsman.json) |
 | The Woodworker | 220517 | [220517-the-woodworker.json](./220517-the-woodworker.json) |
+| The Wooter | 176132 | [176132-the-wooter.json](./176132-the-wooter.json) |
 | The Word is Not the Thing | 74468 | [74468-the-word-is-not-the-thing.json](./74468-the-word-is-not-the-thing.json) |
 | The Wordland Scape | 183807 | [183807-the-wordland-scape.json](./183807-the-wordland-scape.json) |
 | The Words Within | 191657 | [191657-the-words-within.json](./191657-the-words-within.json) |
@@ -24475,6 +24481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traceur's Dreamlab VR | 148820 | [148820-traceurs-dreamlab-vr.json](./148820-traceurs-dreamlab-vr.json) |
 | Tracing | 346209 | [346209-tracing.json](./346209-tracing.json) |
 | Tracing Decay | 211143 | [211143-tracing-decay.json](./211143-tracing-decay.json) |
+| Track & Burn | 176093 | [176093-track-and-burn.json](./176093-track-and-burn.json) |
 | Track & Field | 239296 | [239296-track-and-field.json](./239296-track-and-field.json) |
 | Track & Field | 266658 | [266658-track-and-field.json](./266658-track-and-field.json) |
 | Track & Field | 266660 | [266660-track-and-field.json](./266660-track-and-field.json) |
@@ -28662,6 +28669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Divers | 41953 | [41953-tunnel-divers.json](./41953-tunnel-divers.json) |
 | Tunnel Escape | 302803 | [302803-tunnel-escape.json](./302803-tunnel-escape.json) |
 | Tunnel Hero 3D | 232328 | [232328-tunnel-hero-3d.json](./232328-tunnel-hero-3d.json) |
+| Tunnel Hunt | 176079 | [176079-tunnel-hunt.json](./176079-tunnel-hunt.json) |
 | Tunnel Madness | 131878 | [131878-tunnel-madness.json](./131878-tunnel-madness.json) |
 | Tunnel of Doom | 139660 | [139660-tunnel-of-doom.json](./139660-tunnel-of-doom.json) |
 | Tunnel Racer | 176383 | [176383-tunnel-racer.json](./176383-tunnel-racer.json) |
