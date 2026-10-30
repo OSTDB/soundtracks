@@ -6063,6 +6063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Event Horizon | 271755 | [271755-event-horizon.json](./271755-event-horizon.json) |
 | Event Horizon | 295086 | [295086-event-horizon.json](./295086-event-horizon.json) |
 | Event Horizon | 32923 | [32923-event-horizon.json](./32923-event-horizon.json) |
+| Event Horizon: Space Defense | 126192 | [126192-event-horizon-space-defense.json](./126192-event-horizon-space-defense.json) |
 | Event Race | 280349 | [280349-event-race.json](./280349-event-race.json) |
 | Event Race: Bob's Art Table Tracks | 293864 | [293864-event-race-bobs-art-table-tracks.json](./293864-event-race-bobs-art-table-tracks.json) |
 | Event Race: Easter Tracks | 290785 | [290785-event-race-easter-tracks.json](./290785-event-race-easter-tracks.json) |
@@ -7268,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exsanguination | 340045 | [340045-exsanguination.json](./340045-exsanguination.json) |
 | Exstetra | 6769 | [6769-exstetra.json](./6769-exstetra.json) |
 | Exsynchronos | 148297 | [148297-exsynchronos.json](./148297-exsynchronos.json) |
+| Exsys | 126230 | [126230-exsys.json](./126230-exsys.json) |
 | Extant: Zombie Eradication Co-op Simulation | 295821 | [295821-extant-zombie-eradication-co-op-simulation.json](./295821-extant-zombie-eradication-co-op-simulation.json) |
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
 | Exteel | 77809 | [77809-exteel.json](./77809-exteel.json) |
