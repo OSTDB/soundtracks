@@ -2134,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GDO Masters | 180016 | [180016-gdo-masters.json](./180016-gdo-masters.json) |
 | Ge-Sen Love Plus Pengo! | 61571 | [61571-ge-sen-love-plus-pengo.json](./61571-ge-sen-love-plus-pengo.json) |
 | Ge.ne.sis: Down the Road of Tales | 228949 | [228949-ge-ne-sis-down-the-road-of-tales.json](./228949-ge-ne-sis-down-the-road-of-tales.json) |
+| Geadows | 155904 | [155904-geadows.json](./155904-geadows.json) |
 | Géants Disparus VR | 368282 | [368282-geants-disparus-vr.json](./368282-geants-disparus-vr.json) |
 | Gear | 117687 | [117687-gear.json](./117687-gear.json) |
 | Gear Combination | 367536 | [367536-gear-combination.json](./367536-gear-combination.json) |
@@ -5630,6 +5631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Digger | 147994 | [147994-gold-digger.json](./147994-gold-digger.json) |
 | Gold Digger Maze | 105380 | [105380-gold-digger-maze.json](./105380-gold-digger-maze.json) |
 | Gold Digger: The Simulator | 315835 | [315835-gold-digger-the-simulator.json](./315835-gold-digger-the-simulator.json) |
+| Gold Diggers | 155833 | [155833-gold-diggers.json](./155833-gold-diggers.json) |
 | Gold Drill | 215688 | [215688-gold-drill.json](./215688-gold-drill.json) |
 | Gold Drop Mania | 329919 | [329919-gold-drop-mania.json](./329919-gold-drop-mania.json) |
 | Gold Dust | 166947 | [166947-gold-dust.json](./166947-gold-dust.json) |
@@ -9767,6 +9769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunjack Next (working title) | 100070 | [100070-gunjack-next-working-title.json](./100070-gunjack-next-working-title.json) |
 | Gunjin Gari | 59071 | [59071-gunjin-gari.json](./59071-gunjin-gari.json) |
 | Gunjitsu | 17099 | [17099-gunjitsu.json](./17099-gunjitsu.json) |
+| Gunjump Before Dinner | 155909 | [155909-gunjump-before-dinner.json](./155909-gunjump-before-dinner.json) |
 | Gunk | 126921 | [126921-gunk.json](./126921-gunk.json) |
 | Gunk | 404388 | [404388-gunk.json](./404388-gunk.json) |
 | Gunkid 99 | 116197 | [116197-gunkid-99.json](./116197-gunkid-99.json) |
