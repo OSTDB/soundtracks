@@ -859,7 +859,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3177,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bandits | 130100 | [130100-battle-bandits.json](./130100-battle-bandits.json) |
 | Battle Bands: Rock & Roll Deckbuilder | 155551 | [155551-battle-bands-rock-and-roll-deckbuilder.json](./155551-battle-bands-rock-and-roll-deckbuilder.json) |
 | Battle Barn: Tactics | 190054 | [190054-battle-barn-tactics.json](./190054-battle-barn-tactics.json) |
+| Battle Baseball | 143913 | [143913-battle-baseball.json](./143913-battle-baseball.json) |
 | Battle Bean | 291239 | [291239-battle-bean.json](./291239-battle-bean.json) |
 | Battle Bears 1 Mac | 88639 | [88639-battle-bears-1-mac.json](./88639-battle-bears-1-mac.json) |
 | Battle Bears 1: Zombies | 171453 | [171453-battle-bears-1-zombies.json](./171453-battle-bears-1-zombies.json) |
@@ -3305,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle For Presidency | 64653 | [64653-battle-for-presidency.json](./64653-battle-for-presidency.json) |
 | Battle for Rakir | 343296 | [343296-battle-for-rakir.json](./343296-battle-for-rakir.json) |
 | Battle for Sea 3D | 163895 | [163895-battle-for-sea-3d.json](./163895-battle-for-sea-3d.json) |
+| Battle For Seattle | 143904 | [143904-battle-for-seattle.json](./143904-battle-for-seattle.json) |
 | Battle for the Ashes | 14290 | [14290-battle-for-the-ashes.json](./14290-battle-for-the-ashes.json) |
 | Battle for the Board | 259091 | [259091-battle-for-the-board.json](./259091-battle-for-the-board.json) |
 | Battle for the Droid Station | 193093 | [193093-battle-for-the-droid-station.json](./193093-battle-for-the-droid-station.json) |
@@ -7432,6 +7433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioSwarm | 297472 | [297472-bioswarm.json](./297472-bioswarm.json) |
 | BioSynth: Rising | 336892 | [336892-biosynth-rising.json](./336892-biosynth-rising.json) |
 | Biosys | 94327 | [94327-biosys.json](./94327-biosys.json) |
+| Biosys Inc | 143888 | [143888-biosys-inc.json](./143888-biosys-inc.json) |
 | Biota | 151161 | [151161-biota.json](./151161-biota.json) |
 | Biotech Samurai | 161385 | [161385-biotech-samurai.json](./161385-biotech-samurai.json) |
 | Biotomata | 381685 | [381685-biotomata.json](./381685-biotomata.json) |
@@ -10942,6 +10944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boggle With Friends | 55087 | [55087-boggle-with-friends.json](./55087-boggle-with-friends.json) |
 | Boggy '84 | 40261 | [40261-boggy-84.json](./40261-boggy-84.json) |
 | Bogie's Super Pick: Value Pack 1 | 98965 | [98965-bogies-super-pick-value-pack-1.json](./98965-bogies-super-pick-value-pack-1.json) |
+| Bogo | 143914 | [143914-bogo.json](./143914-bogo.json) |
 | Bogos Binted? | 346205 | [346205-bogos-binted.json](./346205-bogos-binted.json) |
 | BogOut | 93212 | [93212-bogout.json](./93212-bogout.json) |
 | Bograts: The Puzzling Misadventure | 14330 | [14330-bograts-the-puzzling-misadventure.json](./14330-bograts-the-puzzling-misadventure.json) |
@@ -16265,6 +16268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buster Jam | 326285 | [326285-buster-jam.json](./326285-buster-jam.json) |
 | Buster Sword | 415963 | [415963-buster-sword.json](./415963-buster-sword.json) |
 | Buster's Big Score | 366270 | [366270-busters-big-score.json](./366270-busters-big-score.json) |
+| Buster's Quest: Trials of Hamsterdam | 143881 | [143881-busters-quest-trials-of-hamsterdam.json](./143881-busters-quest-trials-of-hamsterdam.json) |
 | Buster's Tower Defense | 152330 | [152330-busters-tower-defense.json](./152330-busters-tower-defense.json) |
 | Bustin-Out | 64946 | [64946-bustin-out.json](./64946-bustin-out.json) |
 | Bustin' the Bastille | 166670 | [166670-bustin-the-bastille.json](./166670-bustin-the-bastille.json) |
