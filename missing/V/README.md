@@ -3434,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR GirlFriend | 30291 | [30291-vr-girlfriend.json](./30291-vr-girlfriend.json) |
 | VR Girls' Room in Darkness | 160139 | [160139-vr-girls-room-in-darkness.json](./160139-vr-girls-room-in-darkness.json) |
 | VR Gorodki | 313980 | [313980-vr-gorodki.json](./313980-vr-gorodki.json) |
+| VR Great Rome City | 172934 | [172934-vr-great-rome-city.json](./172934-vr-great-rome-city.json) |
 | VR Ground: Crazy Farm | 105311 | [105311-vr-ground-crazy-farm.json](./105311-vr-ground-crazy-farm.json) |
 | VR Guardians | 164234 | [164234-vr-guardians.json](./164234-vr-guardians.json) |
 | VR Harem Life | 338563 | [338563-vr-harem-life.json](./338563-vr-harem-life.json) |
