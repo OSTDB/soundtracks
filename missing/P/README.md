@@ -5275,6 +5275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano Tiles 2 | 57323 | [57323-piano-tiles-2.json](./57323-piano-tiles-2.json) |
 | Piano Tiles 2: Don't Tap...2 | 220173 | [220173-piano-tiles-2-dont-tap-2.json](./220173-piano-tiles-2-dont-tap-2.json) |
 | Piano Tiles 2+ | 341132 | [341132-piano-tiles-2.json](./341132-piano-tiles-2.json) |
+| Piano Wizard | 129960 | [129960-piano-wizard.json](./129960-piano-wizard.json) |
 | Piano: Learn and Play - Complete + | 328827 | [328827-piano-learn-and-play-complete.json](./328827-piano-learn-and-play-complete.json) |
 | Piano: Learn and Play - Ultra Director's Cut | 328828 | [328828-piano-learn-and-play-ultra-directors-cut.json](./328828-piano-learn-and-play-ultra-directors-cut.json) |
 | Piano: Learn and Play - Ultra Premium | 304792 | [304792-piano-learn-and-play-ultra-premium.json](./304792-piano-learn-and-play-ultra-premium.json) |
@@ -11628,6 +11629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porradaria Upgrade | 91973 | [91973-porradaria-upgrade.json](./91973-porradaria-upgrade.json) |
 | Porrasturvat: Stair Dismount | 93059 | [93059-porrasturvat-stair-dismount.json](./93059-porrasturvat-stair-dismount.json) |
 | Porsche Challenge | 45023 | [45023-porsche-challenge.json](./45023-porsche-challenge.json) |
+| Porsche Hall of Legends VR | 129989 | [129989-porsche-hall-of-legends-vr.json](./129989-porsche-hall-of-legends-vr.json) |
 | Port Authority | 369886 | [369886-port-authority.json](./369886-port-authority.json) |
 | Port Cranes: Container Age | 215331 | [215331-port-cranes-container-age.json](./215331-port-cranes-container-age.json) |
 | Port Glacia | 262167 | [262167-port-glacia.json](./262167-port-glacia.json) |
@@ -12677,6 +12679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
 | Press Axe | 252000 | [252000-press-axe.json](./252000-press-axe.json) |
 | Press Ctrl | 149770 | [149770-press-ctrl.json](./149770-press-ctrl.json) |
+| Press Forward Ooooonnnnn | 129965 | [129965-press-forward-ooooonnnnn.json](./129965-press-forward-ooooonnnnn.json) |
 | Press Inc. | 108275 | [108275-press-inc.json](./108275-press-inc.json) |
 | Press Lex to Metaverx | 212097 | [212097-press-lex-to-metaverx.json](./212097-press-lex-to-metaverx.json) |
 | Press Play | 229568 | [229568-press-play.json](./229568-press-play.json) |
