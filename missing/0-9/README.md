@@ -1968,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3571 The Game | 76396 | [76396-3571-the-game.json](./76396-3571-the-game.json) |
 | 3594e: Sangokushi Eiga | 80633 | [80633-3594e-sangokushi-eiga.json](./80633-3594e-sangokushi-eiga.json) |
 | 35MM | 19396 | [19396-35mm.json](./19396-35mm.json) |
+| 36 Apples | 129985 | [129985-36-apples.json](./129985-36-apples.json) |
 | 36 Days a Week | 135493 | [135493-36-days-a-week.json](./135493-36-days-a-week.json) |
 | 36 Fragments of Midnight | 51730 | [51730-36-fragments-of-midnight.json](./51730-36-fragments-of-midnight.json) |
 | 36 Nights | 277942 | [277942-36-nights.json](./277942-36-nights.json) |
