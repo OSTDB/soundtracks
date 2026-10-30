@@ -802,7 +802,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Triple Pack | 230231 | [230231-halo-triple-pack.json](./230231-halo-triple-pack.json) |
 | Halo Wars | 988 | [988-halo-wars.json](./988-halo-wars.json) |
 | Halo Wars 2 Season Pass | 354226 | [354226-halo-wars-2-season-pass.json](./354226-halo-wars-2-season-pass.json) |
-| Halo Wars 2: Awakening the Nightmare | 37383 | [37383-halo-wars-2-awakening-the-nightmare.json](./37383-halo-wars-2-awakening-the-nightmare.json) |
 | Halo Wars 2: Colony Leader Pack | 354217 | [354217-halo-wars-2-colony-leader-pack.json](./354217-halo-wars-2-colony-leader-pack.json) |
 | Halo Wars 2: Commander Jerome Leader Pack | 354220 | [354220-halo-wars-2-commander-jerome-leader-pack.json](./354220-halo-wars-2-commander-jerome-leader-pack.json) |
 | Halo Wars 2: Complete Edition | 84476 | [84476-halo-wars-2-complete-edition.json](./84476-halo-wars-2-complete-edition.json) |
