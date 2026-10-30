@@ -6200,6 +6200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The BuildSphere: Rise of the Anomalbots | 193504 | [193504-the-buildsphere-rise-of-the-anomalbots.json](./193504-the-buildsphere-rise-of-the-anomalbots.json) |
 | The Bullet Hell | 351540 | [351540-the-bullet-hell.json](./351540-the-bullet-hell.json) |
 | The Bullet Hopper | 268229 | [268229-the-bullet-hopper.json](./268229-the-bullet-hopper.json) |
+| The Bullet: Time of Revenge | 132987 | [132987-the-bullet-time-of-revenge.json](./132987-the-bullet-time-of-revenge.json) |
 | The Bum | 171791 | [171791-the-bum.json](./171791-the-bum.json) |
 | The Bumblezone | 341930 | [341930-the-bumblezone.json](./341930-the-bumblezone.json) |
 | The Bundle of Wonders | 173792 | [173792-the-bundle-of-wonders.json](./173792-the-bundle-of-wonders.json) |
@@ -9500,6 +9501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunted: Hells Reach | 15017 | [15017-the-haunted-hells-reach.json](./15017-the-haunted-hells-reach.json) |
 | The Haunted: Hells Reach - The Fog | 197620 | [197620-the-haunted-hells-reach-the-fog.json](./197620-the-haunted-hells-reach-the-fog.json) |
 | The Haunted: Hells Reach - The Island | 193226 | [193226-the-haunted-hells-reach-the-island.json](./193226-the-haunted-hells-reach-the-island.json) |
+| The Haunting | 133000 | [133000-the-haunting.json](./133000-the-haunting.json) |
 | The Haunting of Billy | 33471 | [33471-the-haunting-of-billy.json](./33471-the-haunting-of-billy.json) |
 | The Haunting of Braidwood Manor | 313813 | [313813-the-haunting-of-braidwood-manor.json](./313813-the-haunting-of-braidwood-manor.json) |
 | The Haunting of Joni Evers | 290008 | [290008-the-haunting-of-joni-evers.json](./290008-the-haunting-of-joni-evers.json) |
@@ -17960,6 +17962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think! | 142363 | [142363-think.json](./142363-think.json) |
 | Think! Think! Monsters | 233512 | [233512-think-think-monsters.json](./233512-think-think-monsters.json) |
 | ThinkExplosive | 265274 | [265274-thinkexplosive.json](./265274-thinkexplosive.json) |
+| ThinkFast | 133005 | [133005-thinkfast.json](./133005-thinkfast.json) |
 | Thinkin' Science: Zap! | 243422 | [243422-thinkin-science-zap.json](./243422-thinkin-science-zap.json) |
 | Thinkin' Things Collection 2 | 70086 | [70086-thinkin-things-collection-2.json](./70086-thinkin-things-collection-2.json) |
 | Thinkin' Things Collection 3 | 78954 | [78954-thinkin-things-collection-3.json](./78954-thinkin-things-collection-3.json) |
@@ -20781,6 +20784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Tunnel | 12968 | [12968-time-tunnel.json](./12968-time-tunnel.json) |
 | Time Tunnel | 285136 | [285136-time-tunnel.json](./285136-time-tunnel.json) |
 | Time Turned | 291469 | [291469-time-turned.json](./291469-time-turned.json) |
+| Time Turner | 133029 | [133029-time-turner.json](./133029-time-turner.json) |
 | Time Twins Mosaics | 383723 | [383723-time-twins-mosaics.json](./383723-time-twins-mosaics.json) |
 | Time Twins Mosaics: Haunted Images | 383722 | [383722-time-twins-mosaics-haunted-images.json](./383722-time-twins-mosaics-haunted-images.json) |
 | Time Twins Mosaics: Tales of Avalon | 383724 | [383724-time-twins-mosaics-tales-of-avalon.json](./383724-time-twins-mosaics-tales-of-avalon.json) |
