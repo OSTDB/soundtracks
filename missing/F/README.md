@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail: Fierce Fight | 349254 | [349254-fairy-tail-fierce-fight.json](./349254-fairy-tail-fierce-fight.json) |
 | Fairy Tail: Forces Unite! | 193970 | [193970-fairy-tail-forces-unite.json](./193970-fairy-tail-forces-unite.json) |
 | Fairy Tail: Friendship! | 165901 | [165901-fairy-tail-friendship.json](./165901-fairy-tail-friendship.json) |
+| Fairy Tail: Guild Box | 136645 | [136645-fairy-tail-guild-box.json](./136645-fairy-tail-guild-box.json) |
 | Fairy Tail: Guild Masters | 193873 | [193873-fairy-tail-guild-masters.json](./193873-fairy-tail-guild-masters.json) |
 | Fairy Tail: Hero's Journey | 59806 | [59806-fairy-tail-heros-journey.json](./59806-fairy-tail-heros-journey.json) |
 | Fairy Tail: Portable Guild | 44480 | [44480-fairy-tail-portable-guild.json](./44480-fairy-tail-portable-guild.json) |
