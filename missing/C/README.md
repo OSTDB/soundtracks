@@ -1884,8 +1884,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Shop Simulator | 322660 | [322660-car-mechanic-shop-simulator.json](./322660-car-mechanic-shop-simulator.json) |
 | Car Mechanic Simulator | 115392 | [115392-car-mechanic-simulator.json](./115392-car-mechanic-simulator.json) |
 | Car Mechanic Simulator 2014 | 7571 | [7571-car-mechanic-simulator-2014.json](./7571-car-mechanic-simulator-2014.json) |
+| Car Mechanic Simulator 2015: Bentley | 152590 | [152590-car-mechanic-simulator-2015-bentley.json](./152590-car-mechanic-simulator-2015-bentley.json) |
+| Car Mechanic Simulator 2015: Car Stripping | 152591 | [152591-car-mechanic-simulator-2015-car-stripping.json](./152591-car-mechanic-simulator-2015-car-stripping.json) |
+| Car Mechanic Simulator 2015: DeLorean | 152589 | [152589-car-mechanic-simulator-2015-delorean.json](./152589-car-mechanic-simulator-2015-delorean.json) |
 | Car Mechanic Simulator 2015: Gold Edition | 24753 | [24753-car-mechanic-simulator-2015-gold-edition.json](./24753-car-mechanic-simulator-2015-gold-edition.json) |
+| Car Mechanic Simulator 2015: Maserati | 152587 | [152587-car-mechanic-simulator-2015-maserati.json](./152587-car-mechanic-simulator-2015-maserati.json) |
+| Car Mechanic Simulator 2015: Performance | 152586 | [152586-car-mechanic-simulator-2015-performance.json](./152586-car-mechanic-simulator-2015-performance.json) |
+| Car Mechanic Simulator 2015: PickUp & SUV | 152593 | [152593-car-mechanic-simulator-2015-pickup-and-suv.json](./152593-car-mechanic-simulator-2015-pickup-and-suv.json) |
+| Car Mechanic Simulator 2015: Total Modifications | 152588 | [152588-car-mechanic-simulator-2015-total-modifications.json](./152588-car-mechanic-simulator-2015-total-modifications.json) |
+| Car Mechanic Simulator 2015: Trader Pack | 152584 | [152584-car-mechanic-simulator-2015-trader-pack.json](./152584-car-mechanic-simulator-2015-trader-pack.json) |
+| Car Mechanic Simulator 2015: Visual Tuning | 152592 | [152592-car-mechanic-simulator-2015-visual-tuning.json](./152592-car-mechanic-simulator-2015-visual-tuning.json) |
+| Car Mechanic Simulator 2015: Youngtimer | 152585 | [152585-car-mechanic-simulator-2015-youngtimer.json](./152585-car-mechanic-simulator-2015-youngtimer.json) |
 | Car Mechanic Simulator 2018 | 40470 | [40470-car-mechanic-simulator-2018.json](./40470-car-mechanic-simulator-2018.json) |
+| Car Mechanic Simulator 2018: Pagani | 152582 | [152582-car-mechanic-simulator-2018-pagani.json](./152582-car-mechanic-simulator-2018-pagani.json) |
+| Car Mechanic Simulator 2018: Rims | 152583 | [152583-car-mechanic-simulator-2018-rims.json](./152583-car-mechanic-simulator-2018-rims.json) |
 | Car Mechanic Simulator 2021 | 152604 | [152604-car-mechanic-simulator-2021.json](./152604-car-mechanic-simulator-2021.json) |
 | Car Mechanic Simulator 2021: Aston Martin | 215499 | [215499-car-mechanic-simulator-2021-aston-martin.json](./215499-car-mechanic-simulator-2021-aston-martin.json) |
 | Car Mechanic Simulator 2021: BMW DLC | 276213 | [276213-car-mechanic-simulator-2021-bmw-dlc.json](./276213-car-mechanic-simulator-2021-bmw-dlc.json) |
@@ -4038,6 +4050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats & Castles | 260182 | [260182-cats-and-castles.json](./260182-cats-and-castles.json) |
 | Cats & Cups | 360002 | [360002-cats-and-cups.json](./360002-cats-and-cups.json) |
 | Cats & Dice | 319342 | [319342-cats-and-dice.json](./319342-cats-and-dice.json) |
+| Cats & Dogs: The Revenge of Kitty Galore | 152609 | [152609-cats-and-dogs-the-revenge-of-kitty-galore.json](./152609-cats-and-dogs-the-revenge-of-kitty-galore.json) |
 | Cats & Soup | 174818 | [174818-cats-and-soup.json](./174818-cats-and-soup.json) |
 | Cats & Soup: Fluffy Town | 383150 | [383150-cats-and-soup-fluffy-town.json](./383150-cats-and-soup-fluffy-town.json) |
 | Cats & Soup: Magic Recipe | 399748 | [399748-cats-and-soup-magic-recipe.json](./399748-cats-and-soup-magic-recipe.json) |
@@ -6020,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Universe | 357416 | [357416-chess-universe.json](./357416-chess-universe.json) |
 | Chess Up! Checkmate With Friends | 385121 | [385121-chess-up-checkmate-with-friends.json](./385121-chess-up-checkmate-with-friends.json) |
 | Chess Valley | 159534 | [159534-chess-valley.json](./159534-chess-valley.json) |
+| Chess Valley 2 | 152577 | [152577-chess-valley-2.json](./152577-chess-valley-2.json) |
 | Chess vs. Chat | 203930 | [203930-chess-vs-chat.json](./203930-chess-vs-chat.json) |
 | Chess vs. The Axis of Evil | 52494 | [52494-chess-vs-the-axis-of-evil.json](./52494-chess-vs-the-axis-of-evil.json) |
 | Chess With Friends | 79921 | [79921-chess-with-friends.json](./79921-chess-with-friends.json) |
@@ -7667,6 +7681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Church Era | 118391 | [118391-church-era.json](./118391-church-era.json) |
 | Church of Shadows | 323527 | [323527-church-of-shadows.json](./323527-church-of-shadows.json) |
 | Church of Stratum | 163224 | [163224-church-of-stratum.json](./163224-church-of-stratum.json) |
+| Church of the Midnight Sailor | 152599 | [152599-church-of-the-midnight-sailor.json](./152599-church-of-the-midnight-sailor.json) |
 | Church Simulator | 312878 | [312878-church-simulator.json](./312878-church-simulator.json) |
 | Churchgoers | 118070 | [118070-churchgoers.json](./118070-churchgoers.json) |
 | Churchill Solitaire | 234547 | [234547-churchill-solitaire.json](./234547-churchill-solitaire.json) |
@@ -16788,6 +16803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Battlefield: 2048 | 267071 | [267071-cube-battlefield-2048.json](./267071-cube-battlefield-2048.json) |
 | Cube Battler: Anna Miraiden | 70875 | [70875-cube-battler-anna-miraiden.json](./70875-cube-battler-anna-miraiden.json) |
 | Cube Battler: Debugger Shou-hen | 70874 | [70874-cube-battler-debugger-shou-hen.json](./70874-cube-battler-debugger-shou-hen.json) |
+| Cube Blast: Match | 152613 | [152613-cube-blast-match.json](./152613-cube-blast-match.json) |
 | Cube Boy | 418208 | [418208-cube-boy.json](./418208-cube-boy.json) |
 | Cube Burst 3D | 387740 | [387740-cube-burst-3d.json](./387740-cube-burst-3d.json) |
 | Cube Chase | 129202 | [129202-cube-chase.json](./129202-cube-chase.json) |
