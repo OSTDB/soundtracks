@@ -4326,6 +4326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glider Sim | 160085 | [160085-glider-sim.json](./160085-glider-sim.json) |
 | Glider Simulator | 326413 | [326413-glider-simulator.json](./326413-glider-simulator.json) |
 | Glider: Collect'n Kill | 94537 | [94537-glider-collectn-kill.json](./94537-glider-collectn-kill.json) |
+| Glider: Soar the Skies | 175057 | [175057-glider-soar-the-skies.json](./175057-glider-soar-the-skies.json) |
 | Gliderman | 202752 | [202752-gliderman.json](./202752-gliderman.json) |
 | Glides | 100610 | [100610-glides.json](./100610-glides.json) |
 | Gliding Square | 207893 | [207893-gliding-square.json](./207893-gliding-square.json) |
@@ -7827,6 +7828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Farm 2 | 385048 | [385048-green-farm-2.json](./385048-green-farm-2.json) |
 | Green Farm 3 | 380674 | [380674-green-farm-3.json](./380674-green-farm-3.json) |
 | Green Field Silver Tree | 117689 | [117689-green-field-silver-tree.json](./117689-green-field-silver-tree.json) |
+| Green Fingers | 175058 | [175058-green-fingers.json](./175058-green-fingers.json) |
 | Green Game: TimeSwapper | 33753 | [33753-green-game-timeswapper.json](./33753-green-game-timeswapper.json) |
 | Green Garden | 226359 | [226359-green-garden.json](./226359-green-garden.json) |
 | Green Glass | 174609 | [174609-green-glass.json](./174609-green-glass.json) |
