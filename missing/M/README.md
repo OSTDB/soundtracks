@@ -6263,6 +6263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mediatonic Combo! | 118915 | [118915-mediatonic-combo.json](./118915-mediatonic-combo.json) |
 | Mediator | 355237 | [355237-mediator.json](./355237-mediator.json) |
 | Medic Mayhem | 406680 | [406680-medic-mayhem.json](./406680-medic-mayhem.json) |
+| Medic: Pacific Corpsman | 137797 | [137797-medic-pacific-corpsman.json](./137797-medic-pacific-corpsman.json) |
 | Medic: Pacific War | 155428 | [155428-medic-pacific-war.json](./155428-medic-pacific-war.json) |
 | Medical Record Sheet | 253003 | [253003-medical-record-sheet.json](./253003-medical-record-sheet.json) |
 | Medical verdict | 107913 | [107913-medical-verdict.json](./107913-medical-verdict.json) |
@@ -8243,6 +8244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merc Storia - The Healer and the Melody of the Heart | 333560 | [333560-merc-storia-the-healer-and-the-melody-of-the-heart.json](./333560-merc-storia-the-healer-and-the-melody-of-the-heart.json) |
 | Merc Storia: Ijutsushi to Kane no Neiro | 276006 | [276006-merc-storia-ijutsushi-to-kane-no-neiro.json](./276006-merc-storia-ijutsushi-to-kane-no-neiro.json) |
 | Merc Tactics | 183973 | [183973-merc-tactics.json](./183973-merc-tactics.json) |
+| Merc Zone | 137799 | [137799-merc-zone.json](./137799-merc-zone.json) |
 | Mercapolis | 302791 | [302791-mercapolis.json](./302791-mercapolis.json) |
 | Mercator | 345071 | [345071-mercator.json](./345071-mercator.json) |
 | Mercenarian | 310075 | [310075-mercenarian.json](./310075-mercenarian.json) |
@@ -11758,6 +11760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniPoly.io | 223531 | [223531-minipoly-io.json](./223531-minipoly-io.json) |
 | MiniRacer | 168076 | [168076-miniracer.json](./168076-miniracer.json) |
 | MiniRacingOnline | 151834 | [151834-miniracingonline.json](./151834-miniracingonline.json) |
+| Minisaga | 137820 | [137820-minisaga.json](./137820-minisaga.json) |
 | Minishoot' Adventures | 191761 | [191761-minishoot-adventures.json](./191761-minishoot-adventures.json) |
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
 | MiniState | 129683 | [129683-ministate.json](./129683-ministate.json) |
@@ -16569,6 +16572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Brocco & Co. | 245711 | [245711-mr-brocco-and-co.json](./245711-mr-brocco-and-co.json) |
 | Mr. Bubble | 319437 | [319437-mr-bubble.json](./319437-mr-bubble.json) |
 | Mr. Bullfrog | 198831 | [198831-mr-bullfrog.json](./198831-mr-bullfrog.json) |
+| Mr. Bump | 137833 | [137833-mr-bump.json](./137833-mr-bump.json) |
 | Mr. Buttman's Grand Opening | 263122 | [263122-mr-buttmans-grand-opening.json](./263122-mr-buttmans-grand-opening.json) |
 | Mr. Capital! | 278082 | [278082-mr-capital.json](./278082-mr-capital.json) |
 | Mr. Catfish's Singles Retreat Event Extravaganza!!! | 122353 | [122353-mr-catfishs-singles-retreat-event-extravaganza.json](./122353-mr-catfishs-singles-retreat-event-extravaganza.json) |
