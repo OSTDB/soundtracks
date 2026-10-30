@@ -2211,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Every Day | 292167 | [292167-parkour-every-day.json](./292167-parkour-every-day.json) |
 | Parkour Flight | 86876 | [86876-parkour-flight.json](./86876-parkour-flight.json) |
 | Parkour Fortress: Redux | 350570 | [350570-parkour-fortress-redux.json](./350570-parkour-fortress-redux.json) |
+| Parkour Game | 156850 | [156850-parkour-game.json](./156850-parkour-game.json) |
 | Parkour Game 2 | 270957 | [270957-parkour-game-2.json](./270957-parkour-game-2.json) |
 | Parkour Go | 146713 | [146713-parkour-go.json](./146713-parkour-go.json) |
 | Parkour Jump Adventure | 245914 | [245914-parkour-jump-adventure.json](./245914-parkour-jump-adventure.json) |
@@ -2638,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
 | Path of Legends | 368766 | [368766-path-of-legends.json](./368766-path-of-legends.json) |
 | Path of Light | 344839 | [344839-path-of-light.json](./344839-path-of-light.json) |
+| Path of Memory | 156836 | [156836-path-of-memory.json](./156836-path-of-memory.json) |
 | Path of Mystery: A Brush with Death | 353783 | [353783-path-of-mystery-a-brush-with-death.json](./353783-path-of-mystery-a-brush-with-death.json) |
 | Path of Ninja | 295093 | [295093-path-of-ninja.json](./295093-path-of-ninja.json) |
 | Path of Ra | 211974 | [211974-path-of-ra.json](./211974-path-of-ra.json) |
