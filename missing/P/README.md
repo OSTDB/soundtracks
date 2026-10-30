@@ -2199,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkitect | 18871 | [18871-parkitect.json](./18871-parkitect.json) |
 | Parkitect Dinos and Dynasties | 372662 | [372662-parkitect-dinos-and-dynasties.json](./372662-parkitect-dinos-and-dynasties.json) |
 | Parkitect: Deluxe Edition | 192311 | [192311-parkitect-deluxe-edition.json](./192311-parkitect-deluxe-edition.json) |
+| Parkitect: Taste of Adventure | 154203 | [154203-parkitect-taste-of-adventure.json](./154203-parkitect-taste-of-adventure.json) |
 | Parkour Annovation: Unreal Edition | 243952 | [243952-parkour-annovation-unreal-edition.json](./243952-parkour-annovation-unreal-edition.json) |
 | Parkour Arcade | 104623 | [104623-parkour-arcade.json](./104623-parkour-arcade.json) |
 | Parkour Assassin: Sprint Run | 329205 | [329205-parkour-assassin-sprint-run.json](./329205-parkour-assassin-sprint-run.json) |
