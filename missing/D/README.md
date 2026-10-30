@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daffy Duck in Hollywood | 369244 | [369244-daffy-duck-in-hollywood.json](./369244-daffy-duck-in-hollywood.json) |
 | Daffy Duck, P.I.: The Case of the Missing Letters | 63814 | [63814-daffy-duck-p-i-the-case-of-the-missing-letters.json](./63814-daffy-duck-p-i-the-case-of-the-missing-letters.json) |
 | Daffy Duck: Fowl Play | 25800 | [25800-daffy-duck-fowl-play.json](./25800-daffy-duck-fowl-play.json) |
+| Daffy Duck: The Marvin Missions | 144564 | [144564-daffy-duck-the-marvin-missions.json](./144564-daffy-duck-the-marvin-missions.json) |
 | Daffy Duck: The Marvin Missions | 8132 | [8132-daffy-duck-the-marvin-missions.json](./8132-daffy-duck-the-marvin-missions.json) |
 | Daffy Fish | 152570 | [152570-daffy-fish.json](./152570-daffy-fish.json) |
 | Daft Disputes | 180220 | [180220-daft-disputes.json](./180220-daft-disputes.json) |
@@ -606,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dan Sisal's 501 Darts Trainer | 168305 | [168305-dan-sisals-501-darts-trainer.json](./168305-dan-sisals-501-darts-trainer.json) |
 | Dan the Inmortal | 211043 | [211043-dan-the-inmortal.json](./211043-dan-the-inmortal.json) |
 | Dan Vs. This Game | 63879 | [63879-dan-vs-this-game.json](./63879-dan-vs-this-game.json) |
+| Dan-Ku-Ga | 144635 | [144635-dan-ku-ga.json](./144635-dan-ku-ga.json) |
 | Dan's Odyssey | 223329 | [223329-dans-odyssey.json](./223329-dans-odyssey.json) |
 | Dana The Cyber Relic | 417952 | [417952-dana-the-cyber-relic.json](./417952-dana-the-cyber-relic.json) |
 | Danball Senki | 321466 | [321466-danball-senki.json](./321466-danball-senki.json) |
@@ -6230,6 +6232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeRailed | 179438 | [179438-derailed.json](./179438-derailed.json) |
 | Derange | 129099 | [129099-derange.json](./129099-derange.json) |
 | Deranged | 192724 | [192724-deranged.json](./192724-deranged.json) |
+| Deranged Park Rangers | 143894 | [143894-deranged-park-rangers.json](./143894-deranged-park-rangers.json) |
 | Deranged Rabbits | 33389 | [33389-deranged-rabbits.json](./33389-deranged-rabbits.json) |
 | Derby Baseball | 256712 | [256712-derby-baseball.json](./256712-derby-baseball.json) |
 | Derby Champion Club | 386250 | [386250-derby-champion-club.json](./386250-derby-champion-club.json) |
@@ -6752,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny of Heroes | 303008 | [303008-destiny-of-heroes.json](./303008-destiny-of-heroes.json) |
 | Destiny of Light | 88091 | [88091-destiny-of-light.json](./88091-destiny-of-light.json) |
 | Destiny of Spirits | 42682 | [42682-destiny-of-spirits.json](./42682-destiny-of-spirits.json) |
+| Destiny of the World | 143981 | [143981-destiny-of-the-world.json](./143981-destiny-of-the-world.json) |
 | Destiny of Thrones | 97322 | [97322-destiny-of-thrones.json](./97322-destiny-of-thrones.json) |
 | Destiny Online | 290876 | [290876-destiny-online.json](./290876-destiny-online.json) |
 | Destiny or Fate | 113311 | [113311-destiny-or-fate.json](./113311-destiny-or-fate.json) |
@@ -9931,6 +9935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ: Decks & FX - Radio FG | 269402 | [269402-dj-decks-and-fx-radio-fg.json](./269402-dj-decks-and-fx-radio-fg.json) |
 | Django | 152658 | [152658-django.json](./152658-django.json) |
 | DJbox | 269399 | [269399-djbox.json](./269399-djbox.json) |
+| Djiguli | 143892 | [143892-djiguli.json](./143892-djiguli.json) |
 | Djikstra's Enigmatic Puzzle Cube | 278423 | [278423-djikstras-enigmatic-puzzle-cube.json](./278423-djikstras-enigmatic-puzzle-cube.json) |
 | Djinn Caster | 129605 | [129605-djinn-caster.json](./129605-djinn-caster.json) |
 | Djinn: The Forbidden Knowledge | 302578 | [302578-djinn-the-forbidden-knowledge.json](./302578-djinn-the-forbidden-knowledge.json) |
@@ -12792,6 +12797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draco's Misfortune | 110990 | [110990-dracos-misfortune.json](./110990-dracos-misfortune.json) |
 | DracoFighter | 207527 | [207527-dracofighter.json](./207527-dracofighter.json) |
 | Dracomaton | 258124 | [258124-dracomaton.json](./258124-dracomaton.json) |
+| Draconia | 143903 | [143903-draconia.json](./143903-draconia.json) |
 | Draconia Saga | 309216 | [309216-draconia-saga.json](./309216-draconia-saga.json) |
 | Draconian Wars | 17324 | [17324-draconian-wars.json](./17324-draconian-wars.json) |
 | Draconic Date | 324889 | [324889-draconic-date.json](./324889-draconic-date.json) |
@@ -13454,6 +13460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Treasures | 150022 | [150022-dragon-quest-treasures.json](./150022-dragon-quest-treasures.json) |
 | Dragon Quest Treasures: Digital Deluxe Edition | 219485 | [219485-dragon-quest-treasures-digital-deluxe-edition.json](./219485-dragon-quest-treasures-digital-deluxe-edition.json) |
 | Dragon Quest V: Hand of the Heavenly Bride | 16585 | [16585-dragon-quest-v-hand-of-the-heavenly-bride.json](./16585-dragon-quest-v-hand-of-the-heavenly-bride.json) |
+| Dragon Quest V: Tenkuu no Hanayome | 144540 | [144540-dragon-quest-v-tenkuu-no-hanayome.json](./144540-dragon-quest-v-tenkuu-no-hanayome.json) |
 | Dragon Quest V: Tenkuu no Hanayome | 205595 | [205595-dragon-quest-v-tenkuu-no-hanayome.json](./205595-dragon-quest-v-tenkuu-no-hanayome.json) |
 | Dragon Quest VI: Maboroshi no Daichi | 145497 | [145497-dragon-quest-vi-maboroshi-no-daichi.json](./145497-dragon-quest-vi-maboroshi-no-daichi.json) |
 | Dragon Quest VI: Realms of Revelation | 1817 | [1817-dragon-quest-vi-realms-of-revelation.json](./1817-dragon-quest-vi-realms-of-revelation.json) |
@@ -14863,6 +14870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drillmin | 186198 | [186198-drillmin.json](./186198-drillmin.json) |
 | Drills VR | 109066 | [109066-drills-vr.json](./109066-drills-vr.json) |
 | DrillsVR | 102878 | [102878-drillsvr.json](./102878-drillsvr.json) |
+| Drilly Willis | 144558 | [144558-drilly-willis.json](./144558-drilly-willis.json) |
 | Drim | 286085 | [286085-drim.json](./286085-drim.json) |
 | Drimsley | 137526 | [137526-drimsley.json](./137526-drimsley.json) |
 | Dringle | 287503 | [287503-dringle.json](./287503-dringle.json) |
