@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M-PS2Craft | 274887 | [274887-m-ps2craft.json](./274887-m-ps2craft.json) |
 | M-Tee | 195504 | [195504-m-tee.json](./195504-m-tee.json) |
 | M: Alien Paranoia | 73699 | [73699-m-alien-paranoia.json](./73699-m-alien-paranoia.json) |
+| M: Kimi wo Tsutaete | 176124 | [176124-m-kimi-wo-tsutaete.json](./176124-m-kimi-wo-tsutaete.json) |
 | M!racle Home_Page | 421416 | [421416-m-racle-home-page.json](./421416-m-racle-home-page.json) |
 | M. I. A. - Missing In Action | 76199 | [76199-m-i-a-missing-in-action.json](./76199-m-i-a-missing-in-action.json) |
 | M. Stain | 356108 | [356108-m-stain.json](./356108-m-stain.json) |
