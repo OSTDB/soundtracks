@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred 3: First Edition | 51287 | [51287-sacred-3-first-edition.json](./51287-sacred-3-first-edition.json) |
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
 | Sacred Citadel | 15290 | [15290-sacred-citadel.json](./15290-sacred-citadel.json) |
+| Sacred Cubes 2 | 156833 | [156833-sacred-cubes-2.json](./156833-sacred-cubes-2.json) |
 | Sacred Curse | 188970 | [188970-sacred-curse.json](./188970-sacred-curse.json) |
 | Sacred Dark | 327383 | [327383-sacred-dark.json](./327383-sacred-dark.json) |
 | Sacred Earth: Promise | 109766 | [109766-sacred-earth-promise.json](./109766-sacred-earth-promise.json) |
@@ -8262,6 +8263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shore of Jord | 326861 | [326861-shore-of-jord.json](./326861-shore-of-jord.json) |
 | Shorekeeper | 385694 | [385694-shorekeeper.json](./385694-shorekeeper.json) |
 | Shores of Hazeron | 66413 | [66413-shores-of-hazeron.json](./66413-shores-of-hazeron.json) |
+| Shoresy: Legends of the North | 156832 | [156832-shoresy-legends-of-the-north.json](./156832-shoresy-legends-of-the-north.json) |
 | Short 'n Quick | 274203 | [274203-short-n-quick.json](./274203-short-n-quick.json) |
 | Short 'n Quick 2 | 274204 | [274204-short-n-quick-2.json](./274204-short-n-quick-2.json) |
 | Short Circuit | 193440 | [193440-short-circuit.json](./193440-short-circuit.json) |
@@ -19380,6 +19382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin | 94108 | [94108-spin.json](./94108-spin.json) |
 | Spin & Match Puzzle Learn at Once 3 Languages | 312080 | [312080-spin-and-match-puzzle-learn-at-once-3-languages.json](./312080-spin-and-match-puzzle-learn-at-once-3-languages.json) |
 | Spin & Play: Carnival Madness | 73337 | [73337-spin-and-play-carnival-madness.json](./73337-spin-and-play-carnival-madness.json) |
+| Spin & Roll | 156847 | [156847-spin-and-roll.json](./156847-spin-and-roll.json) |
 | Spin & Win | 73636 | [73636-spin-and-win.json](./73636-spin-and-win.json) |
 | Spin 2 Win | 410420 | [410420-spin-2-win.json](./410420-spin-2-win.json) |
 | Spin a Stick | 257795 | [257795-spin-a-stick.json](./257795-spin-a-stick.json) |
@@ -21036,6 +21039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StageTime | 334255 | [334255-stagetime.json](./334255-stagetime.json) |
 | Stagger 1 | 40250 | [40250-stagger-1.json](./40250-stagger-1.json) |
 | Staggering Beauty | 337136 | [337136-staggering-beauty.json](./337136-staggering-beauty.json) |
+| Staggering Through the Dark | 156843 | [156843-staggering-through-the-dark.json](./156843-staggering-through-the-dark.json) |
 | Stagnated In Slumber | 212250 | [212250-stagnated-in-slumber.json](./212250-stagnated-in-slumber.json) |
 | Stagnatum | 185109 | [185109-stagnatum.json](./185109-stagnatum.json) |
 | Stahlfeder: Tekkou Hikuudan | 138746 | [138746-stahlfeder-tekkou-hikuudan.json](./138746-stahlfeder-tekkou-hikuudan.json) |
@@ -26017,6 +26021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubuses Love Creampie | 169424 | [169424-succubuses-love-creampie.json](./169424-succubuses-love-creampie.json) |
 | Succulent | 20252 | [20252-succulent.json](./20252-succulent.json) |
 | Succulent Studio | 400224 | [400224-succulent-studio.json](./400224-succulent-studio.json) |
+| Succumate | 156855 | [156855-succumate.json](./156855-succumate.json) |
 | Succupie: An Erotic Short Story | 416613 | [416613-succupie-an-erotic-short-story.json](./416613-succupie-an-erotic-short-story.json) |
 | Such a guy | 374236 | [374236-such-a-guy.json](./374236-such-a-guy.json) |
 | Such Ninja | 254154 | [254154-such-ninja.json](./254154-such-ninja.json) |
