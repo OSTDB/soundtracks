@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Piece of Wish upon the Stars | 106410 | [106410-a-piece-of-wish-upon-the-stars.json](./106410-a-piece-of-wish-upon-the-stars.json) |
 | A Pilferer Lily's Naked Stealth Journey | 83162 | [83162-a-pilferer-lilys-naked-stealth-journey.json](./83162-a-pilferer-lilys-naked-stealth-journey.json) |
 | A Pinball Game That Makes You Mad | 371002 | [371002-a-pinball-game-that-makes-you-mad.json](./371002-a-pinball-game-that-makes-you-mad.json) |
+| A Pinch of Magic | 145874 | [145874-a-pinch-of-magic.json](./145874-a-pinch-of-magic.json) |
 | A Pirate Game About Digging for Treasure and Getting Drunk | 357003 | [357003-a-pirate-game-about-digging-for-treasure-and-getting-drunk.json](./357003-a-pirate-game-about-digging-for-treasure-and-getting-drunk.json) |
 | A Pirate Quartermaster | 120698 | [120698-a-pirate-quartermaster.json](./120698-a-pirate-quartermaster.json) |
 | A Pirate's End | 176276 | [176276-a-pirates-end.json](./176276-a-pirates-end.json) |
@@ -7875,6 +7876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Trees | 106279 | [106279-among-trees.json](./106279-among-trees.json) |
 | Among Us | 230236 | [230236-among-us.json](./230236-among-us.json) |
 | Among Us | 353925 | [353925-among-us.json](./353925-among-us.json) |
+| Among Us 2 | 145875 | [145875-among-us-2.json](./145875-among-us-2.json) |
 | Among Us 3D | 332784 | [332784-among-us-3d.json](./332784-among-us-3d.json) |
 | Among Us 3D: VR | 185254 | [185254-among-us-3d-vr.json](./185254-among-us-3d-vr.json) |
 | Among Us 3D: VR - The Tracker | 377655 | [377655-among-us-3d-vr-the-tracker.json](./377655-among-us-3d-vr-the-tracker.json) |
@@ -8537,6 +8539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelfish | 69713 | [69713-angelfish.json](./69713-angelfish.json) |
 | AngelGaze | 311184 | [311184-angelgaze.json](./311184-angelgaze.json) |
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
+| Angelic | 145892 | [145892-angelic.json](./145892-angelic.json) |
 | Angelic Agency: Soul Salvation Unit | 334862 | [334862-angelic-agency-soul-salvation-unit.json](./334862-angelic-agency-soul-salvation-unit.json) |
 | Angelic Chaos Re-Boot! | 254480 | [254480-angelic-chaos-re-boot.json](./254480-angelic-chaos-re-boot.json) |
 | Angelic Concert | 69152 | [69152-angelic-concert.json](./69152-angelic-concert.json) |
@@ -13472,6 +13475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASMR Slicing: Nice Cuts Edition | 284941 | [284941-asmr-slicing-nice-cuts-edition.json](./284941-asmr-slicing-nice-cuts-edition.json) |
 | Asoberu Eigo: Word Magic | 122747 | [122747-asoberu-eigo-word-magic.json](./122747-asoberu-eigo-word-magic.json) |
 | Asobu Rakugaki | 72690 | [72690-asobu-rakugaki.json](./72690-asobu-rakugaki.json) |
+| Asobu Tights | 145964 | [145964-asobu-tights.json](./145964-asobu-tights.json) |
 | Asonde Igo ga Sara ni Tsuyoku Naru: Ginsei Igo DS Chuukyuu-hen | 269558 | [269558-asonde-igo-ga-sara-ni-tsuyoku-naru-ginsei-igo-ds-chuukyuu-hen.json](./269558-asonde-igo-ga-sara-ni-tsuyoku-naru-ginsei-igo-ds-chuukyuu-hen.json) |
 | Asonde Igo ga Tsuyoku Naru! Ginsei Igo DX | 136958 | [136958-asonde-igo-ga-tsuyoku-naru-ginsei-igo-dx.json](./136958-asonde-igo-ga-tsuyoku-naru-ginsei-igo-dx.json) |
 | Asonde Igo ga Tsuyoku Naru!! Ginsei Igo DS | 269651 | [269651-asonde-igo-ga-tsuyoku-naru-ginsei-igo-ds.json](./269651-asonde-igo-ga-tsuyoku-naru-ginsei-igo-ds.json) |
@@ -15379,6 +15383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Nova | 269044 | [269044-aurora-nova.json](./269044-aurora-nova.json) |
 | Aurora Polaris | 341690 | [341690-aurora-polaris.json](./341690-aurora-polaris.json) |
 | Aurora Quest: Otaku no Seiza in Another World | 69765 | [69765-aurora-quest-otaku-no-seiza-in-another-world.json](./69765-aurora-quest-otaku-no-seiza-in-another-world.json) |
+| Aurora: A Child's Journey | 145891 | [145891-aurora-a-childs-journey.json](./145891-aurora-a-childs-journey.json) |
 | Aurora: El Destino de los Mundos | 317071 | [317071-aurora-el-destino-de-los-mundos.json](./317071-aurora-el-destino-de-los-mundos.json) |
 | Aurora: Genesis | 349367 | [349367-aurora-genesis.json](./349367-aurora-genesis.json) |
 | Aurora: Hidden Colors | 126411 | [126411-aurora-hidden-colors.json](./126411-aurora-hidden-colors.json) |
