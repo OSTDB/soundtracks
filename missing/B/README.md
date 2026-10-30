@@ -6126,6 +6126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betrayer: Curse of the Spine | 168381 | [168381-betrayer-curse-of-the-spine.json](./168381-betrayer-curse-of-the-spine.json) |
 | Betrix | 207630 | [207630-betrix.json](./207630-betrix.json) |
 | Betroyal | 245839 | [245839-betroyal.json](./245839-betroyal.json) |
+| Bets | 131094 | [131094-bets.json](./131094-bets.json) |
 | Bets on Pets | 278170 | [278170-bets-on-pets.json](./278170-bets-on-pets.json) |
 | Betsy's Hospital | 159067 | [159067-betsys-hospital.json](./159067-betsys-hospital.json) |
 | Better Boyfriend | 130234 | [130234-better-boyfriend.json](./130234-better-boyfriend.json) |
@@ -11269,6 +11270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombe | 230363 | [230363-bombe.json](./230363-bombe.json) |
 | Bombe à Rebours | 176637 | [176637-bombe-a-rebours.json](./176637-bombe-a-rebours.json) |
 | Bombeiro Mascarado | 183966 | [183966-bombeiro-mascarado.json](./183966-bombeiro-mascarado.json) |
+| Bomber | 131104 | [131104-bomber.json](./131104-bomber.json) |
 | Bomber | 171464 | [171464-bomber.json](./171464-bomber.json) |
 | Bomber | 230682 | [230682-bomber.json](./230682-bomber.json) |
 | Bomber | 249775 | [249775-bomber.json](./249775-bomber.json) |
@@ -12333,6 +12335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulders and Bombs | 23965 | [23965-boulders-and-bombs.json](./23965-boulders-and-bombs.json) |
 | Boulders: Puzzle | 142216 | [142216-boulders-puzzle.json](./142216-boulders-puzzle.json) |
 | Boule & Bill: Holiday time! | 67961 | [67961-boule-and-bill-holiday-time.json](./67961-boule-and-bill-holiday-time.json) |
+| BouLe et bill unity | 131090 | [131090-boule-et-bill-unity.json](./131090-boule-et-bill-unity.json) |
 | Boule Petanque | 249113 | [249113-boule-petanque.json](./249113-boule-petanque.json) |
 | BouleMan | 349508 | [349508-bouleman.json](./349508-bouleman.json) |
 | Boulette Hell | 223377 | [223377-boulette-hell.json](./223377-boulette-hell.json) |
@@ -15046,6 +15049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy's Creative Quest! | 157983 | [157983-buddys-creative-quest.json](./157983-buddys-creative-quest.json) |
 | Buddyman Run | 266129 | [266129-buddyman-run.json](./266129-buddyman-run.json) |
 | Buddytale | 246305 | [246305-buddytale.json](./246305-buddytale.json) |
+| Budget | 131116 | [131116-budget.json](./131116-budget.json) |
 | Budget Backrooms | 266290 | [266290-budget-backrooms.json](./266290-budget-backrooms.json) |
 | Budget Cuts | 18970 | [18970-budget-cuts.json](./18970-budget-cuts.json) |
 | Budget Cuts 2: Mission Insolvency | 119340 | [119340-budget-cuts-2-mission-insolvency.json](./119340-budget-cuts-2-mission-insolvency.json) |
