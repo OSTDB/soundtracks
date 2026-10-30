@@ -3033,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Come | 307043 | [307043-castle-come.json](./307043-castle-come.json) |
 | Castle Corp | 280332 | [280332-castle-corp.json](./280332-castle-corp.json) |
 | Castle Craft | 250250 | [250250-castle-craft.json](./250250-castle-craft.json) |
+| Castle Craft: World War | 175031 | [175031-castle-craft-world-war.json](./175031-castle-craft-world-war.json) |
 | Castle Crafter | 253208 | [253208-castle-crafter.json](./253208-castle-crafter.json) |
 | Castle Crashers Remastered | 20880 | [20880-castle-crashers-remastered.json](./20880-castle-crashers-remastered.json) |
 | Castle Crashers: Blacksmith Pack | 170863 | [170863-castle-crashers-blacksmith-pack.json](./170863-castle-crashers-blacksmith-pack.json) |
@@ -9750,6 +9751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coconut Simulator 2 | 374019 | [374019-coconut-simulator-2.json](./374019-coconut-simulator-2.json) |
 | Coconuts | 40622 | [40622-coconuts.json](./40622-coconuts.json) |
 | Coconuts versus Bananas: The Invasion of Carl CocoPalm | 97456 | [97456-coconuts-versus-bananas-the-invasion-of-carl-cocopalm.json](./97456-coconuts-versus-bananas-the-invasion-of-carl-cocopalm.json) |
+| Cocoppa Play | 175034 | [175034-cocoppa-play.json](./175034-cocoppa-play.json) |
 | CocoRally Ultimate | 220824 | [220824-cocorally-ultimate.json](./220824-cocorally-ultimate.json) |
 | Cocoricó: Brincando de Pega-Pega | 417542 | [417542-cocorico-brincando-de-pega-pega.json](./417542-cocorico-brincando-de-pega-pega.json) |
 | Cocoro | 317333 | [317333-cocoro.json](./317333-cocoro.json) |
@@ -9800,6 +9802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Geass: Genesic Re;Code | 169915 | [169915-code-geass-genesic-re-code.json](./169915-code-geass-genesic-re-code.json) |
 | Code Geass: Hangyaku no Lelouch | 80230 | [80230-code-geass-hangyaku-no-lelouch.json](./80230-code-geass-hangyaku-no-lelouch.json) |
 | Code Geass: Lelouch of the Rebellion - Lost Colors | 66411 | [66411-code-geass-lelouch-of-the-rebellion-lost-colors.json](./66411-code-geass-lelouch-of-the-rebellion-lost-colors.json) |
+| Code Geass: Lelouch of the Rebellion - Lost Stories | 175048 | [175048-code-geass-lelouch-of-the-rebellion-lost-stories.json](./175048-code-geass-lelouch-of-the-rebellion-lost-stories.json) |
 | Code Geass: Lelouch of the Rebellion R2 Banjou no Geass Gekijou | 80162 | [80162-code-geass-lelouch-of-the-rebellion-r2-banjou-no-geass-gekijou.json](./80162-code-geass-lelouch-of-the-rebellion-r2-banjou-no-geass-gekijou.json) |
 | Code Has Price | 274309 | [274309-code-has-price.json](./274309-code-has-price.json) |
 | Code Lyoko RDT | 346460 | [346460-code-lyoko-rdt.json](./346460-code-lyoko-rdt.json) |
