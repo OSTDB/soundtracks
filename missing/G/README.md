@@ -3289,6 +3289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost and Joker: A thing to do for you | 255886 | [255886-ghost-and-joker-a-thing-to-do-for-you.json](./255886-ghost-and-joker-a-thing-to-do-for-you.json) |
 | Ghost Ascension | 290486 | [290486-ghost-ascension.json](./290486-ghost-ascension.json) |
 | Ghost Assassin: Stealth Strike | 320446 | [320446-ghost-assassin-stealth-strike.json](./320446-ghost-assassin-stealth-strike.json) |
+| Ghost Battalion | 152572 | [152572-ghost-battalion.json](./152572-ghost-battalion.json) |
 | Ghost Battalion | 414842 | [414842-ghost-battalion.json](./414842-ghost-battalion.json) |
 | Ghost Battle | 78319 | [78319-ghost-battle.json](./78319-ghost-battle.json) |
 | Ghost Beat | 170887 | [170887-ghost-beat.json](./170887-ghost-beat.json) |
@@ -6520,6 +6521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorotsuki Paradise | 390046 | [390046-gorotsuki-paradise.json](./390046-gorotsuki-paradise.json) |
 | Gorytale | 111798 | [111798-gorytale.json](./111798-gorytale.json) |
 | Goryuujin Electro | 384780 | [384780-goryuujin-electro.json](./384780-goryuujin-electro.json) |
+| Gos Castle Runner | 152601 | [152601-gos-castle-runner.json](./152601-gos-castle-runner.json) |
 | GOS: Gain Of Squad | 295854 | [295854-gos-gain-of-squad.json](./295854-gos-gain-of-squad.json) |
 | Gosaku ga Horu Mon | 214955 | [214955-gosaku-ga-horu-mon.json](./214955-gosaku-ga-horu-mon.json) |
 | Gosaku ga Horu Mon 2: Yoru no Jugyou Sankan Hen | 214958 | [214958-gosaku-ga-horu-mon-2-yoru-no-jugyou-sankan-hen.json](./214958-gosaku-ga-horu-mon-2-yoru-no-jugyou-sankan-hen.json) |
@@ -7835,6 +7837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedling: 2D Boss Rush | 409409 | [409409-greedling-2d-boss-rush.json](./409409-greedling-2d-boss-rush.json) |
 | Greedventory | 204507 | [204507-greedventory.json](./204507-greedventory.json) |
 | Greedy | 178858 | [178858-greedy.json](./178858-greedy.json) |
+| Greedy Bubble | 152580 | [152580-greedy-bubble.json](./152580-greedy-bubble.json) |
 | Greedy Chicken | 264171 | [264171-greedy-chicken.json](./264171-greedy-chicken.json) |
 | Greedy Crush | 113171 | [113171-greedy-crush.json](./113171-greedy-crush.json) |
 | Greedy Dungeon | 153395 | [153395-greedy-dungeon.json](./153395-greedy-dungeon.json) |
