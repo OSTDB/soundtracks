@@ -2500,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2555,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinap | 374366 | [374366-kinap.json](./374366-kinap.json) |
 | Kind () Station | 357438 | [357438-kind-station.json](./357438-kind-station.json) |
 | Kind Gals | 41325 | [41325-kind-gals.json](./41325-kind-gals.json) |
+| Kind Heart | 166439 | [166439-kind-heart.json](./166439-kind-heart.json) |
 | Kind Heart Defenders | 221104 | [221104-kind-heart-defenders.json](./221104-kind-heart-defenders.json) |
 | Kind Nature | 250958 | [250958-kind-nature.json](./250958-kind-nature.json) |
 | KINDa | 261195 | [261195-kinda.json](./261195-kinda.json) |
@@ -5647,6 +5649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyokkou no Marriage | 317099 | [317099-kyokkou-no-marriage.json](./317099-kyokkou-no-marriage.json) |
 | Kyokkou no Marriage: Episode Lia | 317100 | [317100-kyokkou-no-marriage-episode-lia.json](./317100-kyokkou-no-marriage-episode-lia.json) |
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
+| Kyomu | 166420 | [166420-kyomu.json](./166420-kyomu.json) |
 | Kyonshies 2 | 36900 | [36900-kyonshies-2.json](./36900-kyonshies-2.json) |
 | Kyonyuu Fantasy 3 if | 77824 | [77824-kyonyuu-fantasy-3-if.json](./77824-kyonyuu-fantasy-3-if.json) |
 | Kyonyuu Hitozuma Shimai wa Nakadashi Niku Benki: Oi no Wakai Kyokon ni Soku Ochi Mesu Yorokobi de Netori Haramase Onedari | 59029 | [59029-kyonyuu-hitozuma-shimai-wa-nakadashi-niku-benki-oi-no-wakai-kyokon-ni-soku-ochi-mesu-yorokobi-de-netori-haramase-onedari.json](./59029-kyonyuu-hitozuma-shimai-wa-nakadashi-niku-benki-oi-no-wakai-kyokon-ni-soku-ochi-mesu-yorokobi-de-netori-haramase-onedari.json) |
