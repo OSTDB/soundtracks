@@ -7111,6 +7111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
 | Grandma, No! | 328915 | [328915-grandma-no.json](./328915-grandma-no.json) |
 | Grandma's Cheese | 246836 | [246836-grandmas-cheese.json](./246836-grandmas-cheese.json) |
+| Grandma's Footsteps | 172907 | [172907-grandmas-footsteps.json](./172907-grandmas-footsteps.json) |
 | Grandma's Garden | 376810 | [376810-grandmas-garden.json](./376810-grandmas-garden.json) |
 | Grandma's Ghosts | 176307 | [176307-grandmas-ghosts.json](./176307-grandmas-ghosts.json) |
 | Grandma's Guide to the Grand Outside | 415110 | [415110-grandmas-guide-to-the-grand-outside.json](./415110-grandmas-guide-to-the-grand-outside.json) |
