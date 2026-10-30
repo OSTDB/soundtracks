@@ -1962,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electro Man | 70109 | [70109-electro-man.json](./70109-electro-man.json) |
 | Electro Pong VR | 51729 | [51729-electro-pong-vr.json](./51729-electro-pong-vr.json) |
 | Electro Racer | 67056 | [67056-electro-racer.json](./67056-electro-racer.json) |
+| Electro Ride: The Neon Racing | 137810 | [137810-electro-ride-the-neon-racing.json](./137810-electro-ride-the-neon-racing.json) |
 | Electro Rush | 39201 | [39201-electro-rush.json](./39201-electro-rush.json) |
 | Electro-Dynamic Mayhem | 324679 | [324679-electro-dynamic-mayhem.json](./324679-electro-dynamic-mayhem.json) |
 | Electroarena | 194756 | [194756-electroarena.json](./194756-electroarena.json) |
@@ -2402,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elizord's Tale | 250478 | [250478-elizords-tale.json](./250478-elizords-tale.json) |
 | Elk Attack | 282714 | [282714-elk-attack.json](./282714-elk-attack.json) |
 | Elk Simulator | 158565 | [158565-elk-simulator.json](./158565-elk-simulator.json) |
+| Elkabo: Selina's Dark Spirit | 137845 | [137845-elkabo-selinas-dark-spirit.json](./137845-elkabo-selinas-dark-spirit.json) |
 | Elkrone no Atelier: Dear for Otomate | 58057 | [58057-elkrone-no-atelier-dear-for-otomate.json](./58057-elkrone-no-atelier-dear-for-otomate.json) |
 | Elkrone no Atelier: Dear for Otomate Limited Edition | 253495 | [253495-elkrone-no-atelier-dear-for-otomate-limited-edition.json](./253495-elkrone-no-atelier-dear-for-otomate-limited-edition.json) |
 | Ella Stars | 334127 | [334127-ella-stars.json](./334127-ella-stars.json) |
@@ -3184,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encrafted | 411546 | [411546-encrafted.json](./411546-encrafted.json) |
 | Encroacher: Snakes | 413004 | [413004-encroacher-snakes.json](./413004-encroacher-snakes.json) |
 | Encroaching Shadows | 401053 | [401053-encroaching-shadows.json](./401053-encroaching-shadows.json) |
+| Encrypt | 137830 | [137830-encrypt.json](./137830-encrypt.json) |
 | Encrypted | 184063 | [184063-encrypted.json](./184063-encrypted.json) |
 | Encrypted_Nightmares | 340946 | [340946-encrypted-nightmares.json](./340946-encrypted-nightmares.json) |
 | Encycle | 149937 | [149937-encycle.json](./149937-encycle.json) |
@@ -5038,6 +5041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the room | 192157 | [192157-escape-the-room.json](./192157-escape-the-room.json) |
 | Escape the Room | 108954 | [108954-escape-the-room.json](./108954-escape-the-room.json) |
 | Escape the Room | 339772 | [339772-escape-the-room.json](./339772-escape-the-room.json) |
+| Escape the Room 2 | 137800 | [137800-escape-the-room-2.json](./137800-escape-the-room-2.json) |
 | Escape the Room Inscryption Door | 221715 | [221715-escape-the-room-inscryption-door.json](./221715-escape-the-room-inscryption-door.json) |
 | Escape the School | 355217 | [355217-escape-the-school.json](./355217-escape-the-school.json) |
 | Escape The School | 377336 | [377336-escape-the-school.json](./377336-escape-the-school.json) |
