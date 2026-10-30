@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dab on 'em Haterz | 81781 | [81781-dab-on-em-haterz.json](./81781-dab-on-em-haterz.json) |
 | Dab on Darkness! | 157402 | [157402-dab-on-darkness.json](./157402-dab-on-darkness.json) |
 | Dab, Dance & Twerk | 83161 | [83161-dab-dance-and-twerk.json](./83161-dab-dance-and-twerk.json) |
+| Dab's Not Dead | 158857 | [158857-dabs-not-dead.json](./158857-dabs-not-dead.json) |
 | Dabado | 109431 | [109431-dabado.json](./109431-dabado.json) |
 | Dabado Puzzles | 154093 | [154093-dabado-puzzles.json](./154093-dabado-puzzles.json) |
 | Dabble: A Fast Paced Word Game | 99716 | [99716-dabble-a-fast-paced-word-game.json](./99716-dabble-a-fast-paced-word-game.json) |
@@ -4817,6 +4818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Strike | 13583 | [13583-deep-strike.json](./13583-deep-strike.json) |
 | Deep Strike | 379923 | [379923-deep-strike.json](./379923-deep-strike.json) |
 | Deep the Game: The Darkest Cave | 169957 | [169957-deep-the-game-the-darkest-cave.json](./169957-deep-the-game-the-darkest-cave.json) |
+| Deep Therapy | 158868 | [158868-deep-therapy.json](./158868-deep-therapy.json) |
 | Deep Town | 98532 | [98532-deep-town.json](./98532-deep-town.json) |
 | Deep Treasure | 275080 | [275080-deep-treasure.json](./275080-deep-treasure.json) |
 | Deep Under | 260302 | [260302-deep-under.json](./260302-deep-under.json) |
@@ -7880,6 +7882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diercke Das Geographie-Quiz | 269743 | [269743-diercke-das-geographie-quiz.json](./269743-diercke-das-geographie-quiz.json) |
 | Diercke: Junior-Quiz Geographie | 269744 | [269744-diercke-junior-quiz-geographie.json](./269744-diercke-junior-quiz-geographie.json) |
 | DieRoll | 88263 | [88263-dieroll.json](./88263-dieroll.json) |
+| Diery Heaven | 158872 | [158872-diery-heaven.json](./158872-diery-heaven.json) |
 | Dies Irae: Amantes Amentes - Act II: Nihil Difficile Amanti (Kei & Rea Scenario) | 174536 | [174536-dies-irae-amantes-amentes-act-ii-nihil-difficile-amanti-kei-and-rea-scenario.json](./174536-dies-irae-amantes-amentes-act-ii-nihil-difficile-amanti-kei-and-rea-scenario.json) |
 | Dies irae: Amantes Amentes for Nintendo Switch | 105059 | [105059-dies-irae-amantes-amentes-for-nintendo-switch.json](./105059-dies-irae-amantes-amentes-for-nintendo-switch.json) |
 | Dies Irae: Interview with Kaziklu Bey | 115243 | [115243-dies-irae-interview-with-kaziklu-bey.json](./115243-dies-irae-interview-with-kaziklu-bey.json) |
@@ -8858,6 +8861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disappearance of the Literature Club | 333611 | [333611-disappearance-of-the-literature-club.json](./333611-disappearance-of-the-literature-club.json) |
 | Disappearance Time | 71012 | [71012-disappearance-time.json](./71012-disappearance-time.json) |
 | Disappearance: Takeshi. You were right. That Abandoned Village is Too Bad | 283096 | [283096-disappearance-takeshi-you-were-right-that-abandoned-village-is-too-bad.json](./283096-disappearance-takeshi-you-were-right-that-abandoned-village-is-too-bad.json) |
+| Disarmed | 158866 | [158866-disarmed.json](./158866-disarmed.json) |
 | Disassembly 3D | 75660 | [75660-disassembly-3d.json](./75660-disassembly-3d.json) |
 | Disassembly Line | 77161 | [77161-disassembly-line.json](./77161-disassembly-line.json) |
 | Disaster | 186809 | [186809-disaster.json](./186809-disaster.json) |
@@ -10430,6 +10434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoggoGuessr | 350626 | [350626-doggoguessr.json](./350626-doggoguessr.json) |
 | Doggoland | 134924 | [134924-doggoland.json](./134924-doggoland.json) |
 | Doggone | 120896 | [120896-doggone.json](./120896-doggone.json) |
+| Doggone Hungry | 158895 | [158895-doggone-hungry.json](./158895-doggone-hungry.json) |
 | DoggoPromenade | 398349 | [398349-doggopromenade.json](./398349-doggopromenade.json) |
 | Doggos in Dungeon | 331364 | [331364-doggos-in-dungeon.json](./331364-doggos-in-dungeon.json) |
 | Doggy | 262423 | [262423-doggy.json](./262423-doggy.json) |
@@ -15279,6 +15284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk Puppet | 110354 | [110354-drunk-puppet.json](./110354-drunk-puppet.json) |
 | Drunk ride | 123874 | [123874-drunk-ride.json](./123874-drunk-ride.json) |
 | Drunk Santa Simulator | 127074 | [127074-drunk-santa-simulator.json](./127074-drunk-santa-simulator.json) |
+| Drunk Soccer is the Best Soccer | 158861 | [158861-drunk-soccer-is-the-best-soccer.json](./158861-drunk-soccer-is-the-best-soccer.json) |
 | Drunk Sonic | 330864 | [330864-drunk-sonic.json](./330864-drunk-sonic.json) |
 | Drunk Trucker Joe 3D Truck Driving Race | 256189 | [256189-drunk-trucker-joe-3d-truck-driving-race.json](./256189-drunk-trucker-joe-3d-truck-driving-race.json) |
 | Drunk Wizards | 32530 | [32530-drunk-wizards.json](./32530-drunk-wizards.json) |
