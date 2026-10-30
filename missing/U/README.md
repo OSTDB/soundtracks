@@ -2383,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno: 50th Anniversary | 151937 | [151937-uno-50th-anniversary.json](./151937-uno-50th-anniversary.json) |
 | Uno: Arcade Edition | 346722 | [346722-uno-arcade-edition.json](./346722-uno-arcade-edition.json) |
 | Uno: Assassin's Creed Valhalla Theme Cards | 196679 | [196679-uno-assassins-creed-valhalla-theme-cards.json](./196679-uno-assassins-creed-valhalla-theme-cards.json) |
+| Uno: Fenyx's Quest | 143287 | [143287-uno-fenyxs-quest.json](./143287-uno-fenyxs-quest.json) |
 | Uno: Flip | 151936 | [151936-uno-flip.json](./151936-uno-flip.json) |
 | Uno: Just Dance Theme DLC | 151938 | [151938-uno-just-dance-theme-dlc.json](./151938-uno-just-dance-theme-dlc.json) |
 | UNO: Legacy Edition | 315848 | [315848-uno-legacy-edition.json](./315848-uno-legacy-edition.json) |
@@ -2390,6 +2391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno: Rayman Theme DLC | 151939 | [151939-uno-rayman-theme-dlc.json](./151939-uno-rayman-theme-dlc.json) |
 | Uno: Small World | 61393 | [61393-uno-small-world.json](./61393-uno-small-world.json) |
 | Uno: The Call of Yara | 176112 | [176112-uno-the-call-of-yara.json](./176112-uno-the-call-of-yara.json) |
+| UNO: Ultimate Edition | 143286 | [143286-uno-ultimate-edition.json](./143286-uno-ultimate-edition.json) |
 | Uno: Winter Theme DLC | 153165 | [153165-uno-winter-theme-dlc.json](./153165-uno-winter-theme-dlc.json) |
 | UNO! Mobile | 142109 | [142109-uno-mobile.json](./142109-uno-mobile.json) |
 | Uno/Skip-Bo | 78905 | [78905-uno-skip-bo.json](./78905-uno-skip-bo.json) |
