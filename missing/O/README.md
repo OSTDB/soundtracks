@@ -4487,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out Of Memories | 320933 | [320933-out-of-memories.json](./320933-out-of-memories.json) |
 | Out Of Mind | 287731 | [287731-out-of-mind.json](./287731-out-of-mind.json) |
 | Out of Moves: Another Try | 359985 | [359985-out-of-moves-another-try.json](./359985-out-of-moves-another-try.json) |
+| Out of Oblivion | 151398 | [151398-out-of-oblivion.json](./151398-out-of-oblivion.json) |
 | Out of Orbit | 192652 | [192652-out-of-orbit.json](./192652-out-of-orbit.json) |
 | Out of Order | 195783 | [195783-out-of-order.json](./195783-out-of-order.json) |
 | Out of Order | 73544 | [73544-out-of-order.json](./73544-out-of-order.json) |
