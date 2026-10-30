@@ -4285,6 +4285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glam Doll House: Fashion Girls Craft & Exploration | 88025 | [88025-glam-doll-house-fashion-girls-craft-and-exploration.json](./88025-glam-doll-house-fashion-girls-craft-and-exploration.json) |
 | Glam the Rocker | 413712 | [413712-glam-the-rocker.json](./413712-glam-the-rocker.json) |
 | Glam's Incredible Run: Escape from Dukha | 146682 | [146682-glams-incredible-run-escape-from-dukha.json](./146682-glams-incredible-run-escape-from-dukha.json) |
+| Glamor | 131112 | [131112-glamor.json](./131112-glamor.json) |
 | Glamor & Girls | 382490 | [382490-glamor-and-girls.json](./382490-glamor-and-girls.json) |
 | Glamour Pinball | 256659 | [256659-glamour-pinball.json](./256659-glamour-pinball.json) |
 | Glamour Riot | 342681 | [342681-glamour-riot.json](./342681-glamour-riot.json) |
@@ -5662,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold and Gems | 3274 | [3274-gold-and-gems.json](./3274-gold-and-gems.json) |
 | Gold and Glory: The Road to El Dorado | 209636 | [209636-gold-and-glory-the-road-to-el-dorado.json](./209636-gold-and-glory-the-road-to-el-dorado.json) |
 | Gold and Graves | 345281 | [345281-gold-and-graves.json](./345281-gold-and-graves.json) |
+| Gold Ball | 131125 | [131125-gold-ball.json](./131125-gold-ball.json) |
 | Gold Cliff | 145225 | [145225-gold-cliff.json](./145225-gold-cliff.json) |
 | Gold Coast Gambits: Boca Raton & Palm Beach | 414353 | [414353-gold-coast-gambits-boca-raton-and-palm-beach.json](./414353-gold-coast-gambits-boca-raton-and-palm-beach.json) |
 | Gold Crusader | 30517 | [30517-gold-crusader.json](./30517-gold-crusader.json) |
