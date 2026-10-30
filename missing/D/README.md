@@ -5882,6 +5882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's World | 39634 | [39634-demons-world.json](./39634-demons-world.json) |
 | Demon&Fairy | 75521 | [75521-demon-and-fairy.json](./75521-demon-and-fairy.json) |
 | Demonastery | 261174 | [261174-demonastery.json](./261174-demonastery.json) |
+| Demonblood | 142632 | [142632-demonblood.json](./142632-demonblood.json) |
 | Demonborg Mining Co | 367391 | [367391-demonborg-mining-co.json](./367391-demonborg-mining-co.json) |
 | Demonborne | 188260 | [188260-demonborne.json](./188260-demonborne.json) |
 | DemonCountdown | 272250 | [272250-demoncountdown.json](./272250-demoncountdown.json) |
@@ -8347,6 +8348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension of Monster Girls | 89608 | [89608-dimension-of-monster-girls.json](./89608-dimension-of-monster-girls.json) |
 | Dimension of the Boomed | 251546 | [251546-dimension-of-the-boomed.json](./251546-dimension-of-the-boomed.json) |
 | Dimension of the Diminished | 271723 | [271723-dimension-of-the-diminished.json](./271723-dimension-of-the-diminished.json) |
+| Dimension of Void | 142646 | [142646-dimension-of-void.json](./142646-dimension-of-void.json) |
 | Dimension Painter | 256183 | [256183-dimension-painter.json](./256183-dimension-painter.json) |
 | Dimension Pirates | 304505 | [304505-dimension-pirates.json](./304505-dimension-pirates.json) |
 | Dimension Ranger | 349330 | [349330-dimension-ranger.json](./349330-dimension-ranger.json) |
@@ -8450,6 +8452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinglehoppers | 246534 | [246534-dinglehoppers.json](./246534-dinglehoppers.json) |
 | Dingletopia: Nation Under Siege (by Orcs) | 133410 | [133410-dingletopia-nation-under-siege-by-orcs.json](./133410-dingletopia-nation-under-siege-by-orcs.json) |
 | Dininho Adventures | 129463 | [129463-dininho-adventures.json](./129463-dininho-adventures.json) |
+| Dininho Space Adventure | 142043 | [142043-dininho-space-adventure.json](./142043-dininho-space-adventure.json) |
 | Dink Smallwood | 11345 | [11345-dink-smallwood.json](./11345-dink-smallwood.json) |
 | Dink Smallwood HD | 272807 | [272807-dink-smallwood-hd.json](./272807-dink-smallwood-hd.json) |
 | Dinkie Dino | 284450 | [284450-dinkie-dino.json](./284450-dinkie-dino.json) |
@@ -11841,6 +11844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Picnic RPG | 288652 | [288652-doomsday-picnic-rpg.json](./288652-doomsday-picnic-rpg.json) |
 | Doomsday Preppers | 344291 | [344291-doomsday-preppers.json](./344291-doomsday-preppers.json) |
 | Doomsday Robot Girl | 189974 | [189974-doomsday-robot-girl.json](./189974-doomsday-robot-girl.json) |
+| Doomsday Room | 142628 | [142628-doomsday-room.json](./142628-doomsday-room.json) |
 | Doomsday Scavenger | 195942 | [195942-doomsday-scavenger.json](./195942-doomsday-scavenger.json) |
 | Doomsday School | 345390 | [345390-doomsday-school.json](./345390-doomsday-school.json) |
 | Doomsday Survival:Training | 30657 | [30657-doomsday-survival-training.json](./30657-doomsday-survival-training.json) |
