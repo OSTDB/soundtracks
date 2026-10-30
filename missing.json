@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T07:03:59.750Z",
-  "total_missing": 282948,
+  "generated_at": "2026-10-30T07:19:59.533Z",
+  "total_missing": 282998,
   "games": [
     {
       "igdb_id": 191680,
@@ -1258422,9 +1258422,84 @@
       "file": "missing/T/160345-tiger-tank-59-i-black-hill-fortress-mp001.json"
     },
     {
+      "igdb_id": 161025,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP002",
+      "file": "missing/T/161025-tiger-tank-59-i-black-hill-fortress-mp002.json"
+    },
+    {
+      "igdb_id": 161041,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP003",
+      "file": "missing/T/161041-tiger-tank-59-i-black-hill-fortress-mp003.json"
+    },
+    {
+      "igdb_id": 161058,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP004",
+      "file": "missing/T/161058-tiger-tank-59-i-black-hill-fortress-mp004.json"
+    },
+    {
+      "igdb_id": 161061,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP005",
+      "file": "missing/T/161061-tiger-tank-59-i-black-hill-fortress-mp005.json"
+    },
+    {
+      "igdb_id": 161046,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP006",
+      "file": "missing/T/161046-tiger-tank-59-i-black-hill-fortress-mp006.json"
+    },
+    {
+      "igdb_id": 161021,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP008",
+      "file": "missing/T/161021-tiger-tank-59-i-black-hill-fortress-mp008.json"
+    },
+    {
+      "igdb_id": 161019,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP010",
+      "file": "missing/T/161019-tiger-tank-59-i-black-hill-fortress-mp010.json"
+    },
+    {
+      "igdb_id": 161048,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP011",
+      "file": "missing/T/161048-tiger-tank-59-i-black-hill-fortress-mp011.json"
+    },
+    {
+      "igdb_id": 161017,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP012",
+      "file": "missing/T/161017-tiger-tank-59-i-black-hill-fortress-mp012.json"
+    },
+    {
+      "igdb_id": 161032,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP014",
+      "file": "missing/T/161032-tiger-tank-59-i-black-hill-fortress-mp014.json"
+    },
+    {
+      "igdb_id": 161024,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP015",
+      "file": "missing/T/161024-tiger-tank-59-i-black-hill-fortress-mp015.json"
+    },
+    {
+      "igdb_id": 161056,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP016",
+      "file": "missing/T/161056-tiger-tank-59-i-black-hill-fortress-mp016.json"
+    },
+    {
       "igdb_id": 160304,
       "game_name": "Tiger Tank 59 I: Black Hill Fortress MP017",
       "file": "missing/T/160304-tiger-tank-59-i-black-hill-fortress-mp017.json"
+    },
+    {
+      "igdb_id": 161031,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP018",
+      "file": "missing/T/161031-tiger-tank-59-i-black-hill-fortress-mp018.json"
+    },
+    {
+      "igdb_id": 161029,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP019",
+      "file": "missing/T/161029-tiger-tank-59-i-black-hill-fortress-mp019.json"
+    },
+    {
+      "igdb_id": 161036,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP021",
+      "file": "missing/T/161036-tiger-tank-59-i-black-hill-fortress-mp021.json"
     },
     {
       "igdb_id": 160353,
@@ -1258432,14 +1258507,49 @@
       "file": "missing/T/160353-tiger-tank-59-i-black-hill-fortress-mp022.json"
     },
     {
+      "igdb_id": 161030,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP023",
+      "file": "missing/T/161030-tiger-tank-59-i-black-hill-fortress-mp023.json"
+    },
+    {
+      "igdb_id": 161059,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP024",
+      "file": "missing/T/161059-tiger-tank-59-i-black-hill-fortress-mp024.json"
+    },
+    {
+      "igdb_id": 161057,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP025",
+      "file": "missing/T/161057-tiger-tank-59-i-black-hill-fortress-mp025.json"
+    },
+    {
+      "igdb_id": 161023,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP026",
+      "file": "missing/T/161023-tiger-tank-59-i-black-hill-fortress-mp026.json"
+    },
+    {
       "igdb_id": 161068,
       "game_name": "Tiger Tank 59 I: Black Hill Fortress MP027",
       "file": "missing/T/161068-tiger-tank-59-i-black-hill-fortress-mp027.json"
     },
     {
+      "igdb_id": 161044,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP030",
+      "file": "missing/T/161044-tiger-tank-59-i-black-hill-fortress-mp030.json"
+    },
+    {
+      "igdb_id": 161051,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP032",
+      "file": "missing/T/161051-tiger-tank-59-i-black-hill-fortress-mp032.json"
+    },
+    {
       "igdb_id": 160341,
       "game_name": "Tiger Tank 59 I: Black Hill Fortress MP033",
       "file": "missing/T/160341-tiger-tank-59-i-black-hill-fortress-mp033.json"
+    },
+    {
+      "igdb_id": 161047,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP034",
+      "file": "missing/T/161047-tiger-tank-59-i-black-hill-fortress-mp034.json"
     },
     {
       "igdb_id": 160330,
@@ -1258457,9 +1258567,19 @@
       "file": "missing/T/160389-tiger-tank-59-i-black-hill-fortress-mp041.json"
     },
     {
+      "igdb_id": 161039,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP042",
+      "file": "missing/T/161039-tiger-tank-59-i-black-hill-fortress-mp042.json"
+    },
+    {
       "igdb_id": 160361,
       "game_name": "Tiger Tank 59 I: Black Hill Fortress MP043",
       "file": "missing/T/160361-tiger-tank-59-i-black-hill-fortress-mp043.json"
+    },
+    {
+      "igdb_id": 161035,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP044",
+      "file": "missing/T/161035-tiger-tank-59-i-black-hill-fortress-mp044.json"
     },
     {
       "igdb_id": 160358,
@@ -1258467,14 +1258587,34 @@
       "file": "missing/T/160358-tiger-tank-59-i-black-hill-fortress-mp045.json"
     },
     {
+      "igdb_id": 161049,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP046",
+      "file": "missing/T/161049-tiger-tank-59-i-black-hill-fortress-mp046.json"
+    },
+    {
       "igdb_id": 161066,
       "game_name": "Tiger Tank 59 I: Black Hill Fortress MP047",
       "file": "missing/T/161066-tiger-tank-59-i-black-hill-fortress-mp047.json"
     },
     {
+      "igdb_id": 161060,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP048",
+      "file": "missing/T/161060-tiger-tank-59-i-black-hill-fortress-mp048.json"
+    },
+    {
+      "igdb_id": 161040,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP049",
+      "file": "missing/T/161040-tiger-tank-59-i-black-hill-fortress-mp049.json"
+    },
+    {
       "igdb_id": 161065,
       "game_name": "Tiger Tank 59 I: Black Hill Fortress MP052",
       "file": "missing/T/161065-tiger-tank-59-i-black-hill-fortress-mp052.json"
+    },
+    {
+      "igdb_id": 161053,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP055",
+      "file": "missing/T/161053-tiger-tank-59-i-black-hill-fortress-mp055.json"
     },
     {
       "igdb_id": 161069,
@@ -1258487,9 +1258627,39 @@
       "file": "missing/T/160394-tiger-tank-59-i-black-hill-fortress-mp057.json"
     },
     {
+      "igdb_id": 161026,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP058",
+      "file": "missing/T/161026-tiger-tank-59-i-black-hill-fortress-mp058.json"
+    },
+    {
+      "igdb_id": 161043,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP059",
+      "file": "missing/T/161043-tiger-tank-59-i-black-hill-fortress-mp059.json"
+    },
+    {
+      "igdb_id": 161018,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP061",
+      "file": "missing/T/161018-tiger-tank-59-i-black-hill-fortress-mp061.json"
+    },
+    {
       "igdb_id": 161067,
       "game_name": "Tiger Tank 59 I: Black Hill Fortress MP062",
       "file": "missing/T/161067-tiger-tank-59-i-black-hill-fortress-mp062.json"
+    },
+    {
+      "igdb_id": 161063,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP064",
+      "file": "missing/T/161063-tiger-tank-59-i-black-hill-fortress-mp064.json"
+    },
+    {
+      "igdb_id": 161014,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP065",
+      "file": "missing/T/161014-tiger-tank-59-i-black-hill-fortress-mp065.json"
+    },
+    {
+      "igdb_id": 161050,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP066",
+      "file": "missing/T/161050-tiger-tank-59-i-black-hill-fortress-mp066.json"
     },
     {
       "igdb_id": 160391,
@@ -1258497,9 +1258667,69 @@
       "file": "missing/T/160391-tiger-tank-59-i-black-hill-fortress-mp067.json"
     },
     {
+      "igdb_id": 161015,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP068",
+      "file": "missing/T/161015-tiger-tank-59-i-black-hill-fortress-mp068.json"
+    },
+    {
+      "igdb_id": 161028,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP071",
+      "file": "missing/T/161028-tiger-tank-59-i-black-hill-fortress-mp071.json"
+    },
+    {
+      "igdb_id": 161022,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP072",
+      "file": "missing/T/161022-tiger-tank-59-i-black-hill-fortress-mp072.json"
+    },
+    {
       "igdb_id": 160366,
       "game_name": "Tiger Tank 59 I: Black Hill Fortress MP074",
       "file": "missing/T/160366-tiger-tank-59-i-black-hill-fortress-mp074.json"
+    },
+    {
+      "igdb_id": 161038,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP075",
+      "file": "missing/T/161038-tiger-tank-59-i-black-hill-fortress-mp075.json"
+    },
+    {
+      "igdb_id": 161027,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP076",
+      "file": "missing/T/161027-tiger-tank-59-i-black-hill-fortress-mp076.json"
+    },
+    {
+      "igdb_id": 161042,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP077",
+      "file": "missing/T/161042-tiger-tank-59-i-black-hill-fortress-mp077.json"
+    },
+    {
+      "igdb_id": 161020,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP078",
+      "file": "missing/T/161020-tiger-tank-59-i-black-hill-fortress-mp078.json"
+    },
+    {
+      "igdb_id": 161016,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP079",
+      "file": "missing/T/161016-tiger-tank-59-i-black-hill-fortress-mp079.json"
+    },
+    {
+      "igdb_id": 161055,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP083",
+      "file": "missing/T/161055-tiger-tank-59-i-black-hill-fortress-mp083.json"
+    },
+    {
+      "igdb_id": 161045,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP085",
+      "file": "missing/T/161045-tiger-tank-59-i-black-hill-fortress-mp085.json"
+    },
+    {
+      "igdb_id": 161062,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP086",
+      "file": "missing/T/161062-tiger-tank-59-i-black-hill-fortress-mp086.json"
+    },
+    {
+      "igdb_id": 161033,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP088",
+      "file": "missing/T/161033-tiger-tank-59-i-black-hill-fortress-mp088.json"
     },
     {
       "igdb_id": 160335,
@@ -1258510,6 +1258740,26 @@
       "igdb_id": 161064,
       "game_name": "Tiger Tank 59 I: Black Hill Fortress MP091",
       "file": "missing/T/161064-tiger-tank-59-i-black-hill-fortress-mp091.json"
+    },
+    {
+      "igdb_id": 161037,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP093",
+      "file": "missing/T/161037-tiger-tank-59-i-black-hill-fortress-mp093.json"
+    },
+    {
+      "igdb_id": 161052,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP094",
+      "file": "missing/T/161052-tiger-tank-59-i-black-hill-fortress-mp094.json"
+    },
+    {
+      "igdb_id": 161034,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP098",
+      "file": "missing/T/161034-tiger-tank-59-i-black-hill-fortress-mp098.json"
+    },
+    {
+      "igdb_id": 161054,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP099",
+      "file": "missing/T/161054-tiger-tank-59-i-black-hill-fortress-mp099.json"
     },
     {
       "igdb_id": 115369,
