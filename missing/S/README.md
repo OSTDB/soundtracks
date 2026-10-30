@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: Industrial Map Pack | 400841 | [400841-saints-row-industrial-map-pack.json](./400841-saints-row-industrial-map-pack.json) |
 | Saints Row: Los Panteros American Muscle Bundle | 307148 | [307148-saints-row-los-panteros-american-muscle-bundle.json](./307148-saints-row-los-panteros-american-muscle-bundle.json) |
 | Saints Row: Merry Saintsmas Cosmetic Pack | 230996 | [230996-saints-row-merry-saintsmas-cosmetic-pack.json](./230996-saints-row-merry-saintsmas-cosmetic-pack.json) |
+| Saints Row: Notorious Edition | 168551 | [168551-saints-row-notorious-edition.json](./168551-saints-row-notorious-edition.json) |
 | Saints Row: Platinum Edition | 169194 | [169194-saints-row-platinum-edition.json](./169194-saints-row-platinum-edition.json) |
 | Saints Row: Saints Criminal Customs | 307149 | [307149-saints-row-saints-criminal-customs.json](./307149-saints-row-saints-criminal-customs.json) |
 | Saints Row: SteelSeries Cosmetic Pack | 307151 | [307151-saints-row-steelseries-cosmetic-pack.json](./307151-saints-row-steelseries-cosmetic-pack.json) |
@@ -2898,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Score Rush | 76168 | [76168-score-rush.json](./76168-score-rush.json) |
 | Score Rush Extended | 19854 | [19854-score-rush-extended.json](./19854-score-rush-extended.json) |
 | Score the Fear | 353717 | [353717-score-the-fear.json](./353717-score-the-fear.json) |
+| Score! Classic Goals | 168542 | [168542-score-classic-goals.json](./168542-score-classic-goals.json) |
 | Score! Hero | 15851 | [15851-score-hero.json](./15851-score-hero.json) |
 | Score! Hero 2 | 170254 | [170254-score-hero-2.json](./170254-score-hero-2.json) |
 | Score! Match | 91215 | [91215-score-match.json](./91215-score-match.json) |
@@ -5212,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Servus 64 | 260835 | [260835-servus-64.json](./260835-servus-64.json) |
 | Sesame Street | 85858 | [85858-sesame-street.json](./85858-sesame-street.json) |
 | Sesame Street A B C | 70103 | [70103-sesame-street-a-b-c.json](./70103-sesame-street-a-b-c.json) |
+| Sesame Street ABC & 123 | 168540 | [168540-sesame-street-abc-and-123.json](./168540-sesame-street-abc-and-123.json) |
 | Sesame Street Art Workshop | 206016 | [206016-sesame-street-art-workshop.json](./206016-sesame-street-art-workshop.json) |
 | Sesame Street Beat | 220108 | [220108-sesame-street-beat.json](./220108-sesame-street-beat.json) |
 | Sesame Street Counting Cafe | 46198 | [46198-sesame-street-counting-cafe.json](./46198-sesame-street-counting-cafe.json) |
@@ -9110,6 +9113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signals of Chaos | 195007 | [195007-signals-of-chaos.json](./195007-signals-of-chaos.json) |
 | SignaNota | 341991 | [341991-signanota.json](./341991-signanota.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
+| Signed and Sealed With a Kiss: Expansion Pack | 168521 | [168521-signed-and-sealed-with-a-kiss-expansion-pack.json](./168521-signed-and-sealed-with-a-kiss-expansion-pack.json) |
 | Signed by '89 | 177439 | [177439-signed-by-89.json](./177439-signed-by-89.json) |
 | Signed Mary | 318291 | [318291-signed-mary.json](./318291-signed-mary.json) |
 | Signet City | 405150 | [405150-signet-city.json](./405150-signet-city.json) |
@@ -12601,6 +12605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Series Presents: JaJa's Adventure | 51132 | [51132-smart-series-presents-jajas-adventure.json](./51132-smart-series-presents-jajas-adventure.json) |
 | Smart Technology | 230266 | [230266-smart-technology.json](./230266-smart-technology.json) |
 | Smart Technology 2 | 230267 | [230267-smart-technology-2.json](./230267-smart-technology-2.json) |
+| Smart Tracks: Think and Run | 168568 | [168568-smart-tracks-think-and-run.json](./168568-smart-tracks-think-and-run.json) |
 | Smart Truco | 370913 | [370913-smart-truco.json](./370913-smart-truco.json) |
 | Smart-Attack! | 369446 | [369446-smart-attack.json](./369446-smart-attack.json) |
 | SmartBoy | 86556 | [86556-smartboy.json](./86556-smartboy.json) |
@@ -27886,6 +27891,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kenney | 209683 | [209683-super-kenney.json](./209683-super-kenney.json) |
 | Super Kick-Off | 45797 | [45797-super-kick-off.json](./45797-super-kick-off.json) |
 | Super Kickers League | 115435 | [115435-super-kickers-league.json](./115435-super-kickers-league.json) |
+| Super Kickers League: Goths and Vampires! | 168520 | [168520-super-kickers-league-goths-and-vampires.json](./168520-super-kickers-league-goths-and-vampires.json) |
+| Super Kickers League: Vikings and Valkyries! | 168519 | [168519-super-kickers-league-vikings-and-valkyries.json](./168519-super-kickers-league-vikings-and-valkyries.json) |
 | Super Kid | 98431 | [98431-super-kid.json](./98431-super-kid.json) |
 | Super Kids Racing | 88168 | [88168-super-kids-racing.json](./88168-super-kids-racing.json) |
 | Super Kids Racing: Jungle Edition | 242412 | [242412-super-kids-racing-jungle-edition.json](./242412-super-kids-racing-jungle-edition.json) |
@@ -31503,6 +31510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Shandar | 384914 | [384914-sword-of-shandar.json](./384914-sword-of-shandar.json) |
 | Sword of Shushan | 158088 | [158088-sword-of-shushan.json](./158088-sword-of-shushan.json) |
 | Sword of Sia: Lady Sia 2 | 207006 | [207006-sword-of-sia-lady-sia-2.json](./207006-sword-of-sia-lady-sia-2.json) |
+| Sword of Symphony | 168539 | [168539-sword-of-symphony.json](./168539-sword-of-symphony.json) |
 | Sword of Ten Thousand Blades | 379846 | [379846-sword-of-ten-thousand-blades.json](./379846-sword-of-ten-thousand-blades.json) |
 | Sword of the Apocalypse | 389413 | [389413-sword-of-the-apocalypse.json](./389413-sword-of-the-apocalypse.json) |
 | Sword of the Berserk: Guts' Rage | 28840 | [28840-sword-of-the-berserk-guts-rage.json](./28840-sword-of-the-berserk-guts-rage.json) |
