@@ -1609,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords: Evolved | 329637 | [329637-warlords-evolved.json](./329637-warlords-evolved.json) |
 | Warlords: Heroes | 101726 | [101726-warlords-heroes.json](./101726-warlords-heroes.json) |
 | Warlords.IO | 111729 | [111729-warlords-io.json](./111729-warlords-io.json) |
+| Warm | 134875 | [134875-warm.json](./134875-warm.json) |
 | Warm Gun | 9686 | [9686-warm-gun.json](./9686-warm-gun.json) |
 | Warm Monkey | 331314 | [331314-warm-monkey.json](./331314-warm-monkey.json) |
 | Warm Potato | 307727 | [307727-warm-potato.json](./307727-warm-potato.json) |
@@ -5835,6 +5836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witching Hour | 154077 | [154077-witching-hour.json](./154077-witching-hour.json) |
 | Witching Hour | 261158 | [261158-witching-hour.json](./261158-witching-hour.json) |
 | Witching Hour | 410130 | [410130-witching-hour.json](./410130-witching-hour.json) |
+| Witching Hour at Hell House | 134867 | [134867-witching-hour-at-hell-house.json](./134867-witching-hour-at-hell-house.json) |
 | Witching Morning | 182134 | [182134-witching-morning.json](./182134-witching-morning.json) |
 | Witching Stone | 284839 | [284839-witching-stone.json](./284839-witching-stone.json) |
 | Witching Tower | 90121 | [90121-witching-tower.json](./90121-witching-tower.json) |
