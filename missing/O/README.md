@@ -4122,6 +4122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othello World II: Yume to Michi e no Chousen | 54949 | [54949-othello-world-ii-yume-to-michi-e-no-chousen.json](./54949-othello-world-ii-yume-to-michi-e-no-chousen.json) |
 | Othello: Battle Royale | 346513 | [346513-othello-battle-royale.json](./346513-othello-battle-royale.json) |
 | Other | 197274 | [197274-other.json](./197274-other.json) |
+| Other Life | 145873 | [145873-other-life.json](./145873-other-life.json) |
 | Other Minds | 183051 | [183051-other-minds.json](./183051-other-minds.json) |
 | Other People's Fiancee Became My Woman | 216965 | [216965-other-peoples-fiancee-became-my-woman.json](./216965-other-peoples-fiancee-became-my-woman.json) |
 | Other Realms | 161537 | [161537-other-realms.json](./161537-other-realms.json) |
