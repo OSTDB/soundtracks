@@ -2318,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarragona 6: Algernon's Lab | 315553 | [315553-tarragona-6-algernons-lab.json](./315553-tarragona-6-algernons-lab.json) |
 | Tarragona 7: Civilisations Crossroads | 315555 | [315555-tarragona-7-civilisations-crossroads.json](./315555-tarragona-7-civilisations-crossroads.json) |
 | Tarragona 8+9: Final Countdown | 315557 | [315557-tarragona-8-9-final-countdown.json](./315557-tarragona-8-9-final-countdown.json) |
+| Tars | 155829 | [155829-tars.json](./155829-tars.json) |
 | Tartapolis | 120954 | [120954-tartapolis.json](./120954-tartapolis.json) |
 | Tartaria: The forgotten tale | 192554 | [192554-tartaria-the-forgotten-tale.json](./192554-tartaria-the-forgotten-tale.json) |
 | Tartaros | 320403 | [320403-tartaros.json](./320403-tartaros.json) |
@@ -7995,6 +7996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Epic Might | 23632 | [23632-the-epic-might.json](./23632-the-epic-might.json) |
 | The Epic of Jusen | 145598 | [145598-the-epic-of-jusen.json](./145598-the-epic-of-jusen.json) |
 | The Epic Quest of Birdo The Pink Dinosaur | 250662 | [250662-the-epic-quest-of-birdo-the-pink-dinosaur.json](./250662-the-epic-quest-of-birdo-the-pink-dinosaur.json) |
+| The Episodic | 155828 | [155828-the-episodic.json](./155828-the-episodic.json) |
 | The Epoch Turning | 271324 | [271324-the-epoch-turning.json](./271324-the-epoch-turning.json) |
 | The Epsilon Outcome | 161515 | [161515-the-epsilon-outcome.json](./161515-the-epsilon-outcome.json) |
 | The Epyx Collection: Handheld | 298580 | [298580-the-epyx-collection-handheld.json](./298580-the-epyx-collection-handheld.json) |
@@ -10875,6 +10877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last One Month | 180307 | [180307-the-last-one-month.json](./180307-the-last-one-month.json) |
 | The Last Ones Left | 150606 | [150606-the-last-ones-left.json](./150606-the-last-ones-left.json) |
 | The Last Opening | 396902 | [396902-the-last-opening.json](./396902-the-last-opening.json) |
+| The Last Order: Dungeons | 155826 | [155826-the-last-order-dungeons.json](./155826-the-last-order-dungeons.json) |
 | The Last Ores | 415421 | [415421-the-last-ores.json](./415421-the-last-ores.json) |
 | The Last Orgasm | 392897 | [392897-the-last-orgasm.json](./392897-the-last-orgasm.json) |
 | The Last Oricru | 152073 | [152073-the-last-oricru.json](./152073-the-last-oricru.json) |
