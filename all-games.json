@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T22:12:12.892Z",
-  "total_soundtracks": 2708,
+  "generated_at": "2026-10-30T22:31:12.649Z",
+  "total_soundtracks": 2714,
   "games": [
     {
       "igdb_id": 7522,
@@ -2373,6 +2373,20 @@
       ]
     },
     {
+      "igdb_id": 27114,
+      "game_name": "Avorion",
+      "game_url": "https://ostdb.net/games/avorion",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e560e6ba88076665dba6611e",
+      "albums": [
+        {
+          "album_name": "Avorion - Music for the Stars (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2i2ifHj0ca1U1tjTHLRetY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 135994,
       "game_name": "Avowed",
       "game_url": "https://ostdb.net/games/avowed",
@@ -3360,6 +3374,20 @@
           "album_name": "Bioshock Infinite - After You've Gone - Main Theme",
           "spotify_url": "https://open.spotify.com/album/477Zdh9sUk9wKxjXw7zemx",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 26611,
+      "game_name": "Birthdays the Beginning",
+      "game_url": "https://ostdb.net/games/birthdays-the-beginning",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f3247d9cc364601edbffe33e",
+      "albums": [
+        {
+          "album_name": "Birthdays the Beginning Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1U3sW5aNCDDiD4qHXgcvRG",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -5961,6 +5989,20 @@
           "spotify_url": "https://open.spotify.com/album/5PtKUxCsYh3QKUJOF8Mlsr",
           "apple_music_url": "",
           "album_link_url": "https://album.link/s/5PtKUxCsYh3QKUJOF8Mlsr"
+        }
+      ]
+    },
+    {
+      "igdb_id": 17027,
+      "game_name": "Crush Your Enemies",
+      "game_url": "https://ostdb.net/games/crush-your-enemies",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730d66013a67b2c3a9a1794ffd",
+      "albums": [
+        {
+          "album_name": "Crush Your Enemies (Music To Conquer To) [Original Game Soundtrack]",
+          "spotify_url": "https://open.spotify.com/album/0qSO7DXyTnQJo6kzrzGLTU",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -10497,6 +10539,20 @@
       ]
     },
     {
+      "igdb_id": 26981,
+      "game_name": "Final Fantasy: Record Keeper",
+      "game_url": "https://ostdb.net/games/final-fantasy-record-keeper",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f8703a32b62c875b77d52255",
+      "albums": [
+        {
+          "album_name": "FINAL FANTASY Record Keeper Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2LdU0gMfXdnEhFTzJuTPV4",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 36044,
       "game_name": "Finding Paradise",
       "game_url": "https://ostdb.net/games/finding-paradise",
@@ -10973,6 +11029,20 @@
         {
           "album_name": "Framed (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6lIYwZFQpwTjNHiOCibtK0",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 25236,
+      "game_name": "Framed 2",
+      "game_url": "https://ostdb.net/games/framed-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273be2ca34d5c56501c993d985d",
+      "albums": [
+        {
+          "album_name": "Framed 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1zcxHS9y318iVeZfNe7OZ4",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -31669,6 +31739,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/untitled-goose-game-original-soundtrack/1858300347?uo=4",
           "album_link_url": "https://album.link/i/1858300347"
+        }
+      ]
+    },
+    {
+      "igdb_id": 25314,
+      "game_name": "Unworthy",
+      "game_url": "https://ostdb.net/games/unworthy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273916430c70bf6700446d3e472",
+      "albums": [
+        {
+          "album_name": "Unworthy (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0Zsz42Uj8FlI09ikr8Mhfz",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
