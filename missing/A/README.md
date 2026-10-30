@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Way to the Nearest Star | 237440 | [237440-a-long-way-to-the-nearest-star.json](./237440-a-long-way-to-the-nearest-star.json) |
 | A look into... | 235040 | [235040-a-look-into.json](./235040-a-look-into.json) |
 | A Loop is a Loop is | 144789 | [144789-a-loop-is-a-loop-is.json](./144789-a-loop-is-a-loop-is.json) |
+| A Lose Hero in the Castle of the Succubi | 176102 | [176102-a-lose-hero-in-the-castle-of-the-succubi.json](./176102-a-lose-hero-in-the-castle-of-the-succubi.json) |
 | A Lost Jellyfish: Return to its Parents | 187717 | [187717-a-lost-jellyfish-return-to-its-parents.json](./187717-a-lost-jellyfish-return-to-its-parents.json) |
 | A Lost Land | 384655 | [384655-a-lost-land.json](./384655-a-lost-land.json) |
 | A Lost Man | 403628 | [403628-a-lost-man.json](./403628-a-lost-man.json) |
