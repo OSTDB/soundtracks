@@ -2675,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Trip | 181022 | [181022-school-trip.json](./181022-school-trip.json) |
 | School Tycoon | 9203 | [9203-school-tycoon.json](./9203-school-tycoon.json) |
 | School Years | 132045 | [132045-school-years.json](./132045-school-years.json) |
+| School Years: Episode 2 | 168052 | [168052-school-years-episode-2.json](./168052-school-years-episode-2.json) |
 | School: The Hardest RPG in Your Life | 263765 | [263765-school-the-hardest-rpg-in-your-life.json](./263765-school-the-hardest-rpg-in-your-life.json) |
 | School! Love Reflex | 181118 | [181118-school-love-reflex.json](./181118-school-love-reflex.json) |
 | School's Out | 390089 | [390089-schools-out.json](./390089-schools-out.json) |
@@ -8704,6 +8705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuyan Saga | 27692 | [27692-shuyan-saga.json](./27692-shuyan-saga.json) |
 | Shuyan Saga: All Episodes | 103995 | [103995-shuyan-saga-all-episodes.json](./103995-shuyan-saga-all-episodes.json) |
 | Shuyun Huazhang | 335360 | [335360-shuyun-huazhang.json](./335360-shuyun-huazhang.json) |
+| Shuzzler | 168046 | [168046-shuzzler.json](./168046-shuzzler.json) |
 | Shwip | 71778 | [71778-shwip.json](./71778-shwip.json) |
 | Shy | 179927 | [179927-shy.json](./179927-shy.json) |
 | Shy Boy: Escape Game | 223915 | [223915-shy-boy-escape-game.json](./223915-shy-boy-escape-game.json) |
@@ -9414,6 +9416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silmar | 230258 | [230258-silmar.json](./230258-silmar.json) |
 | Silmaris: Dice Kingdom | 133109 | [133109-silmaris-dice-kingdom.json](./133109-silmaris-dice-kingdom.json) |
 | Silo | 348224 | [348224-silo.json](./348224-silo.json) |
+| Silo27: Crashlanded | 167997 | [167997-silo27-crashlanded.json](./167997-silo27-crashlanded.json) |
 | Silph Road | 104578 | [104578-silph-road.json](./104578-silph-road.json) |
 | Silpheed | 5437 | [5437-silpheed.json](./5437-silpheed.json) |
 | Silpheed | 65578 | [65578-silpheed.json](./65578-silpheed.json) |
@@ -16107,6 +16110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophie's Grids | 400970 | [400970-sophies-grids.json](./400970-sophies-grids.json) |
 | Sophie's Safecracking Simulator | 152924 | [152924-sophies-safecracking-simulator.json](./152924-sophies-safecracking-simulator.json) |
 | Sophie's World | 73234 | [73234-sophies-world.json](./73234-sophies-world.json) |
+| Sophistry: Live2D | 168048 | [168048-sophistry-live2d.json](./168048-sophistry-live2d.json) |
 | Sophonce | 211278 | [211278-sophonce.json](./211278-sophonce.json) |
 | Sophont | 99431 | [99431-sophont.json](./99431-sophont.json) |
 | Soporfall | 328374 | [328374-soporfall.json](./328374-soporfall.json) |
@@ -18030,6 +18034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacelord | 183936 | [183936-spacelord.json](./183936-spacelord.json) |
 | Spacelords: Aneska Deluxe Character Pack | 169318 | [169318-spacelords-aneska-deluxe-character-pack.json](./169318-spacelords-aneska-deluxe-character-pack.json) |
 | Spacelords: Raiders of the Broken Planet - Alien Myths Campaign | 170162 | [170162-spacelords-raiders-of-the-broken-planet-alien-myths-campaign.json](./170162-spacelords-raiders-of-the-broken-planet-alien-myths-campaign.json) |
+| Spacelords: Raiders of the Broken Planet - Hades Betrayal Campaign | 168005 | [168005-spacelords-raiders-of-the-broken-planet-hades-betrayal-campaign.json](./168005-spacelords-raiders-of-the-broken-planet-hades-betrayal-campaign.json) |
 | Spacelords: Raiders of the Broken Planet - Wardog Fury Campaign | 170171 | [170171-spacelords-raiders-of-the-broken-planet-wardog-fury-campaign.json](./170171-spacelords-raiders-of-the-broken-planet-wardog-fury-campaign.json) |
 | Spacelords: Schneider Deluxe Character Pack | 169317 | [169317-spacelords-schneider-deluxe-character-pack.json](./169317-spacelords-schneider-deluxe-character-pack.json) |
 | Spacelords: Sööma Deluxe Character Pack | 169302 | [169302-spacelords-sooma-deluxe-character-pack.json](./169302-spacelords-sooma-deluxe-character-pack.json) |
@@ -18502,6 +18507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speebot | 74342 | [74342-speebot.json](./74342-speebot.json) |
 | Speechbound: A Language RPG | 265593 | [265593-speechbound-a-language-rpg.json](./265593-speechbound-a-language-rpg.json) |
 | Speechless | 166736 | [166736-speechless.json](./166736-speechless.json) |
+| Speed | 168049 | [168049-speed.json](./168049-speed.json) |
 | Speed | 261245 | [261245-speed.json](./261245-speed.json) |
 | Speed | 91537 | [91537-speed.json](./91537-speed.json) |
 | Speed | 92955 | [92955-speed.json](./92955-speed.json) |
@@ -18641,6 +18647,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedonauts | 224661 | [224661-speedonauts.json](./224661-speedonauts.json) |
 | SpeedOverflow | 251784 | [251784-speedoverflow.json](./251784-speedoverflow.json) |
 | Speedpunk | 151147 | [151147-speedpunk.json](./151147-speedpunk.json) |
+| Speedpunk: Greeble city | 168002 | [168002-speedpunk-greeble-city.json](./168002-speedpunk-greeble-city.json) |
+| Speedpunk: Last neo | 168001 | [168001-speedpunk-last-neo.json](./168001-speedpunk-last-neo.json) |
+| Speedpunk: Scorching heat | 168003 | [168003-speedpunk-scorching-heat.json](./168003-speedpunk-scorching-heat.json) |
 | SpeedRacer | 340188 | [340188-speedracer.json](./340188-speedracer.json) |
 | SpeedRage | 72041 | [72041-speedrage.json](./72041-speedrage.json) |
 | SpeedRooms | 268957 | [268957-speedrooms.json](./268957-speedrooms.json) |
