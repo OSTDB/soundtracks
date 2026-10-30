@@ -3033,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empress's Choice | 245047 | [245047-empresss-choice.json](./245047-empresss-choice.json) |
 | Empronix Game | 369027 | [369027-empronix-game.json](./369027-empronix-game.json) |
 | Emptiness Sire | 332426 | [332426-emptiness-sire.json](./332426-emptiness-sire.json) |
+| Empty | 129390 | [129390-empty.json](./129390-empty.json) |
 | Empty | 229384 | [229384-empty.json](./229384-empty.json) |
 | Empty Bottle | 139083 | [139083-empty-bottle.json](./139083-empty-bottle.json) |
 | Empty Box | 361755 | [361755-empty-box.json](./361755-empty-box.json) |
@@ -4712,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Pulsar 7 | 24691 | [24691-escape-from-pulsar-7.json](./24691-escape-from-pulsar-7.json) |
 | Escape from Puzzlegate | 34373 | [34373-escape-from-puzzlegate.json](./34373-escape-from-puzzlegate.json) |
 | Escape from pyramid | 95272 | [95272-escape-from-pyramid.json](./95272-escape-from-pyramid.json) |
+| Escape from Ragor: Megrim's Rache | 129405 | [129405-escape-from-ragor-megrims-rache.json](./129405-escape-from-ragor-megrims-rache.json) |
 | Escape from Rhetundo Island | 336061 | [336061-escape-from-rhetundo-island.json](./336061-escape-from-rhetundo-island.json) |
 | Escape from Rio de Janeiro | 104456 | [104456-escape-from-rio-de-janeiro.json](./104456-escape-from-rio-de-janeiro.json) |
 | Escape From Roswell | 225901 | [225901-escape-from-roswell.json](./225901-escape-from-roswell.json) |
