@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zellige: The Tilemaker of Granada | 220734 | [220734-zellige-the-tilemaker-of-granada.json](./220734-zellige-the-tilemaker-of-granada.json) |
 | Zelter | 138243 | [138243-zelter.json](./138243-zelter.json) |
 | Zeltoid X1 | 216477 | [216477-zeltoid-x1.json](./216477-zeltoid-x1.json) |
+| Zeltrus | 160049 | [160049-zeltrus.json](./160049-zeltrus.json) |
 | Zemblanity | 195101 | [195101-zemblanity.json](./195101-zemblanity.json) |
 | Zemeroth | 181245 | [181245-zemeroth.json](./181245-zemeroth.json) |
 | Zeminator | 120428 | [120428-zeminator.json](./120428-zeminator.json) |
