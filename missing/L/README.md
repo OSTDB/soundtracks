@@ -8553,6 +8553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lulu & Ennoi: Sacred Suit Girls | 119621 | [119621-lulu-and-ennoi-sacred-suit-girls.json](./119621-lulu-and-ennoi-sacred-suit-girls.json) |
 | Lulu Fighter for LOL | 243096 | [243096-lulu-fighter-for-lol.json](./243096-lulu-fighter-for-lol.json) |
 | Lulu in Forest of Aphrodisiac | 82624 | [82624-lulu-in-forest-of-aphrodisiac.json](./82624-lulu-in-forest-of-aphrodisiac.json) |
+| LuLu Looking For Dogs | 155393 | [155393-lulu-looking-for-dogs.json](./155393-lulu-looking-for-dogs.json) |
 | Lulu Way | 197164 | [197164-lulu-way.json](./197164-lulu-way.json) |
 | Lulu's Temple | 195696 | [195696-lulus-temple.json](./195696-lulus-temple.json) |
 | Lum: Hide from Nightmares | 211180 | [211180-lum-hide-from-nightmares.json](./211180-lum-hide-from-nightmares.json) |
