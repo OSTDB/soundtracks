@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 11gatsu no Arcadia | 98426 | [98426-11gatsu-no-arcadia.json](./98426-11gatsu-no-arcadia.json) |
 | 11x11: Soccer Club Manager | 104716 | [104716-11x11-soccer-club-manager.json](./104716-11x11-soccer-club-manager.json) |
 | 12 | 97108 | [97108-12.json](./97108-12.json) |
+| 12 Bananas | 151376 | [151376-12-bananas.json](./151376-12-bananas.json) |
 | 12 Bullets to Midnight | 349287 | [349287-12-bullets-to-midnight.json](./349287-12-bullets-to-midnight.json) |
 | 12 Dino Games in 1 | 54970 | [54970-12-dino-games-in-1.json](./54970-12-dino-games-in-1.json) |
 | 12 Hours | 117354 | [117354-12-hours.json](./117354-12-hours.json) |
