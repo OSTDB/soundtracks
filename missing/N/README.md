@@ -6133,11 +6133,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoSpellHero | 341486 | [341486-nospellhero.json](./341486-nospellhero.json) |
 | NostalDoom | 269559 | [269559-nostaldoom.json](./269559-nostaldoom.json) |
 | NosTale | 55220 | [55220-nostale.json](./55220-nostale.json) |
+| Nostalgia | 135469 | [135469-nostalgia.json](./135469-nostalgia.json) |
 | Nostalgia | 21904 | [21904-nostalgia.json](./21904-nostalgia.json) |
 | Nostalgia | 360584 | [360584-nostalgia.json](./360584-nostalgia.json) |
 | Nostalgia Ain't What It Used to Be | 269101 | [269101-nostalgia-aint-what-it-used-to-be.json](./269101-nostalgia-aint-what-it-used-to-be.json) |
 | Nostalgia Game Shop: Tidy Up | 414768 | [414768-nostalgia-game-shop-tidy-up.json](./414768-nostalgia-game-shop-tidy-up.json) |
 | Nostalgia of Magic | 145593 | [145593-nostalgia-of-magic.json](./145593-nostalgia-of-magic.json) |
+| Nostalgia: Forte | 135471 | [135471-nostalgia-forte.json](./135471-nostalgia-forte.json) |
+| Nostalgia: Op.2 | 135470 | [135470-nostalgia-op-2.json](./135470-nostalgia-op-2.json) |
+| Nostalgia: Op.3 | 135477 | [135477-nostalgia-op-3.json](./135477-nostalgia-op-3.json) |
 | Nostalgiarian | 127375 | [127375-nostalgiarian.json](./127375-nostalgiarian.json) |
 | NostAlgic | 166463 | [166463-nostalgic.json](./166463-nostalgic.json) |
 | Nostalgic Entropy: Neo Retro | 312899 | [312899-nostalgic-entropy-neo-retro.json](./312899-nostalgic-entropy-neo-retro.json) |
