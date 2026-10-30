@@ -685,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Well | 41165 | [41165-fairy-well.json](./41165-fairy-well.json) |
 | Fairy Whale | 345991 | [345991-fairy-whale.json](./345991-fairy-whale.json) |
 | Fairy: Paint by Numbers | 88490 | [88490-fairy-paint-by-numbers.json](./88490-fairy-paint-by-numbers.json) |
+| Fairyfail | 152598 | [152598-fairyfail.json](./152598-fairyfail.json) |
 | FairyLand | 413711 | [413711-fairyland.json](./413711-fairyland.json) |
 | Fairyland Melody Magic | 68055 | [68055-fairyland-melody-magic.json](./68055-fairyland-melody-magic.json) |
 | Fairyland Solitaire | 271083 | [271083-fairyland-solitaire.json](./271083-fairyland-solitaire.json) |
