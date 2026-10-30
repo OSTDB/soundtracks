@@ -2674,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In The Ruined Courtyard | 260420 | [260420-in-the-ruined-courtyard.json](./260420-in-the-ruined-courtyard.json) |
 | In the Rural Village of Nagoro | 223798 | [223798-in-the-rural-village-of-nagoro.json](./223798-in-the-rural-village-of-nagoro.json) |
 | In the Search For: Revenge | 133055 | [133055-in-the-search-for-revenge.json](./133055-in-the-search-for-revenge.json) |
+| In the Service of Mrs. Claus | 126773 | [126773-in-the-service-of-mrs-claus.json](./126773-in-the-service-of-mrs-claus.json) |
 | In the Shadow of the Truth | 32798 | [32798-in-the-shadow-of-the-truth.json](./32798-in-the-shadow-of-the-truth.json) |
 | In the Shadows | 180657 | [180657-in-the-shadows.json](./180657-in-the-shadows.json) |
 | In the Shadows | 18932 | [18932-in-the-shadows.json](./18932-in-the-shadows.json) |
@@ -3230,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferiae | 399001 | [399001-inferiae.json](./399001-inferiae.json) |
 | Inferis: Dead Below | 359923 | [359923-inferis-dead-below.json](./359923-inferis-dead-below.json) |
 | Inferius | 272351 | [272351-inferius.json](./272351-inferius.json) |
+| Inferna | 126774 | [126774-inferna.json](./126774-inferna.json) |
 | Inferna | 182055 | [182055-inferna.json](./182055-inferna.json) |
 | Infernae | 267082 | [267082-infernae.json](./267082-infernae.json) |
 | Infernal Ascent | 271851 | [271851-infernal-ascent.json](./271851-infernal-ascent.json) |
@@ -5151,6 +5153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Blade: Medieval RPG | 112241 | [112241-iron-blade-medieval-rpg.json](./112241-iron-blade-medieval-rpg.json) |
 | Iron Blight | 367360 | [367360-iron-blight.json](./367360-iron-blight.json) |
 | Iron Blood | 68722 | [68722-iron-blood.json](./68722-iron-blood.json) |
+| Iron Blood VR | 126814 | [126814-iron-blood-vr.json](./126814-iron-blood-vr.json) |
 | Iron Bramble | 401010 | [401010-iron-bramble.json](./401010-iron-bramble.json) |
 | Iron Brigade | 7668 | [7668-iron-brigade.json](./7668-iron-brigade.json) |
 | Iron Carnage | 368292 | [368292-iron-carnage.json](./368292-iron-carnage.json) |
