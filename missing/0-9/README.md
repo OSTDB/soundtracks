@@ -2657,6 +2657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 ft Blunder | 307231 | [307231-6-ft-blunder.json](./307231-6-ft-blunder.json) |
 | 6 Games | 319562 | [319562-6-games.json](./319562-6-games.json) |
 | 6 Great Games: Windows XP Edition | 314719 | [314719-6-great-games-windows-xp-edition.json](./314719-6-great-games-windows-xp-edition.json) |
+| 6 in 1 Time Management Game Collection | 153045 | [153045-6-in-1-time-management-game-collection.json](./153045-6-in-1-time-management-game-collection.json) |
 | 6 Inch My Darling | 45449 | [45449-6-inch-my-darling.json](./45449-6-inch-my-darling.json) |
 | 6 Keys: The Gym | 370289 | [370289-6-keys-the-gym.json](./370289-6-keys-the-gym.json) |
 | 6 Love Dominoes | 88421 | [88421-6-love-dominoes.json](./88421-6-love-dominoes.json) |
