@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadenza: The Following - Collector's Edition | 417492 | [417492-cadenza-the-following-collectors-edition.json](./417492-cadenza-the-following-collectors-edition.json) |
 | Cadenza: The Kiss of Death | 88811 | [88811-cadenza-the-kiss-of-death.json](./88811-cadenza-the-kiss-of-death.json) |
 | Cadenza: The Kiss of Death - Collector's Edition | 76703 | [76703-cadenza-the-kiss-of-death-collectors-edition.json](./76703-cadenza-the-kiss-of-death-collectors-edition.json) |
+| Cadet | 131117 | [131117-cadet.json](./131117-cadet.json) |
 | Cadillac | 94896 | [94896-cadillac.json](./94896-cadillac.json) |
 | Cadillacs and Dinosaurs: The Second Cataclysm | 5367 | [5367-cadillacs-and-dinosaurs-the-second-cataclysm.json](./5367-cadillacs-and-dinosaurs-the-second-cataclysm.json) |
 | Cadmium Red | 364694 | [364694-cadmium-red.json](./364694-cadmium-red.json) |
@@ -4563,6 +4564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cedric & Odious | 328270 | [328270-cedric-and-odious.json](./328270-cedric-and-odious.json) |
 | Cedric and the Revolution | 70030 | [70030-cedric-and-the-revolution.json](./70030-cedric-and-the-revolution.json) |
 | CeeBot-A | 94574 | [94574-ceebot-a.json](./94574-ceebot-a.json) |
+| CeeBot3 Educational Programming Software | 131131 | [131131-ceebot3-educational-programming-software.json](./131131-ceebot3-educational-programming-software.json) |
 | Cefore | 28647 | [28647-cefore.json](./28647-cefore.json) |
 | Ceiling Mounted Sprinkler | 358439 | [358439-ceiling-mounted-sprinkler.json](./358439-ceiling-mounted-sprinkler.json) |
 | Ceiling Zero | 282105 | [282105-ceiling-zero.json](./282105-ceiling-zero.json) |
@@ -6124,6 +6126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessers | 150357 | [150357-chessers.json](./150357-chessers.json) |
 | ChessFinity | 333331 | [333331-chessfinity.json](./333331-chessfinity.json) |
 | Chessformer | 163683 | [163683-chessformer.json](./163683-chessformer.json) |
+| ChessFriends.com | 131095 | [131095-chessfriends-com.json](./131095-chessfriends-com.json) |
 | Chessie Chicken | 195611 | [195611-chessie-chicken.json](./195611-chessie-chicken.json) |
 | Chessium: 3D Chess Battle | 271646 | [271646-chessium-3d-chess-battle.json](./271646-chessium-3d-chess-battle.json) |
 | Chesskoban | 181045 | [181045-chesskoban.json](./181045-chesskoban.json) |
@@ -7854,6 +7857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cine Game | 106152 | [106152-cine-game.json](./106152-cine-game.json) |
 | Cine Tracer | 112265 | [112265-cine-tracer.json](./112265-cine-tracer.json) |
 | Cine Tracer 2 | 258584 | [258584-cine-tracer-2.json](./258584-cine-tracer-2.json) |
+| Cinema | 131118 | [131118-cinema.json](./131118-cinema.json) |
 | Cinema Madness | 310551 | [310551-cinema-madness.json](./310551-cinema-madness.json) |
 | Cinema Manager | 157171 | [157171-cinema-manager.json](./157171-cinema-manager.json) |
 | Cinema Manager Simulator | 365827 | [365827-cinema-manager-simulator.json](./365827-cinema-manager-simulator.json) |
@@ -11613,6 +11617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Committed: Mystery at Shady Pines | 18890 | [18890-committed-mystery-at-shady-pines.json](./18890-committed-mystery-at-shady-pines.json) |
 | Committed: Mystery at Shady Pines - Premium Edition | 417687 | [417687-committed-mystery-at-shady-pines-premium-edition.json](./417687-committed-mystery-at-shady-pines-premium-edition.json) |
 | Commodoor | 214365 | [214365-commodoor.json](./214365-commodoor.json) |
+| Commodore | 131119 | [131119-commodore.json](./131119-commodore.json) |
 | Common Ground | 60070 | [60070-common-ground.json](./60070-common-ground.json) |
 | Common Grounds | 349618 | [349618-common-grounds.json](./349618-common-grounds.json) |
 | Common Hanzi Quiz: Simplified Chinese | 101360 | [101360-common-hanzi-quiz-simplified-chinese.json](./101360-common-hanzi-quiz-simplified-chinese.json) |
@@ -13709,6 +13714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counseling | 401050 | [401050-counseling.json](./401050-counseling.json) |
 | Count 427 | 287624 | [287624-count-427.json](./287624-count-427.json) |
 | Count Dookie Fart | 87940 | [87940-count-dookie-fart.json](./87940-count-dookie-fart.json) |
+| Count Down | 131110 | [131110-count-down.json](./131110-count-down.json) |
 | Count Downula | 109040 | [109040-count-downula.json](./109040-count-downula.json) |
 | Count Duckula 2: Featuring Tremendous Terence | 15919 | [15919-count-duckula-2-featuring-tremendous-terence.json](./15919-count-duckula-2-featuring-tremendous-terence.json) |
 | Count Duckula: No Sax Please - We're Egyptian | 13523 | [13523-count-duckula-no-sax-please-were-egyptian.json](./13523-count-duckula-no-sax-please-were-egyptian.json) |
