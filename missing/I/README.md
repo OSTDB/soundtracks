@@ -4436,6 +4436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Speedway | 369129 | [369129-international-speedway.json](./369129-international-speedway.json) |
 | International Sports Challenge | 69783 | [69783-international-sports-challenge.json](./69783-international-sports-challenge.json) |
 | International Super Karts | 43332 | [43332-international-super-karts.json](./43332-international-super-karts.json) |
+| International Superstar Soccer | 131795 | [131795-international-superstar-soccer.json](./131795-international-superstar-soccer.json) |
 | International Superstar Soccer | 9861 | [9861-international-superstar-soccer.json](./9861-international-superstar-soccer.json) |
 | International Superstar Soccer '98 | 3514 | [3514-international-superstar-soccer-98.json](./3514-international-superstar-soccer-98.json) |
 | International Superstar Soccer 2000 | 220857 | [220857-international-superstar-soccer-2000.json](./220857-international-superstar-soccer-2000.json) |
