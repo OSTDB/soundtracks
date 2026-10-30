@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fake Illusions | 137430 | [137430-fake-illusions.json](./137430-fake-illusions.json) |
 | Fake Lay | 98501 | [98501-fake-lay.json](./98501-fake-lay.json) |
 | Fake News | 184789 | [184789-fake-news.json](./184789-fake-news.json) |
+| Fake Racing | 150861 | [150861-fake-racing.json](./150861-fake-racing.json) |
 | Fake Signals | 236273 | [236273-fake-signals.json](./236273-fake-signals.json) |
 | Fake World | 55270 | [55270-fake-world.json](./55270-fake-world.json) |
 | Fake/SuperSonia | 59233 | [59233-fake-supersonia.json](./59233-fake-supersonia.json) |
