@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jianghu Chronicles | 303591 | [303591-jianghu-chronicles.json](./303591-jianghu-chronicles.json) |
 | Jianghu Diary | 340893 | [340893-jianghu-diary.json](./340893-jianghu-diary.json) |
 | JiangHu Record of Another World | 120707 | [120707-jianghu-record-of-another-world.json](./120707-jianghu-record-of-another-world.json) |
+| Jiānghú Xíng | 154763 | [154763-jianghu-xing.json](./154763-jianghu-xing.json) |
 | Jiānghú Yúshēng: Yuánqǐ | 395753 | [395753-jianghu-yusheng-yuanqi.json](./395753-jianghu-yusheng-yuanqi.json) |
 | Jiangshi x Daoshi | 135880 | [135880-jiangshi-x-daoshi.json](./135880-jiangshi-x-daoshi.json) |
 | JianLong Mountain in Chongzuo City | 377041 | [377041-jianlong-mountain-in-chongzuo-city.json](./377041-jianlong-mountain-in-chongzuo-city.json) |
