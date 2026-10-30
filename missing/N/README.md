@@ -6088,6 +6088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nosferatu Lilinor | 126389 | [126389-nosferatu-lilinor.json](./126389-nosferatu-lilinor.json) |
 | Nosferatu no Otome-tachi | 403637 | [403637-nosferatu-no-otome-tachi.json](./403637-nosferatu-no-otome-tachi.json) |
 | Nosferatu: The Wrath of Malachi | 8960 | [8960-nosferatu-the-wrath-of-malachi.json](./8960-nosferatu-the-wrath-of-malachi.json) |
+| Nosferatu's Butler | 149808 | [149808-nosferatus-butler.json](./149808-nosferatus-butler.json) |
 | Nosfereatyou | 179579 | [179579-nosfereatyou.json](./179579-nosfereatyou.json) |
 | Nosher | 200820 | [200820-nosher.json](./200820-nosher.json) |
 | Noskovrazdor | 402543 | [402543-noskovrazdor.json](./402543-noskovrazdor.json) |
