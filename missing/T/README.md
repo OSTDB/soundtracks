@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Kizna | 294593 | [294593-tales-of-kizna.json](./294593-tales-of-kizna.json) |
 | Tales of Klodan | 349328 | [349328-tales-of-klodan.json](./349328-tales-of-klodan.json) |
 | Tales of Kongfu | 161602 | [161602-tales-of-kongfu.json](./161602-tales-of-kongfu.json) |
+| Tales of Lagoona 2: Peril at Poseidon Park | 141435 | [141435-tales-of-lagoona-2-peril-at-poseidon-park.json](./141435-tales-of-lagoona-2-peril-at-poseidon-park.json) |
 | Tales of Lagoona 3: Frauds, Forgeries, and Fishsticks | 155368 | [155368-tales-of-lagoona-3-frauds-forgeries-and-fishsticks.json](./155368-tales-of-lagoona-3-frauds-forgeries-and-fishsticks.json) |
 | Tales of Lagoona: Orphans of the Ocean | 54424 | [54424-tales-of-lagoona-orphans-of-the-ocean.json](./54424-tales-of-lagoona-orphans-of-the-ocean.json) |
 | Tales of Landor | 143450 | [143450-tales-of-landor.json](./143450-tales-of-landor.json) |
@@ -3524,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten made Jack: Odoroki Mamenoki Daitoubou!! | 198364 | [198364-ten-made-jack-odoroki-mamenoki-daitoubou.json](./198364-ten-made-jack-odoroki-mamenoki-daitoubou.json) |
 | Ten ni Takaku Chi ni Fukaku | 191713 | [191713-ten-ni-takaku-chi-ni-fukaku.json](./191713-ten-ni-takaku-chi-ni-fukaku.json) |
 | Ten of the Best Games | 134448 | [134448-ten-of-the-best-games.json](./134448-ten-of-the-best-games.json) |
+| Ten of the best: Educational Programs | 141396 | [141396-ten-of-the-best-educational-programs.json](./141396-ten-of-the-best-educational-programs.json) |
 | Ten People Ten Colors | 314742 | [314742-ten-people-ten-colors.json](./314742-ten-people-ten-colors.json) |
 | Ten Pin Alley 2 | 5215 | [5215-ten-pin-alley-2.json](./5215-ten-pin-alley-2.json) |
 | Ten Seconds Hero 1 | 309358 | [309358-ten-seconds-hero-1.json](./309358-ten-seconds-hero-1.json) |
@@ -12830,6 +12832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Ripper | 125259 | [125259-the-night-ripper.json](./125259-the-night-ripper.json) |
 | The Night Shift | 258416 | [258416-the-night-shift.json](./258416-the-night-shift.json) |
 | The night spoke our names | 208310 | [208310-the-night-spoke-our-names.json](./208310-the-night-spoke-our-names.json) |
+| The Night That Speaks | 141421 | [141421-the-night-that-speaks.json](./141421-the-night-that-speaks.json) |
 | The Night the Carsons Disappeared | 30764 | [30764-the-night-the-carsons-disappeared.json](./30764-the-night-the-carsons-disappeared.json) |
 | The Night Walkers | 196992 | [196992-the-night-walkers.json](./196992-the-night-walkers.json) |
 | The Night Wanderer | 290366 | [290366-the-night-wanderer.json](./290366-the-night-wanderer.json) |
