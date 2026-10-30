@@ -4996,6 +4996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airlines Manager | 116437 | [116437-airlines-manager.json](./116437-airlines-manager.json) |
 | Airlock | 11856 | [11856-airlock.json](./11856-airlock.json) |
 | Airlock Arena: Profit or Perish | 149453 | [149453-airlock-arena-profit-or-perish.json](./149453-airlock-arena-profit-or-perish.json) |
+| Airlock FireFight | 143985 | [143985-airlock-firefight.json](./143985-airlock-firefight.json) |
 | AirLoveEngine | 366128 | [366128-airloveengine.json](./366128-airloveengine.json) |
 | Airman X | 233180 | [233180-airman-x.json](./233180-airman-x.json) |
 | AirMech | 1365 | [1365-airmech.json](./1365-airmech.json) |
@@ -13756,6 +13757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Ops: Warzone | 59741 | [59741-assault-ops-warzone.json](./59741-assault-ops-warzone.json) |
 | Assault Rei Play | 109004 | [109004-assault-rei-play.json](./109004-assault-rei-play.json) |
 | Assault Sector | 245875 | [245875-assault-sector.json](./245875-assault-sector.json) |
+| Assault Shell | 144644 | [144644-assault-shell.json](./144644-assault-shell.json) |
 | Assault Spy | 86514 | [86514-assault-spy.json](./86514-assault-spy.json) |
 | Assault Spy: Elite Spy Edition | 124831 | [124831-assault-spy-elite-spy-edition.json](./124831-assault-spy-elite-spy-edition.json) |
 | Assault Squad 2: Men of War Origins | 36398 | [36398-assault-squad-2-men-of-war-origins.json](./36398-assault-squad-2-men-of-war-origins.json) |
@@ -15720,6 +15722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon: The Legend Lives | 60350 | [60350-avalon-the-legend-lives.json](./60350-avalon-the-legend-lives.json) |
 | Avalone's Adventurers: My Parents were Assassinated so I've Started an Adventuring Party to Avoid a Political Marriage | 346202 | [346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json](./346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json) |
 | Avani | 223495 | [223495-avani.json](./223495-avani.json) |
+| Avani: The Primal Land | 144538 | [144538-avani-the-primal-land.json](./144538-avani-the-primal-land.json) |
 | Avant-Garde Discerning Paralleler | 120074 | [120074-avant-garde-discerning-paralleler.json](./120074-avant-garde-discerning-paralleler.json) |
 | Avant-Garde: Napoleonic Battles | 270497 | [270497-avant-garde-napoleonic-battles.json](./270497-avant-garde-napoleonic-battles.json) |
 | Avante! Atlantis | 321806 | [321806-avante-atlantis.json](./321806-avante-atlantis.json) |
