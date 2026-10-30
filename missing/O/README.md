@@ -987,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OGame | 17257 | [17257-ogame.json](./17257-ogame.json) |
 | Ogami Ichiro Funtouki: Sakura Taisen Kayou Show - Benitokage Yori | 62127 | [62127-ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori.json](./62127-ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori.json) |
 | Ogantto | 349332 | [349332-ogantto.json](./349332-ogantto.json) |
+| OGgolf | 150893 | [150893-oggolf.json](./150893-oggolf.json) |
 | Ogiri Adventure Game | 330668 | [330668-ogiri-adventure-game.json](./330668-ogiri-adventure-game.json) |
 | Ognisco | 324281 | [324281-ognisco.json](./324281-ognisco.json) |
 | Ogo | 259953 | [259953-ogo.json](./259953-ogo.json) |
@@ -4444,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ourworld | 254416 | [254416-ourworld.json](./254416-ourworld.json) |
 | Oust | 197105 | [197105-oust.json](./197105-oust.json) |
 | Out and About | 161379 | [161379-out-and-about.json](./161379-out-and-about.json) |
+| Out Bike the Tsunami | 150854 | [150854-out-bike-the-tsunami.json](./150854-out-bike-the-tsunami.json) |
 | Out Board | 71935 | [71935-out-board.json](./71935-out-board.json) |
 | Out Fishing | 344699 | [344699-out-fishing.json](./344699-out-fishing.json) |
 | Out for Blood | 276380 | [276380-out-for-blood.json](./276380-out-for-blood.json) |
