@@ -1234,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Mandy | 114956 | [114956-candy-mandy.json](./114956-candy-mandy.json) |
 | Candy Mania Star | 87094 | [87094-candy-mania-star.json](./87094-candy-mania-star.json) |
 | Candy Match 3 | 191012 | [191012-candy-match-3.json](./191012-candy-match-3.json) |
+| Candy Match Forever | 128808 | [128808-candy-match-forever.json](./128808-candy-match-forever.json) |
 | Candy Merged | 103559 | [103559-candy-merged.json](./103559-candy-merged.json) |
 | Candy Mountain Massacre | 270206 | [270206-candy-mountain-massacre.json](./270206-candy-mountain-massacre.json) |
 | Candy Mountain Massacre 2 | 270207 | [270207-candy-mountain-massacre-2.json](./270207-candy-mountain-massacre-2.json) |
