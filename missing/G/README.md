@@ -1840,7 +1840,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garry's worst fear | 220788 | [220788-garrys-worst-fear.json](./220788-garrys-worst-fear.json) |
 | Garshasp: Temple of the Dragon | 16247 | [16247-garshasp-temple-of-the-dragon.json](./16247-garshasp-temple-of-the-dragon.json) |
 | Garshasp: The Monster Slayer | 3279 | [3279-garshasp-the-monster-slayer.json](./3279-garshasp-the-monster-slayer.json) |
-| Garten of Banban 0 | 320854 | [320854-garten-of-banban-0.json](./320854-garten-of-banban-0.json) |
 | Garten of Banban 4 | 248696 | [248696-garten-of-banban-4.json](./248696-garten-of-banban-4.json) |
 | Garten of Banban 5 | 261134 | [261134-garten-of-banban-5.json](./261134-garten-of-banban-5.json) |
 | Garten of Banban 6 | 261135 | [261135-garten-of-banban-6.json](./261135-garten-of-banban-6.json) |
