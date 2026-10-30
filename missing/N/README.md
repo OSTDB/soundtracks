@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narrative Adventure | 192293 | [192293-narrative-adventure.json](./192293-narrative-adventure.json) |
 | Narrative Nightmares: Trilogy of Terror | 282594 | [282594-narrative-nightmares-trilogy-of-terror.json](./282594-narrative-nightmares-trilogy-of-terror.json) |
 | Narrenschiff | 261985 | [261985-narrenschiff.json](./261985-narrenschiff.json) |
+| Narrow Escape | 166422 | [166422-narrow-escape.json](./166422-narrow-escape.json) |
 | Narrow Escape | 41986 | [41986-narrow-escape.json](./41986-narrow-escape.json) |
 | Narrow One | 364991 | [364991-narrow-one.json](./364991-narrow-one.json) |
 | Narrow Path | 203380 | [203380-narrow-path.json](./203380-narrow-path.json) |
