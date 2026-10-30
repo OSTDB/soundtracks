@@ -6037,6 +6037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Served Cold | 318952 | [318952-best-served-cold.json](./318952-best-served-cold.json) |
 | Best Served Haute | 323995 | [323995-best-served-haute.json](./323995-best-served-haute.json) |
 | Best Shot Pro Golf | 44422 | [44422-best-shot-pro-golf.json](./44422-best-shot-pro-golf.json) |
+| Best Sniper Legacy | 148743 | [148743-best-sniper-legacy.json](./148743-best-sniper-legacy.json) |
 | Best Solitaire Greatest Hits | 86698 | [86698-best-solitaire-greatest-hits.json](./86698-best-solitaire-greatest-hits.json) |
 | Best Spider Solitaire | 104604 | [104604-best-spider-solitaire.json](./104604-best-spider-solitaire.json) |
 | Best Streamer | 401785 | [401785-best-streamer.json](./401785-best-streamer.json) |
@@ -8337,6 +8338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack by MobilityWare | 355990 | [355990-blackjack-by-mobilityware.json](./355990-blackjack-by-mobilityware.json) |
 | Blackjack Calculator | 245550 | [245550-blackjack-calculator.json](./245550-blackjack-calculator.json) |
 | Blackjack Carnival | 366408 | [366408-blackjack-carnival.json](./366408-blackjack-carnival.json) |
+| Blackjack Championship | 148770 | [148770-blackjack-championship.json](./148770-blackjack-championship.json) |
 | Blackjack Descent | 383681 | [383681-blackjack-descent.json](./383681-blackjack-descent.json) |
 | Blackjack Elf | 313895 | [313895-blackjack-elf.json](./313895-blackjack-elf.json) |
 | Blackjack Fever | 89589 | [89589-blackjack-fever.json](./89589-blackjack-fever.json) |
