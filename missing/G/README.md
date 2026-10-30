@@ -3052,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geronimo Stilton: Return to the Kingdom of Fantasy | 42757 | [42757-geronimo-stilton-return-to-the-kingdom-of-fantasy.json](./42757-geronimo-stilton-return-to-the-kingdom-of-fantasy.json) |
 | Geronimo Stilton: Return to the Kingdom of Fantasy - The Videogame | 99956 | [99956-geronimo-stilton-return-to-the-kingdom-of-fantasy-the-videogame.json](./99956-geronimo-stilton-return-to-the-kingdom-of-fantasy-the-videogame.json) |
 | Geronimo Stilton: The Return to the Kingdom of Fantasy | 52225 | [52225-geronimo-stilton-the-return-to-the-kingdom-of-fantasy.json](./52225-geronimo-stilton-the-return-to-the-kingdom-of-fantasy.json) |
+| Gerritory | 132986 | [132986-gerritory.json](./132986-gerritory.json) |
 | Gerrrms | 146998 | [146998-gerrrms.json](./146998-gerrrms.json) |
 | Gerry Anderson's Thunderbirds: Shutsudou Thunderbird 2-gou | 385726 | [385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json](./385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json) |
 | Gerry Dae | 392838 | [392838-gerry-dae.json](./392838-gerry-dae.json) |
