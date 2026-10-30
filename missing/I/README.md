@@ -2449,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imprinted | 398302 | [398302-imprinted.json](./398302-imprinted.json) |
 | Imprisoned | 327391 | [327391-imprisoned.json](./327391-imprisoned.json) |
 | Imprisoned | 63203 | [63203-imprisoned.json](./63203-imprisoned.json) |
+| Imprisoned Hyperion | 157313 | [157313-imprisoned-hyperion.json](./157313-imprisoned-hyperion.json) |
 | Imprisoned Queen | 156540 | [156540-imprisoned-queen.json](./156540-imprisoned-queen.json) |
 | Improbability | 311485 | [311485-improbability.json](./311485-improbability.json) |
 | Improbability Control Bureau | 264787 | [264787-improbability-control-bureau.json](./264787-improbability-control-bureau.json) |
