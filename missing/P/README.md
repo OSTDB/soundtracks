@@ -1775,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradox Escape Route | 125732 | [125732-paradox-escape-route.json](./125732-paradox-escape-route.json) |
 | Paradox Factor | 197059 | [197059-paradox-factor.json](./197059-paradox-factor.json) |
 | Paradox Guardians | 277361 | [277361-paradox-guardians.json](./277361-paradox-guardians.json) |
+| Paradox in the mirror | 170678 | [170678-paradox-in-the-mirror.json](./170678-paradox-in-the-mirror.json) |
 | Paradox Lost | 330161 | [330161-paradox-lost.json](./330161-paradox-lost.json) |
 | Paradox Metal | 264142 | [264142-paradox-metal.json](./264142-paradox-metal.json) |
 | Paradox of Hope VR | 204159 | [204159-paradox-of-hope-vr.json](./204159-paradox-of-hope-vr.json) |
@@ -3439,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pegasus Golden Five | 61480 | [61480-pegasus-golden-five.json](./61480-pegasus-golden-five.json) |
 | Pegasus II | 254970 | [254970-pegasus-ii.json](./254970-pegasus-ii.json) |
 | Pegasus-5: Gone Astray | 104797 | [104797-pegasus-5-gone-astray.json](./104797-pegasus-5-gone-astray.json) |
+| Pegasus: Broken Wings | 170677 | [170677-pegasus-broken-wings.json](./170677-pegasus-broken-wings.json) |
 | Pegaxy | 188410 | [188410-pegaxy.json](./188410-pegaxy.json) |
 | Pegdrop Hearts | 250166 | [250166-pegdrop-hearts.json](./250166-pegdrop-hearts.json) |
 | Pegged | 312228 | [312228-pegged.json](./312228-pegged.json) |
