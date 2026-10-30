@@ -3478,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Luxury Life (Be a Billionaire) | 163037 | [163037-vr-luxury-life-be-a-billionaire.json](./163037-vr-luxury-life-be-a-billionaire.json) |
 | VR Masturbate | 384634 | [384634-vr-masturbate.json](./384634-vr-masturbate.json) |
 | VR Maze | 164056 | [164056-vr-maze.json](./164056-vr-maze.json) |
+| VR Meditation SkyRun | 166926 | [166926-vr-meditation-skyrun.json](./166926-vr-meditation-skyrun.json) |
 | VR Military Reporter in Middle East (with tanks & helicopters) | 163737 | [163737-vr-military-reporter-in-middle-east-with-tanks-and-helicopters.json](./163737-vr-military-reporter-in-middle-east-with-tanks-and-helicopters.json) |
 | VR Mini Bowling | 81115 | [81115-vr-mini-bowling.json](./81115-vr-mini-bowling.json) |
 | VR Mini Bowling 2 | 202207 | [202207-vr-mini-bowling-2.json](./202207-vr-mini-bowling-2.json) |
