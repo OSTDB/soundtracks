@@ -1863,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuri Ogibalov's Bizarre Adventure | 156032 | [156032-yuri-ogibalovs-bizarre-adventure.json](./156032-yuri-ogibalovs-bizarre-adventure.json) |
 | Yuri Paddle: An Anime Convention Murder Mystery | 318404 | [318404-yuri-paddle-an-anime-convention-murder-mystery.json](./318404-yuri-paddle-an-anime-convention-murder-mystery.json) |
 | Yuri Sword Saga | 291062 | [291062-yuri-sword-saga.json](./291062-yuri-sword-saga.json) |
+| Yurikago | 150898 | [150898-yurikago.json](./150898-yurikago.json) |
 | Yurikago yori Tenshi made | 402470 | [402470-yurikago-yori-tenshi-made.json](./402470-yurikago-yori-tenshi-made.json) |
 | Yurivania 0: Soul Night Prelude | 206157 | [206157-yurivania-0-soul-night-prelude.json](./206157-yurivania-0-soul-night-prelude.json) |
 | Yurivania 1: Uhaul of the Night | 176931 | [176931-yurivania-1-uhaul-of-the-night.json](./176931-yurivania-1-uhaul-of-the-night.json) |
