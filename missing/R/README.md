@@ -1806,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapta | 315114 | [315114-rapta.json](./315114-rapta.json) |
 | Raptainment | 96845 | [96845-raptainment.json](./96845-raptainment.json) |
 | Raptor | 352790 | [352790-raptor.json](./352790-raptor.json) |
+| Raptor Boyfriend: A High School Romance | 140822 | [140822-raptor-boyfriend-a-high-school-romance.json](./140822-raptor-boyfriend-a-high-school-romance.json) |
 | Raptor Evolution: Complete Edition | 385207 | [385207-raptor-evolution-complete-edition.json](./385207-raptor-evolution-complete-edition.json) |
 | Raptor Evolution: Gold Edition | 404283 | [404283-raptor-evolution-gold-edition.json](./404283-raptor-evolution-gold-edition.json) |
 | Raptor Rampage: Dino Hunter | 317208 | [317208-raptor-rampage-dino-hunter.json](./317208-raptor-rampage-dino-hunter.json) |
@@ -3407,6 +3408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Bull: Soapbox Racers | 336920 | [336920-red-bull-soapbox-racers.json](./336920-red-bull-soapbox-racers.json) |
 | Red Button | 172988 | [172988-red-button.json](./172988-red-button.json) |
 | Red Cap Squad: Zombie Source | 339924 | [339924-red-cap-squad-zombie-source.json](./339924-red-cap-squad-zombie-source.json) |
+| Red Cap Zombie Hunter | 139583 | [139583-red-cap-zombie-hunter.json](./139583-red-cap-zombie-hunter.json) |
 | Red Cape Knight | 366989 | [366989-red-cape-knight.json](./366989-red-cape-knight.json) |
 | Red Capture | 412615 | [412615-red-capture.json](./412615-red-capture.json) |
 | Red Carpet Diaries: Book 1 | 313688 | [313688-red-carpet-diaries-book-1.json](./313688-red-carpet-diaries-book-1.json) |
@@ -4098,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regression | 391704 | [391704-regression.json](./391704-regression.json) |
 | Regret | 391791 | [391791-regret.json](./391791-regret.json) |
 | Regretful Ghosts | 318542 | [318542-regretful-ghosts.json](./318542-regretful-ghosts.json) |
+| Regrowth | 139617 | [139617-regrowth.json](./139617-regrowth.json) |
 | Regular Factory: Escape Room | 188833 | [188833-regular-factory-escape-room.json](./188833-regular-factory-escape-room.json) |
 | Regular Fit | 280108 | [280108-regular-fit.json](./280108-regular-fit.json) |
 | Regular Friday Night | 298719 | [298719-regular-friday-night.json](./298719-regular-friday-night.json) |
@@ -5161,6 +5164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resonance Tales: Alone | 350964 | [350964-resonance-tales-alone.json](./350964-resonance-tales-alone.json) |
 | Resonance Wars | 181089 | [181089-resonance-wars.json](./181089-resonance-wars.json) |
 | Resonance: The Lost Score | 150064 | [150064-resonance-the-lost-score.json](./150064-resonance-the-lost-score.json) |
+| Resonant Blade | 140792 | [140792-resonant-blade.json](./140792-resonant-blade.json) |
 | Resonant Dusk | 395791 | [395791-resonant-dusk.json](./395791-resonant-dusk.json) |
 | Resonant Q | 381189 | [381189-resonant-q.json](./381189-resonant-q.json) |
 | Resonant Tale | 266481 | [266481-resonant-tale.json](./266481-resonant-tale.json) |
@@ -7697,6 +7701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadkill Raceway | 235176 | [235176-roadkill-raceway.json](./235176-roadkill-raceway.json) |
 | RoadkillerZ | 36975 | [36975-roadkillerz.json](./36975-roadkillerz.json) |
 | Roadlike | 311547 | [311547-roadlike.json](./311547-roadlike.json) |
+| RoadOut | 140794 | [140794-roadout.json](./140794-roadout.json) |
 | Roadpunk | 149487 | [149487-roadpunk.json](./149487-roadpunk.json) |
 | Roadracer Bowler | 24850 | [24850-roadracer-bowler.json](./24850-roadracer-bowler.json) |
 | RoadRunner | 120156 | [120156-roadrunner.json](./120156-roadrunner.json) |
@@ -8254,6 +8259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocco | 78015 | [78015-rocco.json](./78015-rocco.json) |
 | Rocco's Inferno | 197147 | [197147-roccos-inferno.json](./197147-roccos-inferno.json) |
 | Rocco's Island: Pocket Edition | 232321 | [232321-roccos-island-pocket-edition.json](./232321-roccos-island-pocket-edition.json) |
+| Rocco's Island: Ring to End the Pain | 139611 | [139611-roccos-island-ring-to-end-the-pain.json](./139611-roccos-island-ring-to-end-the-pain.json) |
 | Roce's Journey | 155952 | [155952-roces-journey.json](./155952-roces-journey.json) |
 | Roch Island | 270695 | [270695-roch-island.json](./270695-roch-island.json) |
 | Roch Series | 270664 | [270664-roch-series.json](./270664-roch-series.json) |
@@ -8877,6 +8883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodea the Sky Soldier | 6872 | [6872-rodea-the-sky-soldier.json](./6872-rodea-the-sky-soldier.json) |
 | Rodea the Sky Soldier: Launch Day Edition | 89892 | [89892-rodea-the-sky-soldier-launch-day-edition.json](./89892-rodea-the-sky-soldier-launch-day-edition.json) |
 | Rodea: The Sky Soldier Limited Edition | 51188 | [51188-rodea-the-sky-soldier-limited-edition.json](./51188-rodea-the-sky-soldier-limited-edition.json) |
+| Rodent and Plank: Secret Origin | 139588 | [139588-rodent-and-plank-secret-origin.json](./139588-rodent-and-plank-secret-origin.json) |
 | Rodent Company | 387587 | [387587-rodent-company.json](./387587-rodent-company.json) |
 | Rodent Rampage | 393127 | [393127-rodent-rampage.json](./393127-rodent-rampage.json) |
 | Rodent Retribution | 275707 | [275707-rodent-retribution.json](./275707-rodent-retribution.json) |
@@ -8920,6 +8927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Agent | 99655 | [99655-rogue-agent.json](./99655-rogue-agent.json) |
 | Rogue AI Simulator | 199269 | [199269-rogue-ai-simulator.json](./199269-rogue-ai-simulator.json) |
 | Rogue Alliance | 78968 | [78968-rogue-alliance.json](./78968-rogue-alliance.json) |
+| Rogue Arrows | 139635 | [139635-rogue-arrows.json](./139635-rogue-arrows.json) |
 | Rogue Ascent VR | 191914 | [191914-rogue-ascent-vr.json](./191914-rogue-ascent-vr.json) |
 | Rogue Assault | 404373 | [404373-rogue-assault.json](./404373-rogue-assault.json) |
 | Rogue Bit | 110363 | [110363-rogue-bit.json](./110363-rogue-bit.json) |
@@ -9076,6 +9084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Seas | 176830 | [176830-rogue-seas.json](./176830-rogue-seas.json) |
 | Rogue Sentry | 142987 | [142987-rogue-sentry.json](./142987-rogue-sentry.json) |
 | Rogue Shell | 395553 | [395553-rogue-shell.json](./395553-rogue-shell.json) |
+| Rogue Shift | 139630 | [139630-rogue-shift.json](./139630-rogue-shift.json) |
 | Rogue Shooter: The FPS Roguelike | 17307 | [17307-rogue-shooter-the-fps-roguelike.json](./17307-rogue-shooter-the-fps-roguelike.json) |
 | Rogue Singularity | 34048 | [34048-rogue-singularity.json](./34048-rogue-singularity.json) |
 | Rogue Skies | 366869 | [366869-rogue-skies.json](./366869-rogue-skies.json) |
