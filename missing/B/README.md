@@ -857,7 +857,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3207,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Cars | 236980 | [236980-battle-cars.json](./236980-battle-cars.json) |
 | Battle Cars | 332256 | [332256-battle-cars.json](./332256-battle-cars.json) |
 | Battle Cars | 36729 | [36729-battle-cars.json](./36729-battle-cars.json) |
+| Battle Cat vs. Treacherous Mice | 157340 | [157340-battle-cat-vs-treacherous-mice.json](./157340-battle-cat-vs-treacherous-mice.json) |
 | Battle Cats Galaxy | 300455 | [300455-battle-cats-galaxy.json](./300455-battle-cats-galaxy.json) |
 | Battle Cats Quest | 299252 | [299252-battle-cats-quest.json](./299252-battle-cats-quest.json) |
 | Battle Chain | 201698 | [201698-battle-chain.json](./201698-battle-chain.json) |
@@ -5053,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty and Violence: Valkyries | 122299 | [122299-beauty-and-violence-valkyries.json](./122299-beauty-and-violence-valkyries.json) |
 | Beauty Clicker | 371612 | [371612-beauty-clicker.json](./371612-beauty-clicker.json) |
 | Beauty Clicker 2 | 389646 | [389646-beauty-clicker-2.json](./389646-beauty-clicker-2.json) |
+| Beauty Contest | 157309 | [157309-beauty-contest.json](./157309-beauty-contest.json) |
 | Beauty Crush | 259126 | [259126-beauty-crush.json](./259126-beauty-crush.json) |
 | Beauty Factory | 52447 | [52447-beauty-factory.json](./52447-beauty-factory.json) |
 | Beauty from Wisdom | 236372 | [236372-beauty-from-wisdom.json](./236372-beauty-from-wisdom.json) |
@@ -5327,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before I Go | 283988 | [283988-before-i-go.json](./283988-before-i-go.json) |
 | Before Nightfall | 105159 | [105159-before-nightfall.json](./105159-before-nightfall.json) |
 | Before Nightfall | 271311 | [271311-before-nightfall.json](./271311-before-nightfall.json) |
+| Before Nightfall: Summertime | 157352 | [157352-before-nightfall-summertime.json](./157352-before-nightfall-summertime.json) |
 | Before Resignation | 239688 | [239688-before-resignation.json](./239688-before-resignation.json) |
 | Before She’s Gone | 386177 | [386177-before-she-s-gone.json](./386177-before-she-s-gone.json) |
 | Before Sunset | 211446 | [211446-before-sunset.json](./211446-before-sunset.json) |
@@ -7145,6 +7147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bing in Wonderland: Wings & Weapon Looks - Vermilion Bird | 325441 | [325441-bing-in-wonderland-wings-and-weapon-looks-vermilion-bird.json](./325441-bing-in-wonderland-wings-and-weapon-looks-vermilion-bird.json) |
 | Bing in Wonderland: Wings & Weapon Looks - White Tiger | 325442 | [325442-bing-in-wonderland-wings-and-weapon-looks-white-tiger.json](./325442-bing-in-wonderland-wings-and-weapon-looks-white-tiger.json) |
 | Bingaboll | 259862 | [259862-bingaboll.json](./259862-bingaboll.json) |
+| Binger Ninja | 157353 | [157353-binger-ninja.json](./157353-binger-ninja.json) |
 | Bingiman: Trap Ochido | 189130 | [189130-bingiman-trap-ochido.json](./189130-bingiman-trap-ochido.json) |
 | Bingle Bingle | 283995 | [283995-bingle-bingle.json](./283995-bingle-bingle.json) |
 | Bingo | 206142 | [206142-bingo.json](./206142-bingo.json) |
