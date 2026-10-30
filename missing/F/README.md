@@ -3163,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear of The Unknown | 169810 | [169810-fear-of-the-unknown.json](./169810-fear-of-the-unknown.json) |
 | Fear of Traffic | 103564 | [103564-fear-of-traffic.json](./103564-fear-of-traffic.json) |
 | Fear or Evil: Nightmare Horror Scary Game Phobia 2023 Simulator Hunter Games | 241401 | [241401-fear-or-evil-nightmare-horror-scary-game-phobia-2023-simulator-hunter-games.json](./241401-fear-or-evil-nightmare-horror-scary-game-phobia-2023-simulator-hunter-games.json) |
+| Fear Protocol: Codename Omega Starring Agent Jack Banger | 171751 | [171751-fear-protocol-codename-omega-starring-agent-jack-banger.json](./171751-fear-protocol-codename-omega-starring-agent-jack-banger.json) |
 | Fear Protocol: Shadow Paradigm | 163187 | [163187-fear-protocol-shadow-paradigm.json](./163187-fear-protocol-shadow-paradigm.json) |
 | Fear Simulator | 114897 | [114897-fear-simulator.json](./114897-fear-simulator.json) |
 | Fear Station Bravo | 273542 | [273542-fear-station-bravo.json](./273542-fear-station-bravo.json) |
