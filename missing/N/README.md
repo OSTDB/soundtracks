@@ -2771,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevermore 3 | 328005 | [328005-nevermore-3.json](./328005-nevermore-3.json) |
 | Nevermore VIII-XIII | 119498 | [119498-nevermore-viii-xiii.json](./119498-nevermore-viii-xiii.json) |
 | Nevermore: Documentary Kinetic Novel | 206511 | [206511-nevermore-documentary-kinetic-novel.json](./206511-nevermore-documentary-kinetic-novel.json) |
+| Nevermore: The Chamber Door | 149161 | [149161-nevermore-the-chamber-door.json](./149161-nevermore-the-chamber-door.json) |
 | NeveRossa: Mille e una notte | 316644 | [316644-neverossa-mille-e-una-notte.json](./316644-neverossa-mille-e-una-notte.json) |
 | Neverout | 29791 | [29791-neverout.json](./29791-neverout.json) |
 | Neverputt | 51246 | [51246-neverputt.json](./51246-neverputt.json) |
@@ -6823,6 +6824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nurikabe World | 310757 | [310757-nurikabe-world.json](./310757-nurikabe-world.json) |
 | Nurilogy 1000 | 345709 | [345709-nurilogy-1000.json](./345709-nurilogy-1000.json) |
 | Nurny Battles HD | 402380 | [402380-nurny-battles-hd.json](./402380-nurny-battles-hd.json) |
+| Nurose | 149176 | [149176-nurose.json](./149176-nurose.json) |
 | Nurse Boy 0 | 335764 | [335764-nurse-boy-0.json](./335764-nurse-boy-0.json) |
 | Nurse Call: Koi no Nurse Call | 324135 | [324135-nurse-call-koi-no-nurse-call.json](./324135-nurse-call-koi-no-nurse-call.json) |
 | Nurse Enjoy Gyaru Pack | 186233 | [186233-nurse-enjoy-gyaru-pack.json](./186233-nurse-enjoy-gyaru-pack.json) |
