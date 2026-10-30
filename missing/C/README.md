@@ -2176,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardboard Fish | 268311 | [268311-cardboard-fish.json](./268311-cardboard-fish.json) |
 | Cardboard Football Club | 233206 | [233206-cardboard-football-club.json](./233206-cardboard-football-club.json) |
 | Cardboard Ground | 119730 | [119730-cardboard-ground.json](./119730-cardboard-ground.json) |
+| Cardboard Invasion | 149167 | [149167-cardboard-invasion.json](./149167-cardboard-invasion.json) |
 | Cardboard Racers | 401378 | [401378-cardboard-racers.json](./401378-cardboard-racers.json) |
 | Cardbob | 217216 | [217216-cardbob.json](./217216-cardbob.json) |
 | Cardborne | 390144 | [390144-cardborne.json](./390144-cardborne.json) |
@@ -4269,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Confectioner | 126987 | [126987-cave-confectioner.json](./126987-cave-confectioner.json) |
 | Cave Crave | 347578 | [347578-cave-crave.json](./347578-cave-crave.json) |
 | Cave Crave: Tham Luang Cave VR | 406192 | [406192-cave-crave-tham-luang-cave-vr.json](./406192-cave-crave-tham-luang-cave-vr.json) |
+| Cave Crawl | 149177 | [149177-cave-crawl.json](./149177-cave-crawl.json) |
 | Cave Crawler | 247083 | [247083-cave-crawler.json](./247083-cave-crawler.json) |
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
 | Cave Crawlers | 223392 | [223392-cave-crawlers.json](./223392-cave-crawlers.json) |
@@ -5983,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Kingdom | 165895 | [165895-chess-kingdom.json](./165895-chess-kingdom.json) |
 | Chess Knight | 90847 | [90847-chess-knight.json](./90847-chess-knight.json) |
 | Chess Knights: Eldritch Hunter | 160166 | [160166-chess-knights-eldritch-hunter.json](./160166-chess-knights-eldritch-hunter.json) |
+| Chess Knights: High Noon | 149168 | [149168-chess-knights-high-noon.json](./149168-chess-knights-high-noon.json) |
 | Chess Knights: Shinobi | 148133 | [148133-chess-knights-shinobi.json](./148133-chess-knights-shinobi.json) |
 | Chess Knights: Viking Lands | 135662 | [135662-chess-knights-viking-lands.json](./135662-chess-knights-viking-lands.json) |
 | Chess Maiden | 237553 | [237553-chess-maiden.json](./237553-chess-maiden.json) |
@@ -18300,6 +18303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk Hacker | 317565 | [317565-cyberpunk-hacker.json](./317565-cyberpunk-hacker.json) |
 | Cyberpunk Horror | 297863 | [297863-cyberpunk-horror.json](./297863-cyberpunk-horror.json) |
 | Cyberpunk Inquisitor | 306065 | [306065-cyberpunk-inquisitor.json](./306065-cyberpunk-inquisitor.json) |
+| Cyberpunk Madness | 149165 | [149165-cyberpunk-madness.json](./149165-cyberpunk-madness.json) |
 | Cyberpunk Men for Cyberpunk Sex | 288882 | [288882-cyberpunk-men-for-cyberpunk-sex.json](./288882-cyberpunk-men-for-cyberpunk-sex.json) |
 | Cyberpunk Men for Sex Motel | 288895 | [288895-cyberpunk-men-for-sex-motel.json](./288895-cyberpunk-men-for-sex-motel.json) |
 | Cyberpunk Messenger | 169830 | [169830-cyberpunk-messenger.json](./169830-cyberpunk-messenger.json) |
