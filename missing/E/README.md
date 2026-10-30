@@ -6328,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Genius 2: World Domination - Cabal Pack | 226850 | [226850-evil-genius-2-world-domination-cabal-pack.json](./226850-evil-genius-2-world-domination-cabal-pack.json) |
 | Evil Genius 2: World Domination - Deluxe Edition | 188025 | [188025-evil-genius-2-world-domination-deluxe-edition.json](./188025-evil-genius-2-world-domination-deluxe-edition.json) |
 | Evil Genius 2: World Domination - In-Genius Items Pack | 226846 | [226846-evil-genius-2-world-domination-in-genius-items-pack.json](./226846-evil-genius-2-world-domination-in-genius-items-pack.json) |
+| Evil Genius 2: World Domination - Mechanical Minions Pack | 174496 | [174496-evil-genius-2-world-domination-mechanical-minions-pack.json](./174496-evil-genius-2-world-domination-mechanical-minions-pack.json) |
 | Evil Genius 2: World Domination - Oceans Campaign | 197586 | [197586-evil-genius-2-world-domination-oceans-campaign.json](./197586-evil-genius-2-world-domination-oceans-campaign.json) |
 | Evil Genius 2: World Domination - Portal Pack | 174131 | [174131-evil-genius-2-world-domination-portal-pack.json](./174131-evil-genius-2-world-domination-portal-pack.json) |
 | Evil Genius 2: World Domination - Rise of the Valkyrie Pack | 226847 | [226847-evil-genius-2-world-domination-rise-of-the-valkyrie-pack.json](./226847-evil-genius-2-world-domination-rise-of-the-valkyrie-pack.json) |
@@ -6348,8 +6349,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Journey: Plan A | 263639 | [263639-evil-journey-plan-a.json](./263639-evil-journey-plan-a.json) |
 | Evil Labs | 55426 | [55426-evil-labs.json](./55426-evil-labs.json) |
 | Evil Manor | 137485 | [137485-evil-manor.json](./137485-evil-manor.json) |
+| Evil Maze | 174499 | [174499-evil-maze.json](./174499-evil-maze.json) |
 | Evil Maze 2 | 111637 | [111637-evil-maze-2.json](./111637-evil-maze-2.json) |
 | Evil Maze 2: Lava Dungeon | 193292 | [193292-evil-maze-2-lava-dungeon.json](./193292-evil-maze-2-lava-dungeon.json) |
+| Evil Maze: The Enemy of Abyss | 174498 | [174498-evil-maze-the-enemy-of-abyss.json](./174498-evil-maze-the-enemy-of-abyss.json) |
 | Evil Minds: Dirty Charades! | 106346 | [106346-evil-minds-dirty-charades.json](./106346-evil-minds-dirty-charades.json) |
 | Evil Mountains | 276675 | [276675-evil-mountains.json](./276675-evil-mountains.json) |
 | Evil Next Door | 217366 | [217366-evil-next-door.json](./217366-evil-next-door.json) |
