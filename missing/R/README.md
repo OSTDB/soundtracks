@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Aces | 320919 | [320919-radical-aces.json](./320919-radical-aces.json) |
 | Radical Bomber!! Jirai-kun | 41392 | [41392-radical-bomber-jirai-kun.json](./41392-radical-bomber-jirai-kun.json) |
 | Radical Castle | 171241 | [171241-radical-castle.json](./171241-radical-castle.json) |
+| Radical Chess | 134207 | [134207-radical-chess.json](./134207-radical-chess.json) |
 | Radical Dreamers: Le Trésor Interdit | 1803 | [1803-radical-dreamers-le-tresor-interdit.json](./1803-radical-dreamers-le-tresor-interdit.json) |
 | Radical Dreamers: Le Trésor Interdit | 335489 | [335489-radical-dreamers-le-tresor-interdit.json](./335489-radical-dreamers-le-tresor-interdit.json) |
 | Radical Fishing | 283311 | [283311-radical-fishing.json](./283311-radical-fishing.json) |
@@ -604,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Roach Remastered | 36311 | [36311-radical-roach-remastered.json](./36311-radical-roach-remastered.json) |
 | Radical Roach: Infinity | 193641 | [193641-radical-roach-infinity.json](./193641-radical-roach-infinity.json) |
 | Radical Road | 239732 | [239732-radical-road.json](./239732-radical-road.json) |
+| Radical Solitaire | 134208 | [134208-radical-solitaire.json](./134208-radical-solitaire.json) |
 | Radical Sonic | 330319 | [330319-radical-sonic.json](./330319-radical-sonic.json) |
 | Radical Spectrum: Volume 1 | 32416 | [32416-radical-spectrum-volume-1.json](./32416-radical-spectrum-volume-1.json) |
 | Radical Spectrum: Volume 2 | 55509 | [55509-radical-spectrum-volume-2.json](./55509-radical-spectrum-volume-2.json) |
@@ -4094,6 +4096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regional Power | 238360 | [238360-regional-power.json](./238360-regional-power.json) |
 | Regional Power II | 238362 | [238362-regional-power-ii.json](./238362-regional-power-ii.json) |
 | Regional Power III | 238365 | [238365-regional-power-iii.json](./238365-regional-power-iii.json) |
+| Regions | 134210 | [134210-regions.json](./134210-regions.json) |
 | Regions of Ruin | 61884 | [61884-regions-of-ruin.json](./61884-regions-of-ruin.json) |
 | Regions of Ruin: Runegate - Deluxe Edition | 402329 | [402329-regions-of-ruin-runegate-deluxe-edition.json](./402329-regions-of-ruin-runegate-deluxe-edition.json) |
 | Regions of Ruin: Runegate - The Merchant | 398304 | [398304-regions-of-ruin-runegate-the-merchant.json](./398304-regions-of-ruin-runegate-the-merchant.json) |
@@ -4843,6 +4846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Res Arcana Diana Rei: Uranai no Meikyu | 58683 | [58683-res-arcana-diana-rei-uranai-no-meikyu.json](./58683-res-arcana-diana-rei-uranai-no-meikyu.json) |
 | Res Furtiva | 146598 | [146598-res-furtiva.json](./146598-res-furtiva.json) |
 | Res Judicata: Vale of Myth | 51717 | [51717-res-judicata-vale-of-myth.json](./51717-res-judicata-vale-of-myth.json) |
+| Res Militaria Rome | 134211 | [134211-res-militaria-rome.json](./134211-res-militaria-rome.json) |
 | ReSail | 182938 | [182938-resail.json](./182938-resail.json) |
 | Resbs | 201565 | [201565-resbs.json](./201565-resbs.json) |
 | Rescale | 108392 | [108392-rescale.json](./108392-rescale.json) |
@@ -5373,6 +5377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Abyss | 221677 | [221677-retro-abyss.json](./221677-retro-abyss.json) |
 | Retro Adventure | 308399 | [308399-retro-adventure.json](./308399-retro-adventure.json) |
 | Retro Adventurer | 344232 | [344232-retro-adventurer.json](./344232-retro-adventurer.json) |
+| Retro Arcade Adventure Remade | 134212 | [134212-retro-arcade-adventure-remade.json](./134212-retro-arcade-adventure-remade.json) |
 | Retro Arcade Classics | 209194 | [209194-retro-arcade-classics.json](./209194-retro-arcade-classics.json) |
 | Retro Arcade Electronic Game | 395972 | [395972-retro-arcade-electronic-game.json](./395972-retro-arcade-electronic-game.json) |
 | Retro Arcade Shooter - Attack from Pluto | 147863 | [147863-retro-arcade-shooter-attack-from-pluto.json](./147863-retro-arcade-shooter-attack-from-pluto.json) |
@@ -8220,6 +8225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotron X | 9186 | [9186-robotron-x.json](./9186-robotron-x.json) |
 | Robotron: 2084 | 3592 | [3592-robotron-2084.json](./3592-robotron-2084.json) |
 | Robotry! | 172906 | [172906-robotry.json](./172906-robotry.json) |
+| Robots | 134213 | [134213-robots.json](./134213-robots.json) |
 | Robots | 176770 | [176770-robots.json](./176770-robots.json) |
 | Robots | 248488 | [248488-robots.json](./248488-robots.json) |
 | Robots | 248489 | [248489-robots.json](./248489-robots.json) |
