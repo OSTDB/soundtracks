@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth Escape | 41901 | [41901-labyrinth-escape.json](./41901-labyrinth-escape.json) |
 | Labyrinth Eternal | 187898 | [187898-labyrinth-eternal.json](./187898-labyrinth-eternal.json) |
 | Labyrinth Inf | 181104 | [181104-labyrinth-inf.json](./181104-labyrinth-inf.json) |
+| Labyrinth Legend | 158874 | [158874-labyrinth-legend.json](./158874-labyrinth-legend.json) |
 | Labyrinth Legend II | 206443 | [206443-labyrinth-legend-ii.json](./206443-labyrinth-legend-ii.json) |
 | Labyrinth Legends | 21012 | [21012-labyrinth-legends.json](./21012-labyrinth-legends.json) |
 | Labyrinth Life: Deluxe Edition | 121418 | [121418-labyrinth-life-deluxe-edition.json](./121418-labyrinth-life-deluxe-edition.json) |
@@ -479,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laid-Back Camp: Virtual - Fumoto Campsite | 147813 | [147813-laid-back-camp-virtual-fumoto-campsite.json](./147813-laid-back-camp-virtual-fumoto-campsite.json) |
 | Laid-Back Camp: Virtual - Lake Motosu | 143719 | [143719-laid-back-camp-virtual-lake-motosu.json](./143719-laid-back-camp-virtual-lake-motosu.json) |
 | Laigu Project | 194140 | [194140-laigu-project.json](./194140-laigu-project.json) |
+| Laika | 158883 | [158883-laika.json](./158883-laika.json) |
 | Laika | 184190 | [184190-laika.json](./184190-laika.json) |
 | Laika 2.0 | 57037 | [57037-laika-2-0.json](./57037-laika-2-0.json) |
 | Laika: A Space-Dog Oddyssey | 401033 | [401033-laika-a-space-dog-oddyssey.json](./401033-laika-a-space-dog-oddyssey.json) |
