@@ -3179,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear for Sale: Endless Voyage HD | 102204 | [102204-fear-for-sale-endless-voyage-hd.json](./102204-fear-for-sale-endless-voyage-hd.json) |
 | Fear For Sale: Hidden in the Darkness | 187899 | [187899-fear-for-sale-hidden-in-the-darkness.json](./187899-fear-for-sale-hidden-in-the-darkness.json) |
 | Fear for Sale: Mystery of McInroy Manor | 140252 | [140252-fear-for-sale-mystery-of-mcinroy-manor.json](./140252-fear-for-sale-mystery-of-mcinroy-manor.json) |
+| Fear for Sale: Mystery of McInroy Manor - Collector's Edition | 125646 | [125646-fear-for-sale-mystery-of-mcinroy-manor-collectors-edition.json](./125646-fear-for-sale-mystery-of-mcinroy-manor-collectors-edition.json) |
 | Fear For Sale: Nightmare Cinema - Collector’s Edition | 104216 | [104216-fear-for-sale-nightmare-cinema-collector-s-edition.json](./104216-fear-for-sale-nightmare-cinema-collector-s-edition.json) |
 | Fear For Sale: Phantom Tide - Collector’s Edition | 100065 | [100065-fear-for-sale-phantom-tide-collector-s-edition.json](./100065-fear-for-sale-phantom-tide-collector-s-edition.json) |
 | Fear for Sale: The 13 Keys - Collector's Edition | 93830 | [93830-fear-for-sale-the-13-keys-collectors-edition.json](./93830-fear-for-sale-the-13-keys-collectors-edition.json) |
@@ -3524,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feminist Confessional | 176401 | [176401-feminist-confessional.json](./176401-feminist-confessional.json) |
 | Feminize Me! | 185683 | [185683-feminize-me.json](./185683-feminize-me.json) |
 | Femme | 181745 | [181745-femme.json](./181745-femme.json) |
+| Femme Fatale | 125644 | [125644-femme-fatale.json](./125644-femme-fatale.json) |
 | Femme Fatality | 406911 | [406911-femme-fatality.json](./406911-femme-fatality.json) |
 | Fen | 82028 | [82028-fen.json](./82028-fen.json) |
 | FEN: Prologue | 83812 | [83812-fen-prologue.json](./83812-fen-prologue.json) |
@@ -4261,6 +4263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Pride: The Manny Pacquiao Saga | 224047 | [224047-fighting-pride-the-manny-pacquiao-saga.json](./224047-fighting-pride-the-manny-pacquiao-saga.json) |
 | Fighting Pudding | 237560 | [237560-fighting-pudding.json](./237560-fighting-pudding.json) |
 | Fighting Road | 48494 | [48494-fighting-road.json](./48494-fighting-road.json) |
+| Fighting Robots Quest | 125593 | [125593-fighting-robots-quest.json](./125593-fighting-robots-quest.json) |
 | Fighting Rogue | 358487 | [358487-fighting-rogue.json](./358487-fighting-rogue.json) |
 | Fighting Run | 44333 | [44333-fighting-run.json](./44333-fighting-run.json) |
 | Fighting Simulator | 326423 | [326423-fighting-simulator.json](./326423-fighting-simulator.json) |
@@ -10847,6 +10850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fright Night | 205031 | [205031-fright-night.json](./205031-fright-night.json) |
 | Fright Night Sex Fest | 169574 | [169574-fright-night-sex-fest.json](./169574-fright-night-sex-fest.json) |
 | Fright Train | 376511 | [376511-fright-train.json](./376511-fright-train.json) |
+| Fright: Collector's Edition | 125647 | [125647-fright-collectors-edition.json](./125647-fright-collectors-edition.json) |
 | FrightDiary | 368818 | [368818-frightdiary.json](./368818-frightdiary.json) |
 | Frightence | 193299 | [193299-frightence.json](./193299-frightence.json) |
 | Frightened | 216161 | [216161-frightened.json](./216161-frightened.json) |
