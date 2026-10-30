@@ -4152,6 +4152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gish: The Mobile Game | 227031 | [227031-gish-the-mobile-game.json](./227031-gish-the-mobile-game.json) |
 | Gisselle's Adventure | 335737 | [335737-gisselles-adventure.json](./335737-gisselles-adventure.json) |
 | Git Gud | 330269 | [330269-git-gud.json](./330269-git-gud.json) |
+| Git Gud or Get Rekt | 126231 | [126231-git-gud-or-get-rekt.json](./126231-git-gud-or-get-rekt.json) |
 | Git Up! | 335498 | [335498-git-up.json](./335498-git-up.json) |
 | Gitadora Exchain | 154831 | [154831-gitadora-exchain.json](./154831-gitadora-exchain.json) |
 | Gitadora Fuzz-Up | 266955 | [266955-gitadora-fuzz-up.json](./266955-gitadora-fuzz-up.json) |
@@ -7163,6 +7164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: The Backstabber's Blues | 392433 | [392433-grand-theft-auto-the-backstabbers-blues.json](./392433-grand-theft-auto-the-backstabbers-blues.json) |
 | Grand Theft Auto: The Trilogy | 5850 | [5850-grand-theft-auto-the-trilogy.json](./5850-grand-theft-auto-the-trilogy.json) |
 | Grand Theft Auto: Torcidas | 358395 | [358395-grand-theft-auto-torcidas.json](./358395-grand-theft-auto-torcidas.json) |
+| Grand Theft Auto: Underground | 126178 | [126178-grand-theft-auto-underground.json](./126178-grand-theft-auto-underground.json) |
 | Grand Theft Auto: Vice City | 215550 | [215550-grand-theft-auto-vice-city.json](./215550-grand-theft-auto-vice-city.json) |
 | Grand Theft Auto: Vice City - 10th Anniversary Edition | 215549 | [215549-grand-theft-auto-vice-city-10th-anniversary-edition.json](./215549-grand-theft-auto-vice-city-10th-anniversary-edition.json) |
 | Grand Theft Auto: Vice City - The Definitive Edition | 178125 | [178125-grand-theft-auto-vice-city-the-definitive-edition.json](./178125-grand-theft-auto-vice-city-the-definitive-edition.json) |
@@ -9032,6 +9034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guadalcanal Campaign | 23992 | [23992-guadalcanal-campaign.json](./23992-guadalcanal-campaign.json) |
 | Guaishou | 177228 | [177228-guaishou.json](./177228-guaishou.json) |
 | Guàishòu | 277970 | [277970-guaishou.json](./277970-guaishou.json) |
+| Guāng yǔ Àn zhī Liànqǔ | 126205 | [126205-guang-yu-an-zhi-lianqu.json](./126205-guang-yu-an-zhi-lianqu.json) |
 | Guano | 287488 | [287488-guano.json](./287488-guano.json) |
 | Guano Gladiators | 38733 | [38733-guano-gladiators.json](./38733-guano-gladiators.json) |
 | Guānyú Sīmén Shì de Yīxiē Chuányán | 397690 | [397690-guanyu-simen-shi-de-yixie-chuanyan.json](./397690-guanyu-simen-shi-de-yixie-chuanyan.json) |
@@ -9256,6 +9259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Master Manager | 207200 | [207200-guild-master-manager.json](./207200-guild-master-manager.json) |
 | Guild Masters | 110317 | [110317-guild-masters.json](./110317-guild-masters.json) |
 | Guild no Uketsukejou desu ga, Yoko-scroll game ni natta no de Boss wo solo toubatsu shiyou to omoimasu. | 337521 | [337521-guild-no-uketsukejou-desu-ga-yoko-scroll-game-ni-natta-no-de-boss-wo-solo-toubatsu-shiyou-to-omoimasu.json](./337521-guild-no-uketsukejou-desu-ga-yoko-scroll-game-ni-natta-no-de-boss-wo-solo-toubatsu-shiyou-to-omoimasu.json) |
+| Guild of Ascension | 126219 | [126219-guild-of-ascension.json](./126219-guild-of-ascension.json) |
 | Guild of Darksteel | 137461 | [137461-guild-of-darksteel.json](./137461-guild-of-darksteel.json) |
 | Guild of Dragons | 217450 | [217450-guild-of-dragons.json](./217450-guild-of-dragons.json) |
 | Guild of Dungeoneering | 11447 | [11447-guild-of-dungeoneering.json](./11447-guild-of-dungeoneering.json) |
