@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VectorField | 181524 | [181524-vectorfield.json](./181524-vectorfield.json) |
 | Vectorgeddon | 64191 | [64191-vectorgeddon.json](./64191-vectorgeddon.json) |
 | Vectorial Rush | 365762 | [365762-vectorial-rush.json](./365762-vectorial-rush.json) |
+| Vectorio | 154858 | [154858-vectorio.json](./154858-vectorio.json) |
 | Vectorio: Frosted Defenses Pack | 222897 | [222897-vectorio-frosted-defenses-pack.json](./222897-vectorio-frosted-defenses-pack.json) |
 | Vectorium | 65787 | [65787-vectorium.json](./65787-vectorium.json) |
 | Vectorlord | 127623 | [127623-vectorlord.json](./127623-vectorlord.json) |
@@ -3388,6 +3389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR AstroSmash | 157533 | [157533-vr-astrosmash.json](./157533-vr-astrosmash.json) |
 | VR Async Balls | 186832 | [186832-vr-async-balls.json](./186832-vr-async-balls.json) |
 | VR Atlantis Search: with Deep Diving | 157008 | [157008-vr-atlantis-search-with-deep-diving.json](./157008-vr-atlantis-search-with-deep-diving.json) |
+| VR Balloon Flying over Tokyo and Hokkaido | 154765 | [154765-vr-balloon-flying-over-tokyo-and-hokkaido.json](./154765-vr-balloon-flying-over-tokyo-and-hokkaido.json) |
 | VR Baseball - Home Run Competition | 33105 | [33105-vr-baseball-home-run-competition.json](./33105-vr-baseball-home-run-competition.json) |
 | VR Baseball '97 | 20819 | [20819-vr-baseball-97.json](./20819-vr-baseball-97.json) |
 | VR Baseball 2000 | 62254 | [62254-vr-baseball-2000.json](./62254-vr-baseball-2000.json) |
