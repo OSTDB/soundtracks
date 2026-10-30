@@ -2849,6 +2849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onslaught | 69201 | [69201-onslaught.json](./69201-onslaught.json) |
 | OnSlaught | 163293 | [163293-onslaught.json](./163293-onslaught.json) |
 | Onslaught 2.2 | 387944 | [387944-onslaught-2-2.json](./387944-onslaught-2-2.json) |
+| Onslaught 2D | 165339 | [165339-onslaught-2d.json](./165339-onslaught-2d.json) |
 | Onslaught on the Solar Frontier | 306369 | [306369-onslaught-on-the-solar-frontier.json](./306369-onslaught-on-the-solar-frontier.json) |
 | Onslaught VR | 90813 | [90813-onslaught-vr.json](./90813-onslaught-vr.json) |
 | Onslaught: Armoured Assault | 116740 | [116740-onslaught-armoured-assault.json](./116740-onslaught-armoured-assault.json) |
