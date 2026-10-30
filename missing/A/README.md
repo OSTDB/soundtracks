@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Description of the Newest Sculpture in the Gallery | 401255 | [401255-a-description-of-the-newest-sculpture-in-the-gallery.json](./401255-a-description-of-the-newest-sculpture-in-the-gallery.json) |
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
 | A Desert Dusk | 280226 | [280226-a-desert-dusk.json](./280226-a-desert-dusk.json) |
+| A Desktop Love Story | 136661 | [136661-a-desktop-love-story.json](./136661-a-desktop-love-story.json) |
 | A Detective Game | 302498 | [302498-a-detective-game.json](./302498-a-detective-game.json) |
 | A Detective's Demise | 219938 | [219938-a-detectives-demise.json](./219938-a-detectives-demise.json) |
 | A Detective's Novel | 27921 | [27921-a-detectives-novel.json](./27921-a-detectives-novel.json) |
@@ -1433,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Train de Ikou Hirogaru Kankou Line | 221236 | [221236-a-train-de-ikou-hirogaru-kankou-line.json](./221236-a-train-de-ikou-hirogaru-kankou-line.json) |
 | A-Train Evolution Pack | 272673 | [272673-a-train-evolution-pack.json](./272673-a-train-evolution-pack.json) |
 | A-Train Exp. | 69497 | [69497-a-train-exp.json](./69497-a-train-exp.json) |
+| A-Train Express+ | 136644 | [136644-a-train-express.json](./136644-a-train-express.json) |
 | A-Train HX | 21467 | [21467-a-train-hx.json](./21467-a-train-hx.json) |
 | A-Train PC Classic | 90551 | [90551-a-train-pc-classic.json](./90551-a-train-pc-classic.json) |
 | A-Train: All Aboard! Tourism - Nintendo Switch 2 Edition | 380696 | [380696-a-train-all-aboard-tourism-nintendo-switch-2-edition.json](./380696-a-train-all-aboard-tourism-nintendo-switch-2-edition.json) |
@@ -2282,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - ASF-X Shinden II Set | 282579 | [282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json](./282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json) |
 | Ace Combat 7: Skies Unknown - Bonus Emblem Set | 282587 | [282587-ace-combat-7-skies-unknown-bonus-emblem-set.json](./282587-ace-combat-7-skies-unknown-bonus-emblem-set.json) |
 | Ace Combat 7: Skies Unknown - CFA-44 Nosferatu Set | 282578 | [282578-ace-combat-7-skies-unknown-cfa-44-nosferatu-set.json](./282578-ace-combat-7-skies-unknown-cfa-44-nosferatu-set.json) |
+| Ace Combat 7: Skies Unknown - Collector's Edition | 136681 | [136681-ace-combat-7-skies-unknown-collectors-edition.json](./136681-ace-combat-7-skies-unknown-collectors-edition.json) |
 | Ace Combat 7: Skies Unknown - Cutting-Edge Aircraft Series | 282600 | [282600-ace-combat-7-skies-unknown-cutting-edge-aircraft-series.json](./282600-ace-combat-7-skies-unknown-cutting-edge-aircraft-series.json) |
 | Ace Combat 7: Skies Unknown - Cutting-Edge Aircraft Series Set | 324420 | [324420-ace-combat-7-skies-unknown-cutting-edge-aircraft-series-set.json](./324420-ace-combat-7-skies-unknown-cutting-edge-aircraft-series-set.json) |
 | Ace Combat 7: Skies Unknown - Deluxe Edition 2022 | 282545 | [282545-ace-combat-7-skies-unknown-deluxe-edition-2022.json](./282545-ace-combat-7-skies-unknown-deluxe-edition-2022.json) |
@@ -3673,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aetheris | 199436 | [199436-aetheris.json](./199436-aetheris.json) |
 | Aetherise | 298439 | [298439-aetherise.json](./298439-aetherise.json) |
 | Aethermancer | 244431 | [244431-aethermancer.json](./244431-aethermancer.json) |
+| Aethernaut | 136660 | [136660-aethernaut.json](./136660-aethernaut.json) |
 | AetherShot | 318055 | [318055-aethershot.json](./318055-aethershot.json) |
 | Aetherspace | 44089 | [44089-aetherspace.json](./44089-aetherspace.json) |
 | Aetolia | 122895 | [122895-aetolia.json](./122895-aetolia.json) |
@@ -4606,6 +4610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikagi 3 | 220346 | [220346-aikagi-3.json](./220346-aikagi-3.json) |
 | Aikagi After Days | 127935 | [127935-aikagi-after-days.json](./127935-aikagi-after-days.json) |
 | Aikagi Complete Box | 253709 | [253709-aikagi-complete-box.json](./253709-aikagi-complete-box.json) |
+| Aikagi Kimi to Issho ni Pack: Premium Edition | 136658 | [136658-aikagi-kimi-to-issho-ni-pack-premium-edition.json](./136658-aikagi-kimi-to-issho-ni-pack-premium-edition.json) |
 | Aikagi with After Days | 127937 | [127937-aikagi-with-after-days.json](./127937-aikagi-with-after-days.json) |
 | Aikagi: Hidamari to Kanojo no Heyagi | 58098 | [58098-aikagi-hidamari-to-kanojo-no-heyagi.json](./58098-aikagi-hidamari-to-kanojo-no-heyagi.json) |
 | Aikagi: Kimi to Issho ni Pack | 127938 | [127938-aikagi-kimi-to-issho-ni-pack.json](./127938-aikagi-kimi-to-issho-ni-pack.json) |
@@ -4615,6 +4620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikatsu! 365 Idol Days | 177559 | [177559-aikatsu-365-idol-days.json](./177559-aikatsu-365-idol-days.json) |
 | Aikatsu! Futari no My Princess | 222496 | [222496-aikatsu-futari-no-my-princess.json](./222496-aikatsu-futari-no-my-princess.json) |
 | Aikatsu! My No. 1 Stage | 165144 | [165144-aikatsu-my-no-1-stage.json](./165144-aikatsu-my-no-1-stage.json) |
+| Aikiss | 136641 | [136641-aikiss.json](./136641-aikiss.json) |
 | Aikiss 1, 2, 3 Pack | 182469 | [182469-aikiss-1-2-3-pack.json](./182469-aikiss-1-2-3-pack.json) |
 | Aikiss 2 | 141794 | [141794-aikiss-2.json](./141794-aikiss-2.json) |
 | Aikiss 2: Complete Edition | 141893 | [141893-aikiss-2-complete-edition.json](./141893-aikiss-2-complete-edition.json) |
@@ -7217,6 +7223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amamane 2 | 146792 | [146792-amamane-2.json](./146792-amamane-2.json) |
 | Amamane 2: Limited Edition | 167038 | [167038-amamane-2-limited-edition.json](./167038-amamane-2-limited-edition.json) |
 | Amamane 2: Premium Edition | 146805 | [146805-amamane-2-premium-edition.json](./146805-amamane-2-premium-edition.json) |
+| Amamane: Premium Edition | 136684 | [136684-amamane-premium-edition.json](./136684-amamane-premium-edition.json) |
 | Amanaha hockey | 329164 | [329164-amanaha-hockey.json](./329164-amanaha-hockey.json) |
 | Amanatsu | 210505 | [210505-amanatsu.json](./210505-amanatsu.json) |
 | Amanatsu Adolescence | 402451 | [402451-amanatsu-adolescence.json](./402451-amanatsu-adolescence.json) |
@@ -12261,6 +12268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark of War | 133399 | [133399-ark-of-war.json](./133399-ark-of-war.json) |
 | Ark Order | 125776 | [125776-ark-order.json](./125776-ark-order.json) |
 | ARK Park | 31250 | [31250-ark-park.json](./31250-ark-park.json) |
+| ARK Park: Deluxe Edition | 136646 | [136646-ark-park-deluxe-edition.json](./136646-ark-park-deluxe-edition.json) |
 | Ark Re:Code | 367393 | [367393-ark-re-code.json](./367393-ark-re-code.json) |
 | Ark Saver | 256225 | [256225-ark-saver.json](./256225-ark-saver.json) |
 | Ark: Aberration | 76206 | [76206-ark-aberration.json](./76206-ark-aberration.json) |
@@ -14781,6 +14789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Lent's Story "True Strength" | 168944 | [168944-atelier-ryza-ever-darkness-and-the-secret-hideout-lents-story-true-strength.json](./168944-atelier-ryza-ever-darkness-and-the-secret-hideout-lents-story-true-strength.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Premium Box | 136823 | [136823-atelier-ryza-ever-darkness-and-the-secret-hideout-premium-box.json](./136823-atelier-ryza-ever-darkness-and-the-secret-hideout-premium-box.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Secret Solitary Island | 238227 | [238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json](./238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json) |
+| Atelier Ryza: Ever Darkness & the Secret Hideout - Special Collection Box | 136675 | [136675-atelier-ryza-ever-darkness-and-the-secret-hideout-special-collection-box.json](./136675-atelier-ryza-ever-darkness-and-the-secret-hideout-special-collection-box.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Tao's Story "Interwoven Fate" | 168941 | [168941-atelier-ryza-ever-darkness-and-the-secret-hideout-taos-story-interwoven-fate.json](./168941-atelier-ryza-ever-darkness-and-the-secret-hideout-taos-story-interwoven-fate.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout DX | 359424 | [359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json](./359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json) |
 | Atelier Shallie: Alchemists of the Dusk Sea - Limited Edition | 51537 | [51537-atelier-shallie-alchemists-of-the-dusk-sea-limited-edition.json](./51537-atelier-shallie-alchemists-of-the-dusk-sea-limited-edition.json) |
