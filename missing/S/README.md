@@ -781,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Mau Otome no Rondo: Anata to Miru Fuyu Sakura | 60375 | [60375-sakura-mau-otome-no-rondo-anata-to-miru-fuyu-sakura.json](./60375-sakura-mau-otome-no-rondo-anata-to-miru-fuyu-sakura.json) |
 | Sakura Mirror | 235413 | [235413-sakura-mirror.json](./235413-sakura-mirror.json) |
 | Sakura MMO 2 | 113123 | [113123-sakura-mmo-2.json](./113123-sakura-mmo-2.json) |
+| Sakura Mochi | 167485 | [167485-sakura-mochi.json](./167485-sakura-mochi.json) |
 | Sakura Momoko Gekijou: Kojikoji | 96493 | [96493-sakura-momoko-gekijou-kojikoji.json](./96493-sakura-momoko-gekijou-kojikoji.json) |
 | Sakura Moonlight | 135892 | [135892-sakura-moonlight.json](./135892-sakura-moonlight.json) |
 | Sakura no Kumo * Scarlet no Koi | 144891 | [144891-sakura-no-kumo-scarlet-no-koi.json](./144891-sakura-no-kumo-scarlet-no-koi.json) |
@@ -8964,6 +8965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege of Inaolia | 17603 | [17603-siege-of-inaolia.json](./17603-siege-of-inaolia.json) |
 | Siege of Osaka | 239181 | [239181-siege-of-osaka.json](./239181-siege-of-osaka.json) |
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
+| Siege of the Swine | 167505 | [167505-siege-of-the-swine.json](./167505-siege-of-the-swine.json) |
 | Siege of Treboulain | 190848 | [190848-siege-of-treboulain.json](./190848-siege-of-treboulain.json) |
 | Siege of Turtle Enclave: Arcane Units Pack | 224147 | [224147-siege-of-turtle-enclave-arcane-units-pack.json](./224147-siege-of-turtle-enclave-arcane-units-pack.json) |
 | Siege Saga | 77633 | [77633-siege-saga.json](./77633-siege-saga.json) |
@@ -27163,6 +27165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Boulder Dash | 26398 | [26398-super-boulder-dash.json](./26398-super-boulder-dash.json) |
 | Super Bounce Ball | 132596 | [132596-super-bounce-ball.json](./132596-super-bounce-ball.json) |
 | Super Bounce Out | 53685 | [53685-super-bounce-out.json](./53685-super-bounce-out.json) |
+| Super Bout: Champion's Tour | 167459 | [167459-super-bout-champions-tour.json](./167459-super-bout-champions-tour.json) |
 | Super Bowl | 93128 | [93128-super-bowl.json](./93128-super-bowl.json) |
 | Super Bowl Trivia Challenge | 88832 | [88832-super-bowl-trivia-challenge.json](./88832-super-bowl-trivia-challenge.json) |
 | Super Bowl XX | 59817 | [59817-super-bowl-xx.json](./59817-super-bowl-xx.json) |
@@ -28527,6 +28530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Maruo | 238973 | [238973-super-maruo.json](./238973-super-maruo.json) |
 | Super Masao 2 | 165061 | [165061-super-masao-2.json](./165061-super-masao-2.json) |
 | Super Match Soccer | 91629 | [91629-super-match-soccer.json](./91629-super-match-soccer.json) |
+| Super Match! The Ultimate Matching Game | 167504 | [167504-super-match-the-ultimate-matching-game.json](./167504-super-match-the-ultimate-matching-game.json) |
 | Super Maura Bros. 3 | 267386 | [267386-super-maura-bros-3.json](./267386-super-maura-bros-3.json) |
 | Super Mayhem 17 | 269128 | [269128-super-mayhem-17.json](./269128-super-mayhem-17.json) |
 | Super Maze | 62409 | [62409-super-maze.json](./62409-super-maze.json) |
@@ -30337,6 +30341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Hell | 110514 | [110514-survival-hell.json](./110514-survival-hell.json) |
 | Survival Hold Your Self | 342077 | [342077-survival-hold-your-self.json](./342077-survival-hold-your-self.json) |
 | Survival Horror #8,436 | 147205 | [147205-survival-horror-8-436.json](./147205-survival-horror-8-436.json) |
+| Survival In Africa | 167474 | [167474-survival-in-africa.json](./167474-survival-in-africa.json) |
 | Survival in Draconia | 309468 | [309468-survival-in-draconia.json](./309468-survival-in-draconia.json) |
 | Survival in Three Kingdoms | 115803 | [115803-survival-in-three-kingdoms.json](./115803-survival-in-three-kingdoms.json) |
 | Survival Island | 201672 | [201672-survival-island.json](./201672-survival-island.json) |
