@@ -2767,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juice Fresh: Fruit Elimination | 187901 | [187901-juice-fresh-fruit-elimination.json](./187901-juice-fresh-fruit-elimination.json) |
 | Juice Fruity Splash | 106467 | [106467-juice-fruity-splash.json](./106467-juice-fruity-splash.json) |
 | Juice Galaxy | 142940 | [142940-juice-galaxy.json](./142940-juice-galaxy.json) |
+| Juice Mania | 129379 | [129379-juice-mania.json](./129379-juice-mania.json) |
 | Juice! | 8405 | [8405-juice.json](./8405-juice.json) |
 | Juiced | 248738 | [248738-juiced.json](./248738-juiced.json) |
 | Juiced | 5870 | [5870-juiced.json](./5870-juiced.json) |
@@ -2960,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump the Crank | 365143 | [365143-jump-the-crank.json](./365143-jump-the-crank.json) |
 | Jump the Gun | 227450 | [227450-jump-the-gun.json](./227450-jump-the-gun.json) |
 | Jump the Track | 341994 | [341994-jump-the-track.json](./341994-jump-the-track.json) |
+| Jump to Die 2: Bloody Soul | 129357 | [129357-jump-to-die-2-bloody-soul.json](./129357-jump-to-die-2-bloody-soul.json) |
 | Jump to Die!! | 29758 | [29758-jump-to-die.json](./29758-jump-to-die.json) |
 | Jump To Stratos | 376567 | [376567-jump-to-stratos.json](./376567-jump-to-stratos.json) |
 | Jump To Success | 392341 | [392341-jump-to-success.json](./392341-jump-to-success.json) |
