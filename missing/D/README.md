@@ -13776,6 +13776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakton | 40096 | [40096-drakton.json](./40096-drakton.json) |
 | Drakula | 192758 | [192758-drakula.json](./192758-drakula.json) |
 | Drakula's Ascension | 351589 | [351589-drakulas-ascension.json](./351589-drakulas-ascension.json) |
+| Drama | 162066 | [162066-drama.json](./162066-drama.json) |
 | Dramaqueen | 158230 | [158230-dramaqueen.json](./158230-dramaqueen.json) |
 | Dramatic Dungeon: Sakura Taisen - Kimi Arugatame | 65843 | [65843-dramatic-dungeon-sakura-taisen-kimi-arugatame.json](./65843-dramatic-dungeon-sakura-taisen-kimi-arugatame.json) |
 | Dramatic Past | 130672 | [130672-dramatic-past.json](./130672-dramatic-past.json) |
