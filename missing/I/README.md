@@ -5408,6 +5408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Slowlife | 402894 | [402894-isekai-slowlife.json](./402894-isekai-slowlife.json) |
 | Isekai Succubus: My Genderbent Saga in Another World | 187185 | [187185-isekai-succubus-my-genderbent-saga-in-another-world.json](./187185-isekai-succubus-my-genderbent-saga-in-another-world.json) |
 | Isekai Survivors | 317972 | [317972-isekai-survivors.json](./317972-isekai-survivors.json) |
+| Isekai Team: Another World Adventure | 153061 | [153061-isekai-team-another-world-adventure.json](./153061-isekai-team-another-world-adventure.json) |
 | Isekai Training | 374346 | [374346-isekai-training.json](./374346-isekai-training.json) |
 | Isekai Truck Driver | 296941 | [296941-isekai-truck-driver.json](./296941-isekai-truck-driver.json) |
 | Isekai Valley | 296944 | [296944-isekai-valley.json](./296944-isekai-valley.json) |
