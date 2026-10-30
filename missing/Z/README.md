@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zanki Zero: Last Beginning | 28245 | [28245-zanki-zero-last-beginning.json](./28245-zanki-zero-last-beginning.json) |
 | Zankinzoken | 226112 | [226112-zankinzoken.json](./226112-zankinzoken.json) |
 | Zankoi's Chronicles | 255959 | [255959-zankois-chronicles.json](./255959-zankois-chronicles.json) |
+| Zannon | 152569 | [152569-zannon.json](./152569-zannon.json) |
 | Zany Bounce | 245748 | [245748-zany-bounce.json](./245748-zany-bounce.json) |
 | Zany Kong | 98231 | [98231-zany-kong.json](./98231-zany-kong.json) |
 | Zany Kong Junior | 98232 | [98232-zany-kong-junior.json](./98232-zany-kong-junior.json) |
