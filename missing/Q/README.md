@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qubie: Invader of Worlds | 169865 | [169865-qubie-invader-of-worlds.json](./169865-qubie-invader-of-worlds.json) |
 | Qubit's Quest | 283762 | [283762-qubits-quest.json](./283762-qubits-quest.json) |
 | Qublyne Dungeons | 226435 | [226435-qublyne-dungeons.json](./226435-qublyne-dungeons.json) |
+| Qubo | 160041 | [160041-qubo.json](./160041-qubo.json) |
 | QUByte Classics: Beat 'Em Up Archives | 252629 | [252629-qubyte-classics-beat-em-up-archives.json](./252629-qubyte-classics-beat-em-up-archives.json) |
 | QUByte Classics: Beat 'Em Up Collection | 353981 | [353981-qubyte-classics-beat-em-up-collection.json](./353981-qubyte-classics-beat-em-up-collection.json) |
 | QUByte Classics: Gaelco Sports Collection | 422551 | [422551-qubyte-classics-gaelco-sports-collection.json](./422551-qubyte-classics-gaelco-sports-collection.json) |
