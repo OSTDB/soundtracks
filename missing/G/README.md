@@ -6236,6 +6236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoodNight | 193404 | [193404-goodnight.json](./193404-goodnight.json) |
 | Goodnight Icarus | 280653 | [280653-goodnight-icarus.json](./280653-goodnight-icarus.json) |
 | Goodnight Little Sandman | 110227 | [110227-goodnight-little-sandman.json](./110227-goodnight-little-sandman.json) |
+| Goodnight Meowmie | 176128 | [176128-goodnight-meowmie.json](./176128-goodnight-meowmie.json) |
 | Goodnight Rudy | 234589 | [234589-goodnight-rudy.json](./234589-goodnight-rudy.json) |
 | Goodnight Tea | 249321 | [249321-goodnight-tea.json](./249321-goodnight-tea.json) |
 | Goodnight Universe | 271129 | [271129-goodnight-universe.json](./271129-goodnight-universe.json) |
@@ -7740,6 +7741,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greatest Artists Jigsaw Puzzle | 96828 | [96828-greatest-artists-jigsaw-puzzle.json](./96828-greatest-artists-jigsaw-puzzle.json) |
 | Greatest Dungeon | 295546 | [295546-greatest-dungeon.json](./295546-greatest-dungeon.json) |
 | Greatest Heavyweights | 45783 | [45783-greatest-heavyweights.json](./45783-greatest-heavyweights.json) |
+| Greatest Moments of Our Time | 176078 | [176078-greatest-moments-of-our-time.json](./176078-greatest-moments-of-our-time.json) |
+| Greatest Nine '96 | 176116 | [176116-greatest-nine-96.json](./176116-greatest-nine-96.json) |
 | Greatlandia Election Simulator | 413195 | [413195-greatlandia-election-simulator.json](./413195-greatlandia-election-simulator.json) |
 | Greats of the Gridiron | 153514 | [153514-greats-of-the-gridiron.json](./153514-greats-of-the-gridiron.json) |
 | Greatsword Point! | 343748 | [343748-greatsword-point.json](./343748-greatsword-point.json) |
