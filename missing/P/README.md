@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddock Note '95 | 268522 | [268522-paddock-note-95.json](./268522-paddock-note-95.json) |
 | Paddy the Penguin | 358622 | [358622-paddy-the-penguin.json](./358622-paddy-the-penguin.json) |
 | Padel Pro World Tour | 409553 | [409553-padel-pro-world-tour.json](./409553-padel-pro-world-tour.json) |
+| Pagan Age | 167465 | [167465-pagan-age.json](./167465-pagan-age.json) |
 | Pagan Gods | 293350 | [293350-pagan-gods.json](./293350-pagan-gods.json) |
 | Pagan Hope | 132713 | [132713-pagan-hope.json](./132713-pagan-hope.json) |
 | Pagan: Absent Gods | 111835 | [111835-pagan-absent-gods.json](./111835-pagan-absent-gods.json) |
