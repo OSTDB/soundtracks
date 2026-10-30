@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force 3 for Nintendo Switch | 172720 | [172720-earth-defense-force-3-for-nintendo-switch.json](./172720-earth-defense-force-3-for-nintendo-switch.json) |
 | Earth Defense Force 4.1 for Nintendo Switch | 218057 | [218057-earth-defense-force-4-1-for-nintendo-switch.json](./218057-earth-defense-force-4-1-for-nintendo-switch.json) |
 | Earth Defense Force 4.1: The Shadow of New Despair | 11002 | [11002-earth-defense-force-4-1-the-shadow-of-new-despair.json](./11002-earth-defense-force-4-1-the-shadow-of-new-despair.json) |
+| Earth Defense Force 4.1: The Shadow of New Despair - Sting Shot | 172310 | [172310-earth-defense-force-4-1-the-shadow-of-new-despair-sting-shot.json](./172310-earth-defense-force-4-1-the-shadow-of-new-despair-sting-shot.json) |
 | Earth Defense Force 4.1: Wing Diver the Shooter | 57020 | [57020-earth-defense-force-4-1-wing-diver-the-shooter.json](./57020-earth-defense-force-4-1-wing-diver-the-shooter.json) |
 | Earth Defense Force 4.1: Wing Diver the Shooter - Training Mode | 168224 | [168224-earth-defense-force-4-1-wing-diver-the-shooter-training-mode.json](./168224-earth-defense-force-4-1-wing-diver-the-shooter-training-mode.json) |
 | Earth Defense Force 5 | 27283 | [27283-earth-defense-force-5.json](./27283-earth-defense-force-5.json) |
@@ -1633,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eisei Meijin VI | 3904 | [3904-eisei-meijin-vi.json](./3904-eisei-meijin-vi.json) |
 | Eiseihousou Taiou Casette: SameGame Editor | 234881 | [234881-eiseihousou-taiou-casette-samegame-editor.json](./234881-eiseihousou-taiou-casette-samegame-editor.json) |
 | Eisen | 240872 | [240872-eisen.json](./240872-eisen.json) |
+| Eisenbahn X: Berliner S-Bahn | 172350 | [172350-eisenbahn-x-berliner-s-bahn.json](./172350-eisenbahn-x-berliner-s-bahn.json) |
 | Eisenbahn X: Modellset 1 - Bahnhof, Häuser, Scheunen | 169951 | [169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json](./169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json) |
 | Eisenwald: Blood of November | 25607 | [25607-eisenwald-blood-of-november.json](./25607-eisenwald-blood-of-november.json) |
 | EIsland Hop | 254073 | [254073-eisland-hop.json](./254073-eisland-hop.json) |
@@ -3209,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End the Endless | 338716 | [338716-end-the-endless.json](./338716-end-the-endless.json) |
 | End Them, Soldier! | 347690 | [347690-end-them-soldier.json](./347690-end-them-soldier.json) |
 | End Transmission? | 339751 | [339751-end-transmission.json](./339751-end-transmission.json) |
+| End Up | 172324 | [172324-end-up.json](./172324-end-up.json) |
 | End Up Alone | 261396 | [261396-end-up-alone.json](./261396-end-up-alone.json) |
 | End War RTS | 105711 | [105711-end-war-rts.json](./105711-end-war-rts.json) |
 | End War RTS 2 | 160234 | [160234-end-war-rts-2.json](./160234-end-war-rts-2.json) |
@@ -3909,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eOthello | 277283 | [277283-eothello.json](./277283-eothello.json) |
 | Ep3 | 229588 | [229588-ep3.json](./229588-ep3.json) |
 | Epanalepsis | 11425 | [11425-epanalepsis.json](./11425-epanalepsis.json) |
+| Epejsodion Dodgeball Attack | 172323 | [172323-epejsodion-dodgeball-attack.json](./172323-epejsodion-dodgeball-attack.json) |
 | Epejsodion Dodgeball Defense | 166748 | [166748-epejsodion-dodgeball-defense.json](./166748-epejsodion-dodgeball-defense.json) |
 | Epejsodion Dodgeball Speed | 367310 | [367310-epejsodion-dodgeball-speed.json](./367310-epejsodion-dodgeball-speed.json) |
 | Epejsodion Dodgeball Training | 369724 | [369724-epejsodion-dodgeball-training.json](./369724-epejsodion-dodgeball-training.json) |
