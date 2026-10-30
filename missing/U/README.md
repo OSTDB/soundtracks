@@ -328,6 +328,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultikill | 149476 | [149476-ultikill.json](./149476-ultikill.json) |
 | Ultim@te Race Pro | 131542 | [131542-ultim-te-race-pro.json](./131542-ultim-te-race-pro.json) |
 | Ultima | 7414 | [7414-ultima.json](./7414-ultima.json) |
+| Ultima 1+2+3 | 154171 | [154171-ultima-1-2-3.json](./154171-ultima-1-2-3.json) |
+| Ultima 4+5+6 | 154173 | [154173-ultima-4-5-6.json](./154173-ultima-4-5-6.json) |
 | Ultima Adventum | 149602 | [149602-ultima-adventum.json](./149602-ultima-adventum.json) |
 | Ultima Chess VR | 346587 | [346587-ultima-chess-vr.json](./346587-ultima-chess-vr.json) |
 | Ultima Forever | 22193 | [22193-ultima-forever.json](./22193-ultima-forever.json) |
@@ -2691,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unto Deepest Depths | 317989 | [317989-unto-deepest-depths.json](./317989-unto-deepest-depths.json) |
 | Unto the Aurora | 344999 | [344999-unto-the-aurora.json](./344999-unto-the-aurora.json) |
 | Unto the End | 37146 | [37146-unto-the-end.json](./37146-unto-the-end.json) |
+| Unto the End: Special Edition | 154218 | [154218-unto-the-end-special-edition.json](./154218-unto-the-end-special-edition.json) |
 | Untold | 184415 | [184415-untold.json](./184415-untold.json) |
 | Untold Atlas | 218836 | [218836-untold-atlas.json](./218836-untold-atlas.json) |
 | Untold Chronicles: The Harvest | 374829 | [374829-untold-chronicles-the-harvest.json](./374829-untold-chronicles-the-harvest.json) |
