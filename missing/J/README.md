@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Race | 308519 | [308519-jetpack-race.json](./308519-jetpack-race.json) |
 | Jetpack Soccer | 241055 | [241055-jetpack-soccer.json](./241055-jetpack-soccer.json) |
 | Jetpack Squad | 122284 | [122284-jetpack-squad.json](./122284-jetpack-squad.json) |
+| Jetpack Vacation | 163085 | [163085-jetpack-vacation.json](./163085-jetpack-vacation.json) |
 | Jetpack Warrior VR | 107684 | [107684-jetpack-warrior-vr.json](./107684-jetpack-warrior-vr.json) |
 | Jetpackin' Heat++ | 161347 | [161347-jetpackin-heat.json](./161347-jetpackin-heat.json) |
 | JetPilot | 93138 | [93138-jetpilot.json](./93138-jetpilot.json) |
