@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectrexit | 273915 | [273915-vectrexit.json](./273915-vectrexit.json) |
 | Vectris | 273099 | [273099-vectris.json](./273099-vectris.json) |
 | Vectrix | 121974 | [121974-vectrix.json](./121974-vectrix.json) |
+| Vectro Blast | 149256 | [149256-vectro-blast.json](./149256-vectro-blast.json) |
 | VectroMirror | 140006 | [140006-vectromirror.json](./140006-vectromirror.json) |
 | Vectromirror 0 | 159488 | [159488-vectromirror-0.json](./159488-vectromirror-0.json) |
 | Vectron | 287572 | [287572-vectron.json](./287572-vectron.json) |
