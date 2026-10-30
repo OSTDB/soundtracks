@@ -7389,6 +7389,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amberspire | 325713 | [325713-amberspire.json](./325713-amberspire.json) |
 | Ambien | 254122 | [254122-ambien.json](./254122-ambien.json) |
 | Ambience | 414497 | [414497-ambience.json](./414497-ambience.json) |
+| Ambient Channels: Abandoned Town - Farmhouse | 170709 | [170709-ambient-channels-abandoned-town-farmhouse.json](./170709-ambient-channels-abandoned-town-farmhouse.json) |
+| Ambient Channels: American Retro - Cozy Café After Hours | 170706 | [170706-ambient-channels-american-retro-cozy-cafe-after-hours.json](./170706-ambient-channels-american-retro-cozy-cafe-after-hours.json) |
+| Ambient Channels: Desolate Space - Contaminated Vessel | 170703 | [170703-ambient-channels-desolate-space-contaminated-vessel.json](./170703-ambient-channels-desolate-space-contaminated-vessel.json) |
+| Ambient Channels: Downtown - Marina Apartments | 170705 | [170705-ambient-channels-downtown-marina-apartments.json](./170705-ambient-channels-downtown-marina-apartments.json) |
+| Ambient Channels: Downtown - Parkland Condos | 170707 | [170707-ambient-channels-downtown-parkland-condos.json](./170707-ambient-channels-downtown-parkland-condos.json) |
+| Ambient Channels: Dreamscapes - Christmas in Victoria | 170704 | [170704-ambient-channels-dreamscapes-christmas-in-victoria.json](./170704-ambient-channels-dreamscapes-christmas-in-victoria.json) |
+| Ambient Channels: Dreamscapes - Fantasy Camp | 170701 | [170701-ambient-channels-dreamscapes-fantasy-camp.json](./170701-ambient-channels-dreamscapes-fantasy-camp.json) |
+| Ambient Channels: Dreamscapes - Graveyard | 170699 | [170699-ambient-channels-dreamscapes-graveyard.json](./170699-ambient-channels-dreamscapes-graveyard.json) |
+| Ambient Channels: Lost Metro - City Subway | 170700 | [170700-ambient-channels-lost-metro-city-subway.json](./170700-ambient-channels-lost-metro-city-subway.json) |
+| Ambient Channels: Phreakers - Black Room | 170698 | [170698-ambient-channels-phreakers-black-room.json](./170698-ambient-channels-phreakers-black-room.json) |
+| Ambient Channels: Terror Forest - Hell House | 170708 | [170708-ambient-channels-terror-forest-hell-house.json](./170708-ambient-channels-terror-forest-hell-house.json) |
+| Ambient Channels: Zanfium Tower - Lounge | 170702 | [170702-ambient-channels-zanfium-tower-lounge.json](./170702-ambient-channels-zanfium-tower-lounge.json) |
 | Ambient Water | 66606 | [66606-ambient-water.json](./66606-ambient-water.json) |
 | Ambienz | 122822 | [122822-ambienz.json](./122822-ambienz.json) |
 | Ambition Episode 1: The Desperate Dad | 385665 | [385665-ambition-episode-1-the-desperate-dad.json](./385665-ambition-episode-1-the-desperate-dad.json) |
@@ -8294,6 +8306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andara: Rise for Rebellion | 255986 | [255986-andara-rise-for-rebellion.json](./255986-andara-rise-for-rebellion.json) |
 | Andarigas | 132767 | [132767-andarigas.json](./132767-andarigas.json) |
 | Andarilho | 33289 | [33289-andarilho.json](./33289-andarilho.json) |
+| Andarilho: Zombies | 170686 | [170686-andarilho-zombies.json](./170686-andarilho-zombies.json) |
 | Andarin Weppes | 257888 | [257888-andarin-weppes.json](./257888-andarin-weppes.json) |
 | Andarin Weppes: Pre-Dementia | 289811 | [289811-andarin-weppes-pre-dementia.json](./289811-andarin-weppes-pre-dementia.json) |
 | Andaron Saga | 267530 | [267530-andaron-saga.json](./267530-andaron-saga.json) |
