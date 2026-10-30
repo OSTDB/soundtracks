@@ -4956,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge Together! Elementary School Quiz | 399620 | [399620-challenge-together-elementary-school-quiz.json](./399620-challenge-together-elementary-school-quiz.json) |
 | Challenge! | 68608 | [68608-challenge.json](./68608-challenge.json) |
 | Challenger | 136979 | [136979-challenger.json](./136979-challenger.json) |
+| Challenger | 176104 | [176104-challenger.json](./176104-challenger.json) |
 | Challenger Tank | 70869 | [70869-challenger-tank.json](./70869-challenger-tank.json) |
 | Challengers of Khalea | 76622 | [76622-challengers-of-khalea.json](./76622-challengers-of-khalea.json) |
 | Challenging Land | 357824 | [357824-challenging-land.json](./357824-challenging-land.json) |
@@ -8309,6 +8310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Zombie Hunter | 108224 | [108224-city-zombie-hunter.json](./108224-city-zombie-hunter.json) |
 | City Zombie Madness | 272190 | [272190-city-zombie-madness.json](./272190-city-zombie-madness.json) |
 | City Zombies | 116909 | [116909-city-zombies.json](./116909-city-zombies.json) |
+| City Zoomer | 176081 | [176081-city-zoomer.json](./176081-city-zoomer.json) |
 | City-Defence | 360481 | [360481-city-defence.json](./360481-city-defence.json) |
 | City-Racing | 358887 | [358887-city-racing.json](./358887-city-racing.json) |
 | City: 909 | 165950 | [165950-city-909.json](./165950-city-909.json) |
