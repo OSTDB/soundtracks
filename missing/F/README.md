@@ -12237,6 +12237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Shakespeare: To Date or Not to Date Cat Girls? - Winter's Tale | 169039 | [169039-furry-shakespeare-to-date-or-not-to-date-cat-girls-winters-tale.json](./169039-furry-shakespeare-to-date-or-not-to-date-cat-girls-winters-tale.json) |
 | Furry Shakespeare: To Date Or Not To Date Cat Girls? If Made Today | 290884 | [290884-furry-shakespeare-to-date-or-not-to-date-cat-girls-if-made-today.json](./290884-furry-shakespeare-to-date-or-not-to-date-cat-girls-if-made-today.json) |
 | Furry Shakespeare: To Date Or Not To Date Spooky Cat Girls 2?! | 290901 | [290901-furry-shakespeare-to-date-or-not-to-date-spooky-cat-girls-2.json](./290901-furry-shakespeare-to-date-or-not-to-date-spooky-cat-girls-2.json) |
+| Furry Shakespeare: To Date or Not to Date Spooky Cat Girls? | 153073 | [153073-furry-shakespeare-to-date-or-not-to-date-spooky-cat-girls.json](./153073-furry-shakespeare-to-date-or-not-to-date-spooky-cat-girls.json) |
 | Furry Shakespeare: Two Incredibly Ripped, Absolutely Shredded Noble Kinsmen | 196471 | [196471-furry-shakespeare-two-incredibly-ripped-absolutely-shredded-noble-kinsmen.json](./196471-furry-shakespeare-two-incredibly-ripped-absolutely-shredded-noble-kinsmen.json) |
 | Furry Stories: Alpha-Male | 130297 | [130297-furry-stories-alpha-male.json](./130297-furry-stories-alpha-male.json) |
 | Furry Striptease | 215899 | [215899-furry-striptease.json](./215899-furry-striptease.json) |
