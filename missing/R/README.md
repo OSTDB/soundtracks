@@ -8524,6 +8524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Shipment | 129615 | [129615-rocket-shipment.json](./129615-rocket-shipment.json) |
 | Rocket Shooter | 33297 | [33297-rocket-shooter.json](./33297-rocket-shooter.json) |
 | Rocket Shooting | 403001 | [403001-rocket-shooting.json](./403001-rocket-shooting.json) |
+| Rocket Skates VR | 148773 | [148773-rocket-skates-vr.json](./148773-rocket-skates-vr.json) |
 | Rocket Sky! | 119647 | [119647-rocket-sky.json](./119647-rocket-sky.json) |
 | Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
 | Rocket Smash EX | 41174 | [41174-rocket-smash-ex.json](./41174-rocket-smash-ex.json) |
@@ -9186,6 +9187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rojiura Satsuki: Chapter Heroine Sanctuary | 225654 | [225654-rojiura-satsuki-chapter-heroine-sanctuary.json](./225654-rojiura-satsuki-chapter-heroine-sanctuary.json) |
 | Roka Blocks Game - Fun & Hexagon Puzzle | 57690 | [57690-roka-blocks-game-fun-and-hexagon-puzzle.json](./57690-roka-blocks-game-fun-and-hexagon-puzzle.json) |
 | Roketz | 148717 | [148717-roketz.json](./148717-roketz.json) |
+| Roketz | 148740 | [148740-roketz.json](./148740-roketz.json) |
 | Rokh | 20190 | [20190-rokh.json](./20190-rokh.json) |
 | Rokka | 157492 | [157492-rokka.json](./157492-rokka.json) |
 | Rokko Chan | 93510 | [93510-rokko-chan.json](./93510-rokko-chan.json) |
