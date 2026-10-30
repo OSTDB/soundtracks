@@ -3852,6 +3852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klondike Solitaire Gold | 146914 | [146914-klondike-solitaire-gold.json](./146914-klondike-solitaire-gold.json) |
 | Klondike Solitaire Kings | 54336 | [54336-klondike-solitaire-kings.json](./54336-klondike-solitaire-kings.json) |
 | Klondike Solitaire Pro | 391349 | [391349-klondike-solitaire-pro.json](./391349-klondike-solitaire-pro.json) |
+| Klondike: The Lost Expedition | 163118 | [163118-klondike-the-lost-expedition.json](./163118-klondike-the-lost-expedition.json) |
 | Klondike's Hike | 321479 | [321479-klondikes-hike.json](./321479-klondikes-hike.json) |
 | Klonoa | 21184 | [21184-klonoa.json](./21184-klonoa.json) |
 | Klonoa 2: Dream Champ Tournament | 6493 | [6493-klonoa-2-dream-champ-tournament.json](./6493-klonoa-2-dream-champ-tournament.json) |
