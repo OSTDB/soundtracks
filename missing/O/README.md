@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Light & Shadow | 166509 | [166509-of-light-and-shadow.json](./166509-of-light-and-shadow.json) |
 | Of Light and Darkness: The Prophecy | 50385 | [50385-of-light-and-darkness-the-prophecy.json](./50385-of-light-and-darkness-the-prophecy.json) |
 | Of Light and Darkness: The Prophecy - Premonitions | 79564 | [79564-of-light-and-darkness-the-prophecy-premonitions.json](./79564-of-light-and-darkness-the-prophecy-premonitions.json) |
+| Of Love and Eternity | 176129 | [176129-of-love-and-eternity.json](./176129-of-love-and-eternity.json) |
 | Of Love and Sorrow | 32161 | [32161-of-love-and-sorrow.json](./32161-of-love-and-sorrow.json) |
 | Of Love and Violence | 409236 | [409236-of-love-and-violence.json](./409236-of-love-and-violence.json) |
 | Of Man and War | 184865 | [184865-of-man-and-war.json](./184865-of-man-and-war.json) |
