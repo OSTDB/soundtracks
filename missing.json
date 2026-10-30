@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T21:49:36.910Z",
-  "total_missing": 285847,
+  "generated_at": "2026-10-30T22:14:21.937Z",
+  "total_missing": 285840,
   "games": [
     {
       "igdb_id": 191680,
@@ -80417,11 +80417,6 @@
       "file": "missing/A/120755-art-of-air-war.json"
     },
     {
-      "igdb_id": 6555,
-      "game_name": "Art of Balance",
-      "file": "missing/A/6555-art-of-balance.json"
-    },
-    {
       "igdb_id": 47654,
       "game_name": "Art of Balance Touch!",
       "file": "missing/A/47654-art-of-balance-touch.json"
@@ -113745,6 +113740,11 @@
       "igdb_id": 26964,
       "game_name": "Batman: The Telltale Series - Episode 2: Children of Arkham",
       "file": "missing/B/26964-batman-the-telltale-series-episode-2-children-of-arkham.json"
+    },
+    {
+      "igdb_id": 127561,
+      "game_name": "Batman: The Telltale Series - Shadows Mode",
+      "file": "missing/B/127561-batman-the-telltale-series-shadows-mode.json"
     },
     {
       "igdb_id": 10510,
@@ -151310,6 +151310,11 @@
       "igdb_id": 213470,
       "game_name": "Bluebird of Happiness",
       "file": "missing/B/213470-bluebird-of-happiness.json"
+    },
+    {
+      "igdb_id": 127558,
+      "game_name": "BlueBoi",
+      "file": "missing/B/127558-blueboi.json"
     },
     {
       "igdb_id": 134908,
@@ -197475,11 +197480,6 @@
       "igdb_id": 227524,
       "game_name": "Castle Story",
       "file": "missing/C/227524-castle-story.json"
-    },
-    {
-      "igdb_id": 3238,
-      "game_name": "Castle Story",
-      "file": "missing/C/3238-castle-story.json"
     },
     {
       "igdb_id": 79809,
@@ -293057,11 +293057,6 @@
       "file": "missing/D/275130-deadly-contagion.json"
     },
     {
-      "igdb_id": 4799,
-      "game_name": "Deadly Creatures",
-      "file": "missing/D/4799-deadly-creatures.json"
-    },
-    {
       "igdb_id": 87966,
       "game_name": "Deadly Cryptids",
       "file": "missing/D/87966-deadly-cryptids.json"
@@ -353022,6 +353017,11 @@
       "file": "missing/D/135883-duck-guardian-one.json"
     },
     {
+      "igdb_id": 127559,
+      "game_name": "Duck Hunt",
+      "file": "missing/D/127559-duck-hunt.json"
+    },
+    {
       "igdb_id": 220980,
       "game_name": "Duck Hunt",
       "file": "missing/D/220980-duck-hunt.json"
@@ -376905,11 +376905,6 @@
       "igdb_id": 353851,
       "game_name": "Empires of Steel",
       "file": "missing/E/353851-empires-of-steel.json"
-    },
-    {
-      "igdb_id": 18379,
-      "game_name": "Empires of the Undergrowth",
-      "file": "missing/E/18379-empires-of-the-undergrowth.json"
     },
     {
       "igdb_id": 403591,
@@ -425757,11 +425752,6 @@
       "file": "missing/F/216259-fingercrafts.json"
     },
     {
-      "igdb_id": 11742,
-      "game_name": "Fingered",
-      "file": "missing/F/11742-fingered.json"
-    },
-    {
       "igdb_id": 257917,
       "game_name": "Fingernail Floss",
       "file": "missing/F/257917-fingernail-floss.json"
@@ -472610,11 +472600,6 @@
       "igdb_id": 3279,
       "game_name": "Garshasp: The Monster Slayer",
       "file": "missing/G/3279-garshasp-the-monster-slayer.json"
-    },
-    {
-      "igdb_id": 320854,
-      "game_name": "Garten of Banban 0",
-      "file": "missing/G/320854-garten-of-banban-0.json"
     },
     {
       "igdb_id": 248696,
@@ -596980,11 +596965,6 @@
       "igdb_id": 220038,
       "game_name": "Inversion Institute",
       "file": "missing/I/220038-inversion-institute.json"
-    },
-    {
-      "igdb_id": 19608,
-      "game_name": "Inversus",
-      "file": "missing/I/19608-inversus.json"
     },
     {
       "igdb_id": 54590,
@@ -862447,6 +862427,16 @@
       "file": "missing/P/111835-pagan-absent-gods.json"
     },
     {
+      "igdb_id": 127566,
+      "game_name": "Pagan: Emporium",
+      "file": "missing/P/127566-pagan-emporium.json"
+    },
+    {
+      "igdb_id": 127565,
+      "game_name": "Pagan: Technopolis",
+      "file": "missing/P/127565-pagan-technopolis.json"
+    },
+    {
       "igdb_id": 35549,
       "game_name": "Paganitzu",
       "file": "missing/P/35549-paganitzu.json"
@@ -911022,6 +911012,11 @@
       "file": "missing/P/280747-pokemon-reminiscencia.json"
     },
     {
+      "igdb_id": 127564,
+      "game_name": "Pokémon Renegade Platinum",
+      "file": "missing/P/127564-pokemon-renegade-platinum.json"
+    },
+    {
       "igdb_id": 387603,
       "game_name": "Pokémon RenHERgade Platinum",
       "file": "missing/P/387603-pokemon-renhergade-platinum.json"
@@ -920290,11 +920285,6 @@
       "igdb_id": 52203,
       "game_name": "Power Down",
       "file": "missing/P/52203-power-down.json"
-    },
-    {
-      "igdb_id": 12719,
-      "game_name": "Power Drift",
-      "file": "missing/P/12719-power-drift.json"
     },
     {
       "igdb_id": 320349,
@@ -935185,11 +935175,6 @@
       "igdb_id": 361231,
       "game_name": "Prueba Humana",
       "file": "missing/P/361231-prueba-humana.json"
-    },
-    {
-      "igdb_id": 18134,
-      "game_name": "Prune",
-      "file": "missing/P/18134-prune.json"
     },
     {
       "igdb_id": 294134,
@@ -950960,11 +950945,6 @@
       "igdb_id": 44505,
       "game_name": "R-Type Tactics II: Operation Bitter Chocolate",
       "file": "missing/R/44505-r-type-tactics-ii-operation-bitter-chocolate.json"
-    },
-    {
-      "igdb_id": 4076,
-      "game_name": "R: Racing Evolution",
-      "file": "missing/R/4076-r-racing-evolution.json"
     },
     {
       "igdb_id": 54928,
@@ -1010287,11 +1010267,6 @@
       "file": "missing/S/332905-s-t-a-l-k-e-r-1989.json"
     },
     {
-      "igdb_id": 396025,
-      "game_name": "S.T.A.L.K.E.R. 2: Cost of Hope",
-      "file": "missing/S/396025-s-t-a-l-k-e-r-2-cost-of-hope.json"
-    },
-    {
       "igdb_id": 284360,
       "game_name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Collector's Edition",
       "file": "missing/S/284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json"
@@ -1044890,11 +1044865,6 @@
       "igdb_id": 361597,
       "game_name": "Shellborne",
       "file": "missing/S/361597-shellborne.json"
-    },
-    {
-      "igdb_id": 356430,
-      "game_name": "Shelldiver",
-      "file": "missing/S/356430-shelldiver.json"
     },
     {
       "igdb_id": 330101,
@@ -1111290,6 +1111260,11 @@
       "igdb_id": 80181,
       "game_name": "Spore Creature Keeper",
       "file": "missing/S/80181-spore-creature-keeper.json"
+    },
+    {
+      "igdb_id": 127556,
+      "game_name": "Spore Creatures",
+      "file": "missing/S/127556-spore-creatures.json"
     },
     {
       "igdb_id": 22587,
@@ -1202815,6 +1202790,11 @@
       "igdb_id": 250259,
       "game_name": "The Book of Warriors",
       "file": "missing/T/250259-the-book-of-warriors.json"
+    },
+    {
+      "igdb_id": 127557,
+      "game_name": "The Book of Watermarks",
+      "file": "missing/T/127557-the-book-of-watermarks.json"
     },
     {
       "igdb_id": 197360,
@@ -1299647,11 +1299627,6 @@
       "file": "missing/T/359490-train-sim-world-5-west-somerset-railway-route-add-on.json"
     },
     {
-      "igdb_id": 363370,
-      "game_name": "Train Sim World 6",
-      "file": "missing/T/363370-train-sim-world-6.json"
-    },
-    {
       "igdb_id": 396521,
       "game_name": "Train Sim World 6: BR Class 90 Electric Freight Loco",
       "file": "missing/T/396521-train-sim-world-6-br-class-90-electric-freight-loco.json"
@@ -1334290,11 +1334265,6 @@
       "igdb_id": 178508,
       "game_name": "Unistar",
       "file": "missing/U/178508-unistar.json"
-    },
-    {
-      "igdb_id": 19251,
-      "game_name": "Unit 13",
-      "file": "missing/U/19251-unit-13.json"
     },
     {
       "igdb_id": 170561,
@@ -1371190,11 +1371160,6 @@
       "igdb_id": 151019,
       "game_name": "Waterpark Simulator",
       "file": "missing/W/151019-waterpark-simulator.json"
-    },
-    {
-      "igdb_id": 348648,
-      "game_name": "Waterpark Simulator",
-      "file": "missing/W/348648-waterpark-simulator.json"
     },
     {
       "igdb_id": 391857,
