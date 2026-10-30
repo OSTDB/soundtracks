@@ -4408,6 +4408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reminisce | 306685 | [306685-reminisce.json](./306685-reminisce.json) |
 | Reminiscence | 154887 | [154887-reminiscence.json](./154887-reminiscence.json) |
 | Reminiscence | 360643 | [360643-reminiscence.json](./360643-reminiscence.json) |
+| Reminiscence in the Night | 176121 | [176121-reminiscence-in-the-night.json](./176121-reminiscence-in-the-night.json) |
 | Reminiscence in the Rain | 294369 | [294369-reminiscence-in-the-rain.json](./294369-reminiscence-in-the-rain.json) |
 | Reminiscience Overwrite | 184362 | [184362-reminiscience-overwrite.json](./184362-reminiscience-overwrite.json) |
 | Remission | 302090 | [302090-remission.json](./302090-remission.json) |
