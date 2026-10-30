@@ -6288,6 +6288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Game | 102562 | [102562-hidden-object-game.json](./102562-hidden-object-game.json) |
 | Hidden Object Hunt | 277446 | [277446-hidden-object-hunt.json](./277446-hidden-object-hunt.json) |
 | Hidden Object Hunt Classic | 172900 | [172900-hidden-object-hunt-classic.json](./172900-hidden-object-hunt-classic.json) |
+| Hidden Object Mania! | 146496 | [146496-hidden-object-mania.json](./146496-hidden-object-mania.json) |
 | Hidden Object Mysteries 3 | 198089 | [198089-hidden-object-mysteries-3.json](./198089-hidden-object-mysteries-3.json) |
 | Hidden Object Mystery: Ghostly Manor | 105961 | [105961-hidden-object-mystery-ghostly-manor.json](./105961-hidden-object-mystery-ghostly-manor.json) |
 | Hidden Object Secrets: Family Revenge - Collector's Edition | 276663 | [276663-hidden-object-secrets-family-revenge-collectors-edition.json](./276663-hidden-object-secrets-family-revenge-collectors-edition.json) |
