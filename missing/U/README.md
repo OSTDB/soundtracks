@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Hell | 83272 | [83272-ultra-hell.json](./83272-ultra-hell.json) |
 | Ultra Hot!! Pachi Game Spirit CR Evangelion: The First Gospel | 65557 | [65557-ultra-hot-pachi-game-spirit-cr-evangelion-the-first-gospel.json](./65557-ultra-hot-pachi-game-spirit-cr-evangelion-the-first-gospel.json) |
 | Ultra Hyperball | 51950 | [51950-ultra-hyperball.json](./51950-ultra-hyperball.json) |
+| Ultra Imposer | 155894 | [155894-ultra-imposer.json](./155894-ultra-imposer.json) |
 | Ultra Instinct Master | 208099 | [208099-ultra-instinct-master.json](./208099-ultra-instinct-master.json) |
 | Ultra Jet Girl | 320795 | [320795-ultra-jet-girl.json](./320795-ultra-jet-girl.json) |
 | Ultra Kaiju Monster Rancher: Starter Pack | 221697 | [221697-ultra-kaiju-monster-rancher-starter-pack.json](./221697-ultra-kaiju-monster-rancher-starter-pack.json) |
@@ -2622,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until None Remain: Battle Royale VR | 74556 | [74556-until-none-remain-battle-royale-vr.json](./74556-until-none-remain-battle-royale-vr.json) |
 | Until Oblivion | 309908 | [309908-until-oblivion.json](./309908-until-oblivion.json) |
 | Until September | 120047 | [120047-until-september.json](./120047-until-september.json) |
+| Until Sunset | 155917 | [155917-until-sunset.json](./155917-until-sunset.json) |
 | Until the End | 201051 | [201051-until-the-end.json](./201051-until-the-end.json) |
 | Until the Last | 59144 | [59144-until-the-last.json](./59144-until-the-last.json) |
 | Until the Last Philomel | 399077 | [399077-until-the-last-philomel.json](./399077-until-the-last-philomel.json) |
