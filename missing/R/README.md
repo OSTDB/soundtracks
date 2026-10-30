@@ -2227,8 +2227,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayxanber III | 37591 | [37591-rayxanber-iii.json](./37591-rayxanber-iii.json) |
 | Rayze | 176902 | [176902-rayze.json](./176902-rayze.json) |
 | Raz | 107758 | [107758-raz.json](./107758-raz.json) |
+| Raze | 165331 | [165331-raze.json](./165331-raze.json) |
 | Raze | 385686 | [385686-raze.json](./385686-raze.json) |
 | Raze | 91688 | [91688-raze.json](./91688-raze.json) |
+| Raze 2 | 165330 | [165330-raze-2.json](./165330-raze-2.json) |
 | Raze 2070 | 151193 | [151193-raze-2070.json](./151193-raze-2070.json) |
 | Raze: Dungeon Arena | 52010 | [52010-raze-dungeon-arena.json](./52010-raze-dungeon-arena.json) |
 | Raze's Hell | 5999 | [5999-razes-hell.json](./5999-razes-hell.json) |
@@ -2895,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realpolitiks II: Deluxe Edition | 159693 | [159693-realpolitiks-ii-deluxe-edition.json](./159693-realpolitiks-ii-deluxe-edition.json) |
 | Realpolitiks Mobile | 97304 | [97304-realpolitiks-mobile.json](./97304-realpolitiks-mobile.json) |
 | Realpolitiks: New Power | 116997 | [116997-realpolitiks-new-power.json](./116997-realpolitiks-new-power.json) |
+| RealRTCW | 165333 | [165333-realrtcw.json](./165333-realrtcw.json) |
 | RealRTCW: Agency Weapon Pack | 323254 | [323254-realrtcw-agency-weapon-pack.json](./323254-realrtcw-agency-weapon-pack.json) |
 | Realshot | 81642 | [81642-realshot.json](./81642-realshot.json) |
 | RealSports Baseball | 117409 | [117409-realsports-baseball.json](./117409-realsports-baseball.json) |
@@ -6078,6 +6081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhyolite | 335351 | [335351-rhyolite.json](./335351-rhyolite.json) |
 | Rhyth-Metria | 227167 | [227167-rhyth-metria.json](./227167-rhyth-metria.json) |
 | Rhythia | 234769 | [234769-rhythia.json](./234769-rhythia.json) |
+| Rhythium | 165298 | [165298-rhythium.json](./165298-rhythium.json) |
 | Rhythm | 124498 | [124498-rhythm.json](./124498-rhythm.json) |
 | Rhythm 'n Bullets | 140928 | [140928-rhythm-n-bullets.json](./140928-rhythm-n-bullets.json) |
 | Rhythm 'n Notes: Improve Your Music Skills | 79176 | [79176-rhythm-n-notes-improve-your-music-skills.json](./79176-rhythm-n-notes-improve-your-music-skills.json) |
@@ -9229,6 +9233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolldown | 228366 | [228366-rolldown.json](./228366-rolldown.json) |
 | Rolldown | 305979 | [305979-rolldown.json](./305979-rolldown.json) |
 | Rolled: A Pinball Nightmare | 305626 | [305626-rolled-a-pinball-nightmare.json](./305626-rolled-a-pinball-nightmare.json) |
+| Rollem.io | 165296 | [165296-rollem-io.json](./165296-rollem-io.json) |
 | Roller | 267528 | [267528-roller.json](./267528-roller.json) |
 | Roller | 99776 | [99776-roller.json](./99776-roller.json) |
 | Roller Aces | 40132 | [40132-roller-aces.json](./40132-roller-aces.json) |
