@@ -7078,6 +7078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising City | 236875 | [236875-rising-city.json](./236875-rising-city.json) |
 | Rising Constellation | 139367 | [139367-rising-constellation.json](./139367-rising-constellation.json) |
 | Rising Dead | 265125 | [265125-rising-dead.json](./265125-rising-dead.json) |
+| Rising Empires 2 | 176623 | [176623-rising-empires-2.json](./176623-rising-empires-2.json) |
 | Rising Evil VR | 112176 | [112176-rising-evil-vr.json](./112176-rising-evil-vr.json) |
 | Rising Fire | 112515 | [112515-rising-fire.json](./112515-rising-fire.json) |
 | Rising Hazard | 180405 | [180405-rising-hazard.json](./180405-rising-hazard.json) |
@@ -10535,6 +10536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruff City | 278937 | [278937-ruff-city.json](./278937-ruff-city.json) |
 | Ruff Day at the Office | 334554 | [334554-ruff-day-at-the-office.json](./334554-ruff-day-at-the-office.json) |
 | Ruff Ghanor | 271605 | [271605-ruff-ghanor.json](./271605-ruff-ghanor.json) |
+| Ruff Times | 176662 | [176662-ruff-times.json](./176662-ruff-times.json) |
 | Ruff Trigger: The Vanocore Conspiracy | 20539 | [20539-ruff-trigger-the-vanocore-conspiracy.json](./20539-ruff-trigger-the-vanocore-conspiracy.json) |
 | Ruffed Up | 406106 | [406106-ruffed-up.json](./406106-ruffed-up.json) |
 | RuffHousin | 178592 | [178592-ruffhousin.json](./178592-ruffhousin.json) |
@@ -11190,6 +11192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running MrBeast | 229338 | [229338-running-mrbeast.json](./229338-running-mrbeast.json) |
 | Running Naked Simulator 2019 | 110810 | [110810-running-naked-simulator-2019.json](./110810-running-naked-simulator-2019.json) |
 | Running Out | 343227 | [343227-running-out.json](./343227-running-out.json) |
+| Running Out of Emptiness | 176643 | [176643-running-out-of-emptiness.json](./176643-running-out-of-emptiness.json) |
 | Running Out of Spice | 179143 | [179143-running-out-of-spice.json](./179143-running-out-of-spice.json) |
 | Running Over Zombies | 204943 | [204943-running-over-zombies.json](./204943-running-over-zombies.json) |
 | Running Rich Racing | 234014 | [234014-running-rich-racing.json](./234014-running-rich-racing.json) |
