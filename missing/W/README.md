@@ -2714,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapons of War | 324727 | [324727-weapons-of-war.json](./324727-weapons-of-war.json) |
 | Weapons Simulator | 390165 | [390165-weapons-simulator.json](./390165-weapons-simulator.json) |
 | Weapons Simulator: OutDoor Edition | 180131 | [180131-weapons-simulator-outdoor-edition.json](./180131-weapons-simulator-outdoor-edition.json) |
+| Wear a rope | 127535 | [127535-wear-a-rope.json](./127535-wear-a-rope.json) |
 | WeAre Showtime | 114121 | [114121-weare-showtime.json](./114121-weare-showtime.json) |
 | WeAreDreaming | 243648 | [243648-wearedreaming.json](./243648-wearedreaming.json) |
 | Weasel Willy | 315277 | [315277-weasel-willy.json](./315277-weasel-willy.json) |
