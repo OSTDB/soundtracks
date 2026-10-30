@@ -4171,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reioku: Ghost House | 355229 | [355229-reioku-ghost-house.json](./355229-reioku-ghost-house.json) |
 | Reiten lernen mit Anna und Flocke | 364823 | [364823-reiten-lernen-mit-anna-und-flocke.json](./364823-reiten-lernen-mit-anna-und-flocke.json) |
 | reIterate() | 156545 | [156545-reiterate.json](./156545-reiterate.json) |
+| Reiterland: Meine Rennpferde | 173988 | [173988-reiterland-meine-rennpferde.json](./173988-reiterland-meine-rennpferde.json) |
 | Reiwa Outliers | 277358 | [277358-reiwa-outliers.json](./277358-reiwa-outliers.json) |
 | Rejected Custom Night | 299569 | [299569-rejected-custom-night.json](./299569-rejected-custom-night.json) |
 | Rejected Draft | 404174 | [404174-rejected-draft.json](./404174-rejected-draft.json) |
