@@ -1041,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed's world story | 246850 | [246850-eds-world-story.json](./246850-eds-world-story.json) |
 | Edacity Snakes | 277690 | [277690-edacity-snakes.json](./277690-edacity-snakes.json) |
 | Edain Mod | 356216 | [356216-edain-mod.json](./356216-edain-mod.json) |
+| Edaqa's Room: Prototype | 136623 | [136623-edaqas-room-prototype.json](./136623-edaqas-room-prototype.json) |
 | Edd Skeleton Game | 334004 | [334004-edd-skeleton-game.json](./334004-edd-skeleton-game.json) |
 | Edd the Duck | 265043 | [265043-edd-the-duck.json](./265043-edd-the-duck.json) |
 | Edd the Duck 2: Back with a Quack! | 265044 | [265044-edd-the-duck-2-back-with-a-quack.json](./265044-edd-the-duck-2-back-with-a-quack.json) |
