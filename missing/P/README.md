@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palisade Guardian | 387946 | [387946-palisade-guardian.json](./387946-palisade-guardian.json) |
 | Palitoman Adventure | 408085 | [408085-palitoman-adventure.json](./408085-palitoman-adventure.json) |
 | Palitron | 58199 | [58199-palitron.json](./58199-palitron.json) |
+| Palladise Island | 153066 | [153066-palladise-island.json](./153066-palladise-island.json) |
 | Palladise Island: Legendary Space | 228089 | [228089-palladise-island-legendary-space.json](./228089-palladise-island-legendary-space.json) |
 | Palladium | 250813 | [250813-palladium.json](./250813-palladium.json) |
 | Palladium: Adventure in Greece | 132798 | [132798-palladium-adventure-in-greece.json](./132798-palladium-adventure-in-greece.json) |
@@ -10744,6 +10745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolitiTruth | 102065 | [102065-polititruth.json](./102065-polititruth.json) |
 | Politon | 259099 | [259099-politon.json](./259099-politon.json) |
 | Polity | 149228 | [149228-polity.json](./149228-polity.json) |
+| Polka | 153071 | [153071-polka.json](./153071-polka.json) |
 | Polka Sheep | 305335 | [305335-polka-sheep.json](./305335-polka-sheep.json) |
 | Polku! | 366380 | [366380-polku.json](./366380-polku.json) |
 | Pollen | 311239 | [311239-pollen.json](./311239-pollen.json) |
@@ -16047,6 +16049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Put Your Brain On | 199728 | [199728-put-your-brain-on.json](./199728-put-your-brain-on.json) |
 | Put Your Brain on 2 | 234150 | [234150-put-your-brain-on-2.json](./234150-put-your-brain-on-2.json) |
 | Put Your Stamp On | 226434 | [226434-put-your-stamp-on.json](./226434-put-your-stamp-on.json) |
+| Putahe ng Ina Mo | 153080 | [153080-putahe-ng-ina-mo.json](./153080-putahe-ng-ina-mo.json) |
 | Putin Destroys Alien | 230901 | [230901-putin-destroys-alien.json](./230901-putin-destroys-alien.json) |
 | Putin In Jail | 214427 | [214427-putin-in-jail.json](./214427-putin-in-jail.json) |
 | Putin Jigsaw | 343309 | [343309-putin-jigsaw.json](./343309-putin-jigsaw.json) |
