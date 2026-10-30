@@ -1553,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tambourine | 399193 | [399193-tambourine.json](./399193-tambourine.json) |
 | Tambourine Tangerine | 315617 | [315617-tambourine-tangerine.json](./315617-tambourine-tangerine.json) |
 | Tame It Too! | 310745 | [310745-tame-it-too.json](./310745-tame-it-too.json) |
+| Tame It! | 171755 | [171755-tame-it.json](./171755-tame-it.json) |
 | Tame-a-goat-chi | 374642 | [374642-tame-a-goat-chi.json](./374642-tame-a-goat-chi.json) |
 | Tamed Faces Jigsaw Puzzle - Domesticated Animals | 89027 | [89027-tamed-faces-jigsaw-puzzle-domesticated-animals.json](./89027-tamed-faces-jigsaw-puzzle-domesticated-animals.json) |
 | Tamed: Chapter 1 | 186497 | [186497-tamed-chapter-1.json](./186497-tamed-chapter-1.json) |
@@ -17953,6 +17954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Strange Realm of Mine | 50506 | [50506-this-strange-realm-of-mine.json](./50506-this-strange-realm-of-mine.json) |
 | This Thing of Ours | 214162 | [214162-this-thing-of-ours.json](./214162-this-thing-of-ours.json) |
 | This This Rice | 233368 | [233368-this-this-rice.json](./233368-this-this-rice.json) |
+| This Throne Is Mine: The Card Game | 171727 | [171727-this-throne-is-mine-the-card-game.json](./171727-this-throne-is-mine-the-card-game.json) |
 | This too | 183940 | [183940-this-too.json](./183940-this-too.json) |
 | This Trip: Hunted in Forest | 178520 | [178520-this-trip-hunted-in-forest.json](./178520-this-trip-hunted-in-forest.json) |
 | This Village Girl Turned Out to Be Under a Lewdification Curse! | 83189 | [83189-this-village-girl-turned-out-to-be-under-a-lewdification-curse.json](./83189-this-village-girl-turned-out-to-be-under-a-lewdification-curse.json) |
@@ -23281,6 +23283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Reliable Adventure Party | 160243 | [160243-totally-reliable-adventure-party.json](./160243-totally-reliable-adventure-party.json) |
 | Totally Reliable Delivery Service | 114058 | [114058-totally-reliable-delivery-service.json](./114058-totally-reliable-delivery-service.json) |
 | Totally Reliable Delivery Service: Atari Attire | 381600 | [381600-totally-reliable-delivery-service-atari-attire.json](./381600-totally-reliable-delivery-service-atari-attire.json) |
+| Totally Reliable Delivery Service: Cyberfunk | 171723 | [171723-totally-reliable-delivery-service-cyberfunk.json](./171723-totally-reliable-delivery-service-cyberfunk.json) |
 | Totally Reliable Delivery Service: Deluxe Edition | 192292 | [192292-totally-reliable-delivery-service-deluxe-edition.json](./192292-totally-reliable-delivery-service-deluxe-edition.json) |
 | Totally Reliable Delivery Service: Dress Code | 308576 | [308576-totally-reliable-delivery-service-dress-code.json](./308576-totally-reliable-delivery-service-dress-code.json) |
 | Totally Rigged | 407170 | [407170-totally-rigged.json](./407170-totally-rigged.json) |
