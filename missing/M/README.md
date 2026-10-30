@@ -17385,6 +17385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musical Chairs with Bulldozers and Other Heavy Equipment | 232003 | [232003-musical-chairs-with-bulldozers-and-other-heavy-equipment.json](./232003-musical-chairs-with-bulldozers-and-other-heavy-equipment.json) |
 | Musical de Primeiro de Abril | 243404 | [243404-musical-de-primeiro-de-abril.json](./243404-musical-de-primeiro-de-abril.json) |
 | Musical Dominotes | 270066 | [270066-musical-dominotes.json](./270066-musical-dominotes.json) |
+| Musical Maze | 174486 | [174486-musical-maze.json](./174486-musical-maze.json) |
 | Musical Meteors | 357006 | [357006-musical-meteors.json](./357006-musical-meteors.json) |
 | Musical Range | 30819 | [30819-musical-range.json](./30819-musical-range.json) |
 | Musical Reflex | 80937 | [80937-musical-reflex.json](./80937-musical-reflex.json) |
@@ -17530,6 +17531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutilate-a-Doll 2 | 95937 | [95937-mutilate-a-doll-2.json](./95937-mutilate-a-doll-2.json) |
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
 | Mutiny Island | 120016 | [120016-mutiny-island.json](./120016-mutiny-island.json) |
+| Mutiny!!: Grozdana Kakra - Bonus Route | 174515 | [174515-mutiny-grozdana-kakra-bonus-route.json](./174515-mutiny-grozdana-kakra-bonus-route.json) |
 | MutoReRe | 85975 | [85975-mutorere.json](./85975-mutorere.json) |
 | Mutrix | 253449 | [253449-mutrix.json](./253449-mutrix.json) |
 | Mutsu Tonohohon | 4023 | [4023-mutsu-tonohohon.json](./4023-mutsu-tonohohon.json) |
