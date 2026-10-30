@@ -3435,6 +3435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 10: Platinum Edition | 118831 | [118831-lets-sing-10-platinum-edition.json](./118831-lets-sing-10-platinum-edition.json) |
 | Let's Sing 11 | 118832 | [118832-lets-sing-11.json](./118832-lets-sing-11.json) |
 | Let's Sing 11: Platinum Edition | 118833 | [118833-lets-sing-11-platinum-edition.json](./118833-lets-sing-11-platinum-edition.json) |
+| Let's Sing 12: Spanish Version | 134246 | [134246-lets-sing-12-spanish-version.json](./134246-lets-sing-12-spanish-version.json) |
 | Let's Sing 13 | 139930 | [139930-lets-sing-13.json](./139930-lets-sing-13.json) |
 | Let's Sing 16 | 53272 | [53272-lets-sing-16.json](./53272-lets-sing-16.json) |
 | Let's Sing 2014 | 60896 | [60896-lets-sing-2014.json](./60896-lets-sing-2014.json) |
@@ -3453,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2019: Mit Deutschen Hits! | 253001 | [253001-lets-sing-2019-mit-deutschen-hits.json](./253001-lets-sing-2019-mit-deutschen-hits.json) |
 | Let's Sing 2019: Platinum Edition | 237857 | [237857-lets-sing-2019-platinum-edition.json](./237857-lets-sing-2019-platinum-edition.json) |
 | Let's Sing 2020 | 123345 | [123345-lets-sing-2020.json](./123345-lets-sing-2020.json) |
+| Let's Sing 2020 with German Hits | 134233 | [134233-lets-sing-2020-with-german-hits.json](./134233-lets-sing-2020-with-german-hits.json) |
 | Let's Sing 2020: Hits Français et Internationaux | 329519 | [329519-lets-sing-2020-hits-francais-et-internationaux.json](./329519-lets-sing-2020-hits-francais-et-internationaux.json) |
 | Let's Sing 2020: Platinum Edition | 237858 | [237858-lets-sing-2020-platinum-edition.json](./237858-lets-sing-2020-platinum-edition.json) |
 | Let's Sing 2021: Asia | 321520 | [321520-lets-sing-2021-asia.json](./321520-lets-sing-2021-asia.json) |
