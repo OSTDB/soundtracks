@@ -5246,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dehumanized | 104054 | [104054-dehumanized.json](./104054-dehumanized.json) |
 | Dehydration | 374723 | [374723-dehydration.json](./374723-dehydration.json) |
 | Dei Agminum | 356252 | [356252-dei-agminum.json](./356252-dei-agminum.json) |
+| Deichgraf | 145880 | [145880-deichgraf.json](./145880-deichgraf.json) |
 | Deicide | 115368 | [115368-deicide.json](./115368-deicide.json) |
 | Deicide | 191481 | [191481-deicide.json](./191481-deicide.json) |
 | Deicide | 337312 | [337312-deicide.json](./337312-deicide.json) |
@@ -7237,6 +7238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Station | 130676 | [130676-devil-station.json](./130676-devil-station.json) |
 | Devil Stone | 110329 | [110329-devil-stone.json](./110329-devil-stone.json) |
 | Devil Summoner: Soul Hackers | 6883 | [6883-devil-summoner-soul-hackers.json](./6883-devil-summoner-soul-hackers.json) |
+| Devil Summoner: Soul Hackers - Akuma Zensho | 145852 | [145852-devil-summoner-soul-hackers-akuma-zensho.json](./145852-devil-summoner-soul-hackers-akuma-zensho.json) |
 | Devil Summoner: Soul Hackers Intruder | 139069 | [139069-devil-summoner-soul-hackers-intruder.json](./139069-devil-summoner-soul-hackers-intruder.json) |
 | Devil Summoner: Soul Hackers New Generation | 139091 | [139091-devil-summoner-soul-hackers-new-generation.json](./139091-devil-summoner-soul-hackers-new-generation.json) |
 | Devil Survivor 2: The Extra World | 139136 | [139136-devil-survivor-2-the-extra-world.json](./139136-devil-survivor-2-the-extra-world.json) |
@@ -13726,6 +13728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonKill3D | 95911 | [95911-dragonkill3d.json](./95911-dragonkill3d.json) |
 | Dragonlance: Veil of the Last Sanctum | 415785 | [415785-dragonlance-veil-of-the-last-sanctum.json](./415785-dragonlance-veil-of-the-last-sanctum.json) |
 | DragonLoop | 344528 | [344528-dragonloop.json](./344528-dragonloop.json) |
+| Dragonlord Chronicles MMO | 145962 | [145962-dragonlord-chronicles-mmo.json](./145962-dragonlord-chronicles-mmo.json) |
 | DragonMirrored with Hyoga & Magma | 305769 | [305769-dragonmirrored-with-hyoga-and-magma.json](./305769-dragonmirrored-with-hyoga-and-magma.json) |
 | Dragonnet Havoc | 361725 | [361725-dragonnet-havoc.json](./361725-dragonnet-havoc.json) |
 | Dragonology | 21095 | [21095-dragonology.json](./21095-dragonology.json) |
@@ -16726,6 +16729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DungeonUp | 34808 | [34808-dungeonup.json](./34808-dungeonup.json) |
 | Dungetris | 32981 | [32981-dungetris.json](./32981-dungetris.json) |
 | Dungeum | 310793 | [310793-dungeum.json](./310793-dungeum.json) |
+| Dungholes | 145959 | [145959-dungholes.json](./145959-dungholes.json) |
 | DunginDragin | 386400 | [386400-dungindragin.json](./386400-dungindragin.json) |
 | Dungleon | 191637 | [191637-dungleon.json](./191637-dungleon.json) |
 | Dungless 2 | 164512 | [164512-dungless-2.json](./164512-dungless-2.json) |
