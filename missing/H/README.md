@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Reissues | 196840 | [196840-half-life-reissues.json](./196840-half-life-reissues.json) |
 | Half-Life: Residual Life | 196836 | [196836-half-life-residual-life.json](./196836-half-life-residual-life.json) |
 | Half-Life: Residual Point | 196837 | [196837-half-life-residual-point.json](./196837-half-life-residual-point.json) |
+| Half-Life: Restored | 148775 | [148775-half-life-restored.json](./148775-half-life-restored.json) |
 | Half-Life: Retrograde | 350502 | [350502-half-life-retrograde.json](./350502-half-life-retrograde.json) |
 | Half-Life: Savior Complex | 331937 | [331937-half-life-savior-complex.json](./331937-half-life-savior-complex.json) |
 | Half-Life: Science and Industry | 221791 | [221791-half-life-science-and-industry.json](./221791-half-life-science-and-industry.json) |
@@ -6672,6 +6673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higanjima | 94205 | [94205-higanjima.json](./94205-higanjima.json) |
 | Higemaru Makaijima: Nanatsu no Shima Daibouken | 48473 | [48473-higemaru-makaijima-nanatsu-no-shima-daibouken.json](./48473-higemaru-makaijima-nanatsu-no-shima-daibouken.json) |
 | Higgledy Piggledy | 78916 | [78916-higgledy-piggledy.json](./78916-higgledy-piggledy.json) |
+| Higgs Boson: Minimal Puzzle | 148739 | [148739-higgs-boson-minimal-puzzle.json](./148739-higgs-boson-minimal-puzzle.json) |
 | Higgs Boson: Puzzle Collection | 344492 | [344492-higgs-boson-puzzle-collection.json](./344492-higgs-boson-puzzle-collection.json) |
 | Higgs Boson: Timed Puzzle | 173238 | [173238-higgs-boson-timed-puzzle.json](./173238-higgs-boson-timed-puzzle.json) |
 | High & Low: Aim! 26 Consecutive Wins! | 151941 | [151941-high-and-low-aim-26-consecutive-wins.json](./151941-high-and-low-aim-26-consecutive-wins.json) |
