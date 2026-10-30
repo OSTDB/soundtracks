@@ -4219,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EQ Survival Manual | 406819 | [406819-eq-survival-manual.json](./406819-eq-survival-manual.json) |
 | Eqdrive.io | 195550 | [195550-eqdrive-io.json](./195550-eqdrive-io.json) |
 | Eqela Space Destroyer | 100701 | [100701-eqela-space-destroyer.json](./100701-eqela-space-destroyer.json) |
+| Eqi | 142629 | [142629-eqi.json](./142629-eqi.json) |
 | Eqqo | 301225 | [301225-eqqo.json](./301225-eqqo.json) |
 | Equaboreal 12.21 | 133903 | [133903-equaboreal-12-21.json](./133903-equaboreal-12-21.json) |
 | Equadle | 363029 | [363029-equadle.json](./363029-equadle.json) |
@@ -5124,6 +5125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EscapeTheBrainrots | 350932 | [350932-escapethebrainrots.json](./350932-escapethebrainrots.json) |
 | EscapeTrick: 35 Fateful Enigmas | 85120 | [85120-escapetrick-35-fateful-enigmas.json](./85120-escapetrick-35-fateful-enigmas.json) |
 | EscapeVr | 343762 | [343762-escapevr.json](./343762-escapevr.json) |
+| EscapeVR: The Basement | 142639 | [142639-escapevr-the-basement.json](./142639-escapevr-the-basement.json) |
 | Escapeworld Dilemma | 150526 | [150526-escapeworld-dilemma.json](./150526-escapeworld-dilemma.json) |
 | Escaping | 180577 | [180577-escaping.json](./180577-escaping.json) |
 | Escaping a Fireworks Factory: Nyanzou & Kumakichi - Escape Game | 240225 | [240225-escaping-a-fireworks-factory-nyanzou-and-kumakichi-escape-game.json](./240225-escaping-a-fireworks-factory-nyanzou-and-kumakichi-escape-game.json) |
@@ -7559,6 +7561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyewitness Virtual Reality: Cat | 361603 | [361603-eyewitness-virtual-reality-cat.json](./361603-eyewitness-virtual-reality-cat.json) |
 | Eyewitness Virtual Reality: Dinosaur Hunter | 198384 | [198384-eyewitness-virtual-reality-dinosaur-hunter.json](./198384-eyewitness-virtual-reality-dinosaur-hunter.json) |
 | Eyo: Jump 'n' Run RPG | 220022 | [220022-eyo-jump-n-run-rpg.json](./220022-eyo-jump-n-run-rpg.json) |
+| Eyra: The Crow Maiden | 142067 | [142067-eyra-the-crow-maiden.json](./142067-eyra-the-crow-maiden.json) |
 | EZ Knight | 233390 | [233390-ez-knight.json](./233390-ez-knight.json) |
 | EZ Message Sender | 85964 | [85964-ez-message-sender.json](./85964-ez-message-sender.json) |
 | EZ Muze: Hamst3r Edition | 92651 | [92651-ez-muze-hamst3r-edition.json](./92651-ez-muze-hamst3r-edition.json) |
