@@ -4109,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraLounge | 418912 | [418912-terralounge.json](./418912-terralounge.json) |
 | Terralysia | 284591 | [284591-terralysia.json](./284591-terralysia.json) |
 | Terramachi: Battle Card Game | 215007 | [215007-terramachi-battle-card-game.json](./215007-terramachi-battle-card-game.json) |
+| Terramancer | 128153 | [128153-terramancer.json](./128153-terramancer.json) |
 | TerraMartis4x | 157050 | [157050-terramartis4x.json](./157050-terramartis4x.json) |
 | Terramystra | 383713 | [383713-terramystra.json](./383713-terramystra.json) |
 | Terrance the Flying Eyeball | 60915 | [60915-terrance-the-flying-eyeball.json](./60915-terrance-the-flying-eyeball.json) |
@@ -5396,6 +5397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Art of Murder | 91354 | [91354-the-art-of-murder.json](./91354-the-art-of-murder.json) |
 | The Art of Tortoise Walking | 403187 | [403187-the-art-of-tortoise-walking.json](./403187-the-art-of-tortoise-walking.json) |
 | THE ART: Metamorphosis | 123492 | [123492-the-art-metamorphosis.json](./123492-the-art-metamorphosis.json) |
+| The Artefacts lost in the Galaxy | 128158 | [128158-the-artefacts-lost-in-the-galaxy.json](./128158-the-artefacts-lost-in-the-galaxy.json) |
 | The Artifact of Ancients | 301838 | [301838-the-artifact-of-ancients.json](./301838-the-artifact-of-ancients.json) |
 | The Artifact Protocol | 365775 | [365775-the-artifact-protocol.json](./365775-the-artifact-protocol.json) |
 | The Artifactory | 334179 | [334179-the-artifactory.json](./334179-the-artifactory.json) |
@@ -8270,6 +8272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The fairy tale you don't know | 169046 | [169046-the-fairy-tale-you-dont-know.json](./169046-the-fairy-tale-you-dont-know.json) |
 | The Fairy's Song | 140405 | [140405-the-fairys-song.json](./140405-the-fairys-song.json) |
 | The Fairyland Story | 205665 | [205665-the-fairyland-story.json](./205665-the-fairyland-story.json) |
+| The Fairytale of Death | 128164 | [128164-the-fairytale-of-death.json](./128164-the-fairytale-of-death.json) |
 | The Faked | 373756 | [373756-the-faked.json](./373756-the-faked.json) |
 | The Falconeer: Day One Edition | 139938 | [139938-the-falconeer-day-one-edition.json](./139938-the-falconeer-day-one-edition.json) |
 | The Falconeer: Deluxe Edition | 154187 | [154187-the-falconeer-deluxe-edition.json](./154187-the-falconeer-deluxe-edition.json) |
@@ -9023,6 +9026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost of You | 113236 | [113236-the-ghost-of-you.json](./113236-the-ghost-of-you.json) |
 | The Ghost Ship | 111662 | [111662-the-ghost-ship.json](./111662-the-ghost-ship.json) |
 | The Ghost That Lives Inside My Piano | 326123 | [326123-the-ghost-that-lives-inside-my-piano.json](./326123-the-ghost-that-lives-inside-my-piano.json) |
+| The Ghost Tower | 128170 | [128170-the-ghost-tower.json](./128170-the-ghost-tower.json) |
 | The Ghost Town Adventure | 108284 | [108284-the-ghost-town-adventure.json](./108284-the-ghost-town-adventure.json) |
 | The Ghost Town Treasure | 298520 | [298520-the-ghost-town-treasure.json](./298520-the-ghost-town-treasure.json) |
 | The Ghost Train | 135839 | [135839-the-ghost-train.json](./135839-the-ghost-train.json) |
@@ -10154,6 +10158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island of Spirits | 149227 | [149227-the-island-of-spirits.json](./149227-the-island-of-spirits.json) |
 | The Island of Thugs | 369698 | [369698-the-island-of-thugs.json](./369698-the-island-of-thugs.json) |
 | The Island Rescue | 236005 | [236005-the-island-rescue.json](./236005-the-island-rescue.json) |
+| The Island Story | 128175 | [128175-the-island-story.json](./128175-the-island-story.json) |
 | The Island: Escape Room | 289992 | [289992-the-island-escape-room.json](./289992-the-island-escape-room.json) |
 | The Island: Into the Mist | 173095 | [173095-the-island-into-the-mist.json](./173095-the-island-into-the-mist.json) |
 | The Island: King's Order | 164443 | [164443-the-island-kings-order.json](./164443-the-island-kings-order.json) |
@@ -16825,6 +16830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: The Telltale Definitive Series - Protector Pack | 117677 | [117677-the-walking-dead-the-telltale-definitive-series-protector-pack.json](./117677-the-walking-dead-the-telltale-definitive-series-protector-pack.json) |
 | The Walking Dead: The Telltale Definitive Series - Signature Pack | 117679 | [117679-the-walking-dead-the-telltale-definitive-series-signature-pack.json](./117679-the-walking-dead-the-telltale-definitive-series-signature-pack.json) |
 | The Walking Dead: The Telltale Series Collection | 77489 | [77489-the-walking-dead-the-telltale-series-collection.json](./77489-the-walking-dead-the-telltale-series-collection.json) |
+| The Walking Evil | 128157 | [128157-the-walking-evil.json](./128157-the-walking-evil.json) |
 | The Walking Fish | 232911 | [232911-the-walking-fish.json](./232911-the-walking-fish.json) |
 | The Walking Hero | 194816 | [194816-the-walking-hero.json](./194816-the-walking-hero.json) |
 | The Walking Trade | 345095 | [345095-the-walking-trade.json](./345095-the-walking-trade.json) |
@@ -21766,6 +21772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Rescue! 4 | 95684 | [95684-to-the-rescue-4.json](./95684-to-the-rescue-4.json) |
 | To the Rescue! 5 | 87221 | [87221-to-the-rescue-5.json](./87221-to-the-rescue-5.json) |
 | To The Rescue!: Deluxe Edition | 240054 | [240054-to-the-rescue-deluxe-edition.json](./240054-to-the-rescue-deluxe-edition.json) |
+| To The Sea : The Courier | 128166 | [128166-to-the-sea-the-courier.json](./128166-to-the-sea-the-courier.json) |
 | To the Snowland | 167372 | [167372-to-the-snowland.json](./167372-to-the-snowland.json) |
 | To the Stars | 211235 | [211235-to-the-stars.json](./211235-to-the-stars.json) |
 | To the Stars | 336917 | [336917-to-the-stars.json](./336917-to-the-stars.json) |
