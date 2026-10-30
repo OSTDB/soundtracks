@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iFishing 3 | 97447 | [97447-ifishing-3.json](./97447-ifishing-3.json) |
 | IFO | 199772 | [199772-ifo.json](./199772-ifo.json) |
 | Ifrit | 215344 | [215344-ifrit.json](./215344-ifrit.json) |
+| IFSCL: A Code Lyoko Fangame | 151975 | [151975-ifscl-a-code-lyoko-fangame.json](./151975-ifscl-a-code-lyoko-fangame.json) |
 | IfSunSets | 272172 | [272172-ifsunsets.json](./272172-ifsunsets.json) |
 | Iftar for Two | 364233 | [364233-iftar-for-two.json](./364233-iftar-for-two.json) |
 | Ifu | 302488 | [302488-ifu.json](./302488-ifu.json) |
@@ -5332,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is it you? | 188869 | [188869-is-it-you.json](./188869-is-it-you.json) |
 | Is It You? | 212569 | [212569-is-it-you.json](./212569-is-it-you.json) |
 | Is Land of Mysterious | 211973 | [211973-is-land-of-mysterious.json](./211973-is-land-of-mysterious.json) |
+| Is Lupin Still Flirting? | 151959 | [151959-is-lupin-still-flirting.json](./151959-is-lupin-still-flirting.json) |
 | Is That a Human Organ? | 414414 | [414414-is-that-a-human-organ.json](./414414-is-that-a-human-organ.json) |
 | Is the Vat Utopia or Dystopia? | 355551 | [355551-is-the-vat-utopia-or-dystopia.json](./355551-is-the-vat-utopia-or-dystopia.json) |
 | Is There a Way? | 336623 | [336623-is-there-a-way.json](./336623-is-there-a-way.json) |
