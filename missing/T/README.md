@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Doka! to Oomori Nanadaime | 123418 | [123418-taiko-no-tatsujin-doka-to-oomori-nanadaime.json](./123418-taiko-no-tatsujin-doka-to-oomori-nanadaime.json) |
 | Taiko no Tatsujin: Doki! Shinkyoku Darake no Haru Matsuri | 123431 | [123431-taiko-no-tatsujin-doki-shinkyoku-darake-no-haru-matsuri.json](./123431-taiko-no-tatsujin-doki-shinkyoku-darake-no-haru-matsuri.json) |
 | Taiko no Tatsujin: Drum 'n' Fun! | 104992 | [104992-taiko-no-tatsujin-drum-n-fun.json](./104992-taiko-no-tatsujin-drum-n-fun.json) |
+| Taiko no Tatsujin: Drum 'n' Fun! - Collector's Edition | 136073 | [136073-taiko-no-tatsujin-drum-n-fun-collectors-edition.json](./136073-taiko-no-tatsujin-drum-n-fun-collectors-edition.json) |
 | Taiko no Tatsujin: Drum 'n' Fun! Bundle | 136119 | [136119-taiko-no-tatsujin-drum-n-fun-bundle.json](./136119-taiko-no-tatsujin-drum-n-fun-bundle.json) |
 | Taiko no Tatsujin: Drum Session | 76643 | [76643-taiko-no-tatsujin-drum-session.json](./76643-taiko-no-tatsujin-drum-session.json) |
 | Taiko No Tatsujin: Drum Session! - Deluxe Edition | 118719 | [118719-taiko-no-tatsujin-drum-session-deluxe-edition.json](./118719-taiko-no-tatsujin-drum-session-deluxe-edition.json) |
@@ -11237,6 +11238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel II - All Ride-Alongs | 124812 | [124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json](./124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json) |
 | The Legend of Heroes: Trails of Cold Steel II - Relentless Edition | 167087 | [167087-the-legend-of-heroes-trails-of-cold-steel-ii-relentless-edition.json](./167087-the-legend-of-heroes-trails-of-cold-steel-ii-relentless-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Digital Limited Edition | 169217 | [169217-the-legend-of-heroes-trails-of-cold-steel-iii-digital-limited-edition.json](./169217-the-legend-of-heroes-trails-of-cold-steel-iii-digital-limited-edition.json) |
+| The Legend of Heroes: Trails of Cold Steel III - Early Enrollment Edition | 136071 | [136071-the-legend-of-heroes-trails-of-cold-steel-iii-early-enrollment-edition.json](./136071-the-legend-of-heroes-trails-of-cold-steel-iii-early-enrollment-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Kiseki Box | 136744 | [136744-the-legend-of-heroes-trails-of-cold-steel-iii-kiseki-box.json](./136744-the-legend-of-heroes-trails-of-cold-steel-iii-kiseki-box.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Limited Kiseki Box | 167067 | [167067-the-legend-of-heroes-trails-of-cold-steel-iii-limited-kiseki-box.json](./167067-the-legend-of-heroes-trails-of-cold-steel-iii-limited-kiseki-box.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Attachment Set | 224426 | [224426-the-legend-of-heroes-trails-of-cold-steel-iv-attachment-set.json](./224426-the-legend-of-heroes-trails-of-cold-steel-iv-attachment-set.json) |
@@ -15023,6 +15025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sinkhole | 408117 | [408117-the-sinkhole.json](./408117-the-sinkhole.json) |
 | The Sinking City 2 | 289696 | [289696-the-sinking-city-2.json](./289696-the-sinking-city-2.json) |
 | The Sinking City Remastered | 343363 | [343363-the-sinking-city-remastered.json](./343363-the-sinking-city-remastered.json) |
+| The Sinking City: Day One Edition | 136052 | [136052-the-sinking-city-day-one-edition.json](./136052-the-sinking-city-day-one-edition.json) |
 | The Sinking City: Investigator Pack | 308567 | [308567-the-sinking-city-investigator-pack.json](./308567-the-sinking-city-investigator-pack.json) |
 | The Sinking City: Merciful Madness | 142240 | [142240-the-sinking-city-merciful-madness.json](./142240-the-sinking-city-merciful-madness.json) |
 | The Sinking City: Necronomicon Edition | 117154 | [117154-the-sinking-city-necronomicon-edition.json](./117154-the-sinking-city-necronomicon-edition.json) |
@@ -25206,10 +25209,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2: Tees Valley Line - Darlington: Saltburn-by-the-Sea Route | 156503 | [156503-train-sim-world-2-tees-valley-line-darlington-saltburn-by-the-sea-route.json](./156503-train-sim-world-2-tees-valley-line-darlington-saltburn-by-the-sea-route.json) |
 | Train Sim World 2: West Cornwall Local: Penzance - St Austell & St Ives Route | 193157 | [193157-train-sim-world-2-west-cornwall-local-penzance-st-austell-and-st-ives-route.json](./193157-train-sim-world-2-west-cornwall-local-penzance-st-austell-and-st-ives-route.json) |
 | Train Sim World 2: West Somerset Railway Route Add-On | 156514 | [156514-train-sim-world-2-west-somerset-railway-route-add-on.json](./156514-train-sim-world-2-west-somerset-railway-route-add-on.json) |
+| Train Sim World 2020 | 136069 | [136069-train-sim-world-2020.json](./136069-train-sim-world-2020.json) |
 | Train Sim World 2020: Amtrak SW1000R Loco | 162255 | [162255-train-sim-world-2020-amtrak-sw1000r-loco.json](./162255-train-sim-world-2020-amtrak-sw1000r-loco.json) |
 | Train Sim World 2020: Caltrain MP15DC Diesel Switcher Loco | 161736 | [161736-train-sim-world-2020-caltrain-mp15dc-diesel-switcher-loco.json](./161736-train-sim-world-2020-caltrain-mp15dc-diesel-switcher-loco.json) |
 | Train Sim World 2020: Caltrain MP36PH-3C ‘Baby Bullet’ Loco | 161733 | [161733-train-sim-world-2020-caltrain-mp36ph-3c-baby-bullet-loco.json](./161733-train-sim-world-2020-caltrain-mp36ph-3c-baby-bullet-loco.json) |
 | Train Sim World 2020: Canadian National Oakville Subdivision - Hamilton: Oakville Route | 156871 | [156871-train-sim-world-2020-canadian-national-oakville-subdivision-hamilton-oakville-route.json](./156871-train-sim-world-2020-canadian-national-oakville-subdivision-hamilton-oakville-route.json) |
+| Train Sim World 2020: Collector's Edition | 136070 | [136070-train-sim-world-2020-collectors-edition.json](./136070-train-sim-world-2020-collectors-edition.json) |
 | Train Sim World 2020: East Coastway - Brighton: Eastbourne & Seaford Route | 156873 | [156873-train-sim-world-2020-east-coastway-brighton-eastbourne-and-seaford-route.json](./156873-train-sim-world-2020-east-coastway-brighton-eastbourne-and-seaford-route.json) |
 | Train Sim World 2020: Hauptstrecke Rhein-Ruhr - Duisburg: Bochum Route | 156868 | [156868-train-sim-world-2020-hauptstrecke-rhein-ruhr-duisburg-bochum-route.json](./156868-train-sim-world-2020-hauptstrecke-rhein-ruhr-duisburg-bochum-route.json) |
 | Train Sim World 2020: Long Island Rail Road - New York: Hicksville Route | 156862 | [156862-train-sim-world-2020-long-island-rail-road-new-york-hicksville-route.json](./156862-train-sim-world-2020-long-island-rail-road-new-york-hicksville-route.json) |
