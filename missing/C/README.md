@@ -5933,6 +5933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Cubed | 90436 | [90436-chess-cubed.json](./90436-chess-cubed.json) |
 | Chess Defense Saga | 234200 | [234200-chess-defense-saga.json](./234200-chess-defense-saga.json) |
 | Chess Deluxe | 86703 | [86703-chess-deluxe.json](./86703-chess-deluxe.json) |
+| Chess Destroyer | 158376 | [158376-chess-destroyer.json](./158376-chess-destroyer.json) |
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
 | Chess Dungeons: Shubousha | 215508 | [215508-chess-dungeons-shubousha.json](./215508-chess-dungeons-shubousha.json) |
 | Chess Empire | 361316 | [361316-chess-empire.json](./361316-chess-empire.json) |
@@ -9991,6 +9992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CodeSpells | 17861 | [17861-codespells.json](./17861-codespells.json) |
 | Codestar Cromo Land | 369004 | [369004-codestar-cromo-land.json](./369004-codestar-cromo-land.json) |
 | CodeStrike | 368500 | [368500-codestrike.json](./368500-codestrike.json) |
+| CodeWalkers | 158363 | [158363-codewalkers.json](./158363-codewalkers.json) |
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
 | CodeX | 276671 | [276671-codex.json](./276671-codex.json) |
 | Codex Combat | 392180 | [392180-codex-combat.json](./392180-codex-combat.json) |
