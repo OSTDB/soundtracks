@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Mushrooms | 150421 | [150421-100-hidden-mushrooms.json](./150421-100-hidden-mushrooms.json) |
 | 100 Hidden Pandas: Village | 343124 | [343124-100-hidden-pandas-village.json](./343124-100-hidden-pandas-village.json) |
 | 100 Hidden Rams | 163750 | [163750-100-hidden-rams.json](./163750-100-hidden-rams.json) |
+| 100 Hidden Snails | 166939 | [166939-100-hidden-snails.json](./166939-100-hidden-snails.json) |
 | 100 Hidden Turtles | 203632 | [203632-100-hidden-turtles.json](./203632-100-hidden-turtles.json) |
 | 100 Hiddensaurs | 306946 | [306946-100-hiddensaurs.json](./306946-100-hiddensaurs.json) |
 | 100 Hiddensaurs: Egypt | 325503 | [325503-100-hiddensaurs-egypt.json](./325503-100-hiddensaurs-egypt.json) |
@@ -1610,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 222.22 | 366269 | [366269-222-22.json](./366269-222-22.json) |
 | 2222 Abyss of the Universe | 329437 | [329437-2222-abyss-of-the-universe.json](./329437-2222-abyss-of-the-universe.json) |
 | 2236 A.D. | 101249 | [101249-2236-a-d.json](./101249-2236-a-d.json) |
+| 2236 A.D. Secretary Stories | 166936 | [166936-2236-a-d-secretary-stories.json](./166936-2236-a-d-secretary-stories.json) |
 | 2248: Number Puzzle Block Game | 208906 | [208906-2248-number-puzzle-block-game.json](./208906-2248-number-puzzle-block-game.json) |
 | 2260 | 106385 | [106385-2260.json](./106385-2260.json) |
 | 23 Miles Deep | 172555 | [172555-23-miles-deep.json](./172555-23-miles-deep.json) |
