@@ -8760,6 +8760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frontier Outskirts VR | 91192 | [91192-the-frontier-outskirts-vr.json](./91192-the-frontier-outskirts-vr.json) |
 | The Frost | 28872 | [28872-the-frost.json](./28872-the-frost.json) |
 | The Frost Rebirth | 144000 | [144000-the-frost-rebirth.json](./144000-the-frost-rebirth.json) |
+| The Frosted | 160030 | [160030-the-frosted.json](./160030-the-frosted.json) |
 | The Frosts: First Ones | 153919 | [153919-the-frosts-first-ones.json](./153919-the-frosts-first-ones.json) |
 | The Frozen Dead Wait | 302733 | [302733-the-frozen-dead-wait.json](./302733-the-frozen-dead-wait.json) |
 | The Frozen Garden | 257800 | [257800-the-frozen-garden.json](./257800-the-frozen-garden.json) |
@@ -13174,6 +13175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Past | 236225 | [236225-the-past.json](./236225-the-past.json) |
 | The Past Rhapsody | 211056 | [211056-the-past-rhapsody.json](./211056-the-past-rhapsody.json) |
 | The Pasture | 30017 | [30017-the-pasture.json](./30017-the-pasture.json) |
+| The Patagonians | 160042 | [160042-the-patagonians.json](./160042-the-patagonians.json) |
 | The Patashnik Parable | 176434 | [176434-the-patashnik-parable.json](./176434-the-patashnik-parable.json) |
 | The Patchmaker's Workshop | 313089 | [313089-the-patchmakers-workshop.json](./313089-the-patchmakers-workshop.json) |
 | The Path | 10199 | [10199-the-path.json](./10199-the-path.json) |
@@ -16227,6 +16229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trolley Solution | 345954 | [345954-the-trolley-solution.json](./345954-the-trolley-solution.json) |
 | The Trolling Adventure | 384008 | [384008-the-trolling-adventure.json](./384008-the-trolling-adventure.json) |
 | The Trolls in Crazyland | 48706 | [48706-the-trolls-in-crazyland.json](./48706-the-trolls-in-crazyland.json) |
+| The Troop | 160046 | [160046-the-troop.json](./160046-the-troop.json) |
 | The Trooper | 190864 | [190864-the-trooper.json](./190864-the-trooper.json) |
 | The Trotties Adventure | 273315 | [273315-the-trotties-adventure.json](./273315-the-trotties-adventure.json) |
 | The Trouble: Defense | 316661 | [316661-the-trouble-defense.json](./316661-the-trouble-defense.json) |
@@ -17784,6 +17787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thigh Climbers | 126342 | [126342-thigh-climbers.json](./126342-thigh-climbers.json) |
 | Thimbleweed Park | 10232 | [10232-thimbleweed-park.json](./10232-thimbleweed-park.json) |
 | Thimbleweed Park 2 | 411759 | [411759-thimbleweed-park-2.json](./411759-thimbleweed-park-2.json) |
+| Thin Ice | 160026 | [160026-thin-ice.json](./160026-thin-ice.json) |
 | Thin Judgment | 43090 | [43090-thin-judgment.json](./43090-thin-judgment.json) |
 | Thin Line | 333759 | [333759-thin-line.json](./333759-thin-line.json) |
 | Thin Threads | 332415 | [332415-thin-threads.json](./332415-thin-threads.json) |
@@ -24097,6 +24101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Defender: Hero Wars | 207270 | [207270-tower-defender-hero-wars.json](./207270-tower-defender-hero-wars.json) |
 | Tower Defense | 213813 | [213813-tower-defense.json](./213813-tower-defense.json) |
 | Tower Defense Bundle | 199779 | [199779-tower-defense-bundle.json](./199779-tower-defense-bundle.json) |
+| Tower Defense Hero | 160032 | [160032-tower-defense-hero.json](./160032-tower-defense-hero.json) |
 | Tower Defense King | 208379 | [208379-tower-defense-king.json](./208379-tower-defense-king.json) |
 | Tower Defense Ultimate | 32900 | [32900-tower-defense-ultimate.json](./32900-tower-defense-ultimate.json) |
 | Tower Defense: Defender of the Kingdom | 122130 | [122130-tower-defense-defender-of-the-kingdom.json](./122130-tower-defense-defender-of-the-kingdom.json) |
