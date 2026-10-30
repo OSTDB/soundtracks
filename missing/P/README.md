@@ -1842,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallax | 384255 | [384255-parallax.json](./384255-parallax.json) |
 | Parallax Tunnel | 149540 | [149540-parallax-tunnel.json](./149540-parallax-tunnel.json) |
 | Parallel | 103267 | [103267-parallel.json](./103267-parallel.json) |
+| Parallel | 136665 | [136665-parallel.json](./136665-parallel.json) |
 | Parallel | 185341 | [185341-parallel.json](./185341-parallel.json) |
 | Parallel | 259643 | [259643-parallel.json](./259643-parallel.json) |
 | Parallel | 280166 | [280166-parallel.json](./280166-parallel.json) |
@@ -2539,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Past Synergy | 195079 | [195079-past-synergy.json](./195079-past-synergy.json) |
 | Pasta La Vista Super Mario Bros. | 392840 | [392840-pasta-la-vista-super-mario-bros.json](./392840-pasta-la-vista-super-mario-bros.json) |
 | Pasta Master | 160263 | [160263-pasta-master.json](./160263-pasta-master.json) |
+| Pastel | 136629 | [136629-pastel.json](./136629-pastel.json) |
 | Pastel Chime Continue | 68121 | [68121-pastel-chime-continue.json](./68121-pastel-chime-continue.json) |
 | Pastel Chime: Koi no Skill Up | 90927 | [90927-pastel-chime-koi-no-skill-up.json](./90927-pastel-chime-koi-no-skill-up.json) |
 | Pastel Friends | 338542 | [338542-pastel-friends.json](./338542-pastel-friends.json) |
@@ -14086,6 +14088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project CARS: Old Vs New Car Pack | 120194 | [120194-project-cars-old-vs-new-car-pack.json](./120194-project-cars-old-vs-new-car-pack.json) |
 | Project CARS: Pagani Edition | 33862 | [33862-project-cars-pagani-edition.json](./33862-project-cars-pagani-edition.json) |
 | Project CARS: Pagani Nürburgring Combined Track Expansion | 120187 | [120187-project-cars-pagani-nurburgring-combined-track-expansion.json](./120187-project-cars-pagani-nurburgring-combined-track-expansion.json) |
+| Project CARS: Perfect Edition | 136650 | [136650-project-cars-perfect-edition.json](./136650-project-cars-perfect-edition.json) |
 | Project CARS: Racing Icons Car Pack | 120197 | [120197-project-cars-racing-icons-car-pack.json](./120197-project-cars-racing-icons-car-pack.json) |
 | Project CARS: Renault Sport Car Pack | 120190 | [120190-project-cars-renault-sport-car-pack.json](./120190-project-cars-renault-sport-car-pack.json) |
 | Project CARS: Stanceworks Track Expansion | 120189 | [120189-project-cars-stanceworks-track-expansion.json](./120189-project-cars-stanceworks-track-expansion.json) |
