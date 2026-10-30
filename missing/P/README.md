@@ -1580,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papertris | 190941 | [190941-papertris.json](./190941-papertris.json) |
 | Paperwork | 374620 | [374620-paperwork.json](./374620-paperwork.json) |
 | Papi Chocolate | 87107 | [87107-papi-chocolate.json](./87107-papi-chocolate.json) |
+| Papi Commando: Second Blood | 142053 | [142053-papi-commando-second-blood.json](./142053-papi-commando-second-blood.json) |
 | Papi Trampoline | 58581 | [58581-papi-trampoline.json](./58581-papi-trampoline.json) |
 | PapiBatting | 87237 | [87237-papibatting.json](./87237-papibatting.json) |
 | PapiBlocks | 87302 | [87302-papiblocks.json](./87302-papiblocks.json) |
@@ -4174,6 +4175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5 Royal: SMT Strange Journey Redux Costume & BGM Set | 405355 | [405355-persona-5-royal-smt-strange-journey-redux-costume-and-bgm-set.json](./405355-persona-5-royal-smt-strange-journey-redux-costume-and-bgm-set.json) |
 | Persona 5 Royal: Tracksuit Costume Set | 405353 | [405353-persona-5-royal-tracksuit-costume-set.json](./405353-persona-5-royal-tracksuit-costume-set.json) |
 | Persona 5 Royal: Velvet Room Costume & BGM Set | 405351 | [405351-persona-5-royal-velvet-room-costume-and-bgm-set.json](./405351-persona-5-royal-velvet-room-costume-and-bgm-set.json) |
+| Persona 5 Scramble: The Phantom Strikers - Limited Edition | 142606 | [142606-persona-5-scramble-the-phantom-strikers-limited-edition.json](./142606-persona-5-scramble-the-phantom-strikers-limited-edition.json) |
 | Persona 5 Strikers: Digital Deluxe Edition | 237861 | [237861-persona-5-strikers-digital-deluxe-edition.json](./237861-persona-5-strikers-digital-deluxe-edition.json) |
 | Persona 5 Strikers: Legacy BGM Pack | 383606 | [383606-persona-5-strikers-legacy-bgm-pack.json](./383606-persona-5-strikers-legacy-bgm-pack.json) |
 | Persona 5 Tactica: Digital Deluxe Edition | 270805 | [270805-persona-5-tactica-digital-deluxe-edition.json](./270805-persona-5-tactica-digital-deluxe-edition.json) |
@@ -10564,6 +10566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Bowler | 44071 | [44071-polar-bowler.json](./44071-polar-bowler.json) |
 | Polar Bowler 1st Frame | 294452 | [294452-polar-bowler-1st-frame.json](./294452-polar-bowler-1st-frame.json) |
 | Polar Explorer Simulator | 173061 | [173061-polar-explorer-simulator.json](./173061-polar-explorer-simulator.json) |
+| Polar Golfer | 142030 | [142030-polar-golfer.json](./142030-polar-golfer.json) |
 | Polar Jump | 120592 | [120592-polar-jump.json](./120592-polar-jump.json) |
 | Polar Jump | 386921 | [386921-polar-jump.json](./386921-polar-jump.json) |
 | Polar Panic | 21768 | [21768-polar-panic.json](./21768-polar-panic.json) |
@@ -15913,6 +15916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple War | 198541 | [198541-purple-war.json](./198541-purple-war.json) |
 | Purple: Director's Cut | 306202 | [306202-purple-directors-cut.json](./306202-purple-directors-cut.json) |
 | Purplearc | 374598 | [374598-purplearc.json](./374598-purplearc.json) |
+| Purplis Sandbox | 142623 | [142623-purplis-sandbox.json](./142623-purplis-sandbox.json) |
 | Purpose 1951 | 293583 | [293583-purpose-1951.json](./293583-purpose-1951.json) |
 | Purpose Calling | 295795 | [295795-purpose-calling.json](./295795-purpose-calling.json) |
 | Purr Bricks | 396012 | [396012-purr-bricks.json](./396012-purr-bricks.json) |
