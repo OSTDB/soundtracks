@@ -5660,6 +5660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Het Huis Anubis: Het geheim van Osiris | 330105 | [330105-het-huis-anubis-het-geheim-van-osiris.json](./330105-het-huis-anubis-het-geheim-van-osiris.json) |
 | Het Labyrint van Toetanchamon | 69901 | [69901-het-labyrint-van-toetanchamon.json](./69901-het-labyrint-van-toetanchamon.json) |
 | Hetai Age Urban | 385817 | [385817-hetai-age-urban.json](./385817-hetai-age-urban.json) |
+| HetaOni | 151950 | [151950-hetaoni.json](./151950-hetaoni.json) |
 | Hetepheres Tomb: Secrets of the Lost Queen | 367991 | [367991-hetepheres-tomb-secrets-of-the-lost-queen.json](./367991-hetepheres-tomb-secrets-of-the-lost-queen.json) |
 | Heterodox | 147484 | [147484-heterodox.json](./147484-heterodox.json) |
 | Heterotopias: In the 1989 Future | 125911 | [125911-heterotopias-in-the-1989-future.json](./125911-heterotopias-in-the-1989-future.json) |
@@ -6671,6 +6672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higgledy Piggledy | 78916 | [78916-higgledy-piggledy.json](./78916-higgledy-piggledy.json) |
 | Higgs Boson: Puzzle Collection | 344492 | [344492-higgs-boson-puzzle-collection.json](./344492-higgs-boson-puzzle-collection.json) |
 | Higgs Boson: Timed Puzzle | 173238 | [173238-higgs-boson-timed-puzzle.json](./173238-higgs-boson-timed-puzzle.json) |
+| High & Low: Aim! 26 Consecutive Wins! | 151941 | [151941-high-and-low-aim-26-consecutive-wins.json](./151941-high-and-low-aim-26-consecutive-wins.json) |
 | High $take$ by Dick Francis | 79887 | [79887-high-take-by-dick-francis.json](./79887-high-take-by-dick-francis.json) |
 | High Above | 336155 | [336155-high-above.json](./336155-high-above.json) |
 | High and Dry | 236116 | [236116-high-and-dry.json](./236116-high-and-dry.json) |
@@ -11116,6 +11118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Marbles | 45728 | [45728-hyper-marbles.json](./45728-hyper-marbles.json) |
 | Hyper Mari World 6 | 200711 | [200711-hyper-mari-world-6.json](./200711-hyper-mari-world-6.json) |
 | Hyper Mega 256-in-1 | 332211 | [332211-hyper-mega-256-in-1.json](./332211-hyper-mega-256-in-1.json) |
+| Hyper Meteor | 151971 | [151971-hyper-meteor.json](./151971-hyper-meteor.json) |
 | Hyper Metroid Super | 349938 | [349938-hyper-metroid-super.json](./349938-hyper-metroid-super.json) |
 | Hyper Mirror Run | 275088 | [275088-hyper-mirror-run.json](./275088-hyper-mirror-run.json) |
 | Hyper Mum Ft Adult Gaming | 230122 | [230122-hyper-mum-ft-adult-gaming.json](./230122-hyper-mum-ft-adult-gaming.json) |
