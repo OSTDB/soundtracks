@@ -4111,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LifeAfter | 115660 | [115660-lifeafter.json](./115660-lifeafter.json) |
 | LifeBase | 29521 | [29521-lifebase.json](./29521-lifebase.json) |
 | Lifeblood | 103357 | [103357-lifeblood.json](./103357-lifeblood.json) |
+| Lifeboat | 145218 | [145218-lifeboat.json](./145218-lifeboat.json) |
 | Lifeboat | 363308 | [363308-lifeboat.json](./363308-lifeboat.json) |
 | Lifecycles of the Traveler Spider | 390575 | [390575-lifecycles-of-the-traveler-spider.json](./390575-lifecycles-of-the-traveler-spider.json) |
 | LifeDev | 258470 | [258470-lifedev.json](./258470-lifedev.json) |
