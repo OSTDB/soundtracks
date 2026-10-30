@@ -6993,10 +6993,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Dragmoria | 337309 | [337309-the-curse-of-dragmoria.json](./337309-the-curse-of-dragmoria.json) |
 | The Curse of Eclipse | 235807 | [235807-the-curse-of-eclipse.json](./235807-the-curse-of-eclipse.json) |
 | The Curse of Esrevni | 169868 | [169868-the-curse-of-esrevni.json](./169868-the-curse-of-esrevni.json) |
+| The Curse of Feldar Vale | 161558 | [161558-the-curse-of-feldar-vale.json](./161558-the-curse-of-feldar-vale.json) |
 | The Curse of Grimsey Island | 204372 | [204372-the-curse-of-grimsey-island.json](./204372-the-curse-of-grimsey-island.json) |
 | The Curse of Illmoore Bay | 169874 | [169874-the-curse-of-illmoore-bay.json](./169874-the-curse-of-illmoore-bay.json) |
 | The Curse of Issyos | 47094 | [47094-the-curse-of-issyos.json](./47094-the-curse-of-issyos.json) |
 | The Curse of Karlanrik | 338275 | [338275-the-curse-of-karlanrik.json](./338275-the-curse-of-karlanrik.json) |
+| The Curse of Kubel | 161516 | [161516-the-curse-of-kubel.json](./161516-the-curse-of-kubel.json) |
 | The Curse of Kubel + Expansion DLC | 238450 | [238450-the-curse-of-kubel-expansion-dlc.json](./238450-the-curse-of-kubel-expansion-dlc.json) |
 | The Curse of Kubel: Deluxe Edition | 242165 | [242165-the-curse-of-kubel-deluxe-edition.json](./242165-the-curse-of-kubel-deluxe-edition.json) |
 | The Curse of Kudan | 131892 | [131892-the-curse-of-kudan.json](./131892-the-curse-of-kudan.json) |
@@ -7986,6 +7988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Epic of Jusen | 145598 | [145598-the-epic-of-jusen.json](./145598-the-epic-of-jusen.json) |
 | The Epic Quest of Birdo The Pink Dinosaur | 250662 | [250662-the-epic-quest-of-birdo-the-pink-dinosaur.json](./250662-the-epic-quest-of-birdo-the-pink-dinosaur.json) |
 | The Epoch Turning | 271324 | [271324-the-epoch-turning.json](./271324-the-epoch-turning.json) |
+| The Epsilon Outcome | 161515 | [161515-the-epsilon-outcome.json](./161515-the-epsilon-outcome.json) |
 | The Epyx Collection: Handheld | 298580 | [298580-the-epyx-collection-handheld.json](./298580-the-epyx-collection-handheld.json) |
 | The Epyx Games: Sports Collection | 323110 | [323110-the-epyx-games-sports-collection.json](./323110-the-epyx-games-sports-collection.json) |
 | The Equalizer | 38743 | [38743-the-equalizer.json](./38743-the-equalizer.json) |
