@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector 2 | 101939 | [101939-vector-2.json](./101939-vector-2.json) |
 | Vector 36 | 14412 | [14412-vector-36.json](./14412-vector-36.json) |
 | Vector Assault | 33932 | [33932-vector-assault.json](./33932-vector-assault.json) |
+| Vector Assault 2 | 160006 | [160006-vector-assault-2.json](./160006-vector-assault-2.json) |
 | Vector Born | 95636 | [95636-vector-born.json](./95636-vector-born.json) |
 | Vector City Racers | 343219 | [343219-vector-city-racers.json](./343219-vector-city-racers.json) |
 | Vector HD | 88349 | [88349-vector-hd.json](./88349-vector-hd.json) |
@@ -1308,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verge | 57348 | [57348-verge.json](./57348-verge.json) |
 | VergeWorld | 204440 | [204440-vergeworld.json](./204440-vergeworld.json) |
 | Vergilius | 225533 | [225533-vergilius.json](./225533-vergilius.json) |
+| Vergjorn | 160003 | [160003-vergjorn.json](./160003-vergjorn.json) |
 | Verho: Curse of Faces | 318767 | [318767-verho-curse-of-faces.json](./318767-verho-curse-of-faces.json) |
 | Verho: Curse of Faces | 410369 | [410369-verho-curse-of-faces.json](./410369-verho-curse-of-faces.json) |
 | Veridian Expanse | 219399 | [219399-veridian-expanse.json](./219399-veridian-expanse.json) |
@@ -3295,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Scavenger | 124240 | [124240-voxel-scavenger.json](./124240-voxel-scavenger.json) |
 | Voxel Shooter | 406110 | [406110-voxel-shooter.json](./406110-voxel-shooter.json) |
 | Voxel Sword | 113513 | [113513-voxel-sword.json](./113513-voxel-sword.json) |
+| Voxel Tactics | 160016 | [160016-voxel-tactics.json](./160016-voxel-tactics.json) |
 | Voxel Tank VR | 74291 | [74291-voxel-tank-vr.json](./74291-voxel-tank-vr.json) |
 | Voxel Tanks | 102246 | [102246-voxel-tanks.json](./102246-voxel-tanks.json) |
 | Voxel Turf | 54798 | [54798-voxel-turf.json](./54798-voxel-turf.json) |
