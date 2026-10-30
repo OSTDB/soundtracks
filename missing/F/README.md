@@ -6365,6 +6365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Starless Rivers | 285438 | [285438-five-starless-rivers.json](./285438-five-starless-rivers.json) |
 | Five Stars | 233492 | [233492-five-stars.json](./233492-five-stars.json) |
 | Five Stars | 365870 | [365870-five-stars.json](./365870-five-stars.json) |
+| Five Steps From Hell | 167494 | [167494-five-steps-from-hell.json](./167494-five-steps-from-hell.json) |
 | Five Toons at Night | 275150 | [275150-five-toons-at-night.json](./275150-five-toons-at-night.json) |
 | Five Tribes | 110051 | [110051-five-tribes.json](./110051-five-tribes.json) |
 | Five Unreal Nights at Candy's | 288853 | [288853-five-unreal-nights-at-candys.json](./288853-five-unreal-nights-at-candys.json) |
@@ -8161,6 +8162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Club Manager 26 Live | 403972 | [403972-football-club-manager-26-live.json](./403972-football-club-manager-26-live.json) |
 | Football Club Simulator - FCS | 36247 | [36247-football-club-simulator-fcs.json](./36247-football-club-simulator-fcs.json) |
 | Football Clubs | 306056 | [306056-football-clubs.json](./306056-football-clubs.json) |
+| Football Coach the Game 2022 | 167482 | [167482-football-coach-the-game-2022.json](./167482-football-coach-the-game-2022.json) |
 | Football Crazy Challenge | 84258 | [84258-football-crazy-challenge.json](./84258-football-crazy-challenge.json) |
 | Football Cup 2021 | 147253 | [147253-football-cup-2021.json](./147253-football-cup-2021.json) |
 | Football Cup 2022 | 187296 | [187296-football-cup-2022.json](./187296-football-cup-2022.json) |
@@ -8671,6 +8673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foretales | 195096 | [195096-foretales.json](./195096-foretales.json) |
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
 | Forever Ago | 136299 | [136299-forever-ago.json](./136299-forever-ago.json) |
+| Forever and Ever | 167478 | [167478-forever-and-ever.json](./167478-forever-and-ever.json) |
 | Forever and One More Day | 272112 | [272112-forever-and-one-more-day.json](./272112-forever-and-one-more-day.json) |
 | Forever Blue Luminous | 288165 | [288165-forever-blue-luminous.json](./288165-forever-blue-luminous.json) |
 | Forever Drive | 246964 | [246964-forever-drive.json](./246964-forever-drive.json) |
