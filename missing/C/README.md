@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cable Clutter | 211255 | [211255-cable-clutter.json](./211255-cable-clutter.json) |
 | Cable Swiper | 22363 | [22363-cable-swiper.json](./22363-cable-swiper.json) |
 | Cabling | 89472 | [89472-cabling.json](./89472-cabling.json) |
+| Cabous | 168560 | [168560-cabous.json](./168560-cabous.json) |
 | Cabral's Quest | 291176 | [291176-cabrals-quest.json](./291176-cabrals-quest.json) |
 | Caça ao Rato | 281895 | [281895-caca-ao-rato.json](./281895-caca-ao-rato.json) |
 | Caça Palavras | 359769 | [359769-caca-palavras.json](./359769-caca-palavras.json) |
@@ -6533,6 +6534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimeras: Cherished Serpent | 417543 | [417543-chimeras-cherished-serpent.json](./417543-chimeras-cherished-serpent.json) |
 | Chimeras: Cherished Serpent - Collector's Edition | 170216 | [170216-chimeras-cherished-serpent-collectors-edition.json](./170216-chimeras-cherished-serpent-collectors-edition.json) |
 | Chimeras: Cursed and Forgotten | 103977 | [103977-chimeras-cursed-and-forgotten.json](./103977-chimeras-cursed-and-forgotten.json) |
+| Chimeras: Cursed and Forgotten - Collector's Edition | 168563 | [168563-chimeras-cursed-and-forgotten-collectors-edition.json](./168563-chimeras-cursed-and-forgotten-collectors-edition.json) |
 | Chimeras: Heavenfall Secrets | 187890 | [187890-chimeras-heavenfall-secrets.json](./187890-chimeras-heavenfall-secrets.json) |
 | Chimeras: Heavenfall Secrets Collector's Edition | 263508 | [263508-chimeras-heavenfall-secrets-collectors-edition.json](./263508-chimeras-heavenfall-secrets-collectors-edition.json) |
 | Chimeras: Inhuman Nature | 417544 | [417544-chimeras-inhuman-nature.json](./417544-chimeras-inhuman-nature.json) |
@@ -15890,6 +15892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosswords: World Tour | 332329 | [332329-crosswords-world-tour.json](./332329-crosswords-world-tour.json) |
 | CrossWorlds: Escape | 31810 | [31810-crossworlds-escape.json](./31810-crossworlds-escape.json) |
 | Crossy Animals Road | 219935 | [219935-crossy-animals-road.json](./219935-crossy-animals-road.json) |
+| Crossy Bridge | 168569 | [168569-crossy-bridge.json](./168569-crossy-bridge.json) |
 | Crossy Crash | 98779 | [98779-crossy-crash.json](./98779-crossy-crash.json) |
 | Crossy Creeper | 203206 | [203206-crossy-creeper.json](./203206-crossy-creeper.json) |
 | Crossy Road | 10635 | [10635-crossy-road.json](./10635-crossy-road.json) |
@@ -17275,6 +17278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cure for Death | 344526 | [344526-cure-for-death.json](./344526-cure-for-death.json) |
 | Cure Girl | 127963 | [127963-cure-girl.json](./127963-cure-girl.json) |
 | Cure Mate Club | 63875 | [63875-cure-mate-club.json](./63875-cure-mate-club.json) |
+| Cure Obsession | 168525 | [168525-cure-obsession.json](./168525-cure-obsession.json) |
 | Cure: A Hospital Simulator | 376110 | [376110-cure-a-hospital-simulator.json](./376110-cure-a-hospital-simulator.json) |
 | Curfew | 259148 | [259148-curfew.json](./259148-curfew.json) |
 | Curfuffles | 255036 | [255036-curfuffles.json](./255036-curfuffles.json) |
