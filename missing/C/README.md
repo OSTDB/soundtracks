@@ -8717,6 +8717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Night | 242734 | [242734-classic-night.json](./242734-classic-night.json) |
 | Classic Offensive | 250310 | [250310-classic-offensive.json](./250310-classic-offensive.json) |
 | Classic Pizza Tower Editor | 344034 | [344034-classic-pizza-tower-editor.json](./344034-classic-pizza-tower-editor.json) |
+| Classic Pool | 154762 | [154762-classic-pool.json](./154762-classic-pool.json) |
 | Classic Pool and Cyber Pool Bundle | 251804 | [251804-classic-pool-and-cyber-pool-bundle.json](./251804-classic-pool-and-cyber-pool-bundle.json) |
 | Classic Punter | 13497 | [13497-classic-punter.json](./13497-classic-punter.json) |
 | Classic Racers | 115900 | [115900-classic-racers.json](./115900-classic-racers.json) |
@@ -13408,6 +13409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Fighter 2 | 122628 | [122628-cosmo-fighter-2.json](./122628-cosmo-fighter-2.json) |
 | Cosmo Fighter II | 112162 | [112162-cosmo-fighter-ii.json](./112162-cosmo-fighter-ii.json) |
 | Cosmo Flight | 346052 | [346052-cosmo-flight.json](./346052-cosmo-flight.json) |
+| Cosmo Flow | 154852 | [154852-cosmo-flow.json](./154852-cosmo-flow.json) |
 | Cosmo Gang the Puzzle | 18382 | [18382-cosmo-gang-the-puzzle.json](./18382-cosmo-gang-the-puzzle.json) |
 | Cosmo Gang the Video | 39644 | [39644-cosmo-gang-the-video.json](./39644-cosmo-gang-the-video.json) |
 | Cosmo Knight Zion | 251147 | [251147-cosmo-knight-zion.json](./251147-cosmo-knight-zion.json) |
