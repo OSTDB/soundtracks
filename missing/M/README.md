@@ -5632,6 +5632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazement | 33800 | [33800-mazement.json](./33800-mazement.json) |
 | Mazemerizzz II | 389997 | [389997-mazemerizzz-ii.json](./389997-mazemerizzz-ii.json) |
 | Mazepocalypse | 264580 | [264580-mazepocalypse.json](./264580-mazepocalypse.json) |
+| MazeQuest | 175517 | [175517-mazequest.json](./175517-mazequest.json) |
 | MazeQuest 2 | 109641 | [109641-mazequest-2.json](./109641-mazequest-2.json) |
 | Mazer | 339313 | [339313-mazer.json](./339313-mazer.json) |
 | Mazer | 4317 | [4317-mazer.json](./4317-mazer.json) |
@@ -13840,6 +13841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Energy Supercross 25: The Official Video Game | 336380 | [336380-monster-energy-supercross-25-the-official-video-game.json](./336380-monster-energy-supercross-25-the-official-video-game.json) |
 | Monster Energy Supercross 5: The Official Videogame - Legends Pack Vol. 2 | 199575 | [199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json](./199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json) |
 | Monster Energy Supercross 6: The Official Videogame | 228861 | [228861-monster-energy-supercross-6-the-official-videogame.json](./228861-monster-energy-supercross-6-the-official-videogame.json) |
+| Monster Energy Supercross: Special Edition | 175533 | [175533-monster-energy-supercross-special-edition.json](./175533-monster-energy-supercross-special-edition.json) |
 | Monster Energy Supercross: The Official Videogame | 74500 | [74500-monster-energy-supercross-the-official-videogame.json](./74500-monster-energy-supercross-the-official-videogame.json) |
 | Monster Energy Supercross: The Official Videogame - Compound | 170941 | [170941-monster-energy-supercross-the-official-videogame-compound.json](./170941-monster-energy-supercross-the-official-videogame-compound.json) |
 | Monster Energy Supercross: The Official Videogame - Monster Energy Cup | 170946 | [170946-monster-energy-supercross-the-official-videogame-monster-energy-cup.json](./170946-monster-energy-supercross-the-official-videogame-monster-energy-cup.json) |
@@ -19369,6 +19371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Forest | 226424 | [226424-mystic-forest.json](./226424-mystic-forest.json) |
 | Mystic Formula | 61414 | [61414-mystic-formula.json](./61414-mystic-formula.json) |
 | Mystic Gals | 304826 | [304826-mystic-gals.json](./304826-mystic-gals.json) |
+| Mystic Garden | 175519 | [175519-mystic-garden.json](./175519-mystic-garden.json) |
 | Mystic Guardian | 129611 | [129611-mystic-guardian.json](./129611-mystic-guardian.json) |
 | Mystic Guardians Slide | 295368 | [295368-mystic-guardians-slide.json](./295368-mystic-guardians-slide.json) |
 | Mystic Gunner | 175351 | [175351-mystic-gunner.json](./175351-mystic-gunner.json) |
