@@ -1524,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguine Melancholia | 138730 | [138730-sanguine-melancholia.json](./138730-sanguine-melancholia.json) |
 | Sanguine Oblation | 362793 | [362793-sanguine-oblation.json](./362793-sanguine-oblation.json) |
 | Sanguine Rose | 213261 | [213261-sanguine-rose.json](./213261-sanguine-rose.json) |
+| Sanguine Soul | 128168 | [128168-sanguine-soul.json](./128168-sanguine-soul.json) |
 | Sanguivore: Twenty Below | 266271 | [266271-sanguivore-twenty-below.json](./266271-sanguivore-twenty-below.json) |
 | Sanguo | 113003 | [113003-sanguo.json](./113003-sanguo.json) |
 | Sanguo Doki | 208092 | [208092-sanguo-doki.json](./208092-sanguo-doki.json) |
@@ -10982,6 +10983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skin & Bones | 135698 | [135698-skin-and-bones.json](./135698-skin-and-bones.json) |
 | Skin & Scales | 301422 | [301422-skin-and-scales.json](./301422-skin-and-scales.json) |
 | Skin Deep | 111061 | [111061-skin-deep.json](./111061-skin-deep.json) |
+| Skin Stealers | 128147 | [128147-skin-stealers.json](./128147-skin-stealers.json) |
 | Skin Witch | 126826 | [126826-skin-witch.json](./126826-skin-witch.json) |
 | Skinator | 400360 | [400360-skinator.json](./400360-skinator.json) |
 | Skincrawlers | 230292 | [230292-skincrawlers.json](./230292-skincrawlers.json) |
@@ -17392,6 +17394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Elevator Project | 293532 | [293532-space-elevator-project.json](./293532-space-elevator-project.json) |
 | Space Elite Force | 100593 | [100593-space-elite-force.json](./100593-space-elite-force.json) |
 | Space Elite Force 2 in 1 | 213856 | [213856-space-elite-force-2-in-1.json](./213856-space-elite-force-2-in-1.json) |
+| Space Elite Force II | 128181 | [128181-space-elite-force-ii.json](./128181-space-elite-force-ii.json) |
 | Space Empires | 15649 | [15649-space-empires.json](./15649-space-empires.json) |
 | Space Empires II | 15650 | [15650-space-empires-ii.json](./15650-space-empires-ii.json) |
 | Space Empires III | 15651 | [15651-space-empires-iii.json](./15651-space-empires-iii.json) |
@@ -17569,7 +17572,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
