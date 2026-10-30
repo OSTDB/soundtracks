@@ -3522,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead.Air | 142683 | [142683-dead-air.json](./142683-dead-air.json) |
 | Dead.Wire | 142682 | [142682-dead-wire.json](./142682-dead-wire.json) |
 | Dead's dawn | 286039 | [286039-deads-dawn.json](./286039-deads-dawn.json) |
+| Dead+ | 168036 | [168036-dead.json](./168036-dead.json) |
 | Dead6hot | 33612 | [33612-dead6hot.json](./33612-dead6hot.json) |
 | Deadbait | 161381 | [161381-deadbait.json](./161381-deadbait.json) |
 | Deadball Specialist | 58191 | [58191-deadball-specialist.json](./58191-deadball-specialist.json) |
@@ -5074,6 +5075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Breakers | 318957 | [318957-defense-breakers.json](./318957-defense-breakers.json) |
 | Defense Cards | 267298 | [267298-defense-cards.json](./267298-defense-cards.json) |
 | Defense Clicker | 74600 | [74600-defense-clicker.json](./74600-defense-clicker.json) |
+| Defense Clicker: Ressource Collector | 168042 | [168042-defense-clicker-ressource-collector.json](./168042-defense-clicker-ressource-collector.json) |
 | Defense Corp: Earth | 113168 | [113168-defense-corp-earth.json](./113168-defense-corp-earth.json) |
 | Defense Derby | 247465 | [247465-defense-derby.json](./247465-defense-derby.json) |
 | Defense Dome | 58896 | [58896-defense-dome.json](./58896-defense-dome.json) |
@@ -5315,7 +5317,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious: The First Course | 384555 | [384555-delicious-the-first-course.json](./384555-delicious-the-first-course.json) |
 | Delicious! Pretty Girls Mahjong Solitaire | 31053 | [31053-delicious-pretty-girls-mahjong-solitaire.json](./31053-delicious-pretty-girls-mahjong-solitaire.json) |
 | DeLight | 208101 | [208101-delight.json](./208101-delight.json) |
+| DeLight: The Journey Home - Chapter 2 | 168037 | [168037-delight-the-journey-home-chapter-2.json](./168037-delight-the-journey-home-chapter-2.json) |
+| DeLight: The Journey Home - Chapter 3 | 168038 | [168038-delight-the-journey-home-chapter-3.json](./168038-delight-the-journey-home-chapter-3.json) |
 | DeLight: The Journey Home - Chapter 4 | 314898 | [314898-delight-the-journey-home-chapter-4.json](./314898-delight-the-journey-home-chapter-4.json) |
+| DeLight: The Journey Home - Chapter 5 | 168045 | [168045-delight-the-journey-home-chapter-5.json](./168045-delight-the-journey-home-chapter-5.json) |
 | Delightful Adventure 2: Double Demise | 420768 | [420768-delightful-adventure-2-double-demise.json](./420768-delightful-adventure-2-double-demise.json) |
 | Delightful Adventure: Enhanced | 307728 | [307728-delightful-adventure-enhanced.json](./307728-delightful-adventure-enhanced.json) |
 | Delila's Gift | 28740 | [28740-delilas-gift.json](./28740-delilas-gift.json) |
