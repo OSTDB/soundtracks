@@ -1464,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Island Life | 194862 | [194862-happy-island-life.json](./194862-happy-island-life.json) |
 | Happy Jogging in Hawaii | 259697 | [259697-happy-jogging-in-hawaii.json](./259697-happy-jogging-in-hawaii.json) |
 | Happy Jump | 112902 | [112902-happy-jump.json](./112902-happy-jump.json) |
+| Happy Killer | 137842 | [137842-happy-killer.json](./137842-happy-killer.json) |
 | Happy Lab | 252573 | [252573-happy-lab.json](./252573-happy-lab.json) |
 | Happy Landing Bundle: Evel Knievel + Finnigan Fox + Cornhole | 386789 | [386789-happy-landing-bundle-evel-knievel-finnigan-fox-cornhole.json](./386789-happy-landing-bundle-evel-knievel-finnigan-fox-cornhole.json) |
 | Happy Lane 403 | 217125 | [217125-happy-lane-403.json](./217125-happy-lane-403.json) |
@@ -7183,6 +7184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himitsu Chouhou Buin: 00Nanako-chan II | 66055 | [66055-himitsu-chouhou-buin-00nanako-chan-ii.json](./66055-himitsu-chouhou-buin-00nanako-chan-ii.json) |
 | Himitsu Chouhou Buin: 00Nanako-chan III | 85875 | [85875-himitsu-chouhou-buin-00nanako-chan-iii.json](./85875-himitsu-chouhou-buin-00nanako-chan-iii.json) |
 | Himitsu no AiPri | 284918 | [284918-himitsu-no-aipri.json](./284918-himitsu-no-aipri.json) |
+| Himitsu Project | 137802 | [137802-himitsu-project.json](./137802-himitsu-project.json) |
 | Himitsu Sentai Metamor V | 107629 | [107629-himitsu-sentai-metamor-v.json](./107629-himitsu-sentai-metamor-v.json) |
 | Himmapan Marshmello Saga | 367516 | [367516-himmapan-marshmello-saga.json](./367516-himmapan-marshmello-saga.json) |
 | Himno 2 | 118169 | [118169-himno-2.json](./118169-himno-2.json) |
@@ -8063,6 +8065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloFist | 117485 | [117485-holofist.json](./117485-holofist.json) |
 | Hologram | 190961 | [190961-hologram.json](./190961-hologram.json) |
 | Hologram | 307095 | [307095-hologram.json](./307095-hologram.json) |
+| Hologram Heroes | 137812 | [137812-hologram-heroes.json](./137812-hologram-heroes.json) |
 | Hologram Time Traveler | 8936 | [8936-hologram-time-traveler.json](./8936-hologram-time-traveler.json) |
 | HoloGrid: Monster Battle | 56377 | [56377-hologrid-monster-battle.json](./56377-hologrid-monster-battle.json) |
 | Hololive All-Stars Battle Tiles | 379575 | [379575-hololive-all-stars-battle-tiles.json](./379575-hololive-all-stars-battle-tiles.json) |
@@ -10676,6 +10679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt for Treasure | 146583 | [146583-hunt-for-treasure.json](./146583-hunt-for-treasure.json) |
 | Hunt Grounds | 366949 | [366949-hunt-grounds.json](./366949-hunt-grounds.json) |
 | Hunt Hide Run | 296916 | [296916-hunt-hide-run.json](./296916-hunt-hide-run.json) |
+| Hunt in Town | 137840 | [137840-hunt-in-town.json](./137840-hunt-in-town.json) |
 | Hunt Me | 305972 | [305972-hunt-me.json](./305972-hunt-me.json) |
 | Hunt or Die! | 389506 | [389506-hunt-or-die.json](./389506-hunt-or-die.json) |
 | Hunt Planet Bug | 133351 | [133351-hunt-planet-bug.json](./133351-hunt-planet-bug.json) |
@@ -10907,6 +10911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurdle Turtle 2 | 58264 | [58264-hurdle-turtle-2.json](./58264-hurdle-turtle-2.json) |
 | Hurdle Turtle Forever | 58262 | [58262-hurdle-turtle-forever.json](./58262-hurdle-turtle-forever.json) |
 | Hurdles | 192295 | [192295-hurdles.json](./192295-hurdles.json) |
+| Hureemu Adventure | 137818 | [137818-hureemu-adventure.json](./137818-hureemu-adventure.json) |
 | Hurlements | 174634 | [174634-hurlements.json](./174634-hurlements.json) |
 | Hurling Herman | 392252 | [392252-hurling-herman.json](./392252-hurling-herman.json) |
 | Hurm's Odyssey | 341708 | [341708-hurms-odyssey.json](./341708-hurms-odyssey.json) |
