@@ -3991,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Termite | 377177 | [377177-termite.json](./377177-termite.json) |
 | Termite Man | 327380 | [327380-termite-man.json](./327380-termite-man.json) |
 | Termo99 | 417342 | [417342-termo99.json](./417342-termo99.json) |
+| Terms and Conditions | 128815 | [128815-terms-and-conditions.json](./128815-terms-and-conditions.json) |
 | Ternion | 236757 | [236757-ternion.json](./236757-ternion.json) |
 | Ternox Games 4-in-1 Bundle | 362379 | [362379-ternox-games-4-in-1-bundle.json](./362379-ternox-games-4-in-1-bundle.json) |
 | Tero: Terror Hour | 254312 | [254312-tero-terror-hour.json](./254312-tero-terror-hour.json) |
@@ -7302,6 +7303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day | 242631 | [242631-the-day.json](./242631-the-day.json) |
 | The Day Before | 142901 | [142901-the-day-before.json](./142901-the-day-before.json) |
 | The Day I Became a Bird | 390967 | [390967-the-day-i-became-a-bird.json](./390967-the-day-i-became-a-bird.json) |
+| The Day I Went Away For a While | 128790 | [128790-the-day-i-went-away-for-a-while.json](./128790-the-day-i-went-away-for-a-while.json) |
 | The Day in a Life of a Dayfly | 357461 | [357461-the-day-in-a-life-of-a-dayfly.json](./357461-the-day-in-a-life-of-a-dayfly.json) |
 | The Day Nothing Happened | 70379 | [70379-the-day-nothing-happened.json](./70379-the-day-nothing-happened.json) |
 | The Day of Chains | 274150 | [274150-the-day-of-chains.json](./274150-the-day-of-chains.json) |
@@ -13701,6 +13703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Purple Hike | 413608 | [413608-the-purple-hike.json](./413608-the-purple-hike.json) |
 | The Purrfect Valentine | 177957 | [177957-the-purrfect-valentine.json](./177957-the-purrfect-valentine.json) |
 | The Purring Quest | 14566 | [14566-the-purring-quest.json](./14566-the-purring-quest.json) |
+| The Pursuing Realm | 128803 | [128803-the-pursuing-realm.json](./128803-the-pursuing-realm.json) |
 | The Pusher | 112676 | [112676-the-pusher.json](./112676-the-pusher.json) |
 | The Putrid Pumps | 271203 | [271203-the-putrid-pumps.json](./271203-the-putrid-pumps.json) |
 | The Puzzle 11 | 90827 | [90827-the-puzzle-11.json](./90827-the-puzzle-11.json) |
@@ -14516,6 +14519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Senex Bird | 220513 | [220513-the-senex-bird.json](./220513-the-senex-bird.json) |
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Sensational December Machine | 321623 | [321623-the-sensational-december-machine.json](./321623-the-sensational-december-machine.json) |
+| The Sense of Connectedness | 128820 | [128820-the-sense-of-connectedness.json](./128820-the-sense-of-connectedness.json) |
 | The Sense Point | 174577 | [174577-the-sense-point.json](./174577-the-sense-point.json) |
 | The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
 | The Sensifier | 410722 | [410722-the-sensifier.json](./410722-the-sensifier.json) |
@@ -21753,6 +21757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Moon: Sigmund Minisode 2 (Holiday Special) | 327444 | [327444-to-the-moon-sigmund-minisode-2-holiday-special.json](./327444-to-the-moon-sigmund-minisode-2-holiday-special.json) |
 | To the Mountain | 331128 | [331128-to-the-mountain.json](./331128-to-the-mountain.json) |
 | To the Ones We Lost | 186600 | [186600-to-the-ones-we-lost.json](./186600-to-the-ones-we-lost.json) |
+| To the Other Side of the World | 128812 | [128812-to-the-other-side-of-the-world.json](./128812-to-the-other-side-of-the-world.json) |
 | To the Rescue | 359443 | [359443-to-the-rescue.json](./359443-to-the-rescue.json) |
 | To The Rescue | 346184 | [346184-to-the-rescue.json](./346184-to-the-rescue.json) |
 | To the Rescue! | 91306 | [91306-to-the-rescue.json](./91306-to-the-rescue.json) |
