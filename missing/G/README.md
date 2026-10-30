@@ -3795,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift to Humanity | 75163 | [75163-gift-to-humanity.json](./75163-gift-to-humanity.json) |
 | Gift Wrapped | 272556 | [272556-gift-wrapped.json](./272556-gift-wrapped.json) |
 | Gift-Exchange-Machine | 176240 | [176240-gift-exchange-machine.json](./176240-gift-exchange-machine.json) |
+| Gifted | 128187 | [128187-gifted.json](./128187-gifted.json) |
 | Gifted Island | 244727 | [244727-gifted-island.json](./244727-gifted-island.json) |
 | Giften | 77139 | [77139-giften.json](./77139-giften.json) |
 | Gifter | 183786 | [183786-gifter.json](./183786-gifter.json) |
@@ -4874,6 +4875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Fish! The Pop n' Drop Game | 209761 | [209761-go-fish-the-pop-n-drop-game.json](./209761-go-fish-the-pop-n-drop-game.json) |
 | Go Fkn Fast | 340316 | [340316-go-fkn-fast.json](./340316-go-fkn-fast.json) |
 | Go for a Punch! Saki Sanobashi | 264722 | [264722-go-for-a-punch-saki-sanobashi.json](./264722-go-for-a-punch-saki-sanobashi.json) |
+| Go For a Walk | 128165 | [128165-go-for-a-walk.json](./128165-go-for-a-walk.json) |
 | Go Go Ackman | 15926 | [15926-go-go-ackman.json](./15926-go-go-ackman.json) |
 | Go Go Ackman | 83923 | [83923-go-go-ackman.json](./83923-go-go-ackman.json) |
 | Go Go Burunyanman Ecstasy!!! | 383005 | [383005-go-go-burunyanman-ecstasy.json](./383005-go-go-burunyanman-ecstasy.json) |
