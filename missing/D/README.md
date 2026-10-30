@@ -10645,6 +10645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dollmaker | 325919 | [325919-dollmaker.json](./325919-dollmaker.json) |
 | Dollmaker 2 | 391138 | [391138-dollmaker-2.json](./391138-dollmaker-2.json) |
 | Dolls | 244497 | [244497-dolls.json](./244497-dolls.json) |
+| Dolls Frontline | 175046 | [175046-dolls-frontline.json](./175046-dolls-frontline.json) |
 | Dolls Made Here | 390082 | [390082-dolls-made-here.json](./390082-dolls-made-here.json) |
 | Dolls Nest | 286376 | [286376-dolls-nest.json](./286376-dolls-nest.json) |
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
@@ -13703,6 +13704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakojan Skies: Mission 3 | 404221 | [404221-drakojan-skies-mission-3.json](./404221-drakojan-skies-mission-3.json) |
 | Drakomon | 283248 | [283248-drakomon.json](./283248-drakomon.json) |
 | Drakomon Legends | 95658 | [95658-drakomon-legends.json](./95658-drakomon-legends.json) |
+| Drakomon Legends: Monster Dragon Battle RPG Games | 175049 | [175049-drakomon-legends-monster-dragon-battle-rpg-games.json](./175049-drakomon-legends-monster-dragon-battle-rpg-games.json) |
 | Drakton | 40096 | [40096-drakton.json](./40096-drakton.json) |
 | Drakula | 192758 | [192758-drakula.json](./192758-drakula.json) |
 | Drakula's Ascension | 351589 | [351589-drakulas-ascension.json](./351589-drakulas-ascension.json) |
@@ -16143,6 +16145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Stone | 290628 | [290628-dungeon-of-stone.json](./290628-dungeon-of-stone.json) |
 | Dungeon of the Damned | 200585 | [200585-dungeon-of-the-damned.json](./200585-dungeon-of-the-damned.json) |
 | Dungeon of the Devourer | 334073 | [334073-dungeon-of-the-devourer.json](./334073-dungeon-of-the-devourer.json) |
+| Dungeon of the Endless: Apogee | 175014 | [175014-dungeon-of-the-endless-apogee.json](./175014-dungeon-of-the-endless-apogee.json) |
 | Dungeon of the Endless: Deep Freeze | 168244 | [168244-dungeon-of-the-endless-deep-freeze.json](./168244-dungeon-of-the-endless-deep-freeze.json) |
 | Dungeon of the Endless: Definitive Edition | 233351 | [233351-dungeon-of-the-endless-definitive-edition.json](./233351-dungeon-of-the-endless-definitive-edition.json) |
 | Dungeon of the Endless: Rescue Team | 168245 | [168245-dungeon-of-the-endless-rescue-team.json](./168245-dungeon-of-the-endless-rescue-team.json) |
@@ -16614,6 +16617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duo Princess | 50334 | [50334-duo-princess.json](./50334-duo-princess.json) |
 | Duo Quest | 335274 | [335274-duo-quest.json](./335274-duo-quest.json) |
 | Duo Runner 3D | 262464 | [262464-duo-runner-3d.json](./262464-duo-runner-3d.json) |
+| Duo Zombies | 175010 | [175010-duo-zombies.json](./175010-duo-zombies.json) |
 | DuoBellum de Marionnette | 374111 | [374111-duobellum-de-marionnette.json](./374111-duobellum-de-marionnette.json) |
 | DuoDuo | 234057 | [234057-duoduo.json](./234057-duoduo.json) |
 | DuolBots | 201427 | [201427-duolbots.json](./201427-duolbots.json) |
