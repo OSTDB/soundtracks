@@ -2602,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 11412 | [11412-baseball.json](./11412-baseball.json) |
 | Baseball | 128484 | [128484-baseball.json](./128484-baseball.json) |
 | Baseball | 131527 | [131527-baseball.json](./131527-baseball.json) |
+| Baseball | 171259 | [171259-baseball.json](./171259-baseball.json) |
 | Baseball | 217727 | [217727-baseball.json](./217727-baseball.json) |
 | Baseball | 217826 | [217826-baseball.json](./217826-baseball.json) |
 | Baseball | 217827 | [217827-baseball.json](./217827-baseball.json) |
@@ -4343,6 +4344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeamStruggle | 367616 | [367616-beamstruggle.json](./367616-beamstruggle.json) |
 | Bean | 311237 | [311237-bean.json](./311237-bean.json) |
 | Bean | 370205 | [370205-bean.json](./370205-bean.json) |
+| Bean and Nothingness | 171204 | [171204-bean-and-nothingness.json](./171204-bean-and-nothingness.json) |
 | Bean Base | 404169 | [404169-bean-base.json](./404169-bean-base.json) |
 | Bean Battle Brawl | 338199 | [338199-bean-battle-brawl.json](./338199-bean-battle-brawl.json) |
 | Bean Battles | 106556 | [106556-bean-battles.json](./106556-bean-battles.json) |
@@ -8712,6 +8714,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Master Zero II | 116416 | [116416-blaster-master-zero-ii.json](./116416-blaster-master-zero-ii.json) |
 | Blaster Master Zero III | 145058 | [145058-blaster-master-zero-iii.json](./145058-blaster-master-zero-iii.json) |
 | Blaster Master Zero Trilogy: MetaFight Chronicle - Limited Edition | 166977 | [166977-blaster-master-zero-trilogy-metafight-chronicle-limited-edition.json](./166977-blaster-master-zero-trilogy-metafight-chronicle-limited-edition.json) |
+| Blaster Master Zero: EX Character - Shantae | 171205 | [171205-blaster-master-zero-ex-character-shantae.json](./171205-blaster-master-zero-ex-character-shantae.json) |
+| Blaster Master Zero: EX Character - Shovel Knight | 171206 | [171206-blaster-master-zero-ex-character-shovel-knight.json](./171206-blaster-master-zero-ex-character-shovel-knight.json) |
 | Blaster Master: Blasting Again | 45096 | [45096-blaster-master-blasting-again.json](./45096-blaster-master-blasting-again.json) |
 | Blaster Master: Enemy Below | 49840 | [49840-blaster-master-enemy-below.json](./49840-blaster-master-enemy-below.json) |
 | Blaster Master: Overdrive | 50995 | [50995-blaster-master-overdrive.json](./50995-blaster-master-overdrive.json) |
