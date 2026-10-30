@@ -6034,6 +6034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball | 131483 | [131483-pinball.json](./131483-pinball.json) |
 | Pinball | 131514 | [131514-pinball.json](./131514-pinball.json) |
 | Pinball | 131522 | [131522-pinball.json](./131522-pinball.json) |
+| Pinball | 145219 | [145219-pinball.json](./145219-pinball.json) |
 | Pinball | 217664 | [217664-pinball.json](./217664-pinball.json) |
 | Pinball | 217699 | [217699-pinball.json](./217699-pinball.json) |
 | Pinball | 287542 | [287542-pinball.json](./287542-pinball.json) |
@@ -11460,6 +11461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PoPoLoCrois Monogatari | 63015 | [63015-popolocrois-monogatari.json](./63015-popolocrois-monogatari.json) |
 | PoPoLoCrois Monogatari II | 63016 | [63016-popolocrois-monogatari-ii.json](./63016-popolocrois-monogatari-ii.json) |
 | PoPoLoCrois Monogatari: Narcia no Namida to Yousei no Fue | 82802 | [82802-popolocrois-monogatari-narcia-no-namida-to-yousei-no-fue.json](./82802-popolocrois-monogatari-narcia-no-namida-to-yousei-no-fue.json) |
+| PoPoLoCrois: Hajimari no Bouken | 145173 | [145173-popolocrois-hajimari-no-bouken.json](./145173-popolocrois-hajimari-no-bouken.json) |
 | PoPoLoCrois: Narcia's Tears and the Fairy's Flute | 67627 | [67627-popolocrois-narcias-tears-and-the-fairys-flute.json](./67627-popolocrois-narcias-tears-and-the-fairys-flute.json) |
 | PoPoLoCrois: Tsuki no Okite no Bouken | 66021 | [66021-popolocrois-tsuki-no-okite-no-bouken.json](./66021-popolocrois-tsuki-no-okite-no-bouken.json) |
 | Popologist: Camera Slinger | 252274 | [252274-popologist-camera-slinger.json](./252274-popologist-camera-slinger.json) |
@@ -15849,6 +15851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgatory | 27773 | [27773-purgatory.json](./27773-purgatory.json) |
 | Purgatory | 325999 | [325999-purgatory.json](./325999-purgatory.json) |
 | Purgatory | 383013 | [383013-purgatory.json](./383013-purgatory.json) |
+| Purgatory 2 | 145185 | [145185-purgatory-2.json](./145185-purgatory-2.json) |
 | Purgatory Dungeoneer | 202581 | [202581-purgatory-dungeoneer.json](./202581-purgatory-dungeoneer.json) |
 | Purgatory Fell | 90254 | [90254-purgatory-fell.json](./90254-purgatory-fell.json) |
 | Purgatory Guardian | 130084 | [130084-purgatory-guardian.json](./130084-purgatory-guardian.json) |
