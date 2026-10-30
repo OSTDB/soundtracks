@@ -2265,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards from the West | 219221 | [219221-cards-from-the-west.json](./219221-cards-from-the-west.json) |
 | Cards Infinity | 187836 | [187836-cards-infinity.json](./187836-cards-infinity.json) |
 | Cards Lie | 390487 | [390487-cards-lie.json](./390487-cards-lie.json) |
+| Cards Matching Memory Game | 172941 | [172941-cards-matching-memory-game.json](./172941-cards-matching-memory-game.json) |
 | Cards n' Varmints | 349750 | [349750-cards-n-varmints.json](./349750-cards-n-varmints.json) |
 | Cards of Action | 400971 | [400971-cards-of-action.json](./400971-cards-of-action.json) |
 | Cards of Binokee | 207351 | [207351-cards-of-binokee.json](./207351-cards-of-binokee.json) |
@@ -4141,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catsby | 29514 | [29514-catsby.json](./29514-catsby.json) |
 | Catscratch: This Means War! | 411059 | [411059-catscratch-this-means-war.json](./411059-catscratch-this-means-war.json) |
 | Catsperience | 146043 | [146043-catsperience.json](./146043-catsperience.json) |
+| Catsploration | 172901 | [172901-catsploration.json](./172901-catsploration.json) |
 | CatsPots | 267561 | [267561-catspots.json](./267561-catspots.json) |
 | Catstronauts | 421319 | [421319-catstronauts.json](./421319-catstronauts.json) |
 | Catsuhi and Eva | 373275 | [373275-catsuhi-and-eva.json](./373275-catsuhi-and-eva.json) |
