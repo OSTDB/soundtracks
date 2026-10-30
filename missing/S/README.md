@@ -3003,6 +3003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP Horror Series 2 | 273576 | [273576-scp-horror-series-2.json](./273576-scp-horror-series-2.json) |
 | SCP Observer | 188680 | [188680-scp-observer.json](./188680-scp-observer.json) |
 | SCP Operations | 244720 | [244720-scp-operations.json](./244720-scp-operations.json) |
+| SCP Outer Site | 137289 | [137289-scp-outer-site.json](./137289-scp-outer-site.json) |
 | SCP RP | 405031 | [405031-scp-rp.json](./405031-scp-rp.json) |
 | SCP Strategy | 154925 | [154925-scp-strategy.json](./154925-scp-strategy.json) |
 | SCP-002 | 316791 | [316791-scp-002.json](./316791-scp-002.json) |
@@ -7172,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherpa's Caravan | 374567 | [374567-sherpas-caravan.json](./374567-sherpas-caravan.json) |
 | Sherwood | 403549 | [403549-sherwood.json](./403549-sherwood.json) |
 | Sherwood Classic | 153682 | [153682-sherwood-classic.json](./153682-sherwood-classic.json) |
+| Sherwood Extreme | 137279 | [137279-sherwood-extreme.json](./137279-sherwood-extreme.json) |
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
 | Shh, Zombies | 21979 | [21979-shh-zombies.json](./21979-shh-zombies.json) |
@@ -11586,6 +11588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Racer | 270277 | [270277-slam-racer.json](./270277-slam-racer.json) |
 | Slam Tank | 419874 | [419874-slam-tank.json](./419874-slam-tank.json) |
 | Slam Tilt | 70944 | [70944-slam-tilt.json](./70944-slam-tilt.json) |
+| Slam-Dunk | 137273 | [137273-slam-dunk.json](./137273-slam-dunk.json) |
 | Slam: Shaq vs. The Legends | 46180 | [46180-slam-shaq-vs-the-legends.json](./46180-slam-shaq-vs-the-legends.json) |
 | Slam! | 94696 | [94696-slam.json](./94696-slam.json) |
 | Slamaverse! | 424042 | [424042-slamaverse.json](./424042-slamaverse.json) |
@@ -17625,6 +17628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Kettle | 167515 | [167515-space-kettle.json](./167515-space-kettle.json) |
 | Space Kids | 69806 | [69806-space-kids.json](./69806-space-kids.json) |
 | Space King | 98247 | [98247-space-king.json](./98247-space-king.json) |
+| Space King-2 | 137275 | [137275-space-king-2.json](./137275-space-king-2.json) |
 | Space Kitten: An Easy Survival Game | 338272 | [338272-space-kitten-an-easy-survival-game.json](./338272-space-kitten-an-easy-survival-game.json) |
 | Space Komandirovka | 119703 | [119703-space-komandirovka.json](./119703-space-komandirovka.json) |
 | Space Lagat | 74953 | [74953-space-lagat.json](./74953-space-lagat.json) |
@@ -24742,6 +24746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strashilki: Shestoe chuvstvo | 315017 | [315017-strashilki-shestoe-chuvstvo.json](./315017-strashilki-shestoe-chuvstvo.json) |
 | Strashna 2 | 291911 | [291911-strashna-2.json](./291911-strashna-2.json) |
 | Strat-O-Gems Deluxe | 40751 | [40751-strat-o-gems-deluxe.json](./40751-strat-o-gems-deluxe.json) |
+| Strat-O-Matic PC Baseball | 137265 | [137265-strat-o-matic-pc-baseball.json](./137265-strat-o-matic-pc-baseball.json) |
 | Strata Scavenger | 65219 | [65219-strata-scavenger.json](./65219-strata-scavenger.json) |
 | Stratagem | 289311 | [289311-stratagem.json](./289311-stratagem.json) |
 | Stratagem in troubled times | 168434 | [168434-stratagem-in-troubled-times.json](./168434-stratagem-in-troubled-times.json) |
