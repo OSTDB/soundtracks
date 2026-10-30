@@ -3870,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Wave: Downfall | 212284 | [212284-after-wave-downfall.json](./212284-after-wave-downfall.json) |
 | After Work | 360586 | [360586-after-work.json](./360586-after-work.json) |
 | After Work | 417423 | [417423-after-work.json](./417423-after-work.json) |
+| After You | 149776 | [149776-after-you.json](./149776-after-you.json) |
 | After-H : Zombies | 141798 | [141798-after-h-zombies.json](./141798-after-h-zombies.json) |
 | After-H: Battle Arena | 141797 | [141797-after-h-battle-arena.json](./141797-after-h-battle-arena.json) |
 | After-H: Legend of Mars | 141799 | [141799-after-h-legend-of-mars.json](./141799-after-h-legend-of-mars.json) |
@@ -8442,6 +8443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel | 299800 | [299800-angel.json](./299800-angel.json) |
 | Angel Adventures | 238403 | [238403-angel-adventures.json](./238403-angel-adventures.json) |
 | Angel and Devil, Ninja, Sushi, Tempura, Panda and the Statue of Liberty | 108389 | [108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json](./108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json) |
+| Angel at Dusk | 149805 | [149805-angel-at-dusk.json](./149805-angel-at-dusk.json) |
 | Angel Beats! 1st Beat | 11414 | [11414-angel-beats-1st-beat.json](./11414-angel-beats-1st-beat.json) |
 | Angel Blade: Neo Tokyo Guardians | 123291 | [123291-angel-blade-neo-tokyo-guardians.json](./123291-angel-blade-neo-tokyo-guardians.json) |
 | Angel Clicker | 381320 | [381320-angel-clicker.json](./381320-angel-clicker.json) |
@@ -8579,6 +8581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angels with Scaly Wings | 27068 | [27068-angels-with-scaly-wings.json](./27068-angels-with-scaly-wings.json) |
 | AngelShooter | 99466 | [99466-angelshooter.json](./99466-angelshooter.json) |
 | AngelStrike | 249904 | [249904-angelstrike.json](./249904-angelstrike.json) |
+| Angelwood | 149778 | [149778-angelwood.json](./149778-angelwood.json) |
 | Angenehm Platz -Kleiner Garten Sie Erstellen | 82060 | [82060-angenehm-platz-kleiner-garten-sie-erstellen.json](./82060-angenehm-platz-kleiner-garten-sie-erstellen.json) |
 | Anger Birds | 259407 | [259407-anger-birds.json](./259407-anger-birds.json) |
 | Anger of Peace 5 | 273753 | [273753-anger-of-peace-5.json](./273753-anger-of-peace-5.json) |
