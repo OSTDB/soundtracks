@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza Kiwami 3 & Dark Ties: Legendary Lads & Gals Set | 375195 | [375195-yakuza-kiwami-3-and-dark-ties-legendary-lads-and-gals-set.json](./375195-yakuza-kiwami-3-and-dark-ties-legendary-lads-and-gals-set.json) |
 | Yakuza Kiwami 3 & Dark Ties: Legendary Outfit Pack | 375196 | [375196-yakuza-kiwami-3-and-dark-ties-legendary-outfit-pack.json](./375196-yakuza-kiwami-3-and-dark-ties-legendary-outfit-pack.json) |
 | Yakuza Kiwami 3 & Dark Ties: Ryukyu Gal Gang Customization Pack | 375197 | [375197-yakuza-kiwami-3-and-dark-ties-ryukyu-gal-gang-customization-pack.json](./375197-yakuza-kiwami-3-and-dark-ties-ryukyu-gal-gang-customization-pack.json) |
+| Yakuza Kiwami: Steelbook Edition | 166968 | [166968-yakuza-kiwami-steelbook-edition.json](./166968-yakuza-kiwami-steelbook-edition.json) |
 | Yakuza Online | 55111 | [55111-yakuza-online.json](./55111-yakuza-online.json) |
 | Yakuza Restored | 248781 | [248781-yakuza-restored.json](./248781-yakuza-restored.json) |
 | Yakuza Series Starter Pack | 311045 | [311045-yakuza-series-starter-pack.json](./311045-yakuza-series-starter-pack.json) |
@@ -828,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yorkshire's Great Race | 237962 | [237962-yorkshires-great-race.json](./237962-yorkshires-great-race.json) |
 | Yoru ga Kuru!: Square of the Moon - Remastered | 298383 | [298383-yoru-ga-kuru-square-of-the-moon-remastered.json](./298383-yoru-ga-kuru-square-of-the-moon-remastered.json) |
 | Yoru no Majin to Ikusa no Kuni: Samayoeru Vampire | 222335 | [222335-yoru-no-majin-to-ikusa-no-kuni-samayoeru-vampire.json](./222335-yoru-no-majin-to-ikusa-no-kuni-samayoeru-vampire.json) |
+| Yoru no Nai Kuni 2: Shingetsu no Hanayome - Premium Box | 166970 | [166970-yoru-no-nai-kuni-2-shingetsu-no-hanayome-premium-box.json](./166970-yoru-no-nai-kuni-2-shingetsu-no-hanayome-premium-box.json) |
 | Yoru no Rojiura Annai | 327921 | [327921-yoru-no-rojiura-annai.json](./327921-yoru-no-rojiura-annai.json) |
 | Yoru no Umi de Otsukisama wo Tsuru | 147229 | [147229-yoru-no-umi-de-otsukisama-wo-tsuru.json](./147229-yoru-no-umi-de-otsukisama-wo-tsuru.json) |
 | Yoru, Tomosu | 136740 | [136740-yoru-tomosu.json](./136740-yoru-tomosu.json) |
