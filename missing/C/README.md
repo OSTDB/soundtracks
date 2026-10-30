@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabbage Patch Kids: The Patch Puppy Rescue | 49363 | [49363-cabbage-patch-kids-the-patch-puppy-rescue.json](./49363-cabbage-patch-kids-the-patch-puppy-rescue.json) |
 | Cabbagers | 226277 | [226277-cabbagers.json](./226277-cabbagers.json) |
 | Cabbages and Kings | 71237 | [71237-cabbages-and-kings.json](./71237-cabbages-and-kings.json) |
+| Cabbibo's Play Pack | 135458 | [135458-cabbibos-play-pack.json](./135458-cabbibos-play-pack.json) |
 | Cabbie! | 327213 | [327213-cabbie.json](./327213-cabbie.json) |
 | Cabela's 4x4 Off-Road Adventure | 94238 | [94238-cabelas-4x4-off-road-adventure.json](./94238-cabelas-4x4-off-road-adventure.json) |
 | Cabela's 4x4 Off-Road Adventure 2 | 92531 | [92531-cabelas-4x4-off-road-adventure-2.json](./92531-cabelas-4x4-off-road-adventure-2.json) |
@@ -3404,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: The Dracula X Chronicles | 21888 | [21888-castlevania-the-dracula-x-chronicles.json](./21888-castlevania-the-dracula-x-chronicles.json) |
 | Castlevania: The Holy Relics | 127263 | [127263-castlevania-the-holy-relics.json](./127263-castlevania-the-holy-relics.json) |
 | Castlevania: The Last Tear | 222346 | [222346-castlevania-the-last-tear.json](./222346-castlevania-the-last-tear.json) |
+| Castlevania: The Lecarde Chronicles 2 | 135472 | [135472-castlevania-the-lecarde-chronicles-2.json](./135472-castlevania-the-lecarde-chronicles-2.json) |
 | Castlevania: The Seal Of The Curse X | 317630 | [317630-castlevania-the-seal-of-the-curse-x.json](./317630-castlevania-the-seal-of-the-curse-x.json) |
 | CastleVille | 50351 | [50351-castleville.json](./50351-castleville.json) |
 | CastleVille Legends | 38906 | [38906-castleville-legends.json](./38906-castleville-legends.json) |
@@ -12613,6 +12615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conversation With a Rock | 297099 | [297099-conversation-with-a-rock.json](./297099-conversation-with-a-rock.json) |
 | ConversationalRumblings | 300340 | [300340-conversationalrumblings.json](./300340-conversationalrumblings.json) |
 | Conversations We Have In My Head | 181750 | [181750-conversations-we-have-in-my-head.json](./181750-conversations-we-have-in-my-head.json) |
+| Conversations with Emma | 135459 | [135459-conversations-with-emma.json](./135459-conversations-with-emma.json) |
 | Conversations With My Anxiety | 134993 | [134993-conversations-with-my-anxiety.json](./134993-conversations-with-my-anxiety.json) |
 | Converse Hardcore Hoops | 208790 | [208790-converse-hardcore-hoops.json](./208790-converse-hardcore-hoops.json) |
 | Convertible Wop | 104442 | [104442-convertible-wop.json](./104442-convertible-wop.json) |
@@ -13558,6 +13561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmology of Kyoto | 46577 | [46577-cosmology-of-kyoto.json](./46577-cosmology-of-kyoto.json) |
 | Cosmonade | 373299 | [373299-cosmonade.json](./373299-cosmonade.json) |
 | Cosmonarchy | 304974 | [304974-cosmonarchy.json](./304974-cosmonarchy.json) |
+| Cosmonaut | 135460 | [135460-cosmonaut.json](./135460-cosmonaut.json) |
 | Cosmonaut | 228342 | [228342-cosmonaut.json](./228342-cosmonaut.json) |
 | Cosmonaut | 81103 | [81103-cosmonaut.json](./81103-cosmonaut.json) |
 | Cosmonauta | 129486 | [129486-cosmonauta.json](./129486-cosmonauta.json) |
