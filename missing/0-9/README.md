@@ -1997,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3Buttons | 110352 | [110352-3buttons.json](./110352-3buttons.json) |
 | 3C Wonderland Coaster | 111071 | [111071-3c-wonderland-coaster.json](./111071-3c-wonderland-coaster.json) |
 | 3Chess | 400449 | [400449-3chess.json](./400449-3chess.json) |
+| 3D Aim Trainer | 133615 | [133615-3d-aim-trainer.json](./133615-3d-aim-trainer.json) |
 | 3D Air Hockey | 154912 | [154912-3d-air-hockey.json](./154912-3d-air-hockey.json) |
 | 3D Alien Invasion | 210361 | [210361-3d-alien-invasion.json](./210361-3d-alien-invasion.json) |
 | 3D Alien Syndrome | 202925 | [202925-3d-alien-syndrome.json](./202925-3d-alien-syndrome.json) |
