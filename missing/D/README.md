@@ -1727,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Static | 362886 | [362886-dark-static.json](./362886-dark-static.json) |
 | Dark Steel | 223604 | [223604-dark-steel.json](./223604-dark-steel.json) |
 | Dark Steel Legends | 372819 | [372819-dark-steel-legends.json](./372819-dark-steel-legends.json) |
+| Dark Stone: The Lightseeker | 157854 | [157854-dark-stone-the-lightseeker.json](./157854-dark-stone-the-lightseeker.json) |
 | Dark Stories | 311685 | [311685-dark-stories.json](./311685-dark-stories.json) |
 | Dark Storm | 61490 | [61490-dark-storm.json](./61490-dark-storm.json) |
 | Dark Storm VR Missions | 34649 | [34649-dark-storm-vr-missions.json](./34649-dark-storm-vr-missions.json) |
