@@ -2721,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In-Terror-Gation | 280960 | [280960-in-terror-gation.json](./280960-in-terror-gation.json) |
 | In'ernus | 370263 | [370263-inernus.json](./370263-inernus.json) |
 | Ina Koi! Oinari-sama to Motemote no Tatari | 68120 | [68120-ina-koi-oinari-sama-to-motemote-no-tatari.json](./68120-ina-koi-oinari-sama-to-motemote-no-tatari.json) |
+| Inabatron | 134847 | [134847-inabatron.json](./134847-inabatron.json) |
 | Inaccessible World | 86441 | [86441-inaccessible-world.json](./86441-inaccessible-world.json) |
 | Inagawa de Ikou!! | 317803 | [317803-inagawa-de-ikou.json](./317803-inagawa-de-ikou.json) |
 | Inago Rage | 335797 | [335797-inago-rage.json](./335797-inago-rage.json) |
