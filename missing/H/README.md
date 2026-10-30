@@ -5782,6 +5782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexadel | 374921 | [374921-hexadel.json](./374921-hexadel.json) |
 | Hexadrift | 126918 | [126918-hexadrift.json](./126918-hexadrift.json) |
 | Hexaflip | 289295 | [289295-hexaflip.json](./289295-hexaflip.json) |
+| Hexaflip: The Action Puzzler | 124395 | [124395-hexaflip-the-action-puzzler.json](./124395-hexaflip-the-action-puzzler.json) |
 | Hexagold | 264157 | [264157-hexagold.json](./264157-hexagold.json) |
 | Hexagolines | 262218 | [262218-hexagolines.json](./262218-hexagolines.json) |
 | Hexagon Defense | 147909 | [147909-hexagon-defense.json](./147909-hexagon-defense.json) |
