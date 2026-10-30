@@ -5141,6 +5141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KrankShot! | 353789 | [353789-krankshot.json](./353789-krankshot.json) |
 | krAsAvA Shot | 116831 | [116831-krasava-shot.json](./116831-krasava-shot.json) |
 | Krashimals | 330558 | [330558-krashimals.json](./330558-krashimals.json) |
+| Krashlander | 143288 | [143288-krashlander.json](./143288-krashlander.json) |
 | Krasnaya Factory | 385670 | [385670-krasnaya-factory.json](./385670-krasnaya-factory.json) |
 | Krastorio 2 | 375568 | [375568-krastorio-2.json](./375568-krastorio-2.json) |
 | Krater: Shadows over Solside | 2020 | [2020-krater-shadows-over-solside.json](./2020-krater-shadows-over-solside.json) |
