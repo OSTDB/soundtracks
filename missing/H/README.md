@@ -4980,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hephep Fever: Retold | 334476 | [334476-hephep-fever-retold.json](./334476-hephep-fever-retold.json) |
 | Hepo | 266318 | [266318-hepo.json](./266318-hepo.json) |
 | Hepta Beats | 157347 | [157347-hepta-beats.json](./157347-hepta-beats.json) |
+| Heptagon | 149788 | [149788-heptagon.json](./149788-heptagon.json) |
 | Her | 105347 | [105347-her.json](./105347-her.json) |
 | Her 2: I Want to See You Again | 114821 | [114821-her-2-i-want-to-see-you-again.json](./114821-her-2-i-want-to-see-you-again.json) |
 | Her Age, My Sex, Your Location | 354813 | [354813-her-age-my-sex-your-location.json](./354813-her-age-my-sex-your-location.json) |
@@ -7610,6 +7611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hlína | 335501 | [335501-hlina.json](./335501-hlina.json) |
 | Hlípa | 131414 | [131414-hlipa.json](./131414-hlipa.json) |
 | Hljod | 235919 | [235919-hljod.json](./235919-hljod.json) |
+| Hmmsim Metro | 149786 | [149786-hmmsim-metro.json](./149786-hmmsim-metro.json) |
 | Hmph! Hmph! Yowai | 289454 | [289454-hmph-hmph-yowai.json](./289454-hmph-hmph-yowai.json) |
 | HMUR | 359893 | [359893-hmur.json](./359893-hmur.json) |
 | Hnefatafl | 133083 | [133083-hnefatafl.json](./133083-hnefatafl.json) |
