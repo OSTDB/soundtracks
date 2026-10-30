@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi and the Mysterious Book | 366883 | [366883-yoshi-and-the-mysterious-book.json](./366883-yoshi-and-the-mysterious-book.json) |
 | Yoshi Commits Tax Fraud 64 | 294710 | [294710-yoshi-commits-tax-fraud-64.json](./294710-yoshi-commits-tax-fraud-64.json) |
 | Yoshi Deja Vu DS | 215767 | [215767-yoshi-deja-vu-ds.json](./215767-yoshi-deja-vu-ds.json) |
+| Yoshi Demo | 163095 | [163095-yoshi-demo.json](./163095-yoshi-demo.json) |
 | Yoshi Goes to Tesco | 246250 | [246250-yoshi-goes-to-tesco.json](./246250-yoshi-goes-to-tesco.json) |
 | Yoshi Gone MFGG | 307660 | [307660-yoshi-gone-mfgg.json](./307660-yoshi-gone-mfgg.json) |
 | Yoshi Heardle | 203823 | [203823-yoshi-heardle.json](./203823-yoshi-heardle.json) |
