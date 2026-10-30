@@ -3028,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Cab | 347022 | [347022-castle-cab.json](./347022-castle-cab.json) |
 | Castle Cairn | 376098 | [376098-castle-cairn.json](./376098-castle-cairn.json) |
 | Castle Capture Topkapi | 232447 | [232447-castle-capture-topkapi.json](./232447-castle-capture-topkapi.json) |
+| Castle Cardians | 160033 | [160033-castle-cardians.json](./160033-castle-cardians.json) |
 | Castle Cat 3 | 356074 | [356074-castle-cat-3.json](./356074-castle-cat-3.json) |
 | Castle Cats | 54991 | [54991-castle-cats.json](./54991-castle-cats.json) |
 | Castle Champion | 154390 | [154390-castle-champion.json](./154390-castle-champion.json) |
@@ -5601,6 +5602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheap Tattoo | 414764 | [414764-cheap-tattoo.json](./414764-cheap-tattoo.json) |
 | Cheaphaven | 203247 | [203247-cheaphaven.json](./203247-cheaphaven.json) |
 | Cheapshot | 130885 | [130885-cheapshot.json](./130885-cheapshot.json) |
+| Cheat or Die | 160031 | [160031-cheat-or-die.json](./160031-cheat-or-die.json) |
 | Cheatbusters | 52497 | [52497-cheatbusters.json](./52497-cheatbusters.json) |
 | CheatCheat | 402363 | [402363-cheatcheat.json](./402363-cheatcheat.json) |
 | Cheater's Table | 391316 | [391316-cheaters-table.json](./391316-cheaters-table.json) |
@@ -9633,6 +9635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutter 19: Survey Says What? - Collector's Edition | 416781 | [416781-clutter-19-survey-says-what-collectors-edition.json](./416781-clutter-19-survey-says-what-collectors-edition.json) |
 | Clutter 2: He Said She Said | 317294 | [317294-clutter-2-he-said-she-said.json](./317294-clutter-2-he-said-she-said.json) |
 | Clutter Craze | 82188 | [82188-clutter-craze.json](./82188-clutter-craze.json) |
+| Clutter Evolution: Beyond Xtreme | 160014 | [160014-clutter-evolution-beyond-xtreme.json](./160014-clutter-evolution-beyond-xtreme.json) |
 | Clutter III : Who Is The Void? | 318199 | [318199-clutter-iii-who-is-the-void.json](./318199-clutter-iii-who-is-the-void.json) |
 | Clutter Infinity: Joe's Ultimate Quest | 54809 | [54809-clutter-infinity-joes-ultimate-quest.json](./54809-clutter-infinity-joes-ultimate-quest.json) |
 | Clutter IX: Clutter IXtreme | 163798 | [163798-clutter-ix-clutter-ixtreme.json](./163798-clutter-ix-clutter-ixtreme.json) |
@@ -16573,6 +16576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Towers | 73164 | [73164-crystal-towers.json](./73164-crystal-towers.json) |
 | Crystal Towers 2 XL | 46642 | [46642-crystal-towers-2-xl.json](./46642-crystal-towers-2-xl.json) |
 | Crystal Vale: Dino Escape | 387662 | [387662-crystal-vale-dino-escape.json](./387662-crystal-vale-dino-escape.json) |
+| Crystal Valley | 160051 | [160051-crystal-valley.json](./160051-crystal-valley.json) |
 | Crystal Vein | 396000 | [396000-crystal-vein.json](./396000-crystal-vein.json) |
 | Crystal Veins | 379149 | [379149-crystal-veins.json](./379149-crystal-veins.json) |
 | Crystal Venture | 189194 | [189194-crystal-venture.json](./189194-crystal-venture.json) |
