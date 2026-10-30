@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderer: The Fragments of Fate | 253728 | [253728-wanderer-the-fragments-of-fate.json](./253728-wanderer-the-fragments-of-fate.json) |
 | Wanderer's Guide to Ocean and Islands | 300486 | [300486-wanderers-guide-to-ocean-and-islands.json](./300486-wanderers-guide-to-ocean-and-islands.json) |
 | Wanderer's Shade | 310183 | [310183-wanderers-shade.json](./310183-wanderers-shade.json) |
+| Wanderers | 148734 | [148734-wanderers.json](./148734-wanderers.json) |
 | Wanderers | 185030 | [185030-wanderers.json](./185030-wanderers.json) |
 | Wanderers | 377158 | [377158-wanderers.json](./377158-wanderers.json) |
 | Wanderers.io | 178085 | [178085-wanderers-io.json](./178085-wanderers-io.json) |
