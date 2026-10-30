@@ -4218,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death to Spies | 9376 | [9376-death-to-spies.json](./9376-death-to-spies.json) |
 | Death to Spies: Gold Edition | 51291 | [51291-death-to-spies-gold-edition.json](./51291-death-to-spies-gold-edition.json) |
 | Death to Spies: Moment of Truth | 9377 | [9377-death-to-spies-moment-of-truth.json](./9377-death-to-spies-moment-of-truth.json) |
+| Death to the Dragon Lord | 126795 | [126795-death-to-the-dragon-lord.json](./126795-death-to-the-dragon-lord.json) |
 | Death Toll | 74762 | [74762-death-toll.json](./74762-death-toll.json) |
 | Death Tormention: The Complete Trilogy | 261287 | [261287-death-tormention-the-complete-trilogy.json](./261287-death-tormention-the-complete-trilogy.json) |
 | Death Tour | 242798 | [242798-death-tour.json](./242798-death-tour.json) |
@@ -5060,6 +5061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend the Terra Attack on the Red UFO | 39525 | [39525-defend-the-terra-attack-on-the-red-ufo.json](./39525-defend-the-terra-attack-on-the-red-ufo.json) |
 | Defend the Tower: Castle Defence Element | 109486 | [109486-defend-the-tower-castle-defence-element.json](./109486-defend-the-tower-castle-defence-element.json) |
 | Defend the Village From Goblins | 153534 | [153534-defend-the-village-from-goblins.json](./153534-defend-the-village-from-goblins.json) |
+| Defend Them ! | 126788 | [126788-defend-them.json](./126788-defend-them.json) |
 | Defend Tower: TD strategy | 130908 | [130908-defend-tower-td-strategy.json](./130908-defend-tower-td-strategy.json) |
 | Defend Your Buttress | 76500 | [76500-defend-your-buttress.json](./76500-defend-your-buttress.json) |
 | Defend Your Castle | 383124 | [383124-defend-your-castle.json](./383124-defend-your-castle.json) |
@@ -14066,6 +14068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawing Telephone Game: Telpic | 138635 | [138635-drawing-telephone-game-telpic.json](./138635-drawing-telephone-game-telpic.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Drawize | 131579 | [131579-drawize.json](./131579-drawize.json) |
+| Drawkanoid: Review Breaker | 126780 | [126780-drawkanoid-review-breaker.json](./126780-drawkanoid-review-breaker.json) |
 | Drawmi: Creature Collector | 416374 | [416374-drawmi-creature-collector.json](./416374-drawmi-creature-collector.json) |
 | Drawmi: Terraform Sim | 424696 | [424696-drawmi-terraform-sim.json](./424696-drawmi-terraform-sim.json) |
 | Drawn Before | 401615 | [401615-drawn-before.json](./401615-drawn-before.json) |
