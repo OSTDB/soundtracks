@@ -1315,6 +1315,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Army 4: Dead War - Mission 4: Damnation Valley | 141058 | [141058-zombie-army-4-dead-war-mission-4-damnation-valley.json](./141058-zombie-army-4-dead-war-mission-4-damnation-valley.json) |
 | Zombie Army 4: Dead War - Mission 5: Alpine Blitz | 143684 | [143684-zombie-army-4-dead-war-mission-5-alpine-blitz.json](./143684-zombie-army-4-dead-war-mission-5-alpine-blitz.json) |
 | Zombie Army 4: Dead War - Mission 6: Dead Zeppelin | 143685 | [143685-zombie-army-4-dead-war-mission-6-dead-zeppelin.json](./143685-zombie-army-4-dead-war-mission-6-dead-zeppelin.json) |
+| Zombie Army 4: Dead War - Mission 7: Terminal Error | 154773 | [154773-zombie-army-4-dead-war-mission-7-terminal-error.json](./154773-zombie-army-4-dead-war-mission-7-terminal-error.json) |
+| Zombie Army 4: Dead War - Mission 8: Abaddon Asylum | 154774 | [154774-zombie-army-4-dead-war-mission-8-abaddon-asylum.json](./154774-zombie-army-4-dead-war-mission-8-abaddon-asylum.json) |
 | Zombie Army 4: Dead War - Mission 9: Return to Hell | 162621 | [162621-zombie-army-4-dead-war-mission-9-return-to-hell.json](./162621-zombie-army-4-dead-war-mission-9-return-to-hell.json) |
 | Zombie Army 4: Dead War - Mission 9: Return to Hell | 163352 | [163352-zombie-army-4-dead-war-mission-9-return-to-hell.json](./163352-zombie-army-4-dead-war-mission-9-return-to-hell.json) |
 | Zombie Army 4: Dead War - Paratrooper Zombie Character | 155451 | [155451-zombie-army-4-dead-war-paratrooper-zombie-character.json](./155451-zombie-army-4-dead-war-paratrooper-zombie-character.json) |
