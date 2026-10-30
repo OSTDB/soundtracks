@@ -1479,7 +1479,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhaven | 163087 | [163087-warhaven.json](./163087-warhaven.json) |
 | Warhawk | 36532 | [36532-warhawk.json](./36532-warhawk.json) |
 | Warhawk | 371272 | [371272-warhawk.json](./371272-warhawk.json) |
-| Warhawk | 79687 | [79687-warhawk.json](./79687-warhawk.json) |
 | Warhawk: Operation Fallen Star | 21871 | [21871-warhawk-operation-fallen-star.json](./21871-warhawk-operation-fallen-star.json) |
 | Warhead | 396769 | [396769-warhead.json](./396769-warhead.json) |
 | Warhead Circus | 383028 | [383028-warhead-circus.json](./383028-warhead-circus.json) |
