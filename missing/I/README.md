@@ -2216,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Love: Polar Lights Collector's Edition | 276649 | [276649-immortal-love-polar-lights-collectors-edition.json](./276649-immortal-love-polar-lights-collectors-edition.json) |
 | Immortal Love: Sparkle of Talent | 187956 | [187956-immortal-love-sparkle-of-talent.json](./187956-immortal-love-sparkle-of-talent.json) |
 | Immortal Love: Sparkle of Talent - Collector's Edition | 397126 | [397126-immortal-love-sparkle-of-talent-collectors-edition.json](./397126-immortal-love-sparkle-of-talent-collectors-edition.json) |
+| Immortal Love: Stone Beauty | 140198 | [140198-immortal-love-stone-beauty.json](./140198-immortal-love-stone-beauty.json) |
 | Immortal Love: Stone Beauty - Collector's Edition | 130156 | [130156-immortal-love-stone-beauty-collectors-edition.json](./130156-immortal-love-stone-beauty-collectors-edition.json) |
 | Immortal Love: The Price of a Miracle | 397118 | [397118-immortal-love-the-price-of-a-miracle.json](./397118-immortal-love-the-price-of-a-miracle.json) |
 | Immortal Love: The Price of a Miracle - Collector's Edition | 397119 | [397119-immortal-love-the-price-of-a-miracle-collectors-edition.json](./397119-immortal-love-the-price-of-a-miracle-collectors-edition.json) |
@@ -3430,6 +3431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Roads | 245261 | [245261-infinite-roads.json](./245261-infinite-roads.json) |
 | Infinite Robotics | 279000 | [279000-infinite-robotics.json](./279000-infinite-robotics.json) |
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
+| Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
@@ -3791,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkbowser.exe | 283097 | [283097-inkbowser-exe.json](./283097-inkbowser-exe.json) |
 | Inked | 96278 | [96278-inked.json](./96278-inked.json) |
 | Inken | 394555 | [394555-inken.json](./394555-inken.json) |
+| Inkey University | 140182 | [140182-inkey-university.json](./140182-inkey-university.json) |
 | Inkfish | 190874 | [190874-inkfish.json](./190874-inkfish.json) |
 | Inkheart | 123332 | [123332-inkheart.json](./123332-inkheart.json) |
 | Inkighter | 244827 | [244827-inkighter.json](./244827-inkighter.json) |
@@ -4524,6 +4527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Conquest | 238582 | [238582-interstellar-conquest.json](./238582-interstellar-conquest.json) |
 | Interstellar Dragon: Into the depths... of space! | 374670 | [374670-interstellar-dragon-into-the-depths-of-space.json](./374670-interstellar-dragon-into-the-depths-of-space.json) |
 | Interstellar Empires | 378595 | [378595-interstellar-empires.json](./378595-interstellar-empires.json) |
+| Interstellar Enforcer | 139005 | [139005-interstellar-enforcer.json](./139005-interstellar-enforcer.json) |
 | Interstellar Escape | 333795 | [333795-interstellar-escape.json](./333795-interstellar-escape.json) |
 | Interstellar Espionage Inc. | 372453 | [372453-interstellar-espionage-inc.json](./372453-interstellar-espionage-inc.json) |
 | Interstellar Expedition | 246818 | [246818-interstellar-expedition.json](./246818-interstellar-expedition.json) |
@@ -5140,6 +5144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Clash | 208176 | [208176-iron-clash.json](./208176-iron-clash.json) |
 | Iron Colony | 381082 | [381082-iron-colony.json](./381082-iron-colony.json) |
 | Iron Commando | 34040 | [34040-iron-commando.json](./34040-iron-commando.json) |
+| Iron Conflict | 140777 | [140777-iron-conflict.json](./140777-iron-conflict.json) |
 | Iron Convoy | 330859 | [330859-iron-convoy.json](./330859-iron-convoy.json) |
 | Iron Cross | 80581 | [80581-iron-cross.json](./80581-iron-cross.json) |
 | Iron Crown | 318183 | [318183-iron-crown.json](./318183-iron-crown.json) |
