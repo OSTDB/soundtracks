@@ -10124,6 +10124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FramePerfect | 394532 | [394532-frameperfect.json](./394532-frameperfect.json) |
 | Framework Zero: Terminal Panic | 405750 | [405750-framework-zero-terminal-panic.json](./405750-framework-zero-terminal-panic.json) |
 | Framing Dawes | 126916 | [126916-framing-dawes.json](./126916-framing-dawes.json) |
+| Framing Summer | 130513 | [130513-framing-summer.json](./130513-framing-summer.json) |
 | Fran Bow | 11821 | [11821-fran-bow.json](./11821-fran-bow.json) |
 | Fran Bow Chapter 1 | 90962 | [90962-fran-bow-chapter-1.json](./90962-fran-bow-chapter-1.json) |
 | Fran Bow Chapter 4 | 91996 | [91996-fran-bow-chapter-4.json](./91996-fran-bow-chapter-4.json) |
