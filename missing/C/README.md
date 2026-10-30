@@ -5975,6 +5975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess of Doom | 346550 | [346550-chess-of-doom.json](./346550-chess-of-doom.json) |
 | Chess of Fortune | 357216 | [357216-chess-of-fortune.json](./357216-chess-of-fortune.json) |
 | Chess of the SOL | 181633 | [181633-chess-of-the-sol.json](./181633-chess-of-the-sol.json) |
+| Chess on Ice | 158878 | [158878-chess-on-ice.json](./158878-chess-on-ice.json) |
 | Chess Online | 88433 | [88433-chess-online.json](./88433-chess-online.json) |
 | Chess Online + | 88339 | [88339-chess-online.json](./88339-chess-online.json) |
 | Chess Opening Repertoire Builder | 297724 | [297724-chess-opening-repertoire-builder.json](./297724-chess-opening-repertoire-builder.json) |
@@ -15453,6 +15454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis | 183191 | [183191-crisis.json](./183191-crisis.json) |
 | Crisis Action | 86093 | [86093-crisis-action.json](./86093-crisis-action.json) |
 | Crisis Action VR | 51500 | [51500-crisis-action-vr.json](./51500-crisis-action-vr.json) |
+| Crisis Arcana | 158897 | [158897-crisis-arcana.json](./158897-crisis-arcana.json) |
 | Crisis Beat | 4136 | [4136-crisis-beat.json](./4136-crisis-beat.json) |
 | Crisis Brigade 2: Reloaded | 223144 | [223144-crisis-brigade-2-reloaded.json](./223144-crisis-brigade-2-reloaded.json) |
 | Crisis Bullet | 296446 | [296446-crisis-bullet.json](./296446-crisis-bullet.json) |
@@ -16331,6 +16333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt of Medea | 15512 | [15512-crypt-of-medea.json](./15512-crypt-of-medea.json) |
 | Crypt of Shadows | 130183 | [130183-crypt-of-shadows.json](./130183-crypt-of-shadows.json) |
 | Crypt of the Fungal Lord | 179140 | [179140-crypt-of-the-fungal-lord.json](./179140-crypt-of-the-fungal-lord.json) |
+| Crypt of the Gods | 158862 | [158862-crypt-of-the-gods.json](./158862-crypt-of-the-gods.json) |
 | Crypt of the Necrodancer: Amplified | 26613 | [26613-crypt-of-the-necrodancer-amplified.json](./26613-crypt-of-the-necrodancer-amplified.json) |
 | Crypt of the Necrodancer: Collector's Edition | 139866 | [139866-crypt-of-the-necrodancer-collectors-edition.json](./139866-crypt-of-the-necrodancer-collectors-edition.json) |
 | Crypt of the NecroDancer: Hatsune Miku | 295649 | [295649-crypt-of-the-necrodancer-hatsune-miku.json](./295649-crypt-of-the-necrodancer-hatsune-miku.json) |
