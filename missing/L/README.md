@@ -2968,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leguiumz Experience | 304580 | [304580-leguiumz-experience.json](./304580-leguiumz-experience.json) |
 | Legumi | 292749 | [292749-legumi.json](./292749-legumi.json) |
 | LeHweng LeHweng | 156683 | [156683-lehweng-lehweng.json](./156683-lehweng-lehweng.json) |
+| Léidiàn Huáng: Pikachu Chuánshuō | 163097 | [163097-leidian-huang-pikachu-chuanshuo.json](./163097-leidian-huang-pikachu-chuanshuo.json) |
 | Leif's Adventure: Netherworld Hero | 85245 | [85245-leifs-adventure-netherworld-hero.json](./85245-leifs-adventure-netherworld-hero.json) |
 | Leiji Matsumoto 999: Story of Galaxy Express 999 | 70283 | [70283-leiji-matsumoto-999-story-of-galaxy-express-999.json](./70283-leiji-matsumoto-999-story-of-galaxy-express-999.json) |
 | Leikkaus | 413620 | [413620-leikkaus.json](./413620-leikkaus.json) |
@@ -8907,6 +8908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lurking Danger | 337745 | [337745-lurking-danger.json](./337745-lurking-danger.json) |
 | Lurking Darkness | 319025 | [319025-lurking-darkness.json](./319025-lurking-darkness.json) |
 | Lurking I: Immortui | 176418 | [176418-lurking-i-immortui.json](./176418-lurking-i-immortui.json) |
+| Lurking in the Dark | 163110 | [163110-lurking-in-the-dark.json](./163110-lurking-in-the-dark.json) |
 | Lurking in the Shadows | 58244 | [58244-lurking-in-the-shadows.json](./58244-lurking-in-the-shadows.json) |
 | Lurking Within | 416804 | [416804-lurking-within.json](./416804-lurking-within.json) |
 | Lurks Below | 99075 | [99075-lurks-below.json](./99075-lurks-below.json) |
