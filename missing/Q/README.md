@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuakeWorld | 300456 | [300456-quakeworld.json](./300456-quakeworld.json) |
 | Qual | 142908 | [142908-qual.json](./142908-qual.json) |
 | Qual a Capa? | 227489 | [227489-qual-a-capa.json](./227489-qual-a-capa.json) |
+| Qual é a Música | 134225 | [134225-qual-e-a-musica.json](./134225-qual-e-a-musica.json) |
 | Qualatro | 380535 | [380535-qualatro.json](./380535-qualatro.json) |
 | Qualia | 325349 | [325349-qualia.json](./325349-qualia.json) |
 | Qualia | 383032 | [383032-qualia.json](./383032-qualia.json) |
