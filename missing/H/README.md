@@ -3073,11 +3073,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron II: Doomsday | 10397 | [10397-hearts-of-iron-ii-doomsday.json](./10397-hearts-of-iron-ii-doomsday.json) |
 | Hearts of Iron II: Iron Cross | 17023 | [17023-hearts-of-iron-ii-iron-cross.json](./17023-hearts-of-iron-ii-iron-cross.json) |
 | Hearts of Iron III Collection | 53177 | [53177-hearts-of-iron-iii-collection.json](./53177-hearts-of-iron-iii-collection.json) |
+| Hearts of Iron III: Axis Minors Vehicle Pack | 162051 | [162051-hearts-of-iron-iii-axis-minors-vehicle-pack.json](./162051-hearts-of-iron-iii-axis-minors-vehicle-pack.json) |
 | Hearts of Iron III: DLC Collection | 154613 | [154613-hearts-of-iron-iii-dlc-collection.json](./154613-hearts-of-iron-iii-dlc-collection.json) |
 | Hearts of Iron III: For the Motherland | 10400 | [10400-hearts-of-iron-iii-for-the-motherland.json](./10400-hearts-of-iron-iii-for-the-motherland.json) |
+| Hearts of Iron III: Italian Vehicle Pack | 162050 | [162050-hearts-of-iron-iii-italian-vehicle-pack.json](./162050-hearts-of-iron-iii-italian-vehicle-pack.json) |
 | Hearts of Iron III: Semper Fi | 10399 | [10399-hearts-of-iron-iii-semper-fi.json](./10399-hearts-of-iron-iii-semper-fi.json) |
 | Hearts of Iron III: Semper Fi - Dies Irae Götterdämmerung | 151256 | [151256-hearts-of-iron-iii-semper-fi-dies-irae-gotterdammerung.json](./151256-hearts-of-iron-iii-semper-fi-dies-irae-gotterdammerung.json) |
+| Hearts of Iron III: Soviet Pack | 162052 | [162052-hearts-of-iron-iii-soviet-pack.json](./162052-hearts-of-iron-iii-soviet-pack.json) |
 | Hearts of Iron III: Their Finest Hour | 10401 | [10401-hearts-of-iron-iii-their-finest-hour.json](./10401-hearts-of-iron-iii-their-finest-hour.json) |
+| Hearts of Iron III: US Pack | 162065 | [162065-hearts-of-iron-iii-us-pack.json](./162065-hearts-of-iron-iii-us-pack.json) |
 | Hearts of Iron IV: Allied Armor Pack | 165012 | [165012-hearts-of-iron-iv-allied-armor-pack.json](./165012-hearts-of-iron-iv-allied-armor-pack.json) |
 | Hearts of Iron IV: Arms Against Tyranny | 253959 | [253959-hearts-of-iron-iv-arms-against-tyranny.json](./253959-hearts-of-iron-iv-arms-against-tyranny.json) |
 | Hearts of Iron IV: Battle for the Bosporus | 151257 | [151257-hearts-of-iron-iv-battle-for-the-bosporus.json](./151257-hearts-of-iron-iv-battle-for-the-bosporus.json) |
