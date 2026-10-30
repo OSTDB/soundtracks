@@ -1486,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Hearts: Turn the Undead into Anime Girls | 399650 | [399650-zombie-hearts-turn-the-undead-into-anime-girls.json](./399650-zombie-hearts-turn-the-undead-into-anime-girls.json) |
 | Zombie Hell: Infected City | 216814 | [216814-zombie-hell-infected-city.json](./216814-zombie-hell-infected-city.json) |
 | Zombie High Dive | 344004 | [344004-zombie-high-dive.json](./344004-zombie-high-dive.json) |
+| Zombie High School | 145840 | [145840-zombie-high-school.json](./145840-zombie-high-school.json) |
 | Zombie Highway | 201839 | [201839-zombie-highway.json](./201839-zombie-highway.json) |
 | Zombie Highway 2 | 199969 | [199969-zombie-highway-2.json](./199969-zombie-highway-2.json) |
 | Zombie Highway: Driver's Ed | 344279 | [344279-zombie-highway-drivers-ed.json](./344279-zombie-highway-drivers-ed.json) |
