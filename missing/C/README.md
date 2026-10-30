@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.H.A.I.N. | 140652 | [140652-c-h-a-i-n.json](./140652-c-h-a-i-n.json) |
 | C.H.A.I.N.G.E.D. | 252190 | [252190-c-h-a-i-n-g-e-d.json](./252190-c-h-a-i-n-g-e-d.json) |
 | C.H.A.O.S Tournament | 117726 | [117726-c-h-a-o-s-tournament.json](./117726-c-h-a-o-s-tournament.json) |
+| C.H.A.S.E.D. | 132413 | [132413-c-h-a-s-e-d.json](./132413-c-h-a-s-e-d.json) |
 | C.I.E.B The Backrooms Project | 265402 | [265402-c-i-e-b-the-backrooms-project.json](./265402-c-i-e-b-the-backrooms-project.json) |
 | C.I.T.Y. 2000 | 70022 | [70022-c-i-t-y-2000.json](./70022-c-i-t-y-2000.json) |
 | C.L.A.S.H: Colonial Life Advancing Self-sustained Hemisphere - Chapter 1 | 406245 | [406245-c-l-a-s-h-colonial-life-advancing-self-sustained-hemisphere-chapter-1.json](./406245-c-l-a-s-h-colonial-life-advancing-self-sustained-hemisphere-chapter-1.json) |
