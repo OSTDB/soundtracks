@@ -10040,6 +10040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gurk III | 19126 | [19126-gurk-iii.json](./19126-gurk-iii.json) |
 | Gurk III: the 8-bit RPG | 200671 | [200671-gurk-iii-the-8-bit-rpg.json](./200671-gurk-iii-the-8-bit-rpg.json) |
 | Gurmple Champs | 395712 | [395712-gurmple-champs.json](./395712-gurmple-champs.json) |
+| Gurney to Gurney | 151392 | [151392-gurney-to-gurney.json](./151392-gurney-to-gurney.json) |
 | Guro Dere | 108971 | [108971-guro-dere.json](./108971-guro-dere.json) |
 | Gurobu | 149914 | [149914-gurobu.json](./149914-gurobu.json) |
 | Guroku | 144820 | [144820-guroku.json](./144820-guroku.json) |
