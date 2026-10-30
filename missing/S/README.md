@@ -1680,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Silent Night | 183912 | [183912-santas-silent-night.json](./183912-santas-silent-night.json) |
 | Santa's Spot It | 317227 | [317227-santas-spot-it.json](./317227-santas-spot-it.json) |
 | Santa's Spot It + Exit Station 7 + Find Room 96 + HighScore Anomaly Shop +HighScore Anomaly Underground | 319775 | [319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json](./319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json) |
+| Santa's Toy Factory Nonograms | 149787 | [149787-santas-toy-factory-nonograms.json](./149787-santas-toy-factory-nonograms.json) |
 | Santa's Vacation | 76391 | [76391-santas-vacation.json](./76391-santas-vacation.json) |
 | Santa's Visit | 123895 | [123895-santas-visit.json](./123895-santas-visit.json) |
 | Santa's Workshop | 185282 | [185282-santas-workshop.json](./185282-santas-workshop.json) |
@@ -12148,6 +12149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Tower | 351600 | [351600-slime-tower.json](./351600-slime-tower.json) |
 | Slime Trials | 280760 | [280760-slime-trials.json](./280760-slime-trials.json) |
 | Slime Trials | 340361 | [340361-slime-trials.json](./340361-slime-trials.json) |
+| Slime Up | 149804 | [149804-slime-up.json](./149804-slime-up.json) |
 | Slime Village VR | 187377 | [187377-slime-village-vr.json](./187377-slime-village-vr.json) |
 | Slime Volley | 264001 | [264001-slime-volley.json](./264001-slime-volley.json) |
 | Slime Volleyball: One Slime | 388119 | [388119-slime-volleyball-one-slime.json](./388119-slime-volleyball-one-slime.json) |
@@ -12373,6 +12375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot! Pro Advance: Takarabune & Ooedo Sakura Fubuki 2 | 49813 | [49813-slot-pro-advance-takarabune-and-ooedo-sakura-fubuki-2.json](./49813-slot-pro-advance-takarabune-and-ooedo-sakura-fubuki-2.json) |
 | Slotbound | 411536 | [411536-slotbound.json](./411536-slotbound.json) |
 | Sloth Story | 178891 | [178891-sloth-story.json](./178891-sloth-story.json) |
+| Sloth Tales | 149813 | [149813-sloth-tales.json](./149813-sloth-tales.json) |
 | Slotpark | 360765 | [360765-slotpark.json](./360765-slotpark.json) |
 | Slotracers VR | 144007 | [144007-slotracers-vr.json](./144007-slotracers-vr.json) |
 | Slots | 287558 | [287558-slots.json](./287558-slots.json) |
@@ -14829,6 +14832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire: Classic Klondike Card Game | 88289 | [88289-solitaire-classic-klondike-card-game.json](./88289-solitaire-classic-klondike-card-game.json) |
 | Solitaire: Decked Out | 133855 | [133855-solitaire-decked-out.json](./133855-solitaire-decked-out.json) |
 | Solitaire: Draw 1 - Draw 3 | 333120 | [333120-solitaire-draw-1-draw-3.json](./333120-solitaire-draw-1-draw-3.json) |
+| Solitaire: Elemental Wizards | 149782 | [149782-solitaire-elemental-wizards.json](./149782-solitaire-elemental-wizards.json) |
 | Solitaire: Jack Frost Winter Adventures | 99984 | [99984-solitaire-jack-frost-winter-adventures.json](./99984-solitaire-jack-frost-winter-adventures.json) |
 | Solitaire: Klondike Card Game | 88833 | [88833-solitaire-klondike-card-game.json](./88833-solitaire-klondike-card-game.json) |
 | Solitaire: Klondike Pro | 100998 | [100998-solitaire-klondike-pro.json](./100998-solitaire-klondike-pro.json) |
@@ -17022,6 +17026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Amoeba: StarShip Constructor | 163184 | [163184-space-amoeba-starship-constructor.json](./163184-space-amoeba-starship-constructor.json) |
 | Space and Lazers | 324320 | [324320-space-and-lazers.json](./324320-space-and-lazers.json) |
 | Space Angel Boin Boin! | 97832 | [97832-space-angel-boin-boin.json](./97832-space-angel-boin-boin.json) |
+| Space Ape | 149807 | [149807-space-ape.json](./149807-space-ape.json) |
 | Space Arcade | 237374 | [237374-space-arcade.json](./237374-space-arcade.json) |
 | Space Arcade Collection | 208870 | [208870-space-arcade-collection.json](./208870-space-arcade-collection.json) |
 | Space Architect | 149848 | [149848-space-architect.json](./149848-space-architect.json) |
@@ -17192,6 +17197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Crusade | 7648 | [7648-space-crusade.json](./7648-space-crusade.json) |
 | Space Crusade: The Voyage Beyond | 73855 | [73855-space-crusade-the-voyage-beyond.json](./73855-space-crusade-the-voyage-beyond.json) |
 | Space Crusaders | 211582 | [211582-space-crusaders.json](./211582-space-crusaders.json) |
+| Space Cube Racers | 149789 | [149789-space-cube-racers.json](./149789-space-cube-racers.json) |
 | Space Cube Tower Defense | 169096 | [169096-space-cube-tower-defense.json](./169096-space-cube-tower-defense.json) |
 | Space Cycle | 318129 | [318129-space-cycle.json](./318129-space-cycle.json) |
 | Space Cycler | 412602 | [412602-space-cycler.json](./412602-space-cycler.json) |
@@ -17679,6 +17685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pilot Alliance | 182834 | [182834-space-pilot-alliance.json](./182834-space-pilot-alliance.json) |
 | Space Pinball | 50595 | [50595-space-pinball.json](./50595-space-pinball.json) |
 | Space Pirate Dernshous | 229320 | [229320-space-pirate-dernshous.json](./229320-space-pirate-dernshous.json) |
+| Space Pirate King | 149769 | [149769-space-pirate-king.json](./149769-space-pirate-king.json) |
 | Space Pirate Sara | 139039 | [139039-space-pirate-sara.json](./139039-space-pirate-sara.json) |
 | Space Pirate Trainer | 34041 | [34041-space-pirate-trainer.json](./34041-space-pirate-trainer.json) |
 | Space Pirate Trainer DX | 174556 | [174556-space-pirate-trainer-dx.json](./174556-space-pirate-trainer-dx.json) |
@@ -23433,6 +23440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stella of the End: First Press Limited Edition | 379954 | [379954-stella-of-the-end-first-press-limited-edition.json](./379954-stella-of-the-end-first-press-limited-edition.json) |
 | Stella Sora | 326127 | [326127-stella-sora.json](./326127-stella-sora.json) |
 | Stella Supernova: The Astral Vale | 417538 | [417538-stella-supernova-the-astral-vale.json](./417538-stella-supernova-the-astral-vale.json) |
+| Stella Voyager | 149781 | [149781-stella-voyager.json](./149781-stella-voyager.json) |
 | Stella: Into the Shadow | 335641 | [335641-stella-into-the-shadow.json](./335641-stella-into-the-shadow.json) |
 | Stella: My Friend | 255891 | [255891-stella-my-friend.json](./255891-stella-my-friend.json) |
 | Stella's Pointless Castle Awakening | 232951 | [232951-stellas-pointless-castle-awakening.json](./232951-stellas-pointless-castle-awakening.json) |
