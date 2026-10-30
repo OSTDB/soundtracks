@@ -11548,6 +11548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porta-Tower | 260203 | [260203-porta-tower.json](./260203-porta-tower.json) |
 | Portabellows | 247780 | [247780-portabellows.json](./247780-portabellows.json) |
 | Portability | 159769 | [159769-portability.json](./159769-portability.json) |
+| Portable Farm | 164162 | [164162-portable-farm.json](./164162-portable-farm.json) |
 | Portable Island: Te no Hira no Resort | 207129 | [207129-portable-island-te-no-hira-no-resort.json](./207129-portable-island-te-no-hira-no-resort.json) |
 | Portable Ops | 226174 | [226174-portable-ops.json](./226174-portable-ops.json) |
 | Portable VR | 244232 | [244232-portable-vr.json](./244232-portable-vr.json) |
@@ -15326,6 +15327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pug and Seek | 341437 | [341437-pug-and-seek.json](./341437-pug-and-seek.json) |
 | Pug Hop Mole Bop | 254672 | [254672-pug-hop-mole-bop.json](./254672-pug-hop-mole-bop.json) |
 | Pug Rapids | 241812 | [241812-pug-rapids.json](./241812-pug-rapids.json) |
+| Pug With Bomb | 164208 | [164208-pug-with-bomb.json](./164208-pug-with-bomb.json) |
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
 | Pug's Quest | 82954 | [82954-pugs-quest.json](./82954-pugs-quest.json) |
 | Pugg | 211911 | [211911-pugg.json](./211911-pugg.json) |
