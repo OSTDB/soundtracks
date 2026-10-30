@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Coin Mining | 118417 | [118417-factory-coin-mining.json](./118417-factory-coin-mining.json) |
 | Factory Company | 297071 | [297071-factory-company.json](./297071-factory-company.json) |
 | Factory Control Inc. | 252706 | [252706-factory-control-inc.json](./252706-factory-control-inc.json) |
+| Factory Defense | 168529 | [168529-factory-defense.json](./168529-factory-defense.json) |
 | Factory Engineer | 31796 | [31796-factory-engineer.json](./31796-factory-engineer.json) |
 | Factory Escape | 329508 | [329508-factory-escape.json](./329508-factory-escape.json) |
 | Factory Farming | 230737 | [230737-factory-farming.json](./230737-factory-farming.json) |
@@ -2048,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 6: Limited Edition | 139867 | [139867-far-cry-6-limited-edition.json](./139867-far-cry-6-limited-edition.json) |
 | Far Cry 6: Lost Between Worlds | 228591 | [228591-far-cry-6-lost-between-worlds.json](./228591-far-cry-6-lost-between-worlds.json) |
 | Far Cry 6: Ultimate Edition | 136404 | [136404-far-cry-6-ultimate-edition.json](./136404-far-cry-6-ultimate-edition.json) |
+| Far Cry 6: Yara Edition | 168549 | [168549-far-cry-6-yara-edition.json](./168549-far-cry-6-yara-edition.json) |
 | Far Cry Anthology Bundle | 188049 | [188049-far-cry-anthology-bundle.json](./188049-far-cry-anthology-bundle.json) |
 | Far Cry Classic | 95013 | [95013-far-cry-classic.json](./95013-far-cry-classic.json) |
 | Far Cry Compilation | 163874 | [163874-far-cry-compilation.json](./163874-far-cry-compilation.json) |
