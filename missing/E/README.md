@@ -4040,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Paper Mario | 338735 | [338735-epic-paper-mario.json](./338735-epic-paper-mario.json) |
 | Epic Party Clicker | 314632 | [314632-epic-party-clicker.json](./314632-epic-party-clicker.json) |
 | Epic Party Quest | 207641 | [207641-epic-party-quest.json](./207641-epic-party-quest.json) |
+| Epic Pinball: The Complete Collection | 155331 | [155331-epic-pinball-the-complete-collection.json](./155331-epic-pinball-the-complete-collection.json) |
 | Epic Pirate | 307723 | [307723-epic-pirate.json](./307723-epic-pirate.json) |
 | Epic Pirates Story | 200019 | [200019-epic-pirates-story.json](./200019-epic-pirates-story.json) |
 | Epic Pixel War | 296391 | [296391-epic-pixel-war.json](./296391-epic-pixel-war.json) |
@@ -5761,14 +5762,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis III: Heir to the Throne | 743 | [743-europa-universalis-iii-heir-to-the-throne.json](./743-europa-universalis-iii-heir-to-the-throne.json) |
 | Europa Universalis III: In Nomine | 684 | [684-europa-universalis-iii-in-nomine.json](./684-europa-universalis-iii-in-nomine.json) |
 | Europa Universalis IV: Call-to-Arms Pack | 227864 | [227864-europa-universalis-iv-call-to-arms-pack.json](./227864-europa-universalis-iv-call-to-arms-pack.json) |
+| Europa Universalis IV: Catholic League Unit Pack | 155329 | [155329-europa-universalis-iv-catholic-league-unit-pack.json](./155329-europa-universalis-iv-catholic-league-unit-pack.json) |
 | Europa Universalis IV: Catholic Majors Unit Pack | 227865 | [227865-europa-universalis-iv-catholic-majors-unit-pack.json](./227865-europa-universalis-iv-catholic-majors-unit-pack.json) |
 | Europa Universalis IV: China History Lessons | 254279 | [254279-europa-universalis-iv-china-history-lessons.json](./254279-europa-universalis-iv-china-history-lessons.json) |
+| Europa Universalis IV: Colonial British and French Unit Pack | 155323 | [155323-europa-universalis-iv-colonial-british-and-french-unit-pack.json](./155323-europa-universalis-iv-colonial-british-and-french-unit-pack.json) |
 | Europa Universalis IV: Common Sense | 19298 | [19298-europa-universalis-iv-common-sense.json](./19298-europa-universalis-iv-common-sense.json) |
 | Europa Universalis IV: Common Sense Collection | 53007 | [53007-europa-universalis-iv-common-sense-collection.json](./53007-europa-universalis-iv-common-sense-collection.json) |
 | Europa Universalis IV: Common Sense Content Pack | 227350 | [227350-europa-universalis-iv-common-sense-content-pack.json](./227350-europa-universalis-iv-common-sense-content-pack.json) |
 | Europa Universalis IV: Conquest Collection | 52970 | [52970-europa-universalis-iv-conquest-collection.json](./52970-europa-universalis-iv-conquest-collection.json) |
 | Europa Universalis IV: Conquest of Paradise | 19299 | [19299-europa-universalis-iv-conquest-of-paradise.json](./19299-europa-universalis-iv-conquest-of-paradise.json) |
 | Europa Universalis IV: Conquest of Paradise Collection | 53006 | [53006-europa-universalis-iv-conquest-of-paradise-collection.json](./53006-europa-universalis-iv-conquest-of-paradise-collection.json) |
+| Europa Universalis IV: Conquistadors Unit Pack | 155310 | [155310-europa-universalis-iv-conquistadors-unit-pack.json](./155310-europa-universalis-iv-conquistadors-unit-pack.json) |
 | Europa Universalis IV: Cradle of Civilization | 76191 | [76191-europa-universalis-iv-cradle-of-civilization.json](./76191-europa-universalis-iv-cradle-of-civilization.json) |
 | Europa Universalis IV: Cradle of Civilization Content Pack | 227349 | [227349-europa-universalis-iv-cradle-of-civilization-content-pack.json](./227349-europa-universalis-iv-cradle-of-civilization-content-pack.json) |
 | Europa Universalis IV: Dharma | 149956 | [149956-europa-universalis-iv-dharma.json](./149956-europa-universalis-iv-dharma.json) |
@@ -5778,9 +5782,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: El Dorado Content Pack | 227343 | [227343-europa-universalis-iv-el-dorado-content-pack.json](./227343-europa-universalis-iv-el-dorado-content-pack.json) |
 | Europa Universalis IV: Emperor | 133911 | [133911-europa-universalis-iv-emperor.json](./133911-europa-universalis-iv-emperor.json) |
 | Europa Universalis IV: Emperor Content Pack | 227344 | [227344-europa-universalis-iv-emperor-content-pack.json](./227344-europa-universalis-iv-emperor-content-pack.json) |
+| Europa Universalis IV: Evangelical Union Unit Pack | 155316 | [155316-europa-universalis-iv-evangelical-union-unit-pack.json](./155316-europa-universalis-iv-evangelical-union-unit-pack.json) |
 | Europa Universalis IV: Extreme Edition | 53008 | [53008-europa-universalis-iv-extreme-edition.json](./53008-europa-universalis-iv-extreme-edition.json) |
 | Europa Universalis IV: Golden Century - Immersion Pack | 169310 | [169310-europa-universalis-iv-golden-century-immersion-pack.json](./169310-europa-universalis-iv-golden-century-immersion-pack.json) |
 | Europa Universalis IV: History Lessons Bundle | 254292 | [254292-europa-universalis-iv-history-lessons-bundle.json](./254292-europa-universalis-iv-history-lessons-bundle.json) |
+| Europa Universalis IV: Indian Ships Unit Pack | 155325 | [155325-europa-universalis-iv-indian-ships-unit-pack.json](./155325-europa-universalis-iv-indian-ships-unit-pack.json) |
+| Europa Universalis IV: Indian Subcontinent Unit Pack | 155326 | [155326-europa-universalis-iv-indian-subcontinent-unit-pack.json](./155326-europa-universalis-iv-indian-subcontinent-unit-pack.json) |
 | Europa Universalis IV: Japan History Lessons | 254280 | [254280-europa-universalis-iv-japan-history-lessons.json](./254280-europa-universalis-iv-japan-history-lessons.json) |
 | Europa Universalis IV: Leviathan | 149954 | [149954-europa-universalis-iv-leviathan.json](./149954-europa-universalis-iv-leviathan.json) |
 | Europa Universalis IV: Lions of the North | 215925 | [215925-europa-universalis-iv-lions-of-the-north.json](./215925-europa-universalis-iv-lions-of-the-north.json) |
@@ -5789,7 +5796,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Mare Nostrum | 53005 | [53005-europa-universalis-iv-mare-nostrum.json](./53005-europa-universalis-iv-mare-nostrum.json) |
 | Europa Universalis IV: Mare Nostrum Collection | 53004 | [53004-europa-universalis-iv-mare-nostrum-collection.json](./53004-europa-universalis-iv-mare-nostrum-collection.json) |
 | Europa Universalis IV: Mare Nostrum Content Pack | 227346 | [227346-europa-universalis-iv-mare-nostrum-content-pack.json](./227346-europa-universalis-iv-mare-nostrum-content-pack.json) |
+| Europa Universalis IV: Muslim Ships Unit Pack | 155324 | [155324-europa-universalis-iv-muslim-ships-unit-pack.json](./155324-europa-universalis-iv-muslim-ships-unit-pack.json) |
 | Europa Universalis IV: National Monuments II | 169976 | [169976-europa-universalis-iv-national-monuments-ii.json](./169976-europa-universalis-iv-national-monuments-ii.json) |
+| Europa Universalis IV: Native Americans II Unit Pack | 155322 | [155322-europa-universalis-iv-native-americans-ii-unit-pack.json](./155322-europa-universalis-iv-native-americans-ii-unit-pack.json) |
+| Europa Universalis IV: Native Americans Unit Pack | 155321 | [155321-europa-universalis-iv-native-americans-unit-pack.json](./155321-europa-universalis-iv-native-americans-unit-pack.json) |
 | Europa Universalis IV: Res Publica | 19294 | [19294-europa-universalis-iv-res-publica.json](./19294-europa-universalis-iv-res-publica.json) |
 | Europa Universalis IV: Rights of Man | 53002 | [53002-europa-universalis-iv-rights-of-man.json](./53002-europa-universalis-iv-rights-of-man.json) |
 | Europa Universalis IV: Rights of Man Collection | 53000 | [53000-europa-universalis-iv-rights-of-man-collection.json](./53000-europa-universalis-iv-rights-of-man-collection.json) |
@@ -5802,7 +5812,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: The Cossacks Content Pack | 227348 | [227348-europa-universalis-iv-the-cossacks-content-pack.json](./227348-europa-universalis-iv-the-cossacks-content-pack.json) |
 | Europa Universalis IV: The El Dorado Collection | 52997 | [52997-europa-universalis-iv-the-el-dorado-collection.json](./52997-europa-universalis-iv-the-el-dorado-collection.json) |
 | Europa Universalis IV: Third Rome | 52996 | [52996-europa-universalis-iv-third-rome.json](./52996-europa-universalis-iv-third-rome.json) |
+| Europa Universalis IV: Trade Nations Unit Pack | 155314 | [155314-europa-universalis-iv-trade-nations-unit-pack.json](./155314-europa-universalis-iv-trade-nations-unit-pack.json) |
 | Europa Universalis IV: Ultimate Sprite Pack | 284902 | [284902-europa-universalis-iv-ultimate-sprite-pack.json](./284902-europa-universalis-iv-ultimate-sprite-pack.json) |
+| Europa Universalis IV: Ultimate Unit Pack | 155309 | [155309-europa-universalis-iv-ultimate-unit-pack.json](./155309-europa-universalis-iv-ultimate-unit-pack.json) |
 | Europa Universalis IV: Utopia Holy Roman Empire Music Pack | 285108 | [285108-europa-universalis-iv-utopia-holy-roman-empire-music-pack.json](./285108-europa-universalis-iv-utopia-holy-roman-empire-music-pack.json) |
 | Europa Universalis IV: Wealth of Nations Collection | 52995 | [52995-europa-universalis-iv-wealth-of-nations-collection.json](./52995-europa-universalis-iv-wealth-of-nations-collection.json) |
 | Europa Universalis IV: Winds of Change | 298306 | [298306-europa-universalis-iv-winds-of-change.json](./298306-europa-universalis-iv-winds-of-change.json) |
