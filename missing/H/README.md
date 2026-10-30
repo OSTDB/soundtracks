@@ -2507,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted: Attack of the Dead Men | 219813 | [219813-haunted-attack-of-the-dead-men.json](./219813-haunted-attack-of-the-dead-men.json) |
 | Haunted: Dungeons of Herwood | 114748 | [114748-haunted-dungeons-of-herwood.json](./114748-haunted-dungeons-of-herwood.json) |
 | Haunted: Live | 220868 | [220868-haunted-live.json](./220868-haunted-live.json) |
+| Haunted: Poppy's Nightmare | 126186 | [126186-haunted-poppys-nightmare.json](./126186-haunted-poppys-nightmare.json) |
 | Haunted: The Chronicles | 249211 | [249211-haunted-the-chronicles.json](./249211-haunted-the-chronicles.json) |
 | Haunted: Village | 374934 | [374934-haunted-village.json](./374934-haunted-village.json) |
 | Haunted? | 265980 | [265980-haunted.json](./265980-haunted.json) |
