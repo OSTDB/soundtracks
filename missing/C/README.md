@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Fries | 116977 | [116977-call-of-fries.json](./116977-call-of-fries.json) |
 | Call of Glory: Critical Warfare & AirJet Fighter: Sky Assault Bundle Collection | 386563 | [386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json](./386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json) |
 | Call of Gruty WWII | 179861 | [179861-call-of-gruty-wwii.json](./179861-call-of-gruty-wwii.json) |
+| Call of Guardians | 130526 | [130526-call-of-guardians.json](./130526-call-of-guardians.json) |
 | Call of Guns: FPS Multiplayer Online 3D Guns Game | 216017 | [216017-call-of-guns-fps-multiplayer-online-3d-guns-game.json](./216017-call-of-guns-fps-multiplayer-online-3d-guns-game.json) |
 | Call of Hentai Neko | 367511 | [367511-call-of-hentai-neko.json](./367511-call-of-hentai-neko.json) |
 | Call of Heroes | 194115 | [194115-call-of-heroes.json](./194115-call-of-heroes.json) |
@@ -11295,6 +11296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Wings | 138170 | [138170-combat-wings.json](./138170-combat-wings.json) |
 | Combat Wings: Battle of Britain | 9800 | [9800-combat-wings-battle-of-britain.json](./9800-combat-wings-battle-of-britain.json) |
 | Combat Wings: The Great Battles of WWII | 47437 | [47437-combat-wings-the-great-battles-of-wwii.json](./47437-combat-wings-the-great-battles-of-wwii.json) |
+| Combat Wombat | 130537 | [130537-combat-wombat.json](./130537-combat-wombat.json) |
 | Combat Zone | 13510 | [13510-combat-zone.json](./13510-combat-zone.json) |
 | Combat Zone | 218338 | [218338-combat-zone.json](./218338-combat-zone.json) |
 | Combat Zone | 265594 | [265594-combat-zone.json](./265594-combat-zone.json) |
