@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karma: The Dark World - Deluxe Edition | 403590 | [403590-karma-the-dark-world-deluxe-edition.json](./403590-karma-the-dark-world-deluxe-edition.json) |
 | Karma: The Dark World - Limited Edition | 351141 | [351141-karma-the-dark-world-limited-edition.json](./351141-karma-the-dark-world-limited-edition.json) |
 | Karmaflow: The Rock Opera Videogame | 8439 | [8439-karmaflow-the-rock-opera-videogame.json](./8439-karmaflow-the-rock-opera-videogame.json) |
+| Karman line: the edge of war | 173969 | [173969-karman-line-the-edge-of-war.json](./173969-karman-line-the-edge-of-war.json) |
 | KarmaRun | 294651 | [294651-karmarun.json](./294651-karmarun.json) |
 | KarmaStar | 67811 | [67811-karmastar.json](./67811-karmastar.json) |
 | Karmasutra | 51474 | [51474-karmasutra.json](./51474-karmasutra.json) |
@@ -5129,6 +5130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kriegsspiel: 7 Years' War | 388760 | [388760-kriegsspiel-7-years-war.json](./388760-kriegsspiel-7-years-war.json) |
 | Krila | 260943 | [260943-krila.json](./260943-krila.json) |
 | Krim: The Music Bot | 102383 | [102383-krim-the-music-bot.json](./102383-krim-the-music-bot.json) |
+| Krim: The War in the Crimea 1941-42 | 173984 | [173984-krim-the-war-in-the-crimea-1941-42.json](./173984-krim-the-war-in-the-crimea-1941-42.json) |
 | Krimson | 177262 | [177262-krimson.json](./177262-krimson.json) |
 | Krimson Patrol | 409032 | [409032-krimson-patrol.json](./409032-krimson-patrol.json) |
 | Krimzon hoard | 212977 | [212977-krimzon-hoard.json](./212977-krimzon-hoard.json) |
