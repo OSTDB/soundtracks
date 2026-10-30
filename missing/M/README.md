@@ -3030,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Age: Remastered | 139653 | [139653-marble-age-remastered.json](./139653-marble-age-remastered.json) |
 | Marble Allstars | 335506 | [335506-marble-allstars.json](./335506-marble-allstars.json) |
 | Marble Ball Friends | 196959 | [196959-marble-ball-friends.json](./196959-marble-ball-friends.json) |
+| Marble Ball Racing | 158904 | [158904-marble-ball-racing.json](./158904-marble-ball-racing.json) |
 | Marble Ball: Racing 2022 | 237185 | [237185-marble-ball-racing-2022.json](./237185-marble-ball-racing-2022.json) |
 | Marble Battles | 240213 | [240213-marble-battles.json](./240213-marble-battles.json) |
 | Marble Blade | 392963 | [392963-marble-blade.json](./392963-marble-blade.json) |
@@ -9467,6 +9468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroCity | 144375 | [144375-microcity.json](./144375-microcity.json) |
 | Microcivilization | 236229 | [236229-microcivilization.json](./236229-microcivilization.json) |
 | Microcosm | 13738 | [13738-microcosm.json](./13738-microcosm.json) |
+| Microcosmum 2 | 158865 | [158865-microcosmum-2.json](./158865-microcosmum-2.json) |
 | Microcosmum: Survival of Cells | 34896 | [34896-microcosmum-survival-of-cells.json](./34896-microcosmum-survival-of-cells.json) |
 | Microcosmum: Survival of Cells - Campaign "Aliens" | 168053 | [168053-microcosmum-survival-of-cells-campaign-aliens.json](./168053-microcosmum-survival-of-cells-campaign-aliens.json) |
 | Microcosmum: Survival of Cells - Campaign "Mutations" | 168054 | [168054-microcosmum-survival-of-cells-campaign-mutations.json](./168054-microcosmum-survival-of-cells-campaign-mutations.json) |
