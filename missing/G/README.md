@@ -9194,6 +9194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild of Slayers | 374121 | [374121-guild-of-slayers.json](./374121-guild-of-slayers.json) |
 | Guild of the Tower | 423297 | [423297-guild-of-the-tower.json](./423297-guild-of-the-tower.json) |
 | Guild of Three | 404651 | [404651-guild-of-three.json](./404651-guild-of-three.json) |
+| Guild Project | 153035 | [153035-guild-project.json](./153035-guild-project.json) |
 | Guild Quest | 30820 | [30820-guild-quest.json](./30820-guild-quest.json) |
 | Guild Receptionist 2: Stardust Liberate | 329239 | [329239-guild-receptionist-2-stardust-liberate.json](./329239-guild-receptionist-2-stardust-liberate.json) |
 | Guild Receptionist: Good Luck | 339103 | [339103-guild-receptionist-good-luck.json](./339103-guild-receptionist-good-luck.json) |
