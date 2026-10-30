@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eating | 287505 | [287505-eating.json](./287505-eating.json) |
 | EatToFight | 185611 | [185611-eattofight.json](./185611-eattofight.json) |
 | Eatventure | 208978 | [208978-eatventure.json](./208978-eatventure.json) |
+| Eatvolve | 146481 | [146481-eatvolve.json](./146481-eatvolve.json) |
 | eBall | 117546 | [117546-eball.json](./117546-eball.json) |
 | eBall 2 | 238523 | [238523-eball-2.json](./238523-eball-2.json) |
 | Ebanashi: Kaiwa | 195216 | [195216-ebanashi-kaiwa.json](./195216-ebanashi-kaiwa.json) |
@@ -1595,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eight Winds | 253747 | [253747-eight-winds.json](./253747-eight-winds.json) |
 | Eight-Minute Empire | 43080 | [43080-eight-minute-empire.json](./43080-eight-minute-empire.json) |
 | Eight-Minute Empire: Archipelago of Azra Map | 171947 | [171947-eight-minute-empire-archipelago-of-azra-map.json](./171947-eight-minute-empire-archipelago-of-azra-map.json) |
+| Eight-Minute Empire: Complete Edition | 147688 | [147688-eight-minute-empire-complete-edition.json](./147688-eight-minute-empire-complete-edition.json) |
 | Eight-Minute Empire: Mountains | 171946 | [171946-eight-minute-empire-mountains.json](./171946-eight-minute-empire-mountains.json) |
 | EightBound Regal | 225790 | [225790-eightbound-regal.json](./225790-eightbound-regal.json) |
 | Eighteen | 295244 | [295244-eighteen.json](./295244-eighteen.json) |
@@ -2435,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ells Tales: Chairbound | 358388 | [358388-ells-tales-chairbound.json](./358388-ells-tales-chairbound.json) |
 | Ells Tales: Egg | 302053 | [302053-ells-tales-egg.json](./302053-ells-tales-egg.json) |
 | Ellsydia | 378416 | [378416-ellsydia.json](./378416-ellsydia.json) |
+| Elly | 147048 | [147048-elly.json](./147048-elly.json) |
 | Elly's Adventure | 315203 | [315203-ellys-adventure.json](./315203-ellys-adventure.json) |
 | Elly's Cake Cafe | 167549 | [167549-ellys-cake-cafe.json](./167549-ellys-cake-cafe.json) |
 | Elm Knight: A Living Body Armor | 91762 | [91762-elm-knight-a-living-body-armor.json](./91762-elm-knight-a-living-body-armor.json) |
@@ -2901,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire | 272474 | [272474-empire.json](./272474-empire.json) |
 | Empire Above All | 63674 | [63674-empire-above-all.json](./63674-empire-above-all.json) |
 | Empire Architect | 29459 | [29459-empire-architect.json](./29459-empire-architect.json) |
+| Empire Builder: Ancient Egypt | 146482 | [146482-empire-builder-ancient-egypt.json](./146482-empire-builder-ancient-egypt.json) |
 | Empire Builder: Europe | 322708 | [322708-empire-builder-europe.json](./322708-empire-builder-europe.json) |
 | Empire Business | 403092 | [403092-empire-business.json](./403092-empire-business.json) |
 | Empire Business 2 | 403107 | [403107-empire-business-2.json](./403107-empire-business-2.json) |
@@ -4509,6 +4513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape & Avenge | 239242 | [239242-escape-and-avenge.json](./239242-escape-and-avenge.json) |
 | Escape + Rooms Horror Bundle | 417286 | [417286-escape-rooms-horror-bundle.json](./417286-escape-rooms-horror-bundle.json) |
 | Escape 2: The Closet | 317400 | [317400-escape-2-the-closet.json](./317400-escape-2-the-closet.json) |
+| Escape 2088 | 147658 | [147658-escape-2088.json](./147658-escape-2088.json) |
 | Escape 4: The Bathroom | 317401 | [317401-escape-4-the-bathroom.json](./317401-escape-4-the-bathroom.json) |
 | Escape 51 | 339766 | [339766-escape-51.json](./339766-escape-51.json) |
 | Escape Academy 2: Back 2 School | 347671 | [347671-escape-academy-2-back-2-school.json](./347671-escape-academy-2-back-2-school.json) |
@@ -5188,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espace | 346090 | [346090-espace.json](./346090-espace.json) |
 | Espacio | 202252 | [202252-espacio.json](./202252-espacio.json) |
 | Espacio | 361104 | [361104-espacio.json](./361104-espacio.json) |
+| Espacio Cosmic Light-Seeker | 147667 | [147667-espacio-cosmic-light-seeker.json](./147667-espacio-cosmic-light-seeker.json) |
 | Espada de Sheris | 233691 | [233691-espada-de-sheris.json](./233691-espada-de-sheris.json) |
 | Espagnol avec Rayman | 193348 | [193348-espagnol-avec-rayman.json](./193348-espagnol-avec-rayman.json) |
 | Espalion | 266487 | [266487-espalion.json](./266487-espalion.json) |
@@ -5289,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espresso Tycoon & Prison Simulator | 332010 | [332010-espresso-tycoon-and-prison-simulator.json](./332010-espresso-tycoon-and-prison-simulator.json) |
 | Espresso Tycoon & Tank Mechanic Simulator | 331926 | [331926-espresso-tycoon-and-tank-mechanic-simulator.json](./331926-espresso-tycoon-and-tank-mechanic-simulator.json) |
 | Espresso Tycoon & Thief Simulator | 331903 | [331903-espresso-tycoon-and-thief-simulator.json](./331903-espresso-tycoon-and-thief-simulator.json) |
+| Essays on Empathy | 146473 | [146473-essays-on-empathy.json](./146473-essays-on-empathy.json) |
 | Esse mundo é um Colosso | 230758 | [230758-esse-mundo-e-um-colosso.json](./230758-esse-mundo-e-um-colosso.json) |
 | Esse Proxy | 152082 | [152082-esse-proxy.json](./152082-esse-proxy.json) |
 | Esse Rakuraku Kakeibo | 141724 | [141724-esse-rakuraku-kakeibo.json](./141724-esse-rakuraku-kakeibo.json) |
@@ -7049,6 +7056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expedição Antártica | 395802 | [395802-expedicao-antartica.json](./395802-expedicao-antartica.json) |
 | Expediente Ñ | 322368 | [322368-expediente-n.json](./322368-expediente-n.json) |
 | Expedition | 141078 | [141078-expedition.json](./141078-expedition.json) |
+| Expedition | 146495 | [146495-expedition.json](./146495-expedition.json) |
 | Expedition Agartha: Supporter Pack | 241987 | [241987-expedition-agartha-supporter-pack.json](./241987-expedition-agartha-supporter-pack.json) |
 | Expedition Amazon | 23898 | [23898-expedition-amazon.json](./23898-expedition-amazon.json) |
 | Expedition Astra | 288777 | [288777-expedition-astra.json](./288777-expedition-astra.json) |
@@ -7536,6 +7544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyewear Cleaner 2077 | 194358 | [194358-eyewear-cleaner-2077.json](./194358-eyewear-cleaner-2077.json) |
 | Eyewinder | 266086 | [266086-eyewinder.json](./266086-eyewinder.json) |
 | Eyewire | 108802 | [108802-eyewire.json](./108802-eyewire.json) |
+| Eyewitness Hopper | 147025 | [147025-eyewitness-hopper.json](./147025-eyewitness-hopper.json) |
 | Eyewitness Virtual Reality: Cat | 361603 | [361603-eyewitness-virtual-reality-cat.json](./361603-eyewitness-virtual-reality-cat.json) |
 | Eyewitness Virtual Reality: Dinosaur Hunter | 198384 | [198384-eyewitness-virtual-reality-dinosaur-hunter.json](./198384-eyewitness-virtual-reality-dinosaur-hunter.json) |
 | Eyo: Jump 'n' Run RPG | 220022 | [220022-eyo-jump-n-run-rpg.json](./220022-eyo-jump-n-run-rpg.json) |
