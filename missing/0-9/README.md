@@ -3203,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ōban Star-Racers | 379410 | [379410-oban-star-racers.json](./379410-oban-star-racers.json) |
 | Ødeborg | 356297 | [356297-deborg.json](./356297-deborg.json) |
 | Ōkamiden | 16618 | [16618-okamiden.json](./16618-okamiden.json) |
+| Ôpe | 130531 | [130531-ope.json](./130531-ope.json) |
 | ​Our Life: Beginnings & Always - Cove Wedding Story | 187442 | [187442-our-life-beginnings-and-always-cove-wedding-story.json](./187442-our-life-beginnings-and-always-cove-wedding-story.json) |
 | ​Our Life: Beginnings & Always - Step 1 Expansion | 164528 | [164528-our-life-beginnings-and-always-step-1-expansion.json](./164528-our-life-beginnings-and-always-step-1-expansion.json) |
 | ​Our Life: Beginnings & Always - Step 2 Expansion | 164529 | [164529-our-life-beginnings-and-always-step-2-expansion.json](./164529-our-life-beginnings-and-always-step-2-expansion.json) |
