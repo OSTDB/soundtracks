@@ -481,7 +481,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Pond 2: Codename - RoboCod | 230868 | [230868-james-pond-2-codename-robocod.json](./230868-james-pond-2-codename-robocod.json) |
 | James Pond 3: Operation Starfish | 368902 | [368902-james-pond-3-operation-starfish.json](./368902-james-pond-3-operation-starfish.json) |
 | James Pond: Codename Robocod | 197941 | [197941-james-pond-codename-robocod.json](./197941-james-pond-codename-robocod.json) |
-| James Pond: Underwater Agent | 4274 | [4274-james-pond-underwater-agent.json](./4274-james-pond-underwater-agent.json) |
 | James Town Courier Frog MD | 127820 | [127820-james-town-courier-frog-md.json](./127820-james-town-courier-frog-md.json) |
 | James: Masquerade Ball | 313623 | [313623-james-masquerade-ball.json](./313623-james-masquerade-ball.json) |
 | James' Fun House: Episode 1 | 276856 | [276856-james-fun-house-episode-1.json](./276856-james-fun-house-episode-1.json) |
