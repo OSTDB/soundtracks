@@ -4417,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masked Forces | 30527 | [30527-masked-forces.json](./30527-masked-forces.json) |
 | Masked Forces 2: Mystic Demons | 55523 | [55523-masked-forces-2-mystic-demons.json](./55523-masked-forces-2-mystic-demons.json) |
 | Masked Forces 3 | 103600 | [103600-masked-forces-3.json](./103600-masked-forces-3.json) |
+| Masked Ninja Action | 164702 | [164702-masked-ninja-action.json](./164702-masked-ninja-action.json) |
 | Masked Shooters | 36519 | [36519-masked-shooters.json](./36519-masked-shooters.json) |
 | Masked Shooters Assault | 240490 | [240490-masked-shooters-assault.json](./240490-masked-shooters-assault.json) |
 | Masked Shooters Single-player | 240489 | [240489-masked-shooters-single-player.json](./240489-masked-shooters-single-player.json) |
@@ -11566,6 +11567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimal Move | 115677 | [115677-minimal-move.json](./115677-minimal-move.json) |
 | Minimalism | 29648 | [29648-minimalism.json](./29648-minimalism.json) |
 | Minimalist Box | 367010 | [367010-minimalist-box.json](./367010-minimalist-box.json) |
+| Minimalist Bundle | 164691 | [164691-minimalist-bundle.json](./164691-minimalist-bundle.json) |
 | Minimalist Farm Tycoon | 294098 | [294098-minimalist-farm-tycoon.json](./294098-minimalist-farm-tycoon.json) |
 | Minimalist Mastery | 362781 | [362781-minimalist-mastery.json](./362781-minimalist-mastery.json) |
 | Minimalist Sudoku | 326295 | [326295-minimalist-sudoku.json](./326295-minimalist-sudoku.json) |
@@ -12659,6 +12661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 20 | 125013 | [125013-mlb-the-show-20.json](./125013-mlb-the-show-20.json) |
 | MLB The Show 20: MVP Edition | 136218 | [136218-mlb-the-show-20-mvp-edition.json](./136218-mlb-the-show-20-mvp-edition.json) |
 | MLB The Show 21 | 143260 | [143260-mlb-the-show-21.json](./143260-mlb-the-show-21.json) |
+| MLB The Show 21: Digital Deluxe Edition | 164688 | [164688-mlb-the-show-21-digital-deluxe-edition.json](./164688-mlb-the-show-21-digital-deluxe-edition.json) |
 | MLB The Show 21: Jackie Robinson Edition | 146034 | [146034-mlb-the-show-21-jackie-robinson-edition.json](./146034-mlb-the-show-21-jackie-robinson-edition.json) |
 | MLB The Show 22: Digital Deluxe Edition | 196514 | [196514-mlb-the-show-22-digital-deluxe-edition.json](./196514-mlb-the-show-22-digital-deluxe-edition.json) |
 | MLB The Show 22: MVP Edition | 196516 | [196516-mlb-the-show-22-mvp-edition.json](./196516-mlb-the-show-22-mvp-edition.json) |
@@ -13905,6 +13908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Energy Supercross: The Official Videogame 4 | 141241 | [141241-monster-energy-supercross-the-official-videogame-4.json](./141241-monster-energy-supercross-the-official-videogame-4.json) |
 | Monster Energy Supercross: The Official Videogame 4 - 2Stroke Bikes Pack (125) | 170942 | [170942-monster-energy-supercross-the-official-videogame-4-2stroke-bikes-pack-125.json](./170942-monster-energy-supercross-the-official-videogame-4-2stroke-bikes-pack-125.json) |
 | Monster Energy Supercross: The Official Videogame 4 - Historical Monster Energy Cup 2011 | 170943 | [170943-monster-energy-supercross-the-official-videogame-4-historical-monster-energy-cup-2011.json](./170943-monster-energy-supercross-the-official-videogame-4-historical-monster-energy-cup-2011.json) |
+| Monster Energy Supercross: The Official Videogame 4 - Special Edition | 164689 | [164689-monster-energy-supercross-the-official-videogame-4-special-edition.json](./164689-monster-energy-supercross-the-official-videogame-4-special-edition.json) |
 | Monster Energy Supercross: The Official Videogame 5 - Legends Pack Vol. 1 | 197589 | [197589-monster-energy-supercross-the-official-videogame-5-legends-pack-vol-1.json](./197589-monster-energy-supercross-the-official-videogame-5-legends-pack-vol-1.json) |
 | Monster Energy Supercross: The Official Videogame 5 - Special Edition | 196512 | [196512-monster-energy-supercross-the-official-videogame-5-special-edition.json](./196512-monster-energy-supercross-the-official-videogame-5-special-edition.json) |
 | Monster Evo | 154975 | [154975-monster-evo.json](./154975-monster-evo.json) |
@@ -15106,6 +15110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mörk Borg Heresy Supreme | 317584 | [317584-mork-borg-heresy-supreme.json](./317584-mork-borg-heresy-supreme.json) |
 | Mörker | 389394 | [389394-morker.json](./389394-morker.json) |
 | Morkredd | 100157 | [100157-morkredd.json](./100157-morkredd.json) |
+| Morkredd: Ra Edition | 164721 | [164721-morkredd-ra-edition.json](./164721-morkredd-ra-edition.json) |
 | Morkull: Ascend to the Gods | 390674 | [390674-morkull-ascend-to-the-gods.json](./390674-morkull-ascend-to-the-gods.json) |
 | Morkull: Ragast's Rage - Collector's Edition | 324770 | [324770-morkull-ragasts-rage-collectors-edition.json](./324770-morkull-ragasts-rage-collectors-edition.json) |
 | Morlush | 203563 | [203563-morlush.json](./203563-morlush.json) |
@@ -17668,6 +17673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV All Out: 2017 Yamaha YZ125 | 315215 | [315215-mx-vs-atv-all-out-2017-yamaha-yz125.json](./315215-mx-vs-atv-all-out-2017-yamaha-yz125.json) |
 | MX vs. ATV All Out: 2018 Polaris RZR XP 1000 | 169069 | [169069-mx-vs-atv-all-out-2018-polaris-rzr-xp-1000.json](./169069-mx-vs-atv-all-out-2018-polaris-rzr-xp-1000.json) |
 | MX vs. ATV All Out: 2018 Polaris RZR XP Turbo Dynamix | 169071 | [169071-mx-vs-atv-all-out-2018-polaris-rzr-xp-turbo-dynamix.json](./169071-mx-vs-atv-all-out-2018-polaris-rzr-xp-turbo-dynamix.json) |
+| MX vs. ATV All Out: 2020 AMA Pro Motocross Championship | 164723 | [164723-mx-vs-atv-all-out-2020-ama-pro-motocross-championship.json](./164723-mx-vs-atv-all-out-2020-ama-pro-motocross-championship.json) |
 | MX vs. ATV All Out: 2020 Pro Nationals Edition | 206779 | [206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json](./206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json) |
 | MX vs. ATV All Out: Goat Farm | 169059 | [169059-mx-vs-atv-all-out-goat-farm.json](./169059-mx-vs-atv-all-out-goat-farm.json) |
 | MX vs. ATV All Out: Hometown MX Nationals | 169053 | [169053-mx-vs-atv-all-out-hometown-mx-nationals.json](./169053-mx-vs-atv-all-out-hometown-mx-nationals.json) |
