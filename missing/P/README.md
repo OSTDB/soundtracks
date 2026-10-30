@@ -1130,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic | 245858 | [245858-panic.json](./245858-panic.json) |
 | Panic 64 | 130373 | [130373-panic-64.json](./130373-panic-64.json) |
 | Panic 64 | 413784 | [413784-panic-64.json](./413784-panic-64.json) |
+| Panic at Community | 168544 | [168544-panic-at-community.json](./168544-panic-at-community.json) |
 | Panic at Multiverse High! | 31660 | [31660-panic-at-multiverse-high.json](./31660-panic-at-multiverse-high.json) |
 | Panic Attack | 163845 | [163845-panic-attack.json](./163845-panic-attack.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
@@ -1747,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Lost: First Contact | 59975 | [59975-paradise-lost-first-contact.json](./59975-paradise-lost-first-contact.json) |
 | Paradise Lost: FPS Cosmic Horror Game | 69441 | [69441-paradise-lost-fps-cosmic-horror-game.json](./69441-paradise-lost-fps-cosmic-horror-game.json) |
 | Paradise Love | 379541 | [379541-paradise-love.json](./379541-paradise-love.json) |
+| Paradise Lust | 168565 | [168565-paradise-lust.json](./168565-paradise-lust.json) |
 | Paradise Lust 2 | 253369 | [253369-paradise-lust-2.json](./253369-paradise-lust-2.json) |
 | Paradise Marsh | 173042 | [173042-paradise-marsh.json](./173042-paradise-marsh.json) |
 | Paradise Never | 100292 | [100292-paradise-never.json](./100292-paradise-never.json) |
@@ -12414,6 +12416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistoric Isle | 78964 | [78964-prehistoric-isle.json](./78964-prehistoric-isle.json) |
 | Prehistoric Isle 2 | 39280 | [39280-prehistoric-isle-2.json](./39280-prehistoric-isle-2.json) |
 | Prehistoric Kingdom | 54499 | [54499-prehistoric-kingdom.json](./54499-prehistoric-kingdom.json) |
+| Prehistoric Life Puzzles | 168524 | [168524-prehistoric-life-puzzles.json](./168524-prehistoric-life-puzzles.json) |
 | Prehistoric Pack | 400660 | [400660-prehistoric-pack.json](./400660-prehistoric-pack.json) |
 | Prehistoric Park | 62709 | [62709-prehistoric-park.json](./62709-prehistoric-park.json) |
 | Prehistoric Pit | 423898 | [423898-prehistoric-pit.json](./423898-prehistoric-pit.json) |
@@ -16321,6 +16324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Lab | 88118 | [88118-puzzle-lab.json](./88118-puzzle-lab.json) |
 | Puzzle League | 179406 | [179406-puzzle-league.json](./179406-puzzle-league.json) |
 | Puzzle Light | 149455 | [149455-puzzle-light.json](./149455-puzzle-light.json) |
+| Puzzle Light: Connect | 168561 | [168561-puzzle-light-connect.json](./168561-puzzle-light-connect.json) |
 | Puzzle Light: One Move | 150257 | [150257-puzzle-light-one-move.json](./150257-puzzle-light-one-move.json) |
 | Puzzle Light: Rotate | 152763 | [152763-puzzle-light-rotate.json](./152763-puzzle-light-rotate.json) |
 | Puzzle Light: Slide | 163539 | [163539-puzzle-light-slide.json](./163539-puzzle-light-slide.json) |
