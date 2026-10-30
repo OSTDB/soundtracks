@@ -4783,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Rider JavaScript | 58115 | [58115-line-rider-javascript.json](./58115-line-rider-javascript.json) |
 | Line Rider: Freestyle | 54163 | [54163-line-rider-freestyle.json](./54163-line-rider-freestyle.json) |
 | Line Runner 2 | 90401 | [90401-line-runner-2.json](./90401-line-runner-2.json) |
+| Line Simulator | 156857 | [156857-line-simulator.json](./156857-line-simulator.json) |
 | Line Space Wars | 69360 | [69360-line-space-wars.json](./69360-line-space-wars.json) |
 | Line Strike | 188791 | [188791-line-strike.json](./188791-line-strike.json) |
 | Line the Balls | 233173 | [233173-line-the-balls.json](./233173-line-the-balls.json) |
