@@ -3716,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Premonition | 1276 | [1276-deadly-premonition.json](./1276-deadly-premonition.json) |
 | Deadly Premonition 2: A Blessing in Disguise | 122232 | [122232-deadly-premonition-2-a-blessing-in-disguise.json](./122232-deadly-premonition-2-a-blessing-in-disguise.json) |
 | Deadly Premonition Origins | 122234 | [122234-deadly-premonition-origins.json](./122234-deadly-premonition-origins.json) |
+| Deadly Premonition Origins: Collector's Edition | 136050 | [136050-deadly-premonition-origins-collectors-edition.json](./136050-deadly-premonition-origins-collectors-edition.json) |
 | Deadly Premonition: Director's Cut | 9245 | [9245-deadly-premonition-directors-cut.json](./9245-deadly-premonition-directors-cut.json) |
 | Deadly Premonition: The Director's Cut - Classified Edition | 51538 | [51538-deadly-premonition-the-directors-cut-classified-edition.json](./51538-deadly-premonition-the-directors-cut-classified-edition.json) |
 | Deadly Premonition: The Director's Cut Ultimate Edition | 26925 | [26925-deadly-premonition-the-directors-cut-ultimate-edition.json](./26925-deadly-premonition-the-directors-cut-ultimate-edition.json) |
@@ -6815,6 +6816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy All Humans! Path of the Furon | 2717 | [2717-destroy-all-humans-path-of-the-furon.json](./2717-destroy-all-humans-path-of-the-furon.json) |
 | Destroy All Humans!: Clone Carnage | 203364 | [203364-destroy-all-humans-clone-carnage.json](./203364-destroy-all-humans-clone-carnage.json) |
 | Destroy All Humans!: Crypto 137 Edition | 136110 | [136110-destroy-all-humans-crypto-137-edition.json](./136110-destroy-all-humans-crypto-137-edition.json) |
+| Destroy All Humans!: DNA Collector's Edition | 136059 | [136059-destroy-all-humans-dna-collectors-edition.json](./136059-destroy-all-humans-dna-collectors-edition.json) |
 | Destroy All Letters | 312763 | [312763-destroy-all-letters.json](./312763-destroy-all-letters.json) |
 | Destroy All the Cubes | 169850 | [169850-destroy-all-the-cubes.json](./169850-destroy-all-the-cubes.json) |
 | Destroy All Zombies | 247974 | [247974-destroy-all-zombies.json](./247974-destroy-all-zombies.json) |
@@ -7476,6 +7478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo II: Resurrected | 142803 | [142803-diablo-ii-resurrected.json](./142803-diablo-ii-resurrected.json) |
 | Diablo II: Resurrected - Prime Evil Collection | 155099 | [155099-diablo-ii-resurrected-prime-evil-collection.json](./155099-diablo-ii-resurrected-prime-evil-collection.json) |
 | Diablo II: Resurrected - Reign of the Warlock | 389355 | [389355-diablo-ii-resurrected-reign-of-the-warlock.json](./389355-diablo-ii-resurrected-reign-of-the-warlock.json) |
+| Diablo III: Battle Chest | 136083 | [136083-diablo-iii-battle-chest.json](./136083-diablo-iii-battle-chest.json) |
 | Diablo III: Collector's Edition | 136279 | [136279-diablo-iii-collectors-edition.json](./136279-diablo-iii-collectors-edition.json) |
 | Diablo III: Eternal Collection | 90628 | [90628-diablo-iii-eternal-collection.json](./90628-diablo-iii-eternal-collection.json) |
 | Diablo III: Reaper of Souls - Collector's Edition | 136278 | [136278-diablo-iii-reaper-of-souls-collectors-edition.json](./136278-diablo-iii-reaper-of-souls-collectors-edition.json) |
@@ -8870,6 +8873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Racing Mobile 3D | 101493 | [101493-dirt-racing-mobile-3d.json](./101493-dirt-racing-mobile-3d.json) |
 | Dirt Rally | 9928 | [9928-dirt-rally.json](./9928-dirt-rally.json) |
 | DiRT Rally 2.0: Digital Deluxe Edition | 122656 | [122656-dirt-rally-2-0-digital-deluxe-edition.json](./122656-dirt-rally-2-0-digital-deluxe-edition.json) |
+| Dirt Rally 2.0: Game of the Year Edition | 136055 | [136055-dirt-rally-2-0-game-of-the-year-edition.json](./136055-dirt-rally-2-0-game-of-the-year-edition.json) |
 | DiRT Rally 2.0: Super Deluxe Edition | 122657 | [122657-dirt-rally-2-0-super-deluxe-edition.json](./122657-dirt-rally-2-0-super-deluxe-edition.json) |
 | Dirt Rally Driver HD | 116383 | [116383-dirt-rally-driver-hd.json](./116383-dirt-rally-driver-hd.json) |
 | DiRT Rally: VR Edition | 136176 | [136176-dirt-rally-vr-edition.json](./136176-dirt-rally-vr-edition.json) |
@@ -17149,6 +17153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light: 10th Anniversary Bundle | 329496 | [329496-dying-light-10th-anniversary-bundle.json](./329496-dying-light-10th-anniversary-bundle.json) |
 | Dying Light: 5th Anniversary Bundle | 224132 | [224132-dying-light-5th-anniversary-bundle.json](./224132-dying-light-5th-anniversary-bundle.json) |
 | Dying Light: Bad Blood | 76891 | [76891-dying-light-bad-blood.json](./76891-dying-light-bad-blood.json) |
+| Dying Light: Be the Zombie | 136060 | [136060-dying-light-be-the-zombie.json](./136060-dying-light-be-the-zombie.json) |
 | Dying Light: Bozak Horde | 16299 | [16299-dying-light-bozak-horde.json](./16299-dying-light-bozak-horde.json) |
 | Dying Light: Classified Operation Bundle | 224130 | [224130-dying-light-classified-operation-bundle.json](./224130-dying-light-classified-operation-bundle.json) |
 | Dying Light: Cuisine & Cargo | 150043 | [150043-dying-light-cuisine-and-cargo.json](./150043-dying-light-cuisine-and-cargo.json) |
