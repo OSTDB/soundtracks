@@ -2452,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Improvise, Adapt, Overcome | 402802 | [402802-improvise-adapt-overcome.json](./402802-improvise-adapt-overcome.json) |
 | Improvised Tactics | 373866 | [373866-improvised-tactics.json](./373866-improvised-tactics.json) |
 | Impulse | 137027 | [137027-impulse.json](./137027-impulse.json) |
+| Impulse | 173436 | [173436-impulse.json](./173436-impulse.json) |
 | Impulse | 257230 | [257230-impulse.json](./257230-impulse.json) |
 | Impulse Control | 133737 | [133737-impulse-control.json](./133737-impulse-control.json) |
 | Impulse Rogue | 199572 | [199572-impulse-rogue.json](./199572-impulse-rogue.json) |
@@ -3010,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indigo | 25945 | [25945-indigo.json](./25945-indigo.json) |
 | Indigo | 388713 | [388713-indigo.json](./388713-indigo.json) |
 | Indigo 7 | 153509 | [153509-indigo-7.json](./153509-indigo-7.json) |
+| Indigo Child | 173397 | [173397-indigo-child.json](./173397-indigo-child.json) |
 | Indigo Horizon | 336528 | [336528-indigo-horizon.json](./336528-indigo-horizon.json) |
 | Indigo Loop | 207570 | [207570-indigo-loop.json](./207570-indigo-loop.json) |
 | Indigo Park: Chapter 2 | 402870 | [402870-indigo-park-chapter-2.json](./402870-indigo-park-chapter-2.json) |
