@@ -1231,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Heroes: Twin Brave | 42760 | [42760-tales-of-the-heroes-twin-brave.json](./42760-tales-of-the-heroes-twin-brave.json) |
 | Tales of the Lost: The Stranger | 358458 | [358458-tales-of-the-lost-the-stranger.json](./358458-tales-of-the-lost-the-stranger.json) |
 | Tales of the Magic Ball | 239747 | [239747-tales-of-the-magic-ball.json](./239747-tales-of-the-magic-ball.json) |
+| Tales of the Mirror | 163654 | [163654-tales-of-the-mirror.json](./163654-tales-of-the-mirror.json) |
 | Tales of the Neon Sea | 95992 | [95992-tales-of-the-neon-sea.json](./95992-tales-of-the-neon-sea.json) |
 | Tales of the Neon Sea: Collector's Edition | 228733 | [228733-tales-of-the-neon-sea-collectors-edition.json](./228733-tales-of-the-neon-sea-collectors-edition.json) |
 | Tales of The Nightmares: Episode One | 352834 | [352834-tales-of-the-nightmares-episode-one.json](./352834-tales-of-the-nightmares-episode-one.json) |
@@ -14069,6 +14070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Room VR: A Dark Matter | 123991 | [123991-the-room-vr-a-dark-matter.json](./123991-the-room-vr-a-dark-matter.json) |
 | The Rooms | 191855 | [191855-the-rooms.json](./191855-the-rooms.json) |
 | The Rooster Files | 382502 | [382502-the-rooster-files.json](./382502-the-rooster-files.json) |
+| The Rooster's Chess | 163689 | [163689-the-roosters-chess.json](./163689-the-roosters-chess.json) |
 | The Roots | 203621 | [203621-the-roots.json](./203621-the-roots.json) |
 | The Roots: Gates of Chaos | 47566 | [47566-the-roots-gates-of-chaos.json](./47566-the-roots-gates-of-chaos.json) |
 | The Roottrees Are Dead | 276492 | [276492-the-roottrees-are-dead.json](./276492-the-roottrees-are-dead.json) |
@@ -19015,6 +19017,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Fighter 1931: Tora! MP097 | 189681 | [189681-tiger-fighter-1931-tora-mp097.json](./189681-tiger-fighter-1931-tora-mp097.json) |
 | Tiger Fighter 1931: Tora! MP099 | 189685 | [189685-tiger-fighter-1931-tora-mp099.json](./189685-tiger-fighter-1931-tora-mp099.json) |
 | Tiger Fighter 1931: Tora! MP100 | 189713 | [189713-tiger-fighter-1931-tora-mp100.json](./189713-tiger-fighter-1931-tora-mp100.json) |
+| Tiger Fighter 1931: Tora!Tora! MP001 | 163639 | [163639-tiger-fighter-1931-tora-tora-mp001.json](./163639-tiger-fighter-1931-tora-tora-mp001.json) |
+| Tiger Fighter 1931: Tora!Tora! MP004 | 163641 | [163641-tiger-fighter-1931-tora-tora-mp004.json](./163641-tiger-fighter-1931-tora-tora-mp004.json) |
+| Tiger Fighter 1931: Tora!Tora! MP005 | 163640 | [163640-tiger-fighter-1931-tora-tora-mp005.json](./163640-tiger-fighter-1931-tora-tora-mp005.json) |
 | Tiger Fighter 1931: Tora!Tora! MP006 | 173625 | [173625-tiger-fighter-1931-tora-tora-mp006.json](./173625-tiger-fighter-1931-tora-tora-mp006.json) |
 | Tiger Fighter 1931: Tora!Tora! MP007 | 189637 | [189637-tiger-fighter-1931-tora-tora-mp007.json](./189637-tiger-fighter-1931-tora-tora-mp007.json) |
 | Tiger Fighter 1931: Tora!Tora! MP008 | 173590 | [173590-tiger-fighter-1931-tora-tora-mp008.json](./173590-tiger-fighter-1931-tora-tora-mp008.json) |
@@ -19103,6 +19108,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Fighter 1931: Tora!Tora! MP098 | 173618 | [173618-tiger-fighter-1931-tora-tora-mp098.json](./173618-tiger-fighter-1931-tora-tora-mp098.json) |
 | Tiger Fighter 1931: Tora!Tora! MP099 | 173607 | [173607-tiger-fighter-1931-tora-tora-mp099.json](./173607-tiger-fighter-1931-tora-tora-mp099.json) |
 | Tiger Fighter 1931: Tora!Tora! MP100 | 173582 | [173582-tiger-fighter-1931-tora-tora-mp100.json](./173582-tiger-fighter-1931-tora-tora-mp100.json) |
+| Tiger Fighter 1931: Tora!Tora!Tora! MP001 | 163642 | [163642-tiger-fighter-1931-tora-tora-tora-mp001.json](./163642-tiger-fighter-1931-tora-tora-tora-mp001.json) |
+| Tiger Fighter 1931: Tora!Tora!Tora! MP002 | 163643 | [163643-tiger-fighter-1931-tora-tora-tora-mp002.json](./163643-tiger-fighter-1931-tora-tora-tora-mp002.json) |
+| Tiger Fighter 1931: Tora!Tora!Tora! MP003 | 163644 | [163644-tiger-fighter-1931-tora-tora-tora-mp003.json](./163644-tiger-fighter-1931-tora-tora-tora-mp003.json) |
+| Tiger Fighter 1931: Tora!Tora!Tora! MP004 | 163646 | [163646-tiger-fighter-1931-tora-tora-tora-mp004.json](./163646-tiger-fighter-1931-tora-tora-tora-mp004.json) |
+| Tiger Fighter 1931: Tora!Tora!Tora! MP005 | 163645 | [163645-tiger-fighter-1931-tora-tora-tora-mp005.json](./163645-tiger-fighter-1931-tora-tora-tora-mp005.json) |
 | Tiger Fighter 1931: Tora!Tora!Tora! MP006 | 173535 | [173535-tiger-fighter-1931-tora-tora-tora-mp006.json](./173535-tiger-fighter-1931-tora-tora-tora-mp006.json) |
 | Tiger Fighter 1931: Tora!Tora!Tora! MP007 | 189579 | [189579-tiger-fighter-1931-tora-tora-tora-mp007.json](./189579-tiger-fighter-1931-tora-tora-tora-mp007.json) |
 | Tiger Fighter 1931: Tora!Tora!Tora! MP008 | 189629 | [189629-tiger-fighter-1931-tora-tora-tora-mp008.json](./189629-tiger-fighter-1931-tora-tora-tora-mp008.json) |
@@ -22371,6 +22381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Rumble: Cursed Vampire | 170558 | [170558-tomb-rumble-cursed-vampire.json](./170558-tomb-rumble-cursed-vampire.json) |
 | Tomb Slider | 262358 | [262358-tomb-slider.json](./262358-tomb-slider.json) |
 | Tomb Stalkers | 304371 | [304371-tomb-stalkers.json](./304371-tomb-stalkers.json) |
+| Tomb Sweeper | 163696 | [163696-tomb-sweeper.json](./163696-tomb-sweeper.json) |
 | Tomb Towers | 99610 | [99610-tomb-towers.json](./99610-tomb-towers.json) |
 | Tomba! | 4097 | [4097-tomba.json](./4097-tomba.json) |
 | Tomba! 2: The Evil Swine Return | 4100 | [4100-tomba-2-the-evil-swine-return.json](./4100-tomba-2-the-evil-swine-return.json) |
