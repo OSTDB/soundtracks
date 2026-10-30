@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | U C U B E | 281473 | [281473-u-c-u-b-e.json](./281473-u-c-u-b-e.json) |
+| U Evade | 158374 | [158374-u-evade.json](./158374-u-evade.json) |
 | U R Hell | 271998 | [271998-u-r-hell.json](./271998-u-r-hell.json) |
 | U-Boat | 347698 | [347698-u-boat.json](./347698-u-boat.json) |
 | U-Boat Command | 282442 | [282442-u-boat-command.json](./282442-u-boat-command.json) |
