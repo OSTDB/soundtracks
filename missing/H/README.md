@@ -7701,6 +7701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokuto no Ken 7: Seiken Retsuden Denshousha he no Michi | 38337 | [38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json](./38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json) |
 | Hokuto no Ken Online | 64170 | [64170-hokuto-no-ken-online.json](./64170-hokuto-no-ken-online.json) |
 | Hokuto no Ken Part-2 | 45601 | [45601-hokuto-no-ken-part-2.json](./45601-hokuto-no-ken-part-2.json) |
+| Hokuto no Ken: Hokuto Shinken Denshousha no Michi | 171769 | [171769-hokuto-no-ken-hokuto-shinken-denshousha-no-michi.json](./171769-hokuto-no-ken-hokuto-shinken-denshousha-no-michi.json) |
 | Hokuto no Ken: Raou Gaiden - Ten no Haou | 38476 | [38476-hokuto-no-ken-raou-gaiden-ten-no-haou.json](./38476-hokuto-no-ken-raou-gaiden-ten-no-haou.json) |
 | Hokuto no Ken: Seikimatsu Kyuuseishu Densetsu | 44883 | [44883-hokuto-no-ken-seikimatsu-kyuuseishu-densetsu.json](./44883-hokuto-no-ken-seikimatsu-kyuuseishu-densetsu.json) |
 | Hokuto no Ken: Shin Seikimatsu Kyuuseishu Densetsu | 313283 | [313283-hokuto-no-ken-shin-seikimatsu-kyuuseishu-densetsu.json](./313283-hokuto-no-ken-shin-seikimatsu-kyuuseishu-densetsu.json) |
@@ -10137,6 +10138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hrdina | 119543 | [119543-hrdina.json](./119543-hrdina.json) |
 | Hrima | 191383 | [191383-hrima.json](./191383-hrima.json) |
 | HRmageddon | 397409 | [397409-hrmageddon.json](./397409-hrmageddon.json) |
+| HRO: Adventures of a Humanoid Resources Officer | 171750 | [171750-hro-adventures-of-a-humanoid-resources-officer.json](./171750-hro-adventures-of-a-humanoid-resources-officer.json) |
 | Hrolfr vs. Evil Skulls | 379721 | [379721-hrolfr-vs-evil-skulls.json](./379721-hrolfr-vs-evil-skulls.json) |
 | Hroogar | 200314 | [200314-hroogar.json](./200314-hroogar.json) |
 | HRT Simulator 2023 | 299114 | [299114-hrt-simulator-2023.json](./299114-hrt-simulator-2023.json) |
