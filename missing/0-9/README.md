@@ -1872,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3..2..1..Grenades! | 32004 | [32004-3-2-1-grenades.json](./32004-3-2-1-grenades.json) |
 | 3.5 Ins Micro Disc Software: Adventure with Technician Ted / Heathrow International Air Traffic Control | 137331 | [137331-3-5-ins-micro-disc-software-adventure-with-technician-ted-heathrow-international-air-traffic-control.json](./137331-3-5-ins-micro-disc-software-adventure-with-technician-ted-heathrow-international-air-traffic-control.json) |
 | 3/4 Spell Swap | 397011 | [397011-3-4-spell-swap.json](./397011-3-4-spell-swap.json) |
+| 30 Birds | 167462 | [167462-30-birds.json](./167462-30-birds.json) |
 | 30 Days Adrift | 358086 | [358086-30-days-adrift.json](./358086-30-days-adrift.json) |
 | 30 Days Another | 216778 | [216778-30-days-another.json](./216778-30-days-another.json) |
 | 30 Days in Red Army | 204425 | [204425-30-days-in-red-army.json](./204425-30-days-in-red-army.json) |
@@ -2652,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 Love Dominoes | 88421 | [88421-6-love-dominoes.json](./88421-6-love-dominoes.json) |
 | 6 Pack of Craft Games | 194386 | [194386-6-pack-of-craft-games.json](./194386-6-pack-of-craft-games.json) |
 | 6 Rooms | 377405 | [377405-6-rooms.json](./377405-6-rooms.json) |
+| 6 Takes! | 167498 | [167498-6-takes.json](./167498-6-takes.json) |
 | 6 Ways To 7 | 377404 | [377404-6-ways-to-7.json](./377404-6-ways-to-7.json) |
 | 6 x 1 = Unlimited | 222452 | [222452-6-x-1-unlimited.json](./222452-6-x-1-unlimited.json) |
 | 6-7 | 386391 | [386391-6-7.json](./386391-6-7.json) |
