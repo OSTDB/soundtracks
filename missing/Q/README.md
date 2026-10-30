@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quickie World 2 | 268338 | [268338-quickie-world-2.json](./268338-quickie-world-2.json) |
 | Quickie: A Love Hotel Story | 158549 | [158549-quickie-a-love-hotel-story.json](./158549-quickie-a-love-hotel-story.json) |
 | Quickie: Fantasy Adventure | 275437 | [275437-quickie-fantasy-adventure.json](./275437-quickie-fantasy-adventure.json) |
+| Quickly, Quackley! | 146567 | [146567-quickly-quackley.json](./146567-quickly-quackley.json) |
 | QuickMaze | 358400 | [358400-quickmaze.json](./358400-quickmaze.json) |
 | Quickn | 191028 | [191028-quickn.json](./191028-quickn.json) |
 | Quickscope King | 407773 | [407773-quickscope-king.json](./407773-quickscope-king.json) |
