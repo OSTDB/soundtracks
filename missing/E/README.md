@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat Bananas | 213399 | [213399-eat-bananas.json](./213399-eat-bananas.json) |
 | Eat Colors | 190371 | [190371-eat-colors.json](./190371-eat-colors.json) |
 | Eat Fish 3D | 169716 | [169716-eat-fish-3d.json](./169716-eat-fish-3d.json) |
+| Eat Girl | 133611 | [133611-eat-girl.json](./133611-eat-girl.json) |
 | Eat It | 414313 | [414313-eat-it.json](./414313-eat-it.json) |
 | Eat Lead: The Return of Matt Hazard | 574 | [574-eat-lead-the-return-of-matt-hazard.json](./574-eat-lead-the-return-of-matt-hazard.json) |
 | Eat Me | 125878 | [125878-eat-me.json](./125878-eat-me.json) |
@@ -2153,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementerra | 36770 | [36770-elementerra.json](./36770-elementerra.json) |
 | Elementers | 304888 | [304888-elementers.json](./304888-elementers.json) |
 | ElementForger | 220751 | [220751-elementforger.json](./220751-elementforger.json) |
+| Elementia | 133636 | [133636-elementia.json](./133636-elementia.json) |
 | Elementico | 177789 | [177789-elementico.json](./177789-elementico.json) |
 | Elementis | 138737 | [138737-elementis.json](./138737-elementis.json) |
 | Elementis TD | 411721 | [411721-elementis-td.json](./411721-elementis-td.json) |
@@ -2624,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember Knights: Wrath of the Architect | 310371 | [310371-ember-knights-wrath-of-the-architect.json](./310371-ember-knights-wrath-of-the-architect.json) |
 | Ember Legion | 405704 | [405704-ember-legion.json](./405704-ember-legion.json) |
 | Ember Lord | 312987 | [312987-ember-lord.json](./312987-ember-lord.json) |
+| Ember Online | 133597 | [133597-ember-online.json](./133597-ember-online.json) |
 | Ember Point | 296349 | [296349-ember-point.json](./296349-ember-point.json) |
 | Ember Seeker | 406844 | [406844-ember-seeker.json](./406844-ember-seeker.json) |
 | Ember Souls | 306942 | [306942-ember-souls.json](./306942-ember-souls.json) |
@@ -6504,6 +6507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvilCraft | 232678 | [232678-evilcraft.json](./232678-evilcraft.json) |
 | EvilHack | 351130 | [351130-evilhack.json](./351130-evilhack.json) |
 | Evilibrium: Soul Hunters | 125384 | [125384-evilibrium-soul-hunters.json](./125384-evilibrium-soul-hunters.json) |
+| Eville | 133619 | [133619-eville.json](./133619-eville.json) |
 | Eville: Frost Golem Pack | 263232 | [263232-eville-frost-golem-pack.json](./263232-eville-frost-golem-pack.json) |
 | Eville: Kaif Pack | 263235 | [263235-eville-kaif-pack.json](./263235-eville-kaif-pack.json) |
 | Eville: Mr. Peterson | 221423 | [221423-eville-mr-peterson.json](./221423-eville-mr-peterson.json) |
