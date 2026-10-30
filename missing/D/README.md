@@ -1129,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darfur is Dying | 172078 | [172078-darfur-is-dying.json](./172078-darfur-is-dying.json) |
 | Daria: A Kingdom Simulator | 275101 | [275101-daria-a-kingdom-simulator.json](./275101-daria-a-kingdom-simulator.json) |
 | Daring Academy | 211816 | [211816-daring-academy.json](./211816-daring-academy.json) |
+| Daring Dungeoneer | 143257 | [143257-daring-dungeoneer.json](./143257-daring-dungeoneer.json) |
 | Daris Venture | 266348 | [266348-daris-venture.json](./266348-daris-venture.json) |
 | Darius | 6789 | [6789-darius.json](./6789-darius.json) |
 | Darius Cozmic Collection | 104778 | [104778-darius-cozmic-collection.json](./104778-darius-cozmic-collection.json) |
