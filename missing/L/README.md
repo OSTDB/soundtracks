@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Bounce | 186686 | [186686-laser-bounce.json](./186686-laser-bounce.json) |
 | Laser Bounce | 287024 | [287024-laser-bounce.json](./287024-laser-bounce.json) |
 | Laser Brain Puzzle: Classic Logic Arcade | 251045 | [251045-laser-brain-puzzle-classic-logic-arcade.json](./251045-laser-brain-puzzle-classic-logic-arcade.json) |
+| Laser Burst | 155832 | [155832-laser-burst.json](./155832-laser-burst.json) |
 | Laser Cannon 3 | 207814 | [207814-laser-cannon-3.json](./207814-laser-cannon-3.json) |
 | Laser Cat Craft | 244803 | [244803-laser-cat-craft.json](./244803-laser-cat-craft.json) |
 | Laser Circle | 312180 | [312180-laser-circle.json](./312180-laser-circle.json) |
