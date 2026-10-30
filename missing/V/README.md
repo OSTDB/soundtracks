@@ -963,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VectorField | 181524 | [181524-vectorfield.json](./181524-vectorfield.json) |
 | Vectorgeddon | 64191 | [64191-vectorgeddon.json](./64191-vectorgeddon.json) |
 | Vectorial Rush | 365762 | [365762-vectorial-rush.json](./365762-vectorial-rush.json) |
+| Vectorial Stream: Deluxe | 125597 | [125597-vectorial-stream-deluxe.json](./125597-vectorial-stream-deluxe.json) |
 | Vectorio | 154858 | [154858-vectorio.json](./154858-vectorio.json) |
 | Vectorio: Frosted Defenses Pack | 222897 | [222897-vectorio-frosted-defenses-pack.json](./222897-vectorio-frosted-defenses-pack.json) |
 | Vectorium | 65787 | [65787-vectorium.json](./65787-vectorium.json) |
@@ -3679,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRiczat - The Virtual Reality Cricket Game | 112785 | [112785-vriczat-the-virtual-reality-cricket-game.json](./112785-vriczat-the-virtual-reality-cricket-game.json) |
 | VRiking | 261506 | [261506-vriking.json](./261506-vriking.json) |
 | VRIQ | 29082 | [29082-vriq.json](./29082-vriq.json) |
+| Vritra | 125651 | [125651-vritra.json](./125651-vritra.json) |
 | Vritra: Complete Edition | 107917 | [107917-vritra-complete-edition.json](./107917-vritra-complete-edition.json) |
 | VRkanoid | 188457 | [188457-vrkanoid.json](./188457-vrkanoid.json) |
 | VRKraft | 160143 | [160143-vrkraft.json](./160143-vrkraft.json) |
