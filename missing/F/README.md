@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Circus CD | 45865 | [45865-f1-circus-cd.json](./45865-f1-circus-cd.json) |
 | F1 Circus MD | 125458 | [125458-f1-circus-md.json](./125458-f1-circus-md.json) |
 | F1 Circus Special: Pole to Win | 185879 | [185879-f1-circus-special-pole-to-win.json](./185879-f1-circus-special-pole-to-win.json) |
+| F1 Clash | 153653 | [153653-f1-clash.json](./153653-f1-clash.json) |
 | F1 GP Circuits | 47210 | [47210-f1-gp-circuits.json](./47210-f1-gp-circuits.json) |
 | F1 Grand Prix | 38472 | [38472-f1-grand-prix.json](./38472-f1-grand-prix.json) |
 | F1 Grand Prix Star II | 218114 | [218114-f1-grand-prix-star-ii.json](./218114-f1-grand-prix-star-ii.json) |
@@ -2456,6 +2457,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 22: Antonio Carraro Pack | 206529 | [206529-farming-simulator-22-antonio-carraro-pack.json](./206529-farming-simulator-22-antonio-carraro-pack.json) |
 | Farming Simulator 22: Case IH Farmall Anniversary Pack | 276271 | [276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json](./276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json) |
 | Farming Simulator 22: Claas Xerion Saddle Trac Pack | 206532 | [206532-farming-simulator-22-claas-xerion-saddle-trac-pack.json](./206532-farming-simulator-22-claas-xerion-saddle-trac-pack.json) |
+| Farming Simulator 22: Collector's Edition | 153642 | [153642-farming-simulator-22-collectors-edition.json](./153642-farming-simulator-22-collectors-edition.json) |
+| Farming Simulator 22: Day One Edition | 153641 | [153641-farming-simulator-22-day-one-edition.json](./153641-farming-simulator-22-day-one-edition.json) |
 | Farming Simulator 22: ERO Grapeliner Series 7000 | 214366 | [214366-farming-simulator-22-ero-grapeliner-series-7000.json](./214366-farming-simulator-22-ero-grapeliner-series-7000.json) |
 | Farming Simulator 22: Farm Production Pack | 296643 | [296643-farming-simulator-22-farm-production-pack.json](./296643-farming-simulator-22-farm-production-pack.json) |
 | Farming Simulator 22: Fendt 900 Black Beauty | 206530 | [206530-farming-simulator-22-fendt-900-black-beauty.json](./206530-farming-simulator-22-fendt-900-black-beauty.json) |
