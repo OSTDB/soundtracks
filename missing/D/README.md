@@ -4721,6 +4721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Excavation | 168531 | [168531-deep-excavation.json](./168531-deep-excavation.json) |
 | Deep Fear | 46057 | [46057-deep-fear.json](./46057-deep-fear.json) |
 | Deep Fishing | 188091 | [188091-deep-fishing.json](./188091-deep-fishing.json) |
+| Deep Forest | 131770 | [131770-deep-forest.json](./131770-deep-forest.json) |
 | Deep Forest | 41780 | [41780-deep-forest.json](./41780-deep-forest.json) |
 | Deep Forest Chapter 2 | 362931 | [362931-deep-forest-chapter-2.json](./362931-deep-forest-chapter-2.json) |
 | Deep Freeze | 237411 | [237411-deep-freeze.json](./237411-deep-freeze.json) |
@@ -12917,6 +12918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draeggoria | 392271 | [392271-draeggoria.json](./392271-draeggoria.json) |
 | Draft | 133704 | [133704-draft.json](./133704-draft.json) |
 | Draft Day Sports: College Basketball 2018 | 89637 | [89637-draft-day-sports-college-basketball-2018.json](./89637-draft-day-sports-college-basketball-2018.json) |
+| Draft Day Sports: College Basketball 2020 | 131764 | [131764-draft-day-sports-college-basketball-2020.json](./131764-draft-day-sports-college-basketball-2020.json) |
 | Draft Day Sports: College Basketball 2022 | 191891 | [191891-draft-day-sports-college-basketball-2022.json](./191891-draft-day-sports-college-basketball-2022.json) |
 | Draft Day Sports: College Basketball 2023 | 240659 | [240659-draft-day-sports-college-basketball-2023.json](./240659-draft-day-sports-college-basketball-2023.json) |
 | Draft Day Sports: College Basketball 2024 | 290853 | [290853-draft-day-sports-college-basketball-2024.json](./290853-draft-day-sports-college-basketball-2024.json) |
@@ -14147,6 +14149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreadStar: The Quest for Revenge | 140014 | [140014-dreadstar-the-quest-for-revenge.json](./140014-dreadstar-the-quest-for-revenge.json) |
 | Dreadstone Keep | 237461 | [237461-dreadstone-keep.json](./237461-dreadstone-keep.json) |
 | Dreadstone: The Immortal Prisoner | 154351 | [154351-dreadstone-the-immortal-prisoner.json](./154351-dreadstone-the-immortal-prisoner.json) |
+| Dreadtides | 131750 | [131750-dreadtides.json](./131750-dreadtides.json) |
 | Dreadtome | 349884 | [349884-dreadtome.json](./349884-dreadtome.json) |
 | Dreadway | 321577 | [321577-dreadway.json](./321577-dreadway.json) |
 | Dreadweave | 288795 | [288795-dreadweave.json](./288795-dreadweave.json) |
