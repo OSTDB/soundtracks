@@ -5395,6 +5395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godfuck | 343756 | [343756-godfuck.json](./343756-godfuck.json) |
 | Godherja: The Dying World | 356006 | [356006-godherja-the-dying-world.json](./356006-godherja-the-dying-world.json) |
 | Godhood | 106679 | [106679-godhood.json](./106679-godhood.json) |
+| Godhood: Deluxe Edition | 154207 | [154207-godhood-deluxe-edition.json](./154207-godhood-deluxe-edition.json) |
 | Godkiller | 161172 | [161172-godkiller.json](./161172-godkiller.json) |
 | Godland: The Fire Quest | 202666 | [202666-godland-the-fire-quest.json](./202666-godland-the-fire-quest.json) |
 | Godland: The Fire Quest 2 | 219662 | [219662-godland-the-fire-quest-2.json](./219662-godland-the-fire-quest-2.json) |
@@ -5453,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods Wars: Infinity Epic | 267462 | [267462-gods-wars-infinity-epic.json](./267462-gods-wars-infinity-epic.json) |
 | Gods Will Be Watching: Special Edition | 51832 | [51832-gods-will-be-watching-special-edition.json](./51832-gods-will-be-watching-special-edition.json) |
 | Gods Will Fall | 141207 | [141207-gods-will-fall.json](./141207-gods-will-fall.json) |
+| Gods Will Fall: Valiant Edition | 154205 | [154205-gods-will-fall-valiant-edition.json](./154205-gods-will-fall-valiant-edition.json) |
 | Gods With Guns: Deluxe Edition | 412581 | [412581-gods-with-guns-deluxe-edition.json](./412581-gods-with-guns-deluxe-edition.json) |
 | Gods With Guns: Samurai Spirit | 412579 | [412579-gods-with-guns-samurai-spirit.json](./412579-gods-with-guns-samurai-spirit.json) |
 | Gods, Death & Reapers | 328104 | [328104-gods-death-and-reapers.json](./328104-gods-death-and-reapers.json) |
