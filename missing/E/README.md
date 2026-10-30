@@ -7211,6 +7211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expo 2020 | 174900 | [174900-expo-2020.json](./174900-expo-2020.json) |
 | Expo. Decay | 185318 | [185318-expo-decay.json](./185318-expo-decay.json) |
 | Exponent: The Scaling Tower Defense | 394589 | [394589-exponent-the-scaling-tower-defense.json](./394589-exponent-the-scaling-tower-defense.json) |
+| Exponential Idle | 138416 | [138416-exponential-idle.json](./138416-exponential-idle.json) |
 | Exposed Livestream | 360184 | [360184-exposed-livestream.json](./360184-exposed-livestream.json) |
 | Exposed Reality | 70375 | [70375-exposed-reality.json](./70375-exposed-reality.json) |
 | Exposure | 101244 | [101244-exposure.json](./101244-exposure.json) |
