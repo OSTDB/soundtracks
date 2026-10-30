@@ -5088,6 +5088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Oblivious | 215082 | [215082-lisa-the-oblivious.json](./215082-lisa-the-oblivious.json) |
 | Lisa: The Painful | 8492 | [8492-lisa-the-painful.json](./8492-lisa-the-painful.json) |
 | Lisa: The Painful - Fractured Bonds | 221767 | [221767-lisa-the-painful-fractured-bonds.json](./221767-lisa-the-painful-fractured-bonds.json) |
+| Lisa: The Pointless | 153686 | [153686-lisa-the-pointless.json](./153686-lisa-the-pointless.json) |
 | Lisa: The Pointless - Scholar of the Wilbur Sin Edition | 177033 | [177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json](./177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json) |
 | Lisa: The Pointless - Velvet Collection | 393294 | [393294-lisa-the-pointless-velvet-collection.json](./393294-lisa-the-pointless-velvet-collection.json) |
 | Lisa: The Purposeful | 221839 | [221839-lisa-the-purposeful.json](./221839-lisa-the-purposeful.json) |
