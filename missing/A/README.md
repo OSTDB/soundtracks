@@ -2052,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abysswalkers | 260646 | [260646-abysswalkers.json](./260646-abysswalkers.json) |
 | Abysus Arena | 303751 | [303751-abysus-arena.json](./303751-abysus-arena.json) |
 | ABZoo | 14203 | [14203-abzoo.json](./14203-abzoo.json) |
+| Abzorb | 134247 | [134247-abzorb.json](./134247-abzorb.json) |
 | Abzu: Deluxe Edition | 52553 | [52553-abzu-deluxe-edition.json](./52553-abzu-deluxe-edition.json) |
 | AC Milan Club Football | 267875 | [267875-ac-milan-club-football.json](./267875-ac-milan-club-football.json) |
 | AC Sailing | 288714 | [288714-ac-sailing.json](./288714-ac-sailing.json) |
@@ -9477,6 +9478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Seasonal Decorations Pack | 227405 | [227405-anno-1800-seasonal-decorations-pack.json](./227405-anno-1800-seasonal-decorations-pack.json) |
 | Anno 1800: Seat of Power | 151056 | [151056-anno-1800-seat-of-power.json](./151056-anno-1800-seat-of-power.json) |
 | Anno 1800: Seeds of Change | 197349 | [197349-anno-1800-seeds-of-change.json](./197349-anno-1800-seeds-of-change.json) |
+| Anno 1800: Special Edition | 134219 | [134219-anno-1800-special-edition.json](./134219-anno-1800-special-edition.json) |
 | Anno 1800: Steampunk Pack | 299695 | [299695-anno-1800-steampunk-pack.json](./299695-anno-1800-steampunk-pack.json) |
 | Anno 1800: Sunken Treasures | 150908 | [150908-anno-1800-sunken-treasures.json](./150908-anno-1800-sunken-treasures.json) |
 | Anno 1800: The High Life | 165588 | [165588-anno-1800-the-high-life.json](./165588-anno-1800-the-high-life.json) |
@@ -13659,6 +13661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Odyssey: The Fate of Atlantis - Episode 3: Judgment of Atlantis | 124163 | [124163-assassins-creed-odyssey-the-fate-of-atlantis-episode-3-judgment-of-atlantis.json](./124163-assassins-creed-odyssey-the-fate-of-atlantis-episode-3-judgment-of-atlantis.json) |
 | Assassin's Creed Odyssey: The Lost Tales of Greece | 241431 | [241431-assassins-creed-odyssey-the-lost-tales-of-greece.json](./241431-assassins-creed-odyssey-the-lost-tales-of-greece.json) |
 | Assassin's Creed Odyssey: Those Who Are Treasured | 325330 | [325330-assassins-creed-odyssey-those-who-are-treasured.json](./325330-assassins-creed-odyssey-those-who-are-treasured.json) |
+| Assassin's Creed Origins + Odyssey Double Pack | 134215 | [134215-assassins-creed-origins-odyssey-double-pack.json](./134215-assassins-creed-origins-odyssey-double-pack.json) |
 | Assassin's Creed Origins: Secrets of the First Pyramids | 327770 | [327770-assassins-creed-origins-secrets-of-the-first-pyramids.json](./327770-assassins-creed-origins-secrets-of-the-first-pyramids.json) |
 | Assassin's Creed Origins: The Hidden Ones | 22964 | [22964-assassins-creed-origins-the-hidden-ones.json](./22964-assassins-creed-origins-the-hidden-ones.json) |
 | Assassin's Creed Revelations - Signature Edition | 308153 | [308153-assassins-creed-revelations-signature-edition.json](./308153-assassins-creed-revelations-signature-edition.json) |
@@ -13933,6 +13936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix XXL 2: Remaster - Limited Edition | 136158 | [136158-asterix-and-obelix-xxl-2-remaster-limited-edition.json](./136158-asterix-and-obelix-xxl-2-remaster-limited-edition.json) |
 | Asterix & Obelix XXL 3: The Crystal Menhir | 105002 | [105002-asterix-and-obelix-xxl-3-the-crystal-menhir.json](./105002-asterix-and-obelix-xxl-3-the-crystal-menhir.json) |
 | Asterix & Obelix XXL 3: The Crystal Menhir - Collector's Edition | 166231 | [166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json](./166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json) |
+| Asterix & Obelix XXL 3: The Crystal Menhir - Limited Edition | 134234 | [134234-asterix-and-obelix-xxl-3-the-crystal-menhir-limited-edition.json](./134234-asterix-and-obelix-xxl-3-the-crystal-menhir-limited-edition.json) |
 | Asterix & Obelix XXL: Collection | 140168 | [140168-asterix-and-obelix-xxl-collection.json](./140168-asterix-and-obelix-xxl-collection.json) |
 | Asterix & Obelix XXXL: The Ram From Hibernia | 208734 | [208734-asterix-and-obelix-xxxl-the-ram-from-hibernia.json](./208734-asterix-and-obelix-xxxl-the-ram-from-hibernia.json) |
 | Asterix & Obelix XXXL: The Ram From Hibernia - Day One Edition | 209810 | [209810-asterix-and-obelix-xxxl-the-ram-from-hibernia-day-one-edition.json](./209810-asterix-and-obelix-xxxl-the-ram-from-hibernia-day-one-edition.json) |
