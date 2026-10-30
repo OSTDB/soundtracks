@@ -1637,7 +1637,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangled Snakes | 266268 | [266268-tangled-snakes.json](./266268-tangled-snakes.json) |
 | Tangled Tales | 74328 | [74328-tangled-tales.json](./74328-tangled-tales.json) |
 | Tangled Words | 374157 | [374157-tangled-words.json](./374157-tangled-words.json) |
-| Tangledeep | 38754 | [38754-tangledeep.json](./38754-tangledeep.json) |
 | Tangledeep: Dawn of Dragons | 154499 | [154499-tangledeep-dawn-of-dragons.json](./154499-tangledeep-dawn-of-dragons.json) |
 | Tangledeep: Legend of Shara | 117143 | [117143-tangledeep-legend-of-shara.json](./117143-tangledeep-legend-of-shara.json) |
 | Tanglewood | 104602 | [104602-tanglewood.json](./104602-tanglewood.json) |
