@@ -4649,6 +4649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep End | 29498 | [29498-deep-end.json](./29498-deep-end.json) |
 | Deep Enigma | 149722 | [149722-deep-enigma.json](./149722-deep-enigma.json) |
 | Deep Enough | 405926 | [405926-deep-enough.json](./405926-deep-enough.json) |
+| Deep Excavation | 168531 | [168531-deep-excavation.json](./168531-deep-excavation.json) |
 | Deep Fear | 46057 | [46057-deep-fear.json](./46057-deep-fear.json) |
 | Deep Fishing | 188091 | [188091-deep-fishing.json](./188091-deep-fishing.json) |
 | Deep Forest | 41780 | [41780-deep-forest.json](./41780-deep-forest.json) |
@@ -14005,6 +14006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Cafe | 271074 | [271074-dream-cafe.json](./271074-dream-cafe.json) |
 | Dream Cage | 329222 | [329222-dream-cage.json](./329222-dream-cage.json) |
 | Dream Car Racing 3D | 32896 | [32896-dream-car-racing-3d.json](./32896-dream-car-racing-3d.json) |
+| Dream Card | 168523 | [168523-dream-card.json](./168523-dream-card.json) |
 | Dream Cat Paradise | 374175 | [374175-dream-cat-paradise.json](./374175-dream-cat-paradise.json) |
 | Dream Catcher | 194931 | [194931-dream-catcher.json](./194931-dream-catcher.json) |
 | Dream Catcher | 237803 | [237803-dream-catcher.json](./237803-dream-catcher.json) |
@@ -15455,6 +15457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Hunter Pro 3D | 101553 | [101553-duck-hunter-pro-3d.json](./101553-duck-hunter-pro-3d.json) |
 | Duck Hunting | 28885 | [28885-duck-hunting.json](./28885-duck-hunting.json) |
 | Duck Hunting Challenge | 115333 | [115333-duck-hunting-challenge.json](./115333-duck-hunting-challenge.json) |
+| Duck Jam | 168546 | [168546-duck-jam.json](./168546-duck-jam.json) |
 | Duck Life | 210659 | [210659-duck-life.json](./210659-duck-life.json) |
 | Duck Life | 58367 | [58367-duck-life.json](./58367-duck-life.json) |
 | Duck Life 2: World Champion | 212722 | [212722-duck-life-2-world-champion.json](./212722-duck-life-2-world-champion.json) |
