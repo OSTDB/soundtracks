@@ -8349,6 +8349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fantastic Voyage | 39145 | [39145-the-fantastic-voyage.json](./39145-the-fantastic-voyage.json) |
 | The Fantasy Village | 108268 | [108268-the-fantasy-village.json](./108268-the-fantasy-village.json) |
 | The Fantasy World of Mahjong Princess | 197529 | [197529-the-fantasy-world-of-mahjong-princess.json](./197529-the-fantasy-world-of-mahjong-princess.json) |
+| The Far Kingdoms: Age of Solitaire | 137835 | [137835-the-far-kingdoms-age-of-solitaire.json](./137835-the-far-kingdoms-age-of-solitaire.json) |
 | The Far Kingdoms: Awakening Solitaire | 115527 | [115527-the-far-kingdoms-awakening-solitaire.json](./115527-the-far-kingdoms-awakening-solitaire.json) |
 | The Far Kingdoms: Forgotten Relics | 149927 | [149927-the-far-kingdoms-forgotten-relics.json](./149927-the-far-kingdoms-forgotten-relics.json) |
 | The Far Kingdoms: Garden Mosaics | 415906 | [415906-the-far-kingdoms-garden-mosaics.json](./415906-the-far-kingdoms-garden-mosaics.json) |
@@ -15283,6 +15284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spidy D | 205080 | [205080-the-spidy-d.json](./205080-the-spidy-d.json) |
 | The Spidy Quiz | 229669 | [229669-the-spidy-quiz.json](./229669-the-spidy-quiz.json) |
 | The Spiegul Contest | 273244 | [273244-the-spiegul-contest.json](./273244-the-spiegul-contest.json) |
+| The Spike | 137838 | [137838-the-spike.json](./137838-the-spike.json) |
 | The Spike Cross | 338659 | [338659-the-spike-cross.json](./338659-the-spike-cross.json) |
 | The Spiral Egg Challenge | 257527 | [257527-the-spiral-egg-challenge.json](./257527-the-spiral-egg-challenge.json) |
 | The Spiral Labyrinth | 149330 | [149330-the-spiral-labyrinth.json](./149330-the-spiral-labyrinth.json) |
