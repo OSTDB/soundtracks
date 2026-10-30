@@ -2410,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet: City of Devils | 332367 | [332367-scarlet-city-of-devils.json](./332367-scarlet-city-of-devils.json) |
 | Scarlet's Haunted Hotel | 319373 | [319373-scarlets-haunted-hotel.json](./319373-scarlets-haunted-hotel.json) |
 | Scarlet's Last Call | 419908 | [419908-scarlets-last-call.json](./419908-scarlets-last-call.json) |
+| Scarleth | 152603 | [152603-scarleth.json](./152603-scarleth.json) |
 | Scarlett | 258869 | [258869-scarlett.json](./258869-scarlett.json) |
 | Scarlett Mysteries: Cursed Child | 37006 | [37006-scarlett-mysteries-cursed-child.json](./37006-scarlett-mysteries-cursed-child.json) |
 | Scarlett: Nichijou no Kyoukaisen | 258870 | [258870-scarlett-nichijou-no-kyoukaisen.json](./258870-scarlett-nichijou-no-kyoukaisen.json) |
@@ -4654,6 +4655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Select Oblige | 321778 | [321778-select-oblige.json](./321778-select-oblige.json) |
 | Select Quiz | 386283 | [386283-select-quiz.json](./386283-select-quiz.json) |
 | Selection I & II | 265194 | [265194-selection-i-and-ii.json](./265194-selection-i-and-ii.json) |
+| Selection Process | 152595 | [152595-selection-process.json](./152595-selection-process.json) |
 | Selena's Charm 2: Enchanted Garden | 417511 | [417511-selenas-charm-2-enchanted-garden.json](./417511-selenas-charm-2-enchanted-garden.json) |
 | Selene | 337167 | [337167-selene.json](./337167-selene.json) |
 | Selene: Apoptosis | 139705 | [139705-selene-apoptosis.json](./139705-selene-apoptosis.json) |
