@@ -7917,6 +7917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fogel and Porki Evil Arcade | 211675 | [211675-fogel-and-porki-evil-arcade.json](./211675-fogel-and-porki-evil-arcade.json) |
 | Foggy Rainfall Escapade | 267265 | [267265-foggy-rainfall-escapade.json](./267265-foggy-rainfall-escapade.json) |
 | Foghorns Drown | 382273 | [382273-foghorns-drown.json](./382273-foghorns-drown.json) |
+| Foglight | 150367 | [150367-foglight.json](./150367-foglight.json) |
 | Fogline Protocol | 397277 | [397277-fogline-protocol.json](./397277-fogline-protocol.json) |
 | Fogpiercer | 325365 | [325365-fogpiercer.json](./325365-fogpiercer.json) |
 | Fogreaver | 335211 | [335211-fogreaver.json](./335211-fogreaver.json) |
@@ -9756,6 +9757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Flare Night | 361674 | [361674-fox-flare-night.json](./361674-fox-flare-night.json) |
 | Fox Game | 278889 | [278889-fox-game.json](./278889-fox-game.json) |
 | Fox Girl Taming | 239318 | [239318-fox-girl-taming.json](./239318-fox-girl-taming.json) |
+| Fox Girls Never Play Dirty | 150366 | [150366-fox-girls-never-play-dirty.json](./150366-fox-girls-never-play-dirty.json) |
 | Fox Goes Hunting | 172929 | [172929-fox-goes-hunting.json](./172929-fox-goes-hunting.json) |
 | Fox Golf | 289720 | [289720-fox-golf.json](./289720-fox-golf.json) |
 | Fox Hime | 90144 | [90144-fox-hime.json](./90144-fox-hime.json) |
