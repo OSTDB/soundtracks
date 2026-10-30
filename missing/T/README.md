@@ -5100,6 +5100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Victor and Garu | 22091 | [22091-the-adventures-of-victor-and-garu.json](./22091-the-adventures-of-victor-and-garu.json) |
 | The Adventures of Wolf and Hood: A Jigsaw Tale | 154971 | [154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
 | The Adventures of Zomboy | 323281 | [323281-the-adventures-of-zomboy.json](./323281-the-adventures-of-zomboy.json) |
+| The Aegis Saga | 131749 | [131749-the-aegis-saga.json](./131749-the-aegis-saga.json) |
 | The Aeon Fall | 398188 | [398188-the-aeon-fall.json](./398188-the-aeon-fall.json) |
 | The Aeronautics Quiz MK 2 | 69766 | [69766-the-aeronautics-quiz-mk-2.json](./69766-the-aeronautics-quiz-mk-2.json) |
 | The Aether II | 245708 | [245708-the-aether-ii.json](./245708-the-aether-ii.json) |
@@ -15862,6 +15863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing at the Window | 221750 | [221750-the-thing-at-the-window.json](./221750-the-thing-at-the-window.json) |
 | The Thing from Nowhere | 188945 | [188945-the-thing-from-nowhere.json](./188945-the-thing-from-nowhere.json) |
 | The Thing from Space | 333210 | [333210-the-thing-from-space.json](./333210-the-thing-from-space.json) |
+| The Thing in the Lake | 131752 | [131752-the-thing-in-the-lake.json](./131752-the-thing-in-the-lake.json) |
 | The Thing in the Lake | 391889 | [391889-the-thing-in-the-lake.json](./391889-the-thing-in-the-lake.json) |
 | The Thing That Happened | 294284 | [294284-the-thing-that-happened.json](./294284-the-thing-that-happened.json) |
 | The Thing With Mistletoes | 29589 | [29589-the-thing-with-mistletoes.json](./29589-the-thing-with-mistletoes.json) |
@@ -16597,6 +16599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Valley | 94585 | [94585-the-valley.json](./94585-the-valley.json) |
 | The Valley Beyond | 373132 | [373132-the-valley-beyond.json](./373132-the-valley-beyond.json) |
 | The Valley In My Mind | 76353 | [76353-the-valley-in-my-mind.json](./76353-the-valley-in-my-mind.json) |
+| The Valley of Super Flowers | 131821 | [131821-the-valley-of-super-flowers.json](./131821-the-valley-of-super-flowers.json) |
 | The Valley of the Architects | 282039 | [282039-the-valley-of-the-architects.json](./282039-the-valley-of-the-architects.json) |
 | The Vamp | 254552 | [254552-the-vamp.json](./254552-the-vamp.json) |
 | The Vampire | 292250 | [292250-the-vampire.json](./292250-the-vampire.json) |
@@ -24366,6 +24369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of the Abyss | 280243 | [280243-tower-of-the-abyss.json](./280243-tower-of-the-abyss.json) |
 | Tower of the Alchemist | 121332 | [121332-tower-of-the-alchemist.json](./121332-tower-of-the-alchemist.json) |
 | Tower of the Ancients | 206753 | [206753-tower-of-the-ancients.json](./206753-tower-of-the-ancients.json) |
+| Tower of the Approval | 131766 | [131766-tower-of-the-approval.json](./131766-tower-of-the-approval.json) |
 | Tower of the Blood Lord | 135837 | [135837-tower-of-the-blood-lord.json](./135837-tower-of-the-blood-lord.json) |
 | Tower of the Deep | 388026 | [388026-tower-of-the-deep.json](./388026-tower-of-the-deep.json) |
 | Tower of the Dragon | 337841 | [337841-tower-of-the-dragon.json](./337841-tower-of-the-dragon.json) |
