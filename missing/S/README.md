@@ -7187,6 +7187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shields of Loyalty | 156040 | [156040-shields-of-loyalty.json](./156040-shields-of-loyalty.json) |
 | Shields Up! VR | 102196 | [102196-shields-up-vr.json](./102196-shields-up-vr.json) |
 | Shieldwall Chronicles | 197769 | [197769-shieldwall-chronicles.json](./197769-shieldwall-chronicles.json) |
+| Shieldwall Chronicles: Realm of Madness | 158884 | [158884-shieldwall-chronicles-realm-of-madness.json](./158884-shieldwall-chronicles-realm-of-madness.json) |
 | Shieldwall Chronicles: Swords of the North | 112849 | [112849-shieldwall-chronicles-swords-of-the-north.json](./112849-shieldwall-chronicles-swords-of-the-north.json) |
 | Shielta: Veil of Stars | 132555 | [132555-shielta-veil-of-stars.json](./132555-shielta-veil-of-stars.json) |
 | Shien Mogui | 313957 | [313957-shien-mogui.json](./313957-shien-mogui.json) |
@@ -18748,6 +18749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedy Gonzales | 8077 | [8077-speedy-gonzales.json](./8077-speedy-gonzales.json) |
 | Speedy Gonzales: Aztec Adventure | 49970 | [49970-speedy-gonzales-aztec-adventure.json](./49970-speedy-gonzales-aztec-adventure.json) |
 | Speedy Gonzales: Los Gatos Bandidos | 8076 | [8076-speedy-gonzales-los-gatos-bandidos.json](./8076-speedy-gonzales-los-gatos-bandidos.json) |
+| Speedy Gun Savage | 158890 | [158890-speedy-gun-savage.json](./158890-speedy-gun-savage.json) |
 | Speedy Guys | 268956 | [268956-speedy-guys.json](./268956-speedy-guys.json) |
 | Speedy Lander | 73603 | [73603-speedy-lander.json](./73603-speedy-lander.json) |
 | Speedy Rush | 174908 | [174908-speedy-rush.json](./174908-speedy-rush.json) |
@@ -22679,6 +22681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Home | 293377 | [293377-starship-home.json](./293377-starship-home.json) |
 | Starship Horizons Bridge Simulator | 126963 | [126963-starship-horizons-bridge-simulator.json](./126963-starship-horizons-bridge-simulator.json) |
 | Starship Inspector | 127867 | [127867-starship-inspector.json](./127867-starship-inspector.json) |
+| Starship Intruder | 158863 | [158863-starship-intruder.json](./158863-starship-intruder.json) |
 | Starship Iwamachi | 229531 | [229531-starship-iwamachi.json](./229531-starship-iwamachi.json) |
 | Starship Kingdom | 73732 | [73732-starship-kingdom.json](./73732-starship-kingdom.json) |
 | Starship Pegasus | 42166 | [42166-starship-pegasus.json](./42166-starship-pegasus.json) |
