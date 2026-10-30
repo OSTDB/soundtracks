@@ -3371,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feet Sweeper | 244495 | [244495-feet-sweeper.json](./244495-feet-sweeper.json) |
 | Feevo HD | 232546 | [232546-feevo-hd.json](./232546-feevo-hd.json) |
 | Fegefeuer Soul Tower | 285324 | [285324-fegefeuer-soul-tower.json](./285324-fegefeuer-soul-tower.json) |
+| Fei | 172909 | [172909-fei.json](./172909-fei.json) |
 | Fei Duanmu VS Kobayashi | 87955 | [87955-fei-duanmu-vs-kobayashi.json](./87955-fei-duanmu-vs-kobayashi.json) |
 | FEI Equestriad World Tour | 228148 | [228148-fei-equestriad-world-tour.json](./228148-fei-equestriad-world-tour.json) |
 | Fei Tian | 86105 | [86105-fei-tian.json](./86105-fei-tian.json) |
@@ -4136,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighters' Impact | 44826 | [44826-fighters-impact.json](./44826-fighters-impact.json) |
 | Fightfinity | 388361 | [388361-fightfinity.json](./388361-fightfinity.json) |
 | FightGirl | 310025 | [310025-fightgirl.json](./310025-fightgirl.json) |
+| Fighties 2 | 172940 | [172940-fighties-2.json](./172940-fighties-2.json) |
 | Fightin' Spirit | 12096 | [12096-fightin-spirit.json](./12096-fightin-spirit.json) |
 | Fightin' Words | 297074 | [297074-fightin-words.json](./297074-fightin-words.json) |
 | Fighting | 280316 | [280316-fighting.json](./280316-fighting.json) |
@@ -9698,6 +9700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Flare Night | 361674 | [361674-fox-flare-night.json](./361674-fox-flare-night.json) |
 | Fox Game | 278889 | [278889-fox-game.json](./278889-fox-game.json) |
 | Fox Girl Taming | 239318 | [239318-fox-girl-taming.json](./239318-fox-girl-taming.json) |
+| Fox Goes Hunting | 172929 | [172929-fox-goes-hunting.json](./172929-fox-goes-hunting.json) |
 | Fox Golf | 289720 | [289720-fox-golf.json](./289720-fox-golf.json) |
 | Fox Hime | 90144 | [90144-fox-hime.json](./90144-fox-hime.json) |
 | Fox Hime Zero | 102325 | [102325-fox-hime-zero.json](./102325-fox-hime-zero.json) |
