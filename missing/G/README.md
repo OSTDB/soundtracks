@@ -9090,6 +9090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guidance | 222349 | [222349-guidance.json](./222349-guidance.json) |
 | Guide and Throw | 190835 | [190835-guide-and-throw.json](./190835-guide-and-throw.json) |
 | Guide of the Butterfly | 134939 | [134939-guide-of-the-butterfly.json](./134939-guide-of-the-butterfly.json) |
+| Guide the Light | 175514 | [175514-guide-the-light.json](./175514-guide-the-light.json) |
 | Guide To Apocalypse | 334492 | [334492-guide-to-apocalypse.json](./334492-guide-to-apocalypse.json) |
 | Guided Meditation VR | 34577 | [34577-guided-meditation-vr.json](./34577-guided-meditation-vr.json) |
 | Guidelicious | 264753 | [264753-guidelicious.json](./264753-guidelicious.json) |
