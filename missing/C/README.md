@@ -4094,6 +4094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats and Seek: Tokyo | 315298 | [315298-cats-and-seek-tokyo.json](./315298-cats-and-seek-tokyo.json) |
 | Cats and Sokoban: Mimi's Scratcher | 236436 | [236436-cats-and-sokoban-mimis-scratcher.json](./236436-cats-and-sokoban-mimis-scratcher.json) |
 | Cats and Tails | 416968 | [416968-cats-and-tails.json](./416968-cats-and-tails.json) |
+| Cats and the Other Lives | 143276 | [143276-cats-and-the-other-lives.json](./143276-cats-and-the-other-lives.json) |
 | Cats are Cute | 130604 | [130604-cats-are-cute.json](./130604-cats-are-cute.json) |
 | Cats are Cute: Pop Time! | 322124 | [322124-cats-are-cute-pop-time.json](./322124-cats-are-cute-pop-time.json) |
 | Cats Are Jerks | 232172 | [232172-cats-are-jerks.json](./232172-cats-are-jerks.json) |
