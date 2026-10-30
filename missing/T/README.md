@@ -2497,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Rivals | 417566 | [417566-tavern-rivals.json](./417566-tavern-rivals.json) |
 | Tavern Rumble: Roguelike Card | 256517 | [256517-tavern-rumble-roguelike-card.json](./256517-tavern-rumble-roguelike-card.json) |
 | Tavern Table Tactics | 81646 | [81646-tavern-table-tactics.json](./81646-tavern-table-tactics.json) |
+| Tavern Tales: Tabletop Adventures | 145184 | [145184-tavern-tales-tabletop-adventures.json](./145184-tavern-tales-tabletop-adventures.json) |
 | Tavern Talk | 238488 | [238488-tavern-talk.json](./238488-tavern-talk.json) |
 | Tavern Talk + Pirate Palooza (Costume AOC) | 378868 | [378868-tavern-talk-pirate-palooza-costume-aoc.json](./378868-tavern-talk-pirate-palooza-costume-aoc.json) |
 | Tavern Talk and Dreamwalker Bundle | 405917 | [405917-tavern-talk-and-dreamwalker-bundle.json](./405917-tavern-talk-and-dreamwalker-bundle.json) |
@@ -4471,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris for Two | 187733 | [187733-tetris-for-two.json](./187733-tetris-for-two.json) |
 | Tetris for Windows CE | 203113 | [203113-tetris-for-windows-ce.json](./203113-tetris-for-windows-ce.json) |
 | Tetris Forever | 314934 | [314934-tetris-forever.json](./314934-tetris-forever.json) |
+| Tetris Friends | 145213 | [145213-tetris-friends.json](./145213-tetris-friends.json) |
 | Tetris Gems | 158991 | [158991-tetris-gems.json](./158991-tetris-gems.json) |
 | Tetris Giant | 92457 | [92457-tetris-giant.json](./92457-tetris-giant.json) |
 | Tetris HD | 94129 | [94129-tetris-hd.json](./94129-tetris-hd.json) |
@@ -28217,6 +28219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Escape | 81198 | [81198-tropical-escape.json](./81198-tropical-escape.json) |
 | Tropical Farm | 24738 | [24738-tropical-farm.json](./24738-tropical-farm.json) |
 | Tropical Farm HD | 175740 | [175740-tropical-farm-hd.json](./175740-tropical-farm-hd.json) |
+| Tropical Fish | 145178 | [145178-tropical-fish.json](./145178-tropical-fish.json) |
 | Tropical Fish Shop 2 | 33298 | [33298-tropical-fish-shop-2.json](./33298-tropical-fish-shop-2.json) |
 | Tropical Hearts | 226444 | [226444-tropical-hearts.json](./226444-tropical-hearts.json) |
 | Tropical Heat Jet Ski Racing | 63155 | [63155-tropical-heat-jet-ski-racing.json](./63155-tropical-heat-jet-ski-racing.json) |
