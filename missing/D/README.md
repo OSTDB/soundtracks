@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Bursting Love | 184307 | [184307-danganronpa-bursting-love.json](./184307-danganronpa-bursting-love.json) |
 | Danganronpa: Checkmate | 254595 | [254595-danganronpa-checkmate.json](./254595-danganronpa-checkmate.json) |
 | Danganronpa: Dead End | 134504 | [134504-danganronpa-dead-end.json](./134504-danganronpa-dead-end.json) |
+| Danganronpa: Decadence - Collector's Edition | 153645 | [153645-danganronpa-decadence-collectors-edition.json](./153645-danganronpa-decadence-collectors-edition.json) |
 | Danganronpa: Despair Among Us | 411319 | [411319-danganronpa-despair-among-us.json](./411319-danganronpa-despair-among-us.json) |
 | Danganronpa: Despair's Loss | 411323 | [411323-danganronpa-despairs-loss.json](./411323-danganronpa-despairs-loss.json) |
 | Danganronpa: Eternal Endings | 304347 | [304347-danganronpa-eternal-endings.json](./304347-danganronpa-eternal-endings.json) |
@@ -5840,6 +5841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Crystals | 20402 | [20402-demons-crystals.json](./20402-demons-crystals.json) |
 | Demon's Den | 265503 | [265503-demons-den.json](./265503-demons-den.json) |
 | Demon's Draw | 235349 | [235349-demons-draw.json](./235349-demons-draw.json) |
+| Demon's Gate: Teito Shinshin Taisen - Tokyo Mokushiroku-hen | 153679 | [153679-demons-gate-teito-shinshin-taisen-tokyo-mokushiroku-hen.json](./153679-demons-gate-teito-shinshin-taisen-tokyo-mokushiroku-hen.json) |
 | Demon's Island | 301576 | [301576-demons-island.json](./301576-demons-island.json) |
 | Demon's Mirror | 152170 | [152170-demons-mirror.json](./152170-demons-mirror.json) |
 | Demon's Nightmare: Ar Ek-Qua Er Seta | 177704 | [177704-demons-nightmare-ar-ek-qua-er-seta.json](./177704-demons-nightmare-ar-ek-qua-er-seta.json) |
