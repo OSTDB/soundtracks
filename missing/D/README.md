@@ -14199,6 +14199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream of Anastasia | 299601 | [299601-dream-of-anastasia.json](./299601-dream-of-anastasia.json) |
 | Dream of Gluttony | 130655 | [130655-dream-of-gluttony.json](./130655-dream-of-gluttony.json) |
 | Dream of Grandma | 362224 | [362224-dream-of-grandma.json](./362224-dream-of-grandma.json) |
+| Dream of Hakugyokurou | 159522 | [159522-dream-of-hakugyokurou.json](./159522-dream-of-hakugyokurou.json) |
 | Dream of Life | 229721 | [229721-dream-of-life.json](./229721-dream-of-life.json) |
 | Dream of Light | 215903 | [215903-dream-of-light.json](./215903-dream-of-light.json) |
 | Dream of Mirror Online | 36108 | [36108-dream-of-mirror-online.json](./36108-dream-of-mirror-online.json) |
