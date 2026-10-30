@@ -2848,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heal Slime | 364383 | [364383-heal-slime.json](./364383-heal-slime.json) |
 | Heal The Survivors | 322130 | [322130-heal-the-survivors.json](./322130-heal-the-survivors.json) |
 | Heal Them All | 34299 | [34299-heal-them-all.json](./34299-heal-them-all.json) |
+| Heal: Console Edition | 145853 | [145853-heal-console-edition.json](./145853-heal-console-edition.json) |
 | Heal: Pocket Edition | 208010 | [208010-heal-pocket-edition.json](./208010-heal-pocket-edition.json) |
 | Healed To Death | 285830 | [285830-healed-to-death.json](./285830-healed-to-death.json) |
 | Healer | 257850 | [257850-healer.json](./257850-healer.json) |
