@@ -3422,12 +3422,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Remains of Us | 256288 | [256288-what-remains-of-us.json](./256288-what-remains-of-us.json) |
 | What the Bat?: Batty Goes to Battywood | 306932 | [306932-what-the-bat-batty-goes-to-battywood.json](./306932-what-the-bat-batty-goes-to-battywood.json) |
 | What the Block | 65327 | [65327-what-the-block.json](./65327-what-the-block.json) |
+| What the Bus? | 139606 | [139606-what-the-bus.json](./139606-what-the-bus.json) |
 | What the Car? | 248580 | [248580-what-the-car.json](./248580-what-the-car.json) |
 | What the Car? x Goat Simulator+ | 400246 | [400246-what-the-car-x-goat-simulator.json](./400246-what-the-car-x-goat-simulator.json) |
 | What the Chuck? | 338379 | [338379-what-the-chuck.json](./338379-what-the-chuck.json) |
 | What the Clash? | 339825 | [339825-what-the-clash.json](./339825-what-the-clash.json) |
 | What the Crow?! | 274678 | [274678-what-the-crow.json](./274678-what-the-crow.json) |
 | What the Dub?! | 144808 | [144808-what-the-dub.json](./144808-what-the-dub.json) |
+| What the Duck | 140782 | [140782-what-the-duck.json](./140782-what-the-duck.json) |
 | What The Floosh Game | 307625 | [307625-what-the-floosh-game.json](./307625-what-the-floosh-game.json) |
 | What the Fog | 300793 | [300793-what-the-fog.json](./300793-what-the-fog.json) |
 | What the Fork | 139685 | [139685-what-the-fork.json](./139685-what-the-fork.json) |
@@ -5702,7 +5704,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Hunter | 165174 | [165174-witch-hunter.json](./165174-witch-hunter.json) |
 | Witch Hunter | 218158 | [218158-witch-hunter.json](./218158-witch-hunter.json) |
 | Witch Hunter Izana | 258821 | [258821-witch-hunter-izana.json](./258821-witch-hunter-izana.json) |
+| Witch Hunters: Full Moon Ceremony | 140210 | [140210-witch-hunters-full-moon-ceremony.json](./140210-witch-hunters-full-moon-ceremony.json) |
 | Witch Hunters: Full Moon Ceremony - Collector's Edition | 74350 | [74350-witch-hunters-full-moon-ceremony-collectors-edition.json](./74350-witch-hunters-full-moon-ceremony-collectors-edition.json) |
+| Witch Hunters: Stolen Beauty | 140211 | [140211-witch-hunters-stolen-beauty.json](./140211-witch-hunters-stolen-beauty.json) |
 | Witch Isis | 82835 | [82835-witch-isis.json](./82835-witch-isis.json) |
 | Witch Island II | 82367 | [82367-witch-island-ii.json](./82367-witch-island-ii.json) |
 | Witch Machine | 398023 | [398023-witch-machine.json](./398023-witch-machine.json) |
@@ -5785,6 +5789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchcraft: Candy Hunt | 244910 | [244910-witchcraft-candy-hunt.json](./244910-witchcraft-candy-hunt.json) |
 | Witchcraft: Pandoras Box | 127248 | [127248-witchcraft-pandoras-box.json](./127248-witchcraft-pandoras-box.json) |
 | Witchcrafter | 365594 | [365594-witchcrafter.json](./365594-witchcrafter.json) |
+| Witchcrafter: Empire Legends | 140806 | [140806-witchcrafter-empire-legends.json](./140806-witchcrafter-empire-legends.json) |
 | Witchcrafty | 120920 | [120920-witchcrafty.json](./120920-witchcrafty.json) |
 | Witches & Vampires Ghost Pirates of Ashburry | 47812 | [47812-witches-and-vampires-ghost-pirates-of-ashburry.json](./47812-witches-and-vampires-ghost-pirates-of-ashburry.json) |
 | Witches & Vampires: The Secrets of Ashburry | 47813 | [47813-witches-and-vampires-the-secrets-of-ashburry.json](./47813-witches-and-vampires-the-secrets-of-ashburry.json) |
@@ -5802,15 +5807,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches' Legacy: Awakening Darkness HD (Full) | 89986 | [89986-witches-legacy-awakening-darkness-hd-full.json](./89986-witches-legacy-awakening-darkness-hd-full.json) |
 | Witches' Legacy: Dark Days to Come | 415975 | [415975-witches-legacy-dark-days-to-come.json](./415975-witches-legacy-dark-days-to-come.json) |
 | Witches' Legacy: Dark Days to Come - Collector's Edition | 415974 | [415974-witches-legacy-dark-days-to-come-collectors-edition.json](./415974-witches-legacy-dark-days-to-come-collectors-edition.json) |
+| Witches' Legacy: Hunter and the Hunted | 140205 | [140205-witches-legacy-hunter-and-the-hunted.json](./140205-witches-legacy-hunter-and-the-hunted.json) |
 | Witches' Legacy: Hunter and the Hunted - Collector's Edition | 89945 | [89945-witches-legacy-hunter-and-the-hunted-collectors-edition.json](./89945-witches-legacy-hunter-and-the-hunted-collectors-edition.json) |
 | Witches' Legacy: Hunter and the Hunted HD | 101583 | [101583-witches-legacy-hunter-and-the-hunted-hd.json](./101583-witches-legacy-hunter-and-the-hunted-hd.json) |
+| Witches' Legacy: Lair of the Witch Queen | 140206 | [140206-witches-legacy-lair-of-the-witch-queen.json](./140206-witches-legacy-lair-of-the-witch-queen.json) |
 | Witches' Legacy: Lair of the Witch Queen - Collector's Edition | 110374 | [110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json](./110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json) |
 | Witches' Legacy: Lair of the Witch Queen & Witches' Legacy: Hunter and the Hunted | 201072 | [201072-witches-legacy-lair-of-the-witch-queen-and-witches-legacy-hunter-and-the-hunted.json](./201072-witches-legacy-lair-of-the-witch-queen-and-witches-legacy-hunter-and-the-hunted.json) |
+| Witches' Legacy: Slumbering Darkness | 140207 | [140207-witches-legacy-slumbering-darkness.json](./140207-witches-legacy-slumbering-darkness.json) |
 | Witches' Legacy: Slumbering Darkness - Collector's Edition | 29618 | [29618-witches-legacy-slumbering-darkness-collectors-edition.json](./29618-witches-legacy-slumbering-darkness-collectors-edition.json) |
 | Witches' Legacy: The Charleston Curse - Collector's Edition | 118036 | [118036-witches-legacy-the-charleston-curse-collectors-edition.json](./118036-witches-legacy-the-charleston-curse-collectors-edition.json) |
 | Witches' Legacy: The City That Isn't There | 415976 | [415976-witches-legacy-the-city-that-isnt-there.json](./415976-witches-legacy-the-city-that-isnt-there.json) |
+| Witches' Legacy: The Dark Throne | 140208 | [140208-witches-legacy-the-dark-throne.json](./140208-witches-legacy-the-dark-throne.json) |
 | Witches' Legacy: The Dark Throne - Collector's Edition | 55781 | [55781-witches-legacy-the-dark-throne-collectors-edition.json](./55781-witches-legacy-the-dark-throne-collectors-edition.json) |
 | Witches' Legacy: The Dark Throne HD | 89120 | [89120-witches-legacy-the-dark-throne-hd.json](./89120-witches-legacy-the-dark-throne-hd.json) |
+| Witches' Legacy: The Ties That Bind | 140209 | [140209-witches-legacy-the-ties-that-bind.json](./140209-witches-legacy-the-ties-that-bind.json) |
 | Witches' Legacy: The Ties That Bind - Collector's Edition | 32735 | [32735-witches-legacy-the-ties-that-bind-collectors-edition.json](./32735-witches-legacy-the-ties-that-bind-collectors-edition.json) |
 | Witcheye | 121440 | [121440-witcheye.json](./121440-witcheye.json) |
 | Witchfall | 405371 | [405371-witchfall.json](./405371-witchfall.json) |
