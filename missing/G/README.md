@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Angel Game Boy Advance: Moridakusan Tenshi no Full Course Okawari Jiyuu | 49562 | [49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json](./49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json) |
 | Galaxy Angel: Eternal Lovers | 79291 | [79291-galaxy-angel-eternal-lovers.json](./79291-galaxy-angel-eternal-lovers.json) |
 | Galaxy Annihilation | 36924 | [36924-galaxy-annihilation.json](./36924-galaxy-annihilation.json) |
+| Galaxy Arena | 166925 | [166925-galaxy-arena.json](./166925-galaxy-arena.json) |
 | Galaxy Arena | 208188 | [208188-galaxy-arena.json](./208188-galaxy-arena.json) |
 | Galaxy At War | 292976 | [292976-galaxy-at-war.json](./292976-galaxy-at-war.json) |
 | Galaxy at War Online | 39173 | [39173-galaxy-at-war-online.json](./39173-galaxy-at-war-online.json) |
@@ -807,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Invader 1000 | 47282 | [47282-galaxy-invader-1000.json](./47282-galaxy-invader-1000.json) |
 | Galaxy Invaders | 221893 | [221893-galaxy-invaders.json](./221893-galaxy-invaders.json) |
 | Galaxy Invasion | 282428 | [282428-galaxy-invasion.json](./282428-galaxy-invasion.json) |
+| Galaxy Kart | 166932 | [166932-galaxy-kart.json](./166932-galaxy-kart.json) |
 | Galaxy Killer | 287513 | [287513-galaxy-killer.json](./287513-galaxy-killer.json) |
 | Galaxy Kingdoms | 236214 | [236214-galaxy-kingdoms.json](./236214-galaxy-kingdoms.json) |
 | Galaxy Legend | 323136 | [323136-galaxy-legend.json](./323136-galaxy-legend.json) |
@@ -5571,6 +5573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Going Nowhere: The Dream | 74383 | [74383-going-nowhere-the-dream.json](./74383-going-nowhere-the-dream.json) |
 | Going Nuts | 70405 | [70405-going-nuts.json](./70405-going-nuts.json) |
 | Going Rogue | 223360 | [223360-going-rogue.json](./223360-going-rogue.json) |
+| Going the Distance | 166943 | [166943-going-the-distance.json](./166943-going-the-distance.json) |
 | Going To Bed | 375790 | [375790-going-to-bed.json](./375790-going-to-bed.json) |
 | Going Under | 122662 | [122662-going-under.json](./122662-going-under.json) |
 | Going Up | 31946 | [31946-going-up.json](./31946-going-up.json) |
@@ -5621,6 +5624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Digger: The Simulator | 315835 | [315835-gold-digger-the-simulator.json](./315835-gold-digger-the-simulator.json) |
 | Gold Drill | 215688 | [215688-gold-drill.json](./215688-gold-drill.json) |
 | Gold Drop Mania | 329919 | [329919-gold-drop-mania.json](./329919-gold-drop-mania.json) |
+| Gold Dust | 166947 | [166947-gold-dust.json](./166947-gold-dust.json) |
 | Gold Express | 118598 | [118598-gold-express.json](./118598-gold-express.json) |
 | Gold Fever | 22731 | [22731-gold-fever.json](./22731-gold-fever.json) |
 | Gold For All | 248338 | [248338-gold-for-all.json](./248338-gold-for-all.json) |
