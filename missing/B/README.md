@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -992,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bái Xiǎo | 195266 | [195266-bai-xiao.json](./195266-bai-xiao.json) |
 | Baia | 334498 | [334498-baia.json](./334498-baia.json) |
 | Baiacool: Tides of Olympus | 385657 | [385657-baiacool-tides-of-olympus.json](./385657-baiacool-tides-of-olympus.json) |
+| Bǎidìtān | 155320 | [155320-baiditan.json](./155320-baiditan.json) |
 | Baikinman wo Yattsukero! | 300006 | [300006-baikinman-wo-yattsukero.json](./300006-baikinman-wo-yattsukero.json) |
 | Baiko | 99429 | [99429-baiko.json](./99429-baiko.json) |
 | Baikoh: Word Challenges | 87587 | [87587-baikoh-word-challenges.json](./87587-baikoh-word-challenges.json) |
@@ -9587,6 +9589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockville | 195449 | [195449-blockville.json](./195449-blockville.json) |
 | Blockwick | 74783 | [74783-blockwick.json](./74783-blockwick.json) |
 | Blockwick 2 | 35038 | [35038-blockwick-2.json](./35038-blockwick-2.json) |
+| BlockWorld | 155318 | [155318-blockworld.json](./155318-blockworld.json) |
 | BlockWorld Ai | 317773 | [317773-blockworld-ai.json](./317773-blockworld-ai.json) |
 | Blockxy Puzzle Adventure | 328560 | [328560-blockxy-puzzle-adventure.json](./328560-blockxy-puzzle-adventure.json) |
 | Blocky | 100836 | [100836-blocky.json](./100836-blocky.json) |
