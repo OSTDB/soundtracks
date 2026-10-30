@@ -5939,6 +5939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Infinity: Mate in 3 Puzzle Pack | 358052 | [358052-chess-infinity-mate-in-3-puzzle-pack.json](./358052-chess-infinity-mate-in-3-puzzle-pack.json) |
 | Chess is Stupid! | 230735 | [230735-chess-is-stupid.json](./230735-chess-is-stupid.json) |
 | Chess Kids | 72303 | [72303-chess-kids.json](./72303-chess-kids.json) |
+| Chess Kingdom | 165895 | [165895-chess-kingdom.json](./165895-chess-kingdom.json) |
 | Chess Knight | 90847 | [90847-chess-knight.json](./90847-chess-knight.json) |
 | Chess Knights: Eldritch Hunter | 160166 | [160166-chess-knights-eldritch-hunter.json](./160166-chess-knights-eldritch-hunter.json) |
 | Chess Knights: Shinobi | 148133 | [148133-chess-knights-shinobi.json](./148133-chess-knights-shinobi.json) |
@@ -9460,6 +9461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clowned Pro | 276060 | [276060-clowned-pro.json](./276060-clowned-pro.json) |
 | Clownfield 2042 | 186132 | [186132-clownfield-2042.json](./186132-clownfield-2042.json) |
 | Clownfield 6 | 383451 | [383451-clownfield-6.json](./383451-clownfield-6.json) |
+| Clowns | 165915 | [165915-clowns.json](./165915-clowns.json) |
 | Clowns and Balloons | 40781 | [40781-clowns-and-balloons.json](./40781-clowns-and-balloons.json) |
 | ClownScapades Rally | 257924 | [257924-clownscapades-rally.json](./257924-clownscapades-rally.json) |
 | CLS: Signal Person | 119778 | [119778-cls-signal-person.json](./119778-cls-signal-person.json) |
