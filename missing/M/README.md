@@ -4603,6 +4603,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Orion II: Battle at Antares | 68 | [68-master-of-orion-ii-battle-at-antares.json](./68-master-of-orion-ii-battle-at-antares.json) |
 | Master of Orion III | 69 | [69-master-of-orion-iii.json](./69-master-of-orion-iii.json) |
 | Master of Orion: Gnolam League | 169972 | [169972-master-of-orion-gnolam-league.json](./169972-master-of-orion-gnolam-league.json) |
+| Master of Orion: Retro Fleets | 170132 | [170132-master-of-orion-retro-fleets.json](./170132-master-of-orion-retro-fleets.json) |
+| Master of Orion: Terran Khanate | 170130 | [170130-master-of-orion-terran-khanate.json](./170130-master-of-orion-terran-khanate.json) |
+| Master of Orion: Trilarian Shoal | 170131 | [170131-master-of-orion-trilarian-shoal.json](./170131-master-of-orion-trilarian-shoal.json) |
 | Master of Piece | 335398 | [335398-master-of-piece.json](./335398-master-of-piece.json) |
 | Master of Pieces Jigsaw Puzzle: Beadwoven Beauty | 357908 | [357908-master-of-pieces-jigsaw-puzzle-beadwoven-beauty.json](./357908-master-of-pieces-jigsaw-puzzle-beadwoven-beauty.json) |
 | Master of Pieces Jigsaw Puzzle: Beautiful Nonsense 2 | 357910 | [357910-master-of-pieces-jigsaw-puzzle-beautiful-nonsense-2.json](./357910-master-of-pieces-jigsaw-puzzle-beautiful-nonsense-2.json) |
@@ -10644,6 +10647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Machine | 70240 | [70240-mind-machine.json](./70240-mind-machine.json) |
 | Mind Maze | 100308 | [100308-mind-maze.json](./100308-mind-maze.json) |
 | Mind Maze | 154978 | [154978-mind-maze.json](./154978-mind-maze.json) |
+| Mind Maze: Campaign "Triplex" | 170169 | [170169-mind-maze-campaign-triplex.json](./170169-mind-maze-campaign-triplex.json) |
 | Mind Medley | 209509 | [209509-mind-medley.json](./209509-mind-medley.json) |
 | Mind Muscle VR | 150531 | [150531-mind-muscle-vr.json](./150531-mind-muscle-vr.json) |
 | Mind of the Eyes | 223339 | [223339-mind-of-the-eyes.json](./223339-mind-of-the-eyes.json) |
@@ -18825,7 +18829,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Traditional Princes | 299600 | [299600-my-traditional-princes.json](./299600-my-traditional-princes.json) |
 | My Trailer Park Life | 275018 | [275018-my-trailer-park-life.json](./275018-my-trailer-park-life.json) |
 | My Train Arrives | 121980 | [121980-my-train-arrives.json](./121980-my-train-arrives.json) |
+| My Train Arrives: Big cities | 170129 | [170129-my-train-arrives-big-cities.json](./170129-my-train-arrives-big-cities.json) |
+| My Train Arrives: City pack | 170128 | [170128-my-train-arrives-city-pack.json](./170128-my-train-arrives-city-pack.json) |
 | My Train Arrives: In ten years | 193586 | [193586-my-train-arrives-in-ten-years.json](./193586-my-train-arrives-in-ten-years.json) |
+| My Train Arrives: Neighbouring cities | 170127 | [170127-my-train-arrives-neighbouring-cities.json](./170127-my-train-arrives-neighbouring-cities.json) |
 | My Train Arrives: Sea and Mountains | 274927 | [274927-my-train-arrives-sea-and-mountains.json](./274927-my-train-arrives-sea-and-mountains.json) |
 | My Train World | 156663 | [156663-my-train-world.json](./156663-my-train-world.json) |
 | My Trainer is a Futanari | 207328 | [207328-my-trainer-is-a-futanari.json](./207328-my-trainer-is-a-futanari.json) |
