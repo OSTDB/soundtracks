@@ -5,6 +5,7 @@
 | Cover | Game | Albums |
 |---|---|---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8325472027afc01c02894a0" width="60" /> | [V Rising](https://ostdb.net/games/v-rising) | **V Rising (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5CVGUeoWJc1g2KNVqHixHG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d3e71a793738a0bd3b9e05b" width="60" /> | [Vacation Simulator](https://ostdb.net/games/vacation-simulator) | **Vacation Simulator (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1UcvHkTsPlcas69aqpbjQc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27339abed1189d75fcf985eeab5" width="60" /> | [Valheim](https://ostdb.net/games/valheim) | **Valheim (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2CseSQFwwwDSYcAwHvT8Mt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273267547ea03ebaf9db23951b7" width="60" /> | [Valiant Hearts: Coming Home](https://ostdb.net/games/valiant-hearts-coming-home) | **Valiant Hearts: Coming Home (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2pMVN9hWVXuhfqFqArPn6B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307dc2e292429c822db85c378" width="60" /> | [Valkyria Chronicles 2](https://ostdb.net/games/valkyria-chronicles-2) | **Valkyria Chronicles 2 Original Soundtrack** · [Spotify](https://open.spotify.com/album/6QkjemSLrkSno71ooMhCx8) |
