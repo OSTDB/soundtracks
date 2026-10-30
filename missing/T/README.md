@@ -13847,6 +13847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rescue of Lorri in Lorrinitron | 74052 | [74052-the-rescue-of-lorri-in-lorrinitron.json](./74052-the-rescue-of-lorri-in-lorrinitron.json) |
 | The Rescue of Mermaids | 118051 | [118051-the-rescue-of-mermaids.json](./118051-the-rescue-of-mermaids.json) |
 | The Rescue Squad | 164916 | [164916-the-rescue-squad.json](./164916-the-rescue-squad.json) |
+| The Research Age Deluxe | 170684 | [170684-the-research-age-deluxe.json](./170684-the-research-age-deluxe.json) |
 | The Research Facility No.507 | 90576 | [90576-the-research-facility-no-507.json](./90576-the-research-facility-no-507.json) |
 | The Reshaping of Googol 1B: The Tower | 299157 | [299157-the-reshaping-of-googol-1b-the-tower.json](./299157-the-reshaping-of-googol-1b-the-tower.json) |
 | The Resident | 366283 | [366283-the-resident.json](./366283-the-resident.json) |
@@ -17139,6 +17140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World's Hardest Game HTML5 | 249632 | [249632-the-worlds-hardest-game-html5.json](./249632-the-worlds-hardest-game-html5.json) |
 | The World's Hardest Game: On Steam | 262689 | [262689-the-worlds-hardest-game-on-steam.json](./262689-the-worlds-hardest-game-on-steam.json) |
 | The World's Legends: Kashchey the Immortal | 24772 | [24772-the-worlds-legends-kashchey-the-immortal.json](./24772-the-worlds-legends-kashchey-the-immortal.json) |
+| The World's Most Impossible Game | 170671 | [170671-the-worlds-most-impossible-game.json](./170671-the-worlds-most-impossible-game.json) |
 | The World's Shortest Horror Game | 414766 | [414766-the-worlds-shortest-horror-game.json](./414766-the-worlds-shortest-horror-game.json) |
 | The Worlds Best Board Games | 51208 | [51208-the-worlds-best-board-games.json](./51208-the-worlds-best-board-games.json) |
 | The Worlds of Billy | 65042 | [65042-the-worlds-of-billy.json](./65042-the-worlds-of-billy.json) |
