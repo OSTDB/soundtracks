@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakurasu World | 147724 | [147724-kakurasu-world.json](./147724-kakurasu-world.json) |
 | Kakure-oni | 376874 | [376874-kakure-oni.json](./376874-kakure-oni.json) |
 | Kakurenbo | 191531 | [191531-kakurenbo.json](./191531-kakurenbo.json) |
+| Kakurenbo Battle: Monster Tactics | 138997 | [138997-kakurenbo-battle-monster-tactics.json](./138997-kakurenbo-battle-monster-tactics.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
 | Kakurenbo: Hide and Seek | 350963 | [350963-kakurenbo-hide-and-seek.json](./350963-kakurenbo-hide-and-seek.json) |
 | Kakureza Library | 187700 | [187700-kakureza-library.json](./187700-kakureza-library.json) |
@@ -930,7 +931,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karolina | 199746 | [199746-karolina.json](./199746-karolina.json) |
 | Karos Classic | 284877 | [284877-karos-classic.json](./284877-karos-classic.json) |
 | Karos Returns | 35215 | [35215-karos-returns.json](./35215-karos-returns.json) |
+| Karoshi | 138990 | [138990-karoshi.json](./138990-karoshi.json) |
 | Karoshi | 44476 | [44476-karoshi.json](./44476-karoshi.json) |
+| Karoshi 2.0 | 138991 | [138991-karoshi-2-0.json](./138991-karoshi-2-0.json) |
 | Karoshi Club | 323004 | [323004-karoshi-club.json](./323004-karoshi-club.json) |
 | Karoshi Mario | 275323 | [275323-karoshi-mario.json](./275323-karoshi-mario.json) |
 | Karoshi: Suicide Salaryman | 266379 | [266379-karoshi-suicide-salaryman.json](./266379-karoshi-suicide-salaryman.json) |
@@ -1255,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazaam | 217676 | [217676-kazaam.json](./217676-kazaam.json) |
 | Kazak | 239685 | [239685-kazak.json](./239685-kazak.json) |
 | Kazakh ' Jack | 144941 | [144941-kazakh-jack.json](./144941-kazakh-jack.json) |
+| Kazakh Drive | 138419 | [138419-kazakh-drive.json](./138419-kazakh-drive.json) |
 | Kaze Kiri: Ninja Action | 37612 | [37612-kaze-kiri-ninja-action.json](./37612-kaze-kiri-ninja-action.json) |
 | Kaze no Keishousha | 408763 | [408763-kaze-no-keishousha.json](./408763-kaze-no-keishousha.json) |
 | Kaze no Noriko: Sanae-san no Yokai Taiji | 193628 | [193628-kaze-no-noriko-sanae-san-no-yokai-taiji.json](./193628-kaze-no-noriko-sanae-san-no-yokai-taiji.json) |
@@ -2521,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3457,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Epic Yarn | 2184 | [2184-kirbys-epic-yarn.json](./2184-kirbys-epic-yarn.json) |
 | Kirby's Halloween Adventure | 212961 | [212961-kirbys-halloween-adventure.json](./212961-kirbys-halloween-adventure.json) |
 | Kirby's Pinball Land DX | 279225 | [279225-kirbys-pinball-land-dx.json](./279225-kirbys-pinball-land-dx.json) |
+| Kirby's Puresabe Adventure | 138986 | [138986-kirbys-puresabe-adventure.json](./138986-kirbys-puresabe-adventure.json) |
 | Kirby's Return to Dream Land | 3725 | [3725-kirbys-return-to-dream-land.json](./3725-kirbys-return-to-dream-land.json) |
 | Kirchhoff's Revenge | 89398 | [89398-kirchhoffs-revenge.json](./89398-kirchhoffs-revenge.json) |
 | Kirei Zukin Seikatsu 2 | 325723 | [325723-kirei-zukin-seikatsu-2.json](./325723-kirei-zukin-seikatsu-2.json) |
@@ -4995,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotone no Shuki Shuki Polynesian Sex | 398693 | [398693-kotone-no-shuki-shuki-polynesian-sex.json](./398693-kotone-no-shuki-shuki-polynesian-sex.json) |
 | Kotonoha Decadence | 398987 | [398987-kotonoha-decadence.json](./398987-kotonoha-decadence.json) |
 | Kotonoha Lernado | 250245 | [250245-kotonoha-lernado.json](./250245-kotonoha-lernado.json) |
+| Kotori Love Ex P | 139018 | [139018-kotori-love-ex-p.json](./139018-kotori-love-ex-p.json) |
 | Kotori no Tsubasa | 405511 | [405511-kotori-no-tsubasa.json](./405511-kotori-no-tsubasa.json) |
 | Kotori with a gun | 148384 | [148384-kotori-with-a-gun.json](./148384-kotori-with-a-gun.json) |
 | Kotoro | 218964 | [218964-kotoro.json](./218964-kotoro.json) |
