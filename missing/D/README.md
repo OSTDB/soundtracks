@@ -7340,6 +7340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dezaemon Plus | 65770 | [65770-dezaemon-plus.json](./65770-dezaemon-plus.json) |
 | Dezlooca Anthology | 186498 | [186498-dezlooca-anthology.json](./186498-dezlooca-anthology.json) |
 | Dezzan | 117118 | [117118-dezzan.json](./117118-dezzan.json) |
+| DF-41 Simulator | 169609 | [169609-df-41-simulator.json](./169609-df-41-simulator.json) |
 | DFClicker | 396731 | [396731-dfclicker.json](./396731-dfclicker.json) |
 | Dfiance | 323371 | [323371-dfiance.json](./323371-dfiance.json) |
 | DFP: Disappear From Polizia | 373098 | [373098-dfp-disappear-from-polizia.json](./373098-dfp-disappear-from-polizia.json) |
@@ -7456,6 +7457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Girl: An Earnest Education in Love | 147996 | [147996-diamond-girl-an-earnest-education-in-love.json](./147996-diamond-girl-an-earnest-education-in-love.json) |
 | Diamond Giza | 157193 | [157193-diamond-giza.json](./157193-diamond-giza.json) |
 | Diamond Hands Arena | 197094 | [197094-diamond-hands-arena.json](./197094-diamond-hands-arena.json) |
+| Diamond Hands: To the Moon | 169583 | [169583-diamond-hands-to-the-moon.json](./169583-diamond-hands-to-the-moon.json) |
 | Diamond Hollow | 286649 | [286649-diamond-hollow.json](./286649-diamond-hollow.json) |
 | Diamond Hollow II | 286650 | [286650-diamond-hollow-ii.json](./286650-diamond-hollow-ii.json) |
 | Diamond Hunt | 108926 | [108926-diamond-hunt.json](./108926-diamond-hunt.json) |
@@ -7885,6 +7887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Difference Games | 255057 | [255057-difference-games.json](./255057-difference-games.json) |
 | Differences | 233617 | [233617-differences.json](./233617-differences.json) |
 | Differences Master | 392930 | [392930-differences-master.json](./392930-differences-master.json) |
+| Different Stories VR | 169592 | [169592-different-stories-vr.json](./169592-different-stories-vr.json) |
 | Different Strokes | 213030 | [213030-different-strokes.json](./213030-different-strokes.json) |
 | Differently Fast | 74519 | [74519-differently-fast.json](./74519-differently-fast.json) |
 | Difficult | 399873 | [399873-difficult.json](./399873-difficult.json) |
