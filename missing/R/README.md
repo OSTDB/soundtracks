@@ -3587,6 +3587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Sea | 223032 | [223032-red-sea.json](./223032-red-sea.json) |
 | Red Sea Crossing | 40773 | [40773-red-sea-crossing.json](./40773-red-sea-crossing.json) |
 | Red Season | 381614 | [381614-red-season.json](./381614-red-season.json) |
+| Red Sector | 167486 | [167486-red-sector.json](./167486-red-sector.json) |
 | Red Series | 270665 | [270665-red-series.json](./270665-red-series.json) |
 | Red Shark | 54318 | [54318-red-shark.json](./54318-red-shark.json) |
 | Red Silhouette | 285939 | [285939-red-silhouette.json](./285939-red-silhouette.json) |
@@ -10616,6 +10617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby Nations 18 | 86865 | [86865-rugby-nations-18.json](./86865-rugby-nations-18.json) |
 | Rugby Sevens 23 | 240817 | [240817-rugby-sevens-23.json](./240817-rugby-sevens-23.json) |
 | Rugby Union Team Manager 2017 | 31304 | [31304-rugby-union-team-manager-2017.json](./31304-rugby-union-team-manager-2017.json) |
+| Rugby Union Team Manager 3 | 167488 | [167488-rugby-union-team-manager-3.json](./167488-rugby-union-team-manager-3.json) |
 | Rugby Union Team Manager 4 | 225072 | [225072-rugby-union-team-manager-4.json](./225072-rugby-union-team-manager-4.json) |
 | Rugby World Cup 1995 | 45551 | [45551-rugby-world-cup-1995.json](./45551-rugby-world-cup-1995.json) |
 | Rugby World Cup 2015 | 20861 | [20861-rugby-world-cup-2015.json](./20861-rugby-world-cup-2015.json) |
