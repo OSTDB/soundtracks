@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 108 Silly Ways to Die | 326083 | [326083-108-silly-ways-to-die.json](./326083-108-silly-ways-to-die.json) |
 | 1080° Avalanche | 3774 | [3774-1080-avalanche.json](./3774-1080-avalanche.json) |
 | 1080° Snowboarding | 3328 | [3328-1080-snowboarding.json](./3328-1080-snowboarding.json) |
+| 109 Remastered | 173962 | [173962-109-remastered.json](./173962-109-remastered.json) |
 | 10Battle | 230219 | [230219-10battle.json](./230219-10battle.json) |
 | 10hit | 357179 | [357179-10hit.json](./357179-10hit.json) |
 | 10K & The Kriminal World: Sammy's Attack | 195765 | [195765-10k-and-the-kriminal-world-sammys-attack.json](./195765-10k-and-the-kriminal-world-sammys-attack.json) |
@@ -2023,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Don't Die Mr Robot | 219510 | [219510-3d-dont-die-mr-robot.json](./219510-3d-dont-die-mr-robot.json) |
 | 3D Dot Game Heroes | 7265 | [7265-3d-dot-game-heroes.json](./7265-3d-dot-game-heroes.json) |
 | 3D Dotty | 8523 | [8523-3d-dotty.json](./8523-3d-dotty.json) |
+| 3D Double Dealing Character | 173961 | [173961-3d-double-dealing-character.json](./173961-3d-double-dealing-character.json) |
 | 3D Dragon Castle | 205837 | [205837-3d-dragon-castle.json](./205837-3d-dragon-castle.json) |
 | 3D Driving School | 52544 | [52544-3d-driving-school.json](./52544-3d-driving-school.json) |
 | 3d Engineers | 35889 | [35889-3d-engineers.json](./35889-3d-engineers.json) |
