@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4120,6 +4121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayonetta 3: Trinity Masquerade Edition | 209839 | [209839-bayonetta-3-trinity-masquerade-edition.json](./209839-bayonetta-3-trinity-masquerade-edition.json) |
 | Bayonetta Origins: Cereza and the Lost Demon | 228528 | [228528-bayonetta-origins-cereza-and-the-lost-demon.json](./228528-bayonetta-origins-cereza-and-the-lost-demon.json) |
 | Bayonetta: Nonstop Climax Edition | 136898 | [136898-bayonetta-nonstop-climax-edition.json](./136898-bayonetta-nonstop-climax-edition.json) |
+| Bayonetta: Special Edition | 136077 | [136077-bayonetta-special-edition.json](./136077-bayonetta-special-edition.json) |
 | Bayou Boats | 387711 | [387711-bayou-boats.json](./387711-bayou-boats.json) |
 | Bayou Island: Point and Click Adventure | 29412 | [29412-bayou-island-point-and-click-adventure.json](./29412-bayou-island-point-and-click-adventure.json) |
 | Bazaar | 19033 | [19033-bazaar.json](./19033-bazaar.json) |
@@ -8415,6 +8417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackroom | 18915 | [18915-blackroom.json](./18915-blackroom.json) |
 | Blackroot: Medieval Survival | 348571 | [348571-blackroot-medieval-survival.json](./348571-blackroot-medieval-survival.json) |
 | Blacksad: Under the Skin - Collector's Edition | 166272 | [166272-blacksad-under-the-skin-collectors-edition.json](./166272-blacksad-under-the-skin-collectors-edition.json) |
+| Blacksad: Under the Skin - Limited Edition | 136047 | [136047-blacksad-under-the-skin-limited-edition.json](./136047-blacksad-under-the-skin-limited-edition.json) |
 | BlackSands | 391334 | [391334-blacksands.json](./391334-blacksands.json) |
 | Blackscar Mountain | 72093 | [72093-blackscar-mountain.json](./72093-blackscar-mountain.json) |
 | Blackscreen Simulator | 74952 | [74952-blackscreen-simulator.json](./74952-blackscreen-simulator.json) |
@@ -14732,6 +14735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble 2 | 298940 | [298940-bubble-bobble-2.json](./298940-bubble-bobble-2.json) |
 | Bubble Bobble 2 classic | 232400 | [232400-bubble-bobble-2-classic.json](./232400-bubble-bobble-2-classic.json) |
 | Bubble Bobble 4 Friends | 121708 | [121708-bubble-bobble-4-friends.json](./121708-bubble-bobble-4-friends.json) |
+| Bubble Bobble 4 Friends: Special Edition | 136075 | [136075-bubble-bobble-4-friends-special-edition.json](./136075-bubble-bobble-4-friends-special-edition.json) |
 | Bubble Bobble 4 Friends: The Baron Is Back! | 139837 | [139837-bubble-bobble-4-friends-the-baron-is-back.json](./139837-bubble-bobble-4-friends-the-baron-is-back.json) |
 | Bubble Bobble Classic | 332248 | [332248-bubble-bobble-classic.json](./332248-bubble-bobble-classic.json) |
 | Bubble Bobble Double Shot | 20672 | [20672-bubble-bobble-double-shot.json](./20672-bubble-bobble-double-shot.json) |
@@ -14993,6 +14997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bud of Frenzy and Instinct | 108946 | [108946-bud-of-frenzy-and-instinct.json](./108946-bud-of-frenzy-and-instinct.json) |
 | Bud Redhead: The Time Chase | 71558 | [71558-bud-redhead-the-time-chase.json](./71558-bud-redhead-the-time-chase.json) |
 | Bud Spencer & Terence Hill: Slaps and Beans | 77187 | [77187-bud-spencer-and-terence-hill-slaps-and-beans.json](./77187-bud-spencer-and-terence-hill-slaps-and-beans.json) |
+| Bud Spencer & Terence Hill: Slaps and Beans - Anniversary Edition | 136079 | [136079-bud-spencer-and-terence-hill-slaps-and-beans-anniversary-edition.json](./136079-bud-spencer-and-terence-hill-slaps-and-beans-anniversary-edition.json) |
 | Bud Spencer & Terence Hill: Slaps and Beans 2 | 244901 | [244901-bud-spencer-and-terence-hill-slaps-and-beans-2.json](./244901-bud-spencer-and-terence-hill-slaps-and-beans-2.json) |
 | Bud Tucker in Double Trouble | 19240 | [19240-bud-tucker-in-double-trouble.json](./19240-bud-tucker-in-double-trouble.json) |
 | Buddha Finger | 22188 | [22188-buddha-finger.json](./22188-buddha-finger.json) |
@@ -16215,6 +16220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Empire Tycoon | 309489 | [309489-business-empire-tycoon.json](./309489-business-empire-tycoon.json) |
 | Business Empire: RichMan | 280220 | [280220-business-empire-richman.json](./280220-business-empire-richman.json) |
 | Business Game: Monopolist | 104406 | [104406-business-game-monopolist.json](./104406-business-game-monopolist.json) |
+| Business Heroes: Street Grub | 136088 | [136088-business-heroes-street-grub.json](./136088-business-heroes-street-grub.json) |
 | Business Magnate | 112754 | [112754-business-magnate.json](./112754-business-magnate.json) |
 | Business Man 2000 | 69933 | [69933-business-man-2000.json](./69933-business-man-2000.json) |
 | Business Management | 400853 | [400853-business-management.json](./400853-business-management.json) |
