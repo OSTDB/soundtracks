@@ -3393,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hedrons | 149095 | [149095-hedrons.json](./149095-hedrons.json) |
 | Hedrox | 274179 | [274179-hedrox.json](./274179-hedrox.json) |
 | Hedrox 2 | 274180 | [274180-hedrox-2.json](./274180-hedrox-2.json) |
+| Heebie Jeebies: The Roller Coaster | 126770 | [126770-heebie-jeebies-the-roller-coaster.json](./126770-heebie-jeebies-the-roller-coaster.json) |
 | Heed | 169984 | [169984-heed.json](./169984-heed.json) |
 | Heeey! Park-Boy | 142096 | [142096-heeey-park-boy.json](./142096-heeey-park-boy.json) |
 | Heffelfinger | 340425 | [340425-heffelfinger.json](./340425-heffelfinger.json) |
@@ -5312,6 +5313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Siege: Stormweaver | 296954 | [296954-hero-siege-stormweaver.json](./296954-hero-siege-stormweaver.json) |
 | Hero Siege: Wrath of Mevius | 168769 | [168769-hero-siege-wrath-of-mevius.json](./168769-hero-siege-wrath-of-mevius.json) |
 | Hero Slayers | 348427 | [348427-hero-slayers.json](./348427-hero-slayers.json) |
+| Hero Soul: I Want to be a Hero! | 126786 | [126786-hero-soul-i-want-to-be-a-hero.json](./126786-hero-soul-i-want-to-be-a-hero.json) |
 | Hero Staff | 113655 | [113655-hero-staff.json](./113655-hero-staff.json) |
 | Hero Stickman | 346653 | [346653-hero-stickman.json](./346653-hero-stickman.json) |
 | Hero Swing VR | 120667 | [120667-hero-swing-vr.json](./120667-hero-swing-vr.json) |
