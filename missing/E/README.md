@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Playground | 175780 | [175780-ea-playground.json](./175780-ea-playground.json) |
 | EA Playground | 4825 | [4825-ea-playground.json](./4825-ea-playground.json) |
 | EA Replay 2 | 209176 | [209176-ea-replay-2.json](./209176-ea-replay-2.json) |
+| EA Speed & Seed Bundle | 164701 | [164701-ea-speed-and-seed-bundle.json](./164701-ea-speed-and-seed-bundle.json) |
 | EA Sports | 220088 | [220088-ea-sports.json](./220088-ea-sports.json) |
 | EA Sports Active 2.0 | 47422 | [47422-ea-sports-active-2-0.json](./47422-ea-sports-active-2-0.json) |
 | EA Sports College Football 25 | 172021 | [172021-ea-sports-college-football-25.json](./172021-ea-sports-college-football-25.json) |
