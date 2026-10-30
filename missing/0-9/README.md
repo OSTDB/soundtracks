@@ -2933,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 80's BASIC Games | 313458 | [313458-80s-basic-games.json](./313458-80s-basic-games.json) |
 | 80's Disco Brawl | 419355 | [419355-80s-disco-brawl.json](./419355-80s-disco-brawl.json) |
 | 80's Mania Pinball | 231321 | [231321-80s-mania-pinball.json](./231321-80s-mania-pinball.json) |
+| 80's Night | 172346 | [172346-80s-night.json](./172346-80s-night.json) |
 | 80's Overdrive | 58717 | [58717-80s-overdrive.json](./58717-80s-overdrive.json) |
 | 80's style | 367904 | [367904-80s-style.json](./367904-80s-style.json) |
 | 808 | 357760 | [357760-808.json](./357760-808.json) |
