@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagerou Densetsu | 48448 | [48448-kagerou-densetsu.json](./48448-kagerou-densetsu.json) |
 | Kagerou Labyrinth | 338819 | [338819-kagerou-labyrinth.json](./338819-kagerou-labyrinth.json) |
 | Kagi wo Kakushita Kago no Tori: Bird in Cage Hiding the Key | 260120 | [260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json](./260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json) |
+| Kagiana Satsujin Jiken | 137798 | [137798-kagiana-satsujin-jiken.json](./137798-kagiana-satsujin-jiken.json) |
 | Kagidoko: A Deep Learning Horror Game | 275514 | [275514-kagidoko-a-deep-learning-horror-game.json](./275514-kagidoko-a-deep-learning-horror-game.json) |
 | Kagikko Adventure | 184457 | [184457-kagikko-adventure.json](./184457-kagikko-adventure.json) |
 | Kagirinaki Tatakai | 64397 | [64397-kagirinaki-tatakai.json](./64397-kagirinaki-tatakai.json) |
@@ -1998,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Pilot | 375866 | [375866-kid-pilot.json](./375866-kid-pilot.json) |
 | Kid Speedy | 135867 | [135867-kid-speedy.json](./135867-kid-speedy.json) |
 | Kid Tripp | 36758 | [36758-kid-tripp.json](./36758-kid-tripp.json) |
+| Kid Tripp + Miles & Kilo | 137821 | [137821-kid-tripp-miles-and-kilo.json](./137821-kid-tripp-miles-and-kilo.json) |
 | Kid Venture | 85917 | [85917-kid-venture.json](./85917-kid-venture.json) |
 | Kid-Venture 2: Twas the Night Before Christmas | 55830 | [55830-kid-venture-2-twas-the-night-before-christmas.json](./55830-kid-venture-2-twas-the-night-before-christmas.json) |
 | Kid-Venture 3: Old McDonald's Farm | 55827 | [55827-kid-venture-3-old-mcdonalds-farm.json](./55827-kid-venture-3-old-mcdonalds-farm.json) |
