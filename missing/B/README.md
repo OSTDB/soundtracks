@@ -3753,7 +3753,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield | 290355 | [290355-battlefield.json](./290355-battlefield.json) |
 | Battlefield | 91210 | [91210-battlefield.json](./91210-battlefield.json) |
 | Battlefield : Run | 96215 | [96215-battlefield-run.json](./96215-battlefield-run.json) |
-| Battlefield 1: Apocalypse | 82528 | [82528-battlefield-1-apocalypse.json](./82528-battlefield-1-apocalypse.json) |
 | Battlefield 1: Deluxe Collector's Edition | 112636 | [112636-battlefield-1-deluxe-collectors-edition.json](./112636-battlefield-1-deluxe-collectors-edition.json) |
 | Battlefield 1: Early Enlister Deluxe Edition | 112635 | [112635-battlefield-1-early-enlister-deluxe-edition.json](./112635-battlefield-1-early-enlister-deluxe-edition.json) |
 | Battlefield 1: Premium Edition | 166991 | [166991-battlefield-1-premium-edition.json](./166991-battlefield-1-premium-edition.json) |
@@ -4068,7 +4067,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleWords | 121043 | [121043-battlewords.json](./121043-battlewords.json) |
 | Battlewrights | 337763 | [337763-battlewrights.json](./337763-battlewrights.json) |
 | BattleZ | 236235 | [236235-battlez.json](./236235-battlez.json) |
-| Battlezone | 14368 | [14368-battlezone.json](./14368-battlezone.json) |
 | Battlezone | 276519 | [276519-battlezone.json](./276519-battlezone.json) |
 | Battlezone | 294546 | [294546-battlezone.json](./294546-battlezone.json) |
 | Battlezone 2: Combat Commander | 24122 | [24122-battlezone-2-combat-commander.json](./24122-battlezone-2-combat-commander.json) |
