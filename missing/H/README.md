@@ -5516,6 +5516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Reborn: Enigma | 59663 | [59663-heroes-reborn-enigma.json](./59663-heroes-reborn-enigma.json) |
 | Heroes Rise Trilogy | 53192 | [53192-heroes-rise-trilogy.json](./53192-heroes-rise-trilogy.json) |
 | Heroes Rise: The Hero Project | 17490 | [17490-heroes-rise-the-hero-project.json](./17490-heroes-rise-the-hero-project.json) |
+| Heroes Rise: The Hero Project - Warning System | 170711 | [170711-heroes-rise-the-hero-project-warning-system.json](./170711-heroes-rise-the-hero-project-warning-system.json) |
 | Heroes Rise: The Prodigy | 17375 | [17375-heroes-rise-the-prodigy.json](./17375-heroes-rise-the-prodigy.json) |
 | Heroes Rush: Tactics | 54093 | [54093-heroes-rush-tactics.json](./54093-heroes-rush-tactics.json) |
 | Heroes Saga | 410192 | [410192-heroes-saga.json](./410192-heroes-saga.json) |
