@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4433,6 +4434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Jump | 328200 | [328200-bear-jump.json](./328200-bear-jump.json) |
 | Bear Knight Honey Quest | 340734 | [340734-bear-knight-honey-quest.json](./340734-bear-knight-honey-quest.json) |
 | Bear Miner | 315236 | [315236-bear-miner.json](./315236-bear-miner.json) |
+| Bear Party: Adventure | 132436 | [132436-bear-party-adventure.json](./132436-bear-party-adventure.json) |
 | Bear Shooter | 330487 | [330487-bear-shooter.json](./330487-bear-shooter.json) |
 | Bear Soul | 152686 | [152686-bear-soul.json](./152686-bear-soul.json) |
 | Bear Stearns Bravo | 308154 | [308154-bear-stearns-bravo.json](./308154-bear-stearns-bravo.json) |
@@ -7644,6 +7646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birmingham's Ghosts: Fear and Loathing | 248675 | [248675-birminghams-ghosts-fear-and-loathing.json](./248675-birminghams-ghosts-fear-and-loathing.json) |
 | Birnchen & Yoshie: Minor Confrontations | 211457 | [211457-birnchen-and-yoshie-minor-confrontations.json](./211457-birnchen-and-yoshie-minor-confrontations.json) |
 | Birola World | 267903 | [267903-birola-world.json](./267903-birola-world.json) |
+| Birth ME Code | 132416 | [132416-birth-me-code.json](./132416-birth-me-code.json) |
 | Birth of a Hunter | 115344 | [115344-birth-of-a-hunter.json](./115344-birth-of-a-hunter.json) |
 | Birth of America 2: Wars in America | 59496 | [59496-birth-of-america-2-wars-in-america.json](./59496-birth-of-america-2-wars-in-america.json) |
 | Birth of Rome: Alea Jacta Est | 62138 | [62138-birth-of-rome-alea-jacta-est.json](./62138-birth-of-rome-alea-jacta-est.json) |
@@ -10888,6 +10891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bocchi the Smash! | 263594 | [263594-bocchi-the-smash.json](./263594-bocchi-the-smash.json) |
 | BocchiField | 281964 | [281964-bocchifield.json](./281964-bocchifield.json) |
 | Bochi Collection | 391029 | [391029-bochi-collection.json](./391029-bochi-collection.json) |
+| Bock Bock | 132396 | [132396-bock-bock.json](./132396-bock-bock.json) |
 | Bockito | 272644 | [272644-bockito.json](./272644-bockito.json) |
 | Bod Squad | 47236 | [47236-bod-squad.json](./47236-bod-squad.json) |
 | Bod-1 | 291872 | [291872-bod-1.json](./291872-bod-1.json) |
@@ -15328,6 +15332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building Relationships | 152275 | [152275-building-relationships.json](./152275-building-relationships.json) |
 | Building Simulator | 46454 | [46454-building-simulator.json](./46454-building-simulator.json) |
 | Building the Great Wall of China | 91125 | [91125-building-the-great-wall-of-china.json](./91125-building-the-great-wall-of-china.json) |
+| Building the Universe | 132402 | [132402-building-the-universe.json](./132402-building-the-universe.json) |
 | Buildings Have Feelings Too! | 107268 | [107268-buildings-have-feelings-too.json](./107268-buildings-have-feelings-too.json) |
 | Buildmark | 148942 | [148942-buildmark.json](./148942-buildmark.json) |
 | BuildNow GG | 333186 | [333186-buildnow-gg.json](./333186-buildnow-gg.json) |
