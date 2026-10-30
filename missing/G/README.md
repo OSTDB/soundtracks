@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | G Fighter | 245150 | [245150-g-fighter.json](./245150-g-fighter.json) |
+| G for Gravity | 147038 | [147038-g-for-gravity.json](./147038-g-for-gravity.json) |
 | G Press | 394476 | [394476-g-press.json](./394476-g-press.json) |
 | G Prime into the Rain | 32201 | [32201-g-prime-into-the-rain.json](./32201-g-prime-into-the-rain.json) |
 | G Sides | 324399 | [324399-g-sides.json](./324399-g-sides.json) |
@@ -55,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 22: Heracles no Eikou III - Kamigami no Chinmoku | 222169 | [222169-g-mode-archives-22-heracles-no-eikou-iii-kamigami-no-chinmoku.json](./222169-g-mode-archives-22-heracles-no-eikou-iii-kamigami-no-chinmoku.json) |
 | G-Mode Archives 23: Keitai Shoujo | 222168 | [222168-g-mode-archives-23-keitai-shoujo.json](./222168-g-mode-archives-23-keitai-shoujo.json) |
 | G-Mode Archives 24: Sangokushi Nendaiki DX | 222084 | [222084-g-mode-archives-24-sangokushi-nendaiki-dx.json](./222084-g-mode-archives-24-sangokushi-nendaiki-dx.json) |
+| G-Mode Archives 25: Topolon | 147679 | [147679-g-mode-archives-25-topolon.json](./147679-g-mode-archives-25-topolon.json) |
 | G-Mode Archives 26: Ore no Sentai Oranger | 222167 | [222167-g-mode-archives-26-ore-no-sentai-oranger.json](./222167-g-mode-archives-26-ore-no-sentai-oranger.json) |
 | G-Mode Archives 27: Ninja no Gakko | 222166 | [222166-g-mode-archives-27-ninja-no-gakko.json](./222166-g-mode-archives-27-ninja-no-gakko.json) |
 | G-Mode Archives 28: Sepas Channel | 222165 | [222165-g-mode-archives-28-sepas-channel.json](./222165-g-mode-archives-28-sepas-channel.json) |
@@ -953,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallery: Coloring book & decor | 322558 | [322558-gallery-coloring-book-and-decor.json](./322558-gallery-coloring-book-and-decor.json) |
 | Gallery: Moa's Room | 221614 | [221614-gallery-moas-room.json](./221614-gallery-moas-room.json) |
 | Galletron | 13001 | [13001-galletron.json](./13001-galletron.json) |
+| Gallic Wars: Battle Simulator | 146999 | [146999-gallic-wars-battle-simulator.json](./146999-gallic-wars-battle-simulator.json) |
 | Gallipoli | 361663 | [361663-gallipoli.json](./361663-gallipoli.json) |
 | Gallipoli Trenches: The Forgotten Front WW1 | 390590 | [390590-gallipoli-trenches-the-forgotten-front-ww1.json](./390590-gallipoli-trenches-the-forgotten-front-ww1.json) |
 | Gallium | 314077 | [314077-gallium.json](./314077-gallium.json) |
@@ -2429,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gems Frontier | 98550 | [98550-gems-frontier.json](./98550-gems-frontier.json) |
 | Gems Kingdom | 111604 | [111604-gems-kingdom.json](./111604-gems-kingdom.json) |
 | Gems n' Ropes | 184724 | [184724-gems-n-ropes.json](./184724-gems-n-ropes.json) |
+| Gems of Amazon | 146509 | [146509-gems-of-amazon.json](./146509-gems-of-amazon.json) |
 | Gems of Destiny: Magic Rescue | 416696 | [416696-gems-of-destiny-magic-rescue.json](./416696-gems-of-destiny-magic-rescue.json) |
 | Gems of Egypt | 395773 | [395773-gems-of-egypt.json](./395773-gems-of-egypt.json) |
 | Gems Of Evolution | 278917 | [278917-gems-of-evolution.json](./278917-gems-of-evolution.json) |
@@ -3042,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geronimo Stilton: Return to the Kingdom of Fantasy | 42757 | [42757-geronimo-stilton-return-to-the-kingdom-of-fantasy.json](./42757-geronimo-stilton-return-to-the-kingdom-of-fantasy.json) |
 | Geronimo Stilton: Return to the Kingdom of Fantasy - The Videogame | 99956 | [99956-geronimo-stilton-return-to-the-kingdom-of-fantasy-the-videogame.json](./99956-geronimo-stilton-return-to-the-kingdom-of-fantasy-the-videogame.json) |
 | Geronimo Stilton: The Return to the Kingdom of Fantasy | 52225 | [52225-geronimo-stilton-the-return-to-the-kingdom-of-fantasy.json](./52225-geronimo-stilton-the-return-to-the-kingdom-of-fantasy.json) |
+| Gerrrms | 146998 | [146998-gerrrms.json](./146998-gerrrms.json) |
 | Gerry Anderson's Thunderbirds: Shutsudou Thunderbird 2-gou | 385726 | [385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json](./385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json) |
 | Gerry Dae | 392838 | [392838-gerry-dae.json](./392838-gerry-dae.json) |
 | Gerry the Germ Goes Body Poppin' | 26464 | [26464-gerry-the-germ-goes-body-poppin.json](./26464-gerry-the-germ-goes-body-poppin.json) |
@@ -3064,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gesui Oukoku | 412251 | [412251-gesui-oukoku.json](./412251-gesui-oukoku.json) |
 | Gesuido | 166516 | [166516-gesuido.json](./166516-gesuido.json) |
 | Get 'Em Hard | 141577 | [141577-get-em-hard.json](./141577-get-em-hard.json) |
+| Get 10 Quest | 147680 | [147680-get-10-quest.json](./147680-get-10-quest.json) |
 | Get a Body Language Expert, Pronto! | 339597 | [339597-get-a-body-language-expert-pronto.json](./339597-get-a-body-language-expert-pronto.json) |
 | Get a Life | 151466 | [151466-get-a-life.json](./151466-get-a-life.json) |
 | Get a Midnight Snack without Mom Knowing | 337552 | [337552-get-a-midnight-snack-without-mom-knowing.json](./337552-get-a-midnight-snack-without-mom-knowing.json) |
@@ -4161,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give Up 2 | 250183 | [250183-give-up-2.json](./250183-give-up-2.json) |
 | Give Up Robot 2 | 281591 | [281591-give-up-robot-2.json](./281591-give-up-robot-2.json) |
 | Give Up the Ghost: A Puzzle Checklist | 206471 | [206471-give-up-the-ghost-a-puzzle-checklist.json](./206471-give-up-the-ghost-a-puzzle-checklist.json) |
+| Give Up, Robot | 147049 | [147049-give-up-robot.json](./147049-give-up-robot.json) |
 | Giving Yourself Away | 340826 | [340826-giving-yourself-away.json](./340826-giving-yourself-away.json) |
 | Givling | 18319 | [18319-givling.json](./18319-givling.json) |
 | Gizmo | 112825 | [112825-gizmo.json](./112825-gizmo.json) |
@@ -4752,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Lights Off | 122773 | [122773-gnome-lights-off.json](./122773-gnome-lights-off.json) |
 | Gnome Mahjongg | 122768 | [122768-gnome-mahjongg.json](./122768-gnome-mahjongg.json) |
 | Gnome Mines | 122755 | [122755-gnome-mines.json](./122755-gnome-mines.json) |
+| Gnome More War | 147684 | [147684-gnome-more-war.json](./147684-gnome-more-war.json) |
 | Gnome Nations | 106595 | [106595-gnome-nations.json](./106595-gnome-nations.json) |
 | Gnome Nibbles | 122778 | [122778-gnome-nibbles.json](./122778-gnome-nibbles.json) |
 | Gnome Online | 199503 | [199503-gnome-online.json](./199503-gnome-online.json) |
@@ -6494,6 +6502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorilla Adventure | 310802 | [310802-gorilla-adventure.json](./310802-gorilla-adventure.json) |
 | Gorilla Attack | 329000 | [329000-gorilla-attack.json](./329000-gorilla-attack.json) |
 | Gorilla Banana | 375451 | [375451-gorilla-banana.json](./375451-gorilla-banana.json) |
+| Gorilla Big Adventure | 147687 | [147687-gorilla-big-adventure.json](./147687-gorilla-big-adventure.json) |
 | Gorilla Cop | 392725 | [392725-gorilla-cop.json](./392725-gorilla-cop.json) |
 | Gorilla Online! | 188402 | [188402-gorilla-online.json](./188402-gorilla-online.json) |
 | Gorilla Showdown | 396646 | [396646-gorilla-showdown.json](./396646-gorilla-showdown.json) |
@@ -7716,6 +7725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great 1000 Miles Rally: Evolution Model!!! | 40157 | [40157-great-1000-miles-rally-evolution-model.json](./40157-great-1000-miles-rally-evolution-model.json) |
 | Great Adventures Lost Mountains | 54060 | [54060-great-adventures-lost-mountains.json](./54060-great-adventures-lost-mountains.json) |
 | Great Adventures: Castle | 167280 | [167280-great-adventures-castle.json](./167280-great-adventures-castle.json) |
+| Great Adventures: Lost in Mountains | 146477 | [146477-great-adventures-lost-in-mountains.json](./146477-great-adventures-lost-in-mountains.json) |
 | Great Adventures: Pirate Ship | 63892 | [63892-great-adventures-pirate-ship.json](./63892-great-adventures-pirate-ship.json) |
 | Great Again | 244853 | [244853-great-again.json](./244853-great-again.json) |
 | Great Again: 3D Shooter | 330230 | [330230-great-again-3d-shooter.json](./330230-great-again-3d-shooter.json) |
