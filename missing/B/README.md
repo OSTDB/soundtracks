@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back To Back | 379992 | [379992-back-to-back.json](./379992-back-to-back.json) |
 | Back to Base(Q2)ics Jam 1 | 316741 | [316741-back-to-base-q2-ics-jam-1.json](./316741-back-to-base-q2-ics-jam-1.json) |
 | Back to Basics | 256852 | [256852-back-to-basics.json](./256852-back-to-basics.json) |
+| Back to Bed | 135454 | [135454-back-to-bed.json](./135454-back-to-bed.json) |
 | Back to Bed | 392381 | [392381-back-to-bed.json](./392381-back-to-bed.json) |
 | Back to Bed | 9418 | [9418-back-to-bed.json](./9418-back-to-bed.json) |
 | Back to Belt | 164581 | [164581-back-to-belt.json](./164581-back-to-belt.json) |
@@ -861,7 +862,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9437,6 +9437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Multiplayer: RPG | 128377 | [128377-block-multiplayer-rpg.json](./128377-block-multiplayer-rpg.json) |
 | Block N Load | 8437 | [8437-block-n-load.json](./8437-block-n-load.json) |
 | Block N Load 2 | 204443 | [204443-block-n-load-2.json](./204443-block-n-load-2.json) |
+| Block Out | 135457 | [135457-block-out.json](./135457-block-out.json) |
 | Block Out | 246386 | [246386-block-out.json](./246386-block-out.json) |
 | Block Paradise | 303362 | [303362-block-paradise.json](./303362-block-paradise.json) |
 | Block Parkour Craft 3D | 104548 | [104548-block-parkour-craft-3d.json](./104548-block-parkour-craft-3d.json) |
