@@ -1097,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umpteenth Photo | 386887 | [386887-umpteenth-photo.json](./386887-umpteenth-photo.json) |
 | UMS II: Nations at War | 74007 | [74007-ums-ii-nations-at-war.json](./74007-ums-ii-nations-at-war.json) |
 | UMS: The Universal Military Simulator | 37154 | [37154-ums-the-universal-military-simulator.json](./37154-ums-the-universal-military-simulator.json) |
+| Umurangi Generation: Macro | 139015 | [139015-umurangi-generation-macro.json](./139015-umurangi-generation-macro.json) |
 | Un juego de huevos | 81390 | [81390-un-juego-de-huevos.json](./81390-un-juego-de-huevos.json) |
 | Un Pas Fragile | 120003 | [120003-un-pas-fragile.json](./120003-un-pas-fragile.json) |
 | Un Paseo Por Villa Tronco | 396527 | [396527-un-paseo-por-villa-tronco.json](./396527-un-paseo-por-villa-tronco.json) |
@@ -3091,6 +3092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urgent Message | 343232 | [343232-urgent-message.json](./343232-urgent-message.json) |
 | Uridium 2 | 12808 | [12808-uridium-2.json](./12808-uridium-2.json) |
 | Uridium Plus | 140259 | [140259-uridium-plus.json](./140259-uridium-plus.json) |
+| Uridium Plus & Paradroid: Competition Edition | 137262 | [137262-uridium-plus-and-paradroid-competition-edition.json](./137262-uridium-plus-and-paradroid-competition-edition.json) |
 | Urinary Samus | 343367 | [343367-urinary-samus.json](./343367-urinary-samus.json) |
 | Urizen Frosty Plus the New Warriors | 169828 | [169828-urizen-frosty-plus-the-new-warriors.json](./169828-urizen-frosty-plus-the-new-warriors.json) |
 | Urja | 36064 | [36064-urja.json](./36064-urja.json) |
