@@ -1617,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Quest 4 | 345656 | [345656-dark-quest-4.json](./345656-dark-quest-4.json) |
 | Dark Quest: Remastered | 389079 | [389079-dark-quest-remastered.json](./389079-dark-quest-remastered.json) |
 | Dark Quiet Death | 185869 | [185869-dark-quiet-death.json](./185869-dark-quiet-death.json) |
+| Dark Rage | 147019 | [147019-dark-rage.json](./147019-dark-rage.json) |
 | Dark Raid | 17238 | [17238-dark-raid.json](./17238-dark-raid.json) |
 | Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
 | Dark Rail | 410670 | [410670-dark-rail.json](./410670-dark-rail.json) |
@@ -4403,6 +4404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decay: The Mare - Episode 2 | 79949 | [79949-decay-the-mare-episode-2.json](./79949-decay-the-mare-episode-2.json) |
 | Decayed | 280301 | [280301-decayed.json](./280301-decayed.json) |
 | Decayed Evil | 368032 | [368032-decayed-evil.json](./368032-decayed-evil.json) |
+| Decaying Delicacy | 146493 | [146493-decaying-delicacy.json](./146493-decaying-delicacy.json) |
 | Decaying Flowers | 98459 | [98459-decaying-flowers.json](./98459-decaying-flowers.json) |
 | Decaying Memories | 344409 | [344409-decaying-memories.json](./344409-decaying-memories.json) |
 | Decaying Orbit | 266643 | [266643-decaying-orbit.json](./266643-decaying-orbit.json) |
@@ -7331,6 +7333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devinica | 253979 | [253979-devinica.json](./253979-devinica.json) |
 | Devious | 99156 | [99156-devious.json](./99156-devious.json) |
 | Devious Dungeon 2 | 68988 | [68988-devious-dungeon-2.json](./68988-devious-dungeon-2.json) |
+| Devious Dungeon Collection | 147669 | [147669-devious-dungeon-collection.json](./147669-devious-dungeon-collection.json) |
 | Devious Lick | 224502 | [224502-devious-lick.json](./224502-devious-lick.json) |
 | Devious Path | 317405 | [317405-devious-path.json](./317405-devious-path.json) |
 | DeviousMUD | 66415 | [66415-deviousmud.json](./66415-deviousmud.json) |
@@ -12457,6 +12460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doukyuusei Classmates | 41993 | [41993-doukyuusei-classmates.json](./41993-doukyuusei-classmates.json) |
 | Doula Continent: Awakening Soul | 193929 | [193929-doula-continent-awakening-soul.json](./193929-doula-continent-awakening-soul.json) |
 | Doula Continent: Soul Master Duel | 174708 | [174708-doula-continent-soul-master-duel.json](./174708-doula-continent-soul-master-duel.json) |
+| Dòuluó Dàlù: Wángguó Yìnjì | 147033 | [147033-douluo-dalu-wangguo-yinji.json](./147033-douluo-dalu-wangguo-yinji.json) |
 | Doupleri | 295082 | [295082-doupleri.json](./295082-doupleri.json) |
 | Douri Hazure | 151842 | [151842-douri-hazure.json](./151842-douri-hazure.json) |
 | Dousoukai wa Koi no Hajimari | 238407 | [238407-dousoukai-wa-koi-no-hajimari.json](./238407-dousoukai-wa-koi-no-hajimari.json) |
@@ -13348,6 +13352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Mania Legends | 58917 | [58917-dragon-mania-legends.json](./58917-dragon-mania-legends.json) |
 | Dragon March | 348179 | [348179-dragon-march.json](./348179-dragon-march.json) |
 | Dragon Marked for Death: Advanced Attackers | 147998 | [147998-dragon-marked-for-death-advanced-attackers.json](./147998-dragon-marked-for-death-advanced-attackers.json) |
+| Dragon Marked for Death: Frontline Fighters | 147676 | [147676-dragon-marked-for-death-frontline-fighters.json](./147676-dragon-marked-for-death-frontline-fighters.json) |
 | Dragon Master | 209127 | [209127-dragon-master.json](./209127-dragon-master.json) |
 | Dragon Master | 46780 | [46780-dragon-master.json](./46780-dragon-master.json) |
 | Dragon Master Spell Caster | 51118 | [51118-dragon-master-spell-caster.json](./51118-dragon-master-spell-caster.json) |
@@ -14187,6 +14192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Escaper | 225346 | [225346-dream-escaper.json](./225346-dream-escaper.json) |
 | Dream Factory | 34319 | [34319-dream-factory.json](./34319-dream-factory.json) |
 | Dream Fallen: Vila do Chaves | 188082 | [188082-dream-fallen-vila-do-chaves.json](./188082-dream-fallen-vila-do-chaves.json) |
+| Dream Farm | 146508 | [146508-dream-farm.json](./146508-dream-farm.json) |
 | Dream Fight Will | 216735 | [216735-dream-fight-will.json](./216735-dream-fight-will.json) |
 | Dream Fire | 241951 | [241951-dream-fire.json](./241951-dream-fire.json) |
 | Dream Fishing | 128823 | [128823-dream-fishing.json](./128823-dream-fishing.json) |
@@ -14266,6 +14272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Mysteries: Case of the Red Fox | 294201 | [294201-dream-mysteries-case-of-the-red-fox.json](./294201-dream-mysteries-case-of-the-red-fox.json) |
 | Dream of a Sunflower | 230165 | [230165-dream-of-a-sunflower.json](./230165-dream-of-a-sunflower.json) |
 | Dream of Anastasia | 299601 | [299601-dream-of-anastasia.json](./299601-dream-of-anastasia.json) |
+| Dream of Bells | 147022 | [147022-dream-of-bells.json](./147022-dream-of-bells.json) |
 | Dream of Gluttony | 130655 | [130655-dream-of-gluttony.json](./130655-dream-of-gluttony.json) |
 | Dream of Grandma | 362224 | [362224-dream-of-grandma.json](./362224-dream-of-grandma.json) |
 | Dream of Hakugyokurou | 159522 | [159522-dream-of-hakugyokurou.json](./159522-dream-of-hakugyokurou.json) |
@@ -14549,12 +14556,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscapes: The Sandman - Collector's Edition | 356189 | [356189-dreamscapes-the-sandman-collectors-edition.json](./356189-dreamscapes-the-sandman-collectors-edition.json) |
 | Dreamscapes: The Sandman - Premium Edition | 36383 | [36383-dreamscapes-the-sandman-premium-edition.json](./36383-dreamscapes-the-sandman-premium-edition.json) |
 | DreamScript | 158050 | [158050-dreamscript.json](./158050-dreamscript.json) |
+| Dreamsdwell Stories | 146506 | [146506-dreamsdwell-stories.json](./146506-dreamsdwell-stories.json) |
 | Dreamsend: Wintersong | 411537 | [411537-dreamsend-wintersong.json](./411537-dreamsend-wintersong.json) |
 | Dreamsettler | 196002 | [196002-dreamsettler.json](./196002-dreamsettler.json) |
 | Dreamshard | 132750 | [132750-dreamshard.json](./132750-dreamshard.json) |
 | Dreamshift | 383797 | [383797-dreamshift.json](./383797-dreamshift.json) |
 | DreamShock | 316159 | [316159-dreamshock.json](./316159-dreamshock.json) |
 | Dreamshot Fantasia | 278914 | [278914-dreamshot-fantasia.json](./278914-dreamshot-fantasia.json) |
+| Dreamside Maroon | 146480 | [146480-dreamside-maroon.json](./146480-dreamside-maroon.json) |
 | Dreamslayer | 285058 | [285058-dreamslayer.json](./285058-dreamslayer.json) |
 | DreamSleuth: hidden object adventure quest lite | 88311 | [88311-dreamsleuth-hidden-object-adventure-quest-lite.json](./88311-dreamsleuth-hidden-object-adventure-quest-lite.json) |
 | Dreamsong | 185299 | [185299-dreamsong.json](./185299-dreamsong.json) |
@@ -17072,6 +17081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying for Daylight | 79904 | [79904-dying-for-daylight.json](./79904-dying-for-daylight.json) |
 | Dying For Treasure | 141007 | [141007-dying-for-treasure.json](./141007-dying-for-treasure.json) |
 | Dying In Dungeon | 181765 | [181765-dying-in-dungeon.json](./181765-dying-in-dungeon.json) |
+| Dying is Dangerous | 147592 | [147592-dying-is-dangerous.json](./147592-dying-is-dangerous.json) |
 | Dying Light 2 Stay Human: Digital Extras Edition | 331266 | [331266-dying-light-2-stay-human-digital-extras-edition.json](./331266-dying-light-2-stay-human-digital-extras-edition.json) |
 | Dying Light 2: Stay Human - Bloody Ties | 214400 | [214400-dying-light-2-stay-human-bloody-ties.json](./214400-dying-light-2-stay-human-bloody-ties.json) |
 | Dying Light 2: Stay Human - Chicken Bundle | 243671 | [243671-dying-light-2-stay-human-chicken-bundle.json](./243671-dying-light-2-stay-human-chicken-bundle.json) |
