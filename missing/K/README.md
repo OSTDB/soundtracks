@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiddy Kong's Challenge | 307718 | [307718-kiddy-kongs-challenge.json](./307718-kiddy-kongs-challenge.json) |
 | Kiddy Memory | 221264 | [221264-kiddy-memory.json](./221264-kiddy-memory.json) |
 | Kidgames | 131351 | [131351-kidgames.json](./131351-kidgames.json) |
+| Kidgilantes | 158859 | [158859-kidgilantes.json](./158859-kidgilantes.json) |
 | Kidname: Iceboy | 323333 | [323333-kidname-iceboy.json](./323333-kidname-iceboy.json) |
 | Kidnapped | 26517 | [26517-kidnapped.json](./26517-kidnapped.json) |
 | Kidnapped | 296330 | [296330-kidnapped.json](./296330-kidnapped.json) |
@@ -2369,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Pool | 175279 | [175279-killer-pool.json](./175279-killer-pool.json) |
 | Killer Queen | 63050 | [63050-killer-queen.json](./63050-killer-queen.json) |
 | Killer Queen Black | 103342 | [103342-killer-queen-black.json](./103342-killer-queen-black.json) |
+| Killer Ricky | 158877 | [158877-killer-ricky.json](./158877-killer-ricky.json) |
 | Killer Satellites | 18570 | [18570-killer-satellites.json](./18570-killer-satellites.json) |
 | Killer Score | 83160 | [83160-killer-score.json](./83160-killer-score.json) |
 | Killer Shark | 18203 | [18203-killer-shark.json](./18203-killer-shark.json) |
@@ -3092,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of the Untitled Magic | 154033 | [154033-kingdom-of-the-untitled-magic.json](./154033-kingdom-of-the-untitled-magic.json) |
 | Kingdom of the Winds: Yeon | 140257 | [140257-kingdom-of-the-winds-yeon.json](./140257-kingdom-of-the-winds-yeon.json) |
 | Kingdom of Velvet Сhains | 385315 | [385315-kingdom-of-velvet-hains.json](./385315-kingdom-of-velvet-hains.json) |
+| Kingdom of Wreck Business | 158867 | [158867-kingdom-of-wreck-business.json](./158867-kingdom-of-wreck-business.json) |
 | Kingdom Online | 62626 | [62626-kingdom-online.json](./62626-kingdom-online.json) |
 | Kingdom Quest | 236208 | [236208-kingdom-quest.json](./236208-kingdom-quest.json) |
 | Kingdom Rules | 412390 | [412390-kingdom-rules.json](./412390-kingdom-rules.json) |
@@ -3239,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KingSim | 126948 | [126948-kingsim.json](./126948-kingsim.json) |
 | Kingsland Online | 137551 | [137551-kingsland-online.json](./137551-kingsland-online.json) |
 | Kingslayer Tactics | 117065 | [117065-kingslayer-tactics.json](./117065-kingslayer-tactics.json) |
+| Kingslayer: The First Assassin | 158873 | [158873-kingslayer-the-first-assassin.json](./158873-kingslayer-the-first-assassin.json) |
 | Kingslayers | 174052 | [174052-kingslayers.json](./174052-kingslayers.json) |
 | Kingslayers | 334935 | [334935-kingslayers.json](./334935-kingslayers.json) |
 | Kingsman: The Golden Circle | 54712 | [54712-kingsman-the-golden-circle.json](./54712-kingsman-the-golden-circle.json) |
