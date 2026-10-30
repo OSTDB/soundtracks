@@ -1649,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Roll | 112861 | [112861-dark-roll.json](./112861-dark-roll.json) |
 | Dark Roll: Free Kick Challenge | 157943 | [157943-dark-roll-free-kick-challenge.json](./157943-dark-roll-free-kick-challenge.json) |
 | Dark Romance: Ashville | 139798 | [139798-dark-romance-ashville.json](./139798-dark-romance-ashville.json) |
+| Dark Romance: Ashville - Collector's Edition | 132432 | [132432-dark-romance-ashville-collectors-edition.json](./132432-dark-romance-ashville-collectors-edition.json) |
 | Dark Romance: Curse of Bluebeard - Collector's Edition | 146516 | [146516-dark-romance-curse-of-bluebeard-collectors-edition.json](./146516-dark-romance-curse-of-bluebeard-collectors-edition.json) |
 | Dark Romance: Heart of the Beast - Collector's Edition | 95242 | [95242-dark-romance-heart-of-the-beast-collectors-edition.json](./95242-dark-romance-heart-of-the-beast-collectors-edition.json) |
 | Dark Romance: Heart of the Beast HD | 88814 | [88814-dark-romance-heart-of-the-beast-hd.json](./88814-dark-romance-heart-of-the-beast-hd.json) |
@@ -1911,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Valley | 139397 | [139397-darkest-valley.json](./139397-darkest-valley.json) |
 | Darkest Wave | 229818 | [229818-darkest-wave.json](./229818-darkest-wave.json) |
 | Darkestville Castle | 59252 | [59252-darkestville-castle.json](./59252-darkestville-castle.json) |
+| Darkevo | 132398 | [132398-darkevo.json](./132398-darkevo.json) |
 | Darkfall | 303455 | [303455-darkfall.json](./303455-darkfall.json) |
 | Darkfall Shadows | 382549 | [382549-darkfall-shadows.json](./382549-darkfall-shadows.json) |
 | Darkfall Unholy Wars | 8185 | [8185-darkfall-unholy-wars.json](./8185-darkfall-unholy-wars.json) |
@@ -6118,6 +6120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dentures and Demons 2 | 145008 | [145008-dentures-and-demons-2.json](./145008-dentures-and-demons-2.json) |
 | Deo | 288087 | [288087-deo.json](./288087-deo.json) |
 | Deodar | 360742 | [360742-deodar.json](./360742-deodar.json) |
+| Deodato's Cannibal | 132409 | [132409-deodatos-cannibal.json](./132409-deodatos-cannibal.json) |
 | Deorum | 376205 | [376205-deorum.json](./376205-deorum.json) |
 | Deorum Online | 121412 | [121412-deorum-online.json](./121412-deorum-online.json) |
 | Deosurge | 183080 | [183080-deosurge.json](./183080-deosurge.json) |
@@ -9903,6 +9906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity: Original Sin II - Divine Edition | 154209 | [154209-divinity-original-sin-ii-divine-edition.json](./154209-divinity-original-sin-ii-divine-edition.json) |
 | Divinoids | 132077 | [132077-divinoids.json](./132077-divinoids.json) |
 | Divinus Vanitas | 215921 | [215921-divinus-vanitas.json](./215921-divinus-vanitas.json) |
+| Divisadero | 132445 | [132445-divisadero.json](./132445-divisadero.json) |
 | Division | 217209 | [217209-division.json](./217209-division.json) |
 | Division 1 | 42174 | [42174-division-1.json](./42174-division-1.json) |
 | División Especial de Detectives! | 159011 | [159011-division-especial-de-detectives.json](./159011-division-especial-de-detectives.json) |
@@ -16363,6 +16367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Astaroth | 293976 | [293976-dungeon-of-astaroth.json](./293976-dungeon-of-astaroth.json) |
 | Dungeon of Calibris: Demon Orb | 412011 | [412011-dungeon-of-calibris-demon-orb.json](./412011-dungeon-of-calibris-demon-orb.json) |
 | Dungeon of Choices | 178859 | [178859-dungeon-of-choices.json](./178859-dungeon-of-choices.json) |
+| Dungeon of Dark | 132444 | [132444-dungeon-of-dark.json](./132444-dungeon-of-dark.json) |
 | Dungeon of Departure | 378235 | [378235-dungeon-of-departure.json](./378235-dungeon-of-departure.json) |
 | Dungeon of Despair | 193990 | [193990-dungeon-of-despair.json](./193990-dungeon-of-despair.json) |
 | Dungeon of Destiny | 251783 | [251783-dungeon-of-destiny.json](./251783-dungeon-of-destiny.json) |
