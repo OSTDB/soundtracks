@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Simulator | 380048 | [380048-cafe-simulator.json](./380048-cafe-simulator.json) |
 | Cafe Space Angel | 180533 | [180533-cafe-space-angel.json](./180533-cafe-space-angel.json) |
 | Café Stella and the Reaper's Butterflies | 195774 | [195774-cafe-stella-and-the-reapers-butterflies.json](./195774-cafe-stella-and-the-reapers-butterflies.json) |
+| Cafe Stella to Shinigami no Chou | 129945 | [129945-cafe-stella-to-shinigami-no-chou.json](./129945-cafe-stella-to-shinigami-no-chou.json) |
 | Cafe Terrace | 221343 | [221343-cafe-terrace.json](./221343-cafe-terrace.json) |
 | Cafe Tsuku: Is the order a Heart? | 204711 | [204711-cafe-tsuku-is-the-order-a-heart.json](./204711-cafe-tsuku-is-the-order-a-heart.json) |
 | Cafe Venus Flytrap | 247458 | [247458-cafe-venus-flytrap.json](./247458-cafe-venus-flytrap.json) |
